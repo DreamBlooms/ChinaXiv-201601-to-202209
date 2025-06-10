@@ -1,0 +1,174 @@
+# 生态输水前后台特玛湖植物多样性变化特征
+
+王雅梅'，张青青'，徐海量²，赵新风²，刘星宏'，李金³(1．新疆农业大学,新疆 乌鲁木齐830052；2．中国科学院新疆生态与地理研究所,新疆 乌鲁木齐830011;3．新疆师范大学，新疆 乌鲁木齐830054)
+
+摘要：通过综合分析台特玛湖 2000—2017年连续的植被数据资料,对每个监测断面的漫溢样地和无漫溢样地（即对照样地)的植被变化开展野外调查和数据采集工作。研究发现： $\textcircled{1}$ 随着生态输水的进行，台特玛湖植被的生态效益逐渐显现，生物多样性明显增加。在漫溢区,单位面积物种数、植被盖度和植被密度的平均值分别为6.8种·( $1 0 0 \mathrm { m } ^ { 2 }$ )-1、 $3 0 \%$ 和1350个·（ $1 0 0 \mathrm { m } ^ { 2 }$ ）-1，较地下水抬升区分别增加了3倍、3.29倍和49倍;并且输水前(2000年)湖区植物有2科3属7种,输水后增至10科21属26种,增加了8科18属19 种。 $\textcircled{2}$ 近十几年生态输水过程中,台特玛湖植被向以芦苇(Phragmites australis)为主的盐渍化低地草甸方向发展,趋于简单化。演变特征主要为：输水初期(2000—2005年)地表植被以新萌发的一年生草本占主要优势(重要值0.50）,其次是多年生草本（重要值0.20）,最后是灌木（重要值0.10);随输水的进行,2009年一年生草本植物减少,进而被灌木与多年生草本替代：灌木为盐穗木（Halostachys caspica）、盐节木（Halocnemum strobilaceum)等原生盐生植物,且出现新萌发的幼苗,多年生草本为芦苇;2012—2016 年,在输水之后充沛的水资源环境下,优势种组成趋于简单,植被向以芦苇为主的盐渍化低地草甸方向发展。
+
+关键词：生态输水；植物多样性；植物群落；台特玛湖
+
+植物物种多样性是物种多样性的一种表现形式，可以从不同层次与尺度表现研究区域内植物组成的时间与空间变化，对于认识生态系统结构与功能、保护生物多样性和优化生态系统管理具有重要意义，也是研究植物群落及多样性特征的基础[1-3]。在台特玛湖，随着生态输水的进行，其周围的生态环境不断得到改善,植物物种多样性朝积极方向发展[4]
+
+塔里木河下游是我国生态环境最为脆弱的地区之—[5-7],而台特玛湖作为塔里木河下游的尾闾湖,由于下游的断流[8-9],环境亦趋于恶化,植物物种多样性不断减小。但台特玛湖自古以来就是内地通往中亚和新疆的战略通道，若沙漠化势必会影响陆上交通安全[10-11],同时破坏该地区的生态安全[12-13]。为挽救和恢复其不断恶化的生态环境，自2000 年以来，开展了大规模的生态输水工程，到目前为止，生态输水实施已近18a,其间几十亿方生态水已成功输送到塔里木河下游，使下流的生态水量呈现增加的趋势，从而使更多的水汇入台特玛湖，加上近两年车尔臣河是丰水年，2017年台特玛湖面积达511$ { \mathrm { k m } } ^ { 2 }$ ,达到历史最大面积,展示了塔里木河流域综合治理的成效显著。不仅使流域生态环境得到改善[14-16],也为研究台特玛湖生态输水前后植物多样性变化特征提供了良好契机。
+
+国内关于塔里木河下游及其台特玛湖的研究取得了较丰硕的成果[17-18]。陈国亮[19]指出,1972 年以来台特玛湖干涸，塔里木河生态输水前后，台特玛湖湖面年际、年内变化较大。自2000 年以来生态输水工程的开展，台特玛湖面积逐年递增，周边植被生长状况得到改善[20],张鹏飞等[2I]分析了塔里木河源流下泄水量与台特玛湖面积变化等指标。也有关于生态输水对于河流沿岸天然植被的影响[22-23] 。而关于台特玛湖输水前后长时间序列的植物多样性变化特征的研究较为少见，因此，通过分析输水前后植物群落的变化及其特征、自然植被及其优势种群生态系统结构，得到台特玛湖植被多样性的变化特征，这是了解生态恢复程度、进行区域生态治理和科学管理的前提，同时也为其他地区开展类似的生态工程提供参考。
+
+![](images/8a852489f5d1963666fe342587d138e043411021f36389a44edd9df071e78381.jpg)  
+注：蓝色四角星为台特玛湖区，红色点表示监测样地。  
+图1台特玛湖区域地理位置及固定样地位置示意图  
+Fig.1Geographical locations of the Taitema Lake area and the sample plots
+
+# 1 研究区概况
+
+台特玛湖位于若羌县中部，是由阿尔金山山前平原和塔里木河及车尔臣河冲积平原交汇处的低地积水形成的，过去曾和罗布泊相通；1982一1998 年台特玛湖连续干涸 $1 7 \mathrm { ~ a ~ }$ ，使湖西岸发展成重度沙漠化,湖泊沉积物以细沙为主，在强劲的东北风吹蚀下,极易就地起沙[24]。研究区属暖温带大陆性荒漠气候,年均降水量 $2 8 . 5 ~ \mathrm { m m }$ ,年极端最大降水量$1 1 8 . 0 \ \mathrm { m m }$ ;年均蒸发量 $2 \ 9 2 0 . 2 \ \mathrm { m m }$ ,最大蒸发量$3 ~ 3 6 8 . 1 ~ \mathrm { m m }$ 。植被以干旱荒漠原始天然植被为主。由于生态输水工程及塔里木河综合治理工程，基本实现了大西海子水库年均下泄水量 $3 . 5 0 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 }$ 的预期目标，加上车尔臣河近两年来水偏丰，加大了对台特玛湖的入湖水量;在西部形成的康拉克湖区、博斯坦湖区面积也逐步扩大，本文将台特玛湖区、康拉克湖区、博斯坦湖区统称为台特玛湖区[25],地理位置见图1所示。
+
+# 2 研究方法
+
+# 2.1植物群落特征调查及分析
+
+2.1.1调查样地设置基于多年调查研究资料，积累了台特玛湖2001一2017年连续的植被数据资料。本研究在每个监测断面分别设置漫溢样地和无漫溢样地（即对照样地），针对漫溢条件与无漫溢条件下植被变化差异开展野外调查和数据采集工作。鉴于道路的通畅程度、监测样地的可达性，监测样地位置分布于研究区的东面（图1）。
+
+2.1.2野外植被调查在2001 年共布置39 个50$\mathrm { m } \times 5 0 \mathrm { ~ m ~ }$ 的固定监测样地，每年进行2次植被监测(5月中旬、7月中旬各1次），在每个样地内，按对角线法选取3个 $1 \mathrm { ~ m ~ } { \times } 1 \mathrm { ~ m ~ }$ 的小样方(灌木取 $2 { \mathrm { ~ m ~ } } \times$ $2 \mathrm { ~ m ~ }$ 或 $5 \mathrm { ~ m ~ } { \times } 5 \mathrm { ~ m ~ }$ )。监测内容包括：植被盖度、地表植被物种组成、每种植物的个体数、高度、冠幅等指标，至2018年共积累18a的一手资料;其中受河水漫溢影响的样地有29个，不受河水漫溢干扰的样地(非漫溢区)有10个。漫溢样地的布设：沿两个方向布置，一个方向是以原湖心（位于目前的台特玛湖管理站)为中心、沿着南北方向布设点，另一方向以研究区内218国道与214省道交汇口为起点，沿着东北方向(36团方向)布点。非漫溢区距原湖心位置 $3 0 ~ \mathrm { k m }$ 左右，同样位于以上两个方向，只是离湖心较远。2009年以后由于8个样地被破坏无法调查或被水长期淹没外，目前只剩下23个，表1显示了目前未被淹没的具有连续18a监测的12个样地的地理坐标。
+
+漫溢区共有16个固定监测样地（包括表1中的12个，其余4个在2012 年之后被水淹没，成为湖面，不计入调查统计），通过多年来水实际情况，生态输水对台特玛湖区的漫溢干扰方式有： $\textcircled{1}$ 多次漫溢； $\textcircled{2}$ 较少次数漫溢; $\textcircled{3}$ 长期渍水。非漫溢区包括
+
+# 表1研究区固定监测样地地理位置
+
+Tab.1Geographical locations of the sample plots in the study area   
+
+<html><body><table><tr><td>样地</td><td>纬度(N)</td><td>经度(E)</td><td>海拔/m</td></tr><tr><td>样地1</td><td>37°34'7.9"</td><td>88°32'42.0"</td><td>798.2</td></tr><tr><td>样地2</td><td>39°32'16.5"</td><td>88°22'23.9"</td><td>793.4</td></tr><tr><td>样地3</td><td>39°31'30.3"</td><td>88°21'22.8"</td><td>793.3</td></tr><tr><td>样地4</td><td>39°28'55.8"</td><td>88°17'03.0"</td><td>796.0</td></tr><tr><td>样地5</td><td>39°26'33.6"</td><td>88°15'43.4"</td><td>799.5</td></tr><tr><td>样地6</td><td>39°14'6.3"</td><td>88°11'53.5"</td><td>801.0</td></tr><tr><td>样地7</td><td>39°29'40.2"</td><td>88°23'23.7"</td><td>802.0</td></tr><tr><td>样地8</td><td>39°29'56.7"</td><td>88°22'51.5"</td><td>791.0</td></tr><tr><td>样地9</td><td>39°30'17"</td><td>88°22'23.1"</td><td>786.0</td></tr><tr><td>样地10</td><td>39°30'14.7"</td><td>88°22'15.9"</td><td>794.0</td></tr><tr><td>样地11</td><td>39°30'19.7"</td><td>88°22'06.8"</td><td>794.0</td></tr><tr><td>样地12</td><td>39°30'15.9"</td><td>88°21'56.3"</td><td>794.0</td></tr></table></body></html>
+
+两种类型：一种是距湖心超过 $3 0 ~ \mathrm { k m }$ 、距湖边 $> 1 0$ $\mathrm { k m }$ ,不受台特玛湖地下水位抬升或下降的影响；而另一种是距湖心 $3 0 ~ \mathrm { k m }$ 以内、距湖边 $1 \sim 5 ~ \mathrm { k m }$ ，不受台特玛湖地表水漫溢干扰，但受其地下水位影响，也叫地下水位抬升区。
+
+2.1.3数据统计分析基于野外调查结果,同时选取计算Margalef 指数、Simpson 指数、Shannon-Wiener指数和Pielou指数来反映植被物种多样性的变化情况。Margalef指数 $( D )$ 代表了物种的丰富度;Simpson指数 $( D )$ 是反映群落优势度较好的一个指标;Shannon-Wiener指数的计算公式表明，群落中生物种类增多代表了群落的复杂程度增高，即Shannon-Wiener指数 $( H )$ 值越大，群落所含的信息量越大。Pielou指数 $( E )$ 反映了群落中物种的平衡度， $H _ { \mathrm { m a x } }$ 代表在一个样地真菌群落中各物种数相同时的最大物种多样性，计算公式如下所示：
+
+重要值： $I V =$ （相对密度 $^ +$ 相对频度 $^ +$
+
+相对盖度)／3
+
+式中： $s$ 为群落中的物种总数目; $N$ 为观察到的所有物种的个体总数。
+
+Simpson指数： $D = 1 - \sum _ { i = 1 } ^ { s } P _ { i } ^ { 2 } \left( i = 1 , 2 , \cdots , S \right)$
+
+Shannon-Wiener指数： $H = - \sum _ { i = 1 } ^ { s } ( P _ { i } \mathrm { l n } P _ { i } )$ (4)式中： $N$ 为样方的总个体数； $N _ { i }$ 为第 $\mathbf { \chi } _ { i }$ 种的个体数； $s$ 为样方的总物种数； $\boldsymbol { P } _ { i }$ 表明第 $i$ 个物种的出现频率，$P _ { i } = N _ { i } / N _ { \mathrm { c } }$
+
+Pielou指数： $E = H ^ { \prime } / H _ { \mathrm { m a x } }$
+
+式中： $H ^ { \prime }$ 为实际观察的物种多样性指数； $H _ { \mathrm { m a x } }$ 为最大的物种多样性指数， $H _ { \mathrm { m a x } } = \ln S ( S$ 为群落中的总物种数）。
+
+计算对照样地和每一个漫溢样地中一年生草本、多年生草本和灌木的重要值,并求出同一漫溢指标梯度的样地中3类植被重要值的算术平均值，以作为分析3类植被对群落结构贡献变化的依据，
+
+# 3结果与分析
+
+# 3.1生态输水前后植被物种及多样性比较
+
+在输水前(2000年）台特玛湖长期干涸形成研究区植物群落，首先表现在物种数上（表2）。可以看出，输水前在台特玛湖发现的植物种仅有2科3属7种，基本为深根、耐旱的植物，从本区的建群植物盐穗木（Halostachyscaspica）盐节木（Halocnemumstrobilaceum)等的生长状况看，表现为长势衰败，灌丛下流沙量大，新枝条短，灌木顶端以及下部多表现为枯枝量大;在塔里木河生态输水后，使台特玛湖形成了一定的湖面，地表植被出现了明显的变化，到目前已发现有10科21属26种植物，其中种类增加最多的是藜科植物，从输水前的2种增加到输水后的6 种,其次是莎草科植物,输水前未发现,而输水后出现4种。
+
+为了显示输水后单位面积样地生物多样性指数的变化，本文利用2002年固定监测样地数据，分别计算了Margalef、Simpson、Shannon-Wiener 和Pielou指数，然后与输水前情况作对比（图2）。
+
+从图2可见，输水后各指数均比输水前有较大的增加,其中输水前Margalef、Simpson、Shannon-Wie-ner和Pielou指数均在一个较低的水平上，平均值分别仅有0.34、0.06、0.16和0.11，而漫溢后不但在湖心形成了一定面积的湖面，而且样地内各指数均出现了明显的增加，以上4个指数分别达到了1.53、0.79、1.71和0.89，增加幅度依次为 $34 8 \%$ 、$1 \ : 2 0 0 \%$ $9 8 1 \%$ 和 $70 6 \%$ ，说明生态输水对本区生物多样性具有促进作用。
+
+通过多年输水，距湖心 $3 0 ~ \mathrm { k m }$ 以外，怪柳（Tamarixchinensis）、盐穗木、盐节木等灌木随着输水过程对其地下水的补给而抬升了地下水埋深，植被长势向好、冒出新枝或其根部发出新枝，但其灌丛及周围未见新萌发的物种。说明输水对台特玛湖漫溢区植物群落生物多样性恢复的作用要比漫溢前明显得多，从表3可以看出，无论是植被盖度、植被密度还是单位面积物种数与植物多样性指数（Simpson指数)在漫溢区均明显高于地下水抬升区，但植被多
+
+Tab.2Surveyed results of the vegetation in the Taitema Lake area beforeand afterimplementing the ecological waterconveyance   
+
+<html><body><table><tr><td>名称</td><td>科</td><td>属</td><td>拉丁名</td><td>生活型</td><td>输水前</td><td>输水后</td></tr><tr><td>胡杨</td><td>杨柳科</td><td>杨属</td><td>Populus euphratica</td><td>AR</td><td></td><td>√</td></tr><tr><td>多枝怪柳</td><td>怪柳科</td><td>怪柳属</td><td>Tamarix ramosissima</td><td>SH</td><td>√</td><td>√</td></tr><tr><td>刚毛怪柳</td><td>怪柳科</td><td>怪柳属</td><td>Tamarix hispida</td><td>SH</td><td>√</td><td>√</td></tr><tr><td>多花怪柳</td><td>怪柳科</td><td>怪柳属</td><td>Tamarix hohenackeri</td><td>SH</td><td>√</td><td>√</td></tr><tr><td>长穗柽柳</td><td>怪柳科</td><td>柽柳属</td><td>Tamarix elongata</td><td>SH</td><td>√</td><td>√</td></tr><tr><td>短穗怪柳</td><td>柽柳科</td><td>怪柳属</td><td>Tamarix laxa</td><td>SH</td><td>√</td><td>√</td></tr><tr><td>骆驼刺</td><td>豆科</td><td>骆驼刺属</td><td>Alhagi sparsifolia</td><td>PH</td><td></td><td>√</td></tr><tr><td>铃铛刺</td><td>豆科</td><td>盐豆木属</td><td>Halimodendron halodendron</td><td>SH</td><td></td><td>√</td></tr><tr><td>胀果甘草</td><td>豆科</td><td>甘草属</td><td>Glycyrrhiza inflata</td><td>SH</td><td></td><td>√</td></tr><tr><td>盐穗木</td><td>藜科</td><td>盐穗木属</td><td>Halostachys caspica</td><td>SH</td><td>√</td><td>√</td></tr><tr><td>盐节木</td><td>藜科</td><td>盐节木属</td><td>Halocnemum strobilaceum</td><td>SH</td><td>√</td><td>√</td></tr><tr><td>薄翅猪毛菜</td><td>藜科</td><td>猪毛菜属</td><td>Salsola pellucida</td><td>AH</td><td></td><td>√</td></tr><tr><td>盐生草</td><td>藜科</td><td>盐生草属</td><td>Halogeton glomeratus</td><td>AH</td><td></td><td>√</td></tr><tr><td>镰叶碱蓬</td><td>藜科</td><td>碱蓬属</td><td>Suaeda crassifolia</td><td>AH</td><td></td><td>√</td></tr><tr><td>白茎盐生草</td><td>藜科</td><td>盐生草属</td><td>Halogeton arachnoideus</td><td>AH</td><td></td><td>√</td></tr><tr><td>花花柴</td><td>菊科</td><td>花花柴属</td><td>Karelinia caspia</td><td>PH</td><td></td><td>√</td></tr><tr><td>河西菊</td><td>菊科</td><td>河西苣属</td><td>Hexinia polydichotoma</td><td>PH</td><td></td><td>√</td></tr><tr><td>扁秆藨草</td><td>莎草科</td><td>藨草属</td><td>Scirpus planiculmis</td><td>PH</td><td></td><td>√</td></tr><tr><td>扁穗草</td><td>莎草科</td><td>扁穗草属</td><td>Brylkinia caudata</td><td>PH</td><td></td><td>√</td></tr><tr><td>球穗藨草</td><td>莎草科</td><td>藨草属</td><td>Scirpus strobilinus</td><td>PH</td><td></td><td>√</td></tr><tr><td>水葱</td><td>莎草科</td><td>藨草属</td><td>Scirpus validus</td><td>PH</td><td></td><td>√</td></tr><tr><td>小獐毛</td><td>禾本科</td><td>獐毛属</td><td>Aeluropus pungens</td><td>PH</td><td></td><td>√</td></tr><tr><td>芦苇</td><td>禾本科</td><td>芦苇属</td><td>Phragmites australis</td><td>PH</td><td></td><td>√</td></tr><tr><td>葡状隐花草</td><td>禾本科</td><td>隐花草属</td><td>Crypsis schoenoides</td><td>PH</td><td></td><td>√</td></tr><tr><td>大花罗布麻</td><td>夹竹桃科</td><td>罗布麻属</td><td>Poacynum hendersonii</td><td>PH</td><td></td><td>√</td></tr><tr><td>黑果枸杞</td><td>茄科</td><td>枸杞属</td><td>Lycium ruthenicum</td><td>SH</td><td></td><td>√</td></tr><tr><td>问荆</td><td>木贼科</td><td>木贼属</td><td>Equisetum arvense</td><td>蕨类植物</td><td></td><td>√</td></tr></table></body></html>
+
+注;SH表示灌木;PH表示多年生草本;AH表示一年生草本;AR表示乔木。“√"表示湖区出现的植被。
+
+![](images/322403b2d124bf6c26d05c8250666c4a9b462cf96c7dc1b6d99123c5fc0e9ad8.jpg)  
+注：植物多样性指数在0.01水平下差异显著。  
+图2研究区漫溢前后地表植物多性指数比较 Fig.2Compared results of the aboveground plant diversity indices before and after flooding of the study area
+
+样性变化不大。
+
+# 3.2植物群落演变特征
+
+由于入湖水量的不同，在大入湖水量条件下出现的河水漫溢区多且面积广阔[26],在小入湖水量时，漫溢的面积小，区域少，这为研究不同漫溢干扰强度和频次等提供了非常有利的机会。在未受到塔
+
+# 表3台特玛湖不同条件的样地群落特征指标的比较
+
+表2生态输水前后台特玛湖区植被调查  
+Tab.3Compared results of the community characteristic indices of plots with different conditions in the   
+
+<html><body><table><tr><td colspan="6">Taitema Lake area</td></tr><tr><td></td><td>生态 指标</td><td>单位面积 物种数/〔种· （100m²）-1]</td><td>植被 盖度 /%</td><td>植被密度 个· (100m²）-1]</td><td>Simpson 指数</td></tr><tr><td rowspan="2">漫溢区</td><td>最高</td><td>15</td><td>46.7</td><td>1 914</td><td>1.51</td></tr><tr><td>平均</td><td>6.8</td><td>30</td><td>1 350</td><td>0.98</td></tr><tr><td>地下水</td><td>最高</td><td>3</td><td>17</td><td>53</td><td>0.09</td></tr><tr><td>抬升区</td><td>平均</td><td>1.7</td><td>7</td><td>27</td><td>0.06</td></tr></table></body></html>
+
+![](images/2306225dbc8318c8ce5ff770560e1e90025b50e8eaad748b8d6980c958660611.jpg)  
+图3不同年份台特玛湖植被重要值构成  
+Fig.3Composition of important values of vegetation in the Taitema Lake area in diferent years
+
+里木河下游输水影响时，在2000年前台特玛湖原始地貌主要是怪柳、盐穗木、盐节木等耐旱植物。
+
+受2000年塔里木河生态输水工程的影响，水头逐渐到达了台特玛湖，干涸的台特玛湖受到水分干扰，地表植被也发生了变化，到2005年，一年生植被群落的重要值最大，其次是原来的灌木群落，即盐生植物盐穗木、盐节木等,最后是多年生草本群落，即芦苇等。
+
+随着输水工程的延续，漫溢时间渐长，地下水位有所拾升，至2007年灌木群落重要值较前期有所增大，直到2009年灌木群落重要值达到了最高值(0.78)（图3），而一年生草本群落则逐渐减少；在此期间，多年生植物群落重要值也有所增大，到2012年多年生草本群落(芦苇)重要值达到了最高值(0.70）。从主要建群种的重要值变化来看，漫溢次数少、过水时间短的情况下(如生态输水前几年)可促大量的一年生草本的萌发与生长，随着漫溢次数的增加、过水时间的持续（2007年以后），植物群落中的建群植物逐渐向多年生草本类型演化。
+
+2014年和2016年地表植被类型发生变化（图3），主要以芦苇为主的多年生草本群落类型占优势，其重要值均达到了0.70以上，其次为灌木群落，再次为盐穗木、盐节木等原始植被。说明随着输水的持续进行，台特玛湖形成以芦苇为主要植被类型的趋势。而以乔灌为主的群落，能够形成稳定的防风固沙的局面，并且适应当地这种极端气候，应当作为植被恢复的优势群落。但是，论耐盐度、耐淹度等而言，以芦苇为主的盐渍化草甸植物较适应当前的环境，因此，台特玛湖水岸线及周边植被类型是向着盐渍化草甸方向发展。
+
+# 4讨论
+
+研究表明，持续的生态输水深刻影响了台特玛湖周围植被的多样性。生态输水前台特玛湖湖沉积物以细沙为主，在强劲的东北风吹蚀下，极易就地起沙[24],在近几年的实际考察发现,越靠近台特玛湖植被生长态势越好，距湖最近的考干断面植物生长茂盛，其中两口生态观测井周围是以芦苇为建群种的植被，最外围的生态井植被主要为怪柳（怪柳包），而最后两口井已被漫溢出的地下水所淹没；另外，距湖心 $3 0 ~ \mathrm { k m }$ 以外,柽柳、盐穗木、盐节木等灌木随着输水过程对其地下水的补给而抬升了地下水埋深，植被长势向好、冒出新枝，或其根部发出新枝，并且，无论是植被盖度、植被密度还是单位面积物种数与植物多样性指数(Simpson指数)在漫溢区均明显高于地下水抬升区，但植被多样性变化不大。从而表明生态输水对台特玛湖的影响范围是逐渐扩大的，对周围植被的影响也在逐渐显现。在对台特玛湖生态输水之前，由于塔里木河的断流和车尔臣河的改道,造成湖区地下水位的下降,进而使植被数量锐减，流沙不断向湖心侵蚀,严重破坏了台特玛湖植被的多样性。在对台特玛湖十几年的生态输水之后，其区域地下水位不断上升，使区域内植被多样性增加，说明塔里木河下游地下水位的上升对于植物多样性起着重要的正相关作用的[27-28]]
+
+本研究得出，在输水前几年，直到2005年当地植被仍然是原始盐生植物 $^ +$ 一年生植物的植被类型。这主要是由于漫溢可以改变土壤的含水量，即土壤湿度，土壤湿度影响土壤微生物活动，进而影响有机质的含量，从而促进了地表植被结构的丰富性、植物种类的多样性。从2008—2012年，随着水分对当地的持续干扰,地表植被由原来的原始盐生植物 $^ +$ 一年生植物类型逐渐转变为盐生植物 $^ +$ 多年生植物类型、盐生植物 $^ +$ 灌木类型。这主要是由于前期过水，将表层土壤的盐分淋洗到深层土壤，随着漫溢时间的持续,深层土壤的盐分重返上层土壤,导致多数耐盐性弱的一年生植物不能够重新萌发。2012年之后,尤其近几年,芦苇重要值达到最大,且只剩下芦苇、怪柳、骆驼刺（Alhagi sparsifolia)等深根植物。主要因为过多的漫溢干扰,将浅根植物冲走，使其无法成活。同时,植被类型的转变表明生态输水对于植被的恢复特别是草本植物种类增加最多[29-30],且重要性也明显增加[26]。但这些研究均关注生态输水后该区域的环境恢复与植被多样性的明显好转，并未注意到在植被多样性恢复大趋势下的一些小的波动,输水一定年限之后，由于较重的盐分使漫溢区植被多样性呈现出下降趋势，植被趋于单一（图4），这也说明该区域充足的水分条件长期得到保证后，芦苇重要性占到了绝对优势。自生态输水以来,到目前已输水 $1 8 \mathrm { ~ a ~ }$ ,湖面积超过 $2 5 0 \mathrm { ~ m } ^ { 2 }$ 的年份就有5\~6a,特别是在近 $1 0 \mathrm { ~ a ~ }$ 内就开始呈现大面积的台特玛湖,漫溢频次过多也造成了植被多样性的下降，而且漫溢的干扰使群落中优势种的数量及种类发生改变，且物种的均匀度有所下降[31]。持续观察发现,在前期大水漫溢作用下,芦苇遮天弊日，但是在水情不好的年份，湖面积缩少，湿地萎缩、地下水位下降,芦苇在1\~2a内直接变得枯黄、甚至死亡;已成林的灌木浸泡在水中，长达数月后造成大片成林灌木死亡，这就造成前期输水所做的工作白费。因而，可以看出漫溢频次过多，对于水资源缺乏的干旱区是一种资源的浪费，但是不漫溢台特玛湖又发挥不了其生态效应。针对这样的窘境，建议台特玛湖采取适当的水量调度措施，使漫溢区与地下水抬升区能够得到交替轮灌，使有限的资源发挥最大的生态价值、实现水资源的优化配置，从而保持前期输水工作所取得的成果得以延续。
+
+![](images/32bf4fa782b3e2bcd4f2c47d28c6120a1bc53edb2589da4c34f0cb490a56b7d7.jpg)  
+图4台特玛湖植被 Simpson 多样性指数年际变化 Fig.4Interannual variation of Simpson diversity index of vegetation in the Taitema Lake area
+
+# 5结论
+
+（1）自2000 年对台特玛湖生态输水至今，其周围植被多样性明显增加。输水后 $3 \sim 5$ a 多样性增加最为强烈，虽然后期多样性呈波动式变化，但是输水后各年份的多样性指数（Simpson指数)均大于输水前水平，这不仅保护了周围原生植被的生存，更促进了芦苇等新植被的出现，对植物多样性的增加和植被恢复大有裨益。
+
+（2）随着生态输水的进行，对台特玛湖植被的生态效益逐渐显现。在漫溢区，单位面积物种数平均值为6.8种· $\mathrm { ~ ( ~ 1 0 0 m } ^ { 2 } \mathrm { ~ ) ~ } ^ { - 1 }$ 、植被盖度平均值为$30 \%$ 和植被密度平均值为1350个·（ $\mathrm { ~ ( ~ } 1 0 0 \mathrm { m } ^ { 2 } \mathrm { ~ ) ~ } ^ { - 1 }$ 较输水前处呈现上升趋势;地下水抬升区，单位面积物种数平均值1.7种·（ $\mathrm { ~ ( ~ 1 0 0 m } ^ { 2 } \mathrm { ~ ) ~ } ^ { - 1 }$ 、植被的盖度平均值为 $7 \%$ 和植被密度平均值为27个· $\left( 1 0 0 \mathrm { m } ^ { 2 } \right) ^ { - 1 }$ 亦呈现出相同的趋势，但漫溢区的各种生态指标明显要高于地下水抬升区，漫溢区植被丰富度更高。
+
+(3）在18a的生态输水过程中，台特玛湖植被向以芦苇为主的盐渍化低地草甸方向发展，优势种组成趋于简单化。输水前（2000年）为盐柴类灌木群落，2002—2009 年为草本与灌木混合群落，2011年以后为草本群落。因此，分析输水前后台特玛湖植物群落组成和多样性的变化特征，是了解其生态恢复程度的有效途径。
+
+# 参考文献(References）:
+
+[1]张金屯.数量生态学[M].北京：科学出版社,2004.［Zhang Jin tun.Quantitative Ecology[M].Beijing:Science Press,2004.]   
+[2] 马克平，黄建辉，于顺利，等.北京东灵山地区植物群落多样性 的研究Ⅱ丰富度、均匀度和物种多样性指数[J].生态学报， 1995,15(3）:268-277.[Ma Keping,Huang Jianhui,Yu Shunli, et al.Plant community diversity in Dongling mountain,Beijing, China:II.Species richness,evenness and species diversities[J]. ActaEcologica Sinica,1995,15(3）:268-277.]   
+[3]赵娜,鲁邵伟,李少宁,等.北京松山自然保护区典型植物群落
+
+物种多样性研究[J].西北植物学报，2018，38（11）：2120- 2128.[Zhao Na,Lu Shaowei,Li Shaoning,et al. Study on plant diversity of typical plant communities in Songshan nature reserve, Beijing[J].Acta Botanica Boreali-Occidentalia Sinica,2018,38 (11) :2 120 -2 128.]
+
+[4］陈亚宁,杨戈.塔里木河下游生态输水对植被和地下水位的影 响[J].环境科学,2003,24（4）:18-22.[Chen Yaning,Yang Ge.Effect oftranslating water onvegetation at the lower reaches of Tarim River[J].Environment Science,2003,24(4）:18 -22.]   
+[5]王让会,樊自立.塔里木河流域生态脆弱性评价研究[J].干旱 环境监测,1998,12（4）:218-253.[Wang Ranghui,Fan Zili. Study on ecological vulnerability evaluation of Tarim River Basin [J].Arid Environmental Monitoring,1998,12(4）:218 -253.]   
+[6]樊自立,徐海量,傅仪,等.塔里木河下游生态保护目标及措 施[J].中国沙漠,2013,33(4):1191-1 197.[Fan Zili,Xu Hailiang,Fu Jinyi,et al.Ecological protection object and restoration measures in the lower reaches of Tarim River[J]. Journal of Desert Research,2013,33(4）:1 191 -1 197.]   
+[7]Chen Yaning,Li Weihong,Xu Changchun,et al.Desert riparian vegetation and groundwater in the lower reaches of the Tarim River Basin[J].Environmental Earth Sciences,2015,73（2）:547 - 558.   
+〔8］雷志栋,甄宝龙,尚松浩,等.塔里木河干流水资源的形成及其 利用问题[J].中国科学D辑：地球科学,2003,33（5)：473- 480.[Lei Zhidong,Zhen Baolong,Shang Songhao,et al.Formation and utilization of water resources of the Tarim River Basin[J].Science China Series D:Earth Sciences,2003,33(5）:473-480.]   
+[9]陈亚宁,张小雷,祝向民,等.新疆塔里木河下游断流河道输水 的生态效应分析[J].中国科学D辑：地球科学,2004,34（5）： 475-482.[Chen Yaning,Zhang Xiaolei,Zhu Xiangmin,et al.Analysis of the effect of ecological water in the lower reaches of Tarim River in Xinjiang[J].Science China Series D:Earth Sciences, 2004,34(5) :475 -482.]   
+[10］俞祥祥.台特玛湖干涸湖盆区风沙活动特征〔D].乌鲁木齐： 中国科学院新疆生态与地理研究所,2016.［Yu Xiangxiang. Characteristics of Sandstorm Activity in the Dry Lake Basin of Taitema Lake[D]. Urumqi: Xinjiang Institute of Ecology and Geography,Chinese Academy of Sciences,2016.]   
+[11］胡正超,刘洋,李生宇,等.台特玛湖干涸湖盆风沙对公路潜在 危害评价[J].国土与自然资源研究,2018（2）：54-59.［Hu Zhengchao,Liu Yang,Li Shengyu,etal.The wind-blown sand hazard potential evaluation of highway on dryup lake-basin region of Taitema Lake[J].Territory & Natural Resources Study,2018（2）: 54-59.]   
+[12］陈亚宁,张霞,毛晓辉,等.塔里木河断流与未来水文情势分析 [J].干旱区地理,2009,32(6）:841-846.[Chen Yaning,Zhang Xia,Mao Xiaohui,et al.Dried-up riverway of Tarim River and the future state of hydrology[J].Arid Land Geography,2009,32（6）: 841-846.]   
+[13］崔旺诚,李卫红,张元明.塔里木河的水资源利用与生态保护 [J].地理学报,2003,58（2）:215-222.[Cui Wangcheng,Li Weihong,Zhang Yuanming. Utilization of water resources and ecological protection in the Tarim River[J].Acta Geographica Sinica, 2003,58(2) :215 -222.]   
+[14］李卫红,陈亚鹏,张宏峰,等.塔里木河下游断流河道应急输水 与地表植被响应[J].中国沙漠,2004,24（3）：301-305.［Li Weihong,Chen Yapeng,Zhang Hongfeng,et al.Response of vegetation to water inputatlower dry TarimRiver[J].Journal of Desert Research,2004,24(3）:301-305.]   
+[15]陈永金,李卫红,陈亚宁,等.塔里木河流域综合治理的生态效 应[J].中国环境科学,2007,27（1）:24-28.[Chen Yongjin,Li Weihong,Chen Yaning,etal.Ecological effect of synthesized governing in Tarim River valley[J].China Environmental Science, 2007,27(1) :24 -28.]   
+[16］邓铭江,杨鹏年,周海鹰,等.塔里木河下游水量转化特征及其 生态输水策略[J].干旱区研究,2017,34（7）:717-726.[Deng Mingjiang,Yang Pengnian,Zhou Haiying,et al.Water conversion and strategy of ecological water conveyance in the lower reaches of the Tarim River[J].Arid Zone Research,2017,34（7）:717- 726.]   
+[17］徐海量,宋郁东,陈亚宁.生态输水后塔里木河下游合理水位 探讨[J].水土保持通报,2003,23（5）：22-25.[Xu Hailiang， Song Yudong,Chen Yaning.Reasonable ground-water level at lowerreaches of Tarim River after water transfer[J].Bulletinof Soil and Water Conservation,2003,23(5）:22-25.]   
+[18］李丽君,张小清,陈长清,等.近20 a塔里木河下游输水对生态 环境的影响[J].干旱区地理,2018,41（2）:238-247.[Li Lijun,Zhang Xiaoqing,Chen Changqing,etal.Ecological effects of water conveyance on the lower reaches of Tarim River in recent twenty years[J].Arid Land Geography,2018,41（2）: 238- 247. ]   
+[19］陈国亮.台特玛湖湖面面积与主要补给水源的关系分析[J] 水利科技与经济,2016,22（7）:41-44.[Chen Guoliang.Analysis of therelationship between the lakesurfacearea of Taitema Lake and the main recharge water source[J]. Water Conservancy Science and Technology and Economy,2016,22（7）:41 -44.]   
+[20］阿布都米吉提·阿布力克木,阿里木江·卡斯木,艾里西尔· 库尔班,等.近40 年台特玛－康拉克湖泊群水域变化遥感监 测[J].湖泊科学,2014,26（1）:46-54.[Ablekim Abdimijit, Kasimu Alimujiang,Kurban Alishir,et al. Monitoring the water area changes in Tetima-Kanglayka lakes region over the past four decades by remotely sensed data[J]. Journal of Lake Sciences,2014, 26(1) :46 -54. ]   
+[21］张鹏飞,古丽·加帕尔,包安明,等.塔里木河流域近期综合治 理工程生态成效评估[J].干旱区地理,2017,40（1）：156- 164.[Zhang Pengfei,Jiapaer Guli,Bao Anming,etal.Ecological effcts evaluation for short term planning of the Tarim River[J]. Arid Land Geography,2017,40(1):156-164.]   
+[22]白元,徐海量,张青青,等.基于地下水恢复的塔里木河下游生 态需水量估算［J].生态学报,2015,35（3）：630-640.［Bai Yuan,Xu Hailiang,Zhang Qingqing,et al.Evaluation onecological water requirement in the lower reachesof Tarim River basedon groundwater restoration[J].Acta Ecologica Sinica,2015,35（3）: 630 -640.]   
+[23]王希义,徐海量,潘存德,等.塔里木河下游地下水埋深对草本 植物地上特征的影响[J].生态学杂志,2015,34（11):3 057- 3 064.[Wang Xiyi,Xu Hailiang,Pan Cunde,et al. The influence of groundwaterdepth on aboveground herbaceous characteristics in thelwerreachesofTarim River[J].Chinese Joumal of Ecology, 2015,34(11) :3 057 -3 064.]   
+[24]樊自立,徐海量,傅蔡仪,等.台特玛湖湿地保护研究[J].第四 纪研究,2013,33（3）:594-602.[Fan Zili,Xu Hailiang,Fu Jinyi,et al.Taitema Lake wetland protection research[J].Quaternary Sciences,2013,33(3) :594-602.]   
+[25」阿布都米吉提·阿布力克木.塔里木河下游湖泊格局时空演 变[D].乌鲁木齐：新疆师范大学，2015.［AblekimAbdimijit Spatiotemporal Dynamics of TheLakes in the Lower Reaches of TarimRiver[D]. Urumqi:Xinjiang Normal University,2015.]   
+[26]徐俏,叶茂，徐海量,等.塔里木河下游生态输水对植物群落组 成、多样性和稳定性的影响[J].生态学杂志,2018,37（9）： 2603-261O.[XuQiao,Ye Mao,Xu Hailiang,et al.Effects of ecological water conveyance on the composition,diversity and stability of plant community in the lower reaches of Tarim River[J]. Chinese Journal of Ecology,2018,37(9）:2 603-2 610.]   
+[27]白玉峰,徐海量,张沛,等.塔里木河下游荒漠植物多样性、地 上生物量与地下水埋深的关系[J].中国沙漠，2017,37（4)： 724-732.[Bai Yufeng,Xu Hailiang,Zhang Pei,et al.Relation of desert vegetation species diversity and aboveground biomass to groundwater depth in the lower reaches of Tarim River[J]. Journal ofDesert Research,2017,37(4):724-732.]   
+[28]徐海量，叶茂，李吉玫，等.河水漫溢对荒漠河岸林植物群落生
+
+态特征的影响[J].生态学报，2007，27（12）：4990-4998.
+
+[XuHailiang,YeMao,Li Jimei,et al.The influence of theriver flooding disturbance on the native vegetation restoration in the lowerreaches of Tarim River[J].Acta Ecologica Sinica,2O07,27 (12):4990-4998.]
+
+[29］陈亚宁，李卫红，陈亚鹏，等.新疆塔里木河下游断流河道输水与生态恢复[J].生态学报，2007，27(2）：538-545.[ChenYa-ning,Li Weihong,Chen Yapeng,et al.Water conveyance in dried-up riverway and ecological restoration in the lower reaches of TarimRiver,China[J].Acta Ecologica Sinica,2007,27（2）:538-545.]
+
+[30]司建华，冯起，张小由，等.黑水下游分水后的植被变化初步研 究[J].西北植物学报,2005,25（4）:631-640.[Si Jianhua, Feng Qi,Zhang Xiaoyou,et al.Vegetation changes in the lower reaches of the Heihe River after its water import[J].Acta Botanica Boreali-Occidentalia Sinica,2005,25（4）:631-640.]
+
+[31]陈艳瑞，尹林克，白旭.漫溢补水干扰后的天然胡杨群落波动 特征[J].中国沙漠,2009,29(5）:891-896.[Chen Yanrui,Yin Linke,Bai Xu.Fluctuation characteristics of natural populus euphratica community after overflowing hydration[J].Journal of Desert Research,2009,29(5):891-896.]
+
+# Change of Plant Diversity in the Taitema Lake Area before and after Implementing the Ecological Water Conveyance
+
+WANG Ya-mei1， ZHANG Qing-qing'， XU Hai-liang²， ZHAO Xin-feng²， LIU Xing-hong'，LI Jin³ (1.XinjiangAgriculturalUnersityUuqi30,injang,hina；2.injangstituteofologyndGeograyie AcademyofSciences,Urumqi830ol1,injiang,China；3.XinjiangNormalUniversityUrumqi830o54,Xinjiang,China)
+
+Abstract：It is of great significance for regenerating theecological environment inthe lower reachesof the Tarim River to studythechange of plant diversity in the Taitema Lakearea before and after implementing theecological water conveyance.Through the comprehensive research on the continuous data of vegetation in the Taitema Lakearea during the preiod of2Oo-2O17,in this studythe field investigationand data colection were carried,and the diference in vegetation variation between theoverflow plotsand the non-flood plots（i.e.thecontrolled plots）was compared. The results were as follows : $\textcircled{1}$ With implementing the ecological water conveyance,the ecological benefits of thevegetation in the Taitema Lake area have gradually emerged,and the biodiversity hasbeen increased significantly.In the flooded area,theaverage number of plant species per unit area,vegetationcoverage and vegetation density were 6.8 number · $\left( 1 0 0 \mathrm { { m } } ^ { 2 } \right) ^ { - 1 }$ $30 \%$ and 1 350 number $\cdot$ （ $\left( 1 0 0 \mathrm { { m } } ^ { 2 } \right) ^ { - 1 }$ ,and they were increased by 3,3.29 and 49 times of those inthe regions wherethe groundwater level was risen only.Before implementing theecological water conveyance,there were7 plant species in 3 genera and2 families in the lake area.After that they were increased to 26 species in 21 genera and 1O families; $\textcircled{2}$ After implementing the ecological water conveyance for 10 years,the vegetation inthe Taitema Lake area was developed towards the salinized lowland meadow dominated by reeds and tended to be simplified.The vegetation evolution was characterized by that the newly germinating vegetation wasdominated by annual herbs with an important valueofO.5O at theearly stage of the ecological water conveyance（20o-2006）,folowed byperennal herbs with an important value ofO.2Oand byshrubs with an important value of O.10.With the continuous ecological water conveyance,the annual herbs decreased in 2OO9 and was graduallyreplaced by shrubsand perennial herbs.The shrubs were the native halophytes including Halostachys caspica and Halocnemum strobilaceum,and some newly germinated seedlings appeared.Under the environment with abundant water resources during the period from 2O0l2 to 2O16,the dominant species composition tended to be simple,and the vegetation developed towards the salinized lowland meadow dominated by reeds.
+
+Key words:ecological water conveyance； plant diversity；plant community；Taitema Lake

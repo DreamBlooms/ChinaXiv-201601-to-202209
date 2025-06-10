@@ -1,0 +1,186 @@
+# 基于MODIS和TRMM数据的黄土高原农业干旱监测
+
+胡鹏飞，李净，王丹，黄康刚(西北师范大学地理与环境科学学院,甘肃兰州730070)
+
+摘要：农业干旱对农业生产影响最为严重,基于站点观测数据的干旱指数不能准确监测区域尺度的农业干旱特征。因此,利用2003—2015年MODIS 地表温度(LST)、植被指数(NDVI)和TRMM 降水(3B43)数据以及1960—2015年黄土高原地区及周边92个气象站点的月均温和月降水量数据，构建了综合遥感干旱监测模型规模干旱条件指数（Scale Drought Condition Index,SDCI）,对黄土高原地区农用地生长季(4\~10月)旱情的时空分布特征进行研究，结果表明：黄土高原地区农用地生长季多年平均干旱状态为中度干旱，干旱程度在空间上表现为西北部较严重,东南部较轻。2003—2015 年黄土高原地区旱情年际变化总体呈波动减轻趋势,2003—2007年旱情越来越严重,2007—2014 年旱情波动减轻,2014—2015年旱情有所加重。黄土高原地区旱情年内变化表现4\~8月持续减轻，8\~10月持续加重，干旱程度具体表现为4月、5月6月和10月呈中度干旱，7月、8月和9月呈轻度干旱。研究表明利用多源遥感数据构建的具有适当权重的 SDCI可以有效监测黄土高原地区作物生长季的干旱状况。
+
+关键词：农业干旱；黄土高原；MODIS；TRMM文章编号： 1000-6060(2019)01-0172-08(0172\~0179)
+
+干旱对农业影响最为直接、最为严重[1],关乎国家粮食安全和社会稳定[2],而目前学界对农业干旱监测领域研究的全面认识尚未完全形成[3],故对农业干旱研究仍至关重要。干旱可以通过将诸如降水，蒸散量和温度等天气变量整合到一起构建干旱指数进行监测[4-5],最常用的干旱指数有PDSI（帕默尔干旱严重性指数)[6、SPI（标准化降水指数）[7]、SPEI（标准化降水蒸散指数）[8]、CI（综合指数)[9]和 $K$ 指数[10]等,其中 SPI和 SPEI有灵活的时间尺度,其他指数只能在一个时间周期内实现。干旱作为一个区域性事件，基于气象站点的干旱指数只能有效的估计气象站周围的干旱状况，不能发现空间细节干旱，而现有的遥感数据能够捕获空间细节，在区域尺度上持续地监测干旱发生，尤其在站点数据有限的偏远山区，遥感数据是干旱监测的重要手段[11-12] 。
+
+目前，已经提出了很多基于遥感数据的指数来监测干旱,如归一化差异植被指数(NDVI)[13-14]、植被状态指数（VCI)[15-16]、温度条件指数（TCI)[17-18]、土壤水分指数[19]和降水条件指数（204号 $( P C I ) ^ { [ 1 1 ] }$ 。研究表明,受观测对象的特殊性和算法的准确性影响，单一的遥感干旱指数的评估能力在空间分布和植被生长季节内差异很大，故多个单一干旱指数的组合可在区域尺度上产生更可靠的监测效果[20-22]。如KOGAN等[15]组合TCI和VCI开发了植被健康指数(VHI)用来评估由温度引起的农业干旱;DU等[23]则使用主成分法分析VCI、TCI和PCI构建的综合干旱指数(SDI)监测了山东省的综合干旱;RHEE 等[1]使用检验权重方法组合VCI、TCI和PCI构建的规模干旱条件指数（SDCI）成功地监测了美国北卡罗来纳州和南卡罗来纳州的农业干旱。当前，综合性遥感干旱监测的研究多应用于我国东北、西南等多植被覆盖、多降水的地区，对气象站点稀疏、受干旱胁迫严重、农业地位重要的西北内陆地区遥感干旱研究很少。因此，本文以黄土高原地区为例，将MODIS的植被指数、地表温度数据和TRMM降水数据综合起来构建规模干旱条件指数（SDCI），并利用同期的SPI和SPEI验证SDCI的可靠性，重点研究黄土高原地区农用地2003—2015年生长季(4～10月)干旱状况的时空分布特征。
+
+# 1 研究区概况
+
+黄土高原介于 $1 0 0 ^ { \circ } 5 4 ^ { \prime } \sim 1 1 4 ^ { \circ } 3 3 ^ { \prime } \mathrm { E } , 3 3 ^ { \circ } 4 3 ^ { \prime } \sim$ $4 1 ^ { \circ } 1 6 ^ { \prime } \mathrm { N }$ 之间(图1),面积约 $6 2 . 4 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,涉及青海、宁夏、甘肃、内蒙、河南、陕西和山西7个省（自治区）。海拔 $3 0 0 \sim 3 ~ 0 0 0 ~ \mathrm { ~ m ~ }$ ,年均气温 $4 \sim 1 4 \ \mathrm { { ^ circ C } }$ ，年均降水量约为 $1 1 0 \sim 8 6 0 ~ \mathrm { m m }$ ,年均蒸发量约为 $7 2 0 \sim$ $1 ~ 4 2 0 ~ \mathrm { m m }$ ,农业用地主要分布在黄土塬、川、沟壑、山、卯等地。
+
+# 2 数据和方法
+
+# 2.1 数据源
+
+本文采用1960—2015年黄土高原及其周边92个气象站点的月降水量和月均温数据，来源于国家气象科学数据共享服务平台（http：//data.cma.cn）;采用2003—2015年的MODIS地表温度（MOD11A2,8d）和归一化植被指数（MOD13A2，16d）产品（https //ladsweb.modaps.eosdis.nasa.gov/search），空间分辨率 $1 ~ \mathrm { k m }$ ,均采用最大值法合成为月尺度数据；下载2010年的土地覆盖数据中 $\mathrm { ' M C D 1 2 Q 1 } , 5 0 0 \ \mathrm { m } )$ 用于研究区农用地的提取；下载了2010—2015年的TRMM（3B43）月降水数据（ht-tps//pmm.nasa.gov）,空间分辨率 $2 5 ~ \mathrm { k m }$ 。
+
+# 2.2 研究方法
+
+2.2.1 SPI和 SPEI 指数 本文计算 SPI和 SPEI用于综合遥感干旱指数SDCI的权重分析和可靠性检验。 $S P I$ 旨在量化多个时间尺度的降水赤字，计算时使用了 $5 5 \mathrm { ~ a ~ }$ 的降水数据确保其精度[24]。它将某一时间尺度的降水量序列看作服从 $\Gamma$ 分布，假设某一时段的降水量为 $x$ ,则其 $\Gamma$ 分布的概率密度函数为：
+
+$$
+f ( x ) = { \frac { 1 } { \beta ^ { \gamma } \Gamma ( x ) } } { x ^ { \gamma - 1 } \mathrm { e } ^ { \frac { - x } { \beta } } ( x > 0 ) }
+$$
+
+100°E 102°E 104°E 106°E 108°E 110°E 112°E 114°E 116E 118E乌拉特后旗 达尔罕联合四子王旗·海力素 临河 头 和浩特 ·集宁 ·张家口 N043  
+No04 内蒙古自治区 右玉大同 蔚县东胜·吉兰太A 2 河曲张掖 阿拉善左旗 惠农 鄂托克旗 五寨 原平 五台山宁夏国族区 西省 ·石家庄 1.88  
+188省 ·乌鞘岭 景泰 中宁 定边 绥德·离石 榆社 ·邢台大 广和 大 福 ·安阳 N90  
+290 . 气象站临夏临桃华家 崆峒 阳 ·新乡 黄河  
+200 河南 ·合作 岷县 甘肃省 2 长武 ·武功 陕西省 2 运城峡 民 孟津·郑州 河南省 省、自治区界 农用地 300商县 ·栾川 黄土高原区·武都 略阳 佛坪 ·镇安 0 100 200km汉中 ·石泉 上102°E 104°E 106°E 108E 110E 112°E 114°E 116E
+
+式中： $\beta$ 为尺度参数， $\gamma$ 为形状参数,两者都大于 $_ { 0 ; x }$ 为降水量。 $\beta$ 和 $\gamma$ 可用极大似然估计方法求得：
+
+$$
+{ \hat { \gamma } } = { \frac { 1 + { \sqrt { 1 + { \frac { 4 A } { 3 } } } } } { 4 A } }
+$$
+
+$$
+\hat { \beta } = \frac { \bar { x } } { \hat { \gamma } }
+$$
+
+$$
+A = \log \bar { x } - \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \ \log x _ { i }
+$$
+
+式中： $x _ { i }$ 降水量资料样本；为降水量气候平均值; $n$ 为计算序列的长度。确定概率密度函数中的参数后，对于某一年的降水量 $x _ { 0 }$ ，可以求出随机变量 $x$ 小于 $x _ { 0 }$ 事件的概率为：
+
+$$
+F ( x < x _ { 0 } ) = \intop _ { 0 } ^ { x _ { 0 } } f ( x ) \mathrm { d } x = \intop _ { 0 } ^ { x _ { 0 } } { \frac { 1 } { \beta ^ { \gamma } \Gamma ( x ) } } x ^ { \gamma - 1 } \mathrm { e } ^ { \frac { - x } { \beta } } \mathrm { d } \mathrm { x }
+$$
+
+由于上式中不包括 $\mathbf { x } = 0$ 的情况，而实际降水量可以为零，降水量为零时的时间概率为 $\mathrm { F } ( \mathrm { x } ) = \mathrm { m } / \mathrm { n }$ 。其中， $\mathbf { m }$ 为降水量为零的样本数， $\mathbf { n }$ 为降水量气候平均值。
+
+对 $\Gamma$ 分布概率进行正态标准化处理得到：
+
+$$
+F ( x < x _ { 0 } ) = \frac { 1 } { \sqrt { 2 \pi } } \int _ { 0 } ^ { x _ { 0 } } \mathrm { e } ^ { \frac { - Z ^ { 2 } } { 2 } } \mathrm { d } x
+$$
+
+进行近似求解可得：
+
+$$
+Z = S P I = S \frac { t - \left( c _ { 2 } t + c _ { 1 } \right) + c _ { 0 } } { \left[ \begin{array} { l } { \left( d _ { 3 } t + d _ { 2 } \right) t + d _ { 1 } } \end{array} \right] }
+$$
+
+其中： $t = \sqrt { \ln \frac { 1 } { F ^ { 2 } } }$ Y $F > 0 . 5$ 时， $S = 1$ ；当 $F \leqslant 0$ .5
+
+时， $S = - 1$ 。 $c _ { 0 } = 2 . 5 1 5 ~ 5 1 7$ ; $c _ { 1 } = 0$ .802 853; $\boldsymbol { c } _ { 2 } =$   
+0.010 328; $d _ { 1 } \ = 1$ . 432 788; $d _ { 2 } \ = 0$ .189 269; $d _ { 3 } \ =$   
+0.001 308。
+
+SPEI在SPI的基础上增加了温度变量，计算方法与 $S P I$ 指数类似，计算时首先以某一时段的降水量与潜在蒸散量的差值替代降水量，然后进行正态标准化,潜在蒸散采用Thornthwaite方法计算[25],具体计算步骤可参见文献[26]
+
+2.2.2SDCI的构建和验证植被条件指数(VCI）、温度条件指数(TCI)和降水条件指数(PCI)计算公式见表1，使用经验权重的方法组合VCI、TCI和 PCI建立规模干旱条件指数（SDCI)[11]。为获取黄土高原地区最佳的SDCI指数加权分量，对SDCI与黄土高原地区5种时间尺度(1、2、3、6、9个月）的SPI和SPEI测试了几组权重（表2）。在所有情况下，SDCI都与一个月尺度的SPEI显示最高的相关性，根据不同权重组合下SDCI指数的表现，确定0.1的VCI、O.4的TCI和O.5的PCI是SDCI在该地区的最佳组合分量。
+
+表1遥感干旱指数计算公式  
+Tab.1 Calculation formula of remote sensing drought indices   
+
+<html><body><table><tr><td>干旱指数</td><td>计算公式</td></tr><tr><td>VCI</td><td>（NDVI-NDVImin）/（NDVImax-NDVImin）</td></tr><tr><td>TCI</td><td>(LST max -LSTi）/(LSTmax − LSTmin）</td></tr><tr><td>PCI</td><td>（TRMMi-TRMMmin）/（TRMMmax-TRMMmin）</td></tr><tr><td>SDCI</td><td>aVCI+bTCI+(1-a-b)PCI</td></tr></table></body></html>
+
+表2SDCI与 $s P I$ 和SPEI在不同时间尺度上的相关系数  
+Tab.2Correlation coefficients between SDCI and $_ { S P I , S P E I }$ in different time scales   
+
+<html><body><table><tr><td rowspan="2">指数</td><td colspan="3">百分比／%</td><td>SPI-1</td><td>SPI-2</td><td>SPI-3</td><td>SPI-6</td><td>SPI-9</td></tr><tr><td>VCI</td><td>TCI</td><td>PCI</td><td></td><td></td><td>R</td><td></td><td></td></tr><tr><td>SDCI</td><td>40</td><td>30</td><td>30</td><td>0.701**</td><td>0.522 **</td><td>0.311 *</td><td>0.300 *</td><td>0.313 *</td></tr><tr><td></td><td>50</td><td>20</td><td>30</td><td>0.686 **</td><td>0.501**</td><td>0.277 *</td><td>0.281*</td><td>0.295 *</td></tr><tr><td></td><td>30</td><td>30</td><td>40</td><td>0.762 **</td><td>0.598**</td><td>0.366 **</td><td>0.335 *</td><td>0.364**</td></tr><tr><td></td><td>20</td><td>30</td><td>50</td><td>0.797**</td><td>0.650 **</td><td>0.405 **</td><td>0.357 **</td><td>0.399 **</td></tr><tr><td></td><td>10</td><td>40</td><td>50</td><td>0.798**</td><td>0.661**</td><td>0.432 **</td><td>0.369 **</td><td>0.411**</td></tr><tr><td></td><td>40</td><td>10</td><td>50</td><td>0.780**</td><td>0.616**</td><td>0.349 **</td><td>0.328*</td><td>0.369 **</td></tr><tr><td rowspan="2">指数</td><td colspan="3">百分比／%</td><td rowspan="2">SPEI-1 SPEI-2</td><td rowspan="2"></td><td rowspan="2">SPEI-3</td><td rowspan="2">SPEI-6</td><td rowspan="2">SPEI-9</td></tr><tr><td>VCI</td><td>TCI</td><td>PCI</td></tr><tr><td>SDCI</td><td>40</td><td>30</td><td>30</td><td>0.788 **</td><td>0.666**</td><td>R 0.501**</td><td>0.388 **</td><td>0.384 **</td></tr><tr><td></td><td>50</td><td>20</td><td>30</td><td>0.777 **</td><td>0.646**</td><td>0.472 **</td><td>0.374 **</td><td>0.375**</td></tr><tr><td></td><td>30</td><td>30</td><td>40</td><td>0.845**</td><td>0.725**</td><td>0.546 **</td><td>0.441**</td><td>0.440 **</td></tr><tr><td></td><td>20</td><td>30</td><td>50</td><td>0.875 **</td><td>0.760 **</td><td>0.572**</td><td>0.476 **</td><td>0.477**</td></tr><tr><td></td><td>10</td><td>40</td><td>50</td><td>0.870 **</td><td>0.765**</td><td>0.589 **</td><td>0.483 **</td><td>0.479 **</td></tr><tr><td></td><td>40</td><td>10</td><td>50</td><td>0.867**</td><td>0.734**</td><td>0.531**</td><td>0.453**</td><td>0.463**</td></tr></table></body></html>
+
+注： $* *$ 在0.01水平(双侧)上显著相关; $*$ 在0.05水平(双侧)上显著相关。( $S P I - n / S P E I - n , n = 1$ 时,代表一个月尺度)
+
+为验证综合遥感干旱指数在空间上的可靠性，用2003—2015年生长季( $4 \sim 1 0$ 月）的 SDCI与同期3种时间尺度的SPI和SPEI做相关分析（图2），其中各时间尺度的SPI和SPEI采用研究区内及周边共92个气象站点的实测值插值获得。
+
+在空间上，SDCI也显示出与一个月尺度的SPI和SPEI具有最好的相关性。随着时间尺度的增加，整个区域上的相关性也逐渐减小。此外，SDCI在一个月尺度上表现出极大的优越性，大部分地区的相关性值达到了0.5以上，最高值可达到0.7以上。综上所述，规模干旱条件指数(SDCI)监测黄土高原及类似地区短期农业干旱是可靠的。 $S D C I$ 值的大小可以指示不同等级的干旱，本文采用现有的干旱分级标准[23,27],定义 $0 \sim 0 . 2$ 为极端干旱, $0 . 2 \sim 0 . 3$ （204为严重干旱， $0 . 3 \sim 0 . 4$ 为中度干旱, $0 . 4 \sim 0 . 5$ 为轻度干旱，0.5\~1为无旱。
+
+![](images/7d33ad703e88720ed78a8f83e9c99e6fb9299c2ebad1957604cd968a243efa82.jpg)  
+图2SDCI与不同时间尺度上 $S P I$ 和 SPEI的空间相关性  
+Fig.2Spatial correlation between $S D C I$ and $S P I$ and $S P E I$ in different time scales
+
+# 3结果与分析
+
+# 3.1 农业干旱的空间分布
+
+黄土高原地区农用地生长季多年平均规模干旱条件指数(SCDI)值为0.3894，处于中度干旱的状态(表3）。整体来看，甘肃南部和东部、陕西南部、河南一带干旱程度较轻，区内SDCI值可以达到0.4以上，其余区域干旱程度普遍在低于0.4,宁夏平原和河套平原一带干旱程度最为严重，达到了0.3以下（图3n），生长季多年农业干旱程度的空间分布表现为东南部较轻，西北部较严重的分布趋势，这是因为东南季风对黄土高原地区降水有决定性的影响。
+
+多年来，整个生长季干旱指数值普遍偏低，低值区域分布广泛，青海境内、陇东南部、陕西南部、河南一带是较高值区域,干旱程度的等值区域在黄土高原地区呈东北向西南的走向分布，这是因为黄土高原地区受到东南季风的强烈影响，降水、蒸发等影响干旱的因素本在空间上沿纬向分布，但是随着东南季风深入黄土高原内部，在太行山、贺兰山及秦岭山系的影响下形成了季风区与非季风区的分界现象，东南季风几乎完全不能惠及宁夏，内蒙古一带。区内复杂的塬、梁、卯地形通过影响降水、气温和风速等气候因素进而影响了干旱程度空间分布的具体状况。
+
+表32003—2015年黄土高原区农用地生长季的旱情变化  
+Tab.3Changes of drought for growing season at farmland of Loess Plateau from 2003 to 20   
+
+<html><body><table><tr><td>年份</td><td>2003</td><td>2004</td><td>2005</td><td>2006</td><td>2007</td><td>2008</td><td>2009</td></tr><tr><td>SDCI值</td><td>0.423</td><td>0.3873</td><td>0.392 6</td><td>0.362 6</td><td>0.351</td><td>0.381 9</td><td>0.389 1</td></tr><tr><td>年份</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td><td>2014</td><td>2015</td><td>平均</td></tr><tr><td>SDCI值</td><td>0.3751</td><td>0.404 9</td><td>0.380 6</td><td>0.3838</td><td>0.429 3</td><td>0.4012</td><td>0.389 4</td></tr></table></body></html>
+
+# 3.2农业干旱的年际变化
+
+2003—2015年，黄土高原生长季的干旱状态总体呈缓慢减轻的趋势（图4a），2003年和2014年干旱程度最轻，黄土高原大部分地区呈轻旱，河南、陕西和山西部分地区出现无旱状态，2007年干旱最为严重，几乎整个地区内呈现为中度干旱状态。宁夏和内蒙地区多年来呈严重干旱的状态，其中宁夏在2005年有极端干旱的情况出现，2012年以后有所减轻；青海多年来呈中旱或轻旱的状态，2006年、2010年和2013年有大规模中旱发生；甘肃在2013年干旱程度最轻，部分地区呈现无旱状态，2003年、2005年和2014年发生轻旱，在2007年和2008年发生大规模中度干旱;陕西在2003 年、2009 年、2011年、2014年和2015年干旱程度较轻，这五年基本呈现为轻度干旱，部分地区有无旱发生，在2004年、2007年、2008年、2012年和2013年干旱比较严重，基本呈现为中度干旱,其中2013 年有严重干旱发生；山西在2003年和2014年干旱程度最轻，部分地区出现无旱状态，在2006年、2007年、2012年和2013年大部分地区呈中度干旱，且有严重干旱发生;河南在2003年干旱程度最轻，呈无旱或轻旱状态，在2007年干旱程度最为严重，中度干旱覆盖了全部农用地,部分地区发生严重干旱（图3）。分析发现，黄土高原地区农业干旱在年际变化上较为复杂，旱情总体上呈波动减轻的规律，表明在较短时间尺度上本研究区气候变化的复杂性。
+
+![](images/6f175cef2d6037431f1b0811d49ed9730a967f919b2400058eecac23a615fa33.jpg)  
+图32003—2015年黄土高原农用地生长季旱情变化
+
+Fig.3Spatial distribution of drought for growing season at farmland in Loess Plateau from 2OO3 to 2015
+
+# 3.3农业干旱的年内变化
+
+黄王高原地区农业干旱指数值年内变化范围在0.3-0.5之间，最大值出现在8月份，最小值出现在4月份，SDCI值显示4月、5月、6月和10月呈中度干旱，7月、8月和9月呈轻度干旱（图4b）。SDCI值与降水量呈正比关系，与蒸发量呈反比关系。区内干旱程度表现由重到轻为宁夏、内蒙地区，陕西和山西中北部、甘肃、青海地区，陕西和山西南部、河南地区，越靠近季风区，干旱程度越轻，说明对气象因素有很大影响的地形的复杂性增加（图5）。
+
+黄土高原地区干旱程度年内分异表现为7月、8月、9月较轻，4月、5月、6月和10月较重，年内变化比较明显，这主要是因为降水受季风影响强烈。黄土高原地区干旱程度变化存在时间差，一般在4月和5月份大部分地区受中旱、重旱甚至极端干旱控制，6月份极端干旱消失，重旱规模减少，7月、8月旱情明显减轻,陇东、陕西、山西和河南基本受无旱或轻旱控制，宁夏和内蒙呈现为中度干旱，9月东南季风衰退，宁夏和内蒙严重干旱规模增加，10月整个黄土高原旱情开始明显加重，大部分地区又处于中旱、重旱甚至极端干旱的控制。 $4 \sim 1 0$ 月份，随着降水量的增加再减少，中旱、重旱和极端干旱的规模是减少再增加，无旱和轻旱的规模是增加再减少，这与东南季风在黄土高原地区的强度变化过程基本一致，可见东南季风对黄土高原地区十旱程度年内变化起决定性作用。
+
+![](images/12108829213424f6aa806a4618307846e1083e5db6c92e7d4b10db5b3aa169ea.jpg)  
+图4规模条件干旱指数(SDCI)的变化趋势 Fig.4Trend of scale drought index(SDCI)
+
+![](images/35af36a0cf41ce7ccd9b889d5794c8ace67144fb4f234b1f2bb7f84d2517bee1.jpg)  
+图5生长季(4\~10月)旱情变化  
+Fig.5Spatial distribution of drought from April to October
+
+# 4结论
+
+前人对黄土高原地区农业干旱监测主要是利用站点数据监测局部地区的干旱状况，但农业干旱是区域性灾害事件，受站点布设位置的影响，监测结果不能准确反映偏远山区的干旱情况。因此，本文利用MODIS土地覆被产品提取黄土高原地区农用地信息，综合MODIS地表温度（LST）、植被指数（ND-VI)产品和TRMM(3B43)降水产品构建用于农业干旱监测的SDCI评价指标，然后分析黄土高原地区
+
+2003—2015年生长季（ $( 4 \sim 1 0$ 月)农用地的干旱状况。结果表明：
+
+（1）利用多源遥感数据构建的综合遥感干旱指数SDCI可以很好地用于农业干旱评价，具有0.1的$V C I , 0 . 4$ 的TCI和O.5的PCI权重的SDCI是适合监测黄土高原地区农用地生长季(4～10月）干旱状况的综合遥感干旱指数。
+
+（2）黄土高原地区农用地生长季多年平均干旱状态为中度干旱，干旱程度在空间上表现为西北部较严重，东南部较轻缓。陇东南部、陕西南部、河南一带干旱程度较轻,宁夏平原和河套平原一带干旱程度最为严重，干旱程度的等值区域在黄土高原地区大致呈东北向西南的走向分布，原因是该地区复杂的塬、梁、卯地形对降水、气温和风速等气候要素的影响。
+
+(3)2003—2015年黄土高原地区旱情年际变化总体呈波动减轻趋势,2003—2007年旱情越来越严重,2007—2014 年旱情波动减轻，2014—2015 年旱情有所加重。2003年和2014年干旱程度最轻，陕西和山西部分地区出现无旱状态,2007年干旱最为严重，几乎整个研究区内呈现为中度干旱状态。
+
+(4)黄土高原地区旱情年内变化表现4～8月持续减轻，8～10月持续加重，4月、5月、6月和10月呈中度干旱,7月、8月和9月呈轻度干旱。黄土高原地区农用地旱情年内变化比较明显， $4 \sim 1 0$ 月中旱、重旱和极端干旱的面积先减少再增加,无旱和轻旱的规模是增加再减少，原因是受该区域降水量先增后减的影响。
+
+# 参考文献(References)
+
+[1]邱海军，曹明明，郝俊卿，等.1950—2010 年中国干旱灾情频 率——规模关系分析[J].地理科学，2016，33（5）：576-580. [QIUHaijun,CAO Mingming,HAO Junqing,et al.Relationship between frequency and magnitude of drought damage in China in 1950 -2010[J].Scientia Geographica Sinica,2016,33（5）:576 -580.]   
+[2] DAI A.Increasing drought under global warming in observations and models[J].Nature Climate Change,2013,3(1):52-58.   
+[3] 刘宪锋，朱秀芳，潘耀忠，等.农业干旱监测研究进展与展望 [J].地理学报,2015,70（11）：1835-1848.［LIU Xianfeng, ZHU Xiufang,PAN Yaozhong,et al.Agricultural drought monitor: Progress,challenges and prospect[J].Acta Geographica Sinica, 2015,70(11) :1835-1848.]   
+[4］KANGAS R S,BROWN TJ. Characteristics of US drought and pluvials from a high-resolution spatial dataset[J]. International Journal of Climatology,2007,27(10）:1303-1325.   
+[5]ZARGAR A,SADIQ R,NASER B,et al. A review of drought indices[J].Environmental Reviews,2011,19(NA）:333-349.   
+[6]WAYNE C P. Meteorological drought[J]. Office of Climatology US Weather Bureau Washington,1965(45）:1 -55.   
+[7]MCKEE T B,DOESKEN N J,KLEIST J. The relationship of drought frequency and duration to time scales[C]// Proceedings of the 8th Conference on Applied Climatology.Boston，American Meteorological Society,1993,17(22）: 179 -183.   
+[8］VICENTE-SERRANO S M,BEGUERIA S,LOPEZ-MORENO JI. A multiscalar drought index sensitive to global warming:The standardized precipitation evapotranspiration index[J]. Journal of Climate,2010,23(7) :1696-1718.   
+[9]张强,鞠笑生,李淑华.三种干旱指标的比较和新指标的确定 [J].气象科技,1998,（2）:48-52.[ZHANGQiang,JU Xiaosheng,LI Shuhua.Comparison of three drought indices to determine and the new index[J]. Meteorological Science and Technology, 1998,(2) :48 -52.   
+[10］王劲松,郭江勇,倾继祖.一种K干旱指数在西北地区春旱分析 中的应用[J].自然资源学报,2007,22（5）:709－717.[WANG Jinsong,GUO Jiangyong,QING Jizu.Application of a kind of K drought index in the spring drought analysis in Northwest China [J].Journal of Natural Resources,2007,22(5）:709 －171.]   
+[11]RHEE J,IM J,CARBONE G J. Monitoring agricultural drought for arid and humid regions using multi-sensor remote sensing data[J] Remote Sensing of Environment,2010,114(12）:2875 -2887.   
+[12]HAO C,ZHANG J,YAO F. Combination of multi-sensor remote sensing data for drought monitoring over Southwest China[J]. International Journal of Applied Earth Observation and Geoinformation,2015,35(B):270-283.   
+[13]ROUSE JrJW,HAAS RH,SCHELL JA,et al. Monitoringvegetation systems in the Great Plains with ERTS[C]//Third Earth Resources Technology Satelite Symposium.Washington DC,1973: 309 -317.   
+[14]YANGL,WYLIE BK,TIESZENLL,et al.An analysis of relationships among climate forcing and time-integrated NDVI of grasslands over the US northern and central Great Plains[J].Remote Sensing of Environment,1998,65(1）:25-37.   
+[15］KOGAN F N.Application of vegetation index and brightness temperature for drought detection[J].Advances in Space Research, 1995,15(11) :91-100.   
+[16］KOGAN F N.Droughts of the late 198Os in the United States as derived from NOAA polar-orbiting satellite data[J].Bulletin of the American Meteorological Society,1995,76(5）:655-668.   
+[17]BHUIYAN C,SINGH R P,KOGAN F N. Monitoring drought dynamics in the Aravall region（India)using different indices based on ground and remote sensing data[J]. International Journal of Applied Earth Observation and Geoinformation,2006,8（4）:289 - 302.   
+[18]JAIN SK,KESHRIR,GOSWAMI A,et al. Identification of drought-vulnerable areas using NOAA AVHRR data[J]. International Journal of Remote Sensing,2009,30(10）:2653- 2668.   
+[19]HOLLINGER S E,ISARD S A,WELFORD M R.A neW soil moisture drought index for predicting crop yields[C]//Eighth Conference on Applied Climatology.Anaheim，American Meteorological Society,1993:187-190.   
+[20]BAYARJARGAL Y,KARNIELI A,BAYASGALAN M,et al. A comparative study of NOAA-AVHRR derived drought indices using change vector analysis[J].Remote Sensing of Environment,2006, 105(1):9-22.   
+[21]KARNIELI A,AGAM N,PINKERRT,et al.Use of NDVI and land surface temperature for drought assessment: Merits and limitations[J].Journal of Climate,2010,23(3）:618-633.   
+[22］VICENTE-SERRANO S M. Evaluating the impact of drought using remote sensing in a Mediterranean,semi-arid region[J].Natural Hazards,2007,40(1):173-208.   
+[23]DU L,TIANQ,YU T,et al.A comprehensive drought monitoring method integrating MODIS and TRMM data[J]. International Journal of Applied Earth Observation and Geoinformation,2O13,23： 245 -253.   
+[24]ZHANG A,JIA G.Monitoring meteorological drought in semiarid regions using multi-sensor microwave remote sensing data[J].Remote Sensing of Environment,2013,134:12-23.   
+[25]VANGELISH,TIGKASD,TSAKIRISG.The effectofPET method onReconnaissance Drought Index（RDI）calculation［J].Journal of Arid Environments,2013,88:130-140.   
+[26］唐敏,张勃，张耀宗，等.基于SPEI和SPI指数的青海省东部 农业区春夏气象干旱特征的评估[J].自然资源学报,2017，32 (6）:1029-1042.[TANG Min,ZHANG Bo,ZHANG Yaozong,et al.Assessment of Spring and Summer meteorological droughts based on SPEI and SPI in eastern agricultural region of Qinghai Province[J]. Journal of Natural Resources,2017,32（6）:1029- 1042.]   
+[27］ZHANG L,JIAO W,ZHANG H,et al. Studying drought phenomena in the Continental United States in 2011 and 2012 using various drought indices[J].Remote Sensing of Environment,2O17,190 :96 -106.
+
+# Monitoring agricultural drought in the Loess Plateau using MODIS and TRMM data
+
+HU Peng-fei， LI Jing， WANG Dan， HUANG Kang-gang(College of geography andenvironmental science,Northwest Normal University,Lanzhou 73oo7O,Gansu,China
+
+Abstract:In this paper,the Scale Drought Condition Index(SDCI)is constructed by using multi-source remotely sensed data and is used to study the spatio-temporal characteristics during the agricultural growth period （from April to October）in Loess Plateau region from 2003 to 2015.Firstly,MODIS land cover product（MCD12Q1）was used to extract agricultural land in the Loess Plateau region,and then MODIS land surface temperature ( $. L S T )$ products （MOD11A2）,Normalized Vegetation Index（NDVI） products（MOD13A2）and TRMM（3B43）precipitation products were combined to construct SDCI evaluation index tomonitor agricultural drought.Secondly,the Standardized Precipitation Index $( S P I )$ and the Standardized Precipitation Evapotranspiration Index （SPEI） during the same period wereused to verify thereliabilityof SDCI.Finally,thedrought condition during theagricultural land growing seasonfrom 2003 to 2O15 was analyzed inthe Loess Plateau region.The results show as follws:（1）The anual average drought condition during the agricultural land growing period was in moderate drought in the Loess Plateau agricultural land,and the drought level was more serious in the northwest,but lighter in the southeast.（2）From 2003 to 2015,the inter-annual variationof droughtcondition in LoessPlateau region showed a slowrelieving trend, thedrought condition had beencontinuouslyincreased during the time period from 2O03 to 2Oo7,it had ben gradually relievedin theperiod from 2007 to2014,but it gotaggravated again from 2014to 2015.（3）The monthlychangesof drought situation inthe LoessPlateau region showeda continuous relief from Aprilto Augustanda slow exacerbation from August to October.The drought degree was serious in April,moderate in May,June and October,and mild in July,Augustand September.（4）When the weights ofVCI,TCIandPCIare0.1,0.4andO.5 respectively. Compard with the single drought monitoring index basedon meteorological station data,SDCI can monitor the distributioncharacteristicsof agricultural drought inregional scale more accurately.However,due to the limitationof spatial resolution of remotely sensed data,there are still many deficiencies of $S D C I$ in describing the agriculture drought.Therefore,the improvement on the spatial resolution is expected in the future study on the agriculture drought.
+
+Key words:agricultural drought ； the Loess Plateau;MODIS；TRMM

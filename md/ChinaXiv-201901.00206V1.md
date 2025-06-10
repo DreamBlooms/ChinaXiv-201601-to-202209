@@ -1,0 +1,354 @@
+# 用于独立特征学习的稀疏非负矩阵分解算法
+
+黄卫春‘，赵杨a，熊李艳ʰ(华东交通大学 a.软件学院;b.信息工程学院，南昌 330013)
+
+摘要：在保持非负矩阵分解（NMF）可解释性的同时，提高潜在特征的语义独立性是一个开放的研究问题。为了防止特征的共适应性，提出利用余弦相似度来减少潜在特征之间的相关性，从而提高NMF的独立特征学习能力。此外，为了使得分解后的矩阵具有较好的稀疏性，提出在传统 NMF 模型中引入 $L _ { 2 , 1 / 2 }$ 稀疏约束，增强了算法的局部学习能力和稳健性。因此，潜在特征中的语义信息更加明显，潜在空间的表示更具有判别性。在fetch_20newsgroups数据集上对文档聚类的实验结果表明，提出的INMF算法在一系列评价指标上效果都优于传统的NMF、SNMF 等算法模型。
+
+关键词：非负矩阵分解； $L _ { 2 , 1 / 2 }$ 稀疏；独立特征学习；余弦相似性 中图分类号：TP391.1 doi: 10.19734/j.issn.1001-3695.2018.10.0724
+
+Sparse non-negative matrix factorization algorithm for independent feature learning
+
+Huang Weichuna, Zhao Yanga+, Xiong Liyanb (a.SoftwareCollge,Nanchang,b.InformationEngineeringCollege,EastChinaJaotong University,Nanchang30013, China)
+
+Abstract:It's anopen research problem to improve the semantic independence of potential features while maintaining the interpretabilityofnon-negative matrix decomposition (NMF).To preventtheco-adaptabilityoffeatures,cosine similarityis proposed to reduce the corelation between potential features so as to improve the independent feature learning ability of NMF.In addition,in order to make the decomposed matrix have better sparsity, $L _ { 2 , 1 / 2 }$ sparse constraint is introduced into the traditional NMF modeltoenhance thelocal learningabilityandrobustnessof the algorithm.Therefore,thesemantic information inthe latent features is more obvious,andtherepresentationof thepotential spaceis more discriminative.The experimental resultsof document clustering on fetch_2Onewsgroups dataset show thatthe proposed INMF algorithm is superior to the traditional NMF and SNMF algorithm models in a series of evaluation indexes.
+
+Key words: non-negative matrix factorization; $L _ { 2 , 1 / 2 }$ sparse; independent feature learning; cosine similarity
+
+# 0 引言
+
+NMF的目的是将原始高维数据矩阵分解为两个低维数据矩阵，并且两个低维数据矩阵的乘积尽可能地近似原始高维数据矩阵。
+
+设一个原始的数据矩阵 $X = [ x _ { 1 } , x _ { 2 } \cdots x _ { N } ] \in R _ { + } ^ { M \times N }$ 。NMF 寻求将 $X$ 分解成非负基矩阵 $U = \left[ \boldsymbol { u } _ { 1 } , \boldsymbol { u } _ { 2 } \cdots \boldsymbol { u } _ { K } \right] \in R _ { + } ^ { M \times K }$ 和非负系数矩阵$V = \left[ \nu _ { 1 } , \nu _ { 2 } \cdots \nu _ { N } \right] \in R _ { + } ^ { K \times N }$ ，其中 $\mathrm { ~ \bf ~ K ~ }$ 是数字潜在的特征。这也可以写成等效的矢量公式 $\textstyle x _ { j } \approx \sum _ { i = 1 } ^ { k } u _ { i } V _ { i j }$ 。通常情况下，有 $K < < \operatorname* { m i n } ( M , N )$ 用来降维， $\nu _ { j }$ 是 $U$ 列上的原始数据向量 $x _ { j }$ 的权重系数。NMF将数据矩阵分解为基本的线性组合向量。
+
+很多研究学者尝试采用不同的代价函数来衡量NMF的性能，他们的研究重点都是找到使得该损失函数可以取得最小值的因子矩阵 $( U , V )$ 。目前，很多研究人员已经提出了一些方法来改进NMF，如基于Fisher判别分析的增量式非负矩阵分解算法[1]、基于Hessian正则化的多视图联合非负矩阵分解算法[2]、稀疏约束图正则非负矩阵分解的增量学习算法[3]等。韩素青等人[4提出一种通过在非负矩阵分解过程中对基矩阵列向量施加 $\mathrm { L } _ { 1 }$ 与 $\mathbf { L } _ { 2 }$ 范数稀疏约束，首先挖掘嵌入在高维数据中的低维数据结构，实现高维数据的低维表示；然后利用在低维数据聚类中性能良好的K-Means算法对稀疏降维后的数据进行聚类；孙静等人[5提出一种基于特征融合的多约束非负矩阵分解算法。该算法不仅考虑了少量已知样本的标签信息和稀疏约束，还对其进行了图正则化处理，而且将分解后的具有不同稀疏度的图像特征进行了融合，从而增强了算法的聚类性能和有效性。
+
+然而潜在特征之间的先天相关性使得传统的 NMF 算法缺乏辨别力，并且增加了最小化损失函数的困难。此外，传统的NMF 算法没有充分利用矩阵的稀疏性，并且忽略了不同特征之间的相关性的有用信息。
+
+稀疏特征选择旨在应用各种稀疏模型来实现特征选择并实现数据的稀疏表示。许多研究[15-17]已经将 $L _ { 1 }$ 范数扩展到 $L _ { P }$ 范数 $( 0 < p < 1 )$ 以获得更好的稀疏性。在文献[18,19]中，徐等人已经得出结论，当p为1/2时， $L _ { P }$ 范数，即 $L _ { 1 / 2 }$ 范数具有最好的稀疏性。在文献[20]中，Nie等人已经引入了联合 $L _ { 2 , 1 }$ 范数最小化的损失函数和正则化的特征选择。然而 $L _ { 2 , 1 }$ 范数不具备很好的稀疏性，因为它是基于 $L _ { 1 }$ 范数。最近，Wang 等人[21]提出了将 $L _ { 2 , 1 }$ 范数扩展到 $L _ { 2 , P }$ 矩阵范数 $( 0 < p < 1 )$ 的思想，以便选择联合的、更稀疏的特征，同时该模型比 $L _ { 2 , 1 }$ 范数具有更好的鲁棒性。实验证明，当 $\mathfrak { p }$ 等于1/2时， $L _ { 2 , P }$ 矩阵范数具有最好的性能，因此本文将 $L _ { 2 , 1 / 2 }$ 矩阵范数模型应用于的新NMF以实现稀疏约束。
+
+在本文中提出利用余弦相似度来减少潜在特征之间的相关性，从而提高NMF的独立特征学习能力。此外，本文引入了 $L _ { 2 , 1 / 2 }$ 稀疏约束到INMF中。因此，潜在特征中的语义信息更加清晰，潜在空间中的表示更具判别力。本文将这些方法与文档聚类中的几种基本NMF模型进行了比较，并给出了本文算法和传统算法在真实数据集上的实验结果对比。本文工作的主要贡献可以总结如下：
+
+a)本文提出的INMF通过引入余弦相似性防止特征共适应，从而改进NMF;
+
+b)在特征空间的基本矩阵上添加 $L _ { 2 , 1 / 2 }$ 范数的稀疏约束，不仅可以实现数据的稀疏表示，简化计算，还可以提高算法的局部学习能力和鲁棒性。
+
+# 1 相关工作
+
+人们从不同的角度对NMF进行了改进研究，如约束$\mathrm { N M F ^ { [ 6 \sim 9 ] } }$ 、结构化NMF[10.11]和广义 $\mathrm { N M F } ^ { [ 1 2 \sim 1 4 ] }$ 。最常见的约束NMF是稀疏NMF，稀疏性约束有助于改进分解的唯一性，以及得到基于局部的表示，通常通过 $L _ { 1 }$ 范数[来实现特征选择和数据的稀疏表示。正交NMF具有良好的性能，因为正交 NMF的结果对应于一个独特的解区域中的稀疏区域，它学习得最明显[7]。图正则化NMF（GRNMF）提高了文档和图像等聚类任务中的性能，它通过在散布的数据点上构建最近的邻域图来模拟流形结构[8.9]。公式加权是学习算法的常用改进方法，可以用来强调不同成分的相对重要性。加权NMF在协同过滤和聚类任务中很流行，因为它们根据实例的连接将先验知识合并到损失函数中[10.11]。对于具有复杂和异构信息源的任务，提出了广义NMF，如Semi-NMF[12]、非负张量分解[13]和非负矩阵集因式分解[14]。
+
+一种特殊的方法dropout NMF[22]可以通过改变潜在特征的更新过程来防止隐藏单元的相互适应。由于固定的共同作用被打破，隐藏的单元仍然可以从别人那里学习，但依赖性较小。受这些启发，本文提出了一种新的NMF，其通过最小化潜在特征之间的余弦相似性来起作用。本文发现通过打破潜在特征之间的相关性可以改进NMF。因此，在下一章中，将余弦相似性纳入NMF。此外，添加在系数矩阵U上的 $L _ { 2 , 1 / 2 }$ 稀疏约束用于选择最具判别性的稀疏特征。
+
+# 2 方法
+
+NMF的目的是让系数矩阵U和基本矩阵 $\mathrm { \Delta V }$ 的乘积尽可能接近原始数据矩阵 $\mathbf { \boldsymbol { X } }$ 。NMF的公式如下：
+
+$$
+X \approx U V ^ { T }
+$$
+
+应该最小化平方欧几里德距离损失函数：
+
+$$
+L = \left\| X - U V ^ { T } \right\| _ { F } ^ { 2 } , s . t . U \in R _ { + } ^ { M \times K } , V \in R _ { + } ^ { K \times N }
+$$
+
+在本文中采用平方欧几里德距离损失函数：
+
+$$
+\begin{array} { r l } & { L = \left\| X - U V ^ { T } \right\| _ { 2 } ^ { 2 } = t r \big ( X ^ { T } X \big ) - } \\ & { 2 t r \big ( X ^ { T } U V \big ) + t r \big ( V ^ { T } U ^ { T } U V \big ) } \end{array}
+$$
+
+其中：是 $L _ { 2 }$ 范数的平方； $t r ( . )$ 代表矩阵的迹。梯度下降算法的迭代更新规则如下：
+
+$$
+u _ { m k } \gets u _ { m k } \frac { ( X V ^ { T } ) _ { m k } } { ( U V ^ { T } ) _ { m k } } , \gets \nu _ { k n } \frac { ( U ^ { T } X ) _ { k n } } { ( U ^ { T } U V ) _ { k n } }
+$$
+
+# 2.1用于独立特征学习的稀疏非负矩阵分解
+
+NMF可以表示为线性神经网络，因为输入 $x _ { i }$ 由U中的基向量的线性组合表示：
+
+$$
+\scriptstyle \chi _ { i } = U \nu _ { i } = \sum _ { k } \nu _ { k i } u _ { k }
+$$
+
+其中： $u _ { k }$ 是第 $\mathbf { k }$ 个潜在特征。
+
+由于潜在特征在NMF中是相关的，共适应是指 $\left\{ u _ { k } \right\} _ { k = 1 } ^ { k }$ 的更新停止在鞍点处的状态，其中L仍然可以进一步优化，直到达到最大迭代。研究人员试图在同一数据集上通过在不同的初始化策略下执行改进的NMF来避免共适应，这带来了很大的计算复杂性[18]。因此，本文提出了一种新的 NMF,在每次迭代中，通过最小化潜在特征之间的余弦相似度， $u _ { k }$ 将被独立更新，潜在特征将逐渐不相关。
+
+# 2.1.1稀疏约束
+
+虽然NMF可以降低原始数据的维数，但如何选择判别特征和实现数据的稀疏表示仍然是复杂的。因此， $L _ { 2 , 1 / 2 }$ 范数的疏约束被引入作为附加条件添加在基本矩阵U上。它可以写成
+
+$$
+\left\| U \right\| _ { 2 , 1 / 2 } = \left( \sum _ { i = 1 } ^ { m } \bigl \| U _ { i } \bigr \| _ { 2 } ^ { 1 / 2 } \right) ^ { 2 }
+$$
+
+# 2.1.2余弦相似性度量
+
+Theodoridis等人[24]将余弦相似性度量定义为（20 $\mathrm { S c o s i n e } ( x , y ) = { \frac { x ^ { T } y } { \| x \| \| y \| } }$ ，其中：=∑x²和=y分别是矢量 $x$ 和 $y$ 的长度； $x$ 和 $y$ 都是 $\mathbf { \xi } _ { l }$ 维向量。由于余弦相似度容易解释且对于稀疏向量计算简单，所以其被广泛用于文本挖掘和信息检索[25]。
+
+# 2.1.3迭代更新规则
+
+考虑到上述因素，本文将独立特征学习的稀疏非负矩阵分解的目标函数定义如下：
+
+$$
+\begin{array} { r } { L = \left\| \boldsymbol { X } - \boldsymbol { U } \boldsymbol { V } \right\| _ { F } ^ { 2 } + \theta \| \boldsymbol { U } \| _ { 2 , 1 / 2 } ^ { 1 / 2 } + \alpha \| \boldsymbol { V } \| _ { 2 } + \beta \sum _ { i , j } \cos ( U _ { i } , U _ { j } ) } \end{array}
+$$
+
+其中： $\theta$ 、 $\scriptstyle { \alpha }$ 、 $\beta$ 是非负的,它们可以平衡后面几个重建误差项的权重， $\theta$ 、 $\alpha$ 是稀疏参数, $\beta$ 是余弦相似性参数。
+
+为了优化这个目标函数，可以将式（7）中的目标函数转换如下：
+
+$$
+\begin{array} { r l } & { L = T r \big ( X ^ { T } X \big ) - 2 T r \big ( X ^ { T } U V \big ) + T r \big ( V ^ { T } U ^ { T } U V \big ) + } \\ & { \alpha \big ( T r \big ( V ^ { T } V \big ) \big ) + 4 \theta T r \big ( U ^ { T } Q U \big ) + \beta T r \big ( U ^ { T } U S \big ) } \end{array}
+$$
+
+$\scriptstyle Q = \left[ q _ { i j } \right] \in R ^ { \prime \prime \times m }$ 是一个对角矩阵,可以如下计算对角矩阵Q的第i个对角元素 $q _ { i j }$ ：
+
+$$
+q _ { i j } = \frac { 1 } { 4 \lVert U _ { i } \rVert _ { 2 } ^ { 3 / 2 } }
+$$
+
+为了避免溢出，在定义矩阵Q时添加一个足够小的常数$\varepsilon$ ，因此式（8）也可以写成如下形式：
+
+$$
+q _ { _ { i j } } = { \frac { 1 } { 4 \operatorname* { m a x } \biggl ( \left\| U _ { i } \right\| _ { 2 } ^ { \frac { 3 } { 2 } } , \varepsilon \biggr ) } }
+$$
+
+其中： $S = \left[ s _ { i j } \right] \in R ^ { k \times k }$ 。可以计算矩阵S的元素 $S _ { i j }$ 如下：
+
+$$
+\textstyle S _ { i j } = \sum _ { i , j } ^ { k } \cos ( U _ { i } , U _ { j } )
+$$
+
+为了获得基本矩阵 $\mathrm { ~ U ~ }$ 和系数矩阵 $\mathrm { ~ v ~ }$ 的迭代更新规则，取$\mathrm { ~ L ~ }$ 的偏导数：
+
+$$
+\frac { \partial L } { \partial U } = - 2 X V ^ { T } + 2 U V V ^ { T } + 8 \theta Q U + 2 \beta U S
+$$
+
+$$
+\frac { \hat { \sigma } L } { \hat { \sigma } V } = - 2 U ^ { T } X + 2 U ^ { T } U V + 2 \alpha V
+$$
+
+基本矩阵U和系数矩阵V的迭代更新规则如下所示：
+
+$$
+U _ { \scriptscriptstyle { m k } } {  } U _ { \scriptscriptstyle { m k } } \frac { ( X V ^ { T } ) _ { \scriptscriptstyle { m k } } } { ( U V V ^ { T } + 4 \theta Q U + \beta U S ) _ { \scriptscriptstyle { m k } } }
+$$
+
+$$
+V _ { _ { b n } } {  } V _ { _ { b n } } \frac { ( U ^ { T } X ) _ { _ { m k } } } { ( U ^ { T } U X + \alpha V ) _ { _ { k n } } }
+$$
+
+# 2.2收敛性分析
+
+本节将分析算法的收敛性，证明式（7）中的目标函数在迭代更新规则式（14）一（15）中单调递减。
+
+首先分析迭代更新规则式（14）的收敛性。
+
+引理2.1[26]
+
+$$
+\begin{array} { r } { \sum _ { i = 1 } ^ { m } \left( \left\| g _ { i } ^ { t + 1 } \right\| _ { 2 } ^ { 1 / 2 } - \frac { \left\| g _ { i } ^ { t + 1 } \right\| _ { 2 } ^ { 2 } } { 4 \left\| g _ { i } ^ { t } \right\| _ { 2 } ^ { 3 / 2 } } \right) \leq \sum _ { i = 1 } ^ { m } \left( \left\| g _ { i } ^ { t } \right\| _ { 2 } ^ { 1 / 2 } - \frac { \left\| g _ { i } ^ { t } \right\| _ { 2 } ^ { 2 } } { 4 \left\| g _ { i } ^ { t } \right\| _ { 2 } ^ { 3 / 2 } } \right) } \end{array}
+$$
+
+证明 从引理2.1有
+
+$$
+{ \scriptstyle \sum _ { i = 1 } ^ { m } } \left( { \left\| { U _ { i } ^ { t + 1 } } \right\| _ { 2 } ^ { 1 / 2 } } - { \frac { { \left\| { U _ { i } ^ { t + 1 } } \right\| _ { 2 } ^ { 2 } } } { 4 { \left\| { U _ { i } ^ { t } } \right\| _ { 2 } ^ { 3 / 2 } } } } \right) \leq \sum _ { i = 1 } ^ { m } \left( { \left\| { U _ { i } ^ { t } } \right\| _ { 2 } ^ { 1 / 2 } } - { \frac { { \left\| { U _ { i } ^ { t } } \right\| _ { 2 } ^ { 2 } } } { 4 { \left\| { U _ { i } ^ { t } } \right\| _ { 2 } ^ { 3 / 2 } } } } \right)
+$$
+
+定义一个函数如下：
+
+$$
+\begin{array} { r l } & { H \left( U , V \right) = T r \left( X ^ { T } X \right) - 2 T r \left( X ^ { T } U V \right) + T r \left( V ^ { T } U ^ { T } U V \right) } \\ & { + \alpha \left( T r \left( V ^ { T } V \right) \right) + \beta T r \left( U ^ { T } U S \right) } \end{array}
+$$
+
+因为 $\begin{array} { r } { \left\| U \right\| _ { 2 , 1 / 2 } ^ { 1 / 2 } = \sum _ { i = 1 } ^ { m } \left\| U _ { i } \right\| _ { 2 } ^ { 1 / 2 } } \end{array}$ ，可以得到以下不等式（19）：
+
+$$
+\begin{array} { r } { { H ^ { \prime } } ^ { + 1 } + \theta \sum _ { i = 1 } ^ { m } \frac { \left. U _ { i } ^ { t + 1 } \right. _ { 2 } ^ { 2 } } { 4 \left. U _ { i } ^ { t } \right. _ { 2 } ^ { 3 / 2 } } { = } H ^ { t + 1 } + \theta \Big \Vert { U ^ { t + 1 } } \Big \Vert _ { 2 , 1 / 2 } ^ { 1 / 2 } + \theta \sum _ { i = 1 } ^ { m } \left( \frac { \left. U _ { i } ^ { t + 1 } \right. _ { 2 } ^ { 2 } } { 4 \left. U _ { i } ^ { t } \right. _ { 2 } ^ { 3 / 2 } } { = } \left. U _ { i } ^ { t + 1 } \right. _ { 2 } ^ { 1 / 2 } \right) \leq } \end{array}
+$$
+
+$$
+H ^ { \prime } + \theta \sum _ { i = 1 } ^ { m } \frac { { \left\| { U _ { i } ^ { t } } \right\| } _ { 2 } ^ { 2 } } { 4 { \left\| { U _ { i } ^ { t } } \right\| } _ { 2 } ^ { 3 / 2 } } = H ^ { \prime } + \theta \big \| { U ^ { t } } \big \| _ { 2 , 1 / 2 } ^ { 1 / 2 } + \theta \sum _ { i = 1 } ^ { m } \left( \frac { { \left\| { U _ { i } ^ { t } } \right\| } _ { 2 } ^ { 2 } } { 4 { \left\| { U _ { i } ^ { t } } \right\| } _ { 2 } ^ { 3 / 2 } } - { \left\| { U _ { i } ^ { t } } \right\| } _ { 2 } ^ { 1 / 2 } \right)
+$$
+
+结合式（15）和（18），可以得到以下不等式：
+
+$$
+\boldsymbol { H } ^ { t + 1 } + \boldsymbol { \theta } \big | \big | \boldsymbol { U } ^ { t + 1 } \big | \big | _ { 2 , 1 / 2 } ^ { 1 / 2 } \leq \boldsymbol { H } ^ { t } + \boldsymbol { \theta } \big | \big | \boldsymbol { U } ^ { t } \big | \big | _ { 2 , 1 / 2 } ^ { 1 / 2 }
+$$
+
+因此，式（6）中的目标函数在迭代更新规则式（14）中单调减少。
+
+接下来继续分析迭代更新规则式（15）的收敛性。
+
+定义 2.1 $G { \left( h , h ^ { \prime } \right) }$ 是 $F ( h )$ 的一个辅助函数如果满足以下条件：
+
+$$
+\mathrm { G } ( h , h ^ { \prime } ) \geq \mathrm { F } ( h ) , G ( h , h ) = F ( h )
+$$
+
+引理2.2如果 $\mathbf { G }$ 是一个辅助函数，那么 $\mathrm { ~ F ~ }$ 在以下更新下是非增的：
+
+$$
+h ^ { t + 1 } = { \sqrt [ { \imath } ] { \imath } } _ { h } ^ { \phantom { } } G { \left( h , h ^ { \prime } \right) }
+$$
+
+显然能够证明
+
+引理2.3
+
+$$
+G ( V , V ^ { t } ) = F ( V ^ { t } ) + F ^ { \prime } ( V ^ { t } ) \big ( V - V ^ { t } \big ) + \frac { U ^ { T } U V + \alpha V } { V ^ { t } } \big ( V - V ^ { t } \big ) ^ { 2 }
+$$
+
+是 $F ( V )$ 的辅助函数。
+
+证明 $F ( V )$ 求一阶导数和二阶导数分别是
+
+$$
+\begin{array} { r l } & { F ^ { \prime } ( V ) = \left( - 2 U ^ { T } X + 2 U ^ { T } U V + 2 \alpha V \right) _ { k j } , } \\ & { F ^ { \prime \prime } ( V ) = \left( 2 U ^ { T } U + 2 \alpha \right) _ { k k } } \end{array}
+$$
+
+所以 $F ( V )$ 的泰勒展开式可以写成如下形式：
+
+$$
+F ( V ) { = } F ( V ^ { t } ) { + } F ^ { \prime } ( V ^ { t } ) ( V { - } V ^ { t } ) { + } ( U ^ { t } U { + } \alpha ) ( V { - } V ^ { t } ) ^ { 2 }
+$$
+
+因为 $\begin{array} { r } { \big ( U ^ { T } U V \big ) _ { \astrosun } = \sum _ { \astrosun } \big ( U ^ { T } U \big ) _ { \astrosun } V _ { \astrosun } ^ { \prime } \vert 2 \big ( U ^ { T } U \big ) _ { \astrosun } V _ { \astrosun } ^ { \prime } } \end{array}$
+
+$$
+\left( \alpha V \right) _ { k j } = \alpha V _ { k j } ^ { t }
+$$
+
+有
+
+$$
+\frac { U ^ { T } U V + \alpha V } { V ^ { t } } \hat { \geq } U ^ { T } U + \alpha
+$$
+
+所以
+
+$$
+G ( V , V ^ { t } ) \geq F ( V )
+$$
+
+通过联立方程式（22）和（23），知道 $G ( V ^ { t + 1 } , V ^ { t } )$ 是式（23）的局部极小值，并且 $\mathbf { \nabla } V ^ { t + 1 }$ 是相应的局部最小点。
+
+$G ( V , V ^ { t } )$ 是 $F ( V )$ 的辅助函数,因此F通过式(15)单调递减。
+
+# 3 实验结果和分析
+
+# 3.1数据集
+
+本文选择公开的语料库fetch_20newsgroups 数据集进行实验。数据集大约收集了20000份新闻文件的集合，可均匀地划分为20个不同的主题类别。它最初由朗肯收集，包含18 846个文件，并且在本文预处理之后仅保留1000个词。每个文档被转换为向量 $X _ { t } \in R ^ { 1 0 0 0 }$ ，使得数据矩阵 $X \in R ^ { 1 8 8 4 6 \times 1 0 0 0 }$ 。本文将标准NMF、稀疏NMF（SNMF）和本文的新算法应用于这个 $\boldsymbol { \cal X }$ ，用于比较研究算法的准确度和召回率。
+
+# 3.2实验设置
+
+评价指标：在本文中使用三种评价指标，即准确度（precision）、召回率（recall）和F值（F-measure）/(F1-score）来评估上述聚类算法的聚类性能。
+
+公式如下：
+
+$$
+\mathrm { R e } c a l l = \frac { n _ { i j } } { n _ { j } }
+$$
+
+其中： $n _ { i j }$ 是已知类别i中的文本属于聚类j中的个数； $n _ { j }$ 是已知类别i中的文档数； $n _ { j } ^ { \prime }$ 是聚类j中的文档数。
+
+F值同时考虑了上述的文档聚类精度 $\mathrm { ~ \bf ~ P ~ }$ 和召回率 $\mathrm { ~ \bf ~ r ~ }$ 来计算其得分，它是一种复合指标，其值越大，聚类效果越好。
+
+$$
+F _ { 1 } \mathrm { - s c o r e } = { \frac { 2 \times \mathrm { p r e c i s i o n } \times \mathrm { r e c a l l } } { \mathrm { p r e c i s i o n } + \mathrm { r e c a l l } } }
+$$
+
+参数设置：对于fetch_20newsgroups 数据集，新的NMF的参数 $\alpha$ 、 $\beta$ ，从区域{0.01\~0.1}中选择，并且SNMF的正则化项的平衡参数 $\alpha$ ，与上述相同。为了验证不同主题数下算法的性能，K分别设置为{5,10,15,20}。本文将INMF算法与传统的NMF、SNMF算法进行了对比实验，详细的实验对比结果在下节进行分析。
+
+# 3.3聚类结果
+
+表1\~4显示了两种基本方法与本文的方法在fetch_20newsgroups数据集上的聚类结果比较，对比不同K下准确率、召回率、F1-score指标。三种方法中的最佳表现都是粗体显示的。它表明，无论K的取值为多少，本文提出的新方法均比传统方法表现得更好。它展示了本文提出的方法在防止潜在特征共适应的有效性。
+
+Table1Results on $\mathrm { k } { = } 5$ datasets   
+
+<html><body><table><tr><td>算法</td><td>Precision</td><td>Recall</td><td>F1-score</td></tr><tr><td>NMF</td><td>0.199</td><td>0.198</td><td>0.198</td></tr><tr><td>SNMF</td><td>0.205</td><td>0.206</td><td>0.206</td></tr><tr><td>INMF</td><td>0.223</td><td>0.222</td><td>0.222</td></tr></table></body></html>
+
+表1 $\mathrm { k } { = } 5$ 数据集上的结果  
+
+<html><body><table><tr><td>算法</td><td>Precision</td><td>Recall</td><td>F1-score</td></tr><tr><td>NMF</td><td>0.100</td><td>0.099</td><td>0.099</td></tr><tr><td>SNMF</td><td>0.102</td><td>0.101</td><td>0.101</td></tr><tr><td>INMF</td><td>0.109</td><td>0.108</td><td>0.108</td></tr></table></body></html>
+
+表3 $k { = } 1 5$ 数据集上的结果
+
+Table2 Results on $\mathbf { k } { = } 1 0$ datasets   
+Table 3Results on $_ { \mathrm { k = 1 5 } }$ datasets   
+表4 $\scriptstyle \mathbf { k } = 2 0$ 数据集上的结果  
+
+<html><body><table><tr><td>算法</td><td>Precision</td><td>Recall</td><td>F1-score</td></tr><tr><td>NMF</td><td>0.064</td><td>0.064</td><td>0.064</td></tr><tr><td>SNMF</td><td>0.066</td><td>0.066</td><td>0.066</td></tr><tr><td>INMF</td><td>0.089</td><td>0.088</td><td>0.088</td></tr></table></body></html>
+
+表2 $\mathrm { k } { = } 1 0$ 数据集上的结果  
+Table 4 Results on $\scriptstyle \mathbf { k } = 2 0$ datasets   
+
+<html><body><table><tr><td>算法</td><td>Precision</td><td>Recall</td><td>F1-score</td></tr><tr><td>NMF</td><td>0.051</td><td>0.051</td><td>0.051</td></tr><tr><td>SNMF</td><td>0.050</td><td>0.049</td><td>0.050</td></tr><tr><td>INMF</td><td>0.059</td><td>0.058</td><td>0.058</td></tr></table></body></html>
+
+图1\~3直观地表明了随着K值的变化，本文提出的方法INMF与其他两种方法聚类结果的对比，分别从准确度、召回率和F值来进行评估。
+
+如图1所示，当k分别取5、10、15、20时，INMF在准确度方面与传统NMF、SNMF的对比。通过条形图的对比，可以更加直观地看到，在不同K值下，本文的INMF算法的准确度都是要优于其他两种算法的。
+
+![](images/def6f00452c8c134a7e99aae3c39a9354fe7ab73b0a1ada122343b74e5e7e871.jpg)  
+图1各K值下NMF、SNMF、INMF的准确性对比
+
+如图2所示，当 $\mathbf { k }$ 取不同值时，INMF在召回率方面与传统NMF、SNMF的对比。通过条形图的对比，可以更加直观地看到，本文的INMF算法的召回率是要优于其他两种算法的，并且随着K值得增大优势更加明显。
+
+如图3所示，当k取不同值时，INMF在F值方面与传统NMF、SNMF的对比。通过条形图的对比，可以看到本文的INMF算法的F值是优于其他两种算法的，但总体表现随着K值得增大而降低，因为具有更多主题的更大的数据集对于聚类来说更困难。
+
+# 3.4参数选择与收敛性分析
+
+当p分别设为{0.1，0.3，0.5，0.7，0.9}时，比较了在 $\mathbf { k } = \mathbf { \partial }$ 5时，传统NMF、SNMF以及本文算法在该数据集上的收敛曲线。在图4中，显示了当p对应不同值时每种算法的结果。考虑到聚类性能和时间消耗，本文设置了最合适的参数。对比分析可以看到，所有算法在20次迭代内趋于收敛。在fetch_20newsgroups数据集上，NMF和SNMF的迭代次数约为18和19，目标函数趋于稳定。但INMF可以在15次迭代处收敛。这是因为通过本文作出的改进之后，每次迭代后更多潜在特征变得不相关的，累积的效果带来了更好的性能。
+
+![](images/7c30fb03fa9297c4896a15418a50105415f87fae2ad0762c3a1e937dc782d709.jpg)  
+图2各K值下NMF、SNMF、INMF的召回率对比
+
+![](images/42c2b31dce37e617356b2b62b1dada675c31c8c03eaec7a892dd45e4eba3046a.jpg)  
+Fig.2Comparison of recall rates of NMF,SNMF and INMF under eachKvalues   
+图3各K值下NMF、SNMF、INMF的F值对比
+
+![](images/ba43282de3850f18592b54fc61edd24f743dbaeb4790df3b6d879a369dd13f09.jpg)  
+Fig.1Accuracy comparison of NMF, SNMF and INMF under eachKvalues   
+Fig.3Comparison of F-measure of NMF,SNMF and INMF under each Kvalues   
+图4fetch_2Onewsgroups上NMF、SNMF和INMF的收敛曲线 Fig.4Convergence Curves ofNMF,SNMF and INMF on fetch_20 news groups
+
+# 4 结束语
+
+本文对传统NMF中潜在特征之间的相关性对算法性能的影响进行了分析，提出了独立特征学习的稀疏非负矩阵分解方法即INMF。该方法不仅可以利用向量的余弦相似性，而且可以有效地学习目标的局部信息。在INMF中，潜在特征的更新是通过最小化每次迭代中的余弦相似度实现的。在本文所提出的算法中有效地防止了特征共适应性，因此潜在特征更加明确和更具有辨别力。此外， $L _ { 2 , 1 / 2 }$ 稀疏约束作为NMF中的约束条件，可以使分解后的矩阵具有良好的稀疏性，增强了算法的局部学习能力和鲁棒性。从上面的实验结果中可以得出结论，本文提出的算法在精度和召回率方面都有较好的效果。未来，笔者将探索具有其他损失函数和约束条件的NMF，并且将提出的新方法应用在不同的领域，如计算机视觉、语音识别、网络安全、生物医学工程等。
+
+# 参考文献：
+
+[1]蔡竞，王万良，郑建炜，等．基于Fisher判别分析的增量式非负矩阵 分解算法[J]．模式识别与人工智能,2018,31(6):505-515.(Cai Jing， Wang Wanliang,Zheng Jianbiao,et al. Incremental nonnegative matrix factorization algorithm based on fisher discriminant analysis [J].Pattern Recognition & Artificial Intelligence,2018,31(6): 505-515.)   
+[2]王超锋，施俊，吴金杰，等．基于Hessian 正则化的多视图联合非负 矩阵分解算法[J].计算机工程，2017，43（1):134-139.（Wang Chaofeng，Shi Jun,Wu Jinjie,et al. Multi-view joint non-negative matrix factorization algorithm based on Hessian regularization [J]. Computer Engineering,2017,43 (11): 134-139.）   
+[3] 汪金涛，曹玉东，孙福明.稀疏约束图正则非负矩阵分分解的增量 学习算法[J].计算机应用，2017,37(4):1071-1074.(Wang Jintao, Cao Yudong,Sun Fuming. Incremental learning algorithm for regular non-negative matrix partition decomposition of sparse constrained graphs[J].Journal of Computer Applications，2017，37(4): 1071-1074.)   
+[4]韩素青，贾茹．基于稀疏约束非负矩阵分解的K-Means聚类算法[J]. 数据采集与处理，2017，32(6):1216-1222.(Han Suqing，Jia Ru. K-Means clustering algorithm based on sparse constrained nonnegative matrix factorization [J]. Journal of Data Acquisition & Processing,2017, 32 (6):1216-1222.)   
+[5] 孙静，蔡希彪，孙福明．基于特征融合的多约束非负矩阵分解算法 [J]．计算机应用,2017,37(10):2834-2840.(Sun Jing,Cai Xixi,Sun Fuming.Multi-constraint nonnegative matrix factorization algorithm based on feature fusion [J].Journal of Computer Applications,2017,37 (10):2834-2840.)   
+[6] Mohammadiha N,Leijon A. Nonnegative matrix factorization using projected gradient algorithms with sparseness constraints [C]// Proc of IEEE International Symposium on Signal Processing and Information Technology. New York: IEEE Conference Proceedings,2009: 418-423.   
+[7] Ding Chris，Li Tao，Peng Wei，et al. Orthogonal nonnegative matrixt-factorizationsfor clustering[C]// Proc of ACM Sigkdd International Conference on Knowledge Discovery & Data Mining. USA:Philadelphia,PA,2006.   
+[8] Cai Deng，He Xiaofei，Han Jiawei,et al. Graph regularized non-negative matrix factorization for data representation [J].IEEE Trans Pattern Anal Mach Intell,2011,33 (8): 1548-1560.   
+[9] Zhi Ruicong，Flierl Markus,Ruan Qiuqi，et al. Facial expression recognition based on graph-preserving sparse non-negative matrix factorization [C]// Proc of IEEE International Conference on Image Processing.[S.1.]: IEEE Signal Processing Society,2010: 3293-3296.   
+[10] Mao Yun,Saul L K.Modeling distances in large-scale networks by matrix factorization [C]// Proc of the 4th ACM SIGCOMM Conference on Internet Measurement. New York: ACM Press,2004: 278-287.   
+[11] Kim YD,Choi S.Weighted nonnegative matrix factorization [C]// Proc Processing.Washington DC:IEEE Computer Society,2009:1541-1544.   
+[12] Ding C,Li Tao,Jordan M I.Convex and semi-nonnegative matrix factorizations [J].IEEE Transa on Pattern Analysis & Machine Intelligence,2010,32 (1): 45-55.   
+[13]Mprup M,Hansen L K,Arnfred S M.Algorithms for sparse nonnegative Tucker decompositions [J].Neural Computation,2008,20 (8): 2112-2131.   
+[14] Li Le,Zhang Yujin.Non-negative matrix-set factorization [C]// Proc of Fourth International Conference on Image and Graphics.Piscataway, NJ: IEEE Press,2007: 564-569.   
+[15]Foucart S,Lai Minjun,The sparest solutions of underdetermined linear systemby Lq-minimization for[J].Applied & Computational Harmonic Analysis,2009,26 (3): 395-407.   
+[16] Chartrand R.Exact reconstruction of sparse signals via nonconvex minimization [J].IEEE Signal Processing Letters,2007，14(10): 707-710.   
+[17] Chartrand R.Fast algorithms for nonconvex compressive sensing: MRI reconstruction from very few data [C]// Proc of IEEE International Conference on Symposium on Biomedical Imaging.2009: 262-265.   
+[18] Xu Zongben, Chang Xiangyu,Xu Fengmin,et al.L1//2 regularization: a thresholding representation theory and a fast solver [J]. IEEE Trans on Neural Networks & Learning Systems,2012,23(7):1013-1027.   
+[19] ZongBen Xu,Hai Zhang,Yao Wang,et al.L1/2regularization [J]. Science in China Series F :Information Science，2010,53 (6): 1159-1169.   
+[20] Nie Feiping,Huang Heng,Cai Xiao,et al.Efficient and robust feature selection via joint L2,1-norms minimization [C]// Proc of International Conference on Neural Information Processing Systems.[S.1.J:Curran Associates Inc,2010: 1813-1821.   
+[21] Wang Liping,Chen Songcan.l2,p-matrix norm and its application in feature selection [EB/OL].(2013).Available: http://arxiv.org/abs/1303. 3987.   
+[22] He Zhicheng,Liu Jie,Liu Caihua,et al.Dropout non-negative matrix factorization for independent feature learning [M]/ Natural Language UnderstandingandInteligentApplications.[S.l.]：Springer International Publishing,2016: 201-212.   
+[23] Langville AN,MeyerCD,Albright R,et al. Algorithms,initializations, and convergence for the nonnegative matrix factorization [J].Eprint Arxiv, 2014.   
+[24] Theodoridis S,Koutroumbas K.Pattern recognition (fourth edition) [M]. [S.l.] :Academic Press,2008.   
+[25] Dhillon I S,Modha D S.Concept decompositions for large sparse text data using clustering [J].Machine Learning,2001,42 (1-2):143-175.   
+[26] Shi Caijuan,Ruan Qiuiqi,An Gaoyun,et al.Hessian semi-supervised sparse feature selection based on l2,1//2-matrix norm [J]. IEEE Trans on Mnltimadia 201A 1771):16-28

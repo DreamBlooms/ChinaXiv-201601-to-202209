@@ -1,0 +1,154 @@
+# 一种基于等高线的小型撞击坑识别方法
+
+刘宇轩1,2.3，李春来1.3，刘建军1,3(1.中国科学院国家天文台，北京100012；2.中国科学院大学，北京100049;3.中国科学院月球与深空探测重点实验室，北京 100012)
+
+摘 要：撞击坑自动识别是行星探测任务中重要的研究热点之一。由于数据精度和算法局限性等问题，以往的方法往往针对识别尺度较大的撞击坑。基于目前国际上精度最高、覆盖最全的嫦娥二号数字高程模型（DEM）数据，提出一种基于等高线自动识别小型撞击坑的方法。首先，分析小型撞击坑模型的等高线特征，确定特征参数，建立指标体系；其次，提取实验区等高线信息，筛选出符合特征参数的等高线；最后，利用霍夫变换拟合撞击坑边界，提取撞击坑位置和大小信息。通过对实验区域的小型撞击坑识别结果分析表明，该方法可针对不同尺度的小型撞击坑设置不同的参数，分批次识别提取，综合识别正确率达 $90 \%$ 以上，证明该方法对于自动识别提取小型撞击坑是有效的。该方法可以弥补现有自动识别方法往往针对尺度较大的撞击坑的缺陷，识别结果可以补充现有月球撞击坑数据库中的小尺度撞击坑，为今后建立全月球撞击坑数据库打下基础。
+
+关键词：撞击坑识别；嫦娥二号数字高程模型；地形分析；等高线中图分类号：P391.9 文献标识码：A 文章编号：1672-7673(2018)
+
+行星表面通都分布着大量的撞击坑构造，它们是行星表面最显著的地貌特征，也是研究行星内部物质的窗口[。由于月球上没有大气，撞击坑保存比较完好，因此对于研究月球形貌、相对地质年龄、岩石构造以及月球的起源有重要意义。撞击坑识别研究，从早年使用望远镜观察描绘撞击坑的形貌，到利用遥感图像数据目视识别撞击坑，进而到近年来通过计算机自动识别撞击坑。随着月球影像与地形数据的大量获取，促使撞击坑的自动识别提取成为一个新的研究热点，近年来，众多国内外学者提出了大量研究方法，并建立了多种尺度的撞击坑数据库[2][3],[4],[5],[6],[7]。通过对现有方法的分析总结，撞击坑识别的方法大致可以归纳为4类：人工目视识别、基于形态拟合、基于机器学习以及基于地学信息分析的方法。人工目视识别法：利用影像和地形数据，建立识别撞击坑的解译标识，在计算机环境下，采用手工交互的方式对每个坑逐个识别，这种方式是目前最准确的撞击坑识别方法。这种方法的优点是准确性较高，但是费时费力，不适合于全月球和小尺度撞击坑识别。基于形态拟合法：由于撞击坑在图像上有类圆形的几何特点，在图像分割的基础上以霍夫变换和二次曲线为代表的形状拟合算法用于模拟提取完成的撞击坑边界，如文[8]利用组合霍夫变换算法，文[9]采用模糊霍夫变换算法对撞击坑进行识别，文[10]提出一种基于弦中点霍夫变换算法，文[11]采用最小二乘法拟合边缘椭圆的方法实现对撞击坑的提取。基于机器学习的方法：文[12]采用 BP神经网络加训练样本的算法，文[13]利用决策树算法，文[14]利用面向对象方法实现对撞击坑的识别。基于地学信息分析方法：文[15]利用坡度作为识别撞击坑的要素，文[16-17]等利用 $5 0 0 \mathrm { m }$ 分辨率的嫦娥一号数字高程模型数据和形态拟合的方法，进行撞击坑的识别提取。文[18]利用坡度数据、纹理信息和剖面曲率作为识别依据，采用水淹法对火星撞击坑进行分析。
+
+总结前人研究方法的优缺点和成果的不足，本文使用目前世界上覆盖最全、精度最高的嫦娥二号数字地形数据，提出基于等高线地形分析的方法，针对小型撞击坑进行识别提取研究，填补现有撞击坑数据库小型撞击坑数量不足和准确率不高的缺陷。
+
+# 1.数据
+
+2008 年2月，国务院批准探月工程二期立项，二期工程主要目标是实现月面软着陆，开展月面就位探测与自动巡视勘察。嫦娥二号作为二期工程的技术先导星，首要的科学任务是对全月球和嫦娥三号的月面着陆区进行详查，精细测绘全月球的地形地貌。嫦娥二号卫星于北京时间2010年10月1日18时59分57秒在西昌卫星发射中心成功发射。10月24日16 时49分，嫦娥二号卫星上的两线阵CCD立体相机首次开机工作，并成功获取了前视与后视两个视角的影像数据。截至到2011年5月20日，嫦娥二号卫星CCD立体相机完成全部任务，共获取607轨图像数据。全月球影像图制作过程中选取的 $1 0 0 \mathrm { k m }$ 轨道高度成像的384轨数据（其中，南北纬 $7 0 ^ { \circ }$ 范围344轨，极区共40轨），用于全月球数字高程模型数据产品生产。数据处理流程主要内容包括：数据准备、测区数据组织、平差点准备、全球平差、测区初级产品生产、标准产品生产、全球数据镶嵌等。结合嫦娥二号卫星轨道与姿态测量数据、5个月面绝对控制点等，进行全球平差，经过4年的数据处理，成功制作了 $7 \mathrm { m }$ 、 $2 0 \mathrm { m }$ ，$5 0 \mathrm { m }$ 分辨率数字高程模型数据。嫦娥二号数字高程模型数据在空间分辨率、数据一致性和完整性镶嵌精度等方面优于国际同类全月球数字产品。本文选择 $\mathrm { 7 m }$ 分辨率的数字高程模型数据进行小型撞击坑的识别提取。
+
+# 2.方法
+
+# 2.1．撞击坑模型分析
+
+根据基本形态，撞击坑可分为简单撞击坑（碗型小型撞击坑）、复杂撞击坑（具中央峰的较大型撞击坑）、多环撞击坑（撞击盆地）3类[19]。一个理想状态下的复杂撞击坑模型主要由坑唇边缘(rh)、坑壁(w)、坑底(f)、撞击培岩(m)和中央峰或中央环(p)5种形态要素组成。撞击溅射堆积物由坑唇边缘(rh)、丘状沉积物(rr)和辐射线沉积物(rc)构成。撞击溶岩(m)覆盖在其他形态要素之上。简单碗型撞击坑（c）一般分布在丘状沉积物（rr）之上。撞击坑识别是一种特征识别，对影像或地形数据进行分析处理，识别撞击坑的坑唇边缘（rh），并提取撞击坑的直径（D）、中心位置和高程等信息。
+
+![](images/eab55015e55300bdca3ac680fd88e1639a103e3f5d07fa5278d729ee745835fb.jpg)  
+图1理想的的复杂撞击坑模型(Donwilhelms，1987)
+
+![](images/ef1646c94905977910f38e977e562f85a4eac356ad5491cfae019e0abf445ebb.jpg)  
+Fig.1Ideal complex impact crater model   
+图2 简单撞击坑和复杂撞击坑剖面图Fig.2Impact crater structure
+
+等高线是地形图上高程相等的相邻各点所连成的闭合曲线，是最为常用的表达地形形态特征和起伏情况的形式。等高线可以从数字高程模型中提取出来，能够科学地反映月表的高程、坡度、坡向、高地走势等基本月表地形地貌。嫦娥二号数字高程模型数据的空间分辨率很高，月表高程在二维地理空间上得到了连续表达，利用该数字高程模型数据可较为方便、精细地提取月球撞击坑地形等高线，进而表达月球撞击坑形态，并对其进行分析和处理。
+
+![](images/cffce317826b80b51b6f9b864f3b145655ad9cbfb65bd87fab10b971fc7ea4fd.jpg)  
+图3等高线示意图
+
+从等高线的形态分析，撞击坑具有以下典型空间特点：（1）撞击坑坑唇边缘等高线通常为近似圆形或椭圆形；（2）撞击坑唇坑边缘等高线内侧通常存在多条嵌套的相似等高线，多为同心圆或椭圆，且间距较小，外侧等高线形状不定，且间距较远，与坑唇边缘有明显区别；(3)撞击坑坑底高程小，坑边缘高程大，其剖面线可以用下凹的抛物线形态拟合。因此，通过撞击坑地形等高线的特征以及与其他等高线之间的相互关系，可以分析识别出月表的撞击坑。从图4的撞击坑剖面形态看，等高线表达的是撞击坑在空间上的等值形态。因此，只要选取合适的等高距，撞击坑唇坑边缘的闭合近圆形等高线就可以逼近真实边缘，可以准确识别提取撞击坑的地理位置、大小和深度等信息。
+
+![](images/72c0edeab9ef7ce67d608072a4114e1535c9f78977314d685891bf3c270ddce9.jpg)  
+Fig.3 Contour diagram   
+图4撞击坑等高线示意图  
+Fig.4 Crater contour diagram
+
+# 2.2.指标体系和参数的确定
+
+撞击坑等高线往往表现为相互嵌套的类圆环状，因此，初步判别撞击坑特征的思路是根据等高线的圆度、矩形度、体态比等指标参数保留满足条件的等高线，再分析等高线之间的关系，聚合嵌套的等高线并标示外层等高线；然后，通过剖面线的凹凸剔除穹隆等正向地形区域，保留负向地形的撞击坑区域；最后通过霍夫变换拟合撞击坑的边缘，得到撞击坑的中心位置和大小。因此，指标体系和参数包括圆度、矩形度、体态比、剖面线凹凸度。
+
+(1)圆形度是图像处理中非常重要的概念，用于特征提取与描述，其值反映了被测量边界的复杂程度，公式为
+
+$$
+e = 4 \pi A _ { \scriptscriptstyle 0 } / P ^ { 2 } \qquad ,
+$$
+
+其中， $A _ { \boldsymbol { O } }$ 为面积； $P$ 为周长； $e$ 为 $4 \pi$ 面积与周长的平方的比。这个特征对圆形面域取最大值1，坑唇边缘越接近1的等高线越符合条件。
+
+（2）矩形度是常用的目标物体矩形拟合因子，其公式为
+
+$$
+e _ { 1 } = A _ { 0 } / A _ { R }
+$$
+
+其中， $A _ { \boldsymbol { O } }$ 为面积； $A _ { \mathrm { R } }$ 为最小外接矩形的面积； $e _ { I }$ 表示某物体对其最小外接矩形的充满程度。对于矩形物体， $e _ { I }$ 取得最大值1；对于圆形物体， $e _ { I }$ 取值为0.79；对于其他细长物体， $e _ { I }$ 取值变小。矩形拟合因子的值限定在0与1之间。
+
+（3）体态比定义为
+
+$$
+e _ { 2 } = W / L ,
+$$
+
+其中，W为最小外接矩形的宽； $L$ 为最小外接矩形的长。圆形面域的体态比取值为1，这个参数可以把细长不规则的等高线剔除。
+
+（4）剖面线凹凸性：因为月表还存在其他隆起的地形，如穹隆也会产生近圆形的闭合等高线。潜在撞击坑中还存在，对此情况的处理方法是判断潜在撞击坑所在的数字高程模型剖面线是否为下凹形态，如果为下凹形态，则是撞击坑；反之，若剖面线为上凸形态，则不是撞击坑。根据内等高线与等高线的数值大小关系确定是否为真实撞击坑。
+
+只有满足指标的等高线才会保留下来，并取满足大于等于3条包含关系的等高线闭合等高线组的最外侧等高线作为撞击坑的最终边界。
+
+# 2.3．撞击坑边界的拟合
+
+对满足条件，被保留下来的等高线，利用霍夫变化的方法拟合其边界，最终得到中心点和半径大小。
+
+霍夫变换算法是图像处理中识别几何形以及其特征的一种常用方法。霍夫变换的思想是：对二值图像I上任意一个边缘点 $I ( x , y )$ ，如果它在以 $( a , b )$ 为圆心， $r$ 为半径的圆上，则满足：
+
+$$
+( x - a ) ^ { 2 } + ( y - b ) ^ { 2 } = r ^ { 2 } \qquad ,
+$$
+
+从（4）式可以看出，每个边缘点 $I ( x , y )$ 映射成空间 $( a , b , r )$ 上一个二次曲面。将(4)式写成参数形式：
+
+$$
+a = x - r \cos \theta , b = y - r \sin \theta ,
+$$
+
+其中， $\theta \in [ 0 , 2 \pi )$ 。设待检测圆的半径 $r \in [ R _ { 1 } , R _ { 2 } ]$ ，则按照霍夫变换，对任意一个边缘点$I ( x , \ y )$ ， $\theta$ ， $r$ 分别以 $\Delta \theta , \Delta r$ 的步长，遍历 $[ 0 , 2 \pi ) _ { \mathfrak { F } ^ { \sharp } } [ \mathbf { R } 1 , \ \mathbf { R } 2 ]$ ，得到参数空间 $( a , \ b , \ r )$ 的子空间，并对相应的累加器单元 $\boldsymbol { 4 } C \left( \boldsymbol { a } , \ \boldsymbol { b } , \ r \right)$ 加1。对图像上所有的点遍历之后，得到累加器数组AC，其中任意一点 $A C \left( a , \ b , \ r \right)$ 表示在圆 $( a , \ b , \ r )$ 上的边缘点的数目。相同数目的边缘点在不同半径的圆上被认为是圆的可能性不同，半径越小，可能性越大。因此定义圆度的概念：
+
+$$
+\displaystyle \mathfrak { p } = \mathfrak { n } / \mathfrak { r }
+$$
+
+其中， $n$ 为圆的边缘点的数目； $r$ 为圆的半径； $p$ 为圆度。将累加器数组 $A C$ 中的元素按式计算圆度，得到三维圆度数组 $C$ 。圆形目标对应于圆度数组的局部峰值，即对应的 $C ( a , \ b , \ r )$ 为
+
+局部最大值。
+
+# 3.结果
+
+# 3.1.识别流程
+
+在嫦娥二号 $\mathrm { 7 m }$ 全月数字高程模型数据中随机选择了G227，G228区进行实验，基于ENVI和IDL，按照章节2中的原理和方法，编写程序进行识别提取。首先，设置合理的等高距在嫦娥二号数字高程模型数据中提取等高线；然后，通过圆形度、矩形度、体态比、剖面凹凸性，筛选出初选撞击坑区域；最后，通过霍夫变换提取撞击坑边界信息。将提取的信息导入AirGIS，确定撞击坑的地理位置和半径大小，并通过高程差计算得到撞击坑的深度信息，生成具有位置、大小、深度的小型撞击坑数据库。
+
+![](images/d96eb6cf126e791574281f6e8a69c85b207dae339026037db3b026a1fd7be656.jpg)  
+图5IDL程序计算演示
+
+# 3.2.识别结果
+
+基于数字高程模型数据等高线自动识别结果如图6，具体统计结果见表1。
+
+![](images/7ac4c8437588b281c33c66e6e32102510aa589a12e7db16c17ee1f41087e77fd.jpg)  
+Fig.5IDL program diagram   
+图6撞击坑识别结果示意图  
+Fig.6 the craterdetection result diagram
+
+本文的方法在G227、G228区分别识别撞击坑728和989个。为了评价本文方法的精度，使用Shufelt [8]提出的算法评价因子：检测百分比为(Detectionpercentage)D=100TP/(TP+FN),分支系数为 $\scriptstyle B = F P / T P$ 质量百分比为 $Q { = } 1 0 0 T P / ( T P { + } F P { + } F N ) _ { \circ }$ $T P$ 表示正确识别的撞击坑数量；FN表示遗漏识别的撞击坑数量； $F P$ 表示错误识别的撞击坑数量。目前最好的评价方法，依然是采用人工识别的结果作为对比参照。
+
+# 表1撞击坑识别结果统计表
+
+Table 1 Crater detection result statistics   
+
+<html><body><table><tr><td></td><td>TP</td><td>FN</td><td>FP</td><td>D</td><td>B</td><td>Q</td></tr><tr><td>G227</td><td>697</td><td>53</td><td>31</td><td>92.9%</td><td>4.4</td><td>89.2%</td></tr><tr><td>G228</td><td>918</td><td>81</td><td>71</td><td>91.9%</td><td>7.7</td><td>81%</td></tr></table></body></html>
+
+从表1统计的识别结果可知，本文方法在两个实验区的评价因子 $D$ 分别为 $9 2 . 9 \%$ 、 $91 . 9 \%$ ，均值为 $9 2 . 4 \%$ ， $B$ 分别为 $4 . 4 \%$ 、 $7 . 7 \%$ ，均值为 $6 . 1 \%$ ， $\boldsymbol { \mathcal { Q } }$ 分别为 $8 9 . 2 \%$ 、 $81 \%$ ，均值为 $8 5 . 1 \%$ 。从评价因子可以看出，本文的方法对于小型撞击坑有非常好的检测结果，正确识别率很高，且错分率很低，存在小部分遗漏识别情况。
+
+# 3.3.讨论
+
+本文提出来一种基于高精度数字高程模型数据的派生数据等高线通过计算机自动识别提取小型撞击坑的方法。相对于传统的逐点分析坡度指数,提取图像边缘转换成对地形线的分析，可以有效避免地形皱褶和碎石群的干扰,识别流程更为简单高效，识别速度也较快；可以设置不同的等高距，分批次分区间识别不同尺度的撞击坑，其识别正确率高，错误识别率低，也得益于嫦娥二号卫星的高精度数据，遗漏识别率比较低，说明该方法是可行有效的。不过需要注意的是，对于部分退化严重的撞击坑，坑缘破坏严重，坑壁平缓，等高线不能明显表达和准确勾画出撞击坑的形貌轮廓，无法被准确识别，导致漏分情况的发生。但通过对比同位置的影像数据，通过人工识别分析，是可以分辨的。因此，今后进一步的研究方向和重点在于如何识别退化严重的撞击坑，这也是所有撞击坑识别方法中的薄弱环节和有待解决的问题。在实际应用中，可用该方法的识别结果补充现有月球撞击坑数据库中的小尺度撞击坑，丰富现有的月球撞击坑数据库。
+
+# Automatic small crater recognition using digital elevation model from Chang'E-2 by contour line
+
+Yuxuan Liu1.2.3， Chunlai Li 1.3 (1.National Astronomical Observatories,CAS,Beijing 10oo12, China) (2.University of Chinese Academy of Sciences,Beijing1Ooo49,China)
+
+(3.KeyLaboratory of Lunar and Deep Space Exploration,Chinese Academy of Sciences Beijing1Ooo12,China.)
+
+Abstract: Crater detection is a significant research focus in planetary mission. Most of algorithm are focus on big crater cause of the data resolution is not precision enough. So this article propose a method about small craters automatic recognition from digital elevation model of chang'e-2 data,which is the highest precision lunar global data so far.Firstly，we analyze the feature of litle crater model to get the parameter and establish index system. Secondly, we get the contour of test data and extract the candidate.Thirdly,we use the Hough-Transform get the craters information, including the coordinate and diameter. According to the result of test district, we can get the conclusion that the method is useful. The accuracy of the detection is over $8 5 \%$ ，and we can set different parameter for different range of craters.The method and the result are good supplement to recent crater detection research,especially to the litte size craters. It is the foundation of global carter database in the future work.
+
+Key words: Crater recognition; Chang'E-2 DEM; topography analysis; contour line
+
+# 参考文献
+
+[1]R.Honda,R.Azuma.Crater Extraction and Clasification System for Lunar Images [J].Mem.Fac.Sci.Kochi Univ.21．2000.13-22   
+[2]Andersson,L.B.,Whitaker,B.A.，Nasa catalogueof lunar nomenclature[J]．In:NASA Reference Publication 1097. 1982.   
+[3]N.G. Barlow Crater database，1988   
+[DB]<http://webgis.wr.usgs.gov/pigwad/down/mars_crater_consortium.htm#barlow2>   
+[4]J.McDowell.A merge of adigital versionof the listof lunar craters fromNASA catalogueofLunar nomenclature with the list from the USGS site [DB]， $2 0 0 4 \widetilde { \mathrm { 2 0 0 7 } }$ .<http://www.planet4589.org/astro/lunar/Craters>.   
+[5]Rodionova J.F.et al. Morphological catalogue of the craters of the Moon．1987.[DB],   
+<http://selena.sai.msu.ru/Home/Moon_Cat/Moon_cate.htm>.   
+[6]G.Salamuniccar，S.Loncaric.GT-57633 catalogue of martian impact craters developed for evaluation of crater detection algorithms.Planet.Space Sci．56，2008.1992-2008.   
+[7]A.Losiak，T.Kohout，K.O. Sullivan,K.Thaisen,S.Weider，lunar impact database [DB].   
+2008.<http://www.lpi.usra.edu/lunar/surface/Lunar_Impact_Crater_Database_v9Feb2009.xls>   
+[8] Shufelt JA,Performance evaluation and analysis of monocular building extraction from aerial imagery，IEEE Transactions on Pattern Analysis and Machine Intelligence,21(4):311-326

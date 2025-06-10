@@ -1,0 +1,128 @@
+矿物质元素和维生素对鸡蛋壳颜色的影响及其可能机制黄选洋 张克英 王建萍\*丁雪梅 曾秋凤 白世平
+
+(四川农业大学动物营养研究所，动物抗病营养教育部重点实验室，成都611130)摘要：蛋壳颜色与鸡蛋自身营养没有直接关系，但是蛋壳颜色会影响鸡蛋的销售，也能一定程度反映蛋鸡的健康状态和鸡蛋品质。蛋壳色素主要由原卟啉IX、胆绿素及其螯合物等3种成分组成。虽然蛋壳颜色具有较高的遗传力，受多个基因共同调控，但是饲料营养素也可以影响蛋壳颜色。本文介绍了蛋壳色素的形成过程，并综述了部分矿物质及维生素等营养素对蛋壳颜色的影响并分析其可能机制，为进一步研究蛋壳色素形成和变化的机制及通过微量营养素调控蛋壳颜色提供了一定思路。
+
+关键词：蛋壳颜色；矿物质元素；维生素；原卟啉IX；血红素；机制中图分类号：S831文献标识码：A文章编号：
+
+鸡蛋蛋壳颜色与内在蛋品质和鸡蛋本身的营养价值没有直接关系，但是蛋壳颜色和光泽度的改变能间接反应蛋鸡健康状态及其鸡蛋品质，也是消费者衡量鸡蛋品质及是否购买的最直观指标。蛋壳颜色具有较高的遗传力（0.58\~0.76）[1]，但是生产上蛋鸡易遭受各种应激，如某些营养素的过量或不足、环境的改变等，使蛋鸡生产性能下降，蛋品质降低，蛋壳颜色变浅，危害蛋鸡自身健康[2]。而鸡蛋颜色的变浅也会直接影响鸡蛋的外观，降低销售价格和利润，阻碍蛋鸡生产行业的发展。
+
+# 1 蛋壳色素的形成
+
+蛋壳色素主要由3种成分组成：原卟啉IX（ $\mathrm { C _ { 3 4 } H _ { 3 4 } N _ { 4 } O _ { 4 } }$ ）、胆绿素（ $\mathrm { \bf C } _ { 3 3 } \mathrm { H } _ { 3 4 } \mathrm { O } _ { 6 } \mathrm { N } _ { 4 }$ ）和胆绿素锌螯合物[3-4]。原卟啉IX形成褐色、黄色或粉色；胆绿素及其锌螯合物形成绿色。3种成分按照不同的比例形成不同的颜色[5]。褐壳蛋壳中的色素主要是原卟啉IX，绿壳蛋壳中的色素主要是胆绿素。
+
+蛋壳色素沉积在蛋壳上。鸡蛋中除蛋黄外，其余都在输卵管中形成，其中膨大部分泌蛋清，峡部形成蛋壳膜，而蛋壳在子宫部形成，在蛋壳形成的最后阶段，蛋壳腺上皮细胞分泌的色素会主要沉积在蛋壳表面。而蛋壳结构又包括6部分，从内到外分别为内壳膜、外壳膜、乳头层、栅栏层、垂直晶体层和油质层[]。而蛋壳色素主要沉积于油质层上。
+
+蛋壳色素与血红素关系密切。血红素的生成需要原卟啉IX的参与，胆绿素可由血红素分解形成。而血红素加氧酶（HO）是血红素分解代谢过程中的关键酶，其功能是将血红素分解生成胆绿素、二价铁离子（ $\mathrm { F e } ^ { 2 + }$ ）和一氧化碳（CO）[7]。血红素合成通路被分为4个过程[8]，即吡咯环的生成、四吡咯的组装、四吡咯侧链的修饰和原叶啉IX原氧化生成原吓啉IX并与 $\mathrm { F e } ^ { 2 + }$ 螯合，如图1所示[9]。血红素合成通路的第1过程，在δ-氨基-γ-酮戊酸合成酶(ALAS)的催化下，琥珀酰辅酶A和甘氨酸于线粒体内缩合生成δ-氨基-γ-酮戊酸(ALA)，ALAS 是限制血红素合成整体效率的重要酶[10]，并且其活性也会受到环境中血红素含量的抑制性反馈调节。合成的ALA随后被转运至胞浆中。一旦进入细胞液，2分子ALA在δ-氨基-γ-酮戊酸脱水酶(ALAD)的催化下，脱水缩合成1分子胆色素原（PBG)，此时吡咯环结构生成。第2过程于胞浆中完成，4个分子的PBG在胆色素原脱氨酶（PBGD）的作用下缩合生成羟甲基胆素（HMB)，形成1个不稳定的四吡咯聚合物。第3过程，HMB在尿卟啉原II合成酶(UROS)的作用下，其 D 环倒置并闭合四吡咯大环生成尿卟啉原III（UROgenIII)。UROgenIII经尿叶啉原II脱羧酶催化，依序去除乙酸侧链上4个羧基转变成粪卟啉原III(CPgenIII)。胞液中生成的 CPgenII被转运至线粒体内，在粪卟啉原氧化酶（CPOX）的作用下转变成原卟啉原IX。第4过程即原叶啉原IX氧化酶（PPOX）催化发生氧化反应进而生成原卟啉IX。最后亚铁螯合酶（FECH）催化一个 $\mathrm { F e } ^ { 2 + }$ 与原卟啉IX结合，合成血红素。
+
+Cytosol:细胞液；Mitochondrion：线粒体；Glycine：甘氨酸；Succinyl-CoA：琥珀酰辅酶 A；ALAS:aminolevulinic acid synthase δ-氨基-γ-酮戊酸合成酶；ALA：δ-aminolevulinic acid δ-氨基-γ-酮戊酸；ALAD：aminolevulinic acid dehydratase δ-氨基-γ-酮戊酸脱水酶；PBG：porphobilinogen 胆色素原；PBGD:porphobilinogen deaminase 胆色素原脱氨酶；HMB：hydroxymethylbilane 羟甲基胆素；UROS：uroporphyrinogen II synthase 尿叶啉原II合成酶；UROgenIII:uroporphyrinogen III 尿叶啉原III；UROD：uroporphyrinogen decarboxylase 尿叶啉原II脱羧酶；CPgenIII：coproporphyrinogen III 粪吓啉原III；ABCB6:ATP-binding cassette transporter B6ATP结合盒类转运载体 B6；OGC：2-oxoglutarate carrier 2-氧化戊二酸载体；CPOX:coproporphyrinogen oxidase 粪卟啉原氧化酶；PPgenIX：protoporphyrinogen IX 原叶啉原IX;PPOX：protoporphyrinogen oxidase 原叶啉原IX氧化酶；PPIX：protoporphyrin IX 原叶啉IX；Heme：血红素;FECH：ferrochelatase 亚铁螯合酶；Mfrn：mitoferrin 线粒体铁蛋白；MATRIX：基质；IM：innermembrane 内膜；OM:outer membrane 外膜；IMS: intermembrane space 膜间隙。
+
+![](images/7954a464c77712d5202f4657834362b049e5751ef78161be0947435d76e0c3e8.jpg)  
+图1血红素的形成通路  
+Fig.1 Formation pathways of heme[9]
+
+然而，原卟啉IX的形成机理尚未完全明确。原卟啉IX是由ALA合成，在血红素合成通路中，原卟啉IX原叶啉原IX在PPOX的氧化作用下失去6个氢原子生成的。研究表明原卟啉IX产生具有氧气依赖性，在有氧气存在的条件下原卟啉原才能被氧化生成原卟啉IX，且在一定氧气浓度范围内原卟啉IX的合成率随氧气含量的增加而提高[11]。
+
+哺乳动物细胞中原卟啉IX形成的关键酶是PPOX。但是禽类中尚未发现PPOX，而是通过与氧气作用，使原卟啉原IX氧化成原卟啉IX[12]。Sparks等[13]推测子宫固有层分布由管状腺细胞合成无色的原卟啉原，然后转移至上皮细胞发生自动氧化，生成有色的原卟啉IX并积累在蛋壳腺中。因此，氧气的存在可能成为蛋壳腺中原卟啉IX形成的关键因素。李光奇等[14]通过转录组测序及蛋白质组学发现，深褐壳蛋鸡组与浅褐色蛋鸡组表达的差异转录本和蛋白质共同参与的氧化磷酸化这一过程，而这一过程消耗氧气。在产浅褐壳蛋鸡的蛋壳腺中有4个差异表达转录本和14个差异表达蛋白质上调，说明产浅褐壳蛋鸡蛋壳腺内氧化磷酸化水平较高，从而消耗更多的氧气。这可能造成细胞内氧气含量的减少，从而抑制原卟啉原X生成原卟啉IX，导致蛋壳颜色变浅。所以细胞内氧气含量的多少影响着原叶啉IX的生成，但是体内氧化还原反应产生过多的自由基可使机体遭受氧化应激而影响蛋壳颜色。
+
+胆绿素形成机理已经基本清楚，其受到主效基因SLC01B3调控。Wang等[15]报道在产绿壳蛋鸡的蛋壳腺中，1个EAV-HP内源病毒元件的完整插入到有机阴离子转运家族成员SLCO1B3基因5侧翼区内，导致其可以转运胆绿素，沉积到蛋壳表面形成绿壳鸡蛋。
+
+# 2部分微量营养素对蛋壳颜色的影响
+
+蛋壳色素的形成与沉积受多个基因共同决定，具有较高的遗传力（0.58\~0.76)[1]，同时也受许多因素影响，其中饲粮的营养成分可以影响蛋壳颜色，且生产中常常发现蛋壳的颜色会随着饲粮的改变而发生变化。铁参与血红素的形成；钒使机体产生氧化应激和细胞凋亡；维生素对于维持上皮细胞功能完整性和机体抗氧化功能，对原叶啉IX和血红素的生成有重要作用，且矿物质元素、维生素之间有相互协同或拮抗作用。所以饲粮中一些微量营养素的含量高低会影响蛋壳颜色的改变。
+
+# 2.1矿物质元素对蛋壳颜色的影响
+
+# 2.1.1 铁
+
+铁参与血红素的形成，添加一定量的铁可以改善蛋壳的颜色。Seo等[1]通过添加100mg/kg大豆蛋白铁于饲粮中，显著增加了蛋壳颜色，经测定血浆中的血红蛋白也随之增加。Park等[17]发现，饲粮中添加 $1 0 0 ~ \mathrm { { m g / k g } }$ 硫酸亚铁和蛋氨酸螯合铁也能显著增加蛋壳颜色。Paik等[18]也发现，添加 $1 0 0 ~ \mathrm { { m g / k g } }$ 的有机铁于饲粮中能显著提高蛋壳上色素的沉积。而袁建敏等[19]发现，饲粮中添加 $8 0 ~ \mathrm { m g / k g }$ 的铁，相对于 $6 0 ~ \mathrm { m g / k g }$ 的铁，蛋壳颜色改变并无显著性差异。这可能是由于添加剂量并不足以改变蛋壳颜色且试验周期较短的原因。其次，矿物质元素之间的相互作也会有影响，比如铁的利用必须有铜的存在，缺铁或缺铜可使蛋鸡发生营养性贫血，但是高剂量的铜会影响铁的吸收，从而可能使蛋壳颜色变浅；而铁与磷有拮抗作用，饲粮中含铁量过高时可减少磷在胃肠道中的吸收，造成钙、磷比例失调，可能阻碍蛋壳的形成，对蛋壳颜色有一定影响[20]。
+
+铁对于蛋壳颜色的影响可能通过影响原卟啉IX/血红素的生成和转运这2个途径实现。原叶啉IX和Fe2+通过PPOX在线粒体内生成血红素，是限制血红素合成的整体效率的重要步骤。原卟啉IX可能来自血液，饲粮中铁含量增高，对于红细胞形成有促进作用，对血红素的生成也有重要作用。此外， $\mathrm { F e } ^ { 2 + }$ 作为合成血红素的原料，线粒体中铁的增多，生成的血红素增多，则所需要的原叶啉IX会增多，如果细胞中Fe2+的浓度不足将会导致血红素生成受阻，影响原卟啉IX的生成[21]。
+
+血红素的生成在胞浆和线粒体内2个部位联合进行。线粒体膜上相关蛋白对铁、血红素及其原卟啉IX的转运非常重要。李光奇等[14]通过蛋白质组学发现了差异表达的蛋白主要是线粒体膜蛋白：移位蛋白（TSPO）、转铁蛋白（TF）、腺嘌呤核苷酸转运体（ANT2）和铁硫蛋白组装因子（Iba57）。而TSPO和ANT2分别转运血红素和原卟啉IX；TF主要转运铁离子进入线粒体内；Iba57以Fe2+为原料形成铁硫族，对生成血红素的原料琥珀酸辅酶A起作用。所以铁对于线粒体膜上的转运蛋白非常重要，从而影响原卟啉IX和血红素的生成和转运。
+
+线粒体内铁离子的浓度将会影响到原卟啉IX/血红素合成的效率及其转运，进而影响到原卟啉IX在蛋壳腺中的积累。
+
+# 2.1.2钒
+
+钒是动物体必需的微量元素之一，参与体内三大物质代谢，维持机体生长发育。摄入过量的钒会影响蛋色素的沉积，导致蛋壳颜色发白。蛋鸡饲粮中的钒主要来自于磷酸氢钙。Sullivan等[22]报道的几种饲料级磷酸盐中钒的含量在 $3 6 { \sim } 1 8 5 ~ \mathrm { m g / k g }$ 。黄李蓉[23]也报道饲料级磷酸氢钙中的钒含量为 $1 0 { \sim } 1 0 0 ~ \mathrm { m g / k g }$ 。Henry等[24]研究表明蛋鸡对钒的耐受剂量为 $1 0 ~ \mathrm { m g / k g }$ 。当磷酸氢钙的质量较好时，玉米-豆粕型饲粮中钒的含量会低于 $5 ~ \mathrm { m g / k g }$ 。但是一般的磷酸氢钙容易造成蛋鸡饲粮中钒的水平过高（其饲粮中磷酸盐的添加量为 $1 . 5 \%$ 左右）。Odabasi等[25]发现饲粮中添加 $1 5 ~ \mathrm { m g / k g }$ 及以上的钒，可以使蛋壳颜色变浅。Yuan等[26]也发现饲粮中添加 $5 ~ \mathrm { m g / k g }$ 及以上的钒，也会使蛋壳的红度（a\*）和黄度（b\*）都显著下降，亮度（ ${ \mathrm { ~ L ~ } } ^ { * }$ ）升高，蛋壳颜色明显变浅。说明钒对于蛋壳颜色有漂白效应。钒对蛋壳颜色的漂白作用，可能通过对子宫上皮细胞产生氧化应激和细胞凋亡，从而影响蛋壳腺的结构和功能完整性，削弱原叶啉IX的合成和分泌，进而造成蛋壳颜色变白[26]。
+
+但是原卟啉IX合成部位有2种说法：一是在血液中，二是在蛋壳腺中。Li等[27]比较了产深褐壳蛋鸡组和浅褐壳蛋鸡组的蛋壳腺及肝脏中的血红素合成和转运关键基因的表达量，发现深褐壳组和浅褐壳组母鸡蛋壳腺中ALAS、CPOX和ATP结合盒类转运载体(ABCB6、ABCB7和ABCG2)的表达量均高于肝脏；而在肝脏中只有ALAS表达量显著高于浅褐壳蛋鸡组；深褐壳组母鸡肝脏和蛋壳腺中ALAS基因的表达量均极显著高于浅褐壳组母鸡。此外，在深褐壳蛋鸡组蛋壳和蛋壳腺中原卟啉IX的含量显著高于浅褐壳蛋鸡组，但在其血清、胆汁和粪便中差异不显著，说明原卟啉IX由蛋壳腺合成并积累。周光玉[28]也报道原卟啉IX由蛋壳腺上皮细胞合成，而不是来源于血红蛋白的分解物。而原卟啉X若合成于血液中，当机体缺氧时，肾脏中会分泌促红细胞生成素，红细胞增多，从而体内合成的血红素增加，其蛋壳颜色会加深。这与李光奇等[14报道的褐壳鸡蛋颜色变浅可能是由于氧气缺乏造成这一结果相反。所以蛋鸡蛋壳色素中的原卟啉IX极有可能合成于蛋壳腺中。所以蛋壳腺结构和功能的损伤会阻碍原卟啉IX的合成。而Yuan等[26]恰好发现饲粮中添加 $1 0 ~ \mathrm { m g / k g }$ 钒会使蛋鸡子宫上皮细胞产生氧化应激和凋亡，从而破坏了蛋壳腺的结构与功能，削弱了原卟啉IX的合成与分泌，造成蛋壳颜色变浅。
+
+此外，钒造成蛋鸡体内氧化还原平衡受到破坏，产生氧化应激，造成HO的活性下降，使血红素通过HO生成胆绿素减少，可能造成血红素在线粒体内蓄积过多，造成蛋鸡体内血红素合成受阻，进而原卟啉IX合成减少，从而造成蛋壳颜色的变浅。
+
+# 2.1.3镁
+
+蛋壳中含有一定的镁元素。Seo等[16]报道饲粮中添加 $3 ~ \mathrm { g / k g }$ 的氧化镁，对蛋壳L\*、a\*、b\*值没有显著影响。Kim等[29]报道随着饲粮中镁的含量增加至 $3 ~ \mathrm { g / k g }$ ，蛋壳a\*和L\*值线性减小，而b\*值也有减少的趋势，但是所有鸡蛋壳的L\*、a\*和b\*值都在正常蛋壳颜色范围内。说明饲粮中镁含量越多可使蛋壳颜色变浅。然而目前没有直接证据表明随着摄入的镁含量增多，血清中镁含量增加会影响蛋壳腺中红细胞分解代谢，从而改变蛋壳色素的沉积。所以这可能是由于镁含量增加，其本身白色元素沉积在蛋壳中，从而使蛋壳颜色有所变浅。说明对镁不是影响蛋壳色素的形成与沉积来改变蛋壳颜色。
+
+# 2.2 维生素对蛋壳颜色的影响
+
+不仅矿物质元素会影响蛋壳颜色的改变，部分维生素对蛋壳颜色也有一定的影响，如对子宫上皮细胞结构与功能的完整起着必需作用的维生素A。有报道指出，饲粮中添加300$\mathrm { m g / k g }$ 的复合维生素有提高蛋壳颜色的趋势，但是长期添加 $4 0 0 ~ \mathrm { m g / k g }$ 复合维生素对蛋壳颜色影响不显著[30]。
+
+# 2.2.1维生素A
+
+维生素A是维持一切上皮组织健全所必需的物质，与生殖道粘膜上皮的发育和完整有关，而原卟啉IX可以由子宫壁上皮细胞中的蛋壳腺分泌，所以维生素A可对原卟啉IX的生成和沉积产生一定作用，从而影响蛋壳颜色[31]。Morales等[32]发现饲粮中添加类胡萝卜素可以使绿壳蛋中胆绿素含量提高，但是McDonald等[33]报道添加 $3 \ 0 0 0 \ \mathrm { I U / k g }$ 的维生素A对于胆绿素的生成和沉积几乎没有作用，这可能是由于蛋鸡品种造成的差异。蛋鸡饲粮维生素A水平较低时，会破坏上皮细胞结构功能的完整性，使上皮组织干燥和过度角化，易受细菌感染，进而影响生殖器官各上皮细胞的分泌功能[34]。蛋壳腺的结构和功能损坏后，影响原卟啉IX或胆绿素色素的形成和沉积，对蛋壳颜色产生影响。
+
+其次，对鸡而言，维生素A和维生素E存在拮抗作用，饲粮中高水平维生素A可降低血浆和体脂中维生素E的水平。维生素E对胡萝卜素转化为维生素A具有促进作用。且饲粮中锌含量较少时，不能使类胡萝卜素更好地转化为维生素A，阻碍蛋鸡对维生素A的吸收[35]。维生素A维持上皮细胞完整性且对体内黏多糖合成起作用，黏多糖是分泌黏液的上皮细胞的糖蛋白或黏蛋白的辅基。缺乏维生素A对子宫上皮细胞的结构和分泌的黏液有影响，从而可能对分泌的蛋壳色素有影响。
+
+# 2.2.2维生素C
+
+维生素C是体内的抗氧化剂，也可增强甲状腺的活动，促进钙的代谢，从而提高蛋壳质量，改善色泽，让蛋壳光滑，使色素在蛋壳上均匀沉积。此外维生素C可以改善机体铁的利用，Wang 等[36]发现维生素C与ALA存在着交互效应，维生素C可以将 $\mathrm { F e } ^ { 3 + }$ 还原成$\mathrm { F e } ^ { 2 + }$ ，可改善蛋鸡对铁营养吸收，使蛋壳颜色加深；维生素C也能促进蛋鸡肠道中铁的吸收与转运，并使传递蛋白质中的 $\mathrm { F e } ^ { 3 + }$ 还原成 $\mathrm { F e } ^ { 2 + }$ ，从而被释放出来再与铁蛋白结合。蛋鸡体内可利用的 $\mathrm { F e } ^ { 2 + }$ 增多，有助于原叶啉IX/血红素的形成和转运，有利于蛋壳色素的形成，改善蛋壳颜色[20]。Odabasi等[25]发现，饲粮中添加 $1 0 0 \mathrm { m g / k g }$ 的维生素C可以缓解钒引起的蛋壳变浅，但是Wang等[37]发现添加 $1 0 0 \mathrm { m g / k g }$ 的维生素C对钒引起的蛋壳颜色变浅没有改善作用，这可能是由于饲喂周期较短的缘故。维生素C作为抗氧化剂，更多的是缓解钒对蛋鸡产生的氧化应激，使蛋鸡在氧化应激条件下的改善蛋壳颜色，而几乎不会对正常饲养情况下蛋壳颜色有直接影响。且维生素E不足可影响体内维生素C的合成，而维生素C能减轻因维生素A、维生素E、硫胺素、核黄素、维生素 $\mathbf { B } _ { 1 2 }$ 及泛酸不足所出现的症状，对蛋壳颜色有一定改善作用。
+
+# 2.23维生素D
+
+维生素D可调节机体对钙、磷的吸收，对蛋壳的强度有着重要的影响。但在强的自然光照下，一般散养鸡体内合成的维生素 ${ \bf D } _ { 3 }$ 增加，也会造成褐壳鸡蛋的颜色变浅。Ryan等[38]报道饲喂3000IU/kg的维生素 ${ \bf D } _ { 3 }$ 的饲粮，并辅以紫外光线比较低水平维生素D，同样辅以紫外光线的蛋鸡所产的鸡蛋颜色存在差异，蛋壳颜色随时间的延长变浅至苍白，达到 $46 \%$ 的较高反射系数。这可能是因为在紫外光线的作用下，蛋鸡自身可能额外合成维生素 ${ \bf D } _ { 3 }$ ，造成体内维生素 ${ \bf D } _ { 3 }$ 过高，所以在自然光照下的散养鸡要适当降低饲粮中维生素 ${ \bf D } _ { 3 }$ 的水平。但是[39]提高维生素D在放养蛋鸡饲粮上的添加量，没有显著性改善蛋壳的颜色，原因可能是蛋鸡的品种不同。
+
+维生素 ${ \bf D } _ { 3 }$ 含量增多造成蛋壳颜色变浅没有直接证据，其更多是与蛋壳强度与厚度有关。维生素D及其激素代谢物作用于小肠黏膜细胞，形成钙结合蛋白，可促进钙、镁和磷的吸收[40]，而鸡蛋壳主要含碳酸钙和碳酸镁，如此便可让蛋壳色素均匀沉积在蛋壳表面，使蛋壳光滑，光泽度较亮。
+
+# 2.2.4 其他维生素
+
+对蛋壳颜色影响较大的维生素还有维生素E、维生素 ${ \bf B } _ { 6 }$ 。维生素E对蛋壳颜色的光泽度有一定作用，其具有抗氧化功能，能够维持细胞膜的完整与功能，还具有对抗血红素合成中过氧化物的溶血作用，因此可以保护红细胞[41]。石慧芹等[42]报道饲粮中添加 $5 0 ~ \mathrm { { I U / k g } }$ 的维生素E能显著提高应激状态下鸡蛋壳的 ${ \mathrm { ~ L ~ } } ^ { * }$ 值，但对于 $\mathbf { a } ^ { * }$ 和 ${ \mathfrak { b } } ^ { * }$ 值没有显著影响。
+
+细胞在细胞代谢过程中，维生素 ${ \bf B } _ { 6 }$ 作为所有氨基酸转氨酶的辅酶，促进血红素的合成，而血红素是叶啉铁合成的原料。缺乏维生素 $\mathrm { B } _ { 6 }$ 易导致输卵管萎缩，使得红细胞中血红蛋白的含量明显降低[43]，进而对蛋壳颜色造成一定影响。
+
+# 3小结
+
+蛋壳色素中含有的原叶啉X和胆绿素极有可能在子宫蛋壳腺中合成，而原叶啉IX的形成与机体氧化磷酸化有关，但其机理还需进一步探究。蛋壳颜色主要是由基因决定，具有较大遗传力（0.58\~0.76）[I]，但是营养对蛋壳色素的形成和沉积有一定影响，生产上大多通过营养手段调控鸡蛋壳颜色，但是某些营养素过量或缺乏都将改变蛋壳颜色。虽然蛋壳颜色与鸡蛋本身所具备的营养成分并无直接关系，但是却影响着鸡蛋的销售，同时也可能预示着蛋鸡遭受疾病、环境或饲粮等重大应激，危害蛋鸡健康。目前，矿物质元素和维生素对蛋壳颜色影响的研究有限，其影响机制的揭示更是鲜有报道。所以研究矿物质元素和维生素对蛋壳颜色的影响具有重要意义，对于蛋鸡行业的发展具有一定促进作用。
+
+# 参考文献：
+
+[1] 隋志鹏,谢艳丽,隋玲.褐壳蛋蛋壳颜色的形成、褪色及调控[J].现代畜牧兽医,2008(3):14- 15.   
+[2] INGRAM D R,HATTEN L F,HOMAN K D.A study on the relationship between eggshell color and eggshell quality in commercial broiler breeders[J].International Journal of Poultry Science,2008,7(7):700-703.   
+[3] POOLE H K.Spectrophotometric identification of eggshel pigments and timing of superficial pigmentdepositionintheJapanesequail[J].ExperimentalBiology and Medicine,1965,119(2):547-551.   
+[4] ITO S,TSUDZUKI M,KOMORI M,et al.Celadon:an eggshell color mutation in Japanese quail[J].Journal of Heredity,1993,84(2):145-147.   
+[5]纯华.蛋壳颜色形成的机理探讨[J].四川畜牧兽医,2004,31(12):21-22.   
+[6] FATHI M M,EL-DEIN Z A,EL-SAFTY S A,et al.Using scanning electron microscopy to detect the ultrastructural variations in eggshell quality of Fayoumi and Dandarawi chicken breeds[J].International Journal of Poultry Science,2007,6(4):236-241.   
+[7] LATHROP J T,TIMKO M P.Regulation by heme of mitochondrial protein transport through a   
+conserved amino acid motif[J].Science,1993,259(5094):522-525.   
+[8] AJIOKA R S,PHILLIPS JD,KUSHNER J P.Biosynthesis of heme in mammals[J].Biochimica   
+et Biophysica Acta (BBA): Molecular Cell Research,2006,1763(7):723-736.   
+[9] SEVERANCE S,HAMZA I.Trafficking of heme and porphyrins in metazoa[J].Chemical Reviews,2009,109(10):4596-4616.   
+[10] MAY B K,DOGRA S C,SADLON T J,et al.Molecular regulation of heme biosynthesis in higher vertebrates[J].Progress in Nucleic Acid Research and Molecular Biology,1995,51:1- 51.   
+[11] PORRA R J,FALK JE.The enzymic conversion ofcoproporphyrinogen II into protoporphyrin IX[J].Biochemical Journal,1964,90(1):69-75.   
+[12] BRENNER D A,BLOOMER J R.The enzymatic defect in variegate porphyria-studies with human cultured skin fibroblasts[J].New England Journal of Medicine,1980,302(14):765-769.   
+[13] SPARKS N H C.Eggshell pigments-from formation to deposition[J].Avian Biology Research,2011,4(4):162-167.   
+[14] 李光奇.转录组与蛋白质组联合分析影响鸡蛋蛋壳褐色的遗传因素[D].博士学位论文.北 京:中国农业大学,2015:25-40.   
+[15] WANG Z P,QU L J,YAO J F,et al.An EAV-HP insertion in 5' flanking region of SLC01B3 causes blue eggshellin the chicken[J].PLoS Genetics,2013,9(1):e1003183.   
+[16] SEO Y M,SHIN K S,RHEE A R,et al.Effects of dietary Fe-soy proteinate and $\mathrm { M g O }$ on egg production and quality of eggshell in laying hens[J].Asian-Australasian Journal of Animal Sciences,2010,23(8):1043-1048.   
+[17] PARK S W,NAMKUNG H,AHN H J,et al.Production of iron enriched eggs of laying hens[J].Asian-Australasian Journal of Animal Sciences,2004,17(12):1725-1728.   
+[18] PAIK I,LEE H,PARK S,et al.Effects of organic iron supplementation on the performance and iron content in the egg yolk of laying hens[J].Journal of Poultry Science,2009,46(3):198-202.   
+[19] 袁建敏,呙于明,吴媛媛,等.微量元素对蛋壳颜色的影响[C]//中国畜牧兽医学会动物营养 学分会：第九届学术研讨会论文集.重庆:中国畜牧兽医学会动物营养学分会,2004:1.   
+[20] 周安国,陈代文.动物营养学[M].3版.北京:中国农业出版社,2011:144-145.   
+[21] LOSSOS A,STUMPFIG C,STEVANIN G,et al.Fe/S protein assembly gene IBA57 mutation causes hereditary spastic paraplegia[J].Neurology,2015,84(7):659-667.   
+[22] SULLIVAN T W,DOUGLAS J H,GONZALEZ N J.Levels of various elements of concern in feed phosphates of domestic and foreign origin[J].Poultry Science,1994,73(4):520-528.   
+[23] 黄李蓉.饲料级磷酸氢钙、磷酸二氢钾和磷酸氢二钾质量特性研究[D].硕士学位论文.雅 安:四川农业大学,2013:4-6.   
+[24] HENRY P R,MILES R D.Heavy metals-vanadium in poultry[J].Ciencia Animal Brasileira,2001,2(1):11-26.   
+[25] ODABA\$I A Z,MILES R D,BALABAN M O,et al.Changes in brown eggshel color as the hen ages[J].Poultry Science,2007,86(2):356-363.   
+[26] YUAN Z H,ZHANG K Y,DING X M,et al.Effect of tea polyphenols on production performance,egg quality,and hepatic antioxidant status oflaying hens in vanadium-containing
+
+diets[J].Poultry Science,2016,doi: 10.3382/ps/pew097. [27] LI G Q,CHEN S R,DUAN Z Y,et al.Comparison of protoporphyrin IX content and related gene expression in the tissues of chickens laying brown-shelled eggs[J].Poultry Science,2014,92(12):3120-3124. [28] 周光玉.蛋壳颜色、成分和结构与蛋壳质量关系的研究[D].硕士学位论文.扬州：扬州大 学,2010:17-19. [29] KIM C H,PAIK I K,KIL D Y.Effects of increasing supplementation of magnesium in diets on productive performance and eggshell quality of aged laying hens[J].Biological Trace Element Research,2013,151(1):38-42. [30] 袁建敏,李斌,许鑫滢,等.复合维生素添加量对产蛋鸡蛋品质的影响[C]//动物营养与饲料 研究:第五届全国饲料营养学术研讨会论文集.珠海:中国畜牧兽医学会动物营养学分 会,2006:1. [31] 王秀.营养因素对蛋壳品质的影响[J].中国畜禽种业,2010,6(9):128-130. [32] MORALES J,VELANDO A,TORRES R.Biliverdin-based egg coloration is enhanced by carotenoid supplementation[J].Behavioral Ecology and Sociobiology,2011,65(2):197-203. [33] MCDONALD P,EDWARDS R A,GREENHALGH JF D,等.动物营养学[M].王九峰,李同 洲,译.北京:中国农业大学出版社,2007. [34] 崔娟娟.蛋壳品质的影响因素及其改进措施[J].畜牧兽医杂志,2008,27(1):47-49. [35]杨凤.动物营养学[M].北京:中国农业大学出版社,1999:126-127. [36] WANG J P,LEE J H,JANG H D,et al.Effects of δ-aminolevulinic acid and vitamin C supplementation on iron status,production performance,blood characteristics and egg quality of laying hens[J].Journal of Animal Physiology and Animal Nutrition,2011,95(4):417-423. [37] WANG J P,HE K R,DING X M,et al.Effect of dietary vanadium and vitamin C on egg quality and antioxidant status in laying hens[J].Journal of Animal Physiology and Animal Nutrition,2016,100(3):440-447. [38] RYAN J.Strong sun can mean pale shells[J].Poultry World,2007,23(9):18-19. [39] ROBERTS JR.Factors affecting egg shell and internal egg quality[C]//LE MERIDIEN S R.18th Annual ASAIM Southeast Asian Feed Technology and Nutrition Workshop.Cambodia:ASAIM,2010. [40] MATTILA P H,VALKONEN E,VALAJA J.Efect of different vitamin D supplementations in poultry feed on vitamin D content of eggs and chicken meat[J].Journal of Agriculture and Food Chemistry,2011,59(15):8298-8303. [41] PACKER J E,SLATER T F,WILLSON R L.Direct observation of a free radical interaction between vitamin E and vitamin C[J].Nature,1979,278(5706):737-738. [42] 石慧芹,周建川,马秋刚,等.酵母硒和维生素E对氧化应激状态蛋鸡抗氧化能力的影响[J]. 中国畜牧杂志,2013,49(21):37-40. [43] 呙于明.家禽营养[M].北京:中国农业大学出版社,2004:119-120.
+
+Review on the Effects and Possble Mechanism of Mineral Elements and Vitamins on Eggshell
+
+Color
+
+HUANG Xuanyang ZHANG Keying WANG Jianping\* DING Xuemei ZENG Qiufeng BAI Shiping
+
+(Key Laboratory for Animal Disease-Resistance Nutrition of China Ministry of Education,
+
+Institute ofAnimal Nutrition, Sichuan Agricultural University, Chengdu 611130, China) Abstract: Although there is no direct relationship between eggshell color and egg nutritional value, eggshell color can affect the sales of eggs and reflect the health status and egg quality of layers in certain extent. Eggshel pigments are mainly composed of protoporphyrin IX, biliverdin and its chelate. Although the eggshell color is a property with a high heritability and controlled by multiple genes, feed nutrients can influence eggshell color. This review introduced the formation of the eggshell pigments and focused on the effects of several mineral elements and vitamins on eggshell color and their likely mechanisms, providing a train of thoughts for further studying the forming and changing mechanism of eggshel pigments and regulating the eggshell color by micronutrient. Key words: eggshell color; mineral elements; vitamins; protoporphyrin IX; heme; mechanism

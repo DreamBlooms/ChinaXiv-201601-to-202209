@@ -1,0 +1,189 @@
+# 高质量学术期刊OA论文的分析研究
+
+——以WebofScience核心合集为例
+
+朱江1\*任晓亚1,21.中国科学院成都文献情报中心成都6100412.中国科学院大学 北京101408
+
+摘要：[目的/意义]旨在全面了解开放获取论文的数量及开放获取率，并对其质量做出初步评价。[方法/过程]以Webof Science（WoS）核心合集为数据源，从年代、研究领域、国家（地区）、发文机构4个维度统计2002-2016年15年间被WoS收录的高质量学术期刊所发表的论文，进而分析解读OA论文的变化情况；最后以Nature为例，以篇均被引次数与高被引论文占比为切入点，对OA论文的质量作简要分析。[结果/结论]全球OA论文数量逐年增长，尤以中国为典型代表；中国科学院是WoS平台收录论文最多的机构，2016年其OA论文量占据首位，但OA率与主要欧美机构尚有一定差距；生物医学领域的OA实践效果优于其他研究领域。
+
+关键词：开放获取;Open Access;OA 率;Web of Science;高质量学术期刊
+
+分类号：G250
+
+基金项目：本文系中国科学院文献情报能力建设专项项目“开放知识资源中心体系建设（二期）”（项目编号：中科院1705）研究成果之一。
+
+作者简介：朱江(ORCID： $0 0 0 0 - 0 0 0 3 - 2 8 7 8 - 4 7 5 1 )$ ，研究馆员，硕士生导师，E-mail:zhuj@clas.ac.cn； 任晓亚(ORCID： $0 0 0 0 - 0 0 0 2 - 4 7 8 7 - 9 3 6 1 )$ ，硕士研究生。
+
+# 1引言
+
+2002年2月发布的“布达佩斯开放获取先导计划”(BOAI)标志着开放获取运动在世界范围内取得正式推进。BOAI 提出了自存档(self-archiving)和开放获取期刊(open accessjoumals)两种主要的开放获取方式，其中后者是BOAI的重点，即创办同行评审的开放获取期刊或将传统方式出版的期刊改造为开放获取期刊[I。自此，在学术界、出版界和图书馆界的共同推动下，绿色OA和金色OA运动在全球范围内蓬勃发展：各种形式的知识库广泛建立，纯OA 和混合OA 期刊不断涌现，使学术研究成果得以快速、广泛传播。然而，由于开放获取期刊良莠不齐，再加上“掠夺型"开放获取期刊的出现以及过高的论文处理费用(APC)，导致部分科教工作者对开放获取出版模式心存疑虑。
+
+开放获取文献数量庞大，且散布在OA出版物和知识库中，因而对开放获取文献的数量和质量的分析研究存在一定的难度。邱凤鸣等[2]通过文献计量方法对1995-2010 年信息科学和图书馆学开放获取论文的数量、被引频次、国别及主题等进行了分析。臧国全等[3针对网络期刊论文构建了开放获取质量评价指标。陈娟[4]基于D.J.Solomon 等[5]和 B.Bo-Christer等[回的研究，利用多元统计法对 Scopus 和Webof Science收录的OA期刊进行分析，比较各评价指标差异及进步速度。刘趁7结合Altmetrics的思想，基于多重科学计量指标，不仅从传统的静态角度（被引、被浏览等)，而且从动态视角，较为综合地评价了开放获取论文的优势。
+
+2017年底，科睿唯安（Clarivate）在WebofScience平台上开始提供所收录文摘的开放获取全文链接，金色OA链接为“出版商处的免费全文"，指向纯OA和混合OA出版物中的OA全文、免费全文或超过一定时限而成为开放的全文（不单指传统意义上的金色OA文献);绿色OA链接分为深绿色的"知识库中的免费已接受文章"(accepted version manuscript)和浅绿色的“知识库中的免费已发表文章”（publishedversion）两类，分别指向可从知识库中免费获取的、最终的同行审阅手稿和可从知识库中免费获取的、已发表的文章[]；WoS 用户可通过这些链接免费获取全文。
+
+为了对全球OA 论文的数量及占比(OA率)有一个比较全面的了解,特以Web ofScience核心合集为数据源，于 2018年1月初对 WoS 所收录的高质量学术期刊 2002-2016 年发表的、类型为Article的文献（以下称为“论文"）进行了检索，并利用WoS自带的统计分析模块对所有论文和开放获取论文从年代、研究领域、国家（地区）和发文机构等维度进行分析研究。
+
+# 2高质量学术期刊0A论文的数量分析
+
+# 2.1高质量学术期刊0A论文数量及年度增长情况
+
+经过对2002-2016年期间发表且被WoS收录的论文总量、OA论文数量以及OA论文中的金色、绿色-已发表和绿色-已接受的论文数量及年度增幅进行统计，结果如表1所示：
+
+表12002-2016年0A论文量变化情况表  
+
+<html><body><table><tr><td rowspan="2">出版</td><td rowspan="2">论文总量</td><td colspan="8">OA论文数量</td></tr><tr><td colspan="2">金色</td><td colspan="2">绿色-已接受</td><td colspan="2">绿色-已发表</td><td colspan="2">合计</td></tr><tr><td>年</td><td>(篇）</td><td>篇数 (篇）</td><td>占比 (%)</td><td>篇数 （篇）</td><td>占比 (%)</td><td>篇数 (篇）</td><td>占比 (%)</td><td>篇数 OA （篇） 率(%)</td><td>年度 增幅 (%)</td></tr><tr><td>2002</td><td>813 712</td><td>109 737</td><td>13.49</td><td>461</td><td>0.06</td><td>3 685</td><td>0.45</td><td>113 883 14.00</td><td></td></tr><tr><td>2003</td><td>855 695</td><td>125 992</td><td>14.72</td><td>825</td><td>0.10</td><td>4092</td><td>0.48</td><td>130 909 15.30</td><td>14.95</td></tr><tr><td>2004</td><td>893 824</td><td>141 035</td><td>15.78</td><td>1 498</td><td>0.17</td><td>4 103</td><td>0.46</td><td>146 636 16.41</td><td>12.01</td></tr><tr><td>2005</td><td>957 907</td><td>149 936</td><td>15.65</td><td>3 221</td><td>0.34</td><td>4 367</td><td>0.46</td><td>157 524 16.44</td><td>7.43</td></tr><tr><td>2006</td><td>1 014 371</td><td>155 101</td><td>15.29</td><td>6103</td><td>0.60</td><td>8 080</td><td>0.80</td><td>169 284 16.69</td><td>7.47</td></tr><tr><td>2007</td><td>1 072 590</td><td>174 149</td><td>16.24</td><td>8136</td><td>0.76</td><td>12 822</td><td>1.20</td><td>195107</td><td>18.19 15.25</td></tr></table></body></html>
+
+<html><body><table><tr><td>2008</td><td>1 158 679</td><td>197 449</td><td>17.04</td><td>8101</td><td>0.70</td><td>24 077</td><td>2.08</td><td>229 627</td><td>19.82</td><td>17.69</td></tr><tr><td>2009</td><td>1 229 865</td><td>215 306</td><td>17.51</td><td>10 197</td><td>0.83</td><td>30 922</td><td>2.51</td><td>256 425</td><td>20.85</td><td>11.67</td></tr><tr><td>2010</td><td>1 285 728</td><td>233103</td><td>18.13</td><td>12 051</td><td>0.94</td><td>33 547</td><td>2.61</td><td>278 701</td><td>21.68</td><td>8.69</td></tr><tr><td>2011</td><td>1 375 685</td><td>258 515</td><td>18.79</td><td>13 892</td><td>1.01</td><td>35 651</td><td>2.59</td><td>308 058</td><td>22.39</td><td>10.53</td></tr><tr><td>2012</td><td>1 418 610</td><td>289 061</td><td>20.38</td><td>15 530</td><td>1.09</td><td>36 784</td><td>2.59</td><td>341 375</td><td>24.06</td><td>10.82</td></tr><tr><td>2013</td><td>1 490 001</td><td>318 230</td><td>21.36</td><td>16 735</td><td>1.12</td><td>38 270</td><td>2.57</td><td>373 235</td><td>25.05</td><td>9.33</td></tr><tr><td>2014</td><td>1 536 303</td><td>342 689</td><td>22.31</td><td>16 142</td><td>1.05</td><td>35 057</td><td>2.28</td><td>393 888</td><td>25.64</td><td>5.53</td></tr><tr><td>2015</td><td>1 569 658</td><td>364 863</td><td>23.24</td><td>17 361</td><td>1.11</td><td>34 434</td><td>2.19</td><td>416 658</td><td>26.54</td><td>5.78</td></tr><tr><td>2016</td><td>1 602 039</td><td>374 745</td><td>23.39</td><td>17 925</td><td>1.12</td><td>28 855</td><td>1.80</td><td>421 525</td><td>26.31</td><td>1.17</td></tr><tr><td>总计</td><td>18 274 667</td><td>3 449 911</td><td>18.88</td><td>148 178</td><td>0.81</td><td>334 746</td><td>1.83</td><td>3 932 835</td><td>21.52</td><td></td></tr></table></body></html>
+
+从表1可以看出：
+
+（1）2002-2016年WoS中OA论文数量呈逐年上涨趋势，OA率总体为 $2 1 . 5 2 \%$ ；年度OA 率从2002年的 $1 4 . 0 0 \%$ 上涨到2015年的 $2 6 . 5 4 \%$ (2016 年有所回落)，涨幅接近 $90 \%$ 。（2）2002-2016年OA论文的年度增幅规律性不强，以2008 年的 $1 7 . 6 9 \%$ 为峰值；进入2014 年后，年度增幅开始明显放缓，2016年的年度增幅仅为 $1 . 1 7 \%$ ，有进入瓶颈期的可能。（3）金色OA的论文是WoS平台获取OA论文的主要渠道，两种绿色OA论文仅仅是补充渠道，占比很低。
+
+# 2.2不同研究领域0A论文数量及变化情况
+
+选取WoS的研究领域为切入角度，分别统计2002-2016年论文总量最多、OA论文总量最多、OA 率最高的前 20个研究领域，并对其排名进行交叉比较（表2-表4)。
+
+表22002-2016年高质量学术期刊论文总量前20的研究领域  
+
+<html><body><table><tr><td rowspan="2">研究领域</td><td colspan="2">论文总量</td><td colspan="2">OA论文总量</td><td colspan="2">OA率</td></tr><tr><td>排名</td><td>篇数(篇)</td><td>排名</td><td>篇数(篇)</td><td>排名</td><td>百分比(%)</td></tr><tr><td>化学</td><td>1</td><td>2 011 385</td><td>7</td><td>160 202</td><td>97</td><td>7.96</td></tr><tr><td>工程学</td><td>2</td><td>1 808 144</td><td>19</td><td>101 487</td><td>115</td><td>5.61</td></tr><tr><td>物理学</td><td>3</td><td>1 789 003</td><td>16</td><td>110 475</td><td>108</td><td>6.18</td></tr><tr><td>材料科学</td><td>4</td><td>1 188 510</td><td>24</td><td>73 777</td><td>107</td><td>6.21</td></tr><tr><td>生物化学与分子生物学</td><td>5</td><td>878 187</td><td>1</td><td>364 610</td><td>21</td><td>41.52</td></tr><tr><td>科学技术其他主题</td><td>6</td><td>742 941</td><td>2</td><td>344 864</td><td>13</td><td>46.42</td></tr><tr><td>数学</td><td>7</td><td>726 292</td><td>6</td><td>170 305</td><td>53</td><td>23.45</td></tr><tr><td>生态环境科学</td><td>8</td><td>691 532</td><td>18</td><td>106 418</td><td>80</td><td>15.39</td></tr><tr><td>神经科学</td><td>9</td><td>669 481</td><td>3</td><td>218 696</td><td>39</td><td>32.67</td></tr><tr><td>计算机科学</td><td>10</td><td>645 631</td><td>34</td><td>51 079</td><td>99</td><td>7.91</td></tr><tr><td>药理学</td><td>11</td><td>508 365</td><td>11</td><td>127 390</td><td>49</td><td>25.06</td></tr><tr><td>企业经济学</td><td>12</td><td>482 141</td><td>72</td><td>17 467</td><td>132</td><td>3.62</td></tr><tr><td>心理学</td><td>13</td><td>458 458</td><td>25</td><td>73 171</td><td>78</td><td>15.96</td></tr><tr><td>外科学</td><td>14</td><td>425 028</td><td>20</td><td>92 475</td><td>61</td><td>21.76</td></tr><tr><td>肿瘤学</td><td>15</td><td>406 294</td><td>4</td><td>183 736</td><td>16</td><td>45.22</td></tr></table></body></html>
+
+表32002-2016年高质量学术期刊0A论文总量前20的研究领域  
+
+<html><body><table><tr><td>农学</td><td>16</td><td>389 733</td><td>28</td><td>64 554</td><td>73</td><td>16.56</td></tr><tr><td>细胞生物学</td><td>17</td><td>329 517</td><td>5</td><td>182 363</td><td>5</td><td>55.34</td></tr><tr><td>心血管系统与心脏病学</td><td>18</td><td>321126</td><td>9</td><td>136 941</td><td>19</td><td>42.64</td></tr><tr><td>生物技术与应用微生物学</td><td>19</td><td>320 822</td><td>14</td><td>117 857</td><td>28</td><td>36.74</td></tr><tr><td>光学</td><td>20</td><td>316 881</td><td>69</td><td>18 283</td><td>110</td><td>5.77</td></tr></table></body></html>
+
+表42002-2016年高质量学术期刊0A率前20的研究领域  
+
+<html><body><table><tr><td rowspan="2">研究领域</td><td colspan="2">OA论文总量</td><td colspan="2">论文总量</td><td colspan="2">OA率</td></tr><tr><td>排名</td><td>篇数(篇)</td><td>排名</td><td>篇数(篇)</td><td>排名</td><td>百分比(%)</td></tr><tr><td>生物化学与分子生物学</td><td>1</td><td>364 610</td><td>5</td><td>878187</td><td>21</td><td>41.52</td></tr><tr><td>科学技术其他主题</td><td>2</td><td>344 864</td><td>6</td><td>742 941</td><td>13</td><td>46.42</td></tr><tr><td>神经科学</td><td>3</td><td>218 696</td><td>9</td><td>669 481</td><td>39</td><td>32.67</td></tr><tr><td>肿瘤学</td><td>4</td><td>183 736</td><td>15</td><td>406 294</td><td>16</td><td>45.22</td></tr><tr><td>细胞生物学</td><td>5</td><td>182 363</td><td>17</td><td>329 517</td><td>5</td><td>55.34</td></tr><tr><td>数学</td><td>6</td><td>170 305</td><td>7</td><td>726 292</td><td>53</td><td>23.45</td></tr><tr><td>化学</td><td>7</td><td>160 202</td><td>1</td><td>2 011 385</td><td>97</td><td>7.96</td></tr><tr><td>微生物学</td><td>8</td><td>152 163</td><td>29</td><td>247 077</td><td>2</td><td>61.59</td></tr><tr><td>心血管系统与心脏病学</td><td>9</td><td>136 941</td><td>18</td><td>321126</td><td>19</td><td>42.64</td></tr><tr><td>免疫学</td><td>10</td><td>129 385</td><td>24</td><td>272 644</td><td>11</td><td>47.46</td></tr><tr><td>药理学</td><td>11</td><td>127 390</td><td>11</td><td>508 365</td><td>49</td><td>25.06</td></tr><tr><td>天文与天体物理学</td><td>12</td><td>125 095</td><td>26</td><td>256 453</td><td>9</td><td>48.78</td></tr><tr><td>遗传学</td><td>13</td><td>124 322</td><td>27</td><td>252 206</td><td>8</td><td>49.29</td></tr><tr><td>生物技术与应用微生物学</td><td>14</td><td>117 857</td><td>19</td><td>320 822</td><td>28</td><td>36.74</td></tr><tr><td>公共环境职业卫生学</td><td>15</td><td>114 804</td><td>21</td><td>309132</td><td>27</td><td>37.14</td></tr><tr><td>物理学</td><td>16</td><td>110 475</td><td>3</td><td>1 789 003</td><td>108</td><td>6.18</td></tr><tr><td>普通内科医学</td><td>17</td><td>106 773</td><td>22</td><td>307 870</td><td>32</td><td>34.68</td></tr><tr><td>生态环境科学</td><td>18</td><td>106 418</td><td>8</td><td>691 532</td><td>80</td><td>15.39</td></tr><tr><td>工程学</td><td>19</td><td>101 487</td><td>2</td><td>1 808 144</td><td>115</td><td>5.61</td></tr><tr><td>外科学</td><td>20</td><td>92 475</td><td>14</td><td>425 028</td><td>61</td><td>21.76</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2">研究领域</td><td colspan="2">OA率</td><td colspan="2">OA论文总量</td><td colspan="2">论文总量</td></tr><tr><td>排名</td><td>百分比(%)</td><td>排名</td><td>篇数(篇)</td><td>排名</td><td>篇数(篇)</td></tr><tr><td>热带医学</td><td>1</td><td>65.55</td><td>60</td><td>25 663</td><td>117</td><td>39 151</td></tr><tr><td>微生物学</td><td>2</td><td>61.59</td><td>8</td><td>152 163</td><td>29</td><td>247 077</td></tr><tr><td>病毒学</td><td>3</td><td>59.64</td><td>36</td><td>50193</td><td>80</td><td>84 161</td></tr><tr><td>发育生物学</td><td>4</td><td>57.29</td><td>52</td><td>31381</td><td>105</td><td>54 775</td></tr><tr><td>细胞生物学</td><td>5</td><td>55.34</td><td>5</td><td>182 363</td><td>17</td><td>329 517</td></tr><tr><td>传染病学</td><td>6</td><td>53.37</td><td>22</td><td>83 709</td><td>48</td><td>156 851</td></tr><tr><td>生理学</td><td>7</td><td>50.44</td><td>26</td><td>71 382</td><td>55</td><td>141 510</td></tr><tr><td>遗传学</td><td>8</td><td>49.29</td><td>13</td><td>124 322</td><td>27</td><td>252 206</td></tr><tr><td>天文与天体物理学</td><td>9</td><td>48.78</td><td>12</td><td>125 095</td><td>26</td><td>256 453</td></tr><tr><td>移植学</td><td>10</td><td>47.62</td><td>51</td><td>31390</td><td>95</td><td>65 911</td></tr><tr><td>免疫学</td><td>11</td><td>47.46</td><td>10</td><td>129 385</td><td>24</td><td>272 644</td></tr></table></body></html>
+
+<html><body><table><tr><td>数学与计算生物学</td><td>12</td><td>46.50</td><td>46</td><td>35 292</td><td>84</td><td>75 889</td></tr><tr><td>科学技术其他主题</td><td>13</td><td>46.42</td><td>2</td><td>344 864</td><td>6</td><td>742 941</td></tr><tr><td>风湿病学</td><td>14</td><td>46.12</td><td>61</td><td>24 941</td><td>107</td><td>54 081</td></tr><tr><td>血液学</td><td>15</td><td>45.85</td><td>29</td><td>61 228</td><td>57</td><td>133 542</td></tr><tr><td>肿瘤学</td><td>16</td><td>45.22</td><td>4</td><td>183 736</td><td>15</td><td>406 294</td></tr><tr><td>进化生物学</td><td>17</td><td>44.71</td><td>49</td><td>33 810</td><td>86</td><td>75 627</td></tr><tr><td>寄生虫学</td><td>18</td><td>44.56</td><td>58</td><td>27 746</td><td>97</td><td>62 270</td></tr><tr><td>心血管系统与心脏病学</td><td>19</td><td>42.64</td><td>9</td><td>136 941</td><td>18</td><td>321126</td></tr><tr><td>内分泌学</td><td>20</td><td>42.31</td><td>21</td><td>89 294</td><td>38</td><td>211 043</td></tr></table></body></html>
+
+（1）整体来说，2002-2016年间，肿瘤学、细胞生物学、心血管系统与心脏病学这3个研究领域都同时进入论文总量、OA论文总量、OA率的前20名。
+
+（2）论文总量占据前四的学科分别为化学、工程学、物理学、材料科学，但其OA 率并不十分理想，在151个研究领域中都处于第100 名左右的位置。
+
+（3）生物医学领域的OA论文数量庞大，远高于其他研究领域。除数学、化学这样的大学科以及科学技术其他主题外，OA论文总量前十的研究领域均属于生物医学领域。生物化学与分子生物学这一研究领域，论文总量居第5位，但OA论文总量排名第1,遥遥领先，OA率为 $41 . 5 2 \%$ ；细胞生物学论文总量虽不高，OA论文总量与OA 率排名却齐排第5位；OA 率最高的研究领域为热带医学， $6 5 . 5 5 \%$ 的论文可开放获取。这表明，生物医学领域对开放获取运动的支持力度较大且发展态势良好，如英国出版机构 BioMedCentral（简称 BMC)[9]、美国 PubMed Central（简称PMC）[10]以及PLoS[1]创办了多种开放获取期刊，都是开放获取运动的主要推动者。
+
+（4）忽略学科规模的差异，除天文与天体物理学、数学与计算生物学、科学技术其他主题外，OA 率排名中生物医学领域占据了前20个研究领域的 $8 5 \%$ ，且前10位均为生物医学领域的研究领域，与OA论文总量排名类似。其中，热带医学、微生物学、病毒学、发育生物学、细胞生物学、传染病学、生理学7个研究领域的OA 率都超过 $50 \%$ ，开放获取实践效果显著。
+
+# 2.3主要国家（地区）0A论文数量变化
+
+选取 2002-2016年WoS平台上论文总量最多的前10个国家（地区)，统计分析这10个国家（地区）在WoS平台上的论文总量和排名、OA论文总量和排名及年度变化情况。由于篇幅限制，表5只呈现部分年度的数据。
+
+表52002-2016年部分年度国家（地区）论文及0A论文排名表  
+
+<html><body><table><tr><td>排名</td><td>2002-2016</td><td>2002</td><td>2006</td><td>2010</td><td>2014</td><td>2016</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>论文</td><td>OA论 文</td><td>论文</td><td>OA论 文</td><td>论文</td><td>OA论 文</td><td>论 文</td><td>OA 论文</td><td>论文</td><td>OA 论文</td><td>论 文</td><td>OA 论文</td></tr><tr><td>美国</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>中国*</td><td>2</td><td>2</td><td>6</td><td>14</td><td>2</td><td>8</td><td>2</td><td>5</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>德国</td><td>3</td><td>4</td><td>3</td><td>4</td><td>3</td><td>4</td><td>3</td><td>3</td><td>3</td><td>4</td><td>3</td><td>4</td></tr><tr><td>英格兰</td><td>4</td><td>3</td><td>4</td><td>3</td><td>5</td><td>3</td><td>4</td><td>2</td><td>4</td><td>3</td><td>4</td><td>3</td></tr><tr><td>日本</td><td>5</td><td>5</td><td>2</td><td>2</td><td>4</td><td>2</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td></tr><tr><td>法国</td><td>6</td><td>6</td><td>5</td><td>5</td><td>6</td><td>5</td><td>6</td><td>6</td><td>6</td><td>7</td><td>6</td><td>6</td></tr><tr><td>加拿大</td><td>7</td><td>7</td><td>7</td><td>6</td><td>7</td><td>6</td><td>7</td><td>7</td><td>7</td><td>6</td><td>7</td><td>7</td></tr><tr><td>意大利</td><td>8</td><td>8</td><td>8</td><td>7</td><td>8</td><td>7</td><td>8</td><td>9</td><td>8</td><td>8</td><td>8</td><td>8</td></tr><tr><td>西班牙</td><td>9</td><td>12</td><td>10</td><td>10</td><td>9</td><td>11</td><td>9</td><td>11</td><td>11</td><td>11</td><td>11</td><td>13</td></tr><tr><td>澳大利亚</td><td>10</td><td>10</td><td>11</td><td>9</td><td>10</td><td>10</td><td>11</td><td>13</td><td>10</td><td>10</td><td>10</td><td>11</td></tr></table></body></html>
+
+注：\*不包括中国台湾省
+
+图12002-2016年部分年度主要国家（地区）论文总量  
+![](images/244bec80abf40abe41882e220d59bb106f1ebe7b379f9823d98e404c1224a549.jpg)  
+注：\*不包括中国台湾省
+
+图22002-2016年部分年度主要国家（地区）0A论文总量  
+![](images/fe597cc37b11e4cb80309c3783697273253d206fa91105482be1dd1c9aaa4713.jpg)  
+注：\*不包括中国台湾省
+
+（1）2002-2016年WoS平台上论文总量最多的前10个国家（地区)，除了西班牙，基本上也是15年间OA论文总量最多的国家（地区)。论文总量排第9位的西班牙，在OA论文总量排名中位列第12位，第9位的位置被巴西取代。
+
+（2）美国作为世界头号强国，2002-2016年论文总量、OA论文总量和年度排名始终列全球第1位。论文篇数逐年增长，但近年增幅明显减缓，论文总量和OA 论文总量分别在2015年和2016年出现负增长。
+
+（3）中国作为世界强国之一，2002-2016年论文总量和OA论文总量均排全球第2位，其中 2002年论文总量排全球第6位，OA论文总量仅排全球第14位；此后，中国的排名逐年上升，到2010、2011年，两项指标均上升到第2位，并保持至今。而 2002年两项指标均排第2位的日本，排名则是持续下滑。
+
+（4）英格兰作为开放获取的积极倡导者之一，其OA论文的排名始终领先论文排名更靠前的德国1位。（5）印度、韩国、巴西等国家的OA论文近年有较大增长，近年的年度统计也有进入或接近前10位的良好记录。
+
+# 2.4Top20机构0A论文的统计分析
+
+选取 2002-2016年WoS平台上论文总量最多的前20个机构，统计15年间机构的论文总量、OA论文总量及排名。由于篇幅限制，表6只选取了部分年度的数据进行分析。
+
+表62002-2016年论文总量Top20机构0A论文变化情况表  
+
+<html><body><table><tr><td></td><td colspan="4">2002-2016</td><td colspan="4">2002</td><td colspan="4">2006</td><td colspan="4">2010</td><td colspan="4">2014</td><td colspan="4">2016</td></tr><tr><td>> 机构</td><td colspan="2">论文总量</td><td colspan="2">OA论文总量</td><td colspan="2">论文总量</td><td colspan="2">OA论文总量</td><td colspan="2">论文总量</td><td colspan="2">OA论文总量</td><td colspan="2">论文总量</td><td colspan="2">OA论文总量</td><td colspan="2">论文总量</td><td colspan="2">OA论文总量</td><td colspan="2">论文总量</td><td colspan="2">OA论文总量</td></tr><tr><td></td><td></td><td>排名</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>排名</td><td></td><td>排名</td><td></td><td>排名</td><td></td><td>排名</td><td></td><td></td><td></td><td></td><td></td><td></td><td>排名</td></tr><tr><td></td><td>篇数</td><td></td><td>篇数</td><td>排名</td><td>篇数</td><td>排名</td><td>篇数</td><td>排名</td><td>篇数</td><td>排名 篇数</td><td></td><td>篇数</td><td></td><td>篇数</td><td></td><td>篇数</td><td></td><td></td><td>篇数</td><td>排名</td><td>篇数</td><td>排名</td><td>篇数</td><td></td></tr><tr><td>中国科学院</td><td>307 742</td><td>1</td><td>46 223</td><td>2</td><td>8 025</td><td>2</td><td>398</td><td>83</td><td>15 446</td><td>1</td><td>1285</td><td>19</td><td>20 110</td><td>2 702</td><td>10</td><td></td><td>31381</td><td>1</td><td>5868</td><td>2</td><td>35 761</td><td>1</td><td>7541</td><td>1</td></tr><tr><td>俄罗斯科学院</td><td>183 304</td><td>2</td><td>18 755</td><td>115</td><td>10 811</td><td>1</td><td>398</td><td>84</td><td>10 357</td><td>2</td><td>522</td><td>104</td><td>12 841</td><td>721</td><td>142</td><td>13 114</td><td>3</td><td>2</td><td>1153</td><td>131</td><td>14972</td><td>2</td><td>1423</td><td>113</td></tr><tr><td>哈佛大学</td><td>174 183</td><td>3</td><td>89 700</td><td>1</td><td>7 686</td><td>4</td><td>2381</td><td>1</td><td>10031</td><td>3</td><td>3975</td><td>1</td><td>12 598</td><td>6956</td><td>1</td><td>15 665</td><td></td><td></td><td>9420</td><td>1</td><td>10368</td><td>3</td><td>5 773</td><td>2</td></tr><tr><td>东京大学</td><td>110 351</td><td>4</td><td>35150</td><td>11</td><td>6505</td><td>5</td><td>1526</td><td>3</td><td>6826</td><td>5</td><td>1824</td><td>4</td><td>7 509</td><td>2 332</td><td></td><td></td><td>7916</td><td>11</td><td>3177</td><td>20</td><td>8146</td><td>14</td><td>3060</td><td>19</td></tr><tr><td>多伦多大学</td><td>110 064</td><td>5</td><td>36 647</td><td>10</td><td>4485</td><td>11</td><td>967</td><td>8</td><td>6150</td><td>6</td><td>1608</td><td>9</td><td>7941</td><td>2 700</td><td>11</td><td>9415</td><td></td><td>4</td><td>3811</td><td>7</td><td>9870</td><td>4</td><td>3700</td><td>10</td></tr><tr><td>密歇根大学</td><td>104 270</td><td>6</td><td>41778</td><td>4</td><td>4 396</td><td>12</td><td>935</td><td>11</td><td>5912</td><td>9</td><td>1687</td><td>7</td><td>7 322</td><td>3315</td><td>4</td><td>8801</td><td></td><td>5</td><td>4257</td><td>4</td><td>9 337</td><td>7</td><td>4 184</td><td>5</td></tr><tr><td>法国国家科学研究院</td><td>100 458</td><td>7</td><td>27 323</td><td>26</td><td>4 590</td><td>9</td><td>765</td><td>23</td><td>6030</td><td>7</td><td>1199</td><td>27</td><td>7150</td><td>1993</td><td>27</td><td>8 779</td><td></td><td>6</td><td>2963</td><td>23</td><td>8085</td><td>17</td><td>2 630</td><td>31</td></tr><tr><td>华盛顿州大学</td><td>97 291</td><td>8</td><td>45 069</td><td>3</td><td>4 631</td><td>7</td><td>1153</td><td>5</td><td>5 620</td><td>11</td><td>1908</td><td>3</td><td>6 656 10</td><td>3496</td><td>2</td><td>8 002</td><td></td><td>10</td><td>4485</td><td>3</td><td>8 705</td><td>12</td><td>4441</td><td>4</td></tr><tr><td>伊利诺斯大学</td><td>96 827</td><td>9</td><td>28 707</td><td>25</td><td>4 754</td><td>6</td><td>701</td><td>30</td><td>5 924</td><td>8</td><td>1239</td><td>22</td><td>6690</td><td>2129</td><td>24</td><td>7781</td><td></td><td>13</td><td>2801</td><td>27</td><td>8116</td><td>16</td><td>2999</td><td>22</td></tr><tr><td>加州大学洛杉矶分校</td><td>94 962</td><td>10</td><td>39 964</td><td>6</td><td>4 622</td><td>8</td><td>1133</td><td>6</td><td>5745</td><td>10</td><td>1731</td><td>6</td><td>6806</td><td>3367</td><td>3</td><td>7344</td><td></td><td>16</td><td>3 746</td><td>11</td><td>7 650</td><td>20</td><td>3476</td><td>13</td></tr><tr><td>斯坦福大学</td><td>92 234</td><td>11</td><td>36 731</td><td>9</td><td>3995</td><td>16</td><td>916</td><td>13</td><td>5057</td><td>14</td><td>1465</td><td>11</td><td>6375 12</td><td>2 732</td><td>9</td><td>7811</td><td></td><td>12</td><td>3 751</td><td>10</td><td>8748</td><td>11</td><td>4056</td><td>7</td></tr><tr><td>圣保罗大学</td><td>89 883</td><td>12</td><td>31444</td><td>18</td><td>2 797</td><td>43</td><td>568</td><td>39</td><td>4213</td><td>30</td><td>995</td><td>34</td><td>6616 11</td><td>2384</td><td>18</td><td>8140</td><td>7</td><td></td><td>3233</td><td>19</td><td>9060</td><td>9</td><td>3365</td><td>15</td></tr><tr><td>加州大学伯克利分校</td><td>88907</td><td>13 14</td><td>30135</td><td>23</td><td>4 229</td><td>14</td><td>905</td><td>14</td><td>5013</td><td>15</td><td>1306</td><td>15</td><td>6274 13</td><td>2407 2411</td><td>16 15</td><td>7 429 6996</td><td>18</td><td>15</td><td>2 883 3065</td><td>25 22</td><td>7282 7 022</td><td>22 25</td><td>2 823 3050</td><td>27 20</td></tr><tr><td>威斯康星大学 牛津大学</td><td>87 878 87852</td><td>15</td><td>31039 34 449</td><td>19 13</td><td>4 269 3287</td><td>13 27</td><td>789 792</td><td>20 19</td><td>5355 4382</td><td>12 22</td><td>1297 1324</td><td>16 13</td><td>6127 14 6049 15</td></table></body></html>
+
+<html><body><table><tr><td>京都大学</td><td>80287</td><td></td><td>18 23 220</td><td></td><td></td><td>4 569</td><td>10</td><td>1032</td><td>7</td><td>5116</td><td>13</td><td>1293</td><td>17</td><td>5250</td><td></td><td>24</td><td>1488</td><td>46</td><td>5815</td><td>39</td><td>2007</td><td>52</td><td>6022</td><td>37</td><td>2004</td><td></td></tr><tr><td>明尼苏达大学</td><td>80 145</td><td>19</td><td>29 368</td><td>24</td><td>3963</td><td></td><td>17</td><td>769</td><td>22</td><td>4 679</td><td>17</td><td>1210</td><td>25</td><td>5 559</td><td></td><td>2272</td><td></td><td></td><td>6394</td><td>30</td><td>2 894</td><td>24</td><td>6 752</td><td>28</td><td>2892</td><td>26</td></tr><tr><td>马里兰州大学</td><td>77 990</td><td>20</td><td></td><td></td><td></td><td>3476</td><td>22</td><td>673</td><td>33</td><td>4523</td><td></td><td>1090</td><td></td><td></td><td>5 449</td><td></td><td>2096</td><td>25</td><td>6528</td><td>26</td><td>2719</td><td>28</td><td>6622</td><td>30</td><td>2762</td><td>29</td></tr></table></body></html>
+
+（1）2002-2016年WoS平台上论文最多的机构是中国科学院，但2002年中国科学院的OA 论文非常少，仅有398 篇，排名第 83位；此后，中国科学院的OA论文量逐年上升，2014年上升到第2位，2016年则占据了头把交椅，这与中国科学院积极倡导并参与开放获取、成功运营全球最大之一的机构知识库不无关系。同期论文量排名第2位的俄罗斯科学院在OA论文方面却一直没有起色，从2002年到 2016年始终未进入前 50名，排名呈现先下滑又缓慢回升的趋势，2016年处于第113名的位置。
+
+（2）哈佛大学作为2002-2016年论文总量美国排名第1位、全球排名第3位的机构，其OA论文总量从2002年到 2015年一直占据全球第1的位置，直到 2016年才被中国科学院赶超。
+
+（3）东京大学和京都大学是进入2002-2016年论文总量前 20位的两所日本大学，分列第4位和第18位，其OA论文总量分列第9位和第19位，总体看差距不大，但年度数据显示：两所大学都有明显的下滑，以京都大学的下滑幅度最为明显，2013年即滑出了前 50位。与此相反，中国的上海交通大学、浙江大学、北京大学、复旦大学、中山大学，韩国的首尔国立大学，法国国家科学研究院（CNRS）等机构则在近年纷纷跨入论文总量和OA论文总量双前50位的门槛，逐渐挤占了欧美老牌大学的位置。
+
+（4）近年，英国著名大学的OA论文排名位次，普遍高于各自机构的论文排名，牛津大学近几年OA论文的排名有大幅提升，2016年更是位居第3，仅次于中国科学院和哈佛大学，这与英国研究理事会的OA政策有一定的关联，也说明英国科教工作者对OA认可度和执行力较高。
+
+（5)巴西圣保罗大学的OA论文排名逐年稳步上升，从2002年的第39位，上升到2016年的第15位，是发展中国家的一个典型代表。
+
+（6）2016年，中国科学院的OA论文总量位居全球第一，OA率为 $2 1 . 0 9 \%$ ；而排名第2-4 位的哈佛大学、牛津大学、华盛顿大学OA 率均在 $50 \%$ 左右，哈佛大学更是高达 $5 5 . 6 8 \%$ 。在OA率方面，中国科学院与排名领先的其他机构存在明显的差距。
+
+# 3高质量学术期刊0A论文质量的初步分析
+
+以Nature 为例，通过OA论文的被引次数、对期刊影响因子的贡献度（如篇均引用量、高被引论文比例）来简要分析OA论文的质量（表7)。
+
+表72002-2016年Nature的0A论文统计表  
+
+<html><body><table><tr><td rowspan="2">年代</td><td>全部论文数</td><td>全部论文被</td><td>全部论文篇均</td><td>OA论文数量</td><td>OA论文</td><td>OA论文篇</td></tr><tr><td>量(篇)</td><td>引次数</td><td>被引次数</td><td>（篇）</td><td>被引次数</td><td>均被引次数</td></tr></table></body></html>
+
+<html><body><table><tr><td>2002</td><td>1017</td><td>330 164</td><td>324.65</td><td>47</td><td>10 653</td><td>226.66</td></tr><tr><td>2003</td><td>956</td><td>310 025</td><td>324.29</td><td>57</td><td>23 331</td><td>409.32</td></tr><tr><td>2004</td><td>916</td><td>296 034</td><td>323.18</td><td>90</td><td>29 023</td><td>322.48</td></tr><tr><td>2005</td><td>987</td><td>331337</td><td>335.70</td><td>122</td><td>51 065</td><td>418.57</td></tr><tr><td>2006</td><td>906</td><td>296 812</td><td>327.61</td><td>96</td><td>35 835</td><td>373.28</td></tr><tr><td>2007</td><td>785</td><td>251 086</td><td>319.85</td><td>107</td><td>46 663</td><td>436.10</td></tr><tr><td>2008</td><td>868</td><td>273 477</td><td>315.07</td><td>324</td><td>107 601</td><td>332.10</td></tr><tr><td>2009</td><td>800</td><td>236 358</td><td>295.45</td><td>350</td><td>119 296</td><td>340.85</td></tr><tr><td>2010</td><td>825</td><td>222 885</td><td>270.16</td><td>385</td><td>123 976</td><td>322.02</td></tr><tr><td>2011</td><td>803</td><td>195 217</td><td>243.11</td><td>375</td><td>106 100</td><td>282.93</td></tr><tr><td>2012</td><td>835</td><td>189 280</td><td>226.68</td><td>411</td><td>122 892</td><td>299.01</td></tr><tr><td>2013</td><td>832</td><td>129 722</td><td>155.92</td><td>402</td><td>67 762</td><td>168.56</td></tr><tr><td>2014</td><td>828</td><td>98 809</td><td>119.33</td><td>396</td><td>56 943</td><td>143.80</td></tr><tr><td>2015</td><td>857</td><td>67 984</td><td>79.33</td><td>429</td><td>37 482</td><td>87.37</td></tr><tr><td>2016</td><td>844</td><td>32 954</td><td>39.05</td><td>364</td><td>16 147</td><td>44.36</td></tr><tr><td>总计</td><td>13 059</td><td>3 262 144</td><td>249.80</td><td>3 955</td><td>954 769</td><td>241.41</td></tr></table></body></html>
+
+Nature 作为传统型顶级期刊，在学术界享有极高的声誉。2002-2016年WoS平台收录的类型为Article的Nature 论文共13059篇，被WoS收录文献引用的总次数合计3262144次，篇均249.80次；同期OA论文共3955篇，被引总次数为954769次，篇均241.41次，略低于全部论文的篇均值。
+
+而 2007-2016年近10年的数据则显示：10年里论文总数共8277篇，被引总次数为1697 772次，篇均 205.12次；同期OA论文共3 543篇，被引总次数为804 862 次，篇均227.17次，比全部论文的篇均值高 $9 . 7 1 \%$ 。
+
+![](images/864c6af3534748dd3cce40cb79f864918bc9f24e71b97c0a56e84938e321565c.jpg)
+
+# 图32007-2016年Nature高被引论文趋势
+
+此外，2007-2016年Nature 高被引论文共3365篇，其中OA 高被引论文1 543篇。各年度高被引论文占当年全部论文的比例总体呈上升趋势，由 2007年的 $3 4 . 2 7 \%$ 增长到2016年的 $43 . 4 8 \%$ ；各年度OA 高被引论文占OA论文的比例则由 2007年的 $4 1 . 1 2 \%$ 增长到2016年的 $4 8 . 3 5 \%$ ，其中，2012年的 $5 1 . 0 9 \%$ 为峰值。
+
+论文被引次数的高低受多种因素制约，并不是论文质量的唯一指标。论文被引次数除了受期刊、论文自身质量影响外，还受论文的可见性、可获得性等因素影响[12]。2007-2016 年近10 年Nature 的OA 论文的篇均被引次数高于全部论文的篇均值，且OA 高被引论文占比基本上都高于同年度高被引论文占比，透过以上数据，虽不能简单地认定OA论文的质量更高，但OA论文总体呈现的更高的被引次数对促进科学研究成果的传播和传承、Nature 影响因子的持续提高还是起到了一定的推动作用。
+
+# 4结论
+
+虽然WebofScience核心合集的OA链接不是完全准确，但通过分析近15年的数据，可以得出以下主要结论：
+
+（1）金色OA论文是在WoS平台获取OA论文的主要渠道，绿色已接受OA论文与绿色已发表OA论文仅仅是补充渠道。
+
+（2）2002-2016年WoS中OA论文数量占WoS论文总量的 $2 1 . 5 2 \%$ ，并呈逐年上涨趋势；进入2014年后，年度增幅开始显著放缓；2016年的年度增幅仅为 $1 . 1 7 \%$ ，有进入瓶颈期的可能。
+
+（3）从研究领域来看，15年间生物医学领域的OA论文总量领先于其他领域，OA 率前10位的研究领域均为生物医学领域，实践也证明该领域是开放获取运动的主要推动者。
+
+（4）从国家（地区）来看，2002-2016年WoS平台上论文总量最多的前10个国家（地区)，除了西班牙，基本上也是15年间OA论文总量最多的国家（地区)。美国论文总量、OA 论文总量及排名始终列全球第1位，但近两年先后出现负增长；中国的OA论文总量逐年上升，近年来稳定保持在全球第二位；日本在论文总量与OA论文总量榜单中的排名持续下滑；印度、巴西等发展中国家的OA论文近年有较大增长。
+
+（5）从发文机构来看，中国科学院是15年来WoS平台收录论文最多的机构，而OA论文排名则通过积极参与开放获取运动，快速扭转发展初期非常靠后的局面，在 2016 年首次赶超哈佛大学，OA 论文量位列全球第一，但OA 率与主要欧美机构相比尚有一定差距;
+
+日本的东京大学和京都大学在OA 论文量排名中持续下滑；英国的大学机构排名有大幅提升，与其OA认可度与执行力不无关系。
+
+# 参考文献：
+
+[1］朱江．科技会议文献开放保障体系研究[D]．成都：四川大学，2006.  
+[2]邱凤鸣，陈惠兰．基于Webof Science 的开放获取论文分析［J]．现代情报，2011，31(8)：115-118.  
+[3］臧国全，安明，王晓梅．网络期刊论文的开放获取质量评价研究［J]．图书馆，2013(4)：24-26.[4]陈娟．Scopus 和WoS 收录开放获取期刊的定量研究[J]．中国科技期刊研究，2015，26(4)：405-413.[5]SOLOMON D J， LAAKSO M, BJORK B C. A longitudinal comparison of citation rates and growthamong open access journals[J]． Journal of informetrics，2013，7(3):642-650.  
+[6]BO-CHRISTER B， DAVID S. Open access versus subscription journals: a comparison ofscientific impact[J].BMC medicine，2012, $1 0 ( 1 ) \colon 1 \AA ^ { - 1 0 }$   
+[7］刘趁．基于多重计量指标的论文开放获取优势研究[D]．大连：大连理工大学,2016.  
+[8] Clarivate analytics open access: the future of open access discovery is NOW![EB/0L].[2018-01-10].  
+http://info.clarivate.com/openaccess?utm_source $=$ wos&utm_medium=product&utm_campaign=OA%20WoS%20Link&utm_term=wosplatform.  
+[9]BioMed Central 简介[EB/OL]．[2018-01-12]．https://www.biomedcentral.com/.  
+[10] PubMed Central 简介[EB/OL]．[2018-01-12]． https://www.ncbi.nlm.nih.gov/pmc/.  
+[11]科学公共图书馆 PLoS 简介[EB/OL]．[2018-01-12].https://www.plos.org/.  
+[12] Openaccessaspracticeinthe humanities[EB/OL]. [2018-01-10].https://www.fosteropenscience.eu/sites/default/files/pdf/3410.pdf.
+
+# 作者贡献说明：
+
+朱江：负责研究设计、论文撰写和论文修改；  
+任晓亚：负责数据收集、数据处理与论文撰写。
+
+# Research on the OA Papers in High-quality Academic
+
+# Journals: A Case Study of Web of Science Core Collection
+
+Zhu Jiangl, Ren Xiaoyal,2 1.Chengdu Library and Information Center, Chinese Academy of Sciences, Chengdu, 610041, China; 2.University of Chinese Academy of Sciences, Beijing, 101408, China Abstract: [Purpose/significance] This paper aims at getting a comprehensive understanding   
+for the quantity and OA ratio of OA papers, and making a preliminary evaluation of these papers.   
+[Method/process] In this paper, we utilized Web of Science Core Collection as the data source and   
+took the four dimensions: publication years, research areas, countries/territories and organizations.
+
+We investigated papers published in high-quality academic journals that recorded in WoS from 2002 to 2016.Then, we analyzed and interpreted the changes and trends of OA papers. Finally, we took Nature as an example and analyzed the quality of OA papers from the perspective of citation per paper and highly-cited papers proportion. [Result/conclusion] The number of OA papers in the world have been increasing year by year, especially in China. Chinese Academy of Sciences (CAS) is the institution which has the largest number of papers recorded in WoS, the number of OA papers took the first place in 2O16,but the OA ratio still lagged behind major European and American institutions.The OA practice in the field of biological and medical sciences is superior to other research fields.
+
+Keywords: open access; OA; OA ratio; Web of Science; high-quality academic journal

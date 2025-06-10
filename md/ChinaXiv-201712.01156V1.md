@@ -1,0 +1,133 @@
+# 基础研究
+
+# 硼酸盐缓冲液制备尿酸酶复合脂质体及尿酸酶的特性
+
+周云莉'，杨林²,晏子俊」，邓雪'，张景勍1  
+1重庆医科大学药物高校工程研究中心,重庆 400016;重庆医药高等专科学校药学系,重庆 401331
+
+摘要：目的研究硼酸-硼砂缓冲液制备的尿酸酶-过氧化氢酶脂质体(BUCLP)中尿酸酶的体外特性。方法采用逆向蒸发法制备BUCLP,并考察其部分理化性质特性。结果BUCLP中尿酸酶最适温度保持在 $4 0 \ \%$ ,最适pH值由8.5降为8.0,而Km值也由 $1 4 . 2 0 7 \ \mathrm { \mu m o l / L }$ 降为 $1 3 . 6 2 3 ~ \mathrm { \textmu m o l / L }$ ;尿酸酶-过氧化氢酶(UAC)与空白纳米脂质体作用后，再与FITC结合，其荧光强度高于游离UAC与FITC结合的荧光强度，且BUCLP在 $2 8 0 ~ \mathrm { n m }$ 处的荧光强度高于游离UAC。结论 尿酸酶和过氧化氢酶联合制备成BUCLP后尿酸酶的活性增加。
+
+关键词：尿酸酶；过氧化氢酶；脂质体；米氏常数；荧光图谱
+
+# Preparation and characterization of uricase in uricase-catalase liposomes prepared using borate buffer
+
+ZHOU Yunli',YANG Lin2,YAN Zijun',DENG Xuel,ZHANGJingqing   
+MedicineEngineeringResearchCenterKeyLaboratoryofBiochemical&MolecularPharmacologyChongingMedicalUniersity   
+Chongqing 400016,China;²Chongqing Medical and Pharmaceutical College,Chongqing 401331,China
+
+Abstract: Objective To characterize the property of uricase loaded in uricase-catalase liposomes (BUCLPs) prepared using borate bufer. Methods BUCLPs were prepared using reverse-phase evaporation,and the physicochemical properties of uricase in the prepared BUCLPs were examined. Results The optimal temperature of BUCLP and URI was $4 0 \ { \stackrel { \mathrm { o } } { - } } \mathrm { C } ,$ their optimal $\mathsf { p H }$ values were 8.0 and 8.5,and their Michaelis-Menten constants were $1 4 . 2 0 7 \ \mu \mathrm { m o l / L }$ and $1 3 . 6 2 3 \ \mu \mathrm { m o l / L } ,$ respectively. Fluorescence intensityofnanoliposome-loaded uricase-catalasethatbound toFITC was higher than thatofuricase-catalase binding directly with FITC; the fluorescence intensity of BUCLP was higher than that of free uricase-catalase at $2 8 0 ~ \mathrm { n m }$ Conclusion Uricase activity is enhanced after loading in uricase and catalase liposomes.
+
+Key words: uricase; catalase; liposomes; michaelis-menten constand; fluorescence spectrum
+
+尿酸酶(uricase，URI)是生物体内嘌呤代谢途径中的关键酶，可以专一性催化氧化尿酸生成尿囊素、过氧化氢等[。但由于人体缺乏尿酸酶,只能将尿酸作为终产物由肾脏排出体外。血液中过量积累尿酸会导致痛风、高尿酸血症等高尿酸综合症状[2。在临床上目前治疗高尿酸血症的药物屈指可数。尿酸酶在降尿酸水平时，产生的过氧化氢有细胞毒性[3。而过氧化氢酶(catalase,CAT)可降解 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 \circ }$ 王娜等4研究尿酸酶脂质纳米粒，陈炎等5研制了过氧化氢酶固体脂质纳米粒，Yoshimoto等研究了葡萄糖氧化酶和过氧化氢酶复合脂质体，而本实验联合尿酸酶和过氧化氢酶制备的脂质体(uricase and catalase liposomes,BUCLP),目前尚未见报道。将URI制备成BUCLP后，最希望得到的结果是提高URI降尿酸能力的同时降低过氧化氢的副作用，URI和CAT同时发挥作用。BUCLP的体内实验在其他文章中有报道，本文主要研究BUCLP的体外性质。
+
+# 1 材料和方法
+
+# 1.1试剂与材料
+
+产胱假丝酵母尿酸酶、牛肝过氧化氢酶、异硫氰酸荧光素均购自美国Sigma-Aldrich公司；尿酸购自英国AlfaAesar公司;大豆卵磷脂购自德国LucasMeyer公司；胆固醇(广州天马精细化工厂);其余试剂均购自重庆川东化工集团有限公司
+
+# 1.2仪器设备
+
+RE-52AA旋转蒸发器（上海亚荣生化仪器厂）；SHZ-DⅢ循环水式真空泵(巩义市予华仪器有限责任公司)；UV-7504PC紫外分光光度计（上海欣茂仪器有限公司）；F-2500荧光光度计（日本Hitachi公司）；DF-101S集热式恒温加热磁力搅拌器(巩义市予华仪器有限责任公司）
+
+# 1.3BUCLP的制备
+
+本文采用逆向蒸发法制备尿酸酶-过氧化氢酶脂质体7。称取卵磷脂和胆固醇(摩尔比1:1)溶于氯仿中,然后在旋转蒸发仪上挥干氯仿，在瓶壁上形成均匀的脂质膜，将脂质膜复溶于乙醚，并加入含尿酸酶和过氧化氢酶的 $5 0 \mathrm { m m o l / L }$ 硼酸-硼砂缓冲液( $\mathrm { ( p H } 8 . 5 )$ ,在水浴型超声仪上超声至形成均匀分散体系。除去此体系中的有机溶剂,最后形成均匀的乳白色混悬液，经 $0 . 2 2 ~ { \mu \mathrm { m } }$ 滤膜过滤，即得BUCLP。
+
+# 1.4酶活性的测定
+
+URI活性单位的定义：每 $1 ~ \mathrm { m i n }$ 催化 $1 \ \mathrm { \mu m o l }$ 底物尿酸转化为产物所需的URI的量。具体方法按照参考文献[8-9]操作，将 $2 0 \mu \mathrm { l }$ 游离URI和BUCLP经过破乳后的上清液,分别加入到 $\mathrm { p H } 8 . 5$ 的硼酸-硼砂缓冲液溶解的 $7 5 \ \mathrm { \mu m o l / L }$ 尿酸溶液中，然后在 $2 5 ~ \mathrm { { ^ { \circ } C } }$ 测定 $1 ~ \mathrm { m i n }$ 内在$2 9 3 ~ \mathrm { n m }$ 处吸光度的变化值。
+
+# 1.5最适温度的测定
+
+将 $7 5 \ \mathrm { \mu m o l / L }$ 尿酸溶液分别在20、30、40、50、60和$7 0 \ \mathrm { { ^ { \circ } C } }$ 水浴中预热 $1 0 ~ \mathrm { m i n }$ 后，在 $2 5 ~ \mathrm { { ^ { \circ } C } }$ 时，分别测定URI和BUCLP中URI的活性。
+
+# 1.6最适pH的测定
+
+将 $\mathrm { p H } 6 . 5 . 7 . 0 . 7 . 5 . 8 . 0 . 8 . 5 . 9 . 0 . 9 . 5$ 的尿酸溶液在酶的最适温度条件下预热 $1 0 \mathrm { m i n }$ 后，测定URI的活性
+
+# 1.7米氏常数( $\mathbf { \chi } ( \mathbf { \chi } _ { \mathrm { K m } } )$ 的测定
+
+在酶的最适条件下，以50、40、30、20和 $1 0 ~ \mathrm { \textmu m o l / L }$ 尿酸溶液为底物，按照酶活性测定方法，测定不同浓度的尿酸在 $2 9 3 ~ \mathrm { n m }$ 波长处吸光度的变化。计算反应速度V,根据Lineweaver-Burk双倒数作图，再计算URI和BUCLP的 $\mathrm { K m }$ 值。
+
+# 1.8UAC与脂质体膜作用的实验
+
+分别取URI和CAT的混合液(UAC)和空白脂质体与 $\mathrm { p H } 8 . 5$ 的硼酸-硼砂溶解的异硫氰酸荧光素(FITC)溶液混合后，避光孵化 $5 \mathrm { m i n }$ 。在激发波长为 $4 8 0 ~ \mathrm { n m }$ ，发射波长 $5 0 0 { \sim } 6 0 0 ~ \mathrm { n m }$ 的条件下， $2 5 ~ \mathrm { { ^ { \circ } C } }$ 恒温扫描其荧光发射图谱。
+
+将URI和CAT的混合液(UAC)与空白脂质体混合均匀，在室温下孵化 $\boldsymbol { 1 } \mathbf { h } _ { \mathrm { o } }$ 取此混悬液与FITC溶液混合，然后在黑暗处孵化 $5 \mathrm { m i n }$ 。在激发波长为 $4 8 0 \ \mathrm { n m } , 2 5 \ \mathrm { ^ c }$ 恒温扫描其在发射波长 $5 0 0 { \sim } 6 0 0 \mathrm { n m }$ 的荧光发射图谱。
+
+# 1.9URI的构效关系荧光图谱
+
+取游离URI、UAC、BUCLP经破乳后的上清液，其中URI的浓度均为 $0 . 1 ~ \mathrm { m g / m l }$ ，然后将UAC稀释6倍，BUCLP经破乳后的上清液稀释600倍，在激发波长为$2 8 0 ~ \mathrm { n m }$ ,发射波长为 $2 0 0 { \sim } 4 0 0 ~ \mathrm { n m }$ 条件下， $2 5 ~ \mathrm { { ^ { \circ } C } }$ 恒温扫描其荧光发射图谱。
+
+# 2结果
+
+# 2.1最适温度和最适pH
+
+BUCLP中URI和游离URI的最适温度均为 $4 0 \ \mathrm { { ^ \circ C } }$ 且从 $2 0 \ \mathrm { { ^ circ C } }$ 到 $6 0 ~ \mathrm { { ^ { \circ } C } }$ ,BUCLP中URI的活性均比游离URI高(图1)。
+
+![](images/fd032f36399e4037f67f2dcab4366f28d0f9b3b3fe9b52c358d998ca90345dce.jpg)  
+图1URI和BUCLP的最适温度Fig.1 Optimal temperature of URI and BUCLP.
+
+BUCLP中URI和游离URI的最适pH值分别为8.0和8.5，从 $\mathrm { p H } 6 . 5$ 到8.0,BUCLP中URI的活性较游离URI的活性高，而从 $\mathrm { p H } ~ 8 . 5$ 到9.5时，URI的活性较BUCLP中URI的活性高(图2)。
+
+![](images/4fe4f5e631de5b8af41a01f32ec358617c52e0dd7e4ef4decf68d7f019213bf5.jpg)  
+图2URI和BUCLP的最适pHFig.2 Optimal pH of URI and BUCLP.
+
+# $2 . 2 \ \mathrm { K m }$ 值
+
+BUCLP中URI的米氏方程为： $\mathbf { y } { = } 1 . 3 2 6 9 \mathbf { x } { + } 0 . 0 9 7 4$ $\mathrm { \Delta V _ { \mathrm { m a x } } }$ 为 $1 0 . 2 6 7 ~ \mathrm { \mu m o l / L \cdot m i n , K _ { \mathrm { m a x } } }$ 为 $1 3 . 6 2 3 ~ \mu \mathrm { m o l / L }$ ；而游离URI的米氏方程为： $\mathrm { y } { = } 1 . 2 1 8 6 \mathrm { x } + 0 . 0 8 6 1$ ， $\mathrm { \Delta V _ { \mathrm { m a x } } }$ 为$1 1 . 6 4 1 ~ \mu \mathrm { m o l / L } \cdot \mathrm { m i n } , \mathrm { K _ { \mathrm { m a x } } }$ 为 $1 4 . 2 0 7 ~ \mathrm { \textmu m o l / L _ { \circ } }$ BUCLP的$\mathrm { K } _ { \mathrm { m a x } }$ 比URI的小,那么，BUCLP中URI与底物尿酸的亲和力比URI大(图3)。
+
+![](images/2ba084b38ee25d7bb06d74c8abde69994ca4b0a60e87df9d086f66548507045f.jpg)  
+图3URI和BUCLP的米氏常数测定曲线 Fig.3 Lineweaver-Burk plot ofURI and BUCLP.
+
+# 2.3URI与脂质体膜作用实验结果
+
+空白脂质体与FITC结合后的荧光强度最低，其次是空白脂质体与游离UAC的混合液，而游离UAC与FITC结合后的荧光强度最高(图4)。理论上全部的UAC与FITC结合后的荧光强度应最强，但是有一部分UAC与空白脂质体结合，所以与FITC结合的UAC相应减少，继而荧光强度减弱。说明UAC与空白脂质体之间有结合作用。
+
+![](images/01677c795f268a30dd7e6e8d4619aa54813727e17bad362df56ed104809c358d.jpg)  
+图4FITC与酶结合的荧光图谱 Fig.4 Fluorescence spectrum of FITC combined with enzyme.a: Blank liposomes; b:Blank liposomes and free UAC; c: Free UAC.
+
+# 2.4URI的构效荧光图谱
+
+BUCLP在 $2 8 0 \mathrm { n m }$ 处的荧光强度最大，游离URI的荧光强度最小，而URI和CAT混合液此时的荧光强度介于两只之间(图5)。
+
+![](images/72ba1ff4ffb7d70a86b1b74fb8bef848a22fc3bc34139101044bd5a509c59527.jpg)  
+图5URI和BUCLP在 $2 8 0 \mathrm { n m }$ 的荧光强度 Fig.5Fluorescence intensity of URI and BUCLP at $2 8 0 \mathrm { n m }$ .a:Free URI; b:Free UAC; c: BUCLP.
+
+# 3讨论
+
+本实验中URI和BUCLP中URI的最适温度均较为接近人体的生理体温 $3 7 ~ \mathrm { ^ { \circ } C }$ ;且较游离URI的最适pH,BUCLP中URI的最适pH更为接近人体血浆的pH值。在URI的最适温度和最适pH时，BUCLP中URI的活性比游离URI高。酶的理化性质及稳定性与温度和pH密切相关。酶在其最适温度和最适pH时，活性最高，酶促反应速度最快。说明BUCLP较游离URI更能有效发挥酶促反应。但是最适pH发生变化的可能是BUCLP中URI受CAT或者脂质体的影响，使URI的构象等发生变化,活性中心暴露，最后导致URI的最适pH和活性发生变化。
+
+从 $\mathrm { K m }$ 测定结果看，BUCLP中URI与尿酸的亲和力比游离URI大。而Km值是酶的特征性常数，只与酶的性质、酶所催化的底物和酶促反应条件(如温度、pH、有无抑制剂等)有关。本实验有可能是BUCLP中URI的最适pH发生变化，导致Km发生变化。
+
+本实验利用FITC能与蛋白质中氨基酸(主要是赖氨酸)结合的原理，将FITC与URI和CAT结合，从而使URI和CAT带有一定的荧光。通过荧光强度发生变化来考察URI和CAT能否与脂质体膜作用。最后结果表明，URI和CAT能脂质膜内外结合。
+
+因为酪氨酸在 $2 8 0 ~ \mathrm { n m }$ 处有特征的荧光吸收峰[10],含酪氨酸的蛋白质类物质在 $2 8 0 ~ \mathrm { n m }$ 均有特征吸收峰。所以URI和CAT均在 $2 8 0 \mathrm { n m }$ 有特征吸收峰。但是可能是过氧化氢酶中含有的酪氨酸残基比尿酸酶的多，导致CAT在 $2 8 0 ~ \mathrm { n m }$ 处的荧光强很大。所以本实验将UCA和CAT混合液稀释6倍后，测定其荧光强度，仍比UCA大。而BUCLP的上清液稀释了600倍，其在 $2 8 0 \mathrm { n m }$ 处的荧光强度仍比UCA大。也可能是由于在URI制备成BUCLP后，URI受到CAT或者脂质体膜的作用，其构象发生变化，导致其荧光强度发生变化。但是具体是哪种情况导致荧光强度发生变化的原因还需要深一步进行实验。
+
+因此，尿酸酶与过氧化氢酶制备成脂质体后增加了尿酸酶的体外活性，为进一步研究尿酸酶和过氧化氢酶复合脂质体的体内实验奠定了基础。
+
+# 参考文献：
+
+[1]Krishnan E,Kwoh CK,Schumacher HR,et al.Hyperuricemia and incidence of hypertension among men without metabolic syndrome [J].Hypertension,2007,49(2): 298-303.   
+[2]Sakai H,Tsutamoto T,Tsutsui T,et al. Sermn level of uric acid, partly secreted from the failing heart is a prognostic marker in patients with congestive hean failure [J].Circ J,2OO6,70(1): 1006-11.   
+[3]Roddy E,Doherty M. Treatment of hyperuricaemia and gout[J]. Clin Med(Northfield II),2013,13(4):400-3.   
+[4］王娜,赵春景,黄开顺,等.产胱假丝酵母尿酸酶脂质纳米粒的制备及 其药效学特性分析[J].中国生物制品学杂志,2013,26(8):1147-50.   
+[5]陈焱,黄健花,蔡春明,等.过氧化氢酶固体脂质纳米粒的制备[J].食 品与生物技术学报,2011,30(4):489-94.   
+[6]Yoshimoto M,Miyazaki Y,Kudo Y,et al.Glucose oxidation catalyzed by liposomal glucose oxidase in the presence of catalasecontaining liposomes[J].Biotechnol Prog,2006,22(3): 704-9.   
+[7]Tan QY, Zhang JQ,Wang N,et al. Improved biological properties and hypouricemic effects of uricase from Candida utilis loaded in novel alkaline enzymosomes[J].Int JNanomed,2012,7: 3929-38.   
+[8]Tan QY, Zhang JL,Wang N,et al. Uricase from Bacillus fastidious loaded in alkaline enzymosomes: Enhanced biochemical and pharmacological characteristics in hypouricemic rats [J].Eur J Pharm Biopharm,2012,82(1): 43-8.   
+[9]Tan QY,Wang N, Yang H,et al.Characterization,stabilization and activity of uricase loaded in lipid vesicles[J].IntJPharm,2O10,384 (1/2): 165-72.   
+[10]Qiu YZ,Huang ZH, Song FJ. Enzymatic activity enhancement of Non-Covalent modified superoxide dismutase and molecular docking analysis[J].Molecules,2012,17(4): 3945-56.
+
+(编辑：黄开颜）
+
+# 欢迎投稿《南方医科大学学报》
+
+★本刊不收审稿费  
+$\bigstar$ 优质的国家级基金资助论文3月内发表  
+$\star$ 优质的全英文论文3月内发表  
+★PubMed全文收录
+
+只需登录网站注册后投稿：www.j-smu.com

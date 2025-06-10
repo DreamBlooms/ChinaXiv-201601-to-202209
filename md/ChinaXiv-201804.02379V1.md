@@ -1,0 +1,346 @@
+# 异构网络下基于混合保护子帧的干扰协调方案
+
+刘辉1,²，宋家旺1
+
+(1.重庆邮电大学 通信新技术应用研究中心，重庆 400065;2.重庆信科设计有限公司，重庆 401121)
+
+摘要：增强型小区间干扰协调（enhanced inter cell interference coordination，eICIC)引入几乎空白子帧(almost blacksubframes，ABS)来降低异构网络中小区间的干扰，然而过多的 ABS 会损失宏蜂窝用户性能。为了提高异构网络的性能，联合考虑 ABS 和低功率几乎空白子帧(lowpower-ABS，LP-ABS)，提出了一种基于混合保护子帧(Hybrid ProtectedSubframes，HPS)的干扰协调方案。该方案综合考虑用户资源分配、HPS密度、HPS混合比例以及用户接入策略，以最大化系统比例公平效用为目标。仿真结果显示，所提方案在系统负载均衡、用户吞吐量以及用户公平性等指标上都优于传统增强型小区间干扰协调方案。
+
+关键词：异构网络；增强型小区间干扰协调；混合保护子帧；小区范围扩展 中图分类号：TN929.53 doi:10.3969/j.issn.1001-3695.2018.02.0105
+
+# Interference coordination scheme based on hybrid protected subframes in heterogeneous networks
+
+Liu Hui1,², Song Jiawangl (1.ResearchCentreofNew Telecommunication Technology Application,Chongqing UniversityofPosts &Telecommunications, Chongqing 40o065,China;2.Chongqing Information TchnologyDesigningCompanyLimited,Chongqing401121,China)
+
+Abstract:Enhanced intercellinterferencecordination (eICIC)introducesalmostblacksubframes (ABS)toreduce nter-cel interference inheterogeneous networks.However,excesive ABScan impair macrocelluser performance.Inordertomprove theperformanceofheterogeneous networks,this paper proposes aninterferencecoordinationschemebasedonhybrid protected subframes (HPS)considering bothABSandLowPower-ABS (LP-ABS).The scheme takes into accounttheresource allocation, HPS density,HPS mixingratioanduser access strategy,inorder to maximize the fairness ofsystem proportionas the goal. Simulationresultsshowthatthe proposedscheme issuperiortothe traditional enhanced inter-cellinterferencecoordination schemes in terms of system load balancing,user throughput and user fairness.
+
+Key words: heterogeneous networks; eICIC; hybrid protected subframes; cell range expansion
+
+# 0 引言
+
+移动数据流量每天都以不规则的方式持续增长着，第5代(the 5thgeneration，5G)移动网络将提供一些新型技术来满足用户的数据流量需求[1]。通过在宏基站(macrocell base station,MBS)覆盖范围内部署大量低功率微基站(picocellbase station,PBS)构成两层蜂窝网络称之为异构网络[2](heterogeneousnetworks，HetNet)。HetNet可以提高小区分裂增益，目前其作为提高频率重用和网络容量的有效方案被广泛研究[3]。事实上，部署微蜂窝可以为宏蜂窝卸载大量的用户和数据流量，减轻MBS的工作压力。
+
+然而，由于PBS和MBS发射功率和其它功能的差异[4],密集的同频部署可能会导致负载失衡和严重的干扰问题。第三代合作伙伴计划（the 3rd GenerationPartnership Project，3GPP）长期演进扩展（long term evolution-advanced,LTE-A）系统引入了小区范围扩展技术[5]（cell range expansion，CRE）扩展PBS的覆盖范围，提高卸载收益。CRE 是通过为PBS 配置偏置实现的。相比于传统配置单一固定的CRE 偏置，文献[6]中为 PBS配置了两种不同大小的偏置，提高了边缘用户的性能。文献[7]提出一个根据当前用户分布来调整CRE 偏置的动态算法，平衡了宏蜂窝和微蜂窝之间的业务，缓解了宏蜂窝的业务压力。文献[8]在不利用任何干扰协调技术的情况下，提出了一个分布式的自适应CRE偏置调整方案，提高了负载均衡效益。为了保护扩展的用户免受MBS的干扰，3GPPR10中提出的增强型小区间干扰协调(eICIC)引入了几乎空白子帧(ABS)，即MBS在该子帧时期不发送数据信号，以此减少对微蜂窝扩展用户的干扰。
+
+文献[10]提出了一种异构网络中eICIC的部署方案，使用斯坦伯格博弈建模CRE和ABS密度的联合优化过程，通过迭代算法求解出最优的部署方案。文献[11,12]中提出的基于随机几何的理论算法，求解出了负载均衡和干扰减轻的最佳CRE和ABS密度解。
+
+尽管ABS可以改善微蜂窝用户的性能，然而随着CRE的增加，更多扩展区域的用户需要更多的ABS用来满足需求，宏蜂窝性能受到了较大的牺牲。因此低功率几乎空白子帧(lowpower-almost blank subframes，LP-ABS)被提出[13]。相比ABS,LP-ABS 通过降低 MBS 在ABS上的发射功率减小对微蜂窝用户造成干扰，同时降低对宏蜂窝用户吞吐量的损失。文献[14]使用LP-ABS替代ABS，并基于Q学习算法获得LP-ABS的最优发射功率。文献[15]提出一种算法寻找最优的宏基站LP-ABS 密度和该期间的低功率。文献[16]联合优化用户关联，资源分配，LP-ABS密度和LP-ABS低功率传输值来最大化系统的比例公平效用目标函数。虽然LP-ABS有效的解决了资源浪费的情况，然而低功率的发射信号仍然对扩展用户造成影响。
+
+本文共同考虑ABS和LP-ABS，为MBS配置混合保护子帧。通过构建一个联合无线资源分配、HPS密度、HPS 混合比例和用户接入策略的比例公平优化分析模型，并将其分解成四个易于求解的子优化问题进行求解，从而最大化系统性能。
+
+# 1 系统模型与问题建模
+
+# 1.1系统模型
+
+考虑多个MBS和PBS构成的两层异构网络下行传输链路。假设系统共有 $m$ 个MBS， $p$ 个PBS。 $n$ 个用户随机分布在整个系统中。以 $M$ 、 $P$ 和 $U$ 分别表示MBS集合、PBS的集合和所有用户集合。为了提高资源复用率，每个微蜂窝可以复用宏蜂窝的所有频谱资源。为了扩展微蜂窝的覆盖范围，使用CRE技术为每个PBS 的最大参考信号接收功率(reference signalreceivingpower，RSRP)添加一个正偏置 $\sigma$ 。用户所受干扰情况如图1所示。
+
+![](images/8f441908112577a8aef7af6eafaadeca63de921371f181aa3279e83e70c7547e.jpg)  
+图1使用CRE技术的两层异构网络干扰情况
+
+从图1中可以看出，使用CRE的微蜂窝虽然可以将原本接入宏蜂窝的用户切换至微蜂窝，但是处于CRE区域的用户会遭受来自MBS严重的下行链路干扰，该部分用户的通信环境和通信质量较差。
+
+传统的eICIC 干扰管理方案是通过控制 ABS 的密度来提高异构网络性能，然而当ABS的密度过高时会牺牲宏蜂窝用户的吞吐量。因此，不同于为MBS单独配置ABS 或LP-ABS,本文同时为MBS配置这两种保护子帧，优化系统性能。
+
+假设为所有的MBS配置相同HPS且帧同步，所谓的HPS即混合了ABS 和LP-ABS 的保护子帧。定义HPS 密度为 $\beta$ 0将一部分HPS 配置成 ABS，混合比例为 $\alpha$ (HPS 数量的 $\alpha$ 倍)，剩余部分配置成LP-ABS。HPS结构和用户调度规则如图2所示。
+
+首先,在非ABS(no-almost black sub-frames,N-ABS)上MBS调度所有的宏蜂窝用户 $U _ { A L L } ^ { m a c r o }$ ，PBS 调度非扩展范围内的中心用户 $U _ { C E N } ^ { p i c o }$ 。其次，在ABS 上PBS 调度所有微蜂窝用户 $U _ { A L L } ^ { p i o c }$ ，与此同时 MBS在该子帧上静默，减少对微蜂窝用户造成跨层干扰。最后，在LP-ABS上MBS和PBS分别调度信道质量较好的宏蜂窝中心用户 $U _ { C E N } ^ { m a c r o }$ 和微蜂窝扩展范围内用户 $U _ { C R E } ^ { p i o c }$ ，同时 MBS 在该子帧上降低发送功率保护 $U _ { C R E } ^ { p i o c }$ ，这部分用户由于受到MBS的跨层干扰最为严重，需要着重保护。
+
+![](images/67c337bf688d219297a57f68a1c1c23cab05a29b8fa9cc10330a983447e8b9ef.jpg)  
+图2HPS结构和用户调度规则
+
+依照上述调度策略，本文将每个基站看成三个逻辑子基站，其中一个工作在N-ABS时期，另外两个分别工作在ABS时期和 LP-ABS 时期。使用 $M _ { _ { N - A B S } }$ 、 $M _ { _ { A B S } }$ 和 $M _ { \scriptscriptstyle L P - A B S }$ 分别表示工作在N-ABS 时期、ABS和LP-ABS 时期的MBS子基站集合；使用 $P _ { N - A B S }$ 、 $P _ { A B S }$ 和 $P _ { L P - A B S }$ 分别表示工作在 N-ABS、ABS 和 LP-ABS 时期的PBS 子基站集合。
+
+# 1.2问题建模
+
+首先，使用二维变量 $w _ { i j }$ 表示用户小区接入指示，当用户 $i$ 接入小区 $j$ 时 $w _ { i j } { = } 1$ ，否则 $w _ { i j } { = } 0$ 。每个用户只能接入一个基站，故用户小区接入约束为
+
+$$
+\sum _ { j \in B } w _ { i j } = 1 \ , \forall w _ { i j } \in \left\{ 0 , 1 \right\} \ , \forall i \in U
+$$
+
+其中: $B = M \cup P$ 为所有基站的集合。
+
+考虑所有的用户的信干噪比(signal to interference plus noiseratio，SINR)，假设用户 $i$ 接入基站为 $j$ ， $T \in \{ \mathrm { N , A , L } \}$ 分别表示N-ABS 时期、ABS时期和LP-ABS 时期，则用户在N-ABS 时期的 SINR为
+
+$$
+S I N R _ { i j } ^ { N } = \left\{ \begin{array} { c } { \displaystyle { \frac { P _ { \mathrm { m a c r } } ^ { m a c r } g _ { i j } } { \displaystyle { m e A _ { \times \times \times \times \times \times } } , ~ P _ { \mathrm { m a x } } ^ { m a c r } g _ { i m } } + \sum _ { p \in P _ { x \times \times \times \times } } P _ { \mathrm { m a x } } ^ { p i c o } g _ { i p } + N _ { 0 } } } \\ { \displaystyle { \frac { \displaystyle { \tilde { \quad } } } { \displaystyle { \tilde { \quad } } } \sum _ { p \in P _ { y \times \times \times } } \frac { P _ { \mathrm { m a x } } ^ { p i c o } g _ { i j } } { \displaystyle { P _ { \mathrm { m a x } } ^ { p i c o } g _ { i j } } + \sum _ { m \in M _ { N \times \times \times } } P _ { \mathrm { m a x } } ^ { m a c r o } g _ { i m } + N _ { 0 } } } } \\ { \displaystyle { \qquad \quad } { \qquad } { \qquad } { \qquad } { \qquad } { \qquad } { \qquad } { j \in P _ { N \times \times \times B S } } } \end{array} \right.
+$$
+
+其中: $P _ { \mathrm { m a x } } ^ { m a c r o }$ 和 $P _ { \mathrm { m a x } } ^ { p i c o }$ 分别为 MBS 和 PBS 在 N-ABS 期间的传输功率，也是其最大发送功率。 $g _ { i j }$ 为用户 $i$ 到基站 $j$ 之间的信道增益。 $N _ { 0 }$ 为高斯白噪声功率。
+
+同理，用户在ABS时期和LP-ABS时期的SINR分别为
+
+$$
+S I N R _ { i j } ^ { A } = \left\{ \begin{array} { l l } { \displaystyle { \frac { P _ { \mathrm { m a x } } ^ { p i c o } g _ { i j } } { \displaystyle { \sum _ { p \in P _ { A B S } } ^ { } } _ { p \neq j } P _ { \mathrm { m a x } } ^ { p i c o } g _ { i p } } } } & { \quad j \in P _ { A B S } } \\ { 0 } & { \quad j \in M _ { A B S } } \end{array} \right.
+$$
+
+$$
+\begin{array}{c} S I N R _ { i j } ^ { L } = \left\{ \frac { P _ { _ { L } } ^ { _ { L } ^ { m a c r o } } g _ { i j } } { \displaystyle { \sum _ { m = M _ { L ^ { p } \cdot d B S ^ { s } } } P _ { _ { L } } ^ { _ { m a c r o } } g _ { i m } + \sum _ { p \in P _ { _ { L ^ { p } \cdot d B S } } } P _ { _ { \mathrm { m a x } } } ^ { p i c o } g _ { i p } } } \quad j \in M _ { _ { L ^ { p } \cdot A B S } }  \\ { \displaystyle { \frac { P _ { _ { \mathrm { m a x } } } ^ { p i c o } g _ { i j } } { \displaystyle { P \mathrm { e } P _ { _ { L ^ { p } \cdot d B S ^ { s } } } , _ { p \neq j } } P _ { _ { \mathrm { m a x } } } ^ { p i c o } g _ { i p } + \sum _ { m \in M _ { L ^ { p } \cdot A B S } } P _ { _ { L } } ^ { m a c r o } g _ { i m } } } \quad j \in P _ { _ { L ^ { p } \cdot A B S } } } \end{array} \right.
+$$
+
+式(4)中 $P _ { L } ^ { m a c r o }$ 为 MBS 在LP-ABS 期间降低的传送功率值。
+
+根据香农公式，归一化后用户在N-ABS 期间、ABS 期间和LP-ABS期间的速率分别为
+
+$$
+R _ { i j } ^ { N } = \left\{ \begin{array} { l l } { \log ( 1 + S I N R _ { i j } ^ { N } ) ~ j \in M _ { N \_ A B S } \cup P _ { N \_ A B S } } \\ { 0 ~ j \in o t h e r } \end{array} \right.
+$$
+
+$$
+R _ { i j } ^ { A } = \left\{ \begin{array} { l l } { \log ( 1 + S I N R _ { i j } ^ { A } ) ~ j \in M _ { A B S } \cup P _ { A B S } } \\ { 0 ~ j \in o t h e r } \end{array} \right.
+$$
+
+$$
+R _ { i j } ^ { L } = \left\{ \begin{array} { l l } { \log ( 1 + S I N R _ { i j } ^ { L } ) ~ j \in M _ { _ { L P - A B S } } \cup P _ { _ { L P - A B S } } } \\ { 0 ~ j \in o t h e r } \end{array} \right.
+$$
+
+定义 $x _ { i j } ^ { N }$ 、 $y _ { i j } ^ { A }$ 和 $z _ { i j } ^ { L }$ 分别为 N-ABS 时期、ABS 时期和 LP-ABS时期基站 $j$ 分配给用户 $i$ 的时频资源比例，根据分配策略有如下的约束：
+
+$$
+\sum _ { i \in U _ { j } } x _ { i j } ^ { N } = 1 - \beta , \forall j \in M _ { N \cdot A B S } \cup P _ { N \cdot A B S }
+$$
+
+$$
+\begin{array} { r l } & { \displaystyle \sum _ { i \in U _ { j } } y _ { i j } ^ { A } = \left\{ \begin{array} { l } { 0 \quad , \forall j \in M _ { A B S } } \\ { \beta \alpha \ : \ : , \forall j \in P _ { A B S } } \end{array} \right. } \\ & { \displaystyle \sum _ { i \in U _ { j } } z _ { i j } ^ { L } = ( 1 - \alpha ) \beta \ : \ : , \forall j \in M _ { L P \cdot A B S } \cup P _ { L P \cdot A B S } } \end{array}
+$$
+
+即在N-ABS和LP-ABS时期，基站分给所属用户的时频资源总和为 $1 { - } \beta$ 和 $\beta \left( 1 - \alpha \right)$ ；在ABS 时期，PBS分配给所属用户的时频资源总和为 $\beta \alpha$ 。 $\beta$ 和 $\alpha$ 分别为MBS配置的HPS密度和HPS 混合比例，它们满足以下约束：
+
+$$
+\begin{array} { c } { 0 \leq \beta \leq 1 } \\ { 0 \leq \alpha \leq 1 } \end{array}
+$$
+
+由于 $P _ { L } ^ { m a c r o }$ 为 MBS 在LP-ABS 的传输功率，因此其不能超过 MBS 在 N-ABS 上的最大传输功率 $P _ { \mathrm { m a x } } ^ { m a c r o }$ ：
+
+$$
+0 \leq P _ { L } ^ { m a c r o } \leq P _ { \operatorname* { m a x } } ^ { m a c r o }
+$$
+
+由于对数效用目标能平衡系统吞吐量和用户间的公平性[17]，联合各个基站在N-ABS、ABS 和 LP-ABS 时期分配给用户的时频资源比例、HPS 密度、HPS 混合比例和用户接入策略，尝试优化一个对数效用目标函数，如下所示：
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l } { \displaystyle \operatorname* { m a x } _ { i \neq j } \sum _ { i j } \sum _ { j \in B } \sum _ { i \in U } w _ { i j } \log \left( x _ { i j } ^ { N } R _ { i j } ^ { N } + y _ { i j } ^ { A } R _ { i j } ^ { A } + z _ { i j } ^ { L } R _ { i j } ^ { L } \right) } \\ { \quad \quad w _ { i j } , \beta , \alpha } \\ { \mathrm { s . t . } \left( 1 \right) , \left( 8 \right) \sim \left( 1 3 \right) } \end{array} \right. } \end{array}
+$$
+
+# 2 问题求解
+
+由于直接求解上述联合问题的最优解比较困难，本文使用有效的近似算法求解该问题的次优解。由式(14)可知目标函数具有6个待优化的变量，首先将其分成四组： $\left\{ { x } _ { i j } ^ { N } , { y } _ { i j } ^ { A } , z _ { i j } ^ { L } \right\}$ 、 $\beta$ 、 $\alpha$ 和 $w _ { i j }$ ；根据这四组待优化的变量，将目标函数优化问题拆分为与之分别相关的四个子优化问题：无线资源分配、HPS密度、HPS 混合比例和用户接入策略。求解每个子优化问题时固定其余优化变量，优化目标变量。重复迭代直到满足收敛条件。
+
+# 2.1固定 $\beta$ 、 $\alpha$ 和 $w _ { i j }$ 优化 $\left\{ \boldsymbol { x } _ { i j } ^ { N } , \boldsymbol { y } _ { i j } ^ { A } , z _ { i j } ^ { L } \right\}$
+
+给定宏基站 HPS 密度 $\beta$ 、HPS 混合比例 $\alpha$ 和用户接入指示 $w _ { i j }$ ，求解最优时频资源分配比例。原联合优化目标函数可重写为
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l l } { \displaystyle \operatorname* { m a x } _ { \left\{ x _ { i j } ^ { N } , y _ { i j } ^ { A } , z _ { i j } ^ { L } \right\} } \sum _ { j \in B } \sum _ { i \in U _ { j } } \log \left( x _ { i j } ^ { N } R _ { i j } ^ { N } + y _ { i j } ^ { A } R _ { i j } ^ { A } + z _ { i j } ^ { L } R _ { i j } ^ { L } \right) } \\ { \mathrm { s . t . } \left( 8 \right) \sim \left( 1 0 \right) , \left( 1 3 \right) } \end{array} \right. } \end{array}
+$$
+
+其中 $U _ { j }$ 为接入基站 $j$ 的用户集合。
+
+由于各逻辑子基站可以独立地为各自的用户分配时频资源，因此可采用分布式求解。同时，根据公式(5)(6)(7)可以将优化目标重写三个独立的子优化目标：
+
+$$
+\left\{ \operatorname* { m a x } _ { \left\{ x _ { i j } ^ { N } \right\} } \sum _ { i \in U _ { j } } \log \Bigl ( x _ { i j } ^ { N } R _ { i j } ^ { N } \Bigr ) \quad j \in M _ { _ { N - A B S } } \cup P _ { _ { N - A B S } } \right.
+$$
+
+$$
+\left\{ \operatorname* { m a x } _ { \left\{ y _ { i j } ^ { A } \right\} } \sum _ { i \in U _ { j } } \log \left( y _ { i j } ^ { A } R _ { i j } ^ { A } \right) j \in P _ { \mathrm { A B S } } \right.
+$$
+
+$$
+\left\{ \operatorname* { m a x } _ { \left\{ z _ { i j } ^ { L } \right\} } \sum _ { i \in U _ { j } } \log \left( y _ { i j } ^ { L } R _ { i j } ^ { L } \right) j \in P _ { L P \cdot A B S } \cup M _ { L P \cdot A B S } \right.
+$$
+
+对优化子目标(16做如下的等价变换：
+
+$$
+\begin{array} { l } { \displaystyle \underset { \{ x _ { j } ^ { N } \} } { \operatorname* { m a x } } \sum _ { i \in V _ { j } } \log \left( x _ { i j } ^ { N } R _ { i j } ^ { N } \right) = \displaystyle \operatorname* { m a x } _ { \{ x _ { j } ^ { N } \} } \sum _ { i \in V _ { j } } \log \left( x _ { i j } ^ { N } \right) + \operatorname* { m a x } _ { \{ x _ { j } ^ { N } \} } \sum _ { i \in V _ { j } } \log \left( R _ { i j } ^ { N } \right) } \\ { \displaystyle \Leftrightarrow \ \underset { \{ x _ { j } ^ { N } \} } { \operatorname* { m a x } } \sum _ { i \in U _ { j } } \log \left( x _ { i j } ^ { N } \right) } \\ { \displaystyle \Leftrightarrow \ \underset { \{ x _ { j } ^ { N } \} } { \operatorname* { m a x } } \log \left( \prod _ { i } ^ { K _ { j } } x _ { i j } ^ { N } \right) } \end{array}
+$$
+
+$$
+\Leftrightarrow \operatorname* { m a x } _ { \left\{ x _ { i j } ^ { N } \right\} } \sqrt [ K _ { j } ] { \prod _ { i } ^ { K _ { j } } x _ { i j } ^ { N } }
+$$
+
+其中 $K _ { j } { = } \sum _ { i \in U _ { j } } w _ { i j }$ 为接入基站 $j$ 下的用户总数。
+
+由于几何平均值不大于算数平均值，即
+
+$$
+\sqrt [ K _ { j } ] { \prod _ { i } ^ { K _ { j } } x _ { i j } ^ { N } } \leq \frac { \sum _ { i \in U _ { j } } x _ { i j } ^ { N } } { K _ { j } }
+$$
+
+当且仅当 $x _ { 1 j } = x _ { 2 j } = . . . . = x _ { K _ { j } j }$ 时等号成立。
+
+综上，当用户均分基站的时频资源时，目标函数取得最优值，即
+
+$$
+x _ { i j } ^ { N } = \frac { 1 - \beta } { k _ { j } } j \in M _ { N \scriptscriptstyle { \it N - A B S } } \cup P _ { N \scriptscriptstyle { \it N - A B S } }
+$$
+
+同理：
+
+$$
+y _ { i j } ^ { A } = \left\{ \frac { 0 } { \displaystyle \frac { \beta \alpha } { k _ { j } } \ j \in P _ { A B S } } \right. \
+$$
+
+$$
+z _ { i j } ^ { L } = \frac { \beta \mathopen { } \mathclose \bgroup \left( 1 - \alpha \aftergroup \egroup \right) } { k _ { j } } ~ j \in P _ { _ { L P - A B S } } \cup M _ { _ { L P - A B S } }
+$$
+
+# 2.2固定 $\left\{ \boldsymbol { x } _ { i j } ^ { N } , \boldsymbol { y } _ { i j } ^ { A } , z _ { i j } ^ { L } \right\}$ 、 $w _ { i j }$ 和 $\alpha$ 优化 $\beta$ （20
+
+给定用户资源分配比例 $\left\{ \boldsymbol { x } _ { i j } ^ { N } , \boldsymbol { y } _ { i j } ^ { A } , z _ { i j } ^ { L } \right\}$ 、HPS 混合比例 $\alpha$ 和用户接入指示 $w _ { i j }$ ，求解最优的HPS密度。原联合优化目标函数可重写为
+
+$$
+\left\{ \operatorname* { m a x } _ { \beta } \sum _ { j \in B } \sum _ { i \in U _ { j } } \log \left( \overline { { R _ { i j } ^ { N } } } + \overline { { R _ { i j } ^ { A } } } + \overline { { R _ { i j } ^ { L } } } \right) \right.
+$$
+
+其中： $\overline { { R _ { i j } ^ { N } } }$ 、 $\overline { { R _ { i j } ^ { A } } }$ 、 $\overline { { R _ { i j } ^ { L } } }$ 分别为用户 $i$ 在基站 $j$ 上 N-ABS 时期、ABS时期和LP-ABS时期所能获得的传输速率。根据前面优化结果可得
+
+$$
+\begin{array} { l } { { { \overline { { { R _ { i j } ^ { N } } } } = \displaystyle \frac { \left( 1 - \beta \right) R _ { i j } ^ { N } } { K _ { j } } ~ j \in { \cal M } _ { N \ A B S } \cup { \cal P } _ { N \ A B S } } } } \\ { { ~ } } \\ { { { \overline { { { R _ { i j } ^ { A } } } } = \displaystyle \left\{ \frac { 0 } { \beta \alpha R _ { i j } ^ { A } } ~ j \in { \cal M } _ { A B S } \right. } } } \\ { { { } } } \\ { { { \overline { { { R _ { i j } ^ { L } } } } = \displaystyle \frac { \beta \left( 1 - \alpha \right) R _ { i j } ^ { L } } { K _ { j } } ~ j \in { \cal P } _ { \ L B S } } } } \end{array}
+$$
+
+利用最优化准则，让目标函数的导数为0，即
+
+$$
+\begin{array} { l } { - \displaystyle \sum _ { j \in M _ { N \cdot A B S } } \sum _ { i \in U _ { j } } \frac { 1 } { 1 - \beta } - \displaystyle \sum _ { j \in P _ { N \cdot A B S } } \sum _ { i \in U _ { j } } \frac { 1 } { 1 - \beta } + \displaystyle \sum _ { j \in P _ { A B S } } \sum _ { i \in U _ { j } } \frac { 1 } { \beta } } \\ { + \displaystyle \sum _ { j \in M _ { L P \cdot A B S } } \sum _ { i \in U _ { j } } \frac { 1 } { \beta } + \displaystyle \sum _ { j \in P _ { L P \cdot A B S } } \sum _ { i \in U _ { j } } \frac { 1 } { \beta } = 0 } \end{array}
+$$
+
+则最优HPS密度为
+
+$$
+\begin{array} { r l } & { \beta { = } \frac { { \displaystyle \sum _ { j \in { \cal P } _ { A B S } } k _ { j } + \sum _ { j \in { \cal P } _ { L P \cdot A B S } } k _ { j } } + \sum _ { j \in { \cal M } _ { L P \cdot A B S } } k _ { j } } { { \displaystyle \sum _ { j \in { \cal M } _ { N \cdot A B S } } k _ { j } + \sum _ { j \in { \cal P } _ { N \cdot A B S } } k _ { j } + \sum _ { j \in { \cal P } _ { A B S } } k _ { j } + \sum _ { j \in { \cal P } _ { L P \cdot A B S } } k _ { j } + \sum _ { j \in { \cal M } _ { L P \cdot A B S } } k _ { j } } } } \\ & { \ = \frac { N _ { A L L } ^ { p i c o } + N _ { C R E } ^ { p i c o } + N _ { C E N } ^ { m a c r o } } { n + N _ { C E N } ^ { m a c r o } + N _ { C E N } ^ { p i c o } + N _ { C E N } ^ { p i c o } + N _ { C E } ^ { p i c o } } } \end{array}
+$$
+
+式(29)中， $n$ 、 $N _ { c R E } ^ { p i c o }$ 、 $N _ { A L L } ^ { p i c o }$ 和 $N _ { C E N } ^ { m a c r o }$ 分别为系统中的用户总数、所有处于CRE范围用户总数、所有微蜂窝用户总数和所有宏蜂窝范围内信道质量较好的中心用户总数。从公式中可以看出，最优HPS 密度为系统在HPS时期调度的总用户数与调度在三个不同子帧时期的总用户数的比值。
+
+# 2.3固定 $\left\{ \boldsymbol { x } _ { i j } ^ { N } , \boldsymbol { y } _ { i j } ^ { A } , z _ { i j } ^ { L } \right\}$ 、 $w _ { i j }$ 和 $\beta$ 优化 $\alpha$
+
+给定用户资源分配比例 $\left\{ x _ { i j } ^ { N } , y _ { i j } ^ { A } , z _ { i j } ^ { L } \right\}$ 、HPS密度和用户接入指示$w _ { i j }$ ，求解最优HPS 混合比例 $\alpha$ 。原联合优化目标函数可重写为
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle \operatorname* { m a x } _ { \alpha } \sum _ { j \in B } \sum _ { i \in U _ { j } } \log \left( \overline { { R _ { i j } ^ { N } } } + \overline { { R _ { i j } ^ { A } } } + \overline { { R _ { i j } ^ { L } } } \right) } \\ { \mathrm { s . t . ~ } ( 1 2 ) } \end{array} \right.
+$$
+
+式(30)有大量的常数，并且常数不影响目标函数最优解的求解，去除常数后化简为
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle \operatorname* { m a x } _ { \alpha } \sum _ { j \in B _ { H P S } } \sum _ { i \in U _ { j } } \log \left( \overline { { R _ { i j } ^ { A } } } + \overline { { R _ { i j } ^ { L } } } \right) } \\ { \mathrm { s . t . } \left( 1 2 \right) } \end{array} \right.
+$$
+
+其中： $B _ { H P S } = P _ { _ { A B S } } \cup P _ { _ { L P - A B S } } \cup M _ { _ { L P - A B S } } \mathrm { ~ , ~ }$
+
+该问题是个凸问题，并且是一维变量。因此，通过直接对目标函数求导来求解最优值，即
+
+$$
+\alpha { = } \frac { \displaystyle { \sum _ { j \in { \cal P } _ { A B S } } k _ { j } } } { \displaystyle { \sum _ { j \in { \cal P } _ { A B S } } k _ { j } + \sum _ { j \in { \cal P } _ { L P . A B S } } k _ { j } + \sum _ { j \in M _ { L P . A B S } } k _ { j } } }
+$$
+
+从式(32)可以看出，最优HPS混合比例为系统在ABS时期调度用户总数与系统在HPS时期调度用户总数的比值。
+
+# 2.4用户接入策略
+
+本文使用CRE技术扩展了微蜂窝的覆盖范围，基于该技术的用户接入策略复杂度低，其结果非常接近使用负载感知效用最大化函数所取得的结果[18]，因此为用户接入策略提供了显著的支持。CRE偏置取值大小直接影响着异构网络的性能，一方面过小的偏置值不能很好的实现异构网络卸载用户的优势，微蜂窝资源利用率过低；另一方面过大的取值会造成过多的用户接入微蜂窝，降低整个系统的性能。本文采取一种动态CRE 的用户接入策略，动态调整每个基站的偏置大小，优化目标函数。
+
+用户接入指示 $w _ { i j }$ 按照公式(33)进行取值：
+
+$$
+w _ { i j } = \left\{ \begin{array} { l l } { 1 } & { j = { \mathrm { a r g ~ } } \operatorname* { m a x } _ { { _ { \left\{ j \right\} } } } \big \{ \big \{ { R S R P _ { j } } + { b i a s } _ { j } \big \} , \forall i \in U }  \\ { 0 } & { o t h e r } \end{array} \right.
+$$
+
+其中： $R S R P _ { j }$ 为用户 $i$ 接收到第 $j$ 个小区的 RSRP 大小， $b i a s _ { j }$ 表示基站 $j$ 的偏置，如式(34)所示。
+
+$$
+b i a s _ { _ j } = \left\{ { \sigma } _ { _ j } \begin{array} { l } { { j \in P } } \\ { { 0 \ } } \end{array} \right.
+$$
+
+定义t为迭代次数， $\boldsymbol { u } _ { t }$ 为第t次迭代后的目标效用值。
+
+算法1基于动态调整CRE的用户接入策略
+
+Initialize:biasj=6dB,∀j∈P； $t = 0$ ； $\boldsymbol { u } _ { t }$ repeat
+
+Stepl：获得集合 $L = \left\{ k _ { j } \ : | \ : j \in P \right\}$ ，集合内的元素按照从小到大进行排序；//优先增加接入用户较少的微基站偏置值；  
+Step2：foreach $k _ { j } \in L$ $b i a s _ { j } ^ { n e w } = b i a s _ { j } + \nabla$ ， $\nabla$ 为 CRE 偏置调整的步长;根据式(33)更新用户小区接入指示 $w _ { i j }$ ：根据式(29)(32)优化优化 $\beta$ 和 $\alpha$ ：根据式 $\left( 2 1 \right) ^ { \sim } \left( 2 3 \right)$ 优化优化 $\left\{ \boldsymbol { x } _ { i j } ^ { N } , \boldsymbol { y } _ { i j } ^ { A } , \boldsymbol { z } _ { i j } ^ { L } \right\}$ ：根据目标函数(14)，获得更新后的效用值 $u _ { n e w }$ ：if $u _ { n e w } \geq u$ then（204号 $b i a s _ { j } { = } b i a s _ { j } ^ { n e w }$ ；$u _ { t } = u _ { n e w }$ （204号else $b i a s _ { j }$ hold;end ifend for  
+Step3：获得集合 $M = \left\{ k _ { j } \ : | \ : j \in P \right\}$ ，集合内的元素按照从大到小进行排序；//优先减少接入用户较多的微基站偏置值；  
+Step4 ：foreach $k _ { j } \in M$ $b i a s _ { j } ^ { n e w } { = } b i a s _ { j } - \nabla \ ;$ 根据式(33)更新用户小区接入指示 $w _ { i j }$ ·根据式(29)(32)优化优化 $\beta$ 和 $\alpha$ ：根据式 $\left( 2 1 \right) ^ { \sim } \left( 2 3 \right)$ 优化优化 $\left\{ \boldsymbol { x } _ { i j } ^ { N } , \boldsymbol { y } _ { i j } ^ { A } , \boldsymbol { z } _ { i j } ^ { L } \right\}$ ：根据目标函数(14)，获得更新后的效用值 $u _ { n e w }$ ：if $u _ { n e w } > u _ { t }$ then$b i a s _ { j } { = } b i a s _ { j } ^ { n e w }$ ：$u _ { t } = u _ { n e w }$ （204号else $b i a s _ { j }$ hold;end ifend for  
+Step5： $\boldsymbol { u } _ { t + 1 } { = } \boldsymbol { u } _ { t }$ $t = t + 1 \ \mathrm { ~ ; ~ }$   
+until目标函数收敛;
+
+算法开始时，用户根据初始化条件接入基站后初始化效用值 $u _ { 0 }$ 。Step1将所有微蜂窝接入的用户数升序排列，从而优先扩展接入用户数较少的PBS 覆盖范围；Step3将所有微蜂窝接入用户数降序排列，从而优先缩小接入用户数较大的PBS覆盖范围。Step2 和 Step4 按照已排列的顺序依次改变每个PBS 的偏置，可以看出，只有保持或增大目标效用的偏置改变才是有效的，因此整个算法是单调非递减有界的。
+
+# 3 性能仿真
+
+仿真参数选用3GPPLTE-A中异构网络部署标准[19]，详情如表1所示。
+
+表1仿真参数  
+
+<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>系统模型</td><td>7小区模型</td></tr><tr><td>每小区扇区数</td><td>3</td></tr><tr><td>系统总用户数</td><td>840</td></tr><tr><td>每扇区微基站数</td><td>1</td></tr><tr><td>站间距/m</td><td>500</td></tr><tr><td>系统带宽/MHZ</td><td>20</td></tr><tr><td>载波频率/GHZ</td><td>2.0</td></tr><tr><td>宏基站最大发射功率/dBm</td><td>46</td></tr><tr><td>宏基站最小传输功率/dBm</td><td>43</td></tr><tr><td>微机站最大发射功率/dBm</td><td>30</td></tr><tr><td>噪声功率谱密度/dBm/Hz</td><td>-174</td></tr><tr><td>子帧长度/ms</td><td>1</td></tr><tr><td>宏基站路径损耗</td><td>128.1+37.610g10(R)dB R in km</td></tr><tr><td rowspan="2">微基站路径损耗</td><td>140.7+36.7log10(R)dB</td></tr><tr><td>R in km</td></tr></table></body></html>
+
+仿真选取3种现有方案作为对比：
+
+a)Max-RSRP：不采用任何干扰协调措施和小区范围扩展，采用传统的用户连接策略。
+
+b)ABS：为MBS 配置ABS，即MBS在ABS时期不传输数据，微蜂窝偏置值为6dB。
+
+c)LP-ABS：为MBS配置LP-ABS，即MBS在LP-ABS时期低功率传输数据，微蜂窝偏置值为6dB。
+
+d)HPS：本文所提出的方案。
+
+图3显示了不同方案下不同小区的平均用户分布数目，用来描述两层蜂窝网络的负载均衡情况。从图中看出，没有采用干扰协调措施和小区扩展技术的Max-RSRP方案其负载均衡水平最差，没有发挥出异构网络卸载用户的优势。本文提出的方案负载均衡水平优于其它三种方案，其重要原因是为每个PBS独立的配置了更优的小区偏置值。
+
+![](images/34574d1fe93878a0d5568fa11281ecb78fa073646ba7f81915fd384f705991d1.jpg)  
+图3小区平均接入用户数
+
+图4是系统中所有用户速率在不同方案下的累计分布函数图。因为本文提出的方案负载均衡水平更高，所以资源分配更加合理；由图中可以看出，相比于Max-RSRP方案，超过 $80 \%$ 的用户速率都有所提高；由于为MBS配置合理的混合保护子帧，降低小区间干扰的同时减少了对宏蜂窝资源的浪费，因此，本文所提方案的用户速率也优于为MBS配置单一的LP-ABS或ABS。
+
+![](images/9a787046dee00e521365c7367264a1650fab811fb2464136c3c9ca622747f131.jpg)  
+图4用户传输速率累计分布函数
+
+图5显示了宏蜂窝用户 $50 \%$ -ile和 $5 \%$ -ile 位置的用户传输速率，用来表示宏蜂窝中信道质量不好的边缘用户速率和中位数用户速率。由于Max-RSRP方案没有进行小区扩展，导致大量的用户接入了宏基站，平均分配到每个用户的资源变少，因此 $5 \%$ -ile和 $50 \%$ -ile 用户吞吐量最差。相比于单一使用ABS，本文方案，由于合理的利用了一部分空白子帧时期的宏蜂窝资源，因此 $50 \%$ -ile用户和 $5 \%$ -ile 用户的速率上分别提升了 $3 3 . 2 \%$ 和 $2 6 . 4 \%$ 。同时，相比于LP-ABS方案，本文的方案在两个位置的用户速率上也得到提高。
+
+![](images/e9b3935c147fb351ccc4fdeaeba7f146a40f4406878a85e3d5b88466940a4e23.jpg)  
+图 $5 5 0 \%$ -ile和 $5 \%$ -ile宏蜂窝用户速率
+
+图6显示了不同方案下系统的公平性，采用 $\mathrm { J a i n } ^ { [ 2 0 ] }$ 公平性指数进行衡量。Jain公平指数定义如下：
+
+$$
+f = \frac { ( \displaystyle \sum _ { i = 1 } ^ { n } R _ { i } ) ^ { 2 } } { n \displaystyle \sum _ { i = 1 } ^ { n } R _ { i } ^ { 2 } }
+$$
+
+式(35)中 $R _ { i }$ 为用户 $i$ 的吞吐量。由图6可以看出，本文所提方案的用户公平性最高。相比与ABS方案和LP-ABS方案，本文方案的用户公平性提升了 $1 7 . 7 \%$ 和 $10 . 6 \%$ ，相比于Max-RSRP方案提升了 $1 1 4 . 7 \%$ 。
+
+![](images/460345e4d60bf2f8487038fee51de73da6943eedc5c67fdfc2e313844fa2713e.jpg)  
+图6不同方案下用户公平性
+
+![](images/13626ddf977d4b38b43f47fd34bb33e56e2b2ddec3160adcd29bea2ab259db2b.jpg)  
+图7算法1收敛曲线
+
+图7显示了算法1在求解问题(14)时的收敛曲线，可以看出，随着迭代次数的增加，目标函数效用和也在逐渐增加，算法开始时效用和增加较快，随后逐渐减小，最终收敛不再增加，大概循环迭代15次就已经收敛了。
+
+# 4 结束语
+
+本文研究了两层异构网络中小区间干扰协调，混合ABS和LP-ABS，提出一种基于混合保护子帧的干扰协调方案。仿真结果表明该方案能够更好的利用系统资源，获得更大的系统吞吐量，同时各小区负载得以均衡，用户公平性得到显著提高。下一步可研究对HPS中LP-ABS的功率进行控制，进一步提高系统性能。
+
+# 参考文献：
+
+[1]AndrewsJG,Buzzi S,Wan C,et al.What will 5G be?[J].IEEE Journal on Selected Areas in Communications,2014,32 (6): 1065-1082.   
+[2]Yang Chungang,Li Jiandong,Anpalagan A,et al. Joint power coordination for spectral-and-energy efficiency in heterogeneous small cell networks: a bargaining game-theoretic perspective [J].IEEE Trans on Wireless Communications,2016,15 (2):1364-1376.   
+[3]Zhang Haijun,Jiang Chunxiao,Hu Qingyang,et al. Self-organization in disaster resilient heterogeneous small cell networks [J].IEEE Network, 2015,30 (2): 116-121.   
+[4] Zhou Tianqing,Jiang Nan,Qin Dong,et al.Joint cell selection and activation for green communications in ultra-dense heterogeneous networks [C]//Proc of IEEE International Conference on Computational Science and Engineering.2017.   
+[5]Qualcomm.Importance of serving cell selection in heterogeneous networks [C].3GPP R1-100701,3GPP TSG RAN WG1 Meeting #59,Jan.2010.   
+[6]Naganuma Norihiro,Nakazawa Sho,Suyama Satoshi,et al.Adaptive control CRE technique for eICIC in HetNet [C]// Proc of the 8th International Conference on Ubiquitous and Future Networks.2016: 4-6.   
+[7]Zhang Fengye,Sun Songlin,Chen Na,et al.A novel adaptive user association scheme for downlink balance in heterogeneous networks $[ \mathrm { C } ] / \AA$ Proc of International Symposium on Communications and Information Technologies.2015:57-60.   
+[8] Zhang Lu, Zhao Shengjie, Shang Peng,et al. Distributed adaptive range extension setting for small cels in heterogeneous cellular network [Cl// Proc of IEEE Vehicular Technology Conference.2017: 1-7.   
+[9] Mudassir A,Akhtar S,Kamel H. Survey on inter-cell interference coordination in LTE-Advanced heterogeneous networks [Cl// Proc of International Conference on Innovative Computing Technology.2017: 429- 434.   
+[10]谭志远，陈磊，李曦，等．异构蜂窝网络中用户非均匀分布的CRE 和 eICIC 优化 [J].北京邮电大学学报,2017,40(2):11-15.(Tan Zhiyuan, Chen Lei,Li Xi,et al. Jointly optimize CRE and eICIC in heterogeneous celular networks with non-uniform user distribution [J]. Journal of Beijing University of Posts and Telecommunications,2017,40 (2):11-15.)   
+[11] Zhang Qixun, Yang Tuo,Zhang Yue,et al. Fairness guaranteed novel eICIC technology for capacity enhancement in multi-tier heterogeneous cellular networks [J]. Eurasip Journal on Wireless Communications & Networking, 2015,2015 (1): 62.   
+[12] Wang Yongbin, Ji Hong, Zhang Heli. Spectrum efficiency enhancement in small cell networks with biasing cell association and eICIC:an analytical framework[J].International Journal of Communication Systems,2016,29 (2): 362-377.   
+[13] Qualcomm. Importance of serving cell selection in heterogeneous networks [C]. 3GPP R1-100701,3GPP TSG RAN WG1 Meeting #59,Jan. 2010.   
+[14] Lu Wenjuan,Fan Qing,Li Zexue,et al. Power control based time-domain inter-cell interference coordination scheme in DSCNs [C]//Proc of IEEE International Conference on Communications.2016: 1-6.   
+[15] Chen Yu,Fan Xuming,and Huang Bo,Joint ABS power and resource allocations for eICIC in heterogeneous networks [C]// Proc of the 6th International Workshop on． Signal Design and Its Applications in Communications.2014: 92-95.   
+[16] Zou Shangzhang,Liu Nan,Pan Zhiwen,et al. Joint power and resource allocation for non-uniform topologies in heterogeneous networks [Cl// Proc of Vehicular Technology Conference.2016: 1-5.   
+[17]Huo Ihong,Chen C S.Self-organized resource allocation in LTE systems with weighted proportional fairness [C]// Proc of IEEE International Conference on Communications.2012: 5348-5353.   
+[18] Ye Qiaoyang,Rong Beiyu,Chen Yudong,et al. User association for load balancing in heterogeneous cellular networks [J].IEEE Trans on Wireless Communications,2013,12(6): 2706-2716.   
+[19] 3GPP TS 36.211 v11.2.0.Physical channels and modulation [S].[S.1.] : European Telecommunications Standards Institute,2013.   
+[20]张永忠，唐玮俊，冯穗力．基于先进小区干扰协调技术的异构网络联合 资源分配[J].电讯技术,2016,56(6):597-604.(Zhang Yongzhong,Tang Weijun,Feng Suili. Joint resources allocation for enhanced inter-cell interference coordination inheterogeneous networks [J]. Telecommunication Engineering,2016,56 (6): 597-604.)

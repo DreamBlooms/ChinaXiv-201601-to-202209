@@ -1,0 +1,216 @@
+饲粮苏氨酸水平对北京雏鸭生长性能、胴体品质、免疫机能和血清激素的影响
+
+# 毕晔辛海瑞 潘晓花 熊本海\*
+
+（中国农业科学院北京畜牧兽医研究所，动物营养国家重点实验室，北京100193）
+
+摘要：本试验旨在研究饲粮苏氨酸水平对北京雏鸭生长性能、胴体品质、免疫机能和血清激素的影响。选取320只1日龄健康的北京鸭公鸭，随机分为5组，每组8个重复，每个重复8只。各组饲粮中苏氨酸水平实测值分别为 $0 . 6 5 \%$ （对照）、 $0 . 6 9 \%$ 、 $0 . 8 1 \%$ 、 $0 . 8 8 \%$ 和 $0 . 9 8 \%$ ，试验期为 $2 1 \mathrm { d }$ 。结果表明：1）饲粮苏氨酸水平对雏鸭平均日增重和平均日采食量有极显著影响（ $P { < } 0 . 0 1$ ），对照组雏鸭平均日增重和平均日采食量显著低于其他各组（ $P { < } 0 . 0 5$ ）。2)饲粮苏氨酸水平对雏鸭胸肌率有显著影响（ $P { < } 0 . 0 5$ )，对照组雏鸭胸肌率显著低于 $0 . 6 9 \%$ 、$0 . 8 1 \%$ 、 $0 . 8 8 \%$ 水平组（ $P { < } 0 . 0 5$ )。3）饲粮苏氨酸水平对雏鸭法氏囊指数、脾脏指数、胸腺指数影响不显著（ $. P { > } 0 . 0 5$ ）。饲粮苏氨酸水平对雏鸭法氏囊重和胸腺重有极显著影响（ $P { < } 0 . 0 1$ )，对照组雏鸭法氏囊重显著低于其他各组（ $( P { < } 0 . 0 5 )$ ，对照组雏鸭胸腺重显著低于$0 . 8 1 \%$ 、 $0 . 8 8 \%$ 水平组（ $. P { < } 0 . 0 5 \$ )。4）饲粮苏氨酸水平对雏鸭血清三碘甲腺原氨酸（ $\left. \mathbf { T } _ { 3 } \right.$ ）含量有显著影响（ $. P { < } 0 . 0 5$ ）， $0 . 8 1 \%$ 水平组的血清 ${ \mathrm { T } } _ { 3 }$ 含量最高，显著高于对照组和 $0 . 9 8 \%$ 水平组（ $P { < } 0 . 0 5$ ）。5）苏氨酸需要量分别与平均日采食量、平均日增重和胸肌率呈二次曲线关系，并当三者达到最高值时北京雏鸭的苏氨酸需要量分别为 $0 . 8 6 0 \%$ 、 $0 . 8 5 2 \%$ 和 $0 . 8 3 7 \%$ 。由此可见，饲粮中添加适宜水平的苏氨酸可提高雏鸭生长性能、胴体品质和免疫机能。
+
+关键词：苏氨酸；雏鸭；生长性能；胴体品质；免疫机能；血清激素中图分类号：S834 文献标识码： 文章编号：
+
+早在1935年，Rose 等[从纤维蛋白质的水解产物中分离出一种未知氨基酸，因为与苏糖的空间结构相似，所以将其命名为苏氨酸[2。进一步研究发现，苏氨酸是家禽体内最后发现的一种必需氨基酸，是仅次于蛋氨酸、赖氨酸、色氨酸的第4种重要的必需氨基酸，对维持家禽正常的生长发育和免疫功能具有十分重要的意义[3]。目前的研究主要集中在苏氨酸对肉鸡生长性能的影响，而其对肉鸭方面的研究较少。本试验选择北京雏鸭为研究对象，旨在研究饲粮苏氨酸水平对雏鸭生长性能、胴体品质、免疫机能和血清激素的影响，并采用数学模型估测出1\~21日龄北京鸭的苏氨酸需要量，以期为北京鸭的生产实践提供理论指导。
+
+# 1材料与方法
+
+# 1.1 试验动物与试验设计
+
+采用完全随机试验设计，挑选出320只同批次出雏的健康、体重相近的1日龄雄性北京鸭，随机分为5组，每组8个重复，每个重复8只鸭子。每个重复为1个鸭笼，每组试验鸭随机饲喂不同的试验饲粮，饲粮中苏氨酸水平分别为 $0 . 6 0 \%$ 、 $0 . 6 8 \%$ 、 $0 . 7 6 \%$ 、 $0 . 8 4 \%$ 和 $0 . 9 2 \%$ （苏氨酸水平实测值分别为 $0 . 6 5 \%$ 、 $0 . 6 9 \%$ 、 $0 . 8 1 \%$ 、 $0 . 8 8 \%$ 和 $0 . 9 8 \%$ )，其中实测值为 $0 . 6 5 \%$ 组饲粮为基础饲粮（对照组)，其余4种饲粮为在基础饲粮中添加 $0 . 0 8 \%$ 、 $0 . 1 6 \%$ 、 $0 . 2 4 \%$ 和$0 . 3 2 \%$ 的 $L .$ -苏氨酸配制而成。基础饲粮营养水平参照NRC（1994）肉鸭饲养标准中的营养需要量以及根据实际生产经验设计而成。基础饲粮组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of the basal diet (air-dry basis)   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料 Ingredients</td><td></td></tr><tr><td>玉米 Corn</td><td>57.30</td></tr><tr><td>花生粕 Peanut meal</td><td>30.40</td></tr><tr><td>豆油 Soybean oil</td><td>1.80</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.90</td></tr><tr><td>石粉 Limestone</td><td>1.00</td></tr><tr><td>食盐 NaCl</td><td>0.30</td></tr><tr><td>预混料 Premixl)</td><td>1.00</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.46</td></tr><tr><td>赖氨酸盐酸盐 Lys·HCl</td><td>0.75</td></tr></table></body></html>
+
+<html><body><table><tr><td>填充料 Filler2)</td><td>5.09</td></tr><tr><td>合计Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3</td><td></td></tr><tr><td>代谢能ME/（MJ/kg）</td><td>12.16</td></tr><tr><td>粗蛋白质 CP</td><td>21.50</td></tr><tr><td>钙Ca</td><td>0.89</td></tr><tr><td>有效磷 AP</td><td>0.49</td></tr><tr><td>赖氨酸 Lys</td><td>1.17</td></tr><tr><td>蛋氨酸 Met</td><td>0.66</td></tr><tr><td>苏氨酸Thr</td><td>0.65</td></tr></table></body></html>
+
+1 预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of the diet: VA 10 350 IU,VB1 2.76 mg, $\mathrm { V B } _ { 2 } 8 . 6 2 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 4 . 6 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 3 ~ \mathrm { m g }$ ， $\mathrm { V D } _ { 3 } 2 7 6 0 \mathrm { I U }$ ,VE 27.6 IU, $\mathrm { V K } _ { 3 } 1 2 . 6 5 \mathrm { m g }$ ，生物素 biotin 0.184 mg，叶酸 folic acid $1 . 6 1 \ \mathrm { m g }$ ， $D .$ 泛酸钙 $D$ -pantothenic acid $1 1 ~ \mathrm { m g }$ ，烟酰胺nicotinic acid $3 0 \mathrm { m g }$ ，生物素biotin $0 . 1 8 4 \mathrm { m g }$ ， $\mathtt { C u }$ (as copper sulfate) $8 . 1 2 \mathrm { m g }$ ，Fe (as ferrous sulfate) $9 0 ~ \mathrm { m g }$ ， Mn (as manganese sulfate) $1 0 1 . 7 6 ~ \mathrm { { m g } }$ Zn (as zinc oxide) $8 9 . 7 \mathrm { m g }$ ， I(as potassium iodide) $0 . 8 0 \mathrm { m g }$ ， Se (as sodium selenite) $0 . 3 0 \mathrm { m g }$ 。
+
+2)填充料为膨润土。Bentonite served as a filler.   
+3)代谢能为计算值，其余为实测值。ME was a calculated value,while others were measured values.
+
+# 1.2 饲养管理
+
+试验在北京市昌平区诚远盛隆养殖责任有限公司内进行，采用网上平养方式饲养。使用暖风炉和风机自动控制温湿度，使其保持一致，并保证鸭舍通风良好。采用人工补光制度，光照时间为 $2 4 ~ \mathrm { h / d }$ ，鸭舍温度由31℃逐渐降低至 $2 4 ^ { \circ } \mathrm { C }$ 。采用水线统一供水，人工喂料，试验鸭自由采食和饮水。试验期为21d。
+
+# 1.3 指标测定
+
+# 1.3.1 生长性能指标
+
+每个重复分别在7、14、21日龄晚间进行结料， $1 2 \mathrm { h }$ 后称量鸭空腹重，统计耗料量和体增重，并计算21日龄各组的平均日增重、平均日采食量和料重比。
+
+# 1.3.2 胴体品质指标
+
+22 日龄时，在每个重复中随机挑选3只北京鸭称量活重并且屠宰。屠宰依据《家禽生产性能名词术语和度量统计方法》[4进行，计算胸肌率、腿肌率和腹脂率。计算公式为：
+
+胸肌率 $( \% ) =$ （胸肌重/活体重） $\times 1 0 0$
+
+腿肌率 $( \% ) =$ （腿肌重/活体重） $\times 1 0 0$
+
+腹脂率 $( \% ) =$ （腹脂重/活体重） $\times 1 0 0$ 。
+
+# 1.3.3 免疫机能指标
+
+屠宰过程中取脾脏、胸腺和法氏囊，并及时称重，计算脾脏指数、胸腺指数和法氏囊指数。计算公式为：
+
+脾脏指数（g/kgBW） $\ c =$ 脾脏重/活体重；  
+胸腺指数（g/kgBW） $\begin{array} { r } { { \bf \Psi } = \frac { \ d { \bf \Psi } } { \ d t } } \end{array}$ 胸腺重/活体重；  
+法氏囊指数（g/kgBW） $\mathbf { \sigma } = \mathbf { \sigma }$ 法氏囊重/活体重。
+
+# 1.3.4 血清激素指标
+
+21日龄时，在每个重复中随机挑选3只北京鸭在右侧颈静脉采血，采用放射免疫分析法测定血清生长激素（GH）、三碘甲腺原氨酸（T3）和甲状腺素（T4）含量，采用酶联免疫吸附法（ELISA）测定血清胰岛素样生长因子-I（IGF-I）含量。
+
+# 1.4 数据处理与分析
+
+使用 SAS 9.2 统计软件，对试验数据进行单因素方差分析（one-wayANOVA）和回归分析，使用Duncan氏法进行平均值间的多重比较， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。试验数据以“平均值±标准差"的形式表示。
+
+# 2结果
+
+# 2.1 饲粮苏氨酸水平对北京雏鸭生长性能的影响
+
+由表2可知，饲粮苏氨酸水平对雏鸭平均日增重、平均日采食量有极显著影响( $_ { | P < 0 . 0 1 \rangle }$ ，对照组雏鸭平均日增重和平均日采食量显著低于其他各组( $. P { < } 0 . 0 5 )$ ；与 $0 . 6 9 \%$ 水平组相比，$0 . . 8 1 \%$ 水平组雏鸭平均日增重和平均日采食量显著升高（ $. P { < } 0 . 0 5 \ '$ ）； $0 . 8 1 \%$ 和 $0 . 8 8 \%$ 水平组之间平均日增重和平均日采食量差异不显著（ $. P { > } 0 . 0 5$ ）。饲粮苏氨酸水平对雏鸭料重比影响不显著 （ $. P { > } 0 . 0 5$ ），随着饲粮苏氨酸水平的提高，雏鸭料重比呈现先升高后降低的趋势，其中 $0 . 8 8 \%$ 水平组料重比最高。
+
+Table 2Effects of dietary Thr level on growth performance of Peking ducklings   
+
+<html><body><table><tr><td>饲粮苏氨酸水平 Dietary Thr level/%</td><td>平均日增重 ADG/g</td><td>平均日采食量 ADFI/g</td><td>料重比 F/G</td></tr><tr><td>0.65</td><td>43.49±2.13d</td><td>76.69±5.51c</td><td>1.762±0.060</td></tr><tr><td>0.69</td><td>48.62±3.39c</td><td>87.39±8.08b</td><td>1.798±0.107</td></tr><tr><td>0.81</td><td>54.15±3.39a</td><td>98.37±7.46a</td><td>1.816±0.072</td></tr><tr><td>0.88</td><td>51.85±2.10ab</td><td>95.49±4.89a</td><td>1.841±0.046</td></tr><tr><td>0.98</td><td>50.42±1.90bc</td><td>92.69±5.78ab</td><td>1.838±0.077</td></tr><tr><td>P值P-value</td><td><0.000 1</td><td><0.000 1</td><td>0.226 6</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ，相同或无字母表示差异不显著（ $_ { \cdot \cdot P > 0 . 0 5 } )$ 。下表同。
+
+In the same column,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below.
+
+# 2.2饲粮苏氨酸水平对北京雏鸭胴体品质的影响
+
+由表3可知，饲粮苏氨酸水平对雏鸭胸肌率有显著影响（ $\scriptstyle \cdot { \cal P } < 0 . 0 5 .$ )，对照组雏鸭胸肌率显著低于 $0 . 6 9 \%$ 、 $0 . 8 1 \%$ 、 $0 . 8 8 \%$ 水平组（ $P { < } 0 . 0 5 )$ ， $0 . 6 9 \%$ 、 $0 . 8 1 \%$ 、 $0 . 8 8 \%$ 、 $0 . 9 8 \%$ 水平组之间胸肌率差异不显著（ $P { > } 0 . 0 5 \$ )。饲粮苏氨酸水平对雏鸭腿肌率和腹脂率影响不显著（ $P { > } 0 . 0 5 )$ ，随着饲粮苏氨酸水平的提高，雏鸭的腿肌率和腹脂率呈现出先升高后降低的趋势，其中 $0 . 8 1 \%$ 水平组雏鸭的胸肌率和腹脂率最高。
+
+表2饲粮苏氨酸水平对北京雏鸭生长性能的影响  
+表3饲粮苏氨酸水平对北京雏鸭胴体品质的影响  
+Table 3Effects of dietary Thr level on carcass traits of Peking duckl   
+%   
+
+<html><body><table><tr><td>饲粮苏氨酸水平</td><td>胸肌率</td><td>腿肌率</td><td>C 腹脂率</td></tr><tr><td>Dietary Thr level/%</td><td>Breast meat rate</td><td>Tight meat rate</td><td>Abdomen fat rate</td></tr><tr><td>0.65</td><td>0.754 1±0.144 1b</td><td>5.871±0.476</td><td>0.772 8±0.184 5</td></tr><tr><td>0.69</td><td>0.853 2±0.214 3a</td><td>5.921±0.692</td><td>0.766 9±0.219 7</td></tr><tr><td>0.81 0.88</td><td>0.901 0±0.1021a</td><td>6.082±0.572</td><td>0.860 5±0.195 0 0.785 6±0.192 6</td></tr><tr><td>0.98</td><td>0.864 7±0.113 6a</td><td>6.033±0.623 5.932±0.453</td><td>0.752 3±0.168 4</td></tr><tr><td>P值 P-value</td><td>0.8321±0.174 3ab 0.015 5</td><td>0.693 8</td><td>0.335 7</td></tr></table></body></html>
+
+# 2.3 饲粮苏氨酸水平对北京雏鸭免疫机能的影响
+
+由表 4 可知，饲粮苏氨酸水平对雏鸭法氏囊指数、脾脏指数、胸腺指数影响不显著$P { > } 0 . 0 5$ ）。随着饲粮苏氨酸水平的升高，雏鸭法氏囊指数和胸腺指数呈现先升高后降低的趋势。对照组法氏囊指数和胸腺指数最低， $0 . 8 8 \%$ 水平组的脾脏指数最低； $0 . 8 8 \%$ 水平组的法氏囊指数和胸腺指数最高， $0 . 6 9 \%$ 水平组的脾脏指数最高。
+
+表4饲粮苏氨酸水平对雏鸭免疫器官指数的影响  
+'able 4Effects of dietary Thr level on immune organs index of Peking ducklings g   
+
+<html><body><table><tr><td>饲粮苏氨酸水 平</td><td>法氏囊指数</td><td>脾脏指数</td><td>胸腺指数</td></tr><tr><td>Dietary Thr level/%</td><td>Bursary of Fabricius index</td><td>Spleen index</td><td>Thymus index</td></tr><tr><td>0.65</td><td>120.10±26.36</td><td>79.59±17.86</td><td>41.04±12.58</td></tr><tr><td>0.69</td><td>132.60±33.47</td><td>98.02±99.38</td><td>41.50±9.62</td></tr><tr><td>0.81</td><td>135.70±36.49</td><td>82.10±15.34</td><td>43.26±13.44</td></tr><tr><td>0.88</td><td>135.80±27.81</td><td>77.57±19.26</td><td>47.11±14.02</td></tr><tr><td>0.98</td><td>130.20±33.18</td><td>95.01±62.24</td><td>41.22±13.61</td></tr><tr><td>P值 P-value</td><td>0.409 1</td><td>0.580 1</td><td>0.4314</td></tr></table></body></html>
+
+由表5可知，饲粮苏氨酸水平对雏鸭法氏囊重有极显著影响（ $_ { ( P < 0 . 0 1 ) }$ ，对照组雏鸭法氏囊重显著低于其他各组（ $. P { < } 0 . 0 5 \$ ， $0 . 6 9 \%$ 、 $0 . 8 1 \%$ 、 $0 . 8 8 \%$ 、 $0 . 9 8 \%$ 水平组之间法氏囊重差异不显著（ $( P { > } 0 . 0 5 )$ 。饲粮苏氨酸水平对雏鸭脾脏重影响不显著（ $. P { > } 0 . 0 5 )$ ，对照组雏鸭的脾脏重最低， $0 . 6 9 \%$ 水平组脾脏重最高。饲粮苏氨酸水平对雏鸭胸腺重有极显著影响( $. P { < } 0 . 0 1 \rangle$ )，与对照组相比， $0 . 8 1 \%$ 、 $0 . 8 8 \%$ 水平组的胸腺重显著升高（ $_ { ( P < 0 . 0 5 ) }$ ， $0 . 8 8 \%$ 水平组的平均胸腺重最高；与 $0 . 8 1 \%$ 水平组相比， $0 . 9 8 \%$ 水平组的平均胸腺重显著降低（ $_ { . P < 0 . 0 5 ) }$ 。
+
+表5饲粮苏氨酸水平对雏鸭免疫器官重的影响  
+
+<html><body><table><tr><td>饲粮苏氨酸水平</td><td>法氏囊重 Bursary of Fabricius</td><td>脾脏重</td><td>胸腺重</td></tr><tr><td>Dietary Thr level/%</td><td>weight</td><td>Spleen weight</td><td>Thymus weight</td></tr><tr><td>0.65</td><td>1.148±0.243b</td><td>0.765 4±0.184 5</td><td>0.396 0±0.130 0c</td></tr><tr><td>0.69</td><td>1.491±0.342a</td><td>1.093 0±1.177 0</td><td>0.455 3±0.114 1bc</td></tr><tr><td>0.81</td><td>1.563±0.383a</td><td>0.973 8±0.221 2</td><td>0.511 2±0.161 6a</td></tr><tr><td>0.88</td><td>1.492±0.424a</td><td>0.850 4±0.204 4</td><td>0.515 9±0.154 8ab</td></tr><tr><td>0.98</td><td>1.448±0.460a</td><td>1.041 0±0.657 0</td><td>0.458 5±0.166 6bc</td></tr><tr><td>P值 P-value</td><td>0.002 4</td><td>0.347 3</td><td>0.001 0</td></tr></table></body></html>
+
+2.4饲粮苏氨酸水平对北京雏鸭血清激素指标的影响
+
+由表5可知，饲粮苏氨酸水平对雏鸭血清三碘甲腺原氨酸含量有显著影响（ $P { < } 0 . 0 5 \$ ），其中 $0 . 8 1 \%$ 水平组的血清三碘甲腺原氨酸含量最高，显著高于对照组和 $0 . 9 8 \%$ 水平组
+
+（ $P { < } 0 . 0 5$ ）。饲粮苏氨酸水平对血清甲状腺素含量影响不显著（ $_ { \cdot \cdot P > 0 . 0 5 }$ ），但是对三碘甲腺原氨酸/甲状腺素（ $\mathrm { \cdot T _ { 3 } / T _ { 4 } }$ ）值有显著影响（ $. P { < } 0 . 0 5 )$ ）， $0 . 8 1 \%$ 水平组的 $\mathrm { T } _ { 3 } / \mathrm { T } _ { 4 }$ 值最高，显著高于对照组和 $0 . 6 9 \%$ 、 $0 . 9 8 \%$ 水平组（ $. P { < } 0 . 0 5$ ）。饲粮苏氨酸水平对雏鸭血清生长激素和胰岛素样生长因子-I含量影响不显著（ $\cdot P { > } 0 . 0 5 )$ ）。
+
+表5饲粮苏氨酸水平对雏鸭血清激素指标的影响  
+Table 5Effects of dietary Thr level on serum hormone index of Peking ducklings   
+
+<html><body><table><tr><td>饲粮苏氨酸 水平</td><td>生长激素</td><td>三碘甲腺原氨酸</td><td>甲状腺素</td><td>三碘甲腺原氨 酸/甲状腺素</td><td>胰岛素样生长因 子-I</td></tr><tr><td>Dietary Thr level/%</td><td>GH/(ng/mL)</td><td>T3/(ng/mL)</td><td>T4/(ng/mL)</td><td>T3/T4</td><td>IGF- I /(ng/mL)</td></tr><tr><td>0.65</td><td>0.926 4±0.175 6</td><td>0.885 2±0.200 8b</td><td>48.39±4.19</td><td>1.829±0.370c</td><td>115.10±22.47</td></tr><tr><td>0.69</td><td>0.960 8±0.219 8</td><td>0.941 2±0.257 5ab</td><td>48.58±6.87</td><td>1.922±0.388bc</td><td>116.30±21.12</td></tr><tr><td>0.81</td><td>1.003 0±0.492 3</td><td>1.112 0±0.428 2a</td><td>47.60±5.77</td><td>2.369±1.033a</td><td>115.90±23.21</td></tr><tr><td>0.88</td><td>0.933 7±0.256 1</td><td>1.030 0±0.282 1ab</td><td>45.56±5.97</td><td>2.280±0.598ab</td><td>118.50±21.44</td></tr><tr><td>0.98</td><td>1.036 0±0.219 8</td><td>0.870 4±0.279 7b</td><td>44.94±6.04</td><td>1.949±0.587bc</td><td>116.40±20.73</td></tr><tr><td>P值P-value</td><td>0.657 6</td><td>0.029 7</td><td>0.106 1</td><td>0.0127</td><td>0.989 0</td></tr></table></body></html>
+
+# 2.5北京雏鸭苏氨酸需要量估测
+
+根据本试验结果，采用二次曲线模型进行拟合，分别以平均日采食量 $( y _ { 1 }$ ）、平均日增重 $( y _ { 2 }$ ）、胸肌率（y3）为应变量，以苏氨酸需要量 $( x )$ 为自变量进行回归分析，回归模型如下：
+
+yl=-448.84x2+772.04x-233.75 （ $scriptstyle \cdot R ^ { 2 } = 0 . 9 4 3 \ 0$ ）；  
+y2=-227.97x²+388.39x-111.8 0 $scriptstyle ( R ^ { 2 } = 0 . 9 1 7 7$ ）；  
+y3=-3.488 $3 x ^ { 2 } + 5 . 8 3 8$ $5 x .$ -1.548 5 ( $R ^ { 2 } { = } 0 . 8 1 0 8$ ）。
+
+从回归模型可以看出，平均日采食量、平均日增重和胸肌率分别达到最高值时，北京雏鸭苏氨酸的需要量分别为 $0 . 8 6 0 \%$ 、 $0 . 8 5 2 \%$ 和 $0 . 8 3 7 \%$ 。
+
+# 3讨论
+
+3.1饲粮苏氨酸水平对北京雏鸭生长性能的影响苏氨酸可以调节家禽的生长性能。动物对苏氨酸有最适需要量，是因为动物的生长性能随着饲粮中苏氨酸水平的升高而升高。当饲粮中苏氨酸水平达到最适需要量时，动物的生长性能如采食量、体增重达到最大值；但超过最适需要量时，动物的生长性能会下降，因此，动物在达到最适苏氨酸需要量时可以发挥出最佳的生长性能。对于肉鸡来讲，已有大量研究表明，饲粮中添加适量苏氨酸可以显著提高肉鸡的采食量、体增重和料重比等[5-7]。对于肉鸭来讲，张丽等8研究表明，饲粮中添加适宜水平的苏氨酸可以显著提高北京鸭平均日采食量、平均日增重，显著降低料重比。Xie 等[9在粗蛋白质为 $1 8 . 9 8 \%$ 的基础饲粮中添加人工合成苏氨酸，使饲粮苏氨酸水平从 $5 . 0 \mathrm { g / k g }$ 升高至 $8 . 2 \ : \mathrm { g / k g }$ ，结果表明，适量添加苏氨酸可以显著提高北京鸭体增重、采食量和料重比，郭锋等[0]、Zhang 等[也有相似的报道。本试验结果也发现，饲粮添加苏氨酸可以显著提高雏鸭平均日增重和平均日采食量，有提高料重比的趋势，但差异不显著，此结果与Jiang 等[2]研究结果一致。本试验得出北京雏鸭达到最佳平均日增重和平均日采食量时的苏氨酸需要量为 $0 . 8 5 2 \%$ 和 $0 . 8 6 0 \%$ ，与郭锋等[10]推荐的$0 . 7 3 3 \%$ 和 $0 . 7 9 4 \%$ 相差较大。但Zhang 等[13]研究结果表明，雏鸭发挥最佳生长性能的苏氨酸需要量为 $0 . 8 6 \%$ ，与本试验结果相近。其原因可能是由于饲粮粗蛋白质水平不同所导致，另外，影响苏氨酸需要量的因素有很多[14]，如日龄、饲粮氨基酸比例、饲粮的可消化性、饲养水平等，都可能会导致苏氨酸对北京雏鸭生长性能的影响产生变化。
+
+# 3.2饲粮苏氨酸水平对北京雏鸭胴体品质的影响
+
+胸肌率、腿肌率和腹脂率是衡量家禽胴体品质的重要指标，腹脂约占体脂总量的 $2 2 \%$ 是家禽沉积脂肪的主要部位。本试验研究表明，饲粮苏氨酸水平的升高可以显著提高雏鸭的胸肌率，对腿肌率和腹脂率有提高趋势但不显著。可能是由于饲粮中添加了苏氨酸以后，雏鸭血清中的三碘甲腺原氨酸含量升高，能够促进蛋白质合成，促进雏鸭生长发育，从而提高胸肌量。Zhang 等[1研究1\~14日龄北京鸭表明，饲粮苏氨酸水平从 $0 . 6 0 \%$ 提高到 $0 . 9 5 \%$ ，可以显著提高胸肌重和相对胸肌产量（胸肌重/屠体重）。Zhang 等[13]研究15\~35 日龄北京鸭表明，饲粮苏氨酸水平从 $0 . 6 4 \%$ 升高至0.72%时，可以使胸肌重提高 $1 . 0 \%$ 。Maqbool[15]研究表明，饲粮苏氨酸水平的升高可以显著提高1\~14 日龄北京鸭的胸肌率和腹脂率，但对腿肌率没有显著影响。Abbsi 等[16]、Taghinejad-Roudbaneh 等[17]在肉鸡上的研究表明，饲粮添加苏氨酸可以显著提高胸肌率和腿肌率，对腹脂率影响不显著。Barkley等[18]研究表明，饲粮苏氨酸水平升高会显著降低肉鸡腹脂率，降低肉鸡体脂肪的含量。本试验结果表明，饲粮苏氨酸水平对雏鸭腹脂率影响不显著，可能因为新生雏鸭是没有可见腹部脂肪的，腹部脂肪在第2周龄时才开始出现，本试验苏氨酸作用较短，尚未对腹脂率产生影响；也可能是由于基础饲粮的苏氨酸水平较高，未达到影响腹脂率的水平，导致试验效果不理想。
+
+# 3.3饲粮苏氨酸水平对北京雏鸭免疫机能的影响
+
+苏氨酸是禽类免疫球蛋白G的主要成分，是其限制性氨基酸。因此，苏氨酸可以参与构成免疫系统，与免疫系统的组织发生、器官发育有着极为密切的关系[19]。当动物体内苏氨酸充足的情况下，进入机体的抗原可以刺激机体产生不同水平的免疫反应；但当体内苏氨酸不足时，过低的苏氨酸水平会抑制免疫球蛋白以及T、B淋巴细胞的产生，从而阻碍抗体的形成或者影响抗体形成的速度，最终导致机体的免疫功能不能正常发挥[20]。苏氨酸可以促进骨髓淋巴细胞前体的分化和发育，使之成为成熟的淋巴细胞。因此，提高饲粮的苏氨酸水平可以有利于畜禽免疫功能的发挥，提高机体的免疫力，从而降低患病率和死亡率。在肉鸡上，李建涛等[21研究表明，苏氨酸可以显著提高肉仔鸡法氏囊指数和脾脏指数。Corzo 等[22]发现，饲粮苏氨酸水平为 $0 . 5 1 \%$ 时对肉仔鸡免疫器官重没有显著影响，但是苏氨酸水平低于 $0 . 5 1 \%$ 会降低胸腺重。王红梅等[20]发现，饲粮中补充苏氨酸可以显著提高1\~3周肉仔鸡法氏囊指数和4\~6周的脾脏指数。关于苏氨酸对鸭免疫器官影响方面的研究较少。本试验研究发现，饲粮中添加苏氨酸可以显著提高雏鸭的法氏囊重和胸腺重，但对脾脏重影响不显著，可能与本试验基础饲粮中苏氨酸水平偏高有关。
+
+3.4饲粮苏氨酸水平对北京雏鸭血清激素指标的影响
+
+生长激素可促进神经组织以外的所有其他组织生长，促进机体合成代谢和蛋白质合成。三碘甲腺原氨酸、甲状腺素可以反映机体的代谢机能，促进机体的生长发育、组织分化和物质代谢，并且可以影响心脏、神经系统等多种器官和系统的正常功能。生长激素-胰岛素样生长因子-I轴是调控动物生长的中心环节，生长激素可促进蛋白质合成和沉积，抑制蛋白质降解[23]，且生长激素可诱导循环中胰岛素样生长因子-I含量增加。胰岛素样生长因子-I具有比生长激素更强的生长刺激作用，介导生长激素的间接促生长作用。本试验结果发现，饲粮中添加适量苏氨酸可以显著提高雏鸭血清甲状腺素含量，这与王红梅等[20]在肉仔鸡上的研究相似。苏氨酸对雏鸭血清生长激素和甲状腺素含量尽管影响不显著，但随着饲粮苏氨酸水平的升高，血清生长激素和甲状腺素含量呈现先升高后降低的趋势。这些指标的变化，反映了苏氨酸可能通过影响外周血清激素的含量来影响北京雏鸭的营养代谢，同时表明了外周血清激素的含量处于动态平衡状态，仅在小范围内发生变化。
+
+# 4结论
+
+$\textcircled{1}$ 饲粮苏氨酸水平可显著影响雏鸭的平均日增重和平均日采食量，适当增加饲粮苏氨酸水平，可提高雏鸭胸肌率、法氏囊重和胸腺重。
+
+$\textcircled{2}$ 适当增加饲粮苏氨酸水平可以提高雏鸭血清中三碘甲腺原氨酸含量。
+
+$\textcircled{3}$ 平均日采食量、平均日增重和胸肌率达到最佳时的苏氨酸需要量分别为 $0 . 8 6 0 \%$ 、$0 . 8 5 2 \%$ 和 $0 . 8 3 7 \%$ 。
+
+# 参考文献:
+
+[1]ROSE W C,MCCOY R H,MEYER C E,et al.Isolation of the "unknown essential" present in proteins[J].Journal of Biological Chemistry,1935,109:10052-10053.
+
+[2]贾冬舒.苏氨酸市场现状及发展前景[J].饲料广角,2006(1):28-30.
+
+[3]王仁华,刘晓兰.苏氨酸的免疫功能及其在肉鸡生产中的应用研究[J].粮食与饲料工
+
+业,2012(3):54-56.
+
+[4]中华人民共和国农业部.NY/T 823—2004 家禽生产性能名词术语和度量统计方法[S].北京：中国农业出版社,2004.
+
+[5]CIFTCI 1,CEYLAN N.Effects of dietary threonine and crude protein on growth performance,carcase and meat composition of broiler chickens[J].British Poultry Science,2004,45(2):280-289.
+
+[6]KIDD M T.Nutritional consideration concerning threonine in broilers[J].World's Poultry Science Journal,2000,56:139-151.
+
+[7]王红梅,刘国华,陈玉林,等.日粮苏氨酸水平对 $0 { \sim } 3$ 周龄肉仔鸡生长性能、血清生化指标及免疫机能的影响[J].中国家禽，2005,27(20):12-15.
+
+[8]张丽,侯水生,杨琳,等 $. 1 \sim 1 4$ 日龄北京鸭苏氨酸需要量的研究[J].饲料工业,2010,31(18):44-46.
+
+[9]XIE M,ZHANG L,WEN Z G,et al.Threonine requirement of White Pekin ducks from hatch to 21 d of age[J].British Poultry Science,2014,55(4):553-557.
+
+[10]郭锋,张丽,侯水生,等.不同粗蛋白和苏氨酸水平对生长前期北京鸭羽毛发育的影响[J].畜牧兽医学报,2012,43(1):65-70.
+
+[11] ZHANG Q,ZENG Q F,COTTER P,et al.Dietary threonine response of Pekin ducks from hatch to $1 4 { \mathrm { d } }$ of age based on performance,serology,and intestinal mucin secretion[J].Poultry
+
+Science,2016,95(6):1348-1355.
+
+[12] JIANG Y,UZMA M,TANG J,et al.Effects of dietary protein on threonine requirements of
+
+Pekin ducks from hatch to 21 days of age[J].Animal Feed Science and Technol0gy,2016,217:95-99.
+
+[13] ZHANG Q,XU L,DOSTER A,et al.Dietary threonine requirement of Pekin ducks from 15 to
+
+35 days of age based on performance,yield,serum natural antibodies,and intestinal mucin secretion[J].Poultry Science,2014,93(8):1972-1980.
+
+[14]李俊明,贺强,袁超,等.苏氨酸的营养生理功能及其在畜禽日粮中的应用[J].中国饲料,2014(11):35-38.
+
+[15] MAQBOOLU.饲粮蛋白质和苏氨酸对北京鸭生产性能和屠宰性能的影响[D].博士学位论文.北京:中国农业科学院,2014.
+
+[16] ABBASI M A,MAHDAVI A H,SAMIE A H,et al.Effects of different levels of dietary crude protein and threonine on performance,humoral immune responses and intestinal morphology of broiler chicks[J].Revista Brasileira de Ciencia Avicola,2O14,16(1):35-44.
+
+[17] TAGHINEJAD-ROUDBANEH M,BABAEE MJ,AFROOZIYEHM,et al.Estimation of dietary threonine requirement for growth and immune responses of broilers[J].Journal of Applied Animal Research,2013,41(4):474-483.
+
+[18] BARKLEY G R,WALLIS IR.Threonine requirements of broiler chickens:why do published values differ?[J].British Poultry Science,2001,42(5):610-615.
+
+[19]张艳蕾.日粮苏氨酸水平对生长肉兔生长发育、免疫性能、血液生化指标以及蛋白质代谢的影响[D].硕士学位论文.泰安:山东农业大学,2011.
+
+[20]王红梅 $. 0 { \sim } 6$ 周龄肉仔鸡苏氨酸需要量的研究[D].硕士学位论文.杨林:西北农林科技大学,2005:75.
+
+[21]李建涛,蔡辉益,刘国华,等.免疫应激对肉仔鸡苏氨酸、赖氨酸需求比例的影响[J].中国家禽学报,2005,9(1):59-64.
+
+[22] CORZO A,KIDD MT,DOZIER II A,et al.Dietary threonine needs for growth and immunity of broilers raised under different litter conditions[J].The Journal of Applied Poultry Research,2007,16(4):574-582.
+
+[23] ISAKSSON O G,JANSSON J O,GAUSE I A.Growth hormone stimulates longitudinal bone growth directly[J].Science,1982,216(4551):1237-1239.
+
+Effects of Dietary Threonine level on Growth Performance, Carcass Traits, Immune Function and Serum Hormone of Peking Ducklings
+
+BIYeXIN HairuiPAN XiaohuaXIONG Benhai\* ( State Key Laboratory of Animal Nutrition, Institute of Animal Sciences, Chinese Academy of Agricultural Sciences,Beijing1OO193,China)
+
+Abstract: This experiment was conducted to investigate the effects of dietary threonine (Thr) level on growth performance, carcass traits,immune function and serum hormone of Peking ducklings. (Method） Three hundred and twenty 1-day-old healthy meal Peking ducks were randomly allocated to 5 groups with 8 replicates per group and 8 ducklings per replicate. The measured values of dietary Thr level in 5 groups were $0 . 6 5 \%$ (control), $0 . 6 9 \%$ ， $0 . 8 1 \%$ ， $0 . 8 8 \%$ and $0 . 9 8 \%$ ， respectively. The experiment lasted for 21 days. The results showed as following: 1) dietary Thr level had significant effect on average daily gain (ADG) and average daily feed intake (ADFl) of ducklings $( P { < } 0 . 0 1 )$ , the ADG and ADFI of ducklings in control group were significantly lower than those in other groups $( P { < } 0 . 0 5 )$ . 2) Dietary Thr level had significant effect on breast meat rate of ducklings $( P { < } 0 . 0 5 )$ , the breast meat rate of ducklings in control group was significantly lower than that in $0 . 6 9 \%$ ， $0 . 8 1 \%$ and $0 . 8 8 \%$ groups $( P { < } 0 . 0 5 )$ .3）Dietary Thr level had no significant effect on bursary of Fabricius index,spleen index and thymus index of ducklings $( P { > } 0 . 0 5 )$ ： Dietary Thr level had significant effect on bursary of Fabricius weight and thymus weight of ducklings $( P { < } 0 . 0 1 )$ ， the bursary of Fabricius weight of ducklings in control group was significantly lower than that in other groups $( P { < } 0 . 0 5 )$ , the thymus weight of ducklings in control group was significantly lower than that in $0 . 8 1 \%$ and $0 . 8 8 \%$ groups $( P { < } 0 . 0 5 )$ .4）Dietary Thr level had significant effect on serum triiodothyronine $\left( \mathbf { T } _ { 3 } \right)$ content of ducklings $( P { < } 0 . 0 5 )$ ，the serum ${ \mathrm { T } } _ { 3 }$ content in $0 . 8 1 \%$ group was the highest and significantly higher than that in control group and $0 . 9 8 \%$ group $( P { < } 0 . 0 5 )$ . 5） The Thr requirements showed the quadratic relationships with ADG, ADFI and breast meat rate, the threonine requirements of ducklings were $0 . 8 6 0 \%$ $0 . 8 5 2 \%$ and $0 . 8 3 7 \%$ , respectively, when the ADG, ADFI and breast meat rate got the max value. The results suggest that dietary supplemented with suitable Thr level can improve the growth performance, carcass traits and immune function of Peking ducklings.
+
+Key words: threonine; ducklings; growth performance; carcass traits; immune function; serum
+
+hormone

@@ -1,0 +1,678 @@
+[
+    {
+        "type": "text",
+        "text": "认知模糊程度和动机强度对有意识和无意识自我欺骗的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "钟罗金」汝涛涛² 范梦莫雷4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1华南师范大学基础教育培训与研究院，广州510631）（²华南师范大学,国家绿色光电子国际联合研究中心,光与身心健康实验室，广州510006）（³广东工业大学学生就业指导中心,广州510006）（4华南师范大学心理学院，广州510631)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要三个实验分别探讨了无意识和有意识自我欺骗存在的可能性，以及认知模糊程度与动机强度对两种自我欺骗的影响。实验1的结果发现，自我欺骗存在无意识和有意识两种形式；实验2的结果发现，随着认知模糊程度的降低，无意识自我欺骗人数明显减少，而有意识自我欺骗人数显著增加；实验3的结果发现，随着动机强度的增加，有意识自我欺骗人数显著增多，无意识的自我欺骗并无显著变化。结果提示，自我欺骗具有现实存在性，且有两种不同形式；两种形式的自我欺骗具有不同的产生机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词自我欺骗；意识；动机；认知模糊",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自我欺骗是指自己相信了一个与自己已经相信的观念相违背的观念(Demos,1960)。自我欺骗在现实生活中似乎随处可寻。然而，以科学的角度去研究自我欺骗却非易事。自我欺骗的施骗者和受骗者都是自我。这在逻辑上导致了两个困境：第一个是过程（动态）困境，个体如何实现自己欺骗自己的过程？即个体能通过怎样的手段使得自己能够相信一个观念的同时又相信与之相反的观念。第二个是结果（静态）困境，个体在心理上如何维持两种对立信念的不平衡状态？即假设个体进入了自我欺骗状态，个体在心理上如何维持这种既相信正面观念又相信反面观念的矛盾不平衡状态(Mele,1997)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于自我欺骗的这个特殊性，自我欺骗是否具有现实存在的可能性一直是该领域研究的焦点。关于这一点在哲学上已有较多的理论论述(McKay&Dennett,2009)。心理学则从实证的角度去研究(Johnson&Fowler,2011;Kurzban,2012;Westland& Shinebourne,2009;朱艳丽,席思思,吴艳红,2016)。目前，心理学对自我欺骗的研究主要在三个方面取得重要研究成果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第一，在严格的实验控制中，发现了自我欺骗行为，为自我欺骗的现实存在性提供了直接证据。如Gur和 Sackeim(1979)的研究发现，被试在知道自己声音的情况下，经历失败体验后会自欺地否认自己的声音。Quattrone 和 Tversky的研究(1984)通过指导语诱发了被试的长寿愿望（在冷水中忍耐时间越长，心脏会更好，人会更长寿），结果被试第二次在冷水中忍耐时间显著变长且宣称自己并未受指导语的影响。这一实验范式在后续的研究中得到了进一步的证实(Fernbach,Hagmayer,& Sloman,2014)。Whitson 和 Galinsky 的研究(2008)发现，被试因无法完成高难度任务而体验到无助感，结果在随后雪花随机分布图的观察中，会自欺地知觉出了更多有意义的图案以此增加内心的控制感。Gebauer,Goritz,Hofmann,和 Sedikides的研究(2012)让被试写出自己最爱的人，然后采用内隐和外显的测试对其进行测试。结果发现，被试外显的测试中表现出爱这个人胜过爱自己，而内隐的测试中却是爱自己胜过爱他人。研究者们还在更多的领域发现了自我欺骗现象，个体会自欺地认为自己更有道德，更加漂亮，更有能力等等(Epley & Whitchurch, 2008; Gilovich, 2008; Lonnqvist, Irlenbusch,&Walkowitz, 2014; Mijovic-Prelec & Prelec, 2010)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第二，心理学者研究了自我欺骗行为发生的条件和影响因素。如Mele(2010)提出自我欺骗产生的四个充要条件：（1）个体希望一个错误观念是正确的；（2）个体在处理与这个错误观念相关的数据时带有偏见；（3）这个偏见的数据支持错误观念是正确的；（4）个体拥有更多支持错误观念的数据。Michel和Newen的研究(2010)认为一个自我欺骗者做出自我欺骗的行为首先要有自我欺骗的动机。Sloman,Fernbach 和Hagmayer 的研究(2010)发现除了有动机外，自我欺骗行为还需要欺骗者认知的模糊。另外，也有研究探讨了自我欺骗的影响因素。如Ren etal.的研究(2018)发现，自我控制能力强的个体更能够避免自我欺骗带来的不利，而高社会地位者可以抑制低社会地位者的自我欺骗。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第三，心理学者研究了自我欺骗的效用。一方面，自我欺骗能给个体带来的效益，让人过得更加自信和幸福，获得更大利益，避免或减少惩罚。Erez,Johnson和Judge 的研究(1995)指出自我欺骗能够提升个体的主观幸福感。Surbey 和McNally的研究(1997)发现容易自我欺骗个体更具合作精神。Lopez 和Fuxjager的研究(2012)认为自我欺骗的个体会更加积极和正面地看待自己，提高自己的社会形象，赢得更高的社会地位和更多的社会效益。Sheridan,Boman,Mergler,&Furlong(2015)的研究发现大学生生活满意度与自欺存在显著相关。而另一方面，自我欺骗由于丧失信息的真实性因而也会带来相应的损失(VonHippel& Trivers,2011)。Chance,Norton,Gino 和 Ariely 的研究(2011)发现，当自我欺骗行为面临损失的时候，自我欺骗行为依然稳定地存在。他们在研究中要求实验组和控制组都完成两个的测试，完成测试后每答对一道题给予一定的报酬。实验组的第一次测试卷下方有答案，而控制组没有。两组被试完成第一个测试后，再完成第二个测试。但是两组被试第二个测试卷下方均没有答案。被试在第二个测试开始作答之前，还要求对第二次测试的成绩进行准确的预估。结果发现，实验组被试对第二个测试的预估成绩远远高于控制组。这表明实验组被试自欺地将偷看答案的成绩归为个人能力。他们的研究进一步发现，对被试的预估准确性进行重大奖励，实验组被试依然预估第二次测试也能得到第一次测试一样的高分。这种仍然存在的自我欺骗，反而导致他们预估的准确性更差，无法获得更多的报酬。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对自我欺骗相关实证研究的梳理，不难发现该领域吸引了大量研究者关注，也取得丰富的研究成果。自我欺骗的存在性问题看似已经得到解决，主要的研究重点开始转入自我欺骗的产生机制和进化机制等问题上(范伟,杨博,刘娟,傅小兰,2017)。然而，自我欺骗机制问题却迟迟没有取得突破性的进展。这很可能与自我欺骗是否真实存在这一基本问题没有完全厘清有关。经过前人相关研究的分析发现，几乎所有的研究都忽略了一个重要问题：自我欺骗者是否真的骗过了自己。例如，Chance etal.的研究(2011)发现被试在实验中会自欺地将偷看答案得来的好成绩归功于个人能力，但是并不清楚实验组所有被试是否",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "真实地这样认为。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "事实上，关于自我欺骗的意向性问题，在哲学上前人已有争论(马翰林,陈刚,2016; Neuber,2016；Lynch,2016)。意向性理论(intentionalism)认为人是故意欺骗自己。这样个体在意识中存在两个对立的信念，存在静态困境和动态困境(Davidson,2004)；而非意向性理论(non-Intentionalism)认为人并非故意欺骗自己，只是通过偏差的认知加工相信了相反的信念。这样个体意识中只存在一个被偏见加工后的信念，不存在静态困境和动态困境(Mele,2010)。本研究认为，根据意向性理论，个体虽然做出了自我欺骗的行为，但是因为意识中存在两个对立的信念，个体很难真正骗过自己；而根据非意向性理论，个体不仅做出了欺骗自己的行为，而且很可能完全骗过了自己。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于以上分析，本研究进一步提出前人研究中可能存在有意识和无意识两种形式自我欺骗的假设。有意识自我欺骗(conscious self-deception)是指个体做出了自我欺骗的行为且意识到了自己的这一行为；这种自我欺骗的个体因内心存在两个对立的信念而无法真正骗过自己，具有情景性。无意识自我欺骗(unconscious self-deception)是指个体做出了自我欺骗行为且并未意识到自己的这一行为。这种自我欺骗的个体内心只存在一个信念，可以真正地骗过了自己，具有稳定性。两个争议各自得到了一些证据支持。例如，意向性理论在人际间的自我欺骗中得到证实，个体为了利益会故意进行自我欺骗(Lu,&Chang,2014;Smith， Trivers，& Von Hippel， 2017 ； Seiffert-Brockmann，& Thummes,2017)；非意向性理论也在自我提升等现象中得到了一些证据支持 (Leslie,&Mckay,2016)。但是，其是否就是有意识自我欺骗和无意识自我欺骗，前人并没有实验证实。另外，目前的实验之间使用了不同的操作定义，研究的是不同的心理现象。如果能够在同一个操作定义的前提下去研究一种心理现象是否存在两种形式的自我欺骗将有助于争议的解决。正如前文所述，Chance etal.的研究(2011)很可能存在两种形式的自我欺骗。而且，他们使用的是前瞻性范式（forward-lookingparadigm），有别于以往关于自我欺骗的研究大多采用回顾性范式（通过行为反应与主观报告之间的不一致来确认自我欺骗）。这种新的实验方法具有广阔的研究前景(Chance,Gino,Norton,&Ariely,2015)。虽然这个前瞻性范式是一个重要的研究范式，但目前通过它研究者仍无法区分出有意识和",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "无意识的自我欺骗。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为此，本研究在Chance etal.研究(2011)的方法上进行修改，希望利用改进后的方法可以在同一个实验中证实两种不同类型的自我欺骗。新的实验方法在原有两次测试的基础上增加了第三次测试，要求被试对等价的试卷3的成绩再进行一次预估。这样实验组被试在预估试卷3的成绩之前有两个测试成绩，一个是第一次测试偷看答案得到的成绩，另一个是第二次没有答案的真实成绩。如果实验组被试试卷3的预估成绩与试卷2没有答案的真实测试成绩接近，那么说明实验组被试先前在试卷2的成绩预估时是有意识的自我欺骗；因为被试在试卷3的预估时改变了对自己真实能力的看法。如果实验组被试试卷3的预估成绩仍和试卷1有答案的测试成绩接近，那么说明被试在预估试卷2的成绩时发生的是无意识自我欺骗；因为在知道自己真实水平的情况下，被试仍然坚持将偷看答案后的成绩归功于自己的能力。如果实验组被试对试卷3的预估成绩介于试卷1（偷看答案）的测试成绩和试卷2（没有答案）的测试成绩之间，那么说明实验组被试在试卷2的预估中不仅存在无意识自我欺骗，而且还存在有意识自我欺骗；因为有意识的自我欺骗者在知道真实成绩的时候，转而以真实成绩（试卷2）为参考进行了成绩预估，导致试卷3的预估成绩远远低于卷1有答案的测试成绩；但是因为存在无意识自我欺骗者仍然保持欺骗不变，因而试卷3的预估成绩又会远远高于卷2没有答案的测试成绩。假如确实是第三种情况，那么根据每个被试试卷3的预估成绩更接近试卷1还是试卷2的测试成绩，就可以推断出该被试在试卷2的预估中是无意识自我欺骗者（与卷1成绩接近）还是有意识自我欺骗者（与卷2成绩接近）。实验1通过这一新的测试方法，探讨两种自我欺骗形式存在的可能性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2实验1 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1实验目的",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在新的实验方法下考察是否存在无意识自我欺骗和有意识自我欺骗",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2研究方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1被试 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "165 名在校大学生自愿参加了本实验，其中男生46人，被试年龄在17岁到24岁之间，平均年龄为20.47岁。其中实验组有103名被试，控制组有62名被试。因为实验组可能存在不偷看答案的被试，这样的被试不符合实验要求，后续分析中将被剔除，所以实验组的被试要多于控制组。实验完成后，所有被试根据实验中的表现均获得一定的报酬。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2实验材料",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验材料是三份试卷，每份试卷均含十道试题。试题内容是基本常识，包含历史、文学、地理和体育四大类。因为在实验操作中需要让被试认为三份试卷是等价的，所以开展了预实验编制试题。首先随机选取100道常识题，让100个被试完成测试。然后对每道题目的正确率进行分类排序，分出难中易的题目。每份试卷的难中易题目分别为4、4和3道，并且三份试卷（卷1、卷2和卷3）在题目分配时根据难度采取拉丁方分配（123，231，312）。为了确保三份试卷不易被怀疑是非等价的，在正式实验前进行了预实验。60个人随机对三份试卷中的一份进行作答，以试卷得分为因变量进行方差分析。结果发现，三份试卷的得分差异不显著 $( M _ { ☉ } = 4 . 3 0 { \\pm } 1 . 4 5$ ， $M _ { ☉ 2 } { = } 5 . 2 0 { \\pm } 1 . 1 5$ ，M卷$_ { 1 } { = } 4 . 4 0 { \\pm } 2 . 1 8$ ， $F ( 2 , 5 9 ) { = } 1 . 8 7 , p { > } 0 . 0 5$ ）。这表明三份试卷在题目类型和题目难度上不会轻易地被怀疑是非等价。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.3实验设计",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用单因素两水平被试间设计。两个水平分别是，试卷1下方是否附有正确答案。在实验组中，卷1的试卷下方清晰地打印了这份试卷的答案，其它两份测试（卷2和卷3）中只有题目没有答案。而控制组中，三份试卷都没有答案，其它与实验组完全相同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.4实验程序",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用集体分组测试的形式。实验中所有被试坐在安静的教室里单独完成测试。每个被试之间前后相隔一米，以确保被试之间无法交流或偷看对方的答案。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验开始前，主试告知被试需要先后完成三份题型和题目难度类似的试卷。每答对一道题将会获得0.5元的报酬。所有被试首先完成试卷1，然后被试将试卷交给对应的主试批改，主试根据成绩给出报酬总额。接着完成试卷2，在试卷2开始之前，主试再次强调试卷2与试卷1是等价的，然后要求被试快速浏览一下题目，以确保实验组被试知道这是一份没有答案的试卷，接着要求被试对试卷2能够正确解答的题目数进行预估，然后再开始答题。同样，当被试完成试卷2后，被试将试卷交给对应的主试批改，主试根据实际作答成绩给出报酬总额。最后完成试卷3。在被试拿到试卷3时，再次强调试卷3和前面两个测试是等价试卷，并且要求被试再次快速浏览题目后对试卷3能正确解答的题目数进行准确的预估。试卷3估计完后，不需要进行作答（被试事先并不知情），被试将三份试卷交回主试。主试根据两次试卷作答的成绩计发报酬。试卷作答时间为3分钟，成绩预估时间为30秒。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3结果与讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采集完数据后对所有165名被试的数据进行整理。首先，删除在预估这一环节不认真预估的被试（预估成绩为0或1分），共删除2人，均来自实验组。其次，删除实验组中没有偷看答案的诚实被试。因为预实验中发现，三份试卷的平均分都在4分以上，所以试卷1成绩低于平均值4分的被试，在实验过程中极有可能没有偷看答案。这些被试实际上并未发生欺骗行为故将其剔除，共删除26人。另外，删除实验组试卷2成绩大于试卷1成绩的被试。因为三份试卷都是等价的，如果被试在没有答案的试卷2的测试成绩高于有答案的试卷1测试成绩，那说明被试极可能在试卷1测试中没有偷看答案，同样也不符合本实验的设计，共删除8人。最终进入正式分析的实验组被试共67人，控制组62人。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对控制组和实验组被试的卷1测试成绩，卷2的预估成绩和测试成绩，以及卷3的预估成绩进行统计分析，详细结果见表1。本研究的独立样本t检验采用Cohen 的方程来计算其效果量 $d$ ，配对样本t检验采用Morris andDeShon的方程来计算效果量d。 $d$ 值为0.2时效果量小，0.5时为中等，0.8时为大（下同）。从表中可以看到两组被试卷1的测试成绩有显著差异，实验组被试卷1的测试成绩远远高于控制组 $( t ( 1 2 7 ) { = } 9 . 2 7$ ， $p { < } 0 . 0 0 1$ ， $d { = } 1 . 6 4 \\$ 。这个结果说明实验组被试在有答案的情况下，偷看了答案。对实验组和控制组被试卷2的预估成绩和测试成绩进行分析发现，两组被试在卷2的测试成绩上并没有显著差异$( t ( 1 2 7 ) \\mathrm { = } 1 . 5 0$ ， $p { > } 0 . 0 5 )$ 。这个结果表明两组被试的真实水平相当。卷2中的预估成绩分析发现，两组被试卷2的预估成绩有显著差异，实验组的预估成绩显著高于控制组的预估成绩 $( t ( 1 2 7 ) = 3 . 4 3$ ， $p { < } 0 . 0 0 1$ ， $\\scriptstyle d = 0 . 6 0 )$ 。这个结果表明，实验组被试不仅在卷1中偷看了答案，同时还自欺地将偷看答案之后的结果归为个人能力，认为自己在等价的卷2中也能取得好成绩。这一结果与Chance et al.(2011)的研究结果一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b4e59fa3a8f430ee9173845b25f0d775271f6c793252c8dff095186775a23c5.jpg",
+        "table_caption": [
+            "表1两种条件下实际测试成绩和预估成绩（ $\\mathrm { \\langle M \\pm S D \\rangle }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td>卷1测试</td><td>卷2预估</td><td>卷2测试</td><td>卷3预估</td></tr><tr><td>控制组</td><td>5.56±1.55</td><td>5.53±1.38</td><td>5.39±1.51</td><td>5.53±1.21</td></tr><tr><td>实验组</td><td>8.03±1.47</td><td>6.34±1.31</td><td>4.99±1.52</td><td>5.63±1.28</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了探明卷2的预估中是否存在无意识自我欺骗者和有意识自我欺骗者，对实验组数据进行了进一步的分析，将实验组卷3的预估结果与卷1的测试成绩和卷2的测试成绩进行比较。结果分析发现，卷3的预估成绩显著高于卷 2的测试成绩 $( t ( 6 6 ) { = } 3 . 3 4$ ， $p { < } 0 . 0 0 1$ ， $d { = } 0 . 4 1 \\rrangle$ )，而且远远低于卷1的测试成绩（204号 $( t ( 6 6 ) { = } 1 0 . 7 7$ ， $p { < } 0 . 0 0 1$ ， $d { = } 1 . 3 2 \\rangle$ )。这个结果表明卷3的预估成绩是介于卷1的测试成绩和卷2的测试成绩之间。正如前文假设，这表明被试在卷2的成绩进行预估时，不仅存在无意识自我欺骗者，而且还存在有意识自我欺骗者。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了更进一步分清实验组中每个被试在卷2成绩预估时是无意识的自我欺骗者还是有意识的自我欺骗，本研究对实验组每个被试的数据进行独立分析。通过将被试卷3的预估成绩与卷1和卷2的测试成绩分别进行对比，如果被试卷3的预估成绩依然接近卷1的测试成绩，那么我们可以推断该被试在卷2的预估是无意识自我欺骗者。如果被试卷3的预估成绩接近卷2的测试成绩，那么可以推断该被试在卷2的预估是有意识自我欺骗者。对于介于两者中间，即卷3的预估成绩与卷1的测试成绩和卷2的测试成绩的距离相同（两者中数处），那么这类被试无法分清是属于哪一种自我欺骗者，所以这些被试暂不纳入后续分析，结果共发现该类被试9名。最终实验组共58名被试进入下一步的分析。根据这一标准，共筛选出16人是无意识自我欺骗者，42人是有意识自我欺骗者，详细实验结果见表2。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad395dbf4f0a4e9bf7cf901e8ad89669fd6a82306590d14d69bd7ef28f5f1d10.jpg",
+        "table_caption": [
+            "表2有无意识自我欺骗者三份试卷的实际成绩和预估成绩！ $( \\mathrm { M } \\mathrm { \\pm } \\mathrm { S D } )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td>人数</td><td>卷1测试</td><td>卷2预估</td><td>卷2测试</td><td>卷3预估</td></tr><tr><td>无意识自我欺骗</td><td>16</td><td>7.13±1.02</td><td>7.31±1.20</td><td>5.06±1.53</td><td>7.06±1.18</td></tr><tr><td>有意识自我欺骗</td><td>42</td><td>8.64±1.37</td><td>6.05±1.29</td><td>5.14 ±1.54</td><td>5.14±1.00</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从表中可以发现，有意识自我欺骗者的预估成绩从卷1的作弊成绩到卷 2的预估成绩不断下降，最后到卷3的预估成绩接近卷2的真实成绩。而无意识自我欺骗者的卷2和卷3的预估成绩一直接近卷1的作弊成绩。这个结果符合无意识自我欺骗和有意识自我欺骗的假设。这个结果也解释了Chance etal.研究(2011)中发现即使在奖励预估准确性的前提下，实验组被试在卷2的预估成绩上依然显著高于控制组。这可能是因为被试发生了无意识的自我欺骗而并未调整自己的预估成绩，依然与第一次的作弊成绩相接近，从而导致在总体的预估成绩上高于控制组的成绩。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "有意识自我欺骗者在卷2的预估是否是自我欺骗行为呢？通过对比表2中有意识自我欺骗卷2的预估成绩和测试成绩可以发现，预估成绩远远高于测试成绩 $( t ( 4 1 ) = 2 . 8 5$ ， $p { < } 0 . 0 1$ ， $d { = } 0 . 4 7 )$ 。这个结果表明，有意识自我欺骗者确实做出了自我欺骗的行为。值得注意的是，有意识自我欺骗者在卷1的成绩上远远高于无意识自我欺骗者的成绩 $( t ( 5 6 ) { = } 4 . 0 1$ ， $p { < } 0 . 0 0 1$ ， $d \\mathrm { = } 1 . 2 6 )$ ；而事实上，两组人的真实能力时并无差别；这一点从没有答案的卷2的实际成绩的比较中可以证实，两组被试卷2的实际成绩间没有显著差异 $( t ( 5 6 ) { = } 0 . 1 8$ ， $p { > } 0 . 0 5 )$ 。这个结果说明，有意识自我欺骗者比无意识自我欺骗者在卷1偷看了更多的答案。有意识的自我欺骗者很可能无法在意识上完全否认自己偷看了答案的事实，因为他们偷看了太多的答案，以致偷看答案的行为在认知上是一个清晰的事实。而无意识的自我欺骗者偷看了少量的答案，偷看答案和没有偷看答案之间在认知上有一个模糊的空间，所以他们在意识上更容易骗过自己。这与 Sloman et al.的研究(2010)发现自我欺骗在认知上需要模糊性的结论是一致的。虽然这个结论得到了前人研究结论的支持，但本研究毕竟采用了不同的实验方法。而且实验1关于认知模糊性对两种形式自我欺骗的影响目前只是一种推测。为了进一步探明认知的模糊性对两种形式自我欺骗具体产生怎样的影响，实验2将直接操纵认知模糊性程度对这一问题进行探讨。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3实验2 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1实验目的",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "考察认知模糊程度的大小对无意识和有意识自我欺骗的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2研究方法",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.1被试 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "100 名在校大学生自愿参加了本实验，其中男女各50人，年龄介于17岁到25 岁之间，平均年龄为20.61岁。两种条件下各有50名被试。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.2实验材料",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实验2采用与实验1完全相同的实验材料。不过，实验2的卷1下方均附有答案。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.3实验设计",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实验2采用单因素认知模糊程度（大vs.小）被试间设计。认知模糊性是指被试对作弊行为的觉察程度；清晰知道自己偷看了答案则为认知模糊程度小；反之则大。认知模糊程度的大小通过测试题答案的不同呈现方式来引发。在认知模糊程度小的条件下，卷1中的答案将以倒立的形式呈现在试题的下方。被试要偷看倒立的答案比较费力，这样被试在意识上能够更加明显地察觉到自己是否偷看了答案，因而对偷看答案的认知模糊性较小。在认知模糊程度大的条件下，答案的呈现方式与实验1相同，即卷1的答案将被直接正立呈现在试卷下方，这样被试很容易看到答案。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为了验证答案正倒立对认知模糊性操作的有效性，预先选取了60名被试随机分到正立和倒立组中，按照实验一的流程让被试完成测试和领取报酬后，提示被试在门口需填写一份无记名问卷调查，总共有两个题目：（1）你是否注意到试题下方的答案？（是或否）。（2）下方的答案提示对你解题起到的帮助程度是多少？（完全没有帮助0,有一点点帮助1，有一定帮助2，有较大帮助3,有很大帮助4，非常有帮助5）。被试在无监督的情况下填写问卷，填写完后自己将问卷放到指定的盒子中。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "60 个被试全部完成了试题和问卷填写。实验结果显示，答案正立组和倒立组的被试在测试成绩上差异不显著 $( t ( 5 8 ) { = } 0 . 3 1$ ， $\\scriptstyle { p = 0 . 7 5 }$ ； $M _ { ☉ \\ddagger = } 7 . 3 6 { \\pm } 1 . 6 3$ ； $M$ 倒立$= 7 . 5 0 { \\pm } 1 . 6 8 )$ 。这个结果和实验一的控制组比较可以发现，两组被试都偷看了答案。问卷调查的结果显示，60个被试都注意到了下方的答案；而在答案对被试起到帮助作用回答的结果显示，两组被试都不太愿意承认答案对自己的帮助作用，即承认偷看了答案，绝大多数被试的回答都是在1以下。但是相比较而言，答案正立组更不愿意承认答案的帮助作用 $( t ( 5 8 ) { = } 2 . 9 8$ ， $p { < } 0 . 0 1$ ; $M$ 正立$= 0 . 4 7 { \\scriptstyle \\pm = 0 . 6 3 }$ ； $M _ { ☉ \\Vec { \\Vec { \\times } } } = 0 . 9 7 \\pm 0 . 6 7 )$ 。这个结果说明答案倒立组被试在偷看答案的认知意识上更加清醒，更多地承认答案对其起到的帮助作用。根据认知模糊性的定义，认知模糊性指被试对作弊行为的觉察程度。因此，答案倒立相对答案正立组被试认知模糊性更小。由此提示，本研究通过答案呈现方式对认知模糊性大小的操纵是有效的。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2.4实验程序",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "实验2与实验1的程序一致，都是采用集体分组测试。三个测试流程与实验1的测试流程完全一致，指导语也完全相同。同样，实验2采用与实验1相同的奖励方式，所有被试在完成测试后根据答题的正确数目获得相应报酬。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3结果与讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "实验2的结果分析流程类同于实验1。首先，删除不认真预估的被试3人，其中2人被试来自认知模糊程度较大的条件。然后，删除两组被试中没有作弊的被试 29人，其中15人来自认知模糊程度大条件（卷1答案正立）。最终模糊程度大和模糊程度小两个条件下作弊人数分别为33人和35人，详细结果见表3。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "对两个条件下卷1的测试成绩比较发现，认知模糊程度大、小两组被试间的表现无显著差异 $( t ( 6 6 ) { = } 0 . 6 6$ ， $p { > } 0 . 0 5 )$ 。结果表明，模糊程度的大小不影响被试的作弊行为。接着，分别对两个条件下的组内成绩进行了分析。结果发现，认知模糊程度小的情况下，卷3的预估成绩边缘显著高于卷2的测试成绩（204 $( t ( 3 4 ) = 1 . 9 4$ ， $\\scriptstyle { p = 0 . 0 6 }$ ， $d = 0 . 3 6 )$ ，而显著低于卷1的作弊成绩$( t ( 3 4 ) = 1 1 . 0 4$ ， $p { < } 0 . 0 0 1$ ， $d { = } 1 . 8 8 )$ 。同样地，认知模糊程度大的情况下，卷3的预估成绩显著高于卷2的测试成绩 $( t ( 3 2 ) = 3 . 8 7$ ， $p { < } 0 . 0 0 1$ ， $\\scriptstyle { d = 0 . 6 8 } )$ ，也显著低于卷1的作弊成绩 $( t ( 3 2 ) \\substack { = 6 . 8 1 }$ ， $p { < } 0 . 0 0 1$ ， $d { = } 1 . 1 0 )$ 。这个结果模式与实验1的实验组的结果模式相同。即表明实验2中无论认知模糊程度的大小，被试对卷2的预估均存在有意识与无意识两种形式的自我欺骗。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/237b6771988674b0960a2dd84a0649d8c396492a68cbc6894e50fc164c45385c.jpg",
+        "table_caption": [
+            "表3两个条件下三份测试的结果（ $\\mathrm { \\langle M \\pm S D \\rangle }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>条件</td><td>卷1测试</td><td>卷2预估</td><td>卷2测试</td><td>卷3预估</td></tr><tr><td>高认知模糊</td><td>7.97±1.26</td><td>6.82±1.31</td><td>5.03±1.69</td><td>6.06±1.37</td></tr><tr><td>低认知模糊</td><td>8.17±1.25</td><td>6.46±1.22</td><td>5.11±1.66</td><td>5.60±1.01</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "为探明卷2的成绩预估中，不同程度认知模糊条件下两种形式自我欺骗的人数，采用了与实验1类似的分类方法。同样采用卷3的预估成绩与卷1的作弊成绩接近还是与卷2的实际成绩接近这一标准来判断被试是无意识或是有意识自我欺骗者。对于介于两者之间的被试不进入下一步的分析，认知模糊程度小的组有4人被剔除，认知模糊程度大的组有3人被剔除。根据这个标准最后得出两个条件下无意识自我欺骗和有意识自我欺骗的人数，详见表4。对其分别进行拟合度检验，效果量的计算使用了 $\\mathrm { P h i } \\varphi \\textbf { ( } w \\textbf { ) } , w$ 值小于0.1时认为效果量小，0.3是中等，0.5是大（后同）。对两个条件下无意识和有意识自我欺骗人数分别进行卡方检验发现，两个条件下的无意识自我欺骗人数差异显著$( \\chi ^ { 2 } ( 1 ) \\overline { { = 6 } } . 3 5 , p \\textless 0 . 0 5 , w = 0 . 2 6 )$ ，模糊程度大比模糊程度小的情况下有更多的无意识自我欺骗者。两个条件下有意识自我欺骗的人数也存在显著差异 $\\textcircled { \\chi } ^ { 2 } ( 1 ) { = } 4 . 0 3$ $p { < } 0 . 0 5$ ， $w { = } 0 . 2 1 \\dot s$ )，模糊程度大较之于模糊程度小条件下有意识自我欺骗者的人数明显更少。这一结果表明，模糊程度的大小既影响了无意识的自我欺骗，又影响了有意识的自我欺骗。随着模糊程度的降低，无意识自我欺骗的人数明显减少，而有意识自我欺骗的人数显著增加。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/940a15d37c500d541b8159dc22d557fc9abb537a70c33e31b6272991255ae804.jpg",
+        "table_caption": [
+            "表4两个条件下各种类型的人数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>条件</td><td>总人数</td><td>作弊人数</td><td>无意识自我欺骗</td><td>有意识自我欺骗</td></tr><tr><td>高认知模糊</td><td>50</td><td>33</td><td>12</td><td>18</td></tr><tr><td>低认知模糊</td><td>50</td><td>35</td><td>3</td><td>28</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "上述结果提示，当偷看答案需要付出更大的努力时，唤起了个体的清晰认知，因此个体很难在意识上骗过自己，从而使无意识自我欺骗的人数减少。这个结论与前人发现模糊性会影响无意识自我欺骗行为的结论是一致的(Sloman etal.,2010)。如前文所述，除了认知模糊性这一因素，动机强度可能也是诱发自我欺骗的重要前提因素。然而，在实验1与实验2中被试正确作答每道题目所获取的奖励是固定的，由此所诱发的动机强度相对恒定。实验3将进一步通过操纵奖励金额来探明动机因素会对两种形式的自我欺骗产生怎样的影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4实验3 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.1实验目的",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "考察动机大小对有意识和无意识自我欺骗的影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2研究方法",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2.1被试 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "120名在校大学生自愿参加了本实验，其中男生61人，年龄介于17-25岁之间，平均年龄为20.52岁。两种动机条件下各60名被试。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2.2实验材料",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "实验3采用与实验2相同的实验材料。实验3与实验2不同的是，在实验3设置的实验条件是高低两种动机水平。两种动机条件卷1下方均附有正立的答案。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2.3实验设计",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "实验3采用单因素动机水平（高vs.低）被试间的实验设计。高、低动机的引发通过设置大小不同的奖励金额来诱发。在低动机条件下，每答对一道题给0.5元的报酬；而在高动机条件下，每答对一道题给1元的报酬。实验完成后，所有的被试根据实验中的表现获得相应的报酬。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2.4实验程序",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "实验3与实验2类似采用集体分组测试的形式。三个测试流程与实验2的测试流程完全一致，指导语也完全相同。先进行测试1，然后进行测试2，最后进行测试3。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.3结果与讨论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "数据分析采用与实验2相同的分析流程。首先，删除不认真预估的被试，结果发现没有被试的预估成绩为0或1。然后，删除在卷1中没有偷看答案的诚实被试，低动机条件下删除了20人，高动机条件下删除了6人。最后，在高动机条件下有54人作弊偷看了答案，而低动机条件下有40人作弊偷看了答案。首先，为了检验实验对动机水平操纵是否有效，对不同动机水平下欺骗人数进行卡方检验发现，两者差异显著 $( \\chi ^ { 2 } ( 1 ) ^ { = 9 } . 6 2 , p { < } 0 . 0 1 , w { = } 0 . 2 8 )$ 。结果提示，高动机条件下有更多的被试偷看了答案；这表明研究对动机水平的操纵是有效的。对两个条件下被试在三个测试中的表现进行统计分析，详细结果见表5。两种动机条件下被试在三个测试上的预估成绩和测试成绩的比较都没有显著差异$( p { > } 0 . 0 5 )$ 。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "接着分别分析高低动机条件下被试卷3的预估成绩与卷2的测试成绩，以及卷3的预估成绩与卷1的测试成绩间的差异。在高动机条件下，卷3的预估成绩显著大于卷2的测试成绩 $( t ( 5 3 ) = 2 . 7 7$ ， $p { < } 0 . 0 1$ ， $d { = } 0 . 3 9 )$ ，显著小于卷1的测试成绩 $( t ( 5 3 ) \\substack { = } 1 0 . 6 3$ ， $p { < } 0 . 0 0 1$ ， $d { = } 1 . 4 4 \\rangle$ 。同样在低动机条件下，卷3的预估成绩显著大于卷2的测试成绩 $( t ( 3 9 ) = 3 . 7 1$ ， $p { < } 0 . 0 0 1$ ， $d { = } 0 . 5 9 )$ ，且显著小于卷1的测试成绩 $( t ( 3 9 ) \\substack { = 7 . 1 0 }$ ， $p { < } 0 . 0 0 1$ ， $d { = } 1 . 1 3 )$ 。这个结果与实验1的实验组和实验2的数据模式相同。由此提示，高、低动机条件下自我欺骗的被试同样存在两种形式的自我欺骗。",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ba6a5574ceae607047e3b737aa57e351ef1fba1be4034b11b47f22e235e4f36.jpg",
+        "table_caption": [
+            "表5高低动机条件下三份测试的结果！ $( \\mathrm { M } \\mathrm { \\pm } \\mathrm { S D } )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>条件</td><td>卷1测试</td><td>卷2预估</td><td>卷2测试</td><td>卷3预估</td></tr><tr><td>低动机组</td><td>7.83±1.34</td><td>6.68±1.27</td><td>4.88±1.60</td><td>5.80±1.51</td></tr><tr><td>高动机组</td><td>7.85±1.39</td><td>6.44±1.22</td><td>4.85±1.66</td><td>5.43±1.30</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "为了进一步探明高低动机条件下被试对卷2成绩预估时两种不同形式自我欺骗者的人数，采用与前两个实验相同的区分方法。结果发现低动机组有2人，高动机组有4人成绩介于卷1和卷2中间，这些被试不进入后续的分析。统计结果发现，无意识的自我欺骗在高、低动机组中各有10人和14人，两组人数没有显著差异 $( \\chi ^ { 2 } ( 1 ) ^ { = } 0 . 8 3 , p { > } 0 . 0 5 )$ ；而有意识的自我欺骗在高、低动机组中各有40人和24人，但两组人数差异达到显著 $( \\chi ^ { 2 } ( 1 ) ^ { = 8 . 5 7 , p < 0 . 0 1 , w = 0 . 2 7 } )$ ，详细结果见表6。结果表明，动机水平对有意识的自我欺骗产生显著的影响，而无意识的自我欺骗似乎并未受到动机水平的干扰。这个结果也进一步表明，无意识的自我欺骗和有意识的自我欺骗是两种不同性质的自我欺骗。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "综合实验3的结果表明，当个体有更强的欺骗动机即希望通过自我欺骗获得更多的利益时，个体此时很可能是一个有意识的自我欺骗者。这个结果与Von Hippel和Trivers (2011)提出的自我欺骗是进化出来的更高级的欺骗手段的观点相一致。陆慧菁的研究(2012)也将这种为了在人际互动中获得更多利益而进行的自我欺骗叫做人际间的自我欺骗。这种人际间的自我欺骗因其动机性较强，很可能是一种有意识的自欺欺骗。个体在意识上无法骗过自己，而只是为了争取更大的利益使用了一种成功概率更高、方式更稳妥的高级欺骗策略。因此，有意识的自我欺骗与欺骗类似，具有更大的情境性和可操控性。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/71f53700dd0eceaf4a576be8d02e9c443290c4ad4473a43545355da13790397f.jpg",
+        "table_caption": [
+            "表6高低动机条件下各种类型人数情况"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>条件</td><td>总人数</td><td>作弊人数</td><td>无意识自欺</td><td>有意识自欺</td></tr><tr><td>低动机组</td><td>60</td><td>40</td><td>14</td><td>24</td></tr><tr><td>高动机组</td><td>60</td><td>54</td><td>10</td><td>40</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5总讨论",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "三个实验采用新的前瞻性范式探讨了无意识自我欺骗和有意识自我欺骗存在的可能性，同时也探讨了认知模糊性和动机强度分别对两种形式自我欺骗的影响。实验1的结果发现，自我欺骗存在有意识与无意识两种形式。实验2的结果发现，随着认知模糊程度的降低，无意识自我欺骗者的人数明显减少，而有意识自我欺骗者的人数显著增加。实验3的结果发现，随着动机强度的增加有意识自我欺骗者的人数显著增多，而无意识自我欺骗者的人数并没有显著变化。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5.1无意识和有意识自我欺骗的特点",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "从三个实验中可以发现，无意识和有意识自我欺骗行为确有不同特点。实验1中无意识的自我欺骗者，卷2和卷3的预估成绩一直保持和卷1的作弊成绩接近。而有意识的自我欺骗者，在卷2的预估中做出了自我欺骗，但是在对卷3的成绩进行预估时将其降为真实水平，没有继续自我欺骗。这个结果说明无意识自我欺骗在一开始就被自己真正地欺骗了，所以一直坚持认为自己的能力水平与作弊成绩相当，具有稳定性；而有意识自我欺骗却并非如此，欺骗者能够明显地意识到自己发生了欺骗行为，所以随后根据情况调整自己的预估值，具有情景性。实验2和实验3通过分别探讨认知模糊性和动机强度两个因素对无意识和有意识自我欺骗的不同影响，进一步证明了两种自欺欺骗具有不同的特性。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "综合以上结果表明，无意识的自我欺骗具有较高的稳定性，在意识层面上真实地欺骗过了自己，类似于诚实的行为，主要受认知模糊性的影响。而有意识的自我欺骗具有情景性，易随情景变化，在意识层面并未真正地骗过自己，类似于个体间的欺骗行为。有意识自我欺骗易受各种与自我欺骗有关因素的影响，容易消失也容易恢复，如动机、认知模糊、时间、自我控制和社会地位等(Chance, Gino, Norton, & Ariely, 2015; Chance, & Norton, 2015; Ren et al., 2018)。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5.2无意识和有意识自我欺骗区分的必要性",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "研究对无意识和有意识自我欺骗的分类不仅因为它们具有不同的特性，更重要的是这种分类在理论上也有一定的价值。第一，根据自我欺骗是否被个体意识到，可以将前人有关研究发现的自我欺骗的本质进行科学区分，可以更好理解前人关于自我欺骗的研究。例如，Epley 和Whitchurch 的研究(2008)发现，被试会自我欺骗地认为自己比现实中长的好看。这种自我欺骗更多是无意识的自我欺骗，因为实验中很难证明更漂亮照片里的不是自己，具有较大的认知模糊性。而陆慧菁(2012)提出的人际间的自我欺骗更多是一种有意识的自我欺骗，因为这种自我欺骗的目的是为了更好地欺骗他人而获得更多的利益。第二，有利于间接地窥探自我欺骗产生的作用机制。有意识自我欺骗由于内部存在矛盾对立的状态，因而在认知上需要更多的认知资源，在认知控制上需要付出更大的努力，因而有意识自我欺骗行为的产生在其脑机制层面更多需要前额叶的参与。而无意识的自我欺骗类似于一种诚实行为，则显得更加自然，因此较少需要认知控制的参与。这一猜想可以从自我欺骗认知神经科学视角的研究结果中得到印证。有研究发现自我欺骗导致额叶和顶叶有更多的激活(Farrow,Burgess,Wilkinson,& Hunter,2015; Sharma,Modi,Khushu,& Mandal,2010)；这些研究中的自我欺骗更多的是有意识的自我欺骗，需要额叶和顶叶更多地参与到认知控制中。第三，有助于解决自我欺骗长期存在的理论争议。例如，关于意向性和非意向性自我欺骗的争议，在本研究看来只是两种不同形式自我欺骗的争论。第四，困扰自我欺骗的两个困境可以得到缓解。在无意识欺骗时，静态困境将不再是个问题，因为此时个体心里只有一个信念；而在有意识自我欺骗时，确实存在静态困境，个体内心的确存在两种对立的信念，但是这种形式并非不可能，就像欺骗一样只是需要付出更多的认知资源而已。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "事实上，目前大多数研究因不能有效地区分出自我欺骗的类型而影响了研究者对自我欺骗心理机制的剖析。正如Trivers (2011)指出的那样，虽然自我欺骗的研究已长达半个多世纪，但仍处于研究的初级阶段而一直未取得突破性进展。自我欺骗机制的不明主要受限于研究者对自我欺骗类型的不明。将自我欺骗的两种不同心理机制混为一谈进行研究，则很难探明自我欺骗的内在机制。未来的研究若能对无意识自我欺骗和有意识自我欺骗进行有效地区分，将极大地促进对自我欺骗内在机制的明晰。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5.3无意识和有意识自我欺骗的关系",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "虽然无意识和有意识自我欺骗具有不同的属性，但它们之间并非毫无关联。本研究的实验2发现无意识自我欺骗随着认知模糊性的增加而增加，而有意识的自我欺骗随着认知模糊性的增加而减少；这预示着两类自我欺骗可以相互转化。Chance etal.的研究(2015)也发现随着时间的推移和反复面对真实的自己时，自我欺骗确实会慢慢消失。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "然而，本研究实验3的结果表明，外部动机的增加会显著增加有意识的自我欺骗，而对无意识的自我欺骗没有影响。这似乎预示着两种自我欺骗之间无法转换。这很可能是因为本研究中动机强度差距不够突出所致。从实验结果来看，实验3只发现高动机组比低动机组有更多的人发生了欺骗，而并未发现两组在欺骗题目数量上的差别（平均分差异不显著）。欺骗人数的差别给有意识自我欺骗提供了更大的基数，从而导致有意识自我欺骗更多。假如将动机强度进一步加强，使欺骗者在更多数量的测试题上发生欺骗，那么他们在意识上会产生更高的唤醒，更加渴望得到高报酬，在行为上则表现为偷看更多的答案。这就使得个体更有可能意识到高的成绩主要源于偷看答案。从而可能会发生从无意识自我欺骗状态向有意识自我欺骗状态的转变。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "另外，通过本研究实验2中无意识自我欺骗人数随着认知模糊减少而减少的结果分析，可以作一个更为大胆的猜想：有意识与无意识自我欺骗只是自我欺骗行为连续渐变的两种状态。即个体在进行自我欺骗时，可能先进行无意识的自我欺骗，当条件不允许时才进入有意识的自我欺骗。从认知经济原则来说，个体进入无意识自我欺骗状态会比有意识自我欺骗付出更少的认知资源。当然，这需要今后更多实验的进一步证实。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "5.4本研究意义和未来研究方向",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "本研究在前人研究的基础上提出了自我欺骗具有无意识和有意识自我欺骗两种形式的假设，并采用新的实验方法验证了这一设想。同时，通过实验初步明确了两种形式自我欺骗的性质。另外，本研究相较于前人研究，在自我欺骗的研究方法上尝试从个体层面去确定自我欺骗行为，而前人关于自我欺骗的研究主要是通过对比方式得出的是被试在群体层面是否有自我欺骗，无法从个体层面进行区分。如Chance etal.的研究(2011)通过实验组和控制组的对比来确定实验组是否有自我欺骗。而 Sloman etal.的研究(2010)则是通过实验组和控制组前后阶段的比较确定实验组是否有自我欺骗。值得注意的是，虽然本研究采用的是延时推断法来确定个体是否进行了自我欺骗，但至少开始尝试从个体层面去研究自我欺骗行为。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "未来关于自我欺骗产生机制的探明还需很长一段路。不过本研究提出的无意识和有意识自我欺骗分类，将有助于探明自我欺骗机制。例如，未来的研究可以利用无意识和有意识自我欺骗的特性，在自我欺骗的认知实验中可作这样的假设：假如个体是无意识自我欺骗，那么内心没有冲突且具有稳定性，实验中自欺反应时应与正确反应时一致。假如个体是有意识自我欺骗，那么内心存在冲突且具有易变性，实验中自欺反应时应大于正确反应时。另外，无意识和有意识自我欺骗相相互转换问题也为未来提供了一个很好的研究方向。这种互相转换边界条件及其内在机制的明晰，可以让人们更好地利用无意识和有意识自我欺骗为人们的生活和工作服务。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "本研究也进一步提示，自我欺骗在产生机制、加工机制和内在心理机制上具有较大的复杂性。不同类型和不同领域的自我欺骗现象可能涉及完全不同的机制，今后对自我欺骗进行研究时要更加谨慎，需对此加以区别对待。未来关于自我欺骗的研究要进一步改进研究范式，运用更科学的方法从个体层面实时去确认个体是否发生自我欺骗行为。同时，未来的研究可以借助当前先进的认知神经科学技术和研究方法对不同类型自我欺骗的作用机理进行探究。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6结论 ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "三个实验的结果提示，自我欺骗存在两种形式：有意识自我欺骗和无意识自我欺骗。有意识自我欺骗者随着模糊性的减少而增多，而且随着动机的增强而增多。无意识自我欺骗者随着认知模糊性的减少而减少，但动机强度并不会对无意识自我欺骗者的人数产生影响。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Chance, Z., Gino,F., Norton, M.I., & Ariely, D. (2015). The slow decay and quick revival of self-deception. Frontiers in Psychology, 6,1075.   \nChance, Z., Norton, M.I., Gino,F., & Ariely, D. (2011). Temporal view of the costs and benefits of self-deception. Proceedings of the National Academy of Sciences of the united states ofAmerica, 108,15655-15659.   \nChance, Z.,& Norton, M. I. (2015). The what and why of self-deception. Current Opinion in Psychology, 6,104-107.   \nDavidson, D. (2004). Problems of rationality. New York: Oxford University Press.   \nDemos, R. (1960). Lying to oneself. The Journal of Philosophy, 57(18), 588-595.   \nEpley, N., & Whitchurch, E. (2Oo8). Mirror, mirror on the wall: enhancement in selfrecognition.Personality and Social Psychology Bulletin, 34(9),1159-1170.   \nErez,A., Johnson, D.E.,& Judge, T.A. (1995). Self-deception as a mediator of the relationship between dispositions and subjective well-being. Personality and Individual Differences, 19(5), 597-612.   \nFarrow, T.F., Burgess, J., Wilkinson, I.D.,& Hunter,M.D. (2015). Neural correlates of selfdeception and impression-management. Neuropsychologia, 67, 159-174.   \nFan, W., Yang, B., Liu, J., & Fu, X.L. (2017). Self-deception: For adjusting individual psychological states. Advances in Psychological Science, 25(8), 1349-1359.   \n[范伟,杨博,刘娟,傅小兰.(2017).自我欺骗：为了调节个体心理状态.心理科学进展, 25(8), 1349-1359.]   \nFernbach, P.M., Hagmayer, Y.,& Sloman, S.A. (2014). Effort denial in self-deception. Organizational Behavior and Human Decision Processes, 123(1),1-8.   \nGebauer, J.E., Goritz,A.S., Hofmann, W.,& Sedikides, C. (2012). Self-love or other-love? explicit other-preference but implicit self-preference. PLoS One, 7(7), e41789.   \nGilovich, T. (2008). How we know what isn't so. New York: Free Press.   \nGur, R. C.,& Sackeim, H.A. (1979). Self-deception: a concept in search of a phenomenon. Journal of Personality and Social Psychology, 37(2), 147-169.   \nJohnson, D.D.P.,& Fowler, J. H. (2011). The evolution of overconfidence. Nature, 477(7364), 317-320.   \nKurzban, R. (2012). On the advantages of being wrong. BioScience, 62(5), 516-517.   \nLu, H.J. (2012). Self-deception: deceiving yourself to better deceive others. Acta Psychologica Sinica, 44(9), 1265-1278.   \n[陆慧菁.(2012).自我欺骗:通过欺骗自己更好地欺骗他人.心理学报,44(9),1265-1278.]   \nLu, H. J.,& Chang,L. (2014). Deceiving yourself to better deceive high-status compared to equal-status others. Evolutionary Psychology, 12(3), 635-654.   \nLopez, J. K., & Fuxjager, M. J. (2012). Self-deception's adaptive value: effects of positive thinking and the winner effect. Consciousness and Cognition, 21(1), 315-324.   \nLonnqvist, J. -E., Irlenbusch, B.,& Walkowitz, G. (2014). Moral hypocrisy: impression management or self-deception? Journal of Experimental Social Psychology, 55, 53- 62.   \nLeslie, V. D.L.,& Mckay, R. (2016). The optimist within? selective sampling and selfdeception. Consciousness and Cognition, S1053810016300770.   \nLynch, K. (2016). Wilful ignorance and self-deception. Philosophical Studies, 173(2), 505- 523.   \nMa,H.L.,& Chen, G. (2012). On self-deception: intentionalism vs. non-intentionalism. Journal of Dialectics of Nature, 38(5), 49-55.   \n[马翰林,陈刚.(2016).自我欺骗问题研究——意向论vs.非意向论.自然辩证法通讯, 38(5),49–55.]   \nMcKay, R.T., & Dennett, D. C. (2009). The evolution of misbelief. Behavioral and Brain Sciences, 32(6), 493-561.   \nMele,A. R.(1997). Real self-deception. Behavioral and Brain Sciences, 20(1), 91-102.   \nMele, A. R. (2010). Approaching self-deception: how Robert Audi and I part company. Consciousness and Cognition, 19(3), 745-750.   \nMichel, C., & Newen, A. (2010). Self-deception as pseudo-rational regulation of belief. Consciousness and Cognition, 19(3), 731-744.   \nMijovic-Prelec, D., & Prelec, D. (201O). Self-deception as self-signalling: a model and experimental evidence. Philosophical Transactions of the Royal Society B: Biological Sciences, 365(1538), 227-240.   \nNeuber, S. (2016). Self-awareness and self-deception: a sartrean perspective. Continental Philosophy Review, 49(4), 1-23.   \nQuattrone, G.A., & Tversky, A. (1984). Causal versus diagnostic contingencies: On selfdeception and on the voter's illusion. Journal of Personality and Social Psychology, 46(2), 237-248.   \nRen, M. M., Zhong, B. W.,Fan, W., Dai, H. M., Yang, B., Zhang, W. J., Yin, Z. X.,Liu, J.,Li, J.,& Zhan, Y.L. (2018). The influence of self-control and social status on selfdeception. Frontiers in psychology, 9,1256.   \nSeiffert-Brockmann, J., & Thummes, K. (2017). Self-deception in public relations. a psychological and sociological approach to the challenge of conflicting expectations. Public Relations Review, 43(1),133-144.   \nSharma, M., Modi, S., Khushu, S., & Mandal, M. K. (201O). Neural activation pattern in selfdeceivers. Psychological Studies, 55(1), 71-76.   \nSheridan, Z., Boman, P., Mergler, A., & Furlong, M. J. (2015). Examining wel-eing, anxiety, and self-deception in university students. Cogent Psychology, 2(1), 993850.   \nSloman, S.A., Fernbach, P.M.,& Hagmayer, Y. (2010). Self-deception requires vagueness. Cognition, 115(2), 268-281.   \nSmith,M. K., Trivers,R., & Von Hippel, W. (2017). Self-deception facilitates interpersonal persuasion. Journal of Economic Psychology, S0167487016301854.   \nSurbey, M. K., & McNally, J. J. (1997). Self-deception as a mediator of cooperation and defection in varying social contexts described in the iterated prisoner's dilemma. Evolution and Human Behavior, 18(6), 417-435.   \nTrivers, R. (2o11). The folly offools: The logic of deceit and self-deception in human life. New York:Basic books.   \nVon Hippel, W.,& Trivers,R. (2011). The evolution and psychology of self-deception. Behavioral and Brain Sciences, 34(1), 1-56.   \nWestland, S.,& Shinebourne, P. (2Oo9). Self-deception and the therapist: An interpretative phenomenological analysis of the experiences and understandings of therapists working with clients they describe as self-deceptive. Psychology and PsychotherapyTheory Research and Practice, 82(4), 385-401.   \nWhitson, J.A., & Galinsky, A. D. (20o8). Lacking control increases illusory pattern perception. Science, 322(5898), 115-117.   \nZhu, Y.L., Xi, S. S., & Wu, Y. H. (2016). Self-deception in autobiographical narrative: Individuals' self identity strategy. Advances in Psychological Science, 24(12),1917- 1925.   \n「牛艳丽 度田田呈艳红(2016)白佳休叙車由的白我欺骗·个休的白我认同策心理 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "科学进展,24(12),1917-1925.]",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The effect of cognitive vagueness and motivation on conscious and unconscious self-deception ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "ZHONG Luojin'; RU Taotao²; FAN Meng³; MO Lei4 (1 School of Professional Development and Research on Primary and Secondary Education， South China Normal University ， Guangzhou 510631, China) (² Lab of Light and Physio-psychological Health, National Center for International Research on Green Optoelectronics， South China Normal University， Guangzhou 510006, China)( The Center of Student Career Service, Guangdong University of Technology, Guangzhou 510006, China)(4 School of Psychology， South China Normal University, Guangzhou 510631, China) ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Academia has a long discussion of self-deception. Self-deception provides fertile ground for research in biology， philosophy， and psychology. Philosophers theoretically discuss the possibility and conditions of the existence of self-deception. Biologists study the applicability of the self-deception from the evolutionary perspective. Psychologists want to provide empirical evidence for the existence of self-deception.Nevertheless, the presentation of self-deception remains controversial. Therefore,an empirical study of self-deception with direct evidence is required to tackle the existence of self-deception. A large number of studies have investigated the existence of self-deception. The results showed that motivation, external or internal, and cognitive vagueness are the triggers of the existence of self-deception. However, it remains unknown whether self-deceived people believe in their own deception interacts with the effect of cognitive vagueness and motivation on self-deception. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we investigate whether self-deceived people believe in their own deception influences the self-deception and moderates the effect of cognitive vagueness and motivation on self-deception. We further propose two forms of selfdeception: unconscious and conscious self-deception, where those unconscious selfdeceived people believe in their own deception while those conscious self-deceived people do not. As motivation has different effects on the two forms of self-deception, we futher investigate wether the two forms of self-deception share the same ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "processing mechanisms. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Following the research paradigm of Chance et al.(2011)，we investigated the above hypotheses in three experiments. In Experiment 1, we improved the research paradigm used by Chance et al.(2011),and we showed that self-deception could be categorized as conscious self-deception and unconscious self-deception. Experiment 2 showed that cognitive vagueness positively and negatively associated with unconscious and conscious self-deception respectively. Experiment 3 illustrated that motivation increased the conscious self-deception, but had no impact on unconscious self-deception. The diverse effects of motivation and cognitive vagueness on the unconscious and conscious self-deception suggest that two forms of self-deception are driven by different processing mechanisms. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Key words: Self-deception; Conscious; Motivation; Cognitive vagueness ",
+        "page_idx": 23
+    }
+]

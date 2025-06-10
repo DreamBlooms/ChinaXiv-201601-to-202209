@@ -1,0 +1,182 @@
+# An introduction to the main forest vegetation types of mainland SE Asia (Indochina peninsula) \*
+
+Zhu Hua
+
+(Center for Integrative Conservation,Xishuangbanna Tropical Botanical Garden,Chinese Academyof Sciences, Mengla 666303,Yunnan, China)
+
+Abstract: The vegetation of mainland Southeast Asia is less known to science. This article introduces the studies up to now on the vegetation of mainland Southeast Asia (Indochina peninsula),and describes the main forest vegetation types based on fragmentary information and field visits. Seven main terraneous and wet land forest vegetation types, including coniferous forest,coniferous-broad-leaved mixed forest, tropical montane evergreen broad-leaved forest, tropical rain forest, tropical seasonal moist forest, tropical monsoon forest,and dry thorny thickets/woodland (savanna)，are recognized.Of them， the coniferous forest includes two subtypes: temperate coniferous forest and tropical coniferous forest; the coniferous-broad-leaved mixed forest includes also two subtypes: warm temperate and temperate coniferous-broad-leaved mixed forests; and the tropical rain forest includes four main vegetation subtypes: tropical lowland evergreen rain forest, tropical seasonal rain forest (tropical lowland semi-evergreen rain forest),tropical montane rain forest, and peat swamp forest. The study history of the vegetation in the region, its classification, physiognomic characteristics,and dominant species composition, are also concisely introduced.
+
+Key words: vegetation types， classification， physiognomic characteristics， distribution, mainland Southeast Asia
+
+CLC number: Q948 Document code: A
+
+# 大陆东南亚（印度支那半岛）的主要森林植被类型介绍
+
+朱华
+
+（中国科学院西双版纳热带植物园，保护生物学中心，云南 勐腊666303）
+
+摘要：大陆东南亚（印度支那半岛）的植被研究情况鲜为人知，至今仍无系统研究资料。本文依据数次对该地区的野外考察和资料收集，介绍了东南亚植被的研究情况、文献资料及对该地区主要森林植被的分类及各主要植被类型的特征。大陆东南亚地区在植被分类上包括七个主要的陆生及湿地的森林植被类型：针叶林，针阔混交林，热带山地常绿阔叶林，热带雨林，热带季节性湿润林，热带季风林（季雨林)，干旱刺灌丛/萨王纳植被。其中，针叶林植被型包括温性针叶林和热性针叶林二个植被亚型;针阔混交林包括温性针阔混交林和暖温性针阔混交林二个亚型；热带雨林植被型包括热带低地常绿雨林、热带季节性雨林（热带低地半常绿雨林)、热带山地雨林及泥炭沼泽森林四个植被亚型。该文还对大陆东南亚地区植被研究历史、植被分类系统、类型特征及植物区系组成进行了讨论。
+
+关键词：植被类型，分类，群落特征，分布，大陆东南亚
+
+# 1 Introduction
+
+Mainland Southeast (SE) Asia (Indochina peninsula) is composed of five countries: Myanmar (Burma), Thailand, Cambodia, Lao PDR and Vietnam. In biogeography, mainland SE Asia is an intrinsically floristic unit (Zhu,2O17a). Vegetation studies for the whole of mainland SE Asia are lacking,except for the works of Blasco et al (1996)， Vidal (1997) and Ashton (2014). Blasco published a vegetation map of tropical continental Asia,and Ashton described the forests of tropical Asia, including seasonal forests in tropical continental Asia. However, vegetation studies for each individual SE Asian country began early,especially in Thailand, Vietnam and Myanmar where there have been a lot of studies, but there have been fewer in Laos and Cambodia.
+
+In Thailand, the first vegetation survey was made by Credner (1935),in which a concise outline of Thai vegetation was given. Ogawa et al (1961) focused on northern Thailand vegetation and published "A preliminary survey on the vegetation of Thailand". Smitinand (1966) studied the limestone vegetation in northern Thailand and Santisuk (1988) gave an account of the vegetation of northern Thailand. Phengklai (1989） studied the peat swamp forest of Thailand.After these authors’ works,a lot of studies on vegetation for various national parks and nature reserves, such as Maxwell & Elliott (2OO1) for Doi-Sutep National Park,have also been made.
+
+In Vietnam, Schmid (1974) published “Vegetation du Viet Nam". Many vegetational studies on various national parks and nature reserves have also been made,such as Thin's （1997） work, "The vegetation of Cucphuong national park, Vietnam".
+
+In Laos PDR,Vidal (1960,1972) published "The forests of Laos"and "La vegetation du Laos".He distinguished the forest types of Laos as moist semi-deciduous forests with dipterocarps, mixed deciduous forests,and savanna in the lowlands, and moist montane forest of Fagaceae and
+
+Lauraceae species dominating the highlands.
+
+In Cambodia,Dy Phon (197O) published "La vegetation du sud-ouest du Cambodge". Rollet (1972） published "La vegetation du Cambodge",and Martin（1973） published "Notes on the vegetation of the Cardamon Mountains, Cambodia".
+
+In Myanmar, Stamp (1925） published “Vegetation of Burma, from an ecological standpoint" and Champion (1936) published “A preliminary survey of the forest types of India and Burma",as well as Davis (196O) published "The forests of Burma".In recent years,Htun et al (2011) published “Classifying tropical deciduous vegetation: a comparison of multiple approaches in Popa Mountain Park, Myanmar”,and Aye et al (2014) published“Floristic composition, diversity and stand structure of tropical forests in Popa Mountain Park".
+
+However, comprehensive accounts of the vegetation of mainland SE Asia are lacking. Here I provide a concise introduction to the main terraneous and wet land forest vegetation types based on the fragmentary published information and my own field visits. This article is intended as a reference for people who are interested in the vegetation of mainland SE Asia, especially for the researchers in the recently established Southeast Asia Biodiversity Research Institute,Chinese Academy of Sciences (CAS-SEABRI).
+
+# 2 Vegetation classification
+
+Classifications of tropical forests are essential for production forestry, conservation planning, and ecological research (Corlett,2014). The terminology and classification of tropical vegetation have not been standardized world-wide,because different approaches were used by different investigators. As Corlett stated that there is no single,agreed, global, or pantropical classification system for vegetation or just for forests (Corlett 2014). Beard (1944,1955） made the earliest classification of the tropical American vegetation types.Richards (1983,1996) clasified the tropical rain forests of the world. Hall & Swaine (1976,1981) classified the African tropical rain forest,Webb (1959) classified the Australian rain forest,and Robbins (1968)and Whitmore (1984) classified the tropical Asian rain forest. Zhu (2O06,2O17b) and Zhu et al (2O15a) classified the tropical forests in southern China at the northern margin of mainland SE Asia.
+
+Blasco et al (1996) classified the main vegetation types of tropical continental Asia into 1. Tropical rain forest formation (including tropical lowland evergreen rain forest, tropical lowland semi-evergreen rain forest, tropical montane rain forest and peat swamp forest), 2. Mangroves, 3. Monsoon forest formation (including tropical dry deciduous forest, tropical moist deciduous forest, dry evergreen forest), 4. Woodland (including dry deciduous dipterocarp woodlands and mixed deciduous woodlands)，and 5. Thickets (including dry thorny thickets and coastal Melaleuca stands).
+
+Corlett (2O14) commented that local (or landscape-scale) classifications were usually at least partly based on floristics: dominant species, indicator species,or overallfloristic composition, and classifications at the largest scales were usually based on the dominant growth forms. Physiognomic and ecological characteristics have been mainly used for classification at the SE Asian vegetation type level (Richards,1983),while floristic composition and habitats combined were mainly used at the formation level. In this article,classification is based on physiognomic and ecological characteristics,floristic composition and habitats combined. Based on my field visits,information collected,and referring to the classifications of Blasco et al. (1996) and Ashton (2015), I recognize seven main terraneous and wet land forest vegetation types in mainland SE Asia.More forest types probably exist in mainland SE Asia, but I have not visited the sites and could not include them in this article.Mangroves widely distribute in coastal saline or brackish water and contain a complex salt filtration system and complex root system to cope with salt water immersion and wave action. They form a particular ecosystem. Mangroves are not introduced in this article because of their popular well-known fact. The seven vegetation types here introduced, are coniferous forest， coniferous-broad-leaved mixed forest， tropical montane evergreen broad-leaved forest, tropical rain forest, tropical seasonal moist forest, tropical monsoon forest, and dry thorny thickets and woodland (savanna).
+
+Here I would like especially to clarify the names and applications of several forest types in this article.1. The tropical seasonal rain forest in mainland SE Asia. In terms of physiognomy and structure, it is similar to the evergreen seasonal forest of tropical America of Beard (1944,1955), to the humid evergreen type of the African tropical rain forest of Hall & Swaine (1976,1981), to the mesophyll vine forest of the Australian rain forest of Webb (1959) or to the semi-evergreen rain forest of Walter (1971). However, it resembles largely the semi-evergreen rain forests of SE Asia of Whitmore (1984),or tropical seasonal forests of Corlett (2O05). I used the name“tropical seasonal rain forest”for this kind of forest in southern China at the northern margin of mainland SE Asia (Zhu,1997,2004,2006,2017b). It is still suitable to use this forest type in the tropical seasonal region of mainland SE Asia.2.The tropical montane rain forest.This is the same as the lower montane rain forest of tropical Asia (Whitmore,1984，199O),although it is somewhat diffrent from the lowland rain forest in floristic and physiognomic characteristics.Iagree that it is a subtype of tropical rain forest (Zhu et al, 2OO6a, 2Oo6b),as used by most researchers (Beard, 1944,1955; Grubb,1964; Robbins,1968; Richards,1996) and follow the classification of Blasco et al.(1996).3.The tropical monsoon forest. This is a tropical deciduous forest under the influence of a strong monsoon climate,as defined by Schimper (1903),and it seems to be an intermediate type between seasonal rain forest and savanna (Zhu, 2O11).4. The tropical montane evergreen broad-leaved forest. Thist is a tropical lower montane forest of mainland SE Asia characterized by its oak-laurel floristic composition (Ashton, 2Oo3),and is different from the tropical upper montane rain forest of SE Asia because it usually has fewer epiphytes and occurs mainly on relatively drier slopes above $9 0 0 { - } 1 0 0 0 \textrm { m }$ altitude. The name tropical montane evergren broad-leaved forest was first used in southern China (Zhu et al, 2OO5,2015a, 2015b). It is the same forest type on relatively drier slopes above 9OO-1 OOO m in mainland SE Asia, which was seen in my field visits.5.The tropical seasonal moist forest. This occurs mainly on middle and upper limestone slopes in the region and the name also was first used for the forest in southern China (Zhu et al,1998) in our studies.It is preferred here because the forest is not equivalent to Schimper's monsoon forest (Schimper,1903)，despite the fact that it is affected by seasonal dryness and contains a variable percentage of deciduous trees. It is also different from the tropical montane evergreen broad-leaved forest in floristic composition. Compared with the seasonal rain forest of the region,the seasonal moist forest has less abundant megaphanerophytes,but more abundant herbaceous chamaephytes and more plants with compound， leathery leaves.This limestone forest, which abuts the seasonal rain forest on lower slopes and at limestone valleys, is a vegetation type on limestone slopes.The coniferous forest and their subtypes in mainland SE Asia follows Wu's (1987） classification of the vegetation of Yunnan, because in higher mountains, especially in northern Myanmar, the coniferous forest has the same physiognomic and floristic characteristics as Yunnan Province, SW China. The coniferous-broad-leaved mixed forest and its subtypes were seen mainly in northern Myanmar. They are similar to the ones in Yunnan Province. These kinds of forests in Yunnan are widely distributed on mountains,although they were included in the related coniferous forests at similar elevations in Wu' work (Wu,1987).Iconsider this kind of forest to be a vegetation type due to its characteristic physiognomy and floristic composition. Here Iuse the same term for the forests in northern Myanmar.
+
+Blasco et al (1996) used the name "Dry evergreen forest" underneath the monsoon forest formations and stated that it occurs on the dry eastern Coromandel coast of India and in N Sri Lanka and this very peculiar and vestigial plant community is unknown elsewhere in Asia. In some local vegetation studies in mainland SE Asian countries, the name dry evergreen forest was used.Iam not familiar to this forest,so that I do not include this forest type in the article. As Corlett stated that all systems for classifying and naming vegetation types are to some extent arbitrary(Corlett2Oo5).My vegetation classification in this article is ineluctable to some extent arbitrary.
+
+# 3 Main vegetation types in mainland SE Asia
+
+# 3.1 Coniferous forest
+
+Coniferous forest in mainland SE Asia includes two vegetation subtypes: temperate coniferous forest and tropical coniferous forest.
+
+# Temperate coniferous forest
+
+This forest occurs mainly on the high mountains above $3 0 0 0 \mathrm { ~ m ~ }$ in northern Myanmar. It is dominated by species of fir (Abies） and spruce (Picea)，and sometime mixed with Taxus, Pseudotsuga, Tsuga, Pinus,as well as broad-leaved tree species Quercus, Betula, Populus and Salix.The shrub layer is mainly composed of Fargesia,Rhododendron,Ribes,Sorbus etc.,and herbaceous plants are mainly Primula species.This kind of forest could refer to Zhu (2O09). This state was described in Davis' work as the high mountains of northern Burma have cold winter seasons and vegetation of temperate zone species,and the fir and spruce forests of the high mountains are a temperate climatic type composing the conifer types (Davis,1960).
+
+# Tropical coniferous forest
+
+This forest mainly occurs on tropical montains in mainland SE Asia. It is dominated by Pinus kesiya and Pinus merkusi. Other frequent mixed tree and shrub species are Melanorhoea, Dipterocarpus (D. obtusifolius, D. tuberculatus)， Vatica, Aporosa, Callicarpa, Decaspermum, Dillenia, Engelhardtia， Grewia, Lithocarpus， Mallotus，Melastoma, Memecylon， Phyllanthus, Pithecellobium,Randia,Wendlandia,and Vaccinium.
+
+# 3.2 Coniferous-broad-leaved mixed forest
+
+The coniferous-broad-leaved mixed forest also includes two subtypes: warm temperate coniferous-broad-leaved mixed forest and temperate coniferous-broad-leaved mixed forest.
+
+# Warm temperate coniferous-broad-leaved mixed forest
+
+This forest occurs mainly in the lower montane zone in northern Myanmar. It is dominated by coniferous Pinus kesiya and broad-leaved Quercus. Other frequent tree species are Pieris, Wendlandia, Vernonia, Gaultheria, Litsea,Altingia， Rhodoleia， Prunus,Gordonia, Schima, Pygeum etc.
+
+# Temperate coniferous-broad-leaved mixed forest
+
+This forest occurs above the altitudinal zone of warm temperate coniferous-broad-leaved mixed forest in northern Myanmar. It has two tree layers: the upper layer is dominated by Pinus wallichiana, while other frequent coniferous tree species in this layer are Cephalotaxus, Tsuga and Taxus. The broad-leaved trees are mainly deciduous and in the lower tree layers,such as Acer; Betula, Sorbus,and Corylus,while other frequent tree species are Tetracentrum, Ilex, Dipentodon, Viburnum, Alnus etc. The shrub layer is dominated by Rhododendron, Vaccinia, and Euonymus.In Vietnam,this kind of forest occurs in the highlands in the centre and northern region above $1 0 0 0 \mathrm { m }$ , and frequent tree species are Fokienia, Nageia (N. wallichiana, N. fleuryi), Cunninghamia, Podocarpus (P. imbricatus, P. nerifolius), and Cephalotaxus.
+
+# 3.3 Tropical montane evergreen broad-leaved forest
+
+Tropical montane evergreen broad-leaved forest is the main vegetation type on mountains of mainland SE Asia and usually has two conspicuous tree layers,of which the upper tree layer is $1 5 { - } 3 0 \mathrm { m }$ tall with dense crowns and the lower tree layer is $3 { - } 1 8 \mathrm { m }$ tall with a cover of about $50 \%$ It occurs mainly on mountains above $9 0 0 { - } 1 ~ 0 0 0 ~ \mathrm { m }$ in northern, western and eastern Myanmar, Thailand, Vietnam and Laos,and above $6 0 0 \mathrm { m }$ in Cambodia. The forest is dominated by Fagaceae, Euphorbiaceae,Lauraceae, Theaceae，Myrtaceae (Syzygium） and in some sites dominated by Podocarpaceae (Podocarpus, Dacrydium). The understory is mainly composed of saplings and seedlings of the tree layer species. Shrub and herbaceous species are usually less abundant. Lianas are abundant,but epiphytes are less abundant compared to tropical lowland rain forest and montane rain forest. Frequent tree species are Schima, Engelhardtia, Lithocarpus,Castanopsis, Magnolia, Michelia, Manglietia, Illicium, Eurya, Styrax, Daphne, Eriobotrya, Lindera, Litsea, Actinodaphne, Cinnamomum, Ficus, Symplocos, Ilex, Brassopsis, Syzygium, Ulmus, Carpinus, Aglaia, Aquilaria, Baccaurea, Bouea, Dysoxylum, Garcinia, Podocarpus and Dacrydium.
+
+# 3.4 Tropical rain forest
+
+“Tropical rain forest” is a general term including a wide range of vegetation formations. In tropical mainland SE Asia, it usually includes three main big vegetation subtypes,i.e., tropical lowland evergreen rain forest, tropical seasonal rain forest (tropical lowland semi-evergreen rain forest),and tropical montane rain forest. In the Blasco et al. (1996) classification,peat swamp forest was included in this vegetation type.
+
+# Tropical lowland evergreen rain forest
+
+The tropical lowland evergreen rain forest is a tropical wet lowland forest formation. It has 3-4 indistinct tree layers,of which the top layer consists largely of emergent trees more than $3 0 \mathrm { m }$ tall (the tallest up to $6 0 { - } 7 0 ~ \mathrm { m }$ ）and has about $30 \%$ crown coverage; the second layer, up to $3 0 \mathrm { ~ m ~ }$ high with almost continuous crowns and the greatest density of stems ( $70 \% 8 0 \%$ coverage), is the main canopy layer; the third layer, $5 { - } 2 0 ~ \mathrm { m }$ high,has a high density of trees and various species. This forest occurs mainly in Malaysia and Indonesia,but it also occurs in the wet lowlands in Vietnam, Cambodia, Thailand and Myanmar. In Cambodia, it occurs mainly on the Cardamon and Elephant hills below $5 0 0 { - } 6 0 0 \mathrm { m }$ . The top tree layer is dominated by Dipterocarpaceae species such as Anisoptera costata, Anisoptera scaphula, Dipterocarpus costatus, Dipterocarpus intricatus, Hopea ferrea, Hopea odorata， Shorea guiso，and Shorea pierrei；other frequent trees are Palaquium，Heritiera,Parkia, Swintonia and Syzygium.Some deciduous trees, such as Tetrameles nudiflora, Dipterocarpus costatus, Dipterocarpus intricatus, Sterculia lynchnophora and Irvingia malayana (Simaroubaceae） occur at some sites. Guttiferae, Myrtaceae, Ebenaceae, Theaceae, Sterculiaceae, Sapindaceae, Fabaceae， Anacardiaceae,and Palmae are also frequent， such as Caryota, Pinanga, Arenga, Areca, Licuala, Calamus etc.
+
+This forest occurs in the Annamites of Vietnam below $8 0 0 \mathrm { ~ m ~ }$ ，this.It is dominated by Dipterocarpaceae (Hopea spp.), Fagaceae (Lithocarpus spp.), and Madhuca, Xanthophylum etc. The forest could go up to $4 5 \mathrm { ~ m ~ }$ high,and the top tree layer is dominated by Hopea, Shorea, Dipterocarpus and Canarium; the second tree layer is dominated by Xanthophylum, Lithocarpus, Castanopsis， Madhuca, Aidia, Elaeocarpus,Eberhardtia, Diospyros,and Litsea; the third tree layer is dominated by Gironniera, Syzygium, Chisocheton， Aglaia, Hydnocarpus，Mallotus, Macaranga, Livistona, Archidendron, Diospyros， Garcinia, Pterospermum, Cryptocarya, Artocarpus,Eberhardtia,Michelia etc.
+
+# The tropical seasonal rain forest (Tropical lowland semi-evergreen rain forest)
+
+The tropical seasonal rain forest occurs in tropical lowlands influenced by a monsoon climate with a mean annual rainfall of $1 ~ 5 0 0 { - } 2 ~ 0 0 0 ~ \mathrm { m m }$ .It is dominated by evergreen tree species, but some deciduous trees occur in the crown layer. In Myanmar, it was called“Evergreen Tropical forest”(Stamp,1925) or“Tropical semi-evergreen forest of India-Burma"(Champion，1936). In Thailand it is mainly distributed in southern and western parts below $9 0 0 { - } 1 ~ 0 0 0 ~ \mathrm { ~ m ~ }$ . In Laos, Vietnam and Cambodia,it occurs in ravines below $9 0 0 \mathrm { m }$ ：
+
+Like the tropical lowland evergreen rain forest,the tropical seasonal rain forest has also 3-4 indistinct tree layers,of which the top layer consists largely of emergent trees more than $3 0 \mathrm { m }$ tall (the tallest up to $6 0 ~ \mathrm { m }$ ); the second layer,up to $3 0 \mathrm { ~ m ~ }$ high with almost continuous crowns and the greatest density of stems ( $70 \% 8 0 \%$ coverage),is the main canopy layer; the third layer with a crown cover of about $40 \%$ ,consists of small trees and juveniles of species from the upper layers. It has still abundant woody climbers and vascular epiphytes.Buttresses and cauliflory are also common.The forest is mainly evergreen despite the fact that there are some deciduous trees in the emergent layer.
+
+In species composition, it is dominated by Dipterocarpaceae (Dipterocarpus,Shorea, Vatica, Hopea,Anisoptera, Parashorea). Other frequent tree species are Dysoxylum, Michelia, Cedrela, Canarium, Garuga， Chukrasia, Lagerstroemia, Chisocheton， Beilschmiedia， Gironniera, Nephelium, Polyalthia, Syzygium， Tetrameles， Garcinia, Ficus， Diospyros, Pterospermum, Castanopsis， Lithocarpus， Knema, Mesua， Terminalia， Elaeocarpus，Acrocarpus etc. In its secondary forest, bamboo species are extensive,for example,Dendrocalamus hamiltoni, $D$ strictus, D. membranaceus, and Bambusa polymorpha.
+
+# Tropical montane rain forest
+
+The tropical montane rain forest occurs in wet montane habitats between $8 0 0 { - } 2 ~ 0 0 0 ~ \mathrm { ~ m ~ }$ elevation in mainland SE Asia. It has 2-3 tree layers and is usually up to $2 0 { - } 3 0 ~ \mathrm { m }$ tall. In species richness, the tropical montane rain forest is dominated by Fagaceae, Lauraceae, Euphorbiaceae, Papilionaceae, Rubiaceae, Theaceae, Juglandaceae, Magnoliaceae, Myrtaceae and Elaeocarpaceae, as well as Podocarpaceae and Pinaceae (mostly $P .$ kesiya) in the tree layers. The tropical montane forest usually occurs in a climate with the mean temperature of the coldest month below $1 5 ^ { \circ } \mathrm { C }$ and the absolute minimum faling below freezing point for a few days in January and February, as well as usually rainfall more than $2 ~ 0 0 0 ~ \mathrm { { m m } }$ . It is characterized by abundant epiphytes,referring to Nakanishi et al. (2016).
+
+# Peatswamp forest
+
+Peat swamp forest is a kind of unstable evergreen lowland forest, occurring on low-lying or submerged organic soil area. It is a unique vegetation differing from other vegetation types (Phengklai et al,1989). It occurs mainly in southern Thailand and Myanmar. In the case of Narathiwat, penninsular Thailand, the forest has three tree layers : the top tree layer is up to $3 3 \mathrm { ~ m ~ }$ tall and composed mainly of species Ganua mortleyana, Macaranga pruinosa, Campnosperma coriaceum and Sandoricum emarginatum. The second layer is up to $2 2 \mathrm { ~ m ~ }$ tall，and composed mainly of Blumeodendron kurzii and Polyalthia glauca. The third layer is 14 to $2 2 \mathrm { ~ m ~ }$ tall, and composed mainly of Eugenia (from Phengklai et al, 1989), Stemonurus secundiflorus (Phengklai et al,1989). In certain area,palms are abundant, such as Licuala longicalycata, Eleiodoxa conferta, Caryota mitis, and Pinanga riparia.
+
+# 3.5 Tropical seasonal moist forest
+
+Tropical seasonal moist forests occur on limestone slopes, mainly in northern Thailand, Laos and Vietnam. The forest has usually two distinct tree layers. Cleistanthus, Lasiococca,and Dracaena are frequent tree species. Deciduous trees,Tetrameles, Bombax, Colona, and Erythrina are sparsely dotted as emergents throughout the forest. The understory consists of saplings and more creeping lianas.
+
+# 3.6 Monsoon forest (tropical deciduous forest)
+
+The monsoon forest is a tropical deciduous forest under the influence of a strong monsoon climate as defined by Schimper (1903).In mainland SE Asia,monsoon forests often have a mosaic distribution with the seasonal rain forests. They occur in areas with strong seasonal dryness，controlled by a strong monsoon climate below $1 \ 0 0 0 \ \mathrm { m }$ ，and are leafless for at least several weeks in February and March. In north Thailand, Laos and Myanmar they have wide distributions. These monsoon forests are usually $2 0 { - } 2 5 \mathrm { ~ m ~ }$ tall with 1-2 tree layers. The upper tree layer with an umbrella crown is composed of deciduous trees,or the tree layers are al deciduous. Frequent tree species are Tectona (Tectona grandis), Lagerstroemia, Anogeissus, Dipterocarpus (D. alatus, D. turbinatus), Shorea, Irvingia， Homalium, Gmelina, Buchanania, Pterocarya, Adina, Erythrina, Bauhinia, Sindora，Pterocarpus，Afzelia，Grevia, Cratoxylon， Terminalia, Dalbergia, Elaeocarpus, Glochidion, Randia, Dendrocalamus, Bombax spp., Cassia, Vitex, Dillenia，Acacia, Erythrina,and Mitragyna. Serious disturbances usually change these forests into bamboo forests (Dendrocalamus strictus dominated) as their secondary stages.
+
+In Thailand, in particular, the monsoon forests dominated by deciduous Dipterocarpaceae are distributed widely (Ogawa, 1961 ; Blasco et al, 1996). This forest is $1 5 { - } 2 0 ~ \mathrm { m }$ tall and has two tree layers.Frequent Dipterocarpaceae species are Dipterocarpus tuberculatus，D. obtusifolius,D. intricatus, Shorea siamensis,and Shorea obtusa. In Cambodia, the deciduous dipterocarp forest occurs in the lowlands,and is dominated by Dipterocarpus tuberculatus,D. obtusifolius, $D$ intricatus， Shorea obtusa, and S. siamensis. Other frequent trees are Albizia, Azadirachta, Capparis, Cratoxylum, Dalbergia, Irvingia, Memecylon,Randia, Terminalia and Xylia.
+
+# 3.7Dry thorny thickets /Woodland/Savanna
+
+Dry thorny thickets and woodlands are included in savanna in the broad sense.Dry thorny thickets are distributed mainly in the central basin of Myanmar and dominated by Acacia, Zizyphus， Anogeissus， Euphorbia， Capparis, Jatropha， Lagerstroemia， Osyris，Carissa， and Opuntia. The so-called woodlands are the transitional type between dry thorny thickets and monsoon forests.They occur widely in northwestern Thailand, Vietnam,Laos and Cambodia,and are dominated by Dipterocarpus obtusifolius,D. tuberculatus,D. intricatus， Shorea siamensis, Shorea obtusa, Canarium kerii, Vitex pubescens, V. penduncularis, Gardenia spp. Phyllanthus emblica， Strychnos nux-vomica， and Melanorrhoea usitata. Undergrowth commonly includes Cycas, Zizyphus, Cratoxylum, and Arundinaria.Pinus merkusii is often among them.
+
+# Acknowledgments
+
+I thank Southeast Asia Biodiversity Research Institute, Chinese Academy of Sciences (CAS-SEABRI), who invited me to give a lecture to the vegetation of mainland Southeast Asia. I thank Prof.Richard Corlettfor his help in English polishing and valuable comments.I also thank reviewers’ constructive suggestions on this article.
+
+# References
+
+ASHTON P,2014. On the Forests of Tropical Asia [M].London: The Board of Trustees of the Royal Botanic Gardens, Kew. Pp. 1-670.   
+ASHTON P, 2OO3. Floristic zonation of tree communities on wet tropical mountains revisited [J]. Perspect Plant Ecol, 6: 87-104.   
+AYE YY, PAMPASIT S, UMPONSTIRA C, et al, 2O14. Floristic composition, diversity and stand structure of tropical forests in Popa Mountain Park [J]. JEnviron Prot, 5: 1588-1602.   
+BEARD JS,1944. Climax vegetation in tropical America [J]. Ecology, 25: 127-158.   
+BEARD JS,1955. The classfication of tropical American vegetation types [J]. Ecology, 36: 359-412.   
+BLASCO F, BELLAN MF, AIZPURU M, 1996. A vegetation map of tropical continental Asia at scale 1:5 million [J]. J Veg Sci, 7: 623-634.   
+CHAMPION HG, 1936.A preliminary survey of the forest types of India and Burma [J].Indian For Records (New Series), silviculture 1. No.1: 1-286.   
+CREDNER TAW,1935. Siam das Land der Thai [M]. Stuttgart.   
+DY PHON P, 1970.La vegetation du sud-ouest du Cambodge [J]. Ann Fac SciPhnom Penh,121.   
+CORLETT RT, 2005. Vegetation [C]. The Physical Geography of Southeast Asia. Oxford: Oxford University Press.   
+CORLETTRT, 2014. Classfying tropical forests [C]. Tropical Forestry Handbook. DOI10.1007/978-3-642-41554-8_52-1. Berlin: Springer-Verlag Berlin Heidelberg.   
+DAVIS JH,1960.The forests of Burma[M].Florida: University of Mandalay and University of Florida.   
+GRUBB PJ,LLOYD JR,PENNINGTON TD,et al, 1964. A comparison of montane and lowland rain forest in Ecuador. I. The forest structure, physiognomy and floristics [J].JEcol, 51: 567-601.   
+HALL JB, SWAINE MD,1976. Classification and ecology of closed- canopy forest in Ghana [J] JEcol, 64: 913-953.   
+HALL JB, SWAINE MD,1981. Distribution and ecology of vascular plant in a tropical rain forest--Forest vegetation in Ghana//WERGER MJA，Geobotany 1，London: Dr W. Junk Publishers.   
+HTUN NZ, MIZOUE N, YOSHIDA S, 2011. Classifying tropical deciduous vegetation: A comparison of multiple approaches in Popa Mountain Park, Myanmar [J]. Int J Remote Sens, 32: 8935-8948.   
+MAXWELL JF, ELLIOTT S, 2001. Vegetation and vascular flora of Doi Sutep-Pui National Park, Northern Thailand [M]. Bangkok: Biodiversity Research and Training Program, Thai Studies in Biodiversity 5, 205p.   
+MARTIN MA，1973. Notes on the vegetation of the Cardamon Mountaions， Cambodia [J]. Garden's Bul, Singapore, 26: 213-222.   
+MCSHEA WJ, DAVIES SJ，BHUMPAKPHAN N， 2011. The ecology and conservation of seasonally dry forests in Asia [M]. Washington, D.C.: Smithsonian Institution Scholarly Press, 1-413.   
+NAKANISHI A， SUNGPALEE W, SRI-NGERNYUANG K， et al. Large variations in composition and spatial distribution of epiphyte biomass on large trees in a tropical montane forest of northern Thailand [J]. Plant Ecol, 217: 1157-1169.   
+OGAWA H, YODA K, KIRA T, 1961. A preliminary survey on the vegetation of Thailand [J]. Nat Life S.E. Asia (Kyoto), 1: 21-157.   
+PHENGKLAI C，NIYOMDHAM C，PREMRASMI C,et al， 1989.Peat swamp forest of Thailand [J]. Thai For Bull, 18: 1-42.   
+RICHARDS P W, 1983. The tree dimensional structure of tropical rain forest. /Sutto SL, Tropical rain forest: ecology and management. Oxford: Blackwell Sci. Pub., 3-10.   
+RICHARDS P W, 1996. The tropical rain forest an ecological study [M]. London: Second edition. Cambridge University. Press.   
+ROBBINS RG, 1968.The biogeography of tropical rain forest in SE Asia[M].// Misra R, Gopal B，Proceedings of the Symposium in Recent Advances in Tropical Ecology. Varansi: International Society for Tropical Ecology, Banaras Hindu University, 531-535.   
+ROLLETB,1972. La vegetation du Cambodge [J]. Boiset For Des Trop,144: 3-15,145,24-38, 146, 4-20.   
+SANTISUK T，1988.An account of the vegetation of northern Thailand [M]. Stuttrt: Geoecological Research 5, Franz Steiner Verlag Wiesbaden GMBH,101.   
+SCHIMPER AFW,1903.Plant-geography upon a physiological basis [M]. Oxford: Oxford University Press.   
+SCHMID M, 1974. Vegetation du Viet Nam [M]. Paris: Memoire OR- STOM, 74, p. 243.   
+SMITINAND T, 1966. The vegetation of Dao Chiengdao,a limestone massive in Chiengmai, north Thailand [J]. The Nat Hist Bull Siam Soc,21(1-2): 93-128.   
+STAMP LD，1925. Vegetation of Burma, from an ecological standpoint [M]. Calcutta: Thacker, Spink & Co.   
+THIN NN,1997. The vegetation of Cucphuong national park, Vietnam [J]. Sida,17: 719-759.   
+VIDAL JE,1960. The forests of Laos [J]. Bois Et Forets Des Tropiques,1960: 5-21.   
+VIDAL JE,1972. La vegetation du Laos [M]. Vientiane: Vithagna: 120.   
+VIDAL JE,1997, Paysages végetaux et plantes de la péninsule indochinoise[M]. Paris: Editions Karthala: 245   
+WALTER H,1971. Ecology of tropical and subtropical vegetation [M]. Edinburgh: Oliver & Boyd.   
+WEBB LJ,1959. A physiognomic classification of Australian rain forests [J]. JEcol, 47: 551-570.   
+WHITMORE TC,1984.Tropical rain forests of Far East (Second edition) [M]. Oxford: Clarendon Press.   
+WHITMORE TC,1990.An introduction to tropical rain forests [M]. Oxford: Clarendon Press.   
+WU ZY,1987. Vegetation of Yunnan [M]. Beijing: Science Press: 143-163.[吴征镒，1987.云南 植被 [M]．北京：科学出版社:143-163.]   
+ZHU H,1997. Ecological and biogeographical studies on the tropical rain forest of south Yunnan, SW China with a special reference to its relation with rain forests of tropical Asia [J]. J Biogeogr, 24: 647-662.   
+ZHU H, 2O04.A tropical seasonal rain forest at its altitudinal and latitudinal limits in southern Yunnan, SW China [J]. Gardens' Bull Singapore, 56: 55-72.   
+ZHU H, 2006.Forest vegetation of Xishuangbanna, South China [J]. Forestry Stud China, 8(2): 1-58.   
+ZHU H, 2O09. Read the Nature -- Geological Wonder and Vegetation Geography of the Three Parallel Rivers Region in Northwest Yunnan [M]. Beijing: Science Press: 1-155.[朱华,2009. 解读自然----云南三江并流地区地质奇观与植被地理[M].北京：科学出版社:1-155.]   
+ZHU H,2O11. Tropical monsoon forest in Yunnan with comparison to the tropical rain forest [J]. Acta Phytoecol Sin,35(4): 463-470.[朱华,2011．云南热带季雨林及其与热带雨林植被的 比较[J]．植物生态学报,35 (4):463-470.]   
+ZHU H,2O17a.Floristic characteristics and afinities in Lao PDR,with a reference to the biogeography of the Indochina peninsula [J]. PLoS ONE,12(6): eO179966.   
+ZHU H, 2O17b.The tropical forests of southern China and conservation of biodiversity [J]. Bot Rev, 83: 87-105.   
+ZHU H,WANG H, LI BG, 1998. The structure， species composition and diversity of the limestone vegetation in Xishuangbanna, SW China [J]. Gardens’ Bull Singapore, 50: 5-33.   
+ZHU H,WANG H,LI BG, 2OO4. Plant diversity and physiognomy of a tropical montane rain forest in Mengsong, southern Yunnan, China [J].Acta Phytoecol Sin, 28(3):351-360.[朱华, 王洪，李保贵，2004．滇南勐宋热带山地雨林的物种多样性与生态学特征 [J]．植物生态 学报,28(3): 351-360.]   
+ZHU H, SHI JP, ZHAO CJ, 2O05. Species composition, physiognomy and plant diversity of the tropical montane evergreen broad-leaved forest in southern Yunnan [J]. Biodivers Conserv, 14: 2855-2870.   
+ZHU H, CAO M,HU HB,2O06a. Geological history, flora, and vegetation of Xishuangbanna, southern Yunnan, China [J]. Biotropica, 38: 310-31.   
+ZHU H, WANG H,LI BG, 2OO6b. Species composition and biogeography of tropical montane rain forest in southern Yunnan of China. Gardens’ Bull Singapore, 58: 81-132.   
+ZHU H, WANG H, LI BG, et al,2O15a. Studies on the forest vegetation of Xishuangbanna [J]. Plant SciJ,33(5):641-726.[朱华，王洪，李保贵，等，2015．西双版纳森林植被研究[J] 植物科学学报,33(5):641-726]   
+ZHU H, CHAI Y, ZHOU SS,et al, 2015b. Vegetation,floristic composition and species diversity in a tropical mountain nature reserve in southern Yunnan, SW China with implications to conservation [J]. Trop Conserv Sci, 8(2): 528-546.

@@ -1,0 +1,213 @@
+# 近50年气候变化对青藏高原牧草生产潜力及物候期的影响
+
+赵雪雁 万文玉 王伟军(西北师范大学地理与环境科学学院 兰州 730070)
+
+摘要基于青藏高原及周边107个气象站点1965—2013年逐月气温、降水及日照时数等气象数据，分析了1965年以来青藏高原区的气候变化趋势，并采用 MODIS 数据、Thornthwaite Memorial模型及GIS 技术分析了近50a青藏高原牧草气候生产潜力及其时空变化特征；利用连续22a的青藏高原牧草生育期观测数据，探讨了牧草生育期的时空变化特征及气象因子与牧草主要发育期的关系。结果表明：1)近 $5 0 \mathrm { ~ a ~ }$ 青藏高原平均气温呈上升趋势，升温幅度达 $0 . 5 3 \ : \ : \mathrm { ~ \textdegree ~ } { } . ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，降水量总体呈现上升趋势，但增加幅度较小，其倾向率为 $7 . 8 1 ~ \mathrm { { \ m m } \cdot ( 1 0 a ) ^ { - 1 } }$ ；而日照时数呈下降趋势，其下降幅度为 $1 6 . 9 4 ~ \mathrm { h } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ 。2)1965—2013年青藏高原牧草气候生产潜力总体呈增加趋势，在空间上，由西北向东南依次增加，青海省北部及南部部分地区气候生产潜力上升幅度较大，而西藏东部上升幅度较小，且南北部地区差异较大。3)牧草返青期、抽穗期及开花期均呈提前趋势，而黄枯期呈现推迟趋势，从而延长了牧草物候期；由东南向西北牧草返青期逐渐推迟，而黄枯期主要出现在一年中的第 $2 5 7 { \sim } 2 8 9 \ \mathrm { ~ d ~ }$ 其空间整体差异不如返青期明显。4)温度和降水均与牧草物候期呈显著正相关，而日照时数与其呈显著负相关，且温度是影响牧草物候期变化的主要因子。利用青藏高原牧草生产潜力及物候期与气候因子的响应规律，可为提高该区牧草的实际产量和保护青藏高原草地生态系统提供借鉴和依据。
+
+关键词青藏高原气候变化草地植被气候生产潜力物候期中图分类号：P467; $\mathrm { S } 1 6 2 . 5 \substack { + 3 }$ 文献标识码：A 文章编号:1671-3990(2016)04-0532-12
+
+# Impact of climate change on potential productivity and phenological phase of forage in the Qinghai-Tibet Plateau in the past 5O years
+
+ZHAO Xueyan, WAN Wenyu, WANG Weijun (College of Geographyand Environmental Sciences,Northwest Normal University,Lanzhou 73oo70,China)
+
+AbstractThe Qinghai-Tibet Plateau isconsideredtobeideal region forstudying theresponseof natural ecosystems to climate changebecause its’mountainous environments isoneof themostfragileofthe globalecosystems.The impactsofthe changes in temperature and precipitation on the phenology variedamong different grassands.After experiencingadistinct warming inrecentdecades，some studies noted thatremarkable variations invegetation inthe Qinghai-Tibet Plateau were potentiallydue toclimatechange.Inorder todeterminethe impactsofclimatechangeonvegetationphenologyand potential productivity,thispaperused meteorological dataduring 1965-20l3 in the Qinghai-TibetPlateau(e.g.monthlytemperature, precipitation and sunshineduration)of107meteorological stations,andextractedvegetation phenological indices using MODIS-derived normalizeddifferencevegetation indexdataduring 20o-20l3,andusedtheThornthwaite Memorialmodel and GIStechniques toanalyze thespatialand temporal trendsof potential climate-driven forageproductivityin the Qinghai-Tibet Plateau.Then byanalyzing 22years of continuousobservation dataof growth stages of forage in the
+
+Qinghai-Tibet Plateau,therelationshipbetween meteorological factors and major growth stages of forage was determined. Also the driving factors of thedynamics of potential climate productivity in the Qinghai-Tibet Plateau were determined. Furthermore,the relationship between temperature or precipitation and sunshine duration during forage growth period was determined based on regresionanalysis.Theresults showed that the potential climate productivityof forage in the Qinghai-Tibet Plateau was consistently varied with geographical regionandspatial temperature distribution.Average temperature in the Qinghai-Tibet Plateau rose during the nearly 50-year period, increasing by $0 . 5 3 \ \mathrm { ~ \textcircled { C } } \cdot ( 1 0 \mathrm { { a } ) } ^ { - 1 }$ . Precipitation generally increased at the rate of $7 . 8 1 ~ \mathrm { m m } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，while sunshine duration decreased by $1 6 . 9 4 ~ \mathrm { h } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ . Potential climate productivityofforage inthe Qinghai-Tibet Plateaupresentedanincreasing trendfrom1965to2O13,and spatialchanges of the productivity,intur,increased fromnorthwesttosoutheast.Thenpotentialclimateproductivityofforage inthenorthand southin the plateausignificantly increasedand there was lessvariation intheeastofthe plateau.Furthermore,theregreening, headingand blosoming offorages advanced,while yellowing and withering delayed year after year,which extended the forages phenological phases.Regrening stageofforage delayed fromsoutheast to northwest,although withering stage showed no obvious change.Underdrierand warmerconditions,phenologicalperiods of grasland vegetationin theregionbecame closelyrelated toclimate change.Then precipitation and sunshineduration were negatively corelated with phenological period ofthe grassand vegetation.Temperature was the dominantconstraint onphenological phases of grassand vegetation in the study area.The study formed a relevant reference and basis for the protection of grassand ecosystems and enhancing potential climate productivity in Qinghai-Tibet Plateau.
+
+KeyWordsQinghai-Tibet Plateau; Climatechange; Grasland vegetation; Potentialclimate productivity; Phenologicalperiod
+
+气候变化是21世纪全球面临的一个重大问题[1]这已成为不争的科学事实，尤其全球变暖已经引起国际社会的广泛关注。IPCC第5次评估报告指出,全球地表持续升温，1880—2012年全球平均温度已升高 $0 . 8 5 \mathrm { ~ \ } \mathrm { { ~ C ~ } }$ ，在北半球，1983—2012年可能是最近1 400a中气温最高的 $3 0 \mathrm { ~ a } ^ { [ 2 ] }$ 。气候变化是影响植被活动年际变化的重要因素，草地作为陆地生态系统的主体，对气候变化的响应非常敏感，全球气候变化必然引起牧草生长环境的变化，进而影响牧草的生长动态及其结构和功能[3]。当前，研究和了解气候变化对草原生态系统的影响已成为气候变化适应性研究领域的重大课题，气候变化对牧草生产潜力、生长季、物候期的影响等已成为学者关注的热点[4-5]
+
+草地是我国陆地生态系统最大的天然屏障，占我国国土面积的1/3，主要分布在西北干旱半干旱区、青藏高原区和内蒙古高原区等全球变化敏感地带。近年来，在全球气候变化和人类活动的影响下，草地生态系统发生明显变化，这不仅使我国畜牧业发展遭到严重影响，更使我国生态安全遭受严峻挑战[6-8]。其中，青藏高原区草地面积达 $1 . 6 { \times } 1 0 ^ { 6 } \ \mathrm { k m } ^ { 2 }$ ，约占其总面积的 $6 3 . 9 \% ^ { [ 9 ] }$ ，使得该区不仅成为我国重要的牧区，更成为重要的生态屏障[10]。青藏高原不仅是气候变化的敏感区，同样也是典型的生态环境脆弱区，作为“全球气候变化的驱动器与放大镜”对全球变化具有敏感响应和强烈影响[11-13]，气候的微弱变化就可能导致植被结构破坏和功能变化，甚至是植被带的变迁[14]。受气候显著变暖的影响[15],近几十年来该区牧草生产力、物候期及生长季均发生显著变化，这不仅影响到我国畜牧业的发展，更影响到我国的生态安全。罗永忠等[l采用Miami和ThornthwaiteMemorial模型对近40a甘肃省气候生产潜力时空变化特征的研究发现，甘肃省气候生产潜力呈由东南向西北递减的趋势，且增湿和增温均有利于气候生产潜力的增加；段晓凤等[17在研究分析宁夏盐池牧草返青期及生产潜力时发现，牧草返青呈现逐年提前的趋势，且随着气温升高、降水略微增加，气候生产潜力呈现出增加的趋势，但幅度较小，且水分是宁夏牧草气候生产潜力的主要限制因子；宋春桥等[18]通过遥感监测研究了藏北高原植被物候时空动态变化，发现其返青期在空间上表现出由东南向西北逐渐推迟的趋势，而枯黄期变化不太明显，且返青期提前及生长季延长主要受气温升高的影响。当前，有关牧草方面的研究主要集中在对牧草气候生产潜力的影响因子等方面，而对影响牧草发育过程及物候的因素方面研究极少，因此，急需了解青藏高原区牧草生产潜力、物候期及生长季的时空差异，探明青藏高原区牧草生产潜力及物候期对气候变化的响应规律。为此，本文基于1965—2013年逐月气温、降水、日照时数等气象数据及1992—2013年的牧草生育期观测数据，采用MODIS数据、ThornthwaiteMemorial模型及GIS技术分析了青藏高原牧草生产潜力及物候期的时空格局变化特征及气象因子与牧草主要发育期的关系，旨在为保护青藏高原草地生态系统、指导畜牧业生产提供借鉴和依据。
+
+# 1 研究区概况
+
+青藏高原位于 $2 8 ^ { \circ } 3 2 ^ { \prime } { \sim } 4 0 ^ { \circ } 0 1 ^ { \prime } \mathrm { N }$ $7 8 ^ { \circ } 2 7 ^ { \prime } { \sim } 1 0 4 ^ { \circ } 4 3 ^ { \prime } \mathrm { E }$ 面积 $2 3 0 \times 1 0 ^ { 4 } \mathrm { k m } ^ { 2 }$ 。本文的研究范围主要包括西藏自治区和青海省全部、四川省西部、新疆维吾尔自治区南部以及甘肃、云南的一部分。研究区平均海拔$4 0 0 0 \mathrm { m }$ 以上，气候类型复杂多样，东南部暖热湿润，西北部寒冷干旱；大部分地区年均温度在 $0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 以下，最热月平均温度 $5 . 5 { \sim } 1 3 . 6 \mathrm { ~ \normalfont ~ \circ ~ }$ ，降水主要受西南季风控制，东南部年均降水量 ${ > } 4 0 0 \mathrm { m m }$ ，西北部不足 $1 0 0 \mathrm { m m }$ 降水量自东南向西北逐渐减少，且降水季节分配极不均匀，雨季和旱季分异明显。
+
+青藏高原作为世界第三极，植被类型丰富，但近年来该区草地退化严重，退化草地面积已占该区草地面积的1/3。该区草地植被主要包括高寒灌丛草甸、高寒草原、高寒荒漠以及高寒草甸植被等类型[19]。其中，高寒草甸主要分布于高原东部，分布区海拔 $3 ~ 2 0 0 { \sim } 5 ~ 2 0 0 ~ \mathrm { m }$ ，年均温 $0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 以下，年降水量$4 0 0 { \sim } 7 0 0 ~ \mathrm { m m }$ ；高寒草原主要分布于高原中西部以及昆仑山和祁连山等地区，分布区海拔高、寒冷而干旱；温性草原主要分布于高原东部的湟水流域，分布区气温较高，年降水量 $3 5 0 ~ \mathrm { m m }$ 左右[10]。
+
+# 2数据来源与研究方法
+
+# 2.1 数据来源
+
+气象数据来源于中国气象科学数据共享服务网(http://cdc.cma.gov.cn/home.do)地面气候资料和农业气象资料。本文选取青藏高原及周边地区107个气象站点(图1)1965—2013年逐月平均温度、平均降水量、日照时数等气象资料以及1991—2013年中国农作物生长发育和农田土壤湿度旬值数据集中的牧草发育期数据。
+
+![](images/fbeeda87046e5e08d96e2712ffb4ed25f183dada4d89c3c4ae2ba63f32f8a87b.jpg)  
+图1研究区域气象站点分布 Fig. 1 Distribution of the meteorological stations in the study area of in the Qinghai-TibetPlateau
+
+# 2.2 研究方法
+
+# 2.2.1 青藏高原气候变化趋势分析
+
+青藏高原区牧草一般生长季为4—10月，牧草生长季平均气温、降水量和日照时数计算方法采用各气象站点每年4—10月逐日数据进行平均或求和,对于其中个别缺测数据采用线性插值法或均值化等方法进行补插，所有趋势方程采用线性回归拟合[20]。牧草生长季 $\geqslant 0$ ℃及 $\geqslant 5$ ℃有效积温的计算方法同降水量和日照时数。气象要素在不同时间上的空间分布利用GIS空间插值技术绘制[21]。
+
+为进一步了解温度、降水量、日照时数等气候因子对青藏高原区牧草不同生长期的影响，本研究不仅分析了近50年来青藏高原牧草生长季的积温、降水量和日照时数的时空变化，还分析了牧草关键生长期的气温、降水量和日照时数的时空变化。
+
+# 2.2.2 牧草生产潜力的估算
+
+牧草生产潜力是牧草本身遗传性状与其生育期间的各环境条件相结合而形成的，在其他因素不变的情况下，生育期期间的气候条件对其产量的形成影响最大。为了分析牧草气候生产潜力的时空格局！本文仅采用 Thornthwaite Memorial 模型[22-23]对研究区草地气候生产潜力进行估算：
+
+$$
+T _ { \mathrm { s p v } } = 3 0 ~ 0 0 0 \times \left[ 1 - { \mathrm e } ^ { - 0 . 0 0 0 ~ 9 6 9 ~ 5 \left( \nu - 2 0 \right) } \right]
+$$
+
+$$
+V = \left\{ \begin{array} { c c } { { 1 . 0 5 P / \sqrt { 1 + \left( { 1 . 0 5 P / L } \right) ^ { 2 } } } } & { { ( P \gtrsim 0 . 3 1 6 L ) } } \\ { { P } } & { { ( P < 0 . 3 1 6 L ) } } \end{array} \right.
+$$
+
+$$
+L = 3 0 0 + 2 5 T + 0 . 0 5 T ^ { 3 }
+$$
+
+式中： $T _ { \mathrm { s p v } }$ 为气候生产潜力 $( \mathbf { g } \cdot \mathbf { m } ^ { - 2 } { \cdot } \mathbf { a } ^ { - 1 } )$ ： $V$ 为年平均实际蒸散量， $\mathrm { m m } ; L$ 为年平均蒸散量， $\mathrm { m m }$ · $T$ 为年平均气温， $\mathrm { { } ^ { \circ } C }$ ，表征为年平均温度的经验函数； $P$ 为年平均降水量 $( \mathrm { m m } )$ 0
+
+# 2.2.3 牧草物候期的估算
+
+通常牧草在日平均气温5 $\mathrm { { } ^ { \circ } C }$ 时开始发育[24]，牧草生长季长度即为各气象站点每年4—10月逐日气温均高于5℃的天数；并选取青藏高原及周边地区107个气象站点1991—2013年中国农作物生长发育和农田土壤湿度旬值数据集中的牧草发育期数据确定牧草的返青期、开花期、抽穗期及黄枯期数据，其中个别缺测数据采用线性插值法或均值化等方法进行补插。
+
+通过阈值法[23对物候参数进行反演，即根据NDVI时间序列中各个生长季内的NDVI值在最大值和最小值之间确定一组阈值，其中，NDVI值上升过程中达到某对应阈值的时刻确定为返青期，NDVI值下降过程中达到的某对应阈值的时刻确定为黄枯期。
+
+# 3 结果与分析
+
+# 3.1青藏高原气候变化趋势
+
+# 3.1.1近 ${ \bf 5 0 ~ a }$ 气候变化趋势
+
+近50a青藏高原气温呈上升趋势，升温幅度达$0 . 5 3 \ \mathrm { ~ \textcircled { C } } \cdot \left( 1 0 \mathrm { { a } } \right) ^ { - 1 }$ ；从趋势线来看，青藏高原1965—1986年气温均居平均值之下，1987—1997年气温呈上升趋势，且从1998年开始，其上升幅度增加(图 2a)。降水量总体呈上升趋势，但增加幅度较小，其倾向率为 $7 . 8 1 ~ \mathrm { m m } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，其中,1997—1998年降水量变幅最明显，1998年降水量达到历年最大(图2b)。但近50年日照时数呈下降趋势，每 $1 0 \mathrm { ~ a ~ }$ 减少 $1 6 . 9 4 \mathrm { h }$ ，其中，1986年日照时数为 $5 0 \mathrm { a }$ 间的最高值，达 $2 7 8 0 \mathrm { h }$ 而1988年为 $5 0 \mathrm { ~ a ~ }$ 间最低值，为 $2 5 8 4 { \mathrm { h } }$ (图2c)。
+
+![](images/de7cd35d91f67ede948e7ea35b7675a604ab6a7c1ba266ac7131f07b1784b238.jpg)  
+图21965—2013年青藏高原平均气温(a)、降水量(b)和日照时数(c)变化趋势  
+Fig.2The variation trends of the mean temperature (a), precipitation (b) and sunshine duration(c) in the Qinghai-TibetPlateaufrom1965 to 2013
+
+# 3.1.2 牧草生长季气候变化趋势
+
+青藏高原天然草地多为禾本科牧草，其生长季包括返青、抽穗、开花成熟及枯黄。一般每年4—10月为青藏高原区牧草的主要生长季。其中，从3月下旬开始，陆续返青生长，6月基本结束;8月中下旬陆续成熟，9—10月枯黄。
+
+从图3可以看出，近50a青藏高原牧草生长季平均气温呈上升趋势，升温幅度达 $0 . 4 8 \ \mathrm { ~ \textdegree ~ } . ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，高于中国近50a平均地表气温的上升速率 $0 . 2 2 \ ^ { \circ } \mathrm { C } \cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 }$ 同时也明显高于全球或北半球同期平均增温速率$0 . 1 3 ~ \mathrm { ^ circ C } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，说明该区域近 $5 0 \mathrm { a }$ 增温较为明显[16,25];年平均气温的年际变化也显示，从20世纪60 年代至21世纪以来，青藏高原牧草生长季气温呈持续上升趋势，这与全球变暖的趋势相符。1965—2013年青藏高原牧草生长季降水量呈上升趋势，其上升幅度达 $0 . 3 4 ~ \mathrm { m m } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，其降水量变化不大，说明降水量的波动是气候自然振动的结果。1991年至今基本为少水时段，尤其是进入2001年以来，降水量下降趋势明显，表明该区的干旱有加重趋势。其中，1965—1994年间年降水量较低，1995—2004年降水量上升趋势明显，而自2005年之后又出现下降趋势。1965—2013年牧草生长季日照时数总体呈下降趋势，其倾向率为 $- 2 3 \mathrm { h } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，其中,20世纪60年代中期—80年代中期，日照时数呈上升趋势，但20世纪80年代中期之后，日照时数明显呈下降趋势。
+
+在青藏高原，日均温 $\geqslant 0$ $\mathrm { { } ^ { \circ } C }$ 时积雪融化，土壤开始解冻，高寒草甸植物开始萌动；日均温 $\geqslant 5 \mathrm { ~ \ ^ ~ }$ 时，冷季牧草积极生长[26]，因此, $\geqslant 0 \ \mathrm { ~ \stackrel { ~ } { ~ C ~ } ~ }$ 和 $\geqslant 5 \mathrm { ~ \ ^ { \circ } C ~ }$ 积温可在一定程度上表征青藏高原主要植物的生长特征。从青藏高原牧草生长季 $\geqslant 0 \ ^ { \circ } \mathrm { C }$ 与 $\geqslant 5 \ \mathrm { ^ \circ C }$ 积温空间分布图(图4)可以看出，青藏高原 $\geqslant 0$ ℃和 $\geqslant 5$ ℃积温从西北向东南逐渐上升，其大部分地区 $\geqslant 0$ $\mathrm { { } ^ { \circ } C }$ 与$\geqslant 5 \mathrm { ~ \ ~ } ^ { \circ } \mathrm { ~ C ~ }$ 积温一致呈显著增大的趋势；青藏高原东南部、东北部即甘肃省甘南藏族自治州、四川、云南以及西藏少部分地区牧草生长季积温较高，多达 $2 0 0 0 \mathrm { ~ \textdegree C }$ 以上[27]；而西部与中部，即青南、果洛、那曲以及羌塘一带 $\geqslant 0 \ \mathrm { ^ \circ C }$ 与 $\geqslant 5 \ \mathrm { ^ \circ C }$ 积温较低，其中西藏北部、青海西南部分地区 $\geqslant 5 \ \mathrm { ^ \circ C }$ 积温仅达 $1 5 0 0 ^ { \circ } \mathrm { C }$ 左右。
+
+从降水的空间分布也可以看出(图5)，牧草生长季降水量自青藏高原西北内陆向东南部的雅鲁藏布江谷地逐渐增加。其中，西藏西北地区、青藏高原西北噶尔县及青海柴达木盆地较为干旱，降水在$4 0 0 ~ \mathrm { { m m } }$ 以下，不适合牧草生长；中部降水量虽不足以满足牧草生长季的需水要求，但加以人工灌溉，
+
+Peci量tation ushine duration 气温perature10050 -03001448-27 4）= 0030 80 10.51965- 1975- 1985- 1995- 2005-1974 1984 1994 2004 2013年份Year 年份Year
+
+![](images/8867066f1dc909c5ad975b656764cb0fbb2f844e18079da84813b22348e528c9.jpg)  
+图31965—2013年青藏高原牧草生长季平均气温、降水量和日照时数变化趋势Fig.3Thevariation trendsofthe mean temperature,precipitatioandsunshinedurationduringthegrowth priodofforages intheQinghai-Tibet Plateau from l965 to 2013  
+图4青藏高原牧草生长季日平均气温 $\geq \mathbf { 0 } \ \mathrm { \circ }$ 和 $\geqslant 5 ~ \mathrm { ^ { \circ } C }$ 积温空间分布图 Fig.4Spatial distribution of the accumulated temperature above $0 \ \mathrm { { ^ \circ C } }$ and $5 \ \mathrm { { ^ \circ C } }$ of the growth period of forages in the Qinghai-Tibet Plateau
+
+![](images/e9b62c04e01e235526e347e35c6e80c15e0db8ba14602de16bb24df59d067c80.jpg)  
+图5青藏高原牧草生长季降水量和日照时数的空间分布图 Fig.5Spatialdistributionof precipitationand sunshinedurationofthe growthperiodofforages inthe Qinghai-TibetPlateau
+
+可适于牧草种植；而东南部的四川阿坝、甘孜等地区降水均在 $4 0 0 \ \mathrm { m m }$ 以上，可满足牧草生长季的需水量。总体来看，青藏高原西北部一些地区气温上升和降水量减少使该区呈现暖干化趋势，而东南部一些地区则出现暖湿化趋势[28]。从日照时数的空间分布来看(图5)，呈现高原东南部较少，逐渐向西北部增加的趋势。其中，低值区位于高原南部泽当镇、林芝县附近，为 $1 ~ 8 5 0 \mathrm { ~ h ~ }$ 左右，中部地区日照时数约$2 \ 2 0 0 \ \mathrm { h }$ ，而最高值位于西藏噶尔县和青海柴达木地区，达 $3 \ 0 0 0 \ \mathrm { h }$ 左右。
+
+# 3.1.3牧草关键生长期气候变化趋势
+
+返青期与抽穗一开花期是牧草的关键生产期，通常牧草抽穗一开花期所需的气温与降水量均高于返青期，而日照时数则低于返青期。
+
+近50a青藏高原牧草关键生长期平均气温呈上升趋势，其中，年平均气温的年代际变化显示，牧草返青期升温幅度达 $3 . 4 ~ \mathrm { ~ \textdegree } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，抽穗—开花期为$0 . 7 ~ \mathrm { ^ { \circ } C \cdot ( 1 0 a ) ^ { - 1 } }$ (图6a)。同时，牧草返青期与抽穗一开花期降水量均呈上升趋势，但变幅较小，倾向率分别为$1 2 7 . 3 \ : \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 和 $2 2 . 0 \operatorname { m m } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 } ( \bigtriangledowns \operatorname { 6 b } ) .$ 。而日照时数在这一时期出现下降-上升-下降的现象。20世纪60年代中期—70 年代中期，开花—成熟期气温较高，而后下降，自70年代中期至21世纪气温上升，这一阶段降水量发生了下降-上升-下降的变化趋势。20世纪60年代中期—80 年代中期，关键生长期日照时数呈现上升趋势，20世纪80年代中期之后，日照时数明显有所降低。从整体上来看，青藏高原牧草关键生长期日照时数呈下降趋势，返青期下降幅度为 $- 3 5 0 . 0 ~ \mathrm { h } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ 抽穗—开花期为 $- 1 7 9 . 6 \mathrm { h } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ (图6c)。
+
+# 3.2 青藏高原牧草生产潜力的时空变化
+
+如图 $\mathrm { 7 a }$ 所示，近 $5 0 \mathrm { a }$ 来青藏高原牧草气候生产潜力除有些年份下降外，总体呈上升趋势，但增幅较小，每 $1 0 \mathrm { ~ a ~ }$ 约增加 $1 3 6 . 7 \ \mathrm { g } { \cdot } \mathrm { m } ^ { - 2 }$ ，多年平均值为 $7 0 6 \mathrm { g } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ 其范围为 $6 2 0 { \sim } 7 6 0 \ \mathrm { g } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ 。从年际变化上看,20 世纪60年代中期一90年代中期，青藏高原牧草气候生产潜力增加幅度较大，但其值均低于年平均值，而20世纪90年代中期以来气候生产潜力值均大于平均值，但增加幅度较缓慢(图7b)。
+
+a 返青期 抽穗—开花期 Regreening stage Heading-flowering stage 800 600 4030 1 0 ()nrrnp gnrrenn b 2500 日 三 C 17 9 eret 票 5 1965— 1975— 1985— 1995— 2005- 1974 1984 1994 2004 2013 年份Year
+
+a b 800 ee 700 气生产ntialproductity 1 变化势 trend 650 y=1.896 4x+ 658.65 R² = 0.643 2 600 1965—1974 1975—1984 1985—1994 1995—2004 2005—2013 年份Year
+
+从气候生产潜力的空间分布可以看出，青藏高原牧草生产潜力空间分异非常显著，由西北向东南依次增加，高值区在青藏高原东南部，即藏南、四川与云南等地，最高值可达 $1 \ 1 6 8 \ \mathrm { g } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ ；低值区在青海西北部，最低值只有 $4 \ \mathrm { g } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ ，南北部地区差异较大(图 8a)。相较于1965—1974年，2004—2013年川西藏东、云南地区以及青南、果洛那曲及羌塘地区牧草气候生产潜力增幅较大，而西藏西北部、柴达木与青东祁连地区牧草气候生产潜力增幅较小(图 8b)。比较 1965—1974 年与 2004—2013 年牧草气候生产潜力，发现青藏高原大部分地区牧草气候生产潜力均呈增加趋势，其中，高原中部地区增加较显著。通过比较，2004—2013年比1965—1974年中部地区牧草气候生产潜力增加 $1 5 0 { \sim } 2 5 0 \ \mathrm { g { \cdot } m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ ，而青藏高原东南部边缘、青海柴达木北部、西藏西北部由于受气温和降水等的影响而发生不同程度的下降，其中，西藏林芝地区下降最显著，达500$\mathbf { g } \cdot \mathbf { m } ^ { - 2 } { \cdot } \mathbf { a } ^ { - 1 }$ 左右。
+
+![](images/0b84e1323b4c1e91f8ff8770561c3f1de31694e5474e2f6d9996cfa4f1e52a48.jpg)  
+图81965—1974年(a)和2004—2013年(b)青藏高原牧草气候生产潜力Fig.8Spatialdistributionofclimatepotentialproductivityofforages intheQinghai-TibetPlateaufroml965to1974(a)and2004 to 2013 (b)  
+图91991—2013年青藏高原牧草物候期变化Fig.9Change of the phenological phases of forages in theQinghai-TibetPlateau from 1991 to 2013
+
+# 3.3 青藏高原牧草物候期与生长季的时空变化
+
+# 3.3.1 牧草物候期变化趋势
+
+自然物候变化是气候与自然环境变化的综合指标[29]，它是气候变化最直观的植物信号记录。通常牧草在日平均气温 $5 \mathrm { ~ \textdegree C }$ 时开始发育[24]，近年来，牧草返青期气温逐年增加，致使该区牧草发育过程加快，如图9所示，牧草返青期总体呈提前趋势，其倾向率为 $- 7 . 4 ~ \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，即返青期每10 a提前7\~8 d;牧草抽穗期与开花期也逐年提前，其倾向率分别为$- 6 . 2 ~ \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ 银 $- 6 . 4 ~ \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，即抽穗期与开花期每$1 0 \mathrm { ~ a ~ }$ 提前 $6 { \sim } 7 \mathrm { d } _ { \circ }$ 同时，青藏高原牧草黄枯期推迟，倾向率为 $2 . 1 \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，即每 $1 0 \mathrm { ~ a ~ }$ 推迟 $2 { \sim } 3 \ \mathrm { d } _ { \circ }$ 总体来看,近50a气候变化使青藏高原区牧草的生长期延长，倾向率为 $1 1 . 2 \ : \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，即每 $1 0 \mathrm { a }$ 延长11\~12 d(图8)。显著性检验显示，青藏高原牧草生长季变化趋势最为显著，其次为返青期，而黄枯期变化趋势显著性较弱。
+
+# 3.3.2 牧草物候期的空间变化
+
+青藏高原牧草返青期多从3月下旬开始，一直持续到6月份，即主要出现在每年的第 $1 2 9 { \sim } 1 7 7 \ \mathrm { d } ,$ 且由东南向西北逐渐推迟。其中，在青藏高原东南部地势较低的河谷地区，返青期早于129d，而海拔较高的区域(如黄河、长江及雅鲁藏布江源头处)返青期晚于 $1 7 7 \mathrm { d } _ { \circ }$ 总体来看，东部海拔较低的谷地地区
+
+←返青期Regreening stage开花期Flowering stage12-02 抽穗期 Heading stage\*黄枯期 Withered stagey= 0212.5x+ 42 26008-24 y=-0.6358x+42 204R²=0.160807-050.618 9x+42142R²=0.118 405-16中0.7352x+42125日 03-27 R²=0.40421991 1995 1999 2003 2007 2011年份Year
+
+牧草在4月中下旬开始返青，随着海拔增高及向西北部扩展，牧草返青期推迟。例如，那曲县东南部的牧草在5月上旬开始返青，而中北部及安多和聂荣大部分地区的牧草返青期为5月中旬；西部申扎和班戈境内的牧草返青时间则出现在5月上中旬、5月下旬及以后；尼玛和双湖境内大部分地区牧草返青出现在5月下旬，而昆仑山区牧草返青时间则推迟到6月(图10a)。从牧草返青期年际变化的空间分布来看(图10c)，整个青藏高原地区从东到西随着海拔升高，返青期逐渐推迟，变化幅度为 $1 { \sim } 1 0 \mathrm { ~ d ~ }$ ，生长季开始时间提前的区域主要集中在青藏高原中部、东南部，大部分在果洛、那曲及川西藏东地区，这与其在牧草生长过程中降雨增加与气温升高的共同作用有极大关系[18]；而返青期推迟的区域则多分布在班戈东南部及申扎南部、尼玛境内和那曲中、南部。
+
+青藏高原2001—2013年牧草黄枯期的空间格局相较返青期来说，没有明显的空间递变规律(图10b)。
+
+![](images/b0d0a1b3fd75a564f2183764743b272abd6115b2d03de007c508a0f28a4a86a6.jpg)  
+图102000—2013年青藏高原牧草返青期时间(a)和年际变化(b)、黄枯期时间(c)年际变化(d)空间分布图Fig.l0Spatial distributions ofregreening stage time(a)and itsinterannualchange(b),and withering stage time(c)and itsinterannual change (d) of forages in the Qinghai-Tibet Plateau from 2ooo to 2013
+
+青藏高原牧草黄枯期主要出现在一年中的第$2 5 7 { \sim } 2 8 9 \mathrm { ~ d ~ }$ ，其中，西藏自治区与青海省内牧草的黄枯期相对集中，部分地区牧草在10月份开始黄枯;而四川盆地部分地区的黄枯期出现在10月下旬，这与其降水多，牧草生长旺盛相关。青藏高原东部大部分地区的牧草在10月中下旬开始黄枯，如色林错湖沿东西方向的牧草，其黄枯期多出现在10月下旬甚至11月；中部的果洛、那曲、安多、申扎、聂荣及班戈等青南高原的牧草在10月上旬开始黄枯；而西北部的牧草在9月就开始黄枯。从图10d中可以看出，牧草黄枯期变化的区域主要集中在西藏、青海省境内，但变化幅度较短，其中，黄枯期提前的区域主要包括巴青、索县、安多及四川盆地、云南等少数地区，推迟区域则主要位于青南高原地区、昆仑高寒荒漠地带及尼玛中部区域。
+
+# 3.3.3 牧草生长季的空间变化
+
+由于青藏高原区面积大、地形复杂，温度与降水存在地域差异，致使牧草生长季出现明显的空间差异性。从牧草物候期的空间分布来看，青藏高原中部即青南、果洛、那曲及羌塘地区牧草生长季较短，而藏南地区生长季较长，其生长季多在一年中的 $1 2 0 { \sim } 1 9 0 \ \mathrm { d } _ { \circ }$ 从2004—2013年与1965—1974年生长季日数差值分布图来看，青藏高原牧草生长季变化存在明显的地域性[16]，其中，西藏西部牧草生长季延长，而柴达木、青东祁连、果洛那曲以及川西藏东、云南等地区牧草生长季缩短，但由于这些地区返青期明显提前和枯黄期推迟，其生长季总体上呈现延长趋势。从图11可以看出，西藏的聂拉木、定日等地牧草生长季增幅最大，而四川部分地区生长季降幅最大。究其原因，主要在于不同地区气温和降水对天然牧草的生长发育影响程度不同。已有研究也显示，对于半湿润地区，影响牧草返青的主要因素则是热量条件，而干旱、半干旱地区牧草返青期的提前与推迟则主要受制于水分条件，因此物候期与地理位置的关系模式也因气候变化而呈现出不稳定的特点[28]，且这两个气候因子对牧草物候期的影响不是独立的，而是相互制约的，温度变化对物候期的作用有一定的时滞性，物候期的提前与推迟对温度上升与下降的响应是非线性的[5,30-31]
+
+![](images/42d1113e44a194a1769c90eb831f52e9583918e42eb7d70be6a3cc9bc6fa2ccc.jpg)  
+图11青藏高原牧草生长季日数(2004—2013年,a)及 2004—2013年与1965—1974年牧草生长季日数差值(b)空间分布Fig.11Spatialditributionofgrowthseasondurationofforagesfrom2004to20l3(a)anditsdiferencebetween2004to20l3and1965 to 1974 (b) in the Qinghai-Tibet Plateau
+
+# 3.4气候因子对牧草物候期的影响
+
+为进一步辨明气候因子对牧草物候期的影响，对青藏高原牧草物候期与近50a牧草生长季和牧草关键生长期的温度、降水量及日照时数进行相关分析，结果见表1。
+
+1)温度是影响牧草物候期最为关键的因子，与物候期的相关系数达0.942，降水量次之，与物候期的相关系数为0.428，二者均在0.01水平上显著。究其原因，温度升高可促进酶的活性，加快牧草物候进程。因此，牧草物候与温度条件息息相关，尤其是在牧草各生长发育期的前期，各种物候期的开始时间与其前期温度之间均有显著相关性[30]。祁如英等[32]、张国胜等[33]在分析气候因子对牧草生育期的影响时，也得出西北针茅(Stipa capillata)、早熟禾(Poaannua)等禾本科牧草返青、开花、成熟和黄枯期的主要影响因子是热量条件；降水是影响牧草物候期的另一重要气候因子，干旱会延缓牧草的生长发育，使得发育的物候期推迟；而日照时数与牧草物候期之间的相关系数为-0.527，在0.01水平上显著。通过进一步分析发现，降水量和温度的不断增加使空气中水汽压增大，导致日照时数下降，严重影响到牧草物候期的推迟，这与前文中对物候期的分析结果相一致。可见，温度和降水是影响牧草物候期的关键因子，也是导致日照时数牧草物候期呈负相关的关键。
+
+2)青藏高原牧草生长季物候期与温度、降水量呈正相关，相关系数分别为0.937、0.293，呈显著正相关，而与日照时数之间的相关系数为-0.582，在0.01水平上显著。影响牧草物候的气候因子中，日照时数也是一个重要因素，植物具有光敏色素，其在生长发育的许多阶段中与光有关，缩短光照时间能促进植物开花，使物候期提前，反之亦反。
+
+3)牧草抽穗一开花期温度与物候期的相关系数为0.816，降水量与物候期的相关系数为0.385，呈显著正相关，而日照时数与牧草物候期呈负相关，相关系数为-0.376，在0.01水平上显著，说明在牧草抽穗—开花期温度依然是影响牧草物候期最为关键的因子，降水量次之。
+
+# 4讨论与结论
+
+本研究利用Thornthwaite Memorial模型测算了近50a青藏高原牧草的气候生产潜力，近50a来青藏高原牧草气候生产潜力总体上呈上升趋势$[ 1 3 6 . 7 ~ \mathrm { g } \cdot \mathrm { m } ^ { - 2 } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } ]$ ，但增幅较小。说明伴随着全球气候变暖，气温急剧上升，而降水变化幅度较小，水热配合程度减弱，在此情况下，气温的上升增加了地面蒸发，减少了对植被的供水需求；然而，因青藏高原海拔较高，空气较为稀薄，年日照时数相对充足、辐射强度大，日照时数的减少使得该地区蒸散量减弱，水分得以保持，从而促进牧草的生长发育。因此，牧草生产潜力的变化较为复杂，取决于光、温、水等因素的综合作用。同时，从空间分布来看，青藏高原牧草气候生产潜力由西北向东南依次增加，高值区在青藏高原东南部，即藏南、四川与云南等地，低值区在青海西北部，且南北部地区差异较大。究其原因，主要在于青藏高原区气温升高加剧了北部地区的干旱，使得牧草更加依赖于水分条件，同时也造成南部湿润地区植被生长周期和牧草生产力的增加。
+
+表1青藏高原牧草物候期与气候因子的相关系数(1992—2013) Table1Correlation coeficients between forages phenological periodand meteorological factors during 992—2013 nthe Qinghai-Tibet Plateau   
+
+<html><body><table><tr><td rowspan="2" colspan="3">全年 Annual</td><td colspan="6">物候期 Phenological period</td></tr><tr><td colspan="3">生长季 Growth period</td><td colspan="3">关键生长期 Key growth stage (返青—开花期 Regreening-flowering)</td></tr><tr><td>温度 Temperature</td><td>降水量 Precipitation</td><td>日照时数 Sunshine</td><td>温度 Temperature</td><td>降水量 Precipitation</td><td>日照时数 Sunshine</td><td>温度 Temperature</td><td>降水量 Precipitation</td><td>日照时数 Sunshine</td></tr><tr><td>0.942**</td><td>0.528**</td><td>-0.527**</td><td>0.937**</td><td>0.293*</td><td>-0.582**</td><td>0.816**</td><td>0.385*</td><td>-0.376**</td></tr></table></body></html>
+
+\*\*和 $^ *$ 分别表示在0.01和0.05水平(双侧)上显著相关。\*\*and\*meansignificantcorelationat0.0land0.05levels (double-side),respectively
+
+其次，本文研究了青藏高原牧草的物候变化,与宋春桥等[18]利用动态阈值法对藏北高原植被物候时空动态变化的研究具有较好的可比性。同时，祁如英等[32]在对青海草本植物物候期变化与气象条件影响分析的研究中发现，对青海大部分站点的植被返青、枯黄和生长季长度造成影响的主要因素是气温，降水和日照时数仅与个别站点的物候变化相关;宋春桥等[18]在藏北高原植被物候的研究中也发现,年均气温的年际变化和升温趋势对植被的返青期提前和生长季延长有直接影响，而年降水量对其影响较少。而张国胜等[33]的研究则发现，影响青海草本植物物候变化的不仅是温度，与前一年秋季的降水及该年春季的降水也有很大关系。因此，本文基于MODIS数据及连续22a的青藏高原牧草生育期观测数据，分析了牧草生育期的时空变化特征及气象因子与牧草物候期的关系，其中，温度是影响牧草物候期最为关键的因子，降水是影响牧草物候期的另一重要气候因子，而日照时数与牧草物候期之间呈显著负相关。青藏高原牧草返青期、抽穗期和开花期总体呈提前趋势 $\left[ - 7 . 4 \mathrm { ~ d } \cdot ( 1 0 \mathrm { { a } ) } ^ { - 1 } \right.$ 、 $- 6 . 2 ~ \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ /$- 6 . 4 ~ \mathrm { ~ d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 } ]$ ，而牧草黄枯期推迟 $\left[ 2 . 1 ~ \mathrm { \ d } { \cdot } ( 1 0 \mathrm { a } ^ { - 1 } ) \right]$ 总体来看，近50a气候变化使青藏高原区牧草的生长期延长 $[ 1 1 . 2 ~ \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 } ] _ { \mathrm { c } }$ 。生长季的延长，尤其是返青期的提前，被认为是北半球中、高纬度碳汇功能增强的主要贡献之一，而青藏高原高寒草地生长季的延长不仅可增加碳汇功能，减少大气中 $\mathrm { C O } _ { 2 }$ 的累积，降低气候增暖的速率，还将对该区畜牧业及生态安全产生重要影响[34]。从空间分布来看，牧草返青期主要出现在每年的第 $1 2 9 { \sim } 1 7 7 \mathrm { d }$ ，且由东南向西北逐渐推迟；而黄枯期主要出现在每年的第 $2 5 7 \sim$
+
+$2 8 9 \mathrm { d } _ { \circ }$
+
+由于西北地区气象站点较少，为使空间插值尽可能反映真实水平，特引入新疆南疆地区若干站点数据进行补充；其次，本文利用ThornthwaiteMemorial模型简单地估算牧草生产潜力，以显示青藏高原牧草生产潜力的时空格局变化特征，但该模型是一个经验模型，只能大致刻画牧草生产潜力的空间格局，难以精确地描述牧草生产潜力时空格局演变趋势，未来将采用过程模型或基于遥感观测的方法，对青藏高原牧草生产潜力的时空格局进行深入研究，并系统解析牧草生产潜力时空变化的驱动机制。同时，限于物候观测数据，本文仅简单刻画了牧草物候期的时空格局，未来将进一步分析不同类型、不同区域牧草物候期的时空格局变化特征，并重点关注气候变化对青藏高原区典型牧草物候的影响。
+
+# 参考文献References
+
+[1]秦大河，丁一汇，苏纪兰，等．中国气候与环境演变评估 （I)：中国气候与环境变化及未来趋势[J].气候变化研究 进展,2005,1(1):4-9 Qin D H,Ding YH, Su JL,et al.Assessment of climate and environment changes in China（I):Climate and environment changes in China and their projection[J].Advances in Climate Change Research,2005,1(1): 4-9   
+[2] 沈永平，王国亚．IPCC第一工作组第五次评估报告对全球 气候变化认知的最新科学要点[J]．冰川冻土，2013，35(5): 1068-1076 Shen Y P,Wang G Y.Key findings and assessment results of IPCC WGI fifth assessment report[J]. Journal of Glaciology and Geocryology,2013,35(5):1068-1076   
+[3] 方精云．全球生态学：气候变化与生态响应[M]．北京：高 等教育出版社,2000:319 Fang JY. The Global Ecology:Climate Change and Ecological Response[M]. Beijing:Higher Education Press, 2000:319   
+[4]莫非，赵鸿，王建永，等．全球变化下植物物候研究的关键 问题[J].生态学报,2011,31(9):2593-2601 Mo F,Zhao H,Wang JY,et al.The key issues on plant phenology under global change[J].Acta Ecologica Sinica, 2011,31(9):2593-2601   
+[5]王连喜，陈怀亮，李琪，等．植物物候与气候研究进展[J]. 生态学报,2010,30(2):447-454 Wang L X,Chen HL,LiQ,et al.Research advances in plant phenology and climate[J].Acta Ecologica Sinica,2010,30(2): 447-454   
+[6]任继周，梁天刚，林慧龙，等．草地对全球气候变化的响应 及其碳汇潜势研究[J]．草业学报,2011,20(2):1-22 Ren J Z,Liang T G, Lin H L,et al. Study on grassland's responsestoglobal climatechange and itscarbon sequestration potentials[J].Acta Prataculturae Sinica,2011, 20(2): 1-22 [」周伟，刚成诚，字建龙，寺.1982 -2010年中国早地復盖度 的时空动态及其对气候变化的响应[J]．地理学报，2014, 69(1): 15-30 Zhou W, Gang C C,Li JL,et al. Spatial-temporal dynamics of grassland coverage and its response to climate change in China during 1982—2010[J]. Acta Geographica Sinica, 2014, 69(1): 15-30 [8] 潘保田，李吉均．青藏高原：全球气候变化的驱动机与放 大器(ⅢI):青藏高原隆起对气候变化的影响[J].兰州大学 学报：自然科学版,1996,32(1):108-115 Pan B T,Li JJ.Qinghai-Tibetan Plateau:A driver and amplifier of the global climatic change $( \mathbb { I } )$ : The effects of the uplift of Qinghai-Tibetan Plateau on climatic changes[J]. Journal of Lanzhou University: Natural Sciences,1996,32(1): 108-115 [9]张锂，李炳元，郑度．论青藏高原范围与面积[J]．地理 研究,2002,21(1): 1-8 Zhang Y L,Li B Y, Zheng D.A discussion on the boundary and area of the Tibetan Plateau in China[J].Geographical Research,2002,21(1): 1-8   
+[10]孙鸿烈，郑度，姚檀栋，等．青藏高原国家生态安全屏障保 护与建设[J].地理学报,2012,67(1):3-12 Sun HL, Zheng D, Yao T D,et al. Protection and construction of the national ecological security shelter zone on Tibetan Plateau[J]. Acta Geographica Sinica,2012,67(1): 3-12   
+[11]毕思文．全球变化与地球系统科学统一研究的最佳天然实 验室—青藏高原[J]．系统工程理论与实践，1997，17(5): 72-77 Bi S W.A best laboratory of the universal research for the Earth's global change and earth system science - The Qinghai-Tibet Plateau[J]. Systems Engineering-Theory& Practice,1997,17(5): 7-77   
+[12]姚檀栋，朱立平．青藏高原环境变化对全球变化的响应及 其适应对策[J]．地球科学进展,2006,21(5):459-464 Yao TD,Zhu L P.The response of environmental changes on Tibetan Plateau to global changes and adaptation strategy[J]. Advances in Earth Science,2006,21(5): 459-464   
+[13] Zhang JH, Yao F M, Zheng L Y,et al. Evaluation of grassland dynamics in the Northern — Tibet Plateau of China using remote sensing and climate data[J]. Sensors,2007,7(12): 3312-3328   
+[14]宋辞，裴韬，周成虎．1960 年以来青藏高原气温变化研究 进展[J].地理科学进展,2012,31(11):1503-1509 Song C,Pei T, Zhou C H. Research progresses of surface temperature characteristic change over Tibetan Plateau since 1960[J]. Progress in Geography,2012,31(11):1503-1509   
+[15]丁明军，张镜锂，孙晓敏，等．近10 年青藏高原高寒草地 物候时空变化特征分析[J]．科学通报，2012，57(33): 3185-3194 Ding M J，Zhang Y L,Sun X M,et al. Spatiotemporal variation in alpine grassland phenology in the QinghaiTibetan Plateau from 1999 to 2009[J].Chinese Science Bulletin,2012,57(33): 3185-3194   
+[16] 罗永忠，成自勇，郭小芹．近 40a 甘肃省气候生产潜力时 空变化特征[J].生态学报,2011,31(1):221-229
+
+LuoYZ,Cheng ZY,Guo $\mathrm { ~ x ~ Q ~ }$ .The changing characteristics of potential climate productivity in Gansu Province during
+
+nearly 40 years[J]. Acta Ecologica Sinica,2011,31(1): 221-229   
+[17]段晓凤，张磊，卫建国，等．宁夏盐池牧草返青期预测及生 产潜力初步分析[J].草业学报,2014,23(2):1-8 Duan X F, Zhang L,Wei JG, et al. Prediction of pasture reviving period and analysisof itsclimate potential productivity[J]. Acta Prataculturae Sinica,2014,23(2): 1-8   
+[18]宋春桥，游松财，柯灵红，等．藏北高原植被物候时空动态 变化的遥感监测研究[J]．植物生态学报，2011，35(1): 853-863 Song C Q, You S C,Ke L H,et al. Spatio-temporal variation of vegetation phenology in the northern Tibetan Plateau as detected by MODIS remote sensing[J]. Chinese Journal of Plant Ecology,2011,35(1): 853-863   
+[19]徐维新，辛元春，张娟，等．近20 年青藏高原东北部禾本 科牧草生育期变化特征[J].生态学报，2014，34(7): 1781-1793 Xu W X, Xin Y C,Zhang J, et al. Phenological variation of alpine grasses (Gramineae） in the northeastern QinghaiTibetan Plateau,China during the last 2O years[J].Acta Ecologica Sinica,2014,34(7): 1781-1793   
+[20]李新，程国栋，卢玲．青藏高原气温分布的空间插值方法 比较[J].高原气象,2003,22(6):565-573 Li X,Cheng G D,Lu L. Comparison study of spatial interpolation methods of air temperature over Qinghai-Xizang Plateau[J].Plateau Meteorology,2003,22(6): 565-573   
+[21]刘登伟，封志明，杨艳昭．海河流域降水空间插值方法的 选取[J]．地球信息科学,2006,8(4):75-79 Liu D W, Feng Z M, Yang Y Z. Selection of the spatial interpolation methods for precipitation in the Haihe River Basin[J]. Geo-Information Science,2006,8(4): 75-79   
+[22]杨元合，朴世龙．青藏高原草地植被覆盖变化及其与气候 因子的关系[J]．植物生态学报,2006,30(1):1-8 Yang Y H,Piao S L. Variations in grassland vegetation cover in relation to climatic factors on the Tibetan Plateau[J]. Journal of Plant Ecology,2006,30(1): 1-8   
+[23] 刘双俞，张丽，王翠珍，等．基于 MODIS 数据的青藏高原 植被物候变化趋势研究(2000—2010年)[J]．遥感信息,2014, 29(6): 25-30 Liu S Y, Zhang L,Wang C Z, et al. Vegetation phenology in the Tibetan Plateau using MODIS data from 2000 to 2010[J]. Remote Sensing Information,2014,29(6): 25-30   
+[24]居烽，熊伟，许吟隆，等．气候变化对中国东北地区生态与 环境的影响[J]．中国农学通报,2007,23(4):345-349 Ju H, Xiong W,Xu YL,et al. Climate change and its impacts in Northeast China[J]. Chinese Agricultural Science Bulletin, 2007,23(4): 345-349   
+[25]潘虹，邱新法，廖留峰，等．近 50 年贵州省气候生产潜力 时空变化特征[J]．干旱区资源与环境，2014，28(11): 158-163 Pan H, Qiu X F,Liao L F,et al. Spatiotemporal variation of climatic potential productivity in Guizhou Province in the last 50 vears[Jl. Journal of Arid Land Resources and Environment. 2014,28(11): 158-163   
+[26]丁一汇，任国玉，石广玉，等．气候变化国家评估报告(I): 中国气候变化的历史和未来趋势[J].气候变化研究进展, 2006,2(1): 3-8 Ding Y H,Ren G Y, Shi G Y,et al. National assessment report of climate change(I): Climate change in China and its future trend[J].Advances in Climate Change Research,2oo6,2(1): 3-8   
+[27]任国玉，郭军，徐铭志，等．近50年中国地面气候变化基 本特征[J].气象学报,2005,63(6):942-946 Ren GY,Guo J,Xu M Z,et al.Climate changes of China's mainland over the past half century[J].Acta Meteorologica Sinica,2005,63(6): 942-946   
+[28]王发科，祁贵明，郭晓宁，等．柴达木盆地南缘农业界限温 度的气候变化特征[J].干旱气象,2009,27(3):227-231 Wang F K,Qi G M,Guo X N,et al.Climatic change of agricultural critical temperature in the Southern Margin of Qaidam Basin[J]. Journal of Arid Meteorology,20o9,27(3): 227-231   
+[29]姜永见，李世杰，沈德福，等．青藏高原近40 年来气候变 化特征及湖泊环境响应[J].地理科学,2012,32(12):1503-1512 JiangYJ,Li SJ,Shen DF,et al.Climate change and its impact on the lake environment in the Tibetan Plateau in 1971—2008[J]. Scientia Geographica Sinica,2012,32(12): 1503-1512   
+[30]顾润源，周伟灿，白美兰，等．气候变化对内蒙古草原典型 植物物候的影响[J]．生态学报,2012,32(3):767-776 Gu RY, Zhou W C,Bai ML,et al. Impacts of climate change on phenological phase of herb in the main grassland in Inner Mongolia[J].Acta Ecologica Sinica,2012,32(3): 767-776   
+[31]李荣平，刘晓梅，周广胜．盘锦湿地芦苇物候特征及其对 气候变化的响应[J].气象与环境学报,2006,22(4):30-34 LiRP,Liu XM,Zhou G S.The Characteristics of phragmites phenology in Panjin wetland and its responses to climatic change[J].Journal of Meteorology and Environment,2006, 22(4): 30-34   
+[32]祁如英，王启兰，申红艳．青海草本植物物候期变化与气 象条件影响分析[J].气象科技，2006,34(3):306-310 QiRY,WangQL,ShenHY.Analysisof phenological-phase variation of herbage plants over Qinghai and impact of meteorological conditions[J].Meteorological Science and Technol0gy,2006,34(3):306-310   
+[33]张国胜，李林，汪青春，等．青南高原气候变化及其对高寒 草甸牧草生长影响的研究[J]．草业科学,1999,8(3):1-10 Zhang G S,LiL,WangQC,et al. Effects of climatic changes of south Qinghai Plateau on the alpine meadow[J].Acta Prataculturae Sinica,1999,8(3):1-10   
+[34]Piao SL,CiaisP,Friedlingstein P,et al.Net carbon dioxide losses of northern ecosystems in response to autumn warming[J].Nature,2008,451(7174):49-52

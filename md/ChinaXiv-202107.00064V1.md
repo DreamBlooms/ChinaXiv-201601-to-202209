@@ -1,0 +1,167 @@
+# 氧化石墨烯对多年生黑麦草逆境生理及光合特征的影响
+
+洪莹，毛建越，赵树兰，多立安（天津师范大学 生命科学学院，天津市动植物抗性重点实验室，天津 300387)
+
+摘要：为了探讨不同浓度氧化石墨烯（GO）对多年生黑麦草生长、生理及光合特征的影响，该文采用盆栽试验，在土壤中添加0、10、20、30、40 和 $5 0 \mathrm { m g } { \cdot } \mathbf { g } ^ { - 1 } \mathrm { G O }$ 进行多年生黑麦草培养，测定了植物生长指标、光合色素含量、保护酶活性、丙二醛（MDA）含量、叶片质膜透性、可溶性蛋白含量和光合参数。结果表明：10 和 $2 0 { \mathrm { ~ m g } } \cdot \mathbf { g } ^ { - 1 } { \mathrm { ~ G O } }$ 处理对多年生黑麦草生长无显著影响； $3 0 { \sim } 5 0 \ \mathrm { m g { \cdot } g ^ { - 1 } G O }$ 处理对多年生黑麦草生长具有抑制作用，在 $5 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ GO 浓度下多年生黑麦草株高和生物量均最小，较对照分别降低了 $1 6 . 8 \%$ 和 $2 7 . 1 \%$ 。当GO的浓度达到 $3 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ 时，总叶绿素和类胡萝卜素含量显著降低，在 $5 0 \mathrm { m g } { \cdot } \mathrm { g } ^ { - 1 } \mathrm { G O }$ 处理达到最低。高浓度的GO 处理（40 和 $5 0 \ \mathrm { m g } \cdot \mathrm { g } ^ { - 1 } .$ ）降低了多年生黑麦草叶片净光合速率 $( P _ { n } )$ ）、气孔导度（ $G _ { s }$ ）和蒸腾速率（ $( T _ { r }$ ），但增加了胞间 $\mathrm { C O } _ { 2 }$ 浓度 $( C _ { i }$ ）。低浓度的GO处理（10和 $2 0 ~ \mathrm { m g \cdot g ^ { - 1 } }$ ）对保护酶活性、丙二醛含量、叶片质膜透性和可溶性蛋白含量无显著影响，而高浓度的GO处理（40 和 $5 0 \ \mathrm { m g \cdot g ^ { - 1 } } .$ ）使多年生黑麦草超氧化物歧化酶（SOD）、过氧化物酶（POD）、过氧化氢酶（CAT）活性、MDA含量和叶片质膜透性显著升高，可溶性蛋白含量则下降，植物叶片受到损伤。该研究结果显示，高浓度GO（40 和 $5 0 ~ \mathrm { m g { \cdot g ^ { - 1 } } }$ ）会对多年生黑麦草产生氧化胁迫，从而抑制了植物生长。
+
+关键词：多年生黑麦草，氧化石墨烯，逆境生理，氧化胁迫，光合参数中图分类号：Q945 文献标识码：A
+
+# Effects of graphene oxide on stress physiological and photosynthetic
+
+characteristics of Lolium perenne
+
+HONG Ying, MAO Jianyue, ZHAO Shulan, DUO Li'an (College of Life Sciences, Tianjin Normal University; Tianjin Key Laboratory of Animal and Plant Resistance,Tianjin 300387, China)
+
+Abstract: In order to explore the effects of graphene oxide (GO) with different concentrations on the growth, physiological and photosynthetic characteristics of perennial ryegrass (Lolium perenne) seedlings, a pot experiment was conducted by culturing ryegrass in soil with treatments of GO in 0, 10, 20,30,40 and ${ 5 0 } \mathrm { m g { \cdot } g ^ { - 1 } }$ GO respectively. Parameters including plant height, biomass, photosynthetic pigment contents, protective enzyme activity, malondialdehyde (MDA) content, leaf membrane permeability, soluble protein content as well as photosynthetic parameters were
+
+measured. The results showed that no significant effects were detected on the growth of perennial ryegrass under 10 and $2 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ GO treatments, however, $3 0 { \sim } 5 0 \ \mathrm { m g { \cdot } g ^ { - 1 } }$ GO inhibited the perennial ryegrass growth. Under the ${ 5 0 } \mathrm { m g } { \cdot } \mathrm { g } ^ { - 1 }$ GO treatment, plant height and biomass of perennial ryegrass were minimum in value, which were decreased by $1 6 . 8 \%$ and $2 7 . 1 \%$ compared with the control. The contents of total chlorophyll and carotenoid decreased significantly when the concentration of GO reached $3 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ , and the lowest value was found in ${ 5 0 } \mathrm { m g } { \cdot } \mathrm { g } ^ { - 1 }$ GO treatments. High concentrations of GO (40 and ${ 5 0 } \mathrm { m g } { \cdot } \mathrm { g } ^ { { - 1 } } .$ ) decreased net photosynthetic rate $( P _ { n } )$ 5 stomatal conductance $\left( G _ { s } \right)$ and transpiration rate $( T _ { r } )$ , but increased the intercellular $\mathrm { C O } _ { 2 }$ （204号 concentration $( C _ { i } )$ . Low concentrations of GO (10 and $2 0 \mathrm { m g \cdot g ^ { - 1 } } .$ )had no significant effects on protective enzyme activity, malondialdehyde (MDA) content, plasma membrane permeability and soluble protein content, while high concentrations of GO (40 and $5 0 \mathrm { m g } { \cdot } \mathrm { g } ^ { - 1 } ,$ ） significantly increased superoxide dismutase (SOD), peroxidase (POD), catalase (CAT) activities, MDA content and plasma membrane permeability, decreased soluble protein content and damaged plant leaves.Results from this study indicated that the addition of GO with high concentrations (40 and $5 0 \mathrm { m g { \cdot g ^ { - 1 } } }$ ) constituted a stress on the growth of perennial ryegrass, thus inhibited plant growth.
+
+Key words: Lolium perenne, graphene oxide, stress physiology, oxidative stress, photosynthetic characteristics
+
+作为石墨烯的一种重要衍生物，氧化石墨烯（GO）含有大量的含氧活性基团，如羧基、羟基与环氧基团等（Martin etal.,2019）。由于GO具有良好的热、电传导和亲水性，使其在很多领域都具有应用价值（Chen etal.,2020b），如在污染物吸附、能源发展和生物医学等方面。然而，随着纳米新技术的快速发展，纳米材料使用量不断增加，GO等纳米材料会直接或间接排放到环境中，给生物体和环境带来难以预测的安全隐患（Fadeeletal.,2018）。
+
+近年来，GO对植物逆境生理及光合特征的影响已成为国内外学者研究的热点。有研究发现，GO对植物有着正面的积极作用，低剂量可以促进菠菜和韭菜的发芽和生长（He et al.,2018）；GO高的比表面积使其具有很强的吸附性，在低浓度下可以降低 $\mathrm { C d } ^ { 2 + }$ 对玉米生长的抑制作用（Yin etal.,2018)。但更多的研究发现，GO 对植物具有负面影响（Chen etal.,2018b;Du etal.,2020；Weng etal.,2020）。GO具有大的比表面积，可使细胞活性氧（ROS）增加，攻击 DNA、蛋白质和细胞膜，导致细胞损伤进而产生毒性（Hu et al.,2014a;Jia et al.,2019）;GO 具有尖锐的边缘，通过与细胞的相互碰撞，会造成细胞表面受损（Sengupta etal.,2019）。Hao etal.（2018）研究发现，浓度为50和 $5 0 0 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ 的还原氧化石墨烯（rGO）均显著降低了水稻地上部干重。GO对植物的影响随着其剂量、尺寸、接触时间和植物种类的不同而异。植物在生态系统的组成成分中起着主导作用，因此，研究GO对植物生长、生理和光合特征影响具有重要意义。
+
+目前，关于GO对陆生植物影响研究常常采用水培试验，土培盆栽试验鲜有报道（Haoet al.,2018），而后者能够更好地模拟土壤中输入GO对植物生长的影响。鉴于此，本研究选择多年生黑麦草为试验植物，将不同浓度GO添加到盆栽土壤中，来探讨GO 对多年生黑麦草生长和生理光合特性的影响，从而为GO的风险评价及安全应用提供理论依据。
+
+# 1材料与方法
+
+# 1.1 供试材料
+
+多年生黑麦草种子购自宿迁卉艺种业有限公司，品种名为爱森特（Accent）。试验用土壤取自天津师范大学校园内 $0 { \sim } 2 0 ~ \mathrm { c m }$ 的表层土壤。其基本性质如下： $\mathrm { p H } 7 . 4 5$ ，含盐量 $0 . 1 \%$ 有机质含量 $4 . 6 8 \%$ ，碱解氮 $1 3 7 . 4 2 \ \mathrm { m g { \cdot } k g ^ { - 1 } }$ ，速效钾 $7 1 . 6 3 ~ \mathrm { m g { \cdot k g ^ { - 1 } } }$ ，有效磷 $2 2 . 0 3 ~ \mathrm { m g { \cdot k g ^ { - 1 } } }$ ，饱和含水量 $0 . 5 6 ~ \mathrm { m L } \cdot \mathrm { g } ^ { - 1 }$ ，容重 $0 . 8 7 ~ \mathrm { g } \cdot \mathrm { c m } ^ { - 3 }$ 。氧化石墨烯（GO）购自苏州恒球石墨烯科技有限公司，为褐黄色粉末，平均厚度 $3 . 4 { \sim } 7 ~ \mathrm { n m }$ ，片层直径 $1 0 { \sim } 5 0 ~ \mu \mathrm { m }$ ，比表面积 $1 0 0 { \sim } 3 0 0 \mathrm { m } ^ { 2 } { \cdot } \mathrm { g } ^ { - 1 }$ 。
+
+# 1.2 植物培养
+
+植物培养于2019年7月1日进行，将多年生黑麦草种子放于铺有蒸馏水润湿托盘中，于室温下进行催芽处理，待种子萌发后转移到添加不同GO浓度的土壤中进行培养，每盆播种100 粒。
+
+将一定量的GO（4.2、8.4、12.6、16.8、 $2 1 \ \mathrm { g }$ ）分别加入到 $4 2 0 \ \mathrm { g }$ 未灭菌处理的土壤中,用小抹刀充分混合均匀 $2 0 \mathrm { m i n }$ ，然后装入塑料花盆（直径 $7 \mathrm { c m }$ 、高 $8 \mathrm { c m }$ ）中，得到浓度分别为10、20、30、40和 $5 0 \ { \mathrm { m g } } \cdot \mathbf { g } ^ { - 1 } { \mathrm { G O } }$ 处理，以不添加GO（ $\cdot 0 \ \mathrm { m g } \cdot \mathrm { g } ^ { - 1 }$ ）为对照，每个处理4次重复。植物在室内培养，期间保证水分供应，使土壤含水量保持在最大持水量的 $60 \%$ 。光照为透入室内的自然光（ $\left( 6 2 3 - 3 3 0 2 0 \mathrm { l x } \right)$ ）。在培养过程中，定期调换花盆位置，以确保每个花盆处于一致的光照条件下。培养期间的环境温度为 $2 0 { \sim } 2 7 \ ^ { \circ } \mathrm { C }$ ，相对湿度为 $1 7 \% { \sim } 5 4 \%$ 培养时间为 $4 0 \mathrm { d }$ ，在多年生黑麦草的分蘖期进行指标测定。
+
+# 1.3指标测定
+
+# 1.3.1生长指标的测定
+
+株高的测定：播种40d测量多年生黑麦草株高，从盆中随机选取5株植株，取其平均值。地上生物量的测定：在播种 $4 0 \mathrm { ~ d ~ }$ 时，将多年生黑麦草地上部分齐地面刈割，于 $1 0 8 ~ ^ { \circ } \mathrm { C }$ 下杀青 $2 0 \mathrm { m i n }$ ， $8 0 ~ ^ { \circ } \mathrm { C }$ 烘干至恒质量，称重。
+
+# 1.3.2叶绿素与类胡萝卜素含量的测定
+
+取 $0 . 2 { \ \mathrm { g } }$ 新鲜叶片，剪成 $1 { \sim } 2 ~ \mathrm { m m }$ 碎片，浸泡于 $2 0 ~ \mathrm { m L }$ 丙酮、乙醇体积比为1:1的提取溶液中，避光浸提 $2 4 \mathrm { ~ h ~ }$ ，至叶片完全脱色。将 $1 ~ \mathrm { m L }$ 浸提液与 $4 ~ \mathrm { m L }$ 提取液稀释后，在波长663、645和 $4 7 0 \mathrm { n m }$ 下测量吸光度，并计算叶绿素与类胡萝卜素含量。
+
+# 1.3.3保护酶活性和丙二醛含量的测定
+
+酶提取液的制备：取 $0 . 5 \mathrm { ~ g ~ }$ 新鲜叶片，加入 $3 ~ \mathrm { m L }$ 提取液（由 $\mathrm { p H } 7 . 0$ 、50 mmol·L-1磷酸缓冲液和 $1 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ EDTA配制而成)和石英砂，研磨完全后将研磨液倒入离心管中，在 $4 ^ { \circ } \mathrm { C }$ $1 0 0 0 0 \mathrm { r } { \cdot } \mathrm { m i n } ^ { - 1 }$ 下离心 $2 0 \mathrm { m i n }$ 。取上清液并放置在 $4 ^ { \circ } \mathrm { C } .$ 冰箱中，待测。过氧化物酶（POD）活性采用愈创木酚法测定（Omranetal.,1980）；过氧化氢酶（CAT）活性采用紫外分光光度法测定（Singh et al.,2010)；超氧化物歧化酶（SOD）活性采用比色法测定（Wang etal.,2014);丙二醛（MDA）含量采用硫代巴比妥酸法测定（Sundar etal.,2004）。
+
+# 1.3.4叶片质膜透性和可溶性蛋白含量的测定
+
+叶片质膜透性采用相对电导率法测定（Guoetal.,2019）。称取 $0 . 2 { \mathrm { ~ g ~ } }$ 叶片，剪碎后置于$1 0 ~ \mathrm { m L }$ 去离子水的试管中，室温下浸泡 $1 2 \mathrm { h }$ ，用电导率仪测定浸提液电导率 $( R _ { I }$ ）。然后沸水浴 $3 0 \mathrm { m i n }$ ，冷却至室温后摇匀，测定浸提液电导率 $( R _ { 2 }$ ）。按下式计算相对电导率（REC）：
+
+可溶性蛋白的测量采用考马斯亮蓝法（Zouetal.,2020）。将 $0 . 2 \ \mathrm { g }$ 新鲜叶片放入有 $2 \mathrm { m L }$ 蒸馏水的研钵中，研磨成匀浆后，将其置于离心管中，放置 $0 . 5 { \sim } 1 . 0 \mathrm { h }$ 充分提取，在 $4 0 0 0 \mathrm { r } { \cdot } \mathrm { m i n } ^ { - 1 }$ 条件下离心 $2 0 ~ \mathrm { m i n }$ 。将上清液转移至 $1 0 ~ \mathrm { m L }$ 刻度试管中，并用蒸馏水定容，为待测样品的提取液。吸取 $1 ~ \mathrm { m L }$ 提取液放入 $1 0 ~ \mathrm { m L }$ 试管中，再加入 $5 ~ \mathrm { m L }$ 考马斯亮蓝G-250溶液，充分混合，静置后在波长 $5 9 5 \mathrm { n m }$ 下测定吸光值，并计算蛋白质含量。
+
+# 1.3.5光合参数的测定
+
+光合参数的测定于播种后的35d进行。第二个完全展开的叶子（从上到下）从9：00到11：30之间用LI-6400 便携式光合作用系统（LI-6400XT，Lincoln，Nebraska）进行测量。主要参数包括净光合速率（ $\cdot P _ { n }$ ， $\mu { \mathrm { m o l } } \mathrm { C O } _ { 2 }$ $\mathbf { m } ^ { - 2 } { \cdot } \mathbf { s } ^ { - 1 }$ ），气孔导度（ $G _ { s }$ ， $\mathrm { \underline { { \mu } } m o l H _ { 2 } O \cdot \ m ^ { - 2 } { \cdot } s ^ { - 1 } } )$ ，蒸腾速率（ $T _ { r }$ ， $\mathrm { \ m m o l { H _ { 2 } O } \cdot \ m ^ { - 1 } { \cdot s ^ { - 1 } } } \ \mathrm { ; }$ ）和胞间 $\mathrm { C O } _ { 2 }$ 浓度 $( C _ { i } , \mathrm {  ~ \underline { { { \mu } } } m o l ~ } \mathrm {  ~ \ C O } _ { 2 } { \cdot } \mathrm { \bf s } ^ { - 1 } )$ ）。光照设定为1000$\mathrm { \mu } \mathrm { m o l } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { s } ^ { - 1 }$ ，温度为 $2 8 { \sim } 3 0 ~ ^ { \circ } \mathrm { C }$ ， $\mathrm { C O } _ { 2 }$ 浓度为 $3 6 0 \ \mathrm { \mu m o l { \cdot } m o l { \cdot } l }$ 。
+
+# 1.4数据处理
+
+所得数据以平均值 $\pm$ 标准差表示。采用SPSS20.0软件进行单因素方差分析不同GO浓度处理间的差异，并采用Tukey 法，在 $P { = } 0 . 0 5$ 水平进行数据差异显著性检验。
+
+# 2结果与分析
+
+# 2.1氧化石墨烯（GO）对多年生黑麦草株高和生物量的影响
+
+氧化石墨烯（GO）对多年生黑麦草株高和生物量的影响如图1所示。从图1可以看出，生长 $4 0 \mathrm { d }$ 时， $1 0 \mathrm { m g } { \cdot } \mathbf { g } ^ { - 1 } \mathrm { G O }$ 处理株高为最大值，但与对照差异不显著（ $. P { > } 0 . 0 5 \$ ）；当GO浓度大于 $1 0 \ \mathrm { m g { \cdot g ^ { - 1 } } }$ 时，株高随GO 浓度的增大呈下降趋势；浓度超过 $3 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ ，株高则显著低于对照组( $_ { , P < 0 . 0 5 ) }$ ， ${ 5 0 } \mathrm { m g } { \cdot } \mathrm { g } ^ { - 1 }$ GO 处理株高为最低。和株高的结果相类似，10 和 $2 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ GO 处理对生物量的影响不大，但当GO 浓度达到 $3 0 ~ \mathrm { m g { \cdot g ^ { - 1 } } }$ ，则显著抑制了生物量的积累中 $\scriptstyle \cdot P < 0 . 0 5 .$ ），且抑制作用随氧化石墨烯浓度增大而增加。
+
+不同字母表示各处理间差异显著（ $P { < } 0 . 0 5$ ， $n = 4$ ）。下同。
+
+![](images/f86a5528654a5ddb93a9b21f0793d4fac4254b3fee5f41a2a5e54a6b83202a21.jpg)  
+图1氧化石墨烯（GO）对多年生黑麦草株高和生物量的影响Fig.1EffectsofGO on plantheight and biomass of Lolium perenne
+
+Different letters indicated significant differences among treatments( $\scriptstyle \sum \phantom { i } 0 . 0 5$ $n = 4$ ).The same below.
+
+# 2.2氧化石墨烯（GO）对多年生黑麦草叶绿素与类胡萝卜素含量的影响
+
+如表1所示， $1 0 ~ \mathrm { m g { \cdot g ^ { - 1 } } }$ GO 处理多年生黑麦草叶绿素a、叶绿素b、总叶绿素与类胡萝卜素含量为最高，但与对照差异不显著（ $\cdot P { > } 0 . 0 5 \$ ）。GO浓度超过 $2 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ ，叶绿素 $\boldsymbol { \mathbf { b } }$ 、总叶绿素与类胡萝卜素含量均显著低于对照组（ $( P { < } 0 . 0 5 )$ ）；浓度超过 $3 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ ，叶绿素a含量显著低于对照组（ $_ { \cdot } P { < } 0 . 0 5$ ）；而后随GO浓度的增大，叶绿素与类胡萝卜素含量呈显著下降趋势。
+
+表1氧化石墨烯（GO）对多年生黑麦草叶绿素与类胡萝卜素含量的影响  
+Table 1 Effects of GO on chlorophyll and carotenoid contents of Lolium perenne   
+
+<html><body><table><tr><td>GO 浓度 GO concentration (mg:g-1)</td><td>叶绿素a Chlorophyll a (mg:g-1)</td><td>叶绿素b Chlorophyll b (mg:g-1)</td><td>总叶绿素 Total chlorophyll (mg:g-1)</td><td>类胡萝卜素 Carotenoid (mg:g-1)</td></tr><tr><td>0</td><td>2.51±0.08ab</td><td>0.81±0.05ab</td><td>3.31±0.06ab</td><td>0.52±0.03a</td></tr><tr><td>10</td><td>2.60±0.04a</td><td>0.87±0.05a</td><td>3.47±0.01a</td><td>0.52±0.02a</td></tr><tr><td>20</td><td>2.46±0.08ab</td><td>0.73±0.03bc</td><td>3.19±0.11bc</td><td>0.48±0.02ab</td></tr><tr><td>30</td><td>2.33±0.15bc</td><td>0.69±0.01c</td><td>3.02±0.15cd</td><td>0.46±0.02bc</td></tr><tr><td>40</td><td>2.15±0.05c</td><td>0.68±0.04c</td><td>2.83±0.05d</td><td>0.42±0.01cd</td></tr><tr><td>50</td><td>1.86±0.10d</td><td>0.59±0.02d</td><td>2.45±0.11e</td><td>0.39±0.02d</td></tr></table></body></html>
+
+注：不同字母表示各处理间差异显著（ $P { < } 0 . 0 5$ ， $n = 4$ ）。下同。 Note:Different letters indicate significant differences between treatments( $\cdot - 0 . 0 5$ $n = 4$ ).The samebelow.
+
+# 2.3氧化石墨烯（GO）对多年生黑麦草保护酶活性和丙二醛含量的影响
+
+氧化石墨烯（GO）对多年生黑麦草保护酶活性和丙二醛含量有显著影响。从图2可以看出，和对照相比，10和 $2 0 \mathrm { m g } { \cdot } \mathrm { g } ^ { - 1 } \mathrm { G O }$ 处理对POD 活性无显著影响（ $. P { > } 0 . 0 5 )$ ，随GO浓度增加表现出升高趋势；浓度超过 $2 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ 的处理，POD 活性显著高于对照组（ $( P { < } 0 . 0 5 )$ ；$5 0 ~ \mathrm { m g } \cdot \mathrm { g } ^ { - 1 }$ GO 处理组POD 活性最大，较对照增加 $45 . 5 9 \%$ 。 $1 0 ~ \mathrm { m g { \cdot g ^ { - 1 } } }$ GO 处理 SOD 活性较对照组无明显差异（ $\cdot P { > } 0 . 0 5 )$ ），GO 浓度超过 $1 0 \ \mathrm { m g { \cdot g ^ { - 1 } } }$ 的处理，SOD 活性均显著高于对照（ $. P { < } 0 . 0 5 .$ ）。CAT活性随着GO浓度的增加表现出先增加后降低的趋势，除 $1 0 ~ \mathrm { m g { \cdot g ^ { - 1 } } }$ 处理与对照差异不显著（ $\scriptstyle P > 0 . 0 5 )$ ）外，其他GO处理CAT活性均显著高于对照（ $. P { < } 0 . 0 5$ ），在$3 0 \mathrm { m g \cdot g ^ { - 1 } G O }$ 处理下CAT活性最大，较对照增加 $9 0 . 7 2 \%$ 。
+
+和对照相比，10 和 $2 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ GO 处理没有显著增加MDA含量（ $\cdot P { > } 0 . 0 5 \$ ），但氧化石墨烯浓度达到 $3 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ ，MDA含量显著增加（ $. P { < } 0 . 0 5$ ），在 $5 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ 处理达到最大，较对照增加 $3 7 . 3 3 \%$ 。
+
+![](images/eaa8f1d587890b2c379e56dbc0723240c9ba934b5576ff3656f7c832db812f34.jpg)  
+图2氧化石墨烯（GO）对多年生黑麦草保护酶活性和MDA含量的影响 Fig.2 Effects of GO on protective enzyme activity and MAD content of Lolium perenne
+
+# 2.4氧化石墨烯（GO）对多年生黑麦草叶片质膜透性和可溶性蛋白含量的影响
+
+氧化石墨烯（GO）对多年生黑麦草叶片质膜透性和可溶性蛋白含量的影响如图3所示。从图3可以看出，10和 $2 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ GO 处理多年生黑麦草叶片相对电导率与对照均无明显差异（ $_ { . P > 0 . 0 5 } )$ ），随氧化石墨烯浓度增加表现出升高趋势；超过 $2 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ 的 GO 处理显著高于对照组 （ $. P { < } 0 . 0 5 )$ ）， $5 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ 处理叶片质膜透性最大，较对照增加 $2 8 . 4 9 \%$ 。
+
+多年生黑麦草可溶性蛋白含量随氧化石墨烯浓度增加而表现出降低趋势，大于 $2 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ 的GO 处理显著低于对照（ $\scriptstyle \cdot { P < 0 . 0 5 }$ ）；在 $5 0 ~ \mathrm { m g { \cdot g ^ { - 1 } } }$ GO 处理组最小，与对照相比，降低了$1 6 . 2 3 \%$ 。
+
+![](images/6f7a1d98acf4b9e7e50ca1240abc3f7de14f557fbbeccb433e52d5aff326dc64.jpg)  
+图3氧化石墨烯（GO）对多年生黑麦草叶片质膜透性和可溶性蛋白含量的影响Fig.3 Effects of GO on leaf membrane permeability and soluble protein contentof Lolium perenne
+
+# 2.5氧化石墨烯（GO）对多年生黑麦草光合参数的影响
+
+如表2所示， $1 0 \mathrm { m g { \cdot g ^ { - 1 } } }$ GO 处理组多年生黑麦草净光合速率、气孔导度与蒸腾速率均为最大值，胞间二氧化碳浓度为最小值，但与对照组没有显著性差异（ $( P { > } 0 . 0 5 )$ ）。与对照相比，当氧化石墨烯浓度高于 $2 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ 时，气孔导度与蒸腾速率受到抑制；当浓度高于 $3 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ 时，多年生黑麦草净光合速率受到明显抑制( $_ { , P < 0 . 0 5 ) }$ ，胞间二氧化碳浓度显著增加( $( P { < } 0 . 0 5 )$ 。
+
+表2氧化石墨烯（GO）对多年生黑麦草光合参数的影响  
+Table 2 Effects of GO on photosynthetic parameters of Lolium perenne   
+
+<html><body><table><tr><td>GO 浓度 GO concentration</td><td>净光合速率 Pn</td><td>气孔导度 Gs</td><td>蒸腾速率 Tr</td><td>胞间二氧化碳浓度 Ci</td></tr><tr><td>(mg:g-1)</td><td>(μmol CO2: m-2·s-1)</td><td>(μmol H2O:m-²·s-1)</td><td>(mmol H2O: m-2·s-1)</td><td>(μmol CO2: s-1)</td></tr><tr><td>0</td><td>15.23±0.74ab</td><td>0.314±0.014a</td><td>6.86±0.19a</td><td>185.25±1.71cd</td></tr><tr><td>10</td><td>15.70±0.88a</td><td>0.324±0.007a</td><td>6.96±0.07a</td><td>182.25±8.77d</td></tr><tr><td>20 30</td><td>14.53±0.87abc</td><td>0.309±0.008a</td><td>6.65±0.18ab 6.36±0.18bc</td><td>191.50±4.20bcd 194.75±3.30abc</td></tr><tr><td>40</td><td>13.85±0.53bc 13.23±0.90c</td><td>0.288±0.008b 0.282±0.005b</td><td>6.31±0.17c</td><td>201.75±3.30ab</td></tr><tr><td>50</td><td>13.00±0.18c</td><td>0.280±0.007b</td><td>5.93±0.08d</td><td>202.00±3.16a</td></tr></table></body></html>
+
+# 3讨论与结论
+
+植物株高与生物量是反映植物地上生长状况的重要指标。本研究中，10 和 $2 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ GO对多年生黑麦草的株高与生物量没有显著影响；当GO 浓度高于 $3 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ ，株高与生物量受到显著抑制，且随GO 浓度增大抑制作用增加。Begum etal.（2011)发现， $5 0 0 { \sim } 2 0 0 0 ~ \mathrm { m g { \cdot } L ^ { - 1 } }$ 的石墨烯对甘蓝（Brassica oleracea）、番茄（Solanum lycopersicum）和红菠菜（Seneciofuluipes）的幼苗苗长、苗重和叶面积均有明显的抑制作用，且随石墨烯剂量的增加抑制作用更加显著。Chen etal.（2018a)的研究表明，低浓度 ${ \mathrm { G O } } \left( 0 . 0 4 \ { \mathrm { g } } \cdot { \mathrm { L } } ^ { - 1 } \right) .$ ）下裸燕麦（Avenasativa）地上部分干重较对照增加，而在高浓度（ $0 . 2 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 } .$ ）时则显著减少，与本研究结果相一致。可能的原因是GO能够进入或附着于植物细胞，阻碍对营养物质的吸收而抑制其生长；GO还会影响植物代谢途径，导致生物产量的降低（Huetal.,2014b）。
+
+叶绿素是植物光合作用中的主要色素，其含量可以反映植物光合作用的强弱与生长情况（Zhangetal.,2018）。本研究发现，GO 浓度达到 $3 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ 时，多年生黑麦草叶绿素及类胡萝卜素含量均显著下降。Gaoetal.（2019）研究发现，浓度大于 $2 0 ~ \mathrm { { m g } \cdot \mathrm { { L } ^ { - 1 } } }$ 的GO 明显降低小麦（Triticum aestivum）叶绿素含量；Hu etal.（2014b）发现GO 能在小麦细胞内积累，破坏叶绿体结构，可以推测GO在黑麦草细胞内积累，破坏叶绿体结构，从而抑制叶绿素的合成，导致其含量降低。
+
+SOD是生物体内重要的抗氧化酶，能清除生物体内自由基 $ { \mathrm { ~ O } } _ { 2 }  { \mathrm { ~ \bar { ~ } { ~ } ~ } }$ 。本研究中，GO处理使多年生黑麦草 SOD 活性增加，它的诱导说明植物体内产生了大量活性氧；GO 处理POD 和CAT活性也有所增加，它们能够有效清除植物体内产生的 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 。MDA含量可间接反映植物细胞膜脂过氧化程度，其含量越高，表明膜透性越大，膜脂过氧化程度越高（Chen et al,2020a）。而相对电导率可反映细胞外渗物质的多少，也可作为膜受损程度的辨别指标（Guoet al.,2019）。本研究中，GO 处理MDA含量和相对电导率升高，表明多年生黑麦草受到了氧化胁迫。Chenetal.（2017）利用 $^ { 1 3 } \mathrm { C }$ 标记GO处理小麦，发现小麦CAT、POD酶活性升高，MDA含量增加。Vochitaetal.（2019）的研究发现， $5 0 0 { \sim } 2 0 0 0 \ \mathrm { m g { \cdot } L ^ { - 1 } G O }$ 处理小麦时，表现出剂量效应， $5 0 0 \mathrm { m g { \cdot } L ^ { - 1 } }$ GO 浓度时 SOD、POD、CAT的活性达到最大值，对小麦产生氧化胁迫；在1000和 $2 \ 0 0 0 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ GO 浓度，抑制了酶活性，加剧氧化损伤。因为GO的主要毒性机制是通过产生大量的ROS 而诱导氧化胁迫；当抗氧化酶不足以清除 ROS 时，会攻击 DNA、蛋白质和细胞膜，使膜质过氧化，MDA含量增加，最终导致细胞死亡（Tan et al.,2009；胡俊杰等，2017）。
+
+可溶性蛋白是重要的渗透调节物质和营养物质，在植物代谢调节中具有重要作用。本研究结果表明，浓度大于 $3 0 \mathrm { m g \cdot g ^ { - 1 } G O }$ 处理可溶性蛋白含量显著降低，袁刚强等（2015）的研究也发现，水稻（Oryza sativa）可溶性蛋白含量随单壁碳纳米管剂量的增加而下降。可能的原因是GO 阻碍了多年生黑麦草根系对矿质离子的吸收，蛋白质合成缺少所需的元素P、S、Fe等（黄激激等，2012）。
+
+光合作用将 $\mathrm { C O } _ { 2 }$ 转变成有机物积累在植物体内，是植物生长发育的重要生理过程（范七君等，2020）。本研究中，净光合速率、蒸腾速率、气孔导度与叶绿素的变化趋势基本一致，GO 浓度大于 $3 0 \mathrm { m g { \cdot } g ^ { - 1 } }$ 时，植物气孔导度显著减小，蒸腾速率和净光合速率显著降低。Zhang et al.（2016）的研究发现，石墨烯降低了小麦的叶绿素含量，同时抑制 PSI活性。Chen etal.（2019）发现，积累在豌豆（Pisumsativum）根部的还原GO 转移到叶片，由于产生氧化胁迫，破坏供体侧的含氧复合物而直接抑制光系统II（PSII）的活性。净光合速率的下降说明GO 阻碍了 $\mathrm { C O } _ { 2 }$ 的固定，生物量也会减少；蒸腾速率和气孔导度降低表明水分和其他物质的传输受到影响（Chen etal.,2018a）。高浓度GO 处理下多年生黑麦草叶绿素含量减少、净光合速率降低和生物量减少相一致，说明GO对幼苗生长产生胁迫，使叶绿素合成受阻，影响植物光合作用，进而抑制植物生长。
+
+综上所述，低浓度的GO 对多年生黑麦草生长、光合、保护酶活性、丙二醛含量、叶片质膜透性和可溶性蛋白含量没有显著影响，40 和 $5 0 \mathrm { m g } { \cdot } \mathbf { g } ^ { - 1 } \mathrm { G O }$ 处理使保护酶活性、MDA 含量、叶片质膜透性升高，可溶性蛋白含量下降，对多年生黑麦草产生氧化胁迫，使植物叶片受到损伤。植物通过提高保护酶活性，来抵御GO的胁迫。
+
+# 参考文献
+
+BEGUM P, IKHTIARIA R, FUGETSU B, 2011. Graphene phytotoxicity in the seedling stage of cabbage, tomato, red spinach,and lettuce[J]. Carbon, 49: 3907-3919.
+
+CHEN HH, JIA YM, XU H, et al., 2020a. Ammonium nutrition inhibits plant growth and nitrogen uptake in citrus seedlings[J]. Sci Hortic, 272: 109526.   
+CHEN L, YANG S, LIU Y, et al.,2018a. Toxicity of graphene oxide to naked oats (Avena sativa L.) in hydroponic and soil cultures[J]. RSC Adv, 8(28): 15336-15343.   
+CHEN LY, WANG CL, LI HL, et al., 2017. Bioaccumulation and toxicity of $^ { 1 3 } \mathrm { C }$ -skeleton labeled graphene oxide in wheat[J]. Environ Sci Technol, 51(17): 10146-10153.   
+CHEN LY, WANG CL, YANG SN, et al., 2019. Chemical reduction of graphene enhances in vivo translocation and photosynthetic inhibition in pea plants[J]. Environ Sci-Nano, 6(4): 1077-1088.   
+CHEN M, ZHOU S, ZHU Y, et al., 2018b. Toxicity of carbon nanomaterials to plants,animals and microbes: recent progress from 2015-present[J]. Chemosphere, 206: 255-264.   
+CHEN Z, YU C,KHAN IA, et al., 2020b. Toxic effects of different-sized graphene oxide particles on zebrafish embryonic development[J].Ecotox Environ Safe, 197: 110608.   
+DU JJ,WANG T, ZHOU QX, et al., 2020. Graphene oxide enters the rice roots and disturbs the endophytic bacterial communities[J]. Ecotox Environ Safe, 192:110304.   
+FADEEL B, BUSSY C, MERINO S, et al., 2018. Safety assessment of graphene-based materials: focus on human health and the environment[J]. ACS Nano,12(11): 10582-10620.   
+FAN QJ, CHEN CW, DENG CL，et al.， 2020. Influence of canopy film-covering on photo synthesis and fruits qualities in kumquat[J]. Guihaia,40(7):1046-1053.[范七君，陈传武， 邓崇岭，等，2020．树冠覆膜对金柑光合作用及果实品质的影响[J]．广西植物，40(7)：10 46-1053.]   
+GAO ML, YANG YJ, SONG ZG, 2019. Effects of graphene oxide on cadmium uptake and photosynthesis performance in wheat seedlings[J]. Ecotox Environ Safe,173: 165-173.   
+GUO H,GONG YB,BAO AK,2019. Comperhensive assessment of drought resistance in seedlings of five alfalfa (Medicago sativa L.) cultivars[J]. Appl Ecol Environ Res,17(6): 13253-13261.   
+HAO Y, MA C, ZHANG Z, et al., 2018. Carbon nanomaterials alter plant physiology and soil bacterial community composition in a rice-soil-bacterial ecosystem[J]. Environ Pollut, 232: 123-136.   
+HE Y, HU R, ZHONG Y, et al.， 2018. Graphene oxide as a water transporter promoting germination of plants in soil[J]. Nano Res,11(4): 1928-1937.   
+HUANG WW, HU TX, ZHANG NN, et al.， 2012. Effects of leaf littr of Cinnamomum septentrionale on growth and resistance physiology of Brassica rapa in the decomposition process of litter[J].Acta Ecol Sin,32(12):3883-3891.[黄微微，胡庭兴，张念念，等，2012．银 木调落叶腐解过程对小白菜生长和抗性生理的影响[J]．生态学报，32(12)：383-3891.]   
+HU JJ,LAO ZL，WU KM, et al.， 2017. Research progress in environmental behavior and toxicity of graphene oxide[J].Ecol Environ Sci，26(12)：2169-2176.[胡俊杰，劳志朗, 吴康铭，等，2017．氧化石墨烯的环境行为和毒性效应研究进展[J]．生态环境学报，26(1 2): 2169-2176.]   
+HU XG,LU K,MU L,et al.，2014a. Interactions between graphene oxide and plant cells: regulation of cell morphology，uptake， organelle damage, oxidative effects and metabolic disorders[J]. Carbon, 80: 665-676.   
+HU XG, KANG J,LU KC,et al., 2014b. Graphene oxide amplifies the phytotoxicity of arsenic in wheat[J]. Sci Rep, 4(1): 6122.   
+JIA PP, SUN T, JUNAID M, et al.， 2019. Nanotoxicity of diferent sizes of graphene (G） and graphene oxide (GO) in vitro and in vivo[J]. Environ Pollut, 247: 595-606.   
+MARTiN C, KOSTARELOS K,PRATO M, et al., 2019. Biocompatibility and biodegradability of 2D materials: graphene and beyond[J]. Chem Commun, 55(39): 5540-5546.   
+OMRAN R G,1980.Peroxide levels and the activities of catalase, peroxidase,and indoleacetic acid oxidase during and after chiling cucumber seedlings[J]. Plant Physiol, 65(2): 407-408.   
+SENGUPTA I, BHATTACHARYA P, TALUKDAR M, et al., 2019. Bactericidal effect of graphene oxide and reduced graphene oxide: influence of shape of bacteria[J]. Colloid Interfac Sci Commun, 28: 60-68.   
+SINGH BK, SHARMA SR, SINGH B, 2010. Antioxidant enzymes in cabbage: variability and inheritance of superoxide dismutase, peroxidase and catalase[J]. Sci Hortic, 124(1): 9-13.   
+SUNDAR D, PERIANAYAGUY B, REDDY AR, 2004. Localization of antioxidant enzymes in the cellular compartments of sorghum leaves[J]. Plant Growth Regul, 44(2): 157-163.   
+TAN X,LIN C,FUGETSU B, 2009. Studies on toxicity of multi-walld carbon nanotubes on suspension rice cells[J]. Carbon, 47(15): 3479-3487.   
+VOCHITA G,OPRICA L,GHERGHEL D，et al.， 2019.Graphene oxide effects in early ontogenetic stages of Triticum aestivum L. seedlings[J]. Ecotox Environ Safe,181: 345-352.   
+WANG YF, PAN FB，WANG GS,et al.， 2014. Effects of biochar on photosynthesis and antioxidative system of Malus hupehensis Rehd. seedlings under replant conditions[J]. Sci Hortic, 175(1): 9-15.   
+WENG YN, YOU Y, LU Q, et al., 2020. Graphene oxide exposure suppresses nitrate uptake by roots of wheat seedlings[J]. Environ Pollut, 262: 114224.   
+YIN L，WANG Z,WANG S,et al.， 2018. Effects of graphene oxide and/or $\mathrm { C d } ^ { 2 + }$ on seed germination, seedling growth, and uptake to $\mathrm { C d } ^ { 2 + }$ in solution culture[J]. Water Air Soil Pollut, 229(5): 151.   
+YUAN GQ, GONG JL, ZENG GM, 2015. Phytotoxicity of single-walled carbon nanotubes to rice seedling (oryza sativa L)[J].Acta Sci Circumst,35(12): 4143-4149.[袁刚强，龚继来，曾光明, 2015．单壁碳纳米管材料对水稻幼苗的毒性效应[J].环境科学学报，35(12)：4143-4149.]   
+ZHANG P, ZHANG RR, FANG XZ, et al., 2016. Toxic effects of graphene on the growth and nutritional levels of wheat (Triticum aestivum L.): short-and long-term exposure studies[J]. J Hazard Mater, 317: 543-551.   
+ZHANG X,LIU Y,LIU Q,et al.， 2018. Nitric oxide is involved in abscisic acid-induced photosynthesis and antioxidant system of tall fescue seedlings response to low-light stress[J]. Environ Exp Bot, 155: 226-238.   
+ZOU ZK, WANG YQ, HUANG JL, et al., 2020. A study on the mixture repairing effect of biochar and nano iron oxide on toxicity of Cd toward muskmelon[J]. Environ Pollut, 266: 115371.

@@ -1,0 +1,252 @@
+[
+    {
+        "type": "text",
+        "text": "Hexagonal boron nitride: a rising nonlinear optical material for dual-wavelength soliton generation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bo $\\mathrm { G U O } ^ { 1 ^ { * } }$ ， Shi LI’， Kai ZHANG²，Yaxian FANl， Zaijin FANG¹, Jing RENl,LiboYUAN', & Pengfei WANG1.3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "lKey Labof In-Fiber Integrated Optics,Ministry Education of China, Harbin Engineering University,Harbin 150001, China ²i-Lab,Suzhou Institute of Nano-Tech and Nano-Bionics,Chinese Academyof Science,Suzhou 215123,China 3Photonics Research Centre,Dublin Institute of Technology, Kevin Street, Dublin 8,Ireland ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bo GUO designed the experiments and wrote the draft.   \nBo GUO, and Shi LI discussed the results.   \nAll authors reviewed the manuscript. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thehexagonal boron nitride(h-BN) nanosheetsare synthesizedbytheliquid-phase exfoliation methodand transferred ontothemicrofiberbyoptical deposition method.Theh-BN-deposited microfiber exhibits dual-function,thatis,aturable absorptionandhigh-nonlinearity.Tocheckthelaserperformancebyusing the proposedh-BNdevice,itis inserted intoan erbium-doped fiber laser (EDFL).In experiment,we demonstrate a tunable,switchable dual-wavelength soliton pulse by properly adjusting the pump power and the polarization state in the EDFL. The dual-wavelength soliton laser has a pump threshold of $5 0 \\mathrm { m W }$ at $9 7 6 \\mathrm { n m }$ ,pulse energy of up to $3 . 4 { \\mathrm { n J } }$ ,peak power of about $2 . 6 2 \\mathrm { k W }$ ,and pulse duration of about 1.3 ps.Additionall，we also demonstrate switchable operation of single-wavelength soliton pulse located at 1531.5 and $1 5 5 7 . 5 ~ \\mathrm { n m }$ ,respectively. Our finding unambiguously implies that apart from its fantastic electric and thermal property,hBN nanoshets may also possess atractive optoelectronic property for nonlinear photonics,such as mode-locker, Qswitcher,optical limiter and so on. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Lasers,fiber,Mode-locked lasers,two-dimensinal materials,Pulse propagation and temporalsolitons ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here,we reported that by taking advantage of its saturable absorption and high-nonlinearity property，the h-BN nanosheets synthesized via liquid-phase exfoliation method under our current investigation,can lead to the tunable and switchable dual-wavelength soliton operation of an EDFL. This work demonstrates an excellent example of nonlinear photonics application of the h-BN. In this work,there are two bright spots: 1) We firstly provide an excellent example of nonlinear photonics application of the h-BN nanosheets.2）We firstly demonstrated the dual-wavelength soliton pulses froma fiber laser based on the microfiber-based h-BN device. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Literature review ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dual-wavelength soliton pulses have attracted tremendous interest owing to their versatile applications in optical communication, fiber sensing, biomedical research and radar system'.So far, several active/passive techniques have been exploited for generating multi-wavelength soliton pulse in the fiber lasers. Compared with active schemes， passive schemes share more benefits，including compactness,simplicity and flexibility in design.The key device in the passively mode-locked fiber laser is nonlinear pulse-shaping element, that is,saturable absorber.Since 2Oo9,the two-dimensional (2D) materials,such as graphene², grapheme oxide³,topological insulator4 and $\\mathrm { \\overline { { W S } } } _ { 2 } ^ { 5 }$ , have been found to be potential and efficient candidate for the soliton generation in the fiber lasers and inspired the exploration of the other 2D materials. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BN is isoelectronic to a similarly structured carbon latice and thus exists in various crystaline forms.The hexagonal form corresponding to graphite is a wide direct bandgap semiconductor ( ${ \\sim } 6$ $\\mathrm { e V } ) ^ { 7 }$ ，which possesses high mechanical strength, good electric and thermal conductivity,and excellent chemical stability8-11 Thus,itcanbe used as protective coatings12, transparent membranes, dielectric layersspdtrasistoadsoldtatethalneutrodeeoeveates includingmechanicalexfoliationultrasonication16，chemicalvapordeposition17.18andhighenergy electron beam irradiation of BN particles19,have been used to produce h-BN nanosheets even with thicknesses down to a single atomic layer. In spite of plenty of interesting findings concerning its unique thermal and electronic properties,its optical properties are much less investigated. In 2009, Watanable et al. fabricated a far-ultraviolet plane-emission compact device equipped with a fieldemission array as an excitation source,by taking advantage of the highly luminous properties of h$\\mathbf { B N } ^ { 2 0 }$ Due to its anisotropic structure, whereas a single crystal's basal plane in h-BN is not easily broken21.Therefore,the excitation of far-UV light above the bandgap energy shows various efficient luminescence bands near the band edge. Recently, Kumbhakar et al. reported the nonlinear absorption and nonlinear refraction of h-BN in aqueous dispersion on the nanosecond scale at $1 0 6 4 ~ \\mathrm { \\dot { n } m } ^ { 2 2 }$ However, no pulsed lasers with h-BN nanosheets have been investigated yet. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Methodology (Design/Approach) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Currently,the high quality h-BN nanosheets used in our experiment were synthesized by the liquidphase exfoliation method and purchased from Nanjing XFNANO Materials Tech Co., Ltd. Initially, the h-BN powders were added into the Dimethyl formamide solution and 5 hours by sonication to produce the well-dispersed h-BN suspension.Then, the solution was centrifuged for $3 0 ~ \\mathrm { m i n }$ at 1500 rpm. Thereafter,it was washed several times with ethanol and chloroform to remove any residual DMF,as shown in Fig.1(a). Clearly,h-BN solution has a white translucent color, which is different from the milky suspension of bulk h-BN. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Before transferring the h-BN flakes into the fiber laser,we characterized the h-BN flakes in ethanol solution using a Raman Microscope， scanning electron microscope (SEM), transmisson electron microscope (TEM),and atomic force microscope (AFM).Fig.1(b) and 1(d) shows the TEM and SEM images of the h-BN nanosheets.It can be seen clearly that the $\\mathbf { h }$ -BN has a quasi-2D sheet-like structure with intact surface texture. The hBN nanosheets have a typical disc-like shape with lateral size of $5 0 { - } 2 0 0 ~ \\mathrm { n m }$ .Fig. 1(c) depicted the Raman spectra of the h-BN flakes in the range of 1260-1470 $\\mathrm { c m } ^ { - 1 }$ using the $5 1 4 \\mathrm { n m }$ excitation line at room temperature by a Renishaw inVia micro-Raman system (Renishaw Inc., New Mills, UK). The single Raman peak of h-BN located at $1 3 6 5 . 2 6 \\mathrm { c m } ^ { - 1 }$ ,implies the presence of G band $( \\mathrm { E _ { g } } ^ { 2 } )$ due to the basal plane defects²2. Fig. 1(e) depicts the AFM of the h-BN, it shows the wide size distribution with layer thickness of about $0 . 5 { - } 3 ~ \\mathrm { n m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After preparing the h-BN nanosheets,they were dispersed in the ethanol solution and ultrasonicated for 2 hours.The concentration of h-BN ethanol solution is ${ \\sim } 0 . 5 4 ~ \\mathrm { m g L }$ in this experiment. Fig.2(a) shows the procedures of the fabrication of microfiber-based h-BN device.Firstly,the microfiber with the waist diameter of $1 5 \\ \\mu \\mathrm { m }$ (A) was fabricated with the method similar to that of [5]. Secondly, trap the microfiber with a heat shrinkable tube carefully(B).Thirdly,the h-BN nanosheets were injected into the waist of microfiber by using of a syringe.In this way,h-BN was perfectly transferred onto the microfiber. Before sealing the device,we observe the existence of the evanescent field through injecting the visible light,as shown inset ofFig.2(b).Fourthly,the fabricated h-BN device was sealed by UV glue and evaporated by a laser with the pump power of $1 0 0 ~ \\mathrm { { m W } }$ (D). Finally, we provide its real photograph (E). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For investigating nonlinear optical characteristics of the fabricated h-BN device,the nonlinear absorption of the h-BN device was measured by the power-dependent transmission technique. The experimental setup is the same as that in Ref [5]. The nonlinear saturable transmission measurement was carried out using a femtosecond laser source (central wavelength: $1 5 5 0 ~ \\mathrm { n m }$ ，repetition rate:10 MHz, pulse duration: ${ \\sim } 5 0 0$ fs).Fig.2(b) provides the saturable absorption data of h-BN device and the corresponding fiting curve as a function of peak intensity. Clearly,the modulation depth,saturable intensity，and non-saturable loss is about $2 \\%$ ， $2 5 \\mathrm { M W } / \\mathrm { c m } ^ { 2 }$ ， $71 \\%$ ，respectively.Additionally，the insertionloss of the h-BN device is about 8.5 dB.Note that the saturable intensity of the fabricated hBN device is very low, thus, its mode-locking threshold can be significantly reduced. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To check the laser performance by using the prepared h-BN device, it was inserted into a fiber ring laser cavity.The experimental setup of the proposed fiber laser is sketched in Fig. 3(a). The laser cavity consists of a piece of $\\sim 4 . 5 \\mathrm { ~ m ~ }$ highly doped Erbium-doped fiber(Core active L9oo, EDF) with dispersion parameter of $\\sim - 1 6 . 3$ ps $' ( \\mathrm { k m \\cdot n m } )$ and peak absorption of $1 4 . 5 ~ \\mathrm { d B / m }$ at $1 5 3 0 \\mathrm { n m }$ and ${ \\sim } 9 0 \\mathrm { m }$ single mode fiber (SMF) with dispersion parameter of $1 8 \\ \\mathrm { p s / ( k m \\cdot n m ) }$ . The total net cavity dispersion is $\\therefore - 2 \\mathrm { p s } ^ { 2 }$ .A fiber-pigtailed $9 7 6 \\mathrm { n m }$ laser diode (980-500-B-FA,LD) with maximum power ${ \\sim } 4 0 0 \\mathrm { m W }$ via a fused 98O/1550 wavelength-division multiplexer (WDM) is used to pump source and a 10:90 optical coupler (OC) is employed to extract the output of the laser beam.A polarization independent isolator (ISO)and a polarization controller(PC) were used to force the unidirectional operation of the ring cavity and adjust the polarization state of the propagation light， respectively. The pulse performance of the laser was monitored by a power meter, an optical spectrum analyzer (ANDO AQ6317B)with spectral resolution of $0 . 0 1 { \\mathrm { ~ n m } }$ and a photo-detector (Thorlabs PDA $1 2 . 5 \\mathrm { G H z } \\mathrm { \\cdot }$ ）combined with a 1 GHz mixed oscillscope (Tektronix MDO4054-6,5 GHz/s). Moreover,the pulse duration was measured using a commercial autocorrelator. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Continuous wave operation started at a pump power of about $3 0 ~ \\mathrm { m W }$ and the self-started modelocking occurred at $\\sim 5 0 \\ \\mathrm { m W }$ ，respectively.A series of experiments show that the stable dualwavelength soliton pulses can be easily obtained by properly rotating the PC when the pump power increases from $5 0 \\mathrm { m W }$ to $4 0 0 \\mathrm { m W }$ ,as shown in Fig. 4. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Here,we concentrate our discussion on the dual-wavelength soliton mode-locking performance at the pump power of $3 0 0 \\mathrm { m W }$ in our proposed fiber laser.As shown in Fig. 5(a), the fiber laser shows a dual-wavelength soliton mode-locking at $1 5 3 1 . 5 ( \\lambda _ { 1 } )$ and $1 5 5 7 . 5 \\left( \\lambda _ { 2 } \\right)$ nm. The wavelength spacing and the 3-dB bandwidth per-lasing wavelength are ${ \\sim } 2 6 ~ \\mathrm { n m }$ and ${ \\sim } 2 ~ \\mathrm { n m }$ ，respectively. The typical pulse train of the dual-wavelength soliton laser output, depicted in Fig. 5(b), has a period of $4 7 3 . 5 \\mathrm { n s }$ ，which matches with the cavity roundtrip time and verifies the mode locking state.The pulse duration was about $1 . 3 ~ \\mathrm { p s }$ ,as shown inset of Fig. 5(b).To investigate the operation stability of the dual-wavelength soliton pulse,we also provide its radio frequency (RF) spectrum,as shown in Fig. 5(c).Notably, similar to the previous work4，we also can see that frequency modulation is presented due to the interaction and competition of dual-wavelength soliton pulses. According to the theoretical formula', the RF separation of the dual-wavelength soliton pulse is $\\sim 2 . 1 \\ \\mathrm { H z }$ In addition, the optical spectrum of traditional soliton operation at $1 5 3 1 . 5 \\ \\mathrm { n m }$ (blue curve) and $1 5 5 7 . 5 ~ \\mathrm { n m }$ （green curve) is switched with the PC changing from $0 ^ { 0 }$ to $4 5 ^ { 0 }$ ，respectively,as shown in Fig. 5(d). Meanwhile, the laser output power versus the pump power, the slope efficiency is about $1 . 7 \\%$ ,as shown in Fig. 3(b). When the pump power is $4 0 0 ~ \\mathrm { { m W } }$ ,the laser maximum output power of $7 . 2 \\mathrm { m W }$ with the pulse energy of $3 . 4 ~ \\mathrm { n J }$ and peak power of $2 . 6 2 \\mathrm { k W }$ can be obtained.Furthermore, taking advantage of the high-nonlinearity of the proposed h-BN device, the tunable spectral evolution with the rotation of the paddles of the PCs but other cavity parameters kept unchanged. Clearly, the central wavelength $( \\lambda _ { 1 } )$ of the left soliton could be shifted from $1 5 2 9 . 5 \\mathrm { n m }$ to $1 5 3 3 . 5 \\mathrm { n m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5． Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is surprising that stable dual-wavelength soliton generation still occur even no comb filter in the cavity. The reason could be simply explained as folows.Similar to the previous reports4-,the dualwavelength soliton pulse results from the few-layer h-BN.Besides the saturable absorption, Kumbhakar et al. and Ouyang.et al. also found that h-BN nanosheets show a huge third-order nonlinear refractive index of $1 0 ^ { - 8 } \\mathrm { c m } ^ { 2 } / \\mathrm { W }$ (almost twelve orders of magnitude larger than that of bulk dielectrics)2secieyceiouaveiiggeeaoWeat FWM process has been verified to be helpful for multiwavelength generation in the EDFLs by the self-stabilizing function'. Such a stabilizing mechanism can effectively suppress the gain competition in EDFLs.Thus,it can generate dual-wavelength soliton pulses in our proposed fiber laser due to the FWM from the h-BN nanosheets.Notably, the saturable absorption of h-BN near $1 5 5 0 ~ \\mathrm { n m }$ belongs to sub-bandgap absorption because the direct bandgap of monolayer h-BN is ${ \\sim } 6 . 0 \\mathrm { e V }$ （ $\\left( \\sim 2 1 0 ~ \\mathrm { n m } \\right) ^ { \\frac { \\dag } { \\ d t } }$ ，the reason may be attributed to the defect, and multi-photon absorption22.Further investigation on the high-nonlinear mechanism of h-BN is required in future work. Finally，we tested the operation characteristic of the fiber laser without incorporating the microfiber-based h-BN device. By adjusting the cavity parameters in a wide range,there is no soliton mode-locking generation, which excludes the possibility of self-mode-locking and the Fabry-Perot cavity effect in the cavity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6. Conclusion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, we experimentally reported the nonlinear optical properties of h-BN nanosheets, which are developed as a dual-function device,that is,mode-locker and high-nonlinear device. The strong optical nonlinearity of few-layer h-BN is benefit for eliminating the mode competition of EDF for stabilizing the tunable and switchable dual-wavelength soliton generation.The dual-wavelength soliton laser has a pump threshold of $5 0 ~ \\mathrm { m W }$ at $9 7 6 ~ \\mathrm { n m }$ ， pulse energy of up to $3 . 4 ~ \\mathrm { n J }$ ，peak power of about $2 . 6 2 \\mathrm { k W }$ ,and pulse duration of about 1.3 ps. This experimental result clearly evidences that hBN nanosheets possess the desired optical properties for laser photonics and can be considered as another 2D material, paving the way for h-BN based nonlinear photonics. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This research was financially supported by the National ScienceFoundation (61575050); The 111 projectof the Harbin Engineering University (B13015),Shenzhen Key Laboratory of Ultrahigh Refractive Structural Material (CXB201105100093A) and Shenzhen Key Laboratory of Transformation Optics and Spatial Modulation （CXB201109210100A）. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "multiwavelength erbium-doped fiber lasers. IEEE Photonics Technology Leters, 2005,17(12):   \n2541-2543.   \n2 Zhang,H., Tang, D. Y., Wu, X.,& Zhao, L. M. Multi-wavelength dissipative soliton operation of an erbium-doped fiber laser. Optics Express,2009,17(15): 12692-12697.   \n3 Huang, S.， Wang, Y.， Yan, P.， Zhao,J.，Li,H.，& Lin，R. Tunable and switchable multiwavelength dissipative soliton generation in a graphene oxide mode-locked Yb-doped fiber laser. Optics Express,2014, 22(10): 11417-11426.   \n4 Guo,B., Yao, Y., Yang, Y.F., Yuan, Y.J., Jin,L., Yan, B.,& Zhang, J. Y. Dual-wavelength rectangular pulse erbium-doped fiber laser based on topological insulator saturable absorber. Photonics Research,2015,3(3): 94-99.   \n5 Guo,B., Yao, Y., Yan,P. G., Xu, K., Liu, J. J., Wang, S. G.,& Li, Y. Dual-Wavelength Soliton Mode-Locked Fiber Laser With a $\\mathbf { W S } _ { 2 }$ -Based Fiber Taper. IEEE Photonics Technology Letters,   \n2016,28(3): 323-326. Xia,F.,Wang,H., Xiao,D., Dubey,M.,& Ramasubramaniam,A. Two-dimensional material nanophotonics. Nature Photonics, 2014, 8(12): 899-907.   \n7 Cassabois,G.，Valvin，P.，& Gil,B.Hexagonal boron nitride is an indirect bandgap semiconductor. Nature Photonics. 2016, 10(12): 591.   \n8 Nersisyan, H. H.,Lee, T.H., Lee, K.H., An, Y. S., Lee,J. S.,& Lee, J. H. Few-atomic-layer boron nitride nanosheets synthesized in solid thermal waves. RSC Advances, 2015,5(12): 8579-   \n8584.   \n9 Ci,L., Song, L., Jin, C., Jariwala, D., Wu, D., Li, Y., Srivastava, A., Wang, Z. F., Storr, K., Balicas,L.,Liu,F.,& Ajayan,P. M. Atomic layers of hybridized boron nitride and graphene domains.Nature Materials, 2010, 9(5): 430-435.   \n10 Zhang, K., Yap,F.L., Li, K., Ng, C. T.,Li, L. J., & Loh, K.P. Large scale graphene/hexagonal boron nitride heterostructure for tunable plasmonics. Advanced Functional Materials,2014,   \n24(6): 731-738.   \n11 Kubota, Y., Watanabe, K., Tsuda, O.,& Taniguchi, T. Deep ultraviolet light-emiting hexagonal boron nitride synthesized at atmospheric pressure. Science,2007, 317(5840): 932-934.   \n12 Lee, C., Li, Q.，Kalb,W.,Liu, X. Z., Berger, H., Carpick, R.W.,& Hone, J. Frictional characteristics of atomically thin sheets. Science,2010, 328(5974): 76-80.   \n13 Dean, C.R., Young, A.F., Meric,I., Lee, C., Wang,L., Sorgenfrei, S., K. Watanabe,Taniguchi, T., Kim,P.， Shepard K.L.,& Hone, J. Boron nitride substrates for high-quality graphene electronics. Nature Nanotechnology,2010, 5(10): 722-726.   \n14 Britnell,L., Gorbachev,R.V., Jalil,R.,Belle,B.D., Schedin,F.,Mishchenko,A., Georgiou,T., Katsnelson, M. 1.,Eaves,L.,Morozov, S.V.,Peres,N. M.R.,Leist, J., Geim, A. K., Novoselov, K. S.， Ponomarenko,L. A. Field-efect tunneling transistor based on vertical graphene heterostructures.2012, Science,335(6071): 947-950.   \n15Lee, K. H., Shin, H. J.,Lee, J.,Lee, I. Y., Kim, G. H., Choi, J.Y., & Kim, S. W.Large-scale synthesis of high-quality hexagonal boron nitride nanosheets for large-area graphene electronics. Nano Letters, 2012,12(2): 714-718.   \n16 Zhi, C., Bando, Y., Tang, C., Kuwahara, H.,& Golberg,D. Large-scale fabrication of boron nitride nanosheets and their utilization in polymeric composites with improved thermal and mechanical properties. Advanced Materials, 2009,21(28): 2889-2893.   \n17Shi, Y., Hamsen, C., Jia, X., Kim, K. K.,Reina, A., Hofmann, M., Hsu,A.L., Zhang, K.,Li,H., Juang,Z.-Y., Dresselhaus, M. S.,Li,L.-J.,and Kong,J.,& Dresselhaus, M. S. Synthesis of fewlayer hexagonal boron nitride thin film by chemical vapor deposition. Nano Letters,2010,   \n10(10): 4134-4139.   \n18 Alem, N., Ramasse, Q. M., Seabourne, C. R., Yazyev, O. V., Erickson, K., Sarahan, M. C., Kisielowski, C., Scott, A. J., Louie, S. G., & Zettl, A. Subangstrom edge relaxations probed by electron microscopy in hexagonal boron nitride.Physical Review Letters,2012,109(2O): 205502.   \n19Jin, C.,Lin,F., Suenaga, K.,& Iijima, S.Fabrication of a freestanding boron nitride single layer and its defect assignments. Physical Review Letters, 2009,102(19): 195505.   \n20 Watanabe，K.， Taniguchi， T.，& Kanda, H. Direct-bandgap properties and evidence for ultraviolet lasing of hexagonal boron nitride single crystal. Nature materials, 2Oo4,3(6), 404-409.   \n21 Watanabe, K.， Taniguchi, T.， Niyama, T.， Miya, K.，& Taniguchi, M. Far-ultraviolet planeemission handheld device based on hexagonal boron nitride. Nature Photonics, 2Oo9,3(1O): 591-   \n594.   \n22Kumbhakar, P., Kole,A. K., Tiwary,C. S., Biswas, S., Vinod, S., Taha-Tijerina, J., Chatterjee, U.，& Ajayan，P.M. Nonlinear Optical Properties and Temperature - Dependent UV-Vis Absorption and Photoluminescence Emission in 2D Hexagonal Boron Nitride Nanosheets. Advanced Optical Materials,2015,3(6): 828-835.   \n23 Ouyang, Q.，Zhang,K.， Chen，W.， Zhou,F.，& Ji， W. Nonlinear absorption and nonlinear refraction in a chemical vapor deposition-grown, ultrathin hexagonal boron nitride film. Optics Letters, 2016, 41(7): 1368-1371. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure Legends ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Preparation and structural characterization of h-BN.(a) Photograph of h-BN dispersion,(b) TEM image, (c) Raman spectrum (Inset: h-BN crystal structure),(d) SEM image and (e) AFM image of h-BN nanosheets. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.2(a) Procedures of the preparation (Inset: photograph of real h-BN device) and (b) The nonlinear saturable absorption curve of the microfiber-based h-BN device (Inset: its corresponding visible light image). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 (a) Experimental setup of the proposed fiber laser, (b) The output power versus the pump power of the proposed fiber laser,the red balldot is the experimental data and the blue solid line is the fitting curve. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 Typical dual-wavelength cw and soliton lasing spectra of the proposed EDFL with the pump power increasing from $3 0 \\mathrm { m W }$ to $4 0 0 \\mathrm { m W }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig. 5 Typical characteristics of the dual-wavelength soliton pulses with the pump power of $3 0 0 ~ \\mathrm { { m W } }$ (a) dual-wavelength soliton spectrum, (b) its corresponding oscilloscope trace (Inset: autocorrelation trace), (c), its corresponding RF spectrum measured in 120 MHz range, (d) switchable spectrum of the traditional soliton. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig. 6 Tunable dual-wavelength soliton spectra from the proposed fiber laser. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bfc547a2e4075f33795d6bad27cbb58e5c5b2aba5013e3b6f3245e20569e818.jpg",
+        "img_caption": [
+            "Figures "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0bd9a76842ff186b79536949da5df2a3615fce411c05a7a3bf8bea9ba49da66.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c65f80db6cad9efe0010349aa0df349c504fcebd71f226e8b5b7cef7e7c04d6e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e72b3586962d90a109ebffd86d021259e9c88753b2554c9c3c317fd57f8f212.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/27c3347bbf315fe5d7c1f9780f33ac3599a990b78955cf2929bfcb32c20c1ef7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f64bf42111f0e6ee17e76006aca34752bed2437144e9c68c903656591f96bd3.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 14
+    }
+]

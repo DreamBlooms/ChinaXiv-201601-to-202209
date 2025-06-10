@@ -1,0 +1,177 @@
+# 化危为机：青少年学校转折期的过渡
+
+柴晓运¹ 林丹华²
+
+（1湖北医药学院应用心理学系，十堰442000）
+
+（2北京师范大学发展心理研究院，北京100875）
+
+摘要从生命历程的角度看，学校过渡是青少年成长过程中的重要发展转折点，对个体的发展轨迹具有重要影响。先前研究多基于缺陷的视角，将学校过渡视为充满挑战和风险的危机时期，并发现青少年在这一时期伴随着各种消极的发展结果。但从青少年积极发展的视角来看，学校过渡可能是青少年获得适应性的、健康发展的重要机遇，也是发展可塑性表现最为充分的时期。如果青少年的内部和外部资源能够很好地融合，他们就有可能获得积极的学校过渡。
+
+关键词青少年，学校过渡，转折点，积极发展
+
+# 1青少年经历的重要发展转折点：学校过渡
+
+发展转折点(tuming point)是生命历程理论的核心概念之一，主要涉及一些与发展相关的事件，这些事件可能带来“某种状态发生陡然的变化”，它与个体发展的特定时空(time andplace)是密切相关的(Elder,1998;Elder et al.,2015)。人类的发展具有一定的情境-敏感性，一些关键的发展转折点对个体毕生的发展历程有长远的影响(Cantoret al.,2019)。这些“转折点”包括教育领域的学校过渡(schooltransition)，例如，小学过渡到初中、初中过渡到高中;向成年人过渡、第一次离开家庭以及为人父母等(Elder etal.,2015)。
+
+综合先前的文献发现(如Benner,2011;Elder& Shanahan,2015)，对青少年而言，学校过渡既涉及客观的学习环境的改变，又伴随着其身心状态的陡然变化。客观上，向高一级学校的过渡，意味着校园环境、班级规模和社交对象等由熟悉走向陌生；学业任务、行为规范等外部要求和期望的标准变得更高。主观上，青少年感知到的压力、自我概念、情绪、学业、社交关系和学校归属感等也可能在这一时期发生复杂的变化。此外，向新学校过渡的同时，个体也经历着青春期发育这一关键时期，即第二发育高峰期。因此，学校过渡作为青少年阶段重要的发展转折点，包含着学业、个性社会性及生理发展的复杂变化，在个体毕生发展历程中扮演着重要的角色(Eccles&Roeser,2011)。如果此时期的特定任务没有解决好，可能会影响整个青少年时期的发展轨迹，甚至是成人之后的发展历程(Duineveld etal.,2017)。当前，理解青少年阶段的学校过渡主要以生命历程理论为框架，以探究这一特定时期个人心理特征和环境之间相互影响的动态变化对青少年发展的影响(Benner,2011)。生命历程理论认为，在个体的发展转折期，如果一个领域的发展受阻可能会产生连锁反应，最终影响到其它领域的发展(Elder& Shanahan,2007)。例如，在学校过渡期，如果青少年起初遭遇了学业上的困难，且没有很好地应对这一问题，可能会引发个性和社会性等多个领域的发展困难(Benner et al,2017)。研究发现，处于学校过渡期的青少年对外部情境的变化具有很强的敏感性，其发展轨迹的趋向是这一时期内个体特征与情境相互作用的结果(Benner,2011)。尽管不同国家或地区的教育体制存在差异（如初中过渡在美国是6\~7年级，德国是4\~5年级)，但以往研究均发现了“学校过渡效应”，即这一时期会表现出学业成就、情绪、自我概念和学校归属感的显著波动(Arens et al.,2013; Benner,2011)。因此，在“学校过渡”的情境中考察青少年的发展过程，对于研究者更深入理解“何时”和“如何”更高效地促进青少年的发展具有重要意义。
+
+# 2基于缺陷视角的学校过渡
+
+在很长一段时间内，理解青少年的发展历程常常被置于缺陷视角(deficit view)下，即认为这一阶段处于一个“暴风骤雨”的危机时期，研究者多聚焦于青少年身上的各种不良发展结果，如内外化问题等(Lermer etal.,2005)。基于此，学校过渡期也被认为是一个在学业和社会性发展上充满挑战和风险的时期。先前大量的研究，从问题与缺陷的角度，探索了在这一时期青少年的学业、情绪、自我和学校归属感等变量的非适应性发展结果以及相关的前因变量(Benner, 2011; Evans et al.,2018)。
+
+# 2.1学校过渡期青少年发展不良的主要表现
+
+# 2.1.1学业动机、行为和成就降低
+
+进入新的环境，学业任务是青少年在学校过渡阶段首要应对的挑战。在一个新的、更高要求的学校环境中，学生不仅需要完成更多、更难的学业任务，还要建立新的师生和同伴关系，并关注初中或高中毕业后的个人生涯问题(Crosnoe&Benner,2015)。依据生命历程论中的“劣势累积”效应(Elder et al.,2015)，对于那些原来在学业领域中就处于劣势的青少年而言，学校过渡期更可能是一个充满风险因素的发展情境。如果长期持续在较低的学业成就发展轨迹上，那么意味着在新学校中的辍学风险就会增加(Langenkamp,2010)。
+
+首先，以往研究中，广为关注的一个方面就是学业自我概念如何受到新环境的影响。例如，众所周知的“大鱼小池效应”，主要指“高能力”的学生在与“能力相对更高”的一批学生进入相同的学习环境中时，学业自我概念会表现得更为消极(Marsh etal.,2008)。新近的一项来自德国的研究发现，从小学过渡到初中后，青少年的总体学业自我概念、德语和数学自我概念均出现了明显的下降，即存在一个“大鱼小池效应”(Becker&Neumann,2018)。其次，进入新的学习环境中，教与学的方法并不总是与每个学生的发展需要很好地匹配，这可能会导致学习动机和成绩的下降(Evans etal.,2018)。在学习动机上，一项来自以色列的研究发现，青少年在初中过渡期的学业动机定向出现了“非适应性”的变化，即掌握目标定向水平逐渐降低，成绩目标定向水平逐渐提高(Madjar et al.,2018)。这意味着经历学校过渡后，青少年更加关注如何去证明自己的学业能力，而忽视深度学习和长期的自我提升。就学业成绩而言，来自中国的一项短程追踪研究发现，大约 $78 \%$ 的高一学生在第一学期中，学业成绩呈现出下降的趋势(Liu&Lu,201)。此外，尽管对学业投入的评估方式在不同的研究中不尽相同，但研究结果都发现了在学校过渡期内，青少年的学业投入存在下降的特征，如表现出更多的缺勤次数和学业抱怨等(Benner,2011; Benner & Graham,2009)。
+
+# 2.1.2自尊和学校归属感降低
+
+在学校过渡期，青少年发展的另外一个特点就是对自我和当下发展情境（即新学校）的积极知觉降低，具体表现为自尊和学校归属感的降低。自尊是指人们对自己整体的积极或消极知觉，是表征青少年发展状态的晴雨表(Craven&Marsh,2008)。在毕生发展的过程中，自尊的发展是一个动态变化的过程，是个体发展过程中风险因素和保护性因素相互作用的结果。一项长期的追踪研究发现，青少年在向新学校过渡的过程中，其心理功能可能会恶化，具体表现为自尊的下降以及抑郁、孤独、攻击和反社会行为等内外化问题的增加(Barber &Olsen,2004)。学校归属感涉及在学校环境中被老师和同学接受、重视、包容和鼓励的知觉，是学业和心理社会性积极发展的重要预测因素(Slaten et al.,2016)。以往的研究表明，青少年在学校过渡期，学校归属感的发展轨迹存在下降的趋势。例如，Benner 和Graham(2009)的研究发现，青少年在刚进入新学校之后，对学校的归属感会存在短暂的下降，且这种短期的下降伴随着抑郁和孤独等情绪问题，也与青少年的不良学业行为(如无故缺勤)等密切相关。
+
+# 2.1.3心理健康问题和风险行为陡升
+
+以往研究发现，青少年在过渡到新的教育环境之后，面临学校环境的变化、先前同伴社交网络的解散、新的学业挑战、更多不同教学风格的老师等诸多现实问题，使其在短期内压力增加，并伴随着抑郁、焦虑等心理健康问题的出现和饮酒等风险行为的上升(Evans et al,2018;Weiss& Baker-Smith,2010)。在心理健康层面，一项追踪研究发现，青少年进入高中后，孤独和焦虑水平存在一个明显的上升，说明学校过渡对他们来说具有一定的挑战性(Benner&Graham,2009)。在风险行为方面，来自美国的一项全国性调查研究发现，处于学校过渡期的青少年，与饮酒相关的风险行为显著增加(Jackson& Schulenberg,2013)。具体表现为，青少年从“不饮酒”转变为“轻度饮酒”或“重度饮酒”的比例更高；女生更有可能从“不饮酒”转变为“轻度饮酒”，而男生更有可能转变为“重度饮酒”。因此，学校过渡期对青少年而言，可能是一个心理健康问题和风险行为增加的易感期。
+
+综上所述，处于学校过渡期的青少年，可能在学业、心理与行为以及社会性发展等方面面临一定的挑战。需要指出的是，尽管上文对以上三个领域分别进行了总结，但实际上这几个方面也是相互联系的，共同作用于青少年的发展，构成了一个有机的发展系统(Engels etal,2019)。例如，一项对3\~9 年级学生的追踪研究发现(从小学过渡到初中)，青少年的社会情绪能力、学业成绩和认知能力是相互预测的关系，且总体上构成了一个发展级联系统(Okano etal., 2019)。
+
+# 2.2影响青少年学校过渡期发展的因素
+
+哪些因素可能与青少年学校过渡期的发展趋势有关呢？基于对先前文献的分析发现，内在的生理、心理因素和外部的家庭、学校和社区因素共同决定了青少年能否成功度过这一重要发展转折期。
+
+# 2.2.1内在的生理和心理因素
+
+众所周知，青少年阶段是一个荷尔蒙等生理相关因素发生巨大变化的时期。因此，学校过渡期青少年出现的各种问题，除了“过渡效应”本身之外，还可能与这一时期大脑的发育有关。基于脑科学的研究发现，伴随脑功能的发展，青少年的社会认知(如“观点采择”）和执行功能(如“选择性注意和决策”)也在快速发展，但这一系列变化在特定时期是否有益于青少年的积极发展，还没有确定的答案(Blakemore & Choudhury,2006)。依据环境放大假设理论(the contextual amplification hypothesis)，生理变化和环境变化(如新的学校环境)会交互影响青少年的发展(Ge etal.,2011)。如果自我调节能力发展不能很好地适应突然变化的环境，就可能导致处于学校过渡期的青少年对负性事件更加敏感，使得他们对新学校中的重要事件和他人有更为挑剔的知觉，更容易出现情绪和行为问题。但是否可以认为青少年在学校过渡期的各种问题，均根源于“青春期”，而非“过渡”呢？在德国教育体系中，小学向初中的过渡是在四年级之后，也就是在青春期之前，这为研究者回答这一问题提供了可能性。研究发现，相比于德国四年级的学生，五年级的学生被发现有较低的自尊、自我概念和学业情感(Arens etal.,2013)。由此认为，学校过渡期降低的自我概念可能主要归因于“过渡”自身而非青春期发育的作用。总的来说，生理影响可能和学校过渡情境共同作用于青少年的发展。
+
+除生理因素外，青少年内在的社会认知和情绪特征与学校过渡期的学业和社会化结果也是密切相关的(Evans etal.,2018)。在社会认知方面，主要涉及学校过渡效能感、智力观和自我控制等心理特征。例如，基于 Bandura(2001)的社会认知学习理论，Madjar 和 Chohat(2017)提出了学校过渡效能感的概念，主要涉及个体对能否在新的学校环境中应对学业任务和良好适应的信念。在他们的研究中发现，入学初期的学校过渡效能感与后期青少年在学业方面的情绪和行为投入存在正向预测关系。同时，与智力相关的信念也被认为是学校过渡期压力应对的重要保护性因素。例如，在向高中过渡的过程中，持智力实体观(即智力是固定的、不变的品质)的学生要比持智力增长观(即智力是变化的，可通过努力提高的品质)的学生表现出更高的皮质醇水平(Lee etal.,2019)。这一结果说明，在青少年比较艰难的学校过渡期，信念可能影响其生物应激反应。此外，高水平的自我控制是反映青少年认知成熟和执行功能的重要指标，它与青少年积极的发展结果是密切关联的(Moffitt et al.,2011)，在学校过渡期的发展中是一个重要保护性因素。在情绪特征方面，情绪智力可能是影响过渡期青少年学校表现的重要预测因素。例如，一项来自英国的研究发现，与情绪智力低于平均水平的学生相比，情绪智力处于平均水平或更高水平的学生在学校的成绩更好，而且在过渡到中等教育阶段（11\~12 岁）后，其学业努力程度也更佳(Qualter et al,2007)。
+
+# 2.2.2外在的家庭、学校和社区因素
+
+在家庭方面，父母的支持、关爱和发展性指导等积极行为和良好的亲子沟通等有助于缓解青少年在学校过渡中面临的困境。比如，来自芬兰的追踪研究发现，较高的父母自主支持正向预测青少年学校过渡期的自尊和生活满意度，负向预测抑郁症状和情绪耗竭(Duineveldet al.,2017)。同时，较高的父母情感支持也可能通过增强青少年的自主动机，间接预测较高的学校满意度和较低的辍学意愿(Vasalampi etal.,2018)。更重要的是，如果父母能够在认知和行为上指导其孩子如何应对这些挑战，将有助于青少年在社会性发展上的积极适应。例如，教会孩子如何积极思考来自同伴的压力，如何在行为上应对同伴挑战，将有助于青少年在群体中被接纳(Gregson etal.,2017)。此外，较低的家庭社会经济地位也可能是青少年学校过渡期发展的重要风险因素(Serbin etal.,2013)。例如，一项美国的纵向研究表明，低收入家庭的学生在经历小学到初中的教育过渡时，其学业成绩的下降可能更为明显(Akos etal.,2015)。
+
+在学校层面，学校规模的变化、原有同伴群体的解散、更高难度的学业任务以及更具复杂性的社交环境等，对跨入新学校的青少年来说，是一个极具挑战性的情境(Weiss＆Baker-Smith,2010)。依据阶段-环境匹配理论(stage-environment fit theory)，如果过渡期内学校环境中的发展资源与青少年的内在需要不匹配，那么青少年将带着更多的风险问题度过这一时期，并对其后续的健康发展带来不良影响(Gutman& Eccles,2007)。一项纵向研究发现，在向初中过渡的过程中，学生知觉到的来自教师的温暖在下降、冲突在上升，且这种变化与下降的学业投入和数学成绩存在显著的预测关系(Hughes&Cao,2018)。总的来说，亲密的和支持型的师生关系作为一种重要的发展资源，有助于青少年在学校中获得情感安全感和自信，进而促进其主动适应变化的环境，并更有效地应对学业和社交压力(Verschueren & Koomen,2012)。与此同时，跨入新学校后，青少年面临的一个很重要的问题就是重建同伴关系网络。如果经历长期的同伴拒绝或不受欢迎，那么在学校过渡中更可能伴随着不良的学业表现(Bellmore,2011)。反之，高质量的友谊和同伴关系，可以为青少年提供一个相对安全的关系基础，以利于他们相对舒适地探索新环境，并有效地应对过渡期间的学业和社会性方面的适应困难(Aikins etal.,2005)。但需要注意的是，同伴关系也可能是青少年从事冒险行为的一个重要风险因素。例如，一项fMRI研究发现，青少年在进行冒险活动的游戏时，相比告诉他们母亲在场，告诉同伴在场的时候，其冒险行为的频率显著提高，且对奖励敏感的脑区的活动性增强与受同伴影响带来的冒险行为增加有关(Telzer etal.,2015)。此外，学校能否提供高质量的“学校过渡辅导项目”与青少年的入学适应也有密切联系。例如，一项针对高中生的学校过渡干预研究发现，通过提升青少年的适应应对和人际控制能力，并增强学校依恋感，可以显著降低他们在过渡期内的抑郁情绪(Blossom et al., 2020)。
+
+在社区层面，学生参与的课外活动(Extracurricular activities)也被视为青少年学校过渡期的重要发展情境。Modecki等 (2018)考察了课外活动的参与广度与在高中过渡期内自我概念的关系。该研究发现，参与广度越大(即课外活动的范围越广)，越有助于减缓过渡期内下降的自我概念(如总体的、社交和学业自我概念)。因此，社区层面提供的课外活动也可能是干预或促进青少年学校过渡期适应性发展的重要资源，接触多样化的具有建构性的发展情境，有助于缓冲学校过渡给自我概念带来的消极影响。
+
+通过上述文献综述发现，已有研究多聚焦于学校过渡期青少年的消极发展结果，如学业动机、成绩的下降以及心理社会性适应困难等问题，较少关注这一发展转折期可能存在的积极发展过程。下面，本文尝试从理论和已有实证研究两个方面，来分析学校过渡期青少年积极发展的可能性，并从方法学角度指出推进理解学校过渡期青少年积极发展的基本取向，最后将提出青少年积极学校过渡过程的假设模型。
+
+# 3新的认识：基于积极发展视角的学校过渡
+
+# 3.1学校过渡作为青少年积极发展的重要机遇
+
+在积极发展相关的理论层面，至少可以从以下三个视角去理解青少年在学校过渡期的潜在发展过程。首先，近年来，基于优势的“积极青少年发展观”(positive youth developmentperspective)日益取代过去的“问题与缺陷”模型，开始指导青少年发展科学的研究和实践(Lerner et al.,2015; Petersen etal.,2017)。越来越多的研究者开始对青少年发展的积极方面感兴趣，他们不再忙于寻找或干预青少年可能存在的问题或风险因素，而是倡导通过增强内部的优势和外部生态资源来促进青少年的积极发展。积极青少年发展观指出，青少年的发展具有相对可塑性，即使是处于困境中的青少年，如果学校和家庭等外部环境给予足够的发展资源，那么其内在的优势和潜能就可能被激发出来，进而获得积极发展(Lerner etal.,2015)。由此推测，如果青少年拥有丰富的、高质量的外部生态资源(如新学校老师的支持与关爱、父母的鼓励等)，且自身能够利用这些资源调节过渡期环境与自身需要之间的矛盾，就可能避免或减少一些消极的发展结果，而获得积极的发展。其次，压力相关的成长理论(Stress-Related Growth)认为，在一些重大生活事件之后(如创伤、疾病等高压力事件)，许多人会在心智(mental)上投入巨大的努力来应对这些挑战(LoSavio et al.,2011; Park,1998)。因此，他们可能会体验到广泛的积极结果，如自尊、应对技能、精神性和社会支持方面的积极变化，且这种现象在一般性负性生活事件领域也存在，其内在的机制在于个体在逆境中的意义获得(meaning-making)，即通过改变对特定情境的意义评价或者通过改变信念和目标来实现积极的适应(Park,2010)。依据该理论，学校过渡作为一个压力事件，也可能创造了发展的机遇，即如果个体能够管理好压力，充分利用支持资源，发展有效的应对策略，这种“压力”反而利于其认知、个性和社会性的发展，并增强个人的心理弹性。再次，基于生命历程理论，“转折点”也可能是个体“切断”与过去不良经历的时机，这意味着拥有重新改变的机会(Elderet al.,2015)。正如 Roepke 和 Seligman(2015)指出，压力或逆境后成长的关键在于失去一些东西之后，要看到“正在打开的门”(doors opening)以及随之而来的新机会。依照这种思路，过渡到新学校之后，对于那些过去在学业和社交等方面欠佳的青少年而言，他们终于摆脱了过去“糟糕的自我形象”，有机会重塑新的自我。而对于本来就发展良好的青少年而言，尽管步入新学校意味着原有社交资源的丧失，但新环境却提供了更广阔的社会性发展平台。如果能够积极融入新的环境，他们也可能会获得更为积极的改变。总的来说，积极青少年发展观在“相对可塑性”基础上，强调个体在学校过渡期的外部资源和内在优势的相互作用与融合的重要性(Lermer et al.,2015)，而生命历程理论和压力相关的成长视角则重视看到新的机会和希望，也就是重构“压力事件”本身的积极意义(Elder etal.,2015;Park,2010)。尽管视角不同，但透过其核心假设，研究者可以推测出青少年在学校过渡期存在积极发展的可能性。
+
+从已有实证研究来看，近期的一些纵向研究为学校过渡期青少年积极发展的可能性提供了初步的证据。例如，一项来自日本的研究发现(Iimura&Taku,2018)，在向高中过渡的过程中，存在一类获得“积极成长”(positive growth)的青少年，他们在第一学期结束时会表现出积极的变化，如人际关系水平提高、对新的可能性的认同、心灵成长和对生活更加赏识。在其后续的研究中发现，如果青少年认为“学校过渡”这件事越重要，那么其社会情绪健康水平也可能在过渡期内变得越来越好(Iimura,2020)。与之类似，来自芬兰的研究也显示，大约三分之一的青少年，在初中过渡期维持积极的发展特征，表现为高水平的学校愉悦感、未来的抱负和自尊以及低水平的学校倦怠感和内外化问题，且更大比例的学生总体上朝向积极的方向发展，而不是相反(Virtanen etal.,2019)。综上所述，无论从理论推断还是新近的实证依据，都说明学校过渡作为毕生发展中的重要转折点，为青少年学业以及人格社会性的重塑和积极发展提供了重要的机遇。
+
+# 3.2个体为中心方法助推理解潜在的积极学校过渡历程
+
+先前的多数研究没有重视青少年积极的、适应性的学校过渡，主要原因可能有两个方面。一是研究视角的偏差，即“问题与缺陷”视角长期占据青少年发展研究的主流，将视野局限于学校过渡期的消极发展结果上，没有更多地尝试从积极发展的视角去看待这一问题。二是受限于研究方法和统计技术。长期以来，学校过渡相关的研究过度依赖于“变量为中心”（variable-centered）方法去描述总体的特征，而缺乏从“个体为中心”（person-centered）的角度去关注群体发展中的异质性。近年来，在探索青少年积极发展轨迹的研究中，研究者日益重视以“个体为中心”取向来揭示青少年积极发展的多样性、动态性和复杂性(von Eye etal., 2015)。
+
+“变量为中心”的万法王要是以线性模型为基础，具基本假设是个体间是同质的，具统计方法所揭示的通常是平均的变量关系或心理过程，典型统计方法涉及线性回归、均值差异检验等；“个体为中心”的方法，目的在于揭示群体中的异质性和多样性，统计方法上多采用潜类别/剖面分析、聚类分析、配置频次分析、潜变量增长混合模型等，强调在研究设计和结果解释上重视个体差异、发展过程中的动态因素、个体 $$ 情境的双向互动关系等(von Eyeet al.,2015；杨之旭，辛自强,2016)。正如von Eye 等(2015)指出的，数字上差异的量可能是极端的，以至于没有两个个体可以被认为是相同的；在数据分析上不能仅仅看到总体的差异，而应该通过基于群组的差异，创建亚群体；在很多情况下，被试相同的分数或许不能代表相同的现象，即使他们来自相同的量表。由此，如果仅从平均的变量关系去描述学校过渡期青少年的发展轨迹，可能存在较大的局限，也就很难发现可能存在的积极发展的类型。但是，如果基于“个体为中心”的方法，进一步揭示青少年发展轨迹的不同亚组，就可能帮助研究者看到青少年群体内部存在的积极发展的潜在机制或过程。例如，在Virtanen 等(2019)的研究中，就心理幸福感而言(指标包括学校愉悦感、未来教育抱负、自尊、学业倦怠和内外化问题)，潜在转变分析揭示了从小学到初中的过渡期内，六种亚组（“高幸福感组”、“中等幸福感但低教育抱负组”“低幸福感组”、“低幸福感但高教育抱负组”、“低幸福感但中等自尊组”和“中等幸福感但高教育抱负组”)的转化过程。结果发现，绝大多数(三分之二)学生的心理幸福感较高，且伴随学校过渡的过程，更多的学生变得更幸福，而不是相反。如果通过进一步分析青少年的个体和外部生态情境特征(如社会支持)的变化，就可以帮助研究者理解在学校过渡期，青少年获得积极发展的过程和原因。再如，一项纵向研究基于潜变量混合增长模型(Gazelle&Faldowski,2019)，揭示了青少年过渡到初中后，焦虑性孤单(anxious solitude)存在三种典型发展轨迹类型：“从高降低组” $( 7 \% )$ ，“由低增高组” $( 3 4 \% )$ 和“持续低水平组”$( 5 9 \% )$ 。由此推断，在学校过渡期，并不是所有的青少年都变得越来越“糟糕”。实际上，他们的发展轨迹具有多样性，存在积极发展的群体。同样，在干预研究中，个体为中心的取向，也可以帮助识别干预效果在群体内部的差异(如干预效果指标的发展轨迹类型分析)，这有助于研究者从中寻找这种“差异”的原因，对于后续开展更精准的干预具有重要意义。总之，方法学上的个体为中心的取向，对于理解学校过渡期青少年可能存在的复杂发展轨迹，并寻找积极发展的潜在机理具有重要的帮助。
+
+# 3.3学校过渡期青少年积极发展的可能机制
+
+在描述和解释青少年发展多样性的时候，优化个体 $$ 情境的互动关系是促进积极、健康发展的重要基础(Overton,2015)。青少年积极发展的关系-发展-系统模型强调（见 Lerner etal.,2015)，青少年的发展镶嵌在一个由个体和各种生态情境组成的系统中，适应性的发展来源于个体与情境的积极互动关系。如果青少年和其所处的生态情境是相互增益的关系，那么青少年就可能会积极地卷入与周围世界的联系，且可能有更少的风险和问题行为倾向(Lermeret al.,2015;Lermer etal.,2018)。与此同时，这些适应性发展结果，又会对个体和其所处的发展情境有一个反馈效应，并为更进一步的适应性发展奠定基础。以该模型为基本框架，并基于先前的文献综述和推测，本文尝试提出一个青少年获得积极学校过渡的假设模型，如图1所示。
+
+![](images/841524ec2a55aa1fcedc26e2d049534f2e48e015b882c991d1e25913abf26dce.jpg)  
+图1青少年积极学校过渡的过程模型
+
+首先，从发展资源的角度来看(Sesma etal.,2005)，青少年要获得积极的学校过渡需要良好的外部资源和内部资源。同时，外部资源和内部资源及各种资源之间本身也是相互作用的关系。在这种相互作用关系中，青少年需要发挥发展性调节(developmentalregulation)的重要作用。发展过程中的调节行为，既表征了个体调节发展情境的能力，又说明情境本身也同样会调节个人的发展，是发展相对可塑性的重要体现(McClelland etal.,2015)。因此，如果个体能够将自身的内部资源和外部资源实现良好的融合，就可能实现积极的学校过渡。其次，积极的学校过渡可能意味着青少年在积极指标上发展得更好，同时在消极指标上更少出现问题。但是需要说明的是，个体发展过程中积极结果和消极结果之间是否是“此消彼长”的关系目前还未确定的结论(Lermer et al.,2015)。由于个体面临的发展资源及自身发展性调节能力存在差异(McClelland et al.,2015)，可以推测学校过渡期内青少年的发展结果可能是多样性的，部分青少年在一段时间内可能存在“积极”与“消极”特征共存的发展趋势。同时，要理解这种“多样性”就需要基于“个体为中心”的方法学取向，去进一步探索群体内部的差异。再次，在这个模型中，理解所有变量之间的关系需要置于“时间”的框架中，也就是意味着各因素之间的“关系”始终处于一个动态变化的过程。尤其是在理解发展结果的多样性时，要注意到特定时刻的“多样性”也只是一个短暂的“结局”。此外，“短暂”的结局也会对个体的发展资源产生一个反向作用，影响个体资源的获得和总的适应性调节和健康发展。
+
+# 4小结与展望
+
+在毕生发展的历程中，青少年经历的学校过渡嵌套在个体发展的多个领域，并持续影响后续生命历程的发展轨迹。已有研究主要从“问题与缺陷”的视角探索了青少年在这一时期发展的基本特征和原因，取得了大量而丰富的研究结果，主要表现在以下几个方面。第一，证实了“学校过渡”确实是青少年发展轨迹中的重要“转折点”，过渡前和过渡后，在不同领域的发展指标上(如自我概念、抑郁等)出现了拐点。这与生命历程理论的基本观点是一致的，即个体的发展轨迹可能会被特定“时间和空间”(如升入更高一级的学校)的人或物所塑造(Elder etal.,2015)。第二，总体上看，“学校过渡”对多数学生来说，是一个带有“压力性”的重大挑战，给他们的学业和非学业领域的发展带来了负面效应。这种负面效应可能更多的根源于发展情境与个体需要的不匹配，即外部生态不能给青少年提供足够的社会、情绪和学业发展需要(Gutman& Eccles,2007)。第三，不容忽视的是，基于个体为中心的方法，研究者发现并不是所有的青少年在这一时期都表现得很“糟糕”，相反一部分个体获得了积极发展的轨迹。同时，与之呼应的基于优势的积极青少年发展观等相关理论(Lermer etal.,2015),也很好地解释了这种现象。基于上述的研究结果，本文提出了一个青少年获得积极学校过渡的过程模型，为后续研究从积极发展的角度理解青少年经历的学校过渡提供了新的思路。
+
+综合上述的研究成果，未来研究中还需要探究以下几个重要的问题。第一，尽管相对丰富的资源对青少年的积极发展是有益的，但这种资源的积极效应也不是简单的累积求和。就学校过渡期而言，哪些内外部资源是最关键的？什么类型的发展资源组合能帮助青少年在这一时期化危机为机遇，并最终实现积极发展呢？在后续的研究中，可以采用个体中心取向的方法(如潜在剖面分析)，从整体的角度进一步评估诸多发展资源中最佳的组合模式以及资源之间的协同增益作用。第二，先前研究中尚未明确阐释个体发展的“积极”和“消极”方面的关系是“共存”还是“此消彼长”。如果两种情形都存在，那么内在机制和原因是什么？因此，需要从纵向发展轨迹的角度，同时考察青少年发展的积极特征和消极特征是如何相伴发生的，这对于全面理解过渡期青少年发展过程的动态性和复杂性具有重要意义。第三，依据关系-发展-系统论和生命历程理论(Elder et al.,2015;Overton,2015)，学校过渡期在个体毕生发展过程中是一个关键的情境-敏感期，这一时期个人 $\left. \right.$ 情境互动关系的动态变化是促进其积极发展的重要窗口。因此，对学校而言，依据过渡期青少年的发展特点及前沿的科学理论，设计有效的心理干预或发展促进方案，对青少年的成功过渡具有重要意义。但遗憾的是，这方面较为成熟的干预项目还比较少。未来需要依据不同学校乃至学生的差异化需要，制定更科学的干预方案，并通过随机对照实验，为探究促进这一时期青少年积极发展的关键因素提供更稳固的证据。第四，青少年向初中过渡和向高中过渡是否存在阶段性差异？前一次的学校过渡体验是否对后面一次产生影响?两次学校过渡中面临的主要任务分别是什么?对于这一系列问题的探究，有助于教育实践者更精准地为青少年制定学校过渡相关的干预方案。但目前已有研究还无法为此提供参考依据，且缺乏长时程的追踪研究帮助研究者深入解决该问题。第五，有关学校过渡的研究多基于西方教育体制背景，这些研究成果在解释我国青少年学校过渡的发展过程时可能存在局限。例如，我国青少年在小学升入初中以及初中升入高中时因为受到“择校”的影响，尤其是高中教育不是义务教育，初中结束后青少年要面临进行第一次学业上的“分流”（职业教育、普通高中教育等)。因此，我国青少年经历的学校过渡模式具有很强的竞争性。在这种“高竞争性”发展背景下，家庭和学校应该如何应对并帮助青少年获得积极的学校过渡呢？尤其是在过渡到新学校的第一年，父母和教师可能需要从建立青少年积极的“师生、同伴和亲子”之间的“关系”出发，优化其外部发展资源，促进其内在发展潜能，而不是单纯强调学业适应的问题。
+
+总之，有关学校过渡期青少年的积极发展过程以及我国教育背景下青少年经历的学校过渡等，还有很多值得探索的问题，需要更多的研究者共同努力，在理论上和实践上助力于青少年在这一发展转折期的积极发展。
+
+# 参考文献
+
+杨之旭，辛自强.(2016)．应用心理学中的个体指向方法：理论、技术与挑战．心理技术与应 用,12(4), 744-762.   
+Aikins,J. W.,Bierman, K.L.,& Parker, J. G. (20o5). Navigating the transition to junior high school: The influence of pre-transition friendship and self-system characteristics. Social Development, 14(1), 42-60.   
+Akos,P.，Rose, R.A.，& Orthner, D. (2015). Sociodemographic moderators of middle school transition effects on academic achievement. The Journal ofEarly Adolescence, 35(2),170-198.   
+Arens,A. K., Yeung,A. S., Craven,R. G., Watermann, R., & Hasselhorn, M. (2013). Does the timing of transition matter? Comparison of German students’ self-perceptions before and after transition to secondary school. International Journal of Educational Research, 57,1-11.   
+Bandura, A. (2001). Social cognitive theory: An agentic perspective. Annual Review of Psychology, 52(1), 1-26.   
+Barber, B.K.,& Olsen, J.A. (2004). Assessing the transitions to middle and high school. Journal of Adolescent Research, 19(1), 3-30.   
+Becker, M.,& Neumann,M. (2018). Longitudinal big-fish-litte-pond effects on academic selfconcept development during the transition from elementary to secondary schooling. Journal of Educational Psychology, 110(6), 882-897.   
+Bellmore, A. (2011). Peer rejection and unpopularity: Associations with GPAs across the transition to middle school. Journal of Educational Psychology, 103(2),282-295.   
+Benner,A. D. (2011). The transition to high school: Current knowledge， future directions. Educational Psychology Review, 23(3), 299-328.   
+Benner,A.D.,Boyle,A.E.,& Bakhtiari,F.(2017). Understanding students'transition to high school: Demographic variation and the role of supportive relationships. Journal of Youth and Adolescence, 46(10), 2129-2142.   
+Benner, A. D.,& Graham, S. (2009). The transition to high school as a developmental process among multiethnic urban youth. Child Development, 80(2), 356-376.   
+Blakemore, S.-J.,& Choudhury, S. (2006). Development of the adolescent brain: Implications for executive function and social cognition. Journal ofChild Psychology and Psychiatry, 47(3-4),
+
+296-312.
+
+Blossom, J. B., Adrian, M. C., Stoep, A. V.,& McCauley, E. (2020). Mechanisms of change in the prevention of depression: An indicated school-based prevention trial at the transition to high school. Journal of the American Academy of Child & Adolescent Psychiatry, 59(4), 541-551.   
+Cantor, P.， Osher， D.， Berg，J.， Steyer, L.，& Rose, T. (2019). Malleability， plasticity， and individuality: How children learn and develop in context. Applied Developmental Science, 23(4), 307-337.   
+Craven,R. G., & Marsh, H. W.(2008). The centrality of the self-concept construct for psychological welbeing and unlocking human potential: Implications for child and educational psychologists. Educational and Child Psychology, 25(2), 104-118.   
+Crosnoe, R., & Benner,A. D. (2015). Children at school. In R. M. Lerner (Ed.), Handbook of child psychology and developmental science (7th ed) (Vol. 4, pp. 268-304). Hoboken, NJ: Wiley.   
+Duineveld, J. J., Parker, P.D., Ryan, R. M., Ciarrochi, J.,& Salmela-Aro, K. (2017). The link between perceived maternal and paternal autonomy support and adolescent well-being across three major educational transitions. Developmental Psychology, 53(10),1978-1994.   
+Eccles,J.,& Roeser, R. W. (2011). Schools as developmental contexts during adolescence. Journal of Research on Adolescence, 21(1), 225-241.   
+Elder, G. H. (1998). The life course and human development In W. Damon & N. Eisenberg (Eds.), Handbook of child psychology (5th ed) (Vol. 1, pp. 939-991). Hoboken, NJ: John Wiley & Sons Inc.   
+Elder, G. H.,& Shanahan, M. J. (2007). The life course and human development. In W. Damon & R. M. Lerner (Eds.), Handbook ofchild psychology (6th ed) (Vol. 1, pp. 665-715). Hoboken, NJ: John Wiley & Sons Inc.   
+Elder, G. H., Shanahan, M. J., & Jennings, J. A. (2015). Human development in time and place. In R. M. Lerner (Ed.), Handbook of child psychology and developmental science (7th ed) (Vol. 4). Hoboken, NJ: Wiley.   
+Engels,M. C.,Pakarinen,E., Lerkkanen,M.-K., & Verschueren, K. (2019). Students' academic and emotional adjustment during the transition from primary to secondary school: A cross-lagged study. Journal of School Psychology， 76,140-158.   
+Evans,D. Boriello, G. A., & Field, A. P. (2018). A review of the academic and psychological
+
+impact of the transition to secondary education. Frontiers in Psychology, 9,Article 1482.
+
+Gazelle, H., & Faldowski,R.A. (2019). Multiple trajectories in anxious solitary youths: The middle school transition as a turning point in development. Journal of Abnormal Child Psychology, 47(7), 1135-1152.   
+Ge,X.,Natsuaki, M. N., Jin,R.,& Biehl, M. C. (2011). Acontextual amplification hypothesis: Pubertal timing and girls' emotional and behavioral problems. In M. Kerr, H. Statin, R. C. M. E. Engels, G. Overbeek, & A. K. Andershed (Eds.), Understanding girls'problem behavior: how girls'delinquency develops in the context of maturity and health, co-occurring problems, and relationships (pp. 9-29). London, UK: Wiley.   
+Gregson, K. D., Tu, K. M., Erath, S. A., & Petit, G. S. (2017). Parental social coaching promotes adolescent peer acceptance across the middle school transition. Journal ofFamily Psychology, 31(6), 668-678.   
+Gutman, L. M.,& Eccles, J. S. (2007). Stage-environment fit during adolescence: Trajectories of family relations and adolescent outcomes. Developmental Psychology, 43(2), 522-537.   
+Hughes, J.N., & Cao,Q.(2018). Trajectories ofteacher-student warmth and conflict at the transition to middle school: Effects on academic engagement and achievement. Journal of School Psychology, 67,148-162.   
+Iimura, S. (2020). Developmental trajectories of event centrality and socio-emotional well-being after transition to high school. British Journal of Developmental Psychology. Advance online publication. https://doi.org/10.1111/bjdp.12333.   
+Iimura, S.,& Taku, K. (2O18). Positive developmental changes after transition to high school: Is retrospective growth correlated with measured changes in current status of personal growth? Journal of Youth and Adolescence, 47(6), 1192-1207.   
+Jackson, K. M.,& Schulenberg, J. E.(2013). Alcohol use during the transition from middle school to high schol: National panel data onprevalenceand moderators.Developmental Psychology 49(11), 2147-2158.   
+Langenkamp,A. G. (2010). Academic vulnerability and resilience during the transition to high school: The role of social relationships and district context. Sociology of Education, $\delta 3 ( 1 ) , 1 -$ 19.   
+Lee, H. Y., Jamieson, J. P., Miu, A. S., Josephs, R.A., & Yeager, D. S. (2019). An entity theory of
+
+intellgence predicts higher cortisol levels when high school grades are declining. Child Development, 90(6), 849-867.
+
+Lerner,R. M.,Lerner,J. V.,Almerigi,J.B., Theokas,C., Phelps,E., Gestsdottir,S.,.. vonEye,A. (2005). Positive youth development, participation in community youth development programs, and community contributions of fifth-grade adolescents: Findings from the first wave of the 4- H study of positive youth development. The Journal of Early Adolescence, 25(1),17-71.   
+Lerner,R. M.,Lerner, J. V., Bowers,E.P.,& Geldhof, G.J. (2015). Positive youth development and relational-developmental-systems. In R. M. Lerner (Ed.), Handbook of child psychology and developmental science (7th ed) (Vol. 1, pp. 607-651). Hoboken, NJ: Wiley.   
+Lerner, R. M.,Lerner, J. V., Geldhof, G.J., Gestsdottir, S., King,P.E., Sim,A. T.R.,.. . Dowling, E.(2018). Studying positive youth development in different nations: Theoretical and methodological issues. In J. E. Lansford & P. Banati (Eds.)，Handbook of adolescent development research and its impact on global policy (pp. 68-83). New Work: Oxford University Press.   
+Liu, Y.,& Lu, Z. (2011). Trajectories of Chinese students’sense of school belonging and academic achievement over the high school transition period. Learning and Individual Differences, 21(2), 187-190.   
+LoSavio,S.T., Cohen, L. H., Laurenceau, J.-P., Dasch, K. B., Parrish, B.P.,& Park, C.L. (2011). Reports of stress-related growth from daily negative events. Journal of Social and Clinical Psychology, 30(7), 760-785.   
+Madjar, N., & Chohat, R. (2O17). WillI succeed in middle school? A longitudinal analysis of selfeffcacy in school transitions in relation to goal structures and engagement. Educational Psychology, 37(6), 680-694.   
+Madjar, N., Cohen, V., & Shoval, G. (2018). Longitudinal analysis of the trajectories of academic and social motivation across the transition from elementary to middle school. Educational Psychology, 38(2), 221-247.   
+Marsh, H. W., Seaton, M., Trautwein, U., Lüdtke, O., Hau, K. T., O'Mara, A. J., & Craven, R. G. (2008). The big-fish-litle-pond-effect stands up to critical scrutiny: Implications for theory, methodology, and future research. Educational Psychology Review, 20(3), 319-350.   
+McClelland, M. M., Geldhof, G. J., Cameron, C. E.,& Wanless, S. B. (2015). Development and
+
+self-regulation. In R. M. Lerner (Ed.)，Handbook of child psychology and developmental
+
+science (7th ed) (Vol. 1, pp. 523-665). Hoboken, NJ: Wiley.   
+Modecki, K.L., Neira, C.B.,& Barber, B.L. (2018). Finding what fits: Breadth of participation at the transition to high school mitigates declines in self-concept. Developmental Psychology, 54(10), 1954-1970.   
+Moffitt, T.E.,Arseneault,L.,Belsky,D., Dickson, N., Hancox,R.J., Harrington,H.,... Caspi, A. (2011).A gradient of childhood self-control predicts health，wealth，and public safety. Proceedings of the National Academy of Sciences, 108(7), 2693-2698.   
+Okano,L., Jeon,L., Crandall, A.,Powell, T.,& Riley,A. (2019). Developmental cascades of social competence, achievement in school, and achievement on standardized assessments during the transition to adolescence and secondary school. Journal of Adolescence, 74, 91-102.   
+Overton, W.F. (2015). Processes, relations, and relational-developmental-systems. In R. M. Lerner (Ed.),Handbook of child psychology and developmental science (7th ed.) (Vol. 1, pp. 9-62). Hoboken, NJ: John Wiley & Sons Inc.   
+Park, C.L. (1998). Stress-related growth and thriving through coping: The roles of personality and cognitive processes. Journal of Social Issues, 54(2), 267-277.   
+Park, C. L. (2010). Making sense of the meaning literature: An integrative review of meaning making and its effects on adjustment to stressful life events. Psychological Bulltin, 136(2), 257-301.   
+Petersen, A. C., Verma, S., Koller, S. H.，& Motti-Stefanidi, F. (2017). Global positive youth development. In A. C.Petersen, S. Verma, S.H. Koller,F. Motti-Stefanidi, & S. Verma (Eds.), Positive youth development in global contexts of social and economic change (pp. 1-14). New York, NY: Taylor & Francis.   
+Qualter, P., Whiteley, H.E., Hutchinson, J. M., & Pope,D. J. (2007). Supporting the development of emotional inteligence competencies to ease the transition from primary to high school. Educational Psychology in Practice, 23(1),79-95.   
+Roepke,A. M.,& Seligman, M. E. P. (2015). Doors opening: A mechanism for growth after adversity. The Journal of Positive Psychology, 10(2),107-115.   
+Serbin, L.A., Stack, D. M., & Kingdon, D. (2013). Academic success across the transition from primary to secondary schooling among lower-income adolescents: Understanding the effects
+
+of family resources and gender. Journal of Youth and Adolescence, 42(9),1331-1347.
+
+Sesma，A.， Mannes，M.，& Scales，P. C. (20o5). Positive adaptation，resilience，and the developmental asset framework. In S. Goldstein &R.B.Brooks (Eds.),Handbook ofresilience in children (pp.281-296). New York: Kluwer Academic/Plenum Publishers.   
+Slaten, C.D.,Ferguson, J.K., Allen, K.-A.,Brodrick,D.-V.,& Waters,L.(2016). School belonging: A review of the history，current trends，and future directions. The Educational and Developmental Psychologist, 33(1),1-15.   
+Telzer,E.H., Ichien, N.T.,& Qu, Y. (2015). Mothers know best: Redirecting adolescent reward sensitivity toward safe behavior during risk taking. Social Cognitive and Affective Neuroscience, 10(10), 1383-1391.   
+Vasalampi, K., Kiuru, N., & Salmela-Aro, K. (2018). The role of a supportive interpersonal environment and education-related goal motivation during the transition beyond upper secondary education. Contemporary Educational Psychology, 55,110-119.   
+Verschueren,K.，& Koomen, H.M. Y. (2012). Teacher-child relationships from an attchment perspective. Attachment & Human Development, 14(3), 205-211.   
+Virtanen, T. E., Vasalampi, K., Torppa,M.,Lerkkanen, M. K.,& Nurmi, J. E. (2019). Changes in students’ psychological wel-being during transition from primary school to lower secondary school: A person-centered approach. Learning and Individual Diferences, 69, 138-149.   
+von Eye,A., Bergman,L.R.,& Hsieh, C.-A. (2015). Person-oriented methodological approaches. In R. M.Lerner (Ed.), Handbook of child psychology and developmental science (7th ed) (Vol. 1, pp. 789-841). Hoboken, NJ: Wiley.   
+Weiss, C.C.,& Baker-Smith,E.C. (2010). Eighth-grade school form and resilience in the transition to high school: A comparison of middle schools and $\mathrm { k } { - } 8$ schools. Journal of Research on Adolescence, 20(4), 825-839.
+
+# School transition during adolescence: Turning crisis into opportunity CHAI Xiaoyun, LIN Danhua
+
+(l Department of Applied Psychology,Hubei University of Medicine, Shiyan 4420oo, China) (² Institute of Developmental Psychology,Beijing Normal University, Beijing 10o875,China)
+
+Abstract: From the perspective of life course, school transition is considered a key turning point in adolescent development and may alter individual developmental trajectories. Based on the deficit view, previous studies have suggested that most adolescents are at risk, beset by many challenges, and may experience a variety of negative developmental outcomes during that transition. Drawing on the positive youth development perspective, however, the transition period may be an important opportunity for adolescents to achieve adaptive and healthy development, and it is also the period in which developmental plasticity is most fuly manifested. Along this line, if adolescents' internal and external assets are well integrated, they may have a positive school transition.
+
+Key words: adolescence, school transition, turning point, positive development

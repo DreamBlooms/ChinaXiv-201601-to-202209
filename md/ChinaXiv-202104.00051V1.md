@@ -1,0 +1,188 @@
+# 甘肃省全域旅游视角下旅游空间结构优化研究
+
+蔡佳¹，白永平¹，陈志杰}，车磊²，王治国¹，谢丽霞}(1.西北师范大学地理与环境科学学院,甘肃 兰州730070；2.南京大学建筑与城市规划学院,江苏 南京210093)
+
+摘要：基于2008、2018年A级景点数据，采用GIS空间分析方法，从景点时空分布集中性、移动性、可达性三方面对甘肃省旅游空间结构变化进行探究，并以“点一轴"理论为基础提出优化建议。结果表明：(1)甘肃省A级景点空间结构类型为聚集-随机型，景点分布高密度区主要集中在酒一嘉、兰州、天水等地，在旅游板块上呈现出“点强、面弱"的特点。(2）景点可达性时间成本变化明显， $^ { \textrm { 1 h } }$ 等时圈增率为 $1 3 4 \% , 2 \mathrm { h }$ 等时圈增率为 $4 1 \%$ ，交通情况改善明显，路网“线分散”的特点趋于弱化。(3）以“点一轴"理论为基础，因地制宜,联系实际,提出三大旅游板块各自的增长级和发展轴线，以期推进甘肃省由“景点旅游”向“全域旅游"发展转变。
+
+关键词：全域旅游；A级景点；旅游空间结构；甘肃省文章编号： $1 0 0 0 - 6 0 6 0 \mathopen { } \mathclose \bgroup \left( 2 0 2 1 \aftergroup \egroup \right) 0 2 - 0 5 4 4 - 0 8 \mathopen { } \mathclose \bgroup \left( 0 5 4 4 \aftergroup \egroup \sim 0 5 5 1 \aftergroup \egroup \right)$
+
+旅游空间结构是旅游系统的空间表达，是旅游系统组织在地理空间上的投影[1]。A级景点是旅游空间结构的重要组成部分，因其较高的知名度成为旅游业发展的核心[2]
+
+旅游空间结构是否合理直接影响到旅游业的发展态势[3],因此，其相关研究一直备受国内外学者关注，国外研究始于20世纪60年代，早期研究多集中于理论领域[4],进入21世纪后,研究更加深入[5-6]，逐步走向微观层面。国内研究始于20世纪80年代，多集中于大中尺度，侧重分析旅游目的地、旅游客源地以及旅游流的空间结构等，如卞显红研究了旅游空间结构的基本要素，为城市旅游空间合理布局提供了基础性的理论知识，保继刚等8探讨了国内旅游客源市场的空间演变及其驱动力，分析了客源市场空间演变的原因，是旅游客源地研究的早期成果；汪德根等阐述了城市旅游空间结构在交通条件改善情况下的演变形态和特征，首次在旅游空间研究中考虑到高铁网络的时空压缩效应；马晓龙[°对入境旅游的流动规律和空间结构进行了分析，提出大城市入境旅游流空间结构的不平衡性，为未来旅游空间相关研究提供了新方向。此外，从不同研究视角来看，杨更生等["借鉴应用系统工程中的霍尔工程三维理论，提出构建旅游大数据体系，可从旅游经济管理视角，为旅游空间结构合理发展提供新的研究方法。王松茂等构建“旅游综合质量评价"指标，衡量区域旅游经济联系强度，从旅游经济网络研究视角出发，为旅游发展与空间结构优化提供量化依据。王伟等[13]综合运用多种分析方法，从旅游发展潜力角度出发，提出4种发展潜力类型，依据不同类型对旅游空间发展提供对策与建议。
+
+全域旅游的核心内涵是在旅游资源丰富地区，以旅游产业引领经济发展，是对五大理念的贯彻落实，是在经济发展和供给侧改革新局面下的旅游发展模式[14]。全域旅游"全地域"视角区别于传统的景点旅游，是旅游目的地全区域的联合共建，旨在以旅游发展优势地区带动旅游发展滞弱地区[15]。“点一轴"理论是区域发展的重要理论，在旅游空间建设方面主要是提倡多增长极、发展轴的思想，促进形成特点鲜明的旅游目的地。十九大提出中国特色社会主义总任务、总目标，为旅游业赋予新使命，甘肃省深刻认识并推进旅游强省建设，先后发布实施了《甘肃省河西五市旅游联动发展总体方案》、《陇东南华夏根脉文化旅游圈总体规划》和《甘肃省“沿黄四市州"旅游业联动发展规划》等，与以往研究不同的是，本文以甘肃省三大旅游板块为研究单元，利用2008年和2018年A级景点空间化数据，通过最近邻距离指数、标准差椭圆和时间成本栅格算法，对景点空间分布集中性、质心移动性和可达性进行分析，得出甘肃省旅游空间变化的基本特征。并在全域旅游背景下，从“全地域"的视角出发，结合“点一轴"开发理论，提出旅游板块内部资源整合和旅游板块之间联结互动的具体措施，提出三大旅游板块各自的增长级和发展轴线，以期推进甘肃省由“景点旅游"向“全域旅游"发展转变，为优化甘肃省旅游空间布局、发挥板块区域特色优势，甘肃省旅游业协调可持续发展、打造国内知名旅游目的地提供借鉴和参考。
+
+# 1研究区概况
+
+甘肃省国土空间东西长 $1 6 5 9 ~ \mathrm { k m }$ ，南北宽530$\mathrm { k m }$ ，位于亚欧大陆的深处，属我国西北内陆地区，古老的丝绸之路和享誉海内外的新亚欧大陆桥横贯全境，是华夏文明的发祥地之一，多民族聚居、多文化交汇以及自然景观多元化是甘肃省旅游资源明显的优势。2016年《甘肃省“十三五"旅游业发展规划》依据“分区营造，融合发展"理念将甘肃省旅游空间划分为3个旅游板块(图1)。其中，河西走廊文化生态旅游示范区(河西旅游板块），现有A级景点
+
+95E 100E 105E 110E  
+N004嘉峪关市张市 N004图例 金昌市@ 地级市 武威市2008年景点 。2018年景点 兰州市 白银市  
+353 河流 临夏州 平凉市庆阳市河西旅游板块 1o 320南州定西市陇东南旅游板块 天水市沿黄旅游板块 陇南市0 300km o95E 100°E 105°E
+
+88个，占比 $3 1 . 4 \%$ ;黄河都市文化旅游产业集聚区（沿黄旅游板块），现有A级景点77个，占比 $2 7 . 5 \%$ 陇东南文化旅游创新区（陇东南旅游板块），现有A级景点115个，占比 $4 1 . 1 \%$ 。
+
+# 2数据与方法
+
+# 2.1数据来源与处理
+
+旅游景点数据来源于2008、2018年甘肃省旅游发展委员会官网（www.gsta.gov.cn）公布的A级旅游景点名录；基础道路数据来源于国家动态地图网(www.webmap.cn)发布的1:100万全国基础地理数据库；行政边界数据来源于甘肃省自然资源厅标准地图服务网站（www.gsch.gov.cn）。
+
+# 2.2 研究方法
+
+2.2.1 最近邻距离指数(NNI) 通过计算最近邻景点间的平均距离，将其与随机分布模式中的平均距离进行比较，分析偏离随机分布的程度，从而获得景点分布类型[16]。公式为：
+
+$$
+\mathbf { N N I } = \frac { \left[ \displaystyle \sum _ { i = 1 } ^ { N } \frac { \operatorname* { m i n } \bigl ( d _ { i j } \bigr ) } { N } \right] } { 0 . 5 \sqrt { \frac { d } { N } } }
+$$
+
+式中： $\operatorname* { m i n } ( d _ { i j } )$ 是任何一个景点 $i$ 与其最近的景点 $j$ 之间的距离； $N$ 是景点总数； $A$ 是研究区域的总面积。一般认为 $\mathrm { N N I } { \leqslant } 0 . 5$ 为聚集型， $0 . 5 { < } \mathrm { N N I } { \leqslant } 0 . 8$ 为聚集-随机型， $0 . 8 { < } \mathrm { N N I } { \leqslant } 1 . 2$ 为随机型，若 $1 . 2 { \leqslant } \mathrm { N N I } { < } 1 . 5$ 则为随机-离散型， $\mathrm { N N I } { \gtrsim } 1 . 5$ 为均匀型。
+
+2.2.2标准差椭圆反映景点空间质心移动方向[17]。假设一个区域有 $n$ 个子区域, $\left( { { x } _ { i } } , { { y } _ { i } } \right)$ 是第 $i$ 个区域的中心坐标， $w _ { i }$ 是第 $i$ 个子区域属性值和权重，公式为：
+
+$$
+M ( { \bar { X } } , { \bar { Y } } ) = \left| { \frac { \displaystyle \sum _ { i = 1 } ^ { n } w _ { i } x _ { i } } { \displaystyle \sum _ { i = 1 } ^ { n } w _ { i } } } \times { \frac { \displaystyle \sum _ { i = 1 } ^ { n } w _ { i } y _ { i } } { \displaystyle \sum _ { i = 1 } ^ { n } w _ { i } } } \right|
+$$
+
+2.2.3景点可达性时间成本可达性采用游客到达景点的最小时间花费进行定量分析，值越小说明可达性越好[18]。表达式为：
+
+$$
+T _ { i } = \mathrm { E x p } ( i , j )
+$$
+
+式中： $T _ { i }$ 是到达景点 $j$ 的目的地 $i$ 的可达性; $\mathrm { E x p } ( i , j )$ 是计算 $i$ 和j之间交通的最小耗时函数。
+
+# 干旱区地理
+
+# 3景点空间分布特征
+
+# 3.1景点空间分布集中性
+
+景点空间分布集中性在省域层面变化不明显，2008年NNI为0.53，空间结构类型为聚集-随机型，2018年NNI为0.66，上升了0.13，景点随机分布趋势增大，但空间结构类型仍为聚集-随机型(表1)，景点空间分布具有较强的稳定性。
+
+景点空间分布集中性在板块层面变化明显，2008年河西旅游板块NNI为0.62，景点分布类型为聚集-随机型，2018年为0.47，景点集聚分布趋势增大，空间结构类型由聚集-随机型转变为聚集型；2008年沿黄旅游板块NNI为1.16，空间结构类型为随机型，2018年为0.78,类型由随机型转变为聚集-随机型;2008年陇东南旅游板块NNI为0.94，景点分布呈离散趋势，空间结构类型为随机型，2018年NNI为0.66，类型转变为聚集-随机型。
+
+# 3.2景点空间质心移动性
+
+景点空间质心移动性表示区域内旅游景点总体布局方向变化程度。省域层面标准差椭圆跨越三大旅游板块，椭圆面积减少 $0 . 6 1 \mathrm { k m } ^ { 2 }$ 、长半轴减短$5 7 . 7 4 \mathrm { k m }$ ,短轴减短 $1 9 . 2 5 \mathrm { k m }$ ，偏转角度变化了 $4 . 2 3 ^ { \circ }$ （表2)，表明甘肃省A级景点呈“西北一东南"方向集聚分布，空间偏向性明显，景点质心向东南方移动(图2)。板块层面，河西旅游板块椭圆方向与全省分布较为一致，在兰新高铁及“一带一路"倡议影响下，该板块北部景点数量增加，质心北移。沿黄旅游板块椭圆呈东北一西南走向，随着旅游业的发展，黄河都市大景区及甘南、临夏少数民族集聚区的开发建设受到政府大力支持，质心南移。陇东南旅游板块椭圆呈东北一西南走向，天水市是祖脉文化发源地，景点增长速度快，质心向西南方向移动。
+
+# 3.3景点空间联系可达性
+
+省域层面，景点可达性时间成本变化明显， $1 \mathrm { h }$ 等时圈变化率为 $1 3 4 \% , 2 \mathrm { h }$ 等时圈为 $4 1 \%$ （表3）， $3 \mathrm { { h } }$ 至6h等时圈变化率均为负数，景点可达性空间分布呈现从景点沿主要交通干线向外围增长的趋势，可达性较好的区域连片分布于交通干线及城市周围，可达性较差的地区分布在省域边界地形崎岖地带(图3)。
+
+板块层面，2008年河西旅游板块景点集中分布在敦煌市、酒泉市肃州区、张掖市临泽县、武威市凉州区等地， $^ { \textrm { 1 h } }$ 等时圈分布和景点分布空间上重合，2018年，1h等时圈在玉门市周围形成了一个等腰三角形状并贯穿酒泉地区与嘉峪关市相连;2008年沿黄旅游板块景点集中分布于兰州市、临夏州，1h等时圈分布较为密集，甘南州玛曲县由于受地形限
+
+Tab.1 The nearest neighbor index of the three major tourist attractions   
+
+<html><body><table><tr><td rowspan="2">指标</td><td colspan="2">甘肃省</td><td colspan="2">河西旅游板块</td><td colspan="2">沿黄旅游板块</td><td colspan="2">陇东南旅游板块</td></tr><tr><td>2008年</td><td>2018年</td><td>2008年</td><td>2018年</td><td>2008年</td><td>2018年</td><td>2008年</td><td>2018年</td></tr><tr><td>景点数/个</td><td>106</td><td>280</td><td>39</td><td>88</td><td>27</td><td>77</td><td>40</td><td>115</td></tr><tr><td>NNI</td><td>0.53</td><td>0.66</td><td>0.62</td><td>0.47</td><td>1.16</td><td>0.78</td><td>0.94</td><td>0.66</td></tr><tr><td>Z值</td><td>-9.17</td><td>-6.94</td><td>-4.51</td><td>-9.53</td><td>1.64</td><td>-3.65</td><td>-0.71</td><td>-6.94</td></tr><tr><td>P值</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.09</td><td>0.00</td><td>0.48</td><td>0.00</td></tr><tr><td>空间结构型</td><td>聚集-随机型</td><td>聚集-随机型</td><td>聚集-随机型</td><td>聚集型</td><td>随机型</td><td>聚集-随机型</td><td>随机型</td><td>聚集-随机型</td></tr></table></body></html>
+
+注：NNI为最近邻距离指数;Z值为标准差的倍数； $P$ 值为概率。
+
+# 表2甘肃省三大旅游板块A级景点分布标准差椭圆参数变化
+
+表1三大旅游板块景点的最邻近距离指数  
+Tab.2Variations of the elliptic parameters of the standard deviation of the A-level scenic spots in the three major tourism sectors in Gansu Province   
+
+<html><body><table><tr><td rowspan="2">参数</td><td colspan="2">甘肃省</td><td colspan="2">河西旅游板块</td><td colspan="2">沿黄旅游板块</td><td colspan="2">陇东南旅游板块</td></tr><tr><td>2008年</td><td>2018年</td><td>2008年</td><td>2018年</td><td>2008年</td><td>2018年</td><td>2008年</td><td>2018年</td></tr><tr><td>长轴/km</td><td>529.21</td><td>471.47</td><td>398.71</td><td>383.32</td><td>139.06</td><td>142.25</td><td>192.82</td><td>161.20</td></tr><tr><td>短轴/km</td><td>179.82</td><td>160.57</td><td>67.95</td><td>71.99</td><td>69.90</td><td>74.57</td><td>92.97</td><td>97.47</td></tr><tr><td>偏转角度(°)</td><td>125.11</td><td>129.34</td><td>114.37</td><td>112.64</td><td>14.91</td><td>13.20</td><td>57.36</td><td>56.66</td></tr><tr><td>面积/km²</td><td>2.99</td><td>2.38</td><td>0.85</td><td>0.86</td><td>3.31</td><td>3.33</td><td>5.63</td><td>4.93</td></tr></table></body></html>
+
+![](images/22e041396fdd3ee2ad4a565cfa4519d00d25f73469ef8c2d1111116b1bdc4569.jpg)  
+注：图(a)为全省；(b)为河西旅游板块;(c)为沿黄旅游板块;(d)为陇东南旅游板块。
+
+Fig.2Averagecentersand standarddeviationelipseoftheA-levelscenicspotsofthethreemajortourismsectorsinGansuProvi
+
+表3甘肃省旅游空间可达性时间成本面积变化  
+Tab.3Changes in the time and cost area of tourism space accessibility in Gansu Province   
+
+<html><body><table><tr><td rowspan="3">等时圈</td><td colspan="2">时间成本面积/km</td><td rowspan="3">等时圈</td><td colspan="2">时间成本面积/km</td></tr><tr><td>2008年</td><td>2018年</td><td>2008年</td><td>2018年</td></tr><tr><td>>1h</td><td>34308</td><td>80404</td><td>3~4 h</td><td>50529</td><td>43599</td></tr><tr><td>1~2 h</td><td>60085</td><td>84908</td><td>4~5 h</td><td>39522</td><td>31911</td></tr><tr><td>2~3 h</td><td>61260</td><td>61210</td><td>5~6h</td><td>28935</td><td>23596</td></tr></table></body></html>
+
+![](images/05fd432843d6563734e855ba7b4df8c32065d4ac2caaf57ece71578ef1107b97.jpg)  
+图2甘肃省三大旅游板块A级景点均值中心和标准差椭圆  
+图3甘肃省A级景点可达性时间成本栅格  
+Fig.3Accessibility time cost raster in Gansu Province
+
+# 干吴区地理
+
+制可达性水平较低，2018年1h等时圈面积增大，分布更为密集，甘南州玛曲县也有分布，可达性改善十分明显；2008年陇东南旅游板块景点集中分布于天水市、平凉市，由于平凉市靠近陕西西安，在西安市的辐射带动作用下， $^ { \textrm { 1 h } }$ 等时圈分布状况较好，是陇东南旅游板块可达性最发达的地区，可达性水平较低地区位于陇南市文县、庆阳市环县，2018年天水市和陇南市1h等时圈更加密布，偏远山区可达性变化也较为明显。
+
+# 4基于“点一轴”理论的旅游空间结构优化
+
+“点一轴"理论指出，区域协调发展的一方面需要发挥增长极的带动作用和辐射作用，另一方面需要依托区域中主要的交通基础设施将增长极与主要节点城镇联结，发挥增长极的扩散作用削弱地区发展差距，使区域发展更加协调和可持续[19]。在全域旅游大背景下，以景点为吸引物的发展模式不再适应甘肃省旅游发展需要，依据上文研究得出旅游板块间“点强、面弱、线分散"特征趋于弱化的基础，将景点分布相对集中且旅游功能比较完善、公共服务供给水平较高的兰州和天水作为全省旅游业发展的增长极，各个旅游增长极由机场、高铁、高速公路等联结。
+
+# 4.1旅游空间优化总体思路
+
+首先，重新整合旅游资源，找准板块增长极点。由景点分布集中性可知，甘肃省A级景点空间分布类型为聚集-随机型，呈较强的凝聚分布，旅游板块内景点分布集聚趋势明显，著名景点少，呈现出“点强、面弱"特点。针对著名景点分布不均，资源开发不充分的问题，全域旅游理念提倡推进“景点旅游”向“全域旅游"的发展转变，重新审视旅游板块资源潜力，充分利用当地特色，培育优质增长极。甘肃省A级景点分布表现出沿地形、河流、交通干线的线性分布和以行政区为中心的核心一边缘集聚，建议将敦煌市、天水市2个历史文化名城和兰州市作为一级增长点，嘉峪关市、张掖市和景泰县等9个国家级全域示范区作为二级旅游增长点，金塔县、玉门市和临夏市等10个省级全域旅游示范区作为三级旅游增长点，
+
+其次，完善旅游交通网络，梳理全域旅游发展轴线。由景点空间联系可达性状况可知，A级景点可达性时间成本变化明显，甘肃省交通情况整体改善，但部分板块边远地区仍存在交通不便的情况，可达性较差的地区多分布在省域边界地形崎岖地带如舟曲县、文县、环县等。在全域旅游视角下将各景点集聚区视为“点”，交通是连接客源地与旅游地、旅游地域旅游地之间的桥梁和纽带，将其视为“轴"的原型。参考甘肃省“十三五"旅游规划，梳理甘肃省旅游发展轴线，以轴线为主干，完善交通网络，提高景点可达性(表4)。
+
+最后，明确旅游板块差异化，优化全域旅游空间格局。从甘肃省景点质心移动方向和强度可知，A级景点呈“西北一东南"方向分布，质心向东南方移动，表明沿黄旅游板块和陇东南旅游板块近年来旅游资源开发力度大，景点增加数量多，但河西板块旅游资源质量高，在此基础上明确三大旅游板块的差异化优势，形成特色鲜明的旅游主题，构建板块各自的特色增长极点，以六条旅游廊道为发展轴，以点带面，最终实现全域旅游目的地空间贯通、点线面相融，板块间联动发展。
+
+表4甘肃省全域旅游空间发展轴线表  
+Tab.4Spatial development axis of the all-for-one-tourism in Gansu Province   
+
+<html><body><table><tr><td>发展轴线</td><td>主要陆路交通线</td><td>节点城市</td><td>旅游板块</td><td>特色景点</td><td>旅游特色</td></tr><tr><td></td><td>精品丝路旅游廊道兰新高铁、陇海铁路、连霍高 天水、定西、兰州、武 陇东南旅游板块、麦积山、水帘洞、青城古镇、世界遗产、丝 速、国道312等</td><td>关、酒泉</td><td>西旅游板块</td><td>威、张掖、金昌、嘉峪 沿黄板旅游块、河 马蹄寺、张掖丹霞、莫高窟、路文化 玉门关等</td><td></td></tr><tr><td></td><td>黄河风情旅游廊道京藏高速、国道213、国道临夏、兰州、白银 109等</td><td></td><td>沿黄旅游板块</td><td>水车博览园、黄河石林、冶黄河文化 力关分景区等</td><td></td></tr><tr><td>民族风情旅游廊道</td><td>G30、国道312、国道213等甘南、陇南、临夏、张 沿黄旅游板块、河拉卜楞寺、裕固民族风情走民族风情</td><td>掖、武威</td><td>西旅游板块</td><td>廊等</td><td></td></tr><tr><td></td><td>寻根访祖旅游廊道G30、国道212、国道312、国天水、平凉、庆阳、 道211等</td><td></td><td>陇东南旅游板块</td><td>伏羲庙、周祖陵等</td><td>远古始祖文化</td></tr><tr><td>长城边关旅游廊道</td><td>兰新高铁、陇海铁路、连霍高武威、金昌、张掖、敦 河西旅游板块 速、G30、国道227等</td><td>煌、酒泉</td><td></td><td>长城第一墩、玉门关等</td><td>边关文化</td></tr><tr><td></td><td>红色征程旅游廊道G75、国道212、国道309、国兰州、定西、庆阳 道211等</td><td></td><td>陇东南旅游板块哈达铺、会师楼等</td><td></td><td>长征精神</td></tr></table></body></html>
+
+# 4.2旅游空间转型提升的路径选择
+
+根据上文优化思路，结合景点分布特征，提出三大旅游板块各自在内部资源整合及外部联结互动的具体优化选择：
+
+（1）河西旅游板块，NNI为0.47，景点集中性最强，质心北移可达性情况好。建议全域旅游发展以嘉峪关市、张掖市、敦煌市3个国家级和金塔县、玉门市、金川区3个省级全域示范区为增长点，以兰新高铁、陇海铁路、连霍高速为发展轴线，将河西板块旅游资源串联起来，形成充满大漠风情、民族风情的河西走廊文化生态旅游示范区，重视“旅游 $^ +$ ”模式，如“旅游 $^ +$ 生态”、“旅游 $^ +$ 文化”、“旅游 $^ +$ 民俗风情"等等。
+
+（2）沿黄旅游板块，NNI为0.78，景点空间结构类型为聚集-随机型，质心南移， $1 \mathrm { { h } }$ 等时圈面积变化大，分布密集。全域旅游发展以兰州市城关区、榆中县、景泰县、甘南州4个国家级和临夏市1个省级全域旅游示范区为增长极点，黄河沿岸公路和黄河水道为发展轴，一方面提升现有景点的质量，扩大现有景点的辐射带动范围，另一方面积极加快本板块旅游资源的开发利用，发挥本旅游板块先天性资源优势，主推黄河文化，打造黄河都市和民族风情融合的旅游文化产业集聚区。
+
+（3）陇东南旅游板块，NNI为0.66，空间结构类型均为聚集-随机型，标准差椭圆呈东北一西南走向，质心向西南方移动，天水市和陇南市1h等时圈密布，可达性变化较为明显。该板块拥有麦积山石窟、崆峒山等国家级著名旅游景点，旅游资源以自然风光和宗教文化为主，兼有始祖文化、红色文化及历史文化名城、古镇，使其成为一个集宗教文化、祭祖寻根、休闲避暑、中药养生及红色旅游为一体的综合性旅游板块，但是由于其位于秦巴山区周边，受地形限制，交通条件较弱，应以天水市武山县、麦积区、岩昌县、康县4个国家级和庆城县、泾川县、临洮县、漳县、成县、两当县6个省级全域旅游示范区为增长点，向定西陇南方向以兰海高速、10d高速为轴线，向平凉庆阳方向以青兰高速、G22为轴线，五市抱团发展,做好重点景点开发的同时，利用当地山清水秀的优势大力发展乡村旅游，将地形劣势转变为区域优势，打造陇东南文化旅游传承创新区。
+
+# 5讨论与结论
+
+# 5.1 讨论
+
+旅游业作为新兴产业，旅游空间格局分布及演变是旅游项目布局的基础因素，也是人文地理学研究的重点之一。与前人研究相比[20-22],本文在研究了全域旅游相关文献及政策后,根据甘肃省国土面积狭长，东、中、西旅游资源各具特色，差异性明显，将研究区域划分为三大旅游板块，并以此为研究单元，在全域旅游背景下，从全域旅游“全地域"的视角切入，研究尺度小，以三大旅游板块为研究单元,具有创新性,研究思路清晰。在景点空间分布研究基础上，加入可达性研究，总结出甘肃省景点分布基本特征，并运用"点一轴"理论在全域旅游政策的指导下，结合实际情况，对三大旅游板块的发展提出优化建议，具有探索性，对全面认识甘肃省旅游资源空间格局,指导各旅游板块旅游目的地的建设,以及全省的旅游业规划布局具有重要的现实意义,并对完善和补充全域旅游发展理论兼具实证价值。本文存在2个不足之处：(1）在景点可达性的研究上只考虑了陆路交通对甘肃省旅游空间影响,没有将航空纳入可达性成本阻力模型中进行考量;(2）本文只选取了旅游目的地和交通线路，欠缺对市场因素的相关分析。在今后的研究思路中，一方面要延长研究时限，将市场因素纳入进来探讨板块间组团发展的优劣势并深人考虑地形、气候等自然因素以及社会经济等人文因素对可达性的影响，将航空纳入可达性成本阻力模型中进行考量，尽量减少可达性指标值计算的误差。另一方面，甘肃省周边省市既是重要的客源市场，也是全域旅游合作发展的重点区域，在未来的研究中要打破行政界限，构建全域旅游合作发展模式。
+
+# 5.2结论
+
+本文基于甘肃省2008、2018年A级旅游景点数据，在全域旅游背景下，从定量分析的角度，利用GIS空间分析方法，对甘肃省旅游空间结构进行研究,探讨甘肃省旅游空间格局演变特征,并结合“点一轴"理论，对甘肃省三个旅游板块提出优化策略。
+
+全省A级景点NNI均略有上升，表明景点在省
+
+# 干吴区地理
+
+域范围内空间分布上趋于分散，空间结构类型未发生显著变动，长期为聚集-随机型；旅游板块内部NNI均有下降，表明板块内部景点分布有集聚趋势，其集聚变化强度由大到小依次为沿黄旅游板块、陇东南旅游板块、河西旅游板块。甘肃省景点空间分布不均衡，存在显著的空间聚集性，高密度区主要集中在酒一嘉、兰州、天水等地，空间结构特征具有相对较强的稳定性和延续性，在旅游板块上呈现出“点强、面弱"的特点。
+
+景点可达性时间成本变化明显，路网“线分散”的特点趋于弱化， $1 \mathrm { { h } }$ 等时圈呈现从景点沿主要交通干线向外围增长的趋势，可达性较好的区域多连片分布于交通干线及城镇周围，可达性较差的地区多分布在省域边界地形崎岖地带，陇南市和甘南州东部地区可达性改善最为明显。
+
+以“点一轴"理论为基础，因地制宜，联系实际，提出三大旅游板块特色增长级和发展轴线，建设以敦煌文化为中心的河西走廊文化生态旅游区、以黄河文化为中心的黄河都市文化产业区、以始祖文化为中心的陇东南文化旅游传承创新区。
+
+# 参考文献(References)
+
+[1] Bassauli UL. Tourist-city destination planning in Medan[J].Urban Planning Overseas,2003,11(2): 23-27.   
+[2] Murphy PE,Rosen B L.Tourism: An exercise in spatial search[J]. Canadian Geographer,2010,18(3); 201-210.   
+[3] 王录仓,杨志鹏,武荣伟.甘肃黄河三峡景区旅游资源空间结构 研究[J].干旱区研究,2016,33(1): 215-222.[Wang Lucang, Yang Zhinpeng,Wu Rongwei. Study on the spatial structure of tourist resources in the Three Gorge Area of Yellow River in Gansu Province[J]. Arid Zone Research,2016,33(1): 215-222.]   
+[4] Connell J. Scenario planning as a tool to understand uncertainty in tourism: The example of transport and tourism in Scotland in 2025 [J]. Current Issues in Tourism,2010,13(2): 99-137.   
+[5] Smith SLJ.旅游决策分析方法[M].天津:南开大学出版社, 2006: 84-120.[Smith S L J. Tourism decision analysis method[M]. Tianjing: Nankai University Press,2006: 84-120.]   
+[6] Wilson A G.A statistical theory of spatial distribution models[J]. Transportation Research,1967,1(3): 253-269.   
+[7] 卞显红.城市旅游空间结构研究[J].地理与地理信息科学, 2003,19(1):105-108.[Bian Xianhong. Study on spatial structure of urban tourism[J]. Geography and Geographic Information Science,2003,19(1): 105-108.]   
+[8] 保继刚,郑海燕,戴光全.桂林国内客源市场的空间结构演变 [J].地理学报,2002,57(1): 96-106.[Bao Jigang,Zheng Haiyan, Dai Guangquan.The evolvement of spatial structure and the significance of Guilin's domestic tourist origins[J].Acta Geographica Sinica,2002,57(1): 96-106.]   
+[9]汪德根,陈田,陆林,等.区域旅游流空间结构的高铁效应及机 理——以中国京沪高铁为例[J].地理学报,2015,70(2):213- 232.[Wang Degen, Chen Tian,Lu Lin, et al.Mechanism and HSR effect of spatial structure of regional tourist flow: Case study of Beijing-Shanghai[J].Acta Geographica Sinica,2015,70(2): 213-232.]   
+[10]马晓龙.西安旅游区人境旅游流时空演变及系统调控[J].人文 地理,2006,21(4): 88-93.[Ma Xiaolong.Tempo spatial varieties of overses tourists flow and its systematical adjusting in Xi'an tourism districts[J]. Human Geography,2006,21(4): 88-93.]   
+[11] 杨更生,王东,孙彬.“一带一路"下旅游文化产业的大数据体系 架构与实施途径研究[J].干旱区地理,2019,42(1):189-196. [Yang Gengsheng,Wang Dong,Sun Bin.Big data system architecture and implementation approach of tourism culture industry under“the Belt and Road”Initiative[J].Arid Land Geography,2019, 42(1): 189-196.]   
+[12]王松茂,徐宣国,马江涛.新疆旅游经济网络特征的时空演变研 究——基于修正的引力模型及社会网络分析[J].干旱区地理, 2020,43(2): 181-188.[Wang Songmao,Xu Xuanguo,Ma Jiangtao.Spatial and temporal evolution of the tourism economy network in Xinjiang:Based on modified gravity model and social network analysis[J]. Arid Land Geography,2020, 43(2): 181-188.]   
+[13]王伟,张佳莹,彭东慧.中国区域旅游发展潜力演变格局与影响 因素分析[J].干旱区地理,2019,42(4):953-960.[Wang Wei, Zhang Jiaying,Peng Donghui.Evolving pattern and influencing factors of regional tourism development potential in China[J]. Arid Land Geography,2019,42(4): 953-960.]   
+[14]张辉.全域旅游助推自驾旅游[J].旅游研究,2017,9(4):2-5. [Zhang Hui.All-regional tourismboostsself-driving tourism[J]. Tourism Research,2017,9(4): 2-5.]   
+[15]鲁开莉.全域旅游背景下旅游地空间结构优化研究——以泉州 市为例[D].兰州:西北师范大学,2019.[Lu Kaili. Study on spatial structure optimization of tourist destinations under the background of all air tourism: Taking Quanzhou City as an example[D]. Lanzhou: Northwest Normal University,2019.]   
+[16] 毛小岗,宋金平,于伟.北京市A级旅游景区空间结构及其演化 [J].经济地理,2011,31(8): 1381-1386.[Mao Xiaogang,Song Jinping, Yu Wei. Space structure and its evolution of A-grade tourist attractions in Beijing[J]. Economic Geography,2011,31(8):1381-1386.]   
+[17] 胡美娟,李在军,侯国林.江苏省乡村旅游景点空间格局及其多 尺度特征[J].经济地理,2015(6): 202-208.[Hu Meijuan,Li Zaijun,Hou Guolin.Multi-scale spatial patterns characteristic of rural tourism attractions in Jiangsu Province[J]. Economic Geography,2015(6): 202-208.]   
+[18]胡宇娜,梅林,陈妍.中国5A级旅游景区网站质量测度及空间 特征研究[J].地理科学,2016,36(4):548-554.[Hu Yuna, Mei Lin, Chen Yan. Quality assessment and spatial feature of portalwebsites in China's5A rated tourism atraction[J. Scientia Geographica Sinica, 2016,36(4): 548-554.]   
+[19]陆玉麒.论"点—轴系统"理论的科学内涵[J].地理科学,2002, 22(2): 136-140.[Lu Yulin. On the scientific connotation of “pointaxis system”theory[J]. Scientia Geographica Sinica,2002, 22(2): 136-140.]
+
+[20] 张秀改，赵媛,朱敬敬.丝绸之路经济带中国段旅游资源与旅游 发展耦合研究[J].干旱区地理,2018,41(1):170-177.[Zhang Xiugai,Zhao Yuan, Zhu Jingjing. Coupling coordination between tourism resources and touris mdevelopment in the Chinese section of the Silk Road Economic Belt[J].Arid Land Geography,2018,41 (1): 170-177.]
+
+[21]陆大道.区域发展及其空间结构[M].北京:科学出版社,1995.
+
+[Lu Dadao.Regional development and its spatial structure[M]. Beijing: Science Press,1995.] [22] 刘俊,李云云,林楚,等.长江旅游带旅游资源空间格局研究[J]. 长江流域资源与环境,2016,25(7):1009-1015.[LiuJun,Li Yunyun,Lin Chu,et al.Spatial pattern of the tourism resources of Yangtize River tourism belt[J].Resources and Environment in the Yangtze Basin,2016,25(7): 1009-1015.]
+
+# Optimization of tourism spatial structure from the perspective of all-for-one tourism in Gansu Province
+
+CAI Jia'，BAI Yongping'， CHEN Zhijie'， CHE Lei²， WANG Zhiguo'， XIE Lixia' (1.College ofGeographyand Environmental Science,Northwest NormalUniversity,Lanzhou 73Oo7o,Gansu,China; 2.School of Architecture and Urban Planning Nanjing University,Nanjing 210o93,Jiangsu,China)
+
+Abstract:Gansu Province is a popular tourist destination in China because of its rich and diverse tourism resources.This paper presents relevant literature and policies for“all-for-one”tourism in accordance with the concept of “building and integrating development in different regions”.The tourism sector of Gansu Province was divided into three parts,and each part represented one research unit. Data were colected from Grade A tourist attractions and basic road network data from Gansu Province in 2008 and 2018.The nearest neighbor distance index, nuclear density,standard deviational elipse,time-cost grid algorithms,and ArcGIS were used to analyze the spatial distribution of Grade A scenic spots,the mobility of the center of massof the scenic spots,and the accessibility of the scenic spots.This study explored the spatial structure of tourism in Gansu Province from 2008 to 2018 and concludes that the basic characteristics of spatial change in Gansu Province is a“strong point, weak in face and scattered on surface".The results of this research show that the spatial structure of Grade A scenic spots in Gansu Province are random clusters,and the highest densityof scenic spots are concentrated in Jiuquan,Jiayuguan,Lanzhou,and Tianshui Cities.The spatial structures observed were relatively stable and continuous.The accessble time-cost analysis of scenic spots changed over the 10-year period showing that (1) the rate of the 1-h isochron increased $134 \%$ ,and (2) the rate of the 2-h isochron increased $41 \%$ . The time-cost relationship of accessibility to scenic spots showed that areas with better access were distributed around traffic trunk lines and towns,while spots with poor accessibility mostly occurred in rugged terrain along the provincial boundary. From a regional perspective combined with“pole-axis system theory",this paper proposes specific measures for the integration of resources within a tourism plate and the interactions between tourism plates as a function of local conditions,the actual situation,and the specific measures of the integration of resources within the tourism plate and the interaction between the tourism plates.The three tourism plates were: (l)a construction plate featuring Dunhuang culture and ecological features in the Hexi Corridor,(2) the Yellow River urban industrial zone focusedon Yelow River culture,and (3)the China Cultural Heritage and Innovation Zone in southeast Gansu Province highlighting ancestral culture.These three plateswere designed to promote the transformation of Gansu Province from“tourist-attraction tourism”to“all-for-one”tourism,optimize the spatial layout of tourism in the province, give fullplay to the regional characteristics of the plate,coordinate and develop a sustainable model for tourism in Gansu Province,and identify key landmarks and points of interest to market and thus increase domestic tourism in this well-known destination in China.
+
+Key words: all-for-one tourism; tourist attractions； spatial pattern; Gansu Province

@@ -1,0 +1,116 @@
+# 临床研究
+
+# 急性肺动脉栓塞肺部异常的CT征象及演变特点：附34例报告
+
+梁永强，陈锦灿,夏广明],黎瑞芳,郭敬深，崔运能²  
+1肇庆市第一人民医院放射影像科,广东 肇庆 526000;佛山市妇幼保健院放射科,广东 佛山 528000
+
+摘要：目的 探讨急性肺动脉栓塞患者肺部异常的CT征象及其演变特点。方法 回顾性分析34例急性肺动脉栓塞患者的临床及CT影像资料，观察肺动脉栓塞的直接征象即肺动脉充盈缺损，及肺部异常的CT征象，包括肺梗死、“马赛克"征、磨玻璃影、局限性肺气肿、肺不张等，分析病灶的分布、影像特征等，及复查时病灶演变特点。结果 初查CT可见肺梗死累及18名患者，共28个病灶;“马赛克"累及6名患者，10个病灶,磨玻璃影累及12名患者,28个病灶，局限性肺气肿累及5名患者,6个病灶,肺不张累及13名患者,19个病灶。13名患者CT复查，随着肺动脉栓子缩小,绝大部分肺部异常征象消失，仅肺梗死区遗留纤维条索灶。结论 肺梗死、“马赛克"征、磨玻璃影、局限性肺气肿、肺不张等肺部异常是急性肺动脉栓塞常见CT征象,熟悉CT征象及其演变特点将有助于肺动脉栓塞的诊断及治疗效果的评估。  
+羊键词.肺动脉栓寒.X线计筲机断层扫描.三维重建.肺部
+
+# CT features and evolution of lung abnormalities in patients suffered from acute pulmona.ry embolism
+
+LIANG Yongqiang1, CHEN Jincan', XIA Guangming1,LI Ruifang1,GuO Jingshen1,CUI Yunneng²   
+1Departmentodoogstle'sital,oing6aeprtmetiolay   
+Children'sHealthcareHospitalAffiliated to Southern MedicalUniversity,Foshan 528ooo,China
+
+Abstract: Objective To investigate the CTfeatures and evolution of lung abnormalities in patients sufferedfrom acute pulmonary embolism.Methods The CT and clinical data of 34 patients sufered from acute pulmonay embolism were analyzedretrospectively.Thedirectsign,thatis,thefillngdefectwithinthepulmonaryarteries,andtheabnoralCTsigns in thelungs,includingpulmonaryinfarction,mosaic sign, ground-glassopacity, Westermark'sign,and pulmonaryatelectasis were assessed,andtheirlocationandradiologicfeaturesoflesions weredescribedtoo.Onthefollow-upCTexaminations,the evolution of lesions were caried outby comparing to their appearance shown on previous CTimages.Results On initial CT exminations, pulmonaryinfarction involved 18 patients,resulting to 28 lesions, while mosaic sign involving 6 patients, resulting to 10 lesions,ground glass opacity involving 12 patients,resulting to 28 lesions, Westermark'ssign involving 5 patients,resultingto6lesions,and pulmonaryatelectasis involving 13 patients,resultingto19 lesions.Thirteenpatients peformed at least one time follow-up CT exminations in various period. As the filing defectdecreased while followed up, almostof the lungabnormalitiesshrinkedor disappeared on CT,but the pulmonaryinfarction turnedto be focal fibrosis lesions.Conclusion Pulmonaryinfarction, mosaic sign,ground-glass oacity, Westermark'sign,and pulmonary atelectasis were common signs on CT in patients sufered from acute pulmonary embolism,and acknowledging the signs and their evolution would contribute to the diagnosis and therapeutic efects evaluation of pulmonary embolism.
+
+Keyword: pulmonary embolism; X -ray computed tomography; three-dimensional reconstruction; lung
+
+肺动脉栓塞是人类第3大致死性心血管疾病，发病率仅次于冠状动脉病变、脑中风，年发病率达$1 \text{‰}$ 。多排螺旋CT成像是肺动脉栓塞的首选检查方法，不仅可观察肺动脉栓塞的直接征象，即肺动脉或其分支内充盈缺损,评估右心室、胸部大血管功能,还显示肺部异常，如肺梗死、“马赛克"征、磨玻璃影、局限性肺气肿、肺不张等[2-3]。既往文献多关注肺动脉栓子本身和心血管功能异常的影像学表现[3-5]，较少对肺部CT征象及其演变进行专门描述，存在一定的局限性。本研究回顾性分析34例急性肺动脉栓塞患者临床及影像学资料，探讨肺部异常CT征象特征及其演变规律，为进一步阐明肺动脉栓塞患者病理生理改变提供影像学参考。
+
+# 1资料与方法
+
+# 1.1一般资料
+
+回顾性分析2013年6月 ${ \sim } 2 0 1 7 \$ 年4月本院确诊的34例急性肺动脉栓塞患者资料，其中男16例，女18例，年龄36\~89岁，平均 $6 3 . 4 { \pm } 1 5 . 6 \$ 岁，所有患者在溶栓、抗凝治疗前均行多排螺旋CT肺动脉血管造影检查，共13例患者规范治疗后行CT复查，其中7例患者复查1次(间隔时间15\~93d,平均 $3 5 . 6 { \pm } 2 4 . 7 \ : \mathrm { d }$ ，4例患者复查2次(与上次检查间隔9 ${ \mathrm { d } } { \sim } 2$ 年7个月)，2例患者复查3次(与上次检查间隔分别为 $1 4 \mathrm { d } , 6 0 \mathrm { d } )$ 。临床症状主要表现为胸闷、气促19例，胸痛4例，下肢肿胀4例，意识障碍4例，咳嗽1例，发热1例，无症状者1例。其中有肿瘤病史10例，高血压或合并脑血管病变9例,感染8例，下肢静脉血栓8例,早孕者1例,无严重疾病者2例。经治疗后症状好转出院28例，病情稳定转上级医院治疗3例，死亡1例，放弃治疗2例。
+
+# 1.2设备
+
+研究采用美国GE公司LightspeedVCT64排螺旋CT机，检查时患者取仰卧位，平静下吸气末屏气扫描，常规胸部平扫后，使用高压注射器经时静脉以$4 \mathrm { m L / s }$ 流率注射 $3 7 0 ~ \mathrm { I m g / L }$ 非离子型碘对比剂 $8 0 ~ \mathrm { m L }$ 后注射适量生理盐水；扫描范围从胸廓入口至肋膈角，于肺动脉根部设定感兴趣区，运用自动触发增强扫描(阈值 ${ 1 0 0 } \mathrm { H u } \partial , $ 进行第1期扫描，并在第1期扫描结束 $6 { \sim } 1 0$ s后行第2期扫描，必要时在 $2 ~ \mathrm { m i n }$ 后补充延时扫描。具体扫描参数为：管电压为 $1 2 0 \mathrm { K V }$ ，管电流为$3 0 0 ~ \mathrm { { m A } }$ ，扫描层厚、层间距均为 $0 . 6 2 5 ~ \mathrm { m m }$ ，矩阵为$5 1 2 \times 5 1 2$ ，视野 $3 0 0 \mathrm { m m } { \times } 3 0 0 \mathrm { m m }$ 。各期扫描结束后自动重建出 $5 ~ \mathrm { m m }$ 轴位肺窗、纵隔窗图像。复查时采用
+
+同样参数进行扫描。
+
+扫描所得图像传输到后处理工作站，采用多平面重建、最大密度投影、最小密度投影法、容积再现等方式进行轴位、冠状位、矢状位图像三维重建。
+
+# 1.3 图像分析
+
+在原始图像及后处理图像上，适当调整窗宽、窗位观察肺动脉栓子及肺部异常。肺动脉栓子的评估主要观察其累及的最大肺动脉分支；肺部异常征象包括：肺梗死、“马赛克"征、磨玻璃影、局限性肺气肿、肺不张，观察其位置、影像学表现等。
+
+患者复查时对肺动脉栓子及肺部异常的分布及大小与前一次检查对比
+
+# 2结果
+
+栓子：栓子表现为肺动脉其及分支内充盈缺损,多呈中心性，内未见强化，以冠状面重建观察效果较好。按累及的最大肺动脉分支分类，可见累及肺动脉主干4例，左右肺动脉12例，叶间动脉3例，叶动脉9例,段动脉6例。13名患者复查时可见仅1名恶性肿瘤患者栓子增大、病变加重，其余病灶缩小或消失(图1)。
+
+![](images/0dbafb3cd8c916d5a2a0913cad3fd166d255b921583f96a695985ca3bd0ffba1.jpg)  
+图1冠状位三维重建图像示肺动脉栓子男,68岁，A:初查可见左肺动脉主干腔内充盈缺损;B:半个月后复查，可见充盈缺损明显缩小.
+
+肺梗死：肺梗死在CT上表现为以胸膜为基底的楔形实变影，尖端向肺门，周围为磨玻璃样渗出，可合并支气管充气征，增强扫描无强化或仅轻微强化，病灶分布于肺外周的，与受累的肺动脉分支相对应。初查时18名患者 $( 5 2 . 9 \%$ )受累，共28个病灶，位于左肺上叶病灶6个，下叶病灶4个，位于右肺中叶病灶6个，下叶病灶12个。其中13名患者(13个病灶)复查，可见2个病灶扩大，新出现1个病灶，9个病灶缩小。其中2名患者行第2次、第3次复查，可见受累区域残留条索状纤维化病灶(图2A，B)。
+
+“马赛克"征：表现为肺局部区域密度不均匀形成“黑白镶嵌"征象。初查时6名 $( 1 7 . 6 \% )$ )患者受累，共10个病灶，位于左肺上叶病灶3个，下叶病灶3个，位于右肺下叶病灶4个。其中的4名患者(7个病灶)复查1次，其中5个病灶消失，2个病灶不变。复查时可见另外2名患者新出现马赛克征(2个病灶，均位于右肺下叶),此2名患者行第2次复查时，病灶消失(图3)。
+
+磨玻璃影：在CT图像上呈局部肺组织模糊的轻度密度增高区，内可见支气管血管束走行(图4)。初查时12名患者 $( 3 5 . 3 \% )$ 受累，共28个病灶，其中左肺上叶病灶4个，下叶病灶4个，右肺上叶病灶4个，中叶病灶6个，下叶病灶8个。其中5名患者(12个病灶)行1次复查，6个病灶增大，3个病灶不变，3个病灶消失。无患者进行第2次复查。
+
+局限性肺气肿：表现为肺叶、段或亚段为单位的肺组织缺血，灌注减低，肺透亮度增加，纹理稀疏(图5)。初查时5名患者 $( 8 . 8 \% )$ 受累，共6个病灶，左肺下叶病灶3个，右肺中叶病灶2个，下叶病灶1个。其中2名患者(2个病灶)复查,1个病灶消失，另1个病灶保持不变，无第2次复查患者。另外在复查时可见1患者在左肺下叶新出现病灶，第2次复查时病灶范围缩小。
+
+![](images/b6d9dc9e0f5eff80d504d4fd54d8a8e5ba2062ddfaa2598264d7911c381f87fa.jpg)  
+图2轴位肺窗及增强纵膈窗图像示肺梗死
+
+男,69岁,A,B:初查可见左肺下叶肺梗死，病灶以胸膜为基底，尖端向肺门，增强扫描无强化；C:3年后复查，可见原梗死区遗留纤维灶；注意到初查时后基底段肺不张,呈实变影、明显强化，复查时病灶消失.
+
+![](images/3993bb1f3734c7f769c120ca59d8b6f696e5fb9c355b672220824bc1df1a9db3.jpg)  
+图3轴位肺窗图像示“马赛克"征
+
+男,57岁;A:初查时可见左肺下叶黑白嵌的"马赛克"征;B:20d后复查时病灶消失，
+
+![](images/3ad4c6feadf4f2c98973053b5c949602ad06938beb0c82094d2500a734ce2c6d.jpg)  
+图4轴位肺窗图像示磨玻璃影女，49岁，右肺中叶外侧段磨玻璃影，右侧胸腔少量积液.
+
+![](images/abe52044656b549295553d6c71a7854832bc877ac89a8b8e9ef6db78ddd7be62.jpg)  
+图5轴位肺窗图像示局限性肺气肿男，48岁，右肺中叶、下叶局限性肺气肿.男，48岁，右肺中叶、下叶局限性肺气肿
+
+肺不张：表现为沿肺叶、肺段分布的片状密度增高，伴肺组织体积缩小、叶间胸膜移位(包括支气管、血管聚拢、邻近组织气管移位和代偿性肺气肿)，增强扫描时萎缩的肺组织呈明显强化。初查时13名患者 $( 3 8 . 2 \%$ )受累，共19个病灶。其中左肺下叶病灶7个，右肺中叶病灶1个，下叶病灶11个。其中5名患者复查(9个病灶)，8个病灶缩小或消失，肺不张范围减少(图2),仅1个肺癌患者肺不张病灶增大。另可见1肺癌患者在第3次检查时新出现病灶，复查时病灶增大。另外可见1患者出现气胸，为外伤导致。
+
+# 3讨论
+
+肺动脉栓塞直接的征象是肺动脉腔内栓子形成，在多排螺旋CT上表现上为肺动脉或其分支上完全性或部分性的充盈缺损，即相应血管上无对比剂充填。CT上所见的血管腔内充盈缺损会随着患者病情的好转而逐渐缩小、消失。在本组行CT复查13名患者中，除外1例癌栓病灶增大外，其他栓子均缩小或消失。然而，栓子的大小并不是影响急性肺动脉栓塞患者预后直接的因素，如次大面积的栓子，即使不导致系统性高血压，但因其可对右室功能产生较大的影响，预后也较差[8。故CT上所见的肺动脉栓子的缩小，仅是评估疗效的其中一个项目，需结合其他检查才能准确衡量患者病情。
+
+肺动脉或其分支受栓子阻塞后，将导致肺动脉高压、肺血管阻力增加、心输出量减少、右心衰竭等血液动力学的改变，进而引起肺部相应的病理生理变化。若其支配区的肺组织因血流受阻或中断而发生坏死,称为肺梗死。虽然正常肺组织供氧可来自于肺动脉、气道通气及支气管动脉，即使肺动脉血液受阻，其他两者可以代偿供氧，但本研究显示，肺梗死发生率较高，达 $5 2 . 9 \%$ ，原因可能为肺动脉栓塞后多合并其他解剖学或病理生理的异常。肺梗死的发生率与外周血管的闭塞相关，受累的肺动脉血管分支越位于外周，肺梗死越容易发生。病灶在CT增强扫描时未见强化或仅轻度强化，随着栓子的溶解，实变影范围缩小，但最终仍然遗留片状或条索状阴影，说明其病理改变并不完全可逆。
+
+“马赛克"征形成的原因，是被栓塞血管的远端血供减少甚至是没有血供，使栓塞区肺野血管影稀疏，透光度增加，而未栓塞区的肺野血供则代偿性增加，使血管显影增粗，透光度下降，构成肺野“黑白镶嵌"现象，病灶分布区域与血管栓塞的受累分支相对应[。一旦发现"马赛克"征时应积极寻找可能引起异常的气道、心血管、室间隔增厚、或由于呼气相时空气滞留等原因,以明确引起征象确切病因[10]。“马赛克"征可在各类血管性疾病、肺部肿瘤、感染等疾病出现,血管性疾病中，尤其与肺动脉高压相关[]。在本组病例中，有12名 $( 3 5 . 3 \% )$ )患者出现“马赛克"征，随着肺动脉栓子缩小、消失时，大部分病灶未见显示，且不遗留任何异常征象，说明“马赛克"征为肺动脉栓塞常见的一过性灌注异常。
+
+局部肺组织密度的增高而不影响其中的支气管血管束的显示是磨玻璃影区别于肺部实变病灶的影像学特征[12]。磨玻璃影最常见于肺肿瘤、感染、胶原病等[13-14]，当见于肺动脉栓塞患者时,代表肺部血管源性异常[15]。在本组急性肺动脉栓塞患者中，约$3 5 . 5 \%$ 患者肺部出现磨玻璃影，多分布于下叶，与文献报道相符[]。复查时大部分病灶消失，故可能仅代表单纯肺动脉高压时少量液体渗出，随着肺动脉栓子的吸收，肺血管压力逐渐恢复正常，磨玻璃影消失。
+
+局限性肺气肿，亦称肺少血征，是栓塞远端肺组织灌注减少且支气管动脉代偿不足所致，是急慢性肺栓塞的征象，但也见于其他导致肺动脉高压的疾病。本组仅5例患者 $( 8 . 8 \% )$ 出现局限性肺气肿，较其他学者报道低[]，但与原因可能为肺动脉栓塞、肺气肿均多发生于老年患者，对局限性肺气肿的判断存在一定的差异。肺气肿引起肺动脉高压的病理生理机制已较明确[18]，因本研究样本量较小，且较少患者进行CT复查，故难以分析肺动脉栓塞与局限性肺气肿关系。但对局限性肺气肿辨认是在非增强CT扫描时进行肺动脉栓塞诊断的重要参考[19]
+
+血液循环异常会引起肺部通气、弥散功能障碍、肺泡表面活性物质减少，最终导致肺实质萎缩；另一方面，肺动脉高压状态时血管渗透压增高，致使急性肺动脉栓塞患者产生胸腔积液，压迫邻近肺组织。上述两个原因可导致肺不张的发生、发展，但是由于多数肺动脉栓塞患者胸腔积液较少[20],对肺部的压迫程度较轻，故导致肺不张的原因中，血液循环障碍可能为其主要的始动因素。本组研究对象可见13名患者 $( 3 8 . 2 \% )$ )出现肺不张，在经过规范治疗后，随着栓子的缩小，绝大部分肺不张病灶吸收、肺部复张。
+
+肺梗死、“马赛克"征、局限性肺气肿、磨玻璃影、肺不张等肺部的CT征象虽然可见于急性肺动脉栓塞患者，反映肺动脉高压导致血液灌注的异常所引起的继发改变，但并非特异性，仅在其他病变时亦可出现[10,21]。在这些征象中，肺梗死的发生率高于其他征象，为急性肺栓塞患者肺实质异常的最常见征象。随着肺动脉血栓的吸收，大部分肺部异常征象完全消失，但肺梗死区常遗留条片状纤维灶。
+
+总之，急性肺动脉栓塞患者行多排螺旋CT检查时可直接显示肺动脉腔内充盈缺损，肺梗死、“马赛克"征、磨玻璃影、局限性肺气肿、肺不张等也是常见肺部CT异常征象。这些征象不具有特异性，经治疗、随着肺动脉栓子缩小，大部分征象消失或缩小，但对这些CT征象的认识将有助于肺动脉栓塞的诊断及治疗效果的评估，并对深入了解肺动脉栓塞的病理生理改变及转归有一定的参考意义。
+
+# 参考文献：
+
+[1]Giuntini C,Di Ricco G,Marini C,et al. Pulmonary embolism: epidemiology[J].Chest,1995,107(1 Suppl): 35.   
+[2] Zhang LJ,Lu GM,Meinel FG,et al. Computed tomography of acute pulmonary embolism:state-of-the-art[J].Eur Radiol, 2015, 25(9): 2547-57.   
+[3]Dogan H,de Roos A,Geleijins J,et al. The role of computed tomography in the diagnosis of acute and chronic pulmonary embolism[J].Diagn Interv Radiol,2015,21(4):307-16.   
+[4]姜永宏,刘正华,张玉婷,等.CT肺动脉栓塞指数与右心功能及动 脉血气分析指标的相关性研究[J].实用放射学杂志,2016,32(12): 1864-6.   
+[5］Witkin AS,Channick RN.Chronic thromboembolic pulmonary hypertension: the end result of pulmonary embolism[J].Curr Cardiol Rep,2015,17(8): 63.   
+[6]Grosse C,Grosse A.CT findings in diseases associated with pulmonary hypertension: a current review[J].Radiographics,2010, 30(7):1753-77.   
+[7］刘 康，张耀森，郝跃文.肺动脉CTA在肺动脉栓塞的诊断及疗效 观察的价值[J].中国CT和MRI杂志,2016,14(9):50-1,58.   
+[8]Vitarelli A,Barilla F,Capotosto L,et al. Right ventricular function in acute pulmonary embolism:a combined assessment by threedimensional and speckle-tracking echocardiography[J].JAm Soc Echocardiogr,2014,27(3): 329-38.   
+[9]Kirchner J,Obermann A,Stüickradt S,et al．Lung infarction following pulmonary embolism:a comparative study on clinical conditions and CT findings to identify predisposing factors [J]. Rofo,2015,187(6): 440-4.   
+[10]Kligerman SJ,Henry T,Lin CT,et al. Mosaic attenuation: etiology, methods of differentiation,and pitfalls[J].Radiographics,2015, 35(5): 1360-80.   
+[11]Ameli-Renani S,Rahman F,Nair A,et al. Dual-energy CT for imaging of pulmonary hypertension: challenges and opportunities[J]. Radiographics,2014,34(7): 1769-90.   
+[12]Kim HY,Shim YM, Lee KS,et al. Persistent pulmonary nodular ground-glassopacityatthin-sectionCT:Histopathologic comparisons[J].Radiology,2007,245(1): 267-75.   
+[13]袁焕初,郑晓林,邹玉坚,等.肺局限性磨玻璃影与支气管关系的 多层螺旋CT表现[J].分子影像学杂志,2017,15(1):12-5.   
+[14]Gao JW,Rizzo S,Ma LH,et al. Pulmonary ground-glass opacity: computed tomography features，histopathology and molecular pathology[J].Transla Lung Cancer Res,2017,6(1): 68-75.   
+[15]Castaner E,Gallardo X, Ballesteros E,et al.CT diagnosis of chronic pulmonary thromboembolism[J].Radiographics,2009,29(1):31- 50; discussion 50-3.   
+[16]Pontana F,Remy-Jardin M, Duhamel AA,et al. Lung perfusion with dual-energy multi-detector row CT can it help recognize ground glass opacities of vascular origin[J].Acad Radiol,2010, 17(5): 587-94.   
+[17]马建勇,张 雷,高 煜,等.肺动脉高压的多层螺旋CT表现[J].苏 州大学学报:医学版,2011,31(4):671-2.   
+[18]蒋 明,王昌明,林 云,等.低氧性肺动脉高压和慢性支气管炎、肺 气肿并肺动脉高压动物模型的异同[J]．临床与实验病理学杂志, 2011,27(4): 400-4.   
+[19]Kazzaz F,Demla V,Cherian S. Unilateral pulmonary edema, westermark's sign and palla's sign in pulmonary embolism[J].QJM, 2017,25(8): 75.   
+[20]Findik S.Pleural effusion in pulmonary embolism[J].Curr Opin Pulm Med,2012,18(4):347-54.   
+[21]Bray TJ, Mortensen KH, Gopalan D.Multimodality imaging of pulmonary infarction[J].European JRadiol,2014,83(12): 2240- 54.

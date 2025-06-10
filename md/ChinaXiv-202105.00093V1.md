@@ -1,0 +1,150 @@
+# 笔竹大、小孢子的发生及雌、雄配子体发育研究
+
+赵婉琪1.2，国春策1,2，王燕1，肖姣1,2，吴正春1,2，刘海文1,2，杨光耀1,2，于芬1,2\*
+
+（1．江西农业大学林学院，南昌330045；2．江西省竹子种质资源与利用重点实验室，南昌330045）摘要：为探讨笔竹（Pseudosasa viridula）结实率低的原因，该研究通过采用石蜡切片的方法结合显微技术对笔竹大、小孢子的发生及雌、雄配子体的发育过程进行研究。结果显示：笔竹的雄蕊多为3枚，极少有6枚，每枚花药具有4个花粉囊；花药壁发育为基本型，由4层细胞构成，由外向内依次为：表皮细胞、药室内壁细胞、中层细胞和绒毡层细胞，绒毡层发育为腺质型；小孢子母细胞减数分裂中的胞质分裂为连续型，四分体为左右对称型；成熟花粉粒为2-细胞型和3-细胞型，出现畸形或空腔花粉粒，败育多发生在花粉单核期。笔竹的子房1室，胚珠倒生，珠被2层，厚珠心；胚囊为蓼型，成熟胚囊由卵器、极核和3个反足细胞构成。从大、小孢子的发生及雌、雄配子体发育的整个过程看，雌蕊结构完整，胚囊发育正常，而花粉败育可能是导致结实率低的主要原因之一。该研究阐明了笔竹大、小孢子及雌、雄配子体的发育过程，初步揭示了该竹种低结实率的原因，为笔竹杂交育种工作的开展提供了基础资料。
+
+关键词：笔竹，大孢子发生，小孢子发生，雌配子体，雄配子体中图分类号： 文献标识码：A 文章编号：
+
+# Megaspogenesis, microsporogenesis and development of female and male gametophyte of Pseudosasa viridula
+
+ZHAO Wanqi 1.2, GUO Chunce1.2, WANG Yan1, XIAO Jiao1,2, WU Zhengchun1.2, LIU Haiwen1,2, YANG Guangyao1,2, YU Fen1,2\* (1. Forestry Collge ofJiangxi Agricultural University,Nanchang 330045, China; 2. Jiangxi Provincial Key Laboratory for Bamboo Germplasm Resources and Utilization, Nanchang 330045, China)
+
+Abstract: To reveal the causes of low seed-seting rate of Pseudosasa viridula, the process of megasporogenesis and microsporogenesis and the development of female and male gametophyte of $P$ . viridula were studied using traditional parafin section and microscopy techniques.The results were as follows: Each flower contained three anthers (rarely 6)and an anther with four pollen sacs.The anther wallbelonged to the basic type with the typical glandular tapetum,which composed offour layers of cels,which were epidermis,endothecium, middle layer and tapetum from outside to inside.The cytokinesis was the successive forming the medianly zygomorphic tetrads. Mature pollen grains were 2-celltype or 3-cell type,and some abortions occured. Mature pollen grains were 2-cell type or 3-cell type,and some abortions had occurred， which mostly occurred in the mononuclear stage of microspores. Itsovary was unilocular， with parietal placenta was anatropous， double integument and crassinucelate.The embryo sac was the polygonum type composed of an egg organ,a polar nucleus and three antipodal cells. The pistil structure was complete with embryo sac normal development,and the microspore abortion occurs in the single nuclear pollen stage. It is the typical male sterility and pollen abortion may be the main reasons for the low seed-setting rate of $P$ . viridula. This study clarified the process of megaspogenesis, microsporogenesis and the development of female and male gametophyte of $P$ viridula,and initially revealed the reasons for the low seed seting rate ofthis species,which provides basic information for the development of cross breeding of $P$ viridula.
+
+Key words: Pseudosasa viridula,megaspogenesis, microsporogenesis,female gametophyte, male gametophyte
+
+竹子是禾本科多年生植物，开花是其生活史中重要的阶段，大多数竹种需要经过几十年甚至上百年的营养生长才开花（Janzen，1976）。竹子开花不可预测，结实现象罕见，而且很多竹种开花后即死亡，结实率极低或几乎不结实（武剑等，2005），这些生理特性不仅对竹林生产经营、生态功能产生极大危害，同时也给竹类植物胚胎发育研究造成严重困难。关于竹类植物胚胎学的报道始见于1902年 Stapf初步阐述了象鼻竹（Melocanna bambusoides）的果实形态及解剖结构。随着科技日新月异的发展，到1984年，对毛竹（Phyllostachysedulis）胚胎学特征的首次报道，为国内竹类植物胚胎学研究开辟了新方向（乔士义和廖光庐，1984）。近年来已有寒竹（Chimonobambusa marmorea）、巨龙竹（Dendrocalamus sinicus）、雷竹（Phyllostachys violascens 'Prevernalis'）、鹅毛竹（Shibataea chinensis）、‘霞早’绿竹（Bambusaoldhami 'Xia Zao' ZSX）、元江箭竹（Fargesia yuanjiangensis）等20余种竹种生殖生物学研究相继报道（胡成华等，1994；王曙光等，2006；黄坚钦等，2010；林树燕和丁雨龙，2012；林树燕等，2019；黄玲等，2020）。多数研究表明，许多竹类植物的雄蕊、雌蕊在发育过程中都会出现异常导致败育，如雷竹（ $P$ hyllostachysviolascens Prevernalis'）受小孢子母细胞粘连导致减数分裂受阻，结实率仅为 $2 \% { \sim } 5 \%$ ；刘静报道月月竹（Chimonobambusasichuanensis）由于小孢子收缩过度造成结实率仅为 $1 . 3 9 \%$ ；对孝顺竹（ $B a$ mbusa multiplex）的报道表明，其子房、胚珠在发育早期均发生败育且雌蕊结构异常，导致低结实率（黄坚钦等，1999；刘静，2008；李洁，2013）。此外，绵竹（Lingnaniaintermedia）受绒毡层过度发育影响造成花粉空腔，爬竹（Ampelocalamus scandens）和鹅毛竹等竹种也存在相关现象（王雨珺等，2017；庞延军等，1994；林树燕，2009）。
+
+笔竹（Pseudosasa viridula S.L.Chen et G.Y.Sheng）为禾本科竹亚科矢竹属（Pseudosasa）竹种（耿伯介和王正平，1996），地下茎复轴混生，秆型通直，高约 $5 \mathrm { ~ m ~ }$ ，枝叶层次分明，叶宽且细长，色泽鲜嫩。该种自1993年由浙江移栽至江西农业大学竹类植物种质园。2018年，自然条件下笔竹出现连年开花现象，且花后结实极少，据统计结实率仅为 $0 . 1 2 \%$ ，其结实率低的原因尚不明确。本文以笔竹为研究对象，从解剖学角度观察其大、小孢子发生及雌、雄配子体的发育过程，探究其结实率低的原因，以期为竹类植物杂交育种及竹类植物生殖生物学研究提供基础资料。
+
+# 1材料与方法
+
+# 1.1试验样地概况
+
+试验地位于江西农业大学竹类植物种质园内的笔竹林，地处江西省中部偏北位置，$1 1 5 ^ { \circ } 4 9 ^ { \prime } 1 1 ^ { \prime \prime } { \sim } 1 1 5 ^ { \circ } 4 9 ^ { \prime } 2 3 ^ { \prime \prime } \mathrm { E }$ 、 $2 8 ^ { \circ } 4 6 ^ { \prime } 0 0 ^ { \prime \prime } { \sim } 2 8 ^ { \circ } 4 6 ^ { \prime } 3 0 ^ { \prime \prime } \mathrm { N }$ ，海拔为 $4 9 . 5 \mathrm { m }$ ，属中亚热带湿润季风气候，年平均气温为 $1 7 { \sim } 1 7 . 7 \ \mathrm { ^ circ C }$ ，极端最高气温为 $4 0 . 9 ~ \mathrm { { ^ \circ C } }$ ，极端最低气温为 $. 1 5 . 2 \mathrm { ~ \textdegree ~ }$ ，年日照时数为 $1 7 7 2 { \sim } 1 8 4 5 \mathrm { h }$ ，年平均降水量为 $1 \ 5 6 7 . 7 { \sim } 1 \ 6 5 4 . 7 \ \mathrm { m m }$ 。地形平坦，土壤类型为黏重红壤，微酸性。竹林样地面积约 $1 2 2 ~ \mathrm { m } ^ { 2 }$ ，共计523株 笔 竹
+
+# 1.2 试验材料
+
+取不同发育时期的笔竹小穗和小花，快速投入卡诺固定液内并真空抽气，2d后置换至 $70 \%$ 乙醇中并保存于 $4 \mathrm { { ^ \circ C } }$ 冰箱内。
+
+# 1.3石蜡制片
+
+（1）材料预染：制片前将固定好的材料取出，采用Ehrlich's苏木精染色液将材料整染 $2 4 { \sim } 4 8 \mathrm { h }$ ；(2）脱水与透明：系列梯度乙醇脱水，每级 $1 5 \mathrm { m i n }$ ；二甲苯对材料进行透明，每次 $2 0 \mathrm { m i n }$ ；（3）渗蜡和包埋：将石蜡切碎置于存有 $100 \%$ 二甲苯的烧杯中，置于 $3 8 \mathrm { ~ \textdegree ~ }$ 烘箱内过夜。次日将烘箱温度调高至 $6 0 \ \mathrm { { ^ \circ C } }$ ，逐级
+
+将材料置换至 $100 \%$ 石蜡中，每次 $2 \mathrm { h }$ ；（4）包埋；（5）材料切片：LeicaRM2235旋转切片机切片，厚度为 $7 { \sim } 8 ~ \mu \mathrm { m }$ ；（6）展片和烘片；（7）中性树胶进行封片；（8）观察和拍照：将切片置于Zeiss AX10 生物显微镜下进行观察、拍照。
+
+# 2结果与分析
+
+# 2.1笔竹小孢子的发生和雄配子体的发育
+
+# 2.1.1小孢子发生
+
+笔竹大多数小花具有3枚雄蕊，极少数为6枚。约 $1 ~ \mathrm { m m }$ 长度的幼嫩笔竹花药的横切面上显示，此阶段笔竹花药还未进行分化，花药细胞结构较为简单，最外层为表皮细胞，内层则是一团分生组织细胞（图版I：A）；之后，位于笔竹花药横切面的4个角隅处的细胞分裂活动变得活跃，花药形态向四个棱角突出，并在表皮下分化出体积大、核仁明显的孢原细胞后，进入造孢细胞时期，孢原细胞平周分裂成初生壁细胞和初生造孢细胞（图版I：B，C，D）；当幼嫩的笔竹花药的长度发育至约 $2 \ \mathrm { m m }$ 时，小孢子母细胞分化完成，其具有显著区别于周围其它细胞的特点：体积大、液泡不明显、核大且颜色深；小孢子母细胞时期，花药壁细胞层完全分化，由4层细胞组成，由外向内依次为：表皮细胞-药室内壁细胞-中层细胞-绒毡层细胞（图版I：E，F）；笔竹的花药在 $3 { \sim } 4 \ \mathrm { m m }$ 时，小孢子母细胞逐渐变成近椭圆形，此时开始进入第1次减数分裂。第1次减数分裂开始到二分体形成，经过前期Ⅰ\~末期Ⅰ，期间胞质颜色变淡（图版I：G，H，I,J，K，L）。第1次减数分裂多为纵向分裂，同源染色体相互分离，移至细胞两端，减数分裂末期Ⅰ，产生细胞板将小孢子母细胞分隔为两个子细胞，此时为二分体时期（图版II：A）。当笔竹花药长度通常为5mm左右时，开始进行第2次减数分裂（图版ⅡI：B，C），分裂结束形成了4个左右对称的小孢子，并在各自周围沉积形成朕抵质壁，被相互分隔开（图版II：D，E）。随着胼胝质壁的降解，小孢子被释放出来，形成各自独立的个体。
+
+![](images/67ca88f8c912dd09c108d9e9f8de11b125dc401e9fad57537c4175e353f6ea69.jpg)  
+A.未进行分化的花药；B-D.造孢细胞；E-F.小孢子母细胞；G-H.减数分裂前期I；I-J.减数分裂中期I；K-L.减数分裂后期I。  
+图版I笔竹小孢子及雄配子体发育
+
+A.Theundiferentitedanther;B-D.Sporogenouscell;E-FMicrosporemothercell;G-H.ProphaseIofmeiosisoficrospore mothercels; I-J.Metaphase Iofmeiosis ofmicrospore mothercells; K-L.Anaphase Iofmeiosis ofmicrospore motherclls.
+
+Plate I Microsporogenesis and development of male gametophyte of Pseudosasa viridula
+
+# 2.1.2雄配子体发育
+
+雄配子体发育初期，刚被释放出的小孢子细胞核居中，为中央期（图版II：F，G）；之后经过进一步发育，小孢子的中央大液泡逐渐形成，细胞核被挤至细胞边缘，此阶段为单核靠边期，这一时期笔竹的花药长度通常为 $6 \mathrm { m m }$ 。随着小孢子的发育，绒毡层细胞开始逐渐自我解体，其原生质体始终都保持在同一位置，绒毡层细胞发育类型为腺质型，通过分泌、自溶为小孢子的发育供给营养物质（图版ⅡI：H）。后来，笔竹的小孢子开始有丝分裂，形成2个大小不等的细胞：贴近细胞壁一侧、体积较小、凸透镜状的细胞为生殖细胞，位于中央、体积较大的是营养细胞，彼此之间被细胞壁隔开，形成2-细胞花粉，此阶段笔竹花药长度通常为 $6 { \sim } 7 ~ \mathrm { m m }$ （图版ⅡI：I）。随后生殖细胞逐渐从边缘移向中央，并进行第2次有丝分裂，形成两个精细胞，形成3-细胞花粉（图版II：J）；随着花粉的发育，绒毡层在此期间逐步降解并被吸收为成熟花粉发育提供营养物质。花粉发育过程中存在不同程度的败育，部分花粉粒发生严重皱缩（图版II：K）。此外，存在空腔花粉，形状较扁，部分花粉腔内无内含物（图版ⅡI：L）。
+
+![](images/471ca64c5d88e1561c45d5f066c5484e1f1a324a7b1ff1702a807d607b29388c.jpg)
+
+A.二分体；B-C.减数分裂中期II；D-E.四分体；F-G.单核中央期；H.单核靠边期；I.二核花粉粒；J.三核花粉粒； K.花粉皱缩；L.空腔花粉。   
+A.Dyad; B-C.Metaphase II of meiosis of microspore mother cells,showing metaphase II; D-E.Tetrad; $\mathbf { F } { \sim } \mathbf { G }$ ，Mononuclear microspore,nucleuslocated inthcenter; H.onouclearmicrosphere,nucuslcatedaside;I-cellpens; J.-cellps;K. Deformed pollens; L. Pollens without nuclei and cytoplasm
+
+# 图版ⅡI笔竹小孢子及雄配子体发育
+
+Plate II The microsporogenesis and development of male gametophyte of $P .$ viridula
+
+# 2.2笔竹大孢子的发生和雌配子体的发育
+
+2.2.1大孢子发生
+
+笔竹的子房呈椭圆形，上端由花柱连接3叉羽毛状柱头，外壁光滑，子房1室，倒生胚珠，珠被2层，厚珠心。发育初期，在珠心表皮下形成一个细胞，其形态显著区别于其他细胞，细胞体积大，细胞核较大、居中，细胞质浓厚，即孢原细胞；大孢子母细胞由孢原细胞直接发育，其细胞核增大（图版III：A）；随后，大孢子母细胞开始进入减数分裂阶段（图版II：B）；经过第1次减数分裂，大孢子母细胞的染色体一分为二，形成二分体（图版II：C）；第2次减数分裂时二分体的两个细胞各自分裂在沿着珠孔下方的珠心形成四分体（图版II：D）。
+
+# 2.2.2 雌配子体发育
+
+笔竹的成熟胚囊为蓼型。功能大孢子的发育是雌配子体形成的起源，随着功能大孢子发育，大孢子的细胞核开始进行一次有丝分裂，分裂出的2个细胞分别向细胞两端移动，形成2核胚囊（图版II：E）；第2、3次有丝分裂过程中，接连发育出4核胚囊、8核胚囊；珠孔端、合点端各有1个细胞核向胚囊中央游移，组
+
+成极核，靠近合点端的3个细胞组成反足细胞（图版II：F）；位于珠孔端的3个细胞核呈“品"形，包括1个卵细胞和2个助细胞共同组成卵器；反足细胞、中央细胞核和卵器共同组成成熟胚囊，即表明雌配子体形成。
+
+![](images/9032921f2607e7e250dab56095a74b0d4f4b1ee1ee200cb2e13fab61206d5565.jpg)
+
+A.大孢子母细胞；B.大孢子母细胞减数分裂；C.二分体；D.四分体；E.二核胚囊；F.成熟胚囊。
+
+A.Megaspore mother cel; B.Megasporocyte meiosis; C.Dyad; D.Tetrad; E.2-nucleate embryosac; F.Mature embryo sac.
+
+图版IⅢI笔竹的大孢子及雌配子体发育
+
+Plate II Megaspore and development of female gametophyte of P. viridula
+
+# 3讨论与结论
+
+有性生殖过程正常进行对其生命延续和种群拓展具有关键影响，被子植物大、小孢子及雌、雄配子体发育过程中任一阶段发生异常都可能导致败育，从而影响授粉受精（邵晓雪，2016）。柳正葳等（2006)对石蒜（Lycoris radiata）进行研究发现，小孢子减数分裂异常和绒毡层细胞延迟退化导致石蒜花粉败育；水稻（Oryza sativa)发育过程中大、小孢子第一次有丝分裂异常造成胚囊退化、花粉败育（朱晓红等，1996)；水仙（Narcissus tazetta）花而不实的根本原因是由于小孢子减数分裂异常及 $96 \%$ 的胚囊败育。许多竹类植物的雄蕊、雌蕊在发育过程中都会出现异常导致花后少量结实甚至有部分竹种不结实，不仅对竹林更新复壮及竹类植物种植资源多样性造成严重影响，同时给竹类植物的胚胎发育研究工作带来了极大困难(表1)。
+
+# 表1竹类植物雌、雄蕊败育
+
+Table1Female and stamenabortion in bamboo   
+
+<html><body><table><tr><td rowspan="2">竹种 Species</td><td colspan="3">败育 Abortion</td><td rowspan="2">竹林更新 Bamboo forest regeneration</td><td rowspan="2">结实情况 Seed</td><td rowspan="2">参考 Reference</td></tr><tr><td>雄蕊/花粉 Stamen/Pollen 雄蕊发育异常，出现空花粉</td><td>雌蕊/胚囊 Pistil/ Embryo sac</td><td>花药壁 Anther wall</td></tr><tr><td>爬竹 Ampelocalamus scandens</td><td>囊 Stamen development was abnormal,the existence pollen sac without pollens</td><td></td><td>花粉囊结构不清晰 Structure of anther wall is not clear</td><td>有性更新 Sexual reproduction</td><td>结实量大 High fruiting rate</td><td>（庞延军 等，1994; 张家贤等， 1992)</td></tr><tr><td>Phyllostachys fimbriligula 0 角竹</td><td>花粉空腔 Abortive pollens without nuclei and cytoplasm 小孢子母细胞发育异常；小</td><td>柱头退化 Stigma degenerated</td><td>花粉壁囊厚，难以破 裂散粉 Anther wall is thick d层细胞大量ek</td><td>无性更新 Asexual reproduction</td><td>难以采到成熟 种子 No fruit</td><td>（程有龙 等，1995)</td></tr><tr><td></td><td>孢子胞质解体 Microspore mother cell development was abnormal. The cytoplast of the</td><td>发育正常 Normal development</td><td>落或肥大生长 A large number of tapetum cells detachment or</td><td>无性更新 Asexual reproduction</td><td>不结实 No fruit</td><td>（林树燕， 2009)</td></tr><tr><td>异叶苦竹 Arundinaria</td><td>microspore disintegration 发育正常 Normal development</td><td>发育正常 Normal development</td><td>hypertrophy 发育正常 Normal development</td><td>无性更新 Asexual</td><td>结实率低 Low fruiting</td><td>（林树燕 和丁雨龙,</td></tr><tr><td>simonii h 月竹 Chimonobambusa sichuanensis</td><td>小孢子收缩过度 Microspore contraction</td><td></td><td>绒毡层正常解体 Normal degeneration of tapetum</td><td>reproduction 无性更新 Asexual reproduction</td><td>rate 结实率1.39% The fruiting rate were 1.39%</td><td>2013) （刘静， 2008)</td></tr><tr><td>绵竹 Lingnania intermedia</td><td>空腔花粉 Abortive pollens without nuclei and cytoplasm</td><td>发育正常 Normal development</td><td>绒毡层过度发育，药 壁无法开裂 Tapetum is over-developed and the anther wall became difficult to open</td><td>无性更新 Asexual reproduction</td><td>未收获种子 No fruit</td><td>（王雨珺 等，2017)</td></tr></table></body></html>
+
+<html><body><table><tr><td>页竹 busa iplex</td><td>发育正常 Normal development</td><td>子房、胚珠均发生早 期败育；雌蕊结构异 常 Early abortion</td><td>绒毡层解体时间较 早 Early degeneration of</td><td>无性更新 Asexual</td><td>结实率低 Low fruiting rate</td><td>（李洁， 2013)</td></tr><tr><td>竹 calamus</td><td>雌配子体发育过程异常 Abnormal female gametophyte development</td><td>发育正常 Normal development</td><td></td><td>无性更新 Asexual</td><td>结实率低 Low fruiting</td><td>（钟远标， 2016)</td></tr><tr><td>lorus 慈竹 calamus</td><td>雌配子体发育过程异常 The abnormal female gametophyte development</td><td>发育正常 Normal development</td><td></td><td>reproduction 无性更新 Asexual</td><td>rate 结实率低 Low fruiting</td><td>（钟远标， 2016)</td></tr><tr><td>竹 stachys scens rnalis'</td><td>小孢子母细胞粘连导致减数 分裂受阻 Microsporocyte became agglutinate and arrested</td><td>发育正常 Normal development</td><td>发育迟缓 Stunt</td><td>无性更新 Asexual</td><td>结实率2%~5% The fruiting rate</td><td>（黄坚钦 等，1999; 袁晓亮， 2007；林新</td></tr><tr><td>黄竹</td><td>花粉收缩、空腔 Microspore contraction and</td><td></td><td>花药壁发育异常 The abnormal anther wall development</td><td>无性更新 Asexual reproduction</td><td>未收获种子</td><td>（李娟等，</td></tr><tr><td>箭竹</td><td>发育正常</td><td>柱头不 承受花粉</td><td></td><td>有性更新 Sexual</td><td>成熟果实3586</td><td>（秦自生，</td></tr><tr><td>eri 竹</td><td>难以形成花粉粒</td><td>tolerate pollen 发育不健全</td><td></td><td>reproduction 无性更新 Asexual</td><td>未收获种子</td><td>（陈舒怀</td></tr><tr><td>nteus 龙竹</td><td>Difficult to form pollens 发育正常</td><td>Poor development 发育正常</td><td></td><td>reproduction 无性更新</td><td>No fruit 结实率3%</td><td>1997) （王曙光 等，2006;</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>reproduction</td><td>was 3%</td><td></td></tr><tr><td>icus</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Normal development</td><td>Normal development</td><td></td><td>Asexual</td><td>The fruiting rate</td><td>黄新红，</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>2008）</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>9根毛竹收获4</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>840 粒种子</td><td>（秦忠林，</td></tr><tr><td>竹</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>有性更新</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>发育正常</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>发育正常</td><td></td><td></td><td></td><td>A total of 4840</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>2015；周建</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>stachys</td><td></td><td></td><td></td><td>Sexual</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Normal development</td><td></td><td></td><td> seeds were</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>梅等，</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Normal development</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>reproduction</td><td>harvested from</td><td>2016).</td></tr><tr><td>ulis</td><td></td></table></body></html>
+
+雌配子体的正常发育是植物成功授粉受精的必要前提，雌蕊发育异常会导致竹类植物不结实，雌蕊发育异常类型主要有以下3种：（1）雌蕊结构缺失；（2）花柱发育异常，与子房发生粘连；（3）雌蕊发育过程中，子房发育异常（林树燕，2009）。雌蕊异常现象常见于丛生竹，如对孝顺竹（Bambusa multiplex）雌蕊发育的研究中发现子房发育异常、结构缺失，是影响结实率的原因（李洁，2013）；研究发现绿竹属
+
+（Bambusa）3个竹种的雌蕊结构退化而难以结实（袁金玲等，2004）。雌蕊发育异常、柱头可授性弱是水竹（Phyllostachys heteroclada）产生花而不实现象的根本原因（王小红，2007）。本研究中笔竹的雌蕊结构正常，由柱头、花柱和子房构成，为单心皮单室，胚珠倒生，胚囊为蓼型，与月月竹（Chimonobambusasichuanensis）（刘静，2008）、麻竹（Dendrocalamus latiflorus）（钟远标，2016）、巨龙竹（Dendrocalamussinicus）（王曙光等，2006）等竹类植物类型一致。胚囊发育、结构正常。
+
+花粉与植物遗传繁育具有紧密联系，植物中出现花粉败育的现象十分普遍，即小孢子发生异常而产生发育不良或败育的花粉，研究报道主要以农作物为主，如水稻（Oryza sativa）花粉发育不同阶段存在典型、染败和圆败3种形态的败育（朱英国，1979）；小麦（Triticum aestivum）等禾本科作物的花粉产生败育多出现在减数分裂前期、小孢子母细胞增殖期及单核花粉晚期，在这一时期花粉DNA的合成需要消耗大量营养物质，因此其新陈代谢旺盛、生理活性强，同时易受到内在遗传因素及各种生理条件的影响，从而发生败育（利容千，1978）。竹类植物的花粉普遍存在现败育现象，主要有以下2种：（1）花药壁发育正常，但花粉发育异常或无花粉粒；（2）花药壁和小孢子发育均异常。李娟（2020）对硬头黄竹（Bambusarigida）的花药结构进行解剖，发现以上不同形态的败育皆有；刘静（2008）发现小孢子异常收缩造成月月竹（C.sichuanensis）花粉活性低；黄坚钦（1999）发现雷竹（Phyllostachys violascens violascens'Prevernalis')小孢子母细胞发育粘连和绒毡层发育停滞造成花粉败育。笔竹成熟花粉粒同时存在 $2 ^ { - }$ 细胞型和 $3 ^ { - }$ 细胞型花粉粒，与毛竹（Phyllostachys edulis）（周建梅等，2016）、月月竹（Chimonobambusa sichuanensis）（刘静，2008）的花粉特性相同。笔竹花粉的发育过程存在不同程度的败育现象，部分花药的4个药囊内几乎都有畸形花粉，仅有少数正常花粉粒，存在空腔花粉。其中，出现败育多发生在笔竹花粉单核期，而在此之前，小孢子的发育正常。此外，花药壁发育和绒毡层降解的时间都正常。在巨龙竹（Dendrocalamus sinicus）、鹅毛竹（Shibataeachinensis）和麻竹（Dendrocalamus latiflorus）（王曙光等，2006；林树燕，2009；钟远标，2016）等竹种中也发现类似的花粉败育现象。福建茶杆竹（Pseudosasa amabilis）结实率也低，败育一般以浅染型为主，即空腔、无活力的花粉居多，败育率为 $32 \%$ 。笔竹花粉败育类型与其一致，但败育率更高，可达 $44 \%$ （林树燕等，2008；赵婉琪等，2019）。因此，花粉败育是造成笔竹结实率低的主要原因之一。
+
+竹类植物开花后，竹林的更新主要有有性更新和无性更新两种方式（林树燕，2007）。有些竹种开花后从竹鞭形成幼株，进而更新；有些竹种花后老的竹株死亡，竹鞭也不在形成新的竹株，竹林更新主要依靠形成的种子繁殖，形成新的竹株，进行竹林更新。通过表1来看，大部分以无性更新为主的竹种在有性生殖过程中存在败育现象，且结实率普遍较低或不结实（张家贤等，1992；秦自生，1995；黄新红，2008；林新春等，2010；林树燕和丁雨龙，2013）。有研究表明栽培竹种的结实率显著低于野生竹种，杜凡等人统计了云南68种开花竹种，发现仅 $10 \%$ 的野生竹种花后不结实，而栽培竹种"花而不实"达到 $73 \%$ ，他认为这可能是由于栽培品种在经历长期无性繁殖后，其有性繁育机能逐渐退化的结果（杜凡等，2000）。此外，虫害亦是影响竹子结实率的不可忽视的重要因素（秦自生，1995；王小红等，2009）。而笔竹开花后竹林内从竹鞭发出新的竹株，竹林更新主要依靠竹鞭形成新竹完成。根据我们先前对笔竹开花特性的观测结果来看，笔竹有近 $50 \%$ 的花受到虫害，虫害也是主要影响结实率的重要因素（赵婉琪等，2020）。竹类植物结实率低与竹种开花习性、花粉和胚囊的发育是否正常、花粉生活力、传粉有效性及受精是否亲和等多方面因素紧密相关，败育可能是影响结实率的主要原因之一，但竹类植物败育机制目前仍尚未明确，值得进一步深入研究。
+
+# 参考文献：
+
+CHEN SH,TAN HC,1997.Biological and ecological characteristics of Dendrocalamus giganteus[J].J West ChinFor Sci,(4):36-39.[陈舒怀，谭宏超，1997.龙竹的生物学和生态学特性[J].云南林业科技，(4)：36-39.]CHENG YL,REN DT, ZHU BY,1995. Observations on flowering habit of Phyllostachys fimbriligura and itsrejuvenation measures[J].JZhejiang For Sci Technol,15(2): 50-56.[程有龙，任德堂，朱白玉，1997.角竹开花习性观察及复壮更新对策[J].浙江林业科技，15(2)：50-56.]
+
+DUF,XUE JR,YANG YM, et al.,20o0.Studyon flowering phenomenonand its type of bamboo in Yunan inpast fifteen years[J].Sci Sil Sin,36(6): 57-68.[杜凡，薛嘉榕，杨宇明，等，2000.15 年来云南竹子的开花现象及其类型研究[J].林业科学，36(6)：57-68.]  
+GENG BJ, WANG ZP,1996. Gramineae [M]/ Flora reipublicae popularis sinicae.Beijing: Science Pres. [耿伯介，王正平，1996.禾本科[M]//中国植物志.北京：科学出版社.]  
+HU CH,YU FG, PANG YJ,1994. Observation and study on embryology of Chimonobambusa marmorea[J]. JBamboo Res,13(4):6-13.[胡成华,喻富根,庞延军,1994.寒竹胚胎学观察与研究[J].竹子研究汇刊,13(4):6-13.]  
+HUANG L,DENG L,CHU CH, et al., 2020. Morphological and anatomical observations of floral organs andsterility analysis of Fargesia yuanjiangensis[J]. Sci Sil Sin,56(4): 64-73.[黄玲，邓琳，初彩华，等，2020.元江箭竹花器官形态与解剖观察及其败育分析[J].林业科学，56(4)：64-73.]  
+HUANG JQ,HUANG HH, HE FJ,et al.，1999. The formation of microspore and the development of malegametophyte of Phyllostachys praecox[J].JBamboo Res,(3): 55-58.[黄坚钦，黄华宏，何福基，等，1999.雷竹的小孢子发生和雄配子体形成[J].竹子研究汇刊，(3)：55-58.]  
+HUANG XH, 2008. Studies on the reproduction of Dendroncalamus sincus[D]. Kunming: Southwest For Univ.[黄新红，2008.巨龙竹生殖生物学研究[D].昆明：西南林学院.]  
+JANZEN DH,1976.Why bamboos wait so long to flower [J]. Annual Review Ecology and Systematics,7:347-391.  
+LI J, 2013. Studies on the reproductive biology of Bambusa multiplex[D]. Nanjing: Nanjing Forestry University.[李洁，2013．孝顺竹的生殖生物学研究[D].南京：南京林业大学.]  
+LI J, WANG YF,CHU CH,et al.,2020.Studies on flower morphology and structure of Bambusa rigida[J].ForRes,33(1):28-34.[李娟，王一方，初彩华，等，2020．硬头黄竹花的形态与结构研究[J].林业科学研究，33(1): 28-34.]  
+LI RQ,1978.The research on cytological of male sterility in several crops[J]. JWuhan Univ,(1): 83-96.[利容千,1978.几种农作物雄性不育的细胞学研究[J].武汉大学学报，(1)：83-96.]  
+LIN SY,209.Studies on the reproductive biology of Shibataea chinensis and Arundinaria simoni f. albostriatus[D].Nanjing:NanjingFor Univ.[林树燕，2009.鹅毛竹和异叶苦竹的生殖生物学研究[D].南京：南京林业大学.]  
+LIN SY, DING YL，2012. Development of the male and female gametophytes in Shibataea chinensis(Bambusoideae)[J].Acta Bot Boreal,32(5):0907-0914.[林树燕，丁雨龙，2012.鹅毛竹大小孢子及雌雄配子体发育[J].西北植物学报，32(5)：0907-0914.]  
+LIN SY,DING YL, 2013. Studies on the breeding system in Shibataea chinensis and Arundinaria simoni f.heterophylla[D].JNanjing ForUniv,37(3):1-5.[林树燕，丁雨龙，2013.鹅毛竹与异叶苦竹的繁育系统研究[D].南京林业大学学报，37(3)：1-5.]  
+LIN SY, DING YL, ZHANG H, 2008.Polln germination percentage and the floral character of five bamboospecies[J].Sci Sil Sin,44(10):159-163.[林树燕，丁雨龙，张昊，2008.5 种竹子花粉萌发率及开花特性[J].林业科学，44(10)：159-163.]  
+LIN SY,FU HJ,WAN YW,et al.,2019. Anther development and floral morphology characteristics of Bambusaoldhami‘Xia Zao' ZSX[J].JNanjing ForUniv,43(2):7-13.[林树燕，傅华君，万雅雯，等，2019．‘霞早’绿竹花形态特征及花药发育的组织学观察[J].南京林业大学学报，43(2)：7-13.]  
+LIN SY,MAO GX,2007.The habit and regeneration of bamboo flowering[J].For Sci Technol,32(5): 23-25.[林树燕，毛高喜，2007.竹子开花习性和开花竹林的更新[J].林业科技，32(5)：23-25.]  
+LIN XC，YUAN XL，LIN R，et al.，2010. Megasporogenesis and female gametophytes development ofPhyllostachys violascens[J].Sci Sil Sin,46(5): 55-57+187.[林新春，袁晓亮，林绕，等，2010.雷竹大孢子发生与雌配子体发育[J].林业科学，46(5)： $5 5 \substack { - 5 7 + 1 8 7 . } ]$   
+LIU J,2008.Studies on blossom biology of Chimonobambusa sichuanensis[D]. Nanjing: Nanjing For Univ.[刘静,2008.月月竹开花生物学研究[D].南京：南京林业大学.]  
+LIU ZW, XIAO XD, ZHANG L, et al., 2006. Microsporgenesis and development of male gametophyte in Lycorisradiate Herb[J].Acta Agric Univ Jiangxiensis,28(2):234-238.[柳正葳，肖德兴，张露，等，2006.石蒜小孢子发生与雄配子体形成[J].江西农业大学学报，28(2)：234-238.]  
+PANG YJ,YU FG,HU CH, et al.,1994.Preliminary observation on abnormal development of the stamens ofDrepanostachyum microphyllum[J].JBamboo Res,13(4): 42-46.[庞延军，喻富根，胡成华，等，1994.爬竹雄蕊发育异常的初步观察[J].竹子研究汇刊，13(4)：42-46.]  
+QIAO SY,LIAOGL,1984.Observation of embryonic development of Phyllstachys edulis[J]. JBamboo Res, (1):15 -22.[乔士义，廖光庐，1984.毛竹的胚胎发育观察[J].竹类研究，(1)：15-22.]  
+QIN ZL, 2015. Flowering and seeding characteristics of Phylostachys pubescens and need analysis of seedlingsin Guilin[J]. World Bamboo Ratan,13(2):29-31.[秦忠林，2015.桂林毛竹林开花结实特征与实生苗需求分析[J].世界竹藤通讯，13(2)：29-31.]  
+QIN ZS，ALAN HT，1995. Study on reproductive characteristic of Bashania fangenia[J]. Acta BotBoreal-Occiden Sin,15(3):229-233.[秦自生，ALANHT，1995.冷箭竹生殖特性研究[J].竹子研究汇刊,15(3): 229-233.]  
+SHAO XX,2016. Study on reproductive biology of Euscaphis konishli[D]. Nanchang: Jiangxi AgriculturalUniversity.[邵晓雪，2016.圆齿野鸦椿生殖生物学研究[D].南昌：江西农业大学.]  
+WANG SG, PU XL, DING YL, 2006. The structures of reproductive organs and development of the female andmale gametophyte of Dendrocalamus sinicus[J].BullBot Res,26(3): 270-274.[王曙光,普晓兰，丁雨龙,2006.巨龙竹生殖器官形态结构及雌、雄配子体的发育[J].植物研究，26(3)：270-274.]  
+WANG XH,20o7. Studies on the flowering of Phyllostachys heteroclada olive and Neosinocalamus afnis Kengf[D].Yaan: Sichuan Agric Univ.[王小红，2007.水竹和慈竹开花研究[D].雅安：四川农业大学.]  
+WANG XH，WU HM，2009.Biological characteristics study of Phyllostachys heteroclada's flowering[D].JChengdu Univ，28(3)：195-198．[王小红，吴红梅，2009.水竹开花生物学特性研究[D].雅安：四川农业大学，28(3):195-198.]  
+WANG YJ,LUO J, CHEN NN, et al.,2017.Floral morphology and development of female and male gametophyteof Bambusa intermedia Hsueh et Yi[J].Bull Bot Res,37(4): 492-498.[王雨珺，罗剑，陈楠楠，等，2017.绵竹花形态结构及雌、雄配子体的发育研究[J].植物研究，37(4)：492-498.]  
+WU J,CHENL, JIAO GL,2005.Embryological studies on Narcissus tazeta var. chinensis[J].JXiamen Univ,44(1):112-115.[武剑，陈林，姣谷力，2005.中国水仙的胚胎学研究[J].厦门大学学报，44(1)：112-115.]  
+YUAN JL,FU MY,JIANG JM, et al.,2004. Crossing breeding of several sympodial bamboo species[A]. ChineseSoc For,Zhejiang.[袁金玲，傅懋毅，姜景民，等，2004.几个丛生竹种杂交育种的研究[A].中国林学会，浙江.]  
+YUAN XL，2007. Studies on florescence biology of characteristics and flower development anatomy ofPhyllostachys praecox[D].Hangzhou: Zhejiang A&F Univ.[袁晓亮，2007.雷竹花期生物学特性与花发育解剖学研究[D].杭州：浙江农林大学.]  
+ZHANG JX,LUO W,MING Y,et al.,1992. A survey on flowering and fruitage of Ampelocalamus scandens[J]. JBamboo Res,11(3):97-99.[张家贤，罗威，明勇，等，1992.爬竹开花结实情况调查[J].竹子研究汇刊，11(3): 97-99.]  
+ZHANG WY,MA NX,1990. Vitality of bamboo pollens and natural pollination in bamboo plants[J]. For Res,3(3):250-255.[张文燕，马乃训，1990.竹类植物花粉的生活力和自然授粉[J].林业科学研究，3(3)：250-255.]  
+ZHAO WQ, WU ZC, XIAO J, et al.,2019.The polen vitality and stigma receptivity of Pseudosasa viridula[J]. JBamboo Res,38(1):28-33,46.[赵婉琪，吴正春，肖姣，等，2019．笔竹（Pseudosasa viridula）花粉活力及柱头可授性研究[J].竹子学报，38(1)：28-33，46.]  
+ZHAO WQ,WU ZC, XIAO J, et al.,2020. Flowering biological charactreistics of Pseudosasa viridula[J].ForRes，33(3):31-38.[赵婉琪，吴正春，肖姣，等，2020.笔竹开花生物学特性研究[J].林业科学研究，33(3):31-38.]  
+ZHONG YB,2016. Studies on the reproductive biology of Dendrocalamus latiflorus and Dendrocalamusfarinosus[D].Nanjing:Nanjing For Univ.[钟远标，2016.麻竹和梁山慈竹的生殖生物学研究[D].南京：南京林业大学.]  
+ZHOU JM, SUN LF,FENG Y,et al.，2016.Observation on anther development of Phyllostachys edulis[J].Guihaia,36(2):231-235.[周建梅，孙立方，冯云，等，2016.毛竹的花药发育研究[J].广西植物，36(2):231-235.]  
+ZHU XH, CAO XZ, ZHU QS,1996.Cytological studies on spikelet sterility of Indica-Japonica hybrids inrice[J].Chin JRice Sci,10(2):71-78.[朱晓红，曹显祖，朱庆森，1996.水稻灿粳亚种间杂种小穗不孕的细胞学研究[J].中国水稻科学，10(2)：71-78.]  
+ZHU YG,1979.Studies on male sterile lines of rice with diferent cytoplasms[J].Acta Agron Sin,5(4): 29-38.[朱英国，1979.水稻不同细胞质类型雄性不育系的研究[J].作物学报，5(4)：29-38.]

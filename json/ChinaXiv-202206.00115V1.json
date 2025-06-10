@@ -1,0 +1,728 @@
+[
+    {
+        "type": "text",
+        "text": "兰州新区浅层地温能赋存条件及 土壤源热泵系统适宜性分析 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "范斌14，丁宏伟²，张霖鑫14，张凌鹏14，张永军3.4（1.甘肃省地矿局第二地质矿产勘查院，甘肃 兰州730020；2.甘肃省地质矿产勘查开发局，甘肃 兰州730000；3.甘肃省地质环境监测院,甘肃 兰州730050;4.甘肃省地下水工程及地热资源重点实验室，甘肃 兰州730050)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：浅层地温能的开发利用有助于优化区域能源结构、节约常规化石能源、减少 $\\mathrm { C O } _ { 2 }$ 排放。为掌握兰州新区浅层地温能的适宜性特点，对该类资源的开发规划和政府决策提供科学依据，以兰州新区建成区和规划区为研究对象，在分析区内浅层地温能赋存条件的基础上，依据掌握的多年实际勘查资料和测试数据，通过综合运用改进的层次分析法、综合指数法，对兰州新区 $4 4 0 \\mathrm { k m } ^ { 2 }$ 的区域进行了土壤源热泵系统适宜性评价分析。结果表明：(1)兰州新区拥有较为优异的浅层地温能赋存条件,区内地层结构简单且分布稳定，岩土体综合热导率、比热容、地温梯度均较高，十分有利于土壤源热泵系统的应用；而受到含水层富水性弱、水质差等因素的影响，地下水源热泵系统适宜性差。(2）基于层次分析法建立的适宜性评价模型共划分3个属性准则和7个要素指标，采用指数标度分别构建了各层次的判断矩阵，并全部高精度通过一致性检验，同时优化了各要素参数的无量纲化方法，构建的评价模型更符合实际。(3）研究区内对于土壤源热泵适宜性影响较大的要素主要是平均热导率和地温梯度。评价显示兰州新区土壤源热泵系统适宜、较适宜区总面积359.46$ { \\mathrm { k m } } ^ { 2 }$ ，占评价区总面积的 $8 1 . 7 0 \\%$ ，主要分布于秦王川盆地平原区，其余丘陵山区地带不适宜土壤源热泵系统的建设。评价结果对兰州新区乃至其他地质条件类似地区土壤源热泵系统的开发利用规划具有指导意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：浅层地温能；土壤源热泵；层次分析法；适宜性；兰州新区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "浅层地温能是指地表以下一定深度范围内（一般指恒温带至 $2 0 0 \\mathrm { m }$ 埋深),温度低于 $2 5 ~ \\mathrm { { ^ { \\circ } C } }$ ，广泛存在于岩石、包气带土壤及地下水等介质中，在当前技术经济条件下具备开发利用价值的热能资源。是一种通过输入少量的高品位能源(如电能），实现低品位能源(如地温等)向高品位能源转移的热泵空调系统工程，具有取用方便、可循环再生、清洁环保、分布广泛、储量巨大、运行费用低的特点，是全球各国特别是欧美日等发达国家正在大面积推广利用的绿色环保能源[1-2]。根据利用热源的不同，浅层地温能系统主要可分为地下水源热泵系统和土壤源热泵系统2种形式[3-5]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国对浅层地温能系统的研究及应用始于20世纪80年代，40多年来，通过众多科研单位不懈地探索研究，在工程理论和实践应用等方面均取得了一大批科研成果[6-12],为国家节能减排效益的实现作出了积极的贡献。甘肃省浅层地温能系统的勘查及工程应用始于20世纪末，目前应用的主要类型为地下水源热泵系统，并在兰州、张掖、天水、陇南等城市显示出良好的应用效果[13-15];而土壤源热泵系统的应用实践尚处于起步阶段，目前仅在兰州市、兰州新区等少数地区有应用实例。对于兰州新区这种在建型城市而言，具有开发利用土壤源热泵系统的土地资源优势，这是省内其他城市所无法比拟的。但由于对区域内浅层地温能赋存条件不甚了解,致使在应用过程中存在规划、设计、施工、安装乃至运行等方面的诸多问题，影响了地源热泵系统的推广应用。因此，深入研究兰州新区土壤源热泵系统浅层地温能的开发利用条件，定量评价在区内不同地带应用的适宜性，对于兰州新区进一步推广利用土壤源热泵系统，改善大气环境质量，助力“碳达峰、碳中和”，乃至提升城市品位，创造宜居宜业的生活与投资环境等都具有重要的现实意义和长远的历史意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，国内普遍采用层次分析法进行浅层地温能的适宜性评价[9.12],但传统层次分析法的标度系统和无量纲方法在确定权重和隶属度时往往存在“平均化\"和\"失真\"等问题[16-17],为此本文在该方法的基础上进行了改进优化，采用指数标度确定各层次的判断矩阵，优化了要素指标赋值方法，有效克服了传统层次分析法存在的问题，取得了较为可信的评价结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区地质环境背景",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1自然地理概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "兰州新区是国务院2012年8月批复设立的全国第5个、西北第1个国家级新区，位于兰州市主城区以北约 $6 0 ~ \\mathrm { k m }$ 的秦王川盆地,海拔 $1 8 0 0 { \\sim } 2 3 0 0 \\ \\mathrm { m }$ ，规划总面积 $1 7 4 4 { \\mathrm { ~ k m } } ^ { 2 } , 2 0 2 0$ 年已建成约 $2 5 0 \\mathrm { k m } ^ { 2 }$ ，现常住人口约 $5 0 { \\times } 1 0 ^ { 4 }$ 人。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本次研究范围为兰州新区的建成区和核心规划区，北至下古山，南到喻家梁，东达山字墩，西邻尹家庄，面积约 $4 4 0 . 0 \\ \\mathrm { k m } ^ { 2 }$ （图1），地理坐标介于$1 0 3 ^ { \\circ } 3 3 ^ { \\prime } 0 0 ^ { \\prime \\prime } { \\sim } 1 0 3 ^ { \\circ } 4 3 ^ { \\prime } 2 6 ^ { \\prime \\prime } \\mathrm { E } . 3 6 ^ { \\circ } 2 6 ^ { \\prime } 4 0 ^ { \\prime \\prime } { \\sim } 3 6 ^ { \\circ } 4 3 ^ { \\prime } 0 0 ^ { \\prime \\prime } \\mathrm { N }$ 之间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本区地处黄河流域上游的陇西黄土高原西北部，属典型的大陆性冷温带半干旱气候，具有四季分明、阳光充足，冬季寒冷干燥、春季多风少雨、夏季湿润炎热、秋季温凉等气候特征。年均气温$6 . 9 ~ \\mathrm { ^ { \\circ } C }$ （中川站，下同)，年均降水量 $2 6 1 ~ \\mathrm { m m }$ ,年均蒸发量 $1 8 7 9 . 8 ~ \\mathrm { m m }$ ,年均无霜期 $1 3 9 \\mathrm { ~ d ~ }$ ,年均日照时数$2 6 5 9 \\mathrm { ~ h ~ }$ ,最大冻土深度约 $1 . 1 \\mathrm { ~ m ~ }$ （12月一翌年2月）；冬、春季盛行西北风,年均风速 $2 . 3 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ 。境内无常年性流水的地表水分布，仅少数沟谷在夏、秋季暴雨时有洪水流经;地貌可划分为剥蚀黄土梁茆丘陵、侵蚀堆积盆地和冲洪积堆积沟谷3种类型；土壤类型主要有灌淤土、盐土、草甸土、灰褐土、黑泸土等，生长有篙草、针茅、冰草、柠条等旱生、盐生植被,覆盖率小于 $2 0 \\%$ ○",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6581d6c2bae115601d217f10974a0a7ae3b86ccf1bc7bb11d8bce3f3a0f4c10.jpg",
+        "img_caption": [
+            "图1研究区交通位置图",
+            "Fig.1 Traffic location map of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2地质环境条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区在大地构造上隶属于昆仑-秦岭地槽褶皱系祁连隆起带东部的侵蚀堆积盆地（即秦王川盆地)[13]。盆地周边山地及丘陵主要以新近系中新统咸水河组（ $\\bf \\Pi _ { N _ { 1 } X _ { \\epsilon } }$ )近似水平分布的砂质泥岩、泥岩夹砾岩为主，仅在东北部边缘存在少量志留系(S)深变砂岩、千枚岩及板岩，四周丘陵大部上覆第四系上更新统( $\\mathrm { Q } _ { 3 } ^ { 2 \\mathrm { e o l } }$ )马兰黄土(图2);盆地范围内地层上部主要为第四系中上更新统( $\\mathrm { Q } _ { 2 + 3 } ^ { \\mathrm { a l + p l } }$ )砂砾石,厚度$2 0 { \\sim } 4 0 \\mathrm { m }$ ,局部呈钙质胶结，下部为新近系中新统咸水河组（ $\\left( \\mathbf { N } _ { 1 } \\mathbf { x } \\right)$ )砂质泥岩、泥岩夹砾岩，厚度大于831$\\mathrm { ~ m ~ }$ ，并构成盆地基底。上部松散岩类局部赋存孔隙潜水，水位埋深 $2 0 { \\sim } 3 0 \\mathrm { ~ m ~ }$ （图3），单井涌水量 $1 0 0 \\sim$ $5 0 0 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { d } ^ { - 1 }$ ，溶解性总固体（Totaldissolvedsolids，TDS)一般 $3 { \\sim } 8 ~ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ ,水化学类型以 $\\mathrm { C l } { \\cdot } \\mathrm { S O _ { 4 } } \\mathrm { - N a } { \\cdot } \\mathrm { M g }$ 为主；下部碎屑岩类赋存层状承压水，含水层顶板埋深 $2 0 . 3 { \\sim } 7 0 . 6 \\mathrm { ~ m }$ ,单井涌水量 $2 0 0 { \\sim } 8 0 0 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { d } ^ { - 1 }$ ,TDS一般 $1 { \\sim } 4 \\ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ ,最高大于 $1 0 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ ,水化学类型以$\\mathrm { S O _ { 4 } { \\cdot } C l { - } N a } ( \\mathrm { N a } { \\cdot } \\mathrm { M g } )$ 为主。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/758ef337ccf8397104d79d7ae30bcd708c5dff07f2f627a9222c6f865f948e0a.jpg",
+        "img_caption": [
+            "图2秦王川盆地地质图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此可以看出，兰州新区浅部地层岩性以第四系松散岩类、新近系碎屑岩类为主，尤以后者分布广、厚度大，对土壤源热泵系统的应用具有较好的适宜性；而区内地下水埋深大、富水性弱且分布极不均匀，加之TDS高、水质差等因素的限制，对地下水源热泵系统应用的适宜性差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究区浅层地温能赋存条件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1地层结构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区深度 $2 0 0 \\mathrm { ~ m ~ }$ 以内自上而下主要为第四系、新近系地层。其中，第四系厚度 $2 0 { \\sim } 4 0 \\mathrm { ~ m }$ ，多位于恒温层以上，对浅层地温能资源的赋存意义不大；下伏新近系碎屑岩类因厚度较大、分布稳定，成为浅层地温能资源的主要赋存部位。据地质勘探资料，新近系分布于整个盆地及其外围，并构成第四系基底，在盆地内以中新统咸水河组 $\\bf ( N _ { 1 } x )$ 为主，岩性中上部为褐黄、浅桔红、锈红色砂质泥岩夹砂砾岩，底部为灰绿色砾岩或砂岩，厚度大于浅层地温能的开发利用普遍深度 $2 0 0 \\mathrm { ~ m ~ }$ 。研究区内这种上部第四系松散层、下部新近系碎屑岩的地层结构特点在甘肃省中东部半干旱区分布较为普遍。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2岩土体热物性特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1岩土体热物性参数定义土壤源热泵系统的整体性能和当地岩土的热物理性能密切相关，根据《地源热泵系统工程技术规范》（GB50366—2009），以下几个参数主要反映了岩土热物理性能对于地埋管换热器的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）导热系数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "导热系数 $( \\lambda , \\mathbb { W } \\cdot \\mathbf { m } ^ { - 1 } \\cdot \\mathbf { K } ^ { - 1 } )$ 在很大程度上影响岩土的传热性能，是指在单位时间、单位温度差下单位面积岩土传导的热量，反映的是岩土传热的综合",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/46bf34740daeb6a6bde2842e8e165b640aec617ef975b22bf30d4bf5dbdeb150.jpg",
+        "img_caption": [
+            "Fig.2 Geological map of Qinwangchuan Basin ",
+            "图3秦王川盆地典型水文地质剖面",
+            "Fig.3 Typical hydrogeological section of Qinwangchuan Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "性能，表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda = - { \\frac { q _ { n } } { \\partial { \\mathfrak { t } } / \\partial { \\mathfrak { n } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $q _ { n }$ 表示传热方向的热流量 $\\left( \\mathbb { W } \\cdot \\mathbf { m } ^ { - 2 } \\right)$ ) $\\partial \\mathrm { t } / \\partial \\mathrm { n }$ 表示传热方向的温度梯度 $\\left( \\mathrm { K } \\cdot \\mathrm { m } ^ { - 1 } \\right)$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）比热容 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "岩土的比热容 $\\left( c , \\mathrm { J } { \\cdot } \\mathrm { k g } ^ { - 1 } { \\cdot } \\mathrm { K } ^ { - 1 } \\right)$ 是单位质量的岩土温度每升高或降低 $1 \\mathrm { { ^ { c } } }$ 所吸收或放出的热量。岩王作为一个多相的构成物质，比热容取决于其各组分所占的比例和对应的比热容，表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc = { \\frac { \\mathfrak { J } q } { \\mathrm { d } T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：8q表示单位物量的岩土吸收或放出的热量$\\left( \\mathbf { J } { \\cdot } \\mathbf { k } \\mathbf { g } ^ { - 1 } \\right)$ ; $\\mathrm { d } T$ 表示岩土升高或降低的温度值(K)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3）热扩散系数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "岩土热扩散系数 $( \\alpha , \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ^ { - 1 } )$ 是某一点岩土温度的扰动沿途传递到另一点岩土处的速率量度，反映的是温度在岩土中传播的速度，表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na = \\frac { \\lambda } { \\rho \\times c }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\rho$ 表示岩土的密度 $\\left( \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 3 } \\right)$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2研究区岩土体热物性参数通过对区内5个钻孔 $2 0 0 \\mathrm { m }$ 以浅不同地层的岩芯取样测试结果研究(表1、图2)，发现新近系碎屑岩类地层(泥岩、砂质泥岩、砂岩、砂砾岩)的热物性参数(密度、含水率、热导率、比热容、热扩散系数)值平均高于第四系松散地层(中砂、粉土、粉质黏土、角砾)热物性参数值$2 4 . 8 \\%$ ，而地层的热物性参数越大，则热储能越高，说明相对于第四系松散地层而言，新近系碎屑岩类地层更适宜于土壤源热泵系统的开发利用；统计发现，新近系碎屑岩类地层的热物性参数中的热导率、热扩散系数与密度之间以及比热容与含水率之间呈现高度的变化一致性，平均相关系数高达0.975。说明本次测试的岩土体热物性参数真实可靠，具有很好的应用前景。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3浅层地温场特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究区所在的秦王川盆地是地质构造相对稳定的地带，地壳活动较少，地球内部热对流活动弱，大地热流值相对较低,平均为 $6 4 . 9 9 \\mathrm { ~ m W } \\cdot \\mathrm { m } ^ { - 2 }$ ，属低地温场。 $2 0 0 \\mathrm { m }$ 以内不同深度的地温在平面分布上均呈现出南高北低的趋势。其中，深度 $5 0 \\mathrm { m }$ 处地温介于 $1 0 . 4 0 { \\sim } 1 2 . 8 9 \\mathrm { ~ \\textdegree C }$ 之间， $1 0 0 \\mathrm { ~ m ~ }$ 处地温介于 $1 2 . 1 8 \\sim$ $1 5 . 2 0 \\mathrm { ~ \\textdegree C }$ 之间， $1 5 0 \\mathrm { ~ m ~ }$ 处地温介于 $1 3 . 5 4 { \\sim } 1 7 . 9 5 \\ \\mathrm { ^ { \\circ } C }$ 之间， $2 0 0 \\mathrm { ~ m ~ }$ 处地温介于 $1 5 . 4 3 { \\sim } 2 0 . 4 9 ~ \\mathrm { ^ { \\circ } C }$ 之间。恒温层分布位置基本介于 $1 8 { \\sim } 3 5 \\mathrm { ~ m }$ 深度之间，平均为25.14$\\mathrm { ~ m ~ }$ ，层内温度一般为 $9 . 8 2 { \\sim } 1 1 . 6 0 ~ \\mathrm { ^ { \\circ } C }$ ,平均为 $1 0 . 7 0 ~ \\mathrm { ^ { \\circ } C }$ O恒温层以下至 $2 0 0 \\mathrm { m }$ 深度间的地温梯度同样存在南高北低的特点，温梯度最高的区域主要分布于南部何家梁一带，达 $0 . 3 6 { \\sim } 0 . 4 0 \\ \\mathrm { ^ { \\circ } C \\cdot k m ^ { - 1 } }$ ;其次为中部中川镇周边，地温梯度为 $0 . 3 0 { \\sim } 0 . 3 6 \\ \\mathrm { ^ { \\circ } C \\cdot k m ^ { - 1 } }$ ;北部大面积地区地温梯度小于 $0 . 3 0 ^ { \\circ } \\mathrm { C } \\cdot \\mathrm { k m } ^ { - 1 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，研究区内地层结构简单且以大厚度的新近系泥岩、砂岩等地层为主，岩体热导率相对较高、比热容适中、热扩散系数大，再加上浅层地温场具有较高的温度和地温梯度，使得区内具有土壤源热泵系统开发利用的优越条件，是本文的重点研究对象。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3土壤源热泵系统适宜性分析数学模型建立",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1评价方法及步骤",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用层次分析法（Analytichierarchyprocess，",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/081ccc2e970cd46baaaf7b299d39cbc5b57599848f6dc0b8cae72f0fd18c5445.jpg",
+        "table_caption": [
+            "表1兰州新区岩土体热物性参数",
+            "Tab.1Thermal physical parameters of rock and soil mass in Lanzhou New District "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">地层时代</td><td rowspan=\"2\">岩土名称</td><td rowspan=\"2\">密度(p) /10³ kg·m-3</td><td rowspan=\"2\">含水率/%</td><td colspan=\"2\">导热系数(λ)/W·m·K-1</td><td colspan=\"2\">比热容(c)/J·kg-·K-</td><td colspan=\"2\">热扩散系数(α)/10m·s</td></tr><tr><td>实测值</td><td>平均值</td><td>实测值</td><td>平均值</td><td>实测值</td><td>平均值</td></tr><tr><td>第四系(Q)</td><td>中砂</td><td>1.45~2.25</td><td>15.22~18.52</td><td>0.700~0.952</td><td>0.861</td><td>537.52~1256.23</td><td>912.34</td><td>0.685~1.524</td><td>1.239</td></tr><tr><td></td><td>粉土</td><td>1.32~2.10</td><td>13.14~22.31</td><td>0.897~1.050</td><td>0.935</td><td>635.45~1570.52</td><td>1106.52</td><td>0.752~1.642</td><td>1.288</td></tr><tr><td></td><td>粉质黏土</td><td>1.76~2.05</td><td>14.24~19.52</td><td>1.125~1.356</td><td>1.189</td><td>542.22~1541.25</td><td>1038.24</td><td>0.856~1.752</td><td>1.314</td></tr><tr><td></td><td>角砾</td><td>2.13~2.48</td><td>17.64~25.67</td><td>0.954~1.219</td><td>1.104</td><td>798.45~1413.52</td><td>1193.46</td><td>0.875~1.824</td><td>1.347</td></tr><tr><td>新近系(N)</td><td>泥岩</td><td>2.26~2.65</td><td>2.37~10.21</td><td>1.021~2.369</td><td>1.807</td><td>255.08~872.35</td><td>735.38</td><td>1.031~2.712</td><td>1.519</td></tr><tr><td></td><td>砂质泥岩</td><td>2.39~2.74</td><td>3.12~12.65</td><td>1.138~2.821</td><td>2.113</td><td>322.51~869.54</td><td>779.11</td><td>1.024~2.733</td><td>1.604</td></tr><tr><td></td><td>砂岩</td><td>2.45~3.18</td><td>9.58~17.82</td><td>1.789~3.665</td><td>2.676</td><td>368.64~939.53</td><td>884.49</td><td>1.190~2.845</td><td>1.893</td></tr><tr><td></td><td>砂砾岩</td><td>2.31~2.94</td><td>11.33~19.04</td><td>1.445~2.687</td><td>2.389</td><td>417.28~907.81</td><td>852.37</td><td>1.081~2.761</td><td>1.885</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AHP)和综合指数法对土壤源热泵系统适宜性进行评价。AHP方法是一种集系统化和层次化为一体的多目标决策分析方法，能够将实测数据、专家评分及分析者的客观判断有效地结合起来[18-20]。其特点是能够将决策者的经验判断给予量化，在目标因素结构复杂且缺乏必要数据的情况下使用更为方便。首先，依据所分析问题的性质及要达到目标（体系目标层），将各评价指标及因子按照其属性和隶属关系建立指标评价体系;其次，将同层(属性准则层)不同评价指标(要素指标层)相互比较，并对各指标的相对重要性予以量化，构造判断矩阵；然后，由判断矩阵计算要素指标层各指标的相对重要性次序值(权重)，并做一致性检验;最终，依据建立的评价数学模型确定要素指标层影响因子对体系目标层的综合评价结果[21-25]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2建立评价指标体系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "合理确定土壤源热泵系统评价指标体系是对其适宜性进行正确评价的基础。根据兰州新区土壤源热泵系统影响因素的特点，并通过对国内已有研究成果的分析研判[9.12.13],建立了兰州新区土壤源热泵系统适宜性评价体系(图4)。评价体系由3个层次构成，第1层次为体系目标层，即土壤源热泵适宜性评价体系 $( \\boldsymbol { \\chi } )$ ；第2层次为属性准则层，对应的是水文地质条件 $( X _ { 1 } )$ 、地温场特征 $\\left( { { X } _ { 2 } } \\right)$ 、岩土体热物性 $\\left( { { X } _ { 3 } } \\right)$ ；第3层次为要素指标层，对应的是3个准则层下属的地下水埋深 $( X _ { 1 1 } )$ 、含水层厚度 $( X _ { 1 2 } )$ 、地下",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤源热泵适宜性分区 $( \\boldsymbol { X } )$ （204号 体系目标层√ √ √水文地质 地温场 岩土体热条件(X) 特征(X) 物性(X) 属性准则层地下水埋深 含水层厚度 地下水流速 初始平均地温 地温梯度 平均热导率 平均比热容 要素指标层(X11) (X12) (X13) (X21) (X22) (X31) (X32)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水流速 $( { \\cal X } _ { 1 3 } )$ 、初始平均地温( $\\left( { { X } _ { 2 1 } } \\right)$ 、地温梯度 $( X _ { 2 2 } )$ 、平均热导率 $\\left( { { X } _ { 3 1 } } \\right)$ 、平均比热容 $( X _ { 3 2 } ) 7$ 个要素指标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3各层次判断矩阵确定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在层次结构中，对隶属于(或影响)上一层的每个因素的同一层诸因素进行两两比较，比较其对于准则的重要程度，并按事前规定的标度定量化，构成判断矩阵。判断矩阵中各元素的数值由多名经验丰富的专业技术人员集中群体智慧对其相对重要性进行评估打分[18-20]。鉴于传统的\"1\\~9标度法\"在使用中存在诸多缺点,本文采用了指数标度法[16-17,26-27](表2)构建研究区土壤源热泵系统属性准则层、要素指标层判断矩阵(表3、表4)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4影响因素权重确定及判断矩阵一致性检验",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据判断矩阵，精确求出判断矩阵最大特征根所对应特征向量。所求特征向量即为各评价因素",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2指数标度 $\\scriptstyle a ^ { n } ( a = 1 . 3 1 6 )$ ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9068f87578e55ddeb72a99d5d2281d57800c11a143667490c7c8de95e67a34a1.jpg",
+        "table_caption": [
+            "Tab.2 Index scale of $\\pmb { a } ^ { n } ( \\pmb { a } \\mathrm { = } 1 . 3 1 6 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指数(n)</td><td>0</td><td>2</td><td>4</td><td>6</td><td>8</td></tr><tr><td>标度a\"</td><td>1.000</td><td>1.732</td><td>3.000</td><td>5.194</td><td>9.000</td></tr><tr><td>评语</td><td>同等重要</td><td>稍微重要</td><td>明显重要</td><td>强烈重要</td><td>极端重要</td></tr><tr><td>中间插值</td><td colspan=\"5\">需要做这种处理时(n=1,3,5,7)按照公式1.316\"计算</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3土壤源热泵系统属性准则层对比矩阵 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a36562abd1ad39de0fd5213ee7dfd08378e5a6dfb3e4bde194b775af14db6728.jpg",
+        "table_caption": [
+            "Tab.3 Contrast matrix of attribute criteria layer of soil source heat pump "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>X</td><td>1.000</td><td>0.577</td><td>0.333</td></tr><tr><td>X</td><td>1.732</td><td>1.000</td><td>0.577</td></tr><tr><td>X</td><td>3.000</td><td>1.732</td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：表中各字母含义详见图4。 $X$ 表示目标层： $X _ { 1 } , X _ { 2 } , X _ { 3 }$ 分别表示评价目标层的3个属性准则层。表中各数字表示对应的行与列的属性准则对于目标层影响权重的比值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "的重要性排序，经归一化处理后即为同一层次相应因素对于上一层次某因素相对重要性的排序权值。为检验根据判断矩阵求出的特征向量的合理性，需对判断矩阵的一致性进行检验，其检验公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { c } } { = } I _ { \\mathrm { c } } / I _ { \\mathrm { R } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { \\mathrm { C } }$ 表示一致性比例; $I _ { \\mathrm { c } }$ 表示一致性指标， $\\scriptstyle I _ { \\mathrm { c } } =$ $( \\lambda _ { \\operatorname* { m a x } } - n ) / ( n - 1 ) ;$ $\\lambda _ { \\operatorname* { m a x } }$ 表示判断矩阵最大特征值; $n$ 表示判断矩阵对应的要素指标数量； $I _ { \\mathrm { R } }$ 表示平均随机一",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4土壤源热泵系统要素指标层对比矩阵 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9219251b4098a46242a71e8a74b2766bb5b1d5d300679c520333dc2f033b61e9.jpg",
+        "table_caption": [
+            "Tab.4 Contrast matrix of factor index layer of soil source heat pump "
+        ],
+        "table_footnote": [
+            "注： $: X _ { 1 \\mathrm { m } } \\ltimes X _ { 2 \\mathrm { m } } \\ltimes X _ { 3 \\mathrm { m } } ( m { = } 1 , 2 , 3 )$ 分别表示用以评价属性准则层的要素指标层。表中各数字表示对应的行与列的要素指标对于属性准则层影响权重的比值。"
+        ],
+        "table_body": "<html><body><table><tr><td>X</td><td>X11</td><td>X12</td><td>X13</td></tr><tr><td>X11</td><td>1.000</td><td>0.577</td><td>0.333</td></tr><tr><td>X12</td><td>1.732</td><td>1.000</td><td>0.577</td></tr><tr><td>X13</td><td>3.000</td><td>1.732</td><td>1.000</td></tr><tr><td>X</td><td>X21</td><td>X22</td><td></td></tr><tr><td>X21</td><td>1.000</td><td>0.333</td><td></td></tr><tr><td>X22</td><td>3.000</td><td>1.000</td><td></td></tr><tr><td>X</td><td>X31</td><td>X32</td><td></td></tr><tr><td>X31</td><td>1.000</td><td>3.000</td><td></td></tr><tr><td>X32</td><td>0.333</td><td>1.000</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "致性指标，其取值见表5。当 $R _ { \\mathrm { c } } { < } 0 . 1$ 时，认为判断矩阵的一致性满足要求，否则需对判断矩阵进行修正； $R _ { \\mathrm { C } }$ 值越小，判断矩阵一致性越高，建立的数学评价模型越合理。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由此，最终确定了调查区土壤源热泵系统要素指标层对属性准则层和体系目标层权重，并通过了一致性检验(表6)。计算结果表明,研究区土壤源热泵系统要素指标层所占体系目标层权重的一致性检验结果 $R _ { \\mathrm { { C } } }$ 值为0.013，说明所建立的兰州新区土壤源热泵系统适宜性评价指标体系属性准则层、要素指标层符合实际，构建的判断矩阵及计算的各",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "层次权重值可信度较高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5建立评价数学模型",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）土壤源热泵系统适宜性评价数学模型",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据构建的评价体系、选取的要素指标因子和确定的要素指标因子权重，按照综合指数法形成的土壤源热泵系统适宜性评价数学模型为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB = \\sum _ { j } ^ { n } W _ { j } Y _ { j } \\ ( j = 1 , 2 , \\cdots , n )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $B$ 为土壤源热泵系统适宜性评价综合指数； $W _ { j }$ 为第 $j$ 个要素指标因子在目标层中所占的权重( $\\mathbf { \\nabla } \\cdot W _ { j } =$ $X _ { i j } / X )$ ; $Y _ { j }$ 为第 $j$ 个指标层影响要素的赋值； $n$ 为土壤源热泵系统适宜性评价体系指标要素数量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）指标层影响要素数值无量纲化处理",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于指标层各影响要素的量纲不同，且其量值相差较大，为便于计算与分析，需将指标层各影响要素实测值进行无量纲化处理，处理方法为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { _ { i j w } } = ( X _ { _ { i j } } - X _ { _ { \\mathrm { m i n } } } ) / ( X _ { _ { \\mathrm { m a x } } } - X _ { _ { \\mathrm { m i n } } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $Y _ { i j w }$ 为指标层各影响要素处理后值； $X _ { i j }$ 为指标层各影响要素实测值； $X _ { \\mathrm { m a x } } { = } \\mathrm { m a x } [ X _ { i j } ]$ $X _ { \\mathrm { m i n } } { \\mathrm { = } } \\mathrm { m i n } [ X _ { i j } ]$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）要素指标分区赋值 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究表明，土壤源热泵系统的长效应用主要依赖于本次列举的7个要素指标，由于以上指标具有不同的值域范围，且其值在区内的变化并非呈均匀线性，如地下水埋深、地下水流速等要素，不同的含水层之间其大小差值甚至达1个数量级以上；另外，本次提出的7个要素指标并非全部为正效应指标",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/aefa0e05d7d08a7cef237f46f3686ee6b43a3072f790963bdb6e882d272cad01.jpg",
+        "table_caption": [
+            "表5平均随机一致性指标",
+            "Tab.5 Average random consistency index ",
+            "表6土壤源热泵各层次所占权重及一致性检验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>矩阵阶数</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td>平均随机一致性指标(IR)</td><td>0.00</td><td>0.00</td><td>0.36</td><td>0.58</td><td>0.72</td><td>0.82</td><td>0.88</td><td>0.93</td><td>0.97</td><td>0.99</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bda0c5d8de5e06b4d33e6a3254bc8aed0c3f87ae85d64bce01b31d59bf0b93bb.jpg",
+        "table_caption": [
+            "Tab.6Weight and consistency test results of soil source heat pump at different levels "
+        ],
+        "table_footnote": [
+            "注： $W _ { i } ( i { = } 1 , 2 , 3 )$ 表示属性准则 $X _ { i }$ 对于目标 $X$ 的影响权重； $W _ { i j } / W _ { i } ( i = 1 , 2 , 3 ; j = 1 , 2 , 3 ,$ 表示要素指标 $X _ { i j }$ 对于属性准则 $X _ { i }$ 的影响权重; $W _ { i j }$ 表示要素指标 $X _ { i j }$ 对于目标 $X$ 的影响权重； $R _ { \\mathrm { { C } } }$ 表示一致性比例。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Wi</td><td>Rc</td><td colspan=\"2\">Wi/W</td><td>Rc</td><td colspan=\"2\">W</td><td>Rc</td></tr><tr><td>W1</td><td>0.1692</td><td></td><td>W/W</td><td>0.1744</td><td rowspan=\"6\"></td><td>W11</td><td>0.0295</td><td rowspan=\"6\"></td></tr><tr><td></td><td></td><td></td><td>W12/W</td><td>0.3021</td><td>W12</td><td>0.0511</td></tr><tr><td></td><td></td><td></td><td>W13/W1</td><td>0.5235</td><td>W13</td><td>0.0886</td></tr><tr><td>W</td><td>0.3874</td><td>0.0176</td><td>W21/W2</td><td>0.2500</td><td>W21</td><td>0.0969</td></tr><tr><td></td><td></td><td></td><td>W22/W2</td><td>0.7500</td><td>W22</td><td>0.2906</td></tr><tr><td>W3</td><td>0.4434</td><td></td><td>W31/W3</td><td>0.7500</td><td>W31</td><td>0.2906</td></tr><tr><td></td><td></td><td></td><td>W32/W3</td><td>0.2500</td><td></td><td>W32</td><td>0.0969</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（即数值越大越有利于目标层），如地下水埋深为负效应指标。因此，以上要素指标在进行无量纲化处理时采用式(6)并不能完全准确表达其数值与土壤源热泵系统适宜性的真实关系。故本文将以上参数的无量纲化方法进行了优化，收集研究区内及省内地质条件相似地区已有的32处土壤源热泵系统开发利用实例参数[13-15],分析研究了适宜于土壤源热泵开发利用的各参数阀值，并在此基础上结合研究区以上各要素指标参数的分布区间，以阀值对应的参数赋值为5，按照1\\~10分值对所有参数进行赋值分区，要素指标所赋分值 $Y _ { j }$ 越高表示对于土壤源热泵系统的应用越有利，本文按照非常有利( $\\stackrel { \\triangledown } { \\boldsymbol { Y } _ { j } = }$ 10）、有利性良好( $\\scriptstyle ( Y _ { j } = 7 \\sim 9 )$ ）、有利性一般( $\\scriptstyle ( Y _ { j } = 5 \\sim 7 )$ 、有利性较差（ $\\scriptstyle \\left( Y _ { j } = 3 \\sim 5 \\right)$ 、有利性极差（ $\\scriptstyle \\left( Y _ { j } = 1 \\sim 3 \\right)$ 共5个级别对各要素指标进行了赋值(表7)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4)土壤源热泵系统适宜性分区标准 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据式(5）、（6)适宜性评价指数 $( B )$ 计算结果，结合兰州新区及兰州市已建成的土壤源热泵工程，并参考北京市、天津市等发达地区土壤源热泵系统适宜性分区标准9和本文要素指标赋值标准，将兰州新区土壤源热泵系统适宜性划分为适宜 $\\left( B { > } 7 \\right)$ 、较适宜（ $B = 5 \\sim 7$ )和不适宜（ $( B { < } 5 )$ 共3个区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4应用实例",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1兰州新区土壤源热泵系统适宜性分区 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本次评价所采用的数据资料来源：地质资料包括区内最新的1:200000、1:50000地质图及说明书；水文地质资料包括区域1:200000农田供水水文地质普查、1:50000地下水与地质环境勘查评价、区域水文地质调查等最新成果报告、试验数据及图件资料；浅层地温能资料包括近年来在本区开展的浅层地温能调查评价工作成果报告[13-15]及其中5个勘查测试钻孔(RX1\\~RX5，图2)共157组岩芯的热物性测试数据。以上资料均经过了专家评审，本次评价时又通过进一步筛选、分析，力求所采用的数据真实、准确且具有代表性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "依据本文评价模型，将各要素参数按照赋值标准制作矢量数据，采用ArcGIS空间分析方法[28-29],利用加权总和分析模块，即可得到研究区土壤源热泵系统适宜性分区结果(图5)。研究区土壤源热泵系统适宜区面积为 $2 4 9 . 5 2 \\ \\mathrm { k m } ^ { 2 }$ ，占研究区总面积的$56 . 7 1 \\%$ ， $B$ 值介于 $7 . 0 0 0 7 { \\sim } 8 . 9 5 4 3$ 之间；较适宜区面积为 $1 0 9 . 9 4 \\mathrm { k m } ^ { 2 }$ ，占研究区总面积的 $2 4 . 9 9 \\% , B$ 值介于 $5 . 0 0 2 3 { \\sim } 6 . 9 9 8 1$ 之间；不适宜区面积为 $8 0 . 5 4 \\ \\mathrm { k m } ^ { 2 }$ 占研究区总面积的 $1 8 . 3 0 \\%$ $B$ 值介于2.5487\\~4.9695之间。土壤源热泵系统适宜区、较适宜区面积共有$3 5 9 . 4 6 \\mathrm { k m } ^ { 2 }$ ，占研究区总面积的 $8 1 . 7 0 \\%$ ○",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2兰州新区土壤源热泵系统适宜性评价 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤源热泵系统适宜区主要分布于赖家坡-上华家井-五墩子-罗圈湾一线以南及曾家庄-达家湾-陶家墩-秦川镇-石沟门一线以北的盆地平原区，地层上部第四系厚度一般 $2 0 { \\sim } 4 0 \\mathrm { m }$ ，下部为新近系泥岩、砂岩互层，含水层厚度 $1 0 { \\sim } 3 0 \\mathrm { m }$ ,地下水流速 $0 . 2 { \\sim } 0 . 5 ~ \\mathrm { m } \\cdot \\mathrm { d } ^ { - 1 }$ ,初始平均地温 $1 4 . 0 { \\sim } 1 6 . 0 \\mathrm { ~ \\textdegree C }$ ,地温梯度 $0 . 3 5 { \\sim } 0 . 5 0 \\ \\mathrm { { ^ { \\circ } C \\cdot k m ^ { - 1 } } }$ ,地层平均热导率 $3 . 2 { \\sim } 3 . 8 ~ \\mathrm { W }$ ：$\\mathbf { m } ^ { - 1 } \\cdot \\mathbf { K } ^ { - 1 }$ ,平均比热容 $0 . 9 2 { \\sim } 1 . 0 4 \\ \\mathrm { k J } \\cdot \\mathrm { k g } ^ { - 1 } \\cdot \\mathrm { K } ^ { - 1 }$ ；土壤源热泵系统较适宜区分布于盆地中部偏北的上华家井-秦川镇之间的平原区，地层上部第四系碎石厚度约$1 0 { \\sim } 3 0 \\mathrm { ~ m }$ ，下部为新近系泥岩、砂岩，含水层厚度 $5 \\sim$ $2 0 \\mathrm { ~ m ~ }$ ,地下水流速 $0 . 1 { \\sim } 0 . 2 \\ \\mathrm { m } \\cdot \\mathrm { d } ^ { - 1 }$ ,初始平均地温$1 3 . 0 { \\sim } 1 4 . 5 \\mathrm { ~ \\textdegree C }$ ,地温梯度 $0 . 3 0 { \\sim } 0 . 4 0 \\ \\mathrm { ^ q C } \\cdot \\mathrm { k m } ^ { - 1 }$ ,地层平均热导率 $2 . 4 { \\sim } 3 . 2 \\ \\mathrm { W } \\cdot \\mathrm { m } ^ { - 1 } \\cdot \\mathrm { K } ^ { - 1 }$ ,平均比热容 $0 . 8 8 \\sim$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/400632f1b4ec4afbebcb7c37aea8ffe8d7bd6ce9275d01cd4e0e19d1b8b5d811.jpg",
+        "table_caption": [
+            "表7土壤源热泵指标要素赋值标准",
+            "Tab.7 Assignment standard of index element of soil source heat pump "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标要素</td><td colspan=\"5\">赋值级别</td></tr><tr><td>10</td><td>7~9</td><td>5~7</td><td>3~5</td><td>1~3</td></tr><tr><td>地下水埋深/m</td><td><10</td><td>10~20</td><td>20~30</td><td>30~50</td><td>>50</td></tr><tr><td>含水层厚度/m</td><td>>30</td><td>20~30</td><td>10~20</td><td>5~10</td><td><5</td></tr><tr><td>地下水流速/m·d</td><td>>0.50</td><td>0.10~0.50</td><td>0.05~0.10</td><td>0.01~0.05</td><td><0.01</td></tr><tr><td>初始平均地温/℃</td><td>>16</td><td>14~16</td><td>12~14</td><td>10~12</td><td><10</td></tr><tr><td>地温梯度/C·km-</td><td>>0.5</td><td>0.3~0.5</td><td>0.2~0.3</td><td>0.1~0.2</td><td><0.1</td></tr><tr><td>平均热导率/W·m·K</td><td>>3.0</td><td>2.5~3.0</td><td>2.0~2.5</td><td>1.5~2.0</td><td><1.5</td></tr><tr><td>平均比热容/kJ·kg·K1</td><td>>1.2</td><td>1.0~1.2</td><td>0.8~1.0</td><td>0.6~0.8</td><td><0.4</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2aa44502dfade38921a022456dc206553fdae0d3ff2a9f1c587f2b6355e0938f.jpg",
+        "img_caption": [
+            "图5兰州新区土壤源热泵适宜性分区 Fig.5Suitability division of soil source heat pump in Lanzhou New District "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$0 . 9 2 \\ \\mathrm { k J \\cdot k g ^ { - 1 } \\cdot K ^ { - 1 } }$ ;土壤源热泵系统不适宜区分布于秦王川盆地两侧的黄土丘陵及基岩山地，上覆第四系风积物厚度 $1 5 { \\sim } 3 0 \\mathrm { m }$ ,基本不含水，下部为新近系碎屑岩类和少量志留系变质岩类，岩土体热物性参数及地温场温度偏低,部分地带发育崩塌、黄土湿陷等地质灾害，故不适宜于浅层地温能的开发利用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "问题，并且加快了一致性检验的速度。因此，指数标度法在土壤源热泵系统的适宜性评价中具有较好的可行性和科学性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文建立的土壤源热泵系统适宜性评价数学模型，其内涵就是采用多要素赋值加权求和而得到的综合指数后进行定量评价，由于各要素参数的分布特点差异较大，本次在传统层次分析法的基础上又作了一定的改进优化。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）传统的层次分析法采用的是“1\\~9标度法”，而通常情况下影响土壤源热泵系统在区内的适宜性的要素是从众多要素和参数中优选而出的，其本身两两之间对于目标的重要性之比不会相差太大，更无法达到9:1的程度，因此采用\"1\\~9标度法\"不能真实、准确地反映土壤源热泵系统适宜性与各要素指标之间的关系，并且会造成矩阵一致性与思维一致性的脱节等问题。本文采用了指数标度法，不仅能较好地避免构造的各层次指标判断矩阵失真的",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）在进行要素指标分区赋值时，一般的无量纲化处理方法不能真实准确地反映各要素对于土壤源热泵的适宜性，因此，对于值域分布跨越较大、并非正态分布的几个参数，如地下水埋深、地下水流速等要素，本文未采用式(6)进行简单、机械化的赋值分区，而是采用了统计分析临近和相似地区已有应用实例的方法来确定赋值范围和等级，使赋值结果更加贴近实际，模型评价结果更加准确可信。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）本文采用层次分析法建立的兰州新区土壤源热泵系统适宜性评价体系，基本包含了影响土壤源热泵系统适宜性的各主要因素，不仅反映了各影响因子与评价指标间的逻辑关系，而且体现了土壤源热泵系统适宜性评价过程中要素指标的重要性和全面性。将土壤源热泵评价体系划分为3个属性准则层和7个要素指标层，构建了评价体系各层次的判断矩阵和各要素指标对属性准则层、体系目标的权重，并全部高精度通过了一致性检验，说明选择的评价体系属性准则层和要素指标层齐全，相对重要性量化合理，所占权重计算准确。本文通过改进层次分析法的标度体系和赋值方法，使得构建的评价模型更具真实性和可靠性，对于我国西北干旱气候区及地质条件类似地区浅层地温能资源的科学规划与利用具有借鉴意义。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6结论 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在系统分析兰州新区浅层地温能赋存条件的基础上，本文运用改进的层次分析法，对区内土壤源热泵系统进行了适宜性评价，并得出以下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）兰州新区地处我国西北部冷温带半干旱气候区，地下水资源相对匮乏，不适宜建设地下水源热泵系统，而相对优越的地质结构、岩土体热物性及地温场条件为土壤源热泵系统的大规模应用提供了有利条件。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）通过层次分析法权重计算，发现影响区内土壤源热泵系统适宜性的要素以平均热导率和地温梯度所占权重最大。评价结果显示，兰州新区土壤源热泵适宜区、较适宜区面积为 $3 5 9 . 4 6 \\mathrm { k m } ^ { 2 }$ ，占研究区总面积的 $8 1 . 0 7 \\%$ ，主要分布于广大的秦王川盆",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "地平原区，其他地带岩土体热物性参数及地温场温度偏低，部分地带发育崩塌、黄土湿陷等浅表地质灾害，故不适宜于浅层地温能的开发利用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）从本次评价结果看，改进后的层次分析法对于兰州新区土壤源热泵系统适宜性评价结果与区域水文地质条件、地温场特征、岩土体热物性高度吻合，并且克服了主观因素对评价结果的片面影响。说明选择的评价方法合理，评价要素齐全，建立的数学评价模型具有较强的科学性、实用性和合理性。评价结果对兰州新区土壤源热泵系统建设及开发利用具有重要的指导作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]丁宏伟,魏莉莉,尹政,等.浅层地温能系统的国内外研究与应 用现状综述[J].甘肃地质,2016,25(4):61-68.[Ding Hongwei, Wei Lili,Yin Zheng,et al.Research and application status of shallow geothermal energy system in domestic and foreign countries [J]. Gansu Geology,2016,25(4): 61-68.]   \n[2]廖汉光.地源热泵在欧美国家的发展概况[J].工程建设与设计, 2007,12(3): 6-10.[Liao Hanguang. Ground source heat pump in the development general situation of western countries[J]. Construction& Design for Project,2007,12(3): 6-10.]   \n[3]卫万顺,李宁波,冉伟彦,等.中国浅层地温能资源[M].北京：中 国大地出版社,2010.[Wei Wanshun,Li Ningpo,Ran Weiyan,et al. Shallow geothermal energy resources in China[M]. Beijing: China Land Press, 2010.]   \n[4]Rollins K M,Gerber T M, Lane JD,et al.Lateral resistance of a full-scale pile group in liquefied sand[J]. Journal of Geotechnical and Geoenvironmental Engineering,2005,131(1): 115-121.   \n[5]McCullough N J, Dickenson SE.The behavior of piles in sloping rock fill at marginal wharves[J]. Journal of Geotechnical and Geoenvironmental Engineering,2004,130(1): 1-10.   \n[6]方肇洪,刁乃仁,宿登超,等.竖直型埋管地源热泵空调系统的 设计与安装[M].北京:中国建筑出版社,2001.[Fang Zhaohong, Diao Nairen,Su Dengchao,et al. Design and installation of vertical self type ground source heat pump air conditioning system[M]. Beijing: China Construction Press,2001.]   \n[7]卫万顺,郑桂森,栾英波.北京平原区浅层地温场特征及其影响 因素研究[J].中国地质,2010,37(6):1733-1739.[Wei Wanshun, Zheng Guisen,Luan Yingbo.Characteristics and influencing factors of the shallow geothermal field in Beijing plain area[J]. Geology in China,2010,37(6): 1733-1739.]   \n[8]栾英波,郑桂森,卫万顺.浅层地温能资源开发利用发展综述 [J].地热能,2013(5):21-24.[Luan Yingbo,Zheng Guisen,Wei Wanshun. Development of shallow geothermal energy resources[J]. Geothermal Energy,2013(5): 21-24.]   \n[9]韩再生,冉伟彦,佟红兵,等.浅层地热能勘查评价[J].中国地 质,2007,34(6): 1115-1121.[Han Zaisheng,Ran Weiyan,Tong Hongbing,et al. Exploration and evaluation of shallow geothermal energy[J]. Geology in China,2007,34(6): 1115-1121.]   \n[10]赵军.地源热泵技术与建筑节能应用[M].北京:中国建筑工业 出版社,2O07.[Zhao Jun. Ground source heat pump technology and building energysaving application[M].Beijing: China Architecture Publishing & Media Co.Ltd.,2007.]   \n[11] 李家伟.土壤源热泵的理论与实践研究[M].北京:科学出版社, 1995.[Li Jiawei.Research on the theory and practice of soil source heat pump[M]. Beijing: Science Press,1995.]   \n[12] 陈信锐,付强.层次分析法在浅层地温能开发适宜性评价中的 应用[J].工程技术研究,2016(8):38-39.Chen Xinrui,Fu Qiang. Application of analytic hierarchy process in suitability evaluation of shallow geothermal energy development[J]. Metallurgical Collctions,2016(8): 38-39.]   \n[13] 范斌,魏林森,张凌鹏,等.兰州新区浅层地温能调查评价报告 [R].兰州:甘肃省地矿局第二地质矿产勘查院,2017.[Fan Bin, Wei Linsen, Zhang Lingpeng,et al. Investigation and evaluation report of shallow geothermal energy in Lanzhou New District[R]. Lanzhou: The Second Institute of Geology and Minerals Exploration,Gansu Provincial Bureau of Geology and Minerals Exploration and Development,2017.]   \n[14] 魏林森,范斌,孟华,等.甘肃省中东部地区浅层地温能资源调 查评价报告[R].兰州:甘肃省地矿局第二地质矿产勘查院, 2017.[Wei Linsen,Fan Bin,Meng Hua,et al. Investigation and evaluation report on shallow geothermal energy resources in the middle and east of Gansu Province[R]. Lanzhou: The Second Institute of Geology and Minerals Exploration, Gansu Provincial Bureau of Geology and MineralsExploration and Development, 2017.]   \n[15] 魏林森,范斌,王婷,等.甘肃省浅层地温能资源开发利用评价 报告[R].兰州:甘肃省地矿局第二地质矿产勘查院,2017.[Wei Linsen,Fan Bin,Wang Ting,et al.Evaluation report on exploitation and utilization of shallow geothermal energy resources in Gansu Province[R].Lanzhou: The Second Institute of Geology and Minerals Exploration, Gansu Provincial Bureau of Geology and Minerals Exploration and Development, 2017.]   \n[16] 吕跃进,张维.指数标度在AHP标度系统中的重要作用[J].系 统工程学报,2003,18(5): 452-456.[Lu Yuejin,Zhang Wei. Kernel function of index scale in AHP scale system[J]. Journal of Systems Enginnering,2003,18(5): 452-456.]   \n[17] 岳西杰,葛玺祖,王旭东,等.改进AHP模型在黄土高原沟壑区 土壤质量评价中的应用——以陕西省长武县耕地为例[J].农 业现代化研究,2011,32(2): 238-242,256.[Yue Xijie,Ge Xizu, Wang Xudong,et al.Application in soil quality evaluation on improved AHP (analytic hierarchy process) model of loessial gully region: A case of Changwu County in Shaanxi Province[J]. Research of Agricultural Modernization,2011,32(2): 238-242,256.]   \n[18]许树柏.实用决策方法—层次分析法原理[M].天津:天津大 学出版社,1988.[Xu Shubai.Practical decision method: Principle of analytic hierarchy process[M]. Tianjin: Tianjin University Press,1988.]   \n[19] 王连芬,许树柏.层次分析法引论[M].北京:中国人民大学出版 社,1990.[Wang Lianfen, Xu Shubai.Introduction of the analytical hierarchy proces[M]. Beijing: China Renmin University Press, 1990.]   \n[20]中国系统工程学会层次分析法专业学组.决策科学与层次分析 法[M].青岛:青岛海洋大学出版社,1992.[Professional Group of AHP of System Engineering Academy China. Decision science and AHP[M]. Qingdao: Publishing Company of Qingdao Ocean University,1992.]   \n[21] 马倩倩,董博,许旺旺,等.干旱区耕地质量等级评价及土壤养 分与盐渍化的分析研究——以民勤绿洲为例[J].干旱区地理, 2021,44(2): 514-524.[Ma Qianqian, Dong Bo,Xu Wangwang, et al.Evaluation of cultivated land quality and analysis of soil nutrients and salinization in arid areas: Taking Minqin Oasis as an example[J]. Arid Land Geography,2021,44(2): 514-524.]   \n[22] 赵力,张炜,刘楠,等.国家公园理念下区域生态旅游资源评价 -以青海湖与祁连山毗邻区域为例[J].干旱区地理,2021, 44(6): 1796-1809.[Zhao Li, Zhang Wei,Liu Nan,et al.Evaluation of regional ecotourism resources under the concept of national park:Taking the adjacent area between the Qinghai Lake and the Qilian Mountain as an example[J].Arid Land Geography,2021, 44 (6): 1796-1809.]   \n[23] 王高峰,杨强,田运涛,等.泥石流易发性评价模型的构建- 以白龙江流域石门乡羊汤河段为例[J].干旱区研究,2019,36 (3): 761-770.[Wang Gaofeng, Yang Qiang,Tian Yuntao,et al. Establishment of assessment model for debris flow susceptibility:A case study along the Yangtang River Reach in Shimen Township in the Bailong River Basin[J].Arid Zone Research,2O19,36(3): 761-770.]   \n[24] 奥勇,蒋嶺峰,白召弟,等.基于格网GIS 的黄河流域土地生态 质量综合评价[J].干旱区地理,2022,45(1):164-175.[Ao Yong, Jiang Lingfeng,Bai Zhaodi,et al. Comprehensive evaluation of land ecological quality in the Yellow River Basin based on GridGIS[J]. Arid Land Geography,2022,45(1): 164-175.]   \n[25] 孙传龙,张卓栋,邱倩倩,等.基于层次分析法的锡林郭勒草地 景观系统风蚀危险性分析[J].干旱区地理,2016,39(5):1036- 1042.[Sun Chuanlong, Zhang Zhuodong,Qiu Qianqian,et al. AHP based wind erosion risk analysis of the Xilinguole grassland landscape system[J]. Arid Land Geography,2016,39(5):1036- 1042.]   \n[26] 段怡青,解智强,林美娜,等.基于指数标度AHP的地下空间开 发适宜性评价[J].地下空间与工程学报,2021,17(增刊1):8- 15.[Duan Yiqing,Xie Zhiqiang,Lin Meina,et al. Suitability evaluation of underground space development based on index scaleAHP[J]. Chinese Journal of Underground Space and Engineering, 2021,17(Suppl. 1): 8-15.]   \n[27] 李清泉,王小德,张小谷,等.基于指数标度 AHP-模糊综合评 价法的传统村落资源价值研究[J].山东林业科技,2021,17(2): 8-15.[Li Qingquan,Wang Xiaode, Zhang Xiaogu,et al. The research of traditional village resources value with the method of index scale AHP and fuzzy romprehensive evaluation[J]. Journal of Shandong Forestry Science and Technology,2021,17(2): 8-15.]   \n[28] 杨晓颖,玉山,都瓦拉,等.蒙古高原草原火灾风险评价研究[J]. 干旱区地理,2021,44(4):1032-1044.[Yang Xiaoying,Yushan, Duwala,et al.Risk assessment of grassland fire on the Mongolian Plateau[J]. Arid Land Geography,2021,44(4): 1032-1044.]   \n[29] 闫佰忠,孙剑,王昕洲,等.基于GIS-FAHP的石家庄市地下水 源热泵适宜性分区[J].吉林大学学报(地球科学版),2021,51 (4):1172-1181.[Yan Baizhong,Sun Jian,Wang Xinzhou, et al. Suitablility zoning of groundwater source heat pump in Shijiazhuang based on GIS-FAHP[J]. Journal of Jilin University (Earth Science Edition),2021,51(4): 1172-1181.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Occurrence conditions of shallow geothermal energy and suitability analysis of soil source heat pump system in Lanzhou New District ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FAN Bin14， DING Hongwei²， ZHANG Linxin14,ZHANG Lingpeng14， ZHANG Yongjun³4",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1.The Second InstituteofGeologyandMineralsExploration,GansuProvincial BureauofGeologyand MineralsExplorationnd Development,Lanzhou 30O2o,GansuChina;2.GansuProvincialBureauofGeologyandMinerals ExplorationandDevelopent, Lanzhou73ooo,Gansu,China;3.GansuGeologicalEnvironmentMoitoring Institute,Lanzhou3Oo5o,Gansu,China;4.Gansu Provincial KeyLaboratoryof Groundwater Engineeringand Geothermal Resources,Lanzhou 73Oo5o,Gansu,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Exploitation of shallw geothermal energy can optimize regional energy structure,save fossil fuel resources,and reduce carbon dioxide emissons. Understanding the subsurface characteristics which determine the suitability of anarea for shallw geothermal energy is essential to provide a scientific basis for development planing and government decision-making.This study examines the conditions for shalow geothermal energy in both the existing built-up area and planned area of Lanzhou New District ( $\\mathrm { 4 4 0 ~ k m ^ { 2 } }$ in total) in Gansu Province of northwest China,based on many years’actual exploration and test data.An objective evaluation of the applicability of soil source heat pump (SSHP) systems was undertaken using an improved analytic hierarchy process (AHP)and the comprehensive index method.The results are that: (1) Lanzhou New District has generally excellent conditions for shallow geothermal energy utilizing SHP systems. Specifically,the area has a simple and stable stratigrafic structure,high thermal conductivity，high specific heat capacity，and relatively high geothermal gradient. However, there are some unfavorable factors for developping groundwater source heat pump systems in the district,include a weak water-rich property aquifer and poor water quality.(2）The suitability evaluation model is based on an AHP divided into three atribute criteria and seven element indexes.This approach avoids some discrepancies inherent in a traditional judgement matrix constructed with the 1-9 scale proposed by Saaty.In this study，the judgement matrices for target layer and atribute criterion layer were constructed using an index scale,obtaining the weight of each factor to the target. Simultaneously,dimensionless parameters for each factor were optimized to make the model more eficient and give the evaluation result higher credibility.(3）The key factors affecting the suitability of SSHP are the average thermal conductivity and the geothermal gradient, which in this area are $1 . 8 0 7 { - } 2 . 6 7 6 ~ \\mathrm { W \\cdot m ^ { - 1 } \\cdot K ^ { - 1 } }$ and $0 . 3 0 { - } 0 . 4 0 \\ \\mathrm { ^ { \\circ } C \\cdot k m ^ { - 1 } }$ ,respectively. The evaluation shows that“suitable”and“relatively suitable”areas for SSHP inthe Lanzhou New District amount to $3 5 9 . 4 6 \\mathrm { k m } ^ { 2 }$ ,which is $8 1 . 7 0 \\%$ of the extent of the study area.Those suitable areas are chiefly located on the plains of Qinwangchuan Basin; other hilly and mountainous areas are less suitable for the installtion of SSHP systems. Changing the traditional judgement matrix approach to this improved AHP-based evaluation process gives more accurate results more eficiently.The specific evaluation results of this study have clear practical value in guiding development planning for deployment of SSHP systems in Lanzhou New District and other comparable areas. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: shalow geothermal energy； soil source heat pump;analytic hierarchy process (AHP)； suitability;Lanzhou New District",
+        "page_idx": 10
+    }
+]

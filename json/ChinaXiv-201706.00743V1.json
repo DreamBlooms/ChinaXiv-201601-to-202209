@@ -1,0 +1,414 @@
+[
+    {
+        "type": "text",
+        "text": "Performance Improvements in Temperature Reconstructions of 2-D Tunable Diode Laser Absorption Spectroscopy (TDLAS) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Doo-Won Choi1, Min-Gyu Jeon², Gyeong-Rae Cho², Takahiro Kamimoto1, Yoshihiro Deguchil, and Deog-Hee Doh²+ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Tokushima University 2-1 Minamijyosanjima, Tokushima, Japan   \n2. Korea Maritime & Ocean University Dongsam-dong 1, Youngdo-gu, Busan 606-791, Korea, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\copyright$ Science Press and Institute of Engineering Thermophysics, CASand Springer-Verlag Berlin Heidelberg 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Performance improvement was atained in data reconstructions of 2-dimensional tunable diode laser absorption spectroscopy (TDLAS). Multiplicative Algebraic Reconstruction Technique (MART)algorithm was adopted for data reconstruction.The data obtained in an experiment for the measurement of temperature and concentration fields of gas flows were used.The measurement theory is based upon the Beer-Lambert law,and the measurement system consists of a tunable laser, colimators,detectors,and an analyzer. Methane was used as a fuel for combustion with air in the Bunsen-type burner.The data used for the reconstruction are from the optical signals of 8-laser beams passd on a cross-section of the methane flame.The performances of MART algorithm in data reconstruction were validated and compared with those obtained by Algebraic Reconstruction Technique (ART) algorithm. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Data Reconstruction, TDLAS,MART,ART. ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Temperature distribution on the cross-section of a combustion flame allows for exact analyses on the combustion phenomena.Measurements on the exhaust gases such as NOx,SOx,COx and CHx from plants or facto ries allows for preventing air pollutions and global warming. TDLAS (tunable diode laser absorption spectroscopy) has been used for these purposes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For the measurement on the concentrations of the gases, there have been several representative pointwise techniques.Wang et al.[1] used a WAV (surface acoustic wave）type sensor to detect $\\mathrm { C O } _ { 2 }$ andhumidity.Stemhagen et al.[2] used a WAV sensor to detect gas and temperature. Fine et al. [3] constructed a semiconductor-type sensor to detect CO, NOx, NH3 and $\\mathrm { C O } _ { 2 }$ gases. Chen [4] proposed a thermal conductivity-type sensor for detection of $\\mathrm { H } _ { 2 }$ gas.Dossi et al.[5] adopted an electrochemical-type sensor for $\\mathrm { N H } _ { 4 }$ gas.Since all of these conventional measurement techniques were based on pointwise measurements,the distribution of temperature or concentration can't be measured.As field-wise measurement techniques,Ko et al.[6] proposed a digital speckle method which allows for the measurements of spatial distribution of $\\mathrm { C O } _ { 2 }$ concentration. Since gas concentration is affected by the gas temperature,temperature distribution should be measured to predict the gas concentrations.Deguchi et al.[7] proposed a technique which can quantify the concentration distributions of $\\mathrm { H } _ { 2 } \\mathrm { O }$ vapor by measuring the temperature distribution of a gas flame.They used a tunable laser and introduced 2-dimensional array of the laser beam,inwhich8laserbeamlineswere installedand the intensityofthe laserlines were sensedby8 detectors (photodiode). The intensity signals from 8 detectors were used to reconstruct the spectrum patterns of a gas.They used the ART (algebraic reconstruction technique）[8] method for reconstructing the concentration and temperature fields.In the meantime,Doh et al.[9] developed a tomographic PTV (particle tracking velocimetry）in which spatial distribution of velocity vectors are obtained from a set of tomography images that were reconstructed by the MART (multiplicative algebraic reconstruction technique) method.In this study,it was known that the MART algorithm allows less calculation load and less calculation errors than the ART algorithm.In this study, performance of the MART algorithm is shown by using the experimental data obtained by the Deguchi group [7]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Temperature vs Relative Intensity ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows major spectroscopic steps, such as absorption, fluorescence and photoionization,from which spectra signals can be measured for the investigations of gas properties.The absorption spectroscopy is fundamentally based upon Beer-Lambert Law as shown in Fig. 2.When the incident laser beam passes through the uniform medium, the ratio of the transmitted light intensity $( I _ { t } )$ against the incident light intensity $( I _ { 0 } )$ is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { t } ( \\lambda ) = I _ { 0 } ( \\lambda ) \\cdot \\exp { \\{ - \\alpha _ { \\lambda } \\} }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "inversely proportional to the power of the absorbance coefficient $( \\alpha _ { \\lambda } )$ Eq. (1). The intensity ratio of incident light and transmitted light depends on the mole fraction. The number density of the measured species $n$ is related to the amount of light absorbed as in the following formula. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { I _ { t } ( \\lambda ) / I _ { 0 } ( \\lambda ) = \\exp \\{ - A _ { \\lambda } \\} } } \\\\ { { \\displaystyle \\quad = \\exp \\left\\{ \\sum _ { i } \\left( n _ { i } L \\alpha _ { i } \\right) \\right\\} } } \\\\ { { \\displaystyle \\quad = \\exp \\left\\{ \\sum _ { i } \\Biggl ( n _ { i } L \\sum _ { i , j } ( T ) G _ { \\nu i , j } \\Biggr ) \\right\\} } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here, $I _ { t }$ and $I _ { 0 }$ are the transmitted and incident laser intensities and $\\mathbf { A } _ { \\lambda }$ represents the spectral absorbance. $n _ { i }$ is the number density of species $i , L$ is the optical path length, $\\boldsymbol { a } _ { i }$ is absorption coefficient, $S _ { i j }$ is the temperature dependent absorption linestrength of the absorption line $j _ { ; }$ and $G _ { \\nu i , j }$ is the line-broadening function. Voigt profile Was used for the line-broadening function.Three absorption lines located at $1 3 8 8 . 1 3 5 \\mathrm { n m } ( \\# 1 )$ ， $1 3 8 8 . 3 2 6 \\mathrm { n m } ( \\# 2 )$ and $1 3 8 8 . 4 5 4 \\mathrm { n m }$ (#3） were selected to measure temperature and $\\mathrm { H } _ { 2 } \\mathrm { O }$ concentration.Fig.1(a) and Fig.1(b) show theoretical $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ absorption spectra calculated using the HITRAN 2008 database [10] at 300K,500K,600K and 1000K.Fig.3 shows the temperature dependences of the three absorption lines.In order to increase the linearity between the relative intensity and the temperature,the ratios between the intensity at $1 3 8 8 . 1 3 5 \\mathrm { n m }$ (#1)and the one at 1388.326nm as shown in Fig.4 were used for the calculation of temperature.Thus, this allows for reducing the values of temperature error induced by the tomographic algorithms. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3cfe38b17e58ad57bfb3a811928105bbd5d20802aaddbccc6b15f9b96a00d45f.jpg",
+        "img_caption": [
+            "Fig.1Major spectroscopic steps of atoms "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4ae3f005bc2bcc47eddc3fdb944b2ee860ae80209a467c2fac785d0ee60502a.jpg",
+        "img_caption": [
+            "Fig.2Relative intensity of theoretical $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ absorption spectra $( 1 3 8 8 \\mathrm { n m } \\sim 1 3 8 8 . 6 \\mathrm { n m } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef93484e69e7467787b94560b9ad150d62da5206a70a18981db2ecab7ed87b17.jpg",
+        "img_caption": [
+            "Fig.3Relative intensity dependencies on temperature variations for three absorption lines of $\\mathrm { H } _ { 2 } \\mathrm { O }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experiments and Temperature Reconstructions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experimental data was obtained by the experimental setup[7]as shown in Fig.5.ADFB laser(NTT Electronics Co.,NLK1E5GAAA)at $1 3 8 8 ~ \\mathrm { n m }$ with scanning range of $0 . 6 \\mathrm { { n m } }$ was used to detect $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ vapor absorption spectra. The laser wavelength was scanned at 1 kHz and absorption spectra were measured to calculate instantaneous 2-dimensioonal temperature distributions using 8-path measurement cells as shown in Fig.6.Laser beam was separated by an optical fiber splitter(OPNETI CO.,SMF-28e 1310nm SWBC $1 \\times 1 6$ ）andthe separated laser beams were irradiated into the target area by 8 collimators(THORLABS Co.，50-1310-APC).The transmitted light intensities were detected by photodiodes (Hamamatsu Photonics and G837O-O1),and their intensity signals were stored into the host computer. The data acquisition rate was set to $5 0 0 ~ \\mathrm { k H z }$ (500 data points on every 1 scan of absorption spectra) and temperatures in the measurement plane were also measured by chromel-alumel thermocouples with a diameter of $1 0 0 \\mu \\mathrm { m }$ (KMT-100-100-120), in order to compare both results. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3cbf6c84d12d6343f304bb7a53fd3cf0f540ad54c8bea85f492557f8ad328c4f.jpg",
+        "img_caption": [
+            "Fig.4Intensity ratio dependencies of the two absorption lines on temperature. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/024e801271f93d47c9bec2a7ed94b6788d2ceca55c0ee56bc4b1c298324a46ce.jpg",
+        "img_caption": [
+            "Fig.5Experimental setup [7]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/61903489ba14c190af29a3cc2e84e11d94750ba99aac81dcc8e546bd375fd2cd.jpg",
+        "img_caption": [
+            "Fig.62-dimensional cells constructed by 8-path lasers "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Methane gas was used as a fuel. During all experiments,mass flow velocities of $\\mathrm { C H } _ { 4 }$ and air were constantlymaintained at each of $3 0 \\ell / \\mathrm { { m i n } }$ and $1 0 2 \\ell / \\mathrm { { m i n } }$ . The diameter of the burner was manufactured to $4 0 \\mathrm { m m }$ ，and the laser paths were set to $8 \\mathrm { m m }$ spacing with each other. The temperature and the concentration of $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ measured at the burner center by sensors (thermocouple and humidity sensor) were $4 3 8 \\mathrm { K }$ and $2 \\%$ ,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 shows measured absorption spectra on the 8- path lasers across the Bunsen burner. The laser paths 3,4, 7 and 8 in Fig.6 were set to high temperature regions of the burner.It can be seen that the ratio of line intensities of $\\# 1$ and $\\# 2$ has strong temperature dependences as already explained in Fig. 3 and Fig. 4. The laser paths 1,2, 5 and 6 were set to low temperature region and the ratio of line intensities of $\\# 1$ and $\\# 2$ has lower values than those of the laser paths 3,4,7 and 8. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These absorption values were used for temperature reconstructions.For temperature reconstructions， the MART algorithm was adopted, and its performance was validated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Absorptions of the transmitted light through the methane gas flame occur on the 8-paths.The absorption signals become integrated absorption values of the opti cal paths [11,12].The integrated absorbance‘A'across a specific spectral line in the laser path $\\mathrm { j }$ can be written as follows. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { \\lambda , j } = \\sum _ { i } n _ { i } L _ { i , j } \\alpha _ { \\lambda , i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the subscript $i$ represent the grid point $( i = 1 , 2 , . . . )$ $\\lambda$ is transition frequency. Because the integrated absorbance is dependent on both temperature and concentration, the temperature distribution has to be calculated by more than two different absorbance values.In this study, temperature and $\\mathrm { H } _ { 2 } \\mathrm { O }$ concentration were determined at each analysis grids using a multifunction minimization method to minimize thespectral fitting error at 1338.0-1338.6nm. This minimization method was calculated by the following equation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/017c87faa80d1ee86fc3833915057a8196eb29be0a4c24513be3b74c1f199c43.jpg",
+        "img_caption": [
+            "Fig.7Measured absorption spectra $\\mathrm { ( H } _ { 2 } \\mathrm { O } )$ for 8-path lasers "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE r r o r = \\sum \\Bigl \\{ \\left( A _ { \\lambda , i } \\right) _ { t h e o r y } - \\left( A _ { \\lambda , i } \\right) _ { \\mathrm e x p e r i m e n t } \\Bigr \\} ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The measured $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ absorption spectra was normalized and compared to those of theoretical spectra to minimize the MSE (Mean Squared Errors).The error was calculated and minimized from each of all laser paths.This procedure is explained in Fig. 8. All values of $\\alpha _ { \\nu 1 , j } ( i )$ at all grids points were iteratively calculated using the ART and MART methods until convergence.The final values of $T ( i , j )$ and $n ( i , j )$ after iterations were then reconstructed for temperature and concentration fields.For data reconstructions,two algorithms,ART and MART were used and their performances were compared. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Eq.(5） represents the equation used for ART (algebraic reconstruction technique) algorithm. The unknown values of absorption coefficients $( \\alpha _ { \\lambda } )$ are calculated implicitly. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\alpha _ { \\nu 1 , j } ( i ) ^ { ( k + 1 ) } = \\alpha _ { \\nu 1 , j } ( i ) ^ { ( k ) } } \\\\ { + \\beta \\frac { A _ { \\nu 1 , j } - \\sum _ { i = 1 } ^ { I } \\alpha _ { \\nu 1 , j } ( i ) ^ { ( k ) } \\cdot L _ { i j } } { \\sum _ { i = 1 } ^ { I } { L _ { i j } } ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Eq.(6) represents the equation used for MART (multiplicative algebraic reconstruction technique) method. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { \\nu 1 , j } ( i ) ^ { ( k + 1 ) } = \\alpha _ { \\nu 1 , j } ( i ) ^ { ( k ) } + \\left[ \\frac { A _ { \\nu 1 , j } } { \\sum _ { i = 1 } ^ { I } \\alpha _ { \\nu 1 , j } ( i ) ^ { ( k ) } \\cdot L _ { i j } } \\right] ^ { \\beta L _ { i j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Here, $\\alpha _ { \\nu 1 , j } ( i )$ is expressed as Eq. (7). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { \\nu 1 , j } ( i ) = n ( i , j ) \\cdot S _ { i , j } \\left\\{ T ( i , j ) , \\nu 1 \\right\\} \\cdot G _ { \\nu 1 , j } \\cdot P\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "With initial or previous values of $n ( i , j )$ and $T ( i , j )$ $\\alpha _ { \\nu 1 , j } ( i )$ values were iteratively calculated using Eq. (7). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Implicit solution was performed until all values of （204号 $\\alpha _ { \\nu 1 , j } ( i )$ at all grids points converged to constant values. $k$ is the iteration number of MART algorithm,and $\\beta$ isa relaxation parameter. $a _ { \\nu I }$ is absorption coefficient at the wavelength $\\nu _ { I } ( 1 3 8 8 . 1 3 5 \\mathrm { n m } )$ ， $A _ { \\nu I , j }$ is the absorbance obtained from experiments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Iterative calculation was made for $\\# 1 ( \\nu _ { I } , 1 3 8 8 . 1 3 5 \\mathrm { n m } )$ at first, next for $\\# 2 ( \\nu 2 , 1 3 8 8 . 3 2 6 \\mathrm { n m } )$ . When performing iterative calculations, the temperatures measured by thermocouples were used as the initial values.Then, the initial values of gas concentrations were obtained by the initial values of temperature using Eq. (3). Absorption coefficients were newly calculated using the absorption values from the horizontal laser 1 to 4 using Eq. (5). After iterative calculations for the horizontal lasers (1\\~4), the absorption coefficients of the vertical lasers (5\\~8) were also renewed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.9 shows the mean squared errors (MSE) obtained by ART algorithm for all iteration numbers. $\\beta$ values were changed in the range of $( 0 . 0 5 < \\beta < 1 _ { , } ^ { , }$ ).Forthe case of ART algorithm,the MSE was the smallest values when $\\beta$ was set to O.1.The MSE was saturated within the iteration number 5O.This implies that the iteration num bers do not need to be large number if an optimal relaxa tion value $( \\beta )$ is adopted. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/41b580a001dce43ef5d1f49c8e377bcaf49a2887d50cd097d4252021708494c4.jpg",
+        "img_caption": [
+            "Fig.8Procedure for calculation of absorption coefficients "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.10 shows the mean squared errors (MSE）obtained by MART algorithm for all iteration numbers. $\\beta$ values were also changed in the range of $( 0 . 0 5 < \\beta < 1 _ { , } ^ { \\cdot }$ ） For the case of ART algorithm, the MSE was the smallest values when $\\beta$ was set to O.5.The MSE was saturated within the iteration number 1O.This implies that the calculation time is 5 times shorter than that of ART algorithm if an optimal relaxation value $( \\beta )$ is adopted. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.11 shows comparison of calculation performances between ART and MART algorithms.It can be inferred that the magnitudes of errors by MART algorithm are lower than those by ART algorithm with rapid calculation convergences. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.12 and Fig.13 show the distributions of temperature and concentration obtained by MART algorithm.It can be seen that the peak region are biased to the edges. This is due to the fact that the center of flame burner (high temperature region) was installed at the edge loca tion of the measurement apparatus as shown in Fig.6. It was known that the peak values of the reconstructed temperature and $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ concentration were 429.7K and $2 . 1 3 \\%$ ,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1186a8ea39ca69b01e229387b3eef28d7f15799746b838309a9ddf223932d54c.jpg",
+        "img_caption": [
+            "Fig.9Variations of mean square error (MSE) with iteration numbers forrelaxation parameters inART algorithm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c0a90b7c29812298e1a25e026d64a29bc0c28f0e67185c79604dc927c43437e.jpg",
+        "img_caption": [
+            "Fig.10Variations of mean square error(MSE) with iteration numbers for relaxation parameters in MART algorithm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfa34524ac5698936ec97889ed091a37dd29ce3f9e756378a1738bb3c8f33d49.jpg",
+        "img_caption": [
+            "Fig.11 Comparisons between ART algorithm and MART algorithm "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffddb3928774694e196782e38aa9aecee4f66cd05524d7fc401acb7c53e72ebe.jpg",
+        "img_caption": [
+            "Fig.12Temperature distribution obtained by MART "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/190fd1e5d76138f14c32fa8067b9855f30e2fb427c0ae1434fdc57d449f7a585.jpg",
+        "img_caption": [
+            "Fig.13 Concentration distribution obtained by MART "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The MART (multiplicative algebraic reconstruction technique) was newly adopted and its performances were validated for CT-TDLAS (computed tomography-tunable diode laser absorption spectroscopy). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It was validated that the calculation errors by MART algorithm were less than those by ART algorithm. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Further, the calculation speed ofMART algorithm was 5 times faster than that ofART algorithm. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The minimum iteration number to be saturated at the minimum values of error was 1O.This implies that several dozens of iteration number would be enough for at taining the minimum errors. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Korea Government MOE(No. 2014R1A1A4A01005191) and by (No.2015 H1C1A1035890)， and by MSIP (No.2015R1A2A2A 01006803) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Wang,W.,Lim, C.B.,Lee,K.K.Yang,S. S., (2009), Wireless Surface Acoustic Wave Chemical Sensor for Simultaneous Measurement of CO2 and Humidity，J. Micro/Nanolith.MEMS MOEMS Vol. 8(3),paper No. 031306.   \n[2]Sternhagen,J.D.,Wold, C.E.,and Kempf, W.A.,(2002), A Novel Integrated Acoustic Gas and Temperature Sensor,IEEE Sens.J.Vol.2,pp.301-306.   \n[3]Fine,G.F.,Cavanagh,I.M.,Afonja,A.,Binions,R., (2010),Metal Oxide Semi-Conductor Gas Sensors in Environmental Monitoring, Sensors,Vol.10,pp.5469-5502.   \n[4] Chen,S.,(2010) Surface Micromachined Thermal Conductivity Gas Sensors for Hydrogen Detection，PhD. Dissertation,TU Delft.   \n[5]Dossi, N., Toniolo,R.,Pizzariello,A., Carrilho,E.，Piccin,E.，Battiston，S.，and Bontempelli,G.，(2012）An Electrochemical Gas Sensor based on Paper Supported Room Temperature Ionic Liquids,Lab on Chip, Vol.12(1), pp.153-158.   \n[6]Ko,H. S., Okamoto, K.,and Madarame,H.,(2001) Reconstruction of Transient Three-Dimensional Density Distributions Using Digital Speckle Tomography,Measurement Science and Technology，Vol. 12,pp.1219- 1226.   \n[7]Deguchi, Y., Yasui,D.,and Adachi,A.,(2012) Development of 2D Temperature and Concentration Measurement Method using Tunable Diode Laser Absorption Spectroscopy, Journal of Mechanics Engineering and Automation, Vol. 2, pp.543-549.   \n[8]Elsinga, G. E., Scarano,E.,Wieneke, B.,andOudheusden,B.W.,(2006), Tomography Particle Image Velocimetry, Experiments in Fluids, Vol. 41, pp. 933-947.   \n[9]Doh, D.H.,Cho,G.R.,and Kim,Y.H.,(2012) Development of a tomographic PTV, Journal of Mechanical Science and Technology, Vol. 26(12), pp. 3811-3819.   \n[10]Rothman,L.S.,Gordon,L.E.,Barbe,A.， ChrisBenner, D.,Bernath, P.F., Birk,M, Boudon,V., Brown, L. R., Campargue,A., Champion, J.P.， Chance,K., Coudert, L. H.,Dana, V.,Devi, V. M.，Fally,S., Flaud, J. M., Gamache,R.R.,Goldman,A., Jacquemart,D.,Kleiner,I., Lacome,N.,Lafferty,W.J.,Mandin, J.Y.,Massie, S.T.., Mikhailenko, S. N., Miller, C.E., Moazzen-Ahmadi, N., Naumenko, O. V., Nikitin,A. V., Orphal, J., Perevalov, V. I.,Perrin,A.,Predoi-Cross,A.,Risland, C.P.,otger, M.， Simeckova,M., Smith,M.A.H., Sung,K., Tashkun, S.A., Tennyson, J., Toth, R. A., Vandaele,A. C., and VanderAuwera, J.,(2009),The HITRAN2008 Molecular Spectroscopic Database, Journal of Quantitative Spectroscopy & Radiative Transfer,Vol.110, pp. 533- 572.   \n[11]Wang, F., Cen, K.F.,Li, N., Jeffries,J. B.,Huang, Q. X., Yan, J. H.,and Chi, Y.,(201O),Two-dimensional Tomography for Gas Concentration and Temperature Distributions based on Tunable Diode Laser Absorption Spectroscopy, Meas.Sci. Technol., Vol. 21(4), pp.5301-5309.   \n[12]Ma,L.and Cai W.,(2008), Numerical Investigation of Hyperspectral Tomography for Simultaneous Temperature and Concentration Imaging，Applied Optics，Vol. 47(21), pp. 3751-3759. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

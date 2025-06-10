@@ -1,0 +1,352 @@
+[
+    {
+        "type": "text",
+        "text": "Transitional Area of $\\mathbf { C e ^ { 4 + } }$ to $\\cdot$ in $\\_$ with Various Doping and Oxygen Vacancy Concentrations: A GGA + U Study ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WU Tong-Wei(1) (吴铜伟);JIA Gui-Xiao(1,2)(贾桂霄);WANG Xiao-Xia(1)(王晓霞);LI Lei() (李 磊);AN Sheng-Li(1,2)(安胜利)   \n(1) School of Materials and Metallurgy, Inner Mongolia University of Science and Technology, Baotou,Inner   \nMongolia O14010, China;(2)The Inner Mongolia Autonomous Region Key Lab of Novel Functional Ceramics and Devices,Baotou, Inner Mongolia O14010, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACTIn this work, we perform $\\mathrm { D F T + U }$ periodic calculations to study geometrical and electronic structures and oxygen vacancy formation energies of $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems ( $\\chi = 0 . 0 3 1 2$ , 0.0625, 0.125 and 0.250; $y = 0 . 0 3 1 2$ , 0.0625, 0.125 and 0.250; $\\delta = 0 . 0 3 1 2$ , 0.0625,0.125, 0.250 and 0.50) with different oxygen vacancy and doping concentrations. The calculated results show that the $\\mathbf { V } _ { 1 } { - } \\mathbf { S } \\mathbf { m } ^ { 3 + } { - } \\mathbf { V } _ { 2 }$ structures where there is a position relationship of the face diagonal between $\\mathbf { V } _ { 1 }$ and $\\mathrm { \\Delta V } _ { 2 }$ both nearest to $\\mathrm { S m } ^ { 3 + }$ have the lowest energy configurations. The study on electronic structures of the $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems finds that excess electrons arise from oxygen vacancies and are localized on $f$ level traps of their neighbor $\\mathrm { C e }$ ，and $\\mathrm { C a } ^ { 2 + }$ and $\\mathrm { S m } ^ { 3 + }$ co-doping effectively restrains the reduction of $\\mathrm { C e ^ { 4 + } }$ . In order to avoid the existence of $\\mathrm { C e } ^ { 3 + }$ ， $x$ and $y$ must be both larger than 0.0625 as $\\delta = 0 . 1 2 5$ or $\\delta$ must be smaller than 0.125 as $x = y = 0 . 0 6 2 5$ .The $\\mathrm { C e ^ { 3 + } / C e ^ { 4 + } }$ change ratio $k$ has an obvious monotonous increase with increasing the vacancy oxygen concentration. The introduction of $\\mathrm { S m } ^ { 3 + }$ decreases $k$ .In addition,the doped $\\mathrm { S m } ^ { 3 + }$ can restrain the reduction of ${ \\mathrm { C e ^ { 4 + } } }$ when the $\\mathbf { V } _ { 1 } { - } \\mathbf { S } \\mathbf { m } ^ { 3 + } { - } \\mathbf { V } _ { 2 }$ structure with a face diagonal position relationship in lower reduced atmosphere exists. It need be pointed out that the $\\mathrm { S m } _ { 0 . 2 5 } \\mathrm { C e } _ { 0 . 7 5 } \\mathrm { O } _ { 1 . 5 }$ system should be thought of as a $\\mathrm { { { S m } } }$ -doped ${ \\mathrm { C e } } _ { 2 } { \\mathrm { O } } _ { 3 }$ one. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: cerium oxide;oxygen vacancies; doping; electronic structures; $\\mathbf { G G A + } U$ . DOI: 10.14102/j.cnki.0254-5861.2011-1715 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C e O } _ { 2 }$ -based materials are important in solid oxide fuel cells (SOFC)[1-3] due to their high ionic conductivity. Pure ${ \\mathrm { C e O } } _ { 2 }$ is a mixed ionic and electronic conductor. When a neutral oxygen vacancy is built in $\\mathrm { C e O } _ { 2 }$ ，two excess electrons left behind will be localized on the $f$ level traps of two neighbor Ce, namely, formally ${ \\mathrm { C e ^ { 4 + } } }$ is reduced to $\\mathrm { C e } ^ { 3 + } [ C e _ { C e } ^ { ' } ] ^ { [ 4 - 6 ] }$ .Therefore, to improve its ionic conductivity and decrease its electronic conductivity[7-15], $\\mathrm { C e O } _ { 2 }$ is commonly doped with alkaline earth or rare earth metals such as $\\mathrm { C a } ^ { 2 + }$ ， $\\mathrm { G d ^ { 3 + } }$ $\\mathrm { S m } ^ { 3 + }$ and $\\mathrm { L a } ^ { 3 + }$ or their co-doping. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Now, ionic and electronic conductivities of ${ \\mathrm { C e O } } _ { 2 }$ have been widely studiedl7-18l. Mogensen's study on Ca or Gd single-doped $\\mathrm { C e O } _ { 2 }$ systems found that the conduction carrier was related with atmosphere[18l. The conductivity measured in air is regarded as being ionic and the electronic conductivity contribution is negligible,and ionic conductivity $\\left( \\sigma _ { \\mathrm { i } } \\right)$ and electronic conductivity $\\left( \\sigma _ { \\mathrm { e } } \\right)$ are connected with oxygen partial pressure $( P _ { O _ { 2 } } )$ in reduced atmosphere[18]. The highest $\\sigma _ { \\mathrm { i } }$ of $\\mathrm { C e O } _ { 2 }$ doped with $20 \\mathrm { m o l } \\%$ Ca is $0 . 2 0 9 \\mathrm { S } / \\mathrm { c m }$ at $\\mathrm { H } _ { 2 }$ （204号 atmosphere at $8 5 0 \\ \\mathrm { ~ ^ { \\circ } C }$ ， larger than that in air[19]. $\\mathrm { C e } _ { 1 - x } \\mathbf { M } _ { x } \\mathbf { O } _ { 2 - \\delta }$ $\\ M = { \\mathrm { G d } } ^ { 3 + }$ or $\\mathrm { S m } ^ { 3 + }$ ）at $x = 0 . 1 5$ ， 0.2 and $( \\mathrm { C e _ { 0 . 8 } S m _ { 0 . 2 } } ) _ { 1 - 0 . 0 5 } \\mathrm { C a _ { 0 . 0 5 } O _ { 2 - \\delta } }$ compounds have the largest ionic conductivity[7-9l, and the conductivity of the latter is $0 . 1 2 6 ~ \\mathrm { S / c m }$ at $8 0 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ in air. In addition,the ionic radi and valence of dopants[16-20],oxygen vacancy and dopant concentrations[21l，and dopant-vacancy and vacancy-vacancy defect asociations[22 which decrease the number of mobile vacancies available,also affect the ionic conductivity of $\\mathrm { C e O } _ { 2 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theoreticaly,the distributions of oxygen vacancies and dopants[23], their formation energies[24], geometric and electronic structures[25] and oxygen ionic migration energies of $\\mathrm { C e O } _ { 2 }$ systems[15,25,26] have been investigated at the atomic level. $\\mathrm { C e O } _ { 2 }$ systems with $\\mathrm { S m } ^ { 3 + }$ among rare earth metals and $\\mathrm { C a } ^ { 2 + }$ among alkaline earth metals have the smallst oxygen ionic migration energies[25,27l and their doping can effectively restrain the electronic conductivity.Theoretical9] and experimental[28,29] studies showed that $\\mathrm { C a } ^ { 2 + }$ and $\\mathrm { S m } ^ { 3 + }$ co-doping could better improve the ionic conductivity. Effects of diferent oxygen vacancy and doping concentrations on the distributions of oxygen vacancies, dopants and ${ \\mathrm { C e } } ^ { 3 + }$ of the $\\mathrm { C e O } _ { 2 }$ systems are investigated. Murgida's studyl30] showed that the oxygen vacancy concentration affected the distribution of ${ \\mathrm { C e } } ^ { 3 + }$ and excess electrons preferred to be localized in the cation sites such that the mean ${ \\mathrm { C e } } ^ { 3 + }$ coordination number was maximized,and two vacancies were inclined to be second-neighboring. For doped $\\mathrm { C e O } _ { 2 - \\delta } .$ ，our and other studies found that dopants preferred to occupy the nearest neighbor (NN)and next-nearest neighbor (NNN) positions relative to the oxygen vacancyl20,25l. Independent with oxygen vacancy and doping concentrations, ${ \\mathrm { C e } } ^ { 3 + }$ is distributed around the nearest neighbor oxygen vacancy[30-32l. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, a systematically theoretical study on $\\mathrm { C e ^ { 3 + } / C e ^ { 4 + } }$ electronic properties of $\\mathrm { C e O } _ { 2 }$ with different oxygen vacancy and doping concentrations is absent. As is well known, Ca and Sm doping can effectively restrain the reduction of ${ \\mathrm { C e ^ { 4 + } } }$ to ${ \\mathrm { C e } } ^ { 3 + }$ and the doped ${ \\mathrm { C e O } } _ { 2 }$ has the largest ionic conductivity. Hence, in order to better understand the efects of different oxygen vacancy and Ca-,Sm-doping concentrations on the electronic structures $\\mathrm { ( C e ^ { 3 + } / C e ^ { 4 + } ) }$ of ${ \\mathrm { C e O } } _ { 2 }$ systems, in the work, we select various numbers of oxygen vacancies or $\\mathrm { C a }$ and Sm dopants in the same supercellto obtain a series of vacancy and doping concentrations. Ultimately,this work would plot transitional area of ${ \\mathrm { C e ^ { 4 + } } }$ to ${ \\mathrm { C e } } ^ { 3 + }$ and the $\\mathrm { C e ^ { 3 + } / C e ^ { 4 + } }$ change ratio $k$ under different oxygen vacancy and doping concentration conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 MODELSAND COMPUTATIONALDETAILS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. 1 Models ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C e O } _ { 2 }$ has a fluorite-type structure (Fm3m space group) with one formula unit per primitive unite cell[25]. In this work,we considered a number of oxygen vacancies or dopants of $\\mathrm { C a } ^ { 2 + }$ and $\\mathrm { S m } ^ { 3 + }$ to produce various oxygen vacancy and doping concentrations in a $2 \\times 2 \\times 2$ supercell, namely, $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems with various $x , y$ and $\\delta$ 0 $\\dot { x } = 0 . 0 3 1 2$ , 0.0625, 0.125 and 0.250; $y = 0 . 0 3 1 2$ , 0.0625, 0.125 and 0.250; $\\delta = 0 . 0 3 1 2$ 0.0625,0.125,0.250and 0.5O) were considered,see Table 1. When the doping concentration is larger than 0.30, （20 $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems were not doping but alloying ones.However, for convenience with description in the work, we would unify them to name as doping ones. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Doped atoms are uniformly distributed in a $2 \\times 2 \\times 2$ supercell to obtain systems with various doping concentrations. Hooper's study[33 on Sm-doped $\\mathrm { C e O } _ { 2 }$ systems found that the dopant-vacancy interaction was a hybrid NN/NNN mixture distribution as the $\\mathrm { S m } ^ { 3 + }$ concentrations increased and more NN distributions were the most favored. Our previous studies found that the first oxygen vacancy $\\left( \\mathrm { V } _ { 1 } \\right)$ was the nearest to the dopant $( \\mathrm { N N } ) ^ { [ 2 0 , 2 5 ] }$ . Here,the same structure model is used. For the $\\mathrm { C e O } _ { 2 }$ systems where the number of the oxygen vacancy nearest to one $\\mathrm { S m } ^ { 3 + }$ is more than one,these vacancies are chosen according to the rule of the NN distribution, namely, the second oxygen vacancy nearest to one $\\mathrm { S m } ^ { 3 + }$ is introduced and named as $\\mathrm { \\Delta V } _ { 2 }$ .Thus, $\\mathrm { V } _ { 1 }$ and $\\mathrm { \\Delta V } _ { 2 }$ would have three distinct position relationships in the cube of eight coordinated $O ^ { 2 - }$ for one $\\mathrm { S m } ^ { 3 + }$ namely,the side one in Fig.la,the face diagonal one in Fig.1b and the body diagonal one in Fig.lc. Calculation results show that the structures with the face diagonal relationship between $\\mathbf { V } _ { 1 }$ and $\\mathrm { \\Delta V } _ { 2 }$ are the most stable,consistent with the case of pure $\\mathrm { C e O } _ { 2 }$ systems with double oxygen vacancies[8]. For Ca-doped $\\mathrm { C e O } _ { 2 }$ systems,the models where $\\mathrm { C a } ^ { 2 + }$ has a NN or NNN distribution relationship with one oxygen vacancy are considered. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/03f08005df6e97a940b57acc9f9dce4f13cb6d17f570e8181d48db0556d64486.jpg",
+        "img_caption": [
+            "Fig.1. Geometric structures of Smo.25Cao.25Ce0.5O2-s 0r Smo.5Ceo.5O2-s systems with $\\bf V _ { 1 }$ and $\\mathbf { V } _ { 2 } .$ Red spheres note O, white ones note Ce,and the pink ones note one $\\mathbf { S } \\mathbf { m } ^ { 3 + }$ .There is a similar notation in the following figures "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Computational details ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All calculations were performed by a Vienna ab initio simulation package (VASP)[34l. Ce5s5p6s4f5d, $0 2 s 2 p$ ,Ca3s3p4s and Sm5s5p6s4f5d were treated as valence electrons. Structures were relaxed until forces on each ion were below $0 . 0 2 ~ \\mathrm { e V } / \\mathring { \\mathrm { A } }$ and the total energy was converged within $1 { \\times } 1 0 ^ { - 4 }$ eV. A plane-wave cut off energy of $4 0 0 \\mathrm { e V } ,$ a $3 \\times 3 \\times 3$ Monkhorst-Pack k point mesh and a Gaussian smearing parameter of $0 . 2 0 \\mathrm { e V }$ were used. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The standard DFT formulation usually fails to describe strongly the correlated electrons due to a deficient treatment of electron correlation.This limitation can be corrected by using a $\\mathrm { D F T + U }$ method,where the introduction of a Hubbard parameter $U$ modifies the self-interaction error and enhances the description of the correlation effects[351. This methodology has been widely used in reduced $\\mathrm { C e O } _ { 2 }$ systems[6,8,32,51ral work showed that the $U$ value for Ce should be larger than $5 . 0 \\mathrm { e V } ^ { [ 2 5 , 2 6 , 3 4 ] }$ . In this work, we used the $U$ -value of $6 . 0 \\mathrm { e V }$ for $\\mathrm { C e }$ and $U _ { ☉ }$ -value of $8 . 0 \\mathrm { e V }$ and $J .$ -value of $0 . 6 5 \\mathrm { e V }$ for $\\mathsf { S m }$ ,consistent withtheother work[35-47lThe exchange-correlation efects were described with the Perdew Burke Ernzerhof (PBE) functional within the generalized gradient approximation (GGA)[36]. The calculated crystal latice constant from the $\\mathbf { G } \\mathbf { G } \\mathbf { A } + \\mathbf { \\nabla } U$ （20 method is $5 . 4 8 \\mathring { \\mathrm { A } }$ , in agreement with the experiment value of $5 . 4 1 \\mathring \\mathrm { A } ^ { [ 4 8 ] }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The formation energies of oxygen vacancies $E _ { \\mathrm { V o } }$ for $\\mathrm { C e O } _ { 2 - \\delta }$ systems, $E _ { \\mathrm { V o - S m } }$ for $\\mathrm { S m } _ { x } \\mathrm { C e O } _ { 2 - \\delta }$ systems and $E _ { \\mathrm { V o - C a S m } }$ for $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e O } _ { 2 - \\delta }$ systems can be defined as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { { \\scriptscriptstyle V _ { o } } - ( S m , C a S m ) } = E / X J + { \\frac { p } { 2 } } E / O _ { 2 } J - E / Y J\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $E [ X ]$ and $E [ Y ]$ are total energies of pure or doped $\\mathrm { C e O } _ { 2 }$ systems with and without oxygen vacancies, respectively. $E [ \\boldsymbol { \\mathrm { O } } _ { 2 } ]$ is the energy of one $\\mathbf { O } _ { 2 }$ molecule set in a $1 0 \\mathring { \\mathrm { A } } \\times 1 0 \\mathring { \\mathrm { A } } \\times 1 0 \\mathring { \\mathrm { A } }$ supercell, and $p$ is the number of oxygen vacancies. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Geometric structures ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Model structures with the lowest energies are obtained. The $\\mathbf { V } _ { 1 } { - } \\mathbf { S } \\mathbf { m } ^ { 3 + } { - } \\mathbf { V } _ { 2 }$ structures where there is a diagonal position relationship of the face between $\\mathrm { \\Delta V _ { 1 } }$ and $\\mathrm { \\Delta V } _ { 2 }$ both nearest to $\\mathrm { S m } ^ { 3 + }$ have the lowest energy configurations, consistent with the case of pure $\\mathrm { C e O } _ { 2 }$ systems with double oxygen vacancies[8]． The introduction of $\\mathrm { S m } ^ { 3 + }$ ， $\\mathrm { C a } ^ { 2 + }$ and oxygen vacancies into ${ \\mathrm { C e O } } _ { 2 }$ can produce obvious geometric distortions, consistentwiththeotherwork[251l.Geometricstructuresof CeO19688，Smo.0312Ce0.9688O1.9688, Smo.0312Ce0.9688O1.9375,Smo.0312Cao.031Ceo.9376O.9688and Smo.031Cao.0312Ceo.9376O1.9375systemsas examplesare displayed in Fig. 2. Geometric structures of $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ with other oxygen vacancy and doping concentrations have a similar geometric distortion. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is well known that the oxygen vacancy is an area of effective positive potential, hence,the neighboring $0 ^ { 2 \\cdot }$ move toward the vacancy, and the neighboring ${ \\mathrm { C e ^ { 4 + } } }$ move away from the vacancy. From Fig. 2a of the CeO1.9688 system, we can see that three of four $O ^ { 2 - }$ near the oxygen vacancy move toward it and another $O ^ { 2 - }$ （202 moves away from it. From the following electronic structures (see detail discussion on electronic structures), it is known that this $0 ^ { 2 \\cdot }$ is bridged by two ${ \\mathrm { C e } } ^ { 3 + }$ which have larger negative potential than that of ${ \\mathrm { C e ^ { 4 + } } }$ . From Fig. 2b of the Smo.0312Ceo.9688O1.9688 system,itis similar to the CeO1.968s system in Fig.2a and the difference is that one of two ${ \\mathrm { C e } } ^ { 3 + }$ is $\\mathrm { S m } ^ { 3 + }$ , namely, the neighboring $0 ^ { 2 \\cdot }$ move toward the vacancy, and the neighboring ${ \\mathrm { C e ^ { 4 + } } }$ and $\\mathrm { S m } ^ { 3 + }$ move away from the vacancy. From Fig. 2c of the Smo.0312Ceo.9688O1.9375 system,we can see that the movements of four $O ^ { 2 - }$ toward two vacancies and two $O ^ { 2 - }$ toward $\\mathrm { S m } ^ { 3 + }$ resulted from the common attraction of $\\mathbf { V } _ { 1 }$ and $\\mathrm { \\Delta V } _ { 2 }$ to $O ^ { 2 - }$ , namely, an $O ^ { 2 - }$ bridged by $\\mathrm { S m } ^ { 3 + }$ and ${ \\mathrm { C e } } ^ { 3 + }$ is not repelled, different from the systems with one Oxygen vacancy. From Fig. 2d of the Smo.0312Cao.0312Ceo.9376O1.9688 system, four $O ^ { 2 - }$ near the oxygen vacancies can be driven toward the vacancy and the neighboring ${ \\mathrm { C e ^ { 4 + } } }$ move away from the vacancy. The Smo.0312Cao.0312Ceo.9376O1.9375 system in Fig.2e is similar to the Smo.0312Ceo.9688O1.9375 system inFig. 2c. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a8941ccf49c910b795ae57e33c0ab32f46cc792e5449108d01471ed345851ee.jpg",
+        "img_caption": [
+            "Fig.2.Optimzed geometricstructures of the CeO968 (a),Smo.31Ce.968sO968 (),Smo.03Ce968O975 (c), Smo.0312Ca0.0312Ce0.9376O1.9688 (d) and Sm0.0312Ca0.0312Ce0.9376O1.9375 (e) systems. Arrow directions indicate moving ones of ions "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Oxygen vacancy formation energies ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6409ea6423f0cdb58e6e3ffe086fff53a4910e11763ddde06f317203e47c913a.jpg",
+        "table_caption": [
+            "Table1. Oxygen Vacancy Formation Energies (Unit: eV) of $\\mathbf { \\mathit { E v } _ { 0 } }$ for $\\mathbf { C e O } _ { 2 \\cdot \\delta }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"9\">Evo-Sm for SmxCe1-rO2-s andEvo-CaSm for SmxCayCe1-x-yO2-δ</td></tr><tr><td colspan=\"2\">CeO2-8 Evo</td><td colspan=\"3\">SmxCe1-rO2-δ</td><td colspan=\"4\">SmxCayCe1-x-yO2-δ</td></tr><tr><td colspan=\"2\">8</td><td>X</td><td>8</td><td>Evo-Sm</td><td>X</td><td>y</td><td>8</td><td>Evo-CaSm</td></tr><tr><td rowspan=\"3\">0.0312</td><td rowspan=\"3\">2.57</td><td>0.0312</td><td>0.0312</td><td>1.91</td><td rowspan=\"3\">0.0312</td><td>0.0312</td><td>0.0312</td><td>-1.56</td></tr><tr><td></td><td>0.0625</td><td>5.21</td><td></td><td>0.0625</td><td>-1.04</td></tr><tr><td></td><td>0.0625</td><td>0.11 0.0625</td><td></td><td>0.0625</td><td>-4.18</td></tr><tr><td rowspan=\"2\">0.0625</td><td rowspan=\"2\">2.56</td><td rowspan=\"2\">0.0625</td><td>0.125</td><td>1.84</td><td rowspan=\"2\">0.125</td><td rowspan=\"2\">0.0625</td><td>0.125</td><td>-1.53</td></tr><tr><td>0.125</td><td>1.19</td><td></td><td>-4.64</td></tr><tr><td rowspan=\"2\">0.125</td><td rowspan=\"2\">2.81</td><td rowspan=\"2\">0.125</td><td>0.250</td><td>1.88</td><td rowspan=\"2\"></td><td rowspan=\"2\">0.125</td><td>0.125 0.250</td><td>0.01</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">0.250</td><td rowspan=\"2\">3.66</td><td rowspan=\"2\">0.250</td><td>0.250</td><td>1.82</td><td rowspan=\"2\">0.250</td><td rowspan=\"2\">0.250</td><td>0.250</td><td>-0.54</td></tr><tr><td>0.50</td><td>5.56</td><td>0.50</td><td>3.08</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Oxygen vacancy formation energies of $E _ { \\mathrm { V o } }$ for $\\mathrm { C e O } _ { 2 - \\delta }$ systems, $E _ { \\mathrm { V o - S m } }$ for $\\mathrm { S m } _ { x } \\mathrm { C e } _ { 1 - x } \\mathrm { O } _ { 2 - \\delta }$ systems and $E _ { \\mathrm { V o - C a S m } }$ for $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems are listed in Table 1. $E _ { \\mathrm { V o } }$ monotonously increases with increasing $\\delta$ ，see Table1 andFig.3.For $\\mathrm { S m } _ { x } \\mathrm { C e } _ { 1 - x } \\mathrm { O } _ { 2 - \\delta }$ and $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems,we can find that $E _ { \\mathrm { V o - S m } }$ with a certain $x$ and $E _ { \\mathrm { V o - C a S m } }$ with certain $x$ and $y$ are large as $\\delta$ is large,and both with a certain $\\delta$ are small as $x$ or $x$ and y are large, see Table 1 and Fig.3. It need point out that the introduction of Ca and $\\mathrm { { S m } }$ makes the oxygen vacancy spontaneously form, similar to Fergus's study on the $\\operatorname { S m } .$ -doped $\\mathrm { C e O } _ { 2 }$ systems[49]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f83511effd0a67d5e5be60e6d29d58d51728ca5c7006ad1838b7d3b91ebfcbd.jpg",
+        "img_caption": [
+            "Fig.3.Variation of $E \\mathrm { v } _ { 0 } , E \\mathrm { v } _ { 0 } . \\mathrm { s } _ { \\mathrm { m } } ,$ ,and $E \\mathrm { v _ { 0 } . c a s _ { m } }$ as $\\pmb { \\delta }$ of corresponding CeO2-s, $\\mathbf { S m } _ { x } \\mathbf { C e } _ { 1 - x } \\mathbf { O } _ { 2 - \\delta }$ and $\\mathbf { S m } _ { x } \\mathbf { C a } _ { y } \\mathbf { C e } _ { 1 - x - y } \\mathbf { O } _ { 2 - \\delta }$ systems "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 Electronic structures ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When oxygen vacancies in ${ \\mathrm { C e O } } _ { 2 }$ are formed, the $\\mathrm { C e } 4 f$ state is split into two states: an empty $\\mathrm { C e 4 f _ { e m p t y } }$ state and an occupied defect $C e ^ { 3 + } 4 f _ { \\mathrm { f u l l } }$ state at the range of $\\mathrm { O } 2 p$ and $\\mathrm { C e 4 } f _ { \\mathrm { e m p t y } }$ ,consistent with our previous[25] and the other workl32l,see Fig.4.Total electronic densities of states (DOS), partial electronic densities of states (PDOS） and localization electronic densities of states (LDOS） from the defect state of ${ \\mathrm { C e } } ^ { 3 + }$ for various $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems with different $x , y$ and $\\delta$ are calculated, as shown in Figs. 4 and 5. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 Excess electrondistribution ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From the PDOS of $\\mathrm { C e } 4 f$ state for CeO1.9688, CeO1.9375,CeO1.875 and CeO1.75 systems in Fig. 4a, we can see that a new peak appears at the range of $- 1 . 2 { \\widetilde { \\phantom { } } } \\mathrm { \\widetilde { \\Gamma } } \\mathrm { \\widetilde { \\Gamma } } 0 \\mathrm { e V }$ for CeO1.9688, CeO1.9375, CeO1.875 systems and $- 0 . 8 0 \\sim$ $0 . 6 0 \\ \\mathrm { e V }$ for the $\\mathrm { C e O } _ { 1 . 7 5 }$ system, respectively， which are fully occupied by ${ \\mathrm { C e } } ^ { 3 + }$ electrons. Compared to the ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PDOS of $\\mathrm { C e } 4 f$ state for the $\\mathrm { C e O } _ { 1 . 7 5 }$ system, the Fermi level of the other systems approximately shift up by 0.50 eV,due to the decrease of oxygen vacancy concentration. Excess electrons arise from the oxygen vacancy and are localized on the $f$ level traps of its neighbor Ce, which can be visually recognized from the corresponding LDOS of the defect ${ \\mathrm { C e } } ^ { 3 + }$ state in Fig. 4b-e. These are consistent with theoretical studies for CeO1.9843, CeO1.9687, CeO1.9375 and $\\mathrm { C e O _ { 1 . 8 7 5 } } ^ { [ 4 3 ] }$ and $\\mathrm { C e O } _ { 2 } ( 1 1 1 )$ ,(110) and (100) surfaces[50]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b11c93fe603317df1c3e279cc9739597e8f6d9ee9aff1636c7049b14aab90eee.jpg",
+        "img_caption": [
+            "Fig.4.DOS of the $\\mathbf { C e O } _ { 2 }$ systems and PDOS of $\\mathbf { C e 4 } f$ state for CeO1.968s, CeO1.9375,CeO1.875 and $\\mathbf { C e O _ { 1 . 7 5 } }$ systems (a) and the corresponding LDOS (b)-(e) of the defect peaks.The isosurface is shown in green and is set to ${ \\bf 0 . 0 5 ~ e / \\mathring { A } }$ .Here,one primitive cell of various $\\mathbf { C e O } _ { 2 \\cdot \\delta }$ systems with a $2 \\times 2 \\times 2$ supercell is shown "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "From the PDOS of $\\mathrm { C e } 4 f$ state for ${ \\mathrm { S m } } _ { x } { \\mathrm { C e } } _ { 1 - x } { \\mathrm { O } } _ { 2 - \\delta } ( 0 . 0 3 1 2 { \\leqslant } x { \\leqslant } 0 . 2 5 , 0 . 0 3 1 2 { \\leqslant } \\delta { \\leqslant } 0 . 5 )$ systems,see Fig. 5a, similar to $\\mathrm { C e O } _ { 2 - \\delta }$ systems mentioned above, a new peak appears in the range of $0 2 p { \\sim } \\mathrm { C e } 4 f _ { \\mathrm { e m p t y } }$ From the corresponding LDOS of the defect ${ \\mathrm { C e } } ^ { 3 + }$ state, see Fig. 5c-j, we can see that excess electrons arise from oxygen vacancies and are localized on $f$ level traps of their neighbor Ce,like the case of $\\mathrm { C e O } _ { 2 - \\delta }$ systems[5, 26, 30, 32], For the Smo.0312Ceo.9688O1.9375 system,see Fig. 5j, there are two oxygen vacancies in the $2 \\times 2 \\times 2$ supercell, so they should induce four charge-compensation cations.However, the calculated result finds that there are three, maybe due to the existence of $\\mathbf { V } _ { 1 } { - } \\mathbf { S } \\mathbf { m } ^ { 3 + } { - } \\mathbf { V } _ { 2 }$ structure with a face diagonal position relationship in lower reduced atmosphere and then doped $\\mathrm { S m } ^ { 3 + }$ can restrain the reduction of $\\mathrm { C e ^ { 4 + } }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In order to better restrain excess electrons, $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ ? $\\phantom { + } 0 . 0 3 1 2 \\leqslant x \\leqslant 0 . 2 5$ ，0.0312≤y≤0.25, （20 $0 . 0 3 1 2 { \\leqslant } \\delta { \\leqslant } 0 . 5$ ） systems with various $x , y$ and $\\delta$ are explored. From the DOS of Fig. 5b of $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems, we can see that, except for the Smo.0625Cao.0625Ceo.875O1.875 system, $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems have no ${ \\mathrm { C e } } ^ { 3 + }$ . In other words, in order to avoid the existence of ${ \\mathrm { C e } } ^ { 3 + }$ $x$ and $y$ must be respectively larger than 0.0625 as （204号 $\\delta = 0 . 1 2 5$ or $\\delta$ must be smaller than 0.125 as $x = y = 0 . 0 6 2 5$ . For a series of $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems, from their corresponding LDOS of the defect ${ \\mathrm { C e } } ^ { 3 + }$ state in Fig. 5c-k,we can see that excess electrons arise from oxygen vacancies and are localized on $f$ level traps of their neighbor Ce,like the case of $\\mathrm { C e O } _ { 2 - \\delta } [ 5 , 2 6 , 3 0 , 3 2 ]$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/29e013f9352b66e43abb51ed1aed403fbc168453b8d68ea9f698e57de7e77e16.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac0d6500b1e720798321c3c6604fe7fd22d833bdfb3074058273782458e78f9b.jpg",
+        "img_caption": [
+            "Fig. 5. PDOS of $\\mathbf { C e 4 } f$ states for the $\\mathbf { S m } _ { x } \\mathbf { C e } _ { 1 - x } \\mathbf { O } _ { 2 - \\delta }$ 1 $\\mathbf { 0 . 0 3 1 2 leqslant } x { \\leqslant } 0 . 2 5$ $\\mathbf { 0 . 0 3 1 2 } { \\leqslant } \\delta { \\leqslant } \\mathbf { 0 . 5 } ,$ systems (a) andDOSof $\\mathbf { S m _ { \\mathrm { X } } C a _ { \\mathrm { y } } C e _ { 1 \\cdot x \\cdot y } O _ { 2 \\cdot \\delta } }$ 1 $( 0 . 0 3 1 2 \\leqslant x \\leqslant 0 . 2 5 , 0 . 0 3 1 2 \\leqslant y \\leqslant 0 . 2 5 , 0 . 0 3 1 2 \\leqslant \\delta \\leqslant 0 . 5 )$ systems (b) and the corresponding LDOS $( \\mathbf { c } ) \\sim ( \\mathbf { k } )$ of the defect peaks.Oxygen vacancies are represented by $\\mathbf { V _ { 1 } }$ and $\\mathbf { V } _ { 2 }$ The isosurface is shown in green and set to 0.05 e/A "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3.2Transitional area of $\\mathbf { C e ^ { 4 + } }$ to $\\mathbf { C e ^ { 3 + } }$ and $\\mathrm { C e } ^ { 3 + } / \\mathrm { C e } ^ { 4 + }$ change ratio $\\mathbf { k }$ for $\\mathbf { S m _ { \\mathrm { x } } C a _ { \\mathrm { y } } C e _ { 1 \\cdot x \\cdot y } O _ { 2 \\cdot \\delta } }$ systems with different oxygen vacancy and doping concentrations ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to visually understand transitional area of ${ \\mathrm { C e ^ { 4 + } } }$ to ${ \\mathrm { C e } } ^ { 3 + }$ for the $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems with various oxygen vacancy and doping concentrations, their transitional areas of ${ \\mathrm { C e ^ { 4 + } } }$ to ${ \\mathrm { C e } } ^ { 3 + }$ for the $\\mathrm { S m } _ { x } \\mathrm { C e } _ { 1 - x } \\mathrm { O } _ { 2 - \\delta }$ (Fig. 6a) and the $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems (Fig. 6b) are plotted. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/4619976595e596f9fb61f3f3691e069fedce1efec1b0835f06514b83456ec996.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/af1159dab38b814bd46786856b0b3b566997c4a8f999e6df3ae7b15996e8bb65.jpg",
+        "img_caption": [
+            "Fig.6.Transitional area of $\\mathbf { C e ^ { 4 + } }$ to $\\mathbf { C e ^ { 3 + } }$ and $\\mathrm { C e } ^ { 3 + } / \\mathrm { C e } ^ { 4 + }$ change ratio $\\pmb { k }$ for $\\mathbf { S m } _ { \\mathrm { r } } \\mathbf { C e } _ { 1 - x } \\mathbf { O } _ { 2 - \\delta }$ and $\\mathbf { S m } _ { \\mathbf { x } } \\mathbf { C a } _ { y } \\mathbf { C e } _ { 1 \\cdots y } \\mathbf { O } _ { 2 \\cdot \\delta }$ systems with different oxygen vacancy and doping concentrations "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "From Fig. 6a, we can see that no ${ \\mathrm { C e } } ^ { 3 + }$ exists for the $\\mathrm { S m } _ { x } \\mathrm { C e } _ { 1 - x } \\mathrm { O } _ { 2 - \\delta }$ systems with $x \\geqslant 0 . 1 6 7$ and $\\delta \\leqslant$ 0.0833 and ${ \\mathrm { C e } } ^ { 3 + }$ exists for the $\\mathrm { S m } _ { x } \\mathrm { C e } _ { 1 - x } \\mathrm { O } _ { 2 - \\delta }$ systems with $x \\leqslant 0 . 0 3 1 2$ and $\\delta \\geqslant 0 . 0 3 1 2$ ， $x \\leqslant 0 . 0 6 2 5$ and $\\delta$ （204 $\\geqslant \\ 0 . 0 6 2 5$ ， $x \\leqslant 0 . 1 2 5$ and $\\delta \\geqslant 0 . 1 2 5$ ， $x \\leqslant 0 . 1 6 7$ and $\\delta \\geqslant 0 . 1 6 6$ ，and $x \\leqslant 0 . 2 5 0$ and $\\delta \\geqslant 0 . 2 5 0$ For the $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ system as $\\mathrm {  ~ y ~ } { \\ne } \\mathrm {  ~ 0 ~ }$ , the substitution of $\\mathrm { C e ^ { 4 + } }$ by $\\mathrm { C a } ^ { 2 + }$ makes two excess electrons and the substitution of ${ \\mathrm { C e ^ { 4 + } } }$ by $\\mathrm { S m } ^ { 3 + }$ makes one excess electron. Based on the case， for convenience of totally reflecting the effect of the doping concentration on the transition ratio of ${ \\mathrm { C e ^ { 4 + } } }$ to $\\mathrm { C e ^ { 3 + } }$ ,the doping effect of one $\\mathrm { C a } ^ { 2 + }$ is transformed to that of two $\\mathrm { S m } ^ { 3 + }$ , in which the ionic radius of doping $\\mathrm { C a } ^ { 2 + }$ and $\\mathrm { S m } ^ { 3 + }$ is omitted, and its corresponding transitional area of ${ \\mathrm { C e ^ { 4 + } } }$ to ${ \\mathrm { C e } } ^ { 3 + }$ is plotted in Fig. 6b. From Fig. 6b,we can see that no ${ \\mathrm { C e } } ^ { 3 + }$ （202 exists for the $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems with $x \\geqslant 0 . 0 9 3 6$ and $\\delta \\leqslant 0 . 0 6 2 5$ ， $x \\geqslant 0 . 3 3 4$ and $\\delta \\leqslant 0 . 1 6 6 , x$ $\\geqslant 0 . 3 7 5$ and $\\delta \\leqslant 0 . 2 5 0$ ，and $_ x \\geqslant 0 . 7 5 0$ and $\\delta \\leqslant 0 . 5 0$ and ${ \\mathrm { C e } } ^ { 3 + }$ exists for the $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems with $x \\leqslant 0 . 1 8 7$ and $\\delta \\geqslant 0 . 1 2 5$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { C e ^ { 3 + } / C e ^ { 4 + } }$ change ratio $k$ in $\\mathrm { S m } _ { x } \\mathrm { C e } _ { 1 - x } \\mathrm { O } _ { 2 - \\delta }$ systems with various oxygen vacancy and doping concentrations are studied, as shown in Fig. 6c. From Fig. 6c,we can see that $k$ has obvious monotonous increase with increasing the vacancy concentration，and the introduction of $\\mathrm { S m } ^ { 3 + }$ reduces $k$ ，such as Sm0.0312Ce0.9688O1.9375，Sm0.0625Ce0.9375O1.875，Sm0.15Ce0.875O1.75，Sm0.166Ce0.834O1.68andSm0.5C075O5 systems, namely, the introduction of $\\mathrm { S m } ^ { 3 + }$ restrains the reduction of ${ \\mathrm { C e ^ { 4 + } } }$ to $\\mathrm { C e ^ { 3 + } }$ . It need be pointed out that $\\mathrm { S m } _ { 0 . 2 5 } \\mathrm { C e } _ { 0 . 7 5 } \\mathrm { O } _ { 1 . 5 }$ system can be thought of as $\\mathsf { S m }$ -doped $\\mathrm { C e } _ { 2 } \\mathrm { O } _ { 3 }$ ,because of no unoccupied defect states between the occupied ${ \\mathrm { C e } } ^ { 3 + }$ states and the unoccupied $\\mathrm { C e 4 } f _ { \\mathrm { e m p t y } }$ ， see Fig. 5a, in accordance with other theoretical work[51-53]. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4 CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this work, the influence of $\\mathrm { S m } ^ { 3 + }$ single-doping or $\\mathrm { C a } ^ { 2 + }$ and $\\mathrm { S m } ^ { 3 + }$ co-doping, oxygen vacancies and their concentrations on the geometric and electronic structures of $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems are studied.Results for the geometric structures show that the $\\mathbf { V } _ { 1 } { - } \\mathbf { S } \\mathbf { m } ^ { 3 + } { - } \\mathbf { V } _ { 2 }$ structures where there is a position relationship of diagonal of the face between $\\mathrm { V } _ { 1 }$ and $\\mathrm { \\Delta V } _ { 2 }$ both nearest to $\\mathrm { S m } ^ { 3 + }$ are easily obtained,in agreement with the case of pure $\\mathrm { C e O } _ { 2 }$ systems. Study for electronic structures finds that the oxygen vacancies are contributed to excess electrons and these electrons are localized on $f$ -level traps of its neighbor Ce for the $\\mathrm { S m } _ { x } \\mathrm { C a } _ { y } \\mathrm { C e } _ { 1 - x - y } \\mathrm { O } _ { 2 - \\delta }$ systems. The $\\mathrm { C e ^ { 3 + } / C e ^ { 4 + } }$ change ratio $k$ is related with the dopant and oxygen vacancy concentrations. In addition, the existence of $\\mathbf { V } _ { 1 } { - } \\mathbf { S } \\mathbf { m } ^ { 3 + } { - } \\mathbf { V } _ { 2 }$ structure with face diagonal position relationship in lower reduced atmosphere maybe makes the doped $\\mathrm { S m } ^ { 3 + }$ restrain the reduction of $\\mathrm { C e ^ { 4 + } }$ . It need be pointed out that $\\mathrm { S m } _ { 0 . 2 5 } \\mathrm { C e } _ { 0 . 7 5 } \\mathrm { O } _ { 1 . 5 }$ system can be thought of as $\\mathsf { S m }$ -doped $\\mathrm { C e } _ { 2 } \\mathrm { O } _ { 3 }$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1)Bre,oe (2)RzEi Ceria.Solid StateIonics1998,113,565-569.   \n(3)Park,S.;VsJ;Gorte,R.irectoidatioofhdrocabosioldoxidefuecellNature(Ldon)66.   \n(4)Molinar,k.lateoosoableod of ceria.J.Phys. Chem.C2012,116,7073-7082.   \n(5)ugen 137, 044705.   \n(6)Allen,J.P.；Watson,G.W. Occupation matrix control of $d .$ and $f$ electron localisations using DFT $+ \\ U$ .Phys.Chem.Chem.Phys.2014，16, 21016-21031.   \n(7) Steele,B.C.H. Appraisal of $\\mathrm { C e _ { 1 \\mathrm { - } y } G d . }$ $\\mathrm { \\bf O } _ { 2 \\cdot y / 2 }$ electrolytes for IT-SOFC operation at $5 0 0 \\ \\mathrm { ~ \\textdegree ~ }$ .Solid State Ionics2000,129,95-110.   \n(8) Ismail,A.; Hooper, J.; Giorgi,J.B.A DFT $+ \\mathrm { ~ U ~ }$ study of defect association and oxygen migration in samarium-doped ceria.Phys. Chem. Chem.Phys. 2011,13,6116-6120.   \n(9)Suparna,B.;Parukuttyamma,S.D.; Dinesh,T.S.M.; Krishnakumar,M.Enhanced ionic conductivity in $\\mathrm { C e _ { 0 . 8 } S m _ { 0 . 2 } O _ { 1 . 9 } }$ ：unique effect of calcium Co-doping.Adv.Funct.Mater 2007,17,2847-2854.   \n(10)Wang,F.Y.; Cheng, S. $\\mathrm { G d ^ { 3 + } }$ and $\\mathrm { S m } ^ { 3 + }$ co-doped ceria based electrolytes for intermediate temperature solid oxide fuel cels.Electrochem.Commun. 2004,6, 743-746.   \n(11)Kim,No (12） Mori, T.； Yamamura,H. Preparation of an alkali-element or alkali-earth-element-doped $\\mathrm { C e O } _ { 2 } { \\cdot } \\mathrm { S m } _ { 2 } \\mathrm { O } _ { 3 }$ system and its operation properties as the electrolyte in planar solid oxide fuel cels.J. Mater. Synth.Process1998,6,175-179.   \n(13)Vn.;d 1996, 86,1255–1258.   \n(14)Yang 2014, 8,12494–12501.   \n(15)Ruiz-TrejoE.;Sirman,J.D.; Baikov,Y.M.; Kilner,J.A.Nanoparticlesand nanoceramicsof Y-doped $\\mathrm { C e O } _ { 2 }$ .Solid State Ionics1998,113,565-571. (16)YoshidaHcuaKtifacuiidrcuofdbl doped ceria compounds using EXAFS measurement.Solid State Ionics 2001,140,191-199.   \n(17)Anderssona;daatioocouctiviodcaro.atcd 3518-3521.   \n(18)Yin,YH;iaeddure.J 2005, 03,317–322.   \n(19)Mogensen,M.;Lindegaard,T.;Hansen,U.R.Physicalpropertiesofmixedconductorsolidoxidefuelcellanodesofdoped $\\mathrm { C e O } _ { 2 }$ J.Electrochem. Soc. 1994, 141, 2122-2126.   \n(20)Wei,X.;Pan,W.;Cheng,L.Atomisticcalculationofasociatioenergyindopedceria.SlidStateIoicso,017.   \n(21)FrayretCucd;atasituallatocsetsyi ceria-based materials.Int. J. Quantum Chem.2005,101,826-839.   \n(22)Nakayaaartististstgatisdirata Chem.Phys.2009,11,3241-3249.   \n(23）GrinterDorcuot)ocfroali microscopy.J.Phys.Chem.C2010,114,17036-17041.   \n(24)Nolan,M.;FroJ.E.;WatsonGygecancyfoatiodigatioia.oldtateics,6074.   \n(25)Jia,G X;HaoW.X.;Pan,F;Yang,J.C.; ZhangY.FElectronicstructuresandoygeninmigrationenergiesoftaldoped $\\mathrm { C e O } _ { 2 }$ systems: a DFT $+ U$ study. Acta Chim. Sinica 2013,71,1668-1675.   \n(26)Wu,T.W.;Jia,G X.;BaoJ.X.;LiuY.Y.;An,S.L.Electronicstructuresandoxygenion migrationsoftheCaOorBaOand $\\mathrm { S m } _ { 2 } \\mathrm { O } _ { 3 }$ co-doped $\\mathrm { C e O } _ { 2 }$ System: A DFT $+ \\mathrm { ~ U ~ }$ Study.Chin.J.Inorg.Chem.2016,32,1363-1369.   \n(27)YioHc Solid Stale Ionics 1989,36,71-75.   \n(28)Kumar,A.;eviP.aitioaroachteloseacalchitesintedraicsiygoucti Chem. Mater.2004,16,5562-5563.   \n(29) Banerjee,S.P.; Devi,S. Sinter-active nanocrystalline $\\mathrm { C e O } _ { 2 }$ powder prepared by a mixed fuel process: effect of fuel on particle agglomeration. J. Nanoparticle Res.2007,9,1097-1107.   \n(30)Murgida,GE.;Ferrari,V.; Ganduglia,PM.V.Orderingofoxygenvacanciesandexcesschargelocalizationinbulkceria:aDFT $+ \\mathrm { ~ U ~ }$ study. Phys. Rev. B 2014,90,115120/1-10.   \n(31) Zhang,C.; Michaelides,A.; King,D.A.; Jenkins,S.J.Oxygen vacancy clusters on ceria:decisive roleof cerium $f$ electrons.Phys.Rev.B2009,79, 075433/1-11.   \n(32)GracianiJto;;ataOeC.coii performance of hybrid DFT functionals in highly correlated oxides: the case of $\\mathrm { C e O } _ { 2 }$ and $\\mathrm { C e } _ { 2 } \\mathrm { O } _ { 3 }$ .J.Chem.Theory Comput.2011,7,56-65.   \n(3)Hopi genetic algorithm study.Phys.Chem. Chem.Phys.2010,12,12969-12972.   \n(34)Kresse,Gladucbis Sci. 1996,6,15–50.   \n(35）Delfina,G.P.； Alfredo,J.； Beatriz,I. Mn-doped $\\mathrm { C e O } _ { 2 }$ ：DFT $+ \\textrm { \\scriptsize U }$ study of a catalyst for oxidation reactions.J.Phys. Chem. C 2013,117, 18063-18073. (36)Perdew,J.;urke,K.;Ezerof,.Geeraledgadietapproximatiomadesimple.Pys.Rev.Lett996,7,865867.   \n(37) Castleton, C.W.; Kullgren,J.; Hermansson,K. Tuning DA $. +$ U for electron localization and structure at oxygen vacancies in ceria.J. Chem. Phys. 2007,127,244704/1-11.   \n(38)Loschen,C.;Carrasco,J.;Neyman,K.M.Ilas,F.First-principles $\\mathrm { L D A + U }$ and $\\mathrm { G G A + U }$ study of cerium oxides:Dependence on the effective U parameter. Phys. Rev. B 2007,75,035115/1-8.   \n(39)Nolan,M.;Parker,S.C.;Watson,GW.ReductionofNO2onceria surfaces.J.Phys.Chem.B206,110,256-2262.   \n(40)Nolan,M.;Watson,G.W.ThesurfacedependenceofCOadsorptiononceria.J.Phys.Chem.B2006,110,660016606.   \n(41)Nolan,M.; Parker, S.C.;Watson,G.W. $\\mathrm { C e O } _ { 2 }$ catalysed conversion of CO, $\\mathbf { N O } _ { 2 }$ and NO from first principles energetics.Phys. Chem. Chem.Phys. 2006,8,216-218.   \n(42)Scanlon,D.O.; Galea,N.M.; Morgan,B.J.;Watson,G.W.Reactivity on the(110)surface of ceria: a $\\mathbf { G } \\mathbf { G } \\mathbf { A } { + } U$ study of surface reduction and the adsorption of CO and $\\mathbf { N O } _ { 2 }$ .J.Phys.Chem.C 2009,113,11095-11103.   \n(43）Keating,P.R.L.; Scanlon,D.O.；Watson,G W. Intrinsic ferromagnetism in $\\mathrm { C e O } _ { 2 }$ :dispelling the myth of vacancy site localization mediated superexchange.J.Phys. Condens. Mat. 2009,21,405502/1-6.   \n(44)Ddarev;de on $\\mathrm { C o } _ { 3 } \\mathrm { O } _ { 4 }$ (001) surface.Phys.Rev.B1998,57,1505-1517.   \n(45)Larson,P.W.;Lambrecht,R.L;Chantis,A.N.;Schilfgaarde,V.M.Electronicstructureofrare-earth nitridesusingthe $\\mathrm { L S D A } { + } U$ approach: importance of allowing $4 f$ orbitals to break the cubic crystal symmetry.Phys.Rev.B 2007,75,O45114/1-14.   \n(46)Dorado,B.; Jomard,G.; Freyss,M.; Bertolus,M. Stability of oxygen point defects in $\\mathrm { U O } _ { 2 }$ by first-principles DFT $^ +$ U calculations: occupation matrix control and Jahn-Teller distortion.Phys.Rev.B 2010,82,035114/1-11.   \n(47)Feng,J.; Xiao,B.; Wan, C.L.Electronic structure,mechanical properties and thermal conductivity of $\\mathrm { L n } _ { 2 } \\mathrm { Z r } _ { 2 } \\mathrm { O } _ { 7 }$ (Ln $\\mathbf { \\tau } = \\mathbf { \\tau }$ La,Pr, Nd, Sm, Eu and Gd) pyrochlore.Acta Mater.2011,59,1742-1760.   \n(48)Monkhorst,H.J.;Pack,J.D.Special points for Brilluin-zone integrations.Phys.Rev.B1976,13,5188-5192.   \n(49)Fergus,J.W.Recentdevelopments incathode materials forlithiumionbateries.J.Power Sources20o6,189,0-36.   \n(50)Nolnkocucaetteuf 223-232.   \n(51)SilvaD.eaeai Rev. B 2007,75,045121/1-10.   \n(52)Skoroduoaak.os;o,istctcingica $\\mathrm { C e O } _ { 2 }$ and $\\mathrm { C e } _ { 2 } \\mathrm { O } _ { 3 }$ from first principles.Phys.Rev. B 2001,64,115108/1-9.   \n(53)Andersson,D.A.; Simak, S.I; Johansson,B.; Abrikosov,I.A.; Skorodumova,N.V. Modeling of $\\mathrm { C e O } _ { 2 }$ $\\mathrm { C e } _ { 2 } \\mathrm { O } _ { 3 }$ ,and $\\mathrm { C e O } _ { 2 - x }$ in the $\\mathrm { L D A } { + } U$ formalism. Dl... D A D200775 025100/1 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Transitional Area of $\\mathbf { C e ^ { 4 + } }$ to $\\mathbf { C e ^ { 3 + } }$ in $\\mathbf { S m } _ { x } \\mathbf { C a } _ { y } \\mathbf { C e } _ { 1 - x - y } \\mathbf { O } _ { 2 - \\delta }$ with Various Doping and Oxygen Vacancy Concentrations: A $\\mathbf { G } \\mathbf { G } \\mathbf { A } + U$ Study ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "WU Tong-Wei(吴铜伟） JIA Gui-Xiao(贾桂霄)WANG Xiao-Xia(王晓霞） LI Lei(李磊） AN Sheng-Li(安胜利)",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2efe66854154084e5b6f9114071fe3805c83e92c21b0c4e45c3b60bcafcc660.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { C e ^ { 3 + } / C e ^ { 4 + } }$ change ratio $k$ has obvious monotonous increase with increasing the vacancy concentration. The introduction of $\\mathrm { S m } ^ { 3 + }$ reduces $k$ . It need be pointed out that the $\\mathrm { S m } _ { 0 . 2 5 } \\mathrm { C e } _ { 0 . 7 5 } \\mathrm { O } _ { 1 . 5 }$ system can be thought of as Sm-doped $\\mathrm { C e } _ { 2 } \\mathrm { O } _ { 3 }$ ",
+        "page_idx": 15
+    }
+]

@@ -1,0 +1,553 @@
+[
+    {
+        "type": "text",
+        "text": "咸水灌溉条件下塔里木河下游沙漠土壤水盐运移数值模拟 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王世明1,2.3,4，范敬龙1,2.3.4，赵英5，张涛涛1,2,3,4，李生宇1,2,3,4(1.中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011；2.中国科学院新疆生态与地理研究所莫索湾沙漠研究站,新疆石河子832000；3.中国科学院新疆生态与地理研究所塔克拉玛干沙漠研究站,新疆 库尔勒 841000；4.中国科学院大学,北京100049；5.鲁东大学,山东 烟台 264039)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在塔里木河下游沙漠地区防护林建设过程中，地下咸水灌溉条件下土壤剖面水盐变化明显,且存在一定的规律性。为掌握土壤垂向水盐动态，建立数值模型是十分高效的手段,通过重建土壤剖面的水盐动态过程，可揭示高盐环境下土壤水盐运移规律，服务防护林生态工程建设和后续可持续灌溉管理。通过HYDRUS-1D模拟防护林建设初期不同矿化度地下水灌溉条件下土壤水盐分布特征和时间变化，并根据实测的土壤水盐数据，优化土壤水分特征参数，评价模型的适用性。结果表明：表层( $\\mathrm { 0 } { \\sim } 3 0 \\mathrm { c m } \\ '$ 土壤含水量和含盐量受灌溉影响大，数值波动剧烈，且土壤盐分表聚强烈；深层（ $5 0 { \\sim } 1 5 0 ~ \\mathrm { c m } ,$ 则受灌溉的影响小，数值波动小。数值模型模拟值与实测值吻合，能较好地反映土壤水盐运移情况，建立的模型可用于模拟不同矿化度灌溉条件下塔里木河下游流动沙漠地区土壤水盐运移状况，为该地区生态防护林建设提供理论基础和技术支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：咸水灌溉；土壤水盐运移；HYDRUS-1D模型；塔里木河下游 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "格(尔木)库(尔勒)铁路是中国通往西亚、地中海和黑海地区的陆运大通道，对国民经济发展和巩固国防意义重大。铁路穿越塔里木河下游生态脆弱区[-2],风沙活动强烈，需要建设生态防护林以确保铁路安全运行，但由于该区域水资源尤其是地表水优先用于农业生产。而地下水受蒸发和排泄过程影响，矿化度很高，几乎无法直接用于常规的植物灌溉，利用这种劣质的地下水灌溉超耐盐灌木，是该地区防护林建设的重要技术途径。研究表明，咸水灌溉对大多数荒漠植物的生长有显著的抑制作用[3-4],高盐水灌溉更会导致植物死亡[5]。目前，国内外学者已经针对咸水灌溉做了大量研究，内容涉及土壤物理、化学和生物[6-8],也包含对土壤水盐运移及盐分分布的分析[9-\"]。但以往研究主要集中在矿化度小于 $5 ~ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ 的咸水,最大不超过 $3 0 \\ \\mathrm { g \\cdot L } ^ { - 1 }$ ，对于 $3 0 \\ \\mathrm { g \\cdot L } ^ { - 1 }$ 以上咸水灌溉的研究，几乎没有涉及，而高盐灌溉环境下土壤的粘滞系数、弥散度均在一定程度上增加，土壤水盐运移规律与低盐情况也会有不同。而根据实测，拟建防护林区地下水TDS(溶解性固体总量)普遍超过 $3 0 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ ,最高时可达 $5 0 \\sim$ $7 0 \\ \\mathrm { g } \\bullet \\mathrm { L } ^ { - 1 }$ 以上。因此，从地下水利用的角度考虑，探讨土壤剖面水盐分布特征，对荒漠区地下咸水资源的高效利用及耐盐碱荒漠植物的栽培管理，具有深远意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "建立水盐运移模型是分析土壤水盐运移的重要手段之一，相比于传统的野外测量，使用模型模拟水盐规律能够节省大量的人力物力。目前，国内外广泛应用的几种土壤水盐运移模型有HYDRUS、PROFLOW、WAV-ES、2DFATMIC、SHAW等。其中，HYDRUS-1D模型是由美国盐改中心开发的免费用于模拟变饱和多孔介质水分、热量、溶质迁移的模型程序[12],能够结合大气过程(蒸散、降雨、灌溉)、土壤水分及溶质运移、热量、植物根系吸水等过程进行综合模拟。近年来，HYDRUS软件被广泛应用于模拟不同土地利用方式下的土壤水分运动[13-15]和溶质运移[16-17]等,并被证明有很好的适用性和有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以不同矿化度地下水滴灌条件下，夏秋两季各一个完整灌水周期的土壤水分实测数据以及夏秋两季灌溉周期末土壤剖面盐分数据为基础，结合当地的气象、灌溉、植被情况，运用HYDRUS-1D模型对怪柳(TamarixchinensisLour.)滴灌带内土壤水盐运移过程进行了模拟，通过对模拟值与实测值比较分析，验证了模型的可靠性和精度。研究结果可以为该区域防护林工程建设提供理论依据和有效的技术支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于塔里木盆地东北缘农二师三十三团格库铁路沿线沙漠中，地理位置 $4 0 ^ { \\circ } 4 5 ^ { \\prime } \\mathrm { N } , 8 7 ^ { \\circ } 1 8 ^ { \\prime } \\mathrm { E }$ (图1)。该地区年平均气温 $1 2 \\ \\mathrm { { ^ circ C } }$ ,极端最高气温可达 $4 4 . 3 ~ \\mathrm { { ‰} }$ ，极端最低气温则超过 $- 3 0 . 9 \\mathrm { ~ \\textdegree C }$ ,年平均降水量 $2 4 . 7 { \\sim } 5 4 . 1 \\ \\mathrm { m m }$ ,年潜在蒸发量 $2 0 0 0 { \\sim } 3 0 0 0 ~ \\mathrm { m m }$ 。每年4一7月为风季，主导风向以东风、东北风为主，年平均风速 $1 . 6 { \\sim } 3 . 2 \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，最大风速 $1 3 . 3 { \\sim } 2 0 . 5 \\ \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 }$ 。试验区土壤质地属于砂土，试验期间地下水埋深在$4 . 2 5 { \\sim } 4 . 6 5 \\mathrm { m }$ 之间波动。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用田间控制试验，在怪柳种植试验区林地内进行。试验区设有水源井，用于地下水位监测与抽水灌溉。为研究不同高矿化度咸水灌溉对植物和土壤的影响，对当地地下水进行淡化处理，使用滴灌造林。灌水矿化度梯度分4个( $\\cdot 1 0 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ ,25$\\mathbf { g } \\cdot \\mathbf { L } ^ { - 1 }$ . $4 0 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ ,原水）,其中原水指无处理地下水。灌溉水的矿化度稳定性如图2所示，除原水变化幅度较大外 $\\left( 3 3 . 3 2 { \\sim } 5 4 . 1 4 ~ \\mathrm { g \\cdot { L } ^ { - 1 } } \\right)$ ，淡化设备基本可以将灌溉水稳定性维持在图2所示的矿化度水平上。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4827e1821b34016ca94290ab6acd030864671d16f99030f0800e1652da21b7f4.jpg",
+        "img_caption": [
+            "图1研究区示意图",
+            "Fig.1 Geographical location of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/eba4ef43baa026516b8a2058ff9d6aacfafa62bfa7245f924cae01eb1127a6af.jpg",
+        "img_caption": [
+            "图2试验期间灌溉水矿化度监测 Fig.2Monitoring of irrigation water salinity during the experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "野外监测时间为2019年5月30日至2019年9月20日。监测指标包括怪柳根系分布、株高、叶面积指数、土壤含水量、土壤电导率( $\\mathrm { E C } _ { 1 : 5 }$ ）、地下水位、地下水电导率和气象数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根系密度的空间分布采用生长季末根系整体挖掘取土，洗根烘干分层称重来确定，重复3次。采用中子土壤水分仪测定土壤水分含量，将中子仪测点置于滴头下方，监测深度范围为 $0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ （本文选用土层深度分别为 $1 5 \\ \\mathrm { c m } \\cdot 3 0 \\ \\mathrm { c m } \\cdot 5 0 \\ \\mathrm { c m } \\cdot 9 0 \\ \\mathrm { c m }$ 处的土壤水分含量作为本文模型验证数据)。土壤电导率通过土钻分层取样（测定深度为 $0 { \\sim } 1 6 0 \\ \\mathrm { c m } , 2 0$ cm一层），1:5土水比测定( $\\mathrm { E C } _ { 1 : 5 }$ ），使用Excel拟合公式将电导率值转化为含盐量，8月1日和9月20日（2次灌溉周期末)为取样时间，对土壤进行分层取样，重复3次。滴灌带滴头间距为 $6 0 ~ \\mathrm { c m }$ ，滴头流量为$3 . 8 \\mathrm { L } { \\cdot } \\mathrm { h } ^ { - 1 }$ ,滴灌带间距 $2 . 5 \\mathrm { m }$ ,滴灌带长度可达 $1 0 0 \\mathrm { m }$ 单次连续灌水 $^ { 8 \\mathrm { h } }$ ,滴灌湿润宽度可达 $6 5 \\mathrm { c m }$ ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数值模拟 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用HYDRUS-1D软件模拟2019年的土壤水盐",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运移情况，模拟土层深度范围为 $0 { \\sim } 1 6 0 ~ \\mathrm { c m }$ 。模拟时段从2019年5月30日至9月30日，共计124d，使用7月22日至8月1日和9月10日至9月20日2个灌水周期的实测土壤水分数据、8月1日和9月20日土壤剖面盐分含量实测数据对模型进行验证。初始时间步长设为0.001d，最大时间步长为 $0 . 5 \\textup { d }$ 。最大迭代次数设置为10，允许程序在时间步长范围内对时间步长自动调整。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用VanGenuchten-Mualem模型作为土壤水分特征曲线模型。将灌水周期前测定的土壤水分、电导率作为初始条件输入模型。根据当地的气候情况、灌水情况，确定模拟土体的上边界为开放的大气边界，接受灌溉补给、土面蒸发、降水等，潜在蒸发量 $\\mathrm { E T _ { 0 } }$ 根据FAO推荐的Penman-Monteith公式由气象数据和叶面积指数计算得到。研究区地下水位在$4 . 2 5 { \\sim } 4 . 6 5 \\ \\mathrm { m }$ 之间浮动，根据周宏、郑博文等[18-19]的研究,砂土的毛管水上升高度在潜水层以上 $1 2 0 ~ \\mathrm { c m }$ ，因而地下水对模拟土体 $( 0 { \\sim } 1 6 0 ~ \\mathrm { c m } )$ 几乎无影响，故下边界条件设定为自由排水。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1水分运动模型本次模拟运用Richards方程描述变饱和区一维垂直方向上的土壤水分运动：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\theta } { \\partial t } = \\frac { \\partial } { \\partial z } \\biggl [ K ( h ) ( \\frac { \\partial h } { \\partial z } + 1 ) \\biggr ] - S ( z , t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\theta$ 为体积含水量 $( \\mathrm { c m } ^ { 3 } \\cdot \\mathrm { c m } ^ { - 3 } )$ ；t为时间 $( \\mathrm { d } ) { \\boldsymbol { \\mathsf { \\Pi } } } _ { 3 } z$ 是垂直方向的土壤深度坐标 $( \\mathrm { c m } )$ ,取地表为原点，向下为正； $K ( h )$ 为导水率( $\\left( \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 } \\right)$ ; $h$ 为负压水头 $( { \\mathrm { c m } } ) ; S$ 为源汇项，主要用来描述根系吸水情况 $\\left( \\mathrm { c m } ^ { 3 } { \\cdot } \\mathrm { c m } ^ { - 3 } { \\cdot } \\mathrm { d } ^ { - 1 } \\right)$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "非饱和土壤水力学参数描述如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta \\left( h \\right) = \\left\\{ \\begin{array} { l l } { \\theta _ { { r } } = \\displaystyle \\frac { \\theta _ { { s } } - \\theta _ { { r } } } { \\left( 1 + \\left| a h \\right| ^ { n } \\right) ^ { m } } , h < 0 } \\\\ { \\theta _ { { s } } , h > 0 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK ( h ) = K _ { s } S _ { e } ^ { l } \\big [ 1 - \\big ( 1 - S _ { e } ^ { 1 / m } \\big ) \\big ] ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\theta _ { s } \\mathcal { \\theta } _ { \\mathfrak { n } }$ 分别是指饱和含水量和残余含水量( $\\mathrm { c m } ^ { 3 }$ ·$\\mathrm { c m } ^ { - 3 }$ ； $\\boldsymbol { a } , m , n$ 为经验参数，其中 $\\scriptstyle { m = 1 - 1 / n }$ · $K _ { s }$ 为饱和导水率( $\\cdot \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 } )$ ： $S _ { e }$ 为无量纲的相对含水量； $l$ 为孔隙连接系数，通常取0.5。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2盐分运动模型在不考虑固相吸附的情况下，选用平衡态的对流弥散方程来描述根区的溶质运移：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\theta C } { \\partial t } = \\frac { \\partial } { \\partial z } \\Bigg ( \\theta D \\frac { \\partial C } { \\partial z } \\Bigg ) - \\frac { \\partial v \\theta C } { \\partial z }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $C$ 表示溶质浓度 $\\left( \\mathrm { m o l } \\cdot \\mathrm { c m } ^ { - 3 } \\right.$ ； $D$ 表示水动力弥散系数 $\\left( \\mathrm { c m } ^ { 2 } { \\cdot } \\mathrm { d } ^ { - 1 } \\right)$ · $\\boldsymbol { v }$ 表示平均孔隙速率 $\\left( \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 } \\right)$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3根系吸水模型因潜在蒸腾量(即潜在根系吸水量)在根区的分布情况与根系密度的空间分布相一致，本文根据实地分层挖掘根系的结果，将各层根系干重输入模型，由模型转化生成根系分布函数。模型将根系吸水参数转化为水分胁迫函数来表示根系吸水情况，本文采用Feddes梯形函数来描述怪柳根系吸水过程，根据Moayyad和Grinevskii的研究结果[20],其吸水参数取值见表1。HYDRUS-1D中的根系吸水采用修正的Feddes模型，如式5所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ( h , h _ { \\varphi } , x , z ) = \\alpha ( h , h _ { \\varphi } , x , z ) { b ( x , z ) } S _ { t } T _ { p }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\alpha ( h , h _ { \\varphi } , x , z )$ 为土壤水盐胁迫函数; $h _ { \\varphi }$ 为渗透压力 $( \\mathrm { c m } ) ; b ( x , z )$ 为根系分布函数 $( \\mathrm { c m } ^ { - 2 } )$ ; $S _ { t }$ 为与蒸腾相关的地表长度( $( \\mathrm { c m } )$ ; $T _ { p }$ 为潜在腾发速率 $\\left( \\mathrm { c m } { \\cdot } \\mathrm { d } ^ { - 1 } \\right)$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1根系吸水参数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/873fc413c68fd4f08e8f16f85f7c939482a516a335c1527bad53990180665c17.jpg",
+        "table_caption": [
+            "Tab.1 Water absorption parameters of roots "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>h1/cm</td><td>hz/cm</td><td>h3-1/cm</td><td>h3-2/cm</td><td>h4/cm</td><td>r2H/cm•d-1</td><td>r21/cm·d-1</td></tr><tr><td>-0.1</td><td>-2.0</td><td>-80.0</td><td></td><td>-250.0 -15000.0</td><td>0.5</td><td>0.1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注： $h _ { 1 }$ 为根系吸水厌氧点土壤基质势； $h _ { 2 }$ 为根系吸水最适点开始土 壤基质势； $h _ { 3 }$ 为根系吸水最适点土壤基质势( $\\ln _ { 3 - 1 }$ 为-80土壤基质势， $h _ { 3 - 2 }$ 为-250土壤基质势）； $h _ { 4 }$ 为根系吸水萎蔫点土壤基质势； $r _ { 2 \\mathrm { H } }$ 和 $r _ { 2 \\mathrm { L } }$ 分别为2个假设的潜在作物蒸腾率。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.4潜在蒸散量的计算气象数据作为上边界条件输入模型时，采用Penman-Monteith公式计算潜在蒸散量，该公式在干旱环境下的适用性已得到许多学者的验证[2I-22],其主要公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE T _ { \\mathrm { { _ 0 } } } = \\frac { 0 . 4 0 8 \\Delta \\left( R _ { \\mathrm { { n } } } - G \\right) + \\gamma \\frac { 9 0 0 } { T + 2 7 3 } u _ { \\mathrm { { 2 } } } ( \\mathrm { { \\it ~ e _ { s } } } - \\mathrm { { \\it ~ e _ { a } } } ) } { \\Delta + \\gamma \\left( 1 + 0 . 3 4 u _ { \\mathrm { { 2 } } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $E T _ { 0 }$ 为蒸散量 $( \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 } )$ ; $R _ { \\mathrm { n } }$ 为作物表面净辐射$\\left[ \\mathbf { M } \\mathbf { J } \\cdot \\left( \\mathbf { m } ^ { 2 } \\cdot \\mathbf { d } \\right) ^ { - 1 } \\right]$ $G$ 为土壤热通量 $\\left[ \\mathbf { M } \\mathbf { J } \\cdot \\left( \\mathbf { m } ^ { 2 } \\cdot \\mathbf { d } \\right) ^ { - 1 } \\right]$ $\\gamma$ 为干湿表常数； $T$ 为 $2 \\mathrm { m }$ 高处日平均气温 $( \\mathcal { C } ) ; u _ { 2 }$ 为 $2 \\mathrm { m }$ 高处日平均风速 $( \\boldsymbol { \\mathrm { m } } \\cdot \\boldsymbol { \\mathrm { s } } ^ { - 1 } ) ; e _ { \\mathrm { s } }$ 为饱和水气压 $( \\mathrm { k P a } ) ; e _ { \\mathrm { a } }$ 为实际水汽压（ $\\mathrm { \\check { k } P a } ,$ ； $\\Delta$ 为饱和水汽压随温度的斜率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4模型的校准与评价 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据实测土壤质地的垂直分布特征，将不同深度的土壤剖面分为5层（具体土层深度划分见表2）。各层水分特征参数由HYDRUS-1D模型的Ros-seta模块，输入各层实测土壤粒径和容重，得到各层的初始参数，使用夏季灌水周期内实测土壤水分数据进行参数校准，土壤纵向弥散度为 $6 0 ~ \\mathrm { c m }$ 。为提高数值模拟的准确性，需要对土壤水分特征参数进行调整。根据敏感性分析，主要对饱和导水率 $K _ { s }$ 和经验参数 $n$ 进行优化，优化后的结果见表2。将水盐观测数据分为两段，2019年7月22日到2019年8月1日用于模型校准，另一时段用于模型验证。采用均方根误差(RMSE）、决定系数 $\\left( R ^ { 2 } \\right)$ 和模型效率系数(NSE)3种方法来评价本文数值模拟的效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/12fbc9ed674ef931f5e7453532bb86ac628e86ba05157122e07b039093c45eb2.jpg",
+        "table_caption": [
+            "表2研究区土壤粒径及土壤水分特征参数",
+            "Tab.2Soil particle size and soil water characteristic parameters in the study area "
+        ],
+        "table_footnote": [
+            "注：0.为残余含水量;0为饱和含水量； $K _ { s }$ 为饱和导水率; $\\boldsymbol { a }$ 为进气值； $n$ 为与孔隙大小分布相关的经验参数;l为孔隙连接系数。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土层 深度/cm</td><td colspan=\"3\">颗粒组成</td><td rowspan=\"2\">土壤容重 /g·cm-3</td><td colspan=\"6\">土壤水分特征参数</td></tr><tr><td>砂粒</td><td>粉粒</td><td>黏粒</td><td>0./cm³·cm-3</td><td>0/cm·cm-3</td><td>K/cm·d-1</td><td>α/cm-1</td><td>n</td><td></td></tr><tr><td>0~20</td><td>79.6</td><td>19.6</td><td>0.8</td><td>1.46</td><td>0.015</td><td>0.382</td><td>100</td><td>0.047</td><td>2.82</td><td>0.5</td></tr><tr><td>20~60</td><td>98.9</td><td>1.1</td><td>0.0</td><td>1.52</td><td>0.013</td><td>0.377</td><td>56</td><td>0.031</td><td>2.59</td><td>0.5</td></tr><tr><td>60~80</td><td>97.5</td><td>2.5</td><td>0.0</td><td>1.55</td><td>0.011</td><td>0.368</td><td>86</td><td>0.032</td><td>3.26</td><td>0.5</td></tr><tr><td>80~100</td><td>94.1</td><td>5.9</td><td>0.0</td><td>1.58</td><td>0.017</td><td>0.370</td><td>56</td><td>0.035</td><td>3.13</td><td>0.5</td></tr><tr><td>100~150</td><td>97.5</td><td>2.5</td><td>0.0</td><td>1.54</td><td>0.013</td><td>0.372</td><td>100</td><td>0.032</td><td>4.04</td><td>0.5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 土壤水分模拟",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图3可以看出，土壤水分的模拟值与实测值比较吻合。灌溉后，表层 $( 0 { \\sim } 3 0 ~ \\mathrm { c m } )$ 土壤含水率先迅速增加，达到 $1 5 \\% { \\sim } 2 0 \\%$ ，然后快速下降 $10 \\%$ 以下。 $5 0 { \\sim } 9 0 ~ \\mathrm { c m }$ 土层含水量变化较小，土层含水量通常在 $5 \\% { \\sim } 1 0 \\%$ 之间波动，其中土层 $9 0 ~ \\mathrm { c m }$ 处对灌溉的响应有比较明显滞后，数值变化不是很剧烈。水分再分布阶段，表层土壤含水率低于下层，说明表层土壤受灌溉入渗和蒸散的影响剧烈，模型能够较好地模拟出土壤水分从入渗到再分布过程的变化情况。以上结果说明，HYDRUS-1D模型对研究区土壤水分运移的模拟适用性较强。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0.25 (a) $1 0 \\ \\mathbf { g } { \\cdot } \\mathbf { L } ^ { - }$ 灌溉水 0.20 (b)25g·L-灌溉水 15cm模拟值 ·15cm实测值 15cm模拟值 ·15cm实测值   \n/王 0.20 ---30cm模拟值 。30cm实测值 -- 30cm模拟值 30cm实测值 … 50cm模拟值 ▲50cm实测值 0.15 八 50 cm模拟值 50cm实测值 -90cm模拟值 A △90cm实测值 90 cm模拟值 △90cm实测值 0.15 C 0.10 A 0.10 G < △ 入 0 土 0.05 △ A 。 △ 0.05 0.00 0.00 22 5 b -10 3 6 9 2 5 2 -31 -10 3 6 9 0 9 9 9 9 0 09 9 09 9 日期/月-日 日期/月-日 (c)40g:L-灌溉水 (d)原水 0.15 15cm模拟值 ·15cm实测值   \n./ 0.20 。 -15cm模拟值 15cm实测值 / 。 30cm模拟值 30cm实测值 .50 cm模拟值 ▲50cm实测值 。 90 cm模拟值 △90cm实测值 0.15 -90cm模拟值。 △90cm实测值 0.10 治 R △ 8 1 0.10 O 。 。 T 公 4 A 4 。 0.05 。 △ 6 0.05 0.00 0.00 01-20125 2 28 01-31 09-10 09-1309-10 09-19 07-220 3 07-26 01-31 9 -10 09 -13 09-16 09-19 日期/月-日 日期/月-日 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对土壤含水率总体模拟效果进行评价，研究结果表明经过校准的HYDRUS-1D模型可以较为准确的模拟土壤水分动态变化(图3)，这主要体现在较小的RMSE、较高的 $R ^ { 2 }$ 和NSE。通常而言，RMSE表示模拟值与实测值之间的偏差，但不能反映模拟与实测的拟合情况，而 $R ^ { 2 }$ 和NSE却能很好地解释模型拟合效果。4种矿化度灌溉下土壤水分RMSE在$0 . 0 1 4 { \\sim } 0 . 0 2 0$ 之间， $R ^ { 2 }$ 在0.71\\~0.88之间，NSE在0.67\\~0.85之间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在设置的4种矿化度灌溉下，不同土层的评价效果见表3。不同深度土壤水分在校准和验证期间的RMSE值均在 $0 . 0 0 5 { \\sim } 0 . 0 3 2$ 之间，从数值角度看，模型模拟效果较为理想，具有一定的可靠性；而 $R ^ { 2 }$ 和NSE这2种评价之间反馈的结果，不同土层模拟效果为： $3 0 ~ \\mathrm { c m } { > } 1 5 ~ \\mathrm { c m } { > } 5 0 ~ \\mathrm { c m } { > } 9 0 ~ \\mathrm { c m } , 5 0 ~ \\mathrm { c m }$ 和 $9 0 ~ \\mathrm { c m }$ 王层模拟精度低，甚至在 $9 0 ~ \\mathrm { c m }$ 王层的模型效率系数显示为不可信( $\\mathrm { \\underline { { N S E { < } 0 } } }$ )。表层土壤( $( 0 { \\sim } 3 0 ~ \\mathrm { c m } )$ 的模拟效果要好于下层 $( 5 0 { \\sim } 9 0 ~ \\mathrm { c m }$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤盐分模拟 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4为2019年8月1日和2019年9月20日的土壤剖面盐分模拟值与实测值的对比，模拟值与实测值基本吻合。从图4可以看出，在不同灌溉水矿化度处理下，土壤含盐量从表层到深层呈现先快速降低，后保持稳定的分布特征。土壤表层存在较为明显的积盐区，随着灌水矿化度的增加，各层土攘含盐量也相应增加，土壤表聚也越明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，在4种矿化度灌溉下，土壤盐分模拟值与实测值RMSE分别为 $0 . 1 3 , 0 . 2 3 , 0 . 3 3 , 0 . 5 9 , R ^ { 2 }$ 分别为 $0 . 9 2 、 0 . 8 5 、 0 . 8 6$ 和0.74，NSE分别为0.92、0.78、0.89和0.65。较小的RMSE，较高的 $R ^ { 2 }$ 和NSE表明不同矿化度灌溉下，土壤盐分模拟值与实测值的空间分布规律较为一致，差异性不大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3情景模拟 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了更好地反应未来时段咸水灌溉后，林地土壤水盐运移过程的变化趋势，本文设定了下一年度灌溉起点至植物生长季末(5月30日—9月22日）约4个月的模拟时长。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水分特征参数采用调参后的夏季灌溉参数，选中HYDRUS-1D中植物生长模块，将生长期间监测记录的怪柳株高、叶面积指数、根系深度数据输入模",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5aff5a17771237bb94d8a269292a9491fc02242c63a132bcd6b4e7c514a21044.jpg",
+        "table_caption": [
+            "表3土壤含水率模拟结果统计分析",
+            "Tab.3 RMSE, $R ^ { 2 }$ and NSE of simulated value and measured value of soil moisture content "
+        ],
+        "table_footnote": [
+            "注：RMSE为均方根误差； $R ^ { 2 }$ 为决定系数;NSE为模型效率系数。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">灌水 矿化度/g·L-1</td><td rowspan=\"2\">土层/cm</td><td colspan=\"2\">RMSE</td><td colspan=\"2\">R</td><td colspan=\"2\">NSE</td></tr><tr><td>校准</td><td>验证</td><td>校准</td><td>验证</td><td>校准</td><td>验证</td></tr><tr><td>10</td><td>15</td><td>0.027</td><td>0.021</td><td>0.83</td><td>0.83</td><td>0.75</td><td>0.79</td></tr><tr><td rowspan=\"8\">25</td><td>30</td><td>0.020</td><td>0.013</td><td>0.83</td><td>0.91</td><td>0.50</td><td>0.85</td></tr><tr><td>50</td><td>0.026</td><td>0.021</td><td>0.54</td><td>0.58</td><td>0.29</td><td>0.07</td></tr><tr><td>90</td><td>0.025</td><td>0.012</td><td>0.36</td><td>0.58</td><td>-5.20</td><td>-0.04</td></tr><tr><td>总体效果</td><td>0.020</td><td></td><td>0.75</td><td></td><td>0.67</td><td></td></tr><tr><td>15</td><td>0.021</td><td>0.026</td><td>0.79</td><td>0.69</td><td>0.66</td><td>0.72</td></tr><tr><td>30</td><td>0.023</td><td>0.030</td><td>0.81</td><td>0.72</td><td>0.75</td><td>0.64</td></tr><tr><td>50</td><td>0.024</td><td>0.023</td><td>0.83</td><td>0.88</td><td>0.75</td><td>0.83</td></tr><tr><td>90</td><td>0.017</td><td>0.016</td><td>0.62</td><td>0.79</td><td>0.47</td><td>0.71</td></tr><tr><td rowspan=\"4\">40</td><td>总体效果</td><td>0.020</td><td></td><td></td><td>0.77</td><td>0.72</td><td></td></tr><tr><td>15</td><td>0.015</td><td>0.011</td><td>0.91</td><td>0.91</td><td>0.82</td><td>0.81</td></tr><tr><td>30</td><td>0.021</td><td>0.008</td><td>0.82</td><td>0.93</td><td>0.59</td><td>0.91</td></tr><tr><td>50</td><td>0.032</td><td>0.013</td><td>0.81</td><td>0.71</td><td>0.67</td><td>0.79</td></tr><tr><td rowspan=\"6\">原水</td><td>90</td><td>0.019</td><td>0.012</td><td>0.58</td><td>0.53</td><td>-0.60</td><td>-0.13</td></tr><tr><td>总体效果</td><td></td><td>0.014</td><td></td><td>0.88</td><td></td><td>0.85</td></tr><tr><td>15</td><td>0.022</td><td>0.007</td><td>0.75</td><td>0.93</td><td>0.68</td><td>0.89</td></tr><tr><td>30</td><td>0.012</td><td>0.007</td><td>0.83</td><td>0.85</td><td>0.77</td><td>0.76</td></tr><tr><td>50</td><td>0.022 0.019</td><td>0.009</td><td>0.69 0.40</td><td>0.67</td><td>0.63</td><td>0.69</td></tr><tr><td>90 总体效果</td><td></td><td>0.005</td><td></td><td>0.52</td><td>-3.48 0.68</td><td>-3.82</td></tr><tr><td colspan=\"2\"></td><td colspan=\"2\">0.015</td><td colspan=\"2\">0.71</td><td colspan=\"2\"></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a1) $1 0 \\ \\mathbf { g } { \\cdot } \\mathbf { L } ^ { - }$ 灌溉水(2019-08-01) (a2)10 g·L-灌溉水(2019-09-20) 土壤含盐量/g·kg- 土壤含盐量/g·kg-1 00.51.0 1.52.0 2.5 00.510 1.52.02.5   \n/ T T / T 40 40 80 实测值 80 实测值   \n土 120 模拟值 土 120 模拟值 160 160   \n(b1) $2 5 \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - }$ 1灌溉水(2019-08-01) (b2)25g·L-1灌溉水(2019-09-20) 土壤含盐量 $/ \\mathbf { g } { \\cdot } \\mathbf { k } \\mathbf { g } ^ { - 1 }$ 土壤含盐量/g·kg-1 1.5 2.0 2.5 3.0 1.5 2.0 2.5 3.03.5   \n/ 0 ： 1 / 0 · 40 40 ： 80 ，实测值 80 ·实测值   \n土 120 -模拟值 120 -模拟值 160 160   \n(c1) $4 0 \\ \\mathbf { g } \\cdot \\mathbf { L } ^ { - 1 }$ 灌溉水(2019-08-01) (c2)40 g·L-灌溉水(2019-09-20) 土壤含盐量/g·kg-1 土壤含盐量/g·kg   \n/ 040 3 4 5 6 7 / 品 40 3 . 4 5 6 80 80 实测值 实测值 120 模拟值 120 -模拟值 160 160   \n(d1)原水(2019-08-01) (d2)原水(2019-09-20) 土壤含盐量/g:kg-1 土壤含盐量 $/ \\mathbf { g } { \\cdot } \\mathbf { k } \\mathbf { g } ^ { - 1 }$ 3 4 5 6 7 3 4 56 7   \n/ 0 co/ 0 1 ■ 4080 实测值 4080 ·实测值 120 模拟值 120 模拟值 160 160 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4土壤盐分模拟值与实测值的RMSE， $R ^ { 2 }$ 和NSE",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab39f5a370cd83a60f9b081597fcae2d211c8017af1ac7e06c370779f7ccf1d5.jpg",
+        "table_caption": [
+            "Tab.4RMSE, $R ^ { 2 }$ and NSEof simulated and measured soil salinity values "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标</td><td>10 g·L- 灌溉水</td><td>25 g·L-1 灌溉水</td><td>40 g·L-1 灌溉水</td><td>原水</td></tr><tr><td>RMSE</td><td>0.13</td><td>0.23</td><td>0.33</td><td>0.59</td></tr><tr><td>R</td><td>0.92</td><td>0.85</td><td>0.86</td><td>0.74</td></tr><tr><td>NSE</td><td>0.92</td><td>0.78</td><td>0.89</td><td>0.65</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "型，并默认从灌溉起点到生长季末期植物的根系生长是均匀的。结合实际灌溉数据和逐日气象数据，对土壤水盐进行模拟；由于试验地植物的根系主要分布在 $0 { \\sim } 4 0 ~ \\mathrm { c m }$ 范围，且上文中土壤水分在此区间模拟精度较高，因此主要模拟 $1 5 \\mathrm { c m }$ 和 $3 0 \\mathrm { c m }$ 深度土层，模拟结果如图5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在经过灌溉后，土壤盐分和水分是有紧密联系的，尤其以表层土壤最为明显。如图5a和图5b表示土壤含水率变化过程，其中每次含水量陡升表示在该天进行了灌溉(降水较少，可忽略)。如图5c和图5d,随着灌溉开始后，土壤中的盐分溶解于水中，而水分受重力作用向下迁移，盐分随着水分淋溶到深层土壤中，这一过程称为洗盐过程，此时土壤盐分快速降低。灌溉过程结束后，由于荒漠地区蒸发强烈，因此表层水快速蒸发，下层土壤水分携带着盐分向表层迁移聚集，造成表层盐分积累。且随时间推移，土壤水分经过向上运动和向下运动，水分含量减少，表层土壤的盐分增加速率也逐渐变缓。在分析表层土壤含水率和含盐量在某一周期内变化过程，二者之间动态变化关系密切。而随着试验区进行多次灌溉后，除了原水灌溉由于矿化度变化较大，其他矿化度灌溉下表层土壤出现盐分累积增加现象。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "塔里木河下游沙漠区气候干旱少雨，自然环境恶劣，应用沙地咸水滴灌技术建设防护林，能够为格库铁路安全运行提供强有力的保障。本文通过$1 0 \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 } \\cdot 2 5 \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 } \\cdot 4 0 \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ 和原水(无处理地下水)4种矿化度灌溉水对土壤水盐运移影响进行了研究，发现在灌水结束后，土壤表层含水率会迅速地降低到 $10 \\%$ 以下，这与丁新原等[23]提到的现象相一致;水分是保障植物正常生长的关键因素，防护林沙质土壤的蓄水性较差，如何延缓灌水后浅层土壤水分的迅速流失，是以后工作的重点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤盐渍化是防护林后期建设与维护过程中经常遇到的问题。本文通过夏季和秋季2次盐分观测的结果，发现灌溉水矿化度越高，土壤表聚现象也就越明显，这也侧面印证了窦凯歌等[1]的结论;周智彬等24通过观测4个年份的水盐运动规律，认为在灌水和蒸发主导下，土壤整体含盐量可在短期内维持一个相对平衡状态，并呈现出周期性的波动变化，本文运用模型模拟还原整个植物生长季根系层土壤水盐波动情况，也显示了土壤盐分具有周期性的波动变化特点。然而，从长远角度看，在连续进行高矿化度灌水的影响下，土壤盐分源源不断地输入土壤，在各个深度均有缓慢累积的趋势，随着苗木逐渐成长，根系的聚盐效应23也开始显现，如何平衡和调控盐分空间分布，并寻找有效的脱盐途径，是下一步研究的方向。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/abe5ed8ae6d7692f577774dbada4d4a0daef1ad5904d868312cb7ed341b91aeb.jpg",
+        "img_caption": [
+            "图5土壤 $1 5 \\mathrm { c m } . 3 0 \\mathrm { c m }$ 剖面水盐运移过程模拟",
+            "Fig.5Simulation of soil water and salt migration at depths of $1 5 \\mathrm { c m }$ and $3 0 \\mathrm { c m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近年来，运用软件模拟水盐动态的方式来参与水盐管理调控工作，成为逐渐兴起的方式。余根坚[15]、李亮等[25]使用HYDRUS模型对内蒙古河套干旱区水盐运移规律进行模拟研究，为区域节水控盐和灌区长效发展提供了新思路;李开明、石培君等2运用HYDRUS模型模拟了明沟、暗管排水条件下土壤水盐运移规律，证明在此条件下，HYDRUS模型能够有效地得到应用;李会杰[27]、王在敏等[28]使用HYDRUS模型分别模拟了玉米根区水分规律和棉花生育期水盐运移规律，表明模型能够用于在作物灌溉过程中对土壤水盐状况的监测。根据以上研究结果，HYDRUS模型能够在多种条件下灵活应用，并被证明具有相当的可靠性和稳定性。运用HYDRUS数值模拟手段，可以在有效降低研究成本的情境下，实现对未来土壤水盐环境变化较为准确的预估，对于其他土壤过程的研究也能起到有效的辅助作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在高矿化度咸水持续灌溉的严酷条件下，尤其是灌溉水矿化度超过 $3 0 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ 时，土壤中的水体在孔隙介质中的流动情况受土壤吸附力、土体孔隙结构改变等情况的影响，土壤溶质运移参数会随之发生改变；植物在高矿化度咸水灌溉中受水分和盐分双重胁迫的影响，生理生态方面发生的显著变化，这些问题都亟待进一步开展研究工作。滴灌后水分的实际运动是三维的，而本文主要考虑的是滴头下方水分的垂向运动，尽管描述了土体内主要的水盐运动过程，但缺乏横向和各向异性的考虑，空间信息有所缺失。入渗过程中的优先流一般不能忽略，但考虑到试验区地面平整，且质地较粗砂土剖面均一，没有发现因植物根系生长或者动物因素而产生的孔隙或者裂隙，发生优先流的可能性较小，因而本次试验假定优先流不存在。此外在模型预测时，没有考虑气候变化对未来模型输人参数的影响，后续研究工作会着重考虑此方面问题",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）灌溉后，表层 $( 0 { \\sim } 3 0 ~ \\mathrm { c m } )$ )土壤含水率迅速增加，可快速达到 $1 5 \\% { \\sim } 2 0 \\%$ 。停灌后又快速下降至$1 0 \\%$ 以下。 $5 0 \\mathrm { c m }$ 以下的土层含水量变化较小，通常在 $5 \\% { \\sim } 1 0 \\%$ 之间波动。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）对于土壤水分的数值模拟， $3 0 \\ \\mathrm { c m }$ 以上深度要好于下层土壤；对于土壤盐分的数值模拟，模拟值与实测值的空间分布规律较为一致，差异性不大，较低矿化度灌溉条件下的盐分模拟结果可信度更高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）利用HYDRUS-1D模型对高矿化度水滴灌条件下，土壤含水率和含盐量在垂直方向的变化趋势进行了模拟，模拟值与实测值拟合度较高，在研究区的应用性较强，能够为沙漠防护林的建设提供技术支持。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]樊自立,徐海量,傅仪,等.塔里木河下游生态保护目标和措 施[J].中国沙漠,2013,33(4):1191-1197.[Fan Zili,Xu Hailiang, Fu Jinyi, et al. Ecological protection objects and restoration measures in the lower reaches of Tarim River[J]. Journal of Desert Research,2013,33(4): 1191-1197.]   \n[2]Chen Yaning,Li Weihong,Xu Changchun,et al.Desert riparian vegetation and groundwater in the lower reaches of the Tarim River Basin[J].Environmental Earth Sciences,2015,73(2): 547-558.   \n[3]马学喜,李生宇,徐新文,等.咸水灌溉对三种怪柳幼苗成活和 生长状况的影响[J].干旱区资源与环境,2016,30(1):185-190. [Ma Xuexi,Li Shengyu,Xu Xinwen,et al.Effects of different mineralized irrigation water on seedling survival and growth of three species of Tamarix in Taklimakan Desert[J].Journal of Arid Land Resources and Environment, 2016,30(1): 185-190.]   \n[4]朱金方,夏江宝,陆兆华,等.盐旱交叉胁迫对怪柳幼苗生长及 生理生化特性的影响[J].西北植物学报,2012,32(1):124-130. [Zhu Jinfang,Xia Jiangbao,Lu Zhaohua,et al.Growth physiological and biochemical characteristics of Tamarix chinensis seedlings under salt-drought intercross stress[J]. Acta Botanica Boreal-Occidentalia Sinica,2012,32(1): 124-130.]   \n[5]廖岩,彭友贵,陈桂珠.植物耐盐性机理研究进展[J].生态学报, 2007,27(5): 2077-2089.[Liao Yan,Peng Yougui, Chen Guizhu. Research advances in plant salt-tolerance mechanism[J]. Acta Ecologica Sinica,2007,27(5): 2077-2089.]   \n[6]Moreno F,Cabrera F,Fernandez-boy E,etal.Irrigation with saline water in the reclaimed marsh soils of south-west Spain: Impact on soil properties and cotton and sugar beet crops[J].Agricultural Water Management,2001,48(2): 133-150.   \n[7]李发永,王兴鹏,林杰,等.不同矿化度的微咸水滴灌对红枣根 区土壤碱解氮的影响[J].干旱区研究,2013,30(3):424-429. [Li Fayong,Wang Xingpeng,Lin Jie,et al. Effect of drip irrigation with brackish water with different salinities on soil alkali-hydrolyzable nitrogen content in rhizosphere of Ziziphus jujuba trees[J]. Arid Zone Research,2013,30(3): 424-429.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8]王利界,周智彬,常青,等.盐旱交叉胁迫对灰胡杨(Populus pru",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "inosa)幼苗生长和生理生化特性的影响[J].生态学报,2018,38 (19):7026-7033.[Wang LiJie, Zhou Zhibin, Chang Qing,et al. Growth,physiological and biochemical characteristics of Populus pruinosa seedlings under salt-drought stress[J].Acta Ecologica Sinica,2018,38(19): 7026-7033.]   \n[9]薛新伟,杨恒山,张瑞富,等.滴灌对半干旱地区土壤水盐运动 和次生盐渍化影响的研究进展[J].中国农学通报,2019,35 (32): 89-94.[Xue Xinwei, Yang Hengshan, Zhang Ruifu, et al. Effects of drip irigation on soil water and salt movement and secondary salinization in semi-arid areas: Research progress[J]. Chinese Agricultural Science Bulletin,2019,35(32): 89-94.]   \n[10] 窦凯歌,王永东,雷加强,等.咸水滴灌下塔里木沙漠公路防护 林土壤盐分分布特征分析[J].干旱区地理,2015,38(3):576- 584.[Dou Kaige,Wang Yongdong,Lei Jiaqiang,et al. Salt distribution characteristics of Taklimakan Desert highway shelterbelt under saline water drip-irigation[J].Arid Land Geography,2015, 38(3): 576-584.]   \n[11］李丙文.塔里木沙漠公路防护林咸水灌溉水盐调控机理研究 [D].北京:北京林业大学,2010.[Li Bingwen.Mechnism of watersalt regulation for the shelterbelts with saline water irigation along the Tarim Desert Highway[D]. Beijing: Beijing Forestry University,2010. ]   \n[12]Simunek J, Van Genuchten M T, Sejna M. The HYDRUS-1D solfware package for simulating the one-dimensional movement of water,heat,and multiple solutes in variably-saturated media[J]. University of California-Riverside Research Reports,2Oo5(3):1-240.   \n[13] 李冰冰,王云强,李志.HYDRUS-1D模型模拟渭北旱塬深剖面 土壤水分的适用性[J].应用生态学报,2019,30(2):398-404. [Li Bingbing,Wang Yunqiang,Li Zhi.Applicability of HYDRUS1D model in simulating the soil moisture in deep profiles on the Weibei rainfed highland[J]. Chinese Journal of Applied Ecology, 2019,30(2): 398-404.]   \n[14] 何康康,杨艳敏,杨永辉.基于HYDRUS-1D模型的华北低平原 区不同微咸水利用模式下土壤水盐运移的模拟[J].中国生态 农业学报,2016,24(8):1059-1070.[He Kangkang,Yang Yanmin,Yang Yonghui.HYDRUS-1D model simulation of soil water and salt movement under various brackish water use schemes in the North China Lowplain[J]. Chinese Journal of Eco-Agriculture,2016, 24(8): 1059-1070.]   \n[15] 余根坚,黄介生,高占义.基于HYDRUS模型不同灌水模式下 土壤水盐运移模拟[J].水利学报,2013,44(7):826-834.[Yu Genjian,Huang Jiesheng,Gao Zhanyi. Study on water and salt transportation of different irrigation modes by the simulation of HYDRUS model[J]. Journal of Hydraulic Engineering,2013,44 (7): 826-834.]   \n[16] 李开明,刘洪光,石培君,等.明沟排水条件下的土壤水盐运移 模拟[J].干旱区研究,2018,35(6):1299-1307.[Li Kaiming,Liu Hongguang, Shi Peijun,et al. Simulation of soil water and salt mi",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "gration under open-ditch drainage[J].Arid Zone Research,2018, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "35(6): 1299-1307.]   \n[17]曹巧红,龚元石.应用Hydrus-1D模型模拟分析冬小麦农田水 分氮素运移特征[J].植物营养与肥料学报,2003(2):139-145. [Cao Qiaohong,Gong Yuanshi. Simulation and analysis of water balance and nitrogen leaching using Hydrus-1D under winter wheat crop[J].Plant Nutrition and Fertilizer Science,2003(2): 139-145.]   \n[18] 周宏,赵文智.荒漠区包气带土壤物理特征及其对地下水毛管 上升影响的模拟[J].应用生态学报,2019,30(9):2999-3009. [Zhou Hong, Zhao Wenzhi. Soil physical characteristics of shallow vadose zone and modeling its effects on upward capillary rise of groundwater in an arid-desert area[J]. Chinese Journal of Applied Ecology,2019,30(9): 2999-3009.]   \n[19] 郑博文,胡顺军,周智彬,等.古尔班通古特沙漠南缘风沙土土 壤水分特征与毛管水最大上升高度[J].干旱区地理,2020,43 (4):1059-1O66.[Zheng Bowen,Hu Shunjun,Zhou Zhibin,et al. Maximum height of capillary rising water and characteristic of soil moisture in the southern edge of Gurbantunggut Desert[J].Arid Land Geography,2020,43(4): 1059-1066.]   \n[20]Grinevskii S O.Modeling root water uptake when calculating unsaturated flow in the vadose zone and groundwater recharge[J]. Moscow University Geology Bulletin,2011,66(3): 189-201.   \n[21] 侯裕生,王振华,李文昊,等.水肥耦合对极端干旱区滴灌葡萄 耗水规律及作物系数影响[J].水土保持学报,2019,33(2):279- 286,330.[Hou Yusheng,Wang Zhenhua,Li Wenhao,et al.Effects of water and fertilizer coupling on water consumption and crop coefficient of drip irrigated grape in extreme arid area[J]. Journal of Soil and Water Conservation,2019,33(2): 279-286,330.]   \n[22] 陈胜楠,孔喆,陈立欣,等.半干旱区城市环境下油松林分蒸腾 特征及其影响因子[J].生态学报,2020,40(4):1269-1280.[Chen Shengnan,Kong Zhe,Chen Lixin,et al. The stand transpiration characteristics of Pinus tabulaeformis and its influential factors in a semi-arid urban environment[J].Acta Ecologica Sinica,2020,40 (4): 1269-1280.]   \n[23]丁新原,周智彬,徐新文,等.咸水滴灌下塔克拉玛干沙漠腹地 人工防护林土壤水盐动态[J].土壤学报,2016,53(1):103-116. [Ding Xinyuan, Zhou Zhibin,Xu Xinwen,et al. Dynamics of soil water and salt in soil under artificial plantation shelterbelt drip-irrigated with saline water in the center of the Taklimakan Desert[J]. Acta Pedologica Sinica,2016,53(1):103-116.]   \n[24] 周智彬,李培军,徐新文,等.塔克拉玛干沙漠腹地人工绿地对 沙地盐分时空分布的影响[J].水土保持学报,2002,16(2):16- 19.[Zhou Zhibin,Li Peijun,Xu Xinwen,et al. Effect of artificial green belt on salt distribution in sand land in hinterland of Taklimakan Desert[J]. Journal of Soil and Water Conservation, 2002,16 (2): 16-19.]   \n[25] 李亮,史海滨,贾锦凤,等.内蒙古河套灌区荒地水盐运移规律 模拟[J].农业工程学报,2010,26(1):31-35.[Li Liang,Shi Haibin,Jia Jinfeng,et al. Simulation of water and salt transport of uncultivated land in Hetao Irrigation District in Inner Mongolia[J]. Transactions of the CSAE,2010,26(1): 31-35.]   \n[26]石培君,刘洪光,何新林,等.基于HYDRUS模型的暗管排水水 盐运移模拟[J].干旱地区农业研究,2019,37(3):224-231.[Shi Peijun,Liu Hongguang,He Xinlin,et al. The simulation of water and salt transportation under subsurface drainage by HYDRUS model[J].Agricultural Research in the Arid Areas,2019,37(3): 224-231.]   \n[27] 李会杰,易军,赵英,等.浅层地下水对玉米根区水分及根系吸 水影响的数值模拟[J].灌溉排水学报,2015,34(11):35-38,46. [LiHuijie,Yi Jun, Zhao Ying,et al.Effects of shallow groundwater table on root zone and root water uptake of maize using numerical model[J]. Journal of Irrigation and Drainage,2O15,34(11): 35-38,46.]   \n[28] 王在敏,何雨江,靳孟贵,等.运用土壤水盐运移模型优化棉花 微咸水膜下滴灌制度[J].农业工程学报,2012,28(17):63-70. [Wang Zaimin,He Yujiang,Jin Menggui,et al.Optimization of mulched drip-irrigation with brackish water for cotton using soilwater-salt numerical simulation[J]. Transactions of the Chinese Society of Agricultural Engineering,2012,28(17): 63-70.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Numerical simulation of water and salt migration in desert soil in the lower reaches of Tarim River under salt-water irrigation ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WANG Shiming1234，FAN Jinlong1234，ZHAO Ying⁵，ZHANG Taotao1234，LI Shengyul23.4 (1.State KeyLaboratoryofDesertandOasisEcology,XinjiangInstituteofEcologyandGeography,ChineseAcademyofSciences, Urumqi830ol1,Xinjiang,China；2.MosuowanDesertResearchStation,XinjangInstituteofEcologandGeographyCinese AcademyofSciences,Shhezi32O,Xinjing,China;3.TaklimakanDesertResearchStation,XinjiangIstituteofEcologd GeographyChineseAcademyofSciences,Korla841oo,Xinjiang,Chia;4.UniversityofhieseAcademyofSciences,eijing 100049,China；5.Ludong University,Yantai 264039,Shandong, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: During shelterbelt construction in the lower reaches of Tarim River, Xinjiang, China,the water and salt balance of the soil profile clearly changed because of underground saltwater irrigation.Establishing a numerical model is a very eficient means of understanding the vertical water and salt dynamics of soil. By reconstructing the dynamic process of water and salt in the soil profile,the regularityof soil water and salt migration in a highsalt environment can be revealed,which would be useful for the construction of shelterbelts in ecological enginering projects and sustainable management of the subsequent irigation.In this study,the distribution characteristicsand temporal changes of the soil water and salt under diferent salinity conditions for groundwater irigation in the early construction stages ofthe HYDRUS-1D shelter forest were simulated.Soil waterand salt data were collected for optimization of the soil water characteristic parameters,and the applicabilityof the established numerical model was evaluated.The results showed that the water and salt contents of the surface soil ( $\\mathrm { ( 0 - 3 0 ~ c m }$ depth）were greatly affcted by irigation with large fluctuations.Additionally，the salt content was highly concentrated at the soil surface. In the deep layer ( $( 5 0 - 1 5 0 ~ \\mathrm { c m } )$ ), irrigation had a small influence with small fluctuations in values.The simulated values of the numerical model were in good agreement with the measured values, which demonstrated that the model could reflect the soil waterand salt migration atthe test site.The established model can be used to simulate the soil water and salt migration in the desert area downstream of Tarim River under diferent salinity conditions for irigation and provides a theoretical basis and technical support for the construction of an ecological shelterbelt in thisarea.Using the HYDRUS numerical simulation method effectively reduces the research costs of accurately predicting future changes in the soil water and salt environment,and it can also play an efective auxiliary role in research on other soil processs.This experiment was conducted in a desert environment,and few experimental studies have been performed in similar environments. Hence,this study is innovative and can provide new ideas and methods for experimental studies in relevant desert environments. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: salt water irrigation; soil water and salt migration; HYDRUS-1D model; lower Tarim River ",
+        "page_idx": 9
+    }
+]

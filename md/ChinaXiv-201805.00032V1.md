@@ -1,0 +1,257 @@
+# 云环境中基于相对索引散列树的数据审核方法
+
+李孟庭，周安宁(广东外语外贸大学，广州 510006)
+
+摘要：为了确保云环境外包数据不受窜改，提高数据完整性审核的效率，提出一种基于相对索引散列树(RI-MHT)的数据审核方法，首先修改经典MHT的每个节点以存储两条信息，即数据块的哈希值和节点的相对索引，将MHT与节点的相对索引集成，以降低数据块搜索的计算成本；然后通过添加数据的最后修改时间，确保数据的新鲜性。实验结果验证了所提方法的有效性，与其他同类方法相比，所提方法在计算成本、通信成本和存储成本方面具有一定优势，并以较高的概率检测服务器的不当操作。
+
+关键词：云环境；数据完整性审核；相对索引；散列树；计算成本中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2017.11.1002
+
+Data auditing method based on relative index hash tree in cloud environment
+
+Li Mengting, Zhou Anning (Guangdong University ofForeign Studies Guangdong 51ooo6, China)
+
+Abstract: To ensure thecloudenvironmentoutsourcingdata fromtampering,andimprove theefficiencyofdata integrityaudit, this paper proposedadataaudit methodbasedonrelativeindex-merkle hashtree(RIMHT).Firstly,itmodifiedeach nodeof theclassic MHTtostore twoinformation,that was data block hashvalueandtherelative indexvalueofnode.Toreduce the computationcostof data block search,it Integrated therelative indexof MHTwith thenode.Then,byadding the last modification timeof thedata,itensured the freshnessofthedata.Theexperimentalresultsverifytheefectivenesof te proposed method. Compared with other similar methods,the proposed method hassome advantages in terms ofcomputational cost,communicationcostandstoragecost.Anditisposibletodetecttheimproperoperationoftheserverwithhigherprobability. Key Words: cloud environment; data integrity audit; relative index; hash tree; computational cost
+
+# 0 引言
+
+云计算[]在市场中迅速兴起，极大地改变了服务供应商与客户、经销商、雇员之间的交互方式，如百度、阿里巴巴等各种互联网服务已经改变了人们的交流、购物、教育和其他很多活动方式。云端提供的服务2包括软件即服务(SaaS）、平台即服务（PaaS）以及设施即服务（TaaS）。云作为一个基础设施提供了远程存储位置以保存数据，并由云自身来维护。虽然云提供了存储便利，但数据安全性是其一个薄弱环节。
+
+针对数据存储安全，已经有一些研究者对其进行了分析和开发。例如文献[3]提出了两个数据持有型的验证方案，分别为采样和高效方案。但数据所有权的保证较弱，使用了基于RSA[4]的同态标签。然而该协议不支持数据的动态操作，其应用仅限于静态数据。文献[5]提出了两个可检索证据（PoR）方案，使用了支持公共审核的同态认证器。该研究基于可公共审核的BLS 签名。该方法在审核程序的时间复杂度方面具有高效性，然而该协议的通信复杂度会随着外包数据块大小的增加而呈线性变化。文献[6]提出了动态数据的处理程序机制，该方法依赖于基于排名的身份验证的跳跃表，虽然跳跃表改进了标签生成方法，但其效率没有验证。文献[7]基于 Merkle 散列树和附属设计模块，确保设备主动、周期性地向管理中心发送自己的平台运行状态,使得存储容量开销和计算成本所需减少，从而减轻了管理中心的计算压力，但该研究仅限于静态数据。文献[8]基于服务器持有数据证据的正确性和完整性，提出一个改进版的协议。虽然该协议在加密外包数据库中具有较好的安全性，但其应用仅限于静态数据。
+
+现有的协议试图为云系统提供数据完整性审核，但尚未能解决公共审核和数据动态性的问题。为此，本文提出了一种数据完整性审核协议，带有相对索引Merkle散列树（RIMHT），其支持了数据的公共审核和数据动态操作，并能够确保数据的新鲜性，
+
+还考虑到了外包数据的隐私保护问题。
+
+# 1 提出的数据完整性审核模型
+
+提出的数据完整性审核模型如图1所示。图1中的数字表示在一次数据审核过程中的作业顺序，“\*”表示该活动可以独立于审核过程之外。该审核模型包含三方实体，其定义如下：
+
+![](images/d99e0485bde24bc8cf5be90dc3246217693600c23f7d99e5f50ad0426ef844e5.jpg)  
+图1RI-MHT 的系统模型
+
+a）数据所有者（DP）。通过修改、插入、附加等操作在后续对数据进行更新。DP是依赖云供应商提供的数据维护实体。通常来说，是一个资源受限的实体。b）云服务供应商（CSP）。拥有足够计算资源和无限存储空间的存储服务器实体。主要负责外包数据的保存和维护，但CSP一般被考虑为一个不可信的实体。c）第三方审核者（TPA）。在DP 的数据上进行审核的专业实体。TPA是CSP 和DP都信任的实体，能够最大限度降低 DP的数据审核计算压力。TPA 是可信实体，CSP 为不可信实体。然而 TPA 和CSP都可能给DP 数据带来一些威胁，例如：a）TPA 造成的数据安全威胁。DP依靠TPA来确保数据的完整性，并假定TPA是一个真实可靠的独立实体。然而TPA 始终存在着窥探DP数据的可能性，因此，在公共审核协议中，数据的隐私性可能会受到TPA 的侵犯。本文提出的协议未考虑数据隐私性问题，并假定TPA忠诚可靠。b）CSP 造成的安全威胁。CSP可能会对DP 的数据造成如下威胁：CSP可能会在没有通知 DP 的情况下移除其不常访问的数据，以节约服务器空间；CSP可能会对数据造成一些处理错误，这可能会使DP数据出现不可恢复的损坏。c）一些外部威胁。合法用户可以通过CSP 提供的应用程序访问外包数据，而较弱的应用程序可能为DP数据带来风险。一些合法用户的登录凭证可能会被陌生人使用，并可能匿名地污染或删除数据。另外，离职后的CSP管理员可能会入侵云服务器，对存储数据造成危害。因此，在提供各种云服务的同时，确保数据的可访问性并防止外包数据受到外部攻击，对于CSP 是至关重要的。
+
+# 2 提出的协议
+
+本章将解释在云计算中执行数据完整性审核的RI-MHT 协议。首先，对经典 MHT[进行修改；然后，详细介绍所提协议的构建。本文系统流程如图2所示。该流程基本遵循图1模型，将数据流进行了展开。
+
+![](images/6024af015492f9debf22611f5d3e67db0c7284a763b5a3890568f08f33cc7262.jpg)  
+图2本文系统基本流程框架
+
+# 2.1MHT 的修改
+
+为降低 MHT中对数据进行完整性审核时搜索节点的计算复杂度，本文对经典MHT的每个节点进行修改以存储两条信息，一条信息为数据块的hash值，另一条信息为节点的相对索引。与一个节点 $\mathrm { ~ \bf ~ P ~ }$ 相关联的相对索引，指定了属于P子树的叶节点数量。在修改后的MHT中，叶节点的相对索引设为1。举例来说，如果对于一个父节点 $\mathrm { ~ \bf ~ P ~ }$ ，L和R的hash 值分别为 $H _ { a }$ 和 $H _ { b }$ 、相对索引字段值为 $r _ { a }$ 和 $r _ { b }$ 的父节点P的左子节点和右子节点，那么节点P的hash值为 $( H _ { a } \parallel H _ { b } )$ ，相对索引字段值为 $( r _ { a } + r _ { b } )$ 。将一个时间戳字段与MHT的根节点相关联。修改后的 MHT样例如图3所示。此处， $\scriptstyle H _ { R } = ( H _ { a } \parallel H _ { b } \parallel d _ { t } )$ ，式中 $d _ { t }$ 为树建立的日期和时间。由于树中任何数据块进行的改动均会更新 $\boldsymbol { H } _ { R }$ ，所以 $\boldsymbol { H } _ { R }$ 中能够反映出最后修改的时间和日期，这样就保证了数据的新鲜性。
+
+![](images/2a8e376106636e17d521ac33de85d6bf93b60de3c512f3c069112f4aa48a87e9.jpg)  
+图3带相对索引和时间戳的merkle散列树
+
+# 2.2 定义
+
+本节将给出所提算法的的定义。
+
+a）Keygen ${ \bf \Xi } ( { \bf \Lambda } _ { 1 } ) ^ { \lambda }$ ）：该算法由DP 执行。其中， $\lambda$ 表示安全性参数，该算法的输出为一个密钥对（公钥，私钥） $ ( \eta , k )$ 。b）FileTagGen(fname, $k , n , d _ { t } ^ { \mathrm { ~ \cdot ~ } }$ )：该算法由DP 执行，以生成文件F 的标签。该算法的输入为外包文件的名称、私有密钥、数据块分区数量、文件预处理的日期和时间。该文件标签表示为 $\tau$ 。c）BlockSigGen $( k , H ( d [ i ] ) , d _ { t } , u )$ ：该算法由DP 执行。其输入为私有密钥 $k$ 、文件块的hash、文件预处理的日期和时间，以及一个随机元素 $u \in \mathbf { G }$ 。该算法输出为 $\theta$ ，是文件块的上BLS 签名[10] $\{ \psi \} _ { 1 \le i \le n }$ 的一个有序集合。d）Challenge（质询）：该算法由TPA执行，以在DP委托审核权之后生成发送到CSP的质询消息。e）GenProof $( \boldsymbol { \mathrm { F } } , \boldsymbol { \theta } , \boldsymbol { \mathrm { C } } )$ ：CSP 在接收到来自TPA 的质询消息C 后立即执行该算法，以生成一个证据 $P _ { f }$ ，并将其传递到 TPA以进行验证。该算法的输入为文件F、签名集合 $\theta$ 和质询消息C。
+
+f）VerifyProof $( \mathbf { C } , P _ { f } , \eta )$ ：该算法由 TPA执行，以验证从CSP 接收到的证据 $P _ { f }$ 。该算法的输入为质询消息C、来自CSP 的消息 $P _ { f }$ 以及公钥 $g ^ { k }$ 。该算法的输出为{TRUE,FALSE}，其取决于验证的成功或失败。
+
+# 2.3构建细则
+
+F 表示要外包的文件，该文件被分为 $n$ 个数据块(d[1],.d[2],.,d[n])。假定 $e : G \times G  G _ { T }$ 表示一个双线性映射，其中 $\mathrm { \bf ~ g }$ 为生成器， $\mathfrak { p }$ 为群G的素数阶。设 $H : \{ 0 , 1 \} ^ { * }  G$ 为加密 hash 函数。本文所提协议如下：
+
+a)Keygn $1 ^ { \lambda }$ ）。首先，DP 必须使用算法1展示的密钥生成程序，生成密钥集 (pubkey,seckey)。该算法首先选择一个随机元素$k \in Z _ { p }$ 作为一个私有密钥，并生成 $\eta = g ^ { k }$ 作为公钥。
+
+算法1生成算法
+
+1. procedure KEYGEN(1^)
+
+Input：安全性参数 $\lambda$ Output：发布系统参数 $( G , g , \eta )$ ，保留 $k$ 。
+
+2. 初始化配对：   
+3. pbc_demo_pairing_init(pairing,count, param)   
+4. 初始化G和 $Z _ { P }$ 的元素   
+5. element_init_G(g, pairing);   
+6. element_init_G( $\eta$ ,pairing);   
+7. element_init_ $Z _ { P }$ （ $k$ , pairing);   
+8. 生成系统参数和私有密钥   
+9. （204号 $g \gets$ element_random(g);   
+10. $k $ element_random(k);   
+11. 生成公共密钥   
+12. $\eta \ \gets \mathrm { e l e m e n t \_ p o w } _ { - } Z _ { P } ( \eta , g , k ) .$
+
+b)FleTagGen。由于DP 要生成文件 $F$ 的标签，所以 DP 首先生成一个随机元素， $u \in G$ 。DP 生成系统日期和时间，表示为$d _ { t }$ 。将系统日期和时间串联在文件标签 $\boldsymbol { \tau }$ 中，以确保数据文件的新鲜性。设 $h = ( { \mathrm { f n a m e } } \| n \| u \| d _ { t } )$ ，其中 $h \in G$ ， $\tau = s i g _ { k } ( h )$ 为$F$ 的文件标签。对串联的字符串 $h$ 进行本地存储，以用于未来的文件标签验证。生成文件标签的伪代码如算法2所示。
+
+算法2生成文件标签 procedure GENERATEFILE TAG
+
+Input：文件名fname，私钥 $k$ ，文件块数量 $n$ ，日期和时间 $d _ { t }$
+
+Output：公布文件标签(T)。保留文件标签hash $( h )$ 。
+
+2. 初始化配对：  
+3. pbc_demo_pairing_int(pairing,count, param)  
+4. 对G的随机元素 $u$ 和 $h$ 进行初始化：  
+5. element-init_G(u, pairing);  
+6. element_init_G(h, pairing);  
+7. 生成 $u$ （204  
+8. $\mathbf { g }  \mathrm { e l e m e n t \_ r a n d o m } ( u )$   
+9. 读取系统日期和时间  
+10. （204号 $d _ { t } \gets \mathrm { c t i m e } ( t )$   
+11. 串联 fname、n、u、 $d _ { t }$   
+12. file_tag_concatenation $$ fname $\| \mathrm { ~ n ~ } \| \mathrm { ~ u ~ } \| d _ { t }$   
+13. file_tag_concatenation转换为随机元素 $h \in G$ ;  
+14. $h \gets$ element_from_hash (file_tag_concatenation);  
+15. 生成文件标签τ
+
+16. $\tau \gets$ element_pow_ $Z _ { P }$ （ $\tau$ ,file_tag_concatenation, $k$
+
+c)BlockSigGen。在生成文件标签 $\tau$ 后，DP 为每第 $i$ 个文件块 $\boldsymbol { d } [ i ]$ 生成 BLS 签名 $\psi _ { i } = ( H ( d [ i ] ) . u ^ { d [ i ] } ) ^ { k }$ ，其中 $i \in \{ 1 , 2 , . . . , n \}$ ，$u \in G$ 。此处 $H ( d [ i ] )$ 表示使用一些加密 hash 函数得到的文件块 hash 值。提出的协议中使用了 SHA256 hash 算法。签名集合表示为 $\boldsymbol { \Theta } = \{ \psi _ { i } \}$ ， $1 \leq i \leq n$ 。在生成块签名后,DP 生成一棵RI-MHT，使用 $H ( d [ i ] ) \bigtriangledown i \in \{ 1 , n \}$ 作为叶节点，并生成一个根节点 $\boldsymbol { H } _ { R }$ 口在实现 $\boldsymbol { H } _ { R }$ 时，DP 将其与系统日期和时间相串联，以确保数据新鲜性。由此， $H _ { R } = H _ { R } \parallel d _ { t }$ 。现在DP 使用 $k$ 对根 $\boldsymbol { H } _ { R }$ 进行验证。根签名最后表示为 $\rho \gets H ( R ) ^ { k }$ 。DP 将向 CSP 发送 $\{ \mathrm { F } , \tau , \theta , \rho \}$ 信息以从本地存储中对相同的信息进行存储和删除。本文MHT 创建算法的伪代码如算法3所示。
+
+异法MHI创廷异法
+
+1:procedure MERKLE_HASH_TREE_CREATION  
+Input：结构元素 mt，块hash $( H ( d [ i ] )$ ，  
+头标文件 merkle_tree_h  
+Output:根节点(roothash)  
+2：将 leaf_start 初始化为块数量  
+3： ： $\mathrm { l e a f \_ s t a r t } \left. ( 1 \ll ( \mathrm { m t } \right. \mathrm { t r e e h e i g h t } - 1 ) ) \$   
+4: 初始化树中的节点数量  
+5: $\mathrm { m t } \to \mathrm { n }  ( \mathrm { l e a f \_ s t r a t } + \mathrm { m t } \to \mathrm { d a t a \_ b l o c k s } - 1 )$   
+6: 为 $\mathrm { m t } $ 节点中的 $\mathrm { m t }$ 分配内存  
+7: 初始化leaf_start计数  
+8： 当该计数小于或等于 $\mathrm { m t }  \mathrm { n }$   
+9: 设 $\mathrm { m t } $ node[count].index为1;  
+10: 设 mt→node[count].hash 为 H(d[count-leaf_start]);  
+11: 设mt $$ node[count].left 为NULL;  
+12: 设 mt→node[count].right 为 NULL;  
+13: 计数以1为增量;  
+14: end while  
+15: 将计数初始化为leaf_start-1  
+16: 当计数大于0时  
+17: 设 mt→node[count].hash 为 NULL 值;  
+18: 设mt $$ node[count].hash 为 mt $$ node[2\*count].hash  
++mt $$ node[2\*count+1].hash;  
+19: 设 mt-→node[count].index 为 mt-→node[2\*count].index  
++mt →→node[2\*count+1].index;  
+20: 设 mt→node[count].left 为 mt-→node[2\*count].left;  
+21: 设 $\mathrm { m t } $ node[count].right 为 mt-→node[2\*count].right;  
+22: 计数以1为减量;  
+23: 若计数等于0;  
+24: 返回地址 $\mathrm { m t } $ node  
+25: end while
+
+d）质询。DP可能会对外包数据F的完整性进行检查。为此，DP 通过在一个安全可靠的信道上共享文件细则、根签名和私有密钥，将审核任务委托给 TPA。为开始审核，TPA 选择随机的包含 $k$ 个元素的子集 $Q = \{ r _ { 1 } , r _ { 2 } , . . . , r _ { k } \} \in [ 1 , n ]$ 和 $i \in \mathcal { Q }$ 。TPA将质询消息 $\mathbf { C } \gets ( i , b _ { i } ) _ { i \in \mathcal { Q } }$ 发送到CSP。
+
+e）GenProof。一旦接收到来自 TPA 的质询消息C 后，CSP 立即使用搜索算法对 hash 树中第 $i$ 个节点 $\forall i \in \mathbf { C }$ 进行搜索。在进行节点搜索时，CSP可以在第 $i$ 个节点的搜索路径上存储每个兄弟节点的信息。该信息将作为正被搜索节点的辅助信息（AI）。
+
+举例来说，若第 $i$ 个节点为图3中的节点5，则其AI为： $[ ( H _ { A } , 4 , L ) , ( H ( d [ 6 ] , 1 , R ) ( H _ { F } , 2 , R ) ]$ ，其中 $L$ 表示左兄弟节点， $R$ 表示右兄弟节点。若MHT中不存在第 $i$ 个节点，则CSP 向 TPA 通知块未发现的消息，并停止审核过程；若块确实存在，则CSP 继续证据生成程序，并生成一个完整的所有权证据。
+
+f）VerifyProof。在开始验证之前，TPA先验证文件标签 $\tau$ 如下：
+
+（a）恢复本地存储的文件标签hash $h$ 。
+
+（b）恢复来自服务器的文件标签 $\tau$ 0（c）检查公式 $e ( h , g ^ { k } ) = ^ { ? } \ e ( \tau , g )$ 是否成立。
+
+（d）若验证通过，则输出TRUE，并恢复 $u$ 和 $d _ { t }$ 。
+
+（e）若未通过验证，则停止程序。
+
+若文件标签 $\tau$ 的真实性验证未能通过，则 TPA 会停止进一步的审核程序，并将完整性审核过程失败的消息报告给 DP；若文件标签的认证通过，则TPA 恢复 $\boldsymbol { u }$ 和 $d _ { t }$ 字段，以将其用于对接收自CSP 的 $P _ { f }$ 中的根 $\rho$ 进行认证。完整性认证的伪代码如算法4所示。
+
+算法4完整性认证
+
+1：procedureINTEGRITY_VERIFICATIONInput: $P _ { f }$ ，η，COutput：TRUEif 文件块通过认证 elseFALSE
+
+2: 初始化配对：   
+3: pbc_demo_pairing_init(pairing,count,param)
+
+4：初始化少数随机元素 G 的 temp1、temp2、temp3、H(d[i])Power[i]， $Z _ { P }$ 的b[i]，其中 $i \in {  Q }$
+
+5: element_init_G(templ,pairing);   
+6: element_init_G(temp2,pairing);   
+7: element_init_G(temp3,pairing);   
+8: element_init_G(H(d[i]),pairing);   
+9: element_init_G(Power[i],pairing);   
+10: element_init_Zr(b[i],pairing);   
+11: element_setl(temp1);   
+12：从服务器读取 $H ( \mathrm { d } [ i ] )$ 、 $\mu$ ；从C读取 $b [ i ]$ ， $u$   
+生成 $H d ( [ i ] ) ^ { b [ i ] } . u ^ { \mu \vee }$ ， $i \in {  Q }$ （20   
+13: element_pow_Zp(Power[i],H(d[i]),b[i]);   
+14: element_pow_Zp(Powerl[i],u,μ)   
+15:生成II(H(d[i]).u"   
+16: element_mul(Power[i],Power[i],Powerl[i])   
+17: element_mul(temp1, temp1,Power[i]);   
+18：在 temp1上应用配对   
+19: pairing_apply(temp2,templ, $\eta$ ,pairing);   
+20：在上应用配对   
+21: pairing_apply(temp3,Y,g, pairing);   
+22：比较 temp2 和 temp3   
+23: result=element_cmp(temp2,temp3)   
+24：if 结果为0 then output TRUE   
+25：else output FALSE
+
+# 3 性能分析
+
+本章将分析RI-MHT的性能。随着损坏块数量的不同，其计算复杂度的变化。还将给出不同算法的计算成本、存储成本和通信开销，以及与其他数据完整性审核协议之间的比较结果。
+
+# 3.1计算成本分析
+
+审核模型中不同实体的计算成本是不同的。对于TPA，计算成本指的是执行一次完整性审核所需的资源。对于CSP，计算成本对应于处理质询消息，并生成所有权证据所需的时间。数据动态操作与常规数据完整性审核中产生的计算成本是不同的。在更新操作中，TPA需要生成新鲜块的块标签，CSP需要重新生成根hash并更新文件标签。所有这些任务均会对各自涉及的实体产生计算负担。
+
+下面将给出RI-MHT的计算成本，并与文献[3]和文献[6]进行比较。为简便起见，分析实验使用表1给出的符号。RI-MHT中每个算法的计算成本如表2所示。其中， $n$ 表示数据块总数； $\mathbf { \Psi } _ { t }$ 表示质询数据块数量。上述三种协议的计算成本比较如表3所示。由表可知，所提协议的效率高于其他两个协议。文献[3]搜索数据块的计算时间较长，并根据块数量增长而线性变化，即 $O ( n )$ 。所提协议中，由于使用了先对索引字段，搜索一个节点的复杂度被降低为 $O ( \log n )$ 。所提搜索算法的计算复杂度与在包括 $( 2 n - 1 )$ 个节点的二叉搜索树[I]（BST）中搜索一个元素相似，而文献[3]则与线性搜索算法的计算复杂度相似。图4给出了所提协议在频繁数据改动中的性能。实验中对1GB的文件进行更新，其中更新的块数量从100\~1000间变化。由图可知，随着被改动块数量的增加，文献[3]计算成本增加的速率高于本文协议，而文献[6]则不支持数据动态操作。
+
+表1符号和描述  
+
+<html><body><table><tr><td>符号</td><td>描述</td></tr><tr><td>H(G)</td><td>将一个数值散列到群G 中</td></tr><tr><td>Add(G)</td><td>群G中的加法任务</td></tr><tr><td>Mul(G)</td><td>群G中的乘法任务</td></tr><tr><td>Exp(G)</td><td>群G中的求幂任务</td></tr><tr><td>Pair(G)</td><td>群G中的配对任务</td></tr></table></body></html>
+
+表2RI-MHT中不同算法的计算成本  
+
+<html><body><table><tr><td>算法</td><td>加法</td><td>乘法</td><td>Hash</td><td>求幂</td><td>配对</td></tr><tr><td>KeyGen</td><td>0</td><td>0</td><td>0</td><td>Exp(G)</td><td>0</td></tr><tr><td>FileTagGen</td><td>0</td><td>0</td><td>0</td><td>Exp(G)</td><td>0</td></tr><tr><td>BlockSigGen</td><td>0</td><td>0</td><td>nH(G)</td><td>(n+1)Exp(G)</td><td>0</td></tr><tr><td>GenProof</td><td>tAdd(G)</td><td>(t-1)Mul(G)</td><td>0</td><td>tExp(G)</td><td>0</td></tr><tr><td>VerifyProof</td><td>0</td><td>tMul(G)</td><td>0</td><td>tEXP(G)</td><td>4</td></tr></table></body></html>
+
+表3计算成本的比较  
+
+<html><body><table><tr><td>协议</td><td>服务器</td><td>审核者</td><td>时间复杂度</td></tr><tr><td>文献[3]</td><td>tEXP(G)+(t-1)Mul(G)</td><td>2Pair+(t+2)Exp(G)+(t+1)Mul(G)</td><td>0(n)</td></tr><tr><td>文献[6]</td><td>2tExp(G)+(2t-2)Mul(G)</td><td>3Pair+(t+1)Exp(G)+tMul</td><td>0(n)</td></tr><tr><td>RI-MHT</td><td>tExp(G)+(t-1)Mul(G)</td><td>4Pair+tExp(G)+tMul(G)</td><td>O(logn)</td></tr></table></body></html>
+
+![](images/d4db978ca5a845ab709f8499c96719803b40ba8f9e16c75f569cc025e65d75f0.jpg)  
+图4计算成本随被改动数据块数量的变化情况
+
+# 3.2存储成本分析
+
+下面分析RI-MHT的存储和通信成本。DP存储密钥对 $( \eta , k )$ 、文件标签散列h。受委托的TPA存储公钥7、文件标签τ。CSP存储 DP 的数据文件F、文件块标签 $\theta$ 、根签名 $\rho$ 、文件标签 $\boldsymbol { \tau }$ 。因此，在存储开销中，文件预处理时生成的元数据大小会产生重要影响。在基于RSA的协议中生成的元数据为RSA 模的大小。考虑RSA 模的大小为2048位，公钥大小为6168位素数，那么协议得出一个数据块的大小应该保持 $\leq \mathtt { e } / 2$ 。若一个数据块 ${ \bf < e } / 2$ ，则协议可能会变得不安全。因此，一个64MB的数据需要被分割为最小87056个数据块，每个数据块的元数据长度为2048位。由此，总元数据大小约为 $2 1 . 2 ~ \mathrm { M B }$ 。在RI-MHT中，本文选择基于 BLS 签名的同态标签，因为与基于RSA 标签的同态标签相比长度较短。RI-MHT 中的存储成本如表4所示。其中， $n$ 表示数据块总数量； $k$ 表示安全性参数；1表示文件标签的大小；IG|表示属于G的一个元素的大小。从表4中可知，在DP和 TPA 处由于元数据而产生的存储开销是恒定的，但在CSP 处则呈线性变化。从表4还可知道，各协议的 TPA 存储成本是相同的，最大的区别在于数据所有者DP，以及云供应商CSP。因此，本文RI-MHT 在总体存储成本上具有一定优势，这主要得益于生成的元数据较小。
+
+表4RI-MHT中的存储成本/bit  
+
+<html><body><table><tr><td>实体</td><td>本文</td><td>文献[3]</td><td>文献[6]</td></tr><tr><td>DP</td><td>k+2|G|+l</td><td>k+3|G|+21</td><td>k+3|G|+l</td></tr><tr><td>TPA</td><td>k+|G|+l</td><td>k+|G|+l</td><td>k+|G|+l</td></tr><tr><td>CSP</td><td>n+/+(n+1)|G|</td><td>n+2l+(n+1)|G)</td><td>n+2l+(n+1))G|</td></tr></table></body></html>
+
+# 3.3 通信成本分析
+
+在一个审核实例中CSP 与TPA之间的数据传输量构成了通信成本。在RIT-MHT中，通信成本主要来自于 TPA向CSP 发送质询消息，以及CSP向 TPA 发送证据消息。DP将审核任务委托给 TPA 所产生的通信开销是恒定的。RIT-MHT中各方实体之间的通信开销如表5所示。其中， $\vert Z _ { p } \vert$ 表示属于 $Z _ { p }$ 一个元素的大小； $t$ 表示质询数据块的数量；l表示文件标签的大小；|G表示属于G 的元素大小。
+
+表5RI-MHT中的计算成本  
+
+<html><body><table><tr><td>阶段</td><td>计算成本（bits）</td></tr><tr><td>委托审核任务</td><td>DP→TPA:2|G|+l</td></tr><tr><td>质询阶段</td><td>TPA→CSP: t.|Zp|+283</td></tr><tr><td>响应证据</td><td>CSP→TPA:|G|+|Z,|+(t+2)256</td></tr></table></body></html>
+
+由于 DP 将审核任务委托给 TPA，DP向 TPA 共享密钥、文件标签和根签名，所以该通信成本每次审核仅产生一次，等于密钥、根签名和文件签名的大小。TPA向CSP发送包含 $k$ 个元素的子集 $\varrho$ 、随机元素 $b _ { i } \in Z _ { p } , i \in Q$ 质询消息。相关研究表明[12,13],$\boldsymbol { \mathcal { Q } }$ 可表示为 $\{ \log | F | + 3 \log ( 1 / e r r ) \}$ 字节,其中, $\| F \|$ 指的是数据文件大小;err 为误差概率。一般来说，对于一个文件大小 $\leq 1 0 2 4$ （204号TB和 $2 \leq e r r \leq 8 0$ ， $\mathrm { ~ Q ~ }$ 的大小可表示为 283Byte。因此质询阶段中，对于大小 $\leq 1 0 2 4 \ \mathrm { T B }$ 的一个文件，通信成本的最大值为$t . | Z _ { p } | { + } 2 8 3$ Byte。
+
+# 3.4综合评价
+
+本文进行实验的系统为2.20GHzIntel core $^ { \mathrm { ( T M ) } } 2$ 双核处理器，2GBRAM。使用PBC 库[14]版本0.5.14，散列操作使用配对和加密库 Openssl版本1.0.2e。协议构建中实施了160位群阶椭圆曲线。仿真平台为ubuntu-10.04操作系统。为进行实验演示，本文使用的文件大小为 $1 0 { \sim } 1 0 0 \mathrm { K B }$ 。不同数量的文件块进行完整性审核时TPA的计算成本如图4所示。由图可知，使用RI-MHT时 TPA的计算负担最小。为研究更新操作的影响，文献[3]协议中，TPA 首先搜索 MHT中文件块的位置，其复杂度随树中块数量的增加而线性增长。由此，搜索操作为TPA带来了额外的计算开销。而在RI-MHT中，搜索一个节点的复杂度被对数降低了。从图5可知，文献[3]和文献[6]的计算成本随着文件大小的增大而升高，而本文方法对 TPA造成的计算开销最小。因此，当DP将一个大数据文件外包到云中，或频繁更新云中的外包文件时，所提RI-MHT能够大幅降低计算开销。
+
+![](images/98e208bd8e84714603141fb1726e7d3f8ab23a855342393024fbb968f0fcc6ed.jpg)  
+图5计算成本与质询数据块数量的关系
+
+# 4 结束语
+
+本文基于MHT构建和BLS 签名，提出了一个云数据的完整性审核协议。为了降低搜索复杂度，节点的相对索引集成了散列树中的 hash 值。该协议将时间戳字段串联到根 hash 中，以确保数据的新鲜性，使得用户在任何时间访问的数据文件均是数据的最近一次副本。因此，所提协议支持高效数据公共审核，确保了数据的新鲜性。实验结果和安全性证明表明 RI-MHT具有较高的安全性和效率。
+
+# 参考文献：
+
+[1]张建勋，古志民，郑超.云计算研究进展综述[J].计算机应用研究,2010,27(2):429-433.  
+[2]MellP,Grance T.TheNISTdefinitionofcloudcomputing[J].CommunicationsoftheACM,2009,53(6):50-50.  
+[3]YaoCiinHumanized Computing,2014,5(6): 857-865.  
+[4]许柯，刘绪崇，符振艾，等．网络信息加密RSA算法的运算速度和保密性优化[J].科技通报,2015,34(7):144-147.  
+[5]Shacham H,Waters B.Compact proofs ofretrievability[J].Journal ofCryptology,2013,26(3): 442-483.  
+[6]ErwaCoicbJsoiit)[7]谢飞．基于Merkle散列树的可信云计算信息安全证明方法[J].激光杂志,2016,37(11):122-127.  
+[8]WangJo[9]李凌．云计算服务中数据安全的若干问题研究[D].合肥：中国科学技术大学,2013.  
+[10]巩俊卿，钱海峰．具有完全保密性的高效可净化数字签名方案[J].计算机应用研究,2011,28(1):312-317.  
+[11]王秋芬，梁道雷．一种构建最优二叉查找树的贪心算法[J].计算机应用与软件,2013,30(7):57-61.  
+[12]EteadlU96.  
+[13]刘爱分．云环境下高效动态的密文搜索方法[D].沈阳：东北大学,2013.  
+[4]elatAae2011:386-405.

@@ -1,0 +1,700 @@
+[
+    {
+        "type": "text",
+        "text": "动态热门话题的“特征词条本体”自动构建与进化研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马静何雪枫 简旭文",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(南京航空航天大学经济与管理学院南京 210016)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】设计一种\"特征词条本体\"的自动构建及进化算法。【应用背景】热门话题产生的时间和话题演化往往是快速的，且涉及领域广泛，而现有的本体自动构建研究局限于具体领域的知识表达，无法有效地对这种动态热门话题进行本体语义支持，也不能进行有效跟踪与优化。【方法】通过对热门话题中关键事件的内容分析并由特征词组合而成的\"特征词条本体\"来描述热门话题的方法，设计一种快速自动生成\"特征词条本体\"的算法；在初始本体指导下，利用话题跟踪结果进行\"特征词条本体\"进化算法的设计，以满足不断更新的话题语义表述需求。【结果】针对热门话题\"魏则西百度推广事件”，使用爬虫工具采集1174条新浪微博作为语料库进行实验，抽取生成拥有7421个特征词条、39个特征词节点、781个特征词关系的初始本体，基于话题跟踪结果进化为拥有24 564个特征词条,67个特征词节点,1818个特征词关系的进化本体，其漏报率、误报率、损耗代价分别为0.1261,0.0964,0.5985，优于TF-IDF算法。【结论】“特征词条本体\"的表述方式明显比单个词汇的本体表述准确率高，且语义相似度更容易计算，比较符合动态热门话题的快速语义处理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:特征词条本体生成本体进化话题跟踪分类号：TP391G353",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着互联网信息的爆炸，海量文本的语义识别与表达成为主要难点。本体作为表达现实世界知识的重要方法得到研究者的极大关注[1]。本体被引入计算机科学中作为知识表示的方法并被广泛使用，包括：知识工程、智能信息处理、软件工程、自然语言处理等诸多领域，并将成为语义网、基于知识的下一代智能计算、信息抽取和智能检索等许多领域的基础和关键[2]。由于本体构建中概念及其关系的建模大多都需要手工构建，人工构建本体存在成本高、构建时间长并极其依赖专家的参与程度等一系列的问题，成为本体构建的障碍[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自动或半自动本体构建成为近年研究探索的热点。目前，本体自动构建方式主要有三种:",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1）通过聚类算法获取研究领域内的概念与关系进行构建。Lin 等[4在其本体自动构建研究中通过CBC(Clustering By Committee)聚类发现领域概念;Srivastava等[5研究了从文本信息中获取本体的层次以及关联关系，分别使用相似度度量聚类(Similaritybased Clustering)、集合理论聚类(Set-theoretic Clustering)两种方式进行本体关联的挖掘聚类研究，并分析了这两种方法的聚类有效性、效率和可跟踪性；何婷婷等[6]提出了一种多重聚类技术自动构造本体的方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2）根据已有的词典或术语表自动构建本体。He等[7与Lim等[8给出了获得概念分层语义关系的方法：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从语料库中抽取术语，分别根据已有术语表或词典计算术语之间的相似性和语义分类层次，同时结合词汇在表达相同主题的各文本中所具有的重要性，构建各术语之间的语义关系；马静等选择使用NASA叙词表，将广泛的航空产品类概念进行本体映射，构建航空产品的领域本体；唐爱民等[1提出利用半结构化文本作为本体的知识源，基于词汇功能语法理论对句子进行分析，将原文中语法表述的文字转换成语义表述,从而获取本体。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）通过网络或者领域图来挖掘概念间的层次关系进行本体构建。Chen 等[提出基于自适应谐振网络和贝叶斯网络的领域本体自动构建算法；侯鑫等[12]提出一种基于图上随机游走的词汇加权算法，获取候选概念进而自动构建领域本体。郑学伟[13采用基于图的构建原理，在关系运算中采用基于频繁信息子图的gSpan算法得到本体。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述研究中，第一种研究方向可以将相似概念聚集在一起，但是无法获得概念与概念之间的关系描述;第二种研究方向利用语言分析技术涉及的学科多且跨度大，完全实现本体自动构建很困难；第三种研究方向随着领域图或网络中顶点数量的增加，本体概念与关系抽取的准确率就会下降，自动构建本体尚不能满足实际应用的需求。同时，随着网络舆情事件的影响力越来越大，面向动态热门话题的自动本体构建需求迫切，而现有的本体构建方法都因局限于某些已知领域的积累，因而无法快速产生热门话题的相关本体。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种\"特征词条本体\"的概念，从首发新闻报道中快速自动生成一个热门话题的核心语义，实现对话题的语义表述；基于词汇间共现关系设计“特征词条本体\"抽取生成算法；在此基础上设计基于不断演化的话题跟踪结果下“特征词条本体\"进化算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2“特征词条本体”自动生成的算法设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1“特征词条本体\"的提出",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于动态热门话题中的新闻内容，有些词语与目标话题关系密切，有些词语则和话题没有太大关系，单单计算词语的词频无法获知新闻与话题关系的密切程度。然而新闻内容中某些具有特定关系的词组却能在很大程度上体现一个话题的语义特性，例如在“魏则西百度推广事件\"的话题中， (魏则西，百度，事件),(百度，推广，事件)等词语组合几乎会在所有新闻内容中出现，这类词组表示该话题的关键事件进而表述话题的核心语义，同时若一条待检测的新闻中频繁包含该类词组，其与目标主题相关的可能性就很大。其次通过对不同概率分布的特征词条的区分，还能概括出该话题下不同子事件，例如在魏则西百度推广事件的话题中(魏则西，莆田，医院)， (医院，莆田，责任)等词条在某些新闻内容中出现频率较高，反映了目标话题下不同侧重点的子事件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文将能够表示话题中关键事件语义的特征词组合定义为特征词条，其数学符号为c, $\\mathbf { c } { = } \\{ \\mathbf { w } _ { 1 } , \\mathbf { w } _ { 2 } { \\cdots } \\}$ ，其中 $\\mathbf { w } _ { 1 , \\ \\mathbf { W } _ { 2 } } \\cdots$ 为组成该词条的特征词。由特征词条组成并用来描述话题的集合，本文将其定义为“特征词条本体”，其数学符号为（ $\\therefore c = \\{ \\mathbf { c } _ { 1 , } \\mathbf { c } _ { 2 } \\cdots \\}$ □",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2特征词条抽取与初始本体生成",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "特征词条是利用特征词之间的共现关系，将共现概率高的几个特征词组合在一起以表示话题中的特定内容。本文利用特征词之间的互信息值来计算词的共现概率，词 $\\mathbf { w _ { i } }$ 与 $\\mathbf { w _ { j } }$ 的共现概率 $\\mathbf { M } ( \\mathbf { w } _ { \\mathrm { i } } , \\mathbf { w } _ { \\mathrm { j } } )$ 计算公式如下:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M ( w _ { i } , w _ { j } ) = \\frac { \\ p ( w _ { i } , w _ { j } ) } { p ( w _ { i } ) p ( w _ { j } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathsf { p } ( \\mathrm { w } _ { \\mathrm { i } } , \\mathrm { w } _ { \\mathrm { j } } )$ 为特征词 $\\mathbf { w } _ { \\mathrm { i } }$ 与 $\\mathbf { w _ { j } }$ 在同一句子中出现的频率, $\\mathsf { p } ( \\mathbf { w } _ { \\mathrm { i } } )$ 与 $\\mathsf { p } ( \\mathbf { w } _ { \\mathrm { j } } )$ 分别为 $\\mathbf { w _ { i } }$ 与 $\\mathbf { w _ { j } }$ 在训练集中各自的出现频率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "“特征词条本体\"抽取生成的过程如下:",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）创建临时词组集合 $\\mathbf { G } _ { 1 }$ ， $\\mathbf { G } _ { 2 }$ ， $\\mathbf { G } _ { 3 }$ ，两两计算特征词互信息值 $\\mathbf { M } ( \\mathbf { w } _ { \\mathrm { i } } , \\mathbf { w } _ { \\mathrm { j } } )$ ，当值大于阈值 $\\mathrm { { T _ { m } } }$ 时，将词组 $( \\mathbf { w } _ { \\mathrm { i } } , \\mathbf { w } _ { \\mathrm { j } } )$ 加入词组集合 $\\mathbf { G } _ { 1 }$ 中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）对临时集合 $\\mathbf { G } _ { 1 }$ 进行判断，若 $\\mathbf { G } _ { 1 }$ 为空，结束抽 取过程，此时\"特征词条本体”C为特征词的集合，若 $\\mathbf { G } _ { 1 }$ 不为空，则继续特征词条的抽取。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）取 $\\mathbf { G } _ { 1 }$ 中第一个特征词组 $( \\mathbf { w } _ { \\mathrm { i } } , \\mathbf { w } _ { \\mathrm { j } } )$ ，遍历$\\mathbf { w } _ { \\mathrm { i } + 1 } , \\mathbf { w } _ { \\mathrm { i } + 2 } \\cdots \\mathbf { w } _ { \\mathrm { n } }$ ，若发现存在 $\\mathrm { M } ( \\mathrm { w } _ { \\mathrm { i } } , \\mathrm { w } _ { \\mathrm { k } } ) { > } \\mathrm { T } _ { \\mathrm { m } }$ ，$\\mathrm { M } ( \\mathrm { w _ { j } } , \\mathrm { w _ { k } } ) { \\ = } \\mathrm { r _ { m } }$ ，则将 $( \\mathbf { w } _ { \\mathrm { i } } , \\mathbf { w } _ { \\mathrm { j } } , \\mathbf { w } _ { \\mathrm { k } } )$ 加入 $\\mathbf { G } _ { 2 }$ ，否则将$( \\mathbf { w } _ { \\mathrm { i } } , \\mathbf { w } _ { \\mathrm { j } } )$ 加入到集合 $\\mathbf { G } _ { 3 }$ ，并将 $( \\mathbf { w } _ { \\mathrm { i } } , \\mathbf { w } _ { \\mathrm { j } } )$ 从 $\\mathbf { G } _ { 1 }$ 中去除。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4）重复步骤(3)，直至临时集合 $\\mathbf { G } _ { 1 }$ 为空，并对 $\\mathbf { G } _ { 2 }$ 集合进行判断，若 $\\mathbf { G } _ { 2 }$ 为空，结束抽取，集合 ${ \\bf G } _ { 3 }$ 即 为\"特征词条本体\"C，若 $\\mathbf { G } _ { 2 }$ 不为空，则继续特征词条 抽取。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5)将 $\\mathbf { G } _ { 2 }$ 集合中特征词条加入到 $\\mathbf { G } _ { 1 }$ ，将 $\\mathbf { G } _ { 2 }$ 清空，重复以上步骤寻找特征词条，直至临时集合 $\\mathbf { G } _ { 1 }$ 为空时， $\\mathbf { G } _ { 2 }$ 也为空，此时集合 ${ \\bf G } _ { 3 }$ 即为\"特征词条本体”C。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3特征词节点权重的生成",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "得到\"特征词条本体\"C后，需要计算单个特征词在\"特征词条本体\"中的权重，以表述该特征词的重要程度。本文从网络图的角度出发，将“特征词条本体\"集合中的词条看成是由特征词组成的网络图，利用词与词之间的关系(即网络图中的两个特征词节点间的连线)计算单个特征词权重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先根据词条出现的次数计算词条权重，则词条${ \\bf c } _ { \\mathrm { i } }$ 在训练集中的权重计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Q } ( \\mathrm { c } _ { \\mathrm { i } } ) { = } \\frac { \\mathrm { t } _ { \\mathrm { i } } } { \\displaystyle \\sum \\mathrm { t } _ { \\mathrm { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathbf { t _ { i } }$ 是词条 $\\mathbf { c } _ { \\mathrm { i } }$ 在训练集中出现的次数, $\\sum \\mathrm { t } _ { \\mathrm { i } }$ 是所有词条在训练集中出现的次数之和，两者相除即为词条 $\\mathbf { c } _ { \\mathrm { i } }$ 的权重。在此基础上，计算两个特征词$\\mathbf { w } _ { \\mathrm { i } } , \\mathbf { w } _ { \\mathrm { j } }$ 之间关系(即网络图中两点的连边)的权重，其计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Q ( e d g e _ { i j } ) { = } \\frac { \\sum \\{ Q ( c _ { i } ) , Q ( c _ { j } ) \\cdots \\} } { \\sum Q ( e d g e _ { i j } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\{ \\mathrm { Q c _ { i } } , \\mathrm { Q c _ { j } } ^ { \\ldots } \\}$ 是词条本体中出现了 $\\mathbf { w } _ { \\mathrm { i } } , \\mathbf { w } _ { \\mathrm { j } }$ 连接关系的特征词条集合， $\\sum \\{ \\mathrm { Q } ( \\mathrm { c } _ { \\mathrm { i } } ) , \\mathrm { Q } ( \\mathrm { c } _ { \\mathrm { j } } ) ^  \\cdots \\}$ 是集合$\\{ \\mathrm { Q c _ { i } } , \\mathrm { Q c _ { j } } ^ { \\ldots } \\}$ 中词条权重之和，并进行权重的归一化处理，除以网络图中所有关系的权重和 $\\sum \\mathrm { Q } ( \\mathrm { e d g e _ { i j } } )$ ，得到 $\\mathbf { w } _ { \\mathrm { i } } , \\mathbf { w } _ { \\mathrm { j } }$ 关系权重 $\\mathrm { Q ( e d g e _ { i j } ) }$ ）。利用公式(3)，可以求出网络图中有连线的两两特征词关系的权重，在此基础上，求出网络图中每个特征词节点的权重。特征词 $\\mathbf { w _ { i } }$ 的权重计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Q ( w _ { i } ) { = } \\frac { \\sum \\{ Q ( e d g e _ { i j } ) , Q ( e d g e _ { i k } ) \\cdots \\} } { k } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\{ \\mathrm { Q _ { e d g e _ { i j } } , Q _ { e d g e _ { i k } } , \\cdots } \\}$ 是网络图中与特征词节点 $\\mathbf { w _ { i } }$ 关联边的集合， $\\sum \\{ \\mathrm { Q } ( \\mathrm { e d g e _ { i j } } ) , \\mathrm { Q } ( \\mathrm { e d g e _ { i k } ) } { \\cdots } \\}$ 是集合 $\\{ \\mathrm { Q _ { e d g e _ { i j } } , Q _ { e d g e _ { i k } } , \\cdots \\} }$ 中关联边的权重之和，并除以特征词节点 $\\mathbf { w } _ { \\mathrm { i } }$ 的度 $\\mathbf { k }$ ，即求出\"特征词条本体\"中特征词",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { w } _ { \\mathrm { i } }$ 的权重 ${ \\bf Q } ( { \\bf w } _ { \\mathrm { i } } )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3基于话题跟踪的\"特征词条本体\"进化的算法设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本体构建后需要不断添加新的概念以满足实际需求，因此需要依据相应的理论、方法及标准对本体的概念、结构及关系进行完善，即本体进化[14-15](OntologyEvolution)。“特征词条本体\"同样需要在话题跟踪结果的基础上不断添加新的语料，实现其自身的概念与关系的完善。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本体进化的基础是加入大量话题相关的语料，本文采用话题跟踪的方式寻找相关新闻：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）计算待检测新闻d与现有“特征词条本体”C的相似度值，使用向量空间模型(Vector Space Model,VSM)分别描述新闻d与\"特征词条本体\"C，将d与C的相似度计算抽象成两个对应向量的相似度计算，并用数学上的向量余弦公式定量化计算为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { s i m ( d , C ) = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } Q _ { d } ( w _ { i } ) \\times Q ( w _ { i } ) } { \\sqrt { ( \\displaystyle \\sum _ { i = 1 } ^ { n } { Q _ { d } } ^ { 2 } ( w _ { i } ) ) ( \\displaystyle \\sum _ { i = 1 } ^ { n } Q ^ { 2 } ( w _ { i } ) ) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathrm { Q _ { d } ( w _ { i } ) }$ 为 $\\mathbf { w _ { i } }$ 在待检测新闻d中出现的频率， ${ \\mathrm { { Q } } } ( { \\mathrm { { w } } } _ { \\mathrm { { i } } } )$ 为公式(4)计算的特征词 $\\mathbf { w _ { i } }$ 的权重， $\\mathfrak { n }$ 为向量空间中出现特征词的数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）将相似度值计算结果 $\\mathrm { s i m ( d , C ) }$ 与设定判断阀值 $\\mathrm { T _ { d } }$ 相比较，判断它是否为主题相关，若结果大于判断阈值 $\\mathrm { T _ { d } }$ ，则判定新闻d是目标话题D的相关内容。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文在算法中嵌入一个比判断阈值 $\\mathrm { T _ { d } }$ 大的进化阈值 $\\mathrm { T _ { u } }$ ，如果相似度 $\\mathrm { s i m ( d , C ) }$ 大于 $\\mathrm { T _ { u } }$ ，则认为该新闻d不仅话题相关，而且可以描述话题D，将其加入“特征词条本体\"的训练集中。完成话题检测与跟踪之后，利用新的训练集快速抽取生成进化本体，基于话题跟踪的\"特征词条本体\"进化算法思路如图1所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用高于进化阈值的报道完善话题本体  \n样本语料 初始特征 相关文档词条本体相似度计算 阈值比较  \n新闻报道 词向量 不相关模型 文档",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4实验设计及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "依据算法进行实验，实验环境使用的是南京航空航天大学信息管理与电子商务研究所的数据挖掘与语义分析研究平台。根据提出的整体研究思路，选择近期热门的“魏则西百度推广事件\"作为目标话题，以新浪微博内容作为新闻语料，进行\"特征词条本体\"的自动生成与进化实验。在实验结果分析中，为了验证\"特征词条本体\"在话题语义表述上的有效性，选取基于词频的TF-IDF 算法进行话题跟踪与检测的对比实验，使用TDT4[16作为标准，评测两种方法的跟踪效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 实验数据 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）微博数据的采集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验需要两种类型的微博：与“魏则西百度推广事件\"相关的和不相关的微博。为了采集实验所需的微博数据，使用研究平台中的新浪微博抓取爬虫于2016年5月13日至2016年5月22日连续10天对微博语料进行增量爬取，去除字数过少微博与重复微博(指微博id重复，而不是内容重复)，共计获得微博 11174条。其中5月13日至5月17日以微博系统自身的话题划分为依据爬取“魏则西百度推广事件\"相关微博共计4480条，作为初始词条本体生成的训练集；于5月18日至5月22日爬取热门微博共计6694条，作为实验的测试集，用来验证\"特征词条本体\"在语义表述上的准确性，并在此基础上进行词条本体的进化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了判断测试集中的热门微博是否与“魏则西百度推广事件\"话题相关，采用人工观察的方式，由两个观察员共同评定测试集中热门微博的相关性。本次实验中微博采集的时间分布及是否与话题相关的结果如表1所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e0126583be2ae4159b52cc256d7dc46a69fa6fc2d488ca2b40b912f66bb47106.jpg",
+        "table_caption": [
+            "表1微博的时间分布与话题相关性结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">对比项</td><td colspan=\"5\">训练集数据</td><td colspan=\"5\">测试集数据</td></tr><tr><td>13日</td><td>14日</td><td>15日</td><td>16日</td><td>17日</td><td>18日</td><td>19日</td><td>20日</td><td>21日</td><td>22日</td></tr><tr><td>主题相关的微博数量</td><td>881</td><td>905</td><td>947</td><td>888</td><td>859</td><td>458</td><td>459</td><td>493</td><td>524</td><td>652</td></tr><tr><td>主题不相关的微博数量</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>780</td><td>751</td><td>781</td><td>949</td><td>847</td></tr><tr><td>总计</td><td>881</td><td>905</td><td>947</td><td>888</td><td>859</td><td>1238</td><td>1 210</td><td>1 274</td><td>1 473</td><td>1 499</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）微博语料的预处理",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次实验预处理分三个步骤依序进行：使用NLPIR-ICTCLAS2016 系统①(Institute of ComputingTechnology,ChineseLexical Analysis System)进行微博内容的分词，导人“百度汉语分词词库”，提高了分词准确性；分词之后会有大量的语气词、助词，比如\"哪里”、“其他”、“是的\"等词汇没有任何实际意义，使用“哈工大停用词表”、“四川大学机器智能实验室停用词库”、“百度停用词列表\"等综合去除语料库的停用词;对出现的一些网站引用、乱码等信息，比如‘ $@ ^ { , , }$ 、“http”、“.com”、“#\"等，使用正则表达式进行匹配去除无关词汇。经过文本预处理，实现了对微博语料库的分词与去杂，得到词汇21634个。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 实验方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文使用训练集的数据实现初始本体的自动生成，使用初始本体在测试集中寻找高于进化阈值 $\\mathrm { T _ { u } }$ 的微博，利用跟踪结果实现词条本体的进化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）初始特征词条本体的生成",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在训练集中去除出现次数少、对内容表达没有太大意义的低频词，使用微博出现频率大于阈值 $\\mathrm { T _ { w } }$ 的名词或动词作为特征词，此处阈值 $\\mathrm { T _ { w } }$ 取0.01，然后按照特征词条抽取算法，抽取共现概率高于阈值 $\\mathrm { { T _ { m } } }$ 的特征词组成特征词条进而生成\"特征词条本体\"C，此处阈值 $\\mathrm { { T _ { m } } }$ 取0.015。C中部分特征词条如图2所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[事件/n，推广/vn,魏则西/nr] [推广/vn,是/vshi，百度/nz][事件/n,推广/vn,百度/nz] [推广/vn,是/vshi,魏则西/nr][推广/vn,百度/nz,魏则西/nr] [事件/n,推广/vn,是/vshi][事件/n，是/vshi,百度/nz] [事件/n，看/v，魏则西/nr][事件/n,是/vshi，魏则西/nr] [事件/n,百度/nz,看/][是/vshi,百度/nz,魏则西/nr] [百度/nz,看/v,魏则西/nr]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在初始“特征词条本体\"的基础上，依据特征词节点权重的生成算法，依次生成词条权重、关系权重、与特征词权重。并对比传统基于词频的 TF-IDF算法的特征词权重，对比结果如图3所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "事件/n 0.085400 百度/nz 0.108776  \n推广/vn 0.070311 推广/vn 0.096503  \n百度/nz 0.069240 是/vshi 0.080982  \n看/v 0.061486 事件/n 0.078995  \n是/vshi 0.055976 魏则西/nr 0.073033  \n魏则西/nr 0.047372 有/vyou 0.045181  \n来/vf 0.047012 人n 0.036250  \n医院/n 0.038451 看/v 0.033398  \n这/rzv 0.037203 能/v 0.030082  \n度/qv 0.033184 医院/n 0.029677  \n能/v 0.029045 来/vf 0.027885  \n人n 0.028235 这/rzv 0.023919  \n事/n 0.022512 事/n 0.021894  \n全文/n 0.022232 没有/v 0.019013  \n有/vyou 0.021270 去/vf 0.018795  \n(a) TF-IDF算法 (b)本体方法",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过对比两种方法，可以看出，在使用本文方法后，“魏则西百度推广事件\"话题中“百度”、“魏则西\"等特征词的权重提高，而与话题相关度较低的特征词如“看”、“度”、“全文\"的权重明显降低。使用Gephi①软件对词条本体中的特征词关系进行可视化展示，依序处理特征词条，如[事件/n，百度/nz，魏则西/nr]，按照特征词条的顺序，以箭头进行串联，生成该词条对应的线路：事件 $/ \\mathrm { n - } >$ 百度/nz $\\phantom { 0 } \\mathrm { - } >$ 魏则西/nr，处理完全部的特征词条，即可生成初始词条本体的特征词关系如图4所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c3f2cfae4ee74818b29efe89024eb6ff643c8170c0df1a5b1bfc1e4143640f8.jpg",
+        "img_caption": [
+            "图3权重最高的20个特征词权重对比图",
+            "图4初始词条本体的特征词关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）基于跟踪结果的本体进化",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在初始“特征词条本体\"指导下对测试集进行话题跟踪，使用公式(5)计算一条微博与“特征词条本体\"的相似度。因为微博本身的内容较短并且需要选择相似度高的微博对词条本体进行进化，如果微博数量太少的话会影响后续本体进化的效果，所以结合实验结果，设置判断阈值 $\\mathrm { T _ { d } } = 0 . 3$ ，进化阈值 $\\mathrm { T _ { u } } = 0 . 4$ ，可得词条本体在测试集中的跟踪结果如表2所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/636cf25ff11ddd74d97c99eeeaa0987ccb0f93103c0858c9f4472a6830138a71.jpg",
+        "table_caption": [
+            "表2测试集中微博的时间分布与话题跟踪结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>对比项</td><td>18日</td><td>19日</td><td>20日</td><td>21日</td><td>22日</td></tr><tr><td>相似度大于判断阈值 的微博数量</td><td>468</td><td>450</td><td>522</td><td>529</td><td>647</td></tr><tr><td>相似度大于进化阈值 的微博数量</td><td>132</td><td>130</td><td>122</td><td>104</td><td>200</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选择18日至22日中相似度大于进化阈值 $\\mathrm { T _ { u } }$ 的688条微博作为话题跟踪结果对“魏则西百度推广事件\"的话题本体进行改进与完善，实现本体进化，进化后的特征词关系如图5所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2d2399f52158cc4914c9698aaed995338ed4abaa58a56d526abb77d85ca1261.jpg",
+        "img_caption": [
+            "图5本体进化后的特征词关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对比图4与图5，可以看出，进化后的“特征词条本体\"在表述新闻话题时语义更加丰富：特征词与特征词关系的数量明显增长，以本次“魏则西百度推广事件\"为例，初始\"特征词条本体\"共有特征词条7421个，特征词节点39个，特征词关系781个，在经过本体进化后，共有特征词条24564个，特征词节点67个，特征词关系1818个；更加能够反映话题下子事件的语义，例如观察进化后的特征词关系图中[事件/n，发表/v，魏则西/nr]、[发表/v，百度/nz，魏则西/nr]、[中国/ns，发表/v，莆田/ns]、[媒体/n，发表/v，责任/n]、[媒体/n，发表/v，责任/n]等词条可以获知该话题下关于媒体问责魏则西事件的相关内容。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3 实验分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）话题跟踪实验的设计",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了验证\"特征词条本体\"在语义表达上的有效性，本文设计了与TF-IDF 算法的对比实验，比较两种方法在话题跟踪上的效果，效果更好的方法即为在语义表述上更好的方法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于TF-IDF算法的话题跟踪与本体方法指导下的话题跟踪流程大致相同，都依赖于公式(5)的相似度计算及阈值判定，唯一不同的是特征词权重的确定，TF-IDF是在词频的基础上，对每个词分配一个“重要性\"权重，其计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Q } _ { \\mathrm { t f - i d f } } ( \\mathrm { w } _ { \\mathrm { i } } ) { = } \\frac { \\mathrm { t } _ { \\mathrm { w i } } } { \\operatorname* { m a x } ( \\mathrm { t } ) } { \\times } \\log ( \\frac { \\mathrm { a l l D o c } } { \\mathrm { d o c } ( \\mathrm { w } _ { \\mathrm { i } } ) + 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， ${ \\bf { t } } _ { \\mathrm { { w i } } }$ 为特征词 $\\mathbf { w _ { i } }$ 在语料中出现的次数,max(t)为语料中出现次数最多的词的次数，两者相除即为词频(Term Frequency)，allDoc 是语料中文档总数， $\\mathrm { d o c } ( \\mathrm { w } _ { \\mathrm { i } } )$ 是包含 $\\mathbf { w _ { i } }$ 的文档总数，求对数之后即为逆文档频率(Inverse Document Frequency)，词频与逆文档频率的乘积即为 $\\mathbf { w _ { i } }$ 的 TF-IDF 权重。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）话题跟踪判断标准 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NIST 为 TDT 建立了一套完整的评测体系[17]，使用损耗代价 $( \\mathrm { C _ { D e t } } ) _ { \\mathrm { N o r m } }$ 作为系统的评价指标，此值越小则表示系统性能越好，其计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C _ { D e t } } = \\mathrm { C _ { M i s s } } \\times \\mathrm { P _ { M i s s } } \\times \\mathrm { P _ { T a r g e t } } + \\mathrm { C _ { F A } } \\times \\mathrm { P _ { F A } } \\times \\mathrm { P _ { n o n - T a r g e t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\mathrm { C _ { D e t } } ) _ { \\mathrm { N o r m } } = \\frac { \\mathrm { C _ { D e t } } } { \\mathrm { m i n } ( \\mathrm { C _ { M i s s } } \\times \\mathrm { P _ { T a r g e t } } , \\mathrm { C _ { F A } } \\times \\mathrm { P _ { n o n - T a r g e t } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathrm { \\Delta C _ { M i s s } }$ 和 $\\mathrm { C _ { F A } }$ 分别代表漏报率和误报率的代价系数，在 TDT4 中 $\\mathrm { \\Delta C _ { M i s s } }$ 和 $\\mathrm { \\Delta C _ { F A } }$ 分别取值为1和0.1，认为漏报代价比误报代价高很多； $\\mathrm { \\Delta P _ { T a r g e t } }$ 和$\\mathrm { P _ { n o n - T a r g e t } }$ 是先验目标概率( $\\mathrm { \\Delta P _ { n o n - T a r g e t } = 1 - \\Delta P _ { T a r g e t } \\Delta ) }$ ，（20 $\\mathrm { \\Delta P _ { T a r g e t } }$ 一般取 $0 . 0 2 ^ { [ 1 8 ] }$ ， $\\mathrm { \\mathbf { P } _ { M i s s } }$ 和 $\\mathrm { \\Delta P _ { F A } }$ 分别是系统漏报率和误报率，两者均是越小越好，但是两者之间存在一定的矛盾，一般情况下漏报率较低的误报率会较高，而误报率较低的漏报率会较高，计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "系统中未识别的相关微博数  \n漏报率PMiss=语料库中描述该话题的微博总数 $\\times 1 0 0 \\%$ (9)判定为相关的不相关微博数  \n误报率PFA=语料库中与该话题不相关的微博总数 $\\times 1 0 0 \\%$ (10)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）话题跟踪结果分析 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用判断阈值( $\\mathrm { T _ { d } } = 0 . 3 )$ 判断微博内容是否主题相关，对两种话题跟踪方法的第一次话题跟踪实验结果对比如表3所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/29126714c8b23fb1844e2b731ebe94f200c3acb7948ff7699319ae98d08d6232.jpg",
+        "table_caption": [
+            "表3第一次话题跟踪结果分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>对比项</td><td>18日</td><td>19日</td><td>20日</td><td>21日</td><td>22日</td><td>总计</td></tr><tr><td>TF-IDF未识别的 相关微博数量</td><td>92</td><td>75</td><td>89</td><td>94</td><td>118</td><td>468</td></tr><tr><td>本文方法未识别的 相关微博数量</td><td>79</td><td>53</td><td>46</td><td>87</td><td>139</td><td>404</td></tr><tr><td>TF-IDF识别的 不相关微博数量</td><td>51</td><td>71</td><td>63</td><td>93</td><td>136</td><td>414</td></tr><tr><td>本文方法识别的 不相关微博数量</td><td>89</td><td>44</td><td>75</td><td>92</td><td>134</td><td>434</td></tr><tr><td>测试集中实有 相关微博数量</td><td>458</td><td>459</td><td>493</td><td>524</td><td>652</td><td>2586</td></tr><tr><td>测试集中实有不 相关微博数量</td><td>780</td><td>751</td><td>781</td><td>949</td><td>847</td><td>4108</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "按照TDT4评价方法，分别计算两种方法话题跟踪结果的漏报率、误报率和损耗代价并进行对比分析，结果如表4所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8e1eddf51fc3d44273a6250657d97ac7aa6268f1fc38be7b895c7929a54eb170.jpg",
+        "table_caption": [
+            "表4TF-IDF与本体方法的话题跟踪结果的漏报率、误报率、损耗代价对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标</td><td>TF-IDF 方法</td><td>本体方法</td></tr><tr><td>漏报率PMiss</td><td>0.1810</td><td>0.1562</td></tr><tr><td>误报率PFA</td><td>0.1008</td><td>0.1056</td></tr><tr><td>损耗代价(CDet ）Norm</td><td>0.6749</td><td>0.6736</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表4的结果可以看出：基于词条本体的话题跟踪方法比TF-IDF方法的漏报率有一定的下降，但是误报率与损耗代价并没有明显的提升，综合来看，初始词条本体的跟踪结果与TF-IDF方法效果相当。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "然后将寻找到的相似度大于进化阈值的微博加入到词条本体的训练集，重新训练出进化的“特征词条本体\"并进行第二次话题跟踪实验，实验结果如表5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d603dfb038b316d8873047916b5d233ec3b6f11617e0f8fd5f526208f3ae885f.jpg",
+        "table_caption": [
+            "表5第二次话题跟踪结果分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>对比项</td><td>18日</td><td>19日</td><td>20日</td><td>21日</td><td>22日</td><td>总计</td></tr><tr><td>本体方法未识别 的相关微博数量</td><td>69</td><td>29</td><td>46</td><td>95</td><td>87</td><td>326</td></tr><tr><td>本体方法识别的 不相关微博数量</td><td>83</td><td>54</td><td>73</td><td>82</td><td>104</td><td>396</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "计算进化后\"特征词条本体\"方法的话题跟踪结果的漏报率、误报率和损耗代价，并与表4中初始本体、TF-IDF方法的计算结果进行对比分析，如表6所示：",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5506ca89a270d225442443c1997e55f8eee47475709c20a1de29b26cbaeb79c1.jpg",
+        "table_caption": [
+            "表6三种方法的漏报率、误报率、损耗代价对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标</td><td>TF-IDF方法</td><td>初始本体</td><td>进化本体</td></tr><tr><td>漏报率 PMiss</td><td>0.1810</td><td>0.1562</td><td>0.1261</td></tr><tr><td>误报率PFA</td><td>0.1008</td><td>0.1056</td><td>0.0964</td></tr><tr><td>损耗代价（CDet)Norm</td><td>0.6749</td><td>0.6736</td><td>0.5985</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表6的实验结果可以看出：经过进化之后的词条本体在漏报率、误报率、损耗代价上都要优于前两种方法，表明进化后的词条本体的话题跟踪效果更优;其中漏报率的性能显著提高，这主要是由于进化后的“特征词条本体\"的节点和关系大大增加，更能表示目标话题语义信息，能够更准确地跟踪话题；就损耗代价而言，根据损耗代价的计算公式，TDT评测更加重视误报率对评测结果的影响，因此误报率较小的差别导致在损耗代价之间的差值没有两者漏报率之间的差值明显；本体方法对于话题跟踪结果的误报率并没有明显的提高，后续对算法的改进应集中在维持当前低漏报率水平的情况下，尽量减少误报率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本次实验结果显示基于“特征词条本体\"的话题跟踪的效果是优于TF-IDF算法，并且通过本体进化，能够进一步优化话题跟踪结果。因此，证明了本文提出的基于词关系的“特征词条本体\"在动态热门话题的语义表述上是有效的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文从动态热门话题新闻中的词汇出发，将共现频率高的特征词组合成特征词条设计生成“特征词条本体”，在初始本体的指导下进行话题跟踪，利用跟踪结果对话题本体的概念和关系进行改进，完成“特征词条本体\"的进化。通过实验证明了“特征词条本体”是一种表述更加准确的语义模型，并且可以满足动态热门话题快速表达的实际需求。但是目前本体语义表述的效果过于受人工阈值设置的影响，在未来的研究中可以考虑引入深度学习相关的模式，以尽可能降低人工干预进而提高\"特征词条本体\"的语义表达准确性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Studer R, Benjamins VR, Fensel D.Knowledge Engineering: Principles and Methods[J]. Data & Knowledge Engineering, 1998, 25(1): 161-197.   \n[2]杜小勇，李曼，王珊．本体学习研究综述[J]．软件学报, 2006,17(9):1837-1847.(Du Xiaoyong,Li Man,Wang Shan. A Survey on Ontology Learning Research[J].Journal of Software,2006,17(9):1837-1847.)   \n[3]尚新丽．国外本体构建方法比较分析[J]．图书情报工作, 2012,56(4): 116-119. (Shang Xinli. Comparative Analysis of Foreign Ontology Construction Methods [J].Library and Information Service,2012,56(4):116-119.)   \n[4]Lin D,Pantel P. Induction of Semantic Classes from Natural Language Text[C]. In:Proceedings of the 7th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Francisco,CA,USA.2001: 317-322.   \n[5]Srivastava S,Lamadrid JG. Extracting an Ontology from a Document Using SingularValue Decomposition[R]. Association of Computer and Information Science and Engineering Departments at Minority Institutions,2001.   \n[6]何婷婷，张小鹏．特定领域本体自动构造方法[J]．计算机 工程,2007,33(22): 235-237. (He Tingting,Zhang Xiaopeng. Approach to Automatical Construction of Domain Ontology [J].Computer Engineering,2007,33(22): 235-237.)   \n[7]He T T, Zhang X P, Ye X H.An Approach to Automatically Constructing Domain Ontology[C]. In: Proceedings of the 20th Pacific Asia Conference on Language,Information and Computation,Wuhan, China.2006:150-157.   \n[8]Lim S Y,Park S B,Lee S J. Constructing an Ontology Based on Terminology Processing [C]. In: Proceedings of the 9th International Conference on Knowledge-Based Intelligent Information and Engineering Systems. Springer,2005: 304-310.   \n[9]马静，吴一占，刘思峰．基于领域本体的信息抽取模式生 成与系统实现[J].情报学报，2008,27(2):193-198.(Ma Jing，Wu Yizhan，Liu Sifeng.Domain Ontology-based Information Extraction [J]. Journal of the China Society for Scientific and Technical Information,2008,27(2):193-198.)   \n[10]唐爱民，真溱，樊静．基于叙词表的领域本体构建研究[J]. 现代图书情报技术,2005(4):1-5.(Tang Aimin,Zhen Zhen, Fan Jing. Thesaurus-based Approach to Build Domain Ontology[J].New Technology of Library and Information Service,2005 (4): 1-5.)   \n[11] Chen R C,Chuang C H. Automating Construction of a Domain Ontology Using a Projective Adaptive Resonance Theory Neural Network and Bayesian Network [J].Expert Systems,2008,25(4):414-430.   \n[12]侯鑫，张旭堂，金天国，等．面向知识与信息管理的领域 本体自动构建算法[J]．计算机集成制造系统，2011，17(1): 159-170.(Hou Xin，Zhang Xutang，Jin Tianguo,et al. Automatic Construction of Domain Ontology Oriented to Knowledge and Information Management [J]. Computer Integrated Manufacturing Systems,2011,17(1): 159-170.)   \n[13]郑学伟．基于知识管理的本体自动构建算法研究[J]．计算 机技术与发展，2014，24(12):64-69.(Zheng Xuewei. Research on Ontology Automatic Construction Algorithm Based on Knowledge Management [J]. Computer Technology and Development,2014,24(12): 64-69.)   \n[14]马文峰，杜小勇．领域本体进化研究[J].图书情报工作, 2006,50(6): 71-75.(Ma Wenfeng,Du Xiaoyong.A Study on Domain Ontology Evolution[J].Library and Information Service,2006,50(6): 71-75.)   \n[15] 杜小勇，马文峰，武文娟.学科领域本体的构建与进化- 以经济学领域本体为例[J]．现代图书情报技术，2007(3): 7-12.(Du Xiaoyong， MaWenfeng， WuWenjuan. ConstructionandEvolutionofDisciplineDomain Ontology-—A CaseStudyforEconomicsDomain Ontology[J]. New Technology of Library and Information Service,2007(3): 7-12.)   \n[16] 洪宇，张宇，刘挺，等．话题检测与跟踪的评测及研究综 述[J]．中文信息学报,2007,21(6):71-96.(Hong Yu, Zhang Yu, Liu Ting,et al. Topic Detection and Tracking Review[J]. Journal of Chinese Information Processing，2007,21(6): 71-96.)   \n[17]焦健，瞿有利．知网的话题更新与跟踪算法研究[J].北京 交通大学学报，2009,33(5):132-136.(Jiao Jian,Qu Youli. Algorithm Study of Topic Tracking Based on HowNet and ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Topic Renewal [J]. Journal of Beijing Jiaotong University, 2009,33(5):132-136.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18]洪宇，仓玉，姚建民，等.话题跟踪中静态和动态话题模型的 核捕捉衰减[J]．软件学报,2012,23(5):1101-1119.(Hong Yu, Cang Yu,Yao Jianmin,etal.DescendingKernel Track of Static and Dynamic Topic Models in Topic Tracking[J].Journal of Software,2012,23(5):1101-1119.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "马静：提出研究思路和方案，论文审阅与修订;  \n何雪枫：扩展研究思路，进行实验，论文撰写与修订;  \n简旭文：扩展研究思路，辅助进行实验。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据见期刊网络版 http://www.infotech.ac.cn。  \n[1]马静，何雪枫，简旭文．实验所用到的微博数据1.xls.通过爬虫爬取的数据.  \n[2]马静，何雪枫，简旭文.实验所用到的微博数据2.xls.通过中文预处理的数据.  \n[3]马静，何雪枫，简旭文．自动抽取生成的特征词条.xls.初始本体.  \n[4]马静，何雪枫，简旭文．自动抽取生成的特征关系.xls.初始本体.  \n[5]马静，何雪枫，简旭文．自动抽取生成的特征词权重.xls.初始本体.  \n[6]马静，何雪枫，简旭文．自动抽取生成的特征词条.xls.进化本体.  \n[7]马静，何雪枫，简旭文．自动抽取生成的特征关系.xls.进化本体.  \n[8]马静，何雪枫，简旭文．自动抽取生成的特征词权重.xls.进化本体.  \n[9]马静，何雪枫，简旭文.实验的数据库文件.sql.数据库.[10]马静，何雪枫，简旭文.程序源码.zip.源码.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Automatically Building “Feature Items Ontology” for Trending Topics ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ma Jing He Xuefeng Jian Xuwen (College ofEconomic and Management,Nanjing University of Aeronauticsand Astronautics,Nanjing 211106,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] This paper aims to propose an algorithm to build“Feature Items Ontology. [Context] Trending topics online are constantly changing and involve extensive fields.The existing research on automatically creating Ontology is limited to specific areas,which cannot effectively process thedynamic trending topics.[Methods]First, we analyzed the contents of major events from the trending topics.Second,we designed an algorithm automatically generatingthe Ontology.Third,with the guidance of initial Ontology,proposed an evolutionaryalgorithm to trackthe changing topics.[Results] Using the case of“Wei Zexi and Baidu”as an example, we colected 11,174 Sina Weibo posts to conduct two roundsof experiment.We initially extracted 7,421 feature items,39 key nodes,and 781 key relationships.For the evolutionaryresults,we got 24,564 feature items,67key nodes,and1,818 keyrelations.The missing rates,the false positiverates,and the losscosts were 0.1261,0.0964and O.5985,which were allbetter than those of the TF-IDF algorithm. [Conclusions] The“Feature Items Ontology”is more accurate than the single word Ontology description,and is easier tocalculate the semantic similarity.Itisanappropriate method toretrieve semantic information from the dynamic trending topics. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Feature itemsOntology generationOntology evolutionTopic tracking ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Mellon基金会资助BitCurator进行扩展，以改善对数字原生资源的分析和访问功能",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "北卡罗来纳大学教堂山分校于近日从Andrew W.Melon 基金会获得一笔75万美元的基金资助，用于对 BitCurator NLP进行扩展。BitCurator NLP项目旨在开发能将自然语言处理(NLP)方法应用于数字原生图书馆馆藏、档案馆馆藏和博物馆馆藏的相关软件和协议。项目为期两年，所创建的新工具将使得图书馆、档案馆和博物馆领域的专业人员能够更有效和更高效地流通数字馆藏资源，并最终使得用户在搜索信息或文档时更容易发现并访问这些馆藏资源。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BitCurator NLP将以 BitCurator和 BitCurator Access 项目为基础，这两个项目旨在开发并分发工具以帮助图书馆、档案馆和博物馆管理快速增长的具有文化价值的数字资源。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BitCurator开发了一个开源软件环境，便于将资源从便携式媒体(如软盘、闪存驱动器和硬盘驱动器)迁移到更可持续的环境。用户可以创建磁盘映像，分析文件和文件系统，提取数据和元数据，以及识别和编辑敏感信息，等等。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BitCurator Access 通过 BCA Webtools 进一步增强了BitCurator的功能，允许用户动态浏览磁盘映像的文件系统，以及搜索许多常见文件类型的内容。BitCurator Access 还开发了用于修改敏感信息的工具，并尝试使用仿真作为磁盘映像内容的访问机制。BitCurator 和 BitCurator Access 的产品和相关社区由独立的、成员驱动的 BitCurator 联盟在维护。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BitCurator NLP将生成一个开源软件，用于提取、分析和生成馆藏中数字资源文本的相关特征的报告。该软件还将帮助图书馆、档案馆和博物馆改进或实施NLP功能，以从数字馆藏中读取文件，并为最终用户按需生成报告。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(编译自:https://librarytechnology.org/news/pr.pl?id=21961) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(本刊讯) ",
+        "page_idx": 8
+    }
+]

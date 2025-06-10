@@ -1,0 +1,260 @@
+# DOI: 10.5846/stxb201706011013
+
+赵春黎,严岩,陆咏晴,丁丁,宋扬,吴钢.基于暴露度-恢复力-敏感度的城市适应气候变化能力评估与特征分析.生态学报,2018,38（9)：3238-3247.  
+ZhaoCL,YaYugoY，Wu.“Expureeslecivi”sdeaaoacterisalsofirurban adaptation to climate change in China.Acta Ecologica Sinica,2018,38(9）:3238-3247.
+
+# 基于暴露度-恢复力-敏感度的城市适应气候变化能力评估与特征分析 C
+
+赵春黎1,2,，严 岩1,5,\*，陆咏睛},3,丁丁4,宋扬¹,吴钢
+
+1中国科学院生态环境研究中心城市与区域生态国家重点实验室，北京100085  
+2清华大学工程物理系，公共安全研究院，北京100084  
+3中国科学院大学，北京100049  
+4北京大学，北京 100871  
+5 住房和城乡建设部农村污水处理技术北方研究中心，北京100085
+
+摘要：城市是人口和社会经济活动最密集的地方,随着城市化进程和气候变化的发展,城市地区面临的气候风险和影响日益凸显。提升城市适应气候变化能力已成为城市应对气候变化挑战最重要的任务和途径。通过梳理和评价我国城市适应气候变化能力及其关键要素,以期为区域适应政策的制定和实施提供科学依据。基于IPCC 适应能力评价框架,构建了基于暴露度-敏感度-恢复力的城市适应气候变化能力评估框架，进而筛选了19项指标，将指标划分为适应气候变化能力对应的5个等级，以熵权法赋权重;采用集对分析方法,评估我国286个地级市的适应气候变化能力水平,并分析了主要限制因素。结果显示,我国东部的适应能力整体高于西部地区,适应能力较低的区域主要集中在西北的甘肃陕西部分城市、华中的两湖和江西等城市以及西南的广西云南等城市;城市适应能力的各项限制要素主要表现为,适应能力高主要为暴露度-恢复力-敏感度的(低-高-低)的组合;适应能力低则分别包括暴露度-恢复力-敏感度(高-高-高）、（低-低-低)和(高-低-低)3种组合。提高城市适应气候变化能力,对西部西北的甘肃-陕西等城市,重点在于提升应对气候变化的恢复力,例如建立良好的灾后恢复与应急系统等;对于华中、西南等城市则以提高气候风险的防御能力为主。
+
+关键词：集对分析；城市；适应气候变化
+
+# “ Exposure-resilience-sensitivity” based evaluation and characteristics analysis of the capacity for urban adaptation to climate change in China
+
+ZHAO Chunli12.3， YAN Yan1,5,\*，LU Yongqing1,3，DING Ding4，SONG Yang1，WU Gang'   
+1StateKeyLaboratoryofUbanndRegioalcolog，eseachCenterforEcoEniroentalSiences，ChineseAcademyofSciencesein   
+100085,China   
+2 Institute of Public Sfety Research，Departmentof Enginering Physics，Tsinghua University，Beijing 10o084，China   
+3 University of Chinese Academy of Sciences， Beijing 100049， China   
+4 Peking University， Beijing 100871，China   
+5NorthResechCenterfouralWasteaterTreatentechoginistryofHousingndUrbn-RuralDevelopentejinin
+
+Abstract: The urban areas of China are not onlyundergoing rapid population growth and economic development，but are alsofacingtheaggravatedriskofclimatechange.Building capacityforurbanadaptation has becomeoneofthemost critical tasksforaddressingclimatechange.This studyaims tosystematizeandevaluatethecapacityforadaptationtoclimatechange inurbanareasof Chinaand determinethecritical elements needed toaccomplishthis.Thisstudy provides ascientificbasis fortheestablishmentand enforcementofaregional adaptation policy.Wehaveestablishedan estimation framework basedon the IPCCvulnerabilityassessment，andselected19 indicatorsrelated toexposure-sensitivity-resilience.The indicators were dividedinto five grades using theentropymethod forobjective weighting.Wethen evaluated thecapacityforadaptation to climate change in286urbanlocalities across Chinausing the set pair analysis methodand discussits limitingfactors.The results showed thaturban adaptation capacityis higher ineasternregions than westernregions.Regions with lowcapacities are mainlydistributed into three clusters：cities innorthwest China,Gansu-Shaanxi；cities incentral China,Hunan-HubeiJiangxi；andcities in southwest China，Guangxi-Yunnan.The limiting elementsafecting urbanadaptation capacityin relationto“exposure-resilience-sensitivity”are mainlymanifestedas folows：higheradaptabilityis mainlythecombination of"low-high-low;”andlower adaptability includes“high-high-high,”“low-low-low,”and“high-low-low”combinations. Diferent countermeasures have tobe adopted to improve urban adaptationcapacity to climate change in diferent regions. Thecurrent emphasis ison improving resilience for cities in northwest China，Gansu-Shaanxi，byestablishinga postdisasterrestorationandemergency system.The key to improvingadaptation is upgrading thedefensecapabilitiesof cities in central and southwest China.
+
+Key Words: set pair analysis；urban；adaptation to climate change
+
+气候变化是全球可持续发展面临的巨大挑战。虽然全球范围内温室气体减排已经进行了大量努力,但气候变化的趋势还将在相当长的时间尺度内继续发展,人类也将进一步面临一系列气候变化不利影响,如食品短缺、海平面升高、飓风、干旱等问题,这些问题对发展中国家和地区的影响尤为严重。这种情形下,在继续加大温室气体排放控制的同时,需要积极准备应对气候变化的不利影响,特别是人口与社会经济活动高度密集的城市,受气候变化影响的风险和可能的损失更为严重,其中发展中国家受气候变化影响的风险更高。但从目前情况来看,城市应对气候变化更重视减缓措施,适应气候变化能力的研究和实践却相对滞后,监测、评估技术体系薄弱,适应气候变化体制、机制不健全,资金投入不足等,气候变化适应能力成为城市应对气候变化的短板。
+
+目前,我国城市适应气候变化的研究和实践刚处于起步阶段。学者 Araos 等对全球401个大型城市适应气候变化能力进行了评价，我国人选的城市大部分处于无适应措施或适应措施不足的状态[1]。近几年,我国对气候变化的适应越来越关注和重视,2013年国家发展和改革委员会发布了《国家适应气候变化战略》,2016年国家发展改革委和住房城乡建设部发布联合发布了《城市适应气候变化行动方案》,2016年国家发展改革委和住房城乡建设部启动了气候适应型城市建设试点,全国28个城市作为第一批人选城市。这些战略、方案的出台和气候适应型城市试点建设,对我国气候变化适应,尤其是城市适应气候变化提出了战略性、指导性的框架和对策,极大的提升了对气候变化适应的认识和重视程度,有效的推动了城市的气候适应能力建设。但总的来说,目前我国城市适应气候变化工作还处在初始探索的阶段,还没有形成针对气候变化的区域性特征和具体城市实际的有针对性、系统性、科学性的城市适应气候变化能力建设对策体系,需要从气候变化和城市本底特征两个主要方面进行更为深入、系统的分析和研究。
+
+本文以我国286个地级市为研究尺度和对象,从暴露度、敏感度和恢复力的角度研究城市适应气候变化能力的评估方法，进而分析我国城市适应气候变化的特征和关键因素,为城市适应气候变化能力评估提供方法支持，为科学制定城市适应对策提供科学参考。
+
+# 1方法与数据
+
+# 1.1评价框架与指标体系
+
+本文构建了基于IPCC 的适应能力评价的评估算框架与指标体系。IPCC 的适应能力评价模型,是在脆弱性评价的基础上进行的。第三次评估报告中的脆弱性定义被广泛运用,即系统易受气候变化造成的不良影响或者无法应对其不良影响的程度。气候变化风险包括气候变化的危害,脆弱性和暴露度,社会经济路径、适应和减缓路径以及治理等[2]。本文将气候变化适应总结为“暴露度”“敏感度”和“恢复力”的函数[3],并从这3个方面,梳理和总结出我国城市适应气候变化能力指标体系(表1）。
+
+基于以上评估框架,本研究构建了城市适应气候变化能力评估的指标体系,其中暴露度是城市所面临各类的气候变化风险,敏感度是城市受气候变化影响的脆弱程度,恢复力是城市在应对气候变化中减小气候影响并快速恢复到原来状态的能力。
+
+表1城市适应气候变化评价指标体系  
+Table1 Assessment indicator system for urban adaptation capacity to climate change   
+
+<html><body><table><tr><td>序号 Number</td><td>准则层 Criterion layer</td><td>要素 Factor</td><td>指标 Indicator</td><td>单位 Units</td></tr><tr><td>A1</td><td>暴露度</td><td>气候变化</td><td>气温变化强度</td><td>1</td></tr><tr><td>A2</td><td></td><td></td><td>降水变化强度</td><td>1</td></tr><tr><td>A3</td><td></td><td>气候波动</td><td>气温波动</td><td></td></tr><tr><td>A4</td><td></td><td></td><td>降水波动</td><td>1</td></tr><tr><td>A5</td><td></td><td>极端气候</td><td>持续干燥指数</td><td>d</td></tr><tr><td>A6</td><td></td><td></td><td>极强降雨量</td><td>mm</td></tr><tr><td>A7</td><td></td><td></td><td>热持续指数</td><td>d</td></tr><tr><td>A8</td><td></td><td>气候灾害</td><td>年度灾情指数</td><td>1</td></tr><tr><td>A9</td><td></td><td>空气质量</td><td>空气优良天数</td><td>d</td></tr><tr><td>A10</td><td>敏感度</td><td>低收入人口</td><td>年末城镇登记失业人员数</td><td>人</td></tr><tr><td>A11</td><td></td><td>人口密度</td><td>市辖区人口密度</td><td>人/km²</td></tr><tr><td>A12</td><td></td><td>能源消费水平</td><td>人均化石能源消耗量</td><td>kg</td></tr><tr><td>A13</td><td></td><td>水资源消费</td><td>人均城市用水量</td><td>t</td></tr><tr><td>A14</td><td>恢复力</td><td>医疗救护能力</td><td>全市医生数</td><td>人</td></tr><tr><td>A15</td><td></td><td>排水系统</td><td>排水管网长度</td><td>km</td></tr><tr><td>A16</td><td></td><td>交通能力</td><td>人均城市道路面积</td><td>m²</td></tr><tr><td>A17</td><td></td><td>经济总量</td><td>全市地区生产总值</td><td>万元</td></tr><tr><td>A18</td><td></td><td>减灾科研能力</td><td>从业人员数</td><td>万人</td></tr><tr><td>A19</td><td></td><td>自然生态系统</td><td>建成区绿化覆盖率</td><td>%</td></tr></table></body></html>
+
+对以上指标，首先进行归一化处理，并采用熵值法对指标赋予权重。
+
+成本型指标的归一化方法如下式，
+
+$$
+p _ { r k } = \frac { d _ { { \scriptscriptstyle { r m a x } } } - d _ { { \scriptscriptstyle { r k } } } } { d _ { { \scriptscriptstyle { r m a x } } } - d _ { { \scriptscriptstyle { r m i n } } } }
+$$
+
+效益型指标为
+
+$$
+p _ { r k } = \frac { d _ { r k } - d _ { \operatorname* { m i n } } } { d _ { \operatorname* { m a x } } - d _ { \operatorname* { m i n } } }
+$$
+
+式中， $p _ { r k }$ 表示经过标准化处理后的第 $k$ 个城市第 $\boldsymbol { r }$ 个评价指标的值, $d _ { r \mathrm { m a x } }$ 和 $d _ { r \operatorname* { m i n } }$ 分别表示评价矩阵中各城市的评价指标 $r$ 的最大值和最小值。归一化后，原来的成本型指标被转化为正向指标，所有指标值越大，代表的城市适应能力也越高;即,对暴露度和敏感度这类成本型指标来说,值越小所代表的暴露度或敏感度越高；对恢复力这类效益型指标来说，值越小则恢复力越低。
+
+经过归一化处理的指标,采用熵值法对指标进行权重赋值。并对指标进行等级划分，“低”、“较低”、“中”“较高”和“高”分别是各项指标适应气候变化能力的5个层次,指标等级主要采用百分位法并参考其自然断点进行手动划分。指标等级及其权重值见表2。
+
+表2适应气候变化能力指标等级划分与权重  
+Table 2Index grades and weight of indicator system for urban adaptation capacity to climate change   
+
+<html><body><table><tr><td rowspan="2">指标 Indicator</td><td rowspan="2">方向 Direction</td><td rowspan="2">低 Lower</td><td rowspan="2">Weigit 较低</td><td rowspan="2">中</td><td rowspan="2">capuelty 较高</td><td rowspan="2">ehunge</td></tr><tr><td>高</td></tr><tr><td>A1</td><td></td><td>≥0.032</td><td>Low [0.026,0.032)</td><td>Middle [0.021,0.026)</td><td>High [0.016,0.021)</td><td>Higher <0.016</td><td>Weight 0.0784</td></tr><tr><td></td><td>一</td><td>≥6</td><td>[3.8,6)</td><td>[2.4,3.8)</td><td>[1.4, 2.4)</td><td></td><td>0.0967</td></tr><tr><td>A2</td><td></td><td>≥6</td><td>[3.2,6)</td><td>[2.5,3.2)</td><td>[1.8,2.5)</td><td><1.4</td><td></td></tr><tr><td>A3 A4</td><td></td><td>≥60</td><td>[40,60)</td><td>[30,40)</td><td>[20,30)</td><td><1.8</td><td>0.0262</td></tr><tr><td>A5</td><td></td><td>≥190</td><td>[100,190)</td><td>[60，100)</td><td>[30,60)</td><td><20</td><td>0.0120 0.0369</td></tr><tr><td>A6</td><td></td><td>≥22</td><td>[18,22)</td><td>[16,18)</td><td>[14,16)</td><td><30</td><td></td></tr><tr><td>A7</td><td>1</td><td>≥18</td><td>[12,18)</td><td>[8,12)</td><td>[4,8)</td><td><14</td><td>0.0969</td></tr><tr><td>A8</td><td>1</td><td>≥3.6</td><td>[2.7,3.6)</td><td>[2.0,2.7)</td><td>[1.5, 2.0)</td><td><4</td><td>0.0508</td></tr><tr><td>A9</td><td>+</td><td><200</td><td>[200，250)</td><td>[250,300)</td><td>[300，330)</td><td><1.5</td><td>0.1287</td></tr><tr><td>A10</td><td>-</td><td>≥36000</td><td>[20000，36000)</td><td>[15000,2000)</td><td>[9000，15000）</td><td>≥330</td><td>0.1163</td></tr><tr><td>A11</td><td></td><td>≥700</td><td>[500，700)</td><td>[280,500)</td><td>[150,280)</td><td><9000</td><td>0.0188</td></tr><tr><td>A12</td><td>一</td><td>≥1600</td><td>[1000,1600)</td><td>[700，1000)</td><td>[400, 700)</td><td><150 2</td><td>0.0302</td></tr><tr><td>A13</td><td>-</td><td>≥150</td><td>[100，150)</td><td>[70，100)</td><td>[40,70)</td><td><400</td><td>0.0239</td></tr><tr><td>A14</td><td>+</td><td><4</td><td>[4,6)</td><td>[6,8)</td><td>[8,16)</td><td><40 ≥16</td><td>0.0165</td></tr><tr><td>A15</td><td>+</td><td><0.45</td><td>[0.45,0.7)</td><td>[0.7, 1.0)</td><td>[1.0, 2.0)</td><td>≥2.0</td><td>0.0517 0.0659</td></tr><tr><td>A16</td><td>+</td><td><3000</td><td>[3000,5000)</td><td>[5000,7000)</td><td>[7000，10000)</td><td>≥10000</td><td>0.0385</td></tr><tr><td>A17</td><td>+</td><td><5</td><td>[5,7)</td><td>[7,10）</td><td>[10,13)</td><td>≥13</td><td>0.0561</td></tr><tr><td>A18</td><td>+</td><td><250</td><td>[250,500)</td><td>[500, 800）</td><td>[800，1400)</td><td>≥1400</td><td></td></tr><tr><td>A19</td><td>+</td><td><32</td><td>[32，37）</td><td>[37,40）</td><td>[40,43)</td><td>≥43</td><td>0.0229 0.0326</td></tr></table></body></html>
+
+表中，“ $+ ^ { , }$ "和"-”分别代表效益型与成本型指标
+
+# 1.2集对分析评价方法
+
+本文采用集对分析（set pair analysis，SPA)方法评价城市适应气候变化能力。该方法是赵克勤在1989 年提出的一种新的系统分析方法。SPA通过联系数的运算研究来分析含有不确定性的问题,被视为一种新的不确定性系统数学理论[47],是评价非传统安全非常有效的新方法。
+
+SPA 的核心是把确定、不确定视为一个系统,从同、异、反3个方面研究事物的确定性与不确定性,分析研究事物之间的联系与转化[8]。具体来看,根据研究问题 $\varphi$ 所需,将集对 $H$ 的 $N$ 项特性进行分析,其中有 $s$ 项为集对 $H$ 两集合所共有,有 $P$ 项相对立的特性,其余 $F { = } N { - } S { - } P$ 项特性既不对立也不共有,则有如下定义：
+
+S/N为集对 $H$ 在问题 $\varphi$ 下的同一度; $F / N$ 为差异度； $P / N$ 为对立度,表示为：
+
+$$
+\mu ( \varphi ) = { \frac { S } { N } } + { \frac { F } { N } } i + { \frac { P } { N } } j
+$$
+
+式中， $i$ 为差异度系数 $\mathbf { \Delta } , j$ 为对立度系数。也可以简化为：
+
+$$
+\mu = a + b i + c j \sharp \sharp a + b + c = 1
+$$
+
+进一步简化得为：
+
+$$
+\mu ^ { \prime } = a + c j
+$$
+
+$$
+\mu ^ { \prime } = b i + c j
+$$
+
+式中， $\mu$ 是集对 $H$ 的联系度,根据以上公式过程可以看出， $\mu$ 是两个集合或者一个系统在所研究问题下得到的同一度、对立度和差异度的代数和。
+
+http ://www.ecologica.cn
+
+同样，可以将联系度表达式进一步展开,得到多元联系度。例如,展开差异度 $\textit { b }$ ,即：
+
+$$
+ \mu = a + b _ { 1 } i _ { 1 } + b _ { 2 } i _ { 2 } + \cdots + b _ { n } i _ { n } + c j
+$$
+
+同样，展开对立度 $\mid c \mid$ ,即：
+
+$$
+\mu = a + c _ { 1 } j _ { 1 } + c _ { 2 } j _ { 2 } + \cdots + c _ { n } j _ { n } + b i
+$$
+
+当 $n = 3$ 代入上式时,即得到：
+
+$$
+\mu = a + b { } _ { 1 } i _ { 1 } + b { } _ { 2 } i _ { 2 } + b { } _ { 3 } i _ { 3 } + c j
+$$
+
+同理， $n$ 元联系度的概念就可以得到。其中, $b _ { 1 } \ , b _ { 2 }$ ， $b _ { 3 }$ 也可以被称为差异度分量,即差异度有不同级别,如轻度差异度,中度差异度,重度差异度等， $i _ { 1 }$ ， $i _ { 2 }$ ， $i _ { 3 }$ 也被称为差异不确定分量系数[9]。
+
+本文将我国城市适应气候变化能力评价指标划分为5个等级,城市适应能力的确定采用SPA等级和贴近度分析这两种差异度系数确定方法。 NO
+
+SPA 等级是指,在本文采用3元联系度的评价中,公式(8)中的参数可为理解为： $\mathbf { \Omega } _ { a }$ 为x隶属于1级标准的可能程度, $b _ { 1 }$ 为 $x _ { l }$ 隶属于2级标准的可能程度, $b _ { 2 }$ 为 $x _ { l }$ 隶属于3级标准的可能程度， $b _ { 3 }$ 为 $\overline { { x _ { l } } }$ 隶属于4级标准的可能程度, $\mid c \mid$ 是 $x _ { l }$ 隶属于5级标准的可能程度[9]。
+
+贴近度及其排序方法的具体计算公式如下[10-11]：
+
+$$
+r _ { k } = { \frac { a _ { k } } { a _ { k } - c _ { k } } }
+$$
+
+式中， $r _ { k }$ 为贴近度值, $r _ { k }$ 值越大,则城市样本 $k$ 越接近最优方案,城市适应气候变化的能力越强。
+
+各样本联系数的确定,可基于下式计算得到 $\left[ 9 , 1 2 \right] _ { \mathrm { ~ o ~ } }$ 对于成本型指标(值越小越优),样本值 $x _ { l }$ 与指标1级评价标准的联系度为 $\mu _ { \iota }$ ：
+
+$$
+\mu _ { i } = \left\{ \begin{array} { c } { 1 + 0 i _ { 1 } + 0 i _ { 2 } + \dots + 0 i _ { k \nu _ { 2 } } + 0 j _ { , x _ { i } } \leqslant s _ { 1 } } \\ { \frac { s _ { 2 } - x _ { i _ { 1 } } } { s _ { 2 } - s _ { 1 } } + \frac { x _ { i _ { 1 } } - s _ { 1 } } { s _ { 2 } - s _ { 1 } } i _ { 1 } \underset { + 0 < i _ { 2 } } { \overset { \displaystyle \longleftrightarrow } { \longleftrightarrow } } i _ { x _ { 2 } } \dotsm + 0 i _ { k \kappa _ { 2 } } + 0 j _ { , s _ { 1 } } < x _ { i } \leqslant s _ { 2 } } \\  0 + \frac { s _ { 3 } - x _ { i } \underset { + 1 } { \overset { \displaystyle \longleftrightarrow } { \longleftrightarrow } } i _ { x _ { 1 } } \underset { + 1 \dots \dots + 1 } { \overset { \displaystyle \longleftrightarrow } { \longleftrightarrow } } i _ { 1 } \underset { + 1 \dots \dots + 1 } { \overset { \displaystyle \longleftrightarrow } { \longleftrightarrow } } i _ { 2 } + \dotsm + 0 i _ { k \kappa _ { 2 } } + 0 j _ { , s _ { 2 } } < x _ { i } \leqslant s _ { 3 } } \\ { \underset { + 0 < i _ { 1 } + 0 i _ { 1 } + 0 } { \overset { \displaystyle \longleftrightarrow } { \longleftrightarrow } } i _ { 3 } } \\ { \underset { + 2 } { \overset { \displaystyle \longleftrightarrow } { \longleftrightarrow } } i _ { 1 } \underset { + 0 i _ { 2 } + \dots + \dots + \frac { s _ { k } - s _ { k - 1 } } { s _ { k } - s _ { k - 1 } } } i _ { k - 2 } + \frac { x _ { i } - s _ { k - 1 } } { s _ { k } - s _ { k - 1 } } j _ { , s _ { k - 1 } } < x _ { i } \leqslant s _ { k } . } \end{array} \right.
+$$
+
+$$
+0 + 0 i _ { 1 } + 0 i _ { 2 } + \cdots + 0 i _ { k - 2 } + 1 j , x _ { l } > s _ { K }
+$$
+
+式中， $s _ { 1 } \leqslant s _ { 2 } \leqslant \cdots \leqslant s _ { K - 1 } \leqslant s _ { K }$ ,分别为等级 $1 , 2 , \cdots , K { - } 1$ ， $K$ 等级的分界值。
+
+对于效益型指标(值越大越优)，某样本值 $x _ { l }$ 与指标1级评价标准的联系度为 $\mu _ { \iota }$ 为：
+
+$$
+1 + 0 i _ { 1 } + 0 i _ { 2 } + \cdots + 0 i _ { \scriptscriptstyle { K - 2 } } + 0 j , x _ { \scriptscriptstyle { l } } \geqslant s _ { 1 }
+$$
+
+$$
+\mu _ { i } = \{ \begin{array} { c } { { x _ { i } - s _ { 2 } + \displaystyle { \frac { s _ { 1 } - x _ { i } } { s _ { 1 } - s _ { 2 } } } i _ { \bar { s } _ { 1 } } + 0 ~ i _ { 2 } + \cdots + 0 ~ i _ { \kappa - 2 } + 0 j _ { \nu _ { 2 } } s _ { 2 } \leqslant x _ { i } < s _ { 1 } } } \\ { { \displaystyle { s _ { 1 } - s _ { 2 } + \displaystyle { \frac { x _ { i } - s _ { 3 } } { s _ { 2 } - s _ { 3 } } } i _ { \bar { s } _ { 1 } } + \displaystyle { \frac { s _ { 2 } - x _ { i } } { s _ { 2 } - s _ { 3 } } } i _ { \bar { s } _ { 2 } } + \cdots + 0 ~ i _ { \kappa - 2 } + 0 j _ { \nu , s } \leqslant x _ { i } < s _ { 2 } } } } \\ { { \displaystyle { \phantom { \mu _ { i } } } } } \\ { { 0 + \displaystyle { \frac { x _ { i } - s _ { 3 } } { s _ { 2 } - s _ { 3 } } } i _ { \bar { s } _ { 1 } } + \displaystyle { \frac { s _ { i } - s _ { \bar { \kappa } } } { s _ { 2 } - s _ { 3 } } } i _ { \bar { s } _ { 2 } } + \cdots + 0 ~ i _ { \kappa - 2 } + 0 j _ { \nu , s } \leqslant x _ { i } < s _ { \kappa - 1 } } } \\ { { \displaystyle { \phantom { \mu _ { i } } } } } \\   \phantom  \mu _ { i } = \{ \begin{array} { c } { { x _ { i } - \bar { s } _ { 2 } } } \\ { { \bar { s } _ { i + 1 } + 0 i _ { 2 } + \cdots + \displaystyle { \frac { x _ { i } - s _ { \bar { \kappa } } } { s _ { \kappa - 1 } - s _ { \kappa } } } i _ { \bar { \kappa } _ { \kappa - 2 } } + \displaystyle { \frac { s _ { \kappa - 1 } - x _ { i } } { s _ { \kappa - 1 } - s _ { \kappa } } } j _ { \bar { s } _ { \kappa } } \leqslant x _ { i } < s _ { \kappa - 1 } } } \\ { { \displaystyle { \phantom { \mu _ { i } } } } } \\ { { 0 + 0 ~ i _ { 1 } + 0 ~ i _ { 2 } + \cdots + 0 ~ i _ { \kappa - 2 } + 1 j _ { \nu , \kappa } < s _ { \kappa } } } \end{array}  \end{array}
+$$
+
+式中， $s _ { 1 } \geqslant s _ { 2 } \geqslant \dots \geqslant s _ { K - 1 } \geqslant s _ { K }$ 。
+
+# 1.3数据
+
+本文数据来源为,气象数据下载自中国气象数据网(htp://data.cma.cn/site/index.html）,使用其地面气象资料的"中国地面气候标准值数据集"产品;气候灾害数据来源于《2014年自然灾害图集》;其他数据主要来源于城市统计年鉴、城市建设统计年鉴、社会经济发展公报等。本文的评价是基于2010年各项数据进行的,其中气候数据是基于1951—2010年60年间的变化值;受数据限制,气候灾害和空气质量数据,选取 2014年的值替代,其他值均为2010 年各类年鉴数据。
+
+# 2结果与分析
+
+# 2.1 SPA评价等级
+
+基于以上数据和权重值,采用 SPA评估的中国城市适应气候变化能力等级,这五个等级适应能力各自对应着的城市数量为：高(105）,较高(51）,中(6),较低(7）,低(117）。图1展现了其空间分布情况。
+
+![](images/45285edacd1e66cb718d12a1117a1c9f2f53085f0fbd654712241b67b85d9365.jpg)  
+图1集对分析等级空间分布  
+Fig.1 Set pair analysis (SPA） result of urban adaptation capacity grades
+
+可以看出,适应能力高的城市分布较为分散,大部分处于我国东部地区。适应能力低的城市主要集中在3 个区域,西部的甘肃、陕西和河南地区;中部的湖南、江西、浙江等地;以及南部的广西、云南等地区。
+
+城市适应气变化能力等级分布在“高”“低"这两个等级的城市占到了绝大多数,这可能受到了指标等级划分的影响。
+
+# 2.2贴近度分析
+
+依据 $r _ { k }$ 的大小进行城市适应气候变化能力的排序,其适应能力评价结果如图2所示。
+
+从图中看出,东部地区整体状况较好;适应能力较低的区域集中在3个区域,分别为：西北的兰州-西安等城市,涵盖陕西、甘肃、河南和宁夏四省/自治区;西南的云南、广西等城市;以及华中的湖南、湖北、江西等城市。
+
+可以看出,贴近度分析的结果与城市的适应能力的排序基本一致,但贴近度系数更好的拉开城市适应能力的差距。
+
+![](images/fcb93be1de656ba02064a78c5e8192b74981fcc1a2ef846c76b2d67bf90722e6.jpg)  
+图2贴近度空间分布  
+Fig.2Close degree result of urban adaptation capacity
+
+# 2.3关键限制要素分析
+
+这一部分主要讨论城市适应能力限制要素及其空间分布,主要从暴露度、敏感度和恢复力3个方面进行。
+
+# 1)暴露度分析
+
+图3中标红色的地区为暴露度高的城市聚集区域。可以看出,气候变化风险较高的区域主要在中部,包括湖南、湖北和江西的部分城市。高气候暴露地区周边的城市所面对的气候风险也较高。高的气候暴露风险,主要是受到年度灾情指数（权重为0.1287），持续干燥指数（权重为0.0369）,极强降雨量（权重为0.0969），降雨变化强度(权重为0.0967)等因素的影响,其中以年度灾情指数的指标权重最高。
+
+# 2)敏感度分析
+
+从图4可以看出,敏感度分布与胡焕庸线分布有较高的一致性。西北地区人口密度低,对气候变化的敏感性也较低;东南地区的经济发展水平较高,聚集了全国 $90 \%$ 以上的人口[13-14],也面临着比较高的敏感度。整体上,敏感度的格局与胡焕庸线的分布保持较高的一致性,胡焕庸线东南地区整体呈现适应气候变化更敏感的态势。
+
+# 3)恢复力分析
+
+恢复力表现为由东部向西部逐渐过渡的空间分布,东部一线的城市恢复力最高,向西一线城市恢复力有所下降,西部地区城市的恢复力最低（图5）。恢复力指标受到地区经济发展水平的影响比较大,经济基础好的地区,适应气候变化基础设施、人员配备较为完备,并且影响发生时能够迅速调集人员和资金进行恢复和抢救工作。
+
+# 3讨论
+
+进一步分析各项因素的作用区域,使用 SigmaPlot12.5 对其暴露度-敏感度-恢复力指标做等高线图（图6),可以看出,城市适应气候变化能力的各项限制要素主要表现为,适应能力高主要为暴露度-恢复力-敏感度的(低-高-低)的组合条件;适应能力低则分别为暴露度-恢复力-敏感度(高-高-高）、（低-低-低)和(高-低-低)3种组合。具体到某个城市时,还需要结合城市实际情况等进行具体分析,例如,李彤玥等对兰州市城市空间
+
+![](images/49c58646f4726a811cc8f1fe7a79c1745b25877a8a3d3ef4099d82d380688c54.jpg)  
+图3适应气候变化暴露度空间分布
+
+![](images/4ca76b3ec695751fbe7f45c601d7010c5da9a37aeba430b28511ebe70544819d.jpg)  
+Fig.3Spatial distribution of exposure element   
+图4适应气候变化的敏感性空间分布  
+Fig.4Spatial distribution of sensitivity element
+
+脆弱性的研究等[15]
+
+(1）暴露度-恢复力-敏感度(高-高-高)类型,主要聚集在图6右下角的蓝色区域,其中除了恢复力较高外,高暴露度和高敏感度都会拉低城市适应气候变化能力水平。这类城市对应我国中部地区的两湖和江西等的城市,它们面临着较高的气候变化和灾害风险,应对气候变化的敏感性较高,同时恢复能力高。
+
+(2）暴露度-恢复力-敏感度(低-低-低)的城市类型对应图中深黄色区域。主要是甘肃、陕西、宁夏等地区的主要城市，表现为气候变化波动和极端气候的风险较小，地处西北人口密度低应对气候变化的敏感性低，当气候波动、变化或极端气候带来影响时,城市的恢复能力也较低。
+
+![](images/2bc280bf856916c586c9f4a165f47cc756e1bd6c19b6823ab504da3baac159d3.jpg)  
+图5适应气候变化的恢复力空间分布 Fig.5Spatial distribution of resilience element
+
+(3）暴露度-恢复力-敏感度（高-低-低)类型城市对应图中左下角区域，主要为广西、云南等地的城市，表现为改区域的气候风险较高，但是敏感性较低，同时遭遇气候变化影响后的恢复能力也较低。
+
+(4）暴露度-恢复力-敏感度(低-高-低)类型城市对应图中右上角区域,这类城市主要分布在我国的东北地区，也是适应气候变化能力较高的一类城市，首先其暴露程度较低，应对气候变化的敏感性也低，恢复力高。
+
+# 4结论与建议
+
+通过本文的研究主要得出以下结论：东部城市适应气候变化能力相对较好，西部相对较差；适应能力较低的城市主要集中在3个区域，西北的兰州-西安等城市，西南的广西的部分城市，华中地区湖南-江西等部分城市等。适应能力较低的城市类群,主要面对的问题分别是,华中城市面临着较高的气候变化和灾害风险,应对气候变化的敏感性较高,恢复能力强，主要限制因素是高的暴露度和敏感度;甘肃-陕西等西北城市,其所面对的气候暴露度较小,敏感性低,但是关键是其应对气候变化的恢复力也较弱;位于西南地区的广西-云南地区的低适应能力区,虽然敏感性较低,但是气候风险高,同时恢复力也较低。针对以上问题,不同区域提高城市适应气候变化能力的侧重点也各有不同,对于华中、西南城市主要工作是提高气候风险的防御能力,西北的甘肃-陕西等城市,则需要提高应对气候变化的恢复能力,建立良好的灾后恢复与应急系统。
+
+![](images/e4244437e70e92b608fd2e14d42a3a975304beedcbd863bb0e39af65f5bb1c50.jpg)  
+图6暴露度-敏感度-恢复力等高线图 Fig.6Contour chart of exposure-sensitivity-resilience
+
+# 参考文献（References）：
+
+[1]AraosMeaFordL,FordJDustiSEsboek,Lowiliaegdaptatioplaginrgeit：aicglobal assessment.Environmental Science & Policy，2016,66：375-382.  
+[2]IPCC.Climate Change 2O14：Impacts，Adaptation and Vulnerability.Cambridge：Cambridge UniversityPress，2014.  
+[3］姜彤，李修仓，巢清尘，袁佳双，林而达.《气候变化2014：影响、适应和脆弱性》的主要结论和新认知.气候变化研究进展，2014，10(3):157-166.  
+[4］赵克勤.集对分析中的不确定性理论.大自然探索，1995，14(54)：87-88.  
+[5] 赵克勤.集对分析(SPA)中的联系数与不确定量.大自然探索，1997，16(60)：91-91.  
+[6] 赵克勤.集对分析及其初步应用.杭州：浙江科学技术出版社，2000.  
+[7] 赵克勤.二元联系数 $A + B i$ 的理论基础与基本算法及在人工智能中的应用.智能系统学报，2008，3(6)：476-486.  
+[8] 张斌.多目标系统决策的模糊集对分析方法.系统工程理论与实践，1997，（12)：108-114.  
+[9] 王文圣，金菊良，丁晶，李跃清.水资源系统评价新方法——集对评价法.中国科学E辑：技术科学，2009，39（9)：1529-1534.  
+[10] 张斌.集对分析与多属性决策.农业系统科学与综合研究，2004，20(2)：123-125.  
+[11] 姚治华，王红旗，郝旭光.基于集对分析的地质环境承载力研究——以大庆市为例.环境科学与技术，2010，33（10)：183-189.  
+[12] 刘秀梅，赵克勤.基于 SPA 的D-U空间的区间数多属性决策模型及应用.模糊系统与数学，2009，23(2)：167-174.  
+［13］陈明星，李扬，龚颖华，陆大道，张华.胡焕庸线两侧的人口分布与城镇化格局趋势 -尝试回答李克强总理之问.地理学报，2016，71(2): 179-193.  
+[14]吴瑞君，朱宝树．中国人口的非均衡分布与“胡焕庸线”的稳定性.中国人口科学，2016，（1)：14-24，126-126.  
+[15］李彤玥.基于“暴露—敏感—适应"的城市脆弱性空间研究—以兰州市为例.经济地理，2017,37（3)：86-95.

@@ -1,0 +1,380 @@
+[
+    {
+        "type": "text",
+        "text": "Fluvial sediments in the Alagxa Plateau as a dust source: iron mineralogical and geochemical evidence ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Youjun1,2, JIA Jia2,3\\*, LU Hao²,LU Caichen³, XIA Dunsheng³ lCollge of Tourism and Environmental Resource, Zaozhuang University, Zaozhuang 27710o,China; ²College of Geography and Environmental Sciences,Zhejiang Normal University,Zhejiang 321004, China; 3Collge of Earth and Environmental Sciences,Lanzhou University,Lanzhou 73oooo,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The Alagxa Plateau,in the margin of the northeastern Tibetan Plateau, is one of the most important dust source areas in East Asia,and the widespread sandy desert in the area is important both as a reservoir and a source of eolian silty. The northeastern margin of the Tibetan Plateau is one of the most actively-growing mountain belt on earth,and has large amounts of debris, with masses of fine grained material, which were continuously mobilized and deposited in the Alagxa Plateau by rivers,forming broad aluvial fans.It is possible that the role of fluvial sediments as a source of silty dust in the Alagxa Plateau has been underestimated.In this study, we test this hypothesis by investigating the iron mineralogical and geochemical characteristics of the fluvial sediments and the surface material of the sandy desert in the Alagxa Plateau,and comparing them with paleo-eolian dust deposits (loess) in the adjacent Chinese Loess Plateau(CLP) to investigate the possible linkages among the fluvial sediments,sandy desert and the last glacial loessof the CLP. The results show that sandy desert typically have high contents of goethite, and high ratios of goethite to hematite,similar to the fluvial sediments in the Alagxa Plateau.Based on the major element characteristics,field investigations and the results of previous studies, we found a genetic link between the silt component of the fluvial sediments and the sandy desert in the Alagxa Plateau with high value of Gt (goethite) and similarity of the Gt/(Hm (hematite) $+ \\mathrm { G t } )$ ratio. But the silt component of the sandy desert main come from the adjacent fluvial sediments. The iron mineralogical characteristics $\\mathcal { ( \\chi }$ (magnetic susceptibility)， XARm (anhysteretic susceptibility)， SIRM (saturation isothermal remanent magnetization) and $\\mathrm { S I R M _ { A F 1 0 0 m T } }$ (SIRM demagnetized at $1 0 0 ~ \\mathrm { m T } ,$ ) of the CLP samples overlap with those of the fluvial sediments in the Alagxa Plateau,but there is a mismatch with the sandy desert samples.This suggests that the fluvial sediments are the source of a large amount of silty material which could be transported to the CLP. Therefore, we conclude that the fluvial sediment in the Alagxa Plateau is an important source of eolian silt, which is deposited in downwind region,and that this source has been previously underestimated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: fluvial sediments;siltydust;sandy dust; ion mineralogical and geochemical characteristic;Alagxa Plateau ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: WANGYoujun,JAJia,LUHao,LUCaichen,XIADunsheng.20l9.FuvialsedimentsintheAagxaPlateaasasource ofatmosphericdust:ironmineralogicalandgeochemicalevidence.Journal of AridLand，1l(2):217-227. https://doi.0rg/10.1007/s40333-019-0125-3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Alagxa Plateau is one of most important dust source areas in East Asia (Prospero et al.,2002; Washington et al.,2003; Wang et al.,2008). The frequent dust storms in winter and spring transport masses of eolian dust to the Chinese Loess Plateau(CLP),eastern China, Japan, Europe and Pacific Ocean (Hsu et al.,2008). The dust together with the associated strong winds, which remove organic mater and nutrient-rich particles from the soil， damages the crop plants and pollutes the atmosphere. The widespread sandy desert sediments in the Badain Jaran Desert, Tengger Desert and Ulan Buh Desert, have been proposed as a major source of the emitted dust (Liu, 1985; Zhang et al., 1993; Sun, 2002a). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many studies showed that the contribution of fluvial sediments to the emission of silty dust was underestimated (Stevens et al.,2013; Nie et al.,2015; Zhu et al.,2016). One of the most important pieces of evidence supporting this inference is that major deposits of eolian loess are commonly located close to large rivers (Smalley et al.， 2009). Smalley et al. (2009) suggested that longdistance fluvial transport of sediments is a critical step in the process of generating material for eolian transport and the subsequent widespread formation of loess deposits across the landscape. In addition, Stevens et al. (2013) and Nie et al. (2015) proposed a genetic link between the CLP and the Yellow River, based on the evidence of U-Pb age distributions and heavy mineral assemblages.In the case of the Alagxa Plateau, geomorphic evidence reveals that there is a transition from an aluvial-lacustrine plain to a Gobi-desert plain in the Ejina Basin (Zhu et al., 2016),which indicates that huge amounts of dust material have been emitted. The adjacent high mountains, such as the Qilian Mountains and Gobi Altay Mountains,are one of the most actively growing mountain belts on earth (Hetzel et al.,2004; Chen and Li,2013; Tian et al., 2014). The rivers originating in the Qilian Mountains continuously supply sediments to the Alagxa Plateau and the Hexi Corridor, with an annual average weight of about $1 . 2 \\times 1 0 ^ { 7 }$ t (Pan et al., 2010). Thus, this huge potential source of silty dust for aeolian transport needs to be evaluated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study，we test the hypothesis that fluvial sediments potentially make an important contribution to dust emissions by comparing the iron mineralogical and geochemical characteristics of the fluvial sediments and sandy desert in the Alagxa Plateau with the loess deposits downwind in the CLP. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Alagxa Plateau is located in the northwest of CLP $( 3 7 ^ { \\circ } 3 0 ^ { \\prime }  – 4 2 ^ { \\circ } 3 6 ^ { \\prime } \\mathrm { N }$ $9 3 ^ { \\circ } 0 6 ^ { \\prime } { - } 1 0 6 ^ { \\circ } 3 6 ^ { \\prime } \\mathrm { E }$ ; Fig. 1). The plateau has an area of $2 . 5 { \\times } 1 0 ^ { 5 } ~ \\mathrm { k m } ^ { 2 }$ ,with the Yellow River and Helan Mountains to the east and southeast, the Qilian Mountains to the south and southwest,and the Beishan Mountains to the west. The Alagxa plateau is mainly occupied by Gobi and sandy desert $( 8 0 \\% - 9 0 \\% )$ ). The two principal geomorphic units are the Badain Jaran Desert and the Tengger Desert, at which the Heihe River and Shiyang River terminate, respectively. Both river systems have developed vast aluvial fans, mainly covered by gravel deposits. This area is characterized by an arid temperate and desert climate,with precipitation seldom exceeding $1 5 0 ~ \\mathrm { m m }$ and high potential evaporation exceeding $2 5 0 0 \\mathrm { m m }$ (Chen and Qu, 1992). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Jiuzhoutai is located in the western CLP and close to the Alagxa Plateau. Dust storms, observed by satelites, occurred frequently during winter and spring seasons, and transported large amounts of dust from the Alagxa Plateau to the Jiuzhoutai area (Sun, 2002a). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 Sampling ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fluvial sediments include modern/ancient flood plain, alluvial fan and lacustrine sediment. We selected 24 sampling sites for the fluvial sediments in this study,including 2O for the Heihe River (HR-01-HR-20) and 4 for the Shiyang River (SYH-01-SYH-04). About 3-10 samples were collected from each sampling sites,having 178 samples in total. Meanwhile,we selected 18 sampling sites for the sandy desert (D-01-D-18;1 sample from each sampling site)and 1 sampling site for the last glacial loess of the CLP (in the Jiuzhoutai area; 4 samples from this site: L-01-L04). Due to the arid climatic conditions,the last glacial loess of the CLP is minimally afected by pedogenesis and retains its lithological characteristics (Jia et al.,2O15). Allthe sampling sites are far away from roads, farmland, villages and towns,to avoid the influence of vehicular pollution ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and human activities. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/27e5bc30ae174bdb801a8d1c1ba9e93597ba290a6d31d55a46d8ac8136000596.jpg",
+        "img_caption": [
+            "Fig.1Location and geological seting of the Alagxa Plateau and the distributions of the sampling sites for the fluvial sediments in the Heihe River (HR-01-HR-20)and Shiyang River(SYH-01-SYH-04),the sandy desert (D01-D-18) and the last glacial loess of the Chinese Loess Plateau (CLP) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Data analyses ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Magnetite/maghemite, hematite $\\left( \\mathrm { H m } \\right)$ and goethite (Gt) are the three most important iron minerals in most natural sediments. Among them, magnetite/maghemite has strong magnetic properties with high magnetic properties susceptibility $( \\chi )$ ,and is typically present in trace amounts.Hm and Gt have weak magnetic with low $\\chi ,$ but may be much more abundant on a mass basis than magnetite/maghemite. Therefore,a combination of magnetic measurements and diffuse reflectance spectroscopy (DRS) were selected to investigate the iron mineralogical characteristics of the samples. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the laboratory, all samples were subject to the following fractionation procedures.After air drying,any particles greater than $1 0 0 0 ~ { \\mu \\mathrm { m } }$ (mainly consisting of fine gravel and plant material) were sieved out.The remaining material was separated into two fractions by sieving.The fraction $\\leq 6 3 \\mu \\mathrm { m }$ was used for the laboratory analyses described below,and the fraction ${ > } 6 3 ~ \\mu \\mathrm { m }$ was retained for visual inspection.The grain-size distribution of the ${ \\le } 6 3 ~ \\mu \\mathrm { m }$ fraction of the fluvial sediments is very similar to that of sandy desert which have a modal size range of $3 { - } 2 0 ~ { \\mu \\mathrm { m } }$ . This suggests that the effects of grain-size sorting on various parameters are minor(Fig.2).Furthermore,the bimodal grain-size distribution of the typical loess of the CLP indicates that the fine-grained components have a similar modal size range to the fluvial and desert sediments (Sun et al.,2OO4; Qiang et al., 2016). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Magnetic measurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\chi$ is commonly used to assess the bulk concentration of ferrimagnetic mineral in the natural samples,and is also particularly sensitive to the content of superparamagnetic (SP) grains $( < 3 0 \\mathrm { n m }$ Thompson and Oldfield, 1986).Anhysteretic susceptibility $( \\chi _ { \\mathrm { A R M } } )$ is sensitive to the concentration of ferrimagnetic minerals in the single domain range. SIRM (saturation isothermal remanent magnetization) and related demagnetization ratios provide estimates of the total content of remanence-bearing material and the relative proportions of low coercivity(ferrimagnetic) and high coercivity (imperfect antiferromagnetic） magnetic phases. $\\mathbf { S I R M _ { A F 1 0 0 m T } }$ (SIRM demagnetized at $1 0 0 \\mathrm { m T } ,$ is a remanent parameter which cleans the magnetic signal of the ferrimagnetic contribution and is often used as a rough indicator of the concentration of antiferromagnetic minerals. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f4b16f9b6e5d6be591e4e5b637f01739d05d1bfbbd21c15f579538c13b4f9fa.jpg",
+        "img_caption": [
+            "Fig.2Grain-size frequencydistributions oftherepresentative sampling sites forthe fluvialsediments in the Heihe River (HR-04,HR-09 and HR-16) and Shiyang River (SYH-01) and for the sandy desert (D-06 and D-08) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Samples $( \\leq 6 3 \\ \\mu \\mathrm { m }$ fraction) were packed in $1 0 \\mathrm { m l }$ plastic pots and then subjected to the following series of magnetic measurements.Mass-specific $\\chi \\mathrm { w a s }$ measured with a Bartington MS2 meter and MS2B sensor $( 4 7 0 \\mathrm { H z }$ ; Bartington Instruments Ltd, British). Anhysteretic remanent magnetization (ARM) was imparted with a DTECH AF demagnetizer (G Enterprises, US) at a peak AF field of $8 0 \\mathrm { m T }$ and a DC bias field of $1 0 0 \\mu \\mathrm { T }$ ,and measured using a 2G Enterprises Superconducting Rock Magnetometer (2G-755). ARM is expressed as an anhysteretic susceptibility $( \\chi _ { \\mathrm { A R M } } )$ by dividing the biasing field strength. SIRM was imparted at 1T using an MMPM10 Impulse Magnetizer (JR6 spinner magnetometer, AGICO, Czechoslovakia), then demagnetized at $1 0 0 ~ \\mathrm { m T }$ $\\mathrm { ( S I R M _ { A F 1 0 0 m T } ) }$ and measured again. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 DRS measurements ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Samples $( \\leq 6 3 \\ \\mu \\mathrm { m }$ fraction) for DRS measurements were mixed with distilled water, and the resulting slurry was smeared on a glass microscope slide, smoothed and then dried slowly at room temperature.The samples were analyzed using a Perkin Elmer Lambda 90O spectrophotometer (Perkin Elmer, US) to obtain the DRS spectra over the range of $4 0 0 { \\ - } 7 0 0 \\ \\mathrm { n m }$ at a $2 \\mathrm { - n m }$ interval. Reflectance data were processed to obtain percentage reflectance in standard color bands (violet, $4 0 0 { \\ - } 4 5 0 \\ \\mathrm { n m }$ ; blue, $4 5 0 { \\mathrm { - } } 4 9 0 \\ \\mathrm { n m }$ ; green, $4 9 0 { - } 5 6 0 ~ \\mathrm { n m }$ ; yellow, $5 6 0 { - } 5 9 0 ~ \\mathrm { n m }$ ; orange, $5 9 0 { - } 6 3 0 ~ \\mathrm { n m }$ ， and red, $6 3 0 { \\mathrm { - } } 7 0 0 \\ \\mathrm { n m }$ ） (Judd and Wyszecki, 1975).We calculated the red percentage reflectance (redness) by dividing the percentage of red reflectance in a band by the total visible wavelength reflectance in the samples, following the method of Long et al. (2011). The Hm content was estimated from the redne $58 \\%$ using a linear regression model: $\\mathrm { H m \\% { = } 0 . 0 5 { \\times } r e d n e s s \\% { - } 1 . 1 5 }$ . Iron (Fe) was extracted using the citrate/bicarbonate/dithionite method as free iron oxides (Fed) (Mehra and Jackson,1960), which were measured using an atomic absorption spectrometer AA240 (Varian, American） with a relative error of $1 \\%$ . The Gt content was estimated using the formula: $\\mathrm { G t ^ { 9 } } \\mathrm { 6 } { = } 1 . 5 9 { \\times } ( \\mathrm { F e d } { - } \\mathrm { H m ^ { 0 } } / 0 / 1 . 4 3 )$ (Torrent et al., 2007). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 Major elements analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Samples $( \\leq 6 3 \\ \\mu \\mathrm { m }$ fraction) for major elements (Si, silicon; Al, aluminum; Fe, iron; Ti, titanium; Ca, calcium; $\\mathbf { M } \\mathbf { g }$ , magnesium; Na, sodium; and K, kalium) analyses were prepared by pouring the measured weight of sediment (about ${ 4 } \\mathrm { g }$ ) into the center of a column apparatus, together with boric acid,and then pressurizing under $3 0 ~ \\mathrm { t / m } ^ { 2 }$ for $2 0 ~ \\mathrm { s }$ . The resulting sample of approximately $4 \\mathrm { c m }$ in diameter and $8 ~ \\mathrm { m m }$ in thickness was analyzed using a MagixPW2403 X-ray fluorescence spectroscope (PANalytical, Hollnd). The standard deviation based on repeat sample analysis was approximately $2 \\%$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Magnetic measurements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 1 summarizes the values of the magnetic parameters of all samples. $\\chi$ values of the fluvial sediment samples ( $( 1 0 { \\times } 1 0 ^ { - 8 } { \\ - } 4 9 { \\times } 1 0 ^ { - 8 } \\ \\mathrm { m } ^ { 3 } / \\mathrm { k g } ;$ $2 7 \\times 1 0 ^ { - 8 }$ （204号 $( \\pm 8 { \\times } 1 0 ^ { - 8 } ) \\mathrm { m } ^ { 3 } / \\mathrm { k g } )$ were more lower than those of the sandy desert samples $( 7 0 { \\times } 1 0 ^ { - 8 } { - } 3 3 4 { \\times } 1 0 ^ { - 8 } \\ \\mathrm { m } ^ { 3 } / \\mathrm { k g } ;$ $1 7 4 \\times 1 0 ^ { - 8 }$ （ $( \\pm 8 3 { \\times } 1 0 ^ { - 8 } ) ~ \\mathrm { m } ^ { 3 } / \\mathrm { k g } )$ .The content of fine-grained ferrimagnetic material and imperfect antiferromagnetic material, indicated by the XARM and $\\mathrm { S I R M _ { A F 1 0 0 m T } }$ values,were also higher in the sandy desert than those in the fluvial sediments.The overall magnetic characteristics of the last glacial loess samples of the CLP were similar to those of the fluvial sediments. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/599167f9dbf6e89ba6c072030357e075366afaf661189ce0bf84bb750833c266.jpg",
+        "table_caption": [
+            "Table1Descriptive statistics for magnetic parameters of the fluvial sediments and sandy desert in the Alagxa Plateau and the last glacial loess of the Chinese Loess Plateau (CLP) "
+        ],
+        "table_footnote": [
+            "Note: $\\chi .$ magnetic susceptibility; $\\chi _ { \\mathrm { A R M } }$ ,anhysteretic susceptibility; SIRM, saturation isothermal remanent magnetization; $\\mathbf { S I R M _ { A F l 0 0 m T } }$ ， SIRM demagnetized at $1 0 0 ~ \\mathrm { m T }$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Sediment type</td><td rowspan=\"2\"></td><td>X</td><td>XARM</td><td>SIRM</td><td>SIRMAF100mT</td></tr><tr><td colspan=\"2\">(×10- m³/kg)</td><td colspan=\"2\">(×10-5 Am²/kg)</td></tr><tr><td rowspan=\"4\">Fluvial sediments (n=178)</td><td>Max</td><td>49</td><td>91</td><td>738</td><td>109</td></tr><tr><td>Min</td><td>10</td><td>27</td><td>218</td><td>41</td></tr><tr><td>Mean</td><td>27</td><td>54</td><td>443</td><td>81</td></tr><tr><td>SD</td><td>8</td><td>13</td><td>154</td><td>17</td></tr><tr><td rowspan=\"4\">Sandy desert (n=18)</td><td>Max</td><td>334</td><td>298</td><td>4985</td><td>525</td></tr><tr><td>Min</td><td>70</td><td>126</td><td>1185</td><td>163</td></tr><tr><td>Mean</td><td>174</td><td>183</td><td>2454</td><td>294</td></tr><tr><td>SD</td><td>83</td><td>51</td><td>1037</td><td>112</td></tr><tr><td>The last glacial loess of the CLP(n=4)</td><td>Mean</td><td>35</td><td>56</td><td>652</td><td>105</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Gt and Hm content ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Gt and Hm are two widely distributing iron minerals in the surface sediments (Oldfield et al.,2014). The DRS results indicated that most of the fluvial sediment samples contained more than $10 . 0 \\text{‰}$ Gt $( n { = } 2 2$ · $1 3 . 0 \\text{‰}$ （204号 $( \\pm 4 . 0 \\% ) \\big \\rangle$ ）and $2 . 5 \\text{‰}$ Hm ( $n { = } 2 2$ · $3 . 3 \\text{‰}$ （ $( \\pm 0 . 9 \\% ) \\dot { }$ ) (Fig. 3). The Gt content of the sandy desert samples was low, with a range of $4 . 0 \\% { 0 } { - } 1 6 . 0 \\%$ 0 $\\scriptstyle \\cdot = 7$ · $1 1 . 0 \\text{‰}$ （204号 $( \\pm 4 . 0 \\text{‰}$ ).However, the $\\mathrm { H m }$ content of the sandy desert samples was high,with a range of $2 . 9 \\text{‰}$ 0 $\\scriptstyle \\overbrace { n = 7 }$ ：， $3 . 8 \\text{‰}$ $\\left( \\pm 0 . 8 \\% \\right) \\$ ). The last glacial loess samples of the CLP contained $1 1 . 4 \\text{‰}$ Gt and $3 . 2 \\text{‰}$ Hm,which were lower than those of the fluvial sediments. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fddfb4535be68739df22d6866a7e90e91633170eee67851980c7eb9e2a1a886.jpg",
+        "img_caption": [
+            "Fig.3Contents of goethite(Gt)and hematite (Hm)ofthe fluvial sediments in the Heihe River and Shiyang River, the sandy desert and the last glacial loess of the CLP "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { G t / ( G t { + } H m ) }$ ratios of the fluvial sediment samples(0.79 $\\left( \\pm 0 . 0 6 \\right) \\$ ）were similar to those of the last glacial loess of the CLP (Mear $_ { 1 = 0 . 7 8 }$ ),while the values of the sandy desert samples were slightly lower $( 0 . 7 2 \\ ( \\pm 0 . 3 8 ) )$ . It should be noted that most of the sandy desert samples exhibited similar values with those of the other two sediment types, except for two sampling sites (D-09 and D-10). If samples from these two sampling sites are eliminated, the average $\\mathrm { G t / ( G t { + } H m ) }$ ratio of the sandy desert samples was 0.79. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 Element contents ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Contents of the selected major elements (Si,Al,Fe,Ti, Ca,Mg,Na and K) of the fluvial sediments, sandy desert and the last glacial loess of the CLPare illustrated in Figure 4.In contrast to the two other sediment types, the fluvial sediments had lower Si and Ti contents,and higher $\\mathbf { M g }$ and Ca contents,and the values were tightly clustered irrespective of the sample locations. Notably, the Ca content of the fluvial sediments was highly variable, ranging from $4 . 5 \\%$ to $34 . 7 \\%$ $\\mathrm { ( S D = 7 . 4 ) }$ ).The sandy desert is characterized by higher Si and Ti contents and lower Ca contents, compared with the other two sediment types. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/caa1a73eb7932c3c579a9c165c7390ffc7c73d1f92b44f5f184fd145cae5dadb.jpg",
+        "img_caption": [
+            "Fig.4Contents of the selected major elements (Si,silicon; Al,aluminum,Fe,iron; Ti,titanium; Ca,calcium; $\\mathbf { M } \\mathbf { g }$ magnesium;Na,sodium;and K,kalium)ofthe fluvialsediments (Fluvial),sandydesert (Desert)andthelastglacial loess of the CLP. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1The role of silt in linking fluvial sediments and sandy desert material in the Alagxa Plateau ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In Eastern Asia, two main factors controlling the production of silty material are climaticallycontrolled glacial grinding and denudation induced by tectonic uplift (Sun,2Oo2a). The desert serves as a store or reservoir of the fine-grained material produced in the adjacent mountains by these processes (Smalley et al., 2009). In addition, rivers play an important role in transporting the silty material from the high mountains to the alluvial-desert plain (Smally et al.,2009). Subsequently, the Asian winter monsoon transports the particles downwind to desert basins and the CLP (Sun, 2002b). The point of this view is supported by an increasing amount of geological evidence, especially the age distribution of detrital zircon U-Pb ages.Probability density plots have been produced for the detrital zircon U-Pb ages of the fluvial sediments and sandy desert in the Alagxa Plateau and the loess of the CLP (Che and Li,2013; Zhang et al.,2015; Nie et al., 2018). Zircon is highly stable at the earth surface so that the U-Pb isotopic within system is similar. The age population of detrital zircon grains can reflect the multiple stage ofrock formation in the source regions and they are therefore a useful sediment tracer. Age distributions analysis of the detrital zircon indicates a common source for the silt component of the fluvial sediments and sandy desert in the Alagxa Plateau and the loess of the CLP (Che and Li, 2013; Zhang et al.,2015; Nie et al., 2018). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The results of the present study provide further evidence for a genetic link between the silty component of the fluvial sediments and sandy desert in the Alagxa Plateau. Gt production tends to be favored by a moist and low pH environment, while in contrast, Hm production is favored by a hot environment (Schwertmann,1985). The similarity of the $\\mathrm { { G t / ( H m { + } G t ) } }$ ratios between the fluvial sediments and sandy desert in the Alagxa Plateau suggests that their silt components are formed under moist conditions.It is hot and dry in the desert climate of the Alagxa Plateau,and the silt component of the sandy desert cannot be autochthonous.The adjacent fluvial sediments are the only potential source which can continuously produce the large amounts of silty material. In addition, a scatter plot of stable element ratios (Fig. 5） shows that the sandy desert samples investigated in this study overlap with or located near the regression line for the fluvial sediment samples in the Heihe River. This also suggests a genetic link between the fluvial sediments and sandy desert in the Alagxa Plateau. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4e53430f01a946ee4e30f5a578ed50bc3af4f053590803e83b4219c557aa1fd.jpg",
+        "img_caption": [
+            "Fig.5Scatter plots of major element ratios for the fluvial sediments and sandy desert in the Alagxa Plateau and the last glacial loess of the CLP "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The modern landscape also supports a genetic link between the fluvial sediments and sandy desert in the Alagxa Plateau. First, the Heihe River and Shiyang River both originate from the Qilian Mountains and transport large amounts of debris to mountain piedmonts and basin depressions in the Alagxa Plateau, forming vast flat alluvial fans (Pan et al.,2O1O). Combined with the arid conditions, strong northwest wind preferentially erode the silt and sand fractions of the sediments,leaving a gravel cover on the alluvial fan surface. Therefore, from the Alagxa Plateau in the northwest to the CLP in the southeast, the deposits exhibit a zonal distribution on the CLP, consisting of the following sequence: gravel (Gobi), sand (sandy desert) and silt (loess). Second, several modern sand dunes are developing within the fluvial sand deposits around Gobi areas (Figs. 6a and b; Zhu et al.,2O16). Third, the widespread yardangs,deflation hollows and Gobi suggest that huge amounts of fine-grained material have been eroded from the fluvial sediments (Figs. 6bd). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/39e3dcc3b976e9a37abd28be4e3b98575d03c4043d90c7e8d62cb5c6434b227d.jpg",
+        "img_caption": [
+            "Fig.6Remote sensing image of the Heihe River and the nearby sand dune (a),typical reg of clasts developed on the allvial plain and the nearby sand dune (b),and Yardangs and Gobi in the Heihe River Basin (c and d) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2Link between the silt component of the fluvial sediments in the Alagxa Plateau and the last glacial loessof the CLP ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The magnetic properties of ferrimagnetic minerals depend greatly on grain-size,in addition, previous studies have shown that magnetite grains are sensitive to wind sorting (Beget et al.,1990; Song et al., 2010; Zan et al., 2011; Wei et al., 2013; Zan et al., 2015). Wei et al. (2013) proposed that density difference between minerals with diferent magnetic properties was a major cause of spatial differences in the $\\chi$ of eolian deposits. Typically， ferrimagnetic and imperfect antiferromagnetic minerals, such as magnetite, maghemite and Hm, which are relatively strongly magnetic, have a higher density than weakly magnetic paramagnetic and diamagnetic minerals, such as quartz, feldspar and calcite.Therefore,strongly magnetic minerals tend to be enriched in deposits which have been transported a relatively short distance from the source. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 shows a series of scatter plots for selected magnetic parameters for the three sediment types (fluvial sediments and sandy desert in the Alagxa Plateau and the last glacial loess of the CLP). The magnetic properties of the fluvial sediments samples were more variable than those of other sediment samples, but they overlapped with those of the loess samples.The sandy desert samples exhibited strong linear relationships between magnetic parameters but there was a minimal overlap with the last glacial loess ofCLPand fluvial sediment samples. In addition,the sandy desert samples were enriched in strongly magnetic minerals. Our field investigations revealed that the fluvial sediments contained much higher proportions of fine grained material than the sandy desert samples (Fig. 6).The results of laboratory measurements showed that the ${ \\le } 6 3 \\ \\mu \\mathrm { m }$ fractions comprised up to $7 1 . 4 \\%$ of the fluvial sediments, but only $8 . 1 \\%$ of the sandy desert samples (Fig. 8). Therefore, we propose that the silty material in the sandy desert is well-sorted and has been transported by wind and deposited close to the source,and that a proportion of the silt component of the fluvial sediments is transported to the CLP. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5af05f90f8a7b27749008e4e4aaf950dd547131f896b90a7b0bd1a2af0080e51.jpg",
+        "img_caption": [
+            "Fig.7Scatter plots of magnetic parameters for samples of the fluvial sediments and sandy desert in the Alagxa Plateau and the last glacial loess of the CLP. $\\chi ,$ magnetic susceptibility; $\\chi _ { \\mathrm { A R M } }$ ,anhysteretic susceptibility; SIRM, saturation isothermal remanent magnetization; SIRMAF1oomT, SIRM demagnetized at $1 0 0 ~ \\mathrm { m T }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/86c332ed9be85156d2fa94a2676460e1c470dd89f8997cc8f9153eace1445724.jpg",
+        "img_caption": [
+            "Fig.8Silt components of the fluvial sediments in the Heihe River and Shiyang River and the sandy desert "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The fluvial sediments and sandy desert material in the Alagxa Plateau have obvious different iron mineralogical and geochemical characteristics.The fluvial sediments are characterized by a wide range of major element contents and low contents of strongly magnetic minerals.The sandy desert has higher contents of Ti and strongly magnetic minerals.The last glacial aeolian deposits of the CLP exhibit similar iron mineralogical characteristics with the fluvial sediments in the Alagxa Plateau, but have a much narrower range of major element contents, which suggests that loess is a well-mixed eolian dust. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Our experimental results, supported by geomorphological evidence and the results of previous studies,indicate that the fluvial sediments are the dominant source of eolian silt emited in the Alagxa Plateau, which is then transported long distance downwind.In addition,although there is a genetic link between the sandy desert material and fluvial sediments in the Alagxa Plateau, the contribution of sandy desert material to the eolian silt is limited. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the National Natural Science Foundation of China (41401046)and the Fundamental Research Fundsfor the Central Universities(lzujbky-2016-264，lzujbky-2016-bt01).We thank Dr.Jan BLOEMENDAL for critical discussions,constructive suggestions and English language improvement. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Beget JE,Stone DB,HawkinsDB.1990.Paleoclimatic forcing of magnetic susceptibilityvariations inAlaskanloess during the late Quaternary. Geology,18(1): 40-43.   \nChe XD,LiGJ.2O13.Binary sourcesof loesson the Chinese Loes Plateau revealed by U-Pbages of zircon.Quaternary Research,80(3): 545-551.   \nChenLH,QuYG.1992.WaterandLand Resources and TheirRational Development and Utilizationinthe Hexi Region.Beijing: Science Press,60-100.(in Chinese)   \nChen Z,LiGJ.Ol3.Evolving sourcesofeoliandetritusontheChineseLoessPlateausinceearlyMiocene:Tectonicandclimatic controls.Earth and Planetary Science Letters,371-372(2):220-225.   \nHetzelR,TaoMX,Stokes S,etal.2004.Late Pleistocene/Holocene sliprateofthe Zhangye thrust(Qilian Shan,China)and implications for the active growth of the northeastern Tibetan Plateau.Tectonics,23(6-TC6oo6):1-17.   \nHsuSC,LiuSC,HuangYT,etal.2O08.Acriterionforidentifing AsiandusteventsbasedonAlconcentrationdatacollected fromnorthern Taiwan between 2002 andearly 2007．Journal of Geophysical Research，113，D18306，doi: 10.1029/2007JD009574.   \nJiaJ,XiaDS,WangY,etal.l5.EastAsianmonsoonevolutioduringtheEemian,asrecordedinthewesterChiesess Plateau. Quaternary International,399:156-164.   \nJudd D B,Wyszecki G.1975.Color in Busines,Science,and Industry.New York: John Wiley,503-565.   \nLiu T S.1985.Loess and the Environment.Beijing: China Ocean Press,2-79.   \nLongXY,JiJF,WillamB.201Raifal-dependenttransformationsofooxidesinatropicalsaprolitetansectofHainan Island,SouthChina:Spectralandmagneticmeasurements.JouralofGeophysicalResearchAtmospheres,l16(F3):29-55.   \nMehraOP,Jackson ML.1960.Ironoxideremoval from soilsandclays byadithionite-citrate system buferedwith sodium bicarbonate.Clays Clay Miner,7(1): 317-327.   \nNieJS,StevensTRitnerM,etal.2O15.LoessPlateaustorageofNortheasternTibetanPlateau-derivedYellowRiversdiment. Nature Communications,6(1):8511,doi: 10.1038/ncomms9511.   \nNie JS,PullenA,Garzione CN,etal.2018.Pre-Quaterarydecoupling betweenAsianaridificationand highdustaccumulation rates.Science Advances,4(2): eaao6977,doi:10.1126/sciadv.aao6977.   \nOldfieldF,ChiveellRC,LyosR,etal.2O14.Disriminatingdustsanddustssourcesusingmagneticpropertiesandatite: Goethiteratiosofsurfacematerialsanddustfrom North Africa,theAtlanticandBarbados.AeolianResearch,13(13):91-104.   \nPanBT,Geng HP,HuXF,etal.20l0.Thetopographiccontrolsonthedecadal-scaleerosionrates in Qilian Shan Mountains, N.W. China.Earth and Planetary Science Letters,292(1-2):148-157.   \nProsperoJM,GouxPTorresO,etal.Oo2.Environmentalcharacterizationofglobalsourcesoftmosphericsoildustdetiied withthe Nimbus 7total ozone mapping spectrometer(TOMS)absorbing aerosol product.Reviewsof Geophysics,40(1):1002.   \nQiang MR,JinYX,LiuXX,etal.2O16.LatePleistoceneandHoloceneaeoliansedimentationinGonghe Basin,ortaste Qinghai-Tibetan Plateau: Variability,processes,and climatic implications.Quaternary Science Reviews,l32:57-73.   \nSchwertmann U.1985.Formationof Secondary Iron Oxides in Various Environments.Paris: D.Reidel Publishing Company.   \nSmalleyIJ,O'Hara-DhandK,WintJ,etal.2o9.Riversandloes:Thesignificanceoflongrivertransportationintecomplex event-sequence approach to loess deposit formation. Quaternary International,198(1-2):7-18.   \nSongYG,ShiZT,FangXM,etal.2O10.LoessmagneticpropertisintheIliBasinandtheircorelationwithheCneseLoes Plateau.Science China Earth Sciences,53(3): 419-431.(in Chinese)   \nStevensT,CarterA,WatsonTP,etal.2Ol3.GeneticlinkagebetweentheYellowRiver,theMuUsdesertandtheChineseLo Plateau. Quaternary Science Reviews,78(19): 355-368.   \nSunDH,BloemendalJ,ReaDK,etal.2O04.Bimodal grain-sizedistributionofChineseloessanditspalaeoclimatic implications.Catena,55(3): 325-340.   \nSunJM.2Ooa.Provenanceofloess materialand formationofloessdeposits on theChinese LoessPlateau.Earthand Planetary Science Letters,203(3-4): 845-859.   \nSunJM.2O02b.Source regions and formationof the loessediments on the high mountain regions of northwestern China. Quaternary Research,58(3):341-351.   \nThompson R,Oldfield F.1986.Environmental Magnetism. London: Allen and Unwin.   \nTianZH,XiaoWJ,WindleyBF,etal.20l4.Structure,age,andtectonicdevelopmentoftheHuoshishan-Niujuanzioiolitic mélange,Beishan, southernmost Altaids.Gondwana Research,25(2): 820-841.   \nTorrentJ,LiuQS,loemendalJ,etal.2oo7.MagneticEnhancementandIronOxides inthe UpperLuochuanLoes-Paleosol Sequence,Chinese Loess Plateau. Soil Science Society of America Journal,71(5):1570-1578.   \nWang X,HuangJP,JiMX,etal.2Oo8.VariabilityofEastAsiadusteventsandtheirlong-termtrend.AtmosphericEnviroent, 42(13): 3156-3165.   \nWashington R,Todd M,MiddletonNJ,etal.20o3.Dust-stormsource areas determined by the total ozone monitoring spectrometer and surface observations.Annals of the Association of American Geographers,93(2): 297-313.   \nWei HT,BanerjeeSK,XiaDS,etal20l3.Magneticcharacteristicsof loess-paleosolsequencesonthe northslopeof the Tianshan Mountains,northwestern China and their paleoclimatic implications.Chinese Journal of Geophysics,56(1):150- 158.(In Chinese)   \nZanJB,FangXM,NieJS,etal.2Ol1.Magneticpropertiesofsurfacesoilscross thesouthernTarimBasinadtheirelatioshp with climate and source material. Chinese Sci Bull,56(3):290-296.   \nZanJB,FangXM,NieJS,etal.2Ol1.Magneticpropertiesofsurfacesoilscross thesouthernTarimBasinadtheirelatioshp with climate and source material. Chinese Science Bulletin,56(3):290-296.   \nZanJB,FangXM,YangSL,etal.2O15.Bulkparticlesizedistributionandmagneticpropertiesofparticle-sizedfractios from loess and paleosol samples in Central Asia. Geochemistry Geophysics Geosystems,16(1):101-111.   \nZhang J,ZhangBH,Zhao H.2O15.TimingofamalgamationoftheAlxa BlockandtheNorth China Block: Constraints based on detrital zircon U-Pb ages and sedimentologic and structural evidence.Tectonophysics,668-669:65-81.   \nZhang XY,ArimotoR,AnZS,etal.1993.Atmospheric trace elementsoversourceregionsforChinese dust:concentrations, sourcesand atmospheric depositionontheLoess Plateau.Atmospheric Environment.PartA.General Topics,27(13):2051- 2067.   \nZhu X M,ZhongDK,YuanXJ,etal.20l6.Developmentofsedimentarygeologyofpetroliferous basins in China.Petroleum Exploration and Development, 43(5): 890-901. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

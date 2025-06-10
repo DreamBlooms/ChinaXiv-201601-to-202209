@@ -1,0 +1,892 @@
+[
+    {
+        "type": "text",
+        "text": "综合维度学习的多群协作粒子群优化算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张其文，王杨婷",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(兰州理工大学 计算机与通信学院，兰州 730050)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对维度学习策略(Dimensionallearming strategy，DLS)中存在的“过度开发\"问题，提出了一种综合维度学习的多群协作粒子群优化算法(CDL-MCPSO)，为提高种群搜索效率，算法采用基于主从范式的集群结构，将种群划分为一个主群和四个从群，主群执行综合学习策略在搜索空间进行大范围探索，从群执行综合维度学习策略(Comprehensive DimensionalLearming，CDL)在局部最优解附近进行高精度地开发，主从群通过执行具有不同职能的算法能够有效实现其在勘探和开发之间的平衡，同时为保持种群多样性，提出了一种新的解交换机制(SEM)，用来在主从群独立运行各自算法若干代之后进行信息的交流与协作，以指导粒子后期进行更准确的搜索，最后，针对初始化过程随机性过高，运用拉丁超立方体采样方法对算法重建输入分布，为验证CDL-MCPSO的有效性，将其与5种粒子群算法变体在10个测试函数进行实验对比，结果表明该算法总是可以找到优于或相当于对比算法的解，在求解复杂函数时具有可行性和高效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：粒子群算法(PSO)；综合维度学习策略；主从范式；多群协作 中图分类号：TP301.6 doi:10.19734/j.issn.1001-3695.2022.01.0019 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multi-swarm collaborative particle swarm optimization algorithm based on comprehensive dimensional learning ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Qiwen, Wang Yangting† (School of Computer& Communication,Lanzhou University ofTechnology,Lanzhou 73oo50,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aiming at the problem of\"over-exploitation\" in dimensional learning strategy(DLS),this paper proposedamultiswarm collaborative particle swarm optimization algorithm with comprehensive dimension learning (CDL-MCPSO).The cluster structure of master-slave paradigm divides the population into a master groupand four slave groups,in which the master group executes acomprehensive learning strategy to conduct alarge-scale exploration in the search space,and the slave groups execute acomprehensive dimensional learning strategy(CDL)to exploit high-precisionsolutions nearthe local optimal.The master-slave groups can efectively achieve the balance between exploration and exploitation by executing algorithms with different functions.At the same time,inorder to maintainthediversityof the population,the CDL-MCPSO proposed anew solution exchange mechanism(SEM),Bydoing this,thealgorithmcanaccomplish information exchange and cooperation afterthe master-slave groups runing theirrespective algorithms forseveral generations independentlyso as to guide theparticles toconduct more accuratesearches inthe later stage.Finally,forthe highrandomnessofthe initialization process，the algorithm adopted latin hypercube sampling to reconstruct the input distribution.In order to verify the efectivenessofCDL-MCPSO,compared with5kinds ofPSOvariants in10testfunctions.theresultsshowthatthealgorithm can always find better or equivalent solutions. It is feasible and efficient in solving complex functions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: particle swarm algorithm(PSO);comprehensive dimensional learming strategy;master-slave paradigm; multigroup collaborative ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近些年来，智能优化算法逐渐成为解决科研和工程应用领域中许多复杂优化问题的首选方法。常见的主要包括粒子群算法(PSO)、和声搜索算法(HS)、文化算法(CA)、基于教与学的算法(TLBO)以及重力搜索算法(GSA)等。其中最经典的当属模拟生物行为机制的粒子群优化算法(particlewarmoptimization，PSO)[1]，它是由 Kennedy 和 Eberhart 博士于1995 年正式提出的一种基于种群的元启发式优化算法，由于其实现简单、控制参数少吸引了大量学者研究并涌现出了许多变体。针对它的改进主要有四个方面：参数设置、拓扑结构、算法融合以及学习策略。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "参数的取值对于平衡算法的勘探和开发能力有着重要的作用。Shi等人[2]通过研究发现粒子对先前速度的继承能力对算法性能的提升有很大作用，进而在基本粒子群算法中引入了惯性权重，Sarhani等人[3]为平衡算法的全局与局部搜索能力，提出一种基于隐性马尔可夫模型状态估计的惯性权重控制机制，实验结果证明了算法的收敛优势。2017年，Gou等人[4]根据每个粒子之间的个体差异动态调整参数的值，同时采用重启策略再生粒子，实验结果证明了该算法具有鲁棒性和可扩展性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在拓扑结构的选择方面，Nasir等人[5]提出了一种动态邻域学习粒子群优化算法(DNLPSO)，该算法从邻域(包括自身)的最佳位置选择一个样本粒子。文献[6]为了从根源上克服PSO 算法易陷入局部最优的问题，针对多种拓扑结构进行实验分析，最终提出了一种全局探索与局部开发相融合的混合拓扑粒子群算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "利用不同的进化算法来提高PSO的性能是研究人员的又一重点。最早的算法融合是Gong 等人[7将遗传算法中的三个经典操作选择、变异和交叉引入到PSO中。每个粒子根据遗传操作生成一个有希望的样本，然后以标准PSO的方式从样本中学习。2018年，Aydilek等人[8将萤火虫算法与粒子群算法的概念进行融合，实验结果证明了算法不仅能有效平衡算法的探索与开发能力，而且运行时间和解的精度都有明显提升。Senel等人[9将PSO的开发能力与灰狼优化算法的探索能力相结合，在同一测试环境下，该算法在短时间内获得较好的成效。实验结果表明算法能在更短的时间内找到更好的优化方案。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据以上各种改进，可以明确PSO变体的主要目标是保持种群勘探和开发能力的平衡，并在保持种群多样性的同时提高算法的收敛速度以及解的质量，但现实生活中大多数优化问题往往都比较复杂。在多样性方面，单维问题需要较小的种群多样性，以便快速收敛，而多模态问题需要较好的种群多样性来避免算法陷入局部极值。由此可见只采用单一策略无法满足不同优化问题的需求。因此一些研究人员提出了分而治之的策略来解决复杂优化问题，针对不同的优化目标运用的不同的学习策略。陈跃刚等人[10]基于综合学习策略对多目标问题进行求解,通过分解方法更新主导粒子以增强解的分布;采用存档机制存储优化过程中的非支配解,并采用多项式变异来避免陷入局部最优，Mendes 等人[1]提出了完全知情粒子群优化算法(FIPS)。FIPS利用完全联通邻域中所有邻居的个人最佳信息的平均值更新粒子的位置，文献[12]在考虑了种群结构、多模式学习和个体间博弈等因素之后，提出了具有博弈概率选择的多子群粒子群算法。Parsopoulos 等人[13]提出了统一粒子群优化算法(UPSO)，通过选择合理的邻域大小，利用全局邻域和局部邻域的最佳信息来更新粒子位置，袁小平等人[14]将种群动态地划分为三个不同阶层，并根据不同阶层粒子特性，分别采用局部学习模型、标准学习模型以及全局学习模型，来改善算法性能，文献[15]开发了两种新的学习策略，一方面，提出了适应度景观中的局部稀疏度度量方法来估计粒子的拥塞和分布情况，并在此基础上通过引导粒子到稀疏区域来建立探测策略。另一方面，基于多群策略和自适应子群大小调整提出了一种自适应开发策略。Zhou 等人[16]提出了一种自适应分层更新粒子群优化算法，为两个群分别生成两层和三层更新公式，并引入了多项选择综合学习策略。Saban等人[17基于综合学习和主从范式提出了并行综合学习粒子群优化算法(PCLPSO)，它基于主从范式，并在不同范式之间进行解信息的协作。文献[18]受天体学和植物学启发,提出一种多策略融合的粒子群优化算法。其中三黑洞系统捕获策略和多维随机干扰策略用来增强粒子的全局搜索能力，而协调因子用来完成从全局寻优向局部搜索的转变，以提高收敛速度文献[19]根据PSO 算法的收敛特性和Logistic 映射的混沌思想,提出一种粒子置换的双种群综合学习PSO 算法(PP-CLPSO)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从以上改进方法不难看出，大多数针对参数、拓扑结构、算法融合的改进，仅仅是针对其中一两个目标进行优化，没有平衡好多个目标之间的关系，多种策略分而治之思想是根据算法的不同的优化目标设计不同的学习策略，不仅能够实现勘探和开发的平衡，还能有效避免早熟收敛、提高收敛速度以及解的质量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CDL-MCPSO和以上多策略融合的改进一致，也采用了分而治之的思想，但是考虑了绝大多数算法没有考虑到的\"振荡\"和“维度退化\"现象，例如文献[20]提出的维度学习策略，虽然解决了“维度退化”现象，但在不同群体中由于使用的学习策略并不完全适配子群职能而产生了新的问题-“开采过度”，原因在于公式第二项的学习样本是全局最优，在少数迭代之后，会和公式第三项完全一致共同发挥开发作用，开发能力变成之前的两倍，种群多样性逐渐丧失。针对此不足，CDL-MCPSO通过融合综合学习策略(CLS)和维度学习策略(DLS)各自的优点，提出“综合维度学习策略(CDL)”,去掉公式第三部分对全局最优项的学习，引入CLS中对所有其他粒子概率性学习的思想，使粒子在开发的同时也可以适当探索，并基于信息流动原理提出了一种新的解交换机制(SEM)，在提高算法收敛速度的同时也优化了解的质量,最后通过拉丁超立方体采样对算法重建输入分布，有效避免了初始化过程由于随机性过高给算法带来的负面影响。通过对改进思路产生原因的描述，可以看出CDL-MCPSO具备新颖性和前沿性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1粒子群优化算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PSO[2]源于对鸟群觅食共享个体知识社会行为的研究。群中的每个个体称为粒子，代表搜索空间中的一个潜在解，粒子通过跟随自身个体最优和种群全局最优来更新自己的速度和位置，直到得到满足终止条件的最优解。粒子速度和位置更新公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { V _ { i , j } ( t + 1 ) = \\omega V _ { i , j } ( t ) + c _ { 1 } r _ { 1 , j } ( X _ { i , j } ^ { p b e s t } ( t ) - X _ { i , j } ( t ) ) + } \\\\ & { c _ { 2 } r _ { 2 , j } ( X _ { j } ^ { g b e s t } ( t ) - X _ { i , j } ( t ) ) } \\\\ & { ~ X _ { i , j } ( t + 1 ) = V _ { i , j } ( t + 1 ) + X _ { i , j } ( t ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $i { = } 1 , 2 , . . . , m , j { = } 1 , 2 , . . . , n , m$ 和 $n$ 分别是种群规模和维数。 $\\omega$ 指惯性权重， $c _ { 1 }$ 和 $c _ { 2 }$ 分别是自我认知和社会认知， $r _ { 1 , j }$ 和 $r _ { 2 , j }$ 是第 $j$ 维上[0,1]之间均匀分布的两个随机数。 $X _ { i , j } ^ { p b e s t }$ 和 $X _ { j } ^ { g b e s t }$ 分别代表粒子个体最优和全局最优。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2综合学习策略(CLS)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在2006年Liang等人[21]提出的CLPSO采用新的学习策略，通过利用所有其他粒子的个体最优信息来更新速度，为粒子提供了更多的学习标本和潜在的搜索空间，在综合学习策略中，粒子的更新由学习样本 $X _ { i , j } ^ { c l } ( t )$ 来指导，速度更新公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i , j } ( t + 1 ) = \\omega V _ { i , j } ( t ) + c r ( X _ { i , j } ^ { c l } ( t ) - X _ { i , j } ( t ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "位置更新见式(2)，其中 $X _ { i , j } ^ { c l } ( t )$ 表示粒子 $i$ 个体最优pbest的第 $j$ 维通过向所有其他粒子个体最优的第 $j$ 维进行学习（包括粒子 $i$ 自身个体最优的第 $j$ 维)后产生的样本，样本$X _ { i , j } ^ { c l } ( t )$ 学习过程：粒子 $i$ 个体最优每一维具体向谁学习取决于学习概率 $p _ { c }$ ，不同的粒子学习概率不同，首先为每一维生成一个随机数rand，若随机数大于 $p _ { c }$ ，则向自己个体最优相应维度学习，否则向其他粒子个体最优相应维度学习，学习概率 $p _ { c }$ 更新公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { C _ { i } } = 0 . 0 5 + 0 . 4 5 \\times \\frac { ( \\exp ( \\frac { 1 0 ( i - 1 ) } { p s - 1 } ) - 1 ) } { \\exp ( 1 0 ) - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ps 代表种群规模，在综合学习策略中，其他粒子先前的最佳位置是任何粒子可以学习的样本，并且粒子的每个维度都可以从不同的样本中学习，这种融合来自不同学习样本信息的策略扩大了粒子的潜在搜索空间，大大提高了种群的全局搜索能力，因此在解决多模态问题效果优异，但由于去掉了对全局最优项的学习，导致在求解单峰问题上效果不佳。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3维度学习策略(DLS)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Xu等人[20]针对CLPSO不足以及标准PSO在种群更新中存在的“振荡”[22]和“两步走，一步回头”[23]问题，提出了维度学习策略，利用构造的学习样本 $X _ { i } ^ { d l }$ 和全局最优 $X ^ { g b e s t }$ 更新速度，学习样本 $X _ { i } ^ { d l }$ 的构造：区别于综合学习策略中学习样本 $X _ { i } ^ { c l }$ 的每一维来自其自身或所有其他粒子的相应维度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DLS学习样本 $X _ { i } ^ { d l }$ 的每一维是来自其自身或全局最优$X ^ { g b e s t }$ 的相应维度，学习与否取决于维度替换后粒子适应度值是否变好。这种策略可以将 $X ^ { g b e s t }$ 的优秀信息传递给样本 $X _ { i } ^ { d l }$ ，促进了 $X ^ { g b e s t }$ 编码模式的传播和保护。维度学习策略速度更新公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { V _ { i , j } } ( t + 1 ) = \\omega V _ { i , j } ( t ) + c _ { 1 } r _ { 1 , j } ( X _ { i , j } ^ { d l } ( t ) - X _ { i , j } ( t ) ) + } \\\\ { + c _ { 2 } r _ { 2 , j } ( X _ { j } ^ { g b e s t } ( t ) - X _ { i , j } ( t ) ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "位置更新按照标准粒子群更新式(2)，维度学习策略让个体最优 $X _ { i } ^ { p b e s t }$ 整合全局最优 $X ^ { g b e s t }$ 有前途维度上的信息，保证了学习后的样本不会比个体最优差，同时将对全局最优 $X ^ { g b e s t }$ 的学习项添加了回来，不仅解决了“振荡\"和“维度退化\"现象，也大大加快了算法的收敛速度，但由于公式后两项在更新几代之后相差不大，均侧重于开发，极易出现“过度开发”。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 综合维度的多群协作粒子群优化算法(CDL-MCPSO)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "现有多群学习策略由于忽略了维度退化现象，使得粒子位置在更新过程中会出现“前进两步，后退一步”的问题，即使粒子适应度变好了，也只是因为在有些维度上粒子靠近全局最优的程度大于其他维度上粒子远离全局最优的程度，导致粒子在靠近和远离全局最优之间反复横跳，降低了算法搜索效率也影响了解的质量，同时本文在对DLS速度更新公式演算之后发现，公式第二项的 $X _ { i } ^ { p b e s t }$ 在向 $X ^ { g b e s t }$ 学习几代后构造的学习样本 $X _ { i } ^ { d l }$ 会慢慢地非常接近全局最优 $X ^ { g b e s t }$ 的值，此时对于后面粒子的更新，公式后两项的学习样本均为全局最优，赋予公式最后一项的开发能力由于后两项的无限接近变成了两倍，而且粒子在更新过程中没有向其他粒子学习，没有可以帮助粒子逃离“局部最优”的条件，极易出现“开发过度”，为解决此问题并提升算法运行效率，本文首先采用主从范式的集群结构：一个主群和四个从群，其次在主从群中分别执行全局探索能力强的CLS和开发能力强的改进策略CDL，最后针对初始化随机性过高问题，采用拉丁超立方体采样对算法重建输入分布，在多群和适应子群职能更新规则双策略的加持下，算法的搜索效率会大大提升，同时从群更新规则的提出不仅可以解决“维度退化”问题，还避免了“过度开发”。下面详细介绍CDL-MCPSO算法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1主从范式集群结构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了提高算法勘探和开发之间的平衡，采用基于主从范式的集群结构，将整个种群划分为两类群体：一个主群(Master)和四个从群(Slave)，主群执行全局搜索能力强的综合学习策略在搜索空间内进行大范围的探索，从群执行改进策略-综合维度学习策略在已经找到的较优解附近进行高精度的开发，主从范式集群结构示意图如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5fa549835842bf9d25c0237164de8cb463b34dbe73e524674253e41057593a3.jpg",
+        "img_caption": [
+            "图1主从范式集群结构",
+            "Fig.1Master-slave paradigm cluster structure "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2主从群更新策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为使从群能够在局部最优附近进行高精度的开发，选择改进后的DLS(CDL)作为其更新规则,未被改进的DLS在文献[19]中被证明具有很强的开发能力，但是它存在的“过度开发”问题，会极易导致粒子陷入局部最优，通过对其改进：去掉DLS速度更新公式中对全局最优的学习项，防止粒子个体最优 $X _ { i } ^ { p b e s t }$ 经过几代学习产生的样本 $X _ { i } ^ { d l }$ 和第三项无限接近而导致快速向全局最优 $X ^ { g b e s t }$ 靠拢，加入CLS 公式第二项粒子个体最优对其他所有粒子个体最优的学习，使得到的CDL可以适当削弱DLS的开发程度，避免粒子过早陷入局部最优，发挥出DLS最好的优化效果。速度更新公式具体如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { V _ { i , j } } ( t + 1 ) = \\omega V _ { i , j } ( t ) + c _ { 1 } r _ { 1 , j } ( X _ { i , j } ^ { c l } ( t ) - X _ { i , j } ( t ) ) + } \\\\ { + c _ { 2 } r _ { 2 , j } ( X _ { i , j } ^ { d l } ( t ) - X _ { i , j } ( t ) ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "位置更新见式(2)，所提策略是对标准粒子群算法更新公式第二项和第三项换种思维的改进，可以使算法在具有优秀开发能力的前提下适度探索，由于CDL学习样本对粒子搜索方向的强大指引，整体上开发能力更胜一筹，因此在集群结构中用来对从群进行更新，主群负责在大范围搜索空间进行探索，因此选择全局搜索能力强的CLS，具体更新过程见1.2 小节。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 多群协作",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主群在大范围搜索空间进行探索，不仅能够得到较高质量的解，而且还能很好地保持种群多样性，但是会使算法的收敛速度变慢，从群负责在较好解附近进行高精度的开发，能够大大加快算法收敛速度，但是若此时靠近的全局最优是局部最优，会使粒子无法逃离此区域，综上分析，需要利用从群搜索到的信息来指导主群加快收敛速度，也需利用主群搜索的信息来帮助从群粒子逃离“局部最优”。故主从群之间进行信息交流是必要的，交流过程需要考虑以下四个问题:(1)迁移周期；(2)交流的对象；(3)需要交换的信息；(4)整合策略。为解决以上问题，提出了一种新的解交换机制(SEM)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)迁移周期。表征的是主从群在独立执行各自算法多少代之后开始进行信息的交流与协作，不管什么算法在优化一个具体问题的时候都要在解的精度和计算效率之间做折中，如果信息交换的过于频繁，算法运行时间会大大增加，效率低下；如果交换的间隔过于长，又会使解的质量大打折扣，在 SEM中迁移周期的取值设置为7。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)要交流的对象。如果在太多群集之间交流，会影响算法的运行效率，但若交流的太少，又会有很大的陷入“局部最优”的风险，影响解的质量。同时由于从群主要负责在局部最优解附近进行高精度的开发，执行的均为DLS，如果陷入局部最优，利用具有勘探能力的主群搜索到的信息即可帮助其逃离，所以从群之间无须进行交流，如果交流反而会增加算法运行时间，所以SEM只在主从群之间进行信息的交流。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)需要交换的信息。群集之间通常交换的信息可以为全局最优、局部最优以及粒子邻居最优，在CDL-MCPSO中，主从群只在各自迭代时涉及对其他粒子的学习，协作过程只是用来改善从群可能出现的“局部最优”和主群由于多样性强收敛速度不够快的情形，因此无须交换邻居最优信息，只需交换主群全局最优和各从群本地最优信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)整合策略。处理交流后的信息，用来指导粒子的后续搜索。整个解交换机制的详细过程总结如下，主群更新策略：在主从群独立执行各自的算法7代之后，所有从群发送自己的本地最优 $l b e s t _ { i } ( i = 1 , 2 , 3 , 4 )$ 给主群，主群根据(1)在所有从群本地最优 $l b e s t _ { i } ( i = 1 , 2 , 3 , 4 )$ 中最优的那个 $X _ { g b e s t } ^ { s }$ (sbest)(2)主群自己的本地最优 $X _ { g b e s t } ^ { M }$ (3)主群粒子自身个体最优 $X _ { P b e s t _ { i } } ^ { M }$ 对粒子进行更新，这种更新策略是基于主群和从群之间的竞争来调整粒子运行轨迹。速度更新公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { V _ { i , j } ^ { M } ( t + 1 ) = \\omega V _ { i , j } ^ { M } ( t ) + c _ { 1 } r _ { 1 , j } ( X _ { P o s t , j } ^ { M } ( t ) - X _ { i , j } ^ { M } ( t ) ) + } \\\\ & { \\qquad \\varphi c _ { 2 } r _ { 2 , j } ( P _ { g b e x , j } ^ { M } ( t ) - X _ { i , j } ^ { M } ( t ) ) + } \\\\ & { ( 1 - \\varphi ) c _ { 3 } r _ { 3 , j } ( P _ { g b e x , j } ^ { S } ( t ) - X _ { i , j } ^ { M } ( t ) ) } \\\\ & { \\qquad \\varphi = \\left\\{ 0 . G b e s t ^ { M } < G b e s t ^ { S } \\right. } \\\\ & { \\qquad \\left. \\varphi = \\left\\{ \\begin{array} { l l } { 0 . 5 . G b e s t ^ { M } = G b e s t ^ { S } } \\\\ { 1 . G b e s t ^ { M } > G b e s t ^ { S } } \\end{array} \\right. \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\varphi$ 是协作因子，位置更新仍然采用式(2)。从群更新策略：将所有从群全局最优 $p _ { g b e s t } ^ { s }$ 与主群全局最优 $p _ { g b e s t } ^ { M }$ 进行比较，挑选出较优的那个替换在所有从群中随机选择出的一个粒子，这样从群在间接进行了信息共享的同时也不会对算法的效率产生很大影响；所提出的新的解交换机制不仅平衡了算法的勘探和开发，还加快了算法的收敛速度，同时解的质量也得到了很大的提升。表1和表2分别展示了解交换机制以及多群协作相关变量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9456af2d57744621202e5175f9f6715e6aac01cf68eebc6756a4761e7c7501f.jpg",
+        "table_caption": [
+            "Tab.1Solution exchange mechanism ",
+            "表2多群协作相关变量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>具体操作</td></tr><tr><td>1</td><td>所有从群S发送自己的本地最优lbesti(i=1,2,3.4)给主群M</td></tr><tr><td>2</td><td>计算Gbest$=MIN(f(lbest(i=1,2,3,4)))</td></tr><tr><td>3</td><td>将XPbest、P、P按照式(7)(2)对主群更新</td></tr><tr><td>4</td><td>计算Gbest=MIN(pgbest,P'gbest）)</td></tr><tr><td>5</td><td>在每个从群中随机选出一个粒子Xi(i=1,2.3,4)</td></tr><tr><td>6</td><td>令X(i=1,2,3,4)=Gbest</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/677c615760cb0cb0ec19207fb77670b9207de8a4d0c681d5a7b46d4aeb7766eb.jpg",
+        "table_caption": [
+            "表1解交换机制",
+            "Tab.2Multi-group collaboration related variables "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td>变量含义</td></tr><tr><td>MIS</td><td>主/从群</td></tr><tr><td>Pgbest</td><td>主群全局最优</td></tr><tr><td>Pgbet</td><td>主群全局最优</td></tr><tr><td>X poer</td><td>主群粒子i个体最优</td></tr><tr><td>lbesti(i=1,2,3,4)</td><td>从群本地最优</td></tr><tr><td>GbestM</td><td>主群全局最优适应度值</td></tr><tr><td>GbestS</td><td>从群全局最优适应度值</td></tr><tr><td>Gbest</td><td>群体全局最优</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4基于拉丁超立方采样的初始化策略",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "拉丁超立方体抽样最早由 McKay[24]于1979 年提出，和普通抽样方法蒙特卡罗相比，它通过对输入搜索空间进行等间隔划分，并在每个区间中随机地抽取样本，抽样被强制地代表每个区间的值，具有均匀分布的特点，能够保证在拥有较少样本的前提下具备比普通样本更好的高效性，图2展示了在2维搜索空间中拉丁超立方体采样示意图。通过拉丁超立方体采样产生的样本能更好地均匀分布在整个空间，可以有效避免算法出现早熟收敛的现象。具体采样步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Stepl：确定抽样规模 $H$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Step2：将每维变量 $X _ { i }$ 的定义域区间 $[ X _ { i l } , X _ { i h } ]$ 划分成 $H$ 个相等的小区间，这样就一共有 $H ^ { n }$ 个小超立方体产生；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Step3：产生一个 $H \\times n$ 的矩阵 $A$ ， $A$ 的每列均是数列$\\{ 1 , 2 , . . . , n \\}$ 的一个随机全排列；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Step4: $A$ 的每行就只有一个小超立方体被选中，在每个小超立方体内产生一个样本，这样就共有 $H$ 个样本被选出，且选出的样本互不相同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2和图3分别为拉丁超立方体采样在二维空间的示意图以及所提算法的流程示意图。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1fe61b8f1f379bb0d299252371b9ceb2f450bd6b32ab70d794edfed4ec85d9b.jpg",
+        "img_caption": [
+            "图2拉丁超立方体采样(2维)Fig.2Latin hypercube sampling(2d)",
+            "图3CDL-MCPSO 算法流程 Fig.3The algorithm flow of CDL-MCPSO "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "初始化参数ps,n,K,m，基于拉丁超立方体采样产生初始种群  \n计算粒子适应度值，并按照适应度值大小排序划分种群 (一个主群，四个从群)初始化每个粒子的速度V和位置X主群(Master)执行综合学习策略(CLS)从群(Slave)独立执行综合维度学习策略(CDL)是是否达到最大迭代次数  \n否 否 输出全局最是否连续独立运行7代 优位置gbest是结束主从群执行多群协作算法",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 CDL-MCPSO算法合理性分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1CLS中去掉对全局最优项学习操作的合理性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于CDL是基于DLS速度更新公式开发，因此首先需要对DLS速度更新所采用策略存在的问题进行详细分析，再阐述为何要进行CDL改进的原因，具体分析如下：和大多数PSO变体速度更新公式一样，DLS速度更新公式也包含三个部分：惯性部分 $\\omega V _ { i , j } ( t )$ 、个体最优向全局最优学习构造学习样本，向样本学习部分 $c _ { 1 } r _ { 1 , j } ( X _ { i , j } ^ { d l } ( t ) - X _ { i , j } ( t ) )$ 、向全局最优学习部分$c _ { 2 } r _ { 2 , j } ( X _ { j } ^ { g b e s t } ( t ) - X _ { i , j } ( t ) )$ ；本文一般需要在公式后两项分别赋予种群探索和开发能力，DLS更新公式最后一项对全局最优$X _ { j } ^ { g b e s t } ( t )$ 的学习毫无疑问是赋予了种群开发能力，那么在种群已经具备开发能力的前提下，公式第二项个体最优 $X _ { i , j } ^ { p b e s t } ( t )$ 的学习对象仍然选择了会进一步增强种群开发能力的全局最优，即使个体最优向全局最优学习后得到的新位置不是全局最优，但是从其具体的学习过程来看，它是逐维度进行学习，每一次的学习并不一定只学习一个维度，当得到的新位置的适应度值优于个体最优适应度值时学习过程才会停止，这种学习过程即使放在高维问题中，也会在若干代的学习之后使得公式第二项最终得到的学习样本$X _ { i , j } ^ { d l } ( t )$ 变成全局最优，而不是介于个体最优和全局最优之间的一个值，此时对于后续粒子的更新，公式后两项将会完全一样，赋予公式最后一项的开发能力由于后两项的接近甚至完全一致而变成两倍，若此时粒子找到的全局最优是局部最优，并且迭代过程中没有向其他粒子进行学习，毫无疑问种群将面临陷入局部最优并且无法逃逸的风险，需要说明的是，公式第二项的学习样本在变成全局最优时经历的迭代次数和本文设置的最大迭代次数相比，只会占一小部分比例。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对以上分析存在的不足，本文提出了CDL改进策略，具体原因：首先为削弱粒子在之后大部分迭代时期里拥有的两倍开发能力，需要去掉其中一项(对全局最优的学习)，同时需要为种群引入增强探索能力的策略，而针对多模态问题研发的CLS策略，被证明在探索方面效果显著，它能够在含有多个峰值的优化问题中找到最优解，需要说明的是，本文之所以去掉的是对全局最优的学习项，而不是构造的学习样本项，是因为在初始迭代过程中，为了不遗漏任何可能包含最优解的期望区域，本文希望算法在整体上是探索能力大于开发能力，而留下来的学习样本项在初始阶段，学习样本的值还不是全局最优，因此对粒子的牵引力不算很明显，种群中的粒子可以在搜索空间进行最大范围地探索，在后期学习样本变为全局最优之后，完全可以取代去掉的全局最优项来发挥其开发能力，能够使算法在不同迭代时期最大程度地发挥勘探或开发能力，综上所述CDL策略中去掉对全局最优项的学习是合理的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2CDL-MCPSO克服过度开发问题的能力及理论性依据",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CDL-MCPSO具备克服过度开发问题能力的理论性依据主要有三个：1、基于主从范式的多群策略一能够弥补单个种群出现过度开发情形时，没有其他种群信息指导的缺点；2、从群的执行策略一在取消一半开发能力的前提下加入对其他粒子的学习，不易出现过度开发；3、解交换机制(SEM)的加持一即使开发过度陷入局部最优，也可以通过信息的交流协作来帮助实现逃逸。具体说明如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于主从范式的多子群相比单个种群具有更好的多样性能够减小粒子出现过度开发陷入局部最优的可能性，因为可以利用其他种群搜索到的信息来进行指导，其次是在每个子群运行算法的选择上，让主群执行在多模态问题中优化效果显著的综合学习策略(CLS)以赋予主群进行大范围探索的能力，显而易见，主群不易出现过度开发的情形，对于每个从群本文执行优化后的DLS一CDL着重赋予算法开发能力，还加入了对所有其他粒子进行学习的部分，更不会使算法出现过度开发的情形，即使出现了，新提出的解交换机制(SEM)，也可以通过信息的交换来增加种群多样性，而种群多样性的增加换句话也可以说成是对可能出现的过度开发情形的避免或一种改善。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3CDL-MCPSO不同迭代时刻寻优能力的变化以及勘探和开发能力的平衡性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法迭代前期，将种群划分为多个子群并采用拉丁超立方体采样方法对种群进行初始化，保证了种群粒子在搜索空间中是均匀分布的，多样性好，算法具有很好的勘探能力，迭代过程中主群执行策略CLS的学习样本由于是粒子的个体最优通过向所有其他粒子的个体最优进行概率性学习，综合了所有其他粒子到目前为止找到的优异信息，从群的速度更新公式中虽然加入了个体最优向全局最优的学习项，但是在算法在前期迭代过程中，从群学习样本 $X _ { i } ^ { d l }$ 对粒子的指引作用相比 $X _ { i } ^ { c l }$ 以及主群着重于勘探的学习策略在前期迭代过程中发挥不明显，能够保证种群可以在搜索空间进行充分地勘探。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法迭代中期，此时种群中每个粒子找到的个体最优值相比迭代前期已经有了很大的改善，这是由于迭代前期种群优秀的勘探能力所发挥的作用而产生的结果，此时不论是对于主群还是从群学习样本的产生，由于被学习对象的解变优，使得学习样本的值也随之变好，整个种群的更新都在朝最终的最优解慢慢靠近，种群勘探和开发能力并存，优化了解的质量但不会使粒子过快收敛，也保留了部分勘探能力能够继续探索可能的较优解。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法迭代后期，随着种群搜索到的解质量的进一步提高，从群中学习样本 $X _ { i } ^ { d l }$ 的值越来越接近直至等于全局最优，而另外的学习样本 $X _ { i } ^ { c l }$ 即使是向其他粒子的个体最优进行学习所得，但由于迭代过程已经到达整个迭代周期的后期，此时每个粒子找到的个体最优解的质量已经离问题的最终解很近了，此时 $X _ { i } ^ { c l }$ 的值浮动逐渐减小，此时种群不再进行大范围的探索，主要围绕在当前找到的最优解附近进行优化，因为前期良好的勘探能力和中期适应的勘探能力使得粒子对问题空间已经进行了高度地探索，所以在后期粒子靠近全局最优的过程中，是不存在靠近的是局部最优的情形，因此在后期整个种群主要发挥的是开发能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上，改进粒子群算法的寻优能力能够根据算法不同迭代时刻的不同需求分别发挥勘探或开发能力或同时发挥勘探和开发能力，实现了两者之间的有效平衡。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4CDL-MCPSO算法的收敛性分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Solis等人[25]的研究结果证明了随机优化算法以概率1收敛于全局最优解的条件，主要有以下结论：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "假设1若 $f ( D ( x , \\zeta ) ) \\leq f ( x )$ ，并且如果 $\\zeta \\in S$ ，则有：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( D ( x , \\zeta ) ) { \\leq } f ( \\zeta )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $f$ 为目标函数， $D$ 为产生问题解的函数， $x$ 为 $s$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中搜索到的一个点， $\\zeta$ 为从概率空间 $( R ^ { n } , B , \\mu _ { k } )$ 产生的随机向量， $s$ 为问题的约束空间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "假设2 $s$ 的任意 Borel子集 $A$ ，若其测度 $\\nu ( A ) > 0$ ，则有：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\prod _ { t = 0 } ^ { \\infty } ( 1 - \\mu _ { t } ( A ) ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\nu ( A ) > 0$ 为子集 $A$ 的 $n$ 维闭包， $\\mu _ { t } ( A )$ 为由测度 $\\mu _ { \\tau }$ 产生 $A$ 的概率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定理1假设目标函数 $f$ 为可测函数，问题的约束空间$s$ 为可测子集， $\\left\\{ x _ { t } \\right\\} _ { 0 } ^ { \\infty }$ 为随机算法产生的解序列，则当满足假设1和假设2时，有：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m } _ { t  \\infty } P [ x _ { t } \\in R _ { s } ] = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $R _ { \\varepsilon }$ 为全局最优点的集合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，对任一随机优化算法，只要能够满足假设1与假设2，就可以保证它能以概率1收敛于全局最优解。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定理2 CDL-MCPSO 算法能够以概率1收敛于全局最优解",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "证明 CDL-MCPSO 算法满足假设1。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设CDL-MCPSO算法的迭代函数 $\\mathrm { ~ D ~ }$ 可以表示为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD ( p _ { g , t } , x _ { i , t } ) = \\left\\{ \\begin{array} { l l } { p _ { g , t } , f ( p _ { g , t } ) \\leq f ( x _ { i , t } ) } \\\\ { x _ { i , t } , f ( x _ { i , t } ) \\leq f ( p _ { g , t } ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "容易证明CDL-MCPSO满足假设1。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "证明 CDL-MCPSO 算法满足假设2。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设规模为 $\\mathrm { ~  ~ N ~ }$ 的粒子群的样本空间的并必须包含 $s$ ，即$S { \\subset } \\bigcup _ { i = 1 } ^ { N } M _ { i , t }$ 。其中， $\\boldsymbol { M } _ { i , t }$ 为第t代粒子i的样本空间的支撑集。对于满足 $x _ { i _ { 0 } , t } = p _ { t } = p _ { g }$ 的粒子 $i _ { 0 }$ ， ${ M } _ { i _ { 0 } , t } = S$ ，其他粒子 $i$ 则满足：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对标准PSO 算法，设 $\\varphi _ { \\mathrm { i } } = c _ { \\mathrm { i } } r _ { \\mathrm { i } }$ ， $\\varphi _ { 2 } = c _ { 2 } r _ { 2 }$ ，将速度更新公式代入位置更新公式后，代入 $\\boldsymbol { M } _ { i , t }$ 可得：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { M _ { i , t } = x _ { i , j , t - 1 } + \\omega ( x _ { i , j , t - 1 } - x _ { i , j , t - 2 } ) + } } \\\\ { { \\varphi _ { 1 } ( p _ { i , j , t - 1 } - x _ { i , j , t - 1 } ) + \\varphi _ { 2 } ( p _ { g , j , t - 1 } - x _ { i , j , t - 1 } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中, $0 \\leq \\varphi _ { 1 } \\leq c _ { 1 }$ ， $0 \\leq \\varphi _ { 2 } \\leq c _ { 2 }$ 。显然， $\\boldsymbol { M } _ { i , t }$ 表示一个由 $\\varphi _ { 1 } , \\varphi _ { 2 }$ 所确定的超矩形，其中一个端点为 $\\varphi _ { 1 } = \\varphi _ { 2 } = 0$ ，另一个为 $\\varphi _ { \\mathrm { i } } = c _ { \\mathrm { i } }$ ， $\\varphi _ { 2 } = c _ { 2 }$ 口",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当 $\\operatorname* { m a x } ( c _ { 1 } \\left| p _ { i , j , t - 1 } - x _ { i , j , t - 1 } \\right| , c _ { 2 } \\left| p _ { g , j , t - 1 } - x _ { i , j , t - 1 } \\right| ) < 0 . 5 \\times d i a m _ { j } ( S )$ 成立时，显然有 $\\nu ( M _ { i , t } \\bigcap S ) < \\nu ( S )$ 。其中， $d i a m _ { j } ( S )$ 表示 $s$ 在第 $j$ 维分量的长度。由于 $x _ { i }  ( c _ { 1 } p _ { i } + c _ { 2 } p _ { g } ) / ( c _ { 1 } + c _ { 2 } )$ ,因而 $\\operatorname* { l i m } _ { t  \\infty } M _ { i , t } = 0$ ,从而，随迭代次数 $\\textit { t }$ 的增加， $\\nu ( M _ { i , t } )$ 不断减少，其并 $\\nu ( \\bigcup _ { i = 1 } ^ { N } M _ { i , \\prime } )$ 也在减少。从而$\\nu { \\bigl ( } { \\overset { \\kappa } { \\bigcup _ { i = 1 } ^ { N } } } M _ { i , i } { \\bigcap _ { i = 1 } ^ { S } } s ) < \\nu ( S )$ ，表示存在整数 $t ^ { ' }$ ，使得当 $t > t ^ { ' }$ ，存在集合 $A \\subseteq S$ ，使得 $\\sum _ { i = 1 } ^ { N } \\mu _ { i , i } \\left( A \\right) = 0$ ，这表明标准 PSO 算法不满足假设 2，不能以概率1收敛于全局最优解。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "而CDL-MCPSO算法是在标准PSO算法的基础上，运用多子群、不同学习策略以及种群之间的协作交换机制，产生新的粒子。因此，对正常进化的粒子，设其支撑集的并集为$\\alpha$ ；利用以上改进策略产生的粒子，设其支撑集的并集为 $\\beta$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于改进策略的指导性，必然存在整数 $t _ { 1 }$ ，使得当 $t > t _ { 1 }$ 时， $\\beta \\supseteq S$ 。因此对于CDL-MCPSO算法，存在整数 $t _ { 2 }$ ，使得当 $t > t _ { 2 }$ 时， $\\alpha \\cup \\beta \\supseteq S$ □",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定义 $s$ 的任意 Borel子集 $A = M _ { i , t }$ ，则有 $\\nu ( A ) > 0$ ， $\\mu _ { r } ( A ) = \\sum _ { i = 1 } ^ { N } \\mu _ { i , i } ( A ) = 1$ ，即 $\\prod _ { i = 0 } ^ { \\infty } ( 1 - \\mu _ { i } ( A ) ) = 0$ ，所以CDL-MCPSO 算法满足假设2。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结论1 CDL-MCPSO 算法是全局收敛算法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "证明设 $\\left\\{ p _ { g , t } \\right\\} _ { t = 0 } ^ { \\infty }$ 为 CDL-MCPSO 算法生成的解序列，由于CDL-MCPSO算法满足假设1和假设2，通过定理可知：$\\operatorname* { l i m } _ { t  + \\infty } P [ p _ { s , t } \\in R _ { s } ] = 1$ 成立，故 CDL-MCPSO 算法能够以概率1收敛于全局最优解。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法的收敛速度和解的精度在实验部分进行了详细分析，见后文。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5算法的时间复杂度分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "传统PSO算法主要包括以下几个部分：初始化、适应度值的评估以及速度和位置更新，他们的复杂度分别为",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0 $( 2 \\times \\mathsf { N } \\times \\mathsf { D } )$ 、 ${ \\cal O } ( { \\sf N } { \\times } { \\sf D } )$ 和0 $( 2 \\times \\mathsf { N } \\times \\mathsf { D } )$ (N和D分别表示种群规模和维度。因此，PSO 的时间复杂度为 ${ \\cal O } ( { \\sf N } { \\times } { \\sf D } )$ 。与传统PSO相比，CDL-MCPSO算法需要构建学习样本、主从群信息交流时评估所有从群本地最优。由于主从群只有在连续迭代次数达到刷新间隙时才进行信息交流，并且评估的本地最优分别来自四个从群，每次交流只评估四组数据，因此多群协作过程的时间复杂度为O(3)，并且只有当粒子的个人最佳位置更新或个人最佳位置在几代内没有更新时，才需要重建学习样本。构建学习样本的最坏情况时间复杂度是 ${ \\cal O } ( { \\sf N } { \\times } { \\sf D } )$ ，判断迭代是否达到刷新间隙以及是否停止的时间复杂度为 O(2)，因此，CDL-MCPSO 的最坏情况时间复杂度也是 ${ \\mathrm { O } } ( { \\mathrm { N } } { \\times } { \\mathrm { D } } )$ ，包括初始化 ${ \\mathrm { O } } ( 2 { \\times } { \\mathrm { N } } { \\times } { \\mathrm { D } } ) ,$ ，评估 ${ \\mathrm { O } } ( { \\mathrm { N } } { \\times } { \\mathrm { D } } { + } 5 )$ ，更新 $\\mathrm { O } ( 2 { \\times } \\mathrm { N } { \\times } \\mathrm { D } { + } \\mathrm { N } { \\times } \\mathrm { D } )$ 。根据以上分析，可以得知CDL-MCPSO算法的时间复杂度与基本PSO 算法处于同一水平。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 实验验证与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1典型迭代时刻的个体分布图及种群多样性的分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "给出了种群分别在50、500和900代时的个体分布图，如图4\\~6所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a01f83e0fbdacead23509b962e8df7f23504d58b162b9ec86a41c1a12feb7010.jpg",
+        "img_caption": [
+            "图4种群在50代时的个体分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bba475c4164926a624998ee483cb69116a9123617a97ab98cd9a65b38745ea11.jpg",
+        "img_caption": [
+            "Fig.4Individual distribution of the population at the 5Oth generation ",
+            "图5种群在500代时的个体分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/76dbdf56091631421b084c7069eeb6a610d8347168ed332c37d01b1c83a96a94.jpg",
+        "img_caption": [
+            "Fig.5Individual distribution of the population at the 5Ooth generation ",
+            "图6种群在900代时的个体分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Individual distribution of the population at the 9ooth generation图4代表种群在迭代前期的大致分布，主从群独立执行CLS和DLS，CLS学习对象为所有其他粒子的个体最优，DLS公式第二项学习对象虽为全局最优，但得到的样本距离成为全局最优还要些许迭代时间，种群多样性良好，粒子基本均匀散落在搜索空间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图5代表种群在迭代中期的大致分布，从群迭代DLS公式第二项得到的样本已经接近全局最优，但主群中其他粒子个体最优的差异仍然保持学习后的样本具备较好的多样性，DLS的一部分开发能力被中和，加上种群每隔一定迭代次数就会进行解信息的交换，粒子只是慢慢开始出现收敛的趋势，但仍具备较好的种群多样性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图6代表种群在迭代后期的大致分布，从群迭代DLS公式第二项的学习样本等于全局最优，后两项均发挥开发作用，种群多样性减弱，大部分粒子聚集在全局最优解附近，但CLS的存在，仍然会使个别粒子散落在距离全局最优解不太远的位置。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2测试函数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为验证CDL-MCPSO性能，采用Benchmark测试函数集中的10个函数进行求解验证，其中包括两个单峰函数 $f _ { 1 } - f _ { 2 }$ 、五个多峰函数 $f _ { 3 } - f _ { 7 }$ 、三个组合函数 $f _ { 8 } - f _ { 1 0 }$ ，测试函数的具体信息如表3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/885ea60b89748e2083e06fa7e38a8230c686ff9b659cc18e73e4380e145970c5.jpg",
+        "table_caption": [
+            "Tab.3The 1O test functions used in the experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>No.</td><td>Functions</td><td>F=F(x)</td></tr><tr><td>Unimodal</td><td>fi</td><td>Rotated High Conditioned Elliptic Function</td><td>-1300</td></tr><tr><td rowspan=\"3\">Functions</td><td>f</td><td>Rotated Discus Function</td><td>-1100</td></tr><tr><td>f</td><td>Rotated Weierstrass Function</td><td>-600</td></tr><tr><td>f4</td><td>Rotated GriewanksFunction</td><td>-500</td></tr><tr><td>Basic Multimodal</td><td>f</td><td>Rotated Katsuura Function</td><td>200</td></tr><tr><td rowspan=\"3\">Functions</td><td>f</td><td>Lunacek Bi_Rastrigin Function</td><td>300</td></tr><tr><td>f</td><td>RotatedLunacek Bi_Rastrigin Function</td><td>400</td></tr><tr><td>f</td><td>Composition Function 2 (n=3,Unrotated)</td><td>800</td></tr><tr><td rowspan=\"2\">Composition Functions</td><td>f</td><td>Composition Function 3</td><td>900</td></tr><tr><td>f10</td><td>(n=3,Rotated) Composition Function 4 (n=3,Rotated)</td><td>1000</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3对比算法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了验证CDL-MCPSO算法在求解复杂问题时的性能，将其与统一粒子群算法(unified particle swarmoptimization,UPSO)[13]、完全知情粒子群算法(fully informed particle swarmFIPS)[1]维度学习粒子群算法(particle swarm optimizationbased on dimensional learning strategy，DLPSO)[21]、并行综合学习粒子群优化算法(parallel comprehensive learningparticleswarm optimization，PCLPSO)[l7]及标准粒子群算法（Amodified particle swarmoptimizer，PSO-W)[2]五种改进粒子群算法进行对比实验。为了保证测试的公平性，算法的参数设置均相同：种群规模为40，迭代次数为1000，所有算法分别在 ${ \\bf D } { = } 1 0$ 、30、50三个维度下在每个测试函数上独立运行30次。实验环境设置如下：AMDRyzen 5350Hwith Radeon VegaMobileGfx $2 . 1 0 ~ \\mathrm { G H z }$ ，RAM16GB，Windows10操作系统，Matlab $\\mathrm { \\sf R 2 0 1 6 6 }$ 。CDL-MCPSO算法及对比算法的参数设置如表4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ec3c9f4c49ce2d947d5ffab564b70547c64de0c91a07e128d03448b563fbdbf.jpg",
+        "table_caption": [
+            "表3实验使用的10个测试函数",
+            "表4CDL-MCPSO 算法及对比算法的参数设置",
+            "Tab.4CDL-MCPSO algorithm and comparison algorithm parameter setting "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>参数设置</td><td>参考文献</td></tr><tr><td>PSO-W</td><td>ω=0.9~0.4,c1=c2=2</td><td>[2]</td></tr><tr><td>UPSO</td><td>x:0.729,c=1.49445</td><td>[13]</td></tr><tr><td>FIPS</td><td>x:0.729,c=2</td><td>[11]</td></tr><tr><td>DLPSO</td><td>ω=0.9~0.4,c1=1.5,c2=0.5~2.5</td><td>[21]</td></tr><tr><td>PCLPSO</td><td>ω=0.9~0.4,c=1.49445</td><td>[17]</td></tr><tr><td>CDL-MCPSO</td><td>ω=0.9~0.4,c1=c2=2.05,c3=2.0,c=1.49445</td><td>一</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.4算法性能分析 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5\\~6表示在 $\\scriptstyle \\mathrm { D = } 3 0 , 5 0$ 两种维度情况下，每种算法在测试函数上的平均值和标准偏差。六种算法的最佳结果均以粗体显示出来。从表格数据可以看出CDL-MCPSO算法除了在测试函数 $f _ { 2 }$ 上的性能略显不足以外，能够在其他绝大多数不管是单峰函数、多模态函数还是组合函数上均能找到更好的或相当的优化结果，只在个别函数上稳定性稍显不足，产生以上实验结果的主要原因是主从群采用的综合学习策略(CLS)和综合维度学习策略(CDL)在算法迭代前期发挥了优秀的勘探能力，探索了可能存在较优解的所有区域，为最终解质量的提高奠定了基础。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1008f4fdc7196ea227f36154d77b550859e0123ba187526f528442edaac0e60b.jpg",
+        "table_caption": [
+            "Tab.5The optimization results of the comparison algorithm on the test function $\\mathrm { ( D } { = } 3 0 \\$ 0 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>函数</td><td>Criterion</td><td>PSO-W</td><td>UPSO</td><td>FIPS</td><td>DLPSO</td><td>PCLPSO</td><td>CDL-MCPSO</td></tr><tr><td rowspan=\"2\">f</td><td>Mean</td><td>1.07E+08</td><td>1.70E+07</td><td>1.67E+08</td><td>5.36E+07</td><td>3.26E+08</td><td>1.60E+07</td></tr><tr><td>Std</td><td>8.06E+07</td><td>1.38E+07</td><td>1.86E+07</td><td>6.23E+07</td><td>8.16E+07</td><td>4.55E+06</td></tr><tr><td>f</td><td>Mean</td><td>1.04E+05</td><td>5.45E+04</td><td>8.45E+04</td><td>6.27E+04</td><td>3.95E+04</td><td>4.79E+04</td></tr><tr><td rowspan=\"2\"></td><td>Std</td><td>3.01E+04</td><td>1.67E+04</td><td>2.22E+04</td><td>2.04E+04</td><td>2.26E+04</td><td>4.10E+04</td></tr><tr><td>Mean</td><td>2.52E+02</td><td>2.47E+02</td><td>3.93E+01</td><td>3.12E+01</td><td>3.06E+01</td><td>2.39E+01</td></tr><tr><td rowspan=\"2\">f</td><td>Std</td><td>1.51E+00</td><td>3.25E+02</td><td>3.78E+00</td><td>1.74E+00</td><td>3.35E+00</td><td>3.22E+01</td></tr><tr><td>Mean</td><td>2.42E+03</td><td>4.08E+03</td><td>5.78E+03</td><td>4.74E+03</td><td>4.24E+03</td><td>3.76E+03</td></tr><tr><td rowspan=\"2\">f4</td><td>Std</td><td>3.42E+03</td><td>2.24E+03</td><td>7.14E+02</td><td>3.05E+02</td><td>6.18E+02</td><td>7.50E+02</td></tr><tr><td>Mean</td><td>2.28E+02</td><td>2.28E+02</td><td>3.09E+00</td><td>2.47E+00</td><td>2.32E+00</td><td>1.33E+00</td></tr><tr><td rowspan=\"2\">f</td><td>Std</td><td>3.38E+02</td><td>3.39E+02</td><td>3.01E-01</td><td>4.64E-01</td><td>5.96E-01</td><td>4.39E-01</td></tr><tr><td>Mean</td><td>6.92E+02</td><td>3.32E+02</td><td>2.35E+02</td><td>2.92E+02</td><td>1.93E+02</td><td>9.32E+01</td></tr><tr><td rowspan=\"2\">f</td><td>Std</td><td>1.26E+02</td><td>2.68E+02</td><td>2.74E+01</td><td>6.07E+01</td><td>7.38E+01</td><td>1.12E+01</td></tr><tr><td>Mean</td><td>6.84E+02</td><td>3.83E+02</td><td>2.46E+02</td><td>2.61E+02</td><td>2.39E+02</td><td>1.34E+02</td></tr><tr><td rowspan=\"2\">f</td><td>Std</td><td>1.19E+02</td><td>2.34E+02</td><td>1.91E+01</td><td>5.46E+01</td><td>1.05E+02</td><td>1.46E+01</td></tr><tr><td>Mean</td><td>5.51E+03</td><td>3.25E+03</td><td>6.74E+03</td><td>5.89E+03</td><td>3.58E+03</td><td>4.29E+02</td></tr><tr><td rowspan=\"2\">f</td><td>Std</td><td>3.49E+03</td><td>1.89E+03</td><td>2.19E+02</td><td>1.56E+03</td><td>8.48E+02</td><td>3.85E+02</td></tr><tr><td>Mean</td><td>8.48E+03</td><td>7.77E+03</td><td>8.97E+03</td><td>7.95E+03</td><td>6.61E+03</td><td></td></tr><tr><td rowspan=\"2\">f</td><td>Std</td><td>3.47E+03</td><td>2.57E+03</td><td>2.52E+02</td><td>8.83E+02</td><td>8.85E+02</td><td>5.30E+03</td></tr><tr><td>Mean</td><td>4.31E+02</td><td>4.21E+02</td><td>3.03E+02</td><td></td><td></td><td>2.66E+02</td></tr><tr><td rowspan=\"2\">f10</td><td></td><td></td><td></td><td></td><td>2.88E+02</td><td>2.94E+02</td><td>2.15E+02</td></tr><tr><td>Std</td><td>3.68E+00</td><td>2.10E+02</td><td>2.04E+02</td><td>1.08E+01</td><td>7.63E+00</td><td>5.01E+00</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb681652289bdf0764e121215e6978a0ffcdde7ab214381aa7a5cf6c6567914e.jpg",
+        "table_caption": [
+            "表5对比算法在测试函数上的优化结果 $\\mathrm { ( D } { = } 3 0 \\mathrm { ) }$ 0",
+            "表6对比算法在测试函数上的优化结果 $\\scriptstyle ( \\mathrm { D } = 5 0 )$ 0",
+            "Tab.6The optimization results of the comparison algorithm on the test function $\\mathrm { D } { = } 5 0 \\}$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>函数</td><td>Criterion</td><td>PSO-W</td><td>UPSO</td><td>FIPS</td><td>DLPSO</td><td>PCLPSO</td><td>CDL-MCPSO</td></tr><tr><td rowspan=\"2\">f</td><td>Mean</td><td>6.63E+08</td><td>4.03E+08</td><td>3.64E+08</td><td>2.12E+08</td><td>2.27E+08</td><td>2.60E+07</td></tr><tr><td>Std</td><td>2.68E+08</td><td>3.10E+07</td><td>5.13E+07</td><td>3.74E+07</td><td>1.64E+08</td><td>1.05E+07</td></tr><tr><td>f</td><td>Mean</td><td>9.46E+04</td><td>1.63E+05</td><td>1.72E+05</td><td>9.73E+04</td><td>8.79E+04</td><td>9.93E+04</td></tr><tr><td rowspan=\"2\"></td><td>Std</td><td>7.02E+04</td><td>6.54E+04</td><td>2.03E+04</td><td>2.62E+04</td><td>2.12E+04</td><td>3.42E+04</td></tr><tr><td>Mean</td><td>2.75E+02</td><td>2.67E+02</td><td>7.43E+01</td><td>5.76E+01</td><td>6.11E+01</td><td>4.90E+01</td></tr><tr><td rowspan=\"2\">f</td><td>Std</td><td>2.27E+00</td><td>3.12E+02</td><td>3.44E+00</td><td>3.60E+00</td><td>5.09E+00</td><td>2.06E+00</td></tr><tr><td>Mean</td><td>1.88E+04</td><td>2.17E+04</td><td>1.92E+04</td><td>1.71E+04</td><td>1.90E+04</td><td>1.52E+04</td></tr><tr><td rowspan=\"2\">f4</td><td>Std</td><td>6.77E+03</td><td>4.36E+02</td><td>1.59E+03</td><td>1.10E+03</td><td>1.67E+03</td><td>4.94E+03</td></tr><tr><td>Mean</td><td>2.28E+02</td><td>2.28E+02</td><td>4.15E+00</td><td>3.71E+00</td><td>3.65E+00</td><td>2.21E+00</td></tr><tr><td rowspan=\"2\">f5</td><td>Std</td><td>3.37E-01</td><td>3.38E+02</td><td>3.38E+02</td><td>5.89E-01</td><td>4.75E-01</td><td>1.06E+00</td></tr><tr><td>Mean</td><td>1.61E+03</td><td>4.54E+02</td><td>5.32E+02</td><td>6.87E+02</td><td>6.81E+02</td><td>2.32E+02</td></tr><tr><td rowspan=\"2\">f</td><td>Std</td><td>7.17E+02</td><td>1.92E+02</td><td>4.35E+01</td><td>1.05E+02</td><td>2.98E+02</td><td>2.35E+01</td></tr><tr><td>Mean</td><td>1.62E+03</td><td>5.47E+02</td><td>5.30E+02</td><td>7.20E+02</td><td>6.64E+02</td><td>3.76E+02</td></tr><tr><td rowspan=\"2\">f</td><td>Std</td><td>7.21E+02</td><td>1.39E+02</td><td>2.69E+01</td><td>1.11E+02</td><td>2.35E+02</td><td>9.88E+01</td></tr><tr><td>Mean</td><td>1.00E+04</td><td>6.80E+03</td><td>1.34E+04</td><td>1.17E+04</td><td>9.00E+03</td><td>5.70E+03</td></tr><tr><td rowspan=\"2\">fs</td><td>Std</td><td>4.94E+02</td><td>4.47E+03</td><td>2.08E+03</td><td>1.74E+03</td><td>1.32E+03</td><td>4.75E+02</td></tr><tr><td>Mean</td><td>7.68E+03</td><td>1.87E+03</td><td>1.51E+03</td><td>3.23E+03</td><td>2.97E+03</td><td></td></tr><tr><td rowspan=\"2\">f</td><td>Std</td><td>1.93E+03</td><td>1.43E+03</td><td>1.32E+03</td><td>1.75E+03</td><td>5.26E+03</td><td>1.40E+03</td></tr><tr><td>Mean</td><td>4.90E+02</td><td>4.74E+02</td><td>3.92E+02</td><td>3.72E+02</td><td></td><td>1.36E+03</td></tr><tr><td rowspan=\"2\">f10</td><td></td><td></td><td></td><td></td><td></td><td>3.77E+02</td><td>3.39E+02</td></tr><tr><td>Std</td><td>2.79E+00</td><td>1.77E+02</td><td>1.36E+01</td><td>1.31E+01</td><td>1.57E+01</td><td>1.68E+02</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图7\\~12分别展示了CDL-MCPSO 算法在 $f _ { 1 }$ (单峰)、 $f _ { 4 }$ (多模态)和 $f _ { 9 }$ (组合)三个函数上30、50维下的收敛曲线图，针对函数 $f _ { 1 }$ 的收敛曲线图，从图7可以观察到改进算法明显优于PSO-W、UPSO、FIPS，与PCLPSO相比，改进算法找到了全局最优解，而PCLPSO不仅没有找到全局最优解，而且从50代左右就开始收敛，收敛速度过于快，图10和图7的情况大致类似。针对函数 $f _ { 4 }$ 的收敛曲线图，尤其是图11，CDL-MCPSO性能明显优于其他对比算法，从 $f _ { 9 }$ 的收敛曲线图可以直观地看出CDL-",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MCPSO不仅在找到的解上明显优于其他对比算法，而且收敛速度也快于其他算法，在迭代后期没有出现“振荡”现象，解决了“维度退化”问题，虽然CDL-MCPSO算法也存在不足，算法稳定性在个别测试函数上相比其他算法略显不足，但总的来说，CDL-MCPSO算法与其他算法相比，在优化结果上都大有提升。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec419d202d2deeb863598cf6643cfa54f04acefcab802188ce9c0134ad5a1d46.jpg",
+        "img_caption": [
+            "图7函数 $f _ { 1 }$ 的收敛曲线 $\\mathrm { ( D } { = } 3 0$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3291ca3571e44423caa2a416def4b0c68bac72b62679b0a7c7e27f68d48d31b4.jpg",
+        "img_caption": [
+            "Fig.7Convergence curve of $f _ { 1 } \\left( \\mathrm { D } { = } 3 0 \\right)$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9e23a72c3f238738681fd25a7300e65120eba5f8584116fcc10361e0b8c1190.jpg",
+        "img_caption": [
+            "图8函数 $f _ { 4 }$ 的收敛曲线 $\\mathrm { ( D } { = } 3 0 \\mathrm { ) }$ 0",
+            "图9函数 $f _ { 9 }$ 的收敛曲线 $\\mathrm { ( D } { = } 3 0$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b85799a893ec80523566baa3c80f89ae12f79c2b6ef12a1387120790fd363c2.jpg",
+        "img_caption": [
+            "Fig.8Convergence curve of $f _ { 4 }$ $\\scriptstyle ( \\mathrm { D } = 3 0$ ）",
+            "Fig.9Convergence curve of $f _ { 9 }$ （204 $\\mathrm { ( D } { = } 3 0$ ）",
+            "图10函数 $f _ { 1 }$ 的收敛曲线 $\\scriptstyle ( \\mathrm { D } = 5 0 )$ 0"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c72904478111a2fe21dda8067d7ea7212229faa0aae72d4eb9ee7d228174f9f9.jpg",
+        "img_caption": [
+            "Fig.10Convergence curve of $f _ { 1 }$ $\\mathrm { ( D = } 5 0 \\mathrm { ) }$ 1 ",
+            "图11函数 $f _ { 4 }$ 的收敛曲线 $\\scriptstyle ( \\mathrm { D } = 5 0 )$ ）Fig.1lConvergence curve of $f _ { 4 }$ $\\mathrm { D } { = } 5 0 _ { , }$ ",
+            "Fig.12 Convergence curve of $f _ { 9 }$ （204 $\\scriptstyle ( \\mathrm { D } = 5 0 )$ 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bc5958940e5e5d47b85eda9dfe444179337868c0ca7d6c8234eb410c953d0d3.jpg",
+        "img_caption": [
+            "图12函数 $f _ { 9 }$ 的收敛曲线 $\\scriptstyle ( \\mathrm { D } = 5 0$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了进一步验证CDL-MCPSO算法的性能，借鉴数据统计与分析方法，采用显著性水平为0.05的Wilcoxon秩检验方法来判断算法性能。其中“ $+$ ”“_” $\\begin{array} { r } { \\mathbf { \\epsilon } ^ { \\star } \\approx } \\end{array}$ ”分别表示CDL-MCPSO算法的结果优于、劣于、相当于对应算法的测试结果。从表7的Wilcoxon 测试结果来看，在 $\\alpha { = } 0 . 0 5$ 时CDL-MCPSO算法在测试函数上相较于对比算法均有一定优势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表7通过Wilcoxon的测试得到结果",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/6c826d38bd58e768cbb1558cdc1f783aa54a7007da491e038749a0bf6fbf8480.jpg",
+        "table_caption": [
+            "Tab.7Results obtained through Wilcoxon's test "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>D</td><td>CDL-MCPSOVS</td><td>P-value</td><td>+</td><td>~</td><td></td><td>α=0.05</td></tr><tr><td rowspan=\"6\">30</td><td>PSO-W</td><td>0.000851</td><td>37</td><td>1</td><td>0</td><td>Yes</td></tr><tr><td>UPSO</td><td>0.000112</td><td>36</td><td>1</td><td>0</td><td>Yes</td></tr><tr><td>FIPS</td><td>0.000401</td><td>36</td><td>1</td><td>0</td><td>Yes</td></tr><tr><td>DLPSO</td><td>0.000102</td><td>35</td><td>2</td><td>0</td><td>Yes</td></tr><tr><td>PCLPSO</td><td>0.000099</td><td>36</td><td>1</td><td>0</td><td>Yes</td></tr><tr><td>PSO-W</td><td>0.000134</td><td>36</td><td>1</td><td>0</td><td>Yes</td></tr><tr><td rowspan=\"4\">50</td><td>UPSO</td><td>0.000026</td><td>35</td><td>1</td><td>0</td><td>Yes</td></tr><tr><td>FIPS</td><td>0.000147</td><td>37</td><td>1</td><td>0</td><td>Yes</td></tr><tr><td>DLPSO</td><td>0.000082</td><td>36</td><td>2</td><td>0</td><td>Yes</td></tr><tr><td>PCLPSO</td><td>0.000096</td><td>36</td><td>1</td><td>0</td><td>Yes</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据以上对比分析，CDL-MCPSO可以保持更好的多样性开发原始空间来获得高质量的解，并且具备最佳的达到最优的能力使算法快速收敛。因此，CDL-MCPSO是一种能够有效提升PSO性能的可行方法。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为提高算法运行效率、平衡算法的勘探和开发能力，本文基于主从范式集群结构提出了综合维度学习的多群协作粒子群优化算法(CDL-MCPSO)，主从群独立执行具有不同职能的学习策略，其中从群学习策略是针对DLS存在的“过度开发”问题而开发，同时为提升解的质量，还提出了一种新的解交换机制，用于群体之间的信息共享，实验结果证明CDL-MCPSO算法不仅能够在绝大多数单峰、多峰和组合函数上找到更好的或相同的优化结果，而且在收敛速度和解的质量上均有明显优势，不仅解决了“振荡”和“维度退化\"问题，还有效避免了“过度开发”。下一阶段工作主要是提高算法在部分测试函数上的稳定性并将其应用于实际复杂问题中进行有效性的验证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Eberhart R,Kennedy J.A new optimizer using particle swarm theory [C]//Proc of the 6th International Symposium on Micro Machine and Human Science.Japan: IEEE,1995:39-43.   \n[2]Shi Y,Eberhart R.A modified particle swarm optimizer [C]// IEEE International Conference on Evolutionary Computation Proceedings. Piscataway NJ:IEEE,1998:69-73.   \n[3]El Afia A, Sarhani M,Aoun O.Hidden markov model control of inertia weight adaptationfor particle swarm optimization [J].IFACPapersOnLine,2017,50(1):9997-10002.   \n[4]Gou Jin,Lei Yuxiang,Guo Wangping,et al.A novel improved particle swarm optimization algorithm based on individual difference evolution [J].Applied Soft Computing,2017,57: 468-481.   \n[5]Nasir M,Das S,Maity D,et al.A dynamic neighborhood learning based particle swarm optimizer for global numerical optimization [J]. Information Sciences,2012,209:16-36.   \n[6]焦重阳，周清雷，张文宁．混合拓扑结构的粒子群算法及其在测试 数据生成中的应用研究[J]．计算机科学，2017,44(12):255-260. (Jiao Chongyang， Zhou Qinglei， Zhang Wenning. Particle swarm optimization with mixed topology and its application in test data generation [J].Computer Science,2017,44 (12):255-260.)   \n[7]Gong Yuejiao,Li Jingjing, Zhou Yicong,et al. Genetic learning particle swarm optimization [J].IEEE Trans on Cybernetics,2015,46(10): 2277- 2290.   \n[8]Aydilek IB.A hybrid firefly and particle swarm optimization algorithm for computationally expensive numerical problems [J].Applied Soft Computing,2018,66: 232-249.   \n[9]Senel FA,Gokce F,Yüksel A S,et al.A novel hybrid PSO-GWO algorithm for optimization problems [J].Engineering with Computers, 2019,35 (4): 1359-1373.   \n[10]陈跃刚，许奕．基于综合学习策略的多目标分解粒子群算法[J].微 电子学与计算机,2018,35(10):75-79.(Chen Yuegang,Xu Yi.Multiobjectivedecompositionparticleswarmalgorithmbasedon comprehensive learning strategy [J].Microelectronics and Computer, 2018,35 (10): 75-79.)   \n[11] Mendes R,Kennedy J,Neves J.The fully informed particle swarm: simpler maybe better [J].IEEE Trans on Evolutionary Computation, 2004,8 (3): 204-210.   \n[12]田梦丹，梁晓磊，符修文，等．具有博弈概率选择的多子群粒子群算 法[J].计算机科学，2021,48(10):67-76.(Tian Mingdan,Liang Xiaolei,Fu Xiuwen,et al. Multi-subgroup particle swarm optimization algorithm with game probability selection [J]. Computer Science,2021, 48 (10): 67-76.)   \n[13]Parsopoulos K E,Vrahatis M N.UPSO:A unified particle swarm optimization scheme [C]// International Conference of Computational Methods in Sciences and Engineering. Greece Florida: CRC Press,2019: 868-873.   \n[14] 袁小平，蒋硕．基于分层自主学习的改进粒子群优化算法[J].计算 机应用,2019,39 (01):148-153.(Yuan Xiaoping,Jiang Shuo.Improved narticlesv ntimizatinnalonrithmhasednnhierarchicalantnnnmni learning [J]. Computer Applications,20l9,39 (01): 148-153.)   \n[15] Li Dongyang,Guo Weian,Lerch A,et al.An adaptive particle swarm optimizer with decoupled exploration and exploitation for large scale optimization [J].Swarm and Evolutionary Computation，2021,60: 100789.   \n[16] Zhou Shangbo,Sha Long,Zhu Shufang,et al. Adaptive hierarchical update particle swarm optimization algorithm with a multi-choice comprehensive learning strategy [J].Applied Intelligence,2022,52 (2): 1853-1877.   \n[17] Gulcu S,Kodaz H.A novel parallel multi-swarm algorithm based on comprehensive learning particle swarm optimization [J]. Engineering Applications of Artificial Intelligence,2015,45: 33-45.   \n[18]廖玮霖，程杉，尚冬冬，等．多策略融合的粒子群优化算法[J]．计 算机工程与应用，2021,57(01):69-76.(Liao Weilin,Cheng Shan, ShangDongdong，et al.Multi-strategy fusion particle swarm optimization algorithm [J]. Computer Engineering and Applications, 2021,57 (01): 69-76.)   \n[19]纪伟，李英梅，季伟东，等．粒子置换的双种群综合学习 PSO 算法 [J]．计算机科学与探索,2021,15(04):766-776.(JiWei,LiYingmei,Ji Weidong，et al.PSO algorithm of dual-population comprehensive learning based on particle replacement [J]. Journal of Computer Science and Exploration,2021,15 (04): 766-776.)   \n[20] Xu Guiping，Cui Quanlong，Shi Xiaohu，et al. Particle swarm optimization based on dimensional learning strategy [J]. Swarm and Evolutionary Computation,2019,45: 33-51.   \n[21] Liang JJ,Qin AK, Suganthan PN,et al. Comprehensive learning particle swarm optimizer for global optimization of multimodal functions [J]. IEEE Trans on Evolutionary Computation,2006,10 (3): 281-295.   \n[22] Parsopoulos K E,Vrahatis M N.On the computation of all global minimizers through particle swarm optimization [J].IEEE Trans on Evolutionary Computation,2004,8 (3): 211-224.   \n[23] Van Den Bergh F,Engelbrecht A P.A cooperative approach to particle swarm optimization [J].IEEE Trans on Evolutionary Computation,2004, 8 (3): 225-239.   \n[24] Mckay M D, Beckman R J, Conver W J.A comparison of three methods for selecting values of input variables in the analysis of output from a computer code[J]. Technometrics,2000,42 (1): 55-61.   \n[25] Solis FJ,Wets RJB.Minimization by random search techniques [J]. Mathematics of Operations Research,1981,6 (1):19-30. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,1048 @@
+# The $S U ( 3 ) _ { C } \times S U ( 4 ) _ { W } \times U ( 1 ) _ { B - L }$ Models with Left-Right Unification
+
+Tianjun $\mathbf { L i } ^ { 2 , 2 }$ ， Fei Wang³， Jin Min Yang1
+
+1 Key Laboratory of Frontiers in Theoretical Physics, Institute of Theoretical Physics，Academia Sinica, Beijing 100190, China 2 George $P$ . and Cynthia W. Mitchell Institute for Fundamental Physics, Texas A&MUniversity，College Station，TX 77843,USA 3 School of Physics, Monash University, Melbourne 3800, Australia
+
+ABSTRACT: To understand the origin of the left-right symmetry, we study a partial unification model based on $S U ( 4 ) _ { W } \times U ( 1 ) _ { B - L }$ which can be broken down to the minimal left-right model either through the Higgs mechanism in four dimensions or through the five-dimensional orbifolding gauge symmetry breaking,especially we propose to use the rank reducing outer automorphism orbifolding breaking mechanism. We scrutinized all these breaking mechanisms and found that for the orbifold breaking in five dimensions, the rank-reducing outer automorphism is better than the inner automorphism and can make the low energy theory free of the $U ( 1 ) _ { Z }$ anomaly.It is possible for the outer automorphism orbifolding breaking mechanism to be non-anomalous without Chern-Simons terms and new localized fermions. For the four-dimensional model with the Higgs mechanism, we study in detail both its structure and its typical phenomenology. It turns out that this fourdimensional scenario may predict some new phenomenology since the new mirror fermions (which are introduced in order to fill the SM fermions into $S U ( 4 ) _ { W }$ without anomaly) are preserved at low energy scale and mix with the SM fermions. We also examine the gauge coupling unification in each case,and discuss the possibility for unifying this partial unification group with the Pati-Salam group $S U ( 4 ) _ { P S }$ to realize a grand unification.
+
+KEYWORDs: Left-Right Model, Orbifold,Mirror Fermion.
+
+# Contents
+
+1．Introduction 2
+
+# ： $S U ( 4 ) _ { W } \times U ( 1 ) _ { B - L }$ Left-Right Unification Model 3
+
+2.1 Basic structure of the model 3   
+2.2 Five-dimensional inner automorphism orbifold breaking 5   
+2.3 Five-dimensional outer automorphism orbifold breaking 11   
+2.4 Symmetry breaking in four dimensions via Higgs mechanism 15
+
+# Renormalization group running of gauge couplings 25
+
+3.1Beta functions in five-dimensional orbifold 26   
+3.2 Unification of $S U ( 4 ) _ { P S }$ with $S U ( 4 ) _ { W }$ 26
+
+4. Phenomenology discussions 29
+
+5．Conclusions 32
+
+# 1.Introduction
+
+Although the Standard Model (SM) of the electroweak interaction based on the spontaneously broken gauge symmetry $S U ( 2 ) _ { L } { \times } U ( 1 ) _ { Y }$ has been extremely successful in describing the phenomena below weak scale, it leaves many theoretical or aesthetical questions unanswered, one of which is the origin of parity violation. We want to know the reason why the weak interaction apparently violates parity while all other forces conserve parity, and whether parity conservation can be achieved at a more fundamental level. On the other hand, the discovery of neutrino masses through neutrino oscillation experiments also requires an explanation beyond the SM. Both questions can be elegantly addressed in the so-calld left-right models which restore the left-right symmetry at some high energy scale and broken down to the SM at the weak scale.
+
+Among the left-right models the minimal left-right model based on $S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times$ $U ( 1 ) _ { B - L }$ is most popular and has been extensively studied [1]. The key assumption in this model is that the fundamental weak interaction is invariant under parity symmetry and the observed parity violation is the consequence of the spontaneous breaking of parity symmetry. Such a hypothesis requires the existence of right-handed neutrinos and thus can give massive neutrinos. However,in this model the parity invariance has to be put in by hand and there is no ad hoc reason why $S U ( 2 ) _ { L }$ coupling should be identical to $S U ( 2 ) _ { R }$ （20 coupling. Only in some Grand Unification Theories(GUT） like the $S O ( 1 0 )$ models [2] can the equality of the two $S U ( 2 )$ gauge couplings be naturally guaranteed through the gauge coupling unification at a much higher energy scale.
+
+Of course, from the phenomenological point of view we do not know in prior what really happens in high energy region. So the partially unified models like the Pati-Salam model based on $S U ( 4 ) _ { C } \times S U ( 2 ) _ { L } \times S U ( 2 ) _ { R }$ [3] are quite interesting in the sense that they can provide a bridge between low energy theory and high energy GUT theory. Note that in the Pati-Salam partial unification model the parity invariance is also put in by hand. In this work we study an alternative model based on $S U ( 4 ) _ { W } \times U ( 1 ) _ { B - L } \times S U ( 3 ) _ { C }$ for the partial unification of left-right gauge groups. The partially unified models, where $S U ( 2 ) _ { L } \times$ $S U ( 2 ) _ { R }$ is unified into a semi-simple group,can give an explanation for the origin of parity symmetry. Note that the $S O ( 4 )$ is not a simple group, the minimal $S U ( 2 ) _ { L } \times S U ( 2 ) _ { R }$ （204号 unification models are $S O ( 5 )$ and have been studied previously [4]. In this paper，we consider the scenarios where the $S U ( 2 ) _ { L }$ and $S U ( 2 ) _ { R }$ gauge groups are embedded into $S U ( 4 ) _ { W }$ . And the exact left-right symmetry is naturally realized in the $S U ( 4 ) _ { W }$ invariant Lagrangian. When the gauge groups are one-step further unified into $S U ( 4 ) _ { W } \times S U ( 4 ) _ { P S }$ ， such a partial unification can lead to the typical rank-six simple group unification (for example, $S O ( 1 2 )$ gauge group) at higher energy scales.
+
+Such a partial unification idea for left-right symmetry was first proposed in five dimensions [5,6]. In our study we focus on $S U ( 4 ) _ { W } \times U ( 1 ) _ { B - L } \times S U ( 3 ) _ { C }$ and discuss various possibilities for symmetry breaking, including the Higgs mechanism in four dimensions and orbifolding gauge symmetry breaking in five dimensions [7, 8, 9, 10, 11, 12],especially we propose to use rank reducing outer automorphism orbifolding breaking which is not tried in the literature.We find that for the orbifold breaking in five dimensions,the outer automorphism can have the advantage to keep the low energy theory free from the anomalous $U ( 1 ) _ { Z } .$ Thus it is possible for the outer automorphism orbifolding breaking mechanism to be non-anomalous without Chern-Simons terms and new localized fermions. For the fourdimensional model with the Higgs mechanism, new mirror fermions have to be introduced in order to fill the SM fermions into $S U ( 4 ) _ { W }$ without anomaly. These mirror fermions are preserved at low energy scale and their mixings with the SM fermions may have rich phenomenological consequences.
+
+The content of this work is organized as follows. In Sec. 2, we discuss the $S U ( 4 ) _ { W }$ leftright unification model, focusing on the gauge symmetry breaking mechanisms through the five-dimensional orbifold gauge symmetry breaking mechanism,especially we propose to use the rank reducing outer automorphism orbifolding breaking in addition to the mostly used inner automorphism breaking mechanism:and also we study in detail the Higgs mechanism in four dimensions. In Sec. 3,we examine the running and the unification of the gauge couplings in each case,and discuss the possibility for unifying this partial unification group with the Pati-Salam group $S U ( 4 ) _ { P S }$ to realize a grand unification In Sec. 4,we briefly discuss the phenomenology of the four-dimensional theory. Sec. 5 is our conclusion.
+
+# 2. $S U ( 4 ) _ { W } \times U ( 1 ) _ { B - L }$ Left-Right Unification Model
+
+# 2.1 Basic structure of the model
+
+In the minimal left-right model based on $S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times U ( 1 ) _ { B - L }$ , the left-handed and right-handed fermions have $S U ( 2 ) _ { L }$ and $S U ( 2 ) _ { R }$ gauge interactions, respectively. When the two gauge groups are unified into $S U ( 4 ) _ { W }$ , the matter content has to be embedded into some representations of $S U ( 4 ) _ { W }$ . As the gauge group commutate with the Lorentz group, only one type of chiral states (left or right） is allowed in one gauge multiplet (note that the matter content is not filld properly in [13] so that the gauge group does not commute with Lorentz group). Besides, the baryon number conservation at low energy requires the existence of new fermions in the representations in addition to the SM fermions. We introduce fundamental (and anti-fundamental) representation of $S U ( 4 ) _ { W }$ as
+
+$$
+\begin{array} { r l r } & { \langle \pmb { 4 } \rangle : X _ { f } \sim \left( \begin{array} { c } { u _ { L } } \\ { d _ { L } } \\ { U _ { L } ^ { c } } \\ { - D _ { L } ^ { c } } \\ { - D _ { L } ^ { c } } \end{array} \right) _ { \frac { 1 } { 3 } } } & { \langle \pmb { 4 } ^ { * } \rangle : Y _ { f } \sim \left( \begin{array} { c } { U _ { L } } \\ { - D _ { L } } \\ { u _ { L } ^ { c } } \\ { d _ { L } ^ { c } } \end{array} \right) _ { \frac { 1 } { 3 } } } & \\ & { \langle \pmb { 4 } \rangle : L _ { f } \sim \left( \begin{array} { c } { \nu _ { L } } \\ { e _ { L } } \\ { N _ { L } ^ { c } } \\ { - E _ { L } ^ { c } } \\ { - E _ { L } ^ { c } } \end{array} \right) _ { - 1 } } & { \langle \pmb { 4 } ^ { * } \rangle : N _ { f } \sim \left( \begin{array} { c } { N _ { L } } \\ { - E _ { L } } \\ { \nu _ { L } ^ { c } } \\ { e _ { L } ^ { c } } \\ { e _ { L } ^ { c } } \end{array} \right) _ { 1 } , } \end{array}
+$$
+
+where $\phi _ { L } ^ { c } \equiv ( \phi ^ { c } ) _ { L }$ , and the minus sign conforms to our choice of $Q ^ { a } = ( D _ { L } , U _ { L } )$ in $S U ( 2 ) _ { L }$ （204号 representations 2 and being related to its conjugate by $Q _ { a } = ( U _ { L } , - D _ { L } )$ through antisymmetric tensor $Q ^ { a } = \epsilon ^ { a b } Q _ { b }$
+
+Table 1: Representations of fermion fields under gauge groups $S U ( 3 ) _ { C } , S U ( 2 ) _ { L } , S U ( 2 ) _ { R }$ ， $U ( 1 ) _ { B - L }$ （204号 and U(1)q:   
+
+<html><body><table><tr><td></td><td>SU(3)c</td><td>SU(2)L</td><td>SU(2)R</td><td>U(1)B-L</td><td>Q</td></tr><tr><td>(vL eL)f</td><td>1</td><td>2</td><td>1</td><td>-1</td><td>(0 -1)</td></tr><tr><td>(NL -E)f</td><td>1</td><td>2</td><td>1</td><td>1</td><td>(0 1)</td></tr><tr><td>(eL -v)f</td><td>1</td><td>1</td><td>2</td><td>1</td><td>(1 0)</td></tr><tr><td>(N£ -E)f</td><td>1</td><td>1</td><td>2</td><td>-1</td><td>（0 -1)</td></tr><tr><td>(uL dL）f</td><td>3</td><td>2</td><td>1</td><td>1-3</td><td>(-）</td></tr><tr><td>(UL -DL)f</td><td>3*</td><td>2</td><td>1</td><td></td><td>（）</td></tr><tr><td>(dL -u)f</td><td>3*</td><td>1</td><td>2</td><td>-</td><td>(1-2)</td></tr><tr><td>(UL -D£)f</td><td>3</td><td>1</td><td>2</td><td>1-3</td><td>(- )</td></tr></table></body></html>
+
+The $S U ( 2 ) _ { L } \times S U ( 2 ) _ { R }$ components in $S U ( 4 ) _ { W }$ can be seen by decomposing the representation into
+
+$$
+{ \bf 4 } = ( { \bf 2 } , { \bf 1 } ) \oplus ( { \bf 1 } , { \bf 2 } ) \ .
+$$
+
+The representation of each fermion in $S U ( 3 ) _ { C } \times S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times U ( 1 ) _ { B - L }$ is listed in Table 1. The electric charge is an additive quantum number and is a linear combination of the diagonal generators. From the representation of the fermions we can get the formula for the electric charge
+
+$$
+Q = T _ { 3 L } + T _ { 3 R } + \frac { 1 } { 2 } Y _ { B - L } \ .
+$$
+
+The normalization of the generators in the fundamental representation reads
+
+$$
+T r ( T ^ { a } T ^ { b } ) = \frac { 1 } { 2 } \delta ^ { a b } .
+$$
+
+We can choose the $S U ( 4 ) _ { W }$ generators in the form
+
+$$
+T _ { 3 L } = \frac { 1 } { 2 } \left( \begin{array} { c } { { 1 } } \\ { { - 1 } } \\ { { 0 } } \\ { { 0 } } \end{array} \right) , T _ { 3 R } = \frac { 1 } { 2 } \left( \begin{array} { c } { { 0 } } \\ { { 0 } } \\ { { 1 } } \\ { { - 1 } } \end{array} \right) , T _ { Z } = \frac { \sqrt { 2 } } { 4 } \left( \begin{array} { c } { { 1 } } \\ { { 1 } } \\ { { - 1 } } \\ { { - 1 } } \end{array} \right) .
+$$
+
+The $U ( 1 ) _ { Z }$ charge assignment of the fundamental representation can be written as
+
+$$
+Y _ { Z } = \left( \begin{array} { l } { { 1 } } \\ { { 1 } } \\ { { 1 } } \\ { { - 1 } } \\ { { - 1 } } \end{array} \right) \ ,
+$$
+
+and the normalization of gauge group $U ( 1 ) _ { Z }$ reads
+
+$$
+T _ { Z } = \frac { \sqrt { 2 } } { 2 } \frac { Y _ { Z } } { 2 } \ .
+$$
+
+So the relation between the gauge coupling $U ( 1 ) _ { Z }$ and $S U ( 4 ) _ { W }$ is
+
+$$
+g _ { Z } = \frac { \sqrt { 2 } } { 2 } g _ { 4 } .
+$$
+
+Since the adjoint representation of $S U ( 4 ) _ { W }$ can be decomposed as
+
+$$
+{ \bf 1 5 } = ( { \bf 3 } , { \bf 1 } ) \oplus ( { \bf 1 } , { \bf 3 } ) \oplus ( { \bf 2 } , { \bf \bar { 2 } } ) \oplus ( { \bf \bar { 2 } } , { \bf 2 } ) \oplus ( { \bf 1 } , { \bf 1 } ) , \quad
+$$
+
+we can write the gauge part of the Lagrangian into its gauge components ( $M , N$ indicate space-time index in arbitrary dimension)
+
+$$
+\begin{array} { l } { { \displaystyle { \mathcal { L } = - \frac { 1 } { 4 g ^ { 2 } } F _ { M N } ^ { a } F _ { M N } ^ { a } } } } \\ { { \displaystyle ~ \sim - \frac { 1 } { 4 g ^ { 2 } } F _ { M N } ^ { i L } F _ { M N } ^ { i L } - \frac { 1 } { 4 g ^ { 2 } } F _ { M N } ^ { i R } F _ { M N } ^ { i R } - \frac { 1 } { 4 g ^ { 2 } } F _ { M N } ^ { Z } F _ { M N } ^ { Z } ~ . } } \end{array}
+$$
+
+In the following we will discuss three different gauge symmetry broken mechanisms: the five-dimensional orbifold gauge symmetry breaking mechanism,especially we propose to use the rank reducing outer automorphism orbifolding breaking in addition to the mostly used inner automorphism breaking mechanism; and also we discuss the symmetry breaking via the Higgs mechanism in four dimensions.
+
+# 2.2 Five-dimensional inner automorphism orbifold breaking
+
+Consider the five-dimensional space-time $\mathcal { M } _ { 4 } { \times } S ^ { 1 } / ( Z _ { 2 } { \times } Z _ { 2 } )$ comprising of Minkowski space $\mathcal { M } _ { 4 }$ with coordinates $x _ { \mu }$ and the orbifold $S ^ { 1 } / ( Z _ { 2 } { \times } Z _ { 2 } )$ with coordinate $y { = } x _ { 5 }$ . The orbifold $S ^ { 1 } / ( Z _ { 2 } { \times } Z _ { 2 } )$ is obtained by identification
+
+$$
+P : y \sim - y ~ , \qquad P ^ { \prime } : y ^ { \prime } \sim - y ^ { \prime } ~ ,
+$$
+
+where $y ^ { \prime } { \equiv } y + \pi R / 2$ . There are two inequivalent 3-branes locating at $y = 0$ and $y = \pi R / 2$ which are denoted as $O$ and $O ^ { \prime }$ ，respectively. The action of discrete groups on the field space is specified as
+
+$$
+\begin{array} { c } { { \phi ( x _ { \mu } , y ) \sim P _ { \phi } \phi ( x _ { \mu } , - y ) \ , } } \\ { { \phi ( x _ { \mu } , y ^ { \prime } ) \sim P _ { \phi ^ { \prime } } \phi ( x _ { \mu } , - y ^ { \prime } ) \ , } } \end{array}
+$$
+
+where $\phi ( x _ { \mu } , y )$ denotes a vector comprising of bulk felds,and $P _ { \phi }$ and $P _ { \phi ^ { \prime } }$ are the matrix representation of the two $Z _ { 2 }$ operator actions which have eigenvalues $\pm 1$ . In the diagonal basis these fields have the KK expansions as
+
+$$
+\begin{array} { l } { \displaystyle \phi _ { + + } ( x _ { \mu } , y ) = \sum _ { n = 0 } ^ { + \infty } \sqrt { \frac { 1 } { 2 ^ { \delta _ { n , 0 } } \pi R } } \delta _ { + + } ^ { ( 2 n ) } ( x _ { \mu } ) \cos \frac { 2 n y } { R } , } \\ { \displaystyle \phi _ { + - } ( x _ { \mu } , y ) = \sum _ { n = 0 } ^ { + \infty } \sqrt { \frac { 1 } { \pi R } } \delta _ { + - } ^ { ( 2 n + 1 ) } ( x _ { \mu } ) \cos \frac { ( 2 n + 1 ) y } { R } , } \\ { \displaystyle \phi _ { - + } ( x _ { \mu } , y ) = \sum _ { n = 0 } ^ { + \infty } \sqrt { \frac { 1 } { \pi R } } \delta _ { - - + } ^ { ( 2 n + 1 ) } ( x _ { \mu } ) \sin \frac { ( 2 n + 1 ) y } { R } , } \\ { \displaystyle \phi _ { -- } ( x _ { \mu } , y ) = \sum _ { n = 0 } ^ { + \infty } \sqrt { \frac { 1 } { \pi R } } \delta _ { -- } ^ { ( 2 n + 2 ) } ( x _ { \mu } ) \sin \frac { ( 2 n + 2 ) y } { R } , } \end{array}
+$$
+
+where $n$ is an integer and the fields $\phi _ { + + } ^ { ( 2 n ) } ( x _ { \mu } )$ ， $\phi _ { + - } ^ { ( 2 n + 1 ) } ( x _ { \mu } )$ ， $\phi _ { - + } ^ { ( 2 n + 1 ) } ( x _ { \mu } )$ ， $\phi _ { -- } ^ { ( 2 n + 2 ) } ( x _ { \mu } )$ respectively acquire a mass $2 n / R$ ， $( 2 n + 1 ) / R$ ， $( 2 n + 1 ) / R$ and $( 2 n + 2 ) / R$ upon compactification. Only $\phi _ { + + } ( x _ { \mu } , y )$ possess a 4-D massless zero mode. It is easy to see that $\phi _ { + + }$ and $\phi _ { + - }$ are non-vanishing at $y = 0$ and $\phi _ { + + } , \phi _ { - + }$ are non-vanishing at $y = \pi R / 2$
+
+We can choose the parity assignment of the fields in terms of the fundamental representation of $S U ( 4 ) _ { W }$
+
+$$
+P = d i a g ( + 1 , + 1 , + 1 , + 1 ) ~ , ~ P ^ { \prime } = d i a g ( + 1 , + 1 , - 1 , - 1 ) ~ , ~ 
+$$
+
+with the transformation law
+
+$$
+\begin{array} { r c l } { { } } & { { P : } } & { { V _ { \mu } ^ { a } ( x _ { \mu } , - y ) = P V _ { \mu } ^ { a } ( x _ { \mu } , y ) P ~ , } } \\ { { } } & { { P : } } & { { V _ { 5 } ^ { a } ( x _ { \mu } , - y ) = - P V _ { 5 } ^ { a } ( x _ { \mu } , y ) P ~ , } } \\ { { } } & { { P ^ { \prime } : } } & { { V _ { \mu } ^ { a } ( x _ { \mu } , - y ^ { \prime } ) = P ^ { \prime } V _ { \mu } ^ { a } ( x _ { \mu } , y ^ { \prime } ) P ^ { \prime } ~ , } } \\ { { } } & { { P ^ { \prime } : } } & { { V _ { 5 } ^ { a } ( x _ { \mu } , - y ^ { \prime } ) = - P ^ { \prime } V _ { 5 } ^ { a } ( x _ { \mu } , y ^ { \prime } ) P ^ { \prime } ~ . } } \end{array}
+$$
+
+From the assignment of $P$ and $P ^ { \prime }$ we know that the gauge symmetry $S U ( 4 ) _ { w }$ is broken by boundary conditions to $S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times U ( 1 ) _ { X }$ on the boundary $O ^ { \prime }$ brane and remains in the bulk as well as on the $O$ brane. There are three possibilities for the location of matter fields:
+
+(i) The first possibility is to put matter in the bulk. To get the mass spectrum, we make the choice
+
+$$
+\begin{array} { r l } { P : } & { X ( x _ { \mu } , - y ) = P X ( x _ { \mu } , y ) ~ , } \\ & { L ( x _ { \mu } , - y ) = P Y ( x _ { \mu } , y ) ~ , } \\ { P : } & { Y ( x _ { \mu } , - y ) = P Y ( x _ { \mu } , y ) ~ , } \\ & { N ( x _ { \mu } , - y ) = P N ( x _ { \mu } , y ) ~ , } \\ { P ^ { \prime } : } & { X ( x _ { \mu } , - y ^ { \prime } ) = P ^ { \prime } X ( x _ { \mu } , y ^ { \prime } ) ~ , } \\ & { I ( x _ { \mu } , - y ^ { \prime } ) = P ^ { \prime } Y ( x _ { \mu } , y ^ { \prime } ) ~ , } \\ { P ^ { \prime } : } & { Y ( x _ { \mu } , - y ^ { \prime } ) = - P ^ { \prime } Y ( x _ { \mu } , y ^ { \prime } ) ~ , } \\ & { N ( x _ { \mu } , - y ^ { \prime } ) = - P ^ { \prime } N ( x _ { \mu } , y ^ { \prime } ) ~ . } \end{array}
+$$
+
+We denote the matter content of the fundamental and anti-fundamental representations of $S U ( 4 ) _ { W }$ as $X _ { 4 } \sim ( Q , \bar { Q } ^ { c } ) , Y _ { 4 ^ { * } } \sim ( \bar { Q } , Q ^ { c } ) , L _ { 4 } \sim ( L , \bar { L } ^ { c } )$ and $N _ { 4 ^ { * } } \sim ( \bar { L } , L ^ { c } )$ respectively. The parity assignment of the matter fields are listed in Table 2. The matter content in the low energy effective theory is same as in the minimal left-right model. However, due to the charge assignments for $U ( 1 ) _ { Z }$ , the anomaly does not cancel in this theory. A possible solution for this problem is to introduce Chern-Simmons terms which can cancel the anomaly.
+
+The Yukawa coupling can be included by introducing bulk Higgs fields. From the parity assignments of the matter fields, to make the action invariant under parity transformation, the adjoint Higgs field $\Sigma _ { 1 }$ and the symmetric Higgs field $\Sigma _ { 2 }$ ， $\Sigma _ { 3 }$ (in $\overline { { { \bf 1 0 } } }$ and 10 respectively） must transform as
+
+Table 2: Parity assignments for the matter fields.   
+
+<html><body><table><tr><td>(P,P')</td><td>4-D matter fields</td><td>mass</td></tr><tr><td>(+，+)</td><td>Q,Q℃,L,Lc</td><td>2</td></tr><tr><td>(+,-)</td><td>Qc,Q,L,Lc</td><td>2n+1</td></tr></table></body></html>
+
+$$
+\begin{array} { r l } { P \colon } & { \Sigma _ { 1 } ( x _ { \mu } , - y ) = P \Sigma _ { 1 } ( x _ { \mu } , y ) P \ , } \\ { P \colon } & { \Sigma _ { 2 } ( x _ { \mu } , - y ) = P \Sigma _ { 2 } ( x _ { \mu } , y ) P \ , } \\ { P \colon } & { \Sigma _ { 3 } ( x _ { \mu } , - y ) = P \Sigma _ { 3 } ( x _ { \mu } , y ) P \ , } \\ { P ^ { \prime } \colon } & { \Sigma _ { 1 } ( x _ { \mu } , - y ^ { \prime } ) = - P ^ { \prime } \Sigma _ { 1 } ( x _ { \mu } , y ^ { \prime } ) P ^ { \prime } \ , } \\ { P ^ { \prime } \colon } & { \Sigma _ { 2 } ( x _ { \mu } , - y ^ { \prime } ) = P ^ { \prime } \Sigma _ { 2 } ( x _ { \mu } , y ^ { \prime } ) P ^ { \prime } \ , } \\ { P ^ { \prime } \colon } & { \Sigma _ { 3 } ( x _ { \mu } , - y ^ { \prime } ) = P ^ { \prime } \Sigma _ { 3 } ( x _ { \mu } , y ^ { \prime } ) P ^ { \prime } \ , } \end{array}
+$$
+
+where $\Sigma _ { 1 }$ gives the bi-doublet Higgs fields appearing in the 4-D minimal left-right model while $\Sigma _ { 2 }$ and $\Sigma _ { 3 }$ give the $S U ( 2 ) _ { L }$ and $S U ( 2 ) _ { R }$ triplet Higgs fields. We can introduce in the bulk the mixing between different generations which is different from the case of gauge-Higgs unification scenario (because Higgs fields from vector supermultiplets can not mix between different generations)
+
+$$
+\begin{array} { r l } & { \mathcal { L } ^ { ( 5 ) } = \displaystyle \sum _ { i , j } y _ { 1 i j } ^ { ( 5 ) } X _ { i a } ^ { T } C \left( \Sigma _ { 1 } \right) _ { b } ^ { a } Y _ { j } ^ { b } + \displaystyle \sum _ { i , j } y _ { 2 i j } ^ { ( 5 ) } L _ { i a } ^ { T } C \left( \Sigma _ { 1 } \right) _ { b } ^ { a } N _ { j } ^ { b } } \\ & { \quad \quad \quad + \displaystyle \sum _ { i , j } y _ { 3 i j } ^ { ( 5 ) } L _ { i a } ^ { T } C \left( \Sigma _ { 2 } \right) ^ { a b } L _ { j b } + \displaystyle \sum _ { i , j } y _ { 4 i j } ^ { ( 5 ) } \left( N ^ { T } \right) _ { i } ^ { a } C \left( \Sigma _ { 3 } \right) _ { a b } N _ { j b } , } \end{array}
+$$
+
+where $i , j$ are family indices and $a , b$ are group indices. The decomposition of $S U ( 4 ) _ { W }$ adjoint representation in terms of $S U ( 2 ) _ { L } , S U ( 2 ) _ { R }$ and $U ( 1 ) _ { Z }$ with parity assignments of $\Sigma _ { i }$ is given by
+
+$$
+\begin{array} { r l } & { \left( P , P ^ { \prime } \right) : 1 5 ( \Sigma _ { 1 } ) = ( \mathbf { 3 } , \mathbf { 1 } ) _ { 0 } ^ { + , - } \oplus ( \mathbf { 1 } , \mathbf { 3 } ) _ { 0 } ^ { + , - } \oplus ( \mathbf { 2 } , \mathbf { \bar { 2 } } ) _ { 2 } ^ { + , + } \oplus ( \mathbf { \bar { 2 } } , \mathbf { 2 } ) _ { - 2 } ^ { + , + } \oplus ( \mathbf { 1 } , \mathbf { 1 } ) _ { 0 } ^ { + , - } \ , } \\ & { \left( P , P ^ { \prime } \right) : 1 \bar { \mathbf { 0 } } ( \Sigma _ { 2 } ) = ( \mathbf { 3 } , \mathbf { 1 } ) _ { 0 } ^ { + , + } \oplus ( \mathbf { 1 } , \mathbf { 3 } ) _ { 0 } ^ { + , + } \oplus ( \mathbf { 2 } , \mathbf { \bar { 2 } } ) _ { 0 } ^ { + , - } \ , } \\ & { \left( P , P ^ { \prime } \right) : 1 0 ( \Sigma _ { 3 } ) = ( \mathbf { 3 } , \mathbf { 1 } ) _ { 0 } ^ { + , + } \oplus ( \mathbf { 1 } , \mathbf { 3 } ) _ { 0 } ^ { + , + } \oplus ( \mathbf { 2 } , \mathbf { \bar { 2 } } ) _ { 0 } ^ { + , - } \ . } \end{array}
+$$
+
+The four-dimensional effective theory can be obtained by integrating out the heavy modes which give explicitly the Yukawa coupling (the subscripts of the Higgs fields denote the representation in $S U ( 2 ) _ { L } \times S U ( 2 ) _ { R }$ ）
+
+$$
+\begin{array} { l } { { \displaystyle { \mathcal L } ^ { ( 4 ) } = \sum _ { i , j } y _ { 1 i j } ^ { ( 4 ) } Q _ { i } ^ { T } C \Sigma _ { 2 2 } ^ { ( 4 ) } Q _ { j } ^ { c } + \sum _ { i , j } y _ { 2 i j } ^ { ( 4 ) } L _ { i } ^ { T } C \Sigma _ { 2 2 } ^ { ( 4 ) } L _ { j } ^ { c } } } \\ { { \displaystyle ~ + \sum _ { i , j } y _ { 3 i j } ^ { ( 4 ) } L _ { i } ^ { T } C \Sigma _ { 3 1 } ^ { ( 4 ) } L _ { j } + \sum _ { i , j } y _ { 4 i j } ^ { ( 4 ) } ( L _ { i } ^ { c } ) ^ { T } C \Sigma _ { 1 3 } ^ { ( 4 ) } L _ { j } ^ { c } + h . c . ~ . } } \end{array}
+$$
+
+The neutrino masses can be generated through type-II see-saw mechanism via the Higgs triplets. The extra triplets from the symmetric Higgs fields couple with the much heavier mirror fermions which can be integrate out in low energy effective theory.
+
+(ii) The second possibility is to locate matter on the $O ^ { \prime }$ -brane at $y = \pi R / 2$ . Since the gauge symmetry preserves only for $S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times U ( 1 ) _ { Z }$ ， we need to introduce （20 $O ^ { \prime }$ -brane Higgs fields including bi-doublets, triplets and gauge singlet to break the residue gauge symmetry to the SM gauge group at the $O ^ { \prime }$ -brane. Because the $U ( 1 ) _ { Z }$ （204号 anomalies can not be cancelled with the matter content of the minimal left-right model, we must introduce new mirror fermions to cancel the anomaly. Besides, we must introduce gauge singlet Higgs field to break the $U ( 1 ) _ { Z }$ . The Yukawa coupling on the $O ^ { \prime }$ -brane is similar to the minimal left-right model except that we must include the mirror fermions. Further, this scenario can realize gauge coupling unification but not the unification of matter content and Higgs.
+
+(iiI) The third possibility is to put matter fields on the $O$ -brane at $y = 0$ .Because the gauge symmetry is preserved on the $O$ brane,we must fit the matter content into （204号 $S U ( 4 ) _ { W } \times U ( 1 ) _ { B - L }$ representations in order to give an explanation for unification. We can introduce bulk Higgs felds or brane Higgs felds. For bulk Higgs fields, we can introduce $S U ( 4 ) _ { W }$ invariant Yukawa interactions localized on the $S U ( 4 ) _ { W }$ （20 invariant $O$ -brane. Then we must specify the transformation properties of the quark and lepton fields under $Z _ { 2 } \times Z _ { 2 } ^ { \prime }$ .The parity $P$ under $Z _ { 2 }$ must be plus while the parity $P ^ { \prime }$ under $Z _ { 2 } ^ { \prime }$ can be determined by requiring the operator on $( 0 , \pi R )$ branes to transform covariantly under $Z _ { 2 } ^ { \prime }$ . That is,due to the identification of $( 0 , \pi R )$ brane under $Z _ { 2 } ^ { \prime }$ , we must specify the transformation of the matter fields to ensure that the operator on the two branes are correlated by $Z _ { 2 } ^ { \prime }$ . The assignment of the $P ^ { \prime }$ quantum number has four possibilities
+
+$$
+\begin{array} { l } { { P ^ { \prime } ( Q , \bar { Q ^ { c } } , \bar { Q } , Q ^ { c } ) = \pm ( + , - , - , + ) , } } \\ { { P ^ { \prime } ( Q , \bar { Q ^ { c } } , \bar { Q } , Q ^ { c } ) = \pm ( + , - , + , - ) . } } \end{array}
+$$
+
+We can introduce as in the bulk fermion case the adjoint Higgs fields $\Sigma _ { 1 } ( x _ { \mu } , y )$ and the symmetric Higgs fields $\Sigma _ { 2 } ( x _ { \mu } , y )$ and $\Sigma _ { 3 } ( x _ { \mu } , y )$ with opposite $P ^ { \prime }$ parity assignment. Corresponding to the parity assignment in Eqs. (2.40) and (2.41)，we obtain respectively
+
+$$
+\begin{array} { r l } & { P ^ { \prime } ( X _ { 4 } Y _ { \bar { 4 } } \Sigma _ { 1 } ) = + , P ^ { \prime } ( L _ { 4 } N _ { \bar { 4 } } \Sigma _ { 1 } ) = + , P ^ { \prime } ( L _ { 4 } L _ { 4 } \Sigma _ { 2 } ) = + , P ^ { \prime } ( N _ { \bar { 4 } } N _ { \bar { 4 } } \Sigma _ { 3 } ) = + , } \\ & { P ^ { \prime } ( X _ { 4 } Y _ { \bar { 4 } } \Sigma _ { 1 } ) = - , P ^ { \prime } ( L _ { 4 } N _ { \bar { 4 } } \Sigma _ { 1 } ) = - , P ^ { \prime } ( L _ { 4 } L _ { 4 } \Sigma _ { 2 } ) = + , P ^ { \prime } ( L _ { \bar { 4 } } L _ { \bar { 4 } } \Sigma _ { 2 } ) = + ~ . } \end{array}
+$$
+
+So the Yukawa coupling can be written as
+
+$$
+\begin{array} { l } { { \displaystyle { \mathcal L } _ { 5 } = ( \delta ( y ) \pm \delta ( y - \pi R ) ) \sum _ { i , j } ( y _ { 1 i j } ^ { f } X _ { i } ^ { T } C \Sigma _ { 1 } Y _ { j } + y _ { 2 i j } ^ { f } L _ { i } ^ { T } C \Sigma _ { 1 } N _ { j } ) } } \\ { { \displaystyle \qquad + ( \delta ( y ) + \delta ( y - \pi R ) ) \sum _ { i , j } ( y _ { 3 i j } ^ { f } L _ { i } ^ { T } C \Sigma _ { 1 } L _ { j } + y _ { 4 i j } ^ { f } N _ { i } ^ { T } C \Sigma _ { 1 } N _ { j } ) ~ , } } \end{array}
+$$
+
+where $\pm$ correspond to Eqs. (2.40) and (2.41)，respectively. We get the low energy effective theory by integrating the $y$ coordinate. The zero modes of the Yukawa coupling is same as the minimal left-right model obtained from the bulk fermion cases. This scenario also has the $U ( 1 ) _ { Z }$ anomaly in low energy effective theory.
+
+It is also possible for the $S U ( 4 ) _ { W }$ representation Higgs to lie on the $O$ -brane. Such a possibility is almost identical to the case of the ordinary 4-D unifcation scenario which will be discussed later except that the adjoint Higgs which is used to break the gauge symmetry from $S U ( 4 ) _ { W }$ to $S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times U ( 1 ) _ { Z }$ is eliminated.
+
+So we can see that in inner automorphism orbifolding symmetry breaking cases, the most economical way to have left-right unification is to introduce bulk fermions and bulk Higgs fields. However, such cases have the $U ( 1 ) _ { Z }$ anomalies in the zero modes.
+
+As mentioned previously,the gauge anomaly will not cancel after orbifold projection. The relevant discussons on gauge anomaly cancelation in orbifold was discussed in ref [14, 15,16,17] etc. In [14], the $U ( 1 )$ gauge anomaly in five dimensional theories compactified on $S ^ { 1 } / Z _ { 2 }$ with one unit charge bulk fermion was showed to be lived in the orbifold fix point.The anomaly has the form:
+
+$$
+\partial _ { M } J ^ { M } = \frac { 1 } { 2 } \left( \delta ( y ) + \delta ( \pi R - y ) \right) \mathcal { Q } ( x _ { \mu } , y )
+$$
+
+with
+
+$$
+{ \mathcal Q } ( x _ { \mu } , y ) = \frac { g _ { 5 } ^ { 2 } } { 1 6 \pi ^ { 2 } } F _ { \mu \nu } ( x _ { \mu } , y ) \tilde { F } ^ { \mu \nu } ( x _ { \mu } , y )
+$$
+
+is proportional to the four dimensional chiral anomaly from a charged Dirac fermion in the external gauge potential $A _ { \mu } ( x _ { \mu } , y )$ . The current $J ^ { M }$ is the five dimensional fermion current
+
+$$
+J ^ { M } = { \bar { \Psi } } \Gamma ^ { M } \Psi
+$$
+
+In ref.[15],the gauge anomaly was shown to be present in orbifold $S ^ { 1 } / ( Z _ { 2 } \times Z _ { 2 } )$ even in the absence of an anomalous spectrum of zero modes.However it was found in [16] that the theory with a single 5D Dirac fermion without anomalous zero modes is by itself non-anomalous.
+
+In our case，according to the assignments of the fermion parity under the orbifold projection(that is,there are fermionic zero modes after projection), the anomalous structure for $U ( 1 ) _ { B - L }$ resemble that of the case in ref.[14].It can easily be seen that the anomaly in 4-D effective theory cancels,so we need not worry about the anomaly for $U ( 1 ) _ { B - L }$ ：
+
+The anomaly structure for orbifold broken gauge groups was first discussed in [17].The bulk fermions(contain both fundamental and anti-fundamental representation for $S U ( 4 ) _ { W }$ with flipped parity assignments with respect to $P ^ { \prime }$ ） give rise to the localized gauge anomalies for all gauge components of the five dimensional vector current1:
+
+$$
+( D _ { M } J ^ { M } ) ^ { a } ( x _ { \mu } , y ) = \delta ( y ) \left[ \mathcal { Q } ^ { a } ( A ) + \mathcal { Q } ^ { a } ( X ) \right]
+$$
+
+$$
+\begin{array} { l } { { ( D _ { M } J ^ { M } ) ^ { i } ( x _ { \mu } , y ) = \delta ( y ) \left[ Q ^ { i } ( A ) + Q ^ { i } ( X ) \right] } } \\ { { ( D _ { M } J ^ { M } ) ^ { B } ( x _ { \mu } , y ) = \delta ( y ) \left[ Q _ { + } ^ { B } ( A ) + Q _ { - } ^ { B } ( A ) \right] + \delta ( y ) Q ^ { B } ( X ) } } \\ { { ( D _ { M } J ^ { M } ) ^ { \hat { a } } ( x _ { \mu } , y ) = \delta ( y ) Q ^ { \hat { a } } ( X ) } } \end{array}
+$$
+
+here the superscript $a , i$ represent the two unbroken non-abelian gauge groups $S U ( 2 ) _ { L }$ and $S U ( 2 ) _ { R }$ generators; the superscript $B$ represent the unbroken abelian gauge group $U ( 1 ) _ { Z }$ （20 from the diagonal $S U ( 4 ) _ { W }$ ; the superscript $\hat { a }$ denote the broken generators for the previous $S U ( 4 ) _ { W } . \mathcal { Q } ^ { M }$ is again the four dimensional gauge anomaly relate to the anomaly via:
+
+$$
+\begin{array} { l } { { \displaystyle { \mathcal Q } ^ { M } \propto \frac { 1 } { 1 6 \pi ^ { 2 } } \sum _ { N , L } T r ( \{ T ^ { M } , T ^ { N } \} T ^ { L } ) F _ { \mu \nu } ^ { N } { \tilde { F } } ^ { L \mu \nu } } } \\ { { \displaystyle \ } } \\ { { \displaystyle = \sum _ { N , L } \frac { 1 } { 3 2 \pi ^ { 2 } } D ^ { M N L } F _ { \mu \nu } ^ { N } { \tilde { F } } ^ { L \mu \nu } } } \end{array}
+$$
+
+here $N , L$ run through all the $S U ( 4 ) _ { W }$ generation indices and $D ^ { M N L }$ denotes the symmetrized trace.
+
+To cancel the local anomaly,we need to place localized fermions in the $\begin{array} { r } { y = \frac { \pi R } { 2 } } \end{array}$ brane so as that the total anomaly can be canceled by Chern-Simons term.That is, we introduce localized fermions in $S U ( 3 ) _ { c } \times S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times U ( 1 ) _ { Z }$ representation:
+
+$$
+( { \bf 3 } , \bar { \bf 2 } , { \bf 1 } ) _ { - 1 } , ( { \bf 3 } , { \bf 1 } , \bar { \bf 2 } ) _ { + 1 } , ( { \bf 1 } , \bar { \bf 2 } , { \bf 1 } ) _ { - 1 } , ( { \bf 1 } , { \bf 1 } , \bar { \bf 2 } ) _ { + 1 }
+$$
+
+on the $\begin{array} { r } { y = \frac { \pi R } { 2 } } \end{array}$ brane.
+
+So the bulk anomaly changed into the form:
+
+$$
+\begin{array} { l } { { ( D _ { M } J ^ { M } ) ^ { a } ( x _ { \mu } , y ) = \delta ( y ) Q ^ { a } ( X ) + \displaystyle \left[ \delta ( y ) - \delta ( y - \frac { \pi R } { 2 } ) \right] { \mathcal Q } ^ { a } ( A ) } } \\ { { { } } } \\ { { ( D _ { M } J ^ { M } ) ^ { i } ( x _ { \mu } , y ) = \delta ( y ) Q ^ { i } ( X ) + \displaystyle \left[ \delta ( y ) - \delta ( y - \frac { \pi R } { 2 } ) \right] { \mathcal Q } ^ { i } ( A ) } } \\ { { { } } } \\ { { ( D _ { M } J ^ { M } ) ^ { B } ( x _ { \mu } , y ) = \displaystyle \left[ \delta ( y ) - \delta ( y - \frac { \pi R } { 2 } ) \right] \left[ Q _ { + } ^ { B } ( A ) + { \mathcal Q } _ { - } ^ { B } ( A ) \right] + \delta ( y ) { \mathcal Q } ^ { B } ( X ) } } \\ { { { } } } \\ { { ( D _ { M } J ^ { M } ) ^ { \hat { a } } ( x _ { \mu } , y ) = \delta ( y ) { \mathcal Q } ^ { \hat { a } } ( X ) } } \end{array}
+$$
+
+We can introduce the Chern-Simons term to cancel the gauge anomaly. We introduce the deformed Chern-Simons 5-form $Q _ { 5 } [ A ^ { M } T ^ { M } ]$ in the action:
+
+$$
+\mathcal { L } _ { C S } = - \frac { 1 } { 4 8 \pi ^ { 2 } } u ( y ) T r \left( A d A d A + \frac { 3 } { 2 } A ^ { 3 } d A + \frac { 3 } { 5 } A ^ { 5 } \right)
+$$
+
+with $u ( y )$ a parity odd function. Under gauge transformation $\delta A = d \omega + [ A , \omega ]$ , from the variation of the Lagrangian we get the five dimensional covariant gauge current:
+
+$$
+\mathop { \left( D _ { M } J ^ { M } \right) ^ { O = \left( a , i , B \right) } } _  \left. \begin{array} { l } { { \displaystyle - { \frac { 1 } { 3 2 \pi ^ { 2 } } } } \left[ \delta ( y ) - \delta ( y - { \frac { \pi R } { 2 } } ) \right] \sum _ { P , Q = \left( a , i , B \right) } D ^ { O P Q } F _ { \mu \nu } ^ { P } F ^ { Q \mu \nu } } \\ { { } } \\ { { } - { \frac { 1 } { 3 2 \pi ^ { 2 } } } \delta ( y ) \sum _ { P , Q = \left( { \hat { a } } \right) } D ^ { O P Q } F _ { \mu \nu } ^ { P } F ^ { Q \mu \nu } } \\ { { } } \\  { \displaystyle \left( D _ { M } J ^ { M } \right) ^ { O = { \hat { a } } } = - { \frac { 1 } { 3 2 \pi ^ { 2 } } } \delta ( y ) \sum _ { P = { \hat { a } } , Q = \left( a , i , B \right) } D ^ { O P Q } F _ { \mu \nu } ^ { P } F ^ { Q \mu \nu } } \end{array} \right.
+$$
+
+So we can see that the Cherm-Simons contributions cancel exactly the gauge anomalies.
+
+In general, the $U ( 1 ) _ { Z }$ is anomalous in four dimension. We must introduce the localized brane fermions and Chern-Simons term to eliminate the gauge anomaly. So we want to seek new ways in orbifolding breaking to eliminate the anomalous $U ( 1 ) _ { Z }$ ：
+
+# 2.3 Five-dimensional outer automorphism orbifold breaking
+
+It is well known that inner automorphism orbifolding breaking with $Z _ { n }$ action can not reduce the rank of the gauge groups.So we seek to use outer automorphism orbifolding breaking mechanism [9,18] to eliminate the rank of the group. Outer automorphisms are structure constant preserving linear transformations of generators which cannot be written as group conjugations.As an example, complex conjugation which preserve the structure constant can not be written as a conjugation by group elements.Such type of orbifolding procedure in general reduce the rank of the group.
+
+We proposed that the left-right unification model can be broken to the minimal leftright model by the rank-reducing outer automorphism orbifolding breaking mechanism through the breaking pattern $S U ( 4 )  S O ( 4 )$ .We know that $S O ( 4 ) \sim S U ( 2 ) \times S U ( 2 )$ where we can identify the two $S U ( 2 )$ as $S U ( 2 ) _ { L }$ and $S U ( 2 ) _ { R }$ . In this way, we eliminate the anomalous $U ( 1 ) _ { Z }$ appeared in the inner automorphism orbifolding breaking. So the symmetry breaking pattern reads
+
+$$
+S U ( 4 ) _ { w } \times U ( 1 ) _ { B - L }  S O ( 4 ) \times U ( 1 ) _ { B - L } \sim S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times U ( 1 ) _ { B - L } \ .
+$$
+
+In this case we also consider the five-dimensional spacetime $\mathcal { M } _ { 4 } { \times } S ^ { 1 } / ( Z _ { 2 } { \times } Z _ { 2 } )$ . As in the inner automorphism case, there are two inequivalent 3-branes $O$ and $O ^ { \prime }$ corresponding to （20 $y = 0$ and $y = \pi R / 2$ ，respectively. The $S U ( 4 ) _ { W }$ gauge theory is defined on the orbifold $S ^ { 1 } / ( Z _ { 2 } { \times } Z _ { 2 } )$ with
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { T ^ { a } A _ { \mu } ^ { a } ( x _ { \mu } , - y ) \sim - ( T ^ { a } ) ^ { * } A _ { \mu } ^ { a } ( x _ { \mu } , y ) ~ , } } \\ { { } } & { { } } & { { T ^ { a } A _ { 5 } ^ { a } ( x _ { \mu } , - y ) \sim ( T ^ { a } ) ^ { * } A _ { 5 } ^ { a } ( x _ { \mu } , y ) ~ , } } \\ { { } } & { { } } & { { T ^ { a } A _ { \mu } ^ { a } ( x _ { \mu } , - y ^ { \prime } ) \sim P ^ { \prime } ( T ^ { a } ) P ^ { \prime } A _ { \mu } ^ { a } ( x _ { \mu } , y ^ { \prime } ) ~ , } } \\ { { } } & { { } } & { { T ^ { a } A _ { 5 } ^ { a } ( x _ { \mu } , - y ^ { \prime } ) \sim - P ^ { \prime } ( T ^ { a } ) P ^ { \prime } A _ { 5 } ^ { a } ( x _ { \mu } , y ^ { \prime } ) ~ . } } \end{array}
+$$
+
+We give positive (negative) parity to gauge fields corresponding to the imaginary antisymmetric (real symmetric） generators of $S U ( 4 )$ . With such an assignment the $S O ( 4 )$ gauge fields have positive parity while other gauge fields have negative parity. We can choose the parity assignment in terms of the fundamental representation of $S U ( 4 ) _ { W }$ for $P ^ { \prime }$ ：
+
+$$
+P ^ { \prime } = d i a g ( + 1 , + 1 , + 1 , + 1 ) ~ . ~ 
+$$
+
+So we know that the gauge symmetry is preserved on $O ^ { \prime }$ brane while is broken on the $O$ （20 brane to $S O ( 4 ) { \sim } S U ( 2 ) _ { L } { \times } S U ( 2 ) _ { R }$ . The $Z _ { 2 }$ assignment for the matter content in the bulk is defined as
+
+$$
+\psi ( x _ { \mu } , - y ) = \lambda _ { R } \psi ( x _ { \mu } , y ) ~ ,
+$$
+
+with $\lambda _ { R } = \lambda _ { R } ^ { \dagger } = \lambda _ { R } ^ { - 1 }$ being a matrix acting on the representation indices of $\psi$ . As for the fermions in the representation $R$ of the group $G$ , the requirement for the fermion-gauge boson coupling to be invariant under orbifold action implies that $\lambda _ { R }$ should satisfy the condition
+
+$$
+\lambda _ { R } T _ { R } ^ { A } \lambda _ { R } = \Lambda _ { B } ^ { A } T _ { R } ^ { B } .
+$$
+
+For such a complex conjugate outer automorphism breaking, the former requirements have the form
+
+$$
+\lambda _ { R } T _ { R } ^ { A } \lambda _ { R } = - ( T _ { R } ^ { A } ) ^ { * } .
+$$
+
+Such an identity requires the representation to be real. As we can always choose $R = r \oplus { \bar { r } }$ （204号 where $r$ is a non-real representation with generators
+
+$$
+T _ { R } ^ { A } = \left( \begin{array} { c c } { { T _ { r } ^ { A } } } & { { 0 } } \\ { { 0 } } & { { - ( T _ { r } ^ { A } ) ^ { * } } } \end{array} \right) \ ,
+$$
+
+we can choose the form of $\lambda _ { R }$ that satisfies the former requirements
+
+$$
+\lambda _ { R } = { \left( \begin{array} { l l } { 0 } & { \mathbf { 1 } _ { r } } \\ { \mathbf { 1 } _ { r } } & { 0 } \end{array} \right) } \ .
+$$
+
+We know that the representation of the matter content require a $r {  } r$ symmetry to guarantee the action to be invariant under orbifolding. So we see that the original bulk theory must be vector-like (with respect to the group we wish to act on by outer automorphism). We do not specify the way for the matter to fill the 4 and $\mathbf { \overline { { 4 } } }$ now and just assume them to be $4 \sim ( M _ { i } )$ ， $4 \sim ( R _ { i } )$ and 4\~ (Ni) $4 \sim ( T _ { i } )$ $( i = 0 , 1 , 2 , 3$ ).The matter content in original $\mathbf { 4 } \oplus \mathbf { \overline { { 4 } } }$ of $S U ( 4 ) _ { W }$ transforms in ${ \mathbf { 4 } } \oplus { \mathbf { 4 } }$ in $S O ( 4 )$ . The parity of the states are
+
+$$
+\lambda _ { 4 \oplus 4 } = { \left( \begin{array} { l l } { { 0 } } & { { { \bf 1 } _ { 4 } } } \\ { { { \bf 1 } _ { 4 } } } & { { 0 } } \end{array} \right) } \ .
+$$
+
+After diagonalization，we obtain the eigenvalues $\pm 1$ with 4 even states and 4 odd states, respectively. The corresponding eigenvectors are $( e _ { i } , \pm e _ { i } )$ with $e _ { i }$ being a unit vector in $i$ th direction. We get the parity assignment in terms of the combination (similar results for lepton sector)
+
+$$
+\left( \begin{array} { l l } { \mathbf { 1 } _ { 4 } } & { \mathbf { 1 } _ { 4 } } \\ { \mathbf { 1 } _ { 4 } } & { - \mathbf { 1 } _ { 4 } } \end{array} \right) \left( \begin{array} { l } { M _ { i } } \\ { N _ { i } } \end{array} \right) ( x _ { \mu } , - y ) \sim \left( \begin{array} { l l } { \mathbf { 1 } _ { 4 } } \\ { \mathbf { - 1 } _ { 4 } } \end{array} \right) \left( \begin{array} { l l } { \mathbf { 1 } _ { 4 } } & { \mathbf { 1 } _ { 4 } } \\ { \mathbf { 1 } _ { 4 } } & { \mathbf { - 1 } _ { 4 } } \end{array} \right) \left( \begin{array} { l } { M _ { i } } \\ { N _ { i } } \end{array} \right) ( x _ { \mu } , y ) \ .
+$$
+
+Then we can see that the combination $M _ { i } - N _ { i }$ has negative parity and is projected out. The zero mode of the combination $M _ { i } + N _ { i }$ isa $S O ( 4 )$ vector which survives the projection. We use the method similar to the Lorentz group to determine the two $S U ( 2 )$ transformations of the fermions. We denote $M _ { i } + N _ { i }$ as a $S O ( 4 )$ vector and multiply the sigma matrix $\sigma _ { i }$ （204 to get the two $S U ( 2 )$ indices $\alpha , \dot { \beta }$ ：
+
+$$
+( M + N ) _ { i } \sigma _ { \alpha \dot { \beta } } ^ { i } = \left( \begin{array} { c } { { M _ { 0 } + M _ { 3 } + N _ { 0 } + N _ { 3 } M _ { 1 } - i M _ { 2 } + N _ { 1 } - i N _ { 2 } } } \\ { { M _ { 1 } + i M _ { 2 } + N _ { 1 } + i N _ { 2 } M _ { 0 } + M _ { 3 } - N _ { 0 } - N _ { 3 } } } \end{array} \right) ~ .
+$$
+
+These two indices transform as two SU(2), respectively. We denote them as
+
+$$
+( M + N ) _ { i } \sigma _ { \alpha \dot { \beta } } ^ { i } \sim \left( u _ { L } \atop d _ { L } \right) _ { \alpha } \otimes ( u _ { L } ^ { c } d _ { L } ^ { c } ) _ { \dot { \beta } } .
+$$
+
+In this way we identify the zero-mode fermions as the matter content in the minimal leftright model. This identification of the matter content is different from the case in the inner automorphism breaking mechanism.
+
+The Yukawa couplings are introduced in the bulk with the bulk Higgs felds in the adjoint and symmetric 1O-dimensional representation of the $S U ( 4 ) _ { W }$ .The parity for the adjoint Higgs has a relative minus sign with respect to the gauge fields
+
+$$
+( T ^ { a } ) \Sigma ^ { a } ( x _ { \mu } , - y ) \sim - ( T ^ { a } ) ^ { * } \Sigma ^ { a } ( x _ { \mu } , y ) .
+$$
+
+The decomposition of the adjoint Higgs with respect to the two $S U ( 2 )$ is given by
+
+$$
+( P , P ^ { \prime } ) : { \bf 1 5 } ( \Sigma _ { \bf 1 } ) = ( { \bf 3 } , { \bf 1 } ) ^ { - , + } \oplus ( { \bf 1 } , { \bf 3 } ) ^ { - , + } \oplus ( { \bf 2 } , \bar { \bf 2 } ) ^ { + , + } \oplus ( \bar { \bf 2 } , { \bf 2 } ) ^ { + , + } \oplus ( { \bf 1 } , { \bf 1 } ) ^ { + , + } .
+$$
+
+In this case,an extra singlet Higgs field is preserved after projection. It can be used to break the left-right parity [19, 2O] in the remaining left-right model.
+
+Similar to the parity assignment of the bulk fermions, the parity of the symmetric Higgs felds are also non-diagonal. We must include both 1O and $\bar { \bf 1 0 }$ Higgs fields denoted respectively as $\Sigma _ { 2 } ( x _ { \mu } , y )$ and $\Sigma _ { 3 } ( x _ { \mu } , y )$
+
+$$
+\binom { \Sigma _ { 2 } } { \Sigma _ { 3 } } ( x _ { \mu } , - y ) = \left( \begin{array} { c c } { { 0 } } & { { { \bf 1 } _ { 1 0 } } } \\ { { { \bf 1 } _ { 1 0 } } } & { { 0 } } \end{array} \right) \left( \begin{array} { c } { { \Sigma _ { 2 } } } \\ { { \Sigma _ { 3 } } } \end{array} \right) ( x _ { \mu } , y ) \ .
+$$
+
+The non-diagonal matrix has eigenvalues $\pm 1$ with 10 positive and 10 negative ones. After projection，only one $S O ( 4 )$ 10-dimensional Higgs field $\Delta$ is kept. The symmetric 10- dimensional representation for $S O ( 4 )$ can be decomposed in term of $S U ( 2 ) _ { L } \times S U ( 2 ) _ { R }$ （20 as
+
+$$
+\left( P , P ^ { \prime } \right) : \Delta ( { \bf 1 0 } ) = ( { \bf 3 } , { \bf 1 } ) \oplus ( { \bf 1 } , { \bf 3 } ) \oplus ( { \bf 2 } , { \bf 2 } ) \ .
+$$
+
+The invariant Yukawa couplings in five dimensions must be symmetric under $r {  } r$ and is given by
+
+$$
+\mathcal { L } _ { 5 } = \sum _ { i , j = 1 } ^ { 3 } \left( y _ { 1 i j } M _ { i } ^ { T } C \Sigma _ { 1 } N _ { j } + y _ { 2 i j } R _ { i } ^ { T } C \Sigma _ { 1 } T _ { j } + y _ { 3 i j } T _ { i } ^ { T } C \Sigma _ { 2 } T _ { j } + y _ { 3 i j } R _ { i } ^ { T } C \Sigma _ { 3 } R _ { j } \right) .
+$$
+
+The invariance under $P$ transformation requires the Yukawa coupling of the 1O-dimensional Higgs to be identical. The low energy effective theory (with zero mode of Higgs and fermion KK modes) of the Yukawa coupling part is similar to the inner automorphism breaking scenario except that there is an additional contribution of bi-doublet coupling from the symmetric Higgs fields given by
+
+$$
+\begin{array} { r } {  { \boldsymbol { \mathrm { \Sigma } } } ^ { ( 4 ) } = \displaystyle \sum _ { i , j } y _ { 1 i j } ^ { ( 4 ) } Q _ { i } ^ { T } C \Sigma _ { 2 2 } ^ { ( 4 ) } Q _ { j } ^ { c } + \displaystyle \sum _ { i , j } y _ { 2 i j } ^ { ( 4 ) } L _ { i } ^ { T } C \Sigma _ { 2 2 } ^ { ( 4 ) } L _ { j } ^ { c } + \displaystyle \sum _ { i j } y _ { 3 i j } Q _ { i } ^ { T } C S Q _ { j } ^ { c } + \displaystyle \sum _ { i j } y _ { 4 i j } L _ { i } ^ { T } C S L _ { j } ^ { c } } \\ { + \displaystyle \sum _ { i , j } y _ { 5 i j } ^ { ( 4 ) } L _ { i } ^ { T } C \Sigma _ { 3 1 } ^ { ( 4 ) } L _ { j } + \displaystyle \sum _ { i , j } y _ { 5 i j } ^ { ( 4 ) } ( L _ { i } ^ { c } ) ^ { T } C \Sigma _ { 1 3 } ^ { ( 4 ) } L _ { j } ^ { c } + \displaystyle \sum _ { i , j } y _ { 5 i j } ^ { ( 4 ) } L _ { i } ^ { T } C \Sigma _ { 2 2 } ^ { ( 4 ) } L _ { j } ^ { c } . \qquad ( 2 . 7 3 ) } \end{array}
+$$
+
+When we introduce the fermions on the $O ^ { \prime }$ brane and the Higgs fields in the bulk,we need to specify the transformation law for the fermions to get $S U ( 4 ) _ { W }$ invariant interactions. The transformation of fermions under parity $P$ is non-trivial and we cannot assign diagonal parity matrix for the fermions as in the inner automorphism case. The parity assignment for the fermions is similar as for the bulk fermions. The parity for the fermions (same for the lepton sector） is given by
+
+$$
+\left( \begin{array} { c } { { M _ { i } } } \\ { { N _ { i } } } \end{array} \right) ( x _ { \mu } , - \frac { \pi R } { 2 } ) = \pm \left( \begin{array} { c c } { { 0 } } & { { { \bf 1 } _ { 4 } } } \\ { { { \bf 1 } _ { 4 } } } & { { 0 } } \end{array} \right) \left( \begin{array} { c } { { M _ { i } } } \\ { { N _ { i } } } \end{array} \right) ( x _ { \mu } , \frac { \pi R } { 2 } ) \ .
+$$
+
+So the Yukawa coupling with the adjoint and symmetric Higgs fields reads
+
+$$
+\begin{array} { l } { { \mathcal { L } _ { 5 } = \displaystyle ( \delta ( y - \pi R / 2 ) + \delta ( y + \pi R / 2 ) ) \sum _ { i , j } ( y _ { 1 i j } ^ { f } M _ { i } ^ { T } C \Sigma _ { 1 } N _ { j } + y _ { 2 i j } ^ { f } R _ { i } ^ { T } C \Sigma _ { 2 } T _ { j } ) \nonumber } } \\ { { \displaystyle ~ + ( \delta ( y - \pi R / 2 ) + \delta ( y + \pi R / 2 ) ) \sum _ { i , j } ( y _ { 3 i j } ^ { f } R _ { i } ^ { T } C \Sigma _ { 2 } R _ { j } + y _ { 3 i j } ^ { f } T _ { i } ^ { T } C \Sigma _ { 3 } T _ { j } ) ~ . } } \end{array}
+$$
+
+Here the parity of the bulk Higgs is identical to the previous bulk fermions.The Yukawa couplings to give the Majorana masses for the neutrinos are the same for left and right parts because of the previous reflection type transformation requirement. The low energy effective theory with zero mode of the Higgs fields is same as in the bulk cases.
+
+We can also locate the fermions on the brane $O$ . The gauge symmetry is preserved to be $S U ( 2 ) _ { L } \times S U ( 2 ) _ { R }$ on this brane. In this case, the spectrum can be similar to the minimal left-right model but with the virtue of gauge symmetry unification. It avoids the problem of heavy-light Higgs splitting but does not have fermion and Higgs unification.
+
+The anomaly cancelation in outer automorphism orbifold broken case is different to the case of inner automorphism broken. The $U ( 1 ) _ { Z }$ appears in previous section is no longer present in the four dimensional low energy effective theory.
+
+The advantage of outer automorphism orbifold broken is most obvious in $S ^ { 1 } / Z _ { 2 }$ orbifolding case(or similar case for $P = P ^ { \prime } = ( + , + , - , - )$ in $S ^ { 1 } / ( Z _ { 2 } \times Z _ { 2 } )$ orbifolding )． In this case,no localized anomalies related to broken generators of $S U ( 4 ) _ { W }$ appear in the 5D vector current.At the same time，because of the eliminated $U ( 1 ) _ { Z }$ ,the four dimensional anomalies related to $S U ( 2 ) _ { L }$ and $S U ( 2 ) _ { R }$ vanish.Thus the theory is non-anomalous. We can see that the employment of the rank-reducing outer automorphism orbifolding symmetry breaking mechanism can eliminate the anomalous $U ( 1 ) _ { Z }$ ，and thus the theory is free from the Chern-Simons terms and new localized fermions.
+
+In most general case ( $P \neq P ^ { \prime }$ of $S ^ { 1 } / ( Z _ { 2 } \times Z _ { 2 } )$ orbifolding with outer automorphism broken mechanism, the localized anomaly in general can not be eliminated automatically. The form of the anomaly in our case can be written:
+
+$$
+\begin{array} { l } { { ( D _ { M } J ^ { M } ) ^ { a } ( x _ { \mu } , y ) = \delta ( y ) \left[ Q ^ { a } ( X ) + Q ^ { a } ( A ) \right] } } \\ { { ( D _ { M } J ^ { M } ) ^ { i } ( x _ { \mu } , y ) = \delta ( y ) \left[ Q ^ { i } ( X ) + Q ^ { i } ( A ) \right] } } \\ { { ( D _ { M } J ^ { M } ) ^ { \hat { B } } ( x _ { \mu } , y ) = \delta ( y ) \left[ Q _ { + } ^ { \hat { B } } ( A ) + Q _ { - } ^ { \hat { B } } ( A ) \right] + \delta ( y ) Q ^ { \hat { B } } ( X ) } } \\ { { ( D _ { M } J ^ { M } ) ^ { \hat { a } } ( x _ { \mu } , y ) = \delta ( y ) Q ^ { \hat { a } } ( X ) } } \end{array}
+$$
+
+here $\hat { B }$ denote the broken $U ( 1 ) _ { Z }$ generator.The cancelation of the anomaly is identical to that of the inner automorphism orbifolding mechanism.
+
+We can see that due to the elimination of the extra $U ( 1 ) _ { Z }$ , it is possible for the outer automorphism broken case to be non-anomalous without the introduction of Chern-Simons term and localized fermions.
+
+# 2.4 Symmetry breaking in four dimensions via Higgs mechanism
+
+In this section we discuss our model in four dimensions with the Higgs mechanism for symmetry breaking. This framework provides the most direct extension of the left-right model and does not have the arbitrariness which appears in the orbifold projection in five dimensions.
+
+The matter content is shown in Sec. 2.1. The gauge symmetry breaking is through the Higgs mechanism. We introduce 15-dimensional adjoint representation Higgs fields $\Sigma , \Phi$ （204号 with vanishing $U ( 1 ) _ { B - L }$ charge, 10-dimensional symmetric Higgs field $\Delta$ with $U ( 1 ) _ { B - L }$ （20 charge 2 and gauge singlet $S$ . The Higgs potential is given by
+
+$$
+V ( \Sigma _ { i } ^ { j } , \Phi _ { m } ^ { n } , \Delta _ { k , l } , S ) = V _ { \Sigma } + V _ { \Phi } + V _ { \Delta } + V _ { S } + V _ { c r o s s } \ ,
+$$
+
+where
+
+$$
+\begin{array} { l } { { V ( \Sigma ) = - m _ { 1 } ^ { 2 } T r ( \Sigma ^ { 2 } ) + \lambda _ { 1 } [ T r ( \Sigma ^ { 2 } ) ] ^ { 2 } + \lambda _ { 2 } T r ( \Sigma ^ { 4 } ) \ , } } \\ { { V ( \Phi ) = - m _ { 2 } ^ { 2 } T r ( \Phi ^ { 2 } ) + \lambda _ { 3 } [ T r ( \Phi ^ { 2 } ) ] ^ { 2 } + \lambda _ { 4 } T r ( \Phi ^ { 4 } ) \ , } } \\ { { V ( \Delta ) = - m _ { 3 } ^ { 2 } T r ( \Delta ^ { \dagger } \Delta ) + \lambda _ { 5 } [ T r ( \Delta ^ { \dagger } \Delta ) ] ^ { 2 } + \lambda _ { 6 } T r ( \Delta ^ { \dagger } \Delta \Delta ^ { \dagger } \Delta ) \ , } } \\ { { V ( S ) = - m _ { 4 } ^ { 2 } ( S ^ { \dagger } S ) + \lambda _ { 7 } ( S ^ { \dagger } S ) ^ { 2 } \ , \ } } \\ { { V _ { c r o s s } = \chi _ { 1 } ( \Delta ^ { \dagger } \Delta ) T r ( \Sigma ^ { 2 } ) + \chi _ { 2 } ( \Delta ^ { \dagger } \Delta ) T r ( \Phi ^ { 2 } ) + \chi _ { 3 } ( S ^ { \dagger } S ) T r ( \Sigma \Sigma ) \ } } \\ { { \quad \quad \quad + \chi _ { 4 } ( S ^ { \dagger } S ) T r ( \Phi \Phi ) + \chi _ { 5 } ( S ^ { \dagger } S ) ( \Delta ^ { \dagger } \Delta ) + \chi _ { 6 } T r ( \Sigma ^ { 2 } \Phi ^ { 2 } ) + \chi _ { 7 } ( \Phi \Sigma \Phi \Sigma ) \ . } } \end{array}
+$$
+
+Here we impose a discrete symmetry as $\Phi  - \Phi$ to eliminate various cubic terms of Higgs fields. The charge assignment for the adjoint Higgs $\Phi , \Sigma$ and the symmetric tensor Higgs field $\Delta$ reads
+
+$$
+Q ( \Phi ) = \left( \begin{array} { c c c } { { 0 } } & { { 1 } } & { { 0 } } & { { 1 } } \\ { { - 1 } } & { { 0 } } & { { - 1 } } & { { 0 } } \\ { { 0 } } & { { 1 } } & { { 0 } } & { { 1 } } \\ { { - 1 } } & { { 0 } } & { { - 1 } } & { { 0 } } \end{array} \right) , Q ( \Delta ) = \left( \begin{array} { c c c } { { 0 } } & { { - 1 } } & { { 0 } } & { { - 1 } } \\ { { - 1 } } & { { - 2 } } & { { - 1 } } & { { - 2 } } \\ { { 0 } } & { { - 1 } } & { { 0 } } & { { - 1 } } \\ { { - 1 } } & { { - 2 } } & { { - 1 } } & { { - 2 } } \end{array} \right) .
+$$
+
+The first step of symmetry breaking from $S U ( 4 ) _ { W } \times U ( 1 ) _ { B - L } \to S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times$ $U ( 1 ) _ { B - L } \times U ( 1 ) _ { Z }$ is accomplished by the Higgs field $\Phi$ . We can find values of non-zero $< \Phi >$ from minimizing the Higgs potential [21]. The minimum of the potential $V _ { \Phi }$ can be written as
+
+$$
+< \Phi > = v \left( \begin{array} { l } { { 1 } } \\ { { 1 } } \\ { { 1 } } \\ { { - 1 } } \\ { { - 1 } } \end{array} \right) ,
+$$
+
+with
+
+$$
+v ^ { 2 } = \frac { m _ { 1 } ^ { 2 } } { 8 \lambda _ { 1 } + \lambda _ { 2 } } .
+$$
+
+We can parameterize $\Phi$ as
+
+$$
+\begin{array} { l } { { \Phi - < \Phi > = \left( \begin{array} { l l } { { [ H _ { 3 } ] _ { j } ^ { i } } } & { { H _ { j } ^ { i } } } \\ { { ( H ^ { \dagger } ) _ { j } ^ { i } } } & { { [ H _ { 3 } ] _ { j } ^ { i } } } \end{array} \right) , } } \\ { { < \Phi > _ { i } ^ { j } = y _ { i } \delta _ { i } ^ { j } . } } \end{array}
+$$
+
+The kinetic term for the adjoint Higgs fields $\Phi$ reads
+
+$$
+D _ { \mu } \Phi = \partial _ { \mu } \Phi + i g _ { 4 } ( A _ { \mu } \Phi - \Phi A _ { \mu } ) = \partial _ { \mu } \Phi + i g _ { 4 } ( T ^ { a } \Phi - \Phi T ^ { a } ) A _ { \mu } ^ { a } .
+$$
+
+After symmetry breaking, the mass term of gauge bosons reads
+
+$$
+\begin{array} { r l } & { [ A _ { \mu } , < \Phi > ] = ( A _ { \mu } ) _ { i } ^ { j } < \Phi > _ { j } ^ { k } - < \Phi > _ { i } ^ { j } ( A _ { \mu } ) _ { j } ^ { k } = ( A _ { \mu } ) _ { i } ^ { k } ( y _ { k } - y _ { i } ) , } \\ & { g _ { 4 } ^ { 2 } T r \{ [ A _ { \mu } , < \Phi > ] ^ { \dagger } [ A ^ { \mu } , < \Phi > ] \} = g _ { 4 } ^ { 2 } \displaystyle \sum _ { i , j } \{ ( A _ { \mu } ) _ { j } ^ { i } \} ^ { * } ( A ^ { \mu } ) _ { j } ^ { i } ( y _ { j } - y _ { i } ) ^ { 2 } . } \end{array}
+$$
+
+The gauge fields components are identified as
+
+$$
+\begin{array} { l } { { ( A _ { \mu } ) = \displaystyle \frac { 1 } { 2 } ( \frac { ( A _ { \mu } ) ^ { L } + \frac { \sqrt { 2 } } { 2 } B _ { \mu } ^ { Z } } { \sqrt { 2 } ( A _ { \mu } ^ { H } ) ^ { \dagger } } ( \frac { \sqrt { 2 } A _ { \mu } ^ { H } } { \sqrt { 2 } }   } } \\ { {   ( A _ { \mu } ) ^ { L } = ( \frac { ( A _ { \mu } ^ { 0 } ) ^ { L } } { \sqrt { 2 } ( A _ { \mu } ^ { - } ) ^ { L } } - \frac { \sqrt { 2 } } { ( A _ { \mu } ^ { 0 } ) ^ { L } } ) ,  \nonumber } } \\ { {  ( A _ { \mu } ) ^ { R } = ( \frac { ( A _ { \mu } ^ { 0 } ) ^ { R } } { \sqrt { 2 } ( A _ { \mu } ^ { 0 } ) ^ { R } } - \frac { \sqrt { 2 } ( A _ { \mu } ^ { 0 } ) ^ { L } } { \sqrt { 2 } ( A _ { \mu } ^ { 0 } ) ^ { R } } ) ,  \nonumber } } \\ { {  ( A _ { \mu } ) ^ { R } = ( \frac { ( A _ { \mu } ^ { 0 } ) ^ { R } } { \sqrt { 2 } ( A _ { \mu } ^ { 0 } ) ^ { R } } - \frac { \sqrt { 2 } ( A _ { \mu } ^ { 0 } ) ^ { R } } { ( - A _ { \mu } ^ { 0 } ) ^ { R } } ) ,  } } \\ { {  ( A _ { \mu } ) ^ { H } = ( \frac { ( X _ { \mu } ^ { 0 } ) ^ { T } } { X _ { \mu } ^ { 0 } } + \frac { \sqrt { 2 } ( A _ { \mu } ^ { 0 } ) ^ { R } } { \gamma _ { \mu } ^ { + } } ) , } } \end{array}
+$$
+
+where $( A _ { \mu } ) _ { L }$ is in the $S U ( 2 ) _ { L }$ adjoint representations $( \mathbf { 3 } , \mathbf { 1 } )$ ， $( A _ { \mu } ) _ { R }$ is in the $S U ( 2 ) _ { R }$ adjoint representation $( \mathbf { 1 } , \mathbf { 3 } )$ ，and $( A _ { \mu } ) ^ { H }$ is the bi-doublet of $S U ( 2 ) _ { L }$ fundamental representation and $S U ( 2 ) _ { R }$ anti-fundamental representation $( 2 , 2 )$ ：
+
+As $\langle \Phi \rangle$ preserves $S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times U ( 1 ) _ { Z }$ , the massive gauge bosons have the mass
+
+$$
+M _ { X } ^ { 2 } = M _ { Y } ^ { 2 } = g _ { 4 } ^ { 2 } v ^ { 2 } .
+$$
+
+After the first step of symmetry breaking, we can integrate out the heavy Higgs modes to induce symmetry breaking in the second step
+
+$$
+\langle \Delta \rangle = \left( \begin{array} { c c c c c } { { 0 } } & { { } } & { { } } & { { } } & { { } } \\ { { 0 } } & { { } } & { { } } & { { } } \\ { { } } & { { } } & { { v _ { S } } } & { { } } \\ { { } } & { { } } & { { } } & { { 0 } } \end{array} \right) .
+$$
+
+It can be easily seen that the gauge groups $S U ( 2 ) _ { R }$ ， $U ( 1 ) _ { B - L }$ and $U ( 1 ) _ { Z }$ are broken by such vevs. The kinetic terms for the adjoint and symmetric Higgs fields $\Sigma , \Delta$ read
+
+$$
+{ \mathcal { L } } _ { k } = T r \left[ ( D _ { \mu } \Sigma ) ^ { \dagger } ( D ^ { \mu } \Sigma ) \right] + T r \left[ ( D _ { \mu } \Delta ^ { \dagger } ) ( D ^ { \mu } \Delta ) \right] ,
+$$
+
+where
+
+$$
+\begin{array} { l } { { { \cal D } _ { \mu } \Sigma = \partial _ { \mu } \Sigma + i g _ { 4 } [ A _ { \mu } , \Sigma ] , } } \\ { { { \cal D } _ { \mu } \Delta = \partial _ { \mu } \Delta - i g _ { 4 } A _ { \mu } \Delta - i g _ { 4 } \Delta A _ { \mu } + i \displaystyle \frac 1 2 Y _ { X } g _ { X } A _ { \mu } ^ { X } \Delta . } } \end{array}
+$$
+
+Now we get the contributions to the gauge boson masses given by
+
+$$
+\begin{array} { c c } { { g _ { 4 } A _ { \mu } \langle \Delta \rangle + g _ { 4 } \langle \Delta \rangle A _ { \mu } - g _ { X } A _ { \mu } ^ { X } \langle \Delta \rangle = } } & { { } } & { { } } \\ { { { } } } & { { { } } } & { { { } } } \\ { { { \frac { 1 } { 2 } \left( \begin{array} { c c c } { { 0 \ 0 } } & { { 0 } } & { { 0 } } \\ { { 0 \ 0 } } & { { 0 } } & { { 0 } } \\ { { 0 \ 0 \ 2 g _ { 4 } [ ( W _ { \mu } ^ { 0 } ) ^ { R } - \frac { \sqrt { 2 } } { 2 } B _ { \mu } ^ { Z } ] v _ { S } - 2 g _ { X } A _ { \mu } ^ { X } v _ { S } } } & { { \sqrt { 2 } g _ { 4 } ( W _ { \mu } ^ { + } ) ^ { R } v _ { S } } } \\ { { 0 \ 0 } } & { { \sqrt { 2 } g _ { 4 } ( W _ { \mu } ^ { - } ) ^ { R } v _ { S } } } & { { 0 } } \end{array} \right) } } } & { { . } } \end{array}
+$$
+
+Here we neglected the terms relevant to $X$ or $Y$ gauge fields since at low energy we can integrate out them by the equation of motion and get suppression by order $( v _ { i } / v ) ^ { 2 }$ which is very small. The mass terms for the gauge bosons are given by
+
+$$
+\begin{array} { l } { { { \displaystyle { \mathcal { L } } = \frac { 1 } { 4 } \Bigg \{ 4 [ ( W _ { \mu } ^ { 0 } ) ^ { R } - \frac { \sqrt { 2 } } { 2 } B _ { \mu } ^ { Z } ] ^ { 2 } g _ { 4 } ^ { 2 } v _ { S } ^ { 2 } - 4 g _ { X } g _ { 4 } v _ { S } ^ { 2 } ( 2 A _ { \mu } ^ { X } ) [ ( W _ { \mu } ^ { 0 } ) ^ { R } - \frac { \sqrt { 2 } } { 2 } B _ { \mu } ^ { Z } ] } } } \\ { { { \mathrm { } } } } \\ { { { \mathrm { } } + 4 g _ { 4 } ^ { 2 } ( W _ { \mu } ^ { - } ) ^ { R } ( W _ { \mu } ^ { + } ) ^ { R } v _ { S } ^ { 2 } + g _ { X } ^ { 2 } v _ { S } ^ { 2 } ( 2 A _ { \mu } ^ { X } ) ^ { 2 } \} ~ . } } \end{array}
+$$
+
+We know from the combination
+
+$$
+{ \bf 4 } \otimes { \bf 4 } ^ { * } = { \bf 1 5 } \oplus { \bf 1 } \ ,
+$$
+
+that the fermions can acquire masses through couplings to $S U ( 4 ) _ { W }$ adjoint and singlet Higgs fields. We can introduce $S U ( 4 ) _ { W }$ singlet Higgs field $S$ with vanishing $B - L$ charge to give fermion masses. We can express the vevs of $S$ as
+
+$$
+\langle S \rangle = \left( \begin{array} { c c c c c } { { v _ { 0 } } } & { { } } & { { } } & { { } } & { { } } \\ { { v _ { 0 } } } & { { } } & { { } } & { { } } \\ { { } } & { { v _ { 0 } } } & { { } } & { { } } \\ { { } } & { { } } & { { v _ { 0 } } } & { { } } \\ { { } } & { { } } & { { } } & { { v _ { 0 } } } \end{array} \right) \ .
+$$
+
+Now we can construct the $S U ( 4 ) _ { W }$ invariant Yukawa couplings. The Yukawa couplings including mixing between generations can be written as 2
+
+$$
+\begin{array} { r l } & { \mathcal { L } _ { y u k a w a 1 } = \displaystyle \sum _ { a b } y _ { 1 a b } ^ { f } ( Y _ { L } ) _ { i a } ^ { T } C \Sigma _ { j } ^ { i } ( X _ { L } ) _ { b } ^ { j } + \displaystyle \sum _ { a b } y _ { 2 a b } ^ { f } ( E _ { L } ) _ { i a } ^ { T } C \Sigma _ { j } ^ { i } ( L _ { L } ) _ { b } ^ { j } } \\ & { \qquad + \displaystyle \sum _ { a b } y _ { 3 } ^ { f } ( Y _ { L } ) _ { i a } ^ { T } C ( X _ { L } ) _ { b } ^ { i } S + \displaystyle \sum _ { a b } y _ { 4 } ^ { f } ( E _ { L } ) _ { i a } ^ { T } C ( L _ { L } ) _ { b } ^ { i } S + h . c . ~ . } \end{array}
+$$
+
+The fermions acquire masses after $\Sigma$ develops vevs of the form (the imaginary part in the vev can be absent to avoid spontaneously CP broken):
+
+$$
+\langle \Sigma \rangle = \left( \begin{array} { c c c c } { { v _ { 5 } } } & { { v _ { 1 } - i v _ { 2 } } } & { { 0 } } \\ { { 0 } } & { { v _ { 6 } } } & { { v _ { 3 } - i v _ { 4 } } } \\ { { v _ { 1 } + i v _ { 2 } } } & { { 0 } } & { { - v _ { 5 } } } & { { 0 } } \\ { { 0 } } & { { v _ { 3 } + i v _ { 4 } } } & { { 0 } } & { { - v _ { 6 } } } \end{array} \right) ~ .
+$$
+
+The vev of $\Sigma$ breaks the symmetry completely into $U ( 1 ) _ { Q }$ . The corresponding masses for various gauge bosons can be obtained from such vevs. From $\langle \Sigma \rangle$ in the above equation and $A _ { \mu }$ in the form of
+
+$$
+A _ { \mu } = \frac { 1 } { 2 } \left( \begin{array} { c c c c } { { ( W _ { \mu } ^ { 0 } ) ^ { L } + \frac { \sqrt { 2 } } { 2 } B _ { \mu } ^ { Z } } } & { { \sqrt { 2 } ( W _ { \mu } ^ { + } ) ^ { L } } } & { { \sqrt { 2 } X _ { \mu } ^ { + } } } & { { \sqrt { 2 } Y _ { \mu } ^ { + + } } } \\ { { \sqrt { 2 } ( W _ { \mu } ^ { - } ) ^ { L } } } & { { - ( W _ { \mu } ^ { 0 } ) ^ { L } + \frac { \sqrt { 2 } } { 2 } B _ { \mu } ^ { Z } } } & { { \sqrt { 2 } \bar { X } _ { \mu } ^ { 0 } } } & { { \sqrt { 2 } Y _ { \mu } ^ { + } } } \\ { { \sqrt { 2 } X _ { \mu } ^ { - } } } & { { \sqrt { 2 } \bar { X } _ { \mu } ^ { 0 } } } & { { ( W _ { \mu } ^ { 0 } ) ^ { R } - \frac { \sqrt { 2 } } { 2 } B _ { \mu } ^ { Z } } } & { { \sqrt { 2 } ( W _ { \mu } ^ { + } ) ^ { R } } } \\ { { \sqrt { 2 } Y _ { \mu } ^ { -- } } } & { { \sqrt { 2 } X _ { \mu } ^ { - } } } & { { \sqrt { 2 } ( W _ { \mu } ^ { - } ) ^ { R } } } & { { - ( W _ { \mu } ^ { 0 } ) ^ { R } - \frac { \sqrt { 2 } } { 2 } B _ { \mu } ^ { Z } } } \end{array} \right) \ ,
+$$
+
+we can obatin $A _ { \mu } \langle \Sigma \rangle - \langle \Sigma \rangle A _ { \mu }$ . Then we get the mass terms for the gauge bosons:
+
+$$
+\begin{array} { l } { { \Delta \mathcal { L } = \displaystyle \frac { 1 } { 2 } g _ { 4 } ^ { 2 } \left\{ \begin{array} { l l } { { ( v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } + v _ { 3 } ^ { 2 } + v _ { 4 } ^ { 2 } ) \left( [ ( W _ { \mu } ^ { 0 } ) ^ { L } ] ^ { 2 } + [ ( W _ { \mu } ^ { 0 } ) ^ { R } ] ^ { 2 } \right) } } \end{array} \right. } } \\ { { \displaystyle \qquad + 2 [ v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } + v _ { 3 } ^ { 2 } + v _ { 4 } ^ { 2 } + ( v _ { 5 } - v _ { 6 } ) ^ { 2 } ] \left[ ( W _ { \mu } ^ { + } ) ^ { L } ( W _ { \mu } ^ { - } ) ^ { L } + ( W _ { \mu } ^ { + } ) ^ { R } ( W _ { \mu } ^ { - } ) ^ { R } \right] } } \\ { { \displaystyle \qquad - 2 \left( 2 ( v _ { 1 } + i v _ { 2 } ) ( v _ { 3 } - i v _ { 4 } ) ( W _ { \mu } ^ { + } ) ^ { L } ( W _ { \mu } ^ { - } ) ^ { R } + h . c . \right) } } \\ { { \displaystyle \qquad + 4 ( v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } + v _ { 3 } ^ { 2 } + v _ { 4 } ^ { 2 } ) \left( ( \frac { \sqrt { 2 } } { 2 } B _ { \mu } ^ { Z } ) ^ { 2 } - \frac { 1 } { 2 } ( W _ { \mu } ^ { 0 } ) ^ { L } ( W _ { \mu } ^ { 0 } ) ^ { R } \right) } } \end{array}
+$$
+
+So we get the $W _ { L } - W _ { R }$ mixing matrix:
+
+$$
+\left( \begin{array} { c c } { { g _ { 4 } ^ { 2 } [ v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } + v _ { 3 } ^ { 2 } + v _ { 4 } ^ { 2 } + ( v _ { 5 } - v _ { 6 } ) ^ { 2 } ] } } & { { - 2 g _ { 4 } ^ { 2 } ( v _ { 1 } - i v _ { 2 } ) ( v _ { 3 } + i v _ { 4 } ) } } \\ { { - 2 g _ { 4 } ^ { 2 } ( v _ { 1 } + i v _ { 2 } ) ( v _ { 3 } - i v _ { 4 } ) } } & { { g _ { 4 } ^ { 2 } [ v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } + v _ { 3 } ^ { 2 } + v _ { 4 } ^ { 2 } + ( v _ { 5 } - v _ { 6 } ) ^ { 2 } + v _ { S } ^ { 2 } ] } } \end{array} \right) \ .
+$$
+
+The mass eigenstates for the gauge bosons are
+
+$$
+W _ { 1 } = W _ { L } \cos \zeta + W _ { R } \sin \zeta ~ , ~ W _ { 2 } = - W _ { L } \sin \zeta + W _ { R } \cos \zeta ,
+$$
+
+with masses given by
+
+$$
+\begin{array} { l } { { { \displaystyle M _ { W _ { 1 } } ^ { 2 } \simeq g _ { 4 } ^ { 2 } \frac { 4 ( v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } ) ( v _ { 3 } ^ { 2 } + v _ { 4 } ^ { 2 } ) } { v _ { S } ^ { 2 } } + g _ { 4 } ^ { 2 } [ v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } + v _ { 3 } ^ { 2 } + v _ { 4 } ^ { 2 } + ( v _ { 5 } - v _ { 6 } ) ^ { 2 } ] ~ , } } } \\ { { { \displaystyle M _ { W _ { 2 } } ^ { 2 } \simeq g _ { 4 } ^ { 2 } v _ { S } ^ { 2 } ~ , } } } \end{array}
+$$
+
+and the mixing angle $\zeta$ given by
+
+$$
+\tan 2 \zeta = \frac { 4 \sqrt { ( v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } ) ( v _ { 3 } ^ { 2 } + v _ { 4 } ^ { 2 } ) } } { v _ { S } ^ { 2 } } .
+$$
+
+The mixings between the neutral components $( ( W _ { \mu } ^ { 0 } ) ^ { L } , ( W _ { \mu } ^ { 0 } ) ^ { R } , { \textstyle \frac { \sqrt { 2 } } { 2 } } B _ { \mu } ^ { Z } , A _ { \mu } ^ { X } )$ are given by
+
+$$
+\left( \begin{array} { c c c c } { { { \frac { 1 } { 2 } g _ { 4 } ^ { 2 } V _ { 1 } ^ { 2 } } } } & { { - { \frac { 1 } { 2 } g _ { 4 } ^ { 2 } V _ { 1 } ^ { 2 } } } } & { { g _ { 4 } ^ { 2 } V _ { 2 } ^ { 2 } } } & { { 0 } } \\ { { - { \frac { 1 } { 2 } g _ { 4 } ^ { 2 } V _ { 1 } ^ { 2 } } } } & { { { \frac { 1 } { 2 } g _ { 4 } ^ { 2 } V _ { 1 } ^ { 2 } + g _ { 4 } ^ { 2 } v _ { S } ^ { 2 } } } } & { { g _ { 4 } ^ { 2 } ( V _ { 2 } ^ { 2 } + v _ { S } ^ { 2 } ) } } & { { - g _ { 4 } g _ { X } v _ { S } ^ { 2 } } } \\ { { g _ { 4 } ^ { 2 } V _ { 2 } ^ { 2 } } } & { { - g _ { 4 } ^ { 2 } ( V _ { 2 } ^ { 2 } + v _ { S } ^ { 2 } ) } } & { { 2 g _ { 4 } ^ { 2 } V _ { 1 } ^ { 2 } + g _ { 4 } ^ { 2 } v _ { S } ^ { 2 } } } & { { g _ { 4 } g _ { X } v _ { S } ^ { 2 } } } \\ { { 0 } } & { { - g _ { 4 } g _ { X } v _ { S } ^ { 2 } } } & { { g _ { 4 } g _ { X } v _ { S } ^ { 2 } } } & { { g _ { X } ^ { 2 } v _ { S } ^ { 2 } } } \end{array} \right) ,
+$$
+
+with the constants $V _ { 1 } ^ { 2 } = v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } + v _ { 3 } ^ { 2 } + v _ { 4 } ^ { 2 }$ and $V _ { 2 } ^ { 2 } = v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } - v _ { 3 } ^ { 2 } - v _ { 4 } ^ { 2 }$ . It can be seen from the mass matrix that the determinant vanishes,which indicate the existence of massless gauge boson corresponding to the photon. The eigenvector corresponding to the photon can be written as
+
+$$
+A _ { \mu } = \sqrt { 2 \left( \frac { g _ { X } } { g _ { 4 } } \right) ^ { 2 } + 1 } \left\{ \frac { g _ { X } } { g _ { 4 } } [ ( W _ { \mu } ^ { 0 } ) ^ { L } + ( W _ { \mu } ^ { 0 } ) ^ { R } ] + A _ { \mu } ^ { X } \right\} .
+$$
+
+Using the expression $\sin ^ { 2 } \theta _ { w } = g _ { X } ^ { 2 } / ( 2 g _ { X } ^ { 2 } + g _ { 4 } ^ { 2 } )$ we know that
+
+$$
+A _ { \mu } = \sin \theta _ { w } [ ( W _ { \mu } ^ { 0 } ) ^ { L } + ( W _ { \mu } ^ { 0 } ) ^ { R } ] + \sqrt { \cos 2 \theta _ { w } } A _ { \mu } ^ { X } .
+$$
+
+The eigenvectors and eigenvalues for other neutral gauge bosons are rather complicated, which can be obtained numerically. We parameterize the general mixing between neutral gauge bosons by a unitary matrix $K _ { i j }$ and the mass eigenstates are obtained by the rotation
+
+$$
+\left( \begin{array} { c } { { A _ { \mu } } } \\ { { Z _ { \mu } } } \\ { { Z _ { \mu } ^ { 1 \prime } } } \\ { { Z _ { \mu } ^ { 2 \prime } } } \end{array} \right) = \left( \begin{array} { c c c c } { { \sin \theta _ { w } \sin \theta _ { w } 0 \sqrt { \cos 2 \theta _ { w } } } } \\ { { K _ { 2 1 } } } & { { K _ { 2 2 } } } & { { K _ { 2 3 } \mathrm { ~ \small ~ \alpha ~ } K _ { 2 4 } } } \\ { { K _ { 3 1 } } } & { { K _ { 3 2 } } } & { { K _ { 3 3 } \mathrm { ~ \small ~ \alpha ~ } K _ { 3 4 } } } \\ { { K _ { 4 1 } } } & { { K _ { 4 2 } } } & { { K _ { 4 3 } \mathrm { ~ \small ~ \alpha ~ } K _ { 4 4 } } } \end{array} \right) \left( \begin{array} { c } { { ( W _ { \mu } ^ { 0 } ) _ { L } } } \\ { { ( W _ { \mu } ^ { 0 } ) _ { R } } } \\ { { \frac { \sqrt 2 } { 2 } B _ { \mu } } } \\ { { A _ { \mu } ^ { X } } } \end{array} \right) .
+$$
+
+From the VEV of the $\Sigma$ field,we can get the mass term for fermions:
+
+$$
+\begin{array} { r l } { \mathcal { L } = } & { \displaystyle \sum _ { a b } \{ y _ { a b } ^ { a } [ ( U _ { l } ) _ { b } ^ { T } C ( \nu _ { 1 } - i \nu _ { 2 } ) U _ { L a } ^ { c } + ( D _ { L } ) _ { b } ^ { T } C ( \nu _ { 3 } - i \nu _ { 4 } ) D _ { L a } ^ { c }   } \\ & {   + ( u _ { L } ^ { c } ) _ { a } ^ { T } C ( \nu _ { 1 } + i \nu _ { 2 } ) u _ { L b } + ( d _ { L } ^ { c } ) _ { a } ^ { T } C ( \nu _ { 3 } + i \nu _ { 4 } ) d _ { L b } \} } \\ & { + y _ { a } ^ { a } [ ( N _ { L } ) _ { b } ^ { T } C ( \nu _ { 1 } - i \nu _ { 2 } ) N _ { L a } ^ { c } + ( E _ { L } ) _ { b } ^ { T } C ( \nu _ { 3 } - i \nu _ { 4 } ) E _ { L a } ^ { c }   } \\ & {   + ( \nu _ { L } ^ { c } ) _ { a } ^ { T } C ( \nu _ { 1 } + i \nu _ { 2 } ) \nu _ { L b } + ( e _ { L } ^ { c } ) _ { a } ^ { T } C ( \nu _ { 3 } + i \nu _ { 4 } ) e _ { L b } ]  } \\ & { + y _ { a b } ^ { c } [ U _ { L a } ^ { c } C \nu _ { 5 } u _ { L b } - D _ { L a } ^ { c } C \nu _ { 6 } d _ { L b } - ( u _ { L } ^ { c } ) _ { a } ^ { T } C \nu _ { 5 } ( U _ { L b } ^ { c } ) _ { b } + ( d _ { L } ^ { c } ) _ { a } ^ { T } C v _ { 6 } ( D _ { L } ^ { c } ) _ { b } ] } \\ & { + y _ { a b } ^ { a } [ U _ { L a } ^ { c } C \nu _ { 5 } \nu _ { L b } - E _ { L a } ^ { c } C \nu _ { 6 } e _ { L b } - ( \nu _ { L } ^ { c } ) _ { a } ^ { T } C \nu _ { 5 } (  \begin{array} { l } { C } \\ { C _ { b } ^ { T } } \end{array} ) _ { b }   } \\ &  + y _ { a b } ^ { a } [  \begin{array} { l }  N _ { L a } ^ { T } C \nu _ { 1 } \mu _ { L b } -  \begin{array} { l } { N _ { L a } ^ { T } C \nu _ { 2 } \mu _ { L b } + ( u _ { L } ^ { c } ) _ { a } ^ { T } C \nu _ { 1 } (  \begin{array} { l } { C } \\ { N _ { L b } ^ { T } C \nu _ { 1 } \mu _ { L b } } \end{array} ) ] } \\ &  + y _  a \end{array} \end{array} \end{array}
+$$
+
+In principle,the flavor mixing can be obtained through the diagonalization of the $6 \times 6$ （204号 mass matrix. However,we know from the Yukawa interaction in the Lagrangian that the favor structure can be decomposed as the direct product of the mixings between different generations and the mixings within each generation.
+
+We first analyze the mixings within each generation. There are mixing between the standard model fermions and the mirror fermions. We can get the mass matrix for fermions
+
+before mixing in different generations
+
+$$
+\begin{array} { r l } &  \left( ( u _ { L } ^ { c } ) _ { a } U _ { L a } \right) \left( \begin{array} { c c } { y _ { a b } ^ { 1 } ( v _ { 1 } + i v _ { 2 } ) } & { y _ { a b } ^ { 3 } v _ { 0 } - y _ { a b } ^ { 1 } v _ { 5 } } \\ { y _ { a b } ^ { 3 } v _ { 0 } + y _ { a b } ^ { 1 } v _ { 5 } } & { y _ { a b } ^ { 1 } ( v _ { 1 } - i v _ { 2 } ) \end{array} \right) \left( \begin{array} { c } { u _ { L b } } \\ { ( U _ { L } ^ { c } ) _ { b } } \end{array} \right) } \\ & { \left( ( d _ { L } ^ { c } ) _ { a } D _ { L a } \right) \left( \begin{array} { c c } { y _ { a b } ^ { 1 } ( v _ { 3 } + i v _ { 4 } ) } & { - y _ { a b } ^ { 3 } v _ { 0 } + y _ { a b } ^ { 1 } v _ { 6 } } \\ { - y _ { a b } ^ { 3 } v _ { 0 } - y _ { a b } ^ { 1 } v _ { 6 } } & { y _ { a b } ^ { 1 } ( v _ { 3 } - i v _ { 4 } ) } \end{array} \right) \left( \begin{array} { c } { d _ { L b } } \\ { ( D _ { L } ^ { c } ) _ { b } } \end{array} \right) \ . } \end{array}
+$$
+
+The gauge eigenstates can be diagonalized into mass eigenstates by bi-unitary transformations up to arbitrary phases
+
+$$
+U \mathcal { M } V ^ { \dagger } = \mathcal { M } _ { d } \ ,
+$$
+
+with $\mathcal { M }$ denoting the mass matrix in Eqs.(2.117) and (2.118). The mixing angles in $U$ and （20 $V$ can be determined, e.g., for the mass matrix in Eq.(2.117), the two mixing angles are given by
+
+$$
+\tan 2 \phi _ { 1 } = - \frac { \sqrt { v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } } } { v _ { 5 } } , ~ \tan 2 \phi _ { 2 } = \frac { \sqrt { v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } } } { v _ { 5 } } .
+$$
+
+Similar results can be obtained for the down type quarks. From the expressions we can see that the mixing angle is independent of $v _ { 0 }$ . The rotation matrices between gauge eigenstates and mass eigenstates before CKM mixing are denoted by $U$ for $( u _ { L a } , U _ { L a } ^ { c } )$ ， $V$ for $( u _ { L a } ^ { c } , U _ { L a } )$ ， $P$ for $( d _ { L a } , D _ { L a } ^ { c } )$ and $Q$ for $( d _ { L a } ^ { c } , D _ { L a } )$ . So we get the couplings between onegeneration fermions and the $S U ( 2 ) _ { L }$ and $S U ( 2 ) _ { R }$ gauge bosons,which in the interaction states are given by
+
+$$
+{ \mathcal { L } } = { \frac { g _ { 4 } } { 2 } } \left( { \bar { u } } _ { L } \gamma ^ { \mu } d _ { L } W _ { L \mu } ^ { + } - { \bar { U } } _ { L } ^ { e } \gamma ^ { \mu } D _ { L } ^ { c } W _ { R \mu } ^ { + } - { \bar { U } } _ { L } \gamma ^ { \mu } D _ { L } W _ { L \mu } ^ { + } + { \bar { u } } _ { L } ^ { c } \gamma ^ { \mu } d _ { L } ^ { c } W _ { R \mu } ^ { + } \right) + h . c . \ ,
+$$
+
+and in the mass eigenstates are given by
+
+$$
+\begin{array} { r l } { \mathcal { L } = \frac { g _ { 4 } } { 2 } \{ ( W _ { 1 \mu } ^ { - } \cos \zeta - W _ { 2 \mu } \sin \zeta ) [ U _ { 1 1 } ( P _ { 1 1 } ^ { \dagger } \bar { u } _ { L } \gamma ^ { \mu } d _ { L } + P _ { 1 2 } ^ { \dagger } \bar { u } _ { L } \gamma ^ { \mu } D _ { L } ^ { c } )   } & { } \\ & {   + U _ { 2 1 } ( P _ { 1 1 } ^ { \dagger } \bar { U } _ { L } ^ { c } \gamma ^ { \mu } d _ { L } + P _ { 1 2 } ^ { \dagger } \bar { U } _ { L } ^ { c } \gamma ^ { \mu } D _ { L } ^ { c } ) + V _ { 1 2 } ( Q _ { 2 1 } ^ { \dagger } \bar { u } _ { L } ^ { c } \gamma ^ { \mu } d _ { L } ^ { c }   } \\ & {   + Q _ { 2 2 } ^ { \dagger } \bar { u } _ { L } ^ { c } \gamma ^ { \mu } D _ { L } ) + V _ { 2 2 } ( Q _ { 2 1 } ^ { \dagger } \bar { U } _ { L } \gamma ^ { \mu } d _ { L } ^ { c } + Q _ { 2 2 } ^ { \dagger } \bar { U } _ { L } \gamma ^ { \mu } D _ { L } ) ]  } \\ & {  + ( W _ { 1 \mu } ^ { + } \sin \zeta - W _ { 2 \mu } \cos \zeta ) [ U _ { 1 2 } ( P _ { 2 1 } ^ { \dagger } \bar { u } _ { L } \gamma ^ { \mu } d _ { L } + P _ { 2 2 } ^ { \dagger } \bar { u } _ { L } \gamma ^ { \mu } D _ { L } ^ { c } )   } \\ & {   + U _ { 2 2 } ( P _ { 2 1 } ^ { \dagger } \bar { U } _ { L } ^ { c } \gamma ^ { \mu } d _ { L } + P _ { 2 2 } ^ { \dagger } \bar { U } _ { L } ^ { c } \gamma ^ { \mu } D _ { L } ^ { c } ) + V _ { 1 1 } ( Q _ { 1 1 } ^ { \dagger } \bar { u } _ { L } ^ { c } \gamma ^ { \mu } d _ { L } ^ { c }   } \\ & {   + Q _ { 1 2 } ^ { \dagger } \bar { u } _ { L } ^ { c } \gamma ^ { \mu } D _ { L } ) + V _ { 2 1 } ( Q _ { 1 1 } ^ { \dagger } \bar { U } _ { L } \gamma ^ { \mu } d _ { L } ^ { c } + Q _ { 1 2 } ^ { \dagger } U _ { L } \gamma ^ { \mu } D _ { L } ) \} \ . } \end{array}
+$$
+
+Here it can be seen that there are additional mixing coefficients besides CKM mixing matrix between diferent generations. It is a unique feature of this model in contrast to the minimal left-right model. To be consistent with various experiments, we require the mixing angle is small which indicates that $v _ { 1 } , v _ { 2 } { \ll } v _ { 5 }$ and $v _ { 3 } , v _ { 4 } { \ll } v _ { 6 }$ . The neutral currents are also interesting due to the mixing between the SM fermions and the new mirror fermions.
+
+For vector type couplings, the couplings of the mass eigenstates take the same form as the interaction states due to the unitarity of the mixing matrix,which are given by
+
+$$
+{ \mathcal { L } } _ { N C } ^ { \mathrm { v e c t o r } } = \frac { 2 } { 3 } e \left[ \bar { u _ { L } } \gamma _ { \mu } u _ { L } A _ { \mu } + \bar { U _ { L } ^ { c } } \gamma _ { \mu } U _ { L } ^ { c } A _ { \mu } - \bar { U _ { L } } \gamma _ { \mu } U _ { L } A _ { \mu } - \bar { u _ { L } ^ { c } } \gamma _ { \mu } u _ { L } ^ { c } A _ { \mu } \right] ~ .
+$$
+
+Forthechiralcouplings,uetothdiferentmixigbtwen $W _ { L \mu } ^ { 0 }$ and $W _ { R \mu } ^ { 0 }$ ,the couplings are different for the mass eigenstate and the interaction states,which in the interaction states are given by
+
+$$
+{ \mathcal L } _ { N C } ^ { \mathrm { c h i r a l } } = \frac { g _ { 4 } } { 2 } \left[ \bar { u _ { L } } \gamma _ { \mu } u _ { L } W _ { L \mu } ^ { 0 } + \bar { U _ { L } ^ { c } } \gamma _ { \mu } U _ { L } ^ { c } W _ { R \mu } ^ { 0 } + \bar { u _ { L } ^ { c } } \gamma _ { \mu } u _ { L } ^ { c } W _ { R \mu } ^ { 0 } + \bar { U _ { L } } \gamma _ { \mu } U _ { L } W _ { L \mu } ^ { 0 } \right] ,
+$$
+
+and in the mass eigenstates are given by
+
+$$
+\begin{array} { l } { { \mathcal { L } _ { N C } ^ { \mathrm { c h i r a l } } = \frac { g _ { 4 } } { 2 } \left[ U _ { 1 1 } U _ { 1 1 } ^ { \dagger } \bar { u } _ { L } \gamma _ { \mu } u _ { L } + U _ { 2 1 } U _ { 1 1 } ^ { \dagger } \bar { U } _ { L } ^ { c } \gamma _ { \mu } u _ { L } + U _ { 1 1 } U _ { 1 2 } ^ { \dagger } \bar { u } _ { L } \gamma _ { \mu } U _ { L } ^ { c } \right. } } \\ { { \displaystyle \left. + U _ { 2 1 } U _ { 1 2 } ^ { \dagger } \bar { U } _ { L } ^ { c } \gamma _ { \mu } U _ { L } ^ { c } + V _ { 1 2 } V _ { 2 1 } ^ { \dagger } \bar { u } _ { L } ^ { c } \gamma _ { \mu } u _ { L } ^ { c } + V _ { 2 2 } V _ { 2 1 } ^ { \dagger } \bar { U } _ { L } \gamma _ { \mu } u _ { L } ^ { c } \right. } } \\ { { \displaystyle \left. + V _ { 1 2 } V _ { 2 2 } ^ { \dagger } \bar { u } _ { L } ^ { c } \gamma _ { \mu } U _ { L } + V _ { 2 2 } V _ { 2 2 } ^ { \dagger } \bar { U } _ { L } \gamma _ { \mu } U _ { L } \right] K _ { 1 j } ^ { \dagger } Z _ { \mu } ^ { j } + \cdots ~ . } } \end{array}
+$$
+
+From $K _ { 1 1 } ^ { \dagger } = K _ { 2 1 } ^ { \dagger } = \sin \theta _ { w }$ we see that the couplings of the photon can be obtained correctly. From the Lagrangian we can see that the flavor-changing neutral current (FCNC) is nonvanishing.
+
+To simplify the discussion on the fermion masses and mixings,we take two special limits to illustrate the results:
+
+(1) $v _ { 0 } = v _ { 5 } = v _ { 6 } = 0$ : In this case, the standard model fermions have degenerate masses with the new mirror fermions and the mass matrix is diagonal which corresponds to no mixing between the fermions. The degenerate mass parameter is generic in grand unification models. We know that such tree-level relations are hold at the unification scale. We may anticipate that the degeneracy of fermion masses is spoiled by the renormalization group running. From the renormalization group equation of the mass parameter (with only contributions from the gauge parts taken into account)
+
+$$
+\frac { d \ln m ( \mu ) } { d \ln \mu } = \sum _ { i } b _ { m } ^ { i } g _ { i } ^ { 2 } ( \mu ) ,
+$$
+
+where
+
+$$
+b _ { m } ^ { i } = - { \frac { 3 } { 8 \pi ^ { 2 } } } \sum _ { a } ( T ^ { a } T ^ { a } ) _ { j k } \ ,
+$$
+
+with $T ^ { a }$ being the representation matrices appropriate for the fermions ’, we can get the relation
+
+$$
+\frac { m ( \mu ) } { m ( \mu _ { 0 } ) } = \prod _ { i } \left( \frac { g _ { i } ( \mu ) } { g _ { i } ( \mu _ { 0 } ) } \right) ^ { - \frac { b _ { m } ^ { i } } { b _ { i } } } .
+$$
+
+Here $b _ { i }$ is the beta function for the gauge coupling. We know that the $S U ( 2 )$ gauge bosons do not contribute to the fermion mass because the right-handed (left-handed) fermions are gauge singlet under $S U ( 2 ) _ { L }$ （ $S U ( 2 ) _ { R } )$ . Then the mass degeneracy of （20 $u , U ^ { c }$ is not spoiled even when the RG running is taken into account. So this scenario is not acceptable to describe our world.
+
+(2) $v _ { 1 } = v _ { 2 } = v _ { 3 } = v _ { 4 } = 0$ : In this case, the standard model fermions acquire different masses in contrast to new mirror fermions. The mass matrix in the fermion mass term $( u _ { L } , U _ { L } ^ { c } ) \mathcal { M } ( u _ { L } ^ { c } , U _ { L } ) ^ { T }$ is given by
+
+$$
+\mathcal { M } = \left( \begin{array} { c c c c } { { 0 } } & { { y _ { 3 } v _ { 0 } - y _ { 1 } v _ { 5 } } } \\ { { y _ { 3 } v _ { 0 } + y _ { 1 } v _ { 5 } } } & { { 0 } } \end{array} \right) ,
+$$
+
+which is diagonalized by the rotations $( u _ { L } , U _ { L } ^ { c } ) ^ { T }  U ( u _ { L } , U _ { L } ^ { c } ) ^ { T }$ and $( u _ { L } ^ { c } , U _ { L } ) ^ { T } \to$ $V ( u _ { L } ^ { c } , U _ { L } ) ^ { T }$ with $U$ and $V$ given by
+
+$$
+U = \left( \begin{array} { c c } { { 1 } } & { { 0 } } \\ { { 0 } } & { { 1 } } \end{array} \right) , \quad V = \left( \begin{array} { c c } { { 0 } } & { { 1 } } \\ { { 1 } } & { { 0 } } \end{array} \right) .
+$$
+
+Then we can get mass eigenstates with masses
+
+$$
+m _ { 1 } ^ { 2 } = ( y _ { 3 } v _ { 0 } - y _ { 1 } v _ { 5 } ) ^ { 2 } , m _ { 2 } ^ { 2 } = ( y _ { 3 } v _ { 0 } + y _ { 1 } v _ { 5 } ) ^ { 2 } .
+$$
+
+However, in this case the mass eigenstates of the fermions are of vector type (for example, the $S U ( 2 ) _ { L }$ is vector-like） instead of chiral type and thus it cannot explain our world with chiral fermions.
+
+Going beyond these special limits, the most general parameters can give non-degeneracy masses for the standard model fermions and the new mirror fermions while at the same time the theory is of chiral type.
+
+Our previous discussons on the flavor structure concentrate mainly on the mixing within each generation. As mentioned earlier, the flavor structure can be decomposed as the direct product of the mixings between different generations and the mixings within each generations. The low energy CKM mixing can be obtained by diagonalize the mass matrix $\mathcal { M } _ { a b } ^ { u }$ and $\mathcal { M } _ { a b } ^ { d }$ . We can seefrom equation (2.117) that the presence of the VEV of the singlet Higgs $S$ is necessary. Otherwise, if $v _ { 0 } = 0$ , there will be no CKM type mixing in the charged currents. Note that from the coupling of the fermions with charged gauge bosons we see that the low energy CKM matrix is not unitary.
+
+An interesting possibility occurs when the standard model fermions are massless at tree level. The standard model fermions can obtain masses through loops involving heavy mirror fermions and Higgs fields etc. Therefore, we anticipate that the standard model fermions acquire much smaller masses than heavy mirror fermions. The Yukawa couplings can also induce the quark mixings and CP violation between different generations. The spontaneous breaking of the symmetric tensor Higgs field $\Delta$ in representation $( \mathbf { 1 0 } , \mathbf { 2 } )$ of $S U ( 4 ) _ { W } \times U ( 1 ) _ { B - L }$ can also give Majorana mass terms for right-handed neutrinos. The additional new $S U ( 4 ) _ { W } \times U ( 1 ) _ { B - L }$ invariant Yukawa coupling terms are given by
+
+$$
+\mathcal { L } _ { Y u k a w a } = \sum _ { f } y _ { 3 } ^ { f } ( N _ { f } ) _ { i } ^ { T } C \Delta ^ { i j } ( N _ { f } ) _ { j } + h . c . ~ .
+$$
+
+The VEV of $\Delta$ gives Majorana mass terms for the right-handed neutrinos. So we can get light Majorona neutrino masses after diagonalizing the mass matrix. In case of the
+
+tree-level massless standard model fermions, it is natural that the loop-induced Dirac mass of the neutrinos is of the same order as $m _ { e }$ . We can estimate that
+
+$$
+\begin{array} { c } { { \left( \begin{array} { c c } { { 0 } } & { { m _ { D } } } \\ { { m _ { D } } } & { { m _ { N } } } \end{array} \right) \Longrightarrow m _ { \nu } { \sim } \frac { m _ { D } ^ { 2 } } { m _ { N } } { \sim } \frac { m _ { e } ^ { 2 } } { m _ { N } } { \sim } 1 0 ^ { - 1 } \ \mathrm { e V } \ , } } \\ { { \Longrightarrow m _ { N } = y _ { 3 } ^ { f } v _ { S } { \sim } \mathcal { O } ( 1 ) \ \mathrm { T e V } \ . } } \end{array}
+$$
+
+We know that the VEV of $\Delta$ also breaks the $S U ( 2 ) _ { R }$ symmetry. From the Majorana mass scale, we can get that the typical mass scale of the $S U ( 2 ) _ { R }$ gauge boson $M _ { W _ { R } }$ to be higher than several TeV. In general cases, the mass for $M _ { W _ { R } }$ can be much heavier.
+
+It is well known that in Pati-Salam model leptons can be seen as the fourth color so that $U ( 1 ) _ { B - L }$ and $S U ( 3 ) _ { C }$ can be unifed into $S U ( 4 ) _ { P S }$ gauge group. Depending on the different symmetry breaking scales, the gauge symmetry breaking patterns have the following possibilities:
+
+(a）One possibility is
+
+$$
+\begin{array} { l } { { S U ( 4 ) _ { P S } \times S U ( 4 ) _ { W }  S U ( 3 ) _ { C } \times U ( 1 ) _ { B - L } \times S U ( 4 ) _ { W } } } \\ { {  S U ( 3 ) _ { C } \times U ( 1 ) _ { B - L } \times S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times U ( 1 ) _ { Z } } } \\ { {  S U ( 3 ) _ { C } \times U ( 1 ) _ { Q } ~ . } } \end{array}
+$$
+
+This symmetry breaking pattern is just what we have discussed.
+
+(b） The other possibility is
+
+$$
+\begin{array} { l } { { S U ( 4 ) _ { P S } \times S U ( 4 ) _ { W }  S U ( 4 ) _ { P S } \times S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times U ( 1 ) _ { Z } } } \\ { {  S U ( 3 ) _ { C } \times U ( 1 ) _ { B - L } \times S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times U ( 1 ) _ { Z } } } \\ { {  S U ( 3 ) _ { C } \times U ( 1 ) _ { Q } ~ . } } \end{array}
+$$
+
+This case is interesting because the intermediate steps contain the Pati-Salam model. It can induce new type of unification besides $S O ( 1 0 )$ . Also the representation of the matter fields can be economically written as $X , Y$ in representations $( 4 , 4 )$ and $( 4 , 4 ^ { * } )$ of $S U ( 4 ) _ { P S } { \times } S U ( 4 ) _ { W }$ respectively because the leptons can be regarded as the fourth color of quarks. In the Pati-Salam model the gauge coupling $g _ { 2 L } = g _ { 2 R }$ is fixed by a discrete symmetry which otherwise holds only in the unification scale when the gauge groups fit into $S O ( 1 0 )$ . In our $S U ( 4 ) _ { W } \times U ( 1 ) _ { B - L }$ unification theory, such identical gauge strength is the consequence of the relatively low energy gauge unification.
+
+Our model is anomaly free. We can check that different kinds of triangle anomalies cancel:
+
+For $S U ( 4 ) _ { W } - S U ( 4 ) _ { w } - S U ( 4 ) _ { W }$ we have
+
+$$
+\begin{array} { c } { { T r ( T _ { a } \{ T _ { b } , T _ { c } \} ) = \displaystyle { \frac { 1 } { 2 } } A ( R ) d _ { a b c } , } } \\ { { A ( 4 ) + A ( 4 ^ { * } ) = 0 , } } \end{array}
+$$
+
+where $d _ { a b c }$ is the totally symmetric tensor in the anticommutators of fundamental representation
+
+$$
+\{ \lambda _ { a } , \lambda _ { b } \} = 2 d _ { a b c } \lambda _ { c } ~ .
+$$
+
+For $U ( 1 ) _ { B - L } - S U ( 4 ) _ { w } - S U ( 4 ) _ { W }$ we have
+
+$$
+\sum _ { f e r m i o n } Y _ { B - L } = 0 .
+$$
+
+For $U ( 1 ) _ { B - L } - U ( 1 ) _ { B - L } - U ( 1 ) _ { B - L }$ we have
+
+$$
+\sum _ { f e r m i o n } Y _ { B - L } ^ { 3 } = 0 .
+$$
+
+If we assume further unification of $S U ( 4 ) _ { P S } \times S U ( 4 ) _ { W }$ at scale $M _ { U }$ , we can give prediction for $\sin ^ { 2 } \theta _ { w }$ . From the normalization conditions we know that
+
+$$
+g _ { B - L } ^ { 2 } = { \frac { 3 } { 2 } } g _ { 4 } ^ { 2 } \ ,
+$$
+
+holds at the $S U ( 4 ) _ { P S }$ unification scale. Then we can predict
+
+$$
+\sin ^ { 2 } \theta _ { w } = { \frac { g _ { B - L } ^ { 2 } } { g _ { L } ^ { 2 } + 2 g _ { B - L } ^ { 2 } } } = { \frac { 3 } { 8 } } \ ,
+$$
+
+which holds at $\mu = M _ { U }$ .It is interesting to note that this value is same as the $S U ( 5 )$ unification prediction. The prediction of $\sin ^ { 2 } \theta _ { w }$ at weak scale depends on the symmetry breaking chains. We know that the running of the gauge couplings is
+
+$$
+\frac { 1 } { \alpha _ { i } ( \mu ^ { 2 } ) } = \frac { 1 } { \alpha _ { i } ( M ^ { 2 } ) } - \frac { b _ { i } } { 4 \pi } \ln \frac { \mu ^ { 2 } } { M ^ { 2 } } ,
+$$
+
+where
+
+$$
+b _ { i } = - ( { \frac { 1 1 } { 3 } } C _ { 2 } ( G ) - { \frac { 4 } { 3 } } \sum _ { r ^ { \prime } } ^ { n _ { f } } C ( r ^ { \prime } ) - \sum _ { r } ^ { n _ { h } } { \frac { 1 } { 3 } } C ( r ) ) \ ,
+$$
+
+with $n _ { f }$ being the number of fermion flavors, $n _ { h }$ being the number of complex scalar fields, and $C _ { 2 } ( G ) = N$ being the quadratic Casimir operator of the adjoint representation of $S U ( N )$ . The Casimir $C ( \boldsymbol r )$ is defined by
+
+$$
+T r [ T _ { r } ^ { a } T _ { r } ^ { b } ] = C ( r ) \delta ^ { a b } \ ,
+$$
+
+with $C ( G ) = N$ in the adjoint representation; $C ( [ 2 ] ) = ( N + 2 ) / 2$ and $C ( [ 1 ^ { 2 } ] ) = ( N - 2 ) / 2$ for symmetric and antisymmetric representations, respectively.
+
+The key difference between the runnings of the two $S U ( 4 )$ gauge couplings lies in the Higgs contributions. We can introduce the adjoint representation Higgs of $S U ( 4 ) _ { P S }$ to break such gauge symmetry into $S U ( 3 ) _ { C } \times U ( 1 ) _ { B - L }$ . Similarly, in our case, the $S U ( 4 ) _ { W }$ gauge symmetry is broken by the adjoint Higgs field $\Phi$ . We can extend the Higgs field $\Delta$ as representation $( \mathbf { 1 0 } , \mathbf { 1 0 } )$ of $S U ( 4 ) _ { P S } \times S U ( 4 ) _ { W }$ .The matter field $X , Y$ lie in $( 4 , 4 )$ and $( 4 , 4 ^ { * } )$ representations respectively which give identical contributions to both $S U ( 4 )$ gauge coupling runnings. Suppose the couplings are unified at the mass scale $M _ { U }$ ， from
+
+$$
+\begin{array} { l } { { { \displaystyle { \frac { d ( \alpha _ { 4 } ^ { w } ) } { d \ln \mu } } = b _ { 4 } ^ { w } { \displaystyle { \frac { ( \alpha _ { 4 } ^ { w } ) ^ { 2 } } { 2 \pi } } } , } } } \\ { { { \displaystyle { \frac { d ( \alpha _ { 4 } ^ { P S } ) } { d \ln \mu } } = b _ { 4 } ^ { P S } { \displaystyle { \frac { ( \alpha _ { 4 } ^ { P S } ) ^ { 2 } } { 2 \pi } } } , } } } \end{array}
+$$
+
+we obtain
+
+$$
+\frac { 1 } { \alpha _ { 4 } ^ { P S } ( \mu ^ { 2 } ) } - \frac { 1 } { \alpha _ { i } ^ { w } ( \mu ^ { 2 } ) } = - \frac { b _ { 4 } ^ { P S } - b _ { 4 } ^ { w } } { 2 \pi } \ln \frac { \mu } { M _ { U } } = \frac { 2 } { 3 \pi } \ln \frac { \mu } { M _ { U } } \ .
+$$
+
+Given the symmetry breaking pattern, we can predict $\sin \theta _ { w }$ at weak scale through renormalization group running.
+
+# 3.Renormalization group running of gauge couplings
+
+We now discuss the renormalization group running of the gauge couplings in diferent scenarios, including the orbifold breaking cases and the pure four-dimensional model with the Higgs mechanism. We use the inputs [22]
+
+$$
+\begin{array} { c } { { M _ { Z } = 9 1 . 1 8 7 6 \pm 0 . 0 0 2 1 ~ , } } \\ { { \sin ^ { 2 } \theta _ { w } ( M _ { Z } ) = 0 . 2 3 1 2 \pm 0 . 0 0 0 2 ~ , } } \\ { { \alpha _ { e m } ^ { - 1 } ( M _ { Z } ) = 1 2 7 . 9 0 6 \pm 0 . 0 1 9 ~ , } } \\ { { \alpha _ { 3 } ( M _ { z } ) = 0 . 1 1 8 7 \pm 0 . 0 0 2 0 . } } \end{array}
+$$
+
+From the electroweak theory we get the couplings at scale $M _ { Z }$
+
+$$
+\begin{array} { l } { { \displaystyle \alpha _ { 1 } ( M _ { Z } ) = \frac { \alpha _ { e m } ( M _ { Z } ) } { \cos ^ { 2 } \theta _ { w } } \ , } } \\ { { \displaystyle \alpha _ { 2 } ( M _ { Z } ) = \frac { \alpha _ { e m } ( M _ { Z } ) } { \sin ^ { 2 } \theta _ { w } } \ , } } \\ { { \displaystyle \alpha _ { s } ( M _ { Z } ) = \frac { g _ { s } ^ { 2 } } { 4 \pi } \ . } } \end{array}
+$$
+
+The renormalization group running of the gauge couplings reads:
+
+$$
+\frac { d \ \alpha _ { i } } { d t } = \frac { b _ { i } } { 2 \pi } \alpha _ { i } ^ { 2 } .
+$$
+
+At the scale of the $S U ( 2 ) _ { R }$ gauge boson mass $M _ { R }$ ， the left-right $S U ( 3 ) _ { C } \times S U ( 2 ) _ { L } \times$ （20 $S U ( 2 ) _ { R } \times U ( 1 ) _ { B - L }$ symmetry breaks into the standard model gauge groups. From the symmetry breaking chain and the kinematic terms we write, we know the relation
+
+$$
+\frac { 1 } { e ^ { 2 } } = \frac { 1 } { g _ { 2 L } ^ { 2 } } + \frac { 1 } { g _ { 2 R } ^ { 2 } } + \frac { 1 } { g _ { B - L } ^ { 2 } } .
+$$
+
+Then we can get the coupling $g _ { B - L }$ at the scale $M _ { R }$
+
+# 3.1Beta functions in five-dimensional orbifold
+
+We calculate the beta functions for $S U ( 2 ) _ { R }$ ( $g _ { L } = g _ { R }$ at scale $M _ { R }$ ） in orbifold breaking scenario. The diference of matter spectrum between inner and outer automorphism orbifold breakings lies in the fact that there is no $U ( 1 ) _ { Z }$ in outer automorphism orbifold breaking scenario. As we know, the left-right symmetry guarantees that the two gauge couplings are the same at the energy scale $M _ { R }$ . So in the outer-automorphism orbifold breaking case, the unification scale,which depends only on the compactification scale $1 / R$ ,can be much lower than in the inner automorphism orbifold breaking. Here we only discuss the gauge coupling unification in the inner automorphism case.
+
+The $S U ( 2 ) _ { R }$ coupling at scale $E$ is given by
+
+$$
+\begin{array} { l } { { \displaystyle \alpha ^ { - 1 } ( E ) = \alpha ^ { - 1 } ( M _ { R } ) - \frac { 1 } { 2 \pi } \frac { 2 } { 3 } \ln \left( \frac { M _ { R } } { E } \right) - \frac { 1 } { 2 \pi } \frac { 2 } { 3 } \sum _ { n = 1 } ^ { k } \ln \left( \frac { 2 n } { E R } \right) \Theta ( E - \frac { 2 n } { R } ) } } \\ { { \displaystyle ~ - \frac { 1 } { 2 \pi } 2 \sum _ { n = 0 } ^ { k } \ln \left( \frac { 2 n + 1 } { E R } \right) \Theta ( E - \frac { 2 n + 1 } { R } ) , } } \end{array}
+$$
+
+where $\Theta ( x )$ is the step function defined as
+
+$$
+\Theta ( x ) = \left\{ \begin{array} { l l } { { 1 } } & { { x \geq 0 } } \\ { { 0 } } & { { x < 0 } } \end{array} \right. .
+$$
+
+The $U ( 1 ) _ { Z }$ coupling at scale $E$ is
+
+$$
+\begin{array} { c } { { \displaystyle \alpha ^ { - 1 } ( E ) = \alpha ^ { - 1 } ( M _ { R } ) + \frac { 1 } { 2 \pi } \frac { 2 6 } { 3 } \ln \left( \frac { M _ { R } } { E } \right) + \frac { 1 } { 2 \pi } \frac { 2 6 } { 3 } \sum _ { n = 1 } ^ { k } \ln \left( \frac { 2 n } { E R } \right) \Theta ( E - \frac { 2 n } { R } ) } } \\ { { - \displaystyle \frac { 1 } { 2 \pi } 6 \sum _ { n = 0 } ^ { k } \ln \left( \frac { 2 n + 1 } { E R } \right) \Theta ( E - \frac { 2 n + 1 } { R } ) . } } \end{array}
+$$
+
+We anticipate that the unification of the two gauge couplings occurs not too high above the compactification scale $1 / R$ due to the fact that more and more KK modes give contributions. An example is shown in Fig. 1 for fixed values of $M _ { R }$ and $\alpha _ { Z } ( M _ { R } )$
+
+# 3.2 Unification of $S U ( 4 ) _ { P S }$ with $S U ( 4 ) _ { W }$
+
+We now discuss the unification of the four-color $S U ( 4 ) _ { P S }$ with $S U ( 4 ) _ { W }$ in four dimensions. When $U ( 1 ) _ { B - L }$ is embedded into the $S U ( 4 ) _ { P S }$ group,the charge should be normalized according to $S U ( 4 )$ generator as
+
+$$
+{ \frac { 1 } { 2 } } Y _ { B - L } = \left( \begin{array} { c } { { { \frac { 1 } { 6 } } } } \\ { { { { \frac { 1 } { 6 } } } } } \\ { { { { \frac { 1 } { 6 } } } } } \\ { { { \qquad } } } \end{array} \right) = \sqrt { \frac { 2 } { 3 } } T _ { B - L } .
+$$
+
+From the relation
+
+$$
+g _ { 4 } ^ { P S } T _ { B - L } = g _ { B - L } \frac { 1 } { 2 } Y _ { B - L } \ ,
+$$
+
+![](images/b14b394b3f892f515351068837c1a50e59b76926d8c9f9e78686d49abea3ffb7.jpg)  
+Figure 1: The gauge coupling unification in the inner automorphism orbifold breaking case. The lower and upper curves are the running of the couplings of $U ( 1 ) _ { Z }$ and $S U ( 2 ) _ { R }$ , respectively.
+
+we get the normalization factor
+
+$$
+g _ { B - L } = { \frac { \sqrt { 6 } } { 2 } } g _ { 4 } .
+$$
+
+We know that at low energy $S U ( 4 ) _ { P S }$ is broken into $S U ( 3 ) _ { C } \times U ( 1 ) _ { B - L }$ . Here we assume that this step is accomplished through the VEV of the $S U ( 4 ) _ { P S }$ adjoint Higgs field $\Sigma _ { 2 }$ They naturally acquire masses of order of the breaking scale. Besides,we know from previous discussions that the symmetric Higgs field $\Delta$ ，which carries the $U ( 1 ) _ { B - L }$ charge 2, is used to break the $S U ( 2 ) _ { R } \times U ( 1 ) _ { B - L }$ . So to unify $U ( 1 ) _ { B - L }$ with $S U ( 3 ) _ { C }$ into $S U ( 4 ) _ { P S }$ ， the symmetric Higgs $\Delta$ must be extended to the $S U ( 4 ) _ { P S }$ representation. According to the two $S U ( 4 )$ , the matter content is $X ( { \bf 3 } , { \bf 4 } ) _ { \frac { 1 } { 3 } } \oplus L ( { \bf 1 } , { \bf 4 } ) _ { - 1 } = ( { \bf 4 } , { \bf 4 } )$ and ${ \cal Y } ( { \bf 3 } , { \bar { 4 } } ) _ { - { \frac { 1 } { 3 } } } \oplus { \cal N } ( { \bf 1 } , { \bar { 4 } } ) _ { 1 } =$ $( 4 , 4 )$ ; while the scalar parts given by $\Phi ( \bf { 1 } , \bf { 1 5 } )$ ， $\Delta ( \mathbf { 1 } , \mathbf { 1 0 } )$ extend to(10,10) and $\Sigma ( \bf { 1 } , \bf { 1 5 } )$ ： There are two possibilities for the symmetry breaking chain:
+
+(1）In most cases,we are interested in the case that the partial unification $S U ( 4 ) _ { W }$ at scale $M _ { U } ^ { W }$ is not too high. Interestingly, the four-color $S U ( 4 ) _ { P S }$ breaking scale $M _ { U } ^ { P S }$ （204号 can also be around $M _ { U } ^ { w }$ because the $S U ( 4 ) _ { P S }$ gauge bosons will not generate the proton decay. After $S U ( 4 ) _ { P S }$ is broken down to $S U ( 3 ) _ { C } \times U ( 1 ) _ { B - L }$ ， the symmetric Higgs(10,10） is decomposed into the representations in $S U ( 3 ) _ { C }$ and $S U ( 4 ) _ { W }$ ） $( { \bf 1 0 } , { \bf 1 0 } ) = ( { \bf 6 } , { \bf 1 0 } ) _ { \frac { 2 } { 3 } } \oplus ( { \bf 1 } , { \bf 1 0 } ) _ { - 2 } \oplus ( { \bf 3 } , { \bf 1 0 } ) _ { - \frac { 2 } { 3 } }$ . We know from the cross mixing terms in the most general Higgs potential that these Higgs fields acquire masses of order （20 $M _ { U } ^ { P S }$ except that we fine-tune the symmetric Higgs field $\Delta ( \mathbf { 1 } , \mathbf { 1 0 } )$ to be of the order of the right handed gauge boson mass $M _ { R }$ . We can also possibly tune the masses of the Higgs fields $( { \mathbf { 3 } } , \mathbf { 1 0 } ) _ { - { \frac { 2 } { 3 } } }$ and $( { \bf 6 } , { \bf 1 0 } ) _ { \frac { 2 } { 3 } }$ to be of the order $M _ { U } ^ { w }$ . Then only the adjoint Higgs $\Sigma _ { 2 }$ masses are at order $M _ { U } ^ { P S }$
+
+(2） The other possibility is to decompose the symmetric Higgs according to $S U ( 2 ) _ { L } \times$ （20 $S U ( 2 ) _ { R } \times U ( 1 ) _ { Z }$ as $( { \bf 1 0 } , { \bf 1 0 } ) = ( { \bf 1 0 } , { \bf 3 } , { \bf 1 } ) _ { 1 } \oplus ( { \bf 1 0 } , { \bf 1 } , { \bf 3 } ) _ { - 1 } \oplus ( { \bf 1 0 } , { \bf 2 } , { \bf 2 } ) _ { 0 }$ if $M _ { U } ^ { w }$ is higher than $M _ { U } ^ { P S }$ . Due to the cross mixing terms,the relevant Higgs fields also acquire masses of order $M _ { U } ^ { w }$ scale. We can also fine tune these Higgs masses to be of order （204号 $M _ { U } ^ { P S }$ so that they may be included in the most general Higgs potential in $S U ( 4 ) _ { P S }$ （204号 symmetry broken.
+
+In both cases,we require the mirror fermion masses at order $M _ { R }$ . Higgs boson from $\Phi$ have masses of order $M _ { U } ^ { w }$ and are integrated out at scale $M _ { R }$ . So at the threshold scale $M _ { R }$ , the Higgs boson content contains (i) the $S U ( 2 ) _ { L }$ triplet and $S U ( 2 ) _ { R }$ triplet from $\Delta$ (ii) the $S U ( 2 ) _ { L }$ and $S U ( 2 ) _ { R }$ adjoint representation from $\Sigma$ ,and (ii) two bi-doublets $( { \bf 2 } , { \bf 2 } )$ under $S U ( 2 ) _ { L } \times S U ( 2 ) _ { R }$ from $\Sigma$ and one from $\Delta$ ：
+
+In case of $M _ { U } ^ { w } < M _ { U } ^ { P S }$ , the matter content at the threshold $M _ { U } ^ { w }$ contains the adjoint Higgs $\Sigma _ { 1 }$ and $\Phi$ , the symmetric Higgs $\Delta$ , and possibly $( { \mathbf { 3 } } , \mathbf { 1 0 } ) _ { - { \frac { 2 } { 3 } } }$ and ${ \bf ( 6 , 1 0 ) _ { \frac { 2 } { 3 } } }$ .If $M _ { U } ^ { P S } <$ $M _ { U } ^ { w }$ ，the mater content at the threshold $M _ { U } ^ { P S }$ contains those at $M _ { R }$ and possibly the $( { \bf 1 0 } , { \bf 3 } , { \bf 1 } ) _ { 1 } , ( { \bf 1 0 } , { \bf 1 } , { \bf 3 } ) _ { - 1 }$ and $( \mathbf { 1 0 } , \mathbf { 2 } , \bar { \mathbf { 2 } } ) _ { 0 }$
+
+So we get the beta functions for each coupling
+
+For $M _ { Z } < E < M _ { R }$ ，the $U ( 1 ) _ { Y } , S U ( 2 ) _ { L } , S U ( 3 ) _ { C }$ beta-functions are given by
+
+$$
+( b _ { 1 } , b _ { 2 } , b _ { 3 } ) = \left( { \frac { 4 1 } { 1 0 } } , - { \frac { 1 9 } { 6 } } , - 7 \right) .
+$$
+
+· For $M _ { R } < E < M _ { U }$ ，the $U ( 1 ) _ { Z } , U ( 1 ) _ { B - L } , S U ( 2 ) _ { L } = S U ( 2 ) _ { R } , S U ( 3 ) _ { C }$ beta functions are given by
+
+$$
+( b _ { 0 } , b _ { 1 } , b _ { 2 } , b _ { 3 } ) = \left( \frac { 3 1 } { 3 } , 1 3 , 3 , - 3 \right) ,
+$$
+
+where $M _ { U } = \operatorname* { m i n } ( M _ { U } ^ { w } , M _ { U } ^ { P S } )$ . If thesymmetrybreaking chainis $M _ { U } ^ { w } < E < M _ { U } ^ { P S }$ ， the $U ( 1 ) _ { B - L } , S U ( 3 ) _ { C } , S U ( 4 ) _ { W }$ beta-functions are
+
+$$
+( b _ { 1 } , b _ { 2 } , b _ { 3 } ) = ( 1 3 , - 3 , - 3 ) ~ ,
+$$
+
+or
+
+$$
+( b _ { 1 } , b _ { 2 } , b _ { 3 } ) = ( 1 8 , 7 , 6 ) \enspace ,
+$$
+
+if we take into account the scalar $( \mathbf { 3 } , \mathbf { 1 0 } ) _ { - { \frac { 2 } { 3 } } }$ and $\mathbf { ( 6 , 1 0 ) } _ { \frac { 2 } { 3 } }$ at $M _ { U }$ . If the symmetry breaking chain is $M _ { U } ^ { P S } \ : < \ : E \ : < \ : M _ { U } ^ { w }$ ，the $U ( 1 ) _ { Z } , S U ( 2 ) _ { L } = S U ( 2 ) _ { R } , S U ( 4 ) _ { P S }$ beta functions are
+
+$$
+( b _ { 0 } , b _ { 1 } , b _ { 2 } ) = \left( \frac { 3 1 } { 3 } , 3 , - \frac { 1 6 } { 3 } \right) \ ,
+$$
+
+Table 3: $S U ( 4 ) _ { W }$ unification scale $M _ { U } ^ { w }$ （GeV） for various values of $M _ { R }$ and $\alpha _ { Z } ( M _ { R } )$ in four dimensions."No” means no such a unification (the fourth color unification may occur first). Here we assume no intermediate states between $M _ { U } ^ { w }$ and $M _ { R }$ , which occurs for $M _ { U } ^ { w } < M _ { U } ^ { P S }$ ：
+
+<html><body><table><tr><td>MR\az1</td><td>70.0</td><td>60.0</td><td>50.0</td><td>40.0</td><td>35.0</td></tr><tr><td>1 TeV</td><td>3.91 × 1017</td><td>7.41 × 1013</td><td>1.41 × 1010</td><td>2.69 × 106</td><td>3.71 × 104</td></tr><tr><td>5 TeV</td><td>0.97 × 1018</td><td>1.85 × 1014</td><td>3.54 × 1010</td><td>6.65 × 106</td><td>9.31 × 104</td></tr><tr><td>10 TeV</td><td>1.45 × 1018</td><td>2.76 × 1014</td><td>5.37 × 1010</td><td>0.99 × 107</td><td>1.38 × 105</td></tr><tr><td>10² TeV</td><td>5.37 × 1018</td><td>1.02 × 1015</td><td>1.94 × 1011</td><td>3.71 × 107</td><td>5.12 × 105</td></tr><tr><td>103 TeV</td><td>1.99 × 1019</td><td>3.91 × 1015</td><td>7.24 × 1011</td><td>1.38 × 108</td><td>1.88 × 106</td></tr><tr><td>104 TeV</td><td>7.40 × 1019</td><td>1.40 × 1016</td><td>2.64 × 1012</td><td>5.06 × 108</td><td>No</td></tr><tr><td>105TeV</td><td>2.71 × 1020</td><td>5.12 × 1016</td><td>0.98 × 1013</td><td>1.88 × 109</td><td>No</td></tr></table></body></html>
+
+or
+
+$$
+( b _ { 0 } , b _ { 1 } , b _ { 2 } ) = \left( { \frac { 7 7 } { 6 } } , 1 3 , { \frac { 1 4 } { 3 } } \right) \ ,
+$$
+
+if we take into account the scalar $( \mathbf { 1 0 } , \mathbf { 3 } , \mathbf { 1 } ) _ { 1 }$ ， $( { \bf 1 0 } , { \bf 1 } , { \bf 3 } ) _ { - 1 }$ and $( \mathbf { 1 0 } , \mathbf { 2 } , \mathbf { 2 } ) _ { 0 }$
+
+For $M _ { U } < E$ ，the $S U ( 4 ) _ { W }$ and $S U ( 4 ) _ { P S }$ beta functions are
+
+$$
+( b _ { 1 } , b _ { 2 } ) = \left( 6 , { \frac { 1 4 } { 3 } } \right) \ ,
+$$
+
+where $M _ { U } ^ { 2 } = \operatorname* { m a x } ( M _ { U } ^ { w } , M _ { U } ^ { P S } )$
+
+In Table 3 we show the $S U ( 4 ) _ { W }$ unification scale $M _ { U } ^ { w }$ for various values of $M _ { R }$ and $\alpha _ { Z } ( M _ { R } )$ in four dimensions.
+
+# 4.Phenomenology discussions
+
+If we use the five-dimensional orbifold boundary conditions to break the gauge group, the matter content at low energy scale is almost same as in the minimal left-right model. The mirror fermions are projected out and do not appear in the low energy effective theory. If the space-time compactification scale $1 / R$ is relatively low, different KK modes will have various quantum corrections. However,in this case the Landau poles will appear at low energy for some gauge couplings. So we assume the compactification scale is not too low. Therefore, the phenomenology in orbifold breaking scenario will be almost the same as in the left-right model, which has already been studied in detail in the literature.
+
+So we concentrate on the four-dimensional case for phenomenology discussions. In this scenario the phenomenology is also quite similar to the minimal left-right model except that our unification scenario at low energy predicts the mixing between the SM fermions and the heavy mirror fermions. As discussed previously, such mixings are independent of the generation and do not alter the CKM matrix between different generations. However, the
+
+CKM matrix is defined through the left-handed charged currents (strictly speaking, due to the left-right mixing of charged gauge bosons, the CKM matrix of the SM is defined as the coupling between lower mass eigenstates of left-handed fermions and the lower mass $S U ( 2 )$ charged gauge boson)，and thus is not unitary.Besides,the mirror fermions can be heavy enough to avoid the bounds by precision tests in LEP and Tevatron. In the following we briefly discuss some phenomenology which is beyond the predictions of the minimal left-right models.
+
+(1) $K _ { L } - K _ { S }$ mass difference: One of the most stringent constraints may come from the （204号 $K _ { L } - K _ { S }$ mass difference. From the expression of the $S U ( 2 )$ charged currents we can get the leading effective operators that contribute to $K _ { L } - K _ { S }$ mixing from $W _ { 1 } ^ { \mu }$ exchange:
+
+$$
+\mathcal { O } _ { 1 } = \bar { s _ { L } } \gamma _ { \mu } d _ { L } \bar { s _ { L } } \gamma _ { \mu } d _ { L } .
+$$
+
+From the leading order amplitudes we can get the following effective Hamilton for （204号 $K _ { L } - K _ { S }$ mixing
+
+$$
+H _ { W } ^ { \Delta S = 2 } = - \frac { G _ { F } } { \sqrt { 2 } } \frac { \alpha } { \pi \sin ^ { 2 } \theta _ { w } } \sum _ { i , j } \alpha _ { 1 } ^ { 4 } \beta _ { i } \beta _ { j } C ( r _ { i } , r _ { j } ) \mathcal { O } _ { 1 } ~ ,
+$$
+
+where $\beta _ { i } = N _ { i d } ^ { * } N _ { i s }$ with $N _ { i j }$ denoting the CKM mixing for left-handed fermions, $\alpha _ { 1 }$ is defined from the $S U ( 2 )$ charged current and given by
+
+$$
+\alpha _ { 1 } = \left[ ( U ) _ { 1 1 } ( P ^ { \dagger } ) _ { 1 1 } \cos \zeta + ( U ) _ { 1 2 } ( P ^ { \dagger } ) _ { 1 1 } \cos \zeta \right] ,
+$$
+
+and $C ( r _ { i } , r _ { j } )$ is defined as
+
+$$
+\begin{array} { c } { { C ( r _ { i } , r _ { j } ) = \displaystyle \frac { f ( r _ { i } ) - f ( r _ { j } ) } { r _ { i } - r _ { j } } \ : , } } \\ { { f ( r _ { i } ) = \displaystyle \frac { 1 } { 1 - r _ { i } } + \frac { r _ { i } ^ { 2 } \mathrm { l n } r _ { i } } { ( 1 - r _ { i } ) ^ { 2 } } \ : , } } \end{array}
+$$
+
+with $r _ { i } = m _ { i } ^ { 2 } / m _ { W 1 } ^ { 2 }$ . Note that the effective Hamilton differs from the SM constribution by an additional factor $\alpha _ { 1 } ^ { 4 }$
+
+Due to the mixing between the new mirror fermions and the SM fermions, there are new additional contributions illustrated in Fig. 2 besides those in the minimal $S U ( 2 ) _ { L } \times S U ( 2 ) _ { R } \times U ( 1 ) _ { B - L }$ left-right model. So the experimental data of $K _ { L } - K _ { S }$ （204号 mixing will constrain the masses and mixings of the mirror fermions.
+
+(2） Contributions to the neutron electric dipole moment $d _ { n } ^ { e }$ through $W _ { L } - W _ { R }$ mixing and fermion mixing [23]. Our model contributes to $d _ { n } ^ { e }$ at one-loop level which differs greatly from the SM in which the non-vanishing contributions arise at three-loop level. The contributions also differ from the minimal left-right model due to the mixing between the standard fermions and heavy mirror fermions. So $d _ { n } ^ { e }$ may stringently constrain the parameter space of our model.
+
+![](images/dd31785b64ddc82729c03cbf6c37936bcc98a7091bcae660f7ea026ef92b8a52.jpg)  
+Figure 2: Typical additional new diagrams that contribute to $K _ { L } - K _ { S }$ mixing besides that of minimal left-right model.
+
+(3) Constraints from the new gauge bosons $Z ^ { \prime }$ . From the mass matrix of the neutral gauge bosons,we can find that there are two additional $Z ^ { \prime }$ gauge bosons.The experiment constraints on $Z ^ { \prime }$ [24] will constrain the parameter space of our model.
+
+(4）Constraints from $b {  } s + \gamma$ . The decay $b {  } s + \gamma$ is sensitive to new physics. In our scenario,as discussed in the vector-type couplings, $b {  } s + \gamma$ is still vanishing at treelevel. At loop level, due to the various mixings in gauge boson sector and the fermion sector, there are various new contributions. So $b {  } s + \gamma$ may constrain the parameter space of our model.
+
+(5）Dirac neutrino and CP violation in lepton sector. In our model it is possible for the Higgs field $\Delta$ to acquire VEVs which also give heavy Majorana mass for the neutral components of the new heavy fermions. In this case, through the see-saw mechanism, the additional neutrinos can acquire light masses. So there are totally six kinds of light neutrino species in this scenario. Itis well known that the number of neutrino species is strictly constrained by the Big Bang Nucleosythesis (BBN) [25]. Although the non-standard BBN limit on the number of neutrino species is relaxed to seven [26],we restrain to consider the case with only three light neutrinos,as we discussed previously. We know from previous discussons that in lepton sector we give heavy Majorana masses only for the standard model neutrinos and not for the new types of neutrinos. In the heavy lepton sector we have heavy Dirac neutrinos, which can be pair produced through $Z$ gauge boson at the LHC or ILC,and also we have CKM-like matrix which may be measurable through some CP-violating process.
+
+(6) Tree-level FCNC in mirror fermion sector. In the sector of the heavy mirror fermions, there are tree-level FCNC interactions, which can induce various FCNC processes at the LHC. Such FCNC processes can be used to constrain the mixing angles like $\phi _ { i }$ （20 which appear in the mixing between the standard model fermions and new fermions.
+
+# 5.Conclusions
+
+Left-right model is proposed to explain the parity asymmetry in Standard Model. To understand the origin of left-right symmetry, we studied an partial unification model based on $S U ( 4 ) _ { W } \times U ( 1 ) _ { B - L }$ which can break to the minimal left-right model either through the Higgs mechanism in four dimensions or through orbifolding in five dimensions,especially we propose to use the rank reducing outer automorphism orbifolding breaking mechanism. We scrutinized all these breaking mechanisms and found that for the orbifold breaking in five dimensions, the rank-reducing outer automorphism is better than the inner automorphism and can make the low energy theory free of the $U ( 1 ) _ { Z }$ anomaly.It is possible for the outer automorphism orbifolding breaking mechanism to be non-anomalous without ChernSimons terms and new localized fermions.For the four-dimensional model with the Higgs mechanism, we studied in great detail both its structure and its typical phenomenology. It turns out that this four-dimensional scenario may predict some new phenomenology since the new mirror fermions (which are introduced in order to fill the SM fermions into $S U ( 4 ) _ { W }$ （204号 without anomaly) are preserved at low energy scale with mixing with the SM fermions. We also examined the running and the unification of the gauge couplings in each case, and discussed the possibility for unifying this partial unification group with $S U ( 4 ) _ { P S }$ to realize a grand unification.
+
+# Acknowlegments
+
+We are grateful to Csaba Balazs, Yu-Ping Kuang and Zhong-Yuan Zhu for enlightening discussions. This work was supported in part by the Australian Research Council under project DP0877916, by the National Natural Science Foundation of China under grant Nos.10821504,10725526 and 10635030,and by the Cambridge-Mitchell Collaboration in Theoretical Cosmology.
+
+# References
+
+[1] R. N. Mohapatra, J. C. Pati, Phys.Rev. D11, 566 (1975).   
+[2]H.Georgi, in Particles and Fields (1975); H. Fritzsch,P.Minkowski, Ann.Phys.93,193 (1975).   
+[3] J. C. Pati, A. Salam, Phys. Rev. D10, 275 (1974).   
+[4] K. Agashe, R. Contino and A. Pomarol, Nucl. Phys.B 719, 165 (2005).   
+[5] Q. Shafi, Z. Tavartkiladze,hep-ph/O108247.   
+[6] I. Gogoladze, Y. Mimura, S. Nandi, Phys. Lett. B560,204 (2003).   
+[7] Y. Kawamura, Prog. Theo. Phys 103 (2000)613; hep-ph/0012125; hep-ph/0012352.   
+[8] G.Altarelli and F. Feruglio, Phys. Lett.B511,257 (2001); L.Hall and Y.Nomura,Phys. Rev. D64(2001) 055003.   
+[9] A.Hebecker,J. March-Russell, Nucl.Phys. B625,128 (2002).   
+[10] A. Hebecker, J. March-Russell, Nucl. Phys. B613,3 (2001).   
+[11] T.Li, Phys. Lett. B 520, 377 (2001).   
+[12] T. Li, Nucl. Phys. B 619,75 (2001).   
+[13] A.E. Bernardini, J. Phys.G32, 2313 (2006).   
+[14] Nima Arkani-Hamed, Andrew G. Cohen, Howard Georgi,Phys.Lett. B516(2001)395-402.   
+[15] C.A. Scrucca,M. Serone, L. Silvestrini, F. Zwirner,Phys.Lett. B525 (2002) 169-174.   
+[16] Luigi Pilo,Antonio Riotto,Phys.Lett. B546 (2002）135-142.   
+[17] Hyung Do Kim, Jihn E. Kim,Hyun Min Lee,JHEP 0206 (2002) O48; Hyun Min Lee,JHEP 0309（2003） 078.   
+[18] M. Quiros,New Ideas in Symmetry Breaking,hep-ph/0302189.   
+[19] T.Kibble, G. Lazaridis, Q. Shaf, Phys. Rev. D26, 435 (1982).   
+[20] D. Chang, R. N. Mohapatra, M. K. Parida, Phys. Rev. Lett. 52, 1072 (1984); D. Chang,R. N.Mohapatra,M.K. Parida,Phys.Rev.D30,1052 (1984).   
+[21] L. F. Li, Phys. Rev. D9,1723 (1974).   
+[22] C. Amsler et al. [Particle Data Group], Phys. Lett. B 667,1 (2008).   
+[23] G.Ecker,W. Grimus,H. Neufeld,Nucl.Phys.B229,421 (1983).   
+[24] Y. Tosa, S. Okubo,Phys. Rev. D23, 2486 (1981).   
+[25] S.E. Sposito, G. Mangano,A. Melchiorri, G. Miele, O.Pistanti, Phys. Rev. D63, 043004 (2001).   
+[26] S. H. Hansen, G. Mangano,A. Melchiorri, G. Miele, O. Pistanti, Phys. Rev. D65,023511 (2002); J. Ellis and K.A. Olive, Phys.Lett. B193, 525 (1987).

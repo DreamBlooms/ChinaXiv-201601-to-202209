@@ -1,0 +1,478 @@
+[
+    {
+        "type": "text",
+        "text": "抑郁症患者的语言使用模式",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄观澜 周晓璐（上海师范大学教育学院，上海200234)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要语言使用模式能反映心理状态和精神病理学特征。抑郁症患者与健康人群的语言使用模式存在差异，识别抑郁症患者的语言使用模式有助于抑郁症的预测和诊断。传统的心理学研究和基于社交媒体的研究均表明，抑郁症患者更多地使用第一人称单数代词和消极情绪词，更少地使用第一人称复数代词和积极情绪词。基于社交媒体的研究进一步发现了一些抑郁个体日常生活中的其他语言标志。建议未来的研究进一步确认更具抑郁特异性的语言标志，并进一步探索语言标志与抑郁症状间的理论联系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 抑郁症，语言使用模式，社交媒体，预测，诊断",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "抑郁症在世界范围内的流行率为 $4 . 4 \\%$ (Friedrich,2017)，在中国为 $3 . 6 \\%$ (Huang et al.,2019)。抑郁症导致患者的生活质量严重下降， $1 5 \\%$ 的患者选择自杀(Gold etal.,2015)。此外，抑郁症大大增加了全球疾病的总体负担，也给病患家属带来了极大的痛苦(Herrman et al.,2019;Ledford,2014)。据估计，抑郁症将在 2030 年成为世界第一大疾病(Lancet,2012)。由于抑郁症发病早期筛查工具的缺乏以及现有诊断方法（如量表、访谈等）的局限性（如，有时难以实施或耗时较长)，寻找新的视角评估抑郁情绪对于抑郁症的及时干预和治疗具有重要意义。最近，研究者找到了一种评估抑郁情绪的新方式，即观察个体的语言使用模式。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "语言使用模式是指个体语言表达过程中词汇使用的倾向性。特定的语言使用模式与心理健康指标有关(Leis etal.,2019)，这表明从语言中可以发现有关心理健康水平的微妙线索。在自然状态下和心理治疗过程中，语言使用模式会随着心理状态的变化而变化(Pulverman etal.,2015;Leis etal.,2019)。此外，语言使用模式也可以用来区分抑郁症患者和健康个体(Hussain et al.,2019)。因此，观察个体的语言使用模式可以帮助心理学家在研究和临床实践中评估患者的抑郁情绪。例如，在心理治疗过程中，通过对录音会话或文字使用进行语言分析，临床医生或研究人员可以潜在地评估患者在一段事件中抑郁情绪的轨迹。在一些情况下，观察抑郁症患者的语言使用模式也可能是检测和评估抑郁情绪相对容易的方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "美国国家心理健康研究所(National Institute of Mental Health,2012)鼓励研究人员和实践者采用多种方式评估各种心理疾病，并特别强调制定能够测量特定心理状态的行为评估。观察个体的语言使用模式为评估和检查心理健康状况提供了一种创新、便捷的方法，可用于抑郁症的早期预测和辅助诊断。语言使用模式的研究开始于传统的心理学研究，近年来，随着基于社交媒体研究的兴起得到了越来越多研究者的关注。但总体来说，该领域的研究仍处于起步阶段，并且国内少有该领域的研究。本文对现有文献进行整理，综合传统心理学研究和社交媒体研究中的结果，对抑郁症患者的语言使用模式进行综述，为今后国内在该领域的研究提供借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2抑郁症患者的精神病理学特征及相应语言标志",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "抑郁症患者的语言使用模式涉及一系列词汇使用的倾向性。这些词汇能作为抑郁症患者的精神病理学特征的语言标志，将内部心理特征转化为外在行为特征表现出来(Boyd&Pennebaker,2016)，因此在传统心理学研究中受到了重视。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自我关注是抑郁症患者的一个显著特征，它是“一种基于自我参考的，内部生成的信息的意识，并且与对感官接受到的外部生成的信息的意识形成对比”(Ingram,1990)，发生于比较现实自我和理想自我差异的自我评估的过程(Duval&Wicklund,1972)。当感知到现实自我和理想自我差异时，人们会不断地采取减少差异的行为并进行自我评估，直到这种差异消失。经历消极生活事件或未能实现重要目标的个体，容易将理想状态判断为难以达到并发展出一种适应不良的自我关注方式，这种过度的和僵化的自我关注会造成精神病理学方面的问题(Pyszcynski& Greenberg,1987)。以往的研究证实了自我关注和抑郁相关(Nejad etal.,2019)，而个体自我关注的程度反映在第一人称单数代词的使用中(Pyszcynski&Greenberg,1987;Silvia&Abele,2002)。因此，第一人称单数代词可作为个体自我关注的语言标志，其在书面或口头语言中的相对使用频率反映了个体的自我关注程度(Zimmermann et al.,2017)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在社会关系方面，抑郁症患者表现出社会隔离的特点。社会关系是人类生活的重要组成部分，对心理健康有着重要的影响。社会关系常通过社交活动、社会支持的传递与交换、提供获取物质资源的机会对心理健康产生影响(Kawachi& Berkman,2001)。不良社会关系和抑郁相关(Liu et al.,2020)，其常见的指标包括单身、独居、社交网络薄弱或规模小以及社会互动不频繁(Chan et al.,2011)。与主、宾语形式的第一人称单数代词强调自我作为一个孤立的个体相反，第一人称复数代词强调将自我作为社会关系的一部分，其使用除与抑郁相关外，还与人际关系质量和婚姻关系质量等多项社会关系指标相关(Abe,2009;Rohrbaugh et al.,2012; Schoch-Ruppen etal.,2018)。因此，第一人称复数代词使用可作为衡量社会关系质量的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "语言标志。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，抑郁症患者的认知表现出消极偏向和积极缺陷的特点。具体而言，他们更多地注意消极刺激，更少地注意积极刺激；容易对情绪模糊的事件或刺激材料作出消极解释；倾向于反刍消极材料，以及抑制自身的积极情绪反应。(Suslow et al.,2019; Vanderlinde et al.,2020)。个体的内心世界可通过语言表达反映出来。多数研究表明，相比正常个体，抑郁个体更多地使用消极情绪词，更少地使用积极情绪词(e.g.Schoch-Ruppen et al.,2018)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3抑郁症患者语言使用模式：来自传统心理学研究的结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在传统的心理学研究中，研究者主要采用分析构建反应数据(Constructed-response data)的方法，即，要求被试在规定时间内完成一个指定的开放式任务（如写作任务或演讲任务)，然后对其生成的文本内容进行分析。任务指导语可以是“请谈谈你未来的职业生涯”或“请谈谈你对于自身人际关系最深刻的想法和感受”等(Newell et al.,2017; Tackman et al.,2018)。这种突破结构化测量限制的开放式的评估过程，在增加被试表达自由的同时，也提供了能洞察其主观内心世界的信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究者大多采用语言查询和单词计数软件(Linguistic Inquiry and Word Count,LIWC)分析生产文本内容中的语言使用模式(Pennebaker etal.,2007)。LIWC 可以将获取的定性数据，如语音或文本，快速、系统地转化为定量数据。通过使用LIWC，可以量化抑郁症患者的语言使用模式。LIWC 作为结构化访谈和问卷调查的替代方法，能够避免共同方法偏差和内容重叠。LIWC 量化后的文本内容可通过统计学方法，筛选出抑郁症患者的语言标志，了解其语言使用模式的特点。此外，也可以通过纵向比较的方式来评估心理治疗及应激后产生的心理变化。基于上述方法，传统心理学研究得到以下研究结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1抑郁症患者多使用第一人称单数代词",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rude 等(2004)最早使用分析构建反应数据的方法研究抑郁症患者的语言使用模式。Rude等(2004)以大学生为被试，要求其完成写作任务“请描述你上大学以来最深刻的想法与感受”。结果表明抑郁症大学生在写作中使用了更多的第一人称单数代词（如，“自从我上大学以来，我感到很孤独。这并不是说我过得不愉快，而是…\")。有过抑郁经历且目前不抑郁的大学生在写作过程中第一人称代词使用频率逐渐增加，这可能是由于他们具有抑郁易感性特质，认知负荷或信息加工任务易导致他们产生和抑郁个体相似的思维模式。随后多个研究也关注了第一人称单数代词使用与抑郁间的关系(e.g.Fast&Funder,2010;Molendijk et al., 2010;Zimmermann et al.,2013)。尽管多数研究结果表明，抑郁症患者更多地使用第一人称单数代词，但也有少量研究未能得出该结论(e.g. Zimmermann et al.,2017; Schoch-Ruppen et al.,2018)。Edwards 和 Holtzman(2017)对囊括 3758 名被试的 21篇文献进行元分析，得出了第一人称单数代词使用和抑郁间微弱的相关性 $( r = . 1 3 , 9 5 \\% C I [ . 1 0 , . 1 6 ] )$ 。Tackman 等(2018)提出,以往研究不一致的结果可能是小样本量带来的不稳定效应和未控制两者相关的调节变量导致的。他们采用来自2个国家的6个实验室的11个样本（共4754名被试，包括大学生、临床抑郁症患者和成年社区被试）在多种不同的控制条件下完成写作或演讲任务。结果表明，第一人称单数代词使用和抑郁间存在微弱的相关性 $( r = . 1 0 , 9 5 \\% C I [ . 0 7 , . 1 3 ] ) d$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一些研究关注了第一人称单数代词具体类型（即，主语“I一我”，宾语“me一我”和所有格形式“my—我的”）与抑郁的关系(e.g.Rude et al.,2004; Zimmermann,et al.,2017;Tackman etal.,2018)。Tackman 等(2018)通过对 4754 名被试的研究结果表明，抑郁个体更多使用主语（如，“我觉得自己是一个丑陋和愚蠢的人\"）、宾语（如，“这世上没有人会挂念我\")形式的第一人称单数代词 $( r = . 1 2$ 和 $r = . 0 9 _ { . }$ )，而非所有格形式。这表明主、宾语形式和所有格形式使用背后的心理过程不同。所有格形式的第一人称单数代词反映了一种对于自我和某些人或物体关系的关注，而主语和宾语形式的第一人称单数代词反映了一种孤立形式的自我关注（其中，主语和宾语形式的第一人称单数代词分别反映了将自我作为主动方和目标方形式的自我关注，James,1890)。总体而言，这一结果表明，抑郁与孤立的自我关注语言相关，与关系中的自我关注语言无关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "还有一些研究关注了语言环境对抑郁个体第一人称单数代词使用的影响(e.g.Edwards& Holtzman,2017; Tackman et al.,2018)。Edwards 和 Holtzman(2017)的元分析表明，在隐私的交流环境下（如，写个人日记)，第一人称单数代词使用与抑郁的相关略高于公共交流环境（如，写网络博客）下的相关 $( r = . 1 3 8 \\$ 和 $r = . 1 1 9 _ { . }$ )，但其差异未达到统计上的显著水平。Tackman 等(2018)关注了个人一非个人条件下，第一人称单数代词使用与抑郁相关的差异。结果显示，其相关仅存在于个人相关的交流环境中（如，谈论自己的人际关系） $( r = . 1 0 )$ 而不存在于非个人相关的交流环境中（如，描述物品或图片)。因此，目前的研究结果表明自我关注语言的产生主要受到个人一非个人交流环境的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "反刍是指重复和持续不断的、主要关于自我的消极思维，是引起和维持抑郁的重要因素之一(杨营凯，刘衍玲,2016)。反刍被认为是一种特殊形式的自我关注，其结构可分为两个子成分，即忧思(Brood)和沉思(Reflect)。沉思指\"有目的地转向内部以解决认知问题来减轻抑郁症状”，忧思指“当前状态与期望但未达到的状态的消极比较”(Treynor etal.,2003)。忧思代表了反刍结构中更适应不良的成分(Gooding et al.,2012)。Brockmeyer 等(2015)发现，进行消极回忆任务时（如，要求被试描述其人生中最悲伤的时刻)，第一人称单数的使用与忧思呈正相关 $( r = . 4 6 9 )$ ，而与沉思无关。故第一人称单数代词作为自我关注的语言标志，更多地反映其中的适应不良成分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "女性比男性更有可能对抑郁情绪进行反刍式自我关注(Johnson&Whisman,2013)，按照这一逻辑，抑郁和第一人称单数代词使用的相关在女性中可能强于男性。但以往的研究都未发现这一性别差异(Fast & Funder,2010; Edward & Holtzman,2017; Tackman et al., 2018)。Tackman 等(2018)对不同性别进行事后偏相关分析，提供了男女心理过程差异的证据。其结果表明，性别差异主要体现在形成情绪痛苦的过程中。女性的情绪痛苦主要由较低唤醒的消极情绪体验（如抑郁）导致，而男性的情绪痛苦主要由较高唤醒的消极情绪体验（如焦虑，情绪波动）所致。故第一人称单数代词似乎是一个更好的女性抑郁语言标志，一个更好的男性焦虑或情绪波动语言标志。这一结果为今后给不同性别分别建立评估情绪的语言指标提供了依据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2抑郁症患者少使用第一人称复数代词",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第一人称复数代词(we,us,our)的较多使用反映了一种适应性的心理过程，即，将自己嵌入社会关系中(Zimmermann et al.,2013)。多项研究发现，抑郁和第一人称复数代词使用呈显著负相关(e.g.Frost 2013; Zimmermann et al.,2013; Schoch-Ruppen et al.,2018)，但也有研究未得出两者间的相关性(e.g.Rude et al.,2004)。这种不一致的结果可能是交流环境因素造成的。例如，怀孕女性在描述本次怀孕期间的想法与感受时(Schoch-Ruppen et al.,2018)；处于长期关系中的个体在描述关系中发生的事件、决策经历和目标实现经历时(Frost,2013)，第一人称复数代词使用和抑郁呈负相关。而大学生在描述自己上大学以来最深刻的想法与感受时(Rude etal.,2004)，第一人称复数代词使用和抑郁无关。因此，社会隔离语言的产生可能主要受到人际一非人际交流环境的影响，抑郁个体倾向于在人际交流场合较少地使用第一人称复数代词。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第一人称复数代词的较少使用与个体体验到较高的人际关系痛苦和较低的主观幸福感相关(Frost,2013; Zimmermann et al.,2013)。Schoch-Ruppen 等(2018)对怀孕女性的研究发现，流产经历导致她们使用更少的第一人称复数代词。该结果表明社会关系丧失造成了她们的痛苦情绪，同时她们可能担心下一次流产从而与自己未出生的孩子产生情感疏离(MacWilliamset al.,2016)。因此，较少使用第一人称复数代词的个体可能在社会关系方面适应不良，并且正经受着人际上的痛苦。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3抑郁症患者多使用消极情绪词且少使用积极情绪词",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "抑郁个体消极偏向和积极缺陷的认知特点导致他们会更多使用消极情绪词（如，难过、沮丧、压抑和低落等)，更少使用积极情绪词。一些研究得出了抑郁和消极情绪词使用的显著正相关、和积极情绪词使用的显著负相关(e.g.Rude et al.,2004;Molendijk et al.,2010;Schoch-Ruppen et al.,2018)，另一些却没有(e.g. Van der Zanden et al., 2014; Bernard et al.,2015)。这种不一致的结果可能是交流对象因素造成的。Ireland 和 Mehl(2014)提出，抑郁个体可能会隐藏情绪语言以避免消极的社交结果（如被非抑郁个体排斥)。Baddeley 等(2012)使用设备追踪社区中人群的行为发现，抑郁症患者使用更多的消极情绪词，并且两者间的相关受到交流对象的调节，即抑郁症患者更多地向亲密朋友或伴侣表达消极情绪。因此，在写作或演讲任务的实验条件下可能不易观察到抑郁症患者使用情绪词的偏向。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于被试样本数量少、被试同质性高、时间跨度小、特定词汇使用与抑郁间本身的弱相关性等多个因素的影响，采用传统心理学方法得到的结果并不稳定。而收集大量的、来自不同被试群体的、具有时间跨度的数据是非常困难的，这也给抑郁症患者语言使用模式的研究带来了挑战。最近兴起的、基于社交媒体数据的研究可以在一定程度上克服这些问题，进一步检验现有研究结果，并带来一些新发现。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4抑郁症患者语言使用模式：来自基于社交媒体研究的结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1个人帖子中的语言使用模式",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于心理健康资源和患者就医意识的缺乏，患者诊疗时一般已达重度抑郁障碍(Zhao etal.,2018)。识别出社交媒体中的抑郁用户能部分地解决这一问题，同时也是一种提高社会心理健康水平的高效、经济的方式(Trotzek et al.,2018)。基于社交媒体数据的抑郁预测研究能够识别早期的抑郁个体，这有助于对其进行及时干预以及寻找最佳的治疗方案(董健宇等，2020)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "现有的抑郁预测研究多采用机器学习方法。简单来说，其过程就是将用户个人社交媒体上的人口学信息、个人帖子中的语言信息和用户行为信息等特征作为输入变量，将用户在抑郁症的标准化测验上的分数或被临床医师确诊为抑郁症的信息作为输出变量，构建抑郁的预测模型。这种抑郁症的识别方法已被许多研究证明是可行的(e.g.Leis etal.,2019;Hussain etal., 2019)，并且能够提供抑郁个体日常生活中的语言使用模式信息以补充和完善传统心理学研究的结果。表1展示了一些抑郁症患者发布的个人帖子。个人帖子中的语言使用模式结果主要通过两种方法获得(Guntuku et al.,2017)。一是使用 LIWC 软件量化文本内容中的语言使用模式，再通过统计学方法或特征工程(Feature Engineering)横向或纵向地比较语言使用模式的差异。二是通过主题模型推测文本的主题(Topic)分布。隐含狄利克雷分布(Latent DirichletAllocation,LDA)是常见的主题模型。主题模型可以自动以概率分布的形式生成各类别文本中的不同数量的主题，并统计不同主题下各词汇出现的频率。通过主题模型抽取文本的主题分布，也可实现文本的差异比较和分类，从而获得语言使用模式的结果(曹奔等,2018)。与LIWC 软件相比，主题模型不受限于词典所创建的词汇类别，能从语境、句子、段落等更高的意义单元理解文本(Imel et al.,2015)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "抑郁预测模型中的语言使用模式结果与传统的心理学研究中的结果基本一致（详细的研究结果见表2)，此外还提供了一些新的、一致的发现：(1)抑郁个体更少地使用第二、三人称代词，这可能是社会隔离的另一方面表现。即较差的社会关系（如单身、独居、社交网络薄弱或规模小以及社会互动不频繁等）使抑郁个体更少地在语言中提到他人；(2)更多地使用死亡词(death)。以往的研究已证实了相当一部分的抑郁症患者会出现自杀意念与行为，并通过语言向外界表达(Li et al.,2019)；(3)更多地使用焦虑词(anxiety)、脏话(swear words)和愤怒词(anger)。一方面，除了焦虑症和抑郁症在临床上表现出高共病率外，以往研究表明未共病的抑郁与焦虑个体的忧虑程度不存在统计学上的差异，这说明抑郁个体中也存在和焦虑相关的精神病理学特征并反映在其语言使用模式中(Merino et al.,2016)。另一方面，导致抑郁的刺激或事件（如压力事件）可能让个体产生除抑郁外的其他情绪，如焦虑、愤怒等(Newellet al.,2017)；(4)更多地使用宗教词(religion)和健康词(health)，这表明抑郁个体对自身状况的察觉促使他们寻求摆脱困境的方法，即他们可能寻求宗教支持或对自身健康状况更加关注；(5)更多地使用因果词(cause)和否定词(negation)，这可能是由他们倾向于作出消极归因和解释的认知偏向导致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2抑郁社区中的语言使用模式",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在线健康社区作为社交媒体的另一种形式，给精神障碍患者提供了一个交换社会支持、与他人连接的平台(Pendry& Salvatore,2015)。用户可以在平台上自由表达，这一定程度上克服了社会对精神障碍的污名化与歧视问题(Li etal.,2018)。平台上用户发布的文本内容可作为语言使用模式的研究数据，例如，可以对这些内容进行情感分析，横向比较不同社区间的语言使用模式差异，以及纵向分析个人加入社区后的语言使用模式变化等(Lyons etal.,2018;Park&Conway,2017)。与上文中提到的研究结果一致，抑郁社区中包含比对照社区更多的第一人称单数代词、消极情绪词，更少的第一人称复数代词、积极情绪词等(Nguyen et al,2014; Xu & Zhang, 2016; Lyons et al., 2018)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "虽然网络上的同伴支持能够增强个体的社会联结和归属感(Uden-Kraan et al.,2009)，但也有研究者提出了情绪传染理论，即与抑郁个体的交流可能是导致抑郁的一个潜在因素(Bastiampillai et al.,2013)。因此，抑郁社区如何对抑郁个体产生影响是一个有待澄清的问题。Park 和Conway(2017)开展的一项纵向研究表明，处于抑郁社区一段时间后，用户的抑郁相关语言标志均朝积极的方向变化（尽管这种变化有的并不显著)，并且这种积极变化随着交流数量的增加而增强，这表明抑郁社区中的交流给抑郁个体带来了正面的影响。然而，由于抑郁社区是一种新兴的社交媒体，其中的抑郁个体如何互相影响的具体机制目前仍尚不清楚。故这方面的研究还有待完善，以改进抑郁社区的运作机制来更好地帮助抑郁症患者。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5抑郁症相关理论对抑郁症患者语言使用模式的解释",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究者从不同视角提出了关于抑郁症的不同理论或理论模型。这些理论模型一定程度上能帮助我们理解抑郁症患者的语言使用模式。抑郁症的行为模型从个体与外部环境的关系角度理解抑郁，认为抑郁本质上是一系列无法获得强化/奖励的行为的结果(Leahy et al.,2012)。典型的抑郁行为包括孤立、抱怨、思维反刍等，反映在语言使用模式上，就表现为大量第一人称单数代词（尤其是主、宾语）、较少第一人称复数代词、较少第二/三人称代词、以及较多消极情绪词，甚至脏话和愤怒词的使用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "抑郁症的认知模型强调抑郁症状是由负性认知偏差所导致。认知内容方面，抑郁症患者对自己、世界和未来均持有负性信念(Beck&Alford,2009)，反映在语言使用上，易表现为死亡词、焦虑词的大量使用。认知过程方面，抑郁症患者也存在一系列偏差，例如，过分聚焦、反刍负性想法、感受和问题，几乎不关注积极方面(Nolen-Hoeksenma et al.,2008;Wells,2009)，反映在语言使用上，表现为消极情绪词的大量使用。此外，抑郁症患者还倾向于把错误和失败归因于自身内部因素，如能力不够(Abramson et al.,1978;Abramson et al.,1989)。这些归因方式体现在因果词和否定词的大量使用上。还有一些认知取向的模型认为抑郁症是自我中心、自我专注的结果，患者过分自我关注，导致负性情感增加(Leahy etal.,2012)。反映在语言使用上，易表现为大量第一人称单数代词和消极情绪词的使用上。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "人际和社会行为学取向的研究者认为抑郁是适应不良人际行为，或者人际关系功能失调的结果。Coyne(1989)的人际奖赏模型认为，抑郁症患者通过抱怨引起他人的关注，从而获得正性强化，然而持续的抱怨和执着于自我易导致他人对其的拒绝，进而加重患者的抑郁。抑郁症患者引发他人关注、求助他人的行为体现在其语言使用上，即表现为宗教词、健康词的大量使用。抑郁症患者面临的人际关系功能失调(Klerman et al.,1984)，包括人际冲突、人际关系困难等，导致患者孤单、怨恨等消极认知和消极情绪增加，体现在其语言上，表现为大量第一人称单数代词、消极情绪词、焦虑与愤怒词的使用。Joiner与同事(2009)提出了自杀和抑郁的人际理论，认为自杀意图与患者对自身人际关系的认知（觉得自己是别人的负担或者缺乏归属感）有关，因而在描述自身状况时，患者会使用大量死亡词。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6现存问题及未来展望",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6.1语言标志的特异性不足",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "传统心理学研究发现的语言标志不仅和抑郁相关，还与更广泛的精神障碍（如焦虑）存在联系(e.g. Sweeny et al.,2015; Tackman et al.,2018; Schoch-Ruppen et al.,2018)。基于社交媒体的研究中，尝试使用LIWC通过语言标志来区分抑郁症与其他精神障碍的研究也得出了不一致的结果(Nguyen et al.,2014; Cheng et al.,2017)。因此，目前的语言标志可能代表了一种并非特定于抑郁的情绪痛苦倾向。要想通过语言使用模式对具体不同情绪进行评估，未来的研究需要探索更精细的特征或加上其他的特征来共同评估。例如，研究发现抑郁症患者的声音特征有语速慢、音量小、音调缺乏变化、停顿时间长及次数多、语言持续时间短和启动延时长等(Wang etal.,2018)。抑郁症患者在肢体语言方面的特征有行走速度慢、感觉运动空间减少、站立与坐下时上半身直立时间减少等(Scheffers et al.,2018)。结合这些非言语行为特征有助于在研究和临床实践中更准确地评估抑郁情绪。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外，虽然使用LIWC 量化语言使用模式在过去的研究中已被证明是一种有效的方法，但整体上来看现有的研究结果仍受限于LIWC 限定的词汇类别。一方面，未来研究应继续探索现有词汇类别下更精细的抑郁特异性语言标志。另一方面，随着时代的发展，一些不包含于LIWC 词汇类别中的、新兴的、拼写不规范的词汇和俚语在日常生活或网络中的交流中是非常常见的。因此，研究者应持续更新语言分析方法和工具，以探索其他可能的抑郁特异性语言标志外，临床工作者也应更开放地、谨慎地理解患者使用的语言背后的心理意义。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6.2影响语言使用模式的因素有待确认",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "虽然通过语言标志评估抑郁情绪是一个可行的方法，但语言使用模式和抑郁情绪间的联系可能受到很多内部和外部因素的影响。传统心理学研究主要关注外部因素对抑郁症患者语言使用模式的影响（如交流环境对第一人称单数及复数代词使用的影响、交流对象对情绪词使用的影响等)，并且得出了初步的结果。未来的研究可根据基于社交媒体的研究新发现，进一步探索外部因素对语言使用模式的影响。例如，焦虑词、脏话和愤怒词的使用可能受到刺激类型的调节，某种丧失事件（如亲人或伴侣的离去）可能仅致使个体产生抑郁情绪，而一些压力事件（如遭受责骂或歧视）则可能使个体同时产生抑郁、焦虑和愤怒等情绪。死亡词、宗教词和健康词的使用可能受到交流环境的调节，抑郁个体在寻求摆脱当前困境（如自杀、寻求宗教支持和关注自身健康等）时更容易涉及这方面的话题，因而这些词汇较容易被使用。同样地，因果词和否定词更可能在对一些消极事件进行归因时使用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从个人内部因素来看，一方面，为了满足社会赞许，个体可能倾向于在自我报告量表中报告较低的精神病理水平(Hampson et al.,1987)。另一方面，抑郁个体的认知偏向可能使他们的自我察觉能力减弱，在临床上表现出更严重的病理水平。例如，Fast 和Funder(2010)在研究中发现，第一人称单数代词仅和临床医师评定的抑郁水平相关，而和自我报告的抑郁水平无关。因此，相对量表等自我报告，语言使用模式可成为相关研究和临床评定的一个客观行为指标。此外，已有研究表明，具有高神经质人格、低自尊和自我效能感等个人特质的个体患抑郁症的风险较高，这些个人特质本身也可能对语言使用模式产生影响(Merino et al,2016;Orth et al.,2016; Zhang＆Jin,2014)。然而，目前鲜有研究关注个人内部因素对语言使用模式的影响，确认这些影响因素能够更好的控制有关变量和提高评估的准确性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6.3语言标志对中国人的适用性有待验证",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "过去相关研究的被试群体大多为西方人，这些结果能否适用于中国人群体尚未得到验证。跨文化研究表明，受到社会污名化和文化价值观等因素的影响，中国抑郁症患者倾向于表达自己的躯体症状而不是心理症状（即，更少表达情绪症状和认知症状)，这也造成了许多误诊的情况(Zhou et al.,2016; Zhao et al.,2018)。此外还有一些未意识到自身心理健康问题的人也可能主要报告躯体症状（如失眠、头痛等）从而造成误诊。因此，躯体症状相关词（如生理历程词、身体词等）可能是一种在中国抑郁群体的特异性语言标志。未来的研究除了需要检验以往研究的语言标志在中国人中的适用性以外，还可将语言使用模式和症状学的研究结合起来，以提高识别的准确率。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6.4对抑郁症患者语言使用模式的理论研究有待加强",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基于社交媒体的研究揭示了很多新的、关于抑郁症患者语言使用模式的发现，其中一部分发现可以为抑郁症相关理论所解释（见第5部分)，但还有一些研究结果无法很好地为现有理论解释，例如，新兴的在线抑郁社区如何对抑郁个体产生影响。此外，抑郁症患者不同于普通人群的语言使用模式的确反映了其心理病理特征，那么，抑郁症患者的语言使用模式反过来是否也会影响其心理病理水平？其影响机制是什么？现有认知行为取向的心理治疗重视帮助抑郁症患者增加积极的自我（言语）陈述，语言使用模式对抑郁情绪的影响研究有助于帮助临床研究者与实践者进一步从语言使用角度开发新的抑郁干预方法。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综上所述，来自传统的心理学研究和基于社交媒体的研究相辅相成，在一定程度上弥补了各自的缺陷，增加了研究者对抑郁症患者语言使用模式的理解。但总的来说，该领域的研究目前仍面临着语言标志的特异性不足、相关影响因素研究不足、在中国人群中的适用性不明确、以及相关理论研究不足等问题。未来研究者需要探索更具特异性的抑郁语言标志、确认影响语言使用模式的因素、开展以中国人为被试的语言使用模式研究，以及加强相关理论研究，不断优化该领域的研究结果，并应用于临床实践。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "曹奔，夏勉，任志洪，林秀彬，徐升，赖丽足..江光荣.(2018).大数据时代心理学文本分析技术— “主题 模型\"的应用．心理科学进展,26(05),770-780.   \n董健宇，韦文棋，吴珂，妮娜，王粲霏，付莹,.彭歆.(2020).机器学习在抑郁症领域的应用，心理科学进展， 28(02),266-274.   \n杨营凯,& 刘衍玲.(2016).抑郁反刍的认知神经机制．心理科学进展,24(07),1042-1049.   \nAbe,J.A.A. (2009). Words that predict outstanding performance. Journal of Research in Personality，43, 528-531.   \nAbramson,L.Y.,Metalsky,G.I.,& Alloy,L.B..(1989). Hopelessness depression: A theory-based subtypeof depression. Psychological Review, 96(2),358-372.   \nAbramson,L.Y.,Seligman,M.E.,& Teasdale,J.D..(1978).Learned helplessnessin humans: Critique and reformulation. Journal of Abnormal Psychology, 87(1), 49-74.   \nBaddeley, J.L., Pennebaker, J. W.,& Beevers, C. G. (2Ol2).Everydaysocial behavior duringa major depressive episode. Social Psychology and Personality Science,4,445-452.   \nBastiampilli,T.,Allson, S.,& Chan,S. (20l3). Is depression contagious? The importance ofsocial networksand the implications of contagion theory. Australian & New Zealand Journal of Psychiatry,47(4),299-303.doi: 10.1177/0004867412471437   \nBeck,A.T.,& Alford,B.A. (2009). Depression: Causes and treatment (2nd ed.). Philadelphia,PA: Universityof Pennsylvania Press.   \nBernard,J.D.,Baddeley,J.L.,Rodriguez,B.F.,&Burke,P.A.(21).Depression,language,andaect.Journal ofLanguage and Social Psychology,35(3),317-326.doi: 10.1177/0261927X15589186   \nBoyd,R.L.,& Pennebaker,J. W. (2016).A way with words: Using language for psychological science in the modern era. Consumer Psychology in a Social Media World. New York,NY: Routledge.   \nBrockmeyer,T.,Zimmermann,J.,Kulessa,D.,Hautzinger,M.,Bents,H.,Friederich,H.-C..Backenstrass, ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2015).Me,myself,and I: Self-referent word use as an indicator of self-focused attention in relation to depression and anxiety.Frontiers in Psychology,6,1564-1573.http://dx.doi.org/10.3389/fpsyg.2015.01564 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Coppersmith, G., Dredze, M., Harman, C.,& Hollingshead, K.. (2015). From ADHD to SAD: Analyzing the language of mental health on twiter through self-reported diagnoses. Proceedings of the 2nd Workshop on Computational Linguistics and Clinical Psychology: From Linguistic Signal to Clinical Reality.   \nCoyne, J. C.. (1989). Thinking postcognitively about depresson. Comprehensive handbook of cognitive therapy. New York, NY: Springer.   \nChan, A., Malhotra, C., Malhotra,R.,& Ostbye,T. (2011).Living arrangements,social networks and depressive symptoms among older men and women in Singapore. International Journal of Geriatric Psychiatry, 26(6), 630-639. doi: 10.1002/gps.2574   \nCheng,Q.,Li,T. M., Kwok, C.L.,Zhu,T.,& Yip,P.S. (2017). Assessing suicide risk and emotional distressin chinese social media: A text mining and machine learning study. Journal of Medical Internet Research, 19(7), e243. doi:10.2196/jmir.7276   \nDe Choudhury，M., Gamon, M.， Counts，S.,& Horvitz,E.(2013). Predicting depression via social media. Proceedings of the 7th International AAAI Conference on Weblogsand Social Media,13,1-10.Palo Alto, CA: Association for the Advancement of Artificial Intelligence.   \nDe Choudhury, M., Counts,S., Horvitz,E.J.,& Hoff, A.. (2014). Characterizing and predicting postpartum depression from shared facebook data. Proceeding of the l7th ACM Conference on Computer Supported Cooperative Work and Social Computing, 626-638.   \nDuval, S.,and Wicklund, R. (1972). A theoryofobjective self-awareness. New York, NY: Academic Press.   \nEdwards，T.，& Holtzman, N. S. (2017). A meta-nalysis of correlations between depresson and first person singular pronoun use.Journal of Research in Personality,68,63-68. doi: 10.1016/j.jrp.2017.02.005   \nFast, L.A.,& Funder, D.C. (2010). Gender diferences in the correlates of self-referent word use: Authority, entitlement,anddepressivesymptoms.JournalofPersonality，78(1)， 313-338.doi: 10.1111/j.1467-6494.2009.00617.x   \nFriedrich,M.J. (2017). Depression is the leading cause of disability around the world. The Journal of the American Medical Association,317(15),1517. doi: 10.1001/jama.2017.3826   \nFrost,D.M. (20l3). The narrative construction of intimacy and afect in relationship stories: implications for relationship quality,stability,and mental health.Journal ofSocial and Personal Relationships.30,247-269. doi: 10.1177/0265407512454463 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Gold,P.W.，Machado-Vieira,R.,& Pavlatou,M.G.(2O15).Clinical and biochemical manifestationsof depression: Relation to the neurobiology of stres.Neural Plasticity,2015,1-11.doi:10.1155/2015/581976 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Gooding,P.A.,Taylor,P.J.,and Tarrier,N. (2012).Perceived extent and efectiveness of reflection and brooding inrelation to depressed mood. Cognitive Therapy and Research， 36， 282-289. doi: 10.1007/s10608-011-9367-x   \nGuntuku,S.C., Yaden,D.B., Kern, M.L., Ungar,L. H.,&Eichstaedt,J. C. (2017). Detecting depressionand mentalillness on social media: An integrative review. Current Opinion in Behavioral Sciences,18,43-49. http://dx.doi.org/10.1016/j.cobeha.2017.07.005   \nHampson,S.E., Goldberg,L.R.,& John,O.P. (1987). Category-breadth and social desirability values for 573 personality terms.European Journal of Personality,1,241-258. htp:/dx.doi.org/10.1002/per.2410010405   \nHerrman, H.,Kieling,C.,McGorry,P.,Horton,R.,Sargent,J...Patel,V. (2019). Reducing the global burdenof depression: A Lancet-World Psychiatric Association Commisson. The Lancet, 393(10189), e42-e43.doi: 10.1016/S0140-6736(18)32408-5   \nHuang,Y., Wang,Y., Wang,H.,Liu,., Yu,X., Yan,J.. Wu, Y. (2019). Prevalence of mental disorders in China:A cross-sectional epidemiological study. The Lancet Psychiatry， 6(3)， 211-224.doi: 10.1016/S2215-0366(18)30511-X   \nHussain,J.,Sati,F.A.,Afzal,M.,Khan, W. A.,Bilal, H. S.M.,Ansar,M. Z..Lee,S. (2019). Exploring the dominant features of social media for depression detection. Journal of Information Science. doi: 10.1177/0165551519860469   \nImel, Z. E.， Steyvers，M.，& Atkins,D. C. (2015). Computational psychotherapy research: Scaling up the evaluation of patient-provider interactions. Psychotherapy, 52(1),19-30.   \nIngram,R.E. (199o). Self-focused atention in clinical disorders: Review and a conceptual model.Psychological Bulletin,107(2),156-176. doi: 10.1037/0033-2909.107.2.156   \nIreland,M. E.,& Mehl, M. R. (2014). Natural language use as a marker of personality. In T. Holtgraves (Ed.), Oxford handbook of language and social psychology. New York, NY: Oxford University Press.   \nJames,W. (1890). The principlesofpsychology.NewYrk,NY: Holt & Co. htp://dx.doi.org/10.1037/11059-000   \nJohnson,D.P.,& Whisman, M. A. (20l3). Gender diffrences in rumination: A meta-analysis. Personality and Individual Differences,55(4),367-374. doi: 10.1016/j.paid.2013.03.019   \nJoiner,T.E.,Jr.,Van Orden,K.A.,Witte,T.K.,&Rudd,M.D.(2009). The interpersonal theoryof suicide: Guidance for working with suicidal clients. Washington, DC: American Psychological Association. doi: ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "10.1037/11869-000",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Kawachi,I.,&Berkman,L.F.. (20o1).Social tiesand mental health.Journalof Urban Health,78(3),458-467. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Klerman,G.，Weissman,M.M.，Rounsaville, B.J.，& Chevron,E.(1984). Interpersonal Psychotherapy of depression. New York, NY: Basic Books. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Lancet.(2012).Depresion and the global economic crisis: is there hope? The Lancet, 380(9849),1203.doi: 10.1016/S0140-6736(12)61694-8   \nLeahy,R.L., Hollnd, S.J.F., McGinn, L. K. (2012). Treatment plans and interventions for depression and anxiety disorders. New York, NY: Guilford Press.   \nLedford，H. (2014). Medical research: If depression were cancer. Nature, 515(7526)， 182-184.   \ndoi:10.1038/515182a   \nLeis,A.,Ronzano,F.,Mayer,M.A.,Furlong,L.1.,& Sanz,F. (2019).Detecting signs of depression in tweets in Spanish: Behavioral and linguistic analysis. Journal of Medical Internet Research, 21(6),e14199.doi: 10.2196/14199   \nLi, A.,Jiao,D.,& Zhu,T..(2018). Detecting depresson stigma on social media: alinguistic analysis.Journal of Affective Disorders, 232,358-362.   \nLi, A.,Jiao,D.,Liu, X.,Sun,J.,& Zhu,T.. (2019). A psycholinguistic analysis of responses to live-stream suicides on social media. International Journal of Environmental Research and Public Health,16(16),2848.   \nLiu,H.,Zhang,M.，Yang,Q.,& Yu, B.(202O). Gender diferences in the influence of social isolation and loneliness on depressive symptoms in college students: A longitudinal study. Social Psychiatry and Psychiatric Epidemiology,55(2),251-257. doi: 10.1007/s00127-019-01726-6   \nLyons,M.，Aksayli, N. D.，& Brewer, G. (2018). Mental distress and language use: Linguistic analysis of discussion forum posts. Computers in Human Behavior, 87,207-211. doi: 10.1016/j.chb.2018.05.035   \nMacWilliams,K.,Hughes,J.,Aston,M.,Field,S.,and Moffat,F.W.(2016). Understanding the experienceof miscarriage in the emergency department. Journal of Emergency Nursing. 42， 504-512. doi: 10.1016/j.jen.2016.05.011   \nMerino Hipolito,Carmen,S.，Fereiro Fatima,& Carles,S.M.. (2016).Are worry and rumination specific pathways linking neuroticism and symptoms of anxiety and depresson in patients with generalized anxiety disorder, major depressive disorder and mixed anxiety-depressive disorder? Plos One,11(5),e0156169.   \nMolendijk,M.L., Bamelis,L., van Emmerik,A. A. P.,Arntz, A., Haringsma,R.. Spinhoven,P. (2010). Word use of outpatients with a personality disorder and concurrent or previous major depressive disorder. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Behaviour Research and Therapy,48(1),44-51.doi:10.1016/j.brat.2009.09.007 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Nadeem,M..(2016).Identifying depression on twitter.ArXiv:1607.07384 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "National Institute of Mental Health. (2Ol2). Research domain criteria framework. Retrieved from https://www.nimh.nih.gov/research-priorities/rdoc/definitions-of-the-rdoc-domains and-constructs.shtml ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Nejad,A.B.,Rotgé,J.,Valabregue,R., Guerin-Langlois,C.,，Hoertel,N.,Gorwood,P...Lemogne,C.(2019). Medial prefrontal disengagement during self-focus in formerly depressed patients prone to rumination. Journal of Affective Disorders, 247,36-44. doi: 10.1016/j.jad.2019.01.004   \nNewell,E.E., Mccoy,S. K.,Newman,M.L.,Wellman,J. D.,& Gardner,S.K.. (2017). You sound so down: Capturing depressed afect through depressed language. Journal of Language & Social Psychology, 0261927X1773112.   \nNiederkrotenthaler,T.,Til,B.,& Garcia,D.(2019). Celebrity suicideon Twitter: Activity,content and network analysis related to the death of Swedish DJ Tim Bergling alias Avicii. Journal of Affective Disorder, 245, 848-855. doi: 10.1016/j.jad.2018.11.071   \nNguyen,T.,Phung,D.,Dao,B.,Venkatesh,S.,& Berk,M.. (2014).Affective and content analysis of online depression communities. IEEE Transactions on Affctive Computing, 5(3),217-26.   \nNolen-Hoeksema,S.，Wisco,B.E.，& Lyubomirsky，S..(2008).Rethinking rumination. Perspectives on Psychological Science,3(5),400-424.   \nOrth, U.,Robins,R.W.,Meier,L.L.,&Conger,R.D. (20l6).Refining the vulnerability model oflow self-esteem and depression: Disentangling the effects of genuine self-esteem and narcissism. Journal of Personality and Social Psychology,110(1),133-149.https://doi.org/10.1037/pspp0000038   \nPark,A.，& Conway,M..(2017). Longitudinal changes in psychological states in online health community members: Understanding the long-term effects of participating in an online depression community. Journal ofMedical Internet Research,19(3),e71.   \nPendry,L.F.,& Salvatore,J.. (20l5). Individual and social benefits of online discussion forums.Computers in Human Behavior,50,211-220.   \nPennebaker,J.W.， Booth,R.J.，& Francis,M.E.(20o7).Linguistic inquiry and word count: LIWC2007: Operator's manual. Austin, TX: LIWC.net.   \nPreoiuc-Pietro,D.， Eichstaedt,J.， Park,G.，Sap,M.,&Ungar,L.. (2015). The role of personality,age, and gender in tweeting about mental illnessProceedings of the 2nd Workshop on Computational Linguistics and Clinical Psychology:From Linguistic Signal to Clinical Reality.   \nPulverman, C. S., Lorenz, T. A.，& Meston, C.M. (2015). Linguistic changes in expressive writing predict psychological outcomes in women with history of childhood sexual abuse and adult sexual dysfunction. Psychological Trauma: Theory,Research,Practice,andPolicy,7(1),50-57.doi: 10.1037/a0036462   \nPyszczynski,T.,and Greenberg, J. (1987).Self-regulatory perseveration and the depressve self-focusing style: A self-awarenesstheoryof reactivedepression. Psychological Buletin.102， 122-138. doi: 10.1037/0033-2909.102.1.122   \nRohrbaugh,M. J.,Shoham, V.,Skoyen,J.A.,Jensen,M.,& Mehl,M.R. (2012). We-talk,communal coping,and cessation success in a couple-focused intervention for health-compromised smokers.Family Process，51, 107-121.   \nRude,S.,Gortner,E.，& Pennebaker,J. (2o04).Language useof depressed and depression-vulnerable college students. Cognition and Emotion,18(8),1121-1133. doi: 10.1080/02699930441000030   \nScheffers,J,M.A.,Duijn,V.,Beldman,RJ,&Bosscher,etal. (2O18).Bodyatitude,bodysatisfactionandbody awareness in a clinical group of depressed patients: An observational study on the associations with depression severity and the influence of treatment. Journal of Affective Disorders,242,22-28.   \nSchoch-Ruppen,J.,Ehlert, U., Uggowitzer，F.，Weymerskirch,N.，&La Marca-Ghaemmaghami,P.(2018). Women's word use in pregnancy: Associations with maternal characteristics, prenatal stress,and neonatal birth outcome.Frontiers in Psychology,9. doi: 10.3389/fpsyg.2018.01234   \nSchwartz,A. H.,Eichstaedt,J. C., Kern, M.L.,Park,G.,& Ungar,L.H.. (2014). Towards assessing changes in degree of depresson through Facebook. Workshop on Computational Linguistics and Clinical Psychology: From Linguistic Signal to Clinical Reality.   \nSilvia,P.,& Abele,A. (20o2). Can positive affect induce self-focused atention? Methodological and measurement issues. Cognition and Emotion, 16, 845-853   \nSuslow,T., Wildenauer,K.,& Gunther,V. (2O19).Ruminative response style is associated witha negative bias in the perception of emotional facial expressions in healthy women without a history of clinical depression. Journal of Behavior Therapy and Experimental Psychiatry,62,125-132.doi: 10.1016/j.jbtep.2018.10.004   \nSweeny,K.,Andrews,S.E.,Nelson,S.K.,& Robbins,M.L. (2015).Waiting forababy: Navigating uncertainty inrecollections of trying to conceive. Social Science and Medicine，141，123-132. doi: 10.1016/j.socscimed.2015.07.031   \nTackman,A. M.,Sbarra,D.A.,，Carey,A.L.,Donnellan,M.B.,Horn,A.B.,Holtzman, N. S... Mehl, M.R. (2019).Depression,negative emotionality,and self-referential language: A multi-lab,multi-measure,and ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "multi-language-task researchsynthesis.Journal of Personalityand Social Psychology,116(5),817-834.doi: 10.1037/pspp0000187 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Treynor,W.,Gonzalez,R.,and Nolen-Hoeksema,S.(2oo3).Rumination reconsidered:A psychometricanalysis. Cognitive Therapy and Research.27,247-259.doi: 10.1023/A:1023910315561 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Trotzek,M., Koitka, S.,& Friedrich, C.M.. (2O18). Utilizing neural networksand linguistic metadata for early detection of depresson indications in text sequences. IEEE Transactions on Knowledge and Data Engineering,32(3),588-601.   \nUden-Kraan, C.F.V.,Drossaert, C. H.C.,Taal,E.,Seydel,E.R.,& M.A.F.J.van de Laar. (29).Participation in online patient support groups endorses patients' empowerment. Patient Education and Counseling, 74(1), 61-69.   \nVanderlind,W.M., Millgram,Y., Baskin-Sommers,A.R.,Clark,M.S.,&Joormann,J. (2020). Understanding positive emotion deficits in depresson: From emotion preferences to emotion regulation. Clinical Psychology Review,76,101826. doi:10.1016/j.cpr.2020.101826   \nVan der Zanden，R.,，Curie，K.,，Van Londen，M.， Kramer,J.,， Steen, G... Cuijpers,P. (2014). Web-based depression treatment: Associations of clients' word use with adherence and outcome. Journal of Afective Disorders,160,10-13. doi: 10.1016/j.jad.2014.01.005   \nWang, J.,Sui, X.,Hu,B.,Flint,J.,& Zhu,T.. (2018). Detecting Postpartum Depresion inDepressed People by Speech Features. Human Centered Computing, 10745, 433-442.   \nWells,A.. (2009). Metacognitive therapy for depression. Acceptance and mindfulness in cognitive behavior therapy. New York, NY: Guilford Press.   \nXu, R.,& Zhang, Q.. (2016). Understanding online health groups for depression: Social network and linguistic perspectives. Journal of Medical Internet Research,18(3), e63.   \nZhang,Y.,& Jin， S. (2014). The impact of social support on postpartum depression: The mediator role of self-efficacy.Journal of Health Psychology,21(5),720-726. htps://doi.org/10.1177/1359105314536454   \nZhao,D., Wu,Z., Zhang,H., Mellr,D.,Ding,L., Wu,H... Fang, Y. (2018). Somatic symptoms vary in major depressive disorder in China. Comprehensive Psychiatry, 87,32-37. doi:10.1016/j.comppsych.2018.08.013   \nZhou, X.,Peng,Y., Zhu, X., Yao, S., Dere,J.,& Chentsova-Dutton, Y.E.,et al. (2016).From culture to symptom: Testing a structural model of \"chinese somatization\". Transcultural psychiatry, 53(1),3-23.   \nZimmermann, J., Brockmeyer,T., Hunn, M.,Schauenburg,H.,& Wolf, M. (2017).First-person pronoun use in spoken language as a predictor of future depressive symptoms: Preliminary evidence from a clinical sample ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "of depressed patients. Clinical Psychology and Psychotherapy,24(2),384-391. doi: 10.1002/cpp.2006 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Zimmermann,J.,Wolf,M.,Bock,A.,Peham,D.,& Benecke,C.(2013).The way we refer to ourselves reflects how we relate to others: Associations between first-person pronoun use and interpersonal problems.Journal ofResearch in Personality,47(3),218-225.doi: 10.1016/j.jrp.2013.01.008 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "表1抑郁症用户发布的个人帖子样例",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1.\"Are you okay?\" Yes...Iunderstand that I am upset and hopeless and nothing can help me...I'm okay..but Iam not alright“你没事吧？”是的…。我知道我很沮丧，没有希望，没有什么能帮助我…我没事…但我不太好",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2.“empty” feelings I WAS JUST TALKING ABOUT HOW II HAVE EMOTION OH MY GOODNESS IFEEL AWFUL“空虚”的感觉 我只是谈谈我的情绪如何 天呐 我感觉糟透了  \n3．I want someone to hold me and be there for me when I'm sad.当我悲伤的时候，我希望有人抱紧我，陪在我身边。  \n4.I actually made sure no one knew about my feelings or thoughts.事实上，我确定没有人知道我的感受或想法。",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c4ea6f690d4c4d650bf4934e53767a75a4d148d624ee493a5541820310a36ed.jpg",
+        "table_caption": [
+            "表2抑郁症患者和对照组的语言使用模式差异"
+        ],
+        "table_footnote": [
+            "4 $+ ^ { , , }$ 表示抑郁症患者使用更多该词汇，“ $\\dot { \\mathbf { \\eta } } = \\mathbf { \\eta }$ ”表示无差异，“-”表示使用更少，“/”表示未提供该结果。参考文献[1]De Choudhury et al.,2014; [2]Schwartz et al.,2014; [3]Coppersmith etal.,2014;[4]Coppersmith etal.,2015;[5]Preotiuc-Pietro et al.,2015;[6]Nadeem etal.,2016;[7]Leis etal.,2019;[8]Hussin etal.,2019"
+        ],
+        "table_body": "<html><body><table><tr><td>参考文献</td><td>[1]</td><td>[2]</td><td>[3]</td><td>[4]</td><td>[5]</td><td>[6]</td><td>[7]</td><td>[8]</td></tr><tr><td>年份</td><td>2014</td><td>2014</td><td>2014</td><td>2015</td><td>2015</td><td>2016</td><td>2019</td><td>2019</td></tr><tr><td>平台</td><td>Facebook</td><td>Facebook</td><td>Twitter</td><td>Twitter</td><td>Twitter</td><td>Twitter</td><td>Twitter</td><td>Facebook</td></tr><tr><td>样本量</td><td>165</td><td>28749</td><td>21866</td><td>4026</td><td>1957</td><td>900</td><td>540</td><td>4350</td></tr><tr><td>工具</td><td>LIWC</td><td>LIWC</td><td>LIWC</td><td>LIWC</td><td>LIWC</td><td>其他</td><td>其他</td><td>LIWC</td></tr><tr><td></td><td></td><td>LDA</td><td></td><td></td><td>LDA</td><td></td><td></td><td>LDA</td></tr><tr><td>第一人称单数代词</td><td>+</td><td>+</td><td>/</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>第一人称复数代词</td><td>1</td><td>/</td><td>/</td><td>-</td><td>/</td><td>/</td><td>-</td><td>/</td></tr><tr><td>消极情绪词</td><td>=</td><td>+</td><td>+</td><td>+</td><td>+</td><td>/</td><td>+</td><td>+</td></tr><tr><td>积极情绪词</td><td>-</td><td>/</td><td>=</td><td>=</td><td>/</td><td>/</td><td></td><td>/</td></tr><tr><td>第二、三人称代词</td><td>-</td><td>/</td><td>/</td><td>=</td><td>/</td><td>/</td><td>-</td><td>/</td></tr><tr><td>死亡词</td><td>/</td><td>/</td><td>/</td><td>+</td><td>+</td><td>/</td><td>/</td><td>+</td></tr><tr><td>脏话</td><td>+</td><td>+</td><td>+</td><td>=</td><td>+</td><td>+</td><td>/</td><td>/</td></tr><tr><td>愤怒词</td><td>/</td><td>+</td><td>+</td><td>+</td><td>/</td><td>/</td><td>+</td><td>+</td></tr><tr><td>焦虑词</td><td>/</td><td>/</td><td>+</td><td>+</td><td>/</td><td>/</td><td>/</td><td>+</td></tr><tr><td>宗教词</td><td>/</td><td>/</td><td>/</td><td>=</td><td>/</td><td>/</td><td>/</td><td>+</td></tr><tr><td>健康词</td><td>/</td><td>/</td><td>/</td><td>+</td><td>/</td><td>/</td><td>/</td><td>+</td></tr><tr><td>因果词</td><td>/</td><td>/</td><td>/</td><td>+</td><td>+</td><td>/</td><td>/</td><td>+</td></tr><tr><td>否定词</td><td>+</td><td>+</td><td>/</td><td>=</td><td>+</td><td>+</td><td>/</td><td>+</td></tr></table></body></html>",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The linguistic patterns of depressed patients ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Language use reveals information about psychological state and psychopathological traits.Individuals with depression are distinguishable from healthy people in their patterns of language use. Identifying these linguistic patterns would help predict and beter diagnosis depression. Research using traditional psychology methods and studies using social media data have demonstrated that individuals with depression used more first person singular pronouns and negative emotion words,and less first person plural pronouns and positive emotion words. Social media based research also identified some other language indicators of depressed patients in their daily lives. Future studies should identify other linguistic markers specific to depression,and explore the theoretical links between language indicators and depressive symptomatology. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Key words: depression,language use, social media, prediction, diagnosis ",
+        "page_idx": 20
+    }
+]

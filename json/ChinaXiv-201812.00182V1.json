@@ -1,0 +1,544 @@
+[
+    {
+        "type": "text",
+        "text": "1 大恒肉鸡对不同来源菜籽粕的代谢能和氨基酸营养价值评定",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 张婵娟　王建萍 丁雪梅　曾秋凤　白世平 张克英\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （四川农业大字动物宫乔研宄所，动物抗病宫乔教肖部里点实验至，雅安625014）  \n4 摘要：本试验旨在研究大恒肉鸡运用真代谢能（TME）法对不同来源菜籽粕的代谢能（ME）  \n5 和氨基酸营养价值的评定。从四川省的饲料企业随机收集12个菜籽粕样品，评定其ME 和氨基  \n6 酸真利用率（TAAA)。ME评定：分3批代谢试验，每批48只正常鸡，随机分为6个组，每组8  \n7 个重复，每个重复1只鸡。TAAA评定：分3批代谢试验，每批36只去盲肠鸡，随机分为6个  \n8 组，每组6个重复，每个重复1只鸡。每批做1个内源组，每批之间设10d恢复期。试验采用  \n9 TME 法测定ME，试验鸡饥饿 $4 8 \\mathrm { { h } }$ ，然后按体重 $2 \\%$ 强饲待测饲粮，收集排泄物 $4 8 \\mathrm { { h } }$ ；内源组鸡  \n10 饥饿 $4 8 \\mathrm { { h } }$ ，再继续饥饿收集排泄物 $4 8 \\mathrm { h }$ 。结果显示：1）12个菜籽粕样品的干物质（DM）、粗蛋  \n11 白质（CP）、总能（GE）、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）、粗纤维（CF）、粗脂肪  \n12 （EE)和粗灰分（ash)的平均含量分别为 $8 7 . 6 7 \\%$ ， $4 2 . 1 0 \\%$ 、19.75 MJ/kg、39.99%、 $1 6 . 1 3 \\%$ 、 $1 5 . 1 5 \\%$ 、  \n13 $2 . 4 0 \\%$ 和 $9 . 1 0 \\%$ ；其中，NDF、ADF、EE 和ash 的变异系数（CV）大于 $1 5 \\%$ 。2）12个菜籽粕样  \n14 品的表观代谢能（AME）、氮矫正表观代谢能（AMEn）、TME 和氮矫正真代谢能（TMEn）的平  \n15 均值分别为8.627、9.029、9.326 和 $8 . 9 7 0 \\mathrm { M J / k g }$ ，不同来源菜籽粕的ME 差异显著（ $\\scriptstyle P < 0 . 0 5$ 。3)  \n16 12 个菜籽粕样品的氨基酸的平均含量为 $0 . 7 2 \\% { \\sim } 6 . 5 5 \\%$ ，赖氨酸的CV最大，为 $1 8 . 9 7 \\%$ 。4）12个  \n17 菜籽粕样品的 TAAA的平均值为 $6 8 . 3 7 \\% { \\sim } 8 8 . 9 2 \\%$ ，不同来源菜籽粕的TAAA差异显著(除蛋氨酸、  \n18 苏氨酸和丝氨酸外） $( P { < } 0 . 0 5 )$ ；必需氨基酸真利用率的平均值为 $70 . 8 1 \\%$ ，非必需氨基酸真利用率  \n19 的平均值为 $7 0 . 4 3 \\%$ ，总氨基酸真利用率的平均值为 $7 0 . 4 5 \\%$ 。以上结果表明：1）不同来源菜籽粕  \n20 的 AME、AMEn、TME 和 TMEn 存在差异；2）大恒肉鸡对不同来源菜籽粕的 TAAA 存在差异。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大恒肉鸡；菜籽粕；代谢能；氨基酸真利用率中图分类号：S816.11 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大恒肉鸡是一种由我国自主培育的肉鸡配套系，目前已在18个省得到广泛推广，市场占有率越来越高[1]。菜籽作为一种仅次于大豆的世界第二大油料作物，其副产品菜籽粕可占油粕总产量的 $1 3 \\% ^ { [ 2 - 3 ] }$ 。有关菜籽粕在畜禽上的研究非常广泛。菜籽粕的粗蛋白质(CP)含量为 $3 6 \\% { \\sim } 3 9 \\%$ 其必需氨基酸含量丰富，尤其是含硫氨基酸，如蛋氨酸（Met）、半胱氨酸（Cys)，而赖氨酸（Lys)含量较低。菜籽粕还是可利用的钙、铁、锰、硒和B族维生素等的优质来源[4]，生产上可与豆粕互补。评定不同来源菜籽粕对地方优质肉鸡的营养价值，具有重大的生产价值和意义。本试验拟评定大恒肉鸡对不同来源菜籽粕的代谢能(ME)和氨基酸真利用率（TAAA)，为有效配制大恒肉鸡饲粮和实现优质肉鸡高效生产提供数据支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验设计",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ME 评定：分3批代谢试验，每批选取正常的健康成年大恒肉鸡48只，平均体重为 $4 \\mathrm { k g }$ ，随机分为6个组，其中1组为禁食对照组(内源组)，1组为玉米淀粉组，4组为待测饲粮组。每组8个重复，每个重复1只鸡。玉米淀粉的ME 测定为直接强饲，重复测定3次。每批之间设10d恢复期。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TAAA评定：分3批代谢试验，每批选取正常的健康去盲肠大恒肉鸡36只，随机分为6个组，其中1组为内源组，5组为待测饲粮组。每组6个重复，每个重复1只鸡。每批之间设10d恢复期。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验材料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从四川省的饲料企业随机收集12种菜籽粕，产地信息见表1。评定菜籽粕的ME 和 TAAA的待测饲粮组成及营养水平见表2。强饲饲粮的CP含量用玉米淀粉稀释到 $1 7 \\%$ ，满足正常肉鸡的营养需要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1菜籽粕产地信息",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "样品 Samples 颜色Color 产地 Producing area 加工方式 Processing method",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 黄色 四川眉山 预压浸出式",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 黄色 陕西汉中 预压浸出式",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 黄褐色 青海湟源 预压浸出式",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 褐色 陕西西安 预压浸出式",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5 黄色 四川雅安 预压浸出式",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6 褐色 四川德阳 预压浸出式  \n7 浅褐色 四川简阳 预压浸出式  \n8 黄褐色 江苏徐州 预压浸出式  \n9 浅褐色 四川新津 预压浸出式  \n10 浅黄色 四川邛崃 压榨式  \n11 黄褐色 四川梓潼 预压浸出式  \n12 褐色 四川简阳 预压浸出式",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "46 ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/eeb0d9f9c13b75b14d49bf9b5a038c31abccf16ad50ef9ace586a3cbd4ab715a.jpg",
+        "table_caption": [
+            "表2待测饲粮组成及营养水平(干物质基础)",
+            "Table 2Composition and nutrition levels of the diet to be measured (DM basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原料Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels3)</td><td>含量Content</td></tr><tr><td>玉米淀粉 Corn starch</td><td>52.79</td><td>粗蛋白质 CP</td><td>17.00</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>43.65</td><td>代谢能ME/（MJ/kg)</td><td>10.21</td></tr><tr><td>碳酸钙 CaCO</td><td>0.94</td><td>粗脂肪 EE</td><td>2.95</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.66</td><td>粗纤维CF</td><td>4.32</td></tr><tr><td>食盐 NaCl</td><td>0.35</td><td>钙Ca</td><td>1.00</td></tr><tr><td>胆碱 Choline chloride</td><td>0.08</td><td>有效磷 AP</td><td>0.40</td></tr><tr><td>多维Multi-vitaminl</td><td>0.03</td><td>赖氨酸Lys</td><td>0.86</td></tr><tr><td>矿物质预混料 Mineral premix2</td><td>0.50</td><td>蛋氨酸 Met</td><td>0.53</td></tr><tr><td rowspan=\"2\">合计 Total</td><td rowspan=\"2\">100.00</td><td>蛋氨酸+半胱氨酸</td><td></td></tr><tr><td>Met+Cys</td><td>0.26</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>苏氨酸 Thr</td><td>0.65</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1多维为每千克饲粮提供 Multi-vitamin provided the following per $\\mathrm { k g }$ of the diet: VA 10 000 IU,VD3 2 000 IU, VE 30 IU, VK3 3 mg,VB1 4 mg, $\\mathrm { V B } _ { 2 } 8 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 4 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 2 \\ : \\mathrm { m g }$ ，烟酸nicotinicacid $5 0 \\mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 3 ~ \\mathrm { m g }$ ，叶酸 folic acid $1 \\mathrm { m g }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2矿物质预混料为每千克饲粮提供 Mineral premix provided the following per $\\mathrm { k g }$ of the diet: Cu（204号 $\\mathrm { ( C u S O _ { 4 } bullet 5 H _ { 2 } O }$ ） $8 ~ \\mathrm { m g }$ ，Fe $\\mathrm { F e S O } _ { 4 } { \\bullet } \\mathrm { H } _ { 2 } \\mathrm { O }$ $8 0 ~ \\mathrm { m g }$ ，Mn ( $\\mathrm { M n S O _ { 4 } { \\bullet } H _ { 2 } O }$ ） $8 0 ~ \\mathrm { m g }$ ，Zn $\\mathrm { \\ Z n S O _ { 4 } { \\bullet } H _ { 2 } O }$ ） $1 0 0 \\mathrm { m g }$ ，Se (Naz2SeO4) $0 . 3 ~ \\mathrm { m g }$ ，I (KI) $0 . 4 \\mathrm { m g }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3)营养水平为计算值。Nutrient levels were calculated values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3代谢试验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验在四川农业大学动物营养研究所科研试验基地进行。代谢试验依照Mcnab 等[5]的真代谢能（TME）法测定ME：泄殖腔缝合集粪瓶盖后适应1周的时间，对代谢鸡只称重，记录体重；试验鸡饥饿 $4 8 \\mathrm { { h } }$ ，然后按体重 $2 \\%$ 强饲待测饲粮，旋上集粪袋，记录时间，收集排泄物 $4 8 \\mathrm { { h } }$ ；内源组鸡饥饿 $4 8 \\mathrm { h }$ ，继续饥饿，收集排泄物 $4 8 \\mathrm { { h } }$ 。饲粮采用过40目粉碎机粉碎而成。每只鸡单笼饲养，自由饮水，光照时间 $1 6 \\mathrm { h }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "去盲肠方法：依据Poppema 等的方法进行，术前试验鸡饥饿 $2 4 \\mathrm { h }$ ，拔掉腹部龙骨至泄殖腔$1 0 \\mathrm { c m } { \\times } 5 \\mathrm { c m }$ 左右范围的鸡毛，消毒后麻醉；用手术刀下划约 $4 \\mathrm { c m }$ 的长度，在十二指肠下方位置找出盲肠，使用标准缝合线缝合并剪断盲肠，收缩切除端后用沙布清洗腹腔内血水和血凝块，注入青霉素，依次缝合腹膜、腹肌，最后缝合皮肤。手术后试验鸡进行6周的恢复期。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "全收粪法收集排泄物：按照 Adeola 等[7]的方法，在强饲后4、8、16、32 和 $4 8 \\mathrm { { h } }$ 时，分别换取新的集粪袋；待收集完毕后，将每只鸡 $4 8 \\mathrm { { h } }$ 的排泄物均匀混在一起，先在 $6 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 烘箱烘干 $7 2 \\mathrm { { h } }$ 再在空气中回潮 $2 4 \\mathrm { h }$ 。称重、记录，粉粹过40目， $- 2 0 \\mathrm { ~ \\textdegree ~ }$ 保存，用于粪样成分测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4指标测定与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 菜籽粕常规营养成分含量",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "菜籽粕中干物质（DM）、CP、总能（GE）、粗纤维（CF）、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）、粗脂肪（EE）和粗灰分（ash）含量的测定方法参照张丽英[8的方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 氮沉积 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参照于明[9]的公式计算如下指标：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "内源氮沉积量（ERNO） $\\ O =$ 排泄物中的氮;RN1=(食入饲粮总氮一排泄物氮)/食入饲粮干物质重量;$\\scriptstyle \\mathrm { R N } 2 =$ 食入饲粮总氮一排泄物氮 $+$ 内源排泄物氮)/食入饲粮干物质重量。式中：RNi表示家禽每摄入 $1 \\mathrm { k g }$ 饲粮干物质氮的沉积量； ${ \\mathrm { R N } } _ { 2 }$ 表示家禽每摄入 $1 \\mathrm { k g }$ 饲粮干物质去除内源氮部分真正的氮沉积量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 ME ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参照Adeola等7的公式计算如下指标：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "内源能损失量（EEL） $\\scriptstyle =$ 禁食鸡排泄物的总能；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表观代谢能（AME） $\\ L =$ (食入饲粮总能一排泄物总能)/食入饲粮干物质重量;  \n菜籽粕AME $\\scriptstyle , =$ （饲粮 $\\mathbf { A M E } \\times 1 0 0$ 一饲粮中玉米淀粉含量 $\\times$ 玉米淀粉AME)/饲粮中菜籽粕含量;氮矫正表观代谢能（AMEn） $\\begin{array} { r l } { \\mathbf { \\Psi } } & { { } = } \\\\ { \\mathbf { \\Psi } } & { { } \\mathbf { \\Psi } } \\end{array}$ AME-RN1 ×34.39;TME $\\scriptstyle , =$ （食入饲粮总能一排泄物总能 $+$ 内源排泄物总能)/食入饲粮干物质重量;  \n菜籽粕TME $\\scriptstyle , = ($ 饲粮 $\\mathrm { T M E } \\times 1 0 0$ 一饲粮中玉米淀粉含量 $\\times$ 玉米淀粉 TME)/饲粮中菜籽粕含量;氮矫正真代谢能（TMEn） $\\ c =$ TME-RN2×34.39。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中：34.39为鸡每克尿氮的产热量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.4 TAAA ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "依照Likuski等[10]的公式计算如下指标：TAAA $\\scriptstyle { \\underline { { = } } } ($ 食入饲粮氨基酸总量一排泄物氨基酸总量 $^ { + }$ 内源氨基酸总量）/食入饲粮氨基酸总量",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\times 1 0 0 ;$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "食入饲粮氨基酸总量 $\\vDash$ 饲粮干物质总量 $\\times$ 饲粮中氨基酸含量; ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "排泄物氨基酸总量 $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ 排泄物干物质总量 $\\times$ 排泄物中氨基酸含量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因为待测饲粮中的菜籽粕是单一提供蛋白质的饲料原料，所以菜籽粕的TAAA等于饲粮的TAAA。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据统计与分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验数据运用 SAS9.3软件进行单因素方差分析，差异显著时用Duncan氏法进行多重比较。$P { < } 0 . 0 5$ 表示差异显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1菜籽粕常规营养成分含量",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，12个菜籽粕样品的DM、CP、GE、NDF、ADF、CF、EE 和ash 的平均含量分别为 $8 7 . 6 7 \\%$ 、 $4 2 . 1 0 \\%$ 、 $1 9 . 7 5 \\mathrm { M J / k g }$ 、 $3 9 . 9 9 \\%$ 、 $1 6 . 1 3 \\%$ 、 $1 5 . 1 5 \\%$ 、 $2 . 4 0 \\%$ 和 $9 . 1 0 \\%$ 。其中 NDF、ADF、EE和Ash 的变异系数（CV）大于 $1 5 \\%$ ，以EE的CV最大。菜籽粕样品2和4的 NDF、ADF 和CF 含量高于其他菜籽粕样品，但CP含量低于除样品3外的其他菜籽粕样品；菜籽粕样品10 的NDF、ADF 和CF 含量低于其他菜籽粕样品；菜籽粕样品5 和10的GE 和 EE 含量高于其他菜籽粕样品；EE 含量最低的菜籽粕样品9（ $0 . 6 2 \\%$ ）和含量最高的菜籽粕样品10（ $1 0 . 0 7 \\%$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EE 含量差值最大，为 $9 . 4 5 \\%$ ；ash 含量与GE呈负相关，菜籽粕样品10 的GE 最高（ $ { ( 2 1 . 7 1 \\mathrm { ~ M J / k g } ) }$ ）ash含量最低（ $6 . 1 2 \\%$ )，菜籽粕样品8的GE含量最低（ $1 8 . 8 3 \\mathrm { \\ : M J / k g } ^ { \\cdot }$ )、ash含量最高（ $12 . 4 9 \\%$ )°",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/172c94a89d435985c3bbc452296891ededd368a5b67febec26a507c0b5156da0.jpg",
+        "table_caption": [
+            "表3菜籽粕常规营养成分含量(干物质基础)",
+            "Table 3Conventional nutrient contents in rapeseed meal (DM basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样品</td><td>干物质</td><td>粗蛋白质</td><td>总能</td><td>中性洗涤纤维</td><td>酸性洗涤纤维</td><td>粗纤维</td><td>粗脂肪</td><td>粗灰分</td></tr><tr><td>Samples</td><td>DM</td><td>CP</td><td>GE/(MJ/kg)</td><td>NDF</td><td>ADF</td><td>CF</td><td>EE</td><td>Ash</td></tr><tr><td>1</td><td>88.10</td><td>43.92</td><td>19.79</td><td>37.12</td><td>14.84</td><td>13.88</td><td>1.73</td><td>8.07</td></tr><tr><td>2</td><td>88.26</td><td>40.12</td><td>19.33</td><td>49.69</td><td>22.34</td><td>18.66</td><td>1.46</td><td>9.86</td></tr><tr><td>3</td><td>87.27</td><td>39.57</td><td>18.87</td><td>37.97</td><td>17.10</td><td>12.86</td><td>1.31</td><td>11.54</td></tr><tr><td>4</td><td>87.73</td><td>39.19</td><td>19.58</td><td>50.37</td><td>22.91</td><td>17.28</td><td>0.83</td><td>8.95</td></tr><tr><td>5</td><td>87.34</td><td>43.10</td><td>21.71</td><td>41.49</td><td>18.16</td><td>14.15</td><td>6.72</td><td>7.55</td></tr><tr><td>6</td><td>86.54</td><td>42.23</td><td>19.25</td><td>42.25</td><td>15.33</td><td>16.39</td><td>0.91</td><td>10.01</td></tr><tr><td>7</td><td>89.43</td><td>42.86</td><td>19.66</td><td>34.04</td><td>11.66</td><td>14.97</td><td>1.52</td><td>7.77</td></tr><tr><td>8</td><td>87.17</td><td>40.55</td><td>18.83</td><td>34.58</td><td>13.07</td><td>13.15</td><td>1.46</td><td>12.49</td></tr><tr><td>9</td><td>86.60</td><td>42.29</td><td>19.29</td><td>41.19</td><td>15.13</td><td>17.19</td><td>0.62</td><td>9.92</td></tr><tr><td>10</td><td>86.58</td><td>43.12</td><td>21.71</td><td>23.64</td><td>7.10</td><td>10.95</td><td>10.07</td><td>6.12</td></tr><tr><td>11</td><td>87.83</td><td>43.11</td><td>19.58</td><td>38.53</td><td>13.95</td><td>15.83</td><td>1.15</td><td>8.74</td></tr><tr><td>12</td><td>89.20</td><td>45.12</td><td>19.79</td><td>48.95</td><td>21.97</td><td>16.52</td><td>0.92</td><td>8.22</td></tr><tr><td>平均值</td><td>87.67</td><td>42.10</td><td>19.75</td><td>39.99</td><td>16.13</td><td>15.15</td><td>2.40</td><td>9.10</td></tr><tr><td>Mean</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>变异系数</td><td></td><td>4.38</td><td>4.83</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CV/%</td><td>1.09</td><td></td><td></td><td>19.04</td><td>29.12</td><td>14.68</td><td>121.75</td><td>19.47</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 菜籽粕的ME ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4可知,3个批次的 $4 8 \\mathrm { { h } }$ 内源氮沉积量( $\\mathrm { \\cdot } \\mathrm { E R N _ { 0 } }$ ）分别为：-0.555、-0.549和 ${ \\cdot 0 . 5 2 8 } \\ \\mathrm { g / k g }$ BW,$4 8 \\mathrm { h }$ 内源能损失量（EEL）分别为25.573、28.192和 $2 5 . 2 6 7 \\mathrm { M J / k g \\ B W }$ ，差异均不显著（ $\\cdot P { > } 0 . 0 5 )$ 。由表5可知，3个批次玉米淀粉的AME、AMEn、TME 和 TMEn 的平均值分别为14.393、15.251、16.372 和 $1 6 . 1 0 8 \\mathrm { M J / k g }$ ，差异均不显著（ $P { > } 0 . 0 5 \\$ ）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，12个菜籽粕样品的AME、AMEn、TME 和 TMEn 的均值分别为8.627、9.029、9.326和 $8 . 9 7 0 \\mathrm { M J / k g }$ 。不同来源菜籽粕的 ME 差异显著（ $\\cdot P { < } 0 . 0 5 \\$ 。菜籽粕样品5的AME 和菜籽粕样品1的AMEn、TME 和 TMEn 高于其他菜籽粕样品；菜籽粕样品6的AME 和AMEn 和菜籽粕样品12的 TME 和 TMEn低于其他菜籽粕样品；菜籽粕样品7的 TMEn 较低，与其DM 和NDF 含量高有关；菜籽粕样品5的 ME 较高，其GE 含量最高，EE 含量仅低于最高含量，ash 含量仅高于最低含量；菜籽粕样品6的 AME 和AMEn 低于其他菜籽粕样品，其GE 和EE 含量均低于平均水平，而 NDF、CF 和ash 含量均高于平均水平；菜籽粕样品12的 TME 和 TMEn 低于其他菜籽粕样品，其NDF、ADF 和CF 含量高于平均水平，而 EE 含量低于平均水平。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4不同批次的内源氮沉积量和内源能损失量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a5000a7b62e1a5829c7d503af73b04b330fb05c894c239e051e9d3608bbf390.jpg",
+        "table_caption": [
+            "Table4TheERN $0$ and EEL in different batches "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>批次</td><td>48h内源氮沉积量</td><td>48h内源能损失量</td></tr><tr><td>Batches</td><td>48 h ERNo/（g/kg BW)</td><td>48 h EEL/（MJ/kg BW）</td></tr><tr><td>1</td><td>-0.555±0.067</td><td>25.573±2.782</td></tr><tr><td>2</td><td>-0.549±0.069</td><td>28.192±2.293</td></tr><tr><td>3</td><td>-0.528±0.051</td><td>25.267±2.360</td></tr><tr><td>平均值 Mean</td><td>-0.545±0.004</td><td>26.267±3.837</td></tr><tr><td>P值 P-value</td><td>0.95</td><td>0.70</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同列数据肩标相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the same column, values with the same or no letter superscripts mean no significant difference （20 $( P > 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference ( $\\begin{array} { r } { P < 0 . 0 5 , } \\end{array}$ .The same as below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c3f51796671805267f317454c004eebc23255532e2ef19d276c23c1b4a75352.jpg",
+        "table_caption": [
+            "表5玉米淀粉的 ME(干物质基础)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Table 5 ME of corn starch (DM basis)</td><td colspan=\"2\">MJ/kg</td></tr><tr><td>批次 Batches</td><td>表观代谢能AME</td><td>氮矫正表观代谢能AMEn</td><td>真代谢能 TME</td><td>氮矫正真代谢能TMEn</td></tr><tr><td>1</td><td>14.510±0.225</td><td>15.447±0.159</td><td>16.669±0.251</td><td>16.477±0.159</td></tr><tr><td>2</td><td>14.213±0.351</td><td>14.991±0.331</td><td>16.071±0.343</td><td>15.732±0.331</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9dfd02a0c77443a83cf641e9d774ea0718bc50ffec1dd40a82affa8171546e1a.jpg",
+        "table_caption": [
+            "表6菜籽粕的 ME (干物质基础)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>批次Batches</td><td>表观代谢能AME</td><td>氮矫正表观代谢能AMEn</td><td>真代谢能 TME</td><td>氮矫正真代谢能TMEn</td></tr><tr><td>3</td><td>14.443±0.285</td><td>15.297±0.264</td><td>16.376±0.285</td><td>16.117±0.264</td></tr><tr><td>平均值 Mean</td><td>14.393±0.369</td><td>15.251±0.256</td><td>16.372±0.310</td><td>16.108±0.682</td></tr><tr><td>P值 P-value</td><td>0.78</td><td>0.51</td><td>0.42</td><td>0.20</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "135 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 6ME of rapeseed meal （DM basis） MJ/kg",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/50961c65dee7c3ae4fad5451f3bcc902561651eb4947eeaba801e60913cbf6a4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">样品</td><td rowspan=\"2\">氮矫正表观代谢能</td><td rowspan=\"2\">真代谢能</td><td rowspan=\"2\">氮矫正真代谢能</td></tr><tr><td></td><td>表观代谢能</td></tr><tr><td>Sample</td><td></td><td></td><td></td><td></td></tr><tr><td>S</td><td>AME</td><td>AMEn</td><td>TME</td><td>TMEn</td></tr><tr><td>1</td><td></td><td></td><td>10.623±0.72</td><td>10.598±0.569a</td></tr><tr><td></td><td>9.301±0.720a</td><td>9.753±0.502a</td><td>0a</td><td></td></tr><tr><td></td><td></td><td></td><td>9.841±0.552a</td><td>9.619±1.167b</td></tr><tr><td>2</td><td>8.904±0.552ab</td><td>9.293±0.485ab</td><td>b</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>9.000±0.456ab</td><td>9.339±0.464ab</td><td>9.924±0.456a</td><td>9.355±1.226bc</td></tr><tr><td></td><td></td><td></td><td>b</td><td></td></tr><tr><td>4</td><td>8.058±0.418ab</td><td>8.347±0.381b</td><td>8.958±0.418</td><td>8.314±1.105d</td></tr><tr><td></td><td></td><td></td><td>bc</td><td></td></tr><tr><td>5</td><td></td><td></td><td>10.343±0.21</td><td>9.682±0.523b</td></tr><tr><td></td><td>9.418±0.213a</td><td>9.665±0.184a</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>3a</td><td></td></tr><tr><td>6</td><td>7.619±0.335b</td><td>8.180±0.188b</td><td>8.552±0.335</td><td>8.201±0.460d</td></tr><tr><td></td><td></td><td></td><td>bc</td><td></td></tr><tr><td></td><td></td><td></td><td>8.770±0.201</td><td>8.326±0.510d</td></tr><tr><td>7</td><td>8.397±0.201ab</td><td>8.690±0.180ab</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>bc</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>8.577±0.519cd</td></tr><tr><td>8</td><td>8.335±0.293ab</td><td>8.724±0.276ab</td><td>8.707±0.293</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>bc</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>9.280±0.431a</td><td>8.950±1.059bcd</td></tr><tr><td>9</td><td>8.887±0.431ab</td><td>9.293±0.377ab</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>bc</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ef5320efe3ab7f50874260a29fd8a3908f258dbb0b397f978b74247ed136aae.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">样品</td><td rowspan=\"2\">氮矫正表观代谢能</td><td rowspan=\"2\">真代谢能</td><td rowspan=\"2\">氮矫正真代谢能</td></tr><tr><td></td><td>表观代谢能</td></tr><tr><td>Sample</td><td>AME</td><td>AMEn</td><td>TME</td><td>TMEn</td></tr><tr><td>S</td><td></td><td>8.853±0.397ab</td><td>8.795±0.439</td><td>8.514±1.121cd</td></tr><tr><td>10</td><td>8.401±0.439ab</td><td></td><td>bc 9.590±0.406a</td><td>9.389±0.766bc</td></tr><tr><td>11</td><td>9.209±0.406a</td><td>9.740±0.314a</td><td>bc</td><td></td></tr><tr><td>12</td><td>7.786±0.213b</td><td>8.314±0.155b</td><td>8.326±0.213c</td><td>8.021±0.414d</td></tr><tr><td>平均值</td><td>8.627±0.598</td><td>9.029±0.552</td><td>9.326±1.004</td><td>8.970±0.933</td></tr><tr><td>Mean</td><td></td><td></td><td></td><td></td></tr><tr><td>P 值</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td><0.05</td><td><0.05</td><td><0.05</td></tr><tr><td>P-Valu</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td><0.05</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3菜籽粕的氨基酸含量",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表7可知，12个菜籽粕样品氨基酸的平均含量为 $0 . 7 2 \\% { \\sim } 6 . 5 5 \\%$ ，CV为 $4 . 5 3 \\% { \\sim } 1 8 . 9 7 \\%$ 。Lys 的CV 最大（ $1 8 . 9 7 \\%$ )，甘氨酸（Gly）的最小（ $4 . 5 3 \\%$ )。菜籽粕样品2的精氨酸（Arg）、组氨酸（His）、异亮氨酸（Ie）、亮氨酸（Leu）、Lys、Met、苏氨酸（Thr）、缬氨酸（Val）、丙氨酸（Ala）、天冬氨酸（Asp）、Cys 和丝氨酸（Ser）含量均低于其他菜籽粕样品；菜籽粕样品3的谷氨酸（Glu）和脯氨酸（Pro）含量均低于其他菜籽粕样品；菜籽粕样品10的 Arg、His、Ie、Lys、Val、Cys 和Glu 含量均高于其他菜籽粕样品；菜籽粕样品6的 Tyr 和Ala 含量均高于其他菜籽粕样品。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4菜籽粕的TAAA ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表8可知，12 个菜籽粕样品的 Arg、His、Ile、Leu、Lys、Met、苯丙氨酸（Phe）、Thr、Val、Ala、Asp、Cys、Glu、Pro、Ser、Tyr（酪氨酸）和Gly 的真利用率的平均值分别为 $8 8 . 9 2 \\%$ ，$7 5 . 7 4 \\%$ （ $7 5 . 4 6 \\%$ 、 $8 1 . 3 1 \\%$ 、 $6 8 . 3 7 \\%$ 、 $8 4 . 4 4 \\%$ 、 $8 1 . 4 7 \\%$ 、 $7 0 . 8 3 \\%$ 、 $7 1 . 2 5 \\%$ 、 $7 2 . 3 7 \\%$ 、 $7 0 . 6 8 \\%$ 、 $7 1 . 0 6 \\%$ 、$8 3 . 3 3 \\%$ 、 $7 4 . 1 7 \\%$ 、 $74 . 1 1 \\%$ 、 $78 . 8 1 \\%$ 和 $7 2 . 0 5 \\%$ 。不同来源菜籽粕的TAAA差异显著（除Met、Thr和Ser外）（ $( P { < } 0 . 0 5 )$ 。必需氨基酸真利用率的平均值为 $70 . 8 1 \\%$ ，非必需氨基酸真利用率的平均值为 $7 0 . 4 3 \\%$ ，总氨基酸真利用率的平均值为 $70 . 4 5 \\%$ 。菜籽粕样品 2 的 Arg、Met、Thr、Gly、Ala、Asp、Cys、Glu、Pro 和 Ser 以及菜籽粕样品 4 的Leu、Lys 和 Phe 的真利用率均低于其他菜籽粕样品；菜籽粕样品10 的 Arg、Ie、Lys、Met、Gly、Asp、Glu 和 Pro 以及菜籽粕样品3 的 His、Leu、Phe、Thr、Ala、Ser 和 Tyr 的真利用率均高于其他菜籽粕样品；菜籽粕样品3的 Arg、Ile、Gly、Asp、Cys、Glu、Pro 和菜籽粕样品10 的 His、Leu、Thr 和 Ser 的真利用率仅低于最高利用率的菜籽粕样品；菜籽粕样品4的 Arg、Ile、Gly、Val、Ala、Asp、Cys 和Glu 的真利用率仅高于最低利用率的菜籽粕样品。本试验中菜籽粕样品10 的大部分 TAAA大于其他菜籽粕样品。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表7菜籽粕的氨基酸含量 (干物质基础)",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "158 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "项目Items  \n必需氨基酸 EAA  \n精氨酸Arg  \n组氨酸 His  \n异亮氨酸 Ile  \n亮氨酸Leu  \n赖氨酸Lys  \n蛋氨酸 Met  \n苯丙氨酸 Phe  \n苏氨酸 Thr  \n氨酸 Val  \n总必需氨基酸Total EA  \n非必需氨基酸 NEAA  \n丙氨酸 Ala",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e9b5eb295ef0fe7826bac598c037d8d41e44415aa83b83ed2ca6eb0778034ba.jpg",
+        "table_caption": [
+            "Table 7Amino acid contents of rapeseed meal（DM basis）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"11\">样品 Samples</td><td rowspan=\"2\"></td><td rowspan=\"2\">平均值 Mean</td><td rowspan=\"2\"></td><td rowspan=\"2\">变异系数 CV</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td>2.17</td><td>1.75</td><td>1.89</td><td>2.11</td><td>1.90</td><td>2.01</td><td>2.21</td><td>1.96</td><td>1.88</td><td>2.40</td><td>2.05</td><td>1.90</td><td>2.02</td><td></td><td>8.88</td></tr><tr><td>1.09</td><td>0.90</td><td>0.91</td><td>1.14</td><td>0.94</td><td>1.09</td><td>1.06</td><td>0.94</td><td>0.99</td><td>1.20</td><td>0.99</td><td>1.03</td><td>1.02</td><td></td><td>9.28</td></tr><tr><td>1.47</td><td>1.21</td><td>1.25</td><td>1.46</td><td>1.24</td><td>1.51</td><td>1.44</td><td>1.33</td><td>1.46</td><td>1.51</td><td>1.37</td><td>1.34</td><td></td><td>1.38</td><td>7.80</td></tr><tr><td>2.65</td><td>2.32</td><td>2.35</td><td>2.79</td><td>2.34</td><td>2.70</td><td>2.61</td><td>2.41</td><td>2.62</td><td>2.69</td><td>2.58</td><td>2.60</td><td></td><td>2.56</td><td>6.22</td></tr><tr><td>1.91</td><td>1.24</td><td>1.77</td><td>1.52</td><td>1.39</td><td>1.82</td><td>2.18</td><td>1.86</td><td>1.79</td><td>2.44</td><td>1.86</td><td>1.46</td><td></td><td>1.77</td><td>18.97</td></tr><tr><td>0.75</td><td>0.62</td><td>0.68</td><td>0.81</td><td>0.81</td><td>0.76</td><td>0.75</td><td>0.64</td><td>0.73</td><td>0.66</td><td>0.69</td><td>0.72</td><td></td><td>0.72</td><td>8.62</td></tr><tr><td>1.58</td><td>1.42</td><td>1.35</td><td>1.69</td><td>1.36</td><td>1.62</td><td>1.51</td><td>1.41</td><td>1.54</td><td>1.56</td><td>1.51</td><td>1.53</td><td></td><td>1.51</td><td>6.91</td></tr><tr><td>1.59</td><td>1.43</td><td>1.50</td><td>1.71</td><td>1.45</td><td>1.64</td><td>1.63</td><td>1.50</td><td>1.59</td><td>1.60</td><td>1.60</td><td>1.58</td><td></td><td>1.57</td><td>5.25</td></tr><tr><td>1.92</td><td>1.64</td><td>1.69</td><td>1.96</td><td>1.68</td><td>1.98</td><td>1.93</td><td>1.79</td><td>1.94</td><td>2.00</td><td>1.87</td><td>1.83</td><td>1.85</td><td></td><td>6.79</td></tr><tr><td>15.13</td><td>12.52</td><td>13.39</td><td>15.18</td><td>13.12</td><td>15.13</td><td>15.32</td><td>13.83</td><td>14.55</td><td>16.05</td><td>14.51</td><td>13.99</td><td>14.39</td><td></td><td>7.25</td></tr><tr><td>1.89</td><td>1.69</td><td>1.69</td><td>1.95</td><td>1.70</td><td>2.06</td><td>1.88</td><td>1.74</td><td>1.97</td><td>1.94</td><td>1.89</td><td>1.87</td><td></td><td>1.86</td><td>6.63</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/d838f667fe898877f4922b3a19e47215071417f077a35d082bbbd47fc27c1a94.jpg",
+        "table_caption": [
+            "表8菜籽粕的 TAAA（干物质基础）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>天冬氨酸 Asp</td><td>2.51</td><td>2.23</td><td>2.38</td><td>2.63</td><td>2.25</td><td>2.53 2.56</td><td></td><td>2.32</td><td>2.46 2.52</td><td>2.46</td><td>2.42</td><td>2.44</td><td>5.09</td></tr><tr><td>半胱氨酸Cys</td><td>1.06</td><td>0.84</td><td>0.92</td><td>0.96</td><td>1.05 0.92</td><td>1.01</td><td>0.91</td><td>0.87</td><td>1.06</td><td>0.99</td><td>1.03</td><td>0.97</td><td>7.86</td></tr><tr><td>谷氨酸Glu</td><td>6.78</td><td>5.96</td><td>5.61</td><td>7.13</td><td>6.35 6.56</td><td>6.78</td><td>6.11</td><td>6.43</td><td>7.30</td><td>6.59</td><td>7.00</td><td>6.55</td><td>7.55</td></tr><tr><td>脯氨酸Pro</td><td>2.68</td><td>2.34</td><td>2.30</td><td>3.09</td><td>2.51 2.60</td><td>2.89</td><td>2.52</td><td>2.49</td><td>2.86</td><td>2.66</td><td>2.78</td><td>2.64</td><td>8.80</td></tr><tr><td>丝氨酸 Ser</td><td>1.63</td><td>1.49</td><td>1.53</td><td>1.75</td><td>1.53 1.68</td><td>1.69</td><td>1.52</td><td>1.62</td><td>1.67</td><td>1.66</td><td>1.66</td><td>1.62</td><td>5.08</td></tr><tr><td>酪氨酸Tyr</td><td>1.19</td><td>0.96</td><td>1.00</td><td>1.16</td><td>0.92 1.29</td><td>1.10</td><td>1.04</td><td>1.19</td><td>1.13</td><td>1.08</td><td>1.05</td><td>1.09</td><td>9.74</td></tr><tr><td>甘氨酸 Gly</td><td>1.99</td><td>1.76</td><td>1.90</td><td>1.91</td><td>1.90</td><td>1.92 1.81</td><td>1.73</td><td>1.79</td><td>1.74</td><td>1.90</td><td>1.90</td><td>1.85</td><td>4.53</td></tr><tr><td>总非必需氨基酸 Total NEAA</td><td>19.74</td><td>17.27</td><td>17.32</td><td>20.59</td><td>18.20</td><td>19.57 19.71</td><td>17.89</td><td>18.83</td><td>20.21</td><td>19.23</td><td>19.71</td><td>19.02</td><td>5.85</td></tr><tr><td>总氨基酸 Total AA</td><td>34.87</td><td>29.79</td><td>30.71</td><td>35.78</td><td>31.32</td><td>34.70 35.03</td><td>31.72</td><td>33.37</td><td>36.27</td><td>33.74</td><td>33.70</td><td>33.42</td><td>6.25</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/be2ac24933111a73b839a5dd51f1eea8c5aadc09d47208cfe02ce01b9fee3c97.jpg",
+        "table_caption": [
+            "Table 8TAAA of rapeseed meal (DM basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"13\">样品 Samples</td><td rowspan=\"2\">平均值</td><td rowspan=\"2\">P值</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>Mean P-value</td></tr><tr><td>必需氨基酸 EAA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">精氨酸Arg</td><td>88.58±0.</td><td>85.95±1.</td><td>90.92±0.</td><td>86.19±1.</td><td>90.11±0.</td><td>88.28±0.</td><td>88.77±0.</td><td>89.74±1.</td><td>89.09±1.</td><td>91.51±0.</td><td>89.18±0.</td><td>88.11±0.</td><td>88.92±2.</td><td></td></tr><tr><td>50abc</td><td>58c</td><td>70ab</td><td>95c</td><td>77ab</td><td>74abc</td><td>51abc</td><td>08ab</td><td>29abc</td><td>62a</td><td>70abc</td><td>81bc</td><td>42</td><td><0.05</td></tr><tr><td>组氨酸His</td><td>78.39±0.</td><td>75.85±2.</td><td>84.13±0.</td><td>72.09±4.</td><td>80.57±1.</td><td>70.22±0.</td><td>72.84±1.</td><td>69.84±2.</td><td>74.77±3.</td><td>83.06±1.</td><td>72.18±1.</td><td>73.43±1.</td><td>75.74±4.</td><td><0.05</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/705800e27efb7028b8f7f7b113a3f47a08e262ea94479e12df0c3071cf15e9ae.jpg",
+        "table_caption": [
+            "项目Items"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>Mean</td><td>P-value</td></tr><tr><td></td><td>81abc</td><td>57bed</td><td>55a</td><td>06cd</td><td>16ab</td><td>63d</td><td>24cd</td><td>28d</td><td>40bed</td><td>31a</td><td>28cd</td><td>76cd</td><td>82</td><td></td></tr><tr><td>异亮氨酸 Ile</td><td>76.53±0.</td><td>73.04±2.</td><td>78.94±0.</td><td>70.69±3.</td><td>77.98±1.</td><td>78.24±1.</td><td>69.88±0.</td><td>78.73±1.</td><td>76.08±3.</td><td>79.39±1.</td><td>72.09±1.</td><td>73.58±1.</td><td>75.46±4.</td><td></td></tr><tr><td></td><td>89gbcd</td><td>74bede</td><td>70ab</td><td>23de</td><td>04abc</td><td>59ab</td><td>86</td><td>52ab</td><td>46abed</td><td>23a</td><td>13ede</td><td>81abede</td><td>52</td><td><0.05</td></tr><tr><td>亮氨酸 Leu</td><td>80.48±0.</td><td>78.06±2.</td><td>86.12±0.</td><td>76.79±2.</td><td>84.37±0.</td><td>81.57±0.</td><td>81.57±0.</td><td>82.31±1.</td><td>80.28±2.</td><td>84.74±0.</td><td>80.10±0.</td><td>78.65±1.</td><td>81.31±3.</td><td></td></tr><tr><td></td><td>80bed</td><td>23cd</td><td>46</td><td>73d</td><td>61ab</td><td>86be</td><td>72bc</td><td>02abc</td><td>45bed</td><td>94ab</td><td>78bed</td><td>41cd</td><td>42</td><td><0.05</td></tr><tr><td>赖氨酸Lys</td><td>68.02±1.</td><td>56.45±4.</td><td>71.52±1.</td><td>53.76±5.</td><td>60.97±2.</td><td>73.53±2.</td><td>73.84±0.</td><td>75.17±1.</td><td>75.89±3.</td><td>80.49±0.</td><td>70.89±1.</td><td>58.33±2.</td><td>68.37±6.</td><td></td></tr><tr><td></td><td>19bc</td><td>07d</td><td>11b</td><td>85d</td><td>45cd</td><td>05ab</td><td>38ab</td><td>98ab</td><td>224b</td><td>87a</td><td>08b</td><td>62d</td><td>19</td><td><0.05</td></tr><tr><td>蛋氨酸 Met</td><td>80.84±2.</td><td>73.45±2.</td><td>85.89±2.</td><td>90.21±4.</td><td>84.08±2.</td><td>76.73±1.</td><td>82.89±4.</td><td>90.32±8.</td><td>87.23±5.</td><td>90.69±1.</td><td>86.55±2.</td><td>84.14±2.</td><td>84.44±9.</td><td></td></tr><tr><td></td><td>70abc</td><td>99c</td><td>40abc</td><td>82a</td><td>02abc</td><td>74bc</td><td>07abc</td><td>11a</td><td>86ab</td><td>62a</td><td>23ab</td><td>95abc</td><td>55</td><td>0.07</td></tr><tr><td>苯丙氨酸 Phe</td><td>81.34±0.</td><td>78.75±2.</td><td>85.75±0.</td><td>78.61±2.</td><td>85.41±0.</td><td>80.26±0.</td><td>81.31±0.</td><td>81.07±1.</td><td>79.93±1.</td><td>84.35±1.</td><td>80.64±0.</td><td>79.60±1.</td><td>81.47±3.</td><td></td></tr><tr><td></td><td>70bc</td><td>25</td><td>49a</td><td>45c</td><td>58a</td><td>52bc</td><td>55bc</td><td>18bc</td><td>96</td><td>09ab</td><td>80bc</td><td>36</td><td>17</td><td><0.05</td></tr><tr><td>苏氨酸Thr</td><td>67.49±1.</td><td>66.22±3.</td><td>77.47±1.</td><td>68.23±4.</td><td>72.90±2.</td><td>70.56±2.</td><td>69.50±0.</td><td>71.98±3.</td><td>72.16±4.</td><td>74.75±2.</td><td>69.2±2.2</td><td>69.08±2.</td><td>70.83±6.</td><td></td></tr><tr><td></td><td>53b</td><td>94b</td><td>67a</td><td>54ab</td><td>33ab</td><td>50ab</td><td>99ab</td><td>22ab</td><td>17ab</td><td>39ab</td><td>3ab</td><td>474b</td><td>80</td><td>0.23</td></tr><tr><td>氨酸Val</td><td>72.59±0.</td><td>67.19±3.</td><td>75.11±0.</td><td>64.74±3.</td><td>72.47±1.</td><td>77.49±0.</td><td>62.50±1.</td><td>79.26±1.</td><td>68.90±2.</td><td>76.03±1.</td><td>65.98±1.</td><td>72.73±1.</td><td>71.25±4.</td><td></td></tr><tr><td></td><td>99be</td><td>05cde</td><td>91ab</td><td>95de</td><td>16bc</td><td>77ab</td><td>66</td><td>61a</td><td>68cd</td><td>19ab</td><td>44de</td><td>75bc</td><td>68</td><td><0.05</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/23e474f40f2d0ff22ef544cab8e75d365950ae4856ff6266fe2469b3dddabb27.jpg",
+        "table_caption": [
+            "项目Items"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>Mean</td><td>P-value</td></tr><tr><td>总必需氨基酸</td><td>75.01±0.</td><td>70.98±2.</td><td>79.39±0.</td><td>68.64±3.</td><td>76.58±1.</td><td>32.29±2.</td><td>71.73±0.</td><td>74.11±1.</td><td>72.45±2.</td><td>78.41±0.</td><td>71.47±1.</td><td>71.90±1.</td><td>70.81±3.</td><td></td></tr><tr><td>Total EAA</td><td>71abed</td><td>49de</td><td>74</td><td>07e</td><td>04abc</td><td>60f</td><td>66cde</td><td>16bed</td><td>14cde</td><td>94ab</td><td>11cde</td><td>46ede</td><td>92</td><td><0.05</td></tr><tr><td>非必需氨基酸 NEAA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丙氨酸 Ala</td><td>70.07±0.</td><td>67.45±2.</td><td>78.50±0.</td><td>67.94±3.</td><td>75.84±0.</td><td>72.37±1.</td><td>72.84±0.</td><td>73.65±1.</td><td>74.10±3.</td><td>75.12±1.</td><td>70.80±1.</td><td>69.02±1.</td><td>72.37±4.</td><td></td></tr><tr><td></td><td>97bed</td><td>96d</td><td>76</td><td>92d</td><td>94ab</td><td>36abed</td><td>92abed</td><td>57abed</td><td>84abcd</td><td>42abc</td><td>21bed</td><td>61cd</td><td>92</td><td><0.05</td></tr><tr><td>天冬氨酸 Asp</td><td>66.66±1.</td><td>63.82±3.</td><td>77.19±0.</td><td>64.75±4.</td><td>70.45±1.</td><td>70.60±1.</td><td>73.22±0.</td><td>72.19±2.</td><td>71.80±3.</td><td>78.18±1.</td><td>69.55±1.</td><td>68.71±2.</td><td>70.68±5.</td><td></td></tr><tr><td></td><td>40ede</td><td>58</td><td>99ab</td><td>04de</td><td>70abede</td><td>73abede</td><td>77abc</td><td>50abed</td><td>95abed</td><td>40a</td><td>59bede</td><td>70cde</td><td>83</td><td><0.05</td></tr><tr><td>半胱氨酸Cys</td><td>66.21±1.</td><td>62.73±2.</td><td>79.19±1.</td><td>62.75±4.</td><td>70.39±1.</td><td>71.48±1.</td><td>71.71±1.</td><td>80.58±2.</td><td>68.10±2.</td><td>78.38±1.</td><td>68.91±1.</td><td>70.97±3.</td><td>71.06±6.</td><td><0.05</td></tr><tr><td></td><td>27cd</td><td>16d</td><td>36a</td><td>82d</td><td>85cd</td><td>51bc</td><td>59bc</td><td>91a</td><td>87cd</td><td>65ab</td><td>90cd</td><td>976c</td><td>01</td><td></td></tr><tr><td>谷氨酸Glu</td><td>82.28±0.</td><td>78.77±2.</td><td>85.76±0.</td><td>79.63±2.</td><td>85.26±0.</td><td>82.07±1.</td><td>84.71±0.</td><td>84.65±1.</td><td>82.80±2.</td><td>89.32±0.</td><td>82.64±1.</td><td>81.29±1.</td><td>83.33±3.</td><td><0.05</td></tr><tr><td></td><td>80bc</td><td>08c</td><td>59ab</td><td>79</td><td>86ab</td><td>19bc</td><td>63ab</td><td>304b</td><td>76bc</td><td>81a</td><td>10bc</td><td>30bc</td><td>63</td><td></td></tr><tr><td>脯氨酸 Pro</td><td>72.16±0.</td><td>68.45±3.</td><td>77.84±1.</td><td>71.06±3.</td><td>76.31±1.</td><td>74.96±1.</td><td>76.16±0.</td><td>75.87±2.</td><td>72.55±4.</td><td>81.16±1.</td><td>73.55±1.</td><td>69.56±2.</td><td>74.17±5.</td><td><0.05</td></tr><tr><td></td><td>72bed</td><td>12d</td><td>06ab</td><td>34bed</td><td>76abc</td><td>50abed</td><td>48abc</td><td>33abc</td><td>09bed</td><td>13a</td><td>48bed</td><td>44cd</td><td>34</td><td></td></tr><tr><td>丝氨酸 Ser</td><td>70.62±1.</td><td>69.70±3.</td><td>79.47±1.</td><td>71.55±4.</td><td>76.15±1.</td><td>74.68±2.</td><td>74.08±0.</td><td>74.92±2.</td><td>74.69±3.</td><td>78.03±1.</td><td>72.43±2.</td><td>72.73±2.</td><td>74.11±6.</td><td></td></tr><tr><td></td><td>34b</td><td>56b</td><td>33a</td><td>18ab</td><td>81ab</td><td>92ab</td><td>86ab</td><td>65ab</td><td>64b</td><td>73ab</td><td>05ab</td><td>23ab</td><td>02</td><td>0.21</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a4f0984eee1a218a1e0767688084b7c6066e3667ff712ff835185726394dc99.jpg",
+        "table_caption": [
+            "样品 Samples",
+            "项目Items"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>Mean</td><td>P-value</td></tr><tr><td>酪氨酸Tyr</td><td>78.98±0.</td><td>76.34±2.</td><td>84.35±0.</td><td>83.83±5.</td><td>82.38±1.</td><td>79.25±1.</td><td>76.33±0.</td><td>78.56±1.</td><td>76.76±1.</td><td>79.03±2.</td><td>79.56±0.</td><td>71.28±1.</td><td>78.81±4.</td><td><0.05</td></tr><tr><td></td><td>49ab</td><td>37bc</td><td>78a</td><td>18a</td><td>20ab</td><td>61ab</td><td>95bc</td><td>94ab</td><td>74bc</td><td>51ab</td><td>73ab</td><td>37℃</td><td>77</td><td></td></tr><tr><td>甘氨酸 Gly</td><td>68.94±0.</td><td>62.40±2.</td><td>76.61±2.</td><td>66.90±5.</td><td>70.36±2.</td><td>69.31±1.</td><td>75.98±1.</td><td>74.69±1.</td><td>74.28±2.</td><td>80.01±1.</td><td>74.34±1.</td><td>69.44±3.</td><td>72.05±5.</td><td><0.05</td></tr><tr><td></td><td>51bed</td><td>17d</td><td>38b</td><td>24cd</td><td>34bc</td><td>45bed</td><td>79ab</td><td>84abc</td><td>38abc</td><td>31a</td><td>61abc</td><td>81bed</td><td>88</td><td></td></tr><tr><td>总非必需氨基</td><td>72.42±0.</td><td>68.77±2.</td><td>78.54±0.</td><td>68.39±3.</td><td>75.64±1.</td><td>41.52±2.</td><td>73.49±0.</td><td>73.40±1.</td><td>71.14±2.</td><td>78.22±1.</td><td>71.43±1.</td><td>70.59±1.</td><td>70.73±4.</td><td></td></tr><tr><td>酸Total NEAA</td><td>83bc</td><td>44c</td><td>79a</td><td>34</td><td>02ab</td><td>36d</td><td>72abc</td><td>53abc</td><td>91bc</td><td>11a</td><td>326c</td><td>38bc</td><td>29</td><td><0.05</td></tr><tr><td>总氨基酸</td><td>73.23±0.</td><td>69.38±2.</td><td>78.60±0.</td><td>68.22±3.</td><td>75.71±10</td><td>37.27±2.</td><td>72.53±0.</td><td>73.34±1.</td><td>71.37±2.</td><td>77.93±1.</td><td>71.17±1.</td><td>70.80±1.</td><td>70.45±4.</td><td></td></tr><tr><td>Total AA</td><td>77bed</td><td>45d</td><td>75a</td><td>20d</td><td>.00abc</td><td>42e</td><td>70cd</td><td>36bed</td><td>58cd</td><td>02ab</td><td>23cd</td><td>39ed</td><td>09</td><td><0.05</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。In the same row, values with the same or no letter superscripts mean no significant difference ( $P >$ 0.05),while with different small letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ 二",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.1不同来源菜籽粕能量营养价值",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Woyengo 等[1测定浸提型和压榨型2种不同加工工艺的菜籽粕，其CP、GE、NDF 和 EE 含量分别为 $4 1 . 4 \\%$ 和 $41 . 8 \\%$ 、20.133和 $2 1 . 7 5 3 \\mathrm { M J / k g }$ 、 $2 9 . 9 0 \\%$ 和 $2 3 . 8 4 \\%$ 、 $5 . 5 4 \\%$ 和 $12 . 0 3 \\%$ ，与本试验研究结果基本一致。Bayley等[12]用4周龄肉鸡测定传统的2种菜籽粕的ME分别为6.234和6.945$\\mathrm { M J / k g }$ ；当使2种菜籽粕的CF含量分别降低到 $8 \\%$ 和 $10 \\%$ 时，测定的 ME 升高为 $9 . 1 6 3 ~ \\mathrm { M J / k g }$ ；而当CF 含量都升高到 $23 \\%$ 时，测定的2种菜籽粕的ME 分别为5.690 和 $6 . 5 2 7 \\mathrm { M J / k g }$ ；表明饲料原料的CF 含量会影响其ME。本试验使用玉米淀粉稀释的方法测定菜籽粕的ME，稀释过的CF 含量为 $5 . 7 8 \\% { \\sim } 9 . 8 5 \\%$ ，测定菜籽粕的平均 ME 为 $8 . 6 2 7 { \\sim } 9 . 3 2 6 \\ \\mathrm { M J / k g }$ ，基本在其测定范围之内。Chen等[13]测定传统菜籽粕和新型育种技术培养菜籽粕的TMEn分别为9.519 和 $1 0 . 2 6 7 \\mathrm { M J / k g D M }$ ，高于本试验结果。表明通过育种技术降低硫代葡萄糖苷的含量以及在加工工程中的脱皮技术都能提高菜籽粕的 $\\mathrm { M E ^ { [ 1 4 - 1 5 ] } } ,$ 0",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.2不同来源菜籽粕氨基酸营养价值",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Woyengo 等[1测定浸提型和压榨型2种不同类型菜籽粕的氨基酸含量时发现，浸提型菜籽粕的氨基酸含量范围为 $0 . 6 9 \\% { \\sim } 2 . 2 2 \\%$ ，压榨型菜籽粕的氨基酸含量范围为 $0 . 6 8 \\% { \\sim } 2 . 4 3 \\%$ ，均为Met含量最低，Arg 含量最高。本试验除菜籽粕样品10 为压榨型，其余菜籽粕样品均为预压浸提型，氨基酸含量与前人研究结果一致。Woyengo 等[1]报道，压榨型菜籽粕的表观和标准氨基酸消化率高于浸提型，这可能是由于压榨型菜籽粕中的油脂含量高。Li等[16]和Cervantes-Pahm 等[17]在猪上的研究也有类似的结果，可能是由于脂肪含量高，降低胃的排空速度而引起的。Jia[18]等也报道，高蛋白质水平和低纤维水平的菜籽粕会使肉鸡的 AMEn 和氨基酸利用率增加。菜籽粕中 Met 的真利用率高于其他氨基酸（除 Arg 外)，可能与菜籽粕自身的含硫氨基酸高于其他饼粕类有关。菜籽粕样品2的10 种氨基酸和菜籽粕样品4的3种氨基酸的真利用率低于其他菜籽粕样品，可能与菜籽粕样品2和4的 NDF、ADF 和CF含量均高于其他菜籽粕样品有关。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 不同来源菜籽粕的营养成分含量差异很大，以NDF、ADF、EE 和Ash的CV较大。12个菜籽粕样品的氨基酸平均含量为 $0 . 7 2 \\% { \\sim } 6 . 5 5 \\%$ ，Lys 的CV 最大，为 $1 8 . 9 7 \\%$ 。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 不同来源菜籽粕的 ME 差异显著（ $. P { < } 0 . 0 5 \\$ ），12个菜籽粕样品的AME、AMEn、TME、   \nTMEn 的平均值分别为8.627、9.029、9.326 和 $8 . 9 7 0 \\mathrm { M J / k g }$ ；不同来源菜籽粕的 TAAA差异显著 （除Met、Thr 和 Ser外）（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ ，必需氨基酸真利用率的平均值为 $70 . 8 1 \\%$ ，非必需氨基酸真   \n利用率的平均值为 $7 0 . 4 3 \\%$ ，总氨基酸真利用率的平均值为 $7 0 . 4 5 \\%$ 。   \n参考文献：   \n[1]蒋小松,朱庆,杜华锐,等.大恒优质肉鸡育种研究与应用[C]/第十三次全国家禽学术讨论会论 文集.郑州:中国畜牧兽医学会,2007.   \n[2]向荣.不同处理棉(菜)粕中氨基酸和小肽含量变化及其在鸡消化道中利用规律研究[D].硕士学 位论文.长沙,湖南农业大学,2011:1-2.   \n[3]苗静平.菜籽粕在饲料生产上的应用前景[J].饲料广角,2014(5):40-41.   \n[4] MULROONEY C,SCHINGOETHE D,KALSCHEUR K,et al. Canola meal feed industry guide[J].Journal of dairy science,2009,92(11):5669-5676.   \n[5]MCNAB J M,BLAIR JC.Modified assay for true and apparent metabolisable energy based on tube feeding[J].British Poultry Science,1988,29(4):697-707.   \n[6]POPPEMA T F,DUKE G E.The efectiveness of ligating or detaching ceca as an alternative to cecectomy[J].Poultry Science,1992,71(8):1384-1390.   \n[7]ADEOLA O,RAGLAND D,KING D.Feeding and excreta collection techniques in metabolizable energy assays for ducks[J].Poultry Science,1997,76(5):728-732.   \n[8]张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003:48-135.   \n[9]呙于明.家禽营养[M].2版.北京:中国农业大学出版社,2004:403-404.   \n[10]LIKUSKI H JA,DORRELL HG.A bioassay for rapid determinations of amino acid availability values[J].Poultry Science,1978,57(6):1658-1660.   \n[11]WOYENGO T A,KIARIE E,NYACHOTI C M.Metabolizable energy and standardized ileal digestible amino acid contents of expeller-extracted canola meal fed to broiler chicks[J].Poultry Science,2010,89(6):1182-1189.   \n[12]BAYLEY H S,HILL D C.Nutritional evaluation of low and high fibre fractions of rapeseed meal using chickens and pigs[J].Canadian Journal of Animal Science,1975,55(2):223-232.   \n[13]CHEN X,PARR C,UTTERBACK P,et al.Nutritional evaluation of canola meals produced from new varieties of canola seeds for poultry[J].Poultry Science,2015,94(5):984-991.   \n[14] SLOMINSKIBA,CAMPBELL LD.Non-starchpolysaccharidesofcanola meal:Quantification,digestibilityinpoultryandpotential benefitofdietaryenzyme supplementation[J].Journal of the Science of Food and Agriculture,1990,53(2):175-184.   \n[15]SLOMINSKI B A,JIA W,ROGIEWICZ A,et al.Low-fiber canola.Part 1.Chemical and nutritive composition of the meal[J].Journal of Agricultural and Food Chemistry,2012,60(50):12225-12230.   \n[16] LI S,SAUER W C.The effct of dietary fat content on amino acid digestibility in young pigs[J].Journal of Animal Science,1994,72(7):1737-1743.   \n[17] CERVANTES-PAHM S K,STEIN H H.Effect of dietary soybean oil and soybean protein concentration on the concentration of digestible amino acids in soybean products fed to growing pigs[J].Journal of Animal Science,2008,86(8):1841-1849.   \n[18] JIA W,MIKULSKI D,ROGIEWICZ A,et al.Low-fiber canola.Part 2.Nutritive value of the meal[J].Journal of Agricultural and Food Chemistry,2012,60(50):12231-12237.   \nEvaluation of Metabolizable Energy and Amino Acids Nutrient Value of Different Rapeseed Meals for Daheng Broilers ZHANG Chanjuan WANG Jianping DING Xuemei ZENG Qiufeng BAI Shiping ZHANG Keying\\* (Key Laboratory ofAnimal Disease-Resistant Nutrition of Ministry of Education, Institute of Animal Nutrition, Sichuan Agricultural University, Ya'an, 625014, China)   \nAbstract: This study was conducted to evaluate metabolizable energy (ME) and amino acids nutritent   \nvalue of different rapeseed meals for Daheng broilers by using true ME (TME) assay. Twelve rapeseed   \nmeal samples were collcted from feed enterprises in Sichuan province and its ME and true ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "availabilities of amino acid (TAAA) were determined. ME evaluation included 3 batches metabolic test, 48 normal broilers per batch were randomly assigned to 6 groups with 8 replicates per group and 1 chicken per replicate.TAAA evaluation included 3 batches metabolic test, 36 caecectomized broilers per batch were randomly assgned to 6 groups with 6 replicates per group and 1 chicken per replicate. An endogenous group was prepared in every batch,and 10-day recovery between each batch was set up. TME assay was used to investigate the ME, including feed withdrawal for $4 8 \\mathrm { ~ h ~ }$ before feeding test samples and then $2 \\%$ of body weight of diets to be measured for force feeding, with $4 8 \\mathrm { ~ h ~ }$ of excreta collection period; whereas the group for endogenous collction was continued to fast and collcted the excreta for $4 8 \\mathrm { { h } }$ . The results showed as follows: 1) The mean contents of dry matter (DM), crude protein (CP),gross energy (GE), neutral detergent fiber (NDF),acid detergent fiber (ADF)， crude fiber (CF), ether extract (EE) and ash of 12 rapeseed meal samples were $8 7 . 6 7 \\%$ ， $4 2 . 1 0 \\%$ ,19.75 MJ/kg, $3 9 . 9 9 \\%$ ， （202 $1 6 . 1 3 \\%$ ， $1 5 . 1 5 \\%$ ， $2 . 4 0 \\%$ and $9 . 1 0 \\%$ , respectively. The coefficient of variation (CV) of NDF,ADF, EE and ash were greater than $1 5 \\%$ . 2) The means of apparent ME (AME), nitrogen corrected AME (AMEn), TME and nitrogen corrected TME (TMEn) of 12 rapeseed meal samples were 8.627, 9.029, 9.326, and $8 . 9 7 0 \\mathrm { M J / k g }$ ,respectively. There was significant difference in ME of different rapeseed meals ( $( P { < } 0 . 0 5 )$ ： 3) The mean contents of amino acids of 12 rapeseed meal samples were ranged from $0 . 7 2 \\%$ to $6 . 5 5 \\%$ ： The maximum CV of lysine was $1 8 . 9 7 \\%$ .4) The means of TAAA of 12 rapeseed meal samples were ranged from $6 8 . 3 7 \\%$ to $8 8 . 9 2 \\%$ . There was significant difference in TAAA of different rapeseed meals except for methionine, threonine and serine ( $( P { < } 0 . 0 5 )$ . The means of true availabilities of essential amino acids, non-essential amino acids and total amino acids were $70 . 8 1 \\%$ ， $7 0 . 4 3 \\%$ ,and $7 0 . 4 5 \\%$ ,respectively. It is concluded that:1) there are differences in AME,AMEn, TME,and TMEn of different rapeseed meals.2) There are differences in TAAA of different rapeseed meals for Daheng broilers. Key words: Daheng broilers; rapeseed meal; metabolisable energy; true availabilities of amino acids ",
+        "page_idx": 18
+    }
+]

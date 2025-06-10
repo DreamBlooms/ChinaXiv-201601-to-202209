@@ -1,0 +1,146 @@
+# Flow Structure and Heat Exchange Analysis in Internal Cooling Channel of Gas Turbine Blade
+
+Ryszard Szwaba, Piotr Kaczynski, Piotr Doerffer, Janusz Telega
+
+Institute ofFluid-Flow Machinery,Polish AcademyofSciences (IMPPAN),Fiszera 14,80-952 Gdansk,POLAND
+
+This paper presents the study of the flow structure and heat transfer,and also their corelations on the four walls of a radial cooling passage model of a gas turbine blade.The investigations focus on heat transfer and aerodynamic measurements in the channel, which isan accurate representation of the configuration used in aeroengines. Correlations for the heat transfer coefficient and the pressure drop used in the design of radial cooling passages are often developed from simplified models.It is important to note that real engine passges do not have perfect rectangular cross sections,but includecorner filet,ribs with filletradii and special orientation.Therefore,this work provides detailed fluid flow and heat transfer data for a model ofradial cooling geometry which possesses veryrealistic features.
+
+# Keywords: cooling, internal blade channels, heat exchange, transient liquid crystal method
+
+# Introduction
+
+Heat exchange is a critical issue in the development of gas turbine blades. Gas temperature at the first stage of the turbine is extremely high and can cause metal melting thus，intensive cooling of the NGV and first blades is absolutely necessary. Usually a combination of internal convection cooling and film cooling is applied. They have to be designed for high efficiency, long life cycles and safe operation in spite of being exposed to high thermal loadings of the engine.
+
+The internal cooling systems of high pressure blades in modern aero engines are very complex and essentially rely on serpentine systems.The data available for design purposes tends to be in the form of correlations obtained froma large number of idealized geometries, e.g.[1,2, 3] overrestricted ranges of operation.The work described in the present paper is a part of the work undertaken within the EU ERICKA project [4]. The project concerned generation of test data on the heat transfer and pressure drop performance of ribbed cooling passages which, together with CFD and optimization tools,is intended to support the development of more effective cooling systems forrotating turbine components.
+
+Correlations for the heat transfer coefficient and pressure drop used in the design of radial cooling passages are often developed from data gained from simplified, flat surfaced models over specific conditions [5].It is important to note that real engine passages do not have perfect rectangular cross sections,but include fillets and space oriented ribs also with fillet radii.Therefore, this workprovidesdetailed fluidflowandheat transfer data for a model of radial cooling geometry which possesses very realistic features.The ribs are of a real shape.
+
+The main goal of this paper is to study the flow structure and heat transfer, and also their correlations on all the four walls of a radial cooling passage model of a gas turbine blade. The flow structure and pressure drop were measured by means of the classical measurements techniques.The stagnation pressure and velocity were meas
+
+# Nomenclature
+
+<html><body><table><tr><td>X</td><td>length of the channel (mm)</td><td>P0</td><td>inlet stagnation pressure (Pa)</td></tr><tr><td>Y</td><td>height of the channel (mm)</td><td>PP</td><td>stagnation pressure (Pa)</td></tr><tr><td>Z</td><td>span of the channel (mm)</td><td>HTC, h</td><td>heat transfer coefficient</td></tr></table></body></html>
+
+<html><body><table><tr><td>Nu</td><td>Nusselt number</td><td>LE</td><td>leading edge</td></tr><tr><td>Re</td><td>Reynolds number</td><td>TE</td><td>trailing edge</td></tr><tr><td>d</td><td>diameter (mm)</td><td>PS</td><td> pressure side</td></tr><tr><td>T</td><td>Temperature (K)</td><td>Ss</td><td>suction side</td></tr><tr><td>k</td><td>material constant</td><td>index</td><td></td></tr><tr><td>u</td><td>velocity (m/s)</td><td>S</td><td>surface</td></tr><tr><td>U_m</td><td>mean velocity (m/s)</td><td>G</td><td>Gas</td></tr><tr><td>f</td><td>frequency (Hz)</td><td>i</td><td>initial condition</td></tr><tr><td>t</td><td>time (s)</td><td>aw</td><td>adiabatic wall</td></tr></table></body></html>
+
+ured in the channel outlet plane.The Transient Liquid Crystal method was used to investigate the heat transfer.
+
+The experimental setup presented here is able to provide complementary data of the heat transfer and flow pattern in a cooled inner channel of a turbine blade.The transient heat transfer measurement technique using liquid crystal coatings is well known and has been successful in high resolution measurements on surfaces with complex shapes and geometries [6,7,8,9].The method allows obtaining detailed surface distributions of local heat transfer coefficients in the cooled channels,whereby it is possible to predict the result of the heat load under real-engine conditions. One of the advantages of this method is that there is no need to reach stable conditions in wall temperature,what is very important in the studies where duct geometry has a large surface and a highly curved and complex flow structure.
+
+# Experimental Setup
+
+# Heat transfer measurements
+
+To carry out research of heat transfer using the TLC technique[1O,11]it is necessary to have liquid crystal in the form of a sheet or sprayable microencapsulated water slurries placed on the inner wall of a test section.In this experiment a narrow band liquid crystal sheet (R35C1W) was used.The first step is calibration which is done by determination of the temperature at which the liquid crystal turns on a specific color.In this experiment, it was a green color. This is the way to determine the temperature at which the green color intensity is the highest. The test section should be also equipped with thermocouples which measure the temperature along the flow and on the channel walls.In order to trigger the heat flux,it is necessary to have a temperature difference between the gas and the channel walls.In this experiment the hot air was introduced into the channel triggering the heat transfer from the flowing gas to the surfaces of the channel walls. As the time was passing, the liquid crystals located on the wall surface were heated up and finally changed their color. Knowing the material properties of the channel walls,the local temperatures and also the time which passed from the start of the measurement (i.e. the moment of introduction of hot air into the channel) to reach the wall temperature activating the green color, one can determine the heat transfer coefficient. The 3CCD camera recorded images during the measurement to determine time $t$ at which the green intensity peak was achieved.The recorded frames were analyzed by means of our own automated MATLAB code. The software [12] for searching the time of the green intensity peak in every pixel was developed. Having the above information it was possible to determine the heat transfer coefficient $h$ distribution on the wall.
+
+The liquid crystal calibration stand is shown in Fig.1. The sheet with liquid crystals is placed on a copper plate, one of the edges of which is heated while the second edge is cooled using e.g. water at a constant temperature. The plate is placed in a housing which is intended to reduce heat losses to the ambient. This kind of configura tion provides an almost one-dimensional temperature
+
+![](images/1e7f21b45f4355149c3aac494eb4e311df42237d9b1fc4c5caa5ea32a83267e9.jpg)  
+Fig.1 Calibration of liquid crystal sheet. distribution along the plate.Thermocouples embedded in the plate measure the temperature at its surface.Then, combining the temperature distribution with green color distribution on the plate the temperature of green intensity peak can be determined.
+
+Fig.2 shows the green color intensity versus time during the experiment for a chosen pixel. The temperature at which the green color reaches the highest intensity is known from the calibration. Therefore,the surface temperature on the wall is determined exactly in the experiment.
+
+![](images/58df60a27c2a9f4ee5aa94a4432fb7021cdc7be7a55b43896c1f5cb492819343.jpg)  
+Fig.2Green colour intensity history.
+
+# Test section
+
+The view of the test section is shown in Fig.3.This test section corresponds to an internal radial passage channel of a turbine blade. The lower and upper walls are ribbed,what corresponds to the pressure and suction side of the turbine blade inner channel.In the downstream view the left side wall corresponds to the leading edge direction, the right side wall corresponds to the trailing edge direction. Small ribs located on the lower and upper walls have a parallel setting to each other. The ribs were skewed by $4 5 ^ { \circ }$ in relation to the flow direction. The as pect ratio of the channel is 1:4.The Reynolds number in the experiment based on hydraulic diameter was $\scriptstyle \mathrm { R e } =$ 63 000.
+
+The test section scheme together with the system of hot air preparation is presented in Fig. 4.The ambient air enters through the heater placed at the inlet of the settling chamber.Hot air is permanently evacuated from the settling chamber through the test section or the bypass system.While the bypass valve is open the air from the settling chamber flows to the bypass circuit. This arrangement is for establishing the mass flow and temperature, the same as during the measurement. When the bypass valve is closed, the main valve is open and hot air flows through the test section and then to the vacuum tank.The mass flow rate in the test section is controlled during the measurements by the orifice plate.For the investigation of heat transfer the liquid, crystal sheets were placed on the surface of the inner walls of the test section.
+
+The imaging system allows observing three walls,one sidewall and two ribbed walls simultaneously (see Fig.5). Two flat mirrors are mounted at 3O degrees and show upper and lower ribbed walls.Ilumination is provided by four strip LED lamps. The white color of light and its precise orientation gives sufficient response of the green signal from the narrow band liquid crystal sheet. The imaging system comprises 3 CCD cameras which record imagesatarate of $3 0 ~ \mathrm { H z }$ and with a resolution of $1 0 2 4 \times$ 768 pixels.
+
+![](images/282b01fe60328d65cbfafdbc778bf598b3efd6d547056ff58606f4de2ee5fd48.jpg)  
+Fig.3View of test channel.
+
+Bypass Bypass Valuve Control Fan Main Heater 文 →Ambient Valve[ Ctlinger + Test Section Vacuum OrificePlate
+
+![](images/4acf829c01b5873d6f2ac6bf5987fe986e8959b30ef2a3d2a9d779ec93527a21.jpg)  
+Fig.4Measurement system scheme.   
+Fig.5Image system scheme.
+
+The local heat transfer coefficient is calculated in everypixel separately by solving the analytically unsteady,one dimensional conduction equation with the assumption of a semi-infinite wall for the whole of the test period, constant initial temperatures and a convective boundary condition. For this purpose a MATLAB code was specially created to calculate the heat transfer coefficient $h$ from the equation（1） developed by Clifford and Jones [1O]. The MATLAB code is used to calculate the heat transfer coefficient at each pixel location by comparing the experimental green intensity history with the gas temperature flowing through the test section. At the beginning the software calculates time $t$ after which there is the maximum intensity of the green color for every pixel separately. Then, using gas temperature $T _ { G a w }$ measured by four thermocouples placed along the channel (linearly averaged) the local heat transfer coefficient is calculated. $T _ { S , l c }$ is the wall surface temperature at which liquid crystal adopts the green color. $T _ { i }$ is the initial wall temperature (constant during measurements）while $k$ isa product of the channel material density, specific heat and
+
+thermal conductivity.
+
+$$
+\frac { T _ { S , l c } - T _ { i } } { T _ { G , a w } - T _ { i } } = 1 - \exp ( h ^ { 2 } \frac { t } { k } ) e r f c ( h \sqrt { \frac { t } { k } } )
+$$
+
+# Results and Discussion
+
+# Pressure and velocity measurements
+
+The normalized stagnation pressure and velocity distribution at the test section outlet plane $\mathrm { X } { = } 5 5 0$ ,Fig. 3) is shown in Fig.6.The results are shown according to the downstream view. The stagnation pressure was measured by means of a Pitot probe. The velocity was measured by means of a hot wire probe,hence,in this case the result shows the velocity magnitude.The $X$ component (longitudinal velocity) is dominating in the channel flow.
+
+The pressure and velocity measurements show that a pair of main counterrotating vortices is created in the flowby the ribs.The dashed ellipseswith an arrow show the sense of rotation of the induced vortices. The parallel setting of ribs in the channel creates two main vortices with the opposite sense of rotation,but the flow direction in these two vortices is the same in the channel centre,it is passing from one side wall to the other.In Fig.6 one can also notice that regions of higher velocity correspond to regions of higher stagnation pressure.The highest flow velocity is in areas near the upper and lower walls,where the flow is forced by the skewed ribs, goes down over the rib toward theLE side wall.
+
+# Heat transfer measurements
+
+Fig.7 presents the heat transfer coefficient distribution on all four channel walls. The flow structure coming from aerodynamic measurements is placed on the right side.Arrows on the pressure distribution plane indicate the location in the space of particular walls.Fig.7 shows that the HTC distribution is highly correlated with flow structure.
+
+Heat transfer strongly increases in areas where stagnation pressure and velocity are high. The stagnation pressure is higher in the middle of the TE side wall than on the LE wall.This is reflected in the HTC distribution, in the middle of the duct, the HTC on the trailing edge wall (TE) is higher in relation to the leading edge wall. Correlation between pressure (velocity） and the heat transfer coefficient is also seen on the ribbed walls and in those channel corners where the flow has accelerated.The higher velocity in the left corners (at the leading edge wall) is observed, thus,in these regions one can see very highvalues of the heat transfer coefficient,in contrast to the opposite corner where $H T C$ values are much lower.
+
+Generally one can say that higher heat transfer is in the region where shear stresses increase (Reynolds analogy). This can be also illustrated zooming the region between the ribs(Fig.8).The ribs themselves are not cov
+
+![](images/121d8b16ee503b2e8008bd08437a307584fcfb1425b18332ef945ae236e3701d.jpg)  
+Fig.6Measurement plane downstream of ribbed section,a) normalized stagnation pressure,b) velocity magnitude.
+
+![](images/375b029b333b06cd31f6b71eeea474729c03de41f427d9f26e38af5da0275708.jpg)  
+Fig.7Heat transfer coefficient distribution on all channel walls.
+
+ered by LCs. The shear stresses increase and the heat downstream of the rib where the flow driven by the vortransfer coefficient also significantly increases just tex goes down. The heat transfer radically decreases in
+
+the region before the ribs where the flow separates.
+
+Watching the HTC distribution on the leading edge side wall (Fig. 7) one can also observe the phenomenon of vortices development along the channel. At the inlet where the ribs start to influence the flow the height of two main vortices is small, then,along the channel one can see that they gradually enlarge.Finally at the outlet the vortices occupy the whole cross-section of the channel.
+
+The averaged normalized Nusselt number $( \mathrm { N u } / \mathrm { N u } 0 )$ distributions along the channel for side and ribbed walls are shown in Fig. 9. For side walls the averaging was made calculating the mean value,vertically line by line along the channel.For the ribbed walls Nusselt number was calculated averaging the surface between the neighboring ribs.
+
+![](images/fde5508a0cb2c3cfc845b22737bf2c2bd9f7b2d854dc0e4ecd64d09e7aedb953.jpg)  
+Fig.8Heat transfer coefficient distribution on ribbed wall.
+
+Fig.9 shows that the heat exchange increases on the side walls along the channel from the inlet to about $80 \%$ of the duct length.At the outlet the average Nusselt number values start to decrease.The parallel setting of ribs causes the difference in Nu distribution between LE and TE walls.On the LE wall,where the direction of vortices is out from the wall (see Fig. 7),lower average Nusselt number values in relation to TE wall are observed.
+
+![](images/59b289fb00312d32c5f580a9102fddb7ca137a78c18eb09063e0c51769d52410.jpg)  
+Fig.9Averaged normalized Nusselt number distribution on channel walls.
+
+Figure 9 also shows the heat exchange along the ribbed walls on the pressure side and suction side.In this figure one can see that heat transfer increases quickly from the very beginning,what is due to vortices development in the channel.When the vortices have developed the average Nu stabilizes,further downstream of the channel there is a small tendency in the average heat exchange to be decreasing in the direction of the duct outlet
+
+The vortices generated by the ribs increase significantly the heat exchange on the walls. The averaged Nusselt number values on the ribbed walls are approximately $50 \%$ higher in relation to the side walls.At the outlet of the channel one can also observe the difference in the heat transfer between the suction(SS) and pressure (PS) sides. The reason of this phenomenon is a non-uniform velocity distribution in the channel.In Fig.6b one can see that velocity at the upper wall (SS) is a little higher than at the lower wall (PS). Lower velocity means lower shear stresses which in consequence lead to a decrease in the heat transfer coefficient. On this example one can also conclude that heat transfer can change due to the local small asymmetry of the flow field.
+
+# Velocity fluctuation measurements
+
+The result of the velocity fluctuations measurement by HTA(Hot Wire Anemometry) is shown in Fig. 10. The measurement plane was located downstream of the ribbed section at $X { = } 5 5 0$ , in the same plane adequate for the velocity and stagnation pressure measurements.
+
+![](images/c086fff04df8614fc825b27bf7ca3c5b7416058429a73d0d2b12c5cd6c765567.jpg)  
+Fig.10Normalized velocity fluctuation.
+
+The results in Fig.1O show that the lowest level of the velocityfluctuationsinthe flow canbeobserved in the acceleration regions near the bottom and upper wall of the channel.The highest velocity fluctuations are observed near the side walls in areas where the flow decelerates. Generally,we can say that a high level of turbulence can be observed in the channel with the aspect ratio 1:4, which isrelatively narrow. The average turbulence intensityisatalevelofabout $10 \%$ .Ahighlevel of turbulence on the one side supports the heat exchange,but slightly increases the losses in the channel flow on the other side.
+
+# Conclusions
+
+The following conclusions can be drawn from the above described investigations:
+
+· A model of an internal cooling channel of a gas turbine blade was manufactured and equipped with imaging and necessary systems for heat transfer and aerodynamic measurements;   
+· The method of heat exchange measurements in a cooling channel of a gas turbine blade was based on the transient liquid crystal technique.The transient method is not expensive in implementation and its biggest advantage is that there is no need to achieve stable conditions in wall temperature;   
+·A comparison of heat exchange with aerodynamic measurement (flow pattern） in the ribbed channel was made;   
+· Ribs on the suction and pressure side walls create a specific flow structure with two dominant vortices along the channel with the opposite sense of rotation;   
+·A high level of turbulence (average turbulence intensity of about $10 \%$ ）in the ribbed and narrow channels was observed;   
+· The heat transfer coefficient distribution on the walls is highly correlated with the vortex pattern and the stagnation pressure distribution in the channel;   
+· The heat transfer strongly increases in areas where local velocity (stagnation pressure) is higher. On the sidewalls these are areaswhere the flowisdirected towards the wall. On the ribbed walls these are areas just downstream of the rib and this side of the corner where the flow in the vortex is upcoming to that corner. The heat transfer decreases considerably upstream of the next rib and the opposite corner;   
+· In the radial cooled passage channel of the turbine blade the differences in the heat transfer between the suction side and pressure side can appear due to the local small asymmetry of the flow field.
+
+# Acknowledgement
+
+The research leading to these results has received funding from the European Union Seventh Framework Programme (FP7/2007-2013) under Grant Agreement No. 233799 (ERICKA).Permission for publication is gratefully acknowledged by the authors.
+
+# References
+
+[1]Metzger D.E.,Larson D.E., Use of Melting Point Sur
+
+face Coating for Local Convection Heat Transfer Measurements in Rectangular Channel Flows with 90-deg Turns,ASME Journal of Heat Transfer, Vol. 108, pp. 48-   
+54,(1986) [2] Kiml R.,Mochizuki S.，Murata A., Effects of Rib Arrangements on Heat Transfer and Flow Behavior in a Rectangular Rib-Roughened Passage: Application to Cooling of Gas Turbine Blade Trailing Edge,ASME Journal ofHeat Transfer,Vol.123,pp.675-681,(2001) [3]Arts T., Benocci C., Rambaud P., Experimental and Numerical Investigation of Flow and Heat Transfer in a Ribbed Square Duct, 3rd International Symposium on Integrating CFD and Experiments in Aerodynamics, U.S. Air Force Academy, Colorado, (2007) [4]http://www.ericka.eu,(2009-2014) [5]Cakan,M.,Aero-thermal Investigation of Fixed Ribroughened Internal Cooling Passages,Ph.D. Thesis,Turbomachinery Department,Von Karman Institute for Flouid Dynamics, Brussels, (2000) [6]Irland P.T., Jones T. V., The Measurement of Local Heat Transfer Coefficients in Blade Cooling Geometries, AGARD Conference on Heat Transfer and Cooling in Gas Turbines, CP 390 Paper 28, Bergen,(1985) [7]Jones T. V., Hippensteele S.A., High Resolution Heat Transfer Coefficient Maps Applicable to Compound Curve Surfaces Using Liquid Crystals in a Transient Wind Tunnel, NASA TM 89855,(1988) [8]Blair M. F., Wagner J. H., Steuber G D.,1991,New Applications of Liquid Crystal Thermography in Rotating Turbomachinery Heat Transfer Research,ASME Paper No. 91-GT-354, San Diego. [9]Vogel G, Graf A. B. A., Wolfersdorf J.， Weigand B.,A Novel Transient Heater-Foil Technique forLiquid Crystal Experiments on Film-Cooled Surfaces,ASME Journal of Turbomachinery,Vol.125,pp.529-537,(2003) [10]Clifford R.J., Jones T. V., Dunne S.D., Techniques for Obtaining Detailed Heat Transfer Coefficient Measurements within Gas Turbine Blade and Vane Cooling Passages,ASME Paper 83-GT-58,Indianapolis (1983) [11]Ireland,P.T.,Neely,A.J.,and Gillespie,D.R.H.,Turbulent heat transfer measurements using liquid crystals, International Journal of Heat and Fluid Flow, Vol.: 20,Issue:   
+4, pp. 355-367, (1999) [12]Telega J., Doerffer P., Szwaba R., Kaczyhski P.,Parallelized Numerical Code For Derivation Of Heat Transfer Coeficient From Experimental Data, TASK Quarterly, Vol. 19,No. 2, pp.197-205, (2015)

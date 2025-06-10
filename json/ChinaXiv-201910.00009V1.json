@@ -1,0 +1,416 @@
+[
+    {
+        "type": "text",
+        "text": "内蒙古26种常见温带灌木的生物量模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵梦颖¹,²，孙威³，罗永开},²，梁存柱³，李智勇³，沈海花¹，牛霞霞³，郑成洋4，胡会峰'，马文红³",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．中国科学院植物研究所植被与环境变化国家重点实验室，北京100093；2．中国科学院大学，北京100049;3．内蒙古大学生态与环境学院，内蒙古 呼和浩特010021；4．北京大学城市与环境学院，北京100871)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：生物量模型是估算灌木生物量的重要方法之一,本文采用4种数学模型（一元线性模型、二元线性模型、对数模型、幂函数模型）,3个预测变量株高 $( H )$ 、冠幅 $( C )$ 、植株体积 $( V )$ 对内蒙古地区26种常见温带灌木进行生物量方程的拟合，同时比较不同生境类型间灌木根冠比的差异。结果表明： $\\textcircled{1}$ 最优生物量方程以幂函数模型和一元线性函数模型为主，最佳预测变量以冠幅 $( C )$ 和植株体积 $( V )$ 为主。 $\\textcircled{2}$ 有17种灌木不同器官最优生物量方程的形式和预测变量相同,表明物种内的生物量方程形式具有一定的一致性;但各器官生物量方程的系数又各不相同,因此分种进行不同器官生物量的拟合可以更准确地估算生物量。 $\\textcircled{3}$ 草地灌木和山地灌木的根冠比显著大于荒漠灌木的根冠比。通过建立分种分器官的生物量估算模型,可以为内蒙古地区灌木生物量的计算以及灌丛生态系统碳库的估算提供便利。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：温带灌木；生物量模型；根冠比；内蒙古",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植被生物量作为植物群落最重要的数量特征，是生态系统生产力的重要体现[1-3]。对不同生态系统生物量的准确估算是陆地生态系统碳库估算的重要任务。灌丛作为陆地生态系统的重要类型之一，种类丰富、生命力强、生态适应范围宽[4-7],且在保持水土、防风固沙中发挥着重要的作用[8-10],但由于灌木经济价值较低，在森林清查和碳库估算中常被忽略[11],因此准确估测灌木生物量,能够为更好地保护和发展灌木资源提供有效的途径，同时为灌丛生态系统碳库估算提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "传统上测定生物量的方法主要为全株收获法（刘割法），此种方法费时费力，且破坏性较大，而通过建立生物量模型的方法则更为可行(11-14]。生物量模型是以植株易测因子（如株高、冠幅等)作自变量，以生物量作因变量，通过回归分析建立两者之间的关系，这种方法能够在减少工作量的基础上提供相对简单、精确的生物量预测，是现在常用的植被生物量估算方法[15]。国内外许多学者对生物量方程进行了研究，常见的生物量模型主要有线性模型、幂函数模型、对数模型、双变量模型和单变量多项式模型等。因为多项式模型高次项参数稳定性较差，目前采用的相对较少(16]。生物量模型的易测因子一般包括株高 $( H )$ 、冠幅半径 $( C D )$ 、基径（Td）、冠幅$( C )$ 、分支数 $( N )$ 等单一变量以及由单一变量组成的复合变量，如植株体积 $( V )$ 、总基径平方与株高乘积(Td²H)等[17-21] C",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "相对于地上生物量，目前对于地下生物量及其分配的了解相对有限(22-23]。根冠比 $( R / S )$ 作为衡量植物地上一地下生物量关系的重要参数[24-26],在生态系统功能评价中具有重要的意义。植物在不同生境下的根冠比格局反映其生长策略，是对环境长期适应的结果，同时也是理解生态系统中碳的分配及存储的关键[26-27]。因此,探讨不同生境间灌木根冠比的变异，可以为更加精确地估算地下生物量和地下碳储量奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，由于全球气候变暖以及退化植被的恢复和重建，中国灌丛生态系统的分布面积呈增加趋势，尤其在气候条件恶劣、生态环境脆弱的干旱、半干旱地区[28-29]。由于开展灌丛生态系统的系统性调查工作难度大、任务重，虽然近些年的研究使其进一步完善[17-18,25.30],但缺乏大尺度上对干旱、半干旱区灌木生物量的研究，尤其是对地下根系生物量的研究较少，导致灌丛碳储量的研究存在极大的不确定性[31]。内蒙古地处我国干旱、半干旱区,且东西跨度较大，从东部山地森林到西部荒漠地区均有灌木分布，但目前对这一区域灌木生物量的研究还不够充分(31]。本研究在内蒙古区域尺度上通过统一的样品采集标准进行野外调查，采用4种生物量模型（一元线性模型、二元线性模型、对数模型、幂函数模型）3种预测变量(株高、冠幅、植株体积)对内蒙古地区26种常见温带灌木进行不同器官生物量模型的拟合，同时比较不同生境类型间灌木根冠比间的差异，以此来进一步补充和完善该区域常见灌木的生物量方程及地上一地下生物量分配的研究，为准确估算我国灌丛生态系统的碳库提供基础参数。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究在内蒙古地区进行灌木调查，共选取73个样点（图1），覆盖的地理范围为 $3 7 ^ { \\circ } 5 4 ^ { \\prime } \\sim$ $4 8 ^ { \\circ } 0 9 ^ { \\prime } \\mathrm { N } , 1 0 2 ^ { \\circ } 3 7 ^ { \\prime } \\sim 1 2 2 ^ { \\circ } 4 1 ^ { \\prime } \\mathrm { E }$ 。研究区以温带大陆性季风气候为主，全年太阳辐射量从东北向西南递增，年平均气温为 $0 \\sim 8 \\mathrm { ~ \\textdegree C }$ ,气温年均差为 $3 4 \\sim 3 6 ~ \\mathrm { ^ { \\circ } C }$ ，日均差为 $1 2 \\sim 1 6 ~ \\mathrm { { ‰ } }$ 。降水量由东北向西南递减,年总降水量 $5 0 \\sim 4 5 0 ~ \\mathrm { m m }$ ,降水集中于夏季,6—8月降水量占全年降水量的 $6 0 \\% \\sim 7 0 \\%$ 。土壤类型由东向西依次为森林草原黑钙土、草原栗钙土、荒漠草原棕钙土和灰棕荒漠土，植被类型也由寒温带森林依次经过草原过渡到荒漠[2] C",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9fe10ee09c4e9dc9abd07bc743e1060daf902c137c40deedc34705cbd552b41.jpg",
+        "img_caption": [
+            "图1内蒙古灌木采样点的分布 Fig.1Spatial distribution of the sampling sites of shrub species in Inner Mongolia "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1样品采集和生物量调查野外调查和采样开展于2011—2013年的植物生长季（7—8月），选取内蒙古26种常见的温带灌木为研究对象（表1），包含豆科（Fabaceae）、麻黄科（Ephedraceae）、蒺藜科（Zygophyllaceae）、蔷薇科（Rosaceae）、柽柳科（Tamaricaceae）、杨柳科（Salicaceae）、马鞭草科（Verbenaceae）、石竹科（Caryophyllaceae）、藜科（Chenopodiaceae）,共计9科17属。此外,按灌木生长环境可将26种灌木划分为荒漠、草地和山地3种灌木类型,其中荒漠灌木13 种、草地灌木6种、山地灌木7种。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在选择样本株时,每个物种按照株高的高、中、低3个层次选取，选取成熟且完整，生长情况良好的植株个体作为调查样本，排除受到严重干扰（如虫害、火灾等)或处于特殊生境(如环境严重污染区、过度放牧区)的灌木个体。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在进行破坏性取样前，对每株样本测量其株高$( H )$ 、长轴冠幅直径 $( D _ { 1 }$ )和垂直长轴冠幅直径$( D _ { 2 } )$ 。并利用以上3个植株易测因子计算冠幅 $( C )$ 和植株体积 $( V )$ ，其中冠幅为植株的植冠面积，而植株体积为投影体积。冠幅 $( C )$ 的计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\pi \\times \\frac { D _ { 1 } } { 2 } \\times \\frac { D _ { 2 } } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植株体积 $( V )$ 的计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = H \\times C\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生物量获取采用整株收获法，分种、分组分(根、茎、叶，如能区分还划分当年小枝)收割。收割时需要把全部根系挖出并尽量收集完整，根系挖出后，清除所有非根系杂质。收割完毕装入布袋中保存,带回实验室在 $6 5 ~ \\mathrm { { ^ { \\circ } C } }$ 恒温下烘 $^ { 4 8 \\mathrm { ~ h ~ } }$ 至恒重，然后称量样品干重。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2数据分析和建模本研究分别选取株高$( H )$ 、冠幅 $( C )$ 及植株体积 $( V ) 3$ 个单变量为自变量，或使用株高 $( H )$ 、冠幅 $( C )$ 双变量的线性组合，对每个物种不同器官的生物量进行模型拟合。模型采用一元线性、对数、幂函数和二元线性方程4种类型：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { y = a x + b } \\\\ { y = a \\mathrm { l n } x + b } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ed7de2e7b002de4e34c37b2c3dbbeafe7c6aada32ff762afec5317faf016282.jpg",
+        "table_caption": [
+            "表1内蒙古26种温带灌木调查基本信息表",
+            "Tab.1Basic information of 26 temperate shrub species in Inner Mongolia "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>物种</td><td>高度/m</td><td>冠幅/m²</td><td>植株体积/m</td><td>生境</td><td>样本量</td></tr><tr><td>霸王Sarcozygium xanthoxylon</td><td>0.15~0.97</td><td>0.039 ~1.261</td><td>0.006~1.223</td><td>荒漠</td><td>39</td></tr><tr><td>白刺Nitraria tangutorum</td><td>0.11~1.30</td><td>0.020 ~41.048</td><td>0.002~41.048</td><td>荒漠</td><td>46</td></tr><tr><td>长梗扁桃 Amygdalus pedunculata</td><td>0.15~0.47</td><td>0.021~0.396</td><td>0.004~0.103</td><td>草地</td><td>23</td></tr><tr><td>矮脚锦鸡儿 Caragana brachypoda</td><td>0.09~0.50</td><td>0.005~0.386</td><td>0.001~0.193</td><td>荒漠</td><td>32</td></tr><tr><td>红砂 Reaumuria soongarica</td><td>0.09 ~0.40</td><td>0.027~0.407</td><td>0.003~0.141</td><td>荒漠</td><td>35</td></tr><tr><td>黄刺玫 Rosa xanthine</td><td>0.30 ~1. 65</td><td>0.009 ~2.348</td><td>0.003~3.875</td><td>山地</td><td>38</td></tr><tr><td>荆条 Vitex negundo</td><td>0.18~1.20</td><td>0.022~0.923</td><td>0.004~0.960</td><td>山地</td><td>33</td></tr><tr><td>卷叶锦鸡儿 Caragana ordosica</td><td>0.07~0.35</td><td>0.013~0.353</td><td>0.001~0.071</td><td>荒漠</td><td>31</td></tr><tr><td>楼斗菜叶绣线菊 Spiraea aquilegifolia</td><td>0.43~1.30</td><td>0.110~1.508</td><td>0.056~1.960</td><td>草地</td><td>12</td></tr><tr><td>裸果木Gymnocarpos przewalskii</td><td>0.14~0.44</td><td>0.039 ~0.544</td><td>0.008~0.209</td><td>荒漠</td><td>30</td></tr><tr><td>蒙古扁桃 Amygdalus mongolica</td><td>0.33~1.00</td><td>0.031~0.898</td><td>0.010 ~0.718</td><td>山地</td><td>22</td></tr><tr><td>蒙古绣线菊 Spiraea mongolica</td><td>0.25~0.83</td><td>0.019~0.363</td><td>0.008~0.264</td><td>山地</td><td>30</td></tr><tr><td>绵刺Potaninia mongolica</td><td>0.06 ~0.35</td><td>0.006~0.187</td><td>0.001~0.048</td><td>荒漠</td><td>36</td></tr><tr><td>膜果麻黄 Ephedra przewalskii</td><td>0.20~0.56</td><td>0.028~0.302</td><td>0.007~0.166</td><td>荒漠</td><td>32</td></tr><tr><td>柠条锦鸡儿 Caragana korshinskii</td><td>0.65~1.30</td><td>0.082 ~0.734</td><td>0.053~0.771</td><td>荒漠</td><td>13</td></tr><tr><td>泡泡刺 Nitraria sphaerocarpa</td><td>0.08~1.00</td><td>0.024~0.554</td><td>0.002~0.166</td><td>荒漠</td><td>37</td></tr><tr><td>三裂绣线菊Spiraeatrilobata</td><td>0.33~1.56</td><td>0.016~1.223</td><td>0. 005~1.713</td><td>山地</td><td>27</td></tr><tr><td>沙冬青Ammopiptanthus mongolicus</td><td>0.21~1.30</td><td>0.045~8.030</td><td>0.017~9.797</td><td>荒漠</td><td>33</td></tr><tr><td>北沙柳 Salix psammophila</td><td>1.30~2.50</td><td>0.047 ~2.136</td><td>0.092~4.913</td><td>草地</td><td>30</td></tr><tr><td>四合木Tetraena mongolica</td><td>0.10~0.46</td><td>0.019 ~0.948</td><td>0.002~0.436</td><td>荒漠</td><td>30</td></tr><tr><td>梭梭 Haloxylon ammodendron</td><td>0.21~1.85</td><td>0.035~2.032</td><td>0.007 ~3.759</td><td>荒漠</td><td>22</td></tr><tr><td>河北木蓝 Indigofera bungeana</td><td>0.08~0.55</td><td>0.006~0.342</td><td>0.001~0.167</td><td>山地</td><td>30</td></tr><tr><td>土庄绣线菊 Spiraea pubescens</td><td>0.30~1.05</td><td>0.028~0.691</td><td>0.009~0.657</td><td>山地</td><td>28</td></tr><tr><td>山杏Armeniaca sibirica</td><td>0.50 ~1.80</td><td>0.005~3.104</td><td>0.003~5.277</td><td>山地</td><td>30</td></tr><tr><td>狭叶锦鸡儿 Caragana stenophylla</td><td>0.07~0.37</td><td>0.002 ~0.165</td><td>0.001~0.041</td><td>草地</td><td>66</td></tr><tr><td>小叶锦鸡儿Caragana microphylla</td><td>0.19 ~0.99</td><td>0.053~9.456</td><td>0.011~4.425</td><td>草地</td><td>49</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ y = b x ^ { a }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = a x _ { 1 } + b x _ { 2 } + c\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $y$ 表示预测变量（即各类生物量，如叶生物量、根生物量）； $\\boldsymbol { x } _ { \\cdot } \\boldsymbol { x } _ { 1 \\cdot } \\boldsymbol { x } _ { 2 }$ 为拟合变量( $x$ 为株高、冠幅、植物体积三者之一， $\\boldsymbol { \\cdot } \\boldsymbol { x } _ { 1 }$ 为株高 $\\phantom { } _ { \\cdot } x _ { 2 }$ 为冠幅）； $\\smash { a , b , c }$ 表示拟合参数。根据决定系数 $( R ^ { 2 } )$ ）模型估算值的标准误（standard error of the estimate,SEE）和回归检验（ $F$ 检验)显著水平( $P$ 值)来评价模型的优劣。筛选出决定系数 $R ^ { 2 }$ 值最大、SEE最小并且回归显著（ $\\textstyle P < 0 . 0 5 )$ 的模型来最终描述各类生物量和易测因子间的关系，作为最优模型来估算内蒙古26种常见温带灌木分种、分器官生物量",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于根冠比 $( R / S )$ 不符合正态分布，所以需要进行以10为底的对数转换后进行分析。采用单因素方差分析和Turkey多重比较来分析不同生境灌木间根冠比的差异。数据处理和分析使用R3.5.0（version",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.5.0,R Development Core Team 2018）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1灌木生物量方程的拟合",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用回归分析和方程筛选，建立了内蒙古地区26种常见灌木的根、茎、叶、地上和总生物量的最优生物量预测模型（表2），共128个（膜果麻黄和梭梭的叶生物量极少，因此没有建立生物量方程）。所有最优生物量方程均拟合良好，达到极显著水平（ $P < 0 . 0 0 1 \\$ ），除红砂、裸果木和狭叶锦鸡儿外，其余物种各器官生物量模型的决定系数 $( R ^ { 2 } )$ 均在0.5以上,其中 $8 0 \\%$ 生物量模型的 $R ^ { 2 }$ 在0.7以上。总体来说，回归模型对生物量变化的平均解释程度为$( 7 6 . 2 9 \\pm 1 . 0 ) \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2显示，最佳生物量估测模型的函数类型以幂函数（69个，占全部方程的 $5 3 . 9 0 \\%$ )和一元线性函数(39个，占全部方程的 $3 0 . 4 7 \\%$ ）为主，二元线性方程次之（17个，占全部方程的 $1 3 . 2 8 \\%$ ），对数模型拟合效果较差，仅长梗扁桃、蒙古扁桃和泡泡刺的根生物量最优模型采用对数形式;最佳预测变量以植株体积(71个，占全部方程的 $5 5 . 4 7 \\%$ )和植株冠幅(40个，占全部方程的 $3 1 . 2 5 \\%$ )为主，株高的拟合效果较差，除二元线性方程外，最优生物量方程的预测变量不使用株高这一变量。从模型的筛选结果来看，同一物种不同器官的生物量方程函数和预测变量均相同的共有17个物种，占总物种数的",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/37974ca8fbea36722df500ddd351d1561b6eeebbc5a6f0905e5a8d9d64d0b4f1.jpg",
+        "table_caption": [
+            "表2内蒙古26种温带灌木各器官生物量的最佳拟合模型",
+            "ab.2The best-fitting models for estimating the biomass of organs of temperate shrub species in Inner Mong "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Hingho</td><td></td><td>Hutnngtie</td><td>orgunn</td><td></td><td></td><td>Speeles</td><td>Wongond</td><td></td></tr><tr><td>物种</td><td>器官</td><td>函数形式</td><td>变量</td><td>参数a</td><td>参数b</td><td>参数c</td><td>R²</td><td>SEE</td><td>P</td></tr><tr><td>霸王</td><td>叶</td><td>y =ax6</td><td>V</td><td>0.64</td><td>78.18</td><td></td><td>0. 64</td><td>21. 44</td><td><0.001</td></tr><tr><td>Sarcozygium</td><td>当年</td><td>y=ax6</td><td>V</td><td>0.65</td><td>105.06</td><td></td><td>0. 68</td><td>21.66</td><td><0.001</td></tr><tr><td>xanthoxylon</td><td>地上</td><td>y=ax6</td><td>V</td><td>0.98</td><td>1 260.34</td><td></td><td>0.84</td><td>18.80</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y=ax6</td><td>V</td><td>1.01</td><td>512.97</td><td></td><td>0.74</td><td>124. 98</td><td><0. 001</td></tr><tr><td></td><td>总</td><td>y =ax6</td><td>V</td><td>1.00</td><td>1 861.57</td><td></td><td>0.85</td><td>40.78</td><td><0.001</td></tr><tr><td>白刺</td><td>叶</td><td>y=ax + b</td><td>V</td><td>53.16</td><td>11.52</td><td></td><td>0.93</td><td>16. 67</td><td><0.001</td></tr><tr><td>Nitraria</td><td>当年</td><td>y= ax + b</td><td>V</td><td>101. 08</td><td>37.76</td><td></td><td>0.97</td><td>50.68</td><td><0. 001</td></tr><tr><td>tangutorum</td><td>地上</td><td>y =ax +b</td><td>V</td><td>273.10</td><td>92.99</td><td></td><td>0.92</td><td>137. 83</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y= ax + b</td><td>V</td><td>492. 64</td><td>185.27</td><td></td><td>0.88</td><td>255. 67</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y= ax + b</td><td>V</td><td>765. 74</td><td>278.26</td><td></td><td>0.93</td><td>381. 89</td><td><0.001</td></tr><tr><td>长梗扁桃 Amygdalus</td><td>叶</td><td>y=ax + bx +c</td><td>χ1=H,x2 =C</td><td>36.20</td><td>153.91</td><td>4.98</td><td>0.64</td><td>9.95</td><td><0. 001</td></tr><tr><td></td><td>当年</td><td>y =ax6</td><td>C</td><td>1. 09</td><td>137.51</td><td></td><td>0.69</td><td>16.06</td><td><0.001</td></tr><tr><td>pedunculata</td><td>地上</td><td>y=axb</td><td>C</td><td>1.74</td><td>4 110.71</td><td></td><td>0.56</td><td>269.89</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y= alnx + b</td><td>C</td><td>1.09</td><td>8.49</td><td></td><td>0.69</td><td>734.15</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y=ax +bx +c</td><td>x1 =H,x2 =C</td><td>879.38</td><td>3 702.84</td><td>174. 38</td><td>0.72</td><td>200.20</td><td><0.001</td></tr><tr><td>矮脚锦鸡儿</td><td>叶</td><td>y= ax + b</td><td>V</td><td>88.28</td><td>0.66</td><td></td><td>0.90</td><td>0.67</td><td><0. 001</td></tr><tr><td>Caragana</td><td>当年</td><td>y=ax +b</td><td>V</td><td>94.58</td><td>0.73</td><td></td><td>0.83</td><td>3.54</td><td><0.001</td></tr><tr><td>brachypoda</td><td>地上</td><td>y= ax +b</td><td>V</td><td>2 026.34</td><td>5.20</td><td></td><td>0.93</td><td>5.54</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y = ax +b</td><td>V</td><td>1 622. 03</td><td>2.85</td><td></td><td>0.84</td><td>3.43</td><td><0. 001</td></tr><tr><td>红砂</td><td>总</td><td>y= ax +b</td><td>V</td><td>3 648.38</td><td>8.05</td><td></td><td>0.93</td><td>7.79</td><td><0.001</td></tr><tr><td>Reaumuria</td><td>叶</td><td>y = axb</td><td>C</td><td>0.77</td><td>50.92</td><td></td><td>0.39</td><td>13.05</td><td><0. 001</td></tr><tr><td></td><td>当年</td><td>y =ax6</td><td>C</td><td>1. 22</td><td>233.28</td><td></td><td>0.50</td><td>41. 31</td><td><0. 001</td></tr><tr><td> soongarica</td><td>地上</td><td>y=ax +b</td><td>V</td><td>1 340. 68</td><td>19.76</td><td></td><td>0.73</td><td>27.61</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y=axb</td><td>C</td><td>1.04</td><td>484. 77</td><td></td><td>0.42</td><td>28. 77</td><td><0.001</td></tr><tr><td>黄刺玫</td><td>总</td><td>y=ax + bx +c</td><td>x1 =H,x =C</td><td>116. 15</td><td>945.86</td><td>10.52</td><td>0.64</td><td>72. 70</td><td><0. 001</td></tr><tr><td>Rosa xanthina</td><td>叶</td><td>y =ax6</td><td>V</td><td>0.78</td><td>89. 69</td><td></td><td>0.90</td><td>38. 66</td><td><0. 001</td></tr><tr><td></td><td>当年</td><td>y=ax6</td><td>V</td><td>0.72</td><td>118.80</td><td></td><td>0.88</td><td>48.15</td><td><0.001</td></tr><tr><td></td><td>地上</td><td>y =axb</td><td>V</td><td>0.88</td><td>505.61</td><td></td><td>0.91</td><td>258.76</td><td><0. 001</td></tr><tr><td></td><td>根</td><td>y=ax6</td><td>V</td><td>0.86</td><td>442. 68</td><td></td><td>0.77</td><td>704. 25</td><td><0.001</td></tr><tr><td>荆条</td><td>总</td><td>y =ax6</td><td>V</td><td>0.87</td><td>976.95</td><td></td><td>0.87</td><td>865.13</td><td><0. 001</td></tr><tr><td>Vitex negundo</td><td>叶</td><td>y =ax6</td><td>C</td><td>1.04</td><td>125.10</td><td></td><td>0.81</td><td>13. 22</td><td><0.001</td></tr><tr><td></td><td>当年</td><td>y=ax6</td><td>C</td><td>1.06</td><td>159. 04</td><td></td><td>0.81</td><td>19.32</td><td><0. 001</td></tr><tr><td></td><td>地上</td><td>y=ax6</td><td>C</td><td>1.05</td><td>286.30</td><td></td><td>0.83</td><td>28. 65</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y =ax6</td><td>C</td><td>1.17</td><td>312.70</td><td></td><td>0.79</td><td>81.36</td><td><0.001</td></tr><tr><td>卷叶锦鸡儿</td><td>总</td><td>y =ax6</td><td>C</td><td>1.10</td><td>615.53</td><td></td><td>0.85</td><td>77. 03</td><td><0.001</td></tr><tr><td></td><td>叶</td><td>y=ax6</td><td>V</td><td>0.83</td><td>600.03</td><td></td><td>0.78</td><td>374.76</td><td><0.001</td></tr><tr><td>Caragana ordosica</td><td>当年</td><td>y=ax6</td><td>C</td><td>0.98</td><td>181.98</td><td></td><td>0.68</td><td>14. 13</td><td><0. 001</td></tr><tr><td></td><td>地上</td><td>y =ax6</td><td>V</td><td>1.04</td><td>12 817. 29</td><td></td><td>0.86</td><td>5 599.47</td><td><0.001</td></tr><tr><td rowspan=\"8\">楼斗菜叶绣线菊 Spiraea aquilegifolia</td><td>根</td><td>y=ax + bx +c</td><td>x1 =H,x =C</td><td>1 793. 22</td><td>189.08</td><td>118.02 283.70</td><td>0.80 0.85</td><td>28.80 59.70</td><td><0. 001 <0. 001</td></tr><tr><td>总 叶</td><td>y=ax+bx +c y= ax + bx +c</td><td>x1 =H,x =C x1 =H,x2 =C</td><td>4 229.47 84.51</td><td>570.12 28.09</td></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/47041617305dc4b5e21c11d899245352ccb410a4ce85e863e09f06680c54b75b.jpg",
+        "table_caption": [
+            "续表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>物种</td><td>器官</td><td>函数形式</td><td>变量</td><td>参数a</td><td>参数b</td><td>参数c</td><td>R²</td><td>SEE</td><td>P</td></tr><tr><td>裸果木</td><td>叶</td><td>y=ax6</td><td>C</td><td>0.97</td><td>149.92</td><td></td><td>0.30</td><td>113. 74</td><td><0.001</td></tr><tr><td>Gymnocarpos</td><td>当年</td><td>y =ax6</td><td>C</td><td>0.78</td><td>76.56</td><td></td><td>0.34</td><td>32. 43</td><td><0.001</td></tr><tr><td>przewalskii</td><td>地上</td><td>y =ax6</td><td>C</td><td>1.12</td><td>499. 63</td><td></td><td>0.60</td><td>71.53</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y =axb</td><td>C</td><td>0.97</td><td>149.92</td><td></td><td>0.30</td><td>107. 89</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y =axb</td><td>C</td><td>1.06</td><td>681.60</td><td></td><td>0.60</td><td>110.96</td><td><0.001</td></tr><tr><td>蒙古扁桃</td><td>叶</td><td>y =axb</td><td>V</td><td>0.84</td><td>112. 13</td><td></td><td>0.92</td><td>7.07</td><td><0.001</td></tr><tr><td> Amygdalus</td><td>当年</td><td>y =ax6</td><td>V</td><td>0.83</td><td>120.86</td><td></td><td>0.89</td><td>9.80</td><td><0.001</td></tr><tr><td>mongolica</td><td>地上</td><td>y= ax6</td><td>V</td><td>1.04</td><td>955.57</td><td></td><td>0.89</td><td>66.17</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y= alnx + b</td><td>C</td><td>1. 00</td><td>7. 25</td><td></td><td>0.84</td><td>324.34</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y =ax6</td><td>V</td><td>1.08</td><td>1 424. 77</td><td></td><td>0.88</td><td>145. 03</td><td><0.001</td></tr><tr><td>蒙古绣线菊</td><td>叶</td><td>y =ax6</td><td>V</td><td>1.08</td><td>166.31</td><td></td><td>0.83</td><td>7.87</td><td><0.001</td></tr><tr><td>Spiraea</td><td>当年</td><td>y =axb</td><td>V</td><td>1.07</td><td>226.18</td><td></td><td>0.84</td><td>8.09</td><td><0. 001</td></tr><tr><td>mongolica</td><td>地上</td><td>y =ax6</td><td>V</td><td>1.28</td><td>1 437. 99</td><td></td><td>0.87</td><td>33.86</td><td><0. 001</td></tr><tr><td></td><td>根</td><td>y =ax6</td><td>C</td><td>1.36</td><td>522. 32</td><td></td><td>0.72</td><td>85.46</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y=ax</td><td>C</td><td>1. 44</td><td>1 532. 93</td><td></td><td>0.82</td><td>104. 17</td><td><0.001</td></tr><tr><td>绵刺</td><td>叶</td><td>y=ax +b</td><td>V</td><td>221. 94</td><td>0.64</td><td></td><td>0.94</td><td>0.82</td><td><0.001</td></tr><tr><td>Potaninia</td><td>当年</td><td>y= ax + b</td><td>V</td><td>271.52</td><td>0.68</td><td></td><td>0.83</td><td>1.79</td><td><0.001</td></tr><tr><td>mongolica</td><td>地上</td><td>y=ax +b</td><td>V</td><td>1 323.10</td><td>4.13</td><td></td><td></td><td>7. 95</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y = ax1 + bx +c</td><td>x1 =H,x2 =C</td><td>129.46</td><td>327. 42</td><td>23.14</td><td>0.85 0.66</td><td>9.51</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y = ax +b</td><td>V</td><td>1 612.82</td><td>14.92</td><td></td><td>0.72</td><td>14. 66</td><td><0.001</td></tr><tr><td>膜果麻黄</td><td>当年</td><td>y=ax +bx +c</td><td>x1 =H,x =C</td><td>2.34</td><td>319.27</td><td>7. 99</td><td>0.75</td><td>11. 55</td><td><0.001</td></tr><tr><td>Ephedra</td><td>地上</td><td>y=ax1 +bx2 +c</td><td>χ =H,x =C</td><td>22. 64</td><td>823.21</td><td>5.52</td><td>0.84</td><td>21.85</td><td><0.001</td></tr><tr><td>przewalskii</td><td>根</td><td>y=ax1+bx +c</td><td>x1 =H,x2 =C</td><td>76.4</td><td>898.28</td><td>13.31</td><td>0.86</td><td>21.29</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y = ax  +bx +c</td><td>x1=H,x =C</td><td>99.04</td><td>1 721. 51</td><td>7.79</td><td>0.89</td><td>37.05</td><td><0.001</td></tr><tr><td>柠条锦鸡儿</td><td>叶</td><td>y=ax6</td><td>V</td><td>0.78</td><td>92. 25</td><td></td><td>0.54</td><td>15.08</td><td>0.004</td></tr><tr><td>Caragana</td><td>当年</td><td>y=axb</td><td>V</td><td>0.77</td><td>94.96</td><td></td><td>0.58</td><td>12. 62</td><td>0.002</td></tr><tr><td>korshinskii</td><td>地上</td><td>y=ax6</td><td>V</td><td>0.79</td><td>467. 24</td><td></td><td>0.75</td><td>11. 79</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y= axb</td><td>V</td><td>0.97</td><td>499.85</td><td></td><td>0.52</td><td>102. 23</td><td>0.005</td></tr><tr><td></td><td>总</td><td>y = ax6</td><td>V</td><td>0.90</td><td>1 069. 59</td><td></td><td>0.79</td><td>48.75</td><td><0.001</td></tr><tr><td>泡泡刺</td><td>叶</td><td>y= ax + b</td><td>V</td><td>218.74</td><td>0.91</td><td></td><td>0.79</td><td>4.02</td><td><0.001</td></tr><tr><td>Nitraria</td><td>当年</td><td>y= ax + b</td><td>V</td><td>316.63</td><td>0.77</td><td></td><td>0.79</td><td>5.86</td><td><0.001</td></tr><tr><td>sphaerocarpa</td><td>地上</td><td>y = ax +b</td><td>V</td><td>775.85</td><td>16. 66</td><td></td><td>0.63</td><td>21.31</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y = alnx + b</td><td>C</td><td>0.78</td><td>5.54</td><td></td><td>0.53</td><td>264.59</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y = ax +b</td><td>V</td><td>1 061. 37</td><td>41. 72</td><td></td><td>0.65</td><td>52.36</td><td><0.001</td></tr><tr><td>三裂绣线菊</td><td>叶</td><td>y=ax +b</td><td>V</td><td>64.80</td><td>8.43</td><td></td><td>0.74</td><td>14.91</td><td><0.001</td></tr><tr><td>Spiraea trilobata</td><td>当年</td><td>y=ax + b</td><td>V</td><td>79.19</td><td>11.82</td><td></td><td>0.69</td><td>17. 63</td><td><0.001</td></tr><tr><td></td><td>地上</td><td>y =ax +b</td><td>V</td><td>1 144. 29</td><td>22.67</td><td></td><td>0.84</td><td>166. 1</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y =ax +b</td><td>V</td><td>973.09</td><td>11. 45</td><td></td><td>0.91</td><td>102. 27</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y =ax +b</td><td>V</td><td>2 117.37</td><td>11. 22</td><td></td><td>0.88</td><td>258.65</td><td><0.001</td></tr><tr><td>沙冬青</td><td>叶</td><td>y =ax6</td><td>C</td><td>1. 11</td><td>362. 17</td><td></td><td>0.86</td><td>190.54</td><td><0.001</td></tr><tr><td>Ammopiptanthus</td><td>当年</td><td>y=ax6</td><td>C</td><td>1. 01</td><td>269.04</td><td></td><td>0.91</td></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f079a2c2bc1e930c784675a58e64e6926205907bf1d0a8d3384099599d22f01c.jpg",
+        "table_caption": [
+            "续表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"9\">续衣</td></tr><tr><td>物种</td><td>器官</td><td>函数形式</td><td>变量</td><td>参数a</td><td>参数b</td><td>参数c</td><td>R²</td><td>SEE</td><td>P</td></tr><tr><td></td><td>总</td><td>y=axb</td><td>V</td><td>0.72</td><td>373. 16</td><td></td><td>0.67</td><td>381.39</td><td><0.001</td></tr><tr><td>四合木</td><td>叶</td><td>y=ax1 +bx +c</td><td>x1 =H,x =C</td><td>12. 83</td><td>119.8</td><td>1. 27</td><td>0.82</td><td>11. 69</td><td><0.001</td></tr><tr><td>Tetraena</td><td>当年</td><td>y = ax  +bx2 +c</td><td>x1 =H,x =C</td><td>3.89</td><td>127. 38</td><td>3. 33</td><td>0.81</td><td>12. 64</td><td><0.001</td></tr><tr><td>mongolica</td><td>地上</td><td>y =ax6</td><td>C</td><td>1. 11</td><td>665. 12</td><td></td><td>0.82</td><td>159. 61</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y =axb</td><td>C</td><td>0.81</td><td>7.53</td><td></td><td>0.65</td><td>306.85</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y=ax6</td><td>C</td><td>1. 11</td><td>874.58</td><td></td><td>0.79</td><td>297. 78</td><td><0.001</td></tr><tr><td>梭梭</td><td>当年</td><td>y =ax6</td><td>C</td><td>1. 16</td><td>274.96</td><td></td><td>0.77</td><td>233.89</td><td><0.001</td></tr><tr><td>Haloxylon</td><td>地上</td><td>y=ax6</td><td>C</td><td>1. 29</td><td>1 742. 76</td><td></td><td>0.82</td><td>828.62</td><td><0.001</td></tr><tr><td>ammodendron</td><td>根</td><td>y =ax6</td><td>C</td><td>1.40</td><td>1 465. 17</td><td></td><td>0.87</td><td>427. 74</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y=axb</td><td>C</td><td>1.35</td><td>3 350. 16</td><td></td><td>0.87</td><td>929.16</td><td><0.001</td></tr><tr><td>河北木蓝</td><td>叶</td><td>y = ax + b</td><td>V</td><td>189.80</td><td>0.28</td><td></td><td>0.84</td><td>3.26</td><td><0. 001</td></tr><tr><td>Indigofera</td><td>当年</td><td>y = ax + b</td><td>V</td><td>299.13</td><td>0.12</td><td></td><td>0.86</td><td>4.69</td><td><0.001</td></tr><tr><td>bungeana</td><td>地上</td><td>y = ax +b</td><td>V</td><td>1 103.55</td><td>2.93</td><td></td><td>0.92</td><td>12. 45</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y = ax +b</td><td>V</td><td>584. 65</td><td>6.19</td><td></td><td>0.8</td><td>11. 48</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y= ax +b</td><td>V</td><td>1 688.20</td><td>3.26</td><td></td><td>0.9</td><td>22. 25</td><td><0.001</td></tr><tr><td>土庄绣线菊</td><td>叶</td><td>y = ax +b</td><td>V</td><td>138.08</td><td>10.83</td><td></td><td>0.58</td><td>17.06</td><td><0.001</td></tr><tr><td>Spiraea</td><td>当年</td><td>y =ax6</td><td>V</td><td>0.60</td><td>129. 70</td><td></td><td>0.7</td><td>32. 75</td><td><0.001</td></tr><tr><td>pubescens</td><td>地上</td><td>y =axb</td><td>V</td><td>0.86</td><td>878.75</td><td></td><td>0.74</td><td>126.82</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y = ax +b</td><td>V</td><td>1009</td><td>6.56</td><td></td><td>0.7</td><td>96.44</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y =ax6</td><td>V</td><td>0.84</td><td>1 542.80</td><td></td><td>0.73</td><td>232. 96</td><td><0.001</td></tr><tr><td>山杏</td><td>叶</td><td>y=ax6</td><td>C</td><td>0.87</td><td>118. 07</td><td></td><td>0.91</td><td>28.23</td><td><0. 001</td></tr><tr><td>Armeniaca</td><td>当年</td><td>y =axb</td><td>C</td><td>0.78</td><td>123. 50</td><td></td><td>0.89</td><td>49.28</td><td><0.001</td></tr><tr><td> sibirica</td><td>地上</td><td>y= ax + b</td><td>V</td><td>599. 33</td><td>14. 12</td><td></td><td>0.91</td><td>219.57</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y = ax + b</td><td>V</td><td>503.24</td><td>8.13</td><td></td><td>0.92</td><td>171. 47</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y= ax + b</td><td>V</td><td>1 102.57</td><td>5.99</td><td></td><td>0.95</td><td>304.90</td><td><0.001</td></tr><tr><td>狭叶锦鸡儿</td><td>叶</td><td>y =ax6</td><td>C</td><td>0.67</td><td>9.11</td><td></td><td>0.38</td><td>3.78</td><td><0.001</td></tr><tr><td>Caragana</td><td>当年</td><td>y=ax6</td><td>C</td><td>0.68</td><td>10.92</td><td></td><td>0.4</td><td>4.36</td><td><0.001</td></tr><tr><td>stenophylla</td><td>地上</td><td>y=ax6</td><td>C</td><td>1. 07</td><td>159.39</td><td></td><td>0.55</td><td>37. 97</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y =axb</td><td>C</td><td>0.81</td><td>126. 37</td><td></td><td>0.4</td><td>40.87</td><td><0.001</td></tr><tr><td>小叶锦鸡儿</td><td>总</td><td>y =axb</td><td>C</td><td>0.90</td><td>279.25</td><td></td><td>0.41</td><td>71.97</td><td><0.001</td></tr><tr><td></td><td>叶</td><td>y = ax +b</td><td>V</td><td>126.87</td><td>2. 66</td><td></td><td>0.91</td><td>71.97</td><td><0.001</td></tr><tr><td>Caragana</td><td>当年</td><td>y= ax +b</td><td>V</td><td>197.70</td><td>3.51</td><td></td><td>0.89</td><td>38.30</td><td><0.001</td></tr><tr><td>miCrophylla</td><td>地上</td><td>y = ax + b</td><td>V</td><td>842.50</td><td>16.82</td><td></td><td>0.92</td><td>249.19</td><td><0.001</td></tr><tr><td></td><td>根</td><td>y = ax + b</td><td>V</td><td>1 477. 25</td><td>100.54</td><td></td><td>0.86</td><td>679. 69</td><td><0.001</td></tr><tr><td></td><td>总</td><td>y=ax +b</td><td>V</td><td>2 319.75</td><td>117. 36</td><td></td><td>0.9</td><td>824.46</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$6 5 \\%$ 。图2以河北木蓝和荆条两个物种为例，对一元线性函数和幂函数方程形式构成的分器官最优生物量方程进行展示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2不同生境灌木类型的根冠比",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在个体水平上，内蒙古温带灌木根冠比 $( R / S )$ 的均值为 $1 . 1 7 \\pm 0 . 0 6$ ,取值范围为 $0 . 0 6 \\sim 5 . 2 1$ （图3）。根据26种灌木生境的不同，将其分为3个类型（荒漠灌木、草地灌木和山地灌木），并计算不同灌木类型的根冠比。结果发现，草地灌木和山地灌木的根冠比均值均大于1,分别为1.27、1.03，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "50 (a)河北木蓝 80 250 150 400 y=189.80x+0.28 . 8/再 60 y=299.13x+0.12 8200 y=1 103.55x+2.93 g y=584.65x+6.19 8300 Ly=1 688.2x+3.26 30 P2=0.041 车 P2=0.861 150 P2=0.001 100 P2<=0.001 量 P=0.001 /   \n20 40 地100 . 物200 票 20 . 50 胜100 2 ? K 欢 \\* 0 0 0 0 0 00.05 0.10 0.15 00.05 0.10 0.15 00.050.10 0.15 00.050.10 0.15 00.050.10 0.15 冠幅体积 $/ \\mathrm { m ^ { 3 } }$ （204号 冠幅体积 $/ \\mathrm { m ^ { 3 } }$ （24号 冠幅体积 $/ \\mathrm { m ^ { 3 } }$ 冠幅体积 $/ \\mathrm { m ^ { 3 } }$ （204号 冠幅体积 $/ \\mathrm { m ^ { 3 } }$ 150(b)荆条 250 300 y=286.3x1.05 500 y=312.7x1.17 800 y=615.53x1.10   \n10 y=12.1x1 00 y-159.04 g P2=0.81, . 00 0.70 · 600 P<0.01 . 量200 量   \n上古 50 P<0.001 100 P<0.001 100 200 . 物400 当 50 地 3 100 总200 . 0 0 0 0 0 00.25 0.50 0.75 0 0.25 0.50 0.75 00.25 0.50 0.75 00.25 0.50 0.75 00.25 0.50 0.75 冠幅面积 $/ \\mathrm { m ^ { 2 } }$ （2号 冠幅面积 $/ \\mathrm { m ^ { 2 } }$ （20号 冠幅面积 $/ \\mathrm { m ^ { 2 } }$ （20 冠幅面积 $/ \\mathrm { m ^ { 2 } }$ 2 冠幅面积 $/ \\mathrm { m ^ { 2 } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ecd6334ec16af4dda682a11d2de45a2aff83e6d7fc69dcd7b4e5064bdcecbb6.jpg",
+        "img_caption": [
+            "图2内蒙古地区河北木蓝和荆条不同器官生物量的最佳拟合模型",
+            "Fig.2Thebest-fiting modelsforestimatingthebiomassoforgansofIndigoferabungeanaandVitexnegundoinInnerMongo ",
+            "图3个体水平不同生境灌木根冠比间的差异 Fig.3Differences in $R / S$ ratio of shrubs among different habitats at individual level "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注：菱形表示不同生境灌木根冠比对数转换的均值，不同字母a和b表示均值间有显著差异( $\\mathrm { ~ ( ~ P ~ < 0 ~ . 0 5 ) ~ }$ 。括号内第1个数字表示该生境灌木的物种数，第2个数字表示该生境灌木的个体数。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "而荒漠灌木的根冠比均值小于1，为0.76。3种生境灌木的根冠比间存在显著差异，草地灌木和山地灌木的根冠比显著大于荒漠灌木的根冠比( $\\textstyle P < 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1灌木生物量方程的拟合",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "内蒙古26种温带灌木最优生物量方程的函数形式以幂函数和一元线性函数为主，这一结果与之前多个研究结论相一致[17-18,25]。这些结果说明,我国不同地区灌木的最优生物量方程形式存在一定的一致性,这可能与灌木本身的生长形态有关[33]。此外，本研究中幂函数占所有最优生物量方程的一半以上，说明温带灌木的形态特征和生物量之间有着很好的相关生长规律，许多研究也发现这一规律[34-36],可能是因为幂函数能较为真实地反映灌木生物量随株高、冠幅等的变化趋势(25,37] 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "除方程形式外，变量的选择也是生物量模型拟合的重要部分。选择的变量越少，生物量方程拟合越方便并且在野外调查中越容易操作[1]。实际操作中，通常采用的变量有基径（Td）、株高 $( H )$ 、冠幅面积 $( C )$ 、植株体积 $( V )$ 等。与乔木不同,灌木分支数较多，尤其是内蒙古地区灌木多刺且地上分支较多，基径 $( T d )$ 测量较为困难，因此本研究未采用基径 $( T d )$ 这一形态指标[38-40]。通过比较内蒙古地区26种常见灌木物种的分器官最优生物量模型，发现植株体积 $( V )$ 和冠幅面积 $( C )$ 对生物量的拟合效果高于株高 $( H )$ ，可能的原因是冠幅面积 $( C )$ 可以体现灌木的横向生长，以其为变量来估算生物量可行并具较高的精度[41],且由于冠幅面积 $( C )$ 指标可从高分辨遥感影像上直接提取，因而有极好应用前景(42]。然而,灌木生长并不只是表现在冠幅的横向生长，还包括纵向的树高生长，所以植株体积 $( V )$ 这一指标能体现灌木形态近椎体、柱体的特征，能较为精确地估算灌木的生物量(15,37]。对于高大乔木而言，株高是一个重要的变量，但不易测量且误差较大,株高的引入会使模型增加新的变异[8,而对于灌木而言，其株高 $( H )$ 指标较易测量，且十分精确[43],可以发现部分物种最优生物量模型为二元线性模型,引入株高这一变量增加了方程的解释程度，同时株高的引入可以增加方程外推时的适用性(44)",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最优生物量估算模型存在差异，这种差异可能是由于物种本身的生理特征导致其外貌结构的不同[45],如果对于不同的灌木采用统一的模型来估算其生物量可能会导致结果的不精确。同一物种不同部分的生物量方程函数和预测变量均相同的物种占总物种数的一半以上，表明种内各器官方程的拟合具有一定的一致性。不同灌木种的最优生物量估算模型不同，而相同物种的各个生物量估测模型不论是方程的形式还是预测变量几乎都是一致的，这与种和种之间的形态差异有关[17]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2不同生境灌木根冠比的差异",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究发现内蒙古温带常见灌木根冠比均值大于1，大于中国亚热带山地杜鹃灌丛（根冠比为0.32）[25],与西藏雅鲁藏布江流域中段旱生砂生槐灌丛（根冠比为1.05)相近(18],表明内蒙古温带灌木将更多的生物量分配到地下，这与内蒙古较为干旱的生态条件有关。比较不同生境灌木类型发现，草地和山地生境的灌木物种根冠比显著大于荒漠灌木的根冠比，可能的原因如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先，荒漠与草地和山地相比，荒漠的土壤层很薄,根系分布很浅,限制了根系的发展[46]；",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其次，草地和山地的放牧强度高于荒漠，牲畜的啃食减少了灌木的地上生物量;",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最后，可能是由于植物本身的遗传特性导致的。例如草地灌木小叶锦鸡儿根系具有很强的穿透力，可以穿过钙积层扩大根系[47]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］李文华.森林生物生产量的概念及其研究的基本途径[J].自 然资源,1978(1）:71-92.[LiWenhua.The concept of forest biological production and its basic research approach[J].Natural Resources,1978(1):71-92.]   \n[2] MaWH,Fang JY,Yang YH,et al.Biomass carbon stocks and their changes in northern China's grasslands during 1982 -2006 [J].Science China-Life Sciences,2010,53(7）:841-850.   \n[3] Keeling H C,Phillips OL.The global relationship between forest productivity and biomass[J].Global Ecology and Biogeography, 2007,16(5):618 -631.   \n[4] 胡会峰，王志恒，刘国华，等.中国主要灌丛植被碳储量[J].植 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "物生态学报,2006,30（4）：539-544.[Hu Huifeng,Wang Zhiheng,Liu Guohua,et al.Vegetation carbon storage of major shrublands in China[J].Chinese Journal of Plant Ecology,2006,30 (4) :539 -544.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5]Ribeiro S C,Fehrmann L,Soares C P B,et al. Above-and belowground biomass in a Brazilian Cerrado[J].Forest Ecology and Management,2011,262(3）:491-499.   \n[6]张金玲,陈海鹏,程达,等.毛乌素沙地臭柏(Sabina vulgaris Ant.)光抑制响应机制研究意义［J].干旱区研究，2018，35 (2）:882-890.[Zhang Jinling,Chen Haipeng,Cheng Da,et al. Significance of photoinhibition response mechanism of Sabina vulgaris Ant.in the Mu Us sandland[J].Arid Zone Research,2018, 35(2):882 -890.]   \n[7］李典鹏,孙涛,姚美思,等.盐湖区生态系统碳密度及其分配格 局[J].干旱区研究,2018,35(4）:984-991.[Li Dianpeng,Sun Tao,Yao Meisi,et al. Carbon densityand its distribution pattern of ecosystem in saline region[J].Arid Zone Research,2018,35(4) : 984 -991. ]   \n[8]俞海生,李宝军,张宝文,等.灌木林主要生态作用的探讨[J]. 内蒙古林业科技,2003（4）:15-18.[Yu Haisheng,Li Baojun, Zhang Baowen,et al. The discussion of major ecological function [J].Inner Mongolia Forestry Science & Technology,2003（4）:15 -18.]   \n[9]Zeng HQ,Liu QJ,Feng Z W,etal.Biomass equations for four shrub species in subtropical China[J]. Journal of Forest Research, 2010,15(2) :83 -90.   \n[10]HuffS,Ritchie M,Temesgen H. Allometric equations for estimating aboveground biomass for common shrubs in Northeastern California [J].Forest Ecology and Management,2017,398:48 -63.   \n[11]Conti G,Enrico L,Casanoves F,et al. Shrub biomass estimation in the semiarid Chaco forest:A contribution to the quantification of an underrated carbon stock[J].Annals of Forest Science,2013,70 (5):515-524.   \n[12]Araujo TM,Higuchi N,Junior JA D.Comparison of formulae for biomass content determination in a tropical rain forest site in the state of Para,Brazil[J].Forest Ecology and Management,1999, 117(1-3) :43 -52.   \n[13]Montane F,Rovira P,Casals P.Shrub encroachment into mesic mountain grassands in the Iberian peninsula;Efects of plant quality and temperature on soil C and N stocks[J]. Global Biogeochemical Cycles,2007,21(4) :GB4016.   \n[14]Catchpole WR,Wheeler C J.Estimating plant biomass:A review of techniques[J].Australian Jourmal of Ecology,1992,17(2）:121- 131.   \n[15]曾慧卿,刘琪璟,马泽清,等.基于冠幅及植株高度的檻木生物 量回归模型〔J].南京林业大学学报（自然科学版）,2006,30 (4）:101-104.[Zeng Huiqing,Liu Qijing,Ma Zeqing,et al. The regression model of Loropetalum chinense biomass based on canopy ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "diameter and plant height[J].Journal of Nanjing Forestry University（Natural Sciences Edition）,2006,30(4）:101-104.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[16]曾伟生.国内外灌木生物量模型研究综述[J].世界林业研究，2015,28(1）:31-36.[Zeng Weisheng.A review of studies ofshrubbiomass modeling[J].World Forestry Research,2O15,28",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) :31-36.]   \n[17］罗永开,方精云,胡会峰.山西芦芽山14 种常见灌木生物量模 型及生物量分配[J].植物生态学报,2017,41(1):115－125. [Luo Yongkai,Fang Jingyun,Hu Huifeng.Biomass estimation models and allcation paterns of 14 shrub species in Mountain Luya, Shanxi,China[J]. Chinese Journal of Plant Ecology,2017,41 (1) :115 -125.]   \n[18］崔光帅,张林,沈维,等.西藏雅鲁藏布江流域中段砂生槐灌丛 生物量分配及碳密度[J].植物生态学报,2017,41（1）:53- 61.[Cui Guangshuai,Zhang Lin,Shen Wei,et al. Biomass allocation and carbon density of Sophora moorcroftiana shrublands in the middle reaches of Yarlung Zangbo River,Xizang,China[J]. Chinese Journal of Plant Ecology,2017,41（1):53-61.]   \n[19]Wortman C PIB,Higuchi N,Santos Jd,et al. Allometric equations for total,above and below-ground biomassand carbon of the Amazonian forest type known ascampinarana[J].Acta Amazonica,2018,48(2):85-92.   \n[20]Sakici O E,Kucuk O,Ashraf M I.Compatible above-ground biomass equations and carbon stock estimation for small diameter Turkish pine（Pinus brutia Ten.）[J].Environ Monit Assess, 2018,190(5) :285.   \n[21]Feyisa K,Beyene S,Megersa B,et al. Allometric equations for predicting above-ground biomass of selected woody species to estimate carbon in East African rangelands[J].Agroforestry Systems,2018, 92(3) :599 - 621.   \n[22]Titlyanova A A,Romanova IP,Kosykh N P,et al.Pattern and process in above-ground and below-ground components of grassland ecosystems[J]. Journal of Vegetation Science,1999,10(3）:307- 320.   \n[23]李旭东,张春平,傅华.黄土高原典型草原草地根冠比的季节 动态及其影响因素[J].草业学报,2012,21（4)：307-312.［Li Xudong,Zhang Chunping,Fu Hua.Seasonal dynamics of root-shoot ratio and the efect of factors in grazed and ungrazed grasslands of the Loess Plateau[J].Acta Prataculturae Sinica,2012,21(4）:307 -312.]   \n[24]Aerts R,Chapin FS.The mineral nutrition of wild plants revisited; A reevaluation of processes and patterns[J].Advances in Ecological Research,2000,30:1-67.   \n[25]张蔷,李家湘,徐文婷,等.中国亚热带山地杜鹃灌丛生物量分 配及其碳密度估算[J].植物生态学报,2017,41(1)：43-52. [Zhang Qiang,Li Jiaxiang,Xu Wenting,et al.Estimation of biomass allocation and carbon density of Rhododendron simsii shrubland in the subtropical mountainous areas of China[J].Chinese Journal of Plant Ecology,2017,41(1）:43-52.]   \n[26]Mokany K,Raison R J,Prokushkin A S. Critical analysis of rot: Shoot ratios in terrestrial biomes[J].Global Change Biology, 2006,12(1) :84 -96.   \n[27]Wang XP,Fang JY,Zhu B.Forest biomass and root-shoot allocation in Northeast China[J].Forest Ecology and Management, 2008,255(12) :4 007 -4 020.   \n[28] Sturm M,Racine C,Tape K. Climate change-increasing shrub abundance in the Arctic[J]. Nature,2001,411（6 837）:546 - 547.   \n[29]谢宗强，唐志尧.中国灌丛生态系统碳储量的研究[J].植物生 态学报,2017,41（1）:1-4.[Xie Zongqiang,Tang Zhiyao. Studies on carbon storage of shrubland ecosystems in China[J]. Chinese Journal of Plant Ecology,2017,41(1):1-4.]   \n[30]王杨,徐文婷,熊高明,等.檻木生物量分配特征[J].植物生态 学报,2017,41（1):105-114.[Wang Yang,Xu Wenting,Xiong Gaoming,et al.Biomass allocation patterns of Loropetalum chinense [J].Chinese Journal of Plant Ecology,2017,41(1）:105-114.]   \n[31］王亮,牛克昌,杨元合,等.中国草地生物量地上一地下分配格 局：基于个体水平的研究[J].中国科学：生命科学,2010,40 (7）:642-649.[Wang Liang,Niu Kechang,Yang Yuanhe,et al. Patterns of above and belowground biomass allocation in China's grasslands: Evidence from individual-level observations[J]. Science China:Life Science,2010,40(7）:642-649.]   \n[32］李博.内蒙古地带性植被的基本类型及其生态地理规律[J]. 内蒙古大学学报（自然科学版）,1962,4（2）:41-74.[Li Bo. Basic ypesof ZnalvegetationinIner Mongoliaanditsogeo graphical laws[J]. Journal of Inner Mongolia University（Natural Science Edition）,1962,4(2）:41-74.]   \n[33]许崇华,樊伟,崔珺,等.北亚热带常绿阔叶林林下灌木生物量 模型的建立[J].西北农林科技大学学报（自然科学版）,2017， 45（7）:49-56.[Xu Chonghua,Fan Wei,Cui Jun,et al.Biomass models for shrubs under evergreen broad-leaved forest in north subtropics[J].Journal of Northwest A&F University（Natural Science Edition）,2017,45(7） :49-56.]   \n[34]Basuki TM,van Laake PE,Skidmore A K,et al. Allometric quations for estimating the above-ground biomass in tropical lowland Dipterocarp forests[J].Forest Ecology and Management,2O09,257 (8):1 684 -1 694.   \n[35]Navar J,Mendez E,Najera A,et al. Biomass equations for shrub species of Tamaulipan thornscrub of Northeastern Mexico[J]. Journal of Arid Environments,2004,59(4) :657 -674.   \n[36]He H,Zhang C,Zhao X,et al.Allometric biomass equations for 12 tree species in coniferous and broadleaved mixed forests,Northeastern China[J].PLoS One,2018,13（1）:e0186226.   \n[37]郑绍伟,唐敏,邹俊辉,等.灌木群落及生物量研究综述[J].成 都大学学报（自然科学版）,2007,26（3）:189-192.[Zheng Shaowei,Tang Min,Zou Junhui,et al. Summary of research on shrub biomass in China[J]. Journal of Chengdu University（Natural Science Edition）,2007,26(3）:189-192.]   \n[38］刘陟,周延林,黄奇,等.毛乌素沙地中间锦鸡儿生物量估测模 型[J].干旱区资源与环境,2015,29（7）:128-133.[Liu Zhi, Zhou Yanlin,Huang Qi,et al.The models for estimating the biomass of Caragana intermedia in Mu Us sandland[J]. Journal of Arid Land Resources and Environment,2015,29(7） :128-133.]   \n[39］党晓宏,高永,虞毅,等.库布其沙漠北缘8种荒漠灌丛生物量 预测模型研究[J].干旱区资源与环境,2016,30（5）：168- 174.[Dang Xiaohong,Gao Yong,Yu Yi,et al. The biomass estimation models for eight desert shrub species in northern edge of the Hobq Desert[J]. Journal of Arid LandResourcesand Environment,2016,30(5）:168 -174.]   \n[40］王炜,王保栋,徐宗军,等.昌邑海洋保护区怪柳灌丛枝干生物 量估算方法[J].生态学报,2016,36（8）:2 202-2 209.[Wang Wei,Wang Baodong,Xu Zongjun,et al.Modeling stem and branch biomass of Tamarix spp.in the marine protected area in Changyi, China[J].Acta Ecologica Sinica,2016,36(8）:2 202-2 209.]   \n[41]Gehring C,Park S,Denich M.Liana allometric biomass equations for Amazonian primary and secondary forest[J].Forest Ecology and Management,2004,195(1-2）:69-83.   \n[42] Sileshi GW.A critical review of forest biomass estimation models, common mistakes and corrective measures[J].Forest Ecology and Management,2014,329:237-254.   \n[43]Northup BK,Zitzer SF,Archer S,et al.Above-ground biomass and carbon and nitrogen content of woody species in a subtropical thornscrub parkland[J].Journal of Arid Environments,2005,62 (1):23-43.   \n[44]Ketterings Q M,Coe R,van Noordwijk M,et al.Reducing uncertainty in the use of allometric biomass equations for predicting above-ground tree biomass in mixed secondary forests[J].Forest Ecology and Management,2001,146(1-3）:199-209.   \n[45]黄劲松，邸雪颖.帽儿山地区6种灌木地上生物量估算模型 [J].东北林业大学学报，2011,39（5）：54-57.［HuangJinsong,Di Xueying.Estimation model for biomass of typical shrubs in Maoershan Area[J].Journal of Northeast Forestry University, 2011,39(5):54-57.]   \n[46]唐庄生，安慧，上官周平.荒漠草原沙漠化对土壤养分与植被 根冠比的影响[J].草地学报,2015,23（3）：463－468.[Tang Zhuangsheng,Au Hui,Shangguan Zhouping.Effects of desertification on soil nutrients and root-shoot ratio in desert steppe[J].Acta Agrestia Sinica,2015,23(3） :463-468.]   \n[47］孙威.内蒙古灌木生物量的分配格局[D].呼和浩特：内蒙古 大学，2O15.［Sunwei.BiomassAllocationof Temperate Shrubsin InnerMongolia[D].Hohhot:Inner Mongolia University,2015.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Models for Estimating the Biomass of 26 Temperate Shrub Species in Inner Mongolia, China ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Meng-ying'2，SUN Wei³，LUO Yong-kai²，LIANG Cun-zhu³，LI Zhi-yng'， SHEN Hai-hua’，NIU Xia-xia³，ZHENG Cheng-yang4，HU Hui-feng'，MA Wen-hong³ (1. State Key Laboratory of Vegetation and Environmental Change,Institute of Botany,Chinese Academy of Sciences, Beijing 100093,China;   \n2.University of Chinese Academy of Sciences,Beijing 100o49,China ;   \n3.College of Ecologyand Environment Science,Inner Mongolia University,Hohhot O1oo21,Inner Mongolia,China;   \n4.College of Urban and Environmental Sciences,Beijing University,Beijing 1Oo871,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Biomass Model isone of the important methods used to estimate the shrub biomass.Litle attempt has been tried to systematically investigate the biomass in shrublandscompared with thatin forest and grassand ecosystems because ofthe harsh conditions to carryout field work.In this study4 common mathematical models（monadic linear model,binary linear model,logarithmic function modeland power function model）and3 prediction variables (height, $H$ ; canopy, $C$ ； and volume, $V$ ）were used to establish the equations for estimating the biomasses of 26 common temperate shrub species in Inner Mongolia,and the $R / S$ ratios of these shrub species in different habitats were compared. The results showed that : $\\textcircled{1}$ The power function and linear function models were the main models used for estimating the biomass,and $C$ and $V$ were the optimal predictors ； $\\textcircled{2}$ The optimal equations and their prediction variables for estimating thebiomasss of diffrent organs of17 shrub species were the same,which indicated that the equationforms for estimating the biomass were similar.However,thecoeffcients for diferent organs in the model were different,it was more accurate to estimate the biomass byusingthe species-specific biomass equations for each species and organs ; $\\textcircled{3}$ The $R / S$ ratio of shrub species in grassland and mountainous habitats was significantly higher than that in desert habitat.Through developing the biomass models and studying the $R / S$ ratios of common temperate shrub species in Inner Mongolia,the vegetation biomass and carbon storage of the shrubland ecosystem in Inner Mongolia could be conveniently estimated. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:temperate shrub species； biomass equation；R/S ratio； Inner Mongolia",
+        "page_idx": 9
+    }
+]

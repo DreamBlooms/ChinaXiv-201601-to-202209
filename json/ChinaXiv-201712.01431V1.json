@@ -1,0 +1,463 @@
+[
+    {
+        "type": "text",
+        "text": "BIM技术在既有建筑检测中的应用研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒋璐1,2,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.上海市建筑科学研究院,上海200032；2.上海建科工程改造技术有限公司，上海200032；3.上海市工程结构安全重点实验室，上海200032)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】本文对BIM技术在既有建筑检测领域的应用需求与意义进行了总结归纳，结合BIM技术与既有建筑检测工作在表达内容、表达形式方面的共性特点,探讨了BIM技术与既有建筑检测工作的融合应用,即将BIM模型作为既有建筑检测报告的载体，并对应用的难点进行了讨论,给出了解决方案,以供相关研究人员或工程技术人员参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BIM；既有建筑；房屋检测；智慧城市  \n【中图分类号】TU17；TU362 【文献标识码】A【文章编号】1674－7461(2017)03-0090-06  \n【DOI】 10.16670/j.cnki.cn11 -5823/tu.2017.03.16",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前BIM技术正在向深层次、全周期、协同化方向发展，未来必将应用到建筑全生命周期的各个阶段。国家标准《建筑工程信息模型应用统一标准》将建筑全寿命期阶段划分为策划与规划、勘察与设计、施工与监理、运行与维护、拆除或改造加固五个阶段。既有建筑的检测作为建筑使用过程中功能改善或运营维护的重要技术依据，可以划分在建筑全生命周期的第五阶段[1]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于BIM技术是近几年才得以大力推广和应用的，因此绝大多数设计和建造年代稍早的既有建筑都未采用BIM技术进行一体化设计，这些既有建筑在实际使用、运维或后期改造加固过程中也缺乏相应的BIM模型。随着国家BIM信息技术的推广应用以及智慧城市建设发展的需要，根据现场检测结果建立符合实际情况的既有建筑BIM信息模型也是不可缺少的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2BIM技术在既有建筑检测中的应用需求",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "具体而言，既有建筑检测BIM技术应用需求主",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "要体现在以下几个方面：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1我国BIM技术的发展与政府政策导向",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2015年6月16日，住建部专门制定了《关于推进建筑信息模型应用的指导意见》，标志着全国转入了全面推行BIM技术的新阶段。各级地方政府积极推广BIM技术应用，要求政府投资项目必须使用BIM技术，这无疑促进了BIM技术在既有建筑检测鉴定领域的推广应用；另一方面，既有建筑检测项目往往建设年代较早、周围环境复杂，后续改造加固施工需考虑的因素较多，安全风险较高，传统的管理方法已不能满足实际工程需要。因此既有建筑检测阶段的模型可以成为后续改造加固的重要技术依据，使工作效率大大提高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.2智慧城市的发展需要 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "智慧城市是以下一代互联网、物联网、云计算等新型信息技术为基础，由信息化、数字化向智慧化发展的新型城市发展模式[2]。智慧城市是未来城市化进程的大趋势。BIM技术是智慧城市发展的基础之一，它以软件、硬件、系统集成开发为一体，承载了城市建设的技术和数据等资源。BIM技术使得城市基础设施、建筑及地下管线等数字化，BIM大数据支撑智慧城市建造全过程，也支撑智慧城市的运营管理[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 既有建筑后期改造加固的需要",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "既有建筑在使用过程中的改造加固设计、施工与新建工程的设计、施工之间存在较多区别，归其本质是工程条件的不同。此外，改造加固工程与新建工程在信息表现形式、组织构架以及应用主体和趋向等方面也有较多不同。因此，将BIM技术引入到既有建筑检测鉴定、改造加固领域是十分必要且具有重要意义的[4,5] O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4既有建筑后期运营维护的需要",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BIM模型将分散的材料设备进行整合，将三维可视模型与综合智能建筑监控系统结合起来，达到高效管理。基于BIM模型的运维工作模式能够帮助业主方获得准确详细的项目信息，结合相关软件实现对项目的数字化管理提高运维工作效率，避免因信息错误或缺失造成的重复工作和浪费人力物力资源，提升运用维护准确率。在BIM技术在运维阶段的应用内容主要包括物业管理、资产管理、灾害应急模拟和空间管理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "无有建筑检测的工作内容与特点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据上海市工程建设规范《房屋质量检测规程》（DG/TJ08-79-2008）目前，既有建筑检测即房屋质量检测可分为房屋完损状况检测、房屋安全检测、房屋损坏趋势检测、房屋结构和功能改变检测、房屋抗震能力检测、房屋质量综合检测和房屋其它类型检测共七大类。房屋质量检测应按图1所示的程序进行。主要包括以下工作内容：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c716818da61e5d60793954b440a75430616caa9f34b22d40673ec6e8dce94c88.jpg",
+        "img_caption": [
+            "图1房屋质量检测程序"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)调查房屋建造信息资料。包括：查阅工程地质勘察报告、设计图纸、施工记录、工程竣工验收资料，以及能够反应房屋建造情况的其它有关资料信息；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)调查房屋的历史沿革。包括使用情况、维修、加固、改造、用途变更、使用条件改变以及灾害损坏和修复等情况；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)检查核对房屋现状与图纸（文字)资料记载  \n的一致性;(4)检查房屋的结构布置、材料强度、构造连接  \n及结构体系；(5)检查测量房屋的倾斜和不均匀沉降。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目属性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2110850fe3f43650e143ef63526f9a343507e7e7b2955d6e5dd61a732de3fbdb.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a5e35e140d751ba81bd393f293945abbcce857288dc3ca0d054e175c848f109.jpg",
+        "img_caption": [
+            "图2项目属性"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同类型的房屋检测工作内容虽然侧重点不同，但基本都包括建筑结构测绘、完损、材性、倾斜及承载力计算几部分内容，且在报告中的表现形式均以文字说明、图纸、照片、表格等单独或几种相结合的形式呈现。这些具体内容在不同类别的房屋检测工作中具有共性，见表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在常规检测报告中，以文字描述、表格、图纸、照片的形式呈现检测成果存在以下缺点：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)视觉效果差、抽象",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于土木建筑类专业技术人员，如未亲临现场，仅根据检测报告中的信息，通过文字描述、表格、图纸、照片的形式了解房屋详细的建筑、结构现状，由于视觉效果差，内容抽象，尚需花费较多精力。而许多业主、政府行政人员都是非专业技术人员，他们要通过纸质报告了解房屋的建筑、结构现状就非常困难了。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/22c4747d0cfd8743b48219270089fc30366dcd99b784f3bb38102f21277557a7.jpg",
+        "table_caption": [
+            "表1房屋检测工作内容及报告表现形式"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>工作内容</td><td>具体内容</td><td>报告表示方式</td></tr><tr><td>测绘</td><td>轴网、标高、构件尺寸复核（测 绘）</td><td>文字描述、表格、 图纸</td></tr><tr><td>材性</td><td>混凝土、砂浆、砌块强度，碳化 深度,钢筋尺寸复核</td><td>文字描述、表格、 照片</td></tr><tr><td>完损</td><td>裂缝、渗漏、锈蚀</td><td>照片、文字描述</td></tr><tr><td>沉降</td><td>倾斜、相对高差</td><td>文字描述、表格、 图纸</td></tr><tr><td>力学性能</td><td>上部结构、基础承载力验算</td><td>文字描述、表格、 图纸</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)图纸、模型信息割裂",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "丁如检测报告中关于房屋信息都是以文字描述、表格、照片的形式来表述的,其中材料数据、损伤的位置在表格中是以轴线编号进行定位的，照片通常作为附录放在报告的后面，这样就造成了信息的割裂,表达不直观。特别是对于房屋完损类型的检测或房屋受施工影响的前期现状检测，由于沉降、位移、裂缝等现场数据量巨大,检测人员在进行报告的编写时也很容易出现错漏；业主在进行报告阅读时需要对照图纸对损伤位置逐个进行定位，阅读困难；后续设计人员需要了解房屋现状完损情况时，也需要大量的时间将割裂的信息逐个对照，消化吸收",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)图纸、信息的变更无集中化管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于后期需要进行改造加固的房屋，当检测过程中房屋结构测绘、完损调查等工作出现错漏，需进行现场补测时，纸质报告通常无法及时进行信息变更，且当数据量较大时，无法进行集中化管理，容易再次错漏，使得检测报告信息不准确，给后续改造加固设计带来困难甚至造成安全隐患。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4既有建筑检测工作与BIM技术的融合",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据既有建筑检测的工作内容及BIM技术特点可知，检测报告所需表达的内容完全可以通过BIM模型作为载体，进行详细直观的多样化呈现，以Revit、Navisworks软件为例：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)项目概况 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在检测报告中，建筑基本信息一般包括：建筑名称、设计单位、施工单位、竣工时间等信息。以上信息在BIM模型中可以通过面板“管理”选项卡中的“项目属性”功能来实现，如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)建筑、结构概况",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在检测报告中，建筑、结构概况一般包括：建筑平、立面布置（包括建筑造型、装修材质），结构平、立面布置（包括构件截面尺寸，所采用的材料强度、配筋），以上信息还涉及到轴网、标高尺寸、面积、建筑使用功能，房屋相对位置（建筑总平面图）等信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述信息中房屋建筑、结构平立面布置，先根据现场测绘结果建立BIM模型，然后通过模型的平、立面视图来呈现3，还可通过“三维动态观察器”来进行房屋整体的动态展示（见图4），对于总平面，可以通过链接CAD底图或根据实际情况建立场地模型的形式实现房屋定位。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d77969ac90855ea7bca874cc7d03f1fd1f18d6c3de9ab00b94cf030498828339.jpg",
+        "img_caption": [
+            "图3Revit界面左侧视图菜单 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)结构材性检测[1 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "构件截面尺寸及实测材料强度则可通过左侧属性菜单显示（如图5、图6所示）。此外，还可通过文字注释的方式直接在模型上标记实测的材料强度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对某些被检构件需剔凿表面粉刷时，利用Revit软件中的“贴花”功能来模拟构件剔凿（如图7所示）。当被检测的构件需要取芯时，可以利用Revit软件中的洞口命令来实现（如图8所示）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/352521eb4c3ee818112cc962452f8847ad539d1d9651d8736572b4c9f12da780.jpg",
+        "img_caption": [
+            "图4Revit建筑三维动态展示"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "混凝土-矩形-柱KZ6-500\\*500  \n结构柱（1） 编辑类型  \n限制条件 》柱定位标记 W8-WG底部标高 ST-WZL-1F-...底部偏移 -1000.0 =顶部标高 ST-WZL-2F-  \n顶部偏移 0.0  \n柱样式 垂直随轴网移动 ☑  \n房间边界 √  \n材质和装饰 》  \n结构材质 混凝土，现场.  \n结构 》启用分析模型 □  \n属性帮助 应用",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e67381ba63189a5860926d41963121dff8fe0ac9779fe88e44fa238379007655.jpg",
+        "img_caption": [
+            "图5混凝土柱属性菜单 ",
+            "图6混凝土柱结构材质菜单"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e1d0afd80592ca4fe355266b997050f5a5dd7d5cc366f492d782a0a91b5b70a.jpg",
+        "img_caption": [
+            "图7利用\"贴花\"模拟构件剔凿"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/09448ecb30c158f29d073b36cfaad895e21a965b8459a0a27b58b6a3783def99.jpg",
+        "img_caption": [
+            "图8利用\"洞口\"模拟构件取芯"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4)房屋沉降数据",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在检测报告中，房屋的倾斜、相对高差数据一般通过在二维平面图上标注测点和数据信息来表达。在NavisworksManage2015软件中，我们可以通过保存不同的视点位置，将不同时间的测量信息以红线注释的方式标注在模型上，如图9所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（5）房屋完损信息",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在检测报告中，房屋的完损信息一般包括结构性损伤和装饰性损伤。损伤的主要类型有墙面渗水霉渍、粉刷脱落、钢筋锈胀等，这些损伤信息往往通过照片、文字或是数据信息予以记录。在Navis-worksManage2015软件中，往往可以通过外部链接的方式记录这些信息。“超链接”功能可以方便地使外界信息(文档资料、图片、网站、视频等)与模型中的构件相连，且同一图元属性上可以链接多个文件，见图10、图11所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/928406802af9285e1b87cf2b341fcc14ca1c1fda0523f0dc5a2851e3d8198064.jpg",
+        "img_caption": [
+            "图9利用\"红线注释\"记录房屋沉降与倾斜"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/efc59c2320a5faa67096078e76b1a69724776ecf36519fa6aea50a1ee0a04704.jpg",
+        "img_caption": [
+            "图10利用\"超链接\"功能导入外界信息",
+            "图11利用\"编辑链接\"功能管理同一构件上的不同链接"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "接.预信信息 Cv 超 1H登为衡认勿上0下向请定清口mm □",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(6)力学性能数据",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前，主流的BIM软件都无法与国内规范紧密结合。因此,建议只在BIM软件工作中完成建模工作，然后将模型导入其他分析软件进行运算。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5应用难点与解决方案",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于复杂造型的建筑（如历史保护建筑），传统检测方法通常会因为无法精确测绘而给BIM技术的应用带来困难。针对上述问题，现代科技也有相应的解决方法。3D扫描技术与BIM技术的结合不仅方便快捷，更重要的是它的精确度是传统检测方法所无法达到的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着BIM技术的推广，在房屋检测实施阶段，如何将BIM应用和推广，就需要有效的手段作为辅助。基于此，3D扫描技术成为有效连接BIM模型和现场检测的纽带。3D激光扫描的优势主要在其扫描精度以及与BIM模型的便捷比对[6]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3D扫描技术与BIM技术相结合给现场检测带来最大的便利即是工程信息数据的整合管理，主要包含以下三个方面：1)3D扫描技术无疑是测绘数据采集的有效方式，在保证扫描精度的前提下，通过扫描的方式，可以对选定的工程部位进行完整、客观的采集;2)3D扫描生成的点云数据经过专业软件处理，即可转换为BIM模型数据，进而可立即与设计的CAD模型进行精度对比;3)经过数据采集与转换后，现场情况可以很完整的以BIM模型、点云模型或全景的形式在统一集成的信息平台中整合，并根据现场工程师的需要开展相关的管理工作。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "BIM技术在既有建筑检测领域具有较强的工程应用价值和广阔的应用前景，特别是当前各类既有建筑检测加固项目层出不穷，基于BIM的检测模型不仅可以用于后续运维管理，还可促进大型既有建筑全面信息化和现代化管理、促进智慧城市的建设发展。传统房屋检测报告所需表达的内容完全可以通过BIM模型作为载体，进行详细直观的多样化呈现。但期待BIM软件自身及相关接口软件如3D扫描点云数据转换为BIM模型软件的进一步完善，以便进一步的推广应用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "［1］张俊，李永录.BIM技术的发展趋势及其在检测鉴定中的应用研究C」.第四届全国工程结构安全检测鉴定与加固修复研讨会，北京，2015.  \n［2］商业价值研究院.智慧地球[M].北京：东方出版社，2009.  \n[3」李德仁，邵振峰，杨小敏.从数字城市到智慧城市的理论与实践[J].地理空间信息，2011，(6)：1-5.  \n［4］蒋璐，郑昊.BIM技术在既有建筑检测加固中的应用探索[J].土木建筑工程信息技术，2016，8（5）：90-94.  \n[5］张顺宇.BIM技术在建筑改造结构设计中的应用[J].工程建设与设计，2014，（9)：29-33.  \n［6］赵景学，姜立，王会一.BIM技术在文物建筑保护中的应用可能性研究[J」.土木建筑工程信息技术，2012，4(1):43-46.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Research on Application of BIM in Inspection for Existing Buildings ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Jiang Lu1, 2, 3 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1.Shanghai Research Institute of Building Sciences （SRIBS）， Shanghai 2Oo032， China ;2.Shanghai Jianke Engineering Reconstruction Technology Co., Ltd.， Shanghai 2OoO32， China;3.Shanghai Key Laboratory of Engineering Structure Safety,SRIBS，Shanghai 2O0O32， China)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This paper summarizes the demandsand significances of the BIMapplication in the inspection of existing buildings.Considering the common features in expressing contentand forms of the BIM technologyand existing building inspection,the application integration of BIM-based inspectionof existing buildings are discussed in details,which,inother words，meansusing BIM models as carrer for the inspection reportsof existing buildings.Simultaneously,the diffculties of theapplicationare discussedand thecorresponding solutions are also given. The results can be used as references for engineers and scholars for future studies. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BIM；Existing Buildings； Inspection of Existing Buildings；Smart City ",
+        "page_idx": 5
+    }
+]

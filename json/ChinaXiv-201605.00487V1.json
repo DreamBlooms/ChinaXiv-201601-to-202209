@@ -1,0 +1,524 @@
+[
+    {
+        "type": "text",
+        "text": "Improving nutritional quality and fungal tolerance in soya bean and grass pea by expressing an oxalate decarboxylase ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vinay Kumar§,Arnab Chattopadhyayt,\\$， Sumit Ghosh‡,Mohammad Irfan, Niranjan Chakraborty, Subhra Chakraborty\\* and Asis Datta\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "National InstituteofPlant Genome Research,New Delhi, India ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received17August2015;   \nrevised 21 October 2015;   \naccepted 26 October 2015.   \n\\*Correspondence (Tel $+ 9 1$ -11-26742750; fax $+ 9 1$ -11-26741658;email asis_datta@ rediffmail.com) (Tel $+ 9 1 - 1 \\cdot$ 1-26735119; fax 91-11-26741658;email subhrac@ hotmail.com)   \n+Present address: David Geffen School of Medicine，UCLA,Los Angeles, CA,USA. Present address: Biotechnology Division, CSIR-Central Institute of Medicinal and Aromatic Plants, Lucknow 226015, India \\$These authors contributed equally to this article. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Glycine max,Lathyrus sativus,oxalicacid,oxalate decarboxylase,Sclerotinia resistance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Soya bean (Glycine max) and grass pea (Lathyrus sativus) seeds are important sources of dietary proteins; however,they also contain antinutritional metabolite oxalic acid (OA).Excess dietary intake of OA leads to nephrolithiasis due to the formation of calcium oxalate crystals in kidneys. Besides, OA is also a known precursor of $\\beta$ -N-oxalyl- $\\mathsf { L } \\mathsf { - } \\mathsf { \\alpha } _ { \\mathsf { X } } , \\mathsf { \\beta } _ { \\mathsf { - } }$ -diaminopropionic acid ( $\\beta \\cdot$ -ODAP),a neurotoxin found in grass pea. Here,we report the reduction in OA level in soya bean (up to $73 \\%$ ）and grass pea (up to $7 5 \\%$ ）seeds by constitutive and/or seed-specific expression of an oxalate-degrading enzyme,oxalate decarboxylase (FvOXDC)of Flammulina velutipes.Inaddition, $\\beta$ -ODAP level of grass pea seeds was also reduced up to $73 \\%$ .Reduced OA content was interrelated with the associated increase in seeds micronutrients such as calcium,iron and zinc. Moreover,constitutive expresson of FvOXDC led to improved tolerance to the fungal pathogen Sclerotinia sclerotiorum that requires OA during host colonization.Importantly，FvOXDCexpressing soya bean and grass pea plants were similar to the wild type with respect to the morphology and photosynthetic rates,and seed protein pool remained unaltered as revealed by the comparative proteomic analysis.Taken together,these results demonstrated improved seed quality and tolerance to the fungal pathogen in two important legume crops,by the expression of an oxalate-degrading enzyme. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Oxalic acid (OA),a strong dicarboxylic acid, is naturally abundant infruits，vegetables and seeds (Holmes and Kennedy，2000; Holmes et al.,1998).At physiological pH,OA forms soluble salts withsodium and potassium;however，OA chelates calcium to form insoluble calcium oxalate，which renders OA clinically important. Because humans cannot degrade ingested OA due to the lack of any biological and/or enzymatic system，the consumption of high OA-containing vegetable diet is considered detrimental to the human health.This leads to hyperoxaluria and destruction of renal tissues because of the precipitation of calcium oxalate in the kidneys,a medical condition known as nephrolithiasis (Robertson and Peacock，198O； Sidhu et al., 1999). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Legumes constitute the main source of proteins to the majority of human diets.Legume proteins are rich in essential amino acid lysine，which is lacked in cereals.Besides,legumes are the source of a wide array of essential nutrients,low glycaemic carbohydrates，dietary fibre，vitaminsand minerals, and cultivation of legume improves soil health of the agricultural and agroforestry systems.Soya bean (Glycine max) and grass pea (Lathyrus sativus) are legumes with abundant economical and nutritional importance.Soya bean seeds contain around $3 8 \\% - 4 0 \\%$ proteins,whereas beans and/or peas contain nearly ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$20 \\%$ proteins (Gwtek et al.，2014).Moreover，soya bean is responsible for providing more than half of globally consumed edible oil (SoyStats,2013,available at www.soystats.com).Soya bean has become indispensible because it provides a wide range ofpotential advantages such as protein-based biodegradable materials，anticancerous constituents and potential to lower cholesterol (Ko et al.，2013).Such varied uses of soya bean made ita more desired crop,and its global demand is increasing day by day (Deshmukh et al.,2014).Grass pea (Lathyrus sativus) is also an agronomically important crop due to its high protein content，good grain yield,resistance to insects as well as pests. Moreover,it has a potential to tolerate extensive drought and water-logging stresses (Yan et al.，20o6; Zambre et al.，2002). This crop is cultivated and consumed in various parts of the World not only for animal feed and fodder but also for human consumption，because it is an inexpensive source of dietary lysine-rich protein for people of low-income food-deficit countries (Barik et al.，2005;Smartt,1990).However，OA found in soya bean and grass pea seeds is an antinutritional factor (Chai et al.，2004;Yan et al.，2006).Oxalate content of soya bean varies from 0.67 to $3 . 5 \\ \\mathsf { g } / 1 0 0 \\ \\mathsf { g }$ of seeds dry weight (Massey etal.，2oo1).Moreover,OA also serves as a precursor for the biosynthesis of a grass pea neurotoxin, $\\beta$ -N-oxalyl-L-α,β-diaminopropionic acid $\\mathrm { . \\Delta \\beta }$ -ODAP) (Xiong et al.，2015).Some of the grass pea germplasms also display a significant variabilityin $\\beta$ -ODAP content，and these grass peas contain $0 . 5 \\% - 2 . 5 \\%$ $\\beta$ -ODAPintheseeds(Xiongetal.， 2015)． Prolonged consumption ofL.sativus causes neurolathyrism，whichis characterized by spasticity of leg muscles,lower limb paralysis, convulsions and death (Yan et al.，2006). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Besides，OA is considered as a pathogenesis factor for the devastating phytopathogenic fungus Sclerotinia scleriotorum which synthesizes and secretes OA during host colonization (Kabbage et al.，2015; Malencic et al.，2010;Uloth et al., 2015).Sclerotinia sclerotiorum,a necrotrophic fungal pathogen, instigates white mould of more than 40o plant species, including important crops such as cotton，tomato，sunflower, grass pea and soya bean (Heller and Witt-Geiges,2013).The pathogenicity of S.sclerotiorum is concomitant with OA secretion by fungus，and OA is thought to play a crucial role in infection.The relationship between Sclerotinia pathogenicity and OA secretion might heighten Sclerotinia virulence mostly by three modes of action (Dutton and Evans,1996).First,fungus secretes several cell wall-degrading enzymes such as polygalacturonase to invade plant tissues. These enzymes work at low pH,and OA might play an important role in providing the low pH environment for these enzymes.Second，the presence of OA brings down pH of the infection site due to its acidic nature，which further leads to weakening of the plant and thereby facilitates the invasion to plant tissue.Thirdly,because ${ \\mathsf { C a } } ^ { 2 + }$ is an essential_component of plant defence system，OA could bind with ${ \\mathsf { C a } } ^ { 2 + }$ and form calcium oxalate which may compromise the function of ${ \\mathsf { C a } } ^ { 2 + }$ -dependent defence.Chelation of cell wall ${ \\mathsf { C a } } ^ { 2 + }$ by OA might not only compromise the function of ${ \\mathsf { C a } } ^ { 2 + }$ -dependent defence responses but also weaken the plant cell wall (Bateman and Beer，1965; Cessna et al., 2000;Dutton and Evans,1996).This further provides a platform for fungal degradative enzymes to assist the fungal infection (Lumsden,1979).Moreover，the accumulation of high level of OA during fungal infection results in wilting of the plants and finally cell death (Kim et al.，2008). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Oxalic acid can be biodegraded via two pathways，that is oxidation and decarboxylation. Oxalate oxidase (EC 1.2.3.4), belongs to the germin family of proteins，expressed predominantly in higher plants,catalyses the oxygen-dependent oxidation of oxalate to carbon dioxide in a reaction that is coupled withthe formation of hydrogen peroxide.Oxalate oxidase activityis found ina widevariety of plants,including barley seedling，rootsand leaves,Amaranthus leaves,beet stemsand leaves,sorghum leaves and maize,oats,rice and rye (Hurkman etal.，1991;Lathikaetal.，1995).Flammulinavelutipesoxalate decarboxylase (FvOXDC)is thought to be the best characterized oxalate decarboxylase from the wood-rotting fungus reported till date (Chakraborty et al.，2002).FvOXDC is specific to oxalate,and it catabolizes to formic acid (nontoxic organic acid) and ${ \\mathsf { C O } } _ { 2 }$ inasingle step without the requirement of a cofactor. This enzyme is active at low pH which would be helpful as most of the oxalate is localized in plant cell vacuoles,where pH is low.FvOXDC is a hexamer of six identical subunits of $4 1 0 ~ \\mathsf { k D a }$ molecular mass，and the hexamer is a dimer of trimers (Chakraborty et al.，2002)．The $\\mathsf { M n } ^ { 2 + }$ and OA binding to the active site of FvOXDC plays a key role in enzyme catalysis (Chakraborty etal.,2002). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this present study,we have developed transgenic soya bean and grass pea lines by constitutive and/or seed-specific expression of FvOXDC with the aim to reduce OA in soya bean and both OA and $\\beta$ -ODAP in grass pea.The reduction of OA in soya bean and grass pea not only improved their seed nutritional quality but also conferred tolerance to S.sclerotiorum. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Expression and stable integration of FvOXDC in transgenic soya bean and grass pea ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To reduce the levels of antinutritional OA in soya bean and OA and $\\beta$ -ODAP in grass pea,we have generated transgenic lines for both soya bean and grass pea for CaMV35S-driven constitutive expression of FvOXDC.Moreover，seed-specific expression of FvOXDC was also achieved in soya bean using the seed-specific promoter of soya bean late-embryogenesis-abundant protein (LEA protein; GmPM9).The pSOVA expression plasmid contained FvOXDC under the control of the CaMV35S promoter (Figure 1a). In pSPM9 plasmid,FvOxDCwas under the control of seed-specific promoter (Figure 1h).These two $F V O X D C$ constructs (pSOVA and pSPM9) were used to transform soya bean cultivar MACS-57 via Agrobacteriumtumefaciens-mediatedtransformation by followingarobust and reproducible transformation protocol involving soya bean cotyledonary nods as explants (Figure S1).However, for grass pea，embryos were used as explants (Figure S2） to transform cultivar LP-24.FvOXDC gene amplification,following polymerase chain reaction (PCR) using FvOXDC-specific primers and genomic DNA as template,was carried out for the kanamycin resistance and single-copy transgene-integrated T3 (soya bean SOVA lines and PSPM9 lines) and T4 (grass pea SOVA lines) generation transgenic lines (Figure 1b,c,i).PCR-amplified DNA fragment of 75o bp was detected in all the kanamycin-resistant transgenic lines,confirming genomic integration of the FvOXDC. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FvOXDC protein expression and oxalate decarboxylase activity in transgenic plants ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To confirm the expression of FvOXDC in soya bean and grass pea, immunoblot assay was performed using polyclonal anti-FvOXDC antibody.Immunoblot assay using total soluble protein revealed an immunoreactive band of $5 5 ~ \\mathsf { k D a }$ ，corresponding to the predicted size of the FvOXDC (Figure 1d,e,j).However，protein band corresponding to the FvOXDC was not detected in the protein extracts of nontransformed (wild-type) plants,confirming specificity of the immunoreactive band.This result confirmed the expression of $F V O \\times \\mathsf { D C }$ protein in soya bean and grass pea transgenic lines. Further,to determine the functional expression of $F V O X D C$ in soya bean and grass pea, total protein extracts were examined for the $0 \\times 0 C$ activity. The $0 \\times 0 C$ activity was examined by measuring the liberation of $^ { 1 4 } { \\mathsf { C O } } _ { 2 }$ from $^ { 1 4 } { \\mathsf { C } }$ oxalic acid (Amersham，Little Chalfont，UK).FvOXDC was found tobe functionally active with five to sevenfold increasein ${ \\mathsf { C O } } _ { 2 }$ production in transgenic soya bean in pSOVA and pSPM9 FvOXDC-expressing lines，respectively (Figure 1f,g) and two to threefold increase in ${ \\mathsf { C O } } _ { 2 }$ production in transgenic grass pea pSOVA lines (Figure 1k).Moreover, leaves of transgenic and wild type were tested for the OA sensitivity (Foster et al.，2012; Kesarwani etal.,2ooo). Leaves of FvOXDC-expressing transgenic plants were less chlorotic compared to wild type (Figure 1l).These resultsconfirmed in plantarole of FvOXDCin OA degradation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Expression of FvOXDC decreases OA level in soya bean and OA and $\\mathfrak { \\textbf { \\beta } }$ -ODAP level in grass pea ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FvOXDC-expressing transgenic soya bean and grass pea lines wereassayed for seed OA and $\\beta$ -ODAP content and compared with the nontransformed wild-type plants.The analysis revealed up to $67 \\%$ reduction in OA level in pSOVA lines (Figure 2a)and up to $73 \\%$ reduction in pSPM9 lines of soya bean (Figure 3a), whereas OA and $\\beta$ -ODAP contents of grass pea were reduced up to $7 5 \\%$ and $7 3 \\%$ ，respectively (Figure 4a,b). As FvOXDCmediated decarboxylation of OA results in the generation of formic acid,the levels of formic acid in the seeds of FvOXDC",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/80be2e503f27e332eb401edb596c3ca991c288ecb4b72ffa396e343d70ef6978.jpg",
+        "img_caption": [
+            "Figure1 Molecular analyses of soya bean and grass pea transgenic lines expressing $F V O X D C .$ (a) Schematic representation of the expression plasmid pSOVA,containing $F V O X D C .$ -coding sequence under the control of CaMV35S promoter.RB,right border; LB,left border; nptll,neomycin phosphotransferase.(b,c)PCRanalysisof transgenic pSOVAsoyabean(b)and grasspea (c)lines,fortheconfirmationof the $F V O X D C$ genomic integration. (d,e) Immunoblot analysis to confirm $F V O X D C$ expression in transgenic pSOVAlines of soya bean (d)and grass pea (e). (f,g) Oxalate decarboxylase activity shown as micromoles of ${ \\mathsf { C O } } _ { 2 }$ liberated per minute per milligram of protein at $3 7 ^ { \\circ } \\mathsf C$ .Oxalate decarboxylase activities for the pSOVA lines of soya bean (f) and grass pea (g)are shown. Data represent the values obtained from the means $( \\pm \\mathsf { S E } )$ of ten leaves per plant for each independent transgenic event and theWildtypeirilatehaticepresentatifeexpressasmidontaiODdingsqeceuderthtrof GmPM9promoterfored-speificexpresion.(i)CanalysisoftransgnicpSM9soabaninsforteconfirmatiooftheFOXCoic integration. $( \\mathrm { j } )$ Immunoblot analysis confirmed $F V O X D C$ expression in transgenic pSPM9 lines of soya bean.(k) Oxalate decarboxylase activity of soya bean plants expressing oxalate decarboxylase in a seed-specific manner,shown as micromoles of ${ \\mathsf { C O } } _ { 2 }$ liberated per minute per milligram of protein at $3 7 ^ { \\circ } \\mathsf C$ Data represent the values obtained from the means $( \\pm \\mathsf { S E } )$ of ten seeds per plant for each independent transgenic event and the wild type in triplicate. (l) Oxaliccid(Asiitstiixpeipdise in the OA solution,and a negative control was kept with wild-type leaf in water (mock). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) 1.2 (b) 0.6 (c) 3 (d) 4  \n(p0 xxxxxxxxxxxxxxxxxxxxxxx p xXxXxxxxxxxxxXxXXX2 I区xxxxxxxxxxxxxxxxxxxXxX 区xxxxxxxxxxxxxI 8883 epe HKxxxxxxxxxxxxxxxxxxxxxxxXX H8XXXXXXXXXX HXXXXXXXXXXXXXXXXXXXX2 xxxxxxxxxxxxxxxxxxxxx 1 XXXXxxxXxxxxxxxxxxXxxxXXXXX H区XXXxXXXXXXXXXXXXXXXXXXXX2 H3XXXXXXXXXXXXXXXXXXXXXX KXXXxxxxxxxxxxxxxxxxxxXXX0 rnntrn CSAA4 区 H区 P38 44445 xX P'PT1 11115 T 0 888 coonirn P A4415 PS.1 A4414 P3.8 44445 P'T1 11115 0 HKXXXXXxXXXX rnnern PPZ A4415 PS.1 A4414 PP.8 C4415 PP0 I4414 15 0 HXXX rontin P. A4415 PP.1 A4414 P58 44445 P'P'T 14115  \n(e)6 (f) 6 (g) 4.5  \ne p ata H区XXXXXxxxXXXX HXXXXXXXXXXXxXXXX HxxXXxxxxxxxxxxxxxxxxxxxXxX IKXXXxxXXXXXXX auee ploatu 区xXX 区XXxxxxXxxxxXxxXxx XXXXXXXXXXXXXXXXXXXXX IXXxXXxxxxxxxxxxxxxxxxXXX e 0 HXXXXXX XxxXxxxxxxxxxxxxxXX HXXXXXXXXXXXXXXXXXXXXXXXXXX Hxxxxxxxxxxxxxxxxxxxxxxxx2 H区XXxxxXxxxxxXxxxxxXXxXXXconttrn PPY A4415 P'P.S A4414 P'58 44415 PPT1 I4115 rnntin PP.1 A4414 P'P.S A4414 P58 A4415 P'P'T114115 rnnrrr CANS4 P18 44415 PPT1 I4115",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "expressing transgenic lines were also determined.A concomitant increase $( 7 0 \\% )$ in formic acid was observed with the expression of FvOXDC in soya bean transgenic lines (Figures 2b and 3b). Thus, $F V O X D C$ expression was correlated with the reduced level of OA in soya bean and grass pea and reduced $\\beta$ -ODAP level in grass pea. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Reduction in OA content resulted in increased levels of some micronutrients ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Micronutrients play a crucial role in human and animal health, and thus,it is desired to generate transgenic plants with higher levels of these components (Gupta et al.,2015;Hefferon,2015). Because OA isa strong chelator of divalent cations,especially calcium， therefore，we were interested to determinethe micronutrient contents in FvOXDC-expressing transgenic soya beanand grass pea seeds.Calcium and other micronutrients such asmagnesium,zinc,iron,sodium and potassium were analysed byenergy-dispersive $\\mathsf { X }$ -rayfluorescence analysis (EDXRF)．A marked increase in the levels of calcium，magnesium,zinc,iron and manganese in the seeds was recorded.Calcium level increased more than two folds in low-oxalate transgenic pSOVA and pSPM9 lines of soya bean (Figures 2c and 3c).In the seeds of both pSOVA and pSPM9 line,a significant increase in the levels of other nutrients such as Mg,Fe,Zn and Mn was also noticed in comparison with the control seeds (Figures 2d-g and 3d-g).The content of calcium，magnesium，zinc，iron and manganese in grass pea seeds was also significantly increased (Figure 4c-g). These data suggested an increased concentration of micronutrients in the seeds of low-oxalate transgenic soya bean and grass pea. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Reduced OA content led to enhanced tolerance to S.sclerotiorum ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sclerotinia sclerotiorum pathogenicity is associated with OA (Dutton and Evans,1996).Therefore,we tested the response of transgenic soya bean and grass pea，constitutively expressing FvOXDC,to the S.sclerotiorum infection.Transgenic soya bean and grass pea and wild-type plants were infected with S.sc/erotiorum as described in Experimental procedures using mycelia suspension，and the progression of disease symptoms was monitored for different time intervals.Inoculated leavesof transgenic and wild types were considered as infected with ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a) 1.2 (b) 0.6 (c) 3 (d) 2.5   \n(mp@/ootg) plae lilexo 108 0.6 KxxxxxxxxxxxxxxxxxxxxXXXX 0.3 xXXXxXXXXxxXXxxxxXXXxxxXXXX XxXXXXXXXXXXXXXXXxXxXXXXXXx 区1xxxxxxxxxxxxxxxxxxxxxxxxx -xXXXXxxXXXXXXXXxxXXxXXXXX epee HXXXXXxxXXXxxXXXXXXxxxXXXXXXX2 HXXXxxxxxxxxxxxxXXX H区XxxxxxxxxxxxxxxxxxxXX2 epoe 1xxxxxxxxxXxxxxxxxxxxxxxXXXX I区XxxxxxxxxxxxxxxxxxxxxxxX 1xxxxxxxxxxxxxxxxxxxxxxxx xxxxxxXxXXxxxXxxxxxxxxXXXX2 0.2 0.4 区xxXX xXXxxXX 区xxxxxxx T区xxxXX 0.2 0.1 工区XXXXXX区 HxxxxxxxxxX2 HXXXXXxxXXxxxxXX HXXXxXxXXXXXXX2 0.0 0.0 0 0 connuon P.P.b-65144 P.5----45 P..11-35144 P:/--1144 crnnirn P.P.5-65144 PP.----55 P..51-55144 bP:/--1144 ennern P.P.b-65144 p./-35155 P.P.11-55144 P:./--1144 cenniin PP.5-65-44 pP./-65143 P.P.11-55145 PP:/1--1144   \n(e) 7 (f) 4.5 (g) 3   \n[rre pller tulnetraee 6 (zurre plte) tuanaer ug 4 HXxXXXXXXXXXXXxXXXXXXXXXXXXXX ee 54321 0 区 HXXXXXXXXXXXXXXXXXXXXXXXXXX IZXXxxxxxxxxxxxxXXX xXxxxxxxxXxXxxxxXXXXX KXXXxXXXXXXXXXXXXxxxXXXXX 53252515 HXXXXXXXXXXXXXXXXXXXXXXX Hxxxxxxxxxxxxxxxxxxxx1 XXXXXXXXXXXXXXXXXXXXX 0 HXXXXXXXXXX HZXXXXXXXXXXXXXXXXXXXXXXXXX H区xxxxxxxxxxxxxxxxxxxxxxX xxxxxxxxxxxxxX 1xxxxxxxxXxxXxXxxXxxxxXX connern P.5.4-65144 PP.---145 P.P.55-55144 P./--1144 PPt-41:4 p.P./--5-43 P.P.31-65144 P:/--1144 ceonern P.P.5-65144 p.:./---145 P.535-55144 P:./5-11141 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "S.sclerotiorum when the symptoms of tissue browning and lesion formation appeared. Compared to the nontransgenic wild type,FvOXDC-expressing transgenic leaves displayed a substantial delay in the lesion progression (Figure 5a,b).Lesion intensity was also low in transgenic pSOVA lines of both soya bean and grass peaas compared to their corresponding wild-type plants (Figure 5c,d). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Quantitative proteomic analysis revealed unaltered protein profile in the seeds of transgenic plants ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Seeds of transgenic soya bean and grass pea were examined for their protein profile using isobaric tags for relative and absolute quantitation (iTRAQ) analysis and compared to the wild type as described in Experimental procedures.To understand protein profile of the transgenic and wild-type seeds,4 plex iTRAQ labels were used. Proteins of the wild type were labelled with 114 and 115,whereas proteins of the transgenic soya bean were labelled with 116 and 117.In case of grass pea,proteins isolated from wild type were labelled with 114 and 115，whereas proteins isolated from transgenic grass pea were labelled with 116 and 117.iTRAQ analysis revealed unaltered protein profiles in the seeds of transgenic and wild-type soya bean and grass pea (Figure S3a,b and Tables S1 and S2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Transgenic soya bean and grass pea resembled wild-type plants with respect to growth and developmental phenotype and physiology ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Transgenic soya bean and grass pea were compared with wildtype plants,either in the primary transgenic populations or in the subsequent generations,and there were no observable differences in phenotype，development or fertility in any of five independent transgenic line of each soya bean (pSOVA,pSPM9) and grass pea (pSOVA) transgenic lines.Transgenic lines were also checked for their field performance by transplanting them in the experimental field alongside wild-type plants and randomly replicated for further generations.Transgenic plants were normal ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a) 0.8 (b) 0.9 (c) 2.5 (d) 2.5   \n00 0.1 ZxXXXXXXXXXXXXXXXXXXXXXXXXXXX2 1区xxxxxxxxxxxxx2 HXXXXX8 xxxxxxxxxXX 工X8X8XXXX 8 0.1 1xXXXxxxXXXXXXXXxXXxXXXxXXXX HRXXXXXXXXXXX HX HxxxxxxxX HxXxxxxxxx er HxxxxxxxxXXX H区xx 区XXXXXXXXXXX 3888888888888888888888 XXXXXXXXXXXXXXXXX （rrrre pller tulneteg 2 15 105 I区XXXXXXXXXXX2 XXXXXXXXXXXXXXXXXXXX KXXxxXxXxxXxXxxXxxXXXX2 HXXXXXXXXXXXXXXXXXXXXXXXX HXxxxxxxxxxxxxxxxx> 0 0 0 0 crnnern S.P.5.7 44115 P.P..9 44444 P5.5.5.14415 PP.4.44 44414 cronein P.P.17 44445 P.P..9 44444 P'50.7. 44413 PP4.44 44414 connirn PAA4 P'5..6.:44415 PP4.44 44414 crnnirn P.P.55 44455 P5TA44 P'P444 44414   \n(e) 2.5 (f) 1.6 (g) 1.6   \ner HXXXXXXXXXXXXX xx Ixxxxxxxxxxxxxxx2 Hxxxxxxxxxxxxxxxxxxxxx 1[XxXxxXxxxxxxxxxxxxXXXX2 0.2 1 I区xxxxxxxxxxxxxxxxxxxxx2 KxxxxxxxxxxxxxxxxxxxxxX (xxxxxxxxxxXXXxxxxxXxXX2 XXxxxxxxxxxxxxxxxxxxXX 0.2 IxxxxxxxxxxxxxxxxxX 区XXXXXXXXXXXXXXXXXXXX -【XXXXXXXXXXXXXXXXXXXXXXXX XxxXxxxxxxxxxxxXXxx 8888888888888888888 0 0 0 connern PA44 P'50.6. 44415 P.t4.44 4414 Ceonrtr 8.P.5.7 44115 P'PT.L A4414 PPT.6 44413 PP.444 A4414 Coonerr S.P.1S A4415 P'PT.9 44444 P5T6.-44415 P':444 44414 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "invegetative growth，and their morphology was normal as compared to the wild-type plants.Transgenic plants were similar in flowering time,vigour or total yield as observed for wild type. Moreover，expression of FvOXDC did not affect the net photosynthetic rates or other physiological parameters，including stomatal conductance and transpiration rate. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "With long exposure of plant breeding techniques and genetically modification through transgenic technology,there has been a substantial success in augmenting the nutritional value of food crops.Efforts have been made to improve the quality and quantity of macronutrients such as protein/amino acids,oils/fats and carbohydrates as well as to increase the bioavailabilityof micronutrients,vitamins and antioxidants through transgenics and breeding.In soya bean,most of the work was carried out to improve seed protein quality (Cunha et al.，2011；Nishizawa et al.,2010;Qi et al.,2011),oil content (Kajikawa et al.,2008; Li et al.，201O)，biotic resistance (Cunha et al.，2010;Dang and Wei,2007; McLean et al.,2007;Tougou et al.,2007) and abiotic resistance (DeRonde etal.,2004;Valente et al.,2009). However, on the other hand，there have been limited efforts in the management of antinutrients and/or toxins,which are the byproducts of plant metabolism and considered as health hazards to humans and animals.OA is one of the known antinutritional factors,which has negative health concerns,when we consume crops containing high amount of OA,such as tomato,spinach, soya bean and grass pea. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Legumes are very challenging to regenerate and transform because somatic embryogenesis or organogenesis is found to be difficult (lantcheva et al.，2013).Here,in the present study,we have developed an efficient transformation method for both soya bean and grass pea using cotyledonary explants and embryo explants,respectively (Figures 1,S1 and S2).Further,to improve the nutritional quality of soya bean and grass pea by downregulating OA,we have developed transgenic plants expressing awell-characterized FvOXDC (Azam et al.， 2001， 2002; Chakraborty et al.，2002，2013；Kesarwani et al.，2000).Our results showed that there was a significant decrease in OA content in both the lines of pSOVA and pSPM9 (Figures 2aand 3a).Transgenic soya bean plants expressing FvOXDC in a seedspecific manner were superior in OA management than the constitutive lines. OA and $\\beta$ -ODAP contents of grass pea were alsoassayed biochemically,and their contents were found to be reduced (Figure 4a,b).Expression of FvOXDC in soya bean and grass pea not only led to a significant reduction in OA levels but also associated with a substantial increase in calcium,conceivably by down-regulating the content of OA that chelates calcium (Figures 2c,3c and 4c).We havealso found an increase in other elements such as iron，manganese，magnesium and zinc in transgenic lines of soya bean and grass pea (Figures 2d-g,3d-g and 4d-g).Previous reports suggested that the expression of $\\mathsf { C a } ^ { 2 + } / \\mathsf { H } ^ { + }$ exchangers can alter the sum of all the mineral nutrients (Cheng et al.，2005;Mei et al.，2007).However，in FvOXDCexpressing transgenic lines,the increase may be related to the high turnover of OA,which ultimately leads to an increase in these elements. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/426ee7a70a8c4f3ffb5e7a8a7e4b26568647938f6cc196587ad6c9b910ecdf94.jpg",
+        "img_caption": [
+            "Figure5TransgenicoeanndgrasspeaplantsshodanancedtoleranetoS.erotiorumifection.(ab)Leavesoftrasgencdild typeplantsfoanandgasspb)ereoulateditqalamoutfyelialspesiossibduderimetalpoded progression of the disease symptom was observed for $1 1 0 \\mathrm { ~ h ~ }$ postinoculation (hpi). (c,d) Relative lesion intensity was presented for the transgenic and wildtype plants of soya bean (c) and grass pea (d). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sclerotinia sclerotiorum is one of the most devastating,broadbased，necrotrophic，soilborne plant pathogens，which causes stem rot or white mould,with a host range of more than 400 species of plants,comprising crops,ornamental plants, trees and several weeds (Malencic et al.,201O).Studies with OA-deficient mutants have shown that this molecule is a key suppressor of plant defences, thus allowing the fungus to evade recognition (Williams etal.,2011).Therefore,the ability of S.sclerotiorum to infect FvOXDC-expressing low OA-containing transgenic soya beanand grass pea was tested.Infection assay performed with detached leaf revealed a noteworthy delay in lesion development and more tolerance to S.sclerotiorum infection by the FvOXDCexpressing transgenic lines compared to the wild type (Figure 5). These results also demonstrated that the generation of fungaltolerant soya bean and grass pea lines is also achievable by expressing FvOXDC.Previously，various transgenic plants,which can metabolize and/or degrade OA in an enzymatic manner, have been generated and shown to have enhanced tolerance to S.sclerotiorum (Cunha et al.,2010;Donaldson et al.,2001;Hu et al.，2003；Kesarwani et al.，2000;Walz et al.，2008).OA treatment suggested that FvOXDC is active in vivo as transgenic leaves of both soya bean and grass pea could resist the formation of brown lesion and yellowing caused by OA (Figure 1l). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Previous reports suggested that OA suppresses host defence by manipulating redox status (Cessna et al.，2ooo;Lehner et al., 2008；Williams et al.，2011).At the initial stage of disease establishment,OA induces a reducing environment in the host cells that suppresses host defence-related oxidative burst and callose deposition.However,at the later stage,OA promotes the generation of ROS in host tissue leading to programmed cell death which directly benefits the necrotrophic pathogens (Williams et al.， 2011)． Onthecontrary， nonpathogenic OA-deficient mutant is unable to alter host redox status (Cessna et al.,2000;Williams et al.,2011).Moreover, the effect of OA on host defence response might be mediated through phytohormone signalling pathways such as jasmonic acid (JA),ethylene (ET),abscisic acid (ABA) and salicylic acid (SA). It was suggested that OA induces JA, ET and ABA signalling pathways; however,it suppresses SA pathway in Brassica napus (Liang et al.，2009). Similarly，overexpression of OA-responsive WRKY family transcription factors revealed that JA/ET pathway is mainly active to defend Arabidopsis against S.sclerotiorum infection and OA stress (Chen et al.，2013).These observations are in agreement with an important role of the host JA/ET signalling pathway in response to necrotrophic fungal pathogens (Liang et al.，2008; Van Kan,2006;Yang et al.,2007;Zhao et al.,2007).Although wehave tested S.sclerotiorum tolerance of the FvOXDCexpressing transgenic lines of soya bean and grass pea (Figure 5), these transgenic lines might also exhibit an altered tolerance to other necrotrophic fungal pathogens such as Alternaria alternaria,Botrytis cinerea.Interestingly，manipulating host OA level through exogenous treatments has been shown to affect the infectivity of A.alternaria and B. cinerea (Schoonbeek et al., 2007;Tian et al.,2006). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To investigate the performance of the FvOXDC-expressing soya bean and grass pea，we have analysed the agronomic attributes of transgenic plants and compared with the wild type.Visible morphological changes such as plant height,leaf pattern and morphology, flowering pattern and timing,pod and seed setting as well as number of pods per plant and number of seeds per pod could not be recognized between wild type and FvOXDC-expressing lines.Although the seeds of transgenic linesaccumulated higher level of minerals than the wild type,it did not affect the plant growth and development (Figures 2-4). Inaprevious study，fruit-specific expression of FvOXDC in transgenic tomato lines was found similar in growth and development with their wild-type counterpart irrespective to a significant increase in mineral contents of fruits (Chakraborty et al.，2013)．Other studies also supported that increase in calcium content in transgenic plants did not affect the plant growth in tomato,potato and lettuce (Chung et al.，2010;Kim et al.，2006;Morris et al.，2008;Park et al.，2004，2009) Moreover，transgenic indica rice developed by endospermspecificexpression of soya bean ferritin foundto contain higher iron and zinc levels and showed normal phenotype,morphology and fertility (Vasconcelos et al.，2oo3).Altogether, these results suggested that the accumulation of mineral in seeds of the transgenic lines might not have an adverse effect on plant growth and development. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It was also important to determine seed proteins qualitatively and quantitatively to exclude any unintentional changes that may occur in transgenic seeds as a result of this genetic modification. Proteomic technology is very worthwhile to investigate protein variation due to innumerable changes during the transgenic modification of a crop (Natarajan et al.，2013).We have also evaluated the protein profiles of soya bean and grass pea seeds, usingproteomics'iTRAQ approach，because seeds or seedderived products are most consumed for these crops.Most of the proteins identified were checked for their differential expression, andwe foundno remarkable expression difference in the identified proteins (Figure S3a,b and Tables S1 and S2).To determine howa transgene might affect global gene expression or metabolism of the host plant,evaluation of transgenic plants can be performed at the levels of transcriptome,proteomics and metabolome (Ricroch et al.，2011). Previously，transcriptome profiling of about 24 Ooo genes of transgenic Arabidopsis expressing nptll/uidA revealed no noticeable difference with the wild type (El Ouakfaoui and Miki，20o5). Similarly，many researchersperformed profiling oftranscripts，proteinsand metabolites of transgenic plants without any significant differences (Barros et al.,2010;Cheng et al.,2008;Coll et al.,2009; Kogel et al.,201O). In conclusion,we have developed genetically modified soya bean and grass pea with improved nutritional quality and enhanced tolerance to fungal pathogen without any adverse effect on plant growth and development and seed protein quality. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Construction of FvOXDC expression vectors ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Overexpression of $F V O X D C$ in soya bean and grass pea was performed using pSOVA (for soya bean and grass pea)and pSPM9(for soya bean）constructs.To overexpress FvOXDC specifically in soya bean seeds,the coding sequence of FvOXDC was cloned under the regulation of the promoter of a soya bean gene encoding LEA protein GmPM9 by replacing the CaMV35S promoter of pSOVA (Kesarwani et al.，2000)with the GmPM9 promoter (Lee et al.,200O).pSPM9 was mobilized into Agrobacterium tumefaciens strain EHA105 using the helper strain HB101:: pRK2013 via the triparental mating technique (Van Haute et al., 1983). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Transformation and selection of transgenic events of soya bean ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cotyledonary node explants were excised from 7- to 10-day-old seedlings germinated on germination medium [Gamborg's B-5 basal medium (G5893)with $3 \\%$ sucrose and $1 \\ \\mathrm { m g / L }$ benzyl amino purine (BAP)，pH adjusted to 5.6-5.8]. After agroinfection， cotyledonary node explants weretransferred to co-cultivation medium [Gamborg's B-5 basal medium (G5893) with $3 \\%$ sucrose, $2 0 0 ~ \\mu \\mathrm { M }$ acetosyringone, $0 . 2 5 { \\mathrm { ~ m g / L } }$ gibberellic acid (GA3), $1 \\ m \\mathsf { M }$ dithiothreitol (DTT)，1 mM sodium thiosulphate (STS)，pH adjusted to 5.6] and maintained for 5 days. Further，explants were transferred to shoot inductionand selection medium [Gamborg's B-5 basal medium (G5893), $3 \\%$ sucrose] supplemented with $1 . 5 ~ \\mathsf { m g } / \\mathsf { L }$ BAP， $0 . 2 5 { \\mathrm { ~ m g / L } }$ GA3, $2 5 0 ~ \\mathrm { m g / L }$ cefotaxime and $7 5 ~ \\mathrm { m g / L }$ kanamycin. Three- to 7-cmlong shoot buds were transferred to rooting media consisting of $\\%$ MS basal media with $3 \\%$ sucrose, $0 . 5 ~ \\mathrm { m g / L }$ IAA, $5 0 ~ \\mathrm { m g / L }$ kanamycin and $2 5 0 ~ \\mathrm { m g / L }$ cefotaxime, $\\mathsf { p } \\mathsf { H } ~ 5 . 8$ Plantlets with well-developed roots were taken out from the medium,and the roots were rinsed in water to remove agar and transferred to small pots containing sterilized agro peat and vermiculite $( 2 : 1 )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Transformation and selection of transgenic events of grass pea ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Embryo explants were used to transform FvOXDC gene to grass pea.Explants were excised from overnight-soaked seeds and then agro-infected and transferred to co-cultivation medium (Gamborg's B-5 basal medium, $3 \\%$ sucrose, $0 . 5 ~ \\mathsf { m g / L }$ NAA, $0 . 5 ~ \\mathsf { m g / L }$ BAP， $1 \\ m \\mathsf { M }$ DTT，1 mM sodium thiosulphate and $0 . 2 ~ \\mathsf { m M }$ acetosyringone, $\\mathsf { p H } ~ 5 . 6 )$ and incubated at $2 3 ^ { \\circ } C$ for 5 days. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Further，explants were transferred to shoot induction medium (Gamborg's B-5 basal medium, $3 \\%$ sucrose with $0 . 5 ~ \\mathsf { m g / L }$ NAA and $1 \\ \\mathrm { m g / L }$ BAP，pH 5.6-5.8) and selected on $1 0 0 ~ \\mathrm { { m g / L } }$ kanamycin.Subculturing was performed at an interval of 15 days on shoot induction medium till shoots appeared.Small plantlets were excised and transferred to root induction medium (Gamborg's B-5 basal medium with $3 \\%$ sucrose, $0 . 1 \\ \\mathrm { m g / L }$ IBA, ${ \\mathsf { p H } } 5 . 6 )$ forrooting.Transformed plants were maintained in the growth room before being transferred to the experimental plot. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Nucleic acid isolation and analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To confirm the integration of FvOXDC in the putative transgenic plant genome，genomic DNA was extracted from leaf tissue L $\\cdot 1 0 0 \\ \\mathrm { m g } )$ using the DNeasy plant mini kit (Qiagen,Duesseldorf, Germany).The stable integration of the FvOXDC gene in the transgenic soya bean and grass pea plants was determined via PCR using the forward and reverse primers ( $5 ^ { \\prime }$ -GCGAAGTGGCCATTCAGCTTCAGC-3'）and 0 $5 ^ { \\prime }$ -CAGCTCTCTCAAAGCACCAGGCTC-3), respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Immunodetection ofFvOXDC ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Crude proteins were extracted from soya bean and grass pea transgenic plants and their respective controls.From each sample, $1 0 0 ~ \\mu \\ g$ of total protein was then separated on a $12 . 5 \\%$ SDSpolyacrylamide gel electrophoresis.Proteins from SDS-PAGE gel were transferred onto nitrocellulose Hybond membrane by electrotransfer (GE Biosciences,Little Chalfont,UK).The membrane was probed with affinity-purified oxalate decarboxylase polyclonal antibody in combination with alkaline phosphataseconjugated goat anti-rabbit IgG,using NBT-BCIP reaction. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Decarboxylation assay ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The decarboxylation activity of $F V O X D C$ was determined using $^ { 1 4 } { \\mathsf { C } }$ oxalic acid (GE Biosciences) as a substrate using a method described previously (Mehta and Datta,1991). $1 0 0 ~ \\mu \\ g$ of soluble protein from each biological replicate was used for the decarboxylation assay.Samples were analysed in triplicate，and the mean value was calculated.One unit of decarboxylase activity is equivalent to $1 \\ \\mu \\mathrm { m o l } / \\mathrm { m } \\ ^ { 1 4 } \\mathrm { C - C O } _ { 2 }$ produced at $3 7 ^ { \\circ } \\mathsf C$ The activity data were expressed as the means $\\pm \\mathsf { S D }$ of at least three independent experiments. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "OAtreatment to leaves ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The assay was performed according to Kesarwani et al. (2000) withslight modifications. Young leaves (three each)were detached from transgenic (soya bean/grass pea)and control (soya bean/grass pea) plants.Both transgenic and control leaves were then immediately dipped in $2 0 ~ \\mathsf { m M }$ OA solution $\\mathsf { p H } ~ 4 . 0$ = Negative control was imposed by dipping the leaves in water. All the leaves were incubated in a plant growth chamber at $2 2 - 2 4 ^ { \\circ } C$ under 16-h/8-h photoperiod for $2 4 \\mathrm { ~ h ~ }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Extraction and determination of OA and formicacid ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Oxalic acid and formic acid were quantified using OA and formic acid detection kit according to the manufacturer's protocol (BoehringerMannheim/R-Biopharm，Darmstadt, Germany). Briefly,each sample was crushed into fine powder using mortar and pestle and then further suspended in $5 0 0 ~ \\mu \\ L$ of MQ water. Homogenization was performed usinga PRO 2oo homogenizer for five cycles of 30 s each. Homogenate was then centrifuged at $1 3 \\ 0 0 0 \\ g$ for 15 min at room temperature,and the supernatant was collected.Oxalate and formate contents were measured using $1 0 0 ~ \\mu \\iota$ of the supernatant in triplicate,and the absorbance was read at 590 and $3 4 0 ~ \\mathsf { n m }$ ，respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Determination of $\\mathfrak { \\textbf { \\beta } }$ -ODAP ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Estimation of $\\beta$ -ODAP content from the transgenic and control plants was performed according to Rao (1978).To $1 0 0 ~ \\mu \\iota$ of seed extract, $2 0 0 ~ \\mu \\iota$ of $3 \\textsf { N } \\mathsf { K O H }$ was added and the tubes were placed on boiling water bath for $3 0 ~ \\mathrm { m i n }$ .Afteralkali hydrolysis, $7 0 0 ~ \\mu \\iota$ of water was added to the tubes so that the final volume of the reaction is $1 \\ m L$ followed by the addition of $2 m L$ $o$ -phthalaldehyde(OPT) reagent. Samples were mixed and allowed to stand for $1 5 \\mathrm { \\ m i n }$ to develop yellow colour.The absorbance was measured at $4 2 0 ~ \\mathsf { n m }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Determination of calcium and other micronutrients ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Total calcium and other micronutrients such as magnesium,zinc, iron and manganese were analysed by energy-dispersive X-ray fluorescenceanalysis (EDXRF;PANalytical Epsilon 5,Almelo,The Netherlands). EDXRF gives unique spectra for each sample analysed.Seeds were grounded into fine powder and dried; then, $6 0 ~ \\mathsf { m g }$ of dried seed powder was used to analyse the total calcium,magnesium,zinc, iron and manganese.A specific X-ray fluorescence signal emitted by the atoms after the photoelectric ionization was measured，and the radiation intensity of each element signal,which is proportional to the concentration of the element in the sample,isrecalculated internally froma stored set of calibration curves and can be shown directly in concentration units. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Morphological characterization and photosynthetic activity ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Plants were grown in the field,and the experiment was arranged inarandomized block design with three replicates.Plants were regularly watched for their morphological characters such as plant height, size of leaves,number of pods per plant and number of seeds per pod.Photosynthetic rates were measured with a GFS30oo portable photosynthesis measurement system (Walz, Effeltrich,Germany) after 6O days since they were planted.The experiment was performed at standard atmospheric (360 ppm $C 0 _ { 2 } )$ ，light conditions $( 7 5 0 ~ \\mu \\mathrm { m o l } / \\mathrm { m } ^ { 2 } / \\Sigma )$ ，and humidity was maintained at $70 \\%$ .Photosynthetic rate of the leaf was measured on the basis of single-leaf measurement experiment which was conducted on three different leaves in each plant. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Detached leaf assays ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To analyse the S. sc/erotiorum infection in transgenic with respect to wild type，detached leaf assay was performed according to Cunha et al.(2010)with minor modifications.S.sclerotiorum were grown in potato dextrose broth (PDB)at $2 2 ^ { \\circ } C$ with 150 rpm till the growth of mycelial ball.Then, $2 { \\mathfrak { g } }$ of mycelial ball was homogenized into4 mLof /PDB and $1 0 ~ \\mu \\iota$ of mycelial suspension was inoculated on detached leaves of transgenic soya bean and grass pea as well as to their wild-type counterparts.Leaves were photographed at three different times (24,72 and $1 1 0 { \\mathrm { ~ h } } )$ ，and images were used to measure the infected area using the NIS Element AR3.2 64-bit software of multiobjective stereo zoom (AZ100) microscope (Nikon Instruments Inc.,Melville,NY,USA). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Protein isolation,trypsin digestion,iTRAQ 4-plex labellingand dataanalysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Total proteins were isolated from soya bean and grass pea seeds usingPlant Total Protein Extraction Kit (Sigma-Aldrich,St Louis, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MO,USA,Catalog number PE023O) according to the manufacturer's instructions.For proteomic analysis，biological duplicates from each of the two conditions (wild type and transgenic line) studied were handled simultaneously for iTRAQ labelling (AB Sciex，Foster City，CA)as per the manufacturer's instruction. Briefly, $7 0 ~ \\mu \\ g$ of protein from each sample was used for modified trypsin (Promega，Madison,WI,USA,V511）and incubated for $1 6 \\mathrm { ~ h ~ }$ at $3 7 ^ { \\circ } \\mathsf C$ ina $1 : 1 0$ trypsin-to-protein ratio (Maity et al., 2014).To label trypsin-digested peptides of each sample, different iTRAQ tags such as 114，115，116 and 117 were used following the manufacturer's protocol (AB Sciex).The data wereassimilated in an information-dependent acquisition (IDA) mode Analyst TF 1.6 software (AB Sciex) using the triple ToF 5600 (AB Sciex)．For the identification of proteins，Paragon algorithmina'Thorough $| \\mathsf { D } ^ { \\prime } \\rrangle$ search mode was employed against the SGD-Saccharomyces cerevisiae reference data set (6750protein sequences).The search parameters allowed modifications by IAA at cysteine residues,4 plex peptide iTRAQ labelling of the N-termini of peptides and of the side chainsof lysine.Weapplied $1 \\%$ global protein-level FDR for protein identification. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported by a research grant (BT/01/ CEIB/12/ll/o1） from the Department of Biotechnology and core research grant from the National Institute of Plant Genome Research.The Central Instrumentation facility at the National Institute of Plant Genome Research is acknowledged.VK and SG havereceived fellowship from the Council of Scientific and Industrial Research.AC and Ml have received fellowship from the National Institute of Plant Genome Research and the Department of Biotechnology,respectively. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Azam,M., Kesharwani, M., Natrajan,K.and Datta,A. (2oo1)A secretion signal is present in the Collybia velutipes oxalate decarboxylase gene. Biochem. Biophys. Res. Commun.289,807-812.   \nAzam,M.,Kesarwani,M.,Chakraborty, S.,Natarajan,K.and Datta,A. (2002) Cloning and characterization of $5 ^ { \\prime }$ -flankingregionofoxalatedecarboxylase gene from Flammulina velutipes. Biochem.J.367,66-75.   \nBarik，D.P.，Mohapatra,U.and Chand，P.K.(2Oo5)Transgenic grass pea (LathyrussativusL.):factorsinfluencingAgrobacterium-mediated transformation and regeneration.Plant Cel Rep.24, 523-531.   \nBarros,E.L.S.,Lezar,S.,Anttonen,M.J.,van Dijk,J.P.，Rohlig,R.M.，Kok,E.J. and Engel,K.H. (2010) Comparison of two GM maize varieties with a nearisogenicnon-GMvarietyusingtranscriptomics，proteomicsand metabolomics.Plant Biotechnol. J.8,436-451.   \nBateman,D.F.and Beer,S.V.(1965) Simultaneous production and synergistic actionof oxalic acid and polygalacturonase during pathogenesisby Sclerotiorum rolfsii.Phytopathology,55,204-211.   \nCessna,S.G.,Sears,V.E.,Dickman,M.B.and Low,P.S.(20oO) Oxalic acid,a pathogenicity factor for Sclerotinia sclerotiorum，suppresses the oxidative burst of the host plant. Plant Cell,12,2191-2199.   \nChai，W.，Liebman，M.，Kynast-Gales，S.and Massey，L.(2004)Oxalate absorption and endogenous oxalate synthesis from ascorbate in calcium oxalate stone formers and nonstone formers.Am.J. Kidney Dis.44,1060- 1069.   \nChakraborty,S.,Chakraborty,N.,Jain,D., Salunke,D.M.and Datta,A.(2002) Active site geometry of oxalate decarboxylase from Flammulina velutipes:role of histidine coordinated manganese in substrate recognition. Protein Sci.11, 2138-2147.   \nChakraborty，N.，Ghosh，R.，Ghosh,S., Narula,K.，Tayal，R.，Datta，A.and Chakraborty，S. (2013) Reduction of oxalate levels in tomato fruit and consequent metabolic remodeling following overexpression of a fungal Oxalate decarboxylase.Plant Physiol.162,364-378.   \nChen,X.,Liu,J.,Lin,G.,Wang,A.,Wang, Z.and Lu,G.(2013) Overexpression of AtWRKY28 and AtWRKY75 in Arabidopsis enhances resistance to oxalic acid and Sclerotinia sclerotiorum.Plant Cell Rep.32,1589-1599.   \nCheng,N.H.,Pittman,J.K.,Shigaki,T.,Lachmansingh,J.,LeClere,S.,Lahner, B.,Salt,D.E.et al. (20o5) Functional association of Arabidopsis CAX1 and CAX3 is required for normal growth and ion homeostasis.Plant Physiol.138, 2048-2060.   \nCheng，K.C.，Beaulieu,J.,lquira,E.，Belzile,F.J.，Fortin,M.G.and Stromvik, M.V.(2oo8) Effect of transgenes on global gene expression in soybean is within the natural range of variation of conventional cultivars.J.Agric.Food Chem.56,3057-3067.   \nChung,M.Y.,Han,J.S.,Giovannoni,J.,Liu,Y.,Kim,C.K,Lim,K.B.andChung, J.D.(201O)Modest calcium increase in tomatoes expressing a variant of   \nArabidopsis cation/H+ antiporter.Plant Biotechnol.Rep.4,15-21.   \nColl,A.，Nadal，A.，Collado，R.，Capellades，G.，Messeguer，J.，Melé，E., Palaudelmas,M.et al. (2009) Gene expresson profiles of MON810 and comparable non-GM maize varieties cultured in the field are more similar than are those of conventional lines.Transgenic Res.18,801-808.   \nCunha,W.G.，Tinoco,M.L.P.，Pancoti，H.L.，Ribeiro,R.E.and Aragao,F.J.L. (2010) High resistance to Sclerotinia sclerotiorum in transgenic soybean plants transformed to expressan oxalate decarboxylate gene.Plant Physiol. 59,654-660.   \nCunha,N.B., Murad,A.M., Cipriano,T.M.,Araujo,A.C.,Aragao,F.J., Leite,A.. Vianna，G.R.et al. (2011） Expression of functional recombinant human growth hormone in transgenic soybean seeds.Transgenic Res.20,811-826.   \nDang，W.and Wei，Z. (20o7）An optimized Agrobacterium-mediated transformation for soybean for expression of binary insect resistance genes. Plant Sci.173,381-389.   \nDeRonde,J.A., Laurie,R.N., Caetano,T.,Greyling,M.M.and Kerepesi,I. (2004) Comparative study between transgenic and non-transgenic soybean lines proved transgenic lines to be more drought tolerant. Euphytica,138,123-132   \nDeshmukh,R., Sonah,H.,Patil,G., Chen,W., Prince,S.,Mutava,R., Vuong,T. et al.(2014) Integrating omic approaches for abiotic stress tolerance in soybean.Front Plant Sci.5,1-12.   \nDonaldson,P.A.,Anderson,T.,Lane,B.G.,Davidson,A.L.and Simmonds, D.H. (2001) Soybean plants expressing an active oligomeric oxalate oxidase from the wheat gf-2.8 (germin) gene are resistant to the oxalate-secreting pathogen Sclerotinia sclerotiorum.Physiol.Mol.Plant Pathol.59,297-307.   \nDutton,M.V.and Evans,C.S.(1996) Oxalate production by fungi: its role in pathogenicity and ecology in the soil environment. Can. J.Microbiol. 42, 881-895.   \nEl Ouakfaoui，S.and Miki，B.(20o5）The stability of the Arabidopsis transcriptome in transgenic plants expressing the marker genes nptll and uidA.Plant J.41,791-800.   \nFoster,J., Kim,H.U.,Nakata,P.A.and Browse,J.(2012)A previously unknown Oxalyl-coA synthetase is important for oxalate catabolism in Arabidopsis. Plant Cell,24,1217-1229.   \nGupta,R.K.,Gangoliya,S.S.and Singh,N.K.(2015) Reduction of phytic acid and enhancement of bioavailable micronutrients in food grains.J.Food Sci. Technol. 52,676-684.   \nGwtek,M., Czech,N.,Muc-Wierzgo,M., Grochowska-Niedworok,E.,Kokot,T. and Nowakowska-Zajdel，E.(2014) The active role of leguminous plant components in type 2 diabetes.Evid.Based Complement.Alternat. Med. 293961, 1-12.   \nHefferon，K.L.（2015)Nutitionallyenhancedfoodcrops；progressand perspectives.Int.J.Mol.Sci.16,3895-3914.   \nHeller,A.and Witt-Geiges,T. (2013) Oxalic acid has an additional, detoxifying function in Sclerotinia sclerotiorum pathogenesis.PLoS One,8,8e72292.   \nHolmes,R.P.and Kennedy,M. (20oo) Estimation of the oxalate content of foods and daily oxalate intake.Kidney Int.57,1662-1667   \nHolmes，R.P.，Assimos,D.G.and Goodman,H.O.(1998)Genetic and dietary influences on urinary oxalate excretion. Urol. Res.26,195-200.   \nHu,X, Bidney,D.., Yalpani, N., Duvick,J.P., Crasta,O., Folkerts,O.and Lu,G. (2003)Overexpression of a gene encoding hydrogen peroxide-generating Oxalate oxiaase evokes aeTense responses in suntiower.PIant Pnysiol. 13s, 170-181.   \nHurkman,W.J.，Tao,H.P.and Tanaka,C.K.(1991) Germin-like polypeptides increase in barley roots during salt stress.Plant Physiol.97,366-374.   \nlantcheva,A.,Mysore,K.S.and Ratet,P. (2013)Transformation of leguminous plants to study symbiotic interactions.Int.J.Dev.Biol.57,577-586.   \nKabbage,M., Yarden,O.and Dickman,M.B.(2015) Pathogenic atributes of Sclerotinia sclerotiorum:switching from a biotrophic to necrotrophic lifestyle Plant Sci.233,53-60.   \nKajikawa,M.,Matsui, K.,Ochiai,M.,Tanaka,Y., Kita,Y.,Ishimoto,M.,Kohzu, Y.et al. (2oo8) Production of arachidonic and eicosapentaenoic acids in plants using bryophyte fattacid△6-desaturase，△6-elongase，and △5- desaturase genes. Biosci. Biotechnol. Biochem.72,435-444.   \nKesarwani，M.，Azam，M.，Natarajan，K.，Mehta，A.and Datta，A.(2000) Oxalate decarboxylase from Collybia velutips:molecular cloning and its over expression to confer resistance to fungal infection in transgenic tobacco and tomato.J.Biol.Chem.275,7230-7238.   \nKim,C.K.,Han,J.S,Lee,H.S.,Oh,J.Y.,Shigaki,T,Park,S.H.andHirschi,K.(006) Expression of an Arabidopsis CAX2 variant in potato tubers increases calcium levels with no accumulation of manganese.Plant CellRep.25,1226-1232.   \nKim,K.S.,Min, J.Y.and Dickman,M.B.(20o8) Oxalic acid is an elicitor of plant programmed cell death during Sclerotinia sclerotiorum disease development. Mol. Plant Microbe Interact.21,605-612.   \nKo,K.P.，Park,S.K.,Yang,J.J.,Ma,S.H.，Gwack,J.，Shin,A., Kim,Y.et al. (2013) Intake of soy products and other foods and gastric cancer risk: a prospective study.J. Epidemiol.23,337-343.   \nKogel,K.H.,Voll,L.M.，Schäfer,P.,Jansen,C.,Wu,Y.,Langen,G.,Imani,J. et al.(2010） Transcriptome and metabolome profiling of field-grown transgenic barley lack induced differences but show cultivar-specific variances.Proc.Natl Acad. Sci.USA,107,6198-6203.   \nLathika,K.M.,Inamdar,K.V.,Tarachand,U., Singh,B.B.and Raghavan,K.G. (1995)Determination of urinary oxalate using banana oxalate oxidase: comparison with immobilized enzyme.Anal. Lett.28,425-442.   \nLee,P.F.,Hsing,Y.I.C.and Chow,T.Y.(20oO) Promoter activity of a soybean gene encoding a seed maturation protein,GmPM9.Bot. Bull.Acad.Sinica, 41, 175-182.   \nLehner,A,Meimoun,P.,Errakhi,R.,Madiona,K.,Barakate,M.and Bouteau,F. (2008) Toxic and signalling effects of oxalic acid: oxalic acid-natural born killer or natural born protector? Plant Signal. Behav.3,746-748.   \nLi，R.，Yu,K.，Hatanaka,T.and Hildebrand,D.F.(2010) Vernonia DGATs increase accumulation of epoxy fatty acids in oil.Plant Biotechnol.J8, 184-195.   \nLiang,Y.,Srivastava,S.,Rahman,M.H, Strelkov,S.E.and Kav,N.N.V.(2008) Proteome changes in leaves of Brassica napus L.as a result of Sclerotinia sclerotiorum challenge.J.Agric.Food Chem.56,1963-1976.   \nLiang，Y.，Strelkov,S.E.and Kav,N.N.V.(20o9) Oxalic acid-mediated stress responses in Brassica napus L.Proteomics,9,3156-3173.   \nLumsden,R.D.(1979) Histology and physiology of pathogenesis in plant disease caused by Sclerotinia species.Phytopathology,69,890-896.   \nMaity，S.，Basak,T.， Bhat,A.，Bhasin，N.，Ghosh，A.，Chakraborty，K．and Sengupta,S. (2014) Cross-compartment proteostasis regulation during redox imbalance induced ER stress. Proteomics,14,1724-1736.   \nMalencic，D.，Kiprovski，B.，Popovic，M.，Prvulovic，D.，Miladinovic,J.and Djordjevic,V.(2010)Changes in antioxidant systems in soybean as affected by Sclerotinia sclerotiorum (Lib.) de Bary.Plant Physiol. Biochem.48,903-908.   \nMassey,L.K.,Palmer,R.G.and Horner,H.T. (2001) Oxalate content of soybean seeds (Glycine max: Leguminosae)，soy foods and other edible legumes. J. Agric.Food Chem.49,4262-4266.   \nMcLean，M.D.，Hoover，G.J.，Bancroft，B.，Makhmoudova，A.，Clark，S.M., Welacky,T.，Simmonds,D.H.et al.(2oo7) Identification of the ful-length Hs1pro-1 coding sequence and preliminary evaluation of soybean cyst nematode resistance in soybean transformed with Hs1pro-1 cDNA. Can. J. Bot. 85,437-441.   \nMehta,A.and Datta,A.(1991) Oxalate decarboxylase from Collybia velutipes. Purification, characterization,and cDNA cloning.J.Biol. Chem.266,23548- 23553.   \nMei，H.,Zhao,J.，Pittman,J.K., Lachmansingh,J.，Park,S.and Hirschi，K.D. (2007）In planta regulation of the Arabidopsis $\\mathsf { C a } ^ { 2 + } / \\mathsf { H } ^ { + }$ antiporter CAX1. J.Exp. Bot. 58,3419-3427.   \nMorris,J.,Hawthorne,K.M.,Hotze,T.,Abrams,S.A.and Hirschi, K.D.(2008) Nutritional impact of elevated calcium transport activity in carrots.Proc. Natl Acad.Sci. USA,105,1431-1435.   \nNatarajan,S.，Luthria，D.，Bae，H.，Lakshman，D．and Mitra，A.(2013) Transgenic soybeans and soybean protein analysis:an overview.J.Agric. Food Chem.61,11736-11743.   \nNishizawa，K.,，Takagi，K.，Teraishi，M.，Kita，A.and Ishimoto，M.(2010) Application of somatic embryos to rapid and reliable analysis of soybean seed components by RNA interference-mediated gene silencing.Plant Biotechnol. 27,409-420.   \nPark,S.,Kim,C.K.,Pike,L.M.,Smith,R.H.and Hirschi,K.D.(2004) Increased calcium in carrots by expression of an Arabidopsis ${ \\mathsf { H } } ^ { + } / { \\mathsf { C } } { \\mathsf { a } } ^ { 2 + }$ transporter. Mol. Breed. 14,275-282.   \nPark,S.,Elless,M.P.,Park,J.,Jenkins,A., Lim,W., Chambers,E.and Hirschi, K.D.(2009)Sensory analysis of calcium-biofortified lettuce.Plant Biotechnol. J. 7, 106-117.   \nQi,Q.,Huang,J., Crowley,J.,Ruschke,L,Goldman,B.S.,Wen,L.and Rapp, W.D.(2011） Metabolically engineered soybean seed with enhanced threonine levels: biochemical characterization and seed specific expression of lysine-insensitive variants of aspartate kinases from the enteric bacterium Xenorhabdus bovienii.Plant Biotechnol.J.9,193-204.   \nRao，S.L.N.(1978)A sensitive and specific calorimetric method for the determination of $\\textstyle { \\mathfrak { a } } ,$ β-diaminopropionic acid and the Lathyrus sativus neurotoxin.Anal. Biochem.86,386-395.   \nRicroch，A.E.，Bergé,J.B.and Kuntz，M.(2011） Evaluation of genetically engineered crops using transcriptomic,proteomic,and metabolomic profiling techniques.Plant Physiol.155,752-1761.   \nRobertson,W.and Peacock,M.(198O) The cause of idiopathic calcium stone disease: hypercalciuria or hyperoxaluria? Nephron,26,105-110.   \nSchoonbeek,H.J., Jacquat-Bovet,A.C.，Mascher,F.and Métraux,J.P. (2007) Oxalate-degrading bacteria can protect Arabidopsis thaliana and crop plantsagainst Botrytiscinerea.Mol.Plant Microbe Interact.20，1535- 1544.   \nSidhu,H., Schmidt,M.E., Cornelius,J.G.,Thamilselvan,S., Khan,S.R., Hesse,A. and Peck,A.B.(1999) Direct correlation between hyperoxaluria/oxalate stone disease and the absence of the gastrointestinal tract-dweling bacterium Oxalobacter formigenes: possible prevention by gut recolonization or enzyme replacement therapy.J.Am.Soc. Nephrol.10, S334-S340.   \nSoyStats (2013)A publication of the American Soybean Association.http:// soystats.com/2013soystats/.   \nSmartt,J. (199O) Pulses of the classical world.In Grain Legumes: Evaluation and Genetic Resources(Summerfield，R.J.and Elis，E.H.，eds)，pp.190-200. Cambridge: Cambridge Univ.Press.   \nTian,S.,Wan,Y., Qin,G.and Xu,Y. (2006) Induction of defense responses against Alternaria rot by different elicitors in harvested pear fruit.Appl. Microbiol. Biotechnol. 70,729-734.   \nTougou,M.，Yamagishi,N.，Furutani，N.，Shizukawa,Y.,Takahata,Y.and Hidaka,S.(2oo7) Soybean dwarf virus-resistant transgenic soybeans with the sense coat protein gene.Plant Cell Rep.26,1967-1975.   \nUloth,M.B.,Clode,P.L.,You,M.P.and Barbetti,M.J.(2015) Calcium oxalate crystals:an integral component of the Sclerotinia sclerotiorum/Brassica carinata pathosystem.PLoS One,10,e0122362.   \nValente,M.A.S.,Faria,J.A.Q.A.，Soares-Ramos,J.R.L.，Reis,P.A.B.，Pinheiro, G.L.,Piovesan,N.D.,Morais,A.T.et al. (2oo9) The ER luminal binding protein (BiP)mediates an increase in drought tolerance in soybean and delays drought-induced leaf senescence in soybean and tobacco.J. Exp. Bot.60, 533-546.   \nVan Haute,E.,Joos,H.,Maes,M.,Warren,G., Van Montagu,M.and Schell, J.(1983） Intergeneric transfer and exchange recombination of restriction fragments cloned in pBR322:a novel strategy for the reversed genetics of the Ti plasmids of Agrobacterium tumefaciens. EMBO J.2,411-417.   \nVan Kan,J.A.L.(2Oo6) Licensed to kill: the lifestyle of a necrotrophic plant pathogen.Trends Plant Sci.11,247-253.   \nVasconcelos,M.,Datta, K.,Oliva,N., Khalekuzzaman,M.,Torrizo,L., Krishnan, S.，Oliveira，M.et al. (2oo3)Enhanced iron and zinc accumulation in transgenic rice with the ferritin gene.Plant Sci.164,371-378.   \nWalz,A.,Zingen-Sell,I.,Loeffler,M.and Sauer,M. (2oo8) Expression of an oxalate oxidase gene in tomato and severity of disease caused by Botrytis cinereaand Sclerotinia sclerotiorum.Plant.Pathol.57,453-458.   \nWilliams, B., Kabbage,M., Kim, H.J., Britt, R.and Dickman, M.B.(2011) Tipping the balance:Sclerotinia sclerotiorum secreted oxalic acid suppresses host defenses by manipulating the host redox environment.PLoS Pathog.7, e1002107.   \nXiong,J.L.,Xiong, Y.C.,Bai,X.,Kong,H.Y.,Tan,R.Y., Zhu,H.,Siddique,K.H. et al.(2O15)Genotypic variation in the concentration of β-N-oxalyl-L $\\cdot , a ,$ $\\beta$ -diaminopropionic acid (β-ODAP) in grass pea (Lathyrus sativus L.) seeds is associated with an accumulation of leaf and pod $\\beta$ -ODAP during vegetative and reproductive stages at three levels of water stress.J.Agric.Food Chem. doi:10.1021/acs.jafc.5b0172963,6133-6141.   \nYan,Z.Y., Spencer,P.S., Li, Z.X.,Liang, Y.M.,Wang,Y.F.,Wang, C.Y.and Li, F.M.(2oo6) Lathyrus sativus(grass pea)and its neurotoxin ODAP. Phytochemistry,67,107-121.   \nYang,B.,Srivastava,S.,Deyholos,M.K.and Kav, N.N.V.(20o7) Transcriptional profiling of canola (Brassica napus L.）responses to the fungal pathogen Sclerotinia sclerotiorum.Plant Sci.173,156-171.   \nZambre,M.，Chowdhury，B.，Kuo,Y.H.，Montagu,M.V.，Angenon,G.and Lambein,F. (2oo2) Prolific regeneration of fertile plants from green nodular ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "callus induced from meristematic tissue in Lathyrus sativus L. (grasspea).Plant Sci. 163,1107-1112. Zhao,J.,Wang,J.,An,L.,Doerge,R.W., Chen,Z.J., Grau, C.R.,Meng,J.et al. (2007）Analysis of gene expression profiles in response to Sclerotinia sclerotiorum in Brassicanapus.Planta,227,13-24. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting information may be found in the online version of this article: ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Figure S1 Transformation and regeneration of soyabean cotyledonary nodes under kanamycin selection,and recovery of transgenic plant.   \nFigure S2 Transformation and regeneration of grass pea embryos as explants under kanamycin selection,and recovery of transgenic plant.   \nFigure S3 Protein profiling of soya bean and grass pea seeds with iTRAQ technique.   \nTable S1 List of soya bean proteins identified and quantified through iTRAQ.   \nTable S2 List of grass pea proteins identified and quantified through iTRAQ. ",
+        "page_idx": 11
+    }
+]

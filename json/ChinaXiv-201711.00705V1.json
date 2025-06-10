@@ -1,0 +1,817 @@
+[
+    {
+        "type": "text",
+        "text": "基于云模型的冬小麦气候适宜度评价方法—以安徽省宿州市为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李　德}周文鳞² 杨霏云(1．安徽省宿州市气象局 宿州234000;2.安徽省合肥市气象局 合肥 236001;3．中国气象局气象干部培训中心 北京 100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要为建立冬小麦气候适宜度量化评价方法，本文基于云模型理论，依据光、温和水界限指标，采用“3En\"法则确定云参数，建立日照、气温和降水对小麦生长影响的云模型。运用积分回归法，确定权重系数，采用加权综合法和几何平均法，确定不同生育期和全生育期气候适宜度，利用1954—2013年安徽省宿州市各县(区)冬小麦单产和1995—2013年观测地段产量因素等资料进行检验。结果表明，日照适宜度可用左半云，气温和降水适宜度可用梯形云来表达。计算的冬小麦全生育期气候适宜度，与宿州市各县(区)冬小麦气候产量呈显著或极显著正相关关系；与观测地段的冬小麦气候产量、千粒重、每穗籽粒数和乳熟期株高呈显著正相关，相关系数分别为 $0 . 5 8 8 \\ 0 ( P { < } 0 . 0 1 )$ 、 $0 . 7 5 6 \\ 1 ( P { < } 0 . 0 1 )$ 、 $0 . 6 7 0 ~ 7 ( P { < } 0 . 0 1 )$ 和 $0 . 4 6 4 \\ 3 ( P { < } 0 . 0 5 )$ 。返青—拔节期、抽穗—乳熟期2个时期的气候适宜度与单位面积穗数、每穗籽粒数的相关系数分别为 $0 . 5 5 8 ~ 9 ( P { < } 0 . 0 5 ) , ~ 0 . 7 1 0 ~ 7 ~ ( P { < } 0 . 0 1 )$ （20和 $0 . 7 3 6 1 ( P < 0 . 0 1 ) . 0 . 7 4 4 2 ( P < 0 . 0 1 )$ ，拔节—抽穗期气候适宜度与单位面积穗数的相关系数为0.6498 $( P { < } 0 . 0 1 )$ 。1954—2013年宿州市日照与降水适宜度以每10年0.005和0.008的速度降低，气温适宜度以每10年0.028的速率升高。研究结果可作为评价宿州冬小麦对气候条件的适应性及制定相应策略的参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词冬小麦云模型‘ $3 E \\mathrm { n }$ \"法则气候适宜度气候产量观测产量气候因子生育期宿州中图分类号： $\\mathbf { S } 1 1 { + } 9$ $\\mathrm { S } 1 6 2 . 5 \\substack { + 3 }$ 文献标识码：A 文章编号：1671-3990(2016)07-0944-13",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Evaluation of climate suitability of winter wheat based on cloud model analysis - A case study of Suzhou, Anhui Province ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI De1, ZHOU Wenlin², YANG Feiyun³ (1.Suzhou Meteorological Bureau inAnhuiProvince,Suzhou 2340oo,China;2.Hefei Meteorological Bureau inAnhuiProvince, Hefei 236001,China; 3.China Meteorological Administration Training Center, Beijing 10o081, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractBasedonthreelimiting indexes(light,temperatureand water),anevaluationsystemwassetupalongwithitsparameters for normal cloud models and the $\\cdots 3 E \\mathrm { n } ^ { \\prime \\prime }$ rule to evaluate the suitability of winter wheat to climatic factors.The weighted comprehensiveasessmentand geometricmean method wereusedtodeterminetheclimatesuitabilityof winter wheatforthe whole growth period,whilethe integralregression method wasusedtodeterminethe weightcoefficientsforeach growth stage.The calculatedvalues wereanalyzedinrelation to winter wheatyield in everydistrictofSuzhouCityof AnhuiProvince from1954to 2013and theactualobservedyieldandits’componentsfroml995to2O13.Theresultsshowed thatthetrapeziumcloudmodelwas suitableforairtemperatureandprecipitationsuitabilityevaluation，whiletheleft-halfcloud modelwassuitableforsunshine suitabilityanalysis.Terewassignificantlypositivecorrelationbetweentheclimatesuitabilityofwinter wheatforthewhole growth periodandclimate-drivenyield,o-grainweight,erelnumberperear,ndplantheightatmilk stageinthestudyarea.The corresponding correlation coefficients were 0.588 0 $( P < 0 . 0 1 \\$ ,0.7561 $( P < 0 . 0 1 \\$ ,0.6707 $( P < 0 . 0 1$ ）and 0.4643 $( P < 0 . 0 5$ ）, respectively.Thecorelationcoeffcients betweentheclimate suitabilityandpanicle perunit areaofwinter wheat were 0.5589 $P <$ 0.05), 0.649 8 $( P < 0 . 0 1 )$ and 0.736 1 $( P < 0 . 0 1 )$ at returning green-jointing stage, jointing-heading stage and heading-milk ripe stage, respectively.There was asignificantly positive correlation betweenclimate suitability and kernel number per ear—0.710 7 $( P < 0 . 0 1 )$ 1 and 0.744 2 $( P < 0 . 0 1 )$ ）at returning green-jointing stage and heading-milk ripe stage,respectively. The suitability of sunshine and precipitationdecreasedattheratesofOOoandOO08perdecade.However,thesuitabilityoftemperatureinthstudyareaincreased attherateof0.028perdecade in1954-2013.Thestudylaidthescientificreferenceforevaluating adaptabilityand developing response strategies of winter wheat to climatic conditions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsWinter wheat; Cloud model; $\\cdot _ { 3 E \\mathrm { n } } ,$ rule;Climate suitability;Climatic yield; Observed yield; Climate factor; Growth period; Suzhou city ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "农业气候适宜性评价问题，是农业气象学的主要研究内容之一[1-2]，特别是在全球气候变暖背景下，客观定量评价气候条件对农作物生长发育的影响，为农业生产采取相应措施应对或适应气候变化具有重要意义[3-5]。如何客观定量评价气候条件对农作物生长发育影响的优劣程度，国内外学者进行了大量研究1。在评价方法上，一是采用某时段若干气候要素特征值的比较法来研判气候条件对农作物生长发育适宜程度的传统方法[3.6-7]，二是针对传统方法不能客观反映农作物与气候条件之间相互作用与影响过程具有不确定性的特点，基于模糊数学理论，提出用气候适宜度的概念[8-9]来评价光温水各要素及其综合影响，并在作物气候适宜性评价[10-12]、作物产量评估[13-14]与发育期预测[15]、农业生态气候区划、种植制度与种植区域变化[16-18]和不同时间尺度气候适宜度模型及其相关参数客观化等方面进行了研究[2,19]。然而，自气候适宜度概念提出以来，一直存在着生物学意义不清的缺陷。同时，一旦用一个隶属度函数来描述气候要素对农作物影响的模糊性，其模糊概念就被强行纳入到精确计算之中而不再有模糊性。隶属函数即转化为仅是物理意义上的确定关系而非统计学上的随机性。其实，就连模糊集理论创始人Zadeh本人也只是用定性推理方法近似指定隶属度函数[20]。因此，建立能反映农作物-气候相互作用过程中的随机性和模糊性的气候适宜度评价模型[1,8]，是农业气象学需要解决的重大问题之一。另一方面，由于农作物生长环境的复杂性和多变性,至今人们所能掌握的仅是某些关键期或时段的一些定性或离散化定量指标，很难掌握精细到每一时刻(即时间间隔足够小)气候条件对农作物影响的精确指标，因而也就不能确定气候条件对其影响的精确物理关系。因此，气候适宜度评价模型构建需要另辟蹊径。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "云模型是一种定性知识描述与定性概念及其定量数值之间的转换模型[20-21]，目前已在图像分类[22]、土地生态评价[23]、防洪减灾能力评估[24]、水库诱发地震风险[25]和麦田喷药气象适宜等级评定[26]等方面有了应用，但在作物气候适宜度评价方面应用较少。本文以位于黄淮冬麦区淮北平原中部的安徽省宿州市冬小麦生长期间光、温、水逐日气候要素测量值，结合不同生育时段的光、温、水气候指标，基于云模型理论的特点与优势[20-21]，确定不同生育期日照、温度和降水云模型参数，结合计算机仿真技术，得到不同时期气候要素影响的云隶属度，用于评价气候条件对冬小麦生长发育影响的优劣程度，从而为科学鉴定冬小麦对气候条件的适应性和制定相应种植策略提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究地概况与资料来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "安徽省宿州市位于淮北平原中部，介于 $3 3 . 3 ^ { \\circ } \\sim$ $3 4 . 7 ^ { \\circ } \\mathrm { N }$ 、 $1 1 6 . 2 ^ { \\circ } { \\sim } 1 1 8 . 2 ^ { \\circ } \\mathrm { E }$ 之间，属亚热带与暖温带气候过渡区，其下辖泗县、灵璧县、萧县、砀山县和埆桥区，常年冬小麦种植面积在40万 $\\mathrm { h m } ^ { 2 }$ 左右，冬小麦一般在秋季10月中、下旬播种，翌年6月初成熟。冬小麦生育期间多年平均降水量为 $3 0 0 ~ \\mathrm { { m m } }$ 左右、 $\\geq 0$ ℃积温为 $2 3 0 0 \\mathrm { ~ \\textdegree d } .$ 、日照时数约 $\\mathrm { ~ 1 ~ } 3 0 0 \\mathrm { ~ h ~ }$ 基本能满足冬小麦生长需求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1995一2013年冬小麦生育状况等资料，取自宿州市农业气象试验站观测地段观测资料。观测地段位于宿州市中部埔桥区内，在当地属于中等肥力水平，种植的品种：1995—2009年为‘皖麦 $1 9 ^ { , }$ 12010—2013年为‘皖麦 ${ \\bar { 5 } } 2 ^ { \\circ }$ 。观测地段冬小麦生育状况等观测方法与标准，按照《农业气象观测规范》执行[27]。以1995—2013年度冬小麦各发育期的算术平均日期作为宿州市各县(区)冬小麦生育期常年平均日期(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6ad6203f22c6c5e266719451f8ad798cb684e009f03f88b963d8a20482bb8c5.jpg",
+        "table_caption": [
+            "表1 1995—2013年宿州市冬小麦主要生育期平均日期",
+            "Table 1Average date of primary growth stages of winter wheat from 1955 to 2013 in Suzhou Cit "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>发育时期 Growth stage</td><td>播种一三叶期 Seeding-trileaf stage</td><td>三叶期一越冬开始 Trileaf stage- wintering start</td><td>越冬期 Wintering stage</td><td>返青一拔节期 Returning green- jointing stage</td><td>拔节一抽穗期 Jointing-heading Heading-milk stage</td><td>抽穗一乳熟期 ripe stage</td><td>乳熟一成熟期 Milk ripe- maturity stage</td></tr><tr><td>平均日期(月-日) Average date (month-day)</td><td>10-11—11-15</td><td>11-16—12-31</td><td>01-01—02-10</td><td>02-11—03-20</td><td>03-21—04-20</td><td>04-21—05-20</td><td>05-21—06-05</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "冬小麦生育期气候资料为1954—2013年宿州市各县(区)冬小麦生长期间逐日日照、气温和降水量测量值，取自各县(区)国家气象观测站。统计1954—2013年冬小麦各生育期逐日气温的平均值、日照时数和降水量累计值，作为各年度冬小麦各生育期的平均温度、日照和降水量。按照世界气象组织(WMO)规定，取某气象要素1981一2010年的平均值作为冬小麦各生育期某要素的气候平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1954一2013年度宿州市及泗县、灵璧、萧县、砀山县和埽桥区冬小麦逐年单产资料，取自宿州市统计局整编统计年鉴。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 云模型理论原理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "云模型由概率论和模糊数学演化发展而来，能较好刻画事件发生的模糊性和随机性[20-21]。其定义为：设 $\\varOmega$ 是一个精确数值表示的定量论域， $C$ 是 $\\varOmega$ 上的定性概念，即一个描述性的语言值或指标，对于任意一个论域中的元素 $x$ ，都存在一个有稳定倾向的随机数 $\\mu ( x ) \\in [ 0 , 1 ]$ ，称之为 $x$ 对 $C$ 的隶属度，则 $x$ 在论域 $\\varOmega$ 上的分布称为云模型(cloud model)，简称为云(cloud)，每个 $[ x , \\mu ( x ) ]$ 称为一个云滴[20]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "云模型由期望 $( E \\mathbf { x } )$ 、熵 $( E \\mathfrak { n } )$ 和超熵 $( H \\mathrm { e } ) 3$ 个数字特征或参数来表征[20-21]。其中: $\\boldsymbol { E } \\mathbf { x }$ 标定了云对象在论域中的位置，即云的重心位置，它完全属于该集合。 $\\scriptstyle { E \\mathfrak { n } }$ 是概念模糊度的度量，其大小直接决定了在论域中可被某一概念所接受的元素数，即亦此亦彼性的裕度。 $H \\mathrm { e }$ 也称为熵的熵，是 $\\scriptstyle { E \\mathfrak { n } }$ 的不确定性度量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "正态云模型是在正态分布和钟形隶属函数的基础上发展起来。李德毅等[20-21]已证明其具有一定普适性。以正态云模型为基础可以进行各种云运算，获得到左、右半云、组合云等等。当期望值 $( E \\mathbf { x } )$ 是一个区间，即 $\\scriptstyle { \\mathrm { a < } } x <  { \\mathrm { b } }$ (其中a为下限、b为上限)时，$\\mu ( x ) { \\equiv } 1$ ，此时正态云即为更具普遍性的梯形云；当$\\mathbf { a } { = } \\mathbf { b }$ 时，梯形云又蜕化为正态云。若令c为论域中某一定性概念的界限值，当 $x { < } \\mathrm { c }$ 或 $x { > } { \\mathsf { c } }$ 时，即论域中的元素值 $\\mathbf { \\Psi } _ { x }$ 不大于 $\\mathrm { ~  ~ c ~ }$ 或不小于c时， $\\mu ( x ) { \\equiv } 1$ ，正态云即转化为右半云或左半云[20]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时，李德毅等 $[ 2 0 - 2 1 ]$ 还给出了正态云的生成算法，即:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled { 1 } E \\mathrm { n } ^ { \\prime } = \\mathrm { N o r m } ( E \\mathrm { n } , H \\mathrm { n } ^ { 2 } )$ 即生成以 $\\ E \\mathrm { n }$ 为期望值、 $H \\mathrm { e } ^ { 2 }$ 为方差的正态随机数 $E \\mathrm { n } ^ { \\prime }$ · ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled { 2 } x _ { i } = \\mathrm { N o r m } ( E \\mathrm { x } , E \\mathrm { n } _ { i } ^ { \\prime 2 } )$ 生成以 $\\boldsymbol { E } \\mathbf { x }$ 为期望值、 $\\left. E \\mathrm { n } _ { i } \\right.$ 方差的正态随机数 $x _ { i }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 令 $[ x _ { i } , \\mu _ { i } ( x ) ]$ 为云滴，其隶属度：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { i } ( \\boldsymbol { x } ) = \\exp \\left[ - \\frac { \\left( x _ { i } - E \\mathbf { x } \\right) ^ { 2 } } { 2 E \\mathbf { n } _ { i } ^ { \\prime \\ 2 } } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 重复步骤 $\\textcircled{1} \\sim \\textcircled { 3 }$ ，直到产生 $N$ 个云滴为止，即生成云图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 基于云模型的冬小麦气候适宜度评价方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "光、温、水对冬小麦生长发育的影响，具有一定的随机性和模糊性[1-2]。随机性表现同一气候要素的相同量值对冬小麦不同生育时期，或不同年份某气候要素同一量值对冬小麦同一生育期生长发育的影响是不确定的。模糊性表现为各气候要素对冬小麦生长发育影响的优劣程度或适宜程度是难以确定的量化指标，但是这种影响又是客观存在的。因此，依据云模型理论将气候条件对冬小麦生长发育影响的云模型进行定义：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设 $\\varOmega$ 是一地某气候要素可能出现情形的论域$C$ 是论域 $\\varOmega$ 内某气候要素影响冬小麦生长发育的描述值，对于论域 $\\varOmega$ 中任一元素(即量值 $x$ )其对冬小麦生长发育的影响程度，都存在一个有稳定度倾向的随机数 $\\mu \\left( x \\right) \\in \\left[ 0 , \\ 1 \\right]$ ，称之为某气候要素在某一数值$x$ 时对冬小麦生长发育影响程度 $C$ 的隶属度，那么，该气候要素 $x$ 在其所有可能取值的论域 $\\varOmega$ 上的分布称之为云模型，简称云，每个 $[ x , \\mu ( x ) ]$ 称之为一个云滴，云滴的分布具有随机性和模糊性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，基于云模型理论的冬小麦气候适宜度评价方法，可归结为光、温、水各要素影响冬小麦生长发育的云模型构建。而气候要素云模型构建，主要是依据气候要素影响冬小麦生长发育的一些离散化的关键指标，如最适宜温度、最高温度、最低温度、最适宜需水量等等，运用云模型参数构建方法，确定云模型的参数得到云模型。然后，再由气候要素的实测值或预报值驱动云模型，得到气候要素对冬小麦生长发育影响的隶属度。依据隶属度的大小，实现气候条件对冬小麦生长发育影响优劣程度的量化评价。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于具有无确定度信息(即没有条件约束)的数据，如某一时段年降水量、年蒸散量等数据，可以采用逆向正态云算法[20-21]求取云模型的3个数字特征。对于有确定度(即有约束性)的问题，如当日照时数高于某一界限指标时，或气温、降水量在一定范围内时，对冬小麦生长发育的适宜程度最大等，其云模型的3个参数，一般地， $E x$ 即取其约束性的描述值或界限值[21,26]。 $E \\mathrm { n }$ 可按照 $\\mathfrak { s } E \\mathrm { n }$ 法则[20-21]，取$\\boldsymbol { E } \\mathbf { x }$ 距离上限(a)或下限(b)值的1/3来表示[20,28]，即当影响关系为左半云时， $E \\mathrm { n } { = } ( E \\mathrm { x } { - } \\mathrm { a } ) / 3$ ；为右半云时,$E \\mathrm { n } { = } ( \\mathsf { b } { - } E \\mathrm { x } ) / 3$ 。而 $H \\mathrm { e }$ ，一般根据量值的波动情况，并结合经验确定[21,26]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 冬小麦不同生育时期气候适宜度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "冬小麦生长发育过程中，某一生育时期的光照适宜度 $[ \\mu ( S )$ 、温度适宜度 $\\mu ( T )$ 、降水适宜度 $\\mu ( R )$ 相互作用决定一个生育时期的气候适宜度[2.29]。即:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mu _ { j } \\big ( S , T , R \\big ) = \\sqrt [ 3 ] { \\mu _ { j } ( S ) \\cdot \\mu _ { j } ( T ) \\cdot \\mu _ { j } ( R ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mu _ { j } ( S , T , R )$ 为冬小麦第 $j$ 个生育时期的气候适宜度， $\\mu _ { j } ( S ) , \\mu _ { j } ( T ) , \\mu _ { j } ( R )$ 分别为第 $j$ 个生育时期的日照适宜度、温度适宜度、降水适宜度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4冬小麦全生育期气候适宜度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "冬小麦各个生育时期的生理生态特征不同，对气候条件的需求也不同。同时，各生育时期气候因子对冬小麦生长发育及产量形成的影响程度亦有差异。因此，为客观反映不同时期气候因子对冬小麦生长发育的影响强度，计算全生育期气候适宜度，必须为各生育期气候适宜度设定权重。本文采用加权法[19]确定冬小麦全生育的气候适宜度。权重系数采用一元积分回归法确定，即分别计算逐生育期日照时数、气温和降水量对冬小麦产量的积分效应系数 $( a _ { \\mathrm { s } j }  ~ a _ { \\mathrm { t } j }  ~ a _ { \\mathrm { r } j } )$ ，每个生育期的积分效应系数的绝对值除以所有生育期的积分效应系数的绝对值的总和，作为每个生育期日照时数、气温和降水量适宜度的权重系数。以各要素逐生育期的隶属度乘以对应的权重系数，然后相加，得到冬小麦全生育期日照时数、气温和降水量的适宜度。即:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { \\mathrm { s } j } = \\left| a _ { \\mathrm { s } j } \\right| / \\sum _ { j = 1 } ^ { n } \\left| a _ { \\mathrm { s } j } \\right| b _ { \\mathrm { t } j } = \\left| a _ { \\mathrm { t } j } \\right| / \\sum _ { j = 1 } ^ { n } \\left| a _ { \\mathrm { t } j } \\right| b _ { \\mathrm { t } j } = \\left| a _ { \\mathrm { r } j } \\right| / \\sum _ { j = 1 } ^ { n } \\left| a _ { \\mathrm { r } j } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu ( S ) = \\sum _ { j = 1 } ^ { n } b _ { \\mathrm { s j } } \\mu _ { j } \\left( S \\right) \\ \\mu ( T ) = \\sum _ { j = 1 } ^ { n } b _ { \\mathrm { i j } } \\mu _ { j } \\left( T \\right) \\ \\mu \\left( R \\right) = \\sum _ { j = 1 } ^ { n } b _ { \\mathrm { r j } } \\mu _ { j } \\left( R \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $b _ { \\mathrm { s } j \\setminus }$ $b _ { { \\mathrm { t } } j } .$ $b _ { \\mathrm { r } j }$ 分别为第 $j$ 个生育期日照时数、气温和降水量隶属度的权重系数， $\\mu ( S )$ 、 $\\mu ( T )$ 、 $\\mu ( R )$ 分别为冬小麦全生育期日照时数、气温和降水量适宜度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仿照式(2)，采用几何平均法，得到冬小麦全生育气候适宜度。即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu { \\big ( } S , T , R { \\big ) } = { \\sqrt [ { 3 } ] { \\mu ( S ) \\cdot \\mu ( T ) \\cdot \\mu ( R ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 模型检验与应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为检验本文建立的冬小麦气候适宜度云模型能否客观反映气候条件对作物生长发育的影响，将1954一2013年安徽省宿州市埔桥区及泗县、灵璧、萧县和砀山县冬小麦各年度的单产资料，先分解为趋势产量和气候产量，前者的变化主要是由社会经济因子造成，后者则主要取决于气候因子。本文采用正交多项式，结合3年滑动平均法，拟合得到趋势产量，与实际产量对比，得到1954一2013年的气候产量。经检验，各地气候产量符合正态分布。再利用1954一2013年宿州市埔桥区和泗县、灵璧、萧县和砀山县国家气象观测站气象要素资料，计算各县(区)逐年冬小麦气候适宜度，与对应的冬小麦气候产量作相关分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同时，利用1995—2013年宿州市农业气象试验站冬小麦观测地段的逐年单产 $( \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } )$ 、千粒重(g)每穗籽粒重(g)、单位面积穗数 $( \\times 1 0 ^ { 4 }$ 个 $\\cdot \\mathrm { h m } ^ { - 2 }$ 和乳熟期植株高度(cm)等资料，分析与其气候适宜度的关系，检验气候适宜度对冬小麦关键生长要素的解释能力。单产和部分产量因素和植株高度测定方法，均按照文献[27]执行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 日照适宜度云模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "日照条件由少到多的变化，对冬小麦生长发育的影响程度表现为由“不适宜\"到“适宜”，在“适宜”程度时的日照时数称为临界值。由于在一地的长期栽培、选育，促使农作物会对日照条件具有很强的生态适应性[30-31]，而一地日照时数的气候平均值,反映一定时期日照条件的平均状态。因此，本文取冬小麦各生育期间日照时数的气候平均值，作为日照时数适宜度最大时的临界值。表2为宿州市埔桥区冬小麦不同生育期间日照时数的气候平均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一般地，当日照时数超过临界值时，日照适宜度 $[ \\mu ( x ) ]$ 最大，即 $\\mu ( x ) \\equiv 1$ 。低于临界值时，光照条件不足，会对冬小麦的正常生长发育产生影响，日照适宜度随之降低，且偏少气候平均值越多，日照适宜度越小，直至衰减为 $\\mu ( x ) { = } 0$ 。同时，其在衰减过程中，其变化具有明显的随机性和模糊性。因此日照适宜度选用左半云模型来表达。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba42587328d796418c970b0bc5996d7c627c3a57b5e1d92759d464aa78d99282.jpg",
+        "table_caption": [
+            "表21981—2010年宿州市埽桥区冬小麦不同生育期日照时数气候平均值Table2Climaticaverageofsunshine hoursofwinter wheatatdiferent growth stages from1981to2O10in YongqiaoDistrictofSuzhou City"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>发育时期 Growth stage</td><td>播种一三叶期 Seeding-trileaf stage</td><td>三叶期一越冬开始 Trileaf- wintering start</td><td>越冬期 Wintering stage</td><td>Reviving- jointing stage</td><td>返青一拔节期 拔节一抽穗期 Jointing- heading stage</td><td>抽穗一乳熟期 Heading-milky ripe stage</td><td>乳熟一成熟期 Milk ripe-maturity stage</td></tr><tr><td>日照时数气候平均值 Climate mean of sunshine hours (h)</td><td>190.0</td><td>272.9</td><td>212.0</td><td>208.8</td><td>199.3</td><td>211.9</td><td>123.9</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据1.2节方法，得到埔桥区冬小麦不同生育期日照时数适宜度的云模型参数(表3)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用MATLAB语言，根据表3中各云模型参数，采用逆向云生成法[20]，取 500 个云滴，通过计算机仿真，生成埔桥区冬小麦各生育期日照时数适宜度$[ \\mu _ { j } ( S ) ]$ 云模型(图1), $j { = } 1 , 2 , \\ldots , 7$ ，即表1中的7个生育",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "时期。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图1和表3中 $\\boldsymbol { E } \\mathbf { x }$ 可以看出，由于不同生育期日照时数临界值不同，其云模型的 $\\boldsymbol { E } \\mathbf { x }$ 存在一定差异，但在日照时数少于 $\\boldsymbol { E } \\mathbf { x }$ 时，其对冬小麦生育影响的隶属度(即云滴)呈雾化状态，较好地刻画了日照条件低于临界值时，对冬小麦生育影响的不确定性，而非传统上建立的日照隶属度函数，只是一条平滑的曲线[10-13]，仅仅反映的是确定关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表3宿州市通桥区冬小麦不同生育期日照适宜度云模型参数 Table3CloudmodelparametersfortesunshinehourssuitabilityofwinterwheatatdifferentgrowthstagesinYongqiaoDistrictof Suzhou City "
+        ],
+        "table_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "模型参数 播种一三叶期 越冬期 返青一拔节期 拔节一抽穗期 抽穗一乳熟期 乳熟一成熟期三叶期一越冬开始  \np Modeler triledinage Trileaf-wintering start Wintering Reviving-jointing Jointing-heading Heading-milky MilitiptageEx 190.0 272.9 212.0 208.8 199.3 211.9 123.9En 63.33 90.97 70.67 69.60 66.43 70.63 41.30He 5.0 5.0 5.0 5.0 5.0 5.0 5.0b C0.80.60.40.2\\* ? ++ ++ +00 50 100_150 200 250 300 0 50 100 150 200 0 50 100 150 208福  \n0.6L0 50100150 200250 300 350 0 50 100 150 200 250 300 350 0 50100 150 200 250 300 350 0 50 100 150 200 250日照时数 Sunlight (h)",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图1宿州市捅桥区冬小麦不同生育期日照适宜度云模型 Fig.1Cloud models forthesunshinehourssuitabilityof winterwheatatdiferent growthstagesinYngqiaoDistrictofSuzhou City a:播种一三叶期;b:三叶期—越冬开始;c:越冬期;d:返青—拔节期;e:拔节—抽穗期;f:抽穗—乳熟期;g：乳熟—成熟期。a: sedingtotrileafstage;b:rileafstagetinteringstart;c:interingstage;d:revivingtojoitingstage;e:itingtoeadingstage;f: heading to milky ripe stage; g: milky ripe to mature stage. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用式(1)，当已知某生育时期的日照时数 $( x )$ ，可以仿真得到日照时数为某一量值时的一组云滴 $[ x , \\mu ( x ) ] ,$ 即同一日照时数在云模型中生成的云滴是随机的，或者说同一变量 $x$ 可以随机产生一组不同隶属度 $\\dot { \\boldsymbol { \\mu } } \\left( \\boldsymbol { x } \\right) _ { \\circ }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文在计算1954一2013年各县(区)冬小麦不同生育期日照时数所产生的云滴时，均取5个隶属度的平均值，作为某一年不同生育期日照时数的适宜度，即:",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecoagri.ac.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mu } _ { j } ( s ) \\mathrm { = } \\frac { 1 } { 5 } \\sum _ { i = 1 } ^ { 5 } { \\mu } _ { i } ( x )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $i { = } 1 , 2 , \\ \\ldots , 5$ ，即云滴 $[ x , \\mu ( x ) ]$ 的个数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 气温适宜度云模型",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "冬小麦不同生育时期对温度条件的要求不同，且存在最低、最高和最适宜温度，其中最适宜温度常常具有一定的幅度[10.31]。当温度处于最适宜范围内时，冬小麦生长良好，其温度适宜度 $[ \\mu ( x ) ]$ 最大，即 $\\mu ( x ) \\equiv 1$ 。当出现低于或高于冬小麦生长发育的最适宜下限和上限温度时，即温度处于最适宜温度下限值到当地多年平均最低气温值，或处于最适宜温度上限到当地多年平均最高温度之间时，温度适宜度会减小，减小规律具有随机性和模糊性。因此，温度对冬小麦生长发育的影响，具有梯形云特征[20]。本文采用梯形云来刻画。综合利用前人的研究成果[10-11,13],并结合宿州市多年农业气象服务经验，得到冬小麦各生育时期最低温度、最高温度和最适宜温度指标(表4)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据1.2节方法，得到埽桥区冬小麦不同生育时期温度适宜度的云模型参数(表5)。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/00c1e91f34028f4900cefd6c569c022ba1f87516648d7284f3c00341d8e25e48.jpg",
+        "table_caption": [
+            "Table 4Temperature indexes of winter wheat at different growth stages in Suzhou "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">生育期 Growth stage</td><td rowspan=\"2\">最低温度 Lowest temperature</td><td rowspan=\"2\">最高温度 Highest temperature</td><td colspan=\"2\">最适温度 Optimal temperature</td></tr><tr><td>下限Upper limit</td><td>上限 Lower limit</td></tr><tr><td>播种一三叶期 Seeding-trileaf stage</td><td>5.0</td><td>30.0</td><td>14.0</td><td>16.5</td></tr><tr><td>三叶期—越冬开始 Trileaf-wintering start</td><td>-1.5</td><td>25.0</td><td>5.5</td><td>7.5</td></tr><tr><td>越冬期Wintering stage</td><td>-5.0</td><td>15.0</td><td>1.0</td><td>3.0</td></tr><tr><td>返青一拔节期 Reviving-jointing stage</td><td>1.0</td><td>20.0</td><td>4.0</td><td>6.0</td></tr><tr><td>拔节—抽穗期 Jointing-heading stage</td><td>5.0</td><td>30.0</td><td>12.5</td><td>15.5</td></tr><tr><td>抽穗一乳熟期 Heading-milky ripe stage</td><td>10.0</td><td>32.0</td><td>19.5</td><td>22.5</td></tr><tr><td>乳熟—成熟期 Milk ripe-maturity stage</td><td>15.0</td><td>35.0</td><td>21.5</td><td>24.5</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/098f6c308221ecd26947851429e3326b17a64f6c83f8f096d4d1eda8ec3b94c2.jpg",
+        "table_caption": [
+            "表4宿州市冬小麦不同生育期温度指标",
+            "表5宿州市埽桥区冬小麦不同生育时期温度适宜度云模型参数 Table5Cloud modelparametersforthe temperature suitabilityofwinter wheatatdiferent growth stages in YongqiaoDistrictof Suzhou City "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生育期 Growth stage</td><td>Ex1</td><td>En1</td><td>Ex2</td><td>En2</td><td>He</td></tr><tr><td>播种一三叶期 Seeding-trileaf stage</td><td>14.0</td><td>3.00</td><td>16.5</td><td>4.50</td><td>0.5</td></tr><tr><td>三叶期—越冬开始 Trileaf-wintering start</td><td>5.5</td><td>2.33</td><td>7.5</td><td>5.83</td><td>0.5</td></tr><tr><td>越冬期Wintering stage</td><td>1.0</td><td>2.00</td><td>3.0</td><td>4.00</td><td>0.5</td></tr><tr><td>返青一拔节期 Reviving-jointing stage</td><td>4.0</td><td>1.00</td><td>6.0</td><td>4.67</td><td>0.5</td></tr><tr><td>拔节一抽穗期 Jointing-heading stage</td><td>12.5</td><td>2.50</td><td>15.5</td><td>4.83</td><td>0.5</td></tr><tr><td>抽穗一乳熟期 Heading-milky ripe stage</td><td>19.5</td><td>3.17</td><td>22.5</td><td>3.17</td><td>0.5</td></tr><tr><td>乳熟—成熟期 Milk ripe-maturity stage</td><td>21.5</td><td>2.17</td><td>24.5</td><td>3.50</td><td>0.5</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用MATLAB语言，根据表5中各云模型参数，采用逆向云生成法，取500个云滴，通过计算机仿真，生成通桥区冬小麦各生育期气温适宜度 $[ \\mu _ { j } ( T ) ]$ 云模型(图2)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图2可以看出，不同生育期温度处于适宜范围内时，其隶属度恒等于1。当出现低于或高于适宜的界限温度时，温度隶属度呈雾化状衰减，即温度的适宜度越来越小，直至降低为0。这与温度对冬小麦生育影响的生物学规律相一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同理，利用式(1)，取 1954一2013 年各县(区)某一年某生育期气温数据，可以得到5个云滴时的气温隶属度，并由其均值作为不同年份不同生育期内的气温适宜度 $[ \\mu _ { j } ( T ) ] _ { \\circ }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 降水适宜度云模型",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同作物或者同一作物不同品种的不同生育期，对水分的需求量存在差异。本文按照侯英雨等[2方法，即冬小麦某一生育时期(或阶段)的需水量 $( \\mathrm { E T _ { p } } )$ 是指在最适宜的土壤水分和肥力条件下，且田间正常发育、无病害并达到高产水平的特定作物的农田蒸散量。其计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E T } _ { \\mathrm { p } } = K _ { \\mathrm { c } } \\times \\mathrm { E T } _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { E T _ { 0 } }$ 为计算时段内参考作物蒸散量，采用国际粮农组织(FAO)推荐的 Penman-Monteith 模型(1998版)计算[32-33]。其中， $K _ { \\mathrm { c } }$ 为相应时段的作物系数，本文综合文献[34-37]获得(表6)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8 C 5 东 美 4 / 福 + 1 0 15 20 25 30 -5 0 5 10 15 20 25 -10 -5 0 5 10 15   \ngegr 1.0d e f g   \n8004 福   \n0.2 广 福 福 产 福 心 福   \n0   \n-5 0 5 10 15 20 0 15 20 2530 10 15 20 25 30 35 10 15 20 25 30 35 气温 Temperature (℃) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Cloud models fortemperature suitabilityof winter wheatatdiferent growth stages inYongqiao DistrictofSuzhou City a:播种一三叶期;b:三叶期—越冬开始;c:越冬期；d:返青一拔节期;e:拔节—抽穗期;f:抽穗—乳熟期;g：乳熟—成熟期。a: sedingtotrilafa;briftteingstart;:wtegsta;d:viingtjigstagjoitigtadingstaefadigto milky ripe stage; g: milky ripe to mature stage. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b10dde0acad52ef01eb1a7dcf8cdcddcbad4969d8668fead198d4c73c9b120df.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>月份Month</td><td>10</td><td>11</td><td>12</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>作物系数 Crop coefficient</td><td>0.71</td><td>0.94</td><td>0.89</td><td>0.80</td><td>0.92</td><td>1.06</td><td>1.41</td><td>1.30</td><td>0.63</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "淮北平原属雨养冬麦区，大气降水是冬小麦生长发育所需水分的主要来源[6.35,37]。一般地，降水量过多或过少，对冬小麦的生长发育均不利，即冬小麦生长发育对降水量的需求有一个适宜范围。在适宜降水量范围之内，冬小麦生长发育良好，气候适宜度可达到最大值。当降水量低于或超过适宜降水量下限或上限时，降水适宜度会随之减小。因此，降水量对冬小麦生长发育的影响与温度条件的影响类似，可以利用梯形云来刻画。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用文献[19]的成果，结合淮北平原气候生态特点，在拔节开始以前和进入拔节期以后，确定当降水量 $( R )$ 满足 $0 . 6 5 \\mathrm { E T _ { p } } { \\leqslant } R { \\leqslant } 1 . 2 0 \\mathrm { E T _ { p } }$ 时，气候适宜度 $[ ( x ) ]$ 最大，即 $\\mu ( x ) \\equiv 1$ 。返青一拔节期间，当降水量满足 $0 . 7 5 \\mathrm { E T _ { p } } { \\leqslant } R { \\leqslant } 1 . 5 0 ~ \\mathrm { E T _ { p } }$ 时，气候适宜度 $[ \\mu ( x ) ]$ 最大，即 $\\mu ( x ) \\equiv 1$ 。当 $R { < } 0 . 6 5 \\mathrm { E T _ { \\mathrm { p } } }$ 或 ${ < } 0 . 7 5 \\mathrm { E T _ { p } }$ 或$R { > } 1 . 2 0 \\mathrm { E T _ { p } }$ 或 ${ \\mathrm { > } } 1 . 5 0 { \\mathrm { E T } } _ { \\mathrm { p } }$ 时，降水量对冬小麦生长发育均不利，气候适宜度会随之减小，直至降至0。而$R { = } 0 . 6 5 \\mathrm { E T _ { p } }$ 或 $0 . 7 5 \\mathrm { E T _ { p } }$ 和 $R { = } 1 . 2 0 \\mathrm { E T _ { p } }$ 或 $1 . 5 0 \\mathrm { E T _ { p } }$ ，分别为相应生育时期适宜降水量的下限和上限指标。降水量为0和1960一2013年间降水量的最大值，分别作为降水量发生可能量值的限定指标(表7)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "依据1.2节方法，得到埽桥区冬小麦不同生育时期降水适宜度的云模型参数(表8)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用MATLAB语言，根据表8中各云模型参数，采用逆向云生成法，取500个云滴，通过计算机仿真，生成埔桥区各生育时期降水量适宜度 $[ \\mu _ { j } ( R ) ]$ 云模型(图3)。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bfbb64fc25157c9ff105e8c5d8d5034ce675edaee0da358b02c566af9e4825d.jpg",
+        "table_caption": [
+            "表6宿州市冬小麦各月作物系数 $( K _ { \\mathrm { c } } )$ （20Table 6Crop coefficients of winter wheat in each month in Suzhou City $( K _ { \\mathrm { c } } )$ （204号",
+            "表7宿州市冬小麦不同生育期水分指标",
+            "Table 7Water indexes of winter wheat at different growth stages in Suzhou City ",
+            "mm "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">生育时期 Growth stage</td><td rowspan=\"2\">需水量 Water requirement</td><td colspan=\"2\">适宜降水量 Optimal precipitation</td><td rowspan=\"2\">最大降水量 Highest precipitation</td></tr><tr><td>下限Upper limit</td><td>上限 Lower limit</td></tr><tr><td>播种一三叶期 Seeding-trileaf stage</td><td>38.2</td><td>28.7</td><td>45.8</td><td>157.4</td></tr><tr><td>三叶期—越冬开始 Trileaf stage-wintering start</td><td>48.5</td><td>36.4</td><td>58.2</td><td>130.5</td></tr><tr><td>越冬期Wintering stage</td><td>33.3</td><td>25.0</td><td>40.0</td><td>94.0</td></tr><tr><td>返青一拔节期 Reviving-jointing stage</td><td>60.5</td><td>45.4</td><td>90.8</td><td>160.6</td></tr><tr><td>拔节一抽穗期 Jointing-heading stage</td><td>100.7</td><td>65.5</td><td>120.8</td><td>202.1</td></tr><tr><td>抽穗一乳熟期 Heading-milky ripe stage</td><td>101.1</td><td>65.7</td><td>121.3</td><td>208.5</td></tr><tr><td>乳熟一成熟期 Milk ripe-maturity stage</td><td>42.2</td><td>27.4</td><td>50.6</td><td>213.1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表8宿州市桶桥区冬小麦不同生育期降水适宜度云模型参数 Table8Cloud modelparametersforthe precipitationsuitabilityofwinter wheatatdiferent growth stages in Yongqiao District of Suzhou City "
+        ],
+        "table_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生育时期 Growth stage Ex1 En1 Ex2 En2 He播种一三叶期 Seeding-trileaf stage 28.7 9.6 45.8 37.2 1.5三叶期—越冬开始 Trileaf stage-wintering start 36.4 12.1 58.2 24.1 1.5越冬期Wintering stage 25.0 8.3 40.0 18.0 1.5返青一拔节期 Reviving-jointing stage 45.4 15.1 90.8 23.3 1.5拔节一抽穗期 Jointing-heading stage 65.5 21.8 120.8 27.1 1.5抽穗一乳熟期 Heading-milky ripe stage 65.7 21.9 121.3 29.1 1.5乳熟—成熟期 Milk ripe-maturity stage 27.4 9.1 50.6 54.2 1.51.0[b 1.0c0.8 0.80.6 0.6 0.6 运0.4 n 0.4 0.4inseg 0.2 0 20 40 梦 中中计大 60 80 L 0.2 0 0 2040 60 80 100 120 140 0.2 % + 20 40 60 801.0[d 1.0e 1.0[ f 1.0rg800 800 806 0.80.6美4 物 40 40 y 0.4 0.2如0 0 0 00 20 40 60 0 50 100 150200 0 50 100150200 0 50 100 150200250降水 Precipitation (mm)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图3可以看出，不同生育期降水量在适宜范围内时，其隶属度恒等于1。当出现低于或高于适宜的界限降水量时，降水隶属度呈雾化状衰减，即降水的适宜度越来越小，直至降低为0。这与降水对冬小麦生育影响的生物学规律一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同时，由图3可以发现，播种一三叶期和乳熟一成熟期2个云图，左半云较右半云衰减趋势明显，即当降水量低于适宜值下限指标时，这2个时期降水适宜度的降低速度，明显快于降水量多于适宜值上限时的降低速度，表明降水偏少较偏多时的不利影响为大。这应是宿州市小麦生产需要注意的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同理，利用式(1)，取 1954—2013 年间各县 $( \\boxtimes )$ 某一年某生育期内的降水量数据，可以得到5 个云滴的降水隶属度，并由其均值作为某一年不同生育期的降水适宜度 $\\mu \\dot { \\boldsymbol { \\jmath } } ( R )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4冬小麦气候适宜度变化特征",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4.1冬小麦全生育期内光、温、水适宜度变化",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将1954一2013年宿州市埔桥区、泗县、灵璧、萧县和砀山县各年冬小麦气候适宜度进行平均，得到宿州市各年气候适宜度(图4)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图4可以看出，1954—2013年间，宿州市冬小麦日照适宜度和温度适宜度最高，平均值在0.9以上；降水适宜度最小，平均值在0.6以下，且降水适宜度的年际间波动幅度明显高于日照和温度适宜度，说明宿州市光、热资源一般能够满足冬小麦生长发育需求，但降水条件是冬小麦产量形成的限制因素。经相关统计分析，1954一2013年间，日照适宜度和降水适宜度呈下降趋势，10年下降速率分别为0.005和0.008。气温适宜度呈上升趋势，10年上升速率为0.028，且通过 $P { < } 0 . 0 1$ 的 $F$ 检验，表明气温对宿州冬小麦生长发育影响的正效应在增加，降水与日照时数的负效应在增大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 冬小麦全生育期气候适宜度变化特征",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图5是宿州市冬小麦全生育期气候适宜度的年际变化及其变化趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图5可以看出，1954—2013年间，宿州市冬小麦气候适宜度在0.7左右，但总体变化呈增加趋势，10年上升速率为0.002。从年际间变化看，1954—1960年为气候适宜度波动较大阶段。自1960年开始到1974年，气候适宜度变化平稳，且多为 $0 . 7 _ { \\circ }$ 其后，自1975年以来，气候适宜度又进入波动较大阶段，除1990一1994年为一个连续在0.7以上的时段外，其他年际间的气候适宜度基本上是在0.7的均值线附近作上下波动。但进入2003年后，气候适宜度总体上呈降低趋势。由是可见，在全球气候变化影响下，宿州气候对冬小麦生长发育产生的负效应正在增大，这在一定程度上增加了本区域冬小麦生产的气候风险。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca9e53810587056aa04c126a6b218df528f1b639806e2f68ec1557f954a94ca5.jpg",
+        "img_caption": [
+            "图4宿州市冬小麦全生育期光、温、水适宜度年际变化(1954一2013 年) Fig.4Inter-annual variationsofclimaticsuiabilitiesofannualsunshinehours,temperatureand precipitationduring winterwheat growth period in Suzhou City from 1954 to 2013 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/44aa2498abd64b92c20eb22bedddef386cf791bef7e01ca7d7ae4afea93977dc.jpg",
+        "img_caption": [
+            "图5宿州市冬小麦全生育期气候适宜度年际变化(1954—2013年)Fig.5Inter-annualvariationofclimatic suitabilityof winterwheatduring whole growth periodin Suzhou Cityfroml954 to 2013"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5气候适宜度与气候产量的关系",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "根据本文确定的方法和云模型参数，计算得到宿州市埽桥区及泗县、灵璧、萧县和砀山县冬小麦生育期间的气候适宜度，并计算与各自气候产量的相关系数(样本数量均为60个)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "结果表明，埽桥区、泗县、灵璧、萧县和砀山县气候适宜度与气候产量之间呈显著正相关关系，相关系数分别为 $0 . 3 1 4 1 ( P { < } 0 . 0 5 )$ 、 $0 . 3 3 2 7 ( P { < } 0 . 0 1 )$ /$0 . 3 2 1 \\ 1 ( P { < } 0 . 0 5 )$ 、0.2732( $_ { ( P < 0 . 0 5 ) }$ 和 $0 . 3 3 2 7 ( P { < } 0 . 0 1 )$ _，其中灌溉条件相对较弱的泗县和砀山县相关系数最大，通过 $P { < } 0 . 0 1$ 的显著性检验。说明本文设计的冬小麦气候适宜度模型能客观反映宿州市冬小麦的气候适宜性水平及其动态变化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6气候适宜度与产量因素的关系",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "利用1995—2013年宿州市农业气象试验站冬小麦观测地段的监测数据，选取地段单产、单位面积穗数、每穗籽粒数、每穗籽粒重、千粒重和乳熟期植株高度等，检验其与气候适宜度之间的相关关系。采取正交多项式方法，对地段1995一2013年的单产资料进行分离，得到地段相应年度的气候产量。分别计算1995一2013年冬小麦全生育期气候适宜度与地段气候产量、千粒重、每穗籽粒数、乳熟期植株高度之间的相关关系(样本数量均为19 个)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "结果表明，冬小麦全生育期气候适宜度与气候产量、千粒重、每穗籽粒数、乳熟期植株高度之间呈显著或极显著正相关关系(图6，相关系数分别为$0 . 5 8 8 0 ( P { < } 0 . 0 1 )$ 、 $0 . 7 5 6 1 ( P { < } 0 . 0 1 )$ 、 $0 . 6 7 0 7 ( P { < } 0 . 0 1 ) .$ $0 . 4 6 4 3 ( P { < } 0 . 0 5 )$ 。可见，冬小麦全生育期气候适宜度对冬小麦生长发育状况和产量高低具有很强的解释能力。即气候适宜度越大，产量水平越高、千粒重越大、穗粒数越多。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d210cd46bddf32eb8f570daba9b7f0c2d35c4061b4425ffed647be67bbebf9e.jpg",
+        "img_caption": [
+            "图6宿州市冬小麦全生育期气候适宜度与气候产量、千粒重、穗粒数和株高的相关关系(1995—2013年) Fig.6Corelationbetweentheclimatic suitabilityof winter wheat during whole growth periodand climaticyield,1oo0-grain weight,grain number per spike and plant height in Suzhou City from l995 to 2013 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "同时，全生育期气候适宜度与各参量的回归方程(图6)，经 $F$ 检验，各方程均通过 $P { < } 0 . 0 1$ 及以上水平显著性检验，即可以由不同生育期的气候适宜度，反演得到相应的产量因素值，用于生长状况评估。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "另外，考虑到不同产量构成因素形成的时期不同，对气候条件的需求也不同。返青一拔节期、拔节—抽穗期、抽穗一乳熟期分别是冬小麦穗数、单穗籽粒重形成的关键期[38]，因此，分别检验3个时期的气候适宜度与单位面积穗数、单株成穗数和每穗籽粒重的相关关系。结果表明，各相关关系分别达到显著或极显著水平，其中：返青一拔节期气候适宜度与单位面积穗数、每穗籽粒数的相关系数分别为 $0 . 5 5 8 9 ( P { < } 0 . 0 5 )$ 、 $0 . 7 1 0 7 ( P { < } 0 . 0 1 )$ ，拔节一抽穗期气候适宜度与单位面积穗数的相关系数为0.6498$( P { < } 0 . 0 1 )$ ，抽穗一乳熟期气候适宜度与单株成穗数、每穗籽粒重的相关系数分别为 $0 . 7 3 6 1 ( P { < } 0 . 0 1 ) .$ $0 . 7 4 4 \\ 2 ( P { < } 0 . 0 1 ) _ { \\circ }$ 。可见，随着生育时期的细分，气候适宜度与不同生育期所需达到的产量因素目标之间的正相关性在增大，进一步说明，本文建立的气候适宜度对不同气候条件影响冬小麦生长发育的程度具有很强的解释能力。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1)本文基于云模型理论，建立了日照时数适宜度评价的左半云模型、温度与降水适宜度评价的梯形云模型。模型生物学意义明确，且兼顾了气候条件对农作物生育影响优劣程度的随机性和模糊性。经统计检验，计算得到的气候适宜度，与冬小麦单产及其部分产量构成因素之间具有显著的正相关关系，分别通过显著 $( P { < } 0 . 0 5 )$ 或极显著 $( P { < } 0 . 0 1 )$ 水平检验；不同关键生育期的气候适宜度与其培育目标之间呈显著正相关关系，尤以抽穗一乳熟期气候适宜度与单株成穗数、每穗籽粒重的相关系数最高，分别为 $0 . 7 3 6 1 ( P { < } 0 . 0 1 )$ 和 $0 . 7 4 4 2 ( P { < } 0 . 0 1 ) _ { \\circ }$ 。因此，所建模型可以用于解释气候条件对冬小麦生育影响的优劣程度。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2)1954一2013年宿州市冬小麦生育期间各要素气候适宜度存在明显年际变化，尤以降水适宜度年际间波动幅度明显，且多年平均值在0.6以下，而日照与温度适宜度在0.9以上。60年间日照与降水适宜度呈下降趋势，每10年的下降速率分别为0.005和0.008。气温适宜度呈增加趋势，每10年的上升速率为0.028。但进入2003年以来，综合气候适宜度呈下降趋势，气候条件对宿州冬小麦生育产生的负效应在增大。这与同为黄海冬麦区的河南省、河北省冬小麦气候适宜度变化特征基本一致[11,19,39]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3)本文构建气候适宜度评价云模型时，涉及的日照时数、温度和降水量等指标，多是从已有文献并结合宿州市多年气象服务经验获取的。其中，日照时数临界指标是依据作物在一个地区长期栽培、选育后对其环境具有较强适应性[30-31]的生态学原理确定的，而不同于一些文献选取可照时数的 $70 \\%$ 作为临界值[10-11]，能更好地反映作物对一地气候条件的适应性，这为本文创新之处。同时，本文在确定降水量指标时，虽然利用权重系数间接考虑了不同生育期需水的动态特性，但未能考虑降水的后效性和有效性[2问题，是所建模型的不足之处，是今后需要加以改进之处。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4)对于定性概念值转换成云参数，目前尚无完整的理论来证明何种方法确定 $\\scriptstyle { E \\mathfrak { n } }$ 较为科学[20]。根据研究问题实际，本文结合经验和云模型的\"3En\"法则[20-21]确定云参数。如何确定更客观的 $\\scriptstyle { E \\mathfrak { n } }$ 、He将是今后工作的重点。另外，本文构建的气候适宜度评价云模型，是依据淮北平原宿州气候特点和相关指标来确定的，在参考应用时，应结合各地特点分别建立适用于区域特点的云模型。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]罗怀良，陈国阶，朱波．农业生态气候适宜度研究进展[J]. 中国农业资源与区划,2004,25(1):28-32 Luo H L,Chen G J,Zhu B.Review on suitability of agro-climate[J].Journal of China Agricultural Resources and Regional Planning,2004,25(1): 28-32   \n[2]侯英雨，张艳红，王良宇，等．东北地区春玉米气候适宜度 模型[J]．应用生态学报,2013,24(11):3207-3212 HouYY,Zhang YH,WangLY,etal.Climatic suitability model for spring maize in Northeast China[J].Chinese JournalofApplied Ecology,2013,24(11):3207-3212   \n[3]Tao FL,Yokozawa M,Xu YL,et al.Climate changes and trends in phenology and yields of field crops in China, 1981-20oo[J].Agricultural and Forest Meteorology，2006, 138(1/4): 82-92   \n[4] 刘志娟，杨晓光，王文峰，等．气候变化背景下我国东北三 省农业气候资源变化特征[J]．应用生态学报，2009，20(9): 2199-2206 Liu ZJ,Yang X G,WangWF,et al.Characteristics of agricultural climate resources in three provinces of Northeast China under global climate change[J]. Chinese Journal of Applied Ecology,2009,20(9):2199-2206   \n[5]谢立勇，李悦，徐玉秀，等．气候变化对农业生产与粮食安 全影响的新认知[J].气候变化研究进展，2014，10(4): 235-239 XieLY,Li Y,XuYX,et al.Updated understanding on the ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "impacts of climate change on food production and food ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "适宜性分析和精细化区划[J]．中国农业气象，2012，33(1): 86-92 Ma XQ, Zhang HQ,Wu W Y, et al. Analyzing and zoning of the eco-climate suitability on winter wheat varieties in Anhui Province[J]. Chinese Journal of Agrometeorology， 2012, 33(1): 86-92 [7] 李德，杨太明，刘瑞娜，等．安徽省设施农业冬季低温风险 分析和区划[J].中国农业气象,2013,34(6):703-709 Li D,Yang TM,Liu R N,et al. Low temperature risk division in winter for protected agriculture in Anhui Province[J]. Chinese Journal of Agrometeorology,2013,34(6): 703-709   \n[8] 顾恒岳，艾南山．农业气候系统及其动态模型[J].大自然 探索,1984(1): 43-56 Gu H Y,Ai N S. The dynamic models of agro-climate system[J]. Discovery of Nature,1984(1): 43-56   \n[9]徐红，李宝鸿．山东省农业生态气候资源适宜度分析[J]. 山东师大学报：自然科学版,1993,8(4):41-46 Xu H,Li B H. Analysis of agro-ecolmate resources in Shandong Province with suitability degree[J]. Journal of Shandong Normal University: Natural Sciences Edition,1993, 8(4): 41-46   \n[10] 黄璜．中国红黄壤地区作物生产的气候生态适应性研究[J]. 自然资源学报,1996,11(4):340-346 Huang H.A study on the climatic ecology adaptability of the crop production in the red and yellow soils region of China[J]. Journal of Natural Resources,1996,11(4): 340-346   \n[11]赵峰，千怀遂，焦士兴．农作物气候适宜度模型研究- 以 河南省冬小麦为例[J]．资源科学,2003,25(6):77-82 Zhao F, Qian H S, Jiao S X. Climatic suitability model of crop: A case study of winter wheat in Henan Province[J]. Resources Science,2003,25(6): 77-82   \n[12]任玉玉，千怀遂．河南省棉花气候适宜度变化趋势分析[J]. 应用气象学报,2006,17(1):87-93 Ren Y Y,Qian H S.Climatic suitability of cotton and its changes in Henan Province[J]. Journal of Applied Meteorological Science,2006,17(1): 87-93   \n[13]魏瑞江，宋迎波，王鑫．基于气候适宜度的玉米产量动态 预报方法[J]．应用气象学报,2009,20(5):622-627 Wei R J, Song Y B,Wang X. Method for dynamic forecast of corn yield based on climatic suitability[J]. Journal of Applied Meteorological Science,2009,20(5): 622-627   \n[14]易雪，王建林，宋迎波．气候适宜指数在早稻产量动态预 报上的应用[J].气象,2010,36(6):85-89 YiX,Wang JL, Song YB.Application of climatic suitability index to dynamical prediction of early riceyield[J]. Meteorological Monthly,2010,36(6): 85-89   \n[15]李昊宇，王建林，郑昌玲，等．气候适宜度在华北冬小麦发 育期预报中的应用[J]．气象,2012,38(12):1554-1559 Li H Y, Wang JL, Zheng C L,et al. The development period prediction of winter wheat based on climatic suitability in North China[J]. Meteorological Monthly，2012,38(12): 1554-1559   \n[16]马兴祥，邓振镛，李栋梁，等．甘肃省春小麦生态气候适宜 度在适生种植区划中的应用[J]．应用气象学报,2005,16(6): 820-827 Ma X X,Deng Z Y,Li D L,et al. Study on eco-climate applicability of spring wheat for condign planting division in Gansu Province[J]. Journal of Applied Meteorological Science,2005,16(6): 820-827   \n[17]姚小英，蒲金涌，姚茹莘，等．气候暖干化背景下甘肃旱作 区玉米气候适宜性变化[J].地理学报,2011,66(1):59-67 Yao X Y,Pu JY,Yao R X,et al.Variation of climate suitability of maize in arid area in Gansu under the condition of climate dry-warming[J]. Acta Geographica Sinica, 2011, 66(1): 59-67   \n[18]段海来，千怀遂，李明霞，等．中国亚热带地区柑桔的气候 适宜性[J]．应用生态学报,2010,21(8):1915-1925 Duan HL,Qian H S,Li M X,et al. Climatic suitability of citrus in subtropical China[J].Chinese Journal of Applied Ecology,2010,21(8): 1915-1925   \n[19]魏瑞江，张文宗，康西言，等．河北省冬小麦气候适宜度动 态模型的建立及应用[J]．干旱地区农业研究，2007，25(6): 5-9 Wei R J,Zhang W Z,Kang X Y,et al.Application and establishment of climatic suitability dynamic model of winter wheat in Hebei Province[J].Agricultural Research in the Arid Areas,2007,25(6):5-9   \n[20]李德毅，杜鹤．不确定性人工智能[M]．北京：国防工业出 版社,2005:131-165 Li D Y,Du Y. Artificial Intelligent with Uncertainty[M]. Beijing: National Defence Industry Press,20o5:131-165   \n[21]刘常昱，李德毅，潘莉莉．基于云模型的不确定性知识表 示[J]．计算机工程与应用,2004,40(2):32-35 Liu C Y,LiD Y, Pan L L. Uncertain knowledge representation based on cloud model[J]. Computer Engineering and Applications,2004, 40(2): 32-35   \n[22] 李刚，万幼川．基于高维云模型和 RBF 神经网络的遥感影 像不确定性分类方法[J]．测绘科学,2012,37(1):115-118 Li G, Wan Y C.Uncertainty classification method of remote sensing image based on high-dimensional cloud model and RBF neural network[J]. Science of Surveying Mapping, 2012, 37(1): 115-118   \n[23] 张杨，严金明，江平，等．基于正态云模型的湖北省土地资 源生态安全评价[J]．农业工程学报,2013,29(22):252-258 Zhang Y, Yan JM, Jiang P,et al. Normal cloud model based evaluation of land resources ecological security in Hubei Province[J]. Transactionsof the Chinese Societyof Agricultural Engineering,2013,29(22): 252-258   \n[24]孙鸿鹄，程先富，倪玲，等．基于云模型和熵权法的巢湖流 域防洪减灾能力评估[J]．灾害学,2015,30(1):222-227 Sun HH, Cheng XF, Ni L,et al. Capacity evaluation of flood disaster prevention and reduction in Chaohu Basin based on cloud model and entropy weight method[J]. Journal of ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Catastrophology,2015,30(1):222-227 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "多级模糊综合评价[J]．水利学报,2014,45(1):87-95 Zhang Q W, Zhang Y Z,Zhong M.A cloud model based approach for multi-hierarchy fuzzy comprehensive evaluation of reservoir-induced seismic risk[J]. Journal of Hydraulic Engineering,2014,45(1): 87-95   \n[26] 李德，杨霏云，孙义，等．基于云模型的淮北平原麦田喷药 (肥)气象适宜度评价[J].生态学杂志,2016,35(1):259-268 Li D,Yang F Y, Sun Y,et al. Meteorological suitability evaluation based on cloud model for spraying pesticide/ fertilizer in wheat fields of Huaibei Plain[J]. Chinese Journal of Ecology,2016,35(1): 259-268   \n[27]国家气象局．农业气象观测规范(上卷)[M].北京：气象出 版社,1993:10-31 China Meteorological Administration. Observation Specification of Agro-meteorology[M]. Beijing: China Meteorological Press,1993:10-31   \n[28]张国英，沙云，刘旭红，等．高维云模型及其在多属性评价 中的应用[J]．北京理工大学学报,2004,24(12):1065-1069 Zhang G Y, Sha Y,Liu X H,et al. High dimensional cloud model and its application in multiple atribute evaluation[J]. Transactions of Beijing Institute of Technology,2004,24(12): 1065-1069   \n[29]马树庆．吉林省农业气候研究[M]．北京：气象出版社, 1994: 33 Ma S Q.Agro-climate Research in Jilin Province[M]. Beijing: China Meteorological Press,1994:33   \n[30]韩湘玲．作物生态学[M].北京：气象出版社,1991:15-18 Han X L. Crop Ecology[M].Beijing: China Meteorological Press,1991: 15-18   \n[31]龚绍先．粮食作物与气象[M]．北京：北京农业大学出版社, 1987: 35-45 Gong S X. Crop and Meteorology[M]. Beijing: Agriculture University Press,1987: 35-45   \n[32] Allen R G, Smith M,Pereira L S,et al.An update for the calculation of reference evapotranspiration[J]. ICID Bulletin, 1994,43(2): 35-92   \n[33]刘钰.PereiraL S,TeixeiraJL，等．参照腾发量的新定义及 计算方法对比[J]．水利学报,1997(6):27-33 Liu Y,Pereira L S, Teixeira JL,et al. Update definition and computation of reference evapotranspiration comparison with former method[J]. Journal of Hydraulic Engineering,1997(6): 27-33   \n[34]陈晓艺，马晓群，孙秀邦．安徽省冬小麦发育期农业干旱 发生风险分析[J]．中国农业气象,2008,29(4):472-476 Chen X Y,Ma XQ,Sun X B.Risk analysis of agricultural drought for winter wheat during growing period in Anhui Province[J]. Chinese Journal of Agrometeorology，2008, 29(4): 472-476   \n[35]马晓群，姚筠，许莹．安徽省农作物干旱损失动态评估模 型及其试用[J].灾害学,2010,25(1):13-17 Ma XQ,Yao Y, Xu Y.A model for dynamic assessment of crop yield losses from drought and its tryout in Anhui Province[J]. Journal of Catastrophology,2010,25(1):13-17   \n[36]丁德峻，张旭晖．江苏淮北地区主要作物需水量的初步研 究[J].自然资源,1994(3):40-46 Ding D J,Zhang X H.A preliminary study on water requirement of major crops in Huaibei area of Jiangsu Province[J].Resources Science,1994(3):40-46   \n[37]王晓东，马晓群，许莹，等．淮河流域主要农作物全生育期 水分盈亏时空变化分析[J].资源科学，2013,35(3):665-672 WangXD,MaXQ,XuY,et al.Temporal analysis of the crop water surplus deficit index for the whole growth period in the Huaihe Basin[J].Resources Science,2013,35(3): 665-672   \n[38]胡承霖．安徽麦作学[M].合肥：安徽科学技术出版社, 2009:1-14 Hu C L.Anhui Wheat Crop Cultivation[M].Hefei: Anhui Science and Technology Press,20o9:1-14   \n[39]千怀遂，焦士兴，赵峰．河南省冬小麦气候适宜性变化研 究[J].生态学杂志,2005,24(5):503-507 Qian H S,Jiao S X,Zhao F.Climate suitability change of winter wheat in Henan Province[J]. Chinese Journal of Ecology,2005,24(5):503-507 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "中国生态经济学学会第九届会员代表大会暨2016年学术年会会议通知",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "中国生态经济学学会第九届会员代表大会暨 2016年学术年会将于7月 22—24日在贵州省贵阳市贵安新区召开。现将会议的有关事项通知如下：",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "一、会议主题及议题",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本次会议的主题为：生态经济与生态城市。主要议题包括：1.生态经济、生态城市理论与方法;2.生态文明与生态红线;3.生态城市建设、规划与案例;4.海绵城市与智慧生态城市;5.生态文明与新型城镇化；6.生态城市、生态农业与美丽乡村;7.城市生态系统服务与生态补偿;8.绿色增长、绿色发展与气候变化；9.其他生态经济理论与实践问题。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "二、会议日期和地点",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2016年7月22—24日，22日全天报到，23—24日开会。会议地点为贵阳市贵安新区北斗湾开元酒店(咨询电话0851-88908888)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "三、会议费用",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1.参会代表每人需缴纳会务费800元，博士生、硕士生凭学生证缴纳会务费400元。2.会议住宿由会务组统一安排，费用自理。根据2016年国家公布的差旅住宿费标准，贵阳市的住宿标准司局级为470元，其他为370元。3．会议承办方与酒店协商价格为单间380元，标准间435元。由于7月份为贵阳市的旅游旺季，标准间原则上安排2人居住。4.往返交通费用由参会代表自理。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "四、报到时间、地点及路线图",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1.报到时间：7月22日8:00—24:00。报到期间会务组在贵阳市龙洞堡机场、贵阳北站(高铁站)提供接站服务；乘车到达贵阳火车站、金阳客车站及其他站点的参会代表请自行前往酒店。2.报到地点：贵安新区北斗湾开元酒店。自行前往酒店的路线图：贵阳火车站—贵安新区北斗湾开元酒店，约46.5km，乘坐出租车大约110元；金阳客车站一贵安新区北斗湾开元酒店，约 $4 3 . 3 \\mathrm { k m }$ ，乘坐出租车大约95元。五、会议回执",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "请参会代表务必将会议回执于2016年7月10日前，通过传真0851-88900051或电子邮件1298458323@qq.com 发到会务组；7月10日之后反馈的代表，自行解决住宿问题。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "联系人：庞静静电话:0851-88900051 邮箱：1298458323@qq.com",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "中国生态经济学学会2016年6月15日",
+        "page_idx": 12
+    }
+]

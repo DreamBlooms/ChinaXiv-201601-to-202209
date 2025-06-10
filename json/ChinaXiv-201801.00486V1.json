@@ -1,0 +1,392 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201608081630 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王志芳，沈楠.综述地方知识的生态应用价值.生态学报,2018,38(2)：371-379.  \nWang ZF,ShenN.Theecological value of local knowledge.Acta Ecologica Sinica,2O18,38(2）:371-379.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "综述地方知识的生态应用价值",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王志芳\\*,沈楠北京大学建筑与景观设计学院，北京100080",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：地方知识在解决生态问题上的价值在国外已经受到相当的重视,但在中国尚刚刚起步。通过综述国内外地方知识的相关文献,发现有关地方知识的研究最近几年呈逐渐上升的趋势,国外研究明显多于国内且比国内深入。整体而言,地方知识在生态应用中的价值可以体现在4个方面：作为背景知识、提供基础数据、提供未来方案以及参与生态管理。国内有关地方知识的研究还流于描述层面,大多在描述背景知识。而国外的研究则更多得聚焦于怎样利用地方知识来提供数据、提供新的规划及技术方法,并强化地方知识在生态管理中的作用。结合文献归纳了地方知识在生态应用梯度各等级中的具体作用,提出了一个地方知识的生态应用框架,以期指导中国的相关科研和实践工作。以国外的研究为鉴,地方知识在中国的生态应用未来具有很大空间,地方知识作为普遍知识的有效补充,应该充分参与数据、决策以及管理的全过程,提出地方知识在中国未来应用发展的几个重点突破的难点,期望地方知识在科学规划、资源管理中发挥其应有的价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：地方知识；生态；应用价值；景观规划 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The ecological value of local knowledge ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Zhifang\\*，SHEN Nan College of Architecture and Landscape Architecture,Peking University，Beijing 1Ooo8O,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Thevalue of local knowledgein solving eological problems hasreceivedconsiderableattention in foreign countries，but not yetin China.Thispaper summarizes therelevant worldwide literatureabout local knowledgeand demonstrates that research on local knowledge has been graduall increasing in recent yearsand that studiesabroadare significantlygreater innumberanddeeper incontentthan domesticstudies.Overall,theecological valueapplicationof local knowledgecan be summarized in fourareas：background knowledge，basic data，future potential，and ecological management.Domestic research on local knowledge is merelyon the level of description，especiall，the descriptionof background knowledge.Incontrast,，Foreignresearch is more focusedonhowtouselocal knowledge toprovidedata，provide new planning and technical methods，and strengthentheroleof local knowledge in ecological management.Attheendof this paper，wesum uptheconcrete roleof local knowledge inecological aplications，and propose a general framework to uselocal knowledge in ecological solutionsand guide relevant scientific researchand practices in China.As shown in foreign research，thereare manyopportunities fortheaplicationof local ecological knowledgein China.Asaneffective complement touniversal knowledge，local knowledge should be fully involved in theentire processof data gathering, decision-making，and management.We put forward some dificulties inthe future development andapplicationof local knowledgein China,but expectthatlocal knowledge willsoon play itsvaluableroleinscientific planning andresource management. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: local knowledge；ecology；application value； landscape planning ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地方知识在解决生态问题上的价值在国外已经受到相当的重视,但在中国尚刚刚起步。特别是从2012年开始,中国正式开启新型城镇化进程,城乡一体、生态优先以及地方特色都成为城市化建设以及生态环境建设的重点。地方知识应该能够在中国的新型城镇化进程中起到至关重要的作用,但相关研究却很匮乏。本文试图通过综述国内外有关地方知识的相关文献,系统整理地方知识在生态问题中的作用,并提炼地方知识在中国生态问题中的应用价值,以期推进地方知识在中国新型城镇化进程以及生态问题解决途径上的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1地方知识与相关概念",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地方性知识是美国人类学家吉尔兹(Clifford Geertz)所开创的阐释人类学中的中心概念,其对这一理论的构建做出了突出的贡献,然而在他的著作中并未对这一概念作更为细致化的明确定义,只是模糊地指出这种知识的“发生经过自有地方特性,并与当事人对事物之想象能力相联系”[1]。所谓的“地方特性”并不仅仅是在特定的地域意义上说的,而主要是相对于全球性知识或者说普同性知识而言,是在全球化讨论中进一步强调的概念,在汉语中另外一层意义主要相对于“中央的,官方的,正统的”[2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "吴桐指出有两种有关地方知识的理解,分别是人类学视野下吉尔兹的地方性知识与科学实践哲学背景下劳斯的地方性知识[3]。吉尔兹的地方性知识是一种具有本体地位的知识,即来自当地文化的自然而然的东西,固有的东西。他把“文化-生境”系统的两个子系统“文化”和\"生境\"连接起来,认为“地方性知识”是一种文化类型的知识,并不与普遍性构成对立,而是支持了科学的文化多元性的观点和文化相对主义[4]。科学实践哲学中的地方性知识概念,是一种哲学规范性意义上的概念,指的是知识的本性就具有地方性,特别是科学知识的地方性,而不是专指产生于非西方地域的知识。劳斯认为地方性知识与普遍性知识并非造成对应关系,而是在地方性知识的观点下,根本不存在普遍性知识。普遍性知识只是一种地方性知识转移的结果。这与吉尔兹的地方性知识有本质上的不同[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文对于地方知识的定义基于吉尔兹的理解,综合吉尔兹和劳斯的观点,将地方知识定义为：当地人与长期居住环境亲密互动形成的改造和管理地方景观的独特文化和特色经验,是地方人长期延续的生存方式。地方性主要是指在知识生成和辩护中所形成的特定情境（context or status）,诸如特定文化、价值观、利益和由此造成的立场和视域,等等[3]。它具有以下几大特性：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)不可替代的可靠性。地方知识,经过长期历史验证沉淀下来,甚至是超长期自然与人类社会互动运行的结果,在实践中不断积累与改进，一旦成效不佳,人们就会放弃传统的做法,或者对传统的做法加以改进,以适应变化了的形式。因此,地方知识具有不可替代的可靠性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)技术的低廉有效性。地方知识从人类与自然发生关系起逐渐发展起来。在社会发展的初期,人力、物力、资金(技术往往都是有限的,因此那些可以适用并流传下来的技术就必然是低廉、有效的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)地域性和针对性。地方知识是通过实践加以传承和付诸应用的,是针对特定的自然与生态系统建构起来的。地方知识对场地的理解和认识,比普同性知识更为深入，具有对当地而言极为可靠的知识和技术技能,应用后产生的效果也要好很多,然而普同性知识就很难对不同生态系统的细微差别做出针对性的适应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（4)灵活性与开放性。地方性知识不是呆板陈旧、固定不变的,相反,它总是以一种开放性姿态迎接外在生态环境及社会环境的变化。用海德格尔的话说,在地方性意义上,知识的构造是正在途中（ongoing）,即它始终是未完成的,有待于完成的,或者正在完成中的工作[5。正是由于地方性知识具有这种灵活性与开放性特征,才使其在与现代科技的接触过程中始终保持本土优势,在不断地调整与建构过程中得以延续。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 相关概念对比",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1归纳对比了与地方知识相关的诸多概念,他们在城市化程度、历史时序、概念维度上既有差异,又有交集。这些概念和地方知识有相似性,但整体而言地方知识是更大、更广义的一种范畴。本文所研究的文献",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "整体涵盖了与地方知识相关的多种概念。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a665f8411116b1b68a175c0721b1e72e5c41791bac0bd9df1cdd0d65ffc31b5.jpg",
+        "table_caption": [
+            "表1相关概念对比",
+            "Table 1 Related concepts contrast "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>相似概念 Related concepts</td><td>城市化程度 Degree of urbanization</td><td>历史时序 history Timing</td><td>特点 Feature</td><td>相对概念 Relative concept</td><td>概念维度 Conceptual dimensions</td></tr><tr><td>乡土知识 Vernacular knowledge</td><td>乡村</td><td>不限</td><td>乡土性、地方性、合理性</td><td>城市文化知识</td><td>空间维度</td></tr><tr><td>传统知识 Traditional Knowledge</td><td>不限</td><td>历史延续</td><td>历史性、地域性</td><td>现代知识</td><td>时间维度</td></tr><tr><td>本土知识 Indigenous knowledge</td><td>乡村</td><td>历史延续</td><td>地域性、文化性、非规范性、动态性</td><td>外来知识</td><td>空间维度</td></tr><tr><td>地方知识 Local knowledge</td><td>不限</td><td>不限</td><td>可靠性、技术低廉、地域性、灵活性</td><td>普同性知识</td><td>空间维度</td></tr><tr><td>地方生态知识 Local ecological knowledge</td><td>不限</td><td>不限</td><td>地方性、动态性、适应性</td><td>普同性知识</td><td>空间维度</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "乡土知识(Vermacular knowledge)与地方知识相比更着重于乡村范畴,主要与城市文化知识相对的,是空间维度上的差异。乡土知识也可称民间知识、民族知识,有两种意义上的理解。一种是乡土社区基于生产生活和智力活动总结和创造的关于自然与社会的实践经验和认知体系,涉及乡土社会存续的自然知识与社会知识的一切方面,另一种是非乡土社区(特殊情况包括部分乡土社区成员)基于研究与传播等需要而总结的\"有关”乡土社区的知识[6]。整体而言,乡土知识主要是指“土头土脑\"的乡下人创造或传承的“土里土气”的知识。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本土知识(Indigenous knowledge)与乡土知识相似,但更强调乡村内在以及历史上的知识,和外来知识相对应。国际乡村发展组织(IIRR)将本土知识定义为由一个给定的社区中的人们长期发展起来的并将继续发展下去的知识[7]。联合国教科文组织(UNESCO)认为本土知识是乡村社区在农业、健康、食品供给、教育、自然资源管理和许多其他活动方面决策的基础。本土知识嵌人在文化之中,具有区域和社会的独特性[8]。强调乡村、与外来对应的本土知识整体而言是更为狭义的地方知识。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统知识(Traditional Knowledge,简称 TK)与地方知识相比更注重过去,强调旧有知识基础上的存在和延续,是相对于现代知识而言的概念,是时间维度上的差异。传统知识这一概念在法律意义上被首次确认并解释是在1992 年通过的《生物多样性公约》（Convention on Biological Diversity,简称CBD)上。公约在前言里提到：“认识到许多体现传统生活方式的土著和地方社区同生物资源有着密切和传统的依存关系,应公平分享从利用与保护生物资源及持续利用其组成部分有关的传统知识、创新和实践而产生的惠益。”此后世界知识产权组织秘书处为完成 WIPO于1998至1999年进行的调研任务作了更为宽泛性的定义,其中包括农业知识、科学知识、技术知识、生态学知识、医药知识、与生物多样性相关的知识等[9]。传统知识一般被认为是传统的、当地的、与生态环境相关的知识的结合,它是土著和地方社区在长期的生产生活实践中逐步形成和发展而得到的、关于生物多样性的保护和持续利用问题等相关的智力成果的总和。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地方生态知识是与生态相关的地方知识,是指特定地域社群对所处自然与生态系统的适应,是相关民族或社群在世代经验积累中健全起来的知识体系[10]。Berkes 认为传统生态知识是在世代经验中积累,通过文化传递下来的,关于生物与生物之间(包括人类),生物与环境的关系的知识和信念的载体[1]。是通过世代不断对资源的使用而得出的一种对社会的态度,传统生态知识是地方知识的一种,它是动态的,是对特定场地变化的适应和长期使用资源所积累的经验,经常出现在没有工业化和较少以技术为导向的社会里。虽然地方知识并不等同于地方生态知识,但是研究中却常常混淆这两个概念[]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综合国内外对地方知识的定义,本文认为地方知识是针对普同性知识而言,从特定地区的实践总结而出,只属于特定地区的自然与社会背景,在世代的经验积累中健全起来的知识体系，并且是动态灵活的,在不断的自我调整中以适应新的变化,其中对自然与生态系统做出适应的部分则是地方生态知识。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2地方知识与普遍知识的互补性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地方知识和普遍知识不是两种不同的知识,而是同一种科学知识在生成过程中的两种不同的思想环节或表现形式[12],地方知识是具有特殊性和针对性的科学知识。如果某种科学知识仅仅在当地实验室得到检验，只能回答当地问题,只能被当地共同体所接受,那么这种知识就是地方知识;但如果某种科学知识得到了更多的实验室的检验,能够回答比当地更多的问题,能够被更多的科学共同体所接受,这种科学知识就从地方知识变成是普遍知识。约瑟夫·劳斯认为看似普遍性的知识实际上是地方性知识标准化过程的一种表征,科学知识的标准化本质上是一种地方性转移到另一种地方性的过程,“而不是从普遍理论走向其特定例证”[13]。普遍性知识只是一种地方性知识转移的结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "地方知识与普遍知识的比较具体归纳见表2。地方知识是当地人历代经验累积所形成的知识体系，是在历史中不断试错的,并且通过口头讲述的方式代代传承。而普遍知识是经过逻辑推断,以分析的思维方式进行归纳总结,得到了更多实验室的检验验证。地方知识与普遍知识都具有可检验性,地方知识是当地直接观察、当地检验,而普遍知识要通过法律、定律及模型等科学方式进行检验。因此普遍知识相较于地方知识更具有学术教育性和普及意义。地方知识适用于范围较小的特定场地,具有地域性和针对性,而普遍知识适用于任何范围。在具体的规划建设中,应该将地方知识和普遍知识相互补充,适度坚持科学知识的地方性,强调科学知识的普遍性,将科学知识的地方性和普遍性结合起来,相互兼容,而不是孤立出来,这样才能更好地指导科学工作。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9dffe9eac19b8098c755399c7500314069e8c8ec2fa1fda4e9d4e94b306e2a94.jpg",
+        "table_caption": [
+            "表2地方知识与普遍知识的比较",
+            "Table 2 Comparison of local knowledge and universal knowledge "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>对比项 Items</td><td>地方知识 Local knowledge</td><td>普遍知识 Universal knowledge</td></tr><tr><td>生成过程 Generating process</td><td>地方生成</td><td>标准化表征</td></tr><tr><td>获得方法 Obtaining method</td><td>经验型、试错型</td><td>逻辑推断,归纳总结,实验验证</td></tr><tr><td>传承方式 Inheritance mode</td><td>□头、讲故事</td><td>教育、说教</td></tr><tr><td>检验标准 Inspection standard</td><td>直接观察、当地检验</td><td>科学的(法律、定律、模型)</td></tr><tr><td>教育意义 Educational significance</td><td>地方意义</td><td>学术普及意义</td></tr><tr><td>适用范围 Application scope</td><td>特定场地,范围小</td><td>任何范围,范围大</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次研究中的外文文献以 Local ecological knowledge、Indigenous Knowledge、Local knowledge 为关键词进行检索及阅读综述,研究方向精炼为Environmental science ecology,检索网站为Web of Science、Research Gate 等，搜索到有效数据 2989条,检索日期截止至2016年5月。中文文献以地方生态知识为关键词进行检索及阅读综述,检索网站为CNKI,搜索到有效数据253条,检索日期截止至2016年9月。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对检索到的文献,本文主要做了两方面的分析,一是关键词分析,二是详细阅读内容,归类地方知识在生态应用的价值。关键词提取后借助可视化字云软件 Tagul和 Tagxedo,以形成对研究内容的直接感受。文字云(word cloud)是一种被广泛用于数据展示的工具,一般通过获取文本数据,对文字做出排列并进行带权重的展示。文字云图采用更随机的布局,并配合颜色进行展示,获得令人愉悦的艺术效果,能令读者更好地理解数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "地方生态知识方面的研究整体而言愈来愈受到重视,而国外的研究明显在数量上远超国内。如图1所示,国内自 1983年以来,每年出版的相关文献数波动起伏,1983年至1996 年数量为零,96年之后开始小幅上升,2007至2009年的两年是研究高峰期数量剧增,2010年之后进入平稳阶段。国外研究如图2所示,自1997年以来,每年出版的相关文献数总体呈稳步上升趋势,从2006 年开始数量明显增多。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f01f74708e056f788d615799c3ea8c4f612008e75e831f80514e4a180eb61bb.jpg",
+        "img_caption": [
+            "图1国内每年出版的文献数",
+            "图3国内字云分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9be462ad2d26ab099ce6297ca954b02831d764a36ebbaab0331119ae572c83e.jpg",
+        "img_caption": [
+            "Fig.1The number of domestic literature published annually ",
+            "图2国外每年出版的文献数",
+            "Fig.2The number of foreign literature published annually ",
+            "Fig.3Domestic word cloud analytics ",
+            "图4国外字云分析",
+            "Fig.4Foreign word cloud analytics "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3研究结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 国内外研究内容对比",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "字云结果显示国内的研究重点不突出,而国外则侧重于实际应用,尤其是林业、渔业以及资源管理。如图3所示,国内地方知识研究的重点在于生态教育、生态文化以及生态人类学,其次关注于经济建设以及自然环境保护与开发等。且关键词的权重差别并不特别明显,这说明研究分散,重点不突出。图4的国外研究字云可以看出,国外地方知识研究中森林、渔业、防火、生态资源等问题的关注度比较高,其次是岛屿等,同时对地方生态知识的系统管理研究也较多。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "烧 地区保护学 理念  \n功能 关系  \n管理环境教育  \n法 地 林业 性 地  \n商养 □ 沙禁 政府 市产 世界 权力话语神央 想过 经善 园环  \n然知 文 应定 化鱼魅式迁 秆 TTEK古 族族  \n经济文明民族物主义旅游 化源农民",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SusaiablemMushroms ndigenous knowledge Historicalvaues Fisheries fenternsactivation Loca Hunting research cohom BokPetrogale ndigenouFis Risknowandgement New Island eptliate Forest unitiesResources Cultural Ecologica Biodiversity AesTraitinalfisheries Aborigina EthnobiologyEthinozoology percegti Hate strtesie DevelopmentSocio Isgatin Development economic ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以图4字云为基础,本文笔者将这些文献按研究领域划分为物种研究、资源管理、环境管理、生物多样性管理、可持续发展这五个方面,涉及面较广，研究视角多。如图5所示,其中关于可持续发展的研究所占比重最大,为 $28 \\%$ ,包括了土地利用、生态系统、生态变化、资源利用等可持续发展方面,并强调了生态与社会经济等发展的协调。地方知识中关于资源管理的研究所占比重为 $2 4 \\%$ ,其中水资源和渔类管理占其中 $7 1 \\%$ ,科学家结合当地地方生态知识构建管理机制，并对生态可持续提供建议。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 国内外地方知识的生态应用对比",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经过详细文献阅读,地方知识的生态应用价值可以概括为4个方面;地方知识作为背景知识、地方知识提供基础数据、地方知识提供未来方案以及地方知识参与生态管理。相应的对地方知识的研究工作可以概括为现象描述、提供数据、方案建议以及参与管理。这4个方面基本建立起一个生态管理参与程度的梯度。现象描述可以不考虑后续有没有用处;提供数据也不面向未来管理;方案有所建议也不代表方案能够实施；只有参与管理才是最深层次的、以未来直接管理为目标的生态应用。以此为基础归纳国内外的相关文献（图6）,可以看出国内外在地方知识生态应用方面的研究出发点存在较大差异。 2",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/919bd294d176b3786bbfcebb4063dbe2927e60ca0523f96f509beb7918720605.jpg",
+        "img_caption": [
+            "图5国外地方知识研究领域分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c608be246d4d81ee92116db0e07c84d6bde73581c54d82a6a3013f86786a1b0.jpg",
+        "img_caption": [
+            "Fig.5Distribution of foreign research in the field of local knowledge ",
+            "图6国内外地方知识生态应用分类折线图",
+            "Fig.6 Classified line chart of the ecological application of domestic and local knowledge "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总体来说国内研究基本集中于对地方知识的现状描述,在深人层面的研究以及实际应用层面呈现急剧下降的趋势。而国外研究较为平稳,在方案建议及参与管理方面的研究明显多于国内。国内的地方知识生态应用大部分集中于对现象的描述层面,只对地方知识进行定性的现状解读及归纳，并没有深入进行分析以及提出进一步的方案，为规划建设提供数据部分占 $3 1 . 1 1 \\%$ ,这两者占了研究比例的 $8 8 . 8 9 \\%$ ,而方案建议和参与管理研究基本处于起步阶段。国外关于地方知识生态应用的研究较为成熟,大量研究对地方知识进行归纳分析,给规划建设发展提供了宝贵的数据支撑,并且关于当地人参与地方管理的研究也较为成熟。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 地方知识的生态应用框架",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "地方知识作为背景知识、地方知识提供基础数据、地方知识提供未来方案以及地方知识参与生态管理,这四个方面的内容既是地方知识的生态应用价值归类,也构建了地方知识的生态应用梯度等级。以此为基础，笔者结合国内外文献,进一步归纳整理了每一个梯度内部,地方知识在其中的具体作用,以期建立一个相对合理的地方知识生态应用框架体系（表3）,指导中国的相关科研和实践工作。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "现象描述地方知识作为背景知识方面,国内做得多,国外相对较少。国内对地方知识的研究主要集中在生态人类学和文化生态领域,以吉首大学为主在我国云南、西藏、新疆等地做了大量的研究,已有将近30年的历史,大多数研究只停留在现象描述以及历史记录层面上,主要是在定性的归纳和解读地方知识本身,未做进一步的分析。侯仁之、史念海、葛剑雄、杨守敬等学者在生态地理学方面做出了不少贡献,还有各类史学、环境生态等学科的学者对地方知识的生态价值进行研究,比如史念海认为“以前历史地理学还属于历史学的范畴,自然要运用治史的方法进行探索”,强调了地方知识的重要性。殷秀琴回顾了我国近30年来土壤动物生态地理研究的进展,概述了我国土壤动物群落多样性及生态地理分布,为我国未来生态地理研究提供依据[14]。另外,国内地方志种类繁多,有总志、通志、府志、州志、乡镇志、卫所志以及各种专志,常建华认为地方志是认识特定的地域、区域最直接的历史资料,是研究历史的重要切入点,具有社会史资料价值[15]。国内大量研究对地方知识的生态文化、民族生存艺术、传统生计方式、传统农耕技术、生态意识等方面进行了解读,比如石奕龙、卡地尔对维吾尔族罗布人的地方知识进行解读,包括独特的水文化、树崇拜等动植物禁忌,认为这些地方知识在解决日趋严重的土地沙化、水土流失和草原退化等问题中具有积极意义[16]。罗康隆还在研究的基础上提出生态资源的定义、配置、利用和维护要靠文化来实现,利用本土生态知识去维护生态安全是一种最有效的生态维护方式,虽然这种提议只停留在定性描述的层面,并没有实际技术与方法支撑[17]。地方志的研究就主题而言,几乎涵盖了政治、经济、文化、生态诸领域,就地域范围来看,几乎涵盖华南、江南、华北、华中等全国各地。日本学界的山根幸夫说“利用地方志已成为一种常识,无需加以说明”[18]。国外也有少量现象描述,但通常和现代科学有所结合。例如 Jermigan 通过田野调查的方法,调查阿瓜鲁纳地区当地人利用植物来找到特定的食果鸟类,以研究当地的鸟类觅食学[19]。Garibay Orijel指出当地专家在民族真菌学知识的传播中起到了至关重要的作用,并认为性别是影响地方知识分布的主要变量之一,可影响知识传播[20]。整体而言,国内囿于传统和少数民族的现象比较明显,国外则多和现代科学以及现代社会需求相结合。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a4273d0efb25c63eec8178fd3ac6bfa17174be5bb0d8fa3a5f7568fe6ae3f2da.jpg",
+        "table_caption": [
+            "表3地方知识的生态应用框架",
+            "Table 3Ecological application framework of local knowledge "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生态应用梯度 Ecological Applications gradient</td><td>具体应用内容 Specific application content</td></tr><tr><td>地方知识作为背景知识</td><td>民族地区的生态文化适应 传统文化及自然保护意识</td></tr><tr><td>Local knowledge as background knowledge</td><td>少数民族生存艺术地方志史学资料等</td></tr><tr><td>地方知识提供基础数据 Local knowledge to provide basic data</td><td>记录本地物种及可能的新物种 物种的数量 物种的分类 物种的迁移路径</td></tr><tr><td></td><td>栖息地分布 物种驯化潜力等 物种监测方案</td></tr><tr><td>地方知识提供未来方案 Local knowledge to provide future programs</td><td>地方性的应用技术 物种保护方案</td></tr><tr><td></td><td>整合当地人的土地利用方式用于土地可持续发展等</td></tr><tr><td></td><td></td></tr><tr><td>地方知识参与生态管理 Local knowledge participate in ecological management</td><td>借用地方习俗管理资源 构建资源基层管理机构</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "地方知识提供基础数据的潜力非常大,特别是在有记载的数据量少、科学研究比较匮乏的区域。地方知识从记录本地物种以及新物种的类型、数量,到物种得栖息地以及迁移路径等,都能够有所贡献。如在物种研究方面,Telfer和Garde 研究了澳大利亚西部阿纳姆地区的四种岩袋鼠的物种生态的知识,收集了岩袋鼠的活动特性,并记录了岩袋鼠做为狩猎者的捕食行为,给土地管理和物种保护提供了数据[21]。Sundaram 等研究了印度南部野生动物保护区中,马樱丹做为人侵物种的研究,提出地方知识可以给科学知识提供生物入侵的信息等[22]。在生物多样性保护方面,Petersen 等通过地方知识汇编记录了448个本地物种以及野生新物种的开发[23]。野生驯化方面,Ntupanyama研究了南非最受欢迎的本土树种之一,指出科学知识与地方知识的结合可以给本土果树驯化提供强有力的基础[24]。Waliszewski等结合地方知识研究了非洲中部和西部超级甜味剂的野生驯化以及商业化[25]。国内这方面的研究几近空白,仅有少量研究开始利用地方知识搜集信息,建构地方的水安全格局[26]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "福 地方知识提供未来方案层次目前文献中主要涉及四方面的内容,物种监测方案、物种保护方案、地方性的独特应用技术方法以及整合当地人的土地利用方式用于土地可持续发展等。其中国内的研究更局限于地方性的技术方法介绍,国外的范围更广。例如杨成通过田野调查,研究了贵州省紫云布依族苗族自治县宗地乡的中蜂传统饲养技术、生产组织范式和保障制度,并指出苗族的生态知识可用于当地的产业扶贫,推进了当地文化生态扶贫建设[27]。游俊、罗康隆、刘建民等对我国西南地区主要是广西、贵州等地的石漠化进行研究,介绍了苗族、瑶族等民族在治理石漠化灾害中的生态做法,对石漠化灾害救治有着借鉴意义[283]。国外在资源",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "管理、环境管理、生物多样性管理方面做了大量研究，根据地方生态知识提出了新的监测或研究技术,突破了传统研究中技术的不足,并且新技术可以应用于广泛的问题解决中,给科学家的研究也提供了新的思路。如Gilchrist 等利用地方生态知识制定了操纵性实验技术,这种跨学科的方法利用LEK丰富的历史观测资料，同时利用实验方法理清竞争假设，并确定潜在的机制。这种集成方法产生的历史基础,机制上合理的解释，可以比任何LEK或实验研究单独更有用。而这种更加有效的方法可以运用于环境变化原因的分析,如芦苇入侵盐干草农场的例子,给专家解决环境生态的变化提供了新思路[31]。再比如 Parry 和 Peres 研究大空间尺度上的对热带森林野生动物猎杀的监测,结合生态知识的监测方法可以节约成本,加强社区参与,并为资源的可持续利用提供新的见解[32]。Hong 提出结合生态知识将岛屿生态区域活化,通过技术措施和改善环境来提高生活状况,应用绿色能源系统和环境友好技术,有效利用无人居住的岛屿。最后,还讨论了关于海岛生态旅游和碳零岛的建议[33]。 2",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "地方知识参与生态管理基本上主要涉及3个方面内容,一是怎样借用地方文化以及习俗管理当地资源;二是如何构建资源基层管理机构有效提升基层的社会参与;三是如何培训改善地方人的综合管理以及环境治理知识。从文献综述中统计得到,国际上关于地方知识参与管理的研究占半数,包括资源管理、环境管理、生物多样性管理等。而国内关于地方知识参与管理的研究几乎为空白,另外较少深入研究地方知识与普遍知识如何结合,结合之后怎样影响经济、社会和生态系统,以及两者相融合的模式如何给管理规划提供新的见解。叶宏田野考察西南山地的民间信仰、宗教仪式等,在当地社区构建\"参与式社区灾害管理”制度,有效地发挥社区的主观能动性,进而有助于提升民族地区农村社区的防灾减灾能力。但是由于项目自身的局限,以及缺乏对于少数民族传统文化中减灾地方性知识的尊重,因此在项目实际推广的过程中陷人了无法进行本土化调试的困境[34]。国外地方知识参与管理的研究领域包括海洋资源管理、环境流量评估、沙漠生态管理、岛屿管理系统、渔业管理等。比如Yethorsson 在挪威的研究中发现,当地人了解不同鳕鱼品种的产卵场和移动路线，并且有一套可持续的渔场管理方法[35]。Murray 等研究了地方生态知识在加拿大纽芬兰地区渔业管理中的应用[36]。Giordano 和Liersch研究了地方知识与GIS 技术结合应用于土壤盐度管理[37]。Walsh 等指出科学家和自然资源管理者结合了传统知识,建立自然资源管理(NRM)框架,该框架提供了一个工具,可应用于跨文化和代际学习,提高资源管理效率和人民幸福和自我意识[38]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "地方知识作为与普遍知识相互补的重要知识,是当地人延续的生活方式,在解决生态问题上的价值不容忽视。整体而言,地方知识的生态应用在中国仍然较匮乏,虽然针对不同区域不同种族等的地方知识进行了研究,但是停留在发现问题、提供数据的层面上,尚未在科学规划、资源管理中发挥其应有的价值,在参与管理方面的研究近乎为空白,从长远来看仍有较大发展的潜力空间。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "因此,针对这一状况,提出了地方知识在中国未来应用发展的三点难点。第一，人们应该充分利用先进的研究手段和方法来解读已有的地方知识,提取出有助于生态建设的有效信息,并进行归纳总结;第二,应重点研究如何将地方知识与普遍知识结合起来,加强新的监测和管理技术的研究,给地方知识研究提供新的技术和视角,并要在资源管理、环境管理等方面做出突破,构建出完善的生态应用体系,更多地为地方发展提供建议并用于指导规划管理;第三,人们应充分挖掘未知的地方知识,深人当地,利用诸如 PGIS 等技术手段获取新的知识,并能及时更新已有的知识体系,更合理的指导未来的生态建设。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最后,我们应时刻保持一颗敬畏的心,注重不同地域和文化的差异,充分尊重当地人的文化传承,并要随着社会发展不断转型和调适,根据当地的经济发展、人口流动、外来文化影响等各因素，做出调整来契合时代要求。我们必须要有更长远而深刻的眼光,使中国的生态知识应用更加充分而可持续。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］克利福德·吉尔兹.地方性知识——阐释人类学论文集.王海龙，张家宣，译.2版.北京：中央编译出版社，2004：23-255",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2] 邢启顺.乡土知识与社区可持续生计.贵州社会科学，2006，（3)：76-77.  \n[3] 吴彤.两种\"地方性知识”——兼评吉尔兹和劳斯的观点．自然辩证法研究，2007，23（11)：87-94.  \n[4] 刘兵.关于 STS 领域中对\"地方性知识\"理解的再思考.科学与社会，2014，4（3)：45-58.  \n[5] 盛晓明.地方性知识的构造.哲学研究，2000，（12）：36-44.  \n[6] 柏贵喜.乡土知识及其利用与保护.中南民族大学学报：人文社会科学版，2006，26(1)：20-25.  \n[7] IIRR. Recording and using indigenous knowledge：a manual. Silang，Cavite,Philippines：IIRR,1996.  \n[8] Boven K,Morohashi J. Best Practices Using Indigenous Knowledge.The Hague：NUFFIC/MOST,2002.  \n[9] 曹天天.传统知识的特点及其知识产权保护困境研究.唐山师范学院学报，2012，34（3）：101-104.  \n[10] 杨庭硕.本土生态知识引论.北京：民族出版社，2010.  \n[11] Berkes Taylor& Francis Group，2008.  \n[12] 安维复 ：在地方知识和普遍知识之间.社会科学，2010，（9)：99-109.  \n[13] 约瑟夫 权 走向科学的政治哲学.盛晓明，译.北京：北京大学出版社，2004：122-124.  \n[14] 殷秀琴， 宋博，董炜华，宋未冬.我国土壤动物生态地理研究进展.地理学报，2010,65(1)：91-102.  \n[15] 常建华.试论中国地方志的社会史资料价值.中国社会历史评论，2006(1)：61-73.  \n[16] 石奕龙，艾比不拉·卡地尔．新疆罗布人传统生态知识的人类学解读.云南民族大学学报：哲学社会科学版，2011，28（2）：21-25.  \n[17] 罗康隆.论苗族传统生态知识在区域生态维护中的价值- 以贵州麻山为例.思想战线，2010，36(2)：40-44.  \n[18] 山根幸夫.中国史研究入门(上下)（增订本).田人隆，黄正建，译.北京：社科文献出版社，2000.  \n[19] JerniganK,uneauaoedfdgigooopasoihtfitaobaseachndatios，2008,6: 93-106.  \n[20] GaribayorijelR，RamirezterzoA，OrdazvelzquezM.Womencareaboutlocalknowledge，experiencesfromethnomycologyJoualofEthnobiology and Ethnomedicine,2012,8（1）:1-13.  \n[21]Telfer，ardeJIdigeousowledgefockagaroologinwestehmlandustralauanEcolog，,（）:379-406.  \n22]Sudarisa,thJoseolpctofsieeetaalSouth India: perspectives from Local Knowledge. Human Ecology，2012,40(6) : 931-942.  \n[23] PetersenLM,ollElisR,cinsevelopetfpeofcalildarvestedsciesusedinefolotrade，Cape Town，South Africa. Ecology and Society，2012，17(2）：26.1-26.31.  \n[24]NtupayaY,wseWFeeKapata,oosJHvoslfEdeAKIigeousowledgofruralounitisalaionsocio-economicuse，ropagation，ogiodiversityndeologofUapacairkianauellrg.ricanJoualofotechnolo，(14): 2386-2396.  \n[25]Walisiallcaalgfefioand commercialization in West and Central Africa.Economic Botany，2014,59(3）:231-243.  \n[26］衡先培，王志芳，戴芹芹,姜芊孜.地方知识在水安全格局识别中的作用——以重庆御临河流域龙兴、石船镇为例.生态学报，2016，36(13): 4152-4162.  \n[27] 杨成，孙秋.苗族传统生态知识保护与产业扶贫- -以宗地乡中蜂传统饲养的田野调查为依据.广西民族研究，2014，（3)：147-152.  \n[28] 游俊，田红.论地方性知识在脆弱生态系统维护中的价值——以石灰岩山区“石漠化\"生态救治为例.吉首大学学报：社会科学版,2007,28(2) : 85-90.  \n[29] 罗康隆.地方性知识与生存安全- -以贵州麻山苗族治理石漠化灾变为例.西南民族大学学报：人文社会科学版，2011，32（7)：6-12.  \n[30] 刘建民.生态与生计：广西大石山区石漠化治理研究——以马山县古寨瑶族乡古朗屯为例.广西民族研究，2013，（3)：177-182.  \n[1]GilchstG,alerkelFaaolcaloledgotrutetiifaageesesgatodooSociety，2005，10(1) : 20.  \n[32]ParLeacaloalowooaflisaiaSociety,2015,20(3): 15-15.  \n[]HngScalctidalogloeasalodEt(2) : 263-269.  \n[34] 叶宏.地方性知识与民族地区的防灾减灾[D]．成都：西南民族大学，2012.  \n[35] YethorsoE993mifofisheeadthateTraditioalowedgedesoucaageentiortnayaditialEoloicalKnowledge:Concepts and Cases:133—142.  \n[36] Murray G，Neis B，Johnsen JP.Lessons learned from constructing interactions between local ecological knowledge，fisheries science，andfisheriesmanagementinthecommercialfisheriesofnewfoundlandandLabrador，Canada.Human Ecology，2Oo6,34(4)：549-571.  \n[37] GiordanoR,efuzdtteatealdcalleiltyviotaleSoftware，2012，36:49-63.  \n[38]WalshFopetfoafoalogiamanagement.Ecology and Society，2013，18(3）：18-18.",
+        "page_idx": 8
+    }
+]

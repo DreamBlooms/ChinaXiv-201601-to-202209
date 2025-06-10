@@ -1,0 +1,287 @@
+# 5G中基于穷举搜索的D2D资源分配算法
+
+孙琦，陈桂芬
+
+(长春理工大学 电子信息工程学院，长春 130022)
+
+摘要：D2D（devicetodevice）作为5G通信的核心技术，在满足用户通信需求与提高用户连通数量等方面具有至关重要的作用。针对传统复用算法的系统中断概率过高和用户资源消耗较大的问题，提出一种基于穷举搜索的D2D资源分配算法。该算法引入穷举搜索法初步确定用户发射功率；同时参考蜂窝与D2D用户状态以确定复用组合；应用调整功率步骤降低中断概率。仿真结果表明，小蜂窝用户数时基与穷举搜索的 D2D 资源分配算法相比于传统算法，在多D2D 用户数情况下的连通概率平均提高了 $1 5 . 7 \%$ ，用户资源消耗平均降低了 $1 0 . 5 \%$ 。
+
+关键词：D2D；穷举搜索；中断概率；调整功率 中图分类号：TN929.5 doi:10.3969/j.issn.1001-3695.2018.06.0326
+
+# D2D resource allocation algorithm based on exhaustive search method in 5G
+
+Sun Qi, Chen Guifen† (Schoolof Electronics&Information Engineering,Changchun Universityof Science&TechnologyChangchun130022, China)
+
+Abstract:As thecore technology of 5Gcommunication，D2D(device to device）plays a vital rolein meeting user communication needsand increasing the number of usersconnected.In view of the high system outage probability of traditional reuse algorithmandthe large consumption of user resources,this paper proposed a D2D resourcealocation algorithmbasedonexhaustive search method.The algorithmusedtheexhaustivesearch method topreliminarilydetermie the user'stransmissonpower;atthesametime,itreferencedcellarandD2Duser'sstatus todeterminethereusecombiation;it applied the power adjustment stepto reduce theoutage probability.The simulationresults show thatthe D2D resource allcationalgorithmbasedontheexhaustive search methodcompares tothetraditional algorithm when thenumberof celular users is small, the connectivity probability average increase $1 5 . 7 \%$ in the case of more D2D users,and the user's energy consumption average decrease $1 0 . 5 \%$
+
+Key words:D2D; exhaustive search method; outage probability; power adjustment
+
+# 0 引言
+
+D2D是指设备与设备之间在基站的控制下直接通信。在整个系统中通过短距D2D 链路通信可以极大地缓解基站的负载压力，在整个系统上提升吞吐量，进一步提升频谱利用率 $[ 1 ^ { \sim } 3 ]$ 。随着推进5G技术发展的步伐越来越快，D2D技术作为一个重要的组成部分受到了广泛的关注和研究。文献[4]提出了一种基于干扰协调的决策选择算法，通过设置集中控制器来寻找能获得最佳用户QoS（服务质量要求）的发射功率，使系统吞吐量得到较大的提升。文献[5]提出一种基于能效的干扰协调资源分配方案，通过组合基于参数法的Dinkelbach功率分配算法和用于资源分配的Kuhn-Munkres 算法，使能量效率进一步提高。文献[6]考虑做一个容量限制区域，从而确定用户的复用合集。
+
+文献[7]提出了一个基于Barrier方法求解最佳功率的算法，具有较高的性能。文献[8]提出一种基于频谱划分与功率协调的资源分配方案，该算法具有频谱利用率高的优势。文献[9]提出一种基于能效的中继选择算法，使系统达到了更高的吞吐量性能。文献[10]提出一种引入次梯度迭代法和分部式规划法进行最优功率分配的方法，降低了系统功耗。文献[11]提出了一种移动性感知缓存策略，能有效的确认D2D系统中需要缓存的资源。
+
+以上文献都没有注重于降低系统中断概率（经过足够次数的测试与系统中断发生次数的反比称为系统中断率）的问题，在实际生活中D2D用户需要的是临时且准确的连接，当D2D用户有连接需要时，系统就需要分配资源给D2D用户，这就要求系统具有较低的系统中断概率。在一定条件下可以牺牲系统其他性能，从而提升系统连通率以满足D2D用户的服务需要。
+
+D2D 通信发生于微蜂窝小区（UMi）中，其所包含的蜂窝用户与D2D用户数量有限，所以引入穷举搜索方法是可行的。通过设定一定的条件依序进行蜂窝用户与D2D用户的复用组合测试并加入功率控制模块，寻找在满足QoS情况下可以得到的最佳用户发射功率。
+
+# 1 系统模型
+
+如图1所示在一个蜂窝小区中，小区内含有单蜂窝基站（eNB），在小区中随机分配若干个蜂窝用户。蜂窝用户集合为 $\pmb { U } = \{ U _ { I } , U _ { 2 } , U _ { 3 } , \pmb { \cdot } \bullet \bullet U _ { N } \}$ ，其中 $\boldsymbol { U } _ { i }$ 表示第 $i$ 个蜂窝用户，D2D对用户集合为 $\pmb { { \cal D } } = \{ D _ { l } , D _ { 2 } , D _ { 3 } \pmb { \cdot \cdot } \bullet \bullet D _ { M } \}$ ,其中 $D _ { j }$ 表示第 $j$ 个D2D用户对。假设系统处于满载状态，每个蜂窝用户占据一个资源块且相互正交。每一个D2D用户对中发送端与接收端在满足最大距离 $R _ { d }$ 之间随机分配（ $R _ { d }$ 不小于 $1 0 \mathrm { m }$ ）。复用过程只考虑蜂窝上行状态，且一个蜂窝资源只能被一个D2D用户对复用，噪声设置为高斯白噪声 $N$ 。设定路损由基站到蜂窝用户的路径损耗为 $s _ { B i }$ ，由D2D用户对中发射端到接收端的路径损耗为$s _ { j }$ ，由D2D用户对中发射端到基站的路损为 $S _ { j T B }$ ,由蜂窝用户到 D2D用户对中接收端的路损为 $s _ { i j R }$ 。
+
+![](images/4b2c1eb37703bc8ce84040a89ba6f5972f3c8a9349a19403b6571b0432f44671.jpg)  
+图1D2D系统复用模型
+
+# 2 基于穷举搜索的D2D资源分配算法
+
+算法含有三个步骤：a）计算出全体复用组合的功率；b）选取特定的复用组合;c)取的特定复用组合重新调整功率。
+
+# 2.1通过穷举搜索算法获得全体复用组合功率
+
+如图1所示在图中所示通信情况下蜂窝 $\boldsymbol { U } _ { i }$ 用户与D2D用户 $D _ { j }$ 接受端的信噪比 $S N R _ { i } ^ { U }$ 与 $S N R _ { j } ^ { D }$ 可以表示为
+
+$$
+S N R _ { i } ^ { U } \ = \ \frac { P _ { i } ^ { U } \Big / S _ { B i } } { N + P _ { j } ^ { D } \Big / S _ { j T B } }
+$$
+
+$$
+S N R _ { j } ^ { D } = \frac { P _ { j } ^ { D } \Big / S _ { j } } { N + P _ { i } ^ { U } \Big / S _ { i j R } }
+$$
+
+使 $P _ { j } ^ { D }$ 获得一个确定值，可以设置为最高功率 $P _ { \mathrm { m a x } } ^ { D }$ 。则蜂窝功率的表示式变为
+
+$$
+P _ { i } ^ { U } = S N R _ { i } ^ { U } S _ { B i } ( N + P _ { \operatorname* { m a x } } ^ { D } \Big / S _ { j T B } \ )
+$$
+
+$$
+\alpha = S _ { B i } ( N + P _ { \operatorname* { m a x } } ^ { D } \Big / S _ { j T B } \ )
+$$
+
+$$
+P _ { i } ^ { U } ~ = ~ \alpha \cdot S N R _ { i } ^ { U }
+$$
+
+在设置了最小Qos 时，可以确定蜂窝功率 $P _ { i } ^ { U }$ 与 $s N R _ { i } ^ { U }$ 成线性关系。在迭代中功率越接近满足Qos 的功率时，信噪比也会有同样的趋势。设置系统功率间隔 $\gamma _ { 1 }$ （Interval）与迭代次数 $\mathbf { \sigma } _ { o }$ （其中 $\mathbf { \sigma } _ { o }$ 小于等于 $t _ { 1 }$ ，在章节2.2中将说明间隔》与次数 $t$ 的获取方法）蜂窝发射功率变为
+
+$$
+P _ { i } ^ { U } = P _ { \operatorname* { m a x } } ^ { U } \ – \ \gamma _ { 1 } ( o \mathrm { ~ - ~ } 1 )
+$$
+
+$$
+P _ { \operatorname* { m a x } } ^ { U } - \gamma _ { 1 } ( o - 1 ) = S N R _ { i } ^ { U } S _ { i B } ( N + P _ { \operatorname* { m a x } } ^ { D } \Big / S _ { j T B } \ )
+$$
+
+$$
+S N R _ { i } ^ { U } ~ = ~ \alpha ^ { - 1 } ( P _ { \operatorname* { m a x } } ^ { U } \cdot \gamma _ { 1 } ( o ~ - 1 ) ~ )
+$$
+
+可以看出蜂窝用户信噪比与迭代次数仍然保持线性关系，所以在功率有限减少时可以找到符合信噪比要求的蜂窝用户发射功率，所找到的发射功率同时也可以保证此蜂窝用户的通信状况较好。
+
+通过设置最高迭代次数与功率间隔，可以在有限次数的迭代中确定此蜂窝用户与D2D用户对的组合之间是否在满足最低通信要求的情况下具有合适的发送功率数值。D2D用户对中发射功率 $P _ { j } ^ { D }$ 也采取同样的策略推导如下：
+
+$$
+P _ { j } ^ { D } = S N R _ { j } ^ { D } S _ { j } ( N + P _ { \operatorname* { m a x } } ^ { C } \Big / S _ { i j R } \ )
+$$
+
+$$
+\beta = S _ { j } ( N + P _ { \operatorname* { m a x } } ^ { C } \big / S _ { i j R } \ )
+$$
+
+$$
+P _ { j } ^ { D } = \beta \cdot S N R _ { j } ^ { D }
+$$
+
+$$
+S N R _ { j } ^ { D } = \beta ^ { - 1 } ( P _ { \operatorname* { m a x } } ^ { D } \cdot \gamma _ { 2 } ( p \cdot 1 ) )
+$$
+
+其中D2D用户对中发射端的迭代间隔设置为 $\gamma _ { 2 }$ ，迭代次数设置为 $p$ ( $\dot { \mathbf { \Omega } } _ { p }$ 小于等于 $t _ { 2 }$ ）。将蜂窝用户发射功率迭代过程与D2D用户发射功率迭代过程结合得到联合发射功率算法。基于穷举搜索算法获得全体功率的算法如下：
+
+for $o { = } 1$ ： $t _ { 1 }$ D2D 迭代执行第 $\mathbf { \sigma } _ { o }$ 次for $p { = } 1$ ： $t _ { 2 }$ 蜂窝迭代执行第 $p$ 次$i f$ （通过式（8）与（12）计算的得到的信噪比值$s N R _ { i } ^ { U } > \ s N R _ { \operatorname* { m i n } } ^ { U } \mathrm { ~ E ~ } s N R _ { i } ^ { D } > s N R _ { \operatorname* { m i n } } ^ { D } \ )$ （204break功率选择结束，并储存当前功率值与信噪比值于矩阵Welse继续执行迭代endend
+
+end
+
+若迭代次数执行完仍不能达到信噪比要求，则此复用组合不能在满足Qos的情况下建立通信链路，将不能通过的组合用符号NO表示。并储存执行次数 $\mathbf { \sigma } _ { o }$ 与 $p$ 储存为 $t _ { 1 } ^ { * }$ 与 $t _ { 2 } ^ { * }$ ，把发射功率穷举算法扩展到多个组合，所有的复用组合构建二维复用矩阵W，如表1所示：
+
+表1复用组合表  
+
+<html><body><table><tr><td></td><td>U1</td><td>U2</td><td>UN</td></tr><tr><td>D1</td><td>W(1,1)</td><td>W(1,2)</td><td>W(1,N)</td></tr><tr><td>D2</td><td>W(2,1)</td><td>W(2,2)</td><td>W(2,N)</td></tr><tr><td>DM</td><td>W(M,1)</td><td>W(M,2)</td><td>W(M,N)</td></tr></table></body></html>
+
+在 $W$ 矩阵中每一个元素储存此复用组合的穷举迭代功率蜂窝 $P _ { i } ^ { U * }$ ,D2D 用户发射功率 $P _ { j } ^ { D ^ { * } }$ ，以及所对应的蜂窝与 D2D用户的信噪比 $S N R _ { i } ^ { U * }$ 与 $S N R _ { j } ^ { D * }$ 。如下所示：
+
+$$
+W { \left( i , \ j \right) } = \left\{ \begin{array} { l } { P _ { i } ^ { U ^ { * } } } \\ { P _ { j } ^ { D ^ { * } } } \\ { S N R _ { i } ^ { U } } \\ { S N R _ { j } ^ { D } } \end{array} \right\} \qquad \forall i \in \ N , \forall j \in \ M \qquad 
+$$
+
+在复用组合选取阶段选用比例公平算法[12]，通过联合蜂窝与D2D用户信噪比选取最优组合，流程如下：
+
+$$
+r _ { 1 } = \log { ( 1 + S N R _ { i } ^ { U } { } ^ { * } ) } ~ \forall ~ i \in { \cal N }
+$$
+
+$$
+r _ { 2 } = \log { ( 1 + S N R _ { j } ^ { D } ^ { * } ) } ~ \forall j \in { \cal M }
+$$
+
+$$
+F = \operatorname { a r g m a x } ( \frac { r _ { 1 } } { R _ { 1 } } + \frac { r _ { 2 } } { R _ { 2 } } )
+$$
+
+其中： $\overline { { R _ { i } } }$ 为每个组合所对应的平均速度。求出最大的 $F$ 值所对应的组合即为最优组合。
+
+# 2.2选出特定用户组合步骤
+
+因为系统设定为单蜂窝用户复用单D2D用户对，所以在选取复用组合时，若第 $i$ 个蜂窝用户与第 $j$ 个D2D用户对的组合被选取，则所对应的行和列复用组合不能再被选取。当选取次数没有达到D2D对用户个数时，即无法把所有D2D用户全部复用进蜂窝通信系统中，此时发生复用中断。中断判断过程如下所示：
+
+for $\scriptstyle { i = 1 }$ ：M执行次数为D2D用户个数 $M$ 次f(二维表所有元素相加为零)break结束复用选取，表示不能正确选取else通过比例公平算法选出复用组合 $\boldsymbol { { \upsilon } } ^ { * }$ 与 $\boldsymbol { D } ^ { * }$ 储存，并将所对应的行和列在二维表W中置零end  
+end
+
+当D2D用户对可以全部复用成功时，此时中断判断过程返回真。在中断判断过程返回假时，可以通过调整一部分复用组合的发射功率来达到成功复用。为了方便说明，采用蜂窝用户信噪比作为D2D资源分配算法的依据。在D2D复用发生中断时，复用矩阵中信噪比数据的一部分可能为表2所示。
+
+表2未选择表  
+
+<html><body><table><tr><td></td><td>Ui</td><td>Ui+1</td><td>Ui+2</td></tr><tr><td>Dj</td><td>NO</td><td>18</td><td>N0</td></tr><tr><td>Dj+1</td><td>15</td><td>24</td><td>12</td></tr><tr><td>Dj+2</td><td>N0</td><td>16</td><td>10</td></tr></table></body></html>
+
+在选取最大蜂窝信噪比时， $U _ { i + 1 }$ 与 $D _ { j + 1 }$ 被第一次选取出， $U _ { i + 2 }$ 与 $D _ { j + 2 }$ 被第二次选出，在选出组合后将其所对应的行和列置零，表示不能再选取。选择两次后得到最终剩余复用矩阵如表3所示，此时无法为最后一个D2D用户对分发复用资源块，产生复用中断。
+
+表3选择表  
+
+<html><body><table><tr><td>Ui</td><td>Ui+1</td><td>Ui+2</td></tr><tr><td>Dj</td><td>N0 0</td><td>NO</td></tr><tr><td>Dj+1</td><td>0 0</td><td>0</td></tr><tr><td>Dj+2</td><td>N0 0</td><td>0</td></tr></table></body></html>
+
+若在满足Qos的情况下适当降低 $U _ { i + 1 }$ 与 $D _ { j + 1 }$ 组合的复用功率至 $1 7 \mathrm { d B m }$ ，如表4所示。
+
+表4未选择表（改变功率）  
+
+<html><body><table><tr><td></td><td>Ui Ui+1</td><td>Ui+2</td></tr><tr><td>Dj</td><td>N0</td><td>18 N0</td></tr><tr><td>Dj+1</td><td>15 17</td><td>12</td></tr><tr><td>Dj+2</td><td>N0 16</td><td>10</td></tr></table></body></html>
+
+$U _ { i + 1 }$ 与 $D _ { j + 1 }$ 先被选出， $\boldsymbol { U } _ { i }$ 与 $D _ { j + 1 }$ 被第二次选出，得到矩阵如表5所示。
+
+表5选择表（改变功率）  
+
+<html><body><table><tr><td>Ui</td><td>Ui+1</td><td>Ui+2</td></tr><tr><td>Dj</td><td>NO 0</td><td>NO</td></tr><tr><td>Dj+1</td><td>0 0</td><td>0</td></tr><tr><td>Dj+2</td><td>N0 0</td><td>10</td></tr></table></body></html>
+
+此时 $U _ { i + 2 }$ 与 $D _ { j + 2 }$ 可以被第三次成功选出作为第三组复用组合，此时所有D2D用户对在满足Qos的情况下均被复用进系统中。
+
+在选取需要调整功率的组合时，有以下原则：
+
+a）当二维复用表中存在第 $j$ 行全为N0时，则序号为 $j$ 的D2D用户对无法成功复用。
+
+b)当i列上存在 $M - 1$ 个只在 $i$ 列上具有复用组合数据且其他列数据均为N0时，此次复用无法成功。
+
+c)当存在 $N - M - 1$ 个列上所有的数据全为N0时，复用无法成功。
+
+在选取需要改变功率的复用组合时，选取顺序是 $\boldsymbol { v } ^ { * }$ 与 $\boldsymbol { D } ^ { * }$ 储存用户组合的倒序组合，其中第一次选择用户组合 $U _ { 1 } ^ { * }$ 与 ${ D } _ { 1 } ^ { * }$ 和第二次选择用户组合 $U _ { 2 } ^ { * }$ 与 ${ D } _ { 2 } ^ { * }$ 以及倒数第二次的选用组合三者具有较高的系统复用成功率，这是由于在选用时是根据最大通信质量选择的，所以在降低功率以增加连通概率时，这些组合具有更大的潜力在维持系统性能不变上使所有D2D用户成功复用至蜂窝系统中。所选择的功率调整组合的形状也不仅仅是十字型，也可能是T型。复用组合的顺序结构也可以不连续，复用组合中也不仅仅局限于发生一次调整功率。
+
+在设置迭代间隔与次数时，为了降低算法复杂度与执行时间，需要在复用前对系统先使用中断判断算法进行一定次数的测试，统计出系统成功连通概率（成功连通概率 $_ { . = 1 }$ -系统中断概率），用 $P _ { S }$ 表示其数值。在设定迭代次数 $t$ 时， $P _ { S }$ 数值越大证明系统成功连通率越高，功率间隔可以设置的越大，表达式如下：
+
+$$
+\begin{array} { r } { t \cdot \gamma = \left\{ \begin{array} { l l } { P _ { S } ( P _ { \operatorname* { m a x } } ^ { U , D } - P _ { \operatorname* { m i n } } ^ { U , D } ) } & { 1 \geq P _ { S } \geq 0 . 9 } \\ { \qquad } \\ { P _ { \operatorname* { m a x } } ^ { U , D } } & { 0 . 9 \geq P _ { S } \geq 0 } \end{array} \right. } \end{array}
+$$
+
+其中： $P _ { \operatorname* { m a x } } ^ { U , D }$ 表示蜂窝用户和 D2D 用户的最大发射功率， $P _ { \mathrm { m i n } } ^ { U , D }$ 表示最小功率且最小功率设置为零。 $\textit { t }$ 与》在计算蜂窝与D2D发射功率迭代时分别为 $t _ { 1 }$ ， $\gamma _ { 1 }$ 与 $t _ { 2 }$ ， $\gamma _ { 2 }$ 。
+
+# 2.3通过穷举算法调整特定组合的功率
+
+功率调整过程同样依据穷举迭代算法，蜂窝与D2D用户初始发射功率设置为最低发射功率 $P _ { \mathrm { m i n } } ^ { U }$ 与 $P _ { \mathrm { m i n } } ^ { D }$ ，所能达到的上限为 $W$ 矩阵中的 $P _ { i } ^ { U * }$ 与 $P _ { j } ^ { D ^ { * } }$ ，间隔与迭代次数设置分别为 $t _ { 1 } - t _ { 1 } ^ { * }$ ，$\gamma _ { 1 }$ 与 $t _ { 2 } - t _ { 2 } ^ { * }$ ， $\gamma _ { 2 }$ 。表达式为
+
+$$
+S N R _ { i } ^ { U } ~ ^ { * } ~ = ~ \alpha ^ { - 1 } ( P _ { \operatorname* { m i n } } ^ { U } + \gamma _ { 1 } ( o + 1 ) ~ ) ~ \forall ~ o \in t _ { 1 } { \cdot } t _ { 1 } ^ { * }
+$$
+
+$$
+S N R _ { j } ^ { D ^ { * } } = \beta ^ { - 1 } ( P _ { \operatorname* { m i n } } ^ { D } + \gamma _ { 2 } ( p + 1 ) ) \forall p \in t _ { 2 ^ { - } } t _ { 2 } ^ { * }
+$$
+
+功率调整过程与章节2.1中穷举的算法类似，功率控制的算法如下所示：
+
+for $\scriptstyle o = 0$ ： $t _ { 1 } - t _ { 1 } ^ { * }$ D2D 迭代执行第 $\mathbf { \sigma } _ { o }$ 次for $\scriptstyle p = 0$ ： $t _ { 2 } - t _ { 2 } ^ { * }$ 蜂窝迭代执行第 $p$ 次$i f$ （若中断判断算法返回真且由式（18）和（19）计算出 $S N R _ { i } ^ { U ^ { * } } >$ $S N R _ { \operatorname* { m i n } } ^ { U }$ 且 $S N R _ { i } ^ { D ^ { * } } >$ （204SNRmin）break功率选择结束，并储存当前功率值else继续执行迭代endend  
+end
+
+在第一次功率迭代算法的基础上使用剩余迭代次数进行调整功率步骤的迭代，可以降低算法所执行的计算时间。中断判断过程与 $\begin{array} { r l } { S N R _ { i } ^ { U * } > } & { { } S N R _ { \mathrm { { m i n } } } ^ { U } } \end{array}$ 与 $S N R _ { i } ^ { D ^ { * } } > S N R _ { \operatorname* { m i n } } ^ { D }$ 均为且运算，三者中有一个条件不成立则整个判断过程返回假。
+
+基与穷举搜索算法的D2D资源分配算法具体流程如下：
+
+a)设置一个蜂窝小区，生成蜂窝用户集 $\pmb { U }$ ，D2D对用户集$D$ 。
+
+b)执行一定次数的中断概率判断算法，统计成功率记为
+
+Ps。
+
+c)通过式（17）计算出蜂窝与D2D所对应的 $t$ 与。
+
+d)使用穷举迭代算法计算出含有功率，信噪比的矩阵W。
+
+e)使用比例公平算法对W进行复用选取，并依序储存复用组合 $\boldsymbol { { v } } ^ { * }$ 与 $\boldsymbol { p } ^ { * }$ 。
+
+f)对复用矩阵W进行中断判断，若返回真则储存复用组合 且算法结束，若返回假则执行g）。
+
+g)进行选取合适的调整功率组合（依据 $\boldsymbol { \mathbf { \mathit { v } } } ^ { * }$ 与 $\boldsymbol { D } ^ { * }$ 储存的顺序倒序进行，并使用原则a） $\widetilde { \mathbf { \Phi } } _ { \mathrm { c } }$ ）判断是否适合选取）。
+
+h)将选取出的组合进行调整功率步骤，若在迭代次数内中断判断算法返回真，即系统成功复用且储存当前复用组合，算法结束。
+
+# 3 仿真结果与分析
+
+在模拟仿真中对比了在4G系统中适用的开环功率控制OLPC 算法（open loop powercontrol）、蜂窝用户与D2D用户发射端的功率同时迭代穷举的资源分配算法ESM算法（exhaustive search method）、引入了调整功率步骤的蜂窝与D2D发射端功率同时穷举的资源分配算法NESM算法（newexhaustive searchmethod）的平均连通率和吞吐量。其中对比OLPC算法是为了验证适用与4G的功率分配算法不能适用于5G通信环境下，ESM算法与NESM算法（含有调整功率步骤）的对比目的是为了验证调整功率步骤是否有效。
+
+# 3.1仿真参数设置
+
+仿真环境为单蜂窝基站（基站半径为 $R$ ）形成的圆形小区，$N$ 个蜂窝用户与 $M$ 对D2D用户随机分布在小区中。D2D用户对中的发射端与接收端距离在不超过最大距离 $R _ { d }$ 内随机分配，且发射端距离基站不小于 $1 0 ~ \mathrm { m }$ 。路损模型使用适用于5G通信系统的 METIS 2020,采用LOS的UMI 路损。仿真环境在MATLAB中完成，仿真时间长度为10000时隙。仿真参数如表6所示。
+
+表6仿真参数设置  
+
+<html><body><table><tr><td>参数</td><td>参数值</td></tr><tr><td>小区半径R/m</td><td>10<R<500</td></tr><tr><td>D2D 对距离Rd/m</td><td>10< Rd <25</td></tr><tr><td>仿真长度</td><td>10000</td></tr><tr><td>系统带宽B/MHz</td><td>50</td></tr><tr><td>载频fc /GHz</td><td>2</td></tr><tr><td>蜂窝用户个数</td><td>10.30</td></tr><tr><td>D2D用户对数</td><td>1,2.3· · · 10,30</td></tr><tr><td>噪声功率N/dBm</td><td>-114</td></tr><tr><td>蜂窝用户最大发送功率/dBm</td><td>24</td></tr><tr><td>蜂窝用户最小信噪比/dBm</td><td>10</td></tr><tr><td>D2D用户最大发送功率/dBm</td><td>15</td></tr><tr><td>D2D 用户最小信噪比/dBm</td><td>5</td></tr></table></body></html>
+
+<html><body><table><tr><td>蜂窝与基站间的损耗,蜂窝到D2D</td><td>22log10d)+ 32.79 10<d≤350</td></tr><tr><td>接收端的损耗，不同D2D之间的</td><td>d 40log1Q</td></tr><tr><td>路径损耗，D2D发射端到基站的</td><td>350） + 88.76 350<d≤500</td></tr><tr><td>损耗</td><td></td></tr></table></body></html>
+
+# 3.2 仿真结果分析
+
+如图2所示，对比了三种算法在蜂窝用户数为10个时的通信成功概率。其中在D2D复用对数为一对时ESM算法和NESM算法性能相同，这是因为在D2D为一对时复用矩阵W的结构不具有运行调整功率步骤的可能。在D2D对用户数量大于蜂窝用户半数时统计结果来看，引入调整功率步骤的NESM算法在连通性能相比ESM算法，通信成功概率平均提高了 $1 5 . 7 \%$ 。
+
+![](images/71d18d54e762345edba40cc8b9a9fd0fdb8f34ab21f1dfdf12426a0c4ed2b894.jpg)  
+图2不同D2D用户数时的连通率
+
+如图3所示，展示了含有30个蜂窝用户时的通信成功概率。可以看出引入调整功率的NESM算法与ESM算法均出现了成功概率下降，趋势与小用户数（蜂窝用户为10个)时是一致的。但当D2D对用户数达到最大蜂窝用户数时成功概率为0.513，相比于小用户数（概率为0.714）时概率出现了下降。
+
+![](images/2cbe8dbf950b58785d28c5bfe1597e6ab6942c498479921a59b4129bf07b5adb.jpg)  
+图3大用户数时的连通率
+
+如图4所示，展示了系统中D2D用户对数达到了最大的蜂窝用户数时的连通概率，可以看出随着系统中最大蜂窝用户数的上升，连通概率有下降趋势，所以NESM算法在小用户数时性能较好。从仿真中可看出连通性能会随着系统中最大用户数的上升而下降。但NESM算法相比于未引入调整功率的ESM算法连通性能仍具有较大提升。
+
+![](images/6434139096e92cfab563f8dbac789406cacb0c3a6501348a6d14e35f31b50e69.jpg)  
+图4D2D与蜂窝用户数相等时的连通率
+
+如图5所示，对比了不同算法的蜂窝与D2D用户发射功率的平均值对比。引入了调整功率步骤的NESM算法相比ESM算法，在保持较高的连通率的情况下可以使发射功率更小，使功率平均降低了 $1 0 . 5 \%$ 。这是因为调整功率步骤的初始值设置为最低功率，使被改变的复用组合的发射功率可以迭代至达到满足Qos要求的最低发射功率值。
+
+![](images/4f9003ef8176c6e608e7ff30328515960b99331ca241a24cef879303bca8206d.jpg)  
+图5蜂窝与D2D用户的平均发射功率
+
+如图6所示，展示了NESM资源分配算法的不同功率间隔》（Interval）的平均连通率对比，其中方块线代表》为 $1 . 4 \mathrm { m W }$ 五角星线代表》为 $3 . 7 \mathrm { m W }$ ，星线代表》为 $1 0 \mathrm { m W }$ 。在不同的功率间隔中可以看出，》的数值越低，其中断概率越低，复用连通概率越高。这是因为》越小，执行的迭代次数就越多，能得到的功率值就越多，获得合适的发射功率的可能就越大。
+
+![](images/921c6787b9e5efdb3144536dcd273b632b37936d6299fe00773ea179fca09216.jpg)  
+图6平均连通概率与的关系
+
+如图7所示，展示了ESM算法与NESM的平均吞吐量对比，可以看出随着D2D对用户数的提升两种算法在平均吞吐量上均有提升。但是NESM算法在复用对数越来越高时的上升幅度没有ESM算法快，这是因为NESM算法是基于降低中断概率为目标设计的，在降低中断概率时降低了发射功率，而发射功率影响终端接收信噪比，进而影响系统平均吞吐量。
+
+![](images/21458f1bcc1f4a3734ff98c7f44814dbb263e59c36443daad3f7cf076a41d27a.jpg)  
+图7不同算法的平均吞吐量
+
+# 4 结束语
+
+基于穷举搜索的D2D资源分配算法引入了功率控制模块，在降低系统中断概率方面具有良好的性能，而且随着发射功率的降低也降低了用户能源消耗。相比于传统方法，新型穷举功率控制算法在保持通信用户满足Qos的条件下，达到了更高的系统连通率与更低的用户发射功率。由于新型穷举功率控制算法使用用户信噪比矩阵进行判断，所以在涉及到需要用户复用组合且有一对一复用要求的情况下都可以应用，如无线网络、路由算法、传感器网络等。但在降低中断概率的同时也降低了系统平均吞吐量，且功率间隔的设定需要系统的先验信息，如何在降低中断概率时提高平均吞吐量将是下一步的研究目标。
+
+# 参考文献：
+
+[1]钱志鸿，王雪．面向 5G 通信网的D2D 技术综述[J].通信学报，2016, 37(7):1-14.(Qian Zhihong,Wang Xue.Reviews of D2D technology for 5G communication networks [J]. Journal on Communications,2016,37 (7): 1-14.)   
+[2]Wang Xiaofei, Zhang Yuhua,Leung VC M,et al.D2D big data: content deliveries over wireless device-to-device sharing in large-scale mobile networks [J]. IEEE Wireless Communications,2018,25(1):32-38.   
+[3] ZhangZhenquan， MaZheng， XiaoM， etal.Ful-duplex device-to-device-aided cooperative nonorthogonal multiple access [J]. IEEE Trans on Vehicular Technology,2017,66 (5): 4467-4471.   
+[4]Sadik M,Akkari N,Aldabbagh G. SDN-based handover scheme for multi-tier LTE//Femto and D2D networks [J].Computer Networks,2018 (142): 142-153.   
+[5]韦世红，黄祥，王伟超．基于能效的 D2D 通信系统的干扰协调与资源 优化[J].计算机应用研究，2018,35（7):2120-2123.（Wei Shihong, Huang Xiang，Wang Weichao.Energy efficient interference coordination and resource optimization for D2D communication [J]. Application Research of Computers,2018,35(7): 2120-2123. )   
+[6] Cai Xuejia, Zheng Jun, Zhang Yuan,et al.A capacity oriented resource allocation algorithm for device-to-device communication in mobile cellular networks [C]//Proc of IEEE International Conference on Communications. IEEE,2014: 2233-2238.   
+[7]程永生，朱江，林孝康．引入D2D通信的蜂窝网上行资源分配算法[J]. 电子与信息学报，2014，36（12):2822-2827.(Cheng Yongsheng，Zhu Jiang,Lin Xiaokang.Uplink Resource Allcation in Device-to-Device Enabled Celllar Networks[J]. Journal of Electronics& Information Technology,2014,36 (12): 2822-2827.)   
+[8]Dai Zeyang,Liu Jian,Wang Chonggang.QoS-based Device-to-Device communicationschemesin heterogeneouswirelessnetworks[J]. Communications Iet,2014,9 (3): 335-341.   
+[9]Hoang TD,Le L B,Le-Ngoc T.Energy-efficient resource allocation for D2D communications in cellular networks [C]//Proc of IEEE International Conference on Communications.2015: 6972-6986.   
+[10] Li Xingquan,He Chunlong,Feng Daquan,et al. Power allocation criteria for distributed antenna systems with D2D communication [J]. International Journal of Electronics and Communications,2018 (93): 109-115.   
+[11] Wang Rui,Zhang Jun,Song SH,et al.Mobility-Aware Caching in D2D Networks [J]. IEEE Trans on Wireless Communications,2017,16(8): 5001-5015.   
+[12] Feng Daquan,Lu Lu, Yuan Wuyi,et al. Device-to-device communications underlaying cellular networks [J].IEEE Trans on Communications,2013, 61 (8): 3541-3551.

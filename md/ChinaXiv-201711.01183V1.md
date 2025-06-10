@@ -1,0 +1,189 @@
+# Golay3型光学稀疏孔径系统退化图像的频率信息提取及合成研究
+
+白静1,2,3，姜爱民1,2，戴妍峰1,2（1.中国科学院国家天文台，北京100012；2.中国科学院空间天文与技术重点实验室，北京100012；3.中国科学院大学，北京100049)
+
+摘要：利用组成星座的小卫星，分别携带分离的子望远镜和合光成像望远镜，构成Fizeau 型光学综合孔径干涉系统，实现高分辨率的面源目标成像是当前的研究热点之一。这种光干涉成像系统，由于稀疏度较大，UV覆盖不全，即空间频率采样不连续，表现为系统光学传递函数有零值存在。要克服UV覆盖不全的影响，获得等效的大孔径望远镜成像效果，需要改变子孔径的空间排布，获得不同基线条件下的图像，进行空间频率信息的提取和合成，最后采用逆滤波的方法达到提高图像质量的目的。在分析单子孔径传递函数与系统传递函数关系的基础上，优化子孔径的排布方式，采用不同的频域滤波器将不同基线获得的图像中信噪比高的频率区域提取出来进行合成，再变换到空域并进行逆滤波处理，得到改善的合成图像。仿真结果显示，当得到的干涉图信噪比较低时，该方法可以有效地提高合成图像的质量。
+
+关键词：稀疏；孔径图像；复原频域滤波；图像合成中图分类号：TN911.73 文献标识码：A 文章编号：1672-7673(2016)03-0351-07
+
+由于孔径的衍射效应，传统望远镜的成像分辨率受限于人瞳口径。受加工工艺和成本等因素的制约，光学系统的口径不可能无限增大[1]。为了解决这个问题，研究人员提出了光干涉的方法。随着技术的发展，Fizeau型光干涉技术因具有一定的成像视场和对面源短时成像的特点，受到越来越多的重视，成为当前的研究热点之一。早在1996年，美国空军武器实验室就启动了用于建立对地观测的可展开式望远镜阵列UltraLITE[2]项目。
+
+结合近年来蓬勃发展的小卫星星座技术，人们提出了基于小卫星的Fizeau 型光干涉成像系统。基本方法是：在每个小卫星上各自携带一台小口径望远镜，在中心的主卫星上携带合光成像望远镜，子卫星和主卫星在空间上按一定的位置排布，来自各子望远镜的光束在合光成像望远镜的焦面上相干叠加，干涉成像。这种形式的光干涉成像系统，受小卫星避撞设计的需要，以及小卫星有效载荷质量和体积的限制，子望远镜的口径和要实现的衍射极限分辨率所对应的口径相比，必然差别很大，属于稀疏度很大的光学综合孔径系统。此时，由于UV覆盖不全，系统不可避免地对相应的空间频率在采样时出现缺失。为了克服UV覆盖不全的影响，对面源目标的空间频率信息进行更好的采样，可以通过改变子卫星和主卫星的相对位置来改变系统采样频率的覆盖范围，获得之前缺失的空间频率采样信息，即获得不同基线布局下的干涉图。再经过图像合成和逆滤波处理，最终得到包含目标较完整信息的图像。通过这样的方法，使合成的图像分辨率等效为一个更大口径光学系统的分辨率，达到高分辨率成像的目的。
+
+通常的合成方法是将这些在不同基线下得到的图像在对齐的基础上[3]进行叠加再解卷积，但是由于采集的图像受子望远镜口径较小、积分时间受限等各种因素的影响，信噪比通常都不高。仿真实验发现，当得到的干涉图在信噪比较低的情况下，采用直接叠加再解卷积的处理方法效果不理想。为了提高图像质量，本文提出将不同基线下获得的图像通过相应的频域滤波器，将高信噪比的频域信息提取出来再合成，以减少合成图像中包含的噪声，从而获得更好的合成图像。
+
+# 1原理概述
+
+成像过程可以看作是目标物体频率函数 $F ( f _ { x } , f _ { y } )$ 与光学传递函数 $O T F ( f _ { x } , f _ { y } )$ 乘积后输出像频谱函数 $G ( f _ { x } , f _ { y } )$ 。在非相干光照射下，衍射受限系统可认为是只改变了输入的各频率光强分量而不改变它们的位相，光学传递函数在数值上等于调制传递函数 $M T F$ ：
+
+$$
+M T F ( f _ { x } , \ f _ { y } ) = \mid O T F ( f _ { x } , \ f _ { y } ) \mid = \frac { P ( \lambda f f _ { x } , \ \lambda f f _ { y } ) \otimes P ( \lambda f f _ { x } , \ \lambda f f _ { y } ) } { \int \int _ { - \infty } ^ { + \infty } P ( x , \ y ) \mathrm { d } x \mathrm { d } y } ,
+$$
+
+其中， $\otimes$ 表示自相关符号； $P ( \lambda f f _ { x } , \lambda f f _ { y } )$ 是孔径函数。
+
+稀疏孔径成像系统在理想情况下可以看作是由 $N$ 个直径为 $d$ 的圆形孔径构成，在数学上可以表示为一个子孔径光瞳函数与 $\delta$ 函数阵列的卷积，即
+
+$$
+P ( x , \ y ) = c i r c \left( \frac { \sqrt { x ^ { 2 } + y ^ { 2 } } } { d / 2 } \right) * \ \sum _ { n = 1 } ^ { N } \delta \left( x - x _ { n } , \ y - y _ { n } \right) ,
+$$
+
+其中， $P ( x , y )$ 是光瞳函数； $N$ 是子孔径个数； $c i r c ( )$ 是圆域孔径函数； $( x _ { n } , y _ { n } )$ 是第 $\mathbf { \Omega } _ { n }$ 个子孔径光瞳的中心坐标。
+
+Golay3 是结构最简单的二维阵列结构，由3个圆形子孔径组成，而且这3个圆心依次位于一个等边三角形的3个顶点上[4]。
+
+从(2)式可以推导出Golay3型稀疏孔径的归一化调制传递函数为
+
+$$
+M T F = M T F _ { \mathit { d } } + \frac { 1 } { 3 } M T F _ { \mathit { d } } \ast \sum _ { i } \sum _ { j } \delta \left( \xi - \frac { x _ { i } - x _ { j } } { \lambda f } , \ \eta - \frac { y _ { i } - y _ { j } } { \lambda f } \right) ,
+$$
+
+其中， $( x _ { i } - x _ { j } , y _ { i } - y _ { j } )$ 表示子孔径的相对位置。
+
+根据(3)式，可以将稀疏孔径系统的调制传递函数看作是由分布在不同位置上，强度为1/3 倍(零频除外)的单个子孔径的调制传递函数组合而成。除零频外，其它调制传递函数分布的位置都与子孔径排布有关，也就是说如果已知调制传递函数的位置分布就可以推算出子孔径的位置排布。当系统调制传递函数对空间采样频率覆盖的一些区域出现零值或严重衰减时，就可以找到相应的空间位置
+
+增加孔径排布进行优化，最后将这些在不同排布（即不同基线）下得到的退化图进行合成处理。
+
+稀疏孔径系统主要的噪声有光子噪声及CCD噪声等，总噪声分布近似为高斯分布，一般认为是零均值的高斯白噪声[5]，即功率谱密度在整个频域内均匀分布的噪声。已知单幅退化图的噪声功率为 $n _ { i }$ ，如果将退化图直接叠加就相当于直接叠加了 $\textstyle \sum _ { i } n _ { i }$ 倍的噪声。
+
+通过子孔径的排布和系统调制传递函数之间的计算关系，可以很容易了解到退化图在不同频域范围内的信噪比情况。以某一种子孔径排布得到的调制传递函数为例，如图1。图中，中间主峰的峰值表示能通过系统的信号强度最大为1倍，
+
+![](images/50f1cfb798fe14fe60fb81ea7928f152d94a49c6935534a5b9fcdaa975d455db.jpg)  
+图1某子孔径排布的调制传递函数示意图Fig.1The MTF of a sub-aperture configuration
+
+周围次峰则表示能通过的信号强度最大只有原来的 $1 / 3$ ，其余值为0的部分，表示相应频域范围内无有效信号通过。对应得到的干涉图信噪比强度的最大值分布分别为 $1 0 \mathrm { l g } \big ( \frac { P _ { \mathrm { s } } } { P _ { \mathrm { n } } } \big )$ 、 $1 0 \mathrm { l g } ( \frac { P _ { \mathrm { s } } } { P _ { \mathrm { n } } } \cdot \frac { 1 } { 3 } )$ 、0,其中， $P _ { \mathrm { ~ s ~ } }$ 和 $P _ { \mathrm { ~ n ~ } }$ 分别代表信号和噪声的有效功率。
+
+因此，本文针对各种基线排布定义了相应的频域滤波器 $H _ { i }$ ，将每幅图中频域信噪比较高部分的信号提取出来再合成。由于每幅干涉图的滤波器 $H _ { i }$ 加权为1，而且范围不完全重复，这样得到的最终合成图的噪声量 $\textstyle \sum _ { i } H _ { i } \cdot n _ { i }$ 明显小于通过直接叠加得到的，信噪比有了显著的提升。
+
+# 2图像频率提取及合成方法
+
+设单个子孔径直径为 $1 \mathrm { m }$ 。从系统子孔径相切开始，以子孔径直径为间距向外挪动子孔径两次共得到3种不同的排布。此时外接最大包围圆直径为 $6 . 1 5 \mathrm { m }$ 。根据这3种排布得到了3种不同分布的调制传递函数。由于发现空间频率信息分别在排布1与排布2、排布2与排布3截止频率交接处附近明显衰减，所以增加新的子孔径排布4和5，对这两交界附近的调制传递函数进行补偿和增强。优化后，这5种排布的调制传递函数在最大截止频率方向的部分截面示意图（在同一坐标系）如图2。
+
+与稀疏孔径系统成像质量相当的单孔径直径称作等效口径。由于稀疏孔径系统的调制传递函数与
+
+单孔径系统相比，分布复杂，形状不规则，目前尚没有计算等效口径的统一方法[6]。从图2可以看出，当前系统最大截止频率 $5 . 4 / \lambda f ( \mathrm { ~ m } )$ 明显小于系统包围圆所对应的 $6 . 1 5 / \lambda f ( \mathrm { ~ m ~ } )$ 。所以选最大截止频率对应的口径作为系统等效口径，此处为 $5 . 4 \mathrm { m }$ 。
+
+在这5种不同的子孔径排布下，获取5幅不同的图像（记作 $g _ { 1 } \setminus g _ { 2 } \setminus g _ { 3 } \setminus g _ { 4 }$ 和 ${  { g } _ { 5 } }$ )。将这5幅图像通过傅里叶变换到频域（记作 $G _ { 1 }$ 、 $G _ { 2 } , G _ { 3 }$ 、$G _ { 4 }$ 和 $G _ { 5 }$ )。根据各自调制传递函数的分布，分别定义各自的频域滤波器，如（4）\~（8)式。其中， $\boldsymbol { H } _ { 1 }$ 为低通滤波器； $H _ { 2 } \ 、 H _ { 3 } \ 、 H _ { 4 }$ 和 $H _ { 5 }$ 分别是不同通带范围的带通滤波器。
+
+$$
+H _ { 1 } ( u , \ v ) = { \left\{ \begin{array} { l l } { 1 , \ r \leqslant R _ { 1 } } \\ { 0 , \ r > R _ { 1 } } \end{array} \right. } ,
+$$
+
+![](images/c26b0cf4123cf96574da7ac5af62d1362b64ac238830c313a6b1e76e032e11cd.jpg)  
+图2 优化后各排布的调制传递函数部分截面图Fig.2The optimized sectional view of partial MTFfor every sub-aperture configuration
+
+$$
+H _ { 2 } ( u , \ v ) = \left\{ \begin{array} { l l } { 1 , \ R _ { 1 } \leqslant r \leqslant R _ { 2 } } \\ { 0 , \ r > R _ { 2 } } \\ { 0 , \ r < R _ { 1 } } \end{array} \right. ,
+$$
+
+$$
+H _ { 4 } ( u , \ v ) = \left\{ { 0 , \ r > R _ { 4 } } \right. ,
+$$
+
+$$
+H _ { 3 } ( u , \ v ) = \left\{ \begin{array} { l l } { 1 , \ R _ { 2 } \leqslant r \leqslant R _ { 3 } } \\ { 0 , \ r > R _ { 3 } } \\ { 0 , \ r < R _ { 2 } } \end{array} \right. ,
+$$
+
+$$
+H _ { 5 } ( u , \ v ) = \left\{ \begin{array} { l } { 1 , \ R _ { 4 } \leqslant r \leqslant R _ { 5 } } \\ { 0 , \ r > R _ { 5 } } \\ { 0 , \ r < R _ { 4 } } \end{array} \right. .
+$$
+
+利用这些频域滤波器可以将5幅图中信噪比较好的频率信息提出来。提取及合成方法如图3。图像频谱合成方法如(9)式：
+
+$$
+G _ { \bigtriangleup \emptyset _ { \sf R } } = G _ { 1 } H _ { 1 } + G _ { 2 } H _ { 2 } + G _ { 3 } H _ { 3 } + G _ { 4 } H _ { 4 } + G _ { 5 } H _ { 5 } .
+$$
+
+频谱直接叠加如(10)式：
+
+$$
+G _ { \vec { \mathbb { H } } \vec { \mathbb { H } } \vec { \mathscr { E } } \vec { \mathbb { E } } \vec { \mathbb { H } } } = G _ { 1 } + G _ { 2 } + G _ { 3 } + G _ { 4 } + G _ { 5 } .
+$$
+
+![](images/296f7af5a4227a347b263947b329a49fb26401d69612c2bc843aad3b554c5257.jpg)
+
+在仿真实验中引入加性高斯白噪声，当信噪比为 $3 5 ~ \mathrm { d B }$ 和 25dB 时分别得到退化图如图4。
+
+![](images/175d68125586faab58c96054ed5c3dadb19e16c6526dad8c22ac2bcea65cebc7.jpg)  
+图3空间频率信息提取及合成.(a)原始图像频率信息；(b)从孔径排布1提取的频率信息；(c)、(d)、(e) 和(f)分别对应从孔径排布2、3、4和5提取的频率信息；（g)合成图像频率信息 Fig.3Frequencyextractionandsynthesis.（a）Thefrequencyoftheoriginalobjectiveimage；（b）Thepartialfrequencyextracted fromthe degraded imageof configuration1；（c）（d）（e）and（f）Thecorresponding partial frequency extracted from the degraded image of new configuration 2,3,4 and 5；（g） The final synthesized degraded image   
+图4不同方法得到的仿真图像.(a)等效口径图像；(b)直接叠加得到的合成图像；(c)频域提取方法得到的合成图像 Fig.4Degraded imagesobtained bydiferentmethods.（a）Thedegraded imageobtained byeffctive Diametermethod; （b）The synthesized degraded image obtained by overlapping frequency directly；（c）The synthesized degraded imageobtained by frequency filtrations
+
+从图4可以看出，当图像信噪比下降后，直接叠加的合成图像像质逐渐变差，此时采用频域提取的合成图像像质占优。
+
+# 3图像复原(解卷积)及评价
+
+由不同基线图像合成的图像需经过解卷积才能更好地恢复图像。逆滤波是解卷积最直接的方法，设 $G ( u , v )$ 为退化图像的傅里叶谱， $H ( u , v )$ 为点扩散函数的傅里叶谱，则估计的原始图像的傅里叶谱 $\hat { F } ( u , v )$ 为
+
+$$
+\hat { F } ( u , \ v ) = \frac { G ( u , \ v ) } { H ( \ u , \ v ) } \ .
+$$
+
+维纳滤波(最小均方误差滤波)是对逆滤波方法的改进。维纳滤波方法综合考虑了退化函数和噪声的统计特性，以减少噪声的影响，如(12)式：
+
+$$
+W ( u , \ v ) = \frac { H ^ { * } ( u , \ v ) } { \mid H ( u , \ v ) ^ { 2 } \mid + \gamma \left[ S _ { n } ( u , \ v ) / S _ { f } ( u , \ v ) \right] } \ ,
+$$
+
+其中，\*表示共轭； ${ \cal S } _ { n } ( u , v ) / { \cal S } _ { f } ( u , v )$ 是噪声功率谱和原始信号功率谱的比值。当噪声的统计特性未知时，常用一个常数 $K$ 近似。若 $\gamma = 1$ ， $W ( u , v )$ 是维纳滤波器；若 $\scriptstyle \gamma = 0$ ，则系统变成了单纯的去卷积滤波器。
+
+由于图像经过频率提取和合成后，合成图的噪信比有较明显的起伏规律。因此，在去解卷积滤波时，对维纳滤波器也进行了相应的改进：在对应不同的区域，根据合成图噪信比的不同采用了不同的$K$ 值。去卷积后的复原图如图5。
+
+信噪比为35dB时：
+
+![](images/1ef546864e431315d3a96123640d95034c20f86bfeaec9c146449778f746e10f.jpg)  
+图5不同方法得到的复原效果.(a)等效满口径复原图；(b)直接叠加得到的复原图；(c)频域提取方法得到的合成复原图 Fig.5Reconstructional images obtained bydiferent methods.（a）Thereconstructional image obtainedby fective Diameter method；（b） The reconstructional synthetic image obtained by overlapping frequency directly ; (c）The reconstructional synthetic image obtained by frequency filtrations
+
+对于图像的复原效果，除了主观判断外，采用传统的均方误差(Mean Squared Error，MSE)法和当前国际上比较流行的 SSIM(Structural Similarity)法。均方差法基于误差理论，将图像看作是一个个孤立的点，通过计算每个点的灰度值差异而对图像进行评测，见（13)式。SSIM法是对图像在亮度、对比度、结构3个层面上分别进行量化，通过加权相乘获得结构相似值，综合考虑了人类视觉对图像结构性信息的提取功能，比均方差法更符合人类的视觉特性[7]，见(14)式：
+
+$$
+M S E = e ^ { 2 } = \operatorname * { l i m } _ { \stackrel { X  \infty } { Y  \infty } } \frac { 1 } { X Y } \int \displaylimits _ { - X } ^ { + Y } \int [ \hat { f } ( x , \ y ) \ - f ( x , \ y ) ] ^ { 2 } \mathrm { d } x \mathrm { d } y ,
+$$
+
+$$
+M S S I M ( f , \hat { f } ) = \overline { { { S S I M } } } = \frac { 1 } { M } \sum _ { i = 1 } ^ { M } l ( f , \hat { f } ) ^ { \alpha } c ( f , \hat { f } ) ^ { \beta } s ( f , \hat { f } ) ^ { \gamma } .
+$$
+
+其中, $f ( x , y )$ 表示参考图像; $\hat { f } ( x , y )$ 表示待评价图像； $\alpha , \beta , \gamma$ 为加权系数； $l ( f , { \hat { f } } )$ 、 $c ( f , { \hat { f } } )$ 、$s ( f , { \hat { f } } )$ 为相应的亮度、对比度、结构比较函数。
+
+均方根值越小，表示待评价图像和参考图像越相似；结构相似度均值越大，则表示结构相似值越高，说明待评价图像和参考图像的相似度越高。
+
+在不同信噪比下得到的退化图经过解卷积复原后，分别计算均方根和结构相似度均值，见表1。
+
+结合图5和表1可以看出，当信噪比为35dB时，对合成图(c)的客观评价指标比对直接叠加图像(b)的客观评价指标只是稍微好一点，从主观上观察，人的眼睛基本分不出哪幅图更好。
+
+然而当信噪比下降到25dB时，对合成图（c)客观评价指标就明显比对直接叠加图像(b)的客观评价值要好一些。在用人眼进行主观评价时，能明显看出合成图(c)中的图像细节更清晰。
+
+表1各退化图客观评价计算结果  
+Table 1 Objective evaluation results for each degraded image   
+
+<html><body><table><tr><td>信噪比35</td><td>图(a)</td><td>图(b)</td><td>图(c)</td></tr><tr><td>MSSIM</td><td>0.976 8</td><td>0. 7919</td><td>0.800 3</td></tr><tr><td>MSE</td><td>0.000 6</td><td>0.003 3</td><td>0.0031</td></tr><tr><td>信噪比25</td><td>图(a)</td><td>图(b)</td><td>图(c)</td></tr><tr><td>MSSIM</td><td>0.916 6</td><td>0. 663 0</td><td>0. 744 1</td></tr><tr><td>MSE</td><td>0.0019</td><td>0. 003 5</td><td>0.003 0</td></tr></table></body></html>
+
+图(a)是以原图为评价参考，图(b)和图(c)都是以图(a)为评价参考
+
+Fig（a）is with reference to the original image；（b）and（c) are with reference to Fig(a)
+
+# 4结论
+
+当原始图像的信噪比受限时，利用频域抽取算法将在不同子孔径排布下得到的干涉图合成为一幅包含较完整目标信息的退化图像，再经过改进的维纳滤波算法得到了最终较清晰的复原图像。由于保留了各幅干涉图频域中信噪比较高的部分，在解卷积复原后，其图像质量比直接叠加得到的有明显提升，采用人眼判读和客观评价的方法都显示，该方法能更好地恢复原图像的结构信息。
+
+致谢：本文得到王景宇研究员、薛建伟博士、宋卫强工程师的帮助，在此一并致谢。
+
+# 参考文献：
+
+[1] van Belle GT，Meinel A B，Meinel MP.The scaling relationship between telescope cost and aperture size for very large telescopes [C]// Proceedings of SPIE.2004: 563-570.   
+[2] Powers M, Leitner J,Hackney E，et al. Assessment of a large aperture telescope trade space and active opto-mechanical control architecture [C]// Proceedings of IEEE Aerospace Conference. 1997: 197-229.   
+[3] 高莉莉，刘忠，金振宇.综合孔径干涉望远镜的高分辨率图像重建［J].天文研究与技术 -国家天文台台刊，2009，6(4)：327-333. Gao Lili，Liu Zhong，Jin Zhenyu.High-resolution reconstruction of images from an interferometry telescope ［J].Astronomical Research & Technology———Publications of National Astronomical Observatories of China，2009，6(4):327-333.   
+[4] Golay M JE.Point array having compact，nonredundant autocorrelations ［J]. Journal of the Optical Society of America，1971，61(2）:272-273.   
+[5] 刘丽，江月松.综合孔径成像原理与应用［M].北京：国防工业出版社，2013.   
+[6] Miller N，Duncan B，Dierking M P.Resolution enhanced sparse aperture imaging [C]// Proceedings of IEEE Aerospace Conference.2006.   
+[7] Wang Z，Bovik A C，Sheikh H R，et al. Image quality assessment:from error visibility to structure similarity [J]. IEEE Transactions on Image Processing，2004，13(4）: 600-612.
+
+# Frequency Extraction and Degraded Image Synthesis for Golay3 Type Optical Sparse-Aperture Systems
+
+Bai Jing1,2,3，Jiang Aimin12，Dai Yanfeng1,2
+
+(1.NationalAstronomical Observatories,ChineseAcademyof Science,Beijing 0ool2,China；2.KeyLaboratoryof Space Astronomyand Technology，National AstronomicalObservatories，ChineseAcademyof Sciences，Beijing10oo12,China； 3.University of Chinese Academy of Sciences，Beijing 1Ooo49,China，Email: jbai@ nao.cas.cn)
+
+Abstract: A Fizeau-typesparse-aperture imaging system made of a constellation of telescope-bearing satelites canpotentially achieve extremely high resolution.But in such a system，the Modulation Transfer Function （MTF）usually contains a zero value.This means that the system fails to acquire a particular spatial frequency. To overcome this problem，we acquire multiple degraded images by repeatedly changing the subaperture configuration and then synthesize their spatial frequencies to create a single improved image.We first analyze the MTFs between each individual sub-aperture and the whole sparse aperture system. Then，we design new sub-aperture configurations that acquire more spatial frequency and use frequency-domain filters to extract the high-SNR part from each degraded image.Finaly，we synthesize these frequencies before image reconstruction. Our results demonstratethat this method effctively improves the quality of the final synthesized image by obtaining as much spatial frequency information from all degraded images as possible.
+
+Key words: Sparse aperture; Image reconstruction； Frequency-domain filtering； Image synthesis

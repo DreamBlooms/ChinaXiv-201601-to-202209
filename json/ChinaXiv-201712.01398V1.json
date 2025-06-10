@@ -1,0 +1,729 @@
+[
+    {
+        "type": "text",
+        "text": "基于贝叶斯理论的社会化媒体网络信息内容可信度测度",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李保珍」王亚²周可¹1(南京审计大学国家审计大数据研究中心南京 211815)(江苏科技大学经济管理学院镇江 212003)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】构建网络信息内容可信度的定量测度模型，以提高虚假信息的筛除效率。【方法】基于贝叶斯推理理论，构建网络信息内容可信度的测度模型；基于贝叶斯决策理论，构建可信度测度有效性的最小错误率评估模型。【结果】基于实际数据集的实验结果表明，随着社会化媒体参与者规模增加，可信度测度的最小错误率呈下降趋势，且贝叶斯可信度测度模型总体优于传统的模糊可信度测度模型。【局限】可信度测度错误率的影响因素只关注参与者规模因素，而其他影响因素，如条件属性或可参照对象等，将需要进一步研究。【结论】基于集体智慧理论，揭示网络信息内容可信度测度的最小错误率会随着参与者规模增加而降低。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：可信度测度 网络信息内容贝叶斯理论社会化媒体集体智慧",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号：G2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以用户生成内容(User-GeneratedContent,UGC)为主的新型媒体，如社交网络(SNS)、微博、微信、博客(Blog)等，虽然为参与者发表意见开辟了一个无拘无束、不受限制的空间，但同时使大众对网络信息的真实性产生某种程度的怀疑。信息可信度是指对于信息内容本身以及信息源的可信任程度，其判断者是信息接收人[1]。因此，网络信息内容的可信度测度(CredibilityMeasure)，是用户对信息内容是否值得信任的判断和评价[2-3]。本文侧重于社会化媒体网络信息内容的定量测度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，针对社会化媒体网络信息可信度评估及测度的相关文献主要是侧重于对影响因素进行实证分析的探索性研究，研究视角大体可分为来源可信度4、渠道可信度和信息内容可信度。已有研究虽然推动了信息内容可信度评估的研究与发展，但其不足主要体现在如下方面：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1）基于数理模型构建的规范性可信度测度研究较少;(2）传统评价模型多侧重于当前信息内容状态的可信程度，尚缺乏对已有经验及证据性数据的有效利用;(3）在社交媒体环境下，相关研究尚未充分利用用户通过主动参与对网络信息内容进行标注或评价所生成的客观性行为数据，尚未充分体现用户对相关信息内容的认知性判断。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对上述不足，本文基于贝叶斯决策理论，构建能够利用已有经验及证据性数据的网络信息内容可信测度模型。基于用户生成内容的社交媒体，信息用户既能够主动参与对信息内容进行体验性判断评价，又能够对特定信息内容进行交互性判断评价。因此，新型网络环境下，如何利用体验性判断评价及交互性判断评价，对海量网络信息内容的可信度进行测度，具有重要的理论和现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 文献回顾 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的可信度评估方法主要是针对信息用户的调查法和实验法。调查法和实验法主要侧重于探索网络信息内容可信度影响因素及内在机理的实证分析。为研究网民如何看待网络商业信息，特别是电子商务信息内容的可信度评估问题,Flanagin等4针对美国使用互联网的成年人进行了一项具有全国代表性的调查，其样本来自基于随机数字拨号和地址抽样方法的组合。实验法是最初研究可信度的方法[5]。Castillo 等[6]基于社会媒体环境本身的特征能够使用户主动参与评估信息的可信度的假设，构建实验模型，探讨可自动分析社会化媒体信息，尤其是针对有新闻价值的信息的可信性评估的方法，并进一步提出预测信息可信性的模型。以上途径主要依据领域专家的定性判断，构建相应的可信评估指标体系，或是在定性评估的基础上，探测网络信息可信度的关键影响因素及内在机理，并构建相关的网络信息可信度测度模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不少学者结合网络信息内容的海量及高维等特征，构建相应的数据挖掘分类及排序算法，以提高网络环境下网络信息内容可信度测度的效率。Pasternack等[7分别利用来自真实世界的两个无监督数据集和两个半监督数据集，提出具有较强原则性的概率模型潜在可信度分析(Latent Credibility Analysis,LCA),其性能显著超过\"事实的发现者\"(Fact-Finders)的性能。用于识别可信语句的算法有 TextRank 算法[8，它经过100个单独的语料库和一个组合的语料库两种方法的实证检验。上述数据挖掘分类及排序方法主要是基于网络信息内容当前状态数据的挖掘及评估，尚缺乏网络信息用户对其体验性及交互性经验等先验知识的利用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此外，传统的可信度测度主要是模糊测度9，其中模糊隶属度的确定是测度的关键。隶属度函数是模糊控制的应用基础，正确地构造隶属度函数是用好模糊控制的关键之一。隶属度函数的确定过程，本质上应该是客观的，但每个人对于同一个模糊概念的认识理解又有差异，因此，隶属度函数的确定又带有主观性。隶属度函数的确立目前还没有一套成熟有效的方法，大多数系统的确立方法还停留在经验和实验的基",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "础上。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "贝叶斯推理方法可通过对已有经验及证据性数据的利用，达到修正先验知识的目的[10]。以计算概率的方式获得网络信息内容的可信度值。与模糊测度相比较，概率测度具有如下优势[11]：论域可列可加；基于用户参与的经验性标注行为数据，确定特征关键词的存在可能性程度；基于信息用户的客观行为数据，以及可列可加性的特征，概率测度结果会较为客观。此外，基于社会化媒体，信息用户相互之间能够对网络信息用户进行共享及交互评价，进而形成集体智慧(Collective Intelligence)[12]。基于网络信息用户交互性评价所形成的集体智慧，也将有助于提高网络信息内容可信度测度的效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，本文基于信息用户的先验性知识及交互评价，将贝叶斯推理应用于网络信息内容的可信测度，构建基于已有经验及证据性数据的网络信息内容可信度的定量测度模型。此外，本文还尝试构造最小错误率计算公式，观察错误率随着参与者规模的增大而发生的变化规律，探索网络信息用户集体智慧形成过程中，用户规模对网络信息内容可信度测度的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "贝叶斯推理是经典的统计归纳推理，其推理过程不仅依据当前的样本信息，还要根据已有的经验和知识[13]。贝叶斯推理由概率论中的贝叶斯定理扩充而来,将其引人网络信息内容的可信测度模型中，在使模型具备概率背景的同时，也可将网络信息用户的体验性评价作为先验知识融人模型，从而可定量测度网络信息内容的可信度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1基于贝叶斯推理的可信度测度模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以案例\"苹果具有红的前提下是否甜\"的条件性推理问题为例说明信息内容可信度测度的贝叶斯推理思路。为方便计算，在全部是苹果的大前提下，选择苹果\"红\"与\"甜\"这两个属性，分别用 $X ,$ $Y$ 表示，并且采取二值0、1赋值的方法，数字\"1\"代表苹果红或甜，数字“0\"即为不红或不甜。可计算在苹果红的条件下苹果为甜的概率，公式如下：$\\begin{array} { l } { P ( Y = 1 / X = 1 ) = } \\\\ { \\displaystyle \\frac { P ( X = 1 / Y = 1 ) P ( Y = 1 ) } { P ( X = 1 / Y = 1 ) P ( Y = 1 ) + P ( X = 1 / Y = 0 ) P ( Y = 0 ) } } \\end{array}$ (1)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $P ( Y = 1 )$ 是属性甜的先验概率， $P ( Y = 0 )$ 则表示属性不甜的概率；而 $P ( X = 1 / Y = 1 )$ 和$P ( X = 1 / Y = 0 )$ 分别表示在收集苹果甜与不甜的样本信息的条件下，苹果红的抽样分布概率。上述先验分布概率及条件分布概率均可基于实际数据统计得到。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，尚需考虑信息用户规模对网络信息内容可信度测度的影响。因为苹果\"红\"与\"甜\"的属性值为0或1，故对于特定对象\"苹果\"而言，属性\"红\"与\"甜\"相应的属性值均服从二项分布，事件“苹果甜且红”、“苹果甜但不红”、“苹果不甜但红”、“苹果不甜也不红\"也服从二项分布，且它们构成一个完备事件组，将事件“苹果红且甜\"表示为事件 $\\mathbf { \\mathcal { A } }$ 。所以， $P ( A ) = p = 1 / 4$ ，$P ( { \\overline { { A } } } ) = 1 - p = 3 / 4$ 。于是, $n$ 重伯努利试验中，事件 $A$ 出现的概率为 $p$ ，则 $A$ 出现 $M ( M$ 为随机变量)次的概率为:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { A ( k ; n , p ) = P ( M = k ) = C _ { n } ^ { k } p ^ { k } ( 1 - p ) ^ { n - k } , k = 0 , 1 , 2 , \\cdots , n } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于是，公式(1)可表示为公式(2)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { P ( Y = 1 / X = 1 ) = } \\\\ { \\qquad C _ { n } ^ { k _ { 1 } } p ^ { k _ { 1 } } ( 1 - p ) ^ { n - k _ { 1 } } P ( Y = 1 ) } \\\\ { C _ { n } ^ { k _ { 1 } } p ^ { k _ { 1 } } ( 1 - p ) ^ { n - k _ { 1 } } P ( Y = 1 ) + C _ { n } ^ { k _ { 2 } } p ^ { k _ { 2 } } ( 1 - p ) ^ { n - k _ { 2 } } P ( Y = 0 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由训练集可得公式(2)的初始先验概率为$P ( Y = 1 ) = p = 1 / 4$ ，似然概率为 $C _ { n } ^ { k _ { i } } p ^ { k _ { i } } ( 1 - p ) ^ { n - k _ { i } }$ ，其中 $k _ { i } = 1 , 2 , 3$ ，…,n, $i \\in \\left\\{ 1 , 2 \\right\\} , n$ 为样本矩阵的行数。 $k _ { 1 }$ 为苹果红且甜的数量 $( X { = } 1 , \\ Y { = } 1 )$ ， $k _ { 2 }$ 为苹果红但不甜的数量 $( X { = } 1 , \\ Y { = } 0 )$ ，由此便可直接代入公式(2)计算得出事件 $A$ 的后验概率 $P ( Y = 1 / X = 1 )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "贝叶斯推理不仅利用当前信息，还要在新的证据性数据的基础上修正先验信息。因此，本文基于参与对信息内容进行体验性评价及交互性评价的信息用户规模的不同，根据用户规模分组计算事件 $A$ 的概率值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于贝叶斯推理的可信度测度中先验概率的获取，需要说明的是，计算第一组事件 $A$ 的后验概率时,贝叶斯公式中的先验分布概率及条件分布概率均由实际数据统计得到，而从第二组数据开始，其先验概率$P ( Y _ { i } = 1 )$ 为上一组数据的后验概率，即:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( Y _ { i + 1 } = 1 ) = P ( Y _ { i } = 1 / X _ { i } = 1 ) , i = 1 , 2 , . . . , n\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这样可求得事件 $A$ 的概率，并且经过按比例的规模增加进行多次迭代计算，得到与按比例增加的规模相对应的多个概率值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于社交媒体网络信息而言，其信息内容是否可信，主要体现为信息内容所包含的关键词是否可信。如果将信息内容对象类比为“苹果”，则信息内容所包含的关键词可类比为“苹果\"所包含的“红或甜\"等属性。信息内容所包含的关键词是否可信，可借鉴\"苹果\"在可观察的属性\"红\"的条件下，基于贝叶斯推理所揭示的其隐含属性\"甜\"的存在可能性。因而，本文基于直观例子“苹果具有红的前提下是否甜\"所构建的贝叶斯推理模型公式(2)，可类比运用于社交媒体网络信息内容具有可观察确信关键词的前提下，计算隐含关键词是否存在的可能性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "更一般地，为定量测度信息内容对象 $C$ 具有目标关键词 $K _ { 1 }$ 的可信程度，本文所构建的可信度测度模型涉及该对象的另一条件关键词 $K _ { 2 }$ ，以及基于观察者体验性经验，能够揭示该信息内容对象 $C$ 是否具有目标关键词 $K _ { 1 }$ 及条件关键词 $K _ { 2 }$ 的记录规模 $N ,$ 如公式(3)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { P ( K _ { 1 } = 1 / K _ { 2 } = 1 ) = } \\\\ & { \\frac { C _ { n } ^ { k _ { 1 } } p ^ { k _ { 1 } } ( 1 - p ) ^ { n - k _ { 1 } } P ( K _ { 1 } = 1 ) } { C _ { n } ^ { k _ { 1 } } p ^ { k _ { 1 } } ( 1 - p ) ^ { n - k _ { 1 } } P ( K _ { 1 } = 1 ) + C _ { n } ^ { k _ { 2 } } p ^ { k _ { 2 } } \\left( 1 - p \\right) ^ { n - k _ { 2 } } P ( K _ { 1 } = 0 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为简化计算使其更为一般化，公式(3)中的目标关键词 $K _ { 1 }$ 及条件关键词 $K _ { 2 }$ 可取值为更一般化的1(具有该关键词)或0(不具有该关键词)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2基于贝叶斯决策的最小错误率评价 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为衡量上述基于贝叶斯推理的可信度测度模型的有效性，尝试基于贝叶斯决策理论，引人错误率的概念，计算其最小错误率[14]，并进一步探测在特定场景下信息的可信度随着参与者规模的增加，可信度测度模型最小错误率变化的趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）贝叶斯决策",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在运用贝叶斯决策理论的时候必须满足如下的基本条件：各类别总体的概率分布是已知的；被决策的分类数是一定的[15]。因此，以上述特定事物苹果为例,基于其是否具有两种属性(红或甜)，可将其划分为 4种状态，用 $W$ 表示状态, ${ \\cal W } { = } \\{ { \\cal W } _ { 1 } , { \\cal W } _ { 2 } , { \\cal W } _ { 3 } , { \\cal W } _ { 4 } \\}$ 。具体表示如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图1所示， $W _ { 1 }$ 表示状态“苹果红且甜”, $W _ { 2 }$ 表示状态“苹果红但不甜” ${ \\cal { W } } _ { 3 }$ 表示状态“苹果不红但甜”,W4则表示状态“苹果不红也不甜”。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f0c953b50230dfd888f30026914efbfcc62615b3870a145f9078e38ccba6b40.jpg",
+        "img_caption": [
+            "图1特定对象“苹果\"具有属性红或甜的状态文氏图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当状态 $W _ { 1 }$ 发生时 $P ( W _ { 1 } ) = P ( Y = 1 / X = 1 )$ ；当状态 $W _ { 2 }$ 发生时 $P ( W _ { 2 } ) = P ( Y = 0 / X = 1 )$ ；当状态 ${ \\cal { W } } _ { 3 }$ 发生时 $P ( W _ { 3 } ) = P ( Y = 1 / X = 0 )$ ；当状态 ${ \\cal { W } } _ { 4 }$ 发生时$P ( W _ { 4 } ) = P ( Y = 0 / X = 0 )$ 。其中， $P ( W _ { 1 } ) + P ( W _ { 2 } ) = 1 ;$ $P ( W _ { 3 } ) + P ( W _ { 4 } ) = 1$ 。这4种状态出现的概率均可计算得出，以 $\\mathsf { P } ( W _ { 3 } )$ 为例其计算如公式(4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { n } ^ { k _ { 3 } } p ^ { k _ { 3 } } ( 1 - p ) ^ { n - k _ { 3 } } P ( Y = 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { C _ { n } ^ { k _ { 3 } } p ^ { k _ { 3 } } ( 1 - p ) ^ { n - k _ { 3 } } P ( Y = 1 ) + C _ { n } ^ { k _ { 4 } } p ^ { k _ { 4 } } ( 1 - p ) ^ { n - k _ { 4 } } P ( Y = 0 ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $k _ { 3 }$ 为苹果不红且甜的数量 $( X { = } 0 , \\ Y { = } 1 )$ ， $k _ { 4 }$ 为苹果不红也不甜的数量 $( X { = } 0 , Y { = } 0 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)类条件概率密度函数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除用作训练参数计算概率值的数据组外，根据样本特征组成二维特征向量 ${ z = [ x _ { i } , y _ { i } ] }$ ，其中 $i { = } 1$ ，2。该二维特征向量用于计算上述4类状态的类条件概率密度， $x$ 和 $y$ 的可能取值均为0和1。即有$z = [ x _ { 1 } = 1 , y _ { 1 } = 1 ] ~ , ~ z = [ x _ { 2 } = 1 , y _ { 2 } = 0 ] ~ , ~ z = [ x _ { 3 } = 0 , 0 ] .$ （20$y _ { 3 } = 1 ]$ ， $z = [ x _ { 4 } = 0 , y _ { 4 } = 0 ]$ 。属性 $\\scriptstyle x = 1$ 表示始终选择苹果属性为红的数据， $p ( z / w _ { 1 } )$ 是红苹果的属性为甜的类条件概率密度，且 $p ( z / w _ { 1 } ) = p ( x _ { 1 } = 1 ;$ （24$y _ { 1 } = 1 ) ; p ( z / w _ { 2 } )$ 是红苹果的属性不甜的类条件概率密度，且 $p ( z / w _ { 2 } ) = p ( x _ { 2 } = 1 , y _ { 2 } = 0 )$ ，以此类推可分别求得W3与 $W 4$ 的类条件概率密度。由于状态1和状态 2 发生的概率构成完备事件组， $P ( W _ { 1 } ) + P ( W _ { 2 } ) = 1$ 同理有 $P ( W _ { 1 } ) + P ( W _ { 3 } ) = 1$ 。基于初始的训练集，类条件概率均可计算确定，即有 $p ( z / w _ { i } ) = ( 1 / 4 ) ^ { k i }$ ， $i { = } 1 , \\ 2 , \\ 3$ 54。其中, $k _ { i }$ 表示4类状态的统计数量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $i$ 取值为1或2时，分别计算出状态 $W _ { 1 }$ 和 $W _ { 2 }$ 的后验概率，表示如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( w _ { i } / z ) = \\frac { p ( z / w _ { i } ) p ( w _ { i } ) } { p ( z / w _ { 1 } ) p ( w _ { 1 } ) + p ( z / w _ { 2 } ) p ( w _ { 2 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同理,当 $i$ 取值为3或4时，计算状态 ${ { \\cal { W } } } _ { 3 }$ 和 ${ \\cal { W } } _ { 4 }$ 的后验概率，表示如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( w _ { i } / z ) = \\frac { p ( z / w _ { i } ) p ( w _ { i } ) } { p ( z / w _ { 3 } ) p ( w _ { 3 } ) + p ( z / w _ { 4 } ) p ( w _ { 4 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）最小错误率公式",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为保证错误率最小，要使对于每个证据因子的$P ( e / z )$ 取最小值，所以每次均取 $P ( w _ { 1 } / z )$ 和$P ( w _ { 2 } / z )$ 、 $P ( w _ { 3 } / z )$ 和 $P ( w _ { 4 } / z )$ 中的最小值[[6。表示如下:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $i$ 取值为1或2时, $P _ { 1 } ( e / z ) = \\operatorname* { m i n } \\{ P ( w _ { 1 } / z ) ,$ （204号$P ( w _ { 2 } / z ) \\}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $j$ 取值为3或4时， $P _ { 2 } ( e / z ) = \\operatorname* { m i n } \\{ P ( w _ { 3 } / z )$ $P ( w _ { 4 } / z ) \\}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以，错误率 $P ( e ) = P _ { 1 } ( e / z ) P ( w _ { i } ) + P _ { 2 } ( e / z )$ $P ( w _ { j } )$ ，其中 $\\scriptstyle { i = 1 }$ 或2; $j { = } 3$ 或4。例如，当$P _ { 1 } ( e / z ) = P ( w _ { 1 } / z )$ 时， $\\scriptstyle i = 1$ ；当 $P _ { 2 } ( e / z ) = P ( w _ { 3 } / z )$ 时，$j { = } 3$ ，以此类推。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 模型实例",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为进一步明确上述步骤，本文以样本数据为例说明上述模型的思路，样本数据集中训练集为100条记录的前50条记录；测试集为后50条记录。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先，观察数据可得， $k _ { 1 }$ 为苹果红且甜的数量，$k _ { 1 } = 1 1$ ， $k _ { 2 }$ 为苹果红但不甜的数量， $k _ { 2 } = 1 5$ ，由此便可直接代入公式(2)和公式(4)计算得出苹果在红的条件下甜的后验概率 $P ( Y = 1 / X = 1 )$ 以及苹果在不红的条件下甜的后验概率 $P ( Y = 1 / X = 0 )$ 如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { P ( Y = 1 / X = 1 ) } \\\\ { = \\displaystyle \\frac { C _ { n } ^ { k _ { 1 } } p ^ { k _ { 1 } } ( 1 - p ) ^ { n - k _ { 1 } } P ( Y = 1 ) } { C _ { n } ^ { k _ { 1 } } p ^ { k _ { 1 } } ( 1 - p ) ^ { n - k _ { 1 } } P ( Y = 1 ) + C _ { n } ^ { k _ { 2 } } p ^ { k _ { 2 } } ( 1 - p ) ^ { n - k _ { 2 } } P ( Y = 0 ) } } \\\\ { = \\displaystyle \\frac { C _ { 5 0 } ^ { 1 1 } ( \\frac { 1 } { 4 } ) ^ { 1 1 } ( \\frac { 3 } { 4 } ) ^ { 5 0 - 1 } \\times \\frac { 1 1 } { 5 0 } } { C _ { 5 0 } ^ { 1 1 } ( \\frac { 1 } { 4 } ) ^ { 1 1 } ( \\frac { 3 } { 4 } ) ^ { 5 0 - 1 } \\times \\frac { 1 1 } { 5 0 } + C _ { 5 0 } ^ { 1 5 } ( \\frac { 1 } { 4 } ) ^ { 1 5 } ( \\frac { 3 } { 4 } ) ^ { 5 0 - 1 } \\times \\frac { 1 1 } { 5 0 } } } \\\\ { \\approx \\displaystyle \\frac { 0 . 0 2 6 } { \\ c \\cdot \\ c \\cdot \\ c \\cdot \\ c \\cdot \\ c } \\approx 0 . 2 3 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另外， $k _ { 3 }$ 为苹果不红但甜的数量， $k _ { 3 } = 1 0$ ， $k _ { 4 }$ 为苹果不红也不甜的数量， $k _ { 4 } = 1 4$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { P ( Y = 1 / X = 0 ) } \\\\ { = \\displaystyle \\frac { C _ { n } ^ { k _ { 3 } } p ^ { k _ { 3 } } ( 1 - p ) ^ { n - k _ { 3 } } P ( Y = 1 ) } { C _ { n } ^ { k _ { 3 } } p ^ { k _ { 3 } } ( 1 - p ) ^ { n - k _ { 3 } } P ( Y = 1 ) + C _ { n } ^ { k _ { 4 } } p ^ { k _ { 4 } } ( 1 - p ) ^ { n - k _ { 4 } } P ( Y = 0 ) } } \\\\ { = \\displaystyle \\frac { C _ { 5 0 } ^ { 1 0 } ( \\frac { 1 } { 4 } ) ^ { 1 0 } ( \\frac { 3 } { 4 } ) ^ { 5 0 - 1 0 } \\times \\frac { 1 1 } { 5 0 } } { C _ { 5 0 } ^ { 1 0 } ( \\frac { 1 } { 4 } ) ^ { 1 0 } ( \\frac { 3 } { 4 } ) ^ { 5 0 - 1 0 } \\times \\frac { 1 1 } { 5 0 } + C _ { 5 0 } ^ { 1 4 } ( \\frac { 1 } { 4 } ) ^ { 1 4 } ( \\frac { 3 } { 4 } ) ^ { 5 0 - 1 4 } \\times \\frac { 1 1 } { 5 0 } } } \\\\ { \\approx \\displaystyle \\frac { 0 . 0 9 9 } { \\ c _ { 0 } \\ c _ { 0 } \\ . \\ c _ { 1 1 1 } } \\approx 0 . 2 1 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "于是，状态\"红苹果甜\"的概率为 $P ( W _ { 1 } ) { = } 0 . 2 3$ ；状态\"红苹果不甜\"的概率为 $P ( W _ { 2 } ) { = } 1 { - } 0 . 2 3 { = } 0 . 7 7$ ；状态“苹果不红但甜\"的概率为 $P ( W _ { 3 } ) { = } 0 . 2 1$ ；状态\"苹果不红也不甜\"的概率为 $P ( W _ { 4 } ) { = } 1 { - } 0 . 2 1 { = } 0 . 7 9 _ { \\circ }$ 。然后，利用测试集 $z = [ x _ { i } , y _ { i } ]$ 得出状态的后验概率，其中 $i { = } 1 , 2 , 3 , 4 ,$ 0测试集中， $k _ { 1 }$ 为苹果红且甜的数量， $k _ { 1 } = 1 2$ ， $k _ { 2 }$ 为苹果红但不甜的数量， $k _ { 2 } = 1 4$ ， $k _ { 3 }$ 为苹果不红但甜的数量， $k _ { 3 } = 6$ ， $k _ { 4 }$ 为苹果不红也不甜的数量， $k _ { 4 } = 1 8$ 。基于公式(5)和公式(6)计算可得到:",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { p ( w _ { 1 } / z ) = \\displaystyle \\frac { p ( z / w _ { 1 } ) p ( w _ { 1 } ) } { p ( z / w _ { 1 } ) p ( w _ { 1 } ) + p ( z / w _ { 2 } ) p ( w _ { 2 } ) } } } \\\\ { { = \\displaystyle \\frac { ( \\frac { 1 } { 4 } ) ^ { 1 2 } \\times 0 . 2 3 } { ( \\frac { 1 } { 4 } ) ^ { 1 2 } \\times 0 . 2 3 + ( \\frac { 1 } { 4 } ) ^ { 1 4 } \\times 0 . 7 7 } \\approx 0 . 8 2 7 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( w _ { 2 } / z ) = 1 - 0 . 8 2 7 = 0 . 1 7 3\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\cal P } ( w _ { 3 } / z ) \\displaystyle = \\displaystyle \\frac { p ( z \\prime ~ w _ { 3 } ) p ( w _ { 3 } ) } { p ( z / w _ { 3 } ) p ( w _ { 3 } ) + p ( z / w _ { 4 } ) p ( w _ { 4 } ) } } } \\\\ { { { } } } \\\\ { { \\displaystyle ~ = \\displaystyle \\frac { ( \\frac 1 4 ) ^ { 6 } \\times 0 . 2 1 } { ( \\frac 1 4 ) ^ { 6 } \\times 0 . 2 1 + ( \\frac 1 4 ) ^ { 1 8 } \\times 0 . 7 9 } \\approx 0 . 9 9 9 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( w _ { 4 } / z ) = 1 - 0 . 9 9 9 = 0 . 0 0 1\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "显然， $p ( w _ { 2 } / z ) < p ( w _ { 1 } / z ) ; p ( w _ { 4 } / z ) < p ( w _ { 3 } / z )$ ，则 $P _ { 1 } ( e / z ) = 0 . 1 7 3 ; P _ { 2 } ( e / z ) = 0 . 0 0 1$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所以，第一组数据最终的错误率为：$P ( e ) = P _ { 1 } ( e / z ) P ( w _ { 2 } ) + P _ { 2 } ( e / z ) P ( w _ { 4 } ) = 0 . 1 7 3 \\times 0 . 7 7 +$ $0 . 0 0 1 \\times 0 . 7 9 = 0 . 1 3 4 _ { \\circ }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4实验验证 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于三类真实数据集，以及衡量可信度测度效率的最小错误率公式，将本文所构建的贝叶斯推理可信度测度模型，与目前具有代表性的模糊可信度测度模型相比较，以验证上述基于贝叶斯推理的网络信息内容可信度测度模型，并探索贝叶斯可信度测度模型和模糊可信度测度模型的最小错误率随着参与者规模的增加而变化的趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1 实验思路及数据集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为探索错误率随记录规模增加而变化的规律，本文尝试按一定比例逐渐增加样本的数量(如每次抽样在原来记录规模基础上增加100条记录)，依次抽取累积的记录作为样本数据。在每次实验中，取样本数据的 $50 \\%$ 作为可信度测度计算的输入，基于贝叶斯可信度测度公式计算对象是否具有目标属性的可信值；取样本数据的 $50 \\%$ 作为最小错误率计算的输入，基于最小错误率公式计算可信度测度的错误率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于典型的UCI数据库①，分别选取计算机、社交、网络新闻三个不同领域的社交媒体数据集。对于每个数据集，分别确定可观察的条件属性关键词以及隐含的目标属性关键词。基于社交媒体参与者的评价或标注，如果参与者认为信息内容对象具有相应属性关键词，则相应目标属性及条件属性取值为1(具有该属性)，否则为0(不具有该属性)，因而每个数据集是取值为0或1的矩阵 $M _ { n \\times 2 }$ ，其中, $n$ 为参与者的规模，两列属性关键词为别为目标属性关键词和条件属性关键词。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据集1:数据集1来自于2012年YouTube的喜剧大满贯实验，属于计算机类主题，共包含1138562条记录，3个属性，抽取该对象的目标属性“左或右\"(左表示视频有趣，右则相反)及条件属性\"YouTube视频ID”，可构成1593行、2列的0-1矩阵。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据集2：数据集2来自于博客帖子在24小时之内的评论数量，属于社交类主题，共包含60021条记录，281种属性，抽取该对象的目标属性\"博客的评论数\"及条件属性“博客文章的长度”，可构成21276行、2列的0-1矩阵。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据集3：数据集3来自于互联网信息服务器MSNBC.com和MSN.com新闻相关的部分记录，属于网络新闻类主题，相关记录共有981818条记录、17个属性，抽取该对象的目标属性\"首页与新闻\"的点击顺序及条件属性“首页与其它\"的点击顺序，可构成",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "435050行、2列的0-1矩阵。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2 实验结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文所构建的可信度测度模型及衡量可信度测度模型的最小错误率公式，对三个不同领域的相关数据集进行实验，分别得到随着用户规模而变化的错误率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验一：计算机类主题的可信度测度，基于实验结果如图2所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a7e1dffba7360b876a90b23302456db69ceefd9b9ec6d61a5824b50fcf8f4ea.jpg",
+        "img_caption": [
+            "图2计算机领域对象可信度测度的错误率随用户规模变化的趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，参与者规模从200增加到1593的过程中，模糊可信度测度模型的最小错误率始终高于贝叶斯可信度测度模型的最小错误率。因此，对于计算机领域对象可信度测度而言，贝叶斯可信度测度模型具有较高的可行性和有效性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "就贝叶斯可信度测度的错误率而言，当用户规模小于400时，错误率随着用户规模的增加而显著提高;当用户规模大于400时，错误率随着用户规模的增加而显著降低；当用户规模达到800时，错误率趋于稳定。该领域的对象是否具有目标属性的可信度测度模型的错误率随着用户规模的增加具有波动的特征。结合错误率随用户规模变化的趋势，对于该领域的对象而言，在对其具有目标属性的可信度进行测度时，应选择用户规模大于800为宜。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验二：社交主题的可信度测度，实验结果如图3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddb486172a8dfe4ab331a2f9f5e7004d75cbce3d161e53b3ceba3009ea2aa3bd.jpg",
+        "img_caption": [
+            "图3社交领域对象可信度测度的错误率随用户规模变化的趋势 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图3可知，两个模型的可信度测度的最小错误率均总体呈现降低的趋势。参与者规模从2000增加到6000的过程中，也即参与者规模较小时，模糊可信度测度模型的最小错误率低于贝叶斯可信度测度模型的最小错误率。而随着参与者规模的增加，模糊可信度测度模型的最小错误率也开始高于贝叶斯可信度测度模型的最小错误率。因此，对于社交领域对象可信度测度而言，随着参与者越来越多，贝叶斯可信度测度模型具有较高的可行性和有效性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "就可信度测度的错误率而言，当用户规模小于2000时，错误率随着用户规模的增加而显著提高;当用户规模大于2000且小于12000时，错误率随着用户规模的增加而总体呈下降趋势，尽管这期间有上下波动；当用户规模大于12000时，错误率逐渐降低并且渐渐趋于稳定。该领域的对象是否具有目标属性的可信度测度模型的错误率随着用户规模的增加具有波动的特征。结合可信度及错误率随用户规模变化的趋势，对于该领域的对象而言，在对其具有目标属性的可信度进行测度时，应选择用户规模大于12 000 为宜。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验三：网络新闻信息主题的可信度测度，实验结果如图4所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed627920f5d3f1c37c85c01a43d6f0417889e59a8690fa805d8bef949b6a3291.jpg",
+        "img_caption": [
+            "图4网络新闻领域对象可信度测度的错误率随用户规模变化的趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图4可知，两个模型的可信度测度的最小错误率均总体呈现降低的趋势。参与者规模从50000增加到200000的过程中，模糊可信度测度模型的最小错误率低于贝叶斯可信度测度模型的最小错误率。而随着参与者规模的增加，模糊可信度测度模型的最小错误率开始高于贝叶斯可信度测度模型的最小错误率。因此，对于网络新闻领域对象可信度测度而言，随着参与者越来越多，贝叶斯可信度测度模型具有较高的可行性和有效性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "就可信度测度的错误率而言，当用户规模小于100000时，错误率的波动较大，随着用户规模的增加而总体呈下降趋势；当用户规模大于150000时，错误率随着用户规模的增加而显著降低；当用户规模达到350000时，错误率趋于稳定。由上述结果可知，贝叶斯可信度测度模型结果的错误率随着用户规模的增加具有波动的特征。结合可信度及错误率随用户规模变化的趋势，对于该领域的对象而言，在对其具有目标属性的可信度进行测度时，应选择参与者规模介于200000和300000之间以及大于350000为宜。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "上述实验结果表明：在参与者规模越来越多的情况下，贝叶斯可信度测度模型相较于模糊可信度测度模型而言，具有较高的可行性；贝叶斯可信度测度模型的最小错误率会随着用户规模的增加，总体呈现降低且始终大于0的趋势，但对于不同领域的对象及目标属性而言，该变化趋势也具有不同的波动特征。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3 结果讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在构建可信度测度模型过程中，本文基于贝叶斯推理理论，首先针对一定用户规模的特定事件所具有目标属性的数据集，计算出其先验概率；然后按一定比例逐渐增加用户规模，对该特定事件具有目标属性的可信度进行迭代计算；最后获得随着用户规模不断扩大所不断增加的新信息，计算该特定事件具有目标属性可信度的后验概率逐渐被修正的结果。本文模型利用参与用户对事件是否具有目标属性的体验性经验，提出了网络信息内容可信度的定量测度指标。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对于可信度测度模型结果的评价，本文基于贝叶斯决策理论，构建最小错误率模型，该模型在一定程度上揭示了特定事件具有目标属性可信度的可靠性或可接受程度，为可信度测度模型的实际运用提供了更多的参照标准。即，对于一定的用户规模，当其可信度测度的最小错误率较高时，相应的可信度测度值的可靠性或可接受程度较低。并揭示了随着用户规模的增加，最小错误率总体降低的趋势，这其中体现了集体智慧的规律。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，本文选择目前具有代表性的模糊测度法，基于贝叶斯决策的最小错误率公式，分别探索模糊可信度测度模型和贝叶斯可信度测度模型的最小错误率随着参与者规模的增加而变化的趋势。虽然随着参与者规模的增加，两个模型的最小错误率总体都呈现降低的趋势，但是模糊可信度测度模型的最小错误率总体而言高于贝叶斯可信度测度模型的最小错误率，由此证明本文构建的贝叶斯可信度测度模型的有效性和可行性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论与展望 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于贝叶斯推理理论，构建了网络信息内容可信度测度模型，基于贝叶斯决策理论，构建了衡量可信度测度模型的最小错误率模型，并基于集体智慧的思想，揭示了随着参与用户规模的增大，最小错误率识别错误率的变化规律。利用三个不同领域的真实数据集，验证了相关模型的有效性。具体而言，本文所构建的网络信息内容可信度测度模型及最小错误率模型具备以下优势：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）不同于传统的基于调查或实验、基于领域专家知识的定性判断、以及基于用户主观感知[17的侧重于定性的信息可信度评估途径，本文基于贝叶斯推理及决策模型，构建了基于参与用户客观行为数据的信息可信度定量测度模型。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）基于贝叶斯推理的网络信息可信度测度模型，实现了对已有经验和证据性数据的有效利用，也即，随着用户规模按比例扩大，较小用户规模时的后验概率会作为先验概率，增加的用户经验会不断修正该先验概率，进而形成更符合实际可信度的后验概率。该途径不再单纯依据当前信息内容，从而弥补了传统数据挖掘中分类及排序方法缺乏对先验知识及新信息进行利用的不足。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3)基于贝叶斯决策理论的最小错误率模型，实现了对可信度测度可靠性及可接受程度的评价。对于特定用户规模前提下，可信度测度值是否可靠，应参考相关的最小错误率是否满足实际应用的可接受标准。该模型为可信度测度模型的实际应用提供了参照标准，并可更加直观地体现测度模型的可行性。相关实验结果也揭示了集体智慧理论所体现的规律。随着参与用户规模的增加，可信度测度的错误率总体趋于下降。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于不同领域的实验数据，基于本文所构建的最小错误率模型，随着参与者规模的增加，最小错误率总体呈现下降趋势。并且模糊可信度测度模型的最小错误率高于贝叶斯可信度测度模型的最小错误率由此证明了本文构建的贝叶斯可信度测度模型的有效性和可行性。但对于不同领域的数据而言，其波动趋势会有差异，因而，本文所构建的可信度测度模型虽然适用领域范围较广，但在具体应用时，应分析相关的应用领域场景前提。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "鉴于网络信息内容可信度测度所涉及的影响因素较复杂，本文所构建的可信度测度模型仍存在一些在未来的研究中需要进一步改进的工作：网络信息内容可信度的影响因素较多，除条件属性及用户规模之外，其他因素对可信度测度的影响程度需要进一步探索，此外，不同影响因素之间的相关性也需要在构建可信度测度模型时进一步探讨；本文实验主要涉及三个不同领域的数据集，相关模型是否适用于其他更为广泛的应用领域，需要在今后的研究中进一步验证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Metzger M J.Making Sense of Credibility on the Web: ModelsforEvaluatingOnlineInformationand Recommendations for Future Research[J]. Journal of the Association for Information Science and Technology,2007, 58(13): 2078-2091.   \n[2] Fogg B J,Marshall J,Kameda T,et al.Web Credibility Research:A Method for Online Experiments and Early Study Results[C]//Proceedings of $\\mathrm { C H I ^ { \\prime } 0 1 }$ Extended Abstracts on Human Factors in Computing Systems.New York,USA: ACM,2001:295-296.   \n[3] JaworskiW,Rejmund E，WierzbickiA． Credibility Microscope:Relating Web Page Credibility Evaluations to Their Textual Content [C]//Proceedings of the 2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence and Intelligent Agent Technologies.Washington, USA:IEEE Computer Society,2014: 297-302.   \n[4] FlanaginAJ,MetzgerMJ,PureR,etal.MitigatingRiskin EcommerceTransactions: PerceptionsofInformation Credibility and the Role of User-Generated Ratings in Product Quality and Purchase Intention[J]. Electronic Commerce Research,2014,14(1):1-23.   \n[5] 刘冰，张耀辉．基于网络用户体验与感知的信息质量影响 因素模型实证研究[J]．情报学报，2013，32(6)：663-672. (Liu Bing,Zhang Yaohui. Empirical Study on Information Quality Influencing FactorsBased on Network User Experience and Perception [J]. Journal of the China Society for Scientific and Technical Information，2013,32(6):   \n663-672.) [6]Castillo C,Mendoza M,Poblete B.Predicting Information Credibility in Time-Sensitive Social Media[J].Internet Research,2013,23(5): 560-588. [7]Pasternack J，Roth D.Latent Credibility Analysis[C]// Proceedings of International Conference on World Wide Web.   \n2013:1009-1020. [8]Bartomiej B，Jaworski W,Wierzbicki A.Application of TextRankAlgorithmforCredibilityAssessment[C]// Proceedings of the 2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence.Washington,USA:IEEE Computer Society,2014: 451-454. [9]Patra K,Mondal S K.Multi-item Supplier Selection Model with Fuzzy Risk Analysis Studied by Possibility and Necessity Constraints[J]. Fuzzy Information & Engineering,   \n2015, 7(4): 451-474. [10]周亚同，张太镒，卢照敢．基于贝叶斯推理的决策树模型 [J]．西安交通大学学报，2006，40(8):888-891．(Zhou Yatong，Zhang Taiyi,Lu Zhaogan．Decision Tree Model Based on Bayesian Inference [J]. Journal of Xi'an Jiao Tong University,2006,40(8): 888-891.) [11] Lee E S,LiR J.Comparison of Fuzzy Numbers Based on the Probability Measure of Fuzzy Events[J]. Computers& Mathematics with Applications,1988,15(10): 887-896. [12] 刘海鑫，刘人境．集体智慧的内涵及研究综述[J].管理学 报，2013，10(2):305-312.(Liu Haixin,Liu Renjing.The Collective Wisdom of the Connotation and Research Review[J]. Chinese Journal of Management， 2013,10(2):   \n305-312.) [13]李灿，辛玲．谈调查问卷的可信度与有效度问题[J]．商业 时代,2008(15):65-66.(Li Can,Xin Ling.The Reliability and Validity of the Questionnaire[J]. Commercial Times,   \n2008(15): 65-66.) [14]荆钟,何明．基于最小错误率的贝叶斯决策在手写英文字 母分类识别中的应用[J]．辽宁工业大学学报：自然科学版,   \n2009,29(2): 98-100. (Jing Zhong,He Ming. Application of Bayesian Decision Making Based on Minimum Error Rate in Handwritten Chinese Character Recognition[J]. Journal of Liaoning University of Technology:Natural Science Edition, 2009,29 (2):98-100.)   \n[15]杨会云．基于最小错误率贝叶斯决策和平滑滤波的图像去 噪算法研究[D]．石家庄：河北师范大学，2010.（Yang Huiyun.Research on Image Denoising Algorithm Based on Minimum Error Rate Bayes Decision and Smoothing Filter[D]. Shijiazhuang:Hebei Normal University,2010.)   \n[16]周全，汤书昆．社会化媒体信息源感知可信度及其影响因 素研究- -一项基于微博用户方便样本调查的实证分析 [J]．新闻与传播研究，2015(4):18-35.(Zhou Quan，Tang Shukun.Perceived Social Media Source Credibility and Its Influence Factors:An Empirical Analysis Based on Weibo Users’Convenience Sample Survey [J]. Journalism & Communication,2015(4):18-35.)   \n[17]李勇，桑艳艳．网络文本数据分类技术与实现算法[J]．情 报学报，2002，21(1):21-26.(Li Yong，Sang Yanyan. Classification Technology and Implementation Method for Web-based Text Data [J].Journal of the China Society for Scientific and Technical Information,2002,21(1):21-26.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "李保珍：提出研究命题、研究思路，论文最终版本修订;  \n王亚：数据处理及实验验证，论文撰写及修改。  \n周可：数据分析及实验。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据[1]见http://archive.ics.uci.edu/ml；支撑数据[2-4]由作者自存储,E-mail:baozhenli $@ 1 2 6 . \\mathsf { c o m } _ { \\circ }$   \n[1]Bache K,Lichman M.category_url.“UCI machine learningrepository,”推荐文章栏目包含的网页链接.  \n[2]李保珍.数据集1:2012年YouTube 的喜剧大满贯实验.[3]李保珍.数据集2：博客帖子在24小时之内的评论数量.[4]李保珍．数据集3：互联网信息服务器MSNBC.com和MSN.com新闻相关的部分记录.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2017-02-22  \n收修改稿日期:2017-05-01",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Measuring Credibility of Social Media Contents Based on Bayesian Theory ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Li Baozhen'Wang $\\mathrm { Y a } ^ { 2 }$ Zhou $\\mathsf { K e } ^ { 1 }$ 1(National Audit Big Data Research Center, Nanjing Audit University, Nanjing 211815, China) 2(School of Science and Management, Jiangsu University of Science and Technology, Zhenjiang 2120o3,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:[Objective]This paper builds a model to quantitatively measure the credibilityof Web contents,aiming to improve the efciency of removing dis-information.[Methods] We first constructed acredibility measurement model based on Bayesian inference theory，and then established aminimum error rate evaluation model forcredibility measurement with Bayesian decision theory.[Results] With the increasing of social media users,the minimum error rate of credibilitydegree went down,and the proposed model had beter performance than those based on traditional fuzzy theory.[Limitations]The influencing factors of the reliabilitymeasurement model onlyinclude the numberof participants.More research is needed to examine other factors,such as the conditional atributes and the reference objects.[Conclusions] This paper reveals that the minimum error rate is decreased by increasing the number of participants. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Credibility Degree MeasureWeb ContentBayesian TheorySocial MediaColective Intellgence ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "欢迎订阅2018年《数据分析与知识发现》 (月刊)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "《数据分析与知识发现》杂志是由中国科学院主管、中国科学院文献情报中心主办的学术性专业期刊。刊物原名《现代图书情报技术》,2017年正式更名为《数据分析与知识发现》，致力于为计算机科学、情报科学、管理学领域的研究者提供一个重要的学术交流平台。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "刊物将秉承\"反映前沿动态、推动学科发展、引领学术创新\"的办刊理念，广泛吸纳计算机科学、数据科学、情报科学领域的优秀研究成果，聚焦数据驱动的语义计算、数据挖掘、知识发现、决策支持等方面的技术、方法与政策、机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "月刊：国际通行16开版本国内邮发代号：82-421电话/传真:010-82624938E-mail: jishu@mail.las.ac.cn",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "定价：80元/期，全年定价：960元  \n国外邮发代号：M4345  \n地址：北京中关村北四环西路33号 5D(100190)  \n网址:http://www.infotech.ac.cn",
+        "page_idx": 9
+    }
+]

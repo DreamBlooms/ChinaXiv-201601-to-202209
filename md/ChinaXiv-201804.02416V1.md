@@ -1,0 +1,255 @@
+# 考虑供应商选择的选址一库存一路径的联合优化
+
+张得志1，潘立红1，李双艳²
+
+(1．中南大学 交通运输工程学院，长沙 410075;2.中南林业科技大学 物流与运输学院，长沙 410004)
+
+摘要：针对装配型制造企业供应链集成优化问题，建立了随机需求情形下整合供应商选择和各层级之间运输方式选择的多层级选址一库存模型。该模型通过对供应商的选择，装配厂和分销中心的选址，相邻两层级之间的分配服务关系及运输方式的确定，实现整体供应链网络成本最小化。为求解此混合整数非线性规划模型，设计了一种矩阵编码的改进自适应遗传算法。仿真实验表明，该算法的解的寻优能力明显优于标准遗传算法，得出了供应链总成本与装配厂的最大提前期存在一定规律性的结论。
+
+关键词：供应商选择；选址—库存；运输方式选择；矩阵编码；改进遗传算法中图分类号：F253.4 doi: 10.3969/j.issn.1001-3695.2018.01.0068
+
+# Research on joint optimization for location-inventory-routing with supplier selection
+
+Zhang Dezhil†, Pan Lihong1, Li Shuangyan² (1.Schoolofafc&raspotationEngineering,CentralouthUnivesityCangsha405,Ca;2.Cogeofistic &Transportation,Central South University ofForestry & Technology,Changsha 410o04, China)
+
+Abstract: Aiming at the integrated optimizationofsupplychain in assembly manufacturing enterprises,this paper proposeda multi-stage location inventory model to integrate supplierselectionandtransportation modeamong diferent levels under stochasticdemand.The modelselects thesuppliers,thelocationoftheassemblyplantsandthedistributioncenters,determines the distribution servicerelationshipandtransportation modeamong facilities,soas tominimizethecostofthe whole supply chain network.This workdesignedan improvedadaptive genetic algorithmbasedonmatrix coding tosolve theproposed mixed integer nonlinear programming model.The simulation results show that the algorithm is superior to the standard genetic algorithmintheoptimizationabilityofthesolutionanddrawaconclusion thatthereissomeregularitybetweenthetotalcostof supply chain and the maximum lead time of plants.
+
+Key words: supplier selection;location-inventory;transport mode selection; matrix coding; adaptive genetic algorithm
+
+# 0 引言
+
+市场全球化的今天，能否快速、准确地满足客户的需求，越来越成为企业制胜的关键。现在的企业竞争，已经不单是企业效益的角逐，更是供应链的竞争。实现供应链总体最优已是如今企业界、学术界的热门话题。近些年越来越多的文献研究在选址一库存问题（location-inventoryproblems，LIP）上进行延伸。谭凌等人[在传统的配送中心选址问题上，综合考虑库存控制、运输规模经济、配送中心及门店的服务水平，建立配送总成本优化模型。Miranda等人[2]考虑库存控制决策和设施选址的联合优化问题，针对仓库库存存储空间稀有和车辆载容量有限的城市环境，提出了两个新颖的约束条件，一个是经济订货批量的上限约束，另一个是仓库容量限制的随机约束，并且设计了拉格朗日松弛和次梯度相结合的综合算法来求解模型。秦绪伟等人[3研究需求服从正态分布的条件下，假设分拨中心采用周期性检查(R,S,Q)，分拨点采用连续检查(s,S)库存控制策略，考虑单个供应商、多个分销中心、多个分拨点的分销网络，建立二级库存和无容量约束的选址一库存模型，并用拉格朗日松弛算法实现对模型的求解。Mendoza等人[4针对多级供应网络统的供应商选择和订单数量分配问题，考虑多供应商补货成本、库存成本和各层级之间的运输成本，建立混合整数非线性规划模型，确定供应链各层级的最优库存策略和供应商的订单分配。Choudhary等人[5]提出一个混合整数规划模型实现采购点与货物量、供应商和承运商同时进行优化决策。Hamedani等人[6建立三级供应链网络的选址一库存鲁棒优化模型，解决分销中心选址、库存控制参数的确定及货物的分配问题，并用改进粒子群算法实现对模型求解。税文兵等人[7为实现对供应商的选择、工厂和配送中心的选址及订货批量的确定，各层级之间运量的分配同时进行优化决策，提出整合供应商选择的多层级选址—库存模型，设计了粒子群优化算法求解该模型，并通过不同规模的仿真算例证明算法的有效性。You等人[8利用松弛模型和分解算法巧妙求解随机需求的库存管理混合整数非线性规划模型。Puga等人[9提出一种启发式算法来求解需求不确定条件下供应链网络中的选址—库存问题。Perez等人[10]研究多级供应链中的供应商选择、中间层级的选址一库存及网络中各节点之间的数量分配问题。Li等人[1研究在三级供应链网络中实现分销中心选址、订货分配、运输方式选择、库存控制参数，在订货点及安全库存的同时优化决策，并将碳排量作为成本，考虑系统总成本最低。
+
+本文研究了基于供应商选择的选址一库存一路径的联合优化问题，针对问题特征构建了相应优化模型；同时，针对问题特征与其求解复杂性，提出了基于矩阵编码的改进自适应性遗传算法，通过相应数值仿真算例验证了优化模型和求解算法的有效性，并且进一步研究发现供应链的总成本与装配厂的最大提前期存在一定规律，这一结论的提出对企业管理决策者具有实际指导意义。
+
+# 1 问题分析与建模
+
+# 1.1问题描述
+
+本文考虑由多个供应商、装配厂、分销中心和零售商构成的多级供应链网络，各个零售商的需求相互独立，满足各自的随机正态分布，各开通运营的分销中心根据所服务零售商的需求，检查成品库存或向装配厂订货，开通运营的装配厂在收到订单后，检查成品库存，或者准备生产加工，根据需求向供应商发出原材料或者半成品采购订单。在满足以下假设的情形下，实现对供应商选择、装配厂和分销中心的选址，各级节点之间的运输量和运输方式进行优化决策。多级供应链网络分布如图1所示。
+
+![](images/63ab37b8f54060fb39473a3e1efeee294ea18b3db06bd37cf7e812c46f2a5865.jpg)  
+图1多级供应链网络分布
+
+# 1.2模型假设
+
+a)供应商的总数量和位置已知，并且已知它们的容量限  
+制；b)可供选择的装配厂和分销中心的总数量和位置已知，定  
+义各自的容量；c)各设施之间的运输工具种类已知，定义各自的容量；d)各开通运营的装配厂和分销中心都采用连续的库存检查  
+控制策略(Q,R)；e)一个零售商只能被一个分销中心服务，一个分销中心只
+
+能被一个装配厂服务，一个装配厂可以被多个供应商服务；
+
+f)相邻两级节点之间的货物只能采用一种运输方式，即需求不可拆分；
+
+g)各供应商的提前期不能超过被服务装配厂的最大提前期。
+
+# 1.3数学模型
+
+a)符号说明：
+
+I为供应商集合，某一个供应商用i表示。
+
+J为备选装配厂集合，某一个装配厂用j表示。
+
+K为备选分销中心集合，某一个分销中心用k表示。
+
+L为零售商集合，某一个零售商用1表示。
+
+M为运输方式集合，某一种运输方式用m表示。
+
+b)决策变量：
+
+$x _ { j }$ 如果装配厂j开通为1，否则0;
+
+$y _ { k }$ 如果分销中心k开通为1，否则0;
+
+$t _ { i j } ^ { m }$ 如果从供应商i到装配厂j用第m种运输方式运送货物为
+
+# 1，否则0;
+
+$r _ { j k } ^ { m }$ 如果从装配厂j到分销中心k用第m种运输方式运送货物为1，否则0;
+
+$s _ { k l } ^ { m }$ 如果从分销中心k到零售商1用第m种运输方式运送货物1，否则0;
+
+$\lambda _ { i j }$ 表示装配厂j向供应商i的采购数量。
+
+c)中间变量：
+
+$\beta _ { j }$ 为装配厂j的需求均值;
+
+$V _ { j }$ 为装配厂j的需求方差;
+
+$\alpha _ { k }$ 为分销中心k的需求均值；
+
+$U _ { k }$ 为分销中心k的需求方差。
+
+d)参数:
+
+$d _ { \iota }$ 为零售商需求均值（单位/月）； $u _ { l }$ 为零售商需求标准差（单位/月）； $F _ { j }$ 为装配厂j的固定开通运营成本（元/月）； $O C _ { i j }$ 为装配厂j到供应商i的订购成本（元/次）； $H C _ { j }$ 为产品在装配厂的库存成本（元/单位/月）； $\alpha$ 为库存服务水平； $Z _ { \alpha }$ 为服从标准正态水平下，库存水平为 $\alpha$ 时的安全库存值； $L T _ { i j } ^ { m }$ 为装配厂j向供应商i订购货物，并且用运输方式 $\mathbf { m }$ 时的提前期（月/次）； $L T _ { j }$ 为装配厂j的最大提前期（月/次）； $U C _ { i j }$ 为装配厂j向供应商i采购货物的价格（元/单位）；$P _ { j }$ 为产品在装配厂j的装配费用（元/单位）； $f _ { k }$ 为分销中心k的固定开通运营成本（元/月）； $o c _ { j k }$ 为从分销中心k到装配厂j的订购成本（元/单位）； $h c _ { k }$ 为分销中心k的库存成本（元/单位/月）； $l t _ { j k } ^ { m }$ 为分销中心k到装配厂j采用第 $\mathbf { m }$ 种运输方式的提前期（月/次）； $T C _ { i j } ^ { m }$ 为从供应商i到装配厂j第m种运输方式的运输成本（元/单位）； $R C _ { j k } ^ { m }$ 为从装配厂j到分销中心k第m种运输方式的运输成本（元/单位）； $S C _ { k l } ^ { m }$ 为从分销中心k到零售商k第m种运输方式的运输成本（元/单位）； $\ C Q _ { i }$ 为供应商i的供应容量限 制（单位)； $C P _ { j }$ 为装配厂j的容量（单位);$C W _ { k }$ 为分销中心k的库存容量（单位)。
+
+$$
+\begin{array} { r l } { M n Z = \displaystyle \sum _ { s = t + s \neq s } \sum _ { \ell = 1 } ^ { \infty } ( F _ { \ell } \cdot x _ { i } + \sqrt { 2 - \sigma _ { G _ { i } } } \cdot M C _ { \ell } ) \cdot \sqrt { \beta _ { t } } \cdot r _ { \ell } ^ { s } } & { } \\ { +  \mathcal { T } _ { s } \cdot M C _ { \ell } \cdot \sqrt { 2 T _ { s } } \cdot \sqrt { F _ { \ell } } \cdot x _ { i }  } & { } \\ { +  F _ { \ell } \cdot \beta _ { d } \cdot M C _ { \ell } \cdot \sqrt { 2 } \cdot \sqrt { 2 } \cdot \sigma _ { G _ { i } } ^ { \ell } \cdot \sqrt { H _ { s } } \cdot r _ { \ell } ^ { s }  } & { } \\ { + \displaystyle \sum _ { s = t + s \neq s } \sum _ { \ell = 1 } ^ { \infty } ( f _ { \ell } \cdot y _ { \ell } \cdot r _ { \ell } + \sqrt { 2 - \sigma _ { G _ { i } } } \cdot k r _ { \ell } ) \cdot \sqrt { \alpha _ { t } } \cdot r _ { \ell } ^ { s } } & { } \\ { +  \mathcal { T } _ { s } \cdot M _ { \ell } \cdot \sqrt { \mu _ { s } } \cdot \sqrt { H _ { s } } \cdot \sqrt { H _ { s } } \cdot \sqrt { \mu _ { t } } \cdot \sqrt { \beta _ { t } }  } & { } \\ { +  \sum _ { s = t } ^ { \infty } \sum _ { \ell = 1 } ^ { \infty } \sqrt { 2 } \cdot \sqrt { 2 } \cdot \sigma _ { G _ { i } } ^ { \ell } \cdot \sqrt { \mu _ { s } } \cdot r _ { \ell } ^ { s } } & { } \\ { +  \sum _ { s = t } ^ { \infty } \sum _ { \ell = 1 } ^ { \infty } K C _ { \ell } \cdot \sqrt { \mu _ { s } } \cdot r _ { \ell } ^ { s } } & { } \\ { +  \sum _ { s = t } ^ { \infty } \sum _ { \ell = 2 } ^ { \infty } K C _ { \ell } \cdot \sqrt { \mu _ { s } } \cdot r _ { \ell } ^ { s }  } & { } \\ {  + \frac { 1 } { \omega _ { t } } \cdot \sqrt { 2 \pi } \cdot \sqrt { 2 } \cdot \sqrt { 2 } \cdot \sqrt { \mu _ { s } } \cdot \sqrt { \mu _ { t } } \cdot \sqrt { \mu _ { s } }  } & { } \\ { +  \sum _ { s = t + s } ^ { \infty } \sum _ { \ell = 1 } ^ { \infty } \mathcal { S } _ { \ell } \cdot \sqrt { 2 - \sigma _ { G _ { i } } } \cdot \sqrt { \mu _ { s } } \cdot \sqrt { \mu _ { s } }  } \end{array}
+$$
+
+目标函数式（1）代表单位时间内的系统总成本，第1项为装配厂j的固定开通运营成本、订购库存成本、安全库存成本、装配生产费用、装配厂j向供应商i采购货物的成本；第2项为分销中心k的固定开通运营成本、订购库存成本、安全库存成本；第3项为原材料或半成品从供应商i到装配厂j采用第m 种运输方式的运输成本；第4项为成品从装配厂j到分销中心 $\mathrm { ~ k ~ }$ 采用第m种运输方式的运输成本；第5项为成品从分销中心 $\mathrm { ~ k ~ }$ 到零售商1采用第m种运输方式的运输成本。
+
+s.t.
+
+$$
+\begin{array} { r l } & { \frac { \sum _ { k = 1 } ^ { n } \xi _ { k } ^ { n + 1 } - 1 } { n ! } \operatorname { W i } \xi = \lambda } \\ & { \frac { \sum _ { k = 1 } ^ { n } \xi _ { k } ^ { n + 1 } - 1 } { n ! } \operatorname { W i } \xi = \lambda } \\ & { \frac { \sum _ { k = 1 } ^ { n } \xi _ { k } ^ { n + 1 } - 1 } { n ! } \operatorname { W i } \xi = \lambda } \\ & { \frac { \sum _ { k = 1 } ^ { n } \xi _ { k } ^ { n + 1 } - 1 } { n ! } \operatorname { W i } \xi = \lambda } \\ & { \frac { \sum _ { k = 1 } ^ { n } \xi _ { k } ^ { n + 1 } - 1 } { n ! } \operatorname { W i } \xi = \lambda } \\ & { \frac { \sum _ { k = 1 } ^ { n } \xi _ { k } ^ { n + 1 } - 1 } { n ! } \operatorname { W i } \xi = \lambda } \\ & { \frac { \sum _ { k = 1 } ^ { n } \xi _ { k } ^ { n + 1 } - 1 } { n ! } \operatorname { W i } \xi = \lambda } \\ & { \frac { \sum _ { k = 1 } ^ { n } \xi _ { k } ^ { n + 1 } - 1 } { n ! } \operatorname { W i } \xi = \lambda } \\ & { \frac { \sum _ { k = 1 } ^ { n } \xi _ { k } ^ { n + 1 } - 1 } { n ! } \operatorname { W i } \xi = \lambda } \\ & { \frac { \sum _ { k = 1 } ^ { n } \xi _ { k } ^ { n + 1 } - 1 } { n ! } \operatorname { W i } \xi = \lambda } \\ & { \frac { \sum _ { k = 1 } ^ { n } \xi _ { k } ^ { n + 1 } - 1 } { n ! } \operatorname { W i } \xi = \lambda } \\ & { \frac { \sum _ { k = 1 } ^ { n } \xi _ { k } ^ { n + 1 } - 1 } { n ! } \operatorname { W i } \xi = \lambda } \\ & { \frac { \sum _ { k = 1 } ^ { n } \xi _ { k } ^ { n + 1 } - 1 } { n ! } \operatorname { W i } \xi = \lambda } \end{array}
+$$
+
+$$
+\sum _ { m \in M } \sum _ { i \in I } \lambda _ { i j } \cdot t _ { i j } ^ { m } \leq C P _ { j } \cdot x _ { j } \quad \forall j \in J
+$$
+
+$$
+Z _ { \alpha } \cdot \sqrt { L T _ { j } \cdot V _ { j } } + \beta _ { j } \leq C P _ { j } \cdot x _ { j } \quad \forall j \in J
+$$
+
+$$
+Z _ { \alpha } \cdot \sqrt { l t _ { j k } ^ { m } \cdot U _ { k } } + \alpha _ { k } \leq C W _ { k } \cdot y _ { k } \forall k \in K
+$$
+
+$$
+\lambda _ { i j } \leq C T _ { i j } ^ { m } \quad \forall m \in M
+$$
+
+$$
+\alpha _ { k } \leq C R _ { j k } ^ { m } \mathrm { ~ } \forall m \in M
+$$
+
+$$
+\sum _ { m \in M } t _ { i j } ^ { m } \le 1 \ \quad \forall i \in I , j \in J
+$$
+
+$$
+\sum _ { m \in M } r _ { j k } ^ { m } \le 1 \ \quad \forall j \in J , \mathrm { k } \in K
+$$
+
+$$
+\sum _ { m \in M } s _ { i k l } ^ { m } \le 1 \ \quad \forall \mathbf { k } \in K , \mathbf { l } \in L
+$$
+
+$$
+L T _ { i j } \cdot t _ { i j } ^ { m } \leq L T _ { j } \quad \forall j \in J
+$$
+
+式(2)为每个零售商有且仅有一个分销中心提供服务；式（3)为装配厂只能向已开通运营的分销中心服务；式（4）为零售商的需求和等于服务分销中心的需求均值；式（5）为零售商的需求标准差等于服务分销中心的需求标准差；式（6）为分销中心的需求和等于服务装配厂的需求均值；式（7）为分销中心的需求标准差等于服务装配厂的需求标准差；式 $( \boldsymbol { \vartheta } )$ 为从各个供应商的采购量等于装配厂的需求量；式（9）为供应商的供应能力不超过其生产能力；式(10)为向供应商的总采购量不超过装配厂的容量;式(11)为装配厂j的库存容量不超过其容量;式(12)为分销中心k的库存量不超过其容量；式(13)为从供应商i到装配厂j的货运量不超过运输工具容量；式(14)为从装配厂j到分销中心k 的货运量不超过运输工具容量；式(15）为零售商1的需求不超过从分销中心 $\mathrm { ~ k ~ }$ 到零售商1的运输工具的容量;式(16)为从供应航i到装配厂j的运输方式不超过一种;式(17)为从装配厂j到分销中心k的运输方式不超过一种；式(18)为从分销中心k到零售商1之间的运输方式不超过一种；式(19)为各个供应商的提前期不超过装配厂j的最大提前期。
+
+# 2 求解算法分析
+
+本文考虑供应商选择的选址一库存一路径的联合优化问题是 NP 难问题，很难直接求解，而遗传算法是模拟生物群体进化的随机搜索和逐代优化的算法，对于求解复杂模型优化问题优势较明显，因此本文采用改进的自适应遗传算法对模型进行求解计算。该算法具有以下几个突出特点：a）根据模型和各个决策变量的特点，设计了矩阵编码方式；b）采用了精英策略与轮盘赌策略相结合的选择策略；c)对个体交叉率和变异率进行自适应调整，相较于固定的交叉率和变异率，更有利于保留优秀个体。闫妍[12]提出的改进的自适应遗传算法（improvedadaptive geneticalgorithm，IAGA）中交叉率和变异率是以种群为单位，依据某染色体的适应度函数值与当代种群中最大适应度函数值、平均适应度函数值以及最小适应度函数值的集中程度，自适应地调整其交叉率和变异率。改进的自适应交叉率和变异率具体计算公式如式（20）和（21）所示。
+
+$$
+p _ { c } = \left\{ \begin{array} { l l } { \frac { k _ { 1 } ( F _ { a v g } - F ^ { ' } ) + k _ { 2 } ( F ^ { ' } - F _ { \mathrm { m i n } } ) } { F _ { a v g } - F _ { \mathrm { m i n } } } } & { F ^ { ' } < F _ { a v g } } \\ { \frac { k _ { 2 } ( F _ { \mathrm { m a x } } - F ^ { ' } ) + k _ { 3 } ( F ^ { ' } - F _ { a v g } ) } { F _ { \mathrm { m a x } } - F _ { a v g } } } & { F ^ { ' } \geq F _ { a v g } } \end{array} \right.
+$$
+
+$$
+p _ { m } = \left\{ \begin{array} { l l } { \displaystyle { \frac { k _ { 4 } ( F _ { a v g } - F ) + k _ { 5 } ( F - F _ { \mathrm { m i n } } ) } { F _ { a v g } - F _ { \mathrm { m i n } } } } } & { F < F _ { a v g } } \\ { \displaystyle { \frac { k _ { 5 } ( F _ { \mathrm { m a x } } - F ) + k _ { 6 } ( F - F _ { a v g } ) } { F _ { \mathrm { m a x } } - F _ { a v g } } } } & { F \geq F _ { a v g } } \end{array} \right.
+$$
+
+其中： $F$ 表示染色体的适应度函数值； $F _ { \mathrm { m i n } }$ 表示当代种群中所有染色体适应度函数值的最小值； $F _ { \mathrm { m a x } }$ 表示当代种群中所有染色体适应度函数值的最大值； $F _ { a \nu g }$ 表示当代种群中所有染色体适应度函数值的平均值； $\boldsymbol { F ^ { \prime } }$ 表示进行交叉操作的两条染色体适应度函数值中的较大值。另外 $k _ { 1 }$ 、 $k _ { 2 }$ 、 $k _ { 3 }$ 、 $k _ { 4 }$ 、 $k _ { 5 }$ 、 $k _ { 6 }$ 均属于(0,1)区间，且 $k _ { 1 } > k _ { 2 } > k _ { 3 }$ 、 $k _ { 4 } > k _ { 5 } > k _ { 6 }$
+
+1）编码及染色体结构
+
+本文所提出的考虑供应商选择的选址一库存一路径的联合优化问题，主要有6个决策变量，5个0-1变量，1个非负变量。针对此特点，设计了如图2所示的编码方式。一个解由6个矩阵基因片段组成，左起第一个矩阵表示从供应商到装配厂的分配数量，第二个矩阵表示相对应的运输方式，后面的矩阵片段依此类推。
+
+![](images/1fc2a792c31f22b32ac3e7ce2e9c48212ebde22992f33ece3b9d8dc8640f73df.jpg)  
+图2 解的表示
+
+2）初始种群
+
+初始种群的生成方法是根据目标函数和约束条件的特点，随机生成20个初始解。由于解随机生成，需要对部分解进行修正，直到所有的解满足约束条件。
+
+# 3）个体的适应度
+
+本文采用工具箱中的ranking函数为目标函数排序，作为个体的适应度函数。Ranking函数可以有效地避免因惩罚值过大造成的部分个体选择概率较小的问题。
+
+4)遗传操作
+
+选择算子：本文采用轮盘赌与精英选择相结合的选择策略。
+
+交叉算子：采用矩阵列交叉的方式，并对个体各个片段之间进行关系修正。交叉过程如图3所示。
+
+变异算子：采用矩阵行交叉的方式，并对个体各个片段之间进行关系修正。变异过程如图4所示。
+
+# 5）判断停止条件
+
+通过算例调试，本文所设计的算法终止条件为达到总进化代数400代时则算法终止。
+
+# 3 算例分析
+
+改进的自适应遗传算法程序用MATLAB2015(a)中的M语
+
+言编写，算例在系统配置为：CPU类型为酷睿双核i5处理器，CPU型号为i5-6200U，内存为4GB，操作系统为Windows7的笔记本电脑上进行仿真实验。算例基础参数如表1所示。
+
+# 3.1算法对比
+
+与算法特点，对五组不同规模的算例进行测试，令标准遗传算法（standard geneticalgorithm，SGA）交叉率和变异率分别取 $p _ { c } = 0 . 8$ 、 $p _ { m } = 0 . 1$ ，同时令改进自适应遗传算法（improvedadaptive geneticalgorithm，IAGA）中刻画自适应交叉率的三个参数分别取值为 $k _ { 1 } = 0 . 9$ 、 $k _ { 2 } = 0 . 8$ 、 $k _ { 3 } = 0 . 7$ ，刻画自适应变异率的三个参数分别取值为 $k _ { 4 } = 0 . 1$ 、 $k _ { 5 } = 0 . 0 8$ 、 $k _ { 6 } = 0 . 0 6$ ，每组算例测试20次。表2分别记录不同算法的运行结果。对于求解结果而言，对比分析得到：
+
+a)改进的自适应遗传算法所求得的最优解，最劣解，平均目标函数值均比标准遗传算法所得数值小，这说明改进的自适应遗传算法更能找到更高质量的解，具有更强的寻优性能；
+
+b)改进的自适应遗传算法运行时间略长于标准遗传算法，但差别并不大。
+
+通过以上两个方面的对比分析，可以证明改进自适应遗传算法的有效性及优越性。
+
+![](images/95967ecdae3265da4f69a731ef7c96a6cb7dd0f40606c972eae18d6c74a95256.jpg)  
+图3 交叉过程
+
+![](images/525a58ca49daa8d8e4e57cb6665998806b5ebecbc932be20d0df8c19103763df.jpg)  
+图4 变异过程
+
+表1算例基础参数  
+
+<html><body><table><tr><td>参数</td><td>符号</td><td>取值范围</td></tr><tr><td>零售商需求均值（单位/月</td><td>d</td><td>[13,23]</td></tr><tr><td>零售商需求标准差(单位/月)</td><td>u</td><td>[3,6]</td></tr><tr><td>供应商供应容量（单位）</td><td>CQi</td><td>[60,75]</td></tr><tr><td>装配厂到供应商的采购成本（元/单位）</td><td>UCij</td><td>[300,460]</td></tr><tr><td>装配厂固定开通运营成本（元/月）</td><td>F</td><td>[6500,7600]</td></tr><tr><td>装配厂库存成本（元/单位/月）</td><td>HC,</td><td>[240,330]</td></tr><tr><td>库存服务水平</td><td>α</td><td>0.95</td></tr><tr><td>服从标准正态水平下，库存水平为α时的安全库存值</td><td>Za</td><td>1.65</td></tr><tr><td>装配厂最大提前期（月/次)</td><td>LT</td><td>[6,7.5]</td></tr><tr><td>装配生产成本（元/单位)</td><td>P</td><td>[90,120]</td></tr><tr><td>装配厂生产容量（单位）</td><td>CPj</td><td>[120,135]</td></tr><tr><td>装配厂订购成本（元/次）</td><td>OCi</td><td>[1100,1500]</td></tr><tr><td>装配厂与供应商各运输方式提前期（月/次）</td><td>LT</td><td>[3,8]</td></tr><tr><td>分销中心固定开通运营成本（元/月）</td><td>f</td><td>[470,590]</td></tr><tr><td>分销中心库存成本（元/单位/月）</td><td>hck</td><td>[30,32]</td></tr><tr><td>分销中心库存容量（单位)</td><td>CWk</td><td></td></tr><tr><td>分销中心订购成本（元/单位）</td><td>OCjk</td><td>[120,180] [140,150]</td></tr></table></body></html>
+
+<html><body><table><tr><td>分销中心到装配厂各运输方式提前期（月/次） l [0.5,4.5] 供应商到装配厂各运输方式成本（元/单位) TC [35,110]</td></tr><tr><td>装配厂到分销中心各运输方式成本（元/单位） RC [17,47]</td></tr><tr><td>分销中心到零售商各运输方式成本（元/单位） SC</td></tr><tr><td>[6,17] 表2 不同规模情形下标准遗传算法与改进自适应遗传算法结果对比</td></tr><tr><td>算例序号 算例规模 算法 最优解对应的目标函数值/元最劣解对应的目标函数值/元20组解的平均目标函数值/元 20 组解的平均运行时间/s</td></tr><tr><td>SGA 161636.12 184906.50 173735.51 5.24</td></tr><tr><td>1 5-3-5-10 IAGA 140901.86 169671.18 169566.98 5.37</td></tr><tr><td>SGA 209170.55 223264.88 218987.94 5.49</td></tr><tr><td>2 5-3-5-15 IAGA 205015.26 215527.32 208127.25 5.62</td></tr><tr><td>SGA 166148.59 214974.82 191458.35 6.42</td></tr><tr><td>3 5-3-10-15 IAGA 161193.07 199976.00 186242.71 6.52</td></tr><tr><td>SGA 223206.68 285327.90 251930.80 5.73</td></tr><tr><td>4 5-5-5-15 IAGA 221423.72 257163.68 242048.81 5.81</td></tr><tr><td>SGA 188714.85 276622.71 244701.33 5.41</td></tr><tr><td>5 10-3-5-15 IAGA 186880.64 244642.59 223339.83 5.49</td></tr></table></body></html>
+
+# 3.2 结果分析与应用
+
+在仿真过程中，发现另一个重要的规律：当调整各装配厂的最大提前期时，目标函数值会呈现规律变化，以算例2（5-3-5-15规模）数据为基准，调整装配厂最大提前期，每组数据运行20次，得出平均值。其结果如图5所示。通过分析，得出以下几条规律：
+
+a）以算例2装配厂最大提前期数据为基准，定为1，提前期从0.7倍至1.1倍范围内时，装配厂的最大提前期越长，供应链总成本会下降，这说明装配厂接到订单越紧急，会加重采购，运输，生产等成本，从而造成供应链总成本上升；
+
+b)提前期在 $1 . 1 { \sim } 1 . 7$ 倍内时，装配厂的最大提前期越长，供应链总成本会上升，这说明企业为了及时满足客户需求，会积累大量的库存，从而造成供应链总成本上升。
+
+c）当装配厂的最大提前期在1.1倍附近时，供应链总成本取得极小值。因此，对于经营管理者而言，在供应链网络实际运营中，各装配厂需要确定好最佳的最大提前期，采购人员在恰当的时间发出订单，或者是把控好供应商的到货时间，有利于供应链总成本的降低。
+
+![](images/dd9eb963d3117aafebd11f9ae636be90b621a6c55e18645f38d48bf47e538a7b.jpg)  
+图5装配厂不同最大提前期条件下供应链总成本分析
+
+# 4 结束语
+
+本文在传统的库存一选址问题上进行拓展研究，提出考虑供应商选择的选址一库存一路径联合优化问题。该问题是一个NP 难问题。根据该优化问题的目标函数和约束条件特点，本文设计采用矩阵编码的改进自适应遗传算法求解该优化决策问题，最后，通过数值仿真实验，验证了上述优化决策模型和算法的有效性。通过仿真实验，得出以下规律：
+
+a)供应链总成本与装配提前期密切相关；且其总成本随着装配提前期增加呈现先下降或上升的趋势。
+
+b)确定合理的装配厂的最大提前期有利于降低供应链总成本。
+
+c)考虑供应商选址的选址一库存是一个NP难题问题，应用矩阵编码的改进自适应遗传算法相较于标准遗传算法具有更强的解的寻优能力。虽然本文研究得出了一些有益的结论，但以下问题值得进一步研究：
+
+（a）如何考虑客户需求确定和采购提前期的不确定的鲁棒多级供应网。（b）如何考虑多源供应和供应中断问题的柔性供应网络优化设计问题。
+
+# 参考文献：
+
+[1]谭凌，高峻峻，王迎军．基于库存成本优化的配送中心选址问题研究 [J]．系统工程学报,2004,19(1):61-67.(Tan Ling,Gao Junjun,Wang Yingjun.Research on location of distribution center based on inventory cost optimization [J]. Journal of System Engineering,2004,   
+[2]19(1):61-67.)   
+[3]MirandaPA,Garrido RA.A simultaneous inventory control and facility location model with stochastic capacity constraints [J].Networks & Spatial
+
+Economics,2006,6(1):39-53.
+
+[4]秦绪伟，范玉顺，尹朝万．随机需求下的选址一库存配送系统集成规划 模型及算法 [J].控制理论与应用,2006,23(6):853-860.(Qin Xuwei, Fan Yushun,Yin Chaowan.Integrated design model and algorithm for location-inventory distribution system under stochastic demand [J].Control Theory & Applications,2006,23(6): 853-860.)   
+[5]Mendoza A,Ventura JA.A serial inventory system with supplier selection and order quantity allocation [J]. European Journal of Operational Research, 2010,207(3):1304-1315.   
+[6]Choudhary D,Shankar R. Joint decision of procurement lot-size,supplier selection,and carrier selection [J].Journal of Purchasing & Supply Management,2013,19(1):16-26.   
+[7]Hamedani SG,Jabalameli MS,BozorgiamiriA.Alocation-inventory model for distribution centers in a three-level supply chain under uncertainty [J]. International Journal of Industrial Engineering Computations,2013,4(1): 93-110.   
+[8]税文兵，何保红，何民．整合供应商选择的多层级选址一库存模型[J] 计算机工程与应用,2013,49 (23):1-5.(Shui Wenbing,He Baohong,He Min.Multi-echelons location-inventory model with selection of suppliers [J].
+
+Computer Engineering and Application,2013,49 (23): 1-5) .
+
+[9]You F,Grossmann IE.Mixed-integer nonlinear programming models and algorithms for large-scale supply chain design with stochastic inventory management [J].Industrial & Engineering Chemistry Research,2016,47 (20): 7802-7817.   
+[10]Puga M S,TancrezJS.A heuristic algorithm for solving large locationinventory problems with demand uncertainty [J]. European Journal of Operational Research,2017,259 (2): 413-423.   
+[11]PerezLRE,OlivaresBE,MirandaGPA,etal.Supplychain network design with efficiency,location,and inventory policy using a multiobjective evolutionary algorithm [J]. International Transactions in Operational Research,2016,24(1-2): 251-275.   
+[12]Li Shuangyan,Li Xialian,Zhang Dezhi,et al.Joint optimization of distribution network design and two-echelon inventory control with stochastic demand and CO2Emission tax charges:[J].Plos One,2017,12 (1): e0168526.   
+[13]闫妍．一种新的自适应遗传算法[D].哈尔滨：哈尔滨工程大学,2007. (Yan Yan.A new adaptive genetic algorithm [D].Harbin:Harbin Engineering University,2007.)

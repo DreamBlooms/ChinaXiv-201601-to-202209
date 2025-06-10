@@ -1,0 +1,510 @@
+[
+    {
+        "type": "text",
+        "text": "基于分布的中文词表示研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曹学飞，李济洪，王瑞波(山西大学 软件学院，太原 030006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对基于分布的中文词表示构造过程中的参数选择问题进行了系统性的研究。选择了六种参数进行对比实验，在中文语义相似度任务上对不同参数设置下得到的中文词表示的质量进行了评估。实验结果表明，通过选择合适的参数，基于分布的词表示在中文语义相似度任务上能够得到较高的性能，而且，这种高维的词分布表示的质量甚至优于目前流行的基于神经网络（Skip-gram）或矩阵分解（GloVe）得到的低维的词表示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：分布表示；语义相似度；逐点互信息中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2017.09.0917",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study of distributional representation of Chinese words ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cao Xuefei, Li Jihong, Wang Ruibo (School ofSoftware Shanxi University,Taiyuan O3ooo6,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:To solve the problem of parameters selection in the processofconstructing the distributional representations of Chinese words,this paper performed a systematic study.Six kinds of parameters were selected forcomparison experiments, andthe qualityof the distributional representations of Chinese wordsobtainedunder diferent parameter setings was evaluatedonthe Chinese semantic similaritytask.The experimentalresultsshowthat,bychoosing appropriate parameters,the distributionalrepresentationsofChinese wordscanalsogethigher performanceonthesimilaritytask,Moreover,thequalityof suchhigh-dimensionaldistributionalrepresentationsisevensuperiortolow-dimensionalwordrepresentationsbasedonneural network or matrix factorization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:distributional representation; semantic similarity; pointwise mutual information ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "词作为自然语言的基本单位，也是承载语义的基本单元，将词形式化为某种符号表示，并且这种表示能够包含词汇所要表达的语义信息，是自然语言理解与处理的基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，词的表示方法主要有基于计数的方法和基于预测的方法[1]。基于计数的方法也被称为基于分布的表示方法，它的依据是词的分布假设(distributionalhypothesis)：上下文相似的词，其语义也相似[2]。因此，对语料中词-上下文之间的某种关联度量建模可刻画词的含义，一般常采用共现频次作为词-上下文之间的关联度量。具体来说，利用向量空间模型(vector spacemodel，VSM)将词映射为语义空间中的向量，向量的维度对应词的上下文，向量元素的值表示词与上下文在一定窗口内的共现频次[3,4]，词典中所有词的向量可组织成一个矩阵，即词-上下文共现矩阵。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于特定的任务，构造合适的VSM非常依赖参数[5.6]，如上下文的定义、窗口类型及大小等，不同的参数设置对模型的性能有很大的影响。如文献[3]研究了模型的性能与向量维数之间的关系，实验结果显示，通过选择合适的参数，在语义相似度任务上，使用维数为 $5 0 \\mathrm { K }$ 的词的表示向量得到的结果要比1K维数的向量得到的结果要好[3]；文献[6]对VSM涉及到的一些参数(上下文窗口的类型及大小、向量维数、语料大小以及共现频次的加权方法等)进行了系统性的研究，在四种语义任务上得到如下结论：采用PMI(pointwise mutual information)的共现频次加权方法，尽可能小的上下文窗口以及尽可能大的向量维数得到的词的表示效果最好[6]；文献[7]在不同的英文语料上研究了7类参数，并在语义相似度任务上做了一系列对比实验，得到了一些经验结果：a)随着向量维数的增加，实验结果趋于稳定；b)在不同的共现频次加权方法中，PMI是较好的选择；c)语料类型及大小对结果也有很大的影响，同一类型语料，在较大的语料上实验结果更好7]。综上所述，目前对于VSM中参数的选择及设置还没有共识，且上述工作都是围绕英文来开展，就本文所知，目前还没有针对基于分布的中文词表示中参数选择问题的系统性研究，因此，本文围绕下述两个问题展开研究：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a)基于分布的词表示方法是否可以在中文上应用，其性能如何（本文以中文语义相似度任务为例）？b)在英文的分布式语义模型中所用到的参数在中文上是否有一致的的表现？基于此，本文做了详细的对比实验来探讨中文词表示的参数选择。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 构造中文词分布表示的参数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用VSM可将词表示为语义空间中的向量，VSM的优点就在于可以很容易的使用线性代数操作计算向量之间距离从而判断词语之间的相似程度。然而，VSM的构造涉及到很多参数，参数的选择往往决定了模型最终的性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1词-上下文共现频次的加权方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "共现频次指的是词和上下文(仅指出现在目标词周围的一些词)在一定大小的窗口内同时出现的次数，将词表示为向量，向量的每个维度对应该词的上下文，向量的每一个元素值表示词与上下文的共现频次，这样就得到了基于分布的词的表示。然而，研究表明，直接采用原始的共现频次作为词的向量表示其效果并不好[I]，可以通过对共现频次做某些数学变换从而提高其质量，如采用不同的加权方法对共现矩阵重新赋值，常见的加权方法有 PMI、t-score 和对数似然比等[6-8]，而 PMI 是目前常用的方法之一。PMI的定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP M I ( w , c ) = l o g \\frac { P ( w , c ) } { P ( w ) P ( c ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $P ( w , c )$ 表示词 $w$ 和上下文 $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 共现的概率， $P ( w )$ 和 $P ( c )$ 分别表示词 $w$ 和上下文 $\\vert c \\vert$ 在语料中出现的概率[4]。需要注意的是，$P ( w , c )$ 为0时的PMI值为负无穷，为了避免这种情况，定义此时的PMI值为0。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "另外，本文也考虑了PMI的一种变体PositivePMI(PPMI)[6.9]作为共现频次的加权方法，PPMI的定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP P M I ( w , c ) = \\operatorname* { m a x } ( 0 , P M I ( w , c ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[6]的实验结果显示，在英文的语义相似度任务上，使用PPMI作为词的共现频次要优于PMI。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2上下文窗口的类型及大小 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "共现频次一般是基于上下文窗口统计得到，即在词的左右各取若干个词作为上下文，如果每一个词的窗口大小都是一个固定的常数，本文把这种方法称为固定窗口的方法(constant)。文献[10]提出了一种动态的上下文窗口方法：设置一个窗口阈值参数(thr)，每次对不同的词构造上下文时，首先生成区间在[1，thr]上的一个随机数r，然后在目标词的前后各取r个词作为上下文，在这种方法下，每个词的上下文个数都是随机生成的，称之为随机窗口方法(random)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究表明，上下文窗口大小对词的分布表示在不同任务上的性能有很大的影响，如文献[11指出，在句法相关的任务上应采用较小的窗口，而在语义相关的任务上则推荐较大的窗口；文献[12]发现如果度量具体名词之间的相似度，应采用较小的窗口，而如果度量抽象名词之间的相似度，则应采用较大的窗□。为考查中文语义相似度任务上合适的窗口设置，实验中本文将窗口设置为1、2、5、8、10和12，即在固定窗口的方法下，分别在词的左右各取以上数值的词作为上下文，而在随机窗口的方法下，以上数值则为窗口阈值参数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3上下文平滑系数(cds) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算PMI值时，可以使用从语料中统计得到的频次信息来估算相应的概率值。如使用式(3)估算上下文的概率：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( c ) = \\frac { \\# ( c ) } { \\sum _ { c } \\# ( c ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\# ( c )$ 表示上下文 $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 在语料中出现的次数。但直接使用式3也存在一个问题，即PMI值会“偏向”于罕见的生僻词，即对于某些出现次数非常少的词，基于式(1)得到的PMI值可能会非常大[5]。因而，现有的一些研究引入一个平滑系数 $\\alpha$ 对上下文的分布做平滑处理[9,10]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\alpha } ( c ) = \\frac { \\# ( c ) ^ { \\alpha } } { \\displaystyle \\sum _ { c } \\# ( c ) ^ { \\alpha } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "引入平滑处理也导致了PMI计算上的的变化：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP M I _ { \\mathrm { { G } } } ( w , c ) = l o g \\frac { P ( w , c ) } { P ( w ) P _ { \\mathrm { { G } } } ( c ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在实验中分别设置平滑系数为1和0.75（现有的英文实验结果显示，平滑系数取0.75时效果最好[9,10])。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4PMI偏移参数（neg) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般认为负的PMI值可能并不能帮助提升词的分布表示的质量，因而在一些基于英文的词分布表示的方法中会直接使用PPMI来代替 $\\mathrm { P M I } ^ { [ 6 , 9 ] }$ ，而且采用PPMI后，共现矩阵会变的稀疏，这也更易于计算[5]。文献[9]进一步对PPMI做了泛化：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS P P M I _ { n e g } \\left( w , c \\right) = \\operatorname* { m a x } ( 0 , P M I ( w , c ) - \\log n e g )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：neg 称为偏移参数，当neg取1时，SPPMI等价于PPMI;当neg大于1时，可以保留共现矩阵中关联度较高的词-上下文共现词对的互信息，同时增加了矩阵的稀疏度；当neg小于1时，共现矩阵中会包含一些并不关联的共现词对的互信息，并且会降低矩阵的稀疏度[6]。同样可以将偏移参数neg应用到PMI:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS P M I _ { n e g } \\left( w , c \\right) = P M I ( w , c ) - \\log n e g\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这样，得到了PMI的另外两个变体SPMI和SPPMI。实验中，将neg的值经验性的设置为0.2、0.5、0.8、2、5和8。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5高频词的二次抽样(sub) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在一个大的语料中，一些高频词会出现几十万甚至上百万次，然而，这些高频词提供的有用信息却很少（如“是”、“的”等)，本文可以简单的将这些高频词从语料中去掉，但这会导致许多和这些高频词相邻的词的上下文窗口变大，从而使得在原始语料下并不会共现的一些词对变得共现。文献[10]提出了一种二次抽样 $( s u b )$ 的技术，在加快计算速度的同时也一定程度上提高了词表示的质量。二次抽样的方法如下：设定一个阈值t，当扫描语料时，出现频率大于 $t$ 的高频词将以式（8）所示的概率值被忽略掉。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = 1 - { \\sqrt { \\frac { t } { f ( w ) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $f ( \\boldsymbol { w } )$ 为词 $w$ 在语料中出现的频率。实验中，根据所用语料的实际情况，将 $t$ 分别设置为 $1 0 ^ { - 3 }$ 、 $0 . 5 { \\times } 1 0 ^ { - 3 }$ 和 $1 0 ^ { - 4 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6向量维数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "词的分布表示的每一个向量元素代表该词的一个上下文，向量维数的大小对词的分布表示有很大的影响[3.6-7]。对于中文词的分布表示，向量维数应该怎么设置？即应该选择多少个上下文来表示一个词，或是否可以选择某种类型的词作为上下文？实验中，将词按照词频由高到低排序作为词的表示维度，并且选择了不同大小的维数和不同类型的词考查词的分布表示的质量在多大程度上依赖于向量维数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 语料及测试数据集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选用北京大学标注的人民日报（包含1998年和2000年)作为实验语料，去掉其中包含的标注信息后语料约含2千9百万个词。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "准确地解释词的语义信息需要该词所处的背景知识或上下文信息，因而很难直接去判断一个词的表示的好坏，即没有一个公认的评价指标或标准的数据集去直接评价词的分布表示的质量，只能从某些方面做间接的评估。本文选用中文语义相似度作为评测任务，该任务通过计算两个词的表示向量之间的夹角余弦来判断这两个词在语义上的相似程度[13,14]。使用wordsim297[15]作为测试数据集，该数据集包含297个词对，每个词对都有人工标注的相似度得分（分值越高表示该词对的语义更相似)，使用向量的夹角余弦值作为数据集中词对语义相似度的度量值，使用斯皮尔曼相关系数作为检验人工标注结果与计算结果之间相关程度的度量指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因实验涉及参数较多，采取了一个简单的策略，即先选择一些参数分析，然后将这些参数值固定，再去研究其他的参数。实验中，首先确定窗口类型及大小，然后再考查其他参数对词的分布表示的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1上下文窗口的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先考查在不同的上下文窗口类型及大小下，由PMI及其三种变体（PPMI、SPMI和SPPMI）得到的词的分布表示在中文语义相似度任务上的性能。SPMI和SPPMI设置neg值为2，上下文由全部出现在语料中的词构成（向量维数约为30万)。图1给出了实验结果，在固定窗口的方法下，四种加权方法基本都是在窗口为5时得到最优的词的分布表示，且当窗口大于5时，结果趋于稳定；在随机窗口方法下，PMI、PPMI和SPPMI这三种加权方法的最优的窗口值为8，当窗口大于8时，实验结果反而略有降低，对于SPMI，当窗口取12时，实验结果虽略有提高但并不明显。图1中X轴表示窗口大小，Y轴表示斯皮尔曼相关系数（ $\\rho \\times 1 0 0 0 \\mathrm { . }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fdabcfabb611cb306aaa7160900e6472aa2ec21ff98d01274740156bd60ce25.jpg",
+        "img_caption": [
+            "图1上下文窗口类型对词的分布表示的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2为采用不同窗口大小，不同加权方法时，固定窗口方法和随机窗口方法的性能比较。结果显示，在任一种加权方法下，固定窗口方法总是优于随机窗口方法，而且即使随机窗□方法取更大的窗口值（如12）其结果依然达不到固定窗口方法在窗口大小为5时的性能。因此，在后续的实验中，本文将上下文窗口的类型设定为固定窗口，大小为5。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c9a8f27d00c7f6f938ef6b2f55f58e0d17f39c532046629c1b6ae8947dda978.jpg",
+        "img_caption": [
+            "图2上下文窗口大小对词的分布表示的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（a）～（d）分别表示采用不同的共现频次的加权方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2上下文平滑系数的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3给出了上下文平滑系数在不同的加权方法以及不同的向量维数下的实验结果。图中X轴表示向量维数（单位为K)，Y 轴表示斯皮尔曼相关系数（ $\\rho \\times 1 0 0 0$ )。本文可以很清晰地得到两个结论：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）对上下文的分布做平滑处理（cds取0.75时）并没有提升词的分布表示在中文语义相似度任务上的性能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)对于中文词的分布表示，没有必要设置更大的向量维数，实验结果显示，当维数大于13万时，性能并没有显著提升（图3(b)的结果甚至略有降低)。而当维数小于13万并逐步增大时，性能是有明显提升的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验中维数为13万时对应的上下文在语料中都至少出现了10次，从图中可以看到，当本文把低频词（出现次数小于10 次的词）从上下文中去除掉后，并不会影响词的分布表示的性能，虽然有的英文语料的实验结果认为词的分布表示的维数越大，在语义相似度任务上的性能越好[3.6]，但就中文而言，本文的结果显示，词的分布表示并不需要全部的词作为上下文，当维数达到一定数目时，在语义相似度任务上即可得到稳定的结果，再增加维数，结果没有显著性变化，反而会增加计算开销。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3cde644deacd42a7519e00e5f2a1696a53c724ebb9c0cb8bc027133987a540ba.jpg",
+        "img_caption": [
+            "图3上下文平滑系数对词的分布表示的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（a）～(d）分别表示采用不同的共现频次的加权方法，采用固定的上下文窗口，大小为5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 偏移参数的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对共现频次分别做PMI和PPMI的加权处理后再引入偏移参数neg，本文发现合适的偏移参数neg可以帮助提升基于PPMI的分布表示的性能，但是该参数对PMI并没有效果。图4(a)显示当neg值逐渐增大时，词的分布表示在语义相似度任务上的性能也在逐步提升，且当neg值取2时，性能达到最大；图 4(b)显示neg 值无论大于1或小于1，其结果均要比neg 值取1时的结果小。本文认为，与PMI相比，PPMI去掉了共现矩阵中互信息为负的词-上下文词对的共现信息，仅保留与词有一定关联的上下文信息，即对于一个词的分布表示来说，本文过滤掉了与该词并没有关联的上下文，而合适的偏移参数会进一步过滤掉关联度较低的上下文（如4(a)中当neg 取2)，但如果偏移参数过大，反而会将与词有强关联的上下文信息也舍弃掉，从而降低词的分布表示的质量（如图4(b)中当neg取较大的5和8时，结果反而有所降低)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0999d56ccf6d93ddf03889497ec7fead1605d214bdbcf334309ee36ce7f50281.jpg",
+        "img_caption": [
+            "图4偏移参数对词的分布表示的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "意的是，PMI和SPMI即使采用二次抽样，提高的性能也不足以弥补它们和SPPMI之间的差距(图5)，即整体而言，四种加权方法，SPPMI最优(见图1-3)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7afcf012251444acd48fcd721e09112af07808197adf04322bcfe8bdcfec4b65.jpg",
+        "img_caption": [
+            "图5高频词二次抽样对词的分布表示的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用固定的上下文窗口，大小为5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5向量维数的选择 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "前面的实验结果显示，本文并不需要全部的词来作为上下文（见3.2节)，一定程度上这是由于语料中词出现的频次服从Zipf定律，去掉一些低频词并不会对结果产生多大影响，正如本文实验中选择出现次数大于10次的词作为上下文时(约有13万个词)即可得到较好且稳定的词的分布表示。实际上，除了上述去掉低频词的处理，本文也采取了其他一些方法来对向量维数进行设置，如去掉停用词[6，根据语料选取词频在一定范围内的词等[16]，但这些方法并没有带来性能的显著改善。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑到汉语词按照语法功能可分为实词和虚词，本文选择了实词中的名词、动词和形容词作为上下文，采用PMI作为共现频次的加权方法，上下文窗口为5，不采用二次抽样技术和上下文平滑，得到如表1所示的实验结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea137cff78ddef54c6a81877fcd6c597bf79ccaf51b5408e69c9e0fa272efda3.jpg",
+        "table_caption": [
+            "表1采用实词作为上下文的实验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>上下文类型</td><td>上下文维数</td><td>结果</td></tr><tr><td>语料中出现次数大于10次的词作为上下文</td><td>约13万维</td><td>0.499</td></tr><tr><td>实词中出现次数较多的名词、动词和形容词</td><td>约5500维</td><td>0.514</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用固定的上下文窗口，大小为5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4高频词二次抽样的影响 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "二次抽样技术可以稀释语料中的高频词，效果类似于移除停用词。实验结果显示，在二次抽样对PPMI和SPPMI这两种加权方法生成的词的分布表示并没有性能上的改善，但对PMI和 SPMI却有明显的帮助，如图5(c-d)，当抽样参数sub 取 $1 0 ^ { - 4 }$ 时，基于二次抽样技术统计得到的PMI和SPMI的分布表示在中文语义相似度的任务上性能均有提升，本文认为导致这种现象的原因是，当对PMI和SPMI的加权方法采用二次抽样技术时，相当于在一定程度上增大了窗口，使得某些词对在语料中共现的概率值增大(即式1的分子项增大)，从而使得一些词对的PMI（SPMI）值由负变正，这样就导致了PMI矩阵趋向于PPMI矩阵，而前文所述，PPMI的结果要由于PMI。但需要注",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由实验结果可知，选用实词作为上下文，不仅减少了向量维数，从而简化了后续基于向量的一些运算操作；而且在一定程度上可以提高词语表示在中文语义相似度任务上的性能。这是因为与虚词相比，实词都是有实在意义的词，每一个实词都可以详细解说其词义，选用实词作为上下文可以更好的表示词语的意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.6与其他方法的比较",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于上述实验结果，本文可以得到如下经验结果：利用向量空间模型构造中文词的分布表示时，建议采用固定大小的窗□，窗口大小可尝试设置为5；对共现频次做PPMI加权处理，并设置一个大于1的偏移参数(如本文中设置为2)；而在英文上所使用的其他参数或技术本文不推荐使用，如上下文平滑系数和高频词的二次抽样技术。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另外，本文也将本文在最好的参数配置下得到的高维的分布表示(SPPMI)与目前流行的基于神经网络的word2vec(CBOW和Skip-gram)[10]和基于矩阵分解的GloVe[11]这些方法学习得到的词的低维稠密的表示在中文语义相似度任务上做了对比，表2中的CBOW、Skip-gram和GloVe的结果来自文献[15]，采用的训练语料与本文相同，三种方法的向量维数为200。实验结果表明，在中文相似度任务上，基于PPMI的词的分布表示与上述方法是有一定的可比性的，其结果虽比CBOW低，但较Skip-gram和GloVe方法有明显的提高，这也印证了文献[9]的结论，该文认为，通过适当的参数设置，基于分布的词的高维表示的质量并不弱于基于神经网络或其他方法学习得到的词的低维表示(embedding)。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce8067df0cd3bfe71fc7ccefb24d77cf2e66f2f47f6c2549d167cbbf0830b93a.jpg",
+        "table_caption": [
+            "表2实验中所得的最好结果（SPPMI）与其他方法的比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法</td><td>CBOW</td><td>Skip-gram</td><td>GloVe</td><td>SPPMI</td></tr><tr><td>结果</td><td>0.556</td><td>0.517</td><td>0.431</td><td>0.528</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文对中文词的分布表示所涉及到的参数进行了系统性的研究，并根据实验结果给出了参数选择及设置的实用性建议。具体来说，窗口类型的选择上，固定大小的窗口优于动态窗口，窗口大小不能太小，本文推荐设置为5(即左右各5个词)；对于原始的共现频次，需要做加权处理（先做PPMI加权，再合理的设置偏移)；向量维数即上下文个数的选择上，如果不考虑计算开销，可以简单的将所有词都设置为上下文，但更好的选择是仅用实义词来作为上下文；对于上下文平滑和二次抽样技术，本文不推荐在中文词的分布表示中使用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文实验基于人民日报语料，该语料虽然是人工标注，分词精度高，但与常用的英文语料相比，语料规模较小，应采用不同类型的更大的语料来对本文结果进行验证；另外，对基于共现频次得到的高维的中文词的分布表示做降维处理(如 SVD)是否可以提高其表示质量；最后，本文实验结果显示对高频词的二次抽样并没有产生在英文上的效果，是否可以通过其他方式对高频词或对某种类型的高频词进行预处理，进而得到更好的词的分布表示；以上这些都是需要本文进一步研究的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Baroni M,Dinu G,Kruszewski G.Don't count,predict!A systematic comparison of context-counting Vs.Context predicting semantic vectors [C]// Proc of Meeting of the Association for Computational Linguistics. 2014:238-247. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2]Harris Z. Distributional Structure [M]. [S.1.] $\\vdots$ Word,1954: 146-162   \n[3]Milajevs D, Sadrzadeh M, Purver M. Robust Co-occurrence Quantification for Lexical Distributional Semantics [C]/ Proc of ACL Student Research Workshop.2016: 58-64.   \n[4] Hanks P, Hanks P.Word association norms,mutual infor-mation,and lexicography [Cl//Proc of Meeting on Association for Computational Linguistics.Association for Computational Linguistics.1989: 76-83.   \n[5]Turney,Peter D, Pantel, et al. From frequency to meaning: vector space modelsof semantics[J]. Journal of Artificial Intelligence Research,2010, 37 (1): 141-188.   \n[6]Bullinaria JA,Levy JP. Extracting semantic representations from word co-occurrence statistics:A computational study [J]. Behavior Research Methods,2007,39 (3): 510.   \n[7]Kiela D, Clark S.A Systematic Study of Semantic Vector Space Model Parameters [C]// Proc of Workshop on Continuous Vector Space MODELS & Their Compositionality. 2014: 21-30.   \n[8]Evert S.The statistics of word cooccurrences: word pairs and collocations [D][S.1.] : University of Stuttgart, 2004.   \n[9]Levy O, Goldberg Y, Dagan I. Improving distributional similarity with lessons learned from word embeddings [J]. Bulletin De La Societé Botanique De France,2015,75 (3): 552-555.   \n[10] Mikolov T,Chen K,Corrado G,et al. Eficient Estimation of Word Representations in Vector Space [J]. Computer Science,2013.   \n[11] Pennington J, Socher R,Manning C.Glove:Global Vectors for Word Representation [C]// Proc of Conference on Empirical Methods in Natural Language Processing. 2014: 1532-1543.   \n[12] Hill F, Kiela D,Korhonen A. Concreteness and corpora: a theoretical and practical analysis [C]// Proc of the Workshop on Cognitive Modeling and Computational Linguistics.2013: 75-83.   \n[13]汪祥，贾焰，周斌，等．基于中文维基百科链接结构与分类体系的语义 相关度计算[J].小型微型计算机系统,2011,32(11):2237-2242.   \n[14]刘群，李素建．基于《知网》的词汇语义相似度计算[J].中文计算语 言学,2002 (7): 59-76.   \n[15] Chen X X,Xu L,Liu Z Y,et al. Joint learning of character and word embeddings [C]// Proc of International Joint Conference on Artificial Intelligence. 2015: 1236-1242.   \n[16] Lebret R,Collobert R.Rehabilitation of count based models for word vector representations [Cl//Computational Linguistics and Intelligent Text Processing. 2015: 417-429. ",
+        "page_idx": 4
+    }
+]

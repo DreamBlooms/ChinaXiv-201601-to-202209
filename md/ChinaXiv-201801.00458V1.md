@@ -1,0 +1,203 @@
+# DOI:10.5846/stxb201610312219
+
+张慧玲，吴建平，熊鑫，褚国伟，周国逸，张德强.南亚热带森林土壤碳库稳定性与碳库管理指数对模拟酸雨的响应.生态学报,2018,38（2)：657-667.  
+ZhangHL,WuJo,uGGZgDtsfiaeddllbdabein subtropical forests of China.Acta Ecologica Sinica,2018,38(2）:657-667.
+
+# 南亚热带森林土壤碳库稳定性与碳库管理指数对模拟酸雨的响应 C
+
+张慧玲1,²，吴建平1,²，熊鑫1,²，褚国伟¹，周国逸¹，张德强1，\*
+
+1中国科学院华南植物园，广州510650  
+2 中国科学院大学，北京100049
+
+摘要;通过对土壤总有机碳(SOC）、易氧化有机碳( $\mathrm { R O C } _ { 3 3 3 } \mathrm { \setminus R O C } _ { 1 6 7 } \mathrm { \setminus R O C } _ { 3 3 }$ ）、颗粒有机碳（POC）、微生物量碳（SMBC）、溶解性有机碳(DOC)的测定,探讨模拟酸雨( $\mathrm { \ p H \ 3 . 0 \cdot p H \ 3 . 5 . p H \ 4 . 0 } ,$ 对照CK)对鼎湖山三个不同演替阶段森林(季风常绿阔叶林、针阔混交林、马尾松针叶林)土壤碳库稳定性及碳库管理指数的影响。结果表明:模拟酸雨增加了总有机碳的含量和各组分活性有机碳的含量( $P { < } 0 . 0 5 )$ ),但酸雨在一定程度上抑制了土壤中微生物量与活性。土壤中各组分活性有机碳与总有机碳呈显著相关,其中 $\mathrm { R O C } _ { 3 3 3 }$ 和POC 的含量与 SOC关系最为密切,相关系数分别为0.853、0.846;碳库管理指数(CMI)结果表明,碳库活度(L)及碳库活度指数(LI)随森林的正向演替有下降的趋势,CPI与CMI呈现相反的趋势。在土壤有机碳及部分活性碳组分增加,碳库活性降低的前提下,土壤碳库稳定性增加。从各项指标的变化幅度可以得出：南亚热带森林土壤随森林群落正向演替而对模拟酸雨响应有更加敏感的趋势,各指标间的敏感性表现为 $\mathrm { C M I } > \mathrm { R } _ { 3 3 3 } > \mathrm { P O C } > \mathrm { S M B C } > \mathrm { R } _ { 1 6 7 } > \mathrm { R } _ { 3 3 } > \mathrm { L I } > \mathrm { D O C } > \mathrm { C P I } > \mathrm { S O C } _ { \circ }$ （
+
+关键词：模拟酸雨;活性有机碳;总有机碳;碳库管理指数;不同演替阶段森林
+
+# Effects of simulated acid rain on soil labile organic carbon and carbol management index in subtropical forests of China
+
+ZHANG Huiling1,2，WU Jianpingi2，XIONG Xin1²， CHU Guowei',， ZHOU Guoyi'， ZHANG Deqiang1',\*  
+1 South China Botanical Garden，Chinese Academy of Sciences，Guangzhou 51O650,China  
+2 University of Chinese Academy of Sciences，Beijing 100049,China
+
+Abstract:Four gradients of simulated acid rain treatment[pH3.0,3.5,4.Oand CK（lake water）]were designed to determinetheefects of simulatedrainonsoil carbon stabilizationand thecarbon management index（CMI）in three subtropical forests at diferent successional stages.The stages are，a young pine forest（PF），a transitional mixed conifer and broadleafforest（MF），andan old grow-growth broadleaved forest（BF）atthe Dinghushan Nature Reserve.The soil organic carbon（SOC），readily oxidation organic carbon（ROC），particulate organiccarbon（POC），microbial biomass carbon（MBC），disolved organic carbon（DOC），and soil properties were analyzed.The results showed thatthe SOC, ROC,and POC contents increased with acid treatment.However，simulated acid rainrestrained the activityof microorganism while the SMBC content showed the opposite trend. The analysis showed that $\mathrm { R O C } _ { 3 3 3 }$ and POC with SOC had highlysignificantcorelatins，withcorrelatoncoefficientsofO.853andO.846respectivelyOurresultsalsoindicateda significantcorelation betweenother labile fractionsandtheSOC.ThevalueofLandLI decreasedwith theprogressive successionofforests whiletherangeabilityofLandLIshowedthesame trend.It'sindicated theproportionof labileportion to non-labileportion decreased.Theresultsalsoshowed CPIand CMI increased withthe progresive successionof forests and,thus,theBFsoil pool was more stable.That'sdueto BFsoil has higherCsequestrationand lower lability than MF and PFforests，sothecarbon iseasily to sequestrateand more stable if thecarbon labilityindex decreased.Moreover，the LI was more sensitive thanthecarboncolindex（CPI）was.Fromthevariationof indicatorsof the threeforests，wecan concludethattheresponse sensitivityof acid rain showedan increasing trend with the progresive succesionofforests.All the parameters investigated showed the following order of decreasing sensitivity : $\mathrm { C M I } > \mathrm { R } _ { 3 3 3 } > \mathrm { P O C } > \mathrm { S M B C } > \mathrm { R } _ { 1 6 7 } > \mathrm { R } _ { 3 3 } >$ LI $> \mathrm { D O C } > \mathrm { C P I } > \mathrm { S O C }$ ： D
+
+KeyWords:simulatedacidrain；labileorganiccarbon；soilorganiccarbon；carbon managementindex；forests atdifferent successional stages (75
+
+随着氮氧化物、硫化物等排放急剧地增加,全球大气成分变化导致的酸沉降也逐渐引人注目。使我国成为继欧洲、北美的全球第三大酸雨区[1-2],到2020年亚洲氮氧化物和硫化物的排放量会大于或等于欧洲与北美总和[2]。据研究,2015年广东省 $8 6 . 4 \%$ 的城市出现酸雨,降水 $\mathrm { \ p H }$ 均值范围在 $4 . 5 0 { \scriptstyle - 6 . 3 9 }$ 之间,酸雨的频率为 $3 1 . 8 \%$ ， $1 8 . 2 \%$ 的城市属重酸雨区,其 $\mathrm { \ p H }$ 均值 $< 4 . 5$ ,且酸雨率 $> 5 0 \% ^ { [ 3 ] }$ ,且雨水中主要阴离子为 $\mathrm { N O } _ { 3 } ^ { - }$ 和$\mathrm { S O } _ { 4 } ^ { 2 - [ 4 ] }$ 。从全国范围内看,我国酸雨污染主要分布在长江以南一云贵高原以东地区。虽然近年来外国酸雨状况有所改善,但是2015年出现酸雨的城市比例仍占 $4 0 . 4 \%$ ,酸雨面积占国土面积的 $7 . 6 \% ^ { [ 5 ] }$ 。硫与氮氧化物的不断积累会导致陆地生态系统与水生生态系统酸化,破坏生态系统的平衡[2],森林作为重要的陆地生态系统也受到重大影响[6]。
+
+森林生态系统储存陆地生态系统 $8 0 \%$ 以上的植物碳库和 $7 0 \%$ 以上的土壤有机碳库。森林生态系统碳库主要分为土壤碳库和生物量碳库,其中土壤碳库又包括有机碳库和无机碳库[8」。土壤有机碳库所占比重较大,其含量是土壤的一个重要属性,气候环境及土壤的物理、化学性质和生物过程对碳库具有深远地影响[9]。土壤有机质短暂的波动及变化最初发生在其易分解的活性组分[10]。根据活性有机碳库稳定性及周转速率,又可以将其分为活性碳库(周转期0.1—4.5年）、慢性碳库(周转期5—10年)和惰性碳库(周转期 50 年以上,甚至几千年)[11]。
+
+土壤中总有机碳和总氮含量的变化非常缓慢,在短期内不能快速灵敏指示土壤碳库变化,而活性有机碳是土壤有机碳中对植物养分有高效直接的供应作用,且易被土壤微生物分解利用的部分,它能够更灵敏和迅速地表征土壤碳库对人工措施和环境条件改变的响应,因此活性有机碳被认为是早期评价土壤性状、土壤质量土壤碳库动态变化的良好指标[12-13]。碳库管理指数这一概念是1995 年 Blair 等[14]提出的,它因结合了土壤有机碳的活性和质量而被广泛用于农业生态系统中土壤质量和肥力的评价[15]。本文将这一指标用于森林生态系统中,试图基于碳库活度指数和碳库管理指数等指标,探讨森林土壤有机碳组分及碳库稳定性对模拟酸雨的响应特征，为森林生态系统碳平衡过程的评估提供支持。
+
+# 1材料与方法
+
+# 1.1 研究区域概况
+
+研究地建立在广东省肇庆市鼎湖山自然保护区( $1 1 2 ^ { \circ } 3 0 ^ { \prime } 3 9 ^ { \prime \prime } - 1 1 2 ^ { \circ } 3 3 ^ { \prime } 4 1 ^ { \prime \prime } \mathrm { ~ E ~ } , 2 3 ^ { \circ } 0 9 ^ { \prime } 2 1 ^ { \prime \prime } - 2 3 ^ { \circ } 1 1 ^ { \prime } 3 0 ^ { \prime \prime } \mathrm { ~ N ~ } )$ ，位于北回归线附近地区(图1),属于南亚热带季风性气候,年均温为 $2 1 . 0 ^ { \circ } \mathrm { C }$ ,年平均相对湿度为 $8 0 \%$ ,年降雨量为 $1 9 2 7 . 3 \mathrm { m m }$ 。干湿季分明,降水集中在4—9月,为湿季,降水量占全年的 $8 0 \%$ 。10月一次年3月为旱季[16]。
+
+研究所用土壤分别取自自然保护区内三个演替阶段的典型森林。1)亚热带季风常绿阔叶林(以下简称季风林，BF)：林地海拔250— ${ \it 4 0 0 } \mathrm { m }$ ,有着近400 年的保护历史,是典型的南亚热带地带性植被类型,整个群落属于演替的最后阶段,群落外貌终年常绿,垂直结构与成层结构复杂,群落优势树种主要有锥栗 Castanopsischinensis、木荷 Schima superba、云南银柴 Aporusa yunnanensis、黄果厚壳桂 Cryptocarya concinna 等。季风常绿阔叶林样地的土壤是发育于母岩为砂页岩的赤红壤，土层深约 $6 0 { \ - } { \ - } 9 0 \mathrm { c m }$ ;2)针阔混交林（以下简称混交林，MF):林地海拔 $1 0 0 { - } 2 5 0 \mathrm { m }$ ,是马尾松林向阔叶林进化的一个过渡类型,由人工种植的马尾松群落被先锋阔叶树种侵入后自然发展演变而成,群落属于演替发展的中期阶段,主要建群树种有马尾松Pinus massoniana 与木荷 Schima superba、锥栗 Castanopsis chinensis、滇粤山胡椒 Lindera metcalfiana 等。土层厚30-60cm,厚薄不均;3)马尾松林（以下简称松林，PF）：林地海拔 $5 0 { - } 2 0 0 \mathrm { m }$ ,主要分布于保护区的边缘。该群落处在南亚热带森林群落演替的初期阶段,有六七十年的历史。乔木层为马尾松 Pinus massoniana、白楸 Mallotus paniculatus 下层有少量三娅苦 Evodia lepta 黧蒴 Castanopsis fiss 等阔叶树种侵人。林下物种丰富,包括草本、藤本、灌木和蕨类植物。土层较薄，一般不超过 $3 0 \mathrm { c m } ^ { [ 1 7 ] }$ 。
+
+![](images/fc61c095c9ee0837dce4db0d7693cb1e90a8df0acf938e032497f9010bca1e1e.jpg)  
+图1研究地位置及遥感影像  
+Fig.1The location and an aerial photograph of study site
+
+# 1.2 研究方法
+
+# 1.2.1 野外实验设计
+
+在上述3种林型中选择坡向、坡度基本一致的林地,分别设置12 个 $1 0 \mathrm { m } \times 1 0 \mathrm { m }$ 的样方,每个样方间预留3m的缓冲带，样方四周用PVC板围起,PVC板插入土壤 $1 5 \mathrm { c m }$ ,地上部分高出地表 $5 \mathrm { c m }$ 。根据Liu等[18]对鼎湖地区近年降水及土壤的pH值,以及酸雨主要成分比例及变化趋势的研究,以 ${ \mathrm { H } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { H N O } } _ { 3 }$ —1:1的溶液与当地的天然湖水混合为模拟酸雨的实验材料，以0.5 个 $\mathrm { \ p H }$ 值为单位,设计模拟酸雨分别为 $3 . 0 , 3 . 5 , 4 . 0$ 和对照组4个处理,每个处理3个重复。2009年6月开始进行模拟酸雨处理,每月月初及月中将配置好的模拟酸雨人工均匀地喷洒在林地土壤上,每个样方每次喷淋量为40升,对照样方则喷淋同样量的天然湖水。
+
+# 1.2.2 样品采集
+
+2014年12月（模拟酸雨处理5.5a)分别在上述3个实验样地中采集土壤样品。在每个样方内随机选取 5个点，去除表面的枯枝落叶,用内径 $2 . 5 \mathrm { c m }$ 的不锈钢空心土钻采集0—10 和 $1 0 { - } 2 0 \mathrm { c m }$ 两层土壤,混合后装入做好标记的密封袋中。带回实验室去除样品中而可见的根系石砾动植物残体等,过 $2 \mathrm { m m }$ 筛后将土壤分成两
+
+份,一份放置 $4 ^ { \circ } \mathrm { C }$ 冰箱中保存并尽快进行土壤微生物碳氮分析,另一份土壤风干后备用。
+
+# 1.2.3样品分析及方法
+
+土壤 $\mathrm { \ p H }$ 值采用水土比2.5:1电位法测定[19];土壤总有机碳采用浓硫酸重铬酸钾外加热法测定[19]；土壤微生物量碳（SMBC)采用氯仿熏蒸浸提法测定[20];溶解性有机碳(DOC)用 $\mathrm { K } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液提取[21]。
+
+易氧化有机碳（Readily oxidationorganic carbon，ROC）采用 $\mathrm { K M n O } _ { 4 }$ 氧化法[14,2],称取含碳量约为 15—$3 0 \mathrm { m g }$ 的土样于离心管中,分别加入 $2 5 \mathrm { m L }$ 浓度分别为 $3 3 3 \mathrm { m m o l / L } \mathrm { , } 1 6 7 \mathrm { m m o l / L } \mathrm { , } 3 3 \mathrm { m m o l / L }$ 的 $\mathrm { K M n O } _ { 4 }$ 溶液。振荡1h后在 $3 0 0 0 \mathrm { r / m i n }$ 下离心 $5 \mathrm { m i n }$ ,将上清液用去离子水1:250 稀释,在分光光度计 $5 6 5 \mathrm { n m }$ 下测定稀释样品的吸光度。经计算得出不同 $\mathrm { K M n O } _ { 4 }$ 浓度氧化的活性有机碳含量,非活性有机碳(NLOC)即为总有机碳有活性有机碳含量之差。被 $3 3 3 \mathrm { m m o l / L }$ 、167mmol/L、33mmol/L 的 $\mathrm { K M n O } _ { 4 }$ 溶液氧化的活性有机碳分别用 $\mathrm { R O C } _ { 3 3 3 }$ 、$\mathrm { R O C } _ { 1 6 7 }$ ， $\mathrm { R O C } _ { 3 3 }$ 表示。
+
+土壤颗粒有机碳参考Cambardella 和Elliott[23]提供的方法测定。将过 $2 \mathrm { m m }$ 筛的风干土去除肉眼可见的植物根系及石砾等杂物,称取 $1 0 \mathrm { g }$ 土样放入塑料瓶中,加入 $3 0 \mathrm { m L }$ 的 $5 \mathrm { g } / \mathrm { L }$ 的六偏磷酸纳溶液，在往复振荡机上振荡 $^ { 1 5 \mathrm { h } }$ 分散。将分散溶液置于 ${ 5 3 \mu \mathrm { m } }$ 筛上用清水冲洗直至沥滤液清澈为止,将筛上及滤液在 $6 0 ^ { \circ } \mathrm { C }$ 下烘干（204号 $7 2 \mathrm { h }$ 到恒重,计算各自所占土壤比重。其中筛上 $> 5 3 \mu \mathrm { m }$ 组分即为颗粒有有机碳（POC）。
+
+# 1.3 指标计算
+
+碳库管理指数(CMI)采用Blair和Lefroy 等1995年提出的计算方法[14]：碳库活度 $( \mathrm { { L } ) = }$ 土壤活性有机碳含量/土壤非活性有机碳含量碳库活度指数 $( { \mathrm { L I } } ) =$ 样品的碳库活度/参考土壤的碳库活度碳库指数( $\left( \mathrm { C P I } \right) =$ 样品总有机碳含量/参考土壤总有机碳含量碳库管理指数( $\mathrm { C M I } ) =$ 碳库指数 $\times$ 碳库活度指数 $\times 1 0 0 = \mathrm { C P I } { \times } \mathrm { L I } { \times } 1 0 0$ 非活性有机碳( $\mathbf { \sigma } _ { \mathrm { N L O C } } ) =$ 总有机碳（SOC）-活性有机碳(LOC)本文参考土壤选取各林型邻近的未进行酸处理的对照土壤作为参考土壤。
+
+# 1.4 数据处理
+
+数据的统计分析在Excel 2010 和 SPSS 22.0 软件下完成,用 SigmaPlot10.0作图。
+
+# 2结果与分析
+
+2.1不同酸梯度处理下土壤三种活性有机碳含量
+
+3 个演替阶段林型不同酸梯度处理下0— $1 0 \mathrm { { c m } }$ 土层3 种不同浓度高锰酸钾溶液氧化的碳含量( $\mathrm { R O C } _ { 3 3 3 } .$ $\mathrm { R O C } _ { 1 6 7 }$ ） ${ \mathrm { R O C } } _ { 3 3 }$ )分布如图2,不同演替阶段林型3种易氧化有机碳呈现明显差异,含量总体趋势为 $\mathrm { R O C } _ { 3 3 3 } >$ （20 $\mathrm { R O C } _ { 1 6 7 } { > } \mathrm { R O C } _ { 3 3 } \$ $\mathrm { R O C } _ { 3 3 3 }$ 含量为 $3 . 0 5 5 { \mathrm { - } } 1 0 . 1 6 7 { \mathrm { g / k g } }$ ,约占土壤总有机碳的 $1 6 . 8 \%$ 一 ${ \cdot 3 6 . 5 \% }$ ： $\mathrm { R O C } _ { 1 6 7 }$ 含量为$1 . 2 5 7 - 8 . 5 4 2 \mathrm { g / k g }$ ,约占土壤总有机碳的 $7 . 7 \%$ 1 $3 3 . 0 \%$ ;ROC33含量为1.076- $3 . 6 1 4 \mathrm { g / k g }$ ,约占土壤总有机碳的 $5 , 5 \% - 1 6 . 3 \%$ （图2，图3）。
+
+（季风林3种易氧化碳(ROC)含量有随着酸处理强度增强而增加的趋势,其中 $\mathrm { R O C } _ { 3 3 3 }$ ） $\mathrm { R O C } _ { 1 6 7 }$ 的含量在 $\mathrm { \ p H }$ ${ \widehat { ( 3 . 0 , . \mathrm { p H } } } \ 3 . 5$ 处理显著高于 $\mathrm { p H } 4 . 0$ 与CK处理( $_ { _ { P < 0 . 0 5 ) } }$ 。混交林 $\mathrm { R O C } _ { 3 3 3 }$ 含量在 $\mathrm { p H } 3 . 0 \mathrm { . p H } 3 . 5$ 处理与CK处理呈现极显著差异( $P { = } 0 . 0 0 2 { \mathrm { ; } }$ )。3个演替阶段林型中混交林 MF的3种易氧化有机碳含量最大,其次为季风林、针叶林( $P { < } 0 . 0 1 \$ )。土壤非活性有机碳在土壤总有机碳中所占比重比易氧化有机碳所大,占据土壤有机碳的$5 2 \%$ T $9 4 \%$ 。
+
+# 2.2不同酸梯度处理对总有机碳及其他活性有机碳影响
+
+如图3,土壤总有机碳(SOC)在5年的酸处理下， $\mathrm { p H } ~ 3 . 0 ~ . \mathrm { p H } ~ 3 . 5 ~ . \mathrm { p H } ~ 4 . 0 ~ . \mathrm { C K } ~ 4 ~$ 个处理下土壤有机碳含量$( \mathbf { g } / \mathbf { k g } )$ 分别为季风林 $( 3 7 . 3 6 \pm 0 . 3 1 , 3 5 . 2 9 \pm 2 . 1 4 , 3 0 . 6 0 \pm 1 . 1 7 , 2 8 . 2 9 \pm 1 . 3 2 )$ ），混交林 $( 3 8 . 8 9 \pm 1 . 1 5 , 3 8 . 5 8 \pm 0 . 5 8 \$ 、$3 8 . 1 1 \pm 2 . 1 4 . 3 5 . 9 7 \pm 3 . 3 9 \$ )和松林 $\left( 2 0 . 8 6 \pm 4 . 4 3 \ _ { 1 } 6 . 2 0 \pm 1 . 6 4 \ _ { 1 } 4 . 6 3 \pm 0 . 9 1 \ _ { , } 1 6 . 3 4 \pm 1 . 0 5 \right)$ 。总体来看,3种林型SOC不同小写字母表示不同处理间差异达到显著( $\scriptstyle P < 0 . 0 5$ ，平均值 $\pm$ 标准误差， $n = 3$ ）;BF，季风常绿阔叶林,Monsoon evergreen board-leaved forest;MF,混交林,Mixed forests；PF，松林，Pine forest; $\mathrm { R O C } _ { 3 3 3 }$ $3 3 3 \mathrm { m m o l / L }$ 易氧化碳, $3 3 3 \mathrm { m m o l / L / K M n O _ { 4 } }$ oxidation organic carbon; $\mathrm { R O C } _ { 1 6 7 }$ ，$1 6 7 \mathrm { m m o l } / \mathrm { L }$ 易氧化碳, $1 6 7 \mathrm { m m o l } / \mathrm { L }$ （204号 $\mathrm { K M n O } _ { 4 }$ oxidation organic carbon ; $\mathrm { R O C } _ { 3 3 }$ ， $3 3 \mathrm { m m o l / L }$ 易氧化碳， $3 3 \mathrm { m m o l / L K M n O } _ { 4 }$ oxidation organic carbon含量达到显著差异( $\scriptstyle \cdot P < 0 . 0 1 { \dot { ) } }$ ，为 $\mathrm { M F { > } B F { > } P F }$ 。处理间,季风林 $\mathrm { p H } 3 . 0 \mathrm { . p H } 3 . 5$ 显著大于 $\mathrm { \ p H \ 4 . 0 }$ 、CK处理( $P =$ 0.006）。
+
+![](images/306d1511f6aba9483ec36251b2dd2aade0738deadc2714f6f7e56444c163ff2a.jpg)  
+Fig.2The content of readily oxidation organic carbon under different acid treatments
+
+![](images/b527ba552f32aa8c50d8dab7d1bc8b72d5256ef1f131f6186be97debed6ca555.jpg)  
+图2不同酸梯度处理下易氧化有机碳含量  
+图3不同酸梯度处理下总有机碳 SOC、颗粒碳POC、微生物量碳MBC及溶解性有机碳DOC的变化  
+Fig.3Dynamicsofsoilorganiccarbon，particulateorganiccarbon，microbialbiomasscarbonanddisolvedorganiccarbonunder different acid treatments
+
+颗粒有机碳(POC)在季风林中有随着酸处理强度增加而上升的明显趋势,但差异不显著( $P = 0 . 1 4 1 \cdot$ ，其他两个林型没有呈现相似规律。3种林型间POC 的含量达到显著差异( $\scriptstyle { \big ( } P < 0 . 0 1 { \big ) }$ ，大小顺序为： $\mathrm { M F { > } B F { > } P F }$ 。POC 占 SOC 的比例为 $1 0 . 1 7 \% { \_ } 6 0 . 3 7 \%$ （图3）。
+
+土壤微生物量碳(SMBC)在不同演替阶段森林中含量有随自然演替而增加的趋势,且不同林型之间微生物碳含量达到显著差异( $_ { | P < 0 . 0 1 \rangle }$ ，大小为 ${ \mathrm { B F } } { > } { \mathrm { M F } } { > } { \mathrm { P F } }$ 。随着酸处理强度的增强在3个演替阶段森林中土壤微生物碳含量有下降的趋势,表明酸处理对微生物活性有一定的抑制作用,但均未达到统计学差异( $P { > } 0 . 0 5 \$ ）（图3）。
+
+溶解性有机碳(DOC)也有随自然演替而增加的趋势,季风林中 $\mathrm { \ p H \ 4 . 0 }$ 与 $\mathrm { p H } ~ 3 . 5$ 处理之间( $\stackrel { \triangledown } { \boldsymbol { P } } = \stackrel { \triangledown } { \boldsymbol { 0 } } . 0 3 \stackrel { \triangledown } { \boldsymbol { ) } }$ ！，$\mathrm { p H } 4 . 0$ 与CK处理之间( $\scriptstyle P = 0 . 0 3 3 )$ 达到显著差异。针叶林不同酸处理之间也达到显著差异( $P = 0 . 0 0 5$ ）。而不同演替阶段森林土壤 DOC 含量也存在显著差异( $P { < } 0 . 0 5 \mathrm { ) }$ ，大小为： ${ \mathrm { B F } } { > } { \mathrm { M F } } { > } { \mathrm { P F } }$ （图3）
+
+# 2.3不同酸梯度处理下的碳库管理指数
+
+将各演替阶段林型的对照作参考土壤,对不同强度酸处理下的碳库管理指数进行计算(表1)。季风林、混交林、松林3个林型 $\mathrm { R O C } _ { 3 3 3 }$ 所得CMI与对照土壤CK 相比变化幅度分别为 $( 1 1 . 8 3 \% ) 4 7 . 4 7 \%$ 、 $1 3 . 9 3 \%$ 一$2 9 . 2 5 \% , 1 0 . 8 0 \% - 1 9 . 9 8 \%$ ,平均变化幅度分别为： $3 1 . 5 2 \% . 2 3 . 9 1 \% . 1 5 . 9 5 \% _ { \circ } \overline { { 3 } } ^ { \cdot }$ 个演替阶段的林型CMI值都有随酸处理强度增强而增加的趋势,说明酸处理增加了土壤碳库管理指数,但各林型在不同处理之间的CMI值没有达到显著差异( $\scriptstyle P > 0 . 0 5 )$ ）。3种林型中处于演替后期的季风林对酸雨的响应更加敏感,碳库管理指数值增加幅度最大,其次为混交林和松林。
+
+表1模拟酸雨对土壤活性有机碳及碳库管理指数的影响  
+Table 1The effect of simulated acid rain on the content of the three labile organic carbon and CMI   
+
+<html><body><table><tr><td rowspan="3">处理 Treatment</td><td colspan="4">季风林</td><td colspan="2">混交林</td><td colspan="3">松林</td></tr><tr><td colspan="4">Monsoon evergreen board-leaved forest</td><td colspan="2">Mixed forest</td><td colspan="3">Pine forest</td></tr><tr><td>L</td><td>CPI</td><td>CMI</td><td>L</td><td>CP1</td><td>CMI</td><td>L</td><td>CPI</td><td>CMI</td></tr><tr><td rowspan="2">3.0</td><td>0.25</td><td>1.33</td><td>135.24</td><td>0.30(0.01)</td><td>1.09</td><td>128.55</td><td>0.34</td><td>1.25</td><td>119.98</td></tr><tr><td>(0.01)</td><td>(0.07)</td><td>(2.88)</td><td></td><td>(0.07)</td><td>(1.70)</td><td>(0.07)</td><td>(0.18)</td><td>(4.81)</td></tr><tr><td rowspan="2">3.5</td><td>(0.35)</td><td>(1.25)</td><td>19.47</td><td>0.30</td><td></td><td>(129.25)</td><td>(0.48)</td><td>(1.01)</td><td></td></tr><tr><td></td><td></td><td></td><td>(0.02)</td><td>(1.08)</td><td></td><td></td><td></td><td>(10.80</td></tr><tr><td rowspan="2">4.0</td><td>0.25</td><td>1.09</td><td>111.83</td><td>0.28</td><td>1.09</td><td>113.93</td><td>0.49</td><td>0.90</td><td>117.07</td></tr><tr><td>(0.02)</td><td>(0.09)</td><td>(13.15)</td><td>(0.01)</td><td>(0.14)</td><td>(2.33)</td><td>(0.20)</td><td>(0.06)</td><td>(8.99)</td></tr><tr><td rowspan="2">CK</td><td>0.25</td><td>1.00</td><td>100.00</td><td>0.25</td><td>1.00</td><td>100.00</td><td>0.36</td><td>1.00</td><td>100.00</td></tr><tr><td>(0.02)</td><td>（0）</td><td>（0）</td><td>(0.03)</td><td>（0）</td><td>（0）</td><td>(0.01)</td><td>（0）</td><td>（0）</td></tr></table></body></html>
+
+括号内为标准误差， $n = 3$ ;L，碳库活度，lability of carbon；CPI，碳库指数，carbon pol index；CMI,碳库管理指数，carbon management index
+
+# 3讨论
+
+3.1不同梯度酸处理对土壤活性有机碳的影响
+
+对于土壤活性有机碳沈宏等将其定义为受植物、微生物等影响强烈且不稳定、易氧化、易分解矿化的那部分碳,易被微生物分解利用且能为植物提供高效直接的碳源[24],是反映土地利用和管理措施对土壤性状及质量的一个很好的指标[10]。主要包括易氧化有机碳、颗粒有机碳、轻组有机碳、微生物量碳、溶解性有机碳等[12,25]。通常活性有机碳只占土壤碳库的很小比例,却与土壤有机碳及养分关系密切[26]
+
+高锰酸钾氧化的活性有机碳主要包括的单一碳水化合物、氨基酸和糖类、一些简单的有机化合物等[27],其浓度主要受营养物质和水的影响[28]。Biederbeck 等[10]通过动力学研究指出,土壤有机质的短暂波动主要发生在易氧化分解部分,并选择易氧化有机碳、微生物碳等作为土壤活性有机碳的指示因子。目前高锰酸钾氧化法测得的活性有机碳已被广泛运用很多研究中,这种方法不仅快速廉价,而且对土地管理措施和环境变化非常敏感,与土壤总有机碳和其他组分的活性有机碳的关系密切[27,29]。不同浓度 $\mathrm { K M n O } _ { 4 }$ 氧化而得不同活度有机碳对不同的类型的土壤反应也不同。Vieira等[30]指出 $3 3 3 \mathrm { m m o l / L }$ 浓度高锰酸钾氧化而得的活性有机碳在热带地区土壤中的响应并不敏感,认为 $\mathrm { R O C } _ { 3 3 3 }$ 所的易氧化有机碳高估了土壤活性碳含量。Tirol-PadreLadha[27]研究表明水稻土中土壤 $3 3 3 \mathrm { m m o l / L }$ 浓度的易氧化有机碳与总有机碳的相关性大于与水溶性有机碳,而与微生物量碳没有相关性，认为 $\mathrm { R O C } _ { 3 3 3 }$ 更偏向是一种稳定性碳。本研究中 $3 3 3 \mathrm { m m o l / L \ K M n O _ { 4 } }$ 氧化而得的$\mathrm { R O C } _ { 3 3 3 }$ 与 SOC 及其他活性有机碳都呈显著或极显著的关系,尤其与 POC 的相关性达到了0.832（表2）。$\mathrm { R O C } _ { 1 6 7 }$ 与 $\mathrm { R O C } _ { 3 3 }$ 含量与微生物量碳却没有显著关系( $P { > } 0 . 0 5 )$ ，且 $\mathrm { R O C } _ { 3 3 3 }$ 含量在处理间达到显著差异（图2），$\mathrm { R O C } _ { 3 3 3 }$ ） $\mathrm { R O C } _ { 1 6 7 }$ ） $\mathrm { R O C } _ { 3 3 }$ 在酸处理的作用下相对于CK处理其平均变化量分别为： $2 3 . 3 3 \%$ ， $2 3 . 9 9 \%$ 、 $1 2 . 3 7 \%$ （表3）。综合表明在亚热带酸性土壤中 $\mathrm { R O C } _ { 3 3 3 }$ 值可以作为土壤活性有机碳一个很好的评价指标,与Leroy等一些学者的研究结果一致[14,2,25.31]。因此本文在计算CMI时也采用的 $\mathrm { R O C } _ { 3 3 3 }$ 含量作为活性有机碳部分。同时由图2可得,3种浓度 $\mathrm { K M n O } _ { 4 }$ 氧化所得的活性有机碳有随酸处理强度增强而增加的趋势。Tirol-Padre 等[27]和Skjemstad 等[32]的研究结果表明高锰酸钾对土壤中的木质素存在比较敏感,对纤维素不敏感,所以增加的活性碳可能主要来源于木质素部分。而土壤酸化增加了土壤主要分解木质素的真菌生物量,且增加了真菌细菌比[33]。 ${ { \mathbb { W } } _ { \mathbf { u } } }$ 等[34]利用核磁共振分析土壤中官能团有机碳,在酸雨处理的初期,季风林土壤中的烷氧碳有随酸处理而降低的趋势,凋落物的分解速率降低,且抑制了土壤呼吸,土壤有机碳含量增加。所以在本研究中模拟酸雨增加土壤中易氧化有机碳含量可能主要是酸处理增加了与植物残体相结合的那部分POC 含量及抑制微生物分解能力所导致。
+
+表2不同组分活性有机碳与总有机碳的相关系数(n=36)  
+
+<html><body><table><tr><td>指标</td><td>土壤有机碳</td><td>333mmol/L 易氧化碳</td><td>167mmol/L 33mmol/L 易氧化碳 易氧化碳</td><td>orgunke 颗粒有机碳</td><td>微生物量碳</td><td>溶解性有机碳</td></tr><tr><td>Index</td><td>SOC</td><td>ROC333</td><td>ROC33 ROC167</td><td>POC</td><td>SMBC</td><td>DOC</td></tr><tr><td>SOC</td><td>1</td><td>0.853 **</td><td>0.693 ** 0.781** 0.779**</td><td>0.846 ** 0.832 **</td><td>0.434 * 0.358 *</td><td>0.796 ** 0.588 **</td></tr><tr><td>ROC333</td><td>0.853 ** 0.693 **</td><td>1 0.779 **</td><td>0.807** 1 0.675 **</td><td>0.781**</td><td>0.241</td><td>0.523 **</td></tr><tr><td>ROC167 ROC33</td><td>0.781**</td><td>0.807 **</td><td>0.675 1</td><td>0.765 **</td><td>0.301</td><td>0.467 **</td></tr><tr><td>POC</td><td>0.846 **</td><td>0.832**</td><td>0.781 0.765 **</td><td>1</td><td>0.478 *</td><td>0.754 **</td></tr><tr><td>SMBC</td><td>0.434 *</td><td>0.358*</td><td>0.241 0.301</td><td>0.478 *</td><td>1</td><td>0.663**</td></tr><tr><td>DOC</td><td>0.796 **</td><td>0.588**</td><td>0.523 ** 0.467**</td><td>0.754**</td><td>0.663**</td><td>1</td></tr></table></body></html>
+
+$\ast$ 在0.05 水平上显著相关, $* *$ 在0.01水平上显著相关;SOC：土壤有机碳，Soil organic carbon; $\mathrm { R O C } _ { 3 3 3 }$ ：ROC333,333mmol/L易氧化碳,333mmol/L $\mathrm { K M n O } _ { 4 }$ oxidation organic carbon; $\mathbf { R O C } _ { 1 6 7 }$ ， $1 6 7 \mathrm { m m o l / L }$ 易氧化碳, $1 6 7 \mathrm { m m o l } / \mathrm { L }$ $\mathrm { K M n O } _ { 4 }$ oxidation organic carbon; ${ \mathrm { R O C } } _ { 3 3 }$ ， $3 3 \mathrm { m m o l / L }$ 易氧化碳，33mmol/L $\mathrm { K M n O } _ { 4 }$ oxidation organiccarbon；POC：颗粒有机碳:Particulate organic carbon；SMBC：微生物量碳，Soil microbial biomasscarbon;DOC：溶解性有机碳，Dissolved organic carbon
+
+土壤颗粒有机碳(POC)由与沙砾结合的植物残体和微生物体组成[23],其结构和组成与轻组有机质性质相似。近年来很多研究表明颗粒有机碳是反应土壤有机质动态变化的良好指标[35],对土地利用,耕作及管理措施非常敏感[36-37]。有学者用 POC 代替 ROC 计算碳库管理指数[32,38]。在本研究中 POC 与 SOC 及各组分活性有机碳也都是呈现显著或极显著的关系,表明POC可以作为土壤活性有机碳的重要组成部分。酸处理相对于CK 处理其平均变化量为： $2 1 . 5 6 \%$ ,较 $\mathrm { R O C } _ { 3 3 3 }$ 相对较弱,比 $\mathrm { R O C } _ { 1 6 7 }$ ${ \mathrm { R O C } } _ { 3 3 }$ 敏感性强（表3）。而POC 能否代替ROC 计算CMI有待进一步的验证。
+
+土壤微生物量碳(SMBC)也是一个敏感指标,温度、湿度、根系及根际分泌物等都会影响微生物的生物量及活性[39],这一部分碳占土壤总有机碳的 $0 . 3 \% - 7 \% ^ { [ 4 0 ] }$ 。土壤溶解性有机碳(DOC)是地表植被及覆盖物淋溶,土壤根系分泌及微生物新陈代谢产物[12],对土壤有机碳浓度及土壤物理化学循环过程产生重要的影响[41]。研究结果表明 SMBC 与DOC 之间相关性显著,与龚伟等[42]的研究结果相同。Liang 等[43]结果也验证在这一点,在鼎湖山过去几年的监测发现,模拟酸雨造成的土壤酸化从而引起季风林和混交林土壤呼吸的下降,并伴随着土壤微生物量碳氮的显著降低，显著降低了季风林土壤 $\mathrm { \ p H }$ 值。土壤DOC含量在松林有显著差异且有随酸强度增加而下降的趋势,混交林中有这一趋势但差异不显著,季风林则未呈现明显规律。可能由于其影响因素比较复杂,其来源有近期的凋落物与土壤中的腐殖质,还包括一系列有机物,从简单的有机酸到复杂的大分子物质[20]。因此对活性碳的变化还需要多次长期的观测。
+
+综合所得：POC、MBC、DOC占 SOC 的比例分别为 $1 0 . 1 7 \%$ 1 $6 0 . 3 7 \%$ ， $0 . 2 3 \%$ 1 $\cdot 2 . 4 \%$ ， $0 . 3 2 \%$ 一 $\cdot 1 . 3 \%$ 。不同组分的活性有机碳之间及与总有机碳关系密切。其中 $\mathrm { R O C } _ { 3 3 3 }$ 和POC的含量与SOC 关系最为密切,相关系数分别为0.853 和0.846。其他组分活性有机碳与 SOC 的也有很好的相关性（表2）,表明土壤活性有机碳含量在很大程度上是由其总有机碳的含量所决定的,地上部分的森林类型在很大程度上决定了有机质的输人量。从而影响到了土壤中有机碳的含量,而总有机碳含量的高低在很大程度上决定了活性有机碳的丰缺[4-45]。
+
+# 3.2酸处理对不同演替阶段林型CMI的影响
+
+处在演替后期成熟的季风林,演替中期的混交林,演替初期的松林对于酸沉降的响应是有明显差异的。不同的树种凋落物的输入量,有机碎屑的化学性质,细根生物量,叶片及凋落物的C/N,铁铝交换离子的浓度等都会影响土壤有机质的数量及质量[4]。季风林、混交林、松林3个林型L及LI的均值随林型演替而降低(表1),说明土壤活性有机碳与非活性有机碳的比值、酸处理条件下碳库活度指数与对照碳库活度指数的比值都有随着森林顺向演替而递减的趋势,土壤活性碳库占总有机碳库比值相对减小，土壤碳库稳定性增加。3个林型L变化幅度均值分别为： $1 . 9 \% . 1 5 . 2 1 \%$ 和 $1 8 . 0 8 \%$ ,LI的变化幅度分别为： $8 . 5 0 \%$ 、 $1 9 . 7 8 \%$ 和 $2 0 . 5 3 \%$ （表3)说明酸处理条件下随着森林顺向演替土壤碳库稳定性增强,活性碳库的变化幅度降低。季风林、混交林、松林3个林型CPI的变化幅度均值分别为： $2 2 . 1 3 \%$ ） $8 . 8 9 \%$ 和 $1 2 . 1 1 \%$ 。土壤的碳库指数变化幅度最大的为季风林。说明相对于参考土壤,处于演替后期成熟的季风林仍然表现出较强的碳积累能力。季风林、混交林、松林3个林型CMI均值及变化幅度均值随着森林的顺向演替而增加,说明随着森林的顺行演替碳固存增加,活度降低,在总有机碳及活性碳增加的前提下更有利于惰性碳的保存及碳库的稳定性。
+
+表3相对于CK处理各组分活性碳的变化幅度  
+Table 3The rangeability of different fraction of labile organic carbon compared with tl   
+
+<html><body><table><tr><td>林型 Forest type</td><td>Tre理ent</td><td>SOC</td><td>ROC333 ROC</td><td>ROC33</td><td></td><td>POC</td><td>SMBC</td><td>DOC</td><td>L</td><td>LI</td><td>CPI CMI</td></tr><tr><td>BF</td><td>3.0</td><td>32.06 36.22</td><td>36.22</td><td>40.22</td><td>48.94</td><td>19.51</td><td>10.26</td><td>1.83</td><td>2.28</td><td>32.74</td><td>35.24</td></tr><tr><td></td><td>3.5</td><td>24.75 24.75</td><td>43.38</td><td>41.38</td><td>40.72</td><td>16.07</td><td>0.5</td><td>1.83</td><td>19.6</td><td>24.67</td><td>47.47</td></tr><tr><td></td><td>4.0</td><td>8.15 8.15</td><td>11.28</td><td>6.99</td><td>28.39</td><td>16.93</td><td>21.10</td><td>2.02</td><td>4.13</td><td>8.97</td><td>11.83</td></tr><tr><td>均值</td><td></td><td>21.65 21.65</td><td>30.29</td><td>29.53</td><td>39.35</td><td>17.51</td><td>10.62</td><td>1.90</td><td>8.50</td><td>22.13</td><td>31.52</td></tr><tr><td>3.0</td><td></td><td>8.12 8.12</td><td>24.25</td><td>10.18</td><td>17.06</td><td>45.18</td><td>7.41</td><td>16.79</td><td>18.53</td><td>9.36</td><td>28.56</td></tr><tr><td>3.5</td><td></td><td>7.27</td><td>23.88</td><td>7.80</td><td>5.02</td><td>30.37</td><td>0.99</td><td>17.24</td><td>22.11</td><td></td><td>29.25</td></tr><tr><td>4.0</td><td>7.27</td><td>5.94</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>8.77</td><td></td></tr><tr><td>均值</td><td>5.94</td><td></td><td>22.89</td><td>4.70</td><td>17.13</td><td>9.28</td><td>16.78</td><td>11.59</td><td>18.72</td><td>8.54</td><td>13.93</td></tr><tr><td></td><td>7.11</td><td>7.11 27.65</td><td>23.47</td><td>7.56</td><td>13.07</td><td>28.28</td><td>8.39</td><td>15.21</td><td>19.78</td><td>8.89</td><td>23.91</td></tr><tr><td>3.0</td><td>27.65 0.88</td><td>0.88</td><td>28.03 12.97</td><td>21.52 11.15</td><td>4.89</td><td>27.39</td><td>29.33 42.26</td><td>7.40</td><td>10.82</td><td>25.36</td><td>19.98</td></tr><tr><td>3.5 4.0</td><td>10.51</td><td>10.51</td><td>6.27</td><td>10.34</td><td>10.25 21.66</td><td>20.80 5.31</td><td>16.99</td><td>13.84 33.05</td><td>12.90 37.88</td><td>0.95 20.03</td><td>10.80</td></tr><tr><td>均值</td><td>13.0</td><td>13.0</td><td>15.76</td><td>14.34</td><td>12.26</td><td>17.84</td><td>29.52</td><td>18.08</td><td>20.53</td><td>12.11</td><td>17.07 15.95</td></tr></table></body></html>
+
+变化幅度 $\mathbf { \Sigma } = \mathbf { \Sigma }$ (处理的含量-CK 的含量)／CK 的含量 $* 1 0 0 \%$ ;BF,季风常绿阔叶林,Monsoon evergreen board-leaved forest;MF,混交林，Mixed1forests； PF,松林,Pine forest;SOC, $\mathrm { R O C } _ { 3 3 3 }$ ， $\mathrm { R O C } _ { 1 6 7 }$ ， $\mathrm { R O C } _ { 3 3 }$ ，POC，SMBC，DOC,L,LI,CPI,CMI分别表示土壤有机碳, $3 3 3 \mathrm { m m o l / L }$ 易氧化碳,167mmol/L易氧化碳， $3 3 \mathrm { m m o l / L }$ 易氧化碳,颗粒碳,微生物量碳,溶解性碳,碳库活度,碳库活度指数,碳库指数,碳库管理指数
+
+从CMI及不同组分活性碳的变化幅度和差异性可得,3个演替阶段森林对模拟酸雨的敏感性有随森林顺行演替而增强的趋势,处于演替顶级的季风林对模拟酸雨最为敏感,随着酸处理强度的增加有明显的变化趋势。这种现象的原因有可能是其表层土壤的理化性质及林下凋落物层差异所造成。首先,季风林及混交林分别作为发展成熟和过渡的林型,土壤各组分活性有机碳与总有机碳高于松林。酸沉降明显增加了季风林易氧化有机碳和颗粒有机碳的含量,碳源的可获得性提高,惰性碳得以存储,使南亚热带成熟森林土壤总有机碳积累[46]。混交林由于处于生态系统的上升期,植被生长旺盛,总有机碳、易氧化有机碳及颗粒有机碳浓度相对较高,表现出较强的碳积累能力。其次,3个演替阶段林型凋落物的输入量虽然随着顺行演替而增加,但凋落物的分解速率也是随着顺行演替而增加[47]。这导致松林地表覆被较厚的枯枝落叶层,因而对酸雨也表现出较强的缓冲能力，土壤总有机碳及各组分活性有机碳各处理间没有明显差异。 2
+
+综合表3得CMI是相对于活性有机碳和总有机碳对模拟酸雨响应更加敏感的指标,本研究中CMI 与$\mathrm { R } _ { 3 3 3 }$ 呈显著相关( $P { = } 0 . 0 0 1 \mathrm { \Omega }$ ),但与其他活性有机碳没有呈现显著相关,这与Kalambukattu 等[48]在喜马拉雅中部地区不同土地利用方式CMI变化的研究结果相同。碳库活度L与活度指数LI可以作为评价土壤碳库稳定性的良好指标,相比CPI更加敏感。CMI因结合土壤碳库活度与总量,可以良好地指示土壤质量与肥力的变化情况[14,49],碳库管理指数越增加是碳库固存增加和碳库活度降低综合作用导致[50]。
+
+# 4结论
+
+(1)在模拟酸雨的作用下,鼎湖山3个演替阶段林型的总有机碳,易氧化有机碳,颗粒有机碳都有随酸处理的增加而增加的趋势,其中季风林的变化最为明显。微生物量碳及溶解性有机碳有随酸强度增加而降低的趋势。(2) $\mathrm { R O C } _ { 3 3 3 }$ 和POC 的含量与 SOC 关系最为密切,相关系数分别为0.853、0.846。以 $\mathrm { R O C } _ { 3 3 3 }$ 作为活性碳计算CMI能够较好表征森林土壤碳库稳定性及其对酸处理的响应规律。(3)L 和LI在酸处理作用下随着林型演替均值及变化幅度减小,CMI指数随着酸处理强度的增强而增加,土壤碳固存增加及碳库活度降低,从而碳库稳定性增加。从不同林型活性有机碳及CMI值变化来看,不同林型之间有随森林的顺向演替而对模拟酸雨响应更加敏感的趋势。各指标对酸雨敏感性表现为 $\mathrm { C M I > R } _ { 3 3 3 }$ （20$> \mathrm { P O C } > \mathrm { S M B C } > \mathrm { R } _ { 1 6 7 } > \mathrm { R } _ { 3 3 } > \mathrm { L I } > \mathrm { D O C } > \mathrm { C P I } > \mathrm { S O C }$ o
+
+# 参考文献（References）：
+
+[1］张新民，柴发合，王淑兰，孙新章，韩梅.中国酸雨研究现状.环境科学研究，2010,23(5)：527-532.  
+[2]GallowayJN.Acid deposition:perspectives in time and space.Water，Air，and SoilPolution，1995,85(1）：15-24.  
+[3]广东省环境保护厅.2015广东省环境状况公报.（2016-06-08）[2016-10-20].htp://www.gdep.gov.cn/hjce/gb/2015ngdhjgb/201606/P020160907349865557904.pdf.  
+[4]CaoYZ，WangSY，ZhangG,LuoJY，uSY.ChemicalcharacteristcsofwetprecipiationatanurbansiteofGuangzouSouthCina.Atmospheric Research,2009,94(3） : 462-469.  
+[5]中华人民共和国环境保护部.2015中国环境质量公报.（2016-05-20）[2016-10-20].htp://ww.zhb.gov.cn/hjzl/zghjzkgb/lnzghjzkgb/201606/P020160602333160471955.pdf.  
+[6]LikensGEofdosdyseoc4246.  
+[7] LalR.Soil carbonsequestration impacts on global climate changeand food security.Science,2004，304(5677）：1623-1627.  
+[8 PostWM,KwonKC.Solarboseqesrationdlduseange：preesdpotential.GbalangeBologo6(3）27.9 WhitbreadAM,LefrRD,lairG.AsuryfpactingolpicalcalpropersinortwesteSoutWales.Australian Journal of Soil Research,1998,36(4）：669-681.10] BiederbeckVOHH,CampbellCA,ZnterRbilesoloaicatesifuencedbopgpracticesidtSoil Biology and Biochemistry，1994,26(12）：1647-1656.  
+[11] PartonJ,helDoleCVOjDAalyscsotrolinslncaterevelsingeatplainsgasssleceSociety of America Journal,1987,51(5）：1173-1179.  
+[12]HaynsRJLabileoganicmatersanindicatoroforganicmaterqualtiarableandpastoralsoilsinNewZealandSliologadBiochemistry，2000,32(2）：211-219.  
+[13]ManuV,ibdlairrbaudrucualailtofolildsigdolUse and Management，2014,30(4）：517-523.
+
+http://www.ecologica.cn
+
+[14]BlairGLefroRD,isleLSlbfrsdoergfdationdeveopetofbmageteforagricultural systems.Australian Journal of Agricultural Research，1995,46(7）：1459-1466.  
+[5]DeBoaFrCoergaaschliteedbagedeiubroicaliobesystems and irrigation.Australian Journal of Soil Research，2008,46(5）：469-475.  
+［16］吴厚水.鼎湖山自然保护区水热状况及其与生态环境的关系.热带地理，1982，2（4)：14-20.  
+[17] 彭少麟，王伯荪.鼎湖山森林群落演替之研究.华南植物学报，1993，（试刊1)：34-42.  
+[18]LiuJX,ZouGY,ZangDQ.ulatedectsofcidicutiooetdainosevegeroad-aoresatDihChina. Part 1:dynamics of K,Na, Ca, $\mathbf { M } \mathbf { g }$ and P.Environmental Science and Polution Research International,2007,14(2)：123-129.  
+［19］刘光崧.土壤理化分析与剖面描述.北京：中国标准出版社，1996：166-167，123-125.  
+[20]JenkinsonDowsonDefetsfiidaltreatmentsometabolisinol-VmethodforeasuringsiliasslilBiochemistry，1976,8（3）：209-213.  
+[21］吕国红，周广胜，周莉，贾庆宇.土壤溶解性有机碳测定方法与应用.气象与环境学报，2006,22（2）：51-55  
+[22]LefroyRDB，BlairGJ,Strong WM.Changes insoilrganic mater with croppng asmeasured byrganiccarbonfractiosand natural isotopeabundance.Plant and Soil,1993，155(1）：399-402.  
+23]CambardellotEartiaeaasdcSeJournal,1992,56(3)：777-783.  
+[24] 沈宏，曹志洪，徐志红.施肥对土壤不同碳形态及碳库管理指数的影响.土壤学报，2000，37 166-173  
+[25]Lou YL，Wang J K, Liang W J. Impacts of 22-year organic and inorganic N managem( on soil organic C fractions in a maize field,northeastChina. Catena，2011，87（3）：386-390.  
+[26]LiS,ZangSR,PuY,LiT,XuXX,JYX,DngOP,GongGS.DamsofslabileorganiccarbofractiosandC-yleeactivities under straw mulch in Chengdu Plain. Soil and Tillge Research,2016,155:289-297.  
+[27]TirldreA,KeihlbiagbdeofllSlcetAmerica Journal，2004,68(3）:969-978.  
+[28]SongYYSongCC，YangG，MiaoYQ，WangJY,GuoYD.ChangesinlabileorganiccarbonfractiosandsoilenzymeactivitesermarshlandreclamationandrestorationintheSanjiangPlaininnorthastChina.EnvironmentalManagement2O12,O(3）：48-426.  
+[29]CulmanSSapSS,FreeanMA,ShipanskiME,BenstonJ,LalR,DrinkwaterLE,FranzuebbersAJ,loverJD,GrandS,LeeJ,SixJ,MaulJE,rksy，agdereagaateidablecarbretsprocedilcoatsemanagement. Soil Science Society of America Journal,2012,76(2): 494-504.  
+[30]VieiraFCB，yerC,aaaJ,icko，MieliukJ，HeZL.Carbmaageentidebedonpsialfractoatiooflcmater inan Acrisoluderlong-tern-tillroppingsstems.SoilandTillgeResearch，,96(1/2）:195-204.  
+［31］蒲玉琳，叶春，张世榕，龙高飞，杨丽蓉，贾永霞，徐小逊,李云.若尔盖沙化草地不同生态恢复模式土壤活性有机碳及碳库管理指数变化.生态学报，2017,37(2):367-377.  
+32]Sjesdwifopfratecdaatetsailelorganic carbon. Australian Joumal of Soil Research,2006,44(3）: 255-263.  
+[3]LimSChSSJKEfetsfulatedcidmcobalctidicoposialofolddl，2011, 34(4) : 401-410.  
+[34]WuJP,LiangGH,HuiDF,DengQ，Xiong X,QiuQY,LiuJX,ChuGW,ZhouGY,ZhangDQ.Prolonged acidrainfaclitatesoilorganic carbonaccumulation in a mature forest in Southern China.Scienceof the Total Environment，2016,544：94-102.  
+[35] BayerC，MielnicukJ，Marti-NtoL，EaniPR.Stocksndmificationdegreeofoganicmaterfractionssectedbyilgasubtropical soil. Plant and Soil,2002,238(1)：133-140.  
+[36] ChanKY,HeeanD,OtesoilbonfractiosndrelatioshsoilqualityuderfetilgedsubleanagntldTillage Research，2002,63(3/4):133-139.  
+[37] Chan KY.SoilparticulateorganiccarbonunderdiferentlanduseandmanagementSoilUseand ManagementOol,7(4)：27-21.  
+[38]Diekoegebbdslctiboas influenced by long-term no-tillcropping systemsand N fertilisation.Plantand Soil,2005,268(1）:319-328.  
+[39]SofiJA,LoneAH,GanieMA,DarNA,BhatSA,MukhtarM,DarMA,RamzanSSlmicrobologicalactityandcarbondyamicsnecurrent climate change scenarios:a review.Pedosphere，2016,26(5）：577-591.  
+[40]Wardpaatietfcealossbdvelslal967(3): 321-358.  
+[41] CiricV,BelicicL,ereeicejiedA,jlviceiiviyfwateretracablelncbfctuse in three soil types.Archives of Agronomy and Soil Science，2016,62(12)：1654-1664.  
+[42]龚伟，胡庭兴，王景燕，宫渊波，冉华.川南天然常绿阔叶林人工更新后土壤碳库与肥力的变化.生态学报，208，28(6)：2536-2545.  
+[43] Liang GH,LiuXZ,ChenXM,QiuQY,ZhangDQ,ChuGW,LiuJX,LiuSZ,ZhouGY.Responseofsoilresprationtoacidaiinforstsof different maturity in southern China.PloS One，2013,8(4)：e62207.  
+[44] WangH,LiuSR,MoJM,WangJX，MakeschinF，WolffM.SoilorganiccarbonstockandchemicalcompositioninfourplantationsOindigenous tree species in subtropical China.Ecological Research,2010,25(6)：1071-1079.  
+[45]RussellEJleerpaltforest.Soil Science Society of America Journal,2007,71(4）：1389-1397.  
+[46]Zhou GY,LiuSG,LiZA,Zhang DQ,TangXL,ZhouCY,YanJH,MoJM.Old-growthforestscanacumulatecarboninsoils.2006，314(5804)：1417-1417.  
+[47]HuangYH,LiY,iaoY,WenigmaKO,ZouGYZangQ,WgmaM,TangXL,LiuJX.Controlsofiterqualitheabosinkisoilsthohrtinghructsofoosiglitifruiout.Frstolgndat，2011,261(7)：1170-1177.  
+[48]KalambukatuJG,SinghR,PatraAK,ArukuarK.SoilcbonolsdarbomaageentidexuderdiferentlndusetesheCentral Himalayan region.Acta Agriculturae Scandinavica,Section B-Soil & Plant Science,2013,63(3):200-205.  
+[49]LiZW,NieXD,CeXLuYJiangWG,ZegG.eetsfduseandldsapeosiiolilogancarbodbomanagement index in red soil hilly region，southern China.Journal of Mountain Science，2015，12（3）：626-636.  
+[50] Demisie W,LiuZY,ZhangMK.Efectofbiocharoncarbon fractionsandenzymeactivityofredsoil.Catena,2O14,121:214-221.
+
+![](images/b4a8598b4ed1a4fae17e606c90c7827e9866acc1258c5f3cc5c102e86a1ad9f8.jpg)

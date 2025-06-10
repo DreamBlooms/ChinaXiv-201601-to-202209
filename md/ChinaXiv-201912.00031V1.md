@@ -1,0 +1,114 @@
+# 影像学在克罗恩病并发肠腔狭窄诊断及随访中的价值
+
+作者：庄楠、李文波、朱庆莉Nan Zhuang， Wenbo Li,Qingli Zhu作者单位：100730,中国医学科学院北京协和医院超声医学科Department of Diagnostic Ultrasound, Peking Union Medical Hospital, Chinese Academy ofMedical Sciences通讯作者：朱庆莉，zqlpumch@126.com
+
+【摘要】肠腔狭窄是一类常见的克罗恩病并发症， $1 5 \%$ 的CD患者在首诊十年内可发展为肠腔狭窄。CD并发肠腔狭窄根据病理类型可分为炎症型、纤维型及混合型，炎症为主型的患者可通过药物治疗缓解症状，而纤维为主型患者只能通过介入或者手术治疗病变肠段。所以，影像学手段全面评估狭窄肠段的数目、部位、形态，并且区分肠壁炎症和纤维化程度，对于临床决策十分重要。本文将综述主要影像学手段包括内镜、CT、MRI、经腹超声等对肠腔狭窄的诊断敏感性和特异性。近年来，多项影像学新技术在鉴别狭窄肠壁炎症及纤维化方面取得了很大的进展，有望在临床广泛应用，进一步提高CD并发肠腔狭窄的诊疗。
+
+# 【关键词】：克罗恩病；肠腔狭窄；影像学
+
+# Abstract
+
+Intestinal stricture is one of the most common complications of Crohn's disease. $1 5 \%$ of CD patients can develop intestinal stricture within 1O years of first diagnosis. CD complicated with intestinal stricture can be divided into inflammatory， fibrous and mixed types according to pathological types. Patients with inflammatory type can alleviate symptoms by drug treatment, while patients with fibrous type can only treat the affected intestinal segments by interventional Or surgical treatment. Therefore, it is very important for clinical decision-making to comprehensively evaluate the number, location and shape of narrow intestinal segments,and to distinguish the degree of inflammation and fibrosis of intestinal wall.This article reviews the sensitivity and specificity of the main imaging methods including endoscopy， CT，MRl and transabdominal ultrasound in the diagnosis of intestinal stricture. In recent years，many new imaging techniques have made great progress in differentiating inflammation and fibrosis of narrow intestinal wall, which is expected to be widely used in clinic and further improve the diagnosis and treatment of CD complicated with intestinal stricture.
+
+【key word】 :Crohn’ s disease;intestinal stricture;imaging
+
+# 罗恩病并发肠腔狭窄的诊治现状
+
+克罗恩病（Crohn’sdisease，CD）是一类慢性复发性炎症性肠病，肠腔狭窄是其中一种常见的并发症。肠腔狭窄可累及消化道的各个节段，最常见部位为末段回肠和回盲部，由于CD所导致的透壁性炎症，纤维化可累及肠壁全层，导致肠壁增厚、硬化，肠腔狭窄甚至梗阻[。一项基于人群的队列研究显示[2]，超过5%的患者以狭窄性表型为最初表现，10年内有 $1 5 \%$ 的患者发展为肠腔狭窄。
+
+按照病因，克罗恩病合并肠腔狭窄可分为原发性狭窄和继发性狭窄即术后吻合口狭窄；按照病理类型，可分为炎症型、纤维型及混合型。以炎性狭窄为主的CD患者可以通过药物保守治疗，激素类药物和抗肿瘤坏死因子抑制剂能够缓解炎性狭窄所导致的梗阻症状3。药物治疗仅能延迟患者接受手术的时间，大于 $8 0 \%$ 的患者在首诊CD10年内接受第一次肠切除术[4。针对纤维性狭窄为主的患者，目前尚没有有效的药物治疗手段，必须采用内镜下球囊扩张、狭窄成型术或节段性肠管切除术等外科治疗[5。但是，手术治疗并非没有风险，手术后原部位再次手术的概率为 $1 0 \% ^ { [ 6 ] }$ ，4%的狭窄成型术后患者可能会发生吻合口瘘、脓肿形成等并发症，多次手术导致短肠综合征，将严重影响患者的消化吸收功能。所以，准确鉴别CD并发肠腔狭窄的病变性质和程度，选择恰当的治疗手段，对患者的预后及生存质量至关重要。
+
+在CD并发肠腔狭窄的评估中，必须准确地明确狭窄肠段的数目、部位、程度等特征，尽可能地区分炎性狭窄与纤维性狭窄，为临床采取进一步的诊疗措施提供参考，同时评价药物疗效、监测术后情况，这是影像学诊断的重点。目前的影像学评估方法包括腔内评估和计算机断层扫描评估，如内镜、CT、磁共振、超声等。本文总结了针对CD并发肠腔狭窄的各项影像学基本检查手段和新技术，讨论优点及局限性。
+
+# 二、 内镜
+
+内镜是CD诊断的常规首选检查项目，第3届欧洲炎症性肠病共识推荐使用内镜评价结肠和末段回肠的肠腔狭窄，在腔内直观地观察消化道的情况，通过内镜在肠腔内在走行、是否能通过肠腔等，能够判断狭窄的部位、节段及程度（图1）。CD内镜严重指数评分（Crohn's Disease Endoscopic Index ofSeverity，CDEIS）和CD简化内镜评分[]（ Simple Endoscopic Score for Crohn's
+
+Disease，SES-CD）在临床研究中普遍使用，都将肠腔狭窄列入CD活动指数评价指标中。同时，内镜可在狭窄部位肠段取组织活检进行病理学评估，明确病变性质， $3 . 5 \%$ 的肠腔狭窄合并不典型增生或癌变。
+
+CD合并肠腔狭窄的内镜下治疗手段日趋成熟，内镜下球囊扩张术(endoscopicballoondilation,EBD）目前已成为一项常用的非手术性治疗方法，适用于短节段 $( \leqslant 4 \mathsf { c m } )$ 、内镜可通过的狭窄型病变[1]。其并发症少，安全性高，穿孔的发生率约 $3 \% ^ { [ 1 1 ] }$ 。 $1 7 - 8 2 \%$ 的CD并发狭窄患者可以通过内镜下球囊扩张得到病情的长期缓解[12]，接受EBD的患者在1年、3年、5年内累计避免外科手术率分别为 $8 0 \%$ 、 $5 7 \%$ 、 $5 2 \% ^ { [ 1 1 ] }$ 。。长节段、粘膜面炎症严重的狭窄病变是EBD治疗失败的主要因素[13]。狭窄部位成形术（strictureplasty）被视为一类肠切除术的替代方法，虽然肠切除术能够解除肠腔狭窄，但是切除过长节段肠管将降低吸收功能，造成短肠综合征，影响患者的营养情况，甚至缩短预期寿命。狭窄成型术的指征是较长节段的肠管内存在多处肠腔狭窄，尤其对于肠段受累超过100厘米或者患短肠综合征的患者[14]。YAMAMOTO $\mathrm { T } ^ { [ 1 5 ] }$ 等人汇总了1112名行狭窄成型术CD患者的文献报道结果，术后5年复发率为 $2 8 \%$ ，其中 $9 0 \%$ 发生于非手术部位。狭窄成型术对CD合并狭窄患者减轻症状、降低再手术率有重大价值。内镜下针刀狭窄切开术(Needle-knife Stricturotomy)[是一类针对纤维性狭窄或球囊扩张失败的难治性狭窄的新型治疗手段，能够进一步减少内镜下出血、穿孔等创伤。
+
+但是，内镜对于多节段、肠壁深部的病变取材较为困难，难以全面评估狭窄病变。内镜为侵入性检查手段，患者接纳度低，腔内检查仅能提供粘膜信息，对于明显梗阻、内镜不能通过的肠段，则无法确切评价肠管狭窄情况。
+
+# 三、 计算机断层扫描肠道成像 (ComputedTomography EnterographyCTE)
+
+CTE是目前整体评估CD的重要非侵入性影像学手段之一，CTE对肠腔狭窄的诊断敏感性为 $8 5 - 9 3 \%$ ，特异性为 $1 0 0 \% ^ { [ 4 ] }$ 。CTE对单个狭窄的诊断准确性可达$1 0 0 \%$ ，但对狭窄数目的诊断准确性为 $8 3 \% ^ { [ 4 ] }$ （图2）。
+
+以组织病理学为参考，CTE图像中肠壁增厚伴异常强化、肠系膜血管增生等征象与CD高度炎性狭窄密切相关[17]。Chiorean MV等[18纳入了44名CD伴肠腔狭窄患者，构建了CTE标准化评分系统，将CTE评分与47处手术切除病变肠段的病理结果进行分析，结果表明CTE对炎性病变和狭窄性病变的诊断准确性分别为 $7 6 . 6 \%$ 、 $7 8 . 7 \%$ 。CTE对于肠壁炎性和纤维化病变的确切诊断，有待于进一步前瞻性研究。虽然CTE是一类临床上广泛使用的非侵入性CD检查手段，但是CTE需要肠道准备，对已存在梗阻的患者不适用；同时由于辐射暴露等问题对于患者长期随访及重复评估时应予重视。
+
+# 四、 磁共振 (Magnetic Resonance lmaging,MRI)
+
+MRI在CD的诊断及评估中发挥了重要的作用，磁共振肠造影（MagneticResonance Enterography，MRE）能够准确评价CD并发肠腔狭窄，明确狭窄病变的数目、部位和程度，检测肠狭窄诊断准确性为 $9 0 \%$ ，敏感性为 $7 5 - 1 0 0 \%$ ，特异性为 $9 0 . 9 \substack { - 9 5 . 7 \% ^ { [ 1 9 , 2 0 ] } }$ 。MRI已经应用到了评价药物疗效的随访中，一项研究表明[21]，肠管狭窄长度小于12cm，近端肠腔的最大直径为18-29mm，MRE延迟相显著增强，无瘘管存在等因素可作为阿达木单抗治疗CD肠腔狭窄成功的预测因子。
+
+在评估肠壁病变性质方面，多项MRI新技术在肠壁纤维化定性和定量测量上取得了突破。磁共振扩散加权成像（Diffuse Weighted Imaging,DWI）是利用水分子通过不同密度的组织来提供图像对比度，炎症组织密度高、扩散受限，呈现为明亮的图像，一项META分析总结了DWI评价CD肠壁炎症程度的敏感性为$9 2 . 9 \%$ ，特异性为 $9 1 \% ^ { [ 2 2 ] }$ 。动态对比增强MRE在延迟相测量增强参数，纤维化肠壁的造影剂滞留时间更长，从而区分肠壁的炎症与纤维化[23]。磁化传递成像（magnetization transfer imaging，MTl）对狭窄肠组织中的胶原含量变化十分敏感，能够准确区分纤维化和非纤维化的肠壁组织，实验表明，晚期肠壁纤维化的大鼠MT比值明显高于非纤维化大鼠（ $\lceil \rceil < 0 . 0 5 )$ [24]。然而，由于MRI费用昂贵、检查时间长、需严格肠道准备，患者耐受性低，在临床上尚没有得到广泛应用。
+
+# 五、 经腹超声 (Transabdominal UItrasound,TAUS)
+
+TAUS近年来被广泛地应用到了CD的诊断和随访中，在其并发症检测上具有较高的敏感性和特异性。根据以往文献报道，常规经腹超声诊断CD合并肠腔狭窄的敏感性可达 $1 0 0 \%$ ，特异性为 $6 3 \% ^ { [ 2 5 , 2 6 ] }$ (图3)。以手术病理为金标准，纳入49名CD患者进行肠道超声造影检查，对单发狭窄诊断敏感性为 $9 7 . 5 \%$ ，特异性为 $1 0 0 \%$ ，对多发狭窄的诊断敏感性为 $7 5 \%$ ，特异性为 $1 0 0 \% ^ { [ 2 7 ] }$ 。TAUS对肠腔狭窄的诊断敏感性和特异性高，并且无辐射、检查简便，适用于CD并发症的随访以及监测药物疗效。
+
+值得一提的是，对于明确肠腔狭窄的纤维化程度方面，超声新技术取得了长足的进展。肠道超声造影具有区分CD炎性和纤维性狭窄的潜能，据报道，超声造影显示肠壁彩色多普勒血管化的程度与纤维狭窄程度呈显著负相关[2，超声造影表现与肠壁炎症(Spearman's, ${ \sf r } = 0 . 5 3$ )、肠壁纤维化狭窄（Spearman's,${ \sf r } = 0 . 5 0 \dot { { \mathrm { \Omega } } }$ ）的病理评分呈显著相关[29]。剪切波超声弹性成像（ShearWaveElastography,SWE）是通过脉冲刺激，在体内产生剪切波，测量传播速度从而得到组织的弹性值。CHENYJ等[3通过对CD合并肠腔狭窄的肠切除标本进行SWE检查，结果显示以22.55KPa为临界值，区分轻度/中度与重度肠壁纤维化的敏感性为 $8 7 . 5 \%$ ，特异性为 $5 7 . 9 \%$ 。DilIman JR等[3动物实验表明，纤维化肠壁相对于急性炎症期肠壁，其剪切波速度（ShearWaveVelocity,SWV）显著增高，测量SWV能够区分肠壁炎症性病变和纤维化病变。所以，肠道超声造影和SWE能够明确CD合并肠腔狭窄的肠壁病变性质，具有良好的临床应用前景。
+
+# 六、 正电子发射计算机断层显像（PositronEmission
+
+# Tomography/Computed Tomagraphy,PET-CT)
+
+18F-FDGPET/CT主要评价组织功能及代谢情况，近年来越来越多地应用到了炎症性肠病的评估中。LouisE32等人发现，内镜下的严重病变，包括深溃疡和狭窄等，PET-CT的检出率为 $1 0 0 \%$ (14/14)。
+
+1F-FDGPET-CT对重度炎症性病变的检出率为 $8 7 \%$ ，但对浅表的轻度炎症、溃疡性病变，诊断准确性仅7%[33.34]。Jacene HA[35]等人纳入了17名具有明确梗阻症状的CD患者，其中13名接受了手术，术前利用F-FDG PET-CT检测患者肠壁内的FDG摄取情况，将检查结果与术后病理标本进行比较分析，他们发现FDG不仅沉积于急性炎症的肠壁中，在严重纤维化、肠肌肥大的肠壁中也有积累，提示1F-FDGPET-CT可能无法进一步鉴别肠腔狭窄是炎症性狭窄还是纤维性狭窄。然而，在其他研究中，以内镜联合组织学检查为金标准，纳入37处肠腔狭窄病变，利用1°F-FDG PET-CT联合MRI、TAUS等其他影像学手段，能够 $1 0 0 \%$ 发现有临床症状并需要干预的CD狭窄性病变[3]。因此，18F-FDG PET-CT鉴别炎性和纤维性狭窄的能力有待于进一步研究证实。
+
+PET-CT对于合并肿瘤的IBD狭窄性病变是否有益？
+
+# 七、结论
+
+影像学评估明确狭窄的数目、部位、形态以及程度，对CD并发肠腔狭窄的诊断及治疗其到了重要作用，虽然内镜是最常用的评价手段，但对于CD这类跨壁性炎症性肠病来说，不能仅局限于腔内评估，还需要结合断层影像学手段及连续性检查手段综合评估，如CT、MRI和经腹肠道超声等。在评价肠壁炎症及纤维化程度方面，超声、MRI等新技术有着良好的发展前景，并逐渐得到认
+
+可，有望在临床上广泛应用。目前来说，尚未有指南提出诊断及鉴别CD伴肠腔狭窄性质的标准方法，各项影像学手段日趋成熟，但对于CD合并狭窄的早期筛查、治疗评价及预后评估仍不完善，期待更为深入的临床研究。
+
+表1不同影像学方法诊断CD合并肠腔狭窄的临床价值  
+
+<html><body><table><tr><td>影像学方法</td><td>优势</td><td>局限性</td></tr><tr><td>内镜</td><td>直观，可取活检、镜下治 疗</td><td>不适用肠梗阻患者，侵入性</td></tr><tr><td>CTE</td><td>非侵入性，普遍使用</td><td>需肠道准备，辐射暴露</td></tr><tr><td>磁共振</td><td>无辐射，准确性高</td><td>价格昂贵，检查时间长</td></tr><tr><td>经腹超声</td><td>准确性高，操作简便</td><td>易受肠气干扰；依赖操作者经验</td></tr><tr><td>PET/CT</td><td>准确识别严重病变</td><td>价格昂贵，对轻度病变不敏感</td></tr></table></body></html>
+
+![](images/be3f3e8b146f3f8da836cb78f36de6489b6b265cc40ccbe27cf187195be1dc95.jpg)
+
+图1患者，女，42岁，右半结肠切除术后，诊断CD，肠镜显示吻合口处狭窄
+
+![](images/7f41aa0baa14f426c52b78dfc78bd3f75647c43fe041b75ed909d404dbec511c.jpg)
+
+图2患者，男，52岁，结肠次全切除术后，CTE显示吻合口处肠腔狭窄(白色箭头)
+
+S
+
+图3患者，男，45岁，诊断CD，经腹超声显示第5组小肠局部肠腔狭窄，近端肠腔扩张 (白色箭头)
+
+# 参考文献
+
+[1] CHAN W, MOURAD F, LEONG R W. Crohn's disease associated strictures[J]. J Gastroenterol Hepatol, 2018,33(5):998-1008.   
+[2] THIA K T, SANDBORN W J, HARMSEN W S, et al. Risk factors associated with progression to intestinal complications of Crohn's disease in a population-based cohort[J]. Gastroenterology, 2010,139(4):1147-1155.   
+[3] YAFFE B H, KORELITZ B I. Prognosis for nonoperative management of small-bowel obstruction in Crohn's disease[J]. J Clin Gastroenterol, 1983,5(3):211-215. [4] RIEDER F, ZIMMERMANN E M,REMZI F H, et al. Crohn's disease complicated by strictures: a systematic review[J]. Gut, 2013,62(7):1072-1084. [5] RIEDER F,LATELLA G, MAGRO F, et al. European Crohn's and Colitis Organisation Topical Review on Prediction, Diagnosis and Management of Fibrostenosing Crohn's Disease[J]. JCrohns Colitis,2016,10(8):873-885. [6] YAMAMOTO T,FAZIO V W, TEKKIS P P. Safety and efficacy of strictureplasty for Crohn's disease: a systematic review and meta-analysis[J]. Dis Colon Rectum, 2007,50(11):1968-1986. [7] GOMOLLON F, DIGNASS A, ANNESE V,et al. 3rd European Evidence-based Consensus on the Diagnosis and Management of Crohn'sDisease 2016: Part 1: Diagnosis and Medical Management[J]. JCrohns Colitis,2017,11(1):3-25. [8] MARY JY,MODIGLIANI R. Development and validation of an endoscopic index of the severity for Crohn's disease:a prospective multicentre study. Groupe d'Etudes Therapeutiques des Affections Inflammatoires du Tube Digestif (GETAID)[J]. Gut, 1989,30(7):983-989. [9] DAPERNO M, D'HAENS G, Van ASSCHE G, et al. Development and validation of a new, simplified endoscopic activity score for Crohn's disease: the SES-CD[J]. Gastrointest Endosc, 2004,60(4):505-512.   
+[10] 吴现瑞，郑晓彬，沈博．炎症性肠病合并肠腔狭窄的内镜治疗[J].中华炎性肠病杂志（中英 文）,2018,2(1):19-22.   
+[11] NAVANEETHAN U,LOURDUSAMY V,NJEI B,et al. Endoscopic balloon dilation in the management of strictures in Crohn's disease: a systematic review and meta-analysis of nonrandomized trials[J]. Surg Endosc,2016,30(12):5434-5443.   
+[12] HOFFMANN JC,HELLER F,FAISS S,et al. Through the endoscope ballon dilation of ileocolonic strictures: prognostic factors,complications,and effectiveness[J]. Int J Colorectal Dis, 2008,23(7):689-696.   
+[13] KANAMORI A,SUGAYA T, TOMINAGA K,et al. Endoscopic balloon dilation for stenotic lesions in Crohn's disease[J]. Turk JGastroenterol,2017,28(2):117-124.   
+[14] HESHAM W, KANN B R. Strictureplasty[J]. Clin Colon Rectal Surg, 2013,26(2):80-83.   
+[15] YAMAMOTO T, FAZIO V W, TEKKIS P P. Safety and efficacy of strictureplasty for Crohn's disease: a systematic review and meta-analysis[J]. Dis Colon Rectum, 2007,50(11):1968-1986.   
+[16] SINHP, SHEN B. Endoscopic evaluation of surgically altered bowel in patients with inflammatory bowel diseases[J]. Inflamm Bowel Dis, 2015,21(6):1459-1471.   
+[17] ADLER J, PUNGLIA D R, DILLMAN J R, et al. Computed tomography enterography findings correlate with tissue inflammation, not fibrosis in resected small bowel Crohn's disease[J]. Inflamm Bowel Dis,2012,18(5):849-856.   
+[18] CHIOREAN M V, SANDRASEGARAN K, SAXENA R, et al. Correlation of CT enteroclysis with surgical pathology in Crohn's disease[J]. Am J Gastroenterol, 2007,102(11):2541-2550.   
+[19] POUS-SERRANO S,FRASSON M, PALASI G R, et al. Accuracy of magnetic resonance enterography in the preoperative assessment of patients with Crohn's disease of the smallbowel[J]. Colorectal Dis,2017,19(5):0126-0133.   
+[20] KUMAR S, HAKIM A,ALEXAKIS C, et al. Small intestinal contrast ultrasonography for the detection of small bowel complications in Crohn's disease: correlation with intraoperative findings and magnetic resonance enterography[J]. J Gastroenterol Hepatol, 2015,30(1):86-91.   
+[21] BOUHNIK Y, CARBONNEL F,LAHARIE D,et al. Eficacy of adalimumab in patients with Crohn's disease and symptomatic small bowel stricture: a multicentre, prospective, observational cohort (CREOLE) study[J]. Gut, 2018,67(1):53-60.   
+[22] CHOI S H, KIM K W,LEE J Y,et al. Diffusion-weighted Magnetic Resonance Enterography for Evaluating Bowel Inflammation in Crohn's Disease:A Systematic Review and Meta-analysis[J]. Inflamm Bowel Dis,2016,22(3):669-679.   
+[23] DEL V R, SANSONI I, CAVIGLIA R, et al. Dynamic contrast enhanced magnetic resonance imaging of the terminal ileum: differentiation of activity of Crohn's disease[J]. Abdom Imaging, 2008,33(4):417-424.   
+[24] ADLER J, SWANSON S D, SCHMIEDLIN-REN P, et al. Magnetization transfer helps detect intestinal fibrosis in an animal model of Crohn disease[J]. Radiology,2011,259(1):127-135.   
+[25] MACONI G, CARSANA L,FOCIANI P, et al. Small bowel stenosis in Crohn's disease: clinical, biochemical and ultrasonographic evaluation of histological features[J]. Aliment Pharmacol Ther, 2003,18(7):749-756.   
+[26] 王妙倩，李文波，朱庆莉，等．超声检查与计算机断层扫描肠道成像对克罗恩病诊断价值的 对比[J]．中华消化杂志,2018(2):121-125.   
+[27] PALLOTTA N, VINCOLI G, MONTESANI C, et al. Small intestine contrast ultrasonography (SICUS） for the detection of small bowel complications in crohn's disease: a prospective comparative study versus intraoperative findings[J]. Inflamm Bowel Dis, 2012,18(1):74-84.   
+[28] KRATZER W, von TIRPITZ C, MASON R, et al. Contrast-enhanced power Doppler sonography of the intestinal wall in the differentiation of hypervascularized and hypovascularized intestinal obstructions in patients with Crohn's disease[J].JUltrasound Med,2002,21(2):149-157,158-159.   
+[29] RIPOLLES T, RAUSELL N,PAREDES JM, et al. Effectiveness of contrast-enhanced ultrasound for characterisation of intestinalinflammation in Crohn's disease: a comparison with surgical histopathology analysis[J]. J Crohns Colitis, 2013,7(2):120-128.   
+[30] CHEN Y J, MAO R, MD XL, et al. Real-Time Shear Wave Ultrasound Elastography Differentiates Fibrotic from Inflammatory Strictures in Patients with Crohn's Disease[J]. Inflamm Bowel Dis, 2018,24(10):2183-2190.   
+[31] DILLMAN JR, STIDHAM R W, HIGGINS P D,et al. US elastography-derived shear wave velocity helps distinguish acutely inflamed from fibrotic bowel in a Crohn disease animal model[J]. Radiology, 2013,267(3):757-766.   
+[32] LOUIS E, ANCION G, COLARD A, et al. Noninvasive assessment of Crohn's disease intestinal lesions with (18)F-FDG PET/CT[J]. J Nucl Med,2007,48(7):1053-1059.   
+[33] BETTENWORTHD, REUTER S, HERMANN S,et al. Translational 18F-FDG PET/CT imaging to monitor lesion activity in intestinal inflammation[J]. JNucl Med, 2013,54(5):748-755.   
+[34] BETTENWORTH D,NOWACKI T M, CORDES F, et al. Assessment of stricturing Crohn's disease: Current clinical practice and future avenues[J].World J Gastroenterol, 2O16,22(3):1008- 1016.   
+[35] JACENE H A, GINSBURG P,KWON J, et al. Prediction of the need for surgical intervention in obstructive Crohn's disease by 18F-FDG PET/CT[J]. J Nucl Med,2009,50(11):1751-1759.   
+[36] LENZE F, WESSLING J, BREMER J, et al. Detection and differentiation of inflammatory versus fibromatous Crohn's diseasestrictures: prospective comparison of 18F-FDG-PET/CT,MRenteroclysis,and transabdominal ultrasound versus endoscopic/histologic evaluation[J]. Inflamm Bowel Dis,2012,18(12):2252-2260.

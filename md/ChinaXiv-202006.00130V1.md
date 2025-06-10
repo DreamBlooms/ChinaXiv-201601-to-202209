@@ -1,0 +1,235 @@
+# 疏勒河干流径流变化特征研究
+
+孙栋元²，齐广平’，马彦麟，鄢继选’，武兰珍’，康燕霞’(1甘肃农业大学水利水电工程学院,甘肃 兰州730070；2 甘肃省水利科学研究院,甘肃 兰州 730000)
+
+摘要：选取疏勒河干流昌马堡、潘家庄和双塔堡水库站多年实测月、年天然径流作为数据资料，利用线性倾向、Mann-Kendall等方法，研究干流径流量年、年内、年际、季节变化和突变特征。结果表明：1956—2016年干流年径流呈现昌马堡站 $\left[ 1 . 0 7 5 \times 1 0 ^ { 8 } { \mathrm { ~ m } } ^ { 3 } \cdot \left( 1 0 { \mathrm { ~ a } } \right) ^ { - 1 } \right] >$ 双塔堡水库站 ${ \left[ 0 . 2 5 3 \times \right. }$ $1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - ~ } 1 } \big ] >$ 潘家庄站 $\left[ 0 . 1 2 6 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 } \cdot \left( 1 0 \mathrm { ~ a } \right) ^ { - 1 } \right]$ 的线性倾向率，且呈现增加变化趋势；径流年内分配极不均匀，径流主要集中于5\~9月，占年径流量的 $5 0 \%$ 以上；径流年际变化均低于和高于多年平均值分别在 $7 0 \sim 9 0 \$ 年代和21世纪 $0 0 \sim 0 1$ 年代；径流不同站点和不同年代平均径流距平呈现差异性季节变化特征，夏季径流量增加对各站点年径流量影响最大;径流突变时间和特征因不同站点呈现不同变化特征,3个水文站突变点分别为1998年、2012年和2006年。研究结果对促进区域水资源综合管理与科学调配，指导区域中长期水资源综合规划与社会经济发展提供科学依据和技术支撑。
+
+关键 词：径流；变化特征；疏勒河干流文章编号： $1 0 0 0 - 6 0 6 0 ( 2 0 2 0 ) 0 3 - 0 0 0 1 - 0 1 ( 0 0 0 1 \sim 0 0 0 7 )$
+
+水资源是干旱内陆河流域社会经济发展的决定性因素，同时是维系流域生态系统与生态安全的关键要素[1-3]。径流作为水资源的重要组成部分和存在形式，是地表水循环的重要环节和水量平衡的基本要素，更是社会经济发展用水的最主要来源,分析其变化特征有助于深入了解地表水资源变化规律，同时为流域水资源综合管理、合理开发和保护生态环境提供科学依据[4-8]。径流受自然和人为双重因素共同影响，能刻画影响因素对区域水文循环和水资源状况的影响，因此，径流量变化呈现一定周期性和随机性等[9-19]。针对干旱内陆河流域径流特点，分析其变化规律与特征，揭示流域水资源变化规律，从而为流域水资源高效管理和科学调配提供参考和技术支撑。
+
+疏勒河流域由于特殊地理位置，在我国西部生态安全和经济发展中具有十分重要的战略地位[19-20]。因不合理水资源利用,使得生态环境呈现不同程度恶化，同时受人类活动不断影响，从而限制和影响区域经济社会可持续发展[1-3]。尽管不同学者针对疏勒河流域径流从不同方面开展了相关研究,取得了相关一些成果。丁宏伟等[21-24]对疏勒河流域出山径流变化特征、趋势、径流对气候变化的响应等方面进行了分析研究;王小玲[25]对疏勒河昌马堡站年径流长期预报模型进行了研究;常继青等[26]对甘肃黄河流域与疏勒河流域降水径流变化特性进行了对比分析研究;徐浩杰等[27-28]对疏勒河上游地表径流、基流变化及其影响因素进行了分析研究；李培都等[29]根据1972—2011 年疏勒河年径流量的实测数据，对疏勒河年径流量变化特征进行了分析及模拟。然而针对疏勒河流域径流系统性方面研究还仍相对欠缺，尤其在强人类活动影响下流域径流时序变化特征研究还相对薄弱。因此，针对疏勒河流域研究背景，开展流域干流径流变化特征研究,掌握流域水资源动态变化规律，为流域水资源综合利用提供基础支撑。本文选取疏勒河流域干流昌马堡、潘家庄和双塔堡水库站径流作为数据资料，采用线性倾向和Mann-Kendall等方法，研究径流年内、年际、趋势、突变等变化特征，从而为流域水资源综合管理和科学配置提供科学依据。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+疏勒河流域作为干旱典型内陆河流域之一，位于$9 2 ^ { \circ } 1 1 ^ { \prime } \sim 9 8 ^ { \circ } 3 0 ^ { \prime } \mathrm { E } , 3 8 ^ { \circ } 0 0 ^ { \prime } \sim 4 2 ^ { \circ } 4 8 ^ { \prime } \mathrm { N }$ ，流域干流全长$6 7 0 ~ \mathrm { k m }$ 、面积 $4 . 1 3 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ 、多年平均气温6.98$\sim 9$ ： $8 2 ~ \mathrm { ^ { \circ } C }$ 、年降水量 $4 0 . 2 \sim 5 7 . 5 ~ \mathrm { m m }$ 、年蒸发量分为 $2 5 7 7 . 4 \sim 2 6 5 3 . 2 \ \mathrm { m m }$ ,降水集中在6\~9月，占全年降水量的61%[19,29-31] 。
+
+# 1.2 资料来源与处理
+
+选取疏勒河流域干流昌马堡、潘家庄和双塔堡水库3个水文站1956—2016年逐月、逐年径流数据作为基础资料，所有数据均为实测天然径流量，来源于甘肃省水文水资源局。根据研究需要，50、60、70、80、90、00和01年代分别对应1956—1959年、1960—1969 年、1970—1979 年、1980—1989 年、1990—1999 年、2000—2009 年和 2010—2016 年。3$\sim 5$ 月、6\~8月 $\ 、 9 \sim 1 1$ 月和12～2月分别划分为春季、夏季、秋季和冬季。
+
+# 1.3 研究方法
+
+线性倾向利用建立 $y = a x + b$ 的一元线性回归方程来反映其线性变化趋势与倾向率， $a > 0$ ，表明径流呈上升趋势， $a < 0$ ,径流呈下降趋势，10a为径流倾向率[31-36]。滑动平均法利用平滑值来反映变化趋势,通过平均曲线图来反映上升或下降变化波动趋势[31-32]。累积距平法利用累积距平曲线反映变化趋势，若累积距平曲线显示上升趋势,则径流距平值增加，若累积距平曲线显示下降趋势，则径流距平值减少,同时可判断发生突变时间[4,31-35]。Mann-Kendall检验法根据一时间序列构造一秩序列，计算其均值和方差，同时在时间序列随机独立情况下确定统计值Uf，根据 $U f k > 0$ 或 $< 0$ ,判断序列上升或下降趋势，同时将该方法引用到反时间序列中，得到统计值Ubk,若Ufk 和Ubk 曲线交点位于 $U _ { 0 . 0 5 } = \pm$ （204号1.96信度线之间，则交点对应时间为突变点，该方法已广泛应用于水文和气象方面的研究[3,33-38] 。
+
+# 2结果与分析
+
+# 2.1 径流年变化特征
+
+疏勒河干流3个水文站多年平均径流量分别为
+
+$9 . 9 1 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 } \ . 2 . 7 9 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 和 $3 . 1 1 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 。昌马堡站年径流量最大和最小值分别为2016年的$1 7 . 2 9 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 和1956年的 $4 . 1 3 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,两者相差 $1 3 . 1 6 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ,其比值为4.19。潘家庄站年径流量最大值为2016 年的 $4 . 6 1 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,最小值为1992年的 $1 . 6 8 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,相差 $2 . 9 3 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 }$ ,极值比为2.74。双塔堡水库站年径流量最大值为2016年的$5 . 6 4 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,最小值为1978 年的 $1 . 8 8 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,相差 $3 . 7 6 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,极值比为3.03。由图 $^ \mathrm { 1 a , 1 b }$ 和1c可知，昌马堡站、潘家庄站和双塔堡水库站径流量均呈现不同程度增加趋势,线性倾向方程分别为 $y =$ $0 . \ 1 \ 0 7 5 x + 6 . \ 5 7 9 \ 9 \ . y = 0 . \ 0 1 2 \ 6 x + 2 . \ 4 1 8 \ 7$ 和 $y =$ $0 . 0 \ 2 5 3 x + 2 . 4 \ 2 4 7$ ,年均径流量分别以 $1 . 0 7 5 \times 1 0 ^ { 8 }$ $\mathrm { ~ m ~ } ^ { 3 } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \cdot 0 . 1 2 6 \times 1 0 ^ { 8 } \mathrm { ~ m ~ } ^ { 3 } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 }$ 和0.253$\times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 } \cdot ( 1 0 \mathrm { ~ a } ) ^ { - 1 }$ 的速率增加,61a、58a 和61 a内分别增加了 $6 . 5 6 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 } \setminus 0 . 7 3 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 和1.54$\times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 }$ 。从三站5a滑动平均曲线（图 $^ \mathrm { 1 a , 1 b }$ 和1c)可以看出，昌马堡站年均径流量呈现不同增减变化趋势，出现不同上升下降过程变化，潘家庄站呈现缓慢减小增加减小波动变化趋势，呈现下降一上升变化过程，双塔堡水库站呈现不同减增变化趋势，出现不同下降上升过程变化。由图1d可知，昌马堡站1956—1998 年呈现下降趋势,1999—2016 年呈现上升趋势;潘家庄站1959—1976 年和1982—1992年呈下降变化趋势，1977—1981 年和1993—2016年呈上升变化趋势;双塔堡水库站1956—2000 年呈下降趋势,2001—2016 年呈上升趋势。
+
+总体上，疏勒河干流年径流量呈现昌马堡站（204 $\left[ 1 . \ 0 7 5 \ \times \ 1 0 ^ { 8 } \ \mathrm { ~ m } ^ { 3 } \ \cdot \ \left( \ 1 0 \ \mathrm { ~ a ~ } \right) ^ { \ - 1 } \ \right] \ >$ 双塔堡水库站（20 $\left[ 0 . 2 5 3 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 } \cdot \left( 1 0 \mathrm { ~ a } \right) ^ { - 1 } \right] >$ 潘家庄站 $[ 0 . 1 2 6 \times$ $1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 } \cdot ( 1 0 ~ \mathrm { a } ) ^ { - 1 } \big ]$ 的线性倾向率,且呈现增加变化趋势。
+
+# 2.2 径流年内变化特征
+
+疏勒河干流多年月平均径流量变化见图2。由图可知，径流量集中分布于5\~9月份，呈现极不均匀分配态势，昌马堡站分别占年径流量的 $6 . 3 5 \%$ ，$1 0 . 3 1 \%$ ， $2 4 . 1 2 \%$ ， $2 4 . 3 1 \%$ 和 $9 . 9 9 \%$ ，总共占年径流量的 $7 5 . 0 8 \%$ ;潘家庄站分别为 $6 . 1 5 \%$ ， $4 . 8 2 \%$ ，$1 5 . 4 5 \%$ ， $1 8 . 5 0 \%$ 和 $8 . 2 1 \%$ ，总共占 $5 3 . 1 3 \%$ ；双塔堡水库站分别为12. $04 \%$ ，13. $13 \%$ ， $1 4 . \ 2 5 \%$ ，$1 5 . 1 0 \%$ 和 $9 . 3 3 \%$ ，总共占 $6 3 . 8 5 \%$ 。总体上，疏勒河干流径流量主要集中于5\~9月份，占年径流量的$5 0 \%$ 以上。
+
+年径流量 -年平均径流量 年径流量 年平均径流量5a滑动平均 线性(年径流量) 5a滑动平均 线性(年径流量)20 5(a)昌马堡 y=0.0253x+2.3253 (b)潘家庄  
+15 。R²=0.2715 4u8OI/ 883 0  
+1 A8R 好喜型 2 y 8 gf5 1 y=0.012 6x+2.418 7R²=0.089 20 0000 2002 610222 2 2年份 年份。 年径流量 一年平均径流量 昌马堡 潘家庄 双塔堡水库5a滑动平均 线性(年径流量) / 106 (c)双塔堡水库 0 9 0  
+g0I/ 5 104 -203 -30-4021 =0.0253.x2.3253 -50 (d)累积距平-709年份 年份
+
+![](images/e2f2b72f37e7683f0dfe4969df184d2c3f5024839e7072c413805334905de615.jpg)  
+图1年径流量和径流量累积距平  
+Fig.1Yearly runoff and runoff cumulative anomaly   
+图2多年月平均径流量  
+Fig.2Average monthly runoff over many years
+
+# 2.3径流年际变化特征
+
+由表1可知，昌马堡站20世纪 $5 0 \sim 9 0 \$ 年代径流量相对较低，比多年平均值分别低 $2 . 1 8 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 、$1 . 8 8 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 } \cdot 1 . 0 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 } \cdot 0 . 6 8 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 和 $0 . 9 9 \times$ $1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ;21 世纪00 年代和01年代径流量相对较高，分别高 $2 . 8 1 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 和 $3 . 9 6 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,同时各个时段径流呈现不同极值变化特征。该站1956一1959年为特枯水年，1960—1969 年和1970—1979 年为偏枯水年,1980—1989 年和1990—1999 年为平水年,2000—2009 年和 2010—2016 年两个时段为特丰水年。
+
+由表2可知，潘家庄站 $7 0 \sim 9 0$ 年代径流量相对较低,比多年平均值分别低 $0 . 3 1 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 } . 0 . 3 0 \times$ $1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 和 $0 . 6 4 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,60 年代、21世纪00 年代和01年代径流量相对较高，分别高 $0 . \ 1 5 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 、$0 . 4 8 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 和 $0 . 8 7 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,同时各个时段径流呈现不同极值变化特征。该站1959—1969 年为平水年，1970—1979 年和1980—1989 年两个时段为偏枯水年，1990—1999 年为特枯水年,2000—2009年为偏丰水年，2010一2016 年为特丰水年。
+
+由表3可知，双塔堡水库站 $5 0 \sim 9 0 \$ 年代径流量相对较低，比多年平均值分别低 $0 . 3 1 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 } \setminus 0 . 2 5$ （204号$\times 1 0 ^ { 8 } \mathrm { \ m } ^ { 3 } \ 、 0 . 5 5 \times 1 0 ^ { 8 } \mathrm { \ m } ^ { 3 } \ 、 0 . 0 9 \times 1 0 ^ { 8 } \mathrm { \ m } ^ { 3 }$ 和 $0 . 5 9 \times 1 0 ^ { 8 }$ $\mathbf { m } ^ { 3 }$ ,21世纪00 年代和01年代径流量相对较高，分别高 $0 . 0 6 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 和 $1 . 3 3 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 。该站1956—1959 年、1960—1969 年和1980—1989 年三个时段为平水年,1970—1979 年和1990—1999 年两个时段为偏枯水年，2000—2009 年和 2010—2016 年两个时段为特丰水年。
+
+总体上，疏勒河干流径流年代际呈现 $7 0 \sim 9 0 \$ 年代径流量均低于多年平均值，21世纪 $0 0 \sim 0 1$ 年代径流量均高于多年平均值，不同时段径流呈现不同丰、平、枯状态。
+
+# 干旱区地理
+
+Tab.1Interannual runoff of Changmabao station   
+表2潘家庄站年际径流量  
+
+<html><body><table><tr><td>时间</td><td>平均／10m</td><td>最大／10m</td><td>年份</td><td>最小／10m</td><td>年份</td><td>比值</td><td>百分率／%</td><td>年景</td></tr><tr><td>1956-1959</td><td>7.37</td><td>10.81</td><td>1958</td><td>4.13</td><td>1956</td><td>2.62</td><td>- 25.63</td><td>特枯水年</td></tr><tr><td>1960—1969</td><td>8.03</td><td>10.02</td><td>1964</td><td>6.37</td><td>1968</td><td>1.57</td><td>-18.97</td><td>偏枯水年</td></tr><tr><td>1970—1979</td><td>8.91</td><td>13.99</td><td>1972</td><td>5.97</td><td>1976</td><td>2.34</td><td>-10.09</td><td>偏桔水年</td></tr><tr><td>1980-—1989</td><td>9.23</td><td>12.40</td><td>1981</td><td>7.28</td><td>1980</td><td>1.70</td><td>-6.86</td><td>平水年</td></tr><tr><td>1990—1999</td><td>8.92</td><td>12.85</td><td>1999</td><td>7.04</td><td>1990</td><td>1.83</td><td>-9.99</td><td>平水年</td></tr><tr><td>2000—2009</td><td>12.72</td><td>15.33</td><td>2007</td><td>9.86</td><td>2004</td><td>1.55</td><td>28.36</td><td>特丰水年</td></tr><tr><td>2010—2016</td><td>13.87</td><td>17.29</td><td>2016</td><td>10.26</td><td>2014</td><td>1.69</td><td>39.96</td><td>特丰水年</td></tr><tr><td>1956—2016</td><td>9.91</td><td>17.29</td><td>2016</td><td>4.13</td><td>1956</td><td>4.19</td><td></td><td></td></tr></table></body></html>
+
+表1昌马堡站年际径流量  
+表3双塔堡水库站年际径流量  
+
+<html><body><table><tr><td>时间</td><td>平均／10m</td><td>最大／10m</td><td>年份</td><td>最小／10m</td><td>年份</td><td>比值</td><td>百分率／%</td><td>年景</td></tr><tr><td>1959-1969</td><td>2.94</td><td>3.58</td><td>1964</td><td>2.44</td><td>1965</td><td>1.47</td><td>5.38</td><td>平水年</td></tr><tr><td>1970—1979</td><td>2.48</td><td>3.32</td><td>1972</td><td>1.78</td><td>1976</td><td>1.87</td><td>- 11.11</td><td>偏枯水年</td></tr><tr><td>1980—1989</td><td>2.49</td><td>4.17</td><td>1981</td><td>1.77</td><td>1988</td><td>2.36</td><td>- 10.75</td><td>偏枯水年</td></tr><tr><td>1990- -1999</td><td>2.15</td><td>3.05</td><td>1999</td><td>1.68</td><td>1992</td><td>1.82</td><td>- 22.94</td><td>特枯水年</td></tr><tr><td>2000- -2009</td><td>3.27</td><td>4.09</td><td>2007</td><td>2.50</td><td>2004</td><td>1.64</td><td>17.20</td><td>偏丰水年</td></tr><tr><td>2010—2016</td><td>3.66</td><td>4.61</td><td>2016</td><td>3.11</td><td>2011</td><td>1.48</td><td>31.18</td><td>特丰水年</td></tr><tr><td>1959- -2016</td><td>2.79</td><td>4.61</td><td>2016</td><td>1.68</td><td>1992</td><td>2.74</td><td></td><td></td></tr></table></body></html>
+
+Tab.2Interannual runof of Panjiazhuang station   
+Tab.3Interannual runoff of Shuangtabao reservoir station   
+
+<html><body><table><tr><td>时间</td><td>平均／10m</td><td>最大／10m</td><td>年份</td><td>最小／10m</td><td>年份</td><td>比值</td><td>百分率／%</td><td>年景</td></tr><tr><td>1956-1959</td><td>2.80</td><td>3.50</td><td>1958</td><td>2.26</td><td>1956</td><td>1.55</td><td>-9.97</td><td>平水年</td></tr><tr><td>1960-1969</td><td>2.86</td><td>3.33</td><td>1961</td><td>2.34</td><td>1965</td><td>1.42</td><td>-8.04</td><td>平水年</td></tr><tr><td>1970—1979</td><td>2.56</td><td>3.70</td><td>1972</td><td>1.88</td><td>1978</td><td>1.97</td><td>-17.68</td><td>偏枯水年</td></tr><tr><td>1980—1989</td><td>3.02</td><td>5.65</td><td>1981</td><td>2.12</td><td>1980</td><td>2.67</td><td>-2.89</td><td>平水年</td></tr><tr><td>1990—1999</td><td>2.52</td><td>3.16</td><td>1999</td><td>2.24</td><td>1991</td><td>1.41</td><td>-18.97</td><td>偏枯水年</td></tr><tr><td>2000—2009</td><td>3.78</td><td>4.63</td><td>2002</td><td>3.03</td><td>2000</td><td>1.53</td><td>21.54</td><td>特丰水年</td></tr><tr><td>2010—2016</td><td>4.44</td><td>5.64</td><td>2016</td><td>3.93</td><td>2011</td><td>1.44</td><td>42.77</td><td>特丰水年</td></tr><tr><td>1956-2016</td><td>3.11</td><td>5.64</td><td>2016</td><td>1.88</td><td>1978</td><td>3.03</td><td></td><td></td></tr></table></body></html>
+
+# 2.4径流季节变化特征
+
+2.4.1昌马堡站由图3和表4可知，昌马堡站四季年径流量均呈现增加变化趋势，但增加速率各季略有差异。夏季增加速率最高，1956—2016年增加$3 . 5 3 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 }$ ,线性增加幅度 $0 . 5 7 8 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ·（10a）-1;秋季次之，增加 $1 . 5 9 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,增加幅度0.26$\times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 }$ ;冬季增加 $0 . 7 4 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,增加幅度 $0 . 1 2 1 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 } \ \cdot \ ( \mathrm { ~ 1 0 ~ a ~ } ) \ ^ { - 1 }$ ；春季增加最小为$0 . 6 9 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,增加幅度 $0 . 1 1 3 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 } \cdot \left( 1 0 \mathrm { ~ a } \right) ^ { - 1 }$ 说明夏季径流量增加对该站年径流量影响最大。
+
+表4可知,春季：距平值 $5 0 \sim 7 0 \$ 和90年代为负，80 年代和21世纪 $0 0 \sim 0 1$ 年代为正；50 年代最小,比年均小 $0 . 5 3 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ;00 年代最大,比年均大$0 . 4 2 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 。夏季： $5 0 \sim 9 0 \$ 年代为负,21 世纪00～01年代为正;50 年代最小,比年均小 $1 . 1 9 \times 1 0 ^ { 8 }$ $\mathrm { m } ^ { 3 } ; 0 1$ 年代最大,比年均大 $2 . 4 4 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 }$ 。秋季：$5 0 \sim 9 0 \$ 年代为负,21世纪 $0 0 \sim 0 1$ 年代为正;50 年代最小,比年均小 $0 . 5 4 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ;01 年代最大,比年均大 $0 . 9 0 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 。冬季： $5 0 \sim 9 0 \$ 年代为负,21 世纪00～01年代为正;50年代最小，比年均小 $0 . 2 9 \times$ $1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ;01 年代最大,比年均大 $0 . 3 9 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ C （204
+
+3.4.2潘家庄站由图4和表4可知，潘家庄站夏季和秋季年径流量呈现增加趋势，但各季增加速率略有差异，春季径流量基本与平均径流量持平，冬季
+
+o一春季径流 春季多年平均径流 o一夏季径流 夏季多年平均径流线性趋势 线性趋势3.0 (a)春季 12 (b)夏季  
+220150 gOI/ 18 64 8 H0.598 y=0.0113x-20.989 2 y=0.057 8x-109.030.0 09965 7961 8961 161 0861 986[ 7661 866I 4000 2000 9100 9965 7961 8961 61 086I 9861 7666 8661 4400 2000 9107年份 年份o一秋季径流 秋季多年平均径流 o一冬季径流 冬季多年平均径流线性趋势 线性趋势5.0 (c)秋季 1.6 (d)冬季  
+/ 4.0 y=0.026x-49.794 1O/ 1.41.23.0 1.02.0 8 T8 0 Y88 Y 0.4 T y=0.012 1x-23.2271.0 86 0.20.0 0.09966 7961 8961 161 086I 9861 7661 8661 4000 2000 9400 1965 7961 896I 161 0861 9861 7665 866I 4000 2000 9400年份 年份
+
+表4径流季节距平变化/ $\mathbf { 1 0 } ^ { 8 } \mathbf { m } ^ { 3 }$   
+Tab.4Seasonal anomaly variation of runoff / $\mathbf { 1 0 ^ { 8 } \ m ^ { 3 } }$   
+
+<html><body><table><tr><td rowspan="2">年代</td><td colspan="3">春季</td><td colspan="3">夏季</td><td colspan="3">秋季</td><td colspan="3">冬季</td></tr><tr><td>昌马堡</td><td>潘家庄</td><td>双塔堡 水库</td><td>昌马堡</td><td>潘家庄</td><td>双塔堡 水库</td><td>昌马堡</td><td>潘家庄</td><td>双塔堡 水库</td><td>昌马堡</td><td>潘家庄</td><td>双塔堡 水库</td></tr><tr><td>50年代</td><td>-0.53</td><td>1</td><td>0.15</td><td>-1.19</td><td>1</td><td>-0.31</td><td>-0.54</td><td>1</td><td>0.03</td><td>-0.29</td><td>1</td><td>-0.18</td></tr><tr><td>60年代</td><td>-0.13</td><td>0.15</td><td>0.05</td><td>-1.03</td><td>-0.18</td><td>-0.10</td><td>-0.48</td><td>0.01</td><td>0.02</td><td>-0.24</td><td>0.16</td><td>-0.22</td></tr><tr><td>70年代</td><td>-0.10</td><td>-0.06</td><td>-0.04</td><td>-0.60</td><td>-0.22</td><td>-0.22</td><td>-0.19</td><td>-0.11</td><td>-0.06</td><td>-0.10</td><td>0.07</td><td>-0.24</td></tr><tr><td>80年代</td><td>0.01</td><td>-0.06</td><td>-0.04</td><td>-0.40</td><td>-0.17</td><td>-0.13</td><td>-0.23</td><td>-0.13</td><td>-0.08</td><td>-0.06</td><td>0.06</td><td>0.15</td></tr><tr><td>90年代</td><td>-0.14</td><td>-0.23</td><td>-0.17</td><td>-0.55</td><td>-0.08</td><td>-0.19</td><td>-0.21</td><td>-0.24</td><td>-0.35</td><td>-0.08</td><td>-0.09</td><td>0.12</td></tr><tr><td>00年代</td><td>0.42</td><td>-0.02</td><td>-0.10</td><td>1.35</td><td>0.35</td><td>0.37</td><td>0.70</td><td>0.28</td><td>0.24</td><td>0.32</td><td>-0.13</td><td>0.16</td></tr><tr><td>01年代</td><td>0.20</td><td>0.30</td><td>0.33</td><td>2.44</td><td>0.45</td><td>0.55</td><td>0.90</td><td>0.26</td><td>0.31</td><td>0.39</td><td>-0.13</td><td>0.14</td></tr></table></body></html>
+
+年径流量有减小趋势。夏季年径流量增加速率最高,1959—2016 年增加 $0 . 7 7 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 }$ ,增加幅度$0 . 1 3 3 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 } \cdot ( 1 0 \mathrm { ~ a } ) ^ { - 1 }$ ;秋季增加 $0 . 3 5 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ，增加幅度 $0 . 0 6 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 } \ \cdot \ ( 1 0 \ \mathrm { a } ) \ ^ { - 1 }$ ;冬季平均年径流量减小 $0 . 3 9 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,减小幅度 $- 0 . 0 6 8 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ： $( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 }$ ,说明夏季径流量增加对该站年径流量影响最大。
+
+表4可知，春季：距平值70年代 $\sim 2 1$ 世纪00年代为负,60 年代和01年代为正;90 年代最小，比年均小 $0 . 2 3 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 } ;$ ：01年代最大，比年均大0.30$\times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 }$ 。夏季： $6 0 \sim 9 0 \$ 年代为负, $0 0 \sim 0 1$ 年代为正;70 年代最小,比年均小 $0 . 2 2 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ;01年代最大,比年均大 $0 . 4 5 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 。秋季： $7 0 \sim 9 0$ 年代为负,60年代和 $0 0 \sim 0 1$ 年代为正;90 年代最小，比年均小 $ { \mathsf { \Omega } } \cdot 2 4 \times 1 0 ^ { 8 }  { \mathrm { ~ m ~ } } ^ { 3 }$ ;00 年代最大,比年均大 $0 . 2 8 \times$ $1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 。冬季： $9 0 \sim 0 1$ 年代为负， $6 0 \sim 8 0$ 年代为正;00 年代和01年代最小,比年均小 $0 . 1 3 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ;50年代最大,比年均大 $0 . 1 6 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 。
+
+2.4.3双塔堡水库站由图5和表4可知，双塔堡水库站除了春季径流量基本与平均径流持平，其他
+
+o一春季径流 春季多年平均径流 o一夏季径流 夏季多年平均径流线性趋势 线性趋势1.4 (a)春季 2.5 (b)夏季  
+/ 1.2 I/ 2.01.00.8 1.50.6 8 98 1.00.4 8 80080.2 y=0.000 1x+0.525 4 0.5 y=0.013 3x-25.3980.0 0.06966 1965 161 ∠∠61 £865 686I 9665 4001 2007 3005 6100 1165 1965 [161 ∠61 8861 6861 1665 2001 2000 3005 6100年份 年份。 一秋季径流 秋季多年平均径流 2 一 冬季径流 冬季多年平均径流线性趋势 线性趋势1.6 (c)秋季 1.0 (d)冬季  
+1/ 141 / 0.8 y=-0.006 8x+13.94510860 81 6040.2 8 8 8 88 8 0.20.0 0.06165 1965 1161 ∠∠61 8865 6861 1665 4000 2007 2055 6100 6165 1965 161 ∠61 9865 6861 1665 4001 2007 2055 6000年份 年份
+
+![](images/0bb867b2825186939f37d363f7860b1d4d287075de1b40401b18b02ac197eef3.jpg)  
+图4潘家庄站季节径流量变化  
+Fig.4Seasonal change of runoff in Panjiazhuang Station   
+图5双塔堡水库站季节径流量变化  
+Fig.5Seasonal change of runoff in Shuangtabao Reservoir Station
+
+三个季节均呈现增加变化趋势，但各季增加速率略有差异。夏季年径流量增加速率最高，1956一2016年增加 $0 . 7 6 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,线性增加幅度 $0 . 1 2 5 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ： $\left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 }$ ;冬季次之,增加 $0 . 5 3 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,增加幅度 $0 . 0 8 7 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 } \cdot ( 1 0 \mathrm { ~ a } ) ^ { - 1 }$ ;秋季增加 $0 . 2 4 \times 1 0 ^ { 8 }$ $\mathbf { m } ^ { 3 }$ ,增加幅度 $0 . \ 0 3 9 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 } \cdot ( 1 0 \ \mathrm { a } ) ^ { \ - 1 }$ ,说明夏季径流量增加对该站年径流量影响最大。
+
+表4可知，春季：距平值 $7 0 \sim 0 0$ 年代为负， $5 0 \sim$ 60 年代和01年代为正；90年代最小，比年均小$0 . 1 7 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ;01 年代最大，比年均大 $0 . 3 3 \times 1 0 ^ { 8 }$ $\mathbf { m } ^ { 3 }$ 。夏季： $5 0 \sim 9 0 \$ 年代为负, $0 0 \sim 0 1$ 年代为负；50年代最小,比年均小 $0 . 3 1 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ;01 年代最大,比年均大 $0 . 5 5 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 }$ 。秋季： $7 0 \sim 9 0$ 年代为负，$5 0 \sim 6 0 \$ 年代和 $0 0 \sim 0 1$ 年代为正；90 年代最小，比年均小 $0 . 3 5 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 } ;$ 01 年代最大,比年均大 $0 . 3 1 \times$ $1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 。冬季： $5 0 \sim 7 0 \$ 年代为负， $8 0 \sim 0 1$ 年代为正;70 年代最小,比年均小 $0 . 2 4 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ;00 年代最大,比年均大 $0 . 1 6 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 。
+
+总体上，干流径流季节变化因不同站点呈现不同变化特征，各站除夏季径流量增加对年径流量影响最大，其他季节影响相对较小，同时不同站点径流距平呈现各自变化规律。
+
+# 2.5 径流突变特征
+
+利用M-K法对1956—2016年昌马堡站、潘家庄站和双塔堡水库站年平均径流量时间序列进行突变检测,结果见图6。从图6a可知，昌马堡站径流量在20 世纪 $5 0 \sim 2 1$ 世纪01年代Uf均为正值，平均径流量呈现增加趋势，特别是19世纪90 年代后期 $\sim 2 1$ 世纪01年代，径流增加趋势显著，超过 $9 9 \%$ 显著性水平( $U _ { 0 . 0 1 } = 2 . 5 6 )$ 。Ufk 和Ubk 相交于1998年，且交点在 $\pm 1 . 9 6$ 临界线之间，说明该站1998 年为突变点，因此，划分为1956—1998和1999—2016两个时段。
+
+从图6b可知，潘家庄站径流量在20世纪60 年代 $\sim 2 1$ 世纪01年代中期Uf为负值，平均径流量呈现减小趋势，特别是19世纪70年代中期 $\sim 0 0$ 年代中期,径流减小趋势显著,超过 $9 9 \%$ 显著性水平$\mathit { ^ { \prime } U _ { 0 . 0 1 } = 2 . 5 6 }$ );21世纪01年代Uf为正值，平均径流量呈现上升趋势。Ufk和Ubk相交于2012年，且交点在 $\pm 1 . 9 6$ 临界线之间，说明该站2012年为突变点，因此，划分为1959—2012和2013—2016 两个时段。
+
+从图6c可知，双塔堡水库站径流量在20世纪
+
+![](images/bbf6a39e953cc5a3f6d05e1be139f592375beb7d87c2c31b1e7d3d3428cd73a3.jpg)  
+图6疏勒河干流年平均径流突变检验 Fig.6Annual average runoff M-K mutation test of mainstream in Shule River
+
+50年代 $\sim 6 0$ 年代中期至之后Uf呈现正值转变为负值，平均径流量呈现增加减少变化趋势，至21世纪00年代中期Uf由负值转变为正值并逐渐增大，特别是01年代，径流量增加趋势显著，超过 $9 9 \%$ 显著性水平( $U _ { 0 . 0 1 } = 2 . 5 6$ ）。Ufk和Ubk相交于2006年，且交点在 $\pm 1 . 9 6$ 临界线之间，说明该站2006 年为突变点，因此，划分为1956—2006和2007—2016两个时段。
+
+# 3结论
+
+（1）疏勒河干流3站多年平均径流量分别为$9 . 9 1 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 } \ . 2 . 7 9 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 和 $3 . 1 1 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,年均径流量分别以 $1 . 0 7 5 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 } \cdot ( 1 0 ~ \mathrm { a } ) ^ { - 1 } \cdot 0 . 1 2 6 \times$
+
+$1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 } \cdot ( 1 0 \mathrm { ~ a } ) ^ { - 1 }$ 和 $0 . 2 5 3 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 } \cdot ( 1 0 ~ \mathrm { a } ) ^ { - 1 }$ 速率增加，在1956—2016 年内分别增加了 $6 . 5 6 \times 1 0 ^ { 8 }$ $\mathrm { m } ^ { 3 } \ 、 0 . 7 3 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 和 $1 . 5 4 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 。总体上,疏勒河干流年径流量呈现增加趋势。
+
+（2）疏勒河干流径流年内分配极不均匀，径流主要集中于5\~9月份，占年径流量的 $5 0 \%$ 以上。
+
+昌马堡站20 世纪 $5 0 \sim 9 0 \$ 年代径流量相对较低,21世纪00年代和01年代径流量相对较高；潘家庄站 $7 0 \sim 9 0 \$ 年代径流量相对较低,20世纪60 年代、21世纪00年代和01年代径流量相对较高；双塔堡水库站 $5 0 \sim 9 0 \$ 年代径流量相对较低,21世纪00年代和01年代径流量相对较高，三站不同时段径流呈现不同丰、平、枯状态。总体上，疏勒河干流径流量年代际呈现 $7 0 \sim 9 0 \$ 年代径流量均低于多年平均值,21世纪 $0 0 \sim 0 1$ 年代径流量均高于多年平均值，不同时段径流呈现不同丰、平、枯状态。
+
+(3）昌马堡站春、夏、秋、冬四个季节年径流量均表现增加趋势，分别以 $0 . 1 1 3 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 } \cdot 1 0 \mathrm { ~ a ~ } ^ { - 1 } \cdot 0 .$ 号$5 7 8 \times 1 0 ^ { 8 } \mathrm { ~ m ~ } ^ { 3 } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \mathrm { ~ , ~ } 0 . 2 6 \times 1 0 ^ { 8 } \mathrm { ~ m ~ } ^ { 3 } \cdot ( 1 0 \mathrm { ~ a } ) ^ { - 1 } \frac { 3 } { 3 }$ 和$0 . 1 2 1 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 } \cdot ( 1 0 \mathrm { ~ a } ) ^ { - 1 }$ 速率增加;潘家庄站夏季和秋季年径流量呈现增加趋势，冬季呈现减小趋势，春季与平均径流持平；双塔堡水库站夏、秋、冬三个季节径流量均表现增加趋势，春季与平均径流持平。总体上，疏勒河干流不同站点均呈现夏季径流量增加对年径流量贡献最大，其他季节各站点呈现不同增加减少变化特征，同时不同季节不同年代平均径流量距平呈现不同变化特征，
+
+通过M-K法检测结果显示，疏勒河干流昌马堡站、潘家庄站和双塔堡水库站年平均径流量呈现不同变化趋势，表现不同程度突变，呈现不同时间突变点。昌马堡站、潘家庄站和双塔堡水库站突变点分别为1998年、2012年和2006年。
+
+# 4讨论
+
+本研究从疏勒河干流径流量年变化、年内变化、年际变化、季节变化和突变特征等方面进行了系统分析研究，研究序列相对较长，区别于以往一两个方面研究，以往研究多集中于出山口昌马堡站径流变化特征研究[20-24,26-27],而对潘家庄站和双塔堡水库站研究相对较少。三个站年径流量呈现增加趋势，这与降水有直接关系外，还与冰雪融水补给有关系，研究结果与李培都等[28]研究基本一致。三个站年平均径流量呈现不同程度突变和不同时间突变点，这与研究时间序列、气候变化和人类活动有很大关系，昌马堡站位于出山口，受人类活动影响相对较少，气候变化成为关键影响因素，而潘家庄站和双塔堡水库站受人类活动和气候变化双重影响。研究结果对促进区域水资源综合管理与科学调配，指导区域中长期水资源综合规划与社会经济发展具有重要实际参考借鉴意义。
+
+由于干旱内陆河流域特殊的地理环境以及水资源系统的复杂性，径流受气候变化、人类活动、地形地貌等因素综合影响，其变化特征时空差异很大，因此，在后续研究中应进一步加强变化环境下（气候变化和人类活动)区域径流变化特征与预测研究，定量刻画人类活动与气候变化对径流影响程度，从而为科学调控区域水资源提供可借鉴依据。
+
+# 参考文献(References)
+
+[1］孙栋元,金彦兆,王启优，等.疏勒河中游绿洲生态环境需水时 空变化特征研究［J].环境科学学报，2016,36（7)：2664- 2676.［SUN Dongyuan,JIN Yanzhao,WANG Qiyou,et al. Study on temporal and spatial variation characteristics of eco-environmental water requirement in the middle reaches oasis of Shulehe River Basin[J].Acta Scientiae Circumstantiae,2016,36（7）:2664 - 2676.]
+
+[2］孙栋元,杨俊,胡想全,等.基于生态保护目标的疏勒河中游绿洲生态环境需水研究[J」.生态学报，2017，37（3）：1008-1020.[SUN Dongyuan,YANG Jun,HU Xiangquan,et al. Study oneco-environmental water requirement in the middle reaches oasis ofShulehe River Basin based on ecological protection target[J].ActaEcologica Sinica,2017,37(3） :1008-1020.]
+
+[3］孙栋元,胡想全,杨俊,等.疏勒河中游绿洲生态环境需水研究——I.方法与参数选取[J].干旱地区农业研究，2016,34(5）：222-226,248.［SUN Dongyuan,HU Xiangquan,YANGJun,et al.Eco-environmental water requirement in the middle rea-ches oasis of Shulehe River Basin:Calculation method and parameter[J].Agricultural Research in the Arid Areas,2016,34（5）：222 -226,248.]
+
+[4］李晓娟,张军龙,宋进喜,等.渭河陕西段径流量对经济用水的 响应[J].干旱区地理,2016,39（2）:265－274.[LI Xiaojuan, ZHANG Junlong,SONG Jinxi,et al.Response of runoff to economic water consumptions of the Weihe River in Shaanxi Province[J]. Arid Land Geography,2016,39(2）:265-274.]
+
+[5]TANGXL,LIJF,LVX,et al.Analysis of the characteristics of runoff in Manasi River Basin in the past 5O years[J].Procedia Environmental Sciences,2012,（13）:54-62.]
+
+[6］孙美平,李忠勤,姚晓军,等.近50a来乌鲁木齐河源区径流变化及其机理研究[J].干旱区地理，2012，35（3）：430-437.[SUNMeiping,LI Zhongqin,YAO Xiaojun,etal.Runoff variationand mechanism at headwaters of Urumqi River in recent 5O years[J].Arid Land Geography,2012,35(3）:430-437.]
+
+[7］张丽梅,赵广举，穆兴民，等.基于Budyko 假设的渭河径流变化归因识别[J].生态学报，2018，38（21）：7607－7617.[ZHANG Limei,ZHAO Guangju,MU Xingmin,etal.Atribution ofrunoff variation in the Wei River basin based on the Budyko hy-pothesis[J].Acta Ecologica Sinica，2018,38（21）：7607-7617.]
+
+[8］周海鹰,沈明希,陈杰,等.塔里木河流域60 a来天然径流变化 趋势分析[J].干旱区地理，2018，41（2）：221-229.［ZHOU Haiying,SHENGMingxi,CHENJie,etal.Trendsof natural runoffs in the TarimRiverBasin during the last 6O years[J].AridLand Geography,2018,41（2）:221-229.]
+
+[9] ZHANGQ,SINGHVP,SUNP,etal.Precipitation and streamflow changes in China:Changing patterns,causes and implications[J]. Journal of Hydrology,2011,410(3/4）:204-216.]
+
+[10］乔木，周生斌，卢磊.艾比湖流域年径流变化特征分析[J].水 土保持学报,2010,24(6）:236-239.[QIAO Mu,ZHOU Shengbin,LULei.Trends in runoff variations of the Ebinur Lake Basin during the last 48 years[J]. Journal of Soil and Water Conservation,2010,24(6):236-239.]
+
+[11］秦丽欢，周敬祥，李叙勇，等.密云水库上游径流变化趋势及影 响因素［J].生态学报，2018，38（6）：1941-1951.[QINLihuan,ZHOU Jingxiang,LI Shuyong,et al.Attribution analysis of changes in runoff in the upstream of the Miyun Reservoir[J].Acta Ecologica Sinica,2018,38(6) :1941-1951.]
+
+[12］侯钦磊，白红英，任园园，等.50a来渭河干流径流变化及其驱动力分析[J].资源科学，2011，33（8）：1505-1512.［H0UQinlei,BAI Hongying,REN Yuanyuan,et al.Analysis of variation inrunoff of the main stream of the Weihe River and related drivingforces over the last 50 years[J].Resources Science,2011,33（8）:1505 -1512.]
+
+[13］李鸿雁，田琪,王小军，等.嫩江流域径流时空演化规律分析[J].吉林大学学报（地球科学版），2014,44（4）：1282－1289.[LIHongyan,TIANQi,WANG Xiaojun,et al.Analysis on the lawsof spatial-temporal change of runoff in Nenjiang River Basin[J].Journal of Jilin University:Earth Science Edition,2014,44（4）：1282 -1289.]
+
+[14］曹辉，黄强，畅建霞，等.黑河径流时空演变规律分析[J].水资 源与水工程学报,2008,19（5）:69-72.［CAOHui,HUANG Qiang,Chang Jianxia,et al.Analysis on variation characteristics on the runoff series of the Heihe River[J].Journal of Water Resources&Water Engineering,2008,19(5）:69-72.]
+
+[15］李永格，李宗省，冯起.1956—2013年曹家湖流域径流深变化[J].中国沙漠,2018,38（1）:200 -209.[LI Yongge,LI Zongx-ing,FENGQi.Runoff depth in the Caojiahu Lake Basin of Gansu,China,during 1956-2013[J].Journal of Desert Research,2018,38(1):200 -209.]
+
+[16］程建忠，陆志翔，邹松兵，等.黑河干流上中游径流变化及其原 因分析［J].冰川冻土,2017,39（1）：123－129.［CHENG Jianzhong,LU Zhixiang,ZOU Songbing,et al.Variation of therunoff in the upper and middle reaches of the main Heihe River and its causes[J]. Journal of Glaciology and Geocryology,2017,39 (1):123-129.]
+
+[17］冯夏清.近50a大凌河流域径流变化特征分析[J].水文， 2017,37（3）:84-90.[FENGXiaqing.Characteristics of runoff variation in Dalinghe River Basin in recent 5O years[J].Journal of ChinaHydrology,2017,37(3）:84-90.]
+
+[18］田蕾，王随继.近60a来辽河流域径流量变化及其主控因素分析[J].水土保持研究,2018,25（1）：153-159.［TIANLei,WANG Suiji.Analysis of the runoff change and main influencingfactors in the Liaohe River Basin[J].Research of Soil andWaterConservation,2018,25（1）:153-159.]
+
+[19］孙栋元，胡想全，王忠静，等.疏勒河流域径流变化与预测研究[J].水利规划与设计,2019,32（9）：1－4，118.［SUNDongyuan,HU Xiangquan,WANG Zhongjing,etal.Study on runoffchange and prediction in Shule River Basin[J].Water ResourcesPlanning and Design,2019,32(9) :1-4,118.]
+
+[20］孙栋元，张云亮，葛成彦，等.疏勒河中游绿洲生态功能分区研究［J].中国农学通报,2016,32（21）：117-123.［SUNDongyuan,ZHANG Yunliang,GE Chengyan,etal.Ecological func-tion regionalization of middle reaches oasis of Shule River[J].Chinese Agricultural Science Bulletin,2016,32(21）:117-123.]
+
+[21］丁宏伟，魏余广，李爱军，等.疏勒河出山径流量变化特征及趋 势分析[J].干旱区研究,2001,18（3）:48-53.[DINGHongwei,WEIYuguang,LI Aijun,etal.Thechangecharacteristics and thetrend prediction of mountainous runoff in Shule River[J].Arid ZoneResearch,2001,18(3）:48-53.]
+
+[22］张鹏，张钰，罗颖，等.疏勒河出山口径流对上游气候变化的响应[J」.水资源与水工程学报，2013，24（5）：165－172.[ZHANGPeng,ZHANG Yu,LUO Ying,et al.Response of runoffat mountainous area of Shule River to climate change of upstream[J].Journal of Water Resources & Water Engineering,2O13,24(5):165 -172.]
+
+[23」李计生，胡兴林，黄维东，等.河西走廊疏勒河流域出山径流变 化规律及趋势预测[J].冰川冻土，2015，37（3）：803－810. [LI Jisheng,HU Xinglin,HUANGWeidong,et al.Variation and trend prediction of the mountain runoffs of the trunk streams of the ShuleRiver Basin,Hexi Corridor[J].Journal of Glaciology and Geocryology,2015,37（3）:803-810.]
+
+[24］杨春利，蓝永超，王宁练，等.1958—2015年疏勒河上游出山径流变化及其气候因素分析[J].地理科学，2017,37（12)：1894-1899.[YANG Chunli,LAN Yongchao,WANG Ninglian,et al.Mountainous runoff changes and climate factors analysis of theShule River Basin in 1958-2015[J].Scientia Geographica Sini-ca,2017,37(12):1894-1899.]
+
+[25］王小玲.疏勒河昌马堡站年径流长期预报模型研究[J].地下 水,2010,32(6）:150-153.[WANG Xiaoling.Study of long forecast model of annual flow on the Changmabao of the Shulehe River [J」.GroundWater,2010,32(6):150-153.」
+
+[26］常继青，牛最荣.甘肃黄河流域与疏勒河流域降水径流变化特 性对比分析[J].水文,2014,34（5）:94-96.[CHANG Jiqing, NIU Zuirong.Comparative analysis of precipitation and runoff change characteristics between Yellow River and Shulehe River in Gansu Province[J].Journal of China Hydrology，2014,34(5）:94 -96.]
+
+[27］徐浩杰，杨太保，张晓晓.近50a来疏勒河上游气候变化及其 对地表径流的影响[J].水土保持通报，2014，34（4）：39-45， 52.[XU Haojie,YANG Taibao,ZHANG Xiaoxiao. Climate change in upstream area of Shule River and its effects on runoff-yield in last50 years[J].Bulletin of Soil and Water Conservation,2014,34 (4) :39 -45,52.]
+
+[28］董薇薇，丁永建,魏霞.祁连山疏勒河上游基流变化及其影响 因素分析[J].冰川冻土，2014,36(3)：661-669.［DONGWeiwei,DINGYongjian,WEIXia.Variation of thebase flow and its causes in the upper reaches of the Shule River in the Qilian Mountains[J].Journal of Glaciology and Geocryology,2014,36 (3):661- 669.]
+
+[29］李培都，司建华，冯起，等.疏勒河年径流量变化特征分析及模 拟[J].水资源保护,2018,34（2）:52-60.[LIPeidu,SIJianhua,FENGQi,et al.Analysis and simulation on annual runoff variationcharacteristics of ShuleRiver[J].WaterResourcesProtection,2018,34(2):52-60.]
+
+[30］刘普幸，张克新，霍华丽，等.疏勒河中下游绿洲胡杨林土壤水 盐的空间变化特征与成因［J].自然资源学报，2012，27（6）： 942-952.[LIUPuxing,ZHANGKexin,HUOHuali,et al.Characteristics and causes of the spatial variations of soil water and salt content under Populuseuphratica Oliv.in the middle and lower reaches of the Shule River Basin［J].Journal of Natural Resources,2012,27(6):942-952.]
+
+[31」孙栋元，齐广平，鄢继选，等.疏勒河干流降水变化特征[J」.干 旱区研究,2020,37（2）:291-303.[SUNDongyuan,QI Guangping,YAN Jixuan,et al.Research on variation characteristics of precipitation in the mainstream of Shule River［J].Arid Zone Research,2020,37(2):291-303.]
+
+[32］商沙沙，廉丽妹，马婷，等.近54a中国西北地区气温和降水的时空变化特征[J].干旱区研究，2018，35（1）：68-76.[SHANG Shasha,LIAN Limei,MA Ting,etal. Spatiotemporal var-iation of temperature and precipitation in northwest China in recent54 years[J].Arid Zone Research,2018,35(1) :68-76.]
+
+[33］热孜宛古丽·麦麦提依明，杨建军，刘巍.艾比湖流域1957— 2013 年潜在蒸散、气温、降水变化特征分析[J].冰川冻土， 2016,38（1）:69-76.[MAIMAITIYIMINGReziwangguili,YANG Jianjun,LIUWei. Changing characteristics of potential evapotranspiration,air temperature and precipitation in Ebinur Lake Basin from 1957 to 2013[J]. Journal of Glaciology and Ceocryology, 2016,38(1) :69 -76.]
+
+[34］周唤唤,郭威.芜湖市1971—2015 年降水变化趋势及突变性分析[J].黄河水利职业技术学院学报,2018,30（1)：5－10.[ZHOUHuanhuan,GUOWei.Rainfall change trend and mutationanalysisin Wuhu from1971 to 2015[J].Journal of Yellow RiverConservancy Technical Institute,2018,30(1）:5-10.]
+
+[35］常周梅,胡文博,张丽娟.西宁市1951—2015年气温及降水量变化特征[J].水电能源科学,2017,35（2）：7-11.［CHANGZhoumei,HU Wenbo,ZHANG Lijuan.Change characteristics oftemperature and precipitation from 1951 to 2015 in Xining City[J].Water Resources and Power,2017,35(2）:7 -11.]
+
+[36］刘艳伟，王淑莹，屠星磊，等.元谋干热河谷区近60a干湿状况 和气温变化特征分析[J].排灌机械工程学报，2018,36（2）： 172-178.[LIU Yanwei,WANG Shuying,TU Xinglei,et al. Characteristic analysis of dry-wet condition and temperature trend in Yuanmou dry-hot valley(DHV) in recent 6O years[J].Journal of Drainage and Irrigation Machinery Engineering,2O18,36(2）:172 -178.]
+
+[37］高彦春，王金凤,封志明.白洋淀流域气温、降水和径流变化特 征及其相互响应关系［J].中国生态农业学报,2017,25（4）： 467-477.[GAO Yanchun,WANG Jinfeng,FENG Zhiming.Variation trend and response relationship of temperature,precipitation and runoff in Baiyangdian Lake Basin[J].Chinese Journal of EcoAgriculture,2017,25(4) :467-477.]
+
+[38］张富，赵传燕，邓居礼，等.祖厉河流域降雨径流泥沙变化特征 研究［J].干旱区地理,2018,41（1）:74－82.［ZHANG Fu, ZHAO Chuanyan,DENG Juli,et al.Change characteristics of the precipitation,runoff and sediment discharge in Zulihe River Basin [J].Arid Land Geography,2018,41(1） :74-82.]
+
+# Variation characteristics of the runoff in the mainstream of Shule River
+
+SUN Dong-yuan12， QI Guang-ping1，MA Yan-lin’，YAN Ji-xuan1,WULan-zhen’，KAN Yan-xia’ (1CollegefWater onservancyand Hydropower Engineering,GansuAgricultural UniversityLanzhou73O,Gansu,China; 2Gansu Research Institute for Water Conservancy,Lanzhou 73Oooo,Gansu,China)
+
+Abstract：As an important component and existing form of water resources,surface runoff is an important link to the water cycle and an essential element of water balance.It is alsothe most important source of water for socio-economicdevelopment.Through studying the characteristicsof runoffvariability inthe basin,ascientific basis was provided for comprehensive management of regional water resources,rational development,and protectionof ecological environment.As the third largest inland river basin in the Hexi Corridor,Gansu Province in northwestern China,the Shulehe River basin is an important ecological security barrier for China.Due to the excessive development and utilization of water resources in river basins,ecological and environmental problems such as vegetation degradation and reduction of wetlands in river basins are becoming more prominent.At the same time,with the continuous development of population,economy,and society,the demand for water resources continuously increases,seriouslyaffecting and restricting the coordinated and sustainable development of regional eco-environmentand socio-economics. Therefore,the purposeof this study was toanalyze the characteristics of runoffluctuation inthe mainstream of the Shule River basin and to grasp the dynamic changes of water resources in the river basin.The measured monthly and yearlyrunoff dataof Changmabao,Panjiazhuang,and Shuangtaobao hydrological stations in the mainstream of the ShuleRiver basinwereselectedas thebasicdata.Thecharacteristicsofannual,interannual,and seasonal variations,and runoff mutation in the mainstream of the Shule River basin were analyzed using linear tendency,cumulative anomaly,moving average,andthe Mann-Kendall mutation test in the period 1956-2O16.Theannual runoff of the mainstream of the Shule River showedan overall increasing trend,and the annual runoff rates were ranked as follows : Changmabao Station ( $( 1 . 0 7 5 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } ) >$ Shuangtabao Reservoir Station ( $0 . 2 5 3 \ \times \ 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ： （204号 $\left( 1 0 \mathrm { a } \right) ^ { - 1 }$ ） $>$ Panjiazhuang Station ( $\mathrm { 0 . 1 2 6 \times 1 0 ^ { 8 } ~ m ^ { 3 } ~ \cdot ~ ( 1 0 a ) ~ ^ { - 1 } } \mathrm { ) }$ from 1956 to 2016.The distribution of annual runoff was extremely uneven,mainly concentrated from May to September,accounting for over $50 \%$ of the total annual runoff.The interannual change in runoffin the 197Os to 1999Os was lower than the multi-year average runoff, was higher than the multi-year average runoffof the 21stcentury.The seasonal variations inrunoff showeddiferent characteristics at each station,andthe increase insummer runoff ateach station greatly contributed to theannual runoffAt the same time,the average anomalyof runof in different seasonsanddifferent ages showed differentcharacteristics.The average annual runoff mutation showed diffrent mutation characteristics and different mutation times,and the mutation points of Changmabao station,Panjiazhuang station,and Shuangtaobao reservoir station were 1998,2012,and 2O06,respectively.Theresultsofthe studyshowed certain reference functions to facilitate smooth implementation of key management program in the Dunhuang water resources for reasonable utilization and ecological protection.Theresults also provided important practical references for promoting regional integrated waterresources management,scientificallcation,guiding regional long-term integrated waterresources planning,and socioeconomic development.The follow-up study must furtherdiscover the characteristics and prediction of regional unoff changes under changing environment （climate change and human activities).The extent of impacts of human activities and climate change on runoff should be quantitatively described to provide references forscientific regulation of regional water resources.
+
+Key words:runoff;variation characteristics;The mainstream in Shule River

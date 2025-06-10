@@ -1,0 +1,214 @@
+# 基于Matlab的Durov三线图的实现
+
+任孝宗}，刘敏¹，张迎珍¹，贺志明¹，朱秉启²（1太原师范学院地理科学学院,山西晋中030619;2中国科学院地理科学与资源研究所陆地水循环及地表过程重点实验室,北京100101)
+
+摘要：水化学分类是实现水资源可持续开发利用的重要前提之一。Durov三线图作为主要的水化学分类图因绘制复杂而限制了其在现实中的应用，且一些常见的水化学软件也不具备绘制Durov三线图的功能。Durov三线图包括原始型Durov三线图及在其基础上演变而成的扩展型Durov 三线图。通过介绍两种Durov三线图的差异、组成特征和投影原理，提出了在Durov三线图中建立坐标系的方法，并推导了将水化学数据投影到Durov三线图的公式。在此基础上，阐述了基于Matlab语言编程实现原始型Durov三线图和扩展型Durov三线图的方法和流程，并以公开发表的数据绘制了两种Durov三线图。基于相同的数据比较发现，相关水化学软件绘制的原始型Durov三线图及一些公开发表的研究成果中的扩展型Durov三线图与本文所用Matlab语言绘制的Durov三线图相一致,表明该程序准确可行。本程序既可以实现原始型Durov三线图的绘制，也可以实现常见水化学软件不能完成的扩展型Durov三线图的绘制。该程序的应用，将有助于Durov三线图的高效应用,特别是扩展型Durov三线图的应用不但可以作为水化学分类的依据，同时还可以指示某些水化学过程。
+
+关键词：水化学；Durov三线图；Matlab；制图中图分类号：P342 文献标识码：A 文章编号：
+
+近年来，在气候变化、人口增长和经济快速发展的大背景下，水资源的总量明显减少，然而人们对有限的水资源的需求却并没有因此减小，水资源短缺现象日益严重，因此，对水资源的可持续开发利用变得十分重要[1-4]。要实现水资源的可持续开发利用，首先需要了解水资源的水化学类型，进行水化学分类，以便正确理解水资源与环境相互作用的机制，这对维持当地生态系统的健康稳定有着极其重要的现实意义[5- 6] 。
+
+水化学分类依据的是水体中主要阴、阳离子的相对含量和比例关系。例如前苏联舒卡列夫将水中六种主要阴、阳离子中当量浓度大于 $2 5 \%$ 的离子进行组合,共分成49 类水型[7]。对于少量样品，采用该方法比较方便,但是对于大批量样品，该方法显得非常繁琐，且不能直观的对各样品的水化学特性进行比较。水化学分类图克服了上述缺点，可以直观的表现不同的水化学类型，其中较为常见的如Durov三线图。该三线图经历了从原始型Durov 三线图（The original Durov Diagram）到扩展型Durov 三线图（The expandedDurov Dia-gram)的演变，不但可以用作水化学分类，还可以反映水化学过程，对揭示水文地球化学规律起着重要的作用,因而具有广阔的应用前景[8]。然而由于Durov三线图基于多个变量并且投影规则较复杂，因而普通的水化学软件都不具备绘制Durov三线图的功能，限制了该图在水化学分类中的应用。为了克服三线图不便于绘制的缺点，CHADHA利用基于直角坐标系的CHADHA水化学图来替代Durov三线图以实现与Durov三线图类似的功能[9]，国内也有学者对其进行了验证[10]。然而,虽然上述方法可以避免Durov 三线图绘制复杂的缺点，但同时也失去了Durov三线图可以指示水化学过程的功能。此外，Piper三线图[]具有与Durov 三线图类似的水化学分类功能,且两者指示的水化学类型本质上是一致的[12]作为一种常用的水化学分类图，Piper三线图同样得到了广泛的应用[13-18],但该图仍不具备指示水化学过程的功能。随着计算机技术的发展，AL-BASSAM先后用BASIC语言和VisualBasic语言实现了 Durov 三线图的计算机输出[19-20]。然而限于操作系统和版权等因素的影响，该程序无法为科研人员所直接利用。
+
+Matlab是由MathWorks公司推出的高性能科技应用软件，因其可读性强、调试简单等显著特点而被学术界所熟知，尤其强大的图形可视化能力在地学研究中具有广泛的应用前景[2I]。该软件不受操作系统的限制，可在包括Windows、Linux和Mac等在内的系统下运行，方便了科研人员之间的交流。本文基于Matlab语言编程实现了原始型及扩展型Du-rov三线图的绘制，扩展了水化学分类图在实际科研和工作中的应用范围。
+
+# 1 原始型与扩展型Durov三线图的 比较
+
+原始型Durov三线图采用当量浓度计算百分含量[22],其由位于中心位置的正方形投影区、位于正方形投影区左侧的阴离子三角图及位于正方形投影区上方的阳离子三角图三部分组成(图1）。阴离子三角图由 $\mathrm { H C O } _ { 3 } ^ { - } \ 、 \mathrm { S O } _ { 4 } ^ { 2 - }$ 和 $\mathrm { C l } ^ { - }$ 组成,之所以选取这三种离子的原因在于它们是构成天然水体最主要的阴离子，并能反映水体水化学演变过程。根据这三种阴离子的含量，可以将水体划分为碳酸氢盐组、硫酸盐组、氯化物组和混合组这四种一级类型（图1）。次一级的分类由以 $\mathrm { C a } ^ { 2 + } \cdot \mathrm { M g } ^ { 2 + }$ 和 $\mathrm { { N a } ^ { + } }$ 这三种阳离子产生的阳离子三角图决定。为保证阴、阳离子电荷平衡，Durov三线图规定各阴离子之和为 $5 0 \%$ ,各阳离子之和亦为 $5 0 \%$ 。Durov 对更早期的Durov 三线图进行了改进[23],增加了 $\mathrm { \ p H }$ 和 TDS,将其投影在了正方形的外围（图1）。
+
+BURDON和MAZLOUM[24］及LLOYD[25]进一步改进了Durov三线图，即扩展型Durov三线图。他们将阳离子三角图继续划分为三个次一级的单元，即两个小三角形和一个菱形，然后将两个小三角形从菱形区域两侧分别移动某个单位的间隔，即以$\mathrm { C a } ^ { 2 + }$ 占 $2 5 \%$ 和 $\mathrm { { N a } ^ { + } }$ 占 $2 5 \%$ 线为界,将原阳离子三角形一分为三;阴离子三角图也被划分为两个小三角形和一个菱形，然后将两个小三角形从菱形区域两侧分别移动某个单位的间隔，即以 $\mathbf { \mathrm { C l } } ^ { - }$ 占 $2 5 \%$ 线和 $\mathrm { H C O } _ { 3 } ^ { - }$ 占 $2 5 \%$ 线为界将原阴离子三角形一分为三。最后，根据这些重新划分的区域再将原矩形区域细化为9个次一级的投影单元（图2）。扩展型Durov三线图和原始型Durov三线图相比具有明显的优势，它提供了一种更好的表现水化学类型和过程的方式，更能反映水体的水化学差异、相互关系和离子来源[8,26]。此外,根据样品在9 个次一级的投影单元的分布关系，扩展型Durov三线图还可指示离子交换、简单溶解和线性混合及逆离子交换等水化学过程[19,20,26] O
+
+![](images/c0ced391bf9bed3d563e3ed732618b366bc07200f5394b5501ed346b68adbcd0.jpg)  
+图1原始型Durov 三线图Fig.1Original Durov Diagram
+
+![](images/f50ecf880fd81a0abbbaea502a52a28f3a4778f3c0ac2d54815e927dec80105c.jpg)  
+图2扩展型Durov三线图及其验证  
+Fig.2Expanded Durov Diagram and its validity testing 注： $\textcircled { 1 } { : } 2 5 \% < \mathrm { C a } ^ { 2 + } \leqslant 5 0 \%$ $\textcircled { 2 } : 0 < \mathrm { C a } ^ { 2 + } \leqslant 2 5 \%$ 县 $0 < \mathrm { N a } ^ { + } \leqslant 2 5 \%$ ; $\textcircled { 3 } : 2 5 \% < \mathrm { N a } ^ { + } \leqslant 5 0 \%$ · $\textcircled { 4 } : 2 5 \% < \mathrm { H C O } _ { 3 } ^ { - } \leqslant 5 0 \%$ $\textcircled { 5 } : 0 \leqslant \mathrm { C l } ^ { - } \leqslant 2 5 \%$ and $0 \leqslant \mathrm { H C O } _ { 3 } ^ { - } \leqslant 2 5 \%$ · $\textcircled { 6 } : 2 5 \% < \mathrm { C l } ^ { - } \leqslant 5 0 \%$ （202
+
+# 2Durov三线图的绘制原理
+
+# 2.1 原始型Durov三线图的实现
+
+（1）单位转换。Durov三线图以百分含量表示，所以要将各离子的当量浓度值转换为对应的百分含量。需要注意的是，阴、阳离子各占 $5 0 \%$ ，而非$100 \%$ 。
+
+(2）建立坐标系，绘制边框。首先，定义阴、阳离子三角图交点位置为坐标原点（图3），并规定三角形边长为50，则可求得阴、阳离子三角图及矩形区域各顶点的坐标;其次，根据求得的坐标点，用plot命令绘制Durov三线图各部分（阴、阳离子三角图及矩形区域)的边框。
+
+（3）坐标转换及数据投影。在已知某样品各离子百分含量的情况下，将其直接投影到三线图坐标系中并不容易，简单的做法是先将各离子百分含量转换为直角坐标系下点的坐标，然后直接投影到直角坐标系中。
+
+假定样品为A，各离子百分含量已知，设其在阳离子三角图中的坐标为 $x _ { 1 } , y _ { 1 }$ ,A的 $\mathrm { C a } ^ { 2 + }$ 百分含量为 $\left| a _ { 1 } \right.$ ， $\mathrm { { N a } ^ { + } }$ 百分含量为 $b _ { 1 }$ ，则 $\mathbf { M } \mathbf { g } ^ { 2 + }$ 的百分含量为$5 0 \% - a _ { 1 } - b _ { 1 }$ ;设A在阴离子三角图中的坐标为 $x _ { 2 }$ ，$y _ { 2 }$ ,其 $\mathrm { C l } ^ { - }$ 百分含量为 $a _ { 2 }$ ， $\mathrm { H C O } _ { 3 } ^ { - }$ 百分含量为 $b _ { 2 }$ ，则$\mathrm { S O } _ { 4 } ^ { 2 - }$ 的百分含量为 $5 0 \% - a _ { 2 } - b _ { 2 }$ ;设A在矩形区域的坐标为 $x _ { 3 } , y _ { 3 }$ 。根据图3阴影部分的三角函数关系，经简化后可以得出样品A在直角坐标系下投影到阳离子三角图中对应的坐标值：
+
+$$
+x _ { 1 } = 0 . 5 \times ( 5 0 \% - a _ { 1 } + b _ { 1 } )
+$$
+
+$$
+y _ { 1 } = 0 . 5 \% \times \mathrm { t g } 6 0 ^ { \circ } \times ( 5 0 \% - a _ { 1 } - b _ { 1 } )
+$$
+
+同理，样品A在直角坐标系下投影到阴离子三角图中对应的坐标值为：
+
+$$
+x _ { 2 } = - 0 . 5 \times \mathrm { t g } ~ 6 0 ^ { \circ } \times ( 5 0 \% - a _ { 2 } - b _ { 2 } )
+$$
+
+$$
+y _ { 2 } = - 0 . 5 \times ( 5 0 \% - a _ { 2 } + b _ { 2 } )
+$$
+
+则样品A在直角坐标系下投影到矩形区域中对应的坐标值为：
+
+$$
+\begin{array} { c } { { x _ { 3 } = x _ { 1 } } } \\ { { y _ { 3 } = y _ { 2 } } } \end{array}
+$$
+
+最后，将 $a _ { 1 } \setminus b _ { 1 } \setminus a _ { 2 } \setminus b _ { 2 }$ 各值分别带入到式（1）、（2）、(3）、（4）、（5)和（6)中求出样品投影到原始型Du-rov三线图对应区域的坐标值，并用plot命令将其绘制在相应位置。
+
+![](images/e3c6b34831cd17c2d843a6820abea1ba55c15e9018d33da4fa5364e17a1f2d07.jpg)  
+图3原始型Durov三线图的坐标转换 Fig.3Coordinate transformation processes for the original Durov Diagram
+
+# 2.2扩展型Durov三线图的实现
+
+扩展型Durov三线图的绘制方法与原始型Durov三线图大体相同，不同点在于扩展型Durov三线图将阴、阳离子三线图进一步细分，相应的矩形投影区也被细化。具体说来，在阳离子投影区，根据阳离子百分含量的分布范围，其被投影到三个不同的区域。当 $2 5 \% < \mathrm { C a } ^ { 2 + } \leqslant 5 0 \%$ 时,样品将被投影到位于阳离子投影区左侧位置的一个三角形区域内（即图2所示 $\textcircled{1}$ ；当 $0 < \mathrm { C a } ^ { 2 + } \leqslant 2 5 \%$ 且 $0 < \mathrm { N a } ^ { + } \leqslant 2 5 \%$ 时，样品将被投影到位于阳离子投影区中间位置的菱形区域内（即图2所示 $\textcircled{2}$ )；当 $2 5 \% < \mathrm { N a } ^ { + } \leqslant 5 0 \%$ 时，样品将被投影到位于阳离子投影区右侧位置的三角形区域内（即图2所示 $\textcircled{3}$ )。扩展型Durov三线图的实质是将原始型Durov三线图的阳离子三角图切割为三部分并进行平移,使其外形类似于Piper三线图[27]。同理,阴离子投影区也被切割平移为三部分，即当 $2 5 \% < \mathrm { H C O } _ { 3 } ^ { - } \leqslant 5 0 \%$ 时，样品将被投影到位于阴离子投影区上部的三角形区域（即图2所示$\textcircled{4}$ )；当 $0 \leqslant \mathrm { C l } ^ { - } \leqslant 2 5 \%$ 且 $0 \leqslant \mathrm { ~ H C O } _ { 3 } ^ { - } \leqslant 2 5 \%$ 时，样品将被投影到位于阴离子投影区中部的菱形区域（即图2所示 $\textcircled{5}$ )；当 $2 5 \% < \mathrm { C l } ^ { - } \leqslant 5 0 \%$ 时，样品将被投影到位于阴离子投影区下部的三角形区域（即图2所示 $\textcircled{6}$ )。因此，在将样品投影到扩展型Durov三线图的过程中，除了将样品按照原始型Durov三线图的方法求坐标，还要将求得的坐标值进行坐标平移。
+
+设样品为A，且其基本参数仍然使用原始型Durov三线图中所用的方式表示，坐标平移距离这里取12.5，则样品A在直角坐标系下投影到阳离子三角图中对应的坐标值为：
+
+当 $2 5 \% < \mathrm { C a } ^ { 2 + } \leqslant 5 0 \%$ 时，
+
+$$
+x _ { 1 } = 0 . 5 \times ( 5 0 \% - a _ { 1 } + b _ { 1 } )
+$$
+
+$$
+y _ { 1 } = 0 . 5 \times \mathrm { t g } 6 0 ^ { \circ } \times ( 5 0 \% - a _ { 1 } - b _ { 1 } )
+$$
+
+当 $0 < \mathrm { C a } ^ { 2 + } \leqslant 2 5$ 且 $0 < \mathrm { N a } ^ { + } \leqslant 2 5$ 时，
+
+$$
+x _ { 1 } = 0 . 5 \times ( 5 0 \% - a _ { 1 } + b _ { 1 } ) + 1 2 . 5
+$$
+
+$$
+y _ { 1 } = 0 . 5 \times \mathrm { t g } 6 0 ^ { \circ } \times ( 5 0 \% - a _ { 1 } - b _ { 1 } )
+$$
+
+当 $2 5 \% < \mathrm { N a } ^ { + } \leqslant 5 0 \%$ 时，
+
+$$
+x _ { 1 } = 0 . 5 \times ( 5 0 \% - a _ { 1 } + b _ { 1 } ) + 2 5
+$$
+
+$$
+y _ { 1 } = 0 . 5 \times \mathrm { t g } 6 0 ^ { \circ } \times ( 5 0 \% - a _ { 1 } - b _ { 1 } )
+$$
+
+样品A在直角坐标系下投影到阴离子三角图中对应的坐标值为：
+
+当 $2 5 \% < \mathrm { C l } ^ { - } \leqslant 5 0 \%$ 时，
+
+$$
+x _ { 2 } = - 0 . 5 \times \mathrm { t g } ~ 6 0 ^ { \circ } \times ( 5 0 \% ~ - a _ { 2 } - b _ { 2 } )
+$$
+
+$$
+y _ { 2 } = - 0 . 5 \times ( 5 0 \% - a _ { 2 } + b _ { 2 } ) - 2 5
+$$
+
+当 $0 \leqslant \mathrm { C l } ^ { - } \leqslant 2 5 \%$ 且 $0 \leqslant \mathrm { ~ H C O } _ { 3 } ^ { - } \leqslant 2 5 \%$ 时，
+
+$$
+\begin{array} { r } { x _ { 2 } = - 0 . 5 \times \mathrm { t g } 6 0 ^ { \circ } \times ( 5 0 \% - a _ { 2 } - b _ { 2 } ) } \\ { y _ { 2 } = - 0 . 5 \times ( 5 0 \% - a _ { 2 } + b _ { 2 } ) - 1 2 . 5 } \end{array}
+$$
+
+当 $2 5 \% < \mathrm { H C O } _ { 3 } ^ { - } \leqslant 5 0 \%$ 时，
+
+$$
+x _ { 2 } = - 0 . 5 \times \mathrm { t g } ~ 6 0 ^ { \circ } \times ( 5 0 \% ~ - a _ { 2 } - b _ { 2 } )
+$$
+
+$$
+y _ { 2 } = - 0 . 5 \times ( 5 0 \% - a _ { 2 } + b _ { 2 } )
+$$
+
+样品A在直角坐标系下投影到矩形区域中对应的坐标值为：
+
+$$
+\begin{array} { c } { { x _ { 3 } = x _ { 1 } } } \\ { { } } \\ { { y _ { 3 } = y _ { 2 } } } \end{array}
+$$
+
+# 3Durov三线图的编程流程及其验证
+
+# 3.1 编程流程及误差分析
+
+编程实现Durov三线图输出的关键包括求坐标和绘边框两部分（图4）。样品的阴、阳离子含量通常用 $\mathbf { m } \mathbf { g } \cdot \mathbf { L } ^ { - 1 }$ 表示,求坐标是将该单位的数据首先转换为当量浓度 $\mathbf { \Psi } _ { \mathrm { m e q } } \cdot \mathbf { L \Psi } ^ { - 1 }$ ),再分别在阴、阳离子总浓度为 $5 0 \%$ 的条件下，求出对应各离子的百分含量，然后根据本文第三部分给出的公式计算样品在直角坐标系下的对应坐标。绘边框是在确定坐标原点后，用plot命令绘制出组成Durov三线图的阴、阳离子三角形投影区域、菱形投影区域和矩形投影区域等的过程。最后，用plot命令将带有坐标的样品点投影到Durov三线图的相应位置。
+
+![](images/32d7e2088efd3343ed31cd8d5d32881a0fa4264cb754e7c03e70a8d54918bc90.jpg)  
+图4Durov 三线图编程流程  
+Fig.4Program flow of plotting Durov Diagram
+
+在整个运算过程中误差的出现主要体现在以下几个方面：首先,在将离子浓度从 $\mathbf { m } \mathbf { g } \cdot \mathbf { L } ^ { - 1 }$ 转换为当量浓度时，相对原子质量有效数字位数的选取会影响到结果的精度，本文采用小数点后保留3位有效数字的原则;其次，在整个转换过程中的数据运算及其后的结果所采用的数值类型也会影响到最终绘图的精度，本文采用Matlab中精度最高的双精度浮点数（即Matlab中的double数值型）;再次，将离子的当量浓度转换为百分含量及计算样品在直角坐标系下的坐标时数值类型的选择，同样会影响绘图的精度，本处仍采用双精度浮点数。综上所述，本文所采用的有效数字位数和数值类型可保证绘图结果具有较高的精度。
+
+# 3.2与相关研究成果的比较
+
+为了验证程序的正确性，采用经典文献LLOYD和 HEATHCOTE[8]第6章第四节Durov 三线图相关部分的数据绘图，数据见表1，所绘制的原始型表1 LLOYD 和 HEATHCOTE[8]文中阴、阳离子数据 $/ \mathbf { \ m e q } \cdot \mathbf { L } ^ { - 1 }$
+
+![](images/c9cecb034a9c7b8ba38b92d2bdffa1499bd673fca04420d88826ef53f7926716.jpg)  
+图5对原始型Durov三线图的验证 Fig.5Validity testing for the original Durov Diagram
+
+Tab.1Data of anions and cations in LLOYD and HEATHCOTE[8] $/ \mathrm { \ m e q } \cdot \mathrm { L } ^ { - 1 }$   
+
+<html><body><table><tr><td>样品 编号 Ca2+</td><td>K+ HCOSO4 Cl- pH TDS</td></tr><tr><td>Na + 1 Mg2+</td><td>2.70 660</td></tr><tr><td>7.58 0.48 0.74 0.07 6.61 0.60 1.30</td><td></td></tr><tr><td>0.40 1.28 8.09</td><td>0.18 5.34 0.77 3.47 10.40</td></tr><tr><td>2 3 4.24 2.88 11.74 0.15 7.84</td><td>710</td></tr><tr><td></td><td>0.60 10.89 3.40 1190</td></tr></table></body></html>
+
+Durov三线图（图5），扩展型三线图（图2）。由于相关文献[8]较早，其原始型Durov三线图不同于当前主流的阴、阳离子分布格局，即其阴离子投影区位于正方形投影区的上方而阳离子投影区位于正方形投影区的左方，这与当前主流的阴、阳离子分布格局相反。通过对比LLOYD 和HEATHCOTE[8]原始型Du-rov三线图与图5数据的投影位置，发现两者本质上是一致的。此外,LLOYD 和 HEATHCOTE[8]文中的扩展型Durov三线图与当前主流模式一致，即阳离子投影区位于正方形投影区上方、阴离子投影区位于正方形投影区左方，经与图2对比发现两者表示的样品位置完全一致。以上结果表明本程序中的原始型Durov三线图和扩展型Durov三线图均正确可用。
+
+# 3.3与其他水化学分析软件的比较
+
+目前可绘制Durov三线图的商业软件并不多，且常见的如AquaChem和AqQA等仅能绘制原始型的Durov三线图而无法绘制扩展型Durov三线图。为了验证本文方法的可靠性，仍然使用LLOYD 和HEATHCOTE[8]的数据,并采用 2014.2版本的
+
+AquaChem软件绘制原始型Durov三线图，结果见图6。通过比较发现用AquaChem软件绘制的原始型Durov三线图(图6)和本文用Matlab编程绘制的原始型Durov三线图（图5)并无本质区别，主要差异在于pH部分。AquaChem 软件中pH的刻度值自上而下被设置为递减，而本文用Matlab绘制的pH部分为保持和经典文献相一致而采用刻度值自上而下递增的设置。商业软件的优势在于操作简单，但因其代码未开源，因而不能进行二次开发。相反，使用Matlab 编程实现的Durov三线图可根据需求进行相应的更改，例如对原始型Durov三线图代码做相应编辑后即可得到扩展型Durov三线图，这是商用软件无法实现的。
+
+![](images/98a05858c570e77e34b567b21d753c2165e4b40e109231f28a35f18532256a9d.jpg)  
+图6AquaChem(版本2014.2)绘制的原始型Durov 三线图  
+Fig.6Original Durov Diagram ploted by AquaChem (Version 2014.2)
+
+# 4结论
+
+Durov三线图作为重要的水化学分类图，长久以来都因为绘制复杂而使其实际应用受到了限制，特别是扩展型Durov三线图无法用常见的水化学软件绘制。本文在详细介绍原始型及扩展型Durov三线图的组成和绘制原理的基础上，以当前科研工作者常用的Matlab语言为工具，实现了该图的计算机编程绘制，并将其与常见商用软件绘制的Durov三线图及公开发表的研究成果中的Durov三线图进行了比较，表明该程序准确可行。该程序不但可用实现相对简单的原始型Durov三线图的输出，同时还可以实现一般商业软件难以绘制的扩展型Durov三线图。该方法的应用将有助于水化学分类的高效实现，同时也可以作为指示某些水化学过程的工具。
+
+参考文献（References）   
+[1］石虹.浅谈全球水资源态势和中国水资源环境问题[J].水土 保持研究,2002,9（1）:145-150.[SHI Hong.The state of global water resource and the problems of water environment in China [J].Research of Soil and Water Conservation,2002,9(1):145- 150.]   
+[2]任国玉,姜彤,李维京,等.气候变化对中国水资源情势影响综 合分析［J].水科学进展,2008,19（6）：772－779.［REN Guoyu,JIANG Tong,LI Weijing,et al.An integrated assessment of climate change impacts on China's water resources[J].Advances in Water Science,2008,19(6):772-779.]   
+[3］龙爱华,徐中民,王新华,等.人口、富裕及技术对 2000 年中国 水足迹的影响[J].生态学报,2006,26（10）：3358-3365. [LONG Aihua,XU Zhongmin,WANG Xinhua,et al.Impacts of population,affuence and technology on water footprint in China [J]．Acta Ecologica Sinica,2006,26(10）:3358 -3365.]   
+[4］刘佳骏,董锁成,李泽红.中国水资源承载力综合评价研究 [J].自然资源学报,2011,26（2）:258－269.[LIU Jiajun, DONG Soucheng,LI Zehong.Comprehensive evaluation of China’'s water resources carrying capacity[J].Journal of Natural Resources,2011,26(2) :258 -269.]   
+[5］朱海勇,陈永金,刘加珍,等.塔里木河中下游地下水化学及其 演变特征分析[J].干旱区地理,2013,36（1)：8-18.［ZHU Haiyong,CHEN Yongjin,LIU Jiazhen,et al.Variationand evolution of groundwater chemistry in the middle and lower reaches of the Tarim River[J].Arid Land Geography,2013,36(1):8-18.]   
+[6]潘峰,张清寰,何建华.甘肃董志塬地区第四系地下水补给环 境与水化学特征演化[J].干旱区地理,2014,37（1)：9-18. [PAN Feng,ZHANG Qinghuan,HE Jianhua.Groundwater recharge environment and geochemistry evolution of the Quaternary aquifer in the Dunzhiyuan region,Gansu Province[J]. Arid Land Geography,2014,37(1) :9 -18.]   
+[7]张人权,梁杏,靳孟贵,等.水文地质学基础[M].北京;地质出 版社,2011:67.[ZHANG Renquan,LIANG Xing,JIN Menggui,et al.General Hydrogeology［M]．Beijing：Geological Publishing House,2011 :67.]   
+[8]LLOYD JW,HEATHCOTE JA. Natural inorganic hydrochemistry in relation to groundwater:An introduction[M].Oxford: Clarendon Press,1985:130 -133.   
+[9]CHADHA D K.A proposed new diagram for geochemical classification of natural waters and interpretation of chemical data[J]. HydrogeolJ,1999,7(5) :431-439.   
+[10］孙亚乔,钱会,张黎,等.基于矩形图的天然水化学分类和水化 学规律研究[J].地球科学与环境学报,2007,29(1)：75-79. [ SUN Yaqiao,QIAN Hui,ZHANG Li,et al. Natural-water hydrochemistry classification and hydrochemistry rule research based on rectangle hydrochemistry diagram[J].Journal of Earth Sciences and Environment,2007,29(1):75-79.]   
+[11]PIPER A M.A graphic procedure in the geochemical interpretation of water analyses[J].American Geophysical Union Transactions, 1944,25 :914 - 923.   
+[12］任孝宗.浑善达克沙地天然水体的水化学及水—沙相互作用 研究[D].北京:中国科学院大学,2014.［REN Xiaozong.The ion chemistry of natural water and water-sand interaction in the Hunshandake Sandy Land[D].Beijing:The University of Chinese Academy of Sciences,2014.]   
+[13］石培泽,马金珠,赵华.民勤盆地地下水地球化学演化模拟 [J].干旱区地理,2004,27（3）:305－309.［SHIPeize,MA Jinzhu,ZHAO Hua.Simulation of geochemical evolution of groundwater beneath the Minqin Basin,Gansu Province[J].Arid Land Geography,2004,27（3）:305-309.]   
+[14］王礼恒,董艳辉,宋凡,等.甘肃石油河流域地下水补给来源与 演化特征分析.干旱区地理,2017,40(1):54-61.[WANG Liheng,DONG Yanhui,SONG Fan,et al. Recharge sources and hydrogeochemical properties of groundwater in the Shiyou River, Gansu Province[J]. Arid Land Geography,2017,40（1）:54- 61.]   
+15］邵天杰,赵景波,董治宝.巴丹吉林沙漠湖泊及地下水化学特 征[J].地理学报,2011,（5）:662-672.[SHAO Tianjie,ZHAO Jingbo,DONG Zhibo.Water chemistry of the lakes and groundwater in the Badain Jaran Desert[J].Acta Geographica Sinica,2011, (5):662 -672.]   
+［16］朱秉启,杨小平.塔克拉玛干沙漠天然水体的化学特征及其成 因[J].科学通报,2007,52（13）:1561-1566.[ZHU Bingqi， YANG Xiaoping.The ion chemistry of natural water and its origins in the Taklamakan Desert,Xinjiang,China[J]. Chinese Science Buletin,2007,52（13）:1561-1566.]   
+[17］宋献方,李发东,于静洁,等.基于氢氧同位素与水化学的潮白 河流域地下水水循环特征[J].地理研究,2007,(1):11－21. [SONG Xianfang,LI Fadong,YU Jingjie,et al. Characteristics of groundwater cycle using deuterium,oxygen-18 and hydrochemistry in Chaobai River Basin[J]. Geographical Research,2007,（1）:11 -21.]   
+[18］宋献方,刘相超,夏军,等.基于环境同位素技术的怀沙河流域 地表水和地下水转化关系研究［J].中国科学（D辑：地球科 学）,2007,（1）:102－110.[SONG Xianfang,LIU Xiangchao, XIA Jun,et al.Transformation relationship between surface water and groundwater using environmental isotopes in Huaisha River Basin[J].Science China(D:Earth Sciences）,2007,（1）:102- 110.]   
+[19]AL-BASSAM A M,AWAD H S,AL-ALAWI JA. Durov Plot: A computer program for processing and plotting hydrochemical data [J].Ground Water,1997,35(2）:362-367.   
+[20]AL-BASSAM A M,KHALIL A R.DurovPwin: A new version to plot the expanded Durov diagram for hydro-chemical data analysis [J]. Computers & Geosciences,2012,42:1 -6.   
+[21］苏金明,傅荣华,胡卸文.基于 MATLAB 的地学可视化实现 [J].地质灾害与环境保护,2009,20（1):83－86．[SU Jinming,FU Ronghua,HU Xiewen.The implementation of geo-visualization based on MATLAB[J]. Journal of Geological Hazards and Environment Preservation,2009,20(1）:83-86.]   
+[22]DUROV S A. Natural waters and graphic representation of their compositions[J]. Dokl Akad Nauk SSSR,1948,59:87 -90.   
+[23]ZAPOROZEC A. Graphical Interpretation of water-quality data [J].Ground Water,1972,10(2):32-43.   
+[24]BURDON D J,MAZLOUM S.Some chemical types of ground-water from Syria[M].Tehran:UNESCO,Paris,1958.   
+[25]LLOYDJW.The hydrochemistry of the aquifers of North-Eastern Jordan[J].Journal of Hydrology,1965,3:319-330.   
+[26]AL-BASSAMAM,KHALILAR,KASSEMO MK.Automatic analysis reporting for hydro-chemical data using updated durovpwin
+
+program[J]. Journal of Agricultural Science and Technology B, 2013,3:757-768. [27］PIPER A M.A graphic procedure in the geochemical interpretation of water-analyses[J]. Transactions American Geophysical Union, 1944,25(6):914-928.
+
+# Plotting Durov Diagram based on Matlab
+
+REN Xiao-zong1， LIU Min’， ZHANG Ying-zhen’，HE Zhi-ming1， ZHU Bing-qi $^ 2$ (1Taiyuan Normal University,School of Geographical Sciences,Jinzhong O30619,Shanxi,China; 2Key Laboratory of Water Cycle and Related Earth Surface Processes,Institute of Geographic Sciences and Natural Resources Research,Chinese Academy of Sciences,Beijing 1Oo1O1,China)
+
+Abstract：Hydrochemical classification of water resource is one of the vital preconditions for water resource sustainable utilization.There are numerous methods with regard to hydrochemical classification for water resource,but the most effctive and simplest method is the diagram method.Asone of the most important diagram methods for hydrochemical clasification,the Durov diagrams（including both the original typeof Durov Diagram and the expanded Durov Diagram）are used widely not only because itcan reveal the hydrogeochemical characteristics of water,but also because itcan show the hydrochemical processs occuring within diferent hydrogeological systems. However,comparing with other diagrams（such as the Piper Diagram）,these diagrams are very complex anddifficult to plot.Few commercial software packages are designed to plot Durov diagrams,which limits researchers touse thediagrams.In this paper,we introduced both the original type of Durov Diagram and the expanded Durov Diagram,and we also compared the similarities and diferences in them.To beterunderstand the diagram,we interpreted the composition of the original typeof Durov Diagram,especiallythepartof cation triangle,anion triangleand the square field.We also interpreted the composition of theexpanded Durov Diagram,in which each of the cation and aniontriangles is split into two subtriangles anda diamond,while thesquare field issplit into nine fields.We stressed how to establish acoordinate toplot the original typeof Durov Diagramand the expanded Durov Diagram respectively.And we deduced formulas to transform the hydrochemical data so thattheycan be projected into both the original type of Durov Diagram and the expanded Durov Diagram. Using these principles,we wrote programs for the output ofboth the original typeof Durov Diagram andthe expanded Durov Diagram based on Matlab.To test the validity of the programs,we plotted the original type of Durov Diagram with published data based on our Matlab programs.And we also plot the original type of Durov Diagram with thesame data based on commercial software.The results showed that our program was as corrct as the commercial software,which indicatedour program is feasible. However,because none of commercial software packages we found has the function of ploting the expanded Durov Diagram,we compared the diagram plotted byour Maltlab program with diagram appearing in some classical literaturethatused the same data.The results alsoconfirmed that our Matlab program is reliable.Both the original type of DurovDiagramand the expanded Durov Diagram ploted by Matlab willhelp researchers to interpret hydrochemical datain graphical methods conveniently.Especially,the expanded Durov Diagram provides a method to indicate hydrochemical processes.
+
+Key words:hydrochemistry；the Durov diagrams；Matlab；plotting

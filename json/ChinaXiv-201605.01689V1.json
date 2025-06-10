@@ -1,0 +1,492 @@
+[
+    {
+        "type": "text",
+        "text": "引用格式:He Jianing,Guo Wei,Zhu Di,etal.Analysis on Calibration forFlight Experimentsof CFOSAT Scattrome-ter byReturn Signal Simulator[J].Remote Sensing Technologyand Application,2015,30(4)：731-736.[何佳宁,郭伟，朱迪，等.基于回波模拟器的CFOSAT 散射计校飞模式定标研究[J].遥感技术与应用,2015,30(4)：731-736.」doi:10.11873/j.issn.1004-0323.2015.4.0731",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于回波模拟器的CFOSAT散射计校飞模式定标研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "何佳宁1,2，郭伟¹，朱迪]，赵飞1（1.中国科学院空间科学与应用研究中心微波遥感技术重点实验室，北京100190；2.中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：航空校飞是中法海洋卫星(Chinese-French Oceanic SATellite,CFOSAT)散射计发射前需要完成的一项重要实验内容，它可以检验星载散射计的各项功能和性能，获取有效数据，是保障散射计在轨正常工作的重要环节。在本次校飞实验中,利用了回波模拟器对散射计进行地面系统测试及定标验证,探索了一种利用回波模拟器对星载散射计进行系统测试定标的方法。运用该方法对CFOSAT星载散射计进行全系统地面测试以及定标实验。回波模拟器提供给散射计标准的、已知的回波信号，散射计处理该信号后，获取系统参数并得到定标常数。校飞的实验结果验证回波模拟器对星载散射计地面测试和定标方法的可行性和准确性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:回波模拟器(RSS);散射计;校飞实验中图分类号：TP75 文献标志码：A 文章编号：1004-0323（2015)04-0731-06",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "散射计是一种测量海洋表面后向散射系数 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ ，1并用于反演海面风场(包括风速和风向)[1]的雷达系统。在CFOSAT卫星中，散射计的功能是提供全球海洋后向散射系数 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ ，并通过后向散射系数 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ 反演全球海面风场(包括风速和风向）。中法海洋卫星散射计(CFOSAT/SCAT)将是世界上首个采用旋转扫描扇形波束体制的星载微波散射计，其发射脉冲为 $\\mathrm { K u }$ 波段（中心频率为 $1 3 . 2 5 6 ~ \\mathrm { G H z }$ ,VV和HH双极化波束体制。星载微波散射计是一个复杂的雷达系统，由于其应用特点，如何在地面进行系统验证是系统设计的一个重点和难点。首先，散射计的发射脉冲为毫秒量级，按常规手段（如角反射器等）需要定标目标与设备之间的距离要达到 $1 5 ~ \\mathrm { k m }$ 以上。在本次校飞实验中，散射计发射时宽为 $2 0 ~ \\mu \\mathrm { s }$ 因此，定标目标与设备之间的距离要达到 $3 ~ \\mathrm { k m }$ 。通常的地面测试手段为在距离散射计 $3 ~ \\mathrm { k m }$ 处，放置常规定标体，如角反射器等。由于距离远、地杂波和多径效应的影响，采用常规手段工程量大、成本昂贵，很难实现精确的测试定标；其次，为了满足系统设计精度，需要对散射计进行精确定标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "采用回波模拟器对散射计进行系统测试定标能够解决上述两个难点，并且在地面上验证散射计系统的各项功能和性能。在校飞实验中，利用回波模拟器对散射计进行了系统测试定标，并取得了预期的实验结果。回波模拟器通过数字合成和脉冲重建技术，将雷达发射信号通过数据处理得到具有发射信号特性和目标散射特性(衰落效应)的回波信号。其主要功能是通过模拟点目标和面目标的散射特性，产生包含有衰落效应的回波信号，用来对散射计系统进行全方位测试，定量验证散射计系统对后向散射系数的测量精度，检验微波散射计系统在不同信噪比情况下信号检测能力和检测精度。因此，回波模拟器是校飞实验中散射计必备的定标设备。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文首先介绍回波模拟器的工作原理及结构，以及散射计的系统测试定标原理，然后介绍回波模拟器对散射计进行系统测试定标的实验过程，并通过处理校飞数据，分析校飞数据结果，验证了回波模拟器对散射计进行系统测试定标与校飞同步测量结果相吻合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 回波模拟器的工作原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在校飞实验中，回波模拟器用于散射计的地面测试，其主要功能是模拟散射计从海洋表面接收的后向散射系数 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ 。回波模拟器采用脉冲重建去斜体制，全数字模拟合成海面回波目标响应，模拟的回波信号通过正交调制技术达到散射计要求的射频信号。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "回波模拟器实现的功能为：接收散射计发射的射频脉冲，并变频到基带，使得信号处在便于处理的范围内；能够根据散射计需要，产生不同信噪比的回波信号；接收散射计给出的角度数据信息，根据角度信息产生模拟星载散射计面目标回波信号；能够将回波信号变频处理至射频，并发送到散射计接收机；能够模拟微波散射计回波信号的延时特性。回波模拟器的定时器精确控制各部分延时，保证发射给散射计的信号延时准确。为了定标散射计，回波模拟器产生的模拟回波必须是精度高、稳定性高的信号，并且能够提供足够的延时，来模拟在轨卫星与海面之间的双程延时[3]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1为回波模拟器的组成框图[4]。回波模拟器接收到散射计发射的射频信号后，触发Chirp信号并对散射计发射信号进行适当衰减，经混频、滤波和增益调整后，完成散射计Chirp信号的全去斜处理。去斜后经过下变频和正交解调，信号转换为I/Q两路数字信号并存储。与此同时，散射计的触发信号触发回波模拟器定时器，使其开始计数，达到设定时间后，回波模拟器产生模拟回波信号，通过正交调制、上变频和Chirp生成单元，产生符合要求的回波信号发回散射计。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c227d8e7832bbbe5e3e0044e698d356ae6687aedddd37767d40a82ca5da8112.jpg",
+        "img_caption": [
+            "图1回波模拟器组成框图",
+            "Fig.1Framework of return signal simulator "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3散射计系统测试定标原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "微波散射计通过发射脉冲信号，然后接收、处理回波功率，用以探测海洋目标的后向散射系数(NRCS, $\\sigma ^ { 0 } ) _ { \\circ } \\sigma ^ { 0 }$ 描述了海洋目标本身的散射特性，可以从雷达方程中获得：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ^ { 0 } = \\frac { P _ { s } ( 4 \\pi ) ^ { 3 } L _ { s } R ^ { 4 } } { P _ { t } \\lambda ^ { 2 } G ^ { 2 } A }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $P _ { s }$ 是散射计得到回波信号的去噪功率，可以由总回波功率 $\\boldsymbol { P } _ { r }$ 减去噪声功率 $\\boldsymbol { P } _ { n }$ 得到，即 $P _ { \\mathrm { ~ s ~ } } =$ $P _ { r } - P _ { n \\circ } P _ { n }$ 可以由散射计中专门设计的噪声测试通道精确测得。 $R$ 为散射计到海洋表面的斜距， $\\lambda$ 为发射脉冲的波长， $\\boldsymbol { P } _ { \\boldsymbol { t } }$ 为散射计发射功率， $G$ 为天线增益， $L _ { s }$ 为系统损耗， $A$ 为有效照射面积。 $, \\sigma$ 为雷达散射截面(RCS)，通过式(2）可由 $\\sigma$ 计算出海洋目标后向散射系数 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ ，并给出 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ 定标结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = \\int \\sigma ^ { \\mathrm { 0 } } \\mathrm { d } A\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在海洋表面，在一定的风速范围内， $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ 随着风速的增大而增大，并表现出线性正相关，但当风速增大到一定程度后（如大于 $2 0 \\mathrm { ~ m } / \\mathrm { s }$ ），这种线性关系会迅速减弱，同时 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ 也随着观测方位角发生改变，散射计正是利用 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ 随观测方位角变化规律来反演海面风场信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "散射计系统框图如图2所示，其上半部分为散射计的发射通道，下半部分为散射计的接收通道。式(1)中的 $\\boldsymbol { P } _ { t }$ 和 $\\boldsymbol { P _ { s } }$ 分别指的是散射计在天线端口的发射功率和去噪接收功率。在本次航空校飞中，发射功率 $\\boldsymbol { P } _ { t }$ 是由固态放大器产生的。在地面系统测试中，回波模拟器通过一根电缆直接连到散射计的微波前端入口，在接收到散射计发射的触发脉冲后，回波模拟器会产生模拟海洋表面的点目标或面目标信号发射回散射计。去噪接收功率 $P _ { s }$ 通过散射计的整个接收通道，经过系统放大、数字处理后，得到的数字输出值设为DN。设散射计接收通道增益为 $G _ { \\mathrm { s y s } }$ ，则有：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D N } = P _ { s } \\cdot G _ { \\mathrm { s y s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在航空校飞的地面测试中，对产生发射功率 $\\boldsymbol { P } _ { t }$ 的固放的精确测量，对天线增益 $G$ 的暗室近场测量，以及利用回波模拟器对散射计接收通道增益 $G _ { \\mathrm { s y s } }$ 的测试定标，这三者构成散射计地面系统测试定标的全过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7623da15f8828020ac84120fa3320c6c7a30be4da6db51a51872924940e317e9.jpg",
+        "img_caption": [
+            "Fig. 2 Scattermeter system block diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3中虚线环路为散射计内校准环路。散射计利用内校准采用比率法测量。设内校准环路的接收功率为 $\\boldsymbol { P } _ { \\mathrm { r c } }$ ，散射计实际测量海面时接收功率为DN，散射计发射功率为 $\\boldsymbol { P } _ { t }$ ，内校准环路的损耗为 $L _ { c }$ ，则有：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { r } = P _ { \\mathrm { { } } } \\cdot { \\frac { 1 } { L _ { \\mathrm { { } } } } } \\cdot G _ { \\mathrm { { s y s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D N } = P _ { \\mathrm { \\it { t } } } \\cdot \\frac { G ^ { 2 } \\cdot \\lambda ^ { 2 } \\bullet \\sigma } { ( 4 \\pi ) ^ { 3 } R ^ { 4 } L _ { \\it { s } } } \\cdot G _ { \\mathrm { \\it { s y s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { D N } } { P _ { r } } = \\frac { \\lambda ^ { 2 } \\bullet G ^ { 2 } \\bullet \\sigma \\bullet L _ { c } } { ( 4 \\pi ) ^ { 3 } R ^ { 4 } \\bullet L _ { s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = \\frac { ( 4 \\pi ) ^ { 3 } R ^ { 4 } L _ { s } \\cdot \\mathrm { D N } } { \\lambda ^ { 2 } G ^ { 2 } L _ { c } \\cdot P _ { \\mathrm { r c } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过比率法，式（5）与式（4）相比消去了散射计系统增益 $G _ { \\mathrm { s y s } }$ 以及发射功率 $\\boldsymbol { P } _ { \\iota }$ ，如式（6）所示。在实际工程中，散射计系统增益 $G _ { s y s }$ 与发射功率 $\\boldsymbol { P } _ { \\iota }$ 易产生波动。在比率法中，消去它们波动的影响，使得散射计测量更稳定。由式（7）可以看出，雷达散射截面$\\sigma$ 正比于 $\\mathrm { D N } / P _ { \\mathrm { r c } }$ 。这就是散射计内校准测量的基本原理。在海洋探测中，散射计探测到的是海洋面目标，通过计算海洋实际的有效面积，能够得到后向散射系数 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ ，如式（2）所示，进而进行海洋风场的反演，得到海洋风场的风速和风向。而在对硬目标（例如角反射器、回波模拟器等）的探测中，散射计探测的是硬目标的雷达散射截面 $\\sigma$ ，如式（7）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在内校准测量中，如果能够准确测量出 $L _ { c }$ 和$L _ { s }$ ，理论上就可以得到绝对的 $\\sigma$ 。然而，在工程实践中，除了具有端口的路径通过通用仪器可以准确测定外，测量内部路径存在较大的困难。由于开关、放大器和内校准环路等都采用了微波集成电路，没有对外的测量端口，所以在系统集成后，很难测定其增益、衰减等的准确值。因此，比率法测量到的雷达散射截面 $\\sigma _ { c }$ 偏离了真实值，它受到系统损耗以及内校准环路损耗的影响，如式（8）所示。由于扇形波束体制散射计的天线方向图范围较宽，式（8）中的天线增益 $G$ 随着俯仰角 $\\theta$ 和方位角 $\\varphi$ 的改变而改变。因此，需要精确测量天线方向图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { c } = \\frac { \\sigma \\bullet L _ { c } } { L _ { s } } = \\frac { ( 4 \\pi ) ^ { 3 } R ^ { 4 } \\bullet \\mathrm { D N } } { \\lambda ^ { 2 } G ^ { 2 } \\bullet P _ { \\mathrm { r c } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/88b7e57d2aec2e772b59cd71117237c49e2c0775ef2fe109f5c405453384742f.jpg",
+        "img_caption": [
+            "图2散射计系统框图",
+            "图3散射计系统的信号流程",
+            "Fig.3Signal flow of the system of scatterometer "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图3可以看出，散射计的内校准环路并没有包含测量 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ 的所有路径，例如环形器（Circulator）、微波前端的一些开关(如K1）、传输线等。由于散射计的内校准环路存在测量偏差，因此，需要利用回波模拟器对散射计进行外定标。本文在校飞实验中，采用回波模拟器对散射计进行外定标，并验证该方法的可行性和准确性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4散射计系统测试定标",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1散射计全系统定标方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "散射计全系统的定标方法是采用回波模拟器对散射计进行外定标，其中，回波模拟器需要安装天线，与散射计天线进行端对端的测量，如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9896371adf564af569a871472c412ed74887ab53c2616115744076aced84ea15.jpg",
+        "img_caption": [
+            "Fig.4End-to-end measurement processing "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "散射计全系统定标的主要步骤为，首先，角反射器作为精确已知雷达散射截面的标准散射源，对回波模拟器进行定标。其次，采用回波模拟器对散射计进行端对端测量。最后，通过计算得出回波模拟器发射功率等效的雷达散射截面，为理论上的绝对值，可以作为定标基准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "散射计全系统定标方法适用于在发射场进行的整星测试，对天线端口之间的距离以及天线的阻抗匹配和极化匹配都有标准的工程标定方法。然而，在实验室测量中，很难满足回波模拟器与散射计天线之间端对端远场测试条件。并且，由于CFOSAT散射计采用的扇形波束体制具有宽波束的特点，很难实现全波束范围内的端对端测量。因此，需要寻求适用于实验室测量的定标方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2射频端口等效定标方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在本次校飞实验中，采用一种与全系统方法等效的射频端口等效法。射频端口等效方法的操作步骤为，回波模拟器通过一根电缆直接连入散射计的微波前端，回波模拟器在接收到散射计的触发信号后，经过精确延时，模拟海面目标并发射回散射计。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在天线方向图以及散射计发射功率精确测量的情况下，这种方法是可以替代全系统定标方法的。射频端口等效法工程量小、灵活性高，适用于实验室以及简易发射场测试，是一种快速、便捷的测量方式，大大提高了散射计研制、测试以及校飞的效率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3散射计地面测试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "散射计系统测试的外定标，根据雷达方程主要分为3部分。分别为对发射功率 $\\boldsymbol { P } _ { \\iota }$ 的精确测量，对天线增益 $G$ 的暗室近场测量以及利用回波模拟器对散射计接收通道增益 $G _ { \\mathrm { s y s } }$ 的测试定标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在校飞的地面测试中，首先利用功率计对发射功率 $\\boldsymbol { P } _ { t }$ 进行精确测量，常温下测量结果为 $1 0 . 2 \\mathrm { ~ W ~ }$ .误差为 $\\pm 0 . 1$ dB。其次，在暗室对天线进行近场测量，测量结果如图5所示。并且，通过振动实验验证了天线的稳定性。因此在校飞时，可以忽略天线方向图的变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab464d83dd1b7c8039934803647c877f2c95d759969a94cbb7b9b4f7550e5025.jpg",
+        "img_caption": [
+            "图4端对端测量示意图",
+            "图5天线方向图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最后，利用回波模拟器对散射计接收通道增益$G _ { \\mathrm { s y s } }$ 进行测试定标，完成散射计地面系统测试定标的全过程。用频谱仪对回波模拟器的带内平坦度进行精确测量，如图6所示，得到回波模拟器提供回波的精度为士0.1dB，满足散射计系统测量定标要求。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa870bfd170fb17d58432d4a072481e9bbc981966e63f75064409a6bd2e09ccd.jpg",
+        "img_caption": [
+            "Fig.5Antenna gain pattern ",
+            "图6回波模拟器精度测量图",
+            "Fig.6Return signal simulator accuracy measurement "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在散射计的地面测试中，回波模拟器接收到散射计发射的触发信号，经过精确延时后，将模拟的海洋目标信号发射回散射计。用功率计测量回波模拟器提供给散射计的功率。在校飞的地面测试中，回波模拟器在衰减一 $\\cdot 3 0 , - 4 0 , - 6 0$ dB时，测得散射计接收到的回波功率。根据式(3)解算出散射计接收通道增益 $G _ { \\mathrm { s y s } }$ ，具体数据结果在表1中列出。在HH极化方向，散射计接收通道增益 $G _ { \\mathrm { s y s } }$ 均值为$1 2 2 . 4 2 \\ \\mathrm { d B }$ 。在VV极化方向，散射计接收通道增益$G _ { \\mathrm { s y s } }$ 均值为 $1 2 2 . 5 3 ~ \\mathrm { d B }$ 。精度范围分别为 $\\pm 0 . 3 4$ dB$( \\mathrm { H H } ) \\ 、 \\pm 0 . 4 4 ~ \\mathrm { d B } ( \\mathrm { V V } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用雷达方程计算观测目标的雷达散射截面最快捷，但由于散射计设备本身各项参数的波动会产生较大的误差，在工程实际中通常不采用这种方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f66804aa8a7a53cc004514bb7740f881258d0ade56056301390f19993385638.jpg",
+        "table_caption": [
+            "Table 1The ground test data of airborne validation experiments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>回波模拟器衰减/dB</td><td>GsysHH/dB</td><td>GsysVV/dB</td></tr><tr><td>-30</td><td>122.62</td><td>122.02</td></tr><tr><td>-40</td><td>122.02</td><td>122.79</td></tr><tr><td>-60</td><td>122.62</td><td>122.79</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在实际工程中，散射计通常采用比率法，用内校准环路测量值与散射计接收通道测量值的比值，来计算观测目标的后向散射系数，具体方法在3散射计系统测试定标原理中已详细论述。比率法可以减小散射计系统增益、发射功率等的波动引起的误差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本次校飞实验的实际地面测试中，采用射频端口等效法对散射计进行标定。其中，发射功率 $\\boldsymbol { P } _ { t }$ ，天线增益 $G$ ,均可在上述定标工作中得到。为满足校飞实验要求，设定观测距离 $R$ 为 $3 ~ \\mathrm { k m }$ ，由式（9）即可得到回波模拟器发射功率 $P _ { \\mathrm { r s s } }$ 等效的已知的雷达散射源，设为 $\\sigma _ { \\mathrm { r s s } } , \\sigma _ { \\mathrm { r s s } }$ 可以作为测量基准值。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\mathrm { r s s } } = \\frac { P _ { \\mathrm { r s s } } \\bullet ( 4 \\pi ) ^ { 3 } \\bullet R ^ { 4 } } { P _ { t } \\bullet G ^ { 2 } \\bullet \\lambda ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据式(9)可以计算出回波模拟器发射功率等效的雷达散射截面。例如在天线的最大增益方向上，当回波模拟器衰减一 $6 0 ~ \\mathrm { d B }$ 时，等效于在 $3 ~ \\mathrm { k m }$ 处放置一个面积为 $4 . 6 7 ~ \\mathrm { m ^ { 2 } }$ 的标准雷达散射源。采用回波模拟器对散射计进行系统测试定标能够排除地杂波与多径效应的影响并节约成本。因此，回波模拟器能够为校飞实验以及星载散射计提供一种快速准确的定标方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { D N _ { \\mathrm { r s s } } } { P _ { \\mathrm { r c } } } = \\frac { \\lambda ^ { 2 } \\bullet G ^ { 2 } \\bullet \\sigma _ { c } } { ( 4 \\pi ) ^ { 3 } R ^ { 4 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\sigma _ { \\mathrm { r s s } } } { \\sigma _ { c } } = \\frac { P _ { \\mathrm { r s s } } \\bullet P _ { \\mathrm { r c } } } { P _ { t } \\bullet D N _ { \\mathrm { r s s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过式（10）能够解算出在地面测量中，通过比率法测得的 $\\sigma _ { c }$ 。由于 $\\sigma _ { c }$ 存在测量偏差，因此，需要与回波模拟器的测定值 $\\sigma _ { \\mathrm { r s s } }$ 进行比较， $\\Delta \\sigma = \\sigma _ { \\mathrm { r s s } } -$ $\\sigma _ { c } ( \\mathrm { d B } )$ ，如式（11）所示。得到的 $\\Delta \\sigma$ 即为通过回波模拟器对散射计进行外定标得到补偿值。 $\\Delta \\sigma$ 将用于校飞实验数据处理中，对散射计测量的海面目标后向散射系数 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ 进行补偿。具体的数据处理结果在表2中列出。在HH极化方向，补偿值 $\\Delta \\sigma$ 的测量均值为$1 1 . 5 9 ~ \\mathrm { d B }$ ，精度范围为士 $0 . 1 5 { \\mathrm { ~ d B } }$ ;在VV极化方向，$\\Delta \\sigma$ 的测量均值为 $1 0 . 8 8 ~ \\mathrm { d B }$ ，精度范围为士 $0 . 2 5 { \\mathrm { ~ d B } }$ 。$\\Delta \\sigma$ 主要是由散射计内定标环路并没有包含测量 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ 的所有路径引起的，包含环形器、微波前端的一些开关和传输线等。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/492de05060a4a27a0390347fabd6624595ef016599072c8e2dda4c383ac5c209.jpg",
+        "table_caption": [
+            "表1校飞实验地面测试数据",
+            "表2△σ数据处理结果",
+            "Table 2Data processing results of $\\Delta \\pmb { \\sigma }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>回波模拟器 衰减/dB</td><td>内定标测试 功率/W</td><td>△σ(HH) /dB</td><td>△σ(VV) /dB</td></tr><tr><td>-30</td><td>0.12</td><td>11.61</td><td>11.09</td></tr><tr><td>-40</td><td>0.11</td><td>11. 46</td><td>10.88</td></tr><tr><td>-60</td><td>0.12</td><td>11. 71</td><td>10.67</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "运用回波模拟器对散射计进行外定标，可以补偿散射计内校准环路并不包含完整的 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ 测量路径所带来的误差，得到补偿值 $\\Delta \\sigma$ ，并应用于后续的校飞实验数据处理中。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5校飞实验结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在航空校飞实验中，数据预处理的过程就是根据式(2)解算后向散射系数 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ 的过程。首先，判断接收数据的有效性，处理定标数据，并与辅助数据进行配准，然后解算定标因子，最后计算后向散射系数 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ 并估算误差。再利用NSCAT2模型值以及上述定标工作中得到的 $\\Delta \\sigma$ 对飞机测量数据进行偏移量校正，进而利用校正后的后向散射系数进行风矢量反演5」。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中，定标因子的计算应用了散射计地面测试中得到的参数，包括固放的发射功率 $\\boldsymbol { P } _ { t }$ ，天线增益 $G$ 以及散射计接收通道增益 $G _ { \\mathrm { s y s } }$ 。并且，对于探测到的海面目标后向散射系数，进行了 $\\Delta \\sigma$ 的补偿，最终计算出校准后的海面后向散射系数 $\\boldsymbol { \\sigma } ^ { \\mathrm { 0 } }$ ，并估算其误差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "散射计在探测目标海面时，很难直接检验海洋目标后向散射系数的精度。根据后向散射系数与风场反演的模型[，可以由反演所得的风速、风向与船测实际风速、风向的偏差，间接地得到后向散射系数的测量精度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本次校飞实验中，每个架次均与船舶在同海域进行同步测量，具体的风场反演测量数据与结果如表3所示。从表3可以得到，风场反演结果与船舶现场同步观测匹配风矢量一致，风速偏差优于$0 . 7 ~ \\mathrm { m / s }$ ，风向偏差优于 $1 8 ^ { \\circ }$ 。根据后向散射系数与风场反演的模型，第1架次对应的后向散射系数精度为 $\\pm 0 . 1 5$ dB,第2架次对应的后向散射系数精度为士0.1dB，第3架次对应的后向散射系数精度为$\\pm 0 . 2 \\ \\mathrm { d B }$ ，第4架次对应的后向散射系数精度为$\\pm 0 . 3 \\ \\mathrm { d B }$ 。因此，可以认为校飞实验中，后向散射系数的精度优于士O.5dB，满足散射计设计精度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这证明回波模拟器能够对星载散射计进行系统测试定标，验证散射计系统设计的可靠性，并达到一定的精度，满足散射计的设计实验要求，为散射计在轨的稳定运行奠定了基础。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/868c8b368b8e50b8f58025626fb0f35712f9b745b22aa25a0f21af5ba6062c19.jpg",
+        "table_caption": [
+            "表3校飞测量数据风场反演结果",
+            "Table3 Wind retrieval results of the flight experiments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>有效架次 序号</td><td>机载散射计风速 /m·s-1</td><td>机载散射计 风向/°</td><td>真实风速 (船测) /m·s-1</td><td>真实风向 （船测)/°</td><td>风速偏差 /m·s-1</td><td>风向偏差 /</td></tr><tr><td>1</td><td>4.8</td><td>28</td><td>5.0</td><td>30</td><td>0.2</td><td>2</td></tr><tr><td>2</td><td>3.4</td><td>104</td><td>3.5</td><td>112</td><td>0.1</td><td>8</td></tr><tr><td>3</td><td>11. 0</td><td>105</td><td>11.6</td><td>112</td><td>0.6</td><td>7</td></tr><tr><td>4</td><td>6.4</td><td>159</td><td>7. 1</td><td>177</td><td>0.7</td><td>18</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "回波模拟器由于其具有毫秒级的精确延时功能，并且能够模拟海面的点、面目标，已成为散射计研制过程中不可或缺的设备之一。本文提出了用回波模拟器对散射计进行系统测试定标的方法，验证回波模拟器对散射计进行定标的可行性和准确性，奠定了利用回波模拟器对散射计进行定标研究的基础。在此基础上，可将回波模拟器进一步升级为有源定标器，为CFOSAT卫星在轨定标提供地面定标基准。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Woodhouse I H.Introduction to Microwave Remote Sensing [M].New York:Taylor & Francis Ltd,2005. [2] Dong XL,Liu D Z,ZhuJT.Some Consideration about the Inorbit Calibration of Spaceborne Rotating Fan Beam Radar Scatterometer[C]//IEEE International Geoscience and Remote Sensing Symposium,Vancouver,Canada,2011. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[3]Guo Wei,Zhang Xiaohui.Application of Return Signal Simula-tor in Radar Altimeter Ground-based Test and Calibration[J]Remote Sensing Technology and Application,20o5,20(1):178-  \n181[郭伟，张晓辉.回波模拟器在雷达高度计地面测试和定标中的应用[J].遥感技术与应用，2005，20（1)：178-181.][4]Guo Wei,Jiang Jingshan.Design of Ocean Return Signal Simu-lator[J].Remote Sensing Technology and Application,2000,  \n15(2):86-89.[郭伟，姜景山.海面回波模拟器方案设计[J].遥感技术与应用，2000，15(2)：86-89.][5] Xu Xing'ou. The Research on Scatterometer Data Processingand Wind Retrieving[D].Beijing:National Space Science Cen-ter，2013.［徐星欧.散射计数据处理与风场反演方法研究[D].北京：中国科学院空间科学与应用研究中心，2013.][6] Moore RK,Fung A K.Radar Determination of Winds at Sea[J].Proceedings of the IEEE,1979,67(11):1504-1521.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Analysis on Calibration for Flight Experiments of CFOSAT Scatterometer by Return Signal Simulator ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "He Jianingl'²,Guo Wei1 ,Zhu Di $^ { 1 }$ ,Zhao Feil (1. The CAS Key Laboratory of Microwaue Remote Sensing ,Center for Space Science and Applied Research ,Chinese Academy of Sciences ,Beijing 1Ool9o,China; 2.University of Chinese Academy of Sciences,Beijing 1Ooo49,China ) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract:A flight experiment is an important experimental step that needs to be conducted in the prelaunch for Chinese-French Oceanic SATellite(CFOSAT).Functionally,performance and data validation of spaceborne scatterometer should be verified to ensure in-orbit work status.In this flight experiment,return signal simulator is used to conduct ground-based system testing and calibration for CFOSAT,which proposes a method to use return signal simulator for spaceborne scatterometer system calibration. This method is helpful to ground-based calibration experiments for CFOSAT. Return signal simulator could provide a known echo signal. The results in flight experiments verify the feasibility and accuracy by return signal simulator to conduct the ground-based calibration for spaceborne scatterometer. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key words: Return Signal Simulator(RSS) ;Scatterometer;Flight experiment ",
+        "page_idx": 5
+    }
+]

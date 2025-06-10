@@ -1,0 +1,780 @@
+[
+    {
+        "type": "text",
+        "text": "采用URL特征的Hub网页识别方法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张策」都云程1,2梁然²1(北京信息科技大学 TRS软件开放实验室 北京 100085)2(北京拓尔思信息技术股份有限公司北京 100101)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】通过构建简单数据样本，解决传统网页类型识别方法效率低的难题。【方法】采用URL特征作为识别依据，抽取URL信息构建训练集与测试集，使用支持向量机(SVM)建立机器学习模型以提高识别效率。【结果】在同样的数据集上,该方法的准确率为 $91 . 2 \\%$ ，优于其他识别方法。在效率性能方面，该方法提升近 $60 \\%$ 【局限】当遇到URL特征不明显甚至完全相背的网站时，识别准确率会大幅度降低。【结论】该方法在效率方面存在很大优势，应用到采集系统中可提高采集效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:URL 特征 Hub 网页 支持向量机分类号：TP391.1G35",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着网络的发展，Web上的网页数量增长迅猛即使采用大规模的分布式网页采集系统，采集整个网络中的绝大多数重要网页也要花费很长时间。研究结果表明，中国的网页一个月内大约只有 $8 . 5 2 \\%$ 发生变化[1]，所以采用全采集的方式，存在很大的资源浪费。另外由于两次采集的周期过长，在此周期内网页变化频率大的网页发生了多次变化，而采集系统不能及时抓取变化后的网页，就会导致搜索引擎系统不能对这些网页提供检索服务。为了解决这个问题，产生了网页增量采集系统。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "网页增量采集系统不是采集所有得到的URL，只是通过估计网页的变化规律采集新出现的网页、变化的网页和消失的网页，不关心没有变化的网页。这样极大减少了采集量，能快速同步Web上的网页与搜索引擎中的网页，从而给用户提供更实时的检索服务。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在增量式采集研究中，网页通常被分为目录型网页(Hub网页)与主题型网页(Topic 网页)2,Hub 网页在网站中的作用是引导用户找到相关的主题网页，相当于目录索引，没有具体表达的内容，为主题型网页提供入口[3]。主题型网页是具体讲述某一主题。经实验证明，很多新网页都是从Hub网页链接过去的[4]。因此，增量式采集系统只要找出Hub网页进行采集就能发现新出现的URL。如上所述，识别哪些网页是Hub网页就成为首先要解决的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对此问题，本文提出一种基于URL特征的Hub网页识别方法，首次将URL特征作为Hub网页识别的全部依据，这将会弥补传统Hub网页识别所带来的巨额开销，最后通过对比实验验证该方法的有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 相关工作",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前主要的Hub网页识别方法有基于简单规则的识别方法[4]、基于多特征启发式规则的分类方法[5-6]和基于网页内容的机器学习方法[7-9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于简单规则的识别方法是分析Hub网页URL的特点，总结出其规律，制定简单规则，符合条件的就是Hub网页。Meng等提出选择网站首页，以及网站中网页文件名包含index、class和default等单词的网页作为Hub 网页[4]，采集Hub 网页中链接所对应的网页。该方法能采集到一大部分新网页，但是对新网页采集的召回率不是很高。存在以下问题：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)Hub网页选择不准确。由于网页的文件名是由人命名的，没有固定模式，因此不可能寻找到一个规则可以正确找出所有Hub网页;(2）不能自动识别Hub网页。由于在采集过程中不能及时发现新的Hub网页，所以就不能发现新Hub网页中的链接信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了解决基于简单规则方法的局限性，Ai1等提出基于多特征启发式规则的网页分类方法，依据非链接字符数、标点符号数和文字链接比三个特征构建启发式规则[5]。研究发现Hub 网页与主题网页在这些特征值上存在广泛差异，这种差异证明了网页通过这些特征值进行分类的可行性。该方法通过统计网页中各个特征的具体值，根据贝叶斯公式计算各个特征值对Hub网页的概率支持度，根据每个特征值的概率支持求出综合支持度，通过与设定的阈值进行比较，判断网页属于哪一类。该方法的不足之处在于过度依赖阈值的设定，阈值的设定会直接影响分类的准确率，然而对于不同类型网站，阈值设定也不同，这样就增加了算法的复杂度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了解决阈值的依赖问题，文献[9]提出基于网页内容的机器学习方法，通过HTML解析分析出网页特征，建立训练集与测试集，从而得到机器学习模型，用于识别Hub网页。该方法准确率高，但是效率不高，增加了系统的额外开销。因为该方法是建立在网页内容的基础上，需要解析所有的HTML网页，并提取其中的特征进行保存，这样就在一定程度上占用了系统资源，给采集系统带来额外负担，影响采集系统的性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述方法从不同层面对识别Hub网页进行分析，在前人研究的基础上，本文提出的基于URL特征的识别方法，将会很大程度地解决上述问题。该方法采用URL特征作为样本，选用SVM作为机器学习方法进行识别。与基于规则和基于网页内容的方法相比,提供了一种更具使用价值的方法。一方面，特征提取简单高效，易于实现，同时兼顾了识别的准确率。另一方面，在采集系统中，从网页中提取URL是必不可少的部分，因此选用URL作为识别依据，可以减小对系统效率的影响，不会给采集系统增加太大的额外开销。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3基于URL特征的Hub网页识别方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 SVM介绍 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "支持向量机(SupportVectorMachines，SVM)是由Vapnik等开发的一种机器学习方法。支持向量机是建立在统计学理论——VC维理论和结构风险最小原理基础上的，特别是在样本数目较少的情况下，SVM的性能明显优于其他算法[10-12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其基本思想为：定义最优线性超平面，将寻找最优超平面的算法归结为求解一个最优(凸规划)问题。进而基于Mercer核展开定理，通过非线性映射，将样本空间映射到一个高维乃至于无穷维的特征空间，使在特征空间可以应用线性学习机的方法解决样本空间中高度非线性分类和回归等问题。其还包括以下优点：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）基于结构风险最小化原则，这样可以避免过拟合问题，泛化能力强，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）SVM有坚实理论基础的小样本学习方法。它基本上不涉及概率测度及大数定律。从本质上看，避开了从归纳到演绎的传统过程，实现了高效的从训练样本到预测样本的\"转导推理\"，大大简化了通常的分类和回归等问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）SVM的最终决策函数只由少数的支持向量所确定，计算的复杂性取决于支持向量的数目，而不是样本空间的维数，这在某种意义上避免了“维数灾难”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4)少数支持向量决定了最终结果，这有助于抓住关键样本、“剔除\"大量冗余样本，而且注定了该方法算法简单，同时具有较好的“鲁棒\"性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 方法概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hub 网页识别可以理解为一个二分类问题，其中正类为Hub网页，负类为主题网页，Hub网页识别的关键是如何正确划分Hub网页与主题网页。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于URL特征的Hub网页识别方法主要依据URL中与Hub网页有关系的特征划分网页。具体过程如下：分析已经得到的URL，提取其中包含的特征信息，找出与Hub网页有关的特征；将得到的特征整合成训练集与测试集，用训练集去训练SVM机器学习模型，同时评测其效果；根据效果调整SVM模型参数，从而确定最优参数，得到最终SVM学习模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.3 实现流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1展示了基于URL 特征的 Hub 网页识别方法的架构，从整体角度出发，该方法主要包含三大模块:",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "预处理、特征提取、训练分类。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7183b32676baa2cf82d4e21f751d32b2eb53fb08bfed8a3b32300afca70605d0.jpg",
+        "img_caption": [
+            "图1 Hub网页识别的架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)预处理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "预处理主要包括URL分析。URL中包含很多信息，其中一些信息可以作为网页分类的依据，URL 分析的目的在于找出对分类有用的特征信息。URL中存在的信息包括URL长度以及URL之中是否包含某些字符串等。URL所对应的锚文本也能在一定程度上反映网页类型，因此，需要在预处理阶段提取URL所对应的锚文本。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本实验的基础数据都是预先由网络采集器采集，在采集过程中，URL及其对应的标题等采集信息会作为日志文件被记录下来。因此，实验通过抽取日志文件内容进行分析，获取其中URL相关信息。其中包括URL标题长度、URL长度、URL是否含有日期、网页文件名、文件类型、参数名称、参数个数、目录名称、目录深度、URL大小、采集深度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)特征提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "特征提取主要包括特征选择与特征量化。特征选择的任务是要将信息量小、不重要的特征从特征项空间中删除，从而降低特征项空间的维数。特征量化是将选择的特征进行数值化，从而代表该特征和Hub页的关联程度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经URL分析，可以得到URL中包含的信息，通过查阅相关文献并观察统计可以发现Hub网页具有以下区别于主题网页的特征：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ URL标题长度：即锚文本长度，Hub网页由于不讲述某一具体内容，锚文本长度一般较短。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ URL长度：由于Hub网页基本都位于主题网页上层，因此Hub网页的URL相比主题网页较短。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ URL是否含有日期：主题网页主要讲述某一内容，在",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "URL中大多包含发布日期,Hub网页基本没有。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 网页文件名：Hub网页URL一般有两种可能：只是一个目录，不存在文件名；文件名中大都包含\"index”、“class”等词语。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{5}$ 文件类型：文件类型与网页文件名是一体的，存在网页文件名的Hub 网页大多数是ASP、JSP、ASPX和PHP类型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{6}$ 参数名称：存在参数的URL中，主题网页URL大都包含ID参数，而Hub网页的URL一般没有。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{7}$ 参数个数：Hub网页URL大多没有参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{8}$ 目录深度：Hub网页基本上都是位于网站的上层。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{9}$ URL大小：即URL对应网页的大小。Hub网页存在大量链接，对应网页也相对较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{10}$ 采集深度：采集到该URL的层次。Hub网页为主题网页提供链接入口，因此,Hub网页采集一般都先于主题网页。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "机器学习模型只能将数值类型进行分类，因此需要将文本类型进行数值化，数值化的依据为归纳不同类型URL的文本值，找出代表性的文本值进行赋值,赋值是通过统计求出各个文本值的出现频率，然后计算其出现概率并进行归一化处理。在统计中，选取500个Hub网页，对各个文本值数量进行统计并计算概率，将概率乘以100进行赋值(只是为了让最后得到的特征值在一个合理的范围)，具体过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 网页文件名为\"空\"的数量为302，其概率为0.604，赋值为60.4；含有\"class”、“index”、“default\"和\"list\"的数量为153，其概率为0.306，赋值为30.6；含有\"article\"和\"content\"的数量为0，其概率为0，赋值为0；其他情况数量为45，其概率为0.09，赋值为9。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 文件类型为\"空\"的数量为302，其概率为0.604，赋值为 60.4；含有\"asp”、“jsp”、“aspx\"和\"php\"的数量为123，其概率为0.246，赋值为 24.6；含有\"shtml”、“html\"和\"htm\"的数量为75，其概率为0.15，赋值为15；其他情况数量为 0,其概率为0，赋值为0。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 参数名称为“空\"的数量为412，其概率为0.824，赋值为82.4；含有\"id\"的数量为52，其概率为0.104，赋值为10.4;其他情况的数量为36，其概率为0.072，赋值为7.2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）训练分类 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过以上步骤，将URL表示成向量空间，使用LibSVM[13]对URL 进行分类。LibSVM是一个快速有效的SVM模式识别与回归的集成包，还提供了源码，可以根据需求对源码进行修改。本实验使用的是LibSVM-3.20版本①中的Java源代码，在参数设置和训练模型两个方面对源码进行修改，增加参数自动寻优以及模型文件返回保存功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 按照LibSVM所要求的格式准备数据集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该算法使用的训练数据和测试数据文件格式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[label][index1]:[value1] [index2]:[value2]... ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[label][index1]:[value1] [index2]:[value2]... ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，label(或称class)是本条数据所属种类，通常是一些整数；index表示特征的序号，通常是以1开始的整数;value是特征值，通常是一些实数。当特征值为0时，特征序号和特征值都可以省略，所以index可以是不连续的自然数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 对数据进行简单的缩放操作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "扫描数据，由于原始数据可能范围过大或过小，svmscale可以先将数据重新缩放到适当的范围，默认范围是[-1,1]，可以用参数lower和upper分别调整缩放的上界与下界。这样也避免在训练时为了计算核函数而计算内积的时候引起数值计算的困难。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 选用RBF核函数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SVM的类型选择C-SVC，即C类支持向量分类机，允许用异常值惩罚因子c进行不完全分类。c越大，错分样本越少，分类间距变小，泛化能力减弱;c越小，错分样本越大，分类间距变大，泛化能力增强。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "核函数的类型选择RBF，原因有三点：RBF核函数可以将一个样本映射到一个更高维的空间，而且线性核函数是RBF的一个特例，也就是说如果考虑使用RBF，那么就没有必要考虑线性核函数；需要确定的参数较少，核函数参数的多少直接影响函数的复杂程度；对于某些参数，RBF和其他核函数具有相似的性能。在RBF核函数中自带一个gamma参数，表示核函数的半径，隐含地决定了数据映射到新的特征空间后的分布。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SVMtrain对训练数据集进行训练，获得SVM模型。模型内容如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "svm_type c_svc %训练所采用的SVM类型，此处为C-SVC  \nkernel_type rbf%训练采用的核函数类型，此处为RBF核  \ngamma0.0769231%设置核函数中的gamma参数，默认值为1/k  \nnr_class 2 %分类时的类别数，此处为两分类问题  \ntotal_sv 132 %支持向量的总个数  \nrho 0.424462 %决策函数中的常数项  \nlabel10 %类别标签  \nnr_sv 6468 $\\%$ 各类别标签对应的支持向量个数  \nSV %以下为支持向量  \n11:0.166667 2:13:-0.333333 4:-0.433962 5:-0.383562 6:-1 7:-18:0.0687023 9:-1 10:-0.90322611:-1 12:-1 13:1  \n0.51048321289851641:0.1252:13:0.333333 4:-0.3207555:-0.406393 6:1 7:1 8:0.0839695 9:1 10:-0.80645212:-0.33333313:0.5",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 采用十折交叉验证选择最佳参数c与g(c为惩罚系数，g为核函数中 gamma 参数)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "交叉验证是把训练样本平均分成10份，每次拿出9份当作训练集，剩下的一份当作测试集，这样重复10次，获得10次的平均交叉验证准确率，以此寻找最佳的参数，使得准确率最高。在LibSVM源码中每次只能验证一组参数的效果,要寻求最优参数，只能多次手动设置参数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本实验对源码进行修改，采用网格搜索方法自动寻求最优参数并返回。具体操作为自动获取一组参数，进行十折交叉验证，得到平均准确率，以此重复，最终找到对应最高准确率的那组参数。为了确定训练集的合适大小，选取三个训练集分别进行训练。实验结果表明，训练集为1000时，平均分类精度为 $80 \\%$ ；训练集为2000和3000时，平均分类精度都在 $91 \\%$ 左右。因此，为了保证训练集的精简，训练集大小选择2000，平均分类精度达到最高 $( 9 1 \\% )$ 时,c为 $3 2 , \\mathrm { g }$ 为0.0625。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{5}$ 采用最佳参数c与 $\\mathbf { g }$ 对训练集进行训练获取SVM模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用SVMtrain函数训练模型，LibSVM中不会保存训练模型，每次预测都需要重新训练。本实验改进了源码，将训练好的模型进行本地保存，以方便下次使用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{6}$ 利用获取的模型进行预测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用训练好的模型进行测试。输入新的X值，给出SVM预测出的Y值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 可行性验证 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 验证方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别与两种方法进行对比实验，验证基于URL特征的Hub网页识别方法的可行性：与传统的基于多特征启发式规则的网页分类方法对比；与传统的基于内容特征的机器学习方法对比。该阶段没有选用与传统基于URL的简单规则识别方法进行对比，是因为在曹桂峰的研究中已经明确证明基于URL简单规则的效果明显差于基于多特征启发式规则的分类方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可行性主要从效率和效果两方面进行验证，已有研究在提出传统方法时，只给出了其效果数据，没有效率方面的数据，因此本文将两种验证方法根据原有步骤再次实现，在达到原有实验效果的同时得到其效率数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 验证方法实现 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）基于多特征启发式规则的网页分类方法$\\textcircled{1}$ 预处理操作。通过一组正则表达式去除注释信息、  \nScript脚本和CSS样式信息。$\\textcircled{2}$ 计算网页的特征值。该过程是进行网页分类的关键，  \n主要是计算经过归一化后的非链接字符数、标点符号数、文  \n字链接比。$\\textcircled{3}$ 计算支持度。通过求得的各项特征值计算该网页为主  \n题型网页的综合支持度。$\\textcircled{4}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将计算得到的支持度同阈值进行比较。如果支持度小于该阈值，则输出网页的类型为Hub网页，否则输出网页类",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "型为主题型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在该验证方法实现过程中，阈值是通过实验的方法获取，实验中选取500个Hub网页，计算每个网页为主题型网页的综合支持度，发现其值都集中在0.6以下，其中大部分集中在-0.2以下，因此确定了阈值大致范围，最终在该范围内进行逐一测试实验，找出最优阈值，使得实验准确率最高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）基于内容特征的机器学习方法",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ HTML解析。通过建立DOM树去掉与网页分类无关的HTML 源码。HTML 解析步骤如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1)规范化HTML标签 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于有些网页中的HTML标签是错误的、丢失的，为了后续处理的方便，需要将错误的标签改正回来，将丢失的标签补全。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2)建立 DOM树",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由 HTML 中的标签建立一棵DOM树。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3)网页去噪 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除去<style>、<script>、<applet>等标签所嵌的 HTML源码，因为这些代码只与网页表现形式有关，而与网页内容无关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4)信息提取",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从网页中抽取信息，包括：网页深度、更新周期、锚文本文字数量、文本文字数量、含有URL个数、含有新URL个数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 特征提取。通过观察与实验，找出在两种网页类型上存在差异的特征项，因此提取8个网页内容特征，分别为：网页深度、更新周期、锚文本文字数量、文本文字数量、锚文本文字与文本文字数量之比、URL个数、新URL个数、新URL所占比率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 训练分类。根据提取的特征值建立训练集与测试集，训练SVM分类模型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1 评价指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对识别效果主要从两个方面进行评价：识别效率与识别效果。其中，效率就是系统开销，包括耗费时间、内存使用率和CPU使用率；效果主要包括准确率和召回率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "准确率(Precision)，表示在分类过程中得到的网页测试集中，网页类别被正确标注的网页所占的比率，反映分类器分类的准确程度。召回率(Recall)，表示在分类过程中得到的网页测试集中，真正网页类别被正确标注在所有符合该类别的网页测试集中所占的比率，反映分类器查到相关网页的完备性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "准确率与召回率反映分类效果的两个方面是互补的，单纯的提高某一个，另外一个就会受到其影响。在实际应用中，需要综合考虑准确率与召回率，目前主要用F1值作为评价标准，反映准确率和召回率综合效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验采用Precision，Recall和F1评价网页分类的效果,Precision,Recall和F1计算方法如下所示。参数含义如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P r e c i s i o n } = { \\frac { \\mathrm { T P } } { \\mathrm { T P } + \\mathrm { F P } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\mathrm { R e c a l l } = \\frac { \\mathrm { T P } } { \\mathrm { T P } + \\mathrm { F N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F 1 } = \\frac { 2 \\times \\mathrm { P r e c i s i o n } \\times \\mathrm { R e c a l l } } { \\mathrm { P r e c i s i o n } + \\mathrm { R e c a l l } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d837f0dd727b7c3dd5ece9110cefac70ce098360ba37eb7a321192b26ec4e852.jpg",
+        "table_caption": [
+            "表1参数解释"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Hub 网页</td><td rowspan=\"2\"></td><td colspan=\"2\">专家判断</td></tr><tr><td>Yes</td><td>No</td></tr><tr><td rowspan=\"2\">分类器判断</td><td>Yes</td><td>TP</td><td>FP</td></tr><tr><td>No</td><td>FN</td><td>TN</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.2 实验数据与环境",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在实验中，从50个中文网站采集网页，这50个网站大致分为：政府网站(10个)、教育网站(10个)、事业单位网站(10个)、公司网站(10个)和新闻网站(10个)。其中，由于新闻网站网页数量较大，因此每个新闻网站采集500个网页，而其他4种类型网站相对较小，因此采集300个网页。为了保证数据的多样性，同时保证实验数据的简单高效，需要对采集的网页进行筛选精简，减少数据冗余。从采集的网页中分别选取1000个、2000个和3000个作为训练集，每个训练集从每种类型网站中平均选取，其中Hub网页与主题网页数量各占一半。构造三个训练集是为了确定训练集大小的合适取值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在训练机器学习模型时，是在随机切分的测试数据上得到的交叉验证平均准确率，因此对已有算法就不能使用同样的测试数据，造成缺乏可比性。因此在实验中又标注了另外30个网站中的1000个网页作为测试数据，其中包括600个Hub网页和400个主题网页。保证了与已有算法的可比性，同时也在一定程度上证明本文提出算法的稳定性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验环境使用Win7系统,CPU为Intel双核，内存为2GB。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.3 实验结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本实验分别选用基于URL特征的Hub网页识别方法、基于多特征启发式规则的网页分类方法和基于内容特征的机器学习方法进行三次实验。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2为采用基于URL特征的Hub网页识别方法得到的实验结果，经计算得到Precision 为 $91 . 2 0 \\%$ Recall为 $8 6 . 3 3 \\%$ F1为 $8 8 . 7 0 \\%$ 。在训练样本上对模型进行十折交叉验证得到平均准确率为 $91 \\%$ O",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4afdb2521c8a168e4ce7b8df8dd1c1827a61697a53a1017707d746e007f3b537.jpg",
+        "table_caption": [
+            "表2基于URL特征的Hub 网页识别"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Hub 网页</td><td rowspan=\"2\"></td><td colspan=\"2\">专家判断</td></tr><tr><td>Yes</td><td>No</td></tr><tr><td rowspan=\"2\">分类器判断</td><td>Yes</td><td>518</td><td>50</td></tr><tr><td>No</td><td>82</td><td>350</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3为采用基于多特征启发式规则的网页分类方法得到的结果，实验中阈值在-0.2到0.6之间选取，经多次实验发现阈值选择-0.1时，准确率最高，经计算得到Precision为 $8 6 . 6 3 \\%$ ，Recall为 $8 3 . 1 7 \\%$ ，F1为$84 . 8 6 \\%$ ，该结果已达到曹桂峰所做实验的效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8e46d27f0a41befbb48b427cbf3e9da9a1100469a8441130e8b4711b9d6e3a0d.jpg",
+        "table_caption": [
+            "表3基于多特征启发式规则的网页分类"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Hub 网页</td><td colspan=\"2\">专家判断</td></tr><tr><td>Yes</td><td>No</td></tr><tr><td rowspan=\"2\">Yes 分类器判断</td><td>499</td><td>77</td></tr><tr><td>No 101</td><td>323</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4为采用基于内容特征的机器学习方法得到的实验结果，经计算得到Precision为 $8 8 . 7 3 \\%$ ，Recall为$90 . 5 0 \\%$ ，F1为 $89 . 6 1 \\%$ ，该结果已达到文献[9]中实验的效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/43622ce708d182046f79435f9736bdde9627ce190d7c171555f34f64f2dd5bf5.jpg",
+        "table_caption": [
+            "表4基于内容特征的识别"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Hub 网页</td><td colspan=\"3\">专家判断</td></tr><tr><td></td><td>Yes</td><td>No</td></tr><tr><td rowspan=\"2\">分类器判断</td><td>Yes</td><td>543</td><td>69</td></tr><tr><td>No</td><td>57</td><td>331</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5是在三种方法具体实现时，得到的各个方法运行过程中消耗的时间、内存使用情况和CPU使用情况。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.4 分析与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为证明基于URL特征的Hub网页识别方法的稳定性，在训练阶段对该模型进行了十折交叉验证，得到平均准确率为 $91 \\%$ ，用该模型对测试数据进行测试时，得到准确率为 $91 . 2 \\%$ ，这两组数据没有明显差异，由此可以证明该方法具有一般性与稳定性。实验结果对比如图2所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/557043ab97bd336f7a5aa80358e56e45a6281c81e83afcf09f1141362d403632.jpg",
+        "table_caption": [
+            "表5三种方法的系统开销数据"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>实验 组别</td><td>方法</td><td>处理 网页数</td><td>耗时 /s</td><td>内存使用 /MB</td><td>CPU 使用率</td></tr><tr><td>1</td><td>基于多特征 启发式规则</td><td>1000</td><td>79.6</td><td>112</td><td>51%</td></tr><tr><td>2</td><td>基于内容特征</td><td>1000</td><td>87.5</td><td>128</td><td>59%</td></tr><tr><td>3</td><td>基于URL 特征</td><td>1000</td><td>21.3</td><td>36</td><td>17%</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/86a1c4c2e19abc34976651dc9382d29855048e37254d04c8b7927a4a18226ad7.jpg",
+        "img_caption": [
+            "图2效果对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于URL特征的Hub 网页识别方法优于基于多特征启发式规则的分类方法，经分析原因为：基于多特征启发式规则的分类方法缺乏灵活性，不可能适用于所有网页；在基于多特征启发式规则的分类方法中阈值的设定存在盲目性；基于URL特征的Hub网页识别采用机器学习模型，能发掘特征之间的内在联系，具有很强的泛化能力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于URL 特征的Hub 网页识别方法与基于内容特征的机器学习方法在实验效果上没有太大差异，因为两者采用了相同的识别方法，只是选择的特征对象不同。基于URL特征的方法在准确率上优于基于内容特征的方法，而在召回率上低于基于内容特征的方法,原因是：Hub网页所对应的URL特征明显，如URL标题和URL长度较短、不包含日期等，所以依据URL特征识别的准确率会相对较高。但URL存在很大随意性，没有统一规范，依据个人设定，当不符合一般特性的URL出现时，该方法很难识别，所以召回率会相对较低；Hub 网页的内容存在一般特性，如链接较多,普通文本文字较少等，基本所有Hub网页都满足此特性，所以依据内容特征识别的召回率会很高。但有些主题网页也存在很多相关链接，其中内容文本也很短，所以依据内容特征识别的准确率会降低。综上所述，这两种方法在识别效果上差别很小，各有优点，但是在识别效率上存在明显差别。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如表5所示，基于URL特征的Hub网页识别方法在运行效率上有很大的优势，时间消耗少，大幅度降低了识别时间 $( 7 0 \\% )$ 。因为URL本身相对较小，URL特征提取就相对简单，但提取网页内容特征需要进行HTML 解析，HTML 解析本身就是一项耗时的工作;内存与CPU占用较少，大约为传统方法的 $60 \\%$ ，对采集系统影响小。因为在采集过程中本就会提取URL,所以不会带来很大的额外开销，也不会影响采集系统的采集效率。综合以上原因，基于URL 特征的 Hub网页识别方法具有一定理论意义与实际应用价值，是一种行之有效的方法。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文提出的基于URL 特征的Hub 网页识别技术，通过提取URL特征以训练机器学习模型，达到自动识别的目的。实验结果表明，该方法在达到传统方法识别效果的同时，能降低约 $60 \\%$ 的系统开销。但该方法存在一定局限性，因为URL本身具有一定随意性，当遇到URL特征不明显甚至完全相背的网站时，识别准确率会大幅度降低，此时需要结合网页内容特征去识别。因此，如何将基于内容特征的方法与基于URL特征的方法相结合以适应所有网站，是下一步研究的重点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]孟涛，闫宏飞，王继民．Web网页信息变化的时间局部性 规律及其验证[J].情报学报，2005，24(4):398-406.(Meng Tao，Yan Hongfei，Wang Jimin.Characterizing Temporal Locality in Changes of Web Documents [J].Journal of the China Society for Scientific and Technical Information,2005, 24(4):398-406.)   \n[2] 李晓明，闫宏飞，王继民.搜索引擎—一原理、技术与系统 [M].北京:科学出版社,2005.(Li Xiaoming，Yan Hongfei, Wang Jimin.Search Engine:Theory,Technology and System [M].Beijing:Science Press,2005.)   \n[3]Cho J，Garcia-Molina H.The Evolution of the Web and Implications for an Incremental Crawler[C]. In: Proceedings of the 26th International Conference on Very Large Data Bases,2002.   \n[4]Meng T,Yan H,Wang J,et al. The Evolution of Linkattributes for Pages and Its Implications on Web Crawling[C]. In:Proceedings of the 2004 IEEE/WIC/ACM International Conference on Web Intelligence, 2004.   \n[5]Ali R, Beg N M S.An Overview of Web Search Evaluation Methods [J]. Computers & Electrical Engineering,2011,37(6): 835-848.   \n[6]曹桂峰．搜索引擎中网页分类和网页净化的研究与实现 [D].武汉：武汉理工大学,2013.(Cao Guifeng.Design and Implement of Webpage Classify and Clean in Search Engine [D].Wuhan: Wuhan University of Technology,2013.)   \n[7]Zhang X, Zhou M, Geng G, et al. A Combined Feature Selection Method for Chinese Text Categorization [C]. In: Proceedings of the 2oo9 International Conferenceon Information Engineering and Computer Science,2009.   \n[8]谢光华．中文网页自动分类的研究及其应用[D]．大连：大 连理工大学,2007.(Xie Guanghua. Research and Application of Chinese Web Page Automatic Classification [J]. Journal of Dalian University of Technology, 2007.)   \n[9]Wang R J，Wang D J.Web Information Acquisition by Personal Search Engine Based on SVM [J]. International Journal of Information Acquisition,2005,2(4): 345-352.   \n[10]庞剑锋，卜东波，白硕．基于向量空间模型的文本自动分 类系统的研究与实现[J]．计算机应用研究，2001，18(9): 23-26.(Pang Jianfeng,Bu Dongbo,Bai Shuo. Research and Implementation of Text Categorization System Based on VSM [J]. Application Research of Computers,2001,18(9): 23-26.)   \n[11] 李亮，刘万春，徐泉清，等．一种基于支持向量机的专 业中文网页分类器[J]．计算机应用，2004，24(4):58-61. (Li Liang，Liu Wanchun, Xu Quanqing， et al.A Professional Chinese Web Page Classifier Based on Support Vector Machine [J]. Computer Application, 2004, 24(4): 58-61.)   \n[12]张学工．关于统计学习理论与支持向量机[J]．自动化学报, 2000，26(1): 32-42. (Zhang Xuegong. Introduction to Statistical Learning Theory and Support Vector Machines [J]. Acta Automatica Sinica,2000,26(1): 32-42.)   \n[13] Chang C C,Lin C J.LIBSVM: A Library for Support Vector Machines[J]. Transactions on Intelligent Systems and Technology,2011,2(3):Article No.27.   \n[14]Jiang J,Song X,Yu N,et al.Focus:Learning to Crawl Web Forums [J].IEEE Transactions on Knowledge and Data Engineering,2013,25(6):1293-1306.   \n[15]Le A,Markopoulou A,Faloutsos M.PhishDef: URL Names Say It All [C]. In:Proceedings of the 3Oth IEEE International ConferenceonComputerCommunications(INFOCOM), Shanghai, China.2011. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "都云程：确定研究方向，提出研究思路，对论文提出修改意见;  \n张策：设计研究方案，进行实验过程设计及实验分析，起草论文;  \n梁然：采集基础数据;  \n张策，梁然：论文修改及最终版本修订。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2015-06-25   \n收修改稿日期:2015-08-13 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A Study on Hub Page Recognition Using URL Features ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Zhang $\\mathrm { C e } ^ { 1 }$ Du Yuncheng1,²Liang Ran²   \n1(Open Laboratory of TRS Software, Beijing Information Science and TechnologyUniversity, Beijing10oo85,China)   \n2(Beijing TRS Information Technology Co.Ltd., Beijing 100101, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:[Objective]Bybuildingasimpledata sample,the low efciencyas the problemof traditional recognition method is solved.[Methods] This method uses URL features as the basis of recognition,and uses Support Vector Machine (SVM) to recognize page type. [Results] The precision of this method is $91 . 2 \\%$ ，also in terms of efficiency performance, the method is increased by nearly $60 \\%$ .[Limitations] When the URL feature is not obvious or even completely contrary,the recognition accuracy willbe greatly reduced.[Conclusions]The experimental results show thatthe method has a great advantage in efficiency,and it will increase the efficiency of the collection system. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords:URL features Hub pages SVM ",
+        "page_idx": 7
+    }
+]

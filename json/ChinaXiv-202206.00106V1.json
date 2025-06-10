@@ -1,0 +1,562 @@
+[
+    {
+        "type": "text",
+        "text": "居住环境剥夺测度及其对房价的影响以兰州市为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杜雨涵，赵海莉，原悦，李家亮，王家明(西北师范大学地理与环境科学学院，甘肃 兰州723000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：小区是居民日常生活和构建社会关系的重要场所，由于居住环境差异，导致剥夺现象发生。为探究居住环境剥夺对房价的作用机制，构建居住环境剥夺测度体系，创新了居住环境剥夺指数计算方法，运用混合地理加权回归模型和地理探测器分析居住环境剥夺与房价的关系。结果表明：（1）兰州市平均房价为12566.93元， $\\cdot \\mathrm { m } ^ { - 2 }$ ，空间上呈现出多核心、组团式分布格局，表现为从核心向外逐级递减的趋势。(2)基于6个维度服务设施数量和种类差异，居住环境剥夺也呈现出不同空间分布格局。（3）所有服务剥夺均与房价呈负相关，教育服务剥夺对房价影响力最强，生活服务剥夺对房价影响力最弱，教育和交通服务剥夺交互作用对房价解释力最强。研究结果对促进资源配置公平和城市健康快速发展至关重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：居住环境剥夺；剥夺指数；房价；资源配置；兰州市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着城镇化进程不断加快，规划和资源配置方面的问题逐渐凸显，小区作为居民日常生活空间，此类问题表现得尤为突出[1-3],不同小区周边资源配置存在差异，并映射在房价的空间异质性上，房价成为资源配置的综合物化表达，反映出社会公平和空间公正方面的问题。随着新型城镇化战略的实施，2021年国务院政府工作报告提出了“促进房地产市场平稳健康发展，完善便民设施，让城市更宜业宜居的目标”。因此，研究房价的空间异质性，揭示其背后存在的资源配置问题，对于提升居民幸福感、协调区域人地关系具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，国内外学者基于空间功能、可达性、社交网络、城市环境、供需理论等多个视角，分析了房价的空间异质性，探讨了医疗、教育、交通网络、公园绿地等服务设施对房价的影响，并取得了一定成果[4-15],但少有学者分析空间剥夺对房价空间异质性的作用机制及其背后的资源配置问题。“剥夺”一词最早于20世纪40年代出现于刑法中，学界对其展开了各项研究，早期成果主要出现在社会学和医疗健康领域[16-17]。21世纪初,地理学界将社会剥夺和空间要素相结合，产生了“空间剥夺”一词，并以此揭示区域服务设施差异和社会公平问题[18]。居住环境剥夺指的是不同居住空间内的居民对于周边资源的可获得情况存在差异，以致于部分居民产生“空间隔离\"甚至被“边缘化”，随着人本主义思想的渗透，人们更加关注不同资源配置条件下的居民心理差异，如低收入群体生活在边缘社区，无形中增加了其享受基础服务设施的成本，从而影响居民的社会情感和心理状态，衍生出失落感和被排挤感[19]。国外学者较早关注到了空间剥夺现象，Bartels[2o研究了如何通过社区合作摆脱地方排斥和不平等，以减少社会空间剥夺；Hand等从微观角度出发，认为不同区域内的城市景观及其生物多样性存在剥夺现象;Kauhl等22构建了多维剥夺指标体系，研究了医疗服务的空间剥夺现象;Dany等[23研究了空间剥夺与建成环境的关系；Oku-bo等[24-26]认为城镇化和邻里剥夺会对居民健康产生影响。国外学者从多个角度出发研究空间剥夺，而国内学者更侧重于空间剥夺指标的选取和剥夺程度的计算[27-28]。总体而言，现有研究鲜有涉及居住环境剥夺的内容，在具体指标选取中，由于数据可得性不足，难以体现剥夺本质，在剥夺指数的计算上，学者多借鉴其他领域测度方法，居住环境剥夺指数的计算标准尚未见诸于世。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "兰州市是西北地区第二大城市，近5a房价涨幅超过 $4 0 \\%$ ，而小区作为居民日常生活的场所，与周边居住环境存在着空间联系和相互作用，且由于居住环境差异较易产生剥夺现象，剥夺过程分为功能划分和要素整合2部分内容，其中房价空间异质性具有表达和反馈剥夺的功能(图1)。介于此，本文结合已有研究未尽之处，选择兰州市主城区作为研究区域，基于兴趣点(Pointofinterest,POI)大数据构建居住环境剥夺指标体系，并创新了居住环境剥夺指数的同心圆计算法，以此来研究兰州市居住环境剥夺对房价的影响，并揭示房价空间异质性背后的资源配置问题，为城市协调可持续发展提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区、数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "兰州市 $( 3 6 ^ { \\circ } 0 3 ^ { \\prime } \\mathrm { N } , 1 0 3 ^ { \\circ } 4 0 ^ { \\prime } \\mathrm { E } )$ 是甘肃省省会、西北地区第二大城市，南为皋兰山脉，北为白塔山山脉，黄河穿城而过，是典型的“两山夹一川\"的河谷地形。城市地域空间狭窄，由于兰州市特殊的河谷型地貌，导致小区样本点呈现南密北疏的“条带状”分布特点(图2)。本文研究区域包括兰州市建成4",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "服务设施  \n生活 医疗 教育 娱乐 交通 休闲 居住环境剥夺  \n服务 服务 服务 服务 服务 服务 指标体系剥夺水平测度 剥夺表现 房价空间异质性 剥夺反馈 居住环境剥夺 过程 剥夺城和 轻路区 位 西固区石基地化工 功分  \n配服务 铁 要整素",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e735c4c727e084e7b491dca5b6cc2462ed9723419200532e0d4938de3b86f6da.jpg",
+        "img_caption": [
+            "图1居住环境剥夺理论框架",
+            "Fig.1 Theoretical framework of residential environment deprivation ",
+            "图2研究区概况",
+            "Fig.2 Overview of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "区的50个街道。其中，城关区作为省、市机关和大军区所在地,是全市政治、经济、文化和科研中心;七里河区是以机械、轻工、铁路交通枢纽为主的工业区；安宁区是以机械、精密仪表工业为主，全省高等院校和科研单位集中的地区；西固区是石油、钢铁、化工为主的综合工业基地。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源与变量选择",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2020年兰州市主城区二手房信息通过python爬虫技术在链家、安居客等著名房产交易网站上爬取，其中包括房价、小区建造年代等信息，对数据进行清洗、比对、空间校正、剔除异常值等预处理，删除无法获取、残缺信息的POI，共保留2296个小区样本点。公园绿地和水域遥感影像来源于地理空间数据云，将2020年8月 $3 0 \\mathrm { m }$ 分辨率的Landsat8遥感影像进行遥感解译、辐射定标、大气校正等预处理，最后通过矢量化获取公园绿地、水域等地图信息，将真实的公园可进入点作为公园绿地数量，将水域边缘可接近点作为水域数量，以此来计算剥夺指数。2020年兰州市POI数据通过水经注地图下载获取。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "罗庆等[29选取了休闲、生活、教育、医疗、交通、噪音共6个维度的指标构建居住环境剥夺体系，雒占福等[30选取了生活、出行、医疗、休闲、教育、安全、空气、噪音共计8个维度的指标构建居住环境剥夺体系，而本文旨在讨论居住环境剥夺与房价的关系。因此，结合已有研究成果，本文共选取生活、医疗、娱乐、教育、交通、休闲6个维度的指标，以此来构建居住环境剥夺体系。如表1所示，所选指标中生活服务设施共计3504个（超市768个、商业街35个、邮局114个、银行2112个、综合市场475)；医疗服务设施共计3251个（药店821个、诊所1051个、医院782个、保健场所597个）；教育服务设施共计722个（幼儿园480个、小学137个、中学105个）；娱乐服务设施共计1202个（KTV228个、影剧院66个、休闲度假场所838个、运动馆70个）；交通服务设施共计858个（公交站831个、地铁27个）；休闲服务共计3338个（水域可接近点97个、公园绿地可进人点3174个、活动广场67个）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3网络分析法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文在兰州市路网数据的基础上建立拓扑关系，检查并修改其拓扑错误后，根据实际情况设置中心、连接、节点（中心默认为服务设施和事件发生地点，连接为路网，节点为道路交叉口），构建起始地至目的地(Origin to destination,OD)成本矩阵，计算小区到各服务设施和事件的路网距离。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e89e34e35a7fd2c7b5ebc09f6676c075d42c061f81ef1eb4969e9c8484d16f8.jpg",
+        "table_caption": [
+            "表1居住环境剥夺指标体系设置",
+            "Tab.1Index system setting of residential environment deprivation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>剥夺维度</td><td>指标</td><td>服务半径/m</td><td>服务半径划分依据</td><td>计算说明</td></tr><tr><td>生活服务</td><td>超市</td><td>500</td><td>《居住区配套设施服务半径规范》</td><td>小区到超市的路网距离</td></tr><tr><td></td><td>商业街</td><td>500</td><td>《居住区配套设施服务半径规范》</td><td>小区到商业街的路网距离</td></tr><tr><td></td><td>邮局</td><td>500</td><td>《居住区配套设施服务半径规范》</td><td>小区到邮局的路网距离</td></tr><tr><td></td><td>银行</td><td>1000</td><td>《居住区配套设施服务半径规范》</td><td>小区到银行的路网距离</td></tr><tr><td></td><td>综合市场</td><td>1000</td><td>《居住区配套设施服务半径规范》</td><td>小区到综合市场的路网距离</td></tr><tr><td>医疗服务</td><td>药店</td><td>500</td><td>《城市居住区规划设计标准》</td><td>小区到药店的路网距离</td></tr><tr><td></td><td>保健场所</td><td>500</td><td>《城市居住区规划设计标准》</td><td>小区到保健场所的路网距离</td></tr><tr><td></td><td>诊所</td><td>1000</td><td>《城市居住区规划设计标准》</td><td>小区到诊所的路网距离</td></tr><tr><td></td><td>医院</td><td>1000</td><td>《城市居住区规划设计标准》</td><td>小区到医院的路网距离</td></tr><tr><td>教育服务</td><td>幼儿园</td><td>300</td><td>《居住区配套设施服务半径规范》</td><td>小区到幼儿园的路网距离</td></tr><tr><td></td><td>小学</td><td>500</td><td>《居住区配套设施服务半径规范》</td><td>小区到小学的路网距离</td></tr><tr><td></td><td>中学</td><td>1000</td><td>《居住区配套设施服务半径规范》</td><td>小区到中学的路网距离</td></tr><tr><td>娱乐服务</td><td>KTV</td><td>500</td><td>《社区生活圈规划技术指南》</td><td>小区到KTV的路网距离</td></tr><tr><td></td><td>影剧院</td><td>500</td><td>《社区生活圈规划技术指南》</td><td>小区到影剧院的路网距离</td></tr><tr><td></td><td>度假场所</td><td>500</td><td>《居住区配套设施服务半径规范》</td><td>小区到度假场所的路网距离</td></tr><tr><td></td><td>运动馆</td><td>500</td><td>《居住区配套设施服务半径规范》</td><td>小区到运动馆的路网距离</td></tr><tr><td>交通服务</td><td>公交站</td><td>500</td><td>《社区生活圈规划技术指南》</td><td>小区到公交站的路网距离</td></tr><tr><td></td><td>地铁站</td><td>500</td><td>《社区生活圈规划技术指南》</td><td>小区到地铁站的路网距离</td></tr><tr><td>休闲服务</td><td>运动广场</td><td>800</td><td>《社区生活圈规划技术指南》</td><td>小区到运动广场的路网距离</td></tr><tr><td></td><td>水域</td><td>800</td><td>《社区生活圈规划技术指南》</td><td>小区到水域可接近点的路网距离</td></tr><tr><td></td><td>公园绿地</td><td>800</td><td>《社区生活圈规划技术指南》</td><td>小区到公园绿地入口的路网距离</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4居住环境剥夺指数计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合实际情况，认为小区到服务设施的路网距离属于一定范围内，将不会产生剥夺，超出此范围才产生剥夺，而且随着距离的增加其剥夺感增加，当距离达到一定程度时，剥夺感最强，同时根据不同阶段设置距离衰减权重。空间剥夺指数(Spatialdeprivationindex,SDI)计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { i j } = \\left\\{ \\begin{array} { l l } { 0 \\qquad } & { 0 \\leqslant d < c } \\\\ { 1 - c d ^ { - \\beta } \\qquad } & { c \\leqslant d < 6 c } \\\\ { 1 \\qquad } & { d \\geqslant 6 c } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $D _ { i j }$ 为小区 $i$ 在设施 $j$ 上的剥夺水平，其值为0\\~1之间； $d$ 为小区与单个设施之间的路网距离； $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 为不同设施的基本服务半径； $\\beta$ 为距离衰减指数，参考已有研究[29],本文取值为1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合已有研究和实际情况，创新单个设施剥夺权重计算方法，对所选小区到某一设施的居住环境剥夺指标进行排列（图3，以生活服务设施为例，共",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ec814a9c12cc4328fb16a490f3ad166ba798766238e77e17b735f40f224f9aa.jpg",
+        "img_caption": [
+            "图3剥夺指数计算原理",
+            "Fig.3Calculation principle of deprivation index "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计6个指标，即 $n { = } 6$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle S = \\pi R _ { 1 } ^ { 2 } \\frac { \\alpha } { 3 6 0 ^ { \\circ } } + \\pi R _ { 2 } ^ { 2 } \\frac { \\alpha } { 3 6 0 ^ { \\circ } } + \\cdots + \\pi R _ { i } ^ { 2 } \\frac { \\alpha } { 3 6 0 ^ { \\circ } } } } \\\\ { { \\displaystyle ~ = \\frac { \\pi } { n } \\sum _ { i = 1 } ^ { n } R _ { i } ^ { 2 } ~ ( ~ i = 1 , 2 , \\cdots , n ~ ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { i }$ 为各指标剥夺指数；设第 $i$ 个小区到周边设施的种类为 $n$ ,其角度为 $\\scriptstyle a$ （ $a = 3 6 0 ^ { \\circ } / n$ );某一指标剥夺指数为扇形面积， $S \\left( S { = } { \\pi } R ^ { 2 } \\right)$ 为各扇形面积之和，用来代表所有指标剥夺指数之和。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑到同一区域内，各个指标的剥夺指数间存在差异，通过计算各指标剥夺指数平均值 $\\left( R _ { m } \\right)$ ，并将其与各指标剥夺指数 $\\left( R _ { n } \\right)$ 进行比较,计算两者间的差值，并以此为依据分别设置权重(表2)。如果一个小区周边各个指标剥夺指数相差较大,则认为该小区周边各类服务设施剥夺指数差异较大，高于或低于 $R _ { m }$ 的单个设施在一定程度上加剧了居住环境剥夺，此情况下计算的剥夺指数也会更大，反之，如果小区周边各服务设施间剥夺指数差异较小，则认为该小区周边服务设施配置较为平衡，剥夺指数会更小。单个设施剥夺指数计算方式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { I D I } = \\frac { \\pi } { n } \\sum _ { i = 1 } ^ { n } w _ { i } R _ { i } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：IDI为单个设施剥夺指数，由各个指标剥夺指数加权求和所得； $R _ { i }$ 为各指标剥夺指数； $n$ 为指标数量； $w _ { i }$ 作为组合权重，由同心圆排列法权重 $\\left( a _ { i } \\right)$ 和层次分析法权重 $\\left( \\boldsymbol { b } _ { i } \\right)$ 计算而来。在权重计算方面，将小区周边各类服务设施剥夺指数的差异作为计算标准，相比简单的加权，考虑了各设施剥夺指数的平衡性和整体性，使计算结果更符合实际情况",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5混合地理加权回归模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "混合地理加权回归模型(MGWR)，对地理加权回归模型进行了扩展，在计算过程中，部分要素并不存在空间非平稳性，因此，针对不同要素分别设置带宽，充分考虑了各个要素的差异，能够更科学地揭示地理要素空间非平稳性对结果的影响，使研究结果更具有现实意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/46f0caba4994bb0e3226683fc343ab7985c4ab15a3e4deff19699a82461ac35d.jpg",
+        "table_caption": [
+            "表2单个设施剥夺指数权重设置",
+            "Tab.2Weightsettingof individual facilitydeprivation index "
+        ],
+        "table_footnote": [
+            "注： $R _ { n }$ 为各指标剥夺指数； $R _ { m }$ 为各指标剥夺指数平均值。"
+        ],
+        "table_body": "<html><body><table><tr><td>取值范围</td><td>同心圆排列法权重(ai)</td><td>层次分析法权重(bi)</td><td>组合权重(wi)</td></tr><tr><td>R=Rm</td><td>1</td><td>bi</td><td>w=ab/∑ab</td></tr><tr><td>0<Rn<Rm,Rm<R<2Rm</td><td>1+|Rm-R Rm</td><td>同上</td><td>同上</td></tr><tr><td>R≥2Rm</td><td>2</td><td>同上</td><td>同上</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle P _ { i } = \\sum _ { j = 1 } ^ { k } \\alpha _ { j } x _ { i j } + \\beta _ { 0 } \\big ( u _ { i } , v _ { j } \\big ) + } } \\\\ { { \\displaystyle \\sum _ { j = k + 1 } ^ { q } \\beta _ { j } \\big ( u _ { i } , v _ { j } \\big ) x _ { i j } + \\varepsilon _ { i } } } \\end{array} \\begin{array} { l } { { \\displaystyle ( i = 1 , 2 , \\cdots , n ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\alpha _ { j } ( j = 1 , 2 , \\cdots , k )$ 为全局变量的回归指数;$( u _ { i } , v _ { j } )$ 表示第 $i$ 个空间单元的位置坐标； $\\beta _ { j } ( u _ { i } , v _ { j } )$ $( j = k + 1 , \\cdots , q )$ 表示该回归模型在第 $i$ 个空间单元的截距项与第 $j$ 个局域变量的指数； $P _ { \\ i }$ 表示第 $i$ 个空间单元的住宅价格； $x _ { i j }$ 表示第 $i$ 个空间单元的第 $j$ 个属性变量； $\\ \\varepsilon _ { i }$ 为随机误差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6地理探测器",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用地理探测器中的交互作用探测，常用来探测 $y$ 的空间分布性，以及探测因素 $x$ 多大程度上解释了属性 $y$ 的空间分布，并且根据 $\\scriptstyle x _ { 1 } \\dotsc x _ { 2 }$ 各自的值与相互作用的值进行比较，来判断2种自变量是否共同对因变量 $y$ 起作用。其中， $q$ 值用来度量空间分布, $q$ 值域为[0,1]，值越大说明作用力越强。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1房价空间异质性分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图4、图5可知，从整体来看，兰州市房价东南部高于西北部，并呈现由东向西、由南向北递减的趋势，平均房价为12566.93元， $\\mathrm { m } ^ { - 2 }$ ，各区房价均值表现为城关区（15249.72元· $\\mathbf { m } ^ { - 2 }$ ） $>$ 七里河区（11563.83元 $\\cdot \\mathrm { m } ^ { - 2 }$ ）） $>$ 安宁区（10371.64元· $\\mathrm { m } ^ { - 2 }$ ） $>$ 西固区（10088.72元 $\\mathbf { m } ^ { - 2 }$ )的关系。从各区来看，房价呈现出多核心、组团式的空间分布格局，并呈现以各区中心区为核心向外逐级递减的趋势。城关区高房价中心位于广武门街道和渭源路街道，均价为18073.83元· $\\mathrm { m } ^ { - 2 }$ 。七里河区内高房价中心分布于西园街道，均价为12244.93元· $\\mathrm { m } ^ { - 2 }$ ,并且呈“椭圆状”由北向南分层递减。安宁区内高房价中心位于西路街道，均价为12014.24元， $\\mathrm { m } ^ { - 2 }$ ，区内房价由东向西逐级递减。西固区高房价区域位于先锋路街道，均价为11762.85元· $\\mathrm { m } ^ { - 2 }$ ，整体呈现南高北低的趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca450cc1aaa66b4f3313eb29be337dd73246bd7a65ca192016830cd44f936ae7.jpg",
+        "img_caption": [
+            "注：X代表长度；Y代表宽度；Z代表房价高低。图4兰州市主城区房价趋势分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2兰州市居住环境剥夺分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "计算所得结果均采用自然间断点法将剥夺程度分为低度剥夺、较低剥夺、中度剥夺、较高剥夺和高度剥夺5个等级(图6)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1生活服务维度生活服务剥夺指数呈现以城东至城西中心轴线的条带分布格局，剥夺指数依次向外递增，具体而言，50个街道中有45个街道剥夺程度较低，且多位于城区中心轴线附近;5个剥夺较高的街道主要分布于城区边缘。造成这种分布格局的原因是兰州城区发展建设过程中，城区中心街道发展起步较早，人口较为集中，生活服务设施配置较为丰富，随着城市扩张，城区边缘街道发展起步晚，大部分人口已定居中心城区，居民对服务设施的需求量无法支撑较多服务设施布局。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cdbd9699b167249a85fe57ea4c65f4d5e96a6d0d342ef29c93f7fdac8b80685.jpg",
+        "img_caption": [
+            "Fig.4Price trend analysis of central district ofLanzhou City ",
+            "图5兰州市主城区房价空间分异",
+            "Fig.5Spatial differentiation of housing prices in central district ofLanzhou City "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2医疗服务维度医疗服务剥夺指数呈现“一主、三副\"多核心分布格局，以拱星墩街道为主中心，以西站街道、西路街道、西固城街道为次中心，医疗服务剥夺指数向外围逐渐提高。这种分布格局的原因是拱星墩街道集聚了以兰州大学附属医院为主的众多医疗机构，医疗资源丰富，基本满足居民需求。次中心西站街道、西路街道、西固城街道医疗资源配置较为丰富，其中兰州军区医院、兰飞医院、三毛医院分别位于七里河区、安宁区、西固区中心城区，能够满足日常居民医疗资源需求。50个街道中，仅有8个街道属于较低剥夺，其余街道均属中度以上剥夺，尤其是城区边缘医疗服务剥夺明显增强，其主要原因是城市扩张速度较快，医疗服务设施数量较少，难以满足居民需求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.3教育服务维度教育服务剥夺指数呈现“一主、两次\"剥夺格局，分别以安宁区西路街道为主中心，西固区西固城街道、城关区皋兰路街道为次级低剥夺中心，并由此向外教育剥夺逐渐增加。具体而言，50个街道中7个街道属于低度剥夺、5个街道属于高度剥夺，其余街道接近中度剥夺，造成这种分布格局的原因是，安宁区自城市规划之初就作为全市教育科研集中地区，是众多高校的集中地区，同时中小学数量也优于其他区域。而其余2个次中心属于城关区和西固区中心区域，在城市发展过程中，相应教育资源配置水平也处于前列。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.4交通服务维度交通服务剥夺指数呈现以“地铁一号线\"为轴线的带状分布格局，以此为轴线向外交通剥夺指数逐渐提高，具体而言，50个街道中13个街道为中低度剥夺，其余剥夺水平均属中度及以上。造成这种分布格局的原因是，为了缓解城市交通压力，兰州市内运营2条快速公交线路以及其他公交线路，2019年又开通一条地铁线路，其中刘家堡至兰州西站和陈官营至东岗站，2条主要运营线路沿线区域交通较为便利，能够满足居民日常出行需求，而距离运营线路较远的区域交通服务剥夺属于较高水平。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.5娱乐服务维度娱乐服务剥夺指数呈现多核心分布格局，分别以城关区、七里河区、安宁区、西固区中心城区为低剥夺区域，从中心向外围娱乐剥夺指数逐渐增加，具体而言，50个街道中仅有6个为低度剥夺，其余均属中度及以上剥夺，娱乐服务高度剥夺主要集中于四季青街道、沙井驿街道、银滩路街道。造成这种分布格局的原因是，中心城区人口密集，相应娱乐设施多布局在小区周边，基本满足小区居民需求，整体布局相对稳定，而边缘城区人口流动性较强，自身需求量较小，娱乐服务布局成本较高，因此数量较少，剥夺指数较大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.6休闲服务维度休闲服务剥夺指数呈现“一带、五片区、多点\"分布格局，具体而言，50个街道中有9个街道为低剥夺，其余均属中度及以上程度剥夺，以黄河为低剥夺带，以沙井驿街道、银滩路街道、盐场路街道、秀川街道、靖远路街道为5个低剥夺片区，以城关区、七里河区、安宁区、西固区中心区域为多个低剥夺点。造成这种分布格局的原因是，黄河风情线是兰州市核心景区，以中山桥为中心，东起城关区雁滩西至西固西，其沿线公园绿地、广场等服务设施配置丰富。仁寿山公园、白塔山公园、五泉山公园、五一山公园、银滩湿地公园分别位于五大片区中，另外,东方红广场、西津广场、培黎广场、啤酒广场均位于各区中心城区，为周边小区居民提供大面积绿地和广场以满足其日常需求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3混合地理加权回归分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文首先进行普通最小二乘回归(表3)，然后进行混合地理加权回归，核类型选取固定法，带宽选取赤池信息准则法（Akaike informationcriterion,AIC)，残差平方和为0.390,Sigma为0.781。生活、医疗、教育、娱乐、交通、休闲服务剥夺指数均与房价呈负相关，即小区周边服务设施剥夺指数越大，资源配置水平越低，其房价越低。具体而言，教育服务剥夺对房价影响最大，造成这种现象的原因是，城市发展过程中学区房热潮的兴起，导致小区周边中小学、幼儿园配置会产生增值效应，教育资源配置越丰富的小区，教育服务剥夺指数越低，其房价越高。交通服务剥夺对房价影响排第二，其原因是，兰州市内目前投入运营的2条BRT快速公交线路和1条地铁线路，给沿线小区居民出行带来便利，居民在购买住宅时更倾向于选择交通便利的小区，即交通服务剥夺指数越低，小区周边交通服务越便利，其房价也越高。医疗、娱乐、休闲服务剥夺对房价影响较高，其原因是居民在购买住宅时小区附近医院、休闲场所的数量会影响其购买意愿，随着居民对居住品质要求的日渐提高，小区周边公园绿地数量也成为影响房价的主要原因之一，因此，医疗、娱乐、休闲服务剥夺指数越低，其相应配套设施越齐全，房价越高。生活服务对房价影响最小，造成这种现象的原因是，各城区生活服务设施较为齐全，且区域间差异较小，生活服务设施配置情况对居民购买住宅意愿影响较小，因此，生活服务剥夺指数对房价影响较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/abc4fbad2ef9664a613ad066095f288c9c4c4e499e1deeb76e05a9abaa256dea.jpg",
+        "img_caption": [
+            "干旱区地理",
+            "图6兰州市主城区居住环境剥夺空间分布格局",
+            "Fig.6Spatial pattern of residential environment deprivation in central district of Lanzhou City "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2986c6a5e8ee2676237ba4184ebb668900d5a71e827664c5141bde9d8b8402a.jpg",
+        "table_caption": [
+            "表3最小二乘估计和混合地理加权回归结果",
+            "Tab.3 Results of least square estimation and mixed geographically weighted regression "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">剥夺维度</td><td colspan=\"3\">最小二乘回归模型(OLS)</td><td colspan=\"5\">混合地理加权回归模型(MGWR)</td></tr><tr><td>标准化指数</td><td>T值</td><td>Sig.</td><td>平均值</td><td>标准误差</td><td>最小值</td><td>中位数</td><td>最大值</td></tr><tr><td>生活服务</td><td>-0.021</td><td>-0.972</td><td>0.031</td><td>-0.007</td><td>0.112</td><td>-0.230</td><td>-0.000</td><td>0.284</td></tr><tr><td>医疗服务</td><td>-0.087</td><td>-4.148</td><td>0.000</td><td>-0.039</td><td>0.118</td><td>-0.564</td><td>-0.022</td><td>0.408</td></tr><tr><td>教育服务</td><td>-0.147</td><td>-6.805</td><td>0.000</td><td>-0.088</td><td>0.203</td><td>-0.948</td><td>-0.070</td><td>0.865</td></tr><tr><td>娱乐服务</td><td>-0.101</td><td>-4.628</td><td>0.000</td><td>-0.042</td><td>0.205</td><td>-0.744</td><td>-0.025</td><td>0.446</td></tr><tr><td>交通服务</td><td>-0.075</td><td>-3.552</td><td>0.000</td><td>-0.057</td><td>0.159</td><td>-0.743</td><td>-0.053</td><td>0.291</td></tr><tr><td>休闲服务</td><td>-0.025</td><td>-1.255</td><td>0.010</td><td>-0.031</td><td>0.290</td><td>-0.804</td><td>-0.034</td><td>0.947</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4探测结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "交互因子探测结果如表4所示，所有因子交互作用均属于增强关系，医疗服务和交通服务交互作用解释力最强(0.8529)，两者属于双因子增强关系，表明医疗资源和交通设施几乎决定了居民购买住宅的意愿，并且成为小区房价的主要决定因素。而娱乐服务和休闲服务交互作用解释力最弱(0.6066)，两者属于非线性增强关系，表明休闲、公园绿地、水域等设施对居民购买住宅的意愿影响较",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4交互因子探测结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/02208bcac8a09e5c53e6059a1149bc22e775bf29e906b3411d32d7884beca389.jpg",
+        "table_caption": [
+            "Tab.4 Detection results of interactive factors "
+        ],
+        "table_footnote": [
+            "注：\\*为双因子增强;\\*\\*为非线性增强。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>生活服务</td><td>医疗服务</td><td>教育服务</td><td>娱乐服务</td><td>交通服务</td></tr><tr><td>医疗服务</td><td>0.8134*</td><td></td><td></td><td></td><td></td></tr><tr><td>教育服务</td><td>0.8453*</td><td>0.7919*</td><td></td><td></td><td></td></tr><tr><td>娱乐服务</td><td>0.7314*</td><td>0.7272*</td><td>0.7991*</td><td></td><td></td></tr><tr><td>交通服务</td><td>0.8449*</td><td>0.8529*</td><td>0.8000*</td><td>0.8074*</td><td></td></tr><tr><td>休闲服务</td><td>0.7612**</td><td>0.6206*</td><td>0.6627**</td><td>0.6066**</td><td>0.8449**</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "小，对房价影响较小。此外，探测结果还表明各影响因子间存在交互作用，多因子交互作用大于单一因子对房价的影响，房价受多种因素共同作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文选取6个维度指标，构建居住环境剥夺指标体系，并创新提出了剥夺指数的“同心圆排列\"计算方法，考虑了各维度剥夺间的平衡性和整体性，能够表现其剥夺本质，实证结果表明，此方法适用于居住环境剥夺测度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对比已有研究，罗庆等[29]、雒占福等[30]均对居住环境剥夺指标体系构建和测度进行了研究，相同之处在于本文借鉴了已有研究的指标体系，对兰州市居住环境剥夺进行了测度，并分析其影响因素。差异在于本文通过讨论居住环境剥夺与房价的关系，发掘出背后存在的资源配置问题，并基于已有研究结果对剥夺指标体系计算方法进行了创新，使其更具现实意义。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同时，本文也存在不足之处：一是通过研究居住环境剥夺测度和房价空间异质性来揭示服务设施对房价的影响，忽略了小区居民自身对剥夺的感知和心理状态变化；二是由于数据获取原因，所选样本小区并不能完全反应真实情况，所选指标由于筛选、校正等原因仍有部分残缺，后续应对此进行补充，以完善研究结果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，在城市发展过程中，应协调区域平衡发展，缩小区域间资源配置差异，降低不同居住空间内居民的剥夺感，同时，应关注同一区域内，由于各类资源配置水平差异化产生的剥夺现象，在治理边缘区域资源配置较差、剥夺感较强等问题的同时，也应提高中心城区的绿地质量、增加娱乐休闲设施。建议根据居住环境剥夺测度和房价影响因素分析结果，采取针对性措施，如增加小区周边医疗、教育、娱乐、交通、休闲服务设施，以此提升居住环境质量，降低居民剥夺感。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文选取了生活服务、教育服务、医疗服务、娱乐服务、交通服务、休闲服务6个维度构建居住环境剥夺指标体系，并改进了剥夺指数计算方法，运用混合地理加权回归模型和地理探测器，研究了居住环境剥夺与房价空间异质性的关系，揭示服务设施剥夺对房价的作用机制。结论如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）兰州市房价在空间上呈现出多核心、组团式的空间分布格局，并呈现以各区中心城区为核心向外逐级递减的趋势，各区房价分为4个等级，表明房价不仅在同一区域内各小区间呈现差异，并且由于各个区域资源配置差异，各区房价水平也不一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）生活服务和交通服务剥夺呈现带状分布格局，医疗、教育、休闲服务剥夺呈现主次分明的空间分布格局，而娱乐服务剥夺呈现多核心空间分布格局，由于服务设施种类差异，居住环境剥夺也呈现出不同空间分布格局，表明针对不同服务设施的剥夺格局应分类采取相应措施，才能有效解决各类资源配置不均衡的问题。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）各服务设施剥夺分别对房价呈现出不同解释力，且任何2个服务设施间的交互作用将会非线性增强对房价的解释力，这表明房价受多个服务设施共同作用影响，同时房价也作为资源配置的物化表达，充分反映出不同小区间资源配置的差异，因此，要结合不同小区的房价和房价背后的居住环境剥夺现象，从根本上解决区域间资源配置差异的问题。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]宋伟轩,刘春卉.长三角一体化区域城市商品住宅价格分异机",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "理研究[J].地理研究,2018,37(1): 92-102.[Song Weixuan,Liu Chunhui.The price differentiation mechanism of commercial housing in the Yangtze River Delta[J]. Geographical Research, 2018, 37(1): 92-102.]   \n[2]韩艳红,尹上岗,李在军.长三角县域房价空间分布格局及其影 响因素分析[J].人文地理,2018,33(6):87-95.[Han Yanhong, Yin Shanggang,Li Zaiju.Spatial differentiationand influence factors analysis of county region housing prices in the Yangtze River delta[J]. Human Geography,2018,33(6): 87-95.]   \n[3]王少剑,王洋,葡雪芹,等.中国县域住宅价格的空间差异特征 与影响机制[J].地理学报,2016,71(8):1329-1342.[Wang Shaojian,Wang Yang,Lin Xueqin,et al. Spatial differentiation patterns and influencing mechanism of housing prices in China[J]. Acta Geographica Sinica,2016,71(8): 1329-1342.]   \n[4]毕硕本,许志慧,黄铜,等.社交网络视角的南京市房价时空特 征分析[J].测绘科学,2021,46(5):153-161.[Bi Shuoben,Xu Zhihui,HuangTngetal.Spatial-emporalaalysisofhseprice in Nanjing based on social network data[J].Science of Surveying and Mapping,2021,46(5): 153-161.]   \n[5]董小刚,乔庆华,翟亮,等.可达性视角下的住宅价格影响因素 研究[J].测绘科学,2020,45(1):169-176,184.[Dong Xiaogang, Qiao Qinghua,Zhai Liang,etal.Thestudyof factorsafecting housing price based on accessibility perspective[J]. Science of Surveying and Mapping,2020,45(11): 169-176,184.]   \n[6]张少尧,宋雪茜,邓伟.空间功能视角下的公共服务对房价的影 响—以成都市为例[J].地理科学进展,2017,36(8):995- 1005.[Zhang Shaoyao,Song Xueqian, Deng Wei. Impact of public services on housing prices in different functional spaces: A case study of metropolitan Chengdu[J]. Progress in Geography,2017, 36 (8): 995-1005.]   \n[7]王洋,王德利,王少剑.中国城市住宅价格的空间分异格局及影 响因素[J].地理科学,2013,33(10):1157-1165.[Wang Yang, Wang Deli, Wang Shaojian.Spatial differentiation patterns and impact factors of housing prices of China’s cities[J]. Scientia Geographica Sinica,2013,33(10): 1157-1165.]   \n[8]马香品,姚慧琴.供需视角下的我国房地产价格波动的空间差 异及成因分析[J].经济问题探索,2020(2):31-38.[Ma Xiangpin,Yao Huiqin. The spatial difference and cause analysis of China’s real estate price fluctuation from the perspective of supply and demand[J]. Inquiry into Economic Issues,2020(2): 31-38.]   \n[9]杨俊,鲍雅君,金翠,等.大连城市绿地可达性对房价影响的差 异性分析[J].地理科学,2018,38(12):1952-1960.[Yang Jun,Bao Yajun,Jin Cui,etal.Theimpactofurbangreenspaeaccesbility on house prices in Dalian City[J]. Scientia Geographica Sinica, 2018,38(12): 1952-1960.]   \n[10] Song W X, Liu C H. The price diffrentiation mechanism of commercial housing in the Yangtze River Delta[J].Geographical Research,2018,37(1): 92-102.   \n[11] Zhou Q, Shao Q L, Zhang X L,et al. Housing prices promote total factor productivity? Evidence from spatial panel data models in explaining the mediating role of population density[J].Land Use Policy,2020,91: 104410,doi: 10.1016/j.landusepol.2019.104410.   \n[12]Liang XJ,LiuYJ,QiuTQetal.Theefectsoflocatioalfacto onthe housing prices of residential communities: The case of Ningbo[J]. Habitat International, 2018,81: 1-11.   \n[13]Dai J,LuPC,Ma Z W,etal.Environmental risk and housing price: An empirical studyof Nanjing,China[J]. Journal of Cleaner Production,2020,252:119828,doi: 10.1016/j.jclepro.2019.119828.   \n[14]WenHZ,Xiao Y,Eddie C M.Quantile effect of educational facilities on housing price: Do homebuyers of higher-priced housing pay more for educational resources?[J]. Cities, 2019,90: 100-112.   \n[15] Yang L C, Chu X L, Gou Z H,et al. Accessibility and proximity effects of bus rapid transit on housing prices: Heterogeneity across price quantilesandspace[J].Journal of Transport Geography, 2020,88: 102850,doi: 10.1016/j.jtrangeo.2020.102850.   \n[16]Town S.Deprivation[J]. Joumal of Social Policy,1987,16(2): 125-146.   \n[17]John B.Health deprivation: Inequality and the north[J].Journal of Social Policy,1989,18(2): 291-293.   \n[18] Catherine C,Cubbin K,Lin M,etal.Is neighborhood deprivation independently associated with maternal and infant health? Evidence from Florida and Washington[J]. Maternal and Child Health Journal,2008,12: 61-74.   \n[19]王兴中,王立,谢利娟,等.国外对空间剥夺及其城市社区资源 剥夺水平研究的现状与趋势[J].人文地理,2008,23(6):7-12. [Wang Xingzhong,Wang Li, Xie Lijuan,et al. The statusand trend of research on spatial deprivation and its level of urban community resource deprivation abroad[J]. Human Geography, 2008, 23(6): 7-12. ]   \n[20]Bartels K.Collaborative dynamics in street level work: Working in and with communities to improve relationships and reduce deprivation[J]. Environmentand Planning C:Politics and Spac,2018, 36(7): 1319-1337.   \n[21]Hand K L,Freeman C,Seddon PJ, et al.A novel method for finescale biodiversity assessment and prediction across diverse urban landscapes reveals social deprivation-related inequalities in private,not public spaces[J]. Landscape and Urban Planning, 2016, 151: 33-44.   \n[22]Kauhl B,Maier W,Schweikart J,etal.Exploring the small-scale spatial distribution of hypertension and its association to area deprivation based on health insurance claims in northeastern Germany[J].BMC Public Health,2018,18:121,doi:10.1186/s12889- 017-5017-x.   \n[23]Dany D,Eleanor M S, Kerolyn S,et al.Healthy built environment: Spatial patterns and relationships of multiple exposures and deprivation inToronto,Montrealand Vancouver[J].EnvironmentIntea tional,2020,143:106003,doi:10.1016/j.envint.2020.106003.   \n[24]Okubo R,Yoshioka T,Nakaya T,et al.Urbanization level and neighborhood deprivation,not COVID-19 case numbers by residence area,are associated with severe psychological distress and new-onset suicidal ideation during the COVID-19 pandemic[J]. Journal of AffectiveDisorders,2021,287: 89-95.   \n[25]Feuillet T,Valette JF,Charreire H,et al. Influence of the urban context on the relationship between neighbourhood deprivation and obesity[J]. Social Science & Medicine,2020,265:113537, doi:10.1016/j.socscimed.2020.113537.   \n[26]Wei O Y,Wang BY,Li T,et al. Spatial deprivation of urban public services in migrant enclaves under the context of a rapidly urbanizing China:An evaluation based on suburban Shanghai[J].Cities,2017,60:436-445.   \n[27]宋永永,薛东前，代兰海,等.陕北能源开发区县域社会剥夺的 空间差异与形成机制[J].地理与地理信息科学,2019,35(1): 109-117.[Song Yongyong,Xue Dongqian,Dai Lanhai,et al. Spatial pattern and formation mechanism of social deprivation at countylevel in energy-developmental area of northern Shaanxi Province[J]. Geography and Geo-Information Science,2019,35(1): 109-117.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[28]徐勇,段健,徐小任.区域多维发展综合测度方法及应用[J].地 理学报,2016,71(12):2129-2140.[Xu Yong,Duan Jian,Xu Xiaoren.Comprehensive measure methods of regional multi- dimensional development and their application[J].Acta Geographica Sinica,2016,71(12): 2129-2140.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[29]罗庆,李双金,刘荣增,等.居住环境多维剥夺的地理识别及类 型划分—以郑州主城区为例[J].地理研究,2018,37(10): 1971-1981.[Luo Qing,Li Shuangjin,Liu Rongzeng,et al. Geographical identification and classification of residential environmental deprivation: A case study of Zhengzhou City[J]. Geographic Research,2018,37(10): 1971-1981.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[30] 雒占福,雷德宏,李晓慧,等.河谷型城市居住环境剥夺的识别 及其影响因素——以兰州市主城区为例[J].地理研究,2021, 40(7):1949-1962.[Luo Zhanfu,Lei Dehong,Li Xiaohui,et al. Identification and influencing factors of residential environment deprivation in a river valley city:A case study of Lanzhou City[J]. Geographic Research,2021,40(7): 1949-1962.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Measurement of residential environment deprivation and its impact on housing prices: A case of Lanzhou City ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DU Yuhan， ZHAO Haili， YUAN Yue，LI Jialiang， WANG Jiaming(Northwest Normal University and Environmental Science,Lanzhou 723ooo,Gansu, China)",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Residential areas are important places for residents to build their daily lives and social relationships. Deprivation occurs due to diferences in the living environments.To explore the mechanism of housing price fluctuations caused by residential environment deprivation,this paper constructs the measurement system of housing deprivation,evaluates the situation of housing deprivation in residential areas of Lanzhou City, Gansu Province,China,analyzes the spatial distribution pattrn of housing prices in Lanzhou City,and analyzes the influencing factors of housing prices using a geographically weighted mixed regression model. The explanatory power of the interaction between service facilities for housing prices was also analyzed using a geographic detector. The conclusions of this paper are as follows.(1）The spatial distribution pattrn of housing prices in Lanzhou City is multi-core and collctive,showing a gradual downward trend from the core of each region to the outside.(2）Deprivation of living and transportation services shows a regional distribution pattrn.The deprivation of medical,educational,and leisure services presents an obvious spatial distribution pattern.In addition,the deprivation of entertainment services presents a multi-core spatial distribution patern. Because of the diferent service facilities,the spatial distribution pattern of residential deprivation is also diferent.(3）The deprivation of each service facility has diferent explanatory power for housing prices.The interaction between two service facilities increases the explanatory power for housing prices nonlinearly. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: deprivation of residential environment; deprivation index； housing prices；resource alocation；Lanzhou City ",
+        "page_idx": 9
+    }
+]

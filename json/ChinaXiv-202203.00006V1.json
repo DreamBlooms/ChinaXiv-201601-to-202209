@@ -1,0 +1,435 @@
+[
+    {
+        "type": "text",
+        "text": "不同频率经颅交流电刺激在精神疾病中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张思源1,² 李雪冰1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "( 中国科学院心理研究所心理健康重点实验室，北京100101)(² 中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要近年来，研究者开始将经颅交流电刺激技术应用于精神疾病领域中，其中，以γ、α 频率最受关注。tACS 作用于精神疾病的可能机制包括两个方面，直接调节异常的大脑神经活动和间接改善患者的认知功能。首先，使用特定频率的tACS作用目标脑区，可以调节对应频率的神经振荡和大脑功能连接，通过作用于疾病相关的异常大脑活动，直接改善患者的临床症状。其次，并不针对某种疾病特异受损的大脑活动，而是用tACS 激活与认知功能相关的大脑环路，广泛地提高患者的注意、记忆等多种认知功能，进而整体上缓解不良症状。目前，使用 tACS 治疗精神疾病这一领域还有一些尚未解决、值得探讨的问题。tACS 的作用机制研究、刺激参数和范式改进、技术升级，可以成为心理学、脑科学、以及临床医学的重点研究方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 经颅交流电刺激；精神疾病；神经振荡；认知功能；干预分类号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经颅交流电刺激(transcranial alternating current stimulation,tACS)是一种无创脑刺激(non-invasive brain stimulation,NIBS)技术，通过置于头皮的电极，将特定频率的低强度交流电作用于目标脑区，调节大脑皮层神经活动。tACS 因其无创、安全等特点，在医学、心理学等领域具有广泛的应用前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "尽管tACS 属于经颅电刺激(transcranial electrical stimulation,tES)的一种，其作用机制与经颅直流电刺激(transcranial directcurrent stimulation,tDCS)并不完全相同。目前，已有大量实证研究表明 tDCS可以通过改变神经元静息电位的方式，达到阳极提高皮层兴奋性、阴极降低皮层兴奋性的效果(Chase et al.,2020 ;Woods et al.,2016)；而 tACS主要通过不同频率交流电达到不同的干预效果。此外，与tACS 相比，tDCS 研究报告了更多的副作用，如头痛、灼烧，甚至轻躁狂和癫痫(Matsumoto & Ugawa,2016; Antal et al.,2017)。这些副作用在已有的 tACS研究中很少出现，仅有少数被试报告了头皮灼烧、轻度刺痛、磷光感等短暂的不良反应(Matsumoto& Ugawa,2016; Antal et al.,2017)。因此，一些研究者将兴趣转向了更为安全的 tACS。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以往研究主要关注 tACS 对健康个体的影响，研究发现，tACS 能够增强健康个体的运动能力(Joundi et al.,2012)，改善感知觉、记忆等认知功能(Struber et al.,2014; Hoy et al.,2015)。随着对该技术地不断探索，也有研究者开始关注 tACS 在精神疾病中的应用，期待 tACS 成为一种调节精神疾病大脑活动异常的潜在治疗手段。目前，在许多精神疾病中能够观察到患者大脑神经振荡、脑区功能连接等异常(Basar,2013;Hinkley et al.,2011)，一些 tACS 干预结果显示，施加特定频率的 tACS(如，10Hz-tACS、40Hz-tACS 等)能够直接与大脑振荡相互作用，调节异常振荡，并诱导脑区间功能连接缺陷恢复正常(Antal&Paulus,2013;Clancy et al,2018)。这提示，通过这种与脑区振荡相互作用的方式，tACS或可以缓解各种精神疾病的症状，帮助疾病的治疗。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，目前 tACS 在精神疾病中的应用正处于探索阶段。尽管已有研究发现使用不同频率tACS 刺激患者大脑神经活动异常部位，可以有效缓解精神分裂症、抑郁症、强迫症等疾病的症状(Haller,Senner,et al.,2020; Sreeraj et al.,2020; Klimke et al.,2016)，由于临床试验较少、治疗方案未标准化等，tACS 治疗精神疾病的结果可重复性较低，尚难以应用于临床治疗中。一方面，需要更多的临床试验证明 tACS 的有效性；另一方面，也说明需要机制研究为临床试验提供指导。探明tACS作用原理，有助于更具针对性地制定治疗方案，制定统一的治疗手册，将临床试验成果付诸应用和推广。因此，tACS 干预精神疾病的机制探讨和研究显得尤为重要且必要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，本文收集了截至 2021年7月，PubMed上有关tACS 和精神疾病的相关研究共 21篇,关键词包括\"tACS”、“transcranial alternating current stimulation\"和\"depression”、“anxiety”、“schizophrenia”、“ADHD”、“dementia\"等精神疾病名称，拟对不同频率 tACS 在精神疾病中的应用进行综述，探讨交流电刺激的特色和创新之处。鉴于tACS干预精神疾病的作用机制尚不清楚，本文还将针对tACS 在临床试验中的研究现状，结合tACS 在健康被试中的研究结果，探讨tACS 治疗精神疾病的可能机制，期望为tACS 在精神疾病治疗领域中的机制研究提供思路。此外，本文还将梳理tACS 领域尚未探明的问题和tACS 技术研发进展，为准备使用tACS的研究者提供一定参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2不同频率tACS在精神疾病中的应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 . 1 \\ \\gamma$ -tACS的应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与通过阳极、阴极进行干预的 tDCS不同，使用不同频率电流达到不同效果是tACS 最主要的特点。目前， $\\gamma \\cdot$ tACS 在精神疾病中应用最多。γ波段(约 $3 0 \\mathrm { H z } { \\sim } 8 0 \\mathrm { H z } \\$ 脑电活动主要涉及认知功能， $\\gamma$ 活动异常常见于各种精神疾病之中(Fitzgerald& Watson,2018;Farzan et al.,2010;Herrmann& Demiralp,2005)。γ-tACS 主要针对各种精神疾病中的认知受损，使用 γ-tACS 刺激患者大脑神经活动异常部位，在精神分裂症、抑郁症、痴呆等疾病中起显著有益作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "精神分裂症包括阳性症状(如幻觉、妄想)、阴性症状和认知障碍，其中阴性症状和认知能力下降往往难以通过药物治疗(Lally et al.,2016)，严重损害患者的日常生活质量。精神分裂症患者的认知受损涉及基因表达到大脑网络等多个方面(Millan et al.,2012)，患者通常表现出背外侧前额叶皮质(dorsolateral prefrontal cortex,DLPFC)的激活减弱(前额叶功能异常)(McGuire et al.,2008;Minzenberg et al.,2009)，DLPFC 缺乏对γ振荡的抑制被认为是导致精神分裂症常见症状的重要原因之一(Farzan et al,2010; Dobbs,2010)。有病例报告指出，对有阴性症状的精神分裂症患者的双侧DLPFC 进行为期10 天共 20次的 40Hz-tACS，患者的视觉注意、词汇流利度等认知功能和抑郁情绪均得到了改善(Haller,Hasan,Padberg,Brunelin,et al.,2020; Haller,Hasan,Padberg,Valiengo,et al.,2020)。作者指出，重复 $\\gamma$ -tACS可以调节大脑前额叶区域振荡，进而改善精神分裂症患者的阴性症状。然而，另一项研究显示，使用40Hz-tACS 针对左侧DLPFC 进行3次刺激治疗后，精神分裂症患者的工作记忆水平并未得到改善(Hoy et al.,2016)；使用相同刺激方案，健康被试的工作记忆得到了显著提高(Hoy etal.,2015)。作者提出，这可能是因为当患者本身缺乏产生或调节内源性振荡的能力时，tACS无法诱导神经振荡。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\gamma$ -tACS 也被应用于与认知受损直接相关的痴呆的治疗与诊断中。最近，有研究者发现，在进行大脑训练的同时采用左侧DLPFC的 $4 0 \\mathrm { H z }$ -tACS能够显著提高轻度认知障碍(mildcognitive impairment,MCI)患者的记忆力，且接受 tACS 的患者较仅进行大脑训练的患者能够更久地维持认知改善(Kehler etal.,2020)。除应用于临床治疗中，Naro 等(2016)提出 $\\gamma$ -tACS能够用于辅助诊断 MCI 和阿尔茨海默症(Alzheimer's disease,AD)。AD 主要体现为认知功能逐渐丧失(Cormutiu,2015)，严重影响患者的生活质量，早期鉴别具有AD 潜在风险的患者十分重要。然而，目前的鉴别方法十分复杂，通常难以直接区分MCI、AD，以及可能发展为AD 的 MCI 患者(Hugo& Ganguli,2014; Berte et al.,2014)。研究表明，与MCI相比，AD 患者存在γ 振荡异常(Babiloni et al.,2013; Herrmann & Demiralp,2005)，且AD 和 MCI 患者在长距皮质-丘脑皮质网络中受损程度不同(Babiloni etal.,2016)。Naro 等(2016)发现，接受背内侧前额叶皮质(dorsomedial prefrontal cortex,DMPFC)γ-tACS 后，EEG 结果显示健康被试和部分 MCI患者表现出了显著的 $\\gamma$ 振荡增加，而AD 患者和少数 MCI患者没有显著变化，且这些没有变化的MCI患者在两年后发展成为AD患者。这一结果表明，AD 患者可能完全缺乏调节γ振荡的能力； $\\gamma \\cdot$ -tACS 有望成为一种有效鉴别MCI和AD，并预测具有AD 恶化倾向患者的辅助诊断方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除提高认知能力以外，研究发现， $\\gamma$ -tACS也具有一定情绪效益。近期，有研究考察双侧前额叶皮质 $\\boldsymbol { \\gamma }$ -tACS 对重性抑郁障碍(major depression disorder,MDD)的治疗效果。研究发现，重复使用 $4 0 \\mathrm { { H z } }$ -tACS 可以改善患者的抑郁症状和认知任务表现(Haller,Senner,et al.,2020)。作者指出， $\\gamma$ -tACS 可能会同时诱导其他神经振荡的改变，如与情绪相关的 $\\alpha$ 振荡，并在重复使用的情况下改变皮质神经可塑性(Tavakoli& Yun,2017)，进而改善抑郁症患者的临床症状。此外，Wilkening 等(2019)首次对妊娠期抑郁症患者使用了 $\\gamma$ -tACS 治疗，该患者接受了9次 $4 0 \\mathrm { { H z } }$ 的双侧DLPFC 刺激，在治疗期间至治疗结束后3个月，患者均报告了症状缓解和记忆等认知功能改善。抑郁症是妊娠期最常见的精神疾病，许多妇女由于害怕出现致畸等严重副作用而放弃药物治疗(Kurzeck et al.,2018; Ross et al.,2013)。该案例报告表明 $\\boldsymbol { \\gamma }$ -tACS可能成为治疗妊娠期抑郁症的一种安全有效的方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "γ-tACS 还被应用于强迫症(obsessive compulsive disorder,OCD)的治疗之中。OCD 的典型特征是反复发作的侵入性想法和冲动，个体随之产生重复的想法或行为以降低焦虑水平。现有研究表明，OCD 患者 DLPFC 活动过低，难以控制纹状体和丘脑的神经元活动，导致DLPFC 和眶额皮层(orbitalfrontal cortex,OFC)回路活动失衡，从而引起强迫症症状(Nakao etal.,2014)。Klimke 等(2016)对 7名认知行为疗法(cognitive behavior therapy,CBT)无效的 OCD患者使用了额-颞区域的 $4 0 \\mathrm { { H z } }$ -tACS 治疗，所有患者的症状均在几个疗程刺激治疗后得到显著改善。这一临床治疗结果意味着 $\\boldsymbol { \\gamma }$ -tACS可能可以诱导DLPFC 的 $\\boldsymbol { \\gamma }$ 活动，并减少与过度活跃和焦虑相关的OFC 活动。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "总的来说，使用 $\\gamma$ -tACS 针对精神分裂症、阿尔兹海默症等精神疾病患者异常的 $\\gamma$ 活动，将有可能帮助诱导 $\\gamma$ 振荡恢复正常，进而提高患者的工作记忆等认知功能。 $\\gamma \\cdot$ -tACS也可能间接诱导其他频段大脑活动，如在抑郁症的治疗中，使用 $\\gamma$ 频段刺激可能间接诱导与情绪相关的 $\\mathfrak { a }$ 振荡，表现出抑郁减少、焦虑降低等情绪效益。此外，值得注意的是，并非所有γ-tACS 均能有效地缓解患者的认知受损等症状，如早期AD 患者对 $\\gamma$ -tACS并无反应。这可能与患者本身是否具备 $\\gamma$ 振荡调节能力相关，或许对于本身缺乏或完全失去 $\\boldsymbol { \\gamma }$ 振荡调节能力的患者而言，tACS 并不能帮助诱导大脑活动的增强。 $\\gamma$ -tACS 能否调节其他频率振荡， $\\gamma \\cdot$ -tACS的作用是否受患者本身疾病严重程度影响，这些都将是未来 $\\boldsymbol { \\gamma }$ -tACS 机制探讨和治疗领域需要考虑的重要问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2α-tACS的应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { a }$ 振荡是人脑静息态、清醒时最显著的节律性活动。通常认为， $\\mathfrak { a }$ 振荡(约 8Hz-12Hz）产生于丘脑-皮质网络(Hughes & Crunelli,2005; Bollimunta et al.,2011)，能够对注意和感知觉等多种认知过程产生抑制作用(Foxe& Snyder,2011;Klimesch,2012)，并影响大脑长距静息态网络(resting-state networks,RSNs)间的通信，尤其影响与情绪和觉醒过程、情绪障碍相关的默认模式网络(default mode network,DMN)和显著网络(salience network,SN)(Mantini et al.,2007;Mo et al.,2013)。目前，使用 $\\mathfrak { a }$ -tACS 调节异常的 $\\alpha$ 振荡和网络连接，已被应用于各种与感知觉受损、情绪异常相关的精神疾病治疗的临床试验之中。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { a }$ -tACS 能够减轻精神分裂症患者的幻听、妄想等阳性症状。已有研究发现，精神分裂症与 $\\mathfrak { a }$ 振荡减少直接相关(Omori et al.,1995)，患者在静息态下额叶和颞叶间的功能连接减弱(Hinkley et al.,2011)。患有幻听症状的患者表现出异常的颞顶连接(temporo-parietaljunction,TPJ)和 DLPFC 活动(Vercammen et al.,2010;Lawrie et al.,2002)，而妄想发生的基础可能是额叶区 $\\mathfrak { a }$ 振荡受损,导致 DMPFC 异常活跃(Lariviere et al.,2017; Jia et al.,2019)。Mellin 等(2018)发现，10Hz-tACS作用于患者左侧DLPFC 和 TPJ能够降低幻听症状。根据高密度脑电图，患者的 $\\alpha$ 振荡和额顶颞网络的功能连接均得到了增强(Ahn et al.,2019)。Force 等(2021)同样对一名患者的左侧DLPFC 和 TPJ进行了为期 20 周的10Hz-tACS，患者从第九周开始，幻听持续时间减少、对幻听的可控性提高，并认为 tACS 对她的认知有积极效果。Sreeraj 等(2020)采用 $1 0 \\mathrm { H z }$ -tACS 作用于患者的DMPFC区域，证明了 $\\mathfrak { a }$ -tACS 可以减轻妄想症状，同时，幻听等其他阳性症状和阴性症状也得到了改善。上述研究结果表明， $\\mathbf {  { a } }$ -tACS可能通过调节异常的 $\\alpha$ 振荡和大脑网络连接，改善精神分裂症患者的阳性症状。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { a }$ -tACS 也被应用于治疗MDD 和降低焦虑的临床试验之中。MDD 患者通常表现出左侧额叶区域较高的 $\\alpha$ 振荡，左右侧 $\\mathfrak { a }$ 振荡不对称反映了左侧DLPFC 神经元活动减少，情感处理能力减弱(Leuchter et al.,2012)。Alexander 等(2019)将 $1 0 \\mathrm { H z }$ -tACS 作用于MDD 患者双侧额叶区域，结果显示，10Hz-tACS显著降低了患者左侧前额叶区域的 $\\alpha$ 振荡，在治疗结束后两周随访时，与40Hz-tACS 组和伪刺激组相比，tACS组患者抑郁水平更低。主实验后，在患者的要求下，其中一名 $1 0 \\mathrm { H z }$ -tACS 组患者继续接受了每周40分钟，为期12周的tACS 治疗。患者完成12周刺激后，病情得到缓解，且在2周内报告治疗效果良好且持久，但治疗结束后6周病情完全复发(Riddlea etal.,2020)。这意味着每周进行双侧额叶 $1 0 \\mathrm { H z }$ -tACS有望成为一种有效缓解抑郁症状的治疗方法，与每天进行刺激相比更易管理、更具可行性。此外，有研究者(Clancy etal.,2018)采用焦虑唤起的方式，以正常被试为对象考察了 $\\mathfrak { a }$ -tACS对焦虑情绪的影响。研究发现，针对枕顶区域的 $\\mathbf {  { a } }$ -tACS 能够持续增强枕叶到额叶的 $\\alpha$ 频段连接，且这种连接的增强伴随着焦虑唤起的减少。该研究表明tACS 可能具备诱导大脑长距连接可塑性的能力，这将有利于治疗大脑功能连接异常的精神疾病，如创伤后应激障碍(post-traumatic stress disorder, PTSD)(Sripada et al.,2012; Clancy et al., 2017)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { a }$ -tACS 不仅能够增强局部的 $\\mathbf {  { a } }$ 频段活动，同时也具备增强大脑功能连接的能力。将 $\\mathfrak { a }$ （204号tACS应用于和 $\\alpha$ 振荡异常、功能连接异常密切相关的各种疾病之中，将是一种可行的临床治疗新方法。然而， $\\mathfrak { a }$ -tACS 诱导功能连接是否具有长期效益是目前尚未解决的问题。有研究报告刺激24小时后仍能观察到 $\\alpha$ 波段功能连接增强(Clancy etal.,2018)，也有研究报告停止刺激后，病情会完全复发(Riddlea et al.,2020)。因此，通过脑成像等技术探讨 $\\mathfrak { a }$ -tACS的作用范围，考察tACS 是否具备诱导功能连接可塑性的能力，均是未来研究的重要方向。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3其他tACS的应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除 $\\gamma , \\textbf { \\em a }$ 两种常见刺激频率外，也有少数研究使用0和δ频段交流电进行刺激治疗。此外，还有研究尝试使用更高电流强度的 $1 5 \\mathrm { m A }$ 交流电刺激。本部分将对这些研究进行简单介绍。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "神经影像学结果表明，精神分裂症阴性症状可能与前额叶皮层、中脑腹侧被盖区、海马之间的异常功能连接有关(Sanfilipo et al.,2000; Tregellas et al.,2014)，这些区域的功能连接正是由0 振荡(约 4.5Hz)调节(Fujisawa& Buzsaki,2011)。在一项使用 tACS 治疗氯氮平抗药性精神分裂症患者的案例报告中，研究人员将电极放置于患者的双侧DLPFC，使用 $4 . 5 \\mathrm { { H z } }$ -tACS进行了每次20分钟，共20个疗程的刺激治疗。结果显示，患者的阴性症状得到一定改善，治疗结束后患者的意识不清程度降低(Kalleletal.,2016)。同样，在提高精神疾病患者的认知功能治疗中，Sreeraj 等研究者在施加0-tACS 的同时，要求被试完成n-back 和面部情绪识别等认知任务。结果显示，0-tACS 改善了患者的工作记忆、注意力、任务处理速度和情绪处理能力，这些效果在治疗结束 50 天后仍持续存在(Sreeraj etal.,2019)。另有研究者对1名偏执型精神分裂症患者进行了0-tACS 和 $\\gamma$ -tACS 各一个疗程的治疗。研究者将电极置于患者的左侧DLPFC 和左侧后顶叶区，并要求患者在刺激的同时完成认知任务，以考察不同频率tACS 对认知功能的改善作用。结果发现，仅有0-tACS 能够提高患者的工作记忆水平，而接受γ-tACS 时并无显著变化(Sreeraj et al.,2017)。0-tACS 能够提高患者认知水平而 $\\gamma$ -tACS无明显效果这一结果，与Kallel等(2016)和Hoy 等(2016)的研究相一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "另外，一项研究使用 tACS 调节注意缺陷多动障碍(attention deficit hyperactivity disorder,ADHD)患者的 P300 振幅。与健康个体相比，ADHD 患者在执行 Oddbal 和其他相似的认知任务时表现出 P300 降低(Hasler et al.,2016;Itagaki et al.,2011)。若将事件相关电位(event-related potentials,ERPs)成分视为事件相关振荡(event-related oscillations,EROs)的一部分，与P300 对应的则是δ和0 频率振荡(Herrmann et al., 2014;Basar-Eroglu et al.，1992)。Dallmer-Zerbe 等研究者(2020)使用与P300振荡峰重合的 tACS干预ADHD 患者,结果发现，与伪刺激组相比，刺激组P300振幅增加，并伴随更好的任务表现。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外,国内有研究者使用15mA、77.5Hz-tACS 治疗MDD 和慢性失眠(chronic insomnia)。tACS 作为一种低频率、低电流的经颅电刺激方法，施加电流在 $1 { \\sim } 2 \\mathrm { m A }$ 左右。由于这是首次在精神疾病治疗中使用高强度电流，且不符合一般tACS 的定义，故放在本部分“其他tACS\"中介绍。已有研究显示，前额叶和双侧乳突的 $7 7 . 5 \\mathrm { H z }$ -tACS可能提高脑脊液和下丘脑及其相关脑区中的 $\\beta \\cdot$ 内啡肽和其他神经递质的浓度，如 5-羟色胺(Zaghi et al.,2010;Lebedev et al.,2002)。其中，5-羟色胺是影响抑郁症的重要神经递质之一(Porter etal.,2004)，也影响着慢性失眠(Riemann etal.,2015;Morin& Benca,2012)。王红星等人(2020)使用前额叶和双侧乳突的77.5Hz-tACS 治疗MDD 患者，结果发现，与非 tACS 组相比，tACS 能够立刻减轻患者的抑郁程度；尽管随着tACS 的结束，抑郁程度有一定反弹，但抗抑郁效果能够维持到治疗结束4周后。使用同样的刺激方案治疗慢性原发性失眠症患者，结果显示接受tACS 的患者在治疗结束后和4周后的随访时，症状得到显著缓解，治疗结束后缓解率显著高于伪刺激组(Wanget al.,2020)。上述结果表明，15mA、77.5Hz-tACS 能够有效且安全地缓解 MDD 和慢性失眠，该刺激方案可能应用于与神经化学物质浓度异常相关的精神疾病治疗之中。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3tACS的作用机制探讨 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前，tACS 作用精神疾病的机制并不清楚，探讨可能的机制将有助于为临床应用提供参考。直接调节异常的大脑神经活动是tACS 缓解精神疾病症状的可能作用机制之一。正如上文所述，许多精神疾病症状与大脑异常活动相关，如精神分裂症患者的幻听症状与颞顶连接和 DLPFC 异常相关，妄想与额叶 $\\mathfrak { a }$ 振荡异常相关，使用 $\\mathfrak { a }$ -tACS 作用于异常脑区可以直接调节异常的振荡和连接，减少这些症状的发生。同时，可以发现tACS具有一定认知效益。在许多研究中均可发现 tACS 可以增强患者的记忆力(Sreeraj et al.,2017; Kehler et al.,2020)、提高注意力(Dallmer-Zerbe et al.,2020;Wilkening et al. 2019)和降低负性情绪(Sreeraj et al.,2020; Sreeraj etal.,2019)。以往精神疾病的干预研究中,工作记忆训练(潘东旎，李雪冰,2017)、正念(Bulzacka et al.,2018)等认知训练已显示出良好的效果。tACS 可能具备同认知训练相似的认知效益，通过提高患者的认知功能改善疾病症状。另外，少数研究认为高强度tACS 能够促进5-羟色胺、内啡肽等神经递质的释放，这也是缓解疾病症状的可能机制。由于 tACS促进神经递质释放的证据不足，本节仅对前两种可能的机制及相关问题进行详细探讨。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1调节大脑神经活动",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "tACS 干预精神疾病的可能机制之一是直接诱导异常的神经振荡和大脑功能网络连接恢复正常，进而改善精神疾病的临床症状。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "神经振荡是有节律或重复的神经活动，普遍存在于整个神经系统之中(Koepsell et al.,2010; Zhang,2011)，调节皮质和皮质下区域之间的远程通信(Buzsaki& Draguhn,2004)。其中， $\\mathfrak { a }$ 振荡是大脑静息态或清醒时最显著的神经振荡。通常认为， $\\mathfrak { a }$ 振荡产生于丘脑-皮质网络(Hughes& Crunelli,2005; Bollimunta et al.,2011)，并通过振荡的方式弥散到额叶区域。研究发现，精神分裂症与 $\\mathfrak { a }$ 振荡减少直接相关(Omori etal.,1995)，抑郁症患者存在额叶 $\\alpha$ 振荡较高、左右侧不对称(Leuchter et al.,2012)的情况。 $\\gamma$ 振荡与信息处理的瞬时连接相关(Colginet al.,2009)，主要产生于抑制性中间神经元网络。研究发现，γ振荡异常主要与精神疾病患者的认知功能损坏相关，AD 患者存在严重的 $\\gamma$ 振荡异常(Babiloni et al.,2013;Herrmann &Demiralp,2005)；在精神分裂症中可以发现DLPFC 缺乏对 $\\gamma$ 振荡的抑制，异常活跃的 $\\gamma$ 振荡导致认知受损等常见症状(Farzan et al,2010; Dobbs,2010)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "针对前额叶的 $\\mathbf {  { a } }$ -tACS、γ-tACS取得了良好的结果。Ahn 等人(2019)EEG 结果显示， $1 0 \\mathrm { H z } -$ tACS作用于精神分裂症患者的DLPFC和TPJ，能够增强 $\\mathfrak { a }$ 振荡和 $\\alpha$ 频段调节的大脑功能连接；Alexander 等人(2019)发现，10Hz-tACS作用于抑郁症患者的双侧额叶，患者左侧额叶的 $\\alpha$ 活动显著降低；Naro 等人(2016)发现，部分MCI患者和健康被试在接受 $4 0 \\mathrm { H z } .$ -tACS后出现了γ活动增强。这些研究结果均说明，使用异常振荡对应频率的tACS 作用患者的大脑活动受损部位，可以直接诱导异常振荡和大脑功能连接恢复正常。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "也有研究试图靶向0振荡。0振荡与冲突处理、抑制控制相关，在多种冲突任务中均能发现θ 活动的增强。0 振荡发源于由内侧前额叶皮质(medial prefrontal cortex,mPFC)覆盖的背侧前扣带回皮质(dorsal anterior cingulate cortex,dACC)，因此也称为额叶中线 0(frontalmidline theta,FMT)。与直接靶向前额叶皮层的α、 $\\gamma$ 振荡不同，0振荡的发生部位更深，头皮电刺激是否能够作用位置更深的前扣带回皮质(anterior cingulate cortex,ACC)是研究者关心的问题。当前的研究主要采用额叶间接靶向 ACC 的刺激方案，有研究以DLPFC 为靶点(Lehr et al.,2019)，更多的研究直接刺激额叶中线区域(van Driel et al.,2015; Fusco et al.,2020;2018)。Klirova 等人(2021)发现，施加于mPFC 的0-tACS 能够通过mPFC 对 ACC 的0活动进行靶向调节，增强dACC 的θ活动，进而提高 Stroop 任务的表现。因此，作用于额叶区域的 0-tACS 适用于dACC 活动异常相关的各类精神疾病，如 ACC 活动减少的精神分裂症(Carter et al.,2001)，较高 ACC 活动的 OCD(Fitzgerald et al.,2005)。另外，研究也发现针对额叶的 0-tACS 能够改变被试的情绪评估过程(Onoda et al.,2017)，或使被试感到更加平静(Klirovaetal.,2021)。这可能与ACC 的整合功能相关，目前的理论认为，dACC 影响认知活动，而喙侧 ACC(rostral anterior cingulate cortex,rACC)与情绪加工密切相关(Bush et al.,2000)。因此，未来也可尝试使用0-tACS干预ACC 活动异常导致情绪异常相关的精神疾病。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "上述使用各种频率刺激的研究表明，tACS 不仅能够直接作用于局部脑区，也能够诱导脑区间的功能连接，例如，使用 $\\mathfrak { a }$ 频段tACS的研究发现，刺激治疗后也能增强 $\\alpha$ 频段的功能连接(Ahn et al.,2019)；针对 mPFC 的0 频段刺激能够增强 mPFC-ACC 环路(Klirova et al,2021)。一方面，这些研究结果说明 tACS 能够靶向异常的大脑连接；另一方面，也提示 tACS可能通过弥散的方式对其他正常大脑活动造成影响。视觉磷光是tACS 实验中被试报告最多的不良反应，这可能是因为大量的电流通过皮肤分流到眼睛，影响视网膜细胞或视神经(Kar& Krekelberg,2012)，但目前并没有控制对照实验排除 tACS 对其他特定皮层神经活动产生影响(Woods etal.,2016)。由此可以推测，靶向目标脑区的 tACS 电流，也可以通过头皮、皮质进行传递，进而影响其他正常大脑活动。如何精准靶向异常脑区而不影响正常大脑活动是值得探讨的一个问题。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外，值得注意的是，目前研究者们主要关注刺激同时或刺激结束后tACS 对异常大脑活动即刻的调节作用。尽管一些临床试验采用了4周或更长时间的随访，调查患者的症状缓解情况，却几乎没有研究考察大脑活动的长期变化。tACS 对异常脑区的调节作用是否具有长期效益，tACS 能否诱导大脑可塑性也是一个重要问题。这关系到对 tACS 剂量、疗程的把控，以及将 tACS 纳入日常治疗的可行性和经济性。一些研究发现，抑郁症患者接受 tACS治疗后，抑郁症状和认知水平能够得到持续几周甚至几个月的改善(Wilkening et al.,2019;Alexander etal.,2019；王红星 等,2020)；接受0-tACS 治疗的精神分裂症患者，在刺激结束50 天后，注意力、工作记忆水平等认知功能提高仍持续存在(Sreeraj etal.,2019)。这些结果表明，tACS 可能改变了大脑的结构或功能，进而表现出长期的干预效果。然而，另一些研究也发现，tACS的治疗效果可能随时间的推移有所反弹，甚至一些患者的症状完全复发(Wang et al.,2020; Riddlea etal.,2020)。目前，仅有 Clancy 等人(2018)的研究发现，刺激结束24小时后仍存在 $\\mathfrak { a }$ 波段功能连接的增强，但不再存在局部 $\\alpha$ 活动增强，表明tACS 可能具有长期改变大脑活动的能力。未来需要更多使用脑成像技术的研究，清晰、直观地观测 tACS对大脑活动的改变是否能够持续到治疗结束后几周或更长时间，探讨tACS 的长期效益。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2改善认知功能",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在许多针对健康被试的 tACS 实验中可以看到tACS 的认知效益，这些效益同样存在于精神疾病的干预中。tACS 通过提高患者的记忆、注意力等认知功能，间接缓解精神疾病症状，是tACS 干预精神疾病的另一个可能机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "记忆改善是tACS干预的重要指标之一。在很多实验中，研究者加入了n-back 等记忆任务，考察 tACS 在记忆方面的认知效益。Sreeraj 等人发现0-tACS可以提高精神分裂症患者的 2-back 表现，而 $\\gamma$ -tACS 不能(Sreeraj et al.,2019; 2017)。Hoy 等人的研究发现， $\\gamma$ -tACS可以提高健康被试，却不能提高精神分裂症患者的工作记忆能力(Hoy etal.,2015;2016)。Haller,Senner 等人(2020)的研究发现， $\\gamma \\cdot$ -tACS 可以提高抑郁症患者的n-back 任务表现。另一些研究使用韦氏记忆量表(Wechsler Memory Scale,WMS-IV)、口头数字广度测验(verbal Digit Spanforward)等测量，发现 $\\gamma$ -tACS 能够提高痴呆患者的记忆力(Naro et al.,2016;Kehler etal.,2020)。上述研究表明，针对不同疾病选择合适的tACS 频率，可以改善患者的记忆力。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "一些研究也考察了tACS 对注意力等其他认知能力的作用。研究者使用追踪测试(TrailMaking Test Aand B,TMT-A/B; Haller, Hasan, Padberg, Brunelin, et al.,202O; Haller, Senner, etal.,2020; Wilkening et al.,2019)、视觉 oddball 任务(visual oddball task; Dallmer-Zerbe et al.,",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2020)等考察患者注意力的改变，使用 Regensburg 词汇流利测试(Regensburg Word FluencyTest, RWT; Haller, Hasan,Padberg,Brunelin,etal.,202O; Haller, Senner, et al.,202O)、情绪匹配和标记任务等测量患者的社会认知能力。结果表明，tACS 能够显著提高患者的注意力、语言沟通能力等各种认知功能。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "以往研究发现，通过各种认知训练提高患者的注意、记忆、问题处理等认知能力，不仅能够直接提升目标能力，也可以提高其他关联能力，进而整体上缓解患者的临床症状。例如，快感缺乏是精神分裂症的典型阴性症状，Li 等人发现，工作记忆训练不仅可以提高工作记忆表现，也能改善快感加工过程，提高对奖赏的敏感性(Li et al.,2016)；以保持注意为主要练习对象的正念干预(Mindfulness based interventions,MBI)，不仅可以影响练习者的学习和记忆(Mrazek et al.,2013; Konjedi& Maleeh,2020; Youngs et al.,2021)，也能有效调节抑郁症、焦虑症等患者的情绪反应(Bulzacka et al.,2018)。以工作记忆训练为例，神经影像学结果显示，接受工作记忆任务训练的精神分裂症患者，表现出背外侧前额叶、前扣带回等与工作记忆相关区域的神经网络活动增强(Subramaniam etal.,2012)；内侧前额叶皮层活动的增强，与心理社会功能和工作记忆表现的持续改善有关(Subramaniam et al.,2014)；健康被试可以观测到顶叶和背外侧前额叶等脑区的活动改变(Lawlor-Savage＆ Goghari,2014)。ERP 结果显示，接受工作记忆训练的高焦虑个体，在消极面孔 Stroop 任务中出现了明显的P3 振幅降低，与负性注意偏向减少密切相关(Pan et al.,2020)。可以发现，工作记忆训练能够改变与记忆、注意、情绪等认知功能密切相关的大脑区域，带来记忆增强、焦虑降低等多种认知效益。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "同样，在tACS 研究中，也可以发现这些大脑活动变化。这些活动的改变并不具备疾病特异性，在针对健康个体的研究中也能观察到tACS 的认知效益。例如，双侧顶叶和右侧额顶区域0-tACS可以降低静息态0振荡，降低n-back任务中的P3 潜伏期(反映更快的项目匹配速度)(Pahor& Jausovec,2018)；针对背外侧前额叶皮质的0-tACS 可以在工作记忆任务中降低 DMN 等和认知功能密切相关的大脑网络功能连接(Abellaneda-Pérez et al.,2020)；前额叶 $ { \\mathbf { a } }$ -tACS可以增强全脑 $\\mathfrak { a }$ 振荡和额顶叶注意网络活动，使情绪面孔任务中P2和P3振幅显著增大，即提高早期和晚期的情绪注意水平来改善被试的负性情绪认知偏差，增强情绪加工能力(Hu et al.,2021)。由此推测，类比于其他认知训练，一些tACS 并不针对某种疾病特异受损的大脑活动，而是通过激活或抑制记忆、注意、情绪相关的大脑环路，广泛地提高患者的多种认知功能，进而整体上缓解不良症状。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4问题与展望",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "目前有关tACS 治疗精神疾病的研究较少，主要为案例报告。为探究tACS 的治疗效果和作用机制，还需扩大被试样本，进行更多的随机对照双盲实验。此外，无论是使用 tACS的研究，还是tACS 技术本身均在探索与发展之中，目前tACS研究领域尚未解决的问题和不同的tACS 技术将在本部分进行介绍和讨论。探讨这些问题，将帮助更加清晰地认识tACS。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "首先，tACS的刺激参数设定并未标准化，在本文介绍的研究中可以看到，不同的研究采用了不同的频率、时常、疗程。在刺激频率上，一些研究者对所有被试采用固定的频率对目标区域进行刺激，如 $1 0 \\mathrm { H z }$ 、 $4 0 \\mathrm { { H z } }$ 等；另一些研究者则通过采集每名被试的振荡频率作为每个个体的刺激频率，如在Clancy 等人(2018)的研究中，研究者将睁眼静息态下各被试枕顶叶 $\\mathfrak { a }$ 范围内的峰值频率作为刺激频率，Sreeraj 等人(2019)使用个体 $\\mathfrak { a }$ 振荡峰值-5作为0刺激频率;也有研究者使用变化的频率,Naro 等人(2016)在 $4 0 { \\sim } 1 2 0 \\mathrm { H z }$ 频率范围内，以每间隔 $2 0 \\mathrm { { H z } }$ 为一个水平施加刺激。在治疗方案上，不同研究每次刺激的时长和总刺激疗程等并不一致，尤其在于每日刺激次数和刺激时长的区别。Haller，Senner 等人(2020)的研究发现，使用每日2 次、每次10 分钟的 tACS 治疗MDD 比每日1次、每次20 分钟更有效。但目前并没有其他研究对不同刺激方案的效果进行对比，这将是未来研究一个可能的关注点。同时，随着tACS 领域研究的增多，需要根据不同的实证研究设计和结果，制定标准化的刺激方案，为临床试验、治疗提供参考。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "其次，目前 tACS 实验有使用不同的实验范式，主要区别在于电刺激时被试是否处于静息态。值得注意的是，大部分干预研究,仅要求在刺激时注视屏幕或观看与任务无关的影片，采用刺激前后测量的方法对刺激效果进行评定，即测量或任务与电刺激分别进行，但也有一些研究采用了“online\"tACS(Sreeraj et al.,2019; Hoy et al.,2016)。“online\"tACS 是一种要求被试在刺激同时完成任务的实验范式。有研究认为，tACS 诱导效果取决于大脑的状态，当目标脑区处于激活状态时，效果会增强(Feurra etal.,2013)。静息态时 $\\mathfrak { a }$ 振荡占主导地位，而在执行任务的时候能够观测到0、γ 等频段振荡活动(Klimesch,1999;Burgess ＆ Ali,2002)。因此，在施加与认知活动密切相关的γ等频率刺激的同时，要求被试完成认知任务，可能会取得更好的治疗效果。由于目前使用\"online\"tACS 的研究很少，对比分析其是否更加有效，使用各种脑成像技术观测\"online\"tACS 是否存在更大的激活，将是一个值得关注的问题。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "此外，作为一种依赖技术的干预手段，关注技术本身发展也十分重要。目前的设备研发主要关注刺激精确度的提高，已有研究开始使用高精度 tACS(high definition tACS,HD tACS)技术。HD tACS 属于高精度经颅电刺激(HDtES)技术的一种，已被应用于 tACS 相关研究之中(Deng et al.,2019; Meier et al.,2019; Ghafoor et al.,2021)。传统 tACS 主要根据国际脑电图",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "10-20电极定位系统，使用 $2 5 { \\sim } 3 5 \\mathrm { c m } ^ { 2 }$ 的海绵电极片作用于目标脑区，存在难以精确定位大脑深层结构，影响目标脑区周围和相互连接结构的问题。而HD tACS 使用多导电极，通过建立脑区电场强度分布的计算模型，根据结构神经成像，进行多电极、个性化的刺激施加，精确地靶向导电性不同的大脑组织(Alametal.,2016)。研究表明，通过多电极刺激实现更大的电流密度，可以穿透更深的大脑结构，使电刺激更具方向性和集中性(Fermandez-Corazza etal.,2016;Dmochowski et al.,2011)。已有研究发现，HD tACS与传统 tACS 相比，诱导大脑活动改变的效果更优(Klirova etal.,2021)。使用 HD tACS 将会帮助更精确地靶向精神疾病患者异常大脑活动，而不影响其他正常脑区，且可以用于干预更深的大脑区域，例如和认知情绪密切相关的ACC。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "施加tACS 的同时采集EEG，也是目前关注的重要问题。由于施加电流会造成大量的高频、非线性伪迹遮盖低频脑电活动，研究者通常难以在刺激施加的同时观察大脑活动变化，只能采用刺激前后测量 EEG 的方式对 tACS 对脑电活动的影响进行评估。然而，延迟的记录存在许多不足之处，记录刺激同时的大脑活动更能直接反应tACS的即时效果，清晰观察tACS 的作用机制。因此，通过算法去除施加电流的影响显得尤为重要。关于去除 tACS 伪迹的技术，Kasten 和 Herrmann(2019)已在其综述中对目前存在的方法、理论和缺陷进行了详细地介绍。近期，也有研究者提出将机器学习应用于伪迹去除之中(Kohli&Casson,2020)。关注并应用这些方法，将帮助更好地理解tACS 的作用机制。此外，基于刺激同时采集脑电的思想，Boyle 和Frohlich(2013)首次提出了反馈 tACS 控制大脑皮层活动。反馈控制 tACS系统是一种通过实时监控脑电信号，动态调整并优化刺激频率、幅度、持续时间，通过自适应控制优化算法反馈和评估刺激效果，进一步调整刺激参数，直至异常 EEG 恢复正常的脑刺激系统(Zhang,2021)。这种方法不仅能更直观地观测到 tACS在大脑活动水平上的作用效果，也可以更有效、更个性化地针对不同个体优化刺激方案。使用EEG 反馈控制 tACS 系统，Boyle 和Frohlich(2013)发现，顶枕区 EEG 反馈控制的 $4 0 \\mathrm { H z }$ -tACS 比随机施加的 $4 0 \\mathrm { H z } \\cdot$ （20tACS 更能有效控制视觉皮层内的 $\\mathbf {  { a } }$ 振荡。近期，Zhang(2021)的研究也发现，该系统能够显著提高 $\\alpha$ 频段功率，降低δ频段功率，使被试感到思维更清晰、更具创造力；进一步研究发现，提前设定睡眠模式，经过反馈、调整、自适应控制和优化等一系列周期后， $\\beta$ 波和 $\\alpha$ 波得到抑制，0波和δ波得到极大增强，表明该系统将有可能为睡眠障碍患者提供治疗。将上述技术应用于今后的研究中，可以帮助更好理解tACS技术，并促进其应用于临床治疗之中。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5总结 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "tACS 有望成为一种安全、有效的精神疾病治疗和识别方法，具有广泛的应用前景。未来，需要深入研究tACS 的作用机制，以针对性地治疗各种疾病。同时也应继续探索不同的刺激方案和实验范式，密切关注技术和设备的升级，将更高效、更具个性化的tACS 技术应用于心理学、认知神经科学和医学的研究中。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "潘东旎，李雪冰.(2017).工作记忆训练在精神疾病中的应用．心理科学进展,25(9),1527-1543.   \n王红星，王坤，孙志超，彭茂，薛青，李宁，王玉平.(2020).经颅交流电刺激干预从未药物治疗的抑郁症 患者的疗效初探．中华医学杂志,100(3),197-201.   \nBasar,E.(2013).Brain oscillations inneuropsychiatric disease.Dialogues in Clinical Neuroscience,15(3),291-300.   \nCornutiu, G. (2015).The epidemiological scale ofAlzheimer's disease.Journal of Clinical Medicine Research,7(9) 657-666.   \nDobbs,D.(2010).The making of a troubled mind. Nature, 468,154-156.   \nKlimesch,W.(2012).Alpha-band oscillations,attention,and controlled access to stored information.Trends in Cognitive Sciences, 16(12), 606-617.   \nKlimesch, W. (1999). EEG alpha and theta oscilations reflect cognitive and memory performance: A review and analysis.Brain Research Reviews,29,169-195.   \nZhang, J.A. (2O21). Feedback-controlled transcranial alternating current stimulation can intelligently adjust EEG signals. Basic & Clinical Pharmacology & Toxicology, 127(S1), 16.   \nZhang,T. (2011). Neural oscilations and information flow associated with synaptic plasticity. Acta Physiologica Sinica, 63(5), 412-422.   \nAbellaneda-Pérez,K., Vaqué-Alcazar,L.，Perellon-Alfonso,R.,Bargaló,N.,Kuo,M.F.，Pascual-Leone,A.. Bartres-Faz,D. (2020). Diferential tDCS and tACS efcts on working memory-related neural activity and resting-state connectivity. Frontiers in Neuroscience,13,1440.   \nAhn,S.,Melin,J.M.,Alagapan,S.,Alexander,M.L.,Gilmore,J.H.,Jarskog,L.F.,&Frohlich,F. (209).Targeting reduced neural oscillations in patients with schizophrenia by transcranial alternating current stimulation. NeuroImage,186,126-136.   \nAlam,M.,Truong,D. Q.,Khadka,N.,& Bikson,M.(2016).Spatial and polarity precision of concentric highdefinition transcranial direct current stimulation (HD-tDCS).Physics in Medicine and Biology, 61(12), 4506- 4521.   \nAlexander,M.L.,Alagapan,S.,Lugo,C.E.,Melin,J.M.,Lustenberger,C.,Rubinow,D.R.,&Frohlich,F. (2019). Double-blind,randomized pilot clinical trial targeting alpha oscilations with transcranial alternating current stimulation (tACS) for the treatment of major depressive disorder (MDD). Translational Psychiatry, 9,106.   \nAntal,A.，& Paulus,W. (20l3). Transcranial alternating currnt stimulation (tACS). Frontiers in Human ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Neuroscience,7,317. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Antal,A.,Alekseichuk,.,Bikson,M.,Brockmoller,J.,Brunon,A.R.,Chen,R.Paulus,W. (2017).Lowintesity transcranial electric stimulation: Safety，ethical, legal regulatory and application guidelines. Clinical Neurophysiology, 128(9),1774-1809. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Babiloni, C.,Carducci,F,&Lizio,R., Vecchio,F.,Baglieri,A.,Bernardini,S...Frisoni, G.B. (2013).Resting state cortical electroencephalographic rhythms are related to gray mater volume in subjects with mild cognitive impairment and Alzheimer's disease. Human Brain Mapping, 34,1427-1446.   \nBabiloni, C.,Vecchio,F.,izio,R.,Ferri,R.,Rodriguez,G.,Marzano,N.,.Rossini,P.M. (2o16).Restingstate cortical rhythms in mild cognitive impairment and Alzheimer's disease: Electroencephalographic evidence. Journal ofAlzheimer's Disease,26,201-214.   \nBasar-Eroglu,C., Basar, E.,Demiralp,T.,& Schurmann,M. (1992). P30-response: Posible psychophysiological correlates in delta and theta frequency channels.Areview. International Journal of Psychophysiology13(2), 161-179.   \nBerte,F.,Lamponi, G.,Calabro,R.S.,& Bramanti,P. (2O14).Elman neural network forthe earlyidentificationof cognitive impairment in Alzheimer's disease. Functional Neurology, 29(1), 57-65.   \nBolimunta, A., Mo,J.,Schroeder, C.E.,& Ding,M. (2011). Neuronal mechanisms and atentional modulationof corticothalamic alpha oscillations. Journal of Neuroscience, 31(13), 4935-4943.   \nBoyle,M.R.,&Frohlich,F. (2013,August). EEGfeedback-controlled transcranial alternating current stimulation. 6th Annual International IEEE/EMBS Conference on Neural Engineering, San Diego, USA.   \nBulzacka, E.,Lavault, S., Pelissolo,A.,& Bagnis Isnard, C. (2018).Mindful neuropsychology $\\because$ repenser la rehabilitation neuropsychologique a travers la pleine conscience [Mindful neuropsychology: Mindfulnessbased cognitive remediation]. L'Encephale, 44(1), 75-82.   \nBurgess,A.P.,& Ali,L. (2002).Functional connectivity of gamma EEG activity is modulated at low frequency during conscious recollection. International Journal of Psychophysiology, 46(2), 91-100.   \nBush,G.,Lu,P.,&Posner,M.I. (2ooo).Cognitive and emotionalinfluences inanterior cingulate cortex.Trendsin Cognitive Sciences,4(6),52.   \nBuzsaki, G.,& Draguhn,A. (2004). Neuronal oscilltions in cortical networks.Science, 304,1926-1929.   \nCarter, C.S., MacDonald Ii, A.W., Ross,L.L.,& Stenger, V.A. (2oo1). Anterior cingulate cortex activity and impaired self-monitoring of performance in patients with schizophrenia: an event-related fMRI study. The American Journal ofPsychiatry，158(9),1423-1428. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Chase,H. W., Boudewyn,M.A., Carter, C.S.,& Philips,M.L. (2020). Transcranial direct current stimulation: a roadmap forresearch,from mechanism ofactionto clinical implementation.Molecular Psychiatry,25(2),397- 407. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Clancy,K.,Ding,M.,Bernat,E.,Schmidt,N.B.,&Li,W.(7).Restles'rest:Intrinsicsensorhyperactivityand disinhibition in post-traumatic stress disorder. Brain,140(7),2041-2050.   \nClancy,K.J.,Baisley,S.K.,Albizu,A.,Kartvelishvili,N.,Ding,M,&Li, W. (218).Lastingconnectivityincrease and anxiety reduction via transcranial alternating currnt stimulation. Social Cognitive and Affective Neuroscience,1305-1316.   \nColgin,L.L.,Denninger,T.,yhn,M.,Hafting,T.,Bonnevie,T.,Jensen,O.,..Moser,E.I. (9).Frequencyof gamma oscilltions routes flow of information in the hippocampus. Nature, 462(7271), 353-357.   \nDallmer-Zerbe,I.,Popp,F.,Lam,A.P.,Philipsen,A.,& Herrmann, C.S. (02o).Transcranialalternating current stimulation (tACS)as a tool to modulate P300 amplitude in atention deficit hyperactivity disorder (ADHD): Preliminary findings.Brain Topography,33,191-207.   \nDeng,Y.,Reinhart,R.M.,Choi,1.,& Shinn-Cunningham,B.G. (2019).Causalinks betweenparietalalpha activity and spatial auditory atention. eLife,8, e51184.   \nDmochowski, J.P.,Datta,A. Bikson, M. Su, Y.,& Parra,L.C. (2011). Optimized multi-electrode stimulation increases focality and intensityattarget. Journal of Neural Engineering, 8(4),046011.   \nFarzan,F.,Bar,M.S.,Levinson,A.J.,Chen,R.,Wong,W.,Fitzgerald,P.B.,&Daskalakis,Z.J.(2).Evidence for gamma inhibition deficits in the dorsolateral prefrontal cortex of patients with schizophrenia. Brain,133, 1505-1514.   \nFernandez-Corazza，M.，Turovets，S.，Luu,P.，Anderson,E.，& Tucker,D.(2016).Transcranial electrical neuromodulation based on the reciprocity principle. Frontiers in Psychiatry, 7, 87.   \nFeurra,M.,Pasqualetti,P.,ianco,G.,Santarnecchi,E.,Rossi,A.,&Roi,S.(3).State-dependenteffectsof transcranial oscillatory currents on the motor system: What you think maters.The Journal of Neuroscience, 33(44), 17483-17489.   \nFitzgerald,K.D.,Welsh,R.C.,Gehring,W.J.,Abelson,J.L,Himle,J.A.,Liberzon,I.,&Taylor,S.F.(2005). Error-related hyperactivity of the anterior cingulate cortex in obsessive-compulsive disorder. Biological Psychiatry, 57(3),287-294.   \nFitzgerald,P.J.,& Watson,B.O. (2018). Gamma oscillations as a biomarker for major depression: An emerging topic. Translational Psychiatry,8(1),17.   \nForce,R.B.,Riddle,J.,Jarskog,L.F.,&Frohlich,F.(2021).Acase studyofthe feasibility of weeklytACS for the treatment of auditory hallucinations in schizophrenia. Brain Stimulation,14,361-363.   \nFoxe, J. J.,& Snyder,A. C.(2011).The role of alpha-band brain oscilltions as a sensory suppression mechanism during selective attention. Frontiers in Psychology,2,154.   \nFujisawa, S., & Buzsaki, G. (2011). A $4 \\ : \\mathrm { H z }$ oscillation adaptively synchronizes prefrontal, VTA,and hippocampal activities. Neuron,72(1),153-165.   \nFusco,G.,Fusaro,M.,&Aglioti,S.M. (2020).Midfrontal-occipital 0-tACS modulatescognitiveconflicts related to bodily stimuli. Social Cognitive and Affective Neuroscience, nsaa125.   \nFusco,G.,Scandola,M.,Feurr,M.,Pavone,E.F.,Rossi,S.,&Aglioti,S.M. (218).Midfrontaltheta transranial alternating current stimulation modulates behavioural adjustment after error execution. The European Journal of Neuroscience,48(10),3159-3170.   \nGhafoor, U., Yang,D.,& Hong, K. S. (2021). Neuromodulatory effcts ofHD-tACS/tDCS on the prefrontal cortex: Aresting-state fNIRS-EEG study. IEEE Journal ofBiomedical and Health Informatics, $P P$ 10.1109/JBHI.2021.3127080. Advance online publication.   \nHaller,N.,Hasan,A.,Padberg,F.,Brunelin,J.,Valiengo,L.,&Palm,U. (202O). Gamma transcranial alternating current stimulation in patients with negative symptoms in schizophrenia: A case series. Neurophysiologie Clinique/Clinical Neurophysiology,50,301-04.   \nHaler,N.,Hasan,A.,Padberg,F., Valiengo,L.,Brunelin,J.,&Palm,U. (2O2O). Gamma transcranial alternating current stimulation for treatment of negative symptoms in schizophrenia: Report of two cases. Asian Journal ofPsychiatry,54,102423.   \nHaler,N.，Senner,F., Brunoni,A.R.,Padberg,F.,& Palm, U. (2O2o). Gamma transcranial alternating current stimulation improves mood and cognition in patients with major depression. Journal of Psychiatric Research, 130, 31-34.   \nHasler,R.,Peroud,N.,Meziane,H.B.,Herrmann,F.,Prada,P., Giannakopoulos,P.,&Deiber,M.(2O16).Attentionrelated EEG markers in adult ADHD. Neuropsychologia,87,120-133.   \nHerrmann,C.S.,& Demiralp,T. (2O05). Human EEG gamma oscilations in neuropsychiatric disorders. Clinical Neurophysiology, 116(12),2719-2733.   \nHerrmann,C.S.,Rach,S.,Vosskuhl,J.,&Struber,D. (2014).Time-frequencyanalysisofevent-related potentials: A brief tutorial. Brain Topography,27,438-450.   \nHinkley,L.B.N.,Vinogradov,S.,Guggisberg,A.G.,Fisher,M.,Findlay,A.M.,&Nagarajan,S.S.(21).Cliical ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "symptoms and alpha band resting-state functional connectivity imaging in patients with schizophrenia: ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Implications for novel approaches to treatment. Biological Psychiatry, 70(12),1134-1142.   \nHoy,K.E.,Bailey,B.,Sara,A.,Windsor,K,John,J.,Daskalakis,Z.J.,&Fitzgerald,P.B. (2015).The efectofγ- tACS on working memory performance in healthy controls. Brain and Cognition,101,51-56.   \nHoy, K.E.,Whity,D.,Bailey,N.,&Fitzgerald,P.B.(2Ol6).Preliminary investigation ofthe effectsof $\\gamma$ -tACS on working memory in schizophrenia. Journal of Neural Transmission,123,1205-1212.   \nHu,P.,He,Y., Liu, X., Ren, Z.,& Liu, S.(2021). Modulating emotion processing using transcranial alterating current stimulation (tACS) - A sham-controlled study in healthy human participants.Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference, 2021, 6667-6670.   \nHughes，S.W.，& Crunelli,V.(2005).Thalamic mechanisms of EEG alpha rhythms and their pathological implications. Neuroscientist, 1(4),357-372.   \nHugo, J.,& Ganguli, M. (2014). Dementia and cognitive impairment: Epidemiology,diagnosis,and treatment. Clinics in Geriatric Medicine, 30(3), 421-442.   \nItagaki,S.,Yabe,H.,Mori,Y.,Ihikawa,H.,Takanashi,Y.,&Niwa,S. (20l1).Event-related potentials inpatients with adult attention-deficit/hyperactivity disorder versus schizophrenia.Psychiatry Research,189(2),288-291.   \nJia,S.,Liu,M.,Huang,P.,Zhao,Y.,Tan,S., Go,R,..Wu,J. (2O9).Abnormal alpharhythm duringself-referential processing in schizophrenia patients.Frontiers in Psychiatry, 10, 691.   \nJoundi,R.A.,Jenkinson,N.,Brittin,J.,Aziz,T.Z.,&Brown,P. (2Ol2).Driving oscilatoryactivity inheuman cortex enhances motor performance. Current Biology, 22(5),403-407.   \nKalel,L., Mondino,M.,& Brunelin,J. (2O16).Efectsoftheta-rhythm transcranial alternating current stimulation (4.5 Hz-tACS) in patients with clozapine-resistant negative symptoms of schizophrenia: Acase series. Journal of Neural Transmission3,1217.   \nKar, K.,& Krekelberg,B.(20l2). Transcranial electrical stimulation over visual cortex evokes phosphenes with a retinal origin.Journal of Neurophysiology,108(8),2173-2178.   \nKasten, F.H., & Herrmann, C.S. (2019). Recovering brain dynamics during concurrent tACS-M/EEG: An overview of analysis approaches and their methodological and interpretational pitfals.Brain Topography,32(6),1013- 1019.   \nKehler,L.,Francisco, C.O., Uehara, M.A.,& Moussavi, Z. (202o,July). The effct of transcranialalternating current stimulation (tACS) on cognitive function in older adults with dementia. 2020 42nd Annual International ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) in conjunction with the 43rd Annual Conference of the Canadian Medical and Biological Engineering Society, Montreal, Canada. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Klimke,A.,Nitsche,M.A.,Maurer,K.,& Voss,U. (2o16). Case report: Successul treatmentoftherapyresistant OCD with application of transcranial alternating current stimulation (tACS). Brain Stimulation,9,463-465.   \nKlirova,M., Vorackova,V.,Horacek,J., Mohr,P.,Jonas,J., Dudysova,D.U.,..Novak,T. (2021). Modulating inhibitory control processes using individualized high definition theta transcranial alternating current stimulation (HD 0-tACS） of the anterior cingulate and medial prefrontal cortex. Frontiers in Systems Neuroscience, 15, 611507.   \nKoepsell,K., Wang,X.,Hirsch,J.A.,&Sommer,F.T. (o1).Exploringthefunction of neuraloscilations inarly sensory systems.Frontiers in Neuroscience,4,53-61.   \nKohli,S.,& Casson,A. J. (2020). Machine learning validation of EEG+tACS artefact removal. Journal of Neural Engineering,17(1),016034.   \nKonjedi,S.,& Maleeh,R. (202O). Sleep and mindfulness meditation as they relate to false memory. Psychological Research, 84(4),1084-1111.   \nKurzeck,A.K,Kirsch,B., Weidinger,E,Padberg,F.,&Palm, U.(O18).Transcranialdirectcurrent stimulation (tDCS) for depression during pregnancy: Scientific evidence and what is being said in the media-A systematic review. Brain Sciences, 8,155.   \nLally, J., GaughranF.,Timms,P.,& Currn,S.R. (2O16). Treatment-resistant schizophrenia: Currntinsights on the pharmacogenomics of antipsychotics. Pharmacogenomics and Personalized Medicine,9,117-129.   \nLariviere,S.,Lavigne,K. M., Woodward,T.S., Gerretsen,P.,Graff-Guerrero,A.,& Menon,M. (2017).Altered functional connectivity in brain networks underlying self-referential processing in delusions of reference in schizophrenia.Psychiatry Research Neuroimaging, 263,32-43.   \nLawlor-Savage,L.,& Goghari, V. M. (2O14). Working memory training in schizophrenia and healthy populations. Behavioral Sciences (Basel, Switzerland),4(3),301-319.   \nLawrie,S. M. Buechel, C.，Whaley,H. C.,Frith, C.D.,Friston,K.J.,& Johnstone,E.C. (2002).Reduced frontotemporal functional connectivity in schizophrenia associated with auditory halucinations.Biological Psychiatry, 51,1008-1011.   \nLebedev,V.P.,alygin,A.V.,Kovalevski,A.V.,Rychkova,S.V.,Sisoev,V.N.,Kropotov,S.P.,..Kozlowki,G. P.(2002). Devices for noninvasive transcranial electrostimulation of the brain endorphinergic system: Application for improvement of human psycho-physiological status. Artificial Organs,26(3),248-251. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Lehr,A.,Henneberg,N.,Nigam,T.,Paulus,W.,& Antal,A.(2019).Modulationof conflict processingbythetarange tACS over the dorsolateral prefrontal cortex. Neural Plasticity, 2019,6747049. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Leuchter，A.F.，Cook，I.A., Hunter，A.M.， Cai, C.，& Horvath，S.(2012). Resting-state quantitative electroencephalography reveals increased neurophysiologic connectivity in depression. PloS ONE，7(2) e32508.   \nLi, X.,Xiao,Y.H., Zou,L.Q.,Li,H. H., Yang,Z.Y.,Shi, H.S... Chan,R. C. (2016). The effects of working memory training on enhancing hedonic processing to affective rewards in individuals with high social anhedonia. Psychiatry Research,245, 482-490.   \nMantini,D.,Perrucci, M. G.,Del Gratta, C.,Romani, G.L.,&Corbetta,M. (2o7). Electrophysiological signatures of resting state networks in the human brain. Proceedings of the National Academy of Sciences of the United States of America,104(32),13170-13175.   \nMatsumoto, H., & Ugawa, Y. (2016). Adverse events of tDCS and tACS: A review. Clinical Neurophysiology Practice, 2,19-25.   \nMcGuire,P.,Howes,O.D.,Stone,J.,&Fusar-Poli,P.(2oo8).Functional neuroimaginginschizophrenia: Diagnosis and drug discovery. Trends in Pharmacological Sciences, 29(2),91-98.   \nMelin,J. M.,Alagapana,S.,Lustenbergera,C.,Lugoa, C.E.,Alexandera,M.L.,Gilmorea,J.H.,&Jarskog,L.F. (2018). Randomized trial of transcranial alternating current stimulation fortreatment of auditory halucinations in schizophrenia. European Psychiatry, 51,21-33.   \nMeier,J.,Nolte,G.,Schneider,T.R.,Engel,A.K.,Leicht,G.,& Mulert,C.(2019).Intrinsic 40Hz-phase asymmetries predict tACS effects during conscious auditory perception. PloS ONE,14(4), e0213996.   \nMillan,M.J,Agid,Y.,Brune,M.,Bullmore,E.T.,Carter,C.S.,Clayton,N.S.,..Young,L.J.(22).Cognitive dysfunction in psychiatric disorders: Characteristics,causes and the quest for improved therapy. Nature Reviews Drug Discovery, 11,141-168.   \nMinzenberg,M.J.,Laird,A.R.,Thelen,S.,Carter, C.S.,& Glahn,D.C. (2009).Meta-analysisof41functional neuroimaging studies of executive function in schizophrenia. Archives of General Psychiatry, 66(8),81-822.   \nMo,J.,Liu,Y.,Huang,H.,& Ding,M.(2O13). Coupling between visual alpha oscillations anddefault mode activity. NeuroImage, 68,112-118.   \nMorin, C.M.,& Benca,R. (2012). Chronic insomnia. Lancet, 379(9821),1129-1141.   \nMrazek,M.D.,Franklin,M.S.,Phillips,D.T.,Baird,B.,& Schooler,J. W.(2013).Mindfulnesstraining improves working memory capacity and GRE performance while reducing mind wandering. Psychological Science, 24(5), ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "776-781. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Nakao,T.,Okada,K.,& Kanba,S. (2014).Neurobiological model ofobsesive-compulsive disorder: Evidence from recent neuropsychological and neuroimaging findings. Psychiatry and Clinical Neurosciences, 68(8),587-605.   \nNaro,A, Corallo,F.,alvo,S.D.,Marr,A.,Lorenzo,G.D.,Muscara,N.,..Calabro,R.S. (2o16).Promising role of neuromodulation in predicting the progression of mild cognitive impairment to dementia. Journal of Alzheimer's Disease,53,1375-1388.   \nOmori,M.,Koshino,Y.,Murata,T.,Murata,I.,Nishio,M.,Sakamoto,K.,..Iaki, K. (1995). Quantitative EEG in never-treated schizophrenic patients. Biological psychiatry,38(5),305-309.   \nOnoda,K.,Kawagoe,T.,Zheng,H.,&Yamaguchi,S.(2O17).Theta band transcranialalternating currentstimulations modulates network behavior of dorsal anterior cingulate cortex. Scientific Reports,7(1),3607.   \nRiemann,D.，Nissen,C.,Palagini,L.,Otte,A,Perlis,M.L.，& Spiegelhalder,K.(2015).The neurobiology, investigation, and treatment of chronic insomnia. The Lancet Neurology, 14(5),547-558.   \nRiddlea,J.,Rubinowa,D.R.,& Frohlich,F. (202O).A case study of weekly tACS for the treatment of major depressive disorder. Brain Stimulation,13,576-577.   \nPahor, A., & Jausovec,N. (2018).The effects of theta and gamma tACSon working memoryand electrophysiology Frontiers in Human Neuroscience, 11,651.   \nPan,D.N., Hoid,D., Wang, X.B., Jia,Z,& Li, X. (2020). When expanding training from working memoryto emotional working memory: Not only improving explicit emotion regulation but also implicit negative control for anxious individuals. Psychological Medicine,1-10.   \nPorter,R.J., Gallagher,P., Watson,S.,& Young,A.H. (2o04). Corticosteroid-serotonin interactions indepression: A review of the human evidence. Psychopharmacology, 173,1-17.   \nRoss,L.E.,Grigoriadis,S.,Mamisashvili,L.,Vonderporten,E.H.,Roerecke,.,Rehm,J.,..Cheung,A.(2013). Selected pregnancy and delivery outcomes after exposure to antidepressant medication: A systematic review and meta-analysis. JAMA Psychiatry, 70(4), 436-443.   \nSanfilipo, M.,Lafargue,T., Rusinek, H.,Arena,L.,Loneragan, C.,Lautin,A...Wolkin,A. (20oo). Volumetric measure ofthe frontal and temporal lobe regions in schizophrenia: Relationship to negative symptoms. Archives of General Psychiatry, 57(5),471-480.   \nSreraj,V.S.,Shanbhag,V.,Nawani,H.,Shivakumar,V.,Damodharan,D.,Bose,A.,..Venkatasubramanian,G. (2017).Feasibility ofonline neuromodulation using transcranial alternating current stimulation in schizophrenia. Indian Journal of Psychological Medicine,39(1), 92-95.   \nSreeraj,V.S.,Shivakumar,V.,Sowmya,S.,Bose,A.,Nawani,H.,Narayanaswamy,J.C.,&Venkatasubramnian G. (2019). Online theta frequency transcranial alternating currnt stimulation for cognitive remediation in schizophrenia: A case report and review ofliterature.The Journal ofECT,35(2),139-143.   \nSreeraj,V.S.,Suhas,S.,Parlikar,R.,Selvaraj,S.,Dinakaran,D.,Shivakumar, V..Venkatasubramanian,G.(020). Effect of add-on transcranial alternating current stimulation (tACS)on persistent delusions in schizophrenia. Psychiatry Research,290,113106.   \nSripada,R.K.,King,A.P.,Welsh,R.C.,Garfinkel,S.N.,Wang,X.,Sripada,C.S.,&Liberzon,I. (2012).Neural dysregulation in posttraumatic stress disorder: Evidence for disrupted equilibrium between salience and default mode brain networks. Psychosomatic Medicine,74(9), 904-911.   \nStruber,D.,Rach,S., Trautmann-Lengsfeld, S.A., Engel, A. K.,& Herrmann,C. S.(2014).Antiphasic $4 0 ~ \\mathrm { H z }$ oscillatory current stimulation affects bistable motion perception. Brain Topography,27(1),158-171.   \nSubramaniam, K.,Luks,T.L.,Fisher,M.,Simpson,G.V.,Nagarajan,S.,& Vinogradov,S. (2012). Computerized cognitive training restores neuralactivity within thereality monitoring network in schizophrenia. Neuron, 73(4), 842-853.   \nSubramaniam,K.,Luks,T.L, Garret,C.,Chung,C.,Fisher,M.,Nagarajan,S.,& Vinogradov,S.(2o14). Itensive cognitive training in schizophrenia enhances working memory and associated prefrontal cortical efficiency in a manner that drives long-term functional gains. Neurolmage,99,281-292.   \nTavakoli,A.V.,& Yun,K. (2O17). Transcranial alternating curent stimulation (tACS) mechanismsand protocols. Frontiers in Cellular Neuroscience, 11,214.   \nTregellas,J.R.,mucny,J.,aris,J.G.,OlincyA.,Maharajh,K.,ronberg,E.,..Freedman,R.(2).Itrinic hippocampal activity as a biomarker for cognition and symptoms in schizophrenia. The American Journal of Psychiatry, 171(5),549-556.   \nvan Driel,J.,Sligte,I.G.,Linders,J.,Elport,D.,&Cohen,M.X. (2015).Frequencyband-specific electricalbrain stimulation modulates cognitive control processs. PloS ONE,0(9),e0138984.   \nVercammen,A.,Knegtering,H.,den Boer, J.A.,Liemburg,E.J.,& Aleman,A. (2010).Auditory halucinations in schizophrenia are associated with reduced functional connectivity of the temporo-parietal area. Biological Psychiatry, 67(10), 912-918.   \nWang,H. X., Wang,L., Zhang,W. Z., Xue,Q.,Peng,M., Sun,Z. C.,.. Wang,Y.P. (202O). Efect of transcranial alternating currnt stimulation for the treatment of chronic insomnia:A randomized,double-blind,parallelgroup, placebo-controlld clinical trial. Psychotherapy and Psychosomatics, 89,38-47.   \nWilkening,A.,Kurzeck,A.，& Dechantsreiter,E.(2Ol9).Transcranial alternating currnt stimulation for the treatment of major depression during pregnancy. Psychiatry Research, 279,399-400.   \nWoods,A.J.,Antal,A.,Bikson,.,Boggio,P.S.,Brunoni,A.R.,Celnik,P.,Cohen,L.G...Nitsche,M.A.(16). A technical guide to tDCS,and related non-invasive brain stimulation tools.Clinical Neurophysiology,127(2), 1031-1048.   \nYoungs,M.A.,Lee,S.E., Mireku,M.O.,Sharma,D.,& Kramer,R.(2021). Mindfulness meditation improves visual short-term memory.Psychological Reports,124(4),1673-1686.   \nZaghi,S.,Acar,M.,Hultgren,B.,Boggio,P.S.,& Fregni,F.(2010). Noninvasive brain stimulation with lowintensity electrical currents: Putative mechanisms of action for direct and alternating current stimulation. Neuroscientist, 16(3),285-307. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The application of different frequencies of transcranial alternating current stimulation in mental disorders ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Siyuan, LI Xuebing ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(KeyLaboratoryofMentalHealth,InstituteofPsychologyChineseAcademyofSciences,BeijingOoo,Cina) (UniversityofChineseAcademy ofSciences,Beijing10o49,China) ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In these years,researchers have begun to apply transcranial alternating current stimulation to the field of mental disorders. Especially, the gamma- and alpha-band frequencies are attracting the most attention.The underlying mechanisms of the effects oftACS on mental disorders might be directly modulating abnormal brain neural activities and indirectly improving cognitive functions of patients'. First, neuroimaging studies have shown that a specific frequency tACS targeting specific brain region could modulate the nerve oscillations of corresponding frequency and brain functional connections, which directly reducing clinical symptoms of patients. Second, instead of targeting the specific damaged brain activity in mental diseases, the tACS is used to activate neural circuits associated to cognitive functions, so as to improve the atention, memory and other cognitive functions, thus alleviating adverse symptoms indirectly. At present, there are still some unsolved problems in the application of tACS.The mechanism of its effects,the improvement of stimulus parameters and paradigms, and the enhancement of technique upgrading may become the key direct of future study. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Key words:transcranial alternating current stimulation, psychiatric disorders, nueral oscillation, cognitive function, intervention ",
+        "page_idx": 24
+    }
+]

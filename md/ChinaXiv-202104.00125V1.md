@@ -1,0 +1,282 @@
+# 准噶尔盆地地表反照率时空变化特征及其影响因素分析
+
+邓小进，井长青，郭文章，陈宸，付皓宇（新疆农业大学草业与环境科学学院,新疆草地资源与生态重点实验室,新疆 乌鲁木齐830052）
+
+摘要：地表反照率变化影响地表辐射收支与能量平衡，从而对区域和全球气候产生影响。以准噶尔盆地为研究对象,利用MODIS卫星遥感数据产品MOD09A1反演地表短波反照率,结合气象数据和植被指数分析准噶尔盆地2001—2018年荒漠草地地表反照率时空变化特征及其影响因素。结果表明：准噶尔盆地地表反照率空间分布地域差异明显,地表反照率年均值为0.303,整体呈东北高、西南低的特点;其年际变化速率呈减少趋势，平均每年为 $1 . 4 \times$ $1 0 ^ { - 4 }$ ，减少面积约占总面积的 $5 2 . 8 \%$ ;四季空间分布变化明显，春、夏、秋三季空间分布相似，冬季值最高(0.551),夏季最低(0.203)。准噶尔盆地东北缘的阿尔泰山地表反照率年内变化较为剧烈;生长季归一化植被指数(NDVI)值大小为：夏季 $: >$ 秋季 $: >$ 春季。准噶尔盆地整体地表反照率与NDVI呈负相关,大部分区域与平均气温呈负相关，与降水呈正相关，且相关性大小依次为气温 $>$ NDVI>降水。MODIS反演结果与地面实测值之间存在显著的相关性( $R ^ { 2 } =$ $0 . 8 9 0 8 , P { < } 0 . 0 1 ,$ ),均方根误差为0.014。为了解准噶尔盆地陆面特征,客观评价全球气候变化下干旱区陆面变化及其正负反馈响应机制提供一定的理论依据。
+
+关键词：准噶尔盆地；地表反照率；荒漠草地；时空变化；NDVI
+
+地表反照率能够反映地表对太阳短波辐射的反射能力，是陆面过程模式及气候模拟研究中的一个重要参数,在地-气系统中扮演着重要角色[2-4]不同下垫面状况（植被盖度、地表粗糙度、土壤类型、土壤湿度、土壤颜色等)及降水、温度、人类活动等都能直接或间接地影响地表反照率，进而影响地表通量(感热、潜热、土壤热通量)传输。反照率在时间和空间上的分布也具有异质性[5]，其微小的变化都可能反作用于其他气候参量，形成一种复杂的循环反馈机制，从而改变整个地表辐射收支平衡，进而导致一个区域乃至整个全球的气候变化[。近年来，随着遥感对地观测和信息处理技术的迅速发展，利用遥感技术反演地表反照率已被证明是一种行之有效的科学方法[]。在全球气候环境变化的背景下，区域地表反照率的时空分布特征、演变规律以及气候效应逐渐成为了研究热点[8-10]。遥感技术可获取长时间序列的较高分辨率的地表反照率、土壤、植被等地表参数信息，已成为区域及全球尺度地表特征时空分析及气候变化研究的重要数据源。目前已积累了大量地表反照率遥感卫星监测数据,如 MODIS[11-12]、GLASS[13-14]和CLARA[15]、NOAA/AVHRR[16-17]等,为大尺度地表反照率的空间分布及其时空变化特征研究提供了长时间序列的研究数据，可以区分和发现地表反照率时空变化趋势。
+
+气候变化直接引起地表水、热条件的改变，使得地表植被状况发生变化，从而引起准噶尔盆地的地表反照率发生改变，地表反照率的变化又会改变区域辐射平衡，进而影响当地气候条件及植被状况。反照率是区域地表状况的重要指示因子。新疆是典型的干旱-半干旱地区，受大陆性气候主导，干旱、少雨，蒸发强烈，植被稀疏。准噶尔盆地位于天山与阿尔泰山之间，受西风控制影响，年降水量在 $1 0 0 \sim 2 5 0 \mathrm { m m }$ ，植被以荒漠灌丛草地植物为主，其荒漠环境在区域气候变化方面既表现了全球变化的共性，又具有区域变化的特征，其能敏感地反映气候的干湿冷暖变化的过程[18]。在荒漠地区,植被生长对降水量、气温变化极为敏感，气候因素的变化制约着植被的变化[19],也影响着荒漠草地植物群落分布和组成[20]，植被变化又会导致地表反照率发生变化。降水、气温、植被指数的年际变化在时间、空间差异产生的机制机理都可揭示在一段时间和一定范围内的地表反照率变化规律。因此,研究干旱区地表反照率的时空变化规律，对了解区域植被、土壤等地表状况变化特征及其相互影响机制，明确全球变化下干旱-半干旱区变化及适应特征有重要作用，对于改进干旱区陆面过程参数化方案，研究全球陆地能量和水汽循环及全球变化具有十分重要的科学意义[21]
+
+国内相关研究主要集中在青藏高原、中东部等地区[22-29],针对冰雪覆盖变化[30-32]、农田[33-36]等地表反照率研究较多，荒漠草地地表反照率研究较少。基于地面站点观测数据"点"尺度上的地表反照率时空变化的度量来评估区域尺度的地表反照率时空变化是远远不够的，必须使用具有“面"观测能力的遥感观测技术手段。鉴于此，本研究选取长时间序列的卫星观测遥感影像数据对中亚腹地干旱区准噶尔盆地地表反照率时空分布及其动态变化特征进行研究，明确地表反照率时空变化的主导因子。对准噶尔盆地地表反照率的时空变化规律及其影响因子进行深入地探讨与分析，可加深对干旱-半干旱区陆面特征的认识，为客观评价全球气候变化下干旱生态系统变化及其正负反馈响应机制提供一定的理论依据。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+准噶尔盆地位于中亚腹地，新疆北部，地理坐标位于 $8 2 . 0 ^ { \circ } \sim 9 3 . 5 ^ { \circ } \mathrm { E } , 4 3 . 5 ^ { \circ } \sim 4 8 . 5 ^ { \circ } \mathrm { N } _ { \circ }$ 。天山-阿尔泰山地槽所包围，东西长 $8 5 0 \mathrm { k m }$ ,最宽 $3 8 0 \mathrm { k m }$ ，面积约 $2 . 2 \times 1 0 ^ { 5 } \mathrm { k m } ^ { 2 }$ ,盆地东高西低，东部海拔 $8 0 0 \sim 1 0 0 0$ $\mathrm { ~ m ~ }$ ,西南部海拔降至 $2 0 0 \sim 4 0 0 ~ \mathrm { m }$ ,环绕盆地边缘多为山前倾斜洪积平原、冲积平原和一部分石质剥蚀平原与丘陵，盆地中心为古尔班通古特沙漠。准噶尔盆地属温带大陆性荒漠气候，年均气温 $5 \sim 7 ~ \mathrm { \textdegree C }$ ，年降水量 $1 0 0 \sim 2 0 0 ~ \mathrm { m m }$ ,盆地中部为古尔班通古特沙漠，分布着广阔的荒漠草原和沙漠，极端干旱、少雨，土壤盐碱化明显[3],准噶尔盆地因受西风余泽，冬春降水较多，在我国其他荒漠地区，植被分布和外貌景观较为罕见，沙生植被和沙漠植被都颇具特色。研究区内有10种草地类型，包括温性山地草甸、温性草原化荒漠、温性草原、温性草甸草原、温性荒漠、高寒草甸、高寒草原、沼泽、低地草甸。荒漠草地植被是以春雨型短生植物和类短生植物为主，典型的沙漠植被是由白梭梭(HaloxylonPersi-cum)和梭梭(Haloxylonammodendron)为建造者。准噶尔盆地的地理位置和植被类型分布如图1所示。
+
+# 1.2数据来源与处理
+
+1.2.1遥感数据来源采用MOD09A1的L3、SIN网格V006数据产品，MOD09A1是Terra卫星获取的MODIS地表反射率产品，数据采用正弦投影，空间分辨率 $5 0 0 ~ \mathrm { m } , 8 ~ \mathrm { d }$ 合成，涵盖可见光、近红外和短波红外共7个波段，MOD09A1产品基于高覆盖、低观测角以及无云、阴影和气溶胶的原则，选择8d中最优像元作为MOD09A1的相应像元，极大地保证了产品的可用性[38]。数据来源于美国航空航天宇航局网站（https://ladsweb.modaps.eosdis.nasa.gov），选取2001—2018年，共计18a的产品数据开展相关研究。
+
+![](images/f6851c08693c30d7d60087a3aa1c79a3ae2e4f22cfaf92a49c4892458f062ff2.jpg)  
+图1准噶尔盆地地理位置(a)和植被类型分布示意图(b)  
+Fig.1Location map (a) and vegetation type map (b) of Junggar Basin
+
+1.2.2气象数据及空间化选取中国气象科学数据中心(https://data.cma.cn)提供的2001—2018年准噶尔盆地及周边24个气象站逐年平均气温和降水量数据资料，采用武鹏飞等[39]对新疆区域气温空间插值精度最优的DEM修正反距离加权（InverseDis-tanceWeighted,IDW)方法进行空间插值。考虑到各气象站点海拔对气温的影响，任何一点平均温度都可以用 $\scriptstyle { \cal T } = { \cal T } _ { 0 } - A E$ 公式来表示，式中 $T _ { 0 }$ 为IDW插值法生成后的结果，A取常数 $0 . 0 0 6 ^ { \circ } \mathrm { C } \cdot \mathrm { m } ^ { - 1 }$ ，表示为海拔每升高 $1 0 0 \mathrm { ~ m ~ }$ ,平均温度下降 $0 . 6 \mathrm { ~ \mathcal ~ { ~ C ~ } ~ } , E$ 表示DEM。DEM(DigitalElevationModel)数据来源于地理空间数据云平台（http://www.gscloud.cn）,空间分辨率为$3 0 ~ \mathrm { m } { \times } 3 0 ~ \mathrm { m }$ ,最后将气象数据空间插值结果重采样至 $5 0 0 \mathrm { m }$ 。
+
+1.2.3 植被指数计算归一化植被指数(NormalizedVegetationIndex，NDVI)，通常选用红光波段和近红外波段反射率计算，采用MOD09A1的第1波段 $( R )$ 和第2波段(NIR)进行波段运算，公式如下：
+
+$$
+\mathrm { N D V I } { = } ( \mathrm { N I R } - R ) / ( \mathrm { N I R } + R )
+$$
+
+式中：NIR为近红外波段， $R$ 为红光波段；研究时间跨度2001—2018年
+
+# 1.3研究方法
+
+1.3.1地表反照率的计算及精度验证MOD09A1数据通过MRT(MODISReprojection Tools)工具进行拼接、转投影、格式转换等预处理，将HDF格式转换为TIF格式，得到 $1 \sim 7$ 波段的数据集，利用6S（SecondSimulation of the Satellite Signal in the Solar Spectrum)辐射传输模型进行BRDF模型参数等运算[40-41]，做方向性半球积分和双半球积分，定义为：
+
+$$
+h _ { k } ( \theta ) = \frac { 1 } { \pi } \int _ { 0 } ^ { 2 \pi } \int _ { 0 } ^ { \frac { \pi } { 2 } } K _ { k } ( \theta , \vartheta , \varphi ) \mathrm { s i n } ( \vartheta ) \mathrm { c o s } ( \vartheta ) \mathrm { d } \vartheta \mathrm { d } \varphi
+$$
+
+$$
+H _ { k } = 2 \int _ { 0 } ^ { \frac { \pi } { 2 } } h _ { k } ( \theta ) \mathrm { s i n } ( \theta ) \mathrm { c o s } ( \theta ) \mathrm { d } \theta
+$$
+
+式中： $h _ { k } ( \theta )$ 是方向性半球反照率积分， ${ \boldsymbol { H } } _ { k }$ 是双半球反照率积分， $K _ { k } ( \theta , \vartheta , \varphi )$ 为核值, $\theta \setminus \vartheta$ 和 $\varphi$ 分别为太阳天顶角、观测天顶角和观测 $-$ 太阳相对方位角。
+
+通过上式最后得到MODIS7个光谱通道的白空
+
+反照率(White-Sky)和黑空反照率(Black-Sky）：
+
+$$
+a _ { \mathrm { w s a } } ( \Lambda ) = \sum _ { k } f _ { k } ( \Lambda ) H _ { k }
+$$
+
+$$
+\alpha _ { \mathrm { b s a } } ( \theta , \Lambda ) = \sum _ { k } f _ { k } ( \Lambda ) h _ { k } ( \theta )
+$$
+
+式中：， $\alpha _ { \mathrm { { b s a } } }$ 为黑空反照率， $\alpha _ { \mathrm { w s a } }$ 为白空反照率， $k$ 为核系数， $f _ { k } ( \Lambda )$ 是波段 $\Lambda$ 的BRDF参数。
+
+根据Liang等[42]构建的MODIS窄波段和宽波段反照率的转换算法，利用IDL编程进行批处理计算得到短波 $( 0 . 3 \sim 3 . 0 ~ \mu \mathrm { m }$ )白空和黑空反照率数据，公式如下：
+
+$$
+\alpha _ { \mathrm { s h o r t - M O D I S } } = 0 . 1 6 0 b _ { \mathrm { 1 } } + 0 . 2 9 1 b _ { \mathrm { 2 } } + 0 . 2 4 3 b _ { \mathrm { 3 } } +
+$$
+
+$$
+0 . 1 1 6 b _ { 4 } + 0 . 1 1 2 b _ { 5 } + 0 . 0 8 1 b _ { 7 } - 0 . 0 0 1 5
+$$
+
+式中： $b _ { 1 } \sim b _ { 7 }$ 为MOD09A1数据集相对应的第 $1 \sim 7$ 波段反照率， $\alpha _ { \mathrm { s h o r t } } .$ -MODIs是短波波段的反照率。
+
+地表真实反照率是对白空和黑空两种反照率进行组合，本文采用线性加权平均法获取短波波段的真实地表反照[43],计算公式为：
+
+$$
+\alpha = ( 1 - S ) \alpha _ { \mathrm { { b s a } } } + S \alpha _ { \mathrm { { w s a } } }
+$$
+
+式中： $\alpha$ 为真实地表反照率； $\alpha _ { \mathrm { { b s a } } }$ 黑空反照率； $\alpha _ { \mathrm { w s a } }$ 白空反照率；S为天空散射比因子，可通过MODIS数据集提供的太阳天顶角的余弦值获取天空散射光比的近似值[44]。
+
+将真实地表反照率数据集通过ArcMap的模型构建器进行批量裁剪，得到准噶尔盆地长时间序列的短波地表反照率数据。首先，利用MOD09A1的8d产品数据计算月平均地表反照率,继而计算季节平均(3—5月为春季，6—8月为夏季，9—11月为秋季，12月至次年2月为冬季)及年平均地表反照率，最后得到准噶尔盆地季、年均地表反照率的空间分布图。
+
+为了研究准噶尔盆地地表反照率产品的精度及不确定性，需要对MODIS反演值进行地面验证。在2017年8月分成两组对研究区地表覆被分布比较均匀的区域进行采样调查，考虑到观测卫星的过境时间，地面实测工作时间选在10:30—16:00光照条件及云量少等天气状况良好的时间段，共设样地24个，为缩小地面点数据与MODIS数据低分辨率之间的尺度差异，样地范围为 $5 0 0 ~ \mathrm { m } { \times } 5 0 0 ~ \mathrm { m }$ ，从样地区的东南西北及中心各取 $5 0 ~ \mathrm { m } { \times } 5 0 ~ \mathrm { m }$ 的小样方，利用PC-2太阳辐射记录仪监测太阳总辐射和反辐射量，并计算得出反照率，以实测样点的均值来表示该像元对应的实际地表反照率。本文选取与采样时间相对应2017年8月MODIS地表反照率影像图，利用GPS定位样地中心的经纬度坐标，通过ArcMap对样地位置进行匹配和比较，使实测点区域尽可能的在单一像元内，影像的每个像元可近似为一个样方。1.3.2年际变化趋势计算采用一元线性回归法拟合准噶尔盆地2001—2018年地表反照率的年际变化速率，即倾向值 $b ^ { [ 4 5 ] }$ ,其计算公式为：
+
+$$
+b = { \frac { n { \{ \sum _ { i = 1 } ^ { n } ( i a _ { i } ) } - \left( \sum _ { i = 1 } ^ { n } i \sum _ { i = 1 } ^ { n } a _ { i } \right) } } { n \displaystyle { \sum _ { i = 1 } ^ { n } i ^ { 2 } } - \left( \sum _ { i = 1 } ^ { n } i \right) ^ { 2 } } 
+$$
+
+式中： $n$ 为研究时段的总年数， $a _ { i }$ 为第 $i$ 年平均地表反照率值。 $b { > } 0$ 表示地表反照率呈增大的趋势，反之呈减小的趋势， $b$ 的绝对值大小反映了地表反照率年变化的速率。利用相关系数法对每个像元的变化趋势进行显著性检验，分析变化趋势的可信度。显著性检验采用 $F$ 检验，计算公式为：
+
+$$
+F = \frac { U ( n - 2 ) } { Q }
+$$
+
+式中： $U { = } \sum _ { i = 1 } ^ { n } ( \widehat { y _ { i } } - \overline { { y } } ) ^ { 2 }$ 为回归平方和, $Q = \sum _ { i = 1 } ^ { n } ( y _ { i } - { \widehat { y _ { i } } } ) ^ { 2 }$ （204号为剩余平方和,其中 $\widehat { y _ { i } }$ 代表第 $i$ 年的回归值， $\mathit { \Pi } _ { \overline { { y } } } ^ { - }$ 代表18a的平均反照率值， $y _ { i }$ 为第 $i$ 年的地表反照率值，$n$ 为第 $1 8 \mathrm { ~ a ~ }$ 。根据给定的显著性水平 $\scriptstyle P = 0 . 0 5$ 和 $P =$ 0.001，对照 $F$ 分布临界值表查询对应数值；依据 $F$ 校验结果将短波地表反照率变化趋势分成6个等级：极显著增加 $\left( b > 0 , P < 0 . 0 0 1 \right)$ ，显著增加（ $\cdot b { > } 0 , P { < }$ 0.05),不显著增加 $\left( b { > } 0 , P { > } 0 . 0 5 \right)$ ,极显著减少( $b { < } 0$ $P { < } 0 . 0 0 1$ ),显著减少 $\left( b < 0 , P < 0 . 0 5 \right)$ 和不显著减少( $\ b <$ $0 , P { > } 0 . 0 5 ) ,$ 。
+
+1.3.3异常变化计算为定量分析准噶尔盆地地表反照率年际变化速率和异常变化情况，通过计算年和季节地表反照率标准差来表示地表反照率异常和偏离平均值的程度，其高值区的空间分布是地表反照率异常变化的敏感区[46],计算公式如下：
+
+$$
+\sigma = { \sqrt { { \frac { 1 } { ( n - 1 ) } } \sum _ { i = 1 } ^ { n } \left( a _ { i } - { \bar { a } } \right) ^ { 2 } } }
+$$
+
+式中： $n$ 为研究时段的总年数， $a _ { i }$ 为第 $i$ 年的平均反照率值，如果 $\sigma { > } 0$ ，表示地表反照率呈增大趋势，反之呈减少趋势。
+
+1.3.4相关性分析采用偏相关分析法来分析地表反照率与各气候因子的相关性，荒漠草地地表反照
+
+率与温度和降水量的相关系数计算公式如下：
+
+$$
+R _ { x y } = { \frac { \displaystyle \sum _ { i = 1 } ^ { n } \Bigl [ \bigl ( x _ { i } - { \bar { x } } \bigr ) \bigl ( \bigl ( y _ { i } - { \bar { y } } \bigr ) \Bigr ] } { \displaystyle \sum _ { i = 1 } ^ { n } \bigl ( x _ { i } - { \bar { x } } \bigr ) ^ { 2 } \sum _ { i = 1 } ^ { n } \bigl ( y _ { i } - { \bar { y } } \bigr ) ^ { 2 } } }
+$$
+
+式中： $R _ { x y }$ 为 $x , y$ 两变量的相关性， $x _ { i }$ 为第 $i$ 年的地表反照率， $y _ { i }$ 为第 $i$ 年的平均温度或降水量， $\mathit { \Pi } _ { \overline { { x } } }$ 为多年地表反照率的平均值， $\mathit { \Pi } _ { \overline { { y } } } ^ { - }$ 为多年平均温度或降水量的平均值， $i$ 为1,2,3,不同的年份。
+
+# 2结果与分析
+
+# 2.1气温时间变化特征
+
+准噶尔盆地温度和降水在空间上的分布差异影响着该区内荒漠植被的分布及生长状况，继而影响地表反照率值。首先根据气象站点数据的空间插值结果，分析了研究区近年来的气候变化特征。结果表明：2001一2018年准噶尔盆地年平均气温为$1 . 7 2 ^ { \circ } \mathrm { C }$ ，在 $- 1 1 . 3 8 \sim 7 . 8 5 ~ \mathrm { { ‰ } }$ 之间波动，年均降低速率为 $0 . 0 0 0 6 ^ { \circ } \mathrm { C } \cdot \mathrm { a } ^ { - 1 }$ （图 $2 \mathrm { a }$ )，不同区域平均气温差异较大。随着海拔高度的变化，准噶尔盆地年平均气温在空间分布上具有一定的区域差异性，在准噶尔盆地的西缘、东南缘区域年平均气温呈降低趋势，年均降低速率为 $0 . 0 1 3 \ \mathrm { ^ { \circ } C \cdot a ^ { - 1 } }$ ，占总面积的 $5 5 . 4 8 \%$ ；在北缘、南缘区域年平均气温呈增加趋势，年平均增长速率为 $0 . 0 1 4 ^ { \circ } \mathrm { C } \cdot \mathrm { a } ^ { - 1 }$ ，占总面积的 $4 4 . 5 2 \%$ （图 $2 \mathrm { c }$ ）。整体而言，2001—2018年准噶尔盆地年均气温呈微弱的降低趋势。
+
+准噶尔盆地年平均降水量约 $2 2 6 . 4 3 ~ \mathrm { m m }$ ，降水量在 $1 3 5 . 6 1 \sim 3 5 0 . 7 5 ~ \mathrm { m m }$ 浮动(图2b)。结果表明：2001—2018年准噶尔盆地年降水量变化率整体以$1 . 4 5 ~ \mathrm { m m ^ { . } a ^ { - 1 } }$ 的速率增加，绝大部分区域年降水量呈上升趋势，占总面积的 $8 6 \%$ ,年均增长速率为1.74$\mathrm { m } \mathrm { m } { \cdot } \mathrm { a } ^ { - 1 }$ ;呈下降趋势的区域约占研究区 $14 \%$ 的面积，年均减少速率为 $0 . 4 5 ~ \mathrm { m m ^ { \bullet } a ^ { - 1 } }$ ,主要集中在准噶尔盆地的西缘角及南缘的中部区域(图2d)。总体而言，准噶尔盆地年平均气温呈微弱降低趋势，降水呈上升趋势。
+
+# 2.2NDVI空间分布特征
+
+近年来气候变化及人类活动均会对植被产生影响，使得研究区植被长势产生变化。基于准噶尔盆地遥感影像处理分析发现，研究区近18aNDVI均值为0.108，分析准噶尔盆地生长季的NDVI发现（图 $3 \mathrm { a } \sim 3 \mathrm { c }$ )，夏季年均NDVI值最高，为0.175，其次秋季为0.129，春季最低为0.107。随着植被复苏，植被覆盖度增加，在夏季达到最高值，高值区主要分布在准噶尔盆地南缘。准噶尔盆地以荒漠草地生态系统类型为主，生长季整体NDVI均值偏低。
+
+![](images/f622c8ab063b63c587561ca5378940bec7b064cab1e59ef127d1f91967a47bb6.jpg)  
+图22001—2018年准噶尔盆地年均温度、降水量及年际变化趋势
+
+由图3d可知，整体上看，随着海拔高度的不同植被NDVI均值也有较大的差异。研究区绝大部分区域以荒漠草地为主，植被NDVI值小于0.1的区域约占总面积的 $5 9 \%$ ;植被NDVI在 $0 . 1 \sim 0 . 2$ 之间的面积占研究区总面积的 $2 9 . 9 \%$ ，主要分布在准噶尔盆地的北缘及天山山脉脚下农业用地；植被NDVI大于0.2的区域占研究区总面积的 $1 1 . 1 \%$ ,主要分布在阿尔泰山和天山山脉，受水分条件的影响，植被长势较好。
+
+# 2.3平均地表反照率变化特征
+
+利用野外实测样点与MODIS反演值绘制散点图(图4)，可以看出，决定系数 $R ^ { 2 }$ 达到了0.8908，均方根误差为0.014，在0.01显著性水平下显著性相关。表明利用Liang等[42]的方法反演准噶尔盆地地表反照率具有较高的模拟精度及可靠性。
+
+![](images/e7bbeb31a16b069f68019a770c9c1fb75d5d452e6a0477fd22d36ccdb09a771a.jpg)  
+Fig.2Average annual temperature,precipitation and Change trendof annual mean in Junggar Basin from 2Ool to 2018   
+图3准噶尔盆地春、夏、秋季及全年年均植被NDVI空间分布  
+Fig.3Spatial distributions of NDVI in Junggar Basin in spring,summer, autumn,and annual
+
+![](images/e65aa9b29dbe42a30f5e98efa65d66d16300f1b0c16a16bba963cb5e43bfeccb.jpg)  
+图42017年8月MODIS反演与地面观测值反照率散点图Fig.4Scatter plot of MODIS inversion and groundobservation albedo in August 2017
+
+2.3.1 地表反照率分布特征分析2001—2018年准噶尔盆地平均地表反照率数据可见，准噶尔盆地反照率具有明显的空间地域差异，总体呈现东北高、西南低的特点，与海拔高度密切相关，多年平均地表反照率为0.303(图5a)。高值区主要零星分布在阿尔泰山和盆地中部，其中最大值为0.468，与该区域冬季严寒漫长，积雪覆盖时间长，夏季短，植被覆盖度和土壤湿度较低有关。准噶尔盆地西北缘是地表反照率的低值区，这与当地气候比较湿润，多为草原和森林密不可分。准噶尔盆地大部分区域地表反照率集中在 $0 . 2 5 \sim 0 . 3 5$ ，约占总面积的$5 8 . 3 5 \%$ 。
+
+从准噶尔盆地年均地表反照率标准差空间分布可知(图5b)，年均地表反照率标准差最大的区域分布在塔城地区的和丰盐场，最高值达0.148。该区域拥有丰富的盐矿资源，极易引起地表反照率的变化。准噶尔盆地大部分区域地表反照率年际变化较为敏感，年均值的标准差为 $0 . 0 1 5 \sim 0 . 0 4 5$ ,主要受降水及荒漠草地植被变化等因子的影响。盆地南缘地表覆盖类型均一，地表反照率年际标准差为最小，不足0.015。
+
+2.3.2地表反照率季节变化对准噶尔盆地不同季节多年平均地表反照率空间分布特征进行分析，春、夏、秋3个季节多年平均地表反照率的空间分布相似，年均地表反照率在 $0 . 2 \sim 0 . 3$ 之间的区域主要分布在准噶尔盆地的大部分区域，约占总面积 $5 0 \%$ 以上。其中春季的年均地表反照率在此区间的面积范围最大，约占总面积的 $6 1 . 4 \%$ （图 $6 \mathrm { a }$ )，其次为秋季，年均地表反照率约占总面积的 $5 9 . 4 \%$ （图6b）；年均地表反照率在 $0 . 1 \sim 0 . 2$ 的区域主要分布在准噶尔盆地的西南缘及东南缘，其中夏季年均地表反照率在此区间的面积最大，约占总面积的 $4 4 . 2 \%$ （图6c），其次为秋季；冬季因积雪覆盖地表反照率年均值最高，尤其在阿尔泰山，地表反照率的最高值可达到0.850(图6d)
+
+总体而言，受季节性影响准噶尔盆地四季的空间分布变化明显，冬季地表反照率均值最高(0.551)，其次为春季(0.233）、秋季(0.219)，夏季的地表反照率均值最低(0.203)，且春、夏、秋3个季节与多年平均地表反照率的空间分布相似,年均地表反照率主要集中在 $0 . 1 \sim 0 . 3$ ,冬季的地表反照率主要集中在 $0 . 5 \sim 0 . 7$ 。准噶尔盆地东北缘、阿尔泰山是地表反照率年内变化较为剧烈的区域。
+
+分析2001—2018年准噶尔盆地不同季节平均地表反照率标准差的空间分布发现(图7)：春季、秋季多年平均地表反照率标准差空间分布相似（图$\mathrm { 7 a }$ ，图 $\mathrm { 7 c }$ )。大部分区域的年均地表反照率标准差都小于 $0 . 0 6$ 。夏季，约占总面积 $9 8 \%$ 的年均地表反照率标准差分布在 $0 \sim 0 . 0 3$ 之间，说明夏季地表反照率年际差异最小(图7b)。冬季地表反照率标准差整体大幅提高，大于0.12的地表反照率标准差主要分布在准噶尔盆地的东北缘及塔城地区中部，说明这些区域冬季地表反照率变化幅度较大（图y. 6Spatial distributions of multi-yearaveraged surfacealbedo inJunggar Basin inspring,summer,autumn,and winter
+
+![](images/f3e81378c8b3ea68d1e3b4aeb51eb02acf83e1f3897ff54e3cc5f153d3e14545.jpg)  
+图5准噶尔盆地年均地表反照率和年均地表反照率标准差  
+Fig.5Spatial distributions of multi-year averaged surface albedo and standard deviation of annually averaged land surface albedo in Junggar Basin
+
+![](images/8b9d2862a5b36ae61cd32bd002b3e99da8a085b7c1167f98c9b6bff7ea83db1f.jpg)  
+图6准噶尔盆地春、夏、秋、冬四季地表反照率年平均分布
+
+![](images/0571c397fa46f87c8244c2e3e91d8e5bda22fbf8e49870d46a3fdb52efa8b10c.jpg)  
+图7准噶尔盆地春、夏、秋、冬地表反照率年平均标准差  
+Fig.7Spatiodistributionsofstandarddeviationsofsurfacealbedoover theJunggar Basininspringsummer,autumn,andwinte
+
+7d)。上述分析表明：准噶尔盆地冬季地表反照率的标准差较春、夏、秋3个季节有大幅提高，研究区东北缘地表反照率是异常变化较大的敏感区。
+
+2.3.3地表反照率的年际变化特征采用一元线性回归方法逐个像元拟合准噶尔盆地2001—2018年平均地表反照率的年际变化趋势(图8a)，准噶尔盆地年均地表反照率的年际变化存在明显的空间差异,整体呈减少趋势，每年平均降低 $1 . 4 \times 1 0 ^ { - 4 }$ 。大部分区域地表反照率呈现减少趋势，减少面积约占总面积的 $5 2 . 8 \%$ ，下降速率每年为 $1 . 0 9 \times 1 0 ^ { - 3 }$ ,年均地表反照率减少较快区域主要分布在准噶尔盆地的中部及东部;年均地表反照率快速增加的地区主要分布在准噶尔盆地西北缘，其面积约占总面积 $4 7 . 2 \%$ ，上升速率每年约 $9 . 2 8 \times 1 0 ^ { - 4 }$
+
+地表反照率年际变化速率呈极显著增加、显著增加和不显著增加的面积分别占总面积的 $0 . 1 8 \%$ /$2 . 9 2 \%$ 和 $4 4 . 0 \%$ (图8b);极显著减少、显著减少和不显著减少的面积分别占总面积的 $0 . 6 2 \%$ 、 $6 . 5 5 \%$ 和$4 5 . 7 3 \%$ 。说明2001—2018年地表反照率变化速率主要集中在不显著增加和不显著减少范围区间，且两者所占比例接近，准噶尔盆地整体年际变化速率稳定。
+
+![](images/e0634d643d6281d8f3827e21f006e5d48e2a5fb2a98e99369508dcee59678e06.jpg)  
+Fig.8Spatio distributions of annual surface albedo variation rate and the significant variation in Junggar Basin
+
+# 2.4地表反照率影响因素分析
+
+温度和降水在空间上的分布差异影响准噶尔盆地荒漠植被的分布及生长状况，进而影响地表反照率。在分析了气象因子分布差异及NDVI特征的基础上，进一步分析了气温、降水、植被长势与研究区地表反照率分布及变化的相互影响。选取2015年年均和月均地表反照率、气温及降水并处理成相同分辨率分析发现(图9)，准噶尔盆地西北缘全年降水量稀少，介于 $1 0 0 \sim 2 0 0 ~ \mathrm { m m }$ ，因分布有我国第二大平原草原(库鲁斯台草原),植被覆盖度高，使该区域的年均地表反照率普遍降低;盆地中心为古尔班通古特沙漠，气候干燥，降水稀少，植被盖度低，该区域地表反照率普遍偏高。2015年内气温及降水的变化趋势大体相同，且气温与地表反照率呈现较好的负相关关系。生长季地表反照率波动较小，4—9月月均值在0.2左右浮动，地表反照率随着降雪的增加而增加(图9d)。
+
+准噶尔盆地年平均气温与地表反照率的相关性介于 $- 0 . 9 6 0 \sim 0 . 5 1 2$ ,有 $9 8 . 6 \%$ 的面积呈现负相关，而呈正相关的面积分布很少，零星分布在盆地中部及东缘角(图10a)。准噶尔盆地年降水量与地表反照率的相关性介于 $- 0 . 8 7 0 \sim 0 . 8 7 3$ ,其中，呈现负相关的区域主要集中分布在盆地的东缘角及中部区域，其面积约占总面积的 $1 3 . 7 \%$ ；呈现正相关的区域主要集中分布在盆地北部，约占总面积的 $8 6 . 3 \%$ （图10b)。总体而言,准噶尔盆地地表反照率与气温呈负相关和正相关的面积比例为 $9 8 . 6 \% . 1 . 4 \%$ ,负相关性强于正相关；与降水呈负相关和正相关的面积比例为 $1 3 . 7 \% . 8 6 . 3 \%$ ,正相关性强于负相关;且准噶尔盆地地表反照率与气温的相关性强于降水的相
+
+![](images/19f53bd396832b70127aa38d337dbbec8d4289553528e57c48839a7001b2c05f.jpg)  
+图8准噶尔盆地年均地表反照率变化速率和显著性变化空间分布  
+图92015年准噶尔盆地地表反照率、气温、降水及年变化关系
+
+Fig.9 Surface albedo and temperature,rainfal, annual change relationship in Junggar Basin in 2015
+
+![](images/e88913d23579e57ce2ad71f243e87c33f5fd16ea843b913c666ab8c9bc1eb929.jpg)  
+图102001—2018年准噶尔盆地地表短波反照率与温度、降水量的相关系数空间分布
+
+关性。
+
+从2001—2018年准噶尔盆地地表反照率与NDVI的相关性表明，准噶尔盆地地表反照率与NDVI相关性介于 $- 0 . 9 6 8 \sim 0 . 9 7 9$ ,两者之间呈现较好的负相关。在准噶尔盆地北缘、东缘约占总面积$8 5 . 7 \%$ 的区域呈现负相关；在盆地西部，约占总面积$1 4 . 3 \%$ 是正相关。准噶尔盆地地表反照率与NDVI基本呈负相关(图11a)。受覆膜的影响，部分时段农田的地表反照率较裸地的地表反照率高，这也可能使部分区域地表反照率与植被指数NDVI呈现正相关的原因。
+
+分析准噶尔盆地18a来月平均地表反照率及月均NDVI变化特征，准噶尔盆地地表反照率月变化一般介于 $0 . 1 8 4 \sim 0 . 5 7 4$ ,在冬季1月份达到峰值(0.574)。整个准噶尔盆地的反照率与NDVI的时间变化呈现较好的负相关，春季，随着植被复苏，NDVI逐渐增大，地表反照率逐渐减小;夏季，NDVI达到最大值，地表反照率趋于不变；秋季，随着植被的枯萎，NDVI逐渐减小，地表反照率开始缓慢上升，冬季，伴随着积雪的增加，NDVI逐渐降低至最小值，地表反照率升高至最大值。由此可知，准噶尔盆地地表反照率的年变化与季节变化密切相关（图11b)。
+
+# 3讨论
+
+MODIS地表反照率产品在全球地表能量平衡研究中的应用一直备受科学界关注，尤其在其精度评价方面[24.47]。如陈爱军等[28]通过 $1 ~ \mathrm { k m }$ 分辨率的MCD43B2反照率产品数据分析了青藏高原全反演结果和定量反演结果的精度，研究发现全反演结果的精度较高，能够满足气候和陆面过程模式绝对精度不低于0.2的要求。余予等[48]对MOD43B3反演地表反照率与地面观测值进行对比发现，两者均方根偏差为0.0163，也满足地表反照率的精度要求。目前地表反照率产品的空间分辨率大多在千米级以上，而且大量研究主要集中选用MCD43系列数据产品来反演地表反照率，虽然取得了很好的精度，但随着区域和局地的应用需求精细化，对遥感数据的分辨率提出了更高的要求。本研究选用MOD09A1产品数据，空间分辨率提升到了 $5 0 0 \mathrm { ~ m ~ }$ ，通过对地面实测数据与反演的地表反照率产品数据进行对比分析，均方根误差为0.014，在满足地表反照率精度的要求下又提高了空间分辨率，影像纹理也更加细腻，且MOD09A1数据产品的填充值相较于MOD43产品较少，其有效反演相对较高。
+
+![](images/a69c798274654e4a972b7ea3744d5b7b45b5718a730e9a9b80c37f73e2586067.jpg)  
+g.10Correlation between surface shortwave albedo and temperature,precipitation in Junggar Basin from 2Ool to 2018   
+图11准噶尔盆地反照率与植被指数NDVI相关系数和年变化  
+Fig.11 Correlation between surface albedo and vegetation index NDVI and annual variations of surface shortwave albedo with vegetation index NDVI in Junggar Basin
+
+目前利用MOD09A1产品反演地表反照率的研究比较缺乏，对准噶尔盆地地表反照率的时空分布及其变化特征的研究尤为缺乏。本文利用Liang等[42]的反演方法的结果能够很好的表征准噶尔盆地地表反照率的季节变化特征和年际变化特征，并在此基础上分析了地表反照率与气候变化及植被指数NDVI的影响关系。由于当前对地表反照率的研究多基于站点数据分析其日、季、年变化特征[49-50]，而对其在大区域、基于面上的变化特征不够深入，因此，本研究主要对准噶尔盆地大区域地表反照率进行逐像元分析，重点探讨了典型荒漠草地上反照率与气候变化和植被指数NDVI的相互联系，从而为遥感资料反演地表反照率的数据提供了基础验证及校验。
+
+由于研究区准噶尔盆地气象站点稀少且分布严重不均，利用气象数据进行空间差值的精度会有所降低，从而获取与反照率像元大小相对应的气象数据栅格精度也相应降低，进而对地表反照率的相关性分析有可能存在一定的误差。本研究探讨了准噶尔盆地地表反照率与影响因子之间的相互关系，尚需进一步开展相关研究，以深人揭示可能的相关因子对荒漠草地地表反照率变化的影响，明确、量化各个影响因子对荒漠草地地表反照率贡献率。在今后的研究中，应尽可能的结合陆地生态系统模型等其他相关研究手段及方法，定量分析各个影响因子对地表反照率的影响及其作用大小，加深理解气候变化下干旱半干旱区地表特征的响应机制。
+
+# 4结论
+
+本文基于MOD09A1卫星8d的遥感数据反演地表短波反照率，结合气象数据和植被指数NDVI,分析了2001—2018年准噶尔盆地地表反照率的时空变化特征及其与植被、气候因子的相关关系，结果表明：
+
+（1）准噶尔盆地地表短波反照率空间分布具有明显的地域差异，研究时段内多年平均地表反照率为0.303，且绝大部分地区地表反照率集中在 $0 . 2 5 \sim$ 0.35，约占总面积的 $5 8 . 3 5 \%$ 。整体呈现东北高、西南低的特点，地表反照率年均标准差主要为 $0 . 0 1 5 \sim$ 0.045，整体变化敏感性低。
+
+(2）准噶尔盆地地表反照率四季空间分布变化明显，冬季均值最高为0.551，其次为春季（0.233）、秋季(0.219)，夏季均值最低(0.203）。冬季地表反照率标准差均值整体比春、夏、秋季高，准噶尔盆地东北缘和阿尔泰山是地表反照率年内变化较为剧烈的地区。其年际变化速率整体呈现微弱的减少趋势，平均每年为 $1 . 4 \times 1 0 ^ { - 4 }$
+
+(3）大部分地区地表反照率与平均气温呈负相关，与降水呈正相关关系；整体地表反照率与植被指数NDVI呈现负相关，主要受气温、降水与植被状况的交互影响，其相关性表现为：气温 $>$ NDVI>降水。
+
+# 参考文献(References):
+
+[1]Planque C,Carrer D,Roujean JL.Analysis of MODIS albedo changes over steady woody covers in France during the period of 2001-2013[J].Remote Sensing of Environment, 2017,191(15): 13-29.   
+[2]孙菽芬.陆面过程的物理、生化机理和参数化模型[M].北京:气 象出版社,2O05.[Sun Shufen.Physical, Biochemical Mechanism and Parametric Model of Land Surface Process[M]. Beijing: China Meteorological Press,2005.]   
+[3]肖登攀,陶福禄,Moiwo JuanaP.全球变化下地表反照率研究进 展[J].地球科学进展,2011,26(11):1217-1224.[Xiao Dengpan, Tao Fulu, Moiwo Juana P.Research progress on surface albedo under global change[J].Advances in Earth Science,2011,26(11): 1217-1224.]   
+[4]Liang SL, Wang K, Zhang X,et al. Review on estimation of land surface radiation and energy budgets from ground measurement, remote sensing and model simulations[J]. IEEE Journal of Special Topics in Applied Earth Observations and Remote Sensing,2010, 3(3),225-240.   
+[5]Li QP, Ma MG,Wu X D,et al. Snow cover and vegetation-induced decrease in global albedo from 2OO2 to 2O16[J].Journal of Geophysical Research: Atmospheres,2018,123(1): 124-138.   
+[6]王鸽,韩琳.地表反照率研究进展[J].高原山地气象研究,2010, 30(2): 79-83.[Wang Ge,Han Lin. Progress in the research of surfacealbedo[J].Plateau and Mountain Meteorology Research, 2010,30(2): 79-83.]   
+[7]除多,马伟强,扎西顿珠.藏北那曲地区地面与MODIS反演的 地表反照率对比分析[J].遥感技术与应用,2015,30(5):908- 916.[Chu Duo, Ma Weiqiang, Zhaxi Dunzhu. Land surface albedo in the north Tibetan Plateau from ground observations and MODIS [J].Remote Sensing Technology and Application,2O15,30(5): 908-916.]   
+[8]王介民,高峰.关于地表反照率遥感反演的几个问题[J].遥感技 术与应用,2004,19(5):295-300.[Wang Jiemin,Gao Fen.Discussion on the problems on land surface albedo retrieval by remote sensing data[J]. Remote Sensing Technology and Application, 2004,19(5): 295-300.]   
+[9]庄晓翠,李博渊,张林梅,等.新疆阿勒泰地区冬季大到暴雪气 候变化特征[J].干旱区地理,2013,36(6):1013-1022.[Zhuang Xiaocui,Li Boyuan, Zhang Linmei,etal.Heavysnowstorm characteristics of climatic change in winter in Altay Xinjiang[J].Arid Land Geography,2013,36(6): 1013-1022.]   
+[10] 吴徐燕,杨德保,王式功,等.近50a中国大陆无雨日的时空变 化特征分析[J].干旱区地理,2011,34(4):596-603.[Wu Xuyan, Yang Debao,Wang Shigong,et al. Temporal and spatial characteristic of rainless days in mainland China in recent 5O years[J]. Arid Land Geography,2011,34(4): 596-603.]   
+[11]吴倩倩.青藏高原MODIS 地表反照率的分析与应用[D].南京: 南京信息工程大学,2016.[Wu Qianqian.Analysis and Aplication of MODIS Albedos over Tibetan Plateau[D]. Nanjing: Nanjing University of Information Science & Technology,2016.]   
+[12]曹晓云.基于MODIS 的青藏高原地表反照率时空变化研究[D]. 南京：南京信息工程大学,2018.[Cao Xiaoyun.Spatial and Temporal Change of Surface Albedo over the Tibetan Plateau based on MODIS [D]. Nanjing: Nanjing University of Information Science & Technology, 2018.]   
+[13] 李喜佳.基于遥感观测的全球地表反照率时空变化研究[D].长 春：东北师范大学,2019.[Li Xijia. Spatiotemporal Changes of Global Land Surface Albedo from Remote Sensing Observations [D]. Changchun: Northeast Normal University,2019.]   
+[14]Liang SL, Zhao X, Liu S H,et al.A long-term global land surface satelite (GLASS)data- set for environmental studies[J]. International Journal of Digital Earth,2013,1(6): 5-33.   
+[15]Karlsson K,Antila K, Trentmann J, et al. CLARA-A2: The second edition of the CM SAF cloud and radiation data record from 34 years of global AVHRR data[J]. Atmospheric Chemistry and Physics,2017,17(9): 5809-5828.   
+[16]王鸽.1982—2000年中国区域地表反照率时空分布特征[J].高 原气象,2010,29(1):146-151.[Wang Ge.The distribution of surfacealbedo inChinaduring1982-200[J].Plateau Meteorology 2010, 29(1): 146-151.]   
+[17]王鸽,韩琳,姬光杰.1982—1998年中国不同地区地表反照率 变化原因初探[J].重庆师范大学学报:自然科学版,2011,28 (4): 79-83.[Wang Ge,Han Lin,Ji Guangjie.Research of the reason for variations of surface albedo in different areas in China from 1982 to 1998[J].Journal of Chongqing Normal University (Natural Science),2011,28(4): 79-83.]   
+[18] 魏文寿,何清,刘明哲,等.准噶尔盆地的气候变化与荒漠环境 研究[J].中国沙漠,2003,23(2):101-105.[Wei Wenshou,He Qing,Liu Mingzhe,et al. Climate change and the desert environmentin Junggar Basin,Xinjiang,China[J]. Journal of Desert Rs38卷 esarch,2003,23(2):101-105.]   
+[19] 秦大河.气候变化科学与人类可持续发展[J],地理科学进展, 2014,33(7): 874-883.[Qin Dahe. Climate change science and human sustainable development[J]. Progress in Geography,2014,33 (7): 874-883.]   
+[20] 陈乙实,孙海荣,李娜娜,等.绵羊放牧绢蒿荒漠草地植物群落 多样性及其环境解释[J].草业学报,2019,28(11):1-11.[Chen Yishi,Sun Hairong,Li Nana,et al.Plant community diversity in grazed Seriphidium semidesert glassand and its relationships with environmental factors[J].Acta Prataculturae Sinica, 2O19,28(11): 1-11.]   
+[21]姚彤,张强.我国北方不同类型下垫面地表反照率特征[J].物理 学报,2014,63(8): 460-468.[Yao Tong,Zhang Qiang,Study on land-surface albedo over different types of underlying surfaces in North China[J]. Acta Physica Sinica,2014, 63(8): 460-468.]   
+[22] 安颖颖,孟宪红,赵林,等.GLASS、MODIS 和GlobAlbedo 反照率 产品在青藏高原典型高寒草地的适用性评估[J].高原气象, 2019,38(1): 88-100.[An Yingying, Meng Xianhong, Zhao Lin, et al. Evaluation the applicability of albedo products of GLASS,MODIS and GlobAlbedo under the alpine meadow over the QinghaiTibetan Plateau[J]. Plateau Meteorology,2019,38(1): 88-100.]   
+[23] 徐田利,邬光剑,张学磊,等.基于MODIS数据的青藏高原冰川 反照率时空分布及变化研究[J].冰川冻土,2018,40(5):875- 883.[Xu Tianli,Wu Guangjian, Zhang Xuelei,et al. Albedo on glaciers in the Tibetan Platean basedon MODIS data: Spatiotemporal distribution and variation[J]. Journal of Glaciology and Geocryology,2018, 40(5): 875-883.]   
+[24] 陈爱军,梁学伟,卞林根,等.青藏高原MODIS 地表反照率反演 结果的空间分布[J].高原气象,2016,35(6):1409-1418.[Chen Aijun,Liang Xuewei, Bian Lingen, et al. Spatial distribution characteristics of MODIS land surface albedo inversions over the Qinghai- Xizang Plateau[J].Plateau Meteorology,2016,35(6):1409- 1418.]   
+[25] 陈爱军,吴倩倩,卞林根,等.青藏高原MODIS 地表反照率与地 面观测结果的比较[J].科技通报,2016,32(11):47-50,55. [Chen Aijun,Wu Qianqian,Bian Lingen,et al. Comparison between MODIS albedos and ground-observed albedos over the Tibetan Plateau[J]. Buletin of Science and Technology,2016,32 (11): 47-50, 55.]   
+[26] 胡慎慎.多源数据对比分析青藏高原GLASS地表反照率[D].南 京:南京信息工程大学,2016.[Hu Shenshen.Comparative Analysis of GLASS Albedos over the Tibetan Plateau based on MultiSource Data[D]. Nanjing: Nanjing Universityof Information Science & Technology,2016.]   
+[27] 周婵.青藏高原地表反照率与积雪遥感产品的分析与应用研究 [D].南京:南京信息工程大学,2016.[Zhou Chan.Analysis and Application of Albedo and Snow Remote Sensing Products over the Tibetan Plateau[D].Nanjing: Nanjing University of Information Science & Technology,2016.]   
+[28] 陈爱军,王飞,卞林根,等.青藏高原地区MODIS反照率两种反 演结果差异的对比分析[J].高原气象,2012,31(6):1479-1487. [Chen Aijun,Wang Fei, Bian Lingen,etal. Study on difference between two kinds of MODIS albedo overthe Qinghai-Xizang Plateau [J].Plateau Meteorology,2012,31(6): 1479-1487.]   
+[29] 陈超男.青藏高原草地生长季地表反照率时空变化及其驱动力 分析[D].开封:河南大学,2019.[Chen Chaonan.Temporal Spatial Variationof SurfaceAlbedo and itsDriving foece Analysis in the Growingseason of Grassland in Qinghai- Tibet Plateau[D]. Kaifeng: Henan University,2019.]   
+[30] 盛光伟,肖鹏峰,张学良,等.新疆天山及北疆地区积雪反照率 差异[J].干旱区地理,2019,42(4):774-781.[Sheng Guangwei, Xiao Pengfeng, Zhang Xueliang,et al. Differences in snow albedo between Tianshan Mountains and northern Xinjiang[J]. Arid Land Geography,2019,42(4): 774-781.]   
+[31] 李秋苹.2002—2016年全球地表反照率时空动态特征及影响 因子分析[D].重庆:西南大学,2019.[Li Qiuping.Temporal and Spatial Trend of Trend of Global Albedo and Impact Factors Analysis from 2002 to 2016[D]. Chongqing: Southwest University,2019.]   
+[32] Clare W,Tobias J. Influence of canopy shading and snow coverage on effective albedo in a snow-dominated evergreen needleleaf forest[J].Remote Sensing of Environment, 2018,214(1),48-58.   
+[33] 蔡福,周广胜,李荣平,等.地表反照率动态参数化方案研究 以玉米农田为例[J].自然资源学报,2011,26(10):1775- 1788.[CaiFu,Zhou Guangsheng,Li Rongping,etal.Dynamic parameterization scheme of surface albedo: A case study on rained maize field[J].Journalof aturalResources,201,26(0:775 1788.]   
+[34] 陆莎,左洪超,苗文辉,等.干旱区地膜覆盖玉米农田地表反照 率动态参数化方法及其模拟效果分析[J].干旱区研究,2018, 35(2): 461-470.[Lu Sha, Zuo Hongchao,Miao Wenhui,et al. Dynamic parameterization and simulation of surface albedo in maize cropland mulched by plastic film in Arid Region[J].Arid Zone Research,2018,35(2): 461-470.]   
+[35]白昕欣.秦淮河流域水稻田地表反照率变化特征及其影响因素 分析[D].南京:南京信息工程大学,2018.[Bai Xinxin.Characteristicsand ImpactFactors of Surface Albedo in Subtropical Paddy Rice Basin[D]. Nanjing: Nanjing University of Information Science& Technology,2018.]   
+[36] 陈继伟,左洪超.干旱区地膜覆盖农田下垫面反照率的观测研 究[J].干旱区研究,2014,31(3):397-403.[Chen Jiwei, Zuo Hongchao.Albedo of cropland covered with plastic film in an arid area in Northwest China[J].Arid Zone Research,2014,31(3): 397- 403.]   
+[37] 许鹏.新疆草地资源及其应用[M].乌鲁木齐:新疆科技卫生出 版社,1993.[Xu Peng.Grassland Resourcesand its Application in Xinjiang[M]. Urumqi: Xinjiang Scienceand Technology Health Press, 1993.]   
+[38] 张鹏,刘勇.MOD09A1数据产品中缺失条带的插补方法[J].遥 感技术与应用,2015,30(2):331-336.[Zhang Peng,Liu Yong. An interpolation method for stripe missing in theproduct MOD09A1[J].RemoteSensingTechnologandAplication2015,   
+30(2): 331-336.] [39] 武鹏飞,张钧泳,谭娇,等.基于DEM修订的新疆区域气温空间 插值精度优化研究[J].沙漠与绿洲气象,2019,13(2):108-114. [Wu Pengfei, Zhang Junyong,Tan Jiao,et al.Research on spatial interpolation accuracy optimization of air temperature in Xinjiang based on DEM[J].Desert and Oasis Meteorology，2019,13(2):   
+108-114.] [40] 陈爱军,卞林根,刘玉洁,等.应用MODIS 数据反演青藏高原地 区地表反照率[J].南京气象学院学报,2009,32(2):222-229. [Chen Aijun,Bian Lingen,Liu Yujie,et al. Using MODIS date to retrieve albedo overthe Qinghai-Tibet plateau[J]. Journal of Nanjing Insitute of Meteorology,2009,32(2): 222-229.] [41]Lucht W,Schaaf C B,Strahler A H.Analgorithm for the retrieval of albedo from space using semiem pirical BRDF models[J]. IEEE Transactions on Geoscience & Remote Sensing,2000, 38(2): 977-   
+997. [42]Liang S,Shuey CJ,Rass AL,et al,Narrowband to broadband conversions of land surface albedo: I[J. Validation.Remote Sensing of Environment,2003,84(1),25-41. [43]Lewis P,Barnsley MJ. Influence of the Sky Radiance Distribution on Various Formulations of the Earth Surface Albedo [Cl/Proceedings of the 6th International Symposium on Physical Measurements and Signatures in Remote Sensing. France: ISPRS,1994:   
+707-715. [44] 王立钊,郑学昌,孙林,等.利用Landsat TM数据和地面观测数 据验证GLASS 地表反照率产品[J].遥感学报,2014,18(3): 547-   
+558.[Wang Lizhao, Zheng Xuechang, Sun Lin,et al. Validation of GLASS albedo product through Landsat TM data and ground measurements[J]. Journal of Remote Sensing,2014,18(3): 547-558.] [45] 魏凤英.现代气候统计诊断与预测技术[M].北京:气象出版社,   
+1999.[Wei Fengying. Modern Climate Statistical Diagnosis and Prediction Technology[M]. Beijing: Meteorological Press,1999.] [46] 除多.2000—2014年西藏高原积雪覆盖时空变化[J].高原山地 气象研究,2016,36(1): 27-37.[Chu Duo. Spatial-temporal variations of snow cover on the Tibet Autonomous Region from 2000 to   
+2014 using MODIS data[J]. Plateau and Mountain Meteorology Research,2016,36(1): 27-37.] [47]Wang KC,Wang PC,Liu JM,et al. Variation of surface albedo and soil thermal parameters with soil moisture content at a semidesert site on the western Tibetan Plateau[J]. Kluwer Academic Publishers,2005,116(1): 117-129.] [48] 余予,陈洪滨,夏祥鳌,等.青藏高原纳木错站地表反照率观测 与 MODIS 资料的对比分析[J].高原气象,2010,29(2):260-267. [Yu Yu, Chen Hongbin,Xia Xiang'ao,et al. Comparison of surface albedo measurement with MODIS product at namco station f Tibetan Plateau[J].Plateau Meteorology,2010,29(2): 260-267.]
+
+[49]周甘霖,李耀辉,孙旭映,等.我国北方不同下垫面地表能量通 量的变化特征[J].干旱气象,2019,37(4):577-585.[Zhou GanLin,Li Yaohui, Sun Xuying,etal.Characteristics of surface energy fluxes over different types of underlying surfaces in North China [J].Journal of Arid Meteorology,2019,37(4): 577-585.]
+
+[50] 张驰,范广洲,马柱国,等.半干旱区典型下垫面反照率特征的 初步分析[J].高原气象,2015,34(4):1029-1040.[Zhang Chi, Fan Guangzhou,Ma Zhuguo,et al.Characteristics of albedo over different underlying surface in the Semi-Arid Area[J].Plateau Meteorology,2015,34(4): 1029-1040.]
+
+# Spatio-temporal variation characteristics of surface albedo and analysis of influential factors in the Junggar Basin
+
+DENG Xiaojin， JING Changqing， GUO Wenzhang， CHEN Chen， FU Haoyu (College of GrassandandEnvironmentSciences,Xinjiang Agricultural University,KeyLaboratoryof Grassland Resources and Ecology of Xinjiang, Urumqi 83oo52, Xinjiang, China)
+
+Abstract: Surface albedo influences the balance between surface radiation and energy,affecting regional and global climates.The Moderate Resolution Imaging Spectroradiometer remote sensing data product MOD09Al was used to retrieve surface short-wave albedo for the Junggar Basin.This was used to analyze the spatio-temporal variation and factors influencing the surface albedo ofthe desert grassland in the Junggar Basin during the period 2001-2018,based on meteorologicaldata and the vegetation index.The results revealed evident diferences in the spatial distribution of surface albedo across the study region, withan annual mean value of 0.3O3,high values in the northeast region and low values in the southwest region.The interannual variation of surface albedo showed a decreasing trend, with an average value of $1 . 4 \times 1 0 ^ { - 4 }$ . The decreased area accounted for approximately $5 2 . 8 \%$ of the totalarea,and its spatial distribution significantlyvaried across the four seasons.The spatial distributions in spring,summer,and autumn were similar, with the highest (0.551)and lowest (0.203) values observed in winter and summer,respectively.The surface albedo of the Altai Mountains in the northeast margin of the Junggar Basin drastically varied during the year: The normalized diference vegetation index (NDVI) value in the growing season was high in spring,significantly higher in autumn,and highest in summer. The surface albedo was negatively correlated with the NDVI and average temperature and positively correlated with precipitation n the majority of the study region. The correlation was as follows: Temperature ${ \bf \Lambda } > { \bf N D V I } >$ precipitation.Further, there was a significant correlation between the retrieved results and measured values ( $( R ^ { 2 } = 0 . 8 9 0 8$ ， $P { < } 0 . 0 1$ ),and the root mean square error was O.O14.This study provides a theoretical basis for understanding the land-surface characteristics ofthe Junggar Basin in Northern Xinjiang,and it objectively evaluated the surface changes in arid regions and determined the positive and negative feedback response mechanisms under global climate change.
+
+Keywords: Junggar Basin; surface albedo； desert grassland; spatio-temporal variation； NDVI

@@ -1,0 +1,213 @@
+# 甘肃省冬小麦干旱灾害风险评估及其区划
+
+贾建英'，韩兰英¹，万信'，刘文婧（1．兰州区域气候中心，甘肃 兰州 730020；2．甘肃省气象局，甘肃 兰州730020）
+
+摘要：为提高西北旱作冬小麦干旱风险管理水平,选用甘肃省41个气象站1971—2016 年逐日常规气象观测资料及甘肃省冬小麦农业生产相关资料,基于自然灾害风险理论,从危险性、暴露性、脆弱性、防灾能力4个因子出发,建立了甘肃省冬小麦干旱灾害风险评估模型,并用ArcGIS 对甘肃省冬小麦进行干旱风险区划。结果表明：甘肃省冬小麦全生育期干旱高危险区和次高危险区主要位于陇中北部、陇东北部和陇南南部；高暴露区和次高暴露区集中在陇东和陇南地区；高脆弱区和次高脆弱区主要位于陇东大部；次低防灾能力区和低防灾能力区位于陇东大部和陇南北部。甘肃省冬小麦高风险区分布于庆阳市北部和陇南市南部,次高风险区和中度风险区主要位于陇东大部、陇中北部和天水市北部,省内其余冬小麦区属于次低和低风险区。该研究成果将为甘肃冬小麦防灾减灾及可持续发展提供一定理论依据。
+
+关键词：冬小麦；干旱；风险评估；区划；甘肃
+
+干旱是全球影响最广泛的自然灾害，每年因干旱造成的全球经济损失远超其他气象灾害[1],而且随着全球气候的变化，呈现出干旱区域不断扩大、干旱损失日渐加剧的趋势[2-3]。干旱发生频率高,持续时间长，影响范围广，对农业危害非常大。近 $5 0 \mathrm { ~ a ~ }$ 来,甘肃省平均干旱受灾面积约为 $6 . 3 1 \times 1 0 ^ { 5 } \ \mathrm { h m } ^ { 2 }$ ，成灾面积为 $5 . 0 5 \times 1 0 ^ { 5 } ~ \mathrm { h m } ^ { 2 }$ ,严重干旱年份粮食减产达 $1 . 0 0 \times 1 0 ^ { 6 } \mathrm { ~ t ~ }$ 以上。冬小麦是甘肃省的主要粮食作物，分散种植于陇西黄土高原、陇东黄土高原和陇南徽成盆地，其区域横跨半干旱区、半湿润区和湿润区。一般上年9月中旬至10月中旬播种，翌年6月收获，生长发育期间降水量为 $1 8 0 \sim 3 3 0$ $\mathbf { m } \mathbf { m }$ ，占全年降水的 $4 0 \% \sim 5 0 \%$ 。水分是限制冬小麦生产的最主要因素，素有“十年九旱"之说[4-5]在严重干旱年份,减产幅度高达 $5 0 \%$ 。干旱灾害风险评估是一种有效的变被动抗灾为主动避灾的防旱减灾措施，因此，准确评估甘肃省冬小麦干旱风险对全省粮食生产安全具有非常重要的意义。
+
+干旱灾害风险评估是对干旱灾害风险发生的强度和形式进行评定和估计，是一种重要的防灾抗灾非工程性措施，也是干旱灾害风险管理的重要组成部分{。20 世纪80 年代初,灾害学家开始
+
+关注灾害及其风险形成机制与评价理论，从系统论和风险管理的角度探讨了形成灾害与灾害风险的要素及其相互作用和数学表达式[7-9]。目前,关于灾害风险形成机制的理论主要有“二因子说”“三因子说”和“四因子说”[10]。我国对自然灾害风险评价研究主要分为2个阶段[10-12],20 世纪80年之前，主要研究致灾因子的形成机制和指标;20世纪80年代进入快速发展阶段，其中具有代表性的由史培军["提出的自然灾害系统理论和张继权等[12-13]提出的自然灾害风险理论,这2种理论在相关研究中的应用非常广泛[14-19]。本文基于自然灾害风险理论，分别从危险性、暴露性、脆弱性、防灾能力4个因子出发，建立了甘肃省冬小麦干旱灾害风险评估模型，对甘肃省冬小麦进行风险评估及区划，以期为地方政府制定科学的防灾减灾措施提供理论依据。
+
+# 1资料与方法
+
+# 1.1 资料来源
+
+甘肃省冬小麦主要种植于河东雨养农业区，按区域划分为陇中（兰州市、定西市、临夏州）、陇东（庆阳市、平凉市)和陇南（天水市、陇南市），41个冬小麦种植县。1971—2016年逐日常规气象要素观测资料来源于甘肃省气象局信息中心（图1），1985—2014年产量资料和2000—2014 年社会经济资料来源于《甘肃农村年鉴》。各冬小麦区平均生育期为各区域内冬小麦观测站点生育期的多年平均
+
+值(表1)。
+
+# 1.2 方法
+
+基于自然灾害风险理论，从定量的角度对灾害发生的形式和强度予以评估，考虑危险性、脆弱性、暴露性、防灾能力4个主要因子，每个因子包含不同指标。
+
+表1甘肃省冬麦区平均生育期  
+Tab.1Average growth periods of winter wheat in Gansu Province   
+
+<html><body><table><tr><td>区域</td><td>播种</td><td>越冬</td><td>返青</td><td>拔节</td><td>开花</td><td>成熟</td><td>休闲期</td></tr><tr><td>陇中</td><td>9月下旬</td><td>11月上旬</td><td>3月中旬</td><td>5月中旬</td><td>6月中旬</td><td>7月中旬</td><td>7月下旬至9月中旬</td></tr><tr><td>陇东</td><td>9月下旬</td><td>11月中旬</td><td>3月上旬</td><td>4月中旬</td><td>5月中旬</td><td>7月上旬</td><td>7月中旬至9月中旬</td></tr><tr><td>陇南</td><td>10月中旬</td><td>12月中旬</td><td>2月下旬</td><td>3月下旬</td><td>4月下旬</td><td>6月下旬</td><td>7月上旬至10月上旬</td></tr></table></body></html>
+
+![](images/6f744dadbd5af365decb46954b577f87110c43c5e7731bd2947922a95df8bdec.jpg)  
+图1研究区域及站点示意图  
+Fig.1Geographical location of the study area and distribution of stations
+
+# 1.2.1 危险性
+
+（1）修订后的作物水分盈亏指数
+
+作物水分盈亏指数[20-21]表征了作物需水量与降水量之间的盈亏程度，是一个基于农田水分收支原理的旱涝评价指标。甘肃省降水量时空分布不均，主要集中在7一9月（冬小麦休闲期），占年降水量的 $5 0 \% \sim 6 0 \%$ ,因此休闲期土壤贮水对甘肃省冬小麦整个生育期都有重要作用[4,22]，当自然降水不能满足冬小麦需水量时，土壤贮水就如地下水库不断输送水分满足冬小麦生长所需。因此，本文考虑了冬小麦休闲期土壤贮水及生育期水分盈亏量，修订了作物水分盈亏指数，并确立了不同干旱等级的作物水分盈亏指数的等级[5（表2）。修订后作物水分盈亏指数与土壤贮水和冬小麦产量损失相关性较高，能客观、准确、定量地反映不同干旱等级对甘肃省冬小麦生产的影响[5]
+
+$$
+L = \frac { R _ { 0 } \times W S E + R - W } { W }
+$$
+
+式中： $L$ 为作物水分盈亏指数； $W$ 为作物需水量； $R _ { 0 }$ 为休闲期降水量; $\boldsymbol { W } \boldsymbol { S } \boldsymbol { E }$ 为休闲期贮水效率 $^ { [ 2 2 - 2 3 ] } ; R$ 为播种至某一发育阶段的降水量; $W$ 为与 $R$ 相应阶 段的作物需水量，用参考作物蒸散量( $\cdot E T _ { 0 }$ )和作物 系数 $( K c )$ 之积得出，参考作物蒸散量， $\left( E T _ { 0 } \right)$ )采用 FAO推荐用Penman-Monteith计算,作物系数 $( K c )$ 是基于水量平衡原理计算的作物实际耗水量来确定 的[5,24-26]
+
+# 表2甘肃省冬小麦水分盈亏指数干旱等级划分
+
+Tab.2Drought classification of water budget index for winter wheat in Gansu Province   
+
+<html><body><table><tr><td>等级</td><td>类型</td><td>水分盈亏指数(L)</td></tr><tr><td>0</td><td>无旱</td><td>L>0</td></tr><tr><td>1</td><td>轻旱</td><td>-0.1<L≤0</td></tr><tr><td>2</td><td>中旱</td><td>-0.3<L≤-0.1</td></tr><tr><td>3</td><td>重旱</td><td>-0.5<L≤-0.3</td></tr><tr><td>4</td><td>特旱</td><td>L≤-0.5</td></tr></table></body></html>
+
+（2）不同干旱等级水分盈亏指数出现概率
+
+利用偏度峰度检验法分别对41个县1971—2016年全生育期修订后水分盈亏指数序列进行正态性检验，结果表明通过正态性检验的占 $9 2 . 8 5 \%$ 。对没有通过正态性检验的，采用偏态分布正态化处理[27]，根据正态分布的概率计算方法[27-28]分别计算出1971—2016 年全生育期不同干旱等级水分盈亏指数出现的概率 $( P )$ 。
+
+# （3）干旱危险性指数
+
+作物某一发育阶段的干旱危险性指数是作物不同等级水分盈亏指数 $( L )$ 和出现概率 $( P )$ 的函数[27,29],表达式为：
+
+$$
+D _ { i } \ = \ \sum _ { i = 1 } ^ { n } { \cal L } _ { i } \times P _ { i }
+$$
+
+式中： $D _ { i }$ 为第 $i$ 干旱等级冬小麦干旱风险指数； $L _ { i }$ 为第 $i$ 干旱等级冬小麦水分盈亏指数，取中值； $\boldsymbol { P } _ { i }$ 为第 $i$ 干旱等级水分盈亏指数出现概率； $n$ 为干旱等级总数。
+
+1.2.2暴露性针对某一区域可种植面积来说,冬小麦种植面积越大，意味该区域暴露于气象危险因子的冬小麦越多，可能遭受的气象灾害风险越大。因此,将各县冬小麦的种植面积与本县农作物面积的比值定义为冬小麦暴露指数[29]：
+
+$$
+E = { \frac { a } { A } }
+$$
+
+式中： $E$ 为某县的暴露性指数； $\mathbf { \alpha } _ { a }$ 为该县冬小麦种植面积多年平均值( $\mathbf { h m } ^ { 2 } \cdot \mathbf { \tau }$ ）； $A$ 为该县农作物种植面积多年平均值( $\left( \mathrm { h m } ^ { 2 } \right)$ ）。
+
+1.2.3脆弱性承灾体是农业灾害系统的核心，是农业灾害系统中致灾因子作用的对象。脆弱性表征承灾体自身承受灾害能力的大小。一个地区产量的波动大小能体现该作物对外来干扰的适应能力，因此，产量波动的差异可以看作作物脆弱性的体现，产量波动大的区域作物相对比较脆弱，产量波动小的区域作物适应能力强。产量波动的差异可以用变异系数来表示[29]：
+
+$$
+F = { \frac { \sqrt { \displaystyle \sum _ { i = 1 } ^ { n } \left( Y _ { i } - Y \right) ^ { 2 } } } { n } }
+$$
+
+式中： $F$ 为某县脆弱性指数; $n$ 为总年数; $Y _ { i }$ 为该县第 $i$ 年冬小麦单产( $\mathbf { k g } \cdot \mathbf { h m } ^ { - 2 }$ ）； $Y$ 为该县冬小麦单产多年平均值 $\mathbf { \chi } ^ { \prime } \mathbf { k g } \cdot \mathbf { h m } ^ { - 2 }$ ）。
+
+1.2.4防灾能力防灾能力指作物能够从干旱灾害中恢复生产能力的大小，是作物自身抗逆性和人为参与防灾共同作用的结果，以防灾性能指数 $( T )$ 来表示。一个县产量水平是作物适应性和当地生产力水平的反映，而耕地有效灌溉率反映了人为参与防灾的基础条件，因此，采用产量水平和耕地有效灌溉率作为防灾性能指数的评价指标。本文产量水平是选用1985—2014年某县平均单产与甘肃省平均单产的比值,耕地有效灌溉率是2000—2014 年某县平均有效灌溉面积和平均耕地面积的比值，利用层次分析法确定2个指数值在防灾性能指数评价中对应的权重，分别为0.52和0.48。
+
+1.2.5干旱风险度根据自然灾害风险的形成机理，自然灾害风险是危险性、暴露性、脆弱性和防灾能力综合作用的结果，通常采用自然灾害指数表征风险程度。在本研究中，采用自然灾害风险指数法，将灾害风险评价模型定义为[29]：
+
+$$
+R = \mid D ^ { W _ { D } } \mid \times E ^ { W _ { E } } \times F ^ { W _ { F } } \times \left( \frac { 1 } { T } \right) ^ { \psi _ { T } }
+$$
+
+式中： $R$ 为风险度指数； $D , E , F , T$ 分别为危险性、暴露性、脆弱性和防灾能力指数； $W _ { D } \setminus W _ { E } \setminus W _ { F } \setminus W _ { T }$ 分别为危险性、暴露性、脆弱性和防灾能力对应的权重，表示各因子对形成灾害风险的相对重要性，由于危险性指数值为负值，这里取绝对值。本文权重的确定采用灰色关联度分析法，计算了41个站点危险性、暴露性、脆弱性和防灾能力指数多年平均值与减产率多年平均值的灰色关联度，从而确定各影响因子权重。
+
+# 2结果与分析
+
+# 2.1冬小麦全生育期干旱危险性
+
+从图2可知，甘肃省冬小麦全生育期干旱高危险区主要在陇南市文县，文县气候暖热、蒸发大，全生育期平均降水量在 $2 2 0 ~ \mathrm { m m }$ ,陇南山区是个相对少雨区，且丘陵坡土蓄水困难，干旱发生频率较高；次高危险区位于兰州市和庆阳市环县，该区域处于甘肃黄土高原西部边缘和北部边缘，年降水量少（ $3 5 0 \sim 4 0 0 ~ \mathrm { m m }$ ),干旱是冬小麦最大的威胁;中度危险区位于临夏州北部、定西市大部、庆阳市中部、平凉市静宁和崆峒、天水市西北部，该区域年降水量在$4 0 0 \sim 5 0 0 ~ \mathrm { m m }$ ,而冬小麦休闲期降水占全年的 $6 0 \%$ 以上，干旱成为一种常态;次低危险区和低危险区主要位于陇中南部、陇东南部和陇南中东部，该区域年降水量在 $5 0 0 \sim 7 0 0 ~ \mathrm { m m }$ ,但降水变率大、时空分布不均，干旱也时常发生。
+
+![](images/7062ee4cca847d3a94f844597807c0cd5c0a267e91830ec404942460a638da93.jpg)  
+图2甘肃省冬小麦全生育期干旱危险性分布示意图  
+Fig.2Spatial distributionsof drought hazard for winter wheat during whole growth period in Gansu Province
+
+# 2.2冬小麦暴露性
+
+暴露性反映了冬小麦种植在当地农作物种植面积中所占的比重，比重越高意味着暴露于干旱危险中的风险越高。从图3可知，甘肃省冬小麦主要分布于陇东和陇南地区，高暴露区主要在平凉市东部（灵台、泾川、崇信)、陇南市南部(岩昌、文县），次高暴露区位于庆阳市南部、平凉市西部、天水市大部、陇南市大部，低暴露区和次低暴露区主要在陇中麦区。
+
+# 2.3冬小麦脆弱性
+
+从图4可见，甘肃冬小麦高脆弱区和次高脆弱区主要位于庆阳市大部、平凉市东部、临夏州中北部，该区域冬小麦对干旱灾害的适应能力较低，生产脆弱，遭受干旱灾害危害程度较高；中度脆弱区位于兰州市榆中、定西市通渭、平凉市西部、天水市东部的张家川和清水、陇南市部分(宕昌、西和、武都、两当)，该区域冬小麦对干旱灾害的适应能力一般，也易遭受干旱灾害危害，省内其余地方处于低脆弱区和次低脆弱区，冬小麦生产较稳定。
+
+# 2.4冬小麦防灾能力分析
+
+由图5可知，甘肃省冬小麦高防灾能力区位于兰州市和临夏州，该区域有效灌溉率较高，产量水平相对较高；次高防灾能力区分布在陇南市徽成盆地，该区域是甘肃省降水最充沛地区，产量高；中度防灾能力区位于庆阳市东南部、平凉市泾川和灵台、陇南市大部，省内其余冬麦区属于低防灾能力区和次低防灾能力区。其中，环县、通渭、静宁、秦安、张家川、清水防灾能力最低，该区域冬小麦生产力水平较低，灌溉条件有限，是甘肃省冬小麦防灾能力最低的地区。
+
+![](images/1acf55ea3f8cb9408f09ebd679825103ad530fc01c66ef86eafcef47a7db92ca.jpg)  
+Fig.3Spatial distribution of winter wheat exposure in Gansu Province
+
+![](images/0f2d580a48563fc61ac61694ac519a196fe0700019372e86d4c0f16f77d2286b.jpg)  
+图3甘肃省冬小麦暴露性分布示意图  
+图4甘肃省冬小麦脆弱性分布示意图  
+Fig.4Spatial distribution of winter wheat vulnerability in Gansu Province
+
+# 2.5冬小麦干旱风险性评估及区划
+
+本文采用灰色关联度方法确定的危险性、暴露性、脆弱性和防灾能力对应的权重分别为0.4516、0.1554、0.1869和0.2061，其中以危险性权重最高，防灾能力权重次之，脆弱性和暴露性权重依次略减，并利用ArcGIS对甘肃省冬小麦干旱灾害风险进行区划（图6）。
+
+高风险区位于庆阳市环县和陇南市文县，这2个县全生育期遭受干旱的危险性较高，环县冬小麦生产力低、生产不稳定，文县冬小麦种植面积比例高、暴露性高，该区域为甘肃省冬小麦干旱风险最高地区；次高风险区主要位于陇东中部(华池、庆城、西峰、镇原、合水、崆峒、崇信、静宁）、定西市通渭和陇南市武都，该区域处于中度干旱危险区，冬小麦种植比例较高、生产不稳定，灌溉条件有限，为甘肃省冬小麦干旱风险次高地区；中度风险区主要位于陇东南部(宁县、正宁、泾川、灵台、华亭、庄浪）、天水市北部(张家川、秦安、甘谷、武山、秦州）、定西市陇西和兰州市榆中，该区域大部处于中度一低干旱危险区，生产力水平和稳定性不尽相同；次低风险区和低风险区主要位于陇中大部(东乡、临夏、和政、康乐、临洮、漳县、渭源)和陇南东部(麦积、清水、宕昌、西和、礼县、成县、徽县、康县、两当)，该区域大部处于干旱次低一低危险区，且冬小麦生产水平高、生产稳定，陇中大部冬小麦种植比例低、暴露度低，陇南东部尤其是徽成盆地(成县、徽县、康县、两当)是甘肃降水最充沛的地方，冬小麦生产力水平高且稳定，是甘肃省冬小麦干旱风险最低的地区。
+
+![](images/df0e1122355af3e75dc57dc259bcf8a0ae3d0dc4028cc84b64a1e444bcafc275.jpg)  
+Fig.5Spatial distribution of anti-disaster capability of winter wheat in Gansu Province
+
+![](images/2e6b8ea2148e383ff714478cc29dd59ff32db0917a1d10d86efcec270659ccf9.jpg)  
+图5甘肃省冬小麦防灾能力分布示意图  
+图6甘肃省冬小麦干旱风险分布示意图  
+Fig.6Spatial distribution of drought risk for winter wheat in Gansu Province
+
+# 3结论与讨论
+
+本文基于自然灾害风险形成机理，从干旱风险形成的危险性、暴露性、脆弱性、防灾能力4个影响因子出发，构建了甘肃省冬小麦干旱风险评估模型，对甘肃省冬小麦干旱风险程度进行5级区划，得出以下结论：
+
+（1）危险性评价是农业干旱风险评估的主体，考虑冬小麦休闲期土壤贮水及生育期水分盈亏量，修订了作物水分盈亏指数，该指数作为甘肃省冬小麦干旱危险性评价指数，能更加客观、准确、定量地反映干旱对甘肃省冬小麦生产的影响。甘肃省冬小麦全生育期干旱次高一高危险区主要位于陇中北部、陇东北部和陇南南部，该区域年降水量在 $3 5 0 \sim$ $5 0 0 ~ \mathrm { m m }$ ,全生育期降水量在 $2 2 \sim 1 7 6 ~ \mathrm { m m }$ ,且降水变率大，冬小麦干旱常年发生。
+
+（2）从暴露性、脆弱性、防灾能力3大因子分析来看，甘肃省冬小麦高暴露区和次高暴露区主要集中在陇东和陇南地区，高脆弱区和次高脆弱区主要位于陇东大部，次低防灾能力区和低防灾能力区主要位于陇东大部和陇南北部。
+
+（3）甘肃省冬小麦高风险区分布于庆阳市北部和陇南市南部，次高风险区和中度风险区主要位于陇东大部、陇中北部和天水市北部，次低风险区和低风险区主要分布于陇中南部和陇南中东部。
+
+从甘肃省冬小麦干旱风险形成的危险性、暴露性、脆弱性、防灾能力4个影响因子空间分布，到最终甘肃冬小麦干旱风险区划可以看出，全生育期干旱危险性空间分布示意图(图2)与甘肃省冬小麦干旱风险分布示意图(图6)大体一致，也就是说，在4个影响因子中危险性直接影响干旱风险的大小和空间分布，危险性评价是农业干旱风险评估的主体，而暴露性、脆弱性和防灾能力间接影响干旱风险的形成。例如，兰州市榆中干旱危险性非常高，但由于当地冬小麦种植面积小,灌溉条件相对好，生产稳定，最终被划分为中度风险区；而陇东南部是甘肃省冬小麦集中种植区，生产水平不均衡，尽管处于次低一低危险区，但最终被划分为中度风险区。本文暴露性、脆弱性和防灾能力评价模型构建的基础资料是冬小麦农业统计资料，农业统计资料能最直接、最客观反映甘肃省不同地区冬小麦生产状况，但相对单一，下一步将社会经济因素等考虑进去，进一步改进优化评估模型。
+
+# 参考文献(References）：
+
+[1]IPCC.Climate Change 2O14：Impacts,Adaptation and Vulnerability.Contribution of Working Group II to Fifth Assessment Report of the Intergovernmental Panel on Climate Change[M].New York： Cambridge University Press,2014.   
+[2]张强,韩兰英,张立阳,等.论气候变暖背景下干旱灾害风险特征 与管理[J].地球科学进展,2014,29（1）:80-91.[ZhangQiang， Han Lanying,Zhang Liyang,et al.Analysis on the character and management strategy of drought disaster and risk under the climatic warming[J].Advances in Earth Science,2014,29(1) :80-91.]   
+[3]Han Lanying,Zhang Qiang,Ma Pengli,et al. The spatial distribution characteristics of a comprehensive drought risk index in Southwestern China and underlying causes[J]. Theoretical and Applied Climatology,2016,124(3-4）:517 -528.   
+[4] 贾建英，赵俊芳，万信，等.黄土高原不同降水区休闲期土壤贮 水效率及其对冬小麦水分利用的影响[J].生态学报,2017,37 (17）:5 704-5 712.[Jia Jianying,Zhao Junfang,Wan Xin,et al. Effects of soil water storage efficiency on winter wheat water use efficiency in different precipitation areas during the fallow period in the LoessPlateau,Western China[J].Acta Ecologica Sinica, 2017,37(17) :5 704 -5 712.]   
+[5]贾建英,韩兰英,万信.甘肃冬小麦水分盈亏指数的改进及其 应用[J].中国生态农业学报,2018,26(4）：559-566.[Jia Jianying,Han Lanying,Wan Xin.Improvement and applicability of winter wheat water budget index in Gansu Province[J].Chinese Journal of Eco-Agriculture,2018,26(4）:559-566.]   
+[6]张强,王劲松,姚玉璧,等.干旱灾害风险及其管理[M].北京： 气象出版社,2017:45-49.[Zhang Qiang,Wang Jingsong,Yao
+
+Yubi,et al.Drought Disaster Risk and Its Management[M].Beijing:China Meteorological Press,2017:45-49.]
+
+[7]Maskrey A.Disaster Mitigation：A Community Based Approach [M].Oxford:Oxfam,1989.
+
+[8]Smith K.Environmental Hazards:Assessing Risk and Reducing Disaster[M].New York:Routledge,1996.
+
+[9] Okada N,Tatano H,Hagihara Y,etal.Integrated research on methodological development of urban diagnosis for disaster risk and its applications[J].Disaster Prevention Research Institute Annuals, KyotoUniversity,2004,47:1-8.
+
+[10]王春乙，张继权，霍治国，等.农业气象灾害风险评估研究进展 与展望[J].气象学报,2015,73（1）：1-19.［WangChunyi, Zhang Jiquan,Huo Zhiguo,et al. Prospects and progresses in the research of risk assessment of agro-meteorological disasters[J]. ActaMeteorologica Sinica,2015,73(1) :1-19.]
+
+[11]史培军.三论灾害研究的理论与实践[J].自然灾害学报， 2002,11（3）:1-9.[Shi Peijun.Theory on disaster science and disasterdynamics[J].Journal ofNatural Disasters,2OO2,11(3）:1 -9.]
+
+[12]张继权，李宁.主要气象灾害风险评价与管理的数量化方法及其应用[M].北京：北京师范大学出版社，2007：27－244.[Zhang Jiquan,Li Ning.Quantitative Methods and Applications ofRisk Assessment and Management on Main Meteorological Disas-ters[M].Beijing:Beijing Normal University Publishing House,2007:27 -244. ]
+
+[13]张继权,严登华，王春乙，等.辽西北地区农业干旱灾害风险评 价与风险区划研究[J].防灾减灾工程学报，2012，6（3）：300- 306.［Zhang Jiquan,Yan Denghua,Wang Chunyi,et al.A study on risk assessment and risk regionalization of agricultural drought disaster in northwestern regions of Liaoning Province[J]. Journal of Disaster Prevention and Mitigation Engineering,2012,6(3）:300 -306.]
+
+[14]王春乙,蔡菁菁,张继权.基于自然灾害风险理论的东北地区 玉米干旱、冷害风险评价[J].农业工程学报，2015，31（6)：238 -245.[Wang Chunyi,Cai Jingjing,Zhang Jiquan.Risk assessment of drought and chilling injury of maize in Northeast China [J].Transactions of the Chinese Society of Agricultural Engineering,2015,31(6) :238-245.]
+
+[15]单琨，刘布春，刘园，等.基于自然灾害系统理论的辽宁省冬小 麦干旱风险分析[J].农业工程学报,2012,28（8)：186-194. [Shan Kun,Liu Buchun,Liu Yuan,et al.Analysis on drought risk of maize based on natural disaster system theory in Liaoning Province[J].Transactions of the Chinese Society of Agricultural Engi neering,2012,28(8):186-194.]
+
+[16]任义方，赵艳霞，王春乙.河南省冬小麦干旱保险风险评估与 区划[J].应用气象学报,2011,22（5）:537-548.[Ren Yifang, Zhao Yanxia,Wang Chunyi.Winter wheat drought disaster insurance risk assessment and regionalization in Henan Province[J]. Journal of Applied Meteorological Science,2011,22（5）:537 - 548.]
+
+[17]王永利,侯琼，苗百岭，等.内蒙古马铃薯干旱风险区划[J].应 用气象学报，2017,28（4）：504－512.[WangYongli，Hou Qiong,Miao Bailing,etal.Droughtrisk regionalization of potatoes in Inner Mongolia[J]. Journal of Applied Meteorological Science, 2017,28(4) :504 -512.]
+
+[18]陈香.福建省台风灾害风险评估与区划[J].生态学杂志， 2007,26(6）:961-966.[Chen Xiang.Risk assessment and zonation of typhoon disasters in Fujian Province[J].Chinese Journal of Ecology,2007,26(6):961 -966.]
+
+[19]张会，张继权，韩俊山.基于GIS技术的洪涝灾害风险评估与 区划研究——以辽河中下游地区为例[J].自然灾害学报， 2005,14（6）:141 -146.［Zhang Hui,Zhang Jiquan,Han Junshan.GIS-based assessment and zoning of flood/waterlogging disasterrisk:A case study on middle and lower reaches ofLiaohe River [J].Journal of Natural Disasters,2005,14(6）:141-146.]
+
+[20]张玉芳，王锐婷，陈东东，等.利用水分盈亏指数评估四川盆地 玉米生育期干旱状况[J].中国农业气象，2011，32（4)：615- 620.[Zhang Yufang,Wang Ruiting,Chen Dongdong,etal.Evaluation on drought at maize growth stage in Sichuan Basin using water budget index[J].Chinese Journal of Agrometeorology,2011,32 (4):615-620.]
+
+[21]高晓容，王春乙，张继权，等.近50年东北玉米生育阶段需水 量及旱涝时空变化[J].农业工程学报，2012,28（12)：101- 109.[Gao Xiaorong,Wang Chunyi,Zhang Jiquan,et al.Crop water requirement and temporal-spatial variation of drought and flood disaster during growth stages for maize in northeast during past 50 years[J].Transactions of the Chinese Society of Agricultural Engineering,2012,28（12）:101-109.]
+
+[22]邓振镛，张强，王强,等.黄土高原旱作区土壤贮水力和农田耗 水量对冬小麦水分利用率的影响[J].生态学报，2010，30 (14）：3 672-3678.[Deng Zhenyong,Zhang Qiang，Wang Qiang,et al.Effects of soil water storage capacity and consumption on winter-wheat water use efficiency in dryland areas of the Loess Plateau in Western China[J].Acta Ecologica Sinica,2O10,30 (14):3 672-3 678.]
+
+[23]侯贤清，李荣，韩清芳，等.夏闲期不同耕作模式对土壤蓄水保 效果及作物水分利用效率的影响[J].农业工程学报，2012， 28（3）:94-1Oo.[Hou Xianqing,Li Rong,Han Qingfang,et al. Effects of different tillage patterns during summer fallow on soil water conservation and crop water use efficiency[J].Transactions of the Chinese Society of Agricultural Engineering,2012,28（3）:94 -100.]
+
+[24]孙敏,温斐斐，高志强,等.不同降水年型旱地小麦休闲期耕作 的蓄水增产效应[J].作物学报，2014，40（8)：1459-1469. [SunMin,WenFeifei,Gao Zhiqiang,etal.Effects of farmingpractice during fallow period on soil water storage and yield of dryland wheat in different rainfall years[J].Acta Agronomica Sinica, 2014,40(8):1 459-1 469.]
+
+[25」王润元，杨兴国，张九林，等.陇东黄土高原土壤储水量与蒸发和气候研究[J].地球科学进展，2007，22（6）：625-635.
+
+[Wang Runyuan,Yang Xingguo,Zhang Jiulin,etal.A study of soil waterand land surface evaporation and climate onLoess Plateau in theEastern Gansu Province[J].Advances in Earth Science,2007, 22(6):625 -635.)
+
+[26」张强，王文玉，阳伏林,等.典型半干旱区干旱胁迫作用对春小 麦蒸散及其作物系数的影响特征［J].科学通报，2015，60 (15）:1 384-1394.[Zhang Qiang,Wang Wenyu,Yang Fulin,et al.The influence of drought stress on spring wheat evapotranspiration and crop coefficients in semi-arid areas[J].Chinese Science Bulletin,2015,60(15):1 384-1394.]
+
+[27]李世奎，霍治国，王道龙.中国农业灾害风险评价与对策[M]. 北京：气象出版社,1999.［Li Shikui,Huo Zhiguo,Wang Daolong.Risk Assessment and Strategies of Chinese Agricultural Disasters[M].Beijing:China Meteorological Press,1999.] [28]薛昌颖，霍治国，李世奎，等.北方冬小麦产量灾损风险类型的 地理分布[J].应用生态学报，2005，16（4）：620-625.[Xue Changying,Huo Zhiguo,Li Shikui,etal.Geographic distribution of winterwheat yield loss risk and its classification in north China [J].Chinese Journal of Applied Ecology,2005,16（4）:620- 625.]
+
+[29]贾建英，贺楠，韩兰英，等.基于自然灾害风险理论和ArcGIS 的西南地区玉米干旱风险分析[J].农业工程学报，2015，31 (4)：152-159.[Jia Jianying,He Nan,HanLanying,etal.Analysis on drought risk of maize in Southwest China based on natural disasterrisk theory and ArcGIS[J].Transactions of the Chinese Society of Agricultural Engineering,2015,31（4）:152-159.]
+
+# Risk and Regionalization of Drought for Winter Wheat in Gansu Province
+
+JIA Jian-ying1，HAN Lan-ying1，WAN Xin’，LIU Wen-jing² (1.Lanzhou Regional Climate Center,Lanzhou 73oO2O,Gansu,China; 2.Gansu Province Meteorology Bureau,Lanzhou 73oO2O,Gansu,China)
+
+Abstract：Winter wheat is the major grain crop in Gansu Province,where precipitation is the most important factoraffcting thedry-farming winter wheat production.The uneven spatiotemporal distribution of precipitation rsults inthe drought occurrence for winter wheatinthe province.Therefore,itis of great significance to improve drought risk management level fordry-farming winter wheat in Northwest China.In this paper,the daily meteorological data from 41 stations andthe data related to winter wheat production in Gansu Province during the period of 1971-2016 were used.Based on the natural disaster risk theory,the drought risk for winter wheat was assessd.The results showed that the zones with high drought risk for winter wheat in Gansu Province were mainly located in north Qingyang City and south Longnan City,the drought hazards for winter wheat in whole growth period were high or subhigh,especially in south Longnan City,and winter wheat yield perunit area in north Qingyang City was lower and more unstable than the average in Gansu Province.The zones with sub-high and moderate drought risk were mainly located nthe mostregionsofLongdong,north Longzhong and north Tianshui City,the drought hazards for winter wheat in whole growth period were moderate or sub-low,the area ratios of winter wheat were higher than the average in Gansu Province,and the productivity leveland stabilityof winter wheat was diferent from different regions in Gansu Province.The studyresultscould provide a theoretical basis for the prevention and mitigation of drought for winter wheat and for the sustainable development in Gansu Province.
+
+Key words:winter wheat； drought； risk assessment； regionalization；Gansu Province

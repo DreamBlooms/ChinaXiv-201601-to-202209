@@ -1,0 +1,485 @@
+[
+    {
+        "type": "text",
+        "text": "乌拉特荒漠草原红砂生物量预测模型 T",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李香云1²，岳平¹，程欢³，郭新新¹²，赵生龙²，张森溪¹²，王少昆}²，左小安}",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．中国科学院西北生态环境资源研究院,乌拉特荒漠草原研究站，甘肃 兰州730000;2．中国科学院大学,北京100049；3．四川农业大学林学院,四川成都610000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：红砂（Reaumuria soogorica)是一种广泛分布在中国半荒漠地区的多年生半灌木,是干旱荒漠区分布最广的植物种之一,具有固沙、固土的优良特性。其生物量估算对评价荒漠草原红砂的生态功能和荒漠草原经营管理具有重要作用,红砂生物量模型是估测红砂生物量的重要方法之一。本研究采用全挖法,以乌拉特荒漠草原优势种之一红砂为研究对象,基于对红砂地上、地下和整株生物量及株高 $( H )$ 、冠幅 $( C )$ 、基径 $( D )$ 等的测定，通过数理统计的回归分析方法，利用相关生长模型(幂函数 $\\boldsymbol { W } = \\boldsymbol { a } \\boldsymbol { X } ^ { b }$ ),分别构建了地上部分( $\\left| \\begin{array} { c } { { \\overline { { { W } } } _ { 1 } } } \\end{array} \\right.$ 、地下部分( $\\textstyle \\ W _ { 2 }$ )和全株生物量 ${ \\bf \\Xi } ( \\bf { \\Lambda } \\ )$ 的预测模型。通过对比判别系数 $R ^ { 2 }$ 的大小,挑选最佳生物量估测模型。结果表明： $\\textcircled{1}$ 以冠幅 $( C )$ 为指标的估测模型 $W _ { 1 } = 0 . 5 5 5 \\times C ^ { 1 . 8 6 7 } ( R ^ { 2 } = 0 . 8 6 6 )$ 能较好地反映红砂单株地上生物量累计特征。 $\\textcircled{2}$ 以复合因子基径 $\\times$ 基径 $\\times$ 株高 $( D ^ { 2 } H )$ 为指标的估测模型 $W _ { 2 } = 2 . 2 5 9 \\times \\left( D ^ { 2 } H \\right) ^ { 0 . 7 6 2 } \\left( R ^ { 2 } = 0 . 7 6 9 \\right)$ 能较好地反映红砂单株地下生物量累计特征。 $\\textcircled{3}$ 以复合因子基径 $\\times$ 基径 $\\times$ 株高 $( D ^ { 2 } H )$ 为指标的估测模型 $W = 7 . 0 5 7 \\times ( D ^ { 2 } H ) ^ { 0 . 8 1 3 } ( R ^ { 2 } = 0 . 8 5 9 )$ 能较好地反映红砂总生物量的累计特征。利用此类方法建立的生物量模型,精度高,简便易行，为评价乌拉特荒漠草原红砂的生态功能和准确测定其生物量提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：荒漠草原；红砂；生物量；预测模型；乌拉特；内蒙古",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生物量（biomass）通常指生态系统中生物组分现有单位面积上有机物质的重量或总量，其研究一直是生态学中一个重要的研究方向，是研究生态系统物质循环和能量流动的基础，也是反映群落或生态系统功能强弱的重要指标[1-3]。荒漠草原是草原区向荒漠区过渡的旱生化草原生态系统，在内蒙古约占草原总面积的 $1 0 . 7 \\% ^ { [ 4 - 5 ] }$ 。荒漠生态系统的生物量和生产力是反映荒漠生态系统基本特征的重要指标，是评估荒漠生态系统生产潜力及进行荒漠生态系统经营管理所必需的基础数据[6]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "灌木在我国干旱、草原地区和森林生态系统中都有大量的分布，其作为生态系统的重要组成部分，对整个生态系统的稳定起着不容忽视的作用[7-8]我国荒漠地区灌丛分布范围较大，但其生物储量与密度相对森林生态系统较小，因而未受到足够重视[9]。同时,由于灌木具有特殊的个体形态和群落结构，使其给根量和生物量动态变化的研究带来了很大困难[10]。近年来,许多学者就如何准确测定灌木生物量做了很多研究工作[1,3,10-12]。对于灌木而言，生物量的测定绝大多数采用的是全收割法，仅有少量的研究采用公式和模型[13-16],估测灌木生物量究竟通过哪种方法测定的生物量和建立的生物量预测模型效果较好，目前仍无统一的标准[12]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "红砂（Reaumuria soogorica）是一种广泛分布于中国半荒漠地区的多年生半灌木，具有耐干旱、集沙能力强等特点，对荒漠地区的生态保护具有重要作用[17]。然而,目前对红砂生物量模型研究仍是十分缺乏，对于乌拉特荒漠草原红砂生物量研究还未见报道。对于荒漠生态系统而言，采用模型法是研究红砂生物量的最佳选择。目前使用较多的灌木生物量模型有：线性模型、对数模型、相对生长模型和多项式模型[18-20]。但性能最好的模型是相对生长模型(幂函数模型或异速生长方程)[21-22],该模型符合植物生长发育规律，真实反映了灌木生物量随植株形态的变化趋势,具有显著的机理性[23-26] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究选择冠幅面积 $( C )$ 、基径 $( D )$ 、株高 $\\times$ 冠幅面积( $( C H )$ 、基径 $\\times$ 株高( $( D H )$ 和基径 $\\times$ 基径 $\\times$ 株高 $( D ^ { 2 } H )$ 等作为自变量，地上生物量( $\\textstyle \\ W _ { 1 }$ ）、地下生物量（ $\\textstyle \\ W _ { 2 }$ )和全株生物量 $( \\boldsymbol { W } )$ 等作为因变量，来构建对植物无破坏性，节约时间，并能较准确预测荒漠草地红砂生物量的估算模型，为评价乌拉特荒漠草原红砂的生态功能和准确测定其生物量提供科学依据，这对于乌拉特荒漠草原经营管理具有重要作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于内蒙古巴彦淖尔市乌拉特后旗中部$( 4 1 ^ { \\circ } 2 5 ^ { \\prime } \\mathrm { N } , 1 0 6 ^ { \\circ } 5 8 ^ { \\prime } \\mathrm { E }$ ,海拔 $\\mathrm { ~ 1 ~ } 6 5 0 \\mathrm { ~ m } \\mathrm { } \\mathrm { ~ } ,$ )，属大陆性干旱气候，热量丰富， $\\geqslant 1 0 \\ { ^ { \\circ } \\mathrm { C } }$ 的年积温为 $2 \\ 0 0 0 \\sim 3 \\ 0 0 0$ $\\mathcal { \\mathrm { C } }$ ,年平均降雨量 $1 8 0 ~ \\mathrm { m m }$ ,7一8月的降雨量占全年总降水量的 $70 \\%$ 左右，年蒸发量是降雨量的10倍以上。植被类型以荒漠草原和荒漠灌丛为主，土壤以棕钙土和灰棕漠土为主[27-28] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究样地位于中国科学院西北生态环境资源研究院乌拉特荒漠草原生态系统研究站围封的荒漠草原长期试验观测场（面积为 $3 3 3 . 3 4 \\ \\mathrm { h m } ^ { 2 }$ )的红砂群落。该试验场从2010年起开始围封，从南到北可划分为沙生针茅（Stipaglareosa）群落、芨芨草（Ach-natherum splendens）群落和红砂（Reaumuria songari-ca)群落3大类型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2018年7一8月，在研究区选取红砂24株，对选定植株进行标记，并在野外调查株高 $( H )$ 和冠幅（ $C$ ,取长轴与短轴的乘积）。采取全挖法获取整株生物量，带回实验室后，分离地上与地下生物量，清理干净各部分后称量鲜重，后在 $8 0 ~ \\mathrm { { ^ circ C } }$ 通风干燥箱内烘 $^ { 4 8 \\mathrm { ~ h ~ } }$ 左右至恒重，测定其干重。具体步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）测量所选红砂的株高 $( H , \\ m )$ 、冠幅直径$( D 1 \\ldots D 2 , \\mathbf { m } )$ （ $D 1$ 为南北向直径, $D 2$ 为东西向直径）基径 $( D , { \\bf m } )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）用剪刀从基部锯倒剪断所选标准株，将地上部分装入塑料袋或信封。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3）将每株的全部根系挖出。为了保证根系的完整性，从植株根颈向四周沿着根系的自然走向，首先从水平方向进行清理，然后分层挖掘，深度为根系分布所达范围。去除根系上附着的沙土后，装入塑",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "料袋或信封内带回室内。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（4）将野外带回的样品称量鲜重，后在实验室$8 0 ~ \\mathrm { { ^ { \\circ } C } }$ 烘至恒重，测量干重。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（5）冠幅面积 $C = \\left( \\begin{array} { l l } { D 1 \\times D 2 } \\end{array} \\right)$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究选用变量冠幅面积 $( C )$ 、基径 $( D )$ 、冠幅面积 $\\times$ 株高 $( C H )$ 、基径 $\\times$ 株高 $( D H )$ 和基径 $\\times$ 基径 $\\times$ 株高 $( D ^ { 2 } H )$ 等作为自变量,分别对红砂地上生物量（ $\\mathbf { \\partial } \\cdot \\mathbf { W } _ { 1 }$ ）、地下生物量( $\\cdot \\ W _ { 2 }$ )和全株生物量 ${ \\bf \\Xi } ( \\mathrm { \\bf \\Lambda } \\ W )$ 进行分析，拟合生物量模型。数据分别用Excel2010、SPSS16.0进行数据整理和统计分析，用SigmaPlot12.5作图，利用相关生长模型（幂函数 $\\boldsymbol { W } = \\boldsymbol { a } \\boldsymbol { X } ^ { b }$ )构建生物量预测模型。在确定相关生长指数 $b$ 时，须将幂函数转换为 $\\ln W = d + b \\ln X$ 的形式( ${ \\bf \\Pi } _ { a } = \\mathbf { e } ^ { \\mathrm { { d } } }$ 。式中： $W$ 为样本生物量； $X$ 为 $\\boldsymbol { C } , D , C H , D H , D ^ { 2 } H$ 中的任意一个。通过决定系数 $( R ^ { 2 } )$ 、平均误差（ME）、平均绝对误差（MAE）、总相对误差（TRE）、平均系统误差（MSE)和平均绝对百分误差(MPSE）来筛选生物量统计模型。其计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { R ^ { * } = 1 - \\displaystyle \\frac { \\hat { \\mathbf { J } } _ { 1 } } { n } \\big ( \\hat { \\mathcal { Z } } _ { 2 } - \\hat { \\mathcal { P } } _ { 1 } \\big ) ^ { 2 } \\int _ { t - \\infty } ^ { t } \\hat { \\mathcal { Z } } _ { 1 } \\big ( \\mathcal { I } _ { 1 } - \\hat { \\mathcal { Z } } _ { 2 } \\big ) ^ { 2 } } & { } \\\\ { \\mathrm { M E } = \\frac { 1 } { n } \\displaystyle \\frac { \\hat { \\mathbf { J } } _ { 2 } } { n } \\big ( \\mathcal { N } - \\hat { \\mathcal { P } } _ { 1 } \\big ) } & { } \\\\ { \\mathrm { M A E } = \\frac { 1 } { n } \\displaystyle \\frac { \\hat { \\mathbf { J } } _ { 1 } } { n } \\Big \\lvert \\mathcal { I } _ { 2 } - \\hat { \\mathcal { P } } _ { 1 } \\Big \\rvert } & { } \\\\ { \\mathrm { T R } \\in \\frac { \\hat { \\mathbf { J } } _ { 2 } } { n } \\big ( \\mathcal { I } _ { 1 } - \\hat { \\mathcal { P } } _ { 2 } \\big ) \\Big / \\displaystyle \\frac { \\hat { \\mathbf { J } } _ { 2 } } { n } \\lesssim 1 0 0 ^ { \\mathrm { o p } _ { \\mathrm { o p } } } } & { } \\\\ { \\mathrm { M B E } = \\frac { 1 } { n } \\displaystyle \\frac { \\hat { \\mathbf { J } } _ { 1 } } { n } \\big ( \\mathcal { I } _ { 1 } - \\hat { \\mathcal { P } } _ { 2 } \\big ) \\Big / \\displaystyle \\frac { \\hat { \\mathcal { J } } _ { 2 } } { n } \\times 1 0 0 ^ { \\mathrm { o p } _ { \\mathrm { o p } } } } & { } \\\\ { \\mathrm { M B E } = \\frac { 1 } { n } \\displaystyle \\frac { \\hat { \\mathbf { J } } _ { 1 } } { n } \\Big \\lvert \\mathcal { I } _ { 1 } - \\hat { \\mathcal { P } } _ { 2 } \\Big \\rvert \\Big / \\displaystyle \\frac { \\hat { \\mathcal { J } } _ { 2 } } { n } \\times 1 0 ^ { \\mathrm { o p } _ { \\mathrm { o p } } } } & { } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $n$ 为样本单元; $y _ { i }$ 为生物量实测值； $\\boldsymbol { \\hat { y } } _ { i }$ 为生物量估测值。 $R ^ { 2 }$ 越大，其他评价指标越小,则模型估测效果越好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1红砂生物量模型参数的实测区间",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自变量参数与各部分生物量之间具有显著相关性是生物量预测模型构建的前提[29]。由表1可知,红砂株高 $( 0 . 2 1 6 \\pm 0 . 1 0 6 ) \\mathrm { m }$ ,基径 $( 0 . 1 7 2 \\pm 0 . 0 8 0 ) \\$ $\\mathrm { ~ m ~ }$ ,冠幅面积 $( \\ 0 . \\ 3 0 2 \\ \\pm \\ 0 . \\ 1 7 0 \\ ) \\ \\mathrm { m } ^ { 2 }$ ,地上生物量$\\left( 0 . 0 7 2 \\pm 0 . 0 6 4 \\right) \\mathrm { k g }$ ,地下生物量 $( 0 . 0 7 5 \\pm 0 . 1 0 1$ ）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\bf k g$ ，全株生物量 $( 0 . 1 4 7 \\pm 0 . 1 3 7 ) \\mathrm { k g }$ 。由于采样过程中是对样地中红砂进行随机取样，因此，红砂各测量指标都有一个较大的采样区间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 红砂各变量间的相关性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，冠幅面积 $( C )$ 、冠幅面积 $\\times$ 株高（ $C H )$ 和基径 $\\times$ 基径 $\\times$ 株高 $( D ^ { 2 } H )$ 与地上生物量（ $\\left( W _ { 1 } \\right)$ 、地下生物量( $\\textstyle \\ W _ { 2 }$ )和全株生物量 ${ \\bf \\Xi } ( \\mathrm { \\bf \\Lambda } \\ W )$ 之间均具有极显著的相关性( $P < 0 . \\ 0 1 \\ \\cdot$ )；基径 $( D )$ 和基径 $\\times$ 株高( $( D H )$ 与地上生物量（ $\\textstyle \\mathbb { W } _ { 1 }$ )和全株生物量$( \\boldsymbol { W } )$ 之间具有极显著的相关性( $P < 0 . 0 1 \\$ ），与地下生物量( $\\mathbf { \\overline { { W } } } _ { 2 }$ )之间具有显著相关性( $\\ P < 0 . \\ 0 5 )$ 。故可选基径 $( D )$ 、冠幅面积 $( C )$ 、冠幅面积 $\\times$ 株高$( C H )$ 、基径 $\\times$ 株高 $( D H )$ 和基径 $\\times$ 基径 $\\times$ 株高$( D ^ { 2 } H )$ 作为估测模型参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3红砂单株地上、地下生物量及全株生物量估测模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，红砂地上部分生物量( $\\textstyle \\mathcal { W } _ { 1 }$ 以冠幅面积 $( C )$ 和冠幅面积 $\\times$ 株高 $( C H )$ 为参数的估测模型有较高的 $R ^ { 2 }$ （ $R ^ { 2 } > 0 . 8 0 \\$ )，其中 $c$ 因子 $R ^ { 2 } = { }$ 0.855 , $C H$ 因子 $R ^ { 2 } = 0 . 8 6 6$ 。 $C$ 的ME和MSE虽小于 $C H$ ，但后者的MAE、TRE和MPSE较前者小，且$C H$ 具有更高的 $R ^ { 2 }$ ,估测效果应好于 $\\boldsymbol { C }$ ;红砂地下部分生物量 ${ \\bf \\Xi } ( { \\bf \\Lambda } { \\cal W } _ { 2 } )$ 以基径 $( D )$ 、基径 $\\times$ 株高 $( D H )$ 和基径 $\\times$ 基径 $\\times$ 株高 $( D ^ { 2 } H )$ 为参数的估测模型有较高的$R ^ { 2 } ( R ^ { 2 } > 0 . 7 0 )$ ,3个模型中以 $D$ 最高( $R ^ { 2 } = 0 . 7 7 \\$ ，$D ^ { 2 } H ( R ^ { 2 } = 0 . 7 6 9 )$ 次之， $D H ( R ^ { 2 } = 0 . 7 0 1 )$ )最低。但相较于地上部分生物量估测模型仍较差，一方面是由于地下部分很难全部完整地挖出来，另一方面地下部分在称重时，根上泥土残留附着，最终造成生物量的称量结果与实际误差较大。其中 $D ^ { 2 } H$ 与 $D$ 的 $R ^ { 2 }$ 相差很小，同时 $D ^ { 2 } H$ 的MAE、TRE、MSE较 $D$ 的小,故笔者认为 $D ^ { 2 } H$ 总体估测误差更小，估测模型能更好地反映红砂地下生物量累计特征;红砂全株生物量 $( \\boldsymbol { \\ W } )$ 估测模型均有较高 $R ^ { 2 } \\left( R ^ { 2 } > 0 . 7 0 \\right)$ ,其中以基径 $\\times$ 基径 $\\times$ 株高 $( D ^ { 2 } H )$ 为参数的估测模型 $R ^ { 2 }$ 最高（ $R ^ { 2 } = 0 , 8 5 9$ )，基径 $\\times$ 株高 $( D ^ { 2 } H )$ 的次之( $R ^ { 2 } = { }$ 0.819）。 $D H$ 的 TRE 和MSE小于 $D ^ { 2 } H$ ，但后者ME、MAE、MPSE 均小于 $D H$ ，且 $D ^ { 2 } H$ 具有更高的 $R ^ { 2 }$ 。故笔者认为以 $D ^ { 2 } H$ 为参数的估测模型能更好地反映红砂整株生物量累计特征。综上所述,地上部分、地下部分及全株生物量预测模型分别为 $W _ { \\scriptscriptstyle 1 } = 0 . 5 5 5 \\times$ $C ^ { 1 . 8 6 7 }$ （ $R ^ { 2 } = 0 . 8 6 6$ ） ${ \\cal { W } } _ { 2 } = 2$ $2 5 9 \\times ( D ^ { 2 } H ) ^ { 0 . 7 6 }$ 2 $R ^ { 2 } = { }$ 0.769）、 $W = 7$ ： $0 5 7 \\times \\left( D ^ { 2 } H \\right) ^ { 0 . 8 1 3 }$ （( $\\boldsymbol { R } ^ { 2 } \\ : = \\ : \\boldsymbol { 0 }$ 859）（图1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d39f6dd941c86c787e3b9f041b9a76562251f3bfe411e4cb3c1094a9e9c03b1.jpg",
+        "table_caption": [
+            "表1红砂生物量模型参数的实测区间",
+            "Tab.1Measurement interval of Reaumuria soogorica biomass model parameters ",
+            "表2红砂各因子、各组分生物量的相关系数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>株高(CH)/m</td><td>基径(D)/m</td><td>冠幅面积(C)/m²</td><td>地上生物量(Wi) /kg</td><td>地下生物量（W2） /kg</td><td>全株生物量(W) /kg</td></tr><tr><td>均值±标准差</td><td>0.216 ±0.106</td><td>0.172 ±0.080</td><td>0.302 ±0.170</td><td>0.072 ±0.064</td><td>0.075 ±0.101</td><td>0.147 ±0.137</td></tr><tr><td>极大值</td><td>0.550</td><td>0.354</td><td>0.849</td><td>0.276</td><td>0.443</td><td>0.573</td></tr><tr><td>极小值</td><td>0.035</td><td>0.070</td><td>0.044</td><td>0.002</td><td>0.003</td><td>0.005</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/926ab841e5b03f8f19fd649a86d2d632306b11eff954619d426e27f8899b7c91.jpg",
+        "table_caption": [
+            "Tab.2Correlation coeficients of various factors and biomass of Reaumuria soogorica "
+        ],
+        "table_footnote": [
+            "注： $*$ 表示0.05水平上显著相关；\\*\\*表示0.01水平上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td>变量</td><td>株高 (H)</td><td>基径 (D)</td><td>冠幅面积 (C)</td><td>冠幅面积× 株高(CH)</td><td>基径× 株高(DH)</td><td>基径×基径× 株高(D²H)</td><td>地上生 物量（W）</td><td>地下生 物量（W2）</td><td>全株生 物量（W)</td></tr><tr><td>株高(H)</td><td>1. 000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>基径(D)</td><td>0.301</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>冠幅面积(C)</td><td>0.469</td><td>0.744 **</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>冠幅面积×株高(CH)</td><td>0.786 **</td><td>0.647 *</td><td>0.860 **</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>基径×株高(DH)</td><td>0.811 **</td><td>0.774 **</td><td>0.773 **</td><td>0.937**</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>基径×基径×株高(D²H)</td><td>0.556 **</td><td>0.893 **</td><td>0.815 **</td><td>0.872 **</td><td>0.934 **</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>地上生物量(Wi)</td><td>0.456 *</td><td>0.886 **</td><td>0.907 **</td><td>0.844 **</td><td>0.865 **</td><td>0.959 **</td><td>1.000</td><td></td><td></td></tr><tr><td>地下生物量（W2）</td><td>0.318</td><td>0.651 *</td><td>0.815 **</td><td>0.669 **</td><td>0.618 *</td><td>0.678 **</td><td>0.779 **</td><td>1.000</td><td></td></tr><tr><td>全株生物量(W)</td><td>0.442</td><td>0.864**</td><td>0.923 **</td><td>0.836 **</td><td>0.840 **</td><td>0.929 **</td><td>0.987 **</td><td>0.870 **</td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/50ed9ec68fd810b65f598f7b5d8214880477c5aec98df6ea6e3dd0902181da6d.jpg",
+        "table_caption": [
+            "表3基于不同参数的红砂地上、地下部分及全株生物量估测模型",
+            "Tab.3Estimation model of aboveground,underground and whole plant biomass of Reaumuria soogorica based on different parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>参数</td><td>模型</td><td>模型</td><td>R²</td><td>ME</td><td>MAE</td><td>TRE/%</td><td>MSE/%</td><td>MPSE/%</td><td>P</td></tr><tr><td rowspan=\"4\">W</td><td>C</td><td>lnW= -0.588 +1.867lnC</td><td>W =0.555 × Cl1.867</td><td>0.866</td><td>-0.001</td><td>0.460</td><td>0.026</td><td>2.089</td><td>-16.506</td><td>0.000</td></tr><tr><td>D</td><td>lnW=0.738 +2.148lnD</td><td>W = 2.092 × D2.148</td><td>0.509</td><td>-0.001</td><td>0.821</td><td>0.021</td><td>3.498</td><td>-27.932</td><td>0.000</td></tr><tr><td>CH</td><td>lnW=0.287 +1.133ln(CH)</td><td>W =1.332 ×(CH)1.133</td><td>0.855</td><td>-0.001</td><td>0.474</td><td>0.042</td><td>1.733</td><td>- 16.329</td><td>0.000</td></tr><tr><td>DH</td><td>lnW=1.473 + 1.331ln(DH)</td><td>W =4.362 × (DH)1.331</td><td>0.700</td><td>0.000</td><td>0.634</td><td>-0.013</td><td>1.804</td><td>- 20.479</td><td>0.000</td></tr><tr><td rowspan=\"4\">W2</td><td>D²H</td><td>lnW,=1.544 +0.887ln(D²H)</td><td>W =4.683 × (D²H) 0.887</td><td>0.675</td><td>-0.001</td><td>0.635</td><td>0.015</td><td>3.062</td><td>- 22.179</td><td>0.000</td></tr><tr><td>C</td><td>lnW2 = - 1.939 +0.950lnC</td><td>W =0.144 × C0.950</td><td>0.532</td><td>0.000</td><td>0.710</td><td>-0.013</td><td>0.306</td><td>- 21.705</td><td>0.000</td></tr><tr><td>D</td><td>lnW2 =0.881 +2.410lnD</td><td>W = 2.413 × D2.410</td><td>0.77</td><td>-0.001</td><td>0.543</td><td>0.037</td><td>0.472</td><td>-18.461</td><td>0.000</td></tr><tr><td>CH</td><td>lnW2 = -1.316 +0.636ln(CH)</td><td>W =0.268 ×(CH)0.636</td><td>0.549</td><td>-0.000</td><td>0.674</td><td>0.005</td><td>0.554</td><td>-21.239</td><td>0.000</td></tr><tr><td rowspan=\"6\">W</td><td>DH</td><td>lnW =0.474 + 1.066ln(DH)</td><td>W =1.606 × (DH)1.066</td><td>0.701</td><td>-0.001</td><td>0.577</td><td>0.034</td><td>0.170</td><td>-19.345</td><td>0.000</td></tr><tr><td>D²H</td><td>lnW=0.815 +0.762ln(D²H)</td><td>W =2.259 × (D²H) 0.762</td><td>0.769</td><td>-0.000</td><td>0.520</td><td>0.005</td><td>0.056</td><td>-17.729</td><td>0.000</td></tr><tr><td>C</td><td>lnW= -0.467 +1.392lnC</td><td>W =0. 627 × Cl.392</td><td>0.730</td><td>-0.001</td><td>0.526</td><td>0.035</td><td>2.542</td><td>- 24.952</td><td>0.000</td></tr><tr><td>D</td><td>lnW =1.586 +2.161lnD</td><td>W =4. 884 × D2. 161</td><td>0.762</td><td>-0.000</td><td>0.522</td><td>0.016</td><td>4.464</td><td>- 25.798</td><td>0.000</td></tr><tr><td>CH</td><td>lnW =0.235 +0.861ln(CH)</td><td>W=1.265 × (CH) 0.861</td><td>0.747</td><td>0.001</td><td>0.482</td><td>-0.030</td><td>2.459</td><td>-23.073</td><td>0.000</td></tr><tr><td>DH</td><td>lnW =1.709 + 1.170ln(DH)</td><td>W =5.523 × (DH) 1.170</td><td>0.819</td><td>-0.000</td><td>0.405</td><td>0.015</td><td>1.120</td><td>-18.427</td><td>0.000</td></tr><tr><td></td><td>D²H</td><td>lnW =1.954 +0.813ln(D²H)</td><td>W=7.057 ×(D²H)0.813</td><td>0.859</td><td>-0.001</td><td>0.383</td><td>0.059</td><td>2. 225</td><td>-18.772</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/034f275dbe64ecd7c98f69cd64da5aab3557e94bf6e6d703346d2dff0c0a243e.jpg",
+        "img_caption": [
+            "图1红砂地上部分、地下部分及全株生物量最优预测模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Optimal prediction modelof aboveground part，underground partand whole plantbiomass of Reaumuria soogorica ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生物量模型构建的最大困难是回归模型中自变量的选取[30-31],所选择的自变量对所建生物量预测模型的精度高低具有至关重要的影响[32]。常采用的自变量有基径、株高、冠幅面积、冠幅直径、基径的平方与植株高度的乘积、冠幅与植株高度的乘积等[33]。其中,基径的平方与植株高度的乘积是最常用的灌木生物量模型构建的自变量[25.31,34],但国内有些学者认为冠幅与灌木生物量之间具有更为密切的关系[18.35-36]。故本研究就基径 $( D )$ 、冠幅面积$( C )$ 、冠幅面积 $\\times$ 株高(CH)、基径 $\\times$ 株高 $( D H )$ 和基径 $\\times$ 基径 $\\times$ 株高 $( D ^ { 2 } H )$ 等因子分别构建预测模型，以此选出预测红砂生物量的最优模型，其中乌拉特荒漠草原红砂地上部生物量估算的最佳变量为冠幅面积 $( C )$ ,地下部分及整株生物量估算最佳变量均为基径的平方与植株高度的乘积 $( D ^ { 2 } H )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "杨昊天等[37]对腾格里沙漠东南缘灌木的研究中，因荒漠区红砂根部很容易被沙埋，形成沙堆，其基径的测量比较困难，故采用冠幅和株高为易测因子，以灌木体积 $( C H )$ 为预测变量，取得较好结果。其预测红砂地上部分( $\\textstyle \\mathcal { W } _ { 1 }$ ）、地下部分( $\\cdot \\mathrm { ~ \\AE ~ } _ { 2 }$ )及整株生物量（W）模型分别为： $W _ { 1 } = 0 . \\ 0 1 3 \\times ( \\ C H ) ^ { 0 . 7 5 7 }$ （204号（ $R ^ { 2 } = 0 . 8 6$ ） $\\boldsymbol { W } _ { 2 } = 0$ $0 1 6 \\times ( C H ) ^ { 0 . 7 2 7 }$ （ $R ^ { 2 } = 0 . 8 0 8$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$W = 0 . 0 2 8 \\times ( C H ) ^ { 0 . 7 4 8 } ( R ^ { 2 } = 0 . 8 5 9 )$ 。但在本研究中发现，以灌木体积 $( C H )$ 为变量的预测模型并不是最优模型。党晓宏等对西鄂尔多斯地区灌木的研究中[38]认为,红砂灌丛生物量与 $D ^ { 2 } H$ 相关性最好,这与本研究中以 $D ^ { 2 } H$ 为变量的红砂整株生物量估测模型较好结果一致，其表示红砂生物量 $W = 1 . 7 9 \\times$ $( D ^ { 2 } H ) ^ { 0 . 4 8 } ( { \\cal R } ^ { 2 } = 0 . 8 6 9 )$ 。但本研究与以上研究结果均有差异,将杨昊天等[37]对腾格里沙漠东南缘红砂地上、地下及整株生物量预测模型应用于乌拉特荒漠草原红砂时，其预测值远小于实际测量值；而用党晓宏等[38]的西鄂尔多斯地区红砂整株生物量预测模型得到的乌拉特荒漠草原红砂整株生物量预测值大于实际测量值。主要是因为红砂所处地理位置不同， $\\mathrm { C O } _ { 2 }$ 浓度、降水量等因素有差异，会对红砂生物量产生影响[39]。因此,红砂生物量估测模型有其适用范围，要建立较完整的红砂生物量估测模型还需进一步研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "国内外众多类似研究中均发现用相对生长方程（其表达式为 $\\boldsymbol { W } = \\boldsymbol { a } \\boldsymbol { X } ^ { b }$ ,简称为CAR 模型[40])模拟灌木生物量精度较高[2240-41]。虽然一些研究发现,采用二次多项式模型或一些形式更为复杂的回归模型可以获得更令人满意的 $R ^ { 2 [ 3 9 ] }$ ,但这些模型仅是经验公式，缺乏机理性的解释，相关生长关系是所有生物所共有的特性,是普适的规律[28]。在本研究中，采用相对生长方程模拟红砂地上、地下部分和整株生物量取得了较好的效果",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "红砂植株低矮，深根性，保水力极强而蒸腾强度最低[42],能够有效抵御干旱胁迫,维持植株正常生长[42 -43]。但其根系往往较深且根幅较大,挖掘根系费时费力。由于本研究条件限制，红砂取样样本数偏少，但基于实测数据的分析，红砂的地上部分及全株生物量模型模拟的 $R ^ { 2 }$ 值均在0.85以上，地下部分生物量模型模拟的 $R ^ { 2 }$ 值在0.75以上，且 $P <$ 0.001水平上均达到极显著水平。因此，乌拉特荒漠草原红砂生物量模型的模拟结果比较准确，可以满足该地区红砂生物量的预测，但红砂分布广泛，现有的模型很难满足其他生态系统中红砂生物量估算的需求，还需要对更多地区的红砂建立相应的生物量模型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）在所有拟合的模型中，地上部分生物量预测模型拟合度最高( $R ^ { 2 } = 0 . 8 6 6$ ），地下部分最差（ $R ^ { 2 } = 0 . 7 6 9 \\AA$ )，地上部分、地下部分及全株生物量预测模型分别为 $\\boldsymbol { W } _ { 1 } = 0$ $5 5 5 \\times C ^ { 1 . 8 6 7 }$ ( $\\boldsymbol { R } ^ { 2 } = \\boldsymbol { 0 }$ 866）、$W _ { 2 } = 2 . \\ 2 5 9 \\times ( \\ D ^ { 2 } H ) ^ { 0 . 7 6 2 } ( R ^ { 2 } = 0 . \\ 7 6 9 ) \\ _ { \\times } W = 7 . \\ 0 5 7 \\times$ $\\left( D ^ { 2 } H \\right) ^ { 0 . 8 1 3 } \\left( \\begin{array} { c } { R ^ { 2 } = 0 . 8 5 9 } \\end{array} \\right)$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）通过回归方程拟合出乌拉特荒漠草原红砂地上、地下部分及全株生物量最优模型，以此来代替采用整株收获法研究生物量。这样既简便易行，同时减少了对生态脆弱的荒漠地区的破坏，为进一步评价乌拉特荒漠草原红砂的生态功能和准确测定其生物量提供科学依据。模型仅适用于乌拉特荒漠草原地区红砂，存在局限性，对于研究区外运用模型时需进行校正。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1］郑绍伟,唐敏,邹俊辉,等.灌木群落及生物量研究综述[J].成 都大学学报（自然科学版）,2007,26（3）：189－192.[Zheng Shaowei,Tang Min,Zou Junhui,et al. Summary of research on shrub biomass in China[J]. Journal of Chengdu University(Natural Science Edition）,2007,26(3) :189-192.] [2］李文华.森林生物生产量的概念及其研究的基本途径［J].自 然资源,1980(1）:71-92.［Li Wenhua.The concept and basic approach of forest biological production[J].Natural Resources,   \n1980(1) :71 -92.] [3］王军,何秉宇.阿尔泰山林下灌木生物量生长模型研究[J].安 徽农业科学,2017,45（36）:157-160.［Wang Jun,He Bingyu. Study on biomass estimation model of dominant woody shrubs in Altay Mountain[J]. Journal of Anhui Agricultural Sciences,2017,   \n45(36) :157 -160.] [4]吴永胜,马万里,李浩,等.内蒙古退化荒漠草原土壤有机碳和 微生物生物量碳含量的季节变化[J].应用生态学报,2010,21 (2):312 -316.[Wu Yongsheng,Ma Wanli,Li Hao,et al.Seasonal variations of soil organic carbon and microbial biomass carbon in degraded desert steppes of Inner Mongolia[J].Chinese Journal of Applied Ecology,2010,21(2） :312-316.] [5］黄琛,张宇,王静,等.不同放牧强度下短花针茅荒漠草原植被 的空间异质性[J].植物生态学报,2014,38（11)：1184-1193. [Huang Chen,Zhang Yu,Wang Jing,et al.Spatial heterogeneity of vegetation under different grazing intensities in a Stipa breviflora desert steppe[J].Chinese Journal of Plant Ecology,2014,38 (11):1184-1193.] [6]Cai TJ,Ju C Y,Yang X H.Comparison of ridge regression and partial least squares regression for estimating above-ground biomass with landsat images and terrain data in Mu Us sandy land,China [J].Arid Land Research and Management,2009,23（3）:248-   \n261. [7］涂宏涛,孙玉军,许昊,等.基于R非线性加权回归的灌木相容 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "性生物量模型[J].东北林业大学学报，2015，43（3):66-69. [TuHongtao,Sun Yujun,Xu Hao,et al.Compatible biomass models for shrub based on R nonlinear weighted regression[J].Journal ofNortheastForestryUniversity,2015,43（3）:66-69.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[8］闫文德,田大伦,何功秀.湖南会同第二代杉木人工林乔木层 生物量的分布格局[J].林业资源管理,2003（2)：5-7,12. [Yan Wende,Tian Dalun,He Gongxiu.Biomass distribution and dynamics of Chinese fir plantation in Huitong[J].Forest Resources Management,2003（2）:5-7,12.]   \n[9]Houghton R A,HallF,Goetz SJ. Importance of biomass in the global carbncycle[J].Journal of Geophysical Research: Biogeosciences,2009,114(G2).   \n[10］刘存琦.灌木植物量测定技术的研究[J].草业学报,1994,3 (4）:61-65.[Liu Cunqi.The study on techniques in determining shrub phytomass[J].Acta Prataculturae Sinica,1994,3(4） :61 - 65.]   \n[11］张峰,上官铁梁,李素珍.关于灌木生物量建模方法的改进 [J].生态学杂志,1993,12（6）:67-69.[Zhang Feng,Shangguan Tieliang,Li Suzhen.Improvement on the modeling method of biomass of brush[J].Chinese Journal of Ecology,1993,12(6）:67 -69.]   \n[12］卢振龙,龚孝生.灌木生物量测定的研究进展[J].林业调查规 划,2009,34（4）:37-40.[Lu Zhenlong,Gong Xiaosheng.Progress on the research of shrub biomass estimation[J].Forest Inventory and Planning,2009,34(4）:37 -40.]   \n[13］张倩媚,温达志.南亚热带常绿阔叶林林下层植物的生物量及 其测定方法的探讨[J].生态科学,2000,19（4）:62－66. [Zhang Qianmei,Wen Dazhi. Biomass estimation of the undergrowth plants in the lower subtropical evergreen broad-leaved forest [J].Ecological Science,2000,19(4）:62 -66.]   \n[14］万里强,李向林.长江三峡地区灌木生物量及产量估测模型 [J].草业科学,2001,18(5）:5-10,15.[Wan Liqiang,Li Xianglin.Studies on sowing forages and its utilization in pear orchard in autumn and winter[J].Pratacultural Science,2Oo1,18（5）:5- 10,15.]   \n[15］于应文,胡自治.金露梅灌丛净第一性生产力[J].草业学报, 2000,9（4）:33-39.[Yu Yingwen,Hu Zizhi. The net primary productivity of Potentilla fruticosa shrub[J].Acta Prataculturae Sinica,2000,9(4) :33-39.]   \n[16］王蕾,张宏,哈斯,等.基于冠幅直径和植株高度的灌木地上生 物量估测方法研究［J].北京师范大学学报（自然科学版）， 2004,40(5）:700-703.[Wang Lei,Zhang Hong,Ha Si,et al.A study on the estimating method of shrub upper biomass based on the crown diameter and plant height[J].Journal of Beijing Normal University(Natural Science Edition）,2004,40(5）:700-703.]   \n[17］刘玉冰,张腾国,李新荣,等.红砂（Reaumuria soongorica）忍耐 极度干旱的保护机制：叶片脱落和茎中蔗糖累积[J].中国科 学(C辑:生命科学）,2006,36（4）:328-33.[Liu Yubing, Zhang Tengguo,Li Xinrong,et al.Protective mechanism of Reaumuria soongorica（Reaumuria soongorica）enduring extreme ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "drought:leaf shedding and sucrose accumulation in stem[J]. Scientia Sinica(Vitae）,2006,36(4):328-333.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[18］曾慧卿，刘琪璟，冯宗炜，等.红壤丘陵区林下灌木生物量估算 模型的建立及其应用[J].应用生态学报，2007，18（10）：2185 -2190.[Zeng Huiqing,Liu Qijing,Feng Zongwei,et al.Estimation models of undergrowth shrub biomass and their application in red soil hilly region［J].Chinese Journal of Applied Ecology, 2007,18(10):2185-2190.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[19]Paton D,Nunez J,Bao D,et al.Forage biomass of 22 shrub species fromMonfrague Natural Park（SW Spain）assessed by log-log regression models[J].Journal of Arid Environments,20o2,52（2）： 223-231. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[20］王维枫，雷渊才，王雪峰,等.森林生物量模型综述[J].西北林 学院学报,2008,23（2）:58-63.[WangWeifeng,Lei Yuancai, WangXuefeng,etal.A review of forest biomass models[J]. Jour nal of Northwest Forestry University,2008,23(2）:58-63.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[21］曾伟生.国内外灌木生物量模型研究综述[J].世界林业研究，2015,28（1）:31-36.［Zeng Weisheng.A review of studies ofshrub biomass modeling[J].World Forestry Research,2015,28(1):31-36.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[22］陶冶，张元明.荒漠灌木生物量多尺度估测一以梭梭为例[J]. 草业学报,2013,22（6）:1-10.［Tao Ye,Zhang Yuanming. Multi-scale biomass estimation of desert shrubs:a case study of Haloxylon ammodendron in the Gurbantunggut Desert,China[J]. ActaPrataculturae Sinica,2013,22(6):1-10.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[23]Enquist BJ,West GB,Charnov EL,et al.Allometric scaling of production and life-history variation in vascular plants[J].Nature, 1999,401(6756):907. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[24]Niklas K J.Modelling below-and above-ground biomass for nonwoody and woody plants[J].Annals of Botany,2004,95(2）:315 -321. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[25］王俊峰，欧光龙，唐军荣，等.临沧膏桐种植区灌木群落生物量 估测模型研究[J].西部林业科学，2012，41（6）：53-58. [Wang Junfeng,Ou Guanglong,Tang Junrong,et al.Biomass estimation model of shrub community at Jatropha curcas growing area in Lincang of Yunnan[J]. Journal of West China Forestry Science, 2012,41(6):53 -58.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[26］黄劲松，邸雪颖.帽儿山地区6种灌木地上生物量估算模型 [J].东北林业大学学报,2011,39（5）：54-57.［HuangJin song,Di Xueying.Estimation model for biomass of typical shrubs in Maoershan Area,Heilongjiang[J]. Journal ofNortheastForestryUniversity,2011,39(5) :54-57.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[27］王少昆，赵学勇，贾昆峰，等.乌拉特荒漠草原小针茅（Stipaklemenzii)群落土壤细菌多样性及垂直分布特征[J].中国沙漠， 2016,36（6）:1564-1570.［Wang Shaokun,Zhao Xueyong,Jia Kunfeng,et al.Soil bacterial diversity and its vertical distribution inStipa klemenzii community of UradDesert Steppe[J]. Journal of DesertResearch,2016,36(6):1564-1570.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[28］赵学勇，刘良旭，王玮,等.降水波动对荒漠草原生产力的影响[J].中国沙漠,2014,34（6）:1486-1495.[Zhao Xueyong,Liu",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Liangxu,Wang Wei,et al.Impacts of precipitation change on desert-grassland vegetation productivity[J]. Journal of Desert Research,2014,34(6):1486-1495.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[29］吴旭东，谢应忠，徐坤，等.贺兰山东麓不同植株年限酿酒葡萄林生物量分配及估算模型[J].中国生态农业学报，2012，20(10）：1322 -1328.[Wu Xudong,Xie Yingzhong,Xu Kun,et al.Biomass allocation and estimation model at different planting agesof wine grape forest in east Helan Mountain[J].Chinese Journal ofEco-Agriculture,2012,20（10):1322-1328.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[30］李刚，赵祥，刘碧荣.晋北4种灌木地上生物量模型的构建 [J].林业资源管理,2014（1）:71-76.［LiGang,Zhao Xiang, Liu Birong.The construction of predicting model of aboveground biomass of four types of shrubs in Northern Shanxi Province[J]. Forest Resources Management,2014（1）:71-76.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[31］陈遐林,马钦彦,康峰峰,等.山西太岳山典型灌木林生物量及生产力研究[J].林业科学研究，2002，15（3）：304-309.［ChenXialin,Ma Qinyan,Kang Fengfeng,et al. Studies on thebiomassand productivity of typical shrubs in Taiyue Mountain,Shanxi Prov-ince[J].ForestResearch,2002,15（3）:304-309.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[32］王文栋，白志强,阿里木·买买提，等.天山林区6种优势灌木 林生物量比较及估测模型[J].生态学报,2016,36(9)：1-10. [Wang Wendong,Bai Zhiqiang,Alimu Maimaiti,et al.Biomass comparison and estimation models for six dominant species of woody shrubs in the forest zones of the Tianshan Mountains[J]. ActaEcologica Sinica,2016,36(9):1-10.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[33］刘陟，黄奇，周延林，等.毛乌素沙地油蒿生物量估测模型研究 [J].中国草地学报,2014,36(4）:24-30.[Liu Zhi,HuangQi, Zhou Yanlin,et al.Study on the models for estimating the biomass ofArtemisia ordosica in Mu Us Sandland[J].Chinese Journal of Grassland,2014,36(4):24 -30.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[34］林伟，李俊生，郑博福，等.井冈山自然保护区12种常见灌木生物量的估测模型[J].武汉植物学研究，2006，28（6）：725-729.[Lin Wei,Li Junsheng,Zhen Bofu,et al.Models for estima-ting biomass of twelve shrub species in Jinggang Mountain NatureReserve[J].Journal of Wuhan Botanical Research,2OO6,28（6）:725 -729.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[35］王庆锁.油蒿、中间锦鸡儿生物量估测模式[J].中国草地， 1994,16(1）:49-51.[Wang Qingsuo.Quantitative models of estimatingbiomass of Artemisia ordosica and Caragana inter-media [J].Grassland ofChina,1994,16(1）:49-51.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[36］唐守正，张会儒，胥辉.相容性生物量模型的建立及其估计方法研究［J].林业科学,2000,36（增刊）：19－27.［Tang",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Shouzheng,Zhang Huiru,Xu Hui.Study on establish and estimate method of compatible biomass model[J].Scientia Silvae Sinicae, 2000,36（Suppl.）:19-27.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[37］杨昊天，李新荣，王增如,等.腾格里沙漠东南缘4种灌木的生 物量预测模型[J].中国沙漠,2013,33(6）:1699-1704.[Yang Haotian,Li Xinrong,Wang Zengjia,et al.Biomass estimation models of four shrub species at southeastern edge of the Tegger Deser [J].Journal ofDesertResearch,2013,33（6）:1699-1704.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[38］党晓宏，高永，蒙仲举，等.西鄂尔多斯地区5种荒漠优势灌丛生物量分配格局及预测模型[J].中国沙漠，2017，37（1）：100-108.［Dang Xiaohong,Gao Yong,Meng Zhongju,et al.Biomassallocation patterns and estimation model of five desert shrub spe-ciesin West Ordos region[J].Journal of Desert Research,2017,37(1):100-108.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[39］种培芳,刘晟彤,姬江丽,等.模拟 $\\mathrm { C O } _ { 2 }$ 浓度升高和降雨量变化 对红砂生物量分配及碳氮特征的影响[J].生态学报，2018，38 (6）:2065-2O73.［Zhong Peifang,Liu Shengtong,Ji Jiangli,et al. Influence of elevated $\\mathrm { C O } _ { 2 }$ and precipitation regimes on biomass allocation and carbon and nitrogen content characteristicsof Reaumuria soongorica[J].Acta Ecologica Sinica,2018,38(6） :2065- 2073.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[40］周华,孟盛旺,刘琪璟.九连山39 种灌木与幼树地上生物量模型研究[J].南京林业大学学报（自然科学版），2017,41（2）：1-12.［Zhou Hua,Meng Shengwang,Liu Qijing.Allometric equa-tions for estimating aboveground biomass of saplings and shrubs insubtropical China[J].Journal of Nanjing Forestry University(Nat-ural SciencesEdition）,2017,41(2):1-12.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[41]Mandal G,Joshi S P.Estimation of above-ground biomass and carbon stock of an invasive woody shrub in the subtropical deciduous forests of Doon Valley,Western Himalaya,India［J].Journal of Forestry Research,2015,26(2） :291 -305. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[42］刘家琼，邱明新，蒲锦春，等.我国荒漠典型超旱生植物—红 砂[J].植物学报，1982,24（5）:485-488.［LiuJiaqiong,Qiu Mingxin,Pu Jinchun,etal.The typical extreme xerophyte: Reaumuria soongorica in the desert of China[J].Bulletin of Botany, 1982,24(5) :485-488.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[43］单立山，李毅，石万里，等.土壤水分胁迫对红砂幼苗生长和渗透调节物质的影响[J].水土保持通报，2015，35（6)：106-109.[Shan Lishan,Li Yi,Shi Wanli,et al.Effects of dehydrationstress on growth of Reaumuria Soongorica seedlings and regulationof osmotic substances[J].Bulletin of Soil and Water Conservation,2015,35(6):106-109.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Biomass prediction model for Reaumuria soongorica in the Urat desert steppe in Inner Mongolia ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LI Xiang-yun1²，YUE Ping¹，CHENG Huan13，GUO Xin-xin1.²，ZHAO Sheng-long1,2, ZHANG Sen-xi1.²， WANG Shao-kun1²， ZUO Xiao-an1 (1.UratDeeehttefoso; 2. University of Chinese Academy of Sciences,Beijing 100049,China ; 3．Sichuan Agricultural University,Chengdu 61oooo,Sichuan,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Reaumuria soongorica is aperennial semi-shrub that is widelydistributed in the semi-desert regions of China.It isone of the most typical plant species inarid desertsand shows excelent characteristics of soil fixation wind erosion prevention.Estimation of Reaumuria soongorica biomass is important for evaluating its ecological function in thedesert steppeand managing desert grasslands.Inthis context,a predictive model isone of the important methods to estimate $R$ 、soongorica biomass.Therefore,the full-digging method was used to obtain the biomass of aboveground parts and belowground roots of $R$ . soongorica in Urat desert steppe.Regression analysis with the relevant growth model（power function $\\boldsymbol { W } = \\boldsymbol { a } \\boldsymbol { X } ^ { b }$ ）was applied to construct the predictive models for biomass of the aboveground parts ( $\\left| \\hat { W } _ { 1 } \\right. ,$ ）,underground parts ( $\\textstyle \\ W _ { _ 2 }$ ）,and whole plant ( $\\mathbf { \\Omega } , \\mathcal { W } )$ ）based on plant height $( H )$ ,crown width $( C )$ ,and base diameter $( D )$ .Optimal biomass estimation models were then screened by comparing size of the discriminant coefficient $R ^ { 2 }$ . The results showed that （1） the estimation model $W _ { 1 } = 0 . 5 5 5 \\times C ^ { 1 . 8 6 7 } ( R ^ { 2 } = 0 . 8 6 6 )$ better reflected cumulative characteristics of the aboveground biomass of a single $R$ . soongorica plant;（2）the estimation model $W _ { 2 } = 2 . 2 5 9 \\times ( D ^ { 2 } H ) ^ { 0 . 7 6 2 }$ （ $R ^ { 2 } = 0 . 7 6 9$ ）bettr reflected cumulative characteristics of the underground biomass of $R$ ， soongorica;and （3）the estimation model $W = 7 . 0 5 7 \\times ( D ^ { 2 } H ) ^ { 0 . 8 1 3 } ( R ^ { 2 } = 0 . 8 5 9 )$ better reflected cumulative characteristics of the total biomass of $R$ . soongorica. These biomass models showed high precision and were easy to implement. Our data provide a scientific basis for evaluating the ecological function of $R$ . soongorica in Urat desert steppe and for accurately measuring the biomass of this species. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:desert steppe； Reaumuria soongorica; biomass； predictive model； Urat； Inner Mongolia",
+        "page_idx": 7
+    }
+]

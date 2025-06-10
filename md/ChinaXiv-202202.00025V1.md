@@ -1,0 +1,193 @@
+# 黄土高原粮食生产空间重构过程中的生态系统服务权衡以陕北榆林市为例
+
+杨海娟1，孙来玎¹，周美君¹，李飞1.2（1.西北大学城市与环境学院，陕西 西安710127;2.陕西省地表过程与环境承载力重点实验室，陕西 西安710127)
+
+摘要：粮食生产空间重构集中了土地系统变化的主要矛盾，探索粮食生产空间重构过程中的生态系统服务权衡变化有利于明确粮食安全、生态修复与经济发展之间的矛盾，从而推进区域生态文明建设和高质量发展。采用生态系统服务评估模型及均方根偏差法，对2000—2018年陕北榆林市粮食生产空间重构过程中的固碳、食物供给、土壤保持和产水服务及其权衡关系进行了分析。结果表明：(1)2000—2018年，退耕还林还草、城市扩张与毁林垦草是榆林市粮食生产空间重构的主要路径。(2)2000—2018年，榆林市粮食生产空间重构使得固碳及土壤保持两项服务显著提升，而对食物供给和产水服务产生了负面效应。其中，退耕还林还草促进了固碳与土壤保持服务的显著提升，对食物供给产生了负作用；城市扩张后，固碳、土壤保持、食物供给服务均呈下降趋势；毁林垦草则显著提升了食物供给服务。（3）粮食生产空间重构导致区域各服务间的权衡有所提升，然而,不同重构路径对生态系统服务权衡的影响有所差异：退耕还林还草、毁林垦草对固碳与食物供给、土壤保持，食物供给与土壤保持之间的权衡变化影响最为显著，城市扩张则在产水与其他服务的权衡中作用明显，不同重构路径导致的服务间相对收益的变化是权衡呈现不同变化规律的主要原因。
+
+关 键词：粮食生产空间重构；生态系统服务权衡；退耕还林还草；毁林垦草；城市扩张
+
+# 文章编号：
+
+粮食生产空间（耕地）城乡发展空间（建设用地)和生态服务空间(林草地、水域及未利用地)是从功能利用的角度对土地利用的再认知[1-2]。粮食生产与粮食安全自古以来都是关乎国计民生的大计，改革开放以来，随着经济快速发展与人口的急剧增加，我国粮食生产空间变化显著：由于城市化不断以密集的城市扩张和耕地流失为特征持续推进[3]，全国建设用地占用耕地的年均速率已由1990—2000年的每年约 $1 3 . 3 { \times } 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ,激增到2000—2010年的每年 $2 0 . 0 { \times } 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ 以上4；同时，退耕还林还草等生态修复工程导致耕地向林草地转换，相关研究表明，2000年以来，全国生态工程建设占用耕地的面积仅次于建设用地5；城市化和生态修复导致的耕地流失直接对粮食安全产生威胁，为保障粮食安全，部分生态服务功能较强的林草地又被开垦以补充耕地，城乡发展空间与生态服务空间之间的直接冲突较少，二者更多的是通过粮食生产空间重构发生间接转换，由此看来，我国粮食生产空间在不同利益主体对土地系统功能的主观权衡下，不断通过城市扩张、退耕还林还草、毁林垦草等方式，发生数量、质量和格局上的重构[8-10],在此过程中，水资源短缺、水土流失等生态问题日益凸显，深刻影响着居民的生计和福祉[11-12]
+
+生态系统服务是指生态系统所形成与维持的人类赖以生存的自然条件与效用[13]，不同服务间此消彼长的相互关系称为生态系统服务权衡[14]，明确生态系统服务权衡有利于生态系统服务管理决策，从而提升人类福祉[15]。目前，大部分学者对生态系统服务权衡的研究主要侧重于森林管理、退耕还林还草、城市扩张等某一单一的过程[16-18],而对粮食生产空间重构(退耕还林还草、城市扩张、毁林垦草)这一综合过程中的生态系统服务权衡关注并不高，粮食生产空间重构聚焦于粮食生产空间与城乡发展空间、生态服务空间交互作用强烈的区域，探究粮食生产空间重构过程中的生态系统服务权衡变化更能直观地反映出不同人类活动对生态系统服务及其权衡的影响，明确粮食生产空间重构的效应和机理，为土地资源的合理规划提供更有力的理论支撑。
+
+2000一2018年，榆林市作为退耕还林还草工程实施的重点区域，工程部署面积与力度超过黄土高原平均水平[19],粮食生产空间不断转换为生态服务空间;同时，随着能源产业不断升级，榆林市经济飞速发展，城乡发展空间随之持续扩张；另一方面，为了保障粮食安全，榆林市部分林草地被开垦补充耕地，粮食生产空间得以补充，在此过程中，榆林市粮食生产、经济发展与生态环境之间的矛盾愈发突出，生态系统服务权衡深受影响。因此，本文选择榆林市作为研究区域，采用全球农业生态区划模型（GAEZ模型）、InVEST产水量模块、CASA模型、修正通用土壤流失方程模型(RUSLE模型)和GIS空间制图等方法对榆林市2000—2018年粮食生产空间重构过程中的固碳、食物供给、土壤保持和产水服务的时空变化格局进行评估，并运用及均方根偏差(RMSD)法，对其粮食生产空间重构过程中的生态系统服务权衡的动态变化特征进行集成分析，为促进生态环境与人类社会高质量发展提供理论支撑。
+
+# 1研究区概况
+
+榆林市位于陕西省最北端，黄土高原中心腹地$( 3 6 ^ { \circ } 5 7 ^ { \prime } \sim 3 9 ^ { \circ } 3 4 ^ { \prime } \mathrm { N }$ ， $1 0 7 ^ { \circ } 2 8 ^ { \prime } \sim 1 1 5 ^ { \circ } 1 1 ^ { \prime } \mathrm { E } )$ ，总面积$4 3 5 7 8 \mathrm { k m } ^ { 2 }$ ,地貌以长城为界,北部为风沙草滩区，南部为黄土丘陵沟壑区，海拔高度 $5 8 9 { \sim } 1 8 9 5 \mathrm { ~ m }$ （图1)。气候类型为温带大陆性季风气候，多年平均气温变化范围为 $8 . 5 { \sim } 1 1 . 0 ~ \mathrm { ^ { \circ } C }$ ,多年平均降水量变化范围为 $3 5 0 { \sim } 5 5 0 ~ \mathrm { m m } ,$ 6—9月的降水量占全年降水量的 $7 5 \%$ 以上。土壤以风沙土、黄土为主,极易受到侵蚀[20]。土地利用以坡耕地、梯田、草地和林地为主,粮食作物以玉米、大豆为主，2000一2018年，榆林市种植业生产总值由 $7 9 . 3 1 \times 1 0 ^ { 8 }$ 元提升至 $3 8 4 8 . 6 2 \times 1 0 ^ { 8 }$ 元。早期，由于地表结构疏松、植物群落结构简单、降水分布集中和不合理的人类活动等原因导致榆林市水土流失严重、生态环境遭到严重破坏2；随着退耕还林还草等生态工程的实施及社会经济发展，粮食生产空间重构明显，相应地，各项生态系统服务也发生了变化。
+
+![](images/5b40397988d623a06e9391c7bd363777a7625194f61ad3a421c3291f7dd4c80e.jpg)  
+图1研究区概况  
+Fig.1 Overview of the study area
+
+# 2数据与方法
+
+# 2.1数据来源与处理
+
+本研究包含数据主要包含以下5类：（1）榆林市2000年和2018年的土地利用/覆被数据，来源于中国科学院资源环境科学数据中心发布的陕西省1:100000 比例尺土地利用数据(http://www.resdc.cn）,土地利用类型包括耕地、林地、草地、水域、居民地和未利用土地6个一级类型以及25个二级类型。(2）数字高程模型(DEM)数据，来源于地理国情监测云平台（http://www.dsac.cn），分辨率为 $3 0 \mathrm { ~ m ~ }$ 。(3)气象数据包括2000一2018年的降水量、气温、辐射等逐日逐月数据，来源于中国气象科学数据共享网（http://cdc.cma.gov.cn）。（4）土壤数据包括沙粒、粉粒、粘粒等来源于寒区旱区科学数据中心《基于世界土壤数据库(HWSD)的中国土壤数据集(v1.1)》（http://westdc.westgis.ac.cn）,分辨率为 $1 ~ \mathrm { k m }$ 。(5)采用最大值合成法合成归一化植被指数(NDVI)年值，其中，NDVI月值数据来源于美国地质勘探局(https://earthexplorer.usgs.gov/)的MODIS系列产品,分辨率为 $2 5 0 \mathrm { ~ m ~ }$ 。最后，利用ArcGIS10.2将所有空间数据
+
+# 干吴区地理
+
+统一投影至Albers投影坐标系，并处理成 $1 ~ \mathrm { k m }$ 的栅格进行分析。
+
+# 2.2生态系统服务量化及权衡方法
+
+本文在量化生态系统服务时，采用2000—2018年19a的气候数据平均值来计算各项生态系统服务，目的是消除气候波动对生态系统服务的影响，从而更有效地评价粮食生产空间重构对生态系统服务及其权衡的作用。具体计算过程如下：
+
+# 2.2.1生态系统服务量化模型
+
+（1）食物供给。本文选取GAEZ模型对区域食物供给能力进行评估，GAEZ模型先是根据降水、气温等气候条件来评价作物的气候适宜性，最后采用逐步限制法计算作物的生产潜力。GAEZ模型包含雨养和灌溉两种模拟情景，雨养条件下，仅考虑降水对作物产量的影响，而灌溉条件下则假设水分充足，通过集成雨养和灌溉两种条件下的粮食生产总潜力，再结合当年区域内的耕地比例计算区域实际的粮食生产潜力[22-23],具体计算公式如下:
+
+$$
+\mathrm { y i e l d } _ { \mathrm { a c t u a l } } = \mathrm { y i e l d } _ { \mathrm { t o t a l } } \times \mathrm { l u } \%
+$$
+
+$$
+\mathrm { y i e l d } _ { _ { \mathrm { t o t a l } } } = \mathrm { y i e l d } _ { _ { \mathrm { r a i n - f e d } } } \times \left( 1 - i \right) + \mathrm { y i e l d } _ { _ { \mathrm { i r r i g a t e d } } } \times i
+$$
+
+式中： $\mathrm { \ y i e l d } _ { \mathrm { a c t u a l } }$ 为像元的粮食生产潜力 $\left( \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 } \right)$ ！lu%为像元内的耕地比例；yieldtotal 、yieldrain-fed$\mathrm { \ y i e l d } _ { \mathrm { \scriptsize { i r r i g a t e d } } }$ 分别为粮食生产总潜力、雨养条件下的粮食生产潜力以及灌溉条件下的粮食生产潜力( $\mathrm { i } \mathrm { g }$ $\mathrm { { h m } } ^ { - 2 } \cdot \mathrm { { a } } ^ { - 1 } )$ ； $i$ 为有效灌溉面积与耕地总面积的比率，即灌溉率 $( \% )$ 。有效灌溉面积数据来源于陕西省统计局榆林市统计数据。
+
+（2）产水服务。产水服务采用InVEST模型中产水模块进行评估[24-26]。(3）固碳服务。固碳选取植被净初级生产力(NPP)对区域地上植被的固碳能力进行定量评估[27-29],采用改进的CASA模型进行估算。（4）土壤保持。土壤保持量的计算采用广为使用的RUSLE模型估算[30-32]
+
+2.2.2生态系统服务权衡量化方法均方根偏差(RMSD)法可以量化单个生态服务标准差与平均生态系统服务标准差之间的平均差异，描述离平均生态系统服务标准差的分散幅度，是量化任意2个或2个以上生态系统服务之间权衡度的一种简单而有效的方式[33-35],具体公式如下:
+
+$$
+\mathrm { E S } _ { \mathrm { s t d } } = \bigl ( \mathrm { E S } _ { i } - \mathrm { E S } _ { \mathrm { m i n } } \bigr ) \big / \bigl ( \mathrm { E S } _ { \mathrm { m a x } } - \mathrm { E S } _ { \mathrm { m i n } } \bigr )
+$$
+
+$$
+\mathrm { R M S D } = \sqrt { \frac { 1 } { ( n - 1 ) } { \sum _ { i = 1 } ^ { n } } \bigl ( \mathrm { E S } _ { \mathrm { s t d } } - \overline { { \mathrm { E S } } } _ { \mathrm { s t d } } \bigr ) ^ { 2 } }
+$$
+
+式中： $\mathrm { E S } _ { \mathrm { s t d } }$ 为归一化处理后的生态系统服务； ${ \mathrm { E S } } _ { i }$ 为第 $i$ 种生态系统服务； $\mathrm { E S } _ { \mathrm { m a x } }$ 、 $ { \mathrm { E S } } _ { \mathrm { m i n } }$ 分别为生态系统服务的最大值和最小值;RMSD为均方根偏差； $n$ 为生态系统服务数量； $\overline { { \mathrm { E S } } } _ { \mathrm { s t d } }$ 为归一化处理后生态系统服务的平均值。RMSD越大，权衡度越大。
+
+# 3结果与分析
+
+# 3.1粮食生产空间重构的时空特征
+
+为清晰表达2000—2018年榆林市粮食生产空间重构特征，本文利用ArcGIS10.2对两期土地利用数据进行叠加分析，并提取退耕还林还草(耕地 $$ 林草地）、毁林垦草(林草地 $$ 耕地）城市扩张（耕地 $$ 建设用地)及其他(耕地 $$ 水域；建设用地、水域 $\stackrel { \cdot } { \longrightarrow }$ 耕地)图斑形成粮食生产空间重构路径示意图（图2)。结果显示，2000—2018年，由于退耕还林还草的实施,榆林市共有 $1 4 6 2 . 1 7 ~ \mathrm { k m } ^ { 2 }$ 耕地转换为林草地，占粮食生产空间转出面积的 $6 1 . 3 0 \%$ ;同时，在城镇化的推进下，共有 $2 3 9 . 5 6 ~ \mathrm { k m } ^ { 2 }$ 耕地转换为建设用地，占粮食生产空间转出面积的 $1 0 . 0 4 \%$ ;为了保护耕地、保障粮食安全，榆林市开垦 $6 8 3 . 5 4 \mathrm { ~ k m } ^ { 2 }$ 林草地以补充耕地，占到新增粮食生产空间的 $7 5 . 4 8 \%$ ,榆林市退耕还林还草面积分别为城市扩张和毁林垦草的6.10和2.14倍。
+
+从空间分布上看，2000—2018年，榆林市退耕还林还草生态工程建设区广泛分布于市域中部及东部黄河沿岸;毁林垦草区主要集中在市域西南角的传统农业种植区，并且逐渐由西南角向东北一带扩张;城市扩张区则呈零星分布，无明显的大面积扩张。由此看来，退耕还林还草是导致榆林市粮食生产空间在数量和格局发生重构的最主要路径
+
+![](images/223783a1f33fb74b85f9fe4b0f51c484535e620e5fbe183fce16131251a16b3f.jpg)  
+图2 2000—2018年榆林市粮食生产空间重构格局Fig.2 Pattern of grain production space reconstruction inYulin City from 2000 to 2018
+
+# 3.2生态系统服务时空变化特征
+
+分析结果表明，在气候条件不发生变化的背景下，2000一2018年，榆林市粮食生产空间重构使得固碳及土壤保持两项服务有所提升，而对食物供给和产水服务产生了负面效应。从具体数值来看(表1),2000年，粮食生产重构区域固碳服务平均为$3 1 4 . 5 0 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ ,至2018年提升为 $3 1 8 . 1 1 \mathrm { \ g C } \cdot \mathrm { m } ^ { - 2 }$ ：$\mathbf { a } ^ { - 1 }$ ;相应的，土壤保持能力提升是2000年的1.09倍。另一方面，榆林市粮食生产重构区的食物供给与产水两项服务小幅下降，2000年重构区食物供给能力为 $1 0 8 8 . 7 7 \mathrm { k g \cdot h m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ,2018年下降至1002.10$\mathbf { k g } \cdot \mathbf { h m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 }$ ，而2018年的产水能力相比于2000年，减少量仅为 $0 . 2 2 \ \mathrm { m m ^ { \bullet } a ^ { - 1 } }$ 。
+
+通过对比分析榆林市粮食生产空间重构的3种主要路径所导致的生态系统服务变化量可知，在不同的重构路径中，各项服务的变化规律各不相同(表1)。其中，退耕还林还草工程实施后，对应区域的固碳、土壤保持与产水服务均有所提升；而退耕后，食物供给服务下降最为显著，2018年对应区域食物供给服务仅为2000年的 $6 4 \%$ ,主要是由于林草地提供生态调节型服务的能力大于耕地，而其提供食物的能力则远小于耕地。
+
+城市扩张后，固碳、土壤保持与食物供给服务均有所下降，食物供给服务下降最为显著，说明城市扩张不仅减弱了生态调节型服务的能力，而且对食物供给也产生了负面影响；而在城市扩张后，产水能力显著提升，这主要是由于建设用地下垫面透水性较差减少了水量下渗[26]，导致产水量增高。毁林垦草后，食物供给服务显著提升，但固碳与土壤保持服务均处于下降水平，说明以毁林垦草的方式开垦耕地虽然保障了粮食生产，但不利于维持生态系统的平衡。
+
+从空间分布上看(图3)，2000—2018年，东部黄河沿岸的退耕还林还草区域固碳服务显著增加，食物供给下降明显，产水与土壤保持服务变化不明显；西南角毁林垦草区食物供给服务有所提升，其他服务均处于下降状态;2000年，榆林市粮食生产重构区产水高值区广布，至2018年，除城市扩张区外,其他重构区域产水能力均有所下降，其中，西南部毁林垦草区下降最为明显。
+
+# 3.3生态系统服务权衡变化特征
+
+根据各服务对之间的RMSD计算结果可知（图4)，2000一2018年，榆林市粮食生产空间重构的过程中，固碳与土壤保持、食物供给与产水服务之间的权衡度有所下降，其他服务对之间的权衡度均有所增加，其中，食物供给与土壤保持之间的权衡度增量最大，为0.101,其次是固碳与食物供给，为0.088；而食物供给与产水服务之间权衡度下降最为明显。
+
+具体到不同的重构路径中，不同服务对之间的权衡关系呈现出不同的特点。其中，退耕还林还草使得区域固碳与食物供给、食物供给与土壤保持、土壤保持与产水服务之间的权衡度增加，固碳与食物供给之间的权衡度增量最大，为0.318;固碳与土壤保持、食物供给与产水服务、固碳与产水服务之间的权衡度下降。城市扩张后，固碳与食物供给、固碳与土壤保持之间的权衡度增强，其他服务之间的权衡度均有所下降，其中，固碳与食物供给之间的权衡度增量最大，为0.130；固碳与产水服务之间的权衡度下降最为明显，为-0.255。毁林垦草后，固碳与土壤保持、固碳与产水服务、食物供给与产水服务之间权衡度有所增加，固碳与食物供给、食物
+
+表1榆林市粮食生产空间重构过程中生态系统服务变化情况  
+Tab.1 Value change of ecosystem services during the grain production space reconstruction i   
+
+<html><body><table><tr><td rowspan="2">重构路径</td><td colspan="3">固碳/g C·m2·a-1</td><td colspan="3">产水量/mm·a−</td><td colspan="3">土壤保持/t·hm-2·a-</td><td colspan="3">食物供给/kg·hm2·a1</td></tr><tr><td>2000年</td><td>2018年</td><td>变化量</td><td>2000年</td><td>2018年</td><td>变化量</td><td>2000年</td><td>2018年</td><td>变化量</td><td>2000年</td><td>2018年</td><td>变化量</td></tr><tr><td>重构整体</td><td>314.50</td><td>318.11</td><td>3.61</td><td>133.88</td><td>133.66</td><td>-0.22</td><td>25.44</td><td>27.67</td><td>2.24</td><td>1088.77</td><td>1002.10</td><td>-86.66</td></tr><tr><td>退耕还林还草</td><td>317.67</td><td>322.55</td><td>4.88</td><td>123.92</td><td>137.03</td><td>13.11</td><td>25.54</td><td>31.48</td><td>5.94</td><td>1266.34</td><td>811.32</td><td>-455.02</td></tr><tr><td>城市扩张</td><td>315.75</td><td>307.50</td><td>-8.25</td><td>123.21</td><td>159.66</td><td>36.45</td><td>24.71</td><td>20.82</td><td>-3.89</td><td>1278.65</td><td>919.01</td><td>-359.64</td></tr><tr><td>毁林垦草</td><td>321.03</td><td>316.20</td><td>-4.83</td><td>144.67</td><td>120.28</td><td>-24.39</td><td>30.37</td><td>24.31</td><td>-6.06</td><td>821.62</td><td>1342.53</td><td>520.91</td></tr></table></body></html>
+
+![](images/0ca0e6c0a0df43228dcc87c2ddac7c2e017303d005ac95041f7032efa9e65775.jpg)  
+  
+图3榆林市粮食生产空间重构过程中的生态系统服务时空变化格局
+
+Fig.3Spatial patterns of ecosystem services during the grain production space reconstruction in Yulin City
+
+(a)固碳-食物供给 (b)固碳-土壤保持 (c)固碳-产水量0.5 ●-2000年 --2018年 0.5 ●2000年-2018年 0.5 2000年 +-2018年0.4 0.395 0.374 0.4 0.4 0.328 0.33002031 0.312 62640.5038 0.1800.091 0.121 0.124 0.1330.077 C 0.0780.0 0.051 0.017 0.0 0.038 0.048 0.0 0.057粮食生产退耕还 城市 毁林 粮食生产退耕还 城市 毁林 粮食生产退耕还 城市 毁林空间重构 林还草 扩张 垦草 空间重构 林还草 扩张 垦草 空间重构 林还草 扩张 垦草重构路径 重构路径 重构路径(d)食物供给-土壤保持 (e)食物供给-产水量 (f)土壤保持-产水量0.5 －2000年-2018年 0.5 -2000年-2018年 0.5 2000年-2018年0.4 0.357 0.4 0.40 0.326 28 0.251 0.261 0.313 ： 28 0.2770.208 . 0.216. . 0.1921 .0.1 0.160 Q.070 0.116 0.10.099 O . 0.1 0.158 0.207 0.1970.059 0.048 0.080 0.124 0.110 0.0670.0 0.044 0.057 0.0 0.0粮食生产退耕还 城市 毁林 粮食生产退耕还城市 毁林 粮食生产退耕还 城市 毁林空间重构 林还草 扩张 垦草 空间重构 林还草扩张 垦草 空间重构 林还草扩张 垦草重构路径 重构路径 重构路径注：RMSD表示均方根偏差。
+
+供给与土壤保持、土壤保持与产水服务之间的权衡度均有所减少。
+
+综上所述，2000—2018年，榆林市粮食生产空间重构所导致的服务间权衡的变化与具体到每一种重构路径所导致的变化存在差异，通过RMSD制图可进一步有效分析各服务间权衡差异存在的原因。
+
+在榆林市粮食生产重构过程中，固碳与其他服务的权衡关系中，其相对收益始终处于优势方，虽然毁林垦草与城市扩张提高了食物供给与产水服务的收益，减小了二者与固碳服务的权衡，但并没有使服务收益方发生变化(图5);同时，相比于固碳与食物供给、产水服务，固碳与土壤保持的权衡关系在粮食生产空间重构过程中最稳定，且趋于零权衡。
+
+退耕还林还草与毁林垦草对固碳与土壤保持、食物供给之间的权衡变化影响最为显著，原因是退耕还林还草大幅减小了前者相对收益间的差异，使得二者趋于平衡与稳定，但扩大了后者之间的差异，从而导致前者权衡减弱，后者增强；而毁林垦草作为退耕还林还草的逆过程，其对上述服务间权衡关系的作用与退耕还林还草恰恰相反。此外，在退耕还林还草的作用下，食物供给与土壤保持之间的服务收益方由食物供给转变为土壤保持，毁林垦草对二者间权衡的作用结果也与退耕还林还草相反。
+
+城市扩张在产水与其他服务的权衡关系中的作用最为明显。其中，城市扩张减小了固碳与产水服务之间的收益差异，使得权衡降低；同时，土壤保持与产水服务的权衡变化也说明仅在城市扩张后，服务收益方发生显著变化。
+
+综上所述，退耕还林还草、毁林垦草使得固碳与土壤保持、食物供给，食物供给与土壤保持之间的权衡变化最为显著，而城市扩张则在固碳、食物供给、土壤保持与产水服务的权衡中作用明显，分析其原因，主要是因为退耕还林还草、城市扩张、毁林垦草3种重构路径在不同程度上扩大或缩小了服务间相对收益的差异，不断影响着服务间相对收益的动态平衡，从而导致服务间权衡出现了或正或负的变化。
+
+# 干旱区地理
+
+![](images/26e31ffeafcb06e473492d06ef3fba620a58f606dfcdcba029b1b0960d8f6b42.jpg)  
+注：图中横轴与纵轴分别表示两项服务的相对收益，红圈表示重构发生前服务间的权衡，蓝圈表示重构完成后服务间的权衡，圆圈重心到对角线的距离为权衡度，距离越远权衡度越大，同时，数据圈相对于对角线的位置代表哪一种生态系统服务收益更多。  
+图5粮食生产空间重构过程中生态系统服务权衡变化示意图  
+Fig.5Changes of the tradeoff between ecosystem services during the grain production space reconstruct
+
+# 4讨论
+
+粮食生产空间重构聚焦于粮食生产空间与城乡发展空间、生态服务空间交互作用强烈的区域，集中了土地系统变化的主要矛盾，探究粮食生产空间重构过程中生态系统服务间权衡的变化特征，有利于明确粮食生产空间重构效应与机理，从而为土地资源管理决策时提供信息参考[36-37]。本文首先利用2000年和2018年两期土地利用数据的空间叠加结果对榆林市粮食生产空间重构的时空特征进行了展示与分析，2000—2018年，榆林市建设用地扩张与退耕还林还草面积占到粮食生产空间转出面积的 $7 1 . 3 4 \%$ ；为保证粮食安全，毁林垦草开垦耕地占新增粮食生产空间的3/4。在此过程中，退耕还林还草虽然提升了调节型服务(固碳、土壤保持)的能力，但也对供给型服务(食物供给、产水)产生了负面影响;毁林垦草作为退耕还林还草的逆过程，有效地提升了食物供给能力，但由于榆林市退耕还林还草的规模远大于毁林垦草，榆林市粮食生产空间重构的最终结果还是导致食物供给呈现下降趋势；城市扩张不仅导致食物供给下降，而且也降低了生态系统服务调节能力，粮食生产空间与城乡发展空间、生态服务空间之间的矛盾冲突愈演愈烈
+
+目前，大部分关于生态系统服务权衡的研究均以某一单一的土地利用变化过程评估生态系统服务及其权衡的变化[38],在单一的过程中，生态系统服务间的权衡关系的判别相对简单，然而，在对综合过程进行系统性分析时，各项服务间的权衡变化可能会呈现出不同的规律与特征。Pan等[17]学者提出草地向农田的转变可能会引发粮食供给与土壤保持之间的权衡,杨晓楠等[18]学者提出NPP、保水量与土壤侵蚀量在城镇用地快速扩张的情景下呈现此消彼长的权衡态势，但在其评价过程中仍存在对权衡量化不足、对气候因子缺乏控制等问题。本文采用生态系统服务评估模型及RMSD法，对2000一2018年陕北榆林市不同粮食生产空间重构路径中的生态系统服务时空变化格局及其权衡所呈现出的动态变化特征进行了对比分析，测算过程中，采用 $1 9 \mathrm { ~ a ~ }$ 气候数据平均值以表征气候条件不发生变化，从而突出粮食生产空间重构对生态系统服务权衡的影响，同时，运用RMSD法准确的量化了服务间权衡，直观地反映出了服务间权衡在粮食生产空间重构过程中的变化特征。当粮食生产空间重构的结果是区域生态服务空间剧增时，会破坏生态系统服务间的约束阈值效应[39-40]，从而导致生态系统服务间的权衡增强。退耕还林还草、毁林垦草使得固碳与土壤保持、食物供给，食物供给与土壤保持之间的权衡变化最为显著，而城市扩张则在固碳、食物供给、土壤保持与产水服务的权衡中作用明显。
+
+本文深人探讨了粮食生产空间重构过程中生态系统服务权衡的变化，但仍存在一定的不确定性。首先，本研究在评估生态系统服务的过程中，结合榆林市实际生态环境情况进行对模型的相关参数进行了多次修正，但仍存在土壤等数据可获取性较低以及栅格尺度转换问题，可能导致了土壤保持和产水2个涉及土壤数据的模型结果精度的下降；其次，粮食生产空间是指以生产粮食为主要功能的土地系统，本研究所采用的土地利用数据中，耕地的主要功能为粮食生产，因而采用耕地表征粮食生产空间，但在现实情况中，土地具有多功能属性，一种土地利用类型可以具备多种土地利用功能[1],因此，实际情形中耕地与粮食生产空间并非完全耦合，进而可能导致研究结果会存在一定偏差，拟将在今后的研究中采用更加严密的土地利用分类体系划分粮食生产空间、城乡发展空间与生态服务空间，此外，如何运用生态系统服务权衡这项工具进一步揭示粮食生产空间重构效应及机理,仍是本研究今后要深入的重要命题。
+
+# 5结论
+
+本文利用2000年及2018年数据，分析了榆林市粮食生产空间重构过程中固碳、食物供给、土壤保持和产水服务的时空变化特征，对上述4对服务间的权衡进行了定量测度，并探讨了粮食生产重构对生态系统服务权衡的影响，主要结论如下：
+
+（1）2000一2018年，退耕还林还草、城市扩张与毁林垦草是榆林市粮食生产空间重构的主要路径，建设用地扩张占粮食生产空间转出面积的 $1 0 . 0 4 \%$ ·退耕还林还草面积占粮食生产空间转出面积的$6 1 . 3 0 \%$ ;毁林垦草开垦耕地占新增粮食生产空间的$7 5 . 4 8 \%$ 。
+
+(2）2000—2018年，榆林市退耕还林还草显著提高了固碳、土壤保持等调节型生态系统服务，减少了食物供给服务；而毁林垦草作为退耕还林还草的逆过程，除了产水服务外，对其他生态系统服务的作用效果与退耕还林还草截然相反;城市扩张普遍弱化了区域固碳、土壤保持、食物供给的能力，但促进了产水能力的提升。
+
+（3）榆林市粮食生产空间重构的过程中，固碳与土壤保持、食物供给与产水服务之间的权衡度有所下降，其他服务对之间的权衡均有所增强；退耕还林还草、毁林垦草使得固碳与土壤保持、食物供给，食物供给与土壤保持之间的权衡变化最为显著，而城市扩张在固碳、食物供给、土壤保持与产水服务的权衡中作用明显。
+
+# 参考文献(References)
+
+[1]刘继来,刘彦随,李裕瑞.中国"三生空间"分类评价与时空格局 分析[J].地理学报,2017,72(7):1290-1304.[Liu Jilai,Liu Yansui,Li Yurui. Classification evaluation and spatial-temporal analysis of “production-living-ecological”spaces in China[J].Acta Geographica Sinica,2017,72(7): 1290-1304.]   
+[2] 李广东,方创琳.城市生态-生产-生活空间功能定量识别与分 析[J].地理学报,2016,71(1):49-65.[Li Guangdong,Fang Chuanglin.Quantitative function identification and analysis of urban ecological-production-living spaces[J].Acta Geographica Sinica, 2016,71(1): 49-65.]   
+[3] Tu Y,Chen B,Yu L,et al.How does urban expansion interact with cropland loss? A comparison of 14 Chinese cities from 1980 to 2015[J]. Landscape Ecology,2020,36(1): 243-263.   
+[4] 刘纪远,匡文慧,张增祥,等.20世纪80年代末以来中国土地利 用变化的基本特征与空间格局[J].地理学报,2014,69(1):3- 14.[Liu Jiyuan, Kuang Wenhui, Zhang Zengxiang,et al. Spatiotemporal characteristics,patterns and causes of land use changes in China since the late $1 9 8 0 \mathrm { s } [ \mathrm { J } ]$ 、Acta Geographica Sinica,2014, 69(1): 3-14.]   
+[5] 刘纪远,宁佳,匡文慧，等.2010一2015年中国土地利用变化的 时空格局与新特征[J].地理学报,2018,73(5):789-802.[Liu Jiyuan,Ning Jia,Kuang Wenhui,etal. Spatio-temporal patterns and characteristics of land-use change in China during 2O1O—2015[J].
+
+# 干吴区地理
+
+Acta Geographica Sinica,2018,73(5): 789-802.]   
+[6]柯新利,唐兰萍.城市扩张与耕地保护耦合对陆地生态系统碳 储量的影响——以湖北省为例[J].生态学报,2019,39(2):672- 683.[Ke Xinli, Tang Lanping. Impact of cascading processes of urban expansion and cropland reclamation on the ecosystem of a carbon storage service in Hubei Province,China[J].Acta Ecologica Sinica,2019,39(2): 672-683.]   
+[7]Caroline H, Helen S,Bhaskar V. Creating win-wins from tradeoffs? Ecosystem services for human well-being: A meta-analysis of ecosystem service trade-ofs and synergies in the real world[J]. Global Environmental Change,2014,28: 263-275.   
+[8]龙花楼.论土地整治与乡村空间重构[J].地理学报,2013,68(8): 1019-1028.[Long Hualou. Land consolidation and rural spatial restructuring[J]. Acta Geographica Sinica, 2013,68(8): 1019-1028.]   
+[9]邓春,王成,王钟书.乡村农业生产空间重构的共生理论适用性 研究.广西师范学院学报(自然科学版)[J].2017,34(1):113- 117.[Deng Chun, Wang Cheng,Wang Zhongshu. Study on the applicability of symbiosis theory for rural production space restructuring[J]. Journal of Guangxi Teachers Education University (Natural Science Edition),2017,34(1): 113-117.]   
+[10]Li F,Qin Z X,Liu X L,et al. Grain production space reconstruction and land system function tradeofs in China[J]. Geography and Sustainability,2021,2(1): 22-30.   
+[11] 李恒吉,曲建升,庞家幸,等.甘肃省人口-经济-社会-资源-环 境系统耦合协调及可持续发展时空综合测度研究[J.干旱区 地理,2020,43(6):1622-1634.[Li Hengji,Qujansheng,Pang Jiaxing,et al. Spatial-temporal synthetic measurement of coupling coordination and sustainable development of population-economysociety-resource environment system in Gansu Province[J]. Arid Land Geography,2020,43(6): 1622-1634.]   
+[12] 郝梦雅,任志远,孙艺杰,等.关中盆地生态系统服务的权衡与 协同关系动态分析[J].地理研究,2017,36(3):592-602.[Hao Mengya,Ren Zhiyuan,Sun Yijie,et al. The dynamic analysis of trade-off and synergy of ecosystem services in the Guanzhong Basin[J]. Geographical Research,2017,36(3): 592-602.]   
+[13]Daily G C.Nature's services: Societal dependence on natural ecosystems[M]. Washington DC: Island Press,1997: 1-20.   
+[14]Adrienne G,Celio E, Klein T M, et al. Understanding ecosystem services trade-offs with interactive procedural modeling for sustainable urban planning[J]. Landscape and Urban Planning,2013,109 (1): 107-116.   
+[15]李睿倩,李永富,胡恒.生态系统服务对国土空间规划体系的理 论与实践支撑[J].地理学报,2020,75(11):2417-2430.[Li Ruiqian,Li Yongfu, Hu Heng.Support of ecosystem services for spatial planning theory and practice[J].Acta Geographica Sinica,2020,75 (11): 2417-2430.]   
+[16]Pickard BR,Van Berkel D,Petrasova A,et al.Forecasts of urbanization scenarios reveal trade-offs between landscape change and ecosystem services[J].Landscape Ecology,2017,32(3): 617-634.   
+[17]Pan Y,Wu J,Xu Z.Analysis of the tradeofs between provisioning and regulating services from the perspective of varied share of net primary production in an alpine grassland ecosystem[J]. Ecological Complexity,2014,17: 79-86.   
+[18] 杨晓楠,李晶,秦克玉.关中-天水经济区生态系统服务的权衡 关系[J].地理学报,2015,70(11): 1762-1773.[Yang Xiaonan,Li jing,Qin Keyu.Trade-offs between ecosystem services in Guanzhong-Tianshui Economic Region[J].Acta Geographica Sinica, 2015, 70(11): 1762-1773. ]   
+[19] 刘文超,刘纪远,匡文慧.陕北地区退耕还林还草工程土壤保护 效应的时空特征[J].地理学报,2019,74(9):1835-1852.[Liu Wenchao,Liu Jiyuan, Kuang Wenhui. Spatiotemporal patterns of soil protection effect of the Grain for Green Project in northern Shaanxi[J]. Acta Geographica Sinica,2019,74(9): 1835-1852.]   
+[20] 高万辉,范少言.浅议榆林市地域生态环境建设[J].人文地理, 2002,17(2):35-37.[Gao Wanhui,Fan Shaoyan.A study on the construction of regional ecological environment in Yulin City[J]. Human Geography,2002,17(2): 35-37.]   
+[21] Jia XQ,FuBJ, Feng X M,etal.The tradeoff and synergy between ecosystem services in the Grain-for-Green areas in northern Shaanxi, China[J]. Ecological Indicators,2014,43: 103-113.   
+[22] 王莺莺,张依婧,李飞,等.作物生产潜力变化的区域差异- 以陕西省为例[J].干旱区地理,2019,42(3): 615-624.[Wang Yingying, Zhang Yijing,LiFei,etal.Regional difference in crop production potential change: A case study of Shaanxi Province[J]. Arid Land Geography,2019,42(3): 615-624.]   
+[23] 刘洛,徐新良,刘纪远,等.1990—2010年中国耕地变化对粮食 生产潜力的影响[J].地理学报,2014,69(12):1767-1778.[Liu Luo,Xu Xinliang,Liu Jiyuan, et al. Impact of farmland changes on production potential in China during recent two decades[J]. Acta Geographica Sinica,2014,69(12): 1767-1778.]   
+[24]Donohue RJ,Roderick ML,Mcvicar TR.Roots,storms and soil pores: Incorporating key ecohydrological processes into Budyko’s hydrological model[J]. Journal of Hydrology,2012,436:35-50.   
+[25]Yang H, Yang D,Lei Z,et al.New analytical derivation of the mean annual water- energy balance equation[J]. Water Resources Research,2008,44(3): 1-9.   
+[26] 窦攀烽,左舒翟,任引,等.气候和土地利用/覆被变化对宁波地 区生态系统产水服务的影响[J].环境科学学报,2019,39(7): 2398-2409.[Dou Panfeng, Zou Shudi,Ren Yin,et al. The impacts of climate and land use/cover changes on water yield service in Ningbo region[J].Acta Scientiae Circumstantiae,2019,39(7): 2398-2409.]   
+[27] 任志远,刘焱序.西北地区植被净初级生产力估算模型对比与 其生态价值评价[J].中国生态农业学报,2013,21(4):494-502. [Ren Zhiyuan, Liu Yanxu. Contrast in vegetation net primary productivity estimation models and ecological effct value evaluation in northwest China[J]. Chinese Journal of Eco- Agriculture, 2013, 21(4): 494-502.] [28]周广胜,张新时.自然植被净第一性生产力模型初探[J].植物生 态学报,1995,19(3):193-200.[Zhou Guangsheng,Zhang Xinshi. A natural vegetation NPP model[J]. Journal of Plant Ecology,   
+1995,19(3): 193-200.] [29] 朱文泉,潘耀忠,张锦水.中国陆地植被净初级生产力遥感估算 [J].植物生态学报,2007,31(3):413-424.[Zhu Wenquan,Pan Yaozhong,Zhang Jinshui. Estimation of net primary productivity of Chinese terrestrial vegetation based on remote sensing[J]. Journal of Plant Ecology,2007,31(3): 413-424.] [30]ZhangHM,Yang Q K,LiR,et al.Extension of a GIS procedure for calculating the RUSLE equation LS factor[J].Computers & Geosciences,2013,52:177-188. [31] 高海东,李占斌,李鹏,等.基于土壤侵蚀控制度的黄土高原水 土流失治理潜力研究[J].地理学报,2015,70(9):1503-1515. [Gao Haidong,Li Zhanbin,Li Peng,et al. The capacity of soil loss control in the Loess Plateau based on soil erosion control degree [J].Acta Geographica Sinica,2015,70(9): 1503-1515.] [32] 潘竟虎,李真.干旱内陆河流域生态系统服务空间权衡与协同 作用分析[J].农业工程学报,2017,33(17):280-289.[Pan Jinghu,Li Zhen.Analysis on trade-offs and synergies of ecosystem services in arid inland river basin[J]. Transactions of the Chinese Society of Agricultural Engineering (Transactions of the CSAE),   
+2017,33(17): 280-289.] [33] 傅伯杰,于丹丹.生态系统服务权衡与集成方法[J].资源科学,   
+2016,38(1):1-9.[Fu Bojie,Yu Dandan. Trade-off analyses and synthetic integrated method of multiple ecosystem services[J].Resources Science,2016,38(1): 1-9.] [34]Bradford JB,D'Amato A W.Recognizing trade-os in multi-objective land management[J]. Frontiers in Ecology and the Environment,2012,10(4): 210-216.   
+[35]Lu N,Fu BJ, Jin TT,et al. Trade-off analyses of multiple ecosystem services by plantations along a precipitation gradient across Loess Plateau landscapes[J]. Landscape Ecology，2014,29(10): 1697-1708.   
+[36]Rodriguez JP,Beard T D,Bennett E M,et al.Trade-offs across space,time,and ecosystem services[J]. Ecology and Society,2006, 11(1): 28,doi: 10.5751/ES-01667-110128.   
+[37] Caroline H,Helen S,Bhaskar V. Creating win-wins from tradeoffs?Ecosystem services for human well-being:A meta-analysis of ecosystem service trade-offs and synergies in the real world[J].Global Environmental Change,2014,28: 263-275.   
+[38] 王鹏涛,张立伟,李英杰,等.汉江上游生态系统服务权衡与协 同关系时空特征[J].地理学报,2017,72(11):2064-2078.[Wang Pengtao,Zhang Liwei,Li Yingjie,et al. Spatiotemporal characteristics of the trade-off and synergy relationships among multiple ecosystem services in the upper reaches of Hanjiang River Basin [J].Acta Geographica Sinica,2017,72(11): 2064-2078.]   
+[39] 宋静雪,周忠学.关中平原典型村落农业转型对生态系统服务 的影响研究[J].干旱区地理,2020,43(3):807-819.[Song Jingxue,Zhou Zhongxue.Impact of agricultural transformation of typical villages in Guanzhong Plain on agro-ecosystem services[J].Arid Land Geography,2020,43(3): 807-819.]   
+[40]Hao RF,Yu DY,WuJG.Relationship between paired ecosystem services in the grassland and agro-pastoral transitional zone of China using the constraint line method[J].Agriculture,Ecosystems & Environment, 2017,240: 171-181.
+
+# Trade-off analyses of ecosystem services during the reconstruction of grain production space in Loess Plateau: A case of Yulin City
+
+YANG Haijuan'， SUN Laiding'， ZHOU Meijun'， LI Fei1² (1. College of Urbanand Environmental Sciences,Northwest University,Xi'an 71Ol27,Shaanxi, China; 2.ShaanxiKeyLaboratoryofEarthSurface SystemandEnvironmentalCaryingCapacity,Xi'anOl27,Shaanxi,China)
+
+Abstract: Grain production space reconstruction (GPSR) concentrates on the main contradictions in land system change.Exploring the trade-off of ecosystem services (ESs) in the process of GPSR scientifically is conducive to clarifying the contradictionsamong food security,ecological restoration,and economic development,and to promoting the construction and high-quality development of a regional ecological civilization.This research uses the evaluation model of ESs,root mean square deviation,and the method of mathematical statistics to conduct spatiotemporal comprehensive measurement of the trade-ofs between ESs during GPSR in Yulin City of Shaanxi Province in China.The conclusions are as follows: (1)From 20o0 to 2018,Grain for Green,deforestation and reclamation,and urban expansion were the main paths of the GPSR in Yulin.(2)From 2000 to 2018,carbon sequestration and soil conservation improved significantly during the GPSR,but the change of food supply and water yield exhibited the opposite trend.Grain for Green project promoted carbon sequestration and soil conservation significantly,and had a negative effect on food supply. Carbon sequestration,soil conservation,and food supply showed a downward trend after urban expansion.Deforestation and reclamation significantly improved food supply services.(3) GPSR leads to the improvement of trade-ofs among the ESs,However, the impactof diferent reconstruction paths on the trade-off between ESs presents differentcharacteristics.The effects of Grain for Green,deforestation,and reclamation on the trade-off between carbon sequestration and food supply, soil conservation,food supply,and soil conservation were the most significant, while urban expansion plays an important role in the trade-offbetween water yield and other services.Overall, the change of relative gain is the important reason for the different characteristics of trade-offs between the ESs in the process of GPSR.
+
+Key words: grain production space reconstruction； trade-offs between ecosystem services； Grain for Green; deforestation and reclamation; urban expansion

@@ -1,0 +1,375 @@
+[
+    {
+        "type": "text",
+        "text": "Seasonal differences in climatic controls of vegetation growth in the Beijing-Tianjin Sand Source Region of China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHAN Lishan1\\*, YU Xiang², SUN Lingxiao³, HE Bin4,WANG Haiyan4, XIE Tingting ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "lCollege of Forestry,Gansu Agricultural University,Lanzhou 73oo7o,China;   \n²Chinese Academy of Forestry,Beijing 100091,China;   \n3 University of Chinese Academy of Sciences,Beijing i0oo49, China;   \n4College of Global Change and Earth System Science,Beijing Normal University,Beijing 1Oo875,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Launched in 2O02,the Being-Tianjin Sand Source Control Project (BTSSCP)is an ecological restoration project intended to prevent desertification in China.Evidence from multiple sources has confirmed increases in vegetation growth in the BTSSCP region since the initiation of this project. Precipitation and essential climate variable-soil moisture (ECV-SM) conditions are typically considered to be the main drivers of vegetation growth in this region.Although many studies have investigated the inter-annual variations of vegetation growth,few concerns have been focused on the annual and seasonal variations of vegetation growth and their climatic drivers,which are crucial for understanding the relationships among the climate, vegetation,and human activities at the regional scale. Based on the normalized difference vegetation index (NDVI) derived from MODIS and the corresponding climatic data, we explored the responses of vegetation growth to climatic factors at annual and seasonal scales in the BTSSCP region during the period 2000-2014. Over the study region as a whole, NDVI generally increased from 2000 to 2014,at a rate of $0 . 0 0 2 / \\mathrm { a }$ . Vegetation growth is stimulated mainly by the elevated temperature in spring, whereas precipitation is the leading driver of summer greening. In autumn, positive effects of both temperature and precipitation on vegetation growth were observed. The warming in spring promotes vegetation growth but reduces ECV-SM. Summer greening has a strong cooling effect on land surface temperature. These results indicate that the ecological and environmental consequences of ecological restoration projects should be comprehensively evaluated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: vegetation growth; climatic drivers; seasonalvariation; ecological engineering; interaction; Being-Tianjin Sand Source Controlling Project (BTSSCP); NDVI ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since the 197Os,the Chinese government has carried out a series of engineering projects to prevent environmental and ecological degradation (Cao， 201； Cao et al.， 2011). The Beijing-Tianjin Sand Source Control Project (BTSSCP),one of the most important of restoration projects (Wu et al.,2014), was launched in 2O02 to combat desertification and reduce sandstorms around Beijing.The first phrase of this project was completed in 2O1O,and its environmental and ecological effects have raised great awareness from the government and scientific community. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have extensively assessed changes in climate (Shan et al.，2O15)，soil properties (Zeng et al., 2014),sandstorm frequency (Qin et al.,2012),ecosystems (Liu et al., 2013；Tian et al., 2015), land degradation (Zhang et al., 2012)，etc. throughout the BTSSCP region. Vegetation condition is a main indicator for reflecting the effects of ecological restoration (Liu et al.,2013; Wu et al., 2014). Investigations based on in situ observations and remote sensing monitoring have reported increased vegetation activity and reduced desertification since the launch of the BTSSCP (Liu et al.,2013; Wu et al.,2013).For example, based on the normalized difference vegetation index (NDVI) and indicators of desertification, Li et al. (2O15) found that the ecological conditions were improved over approximately half of the BTSSCP region from 2000 to 2010.According to the vegetative state indicated by NDVI, Zhang et al. (2012) evaluated the influence of ecological restoration on sand dunes in a prominent sandstorm region, Horqin Sand Land, China. Their results showed that during the period from 1999 to 2007, $76 \\%$ of the study region experienced ecological improvements, indicating the effectiveness of ecological engineering projects. Despite the usefulness of these studies on the BTSSCP region, the majority have only assessed relative short-term change in vegetation，whereas few have focused on seasonal differences in vegetation change. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition,it is generally agreed that precipitation and soil moisture conditions dominate vegetation growth in the BTSSCP region (Liu et al.,2013; Wu et al.,2013; Li et al.,2015). This appears reasonable because the majority of this region is characterized by an arid climate. However, as few studies have focused on seasonal variations in vegetation growth in this region, it is unclear whether precipitation is always the main constraint of vegetation growth at the seasonal scale.A recent study conducted in the arid Sahel region of Africa suggested that climate factors，such as temperature and humidity，may influence the response of vegetation to precipitation in arid environments (Rishmawi et al., 2O16). In addition,the increasing trend of growing season temperature over North China is decelerating,and this deceleration has decreased reference evapotranspiration (ET) over the northern BTSSCP region (Shan et al., 2O15; He et al., 2017). However, how temperature changes will impact regional vegetation activities is still poorly understood. There are still uncertainties about the drivers of vegetation change in the BTSSCP region. Re-examining the climatic drivers of vegetation growth in the BTSSCP region is crucial for ecosystem management and future environmental planning in this region. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The goals of this study were to monitor vegetation growth in the BTSSCP region with a highlight on seasonal variations,and to explore the effects of climatic drivers on vegetation growth. In addition to conventional meteorological data， remote-sensing soil moisture and drought index data were used to support our analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Data and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The BTSSCP region $( 3 8 ^ { \\circ } 5 0 ^ { \\prime }  – 4 6 ^ { \\circ } 4 0 ^ { \\prime } \\mathrm { N } _ { \\scriptscriptstyle \\cdot }$ $1 0 9 ^ { \\circ } 3 0 ^ { \\prime }  – 1 1 9 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { E }$ , located in the north of China, includes Beijing,Tianjin,the northern parts of Hebei and Shanxi provinces,the central part of Inner Mongolia and a small part of Shanxi Province (Shan et al.， 2O15). Specifically, the region is bounded by Darhan Muminggan Joint Banner of Inner Mongolia on the west, Pingyuan County of Hebei Province on the east, Daixian County of Shanxi Province on the south,and East Ujimqin Banner of Inner Mongolia on the north (Wu et al., 2O12). The total area of the BTSSCP region is $4 . 6 { \\times } 1 0 ^ { 5 } ~ \\mathrm { k m } ^ { 2 }$ .Desertified land covered an area of $1 0 1 . 2 \\mathrm { k m } ^ { 2 }$ before the initiation of the BTSSCP. More than $80 \\%$ of the BTSSCP region is covered by grassland (Fig.1)，which is home to $1 9 . 6 \\times 1 0 ^ { 6 }$ residents who mainly subsist on animal husbandry and agriculture. This region is dominated by a temperate continental monsoon climate with hot-wet summers and cold-dry winters. Annual mean temperature ranges from $0 . 6 ^ { \\circ } \\mathrm { C }$ to $1 2 . 0 ^ { \\circ } \\mathrm { C }$ in this region (Liu et al., 2013). Precipitation exhibits large spatial variations,ranging from more than $6 0 0 ~ \\mathrm { { m m } }$ in the southeast to less than $1 5 0 \\ \\mathrm { m m }$ in the northwest (Liu et al., 2O13). The annual total precipitation is much lower than the potential ET, producing prevailing arid and semi-arid climate conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The arid and semi-arid environments and strong north winds resulting from high atmospheric pressure in Mongolia contribute to sandstorms during winter and spring. Since 2Oo1, several measures have been employed to combat desertification， including grassland fencing, afforestation，and grazing management (prohibition,rest, or rotation).With the recovery of vegetation conditions over the past decade，the occurrence of sandstorms has decreased significantly ( $\\mathrm { \\Delta W u }$ et al., 2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/726cd13f2799325937eecf89150944bc9e85b369f93a76f2639a6ec0cc414fad.jpg",
+        "img_caption": [
+            "Fig.1Landuse types and location of 28 meteorological stations (used in this study)in the Beijing-Tianjin Sand Source Control Project (BTSSCP) region "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table1 lists all datasets used in this study. The NDVI acquired from the MODIS (Moderate Resolution Imaging Spectroradiometer) was used to represent vegetation growth conditions. This MODIS NDVI product (MOD13A2) has a 16-d temporal resolution and a $1 { \\cdot } \\mathrm { k m }$ spatial resolution. The 16-d NDVI data were averaged into monthly, seasonal, and annual values over the period of 2000-2014. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Climatic data (including temperature and precipitation) in the BTSSCP region during the period from 2000 to 2014 were collected from the National Meteorological Information Center of China Meteorological Administration (htp://data.cma.cn). It should be noted that the data accuracy was examined with error analysis before being issued. According to the data description (http://data.cma.cn/data/cdcdetail/dataCode/SURF_CLI_CHN_MUL_DAY_V3.0.html)， the data have been checked repeatedly to correct errors through manual verification, and the missing data have been supplemented. To match the spatial resolution of MODIS data,we interpolated daily temperature and precipitation data from 28 stations into $1 \\mathrm { k m }$ resolution using the thin plate spline interpolation method (Hutchinson,1995). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To support our analysis,we used drought index,ET and soil moisture data to indicate moisture conditions over the study region. The standardized precipitation evapotranspiration index (SPEI), which is defined on the basis of surface water balance theory (Vicenteserrano et al., 2O1O), was used to represent soil moisture in this study. Monthly and seasonal SPEI data for the study region were extracted from the SPEIbase v.2.4 product (http://digital.csic.es/handle/10261/128892). This product provides multi-timescale global SPEI data with a spatial resolution of $0 . 5 ^ { \\circ }$ (Begueria et al.,2010,2O14). In this study, SPEI with a 3-month temporal resolution was used because it has been suggested to a better representation of soil moisture than SPEI with other timescales. The 8-d,1-km ET product (MOD16A2) used in this study was estimated using the Penman-Monteith equation and MODIS retrievals (Mu et al., 2O11). The accuracy of this product is considered as reasonable (Batra et al., 2OO6; Velpuri et al., 2O13). The essential climate variable-soil moisture (ECV-SM) product was obtained from the European Space Agency (ESA) (Dorigo et al., 2012), which provides daily global soil moisture observations with a spatial resolution of $0 . 5 ^ { \\circ }$ .We merged soil moisture retrievals from four passive and two active microwave sensors to obtain this product (Liu et al., 2O11). Evaluations of ECV-SM product have shown that it is comparable to other soil moisture products and can capture precipitation trends (Dorigo et al., 2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To explore the change of land water condition in the study region,we extracted monthly total water storage (TWS) from April 2002 to November 2O14 in the study region from the global land water storage retrieved from the satelite Gravity Recovery and Climate Experiment (GRACE) (Swenson and Wahr,2Oo6). This product provides accurate TWS estimates,and has been widely used in assessments of TWS variation at regional and global scales (Tang et al.,2Ol3).To explore inter-annual variation in TWS,we removed seasonal TWS signals by subtracting the monthly series from the corresponding monthly climatological means (Yang et al., 2015). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The main land use types with a spatial resolution of $1 ~ \\mathrm { k m }$ in the study region (Fig. 1） were determined from the China's Land-Use/cover Datasets (CLUDs) obtained from the Resources and Environment Data Center, Chinese Academy of Sciences, China (Liu et al., 2O14). The digital map of 2OO5 was used, as shown in Figure 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5aaf498c9de8aff29bc466945e69acde70206ff82010e245a90921480fcd3158.jpg",
+        "table_caption": [
+            "Table1 Datasets used in this study "
+        ],
+        "table_footnote": [
+            "Note:NDVI,oaliedeegetatide;E,tadaddpreiaioatraspiatide;ET,apotso; TWS,total waterstorage;ECV-SM,essntialclimatevariable-soilmoisture;GRACE,GravityRecoveryandCimateExperiment.\"-\" means that temperature and precipitation data were derived from the http://data.cma.cn. "
+        ],
+        "table_body": "<html><body><table><tr><td>Variable</td><td>Product</td><td>Temporal resolution</td><td>Spatial resolution</td><td>Period</td></tr><tr><td>NDVI</td><td>MOD13A2</td><td>16-d</td><td>1-km</td><td>2000-2014</td></tr><tr><td>Temperature</td><td></td><td>Monthly</td><td>Whole study region</td><td>2000-2014</td></tr><tr><td>Precipitation</td><td></td><td>Monthly</td><td>Whole study region</td><td>2000-2014</td></tr><tr><td>Soil moisture</td><td>ECV-SM</td><td>Daily</td><td>0.5°</td><td>2000-2014</td></tr><tr><td>SPEI</td><td>SPEIbase v.2.4</td><td>Monthly</td><td>0.5°</td><td>2000-2014</td></tr><tr><td>ET</td><td>MOD16A2</td><td>8-d</td><td>1-km</td><td>2000-2014</td></tr><tr><td>TWS</td><td>GRACE Tellus</td><td>Monthly</td><td>1.0°</td><td>Apr 2002-Dec 2014</td></tr><tr><td>Land use map</td><td>China's Land-Use/cover Datasets</td><td></td><td>1-km</td><td>2005</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods and data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Changes in NDVI were investigated over four seasons: March to May (MAM; spring), June to August (JJA; summer), September to November (SON; autumn),and December to February (DJF; winter). It is noted that we excluded winter in the following analysis due to weak vegetation activity in this season. We averaged the 16-d NDVI values for each season to obtain the seasonal mean. Similarly, we determined the seasonal means of all other variables used in this study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Seasonal and inter-annual linear trends of NDVI and climatic factors over the period of 2000-2014 were determined using the Mann-Kendall (MK) test. This nonparametric method does not need the normal distribution of time series and was recommended for general use by the World Meteorological Organization (Mitchell et al.，1966). To explore the differences in trends among different biomes, we classfied the vegetation over the whole study region into three main types,including forests, grasses,and crops. Their corresponding trends over the study period were also determined. Pearson's correlation analysis was employed to examine relationships between NDVI and corresponding climatic variables including temperature, precipitation, ECV-SM and ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SPEI. Correlations and trends were considered statistically significant at $P { < } 0 . 0 5$ level. Above data analysis was performed using MATLAB software,and figures used in this study were drawn using MATLAB software and GIS software. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Improved vegetation growth in the BTSSCP region ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "During the study period from 2000 to 2014, vegetation growth in the BTSSCP region improved at both annual and seasonal scales (Figs.2 and 3). Significant increases in vegetation growth were observed over $2 6 . 4 \\%$ of the study region, mainly in the southern and southeastern parts (Fig. 2a). However, significant decreases in vegetation growth only accounted for $0 . 8 \\%$ of the study region, which were scatered over the central part. At the biome scale,a significant increase in NDVI was observed for all main vegetation types (Figs.2b1-b3). Forests experienced the largest increase in NDVI, followed by crops and grasses. Over the study region as a whole, NDVI generally increased from 2000 to 2014,at a rate of $0 . 0 0 2 / \\mathrm { a }$ (Fig. 2b4). Relatively low NDVI values in 2001, 2007,and 2O09 could be attributed to drought disturbances. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Increased vegetation activity was also apparent at seasonal scales (Fig. 3)，with significant increases in summer, during which significant positive trends were found over more than $3 0 . 0 \\%$ of the study region (Fig. 3a). Large increases in NDVI also occurred in spring, covering $2 8 . 0 \\%$ of the study region (Fig. 3b). However, relatively large decreases in NDVI were observed in autumn, accounting for $1 . 9 \\%$ of the study region (the northern and central parts； Fig.3c). Seasonal differences in NDVI changes were also apparent for different vegetation types (Figs.3d1-f4).For crops,the largest NDVI increase was found in spring,followed by summer and autumn. The NDVI of grasses and forests both experienced the largest increase in summer and the smallest increase in autumn. The largest increase of the integrate NDVI within the whole study region occurred in summer (with a rate of $0 . 0 0 1 6 / \\mathrm { a } )$ ，followed by spring(O.0012/a） and autumn $( 0 . 0 0 0 4 / \\mathrm { a } )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2Relationships between annual vegetation growth and climatic variables ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the spatial patterns of correlations between annual NDVI and corresponding climatic variables over the period from 2OOO to 2O14.Positive relationships between annual NDVI and precipitation were observed over almost the entire study region (Fig. 4a), especially in the western and northern parts,indicating the dominant influence of precipitation on annual vegetation growth. Significant positive annual NDVI-precipitation relationships were found over about $4 7 . 6 \\%$ of the study region. The dominant role of precipitation in controlling vegetation growth has been documented in previous studies (Liu et al., 2O13; Wu et al., 2O13), and was supported here by strong positive relationships between annual NDVI and ECV-SM and between annual NDVI and SPEI (Figs. 4c and d). In contrast, weak relationships between annual NDVI and temperature were observed (Fig.4b), with positive relationships in the southeastern part and negative relationships in the northwestern part of the study region. Significant relationships were found over only $2 . 0 \\%$ of the study region. The above analysis suggests that inter-annual variation in vegetation growth in this region is mainly driven by precipitation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3Relationships between seasonal vegetation growth and climatic variables ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Relationships of NDVI with precipitation and temperature at seasonal scales were also investigated. As shown in Figures 5al-a3,the relationships between seasonal NDVI and precipitation varied seasonally. Positive relationships were observed during all three seasons (spring,summer and autumn),with correlations significant in summer, followed by autumn. In spring,significant relationships were found only over small areas in the eastern and western parts, suggesting strong influences of other factors on vegetation growth.Figures 5b1-b3 show the NDVI-temperature relationships in spring, summer, and autumn,respectively. An apparent shift in NDVI-temperature relationships was observed between spring and summer. Specifically, NDVI positively responded to temperature changes in spring, whereas a significant negative relationship was observed between NDVI and temperature in summer. In autumn,a weak positive relationship was observed over the majority of the study region. Correlation coefficients between seasonal NDVI and temperature and between seasonal NDVI and precipitation were also calculated for the whole study region. The results are basically consistent with above spatial analysis. In spring, a significant positive relationship was observed between NDVI and temperature （ $r { = } 0 . 5 5 4 3$ $P { < } 0 . 0 5 \\rangle$ )，while it was converted to a significant negative relationship $( r = - 0 . 7 0 8 0$ ， $P { < } 0 . 0 5 )$ in summer. In contrast, the positive correlation between NDVI and precipitation was very weak 0 $\\scriptstyle - 0 . 0 8 0 9$ ， $P { = } 0 . 7 7 4 4 \\rangle$ in spring,while this positive relationship was greatly improved in summer 0 $\\scriptstyle \\phantom { - } r = 0 . 6 3 2 4$ ， $P { < } 0 . 0 5 )$ . In autumn, there was no significant relationship between NDVI and precipitation( $\\scriptstyle { r = 0 . 2 5 4 1 }$ ， $P { = } 0 . 3 7 8 6$ ）or between NDVI and temperature( $\\scriptstyle \\overbrace { r = 0 . 0 0 2 9 }$ ， $P { = } 0 . 9 9 1 9$ ） Therefore，we speculate that temperature has a stronger efect on vegetation growth than precipitation in spring, whereas precipitation controls vegetation growth in summer. In autumn, precipitation appears to have a stronger impact on vegetation growth than temperature. The above analysis suggests that climatic constraints of vegetation growth have large seasonal differences. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/046fc4ccff4faab376cc6c09fbd6aa3818b8552cc7be34ae20f692d4af5d9b84.jpg",
+        "img_caption": [
+            "Fig.2Variation of NDVItrends in the BTSSCPregion from 2000 to 2014.(a),spatial variation of NDVI trends; (b1),linear trendof NDVIforcrops; (b2),linear trendof NDVIfor forests;(b3),lineartrendof NDVIforgrasses; (b4), linear trend of NDVI for the study region as a whole (BTSSCP region). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "110E112°E114°E116E118E120E122E0.55 (d1) Crops 0.74(d2)Forests（a)MAM 46N8 0.6146N k=0.0019 k=0.0037P<0.01 0.48 P<0.050.3544N 44N 0.15 0.22200 0 2000 142N 42°N 0.44 (d3) Grasses 0.47(d4) BTSSCP region084 0.3940N 40°N k=0.0012 0.31 k=0.0016P=0.059 0.23 P<0.050 250 500km 0.14 0.1538N 38N 60110°E112°E114°E116°E118E120E122E110°E112°E114°E116°E118°E120°E122E0.55(e1) Crops 0.74 (e2）Forests46N (b)JJA 460N8 0.61k=0.0065 k=0.0069P<0.05 0.35 P<0.0144N 44N 0.15 0.22200 2000 02 G2942N 42N0.44(e3) Grasses 0.47 (e4)BTSSCP region40N 400N0.40 250 500km k0.0047 -0.005338N 38N 0.14 0.150 1 6 10110E112°E114°E116E118E120E122E 2110E112E114E116E118E120E122E(c) SON 4 0.10046N0.3544N 44N 0.15 0.2242°N 42N0.44(f3) Grasses 0.47(f4)BTSSCP region40N 40°N0.34 k-0.0001 0.39 k=0.0004ΛCN P=0.915 0.31 P=0.76138N 0 250 500km 38N 0.24 0.230.14 0.15110°E112°E114°E116E118E120E122E 60 000102Highlysignificant (+）Significant (+) Nonsignificant Significant(-) Highly significant (-)",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To confirm the above findings,we further examined the relationships of NDVI with ECV-SM and SPEI (Fig. 6).We estimated these two indicators based on completely different data sources. The distributions of NDVI-ECV-SM and NDVI-SPEI correlations displayed similar patterns at seasonal scales. The impact of ECV-SM on vegetation growth was strongest in summer, which was consistent with the pattern of NDVI-precipitation relationships.In spring,NDVI showed weak positive or negative relationships with ECV-SM and SPEI, further supporting the finding that precipitation and related ECV-SM do not drive vegetation growth during this season. In autumn， NDVI positively and weakly correlated with ECV-SM and SPEI， suggesting the influences of other factors on vegetation growth in this season. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study, we examined vegetation growth in the BTSSCP region during 2OO0-2O14 at both annual and seasonal scales.The overall increasing trend of vegetation growth observed throughout the study region illustrates the success of restoration management, which is consistent ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ee1fbcf9e3c6bc3aa2e34b77465cdc0232b71823c99db53bc207bf30a25ce37.jpg",
+        "img_caption": [
+            "Fig.4Spatial patterns of the relationships of annual NDVI with (a) precipitation,(b)temperature,(c)ECV-SM, and(d) SPEI in the BTSSCP region from 2000 to 2014.ECV-SM,essential climate variable-soil moisture; SPEI, standardized precipitation evapotranspiration index.Relationships are not shown in areas with missing values in the datasets. ",
+            "Fig.5Spatial paterns of the relationshipsof seasonal NDVI with(al-a3)precipitation and (b1-b3)temperature in spring (a1,b1),summer(a2,b2)and autumn (a3,b3)in the BTSSCPregion from 2000 to 2014.Relationships are not shown in areas with missing values in the datasets. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "110°E 114E 118E 122E 110°E 114°E 118E 122E 110E 114°E 118E 122E (a1)NDVI-Precipitation （a2)NDVI-Precipitation (a3)NDVI-Precipitation   \n46N 46N 46N 46N 46N 46N   \n44N 44N 44N 44N 44N 44N   \n42N 42°N 42N 42°N 42°N 42N   \n40N 40N 40N 40N 40N 40N   \n38NMAM 0 250 500km 38N 38NJJA 0 250500km 38N 38NSON 0 250 500km 38N 110E 114E 118E 122E 110E 114E 118E 122E 110E 114E 118E 122E 110E 114E 118E 122E 110E 114°E 118E 122E 110E 114E 118E 122E (b1)NDVI-Temperature (b2)NDVI-Temperature (b3)NDVI-Temperature   \n46N 46N 46N 道 46N 46N 46N   \n44N 44N 44N 44N 44N 44°N   \n42N 42°N 42N 42N 42N 42N   \n40N 40N 40N 40N 40N 40N   \n38NMAM 0 250 500km 38N 38NJJA 0 250 500km 38N 38NSON 0 250 500km 38N 110°E 114E 118E 122E 110E 114E 118E 122E 110E 114E 118E 122E Significant (-) Non significant(-) Non significant (+) Significant(+) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "with previous investigations. Wu et al. (2O13） reported improved vegetation conditions during 2000-2010 in the BTSSCP region based on MODIS NDVI data. In comparison,we observed larger and more extensive increases in vegetation growth during 2OOo-2O14 based on a longer ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "110°E 114°E 118E 122°E 110E114°E 118E 122E 110E114E 118E 122E (a1) NDVI-ECV-SM (a2) NDVI-ECV-SM (a3)NDVI-ECV-SM   \n46°N 46N 46N 46N 46N 46N   \n44N 44N 44N 44N 44N 44N   \n42°N 42N 42N 42N 42N 42N   \n40N 40N 40N 40N 40N 40N 0 250 500km 0 250 500km 0 250 500km   \n38NMAM 38N 38NJJA 38N 38NSON 38N 110E 114E 118E 122°E 110E 114E 118E 122°E 110E 114°E 118°E 122E 110E 114E 118E 122°E 110E 114E 118E 122E 110E 114E 118E 122°E (b1) NDVI-SPEI (b2) NDVI-SPEI (b3) NDVI-SPEI   \n46N 44N 囍 46N 44N 46N 44N 囍 46N 44N 46N 44N 華 46°N 44N   \n42N 42N 42N 42N 42N 42N   \n40N 40N 40N 40N 40N 40°N   \n38NMAM 0 250500km38°N 38NJJA 38N 38NSON 0 250 500km 38N 110E 114°E 118E 122E 110E 114E 118E 122E 110°E 114E 118E 122E Significant (-) Non significant (-) Non significant (+) Significant (+) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "NDVI time series. Although human activities such as afforestation, enclosure,etc. contribute to the improved vegetation growth, sustained vegetation growth relies more on climatic conditions (Wu et al., 2O13). Traditionally，precipitation is thought to be the main climatic constraint of vegetation growth in this region. Liu et al. (2O13) studied NDVI-precipitation relationships in the BTSSCP region during the period 1982-2OO6,and found a significant relationship between peak NDVI and 1-month cumulative precipitation. However,our study claimed a shift in climatic controls on vegetation growth between seasons.We analyzed the spatial variations of climatic factors (precipitation， temperature,ECV-SM， SPEI and ET） as well as TWS retrieved from GRACE during different seasons from 2000 to 2014 (Fig.7） to explore the mechanisms of climatic drivers on vegetation growth in the BTSSCP region. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1Influences of warming in spring on vegetation growth and soil moisture ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As mentioned above, temperature appears to have a stronger influence on vegetation growth than precipitation in spring. This finding can be partly supported by Mohammat et al. (2O13), who had also claimed a dominant influence of temperature on vegetation growth in spring in Inner Asia. In spring,precipitation significantly increased over the eastern part of the study region, whereas a strong warming was observed in the western and southwestern parts (Figs.7al-b3). According to previous studies (Peng et al., 2O11; Xu et al., 2O13), we speculate that strong warming in spring stimulates vegetation growth by triggering early onset of the growing season and promoting high photosynthetic rates. National-scale phenological investigations have suggested that warming in spring has caused an overall earlier onset of the growing season in China over the past several decades (Ma and Zhou, 2O12; Ge et al.， 2O15).In a study of phenological variations in the Mongolian Plain,Miao et al. (2013) reported an \"earlier spring\" during the period 1982-2012. An examination of phenological dynamics in grassands of Inner Mongolia using MODIS NDVI series suggested that the start of the growing season occurred 2.43 to 5.79 days earlier over the period 2002-2014 (Gong et al.， 2O15). In addition,an earlier investigation in eastern Central Asia suggested that both early and late green-up occurred in the Mongolian steppes during 1982-1990, and the patern of plant response to warming was determined by the water availability conditions (Yu et al., 2O03). In this study, the improved vegetation growth was also reflected by variations in ECV-SM in spring. As shown in Figure 7c1, the ECV-SM significantly decreased over the western and southwestern parts of the study region due to strong warming associated with improved vegetation growth. Similar phenomenon has also been observed during the spring of 2O12 in the United State that warming in spring aggravated soil water limitation (Wolf et al., 2016). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "110°E 114°E 118E 122°E 110E 114°E 118E 122E 110E 114°E 118E 122E   \n46N (a1) Precipitation 46N46N (a2) Precipitation 46N46N (a3)Precipitation 46°N   \n44N 44N44N 44N44N 44N   \n42°N 42N42N 42N 42N 42N   \n40N 40°N40°N 40°N40N 40N   \n38NMAM 0 250500km38°N 38NJJA 0 250500 km 38N 38NSON 0 250 500km 38N 110E 114E 118E 122E 110°E 114°E 118E 122E 110°E 114°E 118E 122E 110°E 114E 118E 122E 110E 114°E 118E 122E 110°E 114E 118E 122E (b1) Temperature (b2) Temperature (b3) Temperature   \n46N 46N 46N 46N46N 46N   \n44°N 44°N44N 44N44N 44N   \n42N 42°N42N 42°N42N 42°N   \n40°N 40N40N 40N 40N 40N   \n38NMAM 0 250500km 38N 38NJJA 0 250 500 km 38N 38NSON 0 250 500km 38N 110E 114E 118E 122E 110E 114E 118E 122E 110E 114°E 118E 122E 110°E 114E 118E 122E 110E 114E 118E 122E 110E 114°E 118E 122E (c1)ECV-SM (c2) ECV-SM (c3)ECV-SM   \n46°N 46N46N 46N46N 46N   \n44N 44N44N 44N44N 44°N   \n42°N 1 42N 42N 42N 42N 42N   \n40N 40N40N 40N40N 40N   \n38NMAM 0 250500km 38N 38NJJA 0 250500 km 38N 38NSON 0 250500 km 38N 110E 114E 118E 122E 110E 114E 118E 122E 110°E 114°E 118E 122E 110E 114E 118E 122°E 110°E 114°E 118E 122E 110°E 114°E 118E 122E   \n46N (d1) SPEI 46N46oN(d2)SPEI 46oN46°N(d3) SPEI 46N   \n44N 44N44N 44N 44N 44N   \n42°N 42N42N 42N 42N 42°N   \n40°N 40°N40N 40°N40°N 40N   \n38NMAM 0 250500 km 38N 38NJJA 0 250500km38N 38NSON 0 250500km38N 110°E 114E 118E 122E 110E 114°E 118°E 122E 110E 114°E 118E 122°E 110°E 114E 118E 122E 110°E 114°E 118E 122E 110°E 114E 118E 122°E   \n46N(e1)ET 46°N46°N(e2)ET 46°N46N(e3)ET 46°N   \n44N 44°N 44N 44N 44N 44°N   \n42°N 42N42N 42°N 42N 42°N   \n40°N 40°N40°N 40°N 40N 40N   \n38NMAM 0 250500km 38N 38NJJA 0 250500km 38N 38NSON 0 250 500km 38N 110°E 114°E 118E 122E 110E 114°E 118E 122E 110°E 114°E 118E 122E 110°E 114E 118E 122E 110°E 114°E 118E 122E 110°E 114°E 118E 122°E   \n46oN(f1) TWS 46oN46°N(2) TWS 46°N46oN(f3)TWS 46°N   \n44N 44N44N 44N44N 44°N   \n42°N 42N42N 42°N42°N 42°N   \n40°N 40N40N 40N40°N 40N   \n38NMAM 0250 500km 38N 38NJJA 0 250500km 38N 38NSON 0250500km 38N 110E 114E118E 122E 110°E114°E 118E 122°E 110E114E118E 122E Highly significant (-) Significant (-) Non significant Significant (+) Highly significant (+) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2 Influences of summer greening on land surface temperature ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study， we found a dominant impact of precipitation on vegetation growth in summer. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Significantly increased precipitation was observed during 2OOO-2O14 in small areas of the northeastern study region (Fig.7a2), whereas more apparent increases in ECV-SM occurred in the northeastern and southeastern parts (Fig. 7c2). Increased ECV-SM promoted vegetation growth during this season.From spring to summer, the NDVI-temperature relationships changed from positive to negative and significant decreases in temperature occurred over the eastern part of the study region in summer (Fig.7b2). We speculate that the temperature decreases were an effect of greening-associated cooling. Jiang et al. (2Ol5） comprehensively analyzed the relationship between vegetation change and local surface temperature in northern China over the past three decades，and found a significant negative impact of vegetation change on air temperature. Similarly, Shen et al. (2O15) observed a strong evaporative cooling caused by vegetation growth in the Tibetan Plateau of China. In addition,afforestation in China was found to have a cooling effect on local temperature (Peng et al., 2O14). Recently, a global investigation suggested that the increase in leaf area index could generate an evaporation-driven cooling effect in arid regions (Forzieri et al.,2O17). Vegetation can influence temperature through two opposite biophysical mechanisms according to previous knowledge. Elevated ET due to improved vegetation growth produces a cooling effect by consuming land surface sensible heat (Li et al.， 2015). Simultaneously,the reduced albedo alows more energy to be absorbed by the land surface, thereby causing a warming effect (Li et al.，2O15). The balance between these two opposite energy processes determines the ultimate change in temperature (Peng et al.,2O14). Confined to the results of this study, the stronger cooling effect of greening in summer compared with the warming effect in spring produced a net cooling of land surface temperature at the regional scale. This is supported by significant increases in ET over the northern and southern parts of the study region (Fig. 7e2). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3Complex attributes of autumn vegetation growth ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In autumn, vegetation growth appears to be driven by both temperature and precipitation in the study region. Significant weting trends and non-apparent cooling trends occurred in the northern part of the study region (Figs. 7a3 and b3), but there was no apparent change in temperature or precipitation in other areas. The significant decreases in vegetation growth scattered in the northeastern part may not be attributed to climatic factors.In contrast with the land use map shown in Figure 1,the decreased vegetation growth was mainly concentrated in cropland and grassland, indicating a large influence of agricultural and livestock production activities on vegetation change.According to previous reports (Hu et al., 2008; Bao et al.,2009), this decrease could be attributed to the mowing of grasses，which usually begins in late August or early September in each year. The meadow grassland is mainly utilized as the mowing pasture at a frequency of once a year (Liu et al., 2010). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.4Potential influence of greening on land water storage ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A major concern about ecological engineering project in this arid and semi-arid region is its potential impact on water storage. Cao et al. (2O11) has pointed out that afforestation in arid and semi-arid regions may dry out surface soil water and further deplete deep soil water. Feng et al. (2016) reported that new planting in the semi-arid Loess Plateau of China increases ET and that extensive vegetation expansion may influence the water demand of socio-economic systems. Based on TWS retrieved from GRACE (Figs. 7f1-f3), we observed a strong decrease in TWS in the southern part of the study region in all three seasons (spring, summer and autumn); however, there was no apparent decrease in precipitation in these areas (Figs. 7al-a3). Areas with decreased TWS were corresponded with greening areas (Fig. 3). This coincidence raises the conjecture that greening in summer contributes to the decrease of TWS in these areas,as further supported by the increase in ET in the southern part of the study region in summer (Fig. 7e2). In contrast with land use map (Fig.1), the decreased TWS was mainly concentrated in cropland, indicating a strong influence of agricultural activities on regional greening and thereby the depletion of land water storage. Tang et al. (2O13) investigated the TWS changes in North China and found that the depletion of TWS can mainly be attributed to anthropogenic impacts, especially the agricultural irrigation. It is still not clear that whether the greening caused by ecological engineering has contributed to the decrease of TWS.Therefore,further clarification of the influences of environmental changes and human activities on TWS is needed to address this issue. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The effectiveness of the BTSSCP, a huge ecological engineering project, has caused great public and scientific awareness.This study comprehensively analyzed vegetation conditions and their climatic drivers in the BTSSCP region from 2O0O to 2O14 at both annual and seasonal scales. An overall increase in vegetation growth was observed, with most significant increases occurring in spring and summer. Climatic drivers of vegetation growth varied seasonally. Temperature and precipitation mainly stimulate vegetation growth in spring and summer, respectively. The warming in spring promotes vegetation growth while reduces ECV-SM. Summer greening has a large cooling effect on land surface temperature. The co-occurrence of greening and decreased TWS in the southern part of the study region indicates the potential influence of improved vegetation growth on the depletion of TWS.Based on the results of this study,we infer that the drivers of vegetation growth in the BTSSCP region may be more complex than originally thought and that the traditional precipitation-based projections of vegetation growth in this region may be misleading. In addition,we clarified some of the ecological and environmental consequences of greening, which typically have been ignored in previous researches. Future investigations should pay more attention to these issues. This study provides important information for the design of ecological engineering projects in this region in the future. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported by the National Natural Science Foundation of China (31560135,41361100), theDiscipline Construction Fund Project of Gansu Agricultural University(GAU-XKJS-2018-104, GAU-XKJS-2018-108)and the Gansu Science and Technology Support Program (1604FKCA088).The authors arevery grateful to the anonymous reviewers and editors fortheir critical review and comments which helped to improve and clarify the manuscript. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Bao AYBaoG,GuoL,etal.2Oo9.Evaluationonvegetationnet primary productivityusing MODISdatain Inner Mongolia. Procedings Volume7490,PIAGENG 2009:Inteligent Information，Control，and Communication Technologyfor Agricultural Enginering，749006.[2009-07-10].International ConferenceonPhotonicsand Image inAgriculture Engineering (PIAGENG 20O9), Zhangjiajie, China.   \nBatra N,Islam S,Venturini V,etal.O6.Estimationandcomparisonof evapotranspirationfromMODISandAVHRsesors for clear sky days over the Southern Great Plains.Remote Sensing of Environment,lO3(1):1-15.   \nBegueria S,Vicenteserrano SM,Angulomartinez M.2Ol0.Amultiscalar global droughtdataset: te SPEIbase:anewgridded product for the analysisof drought variabilityand impacts.Buletinof the American Meteorological Society91(10): 1351-1356.   \nBegueriaS,Vicenteserrano SM,ReigF,etal.2O14.Standardizedprecipitationevapotranspiration index(SPEI)revisited: parameter fiting,evapotranspiration models,tools,datasetsand drought monitoring.International Journal of Climatology, 34(10): 3001-3023.   \nCao SX.2011.Impactof China's large-scale ecological restoration programon theenvironmentand society in arid and semiarid areas ofChina:achievements,roblems,synthesis,andapplications.CriticalReviews inEnvironmental Scienceand Technology,41(4): 317-335.   \nCaoSX,ChenL,ShankmanD,etal2l1.ExceiverelianceoaforestationiCina'saridndsm-aridregios:Lssos in ecological restoration.Earth-Science Reviews,104(4): 240-245.   \nDorigo W,deJeuR,Chung D,etal.20l2.Evaluatingglobaltrends (1988-20l0)in harmonized multi-satelitesurfacesoil moisture. Geophysical Research Letter,39(18): 18405.   \nFengXM,FuBJ,PiaoSL,etal.2Ol6.RevegetatioinChina'sLoesPlateauisapproachingsustainable waterresourclits. greening of Earth. Science,356(6343):1180-1184.   \nGeQS,Wang HJ,RutishauserT,etal.2Ol5.Phenologicalresponsetoclimatechange in China:a meta-analysis.Global Change Biology,21(1): 265-274.   \nGong Z,Kawamura K,Ishikawa N,et al.2015.MODIS normalized diferencevegetation index (NDVI) andvegetation phenology dynamics in the Inner Mongolia grassland. Solid Earth,6(3):1185-1194.   \nHe B,ChenAF,JiangWG,etal.2O17.TheresponseofvegetationgrowthtoshiftsintrendoftemperatureinChina.Joualof Geographical Sciences,27(7): 801-816.   \nHu YL,Zeng DH,FanZP,et al.2O08.Changes inecosystem carbon stocks following grassadafforestationof semiarid sandy soil in the southeastern Keerqin Sandy Lands,China.Journal of Arid Environments,72(12):2193-2200.   \nHutchinson MF.1995.Interpolating meanrainfallusing thinplatesmoothing splines.International Journalof Geographical Information Systems,9(4):385-403.   \nJiang B,Liang SL,Yuan WP.2O15. Observational evidence for impacts of vegetation changeonlocal surface climate over norther China using the Granger causality test. Journal of Geophysical Research Biogeosciences,l2O(1):1-12.   \nLi XS,Wang HY,WangJY,etal.2O15.Landdegradationdynamicinthefirstdecadeof twenty-firstcenturyinthe Beijing-Tianjin dust and sandstorm source region.Environmental Earth Sciences,74(5): 4317-4325.   \nLi Y, ZhaoMS,Motesharrei S,etal.215.Localcoingand warmingeffectsofforestsbasedonateliteobservations.Nature Communications,6: 6603.   \nLiuJH,WuJJ,WuZT,et al.2O13.Responseof NDVIdynamics toprecipitation inthe Beijing-Tanjinsandstormsource region. International Journal of Remote Sensing,34(15): 5331-5350.   \nLiu JY,KuangWHZangZX,etal.O14.Spatiotemporalcaracteristics,paesndausesofland-useangesinina since the late 1980s.Journal of Geographical Sciences,24(2):195-210.   \nLiu XP,Zhang WJ,CaoJS,etal.20l3.Carbonstorages in plantation ecosystems insand source areasofnorth Beijing,China. PloS ONE,8(12): e82208.   \nLiu XR,Dong YS,RenJQ,etal.2O10.Driversof soil net nitrogen mineralization inthe temperate grassands in Iner Mongolia, China. Nutrient Cycling in Agroecosystems,87(1): 59-69.   \nLiu YY,PariussaRM,Dorigo WA,etal.2011.Developinganimprovedsoilmoisture datastbylending pasiveadactive microwave satellite-based retrievals.Hydrology and Earth System Sciences,15(2): 425-436.   \nMaT,ZhouCH.2012.Climate-assciated changes inspring plantphenologyin China.Interational JournalofBiometeorology, 56(2): 269-275.   \nMiaoLJ,LuanYB,LuoXZ,etal.2013.Analysisofthe phenology inthe MongolianPlateaubyinter-comparisonof global vegetation datasets.Remote Sensing,5(10): 5193-5208.   \nMitchellJM,Dzerdzevsku B,Flohn H,etal.1966.Climaticchange.WMO Technical Note79(WMO-No.195/TP.100). Geneva: World Meteorological Organization.   \nMohammat A, Wang X H, Xu X T,et al.2013.Drought and springcooling induced recent decrease invegetation growth in Inner Asia.Agricultural and Forest Meteorology,178-179:21-30.   \nMu Q Z,Zhao M S,Running S W.2011.Improvements toa MODIS global terrestrial evapotranspiration algorithm.Remote Sensing of Environment,115(8): 1781-1800.   \nPeng S S,Chen AP, XuL,et al.2011.Recent changeof vegetation growth trend in China.Environmental ResearchLetters, 6(4): 044027.   \nPeng SS,PiaoSL,ZengZZ,etal.2014.Afforestation inChinacoolslocal landsurface temperature.Proceedingsof the National Academy of Sciences of the United States of America,111(8): 2915-2919.   \nQinYB,XinZB,YiY,etal.2O12.Spatiotemporal variationof sandstormand itsresponsetovegetationrestoration in Beijing-Tianjin sandstorm source area.Transactionsof theChinese Societyof AgriculturalEngineering,28:196-204.(in Chinese)   \nRishmawi K,Prince SD,XueYK.2O16.Vegetationresponses toclimate variability in the norther arid tosub-humid zonesof sub-Saharan Africa. Remote Sensing,8(11): 910,doi: 10.3390/rs8110910.   \nShan N,Shi ZJ,Yang XH,etal.2O15.Spatiotemporal trendsofreference evapotranspirationanditsdriving factors inthe Beijing-Tianjin Sand Source ControlProject Region,China.Agricultural andForest Meteorology,2Oo(15):322-33.   \nShenMG,PiaoSL,JeongSJ,etal.2O15.Evaporativecolingoverthe TibetanPlateauinducedbyvegetationgrowth. Proceedings of the National Academy of Sciences of the United States of America,112(30): 9299-9304.   \nSwenson S,WahrJ.2O6.Post-processingremovalofcorelated errors in GRACEdata.Geophysical Research Leers,33(8): L08402.   \nTang QH,Zhang XJ,Tang Y.2O13.Anthropogenic impacts on mas change in North China.Geophysical ResearchLetters, 40(15): 3924-3928.   \nTianHJ,CaoCX,ChenW,etal.2O15.Responseofvegetationactivitydynamic toclimaticchangeand ecologicalrestoration programs in Inner Mongolia from 2000 to 2012. Ecological Engineering,82(4): 276-289.   \nVelpuriNM,SenayGB,SinghRK,etal.2Ol3.Acomprehensiveevaluationof twoMODIS evapotranspiration productsover theconterminous United States: Using point and griddedFLUXNETand water balanceET.Remote Sensing ofEnvironment, 139(4): 35-49.   \nVicenteserranoSM,Begueria S,LopezmorenoJI.20l0.A multiscalardrought index sensitive toglobal warming:the standardized precipitation evapotranspiration index.Journal of Climate,23(7):1696-1718.   \nWolf S,Keenan TF,FisherJB,etal.2016.Warm springreducedcarboncycle impactof the 2012USsummer drought. Proceedings of the National Academy of Science of the United States of America,113(21):5880-5885.   \nWuJJ,ZhaoL,ZhengYT,etal.2O12.Regional differences intherelationshipbetweenclimaticfactors,vegetation,land surface conditions,and dust weather in China's Beijing-Tianjin Sand Source Region.Natural Hazards,62(1): 31-44.   \nWu ZT,WuJJ,LiuJH,etal.20l3.Increasingterestrial vegetationactivityofecologicalrestorationprograminthe Beijing-Tianjin Sand Source Region of China. Ecological Engineering,52(52): 37-50.   \nWu ZT,WuJJ,HeB,etal.2O14.Droughtofset ecologicalrestorationprogram-inducedicreaseinvegetationactivitynthe Beijing-Tianjin Sand Source Region, China.Environmental Science & Technology,48(20):12108-12117.   \nXuL,MyneniRB,IiFSC,etal.2Ol3.Temperatureandvegetationseasonalitydiminishmentovernorthernlands.Nature Climate Change,3(6): 581-586.   \nYang YT,Long D,Guan HD,etal2O15.GRACEsateliteobserved hydrologicalcontrolsoninterannualandseasonal variability insurface grenness over mainland Australia.Journal of Geophysical Research Biogeosciences,119(12): 2245-2260.   \nYuFF,PriceKElisJ,etal.O.ResposeofsasoalegetatiodevelopnttoiaticatiosisteeralAia. Remote Sensing of Environment,87(1): 42-54.   \nZeng XH,ZhangWJ,CaoJS,etal.2O14.Changesinsoilorganiccarbon,nitrogen,phosphorus,andbulk densityafter afforestation of the \"Beijing-Tianjin Sandstorm Source Control\" program in China.Catena,118:186-194.   \nZhangGL,DongJW,XiaoXM,etal.2Ol.Effectivenessof ecologicalrestorationprojects inHorqinSandyand,China based on SPOT-VGT NDVI data. Ecological Engineering,38(1): 20-29. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

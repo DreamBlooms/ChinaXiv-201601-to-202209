@@ -1,0 +1,948 @@
+[
+    {
+        "type": "text",
+        "text": "1 豆粕微生物固态发酵工艺优化及其营养物质含量变化  \n2 吝常华　刘国华　常文环　张　姝　郑爱娟　邓雪娟　蔡辉益\\*  \n3 （中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，生物饲料开发国家工  \n4 程研究中心，北京 100081)  \n5摘要：本试验以小肽含量为指标，对解淀粉芽孢杆菌单菌固态发酵豆粕以及解淀粉芽孢杆  \n6 菌、植物乳杆菌和酿酒酵母菌三菌种混菌固态发酵豆粕的工艺条件进行优化，并对其发酵前  \n7 后的营养物质含量变化进行研究。通过解淀粉芽孢杆菌、植物乳杆菌和酿酒酵母3个试验菌  \n8 的生长曲线确定其接种到固态培养基的最佳接种时间。采用单因素试验设计研究解淀粉芽孢  \n9 杆菌接种量、温度、料水比、发酵时间4个因素对豆粕发酵产小肽的影响，并在此基础上采  \n0 用四因素三水平的正交试验设计对单、混菌固态发酵豆粕的工艺条件进行优化。对豆粕发酵  \n1 前后豆粕营养物质含量、大豆球蛋白含量、蛋白分子质量、发酵产物 $\\mathfrak { p H }$ 进行测定。结果显  \n2 示：3株试验菌接在各自种子培养基扩大培养至 $2 1 \\mathrm { ~ h ~ }$ 为其接种到固态培养基的最佳时间。解  \n3 淀粉芽孢杆菌单菌固态发酵豆粕的最佳工艺条件为：接种量为 $10 \\%$ 、温度为 $4 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 、料水比  \n4为1.0:1.2、发酵时间为 $7 2 \\mathrm { { h } }$ ；解淀粉芽孢杆菌、植物乳杆菌、酿酒酵母混菌固态发酵豆粕的  \n5最佳工艺条件为：接种量为 $1 5 \\%$ 、温度为 $3 1 ^ { \\circ } \\mathrm { C }$ 、料水比为1.0:1.0 发酵时间为 $1 2 0 \\mathrm { h }$ ，3个  \n6 菌株的接种比例为：解淀粉芽孢杆菌：植物乳杆菌：酿酒酵母 ${ \\mathrm { : = } } 9 { : } 3 { : } 2$ 。经微生物发酵后，发  \n7酵产物中小肽、粗蛋白质、粗灰分、粗脂肪含量较发酵前均得到显著提高（ $\\cdot P { < } 0 . 0 5 \\$ ），粗纤  \n8 维含量则显著下降（ $P { < } 0 . 0 5 )$ ；单菌发酵组和混菌发酵组发酵产物中大豆球蛋白含量均较未  \n9 发酵组显著降低（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ ；单菌发酵组和混菌发酵组发酵产物中蛋白质分子质量较未发酵  \n0 组降低；混菌发酵组发酵产物的 $\\mathfrak { p H }$ 较未发酵组显著降低（ $_ { . P < 0 . 0 5 ) }$ ，而单菌发酵组发酵产  \n1 物的 $\\mathfrak { p H }$ 则与未发酵组差异不显著（ $P { > } 0 . 0 5 \\$ )。综上所述，豆粕经微生物固态发酵后营养价  \n2值在一定程度上得到改善，大分子蛋白质被降解， $\\mathfrak { p H }$ 也发生了变化，并且单菌发酵和混菌",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "发酵的效果存在差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：豆粕；单菌；混菌；发酵；工艺优化；营养物质中图分类号：S665.4 文献标识码：A 文章编号：豆粕作为我国重要的植物性蛋白质原料，与其他植物性蛋白质原料（棉籽粕、菜籽粕、花生粕等）相比具有氨基酸组成合理、消化利用率高、适口性好的特点[1l，与鱼粉等动物性蛋白质饲料相比具有资源较为充足、价格相对低廉、不易氧化腐败、安全系数高等优点[2]。但是，我国作为一个畜牧生产大国，豆粕资源的供需矛盾依然突出，同时豆粕中含有大豆球蛋白、胰蛋白酶抑制剂、植酸等抗营养因子[3]，其中大豆球蛋白占总蛋白的 $4 0 \\% ^ { ( 4 ] }$ ，是大豆中含量最高的一种球蛋白，同时也是热稳定性最强的抗原蛋白之一，是引起动物过敏反应和腹泻的主要成分，其不仅限制了豆粕在饲粮中的使用，而且对畜禽危害较为严重。因此，充分利用现有豆粕资源，采取一定的技术途径提高豆粕饲用价值具有重要意义。近年来，人们对微生物（主要是有益菌）发酵技术的关注度日益提高，并积极探索发掘菌种资源用于饲料的发酵生产，其中解淀粉芽孢杆菌作为一种益生菌，具有繁殖速度快，稳定性好，生命力强[5]，富含淀粉酶、蛋白酶、纤维素酶的特点[6-9]，在固态发酵豆粕的应用研究中取得了较好的效果[10-12]。有关微生物发酵豆粕工艺参数的研究报道虽然较多，但是目前对于菌种资源和发酵工艺依然有严格的衡量标准，且微生物单独发酵和混菌发酵豆粕对比研究较少。因此，本试验拟分别优化解淀粉芽孢杆菌单菌及其在植物乳杆菌和酿酒酵母菌的协同下混菌发酵豆粕的工艺参数，并对豆粕发酵前后的理化性质进行分析比较，为发酵豆粕菌种的选择和发酵工艺的优化提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料与菌种豆粕和麸皮：由中国农业科学院饲料研究所昌平南口基地提供，粉碎过40目筛。无菌水：蒸馏水分装，121℃灭菌 $2 0 \\mathrm { m i n }$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "解淀粉芽孢杆菌（Bacillusamyloliquefaciens)：为本实验室分离筛选所得。植物乳杆菌（Lactobacillusplantarum)：购自中国普通微生物菌种管理保藏中心，保藏编号为1.557。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "酿酒酵母菌（Saccharomyces cerevisiae)：购自中国普通微生物菌种管理保藏中心，保藏编号为2.388。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2培养基",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 液体种子培养基",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LB 培养基：氯化钠 $1 0 . 0 \\ \\mathrm { g }$ 、蛋白脉 $1 0 . 0 \\ \\mathrm { g }$ 、酵母粉 $5 . 0 \\ \\mathrm { g }$ ，蒸馏水定容至 $1 0 0 0 { \\mathrm { m L } }$ ，调H至7.4，121 $\\mathrm { { } ^ { \\circ } C }$ 灭菌 $2 0 \\mathrm { m i n }$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MRS 培养基：葡萄糖 $2 0 . 0 \\ \\mathrm { g }$ 、蛋白膝 $1 0 . 0 \\ \\mathrm { g }$ 、牛肉膏 $8 . 0 \\ \\mathrm { g }$ 、酵母膏 $4 . 0 \\ \\mathrm { g }$ 、硫酸镁 $0 . 5 \\mathrm { \\ g }$ ，硫酸锰 $0 . 3 \\ \\mathrm { g }$ 、柠檬酸铵 $2 . 0 \\ \\mathrm { g }$ 、乙酸钠 $5 . 0 \\ \\mathrm { g }$ 、吐温 $- 8 0 \\ 1 . 0 \\mathrm { m L }$ ，蒸馏水定容至 $1 0 0 0 { \\mathrm { m L } }$ ，调pH至6.2\\~6.6，121℃灭菌 $2 0 \\mathrm { m i n }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "YPD 培养基：葡萄糖 $2 0 . 0 \\ \\mathrm { g }$ 、蛋白陈 $\\mathrm { 1 0 . 0 ~ g }$ 、酵母粉 $5 . 0 \\ \\mathrm { g }$ ，蒸馏水定容至 $1 ~ 0 0 0 ~ \\mathrm { m L }$ ，自然pH，121℃灭菌 $2 0 \\mathrm { m i n }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2斜面培养基在各个液体种子培养基的基础上添加 $2 0 . 0 \\ \\mathrm { g }$ 琼脂糖。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 固体发酵培养基",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "豆粕 $4 5 . 0 \\ \\mathrm { g }$ 、麸皮 $5 . 0 \\ \\mathrm { g }$ ，灭菌水适量，自然 $\\mathfrak { p H }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 发酵种子液的制备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先用接种环从解淀粉芽孢杆菌、植物乳杆菌和酿酒酵母菌斜面培养基上分别接1环于各菌种的液体种子培养基中，依次为LB 培养基、MRS 培养基和YPD 培养基，将解淀粉芽孢杆菌置于 $3 7 \\mathrm { ~ \\textdegree ~ }$ 、 $1 8 0 ~ \\mathrm { r / m i n }$ 摇床振荡培养，酿酒酵母菌置于 $3 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 、 $1 8 0 ~ \\mathrm { r / m i n }$ 摇床振荡培",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "养，植物乳杆菌置于30℃静置培养，3个菌种均培养 $4 8 \\mathrm { h }$ 。然后，将上述培养好的菌液按1%的接种量接种到各菌种液体种子培养基中进行扩大培养 $2 4 \\mathrm { h }$ ，制成发酵种子液。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2各菌种生长曲线的测定及接种时间的确定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用分光光度计比浊法[13]，用已经灭菌的未接种各菌种的液体种子培养基作为空白对照，取各自相应培养条件下培养0、3、6、9、12、15、18、21、24、27、30、33、36、39、42、45、48h时的3个菌种，分别测定 $6 0 0 \\mathrm { n m }$ 处的吸光度值，以培养时间为横坐标，以相应菌液的吸光度值为纵坐标绘制生长曲线。选择各菌种处于对数生长期时的菌液接种到固体发酵培养基中，此时菌体活力最强，生长最旺盛[14]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 固态发酵方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将固体发酵培养基分装于 $2 5 0 \\mathrm { m L }$ 三角瓶中，将培养好的发酵种子液按一定的接种量接种到含豆粕的固态发酵培养基中，搅拌均匀，静置发酵。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.4单菌发酵豆粕试验设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.4.1 单因素试验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以接种量(A)、温度(B)、料水比(C)和发酵时间(D)这4个因素为研究对象进行单因素试验，以发酵产物中小肽含量为指标，研究单一因素对解淀粉芽孢杆菌发酵豆粕产小肽的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.4.2单菌发酵豆粕工艺条件的优化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了获得解淀粉芽孢杆菌单菌发酵豆粕的最佳发酵工艺，在单因素试验的基础上，以发酵产物小肽含量为指标，采用四因素三水平 $\\mathrm { L } _ { 9 } ( 3 ^ { 4 } )$ 的正交试验对发酵工艺进行优化，每个水平设3个重复。优化单菌发酵豆粕工艺条件的正交试验设计见表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1优化单菌发酵豆粕工艺条件的正交试验设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 1Orthogonal experiment design of process condition optimization for single strain fermented soybean meal ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea24e5be0a8c6545fa5b61df04f6f36715375629697f7b90226d45d954b406a0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Levels</td><td>接种量 Inoculation quantity (A)/%</td><td>温度 Temperature (B) /℃</td><td>料水比 Feed:water (C)</td><td>发酵时间 Fermentation time (D)/h</td></tr><tr><td>1</td><td>5</td><td>30</td><td>1.0:0.8</td><td>48</td></tr><tr><td>2</td><td>10</td><td>35</td><td>1.0:1.0</td><td>72</td></tr><tr><td>3</td><td>15</td><td>40</td><td>1.0:1.2</td><td>96</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.5混菌发酵豆粕试验设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.5.1 混菌发酵豆粕菌种比例优化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用 $\\mathrm { L } _ { 9 } ( 3 ^ { 4 } )$ 正交试验设计，将3个菌种按3个接种量进行三因素三水平正交试验，每个水平设3个重复。在温度 $3 4 ^ { \\circ } \\mathrm { C }$ ，料水比1.0:1.0，自然pH条件下发酵 $4 8 \\mathrm { { h } }$ ，以发酵产物小肽含量为指标，确定混菌发酵豆粕时3个菌种的最佳接种比例。优化混菌发酵豆粕菌种比例的正交试验设计如表2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2优化混菌发酵豆粕菌种比例的正交试验设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b912b3d0fc43f723c9dc298c773a95e6ae30d5a10bd67992963eca5cb2f4b24.jpg",
+        "table_caption": [
+            "Table 2Orthogonal experiment design of strain proportion optimization for mixed strain "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">fermented soybean meal</td><td colspan=\"2\">1%</td></tr><tr><td>水平</td><td colspan=\"3\">因素 Factors</td></tr><tr><td>Levels</td><td>解淀粉芽孢杆菌 Bacillus amyloliquefaciens (A)</td><td>植物乳杆菌 Lactobacillus plantarum (B)</td><td>酿酒酵母菌 Saccharomyces cerevisiae (C)</td></tr><tr><td>1</td><td>3</td><td>1</td><td>1</td></tr><tr><td>2</td><td>6</td><td>2</td><td>2</td></tr><tr><td>3</td><td>9</td><td>3</td><td>3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.5.2 混菌发酵豆粕工艺条件的优化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在确定3个菌种最佳接种比例的基础上，采用L16（44）正交试验设计，将混菌发酵豆粕的接种量（A）、温度(B)、料水比(C)、时间(D)4个因素进行优化，每个因素设4个水平，每个水平设3个重复，进行四因素四水平的正交试验。优化混菌发酵豆粕工艺条件的正交试验设计如表3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e4278f122c2d8ba45e4cabe888b2c7e64a4a3091a6eeac0737ac42329847026.jpg",
+        "table_caption": [
+            "Table 3Orthogonal experiment design of process condition optimization for mixed strains fermented soybean meal "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">水平 Levels</td><td colspan=\"4\">因素 Factors</td></tr><tr><td>接种量</td><td>温 度</td><td>料水比</td><td>发酵时间</td></tr><tr><td></td><td>Inoculation quantity (A)/%</td><td>Temperature (B)/℃</td><td>Feed: water (C)</td><td>Fermentation time (D)/h</td></tr><tr><td>1</td><td>6</td><td>31</td><td>1.0:0.6</td><td>48</td></tr><tr><td>2</td><td>9</td><td>34</td><td>1.0:0.8</td><td>72</td></tr><tr><td>3</td><td>12</td><td>37</td><td>1.0:1.0</td><td>96</td></tr><tr><td>4</td><td>15</td><td>40</td><td>1.0:1.2</td><td>108</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4 测定指标与方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "发酵结束后，将产物置于 $5 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烘箱中烘至恒重，放于室内回潮 $2 4 \\mathrm { h }$ ，然后粉粹过60目筛，进行指标的测定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.1小肽及常规营养成分含量的测定",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "小肽含量：参照轻工行业标准《大豆肽粉》(QB/T2653-2004)中方法进行测定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "粗蛋白质含量：参照国家标准《饲料中粗蛋白测定方法》（GB/T6432-1994）中方法进行测定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "粗纤维含量：参照国家标准《饲料中粗纤维的含量测定过滤法》（GB/T6434-2006)中方法进行测定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "粗灰分含量：参照国家标准《饲料中粗灰分的测定》（GB/T6438-2007）中方法进行测定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "粗脂肪含量：参照国家标准《饲料中粗脂肪的测定》（GB/T6433-2006）中方法进行测定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 蛋白质分子质量的测定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用十二烷基硫酸钠聚丙烯酰胺凝胶电泳(SDS-PAGE)法[15]测定蛋白质分子质量：称取",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "粉碎过 60 目筛的豆粕 $1 . 0 0 0 \\ \\mathrm { g }$ ，用 $0 . 1 \\mathrm { m o l / L }$ 的 Tris-HCl 缓冲液 $( \\mathrm { p H } { = } 8 . 0 )$ 浸提 $^ { \\textrm { 1 h } }$ ， $3 ~ 0 0 0 { \\times } g .$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4℃离心 $1 0 \\mathrm { m i n }$ ，取上清液置于4℃冰箱保存待用。电泳时采用 $5 \\%$ 浓缩胶、 $1 5 \\%$ 的分离胶，每条泳道加 $2 0 ~ \\mu \\mathrm { L }$ 上清液， $2 0 ~ \\mathrm { m A }$ 、 $8 0 \\mathrm { V }$ 恒流电泳 $2 \\mathrm { h }$ 后，考马斯亮蓝染色观察。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.4.3大豆球蛋白含量的测定",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用大豆球蛋白检测试剂盒进行大豆球蛋白含量的测定，其主要是利用间接竞争的方法，样品中的大豆球蛋白与试剂盒中预包被的抗原竞争大豆球蛋白抗体，然后加入酶标二抗后，3,3',5,5'-四甲基联苯胺（TMB）底物显色，使得样品吸光度值与其所含大豆球蛋白的含量呈负相关，因此可通过酶标仪检测吸光度值，并与标准曲线比较得出样品中大豆球蛋白的含量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.4.4发酵豆粕产物干样pH的测定",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "称取 $3 . 0 0 0 \\ \\mathrm { g }$ 发酵豆粕干样，加入 $3 0 . 0 \\mathrm { m L }$ 的蒸馏水，搅拌均匀，4℃静置6h，过滤，用pH计测定上清液的 $\\mathfrak { p H }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据统计与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "试验数据用 Excel2016进行初步处理后，采用 SPSS19.0软件进行统计分析。其中正交试验数据采用一般线性模型单变量进行极差与方差分析，其他采用单因素方差分析，检验组间差异显著性，并采用Duncan氏法进行多重比较，结果以“平均值 $\\pm$ 标准差\"表示，显著性水平为 $P { < } 0 . 0 5$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1试验菌种生长曲线的测定结果及接种时间的确定",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 解淀粉芽孢杆菌生长曲线 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图1可以看出，解淀粉芽孢杆菌在 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 恒温培养 $3 3 \\mathrm { ~ h ~ }$ 时，生长达到最旺盛期，且在$1 8 \\sim 2 4 \\mathrm { h }$ 这个时间段快速增长，拟为对数生长期。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/28c6764f47a942768d9a596e5e4f9895e126bc52aa4b10a3e62f3572b63ad41a.jpg",
+        "img_caption": [
+            "图1解淀粉芽孢杆菌生长曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.1.2植物乳杆菌生长曲线",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图2可以看出，植物乳杆菌在 $3 0 \\mathrm { ~ \\textdegree C }$ 恒温培养时，在 $3 \\mathord { \\sim } 2 1 \\mathrm { h }$ 内快速生长繁殖，在27h时达到峰值，且于此后生长缓慢，在 $3 0 \\mathrm { h }$ 后生长速度开始下降。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/014ebb2133634f8f07d0d6b130d2ca1a4aac62bf8b65f157374da4571bf90b6d.jpg",
+        "img_caption": [
+            "Fig.1Growth curve of Bacillus amyloliquefaciens ",
+            "图2植物乳杆菌生长曲线",
+            "Fig.2 Growth curve of Lactobacillus plantarum "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.1.3酿酒酵母菌生长曲线 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图3可以看出，酿酒酵母菌在 $3 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 恒温培养时，前 $2 4 \\mathrm { h }$ 生长速度较快，在 $2 7 \\mathrm { h }$ 时",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生长达到峰值，而此后生长进入相对稳定期。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a24f663dc9feddf3567aca0546065592e745385437dcf9115575231eb60c7d0f.jpg",
+        "img_caption": [
+            "图3酿酒酵母菌生长曲线",
+            "Fig.3Growth curve of Saccharomyces cerevisiae "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.1.4试验菌种接种时间的确定",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为便于比较发酵所用各菌种的生长周期，将各菌种生长曲线置于同一图（图4）中。由图4可以看出，植物乳杆菌生长较为迅速，在 $2 1 \\mathrm { h }$ 后即进入稳定期，而解淀粉芽孢杆菌和酿酒酵母菌的生长周期相对较长，分别在27和 $2 4 \\mathrm { h }$ 后进入稳定期。为便于统一试验步骤、简化混菌发酵操作，选择培养 $2 1 \\mathrm { ~ h ~ }$ 时作为3个菌种的接种时间，且此时各菌种均处于生长对数期，菌株呈几何对数速度生长，菌体活力强，能保证其在接种到固体培养基后迅速生长。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3f9685f24351945943041348bd9a6c923dbd74d14b69a0208ae0f8c9cb4e95c.jpg",
+        "img_caption": [
+            "图43个试验菌种的生长曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.2单因素试验结果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 接种量对小肽含量的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d52c118c782499d8c45a9e7f4c3083b0d6bfc8a8ae1ff51d31a3764232907ce2.jpg",
+        "img_caption": [
+            "Fig.4Growth curves of three test strains "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，在料水比为1.0:1.0、温度为 $3 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 、发酵时间为 $7 2 \\mathrm { { h } }$ 的条件下进行发酵时，不同接种量对发酵效果产生了不同的影响。菌种接种量为0时，产物中小肽含量为 $1 . 1 1 \\%$ 显著低于其他4个接种量 $( P { < } 0 . 0 5 )$ ；随着接种量的增加，发酵产物中小肽含量先增加后降低，当接种量为 $10 \\%$ 时，发酵产物中小肽含量达到最高值，为 $1 1 . 1 4 \\%$ ；当接种量为 $1 5 \\%$ 和 $20 \\%$ 时，发酵产物中小肽含量相同。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "数据肩标不同小写字母表示差异显著，相同小写字母表示差异不显著。表6至表8同。 Values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ , while with the same small letter superscripts mean no significant difference $( P { < } 0 . 0 5 )$ . The same as Table 6 to ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table 8. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2.2料水比对小肽含量的影响",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由图6可知，在接种量为 $10 \\%$ 、发酵温度为 $3 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 、发酵时间为 $7 2 \\mathrm { { h } }$ 的条件下进行发酵时，不同料水比对发酵效果产生了不同的影响。料水比为1.0:0.4时，发酵产物中小肽含量为 $5 . 7 1 \\%$ ，显著低于其他4个料水比 $( P { < } 0 . 0 5 )$ ；随着含水量的增加，发酵产物中小肽含量先逐渐增加，当料水比达到1.0:0.8时，发酵产物中小肽含量达到最高，为 $1 1 . 5 7 \\%$ ；其后，随着含水量的继续增加，发酵产物中小肽含量开始呈现下降趋势。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca67ee826a83bff361a2e6c1d7caaf1e63b2e0dd196b81ebae1bc46b33b0b898.jpg",
+        "img_caption": [
+            "图5接种量对小肽含量的影响",
+            "Fig.5Effect of inoculation amount on small peptide content ",
+            "图6料水比对小肽含量的影响",
+            "Fig.6Effect of feed:water on small peptide content "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2.3温度对小肽含量的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由图7可知，接种量为 $10 \\%$ 、料水比为1.0:1.0、发酵时间为 $^ { 7 2 \\mathrm { ~ h ~ } }$ 的条件下进行发酵时，不同发酵温度对发酵效果产生了不同的影响。温度为 $4 5 \\ \\mathrm { ~ \\textdegree ~ }$ 时，发酵产物中小肽含量最低，为$6 . 5 4 \\%$ ，显著低于其他4个温度 $( P { < } 0 . 0 5 )$ ；温度为 $3 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 时，发酵产物中小肽含量达到最高值，",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为 $1 1 . 0 6 \\%$ ，但在25、30、35、40℃条件下，发酵产物中小肽含量无显著差异（ $_ { ( P > 0 . 0 5 ) }$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/22937b26726dedf362744c1996a232e25a4f78e78aabb622561bc3c1837c2354.jpg",
+        "img_caption": [
+            "图7温度对小肽含量的影响",
+            "Fig.7Effect of temperature on small peptide content "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.2.4发酵时间对小肽含量的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由图8可知，在接种量为 $10 \\%$ 、料水比为1:1、温度为 $3 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 的条件下进行发酵时，不同发酵时间对发酵效果产生了不同的影响。发酵时间为 $2 4 \\mathrm { h }$ 时，发酵产物中小肽含量为$6 . 3 0 \\%$ ，显著低于其他4个发酵时间 $_ { ( P < 0 . 0 5 ) }$ ；发酵时间为 $7 2 \\mathrm { { h } }$ 时，发酵产物中多肽含量达到最高值，为 $1 0 . 3 7 \\%$ ，但与发酵时间为48、96、 $1 2 0 \\mathrm { { h } }$ 时无显著差异 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/67d66c6847c50c01509efc0df54fbb5f88f6e6cfd23e794841b7f0a4dded44e7.jpg",
+        "img_caption": [
+            "图8发酵时间对小肽含量的影响",
+            "Fig.8Effect of fermentation time on small peptide content "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.3单菌发酵豆粕工艺条件优化的试验结果 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由表4中正交试验结果的极差（R）值分析可以看出，4个因素对发酵豆粕产小肽的影响程度为 $\\mathrm { \\bf B } { \\mathrm { > } } \\mathrm { \\bf D } { \\mathrm { > } } \\mathrm { \\bf C } { \\mathrm { > } } \\mathrm { \\bf A }$ ，即温度对发酵效果的影响最大，发酵时间其次，料水比和接种量对发酵效果的影响较小。接种量对发酵产物中多肽含量的影响最小，所以将此项作为误差项进行方差分析。进一步的方差分析结果（表5）显示，温度和发酵时间对发酵产物中小肽含量有显著的影响（ $P { < } 0 . 0 5 )$ 。结合 $\\mathbf { k }$ 值大小分析可得，解淀粉芽孢杆菌固态发酵豆粕工艺条件的最佳组合为 $\\mathrm { A } _ { 2 } \\mathrm { B } _ { 3 } \\mathrm { C } _ { 3 } \\mathrm { D } _ { 2 }$ ，即在接种量为 $10 \\%$ 、温度为 $4 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 、料水比为1.0:1.2、发酵时间为$7 2 \\mathrm { { h } }$ 时，发酵效果最优。",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3df18f448178a049a4e1a300804157e9f2fec46b7ceebdf663c5af95eab51fd.jpg",
+        "table_caption": [
+            "表4单菌发酵豆粕正交试验结果",
+            "Table 4 Results of orthogonal experiment of single strain fermented soybean meal "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">式验号</td><td colspan=\"4\">因素Factor</td><td></td></tr><tr><td>接种量</td><td>温度</td><td>料水比</td><td>发酵时间</td><td>小肽含量</td></tr><tr><td>estNo.</td><td>Inoculation quantity</td><td>Temperature (B)</td><td>Feed:water (C)</td><td>Fermentation</td><td>Small peptide content/%</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/12598d7b1e76f57e5ac3e25375649ff0da10a92e3dcc8fd53ab8d216a7c46b5a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>(A)/%</td><td>/℃</td><td></td><td>time (D)/h</td><td></td></tr><tr><td>1</td><td>5(1)</td><td>30(1)</td><td>1.0:0.8(1)</td><td>48(1) 4.70</td></tr><tr><td>2</td><td>5(1)</td><td>35(2)</td><td>1.0:1.0(2)</td><td>72(2) 8.98</td></tr><tr><td>3</td><td>5(1)</td><td>40(3)</td><td>1.0:1.2(3)</td><td>96(3) 11.49</td></tr><tr><td>4</td><td>10(2)</td><td>30(1)</td><td>1.0:1.0(2) 96(3)</td><td>6.74</td></tr><tr><td>5</td><td>10(2)</td><td>35(2)</td><td>1.0:1.2(3)</td><td>48(1) 8.42</td></tr><tr><td>6</td><td>10(2)</td><td>40(3)</td><td>1.0:0.8(1) 72(2)</td><td>11.33</td></tr><tr><td>7</td><td>15(3)</td><td>30(1)</td><td>1.0:1.2(3)</td><td>72(2) 8.39</td></tr><tr><td>8</td><td>15(3)</td><td>35(2)</td><td>1.0:0.8(1) 96(3)</td><td>8.65</td></tr><tr><td>9</td><td>15(3)</td><td>40(3)</td><td>1.0:1.0(2)</td><td>48(1) 9.03</td></tr><tr><td>K1</td><td>25.17</td><td>19.83</td><td>24.68</td><td>22.15</td></tr><tr><td>K2</td><td>26.49</td><td>26.05</td><td>24.75</td><td>28.70</td></tr><tr><td>K3</td><td>26.07</td><td>31.85</td><td>28.3</td><td>26.88</td></tr><tr><td>k1</td><td>8.39</td><td>6.61</td><td>8.23</td><td>7.38</td></tr><tr><td>k2</td><td>8.83</td><td>8.68</td><td>8.25</td><td>9.57</td></tr><tr><td>k3</td><td>8.69</td><td>10.62</td><td>9.43</td><td>8.96</td></tr><tr><td>极差R</td><td>0.44</td><td>4.01</td><td>1.20</td><td>2.19</td></tr><tr><td>因素主次</td><td></td><td></td><td></td><td></td></tr><tr><td>Primary and secondary factors</td><td colspan=\"2\">B>D>C>A</td><td></td><td></td></tr><tr><td>最佳组合</td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td>Best combination</td><td colspan=\"2\">A2B3C3D2</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "表5方差分析结果",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "225 ",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/64125ab0168de9a4dd2681ab3b155aa9a9d03097f51b80bd5d49777016c3c3da.jpg",
+        "table_caption": [
+            "Table 5 Variance analysis result "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方差来源 Source of variance</td><td>离差平方和 Sum of squares of deviations</td><td>自由度 Freedom</td><td>方差 Variance</td><td>F值 F-value</td><td>P值 P -value</td></tr><tr><td>温度 Temperature (B)</td><td>24.072</td><td>2</td><td>12.036</td><td>79.317</td><td>0.012*</td></tr><tr><td>料水比 Feed: water (C)</td><td>2.848</td><td>2</td><td>1.424</td><td>9.384</td><td>0.096</td></tr><tr><td>发酵时间</td><td>7.620</td><td>2</td><td>3.810</td><td>25.108</td><td>0.038*</td></tr><tr><td>Fermentation time (D) 误差Error</td><td>0.303</td><td>2</td><td>0.152</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "“\\*”表示有显著性差异（ $\\mathrm { P } { < } 0 . 0 5 \\ \\cdot$ 。下同。   \n“\\*\" mean had significant difference( $\\mathrm { P } { < } 0 . 0 5$ ）.The same as below. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.4混菌发酵豆粕的试验结果",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 混菌发酵豆粕菌种比例优化结果",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "由表6中正交试验结果的R值分析可以看出，3个菌种对发酵豆粕产小肽的影响程度为",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$A { > } \\mathrm { B > } \\mathrm { C }$ ，即解淀粉芽孢杆菌对发酵效果影响最大，其次是植物乳杆菌，酿酒酵母菌对发酵效果的影响最小。进一步的方差分析结果（表7）显示，3个菌种对发酵产物中小肽含量均没有显著影响 ( $. { \\cal P } { > } 0 . 0 5$ )。因此，此次试验中解淀粉芽孢杆菌、植物乳杆菌和酿酒酵母混合发酵豆粕接种比例的最佳组合为 $\\mathrm { A } _ { 3 } \\mathrm { B } _ { 3 } \\mathrm { C } _ { 2 }$ ，即解淀粉芽孢杆菌：植物乳杆菌：酿酒酵母菌$\\scriptstyle - 9 : 3 : 2$ 。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "表6混菌发酵豆粕菌种比例正交试验结果",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/6017aff2eea6f27128eecc63758bbc2fced40bfcdc4af9357e0fa48b621e6eb0.jpg",
+        "table_caption": [
+            "Table 6Orthogonal test results of strain proportion for mixed strains fermented soybean meal "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Test No.</td><td colspan=\"3\">因素 Factors</td><td rowspan=\"2\">小肽含量 Small peptide</td></tr><tr><td>解淀粉芽孢杆菌 Bacillus amyloliquefaciens (A)</td><td>植物乳杆菌 Lactobacillus plantarum (B)</td><td>酿酒酵母菌 Saccharomyces</td></tr><tr><td></td><td>3(1)</td><td>1 (1)</td><td>cerevisiae (C) 1 (1)</td><td>6.35</td></tr><tr><td></td><td>3(1)</td><td>2 (2)</td><td>2 (2)</td><td>5.93</td></tr><tr><td></td><td>3(1)</td><td>3(3)</td><td>3(3)</td><td>6.87</td></tr><tr><td></td><td>6(2)</td><td>1(1)</td><td>2 (2)</td><td>6.38</td></tr><tr><td></td><td>6(2)</td><td>2(2)</td><td>3(3)</td><td>6.41</td></tr><tr><td></td><td>6 (2)</td><td>3(3)</td><td>1(1)</td><td>6.69</td></tr><tr><td></td><td>9 (3)</td><td>1(1)</td><td>3(3)</td><td>7.40</td></tr><tr><td>8</td><td>9 (3)</td><td>2(2)</td><td>1(1)</td><td>7.35</td></tr><tr><td>9</td><td>9(3)</td><td>3(3)</td><td>2(2)</td><td>8.31</td></tr><tr><td>K1</td><td>19.15</td><td>20.13</td><td>20.57</td><td></td></tr><tr><td>K2</td><td>19.48</td><td>19.69</td><td>20.62</td><td></td></tr><tr><td>K</td><td>23.06</td><td>21.87</td><td>20.68</td><td></td></tr><tr><td>k1</td><td>6.38</td><td>6.71</td><td>6.86</td><td></td></tr><tr><td>k2</td><td>6.49</td><td>6.56</td><td>6.87</td><td></td></tr><tr><td>k</td><td>7.69</td><td>7.29</td><td>6.89</td><td></td></tr><tr><td>极差R</td><td>1.31</td><td>0.73</td><td>0.03</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "238 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "表7方差分析结果",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/6cfb52e84d9ffd2f9d649093c97a306679a9e18b5a25d6ab7378d29b4d4ad703.jpg",
+        "table_caption": [
+            "Table 7 Variance analysis result "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方差来源 Source of variance</td><td>离差平方和 Sum of squares of deviations</td><td>自由度 Freedom</td><td>方差 Variance</td><td>F值 F-value</td><td>P值 P -value</td></tr><tr><td>解淀粉芽孢杆菌 Bacillus</td><td>3.135</td><td>2</td><td>1.567</td><td>16.998</td><td>0.056</td></tr><tr><td>amyloliquefaciens (A)</td><td>0.886</td><td>2</td><td>0.443</td><td>4.804</td><td>0.172</td></tr><tr><td>植物乳杆菌 Lactobacillus</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>plantarum (B)</td><td>0.016</td><td>2</td><td>0.08</td><td>0.085</td><td></td></tr><tr><td>酿酒酵母菌</td><td></td><td></td><td></td><td></td><td>0.922</td></tr><tr><td>Saccharomyces</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>cerevisiae (C) 误差Error</td><td>0.184</td><td>2</td><td>0.092</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "241 由表8中正交试验结果的R值分析可以看出，4个因素对发酵豆粕产小肽的影响程度为  \n242 $A { > } \\mathrm { D > } \\mathrm { C > B }$ ，即接种量对发酵效果的影响最大，其次是发酵时间，料水比和温度对发酵效果  \n243 的影响不大。进一步的方差分析结果（表9）显示，接种量和发酵时间对发酵产物中小肽含  \n244 量有显著影响（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ 。结合 $\\mathbf { k }$ 值大小分析可得，3个菌种混合发酵豆粕工艺条件的最佳  \n245 组合为 $\\mathrm { { A } _ { 4 } \\mathrm { { B } _ { 1 } C _ { 3 } D _ { 4 } } }$ ，即在接种量为 $1 5 \\%$ 、温度为31℃、料水比为1.0:1.0、发酵时间为 $1 2 0 \\mathrm { { h } }$   \n246 的条件下，可以取得最优发酵效果。",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5214b69616e8f51ceb5ac6e4ef982ff05045a58a1cda441faf277bd5c23ff7b.jpg",
+        "table_caption": [
+            "240 2.4.2 混菌发酵豆粕工艺条件优化的试验结果 ",
+            "表8混菌发酵豆粕正交试验结果",
+            "Table 8Orthogonal test results of mixed stains fermented soybean meal "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">因素 Factors</td><td>小肽含量</td></tr><tr><td>试验号</td><td>接种量</td><td>Small peptide</td><td>料水比</td><td>发酵时</td><td>Peptide content/%</td></tr><tr><td rowspan=\"2\">Test No.</td><td>Inoculation</td><td>content/%</td><td>Feed:water (C)</td><td>间</td><td></td></tr><tr><td>quantity (A)/%</td><td></td><td></td><td>Fermentat</td><td></td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/b480b1c5cae5c09fc2cf7b4ce1112fe075797c9e27a9993d48674090e9d7ea86.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">ion time</td></tr><tr><td></td><td>31 (1)</td><td>1.0:0.6 (1)</td><td>(D)/h 48 (1)</td></tr><tr><td>1 6 (1) 2 6 (1)</td><td>34 (2)</td><td>1.0:1.2 (4)</td><td>108(4)</td></tr><tr><td>3 6 (1)</td><td>37 (3)</td><td>1.0:0.8 (2) 72 (2)</td><td>8.24 6.89</td></tr><tr><td></td><td>40(4)</td><td>1.0:1 (3)</td><td>6.90</td></tr><tr><td>4 6 (1) 9 (2)</td><td></td><td>1.0:1.2 (4)</td><td>96 (3) 96 (3) 7.13</td></tr><tr><td>5</td><td>31 (1)</td><td></td><td>72 (2)</td></tr><tr><td>6 9(2)</td><td>34 (2)</td><td>1.0:0.6 (1)</td><td>7.54</td></tr><tr><td>7 9(2)</td><td>37 (3)</td><td>1.0:1 (3)</td><td>108 (4) 8.88</td></tr><tr><td>8 9 (2)</td><td>40(4)</td><td>1.0:0.8 (2)</td><td>48(1) 4.95</td></tr><tr><td>9 12 (3)</td><td>31 (1)</td><td>1.0:0.8 (2)</td><td>108 (4) 8.87</td></tr><tr><td>10 12 (3)</td><td>34 (2)</td><td>1.0:1(3) 1.0:0.6 (1)</td><td>48(1) 5.81 96 (3)</td></tr><tr><td>11 12 (3)</td><td>37 (3)</td><td></td><td>7.26 72 (2)</td></tr><tr><td>12 12 (3)</td><td>40(4)</td><td>1.0:1.2 (4)</td><td>7.38 72 (2)</td></tr><tr><td>13 15 (4)</td><td>31 (1)</td><td>1.0:1.0 (3)</td><td>8.31</td></tr><tr><td>14 15 (4) (4)</td><td>34 (2)</td><td>1.0:0.8 (2)</td><td>96 (3) 7.90</td></tr><tr><td>15 15 15 (4)</td><td>37 (3)</td><td>1.0:1.2 (4)</td><td>48(1) 6.53 108 (4)</td></tr><tr><td>16 K1</td><td>40 (4)</td><td>1.0:0.6(1) 29.49</td><td>9.41 22.57</td></tr><tr><td>17.31 28.50</td><td>29.59 29.49</td><td>28.61</td><td>30.12</td></tr><tr><td>K2 K3</td><td>29.56</td><td>29.90</td><td>21.93</td></tr><tr><td>29.32 K4 32.15</td><td>28.64</td><td>29.28</td><td>35.40</td></tr><tr><td>k1 4.33</td><td>7.40</td><td>7.37</td><td>5.64</td></tr><tr><td>k2 7.13</td><td>7.37</td><td>7.15</td><td>7.53</td></tr><tr><td>k3 7.33</td><td>7.39</td><td>7.48</td><td>5.48</td></tr><tr><td>k4 8.04</td><td>7.16</td><td>7.32</td><td>8.85</td></tr><tr><td>极差R 3.71</td><td>0.24</td><td>0.33</td><td>3.21</td></tr><tr><td>因素主次</td><td></td><td></td><td></td></tr><tr><td colspan=\"4\">Primary and secondary factors</td></tr><tr><td colspan=\"4\">A>D>C>B</td></tr><tr><td colspan=\"4\"></td></tr><tr><td colspan=\"4\">最佳组合 A4BiC3D 4</td></tr><tr><td colspan=\"4\">Best combination</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "249 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "表9方差分析结果",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "250 ",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/acf9afc05088f37d7a56377c9bb4b5dfc6639c3b1049b3c29d17f3cc697276d6.jpg",
+        "table_caption": [
+            "Table 9 Variance analysis result "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方差来源 Source of variance</td><td>离差平方和 Sum of squares of deviations</td><td>自由度 Freedom</td><td>方差 Variance</td><td>F值 F -value</td><td>P值 P -value</td></tr><tr><td>接种量</td><td>3.197</td><td>3</td><td>1.066</td><td>21.033</td><td>0.016*</td></tr><tr><td>Inoculation quantity</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(A) 温度 Temperature</td><td>0.156</td><td>3</td><td>0.052</td><td>1.028</td><td>0.491</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/e61a2f713102403dc228caed1f1e4ccb2b1f8d6454e2746c5417170ffa08093d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>料水比</td><td>0.222</td><td>3</td><td>0.074</td><td>1.459</td><td>0.382</td></tr><tr><td>Feed:water (C)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>发酵时间</td><td>20.818</td><td>3</td><td>6.939</td><td>136.942</td><td>0.001*</td></tr><tr><td>Fermentation time (D)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>误差Error</td><td>0.152</td><td>3</td><td>0.051</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2.5 豆粕发酵前后理化性质的变化",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2.5.1 豆粕发酵前后营养物质含量",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "最佳发酵条件下，豆粕发酵前后多肽、粗蛋白质、纤维、粗灰分和粗脂肪的含量的变化情况如表10所示。豆粕经单菌（解淀粉芽孢杆菌）和混菌（解淀粉芽孢杆菌：植物乳杆菌：酿酒酵母菌 $\\scriptstyle - 9 : 3 : 2$ ）发酵后，小肽含量分别为 $12 . 7 3 \\%$ 和 $1 0 . 4 2 \\%$ ，均显著高于未发酵组（ $\\scriptstyle P < 0 . 0 5 .$ )，而且单菌发酵组小肽含量要显著高于混菌发酵组（ $_ { \\cdot } P { < } 0 . 0 5 { \\mathrm { : } }$ ；豆粕经单菌和混菌发酵后，粗蛋白质含量由未发酵时的 $4 6 . 7 0 \\%$ 分别提高到 $5 5 . 3 1 \\% ( P { < } 0 . 0 5 )$ 和 $5 6 . 1 4 \\% ( P { < } 0 . 0 5 )$ 且混菌发酵组显著高于单菌发酵组（ $_ { . } { \\cdot } { \\cdot } { \\cdot } 0 . 0 5 \\rangle$ ；与未发酵组相比，豆粕经单菌和混菌发酵后粗纤维含量显著降低（ $. P { < } 0 . 0 5 )$ ，但单菌发酵组和混菌发酵组之间差异不显著（ $_ { . P > 0 . 0 5 ) }$ ；豆粕经单菌和混菌发酵后，粗灰分含量由未发酵时的 $7 . 5 8 \\%$ 分别提高到 $9 . 6 8 \\% ( P { < } 0 . 0 5 )$ 和 $9 . 4 8 \\%$ （ $\\scriptstyle P < 0 . 0 5 .$ )，但单菌发酵组和混菌发酵组之间差异不显著（ $_ { \\cdot P > 0 . 0 5 ) }$ ；同时，豆粕经单菌和混菌发酵后，粗脂肪含量由未发酵时的 $1 . 8 9 \\%$ 分别提高到 $2 . 3 4 \\%$ （ $_ { . P < 0 . 0 5 ) }$ 和 $2 . 1 8 \\%$ （ $\\scriptstyle P < 0 . 0 5 )$ )，但单菌发酵组和混菌发酵组之间差异不显著 （ $_ { . P > 0 . 0 5 ) }$ ）°",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "表10豆粕发酵前后营养物质含量的变化（干物质基础)",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/48f3b57b98d29c1d7fdb0ad7a30d2a1fe7698fb9ab652d4aa3600e64fcf235dd.jpg",
+        "table_caption": [
+            "Table 10Changes of nutrient substance contents for soybean meal before and after "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>266</td><td>fermentation (DMbasis）</td><td></td><td></td><td>%</td><td></td></tr><tr><td>项目Items</td><td>小肽 Small peptide</td><td>粗蛋白质 CP</td><td>粗纤维 CF</td><td>粗灰分 Ash</td><td>粗脂肪 EE</td></tr><tr><td>未发酵组</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Unfermented group 单菌发酵组</td><td>1.20±0.18c</td><td>46.70±0.21c</td><td>7.60±0.43a</td><td>7.58±0.13b</td><td>1.89±0.16b</td></tr><tr><td>Single strain fermented</td><td>12.73±0.50a</td><td>55.31±0.83b</td><td>5.56±0.29b</td><td>9.68±0.07a</td><td>2.34±0.19a</td></tr><tr><td>group</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>混菌发酵组</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/5beafba31ca9070778521a2e6430c1c11dadb2ade1dc99721e4fd8a7b3afd4dc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Mixed strains fermented</td><td>10.42±0.93b</td><td>56.14±1.07a</td><td>5.62±0.69b</td><td>9.48±0.16a</td><td>2.18±0.22a</td></tr><tr><td>group</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "同列数据肩标无字母或字母相同表示差异不显著（ $. P { > } 0 . 0 5$ )，不同小写字母表示差异显著（ $\\scriptstyle \\cdot P < 0 . 0 5 .$ 。下同。In the same column, values with no letter orthe same lettr superscripts mean no significant dierence $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2.5.2 豆粕发酵前后 $\\mathfrak { p H }$ 的变化",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "由表11可知，未发酵豆粕的 $\\mathfrak { p H }$ 为6.42，豆粕经单菌发酵后， $\\mathfrak { p H }$ 上升到6.77，差异不显著（ $_ { . P > 0 . 0 5 ) }$ ；而经混菌发酵后， $\\mathsf { p H }$ 下降到5.21，差异显著（ $_ { . P < 0 . 0 5 ) }$ ；此外，混菌发酵组的 $\\mathfrak { p H }$ 还显著低于单菌发酵组（ $. P { < } 0 . 0 5 )$ 。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "表11豆粕发酵前后 pH",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea726566f5cf301ef2293aab5308ec8fb00afa8abea83d01d8b6bb14866faa0e.jpg",
+        "table_caption": [
+            "Table 11Change of pH for soybean meal before and after fermentation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Item pH</td></tr><tr><td>未发酵组 Unfermented group 6.42±0.09a</td></tr><tr><td>单菌发酵组 Single strain fermented group 6.77±0.20a</td></tr><tr><td>混菌发酵组 Mixed strains fermented group 5.21±0.13c</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2.5.3 豆粕发酵前后大豆球蛋白含量的变化",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "由表12可知，豆粕经单菌和混菌发酵后大豆球蛋白含量均显著降低（ $_ { \\cdot } P { < } 0 . 0 5 )$ ，其中单菌发酵组大豆球蛋白含量由原来未发酵时的 $1 1 8 ~ \\mathrm { m g / g }$ 下降到 $5 6 . 1 2 \\mathrm { m g / g }$ ，混菌发酵组大豆球蛋白含量则下降到 $7 0 . 2 2 \\mathrm { m g / g }$ ，且单菌发酵组要显著低于混菌发酵组（ $_ { . } { \\cdot } { \\cdot } { \\cdot } 0 . 0 5 \\rangle$ 。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "表12豆粕发酵前后大豆球蛋白含量(干物质基础)",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Table l2Change of Soybean globulin content for soybean meal before and after fermentation ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "（DM basis) mg/g",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/151b7cbcc4ba1b950e29e401cde9f1ee861ccd8561a0b647f961aa36a0054126.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>未发酵组 Unfermented group</td><td>118.51±12.35a</td></tr><tr><td>单菌发酵组 Single strain fermented group</td><td>56.12±1.05c</td></tr><tr><td>混菌发酵组 Mixed strains fermented group</td><td>70.22±4.04b</td></tr></table></body></html>",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.5.4蛋白质分子质量的测定结果",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "由图9可以看出，未发酵豆粕中大分子的蛋白质占了一定比例，主要分布在35 和 $4 5 \\mathrm { { k u } }$ 豆粕经发酵后，样品中大于 $3 5 \\mathrm { k u }$ 的大分子蛋白质明显减少，主要分布在小于 $2 5 \\mathrm { { k u } }$ 部分，少数分布在 $2 5 \\mathrm { k u }$ ；与混菌发酵组相比，单菌发酵组蛋白质分子质量小于 $1 5 \\mathrm { { k u } }$ 的部分更多。",
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a3b4185165aee320f018356b6b1166d041a3dbadea31a85d7873a447de9cff2.jpg",
+        "img_caption": [
+            "图9豆粕发酵前后蛋白质分子电泳图"
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "M:蛋白质 Marker；0:未发酵豆粕样品；1:单菌发酵豆粕样品；2:混菌发酵豆粕样品。 M: protein marker; O: unfermented soybean meal sample; 1: single strain fermented soybean meal sample; 2: mixed strains fermented soybean meal sample. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Fig.9Electrophoretogram of protein molecular for soybean meal before and after fermentation ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "3.1豆粕发酵前后营养物质含量的变化",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "经微生物发酵处理后，豆粕中部分营养物质含量有所提高，抗营养因子得到有效降解。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "本试验中，豆粕经单菌和混菌发酵后，小肽含量较未发酵组分别提高了10.61和8.68倍，并",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "五十函度 立佰$< 1 0 \\mathrm { k u }$ 小肽的含量，未发酵豆粕中有 $2 2 . 2 \\%$ 的肽为大肽，而发酵豆粕中不含有 ${ > } 6 0 \\mathrm { k u }$ 的大肽，这与本试验结果具有一致性。小肽含量的升高是因为微生物发酵可以把豆粕中的蛋白质水解为氨基酸、多肽和氨等小分子物质[17-18]，本试验中单菌发酵组和混菌发酵组小肽含量存在显著差异可能是因为将豆粕中蛋白质降解为小肽的酶主要是由解淀粉芽孢杆菌产生的，而在进行混菌发酵时，解淀粉芽孢杆菌的接种量相对低于单菌发酵时的接种量。马文强等[19]研究发现，豆粕经微生物发酵后，粗蛋白质含量相较发酵前提高了 $1 3 . 4 8 \\%$ 。刘剑飞[20]选用1株厌氧型枯草芽孢杆菌在一定条件下对豆粕进行厌氧发酵，测得粗蛋白质含量提高了 $1 3 . 0 \\%$ 达到 $5 3 . 2 7 \\%$ ;经枯草芽孢杆菌、酵母菌、植物乳杆菌混菌发酵后,粗蛋白质含量提高了 $1 3 . 5 \\%$ 达到 $5 3 . 5 1 \\%$ 。王洪瑞[21]在研究微生物发酵豆粕工艺时发现，豆粕经发酵后，粗蛋白质含量最高可达 $5 9 . 5 2 \\%$ 。本试验中，豆粕经单菌和混菌发酵后，粗蛋白质含量分别提高了 $1 8 . 4 4 \\%$ 和 $2 0 . 2 1 \\%$ ，并且混菌发酵组粗蛋白质含量要显著高于单菌发酵组。豆粕固态发酵后粗蛋白质含量都有不同程度提高，这主要是因为在发酵过程中微生物（主要是有益菌）的呼吸作用消耗了部分有机物料，从而释放出二氧化碳（ $\\mathrm { C O } _ { 2 }$ ）和水（ $_ \\mathrm { H _ { 2 } O }$ )，使产物总量减少，出现了蛋白质的\"浓缩效应\"[22],还有部分增加的蛋白质是酵母菌体含有的菌体蛋白质和发酵过程中无机铵盐经由酵母菌转化而成的，这是发酵产物中粗蛋白质含量提高最有意义的部分[23]。在发酵过程中，由于微生物大量繁殖，不仅提高了发酵豆粕蛋白质基料的蛋白质水平，而且在发酵过程中，豆粕中的植物性蛋白质被微生物代谢利用转化为菌体蛋白质，这样也改变了豆粕中蛋白质的品质。刘栩州[24]研究发现，运用复合微生物发酵豆粕，产物中粗蛋白质含量略微上升，但粗纤维含量较发酵前下降了 $3 3 . 7 \\%$ ，而本试验中豆粕经单菌和混菌发酵后粗纤维含量下降量分别为 $2 6 . 8 4 \\%$ 和 $2 6 . 0 5 \\%$ ，可能是因为菌种差异而对粗纤维的降解能力不同。经单菌和混菌发酵后，发酵产物中的粗灰分和粗脂肪含量都到了显著提高，这是由于发酵过程中豆粕中部分有机物被微生物生长所利用而造成干物质损失，使得它们的含量相对提高，这一结果与付亭亭[25]和Chi等[10]的研究结果一致。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3.2豆粕发酵前后pH的变化。",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "本试验中，单菌发酵组发酵产物的pH升高，而杨守凤[26]在乳酸菌固态发酵豆粕的研究中则发现发酵产物pH显著降低,可能是因为解淀粉芽孢杆菌在发酵豆粕过程中产生蛋白酶，蛋白酶降解豆粕中蛋白质产生胺类物质，甚至产生一些氨气使得产物pH升高，而乳酸菌在发酵过程中可以产生一些乳酸等有机酸使发酵基质pH降低。本试验结果显示，豆粕经混菌发酵后pH显著降低，可能是因为在固态培养基中，解淀粉芽孢杆菌和酿酒酵母菌均为好氧菌，发酵前期它们的生长代谢为乳酸菌的生长繁殖创造了厌氧环境，后期乳酸菌大量繁殖代谢产生的乳酸中和掉了一部分胺类物质，降低了培养基pH，同时改善了发酵产物的风味，这就是发酵饲料成品具有酸香味的一个重要原因[27]，这与刘剑飞[20]、史玉宁等[28]的研究结果一致。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3.3豆粕发酵前后大豆球蛋白含量的变化",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "大豆球蛋白是热稳定性最强的抗原蛋白之一，同时也是大豆引起动物过敏反应和腹泻的主要成分。付亭亭[25]分别采用4种不同的微生物对豆粕进行适当的发酵，发酵产物中大豆球蛋白含量均有不同程度的降低，其中大豆球蛋白的含量最低减少 $6 . 8 6 \\%$ ，最高可达 $2 9 . 2 5 \\%$ 混菌发酵豆粕的结果表明不同的菌种组合表现出不同的降解能力，但是与单一菌种发酵结果相比，效果基本一致。而本试验中所用菌种对大豆球蛋白降解能力相对较高，豆粕经单菌、混菌发酵后，大豆球蛋白的含量分别降低 $5 2 . 6 5 \\%$ 和 $4 0 . 7 5 \\%$ ，且单菌发酵效果要显著优于混菌发酵效果。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3.4豆粕发酵前后蛋白质分子质量的变化",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "李世豪[29]在微生物对豆粕发酵的动态研究中发现，未发酵豆粕的蛋白质主要集中在$4 5 \\sim 6 6 \\mathrm { k u }$ ，经微生物发酵 $7 2 \\mathrm { { h } }$ 后， $2 0 \\mathrm { k u }$ 以上的蛋白质大量降解，只剩下 $2 0 \\mathrm { k u }$ 以下的蛋白质，呈现出大分子蛋白质逐渐减少，小分子蛋白质逐渐增多的现象。本试验中，未经发酵豆粕的蛋白质主要在分布在 $3 0 \\mathrm { k u }$ 以上，集中分布在35和 $4 5 \\mathrm { { k u } }$ 区域，而经微生物发酵后，豆粕的蛋白质分子质量发生了明显变化，大分子蛋白质被降解为小分子蛋白质，集中分布在$1 5 \\sim 2 0 \\mathrm { k u }$ ， $3 5 \\mathrm { { k u } }$ 以上蛋白质的被降解完全，这与李世豪[29]的研究结果一致。大分子蛋白质经过微生物发酵后被降解为小分子蛋白质、小肽、氨基酸等小分子物质，使得其更有利于动物的消化利用，同时豆粕中的抗原蛋白也得到了很好地降解，使得蛋白质品质得到提升，这也是发酵豆粕利用率较高的原因之一[]。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4结论  \n$\\textcircled{1}$ 通过研究解淀粉芽孢杆菌、植物乳杆菌和酿酒酵母菌的生长曲线，得出最佳接种时间为 $2 1 \\mathrm { h }$ 。  \n$\\textcircled{2}$ 解淀粉芽孢杆菌单菌固态发酵豆粕最佳工艺条件为：接种量为 $10 \\%$ 、温度为 $4 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 、料水比为1.0:1.2、发酵时间为 $7 2 \\mathrm { { h } }$ ；解淀粉芽孢杆菌、植物乳杆菌、酿酒酵母混菌固态发酵豆粕的最佳工艺条件为：接种量为 $1 5 \\%$ 、温度为31℃、料水比为1.0:1.0、发酵时间为120h，且试验菌株的接种比例为：解淀粉芽孢杆菌：植物乳杆菌：酿酒酵母 ${ \\tt : } = 9 3 { \\tt : } 2 { \\tt \\ }$ 。  \n$\\textcircled{3}$ 豆粕经过微生物固态发酵后小肽含量得到提高，营养价值得到改善，大分子蛋白被降解，pH也发生了变化，且单菌与混菌发酵效果存在差异。  \n参考文献：  \n[1]方华,季春源,银红娟.高赖氨酸发酵豆粕发酵条件的优化[J].粮食与饲料工  \n业,2008(3):31-32.  \n[2]林文辉,虞宗敢.发酵豆粕生产工艺与产品质量及其稳定性的关系[J].渔业现代  \n化,2010,37(3):51-54.  \n[3]DUNSFORD B R,KNABE D A,HAENSLY W E.Effect of dietary soybean meal on themicroscopic anatomy of the small intestine in the early-weaned pig[J].Journal of Animal  \nScience,1989,67(7):1855-1863.",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "max) allergy in Europe:Gly m 5 ( $\\beta$ -conglycinin) and Gly m 6 (glycinin) are potential diagnostic markers for severe allergic reactions to soy[J].Journal of Allergy and Clinical Immunol0gy,2009,123(2):452-428. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "[5]张万明,边藏丽,涂献玉,等.乙醇消毒液污染解淀粉芽孢杆菌的检测报告[J].中国消毒学杂 志,2006,23(6):579-580.   \n[6]ZAMBARE V,CHRISTOPHER L.Statistical analysis of cellulase production in Bacilus amyloliquefaciens UNPDV-22[J].Extreme Life Biospeology & Astrobiology,2011,3(1).38-45. [7]GEORGE S,RAJU V,KRISHNAN MR V,et al.Production of protease by Bacillus   \namyloliquefaciens in solid-state fermentation and its application in the unhairing of hides and skins[J].Process Biochemistry,1995,30(5):457-462.   \n[8]王卉,游成真,秦宇轩,等.解淀粉芽孢杆菌L-S60生物学特性及其固态发酵工艺研究[J].中 国农业大学学报,2016,21(9):133-142.   \n[9]李红亚,李术娜,王树香,等.解淀粉芽孢杆菌MN-8对玉米秸秆木质纤维素的降解[J].应用 生态学报,2015,26(5):1404-1410.   \n[10]CHI C H,CHO S J.Improvement of bioactivity of soybean meal by solid-state fermentation with Bacillus amyloliquefaciens versus Lactobacillus spp. and Saccharomyces   \ncerevisiae[J].LWT-Food Science and Technology,2016,68:619-625.   \n[11]LEE N R,GO T H,LEE S M,et al.Characteristics of chungkookjang prepared by Bacillus amyloliquefaciens with different soybeans and fermentation temperatures[J].Korean Journal of Microbiology,2013,49(1):71-77.   \n[12]HIRABAYASHI M,MATSUI T,YANO H,et al.Fermentation of soybean meal with Aspergillus usamii reduces phosphorus excretion in chicks[J].Poultry Science,1998,//(4):552-556.   \n[13]MELETIADIS J,TE DORSTHORST D TA,VERWEIJ P E.Use of turbidimetric growth curves for early determination of antifungal drug resistance of filamentous fungi[J].Journal of Clinical Microbiology,2003,41(10):4718-4725.   \n[14]周德庆.微生物学实验手册[M].上海:上海科学技术出版社,1986.   \n[15]HITZEMAN R A,HAGIE F E,LEVINE H L,et al.Expression of a human gene for interferon in yeast[J].Nature,1981,293(5835):717-722.   \n[16]HONG K J,LEE C H,KIM S W.Aspergillus oryzae GB-107 fermentation improves nutritional quality of food soybeans and feed soybean meals[J].Journal of Medicinal   \nFood,2004,7(4):430-435.   \n[17]STEINKRAUS K H.Handbook of indigenous fermented foods[M].New York:CRC Press,1996.   \n[18]SARKAR P K,TAMANG J P.Changes in the microbial profile and proximate composition during natural and controlled fermentations of soybeans to produce kinema[J].Food   \nMicrobiology,1995,12:317-325.   \n[19]马文强,冯杰,刘欣.微生物发酵豆粕营养特性研究[J].中国粮油学报,2008,23(1):121-124. [20]刘剑飞.高活性发酵豆粕生产菌株筛选及其最佳发酵条件的研究[D].硕士学位论文.南 昌:南昌大学,2011.   \n[21] 王洪瑞.豆粕发酵工艺改进及发酵物对仔猪生长性能的影响[D].硕士学位论文.济南:山 东农业大学,2012.   \n[22] 张红,褚西宁.固体发酵饲料酵母对非蛋白氮转化能力的研究[J].饲料工   \n业,1996(2):17-19.   \n[23] 汤江武,薛智勇,钱红,等.酵母固体发酵对物料营养组分及生物活性的影响[J].浙江农业   \n科学,2003(5):274-276.   \n[24]刘栩州.复合微生物固体发酵豆粕的工艺研究及对仔猪生产性能的影响[D].硕士学位   \n论文.长春:吉林大学,2015.   \n[25]付亭亭.不同微生物源固态发酵对豆粕营养品质的影响[D].硕士学位论文.郑州:河南科   \n技大学,2014.   \n[26]杨守凤.基于微生物固态发酵豆粕转化大豆异黄酮的研究[D].硕士学位论文.上海:上海   \n交通大学,2014.   \n[27]尹慧君,宋俊梅.发酵豆粕营养价值变化的研究[J].粮食科技与经济,2011,36(3):54-56.   \n[28]史玉宁,赵鹏娟,陈如水,等.复合菌种对发酵豆粕营养成分的影响研究[J].安徽农业科   \n学,2014,42(3):790-791,793.   \n[29] 李世豪.混菌固态发酵提高豆粕品质的机理研究[D].硕士学位论文.郑州:河南工业大   \n学,2015. Process Optimization of Solid State Fermentation of Soybean Meal by Microorganisms and Its Nutrient Changes 2   \nLIN Changhua LIU Guohua CHANG Wenhuan ZHANG Shu DENG Xuejuan CAI Huiyi\\* (Key Open Laboratory of Feed Biotechnology of the Ministry ofAgriculture, Feed Research Institution, Chinese Academy of Agriculture Science, National Engineering Research Center of Biological Feed, Beijing 10008, China)   \nAbstract: This experiment was conducted to optimize the process conditions of solid state   \nfermentation of soybean meal by Bacillus amyloliquefaciens or mixed strains of Bacillus   \namyloliquefaciens, Lactobacillus plantarum, Saccharomyces cerevisiae using small peptide ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "The optimum inoculation time of the solid fermentation medium was determined by the growth curve of three strains (Bacillus amyloliquefaciens,， Lactobacillus plantarum， Saccharomyces cerevisiae). The effects of 4 factors of inoculation amount， temperature， feed:water and fermentation time on small peptide production of soybean meal fermented by Bacillus amyloliquefaciens using single factor design were study, and on this basis the process conditions of soybean meal fermented by single strain or mixed strains using orthogonal experiment design in three factors and four levers were optimized. The nutrient contents, soybean globulin content, protein molecular mass and the pH of the fermented product for soybean meal before and after fermentation were determined. The results showed as follows: the best inoculation time to the solid medium of the 3 strains were after expanding in their respective seed medium for 21 h. The optimum process conditions for solid state fermentation of soybean meal by single strain of Bacillus amyloliquefaciens were: inoculation amount was $10 \\%$ ，temperature was 40℃ fed:water was 1.0:1.2, and the fermentation time was $^ { 7 2 \\mathrm { ~ h ~ } }$ ; the optimum process conditions for solid state fermentation of soybean meal by mixed strains of Bacillus amyloliquefaciens, Lactobacillus plantarum and Saccharomyces cerevisiae were: inoculation amount was $1 5 \\%$ ， temperature was 31 ℃，feed:water was 1.0:1.0,and the fermentation time was $1 2 0 \\mathrm { ~ h ~ }$ ，and the proportion of inoculation of the strains was Bacillus amyloliquefaciens: Lactobacillus plantarum:Saccharomyces cerevisiae=9:3:2. After fermentation by microorganisms, the contents of small peptide, crude protein, ash and ether extract were significantly improved $( P { < } 0 . 0 5 )$ , while the content of crude fiber was significantly decreased compared with before fermentation （20 $( P { < } 0 . 0 5 )$ . The content of soybean globulin in fermented product of the single and mixed strain fermentation groups was significantly lower than that in the unfermented group $( P { < } 0 . 0 5 )$ . The protein molecular mass in fermented product of the single and mixed strain fermentation groups was lower than that in the unfermented group.The $\\mathfrak { p H }$ of fermented product of mixed strain fermentation group was significantly lower than that of the unfermented group $( P { < } 0 . 0 5 )$ ,while the pH of fermented product of single fermented group had no significant difference from that of the unfermented group.It is concluded that after the solid state fermentation by microorganisms, the nutritional value of soybean meal is greatly improved to a certain, the macromolecular protein is degraded, pH also changed obviously. Moreover, the effect of single strain fermentation and mixed strains fermentation is different. Key words: single strain; mixed strains; fermentation; process optimization; nutrient ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    }
+]

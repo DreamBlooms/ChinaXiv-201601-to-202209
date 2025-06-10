@@ -1,0 +1,475 @@
+[
+    {
+        "type": "text",
+        "text": "库布齐沙漠生态光伏电站风速脉动特征 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨世荣，凌侠，蒙仲举，党晓宏，党梦娇，石涛，刘湘杰（内蒙古农业大学沙漠治理学院,内蒙古 呼和浩特010018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：研究沙区光伏电板扰动下风速脉动特征,掌握光伏电站风蚀沙埋规律。本文选取生态光伏电站内2个断面,对电板阵列板下、板前以及板间等典型部位 $2 0 . 5 0 \\cdot 8 0 \\cdot 1 0 0 \\cdot 2 0 0 \\ \\mathrm { c m }$ 的5个高度风速进行测定，分析光伏电站的风速流场、脉动特征。研究结果表明： $\\textcircled{1}$ 光伏电板上风向边缘风速最大,经过阵列逐渐减弱，光伏电场阵列腹部风速明显降低,尤其在近地表层,相比电板阵列腹部平均风速,板下、板前、板间 $2 0 \\ \\mathrm { c m }$ 平均风速增加了 $4 4 . 7 \\%$ 、$5 4 . 8 \\%$ 和 $7 . 2 \\%$ 。 $\\textcircled{2}$ 光伏电板上风向3处风速脉动、风速脉动强度表现为随高度增加呈先降低后增加的趋势，腹部电板随高度的增加呈降低趋势,其中 $2 0 \\sim 8 0 ~ \\mathrm { c m }$ 湍流度最为剧烈;与对照相比,光伏电板上风向边缘处湍流度在板下、板前位置随高度呈增强趋势。 $\\textcircled{3}$ 光伏电板周围的风速脉动是形成板下和板前涡流的主要动力，进而造成光伏基座掏蚀与板间积沙带的发育。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：光伏电站；平均风速；风速脉动；风速脉动强度相对值(湍流度)；库布齐沙漠",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在国家光伏产业政策的推动下，光伏产业在我国发展迅速。西北地区气候干燥，有着得天独厚的太阳能资源和大面积的未开发裸地，为建设光伏电站提供了优越的条件[1]。目前有关沙区光伏的研究主要集中在光伏电站的选址[2]、光伏阵列和建筑的组合方式[3-4]、电场降尘[5]、电板的清洁[6],以及提高光伏电板发电效率[7等方面,针对沙漠地区生态光伏电站风沙危害防治方向，相关研究只有植被与沙障结合[8]和人工培育生物结皮[9的防治措施,以及风洞模拟光伏电站的风沙运动规律;在风速脉动方面，主要研究偏重于边界层的气象领域和近地表层风速脉动对降尘量的影响[10],以及不同工程措施下风速脉动的波动性研究[1]。沙区光伏电板的存在调节了沙区的热力平衡，阻挡沙粒受热向上形成的低气压与春季高压冷空气形成的梯度风[12]，形成了光伏电板阵列内特有的风速流场，进而造成光伏电站不同位置地表颗粒发生蚀积态势不同，时间过长会导致光伏设施的倾斜，严重威胁光伏电站的安全运营。本文通过实地观测，探究光伏电板及阵列不同位置下近地表风速脉动与光伏电板之间的作用机制，有助于揭示野外环境中光伏电站内风速流场及光伏电板不同位置掏蚀堆积形成机制，为当地光伏电场沙害防治提供理论依据与数据支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究样地与试验设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 样地概况 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "库布齐沙漠生态光伏电站位于内蒙古鄂尔多斯市北部杭锦旗独贵塔拉镇工业园区( $3 7 ^ { \\circ } 2 0 ^ { \\prime } \\ \\sim$ $3 9 ^ { \\circ } 5 0 ^ { \\prime } \\mathrm { N } , 1 0 7 ^ { \\circ } 1 0 ^ { \\prime } \\sim 1 1 1 ^ { \\circ } 4 5 ^ { \\prime } \\mathrm { E } \\rangle$ ，气候类型属温带大陆性季风气候，年均潜在蒸发量 $2 ~ 4 0 0 ~ \\mathrm { { m m } }$ ,年均气温 $5 . 7 ~ \\mathrm { ^ { \\circ } C }$ ,年平均风速 $3 . 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,年均潜在降水量$2 5 8 . 3 ~ \\mathrm { m m }$ ,风沙活动主要集中在3—5月[13],年大风天数为 $2 5 \\sim 3 5 \\mathrm { ~ d ~ }$ 。风向多为西风、西北风。该光伏电站项目2016年6月16日并网发电，占地面积$6 . 6 7 ~ \\mathrm { k m } ^ { 2 }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验设计及方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "光伏电站电板倾斜角度 $3 7 ^ { \\circ }$ ，由单晶硅材质的光伏电板阵列组成，东西走向，每行光伏电板有12块组合电板构成，东西长 $1 2 0 ~ \\mathrm { ~ m ~ }$ ，电板面积为$8 . 9 \\ \\mathrm { m } \\times 3 . 9 \\ \\mathrm { m }$ ,相邻光伏电板间距为 $9 \\mathrm { ~ m ~ }$ ,板后沿垂直距地面高度 $2 . 3 \\mathrm { ~ m ~ }$ ,前沿垂直距地面 $0 . 7 \\mathrm { ~ m ~ }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在光伏电站内，选取光伏电站西北处6排光伏电板阵列为研究区域，分为2个断面（图1）。此区域前4排光伏电板地表为流动沙地，设为断面1；后2 排光伏电板下有零星沙米覆盖，平均盖度为 $30 \\%$ ，主要分布在板下和板间位置，设为断面2，阵列西侧和北侧均为裸沙。在2个断面内分别选取光伏电板板下（A1、A2）、板前沿 $2 0 \\ \\mathrm { c m }$ 处（B1、B2）和板间(C1、C2)测点，阵列外围上风向裸沙地设置对照点",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(CK）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到实验样地大风日多集中在4一5月。试验于2018年4月25—28日进行，先对地面进行整平,采用三杯风速仪测定风速,使用HOBO 数采仪采集数据，采样间隔 $5 \\mathrm { ~ s ~ }$ 。风速测定高度为 $2 0 \\ \\mathrm { c m } \\ 5 0$ $\\mathrm { c m } \\phantom { - } \\mathrm { 8 0 } \\ \\mathrm { c m } \\phantom { - } 1 0 0 \\ \\mathrm { c m } \\phantom { - } 2 0 0 \\ \\mathrm { c m } \\ 5$ 个高度。各测点风速同时进行测定，测定时间为 $3 0 ~ \\mathrm { m i n }$ ,共测量4次。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/eac62c2d1e532a51633e455245b4aa70181fb959521c7a87d0a0e5017f7d977e.jpg",
+        "img_caption": [
+            "图1各测点风杯架设示意图",
+            "Fig.1Schematic diagram of wind cup erection at the measuring sites "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1指标计算从平均风速、风速脉动、风速脉动强度3个方面来进行风速脉动特征分析。平均风速以 $1 0 ~ \\mathrm { m i n }$ 数据长度分析，平均风速适于反映风速的总体变化趋势;风速脉动值是瞬时风速 $( u )$ 与平均风速 $\\left( \\bar { u } \\right)$ 之差;风速脉动强度用风速脉动值的均方根来表示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sqrt { \\overline { { u ^ { ' 2 } } } } = \\sqrt { \\frac { 1 } { n } \\sum _ { i = 1 } ^ { 1 } \\left( u - \\overline { { u } } \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $u ^ { \\prime }$ 为风速脉动; $u$ 为瞬时风速 $( \\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ ）； $\\overline { { u } }$ 为平均风速 $( \\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 } )  \\mathsf { \\} } ; n$ 为样本数。由式(1)可以看出,脉动强度实际上就是瞬时风速概率分布函数的标准差，反映某一高度层瞬时风速波动范围的宽窄[14]。为了比较不同部位脉动强度随高度的变化，各高度层风速脉动的均方根与平均风速之比表示风速脉动相对值[15],脉动相对值也叫湍流度 $\\left( g \\right) ^ { \\left[ 1 6 \\right] }$ C",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng = \\frac { \\sqrt { \\overline { { u ^ { ' 2 } } } } } { \\overline { { u } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "空气动力学粗糙度 $z _ { 0 }$ 是地表上平均风速为零的高度，可反映下垫面对气流运动的摩擦阻力。当大气环境为中性条件时,其地表风速廓线可表达为[17]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ( z ) = \\frac { u _ { \\ast } } { k } \\mathrm { l n } \\left( z \\Bigg / z _ { 0 } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $u ( z )$ 为高度 $z$ 处的风速； $z _ { 0 }$ 为空气动力学粗糙度 $\\left( \\mathrm { c m } \\right) ; \\boldsymbol { u } _ { * }$ 为摩阻速度 $( \\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ ）； $k$ 为卡曼常数,取值0.4。用高度取自然对数作为纵轴，风速作为横轴，根据近地表6层高度的风速和高度自然对数轴拟合线性函数，用最小二乘法求出拟合直线的斜率 $\\mathbf { \\Delta } _ { a }$ 和截距 $b$ ,则粗糙度 $\\boldsymbol { z } _ { 0 } = \\boldsymbol { e } \\hat { \\mathbf { \\xi } } \\boldsymbol { b }$ ,摩阻风速 $u _ { \\ast } =$ $k / a$ ,卡曼常数 $k$ 取0.4。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2数据处理采用Excel进行风速数据分析，平均风速图采用OrginPro9.0制作,采用Sufer11.0制作风速流场图。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 平均风速廓线特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "平均风速可以反映风速在光伏电板不同位置的总体变化趋势，观测期间的风向为西风和西北风，观测时指示风速为 $7 . 4 \\ \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 。通过图2发现,裸沙地平均风速会随着高度的增加逐渐增大。在光伏电板阵列内，断面1与断面2在测点的平均风速在垂直高度随着高度增加呈先降低后增加的趋势。正如图3中 $1 0 ~ \\mathrm { m i n }$ 的平均风速变化，在 $2 0 \\ \\mathrm { c m }$ 高度以上相邻高度的时间序列上波动不具有均一性，反映了近地表层的不稳定性,形成一定的涡旋[18]。如图4所示，断面1风蚀程度较为严重，在板下、板间区域形成积沙带，在板前沿下EW方向长期风蚀发育形成一条深度 $5 0 ~ \\mathrm { c m }$ 的风蚀沟，断面2的地表风蚀程度较弱，地表有零星的植被覆盖。断面1中，测点A1平均风速在 $2 0 ~ \\mathrm { c m }$ 高度处风速达到最大，其值为$6 . 9 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,这是由于气流受到光伏电板阻挡,风速梯度变化剧烈所致，当挟沙气流通过板前沿下方到达测点B1，受到倾斜排布的光伏电板汇流及风蚀沟坡面(边)抬升加速作用，风速在 $2 0 \\ \\mathrm { c m }$ 处达到$7 . 9 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,测点C1在 $2 0 \\ \\mathrm { c m }$ 高度的平均风速相比A1、B1测点减少了 $3 1 . 8 \\%$ 和 $4 0 . 4 \\%$ ,是由于该测点位于南侧下风向部位，受第1排电板和积沙带的阻挡所致。断面2位于光伏电板阵列腹部，相比断面1较为平坦，地表有零星植被覆盖，在板下区域$2 0 ~ \\mathrm { c m }$ 高度的平均风速相比断面1下降 $3 5 . 0 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b5ba2c04e881a408ac338061a0012c3ac8704e2223aa67a7da9d269cc718c8e.jpg",
+        "img_caption": [
+            "Fig.2Average wind speed profiles of section 1 and section 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7664b3b9466eba99738ab736c00f9877c00819256596d6e3b8f4eab9006e99a4.jpg",
+        "img_caption": [
+            "图2断面1与断面2平均风速廓线变化",
+            "图3光伏电板不同位置 $1 0 ~ \\mathrm { m i n }$ 平均风速变化",
+            "Fig.3Variation of $1 0 ~ \\mathrm { m i n }$ mean wind speed at different positions of PV panels "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 $5 0 \\ \\mathrm { c m } \\ . 8 0 \\ \\mathrm { c m } \\ . 1 0 0 \\ \\mathrm { c m } \\ . 2 0 0 \\ \\mathrm { c m }$ 高度处，断面1与断面2测点的风速先增后减， $2 0 0 \\ \\mathrm { c m }$ 高度的风速呈增加趋势，其中断面1中挟沙气流受到板下集流加速后，再受到风蚀沟的坡面抬升，导致测点B1处",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/77717364793bc21e802055a47e1bdfc8cf1dae4e22418c4a1d111f052132b2f7.jpg",
+        "img_caption": [
+            "图4光伏电板风蚀状况",
+            "Fig.4Wind erosion of photovoltaic panels "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "风速增加，测点C1处风速急剧降低，是因为板的障碍效应导致风沙流能量强烈衰减所致；断面2的气流在经过光伏电板阵列的逐层削弱和地表植被的拦截作用，在自上一排电板背板位置到下一块电板相同位置,4个测点平均风速有了明显的降低，其中测点B2在 $5 0 ~ \\mathrm { c m }$ 的平均风速比断面1相同位置下降$24 \\%$ ? $5 0 ~ \\mathrm { c m }$ 以上的气流会随着板面的倾斜角度抬升加速，当气流经过观测点C2时，断面2的植被覆盖度达到 $30 \\%$ ，削弱了气流在光伏电板间的水平格局,在近地表 $2 0 \\ \\mathrm { c m }$ 高度的平均风速仅为 $4 . 4 0 \\mathrm { ~ m ~ }$ ·$\\mathrm { ~ s ~ } ^ { - 1 }$ ,而在断面1中 $2 0 \\ \\mathrm { c m }$ 高度的平均风速为6.75$\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ ,说明植被的分布对于光伏电板的下垫面风速有明显拦截作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 风速脉动",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过平均风速脉动值(表1)可以看出，裸沙地的平均脉动风速是随着高度的增加逐渐增大，在光伏电板阵列内，断面1的测点 A1、B1、C1的平均脉动风速都是随着高度增加先减小后增大。在测点A1，由于光伏电板有汇聚集流效应，导致 $2 0 \\ \\mathrm { c m }$ 的风速脉动加大,其值相比裸沙地增加 $5 9 . 7 \\%$ ；在电板下 $5 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 高度中，相比裸沙地相同位置降低$2 7 . 7 \\% 5 3 . 8 \\% 8 3 . 0 \\%$ ，由于风速受到电板的阻挡效应，风速脉动减弱。在测点B1，挟沙气流汇流加速通过板前沿，导致板前 $2 0 \\ \\mathrm { c m }$ 高度的脉动风速增强，在板背风侧形成反向涡流，在离心力的作用下削弱了能量和速度传递， $5 0 \\sim 8 0 \\ \\mathrm { c m }$ 高度的风速脉动值相比裸沙地分别减小了 $3 3 . 1 \\% . 5 8 . 5 \\%$ 。而板面对气流的抬升作用导致 $8 0 \\ \\mathrm { c m }$ 高度以上脉动风速增加,在 $2 0 0 \\ \\mathrm { c m }$ 高度达到最大,其值为 $1 . 1 3 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 。挟沙气流在近地表受到积沙带坡度抬升作用，使得测点C1在 $2 0 ~ \\mathrm { c m }$ 高度的风速脉动增强，而断面2的",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1断面1与断面2脉动风速的平均值 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9d0ea19f987eb93b7333fc35f7a3ed951b08ae4ef30f9b0b447601332013898.jpg",
+        "table_caption": [
+            "Tab.1 Average values of fluctuation wind speed in section 1 and section 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">高度 /cm</td><td colspan=\"3\">断面1</td><td colspan=\"3\">断面2</td><td rowspan=\"2\">裸沙 地</td></tr><tr><td>测点 A1</td><td>测点 B1</td><td>测点 C1</td><td>测点 A2</td><td>测点 B2</td><td>测点 C2</td></tr><tr><td>20</td><td>1.85</td><td>1.00</td><td>0.69</td><td>0.47</td><td>0.73</td><td>0.60</td><td>1.05</td></tr><tr><td>50</td><td>0.94</td><td>0.87</td><td>0.58</td><td>0.53</td><td>0.94</td><td>0.62</td><td>1.30</td></tr><tr><td>80</td><td>0.74</td><td>0.66</td><td>0.49</td><td>1.18</td><td>1.00</td><td>0.74</td><td>1.60</td></tr><tr><td>100</td><td>0.30</td><td>1.52</td><td>0.51</td><td>1.48</td><td>1.08</td><td>0.76</td><td>1.76</td></tr><tr><td>200</td><td>1.71</td><td>1.73</td><td>1.13</td><td>1.98</td><td>1.27</td><td>0.81</td><td>1.97</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "风速脉动受到地表植被和光伏阵列的阻挡，与断面1在3个测点的风速脉动有明显差异;断面2的3个测点的风速脉动随着高度的增加逐渐增大，尤其在 $5 0 ~ \\mathrm { c m }$ 高度层以下，2个断面的风速脉动变化幅度最大，断面1测点A1在 $2 0 ~ \\mathrm { c m }$ 高度处风速脉动值为 $2 . 5 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,而断面2测点A2在 $2 0 \\ \\mathrm { c m }$ 高度处的脉动风速仅为 $0 . 4 7 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,说明风速脉动的水平变化和垂直结构不仅受到光伏电板汇流加速、消减衰退的作用，也受到下垫面植被状况的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 风速脉动强度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "风速脉动强度是表征瞬时风速范围的值，从图5和图6可以看出，裸沙地脉动风速强度随着高度的增加而逐渐增大，但湍流度随高度呈降低趋势。在断面1测点A1测定发现，风速脉动强度随高度的增加呈先降低后增加的趋势，湍流度在测点A1呈先增大后减小的趋势，而在断面2的测量中，风速脉动强度的变化趋势与断面1相同，而湍流度在测点A2随着高度的增加呈减小趋势，这是断面2测点A2的挟沙气流受到光伏电板的多层削弱和地表植被的拦截，其 $2 0 ~ \\mathrm { c m }$ 和 $1 0 0 \\ \\mathrm { c m }$ 处的风速脉动强度相比断面1下降了 $1 0 . 3 \\% . 3 5 . 4 \\%$ 。当气流加速经过板前沿测点B1时，挟沙气流达到不饱和状态，搬运沙粒能力增强，进而造成湍流度增强。断面2测点B2风速脉动强度随高度呈先减小后增加的趋势，是由于断面2地表凹地貌类型不明显，再加上测点B2前沿有零星分布的沙米植被，挟沙气流经过时被削弱和沉降，湍流度受沙粒运动的影响较弱。当挟沙气流经过测点C1时，通过板前沿到达板间的气流会被积沙带坡面抬升，使得气流成为过饱和状态，沙粒跌落在板间区域，削弱其动量传递，而导致测点C1的近地表风速脉动强度减弱，板间 $8 0 ~ \\mathrm { c m }$ 以上的风速主要是板与板之间行道风的加速，导致风速脉动强度增大，湍流度在近地表受到沙粒浓度增大的干扰，导致其在 $2 0 \\sim 8 0 ~ \\mathrm { c m }$ 逐渐增强。湍流度随高度的增加而减弱。在断面2的观测中，由于测点C2位置较为平坦，地表覆盖沙米植被，导致挟沙流能量衰减，其风速脉动强度相比断面1测点C1下降了 $1 5 \\%$ ，是由于气流中含沙量随高度逐渐减少，对气流的干扰减少，导致风速脉动强度和湍流度随高度逐渐减小。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4c1988777d47dde303428447b605d56f6f5edec52e63ce1b1c0e2127dd868fb.jpg",
+        "img_caption": [
+            "Fig.5Variation of fluctuation wind speed at different heights of section 1 and section 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4d6b47d778b1d8399d1fa2a7156447ea43afada5fffbdacafbc33b0da5f2a19.jpg",
+        "img_caption": [
+            "图5断面1与断面2不同高度的脉动风速强度变化",
+            "图6断面1与断面2不同高度的风速脉动强度相对值(湍流度)变化",
+            "Fig.Variationoftherelativevaluesoffluctuationintensity（turbulivity）ofwindspeedatdiferentheightsofsectionandsecti "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 讨论和结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "光伏电板的存在改变了近地表的风速廓线，通过对裸沙丘的风速观测发现，风速随高度的增加逐渐增加，而电板板下的风速随高度的增加先降低后增加，这是由电板板下的倾斜角度阻挡并向下汇流加速造成的,这与张惜伟等[19]的研究不同,其研究在风蚀坑中风速随高度呈对数分布。当风速为7.4$\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ 时,断面1光伏电板板下、板前沿和板间的粗糙度分别为 $1 . 8 5 \\ \\mathrm { c m } \\setminus 0 . 1 7 \\ \\mathrm { c m }$ 和 $0 . 2 3 ~ \\mathrm { c m }$ ,而电板腹部3个位置的粗糙度为 $2 . 2 3 ~ \\mathrm { c m } \\ 、 0 . 8 3 ~ \\mathrm { c m }$ 和0.78cm，均大于对照 $\\left( 0 . 0 8 \\ \\mathrm { c m } \\right)$ ，这是由于电板的多层阻挡效应，加之腹部电板有零星的植被覆盖，增大了地表粗糙度。这与梅凡民等[20]的研究相同,其研究表明风速越大，地表粗糙度越小。摩阻速度是正比于速度线与高度纵轴夹角的正切值，是具有速度量纲的值。通过图7可知，断面1电板板下、板前沿、板间风速与高度纵轴的倾斜度要小于断面2，通过计算得知,裸沙地的摩阻风速为 $1 . 2 4 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,摩阻风速在上风向的3处位置为 $1 . 8 4 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 } \\cdot 3 . 3 6 \\mathrm { ~ m ~ } ^ { \\cdot }$ ，$\\mathrm { ~ s ~ } ^ { - 1 }$ 和 $1 . 5 8 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,而腹部电板的摩阻风速为1.21$\\textrm { m } \\cdot \\textrm { s } ^ { - 1 } \\cdot 0 . 9 2 \\textrm { m } \\cdot \\textrm { s } ^ { - 1 }$ 和 $1 . 7 6 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,在上风向电板边缘，摩阻风速在板前沿位置最大，这是由于集流加速造成近地表风速加大，地面上的阻力相对也增大。腹部电板板下、板前沿的摩阻风速要小于上风向，这是由于电板的多层阻挡效应使风速降低，地表粗糙度增大，造成了摩阻风速降低;而板间区域摩阻风速相比上风向电板板间增大，是由于下垫面植被在正常生长过程中因对动能的吸收，以及地表粗糙度的增加,导致摩阻风速增大[21)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cb4e80ad50141a142a1e9530afafa8455a2d2e80cb4f2ee4476685ff39d58e0.jpg",
+        "img_caption": [
+            "图7断面1与断面2风速廓线",
+            "Fig.7Wind profiles of section 1 and section 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过对光伏电板不同区域的流场分析（图8和图9），板下区域由于沙粒运动与板下气流存在速度差,从而产生剪切涡流导致气流扩散[22],电板板前位置，由于电板倾斜导致气流过境面积减小，产生汇聚集流效应，气流对沙粒的搬运能力增强，板前形成风蚀沟下凹微地形，近地表的风速受到风蚀沟的坡面抬升，在光伏电板正板侧形成涡流，挟沙气流在离心力的作用下速度衰减，可以发现电板在板下与板前沿处产生涡流，涡流加速了板下蚀积的过程，这与郭彩贊等[23]在库布齐沙漠研究得出,板前板后的涡流是塑造地表掏蚀区的主要动力相一致。而电板腹部的风速相比上风向边缘处的风速流场，等值线比较平稳，其风速受到光伏电板阻挡而削弱，还受到地表植被状况的阻挡，可以降低地表过境气流，改变光伏电板下垫面的风蚀状况。通过光伏电板外围裸沙地风速的观测发现，风速脉动强度随着高度的增加逐渐增强，但在光伏电板内部的风速脉动强度随高度的增加而减弱,这与尚河英等[24]在戈壁地表的研究，随高度的增加风速脉动强度增强有所不同。当气流遇到倾斜光伏电板的阻挡时，在板下 $1 0 0 \\ \\mathrm { c m }$ 以下形成涡旋区，与光伏电板近地表的气流汇合形成集流加速，导致板下 $2 0 ~ \\mathrm { c m }$ 高度风速加大，使近地表的风速脉动强度增强，由于板后气流汇聚，导致挟沙流到达板前风速加大，但受到积沙带的阻挡，形成反向涡流,风速脉动强度增强。包慧娟等[25]研究发现，离地表越高，湍流度趋于稳定，而近地表的湍流度增强，这是由于沙粒的运动干扰造成的；王萍等[26]在野外观测风沙流的脉动特征发现,沙粒会削弱平均风速，风速脉动强度随进风口的风速增大逐渐增强。沙粒运动会影响湍流度，这也阐释了在光注：3L表示板后沿，5L表示板前沿，5L至8L表示光伏电板间距。下同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8afe24fbac8bfc5023112a0cef85dfc5d71418ded82e24dc4cbc8e06a70babc.jpg",
+        "img_caption": [
+            "Fig.8Wind speed field of section 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ba4ef96e588245cb2ca0d3531ef526c1345f7398472786f9aa880ef84804585.jpg",
+        "img_caption": [
+            "图8断面1的风速流场",
+            "图9 断面2的风速流场",
+            "Fig.9Wind speed field of section 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "伏电板阵列内板下、板前、板间的湍流度与裸沙地的不同。断面1中光伏电板在板下形成涡旋，风速沿电板倾斜，挟沙气流加速通过板下沿，在板前沿与电板背风侧形成反向涡流，在板间风速逐渐减弱，板下、板前在 $2 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 高度的湍流度呈先增加后减小的趋势。这是由于挟沙气流与电板形成涡流持续掏蚀的跃移沙粒不断下落，下落到光伏电板板下形成积沙带，一部分较粗颗粒蠕移沿板向下，与风速加速通过板前沿形成回旋涡流，不断掏蚀光伏电板前沿,形成链式的风蚀坑地貌,这与张克存等[27]在格状沙障研究风速脉动得出，沙粒的运动状态对湍流度有一定的作用相一致。当气流通过板前沿，经过积沙带的坡面导致气流抬升，在光伏电板前沿形成反向涡流，沙粒在离心的作用下动量传递减弱，使气流达到过饱和状态，沙粒在板间沉降，在持续的风力侵蚀下，在光伏电板板间形成较高的积沙带。在断面2中，挟沙气流经过光伏电板的阻挡削弱,气流场与断面1有显著差异,风速随高度变化趋于平稳，没有形成涡流，流场等值线平稳，风速脉动也逐渐减小,其湍流度在 $2 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 随高度逐渐减弱，证明挟沙气流在光伏电板阵列和植被的共同作用下，导致下垫面的风蚀状况发生改变。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在光伏电板阵列内，光伏电板的倾斜程度一定时，风速脉动强弱是影响风沙流能量强弱的主要因素，摩阻风速与粗糙度的变化表明了上风向的风蚀潜力明显高于电板腹部，对地表的扰动程度高于腹部,进而造成了板下、板间堆积，板前沿掏蚀的程度不同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）在光伏电板阵列内，随着高度的增加，在时间序列上电板各位置波动性不具有均一性，主要是受到电板的阻挡，集流加速及板下、板前存在的涡流造成的。裸沙地的平均风速随着高度的增加逐渐加大，上风向边缘处与电板阵列腹部平均风速整体呈先减小后增加的趋势，相比电板阵列腹部平均风速，板下、板前沿、板间 $2 0 \\ \\mathrm { c m }$ 平均风速增加了 $4 4 . 7 \\%$ 、$5 4 . 8 \\% . 7 . 2 \\%$ 0",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）裸沙地的风速脉动随高度增加逐渐增大，在上风向边缘处电板，风速脉动在板下、板前和板间随高度增加呈先减小后增大的趋势。其中， $2 0 \\ \\mathrm { c m }$ 高度的风速脉动最大，比裸沙地的风速脉动增加$4 3 . 2 \\%$ ,在光伏阵列腹部，风速脉动在板下、板前和板间的风速脉动变化趋势与裸沙丘相同，但由于光伏电板多层阻挡和植被共同削弱进风口的风速，板下 $2 0 \\ \\mathrm { c m }$ 风速脉动相比裸沙丘减弱 $5 5 . 2 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）裸沙地的风速脉动强度随高度的增加逐渐加大，湍流度会随高速逐渐减弱且变化不大，光伏阵列中沙粒的运动造成了湍流度垂直分布的复杂性。上风向边缘处电板下 $2 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 的风速脉动强度减弱，湍流度先增大后减小，这是光伏电板下倾斜角度与涡流的共同作用。在板前，风速脉动强度随高度的增加逐渐增强，湍流度先增大后减小。在板间，风速脉动强度先减小后增大，湍流度沿高度的增加呈先增强后减弱趋势，从上风向边缘处到电板腹部，3处位置风速脉动强度的整体变化趋势减弱，湍流度的变化逐渐随高度的增加呈降低趋势",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Chang Zhaofeng,Liu Shizeng,Zhu Shujuan,et al. Ecological functions of desert Gobi photovoltaic power plant[J]. Journal of Resources and Ecology,2016,7(2):130-136.   \n[2]Xu Zhenxing,Shi Jingchen,Zhou Ping.Location analysis of largescale grid-connected photovoltaic power plants[J]. China Market, 2016,41:67 - 68.   \n[3]Qasem H,Betts TR,Mullejans H,et al. Dust-induced shading on photovoltaic modules[J].Progress in Photovoltaics Research & Applications,2014,22(2):218 -226.   \n[4]邓月超.基于微热管阵列的光伏光热幕墙及其建筑一体化技 术研究[D].北京：北京工业大学,2016.［Deng Yuechao.Research on Photovoltaic Light-Heat Curtain Wall Based on MicroHeat Pipe Array and Its Building Integration Technology[D].Beijing:Beijing University of Technology,2016.]   \n[5」孙家欢,王涛,薛娴,等.降尘对中国北方主要城市光伏电站发 电量的影响[J].中国沙漠,2016,36（4）：932-942.［Sun Jiahuan,Wang Tao,Xue Xian,et al.Effects of dustfall on power generation of photovoltaic power plants in major cities in Northern China[J].Journal of Desert Research,2016,36(4):932-942.]   \n[6]徐志明,曲宏伟,王靖雯,等.太阳能光伏板积灰的最佳清扫周 期[J].中国电机工程学报,2018,38(6):1738-1742.[Xu Zhiming,Qu Hongwei,Wang Jingwen,et al.Optimal cleaning cycle of ash accumulation in solar photovoltaic panels[J].Proceedings of the CSEE,2018,38(6):1 738-1 74.]   \n[7]Ferrada P,Araya F,Marzo A,et al. Performance analysisof photovoltaic systems of two different technologies in a coastal desert climate zone of Chile[J].Solar Energy,2015,114:356-363.   \n[8]Alboteanu L.Energy efficiency of stand alone photovoltaic systems used in electrical drive for positioning ramps of anti hail missile [C]//International Symposium on Electrical and Electronics Engineering.IEEE,2010:303-307.   \n[9]袁方,张振师，卜崇峰,等.毛乌素沙地光伏电站项目区风速流 场及风蚀防治措施[J].中国沙漠,2016,36(2）:287－294. [Yuan Fang,Zhang Zhenshi,Bu Chongfeng,et al.Wind velocity flow field and wind erosion prevention measures in the project area of Maowusu sandy photovoltaic power plant[J]. Journal of Desert Research,2016,36(2) :287-294.]   \n[10]毛东雷,蔡富艳,雷加强,等.新疆策勒不同下垫面大气降尘时 空分布特征[J].干旱区研究,2017,34(6）：1222-1 229. [Mao Donglei,CaiFuyan,Lei Jiaqiang,etal. Spatiotemporal distribution of atmospheric dustfall in different underlying surface of Cele in Xinjiang[J].Arid Zone Research,2017,34(6):1 222- 1 229. ]   \n[11］安志山,张克存,谭立海,等.晴天和沙尘天气下沙漠绿洲过渡 带近地表风速脉动特征[J].中国沙漠,2017,37（3）：414- 420.[An Zhishan,Zhang Kecun,Tan Lihai,et al. Characteristics of near-surface wind speed pulsation in desert oasis transition zone under sunny and dusty weather[J]. Journal of Desert Research, 2017,37(3) :414 -420. ]   \n[12］刘世增,常兆丰,朱淑娟,等.沙漠戈壁光伏电厂的生态学意义 [J].生态经济,2016,32（2）:177－181.[Liu Shizeng,Chang Zhaofeng,Zhu Shujuan,et al.Ecological significance of desert Gobi photovoltaic power plant[J].Ecology and Economy,2016,32(2）: 177 - 181. ]   \n[13］邢媛.库布齐沙漠东缘主要人工林群落结构及植物多样性研 究[D].呼和浩特：内蒙古农业大学,2017.[Xing Yuan. Study on Community Structure and Plant Diversity of Main Plantations in the Eastern Margin of the Kubuqi Desert[D]. Hohhot:Inner Mongolia Agricultural University,2017.]   \n[14]Cava D,Schipa S,Giostra U.Investigation of low-frequency perturbations induced by a steep obstacle[J].Boundary-Layer Meteorology,2005,115(1) :27 -45.   \n[15］郑先念,杨兴华,何清,等.不同天气条件下近地层风速脉动特 征[J].干旱区研究,2019,36(2）:387-394.[Zheng Xiannian, Yang Xinghua,He Qing,et al.The characteristics of wind pulsation in the near surface layer under different weather conditions[J].Arid Zone Research,2019,36(2) :387 -394.]   \n[16］毛东雷,蔡富艳,杨余辉,等.新疆策勒4个典型下垫面近地层 风速脉动特征[J].干旱区研究,2017,34（1）：126-135.[Mao Donglei,Cai Fuyan,Yang Yuhui,et al.Characteristicsof wind speed pulsatiooffourtypicalunderlying surfaces inCele,Xijing [J]. Arid Zone Research,2017,34(1） :126- 135.]   \n[17］毛东雷,雷加强,曾凡江,等.策勒不同下垫面风速廓线时空差 异研究[J].干旱区资源与环境,2014,28（11）：171－177. [Mao Donglei,Lei Jiaqiang,Zeng Fanjiang,et al. Study on the temporal and spatial diferences of wind speed profile of diffrent underlying surface of Celle[J]. Journal of Arid Land Resources and Environment,2014,28（11）:171-177.]   \n[18］杨林.老哈河下游起沙风天气条件下谷坡的风速脉动特征研 究［D].长沙：湖南师范大学,2015.［Yang Lin.StudyonWind Speed Pulsation Characteristics of Valley Slope under the Condition of Sand and Wind in the Lower Reaches of Laoha River[D]. Changsha: Hunan Normal University,2015.]   \n[19］张惜伟,汪季,海春兴,等.呼伦贝尔沙质草原风蚀坑地表风沙 流结构特征[J].干旱区研究,2018,35（6）：1505-1511. [Zhang Xiwei,Wang Ji,Hai Chunxing,et al.Characteristics of wind-blown sand flow in the wind-eroded crater of Hulunbeier sandy grassand[J]. Arid Zone Research,2018,35(6）:1 505- 1 511. ]   \n[20］梅凡民,张宁宁，席媛,等.粗糙床面风廓线统一对数区的空气 动力学粗糙度及其空间变异特征[J].中国沙漠,2018,38（3)： 445-454.[Mei Fanmin,Zhang Ningning,Xi Yuan,et al.Aerody",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "namic roughness and spatial variability of unified logarithmic region of rough bed surface wind profile[J].Journal of Desert Research, 2018,38(3):445-454.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21］周杰,雷加强,郑则浩,等.塔里木盆地西南缘不同下垫面的摩 阻风速和空气动力学粗糙度[J].水土保持通报,2016,36（1)： 1-5,1O.［Zhou Jie,Lei Jiaqiang,Zheng Zehao,et al.Frictional wind speed and aerodynamic roughness of different underlying surfaces in the southwestern margin of Tarim Basin[J].Bulletin of Soil and Water Conservation,2016,36(1):1-5,10.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22]Dong Zhibao,Qi Nan,Guang Qiang,et al. Turbulence fields in the lee of two-dimensional transverse dunes simulated in a wind tunnel [J].Earth Surface Processes and Landforms,2009,34:2O4 -216. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23]郭彩贊，韩致文，李爱敏，等.库布齐沙漠110MW光伏基地次生 风沙危害的动力学机制[J].中国沙漠，2018,38(2)：1-8.［Guo Caizhen,Han Zhiwen,Li Aimin,et al.The dynamic mechanism of secondary sandstorm hazard in11O MW photovoltaic base in Kubuqi Desert[J].Journal of Desert Research,2018,38(2）:1-8.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[24]尚河英,尹忠东，张鹏，等.戈壁地表野外风速脉动特征[J].南京林业大学学报（自然科学版），2017，41（1）：123－128.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[Shang Heying,Yin Zhongdong,Zhang Peng,et al.Characteristics of wind velocity in the surface of Gobi surface[J].Journal of Nanjing Forestry University（Natural Science Edition）,2O17,41（1）： 123 -128.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[25]包慧娟,李振山.风沙流中风速纵向脉动的实验研究[J].中国 沙漠,2004,24（2）:132-135.[Bao Huijuan,Li Zhenshan.Experimental study on longitudinal pulsation of wind speed in wind and sand flow[J].Journal ofDesert Research,20O4,24（2）：132 -135.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[26]王萍,郑晓静.野外近地表风沙流脉动特征分析[J].中国沙 漠,2013,33(6）:1622-1 628.[Wang Ping,Zheng Xiaojing.Analysis of pulsating characteristics of wind and sand flow in the nearfield[J].Journalof Desert Research,2013,33（6）:1 622- 1 628.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[27]张克存，屈建军，董治宝，等.格状沙障内风速波动特征初步研 究[J].干旱区研究,2006,23（1）：93-97.［ZhangKecun,Qu Jianjun,Dong Zhibao,et al.Preliminary study on wind speed fluctuation characteristics in lattice-shaped sand barriers[J].Arid Zone Research,2006,23（1):93-97.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Wind Speed Fluctuation at Kubuqi Desert Ecological Photovoltaic Power Station ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "YANG Shi-rong， LING Xia， MENG Zhong-ju， DANG Xiao-hong， DANG Meng-jiao,SHI Tao， LIU Xiang-jie（CollgeoferttroledineeingergoliacturalUesityot,rogl)",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The characteristics of wind speed fluctuationunder the disturbance of photovoltaic panels in sandy area were studied,and thelaw of wind erosionand sand burial at the photovoltaic power station was revealed.The study isof a theoretical foundation forpreventingand controllng sand disastersat the photovoltaic power station in sand area.Two sections atthe eco-photovoltaic power station were selected,and the valuesof wind speedat 20,50, 80,100 and $2 0 0 ~ \\mathrm { c m }$ heights and the typical positions of the panel arrays were are measured. The wind speed fields at the station were analyzed. The results showed that : $\\textcircled{1}$ Wind speed at the photovoltaic panel margin was the highest,the anode wind speed wassignificantly reduced,and the wind speed after the arrays was graduallyreduced,especially near the ground surface. The average wind speeds $2 0 ~ \\mathrm { c m }$ under the panels,at the front and between the panels were increased by $4 4 . 7 \\%$ ， $5 4 . 8 \\%$ and $7 . 2 \\%$ respectively; $\\textcircled{2}$ The wind speed fluctuation and intensity at three locations ofthePV panels were decreased at first and then increased with the increase of height,and the turbulence was the most serious at the height of $2 0 \\textrm { -- } 8 0 \\ \\mathrm { c m }$ .Compared with the contrast,the turbulence under the photovoltaic panels and at the front of panels was increased with the increase of height; $\\textcircled{3}$ The fluctuation of wind speed around the photovoltaic panels was the main driving force for forming the vortex under the panels and at the frontof panels,which resulted in the erosionof the photovoltaic base and thedevelopmentof the sand belt between the panels. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:photovoltaic panel；mean wind speed；wind speed fluctuation；relative intensity of wind speed fluctuation（turbulivity）；Kubuqi Desert ",
+        "page_idx": 8
+    }
+]

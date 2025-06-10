@@ -1,0 +1,327 @@
+[
+    {
+        "type": "text",
+        "text": "Synthesis, Crystal Structure and Theoretical Calculations of a Manganese(I) Coordination Polymer Assembled by 2,5-Thiophenedicarboxylic Acid and 3-(2-Pyridyl)pyrazole Ligands ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIUHong①(刘宏);LI Xiu-Mei②(李秀梅);PAN Ya-Ru②(潘亚茹);WANG Shao-Jie(3) (王少杰);LI Guo-Feng(4(李国峰) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(l) Collge of Information & Technology,Jilin Normal University，Siping 1360o, China;2Faculty of Chemistry, Tonghua Normal University, Tonghua 134002, China;(3) School of Foreign Language, Tonghua Normal University, Tonghua 134002, China;(4) (Key Laboratory of Preparation and Applications of Environmental Friendly Materials (Jilin Normal University), Ministry of Education, Siping, Jilin 1360Oo, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT A new $\\mathbf { M n } ( \\mathrm { I I } )$ complex, $[ \\mathrm { M n } _ { 0 . 5 } ( \\mathrm { t d c } ) _ { 0 . 5 } ( \\mathrm { L } ) ] _ { 2 \\mathrm { n } }$ (1, $\\mathrm { H _ { 2 } t d c } ~ = ~ 2 { , } 5$ -thiophenedicarboxylic acid, $\\mathrm { ~ L ~ } =$ 3-(2-pyridyl)pyrazole), has been successully synthesized under hydrothermal conditions.Its structure has been determined by single-crystal X-ray difraction analysis，elemental analyses，IR，TG and UV spectrum. Single-crystal X-ray difraction analysis reveals that complex 1 belongs to the orthorhombic system,space group Pnna with $a = 1 1 . 5 1 8 4 ( 6 )$ $b = 1 6 . 8 3 9 9 ( 8 )$ ， $c = 1 1 . 7 2 4 9 ( 5 ) \\mathrm { ~ \\AA ~ }$ ， $V = 2 2 7 4 . 2 6$ (19) $\\mathring { \\mathbf { A } } ^ { 3 }$ ， $Z = 4$ $D _ { c } = 1 . 5 0 5 ~ \\mathrm { g / c m ^ { 3 } }$ $\\mu =$ $0 . 7 1 5 \\ \\mathrm { m m ^ { - 1 } }$ ， $M _ { r } = 5 1 5 . 4 1$ ， $F ( 0 0 0 ) = 1 0 5 2$ ，the final $R = 0 . 0 3 3 6$ and $w R = 0 . 0 8 0 2$ with $I > 2 \\sigma ( I )$ . It exhibits a one-dimensional zigzag-chain structure,which was stabilized through intermolecular ${ \\mathrm { C - H \\mathrm { \\mathrm { \\cdot \\cdot } } \\mathrm { \\cdot \\mathrm { O } } } }$ and intramolecular ${ \\mathrm { N - H \\mathrm { \\cdot \\cdot } \\mathrm { \\cdot \\mathrm { O } } } }$ hydrogen bonding interactions.Moreover，we analyzed Natural Bond Orbital (NBO) by using the PBEO/LANL2DZ method built in Gaussian O9 Program.The calculation results showed obvious covalent interaction between the coordinated atoms and $\\mathbf { M n } ( \\mathrm { I I } )$ ion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: hydrothermal synthesis; crystal structure; $\\mathbf { M n } ( \\mathbf { I I } )$ complex; natural bond orbital; DOI: 10.14102/j.cnki.0254-5861.2011-1637 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently,studies on the synthesis of coordination polymers (CPs） have gained much concern in coordination chemistry owing to their intersting molecular topologies and enormous potential applications in catalysis, molecular selection,non-linearoptics,ion exchange and microelectronics[-3l. In usual,the structural diversityof such crystaline materials depending on many factors，firstly，counteranion，templating agents，metal ion, metal-ligand ratio, $\\mathrm { p H }$ value,and number of coordination situation given by organic ligands[4-5l. In the specific strategy,the soundselectionof organic ligandsorcoligands in the lightof their length,rigidity,and functional groups i important for the assembly of structural controllable CPs,and alot of significant jobs have been done by using the tactics[6]. Usually,the organic ligands with bent backbones,such as V-shaped, triangular, quadrangular, and so on,are great candidates for building highly high-connected,interpenetrating，or helical coordination architecture due to their bent backbones and versatile bridging fashions[7,8]. Moreover,the carboxylate groups are good hydrogen-bond acceptor as well as donor，depending on the degree of deprotonation. Among them, quadrangularpolycarboxylic acids， such as1,2,4,5-benzenetetracarboxylicacid， $^ { 3 , 3 ^ { \\prime } , 4 , 4 ^ { \\prime } }$ -benzophenone tetracarboxylic acid, $^ { 4 , 4 ^ { \\prime } }$ -oxydibenzoic acid and 2,5-thiophene-dicarboxylic acid,are paid much attention owing to their rich coordination modesl9l.Apart from the carboxylate linkers,chelating containing N-donor ligand,such as 1,10-phenanthroline, $^ { 2 , 2 ^ { \\prime } }$ -bipyridine, 3-(2-pyridyl)pyrazole,are frequently used in the assembly process of $\\mathrm { C P s ^ { [ 1 0 ] } }$ Hence， theseconsiderationsencouragedustoinvestigate newcoordinationframeworkswith 2,5-thiophenedicarboxylic acid (Htdc）and containing N-donor ligand (L). Here,we report the synthesis and characteristics of a new CP, namely, $[ \\mathrm { M n } _ { 0 . 5 } ( \\mathrm { t d c } ) _ { 0 . 5 } ( \\mathrm { L } ) ] _ { 2 \\mathrm { n } }$ (1),which exhibits a one-dimensional zigzag-chain structure and is diverse from those of 2.5-thiophene-dicarboxylate-bridged complexes reported previously[9(c)l. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1General procedures ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Allte chemicals were purchased commercially and used without further purification.Elemental analyses (C, H and N) were measured on a Perkin-Elmer 4Oo CHN Elemental Analyzer. IR spectrum was recorded in the range of $4 0 0 0 { \\sim } 4 0 0 ~ \\mathrm { c m ^ { - 1 } }$ on a Nicolet 67OO Spectrophotometer using a KBr pellet. TG studies were carried out on a STA73OO analyzer under nitrogen at a heating rate of $1 0 \\ \\mathrm { ^ { \\circ } C \\cdot m i n ^ { - 1 } }$ .Powder X-ray diffraction (PXRD) patterns were collected in the $2 \\theta$ range of $5 { \\sim } 5 0 ^ { \\circ }$ with a scan speed of $0 . 1 ^ { \\circ } { \\cdot } \\mathrm { S } ^ { - 1 }$ on a Bruker D8 Advance instrument using a $\\operatorname { C u } K a$ radiation $\\langle \\lambda = 1 . 5 4 0 5 6 \\mathrm { ~ \\AA }$ ）at room temperature. UV spectrum was obtained on a Shimzu UV-25O spectrometer in the $2 0 0 { \\sim } 4 0 0 \\mathrm { n m }$ range. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Synthesis of $[ \\mathbf { M } \\mathbf { n } _ { 0 . 5 } ( \\mathbf { t d c } ) _ { 0 . 5 } ( \\mathbf { L } ) ] _ { 2 \\mathbf { n } } \\left( \\mathbf { 1 } \\right)$ ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A mixture of $\\mathrm { M n } ( \\mathrm { O A c } ) _ { 2 } { \\cdot } 4 \\mathrm { H } _ { 2 } \\mathrm { O }$ (0.05 g,0.2 mmol),Hztdc (0.068 g, O.4 mmol),and L $( 0 . 0 2 9 \\ \\mathrm { g } , 0 . 2 \\ \\mathrm { m m o l } )$ was dissolved in 18 mL $\\mathrm { H } _ { 2 } \\mathrm { O }$ .The final mixture was placed in a Parr Teflon-lined stainless-steel vessel ( $3 0 ~ \\mathrm { m L } )$ under autogenous pressure and heated at $1 5 0 ~ \\mathrm { { ^ \\circ C } }$ for five days,obtaining block crystals. The yield of the reaction was ca. $42 \\%$ . Calcd. for $\\mathrm { C } _ { 2 2 } \\mathrm { H } _ { 1 6 } \\mathrm { M n N } _ { 6 } \\mathrm { O } _ { 4 } \\mathrm { S }$ :C, 51.27; H,3.13;N, $1 6 . 3 1 \\%$ . Found: C, 50.01; H, 2.85; N, $1 6 . 0 3 \\%$ .IR $( \\mathrm { c m ^ { - 1 } } )$ ） 3113(w),3023(w),1944(w),1604(s),1582(m),1533(m),1432(m),1360(s),1306(w),1250(w),1229(m),1154(w), 1114(w),1111(w),1094(w),1065(w),1015(w),963(m),899(w),839(w),792(s),766(s),709(w),698(w),68(w), 633(w),593(w), 486(m),469(w). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3X-ray crystallography ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All diffraction data of complex 1 were collected on a Bruker/Siemens Smart Apex IICCD diffractometer with graphite-monochromated MoKα radiation $( \\lambda = 0 . 7 1 0 7 3 \\mathrm { ~ \\AA } )$ at 293(2) K. Data reductions and absorption corrections were performed using the SAINT and SADABS programs,respectively. The structures were solved by direct methods，and all of the non-hydrogen atoms were refined anisotropically on $F ^ { 2 }$ by full-matrix least-squares technique using the SHELXL-97 crystallographic software packagel11,121. All the hydrogen atoms were generated geometrically and refined isotropically using the riding model.For 1,a total of 2818 reflections werecollcted in the range of $3 . 7 4 { \\leqslant } \\theta { \\leqslant } 2 8 . 3 8 ^ { \\circ }$ ，of which 2368 were independent ( $\\langle R _ { \\mathrm { i n t } } = 0 . 0 3 0 6 \\rangle$ . The final $R = 0 . 0 2 9 5$ and $w R =$ 0.1030 for the observed reflections with $I > 2 \\sigma ( I )$ ，and $R = 0 . 0 3 3 6$ and $w R = 0 . 0 8 0 2$ for all data with $( \\Delta \\rho ) _ { \\mathrm { { m a x } } } =$ 0.289 and $( \\Delta \\rho ) _ { \\mathrm { m i n } } = - 0 . 3 3 2 \\ \\mathrm { e } { \\cdot } \\mathring { \\mathrm { A } } ^ { - 3 }$ . Selected bond lengths and bond angles of complex 1 are shown in Table 1. Hydrogen bonding geometry for the title complex is collected in Table 2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4Theoretical calculation determination of complex 1 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All calculations in this work were put into effect with the GaussianO9 program[13].The parameters of the molecular structure forcalculation were allfrom the experimental data of the complex. Natural bond orbital(NBO) analysis was acted by density functional theory(DFT)[14] with the PBEOl15] hybrid functional and the LANL2DZ basis set[16]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1IR spectrum ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IR spectrum of 1 shows a broad absorption band at $3 0 2 3 ~ \\mathrm { c m ^ { - 1 } }$ corresponding to the C..H stretching. Asymmetric and symmetric $\\mathbf { C O O ^ { - } }$ stretching modes of the lattice $\\operatorname { t d c } ^ { 2 - }$ anion were evidenced by very strong, slightly broadened bands at 1604 and $1 3 6 0 \\mathrm { c m ^ { - 1 [ 1 7 ] } }$ ，which is consistent with the results of $\\mathrm { \\Delta X }$ -ray analysis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 Structure description ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A single-crystal X-ray diffraction work displays that complex 1 crystallizes in the orthorhombic space group Pnna and shows a one-dimensional zigzag-chain structure. The coordination environment of $\\mathbf { M n } ( \\mathrm { I I } )$ in 1 is shown in Fig.1. There are half $\\mathbf { M n } ( \\mathrm { I I } )$ ion,half tdc ligand and one L ligand in the asymmetric unit. The $\\mathbf { M n } ( 1 )$ ion is six-coordinated by two carboxylate oxygen atoms (O(1), O(1A)) from two different tdcligands and four nitrogen donors (N(2)，N(2A)，N(3)，N(3A) from two L molecules to provide a distorted octahedral coordination architecture. The bond distances of Mn-O in compound 1 are 2.1322(12) $\\mathring \\mathbf { A }$ ,and the $\\bf { M n - N }$ bond lengths fall in the 2.1915(14)～2.4086(15)A range, which are in the normal range and the coordination angles around Mn atom vary from 70.43(5） to $1 6 6 . 7 5 ( 5 ) ^ { \\mathbf { o } [ 1 8 ] }$ . In the coordination environment, the one carboxylate oxygen atom (O(1)） and three nitrogen atoms (N(2),N(2A),N(3))are lied in the basal plane, whileone carboxylate oxygen atom (O(1A)) and nitrogen atom (N(3A) occupy the axial positions from the opposite direction. One coordination mode of the tdc ligand is present in the structure of complex 1, namely a monodentate bridging mode.The Lligand exhibits a chelating mode, based on which two $\\mathbf { M n } ( \\mathrm { I I } )$ ions are linked by tdc ligands to produce a one-dimensional zigzag chain, which is diferent from those of 2,5-thiophenedicarboxylate-bridged complexes previouslyl9(o)lThedistance of neighboring $\\mathbf { M n } ( \\mathrm { I I } )$ ions is about $1 1 . 3 3 1 \\mathring { \\mathrm { ~ A ~ } }$ ，as illustrated in Fig. 2. The L ligands locate in the chain up and down. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hydrogen bonding interactions are frequently important in the synthesis of supramolecular framework.There are persistent intermolecular $\\mathrm { C - H \\cdot \\cdot \\cdot O }$ and intramolecular ${ \\mathrm { N - H } } \\cdots { \\mathrm { N } }$ hydrogen bonding interactions between carboxylate oxygen atoms of tdc ligands, nitrogen atoms and carbon atoms of L ligands incomplex 1(Table 2). Thus,through hydrogen bonds,the one-dimensional zigzag-chains are further expanded into a three-dimensional supramolecular architecture (Fig. 3) and take an important effect in stabilizing complex 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3Powder X-ray diffraction (PXRD) and thermal stability ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To confirm the phase purity of complex 1,powder X-ray difraction (PXRD)patterns were recorded for1,and it was comparable to the corresponding simulated pattrns calculated from single-crystal diffraction data (Fig. 4), indicating a pure phase of bulky sample. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TG curve of 1 (Fig. 5) exhibits that the first weight loss of $3 4 . 2 \\%$ from 317 to $4 0 0 ~ \\mathrm { ~ \\textdegree ~ }$ corresponds to the removal of tdc ligand (calcd: $3 3 . 0 \\%$ ). Upon further heating,an clear weight loss $( 5 4 . 8 \\% )$ occurs in the temperature range of $4 0 0 { \\sim } 7 1 0 \\ \\mathrm { ~ \\textdegree ~ }$ ， corresponding to the release of $\\mathrm { ~ L ~ }$ ligand (calcd: $56 . 3 \\%$ ). After $7 1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ no weight loss is watched, which indicates the complete decomposition of 1, the residual weight should be MnO. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4UV spectrum analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The UV spectra for complex 1, $\\mathrm { H } _ { 2 }$ tdc and L ligands have been discussed in the solid state.Hztdc has one absorption band at about $2 7 3 ~ \\mathrm { n m }$ and L has one absorption band at about $2 8 0 ~ \\mathrm { n m }$ ，whereas the title complex 1 has one absorption band at about $2 8 1 ~ \\mathrm { n m }$ (Fig. 6),which should be assigned to the $n {  } \\pi ^ { * }$ transition of ligands and the charge transfer transition[19]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4THEORETICAL CALCULATIONS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The selected natural atomic charges and natural electron configuration for the complex are displayed in Table 3. It is shown that the electronic configurations of $\\mathbf { M n } ( \\mathrm { I I } )$ ion, $\\mathbf { N }$ and $\\mathrm { ~ o ~ }$ atoms are $4 s ^ { 0 . 2 2 } 3 d ^ { 5 . 5 1 } 4 p ^ { 0 . 3 9 }$ $2 s ^ { 1 . 3 2 - 1 . 3 3 } 2 p ^ { 4 . 1 2 - 4 . 1 3 }$ （20 and $2 s ^ { 1 . 6 5 } 2 p ^ { 5 . 0 3 }$ , respectively. On account of the above results,one can infer that the $\\mathbf { M n } ( \\mathrm { I I } )$ ion coordination with N and $_ { 0 }$ atoms is mainly on the $3 d , 4 s$ ,and $4 p$ orbitals. $\\mathbf { N }$ atoms form coordination bonds with $\\mathbf { M n } ( \\mathrm { I I } )$ ion using $2 s$ and $2 p$ orbitals.All O atoms provide electrons of $2 s$ and $2 p$ to the $\\mathbf { M n } ( \\mathrm { I I } )$ ion and form the coordination bonds. Thus, the $\\mathbf { M n } ( \\mathbf { I I } )$ ion obtained some electrons from four $_ \\mathrm { N }$ atoms of $\\mathrm { ~ L ~ }$ and two $\\mathrm { ~ o ~ }$ atoms of tdc[16(a)]l Therefore,on the basis of valence-bond theory,the atomic netcharge distribution and NBO bond orders of1(Table 3) indicate obvious covalent interaction between the coordinated atoms and $\\mathbf { M n } ( \\mathrm { I I } )$ ion.The differences of NBO bond orders for Mn-O and Mn-N bonds make their bond lengths different16(b)l,，which is in good agreement with the X-ray crystal structural data of compound 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As can be seen from Fig.7,the lowest unoccupied molecular orbital (LUMO) mainly consists of L ligand, whereas the highest occupied molecular orbital (HOMO) is mainly composed of metal center. Thus,the charge transfer from metal to ligand may be deduced from some contours of molecular orbital of complex 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)）(a)W performance in the photodegradation of nitroaromatics in aqueous.Appl. Catal.B Environ.2015,168,98-104. (b)LiD;a highlyselective $[ 2 + 2 ]$ photodimerization of a conjugated dialkene.Chem.Commun.2014,50,3173-3175.   \n(2)Liu,Dgtcbo framework through asingle-crystal-to-single-crystal transformation.J.Am.Chem.Soc.2011,133,11042-11045.   \n(3) Lang, J. P.; Xu, Q.F.; Yuan,R. X.; Abrahams, B.F. $\\{ [ \\mathrm { W S _ { 4 } C u _ { 4 } ( 4 , 4 ^ { \\prime } - b p y ) _ { 4 } } ] [ \\mathrm { W S _ { 4 } C u _ { 4 } I _ { 4 } ( 4 , 4 ^ { \\prime } - b p y ) _ { 2 } } ] \\} _ { \\infty } - \\mathrm { a n }$ unusual 3D porous cordination polymer formed from the preformed cluster $\\mathrm { [ E t _ { 4 } N ] _ { 4 } [ W S _ { 4 } C u _ { 4 } I _ { 6 } ] }$ .Angew. Chem. Int. Ed.2004,43,4741-4745.   \n(4)(a)Yang,S.;Lin,X.；Blake,A.J.;Thomas,K.M.;Hubberstey,P.;Champness,N.R.；Schroder,M.Enhancementof $\\mathrm { H } _ { 2 }$ adsorption in $\\mathrm { L i ^ { + } }$ -exchanged coordination framework materials. Chem. Commun.20o8, 6108-6110. (b)Liu,D.；LiHX；Liu,L.L；Wang，H.M.；LiN.Y.；Ren，Z.G.；Lang，J.P.Howdosubstuentgroupsinthe5-position of1,3-benzenedicarboxylateaffecttheconstructionofsupramolecular frameworks?CrystEngComm.210,12,3708-3716. (c) Liu,J. L.; Lin,W. Q.; Chen, Y.C.; Leng,J.D.; Guo,F.S.; Tong,M.L.Symmetry-related $\\mathrm { [ L n ^ { I I I } } _ { 6 } \\mathbf { M n ^ { I I I } } _ { 1 2 } ]$ clusters toward single-molecule magnets and cryogenic magnetic refrigerants. Inorg. Chem. 2013,52,457-463.   \n(5）(a)BaoX;;Da;eb high-temperature spin transition exhibited by new 2D metal-organic frameworks.Chem.Sci.201,3,1629-1633. (b)Fan,L;;od the ligand linkages.CrystEngComm.2013,15,349-355. (c) Chen, C.X.; Liu, Q.K.; Ma,J.P.; Dong,Y.B.Encapsulation of ${ \\mathrm { L n } } ^ { 3 + }$ hydrate species for tunable luminescent materials based on a porous Cd(I)-MOF.J. Mater: Chem. 2012,22, 9027-9033.   \n(6)()unD from proton-transferred sebacic acid. Cryst. Growth Des.2011,11,3323-3327. (b)Li,XJJLu;ebeo flexible tripodal phosphoric triamide ligand. Inorg. Chem.2012,51,4116-4122.   \n(7)()Cui,YJ;uF;QGD;.tcaletaafros.v. (b)Silva,C.G;Corma,A.;Garcia,H.Metal-organicframeworksassemiconductors.J.MaterChem.0,,141-3156.   \n(8)(a)iruugan;ataaa,rectsthsisftaloarticsihbleosity.Jater,,59. (b）Sun,L.B.；LiY；Liang，Z.Q.；Yu,J.H；Xu..Structuresandpropertiesoflanthanidemetal-organicframeworksbasedna 1,2,3-triazole-containing tetracarboxylate ligand.Dalton Trans.2012,41,12790-12796. (c)Li,GplC acid: syntheses,structures and photoluminescent properties. CrystEngComm.2013,15,6870-6878.   \n(9)(a)Li,X.M.； Niu,Y.L.Hydrothermal synthesisandcrystal structure of one-dimensional coordinationpolymer $[ \\mathrm { N i } _ { 3 } ( \\mathrm { H } _ { 2 } \\mathrm { b t e c } ) _ { 1 . 5 } ( \\mathrm { O H } ) _ { 3 ^ { - } } ( 2 , 2 ^ { \\prime } \\mathrm { - b i p y } ) _ { 3 } ] _ { \\mathrm { n } }$ Chemical Research and Application 2006,18,1071-1076. (b)LiX.M;og;aguiiudrotalsisdstaltureorelle [Zn(H2BPTC)(phen)2]n·3nHO.Chin.J. Struct.Chem.2007,26,1495-1498. (c)Gong,Y;;a photoluminescence and photocatalytic properties.Dalton.Trans.2013,42,13241-13250.   \n(10)(a)NiL;da structure: $\\mathrm { [ M n ( p z d c ) ( p h e n ) ] } _ { n } { \\cdot } n \\mathrm { H } _ { 2 } \\mathrm { O }$ .Chin.J.Struct.Chem.2010,29,712-715. (b)LiX..;WgW;C;gudrotadstarcuai network structure: $\\mathrm { \\Delta [ P b _ { 2 } ( P D B ) _ { 2 } ( p h e n ) ] _ { n } { \\cdot } n H _ { 2 } O }$ .Chin.J. Struct. Chem.2010,29,757-761. ()Li,X.;sau) chain structure: [Cd(bpy)(BDC)]n·nbpy. Chin.J. Struct. Chem.2007,26,537-540.   \n(11)Sheldrick,G.M.SHELX97,ProgramfortheSolutionofCrystal Structure.UniversityofGotingen,Germany1997.   \n(12)Sheldrick,G.M.SHELXL97,ProgramfortheRefinementofCrystal Structure.UniversityofGotingen,Germany997.   \n(13)Frisch,H.   \n(14)Parr,R.G.;Yang,W.DensityFunctional TheoryofAtoms and Molecules.Oxford UniversityPress,Oxford1989.   \n(15）Adao,Carone,VTowardeliabledensityfunctioaletodswitoutdjustableparameters:TheEOodel.Chem.P. 6158-6170.   \n(16)(a)WangLZaoJ;Lthisructureorceoprtdatualdbial(atal $[ \\mathrm { E u } ^ { \\mathrm { { m } } } , \\mathrm { C o } ^ { \\mathrm { { m } } } ]$ codatibod Chem. 2012,638,224-230. (b)Li,ZP.;isasateict Phys.Chim. Sin.2009,25,741-746.   \n(7)Dever structures and biomimetic and anticancer activities of novel copper(II)benzoate complexes incorporating 2-( $4 ^ { \\prime }$ -thiazolyl)benzimidazole (thiabendazole), 2-(2-pyridylbenimidazolend,-phenantholineaschelatingntrogendonorlgands.norg.iochem.,,89.   \n(18)Pan,Y.R;Sun,M.;LiX.MHydrotealsthesandstalstructursoftwcoplexsofobaltandmanganeassbledby $^ { 4 , 4 ^ { \\prime } }$ oxydibenzoic acid. Chin.J. Struct. Chem.2015,34,576-584.   \n(19)Mohamed,G.G.;el,.E.A.isigatirospicactetiofocaryf Fe(II),Fe $( \\mathrm { I I I } )$ $\\operatorname { C o } ( \\mathrm { I I } )$ $\\mathrm { { N i ( I I ) } }$ $\\mathtt { C u ( I I ) }$ and $Z \\mathrm { n } ( \\mathrm { I I } )$ with glycine and dl-phenylalanine.Spectrochim.Acta,Part A2004,60,3141-3154 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a58542592676b2d1ccbd08232eb374cd56c95e2ad8703972090d0ed88dc5e126.jpg",
+        "table_caption": [
+            "Table1． Selected Bond Lengths $( \\mathring \\mathbf { A } )$ and Bond Angles () "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Bond</td><td>Dist.</td><td>Bond</td><td>Dist.</td><td>Bond</td><td>Dist.</td></tr><tr><td>Mn(1)-O(1)</td><td>2.1322(12)</td><td>Mn(1)-O(1A)</td><td>2.1322(12)</td><td>Mn(1)-N(2)</td><td>2.1915(14)</td></tr><tr><td>Mn(1)-N(2A)</td><td>2.1915(14)</td><td>Mn(1)-N(3)</td><td>2.4086(15)</td><td>Mn(1)-N(3A)</td><td>2.4086(15)</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8277a2b3d4f3208fb36aa1ba5253a5c08d53d2b5f5cfc633d3a557363479b539.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Symmetry transformations used to generate the equivalent atoms: A: $- x , - y , - z$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Angle</td><td></td><td>Angle</td><td>（）</td><td>Angle</td><td></td></tr><tr><td>0(1)-Mn(1)-O(1A)</td><td>95.55(7)</td><td>0(1)-Mn(1)-N(2)</td><td>101.92(5)</td><td>N(2A)-Mn(1)-N(3A)</td><td>70.43(5)</td></tr><tr><td>O(1A)-Mn(1)-N(2)</td><td>97.73(5)</td><td>N(2)-Mn(1)-N(3A)</td><td>166.75(5)</td><td>O(1)-Mn(1)-N(2A)</td><td>97.73(5)</td></tr><tr><td>O(1A)-Mn(1)-N(2A)</td><td>101.92(5)</td><td>N(2)-Mn(1)-N(2A)</td><td>150.61(8)</td><td>O(1A)-Mn(1)-N(3)</td><td>166.75(5)</td></tr><tr><td>0(1)-Mn(1)-N(3A)</td><td>166.75(5)</td><td>O(1A)-Mn(1)-N(3A)</td><td>92.81(5)</td><td>N(2A)-Mn(1)-N(3)</td><td>87.08(5)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/669b84fab58d80b4c1f94a9565c6308d3b07dfa6497eecd25f00c9b961d22d7b.jpg",
+        "table_caption": [
+            "Table 2. Hydrogen Bonds for Complex1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>D-H…A</td><td>d(D-H)</td><td>d(H·A)</td><td>d(D· A)</td><td>∠(DHA)</td><td>Symmetry codes</td></tr><tr><td>N(1)-H(1A)·O(2)#1</td><td>0.97(2)</td><td>1.67(2)</td><td>2.606(2)</td><td>160(2)</td><td>x,1/2-y, 1/2-z</td></tr><tr><td>C(2)-H(2)··0(1)#2</td><td>0.93</td><td>2.50</td><td>3.425(2)</td><td>176</td><td>1/2+x,-y,1-z</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd08eb767390460667fd1176cce8770dfa495a6bafb1e27b4e06b01667960559.jpg",
+        "table_caption": [
+            "Table 3. Natural Atomic Charges,Natural Valence Electron Configurations, WibergBond Indexesand NBOBond Orders(a.u) for1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Atom</td><td>Nharge</td><td>Electron configuration</td><td>Bond</td><td>Wiberg bond</td><td>NBO bond order</td></tr><tr><td>Mn(1)</td><td>0.86024</td><td>[core]4s(0.22)3d(5.51)4p(0.39)</td><td></td><td></td><td></td></tr><tr><td>0(1)</td><td>-0.69163</td><td>[core]2s(1.65)2p(5.03)</td><td>Mn(1)-O(1)</td><td>0.3887</td><td>0.3687</td></tr><tr><td>0(1A)</td><td>-0.69170</td><td>[core]2s(1.65)2p(5.03)</td><td>Mn(1)-O(1A)</td><td>0.3885</td><td>0.3687</td></tr><tr><td>N(2)</td><td>-0.29362</td><td>[core]2.s(1.33)2p(3.93)</td><td>Mn(1)-N(2)</td><td>0.3299</td><td>0.3609</td></tr><tr><td>N(2A)</td><td>-0.29359</td><td>[core]2s(1.33)2p(3.93)</td><td>Mn(1)-N(2A)</td><td>0.3300</td><td>0.3609</td></tr><tr><td>N(3)</td><td>-0.45158</td><td>[core]2s(1.32)2p(4.11)</td><td>Mn(1)-N(3)</td><td>0.2673</td><td>0.2882</td></tr><tr><td>N(3A)</td><td>-0.45156</td><td>[core]2s(1.32)2p(4.11)</td><td>Mn(1)-N(3A)</td><td>0.2675</td><td>0.2882</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/673bbfb1d7b9a2f6769357f0db4151adabc0fb6fa3d688e2a3f90466ab40c291.jpg",
+        "img_caption": [
+            "Fig.1. Coordination environment of the $\\mathbf { M n } ( \\mathbf { I I } )$ center in 1. Symmetry code: $( \\mathbf { A } ) - \\pmb { x } , - \\pmb { y } , - z$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4867a4633ecbfcb2e7dead1d1105fab8b5cf5c202b8fc31aaf2290d2e6b04d38.jpg",
+        "img_caption": [
+            "Fig.2. View of the one-dimensional zigzag chain "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff7e6f45a17fa87df49d91a97040b895602a265775ad0f465ff3f721c136d731.jpg",
+        "img_caption": [
+            "Fig.3. View of the 3D supramolecular architecture of 1 formed by hydrogen-bonding interactions "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/571c2bc6725346cbc573315a7419ee55d8b94fcc3cb8a595ca27c404d465acba.jpg",
+        "img_caption": [
+            "Fig.4.PXRD analysis of the title complex: bottom-simulated, top-experimental "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9582d8810fc4c4ce353c9d2e4c36a28a9b9df2d01ff198663a177d831edcfb0.jpg",
+        "img_caption": [
+            "Fig.5. TGA curve of complex 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/01bd4faa31b25f03112c247e822af7aebb8d5037d724c29a8482dacf2ed257bf.jpg",
+        "img_caption": [
+            "Fig.6.UV spectrum of1at room temperature "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a921d49e86b759c42eda2af6d7c9633e8bb2837e399671debcc6342e1cb9832a.jpg",
+        "img_caption": [
+            "Fig.7.Frontiermolecularorbitalsofcomplex1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Synthesis, Crystal Structure and Theoretical Calculations of a Manganese(II) Coordination Polymer Assembled by 2,5-Thiophenedicarboxylic Acid and 3-(2-Pyridyl)pyrazole Ligands ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LIUHong(刘宏）LIXiu-Mei(李秀梅） PAN Ya-Ru(潘亚茹)WANG Shao-Jie(王少杰） LIGuo-Feng(李国峰)",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A new complex $[ \\mathrm { M n } _ { 0 . 5 } ( \\mathrm { t d c } ) _ { 0 . 5 } ( \\mathrm { L } ) ] _ { 2 \\mathrm { n } }$ has been successfully synthesized under hydrothermal conditions and its structure was determined bysingle-crystal X-ray diffraction analysis,elemental analyses,IR,TGand UV spectrum. 1 exhibits a one-dimensional zigzag-chain structure,which was stabilized through intermolecular $\\mathrm { C - H \\cdot \\cdot \\cdot O }$ and intramolecular ${ \\mathrm { N - H \\mathrm { \\cdot \\cdot } \\mathrm { \\cdot \\mathrm { O } } } }$ hydrogen bonding interactions. Moreover,we analyzed Natural Bond Orbital (NBO) in using the PBE0/LANL2DZ method built in Gaussian O9 Program.The calculation results showed obvious covalent interaction between the coordinated atoms and $\\mathbf { M n } ( \\mathrm { I I } )$ ion. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/29afac4c8315001de8c3b2ea0c8c77e12b6299a75ccd578b45f66416e762387d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    }
+]

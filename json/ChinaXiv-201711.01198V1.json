@@ -1,0 +1,571 @@
+[
+    {
+        "type": "text",
+        "text": "网络谣言传播中群体态度演变研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沈超」朱庆华²沈洪洲」1(南京邮电大学管理学院南京 210046)2(南京大学信息管理学院南京 210093)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】通过大学生志愿者进行网络谣言传播的控制实验，研究不同话题网络谣言传播中网民群体的态度演变动因和规律。【方法】采用问卷调查，记录不同谣言传播过程中实验对象的态度与行为数据，使用数据挖掘分类算法分析网民态度演变的共性与差异。【结果】研究结果表明，网民传播谣言具有验证特性，谣言的内容影响网民传播的媒介，网民观点交互随群体一致性动态变化。影响网民态度及其演化的主要因素包括初始认知、群体行为、信息获取和交流渠道，网民的态度演变率与网络谣言的内容等相关指标关联度较低。【局限】研究对象局限于大学生群体会影响研究结论的普适性。【结论】将实验研究和数据挖掘技术结合对网络谣言进行研究，为网络谣言的模型研究提供数据参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：网络谣言 群体态度态度演变分类号：G350",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在快速阅读、转载和评论的新媒体时代，互联网信息的生成、蔓延与放大往往不在于事实和逻辑的传递，而在于态度和情感的分享。借助夸张的情感词汇激起公众情绪已成为互联网信息快速传播的捷径，部分网民和媒体为了表达自身态度甚至虚构事实以引发网民群体的关注与共鸣，导致网络谣言频发，如近期“上海女孩逃离江西农村\"谣言刷爆朋友圈，起因是发帖者因夫妻吵架，春节独自留守家中的情感宣泄。Mackie等提出的\"群际情绪理论(IET)\"认为个体行为是由认知和情感偏好决定的，表现为模仿和反馈机制，网民的群体态度是网民个体态度和行为的宏观涌现[1]。可见，深入研究网民个体在谣言信息传播中的微观态度和行为是研究网民群体态度演变的基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前关于网络谣言传播中态度的演化过程研究主要集中在网络传播模型和意见交互系统动力学两方面，前者将网民个体抽象为网络节点，将个体行为抽象为接收、转发和编辑，使用SIR等传染病模型研究网络谣言信息传播的基本规律[2-3]，较少考虑网民个体态度和行为的动态变化；后者关注网民群体态度的倾向，引入物理学中的自旋(Ising)模型模拟个体态度的形成机制[4]，通过数值化的微观个体态度交互分析群体态度演化的规律，对个体态度与行为的关联性进行简化处理。为了研究个体态度对网络信息传播中群体态度演变的影响，相关学者进行了有益尝试，如赵卫东等研究突发事件中网民群体的情绪传播机制，建立网民情绪传播的仿真模型[5]，然而仿真模型研究往往基于定性假设，缺乏实例数据的支撑，规则和参数的设置具有主观性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对网络谣言传播相关的数据难以获取，无法深入研究网民个体在谣言传播中的态度演变与行为的问题，本文设计了三种不同类型的网络谣言，在学生志愿者中进行控制传播，记录实验中的衍生话题，并通过问卷调查获取实验对象的态度与行为数据，使用数据挖掘技术分析个体态度和行为对群体态度演变的影响，以期从谣言话题类型和个体心理认知层面剖析网络谣言传播中网民群体态度的演化过程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2相关理论研究概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在网络谣言传播研究中，基于方程(EquationBased,EB）的研究和基于主体（Agent-Based,AB）的研究已经取得了众多成果，国内外学者构建了各类网络谣言传播的网络结构模型、网民意见交互模型和话题传播模型，对网民群体态度的特征和演变也进行了探索研究，但缺乏个体情感认知过程的深度分析。实验研究法提供了打开网络谣言传播中个体态度演变及行为决策过程的可能，数据挖掘则为分析个体态度与行为与群体态度演变规律的关系提供了有效的分析手段，相关理论的整合为网络谣言的研究提供了新的思路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1网络谣言群体态度研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "社会心理学家DiFonzo从过程和功能视角对谣言进行界定，认为谣言是公众对社会环境中存在的风险与威胁的反映，是广泛传播的未经证实的信息[。谣言本质是一种社会化的信息，与传统的新闻、公告不同，谣言具有信息与社交的双重属性，从信息角度来看，它具备模糊性和重要性的特征；从社交角度来看，它必须在特定群体中传播来表达某种心理诉求。本文认为网络谣言是谣言在互联网环境下衍生的特殊形态，是指通过互联网媒介传播的未经证实的信息，表达了特定网民的态度与诉求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在网络谣言传播中，网民个体的态度和行为受群体影响并最终反映为群体态度，包括心理层面的网民群体态度交互和社会层面网民群体传播行为。与传统谣言口口相传相比，网民在网络谣言传播过程中参与更直接，行为也更激烈。王恩界等描绘了网民在谣言不同阶段的态度变化，并提出网民的基本态度具有窥私欲泛滥、泛政治化评论、轻信负面信息、道德标准极端传统化等特征[7]。方付建等提出网民内部存在感染效应，网民会对群体倾向进行判断并选择保持群体一致性的行为，媒介的宣传和误导推动了网民态度极端化，助长了网民的自我臆想意识[8]。从表象来看，网络谣言是热点话题与事件，但本质上网络谣言是个体网民间的信息与态度交互活动，有必要从态度和交互两方面研究网络谣言传播中网民的群体行为，揭示网络谣言传播中的微观现象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 实验研究法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验研究法通过实验条件的控制模拟真实的场景，观察实验对象的行为，找出实验现象发生的原因，研究具有客观性。实验可以分为前实验、准实验和真实验三类，前实验设计实验对象、变量和环境没有具体要求，主要进行因素相关的探索性研究；准实验设计不按照随机原则选取实验对象，但可以控制变量;真实验设计则是随机选择实验对象，并对无关变量控制比较严格。实验研究法可以用于研究信息传播领域个体与群体的行为。王知津等系统论述了实验研究法等心理学研究方法在信息分析中的应用[9]，国外学者也尝试将实验研究法应用于互联网信息研究，Jung等使用实验研究法分析团队协作环境对用户信息系统使用感知和反馈的影响[10],Deng等使用实验研究法研究网页的复杂性和功能排列对用户访问行为的影响[11，相关研究主要局限在用户体验与信息系统设计方面，缺乏信息传播相关的实验研究，国内将实验法应用于互联网信息分析并不广泛，正如王知津等认为“心理学可以弥补信息分析中认知、非智力、社会因素的研究\"9]。网络谣言传播具有互联网信息传播系统的特征，因而可以从态度、感知和行为的视角进行实验研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3网民态度挖掘方法研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据挖掘方法常用于对网民关于品牌、企业、公共事件甚至个人相关的态度、意见和情感的分析[12],与之相关的自然语言处理、信息抽取、信息检索技术已成体系，网民态度挖掘成为Web2.0时代的研究热点[13]。社交网络媒体和用户生成内容为网民态度挖掘提供充足的素材[14]，但网络谣言对态度挖掘方法提出新挑战:",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）依靠网络爬虫获取数据的难度和质量递增，网络谣言传播的隐秘性导致话题传播的前期数据难以获取，网民之间的行为难以跟踪，网民的态度演变信息难以获取[15];",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）研究目标难以量化，网络谣言中网民的态度和意见无法通过互联网数据获取，因而学者往往通过访谈和问卷调研的方式获取数据，无法完整覆盖到谣言传播的网民群体，影响了研究结论;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）通过互联网难以获取高质量、结构化的数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "学者在研究相关问题时往往会通过简化网民态度假设或限定传播媒介等方法来减少上述影响，而研究表明对于媒介或网民态度的简化会影响分析结论的稳定性[16]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于态度模型的网络谣言实验研究能够在确定群体内获取网络谣言较全面的态度与行为数据，给网络谣言中网民态度的挖掘提供了新的思路",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3网络谣言传播的实验研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文试图将实验研究方法、问卷调查法和数据挖掘法结合对网络谣言的态度演变进行探索性研究，具体流程如图1所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献研究  \n案例分析 网络谣言传播的 环境、话题 网络谣言传播 实验话题 网络谣言传播准访谈 影响因素研究 心理、行为 前实验设计、实施 问卷设计 实验设计、实施问卷数据访谈资料√网络谣言传播 群体态度 网络谣言群体 初始特征 实验数据结论 态度演变规律 演变建模 态度演化分析 态传特数据 检验与分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）根据文献研究、案例分析和访谈资料确定环境、话题、心理、行为等影响网络谣言传播的因素，对谣言进行分类;(2）设计网络谣言传播的前实验，在前实验基础上选定实验志愿者中传播的谣言话题、实验过程、控制变量、问卷内容和访谈提纲;(3）设计并实施网络谣言传播实验，获取实验问卷数据和访谈资料，从话题视角分析不同谣言的传播特征，获取实验志愿者在谣言传播中的态度信息;(4）使用数据挖掘分类算法分析实验对象群体态度的演变动因，分析网络谣言演变的基本规律，并给出应对网络谣言的具体建议。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 前实验设计与实施",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为拟合真实网络谣言的传播过程，研究采用前实验设计和准实验设计两类实验，考虑到在校大学生是互联网的原住民，网络行为相对活跃，集聚性较强，容易进行网络谣言传播过程的控制，选择大学生群体作为网络谣言传播的实验对象。前实验设计选取南京A大学的12名本科生志愿者参与网络谣言的内容设计、影响因素分析，作探索性研究；准实验设计选取南京B大学两个专业6个班级177人作为研究对象，按专业分为两组，两个专业辅导员不同、宿舍距离较远交集不多，在参与对象不知情的情况下进行信息传播，研究网络谣言的传播规律。实验的主要目的是研究谣言话题内容、传播渠道、个体性格、群体意见、交互行为等对网民群体态度和行为的影响，并研究网民交互行为对谣言话题内容扩散的反作用，其中网民对谣言持有的态度作为因变量，个体性格、群体意见和交互行为作为自变量，谣言内容、传播渠道作为控制变量。前实验阶段主要通过典型谣言案例的集中讨论获取实验对象群体的信息心理和信息行为，为后期实验的内容和问卷设计提供支撑。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验前测完成谣言案例的收集、讨论、分类，谣言设计和问卷设计，根据案例分析结果将谣言分为社会类、组织类和个人类，其中社会类选定马航失联事件(国际热点)、转基因食品(食品安全)、中国设定副都(国内时政)和江苏舜天主场迁到扬州(体育)4个话题,在讨论社会类话题过程中，参与志愿者响应激烈并引发了言语冲突，成为大家较为关注的话题，因而社会类选择了转基因食品主题设计谣言；组织类围绕学校展开，包括食堂、班车、出国交流和课程调整问题，志愿者对进修一类的话题比较感兴趣，因而选择出国交流作为实验话题；个人类选择志愿者比较关注的就业问题作为谣言话题设计。前实验设计通过多次头脑风暴分析网络谣言的案例、影响因素和网民行为，并设计了网络谣言的传播话题、传播思路和数据获取的方法，为网络谣言传播的准实验设计提供参考。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 准实验设计与实施",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "准实验设计考虑谣言话题的细节、问卷设计的具体内容、问卷发放和采集方式以及实验操作的具体步骤。在谣言内容设计时主要考虑两个方面：一是需要传播的信息内容，供传播者发送信息；二是与传播信息相关的辅助信息，用于保持信息的关注度，在讨论话题过程中，加入支撑信息作为控制变，如表1所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9563ea64a73908856380ea127ab766f0a1aebdd3cbe4e0306cc0db4042bd1b8d.jpg",
+        "table_caption": [
+            "表1网络谣言传播话题设计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>谣言话题</td><td>传播的信息内容</td><td>支撑信息</td></tr><tr><td></td><td>话题1：实习B公司需要两个基础好的同</td><td></td></tr><tr><td>定向推荐</td><td>学实习，工资很高 话题2：转基转基因食品的食用会改变人网络上转基因食品</td><td></td></tr><tr><td></td><td>因食品阴谋论 类基因，降低疾病免疫力造成疾病的报道 话题3：南京B据说最近南京B大学与美国1、B大学相关信息</td><td></td></tr><tr><td></td><td>大学开展自费L大学将合作开展自费交流2、美国L大学信息</td><td></td></tr><tr><td>交流生计划</td><td>生计划，针对本校的大二学3、交流生计划信息</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为保证实验效果，通过预先选定的志愿者作为信息源传播谣言，其他志愿者事先不了解谣言内容。为了减少谣言信息的影响，选择与实验对象利益关联较小的话题，并对传播过程进行监控，实验完成后向参与者说明实验目的。谣言传播过程中的个体行为、群体交互、话题衍生等信息的获取主要通过信息源志愿者的记录和传播结束后的问卷调查获取，因而问卷设计需要考虑多方面的因素。为更加全面地了解参与者的网络偏好，准确分析参与个体在网络谣言产生、传播过程中的态度和行为，结合前实验阶段的讨论分析，问卷根据谣言信息传播的生命周期从实验对象基本信息、互联网使用习惯、听到谣言之初的观点和态度、谣言传播过程中的态度与行为、最终持有的态度5个方面进行设计，共设计25道调查问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "网络谣言的传播实验共分三周进行：第一周进行实验的准备；第二周是实验传播期，由网络谣言传播者负责了解并记录谣言传播和实验对象交流的情况;第三周是数据采集期，通过访谈和问卷调查，获取谣言传播过程中志愿者态度和行为信息，向所有志愿者解释实验的情况，要求不要将谣言扩散，在调研结束后回收问卷。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4网络谣言的传播特征研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为分析不同话题谣言信息在实验志愿者中传播的差异，本文根据前实验结果设计了三则谣言话题进行实验，从网民态度演变的视角对谣言传播过程进行研究。实验共收回有效问卷155份。使用SPSS20.0软件对数据进行初步的统计分析，经检验，问卷的",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cronbach's $\\alpha$ 系数为0.921，具备良好的信度。结合问卷数据从初始信任度、扩散行为和态度演变三方面对谣言传播特征进行统计分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 网络谣言传播的初始特征分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验对象初始信任度的调查结果与设计谣言时的预期基本相符(见表2)，在谣言设计时，实习就业的谣言偏向真实，转基因食品谣言偏向虚假，而出国就业谣言相对中立。表明网络谣言信息中网民具备基本的理性认识，能够根据自身的经验对信息内容的真实性进行初步判断。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4795c68e8cbe38b516f0c07a5bd91efcfafcacddb68e68e595ce4539a067fc4e.jpg",
+        "table_caption": [
+            "表2三则谣言的初始信任度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>完全相信 相信 不确定 不相信 完全不相信</td><td></td></tr><tr><td>实习初始信任度</td><td>19.2%</td><td>43.7% 28.5%</td><td>7.3% 1.3%</td></tr><tr><td>转基因初始信任度</td><td>5.4%</td><td>31.1% 53.4%</td><td>6.8% 3.4%</td></tr><tr><td>交流生初始信任度</td><td>7.2%</td><td>45.0% 35.8%</td><td>8.7% 3.3%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验对象在首次听到谣言后采取的行为与谣言话题内容密切相关(见表3)。实习就业影响实验对象未来发展，实验对象往往通过多种途径对信息进行研究，促进了谣言扩散；转基因谣言因其自身的社会关注度较高，容易通过网络信息检索进行验证；出国交流参与者较少，通过同学交流验证比例较高。三则谣言关注度的差异表明谣言内容决定了受众行为，而转基因谣言和实习谣言受众论证行为的差异表明受众会选择自己认为最能获取准确信息(消除不确定性)的渠道来论证谣言信息，与其说是传谣者选择了媒介，不如说是谣言内容本身决定了传播媒介。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b45958e9f9d2e25247ad607e040042949f2d247371fb6d3634b57bba0abf4620.jpg",
+        "table_caption": [
+            "表3首次听到三则谣言的网络行为"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">没有 在意</td><td rowspan=\"2\">同学 交流</td><td colspan=\"3\">网络交流</td></tr><tr><td>网络搜索</td><td>QQ聊天</td><td>社交网络</td></tr><tr><td>实习谣言</td><td>39.0%</td><td>44.7%</td><td>9.2%</td><td>3.5%</td><td>3.5%</td></tr><tr><td>转基因谣言</td><td>44.8%</td><td>16.1%</td><td>34.3%</td><td>2.1%</td><td>2.8%</td></tr><tr><td>交流生谣言</td><td>52.3%</td><td>28.2%</td><td>10.1%</td><td>6.0%</td><td>3.4%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2网络谣言话题扩散特征分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从谣言话题扩散的参与度分析，一半以上的实验对象参与了网络谣言传播过程(见表4)。由于实验条件所限，实验对象在初次听到谣言时的网络行为主要表现为与同学交流，多数实验对象在交流过程中将谣言分享给其他人。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从谣言话题扩散的渠道分析，三则谣言的传播方式比较接近，相比较短信、邮件，实验对象更偏好在微博、QQ空间、朋友圈等社交媒体平台，以及通过微信、QQ等即时通讯工具进行沟通交流、传播谣言信息，这符合实验对象更习惯使用互联网。同时，口口相传在传播渠道中所占比例较大，可见实验对象并未完全抛弃传统的沟通方式，在日常交流中能够注重自我口头表达。实验对象会选择易于交流或沟通的对象来讨论或传播，符合谣言病毒式传播的基本假设，然而也会存在一对多的跳跃式传播(比如传给不在身边的好友)。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7dafdd1494c8bcb175da7af190f19083018613d02e73242dc2463a9a77cae6eb.jpg",
+        "table_caption": [
+            "表4谣言传播过程中的网络行为"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>置之 不理</td><td>分享给 室友</td><td>分享给 本班同学</td><td>分享给 其他人</td></tr><tr><td>实习谣言</td><td>33.3%</td><td>47.6%</td><td>13.6%</td><td>5.4%</td></tr><tr><td>转基因谣言</td><td>40.7%</td><td>36.6%</td><td>14.8%</td><td>7.8%</td></tr><tr><td>交流生谣言</td><td>48.0%</td><td>34.0%</td><td>13.3%</td><td>4.7%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从谣言话题扩散的动因分析，求证和对真相的渴望是谣言得以传播扩散的主要原因。三则谣言传播动机中求证心理的比例分别为： $4 0 . 9 \\% , 4 5 . 6 \\% , 3 1 . 0 \\%$ 实验对象对于网络信息的处理较为理性，并未完全受制于网络谣言，能够理性求证，辨识信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3网络谣言态度演变特征分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "谣言接收者出于求证心理传播或编辑谣言，在经过一段时间求证后，大部分谣言接收者会重新认识谣言，或坚定自己的想法，或改变已有的观点。分析三则谣言话题扩散过程中群体态度演变过程，实习谣言变化率 $23 . 2 \\%$ ，转基因谣言变化率 $23 . 9 \\%$ ，交流生谣言变化率为 $24 . 1 \\%$ 。三则谣言虽然置信度迥异，然而发生态度演变的实验对象比率非常接近，可见对谣言的态度演变体现了群体的从众心理，即群体中总有一定比例的摇摆人，会比较容易地改变自己对信息的判断。进一步分析网民态度演变后的行为， $45 . 5 \\%$ 的实验对象选择做一个旁观者，不发表意见， $4 2 . 2 \\%$ 的实验对象会跟随大众观点， $12 . 3 \\%$ 的实验对象希望验证信息并引导舆论，验证了社会学中\"沉默大多数\"的判断。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以上分析表明，三则谣言都在实验群体中进行了广泛传播，个体在接收到谣言信息后，或多或少会对谣言所传达的内容进行分析判断，验证符合个人兴趣或观点的信息，过滤个人感觉无关紧要的信息。对于感兴趣的信息，个体会主动对信息进行求证，与同学、朋友交流谈论，其在影响他人的同时，自身也受到周围环境的影响，其网络行为和观点立场随时间不断发生改变。话题内容虽然影响网民的初始信度和网民的传播行为，但对网民个体态度演变的影响并不明显，因而有必要进一步分析网民态度演变的动因。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5网络谣言传播中群体态度演变分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1网民态度演变分析框架",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在网络谣言传播过程中，个体态度包括接收到谣言之初网民所持有的态度和谣言传播后期网民持有的态度两个节点，经过网络谣言的传播与群体交互，网民的态度可以分为两类：维持原有观点和观点发生改变。实验数据表明三则实验谣言中志愿者的态度演变率都接近 $24 \\%$ 。为了深人研究网民态度演变的动因，本文从初始观点、群体态度和信息编辑等视角进行分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据问卷数据，以谣言的最终观点为输出变量，进行建模指标抽取，利用决策树、神经网络等分类算法对网民态度演变的动因进行分析，如图2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.2网络谣言态度演变建模",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对问卷数据处理得到72个字段，构成数据挖掘建模的宽表，将样本按照最终是否相信谣言分为两类，通过分类算法获取态度识别规则。采用决策树推进算法建立分类模型，提高建模准确度[17]。以宽表中的字段作为建模变量，以谣言的最终信度作为模型的目标变量，用随机抽样法将样本划分为训练集 $( 7 0 \\% )$ 和测试集 $( 3 0 \\% )$ 。考虑网民态度识别准确性要求，采用响应图作为模型的评价标准，调整参数获取较优模型。使用Clementine12.0软件分别对三则谣言的态度变化进行建模，得出网络谣言传播中网民态度变化的规律。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)实习生谣言中群体态度演变分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用BA神经网络建模得到实习谣言的变量重要性，排名前5位的分别是初始信度、观点影响、初始感觉、朋友圈态度和群体一致性，实验对象对实习谣言的态度主要受个体认知和群体态度的影响，实习初始信度影响较大。为定量分析实验对象观点形成的机制，建立实习终信度指标的分类模型，经多次迭代得出三个准确率和节点分布较合适的模型(模型1:C&RT算法，模型2:CHAID算法，模型3:C5.0算法[18)，模型3整体响应度最高(见图3)，可以作为判断实验对象态度倾向的模型。模型3由一组决策树组成，在建模过程中会侧重考虑不同变量的影响，通过多次迭代提高模型的整体准确率和稳定性，其主决策树如图4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9029045eca3e922b03be0aff141bb96c2d5fd6d9ff2753b2a7f90b58767a8f8.jpg",
+        "img_caption": [
+            "图2网民态度演变的动因分析框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f552be951934fdc941b1f9169c6c183cffc049862caf17d0248f9ace7d6816d2.jpg",
+        "img_caption": [
+            "图3实习谣言模型效用评价响应图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从以上分析可以得出：实习谣言的最终信度主要受初始信度、信息编辑和群体态度的影响，只有四分之一的网民会改变对谣言信息的初始判断，而发生态度改变的网民中大部分是受群体观点 $( 7 2 . 7 \\% )$ 或新增信息 $( 7 5 \\% )$ 的影响，不相信实习谣言演变为相信的原因是参与集体讨论并对信息进行编辑，最初相信实习谣言演变为质疑的主要原因是群体态度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)转基因谣言中群体态度演变分析 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "转基因谣言是近年来广为流传的谣言，争议性较强，实验对象关注度也比较高，整体态度变化率为$23 . 9 \\%$ ，使用BA神经网络建模得到转基因谣言的变量重要性，排名前5位的分别是初始信度、群体态度、有人证实、初始感觉和应对不实行为方法。建立转基因谣言终信度指标的分类模型，经多次迭代得出三个准确率和节点分布较合适的模型，选择响应率最高模型作为客户评分的模型。此模型由单决策树构成(见图5)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从决策树模型可以看出：转基因谣言的最终信度主要受初始信度、群体态度和转基因渠道的影响，最终实验对象对谣言不相信占比较大，最初不相信转基因谣言的实验对象中有 $84 . 7 1 \\%$ 始终质疑谣言，最初相信转基因谣言的有 $3 7 . 7 4 \\%$ 转变了观点，从不相信转换到相信的主因是周边群体相信，从相信转化为不相信的主因是参与了转基因谣言的口口相传讨论和深度分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)交流生谣言中群体态度演变分析",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "出国交流生谣言主题是学习与进修，由于考虑出国进修的学生数量不多，因而这一则谣言的利益相关者数量较少，有利于分析利益相关者数量对谣言传播的影响，该谣言整体态度变化率为 $24 . 1 \\%$ 。使用BA神经网络建模得到交流生谣言的变量重要性，排名前5位的分别是群体态度、初始感觉、群体一致性、处理行为和自身判断，群体态度和个体感觉是影响实验对象交流生谣言信度的主要因素，涉及到求证行为的指标影响较小。为了深人分析交流生谣言态度演变动因，建立交流生谣言终信度指标的分类模型，选取响应率最高模型作为客户评分的模型。此模型由单决策树构成(见图6)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "交流生谣言的最终信度主要受群体态度、初始信度和实习群体一致性的影响，这则谣言最终相信与不相信的群体相当，绝大多数个体相信谣言的原因是因为周边群体相信 $( 9 2 . 3 1 \\% )$ ，而个体不相信谣言的原因是认为群体不相信，群体态度为不相信的实验对象中大部分初始相信的用户会坚持自己的观点；最终相信谣言的实验对象也是受群体态度影响，认为群体并未达成一致的实验对象中大多数会选择不相信谣言。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/af871567aa2266a81fff37cd02841ca51b286dec024f6ee54ecca91411ce6fc0.jpg",
+        "img_caption": [
+            "图4实习谣言主决策树"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a1a22c8785609edb4c4a0cff66b9801fc9183b6be2f1e8bafc53c1c134263b9.jpg",
+        "img_caption": [
+            "图5转基因谣言决策树"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c155f4eed308608fbe526890cbfb658a167b950ef3900ea7fdb1a189962b135.jpg",
+        "img_caption": [
+            "图6交流生谣言决策树"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.3网络谣言态度演变规律分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对主题、内容各不同的三则网络谣言的传播与网民态度演变进行对比分析，实验对象的态度和行为呈现了很多相似的规律，一是三则谣言的态度转变率都接近 $24 \\%$ ，说明网民的态度转变与谣言话题无关，与网民个体的性格和认知相关；二是网民的最终态度主要与初始认知和群体态度相关，网民的初始认知难以改变，而改变的主要原因往往是因为与群体认知不符。在态度演变影响因素方面；三则谣言也存在明显的差异，在群体观点比较均衡的谣言中(交流生)，实验对象比较关心小群体的一致性，认为群体不一致的会选择与群体相左的观点，在群体观点不均衡的谣言中(转基因)，口头交流和深度分析会增加个体信息量并选择与群体相左的观点。实习生谣言中，实验对象的信息编辑会导致观点演变，证明了信息获取行为也是网民态度演变的重要原因，转基因谣言中，传播渠道是网民态度演变的重要原因，尤其是小群体的集中面对面讨论导致众多实验对象态度发生转变，交流生谣言中，群体不一致性是影响网民态度的重要原因。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从谣言话题差异和网民态度演变的视角对网络谣言进行实验研究，揭示了网络谣言传播的验证特性，发现网络谣言传播中内容决定媒介、话题跳跃性传播、观点交互随群体一致性动态变化等规律。研究表明影响网民态度及其演化的主要因素包括初始认知、群体行为、信息获取和交流渠道，网民的态度演变率与网络谣言的内容等相关指标关联度较低。研究结果为建立网络谣言传播模型提供了数据支撑，主要局限在于实验对象和控制变量选取较为单一，后续工作将进行实验优化，引入脑电测量对网民接触信息后的情绪波动进行分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Mackie D M,Devos T,Smith E R.Intergroup Emotions: Explaining Offensive Action Tendencies in an Intergroup Context [J]. Journal of Personality and Social Psychology, 2000,79(4): 602-616.   \n[2] Nekovee M,Moreno Y,Bianconi G. Theory of Rumour Spreading in Complex Social Networks [J].Physica A: Statistical Mechanics and Its Applications,2007,374(1): 457-470.   \n[3]魏静，朱恒民，宋瑞晓，等．个体视角下的网络舆情传递 链路预测分析[J]．现代图书情报技术,2016(1):55-64.(Wei Jing,Zhu Hengmin,Song Ruixiao,et al. Link Prediction Analysis of Internet Public Opinion Transfer from the Individual Perspective [J].New Technology of Library and Information Service,2016(1): 55-64.)   \n[4]Bonzom V,Gurau R,Rivasseau V. The Ising Model on Random Lattices in Arbitrary Dimensions [J].Physics Letters B,2012,711(1): 88-96.   \n[5]赵卫东，赵旭东，戴伟辉，等．突发事件的网络情绪传播 机制及仿真研究[J]．系统工程理论与实践，2015，35(11): 2573-2581. (Zhao Weidong, Zhao Xudong,Dai Weihui, et al. Emotion Propagation Mechanism of Emergency Events in Cyberspace and Simulaiton[J]. Systems Engineering-Theory & Practice,2015,35(11): 2573-2581.)   \n[6]DiFonzo N.Rumour Research Can Douse Digital Wildfires [J]. Nature,2013,493(1): 135.   \n[7]王恩界，王盈．从一起网络谣言看网民态度的基本特征[J]. 东南传播,2010(5):45-47.(Wang Enjie,Wang Ying.Research on the Characteristics of Internet Users’Attitude from an Internet Rumor [J]. Southeast Communication，2010(5): 45-47.)   \n[8]方付建，王国华．涉官事件中的网民态度倾向研究[J]．华 中科技大学学报：社会科学版,2011,25(2):106-112.(Fang Fujian,Wang Guohua.The Atitude of Internet Users in the EventsInvolving Officers[J]. Journal of Huazhong University of Science and Technology: Social Science,2011, 25(2): 106-112.)   \n[9]王知津，张素芳，周鹏．从肯定到质疑—情报分析过程 中的思维转换[J]．图书情报工作，2011，55(16):20-24. (Wang Zhijin, Zhang Sufang, Zhou Peng. From Confirmation to Questioning——Thinking Paradigms Shift in the Process of Intelligence Analysis [J]. Libraryand Information Service, 2011, 55(16): 20-24.)   \n[10] Jung JH，Schneider C，Valacich J.Enhancing the Motivational Affordance of Information Systems[J]. Management Science,2010,56(4): 724-742.   \n[11] Deng L Q, Marshall S P. Afect in Web Interfaces: A Study of the Impacts of Webpage Visual Complexity and Order [J]. MIS Quarterly,2010,34(4): 711-730.   \n[12] Pang B,Lee L. Opinion Mining and Sentiment Analysis [J]. Foundations and Trends in Information Retrieval, 20o8,2(1): 1-135.   \n[13]Guo Z,Faming Z,Fang W,et al.Knowledge Creation in Marketing Based on Data Mining[C].In:Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation.2008.   \n[14] Zhao X X,Wang J Z.Dynamical Model About Rumor Spreading with Medium [J].Discrete Dynamics in Nature and Society,2013:Article No.586867.   \n[15]Li F,Han Chao,Huang M,et al. Structure-aware Review Mining and Summarization [C]. In:Proceedings of the 23rd International Conference on ComputationalLinguistics,2010.   \n[16]Gerald P,Karpowicz M,Fürschuβ H,et al.Computational Approaches for Mining User's Opinions on the Web 2.0[J]. Information Processing and Management, 2014, 50(6): 899-908.   \n[17]Dursun D,Cemil K,Ali U.Measuring Firm Performance Using Financial Ratios:A Decision Tree Approach [J].Expert Systems with Applications,2013,40(8):3970-3983.   \n[18]Chiang HJ,Tseng C C,Torng C C.ARetrospective Analysis of Prognostic Indicators in Dental Implant Therapy Using the C5.0 Decision Tree Algorithm [J]. Journal of Dental Sciences, 2013,8(3): 248-255. 沈超，沈洪洲：采集、清洗和分析数据，组织实验实施，起草论文;   \n朱庆华：论文修改。 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据见期刊网络版http://www.infotech.ac.cn。  \n[1]沈超，朱庆华，沈洪洲．信息传播实验调查问卷.docx．调查使用的问卷.  \n[2]沈超，朱庆华，沈洪洲．谣言传播问卷数据.xls.问卷详细数据表.  \n[3]沈超，朱庆华，沈洪洲.问卷转换后的数据表.xls.经过数据预处理后转化的数据表.  \n[4]沈超，朱庆华，沈洪洲．问卷分析的基本思路.docx.问卷分析的思路.  \n[5]沈超，朱庆华，沈洪洲．谣言传播数据分析.str.Clementine分析的流文件.  \n[6]沈超，朱庆华，沈洪洲．谣言问卷处理 SQL程序.txt.数据处理的 SQL 程序.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2016-02-02   \n收修改稿日期:2016-04-14 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "沈超，朱庆华：提出研究思路，设计研究方案;",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Web Users’Group Attitudes to Online Rumors ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Shen ChaolZhu Qinghua²Shen Hongzhoul 1 (College of Management, Nanjing University of Posts & Telecommunications, Nanjing 210046, China) 2(College of Information Management, Nanjing University, Nanjing 210093, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] This study examines the motivation and paterns ofthe Web users'(i.e.,colege students) group atitudes to various onlinerumors.[Methods]First,we used survey tocolect the attitudeand behaviordata of the participants in the processofrumor spreading.Second, we analyzed thedata with classification algorithm.Results] We found that Web users tried to verify the rumors,the content of the rumors decides the disseminating channels,and the interaction among Web users changed dynamically.The main factors affcting the Web users’atitudes include the initial awarenes,group behavior, as wellas information acquisition and communication channels.However,there is no significant correlation between the changing of Web users’ atitudesand the rumors’contents.[Limitations]Only investigated college students’reaction to rumors，which might affect the comprehensiveness of the conclusions. [Conclusions] Analyzing online rumors with empirical research and data mining technology willofer more practical insights to establish online rumor models. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Online rumors Group attitudeAttitude evolution ",
+        "page_idx": 8
+    }
+]

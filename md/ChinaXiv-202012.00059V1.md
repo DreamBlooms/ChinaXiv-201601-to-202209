@@ -1,0 +1,477 @@
+# Analysis of mechanical performances of cylindrical wall in 3D printing processes
+
+Xuan-Ting Liu1,\* and Bo-Hua Sun², † 1 School of Science & Institute of Mechanics and Technology, Xi'an University of Architecture and Technology，Xi'an 710o55,PR China. 2 School of Civil Engineering & Institute of Mechanics and Technology, Xi'an University of Architecture and Technology, Xi'an 71oo55,China.
+
+In order to enhance the overall structural stability of 3D printed concrete wall, we propose a novel scheme to producea wavy wall with curvature along its contour direction.To validate the idea of the scheme,a single wave wallis set as acylindrical walland its mechanical performances are analyzed. The mathematical 3D printing model of the wavy wall is formulated by the shelltheory while taking into account of additional parameters of the printing processes,the model willbe used to analyze the two failure mechanisms of the cylindrical wall: elastic bucklingand plastic collapse.Compared with the results of Suiker's straight wall,it is found that when the parameters were same,the stability of the cylindrical wallis more than twice of the rectangular wall.Our studies indicate that it's a feasible scheme to improve the printed structural stability by increasing curvature.
+
+Keywords:curvature,cylindrical wall,3D printing,elastic buckling,plastic collapse
+
+# I.INTRODUCTION
+
+The conception of 3D printing,also referred to as additive manufacturing (AM),rapid prototyping (RP),or solidfreeform technology (SFF),was developed by Charles Hull. Modern additive manufacturing technology was introduced approximately three decades ago, this technology has developed particularly rapidly and achieved great success. The applications include biomedical engineering,automotive engineering,mechanical engineering,aerospace engineering,food engineering,building civil engineering,etc.[1-7]. The term "Additive Manufacturing” was finally chosen by ASTM to distinguish it from traditional "Subtractive Manufacturing". The main form of 3D printing is to establish a 3D model digital file,use software to slice the model (the accuracy depends on the printing resolution),and finally use the printing equipmentto printlayer bylayer[8]. The advantagesof AM technology over traditional manufacturing are:it can manufacture parts with complex geometric shapes,reduce material waste, reduce energy consumption,increase customer flexibility, etc. [9, 10].
+
+In 2009,Bourell etal.[11] published a roadmap for AM based on a workshop of 65 key people in AM.Their report explored important facets of the AM including: (1)design, (2)process modeling and control,(3)material, processes and machines,(4)biomedical applications,(5)energy and stainability application.As for the diversified development of additive manufacturing (AM),Behrokh Khoshnevis proposed the "contour crafting",also known as 3D concrete printing technology.Due to the limitations of materials and economic factors,the real potential of this technology has not been explored.However,in some extreme conditions,it effectively compensates for the weaknesses of traditional buildings, such as the application of mobile cabin hospitals and the construction of habitats on other planets [12-14]. At present, the analysis of mechanical performances in the 3D printing processes is relatively rare,and the main research focuses on the material science [15-18]. Due to the complexity and diversity of parameters involved in the 3D printing processes,including the geometric features of printed objects,the impact of time effect on material strength,the inhomogeneity of self-weight load,the moving speed of printing nozzle,and the inevitable geometric defects, the printing parameters are usually set in a trial-and-errormanner. There are fewresearches on the mechanical performances of concrete in the printing process.
+
+According to the research of Suiker et al.[19-23],elastic buckling and plastic collapse are the main mechanism of structural failure in 3D concrete printing processes. The contribution of Suiker is to analyze the mechanical performances in the 3D printing processes of straight wall structures,and give the corresponding mechanical model for the first time. It was found that the failure behavior of the structure in the printing process could be analyzed well, the number of printing layers of the straight wall structure could be predicted, and the theoretical guidance was given to find the best set of printing parameters. The results show that the stability of the rectangular wall structure is still insufficient, thatis,the structure buckling rather than collapse when the plastic limit of the material is reached. Stability studies are of great importance in improving material utilization,rapid prototyping and strengthening structural bearing capacity. In particular, how to improve the overall stability of the printed wall structure is a key scientific problem when the printing speed is constant and 3D printing materials such as concrete,which have strong fluidity and slow curing,are used.
+
+In order to solve this problem,a simple and feasible universal scheme is proposed in this paper, that is,the curvature of the straight wall along its contour direction is appropriately increased to print a wavy shape,the scheme is illustrated in Fig.1.Each ripple of wavywall,its canbe cylindrical or not, its curvature also is variable.In order to verify our scheme, this paper studies the mechanical performances of cylindrical wall during 3D printing processes [24-26].
+
+![](images/8779ce1ddb7d7582f308e41eac29021c6b43871775930fabd231ac459deb6f53.jpg)  
+Figure 1:Wavy wall schematic diagram.
+
+The manuscript is organised as follows. In section 2,the governing equations of buckling of the cylindrical wall are derived.In section 3,two possible failure mechanisms of cylindrical wall in the 3D printing processes were described. In section 4, the numerical calculation method was used to obtain the buckling results under the influence of two curing parameters,and the Suiker number was used to evaluate the competitive relationship between the two failure mechanisms of the cylindrical wall. In section 5,the same printing parameters as Suiker[19] were used to compare and analyze the structural stability of cylindrical wall controlled by curvature.
+
+# IⅡI. HETEROGENEOUSCYLINDRICALWALL SUBJECTEDTOSELF-WEIGHT
+
+A cell of wavy wall is taken for analysis,whose curvature can be changed, that is, $k = k ( r )$ ， $r = v a r i a b l e$ .However, when the curvature is constant, i.e. $r = c o n s t a n t$ ，and the structure isclosed,ancylindrical wall with maximum structural stability is obviously obtained, see Fig.2.
+
+![](images/b106e2c827d9998bf12089c7c690d9ed8e86b5f1aba6c8e94439cc39d9fd7214.jpg)  
+Figure 3:Cylindrical wall under self-weight.
+
+![](images/726f8e07c75a4cb59ae88effbd3b1bc382d5d78d6193f884460868e896d265e2.jpg)  
+Figure 2: Cylindrical wall evolution: a straight wal(left),a wavy wall(middle),acylindrical wall(right).
+
+The mechanical performances of cylindrical wall will be heterogeneous in the vertical direction due to the influence of material curing behavior in the 3D printing processes.In addition, the cylindrical wall subjected to self-weight,and the stress in the vertical direction (self-weight direction) is also non-uniform [27-29]. Therefore,based on the equilibrium equation and boundary conditions,the mechanical model of the heterogeneous cylindrical wall under the action of nonuniform in-plane forces should be described.In section 2, the differential equation of buckling is derived by the principle of potential energy minimization.
+
+Cylindrical wall radius is $R$ ，height is $L$ ，uniform thickness is $h$ ，seeFig.3.In axisymmetric condition, $u ( x , \theta ) =$ $u ( x )$ ， $v = 0$ ， $w ( x , \theta ) = w ( x )$ . According to the shell theory $[ ? { \begin{array} { l } { \ ? } \end{array} } ]$ ,the strain-displacement relationship can be expressed as:
+
+$$
+\begin{array} { r l r } { \varepsilon _ { x } = u , \displaystyle , } & { { } \varepsilon _ { y } = \frac { w } { R } , } & { \varepsilon _ { x y } = 0 , } \\ { \chi _ { x } = - w , \displaystyle , } & { { } \chi _ { y } = 0 , } & { \chi _ { x y } = 0 . } \end{array}
+$$
+
+in which $\begin{array} { r } { \boldsymbol { u } _ { , x } \ = \ \frac { d \boldsymbol { u } } { d x } } \end{array}$ ， $\begin{array} { r } { w _ { , x x } \ = \ \frac { d ^ { 2 } w } { d x ^ { 2 } } } \end{array}$ $x$ is the longitudinal coordinate; θ is the circumferential coordinate; Ex, εy,£xy are the linear strain components of the shell middle surface; $\chi _ { x } , \chi _ { y } , \chi _ { x y }$ are the curvature changes; and $u , v , w$ are the displacements in the longitudinal, tangential and radial directions, respectively.
+
+The total strain energy of shell $U$ is composed of the membrane strain energy $U _ { s }$ and the bending strain energy $U _ { b }$ （2
+
+$$
+U = U _ { s } + U _ { b } ,
+$$
+
+where
+
+$$
+U _ { s } = \int \int \frac { E _ { * } h } { 2 ( 1 - \nu ^ { 2 } ) } \left[ \varepsilon _ { x } ^ { 2 } + \varepsilon _ { y } ^ { 2 } + 2 \nu \varepsilon _ { x } \varepsilon _ { y } + \frac { 1 - \nu } { 2 } \varepsilon _ { x y } ^ { 2 } \right] d y d x ,
+$$
+
+$$
+U _ { b } = \int \int \frac { D _ { * } } { 2 } \left[ \chi _ { x } ^ { 2 } + \chi _ { y } ^ { 2 } + 2 \nu \chi _ { x } \chi _ { y } + 2 ( 1 - \nu ) \chi _ { x y } ^ { 2 } \right] d y d x ,
+$$
+
+Here,the asterisk subindex $^ *$ indicates that the material parameters are heterogeneous in space. $E _ { * }$ is the non-uniform stiffness modulus,the heterogeneous bending stiffness is given by
+
+$$
+D _ { * } = { \hat { D } } _ { * } ( x , y ) = { \frac { E _ { * } h ^ { 3 } } { 1 2 ( 1 - \nu ^ { 2 } ) } } E _ { * } = { \hat { E } } _ { * } ( x , y ) .
+$$
+
+The work done by the self-weight during buckling of wall canbeexpressedas
+
+$$
+W = \frac { 1 } { 2 } \int \int \rho g h ( x - l ) \left[ ( \frac { \partial v } { \partial x } ) ^ { 2 } + ( \frac { \partial w } { \partial x } ) ^ { 2 } \right] d y d x ,
+$$
+
+Combining Eqs.(2) and (6), the total potential energy $\Pi$ of the shell follows as
+
+$$
+\begin{array} { l } { \displaystyle \Pi = U - W = \int \int \frac { E _ { s } h } { 2 ( 1 - \nu ^ { 2 } ) } [ \varepsilon _ { x } ^ { 2 } + \varepsilon _ { y } ^ { 2 } + 2 \nu \varepsilon _ { x } \varepsilon _ { y } } \\ { \displaystyle \qquad + \frac { 1 - \nu } { 2 } \varepsilon _ { x y } ^ { 2 } ] d y d x } \\ { \displaystyle \qquad + \int \int \frac { D _ { * } } { 2 } [ \chi _ { x } ^ { 2 } + \chi _ { y } ^ { 2 } + 2 \nu \chi _ { x } \chi _ { y } } \\ { \displaystyle \qquad + 2 ( 1 - \nu ) \chi _ { x y } ^ { 2 } ] d y d x } \\ { \displaystyle \qquad - \int \int \frac { 1 } { 2 } \rho g h ( x - l ) \left[ v _ { x } ^ { 2 } + w _ { x } ^ { 2 } \right] d y d x . } \end{array}
+$$
+
+# B.Equilibrium equation and boundary conditions
+
+The equilibrium equation of an inhomogeneous cylindrical wall subjected to self-weight can be obtained by minimizing potential energy by Eq.(7)
+
+$$
+\begin{array} { l } { \displaystyle \delta \Pi = \frac 1 2 \int \int D _ { * } [ w , _ { x x } \delta w , _ { x x } + w , _ { y y } \delta w , _ { y y } + \nu w , _ { x x } \delta w , _ { y y } } \\ { \displaystyle \quad + \nu w , _ { y y } \delta w , _ { x x } + \frac { 2 ( 1 - \nu ) } { R ^ { 2 } } w , _ { x y } \delta w , _ { x y } ] d y d x } \\ { \displaystyle \quad + \frac 1 2 \int \int \frac { E _ { s h } } { 1 - \nu ^ { 2 } } [ u , \delta u , _ { x } + \frac { 1 } { R ^ { 2 } } w \delta w + \frac { \nu } { R } w \delta u , _ { x } } \\ { \displaystyle \quad + \frac { \nu } { R } u , _ { x } \delta w + \frac { 2 ( 1 - \nu ) } { R ^ { 2 } } u , _ { y } \delta u , _ { y } ] d y d x } \\ { \displaystyle \quad - \frac 1 2 \int \int [ \rho \phi h ( x - l ) v , _ { x } \delta v , _ { x } + w , _ { x } \delta w , _ { x } ] d y d x , } \end{array}
+$$
+
+Inserting Eq.(1) into Eq.(8) and the displacement variational principle is adopted when dealing with axisymmetric buckling of cylindrical wall. The differential equation follow as
+
+$$
+\begin{array} { c l c r } { { \displaystyle { \big ( D _ { * } w _ { , x x } \big ) _ { , x x } + \frac { 1 } { R } \left( \nu \rho g h ( x - l ) + \frac { E _ { * } h } { R } w \right) } } } \\ { { - { \big ( \rho g h ( x - l ) w _ { , x } \big ) _ { , x } = 0 } , } } \end{array}
+$$
+
+In addition,the boundary conditions in the edges $x = 0$ and $x = l$ are
+
+$$
+\begin{array} { r l } { w | _ { x = 0 } = 0 , \quad } & { { } w _ { , x } | _ { x = 0 } = 0 , } \\ { w _ { , x x } | _ { x = l } = 0 , \quad } & { { } ( D _ { * } w _ { , x x } ) _ { , x } | _ { x = l } = 0 . } \end{array}
+$$
+
+# III. FAILUREMECHANISMOFCYLINDRICALWALLIN 3DPRINTINGPROCESSES
+
+![](images/d5d783cf216c76fe0bcf1d3b087b3a8b9b39ce1b2bdef7e8b58552a32223fc0e.jpg)  
+Figure 4:Failure mechanism of cylindrical wall in 3D printing processes.
+
+Two failure mechanisms may occur during 3D printing: elastic buckling and plastic failure,see Fig.4. When the material hardening rate is slow, large deformation will occur at the bottom of the structure. According to the experimental [?],the first layer will be less deformed under constraints, while the final thickness of the second layer will reach more than twice that of the first layer when plastic collapse,which can be called“Elephant foot deformation".The reasonable utilization of this phenomenon can enhance the structural stability to some extent.
+
+In section 3,the governing equations of these two failure mechanisms are established,and the competitive criteria for elastic buckling and plastic failure are given by introducing the time effect factors related to the curing processes and printing.
+
+![](images/75bbf54221000b80c8b871ea10e48f05e2327414300e7e446dd2f405c6b4c8d1.jpg)  
+A．Time effects on buckling of cylindrical wall   
+Figure 5:3D printing processes of cylindrical wall. The bottom is the Lagrangian coordinate system $x$ ,the print head is the Eulerian coordinate system $X$ ：
+
+As the cylindrical wall length $L$ grows with the printing process, this processes is simplified as the growth of whole cylindrical wall structure along $x$ -direction at a constant speed $\begin{array} { r } { \frac { d l } { d t } = ~ j } \end{array}$ Where the speed $i$ can be obtained from the flow relationship $Q = i v _ { n } h T _ { l }$
+
+$$
+i = \frac { Q } { v _ { n } h T _ { l } } ,
+$$
+
+In which $Q$ is the volume of printing material discharged from the nozzle per unit of time, $v _ { n }$ is the horizontal moving speed of printing nozzle, $\mathit { T _ { l } }$ is the time required to print a layer, $h$ is the thickness of the shell. The printing processes can be determined byusing the Eulerian coordinate system attached to the end of the printing nozzle,see Fig.5.The relationship between Eulerian coordinate $X$ and Lagrangian coordinate $x$ is $l = x + X$ . The Eulerian coordinate $X$ is as follows
+
+$$
+X = { \hat { X } } ( x , t ) = x - l ,
+$$
+
+In general, the printing speed can be considered constant, that is, $\dot { l } = c o n s t a n t$ .And set the time as $l ( 0 ) = 0$ ,and it matters $l = i t$ . Eq.12 can be simplified as
+
+$$
+X = { \hat { X } } ( x , t ) = x - { \dot { l } } t ,
+$$
+
+Where $t$ represents time.If the printing speed is variable the problem is more complex and will be considered in future studies.
+
+Consider the material at point $x = 0$ ,the evolution of elastic stiffness during curing can be expressed as
+
+$$
+\hat { E } _ { * } ( x = 0 , t ) = \hat { g } _ { * } ( t ) E _ { 0 } ,
+$$
+
+In which $g _ { * } ~ = ~ \hat { g } _ { * } ( t )$ is curing characteristic function, $E _ { 0 }$ is the initial stiffness of material. As shown in Suiker[? ], two most representative curing functions in Eulerian coordinate system canbe obtained.
+
+(a)Linear curing function:
+
+$$
+\widehat { \overline { { { g } } } } _ { \ast } ^ { l } ( \overline { { { X } } } ) = 1 - \overline { { { X } } } ,
+$$
+
+(b)Exponentially-decaying curing function:
+
+$$
+\hat { \overline { { g } } } _ { \ast } ^ { e } ( \overline { { X } } ) = \gamma _ { E } + ( 1 - \gamma _ { E } ) \exp ( \overline { { X } } ) , \gamma _ { E } = \frac { E _ { \infty } } { E _ { 0 } } ,
+$$
+
+Where
+
+$$
+\overline { { { X } } } = \frac { \xi _ { E } X } { i } , ~ \xi _ { E } \in \{ \xi _ { E } ^ { l } , \xi _ { E } ^ { e } \} .
+$$
+
+The bar on the parameter indicates that it is a dimensionless parameter.
+
+Combineing Eqs.13 and 17, $\hat { \overline { { X } } } ( x , t )$ follow as
+
+$$
+\overline { { { X } } } = \hat { \overline { { { X } } } } ( x , t ) = \frac { \xi _ { E } } { \dot { l } } x - \xi _ { E } t , ~ \xi _ { E } \in \{ \xi _ { E } ^ { l } , \xi _ { E } ^ { e } \} ,
+$$
+
+Substituting Eq.(18) into Eq.(9),the dimensionless buckling equation can be obtained.
+
+$$
+\begin{array} { l } { ( \overline { { g } } _ { \ast } \overline { { w } } _ { , \overline { { X X } } } ) _ { , \overline { { X X } } } + \displaystyle \frac { \nu } { \overline { { h } } ^ { 2 } } \frac { \overline { { h } } } { \overline { { r } } } \frac { 1 } { \overline { { \xi } } _ { E } ^ { 5 } } \overline { { X } } + \frac { 1 2 \big ( 1 - \nu ^ { 2 } \big ) } { \overline { { h } } ^ { 4 } } \big ( \frac { \overline { { h } } } { \overline { { r } } } \big ) ^ { 2 } \frac { 1 } { \overline { { \xi } } _ { E } ^ { 4 } } \overline { { g } } _ { \ast } \overline { { w } } } \\ { - \frac { 1 } { \overline { { \xi } } _ { E } ^ { 3 } } \big ( \overline { { X } } \overline { { w } } _ { \overline { { X } } } \big ) _ { , \overline { { X } } } = 0 , } \end{array}
+$$
+
+The dimensionless parameter $\overline { { w } } , \ : \overline { { r } } , \ : \overline { { h } } , \ : \bar { l } _ { c r }$ and $\overline { { \xi } } _ { E }$ are
+
+$$
+\begin{array} { r l } & { \overline { { \boldsymbol { w } } } = \boldsymbol { w } / h , } \\ & { D _ { 0 } = \displaystyle \frac { E _ { 0 } h ^ { 3 } } { 1 2 \big ( 1 - \nu ^ { 2 } ) } , \quad \overline { { \boldsymbol { r } } } = ( \alpha \frac { \rho g h } { D _ { 0 } } ) ^ { \frac { 1 } { 3 } } \boldsymbol { r } , \quad \overline { { h } } = ( \alpha \frac { \rho g h } { D _ { 0 } } ) ^ { \frac { 1 } { 3 } } h , } \\ & { \bar { l } _ { c r } = \overline { { \boldsymbol { \xi } } } _ { E } \kappa = ( \alpha \frac { \rho g h } { D _ { 0 } } ) ^ { \frac { 1 } { 3 } } l _ { c r } , \quad \kappa = \frac { \xi _ { E } l } { \dot { l } } , } \\ & { \overline { { \xi } } _ { E } = \big ( \frac { 1 } { \alpha } \frac { D _ { 0 } } { \rho g h } \big ) ^ { \frac { 1 } { 3 } } \frac { \xi _ { E } } { \dot { l } } , \quad \xi _ { E } \in \{ \xi _ { E } ^ { l } , \xi _ { E } ^ { e } \} , } \end{array}
+$$
+
+Where $\alpha$ is the dimensionless_ amplification factor. The purpose is to change $\alpha$ to make $\bar { h } = \bar { 1 }$ when the parameters are given.Eq.(19) can be transformed into
+
+$$
+\begin{array} { l } { { ( { \displaystyle \overline { { g } } _ { * } \overline { { w } } _ { , \overline { { X } } \overline { { X } } } } ) _ { , \overline { { X } } \overline { { X } } } + \nu \frac { \overline { { k } } } { { \overline { { \xi } } _ { E } ^ { 5 } } } \overline { { X } } + 1 2 ( 1 - \nu ^ { 2 } ) \frac { \overline { { k } } ^ { 2 } } { \overline { { \xi } } _ { E } ^ { 4 } } \overline { { g } } _ { * } \overline { { w } } } } \\ { { - \frac { 1 } { { \overline { { \xi } } _ { E } ^ { 3 } } } ( \overline { { X } } \overline { { w } } _ { \overline { { X } } } ) _ { , \overline { { X } } } = 0 , } } \end{array}
+$$
+
+Where $\overline { { k } }$ is dimensionless curvature, the buckling equation will be controlled by curvature $\overline { { k } }$ and curing rate $\overrightarrow { \xi }$ ：
+
+$$
+{ \overline { { k } } } = { \frac { 1 } { \overline { { r } } } } .
+$$
+
+Inserting Eq.(18) into Eq.(1O)， the boundary conditions along ${ \overline { { X } } } = - { \dot { \kappa } }$ and ${ \overline { { X } } } = 0$ are as follows:
+
+$$
+\begin{array} { r l } { \overline { { w } } ^ { c } | _ { \overline { { X } } = - \kappa } = 0 , } & { { } ~ \overline { { w } } _ { , \overline { { X } } } ^ { c } | _ { \overline { { X } } = - \kappa } = 0 , } \\ { \overline { { w } } _ { , \overline { { X } } \overline { { X } } } ^ { c } | _ { \overline { { X } } = 0 } = 0 , } & { { } ~ ( \overline { { g } } _ { * } \overline { { w } } _ { , \overline { { X } } \overline { { X } } } ^ { c } ) _ { , \overline { { X } } } | _ { \overline { { X } } = 0 } = 0 . } \end{array}
+$$
+
+# B.The solution of eigenvalue problem
+
+Eq.(21) can be solved by Galerkin method.
+
+$$
+\int _ { \overline { { X } } = - \kappa } ^ { 0 } ( \overline { { R } } \delta \overline { { w } } _ { n } ) d \overline { { X } } = 0 ,
+$$
+
+with the residual $\overline { { R } }$ as
+
+$$
+\begin{array} { l } { \displaystyle \overline { { R } } = \hat { \overline { { R } } } ( \overline { { X } } ) = ( \overline { { g } } _ { \ast } \overline { { w } } _ { , \overline { { X } } \overline { { X } } } ) _ { , \overline { { X } } \overline { { X } } } + \nu \frac { \overline { { k } } } { \overline { { \xi } } _ { E } ^ { 5 } } \overline { { X } } } \\ { + 1 2 ( 1 - \nu ^ { 2 } ) \frac { \overline { { k } } ^ { 2 } } { \overline { { \xi } } _ { E } ^ { 4 } } \overline { { g } } _ { \ast } \overline { { w } } - \frac { 1 } { \overline { { \xi } } _ { E } ^ { 3 } } ( \overline { { X } } \overline { { w } } _ { \overline { { X } } } ) _ { , \overline { { X } } } = 0 . } \end{array}
+$$
+
+Inwhich ${ \delta } \overline { { w } } _ { n }$ istest function， the solution $\begin{array} { r l } { \overline { { w } } _ { n } } & { { } = } \end{array}$ $\textstyle \sum _ { n = 1 } ^ { N } C _ { n } { \overline { { X } } } ^ { n - 1 }$ and $\delta { \overline { { w } } } _ { n } ~ = ~ ( { \partial { \overline { { w } } } } / { \partial C _ { n } } ) \delta C _ { n }$ ： $C _ { n }$ representing generalised coordinates. Eqs.23 and 24 were used to obtain generalized coordinate algebraic equations,and Newton-Raphson iteration method was used to solve the equations numerically.In essence,it describes the eigenvalue problem of axisymmetric buckling of cylindrical wall.
+
+Consider the influences of dimensionless parameters in Eqs.(2O) and(22),i.e,diameter-thick ratio $r / h$ ,the thickness $\overline { { h } }$ ，buckling length $\bar { l } _ { c r }$ ， curing rate, $\overline { { \xi } } _ { E }$ ,amplification factor $\alpha$ , vertical printing speed $i$ ，The generalized buckling length function can be obtained, $\bar { l } _ { c r } = \hat { \bar { l } } _ { c r } ( \overline { { \xi } } _ { E } , \overline { { k } } )$ ：
+
+# C．Plastic collapse of cylindrical wall
+
+The cylindrical wall will be failured when the plastic yield strength $\sigma _ { p }$ of the material is reached. The subscript $p$ stands for“plastic collapse ”.Generally speaking, the point location of plastic collapse is at the bottom of the cylindrical wall, that is,at $x = 0$ ，where the axial stress caused by self-weight reaches its maximum value.The yield strength can usually be expressed as
+
+$$
+\rho g l = | \sigma _ { p } | ,
+$$
+
+Where $| . |$ on behalf of the absolute value of the yield strength $\sigma _ { p } , l$ is the length of the cylindrical wall. It is treated similarly to the change of bending stiffness $D _ { * }$ . The yield strength at the bottom varies with time can be set as
+
+$$
+\hat { \sigma } _ { p \ast } ( x = 0 , t ) = \hat { h } _ { \ast } ( t ) \sigma _ { p , 0 } .
+$$
+
+Where $\sigma _ { p , 0 }$ is the yield strength at the moment when $t = 0$ in the printing processes, $h _ { * } = \hat { h } _ { * } ( t )$ is the curing characteristic function of yield strength evolution over time.Since the plastic yield limit is determined by the material and the curvature of the geometric parameter has no influence on it, dimensionless plastic collapse length changes with two type curing functions which are exactly the same as those in Suiker[?].
+
+(a) Linear curing yield function:
+
+$$
+\bar { l } _ { p } = \frac { 1 } { 1 - \overline { { { \xi } } } _ { \sigma } ^ { l } } 0 \leq \overline { { { \xi } } } _ { \sigma } ^ { l } < 1 ,
+$$
+
+(b) Exponentially-decaying curing yield function:
+
+$$
+\begin{array} { r } { \bar { l } _ { p } - [ \gamma _ { \sigma } + ( 1 - \gamma _ { \sigma } ) \exp ( - \overline { { \xi } } _ { \sigma } ^ { e } \overline { { l } } _ { p } ) ] = 0 , } \end{array}
+$$
+
+Newton-Raphson iterative method was used to solve Eq.(29), and a closed numerical solution with accurate approximation was obtained. where the $R ^ { 2 }$ -value of this approximation lies between 0.993 and 0.999 [?].
+
+$$
+\begin{array} { r l r } & { } & { \bar { l } _ { p } = \bar { l } _ { p , 0 } \left( 1 + \frac { \gamma _ { \sigma } - 1 } { 1 + \left( \frac { \bar { \xi } _ { \sigma } ^ { c } } { \bar { \xi } _ { r e f } } \right) ^ { - p } } \right) , } \\ & { } & { \overline { { \xi } } _ { r e f } = \hat { \xi } _ { r e f } ( \gamma _ { \sigma } ) = \frac { 1 . 1 8 1 } { 1 + 0 . 8 4 4 \gamma _ { \sigma } } , } \\ & { } & { p = \hat { p } ( \gamma _ { \sigma } ) = 1 . 4 6 6 ( \gamma _ { \sigma } ) ^ { 0 . 3 2 2 } , } \end{array}
+$$
+
+Plastic yield length $\bar { l } _ { p }$ and curing rate $\overline { { \xi } } _ { \sigma }$ can be expressed as
+
+![](images/5a5e02a7845ae4f9afbffcc2a4fec29e7aae856c1ddfaa43e37ec5e3ecb8d7a3.jpg)  
+Figure 6: Curve of plastic yield length $\bar { l } _ { p }$ with curing rate $\bar { \xi } = \bar { \xi } _ { \sigma } ^ { l }$ under the influence of linear curing parameters.
+
+![](images/97bf26b9545c99f26715ff72ca83e4df3a78b88d1c62979a98eefb087e171eab.jpg)  
+Figure 7: Curve of plastic yield length $\bar { l } _ { p }$ with curing rate $\bar { \xi } = \bar { \xi } _ { \sigma } ^ { l }$ under the influence of exp-decaying curing parameters.
+
+As shown in Eq.(31), dimensionless curing rates $\ { \overline { { \xi } } } _ { \sigma } ^ { l }$ can be calculated priori from parameter of material and printing process. Such as Eq.(28), when $\overline { { \xi } } _ { \sigma } ^ { l } \to 1$ , yield length $\bar { l } _ { p }$ close to infinity. Therefore,for linear curing processes, the value of curing rate approaching 1 should be considered as the upper limit of plastic collapse.When $\overline { { \xi } } _ { \sigma } ^ { l } > 1$ ， the yield strength increased faster than the stress controlled by the printing speed due to the curing rate $\xi _ { \sigma } ^ { l }$ . Therefore,plastic collapse wil not occur.
+
+$$
+\begin{array} { r l } { \displaystyle \bar { l } _ { p } = \frac { \rho g l _ { p } } { | \sigma _ { p , 0 } | } , } \\ { \displaystyle \bar { \xi } _ { \sigma } = \frac { \xi _ { \sigma } | \sigma _ { p , 0 } | } { \rho g \dot { l } } ~ } & { { } \xi _ { \sigma } \in \{ \xi _ { \sigma } ^ { l } , \xi _ { \sigma } ^ { e } \} . } \end{array}
+$$
+
+As shown in Eq.(30), when $\bar { \xi } _ { \sigma } ^ { e } \to \infty$ ,the plastic collapese length $\bar { l } _ { p }$ converges to $\bar { l } _ { p , 0 } \cdot \gamma$ . Therefore,for the exp-decaying curing processes, $\bar { l } _ { p , 0 } \cdot \gamma$ should be considered as the upper limit of plastic collapse.
+
+# D.Suiker number and Suiker criterion for elastic buckling and plastic collapse
+
+Plastic collapse occurs when the plastic yield length is less than the elastic buckling length $l _ { p } < l _ { c r }$ . Conversely,when $l _ { p } > l _ { c r }$ ,elastic bucklingis the failure mechanism.This standard for analyzing possible failure mechanisms can be conveniently represented by calling geometry, material, and printing parameters,and can be obtained by using Eqs.(2O) and (31)
+
+$$
+\begin{array} { r l } & { \frac { \overline { { l } } _ { c r } } { \overline { { l } } _ { p } } < \overline { { \Lambda } } : e l a s t i c ~ b u c k l i n g , } \\ & { \frac { \overline { { l } } _ { c r } } { \overline { { l } } _ { p } } > \overline { { \Lambda } } : p l a s t i c ~ c o l l a p s e , } \end{array}
+$$
+
+Where
+
+$$
+\begin{array} { l } { \displaystyle \overline { { \Lambda } } = ( \alpha \frac { h } { D _ { 0 } } ) ^ { \frac { 1 } { 3 } } \frac { \left| \sigma _ { p , 0 } \right| } { ( \rho g ) ^ { \frac { 2 } { 3 } } } , } \\ { \displaystyle \bar { l } _ { c r } = \hat { \bar { l } } _ { c r } ( \bar { \xi } _ { E } , \overline { { k } } ) , \quad \displaystyle \bar { l } _ { p } = \hat { \bar { l } } _ { p } ( \overline { { \xi } } _ { \sigma } ) . } \end{array}
+$$
+
+The dimensionless parameter $\overline { { \Lambda } }$ mentioned in the Eq.(33) Was first proposed by Suiker [?],because of its importance, $\overline { { \Lambda } }$ was called Suiker number in this paper. $\overline { { \Lambda } }$ is constant when the geometric parameters of the printed object and material parameters are given,and does not change with time.When evaluating the competitive relationship between elastic buckling and plastic collapse of straight wall structures, $\overline { { \Lambda } }$ can be calculated in advance so as to predict the failure mechanism. In printing process,the method of trial and error is often used to analyze the failure mechanism.Even under the same material parameters,the failure of structure will also change due to the difference of geometric parameters.The Suiker number $\overline { { \Lambda } }$ provides a clear direction to achieve the maximum material utilization by improving material properties or changing geometric parameters,which is of great significance for analyzing the mechanical performances and failure mechanism of straight wall structures in 3D printing processes.
+
+# IV.NUMERICALSOLUTIONOFCYLINDRICALWALL FAILUREPROBLEM
+
+In the result analysis,the critical buckling length $\hat { \bar { l } } _ { c r } ( \overline { { \xi } } _ { E } , \overline { { k } } )$ can be obtained from Eqs.(19) and (23).Substituting $\overline { { w } }$ into Eq.(24) and transform it into an eigenvalue problem. The minimum eigenvalue is obtained to represent the critical buckling length $\bar { l } _ { c r } ^ { - }$ and is calculated by assuming that the displacement is polynomial.
+
+$$
+\hat { \overline { w } } ( \overline { { X } } ) = \sum _ { n = 1 } ^ { N } C _ { n } \overline { { X } } ^ { n - 1 } \quad n = 1 , 2 , . . . , N .
+$$
+
+Where $C _ { n }$ represents unknown generalized coordinates. By using the Suiker number given by Eq.(33), the competitive relationship between the critical buckling length $\bar { \bar { l } } _ { c r } ( \overline { { \xi } } _ { E } , \overline { { k } } )$
+
+and the plastic collapse length $\hat { \overline { { l } } } _ { p } ( \overline { { \xi } } _ { \sigma } )$ in the linear curing processes and the exp-decaying curing processes can be evaluated.
+
+# A.Numerical solution analysis under the influence of curing processes
+
+When $\overline { { h } } = 1$ , the buckling length depends on two dimensionless parameters, the curing rate $\overline { { \xi } } _ { E } ^ { l }$ and the curvature $\overline { { k } }$ i.e., lcr(E,k). Poisson's ratio is V = O.3,and set the range of curvature is $\textstyle { \frac { 1 } { 2 0 } } \leq { \overline { { k } } } \leq { \frac { 1 } { 5 } }$ ：
+
+![](images/415a0cc2048be107fcf2e30b5b7d53c6f3590c6ef1f01b7555c836c6db6e884f.jpg)  
+Figure 8: In the 3D printing process,buckling length $\bar { l } _ { c r }$ changes with curing rate $\overline { { \xi } } = \overline { { \overline { { \xi } } } } _ { E } ^ { l }$ , where the range of curvature is $\begin{array} { r } { \frac { 1 } { 2 0 } \le \overline { { k } } \le } \end{array}$ $\textstyle { \frac { 1 } { 5 } }$ ：
+
+For a cylindrical wall, Fig.8 illustrates that the buckling length $\bar { l } _ { c r }$ increases with the increase of curing rate $\overline { { \xi } }$ when the curvature $\overline { { k } }$ is given; the buckling length $\bar { l } _ { c r }$ with curvature $\overline { { k } }$ increases when the curing rate $\overline { { \xi } }$ is given; the buckling length $\bar { l } _ { c r }$ has a larger increase amplitude when the curvature $\overline { { k } }$ is greater； the buckling behavior of homogeneous cylindrical shell under self-weight is described when curing rate $\overline { { \xi } } _ { E } ^ { l }  0$ .The difference between the two curing methods is that the linear curing grows faster and the exp-decaying curing converges to $\bar { l } _ { c r , 0 } \cdot \gamma$ with $\bar { \xi } _ { E } ^ { l } \to \infty$ ，
+
+This describe the variation buckling characteristics of cylindrical wall subjected to self-weight from homogeneous to heterogeneous during the printing processes,as well as the influence of curvature on structural stability,and conform to the general fact that buckling length should increase with the curing processes.
+
+# B.Numerical analysis of elastic buckling and plastic failure
+
+This section mainly analyzes the competitive relationship between elastic buckling and plastic collapse.
+
+Under the condition of linear curing process,curvature $\begin{array} { r } { \overline { { k } } = \frac { 1 } { 6 . 2 5 } } \end{array}$ isselecteddhi rateapproximation was obtained.Where the $R ^ { 2 } -$ valueof this approximation is 0.999.
+
+The values of $\beta$ are 5,6,7,8,9,10, see Fig.9. Specifically, plastic collapse occurs when the point on the curve in the failure mechanism graph is greater than the value of $\overline { { \Lambda } }$ ,and otherwise elastic buckling occurs. The competitive relationship obviously depends on the change of $\beta$ .As $\beta$ gets bigger, the length scale ratio $\bar { l } _ { c r } / \bar { l } _ { p }$ drops faster. For Fig.9,when $\beta \ge 6$ as long as $\overline { { \Lambda } } \geq \bar { l } _ { c r , 0 } = 1 1 . 6 5$ , plastic collapse will not occur and elastic buckling is the only failure mechanism.
+
+When $\overline { { \Lambda } } \le \bar { l } _ { c r , 0 } = 1 1 . 6 5$ ， plastic collapse will occur when the curing rate $\mathit { \overline { { \xi } } } _ { E } ^ { l }$ is small, and elastic buckling will occur when the curing rate $\overline { { \xi } } _ { E } ^ { l }$ is large. As $\overline { { \xi } } _ { E } ^ { l }$ increases, $\bar { l } _ { c r } / \bar { l } _ { p }$ decreases along the negative axis of $\bar { l } _ { c r } / \bar { l } _ { p }$ until $\bar { l } _ { c r } / \bar { l } _ { p } = 0$ ,and elastic buckling is the only failure mechanism. Specifcally, elastic buckling is the only failure mechanism when $\beta \ = 5$ and $\overline { { \Lambda } } > ( \bar { l } _ { c r } / \bar { \overline { { l } } } _ { p } ) _ { m a x } = 1 \bar { 4 } . 5 8$ . When $0 < \overline { { \Lambda } } < ( \bar { l } _ { c r } / \bar { l } _ { p } ) _ { m a x }$ the range of $0 \overline { { \cdot } } < \overline { { \xi } } _ { E } ^ { l } < a , b \leq \overline { { \xi } } _ { E } ^ { l }$ is elastic buckling, the range of $a \leq \overline { { \xi } } _ { E } ^ { l } < b$ is plastic collapse, $a , \ b$ can be solved by $\hat { \bar { \xi } } _ { E } ^ { l } ( \bar { l } _ { c r } / \bar { l } _ { p } )$ ,where $( \bar { l } _ { c r } / \bar { l } _ { p } ) = \overline { { \Lambda } }$
+
+Under the condition of exp-decaying curing process the numerical solution with accurate approximation was obtained. Where the $R ^ { 2 } -$ value of this approximation is 0.999.
+
+$$
+\begin{array} { r } { \overline { { l } } _ { c r } = 8 . 7 1 9 2 + 3 . 0 6 5 2 \exp ( 1 8 . 2 6 3 9 \overline { { \xi } } _ { E } ^ { l } ) , } \end{array}
+$$
+
+When $\overline { { \xi } } _ { E } ^ { l } \to 0$ ,that is,the buckling length is independent of curing rate, $\bar { l } _ { c r , 0 } = 1 1 . 6 5$ , the competitive relationship can be described by Eqs.(28) and (35).
+
+$$
+\frac { \bar { l } _ { c r } } { \bar { l } _ { p } } = ( 8 . 7 1 9 2 + 3 . 0 6 5 2 \exp ( 1 8 . 2 6 3 9 \overline { { \xi } } _ { E } ^ { l } ) ) ( 1 - \beta \overline { { \xi } } _ { E } ^ { l } ) ,
+$$
+
+Where $\beta = \overline { { \xi } } _ { \sigma } ^ { l } / \overline { { \xi } } _ { E } ^ { l }$ （
+
+$$
+\bar { l } _ { c r } = 2 2 . 9 1 6 8 - 1 1 . 4 9 1 6 \exp ( - 8 . 0 5 5 9 \overline { { \xi } } _ { E } ^ { e } ) .
+$$
+
+Combined with Eqs.(30) and (37), the competitive relationship can be expressed as
+
+$$
+\begin{array} { c } { { \displaystyle \overline { { { \frac { l } { l _ { p } } } } } = \left( 2 2 . 9 1 6 8 - 1 1 . 4 9 1 6 \exp ( - 8 . 0 5 5 9 \overline { { { \xi } } } _ { E } ^ { e } ) \right) } } \\ { { \displaystyle \left( 1 + \frac { \gamma _ { \sigma } - 1 } { 1 + \left( \frac { \overline { { { \xi } } } _ { \sigma } ^ { e } } { \xi _ { r e f } } \right) ^ { - p } } \right) ^ { - 1 } . } } \end{array}
+$$
+
+![](images/5c744c21ce90f4df0b541eec9d12995c1aa4921f9721489f2052da07bcbd98c4.jpg)  
+Figure 9: The failure mechanism of cylindrical wall during the linear curing processes. It is the curve of length scale ratio changing with curing rate $\overline { { \xi } } = \overline { { \xi } } _ { E } ^ { l }$ under selected stiffness curing ratio. Where the range of $\beta = \overline { { \xi } } _ { \sigma } ^ { l } / \overline { { \xi } } _ { E } ^ { l }$ from 5 to 10. This curve is plot by Eq.(36), $\overline { { \Lambda } }$ represents the competitive relationship between elastic buckling and plastic collapse during linear curing.
+
+![](images/0acc070ca002d684e9badee41eb89389218b6f8effc53e77840825f02c9aba0c.jpg)  
+Figure 1O: The failure mechanism of cylindrical wall during the expdecaying curing processes_ It is the curve of length scale ratio changing with curing rate $\overline { { \xi } } = \overline { { \xi } } _ { E } ^ { e }$ under selected curing ratio.Where the range of $\beta = \overline { { \xi } } _ { \sigma } ^ { l } / \overline { { \xi } } _ { E } ^ { l }$ from 0.1 to 40.This curve is plot by Eq.(38), $\overline { { \Lambda } }$ represents the competitive relationship between elastic buckling and plastic collapse during exp-decaying curing.
+
+The values of $\beta$ are 0.1,0.2,0.5,1,2,5,10,20,40, see Fig.10. The specific analysis is similar to the above.When $\beta \geq 2 0$ as long as $\overline { { \Lambda } } > \mathrm { i } 1 . 6 5$ ，plastic failure will not occur, elastic buckling is the only failure mechanism.When $\overline { { \Lambda } } < 1 1 . 6 5$ the range of $a \leq \overline { { \xi } } _ { E } ^ { l } < b$ is elastic buckling,therange of $0 < \overline { { \xi } } _ { E } ^ { l } < a , b \leq \overline { { \xi } } _ { E } ^ { l }$ is plastic collapse, $a , b$ can be solved by $\hat { \bar { \xi } } _ { E } ^ { l } ( \bar { l } _ { c r } / \bar { l } _ { p } )$ ：
+
+In particular, when $\beta ~ = ~ 0 . 1$ and $\overline { { \Lambda } } ~ > ~ ( \bar { l } _ { c r } / \bar { l } _ { p } ) _ { m a x } ~ =$ 22.54,elastic buckling is the only failure mechanism.When $1 1 . 6 5 < \overline { { \Lambda } } < ( \bar { l } _ { c r } / \bar { l } _ { p } ) _ { m a x }$ , the range of $0 < \overline { { \xi } } _ { E } ^ { l } < a , b \leq \overline { { \xi } } _ { E } ^ { l }$ is elastic buckling, the range of $a \leq \overline { { \xi } } _ { E } ^ { l } < b$ is elastic collapse.
+
+It can be seen from the analysis in Fig.9 and Fig.1O that the stiffness curing ratio $\beta$ has a great influence on the competitive relationship between elastic buckling and plastic collapse.When $\beta$ is smaller, it is more prone to plastic collapse; On the contrary, elastic buckling is more likely to occur. The intersection of the length scale ratio curve and $\overline { { \Lambda } }$ represents the critical position of the two failure mechanisms.According to the change trend of the curve,during the linear curing process,when $\beta = 5$ ，thelength scale ratio $\bar { l } _ { c r } / \bar { l } _ { p }$ first increases and then decreases;And when $\beta > 5$ ， $\bar { l } _ { c r } / \bar { l } _ { p }$ is decreasing monotonically. In the exp-decaying curing process, when $\beta \leq 5$ ， $\bar { l } _ { c r } / \bar { l } _ { p }$ first increases and then decreases;When $\beta \geq 1 0$ ， $\bar { l } _ { c r } / \bar { l } _ { p }$ first decreases and then increases.Thus, it can be seen that the length scale ratio $\beta$ has a great influence on the change trend of the curve,that is,under the given geometric parameters, $\beta$ determines the dominant position of the two failure mechanisms of elastic buckling and plastic collapse.
+
+parameter value Thickness of wall $\begin{array} { c } { { h = 4 3 . 5 ( m m ) } } \\ { { t _ { l } = 9 . 2 ( m m ) } } \\ { { \rho = 2 0 2 0 ( k g / m ^ { 3 } ) } } \\ { { v _ { n } = 8 3 . 3 ( m m / s ) } } \\ { { \nu = 0 . 3 ( - ) } } \end{array}$ Height of layer Density of material   
+Printing nozzle speed Poisson's ratio Linear curing   
+Initial stiffness modulus $\begin{array} { c } { E _ { 0 } = 7 8 1 0 0 ( P a ) } \\ { \overline { { \xi } } _ { E } ^ { l } = 0 . 0 2 , 0 . 0 5 , 0 . 1 ( - ) } \end{array}$ Curing rate   
+Exp-decaying curing   
+Initial stiffness modulus $\begin{array} { c } { E _ { 0 } = 7 8 1 0 0 ( P a ) } \\ { \overline { { \xi } } _ { E } ^ { l } = 0 . 0 2 , 0 . 1 , 0 . 2 ( - ) } \\ { \gamma _ { E } = \frac { E _ { \infty } } { E _ { 0 } } = 2 ( - ) } \end{array}$ Curing rate Curing stiffness ratio
+
+# V.INFLUENCEANALYSISUNDERGIVENPRINTING PARAMETERS
+
+In this section,the buckling behavior of cylindrical wall has been simulated by commercial finite element software ABAQUS during the 3D printing processes,and the above model was verified. Then,the same printing parameters as Suiker[?] were used to compare the cylindrical wall with the $b = 6 2 5 m m d = 2 5 0 m m$ rectangular wall. Finally, the failure mechanism,the competitive relationship between elastic buckling and plastic collapse,of the cylindrical wall printed by this kind of concrete is analyzed.
+
+![](images/58d4d119b11fc62839c4f3c22afae469846a0cdbdb9cb68bae934b4801a4e280.jpg)  
+Figure11:Bucklinggrowthschematic ofcylindrical wall.
+
+Fig.11 depicts a schematic diagram in which the cylindrical wall grows at a constant rate in the direction of $X$ axis and the structure becomes unstable from the initial small deformation to the critical buckling height until the structure fails. The parameters of cylindrical wall are listed in Table I,and the mechanical behavior of buckling under selfweight is analyzed. Two common curing characteristics, linear curing and exponential attenuation curing,are selected forsimulationAcodingtotheEqs.4)and(2) $\begin{array} { r } { \overline { { \xi } } _ { E } ^ { l } \ : = \ : } \end{array}$ 0.02,O.O5,O.1 was selected for the linear curing process and $\bar { \xi } _ { E } ^ { e } = 0 . 0 2$ ， 0.1，0.2 for the exp-decaying curing processes, so as to verify the parameter model.
+
+![](images/c9d84b570bd40627b8bfb7d05f6c728b7cd3d4711002ea9f8f567989dd0d8f90.jpg)  
+Figure 12:Results comparison diagram between numerical and FEM under the influence of linear curing parameters.
+
+![](images/2b1af444fe4d6e67a3de2935baa0e4d987267655dc53b58560fa38b60ac344ee.jpg)  
+Figure 13:Results comparison diagram between numerical and FEM under the influence of exp-decaying curing parameters.
+
+Note that,in order to fit the actual printing size and facilitate numerical calculation, $\alpha$ in Eq.(2O) is amplification factor. When the actual thickness of wall is $4 3 . 5 m m$ ， $\alpha =$ 8.297 to ensure the dimensionless thickness of wall $\overline { { h } } = 1$ Where,under the given parameters, the dimensionless curing rate $\overline { { \xi } } _ { E }$ and curing rate $\xi _ { E }$ are positive linear relationship. ByEq. $( 3 3 ) _ { 4 }$ ，when dimensionless thickness of wall $\overline { { h } } = \mathrm { \dot { 1 } }$ dimensionless buckling length $\bar { l } _ { c r }$ is determined by the dimensionless curing rate $\overline { { \xi } } _ { E }$ and dimensionless curvature $\overline { { k } }$ namely $\bar { l } _ { c r } = \hat { \bar { l } } _ { c r } ( \overline { { \xi } } _ { E } , \overline { { k } } )$ ：
+
+The results of bifurcation buckling obtained by FEM are relatively close to parameter model, see Fig.1213. In particular,undetheinfuenceoflinearcuring,when $\overline { { \xi } } _ { E } ^ { l } = 0 . 0 2$ the differenceis $3 . 1 \%$ ：when $\overline { { \xi } } _ { E } ^ { l } \ : = \ : 0 . 0 5$ te difereceis $8 . 6 \%$ ； when $\bar { \xi } _ { E } ^ { l } = 0 . 1$ ， the difference is $2 5 \%$ Under the influence of exp-decaying curing, when $\overline { { \xi } } _ { E } ^ { l } = 0 . 0 2$ ,the difference is $1 . 9 \%$ when $\bar { \xi } _ { E } ^ { l } = 0 . 1$ , the difference is $7 . 2 \%$ when $\bar { \xi } _ { E } ^ { l } = 0 . 2$ ,the difference is $1 0 \%$ ：
+
+When width of rectangular wall is $b \ = \ 6 2 5 m m , d \ =$ $2 5 0 m m$ ，curvature should be $\begin{array} { l l l } { \overline { { k } } } & { = } & { \frac { 2 ( b + d ) } { 2 \cdot \pi \cdot 4 3 . 5 } } \end{array} \approx \ 1 / 6 . 4$ tcordtgto es $4 3 . 5 m m$ a $( 2 0 ) _ { 4 }$ er cangntis $9 . 2 m m$ $\begin{array} { r l } { \xi _ { E } ^ { l } } & { { } = } \end{array}$ $0 . 0 0 0 2 5 6 ( s ^ { - 1 } ) , \dot { l } = 0 . 0 0 0 4 3 8 ( m / s )$ and $\overline { { \xi } } _ { E } ^ { l } = 0 . 0 2 5 4$ For thisoeeee $\begin{array} { r } { \frac { 1 } { 5 } \leq \overline { { k } } \leq \frac { 1 } { 1 0 } } \end{array}$ the range of dimensionless curing rate increased from 0.0199 to O.0397. Within this range, the result of bifurcation buckling simulatedbyFEMisveryclose to that of theparametric model, which indicates that the parametric model can simulate the bifurcation buckling behavior of 3D printing concrete cylindrical wall well.
+
+In the classical theory, the solution of the governing equationforthe bucklingofcylindricalwalliswrittenin theform of series approximation by trigonometric function: $w \ =$ $\sum \sum A \cdot s i n ( \alpha x ) \cdot s i n ( \beta y )$ ,and the solution is also sinusoidal along the circumference,whichis more inline with the actual situation．In the model derivation in section 1,considering that the initial stiffness modulus $E _ { 0 }$ is low,it is impossible for the 3D concrete printed cylindrical wall to remain intact under large deflection, the parameter model is constructed under the axial symmetry condition,and the solution is set as $w = w ( x )$ .When the value of $\overline { { \xi } } _ { E } ^ { l }$ is large,the cylindrical wall has a higher buckling length, the greater difference in its horizontal buckling form,and the significant difference in the results.
+
+# B. Comparison and analysis
+
+According to $b = 6 2 5 m m , D = 2 5 0 m m$ rectangular wall of Suiker [? ], the upper bound of the failure mechanism is determined by plastic collapse,the lower bound is determined by the elastic buckling,where the parameters are listed in TableI,the curing characteristics is determined by equation (39)(4O).When used with identical parameters of Suiker, radius is $r = 2 7 8 . 4 m m$ ,thickness is $h = 4 3 . 5 m m$ and dimensionless curvature is $\overline { { k } } \approx 1 / 6 . 4$
+
+The evolution function of stiffness modulus and compressive yield strength can be get by the results of Suiker [?] (a)The function of stiffness modulus $\hat { E } _ { * } ( P a )$ varies with curing time $t ( s )$ . Where the $R ^ { 2 }$ -value of this approximation is 0.995.
+
+$$
+\hat { E } _ { * } ( t ) = 7 8 1 0 0 + 2 0 t ,
+$$
+
+(b)The function of compressive yield strength $\hat { \sigma } _ { p * } ( P a )$ varies with curing time $t ( s )$ . Where the $R ^ { 2 } -$ value of this approximation is 0.991.
+
+$$
+\hat { \sigma } _ { p * } ( t ) = 5 9 8 4 + 2 . 4 5 t .
+$$
+
+Under the influence of the parameters of printing processes and geometric,the buckling length of the rectangular wall is $l _ { c r } ^ { s } ~ = ~ 0 . 2 1 0 m$ when simply supported on the side, and $l _ { c r } ^ { f } ~ = ~ 0 . 4 3 1 m$ when full-clamped on the side,the plastic collapse length is $l _ { p } = 0 . 4 2 1 m$ .Therefore,the actual failure size range of the rectangular wall should be $0 . 2 1 0 m \leq$ $l _ { c r } \le 0 . 4 2 1 m$ .Further, the rotational stiffness provided by the side wall to the main wall is determined by the aspect ratio $b / d = 2 . 5$ ，so as to obtain a more precise buckling length $l _ { c r } = 0 . 2 6 9 m$
+
+The dimensionless buckling length of cylindrical wall is $\bar { l } _ { c r } \ = \ 1 3 . 3$ ，which is $l _ { c r } ~ = ~ 0 . 5 7 8 m$ ，under the condition of identical parameters. According to Eqs.(31) and (28) can get dimensionless length of the plastic collapse $\bar { l } _ { p } = 1 . 3 9 3$ which is $l _ { p } = 0 . 4 2 1$ ,when $\overline { { \xi } } _ { \sigma } ^ { l } = 0 . 2 8 2$ . That is, when curvature $\overline { { k } } \approx \mathrm { i } / 6 . 4$ ,the cylindrical wall will cause plastic collapse due to reaching compressive yield strength.
+
+When the buckling length be the same, i.e., $l _ { c r } = 0 . 2 6 9 m$ and $\bar { l } _ { c r } = 6 . 1 8 4$ ,substituting $\bar { l } _ { c r }$ into Eq.(43) and can get the curvature is $\overline { { k } } = 1 / 1 7 . 7 4$ .In other words,the cylindrical wall can have a larger frame than the rectangular wall when it represents the same stability requirements.Obviously,compared with the rectangular wall, the cylindrical wall can make more full use of materials due to the structural integrity (equivalent to the full-clamped on the side) and the introduction of curvature.Thatis to say,the cylindrical wall can reach a higher number of layers and have stronger stability.
+
+# C. Analysis of failure mechanism
+
+Specifically, for the given geometric parameters,when $h =$ 43.5mm $\alpha ~ = ~ 8 . 2 9 7$ ，dimensionless thickness $\overline { { h } } \ : = \ : 1$ and $\begin{array} { r } { \left( \alpha \frac { \rho g h } { D _ { 0 } } \right) ^ { \frac { 1 } { 3 } } = 2 2 . 9 9 } \end{array}$ Therefore $\bar { l } _ { c r } = 2 2 . 9 9 \cdot l _ { c r }$ .
+
+When the stiffness modulus and compressive yield strength are given by Eqs.(39) and (40)， $\begin{array} { r l r } { \zeta _ { E } } & { { } = } & { \frac { 2 0 } { 7 8 1 0 0 } = } \end{array}$ $\begin{array} { r l r } { 0 . 0 0 0 2 5 6 ( s ^ { - 1 } ) , \xi _ { \sigma } } & { { } = } & { \frac { 2 . 4 5 } { 5 9 8 4 } \quad = \quad 0 . 0 0 0 4 1 ( s ^ { - 1 } ) , \rho \quad = } \end{array}$ $2 0 2 0 ( k g / m ^ { 3 } ) , g = 9 . 8 1 m / s ^ { 2 }$ . It can be seen from Eqs.(20) and (31) that the dimensionless curing rate $\overline { { \xi } }$ is determined by the axial growth rate $i$ of the cylindrical wall.
+
+$$
+i = \frac { Q } { v _ { n } h T _ { l } } = \frac { t _ { l } v _ { n } } { 2 \pi h } \cdot \frac { h } { r } = 0 . 0 0 2 8 0 \frac { h } { r } ,
+$$
+
+The function of dimensionless curing rate, $\overline { { \xi } } _ { E }$ and $\overline { { \xi } } _ { \sigma }$ ，with dimensionlessradius $\overline { r }$ canbe obtained
+
+$$
+\begin{array} { l } { { \displaystyle \overline { { \xi } } _ { E } = ( \frac { 1 } { \alpha } \frac { D _ { 0 } } { \rho g h } ) ^ { \frac { 1 } { 3 } } \frac { \xi _ { E } } { \bar { l } } = 0 . 0 0 4 \overline { { r } } \mathrm { , } } } \\ { { \displaystyle \overline { { \xi } } _ { \sigma } = \frac { \xi _ { \sigma } | \sigma _ { p , 0 } | } { \rho g \dot { l } } = 0 . 0 4 4 0 9 \overline { { r } } \mathrm { , } } } \end{array}
+$$
+
+Substituting $\mathrm { E q . ( 4 2 ) _ { 1 } }$ into Eq.(25) for numerical solution, the dimensionless radius $\overline { r }$ range from 5 to 10.Where the $R ^ { 2 } -$ value of this approximation is 0.999.
+
+$$
+\bar { l } _ { c r } = 5 . 6 3 9 4 3 + 4 4 . 0 7 9 2 8 \exp ( - 0 . 2 8 5 0 9 \bar { r } ) .
+$$
+
+The Suiker number can be calculated by Eq.(33) under such parameters, $\overline { { \Lambda } } = 6 . 9 4 1 9 6$ .The function of plastic collapse length $\bar { l } _ { p }$ with dimensionless radius $\overline { r }$ can be obtained by combining Eqs.(28) and $( 4 2 ) _ { 2 }$ . Then plot $\hat { \overline { { l } } } _ { p } ( \overline { { r } } ) \cdot \overline { { \Lambda } }$ and Eq.(43) in Fig.14.
+
+![](images/2ff7c0171d596afbfa39b1ac6ead97dde433631297007f67c5d422a3a295d237.jpg)  
+Figure 14: The plastic collapse length $\bar { l } _ { p }$ and elastic buckling length $\bar { l } _ { c r } ^ { \mathrm { ~ ~ } }$ of3D printed cylindrical wall vary with the dimensionless radius $\overline { { r } }$ under the given parameters.
+
+When theprintingparametersare determinedby Eqs.(39)(4O) and Table I,the Suiker number $\overline { { \Lambda } }$ is also fixed, see Fig.14. The intersection point $A$ of $\hat { \overline { { l } } } _ { p } ( \overline { { r } } ) \cdot \overline { { \Lambda } }$ and $\hat { \overline { { l } } } _ { c r } ( \overline { { r } } )$ represents the critical point of the competitive relationship between plastic collapse and elastic buckling，i.e., $l _ { c r } = l _ { p }$ . At the intersection point, the dimensionless radius is $\overline { { r } } = 7 . 7 3 4 9 6$ , the failure length is $\bar { l } _ { f } = 1 0 . 5 3 5 1 5$ ,which is equivalent to the curvature is $\overline { { k } } = 1 / 7 . 7 3 4 9 6$ ,and the failure length is $l _ { f } ~ = ~ 0 . 4 5 8 2 m$ ．When the dimensionless radius $\overline { { r } } \ < \ 7 . 9 3 8$ ，the plastic collapse is the failure mechanism, otherwise the elastic buckling.
+
+![](images/d7ba072a8d49b031182dede88599bca5f4fb9ccd59490abcd8c81fa45088ecc1.jpg)  
+Figure15:The area division diagram of effective length and failure length of 3D printed cylindrical wall under the given parameters.
+
+The zones of the effective length, failure length,elastic buckling and plastic collapse can be distinguished by Suiker number, see Fig.15.Blue region $B$ is the effective length, yellow region $C$ is the plastic collapse,red region $D$ is the elastic buckling. In the printing processes of cylindrical wall, theexpectedlayercanbeachievedbyselectingthecurvature or adopting the corresponding auxiliary means to enhance the structure in different failure areas.
+
+# VI.CONCLUSION
+
+In order to improve the overall stability of the 3D printing straight wall,a simple and feasible method is proposed in this paper, that is, the curvature along the direction of the contour isappropriately increased to print wavy wall. The shape of single wave can be cylindrical or not,and the curvature is variable.This paper based on the work of Suiker et al.,extends the straight wall to wavy wall by increasing the curvature, and makesa detailed study of stability ofcylindrical wall to verifythis method.Itis found that the critical buckling length of cylindrical wall is more than twice that of the rectangular wall, indicating that increasing the curvature of straight wall structure along the contour direction is a reasonable solution to improve the overall stability. From mechanics point of view, this method essentially improves the overall stabilityby introducing curvature to enhance the overall topological stiffness of the straight wall,and wavy wall is a simple and feasible configuration. Specifically,the following five conclusions can be summarized:
+
+· The parameter model essentially describes the variation characteristics of buckling length of heterogeneous cylindrical wall under subjected to self-weight in the printing processes. · In the specific study,each wave was treated as a cell. When the cell was taken as a cylindrical wall, it was found that the buckling length was highly sensitive to curvature $\overline { { k } }$ .With the decrease of curvature, the same increment of dimensionless curing rate $d \overline { { \xi } }$ will lead to greater increment of buckling length $d \bar { l } _ { c r }$ ： · Fig.9 and Fig.1O describes the change trend of length scale ratio curve with curing rate,which can be used to study the competitive relationship between two failure mechanisms.The Suiker number $\overline { { \Lambda } }$ determined by Eq. $( 3 3 ) _ { 3 }$ describes the boundary between plastic failure and elastic buckling.When $\bar { l } _ { c r } / \bar { l } _ { p } > \bar { l } _ { p } > \bar { \Lambda }$ ,is plastic failure,and versa is elastic buckling.The curing ratio $\beta$ hasa great influence on the change trend of this curve. Where $\overline { { \Lambda } }$ is determined by the initial parameters,and the stiffness curing ratio $\beta$ is determined by the curing parameters. These two parameters determine the dominantposition of elastic bucklingandplastic failure.
+
+· The results difference between the numerical and FEM is due to the simplification of the established parametric model. In the actual printing parameters of concrete, there is still a good consistency.   
+· By adopting quantitative analysis and adding the influence of curvature $\overline { { k } }$ ,the failure mechanism of rectangular straight wall and cylindrical wall in the 3D printing processes were studied.It is found that the stability of cylindrical wall is 2.15 times higher than that of rectangular straight wall. At the same time, the Suiker number $\overline { { \Lambda } }$ is used to distinguish the zones of effective length and the failure length within a certain curvature range, which can be targeted for structural enhancement, see Fig.14 and Fig.15.
+
+In future work, the cylindrical wall will extended to variable curvature and the whole wavy wall is studied.For each ripple in the wavy wall, there is theoretically an optimal waveform solution with the highest material utilization rate and the strongest structural stability under the condition of given parameters.
+
+# Acknowledgements
+
+The author is grateful to Prof.A.S.J Suiker for the research data and the exchange during the second International Conference on 3D Printing(3DcP-2019).
+
+[1] M. N.Nadagouda， V. Rastogi， M. Ginn， A review on 3d printing techniques for medical applications,Current Opinion in Chemical Engineering 28(2020) 152C157. doi:10.1016/j.c0che.2020.05.007.   
+[2]M.Wiese,S.Thiede,C.Herrmann,Rapid manufacturing of automotive polymer series parts:A systematic review of processes,materials and challenges,Additive Manufacturing 36. doi:10.1016/j.addma.2020.101582.   
+[3]K.V. Wong，A.Hernandez，A review of additive manufacturing，ISRN Mechanical Engineering 2012(2012) 1C10. doi:10.5402/2012/208760.   
+[4]L.J.Kumar, C.G.Krishnadas Nair,Current Trendsof Additive Manufacturing in the Aerospace Industry,2O17,book section Chapter 4,pp.39C54.doi:10.1007/978-981-10-0812-2-4.   
+[5] A.Le-Bail,B.C.Maniglia,P.Le-Bail,Recent advances and future perspective in additive manufacturing of foods based on 3d printing,Current Opinion in Food Science 35 (2020) 54C64. doi:10.1016/j.c0fs.2020.01.009.   
+[6]N.Roussel,J. Spangenberg，J.Wallevik,R.Wolfs,Numerical simulations of concrete processing:From standard formative casting to additive manufacturing,Cement and Concrete Research135.doi:10.1016/j.cemconres.2020.106075.   
+[7]F.Bos,R.Wolfs,Z.Ahmed,T.Salet,Additive manufacturing of concrete in construction: potentials and challenges of 3d concrete printing,Virtual and Physical Prototyping 11 (3) (2016) 209C225.doi:10.1080/17452759.2016.1209867.   
+[8]Y.Chen，D.Bourell，C．Zhou，J.Lao，A layerless additive manufacturing process based on cnc accumulation， Rapid Prototyping Journal 17(3） (2011)218C227. doi:10.1108/13552541111124806. [9]W.Gao,Y. Zhang,D.Ramanujan,K.Ramani,Y.Chen,C.B. Williams,C.C.L.Wang，Y.C.Shin,S.Zhang,P.D.Zavattieri,The status,challenges,and future of additive manufacturing in engineering,Computer-Aided Design 69 (2015) 65C89. doi:10.1016/j.cad.2015.04.001.   
+[10] AFunctional Classification Framework for the Conceptual Design ofLayered Manufacturing Technologies,Vol.Volume 5: 13th Design for Manufacturability and the Lifecycle Conference;5th Symposium on International Design and Design Education;1Oth International Conference on Advanced Vehicle and Tire Technologies of International Design Engineering Technical Conferences and Computers and Information in Engineering Conference.doi:10.1115/DETC2008-49353.   
+[11] D.Bourell,D.Rosen,Roadmap for additive manufacturing identifying the future of freeform processing,Solid Freeform Fabr.   
+[12] G. Cesaretti,E.Dini, X.De Kestelier, V. Colla,L.Pambaguian, Building components for an outpost on the lunar soil by means of a novel 3d printing technology, Acta Astronautica 93 (2014) 430C450. doi:10.1016/j.actaastro.2013.07.034.   
+[13]V.Mechtcherine,F.P.Bos,，A.Perrot,W.R.L.da Silva, V.N.Nerella，S.Fataei，R.J.M.Wolfs，M.Sonebi，N. Roussel,Extrusion-based additive manufacturing with cementbased materials-production steps,processes,and their underlyingphysics:A review, Cement and Concrete Research132. doi:10.1016/j.cemconres.2020.106037.   
+[14]G.De Schutter,K.Lesage,V.Mechtcherine,V.N.Nerella, G.Habert,I.Agusti-Juan,Vision of 3d printing with concrete technical,economic and environmental potentials,Cement and Concrete Research112(2018)25C 36,sI :Digital concrete 2018.doi:https://doi.org/10.1016/j.cemconres.2018.06.001.   
+[15]M.S.Khan，F. Sanchez，H.Zhou,3-d printing of concrete:Beyond horizons,Cement and Concrete Research 133. doi:10.1016/j.cemconres.2020.106070.   
+[16] A．V. Rahul, M. Santhanam， H. Meena, Z. Ghani, 3d printable concrete:Mixture design and test methods，Cement and Concrete Composites 97 (2019）13C23. doi:10.1016/j.cemconcomp.2018.12.014.   
+[17]S. Yu, H.Du，J.Sanjayan, Aggregatebed 3d concrete printingwithcement paste binder, Cement andConcrete Research136 (2020) 106169. doi:https://doi.org/10.1016/j.cemconres.2020.106169.   
+[18]V.S.Fratello,R.Rael,Innovating materials for large scale additive manufacturing:Salt, soil, cement and chardonnay，Cement and Concrete Research 134 (202O)106097. doi:https://doi.org/10.1016/j.cemconres.2020.106097.   
+[19]A.S.J.Suiker,Mechanical performance of wall structures in 3d printing processes: Theory，design tools and experiments, International Journal ofMechanical Sciences 137(2018) 145C170.doi:10.1016/j.ijmecsci.2018.01.010.   
+[20]A.S.J.Suiker，R.J.M.Wolfs,S.M.Lucas,T.A. M.Salet,Elastic buckling and plastic collapse during 3d concrete printing， Cement and Concrete Research 135. doi:10.1016/j.cemconres.2020.106016.   
+[21]R.J.M.Wolfs,F.P.Bos,T.A.M. Salet,Early age mechanical behaviour of 3d printed concrete:Numerical modelling and experimental testing,Cement and Concrete Research 1O6 (2018) 103C116.doi:10.1016/j.cemconres.2018.02.001.   
+[22] R.J.M.Wolfs,F.P.Bos,T.A.M.Salet,Triaxial compression testing on early age concrete for numerical analysis of 3d concrete printing,Cement and Concrete Composites 104. doi:10.1016/j.cemconcomp.2019.103344.   
+[23]R.J.M. Wolfs，A. S.J. Suiker, Structural failure during extrusion-based 3d printing processes,The International Journal of Advanced Manufacturing Technology 1O4(1-4) (2019) 565C584.doi:10.1007/s00170-019-03844-6.   
+[24] Suärez,Almudena,Bifurcation Analysis,John Wiley & Sons, Ltd, 2008.   
+[25]J.N.Reddy，J.H.S.Jr,General buckling of stiffened circular cylindrical shells according to a layerwise theory，Computers & Structures 49 (4)(1993）605 C616. doi:https://doi.0rg/10.1016/0045-7949(93)90065-L.   
+[26] S.Timoshenko,Strength of Materials.,Lancaster Press,Inc., Lancaster,PA,1947.   
+[27] C.Calladine,J.Barber,Simple experiments on self-weight buckling of open cylindrical shells,J.Appl. Mech．37. doi:10.1115/1.3408677.   
+[28]D.Johns，Self-weight-buckling of vertical circular cylindrical shells，Aiaa Journal - AIAA J11 (1973)392C393. doi:10.2514/3.6762.   
+[29] C.W.Lim,Y.F. Ma, Computational p-element method on the effects of thickness and length on self-weight buckling of thin cylindrical shells via various shell theories,Computational Mechanics 31(5) (2003)400C408.doi:10.1007/s00466-003-0442- 3.   
+[30]S.Timoshenko,J.Gere,Theory of Elastic Stability.2nd ed., DoverPublicationsInc,NewYork,2009.   
+[31]S.Timoshenko,S.Woinowsky-Krieger,Theory ofPlates and Shells.,McGraw-Hill Book Company, Singapore,1959.

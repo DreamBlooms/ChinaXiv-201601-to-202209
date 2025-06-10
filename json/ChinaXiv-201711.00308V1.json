@@ -1,0 +1,462 @@
+[
+    {
+        "type": "text",
+        "text": "沽源县未利用地生态重要性空间识别及其地形梯度特征分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王志涛1 门明新1,2\\*\\* 崔江慧(1．河北农业大学国土资源学院保定071000;2．河北保定生态文明研究院保定071000;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3．河北农业大学农学院 保定 071000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要未利用地作为重要的后备土地资源与生态系统的一部分，不仅在缓解土地供需矛盾中发挥着重要作用，同时还为生态系统稳定提供着强有力的支撑。本文以地处农牧交错带的河北省沽源县为例，根据其生态状况，从灾害防护、生境与水资源防护、人类干扰3方面选取指标，构建了沽源县未利用地生态重要性空间识别指标体系，结合GIS空间分析功能，对沽源县未利用地的生态重要性进行空间识别，将其划分为4个级别：极重要、重要、较重要、一般重要。并根据沽源县地形特点进行地形梯度的划分，划分出4级高程梯度带和 4级坡度梯度带，以分析沽源县未利用地的地形梯度分布特征。结果表明，沽源县生态重要性为极重要、重要、较重要、一般重要的未利用地面积分别为 $1 1 ~ 0 8 2 . 7 8 ~ \\mathrm { h m } ^ { 2 }$ 、 $1 1 ~ 2 0 9 . 0 5 ~ \\mathrm { h m } ^ { 2 }$ 、 $1 1 ~ 4 5 0 . 2 5 ~ \\mathrm { h m } ^ { 2 }$ 和 $4 \\ 8 0 3 . 1 2 \\ \\mathrm { h m } ^ { 2 }$ ，分别占研究区未利用地总面积的 $2 8 . 7 5 \\% . 2 9 . 0 8 \\% . 2 9 . 7 1 \\%$ 和 $12 . 4 6 \\%$ ，生态重要性等级为一般重要的未利用地较少。从地形梯度角度分析，沽源县未利用地主要分布在 $1 ~ 4 0 0 { \\sim } 1 ~ 6 0 0 ~ \\mathrm { m }$ 高程梯度带以及 $0 ^ { \\circ } { \\sim } 5 ^ { \\circ }$ 和 $5 ^ { \\circ } { \\sim } 1 5 ^ { \\circ }$ 两个坡度梯度带；生态极重要未利用地主要分布在 $1 ~ 4 0 0 { \\sim } 1 ~ 6 0 0 ~ \\mathrm { m }$ 和 $1 \\ 6 0 0 { \\sim } 1 \\ 8 0 0 \\ \\mathrm { m }$ 两个高程梯度带以及 $5 ^ { \\circ } { \\sim } 1 5 ^ { \\circ }$ 坡度梯度带；随着高程与坡度的增加，各地形梯度带生态重要性等级为极重要的未利用地的比重变大，由最初的$1 1 . 3 1 \\%$ 和 $1 3 . 8 6 \\%$ 提升到 $9 7 . 9 5 \\%$ 和 $9 3 . 6 4 \\%$ 。研究结果可以为沽源县未利用地开发利用与生态保护提供数据支撑和科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 农牧交错带　未利用地　生态重要性　地形梯度 GIS　沽源县中图分类号：X171 文献标识码：A 文章编号:1671-3990(2016)02-0256-09",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Spatial recognition of ecological importance and analysis of terrain gradients characteristic of unused lands in Guyuan County ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Zhitao,MEN Mingxin1,2\\*\\*,，CUIJianghui3 (1.College ofLandandResources,HebeiAgricultural University,Baoding07o,China;2.BaodingAcademyofEcological CivilizationinHebei,Baoding00o,China;3.ColegeofAgronomyHebeiAgriculturalUniversityBaoding00,Cina) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractUnused land is notonlyan important landresource reserve,but alsoan important partof theecosystem.Unused land playsanimportantrole ineasing land supplyand supporting ecological stability.However,theecological importanceof unusedlands has notbeengiven due atention.Studies onunusedlands have mainlyfocusedonthe evaluationof thesuitability forexploitationasarableand construction lands.Mostof the studies have failedto giveenoughatentiontotheecological valueof unused lands.This studyused Guyuan Countyin Hebei Province (a transition ecotonebetween agriculture and animal husbandry with severe ecological problems)toassess theimportanceofconstructionand protectionofecological environment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Therecognition of ecological importanceofunused lands was notonly important for the developmentof unusedlands,but also fortheconstruction of ecological environment in Guyuan County.Basedon the ecologicalconditions in Guyuan County, the studyused disaster protection,human interferenceandhabitatand water protectionas indicators to determine the ecological importanceofunused lands.Combined with spatial analysis inGISand the spatialstrengths ofthe indicatorsof ecological importance,thestudydeterminedthe ecological importance of unused lands in Guyuan County and grouped the lands into4categories一veryimportant,important,relatively importantand less important.Basedonterrainfeaturesof Guyuan County, this study divided the elevation and slope factors into 4 zones each ( $( 1 ~ 2 0 0 - 1 ~ 4 0 0 ~ \\mathrm { m }$ 、 $1 ~ 4 0 0 { - } 1 ~ 6 0 0 ~ \\mathrm { m }$ 、 $1 6 0 0 -$ $1 ~ 8 0 0 ~ \\mathrm { m }$ and $1 ~ 8 0 0 ~ \\mathrm { m }$ in elevation; $0 ^ { \\circ } - 5 ^ { \\circ }$ 、 $5 ^ { \\circ } - 1 5 ^ { \\circ }$ 、 $1 5 ^ { \\circ } - 2 5 ^ { \\circ }$ and ${ > } 2 5 ^ { \\circ }$ in slope gradient),which were used to analyze the characteristicsofunusedlands ecological importanceindiferentterrain gradients.Theresults showedthat theareasofunused lands with very important,important,relatively important and less important levels were respectively, $1 1 ~ 0 8 2 . 7 8 ~ \\mathrm { h m } ^ { 2 }$ ， （204号 $1 1 ~ 2 0 9 . 0 5 ~ \\mathrm { h m } ^ { 2 }$ ， $1 1 ~ 4 5 0 . 2 5 ~ \\mathrm { h m } ^ { 2 }$ and $4 \\ 8 0 3 . 1 2 \\ \\mathrm { h m } ^ { 2 }$ , and accounting for $2 8 . 7 5 \\%$ $2 9 . 0 8 \\%$ $2 9 . 7 1 \\%$ and $12 . 4 6 \\%$ of total unused land in Guyuan County.The area markedas less ecological importance was low.According tothe analysis onthe baseof terrain factors,unused lands were mainly distributed in the $1 ~ 4 0 0 { - } 1 ~ 6 0 0 ~ \\mathrm { m }$ elevation zone and the $0 ^ { \\circ } - 5 ^ { \\circ }$ and $5 ^ { \\circ } - 1 5 ^ { \\circ }$ slope zones. The unused lands in Guyuan County with very ecological importance were mainly distributed in the $1 ~ 4 0 0 { - } 1 ~ 6 0 0 ~ \\mathrm { m }$ and $1 6 0 0 { \\mathrm { - } } 1 8 0 0$ m elevation zones and the $5 ^ { \\circ } - 1 5 ^ { \\circ }$ slope zone. With increased elevation and slope, the proportion of unused lands with very ecological importance changed greatly, increasing from $1 1 . 3 1 \\%$ to $9 7 . 9 5 \\%$ and from $1 3 . 8 6 \\%$ to $9 3 . 6 4 \\%$ . Most of the unused lands in Guyuan County were important for theecologyand there was theneed topay keenatention to the ecological environment when using the unused lands.These results provided scientific guidanceto the development ofunused lands and the construction of ecological environment in Guyuan County. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyordsTransitionecotonebetweenagricultureandanimal husbandry；Unused land;Ecological importance；Train gradient; GIS; Guyuan County ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "未利用地作为重要的后备土地资源与生态系统的一部分，不仅在缓解土地供需矛盾中发挥着重要作用，同时也为生态系统稳定提供着强有力的支撑，因此对未利用地的开发利用应兼顾生态与适宜性两方面，不可随意对其进行开发，以免造成生态破坏。此前已有众多学者针对未利用地展开了研究，例如：韦仕川等1综合考虑了生态安全性、自然适宜性、经济可行性3方面，通过选取因子利用GIS叠加功能，对黄河三角洲未利用地的适宜性进行了宜耕评价。王筱明等[2结合地形、交通条件、基础设施及区位条件，运用聚类分析方法，对济南市宜耕未利用地的开发潜力进行了分区，并确定了开发时序。袁磊等[3]通过 GIS 等技术手段，对云南山区弥渡县的未利用地进行了宜耕评价，并划分了不同潜力区。魏海等4以乌蒙山集中连片特殊困难片区为研究区，针对低丘缓坡开发为耕地、建设用地的适宜性进行了研究。可见，对未利用地的研究主要集中在宜耕与宜建评价，追求其开发的经济效益，对其重要生态作用的研究不多。对未利用地进行生态重要性空间识别与地形梯度分布特征研究可以指导未利用地的开发利用，有效地避免因不合理开发利用而造成的生态破坏，为区域经济发展与生态建设提供科学依据与数据支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，众多学者对于生态重要性的概念尚未形成统一的意见，一部分学者从生态系统服务等相关功能的角度定义[5-6]，比如水域系统中的气候调节等功能；一部分学者从景观安全格局的角度出发，认为各生态要素对维护区域生态平衡的重要程度不同，其中有一些点、线、面，由于所处位置特殊以及自身条件等原因，对区域景观生态安全起到关键性的作用[7]。笔者综合以上研究认为，生态重要性区域是土地生态系统中敏感程度较高或生态体系较好，在保护和维持整个区域土地生态安全过程中具有重要作用的区域。本文以地处农牧交错带的河北省沽源县为例，构建基于灾害防护、人类干扰及生境与水资源防护3方面的生态重要性空间识别指标体系[7-10]，以ARCGIS9.3为平台，对沽源县未利用地进行生态重要性空间识别，并以识别结果为基础，分析未利用地及各重要等级未利用地的地形梯度分布特征[11]。该研究可为沽源县未利用地的开发利用提供科学指导，有效地避免因不合理地开发利用而造成的生态破坏，为沽源县的生态建设提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况和数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "沽源县位于河北省西北部的坝上地区，地处北方农牧交错带中段，南部临近京津地区，是京津地区的天然生态屏障，地理位置处在东经 $1 1 4 ^ { \\circ } 5 0 ^ { \\prime } 1 9 \" _ { \\sim }$ $1 1 6 ^ { \\circ } 0 4 ^ { \\prime } 3 4 ^ { \\prime \\prime }$ ，北纬 $4 1 ^ { \\circ } 1 3 ^ { \\prime } 5 5 ^ { \\prime \\prime } { \\sim } 4 1 ^ { \\circ } 5 6 ^ { \\prime } 5 4 ^ { \\prime \\prime }$ 。沽源县国土面积为 $3 ~ 5 8 9 . 2 4 ~ \\mathrm { k m } ^ { 2 }$ ，2013年末总人口数量达",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "230085人，其中非农人口31038人，农业人口199047人;2013年完成地区生产总值38.46亿元，其中第一产业增加值完成17.44亿元，第二产业增加值完成11.03亿元，第三产业增加值完成9.99亿元。沽源县平均海拔 $1 \\ 4 7 5 . 1 8 \\ \\mathrm { m }$ ，其最低海拔为 $1 ~ 2 6 3 ~ \\mathrm { m }$ ，位于县城周边，最高海拔达 $2 1 7 8 \\mathrm { m }$ ，位于县域的东南部,县域总体海拔落差较大。阴山余脉横贯全县东西，根据自然地形特征，全县可划分为3大类型区，即：南部坝缘中低山区、东部低山丘陵区、中北部波状高原区。沽源县属冷温带半干旱大陆性季风气候,高寒干旱，年平均气温仅 $1 . 4 \\mathrm { ~ \\ ^ ~ { ~ } C ~ }$ ，年平均日照为$2 ~ 9 3 7 . 7 ~ \\mathrm { h }$ ，年平均降水量 $4 0 0 ~ \\mathrm { { m m } }$ 左右，且多集中在6—9月份，大风日数为 $5 0 { \\sim } 7 0 \\mathrm { d }$ ，干旱、冰雹、霜冻等自然灾害频发，为典型的生态脆弱区。沽源县作为环京津生态保护地区，主要担负着京津生态屏障的重要作用，在强化冀北地区的生态屏障、水源保护功能和缓解京津环境压力等方面发挥着重要作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究基础数据主要来源于沽源县2013年土地利用现状图、数字高程模型(digital elevation model,简称DEM)、2013年沽源县统计年鉴、沽源县Landsat8遥感影像、《沽源县地质灾害规划》以及实地调查等数据，数据详实可靠。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 研究思路",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文以 $3 0 ~ \\mathrm { m } { \\times } 3 0 \\mathrm { ~ m }$ 的栅格为评价单元，根据沽源县生态状况，从灾害防护、生境与水资源防护、人类干扰3方面选取指标，构建沽源县未利用地生态重要性空间识别指标体系，完成基于各单因子的生态重要性识别；其次对各单因子识别结果进行空间叠加，得到基于灾害防护、生境与水资源防护、人类干扰3方面的未利用地生态重要性综合识别结果；最后划分地形梯度，进行基于地形梯度的空间分布特征分析。生态重要性识别指标体系如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 生态重要性空间识别指标体系的构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 基于灾害防护的指标体系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "沽源县内地貌类型较多，海拔落差较大，坡度变化范围较广，土壤沙化与水土流失严重。本文结合相关研究[8-9]针对灾害防护选取了地质灾害发生难易程度、水土流失强度、地形位指数、地形起伏度4个指标进行识别。其中地质灾害发生难易程度以《沽源县地质灾害规划》为基础，结合实地调查与地质环境状况得出；水土流失过程较为复杂，受到自然和人为的综合影响，根据未利用地的特点，本文在确定未利用地水土流失强度时选取了坡度、沟谷密度、植被覆盖度、年平均降雨量以及未利用地类型5个指标，通过等权重求和确定研究区未利用地的水土流失强度，对各指标分级标准主要以《水土保持技术规范》、《土壤侵蚀分类分级标准》(SL190—2007)以及相关研究[12-14]为参考，并利用自然断点法将水土流失强度划分为轻度、中度、重度与极重度4个级别；地形位指数与地形起伏度以DEM为基础，借助ARCGIS的空间分析功能与栅格计算器得到，其中地形位指数计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/001701a95fd2b0f1125ce80ed7714e9ee941515b74934216027a7125ab475d44.jpg",
+        "table_caption": [
+            "表1沽源县未利用地生态重要性空间识别指标体系 Table1 Spatial recognizing indexes of ecological importance of unused land in Guyuan County "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目标层 Object</td><td>准则层 Criteria</td><td>指标层 Index</td></tr><tr><td>生态重要性空 间识别 Spatial</td><td>灾害防护 Disaster protection</td><td>地质灾害发生难易程度 Degree of difficulty of geological disasters occurrence 水土流失强度</td></tr><tr><td>recognizing of ecological importance</td><td></td><td>Water and soil loss intensity 地形位指数 Terrain index 地形起伏度 Topography degree</td></tr><tr><td></td><td>人类干扰 Human</td><td>人口聚集度 Degree of population aggregation</td></tr><tr><td></td><td>interference</td><td>村镇建设用地影响强度指数</td></tr><tr><td></td><td></td><td>Strength index of town construction land</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td>主要交通干线影响强度指数</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Strength index of the main traffic arteries</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>生境与水资源</td><td>未利用地覆盖类型</td></tr><tr><td></td><td></td><td>Cover types of unused land</td></tr><tr><td></td><td>防护</td><td></td></tr><tr><td></td><td>Habitat and</td><td>植被覆盖度 Vegetation coverage</td></tr><tr><td></td><td>water protection</td><td>距河流水系的距离 Distance from river systems</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL = \\log \\left[ \\left( { \\frac { G } { \\overline { { G } } } } + 1 \\right) \\times \\left( { \\frac { P } { \\overline { { P } } } } + 1 \\right) \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $L$ 是地形位指数， $G$ 代表单一栅格单元的高程值， $\\overline { { G } }$ 代表沽源县的平均高程, $P$ 代表单一栅格单元的坡度， $\\overline { { P } }$ 代表沽源县的平均坡度[15]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 基于人类干扰的指标体系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人类干扰指标主要反映人类活动对生态资源的干扰程度，其与生态资源的重要性呈反比。本研究针对人类干扰选取了交通干线影响强度指数、建设用地影响强度指数和人口聚集度3项指标进行空间识别[7]。其中交通干线影响强度指数和建设用地影响强度指数通过ARCGIS9.3中缓冲区技术实现，距离交通干线与建设用地较远的未利用地其自然生态状况良好，受干扰程度较低，不易被破坏。人口聚集度则反映的是人口数量的多少对生态环境的影响程度，人口集聚度越大对生态环境的影响就越大，生态重要性越低。本研究人口集聚度用各村的人口密度进行表征，即各村的总人口与总面积的比值，并利用自然断点法将全县各个村的人口密度划分为4个等别，即一般密集、较密集、密集以及高度密集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 基于生境与水资源防护的指标体系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "沽源县自然景观优越，但近年来由于城镇扩张和生态破坏造成了生境被破坏、水资源严重短缺的局面，生境与水资源亟待保护。本研究针对生境与水资源防护，选取植被覆盖度、距河流水系距离、坡向及未利用地覆盖类型4个指标进行识别。其中植被覆盖度的获取以ENVI5.1软件为平台，对沽源县8月份的Landsat8遥感影像进行辐射定标与大气校正后，借助BasicTool $$ Transform $_ { \\mathrm { 1  N D V I } }$ 功能经过归一化等处理得到，具体计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\frac { \\left( \\mathrm { N D V I - N D V I } _ { \\mathrm { m i n } } \\right) \\times 1 0 0 } { \\mathrm { N D V I } _ { \\mathrm { m a x } } - \\mathrm { N D V I } _ { \\mathrm { m i n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中: $F$ 为植被覆盖度; $\\mathrm { \\Delta N D V I _ { \\operatorname* { m a x } } \\Delta \\ N D V I _ { \\operatorname* { m i n } } }$ 分别代表最大、最小的归一化植被指数值 $[ 1 6 - 1 7 ]$ 。距河流水系距离通过ARCGIS9.3中的缓冲区技术实现。未利用地覆盖类型以二调分类体系为参考，以沽源县2013年土地利用现状图及实地调查结果为依据，得到各类型分级。坡向对日照时间长短以及土壤水分的再分布有着重要作用，该指标的获取以DEM数据为基础，通过ARCGIS的坡向分析获得，并将其划分为4个级别,9类坡向的具体分类如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6862ea250ac2b4f6bf0cbea7d43b3030003b4ca849fda1a9a4566b96af421aa.jpg",
+        "table_caption": [
+            "表2沽源县未利用地生态重要性空间识别指标分级标准 Table2Grading standards of spatial recognition indexes of ecological importance of unused land in Guyuan County "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">准则层 Criteria</td><td rowspan=\"2\">指标层 Index</td><td colspan=\"4\">生态重要性等级 Grade of ecological importance</td></tr><tr><td>极重要 Very important</td><td>重要 Important</td><td>较重要 Relatively important</td><td>一般重要 Less important</td></tr><tr><td>灾害防护 Disaster</td><td>地质灾害发生难易程度 Degree of difficulty of</td><td>高易发区</td><td>中易发区</td><td>低易发区</td><td>不易发区</td></tr><tr><td rowspan=\"6\">protection</td><td>geological disasters occurrence</td><td>High-prone area</td><td>Mid-prone area</td><td>Low-prone area</td><td>Less-prone area</td></tr><tr><td>水土流失强度 Erosion intensity</td><td>极重度 Very strong</td><td>重度</td><td>中度</td><td>轻度</td></tr><tr><td>地形位指数</td><td></td><td>Strong</td><td>Moderately strong</td><td> Mild strong</td></tr><tr><td>Terrain index</td><td>>1.0</td><td>0.8~1.0</td><td>0.6~0.8</td><td><0.6</td></tr><tr><td>地形起伏度 Topography degree</td><td>>45</td><td>30~45</td><td>15~30</td><td><15</td></tr><tr><td>人口聚集度</td><td>一般密集</td><td>较密集</td><td>密集</td><td>高度密集</td></tr><tr><td rowspan=\"8\">生境与水资源 防护 Habitat protection</td><td>Degre of population 村镇建设用地影响强度指数</td><td>Commonly</td><td>Relatively</td><td>Intensive</td><td>Highly intensive</td></tr><tr><td>Strength index of town construction land (m) 主要交通干线影响强度指数</td><td>>500</td><td>200~500</td><td>100~200</td><td><100</td></tr><tr><td>Strength index of the main traffic arteries (m)</td><td>>500</td><td>200~500</td><td>100~200</td><td><100</td></tr><tr><td>未利用地覆盖类型 Cover types of unused land</td><td>沼泽地</td><td>内陆滩涂</td><td>其他草地</td><td>沙地、盐碱地、裸地</td></tr><tr><td>植被覆盖度</td><td>Wetlands</td><td>Inland beach</td><td>Grassland</td><td>Sandydandrsalinized</td></tr><tr><td>Vegetation coverage (%)</td><td>≥60</td><td>[45,60)</td><td>[30,45)</td><td><30</td></tr><tr><td>距河流水系的距离 Distance from river systems (m)</td><td>0~50</td><td>50~100</td><td>100~150</td><td>>150</td></tr><tr><td>坡向</td><td>水平、南</td><td>东、东南、西南 East, southeast,</td><td>东北、西</td><td>北、西北</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 综合评价",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对上述各项指标分别赋值，计算各单因子生态重要性指数，计算方法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E I S I } _ { j } = \\sqrt { \\prod _ { i = 1 } ^ { n } C _ { i j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中: $\\mathrm { E I S I } _ { j }$ 表示第 $j$ 个生态问题的重要性指数, $C _ { i j }$ 代表该生态问题的第 $i$ 个指标的重要性等级指数， $n$ 代表该生态问题的指标个数。根据上式，通过ARCGIS9.3软件得到基于各单因子的生态重要性指数，并利用自然断点法对识别结果进行聚类，划分为极重要、重要、较重要及一般重要4个等别。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于各单因子生态重要性评价结果，利用ARCGIS9.3的栅格计算功能进行等权重综合分析，得到基于灾害防护、人类干扰及生境与水资源防护3方面的生态重要性综合指数，采用自然断裂点法进行各等别划分，得到活源县未利用地生态重要性综合识别结果图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 沽源县未利用地生态重要性的空间识别",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据上述识别方法与指标体系，借助ARCGIS9.3软件，对沽源县未利用地进行了生态重要性单因子识别和综合识别，识别结果见表3及图1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，在灾害防护方面，空间识别等级为极重要和重要的未利用地面积分别为 $3 \\ 0 1 6 . 7 1 \\ \\mathrm { h m } ^ { 2 }$ 和$6 ~ 5 0 9 . 7 9 ~ \\mathrm { \\ h m } ^ { 2 }$ ，分别占研究区未利用地总面积的$7 . 8 3 \\%$ 和 $1 6 . 8 9 \\text{‰}$ 从图1a可以看出，该部分未利用地主要分布在县域南部，主要是由于该地区未利用地坡度普遍较大，且变化范围较广，最小的坡度为 $5 ^ { \\circ }$ 最大坡度达 $6 2 ^ { \\circ }$ ，而其海拔落差也相对较大，最低海拔为 $\\mathrm { ~ 1 ~ } 3 2 0 \\mathrm { ~ m ~ }$ ，最高海拔达 $1 ~ 9 5 9 ~ \\mathrm { m }$ ，较易发生地质灾害，水土流失严重，是沽源县地质灾害重点防护区域，该部分未利用地的开发利用应注重生态效益。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/70317dcc1bf497a39f08b4be0c4033ea133b9c6fb13b9c91780d8f32c14e2043.jpg",
+        "table_caption": [
+            "表3沽源县未利用地生态重要性识别结果 Table 3Recognition results of ecological importance of unused land in Guyuan County "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>识别因子 Recagnition</td><td>识别等别 Recognition grade</td><td>面积 Area (hm²)</td><td>百分比 Percent (%)</td></tr><tr><td>灾害防护</td><td>极重要Very important</td><td>3 016.71</td><td>7.83</td></tr><tr><td>Disaster</td><td>重要Important</td><td>6 509.79</td><td>16.89</td></tr><tr><td>protection</td><td>较重要Relatively important</td><td>19 515.87</td><td>50.63</td></tr><tr><td></td><td>一般重要 Less important</td><td>9 502.83</td><td>24.65</td></tr><tr><td>人类干扰</td><td>极重要Very important</td><td>21 685.59</td><td>56.26</td></tr><tr><td>Human interference</td><td>重要Important</td><td>12 417.48</td><td>32.22</td></tr><tr><td></td><td>较重要Relatively important</td><td>3 965.67</td><td>10.28</td></tr><tr><td></td><td>一般重要 Less important</td><td>476.46</td><td>1.24</td></tr><tr><td>生境与水资</td><td>极重要Very important</td><td>2 439.45</td><td>6.33</td></tr><tr><td>源安全</td><td>重要Important</td><td>6 539.94</td><td>16.97</td></tr><tr><td>Habitat and water</td><td>较重要Relatively important</td><td>22 714.11</td><td>58.93</td></tr><tr><td>protection</td><td>一般重要 Less important</td><td>6 851.70</td><td>17.77</td></tr><tr><td>综合识别</td><td>极重要Very important</td><td>11 082.78</td><td>28.75</td></tr><tr><td>Integrative</td><td>重要Important</td><td></td><td></td></tr><tr><td rowspan=\"2\">recognition</td><td></td><td>11 209.05</td><td>29.08</td></tr><tr><td>较重要Relatively important 一般重要 Less important</td><td>11 450.25 4 803.12</td><td>29.71 12.46</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1c51836fafd774d39060079d0784d4324451d815d4d01d9c4a2054be39fe7c1.jpg",
+        "img_caption": [
+            "图1沽源县未利用地生态重要性识别结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Recognition results of ecological importance of unused land in Guyuan County a:基于地质灾害防护；b:基于人类干扰；c:基于生境与水资源；d:综合结果。a:ecological importance based on disaster protection； b:ecologicalimporaebsdouaniterferceoloicalimportacebasedoabitatadaterprotectio;dompeesieultf ecological importance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在人类干扰方面，空间识别等级为极重要与重要的未利用地面积分别为 $2 1 6 8 5 . 5 9 \\mathrm { h m } ^ { 2 }$ 和 $1 2 4 1 7 . 4 8 \\mathrm { h m } ^ { 2 }$ 分别占沽源县未利用地总面积的 $56 . 2 6 \\%$ 和 $3 2 . 2 2 \\%$ 总体看来大部分的未利用地受到的人类干扰较少，这主要是由于大部分未利用地离居民点与县域主要道路较远，受到来自建设用地和道路的影响较少，加之部分未利用地所在地的人口密度较小，受到人类生活的影响也相对较小，可以保持较好的生态状态，是重要的生态涵养区，可作为生态建设区域。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在生境与水资源防护方面，空间识别等级为极重要与重要的未利用地面积分别为 $2 \\ 4 3 9 . 4 5 \\ \\mathrm { h m } ^ { 2 }$ 和（204号 $6 { \\ : } 5 3 9 . 9 4 { \\ : } \\ : \\mathrm { h m } ^ { 2 }$ ，分别占未利用地总面积的 $6 . 3 3 \\%$ 和$1 6 . 9 7 \\%$ ，可见针对生境与水资源防护而言，高等别未利用地较少，主要由于大部分未利用地距离河湖水域的距离较远，且沽源县的未利用地以其他草地为主，生态状况一般，部分未利用地生态重要性级别较高主要是因为其植被覆盖度较高、坡向趋向于阳面或距离河流较近，对维护区域生境与水资源安全具有相对较重要的作用，该部分未利用地主要分布在县域南部以及河湖周边。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在综合识别方面，综合识别等级为极重要和重要的未利用地面积分别为 $1 1 ~ 0 8 2 . 7 8 \\mathrm { { h m } } ^ { 2 }$ 和 $1 1 \\ 2 0 9 . 0 5 \\mathrm { h m } ^ { 2 }$ 分别占未利用地总面积的 $2 8 . 7 5 \\%$ 和 $2 9 . 0 8 \\%$ ，超过了研究区未利用地总面积的 $50 . 0 0 \\%$ 。结合图1d与ARCGIS空间分析可知，综合识别结果为极重要的未利用地主要分布在小河子乡、莲花滩乡、丰源店乡以及长梁乡4个乡镇，共占生态重要性等别为极重要的未利用地面积的 $7 3 . 5 5 \\%$ ，该区域的未利用地海拔高，坡度大，地质灾害较易发生，加之其植被覆盖度较高，人口密度较小，受到的人为干扰较少，可作为生态用地进行开发利用；而生态重要性等级为一般重要的未利用地主要分布在九连城镇和塞北管理区，该区域的未利用地植被覆盖度较低，海拔较低，坡度较小，地形相对平缓，水土流失强度较弱，不易发生地质灾害，可以适当进行建设用地与农用地开发利用。各级别未利用地在各乡镇分布情况见表4。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae057d91e4b117d23663514a76647f534f6bb1302e7096cef125d1a027b961c7.jpg",
+        "table_caption": [
+            "表4沽源县各等别未利用地空间分布状况 Table 4Spatial distribution of different ecological importance grades ofunused land in Guyuan County "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">乡镇 Town</td><td colspan=\"2\">极重要 Very important</td><td colspan=\"2\">重要 Important</td><td colspan=\"2\">较重要 Relatively important</td><td colspan=\"2\">一般重要 Less important</td></tr><tr><td>面积 Area (hm²)</td><td>比重 Proportion (%)</td><td>面积 Area (hm²)</td><td>比重 Proportion (%)</td><td>面积 Area (hm²)</td><td>比重 Proportion (%)</td><td>面积</td><td>比重</td></tr><tr><td>丰源店乡Fengyuandian</td><td>1 094.76</td><td>9.88</td><td>56.25</td><td>0.50</td><td>50.13</td><td>0.44</td><td>27.99</td><td>Area (hm²） Proportion (%) 0.58</td></tr><tr><td>九连城镇 Jiuliancheng</td><td>183.24</td><td>1.65</td><td>776.07</td><td>6.92</td><td>2 285.01</td><td>19.96</td><td>907.11</td><td>18.90</td></tr><tr><td>二道渠乡Erdaoqu</td><td>321.30</td><td>2.90</td><td>254.70</td><td>2.27</td><td>106.02</td><td>0.93</td><td>6.12</td><td>0.13</td></tr><tr><td>塞北管理区 Saibeiguanli</td><td>0.09</td><td>0.00</td><td>38.07</td><td>0.34</td><td>757.89</td><td>6.62</td><td>1 189.26</td><td>24.76</td></tr><tr><td>大二号回族乡 Da'erhaohuizu</td><td>65.07</td><td>0.59</td><td>36.36</td><td>0.32</td><td>62.55</td><td>0.54</td><td>58.32</td><td>1.21</td></tr><tr><td>小厂镇 Xiaochang</td><td>272.34</td><td>2.46</td><td>620.37</td><td>5.53</td><td>476.37</td><td>4.16</td><td>196.56</td><td>4.09</td></tr><tr><td>小河子乡 Xiaohezi</td><td>1 461.78</td><td>13.19</td><td>1 931.85</td><td>17.23</td><td>1 266.21</td><td>11.06</td><td>465.39</td><td>9.69</td></tr><tr><td>平定堡镇Pingdingbao</td><td>965.43</td><td>8.71</td><td>2 026.08</td><td>18.08</td><td>1 815.93</td><td>15.86</td><td>377.64</td><td>7.86</td></tr><tr><td>白土窑乡 Baituyao</td><td>59.76</td><td>0.54</td><td>361.98</td><td>3.23</td><td>960.12</td><td>8.39</td><td>376.38</td><td>7.84</td></tr><tr><td>苏鲁滩牧场 Sulutan</td><td>15.21</td><td>0.14</td><td>170.10</td><td>1.52</td><td>59.76</td><td>0.52</td><td>0.00</td><td>0.00</td></tr><tr><td>莲花滩乡Lianhuatan</td><td>4 047.93</td><td>36.52</td><td>727.20</td><td>6.49</td><td>207.81</td><td>1.81</td><td>36.90</td><td>0.77</td></tr><tr><td>西辛营乡 Xixinying</td><td>325.35</td><td>2.94</td><td>1 214.73</td><td>10.84</td><td>1 178.28</td><td>10.29</td><td>393.48</td><td>8.19</td></tr><tr><td>长梁乡 Changliang</td><td>1 546.83</td><td>13.96</td><td>791.64</td><td>7.06</td><td>199.17</td><td>1.74</td><td>14.04</td><td>0.29</td></tr><tr><td>闪电河乡 Shandianhe</td><td>562.32</td><td>5.07</td><td>1 257.30</td><td>11.22</td><td>843.03</td><td>7.36</td><td>127.35</td><td>2.65</td></tr><tr><td>高山堡乡 Gaoshanbao</td><td>156.42</td><td>1.41</td><td>764.10</td><td>6.82</td><td>698.22</td><td>6.10</td><td>209.97</td><td>4.37</td></tr><tr><td>黄盖淖镇 Huanggainao</td><td>4.95</td><td>0.04</td><td>182.25</td><td>1.63</td><td>483.75</td><td>4.22</td><td>416.61</td><td>8.67</td></tr><tr><td>合计Total</td><td>11 082.78</td><td>100.00</td><td>11 209.05</td><td>100.00</td><td>11 450.25</td><td>100.00</td><td>4 803.12</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 基于高程梯度的未利用地分布特征分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经对比分析及参考相关文献发现[18-19]，以 $1 0 0 \\mathrm { ~ m ~ }$ （204号为高程差的划分方式使其高程梯度性不明显，而高程差较大也不能很好地体现其分布的高程梯度特点，因此本文在综合分析后，采用 $2 0 0 \\mathrm { ~ m ~ }$ 高程差将研究区划分为4个高程梯度带： $1 2 0 0 { \\sim } 1 4 0 0 \\ \\mathrm { m } , 1 \\ 4 0 0 { \\sim }$ $1 6 0 0 \\mathrm { ~ m } , \\ 1 \\ 6 0 0 { \\sim } 1 \\ 8 0 0 \\mathrm { ~ m }$ 和 $1 ~ 8 0 0 \\mathrm { ~ m ~ }$ 以上。借助ARCGIS9.3的空间分析功能，将综合识别结果图与沽源县高程图相互叠加，得到各高程梯度带各级别未利用地分布情况，具体结果见表5。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/653780ffae257f520679b8cfdbe6dd2ffaf96f196b7f328013fe6361fe00ed20.jpg",
+        "table_caption": [
+            "表5沽源县基于高程梯度的不同生态重要性等别未利用地分布情况 Distribution of different ecological importance grades of unused land at different elevations i "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">级别 Grade</td><td colspan=\"2\">1 200~1 400 m</td><td colspan=\"2\">1 400~1 600 m</td><td colspan=\"2\">1600~1 800 m</td><td colspan=\"2\">>1 800 m</td></tr><tr><td>面积 Area (hm²)</td><td>比例 Proportion</td><td>面积 Area</td><td>比例 Proportion</td><td>面积 Area</td><td>比例 Proportion</td><td>面积 Area</td><td>比例 Proportion</td></tr><tr><td>极重要Very important</td><td>855.63</td><td>(%) 11.31</td><td>(hm2) 6 123.69</td><td>(%) 25.30</td><td>(hm²) 3 919.14</td><td>(%) 59.54</td><td>(hm²) 184.32</td><td>(%) 97.95</td></tr><tr><td>重要Important</td><td>1903.23</td><td>25.15</td><td>7 691.22</td><td>31.77</td><td>1 611.81</td><td>24.49</td><td>2.79</td><td>1.48</td></tr><tr><td>较重要Relatively important</td><td>3 470.76</td><td>45.87</td><td>7 140.33</td><td>29.49</td><td>838.08</td><td>12.73</td><td>1.08</td><td>0.57</td></tr><tr><td>一般重要 Less important</td><td>1 337.22</td><td>17.67</td><td>3 252.42</td><td>13.44</td><td>213.48</td><td>3.24</td><td>0.00</td><td>0.00</td></tr><tr><td>总计 Total</td><td>7 566.84</td><td>100.00</td><td>24 207.66</td><td>100.00</td><td>6 582.51</td><td>100.00</td><td>188.19</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表5可以看出，不同高程梯度带未利用地数量不同，未利用地各生态重要性等级的面积也各不相同，存在明显的高程梯度特征。其中，以 $1 4 0 0 { \\sim } 1 6 0 0 \\mathrm { m }$ 高程梯度带未利用地数量最多，为 $2 4 \\ : \\ : 2 0 7 . 6 6 \\ : \\ : \\mathrm { h m } ^ { 2 }$ ，占沽源县未利用地总面积的 $6 2 . 8 0 \\%$ ， $1 8 0 0 \\mathrm { m }$ 以上高程梯度带的未利用地最少，仅为 $1 8 8 . 1 9 \\ \\mathrm { h m } ^ { 2 }$ ，占沽源县未利用地总面积的 $0 . 4 9 \\text{‰}$ ，生态重要性等级为极重要的未利用地主要分布在 $1 ~ 4 0 0 { \\sim } 1 ~ 6 0 0 ~ \\mathrm { m }$ 和 $1 ~ 6 0 0 \\sim$ $1 ~ 8 0 0 ~ \\mathrm { m }$ 两个高程梯度带上，面积分别为 $6 \\ 1 2 3 . 6 9 \\ \\mathrm { h m } ^ { 2 }$ 和 $3 \\ 9 1 9 . 1 4 \\ \\mathrm { h m } ^ { 2 }$ ，分别占生态重要性等级为极重要的未利用地面积的 $5 5 . 2 5 \\%$ 和 $3 5 . 3 6 \\%$ 。而生态重要性等级为一般重要的未利用地主要分布在 $1 ~ 2 0 0 { \\sim } 1 ~ 4 0 0 ~ \\mathrm { m }$ 和$1 4 0 0 { \\sim } 1 6 0 0 \\ \\mathrm { ~ m ~ }$ 两个高程梯度带上，面积分别为（204号 $1 \\ 3 3 7 . 2 2 \\mathrm { h m } ^ { 2 }$ 和 $3 \\ : 2 5 2 . 4 2 \\ : \\mathrm { h m } ^ { 2 }$ ，在 $1 8 0 0 \\mathrm { m }$ 以上高程梯度带上未出现该等级的未利用地，主要是由于 $1 ~ 8 0 0 ~ \\mathrm { m }$ 以上高程梯度带的未利用地海拔较高，地形变化较大，地质灾害较易发生，同时该梯度带上未利用地",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "的植被覆盖度普遍较高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述，随着海拔的升高，生态重要性等级为极重要的未利用地在各高程梯度带上所占比例也在增大，生态重要性等级为较重要和一般重要的未利用地比重则随着海拔的升高，在各梯度带上所占比例呈下降趋势，在 $1 ~ 8 0 0 \\mathrm { ~ m ~ }$ 以上高程梯度带上的未利用地生态重要性均较高，已无生态重要性等级为一般重要的未利用地，且以极重要等级未利用地为主。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3基于坡度梯度的未利用地分布特征分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用沽源县DEM，借助ARCGIS9.3空间分析功能，得到沽源县坡度图，经参考相关文献后发现坡度梯度带的划分尚无明确规定[18-19]，本文根据沽源县特点将研究区划分为 $0 ^ { \\circ } { \\sim } 5 ^ { \\circ }$ 、 $5 ^ { \\circ } { \\sim } 1 5 ^ { \\circ }$ 、 $1 5 ^ { \\circ } { \\sim } 2 5 ^ { \\circ }$ 以及 $2 5 ^ { \\circ }$ 以上4个坡度梯度带。将坡度图与未利用地生态重要性综合识别结果图相互叠加，经重分类后得到生态重要性等级与坡度关系图，统计结果见表 $6 _ { \\circ }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/97985ac6ec194db08002caacbdbc7f7859bbf0f05a45459c22174004d4c7de8f.jpg",
+        "table_caption": [
+            "表6沽源县基于坡度梯度的不同生态重要性等级未利用地分布情况Table 6Distributionofdiferentecologicalimportance gradesofunusedlandatdifferent gradient zones in Guyuan County"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">等级 Grade</td><td colspan=\"2\">0°~5°</td><td colspan=\"2\">5°~15°</td><td colspan=\"2\">15°~25°</td><td colspan=\"2\">>25°</td></tr><tr><td>面积 Area (hm2)</td><td>比例 Proportion</td><td>面积 Area</td><td>比例 Proportion</td><td>面积 Area</td><td>比例 Proportion</td><td>面积 Area</td><td>比例 Proportion</td></tr><tr><td>极重要Very important</td><td>2 444.76</td><td>(%) 13.86</td><td>(hm2) 5 960.88</td><td>(%) 34.07</td><td>(hm2) 2 485.17</td><td>(%) 77.61</td><td>(hm²) 191.97</td><td>(%) 93.64</td></tr><tr><td>重要Important</td><td>4380.57</td><td>24.83</td><td>6 247.89</td><td>35.71</td><td>568.53</td><td>17.76</td><td>12.06</td><td>5.88</td></tr><tr><td>较重要Relatively important</td><td>7 176.51</td><td>40.68</td><td>4 126.23</td><td>23.58</td><td>146.52</td><td>4.58</td><td>0.99</td><td>0.48</td></tr><tr><td>一般重要 Less important</td><td>3 638.34</td><td>20.63</td><td>1 162.98</td><td>6.64</td><td>1.80</td><td>0.05</td><td>0.00</td><td>0.00</td></tr><tr><td>总计Total</td><td>17 640.18</td><td>100.00</td><td>17 497.98</td><td>100.00</td><td>3202.02</td><td>100.00</td><td>205.02</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，从坡度角度分析，未利用地的分布及其各生态重要性等级的分布也随着坡度的不同发生着变化，地形梯度特征较为明显。其中，未利用地主要分布在 $0 ^ { \\circ } { \\sim } 5 ^ { \\circ }$ 和 $5 ^ { \\circ } { \\sim } 1 5 ^ { \\circ }$ 两个坡度梯度带，面积分别为 $1 7 6 4 0 . 1 8 \\mathrm { h m } ^ { 2 }$ 和 $1 7 ~ 4 9 7 . 9 8 ~ \\mathrm { h m } ^ { 2 }$ ，分别占研究区未利用地总面积的 $45 . 7 6 \\%$ 和 $45 . 4 0 \\%$ ， $2 5 ^ { \\circ }$ 以上坡度梯度带的未利用地最少，面积为 $2 0 5 . 0 2 ~ \\mathrm { h m } ^ { 2 }$ 。同时，通过分析可知生态重要性为极重要的未利用地主要分布在 $5 ^ { \\circ } { \\sim } 1 5 ^ { \\circ }$ 坡度梯度带，面积为 $5 ~ 9 6 0 . 8 8 ~ \\mathrm { h m } ^ { 2 }$ ，占全区生态极重要未利用地面积的 $5 3 . 7 9 \\%$ ，主要是由于该梯度带的未利用地主要分布在县域南部，植被覆盖度较高，且地质灾害和水土流失情况较为严重，受到人为干扰较少；生态重要性等级较低的较重要和一般重要的未利用地主要分布在 $0 ^ { \\circ } { \\sim } 5 ^ { \\circ }$ 坡度梯度带，面积分别为 $7 \\ 1 7 6 . 5 1 \\ \\mathrm { h m } ^ { 2 }$ 和 $3 \\ 6 3 8 . 3 4 \\ \\mathrm { h m } ^ { 2 }$ ，分别占相应级别未利用地总面积的 $6 2 . 6 8 \\%$ 和 $7 5 . 7 5 \\%$ ，这主要是由于该坡度梯度带上的未利用地主要分布在县域北部和县城周边，海拔较低，地质灾害和水土流失强度较弱，人口聚集度大，受到来自人类和建设用地的干扰较大，植被覆盖度相比县域南部较低，灾害防护任务较轻，可适当进行经济开发。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，随着坡度的增大，生态重要性为极重要的未利用地在相应坡度梯度带上的比重也越来越大，而一般重要和较重要的未利用地在相应坡度梯度带上的比重越来越小。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作为重要的后备土地资源，未利用地在缓解土地供需矛盾中发挥着巨大的作用，众多学者对未利用地的研究主要集中在宜耕与宜建评价，而作为生态系统的一部分，未利用地为生态系统的稳定提供着重要的支撑，识别出生态重要性较高的未利用地对于区域生态保护具有重要意义。沽源县地处生态脆弱的北方农牧交错带，生态问题突出，生态建设极为重要，对其未利用地进行生态重要性识别，不仅可以指导未利用地的开发利用，还可以为沽源县的生态建设提供依据，实现沽源县未利用地合理开发利用与生态建设提升的自标。根据活源县的生态状况，从灾害防护、人类干扰、生境与水资源防护3方面选取指标对活源县未利用地的生态重要性进行空间识别，识别结果表明，沽源县生态重要性等级为极重要与重要的未利用地面积分别为 $1 1 \\ 0 8 2 . 7 8 \\ \\mathrm { h m } ^ { 2 }$ 和 $1 1 2 0 9 . 0 5 \\mathrm { h m } ^ { 2 }$ ，共占沽源县未利用地总面积的$5 7 . 8 3 \\%$ ；从空间分布上看，沽源县生态重要性等别为极重要的未利用地主要分布在县域南部与东南部,主要包括小河子乡、莲花滩乡、丰源店乡以及长梁乡，该部分未利用地植被覆盖度较高、高差大、坡度陡，水土流失强度大，地质灾害较易发生，加之其受到的人类干扰较少，是重要的生态涵养区，对该区域未利用地的开发利用应注重其生态作用，挖掘其生态潜力。生态重要性等别为一般重要的未利用地主要分布在九连城镇与塞北管理区，该区域的未利用地植被覆盖度较低，地形起伏较小，地质灾害较少，生态重要性等级相对较低，可适当的进行经济开发。从地形梯度上看，沽源县未利用地主要分布在 $1 ~ 4 0 0 { \\sim } 1 ~ 6 0 0 ~ \\mathrm { m }$ 高程梯度带以及 $0 ^ { \\circ } { \\sim } 5 ^ { \\circ }$ 和 $5 ^ { \\circ } \\sim$ $1 5 ^ { \\circ }$ 两个坡度梯度带，生态极重要的未利用地主要分布在 $1 ~ 4 0 0 { \\sim } 1 ~ 6 0 0 ~ \\mathrm { m }$ 和 $1 \\ 6 0 0 { \\sim } 1 \\ 8 0 0 \\ \\mathrm { m }$ 两个高程梯度带以及 $5 ^ { \\circ } { \\sim } 1 5 ^ { \\circ }$ 坡度梯度带，且随着高程与坡度的提升，高等别未利用地在相应地形梯度带所占比重也越来越大。通过本文的识别结果可以发现，沽源县部分未利用地具有重要的生态价值，对其进行开发利用时应注重其开发利用的生态效益，针对其生态重要性等级进行不同方向的开发利用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文针对未利用地的生态重要性进行研究，并尝试性地分析了未利用地与地形因子的关系，与其他未利用地宜耕、宜建研究相比具有一定的创新性，体现了未利用地的生态价值，丰富了未利用地的研究范围，对今后未利用地的开发利用与生态保护具有重要意义，但本研究成果为初步成果，对未利用地的地形梯度特征分析不够全面，没有深入分析地形因子与未利用地的关系，今后将在此基础上继续探索未利用地与地形的关系，力求定量地表现出未利用地与地形因子的关系，完善该方面研究，以便更好地为该区域未利用地的开发利用提供科学指导。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]韦仕川，刘勇，栾乔林，等．基于生态安全的黄河三角洲未 利用地开垦潜力评价[J]．农业工程学报，2013，29(22): 244-251 Wei S C,Liu Y,Luan QL,et al.Evaluation on reclamation potential of unused land of the Yellow river delta based on ecological security[J].Transactions of the CSAE，2013, 29(22): 244-251   \n[2]王筱明，闫弘文，卞正富．基于适宜性的济南市宜耕未利 用地开发潜力评估[J].农业工程学报,2010,26(2):307-312 Wang X M,Yan H W,Bian ZF.Exploitation potential of unutilized land suitable for cultivated land based on its suitability in Ji'nan city[J].Transactions of the CSAE,2010, 26(2):307-312   \n[3]袁磊，赵俊三，李红波，等．云南山区宜耕未利用地开发适 宜性评价与潜力分区[J]．农业工程学报，2013，29(16): 229-237 Yuan L,Zhao J S,Li H B,et al．Exploitation suitability evaluation and potential area zoning for arable unused land in mountainous areas of Yunnan Province[J].Transactions of the CSAE,2013,29(16):229-237   \n[4]魏海，秦博，彭建，等．基于GRNN 模型与邻域计算的低 丘缓坡综合开发适宜性评价—以乌蒙山集中连片特殊困 难片区为例[J].地理研究,2014,33(5):831-841 Wei H,Qin B,Peng J,et al.Evaluation on comprehensive exploitation suitability of low-slope hilly land based on GRNN model and neighborhood calculation:A case study of Wumeng Mountain continuous poverty-stricken region[J]. Geographical Research,2014,33(5): 831-841 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5]杨美玲，米文宝，李同昇，等．宁夏限制开发生态区生态系",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "统重要性评价[J]．地域研究与开发,2014,33(3):133-138 Yang M L，Mi W B,Li T S,et al.Evaluation on the importance of ecosystem in the restricted development area in Ningxia[J]. Areal Research and Development,2014,33(3): 133-138   \n[6] 许家瑞．基于GIS的辽宁省生态重要性评价研究[D].大连: 辽宁师范大学,2014:7-12 Xu JR.Ecological importance of GIS-based evaluation of Liaoning Province[D]. Dalian: Liaoning Normal University, 2014: 7-12   \n[7] 谢花林，李秀彬．基于GIS 的农村住区生态重要性空间评 价及其分区管制——以兴国县长冈乡为例[J]．生态学报, 2011,31(1): 230-238 Xie HL,LI X B. Spatial assessment and zoning regulations of ecological importance based on GIS for rural habitation in Changgang Town, Xingguo County[J]. Acta Ecologica Sinica, 2011,31(1): 230-238   \n[8] 周锐，王新军，苏海龙，等．平顶山新区生态用地的识别与 安全格局构建[J].生态学报,2015,35(6):2003-2012 Zhou R,Wang X J, Su HL,et al. Identification and security pattern of ecological land in Pingdingshan newly developed area[J].Acta Ecologica Sinica,2015,35(6): 2003-2012   \n[9]王世东，慎利，王新闯.基于 RS 与GIS 的生态用地评价- 以辽宁省大洼县为例[J]．中国生态农业学报，2013，21(5): 628-637 Wang S D,Shen L,Wang X C.Evaluation of ecological land based on RS and GIS: A case study of Dawa County, Liaoning Province[J]. Chinese Journal of Eco-Agriculture,2013,21(5): 628-637   \n[10]谢花林，李秀彬．基于GIS 的区域关键性生态用地空间结 构识别方法探讨[J]．资源科学,2011,33(1):112-119 Xie HL,Li X B.A method for identifying spatial structure of regional critical ecological land based on GIS[J]. Resources Science,2011,33(1): 112-119   \n[11]梁发超，刘黎明．基于地形梯度的土地利用类型分布特征 分析—以湖南省浏阳市为例[J]．资源科学，2010,32(11): 2138-2144 Liang F C,Liu L M.Analysis on distribution characteristics of land use types based on terrain gradient: A case of Liuyang City in Hunan Province[J].Resources Science,201o,32(11): 2138-2144   \n[12]张祥义．涞源县土地生态安全评价与利用调控研究[D]．保 定：河北农业大学,2014:27-28 Zhang X Y. Study on land ecological security evaluation and land utilization optimization in Laiyuan County[D]. Baoding: Agricultural University of Hebei, 2014: 27-28 [13]贺奋琴．基于RS和GIS 的水土流失因子提取与分析—以 攀枝花市为例[D]．成都：成都理工大学,2004:27-36 He F Q.Analysis and extraction of soil and water loss factors based on RS and GIS — The case of Panzhihua City[D]. Chengdu: Chengdu University of Technology,2004: 27-36 [14]张瑞芳．基于GIS 的山西省朔州市水土流失强度评价研究[D]. 乌鲁木齐：新疆师范大学,2006:15-17 Zhang R F.The water and soil loss intensity degree evaluation in Shuozhou City of Shanxi Province supported by GIS[D]. Urumqi: Xinjiang Normal University, 2006:15-17 [15]曲衍波．基于GIS 的山区县域土地生态安全评价与土地利 用优化调控研究[D]．泰安：山东农业大学,2008:48-49 Qu Y B. Land eco-security evaluation and land-use optimization in mountainous area at county level based on GIS[D].Tai'an: Shandong Agricultural University,2008:   \n48-49 [16]贾坤，姚云军，魏香琴，等．植被覆盖度遥感估算研究进 展[J]．地球科学进展,2013,28(7):774-782 Jia K,Yao Y J,Wei X Q,et al. A review on fractional vegetationcoverestimationusingremotesensing[J]. Advances in Earth Science,2013,28(7): 774-782 [17]李攀，胡德勇，赵文吉．北方农牧交错带植被覆盖度变化 遥感监测研究—以河北省沽源县为例[J].国土资源遥感,   \n2010,22(2): 113-117 Li P,Hu D Y, Zhao W J. The monitoring of changes of land vegetation covers by remote sensing in farming-pastoral mixed zones of north China - A case study of Guyuan County，Hebei Province[J].Remote Sensing for Land & Resources,2010,22(2): 113-117 [18]申怀飞，吴国玺，丁圣彦．豫西黄河流域土地利用空间格 局地形梯度特征分析[J]．地域研究与开发，2012，31(3):   \n159-162 Shen HF, Wu G X,Ding SY. Spatial pattern of land use along the terrain gradient in Yellow River Basin in west Henan Province[J].Areal Research and Development, 2012,31(3):   \n159-162 [19]哈凯，丁庆龙，门明新，等．山地丘陵区土地利用分布及其 与地形因子关系——以河北省怀来县为例[J]．地理研究,   \n2015,34(5): 909-921 Ha K,Ding QL,Men M X,et al. Spatial distribution of land use and its relationship with terrain factors in hilly area[J]. Geographical Research,2015,34(5): 909-921 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

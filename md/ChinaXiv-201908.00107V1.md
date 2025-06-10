@@ -1,0 +1,243 @@
+# 遥感植被指数与植物多样性的相关性及空间分布特征研究以海口市主城区为例
+
+何荣晓²，雷金睿\*，杨帆1,2（1.海南大学林学院，海口 570228；2.海南省热带特色花木资源生物学重点实验室，海口 570228；3.
+
+海南省林业科学研究所，海口571100)
+
+摘要：植物多样性监测是开展物种保护与植被景观规划的重要基础，对实施生物多样性的优先区域保护具有重要意义。以海口市主城区为例，利用Landsat8遥感数据与样方实测数据分析了植被指数与植物多样性指数之间的相关性，根据相关性分析结果进一步构建了植物多样性遥感监测数学模型，并筛选出最优模型用于预测研究区植物多样性的空间分布状况。结果表明：Shannon-Wiener多样性指数、Simpson 多样性指数和Pielou均匀度指数与 MSAVI植被指数相关系数最高，呈显著相关性（ $\left[ { \cal P } ( 0 . 0 1 ) \right.$ 。通过一元线性数学回归模型得到的海口市植物多样性空间分布特征与实际情况相符，植物多样性水平较高的区域主要分布在火山□、东寨港和羊山湿地一带，且具有明显的空间自相关性。根据研究结果建议继续实施严格的保护措施，加强生态修复与保护工程，提高植被覆盖率和生物多样性水平。
+
+关键词：生物多样性，植被指数，植被覆盖率，空间自相关，遥感监测中图分类号：Q948.1 文献标识码：A
+
+# Correlation and spatial distribution characteristics of remote sensing vegetation index and plant diversity: A case
+
+# study of the main urban area of Haikou city
+
+HE Rongxiao1,2, LEI Jinrui³\*, YANG Fan1,2 (1. College of Forestry,Hainan University,Haikou 570228,China; 2. Hainan Biological Key Laboratory for Germplasm Resources of Tropical Special Ornamental Plants,Haikou 57O228,China; 3. Hainan Academyof Forestry,Haikou5711oo,China)
+
+Abstract: Plant diversity monitoring is an important basis for species conservation and vegetation landscape planning，and it is of great significance for the implementation of priority area protection for biodiversity. Taking the main urban area of Haikou city as an example,this paper analyzed the correlation between vegetation index and the plant diversity index by applying remote sensing data from Landsat 8 and measured data in site,and then further built the mathematical model of remote sensing monitoring for plant diversity and screened out the optimal model that is used to predict the spatial distribution of plant diversity in the study area.The result showed that Shannon-Wiener diversity index, Simpson diversity index and Pielou evenness index had the highest correlation coefficient with MSAVI vegetation index, with a significant correlation $( \mathrm { P } { < } 0 . 0 1 )$ .The spatial distribution of plant diversity in Haikou acquired from the unitary linear regression model is consistent with the actual situation. The areas with higher plant diversity were mainly distributed in the volcanic crater,Dongzhai harbor and Yangshan wetland,which have obvious spatial self-correlation. According to results obtained from this research，continual implementation of strict conservation measures，enhancement of ecological restoration and conservation projects， and improvement of vegetation coverage and biodiversityare recommended.
+
+Key words: biodiversity, vegetation index, vegetation coverage, spatial autocorrelation, remote sensing monitoring
+
+生物多样性是人类赖以生存的物质基础。随着全球范围内物种和栖息地的丧失，生物多样性破坏已严重威胁可持续发展和生态系统稳定性，成为生态学和地理学研究的热点问题（陈亮和王绪高，2008；胡海德等，2012)。近年来，随着遥感技术的快速发展，因其具备大尺度、长时间序列、多类型等优势而被广泛应用于土地利用变化（雷金睿等，2017）、生物量估测（张艳楠等，2012；王紫君等，2016）、环境监测（Koponen&Ullininen，2002；闫峰等，2006）、森林健康（Arekhietal.，2017）等方面的研究，将遥感技术应用于生物多样性监测领域也是目前国际生物多样性研究的最新趋势，同时也是研究难点（程乾等，2016;徐文婷和吴炳方，2005；郭庆华等，2018；郭庆华和刘瑾，2018）。
+
+通过遥感手段监测植物多样性有多种方法，应用较多的是基于景观指数对植物多样性实施监测，它通过遥感影像生成土地覆盖数据，进而计算出各种景观指数。其理论基础是景观异质性与生物多样性的正相关关系（Kerr etal.，2001；Gottschalk etal.，2005)，如李祖政等（2018）利用LandsatETM+遥感影像探讨了徐州城市景观格局变化对植物多样性的影响。然而这种方法适合较大的空间尺度，单纯使用这种方法得到的多样性信息在精度上存在局限性（Griffiths & Lee，200O；Langford et al.，2006）。
+
+卫星遥感影像衍生出的植被指数有助于分析生物多样性格局，这些影像是可更新且易获取的，并且还可以获得多个时空尺度上的影像信息（Duro etal.，2014)。有研究认为，归一化植被指数NDVI与植物多样性之间存在显著正相关关系（Fairbanks&McGwire，2004;Cayuelaetal，2006)，可以解释区域内物种丰富度或多样性变化。这就为间接监测大尺度生物多样性提供了更为直接、简便的方式，用于评估区域和全球尺度的生物多样性现状和变化趋势（Oindo & Skidmore，2002；Turner et al.，2003）。如，Fairbanks& McGwire（2004）
+
+使用多时相NDVI来估算美国加利福尼亚州的植物物种丰富度，观察到与物种丰富度的正相关关系，并将其归因于NDVI对影响物种丰富度的非生物因素的敏感性,结果表明使用 NDVI数据可以在区域尺度和长时间内对植物物种丰富度进行表征和监测。Arekhietal.（2017）使用Landsat数据研究了土耳其Gonen大坝流域植被指数与α 和β多样性之间的相关性，同样表明 NDVI有助于估计大面积植物的α多样性。程乾等（2016）基于GF-1号卫星和地面实测数据对杭州湾河口湿地植物物种多样性进行了研究，得出NDVI监测湿地植物多样性的最佳空间尺度大小为 $1 5 2 ~ \mathrm { m } \times 1 5 2 ~ \mathrm { m }$ ，且与Simpson 指数的相关性显著。在空间尺度的研究方面，方彬等（2007）利用基于空间变异理论和半方差函数探讨了植被指数用于生物多样性监测的最佳研究尺度，根据模拟结果得出不同植被指数用于生物多样性遥感监测的最佳尺度。可见，国内外学者对于生物多样性遥感监测在不同植被指数、不同空间尺度甚至不同地域类型都开展了相关研究，表明遥感技术在生物多样性监测领域有利的应用前景，但在大范围的实际应用中仍然处于探索阶段。
+
+海南岛地处热带北缘及干湿热带气候的过渡带，岛内地形复杂、气候多样、水热充沛，植被类型多样，保存了我国最大面积的热带雨林和丰富的生物多样性资源（张路等，2011)。2010年，环保部印发的《中国生物多样性保护战略与行动计划（2011—2030年)》中，海南岛中南部被确定为我国生物多样性保护优先区域。2014年，海南省印发了《生物多样性保护战略与行动计划（2014—2030 年)》，将海南岛北部生物多样性保护优先区域（主要保护对象为海口火山岩地区植被生态系统)确定为全省4个生物多样性保护优先区域之一。随后，海口市于2015年在《生物多样性保护战略与行动计划》中将火山、海岸带及近岸海域、红树林等列入生物多样性保护优先区域，提出建立生物多样性监测和评估体系。基于此，本研究以海口市主城区为例，将遥感技术应用于植物多样性监测领域，是对区域生物多样性监测与保护的有益探索，有助于快速开展生物多样性本底调查和监测信息化建设，加强生物多样性优先区域的保护。
+
+# 1研究区概况
+
+海口市（ $1 1 0 ^ { \circ } 1 0 ^ { \prime }$ 一 $1 1 0 ^ { \circ } 4 1$ 'E， $1 9 ^ { \circ } 3 2 ^ { \prime }$ 一 ${ \cdot 2 0 ^ { \circ } 0 5 ^ { \prime } \mathbf N }$ ）位于海南岛北部，属热带海洋性季风气候，为典型的热带滨海省会城市。海拔范围 $0 { \sim } 2 2 2 \mathrm { ~ m ~ }$ ，年平均气温 $2 4 . 4 \mathrm { ~ \ ^ ~ { ~ 2 ~ 4 ~ . ~ } ~ }$ ，年平均降水量 $1 ~ 6 9 6 . 6 ~ \mathrm { m m }$ ，平均相对湿度 $8 5 \%$ 。区域内以滨海平原地貌为主，东部有海南东寨港红树林自然保护区，西部有火山口世界地质公园，南部有羊山湿地，森林覆盖率 $3 3 . 6 3 \%$ 。现有植被主要以人工纯林为主，如木麻黄（Casuarina equisetifolia）、马占相思（Acacia mangium）、桉树（Eucalyptus robusta）、橡胶树（Hevea brasiliensis）、龙眼（Dimocarpus longan）、荔枝（Litchichinensis）等。天然林相对较少，以热带地区常见的野生灌木草丛植物种群为主，以及分布于东部沿海一带的东寨港红树林群落。本文以海口市主城区为研究样区，面积约$5 2 0 \mathrm { k m } ^ { 2 }$ （图1）。
+
+![](images/da3b7706727d0a6c3140b95db8b4732ca126a8e459f7db07e638c0e59d9e61fb.jpg)  
+图1研究区样方点分布  
+Fig.1 Distribution of sample plots in the study region
+
+# 2 研究方法
+
+# 2.1植物多样性调查
+
+在海口市主城区范围内基于ArcGIS10.3采用随机抽样方法设置60个样方，大小为30$\times 3 0 \mathrm { ~ m ~ }$ 。在 2013年6-11月间，采用高精度GPS 定位实地寻找随机布设的样方，对样方内的调查记录内容包括：土地利用类型、地面覆盖情况；胸径 $\geqslant 3 \mathrm { c m }$ 乔木的种类、株数、胸径、树高、干高、冠幅、健康状况等；灌木的种类、盖度、高度、健康状况；草本的种类、面积、高度、健康状况（何荣晓，2016)。但由于部分样方落在建筑、水面或农田上，为避免影响相关性分析精度，剔除代表性不强、易引起偏差的样方，最后优选出48个样方数据（图1)。从中随机抽取2/3的样方数据（即32个样方）用于建模，剩余的样方用于模型验证。
+
+植物多样性指数选取3种广泛使用的 $\mathfrak { a }$ 多样性指数（刘鲁霞，2019)，其计算公式如下：
+
+（1）Shannon-Wiener多样性指数：
+
+$$
+H \ = \ - { \sum _ { i = 1 } ^ { s } } ( P _ { _ i } \ \mathrm { l n } \ P _ { _ i } )
+$$
+
+（2）Simpson多样性指数：
+
+$$
+D = 1 - { \sum _ { i = 1 } ^ { s } \left( P _ { _ i } \right) } ^ { 2 }
+$$
+
+（3）Pielou均匀度指数：
+
+$$
+J = \frac { H } { \ln ( S ) }
+$$
+
+式中， $s$ 为物种数； $P _ { i }$ 为物种 $i$ 的相对重要值。其中植物物种的相对重要值计算公式如
+
+下：
+
+（1）乔木层：重要值 $I V =$ （相对密度 $+$ 相对频度 $^ +$ 相对显著度）/3;  
+（2）灌木层：重要值 $I V =$ （相对密度 $+$ 相对频度 $^ +$ 相对盖度）/3；  
+（3）草本层：重要值 $I V =$ （相对高度 $+$ 相对频度 $^ +$ 相对盖度）/3;  
+（4）相对重要值 $\ c =$ 该物种的重要值/该样地内所有物种的重要值之和。
+
+本文通过 R.3.2.2的 vegan 软件包中的diversity 函数完成植物物种多样性指数计算（何荣晓，2016)。
+
+植物综合多样性指数引用杨学军等（1998）的多序稳定假说提出的时间-稳定系数 $\mathbf { C } = \ln$ （ $^ { \mathrm { a + 1 } }$ ）（a为植物进入稳定状态的时间）来计算乔木层、灌木层、草本层权重，求和得到相应综合指数。本文乔木层、灌木层、草本层的权重值分别取0.6、0.3和0.1（周彬等，2002;程乾等，2016)。
+
+# 2.2植被指数计算
+
+选用海口市清晰少云、且与调查时间一致的Landsat8OLI-TIRS 遥感影像（数据来源于中国科学院计算机网络信息中心地理空间数据云平台(htp://www.gscloud.cn))，获取时间为2013-10-26，云量为 $2 . 4 4 \%$ ，轨道号为 $\mathrm { \ p } 1 2 4 / \mathrm { r } 4 6$ 。依托ENVI5.1软件平台，遥感影像经几何校正、辐射校正等预处理，误差控制在0.5个像元，运用栅格计算器分别计算生成各类植被指数栅格图，空间分辨率均为 $3 0 \mathrm { ~ m ~ }$ 。选取6种常用的植被指数进行处理分析（张艳楠等，2012；Arekhietal.，2017)，计算公式如下：
+
+（1）差值植被指数： $\mathrm { D V I } { = } N I R – R$   
+（2）增强型植被指数： $\begin{array} { r } { \mathrm { E V I } { = \frac { 2 . 5 \times ( N I R - R ) } { N I R + 6 \times R - 7 . 5 \times E + 1 } } } \end{array}$ 2NIR+1-(2NR+1)2 -:NR-R)  
+（3）修改型土壤调整植被指数：MSAVI=2  
+（4）归一化差异植被指数： $\begin{array} { r } { \mathrm { { N D V I } } { = \frac { N I R - E } { N I R + E } } } \end{array}$ NIR  
+（5）比值植被指数： $\mathrm { R V I } = \overline { { \textit { R } } }$   
+（6）转换型植被指数：TVI=VNDVI+0.5  
+式中，NIR代表近红外波段即OLI-5， $R$ 代表红外波段即OLI-4, $B$
+
+代表蓝色波段即OLI-2。
+
+# 2.3数据统计分析
+
+根据前人对生物多样性遥感监测最佳空间尺度的研究成果（方彬等,2007;Maliheh et al.,2017)，本文DVI、IPVI、MSAVI、NDVI、RVI和TVI5种植被指数采用 $3 \times 3$ 像元（即90$\times 9 0 \mathrm { m } )$ ，EVI采用 $4 { \times } 4$ 像元（即 $1 2 0 \times 1 2 0 \mathrm { m } \cdot$ )，利用GIS空间分析工具分别对植被指数栅格图进行邻域均值统计分析。再通过样方中心点坐标提取得到每个样方所对应的植被指数值，导入SPSS 22.0进行植被指数与植物多样性之间的Pearson 相关性分析及回归分析，并建立相应的估测数学模型。通过计算估测值与实测值之间的标准误差(RMSE)、平均相对误差(MRE)、平均绝对误差(MAE)来分析研究区植物多样性遥感估测精度(Pereira etal.,2010)，进而采用最佳数学模型估测研究区植物多样性，得到研究区植物多样性的空间分布矢量数据。
+
+为探索植物多样性的空间关联特征和聚集性，采用地统计学理论中的全局空间自相关Moran'sI统计量对研究区植物多样性的空间分布特征进行表征，计算公式为
+
+$$
+\begin{array} { r } { I = \frac { \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { n } w _ { i j } ( x _ { i } - \overline { { x } } ) ( x _ { j } - \overline { { x } } ) } { S ^ { 2 } ( \sum _ { i } \sum _ { j } w _ { i j } ) } } \end{array}
+$$
+
+局部空间自相关指标常采用局部Moran's $I$ 统计量进行度量，用以准确地把握局部空间要素的聚集性和分异特征（Anselinetal.，2006)，计算公式为
+
+$$
+I _ { i } = \frac { ( x _ { i } - \bar { x } ) \Sigma _ { j = 1 } ^ { n } w _ { i j } ( x _ { i } - \bar { x } ) } { s ^ { 2 } }
+$$
+
+式中， $\mathfrak { n }$ 是空间单元数量， $\mathbf { X _ { i } }$ 和 $\mathbf { X } _ { \mathrm { j } }$ 分别表示单元 $\mathbf { i }$ 和单元 $\mathrm { ~ j ~ }$ 的观测值， $\mathbf { W _ { i j } }$ 是基于空间k邻接关系建立的空间权重矩阵， $\begin{array} { r } { S ^ { z } = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } ( x _ { i } - \bar { x } ) ^ { z } } \end{array}$ 。空间自相关分析采用GeoDa 1.6.7软件完成。
+
+# 3结果与分析
+
+# 3.1植物群落优势种
+
+从研究区各层次植物重要值排名前10位的物种来看（表1)，乔木层以椰子、印度紫檀为主要优势物种，重要值分别为 $1 0 . 5 1 \%$ 和 $8 . 4 3 \%$ ，灌木层优势物种以黄金榕、龙船花为主，草本层则以细叶结缕草、结缕草等为主要优势物种。从前10位优势物种的重要值之和来看，灌木层主要物种的优势程度要高于乔木层和草本层，其中除了鹅掌藤和福建茶为本地物种之外，其余的皆为栽培种。乔木层的本地物种种类较多，如椰子、秋枫、高山榕等，分布也较为广泛。草本层中本地种主要是牛筋草、地毯草、海芋等，其中南美蝶菊为热带恶性入侵植物。
+
+表1植物层次的主要优势种  
+
+<html><body><table><tr><td colspan="7">Table1 Major dominant species in plant level</td></tr><tr><td>重要值 前10 Top 10 of IV</td><td>乔木层 Tree layer</td><td>重要值 Important value</td><td>灌木层 Shrub layer</td><td>重要值 Important value</td><td>草本层 Herb layer</td><td>重要值 Important value</td></tr><tr><td>1</td><td>椰子 Cocos nucifera</td><td>10.51%</td><td>黄金榕 Ficus microcarpa 'Golden Leaves'</td><td>9.81%</td><td>细叶结缕草 Zoysia pacifica</td><td>13.71%</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3">印度紫檀</td><td rowspan="2">龙船花Ixora chinensis</td><td rowspan="2">8.40%</td><td rowspan="2">结缕草 Zoysia japonica</td><td rowspan="2">7.09%</td></tr><tr><td>2</td><td>Pterocarpus indicus</td><td>8.43%</td></tr><tr><td rowspan="2">3</td><td>大王棕 Roystonea regia</td><td>5.05%</td><td>散尾葵 Chrysalidocarpus</td><td>6.58%</td><td>牛筋草 Eleusine indica</td><td rowspan="2">4.67%</td></tr><tr><td>垂叶榕</td><td></td><td>lutescens 扶桑</td><td></td><td>南美蝶菊</td></tr><tr><td rowspan="2">4</td><td>Ficus benjamina</td><td rowspan="2">4.62%</td><td>Hibiscus</td><td rowspan="2">5.92%</td><td>Sphagneticola</td><td rowspan="2">4.59%</td></tr><tr><td>rosa-sinensis</td><td></td><td>trilobata 水鬼蕉</td></tr><tr><td rowspan="2">5</td><td>小叶榕 Ficus microcarpa</td><td rowspan="2">4.27%</td><td>金叶假连翘 Duranta erecta</td><td rowspan="2">4.77%</td><td>Hymenocallis</td><td rowspan="2">3.96%</td></tr><tr><td>'Golden Leaves'</td><td></td><td>littoralis</td></tr><tr><td rowspan="2">6</td><td>非洲楝 Khaya senegalensis</td><td rowspan="2">4.08%</td><td>鹅掌藤</td><td rowspan="2">4.00%</td><td>旅人蕉 Ravenala</td><td rowspan="2">3.31%</td></tr><tr><td></td><td>Schefflera arboricola</td><td>madagascariensi s</td></tr><tr><td>7</td><td>秋枫 Bischofia javanica</td><td>3.39%</td><td>三角梅 Bougainvillea glabra</td><td>3.99%</td><td>海芋 Alocasia odora</td><td>2.82%</td></tr><tr><td>8</td><td>高山榕 Ficus altissima</td><td>2.99%</td><td>朱蕉 Cordyline fruticosa</td><td>3.71%</td><td>斑茅 Saccharum arundinaceum</td><td>2.55%</td></tr><tr><td>9</td><td>黄葛榕 Ficus virens</td><td>2.91%</td><td>花叶假连翘 Duranta erecta 'Variegata'</td><td>3.53%</td><td>地毯草 Axonopus</td><td>2.44%</td></tr><tr><td>10</td><td>鸡蛋花Plumeria rubra 'Acutifolia'</td><td>2.49%</td><td>福建茶 Carmona</td><td>3.43%</td><td>compressus 鹤望兰 Strelitzia reginae</td><td>2.24%</td></tr><tr><td></td><td>重要值之和 Total</td><td>48.74%</td><td>microphylla 重要值之和 Total</td><td>54.15%</td><td>重要值之和 Total</td><td>47.37%</td></tr></table></body></html>
+
+# 3.2植被指数与植物多样性相关性分析
+
+通过对植被指数与实际调查各样点的植物多样性指数进行相关性分析，可以发现，Shannon-Wiener 多样性指数（H）、Simpson 多样性指数（D）、Pielou均匀度指数（J）与6种植被指数均呈显著正相关关系（ $P { < } 0 . 0 1 \ \cdot$ ）。其中，Shannon-Wiener 多样性指数、Simpson多样性指数和Pielou均匀度指数与植被指数相关系数排前3位的分别是MSAVI、TVI、NDVI,均在0.550 以上（表2)，说明植物多样性与植被指数之间存在较强相关性。因此，可以利用植被指数建立植物多样性监测数学模型。
+
+表2植被指数与植物多样性间的相关系数  
+
+<html><body><table><tr><td>植物多样性指数</td><td>DVI</td><td>EVI</td><td>MSAVI</td><td>NDVI</td><td>RVI</td><td>TVI</td></tr><tr><td>Plant diversity index</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>Shannon-Wiener</td><td>0.603**</td><td>0.551**</td><td>0.651**</td><td>0.620**</td><td>0.562**</td><td>0.634**</td></tr><tr><td>Simpson</td><td>0.623**</td><td>0.561**</td><td>0.668**</td><td>0.639**</td><td>0.585**</td><td>0.652**</td></tr><tr><td>Pielou</td><td>0.523**</td><td>0.470**</td><td>0.575**</td><td>0.550**</td><td>0.504**</td><td>0.561**</td></tr></table></body></html>
+
+注：\*\*表示在0.01水平上显著相关。
+
+Note:\*\* means significant correlation at O.O1 level.
+
+在相关性分析的基础上，利用相关系数最高的植被指数与植物多样性进行回归分析，分别建立一元线性回归模型（图 2)。其中 Shannon-Wiener 多样性指数的线性回归模型为 $y =$ $1 . 8 2 7 5 x + 0 . 0 4 0 8$ ，复相关系数为0.4244；Simpson多样性指数的线性回归模型为 $y = 0 . 9 5 1 3 x$ $+ 0 . 0 5 2 8$ ，复相关系数为0.4467；Pielou均匀度指数的线性回归模型为 $y = 1 . 2 2 2 5 x + 0 . 1 8 9 5$ 复相关系数为0.3310，均达到显著水平（ $( P { < } 0 . 0 1 \$ )，表明一元线性回归模型具有统计学意义。
+
+![](images/0db493828805f603cbb1b7db89569a31d50fc94827da30ede958e280d95c5ebb.jpg)  
+图2植物多样性指数与植被指数的散点图分析 Fig.2 Scatter map between vegetation index and plant diversity
+
+# 3.3植物多样性模型精度分析
+
+为了检验植物多样性估测模型的精度，基于未参与模型构建的16个验证点的估测值与实测值，对比分析两者之间植物多样性的RMSE、MAE 和 MRE(表3)。可以看出，16个样地点的 Shannon-Wiener多样性指数、Simpson多样性指数和Pielou均匀度指数估测值与实测值的均值差值分别为0.036、0.026、0.021，平均相对误差(MRE)分别为 $6 . 9 0 \% , 5 . 1 0 \% , 7 . 0 3 \%$ ，复相关系数分别为0.8871、0.8816、0.4781。结果表明，Shannon-Wiener 多样性指数和
+
+Simpson 多样性指数的拟合效果较好，Pielou 均匀度指数相对较差，但均达到显著水平（ ${ \scriptstyle P < 0 . 0 1 }$ )。因此，可以使用线性回归模型估测研究区植物多样性的空间分布。
+
+# 表3植物多样性实测值与估测模型估测值的误差
+
+Table 3 Error contrast of the observation value and the simulation value based on the estimated mode   
+
+<html><body><table><tr><td>植物多样性指数</td><td>均值差值</td><td>标准误差 (RMSE)</td><td>平均相对误差</td><td>平均绝对误差</td><td>复相关系数</td></tr><tr><td>Plant diversity index</td><td>Mean difference</td><td></td><td>(MRE)</td><td>(MAE)</td><td>R²</td></tr><tr><td>Shannon-Wiener</td><td>0.036</td><td>0.105</td><td>6.90%</td><td>0.076</td><td>0.8871</td></tr><tr><td>Simpson</td><td>0.026</td><td>0.117</td><td>5.10%</td><td>0.044</td><td>0.8816</td></tr><tr><td>Pielou</td><td>0.021</td><td>0.047</td><td>7.03%</td><td>0.091</td><td>0.4781</td></tr></table></body></html>
+
+# 3.4植物多样性空间分布
+
+从图3可以看出，Shannon-Wiener 多样性指数、Simpson 多样性指数和Pielou 均匀度指数的空间分布较为一致。研究区主城区及南渡江入海口、西部长流开发区等区域，人口分布密集，植被覆盖程度低（多为城市人工绿地)，造成该区域的植物多样性水平偏低。在研究区西南部、东部等区域，因有海口火山口次生林以及东寨港红树林等自然植被的连片分布，植被覆盖程度很高，且生长旺盛，植物多样性等级也最高。但在城乡结合部的市区南部、南渡江以东区域零散分布有耕地、块状湿地等用地类型，自然与人工覆被镶嵌分布其中，所以植物多样性居于中等水平。另外在城区中心的金牛岭公园、万绿园等地也表现出较高的植物多样性和均匀度。
+
+![](images/03066dc0cf061e6a439bd9a56245ad3a96530f28d886e898d8a6ba2b98ead881.jpg)  
+图3研究区植物多样性分级  
+Fig.3 Grades of the biological diversity in the study region
+
+# 3.5植物多样性空间自相关分析
+
+以 Shannon-Wiener多样性空间分布数据为例，作为空间自相关分析探索变量。可以看出，Moran 散点主要分布在第一象限（HH）和第三象限（LL)，第二象限（LH）和第四象限（HL）散点分布相对较少，全局Moran'sI指数为0.6912，这说明研究区 Shannon-Wiener多样性指数具有很强的空间正相关性，具有非常明显的聚集性，在空间分布上并非完全随机（图4）。
+
+从空间自相关分布图来看，直观反映了Shannon-Wiener多样性在空间聚集与分异的位置分布特征（图5)。Shannon-Wiener 多样性指数HH聚集主要分布在研究区西南部、东南部以及南部区域。LL聚集区主要出现在海口建成区以及西海岸开发区一带。在城乡结合部区域空间聚集性表现不显著（NS)。而HL 聚集和LH聚集类型则在研究区内呈零星分布。
+
+![](images/f10c6272a21f6bdced3210e9140492650b0420b7a125269f755d28a7689fab94.jpg)  
+图4Shannon-Wiener多样性指数Moran散点图
+
+Fig.4Moran scatter-plot of Shannon-Wiener diversity index
+
+![](images/dac45931d26ffa457389ba1ff6e25108ec817c222dc76dd08316752a28d994b9.jpg)  
+图5Shannon-Wiener多样性指数空间自相关聚集图
+
+Fig.5 Cluster graph of spatial autocorrelation of Shannon-Wiener diversity index
+
+# 4讨论
+
+# 4.1植物多样性估测模型
+
+利用Landsat 8遥感数据与样方实测数据分析了植被指数与植物多样性指数之间的相关性，并估测植物多样性的空间分布特征，结果表明 Shannon-Wiener 多样性指数、Simpson多样性指数和Pielou均匀度指数与MSAVI的相关系数最高，线性回归模型拟合效果较好（ $( P { < } 0 . 0 1 )$ )，具有统计学意义。梁大双（2011）在对吉林蛟河地区的森林植物多样性与植被指数之间的数学关系研究中得出，Shannon-Wiener 多样性指数与 SAVI指数（土壤调整植被指数）的相关性最好，模型在一定程度上反映出森林植物多样性状况，这与本研究得出的结论一致。
+
+众所周知，不同的地表覆被会表现出不同的遥感光谱特征，目前利用这一特征在监测生物量、蓄积量等（张艳楠等，2012；王紫君等，2016）方面应用广泛，方法较为成熟，建立遥感观测信息与地面实测数据的紧密联系从而实现二者的互补和有效结合（郭庆华等,2018;郭庆华和刘瑾，2018)，使大尺度空间监测成为可能。然而，建立遥感光谱与植物多样性间的关系模型的方法目前仍然存在一些问题（梁大双，2011)。有研究认为，引入多个空间指标因子可以明显提高回归模型的拟合精度，比如李燕军（2006）在植被指数与植物多样性的一元回归模型基础上引入坡向数据构建多元回归模型，显著提高了回归方程的拟合度。此外，高程对植物多样性指数的估测也会产生一定的负向影响，即高程增加会导致多样性的降低(梁大双，2011)。但本研究区域选择在海口市北部滨海平原区域，地势平坦，高程相差很小，因此高程因子对本研究中的植物多样性影响可忽略不计；其次，本研究中的遥感数据与样方定位均通过空间纠正处理，匹配精度满足研究需要，也为精确分析遥感植被指数和植物
+
+多样性指数之间的相关性奠定了基础。
+
+# 4.2植物多样性空间分布对区域保护的启示
+
+长期以来，生物多样性的空间分布大都是通过繁琐的野外调查和分析获取，但这种途径会消耗大量人力物力和时间，不利于规划管理者及时掌握生物多样性的时空分布和制定切实可行的生物多样性保护策略（Fallah et al.，2012；Dalmayne et al.,2013)。在保护栖息地和大量物种时，监测植物多样性已成为一个重要问题（Kiran&Mudaliar，2012)。本研究利用卫星遥感数据确定植物多样性，结合地面调查数据构建监测模型，是一种获取植物多样性分布及其在大面积上的状态的便捷方式（郭庆华等，2018；Turmeretal.，2003)；且这些数据是可更新的、标准化的和多尺度的，这在生物多样性保护和植被景观规划的有效管理和决策中发挥着重要作用，使其在大尺度生物多样性监测、制图和评估方面具有极大优势。
+
+研究结果表明，在研究区西南部区域靠近海口火山口地质公园，东部的红树林自然保护区均为植被覆盖程度最高的区域，因此植物多样性水平也随之较高，这也反映出在保护地范围内外植物多样性水平的明显差异。而在研究区南部的羊山湿地一带，湿地植物茂密且物种多样，表现出植物多样性也相对较高。此外，在海口市主城区的金牛岭公园、万绿园、人民公园等城市绿地，由于自然植被的高度覆盖也反映出较高的植物多样性水平，这与雷金睿等（2017）人对海口城市公园植物物种多样性分析的结果趋同。可见，利用估测模型得出研究区域的植物多样性空间分布状况与实际情况基本相符，预测结果可以反映海口市植物多样性的空间分布状况。
+
+其次，通过地统计学理论探讨研究区植物多样性空间自相关性，结果表现出显著的正空间自相关关系，具有非常明显的聚集性。根据空间聚类模式认为，在东寨港红树林自然保护区、火山口及其周边区域（HH聚集）建议继续实施严格的保护措施，禁止或限制建设扩张，维持高水平的植物多样性。而在研究区南部的羊山湿地区域，应当限制耕地侵占、人为破坏干扰等方式损害羊山湿地多用途功能，继续保持较高水平的植物多样性，发挥湿地蓄水、净化等多样化的生态系统服务功能。上述区域的植被生态系统也是海口市生物多样性行动计划的优先保护区域，而在部分植物多样性水平较低的区域（LL聚集）应考虑更多的生态修复工程或城市景观绿化建设，提高植被覆盖率。
+
+# 5结论与展望
+
+本研究利用Landsat8遥感影像与样方实测数据研究了海口市植物多样性的相关性及空间分布状况，结果表明，Shannon-Wiener多样性指数、Simpson 多样性指数和 Pielou均匀度指数与MSAVI、TVI、NDVI等3个植被指数的相关系数较高，均在0.550以上；以MSAVI与不同植物多样性指数建立线性回归模型，拟合效果较好，且均通过显著性检验（ $_ { _ { P < 0 . 0 1 } } )$ )，说明回归方程具有统计学意义。通过最优模型预测研究区植物多样性结果与实际情况相符，表明本估测模型具有科学性与可靠性，证明利用遥感数据可快速有效地监测海口市植物多样性水平。根据研究结果建议继续实施严格的保护措施，加强城区的生态修复与保护工程，提高植被覆盖率和生物多样性水平。这对于植物多样性遥感监测、区域保护发展和维护生态安全具有重要的实践意义，也是海南岛生物多样性遥感监测与保护的有益探索。同时也应当注意的是，生态学和地理学的特征及现象常伴随着复杂的尺度效应，如何更科学的确定植被指数的空间尺度还有待于进一步研究。此外，引入其他空间指标（如高分辨率的遥感影像、土壤类型等）继续提高植物多样性预测精度也应当是今后重点研究的方向之一。
+
+参考文献：   
+ANSELIN L, SYABRI I, KHO Y, 2006. GeoDa: An introduction to spatial data analysis[J]. Geogr Anal, 38(1): 5-22.   
+AREKHI M, YILMAZ O Y, YILMAZ H, et al., 2017. Can tree species diversity be assessed with Landsat data in a temperate forest? [J]. Environ Monit Assess,189:586.   
+CAYUELA L, BENAYAS JMR, JUSTEL A, et al., 2006. Modelling tree diversity in a highly fragmented tropical montane landscape[J]. Global Ecol Biogeogr, 15: 602-613.   
+CHEN L, WANG XG, 2OO8. Biodiversity and forest ecosystem health: Some key questions [J]. Chin JEcol，27(5):816-820.[陈亮，王绪高，2008．生物多样性与森林生态系统健康的几 个关键问题[J]．生态学杂志,27(5):816-820.]   
+CHEN Q, CHEN YF, LI SD,et al.， 2O16.Research on Plant Species Diversity in Estuarine Wetland of Hangzhou Bay Based on the GF-1 Satelite and in Situ Data [J]. J Nat Resour, 31(11):1938-1948.[程乾，陈奕霏，李顺达，等，2016.基于高分1号卫星和地面实测数据 的杭州湾河口湿地植物物种多样性研究[J]．自然资源学报,31(11):1938-1948.]   
+DALMAYNE J,MOCKEL T, PRENTICE H C, et al.， 2013. Assessment of fine-scale plant species beta diversity using WorldView-2 satellite spectral dissimilarity[J]. Ecol Inform,18: 1-9.   
+DURO D C, GIRARD J, KING D J,et al., 2014. Predicting species diversity in agricultural environments using Landsat TM imagery[J]. Remote Sens Environ,144: 214-225.   
+FAIRBANKS D H K, MCGWIRE K C， 2004. Patterns of floristic richness in vegetation communities of California: Regional scale analysis with multi-temporal NDVI[J]. Global Ecol Biogeogr,13: 221-235.   
+FALLAH C,MOZAFFAR S B,& HASHEMI S A, 2012. Probability measurement to estimate forest tree diversity using IRS-p6 satellite images in Caspian broad leaved forests[J]. ARPN J Agr Biol Sci, 7: 238-243.   
+FANG B, CHEN B, ZHANG Y, 20O7. Research on Scale Selection and Mapping of Inspecting Biologic Diversity Using Remote Sensing[J]. Geogr Geo-Infor Sci,23(6):78-81.[方彬，陈波, 张元，2007．生物多样性遥感监测尺度选择及制图研究[J]．地理与地理信息科学, 23(6):78-81.]   
+GOTTSCHALK T, HUETTMANN F, EHLERS M, 2005. Review article: Thirty years of
+
+analysing and modelling avian habitat relationships using satelite imagery data: A review[J].
+
+Int J Remote Sens, zo: z631-2656.   
+GRIFFITHS G, LEE J, 2Ooo. Landscape patern and species richness: Regional scale analysis from remote sensing[J]. Int JRemote Sens, 21: 2685-2704.   
+GUO QH, HU TY, JIANG YX,et al.， 2018. Advances in remote sensing application for biodiversity research [J].Biodivers Sci,26(8):789-806.[郭庆华，胡天宇，姜媛茜，等,2018. 遥感在生物多样性研究中的应用进展[J]．生物多样性,26(8):789-806.]   
+GUO QH,LIU J,2O18. Remote sensing has become an indispensable technology for biodiversity research protection and change monitoring [J]. Biodivers Sci, 26(8): 785-788.[郭庆华，刘 瑾，2018．遥感已经成为生物多样性研究保护与变化监测不可或缺的技术手段[J].生物 多样性,26(8): 785-788.]   
+HE RX,2O16. Impacts of urbanization on plant diversity: a case study of Haikou city [D]. Haikou: Hainan University.[何荣晓,2016.城市化对植物多样性的影响：以海口市为例[D]．海口: 海南大学.]   
+HU HD,LI XY, DU F, et al., 2012. Research advances in biodiversity remote sensing monitoring [J].ChinJEcol,31(6):1591-1596.[胡海德，李小玉，杜宇飞，等,2012．生物多样性遥感 监测方法研究进展[J]．生态学杂志,31(6):1591-1596.]   
+KERR J T, SOUTHWOOD T, CIHLAR J， 2001. Remotely sensed habitat diversity predicts butterfly species richness and community similarity in Canada[J]. P Natl Acad Sci USA, 98: 11365.   
+KIRAN G S, MUDALIAR A, 2012. Remote sensing & geoinformatics technology in evaluation of forest tree diversity[J]. Asian JPlant Sci Res,2: 237-242.   
+KOPONEN S, ULLININEN J, 2002. Lake water quality classification with airborne hyperspectral spectrometer and simulated MERIS data [J]. Remote Sens Environ, 79: 51-59.   
+LANGFORD W T, GERGEL S E, DIETTERICH T G, et al., 2006. Map misclassification can cause large errors in landscape pattern indices: Examples from habitat fragmentation[J]. Ecosystems, 9: 474-488.   
+LEI JR, CHEN ZZ, YAGN Q, et al., 2O17. GIS-Based Gradient Analysis of Urban Landscape Pattern of Haikou [J].JNW For Univ,32(3):205-210.[雷金睿，陈宗铸，杨琦，等,2017．基 于GIS 的海口市景观格局梯度分析[J]．西北林学院学报,32(3):205-210.]   
+LEI JR, SONG XQ, CHEN ZZ, 2017. Analysis on Plant Community Diversity in Haikou City Parks[J]. J SW For Univ, $3 7 ( 1 ) { : 8 8 - 9 3 + 1 0 3 . } |$ 雷金睿，宋希强，陈宗铸,2017．海口城市公园 植物群落多样性研究[J]．西南林业大学学报, $3 7 ( 1 ) { : 8 8 - 9 3 + 1 0 3 } . ]$   
+LI YJ,2006.vegetation index screening and remote sensing monitoring model of species diversity[D].Lanzhou: Gansu Agricultural University.[李燕军,2006．植被指数筛选与物种
+
+多样性遥感监测模型研究[D]．兰州：甘肃农业大学.]
+
+LI ZZ,YOU HM, WANG ZY, 2018. Multi-scale effects of urban landscape pattern on plant diversity in Xuzhou City，Jiangsu Province，China [J]. Chin J Appl Ecol,29(6): 1813-1821.[李祖政，尤海梅，王梓懿，2018．徐州城市景观格局对绿地植物多样性的多 尺度影响[J]．应用生态学报,29(6):1813-1821.]   
+LIANG DS, 2011. Application research on remote sensing monitoring of forest plant diversity [D]. Beijing:BeijingForestryUniversity.[梁大双，2011．森林植物多样性遥感监测应用研究 [D]．北京：北京林业大学.]   
+LIU LX, PANG Y,REN HB, et al., 2O19. Predict Tree Species Diversity from GF-2 Satellite Data in a Subtropical Forest of China [J]. Sci Silva Sin, 55(2):61-74.[刘鲁霞，庞勇，任海保，等, 2019.基于高分 2 号遥感数据估测中亚热带天然林木本植物物种多样性[J]．林业科学, 55(2):61-74.]   
+MALIHEH A, OSMAN Y Y, HATICE Y, et al., 2017. Can tree species diversity be assessed with Landsat data in a temperate forest? [J]. Environ Monit Assess,189: 586.   
+OINDO B O, SKIDMORE A K, 2OO2. Interannual variability of NDVI and species richness in Kenya[J]. Int JRemote Sens,23: 285-298.   
+PEREIRA P, OLIVA M, BALTRENAITE E, 2010. Modelling extreme precipitation in hazardous mountainous areas. Contribution to landscape planning and environmental management[J]. J Environ Eng Landsc,18: 329-342.   
+TURNER W, SPECTOR S, GARDINER N, et al.,2OO3. Remote sensing for biodiversity science and conservation[J]. Trends in Ecol Evol,18: 306-314.   
+WANG ZJ, SHEN GR, ZHU Y, et al., 2O16. Research on characteristics of biomass distribution in urban forests of Shanghai metropolis based on remote sensing and spatial analysis [J]. Chin J Plant Ecol,40(4):385-394.[王紫君，申广荣，朱赞，等，2016．基于遥感和空间分析的上 海城市森林生物量分布特征[J]．植物生态学报,40(4):385-394.]   
+XU WT，WU BF, 2005. Progress on measuring forest biodiversity with remote sensing technique[J].Acta Ecol Sin,25(5):1199-1204.[徐文婷，吴炳方,2005．遥感用于森林生物 多样性监测的进展[J]．生态学报,25(5):1199-1204.]   
+YAN F, LI MS,WANG YJ, et al., 2006. Application of remote sensing technique tomonitor agricultural disasters [J].JNat Disaster,15(6):132-136.[闫峰，李茂松，王艳姣，等,2006. 遥感技术在农业灾害监测中的应用[J]．自然灾害学报,15(6):132-136.]   
+YANG XJ, JIANG ZL, DAI GQ, et al., 1998. The Study on Comparing the Biodiversity of the Main Forest Types in South Province[J]. Chin JEcol, 17(6):14-17.[ 杨学军，姜志林，戴国 钦，等，1998．苏南主要森林类型的生物多样性调查与比较研究[J]．生态学杂志, 17(6):14-17.]   
+ZHANG L, OUYANG ZY, XIAO Y, et al., 2O11. Priority areas for biodiversity conservation in Hainan Island: Evaluation and systematic conservation planning [J]. Chin J Appl Ecol, 22(8): 2105-2112.[张路，欧阳志云，肖燚，等，2011．海南岛生物多样性保护优先区评价与系统 保护规划[J]．应用生态学报,22(8):2105-2112.]   
+ZHANG YN, NIU JM, ZHANG Q, et al.,2012. A discussion on applications of vegetation index for estimating above ground biomass of typical steppe [J]. Acta Pratacult Sin,21(1): 229-238.[张艳楠，牛建明，张庆，等，2012．植被指数在典型草原生物量遥感估测应用中 的问题探讨[J]．草业学报,21(1):229-238.]   
+ZHOU B, ZHENG XX, ZHONG Y, et al., 20O2. Synthetic indices for stand species diversity [J]. J Beijing ForUniv,24(2):22-26.[周彬，郑小贤，钟艳，等,2002．林分物种多样性指标体系 的研究[J]．北京林业大学学报,24(2):22-26.]

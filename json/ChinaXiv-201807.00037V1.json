@@ -1,0 +1,301 @@
+[
+    {
+        "type": "text",
+        "text": "Performanceofdifferentdrought indices for agriculture drought in the North China Plain ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Xianfeng1\\*, ZHU Xiufang², PAN Yaozhong², BAI Jianjun1,LI Shuangshuang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1School of Geography and Tourism, Shaanxi Normal University, Xi'an 710119, China;   \n2InstituteofRemoteSensingScienceandEngineering,FacultyofGeograpical Sciences,BeijingNormal UniversityBeijing 100875,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The Palmer drought severity index (PDSI)， standardized precipitation index (SPI)，and standardized precipitation evapotranspiration index (SPEI) are used worldwide for drought assessment and monitoring. However,substantial differences exist in the performance for agricultural drought among these indices and among regions. Here, we performed statistical assessments to compare the strengths of diferent drought indices for agricultural drought in the North China Plain. Small differences were detected in the comparative performances of SPI and SPEI that were smallr at the long-term scale than those at the short-term scale. The correlation between SPI/SPEI and PDSI considerably increased from 1- to 12-month lags,and a slight decreasing trend was exhibited during 12- and 24-month lags,indicating a 12-month scale in the PDSI, whereas the SPI was strongly correlated with the SPEI at 1- to 24-month lags. Interestingly,the correlation between the trend of temperature and the mean absolute error and its corelation coeficient both suggested stronger relationships between SPI and the SPEI in areas of rapid climate warming. In addition,the yield-drought correlations tended to be higher for the SPI and SPEI than that for the PDSI at the station scale, whereas small diferences were detected between the SPI and SPEI in the performance on agricultural systems. However,large differences in the influence of drought conditions on the yields of winter wheat and summer maize were evident among various indices during the crop-growing season. Our findings suggested that multi-indices in drought monitoring are needed in order to acquire robust conclusions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:agriculture drought;Palmer drought severity index；standardized precipitation index；standardized precipitation evapotranspiration index;North China Plain ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Drought, one of the most severe and frequently occurring natural hazards with diverse geographical and temporal distributions,imposes substantial damages and challenges to ecosystems and human society (Hao and Singh,2O15; Jiang et al.,2O15). Drought may affect a wide variety of sectors such as economic, agricultural, ecological, and environmental processes worldwide (Du et al., 2O13). The large spatial coverage and long-duration characteristics make drought one of the most widespread and costliest natural disasters (Potopova et al.，2015). Generally, drought is initially caused by deficiencies in precipitation for a particular period in association with global climatic circulation patterns (Nichol and Abbas， 2O15).Meanwhile, regional drought can cause global impacts such as fluctuation in global food prices induced by drought (Wegren, 2O11). These issues highlight the importance of agricultural drought monitoring (AghaKouchak et al., 2O15). Therefore, timely and accurate monitoring of drought severity is an important means for water management and drought mitigation efforts (Mishra and Singh, 2010; Mu et al.,2013).As reported by Wilhite and Glantz (1985),droughts are classified into four categories， i.e.， meteorological， agricultural， hydrological， and social economic droughts. Meteorological drought is a precipitation deficit caused by atmospheric evaporation; agricultural drought is related to soil moisture deficits; hydrological drought is related to deficits in surface and subsurface water； and social-economical drought refers to the influence of meteorological drought on the socio-economical system (Hao et al., 2015). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Drought is considered to be the most complex of all natural hazards (Dai，2011). Temporal-spatial identification is difficult owing to the challenges in identifying the moments of beginning and ending of a drought and in quantifying its magnitude,duration, and spatial extent (Vicente-Serrano et al.，2Ol2). Thus,numerous indices have been developed as universally accepted tools used to quantify drought impact (Heim, 2O02). Several indices are widely used for regional- to global-scale drought assessment and monitoring. For example,the Palmer drought severity index (PDSI) that derived from precipitation and temperature has been widely used for drought monitoring and assessment (Palmer，1965；Alley,1984). This index is based on the demand and supply of the water balance model to measure both wetness (positive values） and dryness (negative values) (Wells et al., 2O04). However, a major limitation of PDSI is its fixed time scales and incomparable parameters across different areas (Alley,1984). The standardized precipitation index (SPI) (McKee et al.，1993） is recommended by the World Meteorological Organization as a standard drought monitoring index for meteorological drought monitoring and analysis.The principle of the SPI is based on conversion of the precipitation data to probabilities by using gamma distribution,the results of which are then used to determine the intensity, duration,and frequency of drought at given time scale.The common advantage of the SPI is its multi-temporal character. Such a feature is essential for assessing drought impacts owing to its flexibility and ease in operation in practical drought monitoring.However, the main criticism of the SPI is that its calculation is based on only precipitation data. The recently developed standardized precipitation evapotranspiration index (SPEI） (Vicente-Serrano et al.， 2O1O) has been claimed to outperform the two previous indices (Vicente-Serrano et al.，2012).Both the sensitivity of the PDSI to changes in evaporation demand caused by temperature and simplicity of calculation and the multi-temporal nature of the SPI are considered in the SPEI framework. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It should be noted that the aforementioned drought indices have likely led to differences in values and change patterns caused mainly by dataset availability and resolution,particularly at relatively small scales (Dai, 2O13). As a result, high uncertainty may exist in selecting a single drought index for a specific purpose (Vicente-Serrano et al.,2O12). Therefore, it is essential to choose solid and objective criteria for selecting a drought index to be used for a specific task. Recently, great efforts have been made to meet the need for more accurate evaluations for better decision making in drought mitigation and the use of various objective indices.However, very few studies have performed robust statistical assessments by comparing the strengths of various drought indices for agricultural drought. Vicente-Serrano et al. (2Ol2） provided a global assessment of the performance of different drought indices for monitoring drought impacts on several hydrological， agricultural， and ecological response variables. Zhai et al. (2010) investigated the spatial variation and trends in PDSI and SPI and their relationship to stream flow in 10 large regions of China. Potop (2O11) compared different indices to assess drought impacts on cor yield in Moldova. Mavromatis (2O1O) evaluated several drought indices for their abilities to monitor soil moisture. Yang et al.(2O17） determined the regional applicability of seven meteorological drought indices in China. Additionally， other studies have compared drought indices to assess the responses of vegetation activity, tree-ring characteristics, and fire frequency (Kempes et al., 2008; Quiring and Ganesh, 201O; Drobyshev et al., 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To our knowledge, few studies have compared the performances of PDSI, SPI, and SPEI on agricultural drought in the North China Plain (NCP). It should be noted that the NCP is major grain production area and thus plays a key role in food security. Such a comparison is necessary to obtain solid and objective criteria for selecting drought indices to be used for a specific purpose. Therefore,the primary purpose of this study is to analyze the performance of the aforementioned widely used drought indices for agricultural drought in the NCP.To achieve this objective, several steps are performed.First, we analyze the consistency among the three indices,and we calculate their correlation coefficients. Next， we discuss the influence of ongoing warming on the relationship between the SPI and SPEI. Finally，we calculate the correlation coefficient of each drought index and the crop yield of both winter wheat and summer maize. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The NCP, formed mainly by the Yellow, Huaihe, Haihe,and Luanhe rivers, is the second largest plain in China (Fig.1).Owing to its flat terrain and fertile soil,the NCP is the main production area of food crops, with winter wheat and summer maize rotation as the main cropping pattern (Hu et al.,2O1O). The cultivated land area in the NCP accounts for $2 7 . 9 \\%$ of the total arable land in China. The climate of the NCP is warm temperate semi-humid continental monsoon,and the precipitation is between 40o and $6 0 0 ~ \\mathrm { { m m } }$ , occurring mainly in summer. Significant inter-annual and intra-annual variations of precipitation also exist,resulting in frequent drought and flooding in this region. With an occurrence of 9 times in 10 years (Hu,2O13), drought severely affects the agricultural production and is the most prominent natural hazard in this region. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9aafa7a9e0c8f0dfe42e3ddda625bef8da3b171ab459afc4645731a96321b723.jpg",
+        "img_caption": [
+            "Fig.1Study area and meteorological station distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Datasets ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Meteorological data of 60 meteorological stations in the NCP during 1980-2013,consisting of daily mean temperature,daily maximum temperature， daily minimum temperature,relative humidity， sunshine hours，wind speed，and precipitation，were collcted from the China Meteorological Data Sharing Service System (htp://data.cma.gov.cn/).In addition, soil data, such as soil water content, were derived from the Institute of Soil Science, Chinese Academy of Sciences.We used precipitation data to obtain SPI,and other climate data variables to calculate PET based on the PM model. Then,we calculated SPEI on the basis of precipitation and PET (Vicente-Serrano et al.,2O1O).We obtained PDSI on the basis of all climate and soil datasets (Palmer,1965). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To determine the performances of the various drought indices for agricultural drought, we used crop yield data to reflect the strengths of the indices in monitoring agricultural drought. Crop yield data of winter wheat and summer maize from 12 agricultural meteorological stations were collcted from the China meteorological data network (http://ata.cma.gov.cn） covering the period 20oo-2O13. Only stations that recorded both meteorological and yield datasets with a minimum time series of 1O years were selected in this study. Based on these criteria, we extracted 12 stations over the NCP for assessing the performance of drought indices on winter wheat yield variability,and we only selected 5 stations for summer maize. It should be noted that the scarcity datasets highlight the challenges involved in developing this type of research. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Pearson's correlation analysis was employed to examine the correlation among drought indices as well as their relationships with crop yield.The correlation coeficients from 1- to 24-month lags of the SPI and SPEI were calculated to reflect the different responses of crop yield to drought events.In the analysis,the crop yield data were detrended by using the Z-score method to eliminate the influence of non-climatic factors, such as improved technologies for crop production and field management (Mavromatis, 2Oo7). Moreover, to compare the results of the different crops,we further standardized the time series records of the winter wheat and summer maize yields.The drought indices time series of SPI, SPEI,and PDSI were also detrended in the correlation analysis in order to focus analysis on correlation in inter-annual variability. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To investigate the influence of climate warming on the differences between the SPI and SPEI, we first calculated the trend of temperature (TEM） for all meteorological stations during 1981-2014.Then, the mean absolute error (MAE) between the SPI and SPEI was also calculated. Finally，we performed correlations between the TEM and MAE，and between the TEM and correlation coefficients(CC） of the SPI and SPEI. Additionally，in order to investigate the performance of different drought indices for agriculture drought, the variation in crop yield as an indicator of drought influence,and we correlated the detrended crop yield and the PDSI,as well as 1- to 24-month SPI and SPEI. It should be noted that we separated the crops of winter wheat and summer maize in the processing analysis to compare the possible diffrences of drought indices on different crops. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3Results and discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Comparisons of SPI, SPEI, and PDSI ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To compare the performances of various drought indices on drought events，we analyzed the monthly time series of the SPI, SPEI with 1-,3-,6-,and 12-month lags,and PDSI for all stations during 1981-2014 (Fig.2). The root mean square error (RMSE) of the differences between SPI and SPEI decreased as time scale increased, indicating that SPI and SPEI at long-term scale reflect long-term water deficit conditions in a certain region that is free of the influence of short-term climate variability. Conversely,the short-term drought indices revealed a near-term water deficit condition and were more apt to be affected by weather such as temperature increases or precipitation deficits. In addition，the differences among the PDSI， SPI, and SPEI were compared only for the 12-month lag because the PDSI has a fixed scale of 9-12 months (Jiang et al.,2015). Although all drought indices were able to detect the main drought events in the NCP during the recent 3O years,certain differences were identified in drought intensity derived by the PDSI and SPI as well as those by the PDSI and SPEI (Fig. 2).For example,the drought events in 2002 and 2O14 were more clearly detected by the PDSI than the other two drought indices. It should be noted that although the SPI and SPEI have smaller differences and more flexible time scales than the PDSI, the principle of SPEI is more clear and robust because it combines both principles of SPI and PDSI. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 Correlation analysis between paired drought indices ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the Pearson's correlations between the detrended PDSI and 1- to 24-month detrended SPI and SPEI during 1981-2O14 for all stations.The correlation between SPI and PDSI increased considerably from lags of 1 month to 12 months,and a slight decreasing trend was exhibited during 12- and 24-month lags (Fig. 3a). These results suggest that the PDSI can effectively reflect the conditions of a 12-month water deficit. The same pattern was also detected in the correlation between the SPEI and PDSI (Fig.3b).The SPI was strongly correlated with the SPEI at lags of 1 to 24 months,with a mean correlation coefficient above 0.9O for all available stations in the NCP. It should be noted that the error bar in Figure 3c,expressed in terms of standard deviation, gradually decreased from 1- to 12-month lags,which further demonstrates the result shown in Figure 2b. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d043f1fd8ec88710be26f0eb91169f4cbba93b6c82abd74b6db9ad9710f3a53.jpg",
+        "img_caption": [
+            "Fig.2Drought evolution of the standardized precipitation index (SPI)，standardized precipitation evapotranspiration index (SPEI),and Palmer drought severity index (PDSI) in the North China Plain (NCP) during 1981-2014(a) and the root mean square error (RMSE)of the diffrence between SPI and SPEI at the 1- to 12-month scale (b).The red color indicates drought episode, whereas blue color indicates wet episode. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3Responses of SPI and SPEI to climate warming ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A negative correlation was detected between the TEM and MAE, indicating a stronger correlation between them in areas of rapid climate warming; and the determination coefficient $( R ^ { 2 } )$ was 0.203 (Fig.4a). This phenomenon was also identified in the correlation between the TEM and CC, with an $R ^ { 2 }$ of 0.182 (Fig. 4b). To compare the detailed differences in different areas,we conducted the same experiment in Hebei, Henan,and Shandong provinces (Fig.1). The $R ^ { 2 }$ values of the TEM and MAE were O.298 and O.274 in Hebei and Henan provinces,respectively, whereas those of the TEM and CC for these two provinces were 0.228 and 0.315,respectively. It should be noted that this phenomenon was not obvious in Shandong Province (data not shown). Our findings are in contrast to previous conclusions in which the SPI exhibited increasing differences with the SPEI when the temporal trends of temperature were conspicuous (Vicente-Serrano et al., 2O1o; Jiang et al.,2015). This result occurred likely because the precipitation deficit is the dominant factor to cause drought in the NCP,and the temperature has a limited contribution to drought evolution. Moreover, the contribution of temperature in areas of rapid climate warming is smaler than that in inconspicuous warming regions. However, a better-designed experiment would allow the acquisition of more robust conclusions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/12113d7ab5639b34625f4cc857d5ccd35bd3e1a9877e993f9f0c906522a12951.jpg",
+        "img_caption": [
+            "Fig.3Corelation among three drought indicesat 1-month lag to 24-month lag.Bars indicate standard deviation. ",
+            "Fig.4Relationship between trend of temperature and mean absolute error (a)and correlation coeficient (b)of SPEI and SPI "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.5- (a) 1.00 (b) Slope: 0.409 0。 8 。 。 。 。 。 0.96-   \n0.3- 。 。 。 。 Sloep:-.35 。 0880 % 0.94 o一。 °。 8 80   \n0.2 000 。 6 0   \n0.1 R²-0.203 0.90 。   \n0.00.4 -0.2 0.0 0.2 0.4 0.6 0.8 0.88-0.4 -0.2 0.0 0.2 0.4 0.6 0.8 Trend of temperature Trend of temperature ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 Correlation analysis among drought indices and crop yield ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "At the regional scale,large differences were detected between the results from PDSI and those from multi-scale SPI and SPEI. In terms of winter wheat, small differences were identified from January to May at 9- to 12-month lags,as well as from October to December at 4- to 6-month lags. In addition, the correlation coefficients from SPEI and SPI were lower than that from PDSI from October to December at the middle and long-term scales.For summer maize,the correlation between the detrended summer maize yield and detrended PDSI was highly consistent with the results from SPI and SPEI in July at the 2-month lag and in August at the 3-month lag, respectively.Moreover, the correlation coefficients of SPI and SPEI derived from the 1-month lag in June, 4-month lag in September,and 5-month lag in October were all higher than that for PDSI (Fig. 5). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/220ca3c4fa59081f6cb95f733b0b948006434a2ff17608dcdbc6f74301e2c36d.jpg",
+        "img_caption": [
+            "Fig.5Correlation coefficients between detrended drought indices and detrended crop yields during winter wheat growing season (a) and summer maize growing season (b) in the North China Plain (NCP) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Station scale analysis of the correlation between the detrended crop yield and detrended drought indices was also performed for the 12 agricultural meteorological stations with minimum data records of 1O years.It is worth noting that the boxplots of the SPI and SPEI were retrieved by the maximum correlation coefficient from 1- to 24-month lags.In contrast to the results from the regional scale,we found that the yield-drought correlations tended to be higher for the SPI and SPEI than for the PDSI at the station scale,whereas small differences between the SPI and SPEI in their performance on agricultural drought were detected.In addition,large differences in the influence of drought conditions on winter wheat and summer maize yields were evident among diferent months.During the winter wheat growing season,the correlation coeficients (CCs) obtained from the SPI and SPEI were mainly around 0.6 from October to April and around 0.5 in May before sharply decreasing to around O.3 in June. This result occurred because winter wheat almost completed its growth cycle in June and did not have a great demand for moisture. The same pattern was detected by the CCs obtained from the PDSI and winter wheat yield such that the CCs from January to May were higher than those in other months,with the highest in April. This result is consistent with the key growth stages for winter wheat according to the phenological calendar (Fig. 6).In terms of summer maize growing season, the CCs between summer maize yield and the SPI and SPEI decreased continuously from June to October, whereas the greatest CCs between summer maize yield and the PDSI were observed in July (Fig.7). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It should be noted that although significant influences of the demand of atmospheric evaporation have been widely reported (Vicente-Serrano et al., 2O12), the results of the current study highlighted the diferences in analyzed system and spatial location. Additionally, the magnitudes of the correlations among crop yield and drought indices clearly showed that the SPI and SPEI are most capable of monitoring the agricultural drought conditions in the NCP. However, our findings do not imply that the PDSI is not useful for some purposes; this index is still used worldwide to assess drought conditions in agricultural and hydrological applications. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study, we performed statistical assessments to compare the strengths of different drought indices including SPEI, SPI,and PDSI for agricultural drought in the North China Plain. Our results indicated that smal differences were detected in the comparative performances of the SPI and SPEI that were smaler at the long-term scale than those at the short-term scale.The correlation between the SPI and PDSI increased considerably from 1- to 12-month lags,and a slight decreasing trend was exhibited during 12- and 24-month lags,indicating a 12-month scale in the PDSI, whereas the SPI was strongly correlated with the SPEI at 1- to 24-month lags. Our results also suggested stronger relationships between the SPI and SPEI in areas of rapid climate warming.More importantly, the yield-drought correlations tended to be higher for the SPI and SPEI than that for the PDSI at the station scale, whereas small differences were detected between the SPI and SPEI in the performance on agricultural systems.However, large differences in the influence of drought conditions on the yields of winter wheat and summer maize were evident among the various indices during the crop-growing season. Our findings suggested that multiindices in drought monitoring are needed in order to acquire robust conclusions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b030df7085dfe23691bf4cf0c3e09bf67ed89b0c62cfd24fb709462413e0e5bc.jpg",
+        "img_caption": [
+            "Fig.6Correlation coefficients between detrended drought indices and detrended winter wheat yield during winter wheat growing season (October of the former year to June of the current year).The upper and lower boundaries of the box denote the upper and lower quartiles,respectively.The line in the box denotes the median, the lines outside the box denote the upper and lower limits,and $^ +$ denotes the outlier of the dataset. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fd64e7273553ec54fb23cc1e7326c3f8ae2c00e325cccbccfa599172ba818fa.jpg",
+        "img_caption": [
+            "Fig.7Correlation coefficients between detrended drought indices and detrended summer maize yield during summer maize growing season (June to October of the current year).The upper and lower boundaries of the box denote the upper and lower quartiles,respectively.The line in the box denotes the median,the lines outside the box denote the upper and lower limits,and $^ +$ denotes the outlier of the dataset. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Fundamental Research Funds for the Central Universities (GK2O1703049)and he Major Project of High Resolution Earth Observation System,China. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AghaKouchak A,FarahmandA,MeltonFS,etal.2O15.Remote sensingof drought: progres,challengesandopportunities. Reviews of Geophysics,53(2):452-480.   \nAlley WM.1984.The palmer drought severity index:limitationsandassumptions.Journal of Climateand Applied Meteorology,23(7): 1100-1109.   \nDai AG 201.Drought under global warming: areview.Wiley Interdisciplinary Reviews: Climate Change,2(1):45-65.   \nDai AG2013.Increasing drought under global warming in observationsand models.Nature Climate Change,3(1):52-58.   \nDrobyshevI,NiklassonM,LinderholmHW.2Ol2.ForestfireactivityinSweden:climaticcontrolsandgeographicalpens in $2 0 ^ { \\mathrm { t h } }$ century. Agricultural and Forest Meteorology,154-155: 174-186.   \nDuLT,TianQJ,Yu T,etal.2013.Acomprehensive drought monitoring method integrating MODISand TRMM data. International Journal of Applied Earth Observation and Geoinformation,23: 245-253.   \nHao C,ZhangJH,YaoFM.2Ol5.Combinationof multi-sensorremote sensingdatafordrought monitoringover Southwest China.International Journal of Applied Earth Observation and Geoinformation,35: 270-283.   \nHao ZC,Singh VP.2O15.Drought characterization from a multivariate perspective:a review.Journal of Hydrology,527: 668-678.   \nHeimRR Jr.2O02.Areview of twentieth-century drought indices used in the United States.Buletinof the American Meteorological Society, 83(8):1149-1166.   \nHu S,MoXGLinZH,etal.20l.Emergyassssmentofawheat-maizerotationsystem withdifferent wateraignts in the North China Plain.Environmental Management,46(4): 643-657.   \nHu YN.2O13.Droughtrisk assessment of winter wheat and summer maize rotation planting regionin North China Plain.PhD Dissertation.Beijing:Chinese Academy of Agricultural Sciences.(in Chinese)   \nJiangRG, XieJC,HeHL,etal.2O15.Useoffourdrought indices forevaluatingdroughtcharacteristicsunderclimatechange in Shaanxi,China:1951-2012.Natural Hazards,75(3): 2885-2903.   \nKempes CP,MyersOB,Breshears DD,etal.2O08.ComparingresponseofPinusedulis tree-ring growth to fivealterate moisture indices using historic meteorological data. Journal of Arid Environments,72(4): 350-357.   \nMavromatis T.2OO7.Drought indexevaluation forassessing future wheat production in Greee.InternationalJournalof Climatology, 27(7): 911-924.   \nMavromatis T.2O10.Use of drought indices in climate change impact assessment studies:anapplication to Greece. International Journal of Climatology,30(9): 1336-1348,doi: 10.1002/joc.1976.   \nMcKeeTB,DoeskenNJ,KleistJ.1993.Therelationshipofdroughtfrequencyanddurationtotimescales.In:Proceedingsof the $8 ^ { \\mathrm { t h } }$ Conference on Applied Climatology. Anaheim, CA: American Meteorological Society.   \nMishra A K, Singh VP.2010.A review of drought concepts.Journal of Hydrology,391(1-2): 202-216.   \nMu QZ,Zhao MS,Kimball JS,etal.2O13.Aremotelysensed global terrstrial drought severity index.Buletinof the American Meteorological Society, 94(1): 83-98.   \nNicholJE,Abbas S.2O15.Integrationofremote sensing datasets forlocalscaleassessmentand predictionof drought.cience of the Total Environment, 505: 503-507.   \nPalmer W C.1965.Meteorological Drought.Washington: US Department of Commerce,Weather Bureau.   \nPotop V.2011.Evolutionof droughtseverityand its impact oncorn intheRepublicof Moldova.Theoreticaland Applied Climatology, 105(3-4): 469-483.   \nPotopova V,Stepanek P,MoznyM,etal.2O15.Performanceof thestandardised precipitation evapotranspiration indexat various lags for agricultural drought risk assssment inthe Czech Republic.Agricultural andForest Meteorology，202: 26-38.   \nQuiringSM,Ganesh S.2O10.Evaluating theutilityof theVegetation Condition Index(VCI) formonitoring meteorological drought in Texas.Agricultural and ForestMeteorology,150(3):330-339.   \nVicente-Serrano SM,BegueriaS,López-MorenoJI.20l0.Amultiscalardrought index sensitive to global warming:the standardized precipitation evapotranspiration index.Journal of Climate,23(7):1696-1718.   \nVicente-SerranoS,egueria,Lornz-LacruzJ,etal2.Performanceofdroughtindicesforcological,gricultral and hydrological applications.Earth Interactions,16(1O):1-27.   \nWegren S K.2Ol1.Food securityand Russia's 2O10 drought.Eurasian Geography and Economics,52(1):140-156.   \nWells N,GoddardS,Hayes MJ.24.Aself-calibratingpalmerdroughtseverityindex.JouralofClimate,7(12):25-2351.   \nWilhiteDA,GlantzMH.985.Understanding:thedroughtphenomenon:theroleof definitions.WaterInternational,0(3): 111-120.   \nYang Q,LiMX,Zheng ZY,etal.2017.Regionalaplicabilityofseven meteorological droughtindices inChina.Science China Earth Sciences,60(4): 745-760.   \nZhai JQ,SuBD,KrysanovaV,etal.2Oo.SpatialvariationandtrendinPDSIandSPIindicesandtheirrelatiotostreamflow in 10 large regions of China. Journal of Climate,23(3): 649-663. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,538 @@
+[
+    {
+        "type": "text",
+        "text": "硫辛酸和敌草快对育肥猪生长性能、血浆和空肠氧化还原状态及空肠细胞凋亡的影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 鲍伟光」顾宪红1,2郝月²崔艳军² 王占彬1\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （1.河南科技大学动物科技学院，洛阳471003；2.中国农业科学院北京畜牧兽医研究所，动物营养  \n4 学国家重点实验室，北京100193)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文旨在研究硫辛酸（LA）和敌草快（diquat）对育肥猪生长性能、血浆和空肠氧化还原状态及空肠细胞凋亡的影响。采用 $2 { \\times } 2$ 双因子试验设计，腹腔滴注diquat（每千克体重0、 $8 ~ \\mathrm { m g }$ ）和饲粮中添加LA（O、 $8 0 0 \\mathrm { m g / k g } ,$ ）为2个主效应，共形成4个组。选取24头体重为 $( 7 0 . 6 4 { \\pm } 3 . 6 1 ) \\mathrm { k } _ { \\cdot }$ g的健康大白阉公猪，随机分为4个组，每组6个重复，每个重复1头猪。试验期 $2 9 \\mathrm { d }$ 。于试验第1天开始在育肥猪饲粮中添加LA，直到试验结束；于试验第15天腹腔滴注diquat，无diquat刺激育肥猪滴注等量的生理盐水。于试验第 29 天收集血浆和空肠样品，用试剂盒检测血浆和空肠组织的抗氧化指标，免疫印迹杂交（Westerm blotting）试验检测空肠热休克蛋白70（HSP70）和半胱氨酸天冬氨酸蛋白酶-3（caspase-3）的蛋白质相对表达量。结果表明：1）饲粮添加LA 和腹腔滴注 diquat对育肥猪的空肠超氧化物歧化酶（SOD）活性有极显著的交互作用（ $_ { - P < 0 . 0 1 }$ ），对育肥猪的生长性能、血浆和空肠其他抗氧化指标以及空肠 HSP70 和caspase-3的蛋白质相对表达量均无显著交互作用(P>0.05)。2)腹腔滴注diquat极显著降低了育肥猪的平均日采食量(ADFI)和平均日增重(ADG)，血浆 SOD、谷胱甘肽过氧化物酶（GSH-Px）和过氧化氢酶（CAT）活性，空肠 SOD、锰超氧化物歧化酶（MnSOD）活性和总抗氧化能力（T-AOC）（ $P { < } 0 . 0 1$ ）；极显著升高了料重比（F/G）、血浆丙二醛（MDA）含量、空肠过氧化氢（ $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ）含量、空肠HSP70 和caspase-3的蛋白质相对表达",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "量 ${ \\scriptstyle - P < 0 . 0 1 }$ ）。饲粮中添加LA使育肥猪的ADFI显著升高（ $P { < } 0 . 0 5 )$ ），ADG极显著升高（ $P { < } 0 . 0 1$ ），空肠 MnSOD 活性极显著升高（ $_ { - P < 0 . 0 1 }$ ），空肠HSP70 的蛋白质相对表达量显著降低（ $P { < } 0 . 0 5$ ），空肠caspase-3的蛋白质相对表达量有降低的趋势（ $_ { P = 0 . 0 5 2 }$ ）。3）在diquat 刺激下，饲粮中添加LA 使育肥猪的 ADFI和 ADG 极显著升高（ $P { < } 0 . 0 1$ ），血浆 SOD 活性显著升高（ $P { < } 0 . 0 5$ ），空肠SOD 和MnSOD 活性极显著升高（ $_ { - P < 0 . 0 1 }$ ）。综上所述，腹腔滴注diquat 引起了育肥猪强烈的氧化应激，导致了育肥猪生长性能下降、血浆和空肠氧化还原系统失衡，并引起空肠细胞凋亡。饲粮中添加LA有缓解diquat所致的育肥猪氧化应激的作用，并能减缓空肠氧化及细胞凋亡。  \n关键词：硫辛酸；敌草快；育肥猪；氧化应激；空肠；细胞凋亡  \n中图分类号：S828  \n氧化应激是动物机体内氧化还原系统失衡的状态，是导致人类和动物综合病征的主要原因之一。正常情况下，机体内有一系列的适应机制保护细胞免于损伤，多种有害刺激可以打破机体内氧化还原系统的平衡状态，促使细胞凋亡甚至导致病理损伤[I]。敌草快（diquat）为氧化还原型双吡啶除草剂，属中等毒性化合物，进入动物机体后利用分子氧产生氧自由基和其他活性氧（ROS），导致氧化应激[2]。硫辛酸（lipoic acid，LA）作为高效抗氧化剂可以减少 ROS 的产生，减弱 DNA的氧化损伤，抑制脂质过氧化，并能很大程度地改善体内抗氧化防御系统，对氧化应激引起的疾病有显著的缓解作用[3]。氧化应激通过线粒体、死亡受体、内质网应激等途径介导细胞凋亡[4]；也可能通过激活丝裂原活化蛋白激酶通路、活化核转录因子κB（NF-kB）并诱导其表达、激活半胱氨酸天冬氨酸蛋白酶（caspase）途径诱导细胞凋亡[5]。内源性和外源性通路不一定相互独立，二者的某些构成因素可能对单一刺激引起的凋亡过程具有协同调节作用。肠道作为应激反应的中心器官，在",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "机体遭受应激源刺激时最先出现缺氧缺血的状况[。氧化应激可导致肠道上皮细胞正常生长代谢受阻、细胞功能受损，进一步引发炎症反应、肠道大量细胞出现凋亡，最终可导致肠黏膜形态结构受损、肠道通透性升高、肠道免疫机能障碍[7]。Diquat作为一种氧化应激诱导剂已经分别应用于野生",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1型大鼠[8]、断奶仔猪9和生长猪[10]，并成功建立了氧化应激模型。LA 具有双硫五元环结构，有显  \n2著的亲电性和与自由基反应能力，在生物体内可以转化为还原型的二氢硫辛酸，并能够再生为内源性抗氧化剂。此外，LA 和二氢硫辛酸能够调节 NF-κB 的激活，且LA 能够阻止艾滋病病毒（HIV）复制，影响癌基因（C-fos）的表达，对自由基代谢过程中的中间产物过氧化氢（ $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ）造成的细胞 DNA氧化损伤具有显著的保护作用[]。根据氧化损伤理论开发有针对性的饲料添加剂已成为国内外的一个研究热点。然而，近年来的研究多选用小型动物建立氧化应激模型，且有关氧化应激促使细胞凋亡的研究大都限制在细胞水平，而建立大中型动物模型研究氧化应激引起细胞凋亡的试验相对较少，其中将LA作为营养素来缓解氧化应激导致细胞凋亡的动物试验更为少见。本试验以育肥猪为研究对象，选用diquat诱导育肥猪产生氧化应激，探讨氧化应激对育肥猪生长性能、血浆和空肠氧化还原状态及空肠细胞凋亡的影响；选择LA为营养素，旨在探究LA对diquat 诱导的氧化应激育肥猪生长性能、血浆和空肠氧化还原状态及空肠细胞凋亡的调控作用，为LA在育肥猪饲粮中作为抗氧化应激剂的合理应用提供参考，并为进一步揭示LA缓解空肠氧化及细胞凋亡的机制提供理论依据。  \n41材料与方法1.1试验动物与试验设计采用 $2 { \\times } 2$ 双因子试验设计，腹腔滴注diquat（每千克体重 $0 , \\ 8 \\mathrm { m g }$ ）和饲粮中添加LA（0、800  \n7mg/kg)为2个主效应,共形成4个组,分别为-Diquat-LA 组( $0 \\mathrm { m g / k g }$ diquat+0 mg/kg LA)、-Diquat+LA  \n8 组（ $0 \\mathrm { m g / k g }$ diquat+800 mg/kg LA）、+Diquat-LA 组（ $8 ~ \\mathrm { m g / k g }$ diquat+0 mg/kg LA）、 $+$ Diquat+LA  \n9 组（8 mg/kg diquat+800 mg/kgLA）。Diquat 购自美国 Sigma 公司；LA 购自美国 Amresco 公司，纯  \n0 度 $2 9 9 \\%$ 。  \n1 试验选取24头体重为 $( 7 0 . 6 4 { \\pm } 3 . 6 1 ) \\mathrm { k g }$ 的健康大白阉公猪，根据体重相近的原则随机分为4个组，  \n2每组6个重复，每个重复1头猪。试验期 29 d。于试验第1天开始在-Diquat+LA 组和 $+$ Diquat+LA",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "组育肥猪饲粮中添加 800 mg/kgLA，直到试验结束，其他2组不添加；于试验第15天对+Diquat-LA组和+Diquat+LA 组育肥猪腹腔滴注diquat,每头育肥猪一次性滴注量为每千克体重 $8 ~ \\mathrm { m g }$ ，以 $2 5 0 ~ \\mathrm { m L }$ 生理盐水稀释后采用输液器滴注，其他2组育肥猪滴注等量的生理盐水，滴注耗时约 $5 \\mathrm { m i n }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验饲粮与饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考NRC（2012）及《猪饲养标准》（NY/T65-2004）相应阶段营养需要配制玉米-豆粕型基础饲粮（粉料），基础饲粮组成及营养水平见表1。为了保证饲粮质量，根据育肥猪日采食量估算每周采食总量,并根据配方每周配料1次，配料时按照试验设计在基础词粮中分别添加 $\\mathrm { 0 . 8 0 0 m g / k g }$ 的LA构成2种试验饲粮。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 1Composition and nutrient levels of the basal diet (air-dry basis) % ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "项目Items 含量 Content  \n原料 Ingredients  \n玉米Corn 66.20  \n豆粕 Soybean meal 20.00  \n小麦麸Wheat bran 6.50  \n次粉Wheat middlings 4.00  \n石粉 Limestone 1.00  \n磷酸氢钙 CaHPO4 0.60  \n食盐 NaCl 0.40  \n预混料 Premixl) 1.00  \n$L$ -赖氨酸盐酸盐 $L$ -Lys·HC1 0.30  \n合计 Total 100.00",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "营养水平 Nutrient levels2) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "消化能 DE/(MJ/kg) 13.39粗蛋白质CP 15.73",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "钙Ca ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0.65 总磷TP 0.41 有效磷 AP 0.17 赖氨酸Lys 0.92 （204号 $^ { 1 ^ { \\circ } }$ 预混料为每千克饲粮提供 Premix provided the following per $\\mathbf { k g }$ of diets: VA2 512 IU, $\\mathrm { V D } _ { 3 } 1 2 0 0 \\mathrm { I U }$ ， $\\mathrm { V E } _ { 3 }$ 4 IU: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "VK3 1.5 mg， $\\mathrm { V B } _ { 1 2 } \\ 1 7 . 6 \\ \\mu \\mathrm { g }$ ，核黄素riboflavin $2 . 5 \\mathrm { m g }$ ，泛酸 pantothenic acid $6 . 8 ~ \\mathrm { m g }$ ，烟酸 nicotinic acid $2 0 . 3 ~ \\mathrm { m g }$ ，胆碱choline $3 5 1 ~ \\mathrm { m g }$ ， $\\mathrm { M n } \\ 1 0 \\mathrm { m g }$ ，Fe $5 0 \\mathrm { m g }$ ， $\\mathrm { Z n 5 0 ~ m g }$ ，Cu $1 0 ~ \\mathrm { m g }$ ， $\\mathrm { ~ I ~ } 0 . 3 \\mathrm { ~ m g }$ ，Se $0 . 3 ~ \\mathrm { m g }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2消化能为计算值,其他营养水平为实测值。DE was acalculated value,while the other nutrient levels were measured values. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验在中国农业科学院北京畜牧兽医研究所试验基地猪场进行。试验前圈舍彻底清洗，以 $2 \\% \\sim$ $3 \\%$ NaOH和百毒杀先后2次消毒，再密闭熏蒸 $2 4 \\mathrm { ~ h ~ }$ （高猛酸钾：甲醛 ${ \\mathrm { - } } 1 { : } 2$ ，V/V），通风干燥 $5 \\mathrm { d }$ 转入育肥猪当天再用百毒杀消毒。转入的育肥猪于 $1 6 0 \\ \\mathrm { c m } { \\times } 9 0 \\ \\mathrm { m } { \\times } 1 2 0 \\ \\mathrm { c m }$ 的代谢笼中单笼饲养，适应约1周后开始正式试验。试验期间由专人对育肥猪进行管理和饲喂，所有操作均严格按照饲养手册进行，尽可能减少与试验无关的应激因素，环境温度控制在 $1 5 { \\sim } 2 0 \\ \\mathrm { ~ \\textdegree C }$ ，相对湿度 $4 0 \\% \\sim 6 0 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集试验第29天，用含肝素钠抗凝剂的采血管采集育肥猪前腔静脉血液，静置 $1 0 { \\sim } 1 5 \\ \\mathrm { m i n }$ 后，3000$\\mathrm { { r } / \\mathrm { { m i n } } }$ 离心 $1 0 ~ \\mathrm { m i n }$ 分离血浆， $- 2 0 \\mathrm { ~ \\textdegree C }$ 保存。用电击棒（110V，5A）将育肥猪击晕，悬挂颈动脉放血，整个过程在30s内完成以确保将育肥猪的痛苦降到最低。待育肥猪没有角膜反射后，立即沿腹中线剖开，取出内脏，找到空肠中段部位剪取 $1 { \\sim } 2 \\mathrm { c m }$ 空肠段，用预冷的生理盐水冲洗掉食糜后，放入离心管中，液氮速冻， $\\boldsymbol { - 8 0 } ^ { \\mathrm { ~ \\circ ~ } } \\mathrm { C }$ 保存。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4 测定指标及方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 生长性能",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分别在正式试验开始前、腹腔滴注diquat前和屠宰前称取育肥猪的体重；试验期间记录每次的投料量和饲槽中的剩料量，以计算每头猪的日采食量。计算育肥猪的平均日增重（average daily gain，ADG）、平均日采食量（average daily feed intake，ADFI）和料重比（F/G）。由于试验第15 天对+Diquat-LA 组和+Diquat+LA组育肥猪腹腔滴注 diquat,所以不测定这2组1\\~14 天的生长性能数据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 血浆抗氧化指标",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "血浆中超氧化物歧化酶（superoxide dismutase，SOD）、谷胱甘肽过氧化物酶（glutathioneperoxidase，GSH-Px）、过氧化氢酶（catalase，CAT）活性及丙二醛（malondialdehyde，MDA）含量均采用比色法测定，试剂盒均由南京建成生物工程研究所提供。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 空肠组织抗氧化指标",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将空肠组织样品从-80℃冰箱取出放入研钵，边倒入液氮边研磨，直至磨成粉末，准确称量粉末重量，并按照1:9（m/V）加入生理盐水制成 $10 \\%$ 的组织匀浆；在 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 的低温冷冻离心机中3000r/min 离心 $1 5 \\mathrm { m i n }$ ，取上清原液备用；将原液用生理盐水稀释成 $1 \\%$ 的组织匀浆，用南京建成生物工程研究所提供的考马斯亮蓝试剂盒测定 $1 \\%$ 组织匀浆中的蛋白质浓度。组织中SOD、锰超氧化物歧化酶（MnSOD）活性、总抗氧化能力（T-AOC）以及 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 含量用南京建成生物工程研究所提供的试剂盒测定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.4空肠组织细胞凋亡蛋白表达量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "免疫印迹杂交（Western blotting）试验检测热休克蛋白70（HSP70）和半胱氨酸天冬氨酸蛋白酶-3（caspase-3）的蛋白质表达量。取育肥猪空肠组织 $1 0 0 ~ \\mathrm { { m g } }$ ，用组织裂解液裂解后，按照试剂盒",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（南京建成生物工程研究所）操作说明书提取空肠组织蛋白质；将提取好的空肠组织蛋白质进行十二烷基硫酸钠-聚丙烯酰胺凝胶电泳（SDS-PAGE）（ $1 2 0 { \\mathrm { ~ V ~ } }$ ， $9 0 ~ \\mathrm { m i n }$ ），电泳结束后以湿转法将蛋白质转印至硝酸纤维素（NC）膜上（ $3 5 0 \\mathrm { m A }$ ， $9 0 \\mathrm { m i n }$ ）；将转印完的NC 膜完全浸没在 $3 \\%$ 牛血清白蛋白-Tris 缓冲生理盐水和吐温20（BSA-TBST）中室温轻摇 $3 0 \\mathrm { m i n }$ ；用 $3 \\%$ BSA-TBST 稀释一抗（HSP70 鼠单抗，TDY062，1：2000；caspase-3兔多抗，TDY411，1：2000），室温孵育 $1 0 \\mathrm { m i n }$ 4℃过夜；第二天从 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 拿出膜，室温孵育 $3 0 ~ \\mathrm { m i n }$ ；Tris缓冲生理盐水和吐温20（TBST）洗膜5次，每次 $3 \\mathrm { m i n }$ ；用 $5 \\%$ 脱脂奶粉-TBST 稀释二抗[辣根过氧化物酶标记山羊抗小鼠IgG（ $_ \\mathrm { H + L }$ ）HRP,1：10000]，室温轻摇 $4 0 ~ \\mathrm { m i n }$ ；TBST洗膜6次，每次 $3 ~ \\mathrm { m i n }$ ；增强化学发光（ECL）试剂加到膜上后反应 $3 \\mathrm { \\sim } 5 \\mathrm { m i n }$ ，曝光 $1 0 \\mathrm { { s } } { \\sim } 5 \\mathrm { { m i n } }$ （曝光时间随不同光强度而调整)，显影 $2 \\mathrm { m i n }$ ，定影；采用ImageMaster TotalLabV1.10 图像分析软件对图像进行灰度分析，分别以 HSP70/磷酸甘油醛脱氢酶（GAPDH）、caspase-3/GAPDH表示HSP70、caspase-3的蛋白质相对表达量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据处理与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用 SAS9.2软件对数据进行两因素有互作的方差分析，并分别在diquat（有、无）刺激下，对添加LA组和未添加LA组进行t检验，所有数据均采用“平均值 $\\pm$ 标准差”表示， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1LA和diquat对育肥猪生长性能的影响由表2可知，饲粮中添加LA 和腹腔滴注 diquat 对育肥猪的 ADFI、ADG 和F/G 均无显著交互作用（ $P { > } 0 . 0 5$ ）。试验 $1 \\sim 1 4 \\mathrm { ~ d ~ }$ ，饲粮中添加LA 对育肥猪的 ADFI、ADG 和F/G 影响均无显著差异（ $. P { > } 0 . 0 5$ ）。试验 $1 5 \\sim 2 8 \\mathrm { d }$ ，腹腔滴注diquat对育肥猪的 ADFI、ADG 和F/G 均有极显著的影响（ $. P { < } 0 . 0 1 \\ \\cdot$ ），使育肥猪的ADFI（3 093.5g/d vs.2 238.5 g/d， $- 2 7 . 6 4 \\%$ ）和 ADG（1 080.5 g/d vs. 562.5g/d， $- 4 7 . 9 4 \\%$ ）降低、F/G升高（2.895 vs.4.065， $+ 4 0 . 4 1 \\%$ ）；饲粮中添加LA使ADFI显著升高（2",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "451 g/d vs. 2 881 g/d, $+ 1 7 . 5 4 \\%$ ; $P { < } 0 . 0 5$ ）、ADG极显著升高（ $7 6 5 . 5 ~ \\mathrm { g / d }$ Vs. $8 7 7 . 5 ~ \\mathrm { g / d }$ ， $+ 1 4 . 6 3 \\%$ $P { < } 0 . 0 1$ ），但F/G未发生显著变化（ $( P { > } 0 . 0 5 \\$ ）。与 $+$ Diquat-LA 组相比，+Diquat+LA组育肥猪的ADFI(1 900 g/d vs. 2 577 g/d, $+ 3 5 . 6 3 \\%$ ）和 ADG(477 g/d vs.648 g/d, $+ 3 5 . 8 5 \\%$ ）极显著升高（ $_ { . } P { < } 0 . 0 1 \\$ ；-Diquat-LA 组与-Diquat+LA 组育肥猪的生长性能指标无显著差异（ $P { > } 0 . 0 5$ ）。这表明饲粮中添加LA 缓解了diquat 引起的育肥猪ADFI和ADG的下降，而在无diquat刺激时饲粮中添加LA对育肥猪生长性能的影响较小。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表 2LA 和 diquat 对育肥猪生长性能的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "Table 2Effects of LA and diquat on growth performance of finishing pigs "
+        ],
+        "table_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "-Diquat-LA ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a34070892619e4351c8e20f3220ad41314bf03efe009c823832cbd62b61693a.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "$1 5 { \\sim } 2 8$ 天15 to 28 days"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">项目Items</td><td rowspan=\"3\">组</td><td>-Diquat+LA组</td><td>+Diquat-LA组</td><td rowspan=\"3\">+Diquat+LA组</td><td rowspan=\"3\">敌草快</td><td rowspan=\"3\">硫辛</td><td rowspan=\"2\">敌草快×硫 辛酸</td></tr><tr><td></td><td></td></tr><tr><td>-Diquat+LA</td><td>+Diquat-LA +Diquat+LA</td><td>Diquat</td><td>酸 LA</td></tr><tr><td rowspan=\"4\"></td><td>-Diquat-LA</td><td></td><td></td><td></td><td></td><td></td><td>DiquatxLA</td></tr><tr><td></td><td>group</td><td>group</td><td>group</td><td></td><td></td><td></td></tr><tr><td>group</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1～14天 1to 14 days （n=12)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2 836±537</td><td>2 832±431</td><td></td><td></td><td></td><td>0.99</td><td></td></tr><tr><td>量 ADFI/(g/d)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重</td><td>1 005±141</td><td>1 085±110</td><td></td><td></td><td></td><td>0.17</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>料重比F/G</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADG/(g/d)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>2.62±0.37</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2.84±0.56</td><td></td><td></td><td></td><td></td><td>0.27</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（ $\\scriptstyle n = 6$ ）",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/1cf0dfea130d7d0da34c097d46482e34f47baab8f766bbf9e3801722178816d3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>平均日采食</td><td>3 002±254</td><td>3 185±334</td><td>1 900±491B</td><td>2 577±675A</td><td><0.01</td><td>0.04</td><td>0.20</td></tr><tr><td>量 ADFI/(g/d)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重</td><td>1 054±189</td><td>1 107±78</td><td>477±99B</td><td>648±67A</td><td><0.01</td><td><0.01</td><td>0.13</td></tr><tr><td>ADG/(g/d)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>料重比F/G</td><td>2.91±0.46</td><td>2.88±0.31</td><td>4.05±1.02</td><td>4.08±1.26</td><td><0.01</td><td>0.99</td><td>0.92</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "140 同行数据肩标不同小写字母表示差异显著（ $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著（ $( P { < } 0 . 0 1 )$ ，  \n141 相同小写字母或无字母表示差异不显著（ $. P { > } 0 . 0 5 \\$ ）。下表同。  \n142 In the same row,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，  \n143 and with different capital letter superscripts mean significant difference ( $( P { < } 0 . 0 1 )$ ，while with the same  \n144 letter or no letter superscripts mean no significant difference ( $( P { > } 0 . 0 5 )$ . The same as below.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "15 2.2LA和diquat对育肥猪血浆抗氧化指标的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "146 由表3 可知，饲粮中添加LA 和腹腔滴注 diquat 对育肥猪血浆抗氧化指标均无显著交互作用  \n147 （ $P { > } 0 . 0 5$ ）。腹腔滴注diquat 使育肥猪血浆 SOD（ $3 9 . 7 3 \\mathrm { U / m L }$ vs. 22.50 U/mL， $- 4 3 . 3 7 \\%$ ）、GSH-Px  \n148 (597.85 U/mL vs. $4 6 1 . 7 8 ~ \\mathrm { U / m L }$ ， $- 2 2 . 7 6 \\%$ ）和CAT活性（ $1 1 . 5 9 \\mathrm { U / m L }$ Vs. $5 . 8 6 ~ \\mathrm { U / m L }$ ， $- 4 9 . 4 4 \\%$ ）极  \n149 显著降低（ ${ \\cal P } { < } 0 . 0 1$ ），血浆 MDA 含量（1.855nmol/mL vs.2.81 nmol/mL， $+ 5 1 . 4 8 \\%$ ）极显著升高  \n150 （ $P { < } 0 . 0 1$ ）。饲粮中添加LA 对育肥猪血浆 SOD、GSH-Px和CAT 活性及MDA含量均无显著影响  \n151 （ $. P { > } 0 . 0 5 \\$ 。与 $+$ Diquat-LA组相比,+Diquat+LA组育肥猪血浆 SOD 活性 $\\mathrm { \\Omega } ^ { \\mathrm { } } 2 0 . 8 7 \\mathrm { \\ U } / \\mathrm { m L }$ vs. 24.13 U/mL,  \n152 $+ 1 5 . 6 2 \\%$ ）显著提高（ $_ { . } { \\cdot } { \\cdot } { \\cdot } { \\cdot } { \\cdot } ^ { } \\ .$ ）；-Diquat-LA组与-Diquat+LA组育肥猪血浆抗氧化指标无显著差异  \n153 （ $P { > } 0 . 0 5$ ）。这表明饲粮中添加LA 缓解了diquat 引起的育肥猪血浆 SOD 活性的下降，一定程度  \n154 上改善了氧化应激下育肥猪血浆的氧化还原状态；而在无diquat刺激时，饲粮中添加LA对育肥猪  \n155 血浆氧化还原状态的作用较小。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/de6c3e6fdd38f5e7e67bd41ab7d2316dcc89edad174d097abe835d63889d78d5.jpg",
+        "table_caption": [
+            "Table 3Effects of LA and diquat on plasma antioxidative indices of finishing pigs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"4\">项目Items</td><td colspan=\"4\">组别Groups</td><td rowspan=\"2\"></td><td rowspan=\"2\">P值P-value</td></tr><tr><td>-Diquat-LA</td><td></td><td>+Diquat+LA</td><td></td></tr><tr><td></td><td>-Diquat+LA组+Diquat-LA组</td><td></td><td></td><td>敌草</td><td>硫 敌草快x</td></tr><tr><td>组</td><td></td><td></td><td>组</td><td></td><td>辛</td></tr><tr><td></td><td>-Diquat+LA</td><td>+Diquat-LA</td><td></td><td>快</td><td>硫辛酸</td></tr><tr><td>-Diquat-LA</td><td></td><td></td><td>+Diquat+LA</td><td>酸</td><td></td></tr><tr><td></td><td>group</td><td>group</td><td></td><td>Diquat</td><td>DiquatxLA</td></tr><tr><td>group</td><td></td><td></td><td>group</td><td>LA</td><td></td></tr><tr><td>超氧化物歧化酶</td><td>39.50±3.74</td><td>39.96±3.06 20.87±2.67b</td><td>24.13±2.08a</td><td><0.01</td><td>0.08</td><td>0.18</td></tr><tr><td>SOD/(U/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷胱甘肽过氧化</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>物酶</td><td>594.52±10.45</td><td>601.18±14.55</td><td>453.67±34.57</td><td>469.89±40.10</td><td><0.01 0.36</td><td>0.70</td></tr><tr><td>GSH-Px/(U/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>过氧化氢酶</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CAT/(U/mL)</td><td>11.23±1.67</td><td>11.95±2.60</td><td>6.05±0.82</td><td>5.67±1.62</td><td><0.01 0.78</td><td>0.39</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丙二醛</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>MDA/(nmol/L)</td><td>1.82±0.39</td><td>1.89±0.60</td><td>2.91±0.18</td><td>2.71±0.55</td><td><0.01 0.74</td><td>0.45</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.3LA和diquat对育肥猪空肠抗氧化指标的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表 4 可知，饲粮中添加LA 和腹腔滴注 diquat 对育肥猪空肠 SOD 活性有极显著的交互作用（ $P { < } 0 . 0 1$ ），对空肠 MnSOD 活性、T-AOC 和 $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 含量无显著的交互作用（ $\\cdot P { > } 0 . 0 5$ ）。腹腔滴注diquat 使育肥猪空肠 SOD（ $1 8 3 . 2 0 \\mathrm { m g / g }$ prot vs. $1 3 1 . 4 5 \\mathrm { m g / g }$ prot， $- 2 8 . 2 5 \\%$ ）、MnSOD 活性（40.76mg/g prot vs. $2 6 . 2 2 \\mathrm { m g / g }$ prot， $- 3 5 . 6 7 \\%$ ）和T-AOC（ $2 . 5 3 \\mathrm { m g / g }$ prot vs. $1 . 6 1 \\mathrm { m g / g }$ prot， $- 3 6 . 2 4 \\%$ ）极显著降低（ $P { < } 0 . 0 1 \\$ ）， $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 含量（ $\\mathrm { 3 . 4 7 \\ m m o l / g }$ prot vs. $4 . 8 7 \\ \\mathrm { m m o l / g }$ prot， $+ 4 0 . 5 5 \\%$ ）极显著升高（ $P { < } 0 . 0 1$ )。饲粮中添加LA使育肥猪空肠MnSOD活性 $\\mathrm { 3 1 . 7 4 \\ m g / g }$ prot vs. $3 5 . 2 4 \\mathrm { m g / g }$ prot, $+ 1 1 . 0 1 \\%$ ）极显著升高 $( P { < } 0 . 0 1 \\dot { ) }$ )，对空肠 SOD 活性、T-AOC 和 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 含量均无显著影响( $. P { > } 0 . 0 5 \\$ 。与 $+$ Diquat-LA组相比,+Diquat+LA 组育肥猪空肠 SOD(120.39 mg/g prot vs. $1 4 2 . 5 0 \\mathrm { m g / g }$ prot, $+ 1 8 . 3 7 \\%$ )和MnSOD$\\mathrm { \\Omega } 2 3 . 4 2 \\mathrm { \\ m g / g }$ prot vs. $2 9 . 0 1 ~ \\mathrm { m g / g }$ prot， $+ 2 3 . 8 7 \\%$ ）活性极显著提高（ $P { < } 0 . 0 1$ ），-Diquat-LA 组与-Diquat+LA组育肥猪空肠抗氧化指标无显著差异（ $P { > } 0 . 0 5$ ）。这表明饲粮中添加LA 缓解了diquat引起的育肥猪空肠 SOD 和 MnSOD 活性的下降，一定程度上改善了氧化应激下育肥猪空肠氧化还原状态；而在无diquat 刺激时，饲粮中添加LA对育肥猪空肠氧化还原状态的作用较小。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表4LA和diquat对育肥猪空肠抗氧化指标的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7be1799aa9fee4cfe66d255302c14837b7e5ac0ce43cb8db98e8c1c36116b9e.jpg",
+        "table_caption": [
+            "Table 4Effects of LA and diquat on jejunum antioxidative indices of finishing pigs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"4\">组别 Groups</td><td rowspan=\"2\"></td><td colspan=\"2\">P值P-value</td></tr><tr><td>-Diquat-L</td><td> -Diquat+LA</td><td>+Diquat-LA</td><td>+Diquat+LA</td><td></td><td></td></tr><tr><td rowspan=\"3\">项目Items</td><td>A组</td><td>组</td><td>组</td><td>组</td><td>敌草快</td><td>硫辛</td><td>敌草快x硫辛</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>酸</td><td>酸 DiquatxLA</td></tr><tr><td>-Diquat-L A group</td><td>-Diquat+LA group</td><td>+Diquat-LA group</td><td>+Diquat+LA group</td><td>Diquat</td><td>LA</td><td></td></tr><tr><td>超氧化物歧化</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>186.99±10</td><td>179.41±17.0</td><td>120.39±12.2</td><td>142.50±15.9</td><td></td><td></td><td></td></tr><tr><td>酶 SOD/(mg/g</td><td></td><td></td><td></td><td></td><td><0.01</td><td>0.15</td><td><0.01</td></tr><tr><td></td><td>.70</td><td>4</td><td>2B</td><td>7A</td><td></td><td></td><td></td></tr><tr><td>prot)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>锰超氧化物歧</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>40.06±3.0</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>化酶 MnSOD</td><td></td><td>41.46±3.78</td><td>23.42±1.89B</td><td>29.01±2.21A</td><td><0.01</td><td><0.01</td><td>0.06</td></tr><tr><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>/(mg/g prot)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "总抗氧化能力",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/3678a59c5105067b573765b8f0046da4693dba1758974000bb010bd0a96252c5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>T-AOC/(mg/g</td><td>2.60±0.25</td><td>2.45±0.10</td><td>1.60±0.09</td><td>1.62±0.27</td><td><0.01</td><td>0.39</td><td>0.31</td></tr><tr><td>prot)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>过氧化氢</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>H2O2/(mmol/g</td><td>3.56±0.37</td><td>3.37±0.34</td><td>4.99±0.45</td><td>4.75±0.36</td><td><0.01</td><td>0.08</td><td>0.81</td></tr><tr><td>prot)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.4LA和diquat对育肥猪空肠细胞凋亡蛋白表达的影响",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，腹腔滴注diquat 使育肥猪空肠HSP70 和caspase-3 的蛋白质相对表达量升高，饲粮中添加LA使育肥猪空肠HSP70 和caspase-3的蛋白质相对表达量降低。由表5可知，饲粮中添加LA 和腹腔滴注 diquat 对育肥猪空肠 HSP70 和 caspase-3 的蛋白质相对表达量均无显著的交互作用 $( P { > } 0 . 0 5 )$ ）；腹腔滴注diquat使育肥猪空肠HSP70（0.555vs.0.830， $+ 4 9 . 5 5 \\%$ ）和caspase-3（0.425vs. 0.760, $+ 7 8 . 8 2 \\%$ )蛋白质相对表达量极显著升高（ ${ \\cdot } P { < } 0 . 0 1$ ），饲粮中添加LA使HSP70（0.710 vs.0.675， ${ - 4 . 9 3 \\% }$ ; $P { < } 0 . 0 5$ ）、caspase-3（0.615 vs.0.570， $- 7 . 3 2 \\%$ ; $_ { P = 0 . 0 5 2 }$ ）的蛋白质相对表达量降低。这表明无论育肥猪是否处于应激状态，饲粮中添加LA都能在一定程度上抑制空肠细胞的凋亡。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "HSP70：热休克蛋白70；Caspase-3：半胱氨酸天冬氨酸蛋白酶-3；GAPDH：磷酸甘油醛脱氢酶；LA：硫辛酸 lipoic acid；D：敌草快 qiquat；十：添加或滴注supplementation or injection；一：不添加或不滴注 no supplementation or no injection）",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d0c4e0d6e2c28e4b393e61109931624e183a74011fea7d0b65f8799c0486c69.jpg",
+        "img_caption": [
+            "图1空肠HSP70 和Caspase-3 的蛋白质相对表达量",
+            "Fig.1 Protein relative expression levels of HSP7O and caspase-3 in jejunum "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "表5LA和diquat对育肥猪空肠HSP70 和Caspase-3 的蛋白质相对表达量的影响",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed2069a7aba449461a764077e218ae64080d155fb217bfac011c2187b7f8eda1.jpg",
+        "table_caption": [
+            "Table 5Effects of LA and diquat on protein relative expression levels of HSP70 and caspase-3 in "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\"> jejunum of finishing pigs</td><td rowspan=\"2\">P值P value</td><td rowspan=\"2\"></td></tr><tr><td colspan=\"4\">组别 Groups</td></tr><tr><td>-Diquat-LA组</td><td>-Diquat+LA</td><td>+Diquat-LA</td><td>+Diquat+LA</td><td></td><td>硫辛 敌草</td></tr><tr><td>-Diquat-LA</td><td>组</td><td>组</td><td>组</td><td>敌草快</td><td>酸 快×硫</td></tr><tr><td></td><td></td><td></td><td></td><td>Diquat</td><td></td></tr><tr><td>group</td><td>-Diquat+LA</td><td>+Diquat-LA</td><td>+Diquat+LA</td><td>LA</td><td>辛酸</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/a834c589afb0489536e58fbe9e87920e31821637270ac22d728cdfcb0c9169ca.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>group</td><td>group</td><td>group</td><td></td><td></td><td>DxLA</td></tr><tr><td>热休克蛋白70HSP70</td><td>0.57±0.05</td><td>0.54±0.02</td><td>0.85±0.01</td><td>0.81±0.01</td><td><0.01</td><td>0.030</td><td>0.73</td></tr><tr><td>半胱氨酸天冬氨酸蛋白酶</td><td>0.44±0.09</td><td>0.41±0.02</td><td>0.79±0.04</td><td>0.73±0.01</td><td><0.01</td><td>0.052</td><td>0.52</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "184 3讨论",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考李丽娟[9]每千克体重腹腔注射 $1 2 ~ \\mathrm { m g }$ diquat诱导了断奶仔猪产生氧化应激；徐静等[10]每千克体重一次性腹腔注射 $8 \\mathrm { m g }$ diquat 溶液可诱导生长猪产生氧化应激，且氧化应激效应可持续28d。本试验每千克体重腹腔滴注8mg diquat，所有育肥猪均出现急躁、空口咀嚼、呕吐、厌食等现象，持续一周左右后采食量逐渐恢复；非应激组滴注等量的生理盐水未见猪只行为异常。这与前人的研究结果[9-10,12-14]相似，而本研究选择育肥猪作为试验动物为建立大中型氧化应激动物模型奠定了基础。虽然LA 缓解diquat 导致的氧化应激的研究尚未见报道，但有研究表明LA可以用于治疗百草枯（paraquat）引起的大鼠中毒[15]，而 paraquat 作为一种有机杂环类接触性除草剂与 diquat 的结构和功能相似。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.1LA和diquat对育肥猪生长性能及抗氧化指标的影响",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本试验结果显示，在diquat 诱导的氧化应激状态下，育肥猪的ADFI和ADG 极显著降低，F/G  \n极显著升高，说明diquat 诱导的氧化应激对育肥猪产生了较大的副作用，并导致育肥猪的生长性能  \n降低，这一结果与 Zheng 等[12]、Lv等[13]、赵娇等[14]在断奶仔猪上的研究结果相似，说明本试验构  \n建的育肥猪氧化应激模型成功。此外，饲粮中添加LA 使育肥猪的 ADFI显著升高、ADG 极显著升  \n高，特别是在应激状态下，LA 对 ADFI和 ADG 的改善作用尤为显著，表明饲粮中添加LA 对育肥  \n猪的氧化应激有一定的缓解作用，而具体的作用机理还需进一步的研究。Diquat 的作用是夺取分子氧的电子，使分子氧转变为ROS 进而造成氧化应激；LA具有双硫五  \n元环结构，具有显著的亲电性和与自由基反应的能力，可以减少ROS 的产生。Diquat进入机体后，",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ROS 水平剧增，大量消耗 SOD、GSH-Px、CAT等抗氧化酶类，导致机体氧化还原系统严重失衡。徐静等[10]研究表明，diquat 极显著降低了生长猪第7、14、21和28天血清GSH-Px 和 SOD 活性，显著提高了血清 MDA 含量，第7、14、21和28天血清CAT 活性有降低趋势。本试验结果显示，应激组育肥猪血浆 SOD、GSH-Px、CAT 活性均极显著低于非应激组，MDA 含量极显著高于非应激组；且在应激状态下，饲粮中添加LA 组血浆 SOD 活性显著高于未添加LA 组，表明 diquat 诱导了育肥猪的氧化应激，而LA能通过清除体内过量的ROS 来缓解机体的氧化应激。肠道极易受氧化损伤[I6]，腹腔滴注的diquat进入机体后首先要通过肠黏膜，肠黏膜氧化应激产生的过量的氧自由基可以破坏 DNA、生物脂质大分子、蛋白质和其他生物大分子；过量的氧自由基也可以通过抗氧化系统（包括非酶成分和抗氧化酶系[17-18]）被消除。在肠道内环境中，单个氧化还原体系分别独立存在于线粒体、细胞核和内质网等细胞器中，任何一个氧化还原体系被破坏都会导致肠道黏膜的氧化应激[19]，进而导致肠道病变。宋小珍[20]在断奶仔猪上的研究表明，氧化应激使猪肠道 SOD 和GSH-Px 活性显著降低，MDA 含量显著上升。Chen 等[21研究表明，小肠上皮细胞添加谷胱甘肽（GSH）后使细胞液中 SOD 和CAT 的活性有一定程度的提高，原因可能是GSH 清除了部分自由基，使得自由基钝化抗氧化酶的能力减弱。上述试验表明，氧化应激导致了抗氧化酶活性的降低，而添加营养素能够一定程度地提高抗氧化酶的活性。本试验结果显示，应激组育肥猪空肠 SOD 和 MnSOD 活性以及T-AOC 均极显著低于非应激组，空肠 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 含量极显著高于非应激组；且在氧化应激情况下，饲粮中添加LA 使空肠 MnSOD 活性极显著升高。SOD 包括铜锌超氧化物歧化酶（CuZn-SOD）和MnSOD2种分型，其中MnSOD 为线粒体中清除自由基的抗氧化物酶，表明本试验diquat 诱导的氧化应激可能导致了细胞器的损伤。LA 的特殊化学结构使其同时具有水溶性和脂溶性，易于透过细胞膜深入细胞器中发挥作用；LA 的特殊化学结构还决定了LA 具有清除机体过量的自由基、抑制脂质过氧化和减弱 DNA 的氧化损伤等功能[22]。因此，饲粮中添加 LA能在很大程度上改善体内抗氧化防御系统，进而推测LA可能是通过维持细胞器中氧化还原体系的",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "平衡来修复空肠氧化，但其修复机理尚不明确。  \n3.2LA 和 diquat 对育肥猪空肠细胞凋亡的影响  \n在机体遭受氧化应激的情况下，ROS 能通过激活一系列信号通路来诱导细胞凋亡[23]。研究表明，线粒体接受凋亡信号释放细胞色素C，细胞色素C受B 细胞淋巴瘤/白血病-2（Bcl-2）家族蛋白的调控参与死亡受体通路，活化特定的 caspase-3 蛋白质，诱导细胞凋亡[24];当toll样受体 4(TLR4)与特异性配体脂多糖（LPS）结合后，激活 NF-kB 途径[25]，NF-kB 可促进Bcl-2家族中凋亡因子的表达、增加线粒体膜的通透性、促进细胞色素C 的释放，进而导致细胞凋亡；NF-kB 也可刺激白细胞介素-1β、肿瘤坏死因子 $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ （TNF-α）基因的表达，导致caspase-3高表达，进而引发细胞凋亡[26]。研究表明，无论是通过哪种途径，最终都会激活caspase-3前体物进而导致细胞凋亡[5]。本试验结果显示，腹腔滴注 diquat 的育肥猪空肠 caspase-3 蛋白质相对表达量极显著高于无 diquat 刺激的育肥猪，由此推测，氧化应激可能导致了育肥猪空肠细胞凋亡，但具体是通过哪种途径还需要进一步探究。  \n热休克蛋白（HSPs）在细胞生长调控和凋亡中发挥着重要作用，有关HSPs与细胞调亡信号转导途径调节机制的研究发现，HSPs 能够在Fas 死亡受体途径[27]、c-Jun 氨基末端激酶（JNK）/应激活化蛋白激酶（SAPK）途径[28]和caspase 途径[29]等发挥调节作用，并且部分依赖于HSPs 的\"分子伴侣\"功能，控制着细胞生命进程。由于HSP70 分子的C端含有高度保守的核酸序列，此序列的缺失或突变会导致其结合底物能力的丧失，因此，推测该序列或许与HSP70 对caspase-3 的抑制作用有关。然而有研究表明，低浓度和高浓度的 $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 可分别诱导caspase 依赖性和非依赖性的细胞凋亡，HSP70 对 2 类凋亡都具有抑制作用[30]。本试验结果显示，diquat 诱导的氧化应激使 HSP70 的蛋白质相对表达量急剧升高，而caspase-3 的蛋白质相对表达量没有随着 HSP70 的蛋白质相对表达量的升高而有所降低，说明 HSP70 可能作用于凋亡过程早期阶段，而 caspase-3是否参与了HSP70 对调亡的调节则值得商榷。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "有研究表明,LA 能够调节 NF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ 的激活，并阻止HIV 复制，从而影响 C-fos 的表达[1]。Bojunga等[31l报道，应用LA干预可以抑制细胞凋亡，下调 caspase 的活性，增加凋亡保护因子 Bcl-2的表达，起到保护机体的作用。本试验结果显示，饲粮中添加LA对 HSP70 和caspase-3 蛋白质相对表达量均有抑制作用，特别是在diquat 诱导的氧化应激情况下，其作用更为显著，可能是LA通过清除体内过量的自由基进而缓解了应激，导致HSP70的蛋白质表达量有所降低；LA调节NF-kB的激活，抑制了caspase-3 途径，进而阻止了育肥猪空肠细胞的凋亡。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "腹腔滴注diquat降低了育肥猪的生长性能，破坏了血浆和空肠的氧化还原状态，并引起空肠细胞凋亡。Diquat 诱导发生氧化应激后，在饲粮中添加LA 能够提高育肥猪的生长性能，改善血浆和空肠的氧化还原状态，并能在一定程度上减缓空肠细胞凋亡。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[1]MIYAMOTO H,DOITA M,NISHIDA K,et al.Effects of cyclic mechanical stress on the production of inflammatoryagentsbynucleuspulposusandanulusfibrosusderivedcells in vitro[J].Spine,2006,31(1):4-9.   \n[2] YAMAUCHI M,NAKANO H,MAEKAWA J,et al.Oxidative stress in obstructive sleep apnea[J].Chest,2005,127(5):1674-1679.   \n[3] SAVITHA S,SIVARAJAN K,HARIPRIYA D,et al.Efficacy of levo carnitine and alpha lipoic acid in ameliorating the decline in mitochondrial enzymes during aging[J].Clinical Nutriti0n,2005,24(5):794-800.   \n[4] SIMSN R,MUYDERMAN H.Mitochondria,oxidative metabolism andcell death in stroke[J].Biochimica et Biophysica Acta: Molecular Basis of Disease,2010,1802(1):80-91.   \n[5] QIN Y M,AUH S,BLOKH L,et al.TNF $\\mathbf { \\nabla } \\cdot \\mathbf { a } _ { } $ induces transient resistance to Fas-induced apoptosis in ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "eosinophilic acute myeloid leukemia cells[J].Celllar & Molecular Immunology,2OO7,4(1):43-52. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[6]代雪立,肖敏华,宋晓琳,等.热应激对家禽肠道结构与功能影响的研究进展[J].中国家 禽,2010,32(11):41-43.   \n[7]张志浩.氧化应激对肉鸡肠道黏膜屏障功能的影响以及缓解肠道氧化损伤物质的研究[D].硕士 学位论文.泰安:山东农业大学,2014.   \n[8] FU Y X,CHENG W H,ROSS D A,et al.Cellular glutathione peroxidase protects mice against lethal oxidative stress induced by various doses of diquat[J].Proceedings of the Society for Experimental Biology and Medicine,1999,222(2):164-169.   \n[9]李丽娟.氧化应激对仔猪肠细胞葡萄糖转运能力及转运载体表达量的影响[D].硕士学位论文.雅 安:四川农业大学,2007.   \n[10]徐静,余冰,陈代文.Diquat 诱导的生长猪氧化应激持续时间及适宜的应激标识[J].中国农业科 学,2008,41(12):4359-4364.   \n[11]MORINI M,ROCCATAGLIATA L,DELL'EVA R,et al.α-lipoic acid is effective in prevention and treatment of experimental autoimmune encephalomyelitis[J].Journal of Neuroimmunology,2004,148(1/2):146-153.   \n[12]ZHENG P,YU B,HE J,et al.Protective effcts of dietary arginine supplementation against oxidative stress in weaned piglets[J].British Journal of Nutrition,2013,109(12):2253-2260.   \n[13]LV M,YU B,MAO X B,et al.Responses of growth performance and tryptophan metabolism to oxidative stress induced by diquat in weaned pigs[J].Animal:an International Journal of Animal Bioscience,2012,6(6):928-934.   \n[14]赵娇,周招洪,梁小芳,等.葡萄籽原花青素及维生素E对氧化应激仔猪生长性能、血清氧化还原 状态和肝脏氧化损伤的影响[J].中国农业科学,2013,46(19):4157-4164. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[15]杜斌,陈炜,陈俊良,等 $. \\alpha \\cdot$ -硫辛酸对百草枯中毒大鼠胸腺Bax、Bcl-2表达及SOD 活力、MDA水平的影响[J].中国医院药学杂志,2015,35(23):2071-2074.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[16] 蔡旋,王静娴,陈小连,等.肠道上皮氧化应激细胞模型的研究进展[JJ.畜牧兽医学报,2014,45(3):337-346.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[17]LANGIE S A,WILMS L C.HAMALAINEN S,et al.Modulation of nucleotide excision repair in human lymphocytes by genetic and dietary factors[J].British Journal of Nutrition,2010,103(4):490-501.   \n[18]NEUBAUER O,REICHHOLD S,NICS L,et al.Antioxidant responses to an acute ultra-endurance exercise:impact on DNA stability and indications for an increased need for nutritive antioxidants in the early recovery phase[J].British Journal of Nutrition,2O10,104(8):1129-1138.   \n[19]周宗灿.氧化还原信号和氧化应激/还原应激[J].毒理学杂志,2015,29(1):1-14.   \n[20]宋小珍.藿香、苍术提取物复合制剂对高温应激猪小肠消化吸收的影响[D].博士学位论文.南京: 南京农业大学,2008.   \n[21]CHEN Q,LE G W,SHI Y H,et al.Efect of iron supplementation on intestinal function and oxidative stress in piglets with induced colitis[J].Journal of Animal and Feed Sciences,2007,16(2):205-213.   \n[22]GORACA A,HUK-KOLEGA H,PIECHOTA A,et al.Lipoic acid-biological activity and therapeutic potential[J].Pharmacological Reports,2011,63(4):849-858.   \n[23] 李敏,林俊.细胞调亡途径及其机制[J].国际妇产科学杂志,2014,41(2):103-107.   \n[24] SINHA K,DAS J,PAL P B,et al.Oxidative stress:the mitochondria-dependentand mitochondria-independent pathways of apoptosis[J].Archives of Toxicology,2013,87(7):1157-1180.   \n[25] BUBICI C,PAPA S,PHAM C G,etal.NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ andJNK:anintricateaffair[J].Cell Cycle,2004,3(12):1524-1529. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "6] FILOMENI G,AQUILANO K,ROTILIO G,et al.Antiapoptotic response to induced GSH depletion:involvement of heat shock proteins and NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ activation[J].Antioxidants & Redox Signaling,2005,7(3/4):446-455. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[27] CREAGH E M,COTTER T G.Selective protection by hsp7O against cytotoxic drug-,but not Fas-induced T-cell apoptosis[J].Immunology,1999,97(1):36-44. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[28] KITAMURA C,OGAWA Y,NISHIHARA T,et al.Transient co-localization of c-Jun N-terminal kinase and c-Jun with heat shock protein 7O in pulp cells during apoptosis[J].Journal of Dental Research,2003,82(2):91-95. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[29] BRATTON S B,MACFARLANE M,CAIN K,et al.Protein complexes activate distinct caspase cascades in death receptor and stress-induced apoptosis[J].Experimental Cell Research,2000,256(1):27-33. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[30]CREAGH E M,CARMODY R J,COTTER T G.Heat shock protein 70 inhibits caspase-dependent and-independent apoptosis in Jurkat T cells[J].Experimental Cell Research,2OO0,257(1):58-66. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[31] BOJUNGA J,NOWAK D,MITROU P S,et al.Antioxidative treatment prevents activation of death-receptor-and mitochondrion-dependent apoptosis in the hearts of diabetic rats[J].Diabetoloqia,2004,47(12):2072-2080. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Effects of Lipoic Acid and Diquat on Growth Performance, Redox Status of Plasma and Jejunum and Cell Apoptosis of Jejunum of Finishing Pigs ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "BAO Weiguang1GU Xianhong1.2HAO Yue² CUI Yanjun²WANG Zhanbin1\\* ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(1. College of Animal Science and Technology, Henan University of Science and Technology, Luoyang \\*Corresponding author, professor, E-mail: wangzhanbin3696@ 126.com (责任编辑 李慧英) ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Academy of Agricultural Sciences, Beijing 100193, China) Abstract: The aim of this study was to investigate the efects of lipoic acid (LA) and diquat on growth performance，redox status of plasma and jejunum and cell apoptosis of jejunum of finishing pigs. According to $2 { \\times } 2$ double - factor test design, intraperitoneal injection of diquat (O or $8 ~ \\mathrm { m g }$ per kg body weight) and dietary LA (O or $8 0 0 \\mathrm { m g / k g }$ ）as the two main factors,and 4 groups were formed. Twenty-four healthy Large white castrates with the body weight of $( 7 0 . 6 4 \\pm 3 . 6 1 \\$ ） kg were randomly allocated to 4 groups with 6 replicates per group and 1 pig per replicate. The trial period lasted for 29 days.LA were added in diets all in the trial. Intraperitoneal injection of diquat at day 15 and non-challenged pigs were injected intraperitoneally with the equal amount of physiological saline. Plasma and jejunum samples were collected at day 29 for determination of antioxidative indices using kits. Western blotting assays was conducted for determination of jejunum heat shock protein 7O (HSP7O)and caspase-3 protein relative expression levels. The results showed as follows: 1) there was a significant interaction of dietary LA and intraperitoneal injection of diquat on jejunum superoxide dismutase (SOD） activity of finishing pigs （20 $( P { < } 0 . 0 1 )$ , and no significant interactions on growth performance,other antioxidant indices of plasma and jejunum and protein relative expression levels of HSP70 and caspase-3 of jejunum of finishing pigs were found $( P { > } 0 . 0 5 )$ . 2) Intraperitoneal injection of diquat significantly decreased average daily feed intake (ADFI) and average daily gain (ADG),the activities of SOD, glutathione peroxidase (GSH-Px） and catalase (CAT) of plasma,the activities of SOD and manganese superoxide dismutase (MnSOD) and total antioxidant capacity (T-AOC) of jejunum of finishing pigs $( P { < } 0 . 0 1 )$ ; and significantly increased the ratio of feed to gain (F/G), the contents of malondialdehyde (MDA) of plasma and hydrogen peroxide $\\left( \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 } \\right)$ of jejunum and protein relative expresson levels of HSP7O and caspase-3 of jejunum of finishing pigs （ $( P { < } 0 . 0 1 )$ . Dietary LA significantly increased ADFI $( P { < } 0 . 0 5 )$ ，ADG $( P { < } 0 . 0 1 )$ and the activity of MnSOD of jejunum ( $( P { < } 0 . 0 1 )$ ,and significantly decreased protein relative expression level of HSP7O of jejunum of finishing pigs $( P { < } 0 . 0 5 )$ ，but had a tendency to decrease protein relative expression level of caspase-3 0 $\\scriptstyle P = 0 . 0 5 2 ,$ . 3）Dietary LA significantly increased ADFI and ADG $( P { < } 0 . 0 1 )$ ，the activities of SOD of plasma $( P { < } 0 . 0 5 )$ and SOD and MnSOD of jejunum $( P { < } 0 . 0 1 )$ of finishing pigs challenged with diquat. In conclusion,intraperitoneal injection of diquat causes strong oxidative stress of finishing pigs,leads to the reduction of growth performance,imbalance of redox system of plasma and jejunum and cell apoptosis of jejunum. Dietary LA can suppress the oxidative stress caused by intraperitoneal injection of diquat, and may alleviate jejunum oxidation and apoptosis. Key words: lipoic acid; diquat; finishing pigs; oxidative stress; jejunum; apoptosis ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    }
+]

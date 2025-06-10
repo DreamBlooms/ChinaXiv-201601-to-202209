@@ -1,0 +1,408 @@
+[
+    {
+        "type": "text",
+        "text": "融合降噪自编码器与BPSO的特征组合方法及其中医应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄灿奕，杜建强，聂斌，曾青霞，朱志鹏，喻芳(江西中医药大学 计算机学院，南昌 330004)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：离散二进制粒子群算法（BPSO）在各种离散优化问题中有着诸多优势，但其很容易由于非线性的问题陷入局部最优解，无法得到最佳特征子集。而降噪自编码器可通过多层非线性网络进行映射与重构，对中医药数据有良好的处理效果。因此提出了一种融合降噪自编码器与 BPSO的特征组合方法，该方法主要是利用降噪自编码器对特征进行非线性映射形成超完备基，然后在超完备基中通过BPSO进行搜索，从而得到最佳特征子集。分别采用临床糖尿病数据集和UCI数据集进行分析处理，实验结果表明，融合降噪自编码器与BPSO的特征组合方法对中医药临床实验数据有较好的适应性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：降噪自编码器；BPSO；非线性；中医药 中图分类号：TP doi: 10.3969/j.issn.1001-3695.2018.03.0207 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application of feature combination method of denoising autoencoder and BPSO in TCM ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huang Canyi, Du Jianqiang, Nie Bin, Zeng Qingxia, Zhu Zhipeng, Yu Fang (Schoolof Computy Jiangxi UniversityofTraditional Chinese Medicine,Nanchang 33oo04,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The discrete binaryparticle swarmoptimizationalgorithm has many advantages in various discrete optimization problems,butitisveryeasytofallintothelocaloptimal solution dueto thenonlinearproblem,andthe bestfeature subset cannotbeobtained.Thenoisereductionself-encodercanbe mappedand reconstructedthroughamulti-layer nonlinear network, which hasagoodefecton Chinese medicine data.This paper proposes afeaturecombination methodoffusion noisereduction self-encoderandBPSO.This method mainlyuses noisereduction self-encodertoperform nonlinear mappingoffeatures to form super-complete basis,and then searches in super-complete basis through BPSO.To getthe best feature subset.The clinical diabetes datasetsand UCIdatasetswereused foranalysisand procesing.Theexperimentalresultsshowedthatthecombination of fused-noise self-encoder and BPSO features a good adaptability to clinical experimental data of TCM. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Denoising Autoencoder;BPSO;Nonlinear; TCM ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在中医药领域的临床实验数据中，大多呈现出多成分、多靶点以及非线性的特点[11，且由于数据的复杂性，特征之间存在强相关性和冗余性。因此无法采用传统的统计分析方法来阐述数据内部的量效关系，所以亟需一种能够解决多变量与非线性问题的数据分析方法，为科研工作者提供技术支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "离散二进制粒子群算法(binary particle swarm optimization,BPSO)是由Kennndy 和Eberhart[2.3]共同提出的一种扩展粒子群优化方法，常常被被生物信息、背包问题和图形图像等领域广泛应用。但是BPSO在特征选择过程中容易陷入局部最优值[4]，导致该算法不能筛选出最佳特征子集。而降噪自编码器(denoisingautoencoder,DA)是由Vincent 提出的一种改良方法[5,6]，在自编码器的基础上对原始数据加入噪音，进行多层非线性网络学习，经过无监督的逐层贪心训练与系统性的参数优化，从而能够提取、编码出具有鲁棒性较好的特征。文献[7]提出了一种自适应离散粒子群算法，引入排斥过程克服早熟收敛问题，然而吸引与排斥的参数设置难以确定；文献[8]提出了一种基于SVM-RFE-BPSO 算法的特征选择方法，利用SVM-RFE快速去掉部分无关特征，然后以粒子群算法继续搜索最优特征子集，同样其参数的设置也是难以确定；文献[9]提出了一种带有高斯白噪声扰动的混合粒子群算法，引入自适应调整种群多样性的阈值，使其不易陷入局部最优值，然而新的约束条件也使得最优值极不稳定。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因此，本文将降噪自编码器与离散二进制粒子群算法组合优化，通过DA的三层网络结构对特征进行非线性映射，使得输入层与输出层的数据尽可能相似[10.11]，从而形成超完备基，并利用BPSO在超完备基上进行搜索，直至找到最优特征组合为止。该算法不仅可有效的去除冗余特征，同时还能防止局部最优值，从而建立一个适合中医药数据的分析模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1融合 DA 的离散二进制粒子群算法 (DA-BPSO)模型构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "降噪自编码器[12]是结合鲁棒性和腐化输入对自编码器进行修改的方法。其基本思想是先进行腐化处理，即将原始输入矩阵 $\\scriptstyle \\mathbf { X = } ( x _ { 1 } , x _ { 2 } , x _ { 3 } , . . . , x _ { n } )$ 里的每个值 $x _ { i } \\left( i = 1 , 2 , 3 \\cdots \\right)$ 随即置为0，使得部分数据的部分特征丢失，如 $\\tilde { X } = ( x _ { 1 } , 0 , 0 , x _ { 4 } . . . , x _ { n } )$ ，然后将腐化后的数据$\\tilde { x }$ 通过映射方法： $f _ { \\theta } ( x ) = S ( W _ { 1 } x + B _ { 1 } )$ ，映射成一个隐含层表达Y；对隐含层数据 $Y$ 利用重构方法： $g _ { \\theta ^ { \\prime } } ( y ) = S ( W _ { 2 } y + B _ { 2 } )$ ，重构成输出层数据 $z$ ；通过反复迭代训练，使得误差函数 $L _ { \\cal H } ( X , Z )$ 最小，从而尽可能保证 $z$ 近似于 $\\boldsymbol { \\underline { X } }$ □",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "离散二进制粒子群算法采用二进制形式的编码，用一组0或1的二进制串表示粒子的位置(代表解空间的位置)，根据其适应度函数值对粒子进行优劣评价，粒子的速度和位置会依据适应度值进行调整，从而实现粒子在解空间中搜索最优解。但是BPSO在非线性的数据中进行寻优，很容易陷入局部最优值，所以传统的BPSO难以满足中医药临床实验数据的特点，而DA可以有效的去除特征冗余和解决非线性等问题，故本文将DA和BPSO方法结合，提出了一种融合降噪自编码器与BPSO的特征组合方法，这样既可以反映数据的本质特征，也可以防止陷入局部最优值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DA-BPSO方法先是在降噪自编码器中，结合概率分布对原始输入数据腐化处理，再将处理后的数据集进行非线性映射与重构，并对模型的网络参数通过最小化均方误差调优操作，使得模型的效果最好，从而形成一组超完备基；然后利用BPSO在这组超完备基中寻找最优特征组合。该方法不仅可以提高分类器的分类准确率和降低冗余特征对其的影响，还可以找到对因变量最重要的一组影响因子。DA-BPSO 构建过程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4697bc1e8ff97c87fe9be1071309c7b745931acb3653d07fc5e85becf424e6a3.jpg",
+        "img_caption": [
+            "图1DA-BPSO 结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "具体步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)数据标准化预处理，原始数据 $X \\Rightarrow$ 标准化数据 $\\boldsymbol { \\mathbf { \\mathit { E } } }$ □",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)腐化操作，先基于二项分布 binomial(0-1)产生一个腐化矩阵Binom，再利用腐化矩阵对输入数据 $\\boldsymbol { \\mathbf { \\mathit { E } } }$ 进行腐化，即$E ^ { ' } = E \\cdot B i n o m _ { \\mathrm { ~ \\odot ~ } }$ （20",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)映射与重构，利用Sigmoid激活函数（式（1)）将腐化后的数据 $E ^ { ' }$ 映射成隐含层数据Y，再将数据 $Y$ 进行重构，得到输出层数据 $z$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns i g m o i d ( \\delta ) = \\frac { 1 } { 1 + e ^ { - \\delta } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)计算代价函数与优化参数。利用输出层数据 $z$ 与输入数据 $\\boldsymbol { \\mathbf { \\mathit { E } } }$ 计算代价函数 $\\boldsymbol { L } ( \\boldsymbol { E } , \\boldsymbol { Z } )$ ，并利用代价函数[14]的最小化均方误差进行参数优化，即通过反复迭代训练来更新网络中的参数，使得误差函数最小，从而得到效果较好的重构数据，形成超完备基。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最小化均方误差为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta , \\theta ^ { ' } = \\underset { \\theta , \\theta ^ { ' } } { \\arg \\operatorname* { m i n } } \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } L ( e ^ { ( i ) } , z ^ { ( i ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$L ( E , Z )$ 的损失函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { { \\scriptscriptstyle H } } ( e , z ) = - \\sum _ { k = 1 } ^ { d } [ e _ { k } \\log z _ { k } + ( 1 - e _ { k } ) \\log ( 1 - z _ { k } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "权重更新矩阵为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\{ { \\cal W }  { \\cal W } \\cdot \\displaystyle \\frac { \\hat { \\sigma } L ( e , y ) } { \\hat { \\sigma } W }  } \\\\ {  \\{ B _ { 1 }  b _ { y } - \\varphi \\cdot \\displaystyle \\frac { \\hat { \\sigma } L ( e , y ) } { \\hat { \\sigma } B _ { 1 } }   } \\\\ {   B _ { 2 }  b _ { z } - \\varphi \\cdot \\displaystyle \\frac { \\hat { \\sigma } L ( e , y ) } { \\hat { \\sigma } B _ { 2 } }   } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "e)初始化粒子的位置与速度。定义超完备基中的粒子数为$N$ ，维度为 $M$ ，则粒子群 $\\scriptstyle { \\mathcal { Q } }$ 可以表示为： $Q _ { i } = ( q _ { i } ^ { ( 1 ) } , q _ { i } ^ { ( 2 ) } , q _ { i } ^ { ( 3 ) } , . . . , q _ { i } ^ { ( M ) } ) , i = 1 , . . . , N$ ( $\\boldsymbol { Q } _ { i }$ 代表每个粒子的位置)，粒子的初始值采用二项分布随机生成0或1;每个粒子对应的速度 $V _ { i }$ 定义为： $V _ { i } = ( \\nu _ { i } ^ { ( 1 ) } , \\nu _ { i } ^ { ( 2 ) } , \\nu _ { i } ^ { ( 3 ) } , . . . , \\nu _ { i } ^ { ( { \\cal M } ) } )$ ，对粒子的初始速度随机初始在[0,1]之间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "f)计算适应度函数值。对每个粒子中被选中的特征，并基于超完备基抽中的数据，组成新的数据集，利用分类器进行分类，计算准确率accuracy(Q），从而得到每个粒子的适应度函数值：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( Q _ { i } ) = - ( A ^ { * } a c c u r a c y ( Q _ { i } ) + B ^ { * } \\frac { 1 } { n _ { - } f e a t u r e s ( Q _ { i } ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：\"_features(Q）是特征子集的数量（即每个粒子中1的个数)，A和B是权重参数（根据不同数据集进行调整，使得其在分类准确率和特征子集大小之间进行折中)，取值范围在(0,1)之间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "g)记录每个粒子的历史最优适应度函数值 $f _ { i h } ( Q _ { i } )$ ，以及最优适应度函数值时对应的个体最佳位置 $Q _ { i h } = ( q _ { i } ^ { ( 1 ) } , q _ { i } ^ { ( 2 ) } , q _ { i } ^ { ( 3 ) } , . . . , q _ { i } ^ { ( { \\cal M } ) } )$ ，直至记录全部粒子的最优适应度函数值 $f _ { w h } ( Q _ { i } )$ 和对应的全体最佳位置 $Q _ { w h } = ( q _ { i } ^ { ( 1 ) } , q _ { i } ^ { ( 2 ) } , q _ { i } ^ { ( 3 ) } , . . . , q _ { i } ^ { ( M ) } )$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "h)对每个粒子的位置和速度进行更新，更新公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle V _ { i } ^ { k + 1 } = w V _ { i } ^ { k } + c _ { 1 } \\xi ( Q _ { i h } ^ { k } - Q _ { i } ^ { k } \\mathbf { \\xi } ) + c _ { 2 } \\eta ( Q _ { w h } ^ { k } - Q _ { i } ^ { k } \\mathbf { \\xi } ) } \\\\ { \\displaystyle \\mathcal { Q } _ { i } ( t + 1 ) = \\left\\{ 0 , i f ( r _ { 0 } \\geq S i g ( V _ { i } ( t + 1 ) ) ) \\right. } \\\\ { \\displaystyle 1 , o t h e r w i s e }  \\\\ { \\displaystyle S i g ( \\nu ) = \\frac { 1 } { 1 + e x p ( - \\nu ) } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $w$ 是保持原来速度的系数，称做惯性权重；和 $c _ { 2 }$ 是粒子跟踪自己历史最优的权重系数和粒子跟踪群体最优值的权值系数，c和 $c _ { 2 }$ 是通常设置在[1,2]之间(经过多次实验将其设置为2);和\"是[0,1]区间的均匀分布随机数， ${ { \\underline { { { Q } } } } _ { i } ^ { k } }$ 为第 $i$ 个粒子在第 $k$ 步的时的取值， $\\textit { t }$ 为迭代次数， $r _ { 0 }$ 是均匀分布的随机数， $s i g ( \\nu )$ 是激活函数；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "i)重复寻优过程，直至找到最优位置，该位置即为最优特征组合，算法终止。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验结果及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 实验数据说明",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文的实验数据主要来源于江西中医药大学重点实验室的临床糖尿病数据和UCI数据集上的WineQuality、CASP。其中WineQuality数据中有11个特征，1600个样本；CASP有9个特征，45730个样本；临床糖尿病实验数据共有特征数16个，样本数284个，其特征主要有：BMI（指偏胖、肥胖、正常和瘦）、入组HDLc、入组胆固醇、入组甘油三酯（TG)、入组胰岛素（oh）、入组糖化血红蛋白、入组收缩压、入组空腹静脉血糖、黄连分组编号等。部分实验数据如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/da678718d654fa03f051d86d41c803b6fb8d5b3690e8edc070ab8508dcd1422e.jpg",
+        "table_caption": [
+            "表1临床糖尿病部分数据"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>BMI</td><td>HDLc</td><td>胆固醇</td><td>TG</td><td>0h</td><td>组号</td><td></td></tr><tr><td>24.4</td><td>1.52</td><td>4.89</td><td>1.69</td><td>114.33</td><td>A</td><td></td></tr><tr><td>25.1</td><td>1.38</td><td>5.02</td><td>3.14</td><td>56.2</td><td>A</td><td>：</td></tr><tr><td>30.8</td><td>1.09</td><td>5.35</td><td>9.91</td><td>53.79</td><td>A</td><td>：</td></tr><tr><td>：</td><td>…</td><td></td><td></td><td></td><td>：</td><td></td></tr><tr><td>30.2</td><td>1.19</td><td>5.54</td><td>1.51</td><td>81.32</td><td>B</td><td>：</td></tr><tr><td>27.1</td><td>1.12</td><td>5.08</td><td>1.53</td><td>43.95</td><td>B</td><td>：</td></tr><tr><td>24.6</td><td>0.88</td><td>6.35</td><td>20.11</td><td>152.8</td><td>B</td><td></td></tr><tr><td>…</td><td>…</td><td></td><td></td><td></td><td>：</td><td>：</td></tr><tr><td>23.2</td><td>1.13</td><td>6.25</td><td>3.78</td><td>392.52</td><td>C</td><td></td></tr><tr><td>21.9</td><td>1.6</td><td>5.02</td><td>0.97</td><td>74.96</td><td>C</td><td>：</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2实验过程和结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证DA-BPSO的有效性，采用原始数据的全部特征（下面称为原始特征）与4种策略进行比较，策略分别有传统的BPSO 搜索的特征组合、混合粒子群算法(HDPSO)搜索的特征组合、自适应离散粒子群算法(SADPSO)搜索的特征组合和DA-BPSO搜索的特征组合。采用上述不同策略对三个数据集进行特征分析，得出的结果为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)临床糖尿病数据。BPSO 选择策略后特征数有8个， HDPSO选择策略后特征数有11个，SADPSO选择策略后特征 数有8个，而DA-BPSO由于进行DA操作时，将特征映射成 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "30维，映射后的特征数为30个，所以其选择后的特征数有11 个，如图2所示。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)数据集WineQuality。BPSO 选择策略后特征数有4个， HDPSO 选择策略后特征数有7个，SADPSO 选择策略后特征 数有5个，同样的由于进行DA处理时将特征映射成20维，映 射后的特征数为20个，所以DA-BPSO 选择后的特征数有12 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/871129d01ef3f266f4b57b3e718a108be52b75f7f17f0f0bf42e7326d408ec38.jpg",
+        "img_caption": [
+            "图3所示。"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)数据集CASP。BPSO选择策略后特征数有2个，HDPSO 选择策略后特征数有5个，SADPSO选择策略后特征数有4个， 同样的由于进行DA时将特征映射成 20 维，映射后的特征数 为20个，所以DA-BPSO选择策略后的特征数有7个，如 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/21b2bc7a912a67c3bee76a9814a767fa2b7d9ca45230000347811f5ae7d294b5.jpg",
+        "img_caption": [
+            "图4所示。"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce6e699943194edc32d46120ba6178cfb34631400dc793bc4153ac8625593e75.jpg",
+        "img_caption": [
+            "图2临床糖尿病数据的特征数量"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/468d9855285fa15132cd5003d48ce85307ebf54a7c63b3a50cd22de894203fbc.jpg",
+        "img_caption": [
+            "图3WineQuality的特征数量"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f050624002cd0b8d1441c7e4312314675d93343812229fd50eadd24353ca743.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4CASP的特征数量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步分析改进算法的效果，本文选择以SVM作为分类器，分别以训练集（Train）和测试集（Test）的准确率作为比较，其中三个数据集都以7:3的比例随机划分成训练集和测试集，即 $70 \\%$ 构建学习训练集， $30 \\%$ 做测试集。由于在特征选择的时候，均是每次迭代1000次的最优结果，因此为了防止局部最优值的扰动，对每种策略各运行10次选择最优的特征组合。比较结果如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e14159048c2a234e580e2f528f984614443b9300ce4d1988dafcc27f62fb0dff.jpg",
+        "table_caption": [
+            "表2原始特征与4种策略的实验结果比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">原始特征</td><td colspan=\"2\">BPSO</td><td colspan=\"2\">HDPSO</td><td colspan=\"2\">SADPSO</td><td colspan=\"2\">DA-BPSO</td></tr><tr><td></td><td>Train</td><td>Test</td><td>Train</td><td>Test</td><td>Train</td><td>Test</td><td>Train</td><td>Test</td><td>Train</td><td>Test</td></tr><tr><td>Wine Quality</td><td>0.5957</td><td>0.5267</td><td>0.5628</td><td>0.5506</td><td>0.5533</td><td>0.5628</td><td>0.5828</td><td>0.5742</td><td>0.6014</td><td>0.5933</td></tr><tr><td>临床糖尿病数据</td><td>0.3600</td><td>0.1056</td><td>0.3566</td><td>0.1227</td><td>0.3266</td><td>0.1702</td><td>0.3433</td><td>0.2304</td><td>0.3733</td><td>0.2978</td></tr><tr><td>CASP</td><td>0.7312</td><td>0.6415</td><td>0.7165</td><td>0.6548</td><td>0.6849</td><td>0.6654</td><td>0.7512</td><td>0.7054</td><td>0.7489</td><td>0.6900</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据上表可知，采用SVM作为分类器，原始特征的训练集准确率分别为0.5957、0.3600、0.7312，测试集的准确率分别为0.5267、0.1056、0.6415。为了更直观的显示实验结果，分别绘制了图5和6，以体现训练集和测试集的准确率波动情况。由结果分析图可知，在训练集上原始特征的效果相对于BPSO与 HDPSO都要好，然而测试集上就相对差很多，主要原因就是特征之间的冗余对测试集分类准确度的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同时可以发现SADPSO在减少了特征数量的情况下，相比HDPSO在训练集和测试集的准确率都略有所提升。而DA-BPSO在特征数量较多时，训练集的准确率分别为0.6014、0.3733、0.7489，测试集的准确率分别为0.5933、0.2978、0.6900，相比HDPSO、SADPSO两种策略而言，虽然DA-BPSO 映射后的特征数较多，但其准确率都表现出比较好的效果，说明改进的算法具有较强的鲁棒性。同时与原始特征的准确率相比较可得知，DA-BPSO 的效果均比其要好，特别是在临床糖尿病数据集上，呈上升趋势（如图6所示)。综上所述，改进的算法对具有非线性特点的中医药临床实验数据适应性良好，且能够防止陷入局部最优，从而得到最佳特征子集。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/46ba768ad8e9882a5a13d97f335247ad2bf6b7518742ab8ad49416271c737f84.jpg",
+        "img_caption": [
+            "图5原始特征与4种策略的实验结果(Train)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6da4cd0e2e0dddf433277ab176322b6c05f9e2ab1e4c60db1f4e3def7a7a2bb.jpg",
+        "img_caption": [
+            "图6原始特征与4种策略的实验结果(Test)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文针对在具有非线性特点的中医药临床数据中，传统的离散二进制粒子群算法容易陷入局部最优解，导致无法得到最佳特征子集的问题，提出了融合降噪自编码器与BPSO的特征组合方法，充分利用降噪自编码器在构建模型时加入噪音，同时进行非线性映射与重构获取超完备基等优点，并结合BPSO算法寻找最优特征组合，从而可有效的防止陷入局部最优解，增强模型的鲁棒性和泛化性。通过在临床糖尿病数据和UCI数据集的实验比较，证明该改进的算法明显提高了模型的分类精度和非线结构的表达，是一种适合于中医药领域的数据分析方法。但改进的算法也存在不足之处，其隐含层的个数会影响算法速度，从而导致需要更多的迭代次数才能达到最优效果。在接下来的工作中，将继续提升算法的搜索效率，同时在构建模型时如何保证相关参数的合理设置还可做进一步的研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]张伯礼，王永炎．组分配伍研制现代中药的理论与实践：方剂关键科学 问题的基础研究[M]．沈阳：辽宁科学技术出版社，2010.(Zhang Boli, Wang Yongyan.Research and development of modern Chinese medicine by multi-components compatibility: theory and practice:fundamental research on key scientific issues of prescriptions [M].Shenyang:Liaoning Science ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Technology Press,2010.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2]李浩君，刘中锋，王万良．采用弧形映射函数的二进制粒子群优化算法 [J].小型微型计算机系统，2017,38(12):2637-2640.(Li Haojun,Liu Zhongfeng,Wang Wanliang.Binary particle swarm optimization algorithm with arcshaped transfer function [J]. Journal of Chinese Computer Systems, 2017,38 (12):2637-2640.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[3]J.Kennedy,R.C.Eberhart.A discrete binary version of the particle swarm algorithm[J].1997,5: 4104-4108 vol. 5.   \n[4]毕凯，王晓丹，邢雅琼．基于改进 BPSO 的聚类选择性集成[J]．系统 工程与电子技术,2016,38(3):692-698.(Bi Kai,Wang Xiaodan,Xing Yaqiong. Cluster ensemble selection based on improved BPSO [J]. Journal of Systems Engineering and Electronics,2016,38 (3): 692-698.)   \n[5]Vincent P. A connection between score matching and denoising autoencoders.[J].Neural Computation,2011,23(7):1661-74.   \n[6]Zhang Z,Jiang T,Li S,et al.Automated feature learning for nonlinear process monitoring:an approach using stacked denoising autoencoder and k-nearest neighbor rule [J].Journal of Process Control,2018,64(April 2018).   \n[7]Dengli B U.MPRM minimization algorithm based on SADPSO [J]. Journal of Chongqing University of Posts & Telecommunications,2016.   \n[8]林俊，许露，刘龙．基于 SVM-RFE-BPSO 算法的特征选择方法[J]．小 型微型计算机系统,2015,36(8):1865-1868.(Lin Jun,Xu Lu,Liu Long. Feature selection method based on SVM-RFE and particle swarm optimization [J].Journal of Chinese Computer Systems,2015,36(8):1865- 1868.)   \n[9]刘衍民．一种求解约束优化问题的混合粒子群算法[J].清华大学学报: 自 然科学版，2013(2):242-246.(Liu Yanmin.Hybrid particle swarm optimizer for constrained optimization problems [J].Journal of Tsinghua University: Science and Technology,2013 (2): 242-246.)   \n[10]Lore K G,Akintayo A,Sarkar S.LLNet:A deep autoencoder approach to natural low-light image enhancement [J]. Pattern Recognition,2016,61: 650-662.   \n[11]王宪保，何文秀，王辛刚，等．基于堆叠降噪自动编码器的胶囊缺陷检 测方法[J].计算机科学,2016,43(2):64-67.(Wang Xianbao,HeWenxiu, Wang Xingang,et al. Capsule defects detection based on stacked denoising autoencoders [J].Computer Science,2016,43 (2):64-67.)   \n[12] Li Peng, Ning C. Feature learning for music auto-tagging using denoising autoencoder[J]. Journal of East China University of Science & Technology, 2017,43 (2):241-247.   \n[13]李阳辉，谢明，易阳．基于降噪自动编码器及其改进模型的微博情感分 析[J].计算机应用研究,2017,34(2):373-377.(LiYanghui,XieMing,Yi Yang. Sentiment analysis of micro-blogging based on DAE and its improved model[J].Application Research of Computers,2017,34(2): 373-377.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

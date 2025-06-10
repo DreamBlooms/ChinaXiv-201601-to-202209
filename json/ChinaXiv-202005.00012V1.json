@@ -1,0 +1,520 @@
+[
+    {
+        "type": "text",
+        "text": "天山云杉雪盖面积估算树冠截留雪水当量实验分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王毅帆'，谢玲}³，常顺利'，刘素红}²，玛丽亚木·玛木提'，米尔扎提·依明¹，阿卜杜外力·阿卜杜克热木",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．新疆大学资源与环境科学学院,新疆 乌鲁木齐830046；2．北京师范大学地理学部,北京100875;3．广西师范大学环境与资源学院，广西 桂林541004)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：雪水当量是一个能直观反映出积雪水资源量的重要指标，准确而全面地获取天山云杉树冠截留雪水当量信息,对于提高天山水资源量计算精度方面具有重要意义。本文以天山云杉树苗为研究对象,通过模拟降雪,进行降雪截留实验研究。利用数码照相机获取云杉的雪盖面积、高精度天平称量树冠上截留的雪水质量，进而建立起云杉树苗雪盖面积和雪水当量之间的关系。实验结果表明：多株云杉树苗多次模拟降雪,树冠截留的雪水当量和垂直朝下数字摄影获得的雪盖面积之间拟合曲线趋于一致，且拟合回归方程满足 $y = 2 1 . 2 3 5 x ^ { 2 } - 1 . 4 5 7 x ( R ^ { 2 } =$ 0.9925);通过云杉多次模拟降雪实验，构建云杉雪盖面积与树冠截留的雪水当量模型,提出一套利用雪盖面积较为准确估算树冠截留雪水当量的科学方法,为天山云杉树冠截留降雪及其雪水当量提供高精度估算模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：天山云杉；树苗；模拟降雪；雪盖面积；数字照片；雪水当量；估算模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雪是地球表面活跃的自然要素，是降水主要来源之一，在水文循环过程中占有重要地位，影响着区域甚至是全球尺度的气候变化过程[1]。雪水当量是指当积雪完全融化后所得到的水形成水层的垂直深度，等于积雪密度与积雪深度的乘积[2]，树冠截留雪水当量等于树冠截留雪的质量除以树冠的投影面积和雪密度[3]。雪水当量(SWE)是表示积雪水资源量多少的重要指标，也是水文模拟中的重要输入参数,能直观的反映出积雪中的水资源量[4]。因此，利用云杉树冠截留雪盖面积准确估算雪水当量，对于提高天山水资源量的计算精度方面起着不可忽视的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于遥感技术的雪盖面积监测已相当成熟，目前关于积雪的遥感监测有光学遥感[5-6]、被动微波遥感监测积雪[7]。早期的遥感积雪监测多集中在较小的流域范围内，大范围的积雪监测始于20世纪60 年代初TIROS－1气象卫星影像[8]。随后ESSA-3的 AVCS,SR，VHRR,NOAA 的 AVHRR,IMS，以及目前的MODIS,LandsatMSS,TM和ETM $^ +$ 等[9],还有国产环境减灾（HJ-1B）、风云（FY-3A)气象卫星也用于积雪遥感监测。基于遥感影像对积雪盖度监测及遥感反演积雪参数雪水当量等均建立在下垫面均一的理想平面上。但实际遥感监测中因下垫面各异，其积雪变化过程及积雪深度不尽相同，已有研究表明森林、草地、天然次生林与人工林等不同下垫面积雪过程及积雪深度存在差异[10-11]。天山中段的山地针叶林带很大程度上影响了该地区整体雪盖的识别精度[12]。长期以来,关于树冠对积雪截留已有大量的实证研究，如森林覆盖对积雪累积和消融的影响[13-14],树冠结构影响积雪累积和消融[15],森林覆盖变化影响对雪过程的估计等[16]。近年来,国内外相关学者在雪水当量的微波遥感方面做了大量研究工作，如用被动微波遥感[17-20]、合成孔径雷达[21]进行了多种算法的反演[],但被动微波遥感影像的空间分辨率普遍较低,以至于难以准确获取雪水当量信息[22]。所以，需要在遥感手段的基础上结合地面实测数据进行补充和验证，从而提高定量遥感反演雪水当量的精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本研究为获得树冠截留的雪水当量，设计了一套实验方法：以天山云杉树苗为研究对象，通过模拟降雪的方式，在云杉树苗上进行降雪截留实验研究，利用数码照相机获取云杉的雪盖面积、高精度天平获取树冠上截留的雪水质量，进而建立起云杉树苗雪盖面积和树冠截留雪水当量之间的关系，为天山云杉树冠截留降雪及其雪水当量提供地面实测的数据和资料及高精度的估算模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1云杉树苗取自乌鲁木齐县新园林苗圃场,选取了2棵 $1 0 \\mathrm { ~ a ~ }$ 生天山云杉（Ⅰ云杉高 $1 . 2 5 \\mathrm { ~ m ~ }$ ，重$2 4 . 8 ~ \\mathrm { k g }$ ,最大冠幅 $0 . 9 5 \\mathrm { ~ m ~ }$ ；Ⅱ云杉高 $1 . 5 \\mathrm { ~ m ~ }$ ，重28$\\bf k g$ ,最大冠幅 $1 . 2 \\mathrm { ~ m ~ }$ )移栽进花盆。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2电子秤型号为锐箭衡器高精度防水电子秤,最大量程 $3 0 ~ \\mathrm { k g }$ ,最小量程 $\\mathrm { ~ 1 ~ g ~ }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.3相机型号为 Sony DSC-RX0M2G,有效像素 $1 ~ 4 0 0 \\sim 1 ~ 6 0 0$ 万像素，伸缩式广角高清摄像机。1.1.4筛子选取10 目规格的钢丝网筛,上端直径 $5 2 ~ \\mathrm { c m }$ ,底部直径 $4 5 \\ \\mathrm { c m }$ ,深度 $8 ~ \\mathrm { c m }$ ，承重 $5 0 ~ \\mathrm { k g }$ 。1.1.5观测平台铝合金移动平台梯,高 $1 . 5 \\mathrm { ~ m ~ }$ ，用于人工降雪和俯视成像。  \n1.1.6背景板长 $2 \\mathrm { ~ m ~ }$ 宽 $2 \\mathrm { ~ m ~ }$ 的深色布料为背景板，以便于区分雪和非雪，精确分类。  \n1.1.7塑料纸圆形中空塑料纸,直径 $3 \\mathrm { ~ m ~ }$ ,围于树干底部，防止实验过程中雪进入花盆和电子秤，造成误差。  \n1.1.8雪粒实验雪粒均为真实初雪雪粒,收集无污染无杂质区域雪粒。  \n1.1.9雪密度仪器重 $2 2 0 \\ \\mathrm { g }$ ,尺寸大小为 $1 0 \\ \\mathrm { c m } \\times$ $1 0 \\ \\mathrm { c m } \\times 1 0 \\ \\mathrm { c m }$ 的高精度雪铲。  \n1.1.10实验场地及实验台实验场地大小为$1 0 \\ \\mathrm { m } \\times 2 0 \\ \\mathrm { m }$ （图1），降雪实验地大小为 $4 \\mathrm { ~ m ~ } { \\times } 4 \\mathrm { ~ m ~ }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/96bb32b7d080be425ae336118e71b0bee1c98c0f976251d3536d953f6e39945b.jpg",
+        "img_caption": [
+            "图1实验场地及实验示意图",
+            "Fig.1Experiment site and schematic diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1场地布置清理降雪实验地杂物,将深色背景布料铺平水平放置在降雪试验地中央，其次将带花盆的云杉树苗放在电子秤上，一并将其置于背景板中央，观测平台置于底部背景板旁并固定其位置，塑料纸围于花盆口的树干底部，筛子分别固定于距离背景板垂直高度（I云杉） $1 . 5 \\mathrm { ~ m ~ }$ 和(Ⅱ云杉）$2 \\mathrm { ~ m ~ }$ 处。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2模拟降雪在试验场地取雪区取净雪，将净雪过10目筛，使雪均匀、匀速地落到云杉上各处，一定量后撤离塑料纸，并记录电子秤显示的数值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3雪盖面积获取在固定位置距离背景板垂直高度(I云杉） $1 . 5 \\mathrm { ~ m ~ }$ 和(Ⅱ云杉) $2 \\mathrm { ~ m ~ }$ 处，用数码相机进行拍照，重复上述步骤获取实验数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验同时，利用雪密度仪器测量实验的雪密度以及量测云杉枝条的投影面积。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "共进行3组实验，I云杉用于第1组实验，Ⅱ云杉用于第2、第3组实验，第1组实验和第2、第3组实验进行对比，目的是对比不同大小冠层的云杉对实验结果的影响，及不同大小冠层的云杉雪盖面积与树冠截留雪水当量之间的曲线关系。第2、第3组实验目的是验证单株云杉多次模拟降雪，其雪盖面积与树冠截留雪水当量之间拟合的曲线是否一致。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1类别样本选取对图像数据进行裁剪，在背景区域裁剪出整个树苗，同时去除背景中的杂物，利用裁剪好的图像提取样本，样本分别为雪、云杉树冠、其他3类（各类样本分离度达1.9以上），各类样本分别选择1000个、300个、100个，且样本均匀分布在整幅图像上（图2）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bdbad0ddde75a349d6b22d9c0dae6792ef8ee2d1b69a73413b3d58a09b23a71.jpg",
+        "img_caption": [
+            "图2训练样本的选取",
+            "Fig.2Selection of training samples "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2最大似然分类采用最大似然分类方法进行监督分类，对类别样本对应的影像数据进行分类处理，记录影像数据隶属各类别的数量。根据训练样本提取特征向量，构造出各类别的多维正态分布模型即概率密度函数或者概率分布函数。在得到各类的多维分布模型后，对未知类别的数据向量，通过贝叶斯公式计算其属于哪个类别的概率值，并通过比较概率大小，属于哪一类的概率大（最大值选择器），则将该数据向量或者像元归为此类[23]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不考虑先验概率的最大似然分类法的判别函数为[24]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 1 i } ( X ) \\ = P ( { x } / { \\omega _ { i } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\omega _ { i }$ 代表类别 $i \\pmb { \\mathscr { s g } } _ { 1 i } \\left( X \\right)$ 代表 $\\omega _ { i }$ 的判别函数; $X$ 为待分类的特征向量; $P \\left( \\boldsymbol { x } / \\omega _ { i } \\right)$ 为 $\\omega _ { i }$ 的概率密度函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑先验概率后，最大似然分类法的判别函数为[25]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 2 i } ( X ) \\ = P ( x / \\omega _ { i } ) P ( \\omega _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $P ( \\omega _ { i } )$ 为 $\\omega _ { i }$ 的先验概率，即 $\\omega _ { i }$ 类在影像中的面积比例，当假定各类别具有相等的分布面积时，式(2)等同于式（1）； $g _ { 2 i } \\left( X \\right)$ 表征着特征向量 $X$ 对 $\\omega _ { i }$ 类的后验概率 $P ( x / \\omega _ { i } )$ 的大小，因此式(2)按照后验概率的大小确定像元的归属，其不仅考虑了特性向量与预先给定的类别特征的相似程度，也考虑了类别在影像中的面积比例。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3雪盖面积估算雪水当量聚类统计3种类别的像素数，利用最大似然分类结果，并结合实测数据计算树冠截留的雪盖面积。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "雪水当量 $\\left( \\begin{array} { l } { \\boldsymbol { W } } \\end{array} \\right) ^ { [ 2 , 2 3 ] }$ ：对于厚度为 $h$ 的雪层的$W$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { W } = \\int _ { 0 } ^ { h } \\boldsymbol { \\rho } _ { s } \\mathrm { d } z\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "若雪层密度均匀，则 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { W } = \\rho _ { s } h\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd = \\frac { V _ { ( \\not \\equiv ) } } { S _ { ( \\not \\equiv ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $V _ { ( \\Xi ) }$ 表示雪的体积; $S _ { ( \\Xi ) }$ 表示雪盖面积。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { ( \\Xi ) } = { \\frac { m _ { ( \\Xi ) } } { \\rho _ { ( \\Xi ) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $m _ { ( \\sharp ) }$ 表示雪的质量： $p _ { ( \\sharp ) }$ 表示雪的密度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文假设人工降雪树冠截留的雪层密度均匀，对实验数据进行整理，计算雪盖面积并估算出树冠截留的雪水当量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 实验分类结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别对I云杉和Ⅱ云杉进行3次模拟降雪实验，共16组照片，并对模拟降雪的云杉俯视图片进行最大似然分类，分类结果见图3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2云杉雪盖面积估算树冠截留雪水当量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本实验假设雪密度均匀，利用式（4）、式（5）和式（6），分别针对I云杉和Ⅱ云杉的每组实验，计算雪盖面积与雪水当量，结果如表1、表2和表3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1是I云杉人工模拟降雪，分别对6次观测值计算对应的雪盖面积和雪水当量，实验结果表明，随着人工模拟降雪量的增加，1云杉雪盖面积逐渐增大，同时也伴随着树冠截留的雪水当量的增大。表2和3是Ⅱ云杉人工模拟降雪，实验结果同上，随着雪盖面积逐渐增大，树冠截留的雪水当量也增大。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2000f8b1e741a5277e36954a64d6189ec4235d1a9084dfc02d28b85ba44b3978.jpg",
+        "img_caption": [
+            "图3云杉模拟降雪最大似然分类",
+            "Fig.3Maximum likelihood classification of simulated snowfall of spruce "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b4adfd2d48bf0052a34f0ac08e478227c731230d9d22f2d1c3de4c9bfcf051dc.jpg",
+        "table_caption": [
+            "表1第1组实验I云杉雪盖面积和雪水当量的变化值 Tab.1First group exp: changes of snow cover area and snow water equivalent of I spruce "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 第1次 第2次</td><td></td><td>第3次</td><td>第4次</td><td>第5次</td><td>第6次</td></tr><tr><td>雪盖面积/m²</td><td>0.071 0.118</td><td>0.161</td><td>0.178</td><td>0.188</td><td>0.202</td></tr><tr><td>雪水当量/cm</td><td>0.187</td><td>0.569</td><td>1.017</td><td>1.260</td><td>1.568 1.902</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2第2组实验Ⅱ云杉雪盖面积和雪水当量的变化值",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0bd901b6c1ae6e84b37da3666c097d24ea2bcbf2d73429433a9db99b5ee46db2.jpg",
+        "table_caption": [
+            "Tab.2Second group exp:changes of snow cover area and snow water equivalent of I spruce "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>第1次</td><td>第2次</td><td>第3次</td><td>第4次</td></tr><tr><td>雪盖面积/m²</td><td>0.136</td><td>0.190</td><td>0.223</td><td>0.244</td></tr><tr><td>雪水当量/cm</td><td>0.249</td><td>0.513</td><td>0.746</td><td>0.917</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3第3组实验Ⅱ云杉雪盖面积和雪水当量的变化值",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f2b6a2b6c37968dccb5d0f55a8b74b429f5853b43505f6dc0f3ba5fb17b44ea5.jpg",
+        "table_caption": [
+            "Tab.3Third group exp: changes of snow cover area and snow water equivalent of I spruce "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 第1次</td><td colspan=\"4\">第2次第3次第4次第5次第6次</td></tr><tr><td>雪盖面积/m²</td><td>0.092 0.159</td><td>0.194 0.231</td><td>0.250</td><td>0.343</td></tr><tr><td>雪水当量/cm</td><td>0.136 0.242</td><td>0.473</td><td>0.723 0.965</td><td>2.020</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述3组实验表明，不同植株的云杉多次人工模拟降雪，其雪盖面积与树冠截留的雪水当量之间的变化趋势是相同的。其次，I云杉与Ⅱ云杉相比，随树冠截留的雪盖面积的增加，雪水当量迅速上升，这是因为I云杉冠幅较小，相比Ⅱ云杉承载雪的能力弱，饱和的较快。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3云杉雪盖面积与树冠截留雪水当量之间的相关性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文拟对I云杉和Ⅱ云杉，通过多次模拟降雪，对雪盖面积和树冠截留雪水当量拟构建二者之间的拟合方程，通过多次模拟雪盖面积和树冠截留的雪水当量的相关性分析，结果表明雪盖面积和树冠截留的雪水当量有显著的正相关性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第1组实验选择I云杉，实验的6次数据利用云杉雪盖面积与树冠截留雪水当量拟合曲线(表1)的判定系数 $R ^ { 2 }$ 为0.9905（图4），雪盖面积和树冠截留雪水当量的拟合效果可以用回归方程的判定系数 $R ^ { 2 }$ 表示， $R ^ { 2 }$ 越大,则拟合效果越好。由于开始模拟降雪时树冠截留降雪呈现雪盖面积大、雪水当量小的特点，所以，趋势线的多项式系数为二次，函数曲线为二次函数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第2组实验利用 $\\mathbb { I }$ 云杉雪盖面积与树冠截留雪水当量拟合曲线(图5)的判定系数 $R ^ { 2 }$ 为 $0 . 9 9 9 \\ : 6$ ，拟合回归方程为 $\\mathrm { y } = 1 8 . 1 6 9 \\mathrm { x } ^ { 2 } - 0 . 7 0 0 2 \\mathrm { x } _ { \\mathrm { c } }$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第3组实验利用 $\\mathbb { I }$ 云杉雪盖面积与树冠截留雪水当量拟合曲线的判定系数 $R ^ { 2 }$ 为0.9939（图6），拟合回归方程为 $y = 2 2 . \\ 1 7 2 x ^ { 2 } - 1 . \\ 7 5 8 \\ 9 x _ { \\mathrm { ~ } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1536fef67e8dd215f81183a4462ebf4d288b59b49ea0a7dc899b7e69659f84a6.jpg",
+        "img_caption": [
+            "图4第1组实验I云杉雪盖面积与雪水当量拟合 Fig.4First group exp: Snow cover area of I spruce and snow water equivalent fitting "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "合并第2和第3次实验数据（因I云杉树冠较小，树冠截留的雪较易饱和，所以选择同株云杉多次模拟降雪实验数据合并），利用云杉雪盖面积与树冠截留雪水当量拟合曲线的判定系数 $R ^ { 2 }$ 为0.992 5（图7），拟合回归方程为 $y = 2 1 . 2 3 5 x ^ { 2 } - 1 . 4 5 7 x .$ 。这说明多次人工模拟降雪，云杉雪盖面积与树冠截留的雪水当量之间拟合的曲线总是一致的，且具有稳定性，可能因植株的不同曲线的曲率略有不同，但总体上仍满足二次曲线的拟合。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8d9f88d1dda057209dfd493ff964d3c3401c7df749024daa2ff8ff4548e959a.jpg",
+        "img_caption": [
+            "图5第2组实验Ⅱ云杉雪盖面积与雪水当量拟合 Fig.5Second group exp: Snow cover area of II spruce and snow water equivalent fitting "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a34c8b8caf17d1378e5f3eddca4d474afe1a70a475dca64e7ebedf7d8c238a8c.jpg",
+        "img_caption": [
+            "图6第3组实验Ⅱ云杉雪盖面积与雪水当量拟合 Fig.6Third group exp:Snow cover area of II spruce and snow water equivalent fitting "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/899e02e21f9871b91458c3b487d1a9bb2a03b5b0586bd651ff53a4a135b62189.jpg",
+        "img_caption": [
+            "图7第2和第3组实验Ⅱ云杉雪盖面积与雪水当量拟合 Fig.7Second and Third group merge exp:Snow cover area of $\\mathbb { I }$ spruce and snow water equivalent fitting "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）多株云杉多次模拟降雪，无论植株大小，其雪盖面积与树冠截留的雪水当量之间拟合曲线是一致的,且基本呈二次曲线： $y = 2 1 . 2 3 5 x ^ { 2 } - 1 . 4 5 7 x .$ 。（2）通过对云杉树苗模拟降雪实验研究，提出一套通过雪盖面积准确估算树冠截留的雪水当量的科学实验方法，可为遥感反演雪水当量提供地面数据支撑和资料补充。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）尽管实验中的云杉树苗和实际天山林区云杉相比差异较大，但依然可以为遥感估算云杉树冠截留雪水当量提供理论依据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）通过对云杉树苗进行多次模拟降雪实验可知，由于开始模拟降雪时树冠截留的降雪均匀分布在树苗冠层上且厚度很薄，所以，呈现出承载初期雪盖面积增加快、雪水当量增加慢的特点；当树冠上积累一定量的降雪后，呈现出承载末期雪盖面积增加慢、雪水当量增加快的特点。所以，云杉雪盖面积和树冠截留雪水当量之间拟合的关系呈二次曲线。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）森林树冠对降雪的截留过程是森林区域水文循环中不可忽略的过程，不仅影响遥感反演的精度，同时也是陆面模式中一个影响能量平衡的重要参数，所以，开展树冠截留降雪研究对于冬季积雪森林区域的森林经营和气候变化有重要的科学意义。森林树冠截留降雪的再分配作用很大程度上影响森林内积雪的空间分布，并且与大气之间的能量交换和物质循环也明显地改变森林内积雪和融雪的过程[26-28]。受太阳辐射、温度和风速等外界因素和森林林分类型和结构的影响，降雪截留过程非常复杂。因此，林区树冠截留的雪水当量与其他环境因素也有影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）目前森林冠层对降雪截留过程的影响研究缺乏林分尺度上的观测研究，并且观测对象多集中在单株或单树尺度，且大多数森林冠层截留降雪模型都是以单株或单树尺度的研究结果为基础，但在林分尺度上，由于森林冠层具有复杂性，单株或单株尺度的研究结果很难代替林分尺度。本文模拟的降雪实验是通过相机监督分类，用像元个数获取云杉雪盖面积，从而建立起雪盖面积与树冠截留的雪水当量之间的函数，进行树冠截留雪水当量的估算。但实际对地表如森林地区积雪深度、雪水当量等的反演大多是建立在遥感技术的基础上[18.29]。对于天山林区的针叶林树冠截留的雪水当量反演，无疑加大了遥感反演的难度，云杉林冠降雨截留过程十分复杂[30],已有部分的研究,但云杉林冠降雪截留研究国内仍然较少。天山针叶林区冠层对降雪的截留,显著影响了天山森林区域的水文循环[31],降水过程的改变可能对区域环境产生显著影响[32]，因此，天山云杉树冠截留的雪水当量估算显得尤为重要。云杉树冠截留雪与云杉冠层的承载能力及云杉的叶面积指数在很大程度上有关联，冠层截留雪取决于冠层截留雪和枝条的结合度、冠层截留雪晶体间的黏结强度以及枝条的支撑强度[33]。基于云杉冠层数码图像是估算云杉叶面积指数的重要方法[34-35],且叶面积指数因其水文敏感性（调节蒸散，冠层截留等）成为耦合生态过程和水文过程的关键参数[36-37],因树龄差异引起的树冠承载能力及叶面积指数等差异，也对树冠截留的雪水当量估算有很大影响。并且人工模拟降雪和实际降雪之间也存在一定差异，这在一定意义上限制了森林树冠截留降雪水文模型的构建和过程机制的发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Adam JC,Hamlet AF,Lettenmaier DP.Implications of global climate change for snowmelt hydrology in the twenty-first century [J].Hydrological Processes,2010,23(7）:962-972.   \n[2] ShiJ,Dozier J.Estimation of snow water equivalence using SIR-C/ X-SAR.I. Inferring snow density and subsurface properties[J]. IEEE Transactions on Geoscience & Remote Sensing,2000,38 (6):2465 -2474.   \n[3］肖洋，张淑兰，宋国华.森林冠层影响降雪截留过程的研究进 展[J].水科学进展,2017,28(3）:144-153.[Xiao Yang,Zhang Shulan,Song Guohua. Review on the influence of forest canopy on the process of snowfall interception[J].Advances in Water Science,2017,28(3):144-153.]   \n[4］赵文宇.基于被动微波遥感和 MODIS 产品的天山雪水当量降 尺度研究［D].石河子：石河子大学，2016.［ZhaoWenyu.A Downscaling Method for Snow Water Equivalent Using Passive Microwave Remote Data and MODIS Products in the Tianshan Mountains[D].Shihezi:Shihezi University,2016.]   \n[5］唐志光,王建,梁继，等.基于MODIS 的青藏高原雪线高度遥 感监测[J].遥感技术与应用,2015,30（4）：767-774.［Tang Zhiguang,Wang Jian,Liang Ji,et al.Monitoring of snowline altitude over the Tibetan Plateau based on MODIS Data[J].Remote Sensing Technology and Application,2015,30(4）:767-774.]   \n[6]阚希,张永宏,曹庭,等.利用多光谱卫星遥感和深度学习方法 进行青藏高原积雪判识[J].测绘学报,2016,45（10）：1210- 1221.[Kan Xi,Zhang Yonghong,Cao Ting,et al. Snow cover recognition for Qinghai-Tibetan Plateau using deep learning and multispectral remote sensing[J]. Acta Geodaetica et Cartographica Sinica,2016,45(10):1210 -1221.]   \n[7］肖雄新,张廷军.基于被动微波遥感的积雪深度和雪水当量反 演研究进展[J].地球科学进展,2018,33（6）:590-605.[Xiao Xiongxin,Zhang Tingjun.Passive microwave remote sensing of snow depth and snow water equivalent:overview[J].Advances in Earth Science,2018,33(6）:590 -605.]   \n[8］曹云刚,刘闯.从AVHRR 到 MODIS 的雪盖制图研究进展［J]. 地理与地理信息科学,2005,21(5）:15-19.[Cao Yungang,Liu Chuang. The development of snow-cover mapping from AVHRR to MODIS[J]. Geography and Geo-Information Science,2005,21 (5):15 -19.]   \n[9］蒋友严,杜文涛,韩涛,等.基于HJ-1B 数据的积雪制图 NDSI 阈值分析—以祁连山积雪为例[J].冰川冻土,2013,35（3)： 648 -655.[Jiang Youyan,Du Wentao,Han Tao,et al.Analysis on NDSI threshold in mapping snow cover based on HJ-1B data-a case study of snow in the Qilian Mountains[J].Journal of Glaciology and Geocryology,2013,35(3）:648 -655.]   \n[10］夏坤,罗勇,李伟平.BATS-SAST模式对积雪深度的模拟试验 与改进［J].冰川冻土,2009,31（5）:871-879.［Xia Kun,Luo Yong,Li Weiping. Snow depths simulated by BATS-SAST model anditsimprovement[J].Journal of Glaciologyand Geocology, 2009,31(5) :871-879.]   \n[11］辛颖.阿什河上游天然次生林与人工林小流域水文生态效益 对比研究[D].哈尔滨:东北林业大学,2011.[Xin Ying.Comparison of Hydrological Ecology between Secondary Forest and Artificial Forest Small Watershed in the Upper Reaches of Ashihe River [D].Harbin;Northeast Forestry University,2011.]   \n[12］汪凌霄,肖鹏峰,冯学智.天山典型林带积雪的多角度遥感识 别[J].遥感学报,2012,16(5）:1035-1042,1044-1053.[Wang Lingxiao,Xiao Pengfeng,Feng Xuezhi. Retrieving snow information in typical forest zone of Tianshan mountains from multi-angle imaging spetroradiometer data[J]. Journal of Remote Sensing,2012, 16(5):1035 -1042,1044 -1053.]   \n[13]Gary HL.Airflow pattrns and snow accumulation in aforest clearing（Pinus contorta latifolia,pines,Colorado,Wyoming）[C]// Proceedings-Western Snow Conference（USA).1978.   \n[14]PomeroyJW,GranterRJ,Pietroniro A,et al.Hydrological Pathways in the Prince Albert Model Forest,NHRI Contribution Series No.CS-97004[J].National Hydrology Research Institute,Environment Canada:Saskatoon,1997.   \n[15]Musselman K N,Molotch NP,Brooks P D.Effects of vegetation on snow accumulation and ablation in a mid-latitude sub-alpine forest [J].Hydrological Processes:An International Journal,2008,22 (15) :2767 -2776.   \n[16]Woods S W,Ahl R,Sappington J,et al. Snow accumulation in thined lodgepolepinestands,Montana,USA[J].ForestEcology and Management,2006,235(1-3）:202-211.   \n[17］车涛,李新,高峰.青藏高原积雪深度和雪水当量的被动微波 遥感反演[J].冰川冻土,2004,26（3）:363－368.[Che Tao,Li Xin,Gao Feng.Estimation of snow water equivalent in the Tibetan Plateau using passive microwave remote sensing data( SSM/I) [J]. Journal of Glaciologyand Geocryology,2004,26（3）:363- 368.]   \n[18］孙之文,施建成,蒋玲梅,等.被动微波遥感反演中国西部地区 雪深、雪水当量算法初步研究［J].地球科学进展,2006,21 (12）:1363-1369.[Sun Zhiwen,Shi Jiancheng,Jiang Lingmei,et al.Development of snow depth and snow water equivalent algorithm in western China using passive microwave remote sensing data[J]. Advances in Earth Science,2006,21(12）:1363 -1369.]   \n[19］李新,车涛.积雪被动微波遥感研究进展[J].冰川冻土,2007, 29(3）:487-496.[Li Xin,Che Tao.A review on passive microwave remote sensing of snow cover[J]. Journal of Glaciology and Geocryology,2007,29(3）:487 -496.]   \n[20］黄慰军,黄镇,崔彩霞,等.新疆雪密度分布研究[J].中国农业 气象,2007,28(4）:383-385.[Huang Weijun,Huang Zhen,Cui Caixia,et al.Study on snow density distribution in Xinjiang[J]. Chinese Journal of Agrometeorology,2007,28（4）:383-385]   \n[21］汪左,冯学智,肖鹏峰,等.基于合成孔径雷达图像的山区雪水 当量反演[J].南京大学学报（自然科学版）,2015,51（5）:996 -1004.[Wang Zuo,Feng Xuezhi,Xiao Pengfeng,et al.Retrieval of snow water equivalence using SAR data for mountains area[J]. Journal of Nanjing University(Natural Science Edition）,2015,51 （5) :996 -1004.]   \n[22］施建成,熊川,蒋玲梅.雪水当量主被动微波遥感研究进展 [J].中国科学:地球科学,2016,46（4）:529.[Shi Jiancheng, Xiong Chuan,Jiang Lingmei.Review of snow water equivalent microwave remote sensing[J]. Science China Earth Sciences,2016, 46(4) :529. ]   \n[23］郑明国,蔡强国.一种新的土地覆盖类别面积估计方法及其在 最大似然分类法中的应用[J].资源科学,2007,29（3）：214- 220.[Zheng Mingguo,Cai Qiangguo.Anew aproach toarea estimation by land cover category and its application in Maximum Likelihood classification[J].Resources Science,2007,29（3）： 214 -220]   \n[24]Strahler A H.The use of prior probabilities in maximum likelihood classification of remotely sensed data[J].Remote Sensing of Environment,1980,10(2） :135 -163.   \n[25］彭望.遥感数据的计算机处理与地理信息系统［M].北京：北 京师范大学出版社,1991.[Peng Wang.The Computer Data Processing of Remote Sensing Data and Geographical Information System[M].Beijing:Beijing Normal University Press,1991.]   \n[26］张庆费,周晓峰.黑龙江省中部地区森林对融雪径流的影响 [J].植物资源与环境学报,1994,3（3）:36-40.［ZhangQingfei,Zhou Xiaofeng.Influence of forest on snowflow in the middle region of Heilongjiang Province[J]. Journal of Plant Resources and Environment,1994,3（3）:36-40.]   \n[27]Varhola A,Coops N C,Weiler M,et al.Forest canopy effects on snow accumulation and ablation :An integrative review of empirical results[J]. Journal of Hydrology,2010,392(3-4）:219 - 233.   \n[28]Moeser D,Morsdorf F,Jonas T.Novel forest structure metrics from airborne LiDAR data for improved snow interception estimation [J].Agricultural and Forest Meteorology,2015,208:40-49.   \n[29］俞正祥,韩广忠,蔡体久,等.基于GF-1遥感数据的大兴安岭 林区雪水当量反演[J].南京林业大学学报（自然科学版)， ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2017,41(3）:105-111.[Yu Zhengxiang,Han Guangzhong,Cai Tijiu,et al.Comparison between GF-1 data and Landsat-8 data in inversing SWE of the forest in the northern of Greater Khingan Mountain[J]. Journal of Nanjing Forestry University(Natural Sciences Edition）,2017,41（3):105-111.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[30］彭焕华，赵传燕,沈卫华,等.祁连山北坡青海云杉林冠对降雨 截留空间模拟——以排露沟流域为例[J].干旱区地理,2010, 33(4）:6OO-6O6.[Peng Huanhua,Zhao Chuanyan,Shen Weihua, et al.Modeling rainfall canopy interception of Picea crassifolia forest in Northern Slope of Qilian Mountains：a case of Pailugou catchment[J].Arid Land Geography,2010,33（4）:600-606.]   \n[31］陈曦,姜逢清，王亚俊,等.亚洲中部干旱区生态地理格局研究 [J].干旱区研究,2013,30（3）:385－390.[Chen Xi,Jiang Fengqing,Wang Yajun,et al. Characteristics of the eco-geographical pattern in arid land of central Asia[J].Arid Zone Research, 2013,30(3):385-390.]   \n[32］王涛，霍彦峰，罗艳.近300a来天山中西部降水与太阳活动的 小波分析[J].干旱区研究,2016,33（4）：708-717.［Wang Tao,Huo Yanfeng,Luo Yan.Precipitation and sunspots in the central west Tianshan Mountains in recent 3OO years[J].Arid Zone Research,2016,33（4):708-717.]   \n[33]Andreadis K M,Storck P,Lettenmaier D P.Modeling snow accumulation and ablation processes in forested environments[J].Wa",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "terResourcesResearch,2009,45(5):1-13. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[34］翟明娟,刘亚东,崔日鲜.基于冬小麦冠层数码图像的叶面积指 数和叶片SPAD值的估算［J].青岛农业大学学报（自然科学 版）,2016,33(2):91-96.[Zhai Mingjuan,Liu Yadong,Cui Rixian.Estimation of winter wheatleaf area index andleaf SPAD value based on digital canopy Image[J]. Journal of Qingdao Agricultural University(Natural Science Edition）,2016,33(2):91-96.]   \n[35］蒋丽伟,张家琦,赵一臣,等.北京山区典型林分生长季叶面积 指数动态变化[J].林业资源管理,2019（2）：132-136.［Jiang Liwei,Zhang Jiaqi,Zhao Yichen,etal.Dynamic change of leaf area index in the growing season of typical forests in Beijing mountainous area［J].Forest Resources Management,2019（2）:132- 136.]   \n[36］赵传燕，沈卫华,彭焕华.祁连山区青海云杉林冠层叶面积指 数的反演方法[J].植物生态学报，2009,33（5）：860-869. [Zhao Chuanyan,Shen Weihua,Peng Huanhua.Methods for determining canopy leaf area index of picea crassifolia forest in Qilian Mountains,China[J].Chinese Journal of Plant Ecology,2009,33 (5):860-869.]   \n[37]TurnerDP,Cohen WB,Kennedy RE,et al.Relationships between leaf area index and Landsat TM spectral vegetation indices across three temperate zone sites[J].Remote Sensing of Environment,1999,70(1):52-68. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Experimental analysis for estimating the canopy snow water equivalent intercepted by the snow cover area of the Tianshan spruce ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WANG Yi-fan’，XIE Ling1,³， CHANG Shun-li¹，LIU Su-hong1,2, Mariam Mamuti1， Mirzati Yimin'， Abdowli Abdukrmu1 (1.College of Resources and Environmental Sciences,Xinjiang University,Urumqi 83046,Xinjiang,China;   \n2.Department of Geography,Beijing Normal University,Beijing 1Oo875,China ;   \n3.Collegeof Environment and Resources,Guangxi Normal University,Guilin 541Oo4,Guangxi,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The snow water equivalent isan important indicator thatcan directly reflect theamount of snow waterresources.An accurate and comprehensive acquisition of snow water equivalent data intercepted by the Tianshan sprucecanopy is of considerable significance to improve the calculationaccuracy of the Tianshan water resources.In this study,experiments were conductedto investigate the snow interception of spruce using simulated snow and the Tianshan spruce saplings.The snow cover area of the spruce was obtained using a camera,and the mass of the spruce canopy interception water was measured using a high-precision balance.Further,the relation between the snow cover area andthe snow water equivalent was established.The experimental results show that the fiting curves between the snow water equivalent of the spruce canopy interception water and the spruce snow cover area obtained via vertical downward digital photography tend to be consistent for multiple spruce saplings over several simulated snowfall events ； the fitted regression equation is $y = 2 1 . 2 3 5 x ^ { 2 } - 1 . 4 5 7 x ( R ^ { 2 } = 0 . 9 9 2 5 )$ . Using repeated simulations of the spruce snowfallexperiment,the snow cover and snow water equivalent of the spruce canopy interception models were obtained.Accordingly,a scientific method has been proposed to estimate the snow water equivalent of the spruce canopy interception based on the snow cover to provide ahigh-precision estimation model with respect to the intercepted snowfall and snow water equivalent of the Tianshan spruce canopy. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:Tianshan spruce；sapling； simulated snowfall；snow cover area；digital photo；snow water equivalent；estimation model ",
+        "page_idx": 7
+    }
+]

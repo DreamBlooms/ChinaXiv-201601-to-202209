@@ -1,0 +1,165 @@
+# 近60a柴达木盆地沙尘天气时空变化特征及其影响因子
+
+陈晶¹²，郭晓宁³，白文娟²4，文霞25，杨延华6  
+(1.青海省黄南州气象局,青海 同仁 811399；2.青海省防灾减灾重点实验室,青海 西宁810001；3.青海省气  
+象台,青海 西宁 810001；4.青海省海东市气象局,青海 平安810600；5.青海省海西州气象局，青海 德令哈817000；6.青海省气候中心,青海 西宁810001)
+
+摘要：利用柴达木盆地9个代表站58a的扬沙、浮尘、沙尘暴日数和气温、降水、相对湿度等气象要素资料,通过统计学方法、Mann-Kendall检验、小波分析等方法,对柴达木盆地沙尘天气(扬沙、浮尘、沙尘暴)的时空变化特征及其影响因子进行了分析。结果表明：(1)58a来扬沙、浮尘、沙尘暴日数整体呈极显著下降趋势,20世纪70年代沙尘天气日数最多,21世纪初期沙尘天气日数最少;(2)扬沙日数在1997年发生了突变，突变后呈下降趋势；(3）沙尘暴日数存在10\~15a的长周期和5\~7a的短周期,扬沙日数也存在10\~15a的长周期，浮尘日数无明显周期性；（4）柴达木盆地沙尘天气的空间分布形态基本以西南多东北少为主;(5)扬沙、浮尘、沙尘暴日数与气压、大风日数和亚洲区极涡的面积、强度均呈正相关,与气温、西藏高原指数、印缅槽指数和西太平洋副热带高压、印度洋暖池的面积和强度呈负相关。
+
+关键词：扬沙日数；浮尘日数；沙尘暴日数；时空变化；柴达木盆地
+
+沙尘天气是指强风从地面卷起大量沙尘，使空气混浊、大气能见度降低的一种天气现象。根据沙尘天气的强度，可以将其分为3个等级：浮尘、扬沙和沙尘暴[]。沙尘天气在我国北方是一种严重的气象灾害，特别是强沙尘暴能在短时间内给生态环境和人类社会造成严重损失[2]。在国内外已有众多学者对不同区域的沙尘天气开展了研究，并得到了很多研究结论[3-5]。但沙尘暴多发区沙尘暴频数的变化趋势没有一个统一的全球模式[6。近45a来，我国沙尘天气的发生整体呈下降趋势[7]。20世纪70年代后，西北地区沙尘暴呈减少趋势，且发生具有鲜明的季节特征,尤其春季是沙尘暴的高发期[8]对于青海省沙尘天气的研究，前人也得到了很多研究结论[9-1],其中李璠等[12]研究得出，青海省沙尘日数整体呈波动下降态势，沙尘日数的季节变化从春季到冬季呈"V"形变化，青海省沙尘暴和浮尘的频发中心位于柴达木盆地。柴达木盆地位于青海省的西北部，该地区植被稀少，干旱少雨，冷空气活动频繁，是典型的局地生消型沙源地[13]。张焕平等[14]对柴达木盆地沙尘天气研究发现，1961—2010年来柴达木盆地扬沙、浮尘、沙尘暴日数均呈显著减少的趋势，在1979年沙尘天气出现了明显突变，1979年后减少幅度明显，2006年开始沙尘天气有增加的趋势，特别是沙尘暴增加趋势比较明显。郭晓宁等[15]进一步对春季柴达木盆地的沙尘天气研究得出，近50a来该区域春季沙尘暴、扬沙呈现下降趋势。沙尘暴日数60年代最多，70—90年代逐步减少，至21世纪前10a又有所回升。扬沙日数70年代比60年代增多，以后开始逐年代减少。
+
+本研究在前人研究的基础上，更新数据至2018年，对柴达木盆地沙尘天气的时间变化特征进行了更细致的研究，增加了基于最新数据的空间分布特征与沙尘天气相关的影响因子。研究结果不仅可以了解柴达木盆地最新沙尘天气的变化趋势，还为沙尘天气对空气质量的影响、当地植被荒漠化影响和沙尘灾害研究提供了科学参考。
+
+# 1 研究区概况
+
+柴达木盆地位于青海省西北部(图1)，是由阿尔金山脉、昆仑山脉和祁连山脉围绕的山间盆地，盆地东西长约 $8 0 0 \mathrm { k m }$ ，南北宽约 $3 0 0 \mathrm { k m }$ ，面积 $2 . 5 8 \times$ $1 0 ^ { 5 } \mathrm { k m } ^ { 2 }$ ,为中国三大内陆盆地之一[16-17]。盆地海拔$2 6 5 1 { \sim } 6 1 5 1 \ \mathrm { m }$ ,垂直分异明显,年降水量 $1 5 { \sim } 2 0 0 ~ \mathrm { m m }$ ，年平均气温在 $5 \mathrm { ^ \circ C }$ 以下，相对湿度 $30 \% { \sim } 4 0 \%$ ,干旱少雨,蒸发强烈，属典型的高原大陆性气候[18],盆地风力强盛，年8级以上大风日数可达 $2 5 { \sim } 7 5 \mathrm { ~ d ~ }$ ，西部甚至可出现 $4 0 \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 的强风，风力蚀积强烈
+
+![](images/7fe73bfac4779d1e95ccf4353aeb983fc123560f95ec5e0b8074f9c642a160f7.jpg)  
+图1柴达木盆地研究站点分布示意图  
+Fig.1Site distribution in the study area of Qaidam Basin   
+图2 扬沙、浮尘、沙尘暴日数年际变化  
+Fig.2Interannual variation of the days of blowing sands,floating dusts and sandstorm
+
+# 2 资料与方法
+
+# 2.1资料来源
+
+为了保证资料时间序列的完整性与代表性，选取柴达木盆地大柴旦、诺木洪、小灶火、都兰、冷湖、茫崖、德令哈、格尔木、茶卡9个气象站为代表站，使用这9个气象站1961一2018年的扬沙、浮尘、沙尘暴日数和其他气象要素的观测资料，资料数据来源于中国气象局综合气象信息共享平台（CIMISS）。本文中的季节划分为：春季3—5月、夏季6—8月、秋季9—11月、冬季12月至次年2月。其中1981—2010年为30a标准气候期。
+
+西藏高原指数是指 $5 0 0 \mathrm { { h P a } }$ 位势高度场在指定区域 $( 3 0 ^ { \circ } { \sim } 4 0 ^ { \circ } \mathrm { N } \sqrt { 5 ^ { \circ } } { \sim } 1 0 5 ^ { \circ } \mathrm { E } )$ 内各个格点高度值减去 $5 8 0 ~ \mathrm { d a g p m }$ （位势什米)后的累计值。指数越大，说明高度场数值越大，高度场偏高，反之亦然。
+
+# 2.2计算方法
+
+采用线性倾向估计法计算出沙尘日数逐年序列的线性变化趋势，并通过 $\mathbf { \Phi } _ { t }$ 检验法确定沙尘日数随时间的变化趋势是否显著,用Mann-Kendall法[19]来检验沙尘天气的突变时间，运用小波分析等统计诊断方法做出沙尘天气的周期变化。
+
+# 3结果与分析
+
+# 3.1沙尘天气的时间变化特征
+
+3.1.1沙尘天气年际变化由图2可以看到，柴达木盆地扬沙、浮尘、沙尘暴日数的年际变化趋势分别以 $2 . 6 \textup { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \cdot 4 . 3 \textup { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \cdot 0 . 8 \textup { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 的变化速率呈极显著(通过 $\scriptstyle \alpha = 0 . 0 1$ 显著性检验)下降趋势。沙尘天气的发生日数在1961—1979年间呈上升趋势，其中扬沙日数的上升幅度明显高于浮尘和沙尘暴，沙尘暴日数的上升速率最慢，1979年后这3类沙尘天气的日数均呈下降趋势，而扬沙和浮尘在21世纪00年代末起有反转的现象，沙尘暴维持下降趋势。近58a来扬沙(图2a）、浮尘(图2b)和沙尘暴(图2c)日数的平均值分别为14d、12d和5d,扬沙出现最多，沙尘暴出现最少，三者均在1990年之前为偏多年，之后为偏少年。这3类沙尘天气的最大
+
+平均值 线性趋势 三次多项式拟合330220150 (a)=-0.2552x+521.69 R²=0.3992 P/日 40353025201510 (b) 04346+875.52 P/日币 2108 6 (c) 0.0-0.4x+182.55450 50 201960 1980 2000 2020 19601970 1980 1990 2000 2010 2020 19601970 1980 1990 2000 2010 2020年份 年份 年份
+
+日数均出现在1979年，分别为 $3 3 \mathrm { ~ d ~ } , 3 8 \mathrm { ~ d ~ }$ 和11d,扬沙和沙尘暴的最小日数均出现在2013年，浮尘最小日数出现在1997年，3类沙尘天气出现的最小日数均为1d。近58a来,柴达木盆地在1979年出现沙尘天气的频次最多，沙尘暴发生的频次明显小于扬沙和浮尘。
+
+20世纪70年代沙尘天气出现了峰值，有学者认为，沙尘暴和扬沙天气需要的条件是足够强劲长久的风力和地表丰富的松散干燥的沙尘[20]，在70年代，反厄尔尼诺事件占优势，因此，我国北方由寒潮大风所引起的强沙尘天气出现很频繁。这与柴达木盆地沙尘天气峰值出现在70年代相呼应。有研究4发现,柴达木盆地沙尘日数和大风日数随时间的变化趋势具有一致性，且相关性明显，说明一定的大风是沙尘天气发生的必要条件。研究得到柴达木盆地大风日数在70年代出现最多，且在1976年、1979年出现次数最多，分别为66次和60次（图略),且这一时段柴达木盆地降水量也明显偏少[21],对沙尘天气的抑制作用也有所减小。加之该时期人类对草地盲目开垦、放牧加大，对地表荒漠化的加速有很大影响[22]。因此,该时段盆地土地荒漠化严重，并且大风日数峰值、降水偏少的气候背景，造成了柴达木盆地的沙尘天气在20世纪70年代达到峰值。3.1.2沙尘天气季节变化从沙尘天气的季节变化图3a可知，柴达木盆地沙尘天气有着明显的季节特征，其季节变化总体呈春季 $>$ 夏季 $>$ 冬季 $>$ 秋季的变化形势，占全年比例分别为： $5 5 . 1 \%$ 、 $2 1 . 8 \%$ 、$1 4 . 9 \%$ ） $8 . 2 \%$ ，可看出春季是沙尘天气的多发季节，这也和青海省雨热同期的气候特征有关[23]。其中，春季发生的浮尘日数和扬沙日数相近，均达7d以上，为发生沙尘暴日数的2倍以上，夏季发生扬沙日数 $>$ 浮尘日数 $>$ 沙尘暴日数，秋、冬季扬沙、浮尘、沙尘暴日数比例情况与夏季相似。
+
+3.1.3沙尘天气月变化从沙尘天气的月变化图(图3b)可知，柴达木盆地4月发生沙尘天气的频次最多，3月、5月次之，10月发生沙尘天气的次数最少，11月、12月更少。4月前发生沙尘日数呈明显上升趋势，上升速率为 $6 . 4 \mathrm { ~ d } \cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 } ,$ 4月后呈下降趋势，下降速率为 $1 . 9 \ : \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 。沙尘天气发生日数最多的为4月，发生的浮尘日数 $>$ 扬沙 $>$ 沙尘暴，分别为 $2 . 9 \textup { d } . 2 . 6 \textup { d }$ 和1.1d，在次多月3月、5月，浮尘日数与扬沙日数基本持平，二者远远大于沙尘暴日数，在沙尘天气发生最少月10月，扬沙日数 $>$ 浮尘日数 $>$ 沙尘暴日数。
+
+3.1.4沙尘天气年代际变化对柴达木盆地9个气象站的扬沙、浮尘、沙尘暴日数计算其与气候平均值的距平分析年代际变化可以得到(表1)。
+
+由表1可知，柴达木盆地20世纪70年代出现扬沙、浮尘、沙尘暴天气的日数最多，分别为 $2 3 \mathrm { d } , 2 4 \mathrm { d }$ 和7d;21世纪00年代频次最少，分别为6d、3d和4d。与气候平均值相比，60一80年代的扬沙、浮尘、沙尘暴日数均为正距平，沙尘天气日数呈上升趋势，90年代起扬沙、浮尘、沙尘暴日数为负距平，出现沙尘天气的次数呈下降趋势。
+
+# 3.2沙尘天气的突变检验
+
+对柴达木盆地沙尘天气发生日数进行突变检
+
+![](images/22aa28af6c79e4ae6a0d7f548603f6a484ea4c6c11597b1ed96cf4ebba28ed7c.jpg)  
+图3扬沙、浮尘、沙尘暴日数季节变化和月变化   
+Fig.3Seasonal and monthly change of the number of days of blowing sands,floating dusts ,sandstorm
+
+# 表1扬沙、浮尘、沙尘暴日数年代际距平变化
+
+Tab.1 Decadal anomalous changes of the days of blowing sands, floating dusts and sandstorm /d   
+
+<html><body><table><tr><td>类别</td><td>1961— 1970年代</td><td>1971— 1980年代</td><td>1981— 1990年代</td><td>1991— 2000年代</td><td>2001— 2010年代</td></tr><tr><td>扬沙</td><td>4</td><td>11</td><td>6</td><td>-1</td><td>-6</td></tr><tr><td>浮尘</td><td>14</td><td>17</td><td>6</td><td>-2</td><td>-4</td></tr><tr><td>沙尘暴</td><td>2</td><td>2</td><td>1</td><td>0</td><td>-1</td></tr></table></body></html>
+
+验(图4)，从扬沙日数的M-K突变检验图(图4a)可看出，扬沙日数在20世纪70年代前呈现先增后减的趋势，70年代后呈现增加趋势，但从1979年后呈现减少趋势，且从2002年开始减少的趋势超过了0.05的显著性水平，即从2002年开始柴达木的扬沙次数呈现显著减少趋势，这与郭晓宁等[15]分析的柴达木盆地春季扬沙日数变化趋势一致。综上所述，扬沙日数在1997年发生了突变，即从1997年后扬沙日数减少的趋势是一种突变现象。浮尘和沙尘暴日数的M-K突变检验中 $U F$ 线与UB线相交点均在可信度线外(图4b、图4c），所以无法确定其突变点。郑广芬等[24-25]研究指出，1997年以来西北地区气候趋于变暖，特别是20世纪80年代后期随着全球气候变暖，1998年至21世纪初盆地气温呈持续升温趋势，北方冷空气活动次数呈逐年减少趋势，大风、沙尘暴也随之逐年减少，对应扬沙天气在1997年后发生了减少趋势的突变，所以全球气候变化使得柴达木盆地暖湿化，暖湿化是沙尘天气发生突变的主要原因。
+
+# 3.3沙尘天气的周期变化
+
+由图5可知，沙尘暴日数在整个时间序列中存在明显的10\~15a周期振荡，其中心尺度为 $1 3 \mathrm { ~ a ~ }$ ，正负相位交替出现;在1962—1985年间还存在5\~7a的短周期，其他周期信号强度都较弱。在近58a来柴达木盆地的浮尘日数基本上没有明显的周期性变化。扬沙日数也存在10\~15a的明显振荡周期，其中心尺度为 $1 2 \mathrm { a }$ ,正负位相交替出现,其他周期信号强度都较弱。
+
+![](images/9fda9cf3dbfb7530e45677e952024d5edb1bc1182648ca624952c16b18a75e6c.jpg)  
+图4M-K突变检验
+
+![](images/1678e54e484d20d602dcdf1ad74c50f2e5e2a4aef1d5989ed70e0c0a6f2eb560.jpg)  
+Fig.4 M-K mutation test   
+图5Morlet小波实部分布和小波方差  
+Fig.5Morlet wavelet real part distribution and wavelet square difference
+
+# 3.4沙尘天气的空间变化特征
+
+为分析沙尘天气日数空间分布的特征，本文采用反距离权重插值法对柴达木盆地9个代表站近58a沙尘平均日数进行插值，得到柴达木盆地沙尘天气日数的空间分布图(图6)。
+
+由图6a可知，柴达木盆地发生扬沙天气的日数多且影响范围广，扬沙天气的频发中心为柴达木盆地南部的小灶火和格尔木市，日数在20\~25d,扬沙天气的次多发区为盆地西北部的茫崖，日数一般有14\~17d,因此，柴达木盆地扬沙日数的空间分布总体呈西南多东北少的分布形态，
+
+浮尘天气的空间分布(图6b)与扬沙天气的较为相似，但发生浮尘天气的日数少于扬沙日数。浮尘天气的多发中心为柴达木盆地西北部的茫崖和南部的格尔木市，日数在17\~21d，浮尘天气的次多发区在小灶火和都兰一带，日数一般有10\~14d,盆地北部冷湖、大柴旦一带发生浮尘的日数相对较少，为 $4 { \sim } 8 \mathrm { ~ d ~ }$ 。综上所述，浮尘天气主要影响柴达木
+
+盆地的南部和西部地区。
+
+由图6c可知，茫崖、小灶火为沙尘暴多发中心，日数一般有7\~9d，比扬沙和浮尘频发区中心发生日数偏少13\~16d,沙尘暴天气的次多发地区为格尔木市一带，发生日数为6\~7d。柴达木盆地发生沙尘暴的日数由西向东依次减少，呈西多东少的分布形势，这是因为柴达木盆地西部沙源丰富，加上受西风带的控制，使得柴达木盆地的沙尘暴天气以西部最多，向东依次减弱。
+
+# 3.5沙尘天气影响要素分析
+
+3.5.1气象要素影响分析由表2可知，柴达木盆地的气压、气温、大风日数与扬沙、浮尘、沙尘暴日数均通过了0.05的显著性检验，有显著的相关关系，其中浮尘日数还与总云量有对应关系。气压和大风日数与扬沙、浮尘、沙尘暴日数呈正相关，说明当气压增大，对应大风日数也增多，发生沙尘天气的频次也相应增加，而总云量与浮尘日数呈正相关关系。热力条件是形成沙尘暴和扬沙天气的重要条件，气温与扬沙、浮尘、沙尘暴日数呈负相关，说明气温越高发生沙尘天气的频次就越少。
+
+3.5.2大气环流因子影响分析沙尘天气的形成有一定的气候条件，与大范围环流形势（大气环流因子)密切相关，经过分析，发现与西太平洋副热带高压、亚洲区极涡、印度洋暖池以及西藏高原指数、印缅槽指数有很好的相关关系。由表3可知，扬沙日
+
+(a)扬沙 (b)浮尘 (c)沙尘暴  
+N8 ?茫崖 冷湖 N88 茫崖 冷湖 N8 茫崖 冷湖·大柴旦 ·大柴旦 大柴旦  
+3099 ·小灶火 德令哈卡 N90 小灶火 德令哈卡 390 ·小灶火 德令卡3.6\~8.5 日数/d 格尔木，诺木洪 都兰 46-7.8 格尔木，诺木洪 都兰 格尔木，诺木洪 都兰8.6\~11.9 7.9\~10.412.0\~15.2 21.1\~21.0 0100km 10.55\~13.215.9\~18.5 13.3\~15.8 18.6\~21.4 0 100km . 7.0\~8.2 0 100km92E 96E 92E 96E 92E 96E
+
+# 表2扬沙、浮尘、沙尘暴日数与各气象要素偏相关检验
+
+Tab.2Partial correlation test chart of the number of days of blowing sands,floating dusts, sandstorm with each meteorological element   
+
+<html><body><table><tr><td>类别</td><td>气压/hPa</td><td>气温/C</td><td>降水/mm</td><td>相对湿度/%</td><td>大风日数/d</td><td>总云量/%</td></tr><tr><td>扬沙日数</td><td>0.267°</td><td>-0.398*</td><td>0.035</td><td>-0.139</td><td>0.693*</td><td>0.23</td></tr><tr><td>浮尘日数</td><td>0.378°</td><td>-0.591*</td><td>-0.127</td><td>-0.131</td><td>0.61"</td><td>0.399*</td></tr><tr><td>沙尘暴日数</td><td>0.425 *</td><td>-0.515*</td><td>0.016</td><td>-0.261</td><td>0.643*</td><td>0.162</td></tr></table></body></html>
+
+注：\*表示通过了0.05显著性检验。
+
+表3扬沙、浮尘、沙尘暴日数与各大气环流因子偏相关检验   
+Tab.3Partial correlation test of the number of days of blowing sands,floating dusts and sandstor   
+
+<html><body><table><tr><td rowspan="2">类别</td><td colspan="2">西太平洋副热带高压</td><td colspan="2">亚洲区极涡</td><td>西藏高原</td><td>印缅槽</td><td colspan="2">印度洋暖池</td></tr><tr><td>面积</td><td>强度</td><td>面积</td><td>强度</td><td>指数</td><td>指数</td><td>面积</td><td>强度</td></tr><tr><td>扬沙日数</td><td>-0.36**</td><td>-0.58**</td><td>0.45**</td><td>0.53**</td><td>-0.35**</td><td>-0.32*</td><td>-0.59**</td><td>-0.55**</td></tr><tr><td>浮尘日数</td><td>-0.51**</td><td>-0.74**</td><td>0.56**</td><td>0.55**</td><td>-0.51**</td><td>-0.55**</td><td>-0.64**</td><td>-0.61**</td></tr><tr><td>沙尘暴日数</td><td>-0.47**</td><td>-0.66**</td><td>0.60**</td><td>0.58**</td><td>-0.38**</td><td>-0.47**</td><td>-0.51**</td><td>-0.51**</td></tr></table></body></html>
+
+注：\*表示通过了0.05显著性检验，\*\*表示通过了0.01显著性检验。
+
+数与印缅槽指数的相关系数通过了0.05的显著性检验，其余相关系数均通过了0.01的显著性检验
+
+柴达木盆地的扬沙、浮尘、沙尘暴天气日数与西太平洋副高面积、强度均呈反相关系，西太平洋副热带高压偏大偏强的年份，其西边界可以影响到我国中西部地区，气流自西向东的流动受阻，流速趋缓，沙尘日数偏少；与亚洲区极涡面积、强度均呈正相关关系，亚洲区极涡偏小偏弱的年份，影响我国北方的冷空气势力偏弱，下滑速度减小，带动沙尘的动力减弱，沙尘日数偏少；与西藏高原指数呈反相关关系，指数偏大，高度场偏低幅度大，高原上易形成低值系统，多降水，沙尘日数偏少；与印缅槽指数呈反相关关系，指数偏大，印缅槽加深，相应地高原上多降水天气，沙尘日数偏少；与印度洋暖池面积、强度均呈反相关关系，印度洋暖池面积偏大、强度偏强的年份，高原上易受暖气团的影响，阻碍了冷空气的入侵，能带来的沙尘天气过程减少，沙尘日数偏少。
+
+# 4结论
+
+(1）柴达木盆地近60a来扬沙、浮尘、沙尘暴日数的年际变化整体呈极显著下降趋势。20世纪70年代出现沙尘天气的日数最多，21世纪00年代频次最少。扬沙日数在1997年发生了突变，浮尘和沙尘暴日数不能确定其突变点。分析沙尘天气的周期变化得到沙尘暴日数在整个时间序列存在10\~15a的长周期，在1962—1985年间还存在5\~7a的短周期;扬沙日数存在10\~15a的长周期贯穿于整个时间序列，浮尘日数没有明显的周期性变化。
+
+(2）从柴达木盆地沙尘天气的空间分布来看，扬沙天气的频发中心为小灶火和格尔木市，呈西南多东北少的分布形态;浮尘天气的多发中心为茫崖和格尔木市，主要影响柴达木盆地的南部和西部地区；沙尘暴天气的多发中心为茫崖、小灶火，沙尘暴日数由西向东依次减少，呈西多东少的分布形势
+
+(3)沙尘天气的发生有很多影响因子，柴达木 盆地扬沙、浮尘、沙尘暴的发生日数与气压和大风 日数有正相关，总云量与浮尘日数也呈正相关关 系；气温与扬沙、浮尘、沙尘暴日数呈负相关。西太 平洋副热带高压偏大偏强、亚洲区极涡偏小偏弱、 西藏高原指数偏大、印缅槽指数偏大、印度洋暖池 偏大偏强时，柴达木盆地的扬沙、浮尘、沙尘暴日数 偏少；反之亦然。
+
+# 参考文献(References):
+
+[1]张仁健,韩志伟,王明星,等.中国沙尘暴天气的新特征及成因 分析[J].第四纪研究,2002,22(4):374-380.[Zhang Renjian, Han Zhiwei,Wang Mingxing,et al. Dust storm weather in China: New characteristics and origins[J]. Quaternary Sciences,2002, 22 (4): 374-380.] [2] 周自江,王锡稳.西北地区东部群发性强沙尘暴序列的建立与 分析[J].地理学报,2002,57(4): 437-442.[Zhou Zijiang,Wang Xiwen. Construction and analysis of severe group dust- storms in the Eastern part of Northwest China[J].Acta Geographica Sinica,   
+2002,57(4): 437-442.] [3] Zhou Zijiang.Blowing-sand and sandstorm in China in recent 45 years[J]. Quaternary Sciences,2001,29(1): 9-17. [4] Yang Dongzhen,Fang Xiumei,Li Xingsheng.Analysis on the variation trend of sandstorm in northern China[J]. Journal of Applied Meteorological Science,1998,9(3): 352-358. [5] 罗丽萍,郭宇宏.春季区域性沙尘暴对南疆及东疆城市环境空 气质量的影响及应对措施[J].干旱环境监测,2004,18(3):159-   
+162.[Luo Liping,Guo Yuhong.Impact and countermeasure of local spring sandstorm on environmental air quality in cities of Southern and Eastern Xinjiang[J].Arid Environmental Monitoring,   
+2004,18(3): 159-162.] [6] Goudie A S, Middleton N J.The changing frequency of dust storms through time[J]. Climatic Change,1992,20(3): 197-225. [7] 丁瑞强,王式功,尚可政,等.近45a我国沙尘暴和扬沙天气变 化趋势和突变分析[J].中国沙漠,2003,23(3):100-104.[Ding Ruiqiang,Wang Shigong,Shang Kezheng, et al. Analyses of sandstorm and sand-blowing weather trend and jump in China in recent 45 years[J]. Journal of Desert Research,2003,23(3):306- 310.]   
+[8]冯永忠,刘强,李永平,等.近55年来中国西北地区沙尘暴发生 时空特征分析[J].西北农林科技大学学报(自然科学版),2010, 38(5): 188-192. [Feng Yongzhong, Liu Qiang,Li Yongping,et al. Spatial-temporal distribution characteristics of sandstorm weather in Northwest China in recent 55 years[J].Journal of Northwest A&F University(Natural Science Edition),2010,38(5): 188-192.]   
+[9]李锡福.青海省沙尘暴天气气候特征及成因分析[J].青海气象, 2001(2):14-19.[Li Xifu. Climatic characteristics and causes of dust storm weather in Qinghai Province[J]. Journal of QingHai Meteorology,2001(2): 14-19.]   
+[10] 苟日多杰.柴达木盆地沙尘暴气候特征及其预报[J].气象科技, 2003,31(2): 84-87.[Gouri Duojie.The sandstorm weather characteristics in Chaidamu Basin and its forecasting[J]. Meteorological Science and Technology,2003,31(2): 84-84.]   
+[11] 李永盛,达成荣,傅生武.格尔木地区沙尘暴的气候特征、成因 及预报[J].青海气象,2004(4):18-21.[Li Yongsheng,Da Chengrong,Fu Shengwu. Climatic characteristics,causes and prediction of dust storms in Golmud area[J].Journal of QingHai Meteorology,2004(4): 18-21.]   
+[12] 李璠,徐维新,祁栋林,等.1961—2015年青海沙尘天气时空变 化特征[J].干旱区研究,2018,35(2):412-417.[LiFan,Xu Weixin,Qi Donglin,et al. Spatiotemporal characteristics of dust weather in Qinghai during the period of 1961-2015[J].Arid Zone Research,2018,35(2): 412-417.]   
+[13] 高庆先,任阵海,张志刚,等.沙尘天气对大气环境影响[M].北 京：科学出版社,2010.[Gao Qingxian,Ren Zhenhai, Zhang Zhigang,et al. Dust Events and Its Impacts on Atmospheric Environment[M]. Beijing: Science Press,2010.]   
+[14] 张焕平,张占峰,金惠瑛,等.柴达木盆地沙尘天气的气候特征 及与气象要素的关系[J].安徽农业科学,2014,42(5):1382- 1384,1538.[Zhang Huanping,Zhang Zhanfeng,Jin Huiying,et al. Correlation between climate feature and meteorological elements of dust storm in Qaidam Basin[J]. Journal of Anhui Agricultural Sciences,2014,42(5): 1382-1384,1538.]   
+[15] 郭晓宁,杨延华,马元仓,等.柴达木盆地春季沙尘暴变化特征 分析[J].干旱区资源与环境,2018,32(8):107-113.[Guo Xiaoning,Yang Yanhua,Ma Yuancang, et al. The characteristics of the sandstorm weather in Qaidam Basin[J]. Journal of Arid Land Resources and Environment, 2018,32(8): 107-113.]   
+[16]Fu Y,Chen H,Niu HH,et al. Spatial and temporal variation of vegetation phenology and its response to climate changes in Qaidam Basin from 20O0 to 2015[J]. Journal of Geographical Sciences, 2018,28(4): 400-414.   
+[17] 吴桐雯,李江海,杨梦莲.柴达木盆地风成地貌类型与晚全新世 古风况恢复[J].北京大学学报(自然科学版),2018,54(5):1021- 1027.[Wu Tongwen,Li Jianghai,Yang Menglian.The aeolian bedforms and the reconstruction of late holocene wind direction in Qaidam Basin[J].Acta Scientiarum Naturalium Universitatis Pekinensis,2018,54(5): 1021-1027.]   
+[18] 张斯琦,陈辉,宋明华,等.2000-2015年柴达木盆地植被覆盖 度时空变化及其与环境因子的关系[J].干旱区地理,2019,42 (5): 1124-1132.[Zhang Siqi, Chen Hui,Song Minghua,et al. Spatial and temporal variation of fractional vegetation cover and its relationship with environmental factors in the Qaidam Basin during 2000-2015[J]. Arid Land Geography,2019,42(5): 1124-1132.]   
+[19]魏凤英.现代气候统计诊断与预测技术[M].北京:气象出版社, 2007: 63-66.[Wei Fengying. Modern Climatic Statistical Diagnosis and Prediction Techniques[M]. Beijing: China Meteorological Press, 2007: 63-66.]   
+[20] 叶笃正,丑纪范,刘纪远,等.关于我国华北沙尘天气的成因与 治理对策[J].地理学报,200,66(5):513-521.[Ye Duzheng, Chou Jifan, Liu Jiyuan, et al. Causes of sand-stormy weather in Norther China and contral measures[J]. Acta Geographica Sinica, 2000,66(5): 513-521.]   
+[21] 戴升,申红艳,李林,等.柴达木盆地气候由暖干向暖湿转型的 变化特征分析[J].高原气象,2013,32(1):211-220.[Dai Sheng, Shen Hongyan,Li Lin,et al.Analysis on climatic transition characteristic from warm-dry to warm-wet in Tsaidam Basin[J]. Plateau Meteorology,2013,32(1): 211-220.]   
+[22] 谢长礼,陈孝全,苟新京,等.柴达木生态环境保护与循环经济 [M].西宁:青海省人民出版社,2013.[Xie Changli,Chen Xiaoquan, Gou Xinjing,et al. Ecological Environment Protection and Recycling Economy in Qaidam Basin[M]. Xining: Qinghai People's Publishing Press, 2013.]   
+[23] 周秉荣.青海省气候资源分析评价与气象灾害风险区划[M].北 京：气象出版社,2015.[Zhou Bingrong,Evaluation of Climate ReSources Analysis and Meteorological Disaster Risk Zoning in Qinghai[M]. Beijing: China Meteorology Press,2015.]   
+[24] 郑广芬,冯建民,赵光平,等.中国西北地区东部沙尘暴区划研 究[J].自然资源学报,2010,25(10):1676-1688.[Zheng Guangfen,Feng Jianmin, Zhao Guangping,et al. Study on sandstorm climatic regionalization in Eastern part of Northwest China[J]. Journal of Natural Resources,2010,25(10): 1676-1688.]   
+[25] 商沙沙,廉丽妹,马婷,等.近54a中国西北地区气温和降水的 时空变化特征[J].干旱区研究,2018,35(1):68-76.[Shang Shasha,Lian Lishu,MaTing,etal.Spaiotemporalvariationofteperature and precipitation in Northwest China in recent 54 years[J]. Arid Zone Research, 2008,35(1): 68-76.]
+
+# Spatiotemporal characteristics and influencing factors of dust weather in Qaidam Basin in recent 6O years
+
+CHEN Jing'\*， GUO Xiaoning， BAI Wenjuan\*， WEN Xia’， YANG Yanhua (1.Huangnan Meteorological Bureau of Qinghai Province,Tongren 811399,Qinghai, China; 2.Qinghai Key Laboratory for DisasterPreventionand Mitigation,Xining 81Ooo1,Qinghai,China;3.Meteorological Stationof   
+Qinghai Province,Xining 810oo1,Qinghai,China; 4.Haidong Meteorological Bureau of Qinghai Province,Ping'an   
+810600,Qinghai, China; 5.Haixi Meteorological Bureauof Qinghai Province,Delingha 817ooo,Qinghai, China; 6. Climate Center of Qinghai Province, Xining 81OoO1,Qinghai, China)
+
+Abstract: This study analyzes the spatial-temporal variation in sand-dust weather and its influencing factors in Qaidam Basin. Meteorological data on blowing sands,floating dusts,sandstorms,temperature,precipitation,and relative humidity were analyzed for 58 years from nine representative stations in Qaidam Basin using the ManKendalltest,wavelet analysis,and other statistical methods.According to the results,the number of days of blowing sands,floating dusts,and sandstorms in the region over the past 58 years has dropped significantly, with the number of days with sand-dust weather being highest in the 197Os and lowest in the 20oOs.The number of days of sand-blowing changed abruptly in 1997 and showed a downward trend after the sudden change. The number of sandstorm days had a long period of 10-15 years and a short period of 5-7 years,the number of blowing sand days also had a long period of 10-15 year,and the number of floating dust days had no evident periodicity.There was more sand-dust weather in the southwest of the basin and less in the northeast of the basin. The number of days of blowing sands,floating dusts,and sandstorms were positively correlated with air pressure, gale days,and area and intensity of polar eddies in Asia,and they were negatively correlated with temperature andarea and intensityof subtropical highs in the Western Pacific,Tibetan Plateau,Indo-Burma Trough,and Indian Ocean warm pool.
+
+Keywords: days of blowing sands；days of floating dusts； days ofsandstorm； spatial-temporal variations； Qaid-am Basin

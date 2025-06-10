@@ -1,0 +1,938 @@
+[
+    {
+        "type": "text",
+        "text": "干酒糟及其可溶物的营养价值及其在猪生产上的应用杨 灿1 唐小武² 宾冬梅」陈思远」贺 瑜」雷 涵」（1.衡阳师范学院，生命科学与环境学院，衡阳421008；2.湖南大北农农业科技有限公",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "司，长沙410200) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：干酒糟及其可溶物（DDGS）是乙醇生产工业副产物，随着生物能源的应用增加，DDGS 产量上升。DDGS 最先用于反刍动物生产中，近年来，也有很多报道将DDGS 用于猪、鸡等单胃动物生产行业。本文从DDGS 的生产工艺、营养组成、对猪的营养价值及其在猪生产上的应用现状以及改进措施等几个方面对近十年来国外学者在DDGS上的研究进行了综述。虽然 DDGS 能替代部分豆粕和玉米用于猪生产中，但由于其质量的不稳定，蛋白质品质的低下和粗纤维含量过高影响了其大量使用。通过过筛、发酵、加酶、不同原料组合使用等方法能扩大并提高DDGS 在养殖行业的应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：DDGS；猪；粗纤维；蛋白质中图分类号：S816；S828文献标识码：A文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "全球石油资源有限，为寻找可替代能源，人们用玉米生产生物乙醇。乙醇生产过程中将产生副产物干酒糟及其可溶物(DDGS)，干磨法每蒲式耳(约 $5 0 . 8 \\mathrm { k g } )$ 玉米生产17磅(1磅$= 0 . 4 5 3 ~ 6 ~ \\mathrm { k g } ) \\mathrm { D D G S }$ ，而湿磨法生产1.6磅玉米油、2.6磅蛋白粉和13.5 磅麸质饲料[1]。据美国农业部统计，全美 $40 . 5 \\%$ 的玉米都用于生产乙醇，其副产物DDGS $50 . 4 \\%$ 用于肉牛， $3 3 . 5 \\%$ 用于奶牛， $9 . 1 \\%$ 用于猪， $7 . 0 \\%$ 用于鸡生产行业，DDGS 代替了畜禽生产中 $65 \\%$ 的玉米和 $3 5 \\%$ 的豆粕[2]。但是，尽管 $40 . 5 \\%$ 的玉米用于生产乙醇，但以玉米副产物在饲料业的应用来计算，这个值仅仅为 $2 5 \\% ^ { [ 2 ] }$ ，这意味着很多乙醇工业副产物被丢弃或未能用于饲料生产行业。按照现在的发展趋势，到 2026年，DDGS 用于猪和禽生产行业的比例将大幅度增加。因此，有必要对 DDGS 的品质进行更细地探究，促进其在单胃动物上的应用，提高其利用率。过去，因为人们对 DDGS 不太重视，导致其质量变异很大，粗蛋白质和中性洗涤纤维(NDF)消化率降低。经过这么多年的发展，乙醇生产工艺不断在改进，伴随着的是其副产物DDGS 质量的变化。因此，本文将从近十年来DDGS 的生产工艺、养分组成、营养价值特点等方面探讨其潜在价值及在猪生产上的应用现状及可能的改善途径，力争能提高 DDGS的利用率，扩大其在单胃动物上的应用，为缓解全球能量原料短缺提供有效途径。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1DDGS的生产及营养组成",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1DDGS 的生产工艺",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DDGS 是酿酒酵母发酵谷物生产乙醇过程中的副产物。乙醇燃料大多以玉米经干磨$( 6 7 \\% )$ 或湿磨 $( 3 3 \\% )$ 方法生产[1。传统工艺干磨法是将酵母添加到玉米、水和酶的糊状物中，发酵其中的糖分生产乙醇，产物蒸馏分离后，将蒸馏出的固体干燥生产蒸馏干燥谷物蛋白;湿磨法是将从固体中分离出的淀粉溶液和可发酵糖进行发酵生产乙醇。在生产过程中，谷物的胚芽被剔除以提取玉米油，余下的胚芽粉再混合以纤维和壳形成玉米蛋白质饲料，麸质部分也会分离出来形成玉米蛋白粉，新工艺副产物为无蒸煮酒精糟（DDGS-BPX)。高蛋白蒸馏谷物（HP-DDG）是将谷物种皮，胚芽去除后再加酶，加酵母对谷物进行发酵产乙醇的副产物。乙醇生产工艺改良集中在几个方面：1）尽可能地将所有淀粉和糖转化为乙醇;2）通过菌种的发酵将玉米中的纤维转化为淀粉和糖再发酵生产乙醇。工艺改良后，乙醇的生产量增加了，但DDGS 的淀粉含量相对下降了，同时其粗蛋白质和粗纤维等的相对比例得以增加。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2DDGS的营养组成",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于发酵过程中酿酒酵母主要利用谷物中的淀粉进行生长和产乙醇，所以其副产物中残留的淀粉非常少；而粗脂肪、粗纤维、粗蛋白质却相应得到浓缩，比例大幅度增加。过去，对 DDGS 的养分研究集中在其粗蛋白质、粗纤维和植酸磷等方面，对其赖氨酸的质量、多聚不饱和脂肪酸以及粗纤维含量颇为头痛。但实际上，DDGS 还含有很多其他养分，能更有效地用于猪生产。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1粗蛋白质",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DDGS 的蛋白质含量受乙醇生产工艺、谷物种类及DDGS 的加工处理等因素影响，含量并不一致。湿磨法生产乙醇前，去除多糖和其他可溶性碳水化合物，其 DDGS 的蛋白质浓缩物、蛋白质分离物和筛后副产物的粗蛋白质含量分别为 $48 \\%$ 、 $52 \\%$ 和 $51 \\%$ ，传统DDGS相应值为 $33 \\%$ 、 $3 7 \\%$ 和 $40 \\%$ ，因此，湿筛步骤能增加DDGS的蛋白质含量[3]。此外，DDGS-BPX与DDGS 的蛋白质含量没有显著差异，但前者含有的缓冲液可溶蛋白质含量显著高于DDGS，酸性洗涤不可溶蛋白质含量显著低于DDGS[4]；HP-DDG的粗蛋白质含量高于玉米 DDGS(cDDGS)[5]；小麦 DDGS(wDDGS)的粗蛋白质含量显著高于 cDDGS(388 vs.$3 0 2 ~ \\mathrm { g / k g }$ DM)，中性洗涤剂不可溶蛋白质及酸性洗涤不可溶蛋白质含量则以 wDDGS 低于cDDGS，cDDGS 中谷氨酸含量高于wDDGS[5]。对玉米进行溶剂提油后再发酵生产的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DDGS 的粗蛋白质和氨基酸含量比传统DDGS 高，干物质基础的粗蛋白质含量为 $3 5 . 6 \\% ^ { [ 6 - 7 ] }$ 。对蒸馏谷物回收处理再发酵所产生的DDGS的蛋白质含量比常规DDGS 高 $30 \\% { \\sim } 4 0 \\%$ ，而抑制因子是常规DDGS 的2\\~5倍[8]，赖氨酸损失更多[9]。氨基酸组成方面，赖氨酸、组氨酸、甘氨酸以小麦湿蒸馏可溶物(wWDS)高于wDDGS，其他氨基酸均以 wDDGS高于wWDS[10]。对韩国1个新品种玉米进行 $9 8 \\mathrm { ~ \\textdegree C }$ 预处理 $1 . 5 \\mathrm { ~ h ~ }$ 后，其 DDGS 中总氨基酸含量为 230\\~310$\\mathrm { m g / g }$ ，是玉米的3倍，而赖氨酸占 $2 . 5 \\% { \\sim } 2 . 7 \\%$ ，必需氨基酸总量超过美国玉米 $2 1 . 1 \\ \\mathrm { m g / g ^ { [ 1 1 ] } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 粗纤维 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大多数玉米副产物都含有很多不溶性纤维，要降解这些纤维，需要很多酶的协同作用。DDGS 含有 $3 6 . 7 4 \\%$ NDF、 $1 6 . 2 \\%$ 酸性洗涤纤维(ADF)、 $10 . 2 2 \\%$ 粗纤维[12-13]、 $0 . 7 7 \\%$ 酸溶木质和 $5 . 8 4 \\%$ 酸不溶木质素[14]。干磨法产乙醇产生的 DDGS 的半纤维素组分主要以阿拉伯木糖以及戊糖来源的木糖和阿拉伯糖组成[15]，其中木糖为 $10 . 2 \\%$ 、阿拉伯糖为 $5 . 6 \\% ^ { [ 1 6 - 1 7 ] }$ 。乙醇生产工艺变化后，DDGS纤维含量有所改变。wWDS的NDF低于 $\\mathrm { w D D G S } ( 2 3 \\mathrm { v s . } 3 1 2 \\mathrm { g / k g } ) ^ { [ 1 0 ] } ,$ 0DDGS-BPX的 NDF、ADF及木质素含量均显著低于DDGS[4]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3粗脂肪及维生素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DDGS的粗脂肪含量为 $8 . 4 \\% \\sim 9 . 7 \\% ^ { [ 1 8 ] }$ ，其脂肪酸组成多为不饱和脂肪酸。在生产过程中DDGS 的多聚不饱和脂肪酸(PUFA)容易发生过氧化导致其过氧化值高达 $8 4 . 1 \\mathrm { m e q / k g ^ { [ 1 9 ] } }$ 。wDDGS 的脂肪含量显著低于 dDDGS(38 vs.115 g/kg DM)[5]。HP-DDG 的粗脂肪含量比DDGS-BPX 以及 DDGS 低[4]。低可溶性玉米蒸馏干燥谷物(LS-DDG)的粗脂肪含量为$7 . 9 5 \\% [ 2 0 ]$ 。值得注意的是，DDGS中维生素E含量与粗脂肪含量呈正相关 $( R { = } 0 . 6 6 7 7 , P { = } 0 . 1 4 7$ 3)，6个DDGS 样本的维生素E平均含量为 $6 . 8 ~ \\mathrm { { m g / k g } }$ 并且还含有其他B族维生素如维生素$\\mathbf { B } _ { 1 } 7 . 7 \\mathbf { m g } / \\mathbf { k g }$ 、维生素 $\\mathbf { B } _ { 2 } 2 . 3 \\mathrm { m g / k g }$ 、维生素 $\\mathbf { B } _ { 6 } 3 . 5 \\mathrm { m g / k g }$ 及维生素 $\\mathbf { B } _ { 3 } \\ 1 0 . 9 \\ \\mathrm { m g / k g ^ { [ 2 1 ] } } ,$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4粗灰分及矿物元素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "小麦DDGS 粗灰分含量 $5 . 4 \\%$ ，但硫、氮、磷、钾含量都很高[22]，硫含量是其他农副产物残渣如棕榈仁压榨粕和橄榄残渣的 3\\~4 倍[23]。DDGS-BPX比 DDGS 含有更多的硫、钠、锰、铜、钼和硒，但锌含量以 DDGS 更高[4]。DDGS 中的总磷含量较高，多为植酸磷，利用率较低。DDGS、HP-DDG 和玉米胚芽的总磷含量分别为 $0 . 7 6 \\%$ 、 $0 . 3 3 \\%$ 和 $1 . 2 9 \\%$ ，生物学利用效率分别为 $60 \\%$ 、 $56 \\%$ 和 $2 5 \\%$ 以磷酸二氢钾 $\\mathrm { ( K H _ { 2 } P O _ { 4 } ) }$ 为对照][24-26]。加植酸酶可分解清亮浸泡液中和整个蒸馏物中植酸，释放 4.52 或 $0 . 8 6 ~ \\mathrm { m g / g }$ 的磷[27]。并且，植酸酶处理能使 DDGS 蛋白质含量增加，淀粉残渣减少[28]。在发酵时使用带有植酸酶的酵母，则干酒糟的植酸磷含量下降 $89 . 8 \\%$ ，游离磷含量增加 $1 4 2 . 9 \\% ^ { [ 2 9 ] }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5 其他成分",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DDGS 的酚酸组成和其相应的玉米一致，但酚酸含量是玉米的3.4倍。其中，阿魏酸和$p$ -香豆酸占总酚酸的 $80 \\%$ 以上，香草酸、咖啡酸、 $p$ 香豆酸、阿魏酸、芥子酸和总酚酸含量分别为0.22、0.14、0.72、4.59、0.33 和 $5 . 9 9 \\mathrm { \\ m g / g \\ D M ^ { [ 3 0 ] } }$ 。DDGS 是霉菌毒素严重污染原料。来源于北京的17个DDGS 样品均含有呕吐毒素和玉米赤霉烯酮，平均浓度分别为1.36$\\mathrm { m g / k g }$ 和 $8 8 2 . 7 ~ \\mu \\mathrm { g / k g }$ ，超标 $8 8 \\%$ 和 $4 1 \\% ^ { [ 3 1 ] }$ 。台湾的30个DDGS 样本有 $50 . 8 \\%$ 的样品同时感染 5 种镰刀菌属毒素[32]。此外，DDGS 中还残留有抗生素以及微生物。对来源于美国9个州 43个工厂的 20个DDGS 样本进行检测发现有 $13 \\%$ 的样本含有小于 $1 . 1 2 ~ \\mathrm { m g / k g }$ 的抗生素如红霉素、青霉素、四环素等[33]。wDDGS 的微生物菌群主要是乳酸杆菌如 Lactobacillusamylolyticus、Lactobacillus panis、Lactobacillus pontis 和偶尔可检测到的酵母菌[19].",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 物理特性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用含有DDGS 的原料制作饲料时，饲料的红度增加，但亮度降低[34-35]。而添加 DDGS到面包或圆饼中能提升其粗脂肪和粗纤维含量，使产品偏金黄色[36-37]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 DDGS在猪生产上的应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1DDGS对猪的营养价值 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 DDGS 的能值",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DDGS的能量比玉米高(总能22.75vs.18.82kJ/kgDM)，但能量消化率比玉米低 $( 7 6 . 8 \\%$ Vs. $9 0 . 4 \\%$ )[24]，所以两者的消化能和代谢能没有显著差异[38]。因为原料的变化，能值有些许差异。如对 28个DDGS 样品进行分析，表观代谢能(AME)为 $5 . 9 4 { \\sim } 1 2 . 2 1 \\ \\mathrm { M J / k g }$ ，真代谢能(TME)为 $7 . 2 9 { \\sim } 1 3 . 5 6 \\mathrm { M J } / \\mathrm { k g } ^ { [ 3 9 ] }$ 。LS-DDG的消化能和代谢能分别为13.53 和 $1 2 . 3 9 \\mathrm { M J / k g D M }$ （与 DDGS 相当[20]。溶剂提油后的cDDGS 的代谢能和净能分别为11.96 和 $8 . 5 6 ~ \\mathrm { M J / k g }$ DM,比DDGS低[7]。在 $1 8 . 5 \\mathrm { k g }$ 猪的玉米－大豆基础饲粮中添加0、 $1 5 \\%$ 、 $30 \\%$ 小麦－玉米DDGS,用比较屠宰试验测得其净能分别为10.17、10.16 和 $1 0 . 1 7 ~ \\mathrm { M J / k g ~ D M }$ ，通过间接测热法测得净能分别为10.82、10.52和 $1 0 . 5 5 \\mathrm { M J / k g D M }$ ，通过化学分析法测得净能分别为10.24、10.26和 9.91 MJ/kg DM[40]。DDGS 在饲粮中的添加会降低饲粮干物质和能量的消化率[10]，即使配方净能和可消化氨基酸一致，饲粮的干物质和能量的表观总肠道消化率(ATTD)也随小麦- 玉米DDGS 的增加而线性下降，同时NDF的ATTD线性增加[41]。乙醇生产过程中的加工和发酵在一定程度上改善了纤维的消化率，所以DDGS的总饲粮纤维(TDF)的表观回肠消化率(AID)和 ATTD 比玉米高，但整个肠道发酵的 TDF 不足 $50 \\%$ ，暗示 DDGS 中超过 $50 \\%$ 的TDF 没有被猪消化吸收[42]。对玉米副产物进行分析表明，阿拉伯木聚糖含量能极显著解释干物质的 ATTD 的变异 $( R ^ { 2 } { = } 0 . 6 7 )$ ，而非淀粉多糖木糖残渣能解释干物质 $( R ^ { 2 } { = } 0 . 7 8 )$ 、NDF( $\\scriptstyle ( R ^ { 2 } = 0 . 6 3 )$ 、蛋氨酸 $( R ^ { 2 } { = } 0 . 4 0 )$ 和苏氨酸 $( R ^ { 2 } { = } 0 . 1 1 \\$ )的ATTD 的变异[43]。用T瘘管猪测试去油 DDGS 的养分消化率，赖氨酸的AID 随DDGS 的增加(0、 $20 \\%$ 和 $40 \\%$ 而降低，并且去油DDGS 和大豆油对 NDF 和酸洗乙醚提取物的AID 和ATTD均有显著影响，饲粮酸洗乙醚提取物含量最高而 NDF 最低时，其 NDF 的 AID 和 ATTD 最高[44]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2DDGS的蛋白质和氨基酸利用效率",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "小麦DDGS所有的氨基酸中，赖氨酸在肥育猪 $( 8 2 ~ \\mathrm { k g } )$ 的 AID最低，仅 $3 6 \\% ^ { [ 4 5 ] }$ ，而且其标准回肠消化率(SID)变异很大 $( 9 \\% { \\sim } 8 2 \\% ) ^ { [ 4 6 - 4 7 ] }$ 。cDDGS 中赖氨酸消化率变异也非常大[47]。wWDS 的粗蛋白质、赖氨酸和组氨酸的回肠标准消化率系数(CSID)显著高于wDDGS，而蛋氨酸、半胱氨酸、异亮氨酸、亮氨酸和缬氨酸的CSID 却显著低于wDDGS[10]。对 DDGS进行去脂或加热处理会改变氨基酸消化率。添加玉米油使饲粮等脂肪含量时，高脂(11.5%)DDGS 组的蛋白质和脯氨酸、色氨酸以外的所有必需氨基酸的 AID 和 SID 均显著高于低脂组 $( 7 . 5 \\%$ 和 $6 . 9 \\%$ ，额外加玉米油都无法补偿这种消化率的损伤[48]。对玉米DDGS 进行 $1 3 0 ^ { \\circ } \\mathrm { C }$ 热处理10、20和 $3 0 \\mathrm { m i n }$ 后，生长猪粗蛋白质的 SID 从 $7 7 . 9 \\%$ 下降到 $7 2 . 1 \\%$ 、 $6 6 . 1 \\%$ 和 $6 8 . 5 \\%$ ，赖氨酸的 SID 从 $6 6 . 8 \\%$ 下降到 $54 . 9 \\%$ 、 $5 5 . 3 \\%$ 和 $5 1 . 9 \\% ^ { [ 4 9 ] }$ 。Yoon 等[50]研究证实DDGS在 $6 0 ~ \\mathrm { k g }$ 猪饲粮中的增加会降低粗蛋白质的ATTD，不过甘露聚糖酶可以改善粗蛋白质的ATTD。可通过蛋白质中赖氨酸的含量预测赖氨酸的SID，赖氨酸占粗蛋白质的比例少于 $1 . 9 \\%$ 或 $2 . 8 \\%$ 的玉米DDGS 不再适宜饲喂猪 $[ 4 6 - 4 7 ]$ 。赖氨酸/粗蛋白质 $\\scriptstyle ( R = 0 . 6 3 )$ 以及赖氨酸的SII $) ( R { = } 0 . 6 8 )$ 与亮度均呈显著正相关[46]，代谢能和黄度显著正相关 $( R { = } 0 . 3 9 ) ^ { [ 3 9 ] }$ ，所以，在DDGS 的使用中，亮度是很重要的衡量指标。如果补充 DDGS 到饲粮中，应根据可消化氨基酸和可消化磷来配置含DDGS的饲粮， $10 \\%$ 的DDGS可替代 $4 . 2 5 \\%$ 的大豆和 $5 . 7 \\%$ 的玉米，同时补充 $0 . 1 \\%$ 的赖氨酸[5I]。DDGS在饲粮中含 $40 \\%$ 会降低氮的消化率[20]，但氮储备未受小麦DDGS含量的增加而影响[52]，这可能与氮排放增加有关[53-54]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3DDGS的矿物质应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "磷的 ATTD 高达 $5 9 . 1 \\%$ ，所以 DDGS 中可利用磷比较丰富 $( 0 . 3 6 \\% ) ^ { [ 2 4 ] }$ 。与玉米－大豆饲粮组相比，以有效磷一致为基础配方时，DDGS 组仔猪的粪磷显著下降，与 $1 0 0 \\mathrm { g / k g }$ DDGS组相比， $2 0 0 ~ \\mathrm { g / k g }$ DDGS 组降低了钙的储留以及钙ATTD[55]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，DDGS的蛋白质品质不高，但通过补充晶体氨基酸能解决这个问题。DDGS的能值和玉米大致一样，只是如果在工艺中对其去油能值则会下降，所以，在使用中需要关注DDGS 的生产工艺。运用DDGS 替代单胃动物饲粮中的玉米豆粕时，建议将其净能、",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "回肠可消化氨基酸、有效磷配平，这样才不会导致生产性能的下降。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2DDGS对猪的饲用价值 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1在仔猪饲粮中的应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "净能和可消化氨基酸一致时，cDDGS 在 $5 . 2 ~ \\mathrm { k g }$ 仔猪饲粮中添加 $7 . 5 \\%$ 对平均日增重(ADG)、平均日采食量(ADFI)和饲料转化效率 $( \\mathrm { G } / \\mathrm { F } )$ 没有影响[56]，在 $6 . 4 ~ \\mathrm { k g }$ 仔猪断奶后 1\\~7d 添加 $7 . 5 \\%$ cDDGS 是可行的，8\\~42d 用量可增加到 $1 5 \\%$ ， $7 . 1 ~ \\mathrm { k g }$ 仔猪采食含高达 $2 5 \\%$ cDDGS 的饲粮也不会对 ADG、ADFI和G/F 产生影响[57-58]。但cDDGS 在仔猪饲粮中添加比例高达 $30 \\%$ 时会显著降低 ADF[59]。如果让猪断奶后先适应一段时间(21d)再添加高达 $30 \\%$ 的cDDGS 则不会影响其生产性能[60]，当然，如果cDDGS 已经溶剂提油处理过[7]，或仔猪已经足够大 $( 1 1 ~ \\mathrm { k g } ) ^ { [ 5 7 ] }$ ，则 $30 \\%$ 的玉米 DDGS 也不会影响其生产性能。高梁 DDGS 在 $1 1 ~ \\mathrm { k g }$ 仔猪饲粮中添加 $30 \\%$ 降低了 $\\mathrm { G / F ^ { [ 6 1 ] } }$ 。wDDGS 在 $6 . 2 \\mathrm { k g }$ 的断奶猪中添加 $10 \\%$ 不会影响其采食量和终体重，但添加 $1 5 \\%$ 时会显著降低采食量和体增重[62]。仔猪 $( 6 . 7 ~ \\mathrm { k g } )$ 前期饲粮中香料的添加对仔猪后期采食DDGS或HP-DDG饲粮不利，并且有显著降低ADG的趋势[63]。DDGS的添加能增加 $5 . 2 \\mathrm { k g }$ 仔猪回肠中炎性因子的 mRNA表达量[56]。含硫高的DDGS 能增加断奶8 周阉公猪血清中 $\\mathfrak { a }$ -生育酚和肝脏中谷胱甘肽的含量，即高含硫的DDGS 可能保护了仔猪免受高度氧化的 DDGS 的损伤[19]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2在生长肥育猪饲粮中的应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大多数试验表明在生长肥育猪饲粮中添加高达 $1 5 \\% [ 5 0 ^ { \\circ } \\ 6 4 ]$ 、 $2 0 \\% [ 5 3 ^ { , } 6 5 ]$ 或 $3 0 \\% ^ { [ 5 4 ] }$ 的cDDGS 不会降低其生产性能。也有例外，如 $\\mathrm { \\Delta X u }$ 等[66-67]报道在 $2 2 { \\mathord { \\sim } } 1 1 5 \\mathrm { k g }$ 猪饲粮中添加高达30%DDGS时降低了ADFI以及 $\\mathrm { A D G } ( 2 9 . 8 ~ \\mathrm { k g }$ 猪)。DDGS 的添加比例高达 $40 \\%$ 会显著降低ADG 和 ADFI[68]。保持饲粮可消化赖氨酸和色氨酸一致，用DDGS 替代 $3 3 ~ \\mathrm { k g }$ 生长猪配方中的玉米和豆粕，其ADG显著下降[69]。保持饲粮可利用磷、可消化回肠赖氨酸及代谢能一致，饲粮中添加 $30 \\%$ 的DDGS不会降低ADFI，可如果同时添加 $30 \\%$ DDGS 和 $5 \\%$ 的牛油，则ADFI会显著低于玉米豆粕对照组[70]。相同情况下，以粉料形式向小猪提供含 $30 \\%$ DDGS饲粮时，其ADFI相对于玉米豆粕对照组显著增加， $\\mathrm { { { G / F } } }$ 降低，而颗粒料形式的DDGS不会影响 ADFI 和 $\\mathrm { { G / F ^ { [ 7 1 ] } } }$ 。猪对DDGS 有个适应过程，保持净能和可消化赖氨酸一致时，在小猪饲粮中添加 $30 \\%$ DDGS 显著降低第一阶段 $( 2 9 \\mathrm { \\sim } 5 0 ~ \\mathrm { k g } )$ 的 ADFI和 ADG，但对全期 $( 2 9 \\sim$ $1 2 0 ~ \\mathrm { k g } )$ 生长性能没有显著影响[72]。在饲粮中突然引入 $20 \\%$ 的 DDGS不会对 $5 1 . 3 ~ \\mathrm { k g }$ 的肥育猪造成不良影响，但突然引入 $40 \\%$ 的低可消化赖氨酸，DDGS会显著降低 $\\mathrm { A D G } ^ { [ 7 3 ] }$ 。原料种类也对DDGS 的使用效果产生不同影响。在 $2 5 . 5 \\mathrm { k g }$ 猪的玉米－大麦-豆粕基础饲粮上添加",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$0 { \\sim } 3 0 \\%$ 的小麦－玉米DDGS，保持净能和可消化氨基酸一致时，ADG 随着小麦－玉米DDGS 的增加而线性降低，G/F有降低的趋势[4I]。与玉米－大豆饲粮相比，在 $1 8 . 6 \\mathrm { k g }$ 猪饲粮中添加 $1 5 \\%$ 或 $30 \\%$ 小麦-大豆DDGS使ADFI和ADG线性下降，但对G/F没有显著影响[74]。此外，溶剂提油后的cDDGS在饲粮中从0逐渐增加到 $30 \\%$ 时， $2 9 . 6 \\mathrm { k g }$ 生长猪的ADG、ADFI显著降低， $\\mathrm { { \\cal G } / \\mathrm { { \\cal F } } }$ 也有显著降低的趋势[7]。而将 $2 2 \\mathrm { k g }$ 生长猪饲粮的豆粕 $50 \\%$ 或 $100 \\%$ 都用 HP-DDG 替代，都不会影响其生产性能[65]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.3DDGS对胴体品质和肉质的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "尽管大多数试验证实在饲粮中添加一定比例的 DDGS 不会影响生长肥育猪的生产性能，但 DDGS 对肉质的影响却是负面的并且显著的。随饲粮中DDGS 含量的增加 $( 0 { \\sim } 3 0 \\% )$ ，生长猪畜体重和屠宰率下降[7:64+6]；保持回肠可消化氨基酸一致时， $20 \\%$ 的 DDGS 就会降低屠宰率[20]；与对照组相比，饲粮添加 $30 \\%$ DDGS 平均减轻了 $5 . 1 ~ \\mathrm { k g }$ 胴体重[75-76]。屠宰率降低的原因可能与 DDGS 蛋白质不平衡，内脏代谢活动增强，内脏重量增加相关[77]，也可能与 DDGS 粗纤维含量高，导致饲料通过速率增加，使得小肠生长增加相关[78-79]。在净能和可消化赖氨酸一致时，生长猪采食含 $3 0 \\% \\mathrm { D D G S }$ 的饲粮将显著降低眼肌面积和无脂瘦肉率[72]。饲粮中的 DDGS 从 $10 \\%$ 增加到 $30 \\%$ ，背肌大理石花纹会下降[6]。DDGS 对肉质最大的影响是增加了肌肉中PUFA 含量，增加其碘价，导致猪肉不易加工和储存。给 $1 0 0 ~ \\mathrm { k g }$ 公猪用 $20 \\%$ 或 $30 \\%$ DDGS 替代基础饲粮中的玉米和豆粕会降低其屠宰时( $( 1 3 0 ~ \\mathrm { k g } )$ 腹部脂肪硬度[65-6770]，增加腹部脂肪的碘价[80]。 $40 \\%$ 的 DDGS 降低了肥猪的眼肌面积，背脂的不饱和程度也更高[73]。随着 DDGS 在生长肥育猪饲粮中从0增加到 $1 5 \\%$ 、 $30 \\%$ 和 $45 \\%$ ，猪的背膘厚线性下降，皮下脂肪的饱和脂肪酸和单不饱和脂肪酸浓度线性下降，PUFA浓度线性增加，背脂内外碘价线性增加[69]。Stein[24]总结了8个试验报道的 DDGS 对碘值的影响，7个试验表明碘值增加，1个不变。高碘值的猪肉十分柔软，不利于加工，容易氧化变质。饲粮中DDGS比例太高 $( 3 0 \\% )$ 会影响储存期肉品的脂质过氧化值(TBARS)，降低肉货架寿命[81]。造成腹脂硬度降低和碘值增加的原因为DDGS 高的不饱和脂肪酸含量导致脂肪及肌肉组织中不饱和脂肪酸增加 $[ 7 ^ { 7 / 6 6 ] }$ 。所以，当 DDGS 的脂肪含量从 $1 6 . 0 \\%$ 降低到 $5 . 6 \\%$ 时，导致猪肉PUFA 浓度以及碘价降低[82]。同时添加 $30 \\%$ 的 DDGS 和 $5 \\%$ 的牛油能降低腹部脂肪的碘价[70]，只是改善幅度小[83]。LS-DDG[20]和 $10 \\%$ 的玉米胚芽[65]能在一定程度上缓解 DDGS 对猪肉的负面影响。维生素 E 能降低 TBARS 和肉的挥发性盐基氮(TVB-N)浓度，部分缓解DDGS 比例太高引起肉货架寿命降低的负面影响[81]。在 $1 0 0 \\mathrm { k g }$ 公猪的 $20 \\%$ DDGS 饲粮中添加 $0 . 6 \\%$ 的共轭亚油酸（CLA）能降低碘价，增加瘦肉率，但CLA对新鲜、冷藏或冷冻储存方式下的肉品质影响非常小[84]。 $\\mathrm { \\Delta X u }$ 等[67]证实 $1 5 \\%$ 和 $30 \\%$ DDGS 饲粮组屠宰时和图在前 3、6、9 周去除 DDGS 会线性降低C18：2及碘价，所以要避免DDGS 对猪肉品质的影响，最好在屠宰前3周停止饲喂DDGS 饲粮，这与Hil等[85]的建议非常一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3DDGS在母猪饲粮中的应用",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "早期研究表明妊娠母猪饲粮中添加 $40 \\% \\sim 8 0 \\%$ 的DDGS对母猪的体重、采食量、产仔数和仔猪体重无影响[86-87]。Hill等[85]研究表明仅在哺乳期添加 $1 5 \\%$ DDGS 和 $5 \\%$ 甜菜渣时，饲粮对仔猪增重和死亡率及母猪哺乳期失重无显著影响。将代谢能和赖氨酸配平后，在第 2或3胎母猪的妊娠晚期及哺乳期饲粮中同时添加 $20 \\%$ 或 $40 \\%$ 饲粮的cDDGS，母猪繁殖性能没有受影响[88]。Wilson 等[89]研究表明，妊娠期添加 $50 \\%$ DDGS 的同时在哺乳期添加 $20 \\%$ DDGS，断奶仔猪的死亡率高，但是第2个产仔期这种现象消失，而且第1胎饲粮中添加DDGS缩短了第2胎母猪的发情间隔，所以哺乳母猪饲粮中DDGS的添加量可以达到 $20 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，我们可看到，在一定范围内，让猪有个适应的过程，能用DDGS 替代配方中的玉米、豆粕用于猪生产。但为了解决其PUFA引起的高碘价肉的问题，建议添加CLA和维生素 E 等添加剂，同时在屠宰前 21d停用 DDGS。DDGS 在母猪上的应用的相关报道还比较少，其实怀孕母猪能耐受粗纤维饲粮，理论上来说，富含NDF的DDGS应该是妊娠母猪的适宜原料。因此，有必要在母猪上加大DDGS 的研发力度，观察其使用效果。此外，DDGS 在养猪生产上的应用研究集中于生产性能和肉品质两方面，但有限的资料表明，某些富含硫的DDGS 可能具有抗氧化效果，某些DDGS 具有抗炎效果。除了富含植酸磷外，DDGS 还富含其他矿物质和酚酸等，这些物质可能对猪的免疫、抗氧化等方面产生效果，因此，有必要对此进行研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3 DDGS应用过程中存在问题及改进思路",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1过筛 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DDGS 最大问题是质量变异大，蛋白质品质低，粗纤维含量太高。对采用POET(SiouxFals，SD)系统的 27个乙醇工厂进行DDGS 采样分析，干物质含量的变异 $2 5 . 6 \\%$ 来自于时间， $7 . 1 \\%$ 的变异源于不同生产地点，生产地点的不同解释了粗蛋白质、粗脂肪、ADF、NDF、粗纤维和硫含量变异的 $3 8 . 9 \\%$ 、 $12 . 5 \\%$ 、 $1 1 . 1 \\%$ 、 $1 7 . 2 \\%$ 和 $2 5 . 5 \\%$ ，而ADF和NDF含量的变异大部分是因为时间原因( $4 3 . 6 \\%$ 和 $5 0 . 1 \\%$ ，因此，在使用 DDGS 时尽可能采用同一时间段相同生产工艺厂家的原料，养分变异程度相对较小[90]。降低 DDGS 中粗纤维最简单而有效的方法是过筛。用1130、869、582、 $3 8 9 \\mu \\mathrm { m }$ 的筛子对干酒糟进行过筛处理后，得到物占 $2 7 . 2 \\%$ 、 $2 2 . 8 \\%$ 、 $2 1 . 4 \\%$ 和 $1 5 . 0 \\%$ ，底盘上物料占 $1 3 . 5 \\%$ ，其 NDF 含量分别为 $3 8 . 8 \\%$ ，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$3 6 . 8 \\%$ 、 $34 . 6 \\%$ 、 $3 2 . 2 \\%$ 和 $2 7 . 7 \\% [ 9 1 ]$ 。过80号筛 $( 2 4 9 { \\sim } 1 7 7 \\mu \\mathrm { m } )$ 的 wDDGS将粗蛋白质从原来的$3 7 1 . 6 \\mathrm { g / k g }$ 增加到底盘中的 $4 3 2 . 4 \\mathrm { g / k g }$ ，同时显著降低了NDF 和 $\\mathrm { \\ A D F ^ { [ 9 2 ] } }$ 。过筛后再对各筛上物进行空气流分级能进一步降低DDGS 的粗纤维含量。对 $8 6 9 { \\sim } 1 ~ 1 3 0 ~ \\mu \\mathrm { m }$ 筛上部分的片段进行空气分级，风力从1.75到 $1 . 9 2 \\mathrm { m s ^ { - 1 } }$ 增加，轻片段含量从 $7 . 2 \\%$ 增加到 $1 3 . 6 \\%$ ，其中的NDF含量从 $6 3 . 1 \\%$ 降低到 $5 9 . 0 \\%$ ，NDF分离系数从2.7下降到 $2 . 2 ^ { [ 9 1 ] }$ 。这也在试验工厂得到验证，效果不错[93]。在降低 NDF方面低速率扬风3次的效果与中速率扬风1次效果相当，把整个DDGS一次性扬风效率不及过筛后再分别对筛上筛下物扬风[94]。木聚糖酶的添加(24 000$\\mathrm { U } / \\mathrm { k g } )$ 能增加液态 DDGS 饲粮的 NDF 的 $\\mathrm { A I D } ^ { \\left[ 9 5 \\right] }$ 。只是，酶的作用具有针对性，所以要有效降解DDGS中的纤维，还需要多酶混合。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2 发酵",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对发酵过程进行改良也能改善 DDGS 的质量。对生淀粉进行发酵能增加 Pronghorm 黑小麦DDGS 的固醇、酚化合物和 $\\beta$ -葡聚糖含量，增加 CDC Ptarmigan DDGS 的生育酚及酚化合物含量[9]。此外，发酵前对原料进行预处理能增加DDGS 营养价值[97]。对DDGS 进行酸碱或热水预处理能分解纤维素释放出糖，预处理后的 DDGS 还能继续加纤维素酶等进行酶解产糖[98]，由此产生的发酵副产物DDGS 营养价值也得到提升。用含有 $\\mathbf { \\boldsymbol { a } }$ -淀粉酶和葡糖淀粉酶的复合酶制剂 STARGEN001在 $5 0 \\ \\mathrm { ^ { \\circ } C }$ 处理生淀粉后再用酿酒酵母发酵谷物产乙醇所产生的DDGS 营养价值更高[96]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3不同组分组合",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "试验证实将去壳大麦和谷物DDGS 混合后能显著改变营养组分的结构。检测发现谷物和谷物副产物混合后与脂肪相关的分子光谱强度[99]以及与蛋白质分子结构相关的光谱特征都发生了改变[100]，最终饲料的组合改变了饲料化学和营养结构，营养物质的消化率和可利用率得到改变。在混合浓缩蒸馏可溶物(CDS)和湿蒸馏谷物(WDG)时，随着 CDS 的减少，cDDGS 的颜色变得更亮，样品的不溶纤维含量以及氨基酸增加，而脂肪、总可溶性糖含量下降[101]。与混合饱和及不饱和脂肪相比，通过化学方法对脂肪进行部分加氢更能有效的提高消化率，但需注意，饲粮碘价太低(20)时，消化率反倒会降低[102]。研究一般认为是热损伤导致了DDGS 中氨基酸的消化率低下，但糖浆块的氨基酸 AID 和 SID与DDGS一致或更高，只是冷凝液可溶物和酒精废液蒸发物的大部分氨基酸消化率低于 DDGS，尤其是蛋氨酸。可如果是热损伤导致冷凝液可溶物的氨基酸消化率下降，下降最严重的应该是赖氨酸而不是蛋氨酸，所以导致 DDGS 氨基酸消化率下降的原因可能还是因为饲粮纤维浓度太高或赖氨酸浓度太低等其他原因[103]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4 生产活性物质",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DDGS可用于生产生物活性物质，如通过红发夫酵母（Phaffiarhodozyma，ATCC24202)和红掷孢酵母（Sporobolomyces roseus，ATCC 28988)共发酵或单发酵 DDGS 生产278$\\mu \\mathrm { g } / \\mathrm { g } \\mid \\beta \\$ -胡萝卜素[104]；通过白腐菌发酵产生木质素降解酶[105]；通过裂褶菌（Schizophyllumcommune，ATCC 20165)发酵麦芽提取物和DDGS 生产裂褶多糖[106]。此外，也能从cDDGS和高梁DDGS 中提取植物甾醇和二十八烷醇[107]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "虽然 DDGS 能生产生物活性物质，但其大量的使用还是在动物生产中。养殖者需要了解原料的营养组分及其变异程度才能更好地选择和利用这种原料。乙醇生产厂家应调控生产工艺，使 DDGS 质量更稳定。同时，对 DDGS 营养价值的关注不应仅仅在其氨基酸和粗纤维以及植酸磷方面，DDGS 还富含有其他矿物质以及维生素，也许能在免疫和抗氧化方面改善其在动物上的饲养效果。DDGS 在母猪上的使用也有必要投入更多的研究。最终，通过乙醇生产企业的工艺改良以及动物营养专家的努力，全方面探究DDGS 的营养价值，扩大DDGS的利用率，将为缓解饲料行业能量饲料缺乏提供有效解决路径。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢四川农业大学动物营养研究所陈代文教授和何军研究员对文稿所提的宝贵意见。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] BOTHAST R J,SCHLICHER M A.Biotechnological processes for conversion of corn into ethanol[J].Applied Microbiology and Biotechnology,2005,67(1):19-25. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[2] MUMM R H,GOLDSMITH P D,RAUSCH K D,et al.Land usage attributed to corn ethanol production in the United States:sensitivity to technological advances in corn grain yield,ethanol conversion,and co-product utilization[J].Biotechnology for Biofuels,2014,7(1):61. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[3] LI S,LIUW,RAUSCH K D,et al.Comparison of protein concentrate,protein isolate and wet sieving processes for enriching DDGS protein[J].Journal of the American Oil Chemists' Society,2014,91(5):867-874. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[4] ROBINSON P H,KARGES K,GIBSON M L.Nutritional evaluation of four co-product feedstuffs from the motor fuel ethanol distillation industry in the Midwestern USA[J].Animal Feed Science and Technology,2008,146(3/4):345-352. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[5] LI C,LI J Q,YANG W Z,et al.Ruminal and intestinal amino acid digestion of distiller's grain vary with grain source and milling process[J].Animal Feed Science and Technol0gy,2012,175(3/4):121-130. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[6] SAUNDERS JA,ROSENTRATER K A.Properties of solvent extracted low-oil corn distillers dried grains with solubles[J].Biomass and bioenergy,2009,33(10):1486-1490. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[7] JACELA J Y,DEROUCHEY JM,DRITZ S S,et al.Amino acid digestibility and energy content of deoiled (solvent-extracted) corn distillers dried grains with solubles for swine and effects on growthperformanceand carcass characteristics[J].JournalofAnimal Science,2011,89(6):1817-1829. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[8] KIM Y,MOSIER N,LADISCH M R.Process simulation of modified dry grind ethanol plant with recycle ofpretreated and enzymatically hydrolyzed distillers’grains[J].Bioresource Technol0gy,2008,99(12):5177-5192. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[9] PERKIS D,TYNER W,DALE R.Economic analysis of a modified dry grind ethanol process with recycle of pretreated and enzymatically hydrolyzed distillers’ grains[J].Bioresource Technol0gy,2008,99(12):5243-5249. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[10] PEDERSEN C,LINDBERG JE.Ilal and total tract nutrient digestibility in wheat wet distillers solubles and wheat dried distillrs grains with solubles when fed to growing pigs[J].Livestock Science,2010,132(1/2/3):145-151. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[11] CHOI G W,KIM Y,KEUN,et al.Low temperature pre-treatment of new cultivar of corn for ethanolproductionandnutrientvalueofitsdistiler'sdried grains with soluble[J].Biotechnology and Bioprocess Engineering,2009,14(4):496-502. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[12] ROSENTRATER K A,MUTHUKUMARAPPAN K,KANNADHASON S.Effectsof ingredients and extrusion parameters on aquafeeds containing DDGS and potato starch[J].Journal of Aquaculture Feed Science and Nutrition,2Oo9,1(1):22-38. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[13] BHADRA R,MUTHUKUMARAPPAN K,ROSENTRATER K A.Characterization of chemical and physical properties of distillers dried grain with solubles (DDGS) for value added uses[C]//2007ASAE Annual Meeting.St. Joseph,Michigan:American Societyof Agricultural and Biological Engineers,2007. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[14] SHARMA R,LAMSAL B P,COLONNA W J.Pretreatment of fibrous biomass and growth of biosurfactant-producing Bacillus subtilis on biomass-derived fermentable sugars[J].Bioprocess and Biosystems Engineering,2016,39(1):105-113. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[15] CHEN H C,LIU S J.A kinetic study of DDGS hemicellulose acid hydrolysis and NMR characterization of DDGS hydrolysate[J].Applied Biochemistry and Biotechnology,2015,177(1):162-174. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[16] LADISCH M,DALE B,TYNER W,et al.Celllose conversion in dry grind ethanol plants[J].Bioresource Technology,2008,99(12):5157-5159. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[17] DIEN B S,XIMENES E A,O'BRYAN P J,et al.Enzyme characterization for hydrolysis of AFEX and liquid hot-water pretreated distillers’ grains and their conversion to ethanol[J].Bioresource Technology,2008,99(12):5216-5225. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[18] THALER B.Use of distillrs dried grains with solubles (DDGS) in swine diets[R].South Dakota:South Dakota State University,2002. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[19] PEDERSEN C,JONSSON H,LINDBERG J E,et al.Microbiological characterization of wet wheat distillers' grain,with focuson isolation of lactobacilli with potential as probiotics[J].Applied and Environmental Microbiology,2004,70(3):1522-1527. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[20] DAHLEN R B A,BAIDOO S K,SHURSON G C,et al.Assessment of energy content of lowsolublescorn distillersdried grains and effectson growth performance,carcass characteristics,and pork fat quality in growing-finishing pigs[J].Journal of Animal Science,2011,89(10):3140-3152. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[21] JUNG B,BATAL A B,WARD N E,et al.Vitamin composition of new-generation corn distillers dried grains with solubles[J].The Journal of Applied Poultry Research,2013,22(1):71-74.   \n[22] ERIKSSON G,GRIMMA,SKOGLUND N,et al.Combustion and fuel characterisation of wheat distillers dried grain with solubles (DDGS) and possible combustion applications[J].Fuel,2012,102:208-220. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[23] GUDKA B,DARVELLL I,JONES JM,et al.Fuel characteristics of wheat-based dried distillers grains and solubles (DDGS) for thermal conversion in power plants[J].Fuel Processing Technology,2012,94(1):123-130. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[24] STEIN H H,SHURSON G C.Board-invited review:the use and application of distillers dried grains with solubles in swine diets[J].Journal of Animal Science,2009,87(4):1292-1303. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[25] RAUSCH K D,BELYEA R L.The future of coproducts from corn processing[J].Applied Biochemistry and Biotechnology,2006,128(1):47-86. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[26] KIM E J,AMEZCUA C M,UTTERBACK P L,et al.Phosphorus bioavailability,true metabolizable energy,and amino acid digestibilities of high protein corn distillers dried grains and dehydrated corn germ[J].Poultry Science,20o8,87(4):700-705. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[27] NOUREDDINI H,DANG J.Degradation of phytates in distillers’ grains and corn gluten feed by Aspergillus niger phytase[J].Applied Biochemistry and Biotechnology,2009,159(1):11- ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "23. [28] KHULLAR E,SHETTY J K,RAUSCH K D,et al.Use of phytases in ethanol production from E-Mill corn processing[J].Cereal Chemistry,2011,88(3):223-227. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[29] CHEN X Z,XIAO Y,SHEN W,et al.Display of phytase on the cell surface of Saccharomyces cerevisiae to degrade phytate phosphorus and improve bioethanol production[J].Applied Microbiology and Biotechnology,2016,100(5):2449-2458. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[30] LUTHRIA D L,LIU K S,MEMON A A.Phenolic acids and antioxidant capacity of distillers dried grains with solubles (DDGS) as compared with corn[J].Journal of the American Oil Chemists' Society,2012,89(7):1297-1304. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[31] LI X Y,ZHAO L H,FAN Y,et al.Occurrence of mycotoxins in feed ingredients and complete feeds obtained from the Beijing region of China[J].Journal of Animal Science and Biotechnology,2014,5(1):37. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[32] TANSAKUL N,JALA P,LAOPIEM S,et al.Co-occurrence of five Fusarium toxins in corndried distiller's grains with solubles in Thailand and comparison of ELISA and LC-MS/MS for fumonisin analysis[J].Mycotoxin Research,2013,29(4):255-260. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[33] COMPART D M P,CARLSON A M,CRAWFORD G I,et al.Presence and biological activity of antibiotics used in fuel ethanol and corn co-product production[J].Journal of Animal Science,2013,91(5):2395-2404. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[34] KANNADHASON S,MUTHUKUMARAPPAN K,ROSENTRATER K A.Effect of starch sources and protein content on extruded aquaculture feed containing DDGS[J].Food and Bioprocess Technology,2011,4(2):282-294. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[35] CHEVANAN N,MUTHUKUMARAPPAN K,ROSENTRATER K A.Extrusion studies of aquaculture feed using distillers dried grains with solubles and whey[J].Food and Bioprocess Technol0gy,2009,2(2):177-185. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[36] POURAFSHAR S,ROSENTRATER K A,KRISHNAN P G.Using alternative flours as partial replacement of barbari bread formulation (traditional Iranian bread)[J].Journal of Food ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Science and Technology,2015,52(9):5691-5699. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[3 7] POURAFSHAR S,ROSENTRATER K A,KRISHNAN P G.Changes in chemical and physical properties of Latin American wheat flour based tortillas substituted with different levels of distillersdriedgrainswithsolubles(DDGS)[J].Journal of Food Scienceand Technol0gy,2015,52(8):5243-5249. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[38] PEDERSEN C,BOERSMA M G,STEIN H H.Digestibility of energy and phosphorus in ten samples of distillers dried grains with solubles fed to growing pigs[J].Journal of Animal Science,2007,85(5):1168-1176. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[39] JIE Y Z,ZHANG JY,ZHAO L H,et al.The correlationship between the metabolizable energy content,chemical composition and color score in different sources of corn DDGS[J].Journal of Animal Science and Biotechnology,2013,4(1):38. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[40] AYOADE D I,KIARIE E,NETO M A T,et al.Net energy of diets containing wheat-corm distillers dried grains with solubles as determined by indirect calorimetry,comparative slaughter,and chemical composition methods[J].Journal of Animal Science,2012,90(12):4373-4379. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[41] AGYEKUM A K,WOYENGO TA,SLOMINSKI B A,et al.Effects of formulating growing pig diet with increasing levels of wheat-corn distillers dried grains with solubles on digestible nutrient basis on growth performance and nutrient digestibility[J].Journal of Animal Physiology and Animal Nutrition,2014,98(4):651-658. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[42] URRIOLA P E,SHURSON G C,STEIN H H.Digestibility of dietary fiber in distillers coproducts fed to growing pigs[J].Journal of Animal Science,2010,88(7):2373-2381. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[43] GUTIERREZ N A,SERAO N V L,KERR B J,et al.Relationships among dietary fiber components and the digestibility of energy,dietary fiber,and amino acids and energy content ofnine corncoproducts fed togrowingpigs[J].JournalofAnimal Science,2014,92(10):4505-4517. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[44] GUTIERREZ N A,SERAO N V L,PATIENCE J F.Effects of distillers’ dried grains with solubles and soybean oil on dietary lipid,fiber,and amino acid digestibility in corn-based diets fed to growing pigs[J].Journal of Animal Science,2016,94(4):1508-1519. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[45] LAN Y,OPAPEJU F O,NYACHOTI C M.True ileal protein and amino acid digestibilities in wheat dried distillers' grains with solubles fed to finishing pigs[J].Animal Feed Science and ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Technol0gy,2008,140(1/2):155-163. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[46] COZANNET P,PRIMOT Y,GADY C,et al.Ileal digestibility of amino acids in wheat distillers dried grains with solubles for pigs[J].Animal Feed Science and Technol0gy,2010,158(3/4):177-186. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[47] COZANNET P,PRIMOT Y,GADY C,et al.Composition and amino acids ileal digestibility of wheat distillers dried grains and solubles in pigs:sources of variability[J].Livestock Science,2010,134(1/2/3):176-179. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[48] CURRY S M,NAVARRO D M D L,ALMEIDA F N,et al.Amino acid digestibility in low-fat distillers dried grains with solubles fed to growing pigs[J].Journal of Animal Science and Biotechnology,2014,5(1):27. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[49] ALMEIDA F N,HTOO J K,THOMSON J,et al.Amino acid digestibility of heat damaged distillers dried grains with solubles fed to pigs[J].Journal of Animal Science and Biotechnology,2013,4(1):44. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[50] YOON S Y,YANG Y X,SHINDE PL,et al.Effects of mannanase and distillrs dried grain with solubles on growth performance,nutrient digestibility,and carcass characteristics of growerfinisher pigs[J].Journal of Animal Science,2010,88(1):181-191. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[51] STEIN H H.Distillrs dried grains with solubles (DDGS) in diets fed to swine[J].Swine Focus,2007(1):1-8. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[52] THACKER P,DEEP A,BELTRANENA E.Use of a post-production fractionation process improves the nutritional value of wheat distillers grains with solubles for young broiler chicks[J].Journal of Animal Science and Biotechnology,2013,4(1):18. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[53] SPIEHS M J,WHITNEY M H,SHURSON G C,et al.Odor and gas emissions and nutrient excretion from pigs fed diets containing dried distillers grains with solubles[J].Applied Engineering in Agriculture,2012,28(3):431-437. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[54]MCDONNELL P,O'SHEA C J,CALLAN J J,et al.The response ofgrowth performance,nitrogen,and phosphorus excretion of growing-finishing pigs to diets containing incremental levels of maize dried distiller's grains with solubles[J].Animal Feed Science and Technology,2011,169(1/2):104-112. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[55] HANSON A R,XU G,LI M,et al.Impact of dried distillrs grains with solubles (DDGS) and diet formulation method on dry matter,calcium,and phosphorus retention and excretion in nursery pigs[J].Animal Feed Science and Technology,2012,172(3/4):187-193. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[56] WEBER TE,ZIEMER C J,KERR B J.Effects of adding fibrous feedstuffs to the diet of young pigs on growthperformance,intestinalcytokines,and circulating acute-phase proteins[J].Journal of Animal Science,2008,86(4):871-881. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[57] WHITNEY M H,SHURSON G C.Growth performance of nursery pigs fed diets containing increasing levels of corn distiller's dried grains with solubles originating from a modern Midwestern ethanol plant[J].Journal of Animal Science,2004,82(1):122-128. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[58] SPENCER J D,PETERSEN G I,GAINES A M,et al.Evaluation of different strategies for supplementing distiller's dried grains with solubles (DDGS) to nursery pig diets[J].Journal of Animal Science,2007,85(Suppl.2):96-97. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[59] BURKEY T E,MILLER P S,SHEPHERD S S,et al.Effects of increasing concentrations of distillers dried grains with solubles (DDGS） on growth performance of weanling pigs[R].2008 Nebraska Swine Report,2008. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[60] TRAN H,MORENO R,HINKLE E,et al.Effect of corn distillers dried grains with solubles on growth performance and health status indicators in weanling pigs[J].Journal of Animal Science,2012,90(3):790-801. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[61] JONES C K,BERGSTROMJR,TOKACH M D,et al.Efficacy of commercial enzymes in diets containing various concentrations and sources of dried distillers grains with solubles for nursery pigs[J].Journal of Animal Science,2010,88(6):2084-2091. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[62] AVELAR E,JHA R,BELTRANENA E,et al.The effect of feeding wheat distillers dried grain with solubles on growth performance and nutrient digestibility in weaned pigs[J].Animal Feed Science and Technology,2010,160(1/2):73-77. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[63] SEABOLT B S,VAN HEUGTEN E,KIM S W,et al.Feed preferences and performance of nursery pigs fed diets containing various inclusion amounts and qualities of distillers coproducts and flavor[J].Journal of Animal Science,2010,88(11):3725-3738. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[64] LINNEEN S K,DEROUCHEY J M,DRITZ S S,et al.Effects of dried distillers grains with solubles on growing and finishing pig performance in a commercial environment[J].Journal of Animal Science,2008,86(7):1579-1587. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[65] WIDMER M R,MCGINNIS L M,WULF D M,et al.Effects of feeding distillers dried grains with solubles,high-protein distillrs dried grains,and corn germ to growing-finishing pigs on pig performance,carcass quality,and the palatability of pork[J].Journal of Animal Science,2008,86(8):1819-1831. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[66] XU G,BAIDOO S K,JOHNSTON L J,et al.Effects of feeding diets containing increasing content of corn distillers dried grains with solubles to grower-finisher pigs on growth performance,carcasscomposition,andporkfatquality[J].JournalofAnimal Science,2010,88(4):1398-1410. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[67] XU G,BAIDOO S K,JOHNSTON L J,et al.The effects offeeding diets containing corn distillers dried grains with solubles,and withdrawal period of distillers dried grains with solubles,on growth performance and pork quality in grower-finisher pigs[J].Journal of Animal Science,2010,88(4):1388-1397. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[68] WIDYARATNE G P,PATIENCE J F,ZIJLSTRA R T.Nutritional value of wheat and corn distiller's dried grain with solubles (DDGS):digestible energy (DE),amino acids and phosphorus content and growth performance of grower-finisher pigs[J].Canadian Journal of Animal Science,2004,84:792. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[69] CROMWELL G L,AZAIN M J,ADEOLA O,et al.Corn distillers dried grains with solubles in diets for growing-finishing pigs:a cooperative study[J].Journal of Animal Science,2011,89(9):2801-2811. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[70] DAVIS JM,URRIOLAPE,SHURSON G C,et al.Effects of adding supplemental tallow to diets containing $30 \\%$ distillers dried grains with solubles on growth performance,carcass characteristics,and pork fat quality in growing-finishing pigs[J].Journal of Animal Science,2015,93(1):266-277. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[71] OVERHOLT M F,LOWELL JE,ARKFELD E K,et al.Effects of pelleting diets without or with distillers’ dried grains with solubles on growth performance,carcass characteristics,and gastrointestinal weights of growing-finishing barrows and gilts[J].Journal of Animal Science,2016,94(5):2172-2183. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[72] WU F,JOHNSTON L J,URRIOLAP E,et al.Effects of feeding diets containing distillers' dried grains with solubles and wheat middlings with equal predicted dietary net energy on growth performance and carcass composition of growing-finishing pigs[J].Journal of Animal Science,2016,94(1):144-154. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[73] HILBRANDS A M,JOHNSTON L J,MCCLELLAND K M,et al.Effects of abrupt introduction and removal of high and low digestibility corn distillers dried grains with solubles from the diet on growth performance and carcass characteristics of growing-finishing pigs[J].Journal of Animal Science,2013,91(1):248-258. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[74] AYOADE D I,KIARIE E,SLOMINSKI B A,et al.Growth and physiological responses of growing pigs to wheat-corn distillers dried grains with solubles[J].Journal of Animal Physiology and Animal Nutrition,2014,98(3):569-577. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[75] COOK D,PATON N,GIBSON M.Effect of dietary level of distillers dried grains with solubles (DDGS) on growth performance,mortality,and carcass characteristics of grow-finish barrows and gilts[J].Journal of Animal Science,2005,83(1):335 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[76] XU G,WHITNEY MH,SHURSON G C.Effects of feeding diets containing corn distillers dried grains with solubles (DDGS),with or without phytase,on nutrient digestibility and excretion in grow-finish pigs[J].Journal of Animal Science,2006,84(Suppl.2):123. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[77] SHURSON G,SPIEHS M,WHITNEY M.The use of maize distillr’s dried grains with solubles in pig diets[J].Pig News and Information,2004,25(2):75N-83N. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[78] GILL B P,MELLANGE J,ROOKE JA.Growth performance and apparent nutrient digestibility in weaned piglets offered wheat-,barley- or sugar-beet pulp-based diets supplemented with food enzymes[J].Animal Science,2000,70(1):107-118. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[79] PLUSKE JR,BLACK B,PETHICK D W,et al.Effects of different sources and levels of dietary fibre in diets on performance,digesta characteristics and antibiotic treatment of pigs after weaning[J].Animal Feed Science and Technology,2003,107(1/2/3/4):129-142. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[80] OVERHOLT M F,LOWELL J E,WILSON K B,et al.Effects of feeding pelleted diets without or with distillers dried grains with solubles on fresh belly characteristics,fat quality,and commercialbaconslicingyieldsoffinishingpigs[J].JournalofAnimal Science,2016,94(5):2198-2206. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[81] WANG H,WANG L S,SHI B M,et al.Effects of dietary corn dried distillers grains with solubles and vitamin E on growth performance,meat quality,fatty acid profiles,and pork shelf life of finishing pigs[J].Livestock Science,2012,149(1/2):155-166. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[82] WU F,JOHNSTON L J,URRIOLA PE,et al.Pork fat quality of pigs fed distillrs dried grains with solubles with variable oil content and evaluation of iodine value prediction equations[J].Journal of Animal Science,2016,94(3):1041-1052. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[83] FEOLI C,ISSA S,HANCOCK J D,et al.Effects of adding saturated fat to diets with sorghumbased distillers dried grains with solubles on growth performance and carcass characteristics in finishing pigs[J].Journal of Animal Science,2007,85(Suppl.1):148. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[84] RICKARD J W,WIEGAND B R,POMPEU D,et al.The effect of corn distiller's dried grains with solubles,ractopamine,and conjugated linoleic acid on the carcass performance,meat quality,and shelf-life characteristics of fresh pork following three different storage methods[J].Meat Science,2012,90(3):643-652. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[85] HILL G M,LINK JE,RINCKER M J,et al.Utilization of distilers dried grains with solubles and phytase in sow lactation diets to meet the phosphorus requirement of the sow and reduce fecal phosphorus concentration[J].Journal of Animal Science,20o8,86(1):112-118. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[86] THONG L A,JENSEN A H,HARMON B G,et al.Distillrs dried grains with solubles as a supplemental protein source in diets for gestating swine[J].Journal of Animal Science,1978,46(3):674-677. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[87] MONEGUE H J,CROMWELL GL.High dietary levels of corn byproducts for gestating sows[J].Journal of Animal Science,1995,73(Suppl.1):86. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[88] WANG L S,SUB C,SHI Z,et al.Dietary supplementation with maize distillers dried grains with solubles during late gestation and lactation:effects on sow and litter performance,and on colostrum and milk composition[J].Animal Feed Science and Technol0gy,2013,179(1/2/3/4):149-153. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[89] WILSON J A,WHITNEY M H,SHURSON G C,et al.Effects of adding distiller's dried grains with solubles (DDGS） to gestation and lactation diets on reproductive performance and nutrient balance[J].Journal of Animal Science,20o3,81(Suppl.):47-48. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[90] BREITLING B J.Nutrient variability of distillers grains with solubles[C]//ADSA-ASAS 2016 Midwest Meeting.Sioux Falls,SD:POET Research,Inc.,2016. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[91] SRINIVASAN R,MOREAU R A,PARSONS C,et al.Separation of fiber from distillers dried grains (DDG) using sieving and elutriation[J].Biomass and Bioenergy,2008,32(5):468-472.   \n[92] RANDALL K M,DREW M D.Fractionation of wheat distillr's dried grains and solubles using sieving increases digestible nutrient content in rainbow trout[J].Animal Feed Science and Technology,2010,159(3/4):138-142. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[93] SRINIVASAN R,TO F,COLUMBUS E.Pilot scale fiber separation from distillers dried grains with solubles (DDGS) using sieving and air classification[J].Bioresource Technol0gy,2009,100(14):3548-3555. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[94] LIU K S.Fractionation of distillers dried grains with solubles (DDGS) by sieving and winnowing[J].Bioresource Technology,2009,100(24):6559-6569. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[95] MORAN K,DE LANGE C F M,FERKET P,et al.Enzyme supplementation to improve the nutritional value offibrous feed ingredients in swine diets fed in dry or liquid form[J].Journal of Animal Science,2016,94(3):1031-1040. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[96] GIBREEL A,SANDERCOCK JR,LAN J G,et al.Evaluation of value-added components of drieddistiller's grainwithsolubles fromtriticaleandwheat[J].Bioresource Technol0gy,2011,102(13):6920-6927. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[97] KIM Y,HENDRICKSON R,MOSIER N S,et al.Enzyme hydrolysis and ethanol fermentation ofliquid hot waterand AFEX pretreated distillers’ grainsathigh-solids loadings[J].Bioresource Technology,2008,99(12):5206-5215. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[98] WANG X J,WANG Y,WANG B,et al.Biobutanol production from fiber-enhanced DDGS pretreated with electrolyzed water[J].Renewable Energy,2013,52:16-22. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[99] ABEYSEKARA S,DAMIRAN D,YU P Q.Univariate and multivariate molecular spectral analyses of lipid related molecular structural components in relation to nutrient profile in feed and food mixtures[J].Spectrochimica Acta Part A:Molecular and Biomolecular Spectrosc0py,2013,102:432-442. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[100] ZHANG X W,YU P Q.Using ATR-FT/IR molecular spectroscopy to detect effects of blend DDGS inclusion level on the molecular structure spectral and metabolic characteristics of the proteins in hulless barley[J].Spectrochimica Acta Part A:Molecular and Biomolecular Spectroscopy,2012,95:53-63. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[101] KINGSLY AR P,ILELEJI K E,CLEMENTSON C L,et al.The efect of process variables during drying on the physical and chemical characteristics of corn dried distilers grains with solubles (DDGS)-Plant scale experiments[J].Bioresource Technology,2010,101(1):193-199. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[102] GATLIN L A,SEE M T,ODLE J.Effects of chemical hydrogenation of supplemental fat on relativeapparentlipiddigestibilityinfinishingswine[J].Journalof Animal Science,2005,83(8):1890-1898. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[103] SOARES JA,STEIN H H,SINGH V,et al.Amino acid digestibility of corn distillers dried grains with solubles,liquid condensed solubles,pulse dried thin stilage,and syrup balls fed to growing pigs[J].Journal of Animal Science,2012,90(4):1255-1261. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "[104] ANANDA N,VADLANI P V.Production and optimization of carotenoid-enriched dried distiller's grains with solubles by Phaffia rhodozyma and Sporobolomyces roseus fermentationofwholestillage[J].JournalofIndustrialMicrobiology & Biotechnology,2010,37(11):1183-1192. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "[105] PENA R,LU-CHAU TA,LEMA JM.Use of white-rot fungi for valorization of stillage from bioethanol production[J].Waste and Biomass Valorization,2012,3(3):295-303. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "[106] SUTIVISEDSAK N,LEATHERS T D,PRICE N P J.Production of schizophyllan from distiller'sdriedgrainswithsolubles by diverse strains ofSchizophyllum commune[J].Springer Plus,2013,2(1):476. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "[107] LEGUIZAMON C,WELLER C L,SCHLEGEL V L,et al.Plant sterol and policosanol characterization of hexane extracts from grain sorghum,corn and their DDGS[J].Journal of the American Oil Chemists' Society,2009,86(7):707-716. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Nutrition Value of Distillers Dried Grains with Solubles and Its Application in Swine Production YANG Canil TANG Xiaowu² BIN Dongmei1 CHEN Siyuan1 HE $\\mathrm { Y u ^ { 1 } }$ LEI Han1   \n(1. College ofLife and Environment Science,Hengyang Normal University, Hengyang 421008 China; 2. Hunan Dabeinong Agricultural Technology Limited Company, Changsha 410200, China) ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Abstract: As a kind of ethanol production industry by-products,the distillers dried grains with solubles (DDGS) output is continuously raised with the application of biological energy. DDGS was first used in ruminant production. In recent years, there were also many reports related DDGS used in pigs，chickens and other single stomach animal production industry. This review summarized research results from recent ten years abroad on production process， nutrition composition, nutrition value on pigs and its application in pig production and improvement measures, et al. Soybean meal and corn can be replaced partly by DDGS in pig production, but the instability of product quality, poor protein quality and high-fiber content limit the DDGS to the applications in swine industry. It suggests that through the sieving, fermentation, adding enzyme and certain combinations of different material can broaden the DDGS utilization in swine ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "production. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Key words: DDGS; swine; crude fiber; protein ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(责任编辑 田艳明)",
+        "page_idx": 21
+    }
+]

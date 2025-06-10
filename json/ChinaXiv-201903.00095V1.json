@@ -1,0 +1,578 @@
+[
+    {
+        "type": "text",
+        "text": "级联式双向DC-DC变换器的模型预测控制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "梅杨　李晓晴 黄伟超",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4338558833337a61332508caae034ea8a86a37cf79b3fc630ef54499b1af12bd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(北方工业大学变频技术北京市工程技术研究中心北京100144)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "梅杨女1982年生，博士，教授，主要研究方向为矩阵变换器技术和交流电机高性能控制技术。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：级联式双向DC-DC变换器具有结构简单、功率密度高且适用于大变比变换场合等优点，但其传统的双闭环控制方法中，控制结构复杂，PI参数设置困难。据此引入模型预测控制（MPC）思想对级联式双向DC-DC变换器进行控制。模型预测控制具有控制思想简单、易于包含系统的约束条件及控制器易于实现等优点，该控制策略包括建立变换器模型和其可能的开关状态、定义代价函数两个步骤。本文对级联式双向DC-DC变换器的模型预测控制进行仿真分析和实验验证。同时，将其与传统双闭环控制方法进行实验对比，实验结果显示，模型预测控制方法能够使母线电压准确追踪给定值，与传统双闭环控制相比，动态过程中母线电压的超调减小 $6 . 2 5 \\%$ 左右，变换器的动态响应时间减少 $0 . 3 \\mathrm { s }$ 。由此证明所提出模型预测控制方法的可行性及有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：级联双向DC-DC 变换器 模型预测控制直流母线 代价函数中图分类号：TM46",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2196abc058ef3b3bfc409dd5670ebfda1e9386b0fdde8ede825ca0c0a430b0b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Model Predictive Control Method for Cascaded Bi-Directional DC-DC Converter ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李晓晴女 1989年生，硕士研究生，研究方向为电力电子与电力传动。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mei Yang Li Xiaoqing Huang Weichao (Power Electronics and Motor Driving Engineering Center North China University of TechnologyBeijing100144 China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The cascaded bidirectional DC-DC converter has the advantages of simple structure,high power density, suitable for the higher ratio conversion applications,et al. However,conventional double closed-loop control method has the shortcomings of complicated control structure,difficult PI parameter selection.Accordingly, the model predictive control (MPC) is introduced in this paper. Model predictive control has many advantages,such as simple control concept, easy to contain constraints, easy to imply its controller and so on.Establishing converter models and its possible switching states and defining the cost function are included into this control strategy.In this paper,simulation and experimental verification of model predictive control are carried out and MPC method is compared with conventional double closed-loop method. The experimental results show that MPC can make the voltage of DC bus track the given value accurately. Compared to conventional double closed-loop control method,the overshoot of DC bus voltage in dynamic process can reduce $6 2 . 5 \\%$ and the dynamic response time of converter can reduce 0.3s.Therefore,the feasibility and effectiveness of MPC method are proved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Cascaded, bi-directional DC-DC converter, model predictive control, DC bus,cost function ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "应用较为广泛的级联式双向DC-DC变换器一般是基本的双向Buck/BoostDC-DC变换器进行级联得到的，具有结构简单，功率密度高，可实现大变比等优点，因此被广泛应用于UPS、航空电源系统、蓄电池储能、汽车头灯和通信电源系统中[1],如将汽车所用蓄电池12V电压抬升到头灯点亮后稳定工作所需的100V电压；将光伏阵列 $3 3 \\sim 4 5 \\mathrm { V }$ 输出直流电压和燃料电池堆 $2 0 \\sim 2 6 \\mathrm { V }$ 的输出直流电压上升到半桥、全桥并网逆变器的输入电压DC760V和 $\\mathrm { D C } 3 6 0 \\mathrm { V }$ ；或将UPS系统中蓄电池48V电压升压到所需的 $3 8 0 \\mathrm { V }$ 电压[2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，对双向DC-DC变换器的研究主要在电路拓扑和控制两个方面。本文主要在控制方面对级联式双向DC-DC变换器进行研究，因此选用结构较为简单的两级Buck/Boost 双向DC-DC变换器进行级联。由于采用传统的线性控制方法对级联式双向DC-DC变换器进行控制会导致其工作性能受到限制，特别是参数或者负载出现较大变化的时候。如峰值电流控制采用电感电流峰值跟踪电压环的控制信号，具有较快的输入瞬态响应，但易受噪声影响，不能精确控制电流，负载瞬态响应也没有提高[3]。平均电流控制取电感电流的平均值来跟踪电压环，有效提高了电流控制精度和抗干扰能力，但负载瞬态响应速度比峰值电流控制慢[4]。单闭环的电压控制虽实现简单、抗干扰能力强，但输入和负载瞬态响应较慢，且PI控制器的参数设计与选择过程比较繁琐，设计者的经验和水平直接影响到变换器的跟踪精度、响应速度等性能[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对这些控制方法的缺点，本文提出一种新的模型预 测控制(ModelPredictiveControl，MPC)方法。模型预测控制将功率变换器当作离散和非线性的执行器。在MPC系统中，通过单一的控制器实现控制动作，这一控制器可以从所有可能的状态中在线选择状态，并在可以是代价函数最小的离散时间预测模型中计算控制动作。因此，通过合适的代价函数形式，MPC可以满足更高的灵活性，并同时对许多重要参数（如开关次数、开关损耗、无功功率控制、电机转矩纹波等）实现最优化[6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 级联式双向DC-DC变换器的拓扑结构和工作原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "级联式双向DC-DC变换器在UPS、航空电源系统和蓄电池储能等应用场合的工作模式很类似，因此本文以分布式供电系统中的级联双向DC-DC变换器为例，详细分析其工作过程，所采用的分布式供电系统拓扑结构如图1所示。蓄电池经过双向DC-DC变换器连接到直流母线上，实现能量的双向流动，达到平抑母线功率波动的目的。为简化分析，负载侧选用纯电阻负载。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d2d67211e94c08699b007c4f8fccea5ba9c6bdedc46c976f88226b6c4266690.jpg",
+        "img_caption": [
+            "图1分布式供电系统结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所采用的级联式双向DC-DC变换器的拓扑结构如图2所示。分布式供电系统的正常运行要求双向DC-DC变换器能够在Buck、Boost两种工作模式之间顺利切换。当分布式电源输出功率小于负载所需的功率时，蓄电池进行放电，此时双向DC-DC变换器工作在Boost模式。当分布式电源输出功率大于负载所需的功率时，对蓄电池进行充电，此时双向DC-DC变换器工作在Buck模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/09adba1951990acf825ffa76bf1f5bfd3cc1b3a0a136478d26f683bb11697dbf.jpg",
+        "img_caption": [
+            "Fig.1Typical DC distributed power system ",
+            "图2 级联式双向DC-DC变换器拓扑结构 Fig.2 Cascaded bi-directional DC-DC converter circuit topology "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3级联式双向DC-DC变换器的控制方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1传统双闭环控制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "级联式双向DC-DC变换器的传统双闭环控制结构如图3所示。该框图分为电压外环控制部分和电流内环控制部分，最后通过PWM调制把控制信号分别送给两级DC-DC变换器的IGBT。由于充放电过程的不同，两内环PI参数的设定也会有所不同。由图可知，整个控制系统中包括6个PI控制器，PI参数达12个之多，因此很难设置合适的PI参数实现性能优化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d08f2d8e9dfb76f23c1c8f7dc25eb62546c0c447a512c4ca953f2a63d90fdd13.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2模型预测控制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型预测控制基于以下原理，即通过静态功率变换器可以只产生有限个开关状态，并且可以使用系统模型去预测每一个开关状态所对应的变量的变化特性，为了选择能够应用的合适的开关状态，必须定义一种选择标准。这种标准包括代价函数，代价函数用于评价需要控制的变量预测值。对每一种可能的开关状态，针对这些变量的未来值进行预测，然后选择使代价值最小的开关状态。这种控制策略可以概括为建立变换器模型和其可能的开关状态、定义代价函数两个步骤。由于两级分开控制，因此仅以第二级为例来说明模型预测控制过程，其控制结构如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e11cef64aa724551f2fae2f0e4d45dc3eb13b1ef1ca86e04b1bfa588ba9a6e56.jpg",
+        "img_caption": [
+            "图4级联式双向DC-DC变换器的MPC控制框图 Fig.4MPC control for cascaded bi-directional DC-DC converter ",
+            "Fig.5Equivalent circuits for Boost model "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1功率预测模型的建立",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "预测模型是根据开关管的不同开关状态对应的双向 DC-DC 变换器的等效电路得到的， $S _ { g } = 1$ C $g =$ 3,4）代表IGBT导通， $S _ { g } = 0$ C $\\scriptstyle { \\frac { } { g = 3 , 4 } }$ ）代表IGBT关断。双向DC-DC变换器工作在Boost模式时所有开关状态对应的等效电路如图5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5cf490d5c1a20a128e01f1acdc24d5369224cada8c624f2669cfd8d3cd51582b.jpg",
+        "img_caption": [
+            "图3级联式双向DC-DC变换器的PI控制框图 Fig.3PI control for cascaded bi-directional DC-DC converter ",
+            "图5等效电路图 (Boost模式)"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）状态1： $S _ { 4 } = 1$ ， ${ { S } _ { 3 } } = 0$ 。 根据等效电路可得 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL { \\frac { \\mathrm { d } i _ { L 2 } } { \\mathrm { d } t } } = U _ { \\mathrm { d c 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（1）对应的离散化等式为 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ i _ { L } } _ { 2 } \\left( k + 1 \\right) = \\frac { T _ { \\mathrm { s } } } { L _ { 2 } } U _ { \\mathrm { d c 1 } } ( k ) + { i _ { L } } _ { 2 } ( k )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $U _ { \\mathrm { d c l } } ( k )$ 为 $k$ 时刻中间级电容 $C _ { 1 }$ 两端的电压；$I _ { L 2 } ( k )$ 为 $k$ 时刻第二级变换器的电感电流； $T _ { \\mathrm { s } }$ 为采样时间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）状态2： $S _ { 4 } = 0 , S _ { 3 } = 0$ 。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据等效电路可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { _ 2 } \\frac { \\mathrm { d } i _ { L 2 } } { \\mathrm { d } t } = U _ { \\mathrm { d c 1 } } - U _ { \\mathrm { d c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（3）对应的离散化等式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni _ { \\scriptscriptstyle { L 2 } } ( k + 1 ) = \\frac { T _ { \\mathrm { s } } } { L _ { 2 } } \\big [ { - U _ { \\scriptscriptstyle { \\mathrm { d c } } } ( k ) + U _ { \\scriptscriptstyle { \\mathrm { d c } 1 } } ( k ) } \\big ] + i _ { \\scriptscriptstyle { L 2 } } ( k )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $U _ { \\mathrm { d c } } ( k )$ 为 $k$ 时刻直流母线两端的电压。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同理可得双向DC-DC 变换器工作在Buck模式时所有开关状态对应的离散化等式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）状态1： $S _ { 3 } = 1 , S _ { 4 } = 0$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ i } _ { _ { L 2 } } ( k + 1 ) = \\frac { T _ { \\mathrm { s } } } { L _ { 2 } } \\Big [ { U } _ { \\mathrm { d c } } ( k ) - { U } _ { \\mathrm { d c } 1 } ( k ) \\Big ] + { i } _ { _ { L 2 } } ( k )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）状态2： ${ \\cal S } _ { 3 } = 0 , { \\cal S } _ { 4 } = 0 .$ 0 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni _ { L 2 } ( k + 1 ) = - \\frac { T _ { \\mathrm { s } } } { L _ { 2 } } U _ { \\mathrm { d c 1 } } ( k ) + i _ { L 2 } ( k )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将离散化等式(2）、式(4)、式(5）和式（6)代入 $P _ { \\mathrm { b } 2 } ^ { \\mathrm { P } } ( k + 1 ) = | i _ { L 2 } ( k + 1 ) U _ { \\mathrm { d c } 1 } ( k + 1 ) |$ 即可得到所有开关状态对应的功率预测模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2功率参考值的计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "直流母线功率的波动将表现为母线电压即 $C _ { \\mathrm { d c } }$ 两端的电压的变化，由于母线电容 $C _ { \\mathrm { d c } }$ 两端的电压的改变只能通过调整流过该电容的电流来实现，而且电容两端的电流不能无限大，因此引入参考预测范围 $N$ 。通过母线电压给定值 $U _ { \\mathrm { d c } } ^ { * }$ 当前时刻母线电压采样值 $U _ { \\mathrm { d c } }$ 及 $N$ 可计算出下一采样时刻滤波电压值 $U _ { 1 }$ ，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { 1 } ( k + 1 ) = U _ { \\mathrm { d c } } ( k ) + \\frac { 1 } { N } \\Big [ U _ { \\mathrm { d c } } ^ { * } - U _ { \\mathrm { d c } } ( k ) \\Big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相当于通过 $N$ 步来使母线电压线性地达到给定值 $U _ { \\mathrm { d c } \\circ } ^ { * }$ 母线电压的变化要求流过母线端电容 $C _ { \\mathrm { d c } }$ 的电流作相应地调整，如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2f020ba8eef2c2d35c1c13930f837c2cde3d2d2a065d6fa183126759e2a4a97.jpg",
+        "img_caption": [
+            "图6调整电容电流示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni _ { \\mathrm { c } } = C _ { \\mathrm { d c } } { \\frac { \\ \\mathrm { d } u _ { \\mathrm { d c } } \\ } { \\ \\mathrm { d } t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni _ { \\mathrm { c } } \\left( k + 1 \\right) = \\frac { C _ { \\mathrm { d c } } } { T _ { \\mathrm { s } } } \\Big [ U _ { \\mathrm { d c } } \\left( k + 1 \\right) - U _ { \\mathrm { d c } } \\left( k \\right) \\Big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令 $U _ { \\mathrm { d c } } ( k + 1 ) = U _ { 1 } ( k + 1 )$ ，将式（7）代入式（9)，得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni _ { \\mathrm { c } } \\left( k + 1 \\right) = \\frac { 1 } { N } \\left\\{ \\frac { C _ { \\mathrm { d c } } } { T _ { \\mathrm { s } } } \\Big [ U _ { \\mathrm { d c } } ^ { \\ast } - U _ { \\mathrm { d c } } \\left( k \\right) \\Big ] \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "即通过下一采样时刻滤波电压值计算出了下一采样时刻所需要的流过电容的电流值，又由基尔霍",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "夫电流定律得 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ i _ { \\mathrm { d c } } = i _ { \\mathrm { c } } + i _ { L } - i _ { \\mathrm { f } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { b } } ^ { \\mathrm { ^ * } } = P _ { \\mathrm { d c } } \\left( k + 1 \\right) = U _ { \\mathrm { d c } } ^ { \\ast } I _ { \\mathrm { d c } } \\left( k + 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.3目标函数优化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以功率为控制目标建立目标函数（costfunction），即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = \\left| P _ { \\mathrm { { b } 2 } } ^ { \\mathrm { { p } } } ( k + 1 ) - P _ { \\mathrm { { b } } } ^ { * } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以双向DC-DC变换器工作在Boost模式为例说明通过最小化目标函数选取开关状态的过程。根据$k$ 时刻的母线电压、蓄电池电流及其端电压等采样值以及所建立的预测模型，可分别计算出 $k + 1$ 时刻蓄电池功率预测值及参考值，然后根据目标函数计算出开关状态 $S _ { 4 } = 1$ ， $S _ { 3 } = 0$ 和 $S _ { 4 } = 0$ ， $S _ { 3 } = 0$ 所对应的目标函数值 $J _ { S 4 } = 0 , S 3 = 0$ 和 $J _ { { S 4 } } = 1 , { S 3 } = 0$ ，选择使目标函数值最小的开关状态作为 $k + 1$ 时刻的开关状态。整个过程示意图如图7所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7154a8eb87beea1c3b7ce649156a825da40d510cab47e3e122f3d1d5a6244dbb.jpg",
+        "img_caption": [
+            "Fig.6Schematic diagram of adjusting the capacitor current ",
+            "图7选取最优开关状态流程图",
+            "Fig.7The flow chart of selecting the optimal switching state "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 仿真分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在Matlab/Simulink环境下，对所提出的模型预测控制方法搭建仿真模型，为了实现级联式双向DC-DC变换器的降压运行，需在母线端连接一压控电流源提供蓄电池的充电功率。仿真中仿真参数如下表所示。仿真条件为：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）采样频率设置为 $2 0 \\mathrm { { k H z } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）0.2s时直流母线电源输出功率由0阶跃为160W。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）0.4s时负载由60Ω切为 $3 0 \\Omega$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表仿真参数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/225e9bbda7ff3d4f27c5072cb8a48bbaa39d6c09f1fd91b7d268c22f512c3c38.jpg",
+        "table_caption": [
+            "Tab．Simulation parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>参数</td></tr><tr><td>蓄电池</td><td>20V/12A·h，SOC=80%</td></tr><tr><td>直流母线</td><td>Ude1-ref=40V，Udc-ref=80V</td></tr><tr><td>电感</td><td>L1=5mH,L2=5mH</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图8为传统双闭环控制和模型预测控制的仿真波形图。由图8可知，不论系统处于稳态还是动态，传统双闭环控制和模型预测控制方法都能使中间级母线电压和母线电压准确追踪给定值，蓄电池处于近似恒流充放电的状态。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/92f92cd2a2101e78a0643f0260d827fafb0860d22e330cf4f8a605715048deb2.jpg",
+        "img_caption": [
+            "Fig.8Simulation results of two control methods "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图8a可知，采用传统双闭环控制方法时，母线端功率波动时，中间级母线电压超调约为 $5 \\%$ ，母线电压超调约为 $2 . 5 \\%$ ，中间级母线电压和母线电压动态响应时间较长，约为0.04s；蓄电池充放电切换时间约为 $0 . 0 1 \\mathrm { s }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图8b可知，动态时，模型预测控制方法使得中间级母线电压超调约为 $4 \\%$ ，母线电压超调约为$2 . 0 \\%$ ，中间级母线电压和母线电压动态响应时间约为0.01s；蓄电池充放电切换时间约为0.01s。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 实验分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了对以上各种控制方法进行验证，搭建了如图9所示的实验平台。所设置的实验参数与上表中仿真参数相同。实验条件：设置采样频率为 $2 0 \\mathrm { { k H z } }$ ，将直流稳压电源与直流母线两端，模拟分布式电源提供的功率扰动，负载在 $8 0 \\sim 1 6 0 \\Omega$ 之间切换。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8791f3a5251357b9ba9e8858ae6fdd24cf8f0eccb6be4e2a269e0211db6d8fc9.jpg",
+        "img_caption": [
+            "图9 实验平台",
+            "Fig.9The experiment platform "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图10为对级联式双向DC-DC变换器进行传统双闭环控制的实验波形，其中红色线为蓄电池充放电电流，黄色线为直流母线电压波形，蓝色线为第一级双向DC-DC变换器高压侧电压波形，绿色线为蓄电池两端电压波形。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e75db3216dcac35792abea18ef84aa5c0f3ac77316ca3669ef9f93a5c6d8e2c.jpg",
+        "img_caption": [
+            "图8两种控制方法仿真结果图",
+            "图10传统双闭环控制波形",
+            "Fig.10Curves of traditional double closed-loop control "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第一个动态过程是由投切电阻产生的，最初负载为 $8 0 \\Omega$ ，此时负载所需功率为 $8 0 \\mathrm { W }$ ，光伏提供功率约为 $7 0 \\mathrm { W }$ ，因此电池进行放电，将负载投切为",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$1 6 0 \\Omega$ ，此时负载所需功率为 $4 0 \\mathrm { w }$ ，直流电源提供功率约为 $7 0 \\mathrm { W }$ ，因此电池进行充电。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第二个动态过程是切掉直流电源输出功率后产生的，此时负载依然为 $1 6 0 \\Omega$ ，所需功率变为 $8 0 \\mathrm { W }$ ，完全由蓄电池提供，因此电池放电。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图10可以看出，两级变换器高压侧电压都能够稳定在给定值，母线电压和蓄电池充放电电流有较好的静态性能，但噪声较大，这一方面与模型预测计算量大造成控制频率较低有关，除此之外还与参考功率计算过程中对电容电流微分有关。负载投切时母线电压有约为8V的跌落，蓄电池电流的动态响应时间约为0.4s。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图11为对级联式双向DC-DC变换器进行模型预测控制的实验波形，其中动态过程的产生条件与上述传统双闭环控制时相同。由图可以看出，两级变换器高压侧电压都能够稳定在给定值，母线电压和蓄电池充放电电流有较好的静态性能；负载投切时母线电压有约为3V的电压冲击，蓄电池电流的动态响应时间不到 $1 0 \\mathrm { m s }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/259840d90e9da0abf7128b2b254a1a5557637a06ffd2eaeb17ebcbaa1b118390.jpg",
+        "img_caption": [
+            "图11模型预测控制波形Fig.11 Curves of MPC control"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 结论 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出采用模型预测控制方法控制级联式双向DC-DC变换器，该方法概念直观，控制器易于实现。对MPC方法进行仿真与实验验证，结果显示该方法可以很好地实现母线电压的稳定，有效平抑直流母线功率扰动，并能大大提高变换器的动态响应速度。对比于传统的双闭环控制方法，该方法使得动态过程中母线电压的超调能够减小 $6 . 2 5 \\%$ 变换器的动态响应时间减少 $0 . 3 \\mathrm { s }$ 。说明模型预测控制方法能够优化系统的动静态性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n[1]Bialasiewicz JT. Renewable energy systems with photovoltaic power generators: operation and modeling[J]. IEEE Transactions on Industrial Electronics,2008, 55(7): 2752-2758.   \n[2] 罗全明，邾玢鑫，周恪维，等．一种多输入高升 压Boost变换器[J]．中国电机工程学报，2012, 32(3): 9-14. Luo Quanming, Zhu Fenxin, Zhou Luowei, et al. High set-up boost converter with multiple-input[J]. Proceedings of the CSEE,2012,32(3): 9-14.   \n[3]张欣，阮新波．用于提高级联型电源系统稳定性的 自适应有源电容变换器[J]．电工技术学报，2012, 27(2): 23-32. Zhang Xin, Ruan Xinbo. Adaptive active capacitor converter for improving the stability of cascaded DC power supply system[J]. Transactions of China Electrotechnical Society,2012,27(2):23-32.   \n[4]Kakosimos PE, Kladas A G. Implementation of photovoltaic array MPPT through fixed step predictive control technique[J].Renewable Energy,2011,36(9): 2508-2514.   \n[5] 吴洪洋，何湘宁．级联型多电平变换器PWM控 制方法的仿真研究[J]．中国电机工程学报，2001, 21(8): 42-46. Wu Hongyang, He Xiangning. Research on PWM control of a cascade multilevel converter[J]. Proceedings of the CSEE,2001, 21(8): 42-46.   \n[6]张纯江，董洁，刘君．分布式电源系统中变换器 的输入阻抗与稳定性分析[J]．中国电机工程学报, 2011, 31(12): 57-64. Zhang Chunjiang,Dong Jie,Liu Jun. Output impedance and stability analysis of converters in distributed power systems[J]. Proceedings of the CSEE,2011, 31(12): 57-64.   \n[7]艾洪克，吴俊勇，郝亮亮，等．级联式储能系统 中电池自均衡控制策略研究[J]．电工技术学报, 2015，30(14): 442-449. Ai Hongke, Wu Junyong, Hao Liangliang, et al. Research on battery self-balancing control strategy in cascade energy storage system[J]. Transactions of China Electrotechnical Society, 2015,30(14): 442-449.   \n[8]Jose Rodriguez，Patricio Cortes．功率变换器和电 气传动的预测控制[M]．机械工业出版社，2015. ",
+        "page_idx": 5
+    }
+]

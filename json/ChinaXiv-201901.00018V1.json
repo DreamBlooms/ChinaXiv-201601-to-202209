@@ -1,0 +1,540 @@
+[
+    {
+        "type": "text",
+        "text": "4比特S盒输入及输出低次代数关系分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "程月单a，韦永壮b,c†，叶涛a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "《桂林电子科技大学a.广西无线宽带通信与信号处理重点实验室；b.广西密码学与信息安全重点实验室；c.广西高校云计算与复杂系统重点实验，广西 桂林 541004)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：随着4比特S盒在轻量级密码算法中的广泛应用，如何捕获这些4比特S盒其输入及输出的代数关系成为了目前的研究热点之一。根据S盒的输入输出关系，提出了n比特S盒的非线性回路代数关系的通用求解算法。针对4比特S盒设计了高效的非线性回路代数关系求解算法，并对国际公认的16类最优4比特S盒及多个著名的轻量级密码算法中的S盒进行了测试分析。同时，还对上述轻量级密码算法中S盒所属等价类进行了检测。研究结果表明：16类S盒代表元中只有3类不存在二次回路代数关系；同属等价类S盒可能会有不同的二次回路代数关系；MANTIS，PRIDE，Marvin等轻量级算法的S盒存在多个二次回路代数关系。即这些包含低次回路代数关系的S盒存在潜在的安全缺陷。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：4比特S盒；轻量级密码算法；代数关系；非线性方程 中图分类号：TP309.7 doi:10.19734/j.issn.1001-3695.2018.08.0658 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "New analysis of low degree algebraic relation between input and output of 4-bit s-boxes ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cheng Yuedana, Wei Yongzhuangb,c†, Ye Taoa (a.Guangxi Key Laboratory of Wireless Wideband Communication& Signal Processing,b.Guangxi Key Laboratoryof Cryptography&InformationSecurity,c.Guangxi Collges & Universities KeyLaboratoryof CloudComputing&Complex Systems,Guilin University of Electronic Technology,Guilin Guangxi 541004,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Currntly,withthe extensiveuseofthe4-bitS-Boxes in lightweightencryptionalgorithms,itappears tobean importantissue to look for the algebraicrelationships between their inputsand outputs.This paper proposed a general algorithm forcalculating the nonlinear loop algebraic relationships by using the lowalgebraic relationships between input andoutput of S-Box.Moreover,itchecked algebraic relationshipsof both the well-known optimal 4-bit S-Boxes and the S-boxes used insome famous lightweight encryption algorithms.The results shown thatonly 3classes of16categories of optimal 4-bitS-Boxes hadsquare loopalgebraic relationships.In particular,the S-Boxes belonging tothe same equivalence class may possess diferentsquare loopalgebraicrelationships.Furthermore,theS-Boxes ofsome lightweightcryptographic algorithms (e.g.，MANTIS,PRIDE,and Marvin) had many square loop algebraic relationships.There exists potential security flaws of these S-boxes which possess low degree algebraic relationships. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: 4-bit S-box; lightweight algorithms;algebraic relationship;affine equivalence ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1974年，Feistel在文献[1]中首次提出密码S盒的概念。随着数据加密标准(DES)[2]的广泛应用，S盒已经成为对称密码算法设计的关键。S盒以4比特和8比特最为常见，例如，AES[3]中使用了8比特S盒。SERPENT[5]和NOEKEON[]则使用了4比特S盒。注意到，在硬件实现时，8比特S盒往往会消耗更多硬件电路。因此，为了减少硬件面积消耗，提高数据处理速度，4比特S盒在资源受限的轻量级密码算法的设计中得到了广泛应用[7]，如分组密码PRESENT[8]，PRINT[9]， $\\mathrm { L E D ^ { [ 1 0 } ] }$ ，LBlock[11]，PRINCE[12]，SIMON[13],SPECK[13]，RECTANGLE[14]，PRIDE[15]，MANTIS[16],SKINNY[16]，GIFT[17]，GRANULE[18]，Marvin[19]等，哈希函数PHONTON[20]，SPONGENT[21]等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "S 盒的安全性指标有差分均匀性、(非)线性度、代数次数及项数分布、代数免疫阶等[22]，但目前对S盒的研究主要集中于差分均匀性和非线性度[23]。针对4比特S盒的这两种代数关系，2007年，Leander等人[4提出最优S盒的概念，并将所有4比特最优S盒分为16类。2011年，Markku在文献[24]中展示了所有4比特S盒的置换等价类。同年，Ullrich等人[25]将便于硬件实现的4比特S盒分为302个仿射等价类。在FSE2015会议上，Zhang 等人[26将所有4比特最优S盒划分为183类。2016年，Cheng等人7提出了一种4比特双射S盒的置换等价类优化的搜索算法。2016年亚洲密码会议上，Todo 等人[27]针对一些轻量级密码算法密钥编排简单的特点提出了非线性不变子攻击。2017年，Beierle等人[29]提出了通过选择合适的轮常量来抵抗非线性不变子的方法。2018年，Beyne将分组密码的非线性不变子作为相关矩阵的特征向量，并和积分攻击相结合，提出了新的非线性不变子的分析方法[31]。2018年，Wei等人[30]提出了广义非线性不变子攻击方法。注意到，文献[30]提出了密码算法的非线性回路方程的概念，但未给出非线性回路方程的快速求解算法。特别地，随着新攻击方法的出现，S盒是否存在新的安全缺陷等问题，仍有待进一步解决。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文利用S盒的输入输出关系，将非线性回路代数关系作为S盒安全性新指标，给出了4比特S盒非线性回路代数关系的快速求解算法。针对16类最优4比特S盒及多个著名轻量级密码算法4比特S盒，进行了输入输出的二次回路代数关系测试，并根据仿射等价关系，对被测试S盒进行了分类。结果表明：16类S盒代表元只有3类不存在二次回路代数关系；大部分轻量级S盒存在二次回路代数关系，如近两年提出的MANTIS，PRIDE，Marvin等算法的S盒均存在二次回路代数关系，这表明实际算法可能存在潜在的安全隐患。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 预备知识 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "香农在文献[32]中指出，构建安全的分组密码需具备数据混淆和扩散的能力。在大多数情况下，扩散通过一系列线性操作对状态位混合来实现，而混淆是通过S盒并行操作部分状态（通常是字节）来实现的。由此，S盒的密码学性质对密码的安全性而言意义重大。S盒经典的安全性指标主要包含非线性度[33.34]和差分均匀性[35]，它们分别是度量算法抵御线性攻击[36]和差分攻击[37]的重要指标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1类最优4比特S盒 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2007年，Leander等人[4首次定义了4比特最优S盒，即非线性度和差分均匀性同时达到临界值4的双射S盒。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义14]4比特S盒 $S _ { 1 }$ ， $S _ { 2 } : F _ { 2 } ^ { 4 }  F _ { 2 } ^ { 4 }$ ，若存在4阶可逆矩阵 $A$ ， $B \\in G L ( 4 , F _ { 2 } )$ 4 比特向量 $\\mid c \\mid$ ， $d \\in F _ { 2 } ^ { 4 }$ ，使得等式$S _ { 1 } \\left( x \\right) = B \\bullet ( S _ { 2 } \\left( A \\bullet x \\oplus c \\right) ) \\oplus d$ 成立，则称 $S _ { 1 }$ ， $S _ { 2 }$ 仿射等价，记为$S _ { 1 } \\sim S _ { 2 }$ 。 $S _ { 1 }$ 属于 $S _ { 2 }$ 的线性等价集合， $S _ { 1 } \\in L E ( S _ { 2 } )$ [24]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 $2 ^ { [ 4 ] }$ 已知任意 $n$ 元布尔函数 $f : F _ { 2 } ^ { n } \\to F _ { 2 }$ 均可用多元多项式形式唯一表示，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( x \\right) = f \\left( x _ { 1 } , x _ { 2 } , \\cdots , x _ { n } \\right) = \\sum _ { u \\in F _ { 2 } ^ { n } } C _ { u } { x _ { 1 } } ^ { u _ { 1 } } { x _ { 2 } } ^ { u _ { 2 } } \\cdots { x _ { n } } ^ { u _ { n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $C _ { u } \\in F _ { 2 }$ ， $\\boldsymbol { u } = \\left( u _ { 1 } , u _ { 2 } , \\cdots , u _ { n } \\right)$ 。 $f ( x )$ 如上形式一般称为布尔函数的代数正规型（ANF)，它的代数次数 $\\deg ( f )$ 为非零系数 $C _ { u }$ 对应向量 $u$ 的最大汉明重：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\deg ( f ) = \\operatorname* { m a x } _ { C _ { u } \\neq 0 , u \\in F _ { 2 } ^ { n } } w ( u )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此外，由文献[38.39]可知，S盒仿射等价可以看成对分组密码的线性层作相应改变，S盒的代数次数、差分均匀性、非线性度在仿射等价下均无变化，是仿射等价的不变量。特别地，若仿射等价中 $S _ { 2 }$ 为最优4比特S盒，则 $S _ { 1 }$ 为相同等价类最优4比特S盒。Leander等人4通过限定最优4比特S盒 $S ( i ) = i ( i = 0 , 1 , 2 , 4 , 8 )$ 的方法，共找到16类最优4比特S盒的代表元，如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，对16类最优4比特S盒的代数次数进行分析发现：对于所有的矢量 $p \\in F _ { 2 } ^ { n } \\left( p \\neq 0 \\right)$ ，存在8个非等价最优S盒满足 $\\deg ( S _ { p } ) = 3$ (详见表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 S盒的非线性回路代数关系",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1非线性回路代数关系原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本节通过分析比较S盒的输入输出关系，提出了S盒的非线性回路代数关系的快速搜索算法，发现了S盒新的代数",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "性质。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c396692998d35da870f7672d63fc0c1667b5fabdc140f8bf03bb2ba9f48959e0.jpg",
+        "table_caption": [
+            "表116类最优4比特S盒代表元 Table1Representatives for all16 classes of optimal 4 bit S-boxes "
+        ],
+        "table_footnote": [
+            "表2满足 $\\deg ( S _ { p } ) = 2 , 3$ 的矢量 $p \\in F _ { 2 } ^ { n } \\setminus \\{ 0 \\}$ 的个数"
+        ],
+        "table_body": "<html><body><table><tr><td>S盒等价类</td><td>代表元</td><td>S盒等价类</td><td>代表元</td></tr><tr><td>G</td><td>0,1,2,13,4,7,15,6, 8,11,14,9,3,14,10,5</td><td>G</td><td>0,1,2,13,4,7,15,6, 8,14,9,5,10,11,3,12</td></tr><tr><td>G</td><td>0,1,2,13,4,7,15,6, 8,11,14,3,5,9,10,12</td><td>G</td><td>0,1,2,13,4,7,15,6, 8,14,11,3,5,9,10,12</td></tr><tr><td>G</td><td>0,1,2,13,4,7,15,6, 8,11,14,3,10,12,5,9</td><td>G10</td><td>0,1,2,13,4,7,15,6, 8,14,11,5,10,9,3,12</td></tr><tr><td>G</td><td>0,1,2,13,4,7,15,6, 8,12,5,3,10,14,11,9</td><td>G1</td><td>0,1,2,13,4,7,15,6, 8,14,11,10,5,9,12,3</td></tr><tr><td>G4</td><td>0,1,2,13,4,7,15,6, 8,12,9,11,10,14,5,3</td><td>G2</td><td>0,1,2,13,4,7,15,6, 8,14,11,10,9,3,12,5</td></tr><tr><td>G</td><td>0,1,2,13,4,7,15,6, 8,12,11,9,10,14,3,5</td><td>G13</td><td>0,1,2,13,4,7,15,6, 8,14,12,9,5,11,10,3</td></tr><tr><td>G6</td><td>8,12,219,4.715.6</td><td>G14</td><td>8.1,2.14.7.5.6</td></tr><tr><td>G</td><td>0,1,2,13,4,7,15,6, 8,12,14,11,10,9,3,5</td><td>G15</td><td>0,1,2,13,4,7,15,6, 8,14,12,11,9,3,10,5</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/66f3227de18ed896e6e30b0276ef732e39f940d732676c57e82b400d767a8c97.jpg",
+        "table_caption": [
+            "Table 2Number of $p \\in F _ { 2 } ^ { n } \\setminus \\{ 0 \\}$ such that $\\deg ( S _ { p } ) = 2 , 3$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">次数</td><td colspan=\"8\">S-Box代数</td></tr><tr><td>G0</td><td>G</td><td>G</td><td>G</td><td>G4</td><td>G5</td><td>G6</td><td>G</td></tr><tr><td>deg(S,)=2</td><td>3</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>deg(Sp)=3</td><td>12</td><td>12</td><td>15</td><td>15</td><td>15</td><td>15</td><td>15</td><td>15</td></tr><tr><td rowspan=\"2\">次数</td><td colspan=\"8\">S-Box代数</td></tr><tr><td>Gg</td><td>G</td><td>G10</td><td>G11</td><td>G12</td><td>G13</td><td>G14</td><td>G15</td></tr><tr><td>deg(S,)=2</td><td>3</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>deg(S,)=3</td><td>12</td><td>14</td><td>14</td><td>15</td><td>15</td><td>15</td><td>14</td><td>14</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 $\\ 3 ^ { [ 2 7 ] }$ 设有 $\\boldsymbol { r }$ 轮 $n$ 比特迭代分组密码，其轮函数为$F _ { 2 } ^ { n }  F _ { 2 } ^ { n }$ 。若 $\\kappa$ 为轮密钥，则密钥异或的轮函数为$F _ { \\kappa } \\left( x \\right) = F \\left( x \\oplus K \\right)$ 。为方便说明，本文忽略白化密钥，则明文 $P$ 经算法到密文 $c$ 的加密过程可以表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { 0 } = P\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { x _ { i + 1 } = F _ { K _ { i } } \\left( x \\right) = F \\bigl ( x \\oplus K _ { i } \\bigr ) , ( i = 0 , 1 , \\cdots , r - 1 ) } } \\\\ { { C = x _ { r } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 $\\pmb { 4 } ^ { [ 2 7 ] }$ 若有密钥 $K$ 满足以下关于轮函数的非线性布尔函数 $g$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng \\left( F _ { \\kappa } \\left( x \\right) \\right) = g \\left( x \\oplus K \\right) \\oplus c = g \\left( x \\right) \\oplus g \\left( K \\right) \\oplus c\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $c \\in F _ { 2 }$ 为常量，则称这些密钥为弱密钥(Weak Keys)，函数 $g$ 称为轮函数的非线性不变子。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Todo 等人[27指出，非线性不变子攻击的核心是寻找密码算法的非线性不变子。而S盒作为算法重要的非线性部件，由此该方法的关键在于寻找到S盒的输入输出的非线性不变子。即找到 $n$ 比特S盒 $S ( x ) { : } F _ { 2 } ^ { n } \\to F _ { 2 } ^ { n }$ 输入输出的如下关系：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng \\left( S _ { \\kappa } \\left( x \\right) \\right) = g \\left( x \\oplus K \\right) \\oplus c = g \\left( x \\right) \\oplus g \\left( K \\right) \\oplus c\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于定义3、4，Wei等人[30]对非线性回路代数关系作了如下阐述：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 $\\pmb { 5 } ^ { [ 3 0 ] }$ 对任意的S盒 $S ( x ) { : } F _ { 2 } ^ { n } \\to F _ { 2 } ^ { m }$ ，若满足 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { f ( x ) \\oplus g \\bigl ( S ( x ) \\bigr ) = c _ { 1 } } \\\\ { f ( S ( x ) ) \\oplus g ( x ) = c _ { 2 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $f ( x )$ ， $g \\left( x \\right)$ 为两个 $m$ 元布尔函数， $c _ { 1 }$ ， $c _ { 2 } \\in F _ { 2 }$ 为常量。称该方程为S盒的非线性回路代数关系， $f ( x )$ ， $g \\left( x \\right)$ 为S盒的非线性回路函数（简称回路函数)。S盒非线性回路代数关系是使用非线性函数以概率1逼近S盒。令$F ( x , S ( x ) ) \\colon F _ { 2 } ^ { m } \\to F _ { 2 } = f ( x ) \\oplus g \\left( S ( x ) \\right)$ ，则定义S盒的回路函数集合为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU \\left( F \\right) = \\left\\{ F ( x , S ( x ) ) { \\left| { f ( x ) \\oplus g \\left( S \\left( x \\right) \\right) = c _ { 1 } , f \\left( S \\left( x \\right) \\right) \\oplus g ( x ) = c _ { 2 } , x \\in F _ { 2 } ^ { n }  } \\right\\} }\\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令 $V ( x , S ( x ) ) { : } F _ { 2 } ^ { m } \\to F _ { 2 } = g _ { 1 } ( x ) \\oplus g _ { 1 } { \\bigl ( } S ( x ) { \\bigr ) }$ ，定义S盒的非线性不变子集合如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ( V ) = \\left\\{ V ( x , S ( x ) ) { \\left| { g _ { 1 } ( x ) \\oplus g _ { 1 } \\left( S ( x ) \\right) = c , x \\in F _ { 2 } ^ { n } } \\right. \\right\\} }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $f = g$ 时，则 $f$ ， $g$ 为S盒的非线性不变子（简称不变子）。可以发现，在上述定义下，非线性不变子是回路代数关系的特殊形式，回路代数关系比非线性不变子更具一般化。观察到，S盒的回路函数扩展至算法的轮函数也成立时，可以使用回路函数以概率1逼近算法，从而用于区分攻击。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2非线性回路代数关系求解算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面简要介绍回路代数关系的求解算法：将回路代数关系方程使用布尔函数代数正规型形式展示有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { { \\displaystyle \\sum _ { u \\in F _ { 2 } ^ { n } } a _ { u } x ^ { u } \\oplus \\sum _ { u \\in F _ { 2 } ^ { n } } b _ { u } S ( x ) ^ { u } = c _ { 1 } } } \\\\ { { \\displaystyle \\sum _ { u \\in F _ { 2 } ^ { n } } a _ { u } S ( x ) ^ { u } \\oplus \\sum _ { u \\in F _ { 2 } ^ { n } } b _ { u } x ^ { u } = c _ { 2 } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $a _ { u }$ ， $b _ { u } \\in F _ { 2 }$ 分别为回路代数关系函数 $f ( x )$ ， $g \\left( x \\right)$ 的未知系数， $\\begin{array} { r } { x ^ { u } = \\Pi _ { i = 1 } ^ { N } x _ { i } ^ { u _ { i } } } \\end{array}$ ，由 $n$ 比特S盒的输入输出确定的如上方程组共 $2 ^ { n }$ 个，方程总数为 $2 ^ { n + 1 }$ 个。为简单而不失一般化，首先介绍一种通用的分析方法：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1通用的 $n$ 比特S盒回路代数关系求解算法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)由于未知系数 $a _ { i }$ ， $b _ { i } \\in F _ { 2 } \\left( 0 \\leq i \\leq u \\right)$ 的取值范围已知，即任意比特系数取值非0即1，令矢量 $A _ { u } = \\left( a _ { 0 } , a _ { 1 } , \\cdots , a _ { u } \\right)$ ，$B _ { u } = ( b _ { 0 } , b _ { 1 } , \\cdots , b _ { u } ) ( w ( u ) = k )$ ，称 $A _ { u }$ ， $B _ { \\mu }$ 为系数矢量。每次按字典序各取一固定值的 $A _ { u }$ ， $B _ { u } \\left( 0 < A _ { u } , B _ { u } \\leq 2 ^ { C _ { n } ^ { 1 } + C _ { n } ^ { 2 } + \\ldots + C _ { n } ^ { k } } - 1 \\right)$ ，通过限制 $\\boldsymbol { u }$ （204号的汉明重为 $k$ ，来实现求解的回路代数关系的最高代数次数为 $k$ 。若 $u$ 的汉明重为 $n$ ，则可求解出已知S盒的所有回路代数关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)按顺序取输入对 $( x _ { 0 } , S ( x _ { 0 } ) )$ ， $( x _ { 0 } + 1 , S ( x _ { 0 } + 1 ) )$ ，求解相应的$( x _ { 0 } ^ { u } , S ( x _ { 0 } ) ^ { u } )$ ， $( ( x _ { 0 } + 1 ) ^ { u } , S ( x _ { 0 } + 1 ) ^ { u } )$ ，代入回路代数关系方程中求得常数组 $( c _ { 1 , x _ { 0 } } , c _ { 2 , x _ { 0 } } )$ 和 $( c _ { 1 , x _ { 0 } + 1 } , c _ { 2 , x _ { 0 } + 1 } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)判定 $F ( x )$ 是否成立。若等式成立，则依字典序继续取值，直至遍历所有的输入对 $( x _ { 0 } , S ( x _ { 0 } ) ) ( x _ { 0 } \\in F _ { 2 } ^ { n } )$ ，使得判定等式均成立，存储此时的 $A _ { u } = \\left( a _ { 0 } , a _ { 1 } , \\cdots , a _ { u } \\right)$ ， $B _ { u } = \\left( b _ { 0 } , b _ { 1 } , \\cdots , b _ { u } \\right)$ ， $c _ { 1 }$ ， $\\boldsymbol { c } _ { 2 }$ 。即对所有的 $( x _ { 0 } , S ( x _ { 0 } ) )$ ，均满足系数为 $a _ { 0 }$ ， $\\boldsymbol { a } _ { 1 }$ ，…， $a _ { u }$ ， $b _ { 0 }$ ，$b _ { \\mathrm { { l } } }$ ，…， $b _ { \\scriptscriptstyle u }$ 的闭环子方程，其中方程常数为 $c _ { 1 }$ ， $\\boldsymbol { c } _ { 2 }$ ；若等式不成立，则直接跳入步骤d)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)改变 $A _ { u }$ 或 $B _ { u }$ 的值，重复步骤b)c)，依次寻找符合条件的回路代数关系系数并将其保存。若 $A _ { u }$ ， $B _ { u }$ 遍历完域 $F _ { 2 } ^ { c _ { n } ^ { 1 } + c _ { n } ^ { 2 } + ~ + C _ { n } ^ { k } }$ （204则停止操作，至此得到全部最高代数次数为 $\\mathbf { k }$ 的回路代数关系方程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设对 $n$ 比特S盒求解代数次数为 $\\mathbf { k }$ 的回路代数关系方程，则利用算法1求解，所需时间复杂度为 $O ( 2 ^ { C _ { n } ^ { 1 } + C _ { n } ^ { 2 } + \\cdots + C _ { n } ^ { k } + n } )$ 。可以看到，上述方法易于程序实现，能得到全部回路代数关系方程，但 $n$ 值较大时，该方法效率相对较低。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面，利用高斯消元求解思想介绍一种返回解集的基的方法。重写闭环不变子求解方程：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { { \\displaystyle \\sum _ { u \\in F _ { 2 } ^ { n } } a _ { u } x ^ { u } \\oplus \\sum _ { u \\in F _ { 2 } ^ { n } } b _ { u } S ( x ) ^ { u } = c _ { 1 } } } \\\\ { { \\displaystyle \\sum _ { u \\in F _ { 2 } ^ { n } } a _ { u } S ( x ) ^ { u } \\oplus \\sum _ { u \\in F _ { 2 } ^ { n } } b _ { u } x ^ { u } = c _ { 2 } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "方程 $( 1 ) \\oplus ( 2 )$ 有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { u \\in F _ { 2 } ^ { n } } ( a _ { u } \\oplus b _ { u } ) x ^ { u } \\oplus \\sum _ { u \\in F _ { 2 } ^ { n } } ( a _ { u } \\oplus b _ { u } ) S ( x ) ^ { u } = c _ { 1 } \\oplus c _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此处令 $\\mathcal { S } _ { u } = a _ { u } \\oplus b _ { u }$ ， $C = c _ { 1 } \\oplus c _ { 2 }$ ，则式(3)可写为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { u \\in F _ { 2 } ^ { n } } \\delta _ { u } \\left( x ^ { u } \\oplus S ( x ) ^ { u } \\right) = C\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设 $u$ 的汉明重为 $k$ ，遍历 $x ( x \\in F _ { 2 } ^ { n } )$ 的值代入方程(4)中，可得到方程个数为 $2 ^ { n }$ ，变量个数为 $2 ^ { * } ( C _ { n } ^ { 1 } + C _ { n } ^ { 2 } + \\cdots + C _ { n } ^ { k } )$ 的方程",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "组，求解该方程组即可得到系数 $\\delta _ { u }$ 。接下来，将 $b _ { u } = a _ { u } \\oplus \\delta _ { u }$ 代入方程(1)或(2）（此处以方程(1)为例）得到",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { u \\in F _ { 2 } ^ { n } } a _ { u } ( x ^ { u } \\oplus S ( x ) ^ { u } ) \\oplus \\sum _ { u \\in F _ { 2 } ^ { n } } \\delta _ { u } S ( x ) ^ { u } = c _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同理，遍历 $x ( x \\in F _ { 2 } ^ { n } )$ 值代入方程(5)中，求解方程组即可得到系数 $a _ { \\scriptscriptstyle u }$ ，最后利用 $b _ { u } = a _ { u } \\oplus \\delta _ { u }$ 得到系数 $b _ { \\scriptscriptstyle u }$ 。该方法通过两次求解方程组，采取分而治之的方法，减少了每次求解的变量，降低了每次求解的时间复杂度（降至$O ( 2 ^ { n } + ( C _ { n } ^ { 1 } + C _ { n } ^ { 2 } + \\cdots + C _ { n } ^ { k } ) ^ { 3 } )$ ）和出错率，能快速高效求解回路代数关系方程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 一些4比特S盒的新分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1比特S盒回路代数关系求解算法的应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于4比特S盒数据复杂度较低，本节则利用回路代数关系求解的一般性方法，设计了求解程序，对16类最优 4比特S盒及目前一些常用的轻量级4比特S盒进行了测试。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法2计算4比特S盒回路代数关系的快速方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入：4比特S盒的输入 $x$ 、输出 $S ( x )$ □输出：S盒的闭环函数 $F ( x )$ 、 $G ( y )$ ，常数 $\\ c _ { 1 } \\ , \\ c _ { 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)给定4比特S盒 $\\mathbf { S - B o x }$ ，定义向量 $X { = } ( x _ { 0 } , x _ { 1 } , x _ { 2 } , x _ { 3 } )$ ，$Y { = } ( y _ { 0 } , y _ { 1 } , y _ { 2 } , y _ { 3 } ) \\in F _ { 2 } ^ { 4 }$ ，用于存储查表 S-Box 获得的数对 $( x , S ( x ) )$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)定义一维数组 $X _ { u } [ 1 5 ]$ ， $Y _ { u } [ 1 5 ]$ ，数组元素 $X _ { u } [ i ]$ ， $Y _ { u } [ i ] \\in F _ { 2 }$ 0令 $u { = } ( u _ { 3 } , u _ { 2 } , u _ { 1 } , u _ { 0 } )$ 的汉明重为 $w _ { u } ( 1 \\leq w _ { u } \\leq 4 )$ ， $w _ { u }$ 依次增大， $\\boldsymbol { u }$ 的非零值由低位向高位过渡变化，计算固定 $X \\ , Y$ 值下的 $X ^ { u }$ ，$Y ^ { u }$ ，依次存储于数组 $X _ { u } [ 1 5 ]$ ， $Y _ { u } [ 1 5 ]$ 中。例如，$X _ { u } [ 0 , \\cdots , 3 ] = \\{ x _ { 0 } , \\cdots , x _ { 3 } \\}$ ， $u$ 分别取 $( 0 , 0 , 0 , 1 ) , ( 0 , 0 , 1 , 0 ) , ( 0 , 1 , 0 , 0 ) , ( 1 , 0 , 0 , 0 )$ 。$X _ { \\scriptscriptstyle u } [ 4 ] = x _ { 0 } x _ { 1 } ( u = ( 0 , 0 , 1 , 1 ) )$ （20 $X _ { u } [ 5 ] = x _ { 0 } x _ { 2 } ( u = ( 0 , 1 , 0 , 1 ) )$ $X _ { u } [ 6 ] = x _ { 0 } x _ { 3 } ( u = ( 1 , 0 , 0 , 1 ) )$ ，依此类推， $Y _ { u } [ 1 5 ]$ 的存储与 $X _ { u } [ 1 5 ]$ 相似。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)假设所求的回路代数关系的代数次数为 $k ( 1 \\leq k \\leq 4 )$ ，定义项数为 $N u m { = } C _ { 4 } ^ { 1 } { + } C _ { 4 } ^ { 2 } { + } \\cdots { + } C _ { 4 } ^ { k }$ 。定义系数向量$A B ( a _ { 0 } , a _ { 1 } , \\cdots , a _ { N u m } , b _ { 0 } , b _ { 1 } , \\cdots , b _ { N u m } )$ ， $A ( a _ { 0 } , a _ { 1 } , \\cdots , a _ { N u m } )$ ， $B ( b _ { 0 } , b _ { 1 } , \\cdots , b _ { N u m } )$ ，数组元素为所求回路代数关系系数 $a _ { i }$ ， $b _ { i } \\in F _ { 2 }$ ，固定 $A B = A B _ { 0 }$ ，取对应位保存 $A = A _ { 0 }$ ， $\\boldsymbol { B } = \\boldsymbol { B } _ { 0 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)取输入 $X _ { 0 }$ ，计算 $C _ { 1 ( X _ { 0 } ) } = \\operatorname* { \\circledast } _ { ( 0 \\leq i \\leq N u m ) } ( X u [ i ] \\bullet a _ { i } \\oplus Y u [ i ] \\bullet b _ { i } )$ ?$C _ { 2 ( X _ { 0 } ) } = \\bigoplus _ { ( 0 \\leq i \\leq N u m ) } ( X u [ i ] \\bullet b _ { i } \\oplus Y u [ i ] \\bullet a _ { i } )$ ；令 $\\scriptstyle { X _ { 0 } = X _ { 0 } + 1 }$ ，计算 $C _ { 1 ( X _ { 0 } + 1 ) }$ ， $C _ { 2 ( X _ { 0 } + 1 ) }$ □若同时满足 $C _ { 1 ( X _ { 0 } ) } = C _ { 1 ( X _ { 0 } + 1 ) }$ ， $C _ { 2 ( X _ { 0 } ) } = C _ { 2 ( X _ { 0 } + 1 ) }$ ，则继续按字典序增大$X _ { 0 }$ ，重复Step4，直至遍历所有 $\\boldsymbol { \\cal X }$ 取值，均满足上述条件，则保存此时的系数 $A _ { 0 }$ ， $B _ { 0 }$ 及常数 $C _ { 1 }$ ， $C _ { 2 }$ ，闭环函数 $F ( x )$ 的系数为 $A _ { 0 }$ ， $G ( y )$ 的系数为 $B _ { 0 }$ ；否则， $A B = A B _ { 0 } + 1$ ，重复Step$3 { \\sim } \\mathrm { S t e p } 4$ ，直至遍历 $F _ { 2 } ^ { 2 N u m }$ 域。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了降低数据复杂度，提高回路代数关系函数的应用效率，利用算法2寻找了一些4比特S盒的二次回路代数关系，搜索结果整理如表3和4所示（表中“ $+ ^ { \\prime \\prime }$ 表示异或)。本文使用一台普通PC机进行实验，实验配置如表5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.216类最优4比特S盒代表元二次代数关系分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表3可发现，16类最优4比特S盒代表元中，， $G _ { 1 5 }$ 两个代表元的二次回路代数关系个数为7个，是16个代表元中二次回路代数关系总数最多的代表元，这些S盒存在潜在的安全缺陷。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3常用轻量级4比特S盒二次代数关系分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表4展示了常见的轻量级密码算法4比特S盒的二次非线性回路代数关系的搜索结果。经对比可以发现，非线性回路代数关系不同于差分均匀性和非线性度，该性质并不为仿射等价不变量。比方说，LBlock算法的10个S盒均为 $G _ { 8 }$ 的仿射等价类，但10个S盒的二次回路代数关系的形式及数量均有差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表316类最优4比特S盒 $\\deg = 2$ 的回路代数关系统计表",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( y ) + G ( x ) = c _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表4常见4比特轻量级密码算法S盒deg $= 2$ 的回路代数关系表 Table 4Loop algebraic relation of some famous lightweight 4 bit "
+        ],
+        "table_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f5707a7f742206dcf8eb81264f7856eaed195621a876b3d054e89394f8dfd8a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\"></td><td rowspan=\"2\">S盒</td><td rowspan=\"2\">仿射</td><td>二次回路代数关系示例 （含不变子）</td><td rowspan=\"2\"></td><td rowspan=\"2\">总数/个</td></tr><tr><td>S盒</td><td>二次回路代数关系示例（含不变子)</td><td>总数/个</td><td>等价类</td></tr><tr><td rowspan=\"2\"></td><td>F(x)=x+x+x+x0x +x0x</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td>PRESENT</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td>G(y)=yo+y+y+yoy +yoy3</td><td>/LED</td></tr><tr><td rowspan=\"2\">G</td><td>C=c=0</td><td>7</td><td>/PHONTON</td><td>G</td><td></td><td rowspan=\"2\"></td><td rowspan=\"2\">无</td></tr><tr><td>F(x)=x+x+x+x0x+xx</td><td></td><td></td><td></td><td>F(x)=x+x+x0x+xx+xx</td></tr><tr><td rowspan=\"2\">G</td><td>G(y)=yo+y+y+yoy +yoy3</td><td>3</td><td>TWINE</td><td>G</td><td></td><td>G(y)=y +y+yoy+yy+yy</td><td rowspan=\"2\">1</td></tr><tr><td>C=c=0</td><td></td><td></td><td></td><td>C =c=0</td><td></td></tr><tr><td rowspan=\"2\">G</td><td>/</td><td>无</td><td>LBlock/So</td><td>G8</td><td></td><td>/</td><td rowspan=\"2\">无</td></tr><tr><td>F(x)=x+x0x+xx</td><td></td><td>LBlock/S1</td><td>Gs</td><td>/</td><td></td></tr><tr><td rowspan=\"2\">G</td><td>G(y)=y+yoy+yy3</td><td></td><td></td><td></td><td rowspan=\"2\"></td><td>F(x)=x+xx+xx+xx</td><td rowspan=\"2\">无</td></tr><tr><td>c =c=0</td><td></td><td>LBlock/S2</td><td>Gg</td><td>G(y)=y+yy+yy+y2y3</td></tr><tr><td rowspan=\"3\">G4</td><td>F(x)=x+x+x+xx+xx</td><td></td><td></td><td></td><td></td><td>C =c=0</td><td rowspan=\"3\"></td></tr><tr><td>G(y)=y+y+y+yoy1+y2y3</td><td></td><td>LBlock/S3</td><td>G</td><td></td><td></td></tr><tr><td></td><td>C=c=0</td><td>LBlock/S4</td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">G5</td><td>F(x)=x+x+x+xx+xx</td><td></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td>/ F(x)=x+xx+xx</td><td rowspan=\"3\">无 1</td></tr><tr><td>G(y)=y+y+y+yoy+y2y</td><td>LBlock/S5 G8</td><td>G(y)=y+ yy+yy</td></tr><tr><td>q =C=0</td><td></td><td>q =C=0</td></tr><tr><td rowspan=\"3\">G</td><td>F(x)=x+x +x+x0x +xX</td><td></td><td>LBlock/S6</td><td>G</td><td></td><td>/</td><td rowspan=\"3\">无</td></tr><tr><td>G(y)=yo+y +y+yoy +y2y3</td><td>1</td><td>LBlock/S7</td><td>Gg</td><td>/</td><td>无</td></tr><tr><td>C=c=0</td><td></td><td>LBlock/S8</td><td>Gg</td><td>/</td><td>无</td></tr><tr><td rowspan=\"2\"></td><td>F(x)=x+x+x+x0x+xx+xx</td><td></td><td>LBlock/S9</td><td>G8</td><td></td><td>/</td><td rowspan=\"2\">无</td></tr><tr><td>G(y)=yo+y+y+yoy+yy+y2y3</td><td>3</td><td>Piccolo</td><td>Gs</td><td>/</td><td></td></tr><tr><td rowspan=\"2\">Gg</td><td>C=c=0</td><td></td><td></td><td></td><td></td><td>F(x)=x+x+x+xx+xx</td><td rowspan=\"2\"></td></tr><tr><td>/</td><td>无</td><td>PRINCE</td><td>G3</td><td>G(y)=yo+y+y+yoy+ yoy3</td><td></td></tr><tr><td rowspan=\"2\">G</td><td>F(x)=x+x+x+xx+x0x+xx+x2χ</td><td></td><td></td><td></td><td></td><td>C=c=0</td><td rowspan=\"2\">无</td></tr><tr><td>G(y)=y+y +y+yoy+yoy+yy+y2y3</td><td>1</td><td>RECTANGLE</td><td>G</td><td>/</td><td></td></tr><tr><td rowspan=\"3\"></td><td>C=c=0</td><td></td><td></td><td></td><td></td><td>F(x)= x0 + xx</td><td rowspan=\"3\">63</td></tr><tr><td>F(x)=x+x+xx+x0x+xx+xx</td><td></td><td>PRIDE</td><td>G</td><td>G(y)= y2</td><td></td></tr><tr><td>G(y)=yo+y+yoy+yoy+yy+ yy</td><td>1</td><td></td><td></td><td>C=c=0</td><td></td></tr><tr><td rowspan=\"3\"></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=\"3\">63</td></tr><tr><td></td><td></td><td>MANTIS</td><td>G</td><td></td><td></td></tr><tr><td></td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\"></td><td>c=c=0</td><td></td><td></td><td></td><td></td><td>F(x)= xx</td><td rowspan=\"3\">3</td></tr><tr><td>F(x)=x+x+x+x+x0x +xx</td><td></td><td>SKINNY</td><td>Gg</td><td></td><td>G(y)= yoy</td></tr><tr><td>G(y)=yo+y +y+y+yoy+yy3</td><td>7</td><td></td><td></td><td></td><td>q =c=0</td></tr><tr><td rowspan=\"2\">G3</td><td>C =c=0</td><td></td><td></td><td></td><td></td><td>F(x)=x+x+xx</td><td rowspan=\"2\"></td></tr><tr><td>/</td><td>无</td><td>Marvin</td><td>G13</td><td></td><td>G(y) = y + y2</td></tr><tr><td rowspan=\"2\">G4</td><td>F(x)=x+x +x+x0x+xx+x2X</td><td>1</td><td></td><td></td><td></td><td>C=c=0</td><td rowspan=\"2\">无</td></tr><tr><td>G(y)=yo+y +y+yoy+yy+y2y3</td><td></td><td>Serpent/So</td><td>G</td><td></td><td>/</td></tr><tr><td rowspan=\"3\"></td><td>C=c=0</td><td></td><td></td><td>G</td><td></td><td>F(x)= x0x + xx G(y)= yoy +yy</td><td rowspan=\"3\">1</td></tr><tr><td>F(x)=x+x+x+x0x+xx2 G(y)=y +y+ys+yoy+yy</td><td></td><td></td><td>Serpent/S1</td><td></td></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b4e8f867b120ca6d75f0c0bde519f955b61b6768bdf4c4581af70b6dd2dad73.jpg",
+        "table_caption": [
+            "表5计算机配置",
+            "Table5 Computer configuration "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>性能</td></tr><tr><td>CPU</td><td>Inter(R)Core(TM) i5-3230M</td></tr><tr><td>CPU主频</td><td>2.60GHz</td></tr><tr><td>内存</td><td>16.0GB</td></tr><tr><td>系统类型</td><td>64位Windows操作系统</td></tr><tr><td>编程软件</td><td>Microsoft Visual Studio 2O1O、Python 2.7</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注意到，SKINNY，PRIDE，Midori64，MANTIS，Marvin等算法S盒二次回路代数关系中二次项较少，甚至有线性回路代数关系，即算法存在潜在的安全缺陷。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据表4可知，PRIDES盒的非线性二次回路代数关系共 63个，比如： $F _ { _ { S } } ( x ) = x _ { _ { 0 } } \\oplus x _ { _ { 1 } } \\oplus x _ { _ { 1 } } x _ { _ { 2 } } \\oplus x _ { _ { 2 } } x _ { _ { 3 } }$ ， $G _ { s } ( y ) = y _ { 2 } \\oplus y _ { 3 }$ ， $G _ { s } ( y )$ （204号为线性函数。值得注意的是，Marvin的S盒存在7个二次非线性回路代数关系，如下S盒回路代数关系$F _ { s } ( x ) = x _ { 0 } \\oplus x _ { 3 } \\oplus x _ { 1 } x _ { 3 }$ ， $G _ { s } ( y ) = y _ { 1 } \\oplus y _ { 2 }$ ， $F _ { s } ( x )$ 只有一个二次项，$G _ { s } ( y )$ 为线性函数，此回路代数关系既满足了非线性，又使得二次项数最少。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文根据S盒的输入输出关系，将非线性回路代数关系应用于4比特S盒的性质研究，为4比特S盒的设计和分析提供了新的测试方法。本文设计了非线性回路代数关系的求解算法，主要应用于16类最优4比特S盒和一些常用的轻量级4比特S盒的测试。结果表明：16类最优4比特S盒的代表元只有三类不存在回路代数关系；TWINE，PRINCE，PRIDE，Midori64，MANTIS，SKINNY，Marvin等轻量级算法的S盒均存在不同数量的回路代数关系，为算法攻击提供了更多的可能性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Feistel H.Block cipher cryptographic system:US，Patent 3 798359 [P]. 1974-3-19.   \n[2]Weik M.H. Data encryption standard[C]//Computer Science and Communications Dictionary. Boston:Springer, 2000.   \n[3]Rijmen V,Daemen J.Advanced encryption standard [C]//Proc of Federal Information Processing Standards Publications，National Institute of Standards and Technology,2Oo1:19-22.   \n[4]Leander G,Poschmann A.On the classification of 4 bit s-boxes [C]//Arithmetic of Finite Fields.2007:159-176.   \n[5]Anderson R.Serpent: a proposal for the advanced encryption standard [C]/Proc of thelst Advanced Encryption Standard(AES)Candidate Conference.1998:83-87.   \n[6]Daemen J,Peeters M,Van G,et al. Nessie proposal: the block cipher Noekeon [J].Nessie Submission,2000.   \n[7]Cheng Lin,Zhang Wentao,Xiang Zejun.A new cryptographic analysis of 4-bit $\\mathrm { ~ \\bf ~ s ~ }$ -boxes [J]. Information Security and Cryptology,2015: 144-164.   \n[8]Bogdanov A,et al.Present:an ultra-lightweight block cipher[C]//Proc ofInternational Workshop on Cryptographic Hardware and Embedded Systems.Berlin: Springer,2007:450-466.   \n[9]Knudsen L,Leander G,Poschmann A.Printcipher:a block cipher for ic-printing[C]//Cryptographic Hardware and Embedded Systems.2010: 16-32.   \n[10] Guo Jian，PeyrinT,Poschmann A. The led block cipher[C]//Cryptographic Hardware and Embedded Systems.2011: 326-341.   \n[11] Wu Wenling，Zhang Lei.Lblock:a lightweight block cipher [C]//Applied Cryptography and Network Security.2011: 327-344.   \n[12] Borghoff J,et al.Prince-a low-latency block cipher for pervasive computingapplications[C]//Advancesin Cryptology-ASIACRYPT. 2012: 208-225.   \n[13] Beaulieu R,Treatman-Clark S, Shors D,et al. The SIMON and SPECK lightweight block ciphers [C]//Proc of the 52nd ACM/EDAC/IEEE Design Automation Conference. 2015: 1-6.   \n[14] Zhang Wentao,Bao Zhenzhen,Lin Dongdai,et al. Rectangle: a bit-slice lightweight block cipher suitable for multiple platforms [J]. Science China Information Sciences,2015,58(12): 1-15.   \n[15] Albrecht R,Driessen B, Kavun B,et al. Block ciphers- focus on the linear layer (feat. pride）[C]//Advances in Cryptology-CRYPTO.2014: 57-76.   \n[16]BeierleC,etal.Theskinnyfamilyof blockciphersanditsow-latency variantmantis[C]//AdvancesinCryptology-ASIACRYPT.2016: 123-153.   \n[17] BanikS，PandeyS，PeyrinT，etal.Gift:Asmall present[C]//Cryptographic Hardware and Embedded Systems.2017: 321-345.   \n[18] Bansod G,Patil A,Pisharoty N. Granule: an ultra lightweight cipher design for embedded security [J]. International IACR Cryptology ePrint Archive,2018,2018:600.   \n[19] Saha S，Rarhi K,Bhattcharya A.Systematization of a 256-bit lightweight block cipher marvin [J].Social Science Electronic Publishing, 2018.   \n[20] Guo Jian,Peyrin T,Poschmann A.The photon family of lightweight hash functions[C]/Advances in Cryptology-CRYPTO.2011: 222-239.   \n[21] Bogdanov A, Knezevic M, Leander G, et al.Spongent: a lightweight hash function[C]//Cryptographic Hardware and Embedded Systems. 2011: 312-325.   \n[22]吴文玲，冯登国，张文涛．分组密码的设计与分析[M].北京：清华 大学出版社，2009.（Wu Wenling，Feng Dengguo，Zhang Wentao. Design and analysis of block ciphers [M]. Beijing: Tsinghua University Press,2009.）   \n[23]李超，孙兵，李瑞林．分组密码的攻击方法与实例分析[M]．北京： 科学出版社,2010.(Li Chao,Sun Bing,Li Ruilin.Attack method and case analysis of block cipher [M].Beijing: Science China Press,2010.）   \n[24] Saarinen MJ O. Cryptographic analysis of all 4x4-bit s-boxes [C]// Proc of International Workshop on SAC.Berlin: Springer,2011: 118-133.   \n[25] Ullrich M,De Canniere C, Indesteege S,et al. Finding optimal bitsliced implementations of $4 \\times 4$ -bit S-boxes [C]/Proc of Symmetric Key Encryption Workshop. 2011: 16-17.   \n[26] Zhang Wentao, Bao Zhenzhen,Rijmen V,et al.A new classification of 4-bit optimal s-boxes and itsapplication to present,rectangle and spongent[C]//Fast Software Encryption. 2015: 494-515.   \n[27] Todo Y,Leander G, Sasaki Y.Nonlinear invariant attack-practical attack on full scream,iscream and Midori64. Cryptology ePrint Archive, Report 2016/732 [R/OL]. 2016. htp://print.iacr. org/2016/732.   \n[28] Banik S.Midori:a block cipher for low energy[C]/Advances in Cryptology-ASIACRYPT. 2015: 411-436.   \n[29] Beierle C, Canteaut A,Leander G, et al. Proving resistance against invariant attacks: how to choose the round constants[C]/Advances in Cryptology-CRYPTO.2017: 647-678.   \n[30]Wei Yongzhuang,Ye Tao,Enes P,et al.Generalized nonlinear invariant attack and a new design criterion for round constants [J].IACR Trans on Symmetric Cryptology,2018,2018(4):62-79.   \n[31] Tim B.Block cipher invariants as eigenvectors of correlation matrices Cryptology ePrint Archive,Report 2018/763[R].2018.http://eprint.iacr. org/2018/763.   \n[32] Shannon C.Communication theory of secrecy systems [J].Bell System Technical Journal,1949,28(4): 656-715.   \n[33]温巧燕，钮心忻，杨义先．现代密码学中的布尔函数[M]．北京：科 学出版社，2OOo.（Wen Qiaoyan，Niu Xinxin，Yang Yixian．Boolean functions in modern cryptography [M]. Beijing: Science China Press, 2000.）   \n[34] Rothaus O.On\"bent\"functions [J].Journal of Combinatorial Theory, Series A,1976,20(3):300-305.   \n[35]冯登国．频谱理论及其在通信保密技术中的应用[D]．西安:西安电 子科技大学,1995.(Feng Dengguo.Spectrum theory and its application in communication security technology [J].Xi'an:Xidian University, 1995.)   \n[36]Matsui M.Linear cryptanalysis method for DES cipher[C]//Advances in Cryptology-EUROCRYPT/1993,765:386-397.   \n[37] Biham E,ShamirA．Differential cryptanalysisof DES-like cryptosystems [C]//Advances in Cryptology-CRYPTO.1990:2-21.   \n[38] Nyberg K. Differentially uniformmappings for cryptography[C]//Advancesin Cryptology-EUROCRYPT.1993:55-64.   \n[39] Carlet C，Charpin P,Zinoviev V.Codes，bent functionsand permutations suitable for DES-like cryptosystems [J].Designs,Codes and Cryptography,1998,15(2):125-156. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

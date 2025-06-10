@@ -1,0 +1,114 @@
+# 基于临界区传热特性的LNG冷能与空分系统集成与优化
+
+陈仕卿1,2　许 剑¹　谭春青1(1．中国科学院工程热物理研究所，北京100190;2.鄂尔多斯启迪创业服务中心，鄂尔多斯017010)
+
+摘要本文提出了一种利用 LNG冷能的新型空分流程，利用 LNG冷能冷却进入氮压机的下塔顶部氮气并使其节流液化，部分液体作为产品输出，部分液体流入过冷器后进入上塔顶部完成回流，节流产生的高压氮返回LNG冷能换热器补充冷能。本文采用 MATLAB 编程对该流程进行计算，并考虑冷热流体在临界区比定压热容随温度剧烈变化的特性，分析氮气压缩机入口温度与总压比对系统能耗、LNG 冷能利用率的影响。计算结果表明：氮气压缩机入口温度的降低会同时降低氮压机耗功和LNG冷能利用率，系统等效能耗随其先降低后升高；氮气压缩机总压比的升高会增加氮压机耗功与LNG冷能利用率，但系统等效能耗随之降低；将氮气压缩机入口温度选定为准临界温度时冷能利用系统的等效能耗最低，LNG冷能的利用最高效，相较于已有文献研究结果，本研究所设计新流程的单位液体产品能耗与LNG冷能利用率等指标均有大幅度提高。
+
+关键词LNG冷能；空分流程；准临界温度；冷能利用率；系统等效能耗中图分类号：TK121 文献标识码：A 文章编号:0253-231X(2017)08-1607-06
+
+# The Integration and Optimization of Air Separation Unit With LNG Cold Energy Based on the Heat-Transfer Character Near the Critical Region
+
+CHEN Shi-Qing $^ { 1 , 2 }$ （20 XU Jian1 TAN Chun-Qing1 (1.Institute of Engineering Thermophysics,Chinese Academy of Sciences，Beijing 100190,China 2.Ordos QiDi Incubator Service Center，Ordos O17010,China)
+
+AbstractIn this paper,a novel air separation unit cooled by liquefied natural gas(LNG) cold energy was proposed. The system process was the vapor nitrogen from lower distillation column was cooled by cold energy and compressed by compressr, then changed in to liquid by throttle, one part of them went through sub-cooler to enter in the upper column,the other part of them was output as product. Considering the specific heat capacity varies drastically with temperature near the critical region,the influence of inlet temperature and total pressure ratio of nitrogen compressor on system energy consumption and LNG cold energy utilization rate was analyzed by using MATLAB. The results showed that the decrease of inlet temperature would reduce energy consumption of nitrogen compressor and the utilization of LNG cold energy， and the system equivalent energy consumption first decreased and then increased; the increase of total pressre ratio would increase the nitrogen compressr consumption and cold energy utilization,but decrease the system equivalent energy consumption; When the inlet temperature of the nitrogen compressor was selected as the pseudo-critical temperature,the system equivalent energy consumption was the lowest,and LNG cold energy could be used most reasonably. Compared with the existing literatures,the novel process energy consumption and the utilization of LNG cold energy was greatly improved.
+
+y wordsLNG cold energy； air separation； pseudo-critical temperature; utilization of LNG coldenergy；system equivalent energy consumption;
+
+# 0引言
+
+液化天然气(LNG)是采用深冷工艺将天然气液化得到的低温(约111K）混合液体，其主要成分为甲烷 $\mathrm { ( C H _ { 4 } ) }$ ，具有燃烧热值高、排放物污染小、储运成本低等优点。我国天然气消费量增长迅速，截止到2015年，表观消费量达到1910亿立方米，“十二五”期间年均增长率为 $1 5 \%$ ，与此同时，我国现已建成 LNG 接收站总规模接近 5000 万吨/年 [1],天然气进口量达624亿立方米，对外依存度已达$3 2 . 7 \% ^ { [ 2 ] }$ 。LNG 蕴含大量高品质冷能，在常压下升温至环境温度释放的冷能约为 $8 3 0 ~ \mathrm { k J / k g }$ ，以年利用量 5000万吨计算，折合理论发电量115亿千瓦时。通过特定工艺合理利用LNG冷能既符合国家节能减排的重大战略需求，又具有重要的经济效益和社会效益。
+
+LNG冷能不仅数量巨大，而且能量品阶高，常见的运用主要包括直接发电、空气液化分离、制取液化干冰、深冷粉碎以及低温冷库等。考虑到空分系统的工艺温度约为 $9 0 { \sim } 1 0 0 \mathrm { ~ K ~ }$ ，比LNG的温度更低，可避免“低温冷能高温用”的情况，LNG的有用能 (娴)也能得到最大程度的利用，符合“温度对□、梯级利用”原理，因此这种冷能利用方案也被认为是目前技术上最为合理的利用方式[4,5]。
+
+以LNG冷能注入空分系统的方式而言，已有文献和专利所设计与研究的流程可分为两类：1）LNG冷却原料空气；2)LNG 冷却循环氮气。冷却原料空气是最为简洁的流程，LNG 冷能直接在主换热器中进行冷量释放，如文献[6所述，采用该方案的空分系统生产液体产品的能耗约为 $0 . 3 { \sim } 0 . 4 \ \mathrm { k W h / k g }$ ，与常规空分系统 $0 . 5 { \sim } 0 . 7 \mathrm { k W h / k g }$ 的能耗相比可大幅度降低，节能效果明显；然而，LNG 压力 $( 2 { \sim } 1 0 \ \mathrm { M P a } )$ （20远高于原料空气压力 $\mathrm { ( 0 . 5 8 { \sim } 1 . 5 \ M P a ) }$ ，主换热器的设计与运行安全均存在难点。因此，更多的研究提出将LNG冷能用于带有氮压缩制冷的空分流程，文献[7]针对已有该种类流程中压力高、流程复杂的特点,提出一种新的改进流程，即采用低温氮气压缩机将经LNG预冷的循环氮气压缩至 $2 . 6 ~ \mathrm { M P a }$ 并节流进入低温换热器为氧气液化提供冷量。该流程中LNG冷能以循环氮气为载体先后注入到低温换热器和主换热器中，实现冷能的梯级利用；循环氮气采用低温压缩且最高压力为 $2 . 6 \mathrm { M P a }$ ，极大地降低氮压机的耗功，整体系统的单位液体耗功也显著降低。然而，由于 $2 . 6 \mathrm { M P a }$ 压力下循环氮气的沸点约为 $1 2 0 . 7 \mathrm { K }$ ，仅略高于LNG输送压力所对应泡点温度120K，在满足热力学第一定律以及第二定律的情况下，实现循环氮气的液化需要消耗大量LNG冷能，且LNG换热完成后出口的温度仍然很低，冷能没有得到充分利用，造成冷能的极大浪费。
+
+本文在借鉴上述流程优点的基础上，提出了一种新的LNG冷能与空分系统结合流程，循环氮气取自下塔顶部，并用LNG进行预冷以降低氮压机能耗，采用MATLAB编程对该流程进行计算与系统优化。
+
+# 1LNG与空分流程集成
+
+本文设计流程如图1所示，主要部件有空气过滤器、空气压缩机、空气冷却塔、分子筛吸附系统、主换热器、双级精馏塔、过冷器、LNG冷能换热器、氮气压缩机组、回热器以及必要的阀门、管线等。为简化分析，且考虑到制氩系统相对独立，本文所提新流程中省略制氩部分，LNG组分仅考虑甲烷。其工作过程为：空气经过滤器滤掉灰尘杂质，后进入空压机压缩至约 $0 . 5 8 \mathrm { M P a }$ ，在空冷塔中被冷却至 $2 8 3 ~ \mathrm { K }$ 进入到分子筛吸附系统除去其中的水分和二氧化碳等杂质，后进入主换热器被冷却至接近泡点温度送入下塔，上升的空气与回流液氮在塔板反复冷凝蒸发，使得含氧浓度较高的富氧液空在底部集中，高纯氮气在下塔顶部集中；部分氮气冷凝作为回流液参与下塔精馏过程，部分氮气在主换热器复温后进入LNG冷能换热器，经预冷后通过低温氮气压缩机缩至 $8 \mathrm { M P a }$ ，继续被LNG冷凝并节流成为下塔顶部压力所对应的气液混合状态，气态部分氮气返回LNG冷能换热器进行冷量补充，液态部分继续节流至常压生成产品液氮和上塔顶部回流液氮；上塔底部的液氧直接作为产品输出；上塔顶部的纯氮气经过冷器、主换热器复温后作为氮气产品输出；污氮经过冷器、主换热器复温后送至分子筛纯化系统与空气冷却系统。
+
+新流程相较于文献[7]，[8]中所设计流程，具有以下优点：采用下塔高纯氮气进入主换热器复热，可降低系统主换热器与蒸发冷凝器的热负荷，同时减少主换热器由于温差过大所带来的不可逆损失；直接采用下塔顶部氮气进行压缩，减小氮压机总压比，降低了氮气压缩机组的能耗；氮气压缩机入口温度的选定考虑了各温度区间LNG冷能的匹配情况，实现LNG冷能的合理与最大化利用。
+
+本文采用PENG-ROB 物性方法，利用自编程序对流程进行计算。与常规空分流程算法一致，首先由污氮压力与塔内阻力确定上下塔整体压力与温度，后根据物料平衡方程与能量平衡方程分别求得各物料参数与各换热器参数，根据下塔顶部的氮气流量与主换热器工况可求得LNG冷能换热器热负荷与各物流进出口温度。
+
+![](images/b7eb1f963793f536b668437a5d01cabfbddbbd001c8b36c29d4a8996ae6ccb3b.jpg)  
+Fig.1 Flow chart of an air separation system cooled by LNG cold energy
+
+# 2结果分析
+
+流程中，利用LNG冷能降低空分系统能耗通过三个途径实现：一是利用LNG 冷却氮气压缩机入口温度，降低其压缩耗功；二是采用下塔顶部的氮气进入主换热器，相较于传统流程可同时缩小主换热器冷端温差和过冷器热端温差，减少换热过程的不可逆损失；三是部分氮气转为产品，可有效利用上塔精馏潜力。工质在低温下比体积通常有一个较大幅度的降低，这意味着降低压缩机入口氮气的温度可以大大降低氮气压缩机的耗功。图2给出了单位液体产品功耗随氮气压缩机入口温度的变化曲线，对于同一总压比，随氮压机入口温度的升高，系统耗功基本呈线性增加；对于同一入口温度，随总压比增加，系统功耗增加。因此，从降低空分系统功耗的角度来看，采用较低的氮气压力并尽可能降低氮气压缩机的入口温度是有利的。
+
+![](images/251c0704f9ed29ae426aecc845e6946f446290a4908f82c2107f514d03b4b0ce.jpg)  
+图1LNG冷能利用的空分流程图  
+图2单位液体耗功随氮压机入口温度变化曲线 Fig.2 Effects of nitrogen compressor inlet temperature on power consumption per unit of liquid
+
+新流程中，LNG冷能换热器参数设计决定了LNG冷能在空分系统中的利用程度。以处理单位质量流量空气的空分系统为例，在兼顾保证LNG最大的出口温度与系统过程中最小的温差不低于1K为前提，对于不同氮气压力与出LNG冷能换热器温度，其与LNG的换热关系如图3所示：LNG流量随氮气压缩机入口温度的升高先快速下降，当温度达到某一临界点后，LNG 流量不再随压缩机入口温度升高而变化，我们称该点为“平衡温度”；随着氮气压力的提高，“平衡温度”不断升高，而LNG 流量则迅速减小。所以，从提高LNG冷能的有效利用的角度来看，提高压缩氮气压力可以降低LNG流量，提升LNG冷能的利用率。
+
+![](images/bb50fa37c3ba0704e28eb24691d288c7e5edd8f4282bfe85fc877e1ab28ec0f6.jpg)  
+图3LNG冷能利用的空分流程图
+
+上述结果的产生是由氮气与甲烷的物性所决定的。图4为氮气与甲烷的比定压热容在不同压力下随温度的变化曲线，可看出：工质的比定压热容呈正态曲线分布，曲线峰值对应的温度被称为准临界温度[9]，在准临界点区域工质的物性剧烈变化；随着工质压力的升高，准临界温度点右移，比定压热容及其他物性变化趋缓。图4中，对于给定冷热流体质量流量，曲线所围成阴影面积可表示为相应的热流量，用 $A$ 和 $C$ 与 $B$ 和 $D$ 分别表示甲烷与氮气进出LNG冷能换热器温度，当氮气压缩机进口温度由 $T _ { D }$ 增加到 $T _ { D ^ { \prime } }$ ，则其所对应热端进口温度为 ${ { T } _ { B ^ { \prime } } }$ 且满足 $( T _ { D ^ { \prime } } - T _ { D } ) < ( T _ { B ^ { \prime } } - T _ { B } )$ ，即由于峰值的存在，LNG冷能换热器中热端温差的变化幅度要高于冷端温差，氮气冷却过程在低温段所需的冷量显著高于高温段。反推可知，当选取较小的冷能换热器冷端温差 $\Delta T _ { \sharp }$ 来达到更低的氮气入口压力与较小的换热器不可逆损失，对应LNG 流量存在一个最小值保证换热过程中的温度不交叉，该最小值由氮气低温段所需冷量决定。图5进一步给出LNG出换热器温度随氮气压缩机入口温度变化的关系，当入口温度与氮气压力的提升，LNG出换热器温度也随之升高，表明LNG冷量得到更多的利用，但增加了换热器的不可逆损失，曲线中拐点对应温度与图3中“平衡温度”一致。上述现象表明：在冷能利用的空分系统中，单纯采用高压氮气作为载冷剂，无法同时保证LNG有用能与冷量得到最大化利用，新流程需要进行设计参数优化。
+
+![](images/4c862b342e7e6844abae5d9d95a44a1525a113b9f78026b392cfc1b634252519.jpg)  
+图4氮气与甲烷比热容随温度变化曲线
+
+![](images/e13455db691d456a48aa22b342b8a1d209cf968b6de4fd1e1e42a592f26e4c65.jpg)  
+Fig.3 Effects of nitrogen compressor inlet temperature on mass flow ofLNG   
+Fig.4 Specific heat capacity of nitrogen and methane at constant pressure   
+图5LNG出换热器温度随压缩机入口温度的变化关系Fig.5 Effects of nitrogen compressor inlet temperature onoutlet temperature of LNG
+
+已有文献均采用单位液体产品能耗对冷能利用空分系统进行评价，而对于相同规模的空分装置，不同LNG的使用量对应不同单位液体产品能耗，难以定量描述冷能利用流程设计对系统能耗降低的影响，因此为考察系统的真实能耗，本文定义系统等效能耗 ${ w _ { s } }$ ，即单位液体产品的压缩机耗功与LNG冷能等效功之和，见式 (1)，后者等于注入系统的单位质量LNG冷能除以制冷系数 $\varepsilon$ ，见式(2)[10,11]。图6给出了系统等效能耗随LNG出口温度的变化规律，对于同一LNG出换热器温度，系统等效能耗随氮气压力的升高而略有增加，主要原因为随氮气压力增加氮压机耗功也随之增加；由同一氮气压力所对应的等效功耗变化规律可知，随LNG 出口温度的升高,系统等效能耗迅速降低，表明LNG冷能等效功的下降幅度高于压缩耗功的增长幅度，当LNG 出口温度超过“平衡温度”后继续升高，LNG冷能等效功和压缩耗功都随之增加，系统等效能耗也快速增大。综上所述，当LNG出口温度或氮压机入口温度为“平衡温度”时，所设计新流程存在最低等效功耗，该功耗随氮气压力的提高而降低，且流程对LNG冷能的利用也最高效。
+
+$$
+w _ { \mathrm { s } } = w + w _ { \mathrm { L N G } }
+$$
+
+$$
+w _ { \mathrm { L N G } } = \Delta h _ { \mathrm { L N G } } / ( m _ { \mathrm { L N G } } \times \varepsilon )
+$$
+
+![](images/33f894138fba483b085a645a1636bfd9ce78d07092fecdb62746371c93b94e3b.jpg)  
+图6系统等效功耗随LNG 出换热器温度的变化关系Fig.6 Effects of LNG outlet temperature on systemequivalent power consumption
+
+为定量衡量LNG冷能的利用情况，本文采用气化单位质量LNG所降低的系统能耗来表征LNG冷能利用效率 $\eta$ ，见式(3)， $w _ { 0 }$ 为传统空分流程单位液体产品能耗[12]， $w ^ { \prime }$ 为选定为各压力下对应平衡温度时单位液体产品能耗。图7给出该效率随氮气压力的变化曲线，随氮气压力提高，LNG冷能利用效率逐步提升，当压力提升至 $8 \ \mathrm { M P a }$ 后，效率曲线趋于平缓，继续增加氮气压力对LNG 冷能效率提升有限。为进一步说明图7所示规律，图8给出系统单位液体产品耗功与等效能耗随氮气压力的变化曲线，系统耗功基本随氮气压力提高线性增加，而等效能耗随氮气压力提高而逐渐减小，氮气压力超过$8 \mathrm { M P a }$ 后，等效耗功减小的趋势变缓。因此，选用氮压机最高压力为 $8 \ \mathrm { M P a }$ 时，新流程在LNG冷能利用与系统节能两方面都具有良好的效果。
+
+$$
+\eta = ( w _ { 0 } - w ^ { \prime } ) / m _ { \mathrm { L N G } }
+$$
+
+![](images/f3592fade95ec80256b53a924dd0d43cadc00f7363f7b7ab62afb353b12e8640.jpg)  
+图7平衡温度时新流程冷能利用效率随氮气压力变化关系 Fig.7 Effects of nitrogen pressure on cold energyutilization efficiency at equilibrium temperature
+
+![](images/7659afe2fbfce03d496475a8eba4832f2f2f0cf6aa78789c497265e67347a609.jpg)  
+图8平衡温度时新流程系统能耗随氮气压力变化关系 Fig.8 Effects of nitrogen pressure on system equivalent power consumption at equilibrium temperature
+
+# 3流程对比
+
+程对LNG冷能有更高效的利用，本文将其与对文献[7]中所设计流程进行了对比分析。选定氮压机最高运行压力为 $8 \ \mathrm { M P a }$ ，入口温度为其对应的“平衡温度”，氮压机等熵效率0.85，机械效率0.9，LNG初始参数为 $1 0 \mathrm { M P a }$ 、 $1 2 0 \mathrm { K }$ ，其余初始参数均参照文献[7]。流程计算结果见表1。
+
+考虑到LNG与氮气在准临界温度处的换热特性，本文对文献[7部分结果进行了修正。计算结果表明，新流程的单位液体产品能耗为 $0 . 3 2 1 \mathrm { \ k W h / k g } .$ 且可获得液氮产品，比文献[7]流程能耗低约 $2 3 \%$ 且拥有更高的LNG冷能利用效率与较低的系统等效能耗。
+
+表1流程计算结果对比  
+Table 1 The calculation results of new process   
+
+<html><body><table><tr><td>技术指标</td><td>文献流程</td><td>新流程</td></tr><tr><td>加工空气量/(kg/h)(293K,0.1013MPa)</td><td>70000</td><td>70000</td></tr><tr><td>液氧产量/(kg/h)(92K,0.122MPa,99.84%)</td><td>14282</td><td>14282</td></tr><tr><td>氮气产量/(kg/h)(276K,0.102 MPa,99.997%)</td><td>40942</td><td>30214</td></tr><tr><td>液氮产量/(kg/h)</td><td>0</td><td>10729</td></tr><tr><td>循环氮气量/(kg/h)</td><td>29103</td><td>43279</td></tr><tr><td>LNG 流量/(t/d)</td><td>951</td><td>766</td></tr><tr><td>LNG 出口温度及压力/(K，MPa)</td><td>181.5,10</td><td>261，10</td></tr><tr><td>空气预处理阶段压缩功率/kW</td><td>4725.1</td><td>4725.1</td></tr><tr><td>氮气压缩机入口温度/K</td><td>95</td><td>189</td></tr><tr><td>氮气压缩机压缩功率/kW</td><td>574.5</td><td>2800</td></tr><tr><td>系统最高运行压力/MPa</td><td>2.6</td><td>8</td></tr><tr><td>辅助设备功率/kW</td><td>500</td><td>500</td></tr><tr><td>单位液体产品能耗/(kWh/kg)</td><td>0.406</td><td>0.321</td></tr><tr><td>LNG冷能利用效率n/(kWh/kg²)</td><td>0.36</td><td>0.81</td></tr><tr><td>系统等效能耗/(kWh/kg)</td><td>1.34</td><td>0.75</td></tr></table></body></html>
+
+# 4结论
+
+本文对LNG冷能与空分系统的结合进行了研究。研究表明：由于LNG与氮气在准临界温度区域物性剧烈变化，流程设计与计算过程中需要综合考虑LNG有效能与冷量对冷能利用系统的影响；在兼顾保证LNG最大的出口温度与系统过程中最小的温差不低于1K的前提下，新流程所需LNG的流量随氮气入口温度的升高而降低，当超过该压力所对应“平衡温度”时，LNG流量保持不变；当氮压机入口温度为“平衡温度”时，所设计新流程存在最低等效功耗，该功耗随氮气压力的提高而降低，且流程对LNG 冷能的利用也最高效；当选取氮压机最高压力为8MPa时，LNG出口温度达到261K，LNG冷能基本被完成利用，相较于其他参数所对应结果具有更高的LNG冷能利用效率与较低的系统等效能耗。
+
+# 参考文献
+
+[1]张少增.中国 LNG 接收站建设情况及国产化进程[J].石油 化工建设,2015,37(3):14-17 Zhang Shaozeng.Construction and Localization of China LNG terminal [J].Petroleum and Chemical Construction,   
+2015,37(3): 14-17 [2]安蓓.2015 年我国天然气消费增速创10 年最低[EB/OL]. [2016-02-01]. http:// news.xinhuanet.com/energy/2016-   
+02/12/c_1118022736.htm An Bei. The Lowest Natural Gas Consumption Growth of China in 2015 [EB/OL]. [2016-02-01]. http://news. xinhuanet.com/energy/2016-02/12/c_1118022736.htm [3]葛轶群,章学来,赵兰，等.LNG 冷能的梯级利用[J].制冷 技术,2006(3):14-16 Ge Yiqun,Zhang Xuelai,Zhao Lan,et al. Cascade Utilization of LNG Cold Energy [J]. Chinese Journal of Refrigeration Technology, 2006(3):14-16   
+[4] Nakaiwa M,Akiya T,Owa M,et al. Evaluation of an Energy Supply System With Air Separation [J]. Energy Conversion & Management,1996,37(3):295-301   
+[5]余黎明．高效利用 LNG 冷能的途径探析[J]．化学工业, 2014,32(5):1-12 Yu Liming. The Analysis of Efficient Use of LNG Cold Energy Pathway [J]. Chemical Industry,2014,32(5):1- 12   
+[6] 燕娜，厉彦忠.采用液化天然气(LNG）冷量的液体空分新 流程及其分析[J].低温工程,2007(2)：40-45 Yan Na,Li Yanzhong. Scheme Analysis on the Liquid Product air Separation Plant Using the Cold Energy of LNG[J]. Cryogenics, 2007(2): 40-45   
+[7]金滔,胡建军．一种利用 LNG 冷能的空分流程[J].气体分 离,2005(5):15-20 Jin Tao,Hu Jianjun.An air separation Llow Using LNG Cold Energy[J].Gases Separation,2005(5):15-20   
+[8]陈则韶,程文龙，胡芃．一种利用LNG 冷能的空气分离装 置新流程[J].工程热物理学报,2004,25(6)：913-916 Chen Zeshao, Chen Wenlong,Hu Peng.A New air Separation Device Using LNG Cold Energy [J].Journal of Engineering Thermophysics,2004,25(6):913-916   
+[9]杜忠选.超临界甲烷及甲烷/氮混合物的冷却换热研究[D]. 上海交通大学，2012 Du Zhongxuan.Study of Cooling Heat Transfer to Methane and Methane/Nitrogen Mixtures Under Supercritical Pressure [D]. Shanghai Jiao Tong University, 2012   
+10] C.W.Remeljej,A.F.A.Hoadley. An Exergy Analysis of Small-Scale Liquefied Natural Gas (LNG)Liquefaction Processes [J].Energy,2006,31(12): 2005-2019   
+11］陈国邦．新型低温技术[M]．上海交通大学出版社，2003: 112-117 Chen Guobang. New Low Temperature Technology， [M]. Shanghai Jiao Tong University Press,2003:112-117   
+12] 李化治.制氧工程[M].冶金工业出版社，2009:362-365 Li Huazhi. Oxygen project [M].Metallurgical Industry Press,2009:362-365

@@ -1,0 +1,475 @@
+[
+    {
+        "type": "text",
+        "text": "面向骨骼受损类型判别的体素模板构建",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陆丰威1²，何坤金1,2，陈义仁1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.河海大学 物联网工程学院，江苏 常州 213022;2.常州市图形图像与骨科植入物数字化技术重点实验室，江苏常州 213022)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对骨骼受损类型判断较为困难的问题，提出一种面向骨骼受损类型判别的体素模板构建方法，旨在快速指导医生进行判断。首先，在骨骼平均化点云模型的基础上构建最小包围盒，根据空间分辨率对包围盒进行划分，遍历判断后生成体素骨骼模板；然后，建立受损类型与体素模板之间的对应信息，生成受损类型库；最后，将目标骨骼映射到模板上，根据映射后模板上的受损体素区域指导医生判断出受损类型。实验结果表明，该方法能辅助医生直观、快速判断目标骨骼受损类型，有利于后期面向目标骨骼进行自动判别研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：骨骼模板；体素模型；映射；受损判别 中图分类号：TP391.72 doi:10.19734/j.issn.1001-3695.2018.10.0782 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Voxel template construction for skeletal damage type discrimination ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lu Fengwei1,2, He Kunjin1,2†, Chen Yiren1, 2 (1.CollegeofIEngineering,Hohai University,ChangzhouJiangsu21302,China;2.ChangzhouCityKeyLaboratoryof Orthopedic Implants Digital Technology,Changzhou Jiangsu 213022, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This paper developedamethod about voxel templateconstruction for guiding the doctortodetermine the typeof damaged bonequickly，which couldsolve the problem that damaged bone havedificult in judging.Firstly,this method constructed the minimumboundingbox basedon theskeleton averaging pointcloud model,and divided thebox according the spatialresolution.Therefore it could generate the voxel template after traversingand judging the bounding box.Then, establishing thecorresponding information between the damaged type and the voxel template generated a damaged type library.Fnally,itmappedthe targetbonetothetemplate,andthe doctorcould judge according tothe damaged voxelarea onthetemplate to determine the typeof damage.The experimental results show thatthe method can asist the doctorto directlyand quicklydetermine the typeof target bone damage,whichis beneficial totheautomatic discriminationresearch of the target bone in the later stage. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:skeleton template; voxel model; Mapping; damage discrimination ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "数字化骨科技术已为临床医学提供指导参考，成为推动骨科临床发展的重要动力。随着人口数量的增加、老龄化进程的加快，骨折、关节炎症等疾病患者数量持续增多；加上交通事故的频发，使得骨科内植入物的需求急剧增加。目前，外科手术中最常见的骨科植入物有：接骨板、髓内钉、钢针等，其中接骨板的设计是植入物设计的核心[1,2]。接骨板作为临床上应用最为普遍的内植入物之一，其作用是保持骨折端的复位状态，提供良好的稳定性[3.4]，以使患者能够早期活动。而判断骨骼受损类型是选用相应接骨板的前提，目前判断受损类型较困难，由于患者骨骼受损类型的多样性，以医生对每种样本受损类型判断的方式效率比较低，费时费力。考虑在术前骨骼受损类型判断与接骨板设计方面，医生或者设计者更加偏向在模板上进行，因为模板不仅具有更多的特征信息，而且医生在模板上设计具有更好的熟练程度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因此，研究和构建合适的骨骼模板，有助于面向目标骨骼进行受损类型判别研究，对于计算机辅助医生进行有效诊断具有重要的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，骨科计算机辅助设计领域发展迅速[5]。卢秉恒等人[从加工的角度提出植入物产品的生成方法，为我国在数字骨科领域奠定了基础；Cherifi等人[7基于高斯过程和核函数建立参考模型，并利用ICP[8]（迭代最近点）拟合方法生成股骨的三维统计形状模型；刘露等人[9针对传统ICP算法普遍存在的准确度和鲁棒性较低的问题，提出一种基于仿射CPD（一致性点漂移算法）的股骨医学图像配准方法,使配准自动化及精准化；Gamage等人[10]将2D/3D非刚性配准算法应用于人体长骨的三维模型重建中，该方法三维模型重建精度高，能有效处理噪声、异常以及变形等问题。刘斌等人[1]在微创骨折手术方面，利用计算机辅助内固定钢板进行术前精确塑形方法研究；Koen等人[12]构建基于统计模型的平均化模型，根据骨骼模型的平均属性设计不同类型的接骨板；孙金炜教授团队[13]提出了基于双平面DR图像重构股骨三维姿态的方法，该方法无须手工标记骨骼特征，能自动、非对应地实现3D/2D配准，为骨科诊断和术前计划快速提供准确的三维骨骼姿态信息。Karad 等人[14]提出了一种基于Laplacian 变形重配置股骨模板的方法，该方法显著提升了股骨远端三维的重构精度和计算效率，并适用于任何外形的骨骼建模。目前的研究成果促进了对骨骼实体模型的研究以及植入物设计的发展，然而上述方法所设计的骨骼模型多是采用网格建模，在术前辅助医生判断骨骼受损方面三维呈现效果较差，判别结果不准确。关于骨骼体素化建模已经有部分研究成果[15\\~17]，然而以计算机辅助判别骨骼受损类型为目标的研究少有报道。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为此，在课题组已有研究成果的基础上[18\\~20]，本文提出一种面向骨骼受损类型判别的体素模板构建的新设计方法。着重研究基于平均化骨骼模型的骨骼体素模板构建，以及建立目标骨骼与模板之间的映射关系。通过对平均化模型的最小包围盒进行空间体方格划分，从宏观上选择合适的分辨率，遍历判断后得到空间体素模板；采用对目标骨骼进行非刚体变形方法，建立模板与目标骨骼间的映射关系；医生将映射后的受损信息结合受损类型库，实现目标骨骼受损类型的直观判断。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于长骨在人体运动中起杠杆作用，且由临床经验知长骨损伤较其他类骨骼更为频繁[2I]，所以本文以长骨为研究对象，并以股骨为例进行研究和验证。此方法也适用于胫骨、腓骨、肱骨和桡骨等各种长骨。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 面向骨骼受损类型判别的体素模板构建框架",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了指导医生能有效快速判断出受损类型，本文提出一种面向骨骼受损类型判别的体素模板构建的新方法，主要包括骨骼体素模板的构建以及受损类型的判断两部分，流程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b452058256f86cae562f681fe21b3966d627a142a3750a422164c05500d1aa2.jpg",
+        "img_caption": [
+            "Fig.1Method flow of the paper "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据上述设计流程，面向骨骼受损类型的体素模板构建主要步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)体素骨骼模板的构建。在骨骼平均化点云模型的基础上生成最小包围盒，等间距划分包围盒，遍历判断后得到点云占据的体素列表，生成体素化骨骼模板；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)受损类型库的建立。根据医学先验知识对受损类型科学分类，建立受损体素模板类型库；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)目标骨骼到模板的映射。本步骤包含目标骨骼的变形以及目标骨骼上受损区域到模板的映射两部分。其一是通过对目标骨骼进行非刚体变形，使得目标骨骼的形状与模板相似；二是目标骨骼上的受损信息映射到a)所建的体素模板上[22]，依据映射关系确定受损处映射在体素模板上的区域信息，将区域信息结合受损类型库指导医生快速判断出受损类型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 体素骨骼模板的构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "体素即体积像素，是三维空间分割的最小单位。体素模型有助于实体骨骼模型的三维表示，能有效弥补网格模型在术前辅助医生判断受损类型方面的不足。本文将具有一般性的平均化点云模型作为模板，在其基础上构建体素骨骼模板。体素模板不仅具有平均化模型的平均属性，而且便于辅助医生直观判断受损类型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1最小包围盒的生成",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，使用逆向建模方法[23.24]对股骨平均化点云模型进行曲面重构。针对江苏地区身高在 $1 5 5 { \\sim } 1 7 5 \\mathrm { c m }$ ，年龄介于",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "25\\~69 岁的100 位正常成年男性股骨样本，采用课题组已有的研究方法[18],构建股骨的平均化骨骼模板；如图2(a)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然后，分别计算平均化骨骼模型各个顶点在 $x$ 、y、 $z$ 三个坐标轴上投影的最小值 $( l _ { x } , l _ { y } , l _ { z } )$ 和最大值 $( u _ { x } , ~ u _ { y } , ~ u _ { z } )$ ，过$( l _ { x } , \\ l _ { y } , \\ l _ { z } )$ 和 $( u _ { x } , ~ u _ { y } , ~ u _ { z } )$ 点，分别沿着 $\\mathbf { x }$ 、y、 $z$ 三个坐标轴方向，构建一个长方体包围盒，如图2(b)所示。设 $\\mathtt { R }$ 表示包围盒包围的区域，则",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\{ ( x , y , z ) | l _ { x } \\leq x \\leq u _ { x } , l _ { y } \\leq y \\leq u _ { y } , l _ { z } \\leq z \\leq u _ { z } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff9d48c5ed58768db0758120da754be90cc8e5b251ce8a3b41e1307a0d247ab9.jpg",
+        "img_caption": [
+            "图2股骨平均化模型及其最小包围盒",
+            "Fig.2The averaging model of femur and the minimum bounding box "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2体素骨骼模板的生成",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以一定的间距 $\\mathbf { h }$ 分别沿着 $x$ ， $y$ ， $z$ 三个方向对最小包围盒进行等间距划分，即可获得包围盒的体素模型。其中，h为分辨率。设某个体素中心点的坐标为 $( x _ { i } , y _ { i } , z _ { i } )$ ，有",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle x _ { i } = l _ { x } + h ^ { * } ( i + \\frac { 1 } { 2 } ) } \\\\ { \\displaystyle y _ { i } = l _ { y } + h ^ { * } ( i + \\frac { 1 } { 2 } ) } \\\\ { \\displaystyle z _ { i } = l _ { z } + h ^ { * } ( i + \\frac { 1 } { 2 } ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将包围盒的体素模型在 $x , y$ 、 $z$ 三个方向上所包含的体素个数分别称为该模型的长度、宽度和高度。设模型的长、宽、高分别为 $L$ 、 $W$ 和 $H$ ，其值可由式(3)得出，则体素模型所包含的体素总数为 $L \\times H \\times W _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { L = [ ( u _ { x } - l _ { x } ) / h ] } \\\\ { H = [ ( u _ { y } - l _ { y } ) / h ] } \\\\ { W = [ ( u _ { z } - l _ { z } ) / h ] } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当体素模型高边上的体素个数 $\\mathrm { ~ H ~ }$ 分别为3、5和7，则由式(3)可得出相应的体素单元尺寸 $\\mathbf { h }$ 分别为 $2 3 ~ \\mathrm { m m }$ 、 $1 4 ~ \\mathrm { m m }$ 和$1 0 \\ \\mathrm { m m }$ ，包围盒体素个数分别为228、960和2898，如图3所示。结合医生对模板的操作要求以及三维模型的呈现效果，本文选择体素单元尺寸为 $1 4 \\mathrm { m m }$ 的模型展开研究，如图3(b)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/72eac03aa5b683aac1c12ace239b907286a12b50dbf76ed1a3aed49de309d9bc.jpg",
+        "img_caption": [
+            "图1本文方法流程",
+            "图3体素化最小包围盒",
+            "Fig.3Voxelize the minimum bounding box "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为生成实体体素骨骼模板，用一个大小为 $\\scriptstyle L \\times H \\times W$ 的三维布尔数组来表示股骨体素模板，若骨骼模型占据某个体素，则设置此体素对应的标志位为1；否则，将其设置为0。若骨骼模型的第 $j$ 个顶点 $( x _ { j } , y _ { j } , z _ { j } )$ 和包围盒的第 $i$ 个体素（中心点坐标为 $( x _ { i } , y _ { i } , z _ { i } )$ 满足关系式(4),表明骨骼模型占据此体素。遍历平均化模型中每个顶点和包围盒中每个体素，并对其依次判断，即可生成股骨体素模板,如图5所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/70c2d82403390b6b982f785cb3b148b241bd1a1976920d81aae2cd099f34e44d.jpg",
+        "img_caption": [
+            "图4股骨体素模板Fig.4Femur voxel template"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 受损类型库的建立",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1受损类型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前创伤骨科专家广泛应用AO/OTA骨折分类系统[25]，对骨折及伴随软组织损伤的范围和严重程度进行分类，为骨折的治疗以及研究提供了统一的标准。该编码系统将股骨编号为3，再根据近端、远端以及骨干3个不同骨折部位，分别编号为31、32、33，如图5(a)所示。根据骨折受损的具体形态，各部位又分为A、B和C三型,其中，两端A、B、C分别表示关节外骨折、部分关节内骨折和完全关节内骨折；股骨干A、B、C分别表示简单骨折、楔形骨折以及复杂骨折，如图5(b)\\~(d)所示。根据这一标准对已有骨折样本进行分类，建立骨折类型数据库，并采取线性插补的方式对数据库进行补充完善。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/747c56c43d6b6b63caf7508febab28c2db70f4bfe1f71b568aa564971e351d9e.jpg",
+        "img_caption": [
+            "图5AO/OTA骨折分类 Fig.5AO/OTA fracture classification system "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2基于体素模板的受损类型库",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用2.2节中构建的体素骨骼模板，结合AO/OTA骨折类型库，通过医学软件Mimics15.0得到各种受损类型对应的受损痕迹坐标，根据痕迹坐标在体素模板上找到相应的受损体素区域，从而生成基于体素模板的受损类型库，如表1所示，红色部分表示受损部位所占据的体素区域。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fd6a91beaabc7eabef9270bd0f9861c997a943227f85eca0915f50acd0787ad.jpg",
+        "img_caption": [
+            "表1基于体素模板的受损类型库"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 目标骨骼到模板的映射",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用非刚体变形方法将目标骨骼以模板为基准进行变形，使得目标骨骼具有原来的拓扑结构，但形状与模板相似。同时，目标骨骼上的受损部位被映射到体素模板上，得到受损体素区域信息，医生再结合受损类型库判断出目标骨骼的受损类型，如图6所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1基于CPD 算法的非刚体变形",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一致性点漂移 $( C P D )$ 算法的基本思想是将点集配准过程转换为高斯混合模型， $( G M M )$ 概率密度函数的参数估计问题[26]，通过最大化似然函数得到最优变换参数，从而实现模板点集与目标点集之间的变换效果。该算法对于点云的刚体以及非刚体变换问题都能实现良好的效果，而且 $C P D$ 算法适用于源点云含有异常点或者噪声情况下的配准问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设 $Y _ { M \\times D } = ( y _ { 1 } , y _ { 2 } . . . y _ { M } ) ^ { T }$ 为目标骨骼点集，以 $y _ { i }$ 作为各个混合高斯成分的质心，从而建立GMM模型； $X _ { N \\times D } = ( x _ { 1 } , x _ { 2 } . . . x _ { N } ) ^ { T }$ 为平均化骨骼模型的点集，假设数据集 $\\boldsymbol { X } _ { N \\times D }$ 中的点由 $G M M$ 模型产生。其中，M、 $N$ 分别为目标骨骼和平均化模型点集的大小， $D$ 是点集的维度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "混合高斯模型的概率密度函数如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( x ) = \\sum _ { m = 1 } ^ { M + 1 } P ( m ) p ( x | m )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中:p(x|m)= $p ( x | m ) = \\frac { 1 } { ( 2 \\pi \\delta ^ { 2 } ) ^ { D / 2 } } e ^ { \\frac { \\| x - y _ { m } \\| ^ { 2 } } { 2 \\delta ^ { 2 } } }$ 为第 $\\mathrm { ~ m ~ }$ 个高斯分量的概率密度，此外，令 $p ( x | M + 1 ) = 1 / N$ 为混合模型的噪声和异常点分布，假设各个高斯分量的协方差均为 $\\delta ^ { 2 }$ ,每个分量的成员概率均为 $p ( m ) = 1 / M$ ， $w$ 为联合分布的权重， $0 { \\leq } \\mathrm { w } { \\leq } 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "加权混合高斯模型的概率函数如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( x ) = w \\frac { 1 } { N } + ( 1 - w ) \\sum _ { m = 1 } ^ { M } \\frac { 1 } { M } p ( x | m )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过一组变换参数集 $\\theta$ 重新参数化GMM质心位置，并对其进行最大似然估计，或者等效地基于最小化对数似然函数 $E ( \\theta , \\delta ^ { 2 } )$ 进行估计。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( \\theta , \\delta ^ { 2 } ) = - \\sum _ { n = 1 } ^ { N } \\log \\sum _ { m = 1 } ^ { M + 1 } P ( m ) p ( x | m )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$C P D$ 采用期望最大化 $( E M )$ 算法来搜寻 $\\theta$ 和 $\\delta ^ { 2 }$ ,其基本思想是首先估计参数值，并利用贝叶斯理论计算混合成分的后",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "验概率分布（ $E \\cdot$ -步)，其次是对期望进行最大似然估计，得到新参数值(M-步)。迭代循环两步，直到收敛到似然函数的稳定点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 受损区域的映射 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在对目标骨骼非刚体变形后，目标骨骼保持原来的拓扑结构，但形状与平均化模型相似。同时，目标骨骼 $M$ 映射到模板点云模型 $M ^ { \\prime }$ [27],医生根据受损部位映射到模板上所在的体素区域判断出受损类型。映射函数 $\\Phi$ 形式化定义为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM ( P , Q , T ) = \\Phi ( M ( P , Q , T ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $P$ 是目标骨骼的一组点坐标， $\\varrho$ 是受损区域点坐标， $T$ 是坐标之间的拓扑关系， $P ^ { \\prime }$ 是目标骨骼映射到模板上的一组新的点坐标， $\\varrho$ 是受损处映射到模板上的点坐标。医生根据映射后 $\\varrho$ 在体素模板上所占的方格区域，参照3.2节所建立的受损类型库，指导医生快速判断目标骨骼的受损类型。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/89296e16120dcb41178f3fed3e110193dd9e8a48b931890fd6947bf63964b513.jpg",
+        "img_caption": [
+            "Fig.6Process for identifying damaged types "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3 实例",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以某医院受损股骨为样本，结合医学软件Mimics15.0和VS2013平台，利用OpenGL编程对本文方法进行了实例测试。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用Mimics15.0软件导入已修复的目标骨骼，该目标骨骼带有受损区域信息，如图7(a)所示；为详细表达受损部位边界信息，在目标骨骼受损区域提取内外层红色轮廓线，如图7(b)所示；为准确显示受损部位的内部深层次信息，增强映射过程中的配准效果，在内外轮廓线之间设定等间距特征点，如图7(c)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae331c8333bcaf36498309d588dbd3345b10ec5483f391a9adf8cabd21b58a19.jpg",
+        "img_caption": [
+            "图6受损类型判别流程",
+            "图7带有受损信息的目标骨骼",
+            "Fig.7Target bone with impaired information "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先，利用本文方法对平均化骨骼模型进行体素化，得到骨骼体素模板，如图8(a)(b)所示；其次，对已修复的目标骨骼点云模型进行可视化，如图8(c)所示，红色曲线为受损区域内外层轮廓线；然后，将目标骨骼进行非刚体变形，变形后的模型如图8(d)所示；最后，根据映射关系得到受损部位映射到模板上的区域信息（如红色体素方格所示)，生成带有受损信息的体素模型，如图8(e)所示。医生根据体素模型上红色体素区域，参考受损类型库中的区域信息，能够直观快捷地判断出目标骨骼的受损类型。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ea2670fd4fb03d5f75c89333931b041c843da7b49c95ef327908a050faca621.jpg",
+        "img_caption": [
+            "图8面向骨骼受损类型判别的体素模板构建过程 Fig.8Voxel template construction process for skeletal damage type discrimmination "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于已有的骨骼平均化模型，本文提出一种通过体素构建骨骼模板的方法。通过对点云数据进行体素化，将平均化骨骼模型变成体素模板；再将目标骨骼进行非刚体变形，建立模板与目标骨骼间的映射关系，从而将目标骨骼上的受损部位信息映射到体素模板上。该方法的意义在于引入体素模板与映射，达到辅助医生直观、快速判断出目标骨骼受损类型的目的；借助体素模板来判定受损类型，能提高人工判断的效率，为进一步实现机器自动判别奠定基础。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本方法为有效判断骨骼受损类型提供了新思路，未来将进一步完善受损类型库以及建立受损区域体素与受损类型的概率模型，实现计算机辅助快速、准确判断骨骼受损类型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]靳忠民，连芩，王臻，等．双动人工半膝关节假体的设计及应用[J]. 机械工程学报,2013,49(6):12-20.(Jin Zhongmin,Lian Qin,Wang Zhen,et al. Custom-made bipolar hemi-knee prosthesis design and clinical application [J]. Chinese Journal of Mechanical Engineering, 2013,49 (6):12-20)   \n[2]郝廷，余斌，郝增涛，等．股骨远端微创锁定内固定钢板固定参数的 三维数字化测量[J]．中国组织工程研究，2012,16(13):2292-2295. (Hao Ting,Yu Bin,Hao Zengtao,et al.Three-dimensional digital measurement of fixed parameters of the less invasive stable system fixation [J].Journal of Clinical Rehabilitative Tissue Engineering Research,2012,16 (13):2292-2295)   \n[3]邱勋定．生物可吸收性微型接骨板与微型钛内固定系统对下颌骨骨 折稳定性的影响[J].中国组织工程研究,2015,19(38):6155-6160. (Qiu Xunding.Effect of bioabsorbable micro-plate and micro-titanium internal fixation system on the stability of mandibular fracture [J]. Journal of Clinical Rehabilitative Tissue Engineering Research,2015, 19 (38): 6155-6160)   \n[4]裴国献，张元智．数字骨科学[M].2版．北京：人民卫生出版社, 2016:3O4-389.(Pei Guoxian, Zhang Yuanzhi.Digital orthopaedics (2nd ed)[M].Beijing:People’s Medical Publishing House,2016:304-389.)   \n[5]Arnone J.A comprehensive simulation-based methodology for the design and optimization of orthopaedic internal fixation implants [J]. Dissertations& Theses-Gradworks,2011.   \n[6]连芩，刘亚雄，贺健康，等．生物制造技术及发展[J].中国工程科 学,2013,15(1):45-50.(Lian Qin,Liu Yaxiong,He Jiankang,et al. Bio-manufacturing technology and development [J]. Engineering Sciences,2013,15 (1):45-50)   \n[7]Cherifi D,Soual I, Omari S,et al. 3D shape modelling of femur [C]// Proc of International Conference on Bio-engineering for Smart Technologies.Piscataway,NJ: IEEE Press,2017: 1-5.   \n[8]Bergstrom P,Edlund O.Robust registration of surfaces using a refined iterative closest point algorithm with a trust region approach [J]. Numerical Algorithms,2016,74 (3): 1-25.   \n[9] 刘露，刘春宇，周洋，等．基于仿射 CPD 的股骨医学图像配准方法 [J].计算机应用研究,2015,32(8):2543-2546.(Liu Lu,Liu Chunyu, Zhou Yang,et al. Femoral medical image registration method based on affine CPD [J]．Application Research of Computers,2015,32 (8): 2543-2546.)   \n[10] Gamage P,Xie S Q,Delmas P,et al. Diagnostic radiograph based 3D bonereconstruction framework:application to the femur[J]. Computerized Medical Imaging & Graphics,2011,35(6):427-437.   \n[11] Liu Bin,Wang Chao,Zhu Lin,et al.A new automatic human body slice segmentation method based on closed-form solution matting and distance transform [J].Journal of Medical Imaging& Health Informatics, 2017,7 (1): 247-250.   \n[12] Koen E,Vinod K.Finding the best fit:anatomical data mining can improve the results for standard implant design [EB/OL].(2012) [2018-10-18]. http:/biomedical. materialise.com/white-papers-findingbest-fit-abstract-0.   \n[13] Zhang Bin,Sun Jinwei,Chi Zhiyong，et al.3D reconstruction of patient-specific femurs using Coherent Point Drift [J].Telkomnika Indonesian Journal of Electrical Engineering,2013,11 (2):1101-1110.   \n[14] Karade V,Ravi B.3D femur model reconstruction from biplane X-ray images:a novel method based on Laplacian surface deformation [J]. International Journal of Computer Assisted Radiology & Surgery,2015, 10 (4): 473.   \n[15] Tsai MD,Hsieh MS. Volume manipulations for Simulating bone and joint surgery [J].IEEE Trans on Information Technology in Biomedicine, 2005,9(1): 139-149.   \n[16] Dionne O,De Lasa M.Geodesic binding for degenerate character geometry using sparse voxelization [J].IEEE Trans on Visualization and Computer Graphics,2014,20 (10):1367-1378.   \n[17] Saha PK,Jin D,Liu Yinxiao,etal.Fuzzy object skeletonization: theory, algorithms,and applications [J].IEEE Trans on Visualization and Computer Graphics,2018,24(8): 2298-2314.   \n[18] He Kunjin,Zhang Rongli,Chen Zhengming,et al.An approach for generating an average bone template with semantic parameters [J]. Journal of Medical Devices,2017,11(3): 031004.   \n[19] Wang Lin,He Kunjin,Chen Zhengming,et al.A design method for orthopedic plates based on surface features [J]. Journal of Mechanical Design,2017,139 (2): 024502.   \n[20] He Kunjin,Zhang Xiang, Zhang Yuxue. Custom-designed orthopedic plates using semantic parameters and template [J]. Medical & biological engineering & computing, 2018: https://doi.0rg/10.1007/s11517-018-1916-y.   \n[21]钟世镇，尹庆水，章莹，等．临床数字骨科学[M]．北京：人民军医 出版社,201: 286-302.(Zhong Shizhen,Yi Qingshui, Zhang Ying,et al. Clinical digital orthopedics [M]. Beijing: People's Military Medical Publishing House,2011: 286-302)   \n[22] Yeh IC,Lin Chaohung,Sorkine O,et al. Template-based 3D model fiting using dual-domain relaxation [J].IEEE Trans on Visualization and Computer Graphics,2011,17(8): 1178-1190.   \n[23] Pati AK,Holil, Lee S K.An adaptive approach for the reconstruction andmodeling of as-built 3D pipelines from point clouds [J]. Automation in Construction,2017,75: 65-78.   \n[24] Majistorovic V, Trajanovic M, Vitkovic N,et al.Reverse engineering of human bones by using method of anatomical features [J].Facta Universitatis,2013,62(1): 167-170   \n[25]裴国献，李旭，夏志敏．创伤骨科手术学[M]．济南：山东科学技术 出版社，2013:152-170.(Pei Guoxian,Li Xu,Xia Zhiming.Trauma orthopedic surgery [M]. Jinan: Shandong Science & Technology Press, 2013:152-170.)   \n[26]赵键，孙即祥，周石琳，等．基于全局最优的快速一致性点漂移算法 [J]．电子与信息学报,2012,34(3):509-516.(Zhao Jian,Zhao Jixiang, Zhou Shilin,et al.Fast consistent point drift algorithm based on global optimization [J].Journal of Electronics and Information,2012,34 (3): 509-516)   \n[27] Myronenko A, Song Xubo.Point set registration: coherent point drift [J]. IEEE Trans on Pattern Analysis and Machine intellgence,2010,32 (12): 2262-2275. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

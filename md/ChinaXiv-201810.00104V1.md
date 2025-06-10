@@ -1,0 +1,170 @@
+利用静电纺丝技术制备聚己内酯-胶原复合包载碱性成纤维细胞生长因子手术缝纫线及其缓释性能的研究
+
+宋奕#，李奕」，张翠云」，张素素」，潘舜」，陶云云」，许璐摇」，何华成\*2，
+
+吴疆\*1
+
+1.温州医科大学药学院，浙江温州，325035
+
+2.温州大学化学与材料工程学院，浙江温州，325035
+
+【摘要】目的：制备具有碱性成纤维细胞生长因子缓释性能手术缝纫线的复合材料，并探究其机械性能和体外释药情况。方法：利用静电纺丝技术，通过研究复合材料中物质成分的配比，优化包载效率。并研究聚己内酯-胶原复合结构(PCL-Col）对可控释放 bFGF的影响，来制备具有生物活性与药物缓释性能的手术缝纫线。并观察缝纫线微观结构，检测缝纫线机械性能和载药量。结果：通过扫描电镜结果证明载药的手术缝纫线具有完整的线状结构。进一步通过拉伸与拉伸循环实验证明缝纫线具有良好的机械性能，最后通过酶联免疫吸附实验（enzyme linked immunosorbent assay,ELISA）证明所制备的手术缝纫线具备一定的药物缓释性能。结论：通过静电纺丝装置，优化纺丝参数，成功制备了PCL-Col-bFGF的手术缝线复合材料。该缝纫线满足缝合所需要的机械性能同时具备一定的bFGF缓释性能。
+
+【关键词】静电纺丝；生长因子；机械性能；缓释性能
+
+Preparation of a novel surgical sewing thread with control release of basic fibroblast growth factor through electrospinning technology. SONG $\mathrm { Y i ^ { \# 1 } }$ ，LI $\mathrm { Y i ^ { \# 1 } }$ ， ZHANG Cui-yun#1， ZHANG Su-su¹， PAN Shun1，TAO Yun-yun1, XU Lu-yaol, PAN Yu-bingl,HU Jing-yu1,HE Hua-cheng\*2, WU Jiang\*1 1. School of Pharmaceutical Sciences，Wenzhou Medical University， Wenzhou Zhejiang, 325035, P.R. China 2. College of Chemistry and Materials Engineering, Wenzhou University, Wenzhou,
+
+Zhejiang, 325035,P.R. China
+
+【Abstract】 Objective Composite materials that surgical sewing thread with basic fibroblast growth factor slow release performance were prepared, and exploring its mechanical properties and in vitro release. Methods By means of electrospinning technology, the efficiency of packaging was optimized by studying the ratio of material composition in composite materials.Furthermore, the influence of polycaprolactone-collagen composite structure (PCL-Col） on the controllable release of bFGF was studied, to prepare the surgical sewing thread with biological activity and drug sustained release performance. Finally, the microstructure of the sewing thread was observed, and the mechanical properties and the drug loading capacity were measured. Results The results of scanning electron microscopy (SEM) showed that the surgical sewing thread had a complete linear structure. It is proved that the sewing thread has good mechanical properties by stretching and stretching cycle experiments. Finally, enzyme linked immune sorbent assay (enzyme linked immunosorbent assay， ELISA) proved that the surgical sewing thread had a certain of drug release properties. Conclusion By using electrospinning device and optimizing spinning parameters, PCL-Col-bFGF surgical suture composite was successfully prepared. The sewing thread meets the mechanical properties requirement of suturing and has bFGF sustained release performance.
+
+【 Key words 】 Electrospinning; growth factor; mechanical property； slowrelease performance
+
+# 前言 （引言）
+
+随着现代医学的快速发展，外科医生对缝线的张力、操作性等多方面的要求也不断增多。在对外科缝线的研究中，提出了新的策略，通过将药物纳米颗粒结合到缝合线中[1]，用于局部促愈合装置[2]，结果表明药物纳米颗粒包载的缝合线作为有效的局部递送具有巨大的潜力[3,4]。
+
+静电纺丝，具有很好的生物相容性及可降解性，可作为载体进入人体，作为手术缝纫线的一种材料[5]，并具有大的比表面积、孔隙率等优良特性[]，已在药物控释、创伤修复、生物组织工程等方面得到了很好的应用[7]。碱性成纤维细胞生长因子(bFGF）是一种治疗蛋白，参与细胞的自我更新、组织再生以及伤口愈合[8,9]。然而，在正常生理条件下，bFGF 的使用受到了限制，其活性容易丧失[1,7,9]。
+
+因此，本实验室对聚己内酯（PCL）和胶原（Col）进行复合，同时包载bFGF形成具有纳米纤维束结构的手术缝纫线[10]，充分结合聚己内酯良好的机械性能以及胶原的亲水性能，合理地再现细胞外基质(ECM)的组织结构[]。而静电纳米纤维本身具有较大的比表面积，在生理条件下能够维持包载药物的稳定性[12,13]，同时起到一定的缓释作用，延长了bFGF的作用时间。
+
+# 1材料与方法
+
+# 1.1主要材料与仪器
+
+人碱性成纤维细胞生长因子(bFGF)、聚己内酯(PCL）购自美国Sigma-Aldrich公司、六氟异丙醇购自上海阿拉丁公司、胶原蛋白 (Collagen)、酶联免疫吸附测定试剂盒购自上海西唐生物科技有限公司。YFSP-GII静电纺丝机（天津云帆科技有限公司）、INSTRON万能试验机（美国英斯特朗公司）、冷冻干燥机（北京博医康实验仪器有限公司）、扫描电子显微镜、多功能酶标仪（上海美容分子仪器有限公司）、接触角测量仪（德国KRUSS）。
+
+# 1.2实验方法
+
+![](images/30946d1d6472d5f0c5a50ff1939fedea4387e4f34d294d99bc51b260a7c1e7dc.jpg)  
+图1PCL-Col-bFGF纳米纤维的制备流程图  
+Figure 1Preparation flow chartof PCL-Col-bFGF nanofibers
+
+1.2.1不同比例六氟异丙醇和水对载药结果的评价 称取 $2 2 6 . 3 \mathrm { m g }$ 的胶原蛋白溶于不同比例的六氟异丙醇和水的 $7 \mathrm { m L }$ 混合溶液中，冰浴下搅拌1小时，待胶原蛋白完全溶解之后，向其中加入 $1 1 3 \mathrm { ~ \textmu ~ L ~ }$ 碱性成纤维生长因子溶液，冰浴下搅拌 24 小时，等待碱性成纤维生长因子被完全包载在胶原中[15]。接着向体系中加入 $0 . 4 5 \mathrm { g }$ 聚己内酯，继续置于冰浴下搅拌3小时，直至整个体系混合均匀。最后得到乳白色胶状的（W/W）聚己内酯-胶原-生长因子聚合物，观察体系均匀程度和对应缝线的机械性能，优化包载效率[14]。
+
+1.2.2不同比例聚己内酯对缝纫线机械性能的评价 在每组的 $7 \mathrm { m L }$ 载bFGF的水和六氟异丙醇混合体系中加入不同量的聚己内酯（ $0 . 4 5 \mathrm { g }$ ， $0 . 6 8 \mathrm { g }$ ，0.91g),冰浴下搅拌3小时，直至整个体系混合均匀。接着静电纺丝 $5 \mathrm { m i n }$ ，观察混合体系的均匀程度及缝线的机械性能好坏，得到最佳的聚己内酯量。
+
+1.2.3流速大小对缝纫线形成结果的评价 将制备的聚合物溶液放置于 $1 0 \mathrm { m l }$ 注射器中，装入静电纺丝机，选用 20G 针头纺丝[14]，使纺丝针头与接收器距离为 $1 2 \mathrm { { c m } }$ ，设定接收器转速 $3 0 0 \mathrm { r / m i n }$ ，控制电压，设置不同组别的注射泵推动速度（ $1 . 0 8 \mathrm { m m / h }$ ， $2 . 1 6 \mathrm { m m } / \mathrm { h }$ ， $3 . 2 4 \mathrm { m m } \mathrm { { h } }$ ）[16]，进行纺丝5min，观察不同推动速度下聚己内酯-胶原-生长因子纤维线的均匀程度和机械性能。
+
+1.2.4电压大小对手术缝纫线结果的评价 分别设置不同的电压组（6Kv，12Kv，18Kv)，以最佳注射泵推动速度进行纺丝5min，观察电压对缝纫线的均匀程度和机械性能的影响，得到最佳性能的包载bFGF 缝纫线的电压值[16]。
+
+1.2.5扫描电镜检测 将PCL组，PCL-Col组和PCL-Col-bFGF组的缝纫线分别取约2cm的缝线，粘附在铜板上，进行抽真空处理，接着用溅射涂布机将其镀金。最后将铜板置于扫描电子显微镜上观察，在各放大倍数下，对包载bFGF微粒的纤维支架微观结构进行检视、拍照。
+
+1.2.6载药缝纫线机械性能的检测 以最佳配比和最佳电纺参数制备缝纫线，将 PCL 组,PCL-Col组和PCL-Col-bFGF 组的缝纫线分别进行机械性能的测定。分别剪取 $2 5 { \sim } 3 0 \mathrm { c m }$ 的缝线，置于万能试验机上，进行拉伸试验，绘制出其单次拉伸应力图、弹性模量图以及最大拉伸应力图[4]。根据拉伸应力图，设置形变量在 $20 \%$ ， $40 \%$ ， $60 \%$ 时的拉伸循环，绘制相应的拉伸循环图，计算出每次循环的损耗量[17]。以此对比三组线的弹性和韧性，判断加入胶原和载bFGF 对缝纫线的力学性能有无影响。
+
+1.2.7亲水性检测 为了探索胶原蛋白的加入对缝纫线亲水性的影响，以上述最佳配比和最佳电纺参数制备薄膜，将液滴滴于膜表面，运用接触角测量仪（DSA3D)，并考虑了在微结构面上的水滴的稳定性，采用了一种确定有效接触角稳定性的新模型[22]，分别对PCL 组，PCL-Col 组和PCL-Col-bFGF 组薄膜的接触角进行分析，其接触角的每个值都是5次重复的平均值。
+
+1.2.8手术缝纫线中bFGF释放检测 在电纺丝过程中，bFGF和Col被封装在PCL核心溶液中。为了验证bFGF 是否具有一定的缓释效果，分别以纯水和PBS 缓冲溶液作为释放介质对bFGF的释放进行了检测。取 $5 \mathrm { c m }$ 包载bFGF 微粒的缝线放置于 $1 . 5 \mathrm { m L }$ 离心管内，向其中加入 $3 0 0 ~  { \mu \mathrm { L } }$ 释放介质，放置于 $3 7 ^ { \circ } \mathrm { C }$ 保温箱内，于6h,12h,24h,48h,72h,96h,120h,144h,168h 换用新的释放介质替换原有的溶液，置于保温箱内继续收集释放的bFGF，利用酶联免疫吸附法使bFGF与酶复合物结合，用多功能酶标仪（SpectraMaxM2e）测定bFGF 在 $4 5 0 \mathrm { n m }$ 的吸光度。代入标准曲线换算成浓度后，计算累积释放率[9,21]。
+
+1.2.9统计学处理方法 采用GraphPadPrism统计软件进行分析。数据以均数土标准差表示，各实验组间比较采用单因素方差分析。 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果与讨论
+
+2.1各组分配比对复合聚合物体系的影响 bFGF原液难溶于六氟异丙醇，容易析出，可通过提高水的量来增加bFGF的溶解度，如表1所示，通过改变六氟异丙醇和水的配比，可以发现，在没有水的情况下，bFGF大量析出，难以混入，而相较于 $0 . 5 \mathrm { m l }$ 的水， $0 . 2 5 \mathrm { m l }$ 水的加入能够得到机械性能更好的缝纫线，对比4.5组，主要原因为六氟异丙醇极性更大，更适合于纺丝，而过多水的加入一定程度上影响了成丝结果。而通过改变聚己内酯的量，发现 $0 . 4 5 \mathrm { g }$ 聚己内酯的加入机械性能远远不够，只有当提高聚己内酯的量达到 $0 . 6 8 \mathrm { g }$ 时，机械性能才有一个明显的提高。但是，若继续提高聚己内酯的量，见第7组，则发现过高浓度的聚己内酯会导致整个聚合物体系粘度过高，且混合不均匀，难以纺丝。通过该结果，发现随着聚己内酯组分浓度的提高，确实能够有效提高缝纫线的机械性能，但也仅限在一个范围之内，超过该浓度范围，反而影响的整个体系均匀度，难以成丝。
+
+综合比较，第5组聚合物体系最为均匀，且通过纺丝所得的缝纫线机械性能最强，作为后续研究的前提。
+
+表1各物质配比设计 Table1 the design of each material ratio.  
+
+<html><body><table><tr><td>组别</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>聚己内酯(g)</td><td>0.45</td><td>0.45</td><td>0.45</td><td>0.68</td><td>0.68</td><td>0.68</td><td>0.91</td></tr><tr><td>六氟异丙醇（mL）</td><td>6.50</td><td>6.75</td><td>7.00</td><td>6.50</td><td>6.75</td><td>7.00</td><td>6.75</td></tr><tr><td>水（mL)</td><td>0.50</td><td>0.25</td><td>0</td><td>0.50</td><td>0.25</td><td>0</td><td>0.25</td></tr><tr><td>鼠尾胶原蛋白（mg）</td><td>226.3</td><td>226.3</td><td>226.3</td><td>226.3</td><td>226.3</td><td>226.3</td><td>226.3</td></tr><tr><td>bFGF(μL)</td><td>113</td><td>113</td><td>113</td><td>113</td><td>113</td><td>113</td><td>113</td></tr><tr><td>体系均匀程度</td><td>优</td><td>优</td><td>bFGF</td><td>优</td><td>优</td><td>bFGF</td><td>体系不</td></tr><tr><td></td><td></td><td></td><td>析出</td><td></td><td></td><td>析出</td><td>均匀</td></tr><tr><td>机械性能</td><td>+</td><td>+</td><td>+</td><td>++</td><td>+++</td><td>+++</td><td></td></tr></table></body></html>
+
+注：体系均匀程度“优”表示溶质完全溶解，聚合物溶液体系稳定且不分层，“bFGF 析出”表示有少量肉眼可见的不溶性白色颗粒，“体系不均匀”表示溶液明显分层或存在大量不溶性固体。
+
+机械性能用抗张强度表示，“ $^ { + + + }$ ”表示抗张强度为 $0 . 0 0 2 0 { \sim } 0 . 0 0 2 9 \mathrm { M P a }$ ，“ $+ + ^ { , , , }$ 表示抗张强度为0.0010\~0.0019MPa，“+”表示抗张强度小于0.0010Mpa，“—”为无法成丝。
+
+Note:If the uniformity coefficient of this system puts up the “superior”, it means that solute dissolves completely and the polymer solution system is stable and no delamination.If puts up“the bFGF is precipitated, it means that there are some insoluble white particles visible to the naked eye. If puts up“the system is unevenness”,it means that the solution delaminates clearly and the are a lot of insoluble solids.
+
+Mechanical properties can be expressed in term of tensile strength.‘ $\cdot _ { + + + } , \cdot _ { }$ means that the tensile strength is ranges from 0.0020\~0.0029MPa.‘ $\cdot _ { + + }$ ’ means that the tensile strength is ranges from 0.0010\~0.0019MPa.“ $+$ ’ means that the tensile strength is less than O.Oo1o.“-” means that it unable to wire.
+
+2.2纺丝参数改变对复合纳米纤维缝纫线的影响 通过喷丝板的溶液流速是一个重要的因素，因为它影响了材料的传输量和射流速度[18]。如表2所示，我们测试了1.08mm/h、2.16mm/h、 $3 . 2 4 \mathrm { m m / h }$ 的溶液流速，发现 $2 . 1 6 \mathrm { m m } / \mathrm { h }$ 的流速可使聚合物溶液稳定通过喷丝头，得到均匀程度最好的缝纫线。在 $1 . 0 8 \mathrm { m m / h }$ 的低流速下，喷丝板提供的溶液量不足以维持电压的射流需求，从而导致均匀程度不佳；当流速增加到 $2 . 1 6 \mathrm { m m / h }$ 时，产生了一种薄而稳定的射流；当聚合物溶液的供给达到 $3 . 2 4 \mathrm { m m / h }$ 时，射流不够聚集，只能得到分散的纤维网。
+
+除了溶液流速外，电压也会影响材料的射流速度，首先我们控制其它参数，随着电压的改变，溶液的喷射也会增加[19]。我们比较了6Kv、12Kv 和18Kv的电压，发现当纺丝电压为6Kv时，纺丝射流由于牵伸力的不足而溶液形成液滴，而无法进行纺丝，故我们观察到射流弯曲不稳定，被分散成多个稀薄的射流，只有少部分聚集成纳米纤维，缝纫线的机械性能差；提高电压至12Kv时，见第7、8、9组，射流稳定，机械性能明显提高；但若继续提高电压至18Kv，由于电压过大，聚合物在牵伸过程中时间过短，导致挥发不完全，也容易形成液滴，不能纺制出形态优质、均匀程度良好的纤维缝纫线。
+
+根据以上结果，我们可得出当聚合物流速在 $2 . 1 6 \mathrm { m m } / \mathrm { h }$ ，电压为12Kv（第5 组）时，纺丝所得的手术缝纫线均匀程度和机械性能都最佳。
+
+表2静电纺丝各参数大小 Table2 parameters of electrostatic spinning  
+
+<html><body><table><tr><td>静电纺</td><td>电压</td><td>距离</td><td>喷速</td><td>接受器转</td><td>时间</td><td>均匀程</td><td>机械性</td></tr><tr><td>丝参数</td><td>(Kv) 6</td><td>(cm) 12</td><td>(mm/h) 1.08</td><td>速(r/min) 300</td><td>(min)</td><td>度</td><td>能</td></tr><tr><td>1 2</td><td></td><td>12</td><td>2.16</td><td>300</td><td>5 5</td><td>+</td><td>+</td></tr><tr><td>3</td><td>6 6</td><td>12</td><td>3.24</td><td>300</td><td>5</td><td>++ +</td><td>+</td></tr><tr><td>4</td><td>12</td><td>12</td><td>1.08</td><td>300</td><td>5</td><td></td><td>++</td></tr><tr><td>5</td><td>12</td><td>12</td><td>2.16</td><td>300</td><td>5</td><td>++ +++</td><td>++ +++</td></tr><tr><td>6</td><td>12</td><td>12</td><td>3.24</td><td>300</td><td>5</td><td>+</td><td>+</td></tr><tr><td>7</td><td>18</td><td>12</td><td>1.08</td><td>300</td><td>5</td><td>++</td><td>+</td></tr><tr><td>8</td><td>18</td><td>12</td><td>2.16</td><td>300</td><td>5</td><td>++</td><td>++</td></tr><tr><td>9</td><td>18</td><td>12</td><td>3.24</td><td>300</td><td>5</td><td>+</td><td>+</td></tr></table></body></html>
+
+注：均匀程度和机械性能用“ $^ +$ ”表示。“ $^ { + + + }$ ”为最佳，“+”为最差
+
+Note: uniformity and mechanical ability can be expressed by $" + " . " + "$ is the best, $" + "$ is the worst
+
+2.3载药缝纫线的合成和表征 以最佳组分配比配置溶液，三组聚合物溶液均呈无色粘稠状液体，见图2(a)。以最佳电纺参数制备缝纫线，得到的纺丝纳米纤维粗细均匀，并具有完整的线性结构，见图2(b)。进一步通过扫描电镜观察缝纫线的表面微观结构，能够发现PCL-Col聚合物溶液和PCL-Col-bFGF 溶液均可以生成平滑而均匀的纳米纤维束，并能够向同一个方向延伸，组合呈线状，且表面排列整齐，密集均匀，相较于单纯的PCL 纺丝，胶原和bFGF 的加入对缝纫线的表面结构并无影响，证明载药的手术缝纫线依旧具有完整的线状结构，且由粗细均匀的纺丝纳米纤维束组成，见图2(c)。此外，bFGF 难溶于六氟异丙醇，被包载于胶原蛋白中，我们可以观察到载药缝纫线上有许多散在的白色小颗粒。
+
+(a)
+
+![](images/04a76ad8f01af348d1ffddac974e73325836c34d6b909e9a7187c06da832b05e.jpg)  
+图2包载 bFGF 微粒缝纫线的合成和表征 (a)三组纺丝配置的溶液；(b)静电纺丝制得的三组缝纫线；(c)载药手术缝纫线的扫描电镜（左 $2 0 0 \times$ ，右 $2 0 0 0 \times \mathrm { ~ , ~ }$ 0
+
+Figure 2. Synthesis and characterization of bFGF particle sewing thread.(a) solution of three sets of spining configurations; (b) three sets of sewing threads made of electrostatic spinning; (c)scanning electron microscopy of the sewing thread of the drug carrier (left $2 0 0 { \bf x }$ ,right $2 0 0 0 \mathrm { { x } }$ ）
+
+2.4单次拉伸试验对韧性的检测 由于PCL成线之后本身就具有优秀的机械性能，我们通过单次的拉伸试验来检测载药之后缝纫线机械性能的改变情况。而结果表明，各组缝纫线在拉伸之后都具有一定的形变，且拉伸应力随拉伸应变增大而增大。经统计，在误差允许的范围内，PCL组、PCL-Col组和PCL-Col-bFGF组缝纫线的机械性能差异并不显著 $( P { > } 0 . 0 5 )$ ，当应变量为 $6 5 \% \sim$ $7 5 \%$ ，应力达到0.0025Mpa左右时，拉伸断裂停止，见图3。进一步，我们统计了三组线的弹性模量、最大拉伸应力、断裂时拉伸应变（位移)，见表3，发现三种线的弹性模量 $( 5 \% - 1 0 \%$ ）均在0.015Mpa左右，各组线的最大拉伸应力都稳定在0.0025MPa左右，且拉伸应变(位移)在断裂(标准)也均处于 $6 5 \% { \sim } 7 5 \%$ 之间，在统计学范围内无显著性差异（ $P { > } 0 . 0 5 )$ 。该单次拉伸实验证明bFGF和Col的加入都不会改变线的机械性能强度，也不会降低缝纫线的最大拉伸应力，使其拥有载药缓释性能的同时，仍然具有一定的韧性。
+
+![](images/90362215595d6fd4d8975ce95024dc19d59caa4945307c5f373e7419c1d95317.jpg)  
+图3 载药手术缝纫线单次拉伸图 (a)单次拉伸应力-应变量关系图；(b)单次拉伸形变示意图 Figure 3. Single stretch diagram of Surgical sewing thread. A: single tensile stress - dependent variable diagram; B: single tensile deformation diagram
+
+表3三组线弹性模量、最大拉伸应力、断裂时拉伸应变对比
+
+Table 3 Comparison of elastic modulus, maximum tensile stress and tensile strain of three groups.
+
+<html><body><table><tr><td>弹性模量</td><td>（杨氏拉 伸应力 5% -10%)(MPa)</td><td>最大拉伸应力(MPa)</td><td>拉伸应变(位移)在断 裂(标准)(%)</td></tr><tr><td>PCL</td><td>0.01162±0.00260</td><td>0.00243±0.00030</td><td>69.83719±0.28172</td></tr><tr><td>PCL+Col</td><td>0.01620±0.00067</td><td>0.00283±0.00034</td><td>66.32675±1.85487</td></tr></table></body></html>
+
+2.5循环拉伸试验对损耗量的检测 三次拉伸循环后都无拉伸断裂，在每次循环试验中，三种线均有一定的力学损耗，随着拉伸的循环次数增加，损耗量也明显增加。为了检测载药缝纫线的拉伸后的损耗情况，我们进行了循环拉伸试验，见图4。实验结果表明，第一次循环中，当形变量达到 $20 \%$ 时，载药缝纫线的拉伸应力均达到最大值，为 $0 . 0 0 0 8 { \pm } 0 . 0 0 0 4 \mathrm { M P a }$ ；第二次循环中，当形变量达到 $40 \%$ 时，载药缝纫线的拉伸应力均达到最大值，为 $0 . 0 0 1 2 { \scriptstyle \pm 0 . 0 0 0 3 \mathrm { M P a } }$ 第三次循环中，当形变量达到 $60 \%$ 时，载药缝纫线的拉伸应力均达到最大值，为 $0 . 0 0 1 5 { \scriptstyle \pm 0 . 0 0 0 4 \mathrm { P M a } }$
+
+通过计算，我们可知第一次循环中，载药缝纫线损耗量为 $0 . 8 1 0 2 \pm$ $0 . 0 0 2 5 \mathrm { J } / \mathrm { m } 3$ ；第二次循环中，载药缝纫线损耗量为 $2 . 1 6 0 6 { \pm } 0 . 0 0 2 4 \mathrm { J } / \mathrm { m } 3$ ；第三次循环中，载药缝纫线损耗量为 $3 . 0 6 1 6 { \pm } 0 . 0 0 7 7 \mathrm { J } / \mathrm { m } 3$ ，见表4，且三组缝纫线每次循环时的损耗量都无显著性差异 $( P { > } 0 . 0 5 )$ )，以此说明载bFGF和加入胶原之后不会改变拉伸后缝纫线的损耗量。
+
+![](images/42bd8b415393283b0b30f2bb2d3a4d750408b2cb5176e79b97b1ab9b4d26fa4b.jpg)  
+图4载药手术缝纫线循环拉伸图  
+Figure4.Cyclic stretch drawingofSurgicalsewingthread
+
+表4三组循环拉伸损耗量表
+
+Table 4. Three groups of cycle tensile loss scale.   
+
+<html><body><table><tr><td></td><td>第一次循环（J/m3）</td><td>第二次循环（J/m3）</td><td>第三次循环（J/m3）</td></tr><tr><td>PCL</td><td>0.8317</td><td>2.1751</td><td>3.1858</td></tr><tr><td>PCL+Col</td><td>0.7412</td><td>2.0947</td><td>2.9993</td></tr></table></body></html>
+
+2.6亲水性检测 通过测量薄膜材料表面接触角的大小检测其亲水性。当接触角 ${ < } 9 0 ^ { \circ }$ 时，材料表面具有亲水性；当接触角 ${ > } 9 0 ^ { \circ }$ 时，材料表面具有疏水性。且接触角越小，亲水性越强，反之接触角越大，疏水性越强。测得三组薄膜的水接触角，见图5，与PCL组薄膜相比，PCL-Col组和PCL-Col-bFGF 组薄膜的接触角明显减小，表明胶原蛋白的添加可以有效提高聚合物材料的亲水性能。
+
+![](images/a902a21501a628de90aaac6c3186f33a6966d748a501a6bb77c748d9c86f05fe.jpg)
+
+图5亲水性水接触角检测(a)单纯PCL纤维接触角大小；(b)PCL 结合胶原Col水接触角大小; (c)PCL 结合胶原Col包载 bFGF 水接触角大小；(d）各组水接触角统计分析图 Figure 5. Hydrophilic water contact angle detection. (a) The water contact angle of the pure PCL fiber; (b) The water contact angle of the PCL fiber combined with Col; (c) The water contact angle of the PCL fiber with addition of bFGF or Col; (d) Water contact Angle statistical analysis chart of each group
+
+2.7手术缝纫线载药释放检测 为了进一步证明载药的手术缝纫线对bFGF具有一定的缓释作用，我们通过Elisa 试剂盒对7天内的bFGF 进行检测，见表5。发现在24小时内，药物的释放具有一定的突释现象，释放的速度较快。之后，bFGF缓慢稳定持续释放，从第6小时缓慢释放到第24小时，然后进一步降低，释放到7天。且7天后，生长因子仍缓慢释放，这可以归因于聚己内酯-胶原复合结构延长了释放过程。继而用PBS缓冲溶液进一步模拟人体生理环境，结果发现bFGF 载药缝线在纯水和PBS中的释放并没有显著性差异，说明无论在纯水或PBS 缓冲液中，手术缝线都能够有效释放bFGF。由于胶原蛋白具有亲水性，能够吸收释放介质中的水分，bFGF 溶于水后，通过胶原层不断地渗透释放。而纳米纤维的三维孔径结构还能影响药物的扩散机制，孔道扩散为释放的限速步骤，对bFGF的释放起到一定的延缓作用[19,20]，药物随着PCL和Col的逐步降解缓释释放，拥有优秀的缓释性能。
+
+# 表5手术缝纫线载药释放检测
+
+Table 5 the drug release detection of surgical sewing thread.   
+
+<html><body><table><tr><td>时间（h）</td><td>在纯水中释放量（ng)</td><td>在 PBS 溶液中释放量（ng)</td></tr><tr><td>6</td><td>50.11</td><td>48.06</td></tr><tr><td>12</td><td>90.34</td><td>95.31</td></tr><tr><td>24</td><td>128.60</td><td>138.73</td></tr><tr><td>48</td><td>163.19</td><td>184.13</td></tr><tr><td>72</td><td>197.72</td><td>229.30</td></tr><tr><td>96</td><td>236.99</td><td>273.99</td></tr><tr><td>120</td><td>275.30</td><td>320.51</td></tr><tr><td>144</td><td>301.86</td><td>366.70</td></tr><tr><td>168</td><td>337.99</td><td>410.83</td></tr></table></body></html>
+
+# 3结论
+
+本实验通过静电纺丝装置，利用胶原对bFGF进行物理包载，以PCL为骨架构建一种新型的PCL-Col-bFGF 缝纫线复合材料。并通过研究控制聚合物中各物质组分的配比和静电纺丝机参数，得到均匀程度和机械性能最佳的缝纫线。然后通过力学性能检测等实验，证明加入胶原和bFGF的缝纫线在拥有药物缓释性能的同时仍具有良好的机械性能。并通过bFGF释放检测，证明通过纳米纤维载体，同时利用胶原的包载作用和纳米纤维的三维孔径支架结构，使其对bFGF具备一定的载药量和缓释作用，能够长期稳定的释放bFGF，克服bFGF水溶液不稳定、释放时间短暂等缺点，进一步为提高bFGF载药缝纫线在生物体中的应用奠定了基础。
+
+# 4参考文献
+
+1. Li JH,Linderman S W,Zhu CL,et al. Surgical Sutures with Porous Sheaths for the Sustained Release of Growth Factors. Advanced Materials,2016,28(23): 4620-4624.   
+2. Obermeier A, Schneider J, Harrasser N, et al. Viable adhered Staphylococcus aureus highly reduced on novel antimicrobial sutures using chlorhexidine and octenidine to avoid surgical site infection (SSI). PLoS One, 2018, 13(1): e0190912.   
+3. Kim H, Kim B H, Huh B K, et al. Surgical Suture Releasing Macrophage-targeted Drug-loaded Nanoparticles for Enhanced Anti-inflammatory Effect. Biomaterials Science, 2017, 5(8): 1670-1677.   
+4. Muller DA, Snedeker JG, Meyer D C. Two-month longitudinal study of mechanical properties ofabsorbable sutures used in orthopedic surgery. Journal of Orthopaedic Surgery and Research, 2016,11(1): 111.   
+5. Moon S, Gil M,Lee K J. Syringeless Electrospinning toward Versatile Fabrication of Nanofiber Web. Scientific Reports, 2017, 7: 41424.   
+6. McClellan P,Landis W J. Recent Applications of Coaxial and Emulsion Electrospinning Methods in the Field of Tissue Engineering. Bioresearch Open Access, 2016,5(1): 212-227.   
+7. Scaffaro R,Lopresti F, Botta L. Preparation, characterization and hydrolytic degradation of PLA/PCL co-mingled nanofibrous mats prepared via dual-jet electrospinning. European Polymer Journal, 2017, 96: 266-277.   
+8. Abdian N, Ghasemi-Dehkordi P, Hashemzadeh-Chaleshtori M, et al. Comparison of human dermal fibroblasts (HDFs) growth rate in culture media supplemented with or without basic fibroblast growth factor (bFGF). Cell Tissue Bank,2015,16(4): 487-95.   
+9. Han U,Park HH, KimY J, et al. Efcient Encapsulation and Sustained Release of Basic Fibroblast Growth Factor in Nanofilm: Extension of the Feeding Cycle of Human Induced Pluripotent Stem Cell Culture. ACS Applied Materials & Interfaces, 2017, 9(30): 25087-25097.
+
+10. Palama IE,Arcadio V,D'Amone S, et al. Therapeutic PCL scaffold for reparation of resected osteosarcoma defect. Scientific Reports, 2017, 7(1): 12672.
+
+11. Luo X S, Guo Z Z, He P, et al. Study on structure, mechanical property and cell cytocompatibility of electrospun collagen nanofibers crosslinked by common agents. International Journal of Biological Macromolecules,2018,113: 476-486.   
+12. Shi C Y, Chen W, Chen B, et al. Bladder regeneration in a canine model using a bladder acellular matrix loaded with a collagen-binding bFGF. Biomaterials Science, 2017, 5(12): 2427-2436.   
+13. Qian Y Z, Chen HB, Xu Y, et al. The preosteoblast response of electrospinning PLGA/PCL nanofibers: effcts of biomimetic architecture and collagen I. International Journal of Nanomedicie, 2016,11: 4157-4171.   
+14. Kuchi C, Harish G S, Reddy P S. Effect ofpolymer concentration, needle diameter and annealing temperature on TiO<sub $>$ 2</sub $>$ -PVP composite nanofibers synthesized by electrospinning technique. Ceramics International, 2018,44: 5266-5272.   
+15. Xu HL, Chen PP, ZhuGe D L, et al. Liposomes with Silk Fibroin Hydrogel Core to Stabilize bFGF and Promote the Wound Healing of Mice with Deep Second-Degree Scald. Advanced Healthcare Materials, 2017, 6(19).   
+16. Drosou C, Krokida M, Biliaderis C G. Composite pullulan-whey protein nanofibers made by electrospinning: Impact of process parameters on fiber morphology and physical properties. Food Hydrocolloids,2018,77: 726-735.   
+17. Bideau B, Bras J, Saini S, et al. Mechanical and antibacterial properties of a nanocellulose-polypyrrole multilayer composite. Materials Science and Engineering C, 2016, 69: 977-984.   
+18. Chen HL, Blitterswijk C V,Mota C, et al. Direct Writing Electrospinning of Scaffolds with Multidimensional Fiber Architecture for Hierarchical Tissue Engineering. Acs Applied Materials & Interfaces,2017, 9(44): 38187-38200.   
+19. Buzgo M,Filova E, Staffa A M, et al. Needleless emulsion electrospinning for the regulated delivery of susceptible proteins. Journal of Tissue Engineering and Regenerative Medicine, 2017, 12(3) : 583-597.   
+20. Kim Y S, Gulfam M,Lowe TL. Thermoresponsive- co-Biodegradable Linear-Dendritic Nanoparticles for Sustained Release ofNerve Growth Factor To Promote Neurite Outgrowth. Molecular Pharmaceutics,2018,15(4): 1467-1475.   
+21. Yang Y, Xia T, Zhi W,et al.Promotion of skin regeneration in diabetic rats by electrospun core-sheath fibers loaded with basic fibroblast growth factor: Biomaterials,2011,32 (18) :4243-4254.   
+22. Dohmen J, Grunewald N, Otto F, et al. Micro Structures in Thin Coating Layers: Micro Structure Evolution and Macroscopic Contact Angle.Mathematics -Key Technology for the Future,2008, XVI1,357: 75-97

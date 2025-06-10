@@ -1,0 +1,222 @@
+1 饲料中脂肪水平对团头鲂幼鱼血清生化指标及黏蛋白基因表达的影响
+
+2 习丙文1,2陆春云1,3任鸣春 1,2米海峰谢骏1,2\*（1．农业部淡水渔业与种质资源利用重点实验室，中国水产科学研究院淡水渔业研究中心，无锡214081；2．南京农业大学无锡渔业学院，无锡2140811；3．通威股份有限公司，成
+
+5 都 610000)  
+6 摘要：本试验旨在研究饲料中不同脂肪水平对团头鲂幼鱼血清生化指标及黏蛋白基因表达  
+7 的影响。试验选取540尾初始体重为 $( 1 0 . 0 { \pm } 0 . 5 ) \mathrm { g }$ 的团头鲂幼鱼，随机分为6组，每组3个  
+8 重复，每个重复30尾鱼，分别投喂脂肪水平为 $2 . 2 9 \%$ 、 $4 . 2 9 \%$ 、 $6 . 2 9 \%$ 、 $8 . 2 9 \%$ 、 $1 0 . 2 9 \%$ 和  
+9 $12 . 2 9 \%$ 的等氮等能试验饲料。饲养8周后检测鱼体生长指标、血清生化指标和表皮、肠道  
+10 中黏蛋白基因的表达。结果表明：1) $6 . 2 9 \%$ 和 $8 . 2 9 \%$ 组的增重率（WG）显著高于其他组  
+11 （ $P { < } 0 . 0 5 )$ ，饵料系数（FCR）显著低于其他组（ $P { < } 0 . 0 5$ 。2） $12 . 2 9 \%$ 组血清皮质醇含量及  
+12 谷丙转氨酶（ALT）和谷草转氨酶（AST）活性最高，显著高于 $2 . 2 9 \%$ （ $4 . 2 9 \%$ ， $6 . 2 9 \%$ 和 $8 . 2 9 \%$   
+13 组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ，但与 $1 0 . 2 9 \%$ 组没有显著差异（ $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ 。3） $8 . 2 9 \%$ 组鱼体肝脏中超氧化物歧  
+14 化酶（SOD）、过氧化氢酶（CAT）活性和还原型谷胱甘肽（GSH）含量显著高于 $2 . 2 9 \%$ 组  
+15 （ $. P { < } 0 . 0 5 )$ ；而谷胱甘肽还原酶（GR）活性在 $6 . 2 9 \%$ 组最高，除 $8 . 2 9 \%$ 组外，显著高于其他  
+16 各组 $( P { < } 0 . 0 5 )$ ；丙二醛(MDA)含量在 $6 . 2 9 \%$ 组最低，显著低于 $2 . 2 9 \%$ 和 $1 2 . 2 9 \%$ 组 $( P { < } 0 . 0 5 )$ ）°  
+17 4） $12 . 9 \%$ 组肠道黏蛋白Muc2基因表达量显著高于其他各组（ $\scriptstyle \cdot { P < 0 . 0 5 } .$ ， $8 . 2 9 \%$ 组表皮黏蛋白  
+18 Muc5b基因表达量与 $12 . 2 9 \%$ 组没有显著性差异（ $_ { . P > 0 . 0 5 ) }$ ，但显著高于其他各组（ $\scriptstyle P < 0 . 0 5 )$ ）°  
+19 5）病原菌感染试验表明， $2 . 2 9 \%$ 和 $1 2 . 2 9 \%$ 组死亡率较高， $6 . 2 9 \%$ 和 $8 . 2 9 \%$ 组死亡率较低，且  
+20 显著低于其他各组（ $\scriptstyle \cdot < 0 . 0 5$ )。综上，在本试验条件下，饲料脂肪水平在 $6 . 2 9 \% { \sim } 8 . 2 9 \%$ 时，  
+21 团头鲂幼鱼生长、抗病力和体表黏蛋白Muc5b 基因表达量最高。
+
+关键词：团头鲂；脂肪；黏蛋白；Muc5b中图分类号：S963 文献标识码：A 文章编号：
+
+黏蛋白（mucin）是黏液的重要组成部分，主要由胃肠道、呼吸道和尿道等器官黏膜组织的杯状细胞和潘氏细胞所分泌，是动物机体抵御外部病原菌入侵的重要物理屏障[1-2]。在自然界，动物与微生物普遍共生，动物机体分泌的黏蛋白对自身防御病原感染具有重要作用[3]。目前相关的报道主要集中在哺乳类和禽类，而鱼类黏蛋白的研究则较少。大多数鱼类黏蛋白研究主要针对黏液中溶菌酶、免疫球蛋白、抗菌多肽等成分[4]。相较于陆生动物，鱼类与水环境中的微生物存在紧密共生关系，为阻挡病原菌的侵袭，鱼类在体肠道、表皮、鳃等组织器官上皮覆盖着一层黏液[5]。近年来关于陆生动物黏蛋白的研究表明，饲料中碳水化合物的含量对动物肠道黏蛋白的分泌有影响；饥饿处理会改变黏蛋白在动物小肠内的分布，进而可能影响动物肠道消化和机体免疫[6-7]。团头鲂是重要的大宗淡水养殖品种，以湖北、江苏等地养殖产量最高。在一些高密度养殖地区零星发生的黏液减少、细菌性出血等疾病严重阻碍该品种的健康养殖发展[8-9]。团头鲂在养殖过程中出现体表黏液减少的问题，可能是由于养殖环境（pH、氨氮或硝酸盐）胁迫或者是营养或苗种原因。但目前关于鱼类黏液分泌调控研究相对缺乏，团头鲂体表黏液减少的原因仍然需要不断探讨。本试验以团头鲂幼鱼为研究对象，分析饲料不同脂肪水平对团头鲂幼鱼免疫力和肠道黏蛋白Muc2和表皮黏蛋白Muc5b基因表达的影响，以期为团头鲂养殖中的疾病防控提供基础理论支撑。
+
+1材料与方法
+
+# 1.1 试验鱼和试验设计
+
+试验用团头鲂幼鱼来自南京农业大学无锡渔业学院南泉实验基地，暂养在池塘网箱中。7d后，选取540尾活力强、个体规格均匀、初始体重为 $( 1 0 . 0 { \pm } 0 . 5 ) \mathrm { g }$ 的团头鲂幼鱼，随机分为6组，每组3个重复，每个重复（网箱）30尾鱼，分别投喂脂肪水平为 $2 . 2 9 \%$ 、 $4 . 2 9 \%$ ，$6 . 2 9 \%$ 、 $8 . 2 9 \%$ 、 $1 0 . 2 9 \%$ 、 $12 . 2 9 \%$ 的等氮等能试验饲料。试验饲料组成及营养水平见表1。
+
+表1试验饲料组成及营养水平（干物质基础)  
+Table 1 Composition and nutrient levels of experimental diets（DM basis ） %   
+
+<html><body><table><tr><td>项目</td><td colspan="5">脂肪水平Lipid levels/%</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Items</td><td>2.29</td><td>4.29 6.29</td><td>8.29</td><td>10.29</td><td>12.29</td></tr></table></body></html>
+
+<html><body><table><tr><td>鱼粉 Fish meal</td><td>7.50</td><td>7.50</td><td>7.50</td><td>7.50</td><td>7.50</td><td>7.50</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>16.50</td><td>16.50</td><td>16.50</td><td>16.50</td><td>16.50</td><td>16.50</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td></tr><tr><td>豆粕 Soybean meal</td><td>29.70</td><td>29.70</td><td>29.70</td><td>29.70</td><td>29.70</td><td>29.70</td></tr><tr><td>α-淀粉 α-starch</td><td>27.00</td><td>22.00</td><td>17.00</td><td>12.00</td><td>7.00</td><td>2.00</td></tr><tr><td>豆油 Soybean oil</td><td></td><td>2.00</td><td>4.00</td><td>6.00</td><td>8.00</td><td>10.00</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td></tr><tr><td>维生素C Vitamin C</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>乙氧基喹啉 Ethoxyquin</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>羧甲基纤维素 Carboxyl-methy cellulose</td><td></td><td>3.00</td><td>6.00</td><td>9.00</td><td>12.00</td><td>15.00</td></tr><tr><td>磷酸二氢钙 Ca(H2PO4)2</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels²)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>30.42</td><td>30.42</td><td>30.42</td><td>30.42</td><td>30.42</td><td>30.42</td></tr><tr><td>粗脂肪 Crude lipid</td><td>2.29</td><td>4.29</td><td>6.29</td><td>8.29</td><td>10.29</td><td>12.29</td></tr><tr><td>总能 Gross energy/(kJ/g)</td><td>15.36</td><td>15.36</td><td>15.36</td><td>15.36</td><td>15.36</td><td>15.36</td></tr></table></body></html>
+
+50 1)预混料为每千克饲料提供 The premix provided the following per $\mathbf { k g }$ of diets: $\mathrm { { C u } }$ (as   
+51 $\mathrm { C u S O 4 ^ { \cdot } 5 H _ { 2 } O }$ $2 . 5 \ \mathrm { g }$ ,Fe (as $\mathrm { F e S O _ { 4 } \cdot 7 H _ { 2 } O }$ $2 8 \mathrm { g }$ ， $Z \mathrm { n }$ (as $\mathrm { Z n S O _ { 4 } { \cdot } 7 H _ { 2 } O }$ ） $2 2 { \mathrm { g } }$ ，Mn (as $\mathrm { M n S O _ { 4 } } { \cdot } 4 \mathrm { H } _ { 2 } \mathrm { O } ) ,$   
+52 ${ \mathfrak { g } } _ { \mathbf { g } }$ ，Na (as ${ \tt N a } _ { 2 } { \tt S e O } _ { 3 }$ ) 0.045 g，K(as KI) $0 . 0 2 6 \ \mathrm { g }$ ，Co (as ${ \mathrm { C o C l } } _ { 2 } { \cdot } 6 { \mathrm { H } } _ { 2 } { \mathrm { O } } _ { \cdot }$ ， $0 . 1 \ \mathrm { g }$ ，VA 900 000 IU,   
+53 VD 250 000 IU，VO $5 0 0 0 ~ \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 2 2 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 3 2 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } \mathrm { ~ l ~ } 0 9 0 \mathrm { ~ m g }$ ， $\mathrm { V B } _ { 6 } 5 0 0 0 \mathrm { m g }$ ，   
+54 $\mathrm { V B } _ { 1 2 } 1 1 6 \mathrm { m g }$ ，生物素biotin $5 0 \mathrm { m g }$ ，泛酸盐 pantothenate $1 0 0 0 \mathrm { m g }$ ，叶酸 folic acid $1 6 5 \mathrm { m g }$   
+55 胆碱choline $6 0 0 0 0 0 \mathrm { m g }$ ，肌醇 inositol $1 5 0 0 0 \mathrm { m g }$ ，烟酸 niacin acid $2 5 0 0 \mathrm { m g }$ 。   
+56 2营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.2 饲养管理
+
+： 养殖池塘水深约 $2 . 5 \mathrm { m }$ ，养殖网箱规格为 $2 \ : \mathrm { m } { \times } 1 \ : \mathrm { m } { \times } 1 . 5 \ : \mathrm { m }$ 。试验开始后，每天定时定点、 投喂4次，日投喂量为鱼体重 $3 \% { \sim } 5 \%$ ，具体投喂量根据鱼摄食和天气情况作适当调整，每
+
+次投喂以鱼不剩残饵为准。养殖试验期间，池塘水温为 $2 5 . 5 { \sim } 3 0 . 0 ^ { \circ } \mathrm { C }$ ， $\mathfrak { p H }$ 为 $7 . 1 { \sim } 7 . 6$ ，氨氮含量 ${ < } 0 . 1 \ \mathrm { m g / L }$ ，溶氧含量 ${ > } 5 \ \mathrm { m g / L }$ ，亚硝酸盐含量 ${ < } 0 . 0 6 \ \mathrm { m g / L }$ 。整个养殖试验8周。
+
+# 1.3样品的采集与处理
+
+养殖结束后禁食 $2 4 \mathrm { h }$ ，捞取各网箱试验鱼，用MS-222（ $1 5 0 \mathrm { m g / L }$ ,Sigma）麻醉，记录鱼的数量和重量。从各网箱随机选取4尾鱼，用一次性注射器尾静脉采血，测量体长、体重，迅速将鱼在冰盘上解剖，分离内脏和肝脏称重；剪取 $0 . 1 \mathrm { ~ g ~ }$ 肝脏浸入 $1 ~ \mathrm { m L }$ RNAiso Plus（TaKaRa）的离心管中， $- 8 0 ^ { \circ } \mathrm { C }$ 冻存备用；将剩余肝脏装入自封袋， ${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C }$ 保存备用；剪取肠道和表皮组织浸入1mLRNAiso Plus 中， $- 8 0 ~ ^ { \circ } \mathrm { C } .$ 冻存备用。血液离心（ $\cdot 4 ^ { \circ } \mathrm { C }$ ， $1 0 0 0 0 \mathrm { r / m i n }$ 5min）后，血清 ${ } _ { - 2 0 } { } ^ { \circ } \mathrm { C }$ 冻存备用。
+
+# 1.3.1 血清生化指标的测定
+
+血清皮质醇（cortisol）含量采用MAGLUMI1000全自动化学发光免疫分析仪进行测定。血清谷丙转氨酶（ALT）和谷草转氨酶（AST）活性均在迈瑞 BS-400全自动生化分析仪上进行检测。检测所用试剂盒购自深圳迈瑞生物有限公司。
+
+# 1.3.2 肝脏抗氧化指标的测定
+
+肝脏样品解冻后用 $4 ^ { \circ } \mathrm { C }$ 生理盐水冲洗，滤纸吸干后称重；取适量肝脏按1:9的比例匀浆。将匀浆液离心 ( ${ } ^ { \cdot } 4 { } ^ { \circ } \mathrm { C }$ ， $ { 5 }  { 0 0 0 }  { \mathrm { r / m i n } }$ ， $1 0 \mathrm { m i n }$ ），取上清液 ${ \bf \nabla } \cdot 7 0 { \bf \nabla } ^ { \circ } { \bf C }$ 保存备用。肝脏丙二醛（MDA）和还原型谷胱甘肽（GSH）含量及超氧化物歧化酶（SOD）、谷胱甘肽还原酶（GR）、过氧化氢酶（CAT）活性均采用试剂盒测定。检测所用试剂盒购自南京建成生物工程研究所。
+
+# 1.3.3总RNA提取和cDNA 制备
+
+样品（ $_ { \leq 0 . 1 \ \mathrm { g } } ^ { } .$ ）用高通量组织破碎仪（宁波新芝生物科技股份有限公司）充分匀浆后，取上清样品。总RNA 提取严格参照 RNAiso Plus 使用步骤。获得的RNA用 NanoDrop 2000（Thermo Scientific）检测质量及浓度，选取 $\mathrm { O D } _ { 2 6 0 } / _ { 2 8 0 }$ 值在 $1 . 8 { \sim } 2 . 0$ 的样品，用PrimeScriptTMRT reagent Kit with gDNA Eraser(TaKaRa)去除残留基因组DNA，并用 ${ 5 0 } ~ \mathrm { { n g / \mu L } }$ 的RNA进行反转录，获得的cDNA在 ${ } _ { - 2 0 } { } ^ { \circ } \mathrm { C }$ 保存备用。
+
+# 1.3.4 实时荧光定量PCR分析
+
+基因表达分析采用实时荧光定量PCR（qRT-PCR）法，所用引物见表2，内参基因选用$\beta$ -肌动蛋白（ $\beta$ -actin）[10]。引物合由生工生物工程（上海）股份有限公司完成。qRT-PCR反应
+
+试剂采用 SYBR Premix Ex TaqTM II（TliRNaseH Plus）（TaKaRa），在 ABI PRISM 7500Real-time PCR System仪器上进行检测，反应程序参数设置参照薛春雨等[5]。阴性对照以灭菌双蒸水代替cDNA模板；每个样品设置3个重复。通过相对标准曲线法定量基因表达。
+
+# 表2实时荧光定量PCR所用引物
+
+Table 2 Primers used for qRT-PCR   
+
+<html><body><table><tr><td>基因 Genes</td><td>GenBank登录号</td><td>引物序列</td><td>产物长度</td></tr><tr><td>黏蛋白 Muc2</td><td>GenBank accession No. KJ152145</td><td>Primer sequences (5'-3') F: CTGCCAAAGCCTCATTCAC</td><td>Production size/bp 92</td></tr><tr><td></td><td></td><td>R:TGATACTAACTGACACCCTGCTGA</td><td></td></tr><tr><td rowspan="2">黏蛋白Muc5b</td><td rowspan="2">KF926688</td><td>F：CTGGTGTTCCCGTCTCACAA</td><td>176</td></tr><tr><td>R:CAACTCCTTTGGCAGCACAC</td><td></td></tr><tr><td>β-肌动蛋白β-actin</td><td>AY170122</td><td>F：TCGTCCACCGCAAATGCTTCTA R:CCGTCACCTTCACCGTTCCAGT</td><td>261</td></tr></table></body></html>
+
+1.4 攻毒试验
+
+采样后剩余的团头鲂幼鱼继续饲养7d，各组随机选取30尾，用本实验室分离保存的致病嗜水气单胞菌株进行腹腔注射攻毒[]。每尾鱼注射 $0 . 1 ~ \mathrm { m L }$ 菌液（细菌浓度 $1 0 ^ { 7 } \mathrm { C F U / m L }$ ），观察并记录攻毒 $\mathtt { 1 4 d }$ 内鱼的死亡情况。
+
+# 1.5 数据统计与分析
+
+试验数据统计分析采用 SPSS18.0软件进行单因素方差分析（one-wayANOVA）和Duncan氏法进行组间多重比较， $P { < } 0 . 0 5$ 表示差异显著，试验结果以平均值 $\pm$ 标准误（ $\overline { { x } } \pm \mathrm { S E }$ ）表示。
+
+2结果
+
+2.1饲料脂肪水平对团头鲂幼鱼生长性能的影响
+
+如表3所示，随着饲料中脂肪水平的增加，增重率（WG）、饵料系数（FCR）和肥满度(CF)均有显著变化 $( P { < } 0 . 0 5 )$ ，其中， $6 . 2 9 \%$ 组和 $8 . 2 9 \%$ 组WG 显著高于其他各组 $( P { < } 0 . 0 5 )$ ，$8 . 2 9 \%$ 组CF显著高于其他各组（ $P { < } 0 . 0 5 \ \cdot$ ， $6 . 2 9 \%$ 组和 $8 . 2 9 \%$ 组FCR显著低于其他各组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ， $8 . 2 9 \%$ 组肝体比（HSI）显著高于 $1 0 . 2 9 \%$ 组（ $\scriptstyle P < 0 . 0 5$ )；各组间存活率、脏体比（VSI）无显著变化（ $P { > } 0 . 0 5 )$ 。
+
+表3饲料脂肪水平对团头鲂幼鱼生长性能和形体指标的影响
+
+Table 3Effects of dietary lipid levels on growth performance and morphology indexes of juvenile blunt snout bream (Megalobrama amblycephala)   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="6">脂肪水平Lipidlevels/%</td></tr><tr><td>2.29</td><td>4.29</td><td>6.29</td><td>8.29</td><td>10.29</td><td>12.29</td></tr><tr><td>初始体重 IBM/g</td><td>9.99±0.03</td><td>10.00±0.02</td><td>9.99±0.01</td><td>10.00±0.01</td><td>10.01±0.03</td><td>10.02±0.01</td></tr><tr><td>终末体重 FBM/g</td><td>33.52±0.85</td><td>33.73±0.62</td><td>36.12±0.24</td><td>36.91±0.40</td><td>34.21±0.25</td><td>34.74±0.90</td></tr><tr><td>增重率 WG/%</td><td>235.22±8.51c</td><td>237.33±6.24bc</td><td>261.22±2.36a</td><td>269.11±4.02a</td><td>242.11±2.55bc</td><td>247.44±9.03b</td></tr><tr><td>饵料系数FCR</td><td>1.72±0.11a</td><td>1.65±0.06a</td><td>1.50±0.03b</td><td>1.48±0.06b</td><td>1.61±0.02a</td><td>1.67±0.05a</td></tr><tr><td>存活率 SR/%</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>肥满度 CF/%</td><td>1.88±0.03bc</td><td>1.92±0.08bc</td><td>1.93±0.08b</td><td>2.08±0.03a</td><td>1.81±0.05c</td><td>1.85±0.06bc</td></tr><tr><td>脏体比 VSI/%</td><td>9.17±0.26</td><td>8.98±0.12</td><td>9.28±0.25</td><td>8.90±0.20</td><td>9.00±0.46</td><td>9.90±0.41</td></tr><tr><td>肝体比 HIS/%</td><td>1.07±0.07ab</td><td>1.08±0.03ab</td><td>1.12±0.06ab</td><td>1.19±0.04a</td><td>1.01±0.03b</td><td>1.09±0.02ab</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著 $( P { < } 0 . 0 5$ ）。下表同。
+
+Values with different superscript letters in the same row mean significantly different （204号 $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.2饲料脂肪水平对团头鲂幼鱼血清生化指标的影响
+
+如表4所示，血清皮质醇含量及ALT和AST活性随着饲料脂肪水平的升高呈逐渐上升的趋势。 $12 . 2 9 \%$ 组血清皮质醇含量及ALT和AST活性最高，显著高于 $2 . 2 9 \% . 4 . 2 9 \% . 6 . 2 9 \%$ 和 $8 . 2 9 \%$ 组（ $\scriptstyle P < 0 . 0 5 .$ ），但与 $1 0 . 2 9 \%$ 组没有显著差异（ $P { > } 0 . 0 5$ ）。
+
+表4饲料脂肪水平对团头鲂幼鱼血清生化指标的影响
+
+Table 4Effects of dietary lipid levels on serum biochemical indexes of juvenile blunt snout bream (Megalobrama amblycephala)   
+
+<html><body><table><tr><td>项目Items</td><td colspan="5">脂肪水平Lipid levels/%</td></tr><tr><td></td><td>2.29</td><td>4.29</td><td>6.29</td><td>8.29</td><td>10.29 12.29</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="7"></td></tr><tr><td>皮质醇</td><td>190.92±7.06c</td><td>226.84±6.20b</td><td>219.59±6.96b</td><td>237.30±5.97b</td><td>245.13±11.54ab</td><td>263.32±7.88a</td></tr><tr><td>Cortisol/(ng/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷丙转氨酶</td><td>3.10±0.22b</td><td>3.15±0.09b</td><td>3.47±0.13b</td><td>3.55±0.26b</td><td></td><td></td></tr><tr><td>ALT/ (U/L)</td><td></td><td></td><td></td><td></td><td>4.15±0.11a</td><td>4.53±0.10a</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷草转氨酶</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>42.33±1.90c</td><td></td><td>49.45±2.66ab</td><td>47.38±1.04bc</td><td></td><td></td></tr><tr><td></td><td></td><td>42.58±1.77c</td><td></td><td></td><td>52.20±1.73ab</td><td>54.56±1.86a</td></tr><tr><td>AST/ (U/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.3饲料脂肪水平对团头鲂幼鱼肝脏抗氧化指标的影响
+
+如表5所示，随着饲料中脂肪水平从 $2 . 2 9 \%$ 升高到 $8 . 2 9 \%$ ，鱼体肝脏中SOD、CAT活性和GSH含量呈上升趋势， $8 . 2 9 \%$ 组显著高于 $2 . 2 9 \%$ 组( $P { < } 0 . 0 5 \$ ；而GR活性在 $6 . 2 9 \%$ 组最高，除 $8 . 2 9 \%$ 组外，显著高于其他各组（ $( P { < } 0 . 0 5 )$ ；MDA含量则随着饲料中脂肪水平上升，呈现先下降后升高的趋势，在 $6 . 2 9 \%$ 组含量最低，显著低于 $2 . 2 9 \%$ 和 $12 . 2 9 \%$ 组（ $P { < } 0 . 0 5$ ）°表5饲料脂肪水平对团头鲂幼鱼肝脏抗氧化指标的影响
+
+Table 5Effects of dietary lipid levels on liver antioxidant indexes of juvenile blunt snout bream 128 (Megalobrama amblycephala)   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="6">脂肪水平Lipidlevels/%</td></tr><tr><td>2.29</td><td>4.29</td><td>6.29</td><td>8.29</td><td>10.29</td><td>12.29</td></tr><tr><td>超氧化物歧化酶 SOD/ (U/mg)</td><td>75.46±2.78c</td><td>80.15±4.22bc</td><td>88.58±8.85abc</td><td>89.94±1.99ab</td><td>85.88±0.96abc</td><td>96.79±0.89a</td></tr><tr><td>过氧化氢酶</td><td>9.07±0.19b</td><td>10.07±0.39ab</td><td>10.73±0.33ab</td><td>11.17±1.02a</td><td>10.35±0.11ab</td><td>10.51±0.38ab</td></tr><tr><td>CAT/ (U/mg)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷胱甘肽还原酶 GR/(U/mg)</td><td>34.22±0.21c</td><td>24.62±0.52c</td><td>47.41±1.33a</td><td>45.88±5.06ab</td><td>39.57±2.14bc</td><td>38.51±1.54bc</td></tr><tr><td>还原性谷胱甘肽</td><td>10.51±0.90bc</td><td>10.89±0.33b</td><td>11.84±0.19ab</td><td>12.75±0.07a</td><td>9.25±0.36cd</td><td>8.02±0.33d</td></tr><tr><td>GSH/ (U/mg)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丙二醛</td><td>2.38±0.05bc</td><td>2.16±0.11cd</td><td>2.06±0.71d</td><td>2.12±0.49cd</td><td>2.47±0.03b</td><td>3.35±0.16a</td></tr></table></body></html>
+
+129 2.4饲料脂肪水平对团头鲂幼鱼黏蛋白Muc2、Muc5b基因表达的影响
+
+如图1和图2所示，随着饲料中脂肪水平的增加，肠道黏蛋白Muc2与表皮黏蛋白Muc5b基因的表达量均呈现升高的趋势；其中，Muc2基因的最高表达量出现在 $12 . 2 9 \%$ 组，显著高于其他各组（ $P { < } 0 . 0 5$ ）；Muc5b基因表达量在8.29 组最高，与 $12 . 2 9 \%$ 组没有显著性差异（ $P { > } 0 . 0 5$ ），但显著高于其他各组（ $P { < } 0 . 0 5 \$ ）。
+
+柱状图标注不同字母表示差异显著（ $\scriptstyle P < 0 . 0 5 .$ ）。下图同。Bars with different letters meansignificantly different ( $( P { < } 0 . 0 5 )$ ). The same asbelow.
+
+![](images/e7366eb2bc0b17b5875ce05d66fd60b181b178ded82c5b7e3443f3c45469f4c4.jpg)  
+Fig.1Effects of dietary lipid levels on intestinal Muc2 gene expression of juvenile blunt snout bream (Megalobrama amblycephala)
+
+饲料脂肪水平对团头鲂幼鱼肠道黏蛋白Muc2基因表达的影响
+
+![](images/379817c2cfc64d8308422f0990d5f57d0383d51cc438baa75bfe521308c38e17.jpg)
+
+2.5饲料脂肪水平对团头鲂幼鱼感染嗜水气单胞菌后死亡率的影响
+
+如图3所示， $2 . 2 9 \%$ 和 $12 . 2 9 \%$ 组死亡率较高， $6 . 2 9 \%$ 和 $8 . 2 9 \%$ 组死亡率较低，且显著低-其他各组（ $P { < } 0 . 0 5$ ）。
+
+![](images/465a6319336158fef34b385efafa50c3f3709ee327bb96fd5452a09044f6ba5a.jpg)  
+图2 饲料脂肪水平对团头鲂幼鱼表皮黏蛋白Muc5b基因表达的影响  
+Fig.2Effects of dietary lipid levels on skin Muc5b gene expression of juvenile blunt snout bream (Megalobrama amblycephala)   
+图3 饲料脂肪水平对团头鲂幼鱼感染嗜水气单胞菌后死亡率的影响  
+Fig.3Effects of dietary lipid levels on death rate of juvenile blunt snout bream
+
+(Megalobrama amblycephala) afterchallenged with Aeromonashydrophila
+
+3讨论
+
+饲料脂肪水平对养殖水生动物生长、发育和繁殖都有显著影响；在鱼体的不同生长阶段和生活季节对饵料脂肪的需求都存在显著差异。该研究对团头鲂幼鱼进行为期8周的投喂研究结果表明，长期投喂饲料脂肪水平为 $6 . 2 9 \% { \sim } 8 . 2 9 \%$ 的团头鲂幼鱼生长的更好，饲喂该脂肪水平饲料的团头鲂幼鱼在受到嗜水气单胞菌感染后的死亡率也最低，这与蒋阳阳等[12]的研究结果相一致。笔者在养殖调研中也发现团头鲂养殖的商品饲料中脂肪水平多数控制在 $7 \%$ 左右。
+
+养殖过程中鱼体应激严重影响鱼的生长、健康和疾病的发生。皮质醇和儿茶酚胺激素含量是动物重要的应激指标[13]。机体皮质醇和儿茶酚胺含量的升高会引起血压和血糖含量升高，糖原降解等，短期应激对免疫有促进作用，长期应激造成机体免疫抑制作用[14]。养殖过程中不合适的放养密度、溶解氧含量、水质等因素都对养殖水生动物造成严重应激[15-16]。饲料营养不能满足养殖鱼类需求也会造成应激。Vielma 等[17]研究表明，长期投喂过高碳水化合物的饲料不利于欧洲鲑（Coregonus lavaretus）生长；任鸣春等[18]研究表明，投喂淀粉水平超过 $3 6 . 3 \%$ 的饲料对团头鲂的生长和抗应激有抑制作用。
+
+该试验结果表明，血清皮质醇含量随着饲料中脂肪水平的增加呈现逐渐上升的趋势，并在脂肪水平为 $12 . 2 9 \%$ 时达到最高。ALT和AST是鱼体血液中2个重要的转氨酶。ALT活性增加，表示肌肉组织或者心脏发生功能障碍，而AST活性增加，则表示肝脏出现功能障碍[19]。该试验结果显示鱼体血清 ALT和AST 的活性均随着饲料中脂肪水平的增加而上升。在罗非鱼的研究中也呈现出一致的结果[20]。较低或较高饲料脂肪水平都会引起鱼体抗病力下降，病原感染死亡率升高。
+
+黏蛋白Muc2主要分布在动物肠道，在肠道营养吸收和疾病发生中发挥重要作用[21-25]。研究表明饲料中添加β-葡聚糖可以有效提高鸡和猪肠道中Muc2基因的表达量[26-27]。本试验结果发现，随着饲料脂肪水平的增加，肠道Muc2基因的表达量呈现不断上升的趋势，表明高脂肪水平可以提高团头鲂幼鱼肠道黏蛋白Muc2基因的表达。尽管肠道黏蛋白分泌增加的具体作用不是很清楚，但肠道增厚的黏液层必将影响营养吸收。因此，投喂高脂肪水平的饲料引起的肠道黏蛋白Muc2基因表达量上调，可能是鱼体对营养吸收的自我调控。
+
+鱼体表皮黏液在调节渗透压、抵御病原侵袭等方面发挥重要作用[28-32]。表皮黏液成分非常复杂,包含有黏蛋白、免疫球蛋白、溶菌酶、凝集素等，其中黏蛋白Muc5b 是最主要的骨架成分[5]。因此，黏蛋白Muc5b基因表达量的高低影响着鱼体表黏液的多少。该研究结果表明，随着饲料脂肪水平的升高，团头鲂幼鱼表皮黏蛋白Muc5b 基因的表达量呈现先上升后下降趋势， $8 . 2 9 \%$ 试验组表达量最高。饲料中过低和过高的脂肪水平都会降低体表黏蛋白的表达。
+
+团头鲂幼鱼阶段最适饲料脂肪水平 $6 . 2 9 \% { \sim } 8 . 2 9 \%$ 。这与养殖生产中团头鲂商品饲料的脂肪水平相近。因此，商品饲料脂肪水平可能不是引起团头鲂黏液减少的主要原因。
+
+# 4结论
+
+在本试验条件下，团头鲂幼鱼饲料脂肪水平在 $6 . 2 9 \% { \sim } 8 . 2 9 \%$ 时，生长、抗病力和体表黏蛋白Muc5b基因表达量最高。
+
+参考文献：   
+[1]LINDEN S K,SUTTON P,KARLSSON N G,et al.Mucins in the mucosal barrier to infection[J].Mucosal Immunology,2008,1(3):183-197.   
+[2]TURNER JR.Intestinal mucosal barrier function in health and disease[J].Nature Reviews Immunology,2009,9(11):799-809.   
+[3]MONTAGNE L,PIEL C,LALLES JP.Effect of diet on mucin kinetics and composition:nutrition and health implications[J].Nutrition Reviews,2004,62(3):105-114.   
+[4]SHEPHARD K L.Functions for fish mucus[J].Reviews in Fish Biology and Fisheries,1994,4(4):401-429.   
+[5]薛春雨,董晶晶,习丙文,等.团头鲂黏蛋白基因muc5b 克隆及表达分析[J].动物学杂 志,2014,49(6):886-896.   
+[6]SHARMA R,FERNANDEZ F,HINTON M,et al.The influence of diet on the mucin carbohydrates in the chick intestinal tract[J].Cellular and Molecular Life Sciences,1997,53(11/12):935-942.   
+[7]SMIRNOV A,SKLAN D,UNI Z.Mucin dynamics in the chick small intestine are altered by starvation[J].The Journal of Nutrition,2004,134(4):736-742.   
+[8]张媛媛,刘波,周传朋,等.团头鲂对营养需求的研究进展[J].安徽农业科 学,2010,38(32):18239-18241.   
+[9]任鸣春,周群兰,缪凌鸿,等.团头鲂营养需求与健康研究进展[J].水产学报,2015,39(5):761-768.   
+[10]ZHAO Y H,GU Y,LI S,et al.Cloning,identification and accurate normalization expression analysis of PPARa gene by GeNorm in Megalobrama amblycephala[J].Fish & Shellfish Immunology,2011,31(3):462-468.   
+[11]夏飞,梁利国,谢骏.团头鲂病原嗜水气单胞菌的分离鉴定及药敏试验[J].水产科 学,2012,31(10):606-610.   
+[12]蒋阳阳,李向飞,刘文斌,等.不同蛋白质和脂肪水平对1龄团头鲂生长性能和体组成的影响[J]. 水生生物学报,2012,36(5):826-836.   
+[13]SUN L T,CHEN G R,CHANG C F.Acute responses of blood parameters and comatose effects
+
+in salt-acclimated tilapias exposed to low temperature[J].Journal of Thermal Biology,1995,20(3):299-306.
+
+[14]刘波,王美垚,谢骏,等.低温应激对吉富罗非鱼血清生化指标及肝脏 HSP70 基因表达的影响 [J].生态学报,2011,31(17):4866-4873.   
+[15]王文博,汪建国,李爱华,等.拥挤胁迫后鲫鱼血液皮质醇和溶菌酶水平的变化及对病原的敏 感性[J].中国水产科学,2004,11(5):408-412.   
+[16]徐勇,张修峰,曲克明,等.不同溶氧条件下亚硝酸盐和氨氮对半滑舌鳎的急性毒性效应[J].海 洋水产研究,2006,27(5):28-33.   
+[17]VIELMA J,KOSKELA J,RUOHONE K,et al.Optimal diet composition for European whitefish (Coregonus lavaretus):carbohydrate stress and immune parameter response[J].Aquaculture,2003,225(1/2/3/4):3-16.   
+[18]任鸣春,贾文锦,戈贤平,等.饲料不同淀粉水平对团头鲂成鱼生长性能、消化酶活性及肌肉成 分的影响[J].水产学报,2014,38(9):1494-1502.   
+[19]万金娟,刘波,戈贤平,等.维生素C对团头鲂幼鱼生长、血液学及肌肉理化指标的影响[J]. 上海海洋大学学报,2013,22(1):112-119.   
+[20]石桂城,董晓慧,陈刚,等.饲料脂肪水平对吉富罗非鱼生长性能及其在低温应激下血清生化 指标和肝脏脂肪酸组成的影响[J].动物营养学报,2012,24(11):2154-2164.   
+[21]李云燕,卢放根,侯恒,等.益生菌对溃疡性结肠炎小鼠结肠粘蛋白MUC2和PPARγ的影响[J]. 山西大同大学学报（自然科学版）,2009,25(1):53-56.   
+[22]VELCICH A,YANG W C,HEYER J,et al.Colorectal cancer in mice genetically deficient in the mucin Muc2[J].Science,2002,295(5560):1726-1729.   
+[23]HANSKI C,RIEDE E,GRATCHEV A,et al.MUC2 gene suppression in human colorectal carcinomas and their metastases:in vitro evidence of the modulatory role of DNA methylation[J].Laboratory Investigation,1997,77(6):685-695.   
+[24]JOHANSSON M E V,PHILLIPSON M,PETERSSON J,et al.The inner of the two Muc2 mucin-dependent mucus layers in colon is devoid of bacteria[J].Proceedings of the National Academy of Sciences of the United States of America,2008,105(39):15064-15069.
+
+[25]MIZOGUCHI A,MIZOGUCHI E.Inflammatory bowel disease,past,present and future:lessons from animal models[J].Journal of Gastroenterology,20o8,43(1):1-17.
+
+[26]COX C M,SUMMERL H,KIM S,et al.Immune responses to dietary $\beta$ -glucan in broilerchicks during an Eimeria challenge[J].Poultry Science,2010,89(12):2597-2607.
+
+[27]SMITH A G,O'DOHERTY J V,REILLY P,et al.The effects of laminarin derived from Laminaria digitata on measurements of gut health:selected bacterial populations,intestinal fermentation,mucin gene expression and cytokine gene expression in the pig[J].British Journal of Nutrition,2011,105(5):669-677.
+
+[28]LEMAITRE C,ORANGE N,SAGLIO P,et al.Characterization and ion channel activities of novel antibacterial proteins from the skin mucosa of carp (Cyprinus carpio)[J].The FEBS Journal,1996,240(1):143-149.
+
+[29] EBRAN N,JULIEN S,ORANGE N,et al.Isolation and characterization of novel glycoproteins from fish epidermal mucus:correlation between their pore-forming properties and their antibacterial activities[J].Biochimica et Biophysica Acta (BBA)-Biomembranes,2000,1467(2):271-280.
+
+[30]FERNANDES JM O,KEMP G D,MOLLE M G,et al.Anti-microbial properties of histone H2A from skin secretions of rainbow trout,Oncorhynchus mykiss[J].Biochemical Journal,2002,368(2):611-620.
+
+[31]BERGSTROM K S B,KISSOON-SINGH V,GIBSON D L,et al.Muc2 protects against lethal infectious colitis by disassociating pathogenic and commensal bacteria from the colonic mucosa[J].PLoS Pathogens,2010,6(5):e1000902.
+
+[32]VAN DER MAREL M,ADAMEK M,GONZALEZ S F,et al.Molecular cloning and expression of two $\beta$ -defensin and two mucin genes in common carp (Cyprinus carpio L.) and their up-regulation after $\beta$ -glucan feeding[J].Fish & Shellfish Immunology,2012,32(3):494-501.
+
+Dietary Lipid Level Affects Serum Biochemical Indexes and Mucin Gene Expression of Juvenile Blunt Snout Breams (Megalobrama amblycephala)
+
+XI Bingwen $^ { 1 , 2 }$ LU Chunyun1.3REN Mingchun1,2MI Haifeng³XIE Jun1,2\* (1. Key Laboratory of Freshwater Fisheries and Germplasm Resources Utilization, Ministry of Agriculture, Freshwater Fisheries Research Center, Chinese Academy of Fishery Sciences, Wuxi 214081， China; 2. Wuxi Fisheries College, Nanjing Agricultural University， Wuxi 214081, China; 3. Tongwei Co., Ltd., Chengdu, 610000, China)
+
+Abstract: This study was aimed to investigate the effects of dietary lipid level on serum biochemical indexes and mucin gene expression of Juvenile blunt snout breams (Megalobrama amblycephala). A total of 540 juvenile blunt snout breams with an initial average body weight of （20 $( 1 0 . 0 { \pm } 0 . 5 ) \$ g were randomly divided into 6 groups with 3 replicates in each group and 3O fish in each replicate and fed isonitrogenous and isoenergetic diets containing $2 . 2 9 \%$ ， $4 . 2 9 \%$ ， $6 . 2 9 \%$ （204号 $8 . 2 9 \%$ ， $1 0 . 2 9 \%$ ， $12 . 2 9 \%$ lipid，respectively. After 8-weeks feding trail， the growth， serum biochemical indexes and mucin gene expression in skin and intestine were detected. The results showed as follows: 1) the weight gain rate (WG) in $6 . 2 9 \%$ and $8 . 2 9 \%$ groups was significantly higher than that in other groups $( P { < } 0 . 0 5 )$ ,while the feed conversion ratio (FCR) was significantly lower than that of other groups ( $( P { < } 0 . 0 5 )$ . 2) Cortisol content and alanine transaminase (ALT) and aspartate transaminase (AST) activities in $12 . 2 9 \%$ group were the highest, and significantly higher than those in $2 . 2 9 \%$ ， $4 . 2 9 \%$ ， $6 . 2 9 \%$ and $8 . 2 9 \%$ groups $( P { < } 0 . 0 5 )$ ,but not significant in $1 0 . 2 9 \%$ （204号 group $( P { > } 0 . 0 5 )$ . 3） The activities of superoxide dismutase (SOD)，catalase (CAT） and GSH content in $8 . 2 9 \%$ group were significantly higher than those in $2 . 2 9 \%$ group $( P { < } 0 . 0 5 )$ ； glutathione reductase (GR) activity in $6 . 2 9 \%$ was the highest, and significantly higher than that in other groups except for $8 . 2 9 \%$ group $( P { < } 0 . 0 5 )$ ; malonaldehyde (MDA) content in $6 . 2 9 \%$ group was the lowest, and significantly lower than that in $2 . 2 9 \%$ and $12 . 2 9 \%$ groups $( P { < } 0 . 0 5 )$ . 4) The intestinal Muc2 gene expression level in $12 . 2 9 \%$ group was significantly higher than that in other groups （20 $( P { < } 0 . 0 5 )$ ; there was no significant difference in the skin Muc5b gene expression level between （204号 $8 . 2 9 \%$ and $12 . 2 9 \%$ groups ( ${ \mathrm { \ P } } { > } 0 . 0 5 { \mathrm { \ } }$ ）,but significantly higher than other groups $( P { < } 0 . 0 5 )$ . 5) After challenged, the death ratio in $2 . 2 9 \%$ and $12 . 2 9 \%$ groups is the highest and that in $6 . 2 9 \%$ and
+
+$8 . 2 9 \%$ groups was the lowest, and was significantly lower than other groups $( P { < } 0 . 0 5 )$ In conclusion,under this experiment conditions,when the dietary lipid levels are $6 . 2 9 \%$ to $8 . 2 9 \%$ Juvenile blunt snout breams have the best growth, disease-resistant ability,and skin Muc5b gene expression level.
+
+Key words: Megalobrama amblycephala; lipid; Mucin; Muc5b

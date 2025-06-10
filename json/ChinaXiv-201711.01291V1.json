@@ -1,0 +1,414 @@
+[
+    {
+        "type": "text",
+        "text": "CN 53-1189/P ISSN 1672-7673 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高精度天线指向控制算法的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李宁1,²，刘志勇¹，王娜¹，雷志刚（1.中国科学院新疆天文台，新疆 乌鲁木齐830011；2.中国科学院大学，北京100049;3.中国电子科技集团公司第39研究所，陕西西安710065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：随着射电天文的发展，大口径天线的角分辨率越来越高，对天线指向精度的要求高达 $1 ^ { \\prime \\prime }$ 量级。由于天线伺服驱动力矩的脉动造成低频谐振，传统PI(D)调节器难以满足更高指向跟踪的需求。结合射电望远镜的工况、伺服控制目的及控制器设计原则，采用一种基于线性自抗扰控制算法，并应用于某天线位置环仿真。分析结果表明，该算法不仅有良好的动态性能和控制精度，而且有较强的鲁棒性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：指向精度；低频谐振；伺服控制；线性自抗扰控制；鲁棒性中图分类号：TP273 文献标识码：A 文章编号：1672-7673(2017)04-0414-07",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "全可动射电望远镜主要应用于射电天文观测和深空探测，准确指向并稳定跟踪目标天体是射电望远镜的基本功能。随着射电天文研究的深人和天线制造技术的发展，全可动射电望远镜的口径越来越大，天线重量随之增加，但天线结构刚度下降，进而使得天线固有频率降低，对天线控制精度带来巨大的挑战。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据天线接收信号功率不低于 $5 0 \\%$ 及分辨要求，定义天线的角分辨率为天线半功率束宽（HPBW）。为了使天线指向引起的增益误差小于 $3 \\%$ ，要求天线电轴指向精度小于半功率束宽的 $1 / 1 0$ 。在跟踪模式下，为使望远镜电轴保持在指向精度内，要求望远镜伺服系统具有优越的控制精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，观测 $1 0 0 \\mathrm { G H z }$ 以上波段时，美国 $1 0 0 \\mathrm { ~ m ~ }$ 绿岸望远镜(Green Bank Telescope，GBT)要求平均风速小于 $1 \\mathrm { m / s }$ 时的指向精度优于 $1 ^ { \\prime \\prime }$ ，平均风速小于 $4 \\mathrm { m / s }$ 时的指向精度优于 $1 . 5 \"$ ；国内 $6 5 \\mathrm { m }$ 天马望远镜要求风速小于 $4 ~ \\mathrm { m / s }$ 时的指向精度优于 $3 ^ { \\prime \\prime }$ 。拟在新疆奇台建设的 $1 1 0 \\mathrm { m }$ 全可动射电望远镜（QiTairadio Telescope，QTT）[1]要求指向精度优于 $1 . 5 \"$ ，满足 $7 \\mathrm { m m }$ 甚至 $3 \\mathrm { m m }$ 波段观测对天线指向精度的要求，无疑对伺服控制设计提出极高的挑战。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1射电望远镜天线指向的影响因素",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "射电望远镜天线电轴通过机械轴带动，对于轮轨式天线，机械轴靠天线方位电机和俯仰电机的运动实现。理想情况下，天线电轴与机械轴重合。由于加工精度、安装工艺[2]、天线自重、工作环境温度变化、雨雪等因素使得天线结构形变，造成电轴与机械轴偏差，且不同俯仰角和大气折射率[3]都影响天线的电轴指向，这些确定性载荷可通过误差修正函数修正。影响电轴指向的随机而复杂的因素主要是天线运行过程中受到的齿隙非线性、天线柔性、系统噪声、系统参数的摄动和阵风载荷。研究发现，天线在低速运行时，由于天线机械部件刚度不一致以及啮合齿轮间存在的库伦摩擦，电机驱动天线架的力矩发生脉动变化，而阵风作用的实质是给天线系统额外施加了一个低频脉动力矩，造成了天线的低频谐振[4]，影响伺服控制精度，进而降低了天线跟踪精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2伺服控制设计要求及算法分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1伺服控制设计要求",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当天线系统硬件方案确定后，影响天线伺服性能的最主要因素是控制器 $K ( s )$ 的算法。在伺服控制系统中，控制器 $K ( s )$ 根据输入设定值 $y ^ { \\prime } ( s )$ 与扰动 $w ( s )$ 、噪声 $n ( s )$ 作用下的输出值 $y ( s )$ 解算控制信号，再经过电机等驱动装置带动天线架转动，具体框图如图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd4240bae464c1268c2ce9ff2c053f7b83bdecef5281c5dc5b144521535623e1.jpg",
+        "img_caption": [
+            "图1实际控制系统框图",
+            "Fig.1Structure of a practical control system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因而伺服控制设计的目的是设计一个控制器 $K ( s )$ ，既保证控制系统的稳定性、准确性以及快速性，还由于观测波束窄，要求输出的超调量尽可能小，对一定的扰动有相应的鲁棒性，最终满足跟踪误差的要求。由图1可得到系统的跟踪误差为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ( s ) = y ^ { \\prime } ( s ) - y ( s ) = { \\frac { 1 } { 1 + K ( s ) G ( s ) } } y ^ { \\prime } - { \\frac { G ( s ) } { 1 + K ( s ) G ( s ) } } w ( s ) + { \\frac { K ( s ) G ( s ) } { 1 + K ( s ) G ( s ) } } n ( s ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由(1)式可知，由控制器 $K ( s )$ 和被控对象 $G ( s )$ 组成的开环传递函数 $K ( s ) \\setminus G ( s )$ 的增益和带宽需要优化设计在适当范围，使得系统的跟踪误差 $e ( s )$ 趋于0，实现高精度控制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2控制算法分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前应用或者研究的天线伺服控制算法(包括对扰动的处理)分为两大类：(1)基于系统精确模型的方法，比如线性高斯二次型（Linear Quadratic Gaussian，LQG）、内模控制（Internal Model Control,IMC)等。基于模型建立的控制律，在控制工程中遇到很大的挑战，鲁棒性是首当其冲的问题。无论是基于机理分析法还是模型辨识法得到的系统数学模型都忽略了高阶未建模动态，一旦系统遭遇摄动，则控制性能将发生变化。而基于鲁棒性提出的控制算法 $\\mathrm { H } _ { - } \\mathrm { i n f } ^ { [ 5 ] }$ ，其不确定性函数在工程实践中不易获得。文[6]提出基于 $\\mathrm { L Q G } + \\mathrm { G P I }$ 的控制方案可抑制因大天线刚度不足造成的抖动，但采用这种方式增大了控制的调节时间，并不能给出最优的控制量。（2)非基于系统模型或者准确模型的方法，如传统整数阶 PI(D）（以下简写PI（D)）、分数阶PID(FOPID)等调节器。目前工程应用最成熟的是PI（D)，世界各大射电望远镜的伺服控制算法也大都采用PI控制。但是由于PI控制器对采集信号的粗糙处理，使得其在控制精度要求极高的场合达不到要求。虽然分数阶PID控制器阶数的取值特点使得在鲁棒性设计上具有比传统PID控制器更为灵活的优点，系统不但可以满足稳定性要求，同时还满足系统参数鲁棒性设计的需求。但由于工程实现较复杂，目前仅限于理论分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为实现控制精度的最优，通过分析影响输出的原因，提出了基于扰动-不确定性观测/估计-消除[7]的思想；例如韩京清在详细分析了控制思想和传统PID控制器的优缺点之后，结合现代控制中状态观测反馈的思想，提出了自抗扰控制（Active Disturbance Rejection Control，ADRC）。在自抗扰控制中，将系统所受的外部扰动和内部扰动统一对待，借助扩张状态观测器(ESO)观测并补偿扰动，给出控制信号，补偿后被控对象的传递函数变成一个二阶积分器。此后，自抗扰控制获得了广泛的研究和应用，如文[8]提出的线性自抗扰控制，直接将系统输出值与观测值的差值用于观测器的输入，形成线性扩张状态观测器(LESO），参数整定也形成了一定的规模。然而，线性自抗扰控制随着线性扩张状态观测器阶次的升高，参数也随之增加，造成了调试的困难。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文[9]给出了将带有三阶线性扩张状态观测器的线性自抗扰控制(以下简称三阶线性自抗扰控制)应用于高阶系统的可能性以及参数整定方法。鉴于伺服电机的传递函数不超过二阶，以及天线的谐振频率仅限制了控制带宽，故考虑使用三阶线性自抗扰控制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "机械谐振的处理方法主要有加速度反馈、可调惯量比、凹口滤波器(或叫陷波器)和观测器法[10]加速度反馈和可调惯量比的实质都是跟踪、消除脉动的驱动力矩。凹口滤波器一般用于高频谐振，借助滤波消除谐振，但抑制谐振能力有限，且增加了设计的复杂性和难度。而观测器法采用开环方式估计的脉动力矩虽不完全准确，但是控制效果理想，结构简单易行，故本文考虑使用观测器法消除谐振。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对射电望远镜工况和伺服控制算法的分析，认为大口径射电望远镜伺服控制算法采用三阶线性自抗扰控制有较大的优势，文［10-11]也验证了这一优势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 三阶线性自抗扰控制与参数整定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三阶线性自抗扰控制结构框图如图2。其中， $y ^ { \\prime } ( s )$ 为参考输入； $z _ { 1 }$ ， $z _ { 2 }$ ， $z _ { 3 }$ 为输出信号 $y ( s )$ 、y$( s )$ 微分值和系统受到所有扰动的估计； $k _ { \\mathrm { p } }$ ， $k _ { \\mathrm { d } }$ 为PD控制器的两个系数； $b _ { 0 }$ 为被控对象增益的估计；$\\beta _ { 1 }$ ， $\\beta _ { 2 }$ ， $\\beta _ { 3 }$ 分别为三阶线性扩张状态观测器的3个系数； $u _ { 0 } ( s )$ ， $u ( s )$ 分别为PD 控制器的输出和被控对象的输入信号。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fea1d73840ad874686304a2fc9632f7569ae01c598252cd1b9fc0641d7493bad.jpg",
+        "img_caption": [
+            "图2带有三阶线性自抗扰控制的控制系统框图",
+            "Fig.2Structure of control system with three-order LADRC "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2可知被控对象的输入为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu \\ d ( s ) = ( u _ { 0 } ( s ) \\ d s - z _ { 3 } ) / b _ { 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { 0 } \\ d s \\ d s \\big ( s \\big ) = k _ { \\mathrm { p } } \\big ( y ^ { \\prime } \\ d s \\big ( s \\big ) - z _ { 1 } \\big ) - k _ { \\mathrm { d } } z _ { 2 } \\ d s .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "线性扩张状态观测器的形式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { s z _ { 1 } = z _ { 2 } + \\beta _ { 1 } ( y ( s ) - z _ { 1 } ) } \\\\ { \\qquad \\quad } \\\\ { s z _ { 2 } = z _ { 3 } + \\beta _ { 2 } ( y ( s ) - z _ { 1 } ) , } \\\\ { \\qquad \\quad } \\\\ { s z _ { 3 } = \\beta _ { 3 } ( y ( s ) - z _ { 1 } ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在估计准确时，输入到输出的传递函数 $G _ { \\mathrm { r } }$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { r } } = { \\frac { y ( s ) } { y ^ { \\prime } ( s ) } } { = } { \\frac { k _ { \\mathrm { p } } } { s ^ { 2 } + k _ { \\mathrm { d } } s + k _ { \\mathrm { p } } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$z _ { 3 }$ 到 $f$ 的传递函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { z _ { 3 } } { f } = \\frac { \\beta _ { 3 } } { \\beta _ { 3 } + \\beta _ { 2 } s + \\beta _ { 1 } s ^ { 2 } + s ^ { 3 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "线性自抗扰控制参数整定一般基于极点配置法[13-14]，即令：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { s ^ { 3 } + \\beta _ { \\mathrm { l } } s ^ { 2 } + \\beta _ { 2 } s + \\beta _ { 3 } = \\left( s + \\omega _ { \\mathrm { o } } \\right) ^ { 3 } , } \\\\ & { s ^ { 2 } + k _ { \\mathrm { d } } s + k _ { \\mathrm { p } } = \\left( s + \\omega _ { \\mathrm { c } } \\right) ^ { 2 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\omega _ { \\mathrm { o } }$ ， $\\omega _ { \\mathrm { c } }$ 分别为线性扩张状态观测器的观测带宽和PD 控制器的控制带宽。由(7)式可以得到 $\\beta _ { 1 }$ $\\mathbf { \\Omega } = 3 \\omega _ { \\mathrm { o } }$ ， $\\beta _ { { } _ { 2 } } = 3 \\omega _ { \\mathrm { o } } { } ^ { \\ 2 }$ ， ${ \\beta _ { 3 } } = { \\omega _ { \\mathrm { o } } } ^ { 3 }$ ， $k _ { \\mathrm { p } } = \\omega _ { \\mathrm { c } } ^ { ~ 2 }$ ， $k _ { \\mathrm { d } } = 2 \\omega _ { \\mathrm { c } }$ ；改写传递函数 $G _ { \\mathrm { { T } } }$ 为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { T } } = \\frac { k _ { \\mathrm { p } } } { s ^ { 2 } + k _ { \\mathrm { d } } s + k _ { \\mathrm { p } } } = \\frac { \\omega _ { \\mathrm { c } } ^ { 2 } } { s ^ { 2 } + 2 \\omega _ { \\mathrm { c } } s + \\omega _ { \\mathrm { c } } ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此时线性自抗扰控制的参数整定变为对 $\\omega _ { \\mathrm { c } }$ ， $\\omega _ { \\mathrm { o } }$ 和系统增益估计 $b _ { 0 }$ 的确定。在时域分析中，动态系统的指标是调节时间 $t _ { \\mathrm { s } }$ 和超调量 $\\sigma \\%$ ，在阶跃输入下，（8)式的超调量 $\\sigma \\%$ 不受 $\\omega _ { \\mathrm { c } }$ 影响，而根据调节时间的定义，取误差为 $2 \\%$ 时，（8)式调节时间 $t _ { \\mathrm { s } }$ 为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { \\mathrm { s } } \\approx 5 . 8 5 / \\omega _ { \\mathrm { c } } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一般为保留一定的裕量， $\\omega _ { \\mathrm { c } }$ 应该大于上式求出值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "线性扩张状态观测器的3个参数 $\\beta _ { 1 }$ ， $\\beta _ { 2 }$ ， $\\beta _ { 3 }$ 决定了观测器的观测精度，经过极点配置后3个参数是关于 $\\omega _ { \\mathrm { o } }$ 的函数。当三阶线性扩张状态观测器应用于高阶系统时， $\\omega _ { \\mathrm { o } }$ 不能取太大，否则导致系统不稳定。为使扩张状态观测器在 $\\omega _ { \\mathrm { o } }$ 取值较小的情况下仍可以获得良好的观测效果，对扩张状态观测器的参数进行如下改进，即令：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { 1 } = 3 \\omega _ { \\circ } , \\ \\beta _ { 2 } = 3 \\omega _ { \\circ } ^ { \\ 2 } , \\ \\beta _ { 3 } = d \\beta _ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $d$ 根据被控对象的特性确定。在调节时间大于1s时，一般可令：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n3 \\omega _ { \\mathrm { o } } > d \\geqslant 4 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$d$ 值确定后， $\\omega _ { \\mathrm { o } }$ 对扩张状态观测器的观测速度影响已经很小。一般可令：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n5 \\omega _ { \\mathrm { { c } } } \\geqslant \\omega _ { \\mathrm { { o } } } \\geqslant 4 \\omega _ { \\mathrm { { c } } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "至此，线性自抗扰控制除了 $b _ { 0 }$ 外的所有参数都确定，而 $b _ { 0 }$ 由调试获得。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3仿真及结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "已建天线从文献中仅能获得 $3 5 \\mathrm { ~ m ~ }$ 天线的传递函数，故本文采用某 $3 5 \\mathrm { ~ m ~ }$ 口径天线对所选控制算法进行仿真验证，其方位轴位置环传递函数为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ( s ) = \\frac { \\theta _ { \\mathrm { a } } } { U _ { \\mathrm { g } } } = \\frac { 1 9 . 7 1 2 s + 1 1 1 . 7 3 6 } { s ^ { 5 } + 6 . 5 4 s ^ { 4 } + 1 5 1 s ^ { 3 } + 5 8 0 s ^ { 2 } + 1 3 7 0 s } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\theta _ { \\mathrm { a } }$ 和 $U _ { \\mathrm { g } }$ 分别为天线的方位输出角和输入电压，利用MATLAB 软件中的 Simulink 仿真平台，搭建基于PID和线性自抗扰控制器的控制系统，仿真中取 $\\beta _ { 3 } / \\beta _ { 2 } = 6$ ，对PID与线性自抗扰控制中的PD和扩张状态观测器封装后，系统的仿真框图如图3。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/820d828938d259f3e3783e14b4a301db875e9dbbc71b1418aff5d5f7a63f27a6.jpg",
+        "img_caption": [
+            "图3基于PID和线性自抗扰控制的仿真框图 Fig.3Structure of PID&LADRC based simulation by Simulink "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图中加法器接对应的信号，扩张状态观测器的in3接测量噪声。当输入相同阶跃信号时，仿真结果如图4。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fbb97badbf8f0cd15ae2cc65e9397ccd4224799a1940ce8809f9678fe4ef6f3.jpg",
+        "img_caption": [
+            "Fig.4Simulation result of step response without disturbance "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "仿真结果表明，不加干扰时，线性自抗扰控制的调节时间( $2 \\%$ 稳态误差)比PID早近2s，超调量仅为 $7 \\%$ ，为达到这么短的调节时间，PID的超调量高达 $5 0 \\%$ 。而且线性自抗扰控制过渡过程平滑，很好地解决了快速性和超调之间的矛盾。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当加入扰动及噪声时，扰动采用Davenport功率函数，输入为带限噪声和正弦波的叠加，用来模拟系统噪声和受到的波动力矩，仿真结果如图5。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a706c8ca76895dc85cba3901d149de30d21bf135693cf112fcee217fe2bd9d6.jpg",
+        "img_caption": [
+            "图4无扰动状态下阶跃仿真结果",
+            "图5扰动状态下阶跃仿真结果",
+            "Fig.5Simulation result of step response with disturbance "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图5可以看出，线性自抗扰控制与PID都受到了扰动的影响。但线性自抗扰控制受到扰动的影响仅为 PID 的 $2 5 \\%$ ，变化幅度在稳态误差范围内，变化更平缓，表明控制性能优于PID。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当输入信号为带有一定初始位置差的斜坡信号时，用以模拟天线跟踪射电源，仿真结果如图6。由图6可以明显看到：线性自抗扰控制比PID 更快地跟踪输入信号，在给定扰动作用下，线性自抗扰",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "控制的幅值变化约为PID幅值变化的 $2 5 \\%$ ，幅值变化在终值 $2 \\%$ 的稳态范围内，表明线性自抗扰控制不仅具有良好的抗扰性能，而且具有较高的跟踪性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/21b77e5916483e539d87da42d73059fcca44abeb6185ca8e9dea6ae60430c802.jpg",
+        "img_caption": [
+            "图6扰动状态下的斜坡仿真结果",
+            "Fig.6Simulation result of ramp response with disturbance "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过仿真可以看到，与采用PID 等传统控制算法相比较，线性自抗扰控制器算法简单易行，动态特性具有明显的优越性。通过线性扩张状态观测器解决了（1)式中噪声对增益和带宽的限制，因而控制精度高，调节时间短，抗扰能力强。值得一提的是，本文采用的参数整定方法给出的是参数分布范围，具有更强的适用性。然而，仿真过程中对阵风扰动和齿隙摩擦的作用采用了外加脉动干扰进行模拟，与实际应用环境不尽吻合。虽然线性自抗扰控制使用线性静态参数扩张状态观测器显著降低了扰动的影响，但还不能做到无超调和无静差，该问题有待在后续工作中进一步研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 王娜.新疆奇台 $1 1 0 \\mathrm { m }$ 射电望远镜［J]．中国科学：物理学力学 天文学，2014，44（8)：783-794.Wang Na. Xinjiang qitai $1 1 0 \\mathrm { m }$ radio telescope［J].Scientia Sinica：Physica，Mechanica &Astronomica，2014，44(8):783-794.  \n[2] 赵聪，许谦，王娜，等.新疆奇台 $1 1 0 \\mathrm { m }$ 射电望远镜主焦点馈源换馈方案研究［J].天文研究与技术，2017，14(2)：1-7.Zhao Cong，Xu Qian，Wang Na，et al. The prime focus receiver positioner design of Xinjiangqitai $1 1 0 \\mathrm { m }$ radio telescope ［J].Astronomical Research & Technology，2017，14(2）:1-7.  \n[3] 肖明，王娜，刘志勇．大气折射对射电望远镜高精度指向的影响［J]．天文研究与技术，2016，13(1): 44-51.Xiao Ming，Wang Na，Liu Zhiyong. Atmospheric refractions and radio telescope pointingcorrections ［J].Astronomical Research & Technology，2016，13（1）：44-51.  \n[4] George Ellis，Gao Zhiqiang. Cures for low-frequency mechanical resonance in industrial servosystems [C]// Industry Applications Conference.2001:252-258.  \n[5] 张磊，廖鑫江.大口径天线伺服系统的建模及控制算法设计［J].华南理工大学学报：自然科学版，2013，41(5)：22-27.Zhang Lei，Liao Xinjiang. Modeling and control algorithm design of large-diameter antenna servosystem ［J]. Journal of South China University of Technology:Natural Science Edition，2013,41(5):22-27.  \n[6] 李鹏，保宏，尉胜腾，等. $1 1 0 \\mathrm { m }$ 大射电望远镜的两自由度复合控制器设计［J].中国科学：物理学 力学 天文学，2017，47(5)：97-104.Li Peng，Bao Hong，Wei Shengteng，et al. The design of two degree of fredom compoundcontroller for $1 1 0 \\mathrm { ~ m ~ }$ radio telescope ［J].Scientia Sinica：Physica，Mechanica & Astronomica,2017,47(5): 97-104.  \n[7] Yang Jun，Chen Wenhua，Li Shihua，et al.Disturbance/Uncertainty estimation and attnuationtechniques in PMSM drives-A survey [J]. IEEE Transactions on Industrial Electronics，2016,4: 1-12.  \n[8] Zheng Qing，Gao Zhiqiang.Active disturbance rejection control:between the formulation in time andthe understanding in frequency [J]. Control Theory and Technology，2016，14（3）:250-259.  \n[9] 柴素娟，李东海，姚小兰.高阶系统的自抗扰控制［C］/／第30届中国控制会议.2011：22-24.  \n[10] 王毅，何朕.伺服系统的摩擦补偿［J].电机与控制学报，2013，17（8)：107-112.Wang Yi，He Zhen.Friction compensation for servo system[J].Electric Machines and Control,2013，17(8):107-112.  \n[11] 孙明玮，邱德敏，王永坤，等．大口径深空探测天线的抗风干扰伺服系统［J］．光学精密工程，2013，21(6):1568-1575.Sun Mingwei，Qiu Demin，Wang Yongkun，et al.Wind disturbance rejection servo system forlarge deep space observatory antenna ［J]. Optics and Precision Engineering，2013，21（6）:1568-1575.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Research of Control Algorithm for Antenna High Pointing Accuracy ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Li Ning $^ { 1 , 2 }$ , Liu Zhiyong'， Wang Na’,Lei Zhigang³ (1.Xinjiang AstronomicalObservatory，Chinese Academyof Sciences，Urumqi 830o11,China,Email;lining@xao.ac.cn; 2.University of Chinese Academy of Sciences，Beijing 10o049,China; 3.NO.39 Research Institute of China Electronics Technology Group Corporation，Xi'an 710o65,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：With the development of the radio astronomy and the demanding for the angular resolution，the pointing error of the telescope receives a very strict limitation close to $1 ^ { \\prime \\prime }$ . In fact，it is the pulse torque that usually results in low frequency resonance exert to the antenna servo system，and the traditional PI（D） controller could not satisfy such high pointing accuracy requirements.In this paper，considering working condition of radio telescope and purpose of servo control，as well as the design principle of controller，a control algorithm based on the Linear Active Disturbance Rejection Controller（LADRC） is put to use.We applied his method to the position loop simulation of an antenna under the Simulink environment.The results prove that the LADRC control algorithm shows better dynamic property，higher control accuracy and stronger robustness. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words: Pointing accuracy； Low frequency resonance ; Servo system； LADRC ； Robustness",
+        "page_idx": 6
+    }
+]

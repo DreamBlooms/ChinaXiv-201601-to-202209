@@ -1,0 +1,124 @@
+# 二语具身认知：自动激活还是母语中介？\*
+
+白亚停何文广
+
+(曲阜师范大学 心理学院,曲阜 273165)
+
+摘要语言具身认知强调语言加工不是纯粹抽象符号的内部表征,身体和环境也在其中发挥着重要作用。已有研究多来自母语(L1)领域,二语(L2)认知中是否存在该效应及其发生机制依然存在争论。在总结行为和神经电生理学方面L2具身效应的存在的证据的基础上，结合相关研究的我们提出“自动激活”和“母语中介”两种假说,并分析和评价两种假说的优缺点和影响因素。最后讨论了该领域存在的问题并就未来研究取向进行展望,希望有助于完善语言具身认知理论,增进对双语表征机制的了解,有效提升L2教学。
+
+关键词具身认知,自动激活,母语中介,二语加工
+
+分类号 B842
+
+近来,语言具身认知引起了学界的广泛关注和兴趣,该观点认为语言加工不是完全基于抽象符号的纯粹认知活动,其间感觉、情绪、运动神经系统、身体状态及物理环境起着重要作用。加工与感知运动有关的语言会激活感知、运动涉及的脑区,即语言加工是根植于动作或感知觉的。当前语言具身认知效应的证据多来自母语(L1)领域,有关二语(L2)的研究相对较少。具身认知效应具有语言普适性吗?L2认知过程中是否会表现出具身效应？L2认知中的具身效应与L1存在什么差异？基于L1建构的具身认知理论适用于L2 加工吗？本文旨在分析、总结现有L2具身认知研究的基础上就上述问题尝试性地给出解释,希望对揭示L2表征和加工机制、提升L2教学有所帮助。
+
+# 1二语具身认知效应存在及其争议
+
+# 1.1二语具身认知效应：行为层面的证据
+
+采用图-词匹配范式,Bergen等(2010)等考察了L1为英语和L2为英语的被试在英语词汇认知中的表现。结果发现,图-词匹配条件下被试的反应时间显著快于图-词失配条件,而且L1者和L2者表现出类似的行为模式,据此研究者认为两类被试在动词理解中都激活了相应的感觉运动系统。在另一项意、英双语者为被试的研究中(Buccino et al.,2017),研究者采用 go/no go 范式(go/no go paradigm),go 任务中给被试呈现英语词汇和一些可以抓握或不能抓握的物体的图片等刺激,go条件的刺激有意义,而nogo 条件的刺激无意义(如“假词”或一些凌乱线条构成的图片)。结果显示,在go条件下,当加工表示可抓握物体的词汇和图片时,被试的反应明显减慢。这是因为执行手部动作和加工目标刺激激活了相同的感知运动系统,征用相同的认知资源,因此减缓了被试词汇判断的反应。Dudschig等(2014)使用垂直 Stroop 范式,让被试对蕴含朝上、朝下空间或积极、消极情绪词汇的颜色进行反应,结果发现当词汇空间或情绪效价和被试的反应方向匹配时(例如,看到星星或幸福词汇按上方反应键),L1德语被试和L2英语被试的反应都较快,表现出鲜明的具身效应。二语具身效应不仅体现在运动词汇的加工方面，一些非运动词汇如时间、情绪、权利及道德等抽象词的加工也表现出类似的效应。使用L1德语者和L2德语者(该类被试的L1中有与德语相同或不同的空间词汇,如英语或土耳其语)两类被试,采用 Stroop 范式的变式,让被试根据德语中空间方位介词的颜色通过手部进行向上或向下的运动反应(例如,auf"on",über"above"和unter"under/below"),结果发现两类被试都表现出显著的相容效应,说明L2德语者在加工德语方位介词的过程中也征用了相应的感知经验(Ahlberget al.,2018)。王倩(2016)考察了汉-英双语者加工和“权力”有关的英、汉词汇,在二语者身上同样发现了“权力”大小和词汇所处空间位置间的相容效应。冯茵和周蓉(2019)采用线索启动范式,考查启动线索对高、低具身性动词判断加工的影响,结果发现在启动刺激和目标刺激短间隔(Stimulus Onset Asynchrony,SOA)条件下,启动线索仅对高具身性动词加工产生了干扰作用,但在长SOA条件下,结果出现逆转,线索对高、低具身性动词的加工产生了促进效应,但该效应主要表现在高水平L2被试身上，低水平L2被试则没有效应。除却具体名词和动词L2加工中的具身效应外，以情绪为代表的抽象词汇的加工中也表现出鲜明的具身效应。沈曼琼等(2014)采用空间启动范式就二语情绪概念理解中是否激活空间信息(情绪加工的空间隐喻)进行了研究,结果显示,垂直位置方向上,跨语言和跨通道的情绪词的加工受到空间位置方向的影响，二语情绪词在单通道和跨通道中都表现出了空间隐喻。
+
+鉴于上述研究多采用单个、孤立词汇作为实验材料,使得研究结果缺乏生态效度,为此有研究采用更具生态效度的句子或文本作为实验材料研究L2具身效应。Vukovic 和Williams (2014)让荷兰L1者、英语L2 者倾听描述空间距离的英语句子,例如,On the plate in front ofyou,you can see a bone 和On the plate atthe far end ofthe table,you can seeabone。听完句子后,通过远、近不同的距离呈现句子所描述的客体,近距离的描述对应大客体,远距离的描述对应小客体。结果显示,失配条件下(近距离的描述对应小客体,或远距离的描述对应大客体)被试的反应时间显著长于匹配条件。Sheikh 和 Titone (2015)使用眼动追踪技术考察了法、英双语者自然阅读状态下的L2情绪词加工的具身效应。实验中让被试阅读含有不同情绪效价(积极、消极、中性)目标词汇的句子。结果发现,不同于L1情绪词加工,仅在首次阅读时间指标上发现L2积极情绪词的加工快于中性词,据此研究者认为L2情绪词的加工仅存在部分情绪具身效应,该结论在Foroni(2015)的研究中获得了证实。来自L1的研究表明,躯体模拟会自动化、无意识的参与到情绪词汇的认知中(Fan et al.,2018),L2 情绪语言的理解是否存在类似的躯体模拟呢？为此,Foroni向被试呈现描述情绪的句子,同时用肌电生理仪记录被试的面部肌肉活动。句子描述的情绪直接(如“Iam smiling")或间接(如“Iam frowning")对应面部颧骨肌肉活动。研究获得了类似于L1认知的结果,当阅读描述积极情绪且与肌肉活动相关的句子时,面部颧骨肌肉有显著激活,但在描述消极情绪材料的条件下,没有发现类似效应。
+
+# 1.2二语具身认知效应：神经电生理学方面的证据
+
+L2具身效应虽然获得了部分行为实验结果的支持,但也有部分实验或实验条件没有发现该效应。为进一步探究该效应存在与否及其神经生理基础,部分学者尝试使用神经电生理学技术进行研究。de Grauwe等(2014)首先采用功能性磁共振成像技术(Functional Magnetic Resonance Imaging,fMRI)考察德语(L1)-荷兰语(L2)双语者脑区激活模式。实验中以荷兰语向被试呈现同源动词(两种语言中都有)和非同源动词等词汇材料,让被试进行词汇判断。基于兴趣区和全脑分析的结果显示,无论动词同源与否,在加工简单运动相关动词的条件下,两组被试的运动脑区和躯体感觉中枢都有显著激活。据此，研究者认为L2认知中同样可以表现出类似于L1的具身效应。而且运动脑区的激活程度还受到加工语言抽象度和熟练度的影响(Tian etal.,2020)。来自L1的研究发现与身体经常发生交互的词汇易于加工,学界称之为身体-客体交互效应(Body-Object Interaction Effect,BOI),这是因为在交互作用中客体与躯体感觉系统及其相应脑区建立起联结,当表示这些客体的词汇出现时,相应躯体感觉系统及其脑区易于激活。L2认知中是否也存在BOI效应？Xue 等(2015)通过操纵句子语境感觉运动的丰富性和目标词汇BOI效应的高低,设置了4类英语句子,让汉一英双语者就句子语义合理性进行判断。事件相关电位(Event-related Potentials,ERPs)结果分析显示,感觉运动语境有助于BOI词汇的加工,具体表现为在额叶、中央顶区和枕叶高感觉运动语境、低 BOI词汇条件下诱发了较强的N400,而且在感觉运动脑区发现显著的P200效应。该结果说明,感觉运动语境有助于L2BOI词汇的加工,且行为、知觉相关语言的加工可以导致感觉运动系统及其脑区的激活。近来两项有关脑电图记录(Electroencephalograph,EEG)的研究同样发现了上述效应。采用启动-探测范式,以神经振荡的去同步化为躯体感觉运动皮层的激活指标,Vukovic 和 Shtyrov(2014)考察了德(L1)-英(L2)双语者L2加工中感觉运动皮层的参与程度。结果在刺激呈现后的 $1 5 0 \mathrm { m s }$ 就发现了语言-运动的耦合效应，虽然效应的强度不如L1表现明显,但也说明躯体感觉运动皮层参与了L2的加工。类似的结果在 Birba等(2020)的研究中也有发现。为提升研究的生态效度,研究者让西班牙(L1)-英语(L2)双语者在较为自然的条件下阅读描述动作行为的文本故事,就采集到的脑电信号采用空间聚类方式进行功能连接分析。结果显示,较之于描述非动作行为的文本,阅读描述动作的文本,L1被试的中央顶区左、右半球电极间连接增强,L2被试没有表现出类似状况,但相关分析显示,运动皮层相关的连接强度与L2熟练度正相关,与L2习得时间负相关,说明感觉运动系统及其脑区在一定程度上参与了L2运动语言的加工。
+
+尽管来自行为和神经电生理学层面的诸多研究证实了L2具身认知效应的存在,但也有研究认为L2认知具有离身性(disembodied)。框架效应(framing effect)是L1决策中常见的认知偏好(cognitive bias)现象,基于决策材料的系统理性分析和决策过程中决策者的直觉、情绪体验间的交互作用是造成上述现象的主要原因,然而Keysar等(2012)有关L2语境下认知决策的研究却发现上述框架效应的消失,为此研究者认为L2认知中高认知负荷及L2情感表征的离身性是导致决策偏见消失的主要原因。此外,Foroni有关肯定和否定语境下情绪词加工的研究发现,在肯定语境下,L2和L1表现出类似的具身效应,但在否定语境下,L2情绪词的加工则表现出离身效应。Sheikh和 Titone 有关消极情绪词汇的加工也发现了类似的效应,他们认为较之于积极情绪词汇,消极情绪词缺乏足够的具身体验的机会,所以在加工中表现出较多的离身性。王慧莉等(2017)采用垂直 Stroop 范式,考查了高熟L2被试空间词汇加工认知具身效应,结果L2词汇加工与空间反应之间联系微弱,运动反应的激活不如L1词汇加工反应明显,据此她们认为L2空间词汇的加工并没有诱发相应的感知运动系统的参与。当前有关L2认知中缺乏具身效应的解释主要有两种观点。一种观点认为L2表征不如L1精细和深刻,L2符号与其指代客体间存在“隔阂”,犹如“油”和“水”的关系,难以交融。另外一种观点则认为由于熟练度的原因,L2符号加工占用了较多的认知资源,使得双语个体没有足够的资源激活感知运动系统等具身信息(Keysar et al.,2012)。当然,加工任务同样影响到L2认知具身效应的体现。最近一项有关L2时间词汇加工空间隐喻效应的研究发现,在词汇范畴识别任务(semantic classification task,SCT)中,低熟L2被试表现出了鲜明的具身效应,但在词汇判断任务(lexical decision task,LDT)中则没有发3
+
+现具身效应(He&Bai,underreview)。
+
+# 2L2具身认知效应发生机制及其影响因素
+
+虽然诸多研究证实了L2具身效应的存在,但对该效应发生的认知机制目前尚不清晰。有研究认为,L2具身效应的发生类似于L1(Ahlberg et al.,2018; Dudschig et al.,2014; Vukovic & Shtyrov,2014),语言符号操作和词汇语义通达过程中直接诱发相应脑区及其运动系统的激活,该过程具有自发性和无意识性,本文称之为自动激活理论假设(Automatic Activation Theory,AAT)。也有研究认为L2认知中的具身效应并不是L2加工的直接效应,更多是L2加工中L1激活的结果(Ahlberg et al.,2018),即L2加工中的具身效应是以L1的激活为中介,本文称之为母语中介理论假设(Native Language Mediated Theory,NMT)。
+
+# 2.1自动激活：何以可能？
+
+L2 具身效应自动激活的证据更多来自无意识加工任务,该任务的理论假设是被试如果在没有通达 L2语义的状态下表现出具身效应,说明该效应的发生具有自动性。为此,Dudschig 等(2014)采用垂直 Stroop 任务,让被试仅对词汇的颜色进行反应而忽略词汇意义,结果显示,空间词汇和情绪词汇都存在显著的具身效应。为了进一步证实L2具身效应是基于自动化而不是L1中介的结果,研究者们比较了L1/L2具身效应发生的时间历程。如果L2具身效应是基于L1的话,其具身效应发生的时间应当滞后于L1,但分析结果显示L1/L2具身效应发生的时间点没有显著差异,二者表现出较高的同步性。为此,该研究认为L2具身效应是自动化的。de Grauwe 等(2014)使用 fMRI考察了德语(L1)-荷兰语(L2)双语者词汇判断任务中大脑激活模式。材料采用德语与荷兰语都有的同源动词及非同源动词,基于兴趣区和全脑分析显示,无论动词同源与否,在动词词汇条件下,两组被试的运动脑区和躯体感觉中枢有着类似的激活模式。据此，研究者认为L2具身效应不是基于L1认知迁移的结果,而是L2认知过程自身效应的体现。
+
+虽然基于上述发现研究者认为L2具身效应不是L1迁移的结果,具有自动化特点,但该结论尚待商榷。首先,当前支持L2具身效应自动化特点的研究多使用无意识加工任务,即让被试关注刺激材料的物理属性而忽视语义因素,但被试在关注刺激材料物理属性的过程中能有效避免L2语义的激活吗？如果该范式无法有效避免L2语义的激活，则L1语义也必然同时获得激活。因为当前诸多研究表明,双语者语言认知过程中两种语言将同时激活。例如,修正层级模型(Revised Hierarchical Model,RHM)(Wu&Juffs,2018)认为,对双语者来说,每种语言拥有独立的词汇表征系统,但在语义方面是共享表征的。交互激活模型(InteractiveActivation Plus, BIA $^ +$ )更是认为两种语言的词汇表征在某种程度上也是有机融合的(Lauro& Schwartz,2017;Monaco et al.,2019)。其次,具身效应自动激活的证据多来自L1认知。近来,研究者使用诸如脑电图仪、脑磁图(Magnetoencephalogram,MEG)、经颅磁刺激(Transcranial Magnetic Stimulation,TMS)等锁时性较强的神经电生理学技术就视觉、听觉、嗅觉不同通道的具身效应进行了研究，结果发现在语言刺激呈现后80\~170ms,被试即使没有注意语言刺激而仅是加工非语言任务,与嗅觉及运动语言刺激相关的躯体感觉皮层、感觉运动皮层呈现出显著激活(Xue etal.,2014)。感觉运动皮层自动激活的原因是什么？浸入式经历者框架(The Immersed Experiencer Frame,IEF)(Adams,2016)认为,L1的习得和使用更多是在真实环境中完成的,语言符号和其所描述的事物、客体或动作有着紧密的联系,它们作为一个有机整体构成人类大脑中的经验表征,因此当接触到语言符号的同时,相应的经验表征自动激活,从而促进语言加工。然而,L2的习得更多是在教室或相对人为的环境下进行的,学习者更多执行的是大脑内部的心理运作,语言符号与其所描述的客体、事件或动作缺乏直接的感知联系,没有形成一个完整的心理表征,所以L2具身效应的体现更多是基于语言符号描述所形成的概念或心理表象模拟的结果。再次，如果L2具身效应确实表现出自动激活,该效应表现也应当受到L2熟练度及其习得时间(Age of Acquisition,AOA)的影响,即对于早期、高熟 L2习得者来说,具身认知的自动化效应可能更明显，而晚期习得、低熟L2者则需要借助L1实现上述效应。根据修正层级模型,L2者词汇和其概念表征间的关联强度受L2熟练度的调节,对于低熟L2者而言,词汇与对应概念表征的关联强度较弱,需要借助L1才能有效实现概念表征的激活和通达,高熟L2者则可以由词汇直接激活和通达相应概念表征。
+
+# 2.2母语中介：情以何堪？
+
+母语中介理论较早的证据来自Vukovic 和Willams(2014)的研究。如1.1部分所述,实验中研究者通过听觉向荷兰L1者、英语L2者被试呈现描述远近距离不同客体的英文句子,并在句子中嵌入两种语言共同拥有的同音异形异意词(如,英文词汇“bone”在荷兰语中听起来类似“boon"[beans]/bo:n/)。结果发现,即使呈现客体的大小与句子描述距离的远近相吻合,如果L2句子中提到的该客体在L1中拥有同音异形异意词的话,被试对该客体的反应时显著增加,这是因为L2加工中被试自动模拟了来自L1中同音异形异意词知觉特征的结果。为此,研究者认为L2具身效应是L1经验自动激活的结果。Ahlberg 等人(2018)有关空间介词的研究也支持上述观点,他们认为L2加工中自动激活了L1习得时形成的心理经验痕迹,该经验痕迹的激活促成了L2具身效应的发生。如果L2具身效应发生确是以L1为中介,那么该效应发生的时间应当滞后于L1,Baumeiste 等(2017)通过神经电生理学技术证实上述假设。实验分为编码和检索两个阶段,在编码阶段让被试根据词汇的情绪效价进行范畴判断，在检索阶段则让被试判断该词汇学过与否,并使用MP150 多导生理记录仪记录被试颧骨肌和皱眉肌的肌电图(Electromyography,EMG)和皮肤电(SkinConductance Signals,SC)。结果发现,较之于L1情绪词汇,L2情绪词汇认知中诱发的EMG和 SC相对较弱,说明L1L2具身效应存在差异。更为重要的是,颧骨处的肌电图比较显示,L2情绪词诱发的神经电信号滞后于L1,且持续时间较短。
+
+分析可知,"L1\L2具身效应在表现强度和发生时间节点上的差异”是母语中介理论的主要根基,虽然上述根基获得了有关实证研究的支持,但依然令人存疑。首先,L2具身效应较弱的表现强度是由于L1中介效应的结果,还是L2熟练度相对较低的表现,难以有效分离,因为有研究表明,语言熟练度和具身效应存在正相关(Bergen et al.,2010; Sheikh& Titone,2015)。对于L1来说,丰富的语言经验使得个体的语言表征较为精细、深刻且全面,语言符号系统自身、符号指向的客体及语言符号习得的环境等因素容易形成一个有机整体表征于大脑。因此,L1加工中,些许语言线索都容易诱发完整表征的激活,从而促成较强的具身效应。但对L2尤其是低熟L2来说,其大脑表征的更多是抽象的语言符号,而符号指代物及符号习得环境等因素则游离于语言符号之外，所以L2具身效应的表现强度较弱。其次,L2具身效应在时间上滞后于L1的现象也不能充分说明L2具身效应是基于母语中介的,语言习得年龄(Acquisition of Age,AOA)及其习得方式可能是促成该现象的原因。L1习得较早,且多是通过浸入方式习得,所以从知识存在形态上来说更接近程序性知识(procedure knowledge),由于该类知识的处理和加工多依赖前额叶、额下回、基底神经等脑区,所以
+
+L1的提取和加工具有鲜明的“内隐性”和“自动化”特点。L2由于习得较晚,且多是课堂环境下习得的，所以知识形态更接近陈述性知识(declare knowledge),其加工和处理多依赖内侧颞叶、前额等脑区,在语义知识的提取和加工上多是“外显”的和“有意识”的(Chen& Caldwell-Harris,2019;何文广,2015)。由于L1\L2语义知识存在形态及其表征脑区的差异,使得L2语义知识的通达和提取滞后于L1,所以其具身效应滞后的现象也就可以理解了。再次,母语中介是建立在双语的非选择性通达理论(Non-Selective AccessTheory, NSAT)基础之上的一种假设。根据 NSAT,语言加工中双语者两种语言交互依赖,并行激活(Lauro &Schwartz,2017;Wu etal.,2013)。但问题是语言加工中,两种语言是否存在并行激活依然存有争议。早期双语选择性通达理论(Selective Access,SAT)认为双语者两种语言独立表征,分别激活(Boudelaa,2018)。近来则有研究认为,双语者心理词汇的激活和通达并非静态过程,而是一个动态的语言“连续统”，是有选择的激活和通达一种语言,还是并行激活多种语言,则取决于双语经验、任务及加工时间等因素(Morales etal,2016)。若是如此的话,母语中介理论的根基则受到质疑。
+
+# 3问题及展望
+
+目前,国内外有关L2具身效应的研究尚处于起步阶段。虽然研究者就L2具身效应的表现形式、发生机制、影响因素等问题展开了研究,并得出一些有价值的研究结论,但该领域依然有许多问题亟待解决和澄清。
+
+首先,感知运动系统是否真正参与L2认知加工目前依然存在争论(Monaco et al.,2019)。由于L2 的习得时间、习得方式及其熟练程度与L1有着较大差异,致使L2词汇语义的表征精细度不如L1,其词汇与感知运动系统的联结强度也不如L1，所以有研究认为L2（尤其是低熟L2者)认知加工是“离身性的(disembodied)”(Pavlenko&Aneta,2017)。以L2者为被试,研究者使用临床、内省分析、行为实验、神经生理学等技术就情绪语义(Hsu et al.,2010)、禁忌词加工(Sulpizio et al.,2019)、自传体记忆(Pavlenko et al,2017)、认知决策及道德判断(Keysar etal.,2012)等进行了研究,结果发现在情绪-语义的自动化耦合、情感卷入度、自传体记忆激活的精细度、决策判断的框架效应等方面,L2被试表现出更多的“离身性认知”，即他们更多基于抽象语言符号系统做出反应和判断，较少受事件发生环境、个人生活经验等具身因素的影响。虽然如此,我们认为上述研究发现并不能作为否定L2具身效应的有效证据,因为具身效应的表现并非“全或无”(Tian etal.,2020),更应当体现为一个“连续统”的过程。由于L2习得方式、习得时间及其熟练程度与L1有着较大差异,L2具身效应可能处于“连续统”的起始端,因而其表现强度、体现方式与L1有着差异。另外,来自L1的研究表明,语言认知和具身认知具有双向关系，一方面语言认知中涉及感知运动系统、具身经验的激活和参与，而感知运动系统及其相应具身经验的预激活则有助于语言认知(Marmolejo-Ramos et al.,2020)。基于此,如果具身效应确是L2认知的内在属性,则感知运动系统、情感体验或情境经验的预激活有助于L2认知,该假设有待后续研究的证实。
+
+其次,自动激活和母语中介是当前L2具身效应的两种主要的解释倾向,虽然两种理论都具有一定的合理性,但哪种理论解释更具有普适性依然无法断言。显然,有效区分两种理论的重要依据是L2具身效应发生的时间节点。自动激活理论主张L1/L2具身效应的发生在时间上具有同步性,而母语中介假说则认为L2具身效应的表现应当滞后于L1。目前为止，有两项研究旨在比较L1L2具身效应发生的时间历程(Baumeister et al.,2017;Dudschig et al.,2014; Gianeli et al.,2020),都发现L1L2具身效应具有高度同步性,倾向支持自动激活理论。由于支持自动激活理论的被试的L2都为高熟,其L2表征类似于L1,L2词汇可以直接激活语义表征，所以L2具身效应的自动激活是可以实现的,但该结论不能推论到所有L2被试群体,尤其是低熟L2被试。根据修正层级模型(Wu etal.,2018),低熟L2被试词汇层与其概念层间的联结较弱,L2语义表征概念的激活需要借助L1,因此,低熟L2具身效应的发生更可能是L1激活的结果。基于此,我们认为自动激活假设和母语中介理论不是完全对立、孰是孰非的两种理论倾向。随着L2熟练度的增加,具身效应逐渐由母语中介走向自动激活。但问题的关键是,L2到达何种熟练程度时实现母语中介向自动激活的转换？这种转换是断崖式的？还是渐进式的？二者间的转换除受L2熟练度的影响外,L2习得年龄、语言相似性、语言习得方式及任务类型在其间又起什么作用？上述问题需要深入研究。此外,考察拥有不同阅读和书写习惯方式的双语者L2具身效应的表现也许有助于上述争论的解决。研究发现,以从左至右为读写方式语系内的被试(如英语、汉语)倾向于把左边空间和过去相联系,把右边空间和将来相联系,而以从右至左为读写方式语系内的被试(如希伯来语和维语)则倾向于把左边空间和将来相联系,把右边空间和过去相联系(Graso et al.,2021;李金星,王振宏,2015;Ulrich& Maienborn,2010)。如果某一被试同时拥有并掌握不同阅读和书写习惯的两种语言,那么L2加工中将会表现出什么样的具身效应呢？根据自动激活理论，L2 时间词汇加工时空一致性效应将受L2 阅读和书写习惯的影响,而根据母语中介假说,L2时间词汇加工时空一致性效应将受L1阅读和书写习惯的影响。
+
+再次,如果母语中介理论适合低熟L2者的话,该中介作用的实现是基于词汇层面还是语义概念层面？根据修正层级理论,低熟L2词汇通过L1词汇层实现语义概念层的激活和通达。伴随着L1词汇的激活,与词汇习得时紧密整合在一起的诸如感知运动经验、情感体验、环境信息等心理表征也被自动激活，从而体现为L2具身效应(Dudschig etal.,2014)。但也有研究认为,L2具身效应的出现多是由于语义概念激活后“有意想象”的结果,而不是词汇本身自动激活的结果。正如Meteyard等(2012)所言,语义概念表征的通达是感知运动系统及其相应大脑皮层激活的前提。由于语义通达时间相对滞后于词汇物理属性的识别，且二者主要涉及的加工脑区也存在差异,前者主要涉及左侧颞叶、颞枕联合区、左侧额下回及缘上回(Shafto& Tyler,2014),后者则主要依赖左侧梭状回(颞枕联合区)、左侧纹状体、初级视觉皮层通路及纵行束(Centanni et al.,2017; Vukovic et al.,2017; Yeatman et al.,2013)。为此,采用高时间和空间分辨率的研究手段和技术当有助于上述问题的解决。
+
+作为语言与认知科学领域新近兴起的研究取向,L2具身效应还没有引起学界足够的重视,因此有关L2具身效应表现形式、发生机制、影响因素、神经基础等问题尚处于探索、争论之中。但不可否认,关注L2具身效应有着重要的理论和实践意义。从理论上来说，首先有助于丰富语言具身认知理论。上世纪80 年代以来,以语言为代表等抽象符号的认知领域出现了“离身认知(disembodied cognition)”和“具身认知(embodied cognition)"的争论(Miller et al.,2017)。“离身认知”将语言等抽象符号的认知过程看作是非模态化的、发生在大脑内部、独立于身体的纯粹逻辑符号的运作，“具身认知”则将认知过程看成是模态化的，主张认知是语言符号、身体经验、社会情境等综合作用的结果。虽然近年来学界在老年(Vallet,2015)、儿童(Desai et al.,2019)、认知障碍患者(Galese& Cuccio,2018)等群体中也发现了具身效应的存在,但这些发现都来自L1领域,难以有效说明具身效应的语言普适性,L2具身效应的发现无疑给具身效应的普7
+
+适性提供了佐证。其次,L2具身效应有助于进一步揭示双语表征机制。传统观点认为L2习得年龄及其习得方式对L2表征有着至关重要的影响,即使是高熟L2被试,如果习得年龄较晚且是通过教室等课堂环境下习得的,那么L2也很难达到类似于L1的表征方式,更多是基于抽象符号的表征,感知经验、情境因素则游离于表征之外(Pavlenko et al.,2017)。L2具身认知效应的发现,尤其是自动激活现象的发现,无疑对上述观点提出了挑战。从实践上看,L2具身认知效应的发现为L2教学提供了理论支撑和帮助。既然语言认知是具身性的,感知运动经验、情绪及环境因素在其中有着重要作用,那么应当尽量创设类似于L1的学习环境,充分融合感知运动经验、情绪和环境因素,使L2的学习更具模态化。Porter(2016)的研究发现,借助手势有助于L2词汇的习得和表征,Mayer等(2015)更是从神经层面上证实了L2具身学习的有效性。正如Macdonia(2014)所言：“通过把身体作为语言学习的工具,具身学习成为L2教学的一个分水岭”。
+
+参考文献   
+冯茵,周蓉.(2019).空间线索范式下二语动词加工的认知具身效应.外语学刊,206(1),71-78.   
+何文广.(2015).二语句法加工的认知机制、影响因素及其神经基础.心理科学进展,23(9),1540-1549.   
+李金星,王振宏.(2015).空间-时间联合编码效应:表现,影响因素及其理论.心理科学进展,23(1),30-40.   
+沈曼琼,谢久书,张昆,李莹,曾楚轩,王瑞明.(2014).二语情绪概念理解中的空间隐喻.心理学报,46(11),1671-1681.   
+王慧莉,郝晓争,陈宏俊.(2017).基于垂直 Stro0p 范式的空间二语词汇加工研究.外国语文,33(5),83-89.   
+王倩.(2016).不同二语水平双语者对权力词的具身认知加工及表征差异研究.解放军外国语学院学报,39(6),86-93.   
+Adams,A.(20l6).Howlanguage is embodiedinbilingualsandchildrenwithspecificlanguage impairment.Frontiers inPsycholog 17. https://doi.org/10.3389/fpsyg.2016.01209   
+Ahlberg,D.K.,Bischoff,H.,Kaup,B.Bryant,D.,& Strozyk,J.V.(2018).Groundedcognition:Comparing language $\times$ space interactions in first language and second language.Applied Psycholinguistics,39,437-459.   
+Baumeister,J.C.,Francesco,F.,Markus,C.umiati,R.,&Piotr,W.(o7).Embodimentand emotionalmemoryinfrsts. second language. Frontiers in Psychology, 8. https://doi.org/10.3389/fpsyg.2017.00394   
+Bergen,B.,Lau,T.T.C.,rayn,S.tjanovic,.&eeer,K.().odyparrpresentationinrbalsematisemo and Cognition,38,969-981.https://doi.org/10.3758/MC.38.7.969   
+Birba,A.,Guerro,D.B.,Caro..,evisan,P.,&Garcia,A.. ().otor-systemdyamcsdringnaturalsticadngof action narratives in first and second language. Neurolmage, 216,116820.   
+Boudelaa，S.(2O18).Non-selectivelexicalaccessinlate Arabic-English bilinguals:Evidence fromgating.Journalof Psycholinguistic Research,47,913-930.   
+Buccino,G.,Marino,B.F.,Bulgareli，C.,& Mezzadri,M.(2017).Fuentspeakersofsecondlanguage processgraspablenoun expressed inL2 like in their native language.Frontiers ofPsychology,8.htps:/doi.org/10.3389/fpsyg.2017.01306   
+Centani,T..,King,L.Wddy.D.Witfield-Gabrieli,S.,&Gabrieli,J.D.E.(7).Dvelopmentofsesiivity specificity for print in the visual word form area. Brain & Language, 170, 62-70.   
+Chen,Z.,&Caldwell-Harrs,C.(019).Investigatingthedeclarative-procedural gapfortheindirect speechconstructioninL2 learners.Journal of Psycholinguistic Research,48(1),1025-1049.   
+de Grauwe,S.,Wilems,R.M.,Rueschemeyer,S.A.,Lemhofer,K.,&Schriefers,H.(2O14)Embodiedlanguageinfist-and second-languagespeakers:Neural corelatesof processingmotorverbs.Neuropsychologia，56，334-349. https://doi.org/10.1016/j.neuropsychologia.2014.02.003   
+Desai,S.,Bladder,,&opoic,V(l9).Cden'sbodiedtuitieinteractiodsignspctsofbdinttetiol Journal ofChild-Computer Interaction,21,89-103.   
+Dudschig, C.,dela Vega,I,&Kaup,B.(014).Embodimentandsecond-language: Automaticactivationofmotorresponssduring processing spatiallyasociated L2 words and emotion L2 words in a vertical stroop paradigm. Brainand Language.132
+
+(Suppl.C), 14-21. nttps://d01.0rg/10.1016/j.bandl.2014.02.002   
+Fan,L.,Xu,Q.,Wang,X.,Xu,F.,Yang,Y,&Lu,Z.(2018).Theautomaticactivationofemotion words measuredusing the emotional face-word stroop task in late Chinese-English bilinguals. Cognition & Emotion,32(2),315-324.   
+Foroni,F.(2015).Dweembodysecondlanguage?Evidenceforartial'simulationduring processingofascondlanguage.Brain Cognition, 99, 8-16.   
+Gallse,V.,&Cucco,V.(18).Tenuralexploittionhypothesisanditsimplicationsforanembodiedapproachtolanguageand cognition:Insights fromthestudyofactionverbs procesing and motordisorders inParkinson'sdisease.Cortex，100,215- 225.https://oi.org/10.1016/j.cortex.2018.01.010   
+Gianeli,C.,Ke,Kresti,S.LencaragliaS.,&VoltaR.D. ().Actionproceinginhmotossm:Taal magnetic stimulation(TMS)evidenceof shared mechanisms inthe visualand linguistic modalities.Brain and Cognition,139. https://doi.org/10.1016/j.bandc.2019.105510   
+Graso,C.L.egler,J.C,rault,JCoullJ.T&ontant,.(1).stiegosby:Space-tieompaibilityectsi wordrecognition.JournalofExperimentalPsychology Learning Memoryand Cognition.htps:/doiorg/10.1037/xlm001007   
+He,W.G.，&Bai,Y.T. (undereiview).Sensorimotor system involved in less advanced L2 processing:Evidence fromsemantic category decision task. Acta Psychologica.   
+Hsu, C.T.,Jacobs,A.M.,&Conad,M.(015).Canharrypottestillput aspellonusinasecond languageAnfMstudyon reading emotion-laden literature in late bilinguals. Cortex, 63,282-295.   
+Keysar,B.,Hayakawa,S,&An,S.G. (O12).Theforeign-languageefect:Tinkinginaforeigntonguereducesdecisionbases. Psychological Science, 23(6), 661-668.   
+Lauro,J.,&hwartz,A.I. (17).Blinguano-selectielexicalaccessinntencecontexts:Ameta-analyticvie.Joualf Memory & Language, 92,217-233.   
+Macedonia,M.(2014).Bring back the body into the mind: Gestures enhance word learning in foreign language.Frontiers in Psychology, 5. htps://doi.org/10.3389/fpsycg.2014.01467   
+Marmolejo-Ramos,F.,Murata,A.,Sasaki,K.,Yamada,Y.,&Ospina,R.(2O20).Yourfaceand movesseemhappier whenIsmile: Facial action influences theperceptionofemotional facesadbiological motionstimuli.ExperimentalPsychology67(1),-9.   
+Mayer,K.M,iaceoa,,&oegsin,K.().aldoororesditlyportteio of foreign language words. Current Biology, 25, 530-535.   
+Meteyard,L.Cuadrado,S.R.,ahrami,B,&ViglioccoG.(12).Comingofage:Areviewfembodimentandtheeuroience of semantics. Cortex, 48,788-804.   
+Miller,J,Broie,KWales,.Walce,S.,&Kup,B.().boedgio:Isctatiofteotorortexr understanding action verbs? Journal ofExperimental Psychology: Learning,Memory and Cognition,44(3),335-370.   
+Monaco,E.,Jost,L.B.Gygax,P.M.&Annoni,J.M. (219).Embodiedsemanticsinasecond language:Crticalreviewand clinical implications.Frontiers in Human Neuroscience,13. htps://doi.org/10.3389/fnhum.2019.00110   
+Morales,L.aolierD.ussiasP.E.,Krof,J..Verfen,C.,&Bajo,.T(6).egendercongruencyectuig bilingual spoken-word recognition. Bilingualism: Language and Cognition, 19,294-310.   
+Pavlenko,A. (2017).Doyou wish towaiveyour rights? Affect anddecision-making inmultingual speakers.Curent Opinion in Psychology, 17,74-78.   
+Porter,A.M. (2O16).Ahelping hand with language learning:TeachingFrenchvocabularywithgesture.LanguageLearning Journal, 44,236-256.   
+Shafto,M.A,&Tyler,L.K. (2O14).Languagein theaging brain: Thenetworkdynamicsofcognitive declineand preservation. Science, 346(6209), 583-587.   
+Sheikh,N.A.,&Titone,D.(2015).Theembodimentofemotional words inascondlanguage: Aneye-movement study.Cognition and Emotion,30(3),1-13.   
+Sulpizio,S.,oti,ashio,.,Costa,.,&butalebi,J.(9).reyreallyursiguraprocingoftabodsin native and foreign language. Brain and Language, 194, 84-92.   
+Tian,L.,Chen,HZhao,W.,Wu,J,&Parviinen,T.(l9).Teoleofmotorsysteiactio-relatedlanguagecompreioin
+
+L1 and L2: An fMRI study. Brain and Language,201,104714. https:/doi.org/10.1016/j.bandl.2019.104714   
+Ulrich,R.,& Maienborn,C. (2O10).Left-rightcoding ofpast and future in language:The mental timelineduringsentence processing. Cognition,117(2),126-138.   
+Valet,G.T.(015).Embodiedcognitionofaging.FrontiersinPsychology6,463.htps:/oiorg/13389/fpsyg.2015.00463   
+Vukovic,N,Feura,pektorA.，yachkovA.&tyrov,Y.(O7).Primarymotorcorexfuctionallytributesto language comprehension: An online RTMs study. Neuropsychologia, 96,222-229.   
+Vukovic,N.,&Shtyrov,Y.(O14).Corticalmotorsystemsareinvolvedinsecond-languagecomprehension:Evidence fromapid mu-rhythm desynchronisation. Neuroimage,102,695-703.https://doi.org/10.1016/j.neuroimage.2014.08.039   
+Vukovic,N.,& Willams,J.N. (O14).utomaticperceptualsimulationoffirstlanguagemeanngsduringscondlanguagtence processing in bilinguals.Acta Psychology,145,98-103. htps:/doi.org/10.1016/j.actpsy.2013.11.002   
+Wu,Y.J.,ristek,CrG.().lectiicacsigalsistaeddt input monitoring: Evidence from eye tracking. Cognition, 129(2),418-425.   
+Wu,Z.,&Juffs,A.(2O18).Revisiting therevised hierarchical model:Evidence forconcept mediation inbackward translation. Bilingualism: Language and Cognition,1-15. https://doi.org/10.1017/S1366728917000748   
+Xue,J.,armoejamos,F,&Xuna,P.(15).Tegsticotexteectsoeprocsingofodyjectinteractis: An ERP study on second language learners. Brain Research,37-48.   
+Yeatman,J.Dauschecker,A.M,&Wadell,.A.(Ol3).Anatomyoftheisualwordforarea: Adjacentcorticaliitsad long-range white matter connections. Brain & Language, l25(2),146-155.
+
+# The embodied cognition effect of the second language: Automatic activation or native language mediation?
+
+BAI Yating, HE Wenguang (Institute of psychology, Qufu Normal University, Qufu 273165,China)
+
+Abstract:Embodied language cognition highlights that language processng isnot only involves internal representation of purely abstract symbols but also bodyand environment which play an important role.The majority of the evidences are from the field of the first language (L1),and there is still debate on whether this effect exists in second language (L2) cognition or not. We proposed two hypotheses,“automatic activation”and “native language mediation”,after summarizing the evidences for the L2 embodiment efect from behavioral and neurophysiological studies.And we analyzed the advantages,disadvantages,and influencing factors.Finally, the existing issues in this field and the research orientation in the future are discussed,studies on these issues are helpful to enrich the theory of language embodied cognition and further clarify the mechanism of bilingual representation, and effectively improve L2 teaching.
+
+Keywords: embodied cognition, automatic activation, native language mediation, L2 processing

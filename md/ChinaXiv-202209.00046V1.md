@@ -1,0 +1,286 @@
+# 社区居民健康科普需求及其影响因素现况调查
+
+黄梦洁¹，曾雷霄²，葛蒲³，闵鹤葳4，黄新城，王雨佳，吴一波47\*基金项目：2021年陕西省教育厅科研计划项目——哲学社会科学重点研究基地项目“基于全媒体平台数据的居家健康状况与自主健康研究”（项目编号：21JZ017）。
+
+1.250012山东省济南市，山东大学公共卫生学院  
+2.100086北京市海淀区，中国人民大学新闻学院  
+3.273300山东省临沂市，澳门大学健康科学学院公共卫生与医药管理系  
+4.100191北京市，北京大学公共卫生学院  
+5.102600北京市，北京印刷学院经济管理学院  
+6.150081 黑龙江省哈尔滨市，哈尔滨医科大学人文社会科学学院  
+7.712046 陕西省西安市，陕西（高校）哲学社会科学重点研究基地-健康文化研究中心  
+\*通信作者：吴一波，陕西（高校）哲学社会科学重点研究基地-健康文化研究中心副主任、研究员；E-mail:  
+bjmuwuyibo $@$ outlook.com
+
+【摘要】背景对社区居民进行健康科普的工作，提高居民健康素养是健康促进中不可或缺的一步。目的调查社区居民健康科普需求现状，探索社区居民对健康科普内容、渠道和形式需求的影响因素。方法本次研究是 2020年1月19日-3月12日在中国开展的社区居民的横断面、多阶段抽样在线调查，研究对象为近三月内居住在中国大陆的具有中国国籍的社区居民，年龄在12岁以上并且能够理解问卷每个条目所表达含义。采用自行设计的问卷调查人口社会学特征和社区健康科普的内容、渠道、形式需求。数据采用单因素logistic 回归，有序logistic 回归分析处理。结果共纳入2679份有效问卷。在健康科普的内容方面，社区居民对于美容整形需求相对较低 $( X { = } 1 . 4 6 )$ ，对于食品安全（ $\scriptstyle { \chi = 3 . 1 7 }$ ）和疾病防治（ $\chi { = } 3 . 1 4 \cdot$ ）等内容需求较高；在渠道和形式方面，受访者最希望能够通过互动型科普（ $X { = } 2 . 6 4$ ， $5 6 . 7 \%$ ）和视频形式（ $\scriptstyle x = 2 . 8 6$ ， $6 4 . 9 \%$ ）了解健康科普的内容。年龄段( $\mathfrak { \leqslant } 3 0$ 岁： $O R = 0 . 5 0$ 95%CL:0.36-0.71；31-50 岁： $O R \mathrm { = } 0 . 7 1 , 9 5 \% C L \mathrm { : } \ 0 . 5 6 \mathrm { - } 0 . 9 0 )$ 和目前从事的职业（服务人员：0R=0.59，95%CL：0.39-0.92；其他人员： $O R = 0 . 6 5$ ，95%CL:0.47-0.91)影响健康科普内容需求；性别(男性： $O R = 1 . 2 2$ ，95%CL:1.03-1.47)、最高学历(小学及以下： $O R { = } 0 . 2 7$ ，95%CL：0.18-0.43)、目前从事的职业(全日制学生： $O R = 2 . 9 5$ ，95%CL:1.28-2.96；专业：OR=1.98，95%CL:1.38-2.83；服务人员： $O R = 1 . 7 6$ ，95%CL:1.16-2.69；其他人员： $O R { = } 2 . 0 1$ ，95%CL:1.47-2.76)、目前居住所在地(城区： $O R { = } 0 . 6 2$ ， $9 5 \%  C L { : } 0 . 5 1 { - } 0 . 7 6 )$ 均影响社区居民对健康科普的渠道需求。年龄段( $\mathfrak { \leqslant } 3 0$ 岁：OR=1.52，95%CL:1.09-2.12)、最高学历(小学及以下： $O R = 0 . 2 6$ ，95%CL:0.17-0.41)、目前从事的职业（专业： $O R = 2 . 0 7$ ， $9 5 \% C L \colon 1 . 4 5 \ – 2 . 9 7$ ；服务人员： $O R = 2 . 0 0$ ， $9 5 \% C L { : } 1 . 3 1 - 3 . 0 3$ ；其他人员： $O R = 1 . 9 7$ ，95% CL:1. 43-2.70)和目前居住所在地(城区： $O R = 0 . 6 2$ ，95%CL:0.51-0.76)均影响社区居民对健康科普的形式需求。结论社区居民对于健康科普内容、渠道、形式的需求较高，呈现多元化的态势。在内容上尤其关注食品安全和疾病防治，在形式上偏好互动和视频的传播方式。
+
+【主题词】 健康科普；健康素养；健康教育；公众健康
+
+【中图分类号】193
+
+# Status and Influence Investigation ofCommunity Residents'Demand for Health Science Popularization: a Cross-sectional Survey in China
+
+Huang Mengjie'； Zeng Leixiao²； Ge $\boldsymbol { P u } ^ { 3 }$ ； Min Hewei4； Huang Xincheng5；Wang Yujia $^ { 6 }$ ；Wu Yibo4,7\*
+
+1.Shandong University School of Public Health， Jinan， Shandong Province25o0l2，China   
+2.School of Journalism and Communication,Renmin University of China,Beijing 1Oo086，China   
+3.Pharmacy Institute of Chinese Medicinal Sciences，University of Macau，Macao 273300,China   
+4.Peking University School of Public Health，Beijing l00191，China   
+5.Media Economics and Management, Beijing Institute of Graphic Communication, Beijing 10260o， China   
+6.AcademyofHumanitiesandSocialciences,HarbinMedical University，Harbin,HeilongjiangProvince5081,China   
+7.Key Research Baseof Philosophy and Social Sciences in Shaanxi Province, Health Culture Research CenterofShaanxi,   
+Xi'an 712046， China   
+\*Corresponding authors: Wu Yibo,Deputy Director and researcher ofKey Research Base of Philosophy and Social Sciences   
+in Shaanxi Province, Health Culture Research Center of Shaanxi； E-mail: bjmuwuyibo@outlook.com   
+【Abstract】BackgroundItis necessary to popularize health science for community residents and improve their health
+
+# ChinaXiv合作期刊
+
+literacyas an indispensable step in health promotion.ObjectiveThis studyaims to investigate thecurrent situationof the health science needsofcommunityresidentsandexplore the factors influencingthecontent,channeland formof health science needs.Methods This study is a cross-sectional and multi-stage online sampling surveyofcommunity residents conducted in China from January19 to March 12,2020.Thestudy subjectsarecommunityresidents with Chinese nationalityliving in mainland China in nearlythree months,who are over 12 years oldand canunderstand the meaning of each item in the questionnaire.Self-designed questionnaire wasused to investigate thecharacteristicsof population sociologyandthecontent,channelsand form needs ofcommunity health science.Data were procesed byunivariate logistic regresion and byordered logistic regresion analysis.ResultsAtotal of 2,679 validated questionnaires were included.In terms of health science content, community residents have relatively low demand for cosmetic surgery $\scriptstyle ( X = 1 . 4 6 )$ ，food safety $( X { = } 3 . 1 7 )$ ）and disease prevention $\scriptstyle ( \mathrm { X } = 3 . 1 4 )$ ; in channels and forms, respondents most hope to understand the content of health science through interactive science popularization $( \mathrm { X } { = } 2 . 6 4 , 5 6 . 7 \% )$ and video form ( $\mathrm { X } { = } 2 . 8 6 , 6 4 . 9 \%$ ).Age group (30 years old: $\mathrm { O R } { = } 0 . 5 0$ ， $9 5 \%$ CL: 0.36 to 0.71; 31-50 Years old: ${ \mathrm { O R } } { = } 0 . 7 1$ ， $9 5 \%$ CL: 0.56 to O.90) and the current occupation (service personnel: $\mathrm { O R } { = } 0 . 5 9$ ， $9 5 \%$ CL: 0.39 to 0.92; Other personnel: ${ \mathrm { O R } } { = } 0 . 6 5$ ， $9 5 \%$ CL: 0.47 to O.91) affects the demand for health science content; Sex (male: $\mathrm { O R } { = } 1 . 2 2$ ， $9 5 \% \mathrm { C L }$ : 1.03 to 1.47),the highest degree (primary school and below: $\mathrm { O R } { = } 0 . 2 7$ ， $9 5 \%$ CL: 0.18 to 0.43)， the current occupation (full-time student: ${ \mathrm { O R } } { = } 2 . 9 5$ ， $9 5 \% \mathrm { C L }$ : 1.28 to 2.96; Major: $\mathrm { O R } { = } 1 . 9 8$ ， $9 5 \%$ CL: 1.38 to 2.83; Service personnel: $\mathrm { O R } { = } 1 . 7 6$ ， $9 5 \%$ CL: 1.16 to 2.69; Other personnel: ${ \mathrm { O R } } { = } 2 . 0 1$ ， $9 5 \% \mathrm { C L }$ ： 1.47 to 2.76), the current residence location (city area: $\mathrm { O R } { = } 0 . 6 2$ ， $9 5 \%$ CL: O.51 to O.76) all affect the channel demand of community residents for health science popularization.Age group (3O years old: ${ \mathrm { O R } } { = } 1 . 5 2$ ， $9 5 \%$ CL: 1.09 to 2.12), the highest degree (primary school and below: $\mathrm { O R } { = } 0 . 2 6$ $9 5 \%$ CL: 0.17 to 0.41), the current occupation (major: ${ \mathrm { O R } } { = } 2 . 0 7$ ， $9 5 \%$ （204 CL: 1.45 to 2.97; Service personnel: ${ \mathrm { O R } } { = } 2 . 0 0$ ， $9 5 \%$ CL: 1.31 to 3.03; Other personnel: ${ \mathrm { O R } } { = } 1 . 9 7$ ， $9 5 \%$ CL: 1.43 to 2.70) and the current residence location (urban area: $\mathrm { O R } { = } 0 . 6 2$ ， $9 5 \%$ CL: 0.51 to 0.76) all affect the formal needs of community residents for health science popularization.ConclusionThecommunityresidents have a high demand for the content, channels and formof healthscience popularization,showing adiversified trend.In terms ofcontent,special atention is paid to food safety and disease prevention and treatment,and interaction and video communication in form.
+
+【Key words】 health science popularization; health literacy; health education; community health
+
+# 前言
+
+随着世界经济的发展和人们生活水平的提高，健康议题备受关注。世界卫生组织指出：“健康是躯体、精神和社会的完满状态，而不仅仅是没有疾病或羸弱"]。健康素养是健康的关键决定因素，因此健康教育与健康促进被列为改善人群健康状况的首选策略2]。2019年，由中国国务院发布的《健康中国行动（2019-2030）》明确提出普及健康知识，要把提升健康素养作为增进全民健康的前提[3]。2012年，BMC Public Health 的一项研究认为健康知识普及是在保健、疾病预防和促进健康领域提高人民权利的一项财产[4]。健康知识普及可以作为一种社会疫苗，能让公民在冠状病毒流行期间保护自身的健康安全，有助于应对Covid-19 的卫生危机5]。2022年5月，国家卫生健康委在《关于建立健全全媒体健康科普知识发布和传播机制的指导意见》中指出，要"依据《基本医疗卫生与健康促进法》《广告法》《科学技术普及法》等法律法规，建立健全全媒体健康科普知识发布和传播机制，增加全社会健康科普知识高质量供给，满足人民群众日益增长的健康需求"[6]。
+
+然而，健康知识普及水平低仍是公共卫生保健领域中最紧迫的问题之一[7]。30余年的研究发现，有限的健康知识普及程度是健康状况较差的一个危险因素。中国健康素养的研究起步较晚，居民健康素养较低，2008年展开的第一次全国范围内健康知识普及调查显示，中国人的总体健康素养水平为 $6 . 4 8 \%$ ，居民健康素养呈现较低水平[9]。到 2018年，中国居民健康素养上升至 $1 7 . 0 6 \%$ ，这与健康科学知识的普及密不可分[10]。2021年，Zhenhua Li等人的研究表明[1]，与发达国家相比，来自中国 25 个省或市的参与者的健康知识普及水平相对较低。
+
+社区卫生服务是基层卫生服务的一部分，我国社区卫生服务的定位是：以健康为中心、家庭为单位、社区为范围、需求为导向、特殊人群为重点服务对象，提供“预防、保健、基本医疗服务、健康教育、计划生育、康复"六位一体的护理[12]。社区可以作为健康传播的重要场所来收集和及时分享科学信息，促进公众的身心健康，并帮助公众获得健康行为改变的资源[13]。健康科普通过科普的方式将健康领域的科学技术知识、科学方法、科学思想、科学精神传播给公众，旨在帮助公民培养其健康素养及学会自我管理健康[14]。既往健康科普知识的研究更多局限于各种全身性的慢性病和多发病[15]，并且形式和内容跟不上人民群众对健康知识日益增长的需求。部分社区健康教育的形式和内容单一枯燥，缺乏个性化及精准化[6]。因此，针对性地满足发达和欠发达地区不同的健康科普渠道需求十分
+
+重要[17]
+
+本研究旨在调查社区居民的健康科普需求的现状，探索社区居民对健康科普的内容、渠道和形式需求的影响因素。
+
+# 1.对象与方法
+
+1.1研究对象
+
+该研究于2020年1月19日至3月12日选取中国大陆十个城市社区居民展开调查。
+
+1.1.1纳入标准（1）近三月内居住在中国大陆的具有中国国籍的居民；（2）能够了解问卷每个条目所表达含义的居民；（3）年龄在12 岁以上的居民。
+
+1.1.2 排除标准（1）无一定的生活自理能力的居民；（2）不愿意参加本研究的居民；（3）近期参加过类似研究的居民。
+
+1.2研究方法
+
+1.2.1抽样方法
+
+该研究为多阶段抽样，每层最小样本量计算方法可以参考《中国居民健康素养调查》[18的计算公式：
+
+其中，N为每层最小样本量； $\pi$ 为健康科普的需求率，由于是未知总体的抽样，可取值 $5 0 \%$ ；取 $9 5 \%$ 可信限，$\mathrm { U a } { = } 1 . 9 6$ ；允许误差δ取 $10 \%$ ；复杂抽样的随机效应 deff $\mathrm { \dot { = } } 1 . 5$ 。为减少无效问卷对调查结果产生影响，按 $10 \%$ 计算缺失率，即每层需另外增加 $10 \%$ 的调查对象。考虑到分层抽样，省份8层，最小样本量计算过程及公式如下，计算所得的最小样本量为1268，最终参与调查的人数为2679人，满足计算所得的最小样本量的要求：
+
+$$
+1 . 9 6 ^ { 2 } { \times } 0 . 5 \ ( 1 { - } 0 . 5 )
+$$
+
+基于地理分区与人口分布情况，采用随机数表法抽取了华东地区的福建省、山东省、江西省，华北地区的山西省、天津市，东北地区的辽宁省、吉林省，西北地区的新疆维吾尔自治区与西南地区的重庆市。然后从各省份中采用随机数表法抽取样本市，直辖市不再细化。共选取全国范围内10个城市：福建省福州市、山西省临汾市、山东省潍坊市、辽宁省本溪市、吉林省榆树市、山东省临沂市、新疆维吾尔自治区克拉玛依市、江西省上饶市、重庆市、天津市。参考我国人口分布，对所抽取的10个城市居民进行配额抽样（配额属性为性别、年龄、城乡分布），使所获得样本的性别、年龄、城乡分布基本符合人口特征。每个城市至少招募1位调查员或1支调查团队，每位调查员负责回收20-40份问卷，每支调查团队负责回收50-70份问卷。
+
+# 1.2.2 调查问卷
+
+问卷由研究者结合以往研究进行设计，参考《全民科学素质行动计划纲要实施方案（2016—2020年）》中社区科普工作的任务要求拟定问卷初稿，再以专家座谈会的形式进行了专家咨询。步骤如下： $\textcircled{1}$ 召集科普理论研究领域、科普实践领域、公共卫生领域等23名国内正高级职称的专家于2019年9月22日参加讨论会； $\textcircled{2}$ 研究者介绍研究目的、内容与评价指标初稿，并引导专家提出建议，进行讨论； $\textcircled{3}$ 整理专家建议，对问卷进行修改，形成最终问卷。
+
+问卷的最终版本见补充文件，问卷共包含两个部分。第一部分为人口社会学特征；第二部分为社区健康科普需求，包含内容、形式、渠道需求共三个维度：
+
+（1）人口社会学特征，包括性别、年龄段、最高学历、目前从事的职业和目前居住所在地（5个问题）；
+
+（2）社区居民对社区科普内容的需求，主要探究其对于养生保健、食品安全、合理用药、美容整形、疾病防治、医学救援（如：心肺复苏）、自然灾害及科学辟谣的需求程度（8个问题），其中前7个问题中不包含"科学辟谣”；(3)社区居民对社区科普渠道的需求，旨在调查社区居民对于不同渠道社区健康科普的需求程度(6个问题)；（4）社区居民对社区科普形式的需求，主要评价社区居民对于文字、图片、声音、视频及人际互动等不同健康科普形式的需求程度（5个问题）。
+
+社区健康科普需求每个维度包含若干项，采用李克特五级评分法，所有条目均为正向计分，按照不需要、不太需要、一般需要、比较需要和非常需要，从0到4赋值。将各维度所有的条目得分相加，可以得到每个维度的总分，
+
+得分越高意味着更高的需求程度。
+
+该问卷社区健康科普需求的KMO统计量为0.932（ ${ \mathrm { K M O } } { > } 0 . 7$ ），巴特利特球形检验的近似卡方值为34831.671（204 $( \mathrm { P } { < } 0 . 0 0 1 )$ ，适合进行因子分析。采用探索性因子分析检验该部分问卷的结构效度，主成分分析提取公共因子，最大方差法进行旋转。最后，三个因子解释了 $6 3 . 8 8 2 \%$ 的方差,条目归属与维度划分一致。问卷社区健康科普需求部分全部条目的Cronbach's alpha系数为0.934,内容维度、渠道维度、形式维度的Cronbach'salpha系数分别为0.827、0.906、0.902。问卷社区健康科普需求部分全部条目的格特曼折半系数为0.844，内容维度、渠道维度、形式维度的格特曼折半系数分别为0.772、0.852、0.811，证明问卷信度良好。因此，该问卷是可靠的。
+
+# 1.2.3调查方法及质量控制
+
+利用问卷星平台（htps://ww.wjx.cn/）制作问卷，于 2020年1月19 日对调查员进行统一培训，并对调查员及调查团队的疑问进行解答。调查员在经过培训后需进行测试，完成培训并通过测试的调查员可以开始正式调查，调查前说明注意事项。在2020年1月19日至3月12日期间，来自各地的调查员或调查团队向受访者一对一发放网络问卷。有能力填写者自主填写，无能力填写者由调查员协助录入，以此对当地目前社区居民的科普需求进行采集。根据以下标准排除无效问卷：（1）填写时间小于等于100秒；（2）所填问卷逻辑前后不一；（3）问卷填写不完整。本研究已经获得医学伦理委员会的伦理审查（JKWH-2019-22）。
+
+# 1.2.4 统计方法
+
+采用SPSS 26.0软件（序列号：7A781CB8B06C1BBF9794464EA19108CE）进行统计分析。计数资料用频次和百分比描述，计量资料在通过正态性检验后，用均数 $\cdot \pm ^ { \cdot }$ 标准差描述。
+
+根据得分，将社区健康科普的内容、形式、渠道三个维度分别分为“高”、“中”、“低"三个等级[19]。对于每个维度，分别计算总分的均值和标准差。如果某一维度的得分小于或等于“均值-标准差"的值，则为"低"；如果得分大于该值且小于或等于"均值 $^ +$ 标准差"值，则为"中"；如果得分超过"均值 $^ +$ 标准差"的值，则为"高”。
+
+本研究采用秩和检验分别比较健康科普内容、渠道、形式各维度中不同条目得分的差异情况，通过单因素 logistic回归分析和有序logistic 回归模型探索不同人口统计学特征与社区健康科普需求得分之间的关系。将以上五个人口学变量分别赋分，作为自变量纳入分析。因变量为社区健康科普需求得分等级，其分值为：低 $_ { : = 1 }$ ，中 ${ \boldsymbol { \mathbf { \mathit { \sigma } } } } = 2 { \boldsymbol { \mathbf { \mathit { \varepsilon } } } }$ ，高 $\scriptstyle = 3$ 。 $\scriptstyle \mathbf { P < } 0 . 0 5$ （双尾），差异有统计学意义。
+
+# 2.结果
+
+# 2.1调查对象的基本情况
+
+本次研究共发放问卷2846份，有效问卷2679份，问卷有效回收率 $9 4 . 1 3 \%$ 。调查对象的人口社会学特征如表1所示，在2679名受访者中，男性参与者（ $4 5 . 8 \%$ ）略少于女性参与者（ $5 4 . 2 \%$ ），三个年龄段的人群相差不大，31-50岁年龄段的受访者最多，占比 $3 5 . 7 \%$ 。大部分受访者为高中及以上学历（ $6 5 . 7 \%$ ）。受访者中，超过四分之一的人为全日制学生。另外， $6 1 . 1 \%$ 的参与者为城镇人口， $3 8 . 9 \%$ 为农村人口，城乡比为1.57，基本符合我国2019 年城乡常住人口比1.54（84843万人/55162万人）。同时性别与年龄比例与我国人口比例相近。因此，本研究选取的样本具有一定的代表性（表1）。
+
+表1参与者的社会人口学特征 $\scriptstyle ( \mathrm { n = 2 6 7 9 } )$   
+Table1Socio-demographic characteristics of the participants ( $\scriptstyle ( 1 = 2 6 7 9 )$ 0   
+
+<html><body><table><tr><td>特征</td><td>n(%)</td></tr><tr><td>性别</td><td></td></tr><tr><td>男性</td><td>1228(45.8%)</td></tr><tr><td>女性</td><td>1451 (54.2%)</td></tr><tr><td>年龄段</td><td></td></tr><tr><td>30 岁及以下</td><td>916 (34.2%)</td></tr><tr><td>31至50岁</td><td>956 (35.7%)</td></tr><tr><td>51岁及以上</td><td>807 (30.1%)</td></tr><tr><td>最高学历</td><td></td></tr><tr><td>小学及以下</td><td>372 (13.9%)</td></tr><tr><td>初中</td><td>547 (20.4%)</td></tr><tr><td>高中及中专</td><td>463 (17.3%)</td></tr><tr><td>大专及大学本科</td><td>1123(41.9%)</td></tr><tr><td>硕士研究生及以上</td><td>174 (6.5%)</td></tr></table></body></html>
+
+# C hinaXiv合作期刊
+
+<html><body><table><tr><td>全日制学生 生产人员（工人）</td><td>734 (27.4%)</td></tr><tr><td>专业人员1</td><td>193 (7.2%)</td></tr><tr><td>服务人员2</td><td>484 (18.1%) 176 (6.6%)</td></tr><tr><td>其他人员3</td><td>647 (24.2%)</td></tr><tr><td>农民</td><td>445(16.6%)</td></tr><tr><td>目前居住所在地</td><td></td></tr><tr><td>城市</td><td>1637(61.1%)</td></tr><tr><td>农村</td><td>1042(38.9%)</td></tr></table></body></html>
+
+注：1）专业人员包括专业人士、技术/研发人员、教师、财务/审计人员、市场/公关人员；2）服务人员包括销售人员、客服人员、顾问/咨询；3）其他人员包括军人、后勤人员、人力资源、文职/办事人员、行政管理人员。
+
+# 2.2社区居民对健康科普的内容、渠道、形式的需求情况
+
+社区居民对于健康科普的内容需求中（图1），美容整形的得分最低，得分最高的三类内容为食品安全、合理用药、疾病防治，其中，食品安全的科普需求最为迫切（ $\mathrm { \cdot } \mathrm { \check { P } } { < } 0 . 0 1$ ）。另外，除了美容整形方面的内容，其余各个方面均有 $5 0 \%$ 以上的人想要对其有所了解。
+
+![](images/75849bd6a47d056bd37971a177b255ecf485c06675e11a61c3f51e3f35724dcc.jpg)  
+图1社区居民对社区提供的科普内容的需求
+
+ure 1Community residents' demand for community-provided science content
+
+五种获得健康科普的渠道得分相差不大（ $\scriptstyle \mathbf { P } < 0 . 0 1 { \mathrm { ~ } }$ ），其中，互动型科普得分（2.64）最高（ $\scriptstyle \mathbf { P } < 0 . 0 1 { \mathrm { . } }$ ），说明受访者最希望能够通过互动型科普了解健康科普的内容。约 $56 . 7 \%$ 的受访者对于互动型科普的需求程度较为迫切，但想要通过发放纸质版科普资料获得健康科普的内容的受访者相对较少（ $4 3 . 7 \%$ ）（图2）。
+
+# ChinaXiv合作期刊
+
+![](images/3d3d6357f782d613ab9a6e958bba03d3842598c92cb6d3d7898885e400787a49.jpg)
+
+rigure ZComnumty resiuens cHamei emand lor comumty-proviueu neaul science popuarzauon获得健康科普的各类形式得分相差较小。超过 $5 0 \%$ 的受访者对于各类健康科普形式均表现出较为迫切的需求态度，其中对于视频形式的社区健康科普需求程度最高（ $\mathrm { \bf ( P < } 0 . 0 1$ ），约有 $6 4 . 9 \%$ 的受访者迫切希望社区科普采取视频形式，但是对于文字形式的社区健康科普需求程度最低（ $\scriptstyle \mathbf { \bar { P } } < 0 . 0 1$ ），希望社区科普能够采取文字形式的人群比例较少 ( $5 0 . 9 \%$ ）（图3）。
+
+![](images/e49c57ca33eb6020b84fd7ad9779858fc27b5bb415b6e478aeb9cb11737feec8.jpg)  
+图2社区居民对社区提供的科普渠道的需求  
+图3区居民对社区提供的科普形式的需求
+
+Figure 3Community residents' form demand for community-based health science popularization
+
+2.3社区居民对健康科普内容、渠道、形式的需求
+
+内容、渠道、形式的平均分 $\cdot \pm$ 标准差得分分别为 $2 1 . 4 9 { \scriptstyle \pm 5 . 9 1 }$ （满分32分）、 $1 5 . 1 1 { \scriptstyle \pm 5 . 4 8 }$ （满分24分）、 $1 3 . 6 1 { \scriptstyle \pm 4 . 4 1 }$ （满分 20分)。在内容维度上，小于等于9.20分为"低”，大于9.20分小于18.02分为"中”,大于等于18.02分为"高”。其他两个维度的评分采用相同的方法，基于平均分 $\pm$ 标准差两个值进行等级划分。社区居民对健康科普内容、渠道、形式需求在不同程度中的分布如图4所示。
+
+# ChinaXiv合作期刊
+
+![](images/90951eb22b31b8579f7517291705675ca419a45d7d21cb5109fed15e5e4f5780.jpg)  
+图4a 科普内容Figure4a health sciencepopularization contents
+
+![](images/356069d82e177bd51593c3193128c280197f5e7cfa9ce5840e5777744e7c0295.jpg)  
+图4b 科普渠道Figure4b health sciencepopularization channels
+
+![](images/6042354dcf93a752e9d8292dfb350af5a6b951b78646dfc9736d44e2eab677b5.jpg)  
+图4c 科普形式Figure4c health sciencepopularization forms
+
+2.4人口社会学特征对于社区居民健康科普需求的影响情况
+
+在单因素logistic 回归中（表2），不同年龄段、部分最高学历、目前从事的职业的人群在健康科普的内容、渠道、形式需求方面均存在差异。
+
+30 岁以下的人群以及31至50岁比51岁以上人群在健康科普的内容，渠道，形式层面需求更为迫切。初中及以下学历的人群对于健康科普的内容和形式需求明显低于研究生及以上学历的人群。全日制学生是在健康科普的渠道和形式方面需求最强的群体，无论是内容、渠道还是形式，农民对健康科普的需求度均最低。目前居住在城市的人群在健康科普的内容、形式上的需求均强于居住在农村的人群，而与健康科普渠道需求不存在相关性。
+
+表2与社区健康科普需求相关的因素：结果基于单因素logistic 回归  
+Table 2Factors asociated with demand for community-based health science popularization: results based on univariate logistic regression   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="2">科普内容</td><td colspan="2">科普渠道</td><td colspan="2">科普形式</td></tr><tr><td>OR</td><td>95%CI</td><td>OR</td><td>95%CI</td><td>OR</td><td>95%CI</td></tr><tr><td>性别</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>男</td><td>0.92</td><td>(0.78，1.08)</td><td>1.16</td><td>(0.99,1.36)</td><td>1.07</td><td>(0.91,1.26)</td></tr><tr><td>女</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>年龄段</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>30 岁以下</td><td>1.56**</td><td>(1.27，1.91)</td><td>2.01**</td><td>(1.64,2.45)</td><td>2.21**</td><td>(1.81,2.71)</td></tr><tr><td>31至50岁</td><td>1.51**</td><td>(1.23,1.85)</td><td>1.35**</td><td>(1.11,1.65)</td><td>1.56**</td><td>(1.28,1.90)</td></tr><tr><td>51岁以上</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>最高学历</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>小学及以下</td><td>0.33**</td><td>(0.22,0.49)</td><td>0.24*</td><td>(0.16,1.35)</td><td>0.20**</td><td>(0.14,0.30)</td></tr><tr><td>初中</td><td>0.51**</td><td>(0.35,0.74)</td><td>0.85</td><td>(0.59,1.22)</td><td>0.62**</td><td>(0.43,0.89)</td></tr><tr><td>高中及中专</td><td>0.84</td><td>(0.57,1.23)</td><td>1.02</td><td>(0.70,1.47)</td><td>0.93</td><td>(0.64,1.34)</td></tr><tr><td>大专及大学本科</td><td>1.14</td><td>(0.80,1.61)</td><td>1.20</td><td>(0.85,1.68)</td><td>1.09</td><td>(0.78,1.53)</td></tr><tr><td>硕士研究生及以上</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>目前从事的职业</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>全日制学生</td><td>1.92**</td><td>(0.47，1.10)</td><td>3.06**</td><td>(1.28,2.96)</td><td>3.27**</td><td></td></tr><tr><td>生产人员（工人）</td><td>1.42</td><td>(0.76，1.82)</td><td>1.15</td><td>(0.75, 1.60)</td><td>1.52*</td><td>(0.97, 2.23)</td></tr><tr><td>专业人员1</td><td>2.38**</td><td>(0.51，1.09)</td><td>2.64**</td><td>(1.38,2.83)</td><td>3.25**</td><td>(0.96,2.04)</td></tr><tr><td>服务人员2</td><td>2.42**</td><td>(0.39，0.92)</td><td>2.21**</td><td>(1.16 ,2.69)</td><td>2.84**</td><td>(1.45, 2.97) (1.31, 3.03)</td></tr><tr><td>其他人员3</td><td>2.01**</td><td>(0.47，0.91)</td><td>2.34**</td><td>(1.47, 2.76)</td><td>2.68**</td><td>(1.43, 2.70)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>农民</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr></table></body></html>
+
+目前居住所在地  
+
+<html><body><table><tr><td>城市</td><td>1.27*</td><td>(1.07,1.50)</td><td>1.03</td><td>(0.87,1.21)</td><td>1.16*</td><td>(0.99,1.37)</td></tr><tr><td>农村</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr></table></body></html>
+
+\* $\cdot \mathrm { p } { < } 0 . 0 5$ ，\*\* $\mathrm { \ p { < } 0 . 0 1 }$
+
+注：1）专业人员包括专业人士、技术/研发人员、教师、财务/审计人员、市场/公关人员；2）服务人员包括销售人员、客服人员、顾问/咨询；3）其他人员包括军人、后勤人员、人力资源、文职/办事人员、行政管理人员；
+
+有序logistic 回归的结果如表3所示，从表中可以看出，受访者的性别、年龄段、最高学历、目前从事的职业、目前居住或工作的所在地均为健康科普内容、渠道、形式的重要影响因素。
+
+男性受访者对于科普渠道的需求更迫切(OR:1.22, $9 5 \%$ CI:1.03-1.43)。在科普形式维度上，与51岁以上人群相比，30 岁以下的受访者需求程度更高(OR:1.52, $9 5 \%$ CI:1.09-2.12)，然而在科普内容维度上，30岁以下的受访者(OR:0.50, $9 5 \%$ CI: 0.36-0.71)和31至 50 岁的受访者(OR:0.71, $9 5 \%$ CI:0.56-0.90)需求更低。相对于高学历的社区居民，最高学历为小学及以下的社区居民在科普渠道(OR:0.27, $9 5 \%$ CI:0.18-0.43)、科普形式(OR:0.26, $9 5 \%$ CI: 0.17-0.41)两个维度表现为更差的需求程度。与农民相比，除了生产人员以外，从事其他职业的受访者对科普渠道均有更迫切的需求，在科普形式维度上，除了全日制学生和生产人员，从事其他职业的受访者也表现出更迫切的需求，然而，在科普内容维度服务人员和其他人员则相对来说表现更差。目前在城市居住或工作的受访者比农村的受访者在科普渠道(OR: 0.62, $9 5 \%$ CI: 0.51-0.76)、科普形式(OR:0.66, $9 5 \%$ CI:0.54-0.80)方面需求程度更低。
+
+表3：与社区健康科普需求相关的因素：结果基于有序logistic 回归  
+Table 3: Factors asociated with demand for community-based health science popularization: results based on ordered   
+
+<html><body><table><tr><td></td><td colspan="7"></td></tr><tr><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td></tr><tr><td>4004</td><td></td><td>OR</td><td>科普内容I</td><td></td><td></td><td>OR</td><td>科普形式5%CI</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>'60</td><td></td><td>0.99</td><td>(0.84，1.17)</td><td>1.22*</td><td>(1.03, 1.43)</td><td>1.11</td><td>(0.95, 1.31)</td></tr><tr><td>Z7</td><td>女</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td></td><td>年龄段</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>30 岁以下</td><td>0.50**</td><td>(0.36，0.71)</td><td>1.10</td><td>(0.79, 1.54)</td><td>1.52*</td><td>(1.09, 2.12)</td></tr><tr><td></td><td>31至50岁</td><td>0.71**</td><td>(0.56，0.90)</td><td>0.86</td><td>(0.69 ,1.06)</td><td>1.01</td><td>(0.81, 1.25)</td></tr><tr><td></td><td>51岁以上</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>a</td><td>最高学历</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ul</td><td>小学及以下</td><td>0.83</td><td>(0.53，1.30)</td><td>0.27**</td><td>(0.18, 0.43)</td><td>0.26**</td><td>(0.17 ,0.41)</td></tr><tr><td></td><td>初中</td><td>1.16</td><td>(0.78, 1.72)</td><td>0.98</td><td>(0.66, 1.45 )</td><td>0.72</td><td>(0.48,1.06)</td></tr><tr><td>C 高中及中专</td><td></td><td>1.44</td><td>(0.98，2.13)</td><td>1.03</td><td>(0.70, 1.51)</td><td>0.96</td><td>(0.65 ,1.40)</td></tr><tr><td>大专及大学本科</td><td></td><td>1.28</td><td>(0.91，1.81)</td><td>1.14</td><td>(0.80, 1.61)</td><td>1.05</td><td>(0.74, 1.48)</td></tr><tr><td>硕士研究生及以上</td><td></td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>目前从事的职业</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>全日制学生</td><td>0.72</td><td>(0.47，1.10)</td><td>1.95**</td><td>(1.28,2.96)</td><td>1.48</td><td>(0.97, 2.23)</td></tr><tr><td>生产人员（工人）</td><td></td><td>1.17</td><td>(0.76，1.82)</td><td>1.10</td><td>(0.75, 1.60)</td><td>1.40</td><td>(0.96, 2.04)</td></tr><tr><td>专业人员1</td><td></td><td>0.75</td><td>(0.51，1.09)</td><td>1.98**</td><td>(1.38,2.83)</td><td>2.07**</td><td>(1.45, 2.97)</td></tr><tr><td>服务人员2</td><td></td><td>0.59*</td><td>(0.39，0.92)</td><td>1.76**</td><td>(1.16 ,2.69)</td><td>2.00**</td><td>(1.31, 3.03)</td></tr><tr><td>其他人员3</td><td>0.65*</td><td></td><td>(0.47，0.91)</td><td>2.01**</td><td>(1.47, 2.76)</td><td>1.97**</td><td>(1.43,2.70)</td></tr><tr><td>农民</td><td></td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>目前居住所在地</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>城市</td><td></td><td>1.13</td><td>(0.92，1.38)</td><td>0.62**</td><td>(0.51, 0.76)</td><td>0.66**</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(0.54, 0.80)</td></tr><tr><td>农村</td><td>1.00</td><td></td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr></table></body></html>
+
+\* $\mathrm { p } { < } 0 . 0 5$ ，\*\*:p $< 0 . 0 1$
+
+注：1）专业人员包括专业人士、技术/研发人员、教师、财务/审计人员、市场/公关人员；2）服务人员包括销售人员、客服人员、顾问/咨询；3）其他人员包括军人、后勤人员、人力资源、文职/办事人员、行政管理人员;
+
+# 3.讨论
+
+研究表明，社区居民对于健康科普的内容、渠道、形式三个维度都显示出强烈的需求；在健康科普内容上，社区居民主要的需求聚焦在食品安全和疾病防治上，而对美容整形的相关内容需求度较低；对健康科普的渠道和形式的需求呈现多元化的态势，视频科普和互动型科普是主要需求。不同人口社会学特征的居民对健康科普的需求不同。3.1健康科普的内容、渠道、形式三个维度的需求强烈
+
+研究结果显示，社区居民对健康科普三个维度的需求强烈。分别有接近1/5的受访者急切要求增加和拓宽健康科普的内容、渠道、形式，而超过半数的受访者对健康科普的内容、渠道、形式抱有中肯积极的态度。社区居民对健康科普的需求变得更为强烈，对社区健康教育知识和技能普及提出了更高的需求，并对自身的健康日趋重视，这反映了随着生活水平和经济能力的提高，社区居民的健康意识不断提高，然而，同样也反映出目前对社区居民的健康知识普及仍然滞后，社区居民健康素养较低，同时科普渠道和形式匮乏[II1]。因此，社区居民对健康科普的多样化、便利化和普遍化有更多的需求。
+
+3.2社区居民对美容整形健康科普需求较低，对食品安全和疾病防治的内容需求较高
+
+社区居民对美容整形健康科普需求较低，对食品安全和疾病防治的内容需求较高。在健康科普内容需求方面，美容整形需求的得分最低，仅有约四分之一的社区居民希望能够增加美容整形的知识普及，这与2021年9月 YaxinGao 等人的一项研究的结果是相一致的[29]，食品安全、疾病防治是社区居民需求度最高的两个内容。这种现象可能是因为居民的需求层级满足情况存在差异。马斯洛[20将人的需求划分基本需求和成长需求两大类，并将生理需求、安全需求等划分入基本需求，将审美需求等划分入成长需求，他认为人们倾向于先满足成长需求后，才会去追求更高层次的成长需求：因此，对于大多数社区居民来说，与其他健康科普内容相比，食品安全和疾病防治等基本生理需求和安全需求仍未得到充分满足，仍然有比美容整形更低级的需求需要得到满足，只有满足了最基本的生理需求，安全需求等较低级的需求之后，社区居民才会追求情感、归属、自尊和自我实现，比如外貌的改善，身材的健美和精神愉悦等。而相较于其他健康科普内容而言，美容整形属于更高层次的成长需求，打算尝试美容整形的人并不多。因此，大部分居民对于食品安全和疾病防治的健康科普的内容需求更高。2022年1月林洪等人的一项研究显示[2，居民对健康科普内容需求由高到低分别是身体与心理健康状况、查阅疾病、药物、健康生活与健康技能、优质健康科普，两项研究在总体上来说较为一致。
+
+3.3社区居民对健康科普的渠道和形式需求多元化，互动型科普和视频科普是主要偏好
+
+从上述结果分析可以看出，健康科普的渠道和形式在不同条目上相差较小，受访者的需求均较为强烈，呈现多样化的健康科普需求。本调查结果与 Street 等人的一项研究[22结论具有相似结论，居民多元的健康科普需求未能得到满足。2021年，KshatriJS 的一项研究中指出[23]，媒体干预作为服务提供者和社区受益者之间的联系纽带在全民健康覆盖需要的产生中发挥了重要作用。而本次研究发现，约 $56 . 7 \%$ 的受访者对于互动型科普的需求程度较为迫切，约有 $6 4 . 9 \%$ 的受访者迫切希望社区科普采取视频形式，说明社区居民更偏好互动渠道和视频科普的健康科普方式。这与 2021年8月魏春平等人的一项研究[24]一致，该研究显示 $9 8 . 6 \%$ 受访者期望通过互联网（手机、电脑等）获取健康知识。
+
+# 3.4不同人口社会学特征的居民健康科普的需求不同
+
+调查结果显示，不同人口社会学特征的居民健康科普的需求不同。首先，在健康科普的内容需求方面，年龄段和受访者目前从事的职业是其重要影响因素，51岁以上的人群更希望健康科普的内容能够进一步有所增加和完善。这可能是因为随着年龄的增加，免疫力开始下降而患慢性病的风险加大，对自己的健康状况充满焦虑，因此老年人比青年人有更高的健康诉求，更希望从健康科普中获得更多的健康知识。而相对于其他人员和服务人员而言，农民的健康知识储备可能较为匮乏[25]。因此对健康科普的内容方面有更高程度的需求。
+
+其次，在健康科普的渠道需求方面，男性人群比女性人群需求更强烈，这与2012年Raimo Niemela等人的研究[26结论恰恰相反，该研究认为女性比男性更有动力从任何渠道获取健康信息，结论的差异可能是研究对象的地区或年龄构成比不同造成的。但是李静等人2022年7月的研究显示[27]，男性的健康知识与技能水平情况明显比女性差，这可以很好地解释男性的健康科普需求比女性更强烈。除了生产人员（工人），目前从事其他职业的人员均比农民具有更高的需求度。
+
+最后，在健康科普的形式需求方面，30岁以下的人群比51岁以上的人群更想要通过不同健康科普形式获取健康信息，2015 年，LindsayC Kobayash 等人的一项研究[28]中指出，年龄的下降与基于认知能力的健康知识普及水平之间存在相关性，因此我们可以考虑为30岁人群的健康知识认知能力高于51岁人群，更乐于通过拓宽形式获取健康知识。除全日制学生以及生产人员（工人），目前从事其他职业的人群均比农民群体更希望能够有各种健康科普形式获取健康科普的信息。此外，研究发现小学及以下学历的人群比研究生及以上学历的人群对健康科普渠道和形式具有更低的需求度，先前也有研究证实高学历人群的健康素养水平高于低学历人群[2]，高学历人群具有更好地理解和分析健康信息的能力，对于健康知识的获取渠道和形式的拓宽表现出更强烈的意愿。居住在城市的居民比农村的居民对于健康科普渠道和形式方面需求程度更低，这可能是因为居住在城市的居民获取健康科普的渠道和形式多于农村居民。2020年，Noor Aljassim 等人的一项研究表明，城市居民的健康知识普及水平高于农村人群[30]。2018年《中国居民健康素养监测报告》显示[17]，城市居民健康素养水平为 $2 2 . 4 4 \%$ ，农村居民健康素养水平为 $1 3 . 7 2 \%$ 。3.5优化社区健康科普，需要多方合力
+
+健康科普需要医院、媒体、各级卫生和医疗行政部门以及医疗卫生工作者的共同努力，科学技术协会组织是健康科普工作的主力军，城市基层组织是社区健康科普的重要力量。首先，社区基层组织、卫生健康行政部门等相关机构组织"应当加大健康科普知识供给力度”，“支持并鼓励医疗卫生行业与相关从业人员创作和发布更多更优质的健康科普作品"，同时聚焦居民重点内容需求，提升健康科普专业性。一方面要做到内容细分，满足居民健康科普的内容需求。不仅要做到食品安全相关内容的全面覆盖，内容应该涵盖健康食品选择、食品成分辨识、食品营养搭配与食品安全相关的法律法规等多个层面；还要覆盖疾病预防的内容，比如一级预防、二级预防、三级预防与临床治疗的相关知识等多个领域。另一方面，要做好健康科普要保障科普内容质量，提升健康科普专业度[31]。城市社区基层组织在进行健康科普时要有意识地和各地疾控中心、研究机构、高等院校、律师事务所等相关单位达成合作，促进权威信息、专业信息的发布。其次，新媒体技术的发展极大地丰富了健康科普的渠道和形式，要"加强媒体矩阵建设，实现跨平台融合"[32]。中国居民社交媒体使用率日益增长社区应该丰富[33]，社交媒体被认为是促进健康生活方式或获取健康信息的明智途径[34]。健全健康科普的传播渠道和呈现方式，需要"充分用好融媒体传播手段"6]。在充分结合图片、文字、视频、声音等多元媒介符号的同时，实现线上线下科普的融合，新旧媒体的合作，沿袭和创新传统科普方式。再次，健康科普的方式还需要注意精准化，采用受众细分策略，根据受众的年龄、学历、居住地等属性进行分众式传播，提高健康科普的互动性，增强受众的参与感，从而促进健康信息“渗透"与接受。
+
+综上所述，社区居民对于健康科普内容、渠道、形式的需求较高，呈现多元化的态势。做好社区健康传播，聚焦食品安全和疾病防治的科普内容、增设互动型科普的科普渠道、视频的科普形式不可或缺。男性受访者对于科普渠道的需求更迫切。在城市居住或工作的受访者比农村的受访者在科普渠道、科普形式方面需求程度更低。因此，强烈建议科普人士迎合大众需求的同时，采取受众细分策略，因人而异，因地制宜，形成有针对性和精准化的量身定制的多元化现代化健康科普。此外，我们的研究仍存在以下不足：（1）由于我们的研究采用多阶段抽样，尽管我们尽可能地扩大样本并选取具有代表性的样本群体，但是我们的研究涉及的地理区域不够广泛，仍存在一定的偏倚，并不能代表中国全部的社区居民的健康科普的需求，未来的研究应尽可能地选取其他地区的样本作为补充。（2）本问卷的长度有限，本文章选取的人口社会学因素涉及方面较窄，仍存在一些未考虑到的对健康科普需求有影响的潜在影响因素，因此，以后的研究可以从家庭层面进行改善。（3）本研究为横断面研究，忽略了健康科普需求时间上的变化以及人口社会学因素对于健康科普需求之间的强度，同时横断面研究仅可探索人口社会学特征与需求的相关性，无法说明人口社会学特征对社区居民健康科普需求产生影响，未来的研究应更多地设计纵向研究。（4)中国人口老龄化的趋势日益严重，老年人是社区居民的主要组成部分，本研究年龄划分为"30岁以下”、“31-50 岁”、“50 岁以上”，未将"60岁以上"的老年人进行单独罗列，因此，建议在以后的研究中注重老年人与中青年群体不同需求的分析探索。
+
+作者贡献：黄梦洁、吴一波负责文章的构思与设计及调查的实施；黄梦洁负责数据的收集与整理、统计学处理、结果分析与解释及论文的撰写；曾雷霄负责讨论中政策建议的撰写以及文章的语言润色；葛蒲、闵鹤葳、王雨佳提供部分数据分析思路及负责论文的修订；黄新城负责文章的语言润色及图表英语翻译；吴一波对文章整体负责，监督管理。
+
+本文无利益冲突。
+
+# 参考文献
+
+[1] Corbin JH, Abdelaziz FB, Sorensen K,et al. Wellbeing asa policy framework for health promotio n and sustainable development[J]. Health Promot Int.2021，36(Supplement_1):i64-i69.DOI:10.1093/he apro/daab066.   
+[2] Organization, Health W. Shanghai declaration on promoting health in the 2030 agenda for sustain able development[J]． Health Promot Int. 2017，32:7 -8. DOI: 10.1093/heapro/daw103   
+[3]健康中国行动推进委员会．健康中国行动（2019—2030年）[EB/0L].(2019-07-15)[2022-01-02].http://www. gov.cn/xinwen/2019-07/15/content_5409694.htm   
+Health China action Promotion Committee .Healthy China initiative(2019—2030)[EB/OL].(2019-07-15)[2 022-01-02].http://www.gov.cn/xinwen/2019-07/15/content_5409694.htm   
+[4]Sorensen K，Van den Broucke S, Fullam J，et al. Health literacy and public health: A systematic review and integration of definitions and models[J]． BMC Public Health,2012，12(1).DOI:10.1186/147 1-2458-12-80. _U」中 六和国国家上生健 传猫机制 总见LED/UL」   
+(2022-05-31)[2022-06-27].http://www. nhc.gov.cn/xcs/s3582/202205/c7d476ffdd384a02a9d85de55ac6df04. sh tml   
+National Health Commission of the People's Republic of China.Guidance on establishing and improving the mechanism for the release and dissemination of all media health science popularization knowled   
+ge[EB/0L].(2022-05-31)[2022-06-27].http://www.nhc.gov.cn/xcs/s3582/202205/c7d476ffdd384a02a9d85de55   
+ac6df04.shtml   
+[7]Adkins NR, Corus C. Health literacy for improved health outcomes:effective capital in the market   
+place[J]. J Consum Aff 2009， 43(2) :199-222.D0I:10.1111/j.1745-6606.2009.01137. x   
+[8]Berkman ND, Sheridan SL， Donahue KE,et al. Low health literacy and health outcomes:an updated   
+systematic review[J]． Ann Intern Med.2011;155(2):97-107.D0I:10.7326/003-4819-155-2-201107190-0000   
+5. [9]Wang P，Mao Q， Tao M,et al. Survey on the status of health literacy of Chinese residents in 200   
+8[J].Chin J Health Educ.(2010） 26:243-6. D0I:10.16168/j.cnki.issn.1002-9982.2010.04.021. [10]《中国居民健康素养监测报告（2018年）》发布［J].上海医药,2019,40(17):33. 《The Health Literacy Monitoring report of Chinese residents(2018)》published[J].Shanghai Medical &   
+Pharmaceutical Journal,2019,40(17) :33.   
+[11]Li Z, Tian Y, Gong Z, et al. Health Literacy and Regional Heterogeneities in China: A Populatio   
+n-Based Study[J]. Front Public Health. 2021:9:603325.D0I:10.3389/fpubh.2021.603325.   
+[12］刘素珍．社区卫生［M］．北京：人民卫生出版社，2006：7   
+SUZHEN L.Community health [M].Beijing:People's Medical Publishing House(PMPH)，2006:7   
+[13]Rains SA, Crane TE， Iyengar S,et al.Community-Level Health Promotion during a Pandemic: Key Co   
+nsiderations for Health Communication[J].HEALTH C0MMUN 2020,35(14):1747-1749.D0I:10.1080/10410236   
+2020.1837443   
+[14]许琳.健康科普工作的几点思考[J].天津科技,2011,38(06):59-60.D0I:10.14099/j.cnki.tjkj.2011.06.026.   
+LIN X.Some thoughts on Health Science Popularization[J].Tianjin Science & Technology,2011,38(06):59 -60.DOI:10.14099/j.cnki.t jkj.2011.06.026.   
+[15]徐静,席淑新,华玮.社区居民对五官科健康科普知识需求的调查分析[J].上海护理,2019,19(11):34-36.DOI：C   
+NKI : SUN: SHHL. 0. 2019-11-017.   
+JING X,SHUXIN X,WEI H.Investigation of Demand of Community Residents for Popular Science Knowledge   
+about Eye and ENT Health， Shanghai Nursing，2019,19(11):34-36.DOI: CNKI:SUN:SHHL.0.2019-11-017. [16]窦雄,郑传芬,熊晓涛,等.基于微信小程序的社区健康教育平台的研发与应用[J].西南国防医药,2020,30(08)：   
+771-774. DOI: CNKI: SUN: XNGF. 0. 2020-08-023.   
+XIONG D,CHUANFEN Z,XIAOTAO X,et al.Research and development and application of community health edu   
+cation platform based on wechat mini program[J].Medical Journal of National Defending Forces in Sou   
+thwest China,2020,30(08) :771-774. DOI:CNKI:SUN: XNGF.0.2020-08-023. [17]刘思彤,李昀珊,魏海斌,等.公众对新型冠状病毒肺炎相关健康科普的获取途径及影响因素研究[J].科技传播，   
+2020,12(05) : 4-8.D0I:10.16607/j.cnki.1674-6708.2020.05.004.   
+SITONG L,YUNSHAN L,HAIBIN W,et al.Research on the public access channels and influencing factors of COVID-19[J].Public Communicationof Science & Technology,2020,12(05):4-8.D0I:10.16607/j.cnki.1674-   
+6708. 2020.05. 004. [18]肖（王乐）．中国公众健康素养调查及评价体系建立[D].中国疾病预防控制中心,2008.   
+LI X.National Survey of Adult Health Literacy and Assessment System Establishment in China[D].Ch   
+inese Doctoral Dissertations Full-text Database,2008.   
+[19]LAI Y，LU W， MAO H, et al， Knowledge,，attitude and practices regarding health self-management   
+among patients with osteogenesis imperfecta in China:an online cross-sectional survey[J]. BMJ Open 2021,11(9):e046286. D0I: 10.1136/bmjopen-2020-046286. [20]Maslow AH. A theory of human motivation[J].Psychol Rev.1943;50:370-396.doi:10.1037/h0054346. [21]林洪,代国友,王世燕,等.健康科普在新媒体中的传播现状调查与建议[J].中国药业,2022,31(02):1-4.DOI:CN   
+KI :SUN:YYGZ. 0. 2022-02-001.   
+HONG L,GUoYOU D,SHIYAN W,et al.Survey and Suggestions on the Dissemination Status of Health Science Popularization in New Media[J].China Pharmaceuticals,2022,31(02):1-4.DOI:CNKI:SUN:YYGZ.0.2022-02-0 01.   
+[22]Street，Jr. Richard L.,Finset A.Two years with COVID-19: New -and old -challenges for health communication research[J].Patient Education and Counseling,2022,105(2).D0I:10.1016/j.pec.2022.01.00 6   
+[23]Kshatri JS,Palo SK， Panda M, et al. Reach，accessibility and acceptance of different communica tion channels for health promotion: a community-based analysis in Odisha, India[J].J Prev Med Hyg. 2021,62(2) :E455-E465. D0I: 10.15167/2421-4248/jpmh2021.62.2.1929.   
+[24]魏春平,陈丽霞,邹辰玲.三明市居民健康科普视频需求调查及应用方法探讨[J].海峡预防医学杂志,2021,27 (04):100-102.DOI:CNKI:SUN:HXYF.0.2021-04-046.   
+CHUNPING W,LIXIA C,CHENLING Z.Investigation and application method of health science video demand i n Sanming City[J].Strait Journal of Preventive Medicine,2021,27(04):100-102.DOI:CNKI:SUN:HXYF.0.202 1-04-046.   
+[25]HUIMIN W,RUJUN L,XIN C,et al. How to improve the COVID-19 health education strategy in impoveri shed regions: a pilot study.[J]. Infectious diseases of poverty,2022,11(1).D0I:10.1186/s40249-022-0 0963-3   
+[26]Niemelä R,Ek S， Eriksson-Backa K,et al. A screening tool for assessing everyday health inform ation literacy[J]. Libri.2012，62:125-34.D0I: 10.1515/libri-2012-0009   
+[27]李静,黎达兴,吴映玖.广州市白云区居民健康科普需求调查分析[J].健康教育与健康促进,2022,17(02):169-1 72.DOI:10.16117/j. cnki.31-1974/r. 202202169.   
+JING L,DAXING L,YINGMEI W.Investigation and Analysis of Residents’Demand for Health Science Popu larization in Baiyun District of Guangzhou City[J].Health Education and Health Promotion， 2022,17(0 2) :169-172. D0I:10.16117/j.cnki.31-1974/r.202202169.   
+[28]Kobayashi LC, Smith SG, O'Conor R，et al. The role of cognitive function in the relationship be tween age and health literacy: a cross-sectional analysis of older adults in Chicago，USA[J]. BMJ 0 pen. 2015 ，5(4) :e007222. doi: 10.1136/bmjopen-2014-007222.   
+[29]谢美美,欧光忠,陈锦辉.2014 年福建省 $1 5 { \sim } 6 9$ 岁居民健康素养现状调查[J].预防医学论坛,2018,24(01):27-3 0. DOI:10.16406/j. pmt.issn.1672-9153.2018.01.008.   
+MEIMEI X,GUANGZHONG O,JINHUI C. Survey on the current status of heath literacy among residents aged 15-69 years old,Fujian province,2014[J].Preventive Medicine Tribune,2018,24(01):27-30.D01:10.16406 /j.pmt.issn.1672-9153.2018.01.008.   
+[30]Aljassim N, Ostini R. Health literacy in rural and urban populations: A systematic review[J]. P atient Educ Couns. 2020 ，103(10):2142-2154. doi: 10.1016/j.pec.2020.06.007.   
+[31]JanssenI,Leblang A G.Systematic review of the health benefits of physical activity and fitness in school-aged children and youth[J]. Int JBehav Nutr Phys Act.2010,7:40. doi:10.1186/1479-5868- 7-40.   
+[32]徐萌.疫情语境下医学科普短视频大众化传播策略创新——以“丁香医生”抖音号为例．传媒.2020:38-40．D OI :CNKI : SUN:CMEI. 0. 2020-18-016.   
+MENG X.Innovation of popular communication strategy of medical science popularization and short vid eos in the context of epidemic situation——take "doctor clove" Tiktok as an example.Media.2020:38- 40．DOI:CNKI:SUN:CMEI.0.2020-18-016.   
+[33]Laroche E, L'Espérance S, Mosconi E. Use of social media platforms for promoting healthy employ ee lifestyles and occupational health and safety prevention: A systematic review[J]. Saf Sci. 2020 131:104931． D0I: 10.1016/j.ssci.2020.104931.   
+[34]Moorhead, S.A.，Hazlett，D.E.，Harrison，L,et al， 2013. A new dimension of health care: systema tic review of the uses，benefits，and limitations   
+of social media for health comunication[J].Med. Internet Res.2013，15 (4)，e85. https://   
+DOI.org/10.2196/jmir.1933.

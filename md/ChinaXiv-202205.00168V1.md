@@ -1,0 +1,592 @@
+# 多级属性Q矩阵的验证与估计
+
+2 秦春影1,² 喻晓锋1  
+3 （1江西师范大学心理学院，南昌，330022）  
+4 （²南昌师范学院数学与信息科学学院，南昌，330032）  
+5 摘要多级属性是将诊断测验中传统的二值(即两种水平，通常定义为0和1)属性定义  
+6 为多值(多个水平可以为0，1，)，它不但可以描述学生对于知识属性是否掌握，而  
+7 且可以描述学生在属性上的掌握程度，这样使得诊断测验能提供给被试更丰富的知识  
+8 掌握详情。本文将适用于二级属性Q矩阵的统计量 (统计量)拓展到多级属性下的Q矩  
+9 阵验证和估计，在两种常见的条件下，设计了两种估计算法：联合估计算法和在线估  
+10 计算法。模拟实验结果表明：联合估计算法适用于对专家界定的初始Q矩阵进行验证，  
+11 当初始Q矩阵中包含较少的错误时，通过联合估计算法有很大可能恢复正确的Q矩阵；  
+12 在线估计算法适用于对“新项目”进行属性向量和项目参数的在线标定，基于一定数  
+13 量的“基础项目”，在线估计算法对于新项目的估计也能达到较满意的成功率。实证  
+14 数据分析则进一步展示了该方法的使用。  
+15 关键词 多级属性,Q矩阵,PG-DINA模型,统计量  
+161引言  
+17 随着社会的发展，教育和心理测验已经不满足于单一的总体评价(overall  
+18 assessment)。认知诊断评价(cognitive diagnosis assessment, CDA)可以提供学生在知识上  
+19 的掌握详情，已受到社会的广泛关注(Leighton& Gierl,2007; Tatsuoka,2009;Rupp et al.,  
+20 2010；罗照盛,2019;von Davier&Lee,2019)。传统的测验，如基于经典测验理论  
+21 (classical test theory,CTT)或基于项目反应理论(itemresponse theory,IRT)的测验都仅仅  
+22 提供学生的总体分数或能力，除了这个总体评价之外，CDA还可以提供学生的知识状  
+23 态(knowledge state,KS)，这个知识掌握状态可以对学生的学习、教师的教学和教学效  
+24 果的评价起到很好的指导和参考作用。  
+25 通常情况下，CDA中学生对知识的掌握情况是用0或1来描述，1表示学生掌握  
+26 了某个知识，0表示没有掌握，即学生对知识的掌握仅仅有2个水平。文献中通常把  
+27 CDA 中细粒度的知识用属性(attribute;Leighton et al.,2004)来描述，学生在这多个属性  
+28 上的掌握情况就是学生的KS。因此，学生的KS 通常是一个二值向量。将学生对属性  
+29 的掌握情况用0和1来描述的好处是相对简单，容易解释，但是却也相对粗糙，不能  
+30 准确刻画学生在属性上的掌握程度，因为两个在某属性上的状态都为0的学生之间还  
+31 是有掌握程度上的区别的。也正是因为如此，有很多研究者考虑将属性的二种取值考  
+32 虑设置成多种取值(Karelitz,2004; von Davier,2005; Chen & de la Torre,2013; Sun et al.,  
+33 2013;蔡艳,涂冬波,2015;涂冬波,蔡艳,2015;詹沛达 等,2016; Zhan et al.,2020; Shang et  
+34 al.,2021)。实际应用中，有很多情况都是对知识属性的多水平要求和考查,比如《全日
+
+1制义务教育数学课程标准(修改稿)》中就使用了“了解(认识)”、“理解”、“掌握”  
+2 和“运用”这4个顺序类别词汇来表述知识技能目标的不同水平。因此，多级属性能  
+3 够对学生做出更为精细地划分，将属性定义成多级的诊断测验具有现实应用价值和前  
+4 景。  
+5 也正是因为如此，研究者们对基于多级属性的CDA展开了研究，有针对性地开发  
+6 了诊断模型，比如 Karelitz(2004)构建了基于顺序类别属性编码(ordered-category  
+7 attribute coding,OCAC)的诊断模型OCAC-DINA，并且对Q矩阵中存在缺失时的参数  
+8 估计和分类进行研究；还有基于其它诊断模型所开发的多级属性模型，像RRUM下的  
+9 多级属性模型(Templin,2004)，LCDM下的多级属性模型(Templin& Bradshaw,2004);  
+10 GDM下的多级属性模型(Haberman,von Davier,& Lee,2008;von Davier,2005); Zhan 等人(2020)构建了高阶的多级属性的诊断模型等；与前面这些研究不同的是，Shang 等人(2021)借鉴多维IRT的思想，定义连续的多级属性，并且构建了可以处理连续多级属性的诊断模型。同传统的CDA一样，多级属性CDA中的Q矩阵的作用也十分关键，它的正确性会直接影响模型参数的识别、被试的分类乃至整个测验的信度和效度。并且更重要的是，在实际应用中，仅仅由专家界定的Q矩阵很容易出现错误或专家意见不一致的情况(de la Torre,2008;涂冬波 等,2012;DeCarlo,2012;Liu et al.,2012;喻晓锋 等,2015;Yu&Cheng,2020)。从目前已有的研究来看，研究者们采用的多级属性Q矩阵大都是由专家界定或模拟生成，通常假定它是正确的，没有对它的正确性或合适性进行验证，还缺乏对多级属性Q矩阵的验证和估计方法进行研究。因此，迫切需要研究客观的方法来对其正确性进行验证或估计。本研究拟将适合二级属性下Q矩阵的验证和估计方法拓展到适合多级属性Q矩阵的情况，研究客观的验证或估计多级属性Q矩阵的方法，以期能促进多级属性CDA的发展。
+
+# 2多级属性Q矩阵及诊断模型
+
+在正式介绍多级属性Q矩阵的估计算法之前，首先对多级属性Q矩阵及对应的诊断模型进行介绍。
+
+# 2.1多级属性Q矩阵
+
+为方便介绍，在不引起误解的情况下，将仅仅有0，1两种取值的属性称为二级属性(binary atribute)，仅仅由二值属性构成的Q矩阵称为二级属性Q矩阵(binary-attributeQ matrix,BQM)，用表示，将采用的CDA记为BCDA；将可取0，1，2，多种值的属性称为多级属性，包含多级属性的Q矩阵称为多级属性Q矩阵(polytomous-attributeQ matrix,PQM)，用表示，将采用的CDA记为PCDA。是一个的矩阵，其中和分别表示项目数和属性数，中的元素记为，与二级的不同，中的有个水平，取值空间为。
+
+1 下面以一简单的多级属性Q矩阵(Karelitz,2004)为例，这个中有4个项目，共考察  
+2 了2个属性，其中属性1和属性2皆有0，1，2，3，4共5个水平。  
+3 (1)  
+4 如果属性按按传统的二级方式，用0作为截断点来对属性进行划分，则其所对应  
+5 的Q矩阵如(2)所示。  
+6 (2)  
+7 当测验考虑个属性，若采用二级属性，最多能将学生总体分为类，而采用多级属  
+8 性(各属性可能的取值个数记为)，则最多可将学生总体分为类，很明显总是大于的。举  
+9 个简单的例子，假设测验考祭2个属性，如果米用二级属性，最多可以将学生分为类，  
+10 如果采用5值属性，则可以将学生分为类。  
+11 2.2多级属性下的诊断模型  
+12 已开发的适合多级属性的诊断模型主要有OCAC-DINA(Karelitz,2004)，LCDM下  
+13 的多级属性模型(Templin&Bradshaw,2004)，GDM对应的多级属性诊断模型(Haberman  
+14 et al.,2008;von Davier,2005)，基于G-DINA 框架下的多级属性模型，比如 Chen 和 de  
+15 la Torre(2013)，蔡艳和涂冬波(2015),高阶的多级属性模型(Zhan etal.,2020)，连续的多  
+16 级属性诊断模型(Shang etal.,2021)等。在这里，为节省篇幅，仅仅介绍与本文有关的  
+17 pG-DINA 和p-DINA 模型。  
+18 pG-DINA (polytomous generalized deterministic inputs, noisy,“and” gate) 即 G-DINA  
+19 模型的多级属性版本(Chen&de la Torre,2013)。为方便介绍并且不失一般性，假定测  
+20 验中所有属性有相同的水平数，即，相关的符号与Chen 和de la Torre (2013)，de la  
+21 Torre (2011)保持一致。其中用来表示项目所考察的属性的个数，为方便介绍，假设项  
+22 目考察的属性恰好是前个属性，项目所需要的属性可以表示为简化的向量，其中，中  
+23 的元素的取值范围是，这样一来，项目 $j$ 需要考虑的属性向量个数由下降到，即将那些  
+24 没有考察的属性不予考虑，当然这样的简化也可以提高参数估计的速度。  
+25 在p-DINA模型下，每个项目都将学生分为两类，即掌握项目的学生(掌握了题目  
+26 所考察的属性，并且考生对属性的掌握水平都不低于题目所考察的水平)和未掌握项目  
+27 的学生(没有完全掌握题目所考察的属性，或者考生对属性的掌握至少有一个低于题目  
+28 所考察的水平)。进一步，对于项目 $j$ 来说，若，则学生在该属性上的掌握情况可以压  
+29 缩为一个二级的状态，即  
+30 (3)  
+31 记为压缩后的属性掌握向量，其中，这样就将被试参数的个数由下降到，关于这
+
+部分的详细过程请参考Chen和dela Torre (2013)的Table2。在pG-DINA模型的饱和形式下，属性向量为的被试正确作答项目的概率为(4)其中表示项目的截距参数，即学生未掌握该项目的任何属性时的作答概率；是属性的
+
+1主效应，即学生掌握属性所带来的正确作答概率增加的部分；是属性和的交互效应，  
+2 即学生同时掌握属性和所带来的正确作答概率增加的部分；是属性的交互效应。  
+3 当只考虑截距和阶交互效应时，则pG-DINA就变成了p-DINA模型；当只考虑截  
+4 距和个属性的主效应时，则则 pG-DINA 就变成了pA-CDM模型；其它的模型，如p-  
+5 DINO，pR-RUM等模型也可以在pG-DINA 模型上增加约束获得。因为p-DINA模型相  
+6对简单，所以本研究中基于p-DINA模型研究多级属性Q矩阵的估计和验证。
+
+# 3多级属性Q矩阵的估计方法
+
+8 在介绍多级属性Q矩阵的估计之前，首先对二级属性Q矩阵的估计方法作个简单  
+9 回顾。在BCDA中，有很多研究者对Q矩阵的验证和估计进行了深入的研究，比如de  
+10 la Torre (2008)提出的方法，涂冬波，蔡艳和戴海崎(2012)采用的方法，DeCarlo (2012)  
+11 采用的贝叶斯方法，Liu等人 (2012)提出的基于S统计量的方法，Xiang (2013)采用的  
+12 惩罚估计进行探索的方法，Chung (2014)采用MCMC 估计进行探索的方法，喻晓锋等  
+13 人(2015)采用的基于 S统计量的联合估计方法；de la Torre 和Chiu (2016)基于G-DINA  
+14 模型提出了一种经验的Q矩阵验证的方法；Wang 等人(2020)在已知Q矩阵中部分题目  
+15 的属性定义基础上，对几种基于似然比检验的方法进行了比较；Yu和Cheng(2020)考  
+16 虑了一种基于残差的Q矩阵验证方法等。  
+17 在众多的方法中，基于统计量的方法是完全基于作答数据的客观方法，并且Liu  
+18 等人对它相应的理论基础进行了严格的证明(Liu etal.,2013;Xu,2013)，该方法不依赖  
+19 于具体的诊断模型和测验计分方式，有非常好的拓广性。因此本研究拟将统计量拓展  
+20 到适合多级属性Q矩阵的估计。考虑实际应用中可能出现的两种情况，第一种情况与  
+21 Liu等人(2012)相同，即已经由专家界定了Q矩阵，记为，只是还不确定是否完全正确  
+22 (完全正确是指中每个项目的属性向量都正确)，因此需要采用客观的方法进行验证，这  
+23 里拟对统计量进行拓广，使之适合多级属性情况下的Q矩阵验证；考虑的另一种情况  
+24 是手头只有少数的项目属性向量已经界定，有更多的“新项目”需要属性向量的定义，  
+25 即考虑多级属性情况下的Q矩阵估计。为方便介绍，记适合二级属性的统计量为，适  
+26 合多级属性Q矩阵的统计量为。  
+27 下面介绍基于统计量的多级属性Q矩阵的估计。
+
+# 3.1基于统计量的多级属性Q矩阵估计
+
+构建统计量的核心是T矩阵，T矩阵中的元素描述的是不同能力的考生在测验单个题目上或所有可能题目组合上的期望正确作答概率，它将期望作答分布和模型结构联系起来了，是Q矩阵定义的反映，它建立起了属性分布和作答分布间的线性依赖关系(Liu et al., 2012, 2013; Qin et al., 2015)。
+
+测验考察了个属性，每个属性有个水平，因此，学生的属性掌握状态有种可能。T矩阵一共有列，T矩阵的行分别对应了各类学生对单个项目、2个项目的组合、…， $J$ 3个项目组合的正确作答概率，此时构建的T矩阵如下(4)所示。
+
+# (4)
+
+的行表示各单个项目及其所有可能的组合，共有行，其中对应的行表示同时正确作答项目1和项目2的概率；的列表示所有可能的学生类，在不考虑属性间关系的情7况下，共有 $M ^ { K }$ 列。
+
+假设学生的总体分布记为，通常情况下，在没有先验信息的情况下可以把按均匀分布处理，在估计过程中采用经验贝叶斯方法(dela Torre,2009)来对其进行更新。
+
+学生在各单个项目及其可能组合(即)上的期望作答分布可以通过得到，如(5)式所1示，其中，表示该被试总体中正确作答项目1的期望概率，其计算方法如(6)所示。
+
+# (5)
+
+# (6)
+
+其中，表示被试的属性掌握模式全集。另一方面，学生的观察作答分布(用表示)可以从作答数据中得到，这里项目参数(用表示)使用 EM算法(dela Torre,2011)估计，学16 生的知识状态(用表示)通过MAP算法(dela Torre,2009)得到。当Q矩阵界定正确，各17 参数误差较小的情况下，根据大数定律，在被试人数足够多，即时，有成立，即测验18 总体的观察作答分布依概率收敛于其期望分布(Liu etal.,2012,2013;Xu,2013)。当包含19 猜测和失误时，Q矩阵中包含的错误越少，此时和之间的距离应该越小，因此估计多20 级属性Q矩阵的目标函数为
+
+# (7)
+
+23 其中，表示一个一般的Q矩阵，其正确性未知，表示Q矩阵的估计值，“arg inf表示  
+24 在整个可能的Q矩阵空间中，使函数取最小值时的Q矩阵即为其估计值。  
+25 下面介绍适合于前面提到的两种应用情境的算法。
+
+# 3.2基于统计量的联合估计算法JE
+
+记测验真实的Q矩阵为，从专家界定的Q矩阵(初始Q矩阵，其中包含错误)出发，即将作为输入，通过联合估计算法，得到Q矩阵的估计值，项目参数和被试参数，比较与之间的差异，如果与完全一致，则表明算法成功估计，并且计算各参数的估计精度；否则估计不成功。联合估计算法具体过程如下所示：(1)基于，作答数据X，分别采用EM，MAP算法估计项目参数和被试参数(Chen&de la Torre,2013)，并计算。(2)在中，固定其它项目，对项目，取其属性向量为（可能的取值空间记为，有种取值)，得到，估计参数，并计算，取最小时对应的作为项目 $j$ 的属性向量，即：
+
+1  
+2 (3)当所有项目都完成估计，记为一次迭代，此时得到的Q矩阵记为，如果与完全  
+3 一致，转到步骤(5)；否则迭代次数加1，转到步骤(4)。  
+4 (4)将，重复步骤(2)。  
+5 (5)算法结束，输出和此时的参数估计值和。
+
+#
+
+b 3.5基丁统里时仕线怕昇法UE  
+7 JE 算法需要专家已经对测验中的所有项目属性均已界定，只是其中包含错误。不  
+8 同的是，OE 算法只需要专家对少部分项目已经界定，对剩余的项目未界定(可以是以  
+9 下三种情况：新编制的项目需要界定属性、专家之间对属性界定持不同意见的项目、  
+10 属性定义不确定或有怀疑的项目)，在这种情况下，可以采用OE 算法进行估计。  
+11 记已界定属性向量的这部分项目为，剩余需要界定的项目记为，因为部分已经界  
+12 定，每次从中无放回地取出一个项目(记为)加入到中，估计的属性向量，将；重复这个  
+13 过程，直到为空。在线估计算法的具体过程如下所示：  
+14 (1)从中无放回地取出一个项目加入到中，为方便介绍且不失一般性，假设新加入  
+15 的项目总是放在第一行，即。  
+16 (2)基于，作答数据，估计项目参数和被试参数，并计算。  
+17 (3)在中，对新加入的项目，取其属性向量为，估计参数，并计算，取最小时对应  
+18 的作为项目 $j$ 的属性向量，即：  
+19  
+20 (4)如果不为空，重复步骤(1)；否则转到步骤(5)。  
+21 (5)算法结束，输出的估计值。  
+22 需要说明的是，当初始时完全正确且包含适当数量时，这种“增量式”的OE 算法  
+23 每次只对第一个项目进行估计，可以有效地避免了一次加入多个错误项目所带来的  
+24 “遮罩效应(masking effect; Fung,1993; Yuan& Zhong,2008)”；但是如果也包含错误或  
+25 者数量较少时，OE算法对部分项目的估计仍可能包含错误，此时需要对OE算法的输  
+26 出Q矩阵采用JE算法进行估计，即采用“二次校正”的方法来保证估计的正确性。
+
+# 4研究设计
+
+为了评价基于S统计量的两种算法对于多级属性Q矩阵估计的表现，我们通过模拟研究考察它们在不同的条件下成功识别正确Q矩阵的可能性。如前面所述，假设手头已有专家界定的Q矩阵，这个Q矩阵中可能存在少量的错误，为考察统计量的表现，分两种情况，第一种情况：中的属性向量被界定错误仅仅是部分属性的值存在大小上的错误，即将属性的值过高的设定或过低(但不包括0)的设定，比如的值应该为2，但实际上专家将其界定为1或3；第二种错误情况：既存在属性的值在大小上的错误，也
+
+1存在误设未考察的属性或缺失考察的属性，比如：误将设置为。在不引起误解的情况  
+2 下，下文将这两种类型的错误分别简称为错误I和错误II，将错误I和错误ⅡI所对应的  
+3 可能的属性向量空间分别记为。可以看出，错误Ⅱ是实际测验中的一般情形，错误I  
+4 是它的一种特殊的情形。  
+5 由于本研究中被试可能的属性掌握模式数为，如果被试人数为500的均匀分布总  
+6体，则平均每类被试数量偏少，仅为2.06，故样本量最小取1000人。
+
+# 7 4.1对于JE算法
+
+8 为了研究统计量在多级属性Q矩阵估计中的表现，考虑的因素有：项目个数，测  
+9 验人数，包含错误的项目个数和错误项目的类型共四个因素，其中项目个数参考Chen  
+10 和dela Torre (2013)关于多值属性Q矩阵的设定，包括2个水平，分别为15 和30，测  
+11 试人数(3个水平，1000，2000 和4000)，包含错误的项目类型(2个水平，错误I和错误  
+12 II)和错误的项目个数。错误的项目个数参考Liu等人(2012)的设置，共3个水平，分别  
+13 为3，4和5，表明“初始的Q矩阵”中包含3，4或5个属性向量被错误标定的题目，  
+14 余下题目的属性向量都是被正确标定的。因此，一共有个实验条件。
+
+# 4.2对于0E算法
+
+16 JE 算法中，已假定专家对所有的个项目都进行了属性向量界定，OE与JE算法不  
+17 一样的是专家只是对“基础项目”部分进行了界定，余下的是需要估计的“新项目”。  
+18 本研究中这部分“新项目”的属性向量初值是随机生成的。这里考察的因素主要有：  
+19 项目个数(与JE算法一样，仍然是2个水平，分别为15，30)，测试人数(与JE算法相  
+20 同，还是3个水平，1000，2000 和4000)，基础项目个数参考Qin等人(2015,2020)的设  
+21 置，其中测验长度为30时有8个水平，分别是8，9，10，11，12，13，14和15；测  
+22 验长度为15时有6个水平，分别是5，6，7，8，9，10。因此，一共有个实验条件。
+
+# 4.3数据模拟
+
+# 4.3.1Q矩阵
+
+测验的真实Q矩阵如附录中的表A1和表A2所示，中共有30个项目，中有15个项目(Chen& dela Torre,2013;Yu&Cheng,2020)。为方便区分，将包含30，15个项目的Q矩阵记为，。
+
+# 4.3.2项目参数
+
+项目参数假设服从均匀分布，猜测参数和失误参数都按模拟。
+
+# 4.3.3被试参数
+
+被试的知识状态分布按均匀分布模拟，即种知识状态的被试人数相近。
+
+# 4.3.4作答数据
+
+基于真实的Q矩阵、项目参数和被试参数，按照p-DINA模型模拟作答数据。
+
+# 2 4.3.5初始Q矩阵
+
+3 (1)对于JE算法，随机从真实Q矩阵的个项目中选出若干个项目，并将其属性向量  
+4 按照预定方案(错误I和错误II)修改成错误的状态，但不能是全0的向量，也不能是其  
+5 正确的值，将修改后的矩阵作为“初始Q矩阵”。  
+6 (2)对于OE算法，随机从真实Q矩阵的个项目中选出若干个项目作为“基础项  
+7 目”，而余下的项目作为“新”项目，“新”项目的属性向量初始值按随机方式生成，  
+8 但不能是0向量，也不能是其正确的向量。
+
+# 4.3.6参数估计
+
+数据的模拟和分析采用matlab编写程序完成，每种实验条件重复100次，最后取100次的平均值作为最终的结果。
+
+# 4.3.7评价指标
+
+这里采用三个指标来评价多级属性Q矩阵估计算法的表现，分别是：Q矩阵成功恢复率、平均迭代次数和平均执行时间。Q矩阵成功恢复率是指在某种条件下的100批数据中，算法输出的Q矩阵完全匹配真实Q矩阵的比率，计算公式为，(9)这里T为实验重复次数，这里取100，I为示性函数，在和完全一致时取1，否则取0。平均迭代次数是对100次估计的总迭代次数计算平均值。，(10)这里表示第批数据需要的迭代次数。与平均迭代次数类似，我们同样也分别记录了两种方法的平均执行时间，它也描述了对应方法的计算效率，具体计算公式为，(11)这里表示第批数据需要的执行时间，以秒为单位。上面的三个指标中，描述的是算法的估计精度，值越大表示算法的估计精度越高。和描述的是算法的运行效率，值越小表明算法的效率越高。
+
+# 4.4研究一多级属性Q矩阵和参数的联合估计
+
+联合估计适合的测验情形是：专家已对测验项目都已界定，只是对部分项目的属性定义尚不确定、可能界定错误或意见不统一时使用。采用JE算法可以对Q矩阵进行验证，并且输出建议的Q矩阵。下面分两种错误类型进行介绍。
+
+# 4.4.1仅仅存在属性值界定错误时的联合估计
+
+在实际应用中，专家在界定某些项目的属性值时出现分歧或错误的情况，即前面
+
+1所介绍的错误I，这是一种相对简单的情形。因此本研究考察当初始Q矩阵中有部分项  
+2 目仅仅出现属性低估或高估的情况(不包括低估至0或从0高估的情况)。  
+3 学生在测验中的作答模拟是按真实Q矩阵完成，只是在分析数据时采用包含错误  
+4 的“初始Q矩阵”作为输入，采用JE 算法来实现对Q矩阵、项目参数和被试参数的联  
+5 合估计，最后比较算法估计得到的Q矩阵与真实Q矩阵之间的差异，若完全一致，则  
+6 估计成功，否则估计失败，并且统计估计过程中的迭代次数。
+
+# 4.4.2存在属性值错误、含多余属性或缺失必要属性时的联合估计
+
+8 相对来说，错误ⅡI是比错误I更严重的错误，因为不但会出现属性低估和高估，  
+9 同时还会出现将未考察的属性包含进来，也可能会出现将考察的属性遗漏，这在实际  
+0 应用也是有可能出现的，错误I可以看成是错误ⅡI的一种特殊情形。因此本研究考察  
+1 当初始Q矩阵出现错误ⅡI时JE算法的表现。  
+12 4.5研究二多级属性Q矩阵和参数的在线估计  
+13 在线估计算法OE适合的另一种测验情形，即仅仅少部分项目被正确界定，有大批  
+14 项目需要定义属性向量的情况，比如对编制的一批新题进行界定(包括属性向量和参数)，  
+15 “新项目”的属性向量不需要专家进行初始界定，可以按随机方式生成，在这种情况  
+16 下，可以借助已有项目的信息，完成对新项目的界定。  
+17 界定时需要学生同时作答“基础项目”和“新项目”，估计时固定“基础项目”  
+18 的属性向量，只需要估计“新项目”的属性向量。为了充分利用已有信息，减少“噪  
+19 音”信息引起的“遮罩效应”(masking effect; Fung,1993;Yuan & Zhong,2008)带来的负  
+20 面影响，估计时采用每次只加入一个“新项目”的增量式估计的方式进行。并且，为  
+21 了降低由于“基础题”的质量所带来的影响，在OE算法结束后，对整个Q矩阵再使  
+22 用 JE 算法进行整体估计，提高估计的成功率。最后比较算法估计得到的Q矩阵与真实  
+23 Q矩阵之间的差异，若完全一致，则估计成功，否则估计失败，并且统计估计过程中  
+24 的迭代次数。  
+25 需要注意的是，OE算法中是指完成所有的“新项目”估计后，如果“新项目”  
+26 没有估计成功，则对包含“基础项目”和“新”项目的Q矩阵用JE算法进行联合估计，  
+27 因此从这个角度来看，OE算法中的迭代次数与JE算法中一样，也是指对所有项目完  
+28 成一次估计的次数。
+
+# 4.6试验结果
+
+# 30 4.6.1JE算法的估计结果
+
+表1-表4是JE算法在项目数(30，15)和错误类型(I和II)时的估计结果，从结果可以看出，JE算法在估计Q矩阵时，其执行效率和正确率受到多方面因素的影响，比如：被试人数，测验的项目数，包含的错误项目数等的影响。研究一和研究二是分别安排在两台云服务器上运行的，服务器的具体配置是：CPU是2颗至强E5-2697，十二核心;内存类型DDR5，容量是64G；硬盘类型是固态，容量512G。从算法的执行效率来看，虽然算法的搜索空间已经下降了很多，但是依然有较大的搜索空间，各种条件下的平均执行时间仍然较大，最低情况下需要一天的时间(89182.33秒)。从算法的正确率来看，相对来看，测验项目数对于正确率的影响很大，测验项目从30下降到15，估计成功率平均下降了 $6 1 . 6 7 \%$ 。
+
+表1错误类型I时JE算法的估计成功率和平均迭代次数  
+
+<html><body><table><tr><td rowspan="2">包含的</td><td colspan="8">被试人数</td></tr><tr><td></td><td>1000</td><td></td><td></td><td>2000</td><td></td><td>4000</td><td></td></tr><tr><td>错误</td><td>成功率(%)</td><td></td><td>平均行</td><td>成功率</td><td>平均数</td><td>平均执行</td><td>成功率(%)</td><td>代 平均行</td></tr><tr><td>3</td><td>94</td><td>2.05</td><td>197397. 50</td><td>98</td><td>2.04</td><td>205128.4</td><td>98 2.00</td><td>211650. 67</td></tr><tr><td>4</td><td>92</td><td>2.14</td><td>210386.75</td><td>95</td><td>2.12</td><td>208827. 4 6</td><td>96 2.14</td><td>213588. 22</td></tr><tr><td>5</td><td>81</td><td>2.30</td><td>234271. 81</td><td>94</td><td>2.19</td><td>211649.6</td><td>94 2.21</td><td>215590. 22</td></tr></table></body></html>
+
+表2错误类型I,时JE算法的估计估计成功率和平均迭代次数  
+
+<html><body><table><tr><td rowspan="2">包含的 错误项</td><td colspan="8">被试人数</td></tr><tr><td></td><td>1000</td><td></td><td></td><td>2000</td><td></td><td>4000</td><td></td></tr><tr><td></td><td>成功率(%)</td><td>平均</td><td>平均行</td><td>成功率</td><td>平均数</td><td>平均执行</td><td>成功率(%)</td><td>平均行</td></tr><tr><td>3</td><td>36</td><td>3.13</td><td>89182.33</td><td>46</td><td>3.02</td><td>101401. 3 111399. 5</td><td>54 2.92</td><td>109542. 61</td></tr><tr><td>4</td><td>21</td><td>3.63</td><td>90511. 47</td><td>27</td><td>3.44</td><td>38 2</td><td>3.33</td><td>115674. 36</td></tr><tr><td>5</td><td>18</td><td>3.89</td><td>135365.82</td><td>22</td><td>3.62</td><td>138115.6</td><td>25 3.47</td><td>144921. 76</td></tr></table></body></html>
+
+3 4 5   
+6 7 8 9 10
+
+1 从表1和表2中可以看出，被试人数和测验项目数都与Q矩阵估计成功率有正向  
+2 的相关关系，而错误项目数与Q矩阵估计成功率则有负向的相关关系。根据本研究中  
+3 的条件，被试人数为2000，测验项目数为30，可以达到较好的估计结果。具体来说，  
+4 对于估计成功率，Q矩阵包含30题时各条件下都能达到 $80 \%$ 以上，而15题时最好的  
+5 情况都要小于 $60 \%$ 。从迭代次数来看，测验项目数为15时，各样本条件下需要的平均  
+6迭代次数小于2.5，而当项目数达到30时，对应需要的迭代次数超过3。  
+11 下表3和表4分别是测验项目数为30，15，并且Q矩阵中包含错误类型ⅡI时的估  
+12 计结果。可以看出，一方面被试人数的增加可以提高JE算法的估计成功率，比如测验  
+13 长为30，错误项目数为3和5时，被试人数从1000提高到4000，估计成功率分别提高  
+14 了 $7 \%$ 和 $13 \%$ 。另一方面，被试人数和错误项目数会对估计成功率会产生交互作用，因  
+15 为当测验长度只有15，错误项目数3和5，人数从1000提高到4000，估计成功率分别  
+16 提高了 $1 8 \%$ 和 $5 \%$ ，此时人数的增加对低错误项目数影响更大，这与测验长度为30 时  
+17 的情况正好相反。  
+1 综合表1，表2，表3和表4可以看出，一方面，当错误类型为Ⅱ时，相同人数、  
+2 题目条件下要略低于错误类型I时的估计成功率，并且相应的迭代次数也要更多，这是  
+3 因为错误类型I时，项目属性向量可能的取值空间更大所导致的；另一方面，从平均  
+4 运行时间来看，相对于错误类型I，固定其它条件时错误类型ⅡI各对应的实验条件需要  
+5相对更多的运行时间，这一点是和更大的迭代次数相一致的。
+
+![](images/c0ecc5272a5041d1a3efb33f9cb9bf1b586de4e26e41c1d415511e00f332a2cd.jpg)  
+JE算法对 ${ \sf q } _ { 1 } ^ { 3 0 }$ 和 $\boldsymbol { \mathsf { Q } } _ { 2 } ^ { 1 5 }$ 的估计结果(错误I)
+
+![](images/ac5535f51024ecc3671302e580733bcb527a62486416726e6187193c95d7bd8c.jpg)  
+图1错误类型I时，JE算法的估计结果  
+图2错误类型I时，JE算法的迭代次数
+
+表3错误类型II,时JE算法的估计成功率平均迭代次数  
+
+<html><body><table><tr><td rowspan="3">包含的 错误项</td><td colspan="7">被试人数</td></tr><tr><td>1000</td><td></td><td></td><td>2000</td><td></td><td></td><td>4000</td><td></td></tr><tr><td>成功率(%)</td><td></td><td>平均行</td><td>成功率</td><td>平次</td><td>平均执行</td><td>成功率(%) 代数</td><td>平均行</td></tr><tr><td>3</td><td>91</td><td>2.94</td><td>217999.39</td><td>97</td><td>2.38</td><td>207354. 2 2</td><td>98</td><td>2.43</td><td>212017. 28</td></tr><tr><td>4</td><td>90</td><td>3.17</td><td>221085.75</td><td>95</td><td>2.58</td><td>209615.6 8</td><td>96</td><td>2.68</td><td>214643. 81</td></tr><tr><td>5</td><td>80</td><td>3.75</td><td>254841. 29</td><td>89</td><td>3.32</td><td>242336.0 1</td><td>93</td><td>3.58</td><td>287900. 52</td></tr></table></body></html>
+
+表4错误类型ⅡI,时JE算法的估计成功率和平均迭代次数  
+
+<html><body><table><tr><td rowspan="3">包含的 错误议项</td><td colspan="9">被试人数</td></tr><tr><td colspan="3">1000</td><td colspan="3">2000</td><td colspan="3">4000</td></tr><tr><td>成功率(%)</td><td></td><td>平均行</td><td>成功率</td><td>平均</td><td>平均行</td><td>成功率(%)</td><td>平</td><td>平均行</td></tr><tr><td>3</td><td>33</td><td>3.34</td><td>92723. 60</td><td>45</td><td>3.32</td><td>101737. 0 7</td><td>51</td><td>3.28</td><td>119922. 70</td></tr><tr><td>4</td><td>17</td><td>3.85</td><td>97788. 49</td><td>25</td><td>3.74</td><td>111740. 9 8</td><td>37</td><td>3.73</td><td>126056.07</td></tr><tr><td>5</td><td>15</td><td>4.41</td><td>144782. 21</td><td>18</td><td>4.32</td><td>184428.1</td><td>20</td><td>4.27</td><td>195388. 36</td></tr></table></body></html>
+
+![](images/184bc6b5402426471f2b3a1c525d9389ff54217dcb94c5359dc458590f6e8cce.jpg)  
+JE算法对 ${ \sf a } _ { 1 } ^ { 3 0 }$ 和 $\boldsymbol { \mathsf { Q } } _ { 2 } ^ { 1 5 }$ 的估计结果(错误I)
+
+![](images/87b5e3b98ee99a3c95ad8716268f06043eeca415b6dd6a102f6c17d1c483a46c.jpg)  
+图3错误类型ⅡI时，JE算法的估计结果  
+图4错误类型II时，JE算法的迭代次数
+
+综合图1、图2、图3和图4，随着Q矩阵中包含的错误项目数增加，不论是错误类型I还是错误类型II，JE算法估计的成功率在下降，所需要的迭代次数在增加。
+
+# 4.6.20E算法的估计结果
+
+表5和表6分别是OE算法在和，不同基础题时的在线估计结果，从结果来看，要想达到较好的估计成功率，不同被试人数需要的基础项目个数不同，被试人数越多时需要的基础项目越少，比如对于，要想达到 $90 \%$ 以上的估计成功率，1000人需要10个基础题，2000人和4000人只需要8个基础题即可；要想达到95以上的成功率，1000人和 2000人都至少需要13个基础题，而4000人只需要12个基础题。而对于，要想达到 $80 \%$ 以上的估计成功率，三种被试人数都需要至少9个基础题。对于相同的基础题
+
+1数，OE算法对30题的Q矩阵估计的成功率要高于15题的Q矩阵，这主要是因为题目  
+2 数增加提高了被试的属性掌握模式估计准确率导致的。当基础题为10时，。从图5和  
+3 图6来看，估计成功率是随着基础题的增加而增加，所需要的迭代次数是随着基础题  
+4 的增加而减少的。从OE算法的运行效率来看，随着“基础项目”的增加，所需要的运  
+5 行时间在下降，比如在测验长为为30，8和15个“基础项目”，1000人时，平均运行  
+6 时间分别是176481.88和23545.31秒，这是因为OE 算法所花费的时间主要是由“新  
+7 题”的数量和联合估计决定的，而联合估计过程的耗时占用了时间的大部分，8和15  
+8个“基础项目”条件下的平均迭代次数分别为1.78和0.22。
+
+![](images/4856b07a6a11954a0f1666babc31ddc461b92d320f85a51c17d147fda978fed0.jpg)
+
+![](images/cd5eeaa1e3c7debd19177cbfb8d436ca0f3f418502a3afd40125111e91a32db1.jpg)  
+图5OE算法在的估计结果  
+图6OE算法在的迭代次数
+
+# 表5时OE算法的估计成功率和平均迭代次数
+
+<html><body><table><tr><td rowspan="3">包含的 基础数</td><td colspan="7">被试人数</td></tr><tr><td></td><td>1000</td><td></td><td>2000</td><td></td><td></td><td>4000</td><td></td></tr><tr><td>成功率(%)</td><td></td><td>平均行</td><td>成功率</td><td>平均迭数</td><td>平均行</td><td>成功率(%)</td><td>平均执行</td></tr><tr><td>8</td><td>88</td><td>1.78</td><td>176481. 88</td><td>90</td><td>1.65</td><td>166386.6 6</td><td>91</td><td>1.57</td><td>171756. 48</td></tr><tr><td>9</td><td>89</td><td>1.23</td><td>118728. 54</td><td>91</td><td>1.20</td><td>123921.9 5</td><td>93</td><td>1.14</td><td>122017. 14</td></tr><tr><td>10</td><td>91</td><td>0.74</td><td>72991.02</td><td>92</td><td>0.71</td><td>78193. 55</td><td>93</td><td>0.68</td><td>74526.40</td></tr><tr><td>11</td><td>92</td><td>0.49</td><td>49849. 71</td><td>92</td><td>0.47</td><td>51103. 55</td><td>94</td><td>0.39</td><td>41299.84</td></tr><tr><td>12</td><td>94</td><td>0.44</td><td>43077. 71</td><td>94</td><td>0.40</td><td>45441. 27</td><td>95</td><td>0.37</td><td>42427.26</td></tr><tr><td>13</td><td>95</td><td>0.37</td><td>38305.11</td><td>95</td><td>0.35</td><td>40129. 54</td><td>96</td><td>0.27</td><td>30554.28</td></tr><tr><td>14</td><td>95</td><td>0.31</td><td>31613.60</td><td>97</td><td>0.31</td><td>33325.60</td><td>97</td><td>0.20</td><td>22460.50</td></tr><tr><td>15</td><td>96</td><td>0.22</td><td>23545. 31</td><td>98</td><td>0.20</td><td>24116. 44</td><td>99</td><td>0.14</td><td>15503.14</td></tr></table></body></html>
+
+注：OE算法中的平均迭代次数是指在对数据进行整体估计时的平均迭代次数，如果估计过程不需要整体估计即已成功完成，则该批数据的选代次数为0。表6时OE算法的估计估计成功率和平均迭代次数
+
+<html><body><table><tr><td rowspan="3">包含的 基数</td><td colspan="9">被试人数</td></tr><tr><td rowspan="2"></td><td colspan="3">1000</td><td colspan="3">2000</td><td colspan="3">4000</td></tr><tr><td>成功率(%)</td><td>平均</td><td>平均行</td><td>成功率</td><td>平均</td><td>平均行</td><td>成功率(%)</td><td></td><td>平均行</td></tr><tr><td>5</td><td>37</td><td>1.98</td><td>59247. 69</td><td>46</td><td>1.65</td><td></td><td>57</td><td>1.57</td><td></td></tr><tr><td>6</td><td>45</td><td>1.73</td><td>51665.79</td><td>61</td><td>1.50</td><td>60889. 27 59236. 04</td><td>63</td><td>1.44</td><td>65979. 07</td></tr><tr><td>7</td><td>56</td><td>1.54</td><td></td><td>69</td><td>1.47</td><td>54194. 22</td><td>72</td><td>1.39</td><td>58697.26</td></tr><tr><td>8</td><td>74</td><td>1.59</td><td>51053. 47 52259. 96</td><td>77</td><td>1.41</td><td>47412. 48</td><td>79</td><td>1.38</td><td>52665.52</td></tr><tr><td>9</td><td>81</td><td>1.24</td><td>37851. 94</td><td>85</td><td>1.14</td><td>42252. 64</td><td>91</td><td>1.07</td><td>57552.01 42516.31</td></tr><tr><td>10</td><td>89</td><td>1.06</td><td>30857.39</td><td>91</td><td>1.05</td><td>37500. 04</td><td>93</td><td>1.01</td><td>40903.18</td></tr></table></body></html>
+
+![](images/c4bafb20d117063914988006a6e24bf03dbdb8a3f3f4b4e8f05bb0d42fa19e1d.jpg)  
+图7OE算法对 $\mathbf { Q } _ { 2 }$ 的估计结果
+
+![](images/786abed027d99cf532cbf49e04ae694c7190c54a55b7234ce653bd62d8734c43.jpg)  
+  
+图8OE算法对 $\mathrm { Q } _ { 2 }$ 的平均迭代次数
+
+6 从图5-图8可以看出，当测验项目数从30降到15时，算法所需要的迭代次数会有  
+7 较大的增加，比如基础题为10个，1000人，长度30和15的测验所需要的迭代次数分  
+8别为0.74和1.06。
+
+# 95实证数据分析
+
+10 为了进一步评价两种算法的性能，将它们应用到一批实证数据上。这批实证数据  
+11 是来自于某市高中的一次月考，选取了数学试卷中与概率有关的试题。这部分测试题  
+12 考察了随机事件，样本空间，古典概率，使用频数估计概率共四个属性。每个属性有  
+13 五个连续的掌握类别：不了解，了解，理解，掌握和应用，分别用0,1,2,3,4表示。  
+14 基于这四个属性，由学科专家共编制了20个题，一共有1960个考生完成了测验。  
+15 以专家界定的“初始Q矩阵”(表7)作为输入，分别采用前面提出的两个算法来验  
+16 证或估计Q矩阵。对于JE算法，终止时总的迭代的次数为4，这个结果比前面模拟研  
+17 究中的迭代次数要多，这也表明对于实际的测验数据通常是需要更多次的迭代才能够  
+18 达到算法的收敛条件。JE算法估计得到的“建议Q矩阵”如附录中的表A3所示。可  
+19 以看出，一方面，JE算法建议修改6个题目，共涉及到7个属性，并且对这7个属性  
+1 都是属性水平上的修改，即认定初始Q矩阵出现了错误类型I。另一方面，参数估计的  
+2 结果表明考生的属性掌握模式不是均匀分布的，整个数据中只出现了76种属性掌握模  
+3 式。  
+4 对于OE算法，我们选择了初始Q矩阵中的5个题目(表A4中灰色背景显示的题  
+5 目)，选择这5个题目的原因是学科专家对这5道题的属性定义完全一致，并且它们在  
+6 JE 算法的建议Q矩阵中也得到了验证。余下的15道题作为“新题目”，将它们逐个用  
+7 OE 算法进行估计。当所有的“新题目”完成了估计，再用JE算法对所有题目进行联  
+8 合估计，这样就得到了OE算法建议的Q矩阵，如附录中的表A4所示。可以看出，  
+9 OE 算法建议修改6个题目，共涉及6个属性。除了第19题之外，由JE和OE两种算  
+10 法得到的建议Q矩阵是完全一致的。对于第19题，专家界定的初始向量为，JE和OE  
+11 算法得到的属性向量分别是 和。在与5位一线的教师进行讨论之后，他们其中的4位  
+12 都倾向于同意OE 算法得到的结果，即将第4个属性初始定义的水平2修改为水平3。
+
+表7概率数据对应的原始Q矩阵  
+
+<html><body><table><tr><td>题目 编号</td><td>属性1</td><td>属性2</td><td>属性3</td><td>属性4</td><td>题目 编号</td><td>属性1</td><td>属性2</td><td>属性3</td><td>属性4</td></tr><tr><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>4</td><td>2</td></tr><tr><td>2</td><td>0</td><td>0</td><td>2</td><td>1</td><td>12</td><td>0</td><td>4</td><td>0</td><td>1</td></tr><tr><td>3</td><td>0</td><td>3</td><td>0</td><td>4</td><td>13</td><td>2</td><td>0</td><td>3</td><td>0</td></tr><tr><td>4</td><td>0</td><td>0</td><td>2</td><td>0</td><td>14</td><td>0</td><td>1</td><td>0</td><td>3</td></tr><tr><td>5</td><td>1</td><td>2</td><td>0</td><td>0</td><td>15</td><td>2</td><td>1</td><td>0</td><td>0</td></tr><tr><td>6</td><td>0</td><td>1</td><td>1</td><td>0</td><td>16</td><td>0</td><td>1</td><td>1</td><td>0</td></tr><tr><td>7</td><td>0</td><td>2</td><td>0</td><td>0</td><td>17</td><td>0</td><td>2</td><td>0</td><td>0</td></tr><tr><td>8</td><td>3</td><td>0</td><td>0</td><td>1</td><td>18</td><td>4</td><td>0</td><td>0</td><td>1</td></tr><tr><td>9</td><td>1</td><td>1</td><td>0</td><td>0</td><td>19</td><td>0</td><td>0</td><td>4</td><td>2</td></tr><tr><td>10</td><td>1</td><td>2</td><td>0</td><td>0</td><td>20</td><td>0</td><td>1</td><td>0</td><td>1</td></tr></table></body></html>
+
+# L4 6讨论与进一步的研究方向
+
+15 本研究将适合二级属性Q矩阵的估计量拓展到多级属性的Q矩阵估计中，使得多  
+16 级属性Q矩阵的验证和估计成为可能，并针对实际应用中的两种常见情境，分别介绍  
+17 了两种算法：即JE和OE算法，它们分别适用于不同的场合。当手头已有Q矩阵的初  
+18 值(可以由专家来初步界定)时，可以采用JE算法进行验证，而OE算法是当手头只有  
+19 少部分项目的属性向量已经界定，需要对更多的项目进行定义时使用。模拟实验结果  
+20 表明，尽管多级属性Q矩阵的搜索空间相对于二级属性Q矩阵更大，但这两种算法在  
+21 各自适用的情况下都有较高的估计成功率。  
+22 虽然JE 和OE 算法在模拟条件下取得了较好的结果，即使如此，JE和OE 算法仍  
+23 然需要在更复杂的情况中去验证，对于JE算法，这里只考虑“初始Q矩阵”中包含的  
+24 错误项目较少，对于更多错误时的估计或者所能容忍的最大错误项目数量需要进一步  
+1 研究；对于OE算法，研究中随机选择了100批“基础项目”，这100批“基础项目”  
+2 的质量有好有坏，并没有考虑“基础项目”的质量对于估计的影响，如果进一步研究  
+3 “基础项目”的设计，使之更有利于“新项目”的估计，就像诊断测验中的Q矩阵设  
+4 计一样，在基础题中加入“可达矩阵”对于Q矩阵估计的影响等(Chen et al.,2015；丁  
+5 树良等,2019;彭亚风等,2016,2018;Gu et al.,2018;Gu& Xu,2021)，应该是很有意义  
+6 的工作。本研究中无论是JE还是OE算法，只考虑了两种错误类型，实际上，还有可  
+7 能存在其它的错误类型，未来需要对其它更多可能的情况进行研究。另外，现实的测  
+8 验情境往往是很复杂的，比如考生可能是存在多种解题策略的，因此，结合多种策略  
+9 的诊断测验中Q矩阵的估计需要进一步考虑(黄玉 等,2019)。测验的属性间很可能存  
+10 在某种层级关系(喻晓锋 等,2021)，属性间存在层级关系时的多值Q矩阵估计也是未  
+11 来需要研究的方向。  
+12 基于S统计量的Q矩阵估计一个不足之处在于需要花费较多的时间，这对于实际  
+13 应用可能是一个潜在的缺陷，未来对提出的方法进行时间效率上的改进或研究时间效  
+14 率更高的方法都值得进一步研究。比如Yu 和Cheng (2020)的研究表明，0-1计分下基  
+15 于残差统计量的统计量比基于S统计量在运行效率上有优势，因此将基于残差的统计  
+16 量拓广到多值属性诊断测验的Q矩阵估计值得考虑；未来也需要进一步考虑一些非参  
+17 数的方法，因为它们通常对于样本量的要求较小，并且有执行效率上的优势(刘娜 等,  
+18 2021);将基于深度学习等一些算法拓广到多值属性诊断测验的Q矩阵估计(张玉柳 等,  
+19 2021;Lietal.,2022)也需要深入研究。  
+20 实证数据的分析表明，本研究中提出的基于S统计量的联合估计算法和在线估计  
+21 算法可以在实际中应用，并且结果显示专家对于题目属性向量的错误定义更容易出现  
+22 在高估或低估属性的水平上，不太容易出现完全缺失某个属性或包含额外的属性等更  
+23 严重的情况。OE算法的一个副产品是同时将新项目的参数进行了估计，并且它能保证  
+24 与基础项目的参数处于同一个尺度上。将属性间的关系纳入考虑需要进一步研究，未  
+25 来也需要将算法应用到其它的诊断模型中(Zhan etal.,2020)。
+
+# 参考文献
+
+Cai,Y.，& Tu,D. B. (2015). Extension of cognitive diagnosis models based on the polytomous atributes framework and their Q-matrices designs. Acta Psychologica Sinica, 47(10), 1300-1308.   
+[蔡艳,涂冬波.(2015).属性多级化的认知诊断模型拓展及其Q矩阵设计.心理学报， 47(10), 1300-1308.]   
+Chen, J. S.,& de la Torre,J. (2O13).A general cognitive diagnosis model for expert-defined polytomous attributes. Applied Psychological Measurement, 37(6), 419-437.
+
+1 Chen, Y. X., Liu, J. C., Xu, G. J., & Ying, Z.L. (2015). Statistical analysis of Q-matrix based   
+2 diagnostic classification models. Journal of the American Statistical Association,   
+3 110(510), 850-866.   
+4 Chung, M. T. (2014). Estimating the $\mathcal { Q }$ -matrix for cognitive diagnosis models in a Bayesian   
+5 framework. (Unpublished doctoral dissertation), Columbia University, New York.   
+6 de la Torre, J. (2O09). DINA Model and Parameter Estimation: A Didactic. Journal of   
+7 Educational and Behavioral Statistics, 34(1), 115-130.   
+8 de la Torre, J. (2011). The generalized dina model framework. Psychometrika, 76(2),179-   
+9 199.   
+10 DeCarlo, L. T. (2012). Recognizing Uncertainty in the Q-Matrix via a Bayesian Extension of   
+11 the DINA Model. Applied Psychological Measurement, 36(6), 447-468.   
+12 Ding, S.L.,Luo,F., Wang, W. Y.,& Xiong, J. H. (2019). The designing cognitive diagnostic   
+13 test with dichotomous scoring. Journal of Jiangxi Normal University (Natural Science),   
+14 43(5), 441-447.   
+15 [丁树良,罗芬,汪文义,熊建华.(2019).0-1评分认知诊断测验设计.江西师范大学学报   
+16 （自然科学版),43(5),441-447.]   
+17 Fung, W. K. (1993). Unmasking outliers and leverage points: A confirmation. Journal of the   
+18 American Statistical Association, 88(422), 515-519.   
+19 Gu, Y. Q., Liu, J. C., Xu, G. J.,& Ying, Z. L. (2018). Hypothesis testing of the Q-matrix,   
+20 Psychometrika, 83(3), 515-537.   
+21 Gu, Y. Q.,& Xu, G. J. (2021). Sufficient and Necessary Conditions for the Identifiability of   
+22 the Q-matrix. Statistica Sinica, 31, 449-472.   
+23 Haberman, S.J., von Davier, M.,& Lee, Y.-H. (2008). Comparison of multidimensional item   
+24 response models: Multivariate normal ability distributions versusmultivariate   
+25 polytomous ability distributions (ETS Research Report no. RR-08-45). Princeton, NJ:   
+26 Educational Testing Service.   
+27Huang, Y., Luo,F., Xiong, J. H., Ding, S.L., & Gan, D. W. (2019). The multiple-strategy   
+28 cognitive diagnosis method with polytomous scoring. Journal of Jiangxi Normal   
+29 University (Natural Science), 43(4),376-381.   
+30 [黄玉,罗芬,熊建华,丁树良,甘登文.(2019).多级评分多策略认知诊断方法.江西师范大   
+31 学学报(自然科学版),43(4),376-381.]   
+32 Karelitz, T. M. (2004). Ordered category attribute coding framework for cognitive   
+33 assessments. (Unpublished doctoral dissertation)， University of Illinois at Urbana  
+34 Champaign.   
+35 Leighton, J.P.， Gierl, M. J.，& Hunka， S.M. (2004). The atribute hierarchy method for   
+36 cognitive assessment: A variation on Tatsuoka's rule-space approach. Journal of   
+1 Educational Measurement, 41(3),205-236.   
+2 Li, C. C., Ma, C. C., & Xu, G. J. (2022). Learning large Q-matrix by restricted Boltzmann   
+3 machines. Psychometrika.https://doi.org/10.1007/s11336-021-09828-4.   
+4 Liu, J. C., Xu, G. J.,& Ying, Z.L. (2012). Data driven learning of Q matrix. Applied   
+5 Psychological Measurement, 36(7), 548-564.   
+6 Liu, J. C., Xu, G. J.,& Ying, Z. L. (2013). Theory of the self-learning Q-matrix. Bernoulli,   
+7 19(5A), 1790-1817.   
+8 Liu, N., Liu, X. L., Li, J. J., Zeng, P. F., Yu, X. J., & Kang, C. H. (2021). Constructing a non  
+9 parametric Q-matrix correction method based on Manhattan distance. Journal of Jiangxi   
+10 Normal University (Natural Science), 45(6), 634-641.   
+11 [刘娜,刘芯伶,李俊杰,曾平飞,俞向军,康春花.(2021).基于曼哈顿距离构建非参数Q矩   
+12 阵修正方法.江西师范大学学报(自然科学版),45(6),634-641.]   
+13 Ma, W.,& Torre, J. (2019). An empirical Q-matrix validation method for the sequential   
+14 generalized DINA model. British Journal of Mathematical and Statistical Psychology,   
+15 73(1), 142-163.   
+16 Peng, Y. F., Luo, Z. S.,Li, Y. J., Gao, C. L. (2018). Optimization of test design for examinees   
+17 with different cognitive structures. Acta Psychologica Sinica, 50(1),130-140.   
+18 [彭亚风,罗照盛,李喻骏,高椿雷.(2018).不同认知结构被试的测验设计模式.心理学报,   
+19 50(1),130-140.]   
+20 Peng, Y. F., Luo, Z. S., Yu, X. F., Gao, C. L., Li, Y,J. (2016). The optimization of test design   
+21 in Cognitive Diagnostic Assessment. Acta Psychologica Sinica, 48(12), 1600-1611.   
+22 [彭亚风,罗照盛,喻晓锋,高椿雷,李喻骏.(2016).认知诊断评价中测验结构的优化设计.心   
+23 理学报,48(12),1600-1611.]   
+24 Qin, C. Y.， Zhang, L., Qiu, D., Huang,L., Geng, T., Jiang,H., Zhou, J. (2015). Model   
+25 identification and Q-matrix incremental inference in cognitive diagnosis. Knowledge  
+26 Based Systems,86,66-76.   
+27 Qin, C. Y., Jia, S., Fang, X. W., & Yu, X. F. (202O) Relationship validation among items and   
+28 attributes, Journal of Statistical Computation and Simulation, 90,18, 3360-3375   
+29 Shang,Z. R., Erosheva, E. A., Xu, G. J. (2021). Partial-mastery cognitive diagnosis models.   
+30 The annals of applied statistics,15 (3), 1529 -1555.   
+31 Templin, J.,& Bradshaw,L. (2013).Measuring the reliability of diagnostic classification   
+32 model examinee estimates. Journal of Classification, 30(2),251-275.   
+33 Templin, J. L. (2oo5). Generalized linear mixed proficiency models for cognitive diagnosis.   
+34 (Unpublished doctoral dissertation), University of Ilinois at Urbana-Champaign.   
+35 Tu, D.B., & Cai, Y. (2015). The development of CD-CAT with polytomous attributes. Acta   
+36 Psychologica Sinica, 47(11), 1405-1414.
+
+1 [涂冬波,蔡艳.(2015).基于属性多级化的认知诊断计算机化自适应测验设计与实现.心 2 理学报,47(11),1405-1414.] 3 von Davier, M. (20o5). A general diagnostic model applied to language testing data (ETS 4 Research Report no. RR-05-16). Princeton, NJ.: Educational Testing Service. 5 Wang,D.X., Cai, Y,& Tu, D. B. (2020). Q-matrix estimation methods for cognitive diagnosis 6 models: Based on partial known Q-matrix, Multivariate Behavioral Research, 1-13. 7 Xiang, R. (2013). Nonlinear penalized estimation of true Q-Matrix in cognitive diagnostic 8 models. (Unpublished doctoral dissertation), Columbia University, New York. 9 Xu, G. J. (2013). Statistical inference for diagnostic classification models. (Unpublished   
+10 doctoral dissertation), Columbia University, New York.   
+11 Yu, X.F., & Cheng, Y. (2O2O). Data-driven Q-matrix validation using a residual-based statistic   
+12 in cognitive diagnostic assessment. British Journal of Mathematical and Statistical   
+13 Psychology, 73(1), 145-179.   
+14 Yu, X.F.,Luo, Z. S., Gao, C.L., Li, Y. J., Wang,R.,& Wang, Y. T. (2015). Joint estimation of   
+15 model parameters and Q-matrix based on response data. Acta Psychologica Sinica,   
+16 47(2), 273-282.   
+17 [喻晓锋,罗照盛,秦春影,高椿雷,李喻骏.(2015).基于作答数据的模型参数和Q矩阵联   
+18 合估计.心理学报,47(2),273-282.]   
+19 Yu, X. F., Luo, Z. S., Gao, C. L., Li, Y. J., Wang, R., & Wang, Y. T. (2015). An item attribute   
+20 specification method based On the likelihood D2 statistic. Acta Psychologica Sinica,   
+21 47(3), 417-426.   
+22 [喻晓锋,罗照盛,高椿雷,李喻骏,王睿,王钰彤.(2015).使用似然比D2 统计量的题目属   
+23 性定义方法.心理学报,47(3),417-426.]   
+24 Yu, X. F., Ma, Y. F.,Luo, Z. S.,& Qin, C. Y. (2021). The attribute hierarchical structure   
+25 learning based on K2 algorithm. Journal of Jiangxi Normal University (Natural   
+26 Science), 45(4), 376-383.   
+27 [喻晓锋,马奕帆,罗照盛,秦春影.(2021).基于K2算法的属性层级结构学习研究.江西师范   
+28 大学学报(自然科学版),45(4),376-383.]   
+29 Yuan,K. H.,& Zhong, X. (2oo8). Outliers,leverage observations,and influential cases in   
+30 factor analysis: Using robust procedures to minimize their effect. Sociological   
+31 Methodology, 38(1), 329-368.   
+32 Zhan, P. D., Bian, Y. F., Wang, L. J. (2O16). Factors affecting the classification accuracy of   
+33 reparametrized diagnostic classification modelsfor expert-defined polytomous   
+34 attributes. Acta Psychologica Sinica, 48(3), 318-330.   
+35 [詹沛达,边玉芳,王立君.(2016).重参数化的多分属性诊断分类模型及其判准率影响因 素.心理学报,48(3),318-330.]   
+Zhan,P.D., Wang, W.,Li, X. M. (202O). A partial mastery, higher-order latent structural model for polytomous attributes in cognitive diagnostic assessments. Journal of Classification, 37, 328-351.   
+Zhang,Y.L., Zhao, B.,& Tao, J. H. (2021). The study on students' cognitive state based on fuzzy cognitive diagnostic framework. Journal of Jiangxi Normal University (Natural Science), 45(5), 452-459.   
+[张玉柳,赵波,陶金洪.(2021).基于模糊认知诊断模型的学生认知状态研究.江西师范大 学学报(自然科学版),45(5),452-459.]
+
+# Validation and Estimation of Expert-defined Q-matrix with Polytomous Attribute
+
+QIN Chunying1,², YU Xiaofeng1 ('School of Psychology,Jiangxi Normal University,Nanchang,33oo22,China)(School ofMathematicsand Information Science，Nanchang Normal University，Nanchang 33oo32, China)
+
+# Abstract
+
+Cognitive diagnosis has recently gained prominence in educational assessment, psychiatric evaluation,and many other disciplines. Generally, entries in the Q-matrix of traditional cognitive diagnostic tests are binary (two levels, defined as O and 1). Polytomous attributes (multi-levels,defined as O，1，)，particularly those defined as part of the test development process,can provide additional diagnostic information. Compared to binary attributes, polytomous attributes can not only describe the student's knowledge profile, but can provide more extensive details.
+
+As we all know, Q-matrix impacts the accuracy of cognitive diagnostic assessment greatly. Research on the effect of parameter estimation and classification accuracy caused by the error in Q-matrix already existed,and it turned out that Q-matrix gotten from expert definition or experience was more easily subject to be affected by subjective factors,lead to a misspecified Q-matrix. Under this circumstance, it's urgently needed to find more objective polytomous-attribute Q-matrix verification and inference methods.
+
+The present research proposes the verification and estimation of expert-defined polytomous attribute Q-matrix based on the polytomous deterministic inputs, noisy, “and” gate (p-DINA） model. We intend to extend the methods adapted to binary Q-matrix verification and estimation to polytomous attribute Q-matrix， and the proposed methods which can be used in different conditions are joint estimation and online estimation. Simulation results show that: the joint estimation algorithm can be applied to the Q-matrix validation which needs an initial Q-matrix defined by experts, the online estimation algorithm can be applied to online estimate the "new items" based on a certain number of "based items". Under the various setings in the simulations, the two estimation algorithms can recover the 29 correct polytomous-atribute Q-matrix at a high probability. Empirical study also indicates 30 that the two proposed algorithms can be applied in Q-matrix validation or estimation for CDA 31 with polytomous attributes. 32 Keywords polytomous attribute, Q-matrix, PDINA, S statistics
+
+# 附录A
+
+表A130题对应的Q矩阵   
+
+<html><body><table><tr><td>６鳦に鳦鳦れにＺに叽６コ幻ηＳ切иコΠ６８し９Ｓ→εＺＩ</td><td>吾目</td></tr><tr><td>7O 0 OZO 乙０ 0 0 0 0 Ｉ乙 0 0 0 I 0 0 0 O乙O 0 0 0</td><td>科</td></tr><tr><td>OOO乙乙乙OOIO 00 0 0 OOI乙O 0 O乙００ 0 OI0</td><td>乙</td></tr><tr><td>OO乙乙 0 0 0 0 乙 0 0 0 0 0 乙 0 0 0 乙 0 0 0 0 0</td><td>属性 科</td></tr><tr><td>OZZO 0 0 0 乙 0 0 0 0 0 I 乙 0 0 0 乙 0 0 0 0 0 0 0</td><td>国 科 4</td></tr><tr><td>ZZO 0 OI O乙O 0 I I 0 0 OI乙O 0 O乙O 0 0 0 I 0 0 0 0</td><td>科 S</td></tr></table></body></html>
+
+表A215题对应的Q矩阵  
+
+<html><body><table><tr><td rowspan="2">项目 编号</td><td colspan="5">属性</td></tr><tr><td>属性1</td><td>属性2</td><td>属性3</td><td>属性4</td><td>属性5</td></tr><tr><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>2</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td></tr><tr><td>3</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td></tr><tr><td>4</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td></tr><tr><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>6</td><td>1</td><td>2</td><td>0</td><td>0</td><td>0</td></tr><tr><td>7</td><td>0</td><td>1</td><td>2</td><td>0</td><td>0</td></tr><tr><td>8</td><td>0</td><td>0</td><td>1</td><td>2</td><td>0</td></tr><tr><td>9</td><td>0</td><td>0</td><td>0</td><td>1</td><td>2</td></tr><tr><td>10</td><td>2</td><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>11</td><td>2</td><td>2</td><td>0</td><td>1</td><td>0</td></tr><tr><td>12</td><td>2</td><td>1</td><td>0</td><td>0</td><td>2</td></tr><tr><td>13</td><td>1</td><td>0</td><td>2</td><td>2</td><td>0</td></tr><tr><td>14</td><td>0</td><td>2</td><td>1</td><td>0</td><td>2</td></tr><tr><td>15</td><td>0</td><td>0</td><td>2</td><td>2</td><td>1</td></tr></table></body></html>
+
+表A3由JE算法得到概率论数据的建议Q-matrix  
+
+<html><body><table><tr><td></td><td>6 V</td><td>8 0</td><td>L g</td><td></td><td>1</td><td>C Z</td><td></td><td>0</td><td></td><td>6 8</td><td></td><td>9 g</td><td></td><td>→ 8</td><td>7</td><td></td><td></td><td></td></tr><tr><td>0 0</td><td></td><td></td><td>0</td><td>0</td><td>7 Z</td><td>0</td><td>8</td><td></td><td>0</td><td>0</td><td></td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td></td></tr><tr><td>7 0</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>V</td><td>0</td><td>7</td><td></td><td>0</td><td>7 乙</td><td>T</td><td>0</td><td>0</td><td>乙</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0</td><td>8 0</td><td>0</td><td></td><td></td><td>0</td><td>0</td><td></td><td></td><td>0</td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td>7</td><td>0</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>→</td><td></td><td>0</td><td>0</td><td></td><td></td><td>0</td><td>7</td><td>0</td><td></td><td>我 c</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>8</td><td></td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td>V</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0</td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td><td>0</td><td>Z</td><td>我</td><td></td></tr></table></body></html>
+
+注：表格中用粗斜体显示的元素表示JE算法所修改后的属性取值
+
+表A4由OE算法得到概率论数据的建议Q-matrix  
+
+<html><body><table><tr><td>6 ￥</td><td>8 29</td><td></td><td>7 Ⅱ 0 0 OI</td><td>6 8L I</td><td>9 g 0</td><td></td><td></td><td></td><td></td></tr><tr><td>0</td><td></td><td>00</td><td>7 0 8</td><td></td><td>0</td><td>I 0 T</td><td>0</td><td>0 I</td><td>I 科</td></tr><tr><td>I 0</td><td>0</td><td>ＺＩＺＩO</td><td></td><td>0 乙 I</td><td>０Ｚ 乙 OII</td><td>0</td><td>8 0</td><td>I 乙</td><td>科</td></tr><tr><td>0</td><td>0 OI</td><td>0 0</td><td>8 0</td><td>0 0</td><td></td><td>0 7</td><td>0 乙</td><td>国 0 科 c</td><td></td></tr><tr><td>IεI</td><td>00</td><td>0 8</td><td>0 I 乙</td><td>0 0 I</td><td>0 0</td><td>0 0</td><td>乙</td><td>0 科 4</td><td></td></tr></table></body></html>
+
+2注：阴影显示对应的题目表示OE算法中的“基础题”，余下的题目对应的是需要估计的“新题”。粗斜体显示元素表示OE算法所修改后的属性取值。加星号的题目表示由4OE算法给出的建议值与JE算法给出的建议值不一致的题目。56

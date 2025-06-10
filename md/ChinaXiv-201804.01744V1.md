@@ -1,0 +1,183 @@
+# DOI:10.5846/stxb201705020797
+
+卢同平,王艳飞,王黎明,林永静,武梦娟,张文翔,牛洁.西双版纳热带雨林土壤与叶片生态化学计量特征的干湿度效应.生态学报,2018,38（7)：2333-2343.  
+LuTP,WangFWgLinuJZngX,fofeiditididtolaoolleaves in Xishuangbanna tropical rainforest.Acta Ecologica Sinica,2018,38(7）:2333-2343.
+
+# 西双版纳热带雨林土壤与叶片生态化学计量特征的干湿度效应 C
+
+卢同平1,2，王艳飞1,²，王黎明1,²，林永静1,²，武梦娟,²，张文翔1,²，牛洁1,2，\*
+
+1云南师范大学高原湖泊生态与全球变化实验室，昆明650500  
+2云南师范大学高原地理过程与环境变化云南省重点实验室，昆明650098
+
+摘要;基于地理格局对西双版纳热带雨林的干湿度梯度效应和生态化学计量学的研究思路,结合野外试验监测和室内分析,对西双版纳热带雨林土壤-植物系统元素化学计量特征对海拔和干湿度效应响应进行了研究探讨,结果发现：西双版纳热带雨林土壤和叶片碳氮磷化学计量特征均不同程度的受到海拔和干湿季影响。季雨林与山地雨林的水热梯度受海拔梯度重要影响，随海拔梯度升高,土壤含水率变化显著,且含水率在干湿季均对土壤有机碳(SOC)存在显著影响( $\scriptstyle P < 0 . 0 1 { \mathrm { ~ . ~ } }$ ),雨季其对土壤全氮(STN)和土壤全磷(STP)的影响要显著于干季;叶片全磷(TP)随含水率的增大而升高,而叶片全氮(TN)在干季会随含水率的升高而增大,雨季含水率升高到一定程度时会抑制TN 含量的增加并出现单峰现象;而土壤C/P 与海拔和干季土壤含水率的极显著相关性( $P { < } 0 . 0 1$ )及干季叶片C/N与叶片含水率的显著相关关系( $P { < } 0 . 0 5$ )说明,干季水分匮乏条件下，土壤含水率影响土壤P的矿化度和植物对P的吸收利用水平,而且叶片C/N 对反馈植物水分含量具有明显指示作用。因此,水热梯度是土壤-叶片系统碳氮磷生态化学计量特征变化的重要驱动因素。此外，全球变化区域响应方面,多雨高温可能会削弱季雨林叶片C的同化能力,且叶N含量降低,但受氮沉降的影响,对 C/N的影响尚无法确定;由于P循环对其他元素的耦合作用,雨林土壤-叶片系统的元素循环周期将会被缩短,但干季山地雨林植物生态系统P的限制作用有可能会减弱。
+
+关键词：海拔梯度;含水率；干湿季；生态化学计量;西双版纳热带雨林
+
+# Effect of the humidity/aridity gradient on the ecological stoichiometry of soil and leaves in Xishuangbanna tropical rainforest
+
+LU Tongping12，WANG Yanfei'²，WANG Liming12，LIN Yongjing1,²，WU Mengjuan $^ { 1 , 2 }$ ， ZHANG Wenxiang $^ { 1 , 2 }$ NIU Jie1,2,\* N
+
+1Laboratoryof Plateau Lake Ecologyand Global Change，Yunnan Normal University，Kunming 65O5oo,China   
+2 Key Laboratoryof Plateau Geographical Processand Environmental Changeof Yunnan Province， Kunming 650o98，Ching
+
+Abstract：This study investigated the humidity/ariditygradientefectsandecological stoichiometry in Xishuangbanna tropicalrainforest.Thegeographicalpattrn，characteristicsof ecological stoichiometryand itsresponse toaltitudeand humidity/aridity efects were studied inthesoiland plantsof Xishuangbanna tropicalrainforestusing fieldandlaboratory analyses.Theresults showed thattheecological stoichiometryofsoilandleaves in Xishuangbanna rainforest wasinfluenced byaltitudeand humidity gradients，to varying degrees.The hydrothermal gradientof seasonaland montanerainforests was affected by altitude.The soil moisture content had a significant efect on soil organic carbon（SOC）( $P { < } 0 . 0 1 \rangle$ ）indryand wetseasons，which wassignificantlycontroled bythealtitudegradient.Theefectof soil moisturecontentonsoil total nitrogen（STN）and soil total phosphorus（STP）was more significant during therainy season.The total phosphorus（TP) content in leaves increased with increasing water content，andthevariationtrendofleafTNcontent inthedryseason was consistent with theTPcontent.However，water content reduced thetotal nitrogen（TN）content when itincreased toa certain extent during therainyseason.The significantcorelation among soil moisture inthedryseason，altitude，andthe C/Pof soil,similartothecorrelationbetween C/Nandwatercontentofleaves inthedryseason,indicatedthatthelevelof soil watercontent determinesthemineralizationof soilphosphorusandtheabilityof plantstoabsorbPunderth water shortage.Leaf C/Nhasobvious implications for the feedback moisture contentof plants.This further ilustrates that the hydrothermal gradient isanimportant driverforthestoichiometrycharacteristicsof soil-leaf ecosystems.Additionaly，high temperatureandrain may weaken the assimilation capacityof leaf Ccontent in a seasonalrainforest，and leaf Ncontent may decrease intermsof regionalresponse toglobalchange.Furthermore，theelemental cyclesof soil-leaf systems would be shortened，andthedryseason may weaken thelimitingefectofPinplantecosystems of montanerainforestsbecauseof the coupling effects of $\mathrm { \Delta P }$ cycles to other elements.
+
+Key Words:elevation gradient；water content；dryand wet season；stoichiometry;tropical rainforest of Xishuangbanna
+
+生态化学计量学作为一门21世纪的新兴交叉学科,充分利用生态系统演化的物理、化学、生物和地理等的复杂耦联特性,从生态系统生物的碳(C)氮(N)磷(P)等养分元素的生物地球化学循环人手,以其对应的化学计量比( $\mathrm { \Delta C / N _ { \ell } C / P _ { \ell } N / P _ { \ell } C : N : P ) }$ 对生物自身对碳的同化能力和养分元素的限制作用作为指示生态系统健康与否和物质能力维持平衡的指标[1-4],是一种解释生物地球化学循环和解决生态系统物质能量平衡的全新思路和方法[5-7]。生态化学计量学的应用研究领域已相当广泛,从分子到整个生态系统,在物种演替,群落和生态系统等[8-9]方面的研究最为突出,且在我国的研究热度也呈现迅速上升趋势,在物种、区域及较大尺度等研究上取得了较为丰富的研究成果[10-16]。
+
+土壤-植被耦合系统的大尺度植被分异与小区域一致性是生态系统演替与对全球变化生态响应的重要组成部分[5,15]。近年来我国应用生态化学计量学研究土壤-植被系统的生物地球化学循环也有报道[17-19],但主要集中在草地生态系统、湿地生态系统和北方人工林等,对我国热带地区尤其是热带雨林生态系统的研究鲜有报道[7。本文以西双版纳热带雨林为研究对象,通过实地采样分析并结合气象数据温度和降水,研究并探讨了土壤-植被系统中的土壤和叶片C、N、P及其生态化学计量特征对地形海拔引起的水热梯度和季节变化引起的干湿季交替的响应规律,以期为热带雨林生态系统生物地球化学循环、生态化学计量特征的应用研究拓展、热带雨林系统对全球气候变化区域响应及热带雨林的演替与保护提供基础资料与科学依据。
+
+# 1材料与方法
+
+# 1.1研究区概况
+
+（研究区位于西双版纳 $\mathrm { ( 2 1 ^ { \circ } 0 9 ^ { \prime } - 2 2 ^ { \circ } 3 6 ^ { \prime } N , 9 9 ^ { \circ } 5 8 ^ { \prime } - 1 0 1 ^ { \circ } 5 0 ^ { \prime } E }$ ,海拔 $4 8 5 { - } 2 4 2 9 \mathrm { m }$ )景洪市、勐腊县和勐海县的热带雨林分布区。西双版纳的热带雨林主要分为山地雨林和季节雨林,其中山地雨林主要分布在景洪和勐海的较高海拔区,季节雨林主要分布在景洪和勐腊海拔约 $5 0 0 { - } 1 0 0 0 \mathrm { m }$ 的沟谷和低丘[20-21]。西双版纳位于亚洲热带北缘,受热带季风控制,有明显的干湿季交替,干季(11月到翌年4月)又有阶段性的多雾少雨及干热特点，湿季(5—10 月)高温多雨，集中了全年 $8 3 \%$ 以上的降水量,年均降水量约为 $1 3 7 3 \mathrm { { m m } }$ ,年均气温为（204号 $2 1 . 3 ^ { \circ } \mathrm { C } ^ { [ 2 2 ] }$ 。土壤类型以砖红壤为主,呈酸性。
+
+# 1.2样品采集与测定
+
+# 1.2.1 样品采集
+
+根据西双版纳干湿季及海拔梯度特征,于2015年11—12月与2016年8月对3个研究区域（勐腊、景洪、勐海)8个研究区中的17个样带85个样点中的森林土壤和优势种叶片进行了系统的采集,共获得样品1286个。样地设计与样带分布设置方法均严格按照科学方法进行,为了突出研究的地形海拔效应,将研究样地设置为海拔梯度较为明显的8个研究区(图1),海拔梯度由高到低依次为勐海的勐宋、勐腊的象明、勐海的纳板河、景洪原始森林、勐腊的尚勇、曼旦、补蚌-瑶区片区和勐仑保护区,每个研究区以 $1 0 0 \mathrm { m }$ 的缓冲带设置采样带，每个样带不同植被类型的各群落选取5个平行样点,每个样点面积为 $5 \mathrm { m } \times 5 \mathrm { m }$ 设置,共17个样带85个样点。叶片样品的采集与土壤同步进行。叶片采集新鲜、成熟叶片,表层土壤采用环刀法采集。
+
+![](images/ccc16a8693e1f6956fc1528263f578c167d4568ac57b6b9589becb8ee57d5d47.jpg)  
+图1研究区样带分布及其海拔梯度示意图  
+Fig.1Sketch map of the transect distribution and its elevation gradient in the study area
+
+# 1.2.2 样品实验测定
+
+对采集的叶片与土壤在实验室内进行烘干,并研磨至约 $7 5 \mu \mathrm { m }$ 以用于相关元素分析。土壤有机碳(SOC)和叶片全碳(TC)采用vario TOC 分析仪(德国产)测定,土壤全氮(STN）和叶片全氮(TN)采用凯氏定氮法测定,土壤全磷(STP)和叶片全磷(TP)采用 Smartchem200全自动化学分析仪（德国产)测定。
+
+# 1.3数据统计分析
+
+利用双因素方差分析法（Two-way ANOVA）、Pearson 相关性分析和线性及非线性回归模型对实验数据进行统计分析，以探讨不同海拔梯度上土壤和叶片的含水率、碳氮磷含量及其生态化学计量( $\mathrm { C } / \mathrm { N } \sqrt { \mathrm { C } / \mathrm { P } } \sqrt { \mathrm { N } / \mathrm { P } }$ ,其中比值均为摩尔比)变化特征及相关关系。本研究选择干季的11月和12月份和雨季的8月份来进行研究，图中数据为样地各样点的平均数据。所有样品的实验与数据分析均在云南省高原地理过程与环境变化重点实验室完成。
+
+# 2结果与分析
+
+# 2.1水热梯度的空间变化特征
+
+西双版纳2015年全年和2016年1—10月份月均降水和月均气温呈现相同的变化趋势,基本呈雨热同期,温度的增减伴随降水的增减(图2)。具有明显的干湿季交替现象,且主要体现在水汽含量很高的雾凉季到较高温度但降水很少的干热季,然后转入降水和气温均有明显升高的雨季。研究监测发现,干湿季土壤和植物叶片的含水率也存在有明显的交替现象。说明生态系统空间环境的气象条件直接影响土壤-植被系统的水分含量和循环过程。
+
+http://www.ecologica.cn
+
+![](images/92d503c92d6b52ac5b95ffd5e3ae419d953fa61d9b618fef422b87a7552d5377.jpg)  
+图2西双版纳2015年和2016年气温和降水变化图  
+Fig.2Temperature and precipitation changes in Xishuangbanna in 2O15 and in 2016
+
+水热梯度的空间格局主要体现在气象要素综合作用下温度和降水特征的空间差异性。研究区景洪、勐腊、勐海 2015年和2016年月均气温与降水变化如图3所示,针对采样时间分析,2016年9月份、2015年11月和12月份由勐腊-景洪-勐海气温均呈景洪 $>$ 勐腊 $>$ 勐海的变化趋势,且3个区域3个月份的月均气温表现为9月份 ${ > } 1 1$ 月份 $\cdot { > } 1 2$ 份;降水则9月份表现为勐腊>景洪>勐海,11月份和12月份均与温度变化相反，表现为景洪<勐腊<勐海,且降水在3个区域均是9月份>11月份>12月份,与气温变化类似。同时,雨季9月份降水低海拔区高于高海拔区,干季11月份和12月份高海拔区高于低海拔区,中海拔区最低,气温则干湿季类似,均为中海拔区高于低海拔区,高海拔区最低。说明雨季降水和温度均高于干季,雨季月均降水和气温正相关,进入干季以后,月均降水和气温变化大体呈正相关关系,但也有个别月份存在反相关现象。而且干湿季气温和降水变化均受海拔影响(研究区域勐腊、景洪、勐海平均海拔分别为 $6 5 5 、 8 2 0 、 1 5 4 9 \mathrm { m }$ ）。
+
+# 2.2土壤C、N、P含量及生态化学计量的干湿度效应
+
+西双版纳热带雨林生态系统组分化学计量特征如表1所示，干湿季背景下,随海拔梯度的升高，土壤含水率均表现出显著的变化特征,且达到极显著相关水平(图4、表2、表3)。在干季,土壤含水率随海拔的升高呈显著正线性升高特征( $_ { P < 0 . 0 1 ) }$ ,尤其以海拔 $1 1 0 0 \mathrm { m }$ 为分界表现出显著增高,此段正是季雨林与山地雨林的大概分界点,说明在季雨林干季土壤含水率变异性较小,且明显低于山地雨林（图4);在雨季,同样以海拔$1 1 0 0 \mathrm { m }$ 左右为拐点,土壤含水率随海拔的升高呈显著减-增的二次单峰模式( $\textstyle P < 0 . 0 1 { \bigl . }$ )（图4）。说明海拔$1 1 0 0 \mathrm { m }$ 左右是土壤水分含量梯度变化的阈值点。
+
+表1西双版纳热带雨林干季与雨季土壤和叶片化学计量特征及其各样地方差分析  
+Table1Analysisof stoichiometryanditsvarianceof samplesof soilandleaf indryseasonandrainyseasonin Xishuangbana tropica rainforest   
+
+<html><body><table><tr><td rowspan="2">干湿季 Wet and dry season</td><td rowspan="2"></td><td colspan="5">土壤 Soil</td></tr><tr><td>SOC STN</td><td>STP</td><td>C/N</td><td>C/P</td><td>N/P</td></tr><tr><td>干季 Dry season</td><td>62.41±30.62</td><td>2.30±1.93</td><td>0.57±0.22</td><td>64.26±60.93</td><td>313.41±168.73</td><td>11.39±14.15</td></tr><tr><td>方差ANOVA(P)</td><td><0.001</td><td><0.001</td><td>0.287</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>雨季 Rainy season</td><td>61.59±32.82</td><td>2.51±1.92</td><td>0.54±0.2</td><td>41.77±20.81</td><td>330.28±182.61</td><td>11.55±9.2</td></tr><tr><td>方差ANOVA(P)</td><td><0.001</td><td><0.05</td><td><0.05</td><td><0.05</td><td><0.01</td><td><0.01</td></tr><tr><td>干湿季</td><td colspan="6">叶片Leaf</td></tr><tr><td> Wet and dry season</td><td>TC</td><td>TN</td><td>TP</td><td>C/N</td><td>C/P</td><td>N/P</td></tr><tr><td>干季 Dry season</td><td>419.24±31.41</td><td>22.19±3.09</td><td>1.72±0.21</td><td>22.53±3.98</td><td>641.45±105.49</td><td>29±5.31</td></tr><tr><td>方差ANOVA(P)</td><td><0.001</td><td>>0.05</td><td><0.01</td><td><0.01</td><td><0.001</td><td>>0.05</td></tr><tr><td>雨季 Rainy season</td><td>373.17±53.41</td><td>26.25±3.86</td><td>1.89±0.17</td><td>17.3±5.35</td><td>512.73±80.05</td><td>30.95±5.08</td></tr><tr><td>方差ANOVA(P)</td><td><0.001</td><td><0.001</td><td>>0.05</td><td><0.001</td><td><0.001</td><td><0.05</td></tr></table></body></html>
+
+SOC：土壤有机碳Soilorganiccarbon，STN：土壤全氮Soil otalnitrogen,STP：土壤全磷Soil otal phosphorus,TC：全碳Totalcarbon,TN：全 氮 Total nitrogen，TP：全磷 Total phosphorus
+
+![](images/a712393785f9699cf3029f7269c94cae91a2ca86f06d15a5667d40085673a998.jpg)  
+图3西双版纳不同研究区域2015年和2016年月均气温和月均降水变化图
+
+![](images/63660911376a20dc34c68b48c38954d3e5086e7ab23f80ce437ead0112169107.jpg)  
+Fig.3The monthlyaverage temperatureand averageprecipitation in diferent regions of Xishuangbanna in2015and 2016   
+图4干湿季土壤含水率与海拔的变化关系  
+Fig.4Relationship between soil moisture content and altitude in dry and wet season
+
+土壤C、N、P及生态化学计量比与土壤水分密切相关,并且干湿季间存在一定差异。研究发现,SOC 与STN、STP 和C/N,STN与 STP和C/P,STP与N/P显著相关性均随干湿季的不同而不同(表2、表3）。于土壤含水率关系上,SOC干湿季都与土壤含水率呈显著相关关系(表1、表2),并在干季为线性相关( $P { < } 0 . 0 1 \rangle$ ，雨季为显著二次正-负相关( $P { < } 0 . 0 5 )$ )（图5）;而 STN 和 STP只在雨季与土壤水分存在相关关系,其中,STN 与土壤水分的关系与 SOC 在雨季的类似,呈显著二次正-负相关( $P { < } 0 . 0 1 \$ )（图5），而 STP 则与变化趋势相反，且相关性未达到显著水平( $\left( P > 0 . 0 5 \right)$ （图5）,二者在干季与土壤水分并未表现出明显的相关关系。说明土壤含水率在干湿季均对 SOC 影响显著,雨季土壤含水率对 STN 和 STP 的影响显著与干季,且对 STN 的影响大于 STP。
+
+<html><body><table><tr><td colspan="10">Table2 Corre lomme</td></tr><tr><td>相关变量</td><td>海拔 Elevation</td><td>SOC</td><td>STN</td><td>STP</td><td>C/N</td><td>C/P</td><td>N/P</td><td>土壤含水率/%</td><td></td></tr><tr><td>Correlation variable</td><td></td><td></td><td></td><td>0.149</td><td>0.051</td><td>0.618 **</td><td></td><td></td><td>Soil moisture content 0.650 **</td></tr><tr><td>海拔 Elevation</td><td>1</td><td>0.804**</td><td>0.300 * 0.06</td><td>0.280 *</td><td>0.342 *</td><td></td><td></td><td>0.151</td><td></td></tr><tr><td>SOC</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td>0.653 **</td><td>-0.044</td><td>0.647 ** -0.055</td></tr><tr><td>STN</td><td></td><td></td><td>1</td><td>-0.281 *</td><td>-0.631**</td><td></td><td>0.298 *</td><td>0.883</td><td></td></tr><tr><td>STP</td><td></td><td></td><td></td><td>1</td><td>0.301 *</td><td></td><td>-0.454**</td><td>-0.465</td><td>0.194</td></tr><tr><td>C/N</td><td></td><td></td><td></td><td></td><td>1</td><td></td><td>0.041</td><td>-0.492</td><td>0.183</td></tr><tr><td>C/P</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.382</td><td>0.487 **</td></tr><tr><td>N/P</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.133</td></tr><tr><td>土壤含水率 Soil moisture content/%</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr></table></body></html>
+
+\*\*相关性在0.01水平上显著(双尾）， $*$ 相关性在0.05水平上显著(双尾)
+
+表2干季土壤碳氮磷及其化学计量比与海拔和土壤含水率之间的相关性  
+表3雨季土壤碳氮磷及其化学计量比与海拔和土壤含水率之间的相关性  
+
+<html><body><table><tr><td colspan="7">Table3 Correlationbetweensoilcarbonandnitrogenandphosphorus stoichiometryandaltitudeandsoilmoisturecontentinrainyseason</td></tr><tr><td>相关变量</td><td>海拔</td><td>SOC</td><td>C STN STP</td><td>C/N C/P</td><td>N/P</td><td>土壤含水率/% Soil moisture content</td></tr><tr><td>Correlationvariable</td><td>Elevation</td><td></td><td></td><td>-0.386</td><td>0.399</td><td></td></tr><tr><td>海拔 Elevation</td><td>1</td><td>0.747** 0.569 **</td><td>0.158</td><td>0.558 **</td><td>0.347</td><td>0.508 **</td></tr><tr><td>SOC</td><td></td><td>1 0.501</td><td>0.16</td><td>-0.158 0.769 **</td><td></td><td>0.406 *</td></tr><tr><td>STN</td><td></td><td></td><td>-0.004</td><td>-0.826 ** 0.368</td><td>0.900 **</td><td>0.242</td></tr><tr><td>STP</td><td></td><td></td><td></td><td>0.042 -0.406 *</td><td>-0.274</td><td>0.089</td></tr><tr><td>C/N</td><td></td><td></td><td></td><td>1 -0.056</td><td>-0.831**</td><td>-0.155</td></tr><tr><td>C/P</td><td></td><td></td><td></td><td>1</td><td>0.423 *</td><td>0.333</td></tr><tr><td>N/P</td><td></td><td></td><td></td><td></td><td>1</td><td>0.352</td></tr><tr><td>土壤含水率</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Soil moisture content/%</td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr></table></body></html>
+
+土壤C、N、P化学计量特征中只有C/P在干湿季均与海拔存在极显著相关关系( $( P { < } 0 . 0 1 )$ ,在干季与土壤含水率极显著相关 $\scriptstyle \left( P < 0 . 0 1 \right)$ ,其余化学计量比则与土壤海拔和土壤含水率相关性未达到显著性水平( $P >$ 0.05)（表2、表3）。说明土壤C/P在空间变异性上受SOC的影响大于STP,同时也反映了在西双版纳热带雨林小区域内 STP 随海拔的变异性不明显,且在干季水分匮乏条件下,土壤含水率影响土壤P的矿化度和植物对P的吸收利用水平。
+
+# 2.3叶片 $\texttt { C } , \texttt { N }$ 、P 含量及生态化学计量的干湿度效应
+
+研究分析发现,叶片含水率在干湿季随着海拔的升高而略有降低,呈负相关关系,但相关性并不显著Y $\cdot \textcircled { P } > 0 . 0 5 )$ （表4、表5）。干湿季影响下,叶片TC与N/P、TP 与 $\mathrm { C } / \mathrm { N } , \mathrm { C } / \mathrm { N }$ 与 N/P 的显著相关性均随干湿季的交替而呈现(表4,表5）。叶片C、N、P也随干湿季交替和叶片含水率的变化而变化,在干季,叶片TC 与含水率未表现出明显相关性,而 TN 和 TP 均随叶片含水率的增大而升高,且含水率对 TP 的影响显著于 TN( $P <$ 0.01; $P { < } 0 . 0 5 \mathrm { ) }$ （图6,表4）。而雨季叶片TP同样受含水率的极显著影响( $\stackrel { \cdot } { P } < 0 . 0 1 \stackrel { \cdot } { }$ )（表5），但呈二次正相关关系(图6);同时,雨季的叶片TC 和TN也受叶片含水率的影响,且前者与叶片含水率呈减-增的变化趋势，后者相反，但谷值均在 $6 5 \%$ 左右（图7）。说明叶片TP无论是干季还是雨季，叶片含水率的增大均会促进其含量的升高,而叶片TN 在干季会随含水率的升高而增大,雨季则当含水率升高到一定程度时会抑制 TN 含量的增加反而使其逐渐降低,呈单峰现象，干季时叶片含水率对叶片TC几乎无显著影响,但雨季时会发生与叶片 TN 相反的现象。
+
+![](images/fd3e49205de9964602bb5e9aa9a376ad102a446bca34f1367959ca34c454784c.jpg)  
+图5干湿季土壤C、N、P与土壤含水率之间的关系  
+Fig.5Relationship between soil C,N,P and soil moisture in dry and wet season
+
+表4干季叶片碳氮磷及其化学计量比与海拔和叶片含水率之间的相关性  
+Table4Corelationbetweenleafcarbonanditrogenandphosphorusstoiciometryandalitdeandleafmosturecontentidryseaso   
+
+<html><body><table><tr><td>相关变量 Correlation variable</td><td>2 TC TN</td><td>TP</td><td>C/N</td><td>C/P</td><td>N/P</td><td>叶片含水率 Leaves water</td><td>海拔 Elevation</td></tr><tr><td>TC</td><td>1 -0.474 *</td><td>-0.373</td><td>0.739 **</td><td>0.817 **</td><td>-0.273</td><td>-0.123</td><td>0.408</td></tr><tr><td>TN</td><td>1</td><td>0.401</td><td>-0.805 **</td><td>-0.565**</td><td>0.599 **</td><td>0.478 *</td><td>-0.508 *</td></tr><tr><td>TP</td><td></td><td>1</td><td>-0.580 **</td><td>-0.812 **</td><td>0.108</td><td>0.570 **</td><td>-0.795 **</td></tr><tr><td>C/N</td><td></td><td></td><td>1</td><td>0.766 **</td><td>-0.745 **</td><td>-0.526 **</td><td>0.556**</td></tr><tr><td>C/P</td><td></td><td></td><td></td><td>1</td><td>-0.162</td><td>-0.369</td><td>0.773**</td></tr><tr><td>N/P</td><td></td><td></td><td></td><td></td><td>1</td><td>0.408</td><td>-0.091</td></tr><tr><td>叶片含水率</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Leaves water content/%</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>-0.362</td></tr></table></body></html>
+
+表5雨季叶片碳氮磷及其化学计量比与海拔和叶片含水率之间的相关性  
+able 5Correlationbetweenleafcarbonandnitrogenandphosphorusstoichiometryandaltitudeandleaf moisturecontentinrainyS   
+
+<html><body><table><tr><td>相关变量 Correlation variable</td><td>TC</td><td>TN</td><td>TP</td><td>C/N</td><td>C/P</td><td>N/P</td><td>叶片含水率/% Leaveswater</td><td>海拔 Elevation</td></tr><tr><td></td><td>1</td><td>-0.843 **</td><td>0.072</td><td>0.951**</td><td>0.837**</td><td>-0.759 **</td><td>content 0.165</td><td>-0.397 *</td></tr><tr><td>TC TN</td><td></td><td>1</td><td>-0.003</td><td>-0.930 **</td><td>-0.748**</td><td>0.866 **</td><td>-0.118</td><td>0.296</td></tr><tr><td>TP</td><td></td><td></td><td>1</td><td>0.062</td><td>-0.477 **</td><td>-0.494 **</td><td>0.489 **</td><td>-0.202</td></tr><tr><td>C/N</td><td></td><td></td><td></td><td>1</td><td>0.800 **</td><td>-0.830 **</td><td>0.211</td><td>-0.341</td></tr><tr><td>C/P</td><td></td><td></td><td></td><td></td><td>1</td><td>-0.410 *</td><td>-0.137</td><td>-0.229</td></tr><tr><td>N/P</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>-0.328</td><td>0.372 *</td></tr><tr><td>叶片含水率</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Leaves water content/%</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>-0.145</td></tr><tr><td>海拔 Elevation</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr></table></body></html>
+
+![](images/9134124f7f308ecaca83223e5dbcd14f9de758a13f0ed1812648c635f24e0f73.jpg)  
+图6干季叶片TN、TP与水分的变化关系  
+Fig.6Relationship between leaf TN，TP and leaf moisture content in dry season
+
+叶片C、N、P化学计量比只有C/N在干季与叶片含水率呈现出极显著负相关关系( $_ { _ { P < 0 . 0 1 ) } }$ ,其余计量比参数均与伴随干湿季交替变化的叶片含水率未表现出显著相关性( $_ { P < 0 . 0 5 ) }$ ，说明化学计量比除 $\mathrm { C } / \mathrm { N }$ 外,对叶片含水率的指示作用不显著。
+
+# 3讨论
+
+3.1土壤与叶片C、N、P化学计量及含水率的耦联性
+
+已有研究发现,植物叶片的N/P可以作为判断环境因子,特别是土壤对植物生长过程中养分供应能力的指标[2-25]。西双版纳热带雨林C、N、P 及其生态化学计量特征在土壤和植物叶片之间存在显著的相关关系(待发表),而且这种相关性在月份间存在差异,其主要原因是月份变化引起的温度、降水和蒸散发等气候、土壤及生物类的环境因子有关。而影响最为明显的则为干湿交替伴随的水热状况变化。就森林生态系统而言，土壤水热状况的动态变化特征对土壤的发育过程、元素迁移、物质循环及其与林木生长关系的阐明具有重要意义[22,26]。西双版纳热带雨林土壤含水率在干季和雨季存在显著差异,而且季节雨林和山地雨林有所不同,造成雨林类型间的分布差异是由海拔因素引起,因为水分含量发生转折的 $1 1 0 0 \mathrm { m }$ 海拔处正是山地雨林与季节雨林的分界段。干季由于土壤蒸散发作用强,降水相对较少,使得土壤微生物作用减弱,凋落物分解减缓，
+
+![](images/48a42ac92e9a3ad40bc89581f2878dcdf313052f380d2a9a28aa78ac54cd3650.jpg)  
+图7雨季叶片TN、TP与水分的变化关系  
+Fig.7Relationship between leaf TN,TP and leaf moisture content in rainy season
+
+SOC 含量降低,C/N降低,致使STN受水分的影响未达显著水平。而STN和STP 雨季对含水率响应显著的原因是由于雨季植物生长期需要养分的含量增加,使得雨季土壤N、P含量降低,结果是与之对应的叶片N、P 含量增加[12.27]。雨季和干季叶片含水率与叶片 TP 总是呈正相关,说明P已经成为该群落的限制性元素,在干季由于叶片P的增加,加之落叶增多[28],元素重吸收作用增强,促进了叶片N吸收,这是植物自身调节以适应逆境环境的基本机理[29];而雨季叶N增加则是植物为达到自身生命正常需要的水平而做出的正常反应,另外,干季雾凉季叶片含水率的很大部分来自于晨雾水分补给[30],高海拔区尤为明显,此时的叶 N增加也可能与高海拔区氮沉降高于低海拔区有关[31-32],不过西双版纳热带雨林受氮沉降的影响程度如何,还鲜有报道，有待进一步研究。
+
+# 3.2土壤-植物 $\widetilde { \mathrm { ~ C ~ } } , \mathrm { { N } , \mathrm { { P } } }$ 化学计量对气候变化的响应
+
+全球变化研究显示,低纬度区域未来降水可能增加,气温则全球冬季增温明显[33]。土壤含水率的多少主要取决于区域降水量的多寡,同时还与土壤养分动态及植物光合生理过程等密切相关[15]。对西双版纳热带雨林而言,从采样点对应月份的降水、温度及海拔的分布来看,勐腊和景洪是季雨林的主要分布地区,而勐海是山地雨林的分布区[21],而就近年来云南干旱、雨涝等极端天气灾害频发来看,未来受全球变化的影响可能主要有两种,其一,雨季降水增多前提下,多雨高温造成季雨林植物叶片N含量降低,使得对C的同化能力减弱，可能会影响光合作用过程对 $\mathrm { C O } _ { 2 }$ 的吸收作用,但对叶片C/N的影响不明确,因为降水造成N含量降低和氮沉降引起叶片N 含量增加的最终结果不清楚。此外,多雨高温还有可能加速凋落物的分解,进而加快森林生态系统土壤-叶片-凋落叶元素循环速率,缩短循环周期。其二，从海拔角度分析,研究区平均海拔勐腊<景洪<勐海,也就是说,在3个区域之间,随海拔升高,年均温基本呈降低趋势,而在勐腊和景洪的海拔相对高差较小(约 $3 5 0 \mathrm { m }$ )，因此温度差异并不显著，勐海则最高海拔达 $1 7 2 5 \mathrm { m }$ ,是山地雨林的主要分布区，与景洪海拔相对高差近 $1 0 0 0 \mathrm { m }$ 。降水则随海拔升高呈先降低再升高的趋势,且降低幅度要比温度变化的关系显著。在以山地雨林分布的勐海地区,干季气温升高,加之西双版纳独特的雾凉季晨雾输送水分条件,会促使叶片P含量增加,N/P减小,对山地雨林植物生态系统P 的限制作用可能有减弱的影响,但进一步深入具体的结果仍需实验验证说明。
+
+因此,以土壤-植物系统在气候变化背景下的元素生物地球化学循环为研究重点,将会对热带雨林的演替和群落结构功能的生态系统平衡具有重要意义,对全球变化生态系统响应起到指示作用。 （（）
+
+# 4结论
+
+海拔及干湿季共同影响西双版纳热带雨林C、N、P及其化学计量特征。干湿季土壤含水率对 SOC 的影响均达到显著水平,而雨季土壤含水率对 STN 和STP 的影响要显著于干季。叶片 TP无论是干季还是雨季，叶片含水率的增大均会促进其含量的升高,而叶片TN在干季会随含水率的升高而增大,雨季则含水率与 TN含量呈现增-减的二次相关模式,与 TC 则与TN模式相反。而土壤C/P 与海拔和干季土壤含水率的极显著相关性及干季叶片C/N 与叶片含水率的显著相关关系说明,干季水分匮乏条件下,土壤含水率影响土壤P 的矿化度和植物对P的吸收利用水平,而且叶片C/N对植物反馈水分含量具有明显指示作用。
+
+应对全球变化,雨季降水增多,多雨高温将削弱季雨林叶片C的同化能力,受氮沉降的影响,对C/N 的影响尚无法确定;季雨林土壤-植物系统的元素循环周期将会被缩短。升温但未达到干旱水平前提下,干季有可能会减弱山地雨林植物生态系统P的限制作用。
+
+# 参考文献（References）:
+
+[1]ReichP，WalesrFtrostdloegeeafuctgProdfttafSciences of the United States of America，1997,94(25):13730-13734.  
+［2]姜沛沛，曹扬，陈云明，赵一娉.陕西省3种主要树种叶片、调落物和土壤N、P化学计量特征.生态学报，2017，37(2)：443-454.  
+[3]StererRWElserJJEologicalStoichoetryheologofElementsfroMoeulestoeoshere.Priceto：PrctoUivestyPress，2002.  
+[4］马鑫雨，方斌，常艳春，陈江,宋博，谢标,吴丽萍.阅海湿地植物叶片和土壤C、N、P季节动态及其累积.水土保持学报,2015,29（3)：136-143.  
+[5]ElserJJ,SternerRW，GorokhovaE,FaganWF,MarkowTA,CotnerJB,HarisonJF,HobbieSE,OdellGM,WeiderLW.Biologicalstoichiometry from genes to ecosystems. Ecology Leters，2000，3（6）: 540-550.  
+[6］胡培雷，王克林，曾昭霞，张浩,李莎莎，宋希娟.喀斯特石漠化地区不同退耕年限下桂牧1号杂交象草植物-土壤-微生物生态化学计量特征.生态学报，2017，37（3)：896-905.  
+[7］卢同平，史正涛，牛洁，张文翔.我国陆生生态化学计量学应用研究进展与展望.土壤,2016,48（1)：29-35.  
+[8] 曾德慧，陈广生.生态化学计量学：复杂生命系统奥秘的探索.植物生态学报，2005,29(6)：1007-1019.  
+[9] 贺金生，韩兴国.生态化学计量学：探索从个体到生态系统的统一化理论.植物生态学报，2010,34（1)：2-6.  
+[10] 卢同平，张文翔，武梦娟，林永静.干湿度梯度及植物生活型对土壤氮磷空间特征的影响.土壤，2017,49（2）：364-370.  
+[11] 任书杰，于贵瑞，陶波，王绍强.中国东部南北样带 654种植物叶片氮和磷的化学计量学特征研究.环境科学，2007，28（12)：2665-2673.HanWX,FngJugYdoosesseslatsslost,2005，168(2):377-385.  
+[13]丁小慧，罗淑政，刘金巍，李魁，刘国华.呼伦贝尔草地植物群落与土壤化学计量学特征沿经度梯度变化.生态学报，2012，32（11)：3467-3476.  
+[14] 曾冬萍，蒋利玲，曾从盛，王维奇，王纯.生态化学计量学特征及其应用研究进展.生态学报，2013，33(18)：5484-5492.  
+[15］卢同平，张文翔，牛洁，林永静，武梦娟.典型自然带土壤氮磷化学计量空间分异特征及其驱动因素研究.土壤学报，2017,54（3)：682-692.  
+[16]HeMZ,straF,ZgK,LiXR,TaHJ,GYH,LiGLarogedospseperatedesertpltsiespoateand soil nutrient availability. Scientific Reports,2014，4：6932.  
+[17] 陆媛，陈云明，曹扬，宋超.黄土高原子午岭辽东栎林植物和土壤碳氮磷化学计量学特征.水土保持学报，2015，29（3)：196-201.  
+[18］赵维俊，刘贤德,金铭，张学龙，车宗玺，敬文茂，王顺利，牛赞，齐鹏，李雯靖.祁连山青海云杉林叶片—枯落物一土壤的碳氮磷生态化学计量特征.土壤学报，2016，53（2)：477-489.  
+[19］刘万德，苏建荣,李帅锋，张志钧，李忠文.云南普洱季风常绿阔叶林演替系列植物和土壤C、N、P化学计量特征.生态学报，2010,30(23):6581-6590.  
+[20]卢同平，张文翔，牛洁，林永静，武梦娟.西双版纳不同森林类型凋落叶与土壤碳氮变化研究.热带作物学报,2016,37（8）：526-533.  
+[21] 朱华，王洪，李保贵，周仕顺，张建侯.西双版纳森林植被研究.植物科学学报，2015，33（5）：641-726.  
+[22]LuTP,ZgWX,N,ShiZ,LinYJ,WuJ，WangLX.everticalcaracteistisf olcarboandnitrogeadteplantation ages in Xishuangbanna,Southwest China.Fresenius Environmental Buletin,2O17,26(2）：1431-1439.  
+2]ertsiltsidi1999, 30: 1-67.  
+[24]GusewellS.N:Pratiosinteestrialplants:variatonandfunctionalsignificance.Newhytologist，O04,64(2)：24-266.  
+[25］刘兴诏，周国逸，张德强，刘世忠，褚国伟，闫俊华.南亚热带森林不同演替阶段植物与土壤中N、P的化学计量特征.植物生态学报，2010,34(1) : 64-71.  
+[26］何园球，王明珠，赵其国.我国热带亚热带森林土壤的水热动态．土壤，1988，20(5）：225-231.  
+[27］王晶苑，张心昱，温学发，王绍强，王辉民.氮沉降对森林土壤有机质和调落物分解的影响及其微生物学机制.生态学报，2013,33(5)：1337- 1346.  
+［28］谭正洪，张一平，宋清海，于贵瑞，梁乃申.落叶作为热带雨林水分亏缺适应对策的研究：以西双版纳热带雨林为例.云南大学学报：自然科学版，2014，36(2)：273-280.  
+[29］刘文杰，张一平，李红梅，段文平.西双版纳热带季节雨林内雾特征研究.植物生态学报，2004，28（2）：264-270.  
+[30]保娅，达哇卓玛.不同海拔高度温、湿度对土壤养分的影响.青海草业，2014，23(4)：16-18.  
+[31] Korner C.Thenutritional statusof plants from high altitudes；aworldwide comparison.Oecologia，1989,81(3):379-391.  
+[32] 史作民，程瑞梅，刘世荣.高山植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 的海拔响应及其机理.生态学报，2004，24（12）：2901-2906.  
+[33］黄亮，高苹，谢小萍，谢志清，于庚康.全球增暖背景下中国干湿气候带变化规律研究.气象科学，2013,3（5)：570-576.

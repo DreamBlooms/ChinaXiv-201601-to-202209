@@ -1,0 +1,203 @@
+# COVID-19感染对脑卒中病死率影响的Meta分析
+
+皇甫晓娟1,4，李小娟2,4，陈敏34，刘吉红2,4，翟蕊2,4，蔡志鹏 1,4，李俐涛4\*
+
+基金项目：河北省政府资助临床优秀人才培养项目（项目编号：201906)；河北省引进留学人员资助项目（项目编号：C20200339)：
+
+1.075000河北省张家口市，河北北方学院研究生院  
+2.063210河北省唐山市，华北理工大学研究生院  
+3.050011河北省石家庄市，河北医科大学研究生院  
+4.050057河北省石家庄市，河北省人民医院神经内科  
+\*通信作者：李俐涛，教授；Email:dingding51800@163.com
+
+【摘要】背景 新型冠状病毒病(COVID-19)在全球范围内蔓延，严重影响人类健康和生活。有研究报道 COVID-19 感染可导致血栓性疾病，而脑卒中与血栓事件密切相关。目的 评估COVID-19感染对脑卒中病死率的影响，并对其可能机制进行探讨，从而为COVID-19 患者的科学防治提供可靠的临床理论依据。方法 通过检索 Webof Science，Pubmed，embase，cochrane，知网及万方等自 2019年12月至2022年1月发表的文献，筛选COVID-19合并脑卒中的相关文献，采用NOS 风险评价标准对纳入文献进行质量评价，采用Meta分析评价COVID-19感染对脑卒中病死率的影响，采用漏斗图评价文献发表偏倚。结果共纳入20篇文献。Meta分析结果显示：脑卒中患者中感染COVID19 患者的病死率高于非COVID-19感染组( $\mathrm { R R } { = } 4 . 1 6$ ， $9 5 \%$ CI: 2.82-6.13, $\scriptstyle \mathrm { \mathrm { P } < 0 . 0 0 1 }$ )；COVID-19感染对凝血酶原时间（PT）影响变化更大 $( \mathrm { M D } { = } 0 . 9 3$ ， $9 5 \%$ CI: 0.26-1.60, $\scriptstyle \mathrm { P = } 0 . 0 0 7$ )；COVID-19 感染合并脑卒中D-二聚体更高 $\mathrm { ( M D = 1 } . 3 4$ $9 5 \% \mathrm { C I } ; 0 . 8 3 \ – 1 . 8 4 , \mathrm { P } \mathrm { - } 0 . 0 0 1 )$ 。两组活化部分凝血酶原时间（activated partialthromboplastin time,APTT）比较，差异均无统计学意义 $\mathrm { \underline { { M D } } } { = } 2 . 5 1$ ， $9 5 \%$ CI: -2.69-7.71, $\scriptstyle \mathrm { P = } 0 . 3 4$ )；感染COVID-19 的脑卒中患者年龄更小（ ${ \sf M D = - 1 . 7 0 }$ ， $9 5 \%$ Cl: -$3 . 1 1 . . . 0 . 2 8 , P = 0 . 0 2 )$ ；感染COVID-19的脑卒中患者预后与入院时NIHSS较高相关( $\mathsf { M D = } 6 . 6 6$ $9 5 \%$ Cl: 4.54-8.59, $_ { P < 0 . 0 1 }$ ），结论COVID-19感染可增加脑卒中的病死率，PT、D-二聚体等凝血系统的改变可能在其中发挥着重要的作用机制，其预后与年龄、入院时的NIHSS等危险因素相关。
+
+【关键词】COVID-19；脑卒中；新型冠状病毒；脑血管病；死亡率；
+
+Meta-analysis of the impact of COVID-19 infection on stroke mortality Huangfu Xiaojuan1,Li Xiaojuan², Chen Min1,LIU Jihong1, Zhai $\mathrm { R u i } ^ { 1 }$ , Cai Zhipeng,LI Litao1 1.Graduate School of Hebei North University, Zhangjiakou city, Hebei Province, China 2.Graduate School of North China University of Science and Technology, Tangshan, Hebei Province, China 3.Graduate School of Hebei Medical University, Shijiazhuang city, Hebei Province, China 4.Department of Neurology, Hebei Provincial People's Hospital, Shijiazhuang city, Hebei Province, China Corresponding author: Li Litao, Professor; Email: dingding51800@163.com
+
+【Abstract】 Background Novel Coronavirus disease (COVID-19) is spreading globally,seriously affecting human health ad livelihood.It has been reported that COVID-19 infectioncan leadto thrombotic disease,and stroke is closely related to thrombotic events.Objective To evaluatethe impactofCOVID-19 infectiononthe mortalityof stroke,and to explore its posible mechanism,soas toprovideareliable clinical theoretical basis for scientific preventionand treatmentof COVID-19 patients.Methods We searchedtheliteratures published from December 2019 to January 2022 on Webof Science, Pubmed,Embase,Cochrane,CNKI and Wanfang to sreen the literatures related to COVID-19 and stroke.NOS risk assessment criteria were usedto evaluate the qualityof the included literature,meta-analysis wasused to evaluate the impact of COVID-19 infection on stroke mortality,and Begger test and funnel plot were used to evaluate literature publication bias.Results Atotal of 2O literatures were included.Meta-analysis results showed that the mortalityof stroke patients infected with COVID-19 was higher than that of non-COVID-19 patients ( $\mathrm { R R } { = } 4 . 1 6$ ， $9 5 \% C \mathrm { I }$ ：2.82-6.13, $\scriptstyle \mathbf { P < } 0 . 0 0 1$ ).The influence of COVID-19 infection on prothrombin time (PT) was greater ( $\mathrm { \underline { { M D } } } { = } 0 . 9 3$ ， $9 5 \% C \mathrm { I }$ : 0.26-1.60, $\scriptstyle \mathrm { P = } 0 . 0 0 7$ )； D-dimer
+
+# ChinaXiv合作期刊
+
+was higher in PATIENTS with COVID-19 infection and stroke（ $\mathrm { \bf M D } { = } 1 . 3 4$ ， $9 5 \% C \mathrm { I }$ : 0.83-1.84, $\scriptstyle \mathbf { P < } 0 . 0 0 1$ ). There was no significant difference in the activated partial thromboplastin time (APTT) between the two groups ( $\mathrm { M D } { = } 2 . 5 1$ $9 5 \%$ CI: -2.69- 7.71, $\scriptstyle \mathbf { P = } 0 . 3 4$ ); Stroke patients infected with COVID-19 were younger ( $\mathrm { M D } { = } { \cdot } 1 . 7 0$ $9 5 \% C \mathrm { I }$ : -3.11--0.28,P=0.02); Prognosis of stroke patients infected with COVID-19 was associated with higher NIHSS at admission ( $\mathrm { \Delta M D { = } } 6 . 6 6$ ， $9 5 \%$ CI:4.54-8.59, $\scriptstyle \mathbf { P < } 0 . 0 1$ ). Conclusion COVID-19 infection can increase the mortality of stroke,PT,D-dimer and other coagulation system changes may playan important role in this mechanism.The prognosis was related torisk factors such asage and NIHSS at admission.
+
+【Key words】 COVID-19; Stroke; novel coronavirus; Cerebrovascular disease; Mortality;
+
+2019年12月开始新型冠状病毒病 (coronavirus disease 2019,COVID-19)在全球范围内蔓延，严重影响人类健康和生活。2020年3月上旬，世界卫生组织(World Health Organization，WHO)宣布 2019 年爆发的COVID-19 感染性疾病为国际关注的突发公共卫生事件[I]。自此该病引起了全球研究者的广泛关注。脑卒中是全球重大公共卫生问题，在世界范围内脑卒中是第二死亡疾病和第三致残疾病，给社会和个人造成了极大负担。在我国脑卒中已超过心血管疾病成为发病率、病死率和致残率最高的疾病。COVID-19感染不仅仅是肺部受累，还可能累及多器官、多系统[2]，部分文献报道了COVID-19影响神经系统，特别是可以引起脑血管疾病[34]。大多数关于COVID-19与脑卒中相关的报道都集中在如何护理此类患者[5]、护理系统发生了怎样的变化[]或有限的病例系列报告[7-10]。面对新的疾病谱，疾病间的相互影响知之甚少。我们关注的科学问题是：COVID-19 感染是否会对脑卒中预后是否有影响？两者之间何种相互作用机制目前尚不明确。有部分学者认为COVID-19 合并脑卒中的病因可能是血液的高凝状态[]、继发于颅内细胞因子风暴的血管炎[12]和病毒本身的感染[13]等。基于此本研究旨在对这一全球关注问题进行 Meta分析，通过分析COVID-19感染与脑卒中关系,进一步评估COVID-19感染对脑坐中病死率的影啊，并对其可能机制进行探讨，从而为COVID-19患者的科学防治提供可靠的临床理论依据。
+
+1材料与方法  
+本 Meta 分析涉及的方法学均依据首选报告项目（PRISMA）声明完成[14]。  
+1.1文献纳入与排除标准  
+1.1.1研究类型：评价COVID-19 对脑卒中死亡率的队列研究或病例对照研究；  
+1.1.2研究对象：病例均根据世界卫生组织利用鼻咽拭子样品的逆转录聚合酶链反应建立的标准行COVID-19病毒检测；根据 2018版中国急性缺血性脑卒中诊治指南被诊断为脑卒中；患者需完成入院时的NIHSS 评估及住院期间的实验室检查及转归记录。  
+1.1.3 干预措施：病例组为COVID-19 感染脑卒中患者；对照组为非COVID-19 感染脑卒中患者;  
+1.1.4文献中可以获得或推算出脑卒中的病死率；  
+1.1.5排除标准：Φ数据不完整或统计分析不充分的研究被删除；@评论、评论和信件；3缺乏COVID-19和脑卒中诊断标准的信息；4重复发表文章或基于相同人口数据的多次调查，将最新的研究或信息全面的文章纳入；5病例报告和病例系列、基础研究或实验室研究等非临床研究类型文献。  
+1.2检索策略 计算机检索 Pubmed，embase，webof science，cochrane，知网（China National Knowledge Infrastructure,CNKI）及万方等权威数据库，收集关于COVID-19患者脑卒中临床研究文献，检索时间为2019年12月至 2022年1月。检索词采用主题词与自由词相结合方式，中文检索词为"COVID-19；脑卒中；新型冠状病毒；脑血管病；死亡率；"，英文检索词为"Coronavirus Disease 2019 Virus,Stroke,novel coronavirus; Cerebrovascular disease; Mortality”,同时手动检索纳入文章的相关参考文献，以尽可能全面纳入相关研究。  
+1.3 文献筛选、数据提取及文献质量评价  
+1.3.1文献筛选两名评价员通过筛选标题、摘要和全文来评估所有确定的文章，并以协商一致的方式解决任何分歧。全文评估是在摘要没有提供足够的信息来评估方法的情况下进行的。如果信息不完整或存在任何不明确之处，我们会联系相关文章的作者。见Figl  
+1.3.2数据提取及文献质量评价提取内容包括：第一作者、发表年份、研究国家、研究类型、样本量、住院病死率、美国国立美国国立卫生院神经功能缺损评分(NationalInstitutes of Health NeurologicalImpairment Score,NIHSS）、年龄、实验室指标。同时利用 the Newcastle-Ottawa Scale (NOS)对纳入文献进行评估。  
+1.4统计学分析使用RevMan5.3软件进行文献的异质性分析，异质性分析采用i检验，若 $1 ^ { 2 } < = 5 0 \%$ ，说明文献间的异质性较小，则采用固定效应模型对该研究结果进行Meta分析; $1 ^ { 2 } > 5 0 \%$ 则可以使用随机效应模型。如果异质性较高，则可以通过采用敏感性分析技术寻找异质性原因。计数资料总有效率用相对危险度（Relative Risk,RR）表示，计量资料用平均差(mean difference,MD)表示并计算 $9 5 \%$ 置信区间(confidence interval,Cl)。当 $\mathsf { P } { < } 0 . 0 5$ 时，差异具有统计学意义。绘制漏斗图分析报告发表偏倚可信度,并分析检验结果的敏感分析。
+
+# 2.结果
+
+2.1文献检索结果
+
+本研究共检索出 2805 条文献，利用endnote筛选，最终纳入20篇文献[15-34]，均为英文文献。文献筛选流程及结果见图1，所纳入文献的基本特征见表1。
+
+![](images/fe77ff1258b9a3f3dc8870c9d1e33a63d13099e583ad8fce8f1a023c6a67b3b1.jpg)  
+图1文献筛选流程图  
+Figure 1 Flow chart of literature screening
+
+<html><body><table><tr><td rowspan="2">作者</td><td rowspan="2">发表年份</td><td colspan="2">平均年龄</td><td colspan="2">样本量</td><td colspan="2">住院死亡人数</td><td rowspan="2">研究类型</td></tr><tr><td>病例组</td><td>对照组</td><td>病例组 对照组 病例组对照组</td><td></td><td></td><td></td></tr><tr><td>RohitBhatia</td><td>2021</td><td>58.25±15.1960.59±14.71</td><td></td><td>52</td><td>355</td><td>22</td><td>27</td><td>病例对照研究</td></tr><tr><td>hen Lin</td><td>2020</td><td>58.2±18.3</td><td>65.9±13.9</td><td>9</td><td>51</td><td>4</td><td>4</td><td>病例对照研究</td></tr><tr><td>Shadi Yagh</td><td>2020</td><td></td><td></td><td>32</td><td>46</td><td>14</td><td>4</td><td>队列研究</td></tr><tr><td>Fernando Sierra Hidalgo</td><td>2021</td><td></td><td></td><td>1673</td><td>873</td><td></td><td></td><td>队列研究</td></tr><tr><td>Pablo Naval-Baudin</td><td>2020</td><td>70.2±8.4</td><td>70.1±15.3</td><td>19</td><td>81</td><td>5</td><td>5</td><td>病例对照</td></tr><tr><td>M Mehrpourl</td><td>2020</td><td></td><td>75.60±9.54 60.86±18.45</td><td>10</td><td>21</td><td>3</td><td>2</td><td>病例对照研究</td></tr></table></body></html>
+
+Table1 Basic characteristic of the included literatures   
+
+<html><body><table><tr><td>Jeffrey</td><td>2020</td><td></td><td></td><td>86</td><td>499</td><td>25</td><td>45</td><td>队列研究</td></tr><tr><td>Alberto Benussi</td><td>2020</td><td></td><td></td><td>43</td><td>68</td><td>15</td><td>4</td><td>队列研究</td></tr><tr><td>ThomasLijuan Zhang, Mathew</td><td>2021</td><td>55.66±13.2057.21±11.97</td><td></td><td>60</td><td>104</td><td>13</td><td>0</td><td>病例对照对照</td></tr><tr><td>Joan Marti-Fabregas</td><td>2021</td><td>71.6±12.3</td><td>72.4±13.5</td><td>91</td><td>610</td><td>38</td><td>98</td><td>队列研究</td></tr><tr><td>Kimon Bekelis</td><td>2020</td><td></td><td></td><td>2513</td><td>22295</td><td></td><td></td><td>队列研究</td></tr><tr><td>Adnan I. Qureshi</td><td>2021</td><td>68.8±15.1</td><td>71±14.9</td><td>8163</td><td>199</td><td></td><td></td><td>队列研究</td></tr><tr><td>AlexanderE.2020</td><td>2020</td><td></td><td></td><td>1916</td><td>1486</td><td></td><td></td><td>队列研究</td></tr><tr><td>Mandip S.Dhamoo</td><td>2021</td><td></td><td>65.9±14.3 66.7±15.5</td><td>105</td><td>172</td><td>35</td><td>22</td><td>队列研究</td></tr><tr><td>Mehmet Akif Topcuoglu</td><td>2021</td><td></td><td></td><td>37</td><td>355</td><td>18</td><td>22</td><td>病例对照研究</td></tr><tr><td>Richard J Perry</td><td>2020</td><td></td><td></td><td>23</td><td>177</td><td>1</td><td>1</td><td>病例对照研究</td></tr><tr><td>Seby John</td><td>2020</td><td>48.1±10.8</td><td>58.7 ±14.5</td><td>19</td><td>220</td><td>1</td><td>4</td><td>病例对照研究</td></tr><tr><td>Minghuan Wang</td><td>2021</td><td></td><td></td><td>124</td><td>226</td><td>34</td><td>5</td><td>队列研究</td></tr><tr><td>Ludovico Ciolli1</td><td>2021</td><td></td><td></td><td>26</td><td>111</td><td>7</td><td>10</td><td>病例对照研究</td></tr><tr><td>Eric Jorge</td><td>2021</td><td></td><td></td><td>748141388879</td><td></td><td></td><td></td><td>队列研究</td></tr></table></body></html>
+
+# 2.2质量评估结果
+
+表1纳入研究的基本特征  
+
+<html><body><table><tr><td></td><td>Selection</td><td>Comparison</td><td>Exposure</td><td>Score</td></tr><tr><td>Shadi Yagh 2020</td><td>4</td><td>1</td><td>1</td><td>6</td></tr><tr><td>Fernando Sierra-Hidalgo 2021</td><td>4</td><td>1</td><td>1</td><td>6</td></tr><tr><td>Jeffrey 2020</td><td>4</td><td>1</td><td>0</td><td>5</td></tr><tr><td>Alberto Benussi 2020</td><td>4</td><td>2</td><td>2</td><td>8</td></tr><tr><td>Joan Marti- Fabregas 2021</td><td>4</td><td>0</td><td>3</td><td>7</td></tr><tr><td>Kimon Bekelis 2020</td><td>4</td><td>0</td><td>2</td><td>6</td></tr><tr><td>Adnan I. Qureshi 2021</td><td>4</td><td>1</td><td>1</td><td>6</td></tr><tr><td>Alexander E. 2020</td><td>4</td><td>0</td><td>2</td><td>6</td></tr><tr><td>Mandip S. Dhamoo 2021</td><td>3</td><td>2</td><td>3</td><td>8</td></tr></table></body></html>
+
+纳入的 20 项研究，符合"一般或良好"质量标准，被选中进行进一步分析8项研究符合"良好"质量标准，12项符合"一般"质量标准。（见表2)
+
+表2纳入队列研究的NOS评分情况Table2NEWCASTLE-OTTAWAOUALITYASSESSMENTSCALECASECONTROL STUDIES  
+
+<html><body><table><tr><td>Minghuan Wang</td><td>4</td><td>0</td><td>2</td><td>6</td></tr><tr><td>2021 Eric Jorge 2021</td><td>4</td><td>2</td><td>3</td><td>9</td></tr></table></body></html>
+
+Table 3NOS scores were included in case-control studies   
+
+<html><body><table><tr><td></td><td>Selection</td><td>Comparison</td><td>Exposure</td><td>Score</td></tr><tr><td>Rohit Bhatia2021</td><td>4</td><td>1</td><td>1</td><td>6</td></tr><tr><td>Chen Lin 2020</td><td>4</td><td>1</td><td>3</td><td>8</td></tr><tr><td>Pablo Naval- Baudin 2020</td><td>4</td><td>1</td><td>2</td><td>7</td></tr><tr><td>Alberto Benussi 2020</td><td>4</td><td>2</td><td>2</td><td>8</td></tr><tr><td>Mandip S. Dhamoo 2021</td><td>3</td><td>2</td><td>3</td><td>8</td></tr><tr><td>Mehmet Akif Topcuoglu 2021</td><td>3</td><td>2</td><td>2</td><td>7</td></tr><tr><td>Richard J Perry 2020</td><td>3</td><td>2</td><td>2</td><td>7</td></tr><tr><td>Seby John 2020</td><td>4</td><td>2</td><td>3</td><td>9</td></tr><tr><td>Ludovico Ciolli1 2021</td><td>4</td><td>2</td><td>2</td><td>8</td></tr></table></body></html>
+
+表3纳入病例对照研究的NOS评分情况
+
+# 2.3Meta分析结果
+
+# 2.3.1
+
+COVID-19 感染对脑卒中病死率的影响 其中16 篇文献研究对COVID-19 感染合并脑卒中患者的住院期间（ $_ { < 1 5 }$ 天）病死率进行报告，总计4791名患者，Meta 分析结果示：与非感染COVID-19 患者相比，感染 COVID-19 的脑卒中患者有更高的死亡风险（ $R R = 4 . 1 6$ $9 5 \%$ CI:2.82-6.13)，结果见图2，异质性结果为 $1 ^ { 2 } = 8 4 \%$ ，在随机效应模型分析下两组病死率差异具有统计学意义 $( P { < } 0 . 0 0 1 )$ ；在我们纳入的各项研究中逐个剔除异质，敏感性分析结果没有显著差异证明该结果较为稳定。
+
+2.3.2COVID-19 感染对脑卒中患者PT的影响 其中4篇文献研究对COVID-19 感染合并脑卒中患者入院时的 PT进行报告，总计889 名患者，Meta 结果为 $M D = 0 . 9 3$ = $9 5 \%$ Cl: 0.26-1.60, $1 ^ { 2 } = 5 0 \%$ ，在随机效应模型分析下两组PT有差异$\scriptstyle P = 0 . 0 0 7 1$ （见图3);通过对纳入的各项研究中逐个剔除异质，异质敏感性分析结果没有显著差异证明该结果较为稳定。2.3.3COVID-19 感染对脑卒中患者APTT的影响其中4篇文献研究对COVID-19合并脑卒中患者入院时的APTT进行报告，总计968 名患者，Meta分析结果提示MD=2.51( $9 5 \%$ Cl:-2.69-7.71），结果见图4，在随机效应模型分析下异质性为 $1 ^ { 2 } = 8 3 \%$ ，但该差异没有统计学意义 $\scriptstyle ( P = 0 . 3 4 )$ 。
+
+2.3.4COVID-19 感染对脑卒中患者 D-二聚体的影响 其中7篇文献研究对 COVID-19 患者合并脑卒中入院时的 D-二聚体进行报告，总计1100 名患者，Meta分析结果示 $( \mathsf { M D } = 1 . 3 4 , 9 5 \% \mathsf { C l } \colon 4 . 5 4 - 8 . 7 9 , \mathsf { l } ^ { 2 } = 5 9 \% )$ ，结果见图5，在随机效应模型分析下两组间D-二聚体的差异有统计学意义 $\mathsf { P } { \ < } 0 . 0 1$ ；敏感性数据分析显示：通过对纳入的各项研究中逐个剔除异质，异质敏感性分析结果没有显著差异证明该结果较为稳定。
+
+2.3.5COVID-19 感染合并脑卒中患者 NIHSS 评估 其中 5篇文献研究对 COVID-19 感染合并脑卒中患者入院时的NIHSS 进行报告，总计1141名患者，Meta 结果为 $M D = 6 . 6 6$ ， $9 5 \%$ Cl: 4.54-8.79, $1 ^ { 2 } = 5 9 \%$ ，在随机效应模型分析下两组PT有差异 $_ { P < 0 . 0 1 }$ （见图6）表明COVID-19 感染合并脑卒中患者的NIHSS高于对照组，对纳入的各项研究中逐个剔除异质，异质敏感性分析结果没有显著差异，证明该结果较为稳定。
+
+2.3.6COVID-19 感染合并脑卒中患者年龄的评估 其中9 篇文献研究对 COVID-19 感染合并脑卒中患者的年龄进行报告，总计 2290名患者，Meta分析结果示：与非感染COVID-19 患者相比，感染 COVID-19 的脑卒中患者年龄偏小$\mathrm { ' M D { = } \mathrm { - } 1 . 7 0 , 9 5 \% C l : - 3 . 1 1 { - } 0 . 2 8 ) }$ ，结果见图7,异质性结果为 $1 ^ { 2 } = 6 7 \%$ ，在固定效应模型分析下两组年龄有差异 $\scriptstyle P = 0 . 0 2$ ：通过对纳入的各项研究中逐个剔除异质，异质敏感性分析结果没有显著差异证明该结果较为稳定。
+
+<html><body><table><tr><td colspan="2">新冠人群合并卒中组</td><td colspan="3">非新冠人群合并卒中组</td><td colspan="2">Risk Ratio</td><td colspan="2">Risk Ratio</td></tr><tr><td>Study or Subgroup</td><td>Events</td><td>Total</td><td>Events</td><td></td><td></td><td>TotalWeight M-H, Random, 95% Cl</td><td>M-H, Random, 95% Cl</td><td></td></tr><tr><td>Adnan I. Qureshi 2021</td><td>20</td><td>103</td><td>43</td><td>199</td><td>8.0%</td><td>0.90 [0.56, 1.44]</td><td></td><td></td></tr><tr><td>Chen Lin 2020</td><td>4</td><td>9</td><td>4</td><td>51</td><td>4.9%</td><td>5.67 [1.72, 18.65]</td><td></td><td></td></tr><tr><td>Eric Jorge 2021</td><td>43</td><td>147</td><td>42</td><td>294</td><td>8.4%</td><td>2.05 [1.41, 2.98]</td><td></td><td></td></tr><tr><td>Jeffrey 2020</td><td>25</td><td>41</td><td>45</td><td>499</td><td>8.4%</td><td>6.76 [4.67, 9.80]</td><td></td><td></td></tr><tr><td> Joan Marti-Fabregas 2021</td><td>38</td><td>91</td><td>98</td><td>610</td><td>8.7%</td><td>2.60 [1.92, 3.52]</td><td></td><td></td></tr><tr><td>Kimon Bekelis 2020</td><td>7</td><td>22</td><td>25</td><td>544</td><td>6.9%</td><td>6.92 [3.36, 14.25]</td><td></td><td></td></tr><tr><td>Ludovico Ciolli1 2021</td><td>7</td><td>26</td><td>10</td><td>111</td><td>6.3%</td><td>2.99 [1.26, 7.11]</td><td></td><td></td></tr><tr><td>M Mehrpour1 2020</td><td>3</td><td>10</td><td>2</td><td>21</td><td>3.5%</td><td>3.15 [0.62, 15.97]</td><td></td><td></td></tr><tr><td>Mandip S. Dhamoo 2021</td><td>35</td><td>105</td><td>22</td><td>172</td><td>8.0%</td><td>2.61 [1.62, 4.19]</td><td></td><td></td></tr><tr><td>Mehmet Akif Topcuoglu 2021</td><td>18</td><td>37</td><td>22</td><td>355</td><td>7.8%</td><td>7.85 [4.65, 13.24]</td><td></td><td></td></tr><tr><td>Minghuan Wang 2021</td><td>34</td><td>124</td><td>5</td><td>226</td><td>6.1%</td><td>12.39 [4.97, 30.88]</td><td></td><td></td></tr><tr><td>Pablo Naval-Baudin 2020</td><td>5</td><td>19</td><td>5</td><td>81</td><td>5.1%</td><td>4.26 [1.37, 13.26]</td><td></td><td></td></tr><tr><td>Rohit Bhatia 2021</td><td>22</td><td>52</td><td>27</td><td>355</td><td>8.0%</td><td>5.56 [3.44, 9.01]</td><td></td><td></td></tr><tr><td>Seby John 2020</td><td>1</td><td>19</td><td>4</td><td>220</td><td>2.4%</td><td>2.89 [0.34, 24.62]</td><td></td><td></td></tr><tr><td>Shadi Yagh 2020</td><td>14</td><td>22</td><td>4</td><td>43</td><td>5.7%</td><td>6.84 [2.55, 18.32]</td><td></td><td></td></tr><tr><td>Thomas Lijuan Zhang, Mathew 2021</td><td>13</td><td>62</td><td>0</td><td>111</td><td>1.6%</td><td>48.00 [2.90, 793.89]</td><td></td><td></td></tr><tr><td colspan="5">Total (95% Cl) 889</td><td>3892 100.0%</td><td>4.16 [2.82, 6.13]</td><td></td><td></td></tr><tr><td>Total events</td><td colspan="3">289 358</td><td colspan="3"></td><td colspan="2"></td></tr><tr><td colspan="5">Heterogeneity: Taua= 0.43; Chi= 87.06, df= 15 (P < 0.00001); I²= 83%</td><td colspan="2"></td><td colspan="2"></td></tr><tr><td colspan="5">Test for overalleffect: Z= 7.19 (P = 0.00001)</td><td colspan="2">0.005</td><td colspan="2">0.1 1 10</td></tr></table></body></html>
+
+# Fig2 Case fatality rate of stroke in COVID-19 patients
+
+RRRelative risk: $9 5 \% C I 9 5 \%$ confidence interval
+
+<html><body><table><tr><td></td><td colspan="3">新冠人群合并卒中组</td><td colspan="3">非新冠人群合并卒中组</td><td colspan="3">Mean Difference</td><td colspan="3">Mean Difference</td></tr><tr><td>Study or Subgroup</td><td>Mean</td><td>SD</td><td>Total</td><td>Mean</td><td>SD</td><td></td><td></td><td>Total Weight IV,Random,95% Cl</td><td></td><td></td><td>IV, Random, 95% Cl</td><td></td></tr><tr><td>Alberto Benussi 2020</td><td>16.9</td><td>3.3</td><td>9</td><td>13.9</td><td></td><td>1.7</td><td>51</td><td>7.9%</td><td>3.00 [0.79, 5.21]</td><td></td><td></td><td></td></tr><tr><td>Chen Lin 2020</td><td>13.53</td><td>2.61</td><td>43</td><td>12.4</td><td>0.91</td><td></td><td>68</td><td>29.9%</td><td>1.13 [0.32, 1.94]</td><td></td><td></td><td></td></tr><tr><td>Eric Jorge 2021</td><td>13.22</td><td>3.33</td><td>147</td><td>12.81</td><td>2.38</td><td></td><td>294</td><td>37.0%</td><td>0.41 [-0.19, 1.01]</td><td></td><td></td><td></td></tr><tr><td>Mandip S. Dhamoo 2021</td><td>15.4</td><td>3.7</td><td>105</td><td>14.6</td><td></td><td>4.4</td><td>172</td><td>25.2%</td><td>0.80 [-0.17, 1.77]</td><td></td><td></td><td></td></tr><tr><td>Total (95% Cl)</td><td></td><td></td><td>304</td><td></td><td></td><td></td><td>585100.0%</td><td></td><td>0.93 [0.26, 1.60]</td><td></td><td></td><td></td></tr><tr><td colspan="9">Heterogeneity: Tau= 0.22; Chi²= 6.06, df= 3 (P= 0.11); I²= 50%</td><td>-4</td><td></td><td></td><td></td></tr><tr><td colspan="9">Test for overall effect: Z = 2.70 (P = 0.007)</td><td></td><td>0</td><td>2</td><td>4</td></tr></table></body></html>
+
+# Fig3 The contrast of PT of stroke in COVID-19 patients
+
+Mean Difference: $9 5 \% C I 9 5 \%$ confidence interval
+
+<html><body><table><tr><td></td><td colspan="3">新冠人群合并卒中组</td><td colspan="4">非新冠人群合并卒中组</td><td>Mean Difference</td><td colspan="4"> Mean Diference</td></tr><tr><td>Study or Subqroup</td><td>Mean</td><td>SD</td><td>Total</td><td>Mean</td><td>SD</td><td></td><td>TotalWeight</td><td>IV,Fixed,95% Cl</td><td></td><td>IV,Fixed,95% Cl</td><td></td><td></td></tr><tr><td>Chen Lin 2020</td><td>40.9</td><td>15.4</td><td>9</td><td>29</td><td>5.2</td><td>51</td><td>3.1%</td><td>11.90 [1.74, 22.06]</td><td></td><td></td><td></td><td></td></tr><tr><td>Mandip S. Dhamoo 2021</td><td>38.9</td><td>24.8</td><td>105</td><td>31.1</td><td>13.4</td><td>172</td><td>11.9%</td><td>7.80 [2.65, 12.95]</td><td></td><td></td><td></td><td></td></tr><tr><td>Mehmet Akif Topcuoglu 2021</td><td>25.49</td><td>5.2</td><td>37</td><td>26.29</td><td>16.2</td><td>355</td><td>55.9%</td><td>-0.80 [-3.18, 1.58]</td><td></td><td></td><td></td><td></td></tr><tr><td>Seby John 2020</td><td>28.9</td><td>2.9</td><td>19</td><td>32.1</td><td>22.9</td><td>220</td><td>29.1%</td><td>-3.20 [-6.50, 0.10]</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>170</td><td></td><td></td><td>798</td><td>100.0%</td><td>-0.09 [-1.86, 1.69]</td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">Total (95% Cl) Heterogeneity: Chi²= 18.13, df= 3 (P = 0.0004); I= 83%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">Test for overall effect: Z= 0.09 (P = 0.93)</td><td></td><td>-20-10</td><td>10</td><td>20</td><td></td></tr></table></body></html>
+
+# Fig4 The contrast of APPT of stroke in COVID-19 patients
+
+MeanDifference: $9 5 \% C I 9 5 \%$ confidence interval
+
+<html><body><table><tr><td></td><td colspan="3">新冠人群合并卒中组</td><td colspan="3">非新冠人群合并卒中组</td><td colspan="2">Mean Difference</td><td colspan="3">Mean Difference</td></tr><tr><td>Study or Subgroup</td><td>Mean</td><td>SD</td><td>Total</td><td>Mean</td><td>SD</td><td></td><td>TotalWeight</td><td>IV, Random, 95% Cl</td><td></td><td>IV, Random, 95% Cl</td><td></td></tr><tr><td>Eric Jorge Garcia- Lamberechts MD 2021</td><td>2.21</td><td>2.46</td><td>147</td><td>1.01</td><td>1.52</td><td></td><td>294 32.7%</td><td>1.20 [0.77, 1.63]</td><td></td><td>+</td><td></td></tr><tr><td>Joan Marti-Fabregas 2021</td><td>2.4</td><td>3.1</td><td>91</td><td>0.94</td><td></td><td>610</td><td>25.4%</td><td>1.46 [0.82, 2.10]</td><td></td><td>+</td><td></td></tr><tr><td>M Mehrpour1 2020</td><td>7</td><td>4.33</td><td>10</td><td>6.3</td><td>5.17</td><td></td><td>2.0%</td><td>0.70 [-2.78, 4.18]</td><td></td><td></td><td></td></tr><tr><td>Mandip S. Dhamoo 2021</td><td>8.6</td><td>7.5</td><td>105</td><td>36.7</td><td>126.8</td><td></td><td>21 172 0.1%</td><td>-28.10 [-47.10, -9.10]</td><td></td><td></td><td></td></tr><tr><td>Mehmet Akif Topcuoglu 2021</td><td>5.27</td><td>6.58</td><td>37</td><td>4.33</td><td></td><td></td><td>4.1%</td><td>0.94 [-1.42, 3.30]</td><td></td><td></td><td></td></tr><tr><td>Richard J Perry 2020</td><td>2.512</td><td>0.83</td><td>23</td><td></td><td>0.63</td><td>355 177</td><td>35.7%</td><td>1.51 [1.16, 1.86]</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">Total (95% Cl) 413 1629 100.0% 1.34 [0.83, 1.84] Heterogeneity: Taua= 0.15; Chi= 10.78, df= 5 (P = 0.06); I²= 54%</td><td></td><td>→</td><td></td></tr><tr><td colspan="9">Test for overalleect: Z= 5.21 (P < 0.00001)</td><td></td><td></td><td>10</td></tr><tr><td colspan="9"></td><td>-5</td><td>0</td><td></td></tr><tr><td colspan="9"></td><td></td><td></td><td></td></tr></table></body></html>
+
+# Fig5 The contrast of D-D of stroke in COVID-19 patients
+
+Mean Difference: $9 5 \% C I 9 5 \%$ confidence interval
+
+<html><body><table><tr><td></td><td colspan="3">新冠人群感染卒中组</td><td colspan="3">非新冠人群感染卒中组</td><td colspan="2"> Mean Difference</td><td colspan="3"> Mean Difference</td></tr><tr><td>Study orSubgroup</td><td>Mean</td><td>SD</td><td>Total</td><td>Mean</td><td></td><td>SD</td><td></td><td>TotalWeight IV,Random,95% Cl</td><td></td><td>IV, Random, 95% Cl</td><td></td></tr><tr><td>Chen Lin 2020</td><td>18.4</td><td>8.8</td><td></td><td></td><td>10.5</td><td>8.9</td><td>51</td><td>8.9%</td><td>7.90 [1.65, 14.15]</td><td></td><td></td></tr><tr><td>Mandip S. Dhamo0 2021</td><td>15.5</td><td>10.7</td><td>105</td><td></td><td>9.6</td><td>9.5</td><td>172</td><td>24.9%</td><td>5.90 [3.41, 8.39]</td><td></td><td>+</td></tr><tr><td>Mehmet Akif Topcuoglu 2021</td><td>12</td><td></td><td></td><td></td><td>8</td><td>8</td><td>355</td><td>25.5%</td><td>4.00 [1.60, 6.40]</td><td>+</td><td></td></tr><tr><td>Seby John 2020</td><td>17</td><td></td><td></td><td></td><td>8.4</td><td>8.4</td><td>220</td><td>10.7%</td><td>8.60 [3.09, 14.11]</td><td></td><td></td></tr><tr><td>ThomasLijuan Zhang, Mathew 2021</td><td>12.73</td><td>12 6.4</td><td></td><td></td><td>4.22</td><td>4.22</td><td>111</td><td>30.0%</td><td>8.51 [6.73, 10.29]</td><td></td><td>中</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="10">Total (95% Cl) 232</td><td></td><td>?</td></tr><tr><td colspan="10">Heterogeneity: Tau²= 3.10; Chi²= 9.80,df= 4 (P = 0.04); ²= 59% Test for overall effect: Z= 6.14 (P < 0.00001)</td><td>-20-10 0</td><td>1020</td></tr><tr><td colspan="10"></td><td></td></tr></table></body></html>
+
+# Fig6 The contrast of NIHSS of stroke in COVID-19 patients
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td></td><td colspan="3">新冠人群感染卒中组</td><td colspan="3">非新冠人群感染卒中组</td><td colspan="2">Mean Difference</td><td colspan="3">Mean Difference</td></tr><tr><td>Study or Subgroup</td><td>Mean</td><td>SD</td><td>Total</td><td>Mean</td><td>SD</td><td>Total Weight</td><td></td><td>IV, Fixed,95% Cl</td><td></td><td>IV, Fixed,95% Cl</td><td></td></tr><tr><td>Adnan I. Qureshi 2021</td><td>68.8</td><td>15.1</td><td>103</td><td>71</td><td>14.9</td><td>199</td><td>15.7%</td><td>-2.20 [-5.78, 1.38]</td><td></td><td></td><td></td></tr><tr><td>Chen Lin 2020</td><td>58.2</td><td>18.3</td><td>9</td><td>65.9</td><td>13.9</td><td>51</td><td>1.3%</td><td>-7.70 [-20.25, 4.85]</td><td></td><td></td><td></td></tr><tr><td>Joan Marti-Fabregas 2021</td><td>71.6</td><td>12.3</td><td>91</td><td>72.4</td><td>13.5</td><td>610</td><td>26.7%</td><td>-0.80 [-3.54, 1.94]</td><td></td><td></td><td></td></tr><tr><td>M Mehrpour1 2020</td><td>75.6</td><td>9.54</td><td>10</td><td>60.86</td><td>18.45</td><td>21</td><td>2.1%</td><td>14.74 [4.88, 24.60]</td><td></td><td></td><td></td></tr><tr><td>Mandip S. Dhamoo 2021</td><td>65.9</td><td>14.3</td><td>105</td><td>66.7</td><td>15.5</td><td>172</td><td>15.7%</td><td>-0.80 [-4.38, 2.78]</td><td></td><td></td><td></td></tr><tr><td>Pablo Naval-Baudin 2020</td><td>70.2</td><td>8.4</td><td>19</td><td>70.1</td><td>15.3</td><td>81</td><td>7.9%</td><td>0.10 [-4.94, 5.14]</td><td></td><td></td><td></td></tr><tr><td>Rohit Bhatia 2021</td><td>58.25</td><td>15.19</td><td>52</td><td>60.59</td><td>14.71</td><td>355</td><td>10.4%</td><td>-2.34 [-6.74, 2.06]</td><td></td><td></td><td></td></tr><tr><td>Seby John 2020</td><td>48.1</td><td>10.8</td><td>19</td><td>58.7</td><td>14.5</td><td>220</td><td></td><td>7.4%-10.60 [-15.82, -5.38]</td><td></td><td></td><td></td></tr><tr><td>ThomasLijuan Zhang, Mathew 2021</td><td>55.66</td><td>13.2</td><td>62</td><td>57.21</td><td>11.97</td><td>111</td><td>12.8%</td><td>-1.55 [-5.52, 2.42]</td><td></td><td></td><td></td></tr><tr><td>Total (95% Cl)</td><td></td><td></td><td>470</td><td></td><td></td><td>1820</td><td>100.0%</td><td>-1.70 [-3.11, -0.28]</td><td></td><td></td><td></td></tr><tr><td colspan="8"></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="8">Heterogeneity: Chi²= 24.03, df= 8 (P = 0.002); I²= 67% Test for overall effect: Z= 2.34 (P = 0.02)</td><td>-10 -5</td><td></td><td>5</td><td>10</td></tr></table></body></html>
+
+# Fig7 The contrast of age of stroke in COVID-19 patients
+
+# 2.4 偏倚分析
+
+究主要以对脑卒中的病死率改变绘制漏斗图来评价发表偏倚，由漏斗图可以看出（见图8)，纳入的研究对象在轴线两侧基本对称分布，不存在发表偏倚，较为对称，实验结果可信度较高。
+
+![](images/2ded60244ef80fd091b79f7bb8bf0fea933e8d1b57e85baa8997251649386b55.jpg)  
+Fig 8 Funnel plot comparing the level of mortality among patients
+
+# 3.讨论
+
+COVID-19 是由 2019 年12月在中国武汉首次报道的严重 SARS-CoV-2 引起的疾病，并已在全世界蔓延。至2021年12月为止，COVID-19影响了224个国家和地区的27.8亿人，造成 530万人死亡[35]。随着Omicron[3]等变体的出现，COVID-19病例呈指数增长，导致数千人死亡。且此病可累及多个系统受损，在脑卒中的发病中也扮演者着重要角色[37]。面对新的疾病谱，疾病间的相互影响知之甚少。许多病例报告研究表明，COVID-19感染可导致血栓性疾病，而脑卒中与血栓事件密切相关，COVID-19 感染对脑卒中的预后是否有影响？两者之间何种相互作用机制目前尚不明确。
+
+在COVID-19大流行期间，许多国家报告脑卒中患者入院人数急剧减少，这表明症状轻微的脑卒中患者未入院或者由于担心COVID-19 感染，他们自发地宁愿待在家里，在人口封锁期间不联系医疗援助，这与 NOT等人报道的各个地区脑卒中住院率减少相符[38]。与2019年同期相比，2020年研究期间脑卒中入院率下降 $45 \%$ 以下。所有患者均为COVID-19 阳性，这种脑卒中患者入院率降低可能与疫情期间更侧重于COVID-19患者的转移相关，从而无法得出脑卒中发病的增加或减少与COVID-19之间的明确关系。本 Meta分析发现在脑卒中患者中，COVID-19 感染患者比非 COVID-19 感染患者的病死率明显升高,差异有统计学意义(RR=4.16,95%CI: 2.82-6.13, $1 ^ { 2 } = 8 3 \%$ $\mathrm { P } { < } 0 . 0 0 1 \$ ）这和一项荟萃分析相一致[39]，与非COVID-19 感染患者相比，COVID-19 感染导致脑卒中的死亡风险增加3倍。同时 YANG 等人的研究表明既往的脑血管疾病与COVID-19 患者预后不良风险增加相关[40]，可能是由于严重的潜在
+
+感染以及随之而来的全身和代谢功能障碍所致。
+
+本分析发现在脑卒中患者中，感染COVID-19 与非感染COVID-19 患者相比凝血指标异常率更高，且差异有统计学意义（ $\mathrm { \bf ~ M D = } 0 . 9 3$ ， $9 5 \%$ CI: 0.26-1.60; MD=1.34, $9 5 \%$ CI: 0.83-1.84, $1 ^ { 2 } = 5 4 \%$ )。与我们的分析结果相一致的是Garica报道，合并COVID-19感染的脑卒中患者比普通患者的D-二聚体水平更高，淋巴细胞计数更高低，这表明COVID-19 感染会引起免疫水平下降[41]。同时来自中国的一项报告描述了合并脑卒中的COVID-19 感染患者，其抗磷脂抗体和D-二聚体异常率更高[42]。其中D-二聚体是血栓形成后，纤维蛋白溶解系统将纤维蛋白网分解，由纤维蛋白的两个D段组成的一个聚合体[43]，它代表纤维蛋白溶解系统的激活，也有研究表明[44]，D-二聚体和纤维蛋白原水平的增加与疾病的严重程度和病死率增加有关。此外发现APTT在COVID-19感染患者和普通患者中无明显差异学意义。PT 是反应外源性凝血途径的试验，正常范围是11-13s，改变正常对照3s以上有临床意义，PT缩短，说明机体存在着高凝状态，容易发生血栓性的疾病，如冠心病、心肌梗死、深静脉血栓。PT延长，而APTT是反应内源性凝血途径的功能，根据纳入的研究170个COVID-19患者和 798个非COVID-19患者引发的脑卒中，结果显示两者间并无明显统计学差异。
+
+部分文献报道COVID-19感染合并脑卒中患者的NIHSS 及年龄等,其中调整相关变量分析中发现NIHSS、年龄与住院病死率相关。在我们的脑卒中病例系列中，COVID-19 感染病例的平均年龄更低，（ $( \mathrm { M D } { = } { - } 1 . 7 0 , 9 5 \% \mathrm { C I } { : } { - } 3$ .11--0.28）， $\scriptstyle \mathbf { P = } 0 . 0 2 { \mathrm { ~ , ~ } }$ ，NIHSS评分较高（ $\mathrm { \cdot } \mathrm { M D } { = } 6 . 6 6$ ， $9 5 \%$ CI: 4.54-8.79, $\mathrm { \bf P } { < } 0 . 0 1$ )。这项研究的一个主要发现是，脑卒中的严重程度也受COVID-19 感染显著影响,与无COVID-19 感染的脑卒中患者相比，有COVID-19 的患者卒中严重程度明显更高,且住院病死率较高。
+
+然而 COVID-19 患者发生脑卒中的机制仍有待确定，目前有几个合理的假设：血管壁侵入、凝血障碍、继发于心肌损伤的脑栓塞或现有动脉粥样硬化斑块的不稳定。该病毒能够侵入血管壁，因为内皮细胞表达ACE2受体[451,病毒利用该受体进入细胞，通过破坏血管壁或诱导抗磷脂抗体促进血栓形成[46]，也可通过激活免疫系统导致血栓形成[47]，从而影响凝血、血小板活化和内皮功能导致机体处于高凝状态。另一种潜在机制是干扰凝血[48]，COVID-19感染一方面引起内皮细胞损伤从而激活组织因子-□a 因子途径启动凝血，并在病变区域募集血小板和白细胞增加局部炎症进一步促进凝血系统的激活。一些病毒还可以同时病毒另外在某些COVID-19感染患者中引起的一般炎症状态或"细胞因子风暴”影响着机体凝血功能[49]。COVID-19 感染合并脑卒中后死亡率增加可能是全身性高凝的表现，它打破了体内凝血和抗凝系统的平衡，增加了脑卒中的风险[50]。有一些报道发现对与COVID-19 患者预防性抗凝治疗可以明显降低全身血栓事件的发病率[51]，也有一些报道称，抗凝治疗会减少脑卒中的死亡风险[52]。
+
+本文系统分析了目前已有的小样本回顾性研究，与非COVID-19感染患者相比，COVID-19感染患者的脑卒中  
+与更高的住院病死率相关。该预后与实验室指标如凝血指标（D-二聚体、PT）明显相关，也与脑卒中的严重程度  
+及年龄相关，为COVID-19 合并脑卒中患者早期识别及治疗开辟新的途径，并提供了循证依据。本次 Meta 分析  
+存在一定的局限性，如纳入的患者样本量偏小；纳入文献均未提及盲法的使用及分配隐藏，易发生选择性偏倚；纳  
+入文献关于正念干预的方法不够详细系统；COVID-19在脑卒中患者中的发病率仍需要高质量的随机对照研究证实。本文无利益冲突。
+
+# 参考文献
+
+[1]Alberto VLuigiGG,ClaudioB,etal.Strokeinpatientswith COVID-19:Clinicalandneuroimaging characteristics[J]. Neuroscience Letters,2021, 743.   
+[2]IGE,YuMM,NBA,etal.Novelcoronavirusinfection(OVI-19)andnervoussysteminvolvement:pathogenesiscinical manifestations,organizationofneurologicalcare][J].ZhurnalnevrologipsikhiatriimeniS.S.Korsakova,202,120(6).   
+[3]MehtaPR,Apap Mangion S,Benger M,etal.Cerebral venoussinus thrombosis and thrombocytopenia after COVID-19 vaccination - A report of two UK cases[J]. Brain Behav Immun,2021, 95:514-517.   
+[4]C H D,Wael E,Elizabeth R.COVID-19-Related Stroke[J].Translational stroke research,2O20,11(3).   
+[5]PandainJD,PanagosPD,SebastianIA,etal.Maintaining StrokeCare DuringtheCOVID-19PandemicinLower-and MiddleIncome Countries:World Stroke Organization Position Statement Endorsed by American Stroke Asociation and American Heart Association[J]. Stroke,2022,53(3):1043-1050.   
+[6]GolombMR,HallGC.LeterbyGolombandHallRegarding Article,"TemporaryEmergencyGuidance to USStroke Centers During the COVID-19 Pandemic"[J]. Stroke, 2020, 51(7):e138.   
+[7]BaoY,LinSY,Cheng ZH,etal.ClinicalFeaturesofCOVID-19 inaYoung Man withMassiveCerebralHemorhage-Case Report[J].SN comprehensive clinical medicine,2020,2(prepublish).   
+[8]KenichiS,TatsuyaM,HideakiN,etal.[AcaseofcerebralembolismwithCoronavirusdisease2O19][J].Rinshoshinkeigaku $\mathbf { \tau } = \mathbf { \tau }$ （204号 Clinical neurology, 2021, 61(7). 2021, 61(7):486-490.   
+[11] Ng Kee Kwong KC,Mehta PR,Shukla G,etal.COVID-19,SARSandMERS: Aneurologicalperspective[J].JClin Neurosci, 2020, 77:13-16.   
+[12] KonczJ,OroszVSulyokZ,etal.reatmentoptionsforenormouscarotid thrombusasacomplicationofA-CoV-2 infection][J]. IdeggyogySz,2021,74(3-4):129-134.   
+[13]BalcomEF,NathA,Power C.Acuteandchronic neurologicaldisordersinCOVID-19:potentialmechanismsofdisease[J]. Brain,2021, 144(12):3576-3588.   
+[14]Page MJ,MckenzieJE,BossuytPM,etal.ThePRIsMA2020statement:anupdatedguidelineforreporting systematic reviews[J]. Bmj,2021,372:n71.   
+[15]Dhamoon MS,ThalerA,Gururangan K,etal.Acute Cerebrovascular Events With COVID-19 Infection[J].Stroke,2021, 52(1):48-56.   
+[16] QureshiAl,BaskettWI,Huang Wetal.Acute lschemicStrokeandCOVI-19:AnAnalysisof27676Patients[J].troke, 2021, 52(3):905-912.   
+[17]KatzJM,LibmanRB,WangJJ,etal.CerebrovascularComplicationsofCOVD-19[J].Stroke,2020,51(9):e27-e231.   
+[18] Rohit B,MPS,PS,etal.Clinicalfeatures andoutcomeof stroke with COVID-19.COVID-19 Stroke Study Group(CSSG), India[J]. Annals of Indian Academy of Neurology, 2021,24(5).   
+[19]MehrpourM,ShuaibA,FarahaniM,etal.Coronavirusdisease2019 andstroke inIran:acaseseriesand efectsonstroke admissions[J].Int J Stroke,2021, 16(9):1047-1052.   
+[20]PabloN,IsabelRC,CeciliaR,etal.COVID-19and lschemicStroke:ClinicalandNeuroimaging Findings[J].Jouralof neuroimaging : official journal of the American Society of Neuroimaging, 2O20,31(1).   
+[21] RequenaM,Olive-GadeaM,MuchadaM,etal.COVI-19andStroke:ncidenceandEtiologicalDescriptioninaHigh-Volu Center[J].JStroke Cerebrovasc Dis,2020,29(11):105225.   
+[22] MathewT,JohnSK,SarmaG,etal.COVID-19-relatedstrokesareassociatedwithincreasedmortalityandmorbidity:A multicenter comparative study from Bengaluru,South India[J].Int JStroke, 2021,16(4):429-436.   
+[23] Marti-FabregasJ,Guisado-AlonsoD,Delgado-MederosR,etal.ImpactofCOVID-19InfectionontheOutcomeofPatients With Ischemic Stroke[J]. Stroke, 2021, 52(12):3908-3917.   
+[24]FernandoS,EstherAR,PazAG,etal.ncreased IcidenceofIn-HospitalIshemicStroke DuringSR-Co-2utbreak:A Single-Center Study[J]. Neurocritical care,2021, (prepublish).   
+[25] BekelisK,MisiosS,AhmadJ,etal.schemicStrokeOccurs LessFrequentlyinPatientsWithOVD-19:AMulticnteoSectional Study[J]. Stroke,2020,51(12):3570-3576.   
+[26] Lin C,ArevaloYANanavati HD,etal.Racialdierencesandanincreasedsystemiciflammatoryresponseareenin patients with COVID-19 and ischemic stroke[J]. Brain, Behavior,& Immunity - Health,2020,8(prepublish).   
+[27]MerklerAE,Parikh NS,MirS,etal. Riskof Ischemic Stroke inPatients With Coronavirus Disease 2019 (COVID-19)vs Patients With Influenza[J]. JAMA Neurol, 2020.   
+[28] Correction to: SARS2-CoV-2 and Stroke in a New York Healthcare System[J].Stroke,2020,51(8):e179.   
+[29]TopcuogluMA,PektezelMYOgeDD,etal.Stroke MechanisminCOVD-19Ifection:AProspectiveCase-Controtd[]. Stroke Cerebrovasc Dis,2021,30(8):105919.   
+[30]PerryRJ,Smith CJRofeC,etal.CharacteristicsandoutcomesofCOVID-19associated stroke:a UKmulticentrecasecontrol study[J].JNeurol Neurosurg Psychiatry, 2021, 92(3):242-248.   
+[31]JohnS,HussinSlPiecoskioiakBetal.Clinicalcharacteristisaddmissnpatesofstrokepatientsringe COVID 19 pandemic:Asingle centerretrospective,observational study from the Abu Dhabi, United Arab Emirates[J]. Clin Neurol Neurosurg, 2020,199:106227.   
+[32] Wang M,Zhang H,HeY,etal.Association Between lschemic Stroke and COVID-19 in China: APopulation-Based Retrospective Study[J]. Front Med (Lausanne), 2021, 8:792487.   
+[33CiolliLigVndeliGtalIospiaufospitaroeintietsith-9:terents]. Neurol Sci, 2022, 43(4):2203-2210. ChinaXiv合作期刊   
+[34]EricJG,OscarM,MarcosF,etal.Acase-controlanalysisofstrokeinCovid-19patients:ResultsofUnusualManifestatiosof Covid-19-Study11[J].Academic emergencymedicine:official journalof the Societyfor Academic Emergency Medicine, 2021, 28(11).   
+[35]Ahmad MalikJ,Ahmed S,Shinde M,etal.TheimpactofCOVID-19on thecomorbidities:Areviewofrecentupdates for combating it[J]. Saudi J Biol Sci, 2022.   
+[36]MohapatraRKKupiliS,KumarSuvariT,etal.S-Co-2nditsriantsofoncernludingOicro:oksliver ending pandemic[J]. Chem Biol Drug Des, 2022.   
+[37] StammB, Huang D,Royan R,etal.PathomechanismsandTreatment ImplicationsforStroke inCOVID-19:AReviewof the Literature[J]. Life (Basel),2022,12(2).   
+[38] Yang Q,Tong X,Coleman King S,etal.Stroke Hospitalizations Beforeand During COVID-19Pandemic Among Medicare Beneficiaries in the United States[J]. Stroke,2021, 52(11):3586-3601.   
+[39]GalanJMTGY.StrokeasacomplicationandprognosticfactorofCOVID-19[J].Neurologia (EnglishEdition),2020,35(5).   
+[40]HKA,LinaP,RaminZ,etal.TheImpactofSARS-CoV-2onStroke EpidemiologyandCare:AMeta-analysis[J].Aalsof neurology,2020,89(2).   
+[41] DavidGA,AbenzaAMJ,EroAME,etal.NeurologicalpresentationsofCOVID-19:Findingsfromthe Spanishsocietyof neurology neuroCOVID-19 registry[J]. Journal of the Neurological Sciences,2020,(prepublish).   
+[42]HossriS,hadiM,HamarsaZetal.CincalysignificantanticadiolipiantibodiesassociatedithOV-19[J].af Critical Care,2020,59(prepublish).   
+[43]ZhangA,LengYangYetal.Meta-nalysisofoagulationparametersassociatedwithdiseaseseverityandpoorpogosis of COVID-19[J]. Int JInfect Dis,2020,100:441-448.   
+[44]MilenkovicM,HadbegvicA,KovacM,tal.D-dmerCRP,CandI-6LevesatAdmisiontoUCanPedictital Mortalityin Patients with COvID-19 Pneumonia[J]. Oxid Med CellLongev,2022,2022:8997709.   
+[45] Singh VeerA,KrusAetal.trokeinreaetheexpresofCE2,te-Co-2ningecept,inuregs[]. Brain Behav Immun,2021, 94:458-462.   
+[46]Janardhan VJnardhanV,Kalousek VCOVD-19asaBloodClotingDisorderMasqueradingasaRespiratory:A Cerebrovascular PerspectiveandTherapeuticImplications for Stroke Thrombectomy[J].JNeuroimaging,2020,30(5):55- 561.   
+[47] RosasIO,BruN,Waters M,etal.TocilizumabinHospitalizedPatientswithSevereCovid-19Pneumonia[J].NEnglJMed, 2021,384(16):1503-1516.   
+[48] NuthalapatiP,GhantaMK,NateshNS,etal.Asociationof hypercoagulationwith severeacuterespratorysyndrome coronavirus 2 infection[J]. Blood Res, 2021, 56(2):61-64.   
+[49]Al-niF,ChehadeS,Lazo-LangnerA.ThrombosisriskasociatedwithCOVID-19infection.Acopingreview[J].ThrombRes, 2020,192:152-160.   
+[50] SouheilZ,Timothée KRóbertK,etal.AcuteCerebralStrokewithMultiple InfarctionsandCOVD-19,France,22[J]. Emerging infectious diseases,2020,26(9).   
+[51]FlumignanRLG,inocoJD,PascoalPIF,etal.Prophylacticanticoagulantsforpeople hospitalisedwith COV-19[J]. Cochrane Database of Systematic Reviews, 2020, (10).   
+[52]AlexandraKrooshiKadiY,etal.AnticoagulationseandHemorrhagicStrokeinA-CoV2atientseatedatae York Healthcare System[J]. Neurocritical care,2020,34(prepublish).

@@ -1,0 +1,271 @@
+[
+    {
+        "type": "text",
+        "text": "Nucleosynthesis constraint on Lorentz invariance violation in the neutrino sector ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zong-Kuan Guo\\* and Jian-Wei Hut ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "State Key Laboratory of Theoretical Physics，Institute of Theoretical Physics, Chinese Academy of Sciences，P.O.Box 2735，Beijing 100190，China (Dated: August 4,2017) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We investigate the nucleosynthesis constraint on Lorentz invariance violation in the neutrino sector which influences the formation of light elements by altering the energy density of the Universe and weak reaction rates prior to and during the big-bang nucleosynthesis epoch.We derive the weak reaction rates in the Lorentz-violating extension of the standard model. Using measurements of the primordial helium-4 and deuterium abundances,we give a tighter constraint on the deformed parameter than that derived from measurements of the cosmic microwave background anisotropies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:14.60.St,98.80.Es ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Neutrino oscillation experiments have shown that there are small but non-zero mass squared differences between three neutrino mass eigenstates (see Ref. [1] and reference therein).However,neutrino oscillations cannot provide absolute masses for neutrinos. Cosmology provides a promising way to constrain the total mass of neutrinos by the gravitational effect of massive neutrinos on the expansion history near the epoch of matter-radiation equality [2] and on the formation of large-scale structures in the Universe [3] (see also Ref.[4] for a review).Recently, a $3 \\sigma$ detection of non-zero neutrino masses is reported using new measurements of the cosmic microwave background (CMB) anisotropies from the south pole telescope and Wilkinson microwave anisotropy probe (WMAP), in combination with low-redshift measurements of the Hubble constant, baryon acoustic oscillation feature and Sunyaev-Zel'dovich selected galaxy clusters [5]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "These observations establish the existence of physics beyond the standard model of particle physics.Another possible signal of new physics is violation of Lorentz symmetry. The possibilities of Lorentz invariance violation were considered in string theory [6],standard model extension [7],quantum gravity [8], loop gravity [9],noncommutative field theory [1O],and doubly special relativ ity theory [11]. Searches for Lorentz invariant violation with neutrinos have been performed with a wide range of systems [12]. Although present experiments confirm Lorentz invariance to a good precision, it can be broken in the early Universe when energies approach the Planck scale. Cosmological observations provide a possibility to test such a symmetry at high energies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently, measurements of the CMB power spectrum were used to probe Lorentz invariant violation in the neutrino sector [13]. Lorentz invariant violation affects not only the evolution of the cosmological background but also the behavior of the neutrino perturbations.The former alters the heights of the first and second peaks in the ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CMB power spectrum,while the latter modifies the shape of the CMB power spectrum. These two effects can be distinguished from a change in the total mass of neutrinos or in the effective number of neutrinos. The seven-year WMAP data in combination with lower-redshif measurements of the expansion rate were used to put constraints on the Lorentz-violating term. However, the resulting constraints suffer from a strong correlation between the Lorentz-violating term and the dark matter density parameter [13]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this letter,we use current big-bang nucleosynthesis (BBN) data to constrain Lorentz invariance violence in the neutrino sector.There are two effects of Lorentz invariant violation on BBN. The first is a correction to the weak reaction rate in the Lorentz-violating standard model extension，which governs the neutron-to-proton ratio at the onset of BBN.The second is a change in the total energy density of the Universe. Since the abundances of the light elements produced during BBN depend on the competition between the expansion rate of the Universe and the nuclear and weak reaction rates, the BBN predictions depend on the Lorentz-violating term. In particular the BBN-predicted abundance of helium-4 isvery sensitive to the deformation parameter. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We focus on Lorentz invariance violence only in the neutrino sector and consider the following deformed dispersion relation ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ^ { 2 } = m ^ { 2 } + p ^ { 2 } + \\xi p ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $E$ is the neutrino energy, $m$ the neutrino mass, $p = ( p ^ { i } p _ { i } ) ^ { 1 / 2 }$ the magnitude of the 3-momentum，and $\\xi$ the deformation parameter characterizing the size of Lorentz invariance violation.The dispersion relation implies that there are departures from Lorentz invariance in the neutrino sector if $\\xi \\neq 0$ . Such a deformed dispersion relation was constructed in the framework of conventional quantum field theory [14] and derived in the Lorentz-violating extension of the standard model [15]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here we have to point out that the dispersion rela tion for neutrinos given in (1) is not very general. It neglects neutrino oscillations,possible species dependence, anisotropies associated with violations of rotation symmetry,and CPT violation. As shown recently by Kostelecky and Mewes，all of these are possible [12]. The model considered in this paper is one of many possible Lorentz-violating theories. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The number density $n _ { \\nu }$ and energy density $\\rho _ { \\nu }$ for massive neutrinos with (1） are given by [13] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { { n } _ { \\nu } ~ = ~ g _ { \\nu } \\displaystyle \\int \\displaystyle \\frac { d ^ { 3 } { \\bf p } } { ( 2 \\pi ) ^ { 3 } } f _ { \\nu } ( E ) ~ , } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\rho _ { \\nu } ~ = ~ g _ { \\nu } \\displaystyle \\int \\displaystyle \\frac { d ^ { 3 } { \\bf p } } { ( 2 \\pi ) ^ { 3 } } E f _ { \\nu } ( E ) ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $g _ { \\nu } = 2$ is the number of spin degrees of freedom. The phase space distribution for neutrinos is the FermiDirac distribution ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\nu } ( E ) = \\left[ 1 + \\exp ( E / T _ { \\nu } ) \\right] ^ { - 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { \\nu }$ is the neutrino temperature.Thus the number andenergy densitycanbe writenasnv = (1+)-3/2n) and $\\rho _ { \\nu } = ( 1 { + } \\xi ) ^ { - 3 / 2 } \\rho _ { \\nu } ^ { ( 0 ) }$ ,where $n _ { \\nu } ^ { ( 0 ) }$ and $\\rho _ { \\nu } ^ { ( 0 ) }$ are the standard number and energy density, respectively. Increasing $\\xi$ decreases both the number and energy density. The former leads to a reduced rate of the weak reaction prior to and during the BBN epoch since the reaction rate is proportional to the neutrino number density,while the latter results in a reduced expansion rate of the Universe.Therefore,Lorentz invariant violation affects the nucleosynthesis of light elements. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We turn now our attention to the details of the computation of the weak reaction rate with Lorentz invariance violation in the neutrino sector.At early times when the temperature of the Universe was $T \\sim 1 0 0$ MeV, the number and energy density were dominated by relativistic particles: electrons,positrons,neutrinos,antineutrinos and photons. All of the particles were kept in thermal equilibrium by the weak reactions ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\nu _ { e } + n ~  ~ p + e ^ { - } , } } \\\\ { { e ^ { + } + n ~  ~ p + \\bar { \\nu } _ { e } ~ , } } \\\\ { { n ~  ~ p + \\bar { \\nu } _ { e } + e ^ { - } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When the expansion rate of the Universe exceeds the reaction rate for $n  p$ processes,the baryons become uncoupled from the leptons. At the time the neutronto-proton ratio is frozen,which largely determines the primordial helium mass fraction. To estimate the neutron abundance at the onset of BBN one has to compute the reaction rate.As an example, let us consider the process $\\nu _ { e } + n  p + e ^ { - }$ . The differential reaction rate per incident nucleon is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { d \\omega = \\sum _ { \\mathrm { s p i n s } } \\frac { | \\mathcal { M } | ^ { 2 } } { 8 m _ { n } m _ { p } } \\frac { d ^ { 3 } \\mathbf { p } _ { \\nu } } { ( 2 \\pi ) ^ { 3 } 2 E _ { \\nu } } f _ { \\nu } \\frac { d ^ { 3 } \\mathbf { p } _ { e } } { ( 2 \\pi ) ^ { 3 } 2 E _ { e } } ( 1 - f _ { e } ) } } \\\\ & { } & { 2 \\pi \\delta ( E _ { \\nu } + m _ { n } - m _ { p } - E _ { e } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $| { \\mathcal { M } } | ^ { 2 }$ is the squared matrix element,to be summed over initial and final state spins, $m _ { n }$ and $m _ { p }$ the neutron and proton mass, respectively, $\\left( E _ { e } , \\mathbf { p } _ { e } \\right)$ the electron fourmomentum，and $f _ { e }$ denotes the Fermi-Dirac statistical distribution for electron.The process (5） involves the gauge boson $W$ as mediator.At tree level, one has ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } = \\frac { G _ { F } } { \\sqrt { 2 } } \\bar { u } _ { p } \\gamma _ { \\mu } ( C _ { V } - C _ { A } \\gamma _ { 5 } ) u _ { n } \\bar { u } _ { e } ( \\gamma ^ { \\mu } + c ^ { \\mu \\nu } \\gamma _ { \\nu } ) ( 1 - \\gamma _ { 5 } ) u _ { \\nu \\nu }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $G _ { F }$ is the Fermi coupling constant, $c _ { \\mu \\nu }$ are the coeffcients for Lorentz violation,and $C _ { V }$ ， $C _ { A }$ are the vector and axial coupling of the nucleon. Here the coefficients $c _ { \\mu \\nu }$ are defined to be traceless and isotropic.After integrating (8) the reaction rate is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega = \\left[ 1 - \\frac { 3 } { 8 } \\xi - \\frac { 3 \\left( C _ { V } ^ { 2 } - C _ { A } ^ { 2 } \\right) } { 4 \\left( C _ { V } ^ { 2 } + 3 C _ { A } ^ { 2 } \\right) } \\xi \\right] ( 1 + \\xi ) ^ { - \\frac { 3 } { 2 } } \\omega ^ { ( 0 ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { \\omega } ^ { ( 0 ) }$ is the standard reaction rate per incident nucleon derived in [16]. The first factor on the right-hand side of(1O) arises from the neutrino propagator and the $e \\nu W$ coupling in the Lorentz-violating extension of the standard model [7] and the second factor from the statistical distribution for neutrinos (more general Lorentzviolating corrections involving electrons,neutrinos,neutrons and protons were discussed in [17]).At tree level, the differential reaction rates for the other five processes in(5)-(7） can be simply derived from (8)by properly changing the statistical factors and the delta function determined by the energy conservation for each reaction. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e17dc10d54d1bac5ac8355af47daa829d4db7e2a5011fbe161adf7506074fc8b.jpg",
+        "img_caption": [
+            "FIG.1: The $^ { 4 } \\mathrm { H e }$ mass fraction (solid curve) and D/H abundance ratio (dashed curve） from BBN theory as a function of the deformation parameter $\\xi$ for $\\Omega _ { b } h ^ { 2 } = 0 . 0 2 1 3$ (the upper panel) and O.0224 (the lower panel)． The vertical line corresponds to Lorentz invariance. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Therefore, the corrections to the conversion rate of neu tron into proton and its inverse are the same as in (10). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From（1O） we see that increasing $\\xi$ reduces the reaction rate,and thus the weak reactions freeze out at earlier time,corresponding to a higher freeze-out temperature. This leads to a larger neutron-to-baryon ratio at the onset of BBN and thus a larger abundance of primordial $^ { 4 } \\mathrm { H e }$ production.On the other hand, increasing $\\xi$ also reduces the expansion rate of the Universe due to a decrease of the energy density,which means the weak reactions freeze out at later time without corrections to the reaction rate induced by the deformed parameter. This therefore results in a lower helium-4 abundance.These two effects playopposite roles in the BBN prediction for the helium4abundance.The abundances of the other light nuclides weakly depend on $\\xi$ by changing the neutron-to-proton ratio and the expansion rate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Considering these corrections to both the reaction rate and the expansion rate,we now estimate the freezeout temperature, $T _ { f }$ ，determined by equating the expansion rate with weak reaction rate.In the FriedmanRobertson-Walker Universe， the expansion rate obeys $H ^ { 2 } = 8 \\pi G \\rho / 3$ where $\\rho \\propto T ^ { 4 }$ at early times.Thus,we have $H \\propto ( 1 - 0 . 7 5 \\xi ) T ^ { 2 }$ . Since the standard reaction rate in Eq.(10) is roughly given by $\\omega ^ { ( 0 ) } \\propto T ^ { 5 }$ [18],we have $\\omega \\propto ( 1 - 1 . 8 0 \\xi ) T ^ { 5 }$ . Setting $H \\sim 4 \\omega$ since the free-neutron decay process and its inverse are neglected at the BBN epoch,one derives the freeze-out temperature ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { T _ { f } \\sim ( 1 + 0 . 3 5 \\xi ) T _ { f } ^ { ( 0 ) } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { f } ^ { ( 0 ) }$ is the standard one. For a large $\\xi$ , the weak reactions freeze out at a higher temperature. This implies that effects caused by changing the reaction rate dominate over those by changing the expansion rate due to the Lorentz invariance violation in the neutrino sector. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to calculate the abundances of light elements produced during BBN,we modified the publicly available PArthENoPE code [19] to appropriately incorporate the Lorentz-violating term in the neutrino sector.Figure 1 shows the $^ 4$ He mass fraction and D/H abundance as a function of $\\xi$ for $\\Omega _ { b } h ^ { 2 } = 0 . 0 2 1 3$ (the upper panel） and 0.0224 (the lower panel). Both $Y _ { p }$ and D/H increase as $\\xi$ increases since the effect of changing the reaction rate playa leading role.Moreover, the dependence of $Y _ { p }$ on $\\xi$ is much larger,relative to its observational uncertainties,than that ofD/H.Therefore,the primordial helium4 abundance can provide a sensitive probe of neutrino physics with Lorentz invariance violation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Assuming that there are three types of neutrinos with vanishing chemical potentials in the Universe,the BBNpredicted primordial abundances depend on only two parameters: $\\Omega _ { b } h ^ { 2 }$ and $\\xi$ . As shown in Figure 1, the abundance of deuterium is more sensitive to the baryon energy density parameter but less sensitive to the deformation parameter while that of helium-4 is more sensitive to $\\xi$ but less sensitive to $\\Omega _ { b } h ^ { 2 }$ . We use the observed primordial abundances of $^ 4$ He and D in combination to constrain these two parameters based on the likelihood function ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef14c7d158a58917b6937c4f8d37da25b5cfda02a4070f36bb41b3fcb047fde2.jpg",
+        "img_caption": [
+            "FIG.2:Two-dimensional joint marginalized constraints (68% and $9 5 \\%$ confidence level) on the deformation parameter $\\xi$ and physical baryon density $\\Omega _ { b } h ^ { 2 }$ from measurements of $Y _ { p }$ and D/H.The dashed line corresponds to Lorentz invariance. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- 2 \\ln { \\mathcal { L } } = { \\frac { ( Y _ { p } - 0 . 2 5 6 5 ) ^ { 2 } } { 0 . 0 0 6 ^ { 2 } } } + { \\frac { ( \\log [ \\mathrm { { D / H } } ] + 4 . 5 5 ) ^ { 2 } } { 0 . 0 3 ^ { 2 } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here we adopt the estimate of the primordial helium mass fraction, $Y _ { p } = 0 . 2 5 6 5 \\pm 0 . 0 0 6 0$ ,derived in [20] using Monte Carlo methods to solve simultaneously for many possible systematic effects,based on 93 spectra of 86 lowmetallicity extragalactic HII regions. While some have employed a selected subset of these data for more detailed analyses,the sources and magnitudes of systematic errors have rarely been addressed. The measurement uncertainty in $Y _ { p }$ is currently dominated by systematic errors.For the primordial deuterium abundance, we use the value of $\\mathrm { l o g [ D / H ] = - 4 . 5 5 \\pm 0 . 0 3 }$ obtained in [21] from measurements of the absorption lines of seven quasars at high redshifts in low-metallicity hydrogen-rich clouds with low internal velocity dispersions.Besides $^ 4$ Heand $D$ ， $^ 3$ He and $^ 7$ Li are the other two nuclides predicted in measurable quantities by BBN. Since their postBBN evolutions are complicated and their measurements suffer from systematical uncertainties which are difficult to quantify (for helium-3) or are poorly understood (for lithium),the observed $^ { 3 } \\mathrm { H e }$ and $^ \\mathrm { 7 L i }$ do not provide a reliable probe of BBN at present,as discussed in [22]. Thus, we do not include them in our constraints. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The $^ 4$ He abundance is used to provide a constrain on the deformation parameter while the D abundance is used to provide a constrain on the baryon density parameter. Using the combination of the $^ { 4 } \\mathrm { H e }$ and D data,we find $\\xi = 0 . 0 3 6 \\pm 0 . 0 2 3$ and $\\Omega _ { b } h ^ { 2 } \\ : = \\ : 0 . 0 2 1 3 \\pm 0 . 0 0 0 9$ (68% confidence level). This estimated value of the deformation parameter is consistent with Lorentz invariant $\\xi = 0$ within $9 5 \\%$ confidence level. Compared to the results derived from the 7-year WMAP data in combination with lower-redshift measurements of the expansion rate [13], ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BBN gives smaller uncertainties in $\\xi$ by a factor of 4 because there is nearly no correlation between the deformation parameter and the baryon density parameter as shown in Figure 2. The estimate of $\\Omega _ { b } h ^ { 2 }$ is agreement with that from the CMB data [2] with errors. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In summary, we have shown that the BBN puts strong constraint on the deformed parameter in the Lorentzviolating extension of the standard model, $\\xi = 0 . 0 3 6 \\pm$ 0.023.Since the BBN-predicted abundance of helium-4 is very sensitive to the deformed parameter but less sensitive to the baryon energy density parameter,there is nearly no correlation between the two parameters.Our results indicate no significant preference for departure from Lorentz symmetry in the neutrino sector in the early Universe. Compared to previous constraints on the Lorentz-violating coefficient,current BBN observation yieldsa weaker constraint.As listed in Table XIII of [12], the coefficient is constrained down to $1 0 ^ { - 9 }$ from ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] M. C.Gonzalez-Garcia and M. Maltoni, Phys.Rept.460, 1(2008)[arXiv:0704.1800].   \n[2] E.Komatsu,et al.,Astrophys.J.Suppl.192,18 (2011) [arXiv:1001.4538].   \n[3] W.Hu,D.J.Eisenstein and M.Tegmark，Phys.Rev. Lett.80，5255(1998) [arXiv:astr0-ph/9712057]；O.Elgaroy，et al.,Phys.Rev.Lett.89,061301(2002) [astroph/0204152]；A. Ringwald and Y.Y.Y. Wong，JCAP 0412,005(2004) [arXiv:hep-ph/0408241].   \n[4] Y.Y.Y.Wong,Ann.Rev.Nucl. Part. Sci.61,69 (2011) [arXiv:1111.1436].   \n[5] Z.Hou,et al.,arXiv:1212.6267.   \n[6] V.A. Kostelecky and S. Samuel, Phys. Rev.D 39,683 (1989).   \n[7] D.Colladay and V.A. Kostelecky， Phys.Rev.D 58, 116002(1998)[arXiv:hep-ph/9809521]；V. A. Kostelecky and MMewes，Phys.Rev.D 70，031902 (2004）[arXiv:hep-ph/O308300]；V.A.Kosteleckyand M.Mewes,Phys.Rev.D 69,016005(2004) [arXiv:hepph/0309025].   \n[8]G．Amelino-Camelia， New J. Phys.6，188 (2004) [arXiv:gr-qc/0212002].   \n[9]J.Alfaro,H.A.Morales-Tecotl and L.F.Urrutia,Phys. Rev.Lett.84,2318 (2000) [arXiv:gr-qc/9909079].   \n10] S.M.Carroll,et al.,Phys.Rev.Lett.87,141601 (2001) [arXiv:hep-th/O105082]；R.Horvat and J. Trampetic, Phys.Rev.D 79,087701(2009) [arXiv:0901.4253].   \n11]J.Magueijo and L.Smolin,Phys.Rev.Lett.88,190403 (2002)［arXiv:hep-th/0112090].   \n12]V.A.Kostelecky and M.Mewes,Phys.Rev.D 85,096005 (2012)[arXiv:1112.6395]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "time-of-flight measurements. Cohen and Glashow have argued that the observation of neutrinos with energies in excess of1oO TeV anda baseline ofat least 5oO kmallows us to deduce that the Lorentz-violating parameter is less than about $1 0 ^ { - 1 1 }$ [23]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We thank J.Hamann，V.A.Kostelecky，O.Pisanti and F.Wang for useful discussions. Our numerical analysis was performed on the Lenovo DeepComp 70o0 supercomputer in SCCAS.This work is partially supported by the project of Knowledge Innovation Program of Chinese Academy of Science，NSFC under Grant No.11175225, and National Basic Research Program of China under Grant No.2010CB832805. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[13] Z.K.Guo,Q.G. Huang,R.G.Cai and Y. Z. Zhang, Phys.Rev.D 86,065004 (2012) [arXiv:1206.5588].   \n[14] S. Coleman and S.L.Glashow,Phys.Rev.D 59,116008 (1999)[arXiv:hep-ph/9812418].   \n[15]V.A. Kostelecky and R. Lehnert，Phys. Rev.D 63，065008(2001）[hep-th/0012060]；D.Colladay and V.A.Kostelecky,Phys.Lett.B 511，209（2001） [hepph/0104300].   \n[16]R.E.Lopez and M.S.Turner,Phys.Rev.D 59,103502 (1999) [arXiv:astro-ph/9807279]；S.Esposito，et al., Nucl.Phys.B 540,3(1999) [arXiv:astro-ph/9808196]; S.Esposito， et al.，Nucl.Phys.B 568，421 (2000) [arXiv:astro-ph/9906232]；P.D.Serpico，et al.，JCAP 0412,010 (2004) [arXiv:astro-ph/0408076].   \n[17]G.Lambiase， Phys.Rev.D 72，087702 (2005) [arXiv:astro-ph/0510386].   \n[18]J.Bernstein,L.S.Brown and G.Feinberg，Rev.Mod. Phys.61,25 (1989).   \n[19] O.Pisanti，et al.，Comput.Phys. Commun.178,956 (2008)[arXiv:0705.0290].   \n[20] Y.I.Izotov and T.X.Thuan,Astrophys.J.710,L67 (2010)[arXiv:1001.4440].   \n[21] M.Pettini， et al.，MNRAS 391， 1499 (2008) [arXiv:0805.0594].   \n[22] G. Steigman,Ann. Rev. Nucl. Part. Sci. 57,463 (2007) [arXiv:0712.1100]；G.Steigman,Adv.High Energy Phys. 2012,268321(2012)[arXiv:1208.0032].   \n[23]A.G.Cohen and S.L.Glashow,Phys.Rev.Lett.107, 181803(2011)[arXiv:1109.6562]. ",
+        "page_idx": 3
+    }
+]

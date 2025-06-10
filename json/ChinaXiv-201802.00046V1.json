@@ -1,0 +1,534 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201611212363 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "江源通,田野,郑拴宁.海岛型城市生态安全格局研究——以平潭岛为例.生态学报,2018,38（3):769-777.  \nJiangYic777.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "海岛型城市生态安全格局研究以平潭岛为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "江源通}²，田野，郑拴宁1，\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院城市环境研究所城市环境与健康重点实验室，厦门361021  \n2中国科学院大学，北京100049  \n3中国科学院遥感与数字地球研究所遥感科学国家重点实验室，北京100094",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在快速城市化带来的城市生态安全严重威胁着城市可持续发展的这一时代背景下,构建城市生态安全格局是实现区域和城市生态安全的基本保障和重要途径。结合平潭综合实验区总体规划,从城市生态安全角度出发,在对平潭岛生态环境本底条件的调研基础上,选取与平潭岛的城市生态安全关系密切的6个关键生态因子进行深入分析，并通过层次分析法和GIS 空间叠置法综合多要素分析了平潭岛的生态敏感性,最终有针对性地提出了面向新一轮大规模城市开发热潮的平潭岛城市生态安全格局。研究成果可为平潭岛的城市开发建设提供决策支持,对维护平潭岛城市生态安全、促进平潭岛可持续发展具有重要的理论和现实意义,同时也对其它海岛型城市的生态安全格局研究具有一定的借鉴意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：平潭综合实验区;城市生态安全格局;海岛;城市化;大风环境",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A study on urban ecosecurity pattern of island city: a case study of Pingtan Island ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIANG Yuantong1,²， TIAN Ye³， ZHENG Shuanningt",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 KeyLaboratoryofUrbanEironmentand Health，IstuteofUrbanEniroment，ChneseAcademyofSciences，Xiamen361ina   \n2 University of Chinese Academy of Sciences，Beijing 100049，China   \n3StateKeybesinieesindialrt，edc， ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The world is undergoing thelargest waveof urban growth inhistory.More than half of the world'spopulation now lives in townsand cities，and the proportion of the global population inurban areas has increased conspicuouslyfrom $30 \\%$ （20 in 1950 to $54 \\%$ in 2014. Urbanization is projected to increase even further to $60 \\%$ in 2030.Though the process of urbanization provides comfortableand convenientliving conditions for human beings，it also makesourcountryface aseries of serious urban ecological security isses(（such as environmentalpolutionand diminishingresources）because of the highintensityof humanactivitiesandunreasonable landuse.Nowadays，urban ecological securitybrought by therapid urbanization isposing aseriousthreat to urban sustainable development.Against this background，constructing theurban ecological security pattern is thebasic guaranteeand important way torealizeregional andurban ecological security.Based onthe eco-environmental background conditionsof Pingtan Island，thisstudyfirstinvestigatedthe perspectiveof urban ecological securityandconsideredtheoverallplanof Pingtan Comprehensive Pilot Zone tobeter understand six key ecological sensitive factors that werecloselyrelatedtotheurbanecological securityofPingtan Island.These six key ecological sensitive factorswere drinking waterresources，coastal shelterbelt，scenicspotsand forestparks，natural mountain，cultivated land,and coastline resources.Thereafter，acomprehensive evaluation model was established bythe analytical hierarchy process（AHP）and geographicalinformation system（GIS）spatialoverlaymethod tocomprehensively evaluatetheecological sensitivityofPingtanIsland.Thespecificanalysis processwasasfollows：First，anevaluation index systemof Pingtan Island'secological sensitivityby means of data colection，field investigation，remotesensing image interpretationand analysis，and expertreviews was established.These indices were classified according totheirsensitivity. Second，the judgment matrix wasconstructedandconsistency checks were performed inaccordance with the AHP method, thenthe weight of each index was calculated according to the square root method.Finall，considering that scenic spots covered with natural mountain foresthavethe highest ecological sensitivity，andthatother areas maynotbeecologically sensitiveor may beinsensitive，thePingtan Island was divided into fivegrades（extremesensitivity，high sensitivity moderatesensitivity,lowsensitivity，and insensitive grades）according totheirrespective ecological sensitivity indices.We propose an ecological securitypatern for Pingtan Island inorder to adapt to the new roundof large-scale urban development boom，and thispatern ismainlycomposed of ecologicalsecurity barrierring，ecological watersystem，ecological conservation area，ecological coastal zone，urban construction area，and theecological promotion area.These components playdiferentrolesinmaintaining ecological safetyonPingtanIsland,andthey mustbeationalldevelopedandutilizedon the basis of their respective functions.Generaly,theresults ofthis study would help to provide decisionsupport forurban planning，andcould beof great theoreticalandpractical significance tomaintainPingtan Island'secological securityand promote the sustainable development of Pingtan Island.Moreover，these results may also be useful for ecosecurity patten research on other island cities. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:Pingtan Comprehensive Pilot Zone；urban ecosecuritypatern;island；urbanization；strong wind environment ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "世界范围的生态环境问题越来越突出,严重威胁着人类社会的可持续发展,保障生态安全已经成为迫切的社会需求,同时被提升到了国家战略和政治的高度[-2]。当今,城市化发展迅速,2014 年世界城市人口比重已由1950年的 $3 0 \\%$ 增加到 $54 \\%$ [3],预计2030 年全球城市化率将达到 $6 0 \\%$ ,其中我国拥有最高的城市化率和最大的人口总量[45]。城市化进程在为人类提供丰富的物质和舒适便利的生活条件的同时也由于高强度的人类活动和不合理土地利用方式使我国面临严重的城市生态安全问题,主要表现为环境污染、资源供给短缺、自然灾害等带来的威胁[67]。在这一时代背景下,构建城市生态安全格局被认为是实现区域和城市生态安全的基本保障和重要途径[8-9],不同学者在生态安全格局的理论基础、构建方法、研究范围和尺度等方面进行了相关研究[10-13],其中快速城市化地区的生态安全格局构建成为了生态学、地理学和城市规划学等领域共同关注的热点[2.14-15]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "平潭综合实验区主岛—平潭岛(以下简称平潭岛)作为大陆距离台湾最近的一个海岛型城市,是首个全面探索两岸交流合作新模式的综合实验区,鉴于其特殊的地理区位,福建省于 2009 年在此设立平潭综合实验区,由此兴起了新一轮大规模城市建设热潮[16-17]。但同时,平潭岛在快速城市化过程中也面临着日益凸显的生态安全问题,如物种单一性,大风天气,淡水资源匮乏,土壤盐碱化、风沙侵蚀等[18]。如何协调经济发展和生态环境保护的关系以应对当前的城市生态安全挑战已成为平潭岛紧迫而现实的问题,因此非常有必要对该区域的生态安全格局进行探讨,以揭示生态安全保障下的城市发展方向,并为城市规划提供决策支持,对实现城市的可持续发展具有重要的理论和现实意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区域概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "平潭岛位于福建省东部海域(图1),东临台湾海峡,西隔海坛海峡,地貌类型以海积平原为主,多花岗岩陵地,海岸蜿蜒曲折,是福建省第一大岛、全国第五大岛[16,19-20]。该区属南亚热带海洋性季风气候,年均温$1 9 . 5 \\mathrm { ^ { \\circ } C }$ ,年降雨量 $1 1 9 6 . 2 \\mathrm { m m }$ ,年7级以上台风125d,7—9月常受台风影响[19,21]。该区自 2009 年被确立为综合实验区以来,城市开发热潮方兴未艾。与此同时,平潭岛作为海岛型城市的典型区域,兼具海岛生态的共性和特性,其生态脆弱性在这一大规模城市化过程中也日渐严峻,主要表现在淡水资源匮乏、防护林带受损、风沙侵蚀、土壤盐碱化等。目前,该区正处于快速城市化的关键性阶段,而多年的实践表明海岛开发对生态环境的损失程度和速度是惊人的,如不加强海岛生态的保护,很容易导致难以估量的损失[22]。因此,为了尽可能把城市建设给平潭岛生态环境带来的胁迫程度降到最低，避免城市未来因生态环境问题突出而发展受限，本文对平潭岛的生态安全格局进行探讨与构建,以期实现该区的可持续发展。 2",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法与步骤",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1平潭岛生态敏感性要素分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "平潭岛是我国首个全面探索两岸交流合作新模式的综合实验区，是两岸同胞的共有家园，其开发建设需以生态文明为前提，坚持经济发展和资源环境保护的协调可持续发展,进而打造成一个宜居宜业的生态岛城。本研究在考虑平潭岛开发建设的整体生态功能时，结合平潭综合实验区总体规划方案（2011—2030），充分尊重平潭岛现有生态及地貌，重点考虑各种自然保护区的要求以及对维护城市生态安全起重要作用的生态环境关键要素。最终，通过文献分析、专家咨询及实地调研，选取了饮用水水源地、沿海防护林带、风景名胜区及森林公园、自然山体、耕地、海岸线资源这6个与平潭岛的城市生态安全关系密切的生态因子进行深入分析和研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)饮用水水源地",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "城市饮用水源地是城市居民生命线的关键支撑系统对其周边的环境保护和人类活动强度有更高的要求。平潭作为一个海岛型城市，淡水资源匮乏，三十六脚湖作为平潭唯一的一座中型水库,是平潭最重要的一个水源地，也是目前城市用水的主要来源，此外，六桥水库、玉井水库和三桥水库分别是敖东镇 澳前镇和苏澳镇重要的饮用水水源地。因此,对这4个主要饮用水源地保护是平潭开发建设中需重点关注的生态因子,本文根据《饮用水水源保护区划分技术规范》和平潭综合实验区总体规划方案将这些水源地划分为一级保护区和二级保护区（表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/58de1ae5655c40194b506db6938936af50d1d9e0fe3ce8012c6a067c061b8a4d.jpg",
+        "img_caption": [
+            "图1平潭岛地理位置Fig.1Location of Pingtan Island"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0112c86af6c6313ef086d3e66906945ba3b1596a1ae5def9054a950662e72a65.jpg",
+        "table_caption": [
+            "表1平潭岛水源地保护区划分标准",
+            "Table 1The classification standard for Water source reserve in Pingtan Islan( "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称 Name</td><td>一级保护区范围 Scope of primary reserve</td><td>二级保护区范围 Scope of secondary reserve</td></tr><tr><td>三十六脚湖 Thirty-six feet lake</td><td>湖区沿岸16m 高程以下陆域一级取水口半 径100m 内陆域</td><td>一级保护区范围外整个汇水陆域</td></tr><tr><td>六桥水库 Liuqiao reservoir</td><td>库区及沿岸外50m缓冲区</td><td>一级保护区范围外整个汇水陆域</td></tr><tr><td>玉井水库 Yujing reservoir</td><td>库区及沿岸外延至海拔25m等高线范围</td><td>一级保护区范围外整个汇水陆域</td></tr><tr><td>三桥水库Sanqiao reservoir</td><td>库区及沿岸外100m缓冲区</td><td>一级保护区范围外整个汇水陆域</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)沿海防护林带 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "平潭由于其地理区位,大风环境不可避免,受冷高压(冬半年)和副热带高压(夏半年)两大天气系统影响,平潭综合实验区主导风向轴比较明显,夏季为 SSW（西南偏南向,south-southwest）,其余季节为NNE（东北偏北向,north-northeast)[23]。另外,由于平潭岛境内地势南北较高,多为起伏的丘陵与低山,中部较低,为海积平原,该地势特点基本与平潭综合实验区主岛的主导风向一致,主岛风环境进一步恶化,形成了长江澳风口、流西风口、流东风口、燕下埔风口和远中埔风口这五大非常明显的风口,对平潭生态安全威胁较大,因此,必须加强防护林建设和保护,重点保护长江澳、流水半岛、燕下埔和远中洋地区等的防风固沙林基干林带,禁止在基干林带内进行开发建设以及破坏防护林的活动,其中长江澳风口地带设置大于 $3 0 0 0 \\mathrm { { m } }$ 防风林带;流东、流西风口地带设置大于 $3 0 0 \\mathrm { m }$ 防风林带;燕下浦风口地带设置大于 $5 0 0 \\mathrm { m }$ 防风林带;远中洋风口地带设置大于$2 0 0 \\mathrm { m }$ 防风林带。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)风景名胜区及森林公园",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "植被是影响生态敏感性最重要的生态因子之一,风景名胜区及森林公园内含有丰富的植被资源,对维系城市生态安全具有十分重要的作用,尤其是森林公园作为为数不多的生态富足区,具有生态、旅游等多重价值,生态屏障功能不言而喻,一旦遭到破坏,将直接威胁自身及周边地区的环境、景观、经济、文化、健康等生态安全。因此,按照相关法律法规,在实施严格保护的基础上进行合理开发利用,禁止在保护区内开展与资源保护无关的建设活动,禁止从事破坏森林景观和非法侵占林地的活动。本文根据平潭规划局提供的资料提取了风景名胜区及森林公园作为敏感性研究范围。 0.（",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4)自然山体",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "平潭岛上包括青峰山、龙头山、君山、王爷山、南寨山、将军山、牛寨山等自然山体林地,作为一种重要生态斑块,具有蓄水保土、涵养水源、净化空气、保护生物多样性等多项生态功能,有利于维护海岛生态安全,因此必须最大化的保留和加强自然山体林地,严禁毁林毁山的粗放式城市开发与建设。根据平潭的地貌类型特点及有关技术要求,高程大于 $5 0 \\mathrm { m }$ 、坡度大于 $2 5 ^ { \\circ }$ 的用地主要为平潭的自然山地,适宜作为生态林地使用,不适宜开发建设。因此,本文利用 $3 0 \\mathrm { m }$ DEM数据对平潭综合实验区进行高程和坡度分析而后提取了自然山体的范围。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5)耕地",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "耕地作为国家严令保护的土地资源,是一种丧失后不易恢复的土质肥沃的农业基础资源和重要生态资源。平潭大开发时代的到来势必会对耕地产生影响,因此需合理规划建设用地,加强对现有耕地的保护,以发挥耕地的生产、生态、景观和隔离的综合功能。本文在相关资料的辅助下对平潭地区2015 年空间分辨率 $1 . 5 \\mathrm { m }$ 的 SPOT6遥感影像进行解译与分析，最终提取出了耕地范围。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(6)海岸线资源",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "海岸线具有独特的地理、形态和动态特征,是指示海陆分界的地理要素[24]。在我国,3万 $\\mathrm { k m }$ 多的海岸线存在不同程度的海岸侵蚀问题,如平潭地区的流水海岸主要受自然侵蚀作用以1一 ${ \\cdot } 5 \\mathrm { m / a }$ 的速度后退[25]。另外,受人类活动的干扰,海岸线剧烈变化,对生态、环境及经济社会的影响巨大[26]。因此,加强海岸线资源的合理规划、利用和保护，并通过设置退缩线控制海岸线近缘区域保护范围,有利于防止或减轻海岸线的侵蚀和破坏、保护海岸生态功能和景观、保障海岸带生态安全。本文根据平潭综合实验区的海岸线利用规划（港口工业、城市生活、旅游休闲、预留发展及自然生态等岸线类型)并以 $2 0 0 \\mathrm { m }$ 退缩线为界提取了平潭海岸线资源保护范围。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2平潭岛生态敏感性综合评价方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文通过层次分析法和GIS 的空间叠加分析法建立综合评价模型对平潭生态敏感性进行综合评价,模型具体计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E S I } = \\sum _ { i = 1 } ^ { 6 } \\ W _ { i } \\ F _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中,ESI为生态敏感性综合指数， $\\textstyle \\mathbf { \\textit { W } } _ { i }$ 为 $i$ 因子的生态敏感性权重值, $F _ { i }$ 为 $i$ 因子的生态敏感性等级值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1综合评价指标体系建立",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过政府资料收集、现场调研、遥感影像解译与分析、专家评议等方法,深入分析各生态敏感因子建立了平潭岛生态敏感性评价指标体系（表2）,并对各指标进行等级划分（表3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/84930af38e0893af2302d3d12be7b8bcf4c9015ff229f94d82861433943dd07d.jpg",
+        "table_caption": [
+            "Table 2The evaluation index system of Pingtan Island's ecological sensitivity "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目标层A</td><td>准则层B</td><td></td></tr><tr><td>Level of goal (A)</td><td>Levelofcriteria（B)</td><td></td></tr><tr><td>平潭岛生态敏感性评价A</td><td>饮用水水源地 B1</td><td></td></tr><tr><td rowspan=\"3\">Ecological sensitive evaluation of Pingtan Island（A)</td><td>沿海防护林带B2</td><td></td></tr><tr><td>风景名胜区及森林公园B3</td><td></td></tr><tr><td>自然山体B4</td><td></td></tr><tr><td></td><td>耕地B5 海岸线资源B6</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f03d236c7adfd66edf32f28fa1c25bed80a7aef7c13dd553f11da650b6445903.jpg",
+        "table_caption": [
+            "表3平潭岛生态敏感性评价指标等级划分",
+            "Table 3The classification of Pingtan Island's ecological sensitive evaluation indexe! "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生态敏感因子i Ecological sensitive factors i</td><td>高敏感 Extreme sensitivity</td><td>较高敏感 High sensitivity</td><td>中敏感 Moderate sensitivity</td><td>较低敏感 Low sensitivity Insensitivity</td></tr><tr><td>饮用水水源地</td><td>一级保护区</td><td>二级保护区</td><td></td><td>其他</td></tr><tr><td>Drinking water resource 沿海防护林带</td><td>防风固沙基干林带</td><td></td><td></td><td>其他</td></tr><tr><td>Coastal shelterbelt 风景名胜区及森林公园</td><td>风景名胜核心区、</td><td>省级森林公园、</td><td></td><td></td></tr><tr><td>Scenic spots and forest parks</td><td>国家级森林公园</td><td>风景名胜区</td><td></td><td>其他</td></tr><tr><td>自然山体 Natural mountain</td><td>自然山体林地</td><td></td><td></td><td>其他</td></tr><tr><td>耕地 Cultivated land</td><td>耕地</td><td></td><td></td><td>其他</td></tr><tr><td>海岸线资源 Coastline resources</td><td>自然生态岸线</td><td>旅游休闲岸线</td><td></td><td>其他</td></tr><tr><td>赋值F:Assignment Fi</td><td>9</td><td>7</td><td>3</td><td>0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 指标权重确定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于平潭岛生态安全受多种因素影响,而各个因素的作用和贡献不同,因此就要求对评价指标的权重进行计算。 D",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先,在所构建的层次结构基础上,根据AHP 中1—9标度法（如表4)对每一层的因素分别进行两两比较进而构建判断矩阵(表5)。（",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4AHP 法的标度法则",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/29b6f4e2fb0ec1c6491fe00fe146e80b848bcf198dc1b7750920f9604698acd4.jpg",
+        "table_caption": [
+            "表2平潭岛生态敏感性评价指标体系",
+            "Table 4The scale rule of AHP method "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>标度Scale</td><td>含义Meaning</td></tr><tr><td></td><td>两个因子进行比较，具有同等重要性</td></tr><tr><td>3</td><td>两个因子进行比较，一个因子比另一个因子稍微重要</td></tr><tr><td>5</td><td>两个因子进行比较，一个因子比另一个因子明显重要</td></tr><tr><td></td><td>两个因子进行比较，一个因子比另一个因子强烈重要</td></tr><tr><td></td><td>两个因子进行比较,一个因子比另一个因子极端重要</td></tr><tr><td>2、4、6.8</td><td>上述两个相邻判断因子的中间值</td></tr><tr><td>倒数 Reciprocal</td><td>因子i与j比较的判断aij,则因子j与i比较的判断aj =1/aij</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "接着,进行层次单排序及一致性检验。层次单排序的过程是指首先计算评判矩阵的最大特征根 $\\lambda _ { \\operatorname* { m a x } }$ ,然后将与 $\\lambda _ { \\operatorname* { m a x } }$ 相对应的特征向量进行归一化处理,得到的W值即为同一层因素对于上一层某因素的权重值。本文采用方根法计算指标的权重(表6）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3综合评价结果等级划分",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在进行生态敏感性分级时,考虑覆盖有自然山体林地的自然风景区保证最高生态敏感性,不具有所选取的生态敏感因子的地区为低敏感区。因此，设定高敏感区阈值为2.61，设定低敏感区阈值为0.36,其他3个",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "区等距划分。具体分级如表7所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5A一B的评判矩阵",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/90c64d38552179865f801c36b9b6bc4b71e2acbcef0f1241645fbc718763c814.jpg",
+        "table_caption": [
+            "Table 5The judgment matrix of A一B "
+        ],
+        "table_footnote": [
+            "注：A：目标层,Levelof goal；B:准则层,Levelofcieria；B1;饮用水水源地,Drinking waterresource；B2：沿海防护林带,Coastalshelterbelt; B3:风景名胜区及森林公园,Scenic spotsand forest parks；B4：自然山体,Natural mountain；B5：耕地,Cultivated land；B6:海岸线资源， Coastline resources D\\~0 "
+        ],
+        "table_body": "<html><body><table><tr><td>A-B</td><td>B1</td><td>B2</td><td>B3</td><td>B4</td><td>B5</td><td>B6</td></tr><tr><td>B1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>5</td><td>4</td></tr><tr><td>B2</td><td>1/2</td><td>1</td><td>2</td><td>3</td><td>5</td><td>4</td></tr><tr><td>B3</td><td>1/2</td><td>1/2</td><td>1</td><td>2</td><td>4</td><td>3</td></tr><tr><td>B4</td><td>1/3</td><td>1/3</td><td>1/2</td><td>1</td><td>3</td><td>2</td></tr><tr><td>B5</td><td>1/5</td><td>1/5</td><td>1/4</td><td>1/3</td><td>1</td><td>1/3</td></tr><tr><td>B6</td><td>1/4</td><td>1/4</td><td>1/3</td><td>1/2</td><td>3</td><td>1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9abbb66854e53b514e9ab140d756cda7f4baa10ce98893658e2afce934e186e4.jpg",
+        "table_caption": [
+            "Table6The weight of evaluation indexes "
+        ],
+        "table_footnote": [
+            "$\\lambda _ { \\mathrm { m a x } } = 6 . 1 9 2 2$ ， $C I = 0 . 0 3 8 4$ ， $R I = 1 . 2 4$ ， $C R = 0 . 0 3 1 0 { < } 0 . 1$ ，具有满意的一致性"
+        ],
+        "table_body": "<html><body><table><tr><td>指标 Index</td><td>权重Weight</td><td>指标 Index</td><td>权重Weight</td><td>指标Index 2</td><td>权重Weight</td></tr><tr><td>B1</td><td>0.33</td><td>B3</td><td>0.18</td><td>B5</td><td>0.04</td></tr><tr><td>B2</td><td>0.26</td><td>B4</td><td>0.11</td><td>B6</td><td>0.08</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c67b66cc4d3ec9d9c543584ac8c3813e17b196b1cc7fc04b67a92cde55cd0a8c.jpg",
+        "table_caption": [
+            "表7平潭岛生态敏感性分区",
+            "Table 7Ecological sensitivity zoning of Pingtan Island "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生态敏感性分区 Ecological sensitivity zoning</td><td>生态敏感性综合指数 ESI Ecological sensitivity</td><td>生态敏感性分区 Ecological sensitivity zoning</td><td>生态敏感性综合指数 ESI Ecological sensitivity</td></tr><tr><td>高敏感区 Extreme sensitivity area</td><td>index (ESI) ESI≥2.61</td><td>较低敏感区 Low sensitivity area</td><td>index (ESI) 0.45≤ESI<1.11</td></tr><tr><td>较高敏感区 High sensitivity area</td><td>1.86≤ESI<2.61</td><td>低敏感区 Insensitivity area</td><td>ESI<0.36</td></tr><tr><td>中敏感区 Moderate sensitivity area</td><td>1.11≤ESI<1.86</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1平潭岛生态敏感性特点分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文结合平潭综合实验区总体规划方案（2011—2030）,并充分尊重平潭岛现有生态及地貌,选取了与平潭岛城市生态安全密切相关的生态因子对平潭岛生态敏感性进行综合分析,得出了平潭岛开展城市建设的综合生态敏感性分区图（图2)及各分区面积比（表8）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd5a1ec873fd81b341cd58a5c662df5e48d39471c90631b4391917a7b6f7b4eb.jpg",
+        "table_caption": [
+            "表6评价指标的权重",
+            "表8不同敏感分区的面积分析",
+            "Table 8The areal analysis of different sensitive partition "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生态敏感性分区 Ecological sensitivity zoning</td><td>面积 Area/km²</td><td>比例 Proportion/%</td><td>生态敏感性分区 Ecological sensitivity zoning</td><td>面积 Area/km²</td><td>比例 Proportion/%</td></tr><tr><td>低敏感区 Insensitivity area</td><td>120.91</td><td>42.63</td><td>较高敏感区 High sensitivity area</td><td>19.47</td><td>6.86</td></tr><tr><td>较低敏感区 Low sensitivity area</td><td>82.30</td><td>29.01</td><td>高敏感区 Extreme sensitivity area</td><td>26.84</td><td>9.46</td></tr><tr><td>中敏感区 Moderate sensitivity area</td><td>34.13</td><td>12.03</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从以上可以看出:(1)平潭岛的高生态敏感区主要包括城市的饮用水水源地保护区、国家森林公园、长江澳风口林带、远中洋风口林带、龙风头海滨岸线资源及君山风景区山体林地等,面积为 $2 6 . 8 4 \\mathrm { k m } ^ { 2 }$ ，所占比例为$9 . 4 6 \\%$ 。这些高敏感区作为维系平潭岛城市生态安全的重要组成部分,在平潭岛大开发建设过程中应优先作为重点保护对象。(2)平潭岛的较高敏感区主要分布在流水半岛防风地带、燕下埔防风地带、坛南湾海滨岸线资源以及重要风景名胜区(如王爷山景区、君山景区、将军山景区、石牌洋景区等)的核心保护区或滨海地带,面积为 $1 9 . 4 7 \\mathrm { k m } ^ { 2 }$ ,所占比例为 $6 . 8 6 \\%$ 。这些较高敏感区作为维系平潭岛城市生态安全的重要补充,无论是在维护主岛风安全亦或是涵养水源、净化空气等具有重要的生态功能,在城市开发建设中也要加以保护从而促进整个生态系统服务的提升。（3)平潭岛的中敏感区主要位于风景名胜保护区、滨海度假区、自然生态岸线资源以及龙头山、垄底山、青峰山、牛寨山等自然山体,面积为 $3 4 . 1 3 \\mathrm { k m } ^ { 2 }$ ,所占比例为 $1 2 . 0 3 \\%$ 。(4)平潭岛的较低敏感区主要分布着大量的农业用地,面积为 $8 2 . 3 0 \\mathrm { k m } ^ { 2 }$ ,所占比例为 $2 9 . 0 1 \\%$ ,它作为一种丧失后不易恢复的土质肥沃的重要农业基础资源,是人类获取食物的重要基地,在城市开发建设过程中必须遵循国家关于严格保护耕地的国策,依照平潭实验区的发展规划,注意对优质农田的保护。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2平潭岛生态安全格局分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据所选取的生态因子对平潭岛生态敏感性进行综合分析的结果,结合平潭实验区的总体发展规划，从城市生态安全的角度,构建了快速城市化进程驱动下的平潭岛城市生态安全格局(图3)。这一格局主要由生态安全屏障环、生态水系统、生态保育区、生态海岸带、城市建设区、生态提升区组成。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/60751bf4bebba1669e883ef51ec0db28ae280760be8cf68306c76951ebbb4f66.jpg",
+        "img_caption": [
+            "图2平潭岛生态敏感性等级分布",
+            "Fig.2Distributions of ecological sensitivity area in Pingtan Island "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7cf87adbda2a76e0e93279bb59211a17f9a2d367602c0d641a057854d359a9d.jpg",
+        "img_caption": [
+            "图3平潭岛城市生态安全格局规划",
+            "Fig.3The urban ecosecurity pattern plan of Pingtan Island "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)生态安全屏障环 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为减弱平潭岛常年东北强风的影响,结合平潭综合实验区总体规划,将城市发展建设重心往西（海坛海峡)拓展,最大化的保留和加强主岛东部沿海的自然山体林地和防风基干林带,在大范围内形成北、东、南保护的生态安全屏障环。首先,重点加强主岛东海岸的五大风口地区的防风林带建设和保护,继续推进沙荒地风口造林、沿海基干林带加宽与断带补齐;其次，加强现有的十八村森林公园、海岛森林公园等防风林和青峰山、龙头山、君山、将军山等自然山体林地的保护,从而与五大风口地区的防风林组合形成山林相接、林山互融的山林防风体系,并制定明确的红线管控范围,从而维护海岛生态安全,保持生物多样性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2)生态水系统",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "加强三十六脚湖、三桥水库、玉井水库等集中式饮用水水源地的保护,进一步保障居民的饮水安全。在水源保护区范围内加强外围保护地带绿化,严格禁止改、扩、建与供水设施和保护水源无关的建设活动,严格控制区域内的污染物排放。在此基础上,充分保留现有的河道,并利用现有的地面库、鱼塘等形成不同的调蓄湖面,各调蓄湖间通过人工河道联接,进而形成集蓄、滞、排为一体的海岛生态水网体系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3)生态保育区 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "平潭岛周围分布的大面积的自然山体林地及自然风景区对整个城市的生态系统服务具有极大的促进作用,因此必须严格执行有关政策、法规,保护君山-虎头山-羊来山、龙头山-垄底山-青峰山、王爷山、将军山、牛寨山、南寨山-西楼山、牛鼻山-少雄山等山体绿地,建设生态林地和林地保护区。对一些重要山体的保护应严格控制山体周边一定范围内的建筑高度,保护观山节点与山体之间的视线廊道。按“显山露水”,加大山体植被覆盖率,强化其蓄水保土、涵养水源、净化空气、保护生物多样性等生态功能,进一步改善城市环境质量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4)生态海岸带 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "海岸带是陆地和海洋的交接地带,具有重要的生态效益和经济效益。由于海水的侵蚀和人类活动的影响,我国的海岸带生态系统退化严重。平潭岛作为一个海岛型城市,海岸带的资源环境问题也不容忽视。因此,依据平潭实验区的海岸线规划,重点保护山岐澳-金井作业区海岸线、牛寨山海岸线、龙凤头沙滩-澳前海岸线、石牌洋-君山北部岸线、将军山海岸线、海坛湾岸段、坛南湾岸段、将军山-山岐澳岸段等海岸带资源，从而促使海岸带生态系统的结构、功能达到一个较高的水平。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(5)城市建设区",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在绿色生态屏障环的遮挡保护下,以分布在海岛中西部的海砂冲积平原、海滩地为载体,结合平潭实验区“组团开发、弹性发展”的原则,构筑面向海坛海峡敞开的城市组团结构,引领城市建设和产业发展,促进生态型滨海城市的建设。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(6)生态提升区 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "该区主要分布着大量的农业用地,它作为国家严令保护的土地资源,是一种丧失后不易恢复的土质肥沃的农业基础资源和重要生态资源。平潭大开发时代的到来势必会对耕地产生影响,因此需合理规划建设用地,加强对现有耕地的保护,以发挥耕地的生产、生态、景观和隔离的综合功能。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "平潭岛作为一个极具生态敏感性的海岛型城市,山、海、田、林、城等5种基质构成了平潭岛的生态空间背景,如何实现各基质间的动态平衡和协调,维护城市的生态安全,是平潭岛大开发时代背景下所面临的一个严峻挑战。本文结合平潭综合实验区总体规划方案（2011—2030）,充分尊重平潭岛现有生态及地貌,重点考虑各种自然保护区的要求以及对维护城市生态安全起重要作用的生态环境关键要素,开展了平潭岛的生态敏感性综合分析,并构建了与之相适应的城市生态安全格局,旨在维持平潭岛的生态安全和景观多样性,促进平潭岛的可持续发展。其研究成果可为平潭岛的开发建设提供决策支持,对促进平潭岛城市的可持续发展具有一定的理论和现实意义。此外,由于数据的不足,本文对平潭岛生态敏感性要素的分析尚不充分,如缺少对社会人文要素的考虑。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］肖笃宁，陈文波，郭福良.论生态安全的基本概念和研究内容.应用生态学报，2002，13（3）：354-358.[2］方淑波，肖笃宁，安树青.基于土地利用分析的兰州市城市区域生态安全格局研究.应用生态学报，2005，16(12）：2284-2290.[3]UnitedNatios,eparentofcodSocialis,oplatiDiisioWldUrbazatiorospetse4eviseoUnited Nations,2015.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4]Moonnfreye,orerVlocenB，CmelietJUrbansics：Efectofeicroliateocofort,ealhdeeedFrontiers of Architectural Research,2012,1(3)：197-228.  \n[5]YaoRM,LuoQ，LuoZW,JiangL，YangY.AnintegratedstudyofurbanmicroclimatesinCongqing，China；Historicalweathedata,transverse measurement and numerical simulation. Sustainable Cities and Society，2015,14：187-199.  \n[6]EsraySToardseingsocietyologicalaitatio-losingthelotofdscuritWaterSeceandTholog4（4)177-187.  \n[7] 施晓清，赵景柱，欧阳志云.城市生态安全及其动态评价方法.生态学报，2005，25(12）：3237-3243.  \n[8] 陈星，周成虎.生态安全：国内外研究综述.地理科学进展，2005，24(6)：8-20.  \n[9] 崔胜辉，洪华生，黄云凤，薛雄志.生态安全研究进展.生态学报，2005，25(4)：861-868.  \n[10] 黎晓亚，马克明，傅伯杰，牛树奎.区域生态安全格局：设计原则与方法.生态学报，2004,24（5）：1055-1062.  \n[11] 马克明，傅伯杰，黎晓亚，关文彬.区域生态安全格局：概念与理论基础.生态学报，2004，24(4)：761-768.  \n[12] 陈利顶，吕一河，田惠颖，施茜.重大工程建设中生态安全格局构建基本原则和方法.应用生态学报，2007，18（3)：674-680.  \n[13] 郭明，肖笃宁，李新.黑河流域酒泉绿洲景观生态安全格局分析.生态学报，2006，26(2)：457-466.  \n[14] 俞孔坚，王思思,李迪华，李春波.北京市生态安全格局及城市增长预景.生态学报，2009,29(3)：1189-1204.  \n[15] 李月辉，胡志斌，高琼，肖笃宁，胡远满，穆阳，关竹心，张小云.沈阳市城市空间扩展的生态安全格局.生态学杂志，2007，26(6)：875-881.  \n[16] 陈鹏，吴剑，傅世锋.平潭海坛岛景观格局动态变化及其生态效应分析.生态科学，2013，32（3)：265-270.  \n[17] 温小乐，林征峰，唐菲.新兴海岛型城市建设引发的生态变化的遥感分析——以福建平潭综合实验区为例.应用生态学报，2015，26(2): 541-547.  \n18]ZengSdseiieistaieofgateaalSustainable Development & World Ecology，2016：1-10.  \n[19］吴剑，陈鹏，文超祥，傅世锋，陈庆辉.基于探索性空间数据分析的海坛岛土地利用生态风险评价.应用生态学报，2014，25（7)：2056-2062.  \n[20]ZhengogXFseJealetftrestaleInternational Journal of Sustainable Development & World Ecology，2013,20(3）: 254-260.  \n[21］金星星，叶士琳，吴小影，王怡，程煜.海岛型城市人居环境质量评价——基于厦门市和平潭综合实验区的对比.生态学报,2016，36(12):3678-3686.  \n[22] 冷悦山，孙书贤，王宗灵，张朝晖，周明.海岛生态环境的脆弱性分析与调控对策.海岸工程，2008，27(2）：58-64.  \n[23] 廖廓，蔡晓禾，王超，吴幸毓.福建省平潭大风分析.海洋预报，2012，29(2)：64-67.  \n24]Mujabar,adasearoreliaeaalisothastetwnKayakuardticoiofdagotesigdG.Arabian Journal of Geosciences，2013,6(3)： 647-664.  \n[25］盛静芬，朱大奎.海岸侵蚀和海岸线管理的初步研究.海洋通报，2002，21(4)：50-57.  \n[26]毋亭，侯西勇.海岸线变化研究综述.生态学报，2016,36(4)：1170-1182.",
+        "page_idx": 8
+    }
+]

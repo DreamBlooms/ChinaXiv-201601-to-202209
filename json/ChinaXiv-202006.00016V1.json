@@ -1,0 +1,523 @@
+[
+    {
+        "type": "text",
+        "text": "生态建设背景下陕西省植被覆盖时空变化及其影响因素研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "钱琛，陈海滨，侯现慧（西北农林科技大学经济管理学院，陕西杨凌712100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了逆转近年来生态退化趋势，中国实施了一系列国家级生态建设项目，植被恢复是其核心目标。基于MODIS NDVI数据产品、气象站点观测数据及统计年鉴等资料，分析了2002—2016年陕西省植被覆盖时空变化，并采用面板数据固定效应模型进行了归因研究。结果表明：(1)实施退耕还林及天然林保护工程以后，陕西省植被覆盖状况总体呈改善趋势，但存在明显的时间波动与空间差异。(2)生态建设项目对陕西省植被恢复产生了显著正向影响，且存在时滞效应;造林率增加1个百分点,3a后各县NDVI值将平均增加 $0 . 0 1 2 3 \\left( p < 0 . 0 1 \\right)$ ，等同于年降水量增加 $5 6 ~ \\mathrm { m m }$ 的作用。(3)降水、气温的提高对陕西省植被恢复产生了显著正向影响，而人口与经济增长则产生了显著负向影响。因此，陕西省应继续加大生态建设项目投资力度，并加强监督与监测评价；积极推行生态移民政策，缓解人类活动带来的生态压力;调整经济结构、转变经济增长方式，摒弃消耗资源牺牲环境的粗放型发展模式。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态建设；植被覆盖；NDVI；固定效应模型；陕西省文章编号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "20 世纪末以来，为了逆转生态退化趋势，中国实施了一系列国家级生态建设项目[1-2],其中规模最大、涉及面最广的是天然林资源保护工程和退耕还林还草工程（以下简称天保工程和退耕还林工程)。植被恢复是生态建设的核心目标[3-4]。植被是陆地生态系统的重要组成部分，其作为物质循环和能量流动的中枢，在水土保持、气候调节、沙漠化防治、降水径流调控等方面发挥着重要作用，是全球环境和气候变化的敏感指示器[5-6]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "已有研究关于生态建设项目的植被恢复效果存在争议。通过对卫星遥感影像进行反复、长期和大规模的测量，有多项研究证明了我国实施生态建设项目以来显著的植被恢复效果[7-9]。虽然大多数学者认为生态建设项目对植被恢复产生了积极影响，但也有研究指出，这些项目的实施在更大尺度的生态系统上产生了负面影响。如谷振宾等[10]指出造林整地使一些荒山的原生植被遭到破坏，加大了造林成本,延缓了成林速度;张晓烨等[11-12]也认为大面积的人工造林可能正在加剧半干旱生态脆弱区域水资源短缺的风险，导致人工林地植被覆盖度和植物种类减少，对其植被恢复产生着显著的负面影响。因此，生态建设项目的有效性仍然有待检验，尤其是在省级以上的区域尺度上。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在研究方法上，以往关于生态建设项目效果评价的研究大多采用局地尺度的野外实验或农户调研方法[13-15],难以发现项目的大尺度影响,或者由于空间异质性难以将其研究结论推到区域尺度上。虽然有些研究使用了大规模的遥感数据，但未控制其他干扰因素的影响[16-17]。通过对已有文献的梳理发现人类活动以及气候变化是影响植被恢复的重要因素,尤其是在我国的西北地区[18-19]。忽略这些因素的影响很难对生态建设项目的实施效果进行有效评价。此外，已有研究通常忽视植被管理单元的空间依赖性以及项目实施影响的时间滞后性。在计量经济学中，面板数据模型通常有助于解释管理单元之间的异质性，同时控制不可观测的动态效应，其固定效应模型和随机效应模型均隐含着植被管理单元空间独立性的假设[20]。如 SHAO等[21]在其研究中使用固定效应模型来分析内蒙古的生态保护项目以及其他自然和人为因素对草原植被恢复的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "陕西省横跨长江和黄河两大流域中部，不仅是天保工程和退耕还林工程的试点和重点实施区域，更是植被恢复最为显著的省级行政单位[2]。因此,为了检验生态建设项目的植被恢复效果，同时厘清项目及其他驱动因素的贡献，本文以陕西省为例，基于 MODIS NDVI数据产品、气象观测站点数据及陕西省社会经济、林业统计年鉴等资料，分析了2002一2016年陕西省植被覆盖的时空变化，并采用面板数据固定效应模型对生态建设项目、降水、气温、人口及经济增长等驱动因素对植被恢复的影响进行了实证研究。基于实证数据与计量经济方法，本研究期望加强对政府生态政策有效性及植被恢复重建机制的理解，为陕西省乃至中国其他区域植被资源的恢复、保护与科学管理提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "陕西省位于中国西部地区（ $1 0 5 ^ { \\circ } 2 9 ^ { \\prime }$ \\~$1 1 1 ^ { \\circ } 1 ^ { \\circ } 5 ^ { \\prime } \\mathrm { E } , 3 1 ^ { \\circ } 4 2 ^ { \\prime } \\sim 3 9 ^ { \\circ } 3 5 ^ { \\prime } \\mathrm { N } )$ ,地势南北高，中部低，平均海拔 $1 \\ 1 2 7 \\ \\mathrm { m }$ ,整体属大陆季风性气候。年均降水量 $5 7 6 . 9 \\ \\mathrm { m m }$ ,年均气温 $1 3 . 0 \\mathrm { ~ \\textdegree C }$ ,无霜期 $2 1 8 \\mathrm { ~ d ~ }$ 左右。截至2017年末，全省常住人口 $3 . 8 4 \\times 1 0 ^ { 7 }$ 人，生产总值 $2 . 1 9 \\times 1 0 ^ { 1 2 }$ 元，人均生产总值 $5 . 7 3 \\times 1 0 ^ { 4 }$ 元。陕西省按自然条件和社会经济特征可分为陕北黄土高原、关中渭河盆地和陕南秦巴山区三大区域（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20 世纪末，由于全球气候变化和人类活动加剧，陕西省植被退化严重，自然灾害频发，农业生产和社会经济发展受到了严重影响。因此，陕西省成为中国多个生态建设项目的重点实施区域。天保工程于1998 年在陕西省、四川省等12个省（区)国有林区展开试点;2000年在长江上游、黄河中上游和东北、内蒙古等重点国有林区正式启动;2000一2010年为第一期，2011—2020 年为第二期。退耕还林工程于1999年在陕西省、四川省和甘肃省展开试点，在第一轮实施期间(2002—2010 年)扩展到25个省份，实施区域面积占中国总领土面积的 $8 2 \\%$ ，主要集中在长江和黄河中上游[23-24],2014 年启动了新一轮退耕还林工程。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5fa23f782dafd77e774b259959711ad0c618f1edd6a98811ca4b3a91264e697.jpg",
+        "img_caption": [
+            "图1研究区域Fig.1Study area"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1归一化植被指数的计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用的NDVI数据来源于美国国家航空航天局（National Aeronautics and Space Administration,NASA)提供的MODISMOD13Q1数据产品，时间分辨率为16d,空间分辨率为 $2 5 0 ~ \\mathrm { ~ m ~ }$ ，时间跨度为2002—2016年。本文选取了每年植被生长最旺盛的7\\~9月的影像，共计90景。首先利用MODL-AND 提供的 MRT（Modis Reprojection Tool）工具进行影像拼接、重投影和格式转换，接着在ENVI5.3中采用最大值合成法（MaximumValue Composite,MVC)得到每年NDVI最大值的影像，并应用BandMath工具将每个象元的NDVI值转化为0\\~1之间。然后基于陕西省矢量边界进行裁剪，最后在ArcGIS10.2中进行分区统计，计算各县范围内所有象元NDVI的平均值作为其该年的NDVI值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 面板数据模型的构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以陕西省97个县级行政区（对部分区进行了合并)2002—2016年的各项指标构成面板数据。模型的被解释变量采用NDVI值。考虑到新造林对植被覆盖无法产生立即的影响，同时由于数据的限制,本文分析了造林面积占土地面积的比率（以下简称造林率)1a、3a和5a的滞后影响。项文化[25]指出，作为支持重大生态工程实施的杉木连年生长量在第5a出现最大值;李军等[26]的研究也表明,作为黄土高原主要的水土保持造林树种，刺槐林地连年净生产力模拟值在5～8a时达到最大值，然后趋于下降。因此5a的滞后期对于我们的研究是足够的。此外，降水量及其波动、气温是影响植被覆盖的主要自然因素，人口增长、经济活动是影响植被覆盖的主要社会经济因素。所有上述因素均作为模型的解释变量。由于研究时间较短，大气 $\\mathrm { C O } _ { 2 }$ 浓度和氮沉降等不作为模型中的自变量。模型设置如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { N D V { I _ { i t } } = \\alpha _ { i } + \\beta _ { 1 } p r e c _ { i t } + \\beta _ { 2 } s t d p _ { i t } + \\beta _ { 3 } t e m p _ { i t } + } \\\\ { \\beta _ { 4 } p o p _ { i t } + \\beta _ { 5 } g d p _ { i t } + \\beta _ { 6 } A R _ { i t - 1 } + } \\\\ { \\beta _ { 7 } A R _ { i t - 3 } + \\beta _ { 8 } A R _ { i t - 5 } + \\mu _ { i t } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $i$ 表示97个县级行政区中的特定一个； $\\mathbf { \\chi } _ { t } ^ { }$ 表示",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2002—2016 年中的一个特定年份; $\\alpha _ { i }$ 是县 $i$ 的固定效应，表示县 $i$ 影响NDVI值的不随时间变化的未观测因素； $A R _ { i t - 1 }$ 、 $A R _ { i t - 3 }$ 和 $A R _ { i t - 5 }$ 表示主要生态建设项目的滞后影响，分别是县 $\\mathbf { \\chi } _ { i }$ 在 $\\mathbf { \\chi } _ { t }$ 年的造林率 $^ \\textrm { \\scriptsize 1 a , 3 }$ a $\\cdot ^ { 5 }$ a的滞后项; $\\mu _ { i t }$ 是特异性误差，表示影响 $\\mathbf { \\nabla } N D { \\cal { W } } _ { i t }$ 的随时间变化的未观测因素； ${ \\bf \\nabla } \\cdot \\beta _ { 1 } \\sim \\beta _ { \\mathrm { 8 } }$ 表示每个解释变量的对应系数。其余所有变量的定义及其基本统计见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "气象数据来源于中国气象数据网（http：//data.cma. $\\mathrm { c n / }$ )提供的气温和降水月值 $0 . 5 ^ { \\circ } \\times 0 . 5 ^ { \\circ }$ 格点数据集产品。采用克里金插值法进行插值并分区统计得到各县的降水量和气温数据，对于个别缺测数据用其余年该月的均值代替。人口、国内生产总值、土地面积数据来源于陕西省统计年鉴。各县造林面积数据来源于中国林业统计年鉴",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MRT和ENVI5.3用于处理MODISMOD13Q1数据产品，ArcGIS10.2用于空间插值、分区统计与制图，STATA12.0用于估计模型参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4085278a14e518d29e00eeb07b8fe8192a03945b29eda8a81ac98bc7ffc1c8ea.jpg",
+        "table_caption": [
+            "表1固定效应模型变量定义与基本统计",
+            "Tab.1 Variable definitions and summary statistics in the fixed-effects model "
+        ],
+        "table_footnote": [
+            "注：i表示97个县级行政区中的特定一个;t表示2002—2016年中的一个特定年份"
+        ],
+        "table_body": "<html><body><table><tr><td>变量</td><td>定义</td><td>单位</td><td>均值</td><td>标准差</td><td>期望符号</td></tr><tr><td>NDVIit</td><td>县i在t年的NDVI值</td><td>1</td><td>0.68</td><td>0.15</td><td></td></tr><tr><td>precit</td><td>县i在t年的总降水量</td><td>mm</td><td>739.58</td><td>250.80</td><td>+</td></tr><tr><td>stdpit</td><td>县i在t年各月降水量的标准差</td><td>mm</td><td>60.81</td><td>22.96</td><td>1</td></tr><tr><td>tempit</td><td>县i在t年的平均气温</td><td>℃</td><td>10.89</td><td>1.17</td><td>+</td></tr><tr><td>popit</td><td>县i在t年的人口总数除以其土地面积</td><td>10²人·km-2</td><td>3.05</td><td>5.02</td><td>一</td></tr><tr><td>gdpi</td><td>县i在t年的经CPI调整(以2002年为基准)的国 内生产总值除以其土地面积后取对数</td><td>10元·km−2</td><td>7.55</td><td>1.41</td><td>1</td></tr><tr><td>ARi</td><td>县i在t年的造林面积除以其土地面积</td><td>%</td><td>2.14</td><td>1.68</td><td>+</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 陕西省植被覆盖时间变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2002—2016年间，陕西省NDVI值整体呈上升趋势，植被覆盖状况有所改善，但也存在明显的时间波动。在主要生态建设项目第一期全面实施阶段（2002—2010 年），陕西省NDVI值显著上升；之后到研究期末年（2011—2016年），NDVI值则趋于下降（图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2陕西省植被覆盖时空变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3反映了2002年、2010年和2016年陕西省的NDVI分布情况。陕西省植被覆盖表现为陕南地区 $>$ 关中地区 $>$ 陕北地区，具有自南向北递减的特点。2002年， $N D W$ 值在 $0 . 0 0 \\sim 0 . 2 0 \\ L , 0 . 2 0 \\sim 0 . 4 0$ $0 . 4 0 \\sim 0 . 6 0 \\ 、 0 . 6 0 \\sim 1 . 0 0$ 范围内的区域面积占全省面积的比重分别为1. $3 3 \\%$ 、11. $28 \\%$ 、23. $8 3 \\%$ ！$6 3 . 5 6 \\%$ ;2010 年,4个值分别为 $0 . 2 7 \\%$ ） $6 . 3 8 \\%$ 、$2 2 . 2 3 \\% . 7 1 . 1 2 \\%$ ,相对于2002年植被覆盖总体呈现改善趋势;2016年，4个值分别为 $1 . 9 2 \\%$ 、$2 0 . 3 3 \\% . 2 7 . 5 9 \\% . 5 0 . 1 6 \\%$ ，相对于2010年植被覆盖总体呈现退化趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/610ee556097b7c45d889b1895d584d4be5e1cb9ca9dd675ca1fc54748732845b.jpg",
+        "img_caption": [
+            "图22002—2016年陕西省 NDVI值变化趋势Fig.2Temporal trend of the NDVI in Shaanxi Provincefrom 2002 to 2016"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步研究植被覆盖变化的时空特征，绘制了3个不同时期陕西省NDVI差值图，如图4所示。2002—2016 年，陕西省 $5 4 . 9 5 \\%$ 的区域植被呈现不同程度的改善，植被覆盖状况总体好转；但$4 5 . 0 5 \\%$ 的区域植被都有所退化，其中中度退化区域（占 $3 9 . 8 5 \\%$ ,NDVI差值位于 $- 0 . 2 0 \\sim 0 . 0 0$ 之间)在陕西省内广泛分布，严重退化区域（占 $5 . 2 0 \\%$ ,NDVI差值位于 $- 0 . 9 5 \\sim - 0 . 2 0$ 之间)主要集中于关中地区，同时在榆林市、汉中市也有零散分布（图4a）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2002—2010年，陕西省植被覆盖显著改善，$9 5 . 8 5 \\%$ 的区域植被指数均呈现增加趋势；其中，中度改善区域（占 $7 8 . 7 4 \\%$ ,NDVI差值位于 $0 . 0 0 \\sim$ 0.20之间)在陕西省内广泛分布，显著改善区域（占$1 7 . 1 1 \\%$ ， $N D W$ 差值位于 $0 . 2 0 \\sim 0 . 9 8$ 之间)主要集中在陕北和关中地区，同时在安康市、汉中市也有零散分布；此外， $4 . 1 5 \\%$ 的区域植被有所退化，主要零散分布在关中和陕南地区（图4b）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ebb226972f5b5c639299664786c5f29a3d9baaea3a41a0704f33433fa0723d8.jpg",
+        "img_caption": [
+            "Fig.3Vegetation coverage indicated by NDVI in different years across Shaanxi Province "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cef8e40ebb778a372e2c978b14f4fbfff6081d907c368e173bc2d4c215c8f0d6.jpg",
+        "img_caption": [
+            "图3不同年份陕西省植被覆盖(NDVI)情况",
+            "图4不同时期陕西省NDVI差值",
+            "Fig.4NDVI differences of Shaanxi Province in different periods "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2010—2016年，陕西省 $9 5 . 1 5 \\%$ 的区域植被均呈退化趋势;其中，中度退化区域（占 $7 8 . 5 5 \\%$ ,NDVI差值位于 $- 0 . 2 0 \\sim 0 . 0 0$ 之间)在陕西省内广泛分布,严重退化区域（占 $1 6 . 6 0 \\%$ ,NDVI差值位于$- 0 . 9 8 \\sim - 0 . 2 0$ 之间)主要分布在榆林市、汉中市和关中地区；全省仅有 $4 . 8 5 \\%$ 的区域植被呈改善趋势,零散分布在榆林市和陕南地区（图4c）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "尽管研究期内陕西省植被覆盖总体改善，但我们仍不能将其归因于主要生态建设项目的实施，仍有可能是其他自然或社会经济因素所导致的，需要通过回归模型来定量评价各因素的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3陕西省植被覆盖变化的驱动因素分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先通过多重共线性检验发现各解释变量之间不存在严重的共线性问题。接着进行Hausman检验，其结果拒绝原假设( $\\phantom { + } ( p < 0 . 0 5 )$ ，因此采用固定效应模型进行回归分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2总结了固定效应模型的参数估计值及显著性水平。模型中固定效应的参数估计显著( $\\dot { } \\cdot p <$ 0.01），证明固定效应的假设是有效的。此外，其参数估计值显著高于其他变量，说明陕西省各县不随时间变化的未观测因素对其植被覆盖可能存在重要影响，如地形地貌等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "降水量和气温显著正向影响各县的NDVI值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2固定效应模型结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/43c4d716cce9f74fa6533c44567f0b025762825bad384b70d3385fbaa77bd553.jpg",
+        "table_caption": [
+            "Tab.2 Resultsoffixedeffectmodel "
+        ],
+        "table_footnote": [
+            "注：t表示2002—2016 年中的一个特定年份； $*$ 表示 $p < 0 . 1 0$ ， $* *$ 表示 $\\textstyle p < 0 . 0 5$ ， $\\twoheadrightarrow$ 表示 $p < 0 . 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>被解释变量：NDVI</td><td></td></tr><tr><td>解释变量</td><td>参数估计</td></tr><tr><td>prect</td><td>0.000 2 ***</td></tr><tr><td>stdp,</td><td>-0.000 7***</td></tr><tr><td>tem</td><td>0.0439 ***</td></tr><tr><td>popt gdp</td><td>-0.0331***</td></tr><tr><td>ARt-1</td><td>-0.0315***</td></tr><tr><td>AR-3</td><td>-0.0086** 0.0123 ***</td></tr><tr><td>AR,-5</td><td></td></tr><tr><td></td><td>0.000 4</td></tr><tr><td>constant</td><td>0.4311***</td></tr><tr><td>校正后的R</td><td>0.277 0</td></tr><tr><td>F统计量</td><td>32.65</td></tr><tr><td>样本数</td><td>970</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在控制其他因素影响的前提下，某县某年总降水量每增加 $1 0 0 ~ \\mathrm { { m m } }$ ,预计将使该县NDVI值增加0.0200（ $_ { . p < 0 . 0 1 ) }$ ;某县某年的平均气温每增加 $1 \\ \\mathrm { { ^ { \\circ } C } }$ ,预计将使该县NDVI值增加O.0439（ $p < 0 . 0 1 \\$ 。考虑到陕西省年均降水量 $5 7 6 . 9 \\ \\mathrm { m m }$ ,在研究期内NDVI均值0.6649，因而年降水量增加 $1 0 0 \\ \\mathrm { m m }$ 对NDVI值的实际提高作用并没有预期的大。原因可能为：一是在模型中，降水量波动对各县的NDVI值产生了显著负向影响 $\\left( p < 0 . 0 1 \\right)$ ，表明降水的集中分布对植被生长产生了显著的抑制作用，所以即使提高$1 0 0 ~ \\mathrm { { m m } }$ 的降水量也很难产生很大的植被改善作用;二是NDVI值相对于植被生物量的变化不是线性的，即初始值不同时，同样的NDVI增量代表的实际植被改善效果并不一样。整体上，植被覆盖度与气候因子之间存在显著的相关性，说明气候变化是引起陕西省植被覆盖增加的重要影响因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同时，人口密度和经济活动强度也是影响各县NDVI值的关键因素。在控制其他因素影响的前提下，某县某年人口密度每增加1个单位，预计将使该县NDVI值降低0.0331（ $p < 0 . 0 1 \\$ )；某县某年经济活动强度每增加1个单位，预计将使该县NDVI值降低 $0 . 0 3 1 5 ( p < 0 . 0 1 )$ 。随着人口的增加和社会经济的发展，建筑物、道路和基础设施大量修建，以砍伐、开垦、旅游开发等方式破坏植被的行为层出不穷，使植被覆盖度不断降低。考虑到陕西省在研究期内人口增长 $1 . 5 1 \\times 1 0 ^ { 6 }$ 、国内生产总值增长超过8倍，因此人口膨胀和经济发展是植被退化不可忽视的驱动力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "生态建设项目通过坡耕地退耕还林、宜林荒山荒地造林、调减木材采伐、加强森林管护等措施，旨在增加植被覆盖面积，提升植被覆盖质量，改善生态状况。根据计量模型结果，在控制其他因素影响的前提下，某县某年造林率每增加 $1 \\%$ ,预计1a后可使该县NDVI值减少 $0 . 0 0 8 \\ 6 ( p < 0 . 0 5 )$ 。这可能是由于新造林处于幼苗期,无法对NDVI值产生立即的正向影响;另一方面退耕开荒等造林措施减少了部分土地原有的植被覆盖，因而整体上对NDVI值产生了一定的负向影响。造林率滞后3a的系数为正且显著 ${ \\left( p < 0 . 0 1 \\right) }$ 。在控制其他因素影响的前提下，某县某年造林率每增加 $1 \\%$ ,预计3a后可使该县NDVI值增加0.0123，说明主要生态建设项目对陕西省植被覆盖的积极影响在造林3a后开始显现。而造林率滞后5a的影响虽为正却不再显著，系数值也降低，这可能是因为此时新造林已趋于成熟，无法再对NDVI值产生显著的贡献作用。总体上，主要生态建设项目显著影响陕西省的植被覆盖程度,但二者之间存在一个时间差，其积极影响在造林3a后开始显现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1生态建设项目对陕西省植被覆盖的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "陕西省2002—2016年植被覆盖动态变化的时空分析表明，研究期内其植被覆盖整体改善，且在主要生态建设项目第一期全面实施阶段NDVI值显著增加。固定效应模型结果进一步证实了时空分析的结果：对比造林率滞后1a的负向影响和滞后5a的不显著影响，在控制其他因素影响的前提下，某县某年造林率每增加 $1 \\%$ ,预计3a后可使该县NDVI值增加0.0123，等同于年降水量增加 $5 6 ~ \\mathrm { m m }$ 的效果,说明主要生态建设项目显著影响陕西省的植被覆盖，且其积极影响在造林3a后开始显现。此结论与已有研究的结论基本一致[27-29]。本研究进一步贡献于这一领域，在更大的尺度上量化了生态建设项目实施对植被改善的影响。同时根据计量模型结果,在生态建设项目的实施与植被恢复效应的产生之间存在一个时间差，总体而言，参与主要生态建设项目3a后，观测单元的植被覆盖状况得以改善。因此,在进行项目的绩效评估时，主管当局不应对前两年出现显著的植被恢复抱过高期望，而应遵循植物群落演替的规律。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总体上，时空分析与固定效应模型分析结果均表明，主要生态建设项目的实施对植被覆盖存在显著正向影响。值得注意的是，生态建设项目虽然通过提供现金和粮食补贴，希望将农户劳动力从坡耕地转移到附近的非农或城镇地区就业[30],然而有研究表明和非退耕区相比，陕西省退耕区农村的收入水平和农户满意度普遍更低[31],因而强化造林工作可能会给农户带来预料之外的反向激励作用。农户不顾当地政府的指示,继续在退耕的农田上种植作物或更有商业价值的树木[32],抑制甚至破坏了生态建设的成果，这也是导致部分区域植被退化的重要原因。因此为了巩固已有的生态建设成果，陕西省应加大新造林的管护力度，严格兑现退耕还林、公益林政策补助，同时加强林地征占用的监督工作，对植被覆盖进行实时监测评价，促进生态环境建设和可",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "持续发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2自然和社会经济因素对陕西省植被覆盖的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了生态建设项目的影响，陕西省植被覆盖同样受到自然与社会经济因素的影响。降水量和气温的增加均对植被恢复产生了显著的正向影响，降水的集中分布则对植被恢复产生了显著的负向影响。李军媛等[33]在研究了气候变化对陕西省植被的影响后发现，气温和降水量的增加为植被生长提供了有利条件，促进了植被的生长。本研究结论与已有研究结论基本一致，同时验证了降水量波动对陕西省植被生长的抑制作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "已有研究普遍认为，人口膨胀和经济发展是导致植被退化的重要因素，本研究结果也证实了这一结论。根据计量模型结果，人口密度和经济活动强度显著负向影响陕西省植被覆盖。同时植被覆盖时空变化的分析结果也表明，陕西省虽然在研究期内植被覆盖状况总体改善，但在整个研究区域内植被也出现了不同程度的退化，其中退化严重的区域主要分布在人口密集和经济发达的关中地区，这也进一步验证了上述结果。根据统计年鉴,在研究期内，陕西省总人口数从 $3 . 6 7 \\times 1 0 ^ { 7 }$ 人增长到 $3 . 8 1 \\times 1 0 ^ { 7 }$ 人，实际GDP（以2002年CPI为基准）从 $2 . 2 5 \\times 1 0 ^ { 1 1 }$ 元增长到 $1 . 3 2 \\times 1 0 ^ { 1 2 }$ 元，预计分别使NDVI值减少0.0345和0.1852。考虑到未来很长一段时期内人口增长和经济发展趋势将很难放缓，为了巩固项目的成果，陕西省有必要继续加大生态移民政策的实施力度，缓解人类活动带来的生态压力；同时摒弃消耗资源牺牲环境的粗放型发展模式，调整经济结构、加快转变经济增长方式，提高经济增长的质量和效益。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文基于MODISNDVI数据产品、气象站点观测数据及统计年鉴等资料，分析了2002—2016年陕西省植被覆盖的时空变化，并采用面板数据固定效应模型进行了归因研究。得出结论如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)研究期内，陕西省植被覆盖状况总体改善，生态建设项目对植被恢复产生了显著正向影响。今后应扩大生态建设项目实施范围，加大新造林的管护力度，巩固现有的生态建设成果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)气候条件是影响植被恢复的重要因素，人□与经济增长可以部分或完全抵消生态建设项目与气候条件改善对植被恢复的积极影响。因此，为了巩固项目成果，陕西省有必要推行生态移民政策的实施和创新，缓解人类活动带来的生态压力，同时摒弃消耗资源牺牲环境的粗放型发展模式，调整经济结构，加快转变经济增长方式，提高经济增长的质量和效益。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)不随时间变化的未观测因素如土地利用历史、地形地貌等对植被覆盖存在着重要影响，因此，政府在设计与实施生态建设项目时应遵循生态系统演替的基本特征和规律，因地制宜。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2002年正式开始实施的退耕还林及天然林保护工程的短期效应在本研究中得到了检验，但由于数据的限制，其长期的生态效应还需要进一步监测与探讨。此外，我们的研究也忽略了项目实施区域对非项目实施区域的空间溢出效应。未来可结合面板数据模型与空间计量方法,对生态建设项目实施的效应作出更精确的评价，以更有效地设计与实施相关政策，从而实现可持续的资源利用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］马永欢,周立华,樊胜岳,等.中国土地沙漠化的逆转与生态治 理政策的战略转变[J].中国软科学，2006，（6)：53-59.［MA Yonghuan,ZHOU Lihua,FAN Shengyue,et al.Reversion of land desertification in China and the strategic shift of ecological control policies[J].China Soft Science,2006,(6）:53-59.] [2] 高吉喜,杨兆平.生态功能恢复：中国生态恢复的目标与方向 [J].生态与农村环境学报,2015,31（1)：1-6.［GAOJixi， YANG Zhaoping.Restoration of ecological functions:Goal and orientation of ecological restoration in China[J].Journal of Ecology and Rural Environment,2015,31（1):1-6.] [3] 秦保芳.植被恢复是西部生态建设的核心一—访水土保持专 家张信宝教授［J].科学新闻,2000,（36）:13.［QIN Baofang. Vegetation restoration is the core of ecological construction in western China:An interview with professor Zhang Xinbao,an expert on soil and water conservation[J].Science News,20oO,(36） :13.] [4] 屈彩峰.黄土高原以适地适树为基础的植被恢复研究[J].科 技经济导刊,2015,（6）:165-172.[QU Caifeng.Study on vegetation restoration in the Loess Plateau based on suitable ground and suitable trees[J].Technology and Economic Guide,2O15,（6）：   \n165 -172.] [5]LEPRIEUR C,VERSTRAETE M M,PINTY B.Evaluation of the performance of various vegetation indices to retrieve vegetation cover from AVHRR data[J].Remote Sensing Reviews,1994,10（4）:   \n265-284. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6]孙红雨,王长耀,牛铮,等.中国地表植被覆盖变化及其与气候 因子关系——基于NOAA时间序列数据分析［J].遥感学报， 1998,2（3）:204-210.[SUN Hongyu,WANG Changyao,NIU Zheng,et al.Analysis of the vegetation cover change and the relationship between NDVI and environmental factors by using NOAA time series data[J]. Journal of Remote Sensing,1998,2(3）:204 -210.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7］刘宇，傅伯杰.黄土高原植被覆盖度变化的地形分异及土地利用/覆被变化的影响[J].干旱区地理，2013，36(6)：1097-1102.［LIUYu,FU Bojie.Topographical variation of vegetationcover evolution and the impact of land use/cover change in the Lo-essPlateau[J]．Arid Land Geography,2013,36（6）：1097-1102.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8］李旺君,吕昌河.生态建设对陕北植被变化的影响分析[J].干 旱区地理,2014,37(2）:318-324.［LIWangjun,LV Changhe. Effects of ecological building on the vegetation change in northern Shaanxi Province[J].Arid Land Geography,2014,37(2）:318- 324.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9]刘旻霞,赵瑞东,邵鹏,等.近15a黄土高原植被覆盖时空变化 及驱动力分析[J].干旱区地理，2018，41（1）：99-108.［LIU Minxia,ZHAO Ruidong,SHAO Peng,et al.Temporal and spatial variation of vegetation coverage and its driving forces in the Loess Plateau from 2001 to 2015[J].Arid Land Geography,2018,41 （1):99-108.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10］谷振宾，王立群.我国退耕还林生态影响及其评估研究进展[J].生态经济，2007，（5）：27-29.[GUZhenbin，WANGLiqun.Advance in research on ecological effects of China's conver-ting farmland to forest and its evaluation[J].Ecological Economy,2007,(5) :27 -29.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11］张晓烨，陈军，赵耀.退耕还林对陕北地区生态环境的影响 [J].北京农业,2011，（27）:48-51.［ZHANGXiaoye,CHEN Jun,ZHAO Yao.Impact of China's grain for green project on the ecological environment in northern Shaanxi Province[J].Beijing Agriculture,2011,（27） :48-51.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[12］邓景成，高鹏，穆兴民，等.黄土高原退耕还林工程对生态环境的影响及对策建议[J].水土保持研究，2017，24（5）：63-68.[DENG Jingcheng,GAO Peng,MU Xingmin,et al.Impacts andadvice of the grain for green project to ecological environment onthe Loess Plateau[J].Research of Soil and Water Conservation,2017,24(5) :63 -68.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13］徐晋涛，陶然，徐志刚.退耕还林：成本有效性、结构调整效应与经济可持续性——基于西部三省农户调查的实证分析[J].经济学，2004，4（1）：139-162.[XUJintao，TAORan，XUZhi-gang.Sloping land conversion program:Cost-effectiveness,structur-al effect and economic sustainability[J].China Economic Quarter-ly,2004,4(1):139-162.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14］支玲，李怒云，田治威，等.西部退耕还林工程社会影响评价——以会泽县、清镇市为例[J].林业科学，2004，40(3）：2-11.[ZHILing,LI Nuyun,TIAN Zhiwei,etal.Evaluation of the so-cialimpacts of the project of conversing cropland to forestland in",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "the western China;Taking Huize County and Qingzhen as examples [J].Scientia Silvae Sinicae,2004,40(3）:2-11.]   \n[15］陈波.黎平县天然林保护工程效益监测结果评价[D].贵阳： 贵州大学,2010.[CHEN Bo.Evaluation on monitoring the effects of national natural forest protection project in Liping County of Guizhou Province[D]. Guiyang:Guizhou University,2010.]   \n[16］李秀花,师庆东,常顺利,等.1981—2001 年中国西北干旱区 NDVI变化分析[J].干旱区地理,2008,31（6）：940－945.［LI Xiuhua,SHI Qingdong,CHANG Shunli,et al. Change of NDVI based on NOAA image in northwest arid area of China in 1981 - 2001[J].Arid Land Geography,2008,31(6）:940-945.]   \n[17］李净,刘红兵,李龙,等.基于多源遥感数据集的近30 a西北地 区植被动态变化研究[J].干旱区地理,2016,39（2）：387- 394.[LI Jing,LIU Hongbing,LI Long,et al. Vegetation dynamic changes in northwest China based on multi-source remote sensing datasets in recent 3O years[J].Arid Land Geography,2016,39 (2) :387 -394.]   \n[18］韦振锋,王德光,张翀,等.1999—2010 年中国西北地区植被覆 盖对气候变化和人类活动的响应[J].中国沙漠,2014,34（6)： 1665 -1670.[WEI Zhenfeng,WANG Deguang,ZHANG Chong,et al. Response of vegetation cover to climate change and human activities in northwest China during 1999-201O[J]. Journal of Desert Research,2014,34(6):1665-1670.]   \n[19］韩贵锋,徐建华.人口与经济发展对植被的影响研究——以重 庆市为例[J].长江流域资源与环境,2008,17（5）:785－792. [HAN Guifeng,XU Jianhua.Influence of population and economic development on vegetation:A case study in Chongqing City[J]. Resources and Environment in the Yangtze Basin,20o8,17（5）: 785 -792.]   \n[20]ANSELIN L.Spatial econometrics:Methods and models[M]. Berlin :Springer Netherlands,1988.   \n[21] SHAO Liqun,CHEN Haibin,ZHANG Chen,et al. Effects of major grassand conservation programs implemented in Inner Mongolia since 2000 on vegetation restoration and natural and anthropogenic disturbances to their success[J].Sustainability,2017,9(3）:466.   \n[22]LV Yihe,ZHANG Liwei,FENG Xiaoming,et al. Recent ecological transitions in China:Greening,browning,and influential factors [J].Scientific Reports,2015,8732(5）:doi:10.1038/srep08732.   \n[23]LIU Jianguo,LI Shuxin,OUYANG Zhiyun,et al.Ecological and socioeconomic effects of China's policies for ecosystem services[J]. Proceedings of the National Academy of Sciences of the United States of America,2008,105(28）:9477 -9482.   \n[24]SONG Xinzhang,PENG Changhui,ZHOU Guomo,et al. Chinese grain for green program led to highly increased soil organic carbon levels:A meta-analysis[J]. Scientific Reports,2014,4460（4）： doi:10.1038/srep04460.   \n「25］项文化.杉木林采伐迹地人工造林与自然恢复的牛态功能过 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "程研究［D].长沙：中南林业科技大学，2003.［XIANGWenhua.Study on the ecological function process of artificial afforestation and natural restoration of Chinese fir cutting land[D]. Changsha:Central South University of Forestry and Technology,2003.] [26］李军,王学春,邵明安,等.黄土高原半干旱和半湿润地区刺槐 林地生物量与土壤干燥化效应的模拟[J].植物生态学报， 2010,34(3）:330-339.[LIJun,WANG Xuechun,SHAO Ming' an,et al. Simulation of biomass and soil desiccation of Robinia pseudoacacia forestlands on semi-arid and semi-humid regions of China's Loess Plateau[J].Chinese Journal of Plant Ecology, 2010，34(3):330-339.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[27］范建忠,李登科，董金芳.陕西省重点生态建设工程区植被恢复状况遥感监测[J].农业工程学报，2012，28（7）：228-234.[FAN Jianzhong,LI Dengke,DONG Jinfang.Remote sensing anal-ysisof vegetation restoration in key ecological construction areas ofShaanxi Province[J].Transactions of the Chinese Society of Agri-cultural Engineering,2012,28（7） :228-234.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[28］陈正林，葛敦.退耕还林工程建设研究综述[J].现代农业科 技,2011,（22）:240-243.[CHEN Zhenglin,GEDun.Reviewon the construction of grain to green project[J].Modern Agricultural Science and Technology,2011,(22）:240-243.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[29］邵书华.探讨天然林保护工程建设现状及发展对策[J].华章， 2013,（35）:381.［SHAO Shuhua.Discussion on present situation and development countermeasure of natural forest protection Project constructionJ」.Huazhang,2013,（35）:381. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[30]YIN Runsheng,ZHAO Minjuan,YAO Shunbo.Designing and implementing payments for ecosystem services programs:What lessons can be learned from China's experience of restoring degraded cropland ？［J].Environmental Science & Technology,2014,48（1）： 19 -20. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[31］李国平，石涵予.比较视角下退耕还林补偿的农村经济福利效 应——基于陕西省79个退耕还林县的实证研究[J].经济地 理,2017,37(7）:146-155.[LI Guoping,SHI Hanyu.The economic welfare effect on rural areas of grain to green project in comparative perspective:An empirical study based on 79 counties in Shaanxi Province[J].Economic Geography,2017,37（7）:146- 155.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[32]YAO Shunbo,GUO Yajun,HUO Xuexi.An empirical analysis of the effects of China's land conversion program on farmers'income growth and labor transfer[J].Environmental Management,2010, 45(3):502-512. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[33］李军媛，晏利斌，程志刚.陕西省植被时空演变特征及其对气 候变化的响应[J].中国水土保持,2011，(6)：29-32.[LIJunyuan,YANLibin,CHENG Zhigang.Spatial and temporal evolution characteristics of vegetation and its response to climate change in Shaanxi[J].Soil and Water Conservation in China,2O11,（6）： 29 -32.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Temporal and spatial variation of vegetation cover and its influencing factors in Shaanxi Province in the context of ecological construction ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "QIAN Chen， CHEN Hai-bin，HOU Xian-hui (CollegeofEconomicsdManagement,NorthwestAgriculturendForestry University,Yanglingo,haani,ha) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Since the end of the 2Oth century,to reverse the trend of ecological degradation,China has implementeda seriesof national ecological construction projects and vegetation restoration hasbeen thecore goal.Itis crucial toexamine the effectiveness of ecological constructionprograms in Shaanxi Province,China,onvegetationrestoration and clarifythe roles of other driving factors.For this purpose,basedon a dataset comprising MODIS NDVI data products,meteorological station observations,and social-economic statistics,the spatiotemporal changes ofvegetation cover in Shaanxi from 2OO2 to 2O16 were analyzedand a panel-data fixed efect model was built for atribution.The results showthe following:（1）After the implementationof the Grain forGreen Programand Natural Forest Conservation Program,the vegetation cover in Shaanxi showed anoverallimproving trend,but there were significant temporal fluctuations and spatial heterogeneities.（2）The ecological construction project exerted asignificantand positive effct on vegetationrestoration while it possessed a time lag.The NDVIvalue of each countyis expected to increase by 0.012 3 after a $1 \\%$ increase in afrestation rates three years ago,which is equivalent to the effect of increasing annual precipitation levels by $5 6 ~ \\mathrm { m m }$ .(3）The precipitation and temperature increase had significant positive effects on vegetation restoration.The $N D W$ values for each county are expected to increase by O.O21 6 and O.O43 9 after a $1 0 0 ~ \\mathrm { { m m } }$ increase in precipitation and a $1 ^ { \\circ } \\mathrm { C }$ increase in temperature,respectively.However,the population and economic growth exerted a significant negative impact.The NDVI value for each county is expected to decrease by 0.0331and O.O315 aftera1unit increase in population density and intensityof economic activity.To consolidate theachievements invegetationrestoration,itisnecessryto continue increasing investments forecological construction programsand strengthen supervision,monitoring,and evaluation.Atthe same time,an ecological migration policy should be actively implemented to relieve the ecological presure brought about byhuman activities.The economic structure should also be adjusted and optimized,whilethe mode of economic growth should be transformed to abandon the extensive mode that exhausts resources and degrades the environment.In addition,unobserved factors that do not change with time,such as topography and geomorphology,have important impacts on vegetation coverage.Therefore,the government should follow the basic characteristics and laws of ecosystem succession and adapt measures to local conditions when designing and implementing ecological construction projects. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:ecological construction；vegetation cover；NDVI； fixed effect model； Shaanxi Province",
+        "page_idx": 8
+    }
+]

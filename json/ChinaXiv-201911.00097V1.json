@@ -1,0 +1,387 @@
+[
+    {
+        "type": "text",
+        "text": "Review of Machine-Vision-Based Plant Detection Technologies for Robotic Weeding ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nan Li $^ { 1 , 2 }$ , Xiaoguang Zhang³, Chunlong Zhang4, Luzhen ${ \\mathrm { G e } } ^ { 4 }$ ,Yong $\\mathrm { H e } ^ { 1 , 2 }$ , Xinyu Wu1, 2   \n（204号 $^ 1$ Guangdong Provincial KeyLaboratoryofRobotics and IntellgentSystem,Shenzhen Institutes ofAdvanced Technology, Chinese Academy of Sciences, Shenzhen 518055,P. R. China. {nan.li1 & yong.he & xy.wu}@siat.ac.cn 2CAS KeyLaboratory ofHuman-Machine Intelligence-Synergy Systems, Shenzhen Institutes of Advanced Technology, Shenzhen 518055,P.R. China 3Shenzhen University, Shenzhen 518060, P. R. China. 2172262987@email.szu.edu.cn   \n4Collge ofEngineering,China Agricultural University,Beijing 10o83,P.R. China.{zcl1515 & luzhenge}@cau.edu.cn Corresponding author: xy.wu@siat.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract - Controlling weeds with reduced reliance on herbicides is one of the main challenges to move toward a more sustainable agriculture.Robotic weeding is a thought to be a viable way to reduce the environmental loading of agrochemicals while keeping the operation efficiency high.One of the key technologies forperforming robotic weeding is automatic detection of crops and weeds in fields.This paper presents an overview on various methods for detecting plants based on machine vision,mainly concentrating on two main challenges: dealing with changing light and crop/weed discrimination.To overcome the first challenge,both physical and algorithmic methods have been proposed.Physical methods can result in a more cumbersome machine while algorithmic methods are less robust. Forcrop/weed discrimination,deep-learning-based methodshave shown obviousadvantages over traditional methods based on hand-crafted features.However,traditional methods still hold some merits that can be leveraged to deeplearning-based methods.With the fast development of hardware technologies,researchers should take full advantage of advanced hardware to ease the algorithm design.In the future, the identification of crops and weeds can be more accurate and finegrained with the support of online databases and computing resources based on the advances in artificial intelligence and communication technologies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Index Terms-Weed control. Precision agriculture.Machine vision.Image processing. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Weed is a major menace in crop production as it competes with crops for nutrients,moisture, space and light. Every year,weed infestation causes huge loss in agricultural production over the world,although large amounts of labors, herbicide and energy are invested. Currently， chemical weeding is still the dominant way of weed control in agricultural production systems. Byspraying herbicides evenly over the whole field,most weeds can be quickly eliminated,which is cost effective and efficient. With the increasing emphasis on food safety and environmental protection,it is a general trend to minimize the use of chemical herbicides.By automatically removing weeds in a non-chemical way or applying herbicides precisely,robotic systems are regarded as a viable alternative to decrease emission of CO2 and the environmental loadingof agrochemicals in conventional agriculture.In order to achieve high performance robotic weed control, especially in-row treatment, crops and weeds must be correctly detected and located. Extensive plant detection and localization methods have been explored by researchers over the world,based on RTK GPS (Real-time Kinematic Global Positioning Systems), machine vision, laser sensor,X-ray,ultrasonic,etc. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RTK GPS systems can provide absolute positions of crop plants and weeds for robotic weeding,on the premise that the crops are planted using an RTK GPS guided planting system or a map of crop/weed distribution has been created before treatment [1,2].RTK-GPS-based weeding systems are not adversely affected by weed density, shadows,missing plants, but can be affected by distribution of satellites,weather condition,radio interference and geography. Some researchers investigated approaches for detecting plants with laser sensors [3,4,5].Laser sensors usually have relatively high prices,and require complex procedures to process the output 3D point clouds.X-ray can be used for crop detection since plant's main stem absorbs X-ray energy [6]. However, the safety and cost of X-ray systems are the main concern.Very few researches have been reported in this domain. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the rapid development of computer technology, graphics and image processing technology,machine vision has been widely applied to various agricultural tasks.Autonomous guidance along crop rows,individual plant detection and weed mapping for robotic weed control have been important areas of applying machine vision. Since machine vision can provide abundant information of targets,like color, shape, texture and depth，with considerably high accuracy and relatively low cost,majority of the past researches on plant detection are based on machine vision. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fieldenvironmentsarecomplexandchangeable unstructured environments, affected byclimate, time, agronomic measures and other factors.Therefore,researchers have to take into consider the requirements of weeding operations aswell as the characteristics of the field environments when designing the machine vision systems and image processing algorithms. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One concerned problem of machine-vision-based systems applied in robotic weed control is that they are likely to be influenced by natural light which changes with time.This mainly brings difficulty in segmentation between vegetation (crops and weeds) and the background (bare soil,rocks and residues)， and feature extraction. Another challengeis distinguishing between crops and weeds which have similar appearances.Furthermore, it can be exceptionally challenging to identify individual plant when severe occlusion between plants occurs. So far,a multitude of efforts have been paid into 1） coping with varying out-door lighting,2） crop/weed discrimination.Therefore,we propose a review of the studies on machine-vision-based plant detection according to how they cope with the challenges mentioned above. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II.DEALINGWITHVARIABLENATURALLIGHT",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When machine vision systems work in the field environments,intensity and spectral content of the daylight may change over time.On sunny days,image processing becomes more difficult due to the presence of highlights and shadows in the images. Thus,it is necessary to design the systems and their algorithms robust to the changing light. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A number of researchers have investigated methods for improving the performance of machine vision systems under varying natural light, such as the use of shading，paying special attention on selecting a segmentation index,or other approaches to make image processing algorithms more robust to variable illumination. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A.Shading and Artificial Lighting ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In many studies,physical methods, like artificial lighting and shading,were used to get constant light conditions. The weed identification system described in [7] possesses three special plant lights with 4OO W metal halogen lamps to illuminate the field of view, and a lightproof polyethylene film cover to block out the natural light,as shown in Fig.1(a).The commercial robotic weeding system Steketee IC [8] has a camera and a high-power LED light mounted under the metal hood for monitoring each crop row,as depicted in Fig.1(b). The metal hood ensures that there is no effect from sunlight or shadows.The BoniRob agricultural field robot [9] in Fig.1(c) also uses shading as well as artificial lighting to control the illumination of the operational area. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Some systems only employ artificial lighting to maintain a relatively stable illumination condition.The Robovator intrarow weeding system [1O] has a halogen lamp installed behind each camera to keep the lighting relatively constant,as shown in Fig.l(d).But no cover is equipped over the image acquisition area. The AgBot II [11,12] is equipped with a pulsed lighting module behind the camera to improve the quality of acquired images,as shown in Fig.1(e).As to these two systems,the natural light reflected from the environment and the shadows of their mechanical components may still affect the machine vision systems. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For vision systems with narrow fields of view, it is a good way to cope with changeable natural light and reduce the difficulty of developing image processing algorithms by contriving mechanicalsolutionsandartificial lighting. However, some weeding systems， such asthe Garford Robocrop InRow Weeder [13] shown in Fig.1(f),use each camera to monitor multiple crop rows.In order to obtain a wide enough field of view, the camera should be installed at a high position.In that case,shading and artificial lighting can result in a more cumbersome and expensive machine. Many researchers persistently work on devising image processing algorithms more robust to variable illumination. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5415ab3fe8ef23394a2a31c82f996dff8041965cf002e8f6e68e0c38b986510c.jpg",
+        "img_caption": [
+            "Fig.1Several typical robotic weeding systemsand their machine vision systems. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "B.Image Processing Considering Ilumination Change ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In most plant detection methods,vegetation (crops and weeds) and soil background are firstly segmented, followed by the crop/weed discrimination and localization procedures. Therefore, the segmentation of vegetation and soil background is directly affected by the change of illumination conditions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Usually, the segmentation procedure consists of two main steps:1) design or select color indices to convert color images to gray scale images；2）apply an appropriate threshold to distinguish vegetation from the soil. The excessive green (ExG),normalized excessive green (NExG) indices [14], color index of vegetative extraction(CIVE） [15],and normalized difference vegetation index (NDVI） [l6] are the most commonly used vegetative indices. The NExG takes into consider the light intensity of each pixel so as to attenuate the effect of illumination variation,while NDVI introduces a ratio between the amount of near Infrared light and red light reflected by objects.For adaptive segmentation threshold selection,Otsu's method [17] is the most widely used one. Many researchers have tried other color indices and segmentation methods,and achieved good results.In order to overcome the influence of partial shadows in images, Marchant et al. [18，19] proposed a shadow invariant transformation $F$ for image graying based on the Commission Internationale de l'Eclairage daylight model. Zheng et al. [20] developed an image segmentation method based on the meanshift algorithm and a BP neural network,which can segment vegetation and soil background well in shaded and non-shaded images. The drawback of the method is too time-consuming. To deal with the specular reflection of crop leaves under strong illumination，Ye et al.[21] developed a vegetation extraction method using probabilistic superpixel Markov random field,which achieved outstanding performance on images where highlights and shadows appeared. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All the methods mentioned above have been tested on the images collected under natural light, and some good results have been obtained. However, the field conditionsare complex and changeable；it is difficult for one index or segmentation method to have universal applicability.In more challenging cases,such as processing images with partial shadows collected at noon with strong sunlight, further tests and verifications are needed to improve the existing methods and develop more generalized and robust ones. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. CROP/WEED DISCRIMINATION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the procedure of crop and weed detection for robotic weeding,the most important step is to separate crop plants from weeds correctly. Because of the various and irregular distribution of weeds,and the similarity between crops and weeds in physical characteristics,discrimination between crops and weeds is not an easy task.Traditional methods usually take the advantage of differences in features,like color (or spectral characteristics),shape,texture,size,height and distribution, between crops and weeds.With the rise of deep learning technology,ever-more researchers are applying deep neural networks to perform end-to-end crop/weed recognition. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A. Color-Based Crop/Weed Discrimination ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although most of the crops and weeds are green, their spectral characteristics are different. Intuitively,they present different greens. The extraction of color features is relatively simple and fast,which is advantageous for distinguishing crops and weeds based on the distinction in color. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nieuwenhuizen et al. [22] developed two color-based machine vision algorithms for volunteer potato detection in sugar beet fields,using an Adaptive Neural Network and a KMeans clustering/Bayes classification scheme.Piron et al.[23] added interference filter combinations to a black and white camera to collect images,and studied the best combination of filters to distinguish carrots from weeds.Li et al.[24] transformed the color field images into HSI color space,and constructed a Mahalanobis distance classifier to perform pixelwise crop/weed classification based on the difference in hue and saturation.Hamuda et al.[25] proposed an algorithm for detection of cauliflowers from video streams,which segments cauliflowers from weeds and soil under different illumination conditions using morphological erosion and dilation within HSV color space. Zheng et al.[26] selected nine optimal color features with principal component analysis (PCA),and built a support vector classifier to differentiate maize from the mixes of different weeds.They demonstrated that the method was stable under various weather conditions and over time. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thecolor-feature-based methodsare usuallyless complex than texture- or shape-feature-base methods.When the colors (spectral characteristics） of the plants to be distinguished are comparatively close,using color features cannot achieve satisfactory discrimination results.In more studies,researchers combined color with other features for crop/weed discrimination. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "B.Shape-Based Crop/Weed Discrimination ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since the leaf shapes of field plants are varied, they provide an important information source to distinguish different plants visually.Therefore,many methods designed and extracted shape features to discriminate cropsand weeds. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cho et al. [27] developed a machine vision system for weed detection in a radish farm.They extracted 8 shape features,among which aspect,elongation and perimeter to broadnesswereselectedassignificantvariablesfor discriminant models. Taking an artificial neural network (ANN) as classifier, the achieved successful recognition rate of their method was $9 3 . 3 \\%$ for radish and $9 3 . 8 \\%$ for weeds. Neto et al. [28] took the Elliptic Fourier descriptor as the shape feature ofplantleaves,selected theFourier coefficients with the best discriminatory power by PCA，and used canonical discriminant analysis to classify soybean,sunflower, redroot pigweed and velvetleaf plants. Swain et al. [29] established the shape model of 2-leaf growth stage nightshade plants, and used automated active shape matching technique to classify plants into crops and weeds.Joen et al.[3o] extracted five normalized shape features of maize and weeds,including length/width, height/perimeter, perimeter/area, width/area, length/area,and used an ANN classifier to identify weeds from crop plants.Wong et al.[31] presented a method for weed identification using a combination of features including fractal,shape features and moment invariants.The Genetic algorithm was adopted to optimize the feature selection and the support vector machine(SVM) classifier.However, this method was designed with the assumption that the weeds are young and non-occluded. Lottes et al. [32] computed 9 statistical features,7 shape features,and 2 other features,and exploited a random forest classifier to separate sugar beets from weeds.Bakhshipour et al.[33] tried to integrate shape feature sets including Fourier descriptors and moment invariant features to establish a pattern for sugar beets and weeds.For crop/weed classification, they compared SVM and ANN based on the plant pattern.Both classifiers achieved accuracies over $90 \\%$ ,while the SVM performs better. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Shape-based methods can be very effective when plant leaves are intact and non-occluded. When there are overlaps and damages on plant leaves, the difficulty of extracting shape feature increases significantly.In addition,due to the wide variety of crop and weed species,there is a lack of a generalized set of shape features for crop/weed discrimination. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C.Texture-Based Crop/Weed Discrimination ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In field images, plants present differences in texture due to their disparities in leaf size,contour,vein distribution,and density.Therefore，it is possible to make use of texture features to distinguish between crops and weeds. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tang et al.[34] studied the classification and recognition of broadleaf and grass weeds,exploiting a Gabor waveletbased algorithm to extract spatial-frequency texture features of the weeds,and a feedforward ANN to process the extracted feature vectors for weed classification. Wu et al. [35] proposed a method for identifying the weeds in corn fields at earlygrowth stage.The texture features of the weedsand corn seedlings were obtained using Gray Level Co-occurrence Matrix (GLCM) and statistical properties of field images. PCA Was used to select the texture features with prior contributions, followed by a crop/weed classification procedure using SVM. To improve the accuracy of a real-time Rumex obtusifolius, Hiremath et al.[36] explored two different sets of visual texture features corresponding to GLCM and Laws’filter masks. They concluded that GLCM features including contrast,entropy and correlation were the best among the two setsof features,which showedahigh degree of robustness to lighting condition and weed size. Bakhshipour et al.[37] explored the potential of using wavelet texture features for weed detection in sugar beets.They extracted GLCM texture features for each multi-resolution field image produced by single-levelHaar discrete wavelet transform.PCAwasused to select 14 features from the 52 extracted texture features,and an ANN was employed for classification. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Texture-based methods are useful in cases when there is a significant difference between the textural frequencies of the plant canopies. Similar to shape feature, texture feature extraction is a relatively complex and computationally intensive image processing procedure.Commonly，feature selection and dimension reduction algorithms are used to select features with better contributions as input of a classifier The advantage of texture feature is that it is more robust than shape feature in separation and recognition of crops and weeds when their leaves are mutually occluded. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$D$ Height-Based Crop/Weed Discrimination ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Usually, the heights of crop plants in the same field plot is much in similar,while differing from those of weeds. Especially in transplanted crop fields,crop plantshave obvious advantages over weeds in height. Stereo vision systems can obtain the depth information within the field of view,which provides an approach to segmentation of crops and weeds based on their heights. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Piron et al. [38] proposed a method combining multispectral and stereoscopic information for weed detection in carrots.They extracted 5 features including 3 spectral bands data,height and number of days after sowing and employed quadratic discriminant analysis for crop/weed discrimination. Chen et al.[39] developed a machine vision system for detecting intra-row weeds.The crop detection algorithm of the system applied height and plant spacing information to differentiate crops from weeds. Gai et al.[40] developed a crop recognition and localization algorithm using both 2D and 3D data from Kinect v2 sensor. The 2D color and textural data with 3D point cloud data were fused,and crop morphological models were developed for crop recognition against weeds at different growth stages. Wang et al.[41] extracted 16 morphological features and 2 texture features in 2D field images,and calculated height of plants based on binocular images.Using the max-min ant system algorithm,6 optimal morphological features were selected,which were input into a SVM model together with the 2 texture features and height feature for distinguishing maize seedlings from weeds.Li et al.[42] applied a 3D time-of-flight(ToF) camera to a crop recognition system for broccoli and green bean plants under weedy conditions. They extracted 2D and 3D features including gradient of amplitude and depth image, surfacecurvature, amplitudepercentile index， normal direction， and neighbor point count in 3D space, and developed a segmentation algorithm for each crop according to the 3D geometry and 2D amplitude.The method reached a high segmentation accuracy under the challenging conditions. However, the low resolution of the ToF camera limited the precision.Ge et al. [43] proposed a method for broccoli seedling recognition in weedy broccoli fields based on Binocular Stereo Vision and a Gaussian Mixture Model. The method reached a correct recognition rate of $9 7 . 9 8 \\%$ for 247 pairs of $6 4 0 { \\times } 4 8 0$ pixel broccoli images with prominent weed growth. Time for processing each pair of images was $5 7 8 ~ \\mathrm { m s }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The advantage of the stereo-vison-based methodsis obvious as they can make use of information from 2D images, while introducing the height of plants. On the other hand, they have the drawback of requiring complex and time-consuming procedures for processing the 3D point cloud data. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$E$ Distribution-Based Crop/Weed Discrimination ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As most of the crops are planted in rows with a certain spacing， many existing methods extract the crop rows according to the linear distribution of crop plants,based on which crops can be effectively separated the from the interrow weeds,such as the methods described in[44,45].Hough transform，least square method and pixel-histogram based methods are the most commonly used methods in crop row detection.Different crop row detection methods have been listed comprehensively in [46]. In addition, the plant spacing of transplanted crops is relatively fixed in the crop rows, which makes the distribution of crops present certain patterns. Usually,researchers combine location features with shape, color and texture features to effectively separate irregularly distributed weeds from neatly planted crops. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Southhall et al.[47] adopted an extended Kalman filter approach to their crop recognition method,where a model consisted of a grid matching the crop planting pattern is incorporated.A clustering method collects plant features extracted from near infrared field images into groups representing individual plants,followed by a crop/weed discrimination procedure based on the assumption that features not matching the planting pattern are weeds.Hu et al. [48] proposed a crop recognition and localization approach, taking advantage of the knowledge of the planting pattern.The method recognizes crop plants by filtering candidate crop regions extracted from the pixel histogram of each crop row with a sinusoid curve designed according to the crop spacing. Based on the fact that most crops are planted in rows with a similar spacing along the row,Lottes et al.[49] established a probabilistic model representing the arrangement of the plants and employed a Bayesian approach to perform the crop/weed classification based on that model. They claimed that their method achieved a high classification performance requiring only minimal amount of training data,and could be easily adapted to a new field. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Spatial arrangement of plants can be a reliable feature as it is much less affected by changes in the visual appearance. However,it needs to be tuned for each field according to the crop planting pattern and suffers from disturbances of missing plants and inaccurate planting. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "F.Deep-Learning-Based Crop/Weed Discrimination ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because of wide variety of crop and weed species and lack of a general feature,most of the methods discriminate crops and weeds by combining multiple features.For different recognition targets and environments, selecting appropriate features and classification methods is the key to improve the robustness of the algorithm.Deep learning technology has greatly changed the feature selection and classification manner compared with traditional methods.Deep convolutional neural networks (CNN） present strong feature extraction abilities, and can perform end-to end prediction. The application of deep learning technology in crop and weed recognition has been the new research frontier. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Dyrmann etal. [5o]proposeda plant species identification algorithm based on a CNN to classify images containing 22 weed and crop species at early growth stages. These images come from six datasets which have variations with respect to ilumination， resolution, and soil type. Experimental results show that the method was able to achieve a classification accuracy of $8 6 . 2 \\%$ .Potena et al. [51] designed a CNN-based method to perform the crop/weed detection and classification tasks in real-time.Two CNNs were exploited in this method: a lightweight CNN was used to perform fast and robust pixel-wise vegetation detection,and a deeper CNN was then used to classify the extracted pixels into different plant species.Sun et al.[52] adopted the Faster-RCNN [53] model for broccoli plant detection in fields with different light intensities, ground moisture contents and weed infestation levels. Through the optimization of the feature extraction network and the hyperparameters of the model, they reported an accuracy of $91 . 7 3 \\%$ .Wendel et al. [54] presented a selfsupervisedframeworkforhyperspectralcrop/weed discrimination.Themethodgatherstrainingdata automatically,by making use of prior knowledge of seeding patterns,to form a self-supervised classification framework that is resistant to variation. It achieved approaching performance of hand labelled training data, while requiring no manual labeling. Hall et al.[12] developed a rapidly deployable weed classification system with a three-stage pipeline consisting of initial field surveillance， online processing and data labelling.They used a CNN for plant feature extraction and another CNN for weed classification. They demonstrated that the proposed system was able to label 12.3 and 23.3 times fewer samples than traditional full data labelling, without any prior knowledge of weed species before deployment. Milioto et al. [55] proposed a pixel-wise crop/weeddiscriminationmethodbasedonafully convolutional neural network (FCN） that combines several vegetation indices and preprocessing mappings to the RGB images. Experimental results showed that the method performed well on different test datasets in spite of heavy overlap between crop and weeds,and operated at around 20 Hz. Very recently,Lotes et al. [56] proposed an approach that performs pixel-wise semantic segmentation of images into soil,crop,and weed based on a FCN,encoding the spatial arrangement of plants in a row using 3D convolutions over an image sequence. Li et al. [57] devised a novel crop recognition method for the high-weed-pressure scene,which is inspired by the visual attention mechanism of human eyes. They constructed a FCN-based salient object detection model for pixel-wise crop/background segmentation,and employed the Adaptive Affinity Fields to improve the segmentation accuracy at boundaries and for fine structures.The method achieved high accuracy as well as good efficiency for realtime processing. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Recent investigations have shown that deep learning methods have significantly outperformed traditional methods that rely on hand-crafted features.They also present good generalization ability,which is an important characteristic for working in real agricultural environments,since the plant species and appearance change with fields and phenology. However， the vast majority of the deep-learning-based methods use supervised learning，which require a large amount of training data to obtain the best performance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "G.Available Datasets ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Currently,very few open source field image datasets can be found.This is mainly caused by the diversity of species of plants and field conditions,and that the labeling process for field images is challenging and extremely time consuming. One of the widelyused publicly available field image datasets is created by Chebrolu et al.[9]. The dataset contains 5 TB of data collected by sensors equipped on an agricultural robot, including a 4-channel multispectral camera,a RGB-D sensor, and other sensors,from a sugar beet field over a period of three months.Li et al.[57] built a field image dataset called CWF-788,which contains 788 cauliflower images captured from fields with veryhigh weed pressure. Pixel-wise annotated ground truth labels are also provided.The dataset is also publicly available.However, the shortage of this dataset is that the number of images is relatively small,and it only contains one kind of crop.At present, there is still a lack of large-scale,high-quality，multi-species,open source field image datasets,for training deep plant recognition models, conducting fair comparisons and promoting the technical progress in this research area. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IV.DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Controlled， stable lighting condition can eliminate intensity and spectral changes caused by the variable illumination and partial shadows. Physical solutionsfor dealing with variable natural light are much more direct, reliable and easy to realize than software solutions.Although, a multitude of research works have been done to improve the robustness of algorithms against changeable light, the authors are prone to designing proper physical structures which can block out the natural light at a sufficient level while keeping the systems compact in structure. We regard it a necessary measure to ensure commercial weeding robots to work stably and reliably in real agricultural production conditions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As to the crop/weed discrimination task, the advantages of deep-learning-based methods are obvious in terms of accuracy and generalization,but the majority of them share the need for tedious labeling effort to train the deep neural networks. Traditional methods still hold some advantages on computational cost, number of hyperparameters and ease of training， as they are designed according to theprior knowledges of human experts. A comparison between traditional methods and deep-learning based methodsis depicted in Fig.2.As can be seen from some recent reported methods [55,56],researchers are making efforts to leverage hand-crafted features and prior knowledges to deep learning models,which help to reduce the number of datasets required fortraining and re-tuning CNNmodels. Furthermore, unsupervised learning and transfer learning are also useful techniques to reduce the labeling effort for training CNN models. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "With the fast development in hardware technologies, cameras including 2D,stereo and multispectral cameras,and computing platforms are available with better performance and lower prices.Stereo vision and multispectral information can be taken into more consideration.The authors strongly recommend employing stereo vision systems for the crop and weed recognition tasks.The depth information provided by the stereo vision systems can not only help to perform object-wise crop/weed classification,but also contribute to dealing with leaf occlusion and stem detection， which are the two challenging tasks but important for accurate plant detection and localization.CNN models, such as PointNet [58], can be used to process the cloud points to realize end-to-end pointwise crop/weed classification and precise localization. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the plant detection systems to meet the requirements in practical applications,precision and efficiency are the two ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Typical procedure Characteristics   \niiriiileriigiiess Vegetation/soil Plantfeature Less trainingdata, Classification segmentation extraction lowercomputationalcost, NIVE, Coloresheigt, ANN.VMrest, limityandaeralirain NDVI distribution, discriminantanalysis, requiringmanualfeature .·. designand selection. Model design Modeltraining Inference   \npggarprnihgeag SingleCNN, Supervised, Object-wise, multiCNN, unsupervised, pixel-wise, FCN, · Highaccuracy, good generalization ability, automaticfeatureextraction, computationallyexpensive, Labeling (only for heavy labeling burden, Dataacquisition supervised models) moresuper petameters to beadjusted. Color images, Manual labeling, NIRimages, Selected labeling multi-spectral images, 3D point clouds ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "main criteria.According to our survey on literatures and by consulting a commercial technology supplier and a number of farmers,an object-wise plant recognition accuracy of over $9 5 \\%$ would be widely accepted in most cases. The requirement for pixel-wise segmentation can be a bit lower, for example $90 \\%$ ，since a plant can be correctly recognized when most pixels of this plant is correctly identified. As to the efficiency， the requirement is heavily dependent on the working characteristics of a specific robotic-weeding system. However,an efficiency of $2 5 ~ \\mathrm { f / s }$ would be suitable for most weeding systems,as cameras usually work with a continuous acquisition framerate of $3 0 \\mathrm { f / s }$ or $2 5 \\mathrm { f / s }$ according to the NTSC video system $( 3 0 \\mathrm { ~ \\ f / s } )$ and PAL video system $( 2 5 \\mathrm { ~ \\ f / s ) }$ However, this should be achieved on the computer equipped on the weeding system,which usually have constrained computational resource. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Weed control is a comprehensive and persistent work, not for a single kind of weed or a single year. Acquisition, uploading and sharing data and information arethe requirements and trend of technology development.Previous works mainly focused on performing plant recognition and localization locally. In the future,with the promotion and application of 5G communication technologies,identification of crops and weeds can be more accurate and fine-grained with the support of online databases and computing resources. Once the information of weed species,density and distribution is obtained and uploaded, precise regional weed maps can be built,which provides the basis for making regional weed control guides. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "V.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Thispaperhasreviewedandsummarizedthe development of machine vision technologies applied in plant detection for robotic weeding,and discussed the prospects for future development. Two main challenges in plant detection task are firstly listed,followed by the detailed review of methods for dealing with those challenges.It can be concluded that 1)a multitude of physical solutions as well as algorithms have been proposed to cope with changeable natural light in field environments,while physical solutions is thought to be more reliable and easier to realize; 2) although deep-learning based methods have outperformed traditional hand-crafted feature methods,combining the hand-crafted features and other prior knowledge with deep learning models is hopeful to reduce the labelling efforts for training and re-tuning the models;3) stereo and multispectral cameras can be involved in more systems as they can provide more information and help to improve the accuracy and robustness of the systems in challenging conditions.We anticipate that in the future,with the support of online bigdata and computing source,plant recognition will be more accurate and fine-grained based on the advances in artificial intelligence and communication technologies. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]M.Pérez-ruiz,D.C.Slaughter,C.J.Gliever,and S.K.Upadhyaya, “Automatic GPS-based intra-row weed knife control system for ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "transplanted row crops,” Computers and Electronics in Agriculture, vol. 80,no.2,pp.41-49,January 2012.   \n[2]M.Norremark,H. W.Griepentrog,J. Nielsen,and H. T.Sogaard, “Evaluation of an autonomous GPS-based system for intra-row weed control by assessing the tilled area,”Precision Agriculture,vol.13, no. 2,pp.149-162,April 2012.   \n[3] C.CordillandT.E.Grift,“Designandtesting ofanintra-row mechanical weeding machine for corn,”Biosystems Engineering,vol. 110, no.3.pp.247-252,September 2011.   \n[4]D. Andujar,V. Rueda-Ayala, H. Moreno,J. R. Rosell-Polo,A. Escola,et al.“Discriminating crop,weedsand soil surface witha_terestrial LIDAR sensor,”Sensors,vol.13,no.11,pp.14662-14675,October 2013.   \n[5]D.Reisera,M.Vazquez-Arellanoa,D.S.Paraforosa,M. Garrido-Izardb, andH.W.Griepentroga,“Iterative individual plant clustering in maize with assembled 2D LiDAR data,” Computers in Industry, vol. 99, pp. 42-52,March 2018.   \n[6]R.P. Haff,D.C. Slaughter,and E. S. Jackson,“X-Ray based stem detection in an automatic tomato weeding system,”Applied Engineering in Agriculture,vol.27,no.5,pp.803-810,May 2011.   \n[7]J.Hemming,and T.Rath,“Computer-vision-based weed identification under field conditionsusingcontrolled lighting,”Journal ofAgricultural Engineering Research,vol.78,no.3,pp.233-243,February 2001.   \n[8] Stektee,“The Stektee IC-WEEDER automatic hoeing machine, https://www.steketee.com/en/steketee-ic-weeder/.   \n[9]N.Chebrolu,P.Lottes,A.Schaefer,W.Winterhalter,W.Burgard, et al., “Agricultural robot dataset for plant classification,localization and mapping on sugar beet fields,” International Journal of Robotics Research,vol.36,no.10,pp.1045-1052,September 2017.   \n[10] F.Poulsen Engineering,“The Robovator intra-row weed control system, http://www.visionweeding.com/robovator.   \n[11] O.Bawden,J. Kulk,R.Russell, C.McCool,A. English,et al.,“Robot for weed species plant-specific management,”Journal of Field Robotics, vol.34,no.6,pp.1179-1199,September 2017.   \n[12] D.Hall,F.Dayoub,T.Perez,and C McCool,“A rapidly deployable classification system using visual data for the application of precision weed management,”Computers and Electronics in Agriculture,vol. 148,pp.107-120,May 2018.   \n[13] GarfordFarmMachinery, “TheRobocropInRowWeeder, https://garford.com/products/robocrop-inrow-weeder/.\"   \n[14] D.M. Woebbecke,G.E.Meyer,K.Von Bargen,and D.A.Mortensen, “Color indices for weed identification under various soil,residue,and lighting conditions,” Transactionsof the American Societyof Agricultural Engineers,vol.38,no.1,pp.259-269,January-February 1995.   \n[15]T.Kataoka,T.Kaneko,H. Okamoto,and S.Hata,“Crop growth estimation system using machine vision,”in IEEE/ASME International ConferenceonAdvancedInteligent Mechatronics，vol.2,2003,pp. 1079-1083.   \n[16]T.N.Carlson,and D.A.Ripley，“On the relation between ndvi, fractional vegetation cover,and leaf area index,”Remote Sensing of Environment,vol.62,no.3,pp.241-252,December 1997.   \n[17] N. Otsu,“A threshold selection method from Gray-Level histograms,\" IEEE Transactions on Systems,Man,and Cybernetics,vol.SMC-9,no. 1,pp.62-66,January 1979.   \n[18] J.A.Marchant,and C.M.Onyango,“Shadow-invariant classification forscenes illuminated by daylight,”Journal of the Optical Society of America A:OpticsandImage Science,and Vision,vol.17,nopp 1952-1961,November 2000.   \n[19] J.A. Marchant,N. D.Tilltt,and C.M. Onyango,“Dealing with color changes caused by natural illumination in outdoor machine vision,\" CyberneticsandSystems,vol.35,no.1,pp.19-33,JauaryFebruary 2004.   \n[20] L. Zheng,J. Zhang,and Q.Wang,“Mean-shift-based color segmentation of images containing green vegetation,” Computers and Electronics in Agriculture,vol. 65,no.1,pp.93-98,January 2009.   \n[21] M. Ye, Z. Cao, Z. Yu,and X. Bai,“Crop feature extraction from images with probabilistic superpixel Markov random field,” Computers and Electronics in Agriculture,vol.114,pp.247-260,June 2015.   \n[22] A.T.Nieuwenhuizen,L.Tang,J.W.Hofstee,J.Muller,E.J.van Henten,“Colour based detection of volunteer potatoes as weeds in sugar beet fields using machine vision,”Precision Agriculture,vol.8,no. 6, pp.267-278,December 2007.   \n[23] A.Piron,V.Leemans,O. Kleynen,F.Lebeau,and M.-F.Destain, “Selectionof themost eficient wavelength bands for discriminating weeds from crop,” Computers and Electronics in Agriculture,vol. 62, no. 2, pp.141-148,July 2008.   \n[24] N.Li,T.E.Grift,T.Yuan,C.Zhang,M.A.Momin,et al.,“Image processing for crop/weed discrimination in fields with high weed pressure,’in 2016 American Society ofAgricultural and Biological Engineers Annual International Meeting,2016.   \n[25] E.Hamuda,B.Mc Ginley,M.Glavin,and E.Jones,“Automatic crop detection under field conditions using the HSV colour space and morphological_ operations,” Computers and Electronics in Agriculture, vol. 133,pp.97-i07,February 2017.   \n[26] Y. Zheng,Q. Zhu,M. Huang,Y. Guo,and J. Qin,“Maize and weed classification using color indices with support vector data description in outdoor fields,”Computers andElectronics in Agriculture,vol.4,pp. 215-222, September 2017.   \n[27] S.I. Cho,D. S.Lee,and J. Y. Jeong,“Weed plant discrimination by machinevisionandartificial neural network,BiosystemsEngineering, vol.83,no.3,pp.275-280,November 2002.   \n[28] J.C. Neto,G.E.Meyer,D.D.Jones,and A.K. Samal,“Plant species identification using Elliptic Fourier leaf shape analysis,” Computers and Electronics inAgriculture,vol.50,no.2,pp.121-134,February 006.   \n[29] K.C. Swain,M. Norremark,R.N. Jorgensen,H. S. Midtiby and O. Green,“Weed identification using an automated active shape matching (AASM) technique,”Biosystems Engineering,vol.110, no.4,pp.450- 457, December 2011.   \n[30]H.Y.Joen,L.F.Tian,and H.Zhu,“Robust crop and weedsegmentation underuncontrolledoutdoorillumination”Sensors,vol.1no.6,p 6270-6283,June 2011.   \n[31] W.K.Wong,A. Chekima,I. O.B. Ahmad, M. Mariappan,F.Wong, et al.,“Genetic algorithm feature selection and classifier optimization using moment invariants and shape features,”in First International Conference on Artificial Intellgence,Modelling&Simulation,2013,pp. 55-60.   \n[32]P.Lottes,M.Horferlin,S.Sander,and C.Stachniss,“Effective visionbased classification for_separating sugar beets and weeds for precision farming,”Journal of Field Robotics，vol.34,no.6,pp.1160-1178, September 2017.   \n[33] A. Bakhshipour,and A.Jafari,“Evaluation of support vector machine and artificial neural networks in weed detection using shape features,\" Computers and Electronics in Agriculture,vol. 145,pp.153-160, February 2018.   \n[34] L.Tang,L. Tian,B.and L. Steward,“Classification of broadleaf and grass weeds using Garbor wavelets and an artificial neural network,\" Transactions of the ASAE,vol. 46, no.4,pp.1247-1254,July/August 2003.   \n[35] L.Wu,and Y. Wen,“Weed/corn seedling recognition by support vector machine using texture features,” African Journal of Agricultural Research,vol.4,no.9,pp.840-846,September 2009.   \n[36] S.Hiremath,G.Ven Der Heijden,F.K.Ven Evert,and A. Stein,“The role of textures to improve the detection accuracy of Rumex obtusifolius in robotic systems,” Weed Research,vol.52,no.5,pp.430-440,October 2012.   \n[37] A．Bakhshipour,A．Jafari，S.M.Nassiri,and D.Zare,“Weed segmentation using texture features extracted from wavelet sub-images,\" Biosystems Engineering,vol.157,pp.1-12,May2017.   \n[38]A.Piron, V.Leemans,F.Lebeau, and M.-F.Destain,“Improving in-row weed detection in multispectral stereoscopic images,” Computers and ElectronicsinAriultureol.69,no.1,p.-79v0   \n[39] Y.Chen,X. Jin,L. Tang,J. Che,Y. Sun,et al.，“Intra-row weed recognition using plant spacing information in stereo images,” in 2013 American Society of Agricultural and Biological Engineers Annual International Meeting,2013.   \n[40] J.Gai,L.Tang,and B. Steward,“Plant recognition through the fusion of 2D and 3D images for robotic weeding,”in 2015 American Society of Agricultural and Biological Engineers Annual International Meeting, 2015.   \n[41] C.Wang,and Z.Li,“Weed recognition using SVM model with fusion heightandmonocularimagefeatures,”NongyeGongcheng Xuebao/Transactionsofthe ChineseSociety ofAgricultural Engineering,vol.32,no.15,pp.165-174,August 2016.(in Chinese with English abstract)   \n[42] J.Li,and L.Tang,“Crop recognition under weedy conditions based on 3D imaging for robotic weed control,” Journal ofField Robotics,vol. 35,no.4,pp.596-611,June 2018.   \n[43] L.Ge,Z. Yang,Z. Sun,G. Zhang,M. Zhang,et al,“A method for broccoli seedling recognition in natural environment based on Binocular Stereo Vision and Gaussian Mixture Model,” Sensors,vol.19,no.5, March 2019.   \n[44] N.Li, C. Zhang,Z.Chen, Z. Ma, Z. Sun, et al.,“Crop positioning for robotic intra-row weeding based on machine vision,”International JournalofAgriculturalandBiologicalEngineeing,vol.,no.6, 20-29,December 2015.   \n[45] J.M.Guerrero,J.J.Ruz,and G Pajares,“Crop rows and weeds detection in maize fields applying a computer vision system based on geometry,\" Computers and Electronics in Agriculture,vol. 142,pp. 461-472, November 2017.   \n[46] J.M.Guerrero,M. Guijarro,M.Montalvo,J.Romeo,L.Emmi,et al., “Automaticexpert_system based on images for accuracy crop row detection in maize fields,”Expert Systems with Applications,vol.40,no. 2,pp.656-664,February 2013.   \n[47] B. Southall, T. Hague,J.A. Marchant,and B. F.Buxton，“An autonomous crop treatment robot: Part I.A Kalman filter model for localization and crop/weed classification,”International Journal of Robotics Research,vol.21,no.1,pp.61-74,January 2002.   \n[48] L.Hu,X.Luo,S. Zeng,Z. Zhang,X.Chen, et al.,“Plant recognition and localization for intra-row mechanical weeding device based on machine vision,’Nongye Gongcheng Xuebao/Transactions of the Chinese Society ofAgricultural Engineering,vol.29,no.10,pp.12-18,May 2013.(in Chinese with English abstract)   \n[49] P.Lottes,and C. Stachniss,“Semi-supervised online visual crop and weed classification in precision farming exploiting plant arrangement,\" inIEEE International Conference on Intelligent Robots and Systems, 2017,pp. 5155-5161.   \n[50] M.Dyrmann，H. Karstoft,and H. S.Midtiby，“Plant species classification using deep convolutional neural network,”Biosystems Engineering,vol.151,pp.72-80,November 2016.   \n[51] C.Potena,D.Nardi,and A.Pretto,“Fast and accurate crop and weed identification with summarized train sets for precision agriculture,”in Proceedings of the 14th International Conference on Intelligent Autonomous Systems,2016.   \n[52] Z. Sun,C. Zhang,L.Ge,M. Zhang,W.Li,et al.,“Image Detection Method for Broccoli Seedlings in Field Based on Faster R-CNN,\" Transactions of the Chinese Society for Agricultural Machinery,vol.50, no.7,pp.216-221,July 2019.(in Chinese with English abstract)   \n[53] S.Ren,K.He,R.Girshick,and J. Sun,“Faster R-CNN: towards realtimeobject detectionwith regionproposal networks,” IEEE Transactions on Pattern Analysis and Machine Intelligence,vol.39,no. 6,pp.1137-1149,June 2017.   \n[54] A.Wendel and J.P. Underwood,“Self-supervised weed detection in vegetable crops using ground based hyperspectral imaging,”in 2016 IEEE International Conference on Robotics and Automation,2016.   \n[55]A．Milioto，P.Lottes，and C. Stachniss,“Real-time semantic segmentation of crop and weed for precision agriculture robots leveraging background knowledge in CNNs,”in IEEE International Conference on Robotics and Automation,2018,pp.2229-2235.   \n[56] P.Lottes,J.Behley,A.Milioto,and C.Stachniss,“Fully convolutional networks with sequential information for robust crop and weed detection in precision farming,”IEEE Robotics and Automation Letters,vol.3,no. 4,pp.2870-2877, October 2018.   \n[57] N.Li, X. Zhang, C. Zhang,H. Guo,Z. Sun, et al.,“Real-time crop recognition in transplanted fields with prominent weed growth: a visualatention-basedapproach,”IEEEAccess，2019，EarlyAccess, DOI:10.1109/ACCESS.2019.2942158.   \n[58] C. R. Qi, H. Su, K. Mo,and L. J. Guibas,“PointNet: Deep learming on point sets for 3D classification and segmentation,”in 30th IEEE Conference on_Computer Vision and Patern Recognition, pp. 77-85, November 2017. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

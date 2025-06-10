@@ -1,0 +1,288 @@
+[
+    {
+        "type": "text",
+        "text": "Exact conservation and breaking of pseudospin symmetry in single particle resonant states ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bing-Nan Lu\\*, En-Guang Zhao\\*\\*† and Shan-Gui Zhou\\*,† \\*State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing 100190,China +Center of Theoretical Nuclear Physics, National Laboratory of Heavy Ion Accelerator, Lanzhou 7300, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract.Inthis contribution we presentsome results onthestudyof pseudospin symmetry(PSS)insingle particleresonant states.ThePSS isarelativisticdynamicalsymmetryconnected with thesmallcomponentofthe nucleonDirac wave function. Many efforts have ben made to studythis symmetryin bound states.Werecently gavearigorous justification ofthe PSS in singleparticle resonant states by examining the zerosofJost functions corresponding tothe smallcomponents of theradial Dirac wave functions and phase shiftsof continuum states[1]. We have shownthat thePSS in single particleresonant states in nuclei is conserved when the atractive scalarandrepulsive vector potentials have thesame magnitude butopposite sign. Examplesofexactconservationand breakingof thissymmetryinsingle particleresonances aregivenforsphericalsquare-wel and Woods-Saxon potentials. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Pseudospin symmetry,Resonant states,Dirac equation, Scattering theory PACS:21.10.Pc,21.10.Tg,24.10.Jv,03.65.Nk ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since the concept of pseudospin (PS) was introduced more than 40 years ago [2,3], the pseudospin symmetry (PSs) in single particle states has been an interesting topic in nuclear physics [4,5,6].In1997 it was found that the PSS in nuclei is arelativistic symmetry which is exactly conserved when the scalar and vector potentials have the same size but opposite sign,i.e., $\\Sigma ( r ) \\equiv S ( r ) + V ( r ) = 0$ [7].Later it was shown that the PSS is exact under a less strict condition, $d \\Sigma ( r ) / d r = 0$ [8,9]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "By extending the studyof the PSS to negative energy states,it was found thatthe above mentioned conditions also result in the spin symmetry(SS) inanti-nucleon spectra which is much beter developed thanthePSS in nuclear single particle spectra[10,11]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The SS andPSS have been investigated extensively withinthe relativistic framework includingthePSS in deformed nuclei [12,13,14], the SS for $\\bar { \\Lambda }$ spectra in hyper-nuclei [15,16,17],and these symmetries in various potentials [18, 19,20,21,22,23,24,25,26,27,28,29,30].Thereadersare referred toRef.[31]fora reviewandRefs.[32,33,34, 35,36,37,38,39,40,41,42]forrecentprogresses.In particular,averyextensive overview was giveninRef.42for the study of PSS and SS. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Quite recently,the node structure of radial Dirac wavefunctions in central confining potentials was studied and it was shown ina general way thatit is possble to have positive energy bound solutions for these potentials under the condition of exact PSS [43].Note that there have been some investigations ofPSS connected with some specific forms of confining potentials [44, 45]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years,the study of nuclear single-particle resonant states,especially those in exotic nuclei with unusual $N / Z$ ratios becomes more and more important [46,47,48,49,50,51,52,53,54].There have been some numerical studies on the PSS[55,56,57,58]andSS [59] in single particle resonant states.In arecent work,we have shown that the PSS in single particle resonant states is also exactlyconserved underthe same conditionforthePS in bound states,i.e., $\\Sigma ( r ) = 0$ or $d \\Sigma ( r ) / d r = 0$ [1]. In this contribution we will present some results given in Ref.[1]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JUSTIFICATION OF PSEUDOSPINSYMMETRY IN RESONANT STATES ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We gave a rigorous justification of the PSS in single particle resonant states by examining the asymptotic behaviour of the radial Dirac Wave functions in Ref.[1]; more details willbe given ina future publication [6O].Next webriefly ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "mention the justification of the PSS in single particle resonant states under the condition $\\Sigma ( r ) = 0$ or $d \\Sigma ( r ) / d r = 0$ = In relativistic mean field models,the Dirac equation for a nucleon reads [61, 62, 63] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\pmb { \\alpha } \\cdot \\pmb { p } + \\beta \\left( M + S ( \\pmb { r } ) \\right) + V ( \\pmb { r } ) \\right] \\psi ( \\pmb { r } ) = \\varepsilon \\psi ( \\pmb { r } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\pmb { \\alpha }$ and $\\beta$ are the Dirac matrices and $M$ is the nucleon mass.For a spherical nucleus,the Dirac spinor ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi ( \\pmb { r } ) = \\frac { 1 } { r } \\left( \\begin{array} { c } { i F _ { n \\kappa } ( r ) Y _ { j m } ^ { l } ( \\theta , \\phi ) } \\\\ { - G _ { \\tilde { n } \\kappa } ( r ) Y _ { j m } ^ { \\tilde { l } } ( \\theta , \\phi ) } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { j m } ^ { l } ( \\theta , \\phi )$ is the spin spherical harmonic. $F _ { n \\kappa } ( r ) / r$ and $G _ { \\tilde { n } \\kappa } ( r ) / r$ are the radial wave functions for the upper and lower components with $n$ and $\\tilde { n }$ radial nodes. $\\kappa = ( - 1 ) ^ { j + l + 1 / 2 } ( j + 1 / 2 )$ and $\\tilde { l } = l - \\mathrm { s i g n } ( \\kappa )$ . For brevity we will omit the subscripts from $F ( r )$ and $G ( \\boldsymbol { r } )$ whenever no confusion arises.The radial Dirac equation is a first order coupled equationand can berewriten as two decoupled second order differential ones.For the smallcomponentto which the PSS is directly connected, the second order differential equation reads, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ { \\frac { d ^ { 2 } } { d r ^ { 2 } } } - { \\frac { 1 } { M _ { - } ( r ) } } { \\frac { d \\Sigma ( r ) } { d r } } { \\frac { d } { d r } } - { \\frac { \\tilde { l } ( \\tilde { l } + 1 ) } { r ^ { 2 } } } + { \\frac { 1 } { M _ { - } ( r ) } } { \\frac { \\kappa } { r } } { \\frac { d \\Sigma ( r ) } { d r } } - M _ { + } ( r ) M _ { - } ( r ) \\right] G ( r ) ~ = ~ 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $M _ { + } ( r ) \\equiv M + \\varepsilon - \\Delta ( r )$ and $M _ { - } ( r ) \\equiv M - \\varepsilon + \\Sigma ( r )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the continuum in the Fermi sea, i.e., $\\varepsilon \\geq M$ ,there exist two independent solutions for Eq.(3).The physically acceptable solution is the one that vanishes at the origin and behaves like $j _ { \\tilde { l } } ( p r )$ as $r \\to 0$ [64], ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname * { l i m } _ { r  0 } G ( r ) / j _ { \\tilde { l } } ( p r ) = 1 , p = \\sqrt { \\varepsilon ^ { 2 } - M ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The resonance parameters are connected with the asymptotic behavior of the regular solution as $r \\to \\infty$ . At large $r$ the potentials for neutrons vanish and the wave functions oscilate,Eq. (3)becomes a Ricati-Bessel equation with angular momentum $\\tilde { l }$ and the solution can be written as a combination of the Ricatti-Hankel functions, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ( r ) = \\frac { i } { 2 } [ \\mathcal { J } _ { \\kappa } ^ { G } ( p ) h _ { \\tilde { l } } ^ { - } ( p r ) - \\mathcal { J } _ { \\kappa } ^ { G } ( p ) ^ { * } h _ { \\tilde { l } } ^ { + } ( p r ) ] , r  \\infty ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathcal { J } _ { \\kappa } ^ { G } ( \\boldsymbol { p } )$ is the Jost function for the small component and $h _ { \\tilde { l } } ^ { \\pm } ( p r )$ the Ricatti-Hankel functions. It has been argued that in nuclei the Jost function is an analytic function of $p$ and can be analytically continued to a large area in the complex $p$ plane [1]. The zeros of the Jost function $\\mathcal { J } _ { \\kappa } ^ { G } ( \\boldsymbol { p } )$ on the complex momentum plane correspond to bound states or resonances: The zeros on the positive imaginary axis of the $p$ plane represent bound states of the original eigenvalue problem, while those on the lower $p$ plane and near the real axis correspond to resonant states. The resonance energy $E _ { \\mathrm { r e s } }$ and width $\\Gamma _ { \\mathrm { r e s } }$ are determined by the relation ${ \\cal E } = { \\cal E } _ { \\mathrm { r e s } } - i \\Gamma _ { \\mathrm { r e s } } / 2 = \\sqrt { p ^ { 2 } + M ^ { 2 } }$ . By examining the zeros of the Jost function we studied the bound and resonant states on the same footing [1]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the PSS limit, Eq.(3) is reduced as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\frac { d ^ { 2 } } { d r ^ { 2 } } - \\frac { \\tilde { l } ( \\tilde { l } + 1 ) } { r ^ { 2 } } + ( \\varepsilon - M ) M _ { + } ( r ) \\right] G ( r ) = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the continuum $\\varepsilon$ can be any value $\\geq M$ and one can mainly focus on wave functions and their asymptotic behavior. For PS doublets with different quantum numbers $\\kappa$ and $\\kappa ^ { \\prime }$ with $\\kappa ^ { \\prime } = - \\kappa + 1$ , the small components satisfy the same equation because they have the same pseudo-orbital angular momentum $\\tilde { l }$ [7]. In particular, for continuum states, $G _ { \\kappa } ( \\varepsilon , r ) = G _ { \\kappa ^ { \\prime } } ( \\varepsilon , r )$ for any energy $\\varepsilon$ .Because the definition of the Jost function $\\mathcal { J } _ { \\kappa } ^ { G } ( \\boldsymbol { p } )$ only depends on the asymptotic behavior of the small component, we have $\\mathcal { J } _ { \\kappa ^ { \\prime } } ^ { G } ( p ) = \\mathcal { J } _ { \\kappa } ^ { G } ( p )$ on the positive real axis. This equivalence can be generalized into the complex $p$ plane due to the uniqueness of the analytic continuation. Thus the zeros are the same for $\\mathcal { J } _ { \\kappa ^ { \\prime } } ^ { G } ( \\boldsymbol { p } )$ and $\\mathcal { J } _ { \\kappa } ^ { G } ( \\boldsymbol { p } )$ : If there exists a resonant state with energy $E _ { \\mathrm { r e s } }$ and width $\\Gamma _ { \\mathrm { r e s } }$ and the quantum number （20 $\\kappa$ ,there must be another one with the same energy and width and quantum number $\\kappa ^ { \\prime }$ . That is to say, the PSS in single particle resonant states in nuclei is exactly conserved when the attractive scalar and repulsive vector potentials have the same magnitude but opposite sign [1]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In scatering theories,one can also determine resonance parameters from the change of cross section or phase shift which give us more insights into the resonant phenomena.InRef.[1], thePSS inresonant states has also been studied by examining the phase shift. For simplicity, we do not give the details here. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2db8d1eb3aee17f333739dfe5b68ed1c0b7d42ed5e97c0a9d62bf9b0ebf7490a.jpg",
+        "img_caption": [
+            "FIGURE1.(Color online) The zeros of the Jost function $\\mathcal { J } _ { \\kappa } ^ { G }$ on the complex energy plane in square-well potentials (7) with $C = 0$ (solid symbols) and $C = - 6 6 \\mathrm { M e V }$ (half-filled symbols) for PS partners $h _ { 1 1 / 2 }$ (diamond) and $j _ { 1 3 / 2 }$ (square). The results with Woods-Saxon-like scalar and vector potentials are also shown as open symbols.Take from Ref.[1]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NUMERICAL TEST OF PSEUDOSPIN SYMMETRY IN RESONANT STATES ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For PS doublets ofsingle particle resonant states in nuclei,not only the energies,butalso the widths are exactly the sam in the PSS limit.Similarto what happens inbound states,whenthePSS limit is notrealized,thePSS inresonant states is broken.In Ref.[1] we used a solvable model and the Woods-Saxon potentials to illustrate theconservation and the breaking of the PSS in resonant states. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We considered that $\\Sigma ( r )$ and $\\Delta ( r )$ are both spherical square-well potentials, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Sigma ( r ) = \\left\\{ \\begin{array} { l l } { C , \\quad } & { r < R , } \\\\ { 0 , \\quad } & { r \\geq R , } \\end{array} \\right. \\quad \\Delta ( r ) = \\left\\{ \\begin{array} { l l } { D , \\quad } & { r < R , } \\\\ { 0 , \\quad } & { r \\geq R , } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $C$ and $D$ are constants and $R$ is the width. For $r \\neq R$ ,Eq.(3) reads, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\frac { d ^ { 2 } } { d r ^ { 2 } } - \\frac { \\tilde { l } ( \\tilde { l } + 1 ) } { r ^ { 2 } } - M _ { + } ( r ) M _ { - } ( r ) \\right] G ( r ) = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The regular solution of this equation is just a combination of the Ricatti-Bessel functions, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { G ( r ) } } & { { = } } & { { ( p / k ) ^ { \\tilde { l } + 1 } j _ { \\tilde { l } } ( k r ) , r < R , } } \\\\ { { G ( r ) } } & { { = } } & { { \\displaystyle \\frac { i } { 2 } \\left[ \\mathcal { J } _ { \\kappa } ^ { G } ( p ) h _ { \\tilde { l } } ^ { - } ( p r ) - \\mathcal { J } _ { \\kappa } ^ { G } ( p ) ^ { * } h _ { \\tilde { l } } ^ { + } ( p r ) \\right] , r \\geq R , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with $k = \\sqrt { \\left( \\varepsilon - C - M \\right) \\left( \\varepsilon - D + M \\right) }$ . The coefficient $( \\boldsymbol { p } / \\boldsymbol { k } ) ^ { l + 1 }$ is inserted in accordance with Eq. (4) and $\\hat { j } _ { l } ( z ) \\propto z ^ { l + 1 }$ （20   \nas $z \\to 0$ The Jost function for the small component is derived as [1], ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\mathcal { J } _ { \\kappa } ^ { G } ( p ) } } & { { = } } & { { \\displaystyle - \\frac { p ^ { \\bar { I } } } { 2 i k ^ { \\bar { I } + 1 } } \\left[ j _ { \\bar { I } } ( k R ) p h _ { \\bar { I } } ^ { + \\prime } ( p R ) - k j _ { \\bar { I } } ^ { \\prime } ( k R ) h _ { \\bar { I } } ^ { + } ( p R ) \\right. \\left. - \\frac { C } { \\varepsilon - M - C } \\left( k j _ { \\bar { I } } ^ { \\prime } ( k R ) - \\frac { \\kappa } { R } j _ { \\bar { I } } ( k R ) \\right) h _ { \\bar { I } } ^ { + } ( p R ) \\right] ^ { \\varepsilon } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Jost functions $\\mathcal { J } _ { \\kappa } ^ { G } ( \\boldsymbol { p } )$ and $\\mathcal { J } _ { \\kappa ^ { \\prime } } ^ { G } ( p )$ differ only in the part containing $C$ because they have the same $\\tilde { l }$ Therefore, in the PSS limit, i.e., $C = 0$ ， $\\mathcal { J } _ { \\kappa } ^ { \\tilde { G } } ( p ) = \\mathcal { J } _ { \\kappa ^ { \\prime } } ^ { G } ( p )$ . Consequently the PSS is conserved both in bound states and in resonant states. If $C \\neq 0$ ,the PSS is broken and we can study the PS splitting of the energy and the width for resonant states.Due to the special form of the spherical square-well potentials,the PSS-breaking term is separated from the PSS-conserving term in the Jost function, which makes the studyof the conservation or the breaking ofthe PSS very convenient. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 show_solutions in the complex energy plane for PSS doublets with $\\tilde { l } = 6$ ,i.e., $h _ { 1 1 / 2 }$ with $\\kappa = - 6$ and （204 $j _ { 1 3 / 2 }$ with $\\kappa ^ { \\prime } = 7$ for square-well potentials with $D = 6 5 0 ~ \\mathrm { M e V }$ and $R = 7$ fm [1]. In the PSS limit, i.e., $C = 0$ allte roots locate in the lower half planeand there are no bound states.Theconservation of thePSS for single particle resonant states is clearly seen. When $C = - 6 6 ~ \\mathrm { M e V } _ { \\cdot }$ ,there is one bound state only for $h _ { 1 1 / 2 }$ . Three pairs of PS partners of resonant states are shownby half-filled diamonds and squares.One finds the breaking of the PSS both in the bound states and in the resonant states.For PS doublets with other values of $\\tilde { l }$ ，we observed similar behaviors concerming theexact conservation and the breaking of thePSS.We also studied resonances in Woods-Saxon-like potentials, $W ( r ) = W _ { 0 } / ( 1 + \\exp [ ( r - R ) / a ] )$ $W = V$ or $S$ ） with parameters connected with $^ { 2 0 8 } \\mathrm { { P b } }$ given in Ref. [55]: the depths $V _ { 0 } - S _ { 0 } = 6 5 0 \\mathrm { M e V }$ and $V _ { 0 } + S _ { 0 } = - 6 6 \\mathrm { M e V } ,$ the diffusivity parameter $a = 0 . 6$ fm, and $R = 7$ fm. Resonance parameters are obtained with the real stabilization method [49,50].The results are shown as open diamonds and squares for $h _ { 1 1 / 2 }$ and $j _ { 1 3 / 2 }$ , respectively. It is found that splittings of energy and width both become smaller compared with the results with the square-well potentials. The reason is that the derivative of $\\Sigma ( r )$ is smaller due to a non-zero diffusivity parameter. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SUMMARYANDPERSPECTIVES ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We showed thatthe PSS in single particle bound and resonant states in nuclei can be investigated on the same footing within the relativistic framework by examining the zeros of Jost functions corresponding to small components of nucleon Dirac wave functions.InthePSS limit,i.e.,the atractive scalar and repulsive vector potentials have the same magnitude but opposite sign,small components of PS doublets are exactly the same.Thus Jost functions describing the asymptotic behavior of the radial wavefunctions are identical to each other. When analytically continued to complex momentum plane,the resonant states,showing themselves as zeros ofthe Jost functions,are always paired in the PSs limit, which leads to the exact PSS.The conservationof the PSS in thePSS limit was also justified by examining the phase shift ofcontinuum states.When leavingthe PSS limit,the PSS in resonant states is broken.These conclusions were tested for single particle resonances in spherical square-well and Woods-Saxon potentials. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Finally we would like to mention that the work presented in Ref.[1] and here extends the study of relativistic symmetries to resonant states. There are many related open questions: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "· Are there any experimental evidences of the PSS or SS in single particle resonant states?   \n·Havig in mind that the centrifugal barriers are quite different for PS doublets of single particle resonant states. how to understand intuitively that their widths are exactly the same in the PSS limit?   \n·Is the breaking mechanism ofthe PSS or SS in single particle resonant states the same as that in bound states? ·What about the relations between the wave functions of resonant doublet states?   \n·How about the PSS or SS in resonant states in anti-nucleon or anti-hyperon spectra?   \n·How about the PSS or SS in resonant states in deformed systems?   \n·What is the efect of the Coulomb interaction,for example,for protons,on the PSS or SS symmetries ? ·How about the case that one of the doublet states is bound and the other is in continuum? ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We are working on some of these problems [6O] and many others are awaiting much further exploration. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This work has been supported by Major State Basic Research Development Program of China (Grant No. 2013CB834400),National Natural Science Foundation of China (Grant Nos.1121403,11175252,11120101005, 11211120152,and 11275248), Knowledge Innovation Project of Chinese Academyof Sciences (Grant Nos.KJCX2- EW-N01 and KJCX2-YW-N32).The results described in this paper are obtained on the ScGrid of Supercomputing Center, Computer Network Information Center of Chinese Academy of Sciences. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. B.-N.Lu,E.-G.Zhao,and S.-G. Zhou,Phys.Rev. Lett.109,072501-5 (2012).   \n2. A.Arima,M.Harvey,andK. Shimizu,Phys.Lett.B 30,517-522 (1969).   \n3. K.T.Hecht,and A.Adler,Nucl.Phys.A137,129-143 (1969).   \n4. J.Dudek,W.Nazarewicz,Z. Szymanski,and G.A.Leander,Phys.Rev. Let. 59,1405-1408 (1987).   \n5. C.Bahri,J.P.Draayer,and S.A. Moszkowski,Phys.Rev. Lett. 68,2133-2136 (1992).   \n6. A.L.Blokhin,C.Bahri,and J.P.Draayer,Phys.Rev.Let.74,4149-4152(1995).   \n7. J. N. Ginocchio,Phys. Rev. Lett.78,436-439 (1997).   \n8. J. Meng, K. Sugawara-Tanabe,S.Yamaji,P.Ring,and A. Arima,Phys.Rev. C58,R628-631 (1998).   \n9. J. Meng,K. Sugawara-Tanabe, S. Yamaji,and A. Arima,Phys. Rev. C 59,154-163 (1999).   \n10.S.-G.Zhou,J.Meng,and P.Ring,Phys.Rev.Lett.91,262501-4(2003).   \n11． X. T. He,S.G. Zhou,J. Meng,E.G. Zhao,and W. Scheid,Eur Phys.J. A 28,265-269 (2006).   \n12.G.A.Lalazisis,Y.K.Gambhir,J.P.Maharana, C.S.Warke,andP Ring,Phys.Rev. C58,R45-R48(1998).   \n13.J.N. Ginocchio,A.Leviatan, J. Meng,and S.-G. Zhou, Phys.Rev. C 69,034303-11 (2004).   \n14.M. R. Setare,and Z. Nazari,Acta Phys. Pol. B 41,2459-2470 (2010).   \n15.C.-Y. Song,J.-M. Yao,and J. Meng, Chin. Phys. Lett. 26,122102-3 (2009).   \n16.C.-Y. Song,and J.-M. Yao,Chin. Phys. C34,1425-1427 (2010).   \n17.C.-Y. Song,J.-M. Yao,and J. Meng, Chin. Phys. Lett. 28, 092101-4 (2011).   \n18.F.-L. Zhang,B.Fu,and J.-L. Chen,Phys. Rev. A 78,040101-(2008).   \n19.M.-C.Zhang, G.-Q.Huang-Fu,and B.An,Phys. Scr. 80,065018-(2009).   \n20.H. Akcay,and C.Tezcan,Int.J. Mod.Phys.C 20,930-941 (2009).   \n21.H-W. Ke,Z.Li,J-L.Chen,Y.-B.Ding,and X.-Q.Li,Int.J.Mod.Phys.A25,1123 (2010).   \n22. G.-F.Wei,and S.-H. Dong,Phys.Lett. B 686,288-292 (2010).   \n23.G.-F.Wei,and S.-H.Dong,Eur: Phys. J.A 43,185-190 (2010).   \n24.M.-C. Zhang,and G.-Q.Huang-Fu,J. Math. Phys.52,053518-7 (2011).   \n25.O. Aydogdu,and R. Sever, Phys. Lett. B 703,379-385 (2011).   \n26.W.-L. Chen,and G.-F.Wei, Chinese Physics B 20,062101-(2011). ISSN 1674-1056,   \n27.S.Ikhdair,and M. Hamzavi,Few-Body Syst.53,473-486 (2012).   \n28．M.Hamzavi, S.M.Ikhdair,and K.-E.Thylwe,Int.J.Mod.Phys.E21,1250097 (2012).   \n29．N.Candemir,Int.J.Mod.Phys.E21,1250060-10 (2012).   \n30.O.Aydogdu,E.Maghsoodi,and H. Hassan, Chinese Physics B22,00302 (2013).   \n31．J.N. Ginocchio,Phys. Rep.414,165-261 (2005).   \n32． S. Typel, Nucl.Phys.A 806,156-178 (2008).   \n33．A.Leviatan,Phys.Rev.Lett.103,042502-4 (2009).   \n34.W.H.Long,P.Ring,J.Meng,N.Van Giai,and C.A.Bertulani,Phys. Rev. C81,O31302(R)-5 (2010).   \n35.R.Lisboa,M.Malheiro,P.Alberto,M.Fiolhais,and A. S.de Castro,Phys.Rev. C81,064324-8 (2010).   \n36.F.-Q.Li,P.-W. Zhao,and H.-Z.Liang, Chin.Phys. C 35,825 (2011).   \n37.H.Liang,W.Hui Long,J. Meng,and N. Van Giai,Eur Phys.J.A 44,119-124 (2010).   \n38.H.Liang,P. Zhao, Y. Zhang, J. Meng, and N. V. Giai, Phys. Rev. C 83, 041301(R)-5 (2011).   \n39.J-Y. Guo, Phys. Rev. C85,021302(R)-5 (2012).   \n40．L.B.Castro,Phys.Rev.C 86,052201-4 (2012).   \n41.A. S. de Castro,and P. Alberto, Phys. Rev. A 86,032122-7 (2012).   \n42.H.Liang,S.Shen,P.Zhao,and J.Meng,Phys. Rev. C87,014334-13 (2013).   \n43.P.Alberto,A.S.deCastro,and M.Malheiro,Spinand pseudospin symmetries ofthedirac equation withconfiningcentral   \npotentials,arXiv:1302.2067 [nucl-th] (2013).   \n44.T.-S. Chen,H.-F.Lu,J. Meng,S.-Q. Zhang,and S.-G.Zhou,Chin.Phys.Lett20,358-361 (2003).   \n45．T.-S.Chen,H.-F.Lu,J. Meng,and S.-G.Zhou,High Ener: Phys.Nucl. Phys.27,324-327 (2003).   \n46.S.-C. Yang,J.Meng,and S.-G. Zhou, Chin. Phys. Lett.18,196-198 (2001).   \n47. S.-Q. Zhang, J. Meng,and S.-G. Zhou, Sci. China G 46,632-658 (2003).   \n48.S. S.Zhang,J.Meng,S.G. Zhou,and G. C.Hillhouse,Phys. Rev. C 70,034308-8 (2004).   \n49.L.Zhang, S.-G. Zhou,J. Meng,and E.-G. Zhao,Phys. Rev. C77,014312-6 (2008).   \n50.S.-G. Zhou,J. Meng,and E.-G. Zhao,J. Phys.B: At. Mol. Phys. 42,245001-5 (2009).   \n51.D.Fedorov,A.Jensen,M.Thogersen,E.Garrido,and R.de Diego,Few-Body Syst. 45,191-195 (2009).   \n52.J-Y Guo,X.-Z.Fang,P.Jiao,J.Wang,and B.-M. Yao,Phys.Rev C82,034318-8(2010).   \n53.S.-G. Zhou,J. Meng,P. Ring,and E.-G. Zhao,Phys. Rev. C82,011301(R)-5 (2010).   \n54.J. C. Pei, A. T. Kruppa,and W. Nazarewicz, Phys. Rev. C84, 024311-11 (2011).   \n55.J.-Y. Guo, R.-D. Wang, and X.-Z. Fang, Phys. Rev. C72, 054319-8 (2005).   \n56.J.Y.Guo,and X.Z.Fang,Phys. Rev. C74, 024320-8 (2006).   \n57.S.-S.Zhang,W.Zhang,B.-H.Sun,J.-Y.Guo,andS.-G.Zhou,High Ener Phys.Nucl.Phys.30(S2),97-99 (2006).   \n58.S.-S.Zhang,B.-H. Sun,and S.-G. Zhou, Chin. Phys. Lett.24,1199-1202 (2007).   \n59.Q. Xu,and J.-Y.Guo,Int. J. Mod. Phys.E21,1250096 (2012).   \n60.B.-N. Lu,E.-G. Zhao,and S.-G. Zhou, in preparation.   \n61．P.Ring,Prog. Part. Nucl. Phys.37,193-263 (1996).   \n62.D.Vretenar,A. Afanasjev, G.Lalazissis,and P.Ring,Phys. Rep. 409,101-259 (2005).   \n63.J. Meng,H.Toki,S.G. Zhou,S.Q. Zhang,W.H.Long,andL.S.Geng,Prog.Part. Nucl.Phys.57,470-563 (2006).   \n64.J.R.Taylor,Scatering Theory:TheQuantum TheoryonNon-relativisticCollsions,John-Wiley&Sons,Inc.,New York,   \n1972. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

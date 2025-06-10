@@ -1,0 +1,534 @@
+[
+    {
+        "type": "text",
+        "text": "Assessment of influences of cooking on cadmium and arsenic bioaccessibility in rice using in vitro physiologically based extraction test ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ping Zhuang1,2, Chaosheng Zhang³, Yingwen Li1², Bi Zou1², Hui $\\mathbf { M o } ^ { 1 }$ , Kejun Wu1,2, Jingtao Wu1,2, Zhian Li1,2\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 South China Botanical Garden, Chinese Academy of Sciences, Guangzhou 51O650, China ² Key Laboratory of Vegetation Restoration and Management of Degraded Ecosystems, South China Botanical Garden, Chinese Academy of Sciences, Guangzhou 510650, China 3 GIS Centre, Ryan Institute and School of Geography and Archaeology, National University of Ireland, Galway, Ireland ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E-mail addresses: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "zhuangp@scbg.ac.cnv (Ping Zhuang), chaosheng.zhang@nuigalway.ie (Chaosheng Zhang), Liyw@scbg.ac.cn (Yingwen Li), Zoubi@scbg.ac.cn (Bi Zou), Mohui@scbg.ac.cn (Hui Mo), wkj966516@scbg.ac.cn (Kejun Wu), Wujt@scbg.ac.cn (Jingtao Wu), lizan@scbg.ac.cn (Zhian Li) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Prof. Zhian Li, Email: lizan@scbg.ac.cn; phone: +86-20-37252631, Fax: +86-20-37252631. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The health risks associated with the consumption of rice may decrease if consumers use cooking practices which can reduce the concentrations of metal(loid)s and their bioaccessibility. The effects of cooking on the bioaccessibility of Cd and As in three contamination levels of rice were studied.The results indicated that cooking reduced bioaccessibility of Cd and As in rice. Cooking resulted in a significant increase in Cd and As concentrations in the residual fraction. Low volume cooking rice to dryness remove total Cd by about $10 \\%$ for rice A and B, while middle or high volume water had no efect on Cd bioaccessibility in all rice types. In contrast, low volume cooking did not remove As, but a significant decrease was observed when cooking with middle or high volume water. This study provides information for a better understanding of more realistic estimation of metal(loid)s exposure from rice and the possible health risks. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Human exposure; Risk assessment; PBET; In vitro method; Established daily intake (EDI); Target hazard quotient (THQ) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There is a growing concern about metal(loid) pollution in rice, since dietary intake is considered one of the major routes of metal(loid) exposure to human (Sohn, 2014; Zhuang, Lu, Li, Zou,& McBride, 2O14). Rice, used as staple food for half of the world population, is highly efficient in cadmium (Cd) and arsenic (As) accumulation and soil-to-rice transfer compared with other cereal crops.It has been identified as a significant contributor to dietary Cd and As intake in a number of geographical areas including China, Japan, Bangladesh, and India (Bae et al., 2002; Sun, de Wiele,Alava, Tack,& Laing,2012a). For examples, the most notorious case of Cd poisoning through food is the itai-itai disease in Japan in the 196Os which was caused by the consumption of Cd-contaminated rice (Kobayashi, 1978). The problem of contaminated rice is not unique in Asia,but also all round the world, e.g. high levels of As were found in rice sold in the US in 2012 (CR, 2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In general, the total amount of heavy metals in rice is commonly used as the measurement for heavy metal contamination in food matrices (Zhuang, McBride, Xia, Li, & Li, 2009). However, this concentration does not always reflect the actual level of heavy metals that is available to the consumer. Horiguchi et al. (2Oo4) suggested that the ingested dose of heavy metals is not equal to the absorbed pollutant dose in reality，as a fraction of the ingested heavy metals may be excreted， with the remainder accumulated in body tissues where they afect human health. Understanding bioavailability of heavy metals in rice is helpful to estimate the amount of heavy metals which can be absorbed by human body. Thus,there is a need to determine the oral bioaccessibility of heavy metals in rice. Oral bioaccessibility is defined as the fraction of contaminant that is released from the food matrix into the digestive juice chime and becomes available for absorption, i.e., enters the blood stream (Oomen et al. 20o2); therefore is used as an indicator of maximal oral bioavailability of the contaminant in food (Versantvoort, Oomen, Kamp,Rompelberg,& Sips, 2Oo5). In recent years, several in vitro digestion models have been proposed and extensively used to study the bioaccessibility and risk assessment of contaminants (e.g.heavy metals,organic pollutants，mycotoxins etc.） from food， soils, toys，and herbal medicine (Oomen et al., 2002; Rompelberg, & Sips,2005; Versantvoort, Oomen, Kamp, Wang, Duan,& Teng,2014). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "With regard to bioaccessbility of heavy metals in food items,various static in vitro models have been used to determine As bioaccessibility or bioavailibility from rice (Laparra, Vélez, Barbera, Farre,& Montoro, 2005； Signes-Pastor, Al-Rmalli, Jenkins, Carbonell-Barrachina,& Haris，20l2)，mushroom (Llorente-Mirandes Llorens-Munoz, Funes-Collado， Sahuquillo，& L6pez-Sanchez, 2016; Sun, Liu, Yang,& Zhuang,2012b) and seafood. For Cd bioaccessibility, a limited number of studies have been conducted, mostly focusing on vegetables (Intawongse, & Dean, et al., 2008; Pelfrene et al.,2015) and seafood products (Houlbreque et al., 2011). There is a lack of data on the bioaccessibility of Cd in rice,with only a few studies (Aziz et al., 2015; Yang et al.，et al.， 2014) based on in vitro digestion. This highlights the importance of performing more bioaccessibility studies of Cd and As in rice to improve the risk assessment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Food is generally subjected to cooking prior to consumption in order to increase the palatability of the product. In comparison to raw rice, cooked rice is better in studies of human health risks as the sample must be on the basis of being ingested by customers so that risk assessment reflects the real situation of human exposure (Devesa, Velez,& Montoro,2008). Numerous studies have been performed to examine the effects of common food processing procedures on the levels of heavy metals in food. It is known that cooking process may, under certain condition, alter the concentration or speciation of contaminants in food matrices (Wang, ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Duan,& Teng, 2014), such as seafood (Houlbreque et al., 2011), vegetables (Pelfréne et al., 2015), rice (Naseri, Rahmanikhah, Beiygloo,& Ranjbar, 2014), mushroom (Llorente-Mirandes Llorens-Munoz, Funes-Collado, Sahuquillo,& Lopez-Sanchez, 2016). This hypothetical change depends upon cooking conditions (time, temperature,and medium of cooking). Litte is known about the effects of rice cooking on the bioaccessibility of Cd and its human health risk due to Cd exposure from rice intake. The information of the effects of the rice-processing or preparation methods on contaminants especially Cd remains scarce. There is an urgent need to consider the influence of cooking when evaluating the risks associated with the consumption of rice based on the bioaccessibility of Cd and As. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The main objective of the present study was (1) to measure the bioaccessibility of Cd and As concentrations in raw rice samples of three different contamination levels based on in vitro digestion and to determine the relationship between Cd and As bioaccessibility and total concentration; (2） to study the influences of cooking on Cd and As bioaccessibility and the extent of Cd and As removal by cooking of rice in different volume of water; (3) to determine human health risks based on the bioaccessible Cd and As concentrations from the different contamination levels of cooked rice via the ingestion pathway. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1. Sampling and cooking methods ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Rice (long-grain) used in the current study is known to be widely consumed by the people from southern China. Three levels of rice contamination were selected in this study: O-0.2 (rice A; low Cd level, purchased from several public supermarkets in southern China), 0.2-1.5 (rice B; medium Cd level, purchased from local markets around a mining area),1.5-5 (rice C; high Cd level, grown in a laboratory) mg of Cd per kg of rice. In the laboratory, the soil was spiked with a considerable amount of Cd,and the rice plants were grown for 120 d before harvest. The three types of rice samples were simply washed three times with double distilled deionized (Milli-Q) water at room temperature. In all cooking experiments, the weight used was $\\boldsymbol { 1 0 0 } \\ \\mathrm { g }$ .The washed rice was cooked in an acid washed beaker for $3 0 ~ \\mathrm { { m i n } }$ with $2 0 0 ~ \\mathrm { m L }$ of double distilled deionized Water, which was subject to $2 : 1$ (low volume) water to rice (weight) cooking until no water left. In China, rice is generally cooked with aliquots of water in order to absorb it all. In the experiment on effects of cooking water, the washed rice samples were subject to 4:1 (middle volume) and 6:1 (high volume) water : rice cooking, where the rice was cooked to the texture for eating. In this method of cooking, the water remaining after cooking (gruel) was discarded. A portion of this gruel and cooked rice were freeze dried and kept for Cd and As determination. The cooked rice samples were dried to constant weight, milled to a fine powder, and then stored at $4 ~ { } ^ { \\circ } \\mathrm { C }$ until analysis. Concentrations of Cd and As in raw/cooked rice and cooking water were also determined. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2. In vitro evaluation of bioaccessibility ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The physiologically based extraction test (PBET) method was modified from the previously described method (Intawongse,& Dean, 2008; Ruby et al., 1993). The gastric stage was carried out using $0 . 5 \\mathrm { \\ g }$ of raw or cooked rice samples in a $1 0 0 ~ \\mathrm { m L }$ screw-cap Sarstedt tube in which $5 0 ~ \\mathrm { m L }$ of freshly prepared gastric solution was added. The gastric solution contained $1 . 2 5 \\ \\mathrm { g } \\mathrm { L } ^ { - 1 }$ pepsin, $0 . 5 0 \\ \\mathrm { g } \\mathrm { L } ^ { - 1 }$ citric acid, $0 . 5 0 \\ \\mathrm { g } \\mathrm { L } ^ { - 1 }$ maleic acid, $4 2 0 ~ \\mu \\mathrm { l } ~ \\mathrm { L } ^ { - 1 }$ DL-lactic acid and $5 0 0 \\mu \\mathrm { l } \\mathrm { L } ^ { - 1 }$ acetic acid dissolved in water, and the $\\mathsf { p H }$ was adjusted to 1.5 with HCl. The mixture was incubated at $3 7 ^ { \\circ } \\mathrm { C }$ with orbital-horizontal shaking at $1 5 0 ~ \\mathrm { r p m }$ for $6 0 \\mathrm { m i n }$ . Then the solution was centrifuged at $3 0 0 0 \\ \\mathrm { r p m }$ for $1 0 \\ \\mathrm { m i n }$ and a $5 ~ \\mathrm { m L }$ aliquot was collected from the solution and filtered through a $0 . 4 5 ~ { \\mu \\mathrm { m } }$ filter disk for analysis. Five millilitres of the original gastric solution was then back-flushed through the filter into the sample tube to retain the original solid: solution ratio. In the gastrointestinal stage, the amounts of $5 2 . 5 ~ \\mathrm { m g }$ bile salts and $1 5 ~ \\mathrm { m g }$ pancreatin were added in the sample tube and the pH of the mixture was raised to $\\mathsf { p H } 7$ with saturated ${ \\mathrm { N a H C O } } _ { 3 }$ The samples were incubated at $1 5 0 \\mathrm { r p m }$ in a thermostatic bath maintained at $3 7 ^ { \\circ } \\mathrm { C }$ for additional $2 \\mathrm { h }$ ,then a second $5 . 0 \\mathrm { m L }$ aliquot was collected and filtered. The extracts were kept at $4 ^ { \\circ } \\mathrm { C }$ until analysis. The resultant sample residue (residual fraction) was further digested by aqua regia as described by Intawongse and Dean (2008). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.Determination of Cd and As ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rice samples $( 0 . 5 \\ \\mathrm { g } )$ were predigested overnight with $5 \\mathrm { m L }$ of nitric acid in $5 0 ~ \\mathrm { m L }$ centrifuge tubes at room temperature. Then this solution was heated in a microwave oven (Anton-Paar PE Multiwave 30oo). Duplicate analyses were performed for quality control. Reagent blanks and standard reference rice samples(GBW10010 (GSB-1） and GBW10045 （GSB-3)） were also included in each batch. The recovery rates of heavy metals in standard reference rice samples ranged from $93 \\%$ to $10 8 \\%$ . The heavy metal concentrations of rice samples and rice extracts were analyzed with an inductively coupled plasma - mass spectrometer (ICP-MS) (Agilent 7700x,Agilent Scientific Technology Ltd., USA). Blank and drift standards were run after three determinations to calibrate the instrument. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4. Data analysis ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The bioaccessibility $( \\% )$ of Cd and As were calculated as a percentage and calculated per digestion using the following equation (Oomen et al., 2002): Bioaccessibility $( \\% ) = \\times 1 0 0$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to evaluate a once- or long-term potential hazardous exposure to Cd and As via ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "consumption of rice by the consumers,the established daily intake (EDI),and target hazard quotient (THQ) for Cd and As based on the bioaccessibility data (Zhuang, McBride, Xia, Li, & Li, 2009) were calculated using the following equations, respectively: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\mathrm { E D I } = } } \\\\ { { \\ } } \\\\ { { \\mathrm { T H Q } = \\times 1 0 ^ { - 3 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where RC is daily rice consumption (g person ${ } ^ { - 1 } \\mathbf { d } ^ { - 1 }$ ),BC is bioaccessible concentrations of metals in ingestion，BW is average body weight ( $\\mathrm { 6 0 ~ k g }$ for adults and $3 2 . 5 ~ \\mathrm { k g }$ for children)，ED represents the exposure duration (70 years), EF is exposure frequency (365 days per year), AT is average time for noncarcinogens (365 days year-1 $\\times$ number of exposure years, assuming 70 years in this study), $1 0 ^ { - 3 }$ is the unit conversion factor, and RfD represents corresponding oral reference dose (l and $0 . 3 ~ { \\mu \\mathrm { g } } ~ \\mathrm { k g ^ { - 1 } } ~ \\mathrm { d a y ^ { - 1 } }$ for Cd and As, respectively), as suggested by USEPA (2010). Rice consumption of $3 8 9 \\ \\mathrm { g \\ d ^ { - 1 } }$ for adult and $2 7 7 \\ \\mathrm { g \\ d ^ { - 1 } }$ for children was taken from Wang (2005). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5. Statistical analyses ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "All statistical analyses were performed using SPSS software (Ver 18.0; SPSS, Chicago, IL, USA) and Excel 2013.All data were reported as the mean or mean with standard deviation (SD) from several samples of each type of rice. The means were considered to be significantly different if p values were $< 0 . 0 5$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3 Results and discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1. Concentrations of Cd and As in raw and cooked rice ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The total Cd and As concentrations are listed in Table 1 for the three rice types with different levels of contamination. All the selected rice samples from the mining area and the laboratory were contaminated by Cd, exceeding the maximum allowable concentration of $0 . 2 \\ \\mathrm { m g \\ k g ^ { - 1 } \\Omega } .$ Cd in rice established by China (MHPRC, 2012). With respect to the raw rice A purchased from markets in southern China, Cd concentrations in about $30 \\%$ the rice samples were above the maximum allowable value, suggesting that this rice type could be a potential contributor to dietary Cd exposure in the population with a high intake of rice. The average As values in raw rice A and B were below the maximum allowable value of $0 . 2 ~ \\mathrm { m g ~ k g ^ { - 1 } }$ established by both the Joint FAO/WHO Expert Committee on Food Additives (JECFA, 2014) and China (MHPRC, 2012). Compared with the values recorded by Fang et al. (2014), the concentrations of Cd and As in rice collected from the market in the present study are in the range found in rice sampled from public markets from southern China. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The effects of cooking by Chinese traditional method (water : rice $2 : 1 \\cdot$ ） on Cd and As concentrations were evaluated for three contamination levels of rice,and the results are shown in Table 1. Cooking caused significant changes of Cd in rice A and B, with a decrease of around $10 \\%$ in the cooked rice in comparison to the corresponding raw rice. However, for rice C with a high contamination level, low volume cooking did not cause a significant difference. Naseri, Rahmanikhah, Beiygloo,& Ranjbar (2O14) reported that cooking can reduce the concentration of Cd in rice grains. Yet， Wang,Duan,& Teng (2014） reported that there are no statistical differences of Cd concentration in microwave-cooked and raw rice. Our results were in agreement with other studies.For example, it have been reported that cooking decreased Cd concentration in Agaricus blazei Murill (Sun, Liu, Yang,& Zhuang, 2O12b) and in seafood (Atta et al.,1997). However, another study reported that cooking resulted in an increase in total Cd concentration in Chilean mussels (Houlbreque et al., 2O11). It was possible that the Cd decrease with cooking may be related to the solubilization of Cd in the leaching water because Cd is usually bound with proteins, and thermal treatment could enhance protein degradation resulting in and release of Cd with water as free salts, soluble amino acids,and uncoagulated protein (Perelló, Marti-Cid, Llobet, & Domingo, 2008). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Cooking slightly decreased As concentration by about $3 . 5 \\%$ in all rice types analyzed in comparison to the raw rice. Our results were similar to several previous studies (Laparra, Velez, Barbera, Farre,& Montoro, 2005; Sengupta et al., 2006; Sun, de Wiele, Alava, Tack,& Laing, 2012a), which reported that cooking rice to dryness could not remove As in rice. With respect to As concentration in other foodstuff, previous studies have suggested that high percentages of As were released from food into the cooking water, e.g. mushroom (Llorente-Mirandes LlorensMunoz, Funes-Collado, Sahuquillo,& López-Sanchez, 2016), mussel (Houlbreque et al., 2011), but some studies observed increases in total As concentrations in some products cooked with contaminated water (Signes-Pastor, Al-Rmali, Jenkins, Carbonell-Barrachina,& Haris, 2012). These studies revealed a reduction of heavy metal(loid)s using cooking process depending on cooking conditions (e.g. time, medium of cooking, temperature, etc.). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.Bioaccessibility of Cd and As in rice ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.1.Bioaccessibility of Cd and As in raw rice ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The oral bioaccessible concentrations of Cd and As measured in the gastric and gastrointestinal fractions for raw rice defined by the in vitro PBET methods are presented in Fig. 1. Significant differences $( \\mathtt { p } < 0 . 0 5 )$ ） were found in Cd and As concentrations in gastric and gastrointestinal extracts depending on the type of rice analyzed with different contamination levels. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The bioaccessibility of Cd varied between $68 \\%$ and $87 \\%$ in the gastric fraction, with the highest in rice C and the lowest in rice A (Fig. 1). The results here were higher than the bioaccessibility of Cd $( 1 6 . 9 \\% )$ from uncooked rice reported by Yang et al. (2012). Compared with the values recorded in raw vegetables by Pelfrene et al. (2O15), the bioaccessbility values for the gastric and gastrointestinal fractions were lower or similar, in which Cd bioaccessbility varied from 81 to $89 \\%$ in the gastric phase and from 63 to $72 \\%$ in the gastrointestinal phase. Amiard et al. (2008) found the median Cd bioaccessibility in commercial shellfish was $54 \\%$ .The high percentages of bioaccessibility were observed during in vitro digestion could be explained by the fact that most Cd accumulates in the vacuoles of plant cells, except what is absorbed by the cell wall, so Cd is easily released from plant tissues (Fu,& Cui, 2013; Hall, 2002). In the gastric phase, it has been claimed that most Cd was dissolved by enzymes and a portion was still absorbed into plant tissues (Hur, Lim, Decker,& McClements, 2011). In raw rice, the present results showed Cd bioaccessibility in the gastrointestinal fractions was significantly lower than that in the gastric fractions, which was in line with the literature (Fu,& Cui, 2O13; Intawongse and Dean, 2008; Pelfréne et al., 2O15). This may be atributed to the increase in pH and the addition of organic components such as bile extract and pancreat in the gastrointestinal phase. At the typical pH level of the gastrointestinal phase,the increase in pH (from 1.5 in the gastric phase to 7.0 in the gastrointestinal phase) might produce precipitation and/or resorption of part of the solubilized Cd (Mounicou, Szpunar，Andrey，Blake,& Lobinski, 2002） or Cd may form insoluble complexes with the phytate that present in the human diet (Versantvoort, Oomen, Kamp,Rompelberg,& Sips,2005). When the concentration of Cd in rice was increased from the low level (rice A） to the middle level (rice B), there was a significant increase in Cd bioaccessibility in raw rice; but no difference was observed between the middle level (rice B) and the high level (rice C). It is reasonable to assume that bioaccessibility of Cd in rice is highly dependent on the sample,but the excessive levels of Cd could not be released from the rice matric fully or be converted into the insoluble form. More specifically, the Cd percentage left in the residual fraction was $14 \\%$ of the total amount in rice A, B and C, which was in the range of values from several vegetables measured by Intawongse and Dean (2008). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "C,respectively (Fig. 1). The different rice types had significant differences in bioaccessbility of As. In the literature, bioaccessibility values ranging from approximately $50 \\%$ to $100 \\%$ have been reported for As on rice (Signes-Pastor,Al-Rmalli, Jenkins, Carbonell-Barrachina,& Haris, 2012; Sun, de Wiele, Alava, Tack, & Laing, 2012a) and $6 3 - 9 9 \\%$ for inorganic As in rice (Laparra, Vélez，Barbera， Farré，& Montoro，2O05； Signes-Pastor，Al-Rmalli， Jenkins，CarbonellBarrachina,& Haris, 2O12). In raw rice, an increase in As bioaccessibility was observed when comparing gastric fractions with gastrointestinal fractions. This increase was statistically significant $( \\mathtt { p } < 0 . 0 5 )$ when bioaccessibility values for the gastric and gastrointestinal fractions from rice A and rice B. However, this was different for rice C, with no significant differences between bioaccessibility values in the gastric and gastrointestinal fractions $( \\mathtt { p } > 0 . 0 5 )$ . In $2 \\textrm { h }$ of intestinal digestion, the bioaccessible As fraction significantly increased up to $7 5 \\%$ for rice A, （204 $92 \\%$ for rice B and $96 \\%$ for rice C (Fig. 1). It is likely that some enzyme from the pancreas and bile contained in the simulated intestinal juices are involved in the breakdown of polysaccharides into monosaccharide and in cleaving denaturalized proteins further into free amino acids and small peptides having a chain length of 2-6 amino acid residues. This makes these compounds more amenable to intestinal absorption (Sun, de Wiele, Alava, Tack,& Laing, 2012a). These processes could further release the protein-bound As, thereby increasing the As bioaccessibility (Sun, de Wiele, Alava, Tack,& Laing, 2012a). More specifically, the percentage of As in the gastrointestinal phase is much higher than that of Cd. These findings further indicated that the gastrointestinal phase plays an important role in the solubilisation of As during the ingestion process.The small concentration of As that remained in the residual fraction was 3- $14 \\%$ of the total As in raw rice, with the highest in rice B. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2.2.Bioaccessibility of Cd and As in cooked rice ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The oral bioaccessible concentrations of Cd and As measured in the gastric and gastrointestinal fractions defined by the in vitro PBET method are shown in Fig.2 for the three contamination levels of cooked rice. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Compared to the data for raw rice, cooking significantly decreased the Cd bioaccessibility in rice B and C with high Cd level in the gastric and gastrointestinal phases, while there is no or slight effect on the bioaccessibility of Cd of rice A with low Cd level in the three phases. This result was in consistent with previous studies that cooking significantly decreased the Cd bioaccessibility in various food matrices (Wang, Duan,& Teng, 2014), shelfish (Amiard et al., 2008)，Agaricus blazei murill (Sun, Liu, Yang,& Zhuang， 2O12b） and Chilean mussels (Houlbreque et al.，2011). This may be explained that the heating process destroyed tissues thoroughly and led to more adsorption during the ingestion process and lower the metal bioaccessbility. The represent results showed the cooking treatment widened the gap between bioaccesibility in the gastric and intestinal phases (Fig. 2), which may be related to that heating can reduce plant digestibility (Savoie, Charbonneau, & Parent, 1989) and some functional groups such as lysine,methionine,phenylalanine,histidine and cystine have an affnity for metal ions (Chou, & Shen,2O07). The bioaccessibility of Cd in cooked rice varies from $70 \\% - 7 4 \\%$ in gastric extraction, and $41 \\% - 4 6 \\%$ in gastrointestinal phase (Fig. 2). Wang, Duan, & Teng (2014) reported the similar Cd bioaccessibility in cooked rice of $74 \\%$ . Although the total Cd concentration in the three rice types changed drastically， the Cd bioaccessibility percentage remained relatively constant $( 7 0 \\% - 7 4 \\% )$ ！ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Arsenic bioaccessibility in three cooked rice types varied from $3 8 \\%$ to $67 \\%$ and $72 \\%$ to $80 \\%$ for gastric and gastrointestinal fractions, respectively (Fig. 2). The average As bioaccessibility (ranged between $5 5 \\%$ and $71 \\%$ of two phases） in the three types of cooked rice in our investigation was similar to the values reported by Sun, de Wiele, Alava, Tack,& Laing (2012a) and lower than those reported in studies of Laparra, Vélez, Barbera,Farré,& Montoro (2005) and Signes-Pastor, Al-Rmalli, Jenkins, Carbonell-Barrachina,& Haris (20l2). However, it needs to be noted that the latter studies focused on As bioaccessibility from rice that was cooked with As-contaminated water. Trenary et al. (2O12) reported the mean total As bioaccessibility for 17 rice samples was $61 \\%$ (range $45 \\text{‰}$ ） measured using an in vitro synthetic gastrointestinal extraction protocol. However, some studies reported that cooking long grain white rice does not affect the bioaccessibility of As (Horner, & Beauchemin, 2013). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In the residual fraction, cooking highly increased Cd and As bioaccessibility in residual phase; $22 \\%$ ， $2 9 \\%$ and $41 \\%$ for $\\mathrm { C d }$ and $40 \\%$ ， $47 \\%$ and $38 \\%$ for As in rice A,B and C was recovered,respectively (Fig. 2). In our opinion, this is probably due to the fact that cooking reduces bioaccessibility of Cd and As through binding of metals to other compounds and forming unbioaccessble complexes in the residual fraction. To date and to the best of our knowledge, there are only a few studies on the residual fraction of metals during the in vitro digestion (Intawongse,& Dean, 2Oo8), in which it was found that the Cd concentration in the residual phase in several raw vegetables ranged between $16 \\%$ and $3 8 \\%$ . The insoluble residue from cocoa samples after the gastrointestinal phase was further extracted by Mounicou, Szpunar, Andrey, Blake,& Lobinski (2oo2),and an additional 20 or $30 \\%$ of Cd could be recovered by phytase and cellulose， respectively. Interestingly, it was unexpectedly found that after the cooking process, bioaccessible As concentration in residual fraction in rice C were significant higher $( \\mathtt { p } < 0 . 0 5 )$ ） than those in both gastric and gastrointestinal phases. These portion of insoluble Cd or As in residual fraction might be bound to some total dietary fibre constituents such as microfibers of crystalline cellulose that are difficult to destroy (Mounicou, Szpunar, Andrey, Blake,& Lobinski, 20o2). We supposed that excessive Cd in this in vitro method could not be extracted completely by simulated gastric and intestinal juice. It is likely that Cd could bind some components into strong complexes that are insoluble in the gastrointestinal lumen. It is clear, thus,that more researches should be performed on the residual fraction for a beter understanding of the metal distribution during the digestion process. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In general, the level of contamination in the food matrix has been considered as one of the factors afecting the bioaccessibility. A dose proportional relationship between contamination level and bioaccessbility/bioavailability is taken as a basic assumption in risk assessment. In the present study, positive relation ( $( \\mathtt { p } < 0 . 0 5 )$ was observed between the Cd bioaccessibility in both gastric and gastrointestinal phases and the increasing total Cd concentration in three raw rice types (Fig. 3). High contamination level in raw rice could explain a large proportion of variance in the predicted bioaccessibility levels $( \\mathrm { R } ^ { 2 } \\ = \\ 0 . 9 8 )$ ．A similar relationship has been found between the contamination level and bioaccessibility of Cd in raw rice (with $\\mathrm { R } ^ { 2 }$ ranged 0.91 from 0.95 in bioaccessible fraction) by Yang et al. (2012) and in vegetables (with $\\mathrm { R } ^ { 2 }$ of 0.99 in the gastric and gastrointestinal phases) by Pelfrene et al (2O15). More specifically, linear regression in Fig. 3 showed a statistically significant relationship $( \\mathbf { p } ~ < ~ 0 . 0 1 )$ ）between rice total As concentration and the percent of bioaccessible As following the gastric and gastrointestinal phases in raw rice, implying that the As bioaccessibility is concentration dependent. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.3.Bioaccessibility of Cd and As in cooked rice with different water to rice ratio Litle is known about the leaching of Cd and As from cooked rice prior to consumption, especially Cd. In general, there are two preparation methods used for cooking rice: (1） rice is cooked with excessve water and the water remaining is discarded; (2） rice is cooked with aliquots of water in order to absorb it all.The bioaccessibility of Cd and As in cooked rice with three different water to rice ratios $( 2 : 1 , 4 : 1$ and $6 : 1$ ) are presented in Fig. 4. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "There were no significant differences on the Cd bioaccessibility in al cooked rice types. The bioasscessibilities of Cd were reduced to a mean of $4 6 \\mathrm { - } 6 1 \\%$ of total Cd in all different levels of cooked rice (Fig. 4). It showed that the variation recorded among low, middle and high volume cooking were $5 \\%$ in Cd bioaccessibility for the three rice types. These results indicate that a very low percentage of Cd could be leached into the boiling water during the cooking treatment and abundant cooking water tended not to change bioaccessible Cd in different contamination levels of rice.To date，no previous data on Cd bioaccessibility reduction in different contamination levels of rice subjected to cooking treatments have been reported in the literature, therefore the results obtained in this study cannot be compared. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "It was found in the present study that cooking rice in a large volume of water (water : rice 6 : 1） had the greatest effect in reducing As levels in cooked rice. The trends of average bioaccessibility of As in cooked rice A, B and C were in order of $2 : 1 > 4 : 1 > 6 : 1$ . Cooking rice to dryness in a $2 : 1$ water : rice ratio, for all contamination levels of rice, resulted in the least loss of Cd and As from the all cooked rice, compared to the larger volumes of cooking. Several studies also noted that when rice was cooked by a low volume (no water to discard), the As concentration of cooked rice did not change significantly with respect to the raw rice (Natio, Matsumoto，Shindoh，& Nishimura，2O15；Raab，Baskaran， Feldmann，& Meharg，2009; Sengupta et al., 2006).Laparra, Vélez, Barbera, Farré,& Montoro (2005) reported similar results indicating that no washing and middle volume (water : rice $4 : 1 \\cdot$ ） cooking until no water to discard did not remove total As in brown and white rice. The bioasscessibility of As was reduced to a mean of $3 7 - 5 8 \\%$ of the total from all the different levels of cooked rice by high-volume (water : rice $6 : 1$ ） cooking followed by discarding excess water (Fig. 4). Significant differences （20 $( \\mathbf { p } < 0 . 0 5 )$ was found among As bioaccessibility in $2 : 1 , 4 : 1$ and $6 : 1$ water $\\because$ rice ratio for three all rice types. Compared with the results reported by Raab, Baskaran, Feldmann, & Meharg (2009), cooking rice with high volume (water : rice $6 : 1 \\dot { }$ ） did effectively remove total As by $65 \\%$ (ranging from $5 5 \\%$ to $72 \\%$ ） of raw rice concentration, while in Sengupta et al. (2006), around $57 \\%$ of total As was removed when cooking with water to rice ratio 6:1 followed by discarding excess water. Since metal(loid)s are not evaporated or broken down to safer compounds during boiling，frying or other cooking processes,they only transfer from food matrix to the frying oil, boiling water or cooking stocks.Therefore, to reduce As concentration of cooked rice,large volume of cooking water are effective (Raab, Baskaran, Feldmann, & Meharg, 2009). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3.4.Health risk assessment of Cd and As in rice ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The average bioaccessible EDIs and THQs of Cd and As for adults and children via consumption of rice A and $\\mathbf { B }$ are presented in Table 2. Based on the bioaccessibility data, the EDI values of Cd and As from rice A for adult and children were O.34 and $0 . 5 3 ~ { \\mu \\mathrm { g } } \\mathrm { ~ k g ^ { - 1 } ~ d a y ^ { - } }$ 1， 0.44 and $0 . 7 0 ~ \\mu \\mathrm { g } \\mathrm { \\ k g ^ { - 1 } \\ d a y ^ { - 1 } }$ , respectively, which were well below the provisional tolerable daily intakes (PTDI, $0 . 8 3 ~ { \\mu \\mathrm { g } } ~ \\mathrm { d a y ^ { - 1 } } ~ \\mathrm { k g ^ { - 1 } }$ BW for Cd and $2 . 1 ~ \\mu \\mathrm { g } \\mathrm { \\ d a y ^ { - 1 } \\ k g ^ { - 1 } \\mathrm { I } }$ 3W for As, JECFA).For the daily average consumption of Rice B, the EDI of Cd for adults and children were $212 \\%$ and $280 \\%$ the PTDI value, respectively,while the EDIs of As were lower than the recommended PTDI. Such results indicated that the long-term large consumption of rice B produced from the mining area would result in the high exposure of Cd. The fact that cooked rice showed higher Cd and As bioaccessibility is of particular concern since this type of rice is the most commonly consumed by people in China. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "As shown in Table 2, except for the THQs of Cd for rice A, the bioaccessible THQs of Cd and As from rice A and B were all more than 1, which indicated that inhabitants around the mining area were experiencing relatively high health risks.In China,“cadmium rice” or“arsenic rice” produced from the contaminated soils in the vicinity of mining areas were sold on the market, resulting in great human health risk for the rice consumers (Sun,de Wiele,Alava, Tack, & Laing, 2012a; Zhuang, McBride, Xia, Li, & Li, 2009). The EDI and THQ values of Cd and As for children were higher than those for adults,thus concerns might be paid for the high exposure of metal(loid)s by the rice consumption for children. Given the situation of contaminated rice, the health risk of Cd and As poisoning is greatest for people who eat rice several times a day, but eating less rice is not an option in many parts of the world where the food is an irreplaceable part of the culture, diet and lifestyle. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "It should be noted that absorption of Cd and As during the ingestion process would be highly variable in human populations because the metal(loid) bioaccessibility of rice is influenced by many factors (Intawongse，& Dean， 20o8；Mounicou， Szpunar,Andrey，Blake,& Lobinski, 2002；Sun，de Wiele,Alava, Tack,& Laing， 2012a)， including nutritional characteristics, gastrointestinal tract contents， microfibers of crystalline celllase and phytates，microbial processes, microbial processes, metal species and its speciation; the food processing method, etc. Consequently, further in-depth studies on effective methods employed for the reduction of Cd and As bioaccessbility in rice are required for more accurate Cd and As risk assessment. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "This research work was financially supported by the National Natural Science Foundation of ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "China (No. 41301571 and No. 40871221). Ping Zhuang was supported as a visiting research fellow by the State Scholarship Fund (No.201404910012). The research is financially supported by Key project of Natural Science Foundation of Guangdong (2014A030311011), National Key Technologies R&D Program of China (2015BAD05B05) and Key project of Guangzhou Science and Technology (1565000109). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interest statement ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that no conflict of interest affects this work. ",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/3c0f6564614398e056b1170a1036c88ba49d89eb06c490cc5a536aa56e3a7987.jpg",
+        "table_caption": [
+            "Table 1 Concentrations of As and Cd in the selected raw and cooked rice samples (average ± standard deviation, $\\mathbf { m g \\ k g ^ { - 1 } }$ : Ratio $\\mathbf { \\Sigma } =$ metal concentration in cooked rice/metal concentration in raw rice) for three diferent level of rice (rice A, B and C). "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Type</td><td>Sources</td><td>N</td><td colspan=\"3\">cd</td><td colspan=\"3\">As</td></tr><tr><td></td><td></td><td></td><td>Raw</td><td>Cooked</td><td>Ratio (%)</td><td>Raw</td><td>Cooked</td><td>Ratio (%)</td></tr><tr><td>Rice A</td><td>Market</td><td>12</td><td>0.117 ± 0.031</td><td>0.105 ± 0.023</td><td>89.5</td><td>0.142 ± 0.014</td><td>0.114 ± 0.019</td><td>94.4</td></tr><tr><td>Rice B</td><td>Mining area</td><td>10</td><td>0.499 ± 0.17</td><td>0.453 ± 0.15</td><td>90.8</td><td>0.171 ± 0.040</td><td>0.165 ± 0.037</td><td>96.5</td></tr><tr><td>Rice C</td><td>Grown in Lab</td><td>10</td><td>2.792 ± 1.47</td><td>2.689 ± 1.62</td><td>96.3</td><td>0.258 ± 0.077</td><td>0.248 ± 0.089</td><td>96.2</td></tr></table></body></html>",
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/e0384591f5764db36149861948560cb945cccce74284e7bd76f215481a3c95ba.jpg",
+        "table_caption": [
+            "Table 2 The total and bioaccessible value of estimated daily intake (EDI) and target hazard quotient (THQ) of Cd and As from consumption of cooked rice A and B samples analyzed (μg kg1 day1). "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Items</td><td rowspan=\"2\">Metals</td><td colspan=\"2\">EDI</td><td colspan=\"2\">THQ</td></tr><tr><td>Adult</td><td>Children</td><td>Adult</td><td>Children </td></tr><tr><td colspan=\"7\">When not considering bioaccessibility</td></tr><tr><td rowspan=\"2\">Rice A</td><td>Cd</td><td>0.68</td><td>0.89</td><td>0.68</td><td>0.89</td></tr><tr><td>As</td><td>0.74</td><td>0.97</td><td>2.46</td><td>3.24</td></tr><tr><td>Rice B Cd</td><td></td><td>2.94</td><td>3.86</td><td>2.94</td><td>3.86</td></tr><tr><td></td><td>As</td><td>1.07</td><td>1.41</td><td>3.57</td><td>4.69</td></tr><tr><td colspan=\"6\">When considering bioaccessibility</td></tr><tr><td rowspan=\"2\">Rice A Cd</td><td></td><td>0.34</td><td>0.44</td><td>0.34</td><td>0.44</td></tr><tr><td>As</td><td>0.53</td><td>0.70</td><td>1.77</td><td>2.33</td></tr><tr><td>Rice B Cd</td><td></td><td>1.76</td><td>2.32</td><td>1.76</td><td>2.32</td></tr><tr><td>As</td><td></td><td>0.74</td><td>1.37</td><td>2.48</td><td>4.58</td></tr></table></body></html>",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The Food and Agriculture Organization/World Health Organization (FAO/WHO) (2010) recommended that the previously established provisional tolerable weekly intake (PTWI) of 15 $\\mu \\boldsymbol { \\Xi } \\boldsymbol { \\mathrm { E } } ^ { - 1 }$ body weight (equivalent to $2 . 1 \\ \\mu \\ g \\ \\mathrm { k g } ^ { - 1 }$ body weight dayh) for inorganic As; For Cd, the previously established provisional tolerable monthly intake (PTMl) is $2 5 \\mu \\equiv \\mathrm { k g } ^ { - 1 }$ body weight (equivalent to $0 . 8 3 \\ \\mu \\ g \\mathrm { k g } ^ { - 1 }$ body weight day1) ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Amiard, J.C., Amiard-Triquet, C., Charbonnier, L., Mesnil, A., Rainbow, P.S., & Wang, W.X. (2008). Bioaccessibility of essential and non-essential metals in commercial shellfish from Western Europe and Asia. Food and Chemical Toxicology, 46, 2010-2022.   \nAtta, M.B., El-Sebaie, L.A., Noaman, M.A.,& Kassb, H.E. (1997). The effect of cooking on the content of heavy metals in fish (Tilapia nilotica). Food Chemistry, 58, 1-4.   \nBae, M., Watanabe, C., Inaoka, T., Sekiyama, M., Sudo, N., Bokul, M. H., et al. (2002). Arsenic in cooked rice in Bangladesh. Lancet, 360(9348),1839-1840.   \nChou,K.C., & Shen, H.B. (2007). Recent progress in protein subcellular location prediction. Analytical Biochemistry,370, 1-16.   \nCR(Consumer Reports) (2012). Arsenic in your food.   \nhttp://www.consumerreports.org/cro/magazine/2012/11/arsenic-in-your-food/index.htm. Accessed 20.11.2015.   \nDevesa, V., Velez, D., & Montoro, R. (2008). Effect of thermal treatments on arsenic species contents in food. Food and Chemical Toxicology, 46, 1-8.   \nJECFA (Joint FAO/WHO expert commitee on food additive) (2014). Joint FAO/WHO expert committee on food additive 79th meeting.   \nhttp://www.fao.org/documents/card/en/c/bcc0100e-ec7f-42b4-a64f-6edbe564d44b. Accessed 14.11.2015.   \nFang,Y., Sun, X.Y., Yang, W.J., Ma, N., Xin, Z.H., Fu, J., et al. (2014). Concentrations and health risks of lead, cadmium, arsenic, and mercury in rice and edible mushrooms in China. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Food Chemistry, 147, 147-151. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Fu, J.,& Cui, Y. (2013). In vitro digestion/Caco-2 cell model to estimate cadmium and lead bioaccessibility/bioavailability in two vegetables: the influence of cooking and additives. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Food and Chemical Toxicology, 59, 215-221.   \nHall J.L. (2002). Cellular mechanisms for heavy metal detoxification and tolerance. Journal of Experimental Botany, 53,1-11.   \nHorner, N.S.,& Beauchemin, D. (2013). The effect of cooking and washing rice on the bioaccessibility of As, Cu, Fe, V and Zn using an on-line continuous leaching method. Analytica Chimica Acta, 758, 28-35.   \nHoriguchi, H., Oguma,E.， Sasaki, S.， Miyamoto, K.， Ikeda, Y.， Machida, M.， et al. (2004). Dietary exposure to cadmium at close to the current provisional tolerable weekly intake does not affect renal function among female Japanese farmers. Environmental Research, 95, 20- 31.   \nHoulbreque，F.， Hervé-Fernandez, P.， Teyssié, J.， Oberhaénsli, F.， Boisson, F.,& Jeffree R. (2011).Cooking makes cadmium contained in Chilean mussels less bioaccessible to humans. Food Chemistry, 126, 917-921.   \nHur, S.J.,Lim, B.O., Decker, E.A.,& McClements, D.J. (2011). In vitro human digestion models for food applications. Food Chemistry, 125, 1-12.   \nIntawongse, M.,& Dean, J.R. (2008). Use of the physiologically-based extraction test to assess theoral bioaccessbility of metals in vegetable plants grown in contaminated soil. Environmental Pollution, 152, 60-72.   \nKobayashi, J. (1978). Pollution by cadmium and the itai-itai disease in Japan. In F.W. Oeheme (Eds.)， Toxicity of Heavy Metals in the Environment (pp. 199-260). New York: Marcel Dekker.   \nLaparra,J.M.，Vélez, D.， Barbera,R.， Farré,R.，& Montoro,R.(2005). Bioavailability of inorganic arsenic in cooked rice: Practical aspects for human health risk assessments.   \nJournal of Agricultural and Food Chemistry, 53, 8829-8833. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Llorente-Mirandes， T.， Llorens-Munoz，M.， Funes-Collado，V.， Sahuquillo， A.，& LópezSanchez, J.F. (2016). Assessment of arsenic bioaccessibility in raw and cooked edible mushrooms by a PBET method. Food Chemistry, 194, 849-856. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "MHPRC (2012). National Food Safe Standard. Maximum levels of contaminants in foods (GB 2762-2012). Beijing: Ministry of Health of the People's Republic of China. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Mounicou, S., Szpunar, J.， Andrey， D., Blake, C.,& Lobinski, R. (2002). Development of a sequential enzymolysis approach for the evaluation of the bioaccessibility of Cd and Pb from cocoa. Analyst, 127, 1638-1641. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Naseri, M.，Rahmanikhah， Z.， Beiygloo， V.，& Ranjbar， S. (2014). Effects of two cooking methods on the concentrations of some heavy metals (cadmium, lead, chromium, nickel and cobalt) in some rice brands available in Iranian market. Journal of Chemical Health Risks, 4(2), 65-72. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Oomen, A.G., Hack, A., Minekus,M., Zeijdner, E., Cornelis, C., Schoeters, G., et al. (2002). Comparison of five in vitro digestion models to study the bioaccessibility of soil contaminants. Environment Science and Technology， 36, 3326-3334. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Perell6,G.， Marti-Cid, R., Llobet, J.M.，& Domingo, J.L. (2008). Effects of various cooking processes on the concentrations of arsenic,cadmium, mercury, and lead in foods. Journal of Agricultural and Food Chemistry, 56(23), 11262-11269. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Pelfréne, A., Waterlot, C., Guerin A., Proix, N., Richard, A., & Douay,F. (2015). Use of an in vitro digestion method to estimate human bioaccessibility of Cd in vegetables grown in smelter-impacted soils: the influence of cooking. Environmental Geochemistry and Health, ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "37(4), 767-778. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Raab,A., Baskaran, C., Feldmann, J.,& Meharg, A.A. (2009). Cooking rice in a high water to Ice iauo ieuuces oiganc aisemic comen. Journul oJ Environmenial Ivonuoring, 11(1), 41-44. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Ruby，M.V., Davis,A., Link, T.E.， Schoof, R.， Chaney，R.L., Freeman, G.B., et al. (1993). Development of an in vitro screening test to evaluate the in vivo bioaccessibility of ingested mine-waste lead. Environment Science and Technology, 27, 2870-2877.   \nSavoie,L.， Charbonneau,R.，& Parent, G. (1989). In vitro amino acid digestibility of food proteins as measured by the digestion cell technique. Plant Foods for Human Nutrition, 39, 93-107.   \nSengupta, M.K., Hossain, M.A., Mukherjee, A., Ahamed, S., Das, B., Nayak, B., et al. (2006). Arsenic burden of cooked rice: Traditional and modern methods. Food and Chemical Toxicology, 44(11), 1823-1829.   \nSignes-Pastor, A.J., Al-Rmall, S.W., Jenkins,R.O., Carbonel-Barrachina, A.A., & Haris, P.I. (2012). Arsenic bioaccessibility in cooked rice as affected by arsenic in cooking water. Journal of Food Science, 77, T201-T206.   \nSohn,E. (2014). The toxic side of rice. Nature, 514, S62-63.   \nSun, G.X., de Wiele, T.V., Alava, P., Tack, F., & Laing, G.D. (2012a). Arsenic in cooked rice: Effect of chemical, enzymatic and microbial processes on bioaccessibility and speciation in the human gastrointestinal tract. Environmental Pollution, 162, 241-246.   \nSun, L.P., Liu, G.X., Yang, M.Z.Z., & Zhuang, Y.L. (2012b). Bioaccessibility of cadmium in fresh and cooked Agaricus blazei Murill assessed by in vitro biomimetic digestion system. Food and Chemical Toxicology, 50, 1729-1733. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Trenary, H.R., Creed, P.A., Young, A.R., Mantha, M., Schwegel, C.A., Xue, J., et al. (2012). An in vitro assessment of bioaccessbility of arsenicals in rice and the use of this estimate within a probabilistic exposure model. Journal of Exposure Science and Environmental Epidemiology, 22,369-375. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Yang L.S., Zhang, X.W., Li, Y.H., Li, H.R., Wang, Y., & Wang W.Y. (2012). Bioaccessibility and risk assessment of cadmium from uncooked rice using an In Vitro digestion model. Biological Trace Element Research,145, 81-86.   \nUSEPA. (2010). Integrated Risk Information System-database; Philadelphia PA; Washington, DC.   \nVersantvoort, C.H.M.， Oomen， A.G.， Kamp， E.V.， Rompelberg， C.J.M.，& Sips，A.J.A.M. (2005).Applicability of an in vitro digestion model in assessing the bioaccessibility of mycotoxins from food. Food and Chemical Toxicology, 43, 31-40.   \nWang，C.， Duan， H.Y.，& Teng， J.W. (2014). Assessment of microwave cooking on the bioaccessibility of cadmium from various food matrices using an in vitro digestion model. Biological Trace Element Research, 160,276-284.   \nWang,L.D. (2005). Investigation of nutrition and health China residents: 2002 synthesis report. Beijing: People's Medical Publishing House.   \nZhuang, P., McBride, M.B., Xia, H.P., Li, N.Y., & Li, Z.A. (2009). Health risk from heavy metals via consumption of food crops in the vicinity of Dabaoshan mine, South Chia. Science of the Total Environment, 407, 1551-1561.   \nZhuang,P., Lu, H., Li, Z., Zou, B.,& McBride,M.B.(2014). Multiple exposure and effects assessment of heavy metals in the population near mining area in South China. PLoS ONE, 9(4), e94484. ",
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/8dea4a6d6b384e37e6671ef5e8fe115691d49d0cc2c7525ce4790a018063d088.jpg",
+        "img_caption": [
+            "Figure(s) ",
+            "Figure 1. Bioaccessibility of Cd and As ( $\\%$ ， in gastric,gastrointestinal and residual phases） in three contamination levels of raw rice. "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/b99e202fcf0e4acb9af47e13f7f4fe668661baa7314e8f8619496c7ff7a25683.jpg",
+        "img_caption": [
+            "Figure 2. Bioaccessibility of Cd and As ( $\\%$ ， in gastric, gastrointestinal and residual phases） ir three contamination levels of cooked rice. "
+        ],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/0788e70c7a9e370fcf48d91150beb9844aa458e2987e6830013d44891668ef98.jpg",
+        "img_caption": [
+            "Figure 3. Relationship between oral bioaccessibility and total concentrations $( \\mathrm { m g } \\mathrm { k g } ^ { - 1 } ,$ )of Cd and As in selected rice samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/f30944c53d8d7c0923519ef8df8df6f9d078b504090ef0c3cf311abc88101d8c.jpg",
+        "img_caption": [
+            "Figure 4. The average bioaccessibility of Cd and As in the ingestion phases (mean and SD expressed as a $\\%$ of total Cd concentration） in cooked rice. Low,middle and high volume cooking are water : rice $2 : 1 , 4 : 1$ and $6 : 1$ , respectively. Different letters indicate significant differences at $\\mathtt { p } < 0 . 0 5$ as calculated by the least significant difference (LSD) test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 30
+    }
+]

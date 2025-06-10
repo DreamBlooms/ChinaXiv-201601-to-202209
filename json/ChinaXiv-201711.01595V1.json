@@ -1,0 +1,301 @@
+[
+    {
+        "type": "text",
+        "text": "多不饱和脂肪酸代谢及其对炎症的调节弓剑晓敏（内蒙古师范大学生命科学与技术学院，呼和浩特010022）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：炎症是一种机体对感染或组织损伤的保护性反应。适度的或可控的炎症对于入侵病原微生物的清除以及受损组织的修复是必需的，然而过度的或不可控的炎症往往会导致病理性炎症反应发生，大大提高了各种感染性和代谢性疾病的发病风险。多不饱脂肪酸代谢生成的脂质调控介质对炎症的启动、发展以及消退均具有重要的调节作用，了解多不和脂肪酸的代谢及其代谢产物对炎症反应的调节机制，对于通过饲粮营养途径控制疾病发生以及改善人和动物健康具有重要的理论和现实意义。鉴此，本文综述了多不饱和脂肪酸的代谢途径，并就其代谢产物对炎症反应的调节进行了详细论述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：多不饱和脂肪酸；代谢；脂质调控介质；炎症中文分类号： 文献标识码： 文章编号：多不饱和脂肪酸（polyunsaturated fattyacids，PUFA）是一类含有2个或2个以上双键的多聚不饱和脂肪酸。依据第1个双键在碳链上位置的不同，PUFA分为n-6（@-6）和n-3（ω-3）2 类，n-6PUFA 表示第1个双键位于从甲基端开始第 $6 { \\sim } 7$ 个碳位之间，而 n-3PUFA表示第1个双键位于从甲基端开始第 $3 { \\sim } 4$ 个碳位之间。由此，1个含18个碳、2个双键、第1个双键位于从甲基端开始第 $6 { \\sim } 7$ 个碳位之间的脂肪酸可表示为C18:2n-6。大量研究证据表明，饲粮中 PUFA 的组成及含量会影响细胞膜磷脂中 PUFA 的组成和含量，而细胞膜磷脂中PUFA组成和含量的改变会影响细胞膜的流动性以及膜受体的功能进而影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2016-07-14",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金项目（31560644)；内蒙古自然科学基金项目（2015MS0367)；引进高层次人才科研启动经费项目（2015YJRC005）作者简介：弓剑（1975一），男，内蒙古凉城人，副教授，博士，主要从事反刍动物微量元素营养与饲料资源开发利用研究。E-mail：gongjian3021@sina.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "炎症反应[1-2]。此外，PUFA 在一定条件下可从细胞膜磷脂池中释放出来并转变为游离状态，游离状态的 PUFA 可代谢生成上百种脂质调节物质，这些物质对炎症的启动、发展以及消退具有重要的调节作用[3]。绝大多数由n-6PUFA代谢产生的脂质调控介质具有触发炎症反应的作用，如果不能及时控制，往往会导致病理性炎症反应的发生，而由n-3 PUFA代谢产生的脂质调节物质具有抗炎作用或相比n-6 PUFA代谢产物有较低的促炎作用[45]，而且 n-3PUFA 与 n-6 PUFA利用共同的酶系进行代谢，因而可竞争性地抑制n-6 PUFA 的代谢，进而降低促炎脂质调节物质的产生；此外，n-3PUFA 还会代谢生成一些具有炎症消退功能的脂质调节物质[]。尽管 PUFA 代谢生成的脂质调控介质对炎症的启动、发展以及消退均具有重要的调节作用，但调节的机理尚不清楚，而且不同的代谢产物对炎症的调节作用不尽相同，甚至相同的代谢产物在炎症发展的不同阶段对炎症的调节也不尽相同。本文就PUFA 代谢以及代谢产物对炎症反应可能的调节机理进行综述，以期为通过饲粮营养途径控制疾病发生以及改善人和动物健康提供理论依据。  \n1 n-6 PUFA代谢及其产物对炎症反应的调节  \n1.1花生四烯酸（arachidonic acid，ARA）和亚油酸（linoleic acid，LA）代谢  \nARA 是 n-6 PUFA 的典型代表，属于二十碳四烯酸（C20:4n-6)。从细胞膜磷脂池中释放出来的游离 ARA 主要通过酶和非酶 2 条途径氧化代谢并生成具有生物活性的脂质代谢产物[7]。如图1所示，ARA在环氧合酶（cyclooxygenase，COX）的催化下生成 2系列的前列腺素（prostaglandin，PG）和血栓素（thromboxane，TX） ${ \\bf A } _ { 2 }$ ；在脂氧合酶（lipoxygenase，LOX）的催化下生成4系列的白三烯（leukotriene，LT）、过氧羟基二十碳四烯酸（hydroperoxyeicosatetraenoic acid，HPETE）、羟 基二十碳四烯酸（hydroxyeicosatetraenoic acid，HETE）和氧代二十碳四烯酸（oxoeicosatetraenoic acid,OXo-ETE)，其中，15-HETE 也可转变为脂氧素（lipoxin，LX）[8]；此外，活性氧（reactiveoxygen species，ROS）可直接氧化 ARA 生成 9-HPETE 和11-HPETE，二者进一步代谢生成 9-HETE 和 11-HETE[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LA 也属于n-6PUFA，是ARA合成的前体，除了合成ARA外，也可通过COX 和LOX途径代谢（图1），生成的产物主要为过氧羟基十八碳二烯酸（hydroperoxyoctadecadienoic acid，HPODE）、羟基十八碳二烯酸（hydroxyoctadecadienoicacid，HODE）和氧代十八碳二烯酸（oxooctadecadienoic acid，oxo-ODE）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ARA：花生四烯酸 arachidonic acid；LOX：脂氧合酶 lipoxygenase；COX：环氧合酶 cyclooxygenase;ROS：活性氧 reactive oxygen species；HPETE：过氧羟基二十碳四烯酸 hydroperoxyeicosatetraenoic acid;HETE：羟基二十碳四烯酸 hydroxyeicosatetraenoic acid；PG：前列腺素 prostaglandin；LT：白三烯leukotriene；oxo-ETE：氧代二十碳四烯酸 oxoeicosatetraenoic acid；LX：脂氧素 lipoxin；TX：血栓素thromboxane；LA：亚油酸 linoleic acid；HPODE：过氧羟基十八碳二烯酸 hydroperoxyoctadecadienoic acid;HODE：羟基十八碳二烯酸 hydroxyoctadecadienoic acid；oxo-ODE：氧代十八碳二烯酸 oxooctadecadienoicacid。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/88cb6d38bb386a311ac6237975e4d35507ee78e4ab02cad168feb4a0f681acf8.jpg",
+        "img_caption": [
+            "图1ARA和LA代谢途径",
+            "Fig.1 The metabolic pathways of ARA and LA[8-9] "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2ARA和LA代谢产物对炎症反应的调节",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "COX有2个同分异构体，分别为COX-1和COX-2，在绝大多数组织中，COX-1基因通常持续表达并代谢 ARA生成生理水平的PG，主要为 $\\mathrm { P G I } _ { 2 }$ ，起着维持正常生理功能和血管功能的作用；正常生理条件下，COX-2基因不表达，但当组织或细胞受到病原微生物、炎症因子或 ROS 的刺激时，COX-2基因的表达量明显提高。ARA由COX-2途径代谢生成的脂质调节物质主要为 $\\mathrm { P G E } _ { 2 }$ 、 $\\mathrm { P G F } _ { 2 a }$ 和 $\\mathrm { T X B } _ { 2 }$ ，奶牛患乳房炎时，牛奶中这些物质的含量明显提高[10-12]。 $\\mathrm { P G E } _ { 2 }$ 、 $\\mathrm { P G F } _ { 2 \\mathrm { a } }$ 和 $\\mathrm { T X B } _ { 2 }$ 具有强有力的促炎作用，研究较多的是 $\\mathrm { P G E } _ { 2 }$ ，其促炎作用表现为诱导发热、提高血管壁通透性、增强血管舒张、引起疼痛反应、提高白介素（interleukin，IL）-6 的生成以及诱导 COX-2 活化，进而增强其本身的生成[13]。一些研究表明， $\\mathrm { P G E } _ { 2 }$ 可通过增强15-LOX 的活性，进而提高具有抗炎作用的 $\\mathrm { L X A } _ { 4 }$ 的生成 $[ 1 4 ]$ 。近年来的研究发现，COX-2 基因表达量的提高不仅表现在炎症发起阶段，在炎症消退阶段其活性也明显提高，但催化 ARA 生成的脂质调节物质不是 $\\mathrm { P G E } _ { 2 }$ 、 $\\mathrm { P G F } _ { 2 \\mathrm { a } }$ 和 $\\mathrm { T X B } _ { 2 }$ ，而是$\\mathrm { P G D } _ { 2 }$ 以及其下游终产物 $\\mathrm { P G J } _ { 2 } { } ^ { [ 1 5 ] }$ 。 $\\mathrm { P G D } _ { 2 }$ 和 $\\mathrm { P G J } _ { 2 }$ 可抑制白细胞向内皮细胞的黏附以及核因子-kB（NF-κB）的活化，进而抑制促炎细胞因子的生成[16]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "依据对脂肪酸氧化位点的不同，LOX可分为 5-LOX、12-LOX 和15-LOX3种，ARA经 5-LOX 途径代谢生成的终产物主要为4系列的LT，具有促炎作用。例如，研究较多的LTB4，其促炎作用表现为提高血管壁通透性、提高局部血流速度、提高白细胞趋化性迁移、诱导溶酶体酶释放、增强吞噬细胞 ROS 生成、抑制淋巴细胞增殖以及激活自然杀伤细胞[5]。LTB4对促炎细胞因子的生成也具有调节作用，可增强肿瘤坏死因子（tumour necrosis factor,TNF）-α、IL-1、IL-6 和干扰素（interferon，IFN）-γ 的产生l。ARA 经15-LOX 途径代谢生成的终产物主要为 $\\mathrm { L X A _ { 4 } }$ ， $\\mathrm { L X A } _ { 4 }$ 具有很强的抗炎作用，可抑制粒细胞的趋化和跨膜迁移，降低血管内皮细胞促炎细胞因子（IL-6、IL-8）[17]、L-选择蛋白和细胞间黏附分子-1（ICAM-1）的生成[18]。奶牛患乳房炎时，血浆[11]和乳腺组织[10]中 $\\mathrm { L X A _ { 4 } }$ 的含量显著降低。近年来的研究发现，ARA 经LOX 途径的代谢终产物 oXo-ETE 和LA 的代谢终产物 oX0-ODE 具有抗炎作用。人结肠内皮细胞的研究表明，13-oxo-ODE 可激活抗炎核受体过氧化物酶体增殖物激活受体γ，进而降低促炎细胞因子 IL-8的生成[19]。然而，终产物 oxo-ETE和 oXo-ODE 的上游中间代谢产物 HPETE 和 HPODE具有促炎作用。例如，13-HPODE 可激活血管平滑肌细胞促炎转录因子NF- $\\mathbf { \\nabla } \\cdot \\kappa \\mathbf { B } ^ { [ 2 0 ] }$ ，15-HPETE可增强促炎因子ICAM-1和血管细胞黏附分子-1（VCAM-1）基因的表达[21]。HPETE 和HPODE 极不稳定，进一步代谢生成较为稳定的HETE 和HODE。在氧化应激和炎症（人动脉粥样硬化）情况下，LOX的活性明显增强，HETE 和 HODE 在组织或细胞中含量明显提高[22-23]；而且，对奶牛的研究发现，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "患乳房炎时，奶牛血浆和乳中 HETE/oxo-ETE 以及 HODE/oxo-ODE 的值显著提高[]。此外，在氧化应激条件下，一些ROS 可直接氧化 ARA 和LA 生成 HPETE 和 HPODE，进而增强促炎反应。  \n2 n-3PUFA代谢及其产物对炎症反应的调节  \n2.1二十碳五烯酸（eicosapentaenoic acid，EPA）和二十二碳六烯酸（docosahexaenoic acid,DHA）代谢  \nEPA和DHA属于n-3PUFA，其生物合成的前体为 $\\mathfrak { a }$ -LA，在鱼油中的含量非常丰富。如图2所示，与ARA的代谢相似，EPA也可代谢生成PG 和LT，有所不同的是，EPA 经COX-2 途径生成3系列的PG，经5-LOX途径生成5系列的 $\\mathrm { L T ^ { [ 6 ] } }$ 。阿司匹林（aspirin）是一种抗菌消炎药，可使COX-2乙酰化，乙酰化的COX-2仍具有活性，但环氧化性减弱，脂氧化性增强，因而可催化 EPA 生成E 系列的消退素（resolvin E，RvE)，包括 RvE1 和RvE2[24]。同样，乙酰化的COX-2也可催化DHA生成D 系列的消退素（resolvin D，RvD),包括 RvD1、RvD2、RvD3、RvD4、RvD5 和 RvD6[25]。此外，15-LOX可直接催化DHA 生成 RvD 和保护素D（protectin D，PD）[25]。随后的研究发现，巨噬细胞中的 DHA 在12-LOX的催化下可生成一种叫maresin（MaR）的脂质调节物质[26]。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdaec5962c1edded45887e735a8ab6d71fd1788aec821804ae2aa97dc92fec4e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EPA：二十碳五烯酸 eicosapentaenoic acid ；DHA：二十二碳六烯酸 docosahexaenoic acid；COX：环氧合酶cyclooxygenase；LOX:脂氧合酶 lipoxygenase；PG：前列腺素 prostaglandin；HPETE：过氧羟基二十碳四烯酸 hydroperoxyeicosatetraenoic acid；RvE：E系列消退素 resolvin E；HPDHA：过氧羟基二十二碳六烯酸 hydroperoxydocosahexaenoic acid；RvD：D系列消退素 resolvin D；PD1：保护素 Dl protectin D1;NPD1：神经保护素D1 neuroprotectin D1；MaR：maresin。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2EPA和DHA代谢产物对炎症反应的调节 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从促炎角度讲，代谢生成的3系列的PG和5系列的LT与ARA代谢生成的2系列的PG 和4系列的LT相比具有较低的促炎作用。例如，作为化学趋化剂，LTB5对中性粒细胞的趋化作用较 $\\mathrm { L T B } _ { 4 }$ 降低 $1 0 \\sim 1 0 0$ 倍[27]。与 $\\mathrm { P G E } _ { 2 }$ 相比， $\\mathrm { P G E } _ { 3 }$ 对 COX-2基因表达以及IL-6生成的诱导作用明显降低[13]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从抗炎角度讲，n-3PUFA 代谢生成的多数产物具有抗炎和炎症消退的双重作用。炎症的消退不是被动的炎症反应的终止，而是一个复杂的主动程序化过程。炎症消退大概包括3 个环节：抑制或终止粒细胞的活化、趋化和迁移，抑制或降低趋化因子和促炎细胞因子的生成，促进粒细胞的凋亡和凋亡后清除。研究表明，RvE1通过抑制中性粒细胞活化，阻止中性粒细胞跨内皮迁移，诱发中性粒细胞凋亡，促进炎症部位巨噬细胞对中性粒细胞的非炎性清除[28]以及降低细胞因子IL-12 的生成[29]等途径促进炎症消退。同样，RvE2 可阻止中性粒细胞的趋化和跨膜迁移[30]；RvD1可改善作为屏障的上皮和内皮细胞膜的完整性，阻止中性粒细胞的迁移[31]，抑制 TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 和 IL-8 的生成[32]；RvD2 可抑制 TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 和 IL-1的生成[33]。人的血细胞和神经胶质细胞、小鼠的脑细胞、中性粒细胞、巨噬细胞、T 细胞和视网膜色素细胞均可产生 PD1，在炎症消退的各个环节，PD1 均起着重要的调节作用[34]。研究表明，PD1可限制中性粒细胞浸润，抑制化学趋化剂和促炎细胞因子的生成，促进巨噬细胞对凋亡中性粒细胞的吞噬[28]。MaR1 是近年来发现的具有抗炎和促进炎症消退的DHA 代谢产物，主要在巨噬细胞中产生。巨噬细胞有2种表型（M1和 M2型)，在炎症启动和发展阶段，巨噬细胞主要以M1型存在，起着调节促炎细胞因子生成和吞噬病原体的功能，而在炎症消退阶段，巨噬细胞主要以 M2 型存在，起着促进炎症消退、伤口愈合和组织再生的作用[35]。研究表明，当巨噬细胞为 M2 型时，MaR1的含量明显提高[36]。MaR1干预治疗可显著限制小鼠支气管炎症中性粒细胞的浸润和促炎介质 TNF-α、IL-6 和 ICAM-1的生成[37]。在脂多糖诱导的小鼠急性肺损伤中，MaR1可抑制中性粒细胞的浸润和黏附，降低白细胞在肺部的聚集，下调 TNF-α、IL-1α 和 IL-6 的生成[38]。对小鼠结肠炎的研究表明，MaR1 还可抑制 NF-kB 的活化[39]。另外，一些研究发现，MaR1可诱导巨噬细胞由经典活化型转变为炎症消退型，而且其含量的增加与转化为炎症消退型巨噬细胞的数量呈正相关[40]。上述研究表明，maresin1 可通过限制中性粒细胞浸润、增强巨噬细胞对凋亡中性粒细胞的吞噬、下调促炎细胞因子生成和抑制NF- $\\boldsymbol { \\kappa } \\mathbf { B }$ 活化等途径使炎症消退。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3小结 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述，n-6PUFA代谢产物主要起着诱导炎症启动和发展的作用，而n-3PUFA代谢产物起着抗炎和促进炎症消退的功能。临床上，许多疾病，如动脉粥样硬化、肥胖症、奶牛产后乳房炎和子宫炎等的发生均与PUFA代谢紊乱进而导致不可控的慢性炎症有关。生产实践中，如何有效控制炎症的发生和发展进而降低与其相关的疾病发生，提高饲粮 n-3 PUFA的比例，降低n-6 PUFA的摄入可能是最直接有效的方法；也可在饲粮中添加一些微量元素和维生素（如硒、维生素A和维生素E）以调节PUFA代谢，进而降低促炎脂质调控介质的生成；此外，甚至可以将具有抗炎和炎症消退功能的n-3PUFA代谢产物作为外源性药物直接干预炎症的发生和发展。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] SIMONS K,TOOMRE D.Lipid rafts and signal transduction[J].Nature Reviews Molecular Cell Biol0gy,2000,1(1):31-39.   \n[2] STILLWELL W,WASSALL S R.Docosahexaenoic acid:membrane properties of a unique fatty acid[J].Chemistry and Physics of Lipids,2003,126(1):1-27.   \n[3] DUMLAO D S,BUCZYNSKI M W,NORRIS P C,et al.High-throughput lipidomic analysis of fatty acid derived eicosanoids and N-acylethanolamines[J].Biochimica et Biophysica Acta (BBA)-Molecular and Cell Biology of Lipids,2011,1811(11):724-736.   \n[4] POULSEN R C,GOTLINGER K H,SERHAN C N,et al.Identification of inflammatory and proresolving lipid mediators in bone marrow and their lipidomic profiles with ovariectomy ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "and omega-3 intake[J].American Journal of Hematology,20o8,83(6):437-445. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5] CALDER P C.Polyunsaturated fatty acids and inflammation[J].Prostaglandins,Leukotrienes and Essential Fatty Acids,2006,75(3):197-202. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6]CALDERPC.n-3polyunsaturated fattyacids,inflammation,andinflammatory diseases[J].World Review of Nutrition and Dietetics,2006,83(6):S1505-1519S.   \n[7] KUHN H,BANTHIYA S,VAN LEYEN K.Mammalian lipoxygenases and their biological relevance[J].Biochimica et Biophysica Acta :Molecularand Cell Biologyof Lipids,2015,1851(4):308-330.   \n[8] ASTUDILLO A M,BALGOMA D,BALBOA M A,et al.Dynamics of arachidonic acid mobilization by inflammatory cells[J].Biochimica et Biophysica Acta: Molecular and Cell Biology of Lipids,2012,1821(2):249-256.   \n[9] MILNE G L,YIN H Y,HARDY K D,et al.Isoprostane generation and function[J].Chemical Reviews,2011,111(10):5973-5996.   \n[10] BOUTET P,BUREAU F,DEGAND G,et al.Imbalance between lipoxin ${ \\bf A } _ { 4 }$ and leukotriene ${ \\bf B } _ { 4 }$ in chronic mastitis-affected cows[J].Journal of Dairy Science,2003,86(11):3430-3439.   \n[11] MAVANGIRA V,GANDY J C,ZHANG C.et al.Polyunsaturated fatty acids influence differential biosynthesis of oxylipids and other lipid mediators during bovine coliform mastitis[J].Journal of Dairy Science,2015,98(9):6202-6215.   \n[12] RYMAN V E,PIGHETTI G M,LIPPOLIS JD,et al.Quantification of bovine oxylipids during intramammary Streptococcusuberisinfection[J].Prostaglandins&OtherLipid Mediators,2015,121:207-217.   \n[13] BAGGA D,WANG L,FARIAS-EISNER R,et al.Diferential effects of prostaglandin derived from @-6 and ω-3 polyunsaturated fatty acidson COX-2 expression and IL-6 secretion[J].Proceedings of the National Academy of Sciences of the United States of ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[14] SERHAN C N,CHIANG N.Endogenouspro-resolving and anti-inflammatory lipid mediators:a new pharmacologic genus[J].British Journal of Pharmacology,2008,153(Suppl.1):S200-S215. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15] SORDILLO L M.Nutritional strategies to optimize dairy catle immunity[J].Journal of Dairy Science,2016,99(6): 4967-4982. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16]PATTANAIK U,PRASAD K.Oxygen free radicals and endotoxic shock:effect of flaxseed[J].Journal of Cardiovascular Pharmacology and Therapeutics,1998,3(4):305-318. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17] SERHAN C N.Systems approach to inflammation resolution:Identification of novel antiinflammatory and pro-resolving mediators[J].Journal of Thrombosis and Haemostasis,2009,7:44-48. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18] CHINTHAMANI S,ODUSANWO O,MONDAL N,et al.Lipoxin ${ \\bf A } _ { 4 }$ inhibits immune cell binding to salivary epithelium and vascular endothelium[J].American Journal of Physiology: Cell Physiology,2012,302(7):C968-C978. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19] ALTMANN R,HAUSMANN M,SPOTTL T,et al.13-Oxo-ODE is an endogenous ligand for PPAR Y in human colonic epithelial cels[J].Biochemical Pharmacology,2007,74(4):612-622. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20] NATARAJAN R,REDDY M A,MALIK K U,et al.Signaling mechanisms of nuclear factor- K B-mediated activation of inflammatory genes by 13-hydroperoxyoctadecadienoic acid in culturedvascularsmooth musclecels[J].Arteriosclerosis,Thrombosis,andVascular Biology,2001,21(9):1408-1413. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21]BONOMINI F,TENGATTINI S,FABIANO A,etal.Atherosclerosisand oxidative stress[J].Histology and Histopathology,2008,23(3):381-390. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22] RAMSDEN C E,RINGEL A,FELDSTEIN A E,et al.Lowering dietary linoleic acid reduces bioactive oxidized linoleic acid metabolites in humans[J].Prostaglandins,Leukotrienes and [23] QUEHENBERGER O,ARMANDO A M,BROWN A H,et al.Lipidomics reveals a remarkable diversity of lipids in human plasma[J].The Journal of Lipid Research,2010,51(11):3299-3305. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[24] SERHAN C N,CLISH C B,BRANNON J,et al.Novel functional sets of lipid-derived mediatorswith antiinflammatory actionsgenerated from omega-3 fatty acidsvia cyclooxygenase 2-nonsteroidal antiinflammatory drugs and transcellular processing[J].The Journal of Experimental Medicine,2000,192(8):1197-1204. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[25] SERHAN C N,HONG S,GRONERT K,et al.A family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals[J].The Journal of Experimental Medicine,2002,196(8):1025-1037. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26] SERHAN C N,YANG R,MARTINOD K,et al.Maresins:novel macrophage mediators with potentantiinflammatoryand proresolvingactions[J].The Journal ofExperimental Medicine,2009,206(1):15-23. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[27] LEE T H,MENCIA-HUERTA 1 M,SHIH C,et al.Effects of exogenous arachidonic,eicosapentaenoic,and docosahexaenoic acids on the generation of 5-lipoxygenase pathwayproductsby ionophore-activated human neutrophils[J].Journal of Clinical Investigation,1984,74(6):1922-1933. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[28] SCHWAB J M,CHIANG N,ARITA M,et al.Resolvin E1 and protectin D1 activate inflammation-resolution programmes[J].Nature,2007,447(7146):869-874. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[29]HASTURK H,KANTARCI A,GOGUET-SURMENIAN E,et al.Resolvin E1 regulates inflammation at the celular and tissue level and restores tissue homeostasis in vivo[J].The Journal of Immunology,2007,179(10):7021-7029. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[30] TJONAHEN E,OH S F,SIEGELMAN J,et al.Resolvin E2:identification and antiinflammatory actions:pivotal role of human 5-lipoxygenase in resolvin E series [31] EICKMEIER O,SEKI H,HAWORTH O,et al.Aspirin-triggered resolvin D1 reduces mucosal inflammation and promotes resolution in a murine model of acute lung injury[J].Mucosal Immunology,2013,6(2):256-266. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[32] DONG J J,LIAO Z L,WANG T,et al.Resolvin-D1 inhibits interleukin-8 and hydrogen peroxide production induced by cigarette smoke extract in 16HBE cells via attenuating NFkB activation[J].Chinese Medical Journal,2014,127(3):511-517. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[33] BOHR S,PATEL S J,SARIN D,et al.Resolvin D2 prevents secondary thrombosis and necrosis in a mouse burn wound model[J].Wound Repair and Regeneration,2O13,21(1):35-43. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[34] DEMARQUOY J,BORGNE F L.Biosynthesis,metabolism and function of protectins and resolvins[J].Clinical Lipidology,2014,9(6):683-693. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[35] ARIEL A,SERHAN C N.New lives given by cell death:macrophage differentiation following their encounter with apoptotic leukocytes during the resolution of inflammation[J].Frontiers in Immunology,2012,3:4. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[36] DALLI J,SERHAN C N.Specificlipid mediator signatures of human phagocytes:microparticles stimulate macrophage efferocytosis and pro-resolving mediators[J].Blood,2012,120(15):e60-e72. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[37] NORDGREN T M,BAUER C D,HEIRES A J,et al.Maresin-1 reduces airway inflammation associatedwithacuteandrepetitiveexposurestoorganicdust[J].Translational Research,2015,166(1):57-69. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[38] GONG J,WU Z Y,QI H,et al.Maresin 1 mitigates LPS-induced acute lung injury in mice[J].British Journal of Pharmacology,2014,171(14):3539-3550. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[39] DALLI J,ZHU M,VLASENKO N A,et al.The novel 13S,14S-epoxy-maresin is converted by human macrophages to maresin 1 (MaR1),inhibits leukotriene ${ \\bf A } _ { 4 }$ hydrolase( $\\mathrm { { L T A _ { 4 } H } }$ ,and ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[40] MARCON R,BENTO A F,DUTRA R C,et al.Maresin 1,a proresolving lipid mediator derived from omega-3 polyunsaturated fatty acids,exerts protective actions in murine models of colitis[J].The Journal of Immunology,2013,191(8):4288-4298. The Metabolism of Polyunsaturated Fatty Acids and Its Regulation to Inflammation GONG Jian XIAO Min (College of Life Science and Technology, Inner Mongolia Normal University, Huhhot 010022, China)   \nAbstract: Inflammation is part of protective response to infection or tissue injury. Appropriate or   \ncontrolled inflammation is necessary to eliminate invading pathogens and repair damaged tissue.   \nHowever, excessive or uncontrolled inflammation contributes to a range of pathological   \ninflammatory responses，which may result in the increased incidence of both metabolic and   \ninfectious diseases.Lipid mediators derived from polyunsaturated fatty acids have important roles   \nin regulate the initiation，development and resolving of inflammatory responses.A betr   \nunderstanding of the metabolism of polyunsaturated fatty acids and its regulation to inflammation   \nwill facilitate the development of dietary nutritional strategies to control the incidence of diseases   \nand improve human and animal health. Therefore, the metabolic pathways of polyunsaturated fatty   \nacids and the regulatory mechanism of its metabolic products to inflammation were reviewed in   \nthis paper. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words: polyunsaturated fatty acids; metabolism; lipid mediators; inflammation ",
+        "page_idx": 11
+    }
+]

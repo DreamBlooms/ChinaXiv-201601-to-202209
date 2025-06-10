@@ -1,0 +1,623 @@
+[
+    {
+        "type": "text",
+        "text": "内网IDS蜜罐型集成系统",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙韬",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（成都东软学院网络空间研究所）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了应对当前日益严峻的内网安全问题，我们制作了内网蜜罐集成系统，该集成系统应用第三代蜜网部署为基础，配合IDS和防火墙来构建，使用蜜网网关转移攻击流量，建立多台蜜罐服务器，能够第一时间检测并警告管理员，使应急响应满足P2DR模型的防护时间大于检测加响应时间，分析并记录攻击手段，实现了证据留存安全迅速和内网其他主机的安全。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "集成蜜罐系统（Honeypot system integration）作为被动IDS和引诱攻击目标，在技术日趋成熟的同时也面临着安全方面的挑战，蜜罐系统不但会收到常规手段的入侵，也会受到大量未知的攻击手段，现在大量采用的防御方案是是传统的（IDSInrusionDetectionSystems）和防火墙，以及一些支持安全框架服务。这些防御方式都是对外来攻击进行处理，并不会从攻击手段来进行分析，企业内网安全也是防火墙所不能接手的，根据短板效应，如若内网一台机器沦陷后，内网的其他服务器及PC都有被渗透的危险。对此，本论文提出蜜罐系统与防火墙结合对内网安全事件进行记录和应急响应，通过虚拟化技术将制作成本大幅降低，在企业内部机房下对整体网络影响也降到最低，使用反向链接waf对将来扩展大量web服务留下空间，构建内网集成蜜罐系统来防御域（组）渗透。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1蜜罐系统",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蜜罐系统是在网络安全发展过程中催生出的一种技术，通过一些已知的漏洞或者常见服务来引用黑客进行攻击，当攻击者入侵后，你可以通过日志和蜜罐的管理端对黑客入侵的手段和Oday进行payload分析，从而进行相关防护。蜜罐系统如今已经发展到第三代蜜罐，蜜罐技术分为低交互蜜罐和高交互蜜罐，低交互蜜罐的意思是通过模拟这个服务的端口和返回数据包来达到迷惑入侵者的目的，引诱入侵者来进行溢出攻击等。高交互蜜罐则是一个真实的服务，黑客可以对其进行入侵，由于是蜜罐系统。当黑客进行深度操作后系统会自动断开连接，并提醒管理员。蜜罐系统的功能在于迷惑入侵者，保护服务器，和增加入侵者的入侵时间提高应急响应反应时间，加固服务器。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1蜜罐技术 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蜜罐技术是一种新型并且技术成熟的网络安全主动防御技术。蜜罐技术通过构造常见漏洞特征码来做到引诱攻击者攻击自身，捕获攻击数据、攻击方式、攻击目的等攻击方面的相关信息。蜜罐系统被探测、攻击、入侵的时候，他的作用才会体现出。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蜜罐系统具有以下特征：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其中重要的一点就是蜜罐系统是存在漏洞，完整的暴露在内网或外网中的机器  \n蜜罐系统的机器是虚假的，攻击者需要花费时间攻破，通过P2DR模型可知，当攻击时间大于响应时间时，系统是安全的。在攻击的这段时间内，系统管理员能够有足够的时间锁定攻击来源，并保护内网其他生产主机。  \n能够学习攻击者的攻击方法和利用手法。  \n利用数据捕获可以捕获攻击者使用的0day，通过分析数据内容来对位置漏洞进行修复。[1]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2蜜罐的关键技术",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "想要构建一个蜜罐系统和组成一个内网的蜜罐网络主要技术在于主机虚拟化，攻击数据控制，攻击数据捕获和危险操作隔离，这四个方面是组成内网蜜罐系统的主要技术以及主要功能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "虚拟化分为主机虚拟化和功能模拟，其目的是减少内网服务器资源浪费，通过虚拟化技术将蜜罐系统同步上线到相关服务器同网段，若上线服务器被入侵时，攻击者对内网进行渗透时蜜罐系统保证能够被入侵者发现。[2]功能模拟要做到能够有明显的漏洞指纹，通过同网段下其他服务器用iptables或firewal等防火墙设置，进行流量或者探测转发（nginx反向代理），将入侵数据全部转移到蜜罐系统中。由于伪蜜罐系统存在用户交互问题，但是对蜜罐系统较为安全，所以本文大部分的蜜罐系统都是中，低交互的蜜罐系统，防止攻击者攻击得到蜜罐系统权限。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "攻击数据控制的目的是保证蜜罐系统被攻击时不会被攻击者用作跳板来攻击内网的其他业务服务器。这样就决定了数据控制需要有两个以上的控制方案同时进行，比如从网关防火墙处进行流量控制同时从内网服务器之间的软防火墙（WAF）对数据传输设置IP白名单。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "攻击数据捕获是蜜罐系统的主要功能，捕获的数据要及时发送到管理员邮箱中，使管理员知晓内网已经被攻击了，执行应急响应流程。捕获的数据用来分析攻击者的攻击手法、攻击工具和攻击目等其他目的。通过链路层到应用层，整个内网系统记录攻击者的数据内容，多维度数据捕获模式，保证攻击者的每一个攻击都有记录。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "攻击者通过蜜罐系统的漏洞拿到了蜜罐系统的权限，当攻击者需要做跳板攻击其他服务器等危险操作时，蜜罐系统会自动断开与攻击者的连接，这样保证了蜜罐系统和内网其他服务器的安全，保证危险操作能被隔离出来。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2系统以及结构设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "内网系统的集成蜜罐的设计如图1-1所示，",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0e45e33ddf875db4ba41ebea2bfcdd93185a1e425a4a55300d395f0ad30e017.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1-0 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统主要由防火墙，蜜网网关，蜜罐系统管理端，虚拟化三台高低交互蜜罐系统组成，防火墙由硬件防火墙充当，用于记录传输层攻击命令，并进行流量转发，加强网络之间的访问控制，预防系统外部网络入侵内部网络或非法操作单机的一种必要防护。防火墙对所有流经数据都进行记录。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "入侵检测技术是一种通过记录攻击者相关信息观察攻击行为，检测鉴定是否为攻击行为的一种检测技术，而蜜罐系统则是对所有信息进行记录，通过设定的正则规则判断是否是攻击行为，内网任意一台服务器如果被外部攻击者攻击，开始对内网服务器进行扫描和溢出等操作时，通过控制的蜜网网关和服务器部署的分布式WAF将非法流量转移到蜜罐系统中，确保攻击者的所有攻击目标全部都转移",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "到蜜罐系统上。[3] ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "蜜罐系统控制端（10.0.0.3）主要是虚拟化生产蜜罐系统，并实时监测记录，所收集的数据大多是扫描记录，相关危险端口登陆记录，登陆后命令操作，溢出数据包内容。蜜网网关也可通过虚拟化技术或者使用系统内部集成来部署，例如IPTables防火墙，firewall，winshark内网数据监测分析工具。通过这些工具来对蜜网数据进行监控。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3集成系统功能设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b1a2117c19f86bd247d9fb11bbf3d2bb96d03edfdd0aab572acde425c82dce1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设攻击者在内网已经获得一台服务器的root权限，且与集成蜜罐系统在同一网段下，攻击者的攻击手段大多是依靠服务器上各种服务端口漏洞或者弱口令进行攻击，所以我们在每个蜜罐主机上部署了一些可用的漏洞，提高了蜜罐的诱惑性，攻击者会对蜜罐系统的网络及新端口扫描，获取蜜罐系统的端口信息，当系统接收到syn或者ping命令探测后立即对管理员进行告警。WAF使用nginx反向连接的模式，并没有采用通明网桥或者离线模式，如果采取离线模式，那么只是对攻击起到记录作用，而没有起到阻隔危险代码的作用并且后期维护工作量大。如采取通明网桥模式则后期升级成本过高，若防火墙流量有限制则对大量并发连接处理不够，而采取反向连接式waf则能够部署分布式集群处理大量连接用户，未来升级或者访问量过大时只需添加新的waf 服务器即可，openresty配合nginx可以轻松处理 $1 0 0 0 0 0 +$ 的并发连接数，对后期升级提供了简便并低成本的解决方案。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Web防火墙（WAF）主要对web特有的入侵方式进行防护，如cc攻击，sql注入，xml注入，xss 注入等。由于是应用层攻击，所以也可以称作web IPS,WAF从技术特点分为以下几部分：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "代理服务：基于双向代理，中断了用户与服务器的直接连接，从而防止了入侵直接作用于web服务器，分布式的waf对cc攻击也有一定的阻隔效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "特征识别：识别出入侵者是他防护的功能，特征就是攻击者的“指纹”，如缓冲区溢出的shellcode，sql注入中的‘=\"select'等。通过正则表达式判断是否为规则库中的内容来返回相应的内容。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "识别库：拥有大量的特征识别库也是一个WAF所拥有的核心竞争之一。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "WAF部署位置决定WAF部署位置的是WEB服务器的位置。因为WEB服务器是WAF所保护的目标，部署时要尽量接近。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "WAF部署种类和原理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "网桥代理模式：当客户端主机对服务器有连接请求时，tcp 连接请求被WAF截取和监控。WAF可以看作一段网线，通过双网卡基于桥模式进行转发。从客户端主机来看，客户机仍然是直接访问服务器，察觉不到WAF的存在。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "优点：无丢包问题，默认支持https，可主动防御。缺点：由于所有流量都将途径WAF，而导致防火墙硬件处理能力将限制流量带宽，应对大规模并发连接时力不从心。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "反向代理模式：该模式是指将真实服务器的地址映射到反向代理服务器上。此时客户主机访问的就是代理服务器，代理服务器再将数据包转发给后台服务器，后台服务器收到请求后将响应在发送给代理服务器，由代理服务器在传给客户端。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "优点：能够隐藏后台服务器ip，防止溢出漏洞直接作用于服务器。由于代理服务器可以组成集群，对并发连接进行负载均衡，升级成本降低。（也是由于能够隐藏后台主机IP，所以本论文采用反向代理模组建WAF）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "缺点：部署复杂，要在服务器上完成带路部署，设置代理端口和服务器端口。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4实验结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/271476f26989f9fd6b34deb78b67de2f1a10b77b9cce30fd57c64c5d1b206713.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>主机名称</td><td>系统要求</td><td>环境要求</td><td>硬件要求</td></tr><tr><td>Linux 主机 1 (linux蜜罐)</td><td>centos6.5</td><td>kippo，dionaea，di naeaFR</td><td>1G RAM 10G 硬盘2*2CPU</td></tr><tr><td>Liunx 主机 2 (WAF)</td><td>centos6.8</td><td>nginx、openresty、x- waf、mysql、php</td><td>1G RAM 10G 硬盘2*2CPU</td></tr><tr><td>Windows主机 （内网上线主 机)</td><td>Windows200 3 server</td><td>Apache2.1+mysql+p hp</td><td>4G RAM 40G 硬盘2*2CPU</td></tr><tr><td>Windows主机 (高交互蜜罐)</td><td>Windows200 3 server</td><td>iis6.0+accsse+南方数 据 cms，Server-U6.0 以下版本</td><td>1G RAM 20G 硬盘2*2CPU</td></tr><tr><td>Windows7（低交</td><td>Windows7</td><td>Ts 虚拟服务器（模拟</td><td>1G RAM 20G</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/98c9e89db99981bb69e90ae1c3b2af70f551b90db772d4495d82368f83e97f62.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>互蜜罐)</td><td></td><td>iis7.5)</td><td>硬盘2*2CPU</td></tr><tr><td>Linux 主机</td><td>centos6.5</td><td>kippo，dionaea，di</td><td>1G RAM 10G</td></tr><tr><td>1 (linux蜜罐）</td><td></td><td>naeaFR</td><td>硬盘2*2CPU</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0dd8314f835182346281be8eee6d4ef0a4f23ef9e9a27cc0ff8ce35ab8f64512.jpg",
+        "img_caption": [
+            "实时记录访问用户如图1-2。"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Windows7（模拟攻击者沦陷内网机器）：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1g内存 $2 0 \\mathrm { g }$ 硬盘安装 sqlmap，nc，nmap，winshark，burpsuit本实验在一台主机上，利用vmware 做虚拟化部署，首先主机安装VMwawre12。之后建立五台虚拟机，分别为windows蜜罐（低交互），linux蜜罐（低交互），windows蜜罐（高交互），windows2003（假设被沦陷内网主机），linux云WAF主机。Linux蜜罐系统我选择ubuntuIP:192.168.42.63LinuxWAF选择 centos6.8 做管理端 IP:192.168.42.6Windows2003 IP:192.168.42.146Windows蜜罐IP:192.168.42.241",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5044791ff025ccf6e5366a6b8eb791defa0ae42e3b9de5e043052a0e9961a7bc.jpg",
+        "img_caption": [
+            "1-0 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在waf上配置后端服务器，使用nginx反向代理防止恶意攻击影响本地服务器。WAF采取了openresty $^ +$ 集成nginx+mysql构成，采用lua和go语言写入规则。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1-0 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用WAF后将正常上线的服务器添加到waf反向链接中，如图1-3，设置windows2003-防火墙禁止内网网段ip访问，并使用403将内容转发到windwos高交互蜜罐的网站中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Linux低交互蜜罐配置了kippo 蜜罐和dionaea,通常攻击者会对ssh进行爆破攻击，所以使用这个ssh 蜜罐来应对这种情况。而dionaea来模拟各种常见端口和漏洞，并且使用webgui设计进行后端管理。开启Kippo:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "#cd /honeydrive/kippo   \n#./start.sh   \n开启dionaea:   \n#cd /opt/Dionaea/bin   \n#sudo ./Dionaea-l all   \n开启dionaeaFR   \n#cd/opt/DionaeaFR/   \n# python2.7 manage.py collectstatic   \n# python2.7 manage. py runserver   \n0.0.0.0:8000 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验1，在试验内网蜜罐系统的被攻击的主机对系统中的三台蜜罐系统使用nmap 端口扫描",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验环境：windows7（攻击主机）Nmap 端口扫描工具IP:192.168.42.100Ubuntu（低交互蜜罐系统）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Dionaea+mysql+python3.2/pthon2.7+DionaeaFR IP: 192.168.42.63 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设内网某台主机（IP：192.168.42.100）被攻击者拿到管理员权限，并下载了nmap，准备对内网某台服务器（IP：192.168.42.63）进行端口扫描，则执行命令",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "#nmap -Ss 192.168.42.63 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "扫描结果如图 1-4 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C:\\Users\\DELL\\Desktop\\nmap-6.46>nmap -sS 192.168.42.63   \nStarting Nmap 6.46（ http://nmap.0rg）at 2017-04-04 18:31 中国标准时间   \nNmapscanreport for 192.168.42.63   \nHost is up (0.o0s latency)   \nNot shown:988 closed ports   \nPORT STATE SERUICE   \n21/tcp open ftp   \n22/tcp open ssh   \n42/tcp open nameserver   \n80/tcp open http   \n135/tcp open msrpc   \n443/tcp open https   \n445/tcp open microsoft-ds   \n1433/tcpopen ms-sql-s   \n3306/tcpopen mysq1   \n5060/tcp open sip   \n5061/tcpopen sip-tls   \n8000/tcp open http-alt   \nMAC Address:00:0C:29:F7:BE:76(UMware) mapdone:1 IP address (1 host up)scanned in 13.49 seconds   \nC:\\Users\\DELL\\Desktop\\nmap-6.46>X ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e0993adb1f60624840832428e3d1686ddbc3dd81da6a6b206a5bc2f12aaea68.jpg",
+        "img_caption": [
+            "□ X ",
+            "1-0 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可以看出，蜜罐系统已经模拟出相关的服务信息了，这时攻击者对服务器的相关数据操作已经可以从后台查看到如图1-5、图1-6。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Nmap的扫描已经被蜜罐系统记录，而且被迷惑模拟出这些服务端口",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7fe0b604c969cdcaec81f006de68f8c5084e53b1bcfe621f1f4dda818c31b986.jpg",
+        "table_caption": [
+            "C:Windows\\system32\\cmd.exe ",
+            "1-0 ",
+            "1-0 ",
+            "1-0 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>D</td><td>State</td><td>Protocal</td><td>Serrice</td><td>Dat</td><td>Rot</td><td>Parent</td><td>Sensor</td><td>Dst Port</td><td>Attacker</td><td>Hostrame</td><td>Sro Fort</td></tr><tr><td>15722</td><td>refed</td><td></td><td>pcap</td><td>04-04-2017 10:32.05</td><td>15722</td><td>−</td><td>9 192.158.42.63</td><td>5618</td><td>9192.158.42.100</td><td>二</td><td>54544</td></tr><tr><td>15721</td><td>refed</td><td>bcp</td><td>pcap</td><td>4-04-2017 10:32.06</td><td>15721</td><td></td><td>9 192.158.42.63</td><td>5617</td><td>9 192.158.42.100</td><td>二</td><td>64943</td></tr><tr><td>15720</td><td>leed</td><td>tcp</td><td>pcap</td><td>04-04-2017 10:32.06</td><td>15720</td><td>二</td><td>9 192. 158.42.63</td><td>5615</td><td>9 192.158.42.100</td><td></td><td>64942</td></tr><tr><td>15719</td><td>reed</td><td>bp</td><td>pcap</td><td>04-04-2017 10:32:.05</td><td>15719</td><td>二</td><td>9 192.158.42.63</td><td>515</td><td>9 192.158.42.100</td><td>二</td><td>54941</td></tr><tr><td>15718</td><td>nefed</td><td>txp</td><td>pcap</td><td>04-04-2017 10:32:06</td><td>15718</td><td>二</td><td> 192.158.42.63</td><td>5614</td><td>9 192.158.42.100</td><td>二</td><td>64940</td></tr><tr><td>15717</td><td>mjed</td><td>bp</td><td>pcap</td><td>04-04-2017 10:32:06</td><td>15717</td><td>二</td><td>? 192.158.42.63</td><td>513</td><td>9 192.150.42.100</td><td>二</td><td>G4939</td></tr><tr><td>15716</td><td>refed</td><td>p</td><td>pcap</td><td>04-04-2017 10:32.05</td><td>15715</td><td>二</td><td>9 192.158.42.63</td><td>5612</td><td>9 192.158.42.100</td><td>二</td><td>64938</td></tr><tr><td>15715</td><td>refed</td><td>bcp</td><td>pcap</td><td>04-04-2017 10:32.06</td><td>15715</td><td>二</td><td>9 192.158.42.63</td><td>5511</td><td>9 192.158.42.100</td><td>二</td><td>6497</td></tr><tr><td>15714</td><td>reed</td><td>tcp</td><td>pcap</td><td>4-04-2017 10:32.05</td><td>15714</td><td></td><td>9 192. 158.42.63</td><td>5510</td><td>9 192.158.42.100</td><td>二</td><td>64936</td></tr><tr><td>15713</td><td></td><td>bp</td><td>pcap</td><td>04-04-2017 10:32:.05</td><td>15713</td><td></td><td> 192.158.42.63</td><td>5609</td><td>9 192.158.42.100</td><td>二</td><td>64935</td></tr><tr><td>15712</td><td>rmed</td><td></td><td>pcap</td><td>04.04-2017 10:32.06</td><td>15712</td><td></td><td> 192.168.42.63</td><td>5608</td><td> 192 168.42.100</td><td></td><td>G4934</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验2，对windows 内网服务器网站进行注入操作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验环境：linux主机（cetos6.8WAF代理服务器）   \nNginx+openresty+mysql5端口配置80，远程代理80   \n端口   \nIP:192.168.42.6 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Linux 服务器（windows 2003 server sp2）Apache+mysql+php 正常生产主机。漏洞源码（dedecms2007 php 版本）IP: 192.168.42.148",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设攻击者拿到内网某服务器权限，并远程登陆。进行扫描端口后发现waf（192.168.42.6）开启80端□（实际生产主机通过防火墙断开与内网除waf外所有连接），攻击者发现生产主机存在一个sql注入漏洞，想要通过exp拿到该网站webshell。当攻击者用浏览器打开192.168.42.6，发现api.miren.t.n.mi.com说明WAF已经设置成功，如图1-7。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "→192.168.42.6 器 C A Q dionaea → 温%E9%9D%A2%E5%... 最常访问 火狐官方站点 新手上路 常用网址 D京东商城 □移动版书phpStudy探针 for phpStudy 2014 not不想服务器参数服务器域名/IP地址 192.168.42.6, api.miren.t.n.mi.com(192.168.42.6, api.miren.t.n.mi.com)服务器标识 Windows NT KNICKERS-FE6303 5.2 buid 3790 (Windows Server 2003 Enterprise Edtion Service Pack 2)i586服务器操作系统 Windows内核版本：NT 服务器解译引擎 Apache/2.4.23 (Win32) Opt服务器语言 zh-CN,z;q08,-;q.5;q 服务器端口 80服务器主机名 KNICKERS-FE6303 绝对路径 C:/Inetpub/WwW管理员邮箱 admin@phpStudy.net 探针路径 C:/Inetpub/www/l.phpPHP已编译模块检测Core bcmath calendar ctype date ereg filter ftp hash iconv jaon mcrypt SpLodbc pcre Reflection sesaion standard myaqlnd tokenizer zip zlib libxm1 dom PDO bz2SimpleXML wddx xm1 xmlreader xmlwriter apache2handler Phar curl com_dotnet gd mbstring my:pdo_myaql pdo_sqlite sqlite3 xmlrpc xs1 mhashPHP相关参数PHP信息（phpnfo）： PHPINFO PHP版本（php_version）：PHP运行方式： APACHE2HANDLER 脚本占用最大内存（memory_lmt）：nun宏/f nACT官注县+阳制/n",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在浏览器测试get方式的sql注入攻击（非 EXP），",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图1-8。  \nhttp://192.168.42.6/?id=123%20select%20\\*from%20order%20  \n←→C|① 192.168.42.6/7id/=123%20select%20\\*from  \n应用华西安全网> 混洞公告·黑吧安全网某厂2016实习招聘安 传课网：互联网技术WordPress4.0- De客户中心-SS代理之F [更新]HTTF您的IP为192.168.42.158 请不要对网站进行攻击。 联系方式：knickers@stors.com",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1-0 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可以看出非法的访问攻击手段已经被waf拦截并记录到waf 服务器中。查看waf日志如图1-9。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/473ff1aadc84bd111105ced0ea718b19b1c3c44bb4a15e6ec9442ad7331f7afc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>root@localhost:/var/log/nginx</td></tr><tr><td>File Edit View Search Terminal Help</td></tr><tr><td>92.168.42.158-- [04/Apr/2017:01:45:13 -0700] \"GET /favicon.ico HTTP/1.1\" 400 42 \"http://192.168.42.6/\" \"Mozilla/5.0 (Windows NT 10.0;Wow64）AppleWebKit/537. 36(KHTML，like Gecko）Chrome/56.0.2924.87 Safari/537.36\" 192.168.42.158-- [04/Apr/2017:01:45:14-0700]\"GET/HTTP/1.1\"400 42\"-\" \"MoZ illa/5.0(Windows NT 10.0；WOW64） AppleWebKit/537.36(KHTML，like Gecko）Chrome/</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1-9 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图1-9可知，攻击者的攻击手段被记录并拦截下来。并将连接后的数据转移到另一台内网的蜜罐系统中。方便管理员统一收集查看攻击信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验3，对内网linux 服务器进行 ssh爆破（弱口令攻击)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验环境：centos6.8（攻击主机）Linux蜜罐系统（kippo低交互蜜罐开启）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用一台linux对linux蜜罐发送ssh连接请求，对密码进行猜解。如图1-10",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/015ac6adee50cc54d1272f6bd422061816137c470693f521b4ce2f2d59891729.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>root@localhost:~/Desktop □</td></tr><tr><td>FileEdit View Search Terminal Help RSA key fingerprint is 14:d3:8f:4f:26:37:fd:da:76:6e:b9:3f:c5:4b:3c:f1.</td></tr><tr><td>Are you sure you want to continue connecting (yes/no)? YES Warning:Permanently added‘192.168.42.63' (RSA） to the list of known hosts. Password: Password: Password: root@192.168.42.63's password: 123 Permission denied，please try again. root@192.168.42.63's password: 321Permission denied，please try again. root@192.168.42.63's password:</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这时登陆我们的管理后端查看如图1-11。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可以看到刚刚的相关操作，登陆的账号和密码信息都有所记录，并且web管理后端已经统计成各种图表类型，可以给管理员一个直观的若口弱口令级别，警告管理员密码设置。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c8209068423be618bea02b67d01c39ebd4fd9537bfe1a33ce57bb339a9c390d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "1-0 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图1-11可以看出，攻击者使用的密码最多的是什么，爆破用户名次数排行。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/34ee948ba01b02bbc27becb90234345cc071490216ec1b9cd11ba128916abdca.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图1-13、1-14。蜜罐系统已经记录了攻击日期和攻击来源者的ip，这样对管理员分析内网沦陷机器提供了很大的帮助。也给了以后的日志管理和起诉内容提供了相关的证据。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/61c15a8765049e30f7209b78a08b0b2a149c55da962726d7d227f2d89522d026.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验4、模拟攻击者访问高交互蜜罐系统 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当内网一台机器被沦陷后，其他服务器也将处在危险的环境之中，而通过高交互蜜罐系统可以引诱攻击者来攻击这个蜜罐，而本文中的高交互蜜罐当web端被攻击者访问时可以记录攻击者ip和时间以及页面信息。并将其保存在服务器中。方便管理员查看和分析攻击来源、。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验环境：windows主机 （windows 2003server  \nps2）apache $2 . 0 +$ php7+mysql5  \nIP:192.168.42.241  \nWindows 主机（攻击者）  \nweb客户端  \nIP: 192.168.42.158  \n使用 edge 浏览 器访问  \nhttp://192.168.42.241/index.php（如图1-15）",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c7f8d3a2fac0bc243c1532168d2371e25f921c6d0fc1d63dae921bd934d5750.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td> Hello</td><td>+</td><td></td><td></td><td></td><td>□</td><td>X</td></tr><tr><td>↑ → C</td><td>192.168.42.241</td><td>☆</td><td>=</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1-0 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "假设攻击者通过端口扫描器扫描到了这个服务器开启了80服务。并进行访问了。该脚本的作用就是记录访问者ip和时间并记录到一个txt文件中。这里我们用管理主机登陆到蜜罐系统的主机查看日志文件。如图1-16。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "该蜜罐系统在浏览器设置代理策略，代理到localhost:8080 下,  \n这样使得该脚本作用不止如此，假设攻击者已经获得了蜜罐系统的管理员权限后，如果攻击者使用浏览器访问其他服务器所有的流量都将返回到本机，并被后台php 脚本记录。如图1-17。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1-0 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这样即使攻击者获得管理员权限后也会被记录到所有的访问操作。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5实验结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蜜罐技术是继防病毒、防火墙、入侵检测系统等技术过后，又一令人耳目一新的强有力的网络安全技术，本论文将蜜罐系统结合传统防火墙构建的集成蜜罐系统能够大范围覆盖常见内网攻击的手法引诱。由上文试验中可以看出，蜜罐系统对于当前常见的内网攻击手段有着一定的限制作用，来自应用层的攻击本论文模拟的环境可以做到全部网络控制保证蜜罐系统的数据捕获和与生产系统互不影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蜜罐系统的记录功能不止是记录在本机的文件中，也使用了不同的Database，如Mysql、PostgreSQL主要用来储存攻击者的操作记录IP 地址、时间、ssh 爆破的字典等等。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "后端管理采取了多平台多管理的后端，有php+mysql和 $\\mathsf { I u a } + \\mathsf { g o }$ 等。统一后端管理都有虚拟化主机管理和镜像备份。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蜜罐容器采取了时下比较成熟和流行的Vmware12虚拟化蜜罐系统操作环境，后期可改进成docker或者 QEMU-KVM等虚拟化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "应用层模拟使用了开源的kippo收集和记录ssh操作记录，使用Dionaea+DionaeaFR组建常见端口模拟和web端日志管理程序。Windwos采用高交互和低交互的模拟模式，通过脚本记录和服务端的日志记录方式反向追踪来源IP，高交互使用 php+mysql+apache低交互采取模拟服务端，成功欺骗各类工具的指纹识别。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了保证管理主机的安全，虚拟环境一定要与主机环境隔离，使用个力度较高的虚拟环境，如python-virtualenv、QEMU虚拟器、docker容器（不推荐）等等，给没他蜜罐系统运行的用户最低的权限，防止攻击者利用蜜罐服务的漏洞获取蜜罐系统的root权限。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "完善的防火墙设置规则，WAF设置规则能够防护 cc攻击，sql注入攻击，xss 注入攻击，xml注入攻击，http头注入攻击，黑名单设置，并且支持https。生产环境的服务器设置防火墙白名单，使用IPTABLES或者firewall进行设置。Windwos使用相关防火墙设置数据来源白名单。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "下一步我们将完善蜜罐系统的通知功能，使用nodejs实时跨平台通知管理员服务器状态，有安全问题做到第一时间通知和记录，保证高交互蜜罐的日志安全性能，进一步提高蜜罐系统的处理效率，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "完善WAF防火墙。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]毕凯，周炜，基于蜜罐的安全系统设计．计算机工程与设计，2010-11-28.[2]蜜罐系统设计的一些想法[J]、网络安全技术与应用[3]诸葛建伟，唐勇，韩心慧，蜜罐技术研究与应用进展[J].软件学报，2013,24（4）：825-839",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,108 @@
+# 流体惯性对弹性界面液滴吸附行为的影响
+
+骆政园 白博峰
+
+(西安交通大学动力工程多相流国家重点实验室，西安710049)
+
+摘要弹性膜包裹黏性流体组成的液滴(弹性界面液滴)可与功能性壁面形成化学吸附键，产生吸附力，与黏性力和惯性力共同控制流场中液滴的吸附动力学行为。本文基于前期发展的界面追踪(Front tracking method)－界面有限元方法，结合吸附反应动力学模型，发展了可同时考虑流体惯性、界面弹性和流体黏性的弹性界面液滴吸附动力学三维模拟方法。重点分析了流体惯性对弹性界面液滴吸附行为的影响规律。结果表明：雷诺数增大导致流场作用于弹性界面液滴的阻力和升力都增大，因此流体惯性作用导致弹性界面液滴更容易从壁面脱附。
+
+关键词弹性界面液滴；化学吸附；吸附动力学；流体惯性中图分类号：O359 文献标识码：A 文章编号:0253-231X(2017)04-0776-05
+
+# Effects of Fluid Inertia on Adhesion Behayiors of Elastic Capsules
+
+LUO Zheng-YuanBAIBo- -Feng (State Key Laboratoryof Multiphase Flow in Power EngineeingXi'an Jiaotong University， Xi'an 710049, China)
+
+AbstractElastic capsules (consisting of viscous fluid enclosed by elastic membranes) can form specific adhesion bonds with functionalized Sface. Adhesion force in these bonds and viscous and inertial force in fluids determine adhesige dynamics of capsules under flow. In this paper, based on the front-tracking finite-element method we developed previously，we further combine the kinetic adhesion dynamics model and develop a three-dimensional model for adhesive dynamics of capsules, in which membrane elasticityHuid inertia and viscosity can be considered simultaneously. The effects of fuid inertia on adhesive characteristics of capsules are investigated systematically. Results show that fluid inertia induces the increase of both drag and lift forces from the surrounding fluid. As a consequent, the detachment of the elastic capsule is promoted by fluid inertia.
+
+Key wordselastic capsules; chemical adhesion; adhesive dynamics; fluid inertia
+
+# 0前言
+
+弹性界面液滴由弹性薄膜包裹黏性流体组成液滴的弹性薄膜上可存在复杂化学物质，与壁面产生化学吸附作用。弹性界面液滴与壁面的化学吸附现象广泛存在于自然界和工程应用中[1,2]，例如，石油工程中储层孔喉道岩石壁面上复杂油滴的吸附与脱附、生命科学中白细胞和癌细胞等生物细胞从血流中吸附于血管壁并迁移出血管、生物医学工程中基于壁面吸附的微流体分离技术采用化学改性壁面捕获并分离细胞等特定液滴。因此，研究弹性界面液滴的吸附动力学特性及机理具有重要的科学意义和工程价值。
+
+Hammer 教授研究小组[3-5]基于反应动力学模型，对剪切流中刚性颗粒 (模拟白细胞)在壁面化学作用下的吸附动力学进行了系列研究。然而，弹性界面液滴在流场作用下可展现很大变形。一些学者基于浸入边界法、流体体积法、耗散粒子动力学等两相流动力学方法求解液滴内外流场，考虑弹性界面液滴变形的同时结合反应动力学模型研究弹性界面液滴吸附动力学行为[6-8]，但仍存在很多不足：已有模型以二维为主；少数三维研究中，描述界面力学性质采用表面张力模型或者只考虑剪切弹性，模型相对简单。因此仍需研究实际应用中具有更加复杂界面力学性质的三维弹性液滴的吸附动力学。
+
+我们的前期研究基于 Front Tracking Method发展了弹性界面液滴变形运动的两相流模拟方法[9-14]，本文采用弹性界面与化学改性壁面之间化学吸附作用的反应动力学模型，对剪切流场中弹性界面液滴在壁面上的吸附动力学进行研究，重点分析了流体惯性对弹性界面液滴吸附行为的影响规律。
+
+# 1 计算模型
+
+液滴弹性界面与改性壁面产生化学吸附作用时，往往同时存在物理吸附作用(来源于范德华力、静电力、水合力等分子作用力)。然而，已有研究指出弹性界面液滴与改性壁面之间形成化学吸附时，化学吸附能远高于物理吸附能 (高两个量级以上)。另外,一些自然现象或前沿技术的关键是化学吸附强于物理吸附的特性，如体内血管中白细胞和癌细胞的吸附迁移、体外基于抗体抗原作用的细胞捕获分离微流体技术等。因此，本文建立弹性界面液滴吸附模型时，忽略物理吸附作用，而只考虑化学吸附作用。本文建立了液滴界面与改性壁面间的化学吸附模型。根据Dembo等发展的吸附键反应动力学计算吸附键密度 $N _ { \mathrm { b } }$ ：
+
+$$
+\frac { \mathrm { d } N _ { b } } { \mathrm { d } t } = k _ { \mathrm { f } } \left( N _ { \mathrm { l } } - N _ { \mathrm { b } } \right) \left( N _ { \mathrm { r } } - N _ { \mathrm { b } } \right) - k _ { \mathrm { r } } N _ { \mathrm { b } }
+$$
+
+式中， $t$ 为时间； $k _ { \mathrm { f } }$ 为吸附速率; $k _ { \mathrm { r } }$ 为解吸速率； $N _ { \mathrm { l } }$ 为壁面配体密度； $N _ { \mathrm { r } }$ 为微绒毛顶端受体密度。其中， $k _ { \mathrm { f } }$ 和 $k _ { \mathrm { r } }$ 与吸附键长度有关：
+
+$$
+k _ { f } = k _ { \mathrm { f 0 } } \exp { \left[ - \frac { k _ { \mathrm { t s } } ( l _ { \mathrm { b } } - l _ { \mathrm { b 0 } } ) ^ { 2 } } { 2 k _ { \mathrm { b o } } T } \right] }
+$$
+
+$$
+k _ { \mathrm { r } } = k _ { \mathrm { r 0 } } \exp \left[ - { \frac { \left( k _ { \mathrm { b } } - k _ { \mathrm { t s } } \right) \left( l _ { \mathrm { b } } - l _ { \mathrm { b 0 } } \right) ^ { 2 } } { 2 k _ { \mathrm { b o } } T } } \right]
+$$
+
+式中， $k _ { \mathrm { f 0 } }$ 为吸附键为原长时的吸附速率； $k _ { \mathrm { r 0 } }$ 为吸附键为原长时的解吸速率； $k _ { \mathrm { b o } }$ 为玻尔兹曼常数；T为系统温度; $k _ { \mathrm { t s } }$ 为吸附键处于 slip bond-catch bond 转变时的弹簧常数; $l _ { \mathrm { b } }$ 为吸附键长度。
+
+弹性界面液滴吸附动力学在生物液滴研究领域具有广泛背景，如红细胞在血管壁的吸附、白细胞和癌细胞等在血管壁或微流体功能化壁面上的吸附等。更重要的是生命科学及生物医学工程领域对细胞结构及化学功能团等已有较多研究，为本文模型提供基本参数，因此本章弹性界面液滴化学吸附动力学模型主要针对生物液滴，充分考虑细胞特点并采用其性质参数。线性剪切流场中弹性液滴吸附动力学模拟基于无量纲控制方程求解。无量纲参数包括雷诺数 $R e$ 、毛细数 $\mathit { C a }$ 、吸附数 $A d$ 。吸附数为吸附力与黏性力的比值，其定义式为： $A d =$ $k _ { \mathrm { b } } / \mu \gamma R$ 。
+
+# 2结果与讨论
+
+首先分析忽略流体惯性时（ $R e = 0 . 1 \AA ,$ ）毛细数和吸附数对分别处于脱附、滚动、稳定吸附状态的弹性界面液滴运动、吸附、变形特性的影响规律。
+
+如图1所示，展示了弹性界面液滴处于脱附状态时其吸附面积和运动速度随时间的变化。初始阶段，流场作用下液滴产生变形，吸附面积增大，运动速度减小；流场作用下促使液滴最后端的吸附键断裂，而前端吸附键形成速率小，吸附面积减小，运动速度增大。吸附数很小时 (如 $C a = 0 . 0 5$ 时， $A d =$ $1 0 0 { \sim } 1 3 0 0 \$ )，液滴后端吸附键吸附力过小，不足以使液滴前端运动至吸附力范围内，无法形成新的吸附键，液滴吸附面积一直减小，较短时间内便脱附。吸附数较大时如 $C a = 0 . 0 5$ 时， $A d = 1 4 0 0 { \sim } 1 5 0 0 )$ ，液滴后端较大的吸附力使得液滴前端可形成新吸附键只是形成速率低于后端吸附键的断裂速率，液滴吸附面积振荡性地逐渐减小直至脱附。吸附数越大，液滴倾向于振荡性地脱附，且脱附所需的时间越长。
+
+![](images/d01f92f1a5c4a48ff97dd410b2b0d22ac301b0d42c7771e7b5f883b9ece0274e.jpg)  
+图1 $A d$ 对脱附特性的影响。(a）吸附面积，(b）中心速度Fig.1 Effects of $\mathbf { \nabla } A d$ on characteristics of detachment.(a)Adhesion area,(b) center velocity
+
+如图2所示，展示了不同吸附数下弹性界面液滴处于滚动状态时吸附面积和运动速度的变化，三个参数都在某一稳定值附近振荡。吸附数越大，吸附力增大使液滴更容易靠近壁面，吸附面积增大，运动速度减小；吸附力增大也使液滴后端吸附键断裂前积聚能量更大，因此吸附数增大，吸附面积和运动速度振荡幅值增大。液滴处于接近滚动－稳定吸附转变界限时，液滴吸附面积可显著增大，但仍然处于滚动状态。
+
+但断裂速率低于液滴前端吸附键的形成速率，从而吸附面积呈现振荡性地增大直至稳定，此时液滴运动速度和长高比都呈现振荡。吸附数减小，液滴倾向于振荡性地达到稳定吸附，达到稳定吸附状态需要的时间更长。另外，液滴呈现稳定吸附状态时，吸附数增大，壁面吸附力作用增强，液滴更容易靠近壁面，导致液滴变形增大，吸附面积也增大，运动速度减小。
+
+![](images/ba00261df8dc43e03df15002ab82018644aec87787a3a7db68fd6e908b0fe481.jpg)  
+图2 $\mathbf { \nabla } \cdot \mathbf { A } d$ 对滚动特性的影响。(a）吸附面积，(b）中心速度Fig.2 Effects of $A d$ on characteristics of rolling.(a）Adhesionarea,(b）center velocity
+
+如图3所示，展示了不同吸附数下弹性界面液滴处于稳定吸附状态时吸附面积、运动速度和长高比随时间的变化。吸附数很大时(如 $C a = 0 . 0 5$ 时， $A d$ $= 2 0 0 0 { \sim } 5 0 0 0 \rangle$ ，液滴后端吸附键吸附力很大，流体阻力不足以使液滴后端吸附键断裂，而液滴变形使前端不断形成新吸附键，因此吸附面积一直增大，较短时间内达到稳定吸附，液滴保持形状不再变化。吸附数较小时(如 $C a = 0 . 0 5$ 时， $A d = 1 8 0 0 ^ { \circ } \mathrm { \Omega }$ ，液滴后端吸附键吸附力较小，在流体阻力作用下发生断裂，
+
+![](images/56c7db1dbb1f67d40f2cff1af85f1f6bbc7862c310ee010ac70096dd71f736c4.jpg)  
+图3Ad 对稳定吸附特性的影响。(a）吸附面积，(b)中心速度，(c)变形Fig.3 Effects of $A d$ on characteristics of rolling.(a）Adhesionarea,(b) center velocity,(c) deformation
+
+接下来分析流体惯性影响下 $( R e > 0 . 1 )$ 弹性界面液滴的吸附动力学特性。图 $4 { \sim } 6$ 展示了不同雷诺数下吸附面积、运动速度、长高比随时间的变化。雷诺数增大，吸附面积减小，运动速度增大，长高比减小。雷诺数增大，液滴运动速度、吸附面积和长高比的振荡幅值和振荡周期都减小。同一吸附数下，随雷诺数增大，弹性界面液滴的吸附状态可由稳定吸附转变为滚动，最后转变为脱附。较低雷诺数时(如 $A d = 5 0 0 0$ 时 $R e = 0 . 1 { \sim } 0 . 2 \rangle$ ，液滴运动速度随时间减小至0，液滴变形和吸附面积最终也可达到稳定值，液滴呈现稳定吸附；雷诺数增大时（如 $A d =$ 5000时 $R e = 0 . 4 \mathrm { { \sim } } 0 . 8 )$ ，液滴运动速度、吸附面积和变形都在某一稳定值上下振荡，此时液滴呈现滚动状态；雷诺数进一步增大时（如 $A d = 5 0 0 0$ 时 $R e =$ $0 . 9 { \sim } 1 \dot  \$ )，液滴吸附面积随时间逐渐减小至0，液滴呈现脱附状态。
+
+1.5 1.5 (a) / (b) 心！ Re=0.2 11 八 -Re=0.25 / 1 心 Re=0.4 八 M心 -.R=-1.8 1.0 Re=0.1 1.0   
+R 1 --Re=0.2 R 1 .Re=2   
+uoy M Rc=0 y . · 0.5 0.5 ： --Re=1 版权所 5 W 1 0.0 T P 中 W 2 r 5 7 1 WW90 .0 上 0 3 6 9 0 3 6 9 12 15 S yt yt
+
+![](images/fc9ad3dc78967cbd65cbe32ee2cd6f50b1e96899bc4a6dc94bfc16997e556f6c.jpg)  
+图4Re对吸附面积的影响。(a) $A d = 5 0 0 0$ ，(b）Ad = 10000'ig.4 Effects of Re onadhesion area. (a) $A d = 5 0 0 0$ ，(b) $A d = 1 0 0 0 0$ （204
+
+![](images/1398eded581a50acf94f663a06cee636416c6e4ec16b7b4006791f1a7dc2fdd8.jpg)  
+图5Re对中心速度的影响。(a) $A d = 5 0 0 0$ ，(b) $A d = 1 0 0 0 0$ Fig.5Effects of $R e$ on center velocity. (a) $A d = 5 0 0 0$ ，(b) $A d = 1 0 0 0 0$   
+图6Re对变形的影响。(a) $A d = 5 0 0 0$ ，(b) $A d = 1 0 0 0 0$ Fig.6 Effects of $R e$ on deformation.(a) $A d = 5 0 0 0$ ，(b) $A d = 1 0 0 0 0$
+
+为了分析雷诺数对液滴吸附动力学状态转变的影响，如图7所示，展示了基于吸附数和雷诺数的液滴吸附动力学状态分布相图。由图可见，保持吸附数不变时，只增大雷诺数可促使液滴由稳定吸附向滚动、并最终向脱附转变。另一方面，雷诺数增大使液滴发生稳定吸附－滚动状态转变、以及滚动-脱附状态转变的临界吸附数显著增大。说明增大雷诺数，能促进弹性界面液滴从壁面化学作用下脱附。流场中液滴所受的流体阻力随雷诺数升高而显著增大。吸附于壁面的弹性界面液滴，雷诺数升高时，流体阻力增大导致液滴更容易滚动；当雷诺数进一步升高时，显著增大的流体阻力使液滴后端吸附键断裂速率增大，最终大于液滴前端吸附键的形成速率，促使液滴发生滚动－脱附的状态转变。
+
+![](images/99664d9f41d714522a4d8a643fef5e67c2ecc7fd5f4d925a2ea66f44ca1a1501.jpg)  
+图7Re对弹性界面液滴吸附动力学状态转变的影响 Fig.7 Effects of Re on the transitions between different dynamicalstates
+
+# 3结论
+
+本文建立了弹性界面液滴与功能壁面产生化学吸附的反应动力学模型，研究了剪切流场中弹性界面液滴在壁面上的吸附动力学行为，重点阐述了流体惯性对弹性界面液滴吸附行为的影响规律。模拟获得了弹性界面液滴在壁面化学吸附作用下展现的脱附、滚动、稳定吸附三种吸附动力学状态，雷诺数增大导致流场作用于弹性界面液滴的阻力和升力都增大，因此流体惯性作用增强使得弹性界面液滴更容易从壁面脱附。
+
+# 参考文献
+
+[1]Fischer P and Erni P.Emulsion Drops in External Flow
+
+Fields The Role of Liquid Interfaces [J].Current Opinion in Collid & Interface Science,2007,12(4/5):196-205   
+[2] Chaffer C L and Weinberg R A.A Perspective on Cancer Cell Metastasis [J]. Science, 2011,331(6024): 1559-1564   
+[3] Chang K C, Tees DF Jand Hammer D A.The State Diagram for Cell Adhesion Under Flow: Leukocyte Rolling and Firm Adhesion [J]．Proceedings of the National Academy of Sciences of the United States of America, 2000,97(21):11262-11267   
+[4] King M R and Hammer D A. Multiparticle Adhesive Dynamics: Hydrodynamic Recruitment of Rolling Leukocytes [J]. Proceedings of the National Academy of Sciences of the United States of America,2001,98(26):14919- 14924   
+[5] Caputo K E and Hammer D A.Adhesive Dynamics Simulation of G-Protein-Mediated Chemokine-Activated Neutrophil Adhesion [J]. Biophysical Journal, 2009,96(8): 2989-3004   
+[6] NDN A, Shyy W and Tran-Soy-Tay R. Computational Modeling of Cell Adhesion and Movement Using aContinuum-kinetics Approach [J]. Biophysical Journal, 2003,85: 2273-2286   
+[7] Fedosov D A, Caswell B and Karniadakis G E. Wall Shear Stress-based Model for Adhesive Dynamics of Red Blood Cells in Malaria [J].Biophysical Journal,201l，100(9): 2084-2093 [8]Luo Z Y,Xu F and Bai B F.Direct Numerical Simulation of Detachment of Single Captured Leukocyte Under Different Flow Conditions [J]. Journal of Mechanics in Medicine and Biology, 2011,11(2):273-284   
+[9] Bai B F, Luo $\mathcal { C } ^ { \mathbb { Y } }$ Wang S Q,et al. Inertia Effect on Deformation of Viscoelastic Capsules in Microscale Flows [J]. Micr8uidics and Nanofluidics, 2013,14: 817-829   
+[10] LuOZY,Wang S Q,He L,et al.Front Tracking Simulation of Cell Detachment Dynamic Mechanism in Microfluidics [J]. Chemical Engineering Science, 2013,97: 394-405   
+[11] Luo Z Y,Wang S Q,He L,et al. Inertia-dependent Dynamics of Three-Dimensional Vesicles and Red Blood Cells in Shear Flow [J]. Soft Matter,2013,9(40):9651- 9660   
+[12] Luo Z Y,He L,Wang S Q,et al. Two-dimensional Numerical Study of Flow Dynamics of a Nucleated Cell Tethered Under Shear Flow [J].Chemical Engineering Science, 2014,119:236-244   
+[13] Luo Z Y,He L,Xu F,et al. Three-dimensional Numerical Simulation of Vesicle Dynamics in Microscale Shear Flows [J]. Journal of Nanoscience and Nanotechnology, 2015,15(4): 3081-3086   
+[14] Luo Z Y, He L,Bai B F.Deformation of Spherical Compound Capsules in Simple Shear Flow [J]. Journal of Fluid Mechanics,2015,775:77-104

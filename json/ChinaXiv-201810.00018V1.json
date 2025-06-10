@@ -1,0 +1,698 @@
+[
+    {
+        "type": "text",
+        "text": "自适应尺度特征融合与模型更新的跟踪算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王日宏，李永珺，张立锋(青岛理工大学 信息与控制工程学院，山东省 青岛市 266520)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在核相关滤波器跟踪算法中，为了减少背景相似物等杂波对跟踪器的干扰，以及解决不同跟踪结果置信度下的模型更新问题，提出了自适应尺度特征融合与模型更新的跟踪算法。过多特征融合和尺度变化策略改进了多特征的尺度核相关滤波器，使用多峰检测对响应图的整体振荡程度进行判断，再对峰值进行跟踪结果置信度评估；在遮挡、形变等跟踪结果置信度低的情况下及时停止模型更新，在高置信度模型更新时，引入初始模型进行对齐操作，减少模型的更新误差，抑制模型漂移。比较核相关滤波器算法，本算法准确度较高，且在目标尺度变化、遮挡和形变时稳定性更好。在OTB-50数据集上的实验结果表明，本算法在精度和成功率上都比核相关滤波器算法表现更优。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：多特征融合；尺度核相关滤波器；多峰检测；高置信度；模型更新；抑制模型漂移 中图分类号：TP301.6 doi: 10.3969/j.issn.1001-3695.2018.07.0419 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Self-adaptive scale feature fusion and model update tracking algorithm ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Rihong,Li Yongjun, Zhang Lifeng (SchoolofInformation&ControlEnginering,QingdaoUniversityofTechnology,Qingdao Shandong 266520,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Inthekemelcorrelation filtertrackingalgorithm,inordertoreducetheinterferenceofbackgroundsimilarityand othercluter tothe tacker,and tosolvethe problemofmodelupdatingunderthediferentconfidence degreeoftrackingresults. This paper proposes a self-adaptive scale feature fusion and model update(SFMU) tracking algorithm.Through multi-feature fusionand scale variationstrategytoimprovethe multi-feature scale kernelcorrelation filter,using multi-peakdetectionjudged the overall oscilation degree ofresponse map,then to evaluatetheconfidene degreeofthe trackingresult.Thealgorithm stopped updating model timely in thecaseoflow confidenceofthe tracking results such as occusionand deformation.In the high confidence model update,thealgorithm introducedthe initialmodel tothealignmentoperationto suppress model drift. Therefore,comparedwiththekerelcorrelationfilteralgorithm,ouralgorithmismoreacuracy,andthestabilityistternthe targetofscale variation,occlusionanddeformation.Theexperimentalresults ontheOTB-50datasetshowthattheprecisionand success rate of the proposed algorithm are beter than those of kernel correlation filter algorithm. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: multi-feature fusion;scalekerelcorelationfilter;multi-peak detection;highconfidence; modelupdate;suppre model drift ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目标跟踪是目前计算机视觉领域的热点研究方向之一，在军事、智慧城市等实际应用中有着重要的作用。随着人工智能技术的发展，在近十年里，目标跟踪算法也有着极大的进步。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2010 年，Bolme 在目标跟踪领域中首次运用相关滤波的知识，提出了相关滤波器的最小平方误差和输出的跟踪算法[1(minimum output sum of squared error, MOSSE)，其展示出了惊人的跟踪速度，同时提出了PSR跟踪结果置信度的水平评估，得到了广泛的认可和研究。后来Henriques 在其基础上使用密集采样和核函数，提出了循环结构的核跟踪检测算法（circulantstructure of tracking-by-detection with kernel,CSK)[2]和核相关滤波器的快速跟踪算法[3](high-speed tracking with kernelizedcorrelationfilters，KCF)，KCF算法利用循环矩阵的特性，将计算转换到傅里叶域中进行，同时使用改进的多通道梯度方向直方图(HOG)代替单通道的灰度特征。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "之后,涌现了许多性能良好的相关滤波类算法，如Danelljan提出的自适应颜色特征实时跟踪算法[4](adaptive colorattributesforreal-timevisualtracking)，利用将RGB颜色空间细化的黑、蓝、棕、灰、绿、橙、粉、紫、红、白和黄11种颜色空间来代替梯度方向直方图特征描述目标。以及Danelljan 提出的有着良好的尺度策略的跟踪算法[5] (accurate scale estimation for robustvisualtracking,DSST)，专门训练了一个类似MOOSE 滤波器去检测尺度变化，让目标的尺度检测和位置检测分开进行。Possegger 提出的颜色统计特征方法(DAT，indefenseofcolor-base model-free tracking)6，统计前景和背景区域的颜色直方图并归一化，利用贝叶斯方法判别概率。Bertinetto 提出将模板特征方法DSST和颜色统计特征方法DAT相结合的Staple(complementarylearners forreal-time tracking)算法l7l。而在长时间跟踪方面，MaChao提出了基于相关滤波的跟踪算法[8](long-term correlation tracking,LCT)，在一个平移滤波器和一个尺度滤波器的基础上，再加了负责检测目标置信度滤波器的检测机制。近三年来，深度学习开始应用到跟踪中，BHan 提出结合深度学习的 MDNet 算法[9]和Danelljan 提出的以VGG-Net卷积神经网络为基础，提取目标深度特征的ECO 算法[10]等是深度学习方法中性能优良的算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前跟踪领域主要分成相关滤波类和深度学习类，后者的算法精度较高，但是速度慢，一般情况下较难实现实时。所以本文的研究方向为相关滤波类算法。但是KCF、CN算法无法处理目标尺度变化，Staple 算法中融合了HOG和颜色特征，但特征较为复杂，DSST算法中引入了尺度策略，但跟踪不稳定，难以较长时间跟踪，LCT算法虽可以较长时间的跟踪目标，但由于过多的滤波器导致跟踪过程较复杂。所以本文提出一种自适应尺度特征融合与模型更新的跟踪算法（SFMU)，对多特征的尺度核相关滤波器检测到的最优尺度模型响应图进行多峰检测和PSR置信度评估的振荡程度分析，判断跟踪结果的置信度水平，同时在模型更新时加入初始模型以抑制模型漂移，并在OTB-50数据集[11]上验证了算法的有效性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1多特征的尺度核相关滤波器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1核相关滤波器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "核相关滤波器算法的思想是利用循环位移密集采样以丰富目标样本，用得到的样本集训练岭回归分类器，同时通过循环矩阵对角化的性质，使用快速傅里叶变换转换到频域加速计算[12]，利用训练出的分类器，对新输入的图像比较计算相关性,得到新输入的图像与之前帧图像间的置信度响应图，最后选取响应峰值作为预测目标的位置。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "岭回归分类器的目标是找到函数 $\\boldsymbol { f } ( z ) = \\boldsymbol { W } ^ { T } \\boldsymbol { z }$ 使得误差目标函数最小，通过最小二乘法求解：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { w } \\sum _ { i } ( f ( x _ { i } ) - y _ { i } ) ^ { 2 } + \\lambda \\left\\| w \\right\\| ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而核相关滤波器，引入了核函数，通过非线性映射函数w=∑αiφ(xi)将线性映射成非线性，从一维转换到高维空间中,最终得到傅里叶空间中的解：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\alpha } = \\frac { \\hat { y } } { \\hat { k } ^ { x } + \\lambda }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：参数 $x$ 为目标特征向量， $\\alpha$ 为目标滤波器模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "岭回归分类器训练好之后，对新输入的图像<与目标样本集的快速检测，得到响应图：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { f } ( z ) = \\hat { k } ^ { x z } \\odot \\hat { \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2多特征的尺度核相关滤波器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "岭回归分类器中提取的目标特征向量 $x$ 是对目标的描述，也是决定跟踪精度的重要条件，但仅仅提取单一特征具有局限性，本文使用颜色特征（CN）融合方向梯度直方图（fHOG）。其中fHOG属于梯度特征，对运动模糊、光照变化等情况下描述效果较好，但对快速形变、快速运动描述效果不佳，而目标的颜色特征对于形变不敏感，所以颜色特征与梯度特征可以互补，有效的提高了算法鲁棒性。本文使用31维fHOG和10维CN以及1维原始的灰度特征融合的42维的多通道特征，见图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为KCF算法固定模板的原因，所以要处理目标的尺度变化，首先要构建目标的多尺度图像，如图2，然后分别密集采样后再提取描述目标外观模型的多通道特征去训练岭回归分类器，得到目标的多尺度模型，选取其中最优尺度模型的目标位置和尺度大小[13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd1d8de1ab075f6fe4ae2af76a8646ab15ed2db1e2272c71f6577b1d141da35e.jpg",
+        "img_caption": [
+            "图1目标多特征图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb8cdfd371ab539b2b22628233c0c06b3f0e4c2c6280f6320a90c5ac7aac61d1.jpg",
+        "img_caption": [
+            "图2目标的多尺度图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多尺度核相关滤波器的具体步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)根据第一帧图像，确定图像初始化的大小 $S _ { \\mathrm { \\it t } } = ( S _ { \\mathrm { \\it x } } , S _ { \\mathrm { \\it y } } )$ ·b）设置图像尺度变化幅度的 $i$ 个尺度因子向量factor，其中的元素factori：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf a c t o r _ { i } = 1 \\pm \\alpha i ; i = 0 , 1 , \\cdots , 2 n + 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：尺度变化的步长 $\\alpha \\in ( 0 , 1 )$ ，加号代表着尺度变大，减号则是尺度减小，尺度变化总次数为 $2 n + 1$ ，当 $f a c t o r _ { i } = 1$ 时尺度不变；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)利用双线性插值[14]，根据设置的尺度因子factor，对新输入的图像进行尺度变化，得到多尺度图像池$\\{ f a c t o r _ { i } { ^ * S } _ { t } | f a c t o r _ { i } \\in f a c t o r \\}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)使用固定大小的采样框分别对多尺度图像进行目标采集，这样通过对图像的放缩得到目标的多尺度图，再密集采样得到目标的多尺度样本集；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e）根据目标的多尺度样本集，训练多尺度的岭回归目标模型：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\alpha } ^ { i } = \\frac { \\hat { y } ^ { i } } { \\hat { k } ^ { x i } + \\lambda } ; i = 0 , 1 , \\cdots . 2 n + 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： ${ \\hat { \\alpha } } ^ { i }$ 是多尺度的目标模型， $\\hat { y } ^ { i }$ 和 $\\hat { k } ^ { x z i }$ 中上标 $i$ 是对应的尺度， $x$ 是目标的特征，<是待检测的图像；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f）根据 ${ \\hat { \\alpha } } ^ { i }$ 快速计算出最优尺度模型：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\hat { f } ^ { i } ( z ) = \\hat { k } ^ { x z i } \\odot \\hat { \\alpha } ^ { i } ; i = 0 , 1 , \\cdots . 2 n + 1 } \\\\ & { \\mathrm { a r g m a x } \\ \\hat { f } ^ { i } ( z ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "g)更新分类器中的目标模型 $\\alpha$ 和目标特征 $x$ ，具体更新策略见下文。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文结合多通道特征与自适应尺度策略最终形成多特征的尺度核相关滤波器。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 改进的模型更新策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在目标跟踪中，模型漂移是模型更新中的挑战之一，而模型漂移出现的原因主要有以下两点：a)当背景中有相似物杂波的干扰和目标在遮挡、形变等低置信度情况下，跟踪器对结果不作处理，模型更新时会将结果中的噪声带入模型；b)在每次检测后会有或多或少的检测误差，随着模型更新的进行会产生更新误差，最终累积的更新误差会导致跟踪精度下降。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以本文主要在KCF算法的基础上，通过两个方面来进行改进。一方面是减少背景中相似物对目标的干扰，然后对跟踪结果的置信度判断，尽可能的选择出跟踪置信度高的结果，而跟踪结果置信度的判断主要有两个指标，第一个是最大响应值即是峰值，峰值越大置信度越高，第二个则是用峰值强度来表示峰值周围振荡程度，振荡幅度越高置信度越高。另一个方面在置信度高的情况下去更新目标模型，更新过程中考虑到难以避免的检测误差，所以引入目标的初始模型进行对齐操作，这样可以减少模型被感染的同时还提升了跟踪速度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1多峰检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在1.2节中检测出目标最优尺度模型，KCF算法判断下一帧中目标的位置是根据检测的模型响应图进行单峰检测，取峰值的位置即是目标预测位置。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于其他相似物等噪声杂波的干扰所造成模型漂移，会使目标模型被污染，进一步会导致跟踪失败。见图3，绿色框为跟踪的结果，而红色框是目标的实际位置，这两个位置对应的响应值较大且干扰处的响应值大于目标实际位置，这时若让跟踪器根据峰值即是目标预测位置的规则继续跟踪，会因更新误差的累积而逐渐地丢失对目标的跟踪。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/45a306acf03670100dcc6129df6905b500ccc07c8f6f754b7e1989721c65979c.jpg",
+        "img_caption": [
+            "图3跟踪中的多峰响应图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，本文首先引入基于响应图的多峰检测[15]，判断响应图的整体振荡程度。首先就是把响应图中大于阈值 $\\theta$ 的峰筛选出来，构建多峰矩阵 $P$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = \\hat { f } ( z ^ { i } ) \\circ B\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\hat { f } ( \\boldsymbol { z } ^ { i } )$ 是多尺度核相关滤波器检测得到的最优模型响应图， $B$ 是一个只有0和1元素与响应图具有相同大小的矩阵，符合条件的峰为1，其他的为0，得到多峰矩阵 $P$ 。根据 $P$ 中多峰的位置，建立搜索区域，进行二次检测，取其中响应值最大的为这一帧的峰值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多峰检测通过对响应图的整体的振荡情况的判断，尽可能判断出背景中是否存在着相似杂波，再分别进行二次检测取最大响应值作为当前帧的峰值，然后要对检测到的峰值进行信息的置信度检测。首先定义当前峰值为 $F _ { c u r }$ ，当前帧之前的峰值集合表示为 $F = \\{ F _ { i } | i = 1 , 2 , \\cdots , n \\}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { \\displaystyle { u = \\sum _ { i = 1 } ^ { n } F _ { i } / n } } \\\\ { F _ { c u r } > u } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { u }$ 为峰值集合F的平均值，当 $F _ { \\mathrm { { c u r } } }$ 大于之平均峰值时，判定峰值的置信度较高，这样区分目标与相似物，减少相似物对跟踪器的干扰。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2峰值的置信度评估 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多峰检测对响应图的整体振荡情况进行了判断，并且确定了峰值，然后通过对峰值的初步置信度判定，尽可能的排除了背景相似杂波的干扰。但是对在目标遮挡、形变等情况下的跟踪结果置信度仍然未作判断，见图4，在连续两帧图像中，目标的状态变化极快，迅速地被干扰物遮挡，从图中第一个响应图可以看出，有两个距离很近的波峰且峰值的振荡幅度较低，说明峰值强度不高，有杂波干扰跟踪器，所以在另一个响应图看出，跟踪器已经把干扰物当成了目标，因此应该及时停止模型的更新。所以若仅仅进行多峰检测仍然会有不能区分出目标的情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过多峰检测初步确定了峰值的位置和跟踪信息的置信度情况，所以还需要根据峰值强度来进一步配合来表示跟踪结果的置信度水平。为此，引入根据峰值强度判断跟踪结果置信度的PSR方法，是在首次应用相关滤波知识的MOSSE 算法中提出的一种根据峰值周围 $1 1 ^ { * } 1 1$ 的窗口振荡程度而有效地表示峰",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "值强度的方法[16]。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ae00d8bd7946aa91098c784a62964e9d7f4209f9113971b851b88ecd7d2240e.jpg",
+        "img_caption": [
+            "图4低置信度跟踪结果与响应图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因为在相关滤波类算法的跟踪中，若跟踪结果良好，那么经过滤波器运算后的响应图会近似呈现出高斯分布的情况，那么响应图中峰值强度高，波峰周围的振荡幅度大，反之当计算出峰值周围的振荡小的时候可以判定峰值强度不高。所以PSR方法就是通过对波峰的振荡幅度的判断来确定跟踪结果的置信度高低，而且PSR方法的计算原理简洁明了，运算量较少，其定义为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP S R = \\frac { g _ { \\mathrm { m a x } } - \\mu _ { s } } { \\sigma _ { s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $g _ { \\mathrm { m a x } }$ 为峰值， $\\mu _ { s }$ 为窗口 $s$ 的均值， $\\sigma _ { s }$ 为窗□ $s$ 的标准差。若PSR值越高则响应图中的峰越近似高斯分布，说明跟踪结果越准确。本文取／为PSR的阈值，当PSR大于 $\\gamma$ 时，表示跟踪结果峰值置信度高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以当跟踪结果通过多峰检测，且 $F _ { c u r } > u$ 和 $P S R > \\gamma$ 的情况下，判定这一帧的跟踪结果置信度高，接下来在进行更新模型的抑制模型漂移操作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3抑制模型漂移 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "前面通过对响应图的峰值大小及峰值振荡幅度进行判断，当跟踪结果的置信度水平高时，进行目标模型更新。针对目标跟踪中不可避免的模型更新误差所造成的模型漂移问题，本文利用第一帧的初始目标模型在更新时进行对齐操作[16]来抑制模型漂移。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先用多特征的尺度核相关滤波器检测出最优尺度模型，检测其响应图中的峰值大小与强度，通过置信度判定则取峰值位置为目标在这一帧的估计位置，然后在这个位置建立搜索框，利用初始目标模型计算出目标的预测位置，如果两个位置之间的欧氏距离低于设定的阈值则更新模型，否则就不更新模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "抑制模型漂移的具体方法步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）跟踪器检测出目标最优尺度模型，且通过多峰检测和置信度水平评估；b）取峰值为估计位置 $P _ { t }$ ，并在 $P _ { t }$ 处构建搜索框，然后利用初始模型参数用分类器在搜索框重新计算出目标预测位置 $\\boldsymbol { P } _ { t } ^ { * }$ ;c）如果 $P _ { \\mathrm { \\it { t } } }$ 和 $\\boldsymbol { P } _ { t } ^ { * }$ 中心位置之间的欧氏距离小于阈值 $\\varepsilon$ 时，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\| P _ { t } - P _ { t } ^ { * } \\right\\| = { \\sqrt { \\left( x _ { 2 } - x _ { 1 } \\right) ^ { 2 } + \\left( y _ { 2 } - y _ { 1 } \\right) ^ { 2 } } } < \\varepsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "则用 $\\boldsymbol { P } _ { t } ^ { * }$ 作为目标在这一帧图像中的预测位置，否则停止模型更新；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d）用预测位置 $\\boldsymbol { P } _ { t } ^ { * }$ 的模型参数去更新模型，更新的方法同KCF算法：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { \\int \\alpha = ( 1 - \\beta ) \\alpha _ { p } + \\beta \\alpha _ { x } } } \\\\ { \\displaystyle { \\left. x = ( 1 - \\beta ) x _ { p } + \\beta x _ { x } \\right. } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可以利用初始目标模型进行对齐操作来抑制模型漂移，是因为目标在跟踪过程中不管怎么变化，始终与初始模型始终有一定的相似性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4本文算法流程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自适应尺度特征融合与模型更新的跟踪算法(SFMU)流程如图5所示，步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输入：视频序列和目标的位置信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输出：展示跟踪结果及精度图和成功率图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)确定目标在第一帧图像中的位置。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)使用多特征的尺度核相关滤波器获取多尺度目标，再分别提取多通道特征，最后得到最优目标尺度模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)利用多峰检测对最优模型响应图的整体振荡程度判断多峰情况，如式(7)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)若存在多峰图，对峰位置再进行二次检测，取其中最大响应值作为这一帧的峰值，在根据式(8)对峰值大小判断来初步分析跟踪信息的置信度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e)判断响应图中的峰值强度，使用PSR置信度水平评估，如式(9)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "f)通过式(8）的峰值大小和式(9)的PSR方法联合对跟踪结果的置信度评估，在目标跟踪置信度高时，进行抑制模型漂移操作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "g)在峰值 $P _ { t }$ 处构建搜索框，使用初始模型去预测目标位置$\\boldsymbol { P } _ { t } ^ { * }$ ，若 $\\left\\| P _ { t } – P _ { t } ^ { * } \\right\\| < \\varepsilon$ ，则用 $\\boldsymbol { P } _ { t } ^ { * }$ 去更新模型，否则不更新模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "h)没有通过PSR评估的峰值不更新模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验环境为MATLABR2016b，Windows764bit操作系统，电脑配置为：Intel(R)CoreTMi5-6500 CPU $\\textcircled { a } 3 . 2 0 ~ \\mathrm { G H z }$ ，内存4GB。实验所使用的数据集是OTB-50，且利用精度图和成功率图展示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了比较性，改进的算法的主要参数与 KCF 算法保持一致。在尺度自适应中，使用步长0.01的3个尺度因子的$f a c t o r = \\{ 0 . 9 9 , 1 , 1 . 0 1 \\}$ ，在多峰检测中，阈值 $\\theta$ 为峰值的三分之$\\theta = \\frac { 2 } { 3 } F _ { \\mathrm { m a x } }$ 在抑制模型漂移中，阈值 $\\varepsilon$ 为5个像素。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文实验总共测试了五个算法，分别是经典算法CSK 和",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TLD[I7]，尺度自适应且性能优良的算法DSST，基准算法KCF和本文的SFMU算法。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/012e1dfe93b5d24d215461c5fb982ec445ed8064f2f62cf13de0f3ea66ee9b2b.jpg",
+        "img_caption": [
+            "图5SFMU算法的流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1）总体性能比较 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图6总体精度图和图7总体成功率图所示，本文的SFMU算法的精度为0.748，成功率为0.578。相比较KCF算法，有着显著提升，其精度和成功率分别提升了 $1 0 . 9 8 \\%$ 和 $12 . 4 5 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/94a6ec90c019f3706101fc638a2e9df938e88532ca1fb5929f32312d658343eb.jpg",
+        "img_caption": [
+            "图6总体精度图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/694a184004a61de2e964a629b9bad4826f9fba275a06af5e992ad93a222c79da.jpg",
+        "img_caption": [
+            "图7总体成功率图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）在目标尺度变化、遮挡和形变下性能比较",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图8和9、图10和11、图12和13分别是算法在目标尺度变化、遮挡和形变下的精度图和成功率图。从图中可以看出本文的SFMU算法的精度和成功率都是最优的，证明对核相关",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "滤波的改进方法是可行的。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/43ec2809305ecb2e67719370080fa04602bdb7cae994301143272e0acbcd1b94.jpg",
+        "img_caption": [
+            "图8尺度变化时的精度图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd612e0f3328403cddb597717065cddb53461310aacd61556eb8eac9690a260c.jpg",
+        "img_caption": [
+            "图9尺度变化时的成功率图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c780f110f0add956ab6337837bec0823109651245ac1d98fe5d86ccccf5192ee.jpg",
+        "img_caption": [
+            "图10遮挡时的精度图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d37f55087abf3fe1a1903296658f36c7dbec9e75fe93fa2268abc9cecc784fd.jpg",
+        "img_caption": [
+            "图11遮挡时的成功率图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a11539a0a0b2a24883619cb6d4a8ea257c1217e5530fcd72b2b4fcdbd97b8022.jpg",
+        "img_caption": [
+            "图12形变时的精度图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f05a3e8ab5e7a97476626914394e29f7a288f8d283552d102997061c1bbaf32.jpg",
+        "img_caption": [
+            "图13形变时的成功率图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3）定性分析",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文在OTB-50 数据集上进行了测试，图14列举了CSK、TLD、KCF、DSST和SFMU五种算法在其中八段视频序列( $\\mathrm { \\mathbf { a } } { \\sim } \\mathrm { \\mathbf { h } }$ 分别对应着Walking2、Gym、Car4、Tigerl、Jogging1、CarScale、Dogl、David）中的跟踪结果，这8段视频序列特点如表1，基本上包括了跟踪过程中面临的挑战。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0453aa2892eb710f5e6d4c5f6773aa5bb41c4dc8d3aa7f1c7473fc4078ef370.jpg",
+        "table_caption": [
+            "表1八段测试视频"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>视频名称</td><td>帧数</td><td>特点</td></tr><tr><td>Walking2</td><td>500</td><td>尺度变化、遮挡、低分辨率、背景干扰</td></tr><tr><td>Gym</td><td>767</td><td>尺度变化、形变、旋转</td></tr><tr><td>Car4</td><td>659</td><td>光照变化、尺度变化</td></tr><tr><td>Tiger1</td><td>354</td><td>光照变化、遮挡、形变、模糊运动、快速运</td></tr><tr><td></td><td></td><td>动、背景干扰、旋转</td></tr><tr><td>Jogging1 CarScale</td><td>308</td><td>遮挡、形变、旋转</td></tr><tr><td></td><td>253</td><td>尺度变化、遮挡、快速运动、旋转</td></tr><tr><td>Dog1</td><td>1350</td><td>尺度变化，旋转</td></tr><tr><td>David</td><td>770</td><td>光照变化、尺度变化、遮挡、形变、模糊运 动、旋转</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对尺度变化的情况，见图14(a)\\~(c)(f)\\~(h)所示，如Walking2 视频序列中第189帧、194帧、221帧和470 帧的跟踪结果，SFMU 算法对比其他算法，其跟踪框大小一直随着目标尺度的改变而改变，有着良好的尺度自适应性，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对背景中存在相似干扰物、遮挡的情况，见图14(a，d)所示，如Tiger1视频序列中的第70帧、第174帧、第323帧和第334帧的跟踪结果，SFMU算法对比其他算法，受背景的干扰较少，以及在遮挡时可以及时停止模型更新，所以对于目标跟踪的准确性较高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对目标形变、旋转跟踪结果置信度不高的情况，见图14(a)\\~(h)。如在Gym 视频序列中第 659 帧、669 帧、679 帧和689帧的跟踪结果，在这数十帧间，目标的外观发生了剧烈变化，跟踪结果置信度不高，SFMU算法对比其他算法依旧可以追踪目标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对光照变化、低分辨率、模糊运动和快速运动的情况，见图14(a)(d)。在视频序列的跟踪结果可以看出，五种算法中SFMU的跟踪性能最好，可以全程稳健跟踪。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f11ae0cad06689c419ee2894016acb0d4938b74795fd5fc8578f334fa78b438.jpg",
+        "img_caption": [
+            "图14五种算法的跟踪结果比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文在核相关滤波器的基础上，改进了多特征尺度核相关滤波器，通过对最优尺度模型响应图的多峰检测，判断整体的振荡程度和对响应图峰值的PSR置信度评估，提升了算法在目标尺度变化、遮挡、形变等情况下的鲁棒性，同时在模型更新中，利用初始模型来抑制跟踪过程中的模型漂移。本文算法在OTB-50数据集上进行了测试，仿真实验结果表明跟踪效果良好，而且有较好的进一步研究空间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]成悦，李建增.结合学习率调整的自适应特征融合相关滤波跟踪算法 [J/OL].计算机应用研究，2019，36（8）．http://www.arocmag. com/article/02-2019-08-060.html (Cheng Yue,Li Jianzeng.Adaptive feature fusion correlation filter tracking algorithm combined with learning rate adjustment [J/OL].Application Research of Computers,2019,36 (8) . http://www.arocmag.com/article/02-2019-08-060.html) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2] 徐玉龙，王家宝，等．基于相关滤波的尺度自适应目标跟踪[J].计算 机应用研究,2016,33(11):3513-3516,3520.(Xu Yulong,Wang Jiabao,et al.Scale-adaptive tracking based on kernelized correlation filter [J]. Application Research of Computers,2016,33 (11): 3513-3516,3520.)   \n[3]Henriques JF, Caserio R,Martins P,et al.High-speed tracking with kernelized correlation filters [J].IEEE Trans on Pattern Analysis and Machine Intelligence,2015,37 (3): 583-596.   \n[4]Danelljan M,Khan FS,FelsbergM,et al.Adaptive color attributes for realtime visual tracking [C]//Proc of IEEE Conference on Computer Vision and Pattern Recognition.2014:1090-1097.   \n[5]Danelljan M, Hager G,Khan F S,et al. Accurate scale estimation for robust visual tracking [J].British Machine Vision Conference,2014: 65.1-65.11.   \n[6]Possegger H,Mauthner T,BischofH. In defense of color-based model-free tracking [C]// Computer Vision & Pattern Recognition.2015:2113-2120.   \n[7]Bertinetto L,Valmadre J,Golodetz S,et al.Staple: complementary learners for real-time tracking [Cl// Computer Vision & Pattern Recognition.2016: 1401-1409.   \n[8]Ma Chao,Yang Xiaokang, Zhang Chongyang,et al. Long-term correlation tracking [J]. IEEE Trans on Pattern Analysis and Machine Intelligence,2015: 5388-5396.   \n[9]Han B, Nam H,et al. Learning multi-domain convolutional neural networks for visual tracking [C]// Computer Vision & Pattern Recognition.2016: 4293-4302.   \n[10] Danelljan M,Bhat G,Khan F S,Felsberg M,et al.ECO:efficient convolution operators for tracking [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.2017: 6931-6939. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11] Wu Y,LimJ,Yang MH. Online object tracking:a benchmark [C]//Proc of ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IEEE conference on Computer Vision and Pattern Recognition.2013:2411- 2418.   \n[12]王艳川，黄海，李邵梅，等．基于双模型融合的自适应目标跟踪算法 [J].计算机应用研究,2017,34(12):3828-3833.(Wang Yanchuan,Huang Hai,Li Shaomei,et al.Adaptive target tracking algorithm based on fusion of two models [J].Application Research of Computers,2017,34(12): 3828- 3833.)   \n[13]钱堂慧，罗志清，李果家，等．核相关滤波跟踪算法的尺度自适应改进 [J].计算机应用,2017,37(3):811-816.(Qian Tanghui,Luo Zhiqing,Li Guojia,et al.Scale adaptive improvement of kernel correlation filter tracking algorithm[J].Journal of Computer Applications,2017,37(03): 811-816.)   \n[14]杜静雯，黄山．尺度自适应的 HLBP 纹理特征目标跟踪算法[J].计算 机工程与设计,2018,39(07):1889-1894,1929.(Du Jingwen,Huang Shan. Scale adaptive tracking algorithm of HLBP texture feature [J]. Computer Engineering and Design,2018,39 (07): 1889-1894,1929.)   \n[15] Wang Mengmeng,Liu Yong, Huang Zeyi, et al.Large margin object tracking with circulant feature maps [C]//Proc of IEEE Conference on Computer Vision and Pattern Recognition.2017: 4800-4808.   \n[16]刘洋．基于核相关滤波的目标跟踪算法研究及改进[D].北京：北京理 工大学,2016.(Liu Yang. Research on kernelized correlation filter tracking algorithm and its improvement[D]. Beijing: Beijing Institute of Technology, 2016.)   \n[17]童源，费树岷，沈捷．基于TLD 框架的快速目标跟踪方法[J].计算机 应用研究,2018,35(1):317-320.(Tong Yuan,Fei Shumin,Shen Jie.Fast object tracking method based on TLD algorithm[J].Application Research of Computers,2018,35(1): 317-320.) ",
+        "page_idx": 6
+    }
+]

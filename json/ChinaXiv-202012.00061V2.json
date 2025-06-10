@@ -1,0 +1,445 @@
+[
+    {
+        "type": "text",
+        "text": "疫苗安全恐慌的成因与应对",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "付春野1 吕小康2,3 刘洪志 2.3(天津师范大学心理学部，天津 300387）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "( 南开大学计算社会科学实验室，天津300350)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "( 南开大学周恩来政府管理学院社会心理学系，天津300350)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要疫苗安全恐慌是由疫苗负面报道或阴谋论引发的公众对疫苗接种安全性与有效性的普遍怀疑，其后果是导致区域性甚至全球范围内的疫苗接种率或接种意愿的短期骤降。在个体对疫苗接种的负性先前信念以及经验加工和要义提取的影响下，前述信息会在传播过程中形成风险的社会放大。应对疫苗安全恐慌的心理学策略主要包括信念接种、重建风险感知、回应公众信息需求和情绪诉求等，但仍需进一步检验其生态效度。此外还需采取有效措施促进正面疫苗信息的社会分享以反制疫苗不实信息的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词疫苗安全恐慌；疫苗接种；不实信息；阴谋论；风险感知",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1疫苗安全恐慌的危害与定义",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为最伟大的公共卫生安全措施之一，疫苗接种是促进人口增长和人类平均预期寿命延长的重要因素，每年可预防 200\\~300 万人的死亡(WHO，2020)，但几乎每个国家仍在为如何促进公众的疫苗接种而努力(Betsch et al.,2015)。一个具有全球性的矛盾现象是：科学虽已证实了上市疫苗的有效和安全，但公众仍对是否接种持怀疑态度(Donovan,2020)。总体而言,推广疫苗接种亟需破解的难题主要有三：接种不足(inadequate coverage)、接种延迟(delay)和接种不稳定(instability)。其中，接种不足指接种覆盖率未达到预定目标，这会破坏群体免疫,导致疫苗可预防疾病的爆发变得更频繁和严重(Glanz et al.,2009;Doherty et al.,2016)；接种延迟指在过了推荐年龄后再接种疫苗，其后果可能使疫苗无法发挥其预防作用，进而增加疾病的爆发风险(Brewer etal.，2017；Carteretal.，2019)；接种不稳定指发生疫苗安全恐慌(vaccine safety scare)后，疫苗接种率急剧下降(Brewer et al.,2017)。在这三个难题中，接种不足和接种延迟与某一国家和地区的经济发展水平、政治和宗教文化等体制性、历史性因素高度相关，其解决方案也需要长时间的系统性努力(Dubé et al.,2013;Dubé et al.,2014； Sakai,2018;Bach et al.,2019;Butenheim et al.,2020)。相比之下，接种不稳定涉及的因素更具有跨地域和跨文化的规律性。原因在于虽然疫苗安全恐慌也涉及前述因素，但其发生通常源自具体的事件或信息，其所涉及的风险感知机制及其对疫苗接种的后果具有较强一致性。比如，2013 年日本媒体报道了未经证实的 HPV(人类乳突病毒)疫苗接种出现的负性事件后，日本政府随即暂停了对 HPV 接种的主动建议，这使得日本社会的疫苗接种完成率从 2011 年的$6 8 . 4 { \\sim } 7 4 . 0 \\%$ 急剧下降到 $0 . 6 \\%$ (Hanley et al.,2015)。若能从这些类似事件中汲取经验教训，并提出切实可行的建议，从而预防未发生和应对已发生的疫苗安全恐慌，即有可能直接提高疫苗接种的稳定性(Brewer et al.,2017)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前学界对\"疫苗安全恐慌\"并未提供清晰的概念界定，更多只是一般性意义上的简单描述。可资参考的概念，除了“接种不稳定\"外，还有“健康恐慌\"(health scares)。Guillaume 和Bath(2004)将健康恐慌定义为由新闻媒体的报道(如避孕药的副作用或疫苗与特定疾病的关系)引起的公众对特定健康问题或健康干预的心理恐慌。从这个角度来看，疫苗安全恐慌似是健康恐慌的一个子集。但疫苗安全恐慌的信息来源并不限于媒体的负面报道，也包括疫苗阴谋论。从后果来讲，疫苗安全恐慌还会破坏公众对疫苗接种的信心，导致较短时间内疫苗接种覆盖率的下降和疾病的爆发(King&Leask,2017)，或者造成接种意愿下降，引发公共卫生悲剧。基于此，本文将疫苗安全恐慌定义为由疫苗负面报道或阴谋论引发的公众对疫苗接种安全性与有效性的普遍怀疑，进而在短期内导致区域性或全球性的疫苗接种率或接种意愿急剧下降的现象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "疫苗安全恐慌属于公共卫生、流行病学、传播学等多学科交叉研究领域，从心理学角度看，这主要反映了公众对疫苗接种产生高风险感知后的风险决策机制及其后果(如拒绝接种)。基于此，本研究将对疫苗安全恐慌的成因和应对策略进行归纳和总结，并整合相关的心理学理论以提供机制性解释。这对促进当下仍在肆虐的新冠肺炎疫情之类的公共卫生危机引发的疫苗开发、接种推广与疫苗阴谋论反驳等问题将具有直接的借鉴意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2疫苗安全恐慌的成因",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "疫苗负面报道和疫苗阴谋论是目前已发现的导致疫苗接种率和接种意愿下降的两大主要信息源(Oliver& Wood,2014; Faasse et al.,2017; Suppli et al.,2018; Noyman-Veksler, 2020;Chen,Ling etal.,2020)。其中，疫苗负面报道主要来自新闻媒体，内容包括疫苗接种后的不良反应(Brown et al.,2010; Faasse et al.,2017)、疫苗与特定疾病的关系(Lewis & Speers,2003;Poland& Spier,2010)和疫苗生产、运输中出现的问题或监管不利所导致的公共卫生安全事件(余文周等，2016；卞增惠等，2020)；疫苗阴谋论主要来自反疫苗群体，内容包括强调疫苗受到利益驱动(Wolfe＆Robert,2002;Kata,2010;Hoffman etal.,2019)、疫苗接种是为了种族灭绝(Smith & Graham,2019;Wong et al.,2020)或减少世界人口(Hoffman et al.,2019;Ball &Maxmen,2020)。总的来说，两者可统称为\"疫苗负面信息\"。但疫苗负面报道在一定程度上基于事件或事实来传递风险，而疫苗阴谋论具有明显的欺骗性(Vaidyanathan,2020)。疫苗阴谋论的核心与广义上的阴谋论一致，即为事件提供一种貌似合理的\"解释”：一个小团体为了自身的利益在秘密行动，而不管公众利益(Uscinski et al.,2016)。在具体研究中，通常只使用一种信息作为研究对象。为表述方便，后文将依据具体研究的内容来交替使用“疫苗负面报道\"或\"疫苗阴谋论”，而将“疫苗负面信息\"用于同时指代两种信息。通过梳理相关文献，可将疫苗安全恐慌的成因归纳为信息加工和信息传播两个层面。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1信息加工：个体层面的风险感知",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "信息加工层面主要解释作为个体的普通大众在接触到疫苗负面信息时，为何对疫苗接种产生高风险感知，进而降低接种意愿或拒绝接种。这主要是因为他们在对疫苗负面信息进行加工时，并非理性地权衡接种疫苗的健康收益与风险。非理性因素主要体现在两个方面:一是对疫苗接种的负性先前信念，二是对疫苗负面信息的加工方式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 对疫苗接种的负性先前信念 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与信息加工方式相比，疫苗接种的负性先前信念对接种行为决策的影响更为关键。因为此类先前信念会导致公众在加工疫苗负面信息时，只\"看到\"疫苗接种的风险，而忽略其健康收益。这主要包括不作为偏差(omission bias)和低必要性感知两种信念。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不作为偏差指与行动所导致的同等甚至更小的伤害相比，个体对不行动的后果的情感反应和风险感知更小(Baron&Ritov,2004)。也就是说，人们通常认为接种疫苗造成伤害的风险比不接种疫苗更严重(Ritov & Baron,1990)。比如 DiBonaventura 和 Chapman(2008)在研究中设置了虚拟情境，参与者面临 $10 \\%$ 的机会感染一种传染性疾病，疫苗接种能够预防感染该疾病，但可能以小于 $10 \\%$ 的概率导致同样的疾病。结果发现，大部分参与者都拒绝了从理性角度来讲应该接种的疫苗。一项对英国儿童父母的调查研究发现，儿童父母对 MMR(麻疹、腮腺炎和风疹)疫苗接种的决策受到一种先前信念的强烈影响，即与不接种疫苗所造成的伤害相比，接种疫苗所导致的伤害更加难以接受(Wroe et al.,2005)。针对流感疫苗的调查也得到了类似的结果，与不接种流感疫苗的风险相比，英国儿童父母对接种疫苗的风险评估更高，导致即使轻微的疫苗安全问题也可能对疫苗接种造成不成比例的负面影响(Brown et al.2010)。此外，实验研究也发现了“不作为偏差\"的证据。Boehm 等(2016)使用博弈模型(gamemodel)设计了一个互动性的疫苗接种游戏，每个玩家可支配一定数量的实验货币来选择是否接种疫苗，并在每轮游戏中收到结果反馈(感染疾病或发生疫苗接种副作用)。研究发现，与经历不接种而感染疾病相比，当玩家在上一轮游戏中经历了接种后的副作用时，其在下一轮游戏中更可能选择不接种。该实验在一个行为决策的环境中证实了不作为偏差的存在。还有一项研究使用损失框架来同时呈现未接种流感疫苗的风险和接种流感疫苗的风险，结果发现，在采用同样的后果以控制风险大小的前提下，强调接种流感疫苗的风险对参与者的风险感知影响更大，而强调不接种流感疫苗的风险则影响较小(Dixon,2017)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另一种负性先前信念是对疫苗接种的低必要性感知，也有研究者称之为疫苗接种的锚定偏差(anchoring bias;Hansen et al.,202O)。对疫苗接种的低必要性感知可能体现在某种特定疫苗上，比如即使临床医生也会因患者年龄较小而认为其没有必要接种 HPV 疫苗(Hansen etal,2020)。更重要的是，对疫苗接种的低必要性感知也体现在普遍性的疫苗接种上。具体来讲，与其他健康措施相比，疫苗的作用是预防而非治疗，因此存在\"疫苗接种悖论\"(vaccineparadox)。随着疫苗可预防疾病的消失，疫苗与其预防作用之间的联系会变得不那么明显，研制疫苗的初衷成为了遥远的记忆(Doherty et al.,2016;Ozisik et al.,2017)。以脊髓灰质炎疫苗为例，脊髓灰质炎疫苗虽然成功地控制了疾病的传播，但是却具有非常罕见的副作用，即大约百万分之一的接种者会导致麻痹性脊髓灰质炎。虽然与自然感染的二百分之一的风险相比，这种风险的概率可称为微不足道，但一旦疾病被控制，疫苗接种副作用的风险就开始变得严重起来(Doherty et al.,2016)。当疫苗接种的必要性淡出人们的视野，他们在面对疫苗负面信息时对疫苗接种的风险感知就会远高于收益。研究发现，公众对疫苗可预防疾病的风险和不使用疫苗的后果缺乏认识(Borras et al.,2009;Do et al.,2009)。从这一角度而言，疫苗本身永远是其自身功效的受害者，即疫苗对特定疾病防治成功率反而降低了公众对其接种必要性的感知(Kata,2010)。因此，要应对疫苗安全恐慌，首先要实现公众对疫苗接种低必要性感知和高风险感知之间的巨大差距。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "相较而言，不作为偏差导致疫苗接种的风险被高估，而低必要性感知导致疫苗接种的收益被低估。二者都会发挥先入为主的作用，推动疫苗安全恐慌的形成。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 经验加工和要义提取 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过风险感知理论可进一步解释疫苗负面信息引发公众对疫苗接种高风险感知的加工过程。根据风险感知的经验(experiential)—分析(analytic)双加工理论(Slovic et al.,2005)，个体往往倾向于使用经验加工中的情感启发式(affect heuristic)来感知风险，而非基于分析加工的审慎思考。公众可能并不关心数据(比如\"疫苗接种每年可预防 200\\~300 万人的死亡\")，而是更多基于自身的直觉来做出判断(Schindler et al.,2020)。一项在线实验研究发现，疫苗关键网站上基于个案的疫苗副作用信息增加了参与者的威胁感，进而引发对疫苗接种的高风险感知(Betsch et al.,2010)。另外有实验研究发现，相比于统计数据，使用叙事信息会显著地增加参与者对疫苗接种的风险感知，并且在这一过程中负性情绪起到了至关重要的作用(Betschet al.,2011;Betsch etal.,2013)。还有研究发现，当对参与者提供疫苗接种的风险信息图片时,是参与者的负面情绪而非其感知到的论点的有力程度，影响了对这些信息的回忆和风险感知(Dixon,2016)。以上研究中的实验材料均类似于疫苗负面报道，在以疫苗阴谋论为主题的研究中也得到了类似的发现。一项实验研究使用了“政府和制药公司为利益隐瞒了MMR 疫苗（麻疹、腮腺炎和风疹的联合疫苗）接种和自闭症之间的关系\"为实验材料，结果发现，与控制组相比，疫苗阴谋论信息同时激发了愤怒和恐惧，但只有愤怒导致参与者拒绝接种疫苗(Featherstone＆ Zhang,2020)。另一项以父母的疫苗阴谋论信念为主题的研究还发现，更高的阴谋论信念与更高的疫苗接种的负面情绪以及更大倾向的经验加工有关(Tomljenovic et al.,2020)。这些结果都为经验加工和情感启发式提供了证据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另一可解释疫苗风险感知的理论是模糊痕迹理论(fuzzy-trace theory)，该理论从背景知识、字面(verbatim)一要义(gist)心理表征和价值检索等方面来解释个体的风险决策(Reyna,2012)。在模糊痕迹理论的框架下，字面表征精确详细，要义表征模糊简要，个体在对信息加工的过程中通常进行要义加工(Reyna & Brainerd,2008; Broniatowski& Reyna,2018)。例如,当医生向儿童家长沟通不接种疫苗的风险时，对家长说\"不接种疫苗的儿童感染疾病的风险是接种疫苗儿童的23倍”。这句话中的\"23倍\"在几分钟之内就会在家长们的记忆中消退，但是不接种疫苗的\"高\"风险可以得到保留，并促使其作出接种疫苗的决策(Reyna,2012)。信息的要义表征本质上是模糊的，接收者需要将概率和后果大小结合起来形成对风险要义的总体印象。这能够解释为什么疫苗负面信息可以引发公众对疫苗接种的高风险感知，因为这些信息能够使公众轻易地提取出\"疫苗有害\"的要义(副作用、死亡;Reyna,2012)。另外，模糊痕迹理论还能够整合先前信念、生活经验或知识等主体因素对信息加工的影响。例如，一个新闻报道声称\"接种流感疫苗可导致非流感急性呼吸道感染增加 4.4 倍”。当加工这则信息时，不具备专业知识或对疫苗接种有负性先前信念的个体很容易提取出\"流感疫苗危险\"的要义，而专家可能提取出\"该报告不可信\"的要义(Broniatowski&Reyna,2019)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，模糊痕迹理论可进一步解释公众对疫苗阴谋论的信息加工。模糊痕迹理论认为，在理解信息时，要义表征反映了连贯和因果关系的叙事(Reyna etal.,2016)。与事实和真相的复杂性和不确定性相比，疫苗阴谋论结构连贯且容易被理解和记忆，对事实提供了一个简单的因果解释(Douglas et al.,2017；茆家焱等,2019; Vaidyanathan,2020)。例如，对自闭症的科学解释通常会真实地传递其病因未明的事实，这就会留下\"原因空白”，而当将自闭症与疫苗接种联系起来时(尽管这种联系是错误的)，就可提供比事实本身更有力量的对现实的解释。当公众不深入对其进行思考时，这类信息就会显得充满道理。类似的说法还有\"接种过多疫苗会使免疫系统超载\"(Reyna,2020)，这也与人们普遍上能够感受到工作量超载、信息超载的心理机制相吻合，并由此产生类比推理。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经验一分析双加工理论和模糊痕迹理论从不同的视角解释了为什么疫苗负面信息会激发公众对疫苗接种的高风险感知。但是当接触到疫苗负面信息时，公众是先被激发了对疫苗接种的负性情绪，还是先提取了负性要义，尚需要更加精细化的实证研究加以检验。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2信息传播：群体层面的风险氛围",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "疫苗安全恐慌的后果是大面积的公众对疫苗接种的高风险感知，因此不仅应该从个体信息加工层面来分析疫苗安全恐慌的成因，也应该从信息传播的视角来进一步考察。在信息传播视角下，公众不再作为疫苗负面信息的被动接收者，而是信息的主动传播者和建构者(Kusumi et al., 2017)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1疫苗负面信息在网络中的传播",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "社交媒体是传播疫苗负面信息和使反疫苗运动在全球范围内持久发挥影响的主要平台(Smith&Graham，2019)。大量研究发现，疫苗负面信息比正面信息传播得更迅速、更广泛(Wolfe & Robert,2002；Dubé et al.,2014; Basch et al.,2017; Hoffman et al.,2019)。这一方面存在人为因素推动，比如反疫苗激进群体会有效地利用社交媒体传播疫苗阴谋论(Ortiz-Sanchez etal.,202O)，但是也存在心理学因素。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首先，无论是疫苗负面报道还是阴谋论，都包含引发情绪、道德直觉等强烈主观感受的信息内容，致使这些信息得到了更加广泛的传播(Harvey,2019)。这一方面可以通过情绪传染(emotional contagion)和道德传染(moral contagion)来解释。Kramer 等(2014)在 Facebook 上进行的一项大规模实验则表明，即使是在人与人之间没有直接互动的情况下，情绪状态可以通过情绪传染传递给他人，导致人们在无意识的情况下体验同样的情绪。与之相似，道德观念也可以\"传染”。有研究探讨了某些道德观点比其他观念传播得更快和更广泛的过程，结果发现当信息中每增加一个道德情感词汇时，则该信息会增加 $20 \\%$ 的传播率，即发生道德传染效应(Brady et al., 2017)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其次，驱动公众对疫苗负面信息产生高风险感知的因素也可以引发公众传播这些信息。例如,Klein 等(2019)的研究发现，阴谋论信息所激发的愤怒情绪是个体分享阴谋论信息的前因。除情感启发之外，根据模糊痕迹理论，要义提取也是驱动公众传播信息的重要因素。Broniatowski和Reyna(2019)从2014年到 2017年收集了上万条的疫苗信息推文，通过分析被转发的 $4 6 \\%$ 的推文发现，这些被转发的推文有一个强烈但错误的要义信息(疫苗接种导致自闭症)，并且包含事实和统计数据的推文被传播得并不广泛。这一结果表明要义加工不仅促使公众对疫苗接种产生高风险感知，并且驱动了信息传播行为。另外还有一项研究对 2014年到 2015 年迪士尼乐园麻疹疫情期间的疫苗新闻报道(4686 篇)进行了编码，分析结果发现，尽管包含统计数据的文章比缺乏统计数据的文章在Facebook上分享得更多，但是包含要义信息是分享频率的最强预测因素。研究还发现，叙事信息并没有更高的分享频率，只有在叙事信息传达清晰的要义时才会增加分享频率(Broniatowski et al.,2016)。这再次体现了经验一分析式双加工理论和模糊痕迹理论的持久争议，究竞是情感启发式加工还是要义加工驱动了公众的信息传播行为，还需要实证研究加以检验。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作为技术平台，社交媒体无疑对疫苗接种风险的放大起到了推波助澜的作用。为此，Larson(2020)总结到，类似\"疫苗与自闭症\"这类的错误信息是\"一种简单、可重复的对发酵中的焦虑的确认”，它成为了一种生态学意义上的模因(meme；道金斯，2012)4，使信息得到了类似病毒一样的迅速复制。这导致个体层面上的风险感知汇聚为群体层面的风险氛围，进而影响社会整体层面的风险认知(伍麟，杨宇琦,2019)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 传播过程中的风险放大",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以上内容主要探讨了疫苗负面信息为何会在互联网上传播，但在传播过程中，公众也在主动地谈论风险和建构风险(Kusumi et al.,2017)。也就是说，信息传播并不是简单的复制信息以导致信息数量的变化，信息内容也会在传播过程中动态地发生变化。在这一方面，直接来自于以疫苗负面信息为主题的研究较少，但可从其他风险主题中获得实证证据。一项模拟信息传播过程的研究发现，当关于三氯生(一种抗菌剂)的功用和危害的信息从一个传播者传递到另一个传播者时，原有的信息会迅速失去关于三氯生的功效事实，并且传播者还会额外增加三氯生的危害信息和操纵信息以符合自身的先前信念，进而导致风险被逐渐放大(Moussa etal.,2015)。在另一项以食品添加剂或核风险信息为主题的研究中，一开始将同时包括风险和收益的信息提供给参与者，然后每个参与者传递信息给下一个参与者，并以此类推。结果发现，当一条信息传递得次数越多，其包含的负面陈述就越多，并且参与者的风险感知也随之增加。研究还发现，当让处于扩散链后端的参与者重新接触最初的信息时，并不能降低其偏见(Jagiello&Hils,2018)。还有研究发现，风险放大会造成态度极化，进而引发对负面信息的高关注和对潜在收益信息的忽略，导致风险信息的寻求和传播(Hills,2019)。而这一过程又进一步加速态度极化，带来恶性循环。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "据以上结果可推测，疫苗负面信息在传播过程中也会被进一步放大。由于研究主题涉及的高度伦理敏感性，这方面尚较少有以疫苗负面信息为主题的实验证据，但也有一些调查研究可以提供佐证。例如有调查发现，关于疫苗的负性患者叙事(patient narratives)很容易通过社交网络获得(Betsch et al,2013)。患者叙事指患者对某一疾病的个人体验性的例证(Shaffer& Zikmund-Fisher,2013)。比如一些家长声称，他们的孩子接种了疫苗，但却患上了疫苗本应预防的疾病(Wong et al.,2020)。与疫苗负面报道和阴谋论不同，患者叙事往往是基于第一人称视角对疫苗接种的片面观点和体验，因此可能掺杂着夸张和误解。由于这方面的实证研究相对较少，进一步对机制的探究可以通过互联网数据来追踪疫苗负面信息在传播过程中的风险放大效应，或是在符合伦理的前提下(如设置虚拟情境以降低负面影响)开展类似于其他风险主题(三氯生、食品添加剂和核风险;Moussa etal.,2015;Jagiello&Hils,2018)的实验设计加以进一步明确。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "应当说，只有结合信息加工和信息传播两个层面，才能相对全面地理解疫苗安全恐慌的发生机制。这两个层面之间并不是彼此独立，而是相互联系。对此，可将上述内容概括为以下图示，以便了解疫苗安全恐慌发生的整个过程(图 1)。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/20be74ede88a491a1a6d969a00ced16b48aa98d8cef6dd94364e0c40c8472c16.jpg",
+        "img_caption": [
+            "图1疫苗安全恐慌的成因"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3疫苗安全恐慌的应对",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "疫苗安全恐慌现象具有典型的\"多因一果\"性。与其成因相比，对疫苗安全恐慌的应对还没有建立起系统性的应对策略，但按照研究内容可归纳为以下三种。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1 信念接种",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "接种理论(inoculation theory)使用了疫苗接种的隐喻：注射含有减弱剂量的病毒可以触发免疫系统中的抗体从而产生对未来感染的抵抗力，类似地，培养对抗错误信息的心理抗体也能够促使公众抵抗错误信息的影响(Banas&Rains,2010)。换句话说，首先让公众接触一种误导性论点的简化版本并先发制人地驳斥这一论点，那么先前建立的态度上的抵制就可以在后续对错误信息的加工中发挥作用。有元分析研究发现，接种信息通常能有效抵抗说服企图(Banas＆Rains,2010)。在一项以在线游戏形式呈现的近万人的实验中，研究者让参与者扮演新闻制作人的角色，并学习掌握在制造虚假信息中常用的技术，比如制造两极分化、煽动情绪、传播阴谋论、攻击他人和转移指责等。结果发现，在游戏后参与者发现和抵抗错误信息的能力有所提高(Roozenbeek&Linden,2019)。通过这种先发制人地揭露、警告并让人们熟悉制作假新闻时所使用的策略，有助于人们在面对真实的错误信息时获得认知免疫。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "一些抵制疫苗阴谋论影响的研究也得到了类似结果。研究发现，在参与者接触到阴谋论之前，给他们提供真实的信息可以降低阴谋论的可信度(Jolley&Douglas,2017)。另一项以中国年轻社交媒体用户对HPV疫苗的态度的研究发现，接触疫苗阴谋论会导致参与者对HPV疫苗具有较差的态度以及较弱的接种意愿，但是参与者已有的 HPV 疫苗知识对暴露于网络中的疫苗阴谋论具有保护作用(Chen,Zhang et al.,2020)。还有上述提到的对食品添加剂和核风险的信息传播的研究中也发现，当参与者领域相关知识越多，则信息在传播过程中的风险放大越弱(Jagiello& Hills,2018)。因此，预防工作的关键是让真实的信息发挥先入为主的作用，而不是在疫苗负面信息广泛传播的情况下再对其进行反驳和修正。研究者针对如何应对COVID-19 的阴谋论时也提出，在公众遇到阴谋论或其他形式的假信息之前，需要确保他们拥有正确的信息，这样可以起到防范作用(Van Bavelet al.,2020)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2 重建公众对疫苗可预防疾病的风险感知",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "公众对疫苗接种的必要性感知是信息加工的重要心理因素(Corben&Leask,2016)。如果对疾病的风险感知很高，那么疫苗接种的初始意愿就会更高，而即使新闻媒体广泛宣传接种疫苗的不良事件，对疫苗接种覆盖率的影响也往往较小(Coelho& Codeco,2009)。但是由于公众普遍对疫苗可预防疾病的低关注，导致其往往只意识到夸张或虚假的接种疫苗的风险，而忽视真实的不接种疫苗所带来的疾病风险(Larson et al.,2014)。Kahn 和Luce(2006)提出，具有争议的事件和预防有效性导致的\"虚假安全感\"会削弱公众对预防措施的使用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由此可见，打破\"虚假安全感”、进而建立对疫苗可预防疾病的正确认识可能帮助公众在面对疫苗负面信息时建立准确的风险感知。在这方面，通过特定信息来提醒公众不接种疫苗的疾病风险是预防疫苗安全恐慌的策略之一(Horne et al,2015;Margolis et al.,2019)。研究发现，正面的疫苗信息更倾向于使用事实和数据来诉诸逻辑，而负面的信息更可能使用叙事来诉诸情感(Teoh,2019)。对比之下，仅提供关于疫苗预防疾病的有效性或必要性的客观信息就显得不够具有说服力。因此，有研究者提出支持疫苗的信息也需要以叙事的方式来激发情感，这样才能够对反疫苗信息形成有力的防御。比如一篇题为\"埃弗莉的故事\"的博客文章在国外的社交媒体上广泛流传，该文章以第一人称讲述了婴儿患了疫苗可预防疾病的故事，并附上了婴儿的照片。与统计数据相比，这样的叙事信息很难被反驳并更可能激发公众态度的改变(Shelby & Ernst,2013)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "但是，虽然其他健康风险领域的研究发现叙事或激发情绪体验的方式能够有效地建立更准确的风险感知和行为倾向(McQueen et al.，2011)，但在疫苗主题的实证研究中却发现了一些特异性。有研究者使用图片来激发参与者对疫苗接种的风险和不接种疫苗的疾病风险时发现，尽管使用相同的图片，当研究者对参与者说明图片所反映的是不接种疫苗的疾病风险时，参与者对信息的风险感知却没有发生变化(Dixon，2016)。在另一研究中，研究者试图通过叙事信息来增加参与者对传染性疾病的担忧，叙事信息讲述了一个快死于麻疹的婴儿的故事。结果发现，这些叙事信息不仅没有提高参与者疫苗接种的意愿，反而加深了参与者对疫苗副作用的风险感知(Nyhan et al.,2014)。这些研究结果为实践提供了警示意义，使用叙事或图片等试图激发公众对疾病风险感知的策略在实践中需要格外慎重。也说明要成功地预防疫苗安全恐慌，可能需要组合性而非单一性的干预策略。此外，这些研究结果也对今后的实证研究提供了启示，要理解叙事对疫苗风险感知的影响，还需要考虑叙事与非叙事信息和其他信息特征之间的潜在交互作用(Kim&Nan,2016)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3回应公众的信息需求和情绪诉求",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "以上两种策略主要以预防疫苗安全恐慌的发生为目标。一旦疫苗安全恐慌已发生，更重要的是公共卫生主管部门如何进行应急处理，这更多涉及公共政策手段的综合运用。疫苗安全恐慌的应对是一个公认的难题(Coelho &Codeco，2009)，在这一方面，回应公众的信息需求和情绪诉求至关重要。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "调查发现，疫苗安全恐慌发生后，公众会产生明显的信息缺乏感，且不再信任原有的信息来源(Guillaume&Bath,2004;King&Leask,2017)。因此，公共卫生主管部门需要迅速解决疫苗安全恐慌后公众的信息空白问题，及时并有针对性地传递信息。比如针对疫苗生产、运输等安全问题引发的疫苗丑闻，向公众呈现透明、公开和详细的监管流程可能是一种重新建立公众对疫苗生产商和药品监管机构的信心的途径(Han etal.,2019)。此外，新闻媒体也应该发挥其传播作用，比如在呈现信息时积极采用信息补偿框架，即以\"专家答疑\"和\"疫苗科普\"视角来引导公众不要陷入被动和盲目的群体恐慌中(罗坤瑾,2020)。另一方面，可借鉴传播学中的解困式报道(solutions journalism)来向公众呈现更加完整的信息内容。与关注问题的传统新闻报道不同，解困式报道关注社会问题的解决方案，通常包括强有力的叙事，并与积极的结果和正面的态度等内容相结合(Curry et al.,2016)。实验研究发现，参与者对解困式叙事信息的信任更高，且更加赞同信息中所传达的信念(Thier et al.,2019)。因此，新闻媒体在对疫苗负面事件报道中加入解困方案信息，也是缓解疫苗安全恐慌的途径之一。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "另外，当疫苗负面信息本身有误时，通常需要提供修正信息来降低负面影响。因此，如何进行有效地信息修正至关重要。尽管有研究发现，在修正过程中重复疫苗错误信息可能会适得其反并强化错误的信念(Sara et al.,2017)，但也有一些实验研究获得了积极的结果。比如研究者试图对“疫苗接种导致自闭症\"进行修止，首先向所有参与者提供美国自闭症发生率上升的信息，一种条件只对此提供片面解释，比如\"自闭症发生率的提升是因为公众对自闭症的认识提升了”；另一条件下还提供平衡信息，比如‘ $9 7 \\%$ 的医学科学家和医生都认为疫苗不会导致自闭症”。研究者还考察了同时提供科学家的图片是否能够降低参与者的错误信念(疫苗接种导致自闭症)。结果发现，同时提供平衡信息和科学家照片能够显著地降低参与者的错误信念。研究者认为，这种同时提供平衡信息和照片的方法，能够让参与者在头脑中建立一个范例(exemplar)，进而当其判断疫苗与自闭症争议时将科学家对争议的看法加入到了自己对这个问题的看法中来(Dixon et al.,2015)。还有一项研究对\"疫苗接种导致自闭症\"采用了双面反驳信息(two-sidedrefutational messages；指在信息中包含两种对立的观点，并提供证据来支持一种观点)的策略进行修正。实验结果发现，当信息中明确提供\"疫苗接种与自闭症没有关系\"的证据时，可显著降低参与者的愤怒情绪，且提高疫苗接种意愿(Featherstone &Zhang, 2020)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "此外，错误信息的修正并不代表恐惧或焦虑情绪的消失，因此应该充分关注公众的情绪诉求。研究者指出，卫生主管部门有义务回应公众的情绪(Larson,2020;Donovan,2020)，而不是仅针对事件本身进行回应。当公众对疫苗接种处于一种担忧与焦虑的情绪状态时，公众卫生主管部门在应对方式上的微小差异就可能引发意想不到的后果。比如为了向家长呼吁接种疫苗的重要性，澳大利亚的一些新闻头条使用了“恳求\"这个词汇，但有研究认为这一用词暗示着某种当局的无能，在公众普遍存在焦虑与恐惧的情绪状态下反而会削弱卫生主管部门的权威(Leask& Chapman,2002)。同时，考虑到恐慌发生期间的公众情绪状态，公共卫生主管部门应该采取引导性的策略，避免过度劝说和对抗性的辩论，否则可能加剧公共的情绪对立与行为背离(Leask et al.,2012)。另外还有研究发现，在应对家长对HPV 疫苗安全性的担忧时，应更多地提供疫苗对健康收益的知识，而避免提供疫苗接种紧迫性的相关知识，因为处于担忧中的家长会感受到一种不合时宜的匆忙或自身的担忧没有得到重视(Shah et al,",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2019)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "最后应当说明一点，由于如何应对现实中发生的疫苗安全恐慌较难进行严格的重复性检验，以上内容多数都是在调查研究的基础上形成的策略性建议，对于这些干预措施的实际效果，尚需结合多方面的证据才能进行更为准确的评估。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4总结与建议",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "疫苗虽好,(全面)接种却难(Yahya,2007)。本文从信息加工和传播两个层面来总结引发疫苗安全恐慌的规律性因素，并从现有的实证研究中归纳应对策略。相对而言，目前对疫苗安全恐慌的成因已经得到了较为全面和深入的了解，但是如何对这一现象进行有效的预防和纠正，相关的研究和证据还较少，且研究结果也具有不确定性。这部分因为疫苗安全恐慌的成因虽有一定的规律性，但是现实中每一次真实发生的疫苗安全恐慌却具有其独特性和不可掌控性。作为引发疫苗安全恐慌的两类来源，负面报道与阴谋论会交织迭进，几乎每一次疫苗负性事件的发生和大肆报道都会引发反疫苗运动和阴谋论的盛行，进而使疫苗安全恐慌的局面更为严峻。因此，在展望部分将主要针对应对策略方面提出一些学术研究与实践方面的建议与思考。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.1 更精细化地检验疫苗知识普及的实践策略",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "虽然公众倾向于对疫苗负面信息采用非理性的加工方式，但疫苗知识仍是建立公众对疫苗接种准确信念的基础，而疫苗接种的准确信念是疫苗态度的重要预测因素(Joslyn &Sylvester,2019)。因此，普及疫苗知识仍是预防疫苗安全恐慌的重要策略。但是，对这一策略的实践仍过于停留在概念层面。这实际上反映的是普遍性的科学知识在实证研究中如何进行概念化的问题。将科学知识视为一个单一、宽泛的概念会导致相互矛盾的发现，并削弱某些特定的科学知识对公众态度的影响(Rose etal.,2019)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "同样的，“疫苗知识\"是一个模糊且宽泛的概念，公众到底需要了解哪些疫苗知识以及疫苗知识的深入程度、不同的疫苗知识在疫苗的风险与收益的权衡中会发挥怎样的作用，这些问题都还需要大量系统性的实证研究加以检验。比如，一项探究信息框架对流感疫苗接种意愿的影响的研究发现，当对参与者同时提供接种疫苗的健康收益和副作用的知识时，会显著降低参与者的流感疫苗接种意愿。这一结果是由于这种同时表述收益和披露风险的知识导致参与者对疫苗有效性的感知产生了矛盾情绪(Kim etal.,2017)。这说明在疫苗知识的传播过程中需要仔细考察潜在的心理机制。正如 Pandolfi 等(2018)所提示，对抗反疫苗信息的策略不能仅凭借有根据的猜测而制定。此外，疫苗知识的传播效果也需考虑公众所处的情绪状态。比如对疫苗接种的收益和风险较不确定的状态、对疫苗安全担忧的状态或者新冠疫情背景下的对疫苗较为渴求的状态，都可能导致疫苗知识发挥不同的效用或者不能发挥作用。而很多关于疫苗知识效果的研究都忽略了这一问题，导致其结果的实践价值大打折扣。如何做出更贴近实际的研究，应是后续研究的一个主要着力点。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2促进疫苗正面信息的社会分享",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "随着新冠肺炎疫情的全球蔓延，诸多对COVID-19 疫苗开发与接种不利的不实信息(misinformation)以及人为操纵的虚假信息(disinformation)已广为传播(Larson，2020)。如前所述，疫苗负面信息的广泛传播存在人为推动因素。一些人对疫苗接种的态度并不是基于风险和收益的权衡，而是基于特定原因(比如宗教信仰或者利益因素等)的坚定的反疫苗主义者。试图去改变反疫苗主义者的想法是非常困难的，对其观点进行反驳也可能并无用处(Poland& Spier,2010)。从现实的策略上讲，公共健康政策和科学知识普及首先要争取的并不是这类人，而是容易受到这些反疫苗主义者影响的中立或摇摆个体。为此，当反疫苗信息在网络和社会中泛滥时，采取更大力度、更高强度的正确信息供给和分享，是反制反疫苗信息传播不可忽视的策略。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "有研究分析了Twitter上支持和反对疫苗接种的信息的流动情况，发现了两种典型的不对称情形。第一，反对疫苗接种的信息是对所有疫苗进行反对，而对疫苗进行辩护的信息却是对特定疫苗的支持；第二，支持疫苗的信息侧重于对新疫苗的希望，并更多涉及疫苗可预防疾病的持续爆发，而反疫苗的信息使用了更加广泛的资源和传播策略，集中在对疫苗的争议性话题上(Gargiulo et al.,2019)。这意味着有效的干预措施不仅要提供正确的疫苗知识，也需要这些知识能够在网络上得到深入地传播(Betsch et al.,2012; Miton et al.,2015; Giese et al,2019)，这样才能形成与反疫苗信息相对抗的力量。虽然正确信息的供给往往依赖于少数专家和权威部门，但信息传播却可通过广泛的社会动员实现。因此，如何提高普通公众对正确信息的分享意愿与行为，就成为社交网络时代的疫苗普及运动的重要切入点。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "随着社交媒体的兴起，公众可以更容易地在社交网站上与他人分享信息，分享已经成为网络空间中最流行的行为之一。关于网络分享行为的特征和动机的调查研究发现，针对健康领域的知识，利他主义是最具影响力的分享动机，而个人利益是效果最小的分享动机(Oh,2011)。因此，从理论上来讲，强调群体价值取向的群体免疫知识应该可以激发公众的分享意愿，这一假设可以通过后续的实证研究加以检验。目前已有实证研究发现，传播群体免疫的概念可以显著地促进参与者的疫苗接种意愿(Betsch etal.,2017)。这种方式可以视为一种亲社会推动，建立疫苗接种的群体价值信念实际上是激发了公众对疫苗接种的责任意识，而不仅仅是从个人健康的视角来看待疫苗接种。这实际上与行为免疫系统理论中的观点相一致，比如在流行病压力高或受流行病威胁大的地区，人们更加遵循集体主义价值取向(Fincher etal.,2008；杨盈等,2020)。另外，从新冠肺炎疫情以来世界各国民众对群体免疫的和社会疏离(social distancing)措施的不同态度来看，群体免疫价值观与不同国家或地区的自由主义和个体主义价值观之间尚存在一定的矛盾性。这种小规模研究的结果能否推广至真实世界中，或者是如何发现已有结果的真实作用条件与边界，还需要更真实案例的佐证。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.3提高研究的生态效度",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "实验研究中对知识效果和分享意愿的考察往往忽略了网络复杂的环境因素。通常研究者都会编制特定的实验材料，以考察其涉及的疫苗知识内容对参与者的疫苗接种意愿和信息分享意愿的影响。也就是说，参与者只需要接触到一则信息，然后做出决策。但是在真实的网络环境中，网络信息纷繁复杂，在实验中有效的信息不一定能够在网络中发挥其应有的作用。这是因为公众往往会受到其他信息的干扰、甚至根本不会关注到正确的疫苗接种知识。比如在一项关于HPV疫苗接种的研究中，研究者考察了不同时间框架(指向当下收益和指向未来收益)和传播策略(叙事和非叙事)的疫苗知识对接种意愿的影响，结果发现一个指向当下收益的叙事信息能够引发更高的疫苗接种意愿(Kim&Nan,2016)。该结果虽然具有一定的实践价值，但是，即使实验结果表明指向当下收益的叙事信息的效果高于非叙事信息，当这样的信息处于复杂的网络环境时，与其他类信息相比也可能并不具备竞争优势。因此，无论是衡量知识效果的接种意愿还是信息的分享意愿，都有可能在实际应用中发生变化。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "包括疫苗知识在内的公共健康知识的传播，在互联网的环境下面临着实验室所无从模拟的重重挑战。某种程度上，在网络环境中最重要的是验证公众是否能够记住疫苗接种的正确知识(Faasse＆Petrie,2016)。但针对这一方向，目前尚缺少相关的实证研究，但其他领域的研究可以为之提供借鉴。比如在一项针对美国公众对移民问题的研究中，研究者为了探究参与者对移民相关的新闻信息的加工，在提供信息时，模仿真实的网络环境，在移民新闻信息中同时加入了与研究主题无关的娱乐新闻信息，以此提高研究的生态效度(Magdalena &Kelly,2018)。类似地，今后的疫苗研究也可以通过这种模拟的方式建立更具生态效度的实验环境，并将参与者对疫苗接种的重要性感知和疫苗信息的网络寻求及分享倾向作为主要的考察变量，从而提升研究的实践价值。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Why vaccine safety scares happen and how to address them ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A vaccine safety scare is defined as the phenomenon in which the public's distrust of the validity and safety of vaccination is triggered by negative vaccine-related media reports or vaccine conspiracy theories. Such misinformation further leads to a dramatic drop in the vaccination coverage or wilingness of individuals to be vaccinated domestically or globally. Together with the influence of the negative prior beliefs of vaccination and the experiential processing and gist extraction of individual cognition,this information gains further social amplification during its dissemination in society. Current psychological counter-strategies to address vaccine safety scares mainly consist of belief inoculation，reconstruction of risk perception，and satisfaction of informational needsand emotional appeals.However, the ecological validity of these methods remains unexplored. In addition, sharing positive vaccine information should be encouraged to debunk vaccine misinformation. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words: vaccine safety scare; vaccination; misinformation; conspiracy theory; risk perception ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "interventions.Expert Review of Vaccines,18(11),1167-11851   \nBallP.,&n).eictsoiustidace,74   \nBanas,J.A,&is,.A.().etalysisofeachooclatioteryommcatiooograph()11.   \nBaron,J.,&itov,I().Omisionbas,individualdierencesandnormalityOrganizationalBehavior&HumanDecision Processes,94(2),74-85.   \nBasch,C.H.,Zybert,P.,Reves,R.,&Basch,C.E.(2O17).WhatdopopularYouTube(T)videossayaboutvaccines?.Child:Care Health and Development,43(4),499-503.   \nBetsch,C.ocd,sesea).Ordag for vaccination decisions.Vaccine,30(25),3727-3733.   \nBetsch,C.,Bo,,&aan..i).Ungvioraightsteasaciatiooliecties.sight fromthe Behavioral&Brain Sciences,2(1),61-73   \nBetsch,C.,Bohm,R.,Ko,L,&Holtma,C.(217).Onthebenefitsofexplaining hrdimmunityinvaineadvocacy.Nature Human Behaviour,l(3),1-6   \nBetsch,C.eneizsh,&UseC.).efuceoaciericalitesoeingacati. JournalofHealthPsychology,15(3),446-455   \nBetsch,C.,UshoerCenkeitzF.etsch1).efeneofarativetatisticalifoationoeiing vaccination risks.Medical Decision Making,31(5),742-753.   \nBetsch,Cizs).ofirtsbtdeetseso vaccine decisions: Asimulation of anonline patient social network.Medical Decision Making,33(1),14-25   \nBian,Z.H.,Zhang,ZChng,Y.F.,Ma,ZY.,&an,H.F.().WillngnesstohavevacinatioamongthepublicafterChangchun Changsheng Vaccine safety incident:An online survey.Chinese Journal ofPublic Health,36(8),1208-1212.   \n[卞增惠，张钟，程云凤，马智勇，范华锋.(2020).长春长生疫苗事件后公众预防接种意愿网络调查．中国公共卫生，36(8), 1208-1212]   \nBoehm,R.,etsh,C,Ko,L.6)Satioloacatio:Exrmtalvicefrtetiea Journal of Economic Behavior& Organization,131(pt.B),183-195.   \nBoras,E.,gttald,.dgi BMC Public Health,9(1),1-7   \nBrady,WJilstJcrJ,elJotaesthioaldel networks.Proceedings ofthe National Academy of Sciencesof the United StatesofAmerica,114(28),7313-7318.   \nBrewer,N.T.,ChapanG.BRotan,A.JLask,J,&Kempe,A. (7).Iceasingvacinatio:Putingpschologicalience into action.Psychological Science in the Public Interest,18(3),149-207.   \nBroniatowskiD.A,ilyard,K.M.,&Dredze,M.(216).Efectivevacincommunicationuringtheisneylandmeaslestbeak. Vaccine,34(28),3225-3228.   \nBroniatowskiD.A.&ReynaV.F.(O18).Aforalmodelofztracethory:Variationsoframingeectsandthelispradox. Decision,5(4),205-252.   \nBroniatowski,D.A.&Reyna,V.F. (2O19).Toilluminateand motivate:Afuzzy-trace modelof thespreadof informationonline. Computational and Mathematical Organization Theory,26,431-464.   \nBrown,K.Froll,J.s.nJct.lisi rejectionbyparentsof healthychildren:ImplicationsfortheinfluenzaA/H1N1vaccnationprogramme.Vaccine，28(25), 4181-4185.   \nButenheim,A.a,JsKy..ee and parental vaccine atitudes: Anonline experiment. Vaccine,38(11),2620-2625.   \nCarter,E.D.,Tam,Y,&Walker,N(2O19).Impactofvacinationdelayoneathsavertedbypeumococcalcojugatevacine: Modeled effects in 8 countr narios.Vaccine,37(36),5242-5249.   \nChen,L.LingCaoanK.).sbeededospcetlisof discourse about the HPV vaccine in China.Asian Journal of Communication,30(6),450-469.   \nChen,L.Zhang,Y.,Young,R.Wu,X,&ZuG.(22).Efectsofvaccine-relatedconspiracytheoriesoncineseyoungadults erceptions of the HPV vaccine:An experimental study.Health Communication,(1),1-11   \nCoelho，F.C&CodecoCT.20o9).Dynamicmodelingofvaccinatingbehaviorasafunctionofindividualbeliefs.Plos Computational Biology,5(7),e1000425.   \nCorben,P.,&Leask,J.(o16).Tolosetechoodimmunzationgap,weedaicherunderstandingofparents’decisionking. Human Vaccines & Immunotherapeutics,12(12),3168-3176.   \nCury,A.Strod,,g.)issmde--eeedfro engagement.org/wp-content/uploads/2016/O3/ENP-Solutions-Journalism-News-Engagement.pdf   \nDawkins,R.(2O12).TheSelfishGene(Lu,Y.Z,Zhang,D,Y.,Chen,F.J,&Luo,X.ZTrans),Beijing,China: ChinaCiticre. (Original work published 1989)   \n[查理·道金斯.(2012)．自私的基因 (卢允中，张岱云，陈复加，罗小舟 译)，北京：中信出版社.]   \nDiBonaventura,M.D.&Chapman.G.B.(2O08).Dodecisionbiasespredictbaddecisions?Omissionbiasnaturalnessbias,and influenza vaccination. Medical Decision Making,28(4),532-539.   \nDixon,G.N.(2017).Making vaccine n essaging stick: Perceived causal instability as a barrier to effective vaccine messaging. Journal of Health Communication,22(8),631-637.   \nDixon,G.N.，Mckever,B.W.，Holton,A.E.Clarke,C,&EoscoG.(015).hepowerofapicture:Overcomingscientific misinformation bycommunicating weight-of-evidenceinformation with visual exemplars.Journalof Communication,65(4), 639-659.   \nDixon,G.N. (016).Negatieaectasaehasmofxemplfiationeects:Anexpermentotsidediskargumentrcalland risk perception. Communication Research,43(6),761-784   \nDo,H.,Seng,P,Talbot,J.Acorda,E.,&Taylor,V.M.(2009).HPVvacineknowledgeandbeliefsamong CambodianAmrican arentsand community leaders.Asian Pacific Journal of Cancer Prevention,lO(3),339-344.   \nDohertycttros)cectisaa 34(52),6707-6714.   \nDonovan,J. (202O). Vaccines stop diseases safely -why all the suspicion? Nature,583,680-681.   \nDouglas,K.M.,uton,R.M.,&CichockaA.().epyhologyfonspacyteor.CurrntDirectionsinsyogical science,26(6),538-542.   \nDubé,E.,Laberge,C.，GuayM.，Bramadat,P.&Betinger,J.A.(2O13).Vacinehesitancy:Anoverview.Human Vaccines& Immunotherapeutics,9(8),1763-1773. and implications.Expert Reviewof Vaccines,14(1),99-117.   \nFaasse,K.,Porss,asse,J,&artinLR.(O7).adnews:eifuenceofnsoverageandgoglesarchsodsil adverse event reporting. Vaccine,35(49), 6872-6878.   \nFaasse,K.,&Petrie,K.J.(2016).Frommetoyou:Teeffectofsocial modelingontreatmentoutcomes.CurrentDirectionsin Psychological Science,25(6),438-443   \nFeatherstone,D.&Zhang,J.W.().Felingagry:Teefectsofaccnemsiformationadrefutationalmeagesogative emotions and vaccination attitude.Journal of Health Communication,25(9),692-702.   \nFincher,C.Loill,u,D.&hallr.(8)athognprevalcepreictsmanossululbitn individualism/collectivism.Proceedings of theRoyalSociety B,275(1640),1279-1285.   \nGargiuloFoiltodJ)tod o debates on French-speaking twitter. Scientific Reports,lO(1),1-12.   \nGiese,H.,et,Husdshe).einacatiobelec trumps social influence.Vaccine,38(8),2070-2076.   \nGlanz,J.M.,regidl,ie,..)ataucaio with an increased risk of pertussis infection in children.Pediatrics,123(6),1446-1451.   \nGuillaume,L.R.,& Bath,P.A.(2004).The imp ofhealthscares baren s’information needs and preferred information sources:A case studyof themmrvaccinescare.Health InformaticsJoural,(1),522   \nHan,B.Wang,SWanY,LiuJ,&Cu.9).Hasthepublicloonfdenceinvainesbecusefvaineandalinina. Vaccine,37(36),5270-5275.   \nHanley,S.J.,Yoshioka,E.,oY,&Kishi.(25).HvaccinationrisisinJapan.TheLancet385(998),571.   \nHansen,C.E,ot,A,&olaiL..).Cogitiebiasinasmuicatiabouthmanapilomvirustio Health Communication,35(4),430-437.   \nHarvey,A.M.,Thompson,S.,Lac Coolidge,F.L.(2O19).Fear and derision: A quantitative content analysis of provaccine and antivaccine internet memes.Health Education& Behavior,46(6),1012-1023.   \nHills,T.T. (2019).Thedark sideof informationproliferation.PerspectivesonPsychological Science,14(3),2-330.   \nHoffman,B.L.,Felter,E.M.,Chu,K.M.,Shensa,A.,Hermann,C.,Wolynn,T .Primack,B.A. (2019).It's not all about autism: The nglandsc cebook.Vaccine,37(16),2216-2223.   \nHoreZwellelkK.)oteriniotesrengfl Academy ofSciences ofthe United Statesof America,112(33),10321-10324.   \nJagieloR.D,&H.).Bdnshasing:Dredsedatessocalamplicatioinsomicatislyis, 38(10),2193-2207.   \nJolley,D,ouglas.).reioiseraue:dreitcespacuae Social Psychology,47(8),459-469   \nJoslyn,M.R.,&Sylvester,.M.(O9).Tedeterinantsandconseuencesofaccuratebfsboutchoodvacinatios.American Politics Research,47(3),628-649   \nKahn,B.E.&Luce,M.F.(2O6).Repeated-AderenceProtectionModel:“mOK,andIt'saHasle.JournalofPublicPolicy& Marketing,25(1),79-89.   \nKata,A.(201o).ApostmodermPandora'sbox:Anti-vacinationmisinformationontheinteret.Vaccne,28(7),1709-1716.   \nKim,J,&Nan,X. (6).malfngectsdierforaiesaraisags.omcaionach46(3), 401-417   \nKim,S.,Pjesivac,,&JinY.).Eectsofmessagefrngoifenination:Understandngtheoleofisscoure perceived vaccine eficacy,and felt ambivalence.Health Communication,34(1),21-30.   \nKing,( ,&Leask,J.(2017).The impact of a va ccine scare on parental views,trust and information needs: A qualitative study in sydney, Australia.BMCPublic Health,17(1),106-115   \nKlein,C.,Cuto,P.,&Du,A.G19).Patas tospiacyeocialadlingsticprecursosofivolvementdits conspiracy theory forum.Plos One,14(11),eO225098.   \nKramer,A.DGuiloryG.E,Hancock,J.T.(4).Experimentalevidenceofmassivescaleemotioalotagionthroghsocial networks.ProceedingsoftheNationalAcademyofSciencesofthe UnitedStatesofAmerica,1l(24)788-8790.   \nKusumi,T.,raamaR,&Kashia,Y17).Riskpereptionandrisktalk:ecseofthefukusimadchiuclearradiatioisk. RiskAnalysis,37(12),2305-2320   \nLarson,H.J. (2020).A lack of information can become misinformation. Nature,580,306.   \nLarson,H.J.,Jaett，C.,Elisabeth,E.&David,S.&Pauline,P.(24).Understandingvaccnehesitancyaroundvacinad vaccinationfromaglobalperspective:Asystematicreviewofpublishedliterature,o07-2l2.Vaccine,32(19),150-2159.   \nLeask,J,KseyJacoCatereod,ols.).icatiihpresabotcio framework for health professionals.BMC pediatrics,l2(12),1-11   \nLeask,J.,&apman,.(2).“Tecoldardacts”satioandacepreveabledseasesiustralia’sewspntda 1993-1998.Social Science&Medicine,54(3),445-457.   \nLewis,J.,&Speers,T.(3).cienceandsociety:sleadingmediareporting?estoryNatureReviewsImuology(1), 913-918   \nLuo,K.J ()ReflectiosoCna’spublicealtisus:Tkingth-1vacieicdentastheaalsissple.Joulof Social Science of Hunan Normal University,49(3),75-84.   \n[罗坤瑾.(2020).我国公共卫生议题的传播学反思一以 2005-2018 年疫苗事件为分析样本．湖南师范大学社会科学学报,49(3), 75-84.   \nMagdalena,W,&KellG.R.8)Socialidntityelectiveexposrendectivepolarzatio:Howpringnatioalentit napes atitudes toward immigrants via news selection.Human communication research,44(3),247-273   \nMAO,JYag,S.L,Go.9).iesofelievingiospraceodmeasoftertio.seJoulo Clinical Psychology,27(3),623-627.   \n[茆家焱，杨沈龙，郭永玉 (2019).信奉阴谋论的动机及干预手段．中国临床心理学杂志,27(3),623-627.]   \nMargolis,M.ArewerN.TSahP.DCaloWA,&key,.B.(9)StoriesaboutHVvacineiocialmediatdoal media,and conversations.Preventive Medicine,I18,251-256.   \nMcQueen,Arte.Kaaa,K.1)Uesinaicts:acofas storieson messge processing,atitudes,andbeliefsamong African American women.HealthPsychology,30,674-682.   \nMiton,H.,&ercer,H.5).Cogiebtaclestrvacinaioneis.endsingiivecs9()6.   \nMoussaid,M.,Brighton, ，&Gaissmai (2015). The amplific perimental diffusionchains.Proceedings of the National Academy ofSciencesof the United States of America,112(18),5631-5636.   \nNoyman-VeksleGGber,DGrotoI,&aar,G. ().Prentsmalevoentpersonicatinofassvainatosoldi accinehesitancy.Journal of HealthPsychology,1   \nNyhan,B.,Reificy.edGL4).ecieeasinacineromio:dozdrial.Jolo Emergency Medicine,47(1),835-842. UI,S.(∠U11) Knowieuge,anu experiences  omme environments.Journal of the American Society for Information Science and Technology,63(3),543-557.   \nOliver,JE,&Wood,T.(4)dicalspacytrdalthaviorsineiedatestealdicin4(), 817-818.   \nOrtiz-Sanchez,E.Veland-Soriano,A，Pradas-Herandez,LVargas-Roman,K.，Gmez-Urquiza,J.L.laFuente,J.A.C Albendin-Garcia,L. (O).Analysisoftheanti-vaccinemovementinsocialntworks:Asystematiceview.Internationaljoual of environmental research and public health,17(15),E5394.   \nPandolfiF.raa,LodiLarusientrone,uonooA..ucera,E.（18).eimporanceofomplingi vaccinationprotocolsindevelopedcountries:“Anti-vax\"hysteriaandthespreadofsevere preventablediseases.Curent Medicinal Chemistry,25(42),6070-6081.   \nPoland,G.A.,Spie,R.().Fearisiorationimeates:Hoewakeieldpreprendavocacoup damaged the public health.Vaccine,28(12),2361-2362.   \nReyna,V.F.(o2).iskpereptionadcommunicationinvainationdecisions:Afuzzy-traceheoryaroach,Vaccne,30(25) 3790-3797.   \nReyna,V.F.(2).Asientificthoryofistcommuicationandmisinformationesistance,withimplicationsforealthducatio and policy.Proceedings of theNational Academy of Sciences of the United States of America,1-6.   \nReyna,V.F,dC.).mecyatidoatogtjdtfprbblitng Individual Differences,18(1),89-107.   \nReyna,V.F.Corbn,J.CWeldon,R.,&rerdC.J6).Howuztracetheorypredictstrueandlsememoesforos, sentences,and narratives.Journal of Applied Research in Memory& Cognition,5(1),1-9   \nRitovI,&Baron,J.(9).Reluctacetvainate:OmisionbiasandambiguityJounalofehavioal DecisionMaking3(4), 263-277.   \nRoozenbeek,J,&Linden,S.V.D.(2019).Fake news gameconfers psychologicalresistanceagainstonlinemisinformation.Palgrave Communications,5(1),1-10.   \nRose,K..,owellE.L,u,Y.,Xeos,.Aroad,D,eufeleD.A.(9)gusngientiicknoge impactof diferentmeasuresofnowledgeogeneticallymodifidfoodatitues.PublicUnderstandingofciene,28(4),449467.   \nSakai,Y.(2O18).Thevainationkuzetsurve:Dovaccnationratesriseandfallwithincome?.JoualofHealthEonomics,57, 195-205.   \nSara,P.,Caroline,W.,Sergio,D.S.,&Moore,A.C.(2Ol7).Misiformationlingersinmemory:Failureofthreepro-vacciation strategies.Plos One,12(7),e0181640.   \nSchindler,Jer,,at).letiaid.Jouallho8   \nShafer,V.A.&ikund-Fshr,.J.).Alstosarenotalike:Apuposotentndvalencebasedtaxonfai narratives indecision aids.Medical Decision Making,33(1),4-13.   \nShah,P.D.CaoW.A,key,.BBoton,.H,AltonDailey,odd,K.G.BrewerN.T.(9).Questioad about HPV vaccine: A communication experiment.Pediatrics,143(2),1-10   \nShelby，A.&st,K.13).toryandience:Howprovdesandparentsanutiletorelingtcombatantacine misinformation.Human vaccines& immunotherapeutics,9(8),1795-1801.   \nSlovic,P.tes,.ucan,.acgG)ectisndecisiaing.Healolog44), S35-S40.   \nSmith,N.,&Graam,T.(0l9).apngthenti-vacinationmovementonfacebok.formationCommuication&Society(9), 1310-1327.   \nSuppli,C.H.ase,N.,smussenVlentier-Brant,P.ruse.G&bak,K.).clineinVvio uptakeindenmark-the associationbetweenHPV-related mediacoverage and HPV-vaccnation.BMCPublic Health,18(1),1-8.   \nTeoh,D.(2019).ThepowerofsocialmediaforHVvacination-Notfakenews!AmericanSocietyoflinicalOncologyEducational Book,39,75-78.   \nThier,K.,Abdeur,Walh,.&n,N..9).Aarativesutioeelatishtweesolusjoualiie transportation,and news trust.Journalism,(6),1-20   \nTomljenovic,H,Bubic,A,&Erceg,N.(O2).Itjustdoesn'tfelrigt?Therelevanceofemotionsandintuitioforparentale conspiracy beliefs and vaccination uptake.Psychology& Health,35(5),538-554.   \nUscinski,J.E.,Klofstad,C.，&Atkinson,M.D.(O16).Whatdrivesconspiratorialbeliefs?heroleofinformationalcesand predispositions.Political Research Quarterly,69(1),57-71.   \nVaidyanathan,G).FindingacinfosinfoationProcedingsofteNtionlAcdemyofScienceofteUnitedatesof America,117(32),18902-18905.   \nVanBavel,,crK.proVcoara.lrUin science to support COVID-19 pandemic response. Nature human behaviour, 4(5),460-471.   \nWHO.(2020).10factsonimmunization,22-12-2.Retrievedfromhtp://www.who.int/features/factfiles/immunizatio/en/.   \nWolfe,R.M.,Sharp,L.K.,&Lipsky,M.S.(2O02).Contentanddesignatributesofantivaccinationwebsites.JAMA,287(24), 3245-3248.   \nWong,L.P.,Wong,P.F.,&AbuBakar,S.(2O2o).Vaccinehesitancyandtheresurgenceofvaccinepreventablediseases:The way forward for Malaysia,a SoutheastAsian country.Human Vaccines& Immunotherapeutics,l6(7),15i-1520.   \nWroe,A.L.,an,A,ovkis,P.,ford,H.().FelingbdboutiisingourdrnVccne,3(2)4.   \nWu,L.&Yang,Y.Q.019).Thestrategiesofpschologicalestraintonriskamplificatiooniforationinoinepublicoinion events.Journal ofNorthwest Normal University(Social Sciences),56(1),110-117   \n[伍麟，杨宇琦.(2019).网络舆情事件信息风险放大的心理抑制策略．西北师大学报(社会科学版),56(1),110-117.]   \nYahya,M.(2).Polaciesoankyu:Baestolradiationinortgera.Afranfirs:thejoulofthe Royal African Society,106(423),185-204.   \nYang,Y.,Zhu,H.J.,Zhou,W.,Zhang,M.Y.,Xie,Y.P.,BAO,H.W.S...Cai,H.J. (2020).The behavioral immunesystem:A multi-level reconsideration.Advances in Psychological Science,28(11),1865-1879   \n[杨盈，朱慧珺，周婉，张明杨，谢怡萍，包寒吴霜，.蔡华俭.(2020).行为免疫系统理论及其研究：新视野下的再考察．心理科学 进展,28(11),1865-1879]   \nYu,W.Z.JiZZLiu,J,Cong,.,Zou,Y..ZhangX..WangH.Q.(6).Cntiuoumonitorngofparentalodeceo accinationfollowingtheadongillegalvaccineellngevent.CineseJouralofVaccinesandImmunzation,2(6),6605.   \n[余文周，吉赛赛，刘静，丛博，周玉清，张旋...王华庆.(2016).山东非法经营疫苗系列案件对儿童家长预防接种信任度影响的连 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    }
+]

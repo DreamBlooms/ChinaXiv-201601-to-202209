@@ -1,0 +1,224 @@
+[
+    {
+        "type": "text",
+        "text": "Potential Energy Surfaces of Actinide Nuclei from a Multi-dimensional Constraint Covariant Density Functional Theory:Barrier Heights and Saddle Point Shapes ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bing-Nan Lu,1 En-Guang Zhao, $^ { 1 , 2 , 3 }$ and Shan-Gui Zhou $^ { 1 , 2 , * }$ （204 $^ { 1 }$ Key Laboratory of Frontiers in Theoretical Physics, Institute of Theoretical Physics, Chinese Academy ofSciences，Beijing 10019o,China （204 $^ 2$ Center of Theoretical Nuclear Physics，National Laboratoryof Heavy Ion Acelerator，Lanzhou 730oo0,China 1 $^ 3$ School of Physics, Peking University， Beijing 100871， China (Dated: August 1, 2017) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For the first time the potential energy surfaces of actinide nuclei in the $( \\beta _ { 2 0 } , \\beta _ { 2 2 } , \\beta _ { 3 0 } )$ deformation space are obtained from a multi-dimensional constrained covariant density functional theory. With this newly developed theory we are able to explore the importance of the triaxial and octupole shapes simultaneously along the whole fision path.It is found that besides the octupole deformation,the triaxiality also plays an important role upon the second fission barriers.The outer barrier as well as the inner barrier are lowered by the triaxial deformation compared with axially symmetric results. This lowering effect for the reflection asymmetric outer barrier is $0 . 5 \\sim 1$ MeV,accounting for $1 0 \\sim 2 0 \\%$ of the barrier height.With the inclusion of the triaxial deformation,a good agreement with the data for the outer barriers of actinide nuclei is achieved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 21.60.Jz,24.75.+i,25.85.-w, 27.90.+b ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since the first interpretation of the nuclear fission by the barrier penetration [1],it has been a difficult task to describe this phenomenon theoretically. For example, in order to study the fission problem,one should first have very accurate information about the fission barrier; a 1MeV difference in the fission barrier could result in several orders of magnitude difference in the fission halflife. Particularly, to explore the island of stability of superheavy nuclei (SHN) 2-4],it is more and more desirable to have accurate predictions of fission barriers of SHN [5-8]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nowadays three types of models are used for calculating fission barriers.During a long period the majority of these works is based on the macroscopic-microscopic (MM) models [5, 9-11]. The MM models make use of the Strutinsky shell correction method,allowing fast calculations of multi-dimensional PES's containing most of the important shape degrees of freedom.Until now it is still an important candidate for large scale fission barrier calculations based on the examination of multi-dimensional PES's [1O]. In recent years, the rapid development of the density functional theories (DFT) also makes it possible to calculate the fission barriers fully self-consistently [12- 15]. There are mainly two reasons to apply DFT's in the study of fission properties.First,many new functional forms and effective interactions are proposed with much better performances for the excited state as well as the ground state calculations [16-2O]. Fission barrier calculations are also helpful for developing these DFT's. Second, in DFT's much more shape degrees of freedom can be included self-consistently. For example,the symmetryunrestricted Skyrme-Hartree-Fock-Bogoliubov model has been applied for the fission studies [21]. Besides these two types of models, there exist also methods intending to combine the advantages of the MM and self-consistent models,such as the extended Thomas-Fermi method [22]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The double-humped fission barriers of actinide nuclei can be used to benchmark the predictive power of theoretical models [13，23-25]. Various shape degrees of freedom play important and different roles in the occurrence and in determining the heights of the inner and outer barriers. For examples，it has long been known from MM model calculations that the inner fission barrieris usually lowered when the triaxial deformation is allowed,while for the outer barrier the reflection asymmetric (RA）shape is favored [26，27]. Later on these points were also revealed in the non-relativistic [24] and relativistic [15，28] density functional calculations,respectively. It is thus customary to consider only the triaxial and reflection symmetric(RS)shapes for the inner barrier and axially symmetric and RA shapes for the outer one [5,29,30]. It has been pointed out that “there is no reason for a fissioning actinide nucleus not to penetrate all symmetry-breaking shapes on its way from the first (triaxial) to the second (mass-asymmetric) saddle” [31]. The non-axial octupole deformations are considered in both the MM models [32] and the nonrelativistic Hartree-Fock theories [33].However,a multidimensional structure of PES's including both the triaxial and RA shape degrees of freedom has not been explored yet in the framework of covariant DFT.In this paper,we will investigate the influence of the triaxiality and the octupole shape on the PES's all the way from the ground state to the fission configuration when both shape degrees of freedom are included simultaneously. To this end, not only as many as self-consistent symmetries should be broken,but also multi-dimensional constraints are needed [34]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To calculate the potential energy surfaces and fission barriers,in this work we use the covariant density func tional theory(CDFT)[17,19,20,35,36]. By breaking not only the axial [37,38] but also the reflection symmetries [39],we developed multi-dimensional constraint CDFT's in which the functional can be one of the following four forms: the meson exchange or point-coupling nucleon interactions combined with the non-linear or density-dependent couplings [4O]. If not specified,the functional form of the point-coupling nucleon interaction with non-linear self energy terms and the parameter set PC-PK1 [41] are used in this work. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the parametrization of the nuclear shape,we adopt the conventional ansatz in mean field calculations, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { \\lambda \\mu } = \\frac { 4 \\pi } { 3 A R ^ { \\lambda } } \\langle Q _ { \\lambda \\mu } \\rangle\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $Q _ { \\lambda \\mu }$ is the mass multipole operators.When the axial and reflection symmetries are broken,the nuclear shape is invariant under the reversion of $x$ and $y$ axes. In other words,the intrinsic symmetry group is $V _ { 4 }$ and all shape degrees of freedom $\\beta _ { \\lambda \\mu }$ with $\\mu$ even，including the triaxial ( $\\mu \\neq 0$ ）and octupole( $\\lambda = 3$ ）deformations,are possible.Irrespective with the self-consistent symmetries,the single particle wave functions and various densities are expanded on an axially deformed harmonic oscillator basis [38,42]. In order to get a fast convergence of the results against the basis size,in the elongated direction more states are included in the basis.Following Warda et al. [43], the basis is truncated as: $n _ { z } / Q _ { z } + ( 2 n _ { \\perp } + | m | ) / Q _ { \\perp } \\leq N _ { \\mathrm { c u t } }$ . Here $n _ { z } , n _ { \\perp }$ ,and $m$ are quantum numbers characterizing each state in the basis, $Q _ { z } = \\mathrm { M A X } ( 1 , b _ { z } / b _ { 0 } )$ ， $Q _ { \\perp } = \\mathrm { M A X } ( 1 , b _ { \\perp } / b _ { 0 } )$ ，and $b _ { 0 }$ ， $b _ { z }$ ， and $b _ { \\perp }$ are the oscillator lengthes.The calculated binding energy of $\\mathrm { ^ { 2 4 0 } P u }$ at $\\beta _ { 2 0 } = 1 . 3$ varies only about 130 keV and 20 keV when $N _ { \\mathrm { c u t } }$ increases from 16 to 18 and from 18 to 2O. This means a good convergence and such a truncation scheme with $N _ { \\mathrm { c u t } } = 1 6$ ensures a 0.2 MeV accuracy for the deformation range we are interested in. In the present work, $N _ { \\mathrm { c u t } } = 1 6$ (20) is used in the triaxial（axial) calculations. More details of the convergence study will be given in Ref. [4O]. The BCS approach is implemented in our model to take into account the pairing effect.Since it has been found that the BCS calculation with a constant pairing gap can not provide an adequate description of the fission barriers [14],we use a delta force for the pairing interaction with a smooth cutoff [41,44]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c06afe0cf8cced75cb70767d861db711be60da281cc07b164875c1ad96cd692.jpg",
+        "img_caption": [
+            "FIG.1.(Color online） Potential energy curves of $ { ^ { 2 4 0 } } \\mathrm { { P u } }$ with various self-consistent symmetries imposed.The solid black curve represents the calculated fission path with $V _ { 4 }$ symmetry imposed,the red dashed curve that with axial symmetry (AS) imposed, the green dotted curve that with reflection symmetry(RS) imposed,the violet dot-dashed line that with both symmetries (AS $\\&$ RS)imposed.The empirical inner (outer) barrier height $B _ { \\mathrm { e m p } }$ is denoted by the grey square (circle). The energy is normalized with respect to the binding energy of the ground state. The parameter set used is PC-PK1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We performed one- (1-d)， two- (2-d)，and threedimensional (3-d） constrained calculations for the actinide nucleus $^ { 2 4 0 }$ Pu. In Fig.1 we show the1-d potential energy curves (PEC) from an oblate shape with $\\beta _ { 2 0 }$ about $- 0 . 2$ to the fission configuration with $\\beta _ { 2 0 }$ beyond 2.0 which are obtained from calculations with different self-consistent symmetries imposed: the axial (AS)or triaxial (TS） symmetries combined with reflection symmetric(RS)or asymmetric cases. The importance of the triaxial deformation on the inner barrier and that of the octupole deformation on the outer barrier stressed by earlier studies [15,24,28] are clearly seen here: The triaxial deformation reduces the inner barrier height by more than 2 MeV and results ina better agreement with the empirical datum;the RA shape is favored beyond the fission isomer and lowers very much the outer fission barrier.Besides these features,we observe for the first time that the outer barrier is also considerablylowered by about 1 MeV when the triaxial deformation is allowed. Again,a better reproduction of the empirical barrier height can be seen for the outer barrier.We note that this feature can only be found when the axial and reflection symmetries are simultaneously broken. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How the PES of $^ { 2 4 0 }$ Pu becomes unstable against the triaxial distortion can be seen much more clear in Fig.2 in which we show 2-d PES's from calculations without and with the triaxial deformation. When the triaxial deformation is allowed, the binding energy of $^ { 2 4 0 }$ Pu assumes its lowest possible value at each $( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ point. At some points we get non-zero $\\beta _ { 2 2 }$ values. That is,nonaxial solutions are favored at these points than the axial ones. The triaxial deformation appears mainly in two regions in Fig.2.One region starts from the first saddle point and extends roughly along the direction of the $\\beta _ { 3 0 }$ axis up to a very asymmetric shape with $\\beta _ { 3 0 } \\sim 1 . 0$ .In this region the values of $\\beta _ { 2 2 }$ are about $0 . 0 6 \\sim 0 . 1 2$ corresponding to $\\gamma \\sim 1 0 ^ { \\circ }$ . The energy, especially the inner barrier height,is lowered by about 2 MeV.The other region is around the outer barrier and the $\\beta _ { 2 2 }$ values are about $0 . 0 2 \\sim 0 . 0 3$ corresponding to $\\gamma \\sim 2 ^ { \\circ }$ ．About 1 MeV is gained for the binding energy at the second saddle point due to the triaxiality. In other regions,e.g., in the ground state and fission isomer valleys,only axially symmetric solutions are obtained. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Next we examine the full 3-d PES of $^ { 2 4 0 }$ Pu obtained from the newly developed multi-dimensional constraint CDFT. For simplicity, in Fig. 3 are shown only five typ ical sections of the 3-d PES of $^ { 2 4 0 }$ Pu in the $( \\beta _ { 2 2 } , \\beta _ { 3 0 } )$ plane calculated at $\\beta _ { 2 0 } { = } ~ 0 . 3$ (around the ground state), 0.6(around the first saddle point),O.9 (around the fission isomer),1.3 (around the second saddle point) and1.6 (be yond the outer barrier),respectively. Many conclusions can be drawn by examining these 3-d PES's. First, the ground state and the fission isomer are both axially and reflection symmetric as what is shown in the 1-d PEC and the 2-d PES.But with the 3-d PES one can investigate the stability of $^ { 2 4 0 }$ Pu against the $\\beta _ { 2 2 }$ and $\\beta _ { 3 0 }$ deformations.One finds that the stiffness of the fission isomer is much larger than that of the ground state against both the $\\beta _ { 2 2 }$ and $\\beta _ { 3 0 }$ deformations.Second,while around the inner barrier the shape of $^ { 2 4 0 }$ Pu is triaxial and reflection symmetric,the second saddle point which is close to $\\beta _ { 2 0 } = 1 . 3$ appears as both triaxial and reflection asymmetric shape.Third, the triaxial distortion appears only on the top of the fission barriers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/17d0eb2d6ec13d531c5ab74b5b0c59ca57d9c9df8cad853c1b72ff1b609b8b6c.jpg",
+        "img_caption": [
+            "FIG.2.(Color online）Potential energy surfaces of $^ { 2 4 0 }$ Pu in the $( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ plane from calculations (a) without and (b) with the triaxial deformation included. The energy is normalized with respect to the binding energy of the ground state. The numbers in (b) show the values of $\\beta _ { 2 2 }$ at these points.The fission path is represented by a dash-dotted line.The ground state and fission isomer are denoted by full and open circles. The first and second saddle points are denoted by full and open triangles.The contour interval is 1 MeV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0f24138b36a5b0e65d7ca5534c47b499ac8e5fcd717f1ee23640df98cb34a7a.jpg",
+        "img_caption": [
+            "FIG.3.(Color online) Sections of the three-dimensional PES of $^ { 2 4 0 } \\mathrm { { P u } }$ in the $( \\beta _ { 2 2 } , \\beta _ { 3 0 } )$ plane calculated at $\\beta _ { 2 0 } { = } 0 . 3$ (around the ground state),O.6 (around the first saddle point)，0.9 (around the fission isomer),1.3 (around the second saddle point）and 1.6 (beyond the outer barrier),respectively. The energy is normalized with respect to the binding energy of the ground state. The contour interval is O.5 MeV.Local minima are denoted by crosses. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It has been pointed out that one may obtain spurious saddle points if only a small number of shape degrees of freedom are constrained, see,e.g.，Ref. [5]. That is, the calculated fission path may jump from one valley to another and results in discontinuities in the lowerdimensional PES's；in some cases,a continuous path may even cross a higher saddle point. Although the spurious saddle points may not be excluded completely, most of them can be avoided if(1)the obtained fission path keeps to be continuous in the energy as well as the most important shape degrees of freedom and (2）the results are examined by higher-dimensional calculations. Wehave carefully checked the full 3-d PES and found that the fission path enters and exits the triaxial configuration rather smoothly,which tells that no sudden jump is found and the 1-d (with the $\\beta _ { 2 0 }$ deformation constrained and $\\beta _ { 2 2 } , \\beta _ { 3 0 }$ deformations imposed） and 2- d (with $\\beta _ { 2 0 } , \\beta _ { 3 0 }$ deformations constrained and the $\\beta _ { 2 2 }$ deformation imposed) calculations of the fission barriers may be well justified for $^ { 2 4 0 }$ Pu. It is clear that the continuity of the fission path found in a lower-dimensional constraint calculation is a necessary but not sufficient condition for locating the correct saddle point.In order to have a strictly definite conclusion, one certainly should carry out multi-dimensional constraint calculations with even higher-multipolarity deformations included. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the RS calculations,the triaxiality also lowers the fission path by a few MeV beyond the second saddle point.This point is illustrated by the dotted line in Fig.1 and the local minima with $\\beta _ { 3 0 } = 0 . 0$ in the $\\beta _ { 2 0 } = 1 . 6$ subfigures of Fig.3. However, it is relatively unimportant, because the RA fission is still the most favored one even when triaxiality is included. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Guided by the features found in the 1-d,2-d,and 3-d PES's of $^ { 2 4 0 }$ Pu, the fission barrier heights are extracted for even-even actinide nuclei whose empirical values are recommended in RIPL-3 (see Table XI in [45]). The emphasis is put on the influence of the triaxial deformation on the two fission barriers. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As it has been shown previously,around the inner barrier an actinide nucleus assumes triaxial and reflection symmetric shapes.Thus in order to obtain the inner fission barrier height we can safely make a one-dimensional constraint calculation with the triaxial deformation allowed and the reflection symmetry imposed. In Fig.4(a) we present the calculated inner barrier heights $B _ { \\mathrm { f } } ^ { \\mathrm { i } }$ and compare them with the empirical values.It is seen that the triaxiality lowers the inner barrier heights of these actinide nuclei by $1 \\sim 4$ MeV as what has been shown in Ref.[15]. In general the agreement of our calculation results with the empirical ones is very good with exceptions in the two thorium isotopes and $^ { 2 3 8 }$ U.For $^ { 2 3 0 }$ Thand $^ { 2 3 2 }$ Th, the calculated inner barrier heights are smaller by about 2 or 1 MeV than the empirical values depending onwhether the triaxial deformation is allowed or not.In these two nuclei, the outer barrier is higher than the inner one.This may result in some uncertainties when determining empirically the height of the inner barrier which is not the primary one [12]. Similar results for 230Th and $^ { 2 3 2 }$ Th were obtained from the Skyrme-Hartree-FockBogoliubov model [12] and very small inner barrier height was got for $^ { 2 3 2 }$ Th in Ref. [15].For $^ { 2 3 8 }$ U, $B _ { \\mathrm { f } } ^ { \\mathrm { i } }$ from the axial calculation agrees with the empirical value very well. The triaxiality reduces the barrier height by about 1.5 MeV, thus bringing a discrepancy which was similar to the result in Ref. [15]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6b80e5cda291a88195ae91792f407cdcd4f258956550df611f2571630ddd5fa.jpg",
+        "img_caption": [
+            "FIG.4.(Color online) The inner $\\left( B _ { \\mathrm { f } } ^ { \\mathrm { i } } \\right)$ ）andouter $\\left( B _ { \\mathrm { f } } ^ { \\mathrm { o } } \\right)$ barrier heights of even-even actinide nuclei. The axial (triaxial) results are denoted by open (full) symbols.The empirical values are taken from Ref. [45] and represented by grey squares. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To obtain the outer fission barrier height $B _ { \\mathrm { f } } ^ { \\mathrm { o } }$ ，the situation becomes more complicated because more shape degrees of freedom have important influences around the outer fission barrier.For example,the inclusion of the reflection asymmetric shape makes it possible to have in the $( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ plane two or more competing fission paths with different octupole deformations.In consequence, one often observes in the 1-d PEC two or more fission paths. This happens in $^ { 2 4 4 , 2 4 6 }$ Pu and $^ { 2 4 4 , 2 4 6 , 2 4 8 }$ Cm in the present study and we present a typical example in Fig. 5 for $^ { 2 4 8 }$ Cm. In this figure,one finds that there are two fission paths both in the 1-d $E \\sim \\beta _ { 2 0 }$ curve and in the 2-d $E \\sim ( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ PES. One path denoted by “I\" favors shapes with larger octupole deformations and the other denoted by “II” favors less RA shapes.In such nuclei, it is not safe to perform a 1-d constraint calculation in order to get $B _ { \\mathrm { f } } ^ { \\mathrm { o } }$ .Thus we first assume the axial symmetry and make a 2-d calculation in the $( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ plane from which we can approximately identify the lowest fission path $\\beta _ { 3 0 } ^ { \\mathrm { l o w e s t } } ( \\beta _ { 2 0 } )$ and the location of the second saddle point. Then along this fission path,we perform a 1-d $\\beta _ { 2 0 }$ -constraint calculation with the triaxial and octupole deformations allowed. At each point with $\\beta _ { 2 0 }$ ,theinitialdeformationsaretakenas $\\beta _ { 2 2 } ^ { \\mathrm { i n i . } } = 0$ and $\\beta _ { 3 0 } ^ { \\mathrm { i n i . } } = \\beta _ { 3 0 } ^ { \\mathrm { l o w e s t } } ( \\beta _ { 2 0 } )$ In this 1-d PEC,wecanlocate the second saddle point and extract the outer barrier height for each nucleus. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/41702384ccb44a86ee898b9f7aaa456e6542942ded885913c00302221244cbec.jpg",
+        "img_caption": [
+            "FIG.5.(Color online）(a) One-dimensional potential energy curve $E \\sim \\beta _ { 2 0 }$ and(b） two-dimensional potential energy surface $E \\sim ( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ of $^ { 2 4 8 }$ Cm the outer barrier region with the axial symmetry imposed in the calculation.In both figures, the energy is normalized with respect to the binding energy of the ground state.The fission path I/II is represented by full/dash dot lines and the corresponding saddle point is denoted by up/down triangles.The fission isomer is denoted by open circle. In (a),the empirical outer barrier height is depicted by dash-dotted line.In (b),the contour interval is 0.5 MeV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the lower panel of Fig. 4 we show the results of outer barrier heights $B _ { \\mathrm { f } } ^ { \\mathrm { o } }$ and compare them with empirical values.For most of the nuclei investigated here,the triaxiality lowers the outer barrier by $0 . 5 \\sim 1$ MeV,accounting for about $1 0 \\sim 2 0 \\%$ of the barrier height.One finds that our calculation with the triaxiality agrees well with the empirical values and the only exception is $^ { 2 4 8 }$ Cm.From the calculation with the axial symmetry imposed,the outer barrier height of $^ { 2 4 8 }$ Cm is already smaller than the empirical value. The reason for this discrepancy may be related to that there are two possible fission paths beyond the first barrier,as seen in Fig.5.For the path I with a lower saddle point from which we get the outer fission barrier height,the barrier is very wide and for the path II with a higher saddle point,the barrier is relatively narrow. Therefore the empirical value of the outer fission barrier height may not be easily extracted for the following two reasons: (i) There must be a strong competition between the two fission paths;(ii) When the empirical value of the outer barrier height is evaluated, it is usually assumed that the second barrier is in an anti-parabolic shape with a fixed and smaller width [45]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We also examined the parameter dependency of our results. The lowering effect of the triaxiality on the outer fission barrier is also observed when parameter sets other than PC-PK1 are used. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In summary,a multi-dimensional constrained covariant density functional theory is developed which allows us to study the importance of the triaxial and octupole shapes simultaneously along the whole fission path. The onedimensional PEC $E \\sim \\beta _ { 2 0 }$ ，two-dimensional PES $E \\sim$ $( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ ,and three-dimensional PES $E \\sim ( \\beta _ { 2 0 } , \\beta _ { 2 2 } , \\beta _ { 3 0 } )$ of actinide nuclei are shown and studied in details.Both the triaxiality and the reflection asymmetry plays crucial roles at and around the second saddle point.The outer barrier as well as the inner barrier are lowered by the triaxial deformation compared with axially symmetric results. For most of the nuclei investigated here,the triaxialitylowersthe outer barrier by $0 . 5 \\sim 1$ MeV，ac counting for about $1 0 \\sim 2 0 \\%$ of the barrier height.The calculated results of the outer barrier heights agree well with the empirical values. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Helpful discussions with Jie Meng, P. Ring,D. Vretenar,Xi-Zhen Wu,and Zhen-Hua Zhang are acknowledged. This work has been supported by NSFC(Grant Nos.10875157，10975100，10979066，11175252，and 11120101005),MOST (973 Project 2007CB815000),and CAS (Grant Nos. KJCX2-EW-N01 and KJCX2-YWN32). The computation of this work was supported by Supercomputing Center, CNIC of CAS. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]N.Bohr andJ.A.Wheeler,Phys.Rev.56,426 (1939)   \n[2] S.Hofmann and G. Minzenberg, Rev. Mod. Phys. 72, 733 (2000).   \n[3]K.Morita，K.Morimoto，D.Kaji，T.Akiyama，S.- i.Goto，H.Haba，E.Ideguchi，R.Kanungo，K.Katori，H.Koura，H.Kudo，T.Ohnishi，A．Ozawa, T.Suda,K.Sueki,H.-S.Xu,T.Yamaguchi,A. Yoneda, A. Yoshida， and Y.-L. Zhao, J. Phys. Soc. Jpn. 73, 2593 (2004).   \n[4] Y. Oganessian, J. Phys. G: Nucl. Phys.34, R165 (2007); Y.T.Oganessian,F.S.Abdullin,P.D.Bailey，D.E. Benker，M.E.Bennett，S.N.Dmitriev，J.G.Ezold, J.H.Hamilton，R.A.Henderson，M.G.Itkis，Y.V. Lobanov,A.N.Mezentsev,K.J. Moody, S.L. Nelson, A.N.Polyakov,C.E. Porter,A.V. Ramayya,F.D. Riley,J.B.Roberto,M.A.Ryabinin,K.P.Rykaczewski, R.N. Sagaidak, D.A. Shaughnessy, I. V. Shirokovsky, M.A.Stoyer,V.G. Subbotin,R.Sudowe,A.M.Sukhov, Y.S.Tsyganov，V.K.Utyonkov，A.A.Voinov,G.K. Vostokin， and P.A. Wilk, Phys. Rev. Lett.104,142502 (2010).   \n[5] P.Moller，A.J.Sierk，T.Ichikawa，A．Iwamoto, R.Bengtsson,H.Uhrenholt，and S.Aberg,Phys.Rev. C 79,064304 (2009).   \n[6]J.C.Pei,W.Nazarewicz, J.A. Sheikh，and A.K.Kerman,Phys.Rev.Lett.102,192501 (2009).   \n[7] C.-J.Xia,B.-X. Sun,E.-G. Zhao，and S.-G. Zhou,Sci. China-Phys. Mech.Astron.54 (Suppl. 1)，109 (2011), arXiv:1101.2725 [nucl-th].   \n[8] Z.-H. Liu and J.-D. Bao, Phys. Rev. C 84, 031602 (2011).   \n[9] P.Moller,D.G.Madland,A.J. Sierk，and A. Iwamoto, Nature 409,785 (2001).   \n10] P.Moller,A.J. Sierk，and A.Iwamoto,Phys.Rev.Lett. 92, 072501 (2004).   \n[11] A. Sobiczewski and K.Pomorski, Prog. Part.Nucl. Phys. 58,292 (2007).   \n[12]M.Samyn, S.Goriely， and J.M.Pearson,Phys.Rev.C 72, 044316 (2005).   \n[13] T.Burvenich,M.Bender,J.A.Maruhn,and P.-G.Reinhard, Phys. Rev. C 69,014307 (2004).   \n[14] S. Karatzikos,A. Afanasjev, G. Lalazissis, and P. Ring, Phys. Lett. B 689, 72 (2010).   \n[15]H.Abusara,A.V.Afanasjev， and P.Ring,Phys.Rev. C 82,044303 (2010).   \n[16]M.Bender,P.-H.Heenen, and P.-G. Reinhard,Rev. Mod. Phys. 75, 121 (2003).   \n[17] D.Vretenar,A. Afanasjev,G. Lalazisss, and P. Ring, Phys.Rep.409，101 (2005).   \n[18]L.Guo, J.A.Maruhn，and P.-G.Reinhard,Phys.Rev. C 76,034317 (2007).   \n[19] J.Meng,H. Toki, S.G. Zhou, S.Q. Zhang,W.H. Long, and L. S. Geng, Prog. Part. Nucl. Phys. 57, 470 (2006).   \n[20] T.Niksic,D.Vretenar， and P.Ring, Prog. Part.Nucl. Phys. 66, 519 (2011).   \n[21] A.Staszczak, A.Baran， J. Dobaczewski, and W. Nazarewicz, Phys. Rev. C 80, 014309 (2009).   \n[22] A.Mamdouh,J.M. Pearson,M.Rayet，and F.Tondeur, Nucl. Phys. A 644, 389 (1998).   \n[23] M. Mirea and L. Tassan-Got, Cent.Eur. J. Phys.9,116 (2011).   \n[24] M. Girod and B.Grammaticos, Phys. Rev.C 27, 2317 (1983).   \n[25]V.Blum,J.Maruhn,P.-G.Reinhard,and W.Greiner, Phys. Lett. B 323, 262 (1994).   \n[26] V.V. Pashkevich,Nucl. Phys. A 133, 400 (1969).   \n[27] P. Moller and S. G. Nilsson, Phys.Lett.B 31, 283 (1970)   \n[28]K.Rutz,J.A.Maruhn,P.G.Reinhard,andW.Greiner, Nucl. Phys. A 590, 680 (1995).   \n[29] J.L.Egido and L. M. Robledo,Phys.Rev. Lett.85,1198 (2000).   \n[30] L.Bonneau, P.Quentin，and D.Samsoen,Eur.Phys.J. A 21,391 (2004).   \n[31] J. Skalski, Phys.Rev.C 43,140 (1991)   \n[32]P.Jachimowicz,M.Kowal,and J.Skalski, Phys.Rev.C 83, 054302 (2011).   \n[33] J. Skalski, Phys. Rev.C 76,044603 (2007).   \n[34]P.Ring and P.Schuck,The Nuclear Many-Body Problem (Springer,1980).   \n[35] B.D.Serot and J.D.Walecka,Adv.Nucl.Phys.16,1 (1986).   \n[36] P. Ring, Prog. Part. Nucl. Phys. 37,193 (1996).   \n[37] J. Meng, J. Peng, S. Q. Zhang， and S.-G. Zhou, Phys. Rev.C 73,037303 (2006).   \n[38]B.-N. Lu, E.-G. Zhao,and S.-G. Zhou, Phys. Rev.C 84, 014328 (2011),arXiv:1104.4638v1 [nucl-th].   \n[39] L.-S.Geng, J.Meng,and H. Toki, Chin.Phys.Lett.24, 1865 (2007).   \n[40] B.-N.Lu et al., in preparation.   \n[41] P.W. Zhao, Z. P. Li, J. M. Yao, and J. Meng, Phys. Rev. C 82, 054319 (2010).   \n[42] P.Ring,Y.K.Gambhir，and G.A.Lalazissis,Comput Phys. Commun. 105,77 (1997).   \n[43]M.Warda,J.L.Egido,L.M.Robledo，andK.Pomorski, Phys. Rev. C 66, 014310 (2002).   \n[44]M.Bender,K.Rutz,P.-G.Reinhard,and J.A.Maruhn, Eur. Phys. J. A 8, 59 (2000).   \n[45] R.Capote，M.Herman，P.Oblozinsky，P.Young, S.Goriely，T.Belgya，A.Ignatyuk,A.Koning，S.Hilaire，V.Plujko，M.Avrigeanu,O.Bersillon，M.Chadwick,T.Fukahori, Z.Ge,Y.Han,S.Kailas,J.Kopecky, V.Maslov，G.Reffo，M.Sin，E.Soukhovitskii，and P.Talou,Special Issue on Nuclear Reaction Data,Nucl. Data Sheets 110, 3107 (2009). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

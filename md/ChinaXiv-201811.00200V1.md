@@ -1,0 +1,436 @@
+# 智能仿生算法在移动机器人路径规划优化中的应用综述
+
+于振中，李强，樊启高(江南大学 物联网工程学院，江苏 无锡 214000)
+
+摘要：路径规划优化问题一直是移动机器人研究的重要课题之一。随着移动机器人应用领域的扩大和工作环境的复杂化，传统路径规划算法因其自身局限性变得难以满足人们的要求。近年来，智能仿生算法因其群集智慧和生物择优特性而被广泛应用于移动机器人路径规划优化中。首先，按照智能仿生算法仿生机制的来源，对应用于路径规划优化中的智能仿生算法进行了分类。然后，按照不同的类别，系统的叙述了各种新型智能仿生算法在路径规划优化中取得的最新研究成果，总结了路径规划优化过程中存在的问题以及解决方案，并对算法在路径规划优化中的性能进行了比较分析。最后对智能仿生算法在路径规划优化中的研究方向进行了探讨。
+
+关键词：智能仿生算法；仿生机制；移动机器人；路径规划优化；收敛速度；局部最优 中图分类号：TP18 doi:10.19734/j.issn.1001-3695.2018.07.0483
+
+# Survey on application of bioinspired intelligent algorithms in path planning optimization of mobile robots
+
+Yu Zhenzhong, Li Qiang, Fan Qigao (School ofInternetofThings Engineering,Jiangnan University,WuxiJiangsu 2140o0,China)
+
+Abstract:Path planning optimizationproblemhasalways beenoneoftheimportantissesofthe mobileroboticsresearch.With the expansionof the fieldsof mobilerobot applicationsandthecomplicationof its working environment,traditional path planingalgorithms become dificult to met people's requirements due totheirownlimitations.Inrecentyears,bioinspired intelligentalgorithms（BIAs）are widelyused in mobilerobotpath planingoptimizationbecauseofitscolletiveintellgence ofthegroupandthecharacteristicsofbiological preference.First,thispaperclasifies the bioinspired intellgent algorithms usedin the path planning optimization according to their sources of the biomimetic mechanism.Then,tooptimizethe latest research resultsandsummarize existing problems andsolutions,various new bioinspired inteligentalgorithmsused inthepath planing optimizationaredescribedsystematicallyacording todiferentcategories,andadetailedcomparisonandanalysisof thealgorithms performance inpath planningoptimization isalsoprovided.Finally,furtherresearchdirectionaboutit willbe discussed.
+
+Key Words:bioinspired intellgentalgorithms;biomimeticmechanism;mobile robot; path planning optimization;convergence speed; local optimal
+
+# 0 引言
+
+路径规划是移动机器人导航中最重要的技术之一。所谓路径规划，即表示根据某些性能指标（如最短距离，最短时间或最小能耗等）在给定有障碍物的环境中找出一条从起始点到目标点的最优无碰撞路径[1]。对于移动机器人而言，路径规划优化就是解决特定工作环境和任务要求下平台的路径优选问题，路径规划的科学性和合理性对于移动机器人工作效能具有十分重要的影响。目前常用的路径规划优化方法可以分为传统算法和智能算法两类。其中传统算法主要有人工势场法、模糊逻辑算法、可视图法、栅格法、自由空间法等。自20世纪70 年代路径规划问题被提出以来，这些传统算法在机器人路径规划领域发挥了重要的作用，取得了诸多研究成果。但是随着移动机器人应用领域的不断扩大，如在海洋科学，工业现场和军事作战等实际应用中，这些传统的路径规划优化方法在应对这些复杂环境时会存在一定的缺陷[2]。例如，人工势场法容易陷入局部极小点，存在目标不可达的问题[3]，可视图法效率很低且无法满足路径规划的实时性要求[4I，模糊控制算法在复杂多变环境中，很难建立模糊规则库，且对于动态障碍物缺乏智能的避障策略[5]。
+
+近年来，人工智能兴起，越来越多的智能算法被提出并应用于移动机器人路径规划优化中，以克服传统路径规划算法的局限性。这些智能算法的一个重要特点就是它们的运行机理与自然界中的生物群体行为或生态机制非常类似，而且这些智能算法的效率通常比传统的算法要高。为了将其与传统的优化算法区分开来，这些智能算法被定义为智能仿生算法。
+
+本文从应用角度出发，主要讨论近二十年提出的一些智能仿生算法在移动机器人路径规划优化中的最新研究进展。基于不同运行机理将智能仿生算法分为三类，对各种智能仿生算法原理进行简要介绍，重点讨论了智能仿生算法在路径规划优化应用中取得的最新研究成果、存在的问题和解决方案，并对智能仿生算法在路径规划优化应用中的发展方向进行了展望。
+
+# 1 智能仿生算法分类
+
+目前，智能仿生算法仍处于发展阶段，还没有标准的定义和统一的分类。Binitha等人[介绍了仿生优化算法的起源和优点，并指出智能仿生算法是一种受自然策略启发的启发式算法，这种定义过于简单且不具有代表性。Bongard[介绍了仿生计算的发展过程，分析了智能仿生算法与传统智能计算方法的关系。基于本文的专业知识和大量的文献综述[8-II]，定义智能仿生算法为：它是一种模仿生物群体智能行为或生物体结构和功能或生物、社会进化过程的且与自然界生物体性质或生态机制高度类似的智能计算方法。总的来讲，智能仿生算法包含了目前众多学者们研究的群智能算法，智能仿生算法的主要特点有：
+
+a）仿生特征,其工作机制与自然生物的性质或生态机制非常接近。b）简单性和涌现,算法计算简单且容易理解，但其效果非常惊人，反映了涌现性。c)鲁棒性,算法对环境，参数和任务的变化具有很强适用性和灵活性。d）自组织性，可以通过自学习或自组织的方式提高自适应能力。
+
+如上所述，智能仿生算法拥有众多满足研究人员需求的优良特性，为了清楚地介绍、理解这些算法，本文基于算法仿生机制来源将智能仿生算法分为三类：受生物群体行为的启发；受生物体结构或组织启发；受生物进化启发。
+
+本文对智能仿生算法的分类是单一的，每个算法都不会被分为不同的类别。分类图如图1所示，图中主要列出了目前应用于移动机器人路径规划中的一些智能仿生算法。基于不同的类别，重点讨论了近二十年提出的一些智能仿生算法在路径规划优化应用中的最新研究成果以及存在的问题和解决方案。
+
+# 2 受生物群体行为启发
+
+自古至今，人类一直从自然界寻求发明创造的灵感。学者们经过研究发现生物个体行为简单，但是通过个体之间的协作却能完成复杂的任务。基于生物群体一些重要行为的特点，学者们提出了一些智能仿生算法。在这些智能仿生算法中，大部分都是受生物群体的觅食行为启发，如蚁群算法、粒子群算法、人工鱼群算法、细菌觅食算法、混合蛙跳算法和人工蜂群算法等。还有一些受生物体其他群体行为启发，如细菌趋化算法是模仿细菌趋化行为，萤火虫算法是模仿萤火虫趋向于亮度高的地方运动的行为。这些智能仿生算法已被应用于各种实际优化问题中，所以使用这些智能仿生算法优化路径规划是一个不错的选择。下面主要讨论受生物群体行为启发所提出的一些智能仿生算法在移动机器人路径规划优化领域中的研究成果。
+
+![](images/42e88c6cd0658b07055f0c146ddfc7c15a0ca87da3582ade87dd03d4b412a2b4.jpg)  
+图1基于仿生机制的智能仿生算法分类  
+Fig.1Classification of bioinspired intelligent algorithms based on biomimetic mechanism
+
+# 2.1粒子群算法
+
+# 2.1.1粒子群算法简介
+
+粒子群算法（particle swarmoptimization，PSO）是由美国学者Kennedy 和 Eberhart[12,13]于1995 年提出的一种模拟鸟群飞行觅食行为的智能仿生优化算法。粒子群算法的主要原理是：利用大量随机解初始化问题空间，并且多个候选解同时共存并协同工作。每个解（称为"粒子"）都在问题空间中飞行（类似于鸟群的食物搜索过程)，寻找最佳位置。粒子根据自己的"经验"以及相邻粒子的经验调整其位置，从而不断更新自己，直至获得最优解。粒子群算法的数学描述如下：
+
+假设搜索空间的维数为 $D$ ，总粒子数为 $n$ 。第 $i$ 个粒子的位置表示为 $X _ { i } { = } ( x _ { i 1 } , x _ { i 2 } , \ldots , x _ { i D } )$ ；第 $i$ 个粒子迄今为止搜索到的最优位置为 $p b e s t _ { i } = ( p _ { i 1 } , p _ { i 2 } , \ldots , p _ { i D } )$ ；整个粒子群目前的最优位置表示为 $g b e s t = ( g _ { 1 } , g _ { 2 } , \dots , g _ { D } ) \ _ { \mathrm { ~ c ~ } }$ 第 $i$ 个粒子的位置变化率（速度）表示为 $V _ { _ i } \ = ( \nu _ { _ { i 1 } } , \nu _ { _ { i 2 } } , . . . \ , \nu _ { _ { i D } } )$ 。每个粒子根据以下公式更新其速度与位置：
+
+$$
+\begin{array} { r l } & { V _ { i d } ( t + 1 ) { = } w \nu _ { i d } ( t ) + c _ { 1 } r a n d ( ) . [ p _ { i d } ( t ) - x _ { i d } ( t ) ] } \\ & { + c _ { 2 } r a n d ( ) [ g _ { d } ( t ) - x _ { i d } ( t ) ] } \\ & { x _ { i d } ( t + 1 ) = x _ { i d } ( t ) + \nu _ { i d } ( t + 1 ) , ~ 1 { \leq } i \leq n ~ 1 \leq d \leq D ( } \end{array}
+$$
+
+其中： $c _ { 1 }$ 和 $c _ { 2 }$ 是正常数，称为加速系数，可以控制粒子的最大步长；rand(是[0,1]的随机数。 $w$ 是非负数，称为惯性因子,可以通过调整 $w$ 增强粒子局部搜索的能力。
+
+粒子群算法是一种全局并行寻优算法，具有收敛速度快、设置参数少、实现简单等特点，目前已成功应用于多目标优化问题[14]、求解旅行商问题[15]以及机器学习[16]等领域。
+
+# 2.1.2粒子群算法在路径规划优化中的应用
+
+秦元庆等人[17]将粒子群算法引入移动机器人路径规划优化中开创了很好地先例，在用Dijkstra算法求得链接图最短路径后，使用粒子群算法对路径进行优化，并通过仿真证明了粒子群算法对路径的优化作用。但是，粒子群算法自身还存在着一些缺陷，如易陷入局部最优解，后期收敛速度缓慢等问题。
+
+针对普通粒子群算法存在的缺点，Tang等人[18]提出了一种随机扰动自适应粒子群算法优化移动机器人路径规划的方法，通过在粒子群全局最优位置加一个微小扰动，帮助粒子跳出停滞状态，同时引进一种自适应机制微调粒子的三个控制参数，使得改进粒子群算法搜索能力能够动态平衡。并分析了改进算法的收敛性，为算法提供了一种保证收敛的参数选择原则。仿真结果表明，与其他算法相比，该算法具有更好的搜索精度和全局寻优能力。为了解决普通粒子群算法存在的缺点，Li等人[19]也提出了一种改进的粒子群算法来对移动机器人路径规划进行优化。首先将路径规划问题转换为多目标优化问题，并通过考虑路径长度，碰撞风险程度和平滑度三个目标来制定目标函数。然后，在算法中引入一种新的自适应学习机制，在优化过程的不同阶段自适应地选择最合适的搜索策略。此外，为了增强生成路径的可行性，还应用了一种边界违规处理方案来限制每个粒子的速度和位置。通过仿真与真实环境下机器人路径规划实验结果表明改进粒子群算法有效避免了早熟收敛，全局寻优效果更好。
+
+# 2.2人工鱼群算法
+
+# 2.2.1人工鱼群算法简介
+
+人工鱼群算法（artificial fish swamalgorithm，AFSA）是我国李晓磊[20]于 2002 年提出的一种模拟鱼群觅食活动的新型智能仿生算法。人工鱼群算法的主要原理是：通过模拟自然界中鱼群觅食、聚群、追尾等行为，采用自下而上的思路进行寻优，通过鱼群中个体局部寻优行为，在群体中突现全局最优值。人工鱼模型定义如下：
+
+人工鱼个体状态可表示为向量 $X = ( x _ { 1 } , x _ { 2 } , \cdots , x _ { n } )$ ，其中$x _ { i } ( i = 1 , 2 , 3 , \cdots , n )$ 为各优化变量。人工鱼当前位置的食物浓度可表示为 $Y = f ( X )$ ，其中 $Y$ 为目标函数值。人工鱼个体间距可以表示为 $D _ { i , j } = \big \| X _ { i } - X _ { j } \big \|$ 。Visual 表示人工鱼的视野范围，Step表示人工鱼的最大移动步长， $\boldsymbol { \delta }$ 表示拥挤因子。
+
+人工鱼群算法因其具有简单性、并行性、寻优速度快、全局寻优能力强等优点，被广泛应用于故障诊断[2I]、电力系统规划[22]以及聚类问题[23]等领域。
+
+# 2.2.2人工鱼群算法在路径规划优化中的应用
+
+普通的人工鱼群算法在应用过程中存在后期收敛速度缓慢，易陷入局部最优解，最优解精度下降等缺点。为了解决人工鱼群算法存在的缺陷，黄宜庆等人[24提出了一种改进的人工鱼群算法来实现移动机器人路径的寻优。该算法为了同时克服这些缺点，引入了三种策略混合机制，即视野范围的加权平均距离策略、步长的对数函数移动因子策略和个体的高斯变异策略，通过经典函数优化问题和TSP问题对算法进行测试，验证了改进人工鱼群算法具有收敛速度快、寻优精度高等优势，并将算法应用于移动机器人的路径规划，仿真结果说明了改进算法的有效性。为了解决普通人工鱼群算法存在的缺陷，张文辉[25]也提出了一种改进人工鱼群算法用于优化机器人路径规划。通过引入方向算子来加快后期收敛速度，同时引入一种免疫记忆特性来提高算法的全局寻优能力和增强陷入局部最优解的能力。仿真结果表明，改进的人工鱼群算法与快速遗传算法和普通人工鱼群算法相比，具有更高的寻优结果精度，更短的计算时间和更接近最优路径的可行解。
+
+人工鱼群算法在移动机器人路径规划优化上得到了进一步研究。Zhang等人[26提出了一种改进的人工鱼群算法(IAFSA)来处理真实环境中的移动机器人路径规划问题。在IAFSA中，引入了衰减函数来改善标准AFSA的视野范围，同时引入基于高斯分布的自适应算子来增强步长的自适应能力，并利用惯性权重因子来提高IAFSA的收敛速度和准确性。基于五种无约束优化测试函数对改进的人工鱼群算法进行评估，仿真结果表明IAFSA的收敛速度更快，局部搜索能力更强，最终结果更精确。最后，在基于ROS（机器人操作系统）的Pioneer3-DX移动机器人上进行实验，实验结果也表明了IAFSA的优越性。
+
+# 2.3细菌觅食算法
+
+# 2.3.1细菌觅食算法简介
+
+细菌觅食算法（bacterial foragingalgorithm，BFA）是美国学者Passino[27]于2002 年根据生物体大肠杆菌在人肠道中的觅食行为（如图2所示）提出的一种新型智能仿生算法。细菌觅食算法的主要原理是：该算法是根据细菌菌落生长演化的基本规律提出的一种新的优化方法。算法优化过程首先产生初始解群体，然后通过适应度函数对个体和群体的位置的优劣进行评估，并利用群体作用机制进行迭代优化，直到算法达到收敛条件停止。算法中每个细菌表示一个可行解，算法主要包括趋向性操作、复制操作和迁移操作这三种操作。
+
+细菌觅食算法具有实现简单、强鲁棒性的特点，在解决非线性、多维的全局性优化问题上具有一定优势。到目前为止，BFA已经成功应用于一些工程问题,如RFID网络规划问题[28],高维优化问题[29]和故障诊断问题[30]等。
+
+![](images/a47f7b5e22e4d3e5987289723433e32bd062a66feca5092fc90e09ca2dd9d7aa.jpg)  
+图2细菌觅食行为  
+Fig.2Bacterial foraging behavior
+
+2.3.2细菌觅食算法在路径规划优化中的应用
+
+Liu 等人[3提出了一种基于细菌觅食算法的移动机器人路径规划方法，其中细菌觅食算法用于寻找一条距离最短和转向次数最少的无碰撞路径。仿真结果表明，该方法能够在静态实验环境下产生无碰撞路径。但是普通细菌觅食算法存在寻优精度不高、收敛速度慢的缺陷。为了解决细菌觅食算法存在的缺陷，Liang等人[32]提出了一种基于自适应细菌觅食算法（SABFO)的移动机器人路径规划方法，SABFO整合了自适应搜索策略，使得觅食算法运行时自适应调整其前进步长，平衡了机器人的探索和开发能力。仿真结果表明，改进细菌觅食算法进行路径寻优时具有良好的精度和稳定性。
+
+近年来，细菌觅食算法在路径规划优化应用上得到了进一步研究。为了优化动态环境中移动机器人路径实时规划问题，梁晓丹等人[33]提出了一种基于细菌觅食行为的移动机器人动态路径规划方法。通过嵌入自适应搜索和局部区域搜索策略来改善细菌觅食算法动态优化能力。为验证算法的实际应用效果，将算法应用于足球机器人环境中，实验表明所提出的改进细菌觅食算法能驱动机器人准确而快速地到达目的地，适合求解此类动态寻径问题。Hossain 等人[34]也提出了一种改进的细菌觅食算法用于动态和未知环境下移动机器人路径规划优化问题。该算法受细菌觅食算法启发，基于虚拟随机分布在机器人周围的粒子通过从机器人的传感器获得帮助来搜索朝向目标位置的最佳路径，同时避开移动的障碍物。仿真实验表明改进细菌觅食算法较基本觅食算法搜索时间更短，效率更高。
+
+# 2.4混合蛙跳算法
+
+# 2.4.1混合蛙跳算法简介
+
+混合蛙跳算法（shuffled frog leaping algorithm，SFLA）是由美国学者 Eusuf 和Lansey[35]于 2003 年为解决组合优化问题提出的。混合蛙跳算法的主要原理是：在SFLA中，种群由许多青蛙（解）组成，整个种群被分为多个称之为模因的子群，不同的模因被看做是不同的青蛙群组，每个模因执行一个局部搜索。在模因中每只青蛙都有自己的想法，也受到其他青蛙的想法影响，并随着模因的进化而进化。当模因进化达到指定的代数后，各个模因中的信息通过一个混合运算进行传递。局部搜索和混合过程交替进行直到收敛标准得到满足。混合蛙跳算法的基本数学模型如下：
+
+a）种群初始化。随机初始化 $P$ 个可行解，对于 $s$ 维问题，第;只青蛙可以表示为X;=(x,xi2,xis）。
+
+b）划分子群。计算各个青蛙的适应度值，并将种群内蛙的个体按适应值降序排列。把 $P$ 只青蛙分为 $\mathbf { \Omega } _ { m }$ 个模因，每个模因内包含 $n$ 只青蛙（ $P = m \times n ^ { \mathbf { \alpha } }$ 。其中，第1只青蛙分入第1个模因，第2只青蛙分入第2个模因，第 $\mathbf { \Sigma } _ { m }$ 只青蛙分入第 $\mathbf { \Sigma } _ { m }$ 个模因。之后，第 $m + 1$ 只蛙又分入第一个模因，以此类推，直到所有青蛙被分配完毕。子群划分结果如图3所示。
+
+c）更新。这个过程更新适应度最差的青蛙（定义为 $X _ { _ w }$ ）的位置，更新公式如下：
+
+$$
+D _ { i } = r a n d ( ) \cdot ( X _ { b } - X _ { w } )
+$$
+
+$$
+X _ { w } ^ { n e w } = X _ { w } ^ { c u r r e n t } + D _ { i } ( - D _ { \operatorname* { m a x } } \leq D \leq D _ { \operatorname* { m a x } } )
+$$
+
+式（3）用来计算更新的步长 $D _ { i }$ ，其中 $X _ { b }$ 是每个模因中适应度最优的青蛙，rand()是[0,1]的随机数；式（4） $X _ { _ w }$ 执行更新，改变青蛙的位置， $D _ { \mathrm { m a x } }$ 是最大步长。如果 $X _ { \scriptscriptstyle { w } } ^ { \scriptscriptstyle { n e w } }$ 的适应度值优于 $X _ { \scriptscriptstyle w }$ 的适应度值，则用 $X _ { w } ^ { n e w }$ 取代 $X _ { \scriptscriptstyle w }$ ；否则用整个种群中具有最好适应度的青蛙（定义为 $X _ { g }$ ）代替 $X _ { _ w }$ ，重复执行式（3）。如果仍没有改进，则在定义域内随机产生一个新蛙取代原来的$X _ { \scriptscriptstyle w }$ 。每个子群重复执行上述局部搜索，直至指定的局部搜索次数达到为止。
+
+![](images/3e57c6d4ee9e1603a69152acfbfac02f7ba8a240144067ea393dfd7c2de768f4.jpg)  
+图3子群划分过程  
+Fig.3Division subblock process
+
+d)混合。此过程是在局部搜索完成后，种群中的所有青蛙重新混合，然后重复进行上述引入的划分子群和更新操作，直到达到收敛条件。
+
+作为一种新型仿生智能优化算法，SFLA 结合了基于模因进化的模因演算算法（memetic algorithm，MA）和PSO算法的优点，因此其搜索寻优能力强，具有概念简单、参数少、易于实现等优点，已经被成功用于处理工程上各种优化问题，如光伏模型识别[36]、网关负载平衡[37]和滤波器设计[38]等。
+
+# 2.4.2混合蛙跳算法在路径规划优化中的应用
+
+Hassanzadeh等人[39]于2010 年提出了一种局部未知环境下基于SFLA的移动机器人路径规划方法，仿真结果表明了这种算法的有效性和鲁棒性，机器人平稳地向目标移动。但是传统的 SFLA收敛速度较慢，易陷入局部最优解且求解精度较低。这在一定程度上限制了其在路径规划领域的应用。
+
+为了解决普通混合蛙跳算法存在的缺陷，潘桂彬等[40]提出了一种改进混合蛙跳算法优化移动机器人路径规划。改进的混合蛙跳算法引入了交叉操作，并对原有的更新策略进行改进，还提出了一种带可调控制参数的产生新个体的方法代替原本的随机更新操作。仿真结果表明改进的混合蛙跳算法局部搜索能力增加，收敛速度加快。Ni等[41]也提出了一种基于改进混合蛙跳算法的路径规划方法。使用基于中值策略的新颖更新机制，即适应度最差的青蛙由模因中心青蛙更新，假设每个模因中心可表示为 $X _ { c } { = } ( x _ { c 1 } { , } x _ { c 2 } { , } { . . . , } x _ { c d } )$ ；而 $X _ { c }$ 又由式（5）计算。
+
+$$
+X _ { c j } { = } \sum _ { i = 1 } ^ { n } x _ { i j } \mathrm { ~ } / n , ( j = 1 , 2 , . . . , d )
+$$
+
+因此，在每一个模因中，表现最差的青蛙根据式6的规则更新：
+
+$$
+D = r a n d ( ) \cdot ( X _ { c } - X _ { w } )
+$$
+
+基于所提的中值策略，适应度最差的青蛙利用附近所有青蛙的经验，不仅仅是附近最佳的青蛙，这样可以避免SFLA 陷入局部最优。
+
+# 2.5人工蜂群算法
+
+# 2.5.1人工蜂群算法简介
+
+人工蜂群算法（artificialbee colony algorithm，ABC）是土耳其学者 Karaboga[42]于 2005 年提出来的一种智能仿生算法。人工蜂群算法的主要原理是：从蜂群中个体的行为出发，模仿自然界中蜂群觅食过程来寻找问题的最优解。该算法包含雇佣蜂，观察蜂和侦察蜂三种角色的蜜蜂，算法采用随机初始化操作生成多个蜜源，蜜源代表解空间范围内各种可能的解。然后，雇佣蜂对蜜源进行循环搜索，雇佣蜂首先对相应的解进行一次邻域搜索，若搜索到解的适应度优于原来解的适应度，将原始解替换为新解，雇佣蜂完成搜索之后，再将信息以摇摆舞的形式传递给蜂巢里的观察蜂，观察蜂获取信息后采用轮盘赌算子选择一个蜜源飞去采蜜。观察蜂选中蜜源后，采用雇佣蜂相似邻域搜索方式，并保留较好的解，不断重复搜索找到最优解。
+
+人工蜂群算法作为一种模拟自然界蜜蜂觅食的仿生优化算法，主要优势在于控制参数少，计算简单，易于实现等特点，被广泛应用于许多实际问题中，例如连续空间优化问题[43]、数字滤波器设计问题[44]以及车间调度问题[45]等。
+
+# 2.5.2人工蜂群算法在路径规划优化中的应用
+
+针对普通人工蜂群算法存在收敛速度慢，求解精度不高，容易陷入局部最优的缺陷。刘东林等人[46提出了一种基于花香浓度的人工蜂群算法(FABC)，加入步长和视野范围两个因素提高求解精度，并在侦查蜂阶段加入花香浓度机制避免陷入局部最优和提高收敛速度，选用4个经典函数对改进人工蜂群算法进行测试证明了FABC算法收敛速度快、求解精度高、能避免局部最优。通过仿真实验证明了改进人工蜂群算法在路径规划优化中的有效性。王海泉等[47也提出了一种改进的人工蜂群算法用于移动机器人路径规划优化中。改进算法在雇佣蜂的搜索阶段中引入个体当前最优值及随机向量，并选择新的选择概率函数，然后利用Bezier曲线描述路径，把路径优化问题转换为生成Bezier曲线点的位置优化问题。实验结果表明改进人工蜂群算法，能够有效地避免陷入局部最优，找到安全的最短路径。
+
+人工蜂群算法也被应用于多机器人系统的在线无碰撞路径规划优化中。Liang等人[48]提出了一种高效人工蜂群算法用于优化多机器人路径规划的性能，利用精英个体来保持良好的进化，提高了搜索性能，解共享为搜索提供了合适的方向，即时更新策略为解提供了最新的信息，基于多机器人路径规划仿真实验表明改进人工蜂群算法是可行的。Faridi 等人[49]也提出了一种改进人工蜂群算法的多机器人多目标动态路径规划方法。该方法首先对人工蜂群算法进行改进并将其用于邻域搜索路径规划器，通过在目标函数中加入适当的参数解决了人工蜂群算法容易陷入局部最优及动态避障的问题，然后利用进化算法平滑所得到的中间可行路径。仿真实验表明，利用改进人工蜂群算法优化的路径耗时少，距离更短且更平滑。
+
+# 2.6 萤火虫算法
+
+# 2.6.1萤火虫算法简介
+
+萤火虫算法（firely algorithm，FA）是剑桥学者YangXinshe[50]于 2009 年提出的一种智能仿生优化算法。萤火虫算法的主要原理是：模拟萤火虫运动过程中，亮度高的萤火虫会吸引亮度低的萤火虫向其移动，在移动过程中完成位置的迭代，从而找出最优位置，完成寻优过程。萤火虫算法的数学模型主要由以下公式表示：
+
+萤火虫间相对亮度公式为
+
+$$
+I _ { i j } ( r _ { i j } ) = I _ { i } \mathrm { e } ^ { - \gamma r _ { i j } ^ { 2 } }
+$$
+
+其中： $I _ { { \scriptscriptstyle i j } }$ 表示第 $i$ 只萤火虫与第 $j$ 只萤火虫之间的相对亮度；$I _ { i }$ 为萤火虫的最大荧光亮度，即自身（ $r = 0$ 处）亮度； $\gamma$ 为光吸收系数,一般设为常数； $r _ { i j }$ 为萤火虫 $i$ 与 $j$ 之间的空间距离。
+
+萤火虫的吸引度为
+
+$$
+\beta _ { i j } ( r _ { i j } ) = \beta _ { 0 } { \bf e } ^ { - \gamma r _ { i j } ^ { ~ 2 } }
+$$
+
+其中： $\beta _ { 0 }$ 为最大吸引度，即光源处（ $r = 0$ 处)萤火虫的吸引度；  
+2、 $r _ { i j }$ 表示的意义同上。
+
+萤火虫 $i$ 被吸引向萤火虫 $j$ 移动的位置更新方式由式（9)决定。
+
+$$
+\stackrel {  } { x _ { i } } ( t + 1 ) = \stackrel {  } { x _ { i } } ( t ) + \beta _ { i j } ( r _ { i j } ) \stackrel {  } { ( x _ { i } } ( t ) - \stackrel {  } { x _ { j } } ( t ) ) + \stackrel {  } { \alpha } \varepsilon _ { i }
+$$
+
+其中： $\mathbf { \Phi } _ { t }$ 为迭代次数， $\vec { } _ { x _ { i } } ^ { \phantom { } } \cdot \vec { } _ { x _ { j } } ^ { \phantom { } }$ 为萤火虫的空间位置； $\alpha$ 为步长因子，是[0,1]上的常数； $\vec { \varepsilon _ { i } }$ 是由高斯分布、均匀分布或者其他分布得到的随机向量。
+
+萤火虫算法具有计算简单、寻优速度快，并且易于实现等特点。目前已成功应用于图像检索问题[511、太阳辐射预测问题[52]以及高光谱降维[53]等领域。
+
+# 2.6.2萤火虫算法在路径规划优化中的应用
+
+目前萤火虫算法在路径规划优化上的应用还处于初步阶段，因此还存在一些问题，且值得学者们进一步探索。徐晓光等人[54]提出了一种改进的萤火虫算法来保证移动机器人路径规划解的多样性，将萤火虫算法的目标函数设置为移动步数，并对亮度公式、初始化方式和萤火虫移动方向重新设计。此外，在萤火虫算法的基础上引入小生境技术，并在小生境种群间加入共享信息。仿真实验表明，改进的萤火虫算法一次运行可得到多个最优路径。
+
+针对标准萤火虫算法存在收敛速度慢和局部搜索能力弱的缺陷，Chen 等人[55]提出了一种基于改进萤火虫算法的全局路径规划算法。改进萤火虫算法利用高斯随机步长来代替标准萤火虫算法的固定步长，并在迭代过程中采用双重检查法增加每个萤火虫运动的成功率。仿真结果表明，与粒子群算法和标准萤火虫算法相比，该算法在收敛速度和精度方面均优于两种算法。
+
+针对普通萤火虫算法存在收敛速度慢的缺陷，Liu 等人[56]提出了一种改进的萤火虫算法用于优化水下移动机器人三维路径规划。在改进的萤火虫算法中，可根据运算过程调整算法参数和随机运动步长，同时引入了自主飞行策略，并在算法中增加了排除算子收缩算子。仿真实验证明了改进萤火虫算法收敛速度变快，规划的路径更为平滑。
+
+# 3 受生物体结构或组织启发
+
+生命很奇妙，构成生物体生命的组织结构也能给予人类一些启示。例如，受到DNA双螺旋结构和互补碱基配对规则的启发，Adleman[57]提出了DNA计算算法。受到老鼠大脑神经生理结构启发，Barrerad 等[58]提出了一种具有空间认知和导航能力的仿生机器人结构。受人类免疫系统的免疫机制启发，Dasgupta[59]提出了一种人工免疫算法来处理实际问题。下面主要讨论人工神经网络算法和人工免疫算法在路径规划优化应用中的研究成果。
+
+# 3.1人工神经网络算法
+
+# 3.1.1人工神经网络算法简介
+
+人工神经网络算法（artificialneuralnetwork，ANN）最早的研究一直可以追溯到1943年由美国的心理学家McCulloch和另外一位数学家Pitts在论文“神经活动中所蕴含思想的逻辑活动”中首次提出的M-P模型[60]。人工神经网络算法的主要原理是：人工神经网络模拟人脑的生物神经系统，由大量具有非线性映射能力的神经元组成，神经元之间通过权系数相连接，可以进行大规模的信息处理。神经网络以自身结构、训练算法和激活函数为特征，由输入层、隐含层和输出层组成。
+
+人工神经网络算法具有灵活的自学习、自组织、自适应等特点，因而较为广泛地应用于太阳能发电预测[61]、参数估计[62]以及比特币技术交易[63]等领域中。
+
+# 3.1.2人工神经网络算法在路径规划优化中的应用
+
+近年来，随着人工智能技术的广泛应用，科学家一直致力于将机器学习技术运用到机器人中，或者说是依靠智能机器人技术来推动机器学习的发展。事实上，这两者密不可分，因此，人工神经网络在移动机器人路径规划中也有了大量的研究成果。如Singh等人[64提出了一种使用人工神经网络控制器优化移动机器人路径的方法，使机器人能够在真实的动态环境中导航。所提出的神经控制器的输入包括左、右、前侧障碍距离相对于机器人的位置和目标点角度，输出是转向角。并且为了解决移动机器人的路径优化和时间优化问题，设计了四层神经网络，采用反向传播算法对网络进行训练。仿真结果与实验结果表明移动机器人能够避开其路径上的任何静态障碍物，并且在动态环境中，所提出的人工神经控制器也可以有效地应用。吕战永等[65]也提出了一种新型神经网络机器人路径规划的方法。利用神经网络表示机器人的工作空间，在网格结构中各神经元之间只存在局部的侧连接，具有全局最大的正活性值的目标点位置的神经元使得机器人被目标点全局吸引，同时障碍物处于活性值最低点，避免了机器人的碰撞。仿真实验证明该算法能很好地适应动态环境，搜索到一条连续、平滑最优的路径。
+
+# 3.2人工免疫算法
+
+# 3.2.1人工免疫算法简介
+
+人工免疫算法（artificialimmune algorithm，AIA）是模拟生物免疫系统处理机制的一种智能仿生算法。人工免疫算法的主要原理是：将优化目标函数看做抗原，解看做抗体，并根据抗体的适应度和浓度自适应的调节搜索方向，从而找到最优解。
+
+人工免疫算法因其固有的多样性，动态适应性，分布式检测性和自组织性，其应用范围已逐步扩大到配电网络重构[66]、车间调度问题[67]以及故障诊断[68]等领域。
+
+# 3.2.2人工免疫算法在路径规划优化中的应用
+
+针对人工免疫算法在复杂未知环境中存在早熟收敛的缺陷，王孙安等人[提出了一种改进的免疫网络算法。将机器人动作和机器人周围环境分别看做抗体和抗原，通过抗原和抗体之间的刺激和抑制构造人工免疫网络，并在网络中搜索最优路径。为了进一步提高算法的收敛性，以人工势场方法的规划结果作为先验知识构建导向权，并构建了新的抗体转移概率算子。实验结果表明，与基本免疫网络算法和蚁群算法相比，该算法的收敛速度更快，规划路径更短。Deng等人[70提出了一种基于多克隆的人工免疫网络算法。该算法通过克隆算子，克隆交叉算子，克隆变异算子和克隆选择算子增加趋向于相同极值的抗体的多样性，并选择最高浓度的抗体。同时有效解决了人工免疫算法网络参数结构中由人工势场方法引起的局部极小的问题。免疫多克隆路径规划系统的图形表示如图4所示，实验结果表明了该机器人路径规划架构的灵活性以及有效性。
+
+![](images/64cca9ceb5f9e8ebadea39eca387d3a9ca9b8dd89cd82abcf175284802e2d98f.jpg)  
+图4免疫多克隆路径规划系统  
+Fig.4Immune polyclonal path planning system
+
+人工免疫算法在移动机器人路径规划优化上得到了进一步研究，为解决复杂环境下多机器人的实时路径规划问题，Yuan等人[71提出了一种改进的免疫算法。首先根据障碍物分布对多机器人的避障行为的影响来定义抗体的新编码格式。然后，针对障碍物和目标对机器人行为的不同影响，设计了一种用于抗体选择的新型机器人免疫动力学模型。最后，针对复杂环境中的局部极小值问题，并在特定免疫机制的启发下，通过计算特定的免疫机制，选择一系列合适的规避行为，帮助机器人逃离局部最小值。此外，为了解决机器人锁死现象，还提出了抗体浓度的学习策略。在具有局部最小值的动态环境中的仿真结果表明，结合特定免疫机制的免疫规划算法在动态避障和逃避局部极小值方面具有强大的规划能力。此外，在多机器人环境中的实验表明，机器人不仅可以避开静态障碍物，还可以避免动态障碍物，进一步支持了所提出的改进免疫规划算法的有效性。
+
+# 4 受生物进化启发
+
+在生物学中，进化是指种群里的遗传性状在世代之间的变化。自然选择使得有利于生存和繁殖的遗传特性变得更加普遍，而有害特性变得越来越少。受到这些复杂的生命进化过程的启发，学者们提出了一些进化算法，如遗传算法，差分计划算法、入侵杂草算法和生物地理学优化算法等。下面主要介绍入侵杂草算法和生物地理学优化算法在路径规划优化中的研究成果。
+
+# 4.1入侵杂草算法
+
+# 4.1.1入侵杂草算法简介
+
+入侵杂草算法（invasive weedoptimization，IWO）是Mehrabian 等人[72]于 2006 年提出的一种新型智能仿生优化算法，入侵杂草算法的原理是：在自然条件下，杂草会扩散侵入那些没有被耕作的区域，然后快速繁殖并占领该区域，通过模仿自然界中杂草生长繁殖规律，将待求的问题转换为优化问题，进而得到全局最优解。
+
+入侵杂草算法是一种模拟自然界杂草殖民过程的随机搜索算法，具有鲁棒性强、容易理解和易于实现等特点，目前已被成功应用于参数反演问题[73]、天线设计[74]以及机器人PID 控制器优化[75]等领域中。
+
+# 4.1.2入侵杂草算法在路径规划优化中的应用
+
+由于入侵杂草算法提出的时间相对较晚，目前国内外关于入侵杂草算法在移动机器人路径规划优化上应用的文献较少。针对传统入侵杂草算法存在路径规划质量差、效率低的缺陷，周燕萍等人[76]提出了一种改进入侵杂草算法优化移动机器人路径规划的方法。改进的入侵杂草算法是在传统的入侵杂草算法后期添加NURBS算法来进行拟合优化，从而实现路径的平滑并增强路径的可靠性。仿真结果表明与传统的入侵杂草算法相比，改进的入侵杂草算法有效的改善了路径规划质量和效率。Prases 等人[7也提出了一种新的基于入侵杂草算法的移动机器人最优路径规划方法，首先构建了一个满足部分或完全未知环境中机器人避障和目标寻找行为条件的目标函数，然后移动机器人根据集群中每种杂草的目标函数值来避开障碍物并向目标点，并利用入侵杂草算法生成最佳轨迹。通过一系列仿真实验结果证明了入侵杂草算法的有效性，可行性和鲁棒性。并在Khepra-III移动机器人上进行了实验，实验结果表明所开发的路径规划算法可以有效地应用于复杂情况下的路径规划。
+
+入侵杂草算法在路径规划上得到了国外学者的进一步研究。Panda 等[78]提出了一种改进的IWO算法来优化多机器人的路径规划，改进算法通过将IWO算法结合反向学习（OBL）初始化种群，并使用繁殖跳跃加快IWO的收敛速度。实验表明改进入侵杂草算法在路径质量和效率上都有所提升。
+
+# 4.2生物地理学算法
+
+# 4.2.1生物地理学算法简介
+
+生物地理学算法（biogeography-based optimization algorithm,BBO）是美国学者 Simon 于2008 年提出的[79]。BBO 算法的主要原理是：根据物种迁移的基本原理，通过栖息地之间的物种交换来提高栖息地的物种多样性，改善栖息地的栖息地适宜性指数(HSI)，并获得HSI最佳栖息地个体。
+
+生物地理学算法基于生物地理学中的物种迁移原理，并结合了其他群智能优化算法的框架结构，具有全局搜索能力强的优点。自该算法被提出以来，受到了国内外学者的广泛关注，目前已被成功应用于参数优化问题[80]、过电流继电器最佳协调问题[81]和车间调度问题[82]等实际领域。
+
+# 4.2.2生物地理学算法在路径规划优化中的应用
+
+目前，国内外关于BBO算法应用于路径规划优化上的相关文献还较少，且BBO 算法作为一种新型仿生智能优化算法还存在一些缺陷，如算法初始种群多样性差，易早熟陷入局部最优等。针对BBO算法存在的问题，哈尔滨工程大学莫宏伟教授近年来提出了一些 BBO 算法优化路径规划的策略[83-85]。如文献[83]中，他提出了一种改进的BBO算法优化移动机器人路径规划问题。主要思想是应用PSO的位置更新策略来增加BBO中种群的多样性，然后利用获得的生物地理学粒子群优化算法来优化近似Voronoi边界网络模型得到的路径。实验结果表明，与原始BBO 算法相比，改进算法具有更快的收敛速度和更高的成功率。文献[84]中，他从精英策略、降维机制和基于惯性算子的迁徙操作三方面改进了生物地理学优化算法，仿真实验表明改进的生物地理学优化算法对于机器人路径规划是有效的。
+
+Yang等人[86]也提出了一种改进的BBO算法优化移动机器人的全局路径规划问题。该算法选择导航点模型作为移动机器人的工作区域模型，将非线性迁移算子和具有精英保留策略的变异算子引入到BBO 算法中，以提高其性能。仿真表明改进BBO 相较于基本的BBO算法具有更快的收敛速度和更短的路径。
+
+# 5 其他智能仿生算法在路径规划优化中的应用
+
+除了上文单独介绍的10种智能仿生算法外，还有很多智能仿生算法被提出并应用于路径规划优化中，如遗传算法、蚁群算法、差分进化算法和布谷鸟搜索算法等。
+
+遗传算法（genetic algorithms，GA）是Holland 教授[87]在20 世纪70年代初期提出来的，是基于“适者生存"的一种高度并行、随机、自组织和自适应的仿生优化算法。遗传算法的主要原理是：以生物进化论和遗传变异论为基础，通过模仿自然界生物进化机制达到全局搜索和寻优的目的。为了克服基本遗传算法在求解移动机器人路径规划问题中存在的收敛速度慢、易陷入局部最优等缺陷，王雷等[88提出了一种改进的自适应遗传算法。在算法中设计了自适应交叉和变异概率，并采用混合选择方式。仿真实验证明了改进遗传算法在移动机器人路径规
+
+划中的可行性和有效性。
+
+蚁群算法（antcolonyoptimization，ACO）是由意大利学者Dorigo等人[89提出来的一种基于蚂蚁觅食行为的智能仿生算法。蚁群算法的基本原理是：当蚂蚁觅食时，会在经过的路径上留下信息素进行信息传递，而且蚂蚁可以感知到信息素的强度并趋向于信息素浓度高的路径移动，从而寻到最优路径。蚁群算法具有较强的鲁棒性，并且在并行运行环境下可以同步寻优，但是依然存在收敛速度慢，效率低和容易陷入局部最优等缺陷。针对蚁群算法存在的问题，Zeng等人[90]提出了一种自由步长蚁群算法优化路径规划，仿真结果表明与传统蚁群算法相比，自由步长蚁群算法能够寻得更短路径，具有更好的收敛性。卜新苹等[9提出了一种基于非均匀环境建模的改进蚁群算法用于优化机器人路径规划。实验结果表明，该算法比基本蚁群算法具有更快的收敛速度。
+
+差分进化算法（differentialevolution，DE）是由Rainer和Kenneth[92]于1995年提出的。差分进化算法的主要原理是：算法是以遗传算法为基础的一种并行直接搜搜算法，基于自然界的进化理论，模仿个体的进化过程来寻找最优解。差分进化算法具有原理简单，受控参数少，易于理解和实现的优点，目前已经成功应用于多种领域，但是在移动机器人路径规划方面应用较少。雷小宇等[9]将差分进化算法应用于多机器人的路径规划优化中，通过调整进化的参数值加快了多机器人路径规划的速度，有效地克服了遗传算法速度慢、环境适应性差的缺点，并通过仿真结果证明了差分进化算法在路径规划中的可行性与有效性。
+
+布谷鸟搜索算法（cuckoo search，CS）是由Deb 等人[94]提出的一种基于布谷鸟寻窝孵蛋的繁殖习性以及Levy飞行特性的新型智能仿生优化算法。布谷鸟算法具有收敛速度快，设置参数少等优点，已成功应用于许多实际问题[95,96]。Mohanty 等人[97]使用布谷鸟搜索算法优化未知或部分已知环境中的移动机器人路径规划，仿真证明了布谷鸟搜索算法能在杂乱的环境中产生一条从起点到目标点的无碰撞路径，并进行实验验证了所提出的路径规划算法的真实性。
+
+# 6 智能仿生算法在路径规划优化应用中的优化性能对比
+
+每种智能仿生算法在优化路径规划时都存在自身的不足，经过上文的综述，总结的结果见表1所示。
+
+由表1分析可以发现，智能仿生算法在路径规划优化中的应用存在较大的问题是路径寻优过程易陷入局部最优，如蚁群算法、人工鱼群算法、布谷鸟搜索算法、遗传算法以及差分进化算法等。收敛速度慢也是智能仿生算法在路径优化应用中的一个问题，如粒子群算法、混合蛙跳算法、萤火虫算法、人工神经网络算法以及生物地理学算法等。同时还存在寻优精度不高的问题，如人工蜂群算法、细菌觅食算法、入侵杂草算法等。人工免疫算法主要缺陷是算法的参数较多，对于复杂优化问题
+
+的计算成本过高。
+
+表1各智能仿生算法优化路径规划存在的优缺点比较 Table 1Comparison of advantages and disadvantages of bioninspired intelligent algorithmsin path planning optimization   
+
+<html><body><table><tr><td>类别</td><td>智能仿生算法</td><td>优点</td><td>缺点</td></tr><tr><td rowspan="10">受生物群体</td><td>蚁群算法</td><td>具有较强的鲁棒性； 较强的全局寻优能力</td><td>收敛速度慢；收敛精度低； 易陷入局部最优</td></tr><tr><td></td><td>早期收敛速度快；</td><td>后期收敛速度慢；</td></tr><tr><td>粒子群算法</td><td>设置参数少；实现简单</td><td>易陷入局部最优</td></tr><tr><td></td><td>收敛速度快；</td><td>后期收敛速度慢；</td></tr><tr><td>人工鱼群算法</td><td>较好的全局搜索能力；</td><td>易陷入局部最优；</td></tr><tr><td></td><td>对搜索空间有一定自适应能力</td><td>最优解精度下降</td></tr><tr><td>细菌觅食算法</td><td>参数非敏感性； 实现简单；强鲁棒性</td><td>收敛速度慢；寻优精度不高</td></tr><tr><td rowspan="3">混合蛙跳算法</td><td></td><td>在较大寻优空间易</td></tr><tr><td>概念简单；参数少； 易于实现</td><td>陷入局部最优；</td></tr><tr><td></td><td>前期收敛速度较慢</td></tr><tr><td></td><td>人工蜂群算法</td><td>参数少；计算简单；</td><td>收敛速度慢；求解精度不高；</td></tr><tr><td></td><td></td><td>易于实现</td><td>易陷入局部最优</td></tr><tr><td></td><td>萤火虫算法</td><td>寻优速度快； 全局搜索能力较强</td><td>早期收敛速度慢； 局部搜索能力弱</td></tr><tr><td></td><td>布谷鸟搜索算法</td><td></td><td>收敛速度慢；</td></tr><tr><td></td><td></td><td>收敛速度快；设置参数少</td><td>易陷入局部最优</td></tr><tr><td>组织启发</td><td>生物体结构或人工神经网络算法</td><td>较强的非线性映射能力；</td><td>训练时间长；易陷入局部极小值；</td></tr><tr><td></td><td>人工免疫算法</td><td>自学习与自适应能力</td><td>收敛速度慢</td></tr><tr><td></td><td>遗传算法</td><td>局部搜索能力较强 具有全局寻优能力；</td><td>参数较多；计算成本过高</td></tr><tr><td></td><td></td><td>内在并行性</td><td>收敛速度慢；易陷入局部最优</td></tr><tr><td>受生物进化 启发</td><td>差分进化算法</td><td>受控参数少， 易于理解和实现</td><td>后期寻优效率低； 易陷入局部最优</td></tr><tr><td></td><td></td><td>易于理解；良好的自适应性；</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>生物地理学优化算法</td><td>全局搜索能力强</td><td>收敛速度慢；易陷入局部最优</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>强鲁棒性</td><td></td></tr><tr><td></td><td>入侵杂草算法</td><td></td><td>易陷入局部最优；收敛精度低</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></table></body></html>
+
+每种智能仿生算法都有自身的优缺点，如粒子群算法具备参数少、实现简单优点的同时也存在易陷入局部最优的缺点；人工免疫算法具备较强的局部搜索能力优点的同时存在算法计算成本过高的缺点。人工鱼群算法具备前期寻优速度快优点的同时存在后期易陷入局部最优的缺点；混合蛙跳算法具备较强的局部搜索能力优点的同时存在前期收敛速度慢的缺点。所以，为了弥补单一算法的不足之处，将两种智能仿生算法结合起来应用是一个不错的选择。
+
+总的来说，大部分学者还是对单一的智能仿生算法进行改进用于移动机器人路径规划优化，虽然取得了一定的研究成果，但是还是存在一定问题，如解决了算法的收敛速度慢的缺陷但是寻优精度又得不到保证。就目前而言，在智能仿生算法优化移动机器人路径规划成果中，使用人工鱼群算法、差分进化算法、入侵杂草算法和布谷鸟搜索算法来优化路径的成果较少。
+
+# 7 结束语
+
+本文主要对智能仿生算法在移动机器人路径规划优化应用中的研究成果进行了论述。随着移动机器人的广泛应用，智能仿生算法在路径规划优化领域中的应用越来越广泛，一方面是由于传统的一些路径优化算法遇到了该领域的瓶颈，如复杂的计算量，很难适应环境和机器人自身约束条件的动态变化以及严重依赖于精密传感器等；另一方面则是源于智能仿生算法固有的一些优良特性，如分布性、自组织性、强鲁棒性等优点。根据国内外研究现状以及作者所在课题组的研究体会，未来较长一段时期，智能仿生算法在路径规划优化领域的应用将会集中在以下几个方面：
+
+# 1）新的智能仿生算法的应用
+
+所谓新的智能仿生算法包含两层含义，一是目前已经提出来的一些有着鲜明特色和优点的智能仿生算法，它们在其他工程领域的应用中表现出了良好的寻优特性，但是在移动机器人路径规划应用领域中还未得到足够的关注与重视，如我国学者潘文超[98]于 2012 年提出的果蝇优化算法，具有操作简单、易于实现和较强的局部搜索能力，在求解许多实际问题得到了成功应用，但目前在机器人路径规划领域应用的成果极少。其二则是开发未被提出的智能仿生算法，新的算法可以是结合了最新的科技(如新的人工智能方法、新的数理方法等)或者是模仿某种自然机理或者社会发展规律而提出来的。可以预言，基于新的智能仿生算法的路径规划优化应用必将是未来移动机器人路径规划的一个重要方向。
+
+# 2）混合智能仿生算法的应用
+
+根据 NFL 定理[99]（no free lunch)，单一的智能仿生优化算法都有其自身的优缺点，算法之间存在互补性，不存在占绝对优势的算法。根据表1分析结果可知，智能仿生算法之间存在优势互补性，充分发挥每种算法的优点是解决实际问题的必然趋势。从上述一些算法的改进策略也可以看到，国内外学者正是采用智能仿生算法与其他智能算法结合来解决彼此的不足，结果也表明智能仿生算法与其他智能算法协同使用比单一仿生算法路径规划效果更好，应用范围更为广泛，因此这一研究方向势必会收到高度关注。
+
+# 3）智能仿生算法在多机器人路径规划中的应用
+
+单机器人路径规划一直是机器人研究中的热点，目前已经取得了许多成果。但是随着移动机器人应用的场合越来越多，单机器人在有些条件下已经不能满足使用要求，这就需要在多个机器人之间进行合作和协调。但是多机器人路径规划研究较单机器人路径规划要复杂得多，是一项极其复杂的系统工程，需要考虑的因素很多，如多机器人避碰和避障，多机器人协作和协调机制等。本文发现智能仿生算法都有一个共同的原理：个体行为简单，但是通过个体协作却能完成复杂的任务。通过模拟智能仿生算法的群体自组织协作能力，并将其应用到多机器人路径规划优化中必将是未来机器人路径规划的发展趋势。
+
+# 4）智能仿生算法在仿生机器人运动规划上的应用
+
+在基于智能仿生算法的移动机器人路径规划应用领域，未来的主要发展趋势还包括智能仿生算法在仿生机器人运动规划上的应用。近年来，国内外学者把从生物运动机理中得到的启发应用于机器人设计上，研发出了一系列仿生机器人，主要涉及陆面、空中和水下仿生机器人三大类。空中仿生机器人如Aerovironment 的Nanohummingbird 和哈佛的Robobee；水下仿生机器人最早从九十年代中期MIT的Robotuna开始，之后成果越来越多，国内科研院校近些年也涌现出一些关于水下仿生机器人的研究成果，如北大智能仿生设计实验室研发的水下摄影仿生机器鱼，北航机器人研究所研发的仿生牛鼻样机等；陆面仿生机器人最典型的就是BostonDynamics 的机器狗。但是目前仿生机器人多采用传统的运动规划方法，这使得仿生机器人对复杂环境的适应能力不足，无法真正模拟生物实现精确的定位和灵活的运动。智能仿生算法也是基于某种自然生物机理启发得到的，具有鲁棒性强、易于实现全局优化的特点、比较适用于非线性复杂的大系统的优化问题。未来随着仿生机器人在各个领域应用逐步扩大，基于智能仿生算法的仿生机器人运动规划技术势必将会成为研究的前沿。
+
+5）智能仿生算法在高维复杂环境下的路径优化应用
+
+随着机器人逐步被应用于能源勘探、军事战争、工业现场、交通运输等领域，人类迫切需要机器人在高维复杂环境中去完成更具有挑战性的任务。就目前移动机器人路径规划的环境描述来看，智能仿生算法在二维平面环境下的路径规划优化研究较多。但是，许多机器人作业与运行是在三维空间中进行的，如飞行机器人、水下机器人等，这些机器人面临的环境更加复杂，而目前所提出来的较多智能仿生算法通常是在完全已知的环境中按照某种准则来搜索最优路径，在解决一般的规划问题时具有传统路径规划算法不具备的优越性，但是也很难适应环境和约束条件的动态变化，因此加强智能仿生算法在三维环境下的路径规划优化应用是机器人技术实际应用的需求。并且目前智能仿生算法解决的大都是低速运动环境下的规划问题，为了更好的满足实际工程的需要，未来如何解决高维复杂环境下机器人高速运动规划问题，进一步提高智能仿生算法的鲁棒性和普适性也将成为研究的热点与难点。
+
+# 参考文献：
+
+[1]Song Baoye,Wang Zidong, Sheng Li.A new genetic algorithm approach to smooth path planning for mobile robots [J].Assembly Automation,2016,36 (2): 138-145. [2]Ganeshmurthy M S,Suresh G R.Path planning algorithm for autonomous mobile robot in dynamic environment[C]//Proc of International Conference on Signal Processing,Communications and Networking. Chennai: IEEE,   
+2015: 1-6. [3]于振中，闫继宏，赵杰，等．改进人工势场法的移动机器人路径规划 [J].哈尔滨工业大学学报,2011,43(1):50-55.(Yu Zhenzhong,Yan Jihong, Zhao Jie,et al.Mobile robot path planning based on improved artificial potential field method [J]. Journal of Harbin Institute of Technology,2011,   
+43 (1): 50-55.) [4]Latip N, Omar R,Debnath S K.Optimal path planning using equilateral spacesoriented visibility graph method [J]. International Journal of Electrical &Computer Engineering,2017,7(6): 3046-3051.   
+[5]Sun Bing,Zhu Daqi,Yang Simonx.An optimized fuzzy control algorithm for three-dimensionalAUV path planning[J]. International Journal ofFuzzy Systems,2018,20 (2): 1-14.   
+[6]Binitha S,Sathya S S.A survey of bio inspired optimization algorithm[J]. International Journal of Soft Computing& Engineering,2012,2(2):137 151.   
+[7]Bongard J. Biologically inspired computing [J]. Computing in Science & Engineering,2009,2(6): 83-87.   
+[8]段海滨，张祥银，徐春芳．仿生智能计算[M].北京：科学出版社,2011. (Duan Haibin, Zhang Xiangyin,Xu Chunfang. Bio-inspired computing [M]. Beijing: Science Press,2011. )   
+[9]Jakimovski B. Biologically inspired computing and self-x properties [M]// Biologically Inspired Approaches for Locomotion,Anomaly Detection and Reconfiguration for Walking Robots.Heidelberg: Springer,2011: 5-7.   
+[10]杨淑莹，张桦．群体智能与仿生计算[M].北京：电子工业出版社, 2012.(Yang Shuying, Zhang Ye.Swarm intelligence and bionic computation [M].Beijing: Publishing House of Electronics Industry,2012.)   
+[11]高玮，尹志喜．现代智能仿生算法及其应用[M].北京：科学出版社， 2011.(Gao Wei, Yin Zhixi.Modern intelligent bionic algorithm and its application [M].Beijing: Science Press,2011.)   
+[12] Kennedy J,Eberhart R.Particle swarm optimization [C]//Procof International Conference on Neural Networks.Perth: IEEE,1995:1942- 1948.   
+[13] Eberhart R, Kennedy J.Anew optimizer using particle swarm theory [C]// Proc of the 6th International Symposium on Micro Machine and Human Science.Nagoya: IEEE,1995:39-43.   
+[14]Lin Qiuzhen,Liu Songbai, Zhu Qingling,etal.Particle swarm optimization with a balanceable fitness estimation for many-objective optimization problems [J].IEEE Transon Evolutionary Computation,2018,22(1):32- 46.   
+[15]李文，伍铁斌，赵全友，等．改进的混沌粒子群算法在 TSP 中的应用 [J].计算机应用研究,2015,32(7):2065-2067.(LiWen,Wu Tiebin,Zhao Quanyou,et al. Improved algorithm of chaotic particle swarm and its application in TSP[J].Application Researchof Computers,2015,32(7): 2065-2067. )   
+[16] Wang Xibin,Luo Fengji.Sang Chunyan，et al.Personalized movie recommendation system based on support vector machine and improved particle swarm optimization [J]. IEICE Trans on Information And Systems, 2017,E100D (2): 285-293.   
+[17]秦元庆，孙德宝，李宁，等．基于粒子群算法的移动机器人路径规划 [J].机器人,2004,26 (3): 222-225.(Qin Yuanqing,Sun Debao,LiNing,et al. Path planning formobile robot based on particle swarm optimization [J]. ROBOT,2004,26(3):222-225.)   
+[18] Tang Biwei, Zhu Zhanxia, Luo Jianjun,A convergence-guaranteed particle swarm optimization method for mobile robot global path planning [J].   
+Assembly Automation,2017,37(1):114-129.
+
+[19] Li Guangsheng,Chou Wusheng.Path planning for mobile robot using selfadaptive learning particle swarm optimization [J]. Science China: Information Sciences,2018,61(5): 052204.
+
+[20]李晓磊，邵之江，钱积新．一种基于动物自治体的寻优模式：鱼群算法 [J]．系统工程理论与实践,2002,22(11):32-38.(Li Xiaolei,Shao Zhijiang, Qian Jixin.An optimizing method based on autonomous animate: Fish swarm algorithm[J].Systems Engineering-theory &Practice,20o2,22(11): 32-38.)   
+[21] Chen Liang,Tong Xiaoyang.Research on Power grid fault diagnosis based on artificial fish swarm algorithm [C]// Proc of the 2nd International Conference on Power and Renewable Energy. Chengdu: IEEE,2017: 1047- 1051.   
+[22] Zhang Shuying, Zhao Xiaohui,Liang Cong,et al. Adaptive power allocation schemes based on IAFS algorithm for OFDM-based cognitive radio systems [J].International journal of electronics,2017,104(1):1-15.   
+[23]Azizi R,Sedghi H, Shoja H,et al.A novel energy aware node clustering algorithm for wirelessensornetworks usinga modifiedartificialfish swarm algorithm[J].International Journalof ComputerNetworks& Communications,2015,7 (3):13.   
+[24] 黄宜庆，彭凯，袁梦茹．基于多策略混合人工鱼群算法的移动机器人路 径规划[J].信息与控制,2017,46(3):283-288.(Huang Yiqing,Peng Kai, Yuan Mengru.Path planning for mobile robots based on multi-strategy hybrid artificial fish swarm algorithm[J].Information and Control,2017,46 (3): 283-288.)   
+[25]张文辉，林子安，刘彤，等．基于改进人工鱼群算法的机器人路径规划 [J].计算机仿真,2016,33(12):374-379.(Zhang Wenhui,Lin Zian,Liu Tong,et al.Robot path planning method based on modified artificial fish swarm algorithm[J]. Computer Simulation,2016,33 (12): 374-379.)   
+[26] Zhang Yi, Guan Guolun,Pu Xingchen. The robot path planning based on improved artificial fish swarm algorithm[J].Mathematical Problemsin Engineering,2016,2016 (11): 1-11.   
+[27]Passino K M.Biomimicry of bacterial foraging for distributed optimization and control[J].IEEE Control Systems,2002,22(3): 52-67.   
+[28] Yuan Chaochun,Chen Hanning,Shen Jie,et al. Indicator-based multiobjective adaptive bacterial foraging algorithm for RFID network planning [J]. Cluster Computing,2018: 1-9.   
+[29]李珺，党建武．细菌觅食算法求解高维优化问题[J].计算机应用研究， 2016,33(4):1024-1027,1033.(Li Jun,Dang Jianwu.Bacterial foraging algorithmforsolvinghigh-dimensionaloptimizationproblems[J]. Application Research of Computers,2016,33 (4):1-024-1027,1033.）   
+[30] Yi Jun,Huang Di,Fu Siyao,et al. Optimized relative transformation matrix using bacterial foraging algorithm for process fault detection[J]. IEEE Trans on Industrial Electronics,2016,63 (4): 2595-2605.   
+[31] Liu Wei,Niu Ben,Chen Hanning,et al. Robot path planning using bacterial
+
+foragingalgorithm[J].Journal ofComputational& Theoretical Nanoscience, 2013,10(12):2890-2896.
+
+[32] Liang Xiaodan,Li Liangyu,Wu Jigang,et al.Mobile robot path planning based on adaptive bacterial foraging algorithm [J].Journal of Central South University,2013,20 (12): 3391-3400.
+
+[33]梁晓丹，蔺娜，陈瀚宁．基于细菌觅食行为的移动机器人动态路径规划 [J].仪器仪表学报,2016,37(6):1316-1324.(Liang Xiaodan,Lin Na,Chen Hanning. Mobile robot dynamic path planning based on bacterial foraging behavior[J]. Chinese Journal of Scientific Instrument,2016,37(6):1316- 1324.)   
+[34] Hossain M A,Ferdous I.Autonomous robot path planning in dynamic environment using a new optimization technique inspired by bacterial foraging technique[J].Robotics&AutonomousSystems,2015,64(C):137- 141.   
+[35]EusuffMM,LanseyKE.Optimizationof water distribution network design using the shuffled frog leaping algorithm.[J]. Journal of Water Resources Planning& Management,2003,129 (3): 210-225.   
+[36] Hasanien H M.Shuffed frog leaping algorithm for photovoltaic model identification [J].IEEE Trans on Sustainable Energy,2015,6 (2): 509-515.   
+[37] Edla D R,Lipare A,Cheruku R,et al.An efficient load balancing of gateways using improved shufled frog leaping algorithm and novel fitness function for WSNs [J].IEEE Sensors Journal,2017,20(17): 6724-6733.   
+[38]BaharMA,Shokooh-Saremi M.Designof GMR-based narrow bandpass filtersusing improved shuffled frog leaping algorithm [J].Electronics Letters,2015,51(6): 497-499.   
+[39] Hassanzadeh I, Madani K,Badamchizadeh MA. Mobile robot path planning based on shuffled frog leaping optimization algorithm [C]// Proc of International Conference onAutomation Science and EngineeingToronto: IEEE,2010:680-685.   
+[40]潘桂彬，刘国栋，张世龙．改进的混合蛙跳移动机器人路径规划算法 [J]．计算机应用研究，2014,31(12):3564-3567.(Pan Guibin,Liu Guodong, Zhang Shilong.Improved path planning algorithm of shuffled frog leaping for mobile robot[J].Application Research of Computers,2014, 31 (12): 3564-3567. )   
+[41] Ni Jianjun, Yin Xiahong,Chen Junfeng,et al. An improved shufled frog leaping algorithm forrobot path planning[C]/ Proc orthe 1Oth International Conference on Natural Computation. Xiamen: IEEE,2014: 545-549.   
+[42] Karabogad.An idea based on honey bee swarm for numerical optimization [J].Computer Engineering Department,2005.   
+[43]王永琦，吴飞，孙建华．求解连续空间优化问题的改进蜂群算法[J]. 计算机应用研究,2018,35(03):658-660,704.(Wang Yongqi,Wu Fei,Sun Jianhua. Modified artificial bee colony algorithm for solving continuous space optimization problems [J]. Application Research of Computers,2018, 35 (03): 658-660,704.)   
+[44] Dhabal S,Venkateswaran P.A novel accelerated artificial bee colony algorithm foroptimal design of two dimensional FIR filter[J].
+
+Multidimensional Systems & Signal Processing,2017,28(2): 471-493 [45] Sundar S,Suganthan PN,Jin C T,et al.A hybrid artificial bee colony algorithm for the Job-Shop scheduling problem with no-wait constraint [J]. Soft computing,2016,5 (21): 1193-1202
+
+[46]刘东林，陈银银．基于花香浓度的人工蜂群算法在机器人路径规划中 的应用[J].华东理工大学学报：自然科学版，2016,42(3)：375-381. (Liu Donglin, Chen Yinyin.A fragrance concentration based artificial bee algorithm and itsapplication in robot path planning [J]. Journal of East China University of Science & Technology: Natural Science,2016,42 (3): 375-381. )
+
+[47]王海泉，胡瀛月，廖伍代，等．基于改进人工蜂群算法的机器人路径规 划[J].控制工程,2016,23(9):1407-1411.(Wang Haiquan,Hu Yingyue, Liaowudai,et al. Path planning algorithm based on improved artificial bee colony algorithm [J].Control Engineering of China,2016,23 (9):1407- 1411. )   
+[48] Liang Junhao,Lee C H. Efficient collision-free path-planning of multiple mobile robotssystem using eficient artificial bee colony algorithm [J]. Advances in Engineering Software,2015,79 (C): 47-56.   
+[49] Faridi AQ,Sharma S,ShuklaA,et al. Multi-robot multi-target dynamic path planning using artificial bee colony and evolutionary programming in unknown environment [J]. Intelligent Service Robotics,2018,11 (14): 1-16.   
+[50] Yang Xinshe.Multiobjective firefly algorithm for continuous optimization [J].Engineering with Computers,2013,29 (2):1-10.   
+[51] Kanimozhi T,Latha K.An integrated approach to regionbased image retrieval using firefly algorithm and support vector machine [J]. Neurocomputing,2015,151 (3): 1099-1111.   
+[52] Olatomiwa L,MekhilefS,Shamshirband S,et al.A support vector machine firefly algorithm-based model for global solar radiation prediction [J]. Solar Energy,2015,115: 632-644.   
+[53] Su Hongjun,Yong Bin,Du Qian. Hyperspectral band selection using improved firefly algorithm[J]. IEEE Geoscience &Remote Sensing Leters, 2016,13 (1): 68-72.   
+[54]徐晓光，胡楠，徐禹翔，等．改进萤火虫算法在路径规划中的应用[J]. 电子测量与仪器学,2016,30(11):1735-1742.(Xu Xiaoguang,Hu Nan, Xu Yuxiang，et al.Application of improved firefly algorithm in path planning [J]. Journal of Electronic Measurement and Instrumentation, 2016, 30 (11): 1735-1742.)   
+[55]Chen Xiaochao,Zhou Ming,Huang Jian,et al. Global path planning using modified firefly algorithm [C]//Proc of International Symposium on MicroNanomechatronics and Human Science.Nagoya: IEEE,2017: 1-7.   
+[56] Liu Chang, Zhao Yuxin,Gao Feng,et al. Three-dimensional path planning method forautonomousunderwater vehicle based on modified firefly algorithm [J].Mathematical Problems in Engineering,2015,Article ID 561394.   
+[57]NPisanti.DNA computing:asurvey[J].Bulletin of the European Association for Teoretical Computer Science,1998(64):188-216.
+
+[58]Barrera A，Weitzenfeld A.Biologically-inspired robot spatial cognition based on rat neurophysiological studies [J].Autonomous Robots,2008,25 (1-2): 147-169.
+
+[59] Dasgupta D.Artificial immune systems and their applications [M]. Heidelberg: Springer,1999.   
+[60] Mcculloch W S,Pits W.Alogical calculus of the ideas immanent in nervous activity [J].Bulletinof Mathematical Biology,1990,52(1-2): 99-115.   
+[61]Rodriguez F,Fletwood A,Galarza A,et al.Predicting solarenergy generation through artificial neural networks using weather forecasts for microgrid control[J].Renewable Energy,2018,126:855-864.   
+[62]Wang Xing,Tsokos CP,Saghafi A.Improved parameter estimationof time dependent kernel density by using artificial neural networks [J]. Journal of Finance & Data Science,2018,3(4):1822-1836.   
+[63] Nakano M,Takahashi A,Takahashi S.Bitcoin technical trading with artificialneural network[J].Social Science Electronic Publishing,2018,15 (510): 587-609.   
+[64] Singh MK,Parhi DR.Path optimisationofamobile robot using an artificial neural network controller[J]. International JournalofSystems Science,2011, 42 (1):107-120.   
+[65]吕战永，曹江涛．一种新型神经网络机器人路径规划方法[C]//第 32 届中国控制会议论文集．西安，2013:3222-3226.(Lv Zhanyong,Cao Jiangtao.Path planning methods of mobile robot based on new neural network [Cl//Proc of the 32nd Chinese Control Conference.Xian,2013: 3222-3226. )   
+[66] Souza SSF, Romero R,Pereira J,et al. Artificial immune algorithm applied todistribution system reconfigurationwith variabledemand[J] InternationalJournal ofElectrical Power&Energy Systems,2016,82:561- 568.   
+[67] Zeng Rui, Wang Yingyan.A chaotic simulated annealing and particle swarm improved artificial immunealgorithm for flexible job shop scheduling problem [J]. Eurasip Journal on Wireless Communications & Networking 2018,2018(1).(2013-05-03)[2018-07-27].doi: 10.1186//s13638018- 1109-2   
+[68]Liu Tianyu.Fault diagnosis of gearbox by selective ensemble learning based onartificial immunealgorithm [C]// Proc of the 3rd International Conference on Systems and Informatics. Shanghai: IEEE,2017: 460-464.   
+[69]王孙安，吴灿阳．基于势场导向权的改进机器人路径规划免疫算法[J]. 中国工程科学,2013,15(1):73-78.(Wang Sunan,Wu Canyang.An improved immunity path planning algorithm for mobile robots based on the guidance weight of artificial potential field [J].Engineering Sciences,2013 15 (1): 73-78. )   
+[70]Deng Lixia,Ma Xin,Gu Jason,et al. Mobile robot path planning using polyclonal-based artificial immune network[J].Journal ofControl Sience & Engineering,2013,2013:1-13.   
+[71] Yuan Mingxin,Jiang Yafeng,Hua Xiaobin,et al.Areal-timeimmune planning algorithm incorporating a specific immune mechanism for multirobots in complex environments [J]. Journal of Systems & Control Engineering,2017,231(1) 29-42.   
+[72] Mehrabian AR, Lucas C.A novelnumerical optimization algorithm inspired from weed colonization [J].Ecological Informatics,2006,1(4): 225-232.   
+[73]Deng Tan,Du Jiayi.Hybrid invasive weed optimizationalgorithm for parameter inversion problems[J].International Journal of Pattern Recognition & Artificial Intellgence,2018,9(32): 1859015.   
+[74] Dastranj A. Optimization of a printed UWB antenna: application of the invasive weed optimization algorithm in antenna design [J]. IEEE Antennas & Propagation Magazine,2017,59 (1): 48-57.   
+[75] Mandava R K, Vundavili PR. Implementation of modified chaotic invasive weed optimization algorithm for optimizing the PID controller of the biped robot [J]. Sadhana,2018,43 (5): 66.   
+[76]周燕萍，刘以安．一种移动机器人的路径规划算法研究[J]．机械设计 与制造，2017(8):253-256.(Zhou Yanping,Liu Yian.Study on path planning method for mobile robot [J].Machinery Design & Manufacture, 2017 (8): 253-256. )   
+[77] Prases,Mohanty,Dayal,etal.A new efcient optimal path planner for mobile robot based on invasive weed optimization algorithm [J]. Frontiers of Mechanical Enginering,2014,9 (4): 317-330.   
+[78] Panda MR,Das PK,Dutta S,et al. Optimal path planning for mobile robots usingoppositional invasiveweed optimization[J]. Computational Intelligence,2018: 1-29.   
+[79] Simon D.Biogeography-based optimization [J].IEEETranson Evolutionary Computation,2008,12(6): 702-713.   
+[80] Kannan R,Gayathri N,Natarajan M,etal.SelectionofPIcontroler tuning parameters for speed control of PMSM using biogeography based optimization algorithm [Cl//Proc of International Conference on Power Electronics,Drives and Energy Systems. Trivandrum: IEEE,2017:1-6.   
+[81] Fadhel AA,Ali R A,Jawad H T.Optimal coordination of directional overcurrent relays using Biogeography-Based Optimization algorithms [J] IEEE Transon Power Delivery,2015,30(4):1810-120.   
+[82]张国辉，聂黎，毛学港．生物地理学算法求解柔性作业车间调度问题 [J].计算机应用研究,2014,31(4):1005-1008.(Zhang Guohui,Nie Li, Mao Xuegang. Solving flexible Job-Shop scheduling problem based on biogeography-based optimization algorithm [J].Application Research of Computers,2014,31(4): 1005-1008.)   
+[83] Mo Hongwei, Xu Lifang.Research of biogeography particle swarm optimization for robot path planning[J]. Neurocomputing,2015,148 (148): 91-99.   
+[84]莫宏伟，马靖雯．一种生物地理学移动机器人路径规划算法[J]．智能 系统学报，2015，10(5):705-711.(Mo Hongwei，Ma Jingwen.A biogeography-basedmobile robot path planning algorithm[J].CAAI Transactions on Intelligent Systems,2015,10 (5): 705-711.)   
+[85] Mo Hongwei,Li Zhenzhen. Bio-geography based differential evolution for robot path planning [C]// Proc of International Conference on Information and Automation. Shenyang: IEEE,2012:1-6.   
+[86] Yang Jianfei,Li Lin. Improved biogeography-based optimization algorithm for mobile robot path planning $[ \mathrm { C } ] / \AA$ Proc of the Chinese Intelligent Systems Conference. Singapore: Springer, 2018:219-229.   
+[87] Holland JH.Adaptation in natural and artificial systems [M]. 2nd ed. Cambridge: MIT Press,1992.   
+[88]王雷，李明.改进自适应遗传算法在移动机器人路径规划中的应用[J]. 南京理工大学学报：自然科学版,2017,41(5):627-633.(Wang Lei,Li Ming.Application of improved adaptive genetic algorithm in mobile robot path planning[J]. Journal ofNanjing University of Science and Technology, 2017,41 (5): 627-633.)   
+[89] Dorigo M,Gambardella L M.Ant colony system: a cooperative learning approach to the traveling salesman problem [J]. IEEE Trans on Evolutionary Computation,1997,1(1):53-66.   
+[90] Zeng Mingru,Lu Xi, Xiao Aimin.The free step length ant colony algorithm in mobile robot path planning [J].Advanced Robotics,2016,30 (23):1509- 1514.   
+[91]卜新苹，苏虎，邹伟，等．基于复杂环境非均匀建模的蚁群路径规划 [J]．机器人,2016,38(3): 276-284.(Bu Xinping,Su Hu,Zou Wei,et al. Ant colony path planning based on non-uniform modeling of complex environment [J]. Robot,2016,38 (3): 276-284.)   
+[92]Rainer S,Kenneth P.Differential evolution: a simple and efficient heuristic for global optimization over continuous spaces [J]. Journal of Global
+
+Optimization,1997,4(11):341-359.
+
+[93]雷小宇，楼朴根，张婷婷，等．基于差分进化的多机器人路径规划[J]. 计算机仿真,2011,28(1):10-13.(Lei Xiaoyu,Lou Pugen,Zhang Tingting, et al. path planning research for multi-robot based on differential evolution [J].Computer Simulation,2011,28(1): 10-13.)   
+[94]Yang Xinshe,Deb S.Cuckoo search via levy flights [C]//Proc ofWorld Congress on Nature & Biologically Inspired Computing.Coimbatore: IEEE, 2009:210-214.   
+[95] Chitara D,Niazi K R,Swarnkar A,et al.Cuckoo search optimization algorithm for designing of multimachine power system stabilizer [J].IEEE Trans on Industry Applications,2018,4(54):3056-3065.   
+[96] Cheng Jiatang,WangLei,Xiong Yan.Modified cuckoo search algorithm and the prediction of flashover voltage of insulators [J].Neural Computing & Applications,2018,30 (2): 355-370.   
+[97] Mohanty PK,Parhi D R.Optimal path planning for a mobile robot using cuckoo search algorithm [J].Journal of Experimental & Theoretical Artificial Intelligence,2016,28 (1-2): 35-52.   
+[98]Pan Wentsao.A new fruit fly optimization algorithm: taking the financial distress model as an example [J].Knowledge-based systems,2012,26:69- 74.   
+[99] Wolpert D H,William G M.No free Launch theorems for optimization [J]. IEEE Trans on Evolutionary Computation,1997,1(1): 67-82.

@@ -1,0 +1,560 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201609191882 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴健生,沈楠.基于步行指数的深圳市福田区公园绿地社会服务功能研究.生态学报,2017,37(22):7483-7492.WuJS,SenaoalcbstctcSinica,2017,37(22):7483-7492.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于步行指数的深圳市福田区公园绿地社会服务功能研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴健生1,2,\\*，沈楠",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1北京大学城市规划与设计学院，城市人居环境科学与技术重点实验室，深圳518055  \n2北京大学城市与环境学院，地表过程与模拟教育部重点实验室，北京100871",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;城市公园绿地是当代城市的重要组成部分，居民能否方便地享用公园绿地所提供的各项服务与功能，是衡量一个城市人地关系和谐状况、现代化发展水平和居民生活质量的重要指标,也是城市公园绿地社会服务功能的体现。选取深圳市福田区为研究对象,计算单点绿地步行指数,衡量均质区域的公园绿地步行可达性;基于土地利用类型法实现人口数据空间化;基于面域绿地步行指数耦合绿地空间分布与人口格局,评估深圳市福田区居民通过步行方式到达城市公园绿地的便利程度,即城市公园绿地的社会服务功能水平。结果表明：深圳市福田区在区域均质假设下,公园绿地步行可达性整体较好,区域差异较大,呈现出东优西劣的趋势,梅林公园周边、莲花山公园南部、荔枝公园周边及皇岗公园周边是四个公园绿地步行可达性最好的区域,福田区西北部和西南部公园绿地步行可达性差;供需平衡视角下， $7 0 \\%$ 街道的居民可以便捷、公平地享用城市公园绿地所提供的服务,华强北街道、莲花街道、园岭街道和华富街道公园绿地设施建设非常完善,且绿地格局与人口格局配置合理,香蜜湖街道与沙头街道开放性公园绿地建设状况有待改进。将步行指数应用于公园绿地建设状况评估,为步行城市建设、公园绿地空间布局优化提供参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：步行指数；城市公园绿地;社会服务功能；深圳市福田区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Walk score method-based evaluation of social service function of urban park green lands in Futian district，Shenzhen， China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WU Jiansheng1,2,\\* ,SHEN Nan' ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1KeyLaboratoryforUrbanHabitatEoentalSciencendTecholog，ScholofUrbanlaingdDesig，PekingUniersitezn 518055，China 2LaboratoryoferftlofUdteUsie ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Green Lands in urbanparksare importantand indispensable partsof thecontemporary cities.Whether citizens canconvenientlyenjoyfacilitiesandservicessupplied bytheurban parksisregardedasasignificant indicatorof the harmoniousman-landrelationship,urban modernization，and inhabitants’lifequality.Furthermore,itembodies thesocial service function of the green lands inurban parks.This study selected Futian district as the study region.Single-point green land walk score wascalculatedtodeterminethe walkingaccessibilityof gren lands.The populationofFutian district was spatializedbasedonitsland-usedata.Combining thedataof greenlandsandpopulation distribution,this study evaluated the social servicefunctionofurbanpark greenlands bydetermining the walkingconvenience ofcitizens inthese greenlands. Based nthe isotropicarea hypothesis，the overall walking accessbilityofurban park green lands was found tobe good in ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Futian.However，a huge diference was observed among diferent regions of Futian.Acleardeclining trend wasobserved fromtheeasternto the western partsofFutian.The greenlandsin MerlinPark,southLianhuashanPark,LycheePark,and Dahuang Park wereconsidered highlyaccesible,whereas thosein the northwesternand southwesternparts ofFutiandistrict were not.In addition，citizens could enjoy the services provided by these green lands convenientlyand fairly in $70 \\%$ of subdistricts；Huaqiangbei,Lianhua，Yuanling，and Huafu sub-districts hadrather goodopen park spacefacility，and they performed areasonable match betweenthe green landsand population patern.The status of green lands in theurban parks of Xiangmihuand Shatousub-districts stillneeded tobe improved.This manuscriptpresentedacase studyof the assessment of green land construction in urban parks usingthe walk score method.Itparticularly explored anew ideain applying walk score,providing usefulreference fortheconstructionof pedestriancityand spatial distributionoptimizationof greenlands in urban parks. X ? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:walk score； green lands in urban parks； social service function；Futian district，Shenzhen",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通常来说,公园绿地、街头绿地、道路绿地、庭院绿地、河湖绿地等都属于城市绿地的范畴[1],其中,公园绿地是在原有自然斑块的基础上,经过长时间人为干扰形成的人工与自然耦合景观,在维护生态环境、保护公共健康、增强城市宜居性等方面发挥着重要作用[2-4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "城市公园绿地具有生态服务和社会服务两种功能[5-6],在生态服务方面,公园绿地可以净化空气、消除噪音、降低污染、缓解城市热岛效应[7-9]等。除此之外,居民能否方便地(特别是步行)就近到达公园绿地、公平平等地享用公园绿地为居民提供的休闲娱乐环境[5,10-11],是城市公园绿地社会服务功能的体现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当前各城市争相建设“园林城市”“山水城市”,过分强调城市绿化覆盖率、城市绿地率与人均公园绿地面积等传统城市绿地指[12]，一方面只重公园绿地数量而忽略公园绿地空间分布的合理性，另一方面,只重公园绿地的供给水平而忽略绿地供给空间分布与需求空间分布是否匹配。故传统的城市公园绿地指标和公园绿地可达性水平均不能真实准确地反应城市公园绿地的社会服务功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "步行性是指出发地和目的地之间的空间邻近性及两点间步行的便捷性和舒适性[13]。步行指数是美国研究人员2007年提出的一种基于日常设施种类和空间布局的国际性量化测度步行性的方法,已在美国、加拿大、澳大利亚、新西兰、英国等国家广泛应用[13]。2010 年邓肯等（Dustin T.Duncan）[14]及 2011年卡尔等（Lucas J.Car）[15]都证明了步行指数用于量化测度步行性是科学合理的。国内对步行性和步行指数的研究刚刚起步,吴健生等[16]借鉴国外步行指数的计算方法,基于步行指数提出了城市日常生活设施配置合理性的评估方法;刘迎宾[17]基于步行指数测度了深圳市桃源街区的可步行性,并对测度结果进行了校核。目前将步行指数应用于其他科学领域的研究尚有不足。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文选取深圳市福田区为研究对象,基于步行指数计算原理,构建绿地步行指数,并通过建模获得高精度人口空间分布数据,将人口空间分布状况纳入评估过程,以期为城市公园绿地的共享性与空间布局优化研究提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1数据来源与预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "“本文研究区为广东省深圳市福田区（图1)。研究所采用的公园绿地数据来自2010年底深圳市福田区公园汇总表[18]和2011年深圳市规划和国土资源委员会公示的深圳市福田区规划绿地分布图[19],筛选面积超过 $0 . 5 \\ \\mathrm { h m } ^ { 2 }$ 的公园绿地,结合高分辨率遥感影像和百度地图进行人工识别补充,采集市级公园出入口点49个，社区公园等小型公园出人口点49个，如图2所示。对于社区公园等没有明确出入口位置的开公园,卢宁等 $^ { [ 2 0 ] } 2 0 1 4$ 年提出,若公园边界PQ没有明确出入口,但从边界PQ上任何点进入公园都会经过端点P和Q,则选取 $\\mathrm { ~ \\bf ~ P ~ }$ 点和Q点为此边界出入口的代表。由于社区公园一般面积较小,为避免重复计算,本文每个社区公园的出入口点计数不超过2。高尔夫球场地、生产用地、学校运动场地等属于非公益性、非开放性的绿地空间，因此,香蜜湖娱乐城、深圳农科太空果树实验基地、深圳高尔夫俱乐部等绿地区域不纳入本文研究范畴。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2de146d114f4bf19690a695eb8a1ce2d0371258909a3e0ed918d5ae1cdd9d81b.jpg",
+        "img_caption": [
+            "Fig.1Location of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究用到的数据还包括福田区道路网，根据遥感影像结合GoogleEarth矢量化得到,并提取了道路网的交叉口密度和街区长度。深圳市2013年土地利用数据来源于深圳市国土资源局，依据土地利用现状分类GB/T21010—2007，将原始数据整理为12个一级地类。人口数据来源于深圳市2010年第六次人口普查结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2绿地步行指数计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "绿地步行指数考虑了城市公园绿地的吸引力、距离出发点的远近、步行环境、城市居民分布等因素，综合评估区域公园绿地的社会服务功能。计算过程主要包括单点指数计算、人口数据空间化和面域指数计算3部分。为计算方便,本文单点指数的计算过程以区域均质假设为前提，简化了除道路网外的其他城市异质景观。除此之外，城市公园绿地系统由市政府统一规划，某一城区的公园绿地主要为本区域内居民提供社会服务，故本文基于面域指数衡量区域城市公园绿地社会服务功能时，仅考虑本区域内的人口分布状况",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/76a49f7b4c267b5cde0046e2def64a7677975dad4832b3c68f88e36e1a496377.jpg",
+        "img_caption": [
+            "图1研究区位置示意图",
+            "图2公园出入口位置",
+            "Fig.2Location of urban park entrances "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 单点绿地步行指数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单点绿地步行指数计算对象为某个具体样本点,衡量区域内任意一点到周边公园绿地的步行可达性。其计算过程基于两大基础数据：研究区道路网与城市公园绿地出人口分布图。计算过程包括以下3个步骤：构造公园绿地出入口分类权重表、基于公园绿地类别和步行距离计算基础指数、考虑步行环境修正指数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)不同级别城市公园绿地的出入口权重表",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "深圳市城市管理局2011年发布的全市公园汇总数据[18]将深圳市公园划分为市级公园、区级公园、社区公园和主题公园四大类，本文研究区福田区仅涵盖市级公园和社区公园两类。基于专家打分法，依据公园类型的相对重要性赋予每类公园权重,见表1。通常来说,市级公园面积较大,服务设施较完善,对居民的吸引力和服务效能均大于社区公园等小型公园,故市级公园总体权重高于社区公园，权重总和为15；每类公园的出入口点依据距离出发点的远近,依次赋予递减权重。例如某一样本点按照由近自远的顺序,在步行范围内，有市级公园出入口点3个,社区公园出入口点2个，则该样本点得到的权重值为 $7 ( 2 . 5 + 1 . 5 + 1 . 5 + 0 . 7 5 + 0 . 7 5 )$ 。此外,不同类型公园出人口的可替代性不同,其权重的衰减速度也不同。例如市级公园,往往多个出入口点对应于同一个公园,公园出入口权重衰减较快;而每个社区公园对应的出入口点不超过两个,出入口可替代性差,权重衰减平缓。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee97d751dce3660204ba72b95c1143567d8118e0671918a449f37ca6d9fc6b26.jpg",
+        "table_caption": [
+            "表1不同级别城市公园绿地出入口权重",
+            "Table1Weights of urban park entrances at different levels "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>公园种类Park type</td><td>分类权重Classficationweight</td><td>权重Weight</td></tr><tr><td>市级公园 Municipal park</td><td>2.5，1.5，1.5,0.75,0.75,0.3,0.3,0.3,0.2,0.2,0.2,0.2,0.1,0.1，0.1，0, 0,0,0,0</td><td>9</td></tr><tr><td>社区公园 Community park</td><td>0.75,0.75,0.75,0.75,0.5,0.5,0.3,0.3,0.3,0.3,0.2,0.2,0.2,0.1,0.1,0, 0,0,0,0</td><td>6</td></tr><tr><td>总计 Total</td><td>15</td><td>15</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)基础绿地步行指数",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在上述不同级别城市公园绿地出人口权重表的基础上,计算得每个样本点的权重值,进一步考虑基于距离的衰减规律，可得某个样本点的基础绿地步行指数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于距离的衰减规律是指城市公园出人口的权重将随其与出发点距离的增加而有规律的衰减[13],本文采用分段线性变化规律，如图3所示。研究表明，通常人的步行速度为 $4 . 8 ~ \\mathrm { k m / h }$ ,即 $8 0 \\ \\mathrm { m / m i n }$ ,5min 步行可达 $4 0 0 \\ \\mathrm { m } , 2 0 \\ \\mathrm { m i n }$ 可达 $1 6 0 0 \\mathrm { ~ m ~ } , 3 0 \\mathrm { ~ m i n }$ 可达的范围是$2 4 0 0 \\ \\mathrm { m } ^ { [ 1 3 ] }$ 。与此相对应,当步行 $5 \\mathrm { m i n }$ 内可达目标点，即距离小于 $4 0 0 \\mathrm { ~ m ~ }$ 时，距离因素不足以引起原指数值衰减；当步行时间大于 $5 ~ \\mathrm { m i n }$ 后，快速衰减;步行时间为20min 时，原指数值衰减为原值的 $12 \\%$ ;步行时间大于20min后，衰减减慢，直到步行时间为 $3 0 ~ \\mathrm { m i n }$ ，原值全部被衰减，即认为 $3 0 ~ \\mathrm { m i n }$ 步行范围以外的目标点不再对出发点的指数值产生影响[13]",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/67c00d37cff710043afc023792743111288bb85fae9020fbe210578a9d3d796a.jpg",
+        "img_caption": [
+            "图3公园出入口权重距离衰减曲线",
+            "Fig.3Distance decay curve of park entrance weights "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "寻找样本点周围 $2 4 0 0 \\mathrm { ~ m ~ }$ 范围内的城市公园出入口点并计算距离;依据距离的远近参照表1（不同级别城市公园绿地出人口权重)为所有公园出人口点依次赋予权重,并依据距离衰减函数对权重进行衰减;最后累加各个城市公园出入口点的权重,得到样本点的基础绿地步行指数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)指数修正 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基础绿地步行指数的计算过程只考虑了目标点与出发点之间直线距离的影响,而现实生活中的步行体验则是沿着道路出行，一定区域范围内道路交叉口越多，两交叉口之间的街区长度越短,步行出行的路线选择越自由,步行环境越优越[16]。因此,算得基础步行指数后,需要基于步行环境进行修正。统计研究区每平方千米范围内的道路交叉口数目和街区长度均值,运用数量等分法将两者的衰减率各分为五级,最大值为 $10 \\%$ ，如表2所示。绿地步行指数修正所依赖的衰减率在一定程度上反映了某一区域步行环境的优劣。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "修正后基础绿地步行指数最大值为15,最小值为0,为了方便度量和比较,将其标准化为0—100。指数值越大，说明该点步行到达目的地的便捷性越好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 人口数据空间化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人口数据空间化是为了研究并模拟客观世界的人口地理分布,对人口统计数据进行离散化处理,通常采用一定的计算方法或以某种人口空间分布模型为基础[21]。本文采用较为成熟和普遍的土地利用类型法,即假设每种土地利用类型上的人口密度不变,以人口统计数据为因变量,各种土地利用类型的面积为自变量,构",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "建人口—土地多元线性回归模型,将模型应用于每个格网,实现人口统计数据空间化[21]。中国科学院利用该方法生成了1995 年、2000 年和 2003 年 $1 ~ \\mathrm { k m }$ 精度的中国人口格网数据,2010 年叶靖等[22]、2012 年唐奇等[23]也基于该原理做出了研究成果。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/68247d97e5da865da5916a2e010cbc821bc88e2cd5f233bb7a6656732bd20bf8.jpg",
+        "table_caption": [
+            "表2道路交叉口密度与街区长度衰减率",
+            "Table 2 Decay rate of intersection density and block length "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>交叉口密度 Intersection density/(个/km²)</td><td>衰减率 Decay rate/%</td><td>街区长度 Block length/m</td><td>衰减率 Decay rate/%</td></tr><tr><td>>89</td><td>0</td><td><96</td><td>0</td></tr><tr><td>61—88</td><td>1</td><td>96—110</td><td>1</td></tr><tr><td>43-60</td><td>2</td><td>110—128</td><td></td></tr><tr><td>24—42</td><td>3</td><td>128—150</td><td></td></tr><tr><td>8-23</td><td>4</td><td>150—201</td><td></td></tr><tr><td><8</td><td>5</td><td>>201</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)模型变量与算法设置 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文以深圳市 2013年土地利用类型分布现状数据为基础,设定土地利用现状分类GB/T 21010—2007 标准中的12个一级土地利用现状类型为自变量,深圳市 57个街道第六次人口普查数据为因变量,建立人口—土地多元线性回归模型,模型的一般形式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P _ { i } = \\sum _ { j = 1 } ^ { n } \\beta _ { j } { \\times } X _ { i j } { + } G } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $P _ { i }$ 为深圳市 $i$ 街道的统计人口数 ${ \\bf \\nabla } , \\beta _ { j }$ 为 $j$ 类土地利用类型的人口分布系数( $\\mathcal { N } \\mathrm { h m } ^ { 2 }$ ） $X _ { i j }$ 为 $i$ 街道 $j$ 类土地利用类型的面积( $\\mathbf { h } \\mathbf { m } ^ { 2 } .$ ） $n$ 为模型所选用的土地利用类型数。无土地必然无人口,故常数项C设置为0。由于人口一土地多元线性回归模型的系数具有物理意义,因此模型先验假定所有系数非负。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "模型的建立过程采用如下步骤[24]： $\\textcircled{1}$ 进行相关性分析,选出与因变量相关程度最高的自变量,记为 $\\mathrm { X } _ { 0 }$ ;$\\textcircled{2}$ 去除与 $\\mathrm { \\Delta X _ { 0 } }$ 显著相关的自变量(Pearson 检验中 $_ { \\mathrm { r } > 0 . 8 }$ ）,消除自变量之间的共线性； $\\textcircled{3}$ 剩余自变量输入逐步线性回归的有效性库中; $\\textcircled{4}$ 剔除如下自变量：在0.05 显著性水平下不满足T检验、不满足模型先验假定或 57 个样本中非零值小于10 个; $\\textcircled{5}$ 重复步骤3和步骤4,使模型收敛,并剔除对最终模型 $\\mathbf { R } ^ { 2 }$ 贡献率不足 $1 \\%$ 的自变量。 1",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "依据上述建模步骤进行逐步多元线性回归,剔除不显著的自变量和不符合先验假定的回归方程,对比不同回归方程的调整 ${ \\bf R } ^ { 2 }$ 与标准估计的误差值,得到最终模型结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)模型检验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为保证模型的合理性和精确性,将研究区实际人口数量与模型反算人口数量进行相关分析,并采用十折交叉检验验证模型精度。十折交叉检验即将全体样本随机分为10组,基于其中9组样本建立多元线性回归模型,用模型估算剩余样本组的数值,并与剩余样本组的真实值进行比较。该过程被重复10次,剩余样本组的均方根误差即为描述模型好坏程度的结果。除此之外,由于多元线性回归模型以残差的空间独立性为基本假定,本文在 ArcGIS 10.2中计算了多元线性回归模型残差的全局 Moran'sI指数,判断残差是否具有显著的空间自相关性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3)模型系数校正",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "模型以假定研究区内同一土地利用类型上人口密度恒定为前提，且人口数据基数较大，故模型估计结果与客观人口统计数据必然存在一定误差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文以深圳市为样本建立模型,后估算福田区格网人口数量,为提高模型精度,参考 2010年叶靖等[22]研究义乌市人口统计数据空间化的校正方法,以研究区内所有格网人口数之和与客观人口统计数据相等为原则校正初始人口分布系数,校正公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { i j } { = } P _ { i } / P ^ { \\prime } { } _ { i } { \\times } \\beta _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathcal { \\beta } _ { i j }$ 表示 $i$ 街道 $j$ 类土地利用类型的人口分布系数( $\\backslash \\backslash \\backslash \\mathrm { h m } ^ { 2 }$ ） $P _ { i }$ 为 $i$ 街道统计人口数， ${ { \\cal { P } } ^ { \\prime } } _ { i }$ 为根据模型公式反算出的 $i$ 街道人口数量估计值。校正后的人口分布系数因各街道统计人口数不同而不同,可提高针对福田区人口空间化的精度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4)模型应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最后,依据校正后的人口分布系数,结合土地利用类型分布状况,计算福田区各街道 $1 0 0 \\ \\mathrm { m } \\times 1 0 0 \\ \\mathrm { m }$ 格网内的人口数量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.3基于面域步行指数的城市公园绿地社会服务功能评估",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "单点指数反映了某点周围一定范围内城市公园绿地的配置水平与可达性水平,当需要了解一个区域（如一个街道、一个区、一个城市等)的状况时,则需要计算面域指数。一个面内不同的点具有不同的地形地貌、人口经济等地理属性,因此,赋予每个点一定的权重可以更准确的衡量一个面域的状况。对于城市公园绿地社会服务功能研究来说,以人口比重作为权重不仅可以避免水体等人口稀少地区的影响[13],而且可以衡量一个区域城市公园绿地的空间供给密度与居民空间需求密度的匹配状况。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "假设研究区均质,构建合适尺寸的均匀分布的正方形格网,计算每个格网中心点的单点指数,将指数值赋予对应的格网;应用上述回归模型计算每个格网的人口数量,其占区域总人口的比例即为该格网的权重;最后对区域内的所有格网值基于权重加权累加,得到面域绿地步行指数。单点指数是在假定研究区均质的条件下,衡量某一点通过步行方式到达公园绿地的便捷程度,数值越大说明该点公园绿地可达性越好。而公园绿地的服务目标是居民,高公园绿地可达性的区域有居民才有意义,人口稀少的区域,城市公园绿地可达性高反而是绿地资源的浪费。故单点指数值高的区域人口多,单点指数值低的区域人口少,二者呈正相关关系是城市公园绿地社会服务的最优供需状态。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "面域步行指数在供需平衡的视角下评估了城市公园绿地的社会服务功能,该值越大,说明该区域城市公园绿地的社会服务功能越好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1福田区城市公园绿地步行可达性总体特征",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据2010 年统计数据显示[18],福田区共有各类公园79个，总面积 $7 4 1 . 2 7 \\ \\mathrm { h m } ^ { 2 }$ ,其中市级公园10个,社区公园69个，没有区级公园和主题公园。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于ArcGIS10.2软件按照上述步骤计算福田区 $1 0 0 \\ \\mathrm { m } \\times 1 0 0 \\ \\mathrm { m }$ 精度的单点绿地步行指数,见图4。福田区单点绿地步行指数最大值为75.85,最小值为0,平均值为28.39,呈现出东高西低的趋势,总体来说,福田区城市公园绿地可达性较好,但局部略差,各区之间差异较大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "福田区明显的公园绿地步行可达性高值区主要包括梅林公园周边、莲花山公园南部、荔枝公园周边以及皇岗公园周边,形成梅林公园—莲花山—深圳中心公园—荔枝公园高值条带区。这些高值区临近大型市级公园,周边社区公园建设较好,公园绿地出人口数量多，且道路交叉口密集,步行环境好。虽然公园绿地步行可达性高值区均分布在大型市级公园周边,但并不是所有大型公园周边都是显著高值区,如笔架山公园,由于周边社区公园建设略有欠缺,绿地步行指数值略低于同等级公园周边区域。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "福田区西北部为塘郎山郊野公园,该公园大部分区域位于深圳市南山区且不适宜步行,故不在本文研究范畴内。另一个显著低值区在福田区西南部,该区域虽然步行环境较好,但缺少公园绿地设施,且深圳高尔夫俱乐部等非开放性绿地区域占地面积较大，故公园绿地步行可达性很低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2人口数据空间化结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于 SPSS 20.0软件依据上述步骤建立人口—土地多元线性回归模型,并通过交叉检验和残差空间自相关检验验证模型结果,最终模型参数如表3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0eb7f618902bd014d2dd207a2e5fef16b299ae03d6d3f65368335c004963719.jpg",
+        "img_caption": [
+            "图4单点绿地步行指数分布",
+            "Fig.4Distribution of single point green lands walk score "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表3可知,回归方程F检验的显著性水平小于0.000,说明总体回归方程线性关系显著,即进入方程的自变量和人口数量之间的线性关系非常密切。从判定系数修正 $\\mathbf { R } ^ { 2 }$ 可知,模型所能解释因变量变化的百分比为 $9 0 . 0 \\%$ ,模型拟合效果很好。故可得最终回归方程为：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P O P = 1 9 7 . 6 5 5 \\cdot R E S + 1 0 7 5 . 8 5 9 \\cdot B U S + 1 0 7 . 6 5 5 \\cdot T R A }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f4a90a2fdae560576981bb88edccf6608dc7d3bf241e8b508ea31f561b8f8a0.jpg",
+        "table_caption": [
+            "表3人口-土地多元线性回归模型结果",
+            "Table 3Result of population-land multiple linear regression model "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">因变量 Dependent variable</td><td rowspan=\"2\">进入模型的自变量 Selected independent variable</td><td colspan=\"4\"></td><td rowspan=\"2\">模型结果 Model results</td></tr><tr><td>B</td><td></td><td></td><td></td></tr><tr><td>人口数量</td><td>住宅用地(RES)</td><td>197.655 0.387</td><td>T 3.504</td><td>Sig. 0.001</td><td>VIF 6.945</td><td>R² = 90.5%</td></tr><tr><td rowspan=\"2\">Population(POP)</td><td>商服用地（BUS)</td><td>1075.859 0.330</td><td>3.335</td><td>0.002</td><td>5.568</td><td>Adj R² = 90.0%</td></tr><tr><td>交通运输用地（TRA)</td><td>107.655 0.271</td><td>2.559</td><td>0.013</td><td>6.385</td><td>ANOVA Sig.=0.000</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "模型十折交叉检验均方根误差为75416.12。研究区实际人口数量与模拟人口数量相关系数为 $\\phantom { 0 } { 0 . 8 6 3 } , P$ 值为0.000,说明模拟效果显著[25]。回归模型残差的全局 Moran'sI值为 $^ { 0 . 1 7 2 , P }$ 值为0.0002,残差存在很弱的、可以忽略的空间正相关性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为降低原始人口-土地多元线性回归模型的相对误差,采用上述经验算法校正模型参数,后反算出福田区$1 0 0 ~ \\mathrm { m } \\times 1 0 0 ~ \\mathrm { m }$ 精度水平上的人口空间分布图（图5）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3福田区各街道城市公园绿地社会服务功能评估",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "福田区目前下辖10个街道，依据上文得出的单点绿地步行指数和人口数据空间化结果，分别计算每个街道的单点绿地步行指数均值和面域绿地步行指数,并与人均公园绿地面积和公园绿地覆盖率两个传统指标进行对比，如图6所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从传统公园绿地指标来看，华富街道人均公园绿地面积和公园绿地覆盖率最大且远大于其他街道，其次是莲花街道，梅林、香蜜湖和华强北街道再次之，其他街道人均面积和覆盖率都很低，福保街道由于没有大面积开放的公园绿地分布,两个传统指标统计值为0。传统统计指标一方面会低估人口密度较大区域的公园绿地建设情况,如南园、园岭、福田等街道，另一方面强化了各行政区的独立性,没有考虑区域间公园绿地的共享",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "性，对福保街道等特殊街道的评估结果不够合理。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从本文的绿地步行指数指标来看，华强北、莲花、园岭、华富街道的两个统计指标值均大于45，说明此类街道内任意一点都可以非常便捷地步行到达临近公园绿地，区域内城市公园绿地发挥了非常好的社会服务功能。福田、南园街道次之，统计指标值大于30。梅林街道虽然单点指数均值低于30，但面域指数值大于40，说明该区域公园绿地设施建设可能略欠完善，但绿地格局与人口格局配置合理，区域内居民仍可较便利地步行到达公园绿地。福保街道两个统计值均略低于其他地区，说明该区域内居民不能很好地享用城市公园绿地所提供的社会服务。香蜜湖街道和沙头街道统计值小于20，说明该区域开放性公园绿地设施建设不够完善，不能满足区域内居民步行到达公园绿地的需求。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与单点绿地步行指数均值相比，面域绿地步行指数叠加了人口空间分布数据，可以更加合理地评估某些特殊区域公园绿地的社会服务功能，如梅林街道，虽然单点指数均值不高，但叠加人口数据后可以排除塘郎山郊野公园、梅林水库等人口稀少地区的影响，表明该区域内公园绿地的建设状况可以满足居民步行到达的需求，",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdb19df8209a66e1e1e4f870e09695fa72279bf89d4fdf19980cec04b0c29a4f.jpg",
+        "img_caption": [
+            "图5研究区 $\\mathbf { 1 0 0 m }$ 格网人口空间分布图",
+            "Fig.5 Spatial distribution of population by $\\mathbf { 1 0 0 } \\textbf { m }$ grid in the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文以深圳市福田区为例,将国外步行指数的计算原理应用到城市公园绿地社会服务功能评估中,基于人口一土地多元线性回归模型反算了高精度人口空间分布数据,耦合公园绿地可达性与人口空间分布状况，探索了评估城市公园绿地服务水平的新思路。得出以下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)深圳市福田区整体公园绿地步行可达性较好,但各区之间差异较大,呈现出东高西低的趋势。(2)梅林公园周边、莲花山公园南部、荔枝公园周边以及皇岗公园周边是福田区单点绿地步行指数值的四个高值区,这些区域临近大型公园绿地且小型公园设施建设好,公园绿地步行可达性最好。福田区西北部和西南部由于开放性的适宜步行的公园绿地设施建设欠完善而成为两个低值区,公园绿地步行可达性差。(3)基于面域绿地步行指数,从街道尺度看， $7 0 \\%$ 的街道公园绿地格局和人口空间分布格局配置较合理,居民可以较为便利地步行到达城市公园绿地,享受城市公园绿地提供的社会服务。(4)华强北街道、莲花街道、园岭街道和华富街道的绿地步行指数值均大于45,区域内城市公园绿地发挥了非常好的社会服务功能;香蜜湖街道和沙头街道绿地步行指数值低于20,开放性公园绿地设施建设状况有待进一步完善。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "步行城市必然是未来城市发展的新趋势。本文借鉴国外步行指数的理念评估城市公园绿地的社会服务功能,并对步行指数原始计算方法的权重、参数等进行调整,使更符合国内城市道路网状况与居民实际步行体验。基于绿地步行指数的评估方法综合考虑了城市公园绿地的吸引力、城市居民分布、交通成本[26]等影响城市公园绿地服务水平的主要因素,丰富了公园绿地建设状况评估体系。未来福田区可考虑适当增加现有非公益、非开放性绿地的开放性,服务市民生活。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9aa7b25615144d6063a0264b30179ed2ecced1e16bd090ed1f5dbdf2039d751f.jpg",
+        "img_caption": [
+            "图6福田区各街道公园绿地指标统计图",
+            "Fig.6Statistics of green lands index of ten sub-districts in Futian "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "但本文研究对象仅为面积大于 $0 . 5 ~ \\mathrm { h } \\bar { \\mathrm { m } } ^ { 2 }$ 的公园绿地，排除了面积较小的街头绿地且未考虑非开放性的绿地区域,因此计算结果可能低估了福田区绿地的实际建设状况和服务效果。除此之外,公园绿地的社会服务功能在评估过程中,除了受绿地面积、绿地类型、行进方式、距离和人口分布等客观因素的影响,也会受居民意愿等主观因素的影响[27],因此,居民行为偏好等主观因素如何纳入考量在今后的研究中也值得思考。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "［1］周廷刚，郭达志.基于GIS 的城市绿地景观空间结构研究—以宁波市为例.生态学报，2003，23(5)：901-907.  \n[2］魏冶，修春亮，高瑞，王绮.基于高斯两步移动搜索法的沈阳市绿地可达性评价.地理科学进展，2014，33(4)：479-487.  \n[3]WolhJJweUagese,ublalhdvotaljstice:egfmai‘juseoLandscape and Urban Planning，2014，125： 234-244.  \n[4] 刘常富，李小马，韩东.城市公园可达性研究——方法与关键问题.生态学报，2010，30（19)：5381-5390.桂昆鹏，徐建刚，张翔.基于供需分析的城市绿地空间布局优化——以南京市为例.应用生态学报，2013，24（5)：1215-1223.王进，陈爽，姚士谋.城市规划建设的绿地功能应用研究新思路.地理与地理信息科学，2004,20(6)：99-103.苏泳娴，黄光庆，陈修治，陈水森，李智山.城市绿地的生态环境效应研究进展.生态学报，2011,31（23）：7287-7300.  \n[8] EscobedoFJ，KrogerWagerJE.Urbanforestsdltiomiigatio：aalyingosysteservicesandisevicesEnitalPollution，2011,159(8/9)：2078-2087.  \n［9］苏泳娴，黄光庆，陈修治，陈水森.广州市城区公园对周边环境的降温效应.生态学报，2010,30（18）：4905-4918.  \n[10]FulerA,ieDevie-Wt，WGstoKJsyalnefisofesaceceasiodeiLetters，2007,3（4)：390-394.  \n[1]JacobsP，MunD.Conservationwitquitytrategiesforsustainabledevelpnt/ProcedingsofteCofereceoCoseatiodDevelopment:ImplementingtheWorldConservationStrategyOtawa，Canada；InterationalUnionforonservationofNatureandNaturalResources，1987.  \n[12］俞孔坚，段铁武，李迪华，彭晋福.景观可达性作为衡量城市绿地系统功能指标的评价方法与案例.城市规划，199,23（8）：8-11,43-43.  \n[13］卢银桃，王德.美国步行性测度研究进展及其启示.国际城市规划，2012，27(1)：10-15.  \n[14]DuncastadtJaleellakeVaifaotiailitalysoUS metropolitan areas.International Journal of Environmental Research and Public Health,2O11,8（12）：4160-4179.  \n[15]CarrDusigerS,MarcusBWalkSorsaglobalstiateofeigodwalkabiltyAmecanJoualofPrevetiediin2010,39(5):460-463.  \n[16］吴健生，秦维，彭建,李卫锋.基于步行指数的城市日常生活设施配置合理性评估——以深圳市福田区为例.城市发展研究，2014,21(10): 49-56.  \n［17］刘迎宾.深圳市桃源街区可步行性测度及验证研究[D].深圳：哈尔滨工业大学，2013.  \n[18] 深圳市城市管理局.深圳市福田区2010年底公园汇总表.（201-07-28）[2016-11-01].ttp://www.szum.gov.cn/zfwg/tjsj/zxtjx/201107/t20110729_1710724.htm.  \n[19]深圳市规划和国土资源员会.福田区规划绿地分布图.（201-9-01）[2015-05-07].tp://ww.szpl.gov.cn/xgk/tzg/csghgg/20109/P020110919428453756316.jpg.  \n[20] 卢宁，李俊英，闫红伟，施拓，李应.城市公园绿地可达性分析——以沈阳市铁西区为例.应用生态学报，2014，25(10)：2951-2958.  \n[21] 柏中强，王卷乐，杨飞．人口数据空间化研究综述.地理科学进展，2013，32（11)：1692-1702.  \n[22] 叶靖，杨小唤，江东.乡镇级人口统计数据空间化的格网尺度效应分析——以义乌市为例.地球信息科学学报，2010,12（1)：40-47.  \n[23］唐奇，许新宜，俞淞，信达.基于GIS 的人口空间离散化方法及其应用——以北方地区为例.北京师范大学学报：自然科学版，2012，48(6): 654-658.  \n[24]Wu JS,Li JC,Peng J,Li WF,Xu G,Dong C C. Applying land use regresion model to estimate spatial variationof $\\mathrm { P M } _ { 2 . 5 }$ in Beijing， China.Environmental Science and Pollution Research,2015,22(9）：7045-7061.  \n[25］曾祥贵，赖格英，易发钊，张玲玲.基于GIS 的小流域人口数据空间化研究—以梅江流域为例.地理与地理信息科学，2013,29（6)：40-44.  \n[26］宋菊芳，刘盼盼.GIS 在城市公园绿地可达性分析中的方法与应用.中华建设，2014，（6)：94-95.  \n[27］鄢进军，丁真兵，郑凌予,秦华.基于GIS-Network Analyst的重庆城市公园绿地可达性分析.西南大学学报：自然科学版,2013,35（12)：153-158.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,128 @@
+临床研究
+
+# 急性ST段抬高型心肌梗死患者外周血apelin的水平变化及意义
+
+申健',张旭²,李志明',谢桂庭',农盛雄'，申源生惠州市中心人民医院 $^ 1 \cdot \cdot =$ 血管内科，药剂科，广东 惠州 516001摘要：目的 探讨急性ST段抬高型心肌梗死患者apelin水平变化的意义与一年预后的关系。方法 测定93位接受直接PCI的STEMI患者、30位接受择期PCI的STEMI患者、30位接受择期PCI的稳定型心绞痛患者及10位健康志愿者不同时段外周血apelin水平,同时收集相应的临床资料。行冠脉造影术后予以Gensini评分。在患者入院时及随访一年(或终点事件)时评估左室射血分数(LVEF)。结果 STEMI患者外周血apelin水平降低,直接PCI后apelin水平上升,差异有统计学意义;择期PCI的STEMI患者PCI术后apelin水平无显著变化，且低于接受直接PCI的患者;apelin水平与糖化血红蛋白负相关;一年随访表明，apelin水平降低与低LVEF相关,但难以预测一年终点事件。结论 外周血apelin可能为急性ST段拾高型心肌梗死即时及预后的参考指标。
+
+关键词：急性心肌梗死;apelin;NT-proBNP;预后
+
+# Peripheral blood apelin level in patients with acute ST-elevation myocardial infarction and its prognostic value
+
+SHEN Jian,ZHANG $X u ^ { 2 } ,$ LI Zhiming, XIE Guiting,NONG Shengxiong',SHEN Yuansheng Departmentofdiosularsepametfcyoicialtalsital,o
+
+Abstract: Objective To investigate peripheral blood apelin levels in patients withacute ST-elevation myocardial infarction (STEMI)and their corelation with the one-year outcomeof the patients.Methods A totalof 153 consecutive patients, including 93 withacute STEMI undergoing primarypercutaneouscoronary intervention (PCI),30 withacute STEMIand 30 with stable angina allundergoing elective PCI,and10 healthycontrol subjects were examined for peripheral blood apelin levels and clinical parameters.The composite endpoints (CEPs)were determined attheone year folow-up.Results Apelin levels were sigificantlydecreasedinallthepatientsatadmision,butincreasedfollowing primaryC.Apelinlevelsowed a negative correlation with glycosylated hemoglobin levels.Atone year following PCI,te patients withalower apelin level showedanincreasedriskforloweredleftventricularejectionfractionratio,butfurtheranalysisfailedtoprovideevidencethat apelin levelswere predictiveof theone-yearoutcome.Conclusion Peripheral bloodapelin levels might beuseful for predicting the clinical outcomes of patients with acute STEMI.
+
+Key words: acute myocardial infarction; apelin; NT-proBNP; prognosis
+
+急性ST段抬高型心肌梗死(acuteST-elevationmyocardialinfarction,STEMI)是威胁人类生命健康的主要心血管疾病之一。
+
+研究表明心血管系统是apelin-APJ受体系统的主要作用靶点之一，apelin参与急性心肌梗死病理生理过程[1-2]。但心肌梗死后外周血apelin动态演变规律和预后价值如何，能否作为急性心肌梗死的检验指标之一，研究尚少。故本研究拟通过分析急性心肌梗死患者外周血中apelin水平的变化，探讨apelin与心功能乃至疾病预后的关系。
+
+# 1材料及方法
+
+# 1.1 患者分组及分层
+
+连续纳人2011年1月\~2013年3月93例行直接PCI术的急性ST段抬高型心肌梗死患者（直接PCI组）、30名未接受直接PCI的STEMI患者(择期PCI组）30名稳定型心绞痛患者(SA组)及10名健康志愿者作为对照组。所有STEMI患者根据心脏彩超EF测定值分为EF正常及EF降低两层，根据是否有2型糖尿病分为2型糖尿病亚组和非2型糖尿病亚组。排除标准：既往有心梗病史的患者;合并严重心脏瓣膜病变;心肌病;先天性心脏病；其它原因导致的慢性心力衰竭；严重肝肾功能不全；严重感染等。
+
+# 1.2临床处理、标本采集及随访
+
+所有STEMI患者均符合2012年第3次心肌梗死全球通用定义的1型心肌梗死标准3。患者均予急性心肌梗死常规治疗：(1)入院后立即予阿司匹林 $3 0 0 ~ \mathrm { { m g + } }$ 氢氯吡格雷 $3 0 0 ~ \mathrm { { m g } }$ ，以及按体质量计算的负荷量肝素；
+
+(2)负荷量次日即接受双联抗血小板治疗(阿司匹林$1 0 0 ~ \mathrm { { m g + } }$ 氢氯吡格雷 $7 5 ~ \mathrm { m g }$ );(3)入组患者中，所有确诊2型糖尿病的患者均接受胰岛素治疗；(4)介入治疗后，所有患者双联抗血小板治疗至少持续1年，或至复合终点事件发生。直接PCI组患者分别在入院时、再灌注后$2 4 \mathrm { h }$ 、出院前(第7\~14天）、1年后随访监测apelin,在入院时及入院后第5天检测NT-proBNP及收集其它必要的临床资料。在直接PCI组中随机抽取9例患者，分别在入院时、PCI术后及出院时采集外周血单个核细胞(PBMC),Western blot检测apelin蛋白水平;择期PCI组患者包括因各种因素(如患者症状缓解，且已超过急诊再灌注治疗时机)未能接受直接PCI治疗的STEMI患者[3],其药物治疗策略与PCI组患者相同,此组患者行择期PCI术，人院时及术后采集标本。在择期PCI组患者中随机选取6例患者，分别于人院时及PCI术后采集PBMC,Westernblot检测apelin蛋白水平。SA组患者接受足疗程的双联抗血小板治疗，之后行择期PCI术，入院时、术后、出院及随访时采集标本。为每位患者的Gensini总积分，评估冠脉病变严重程度。若患者发生主要心血管事件(MACE),包括心血管死亡、非致命性心肌梗死、心脏停搏复苏、冠脉血运重建、致命性和非致命性卒中、因心衰或不稳定型心绞痛再次入院，则视为随访终点(composite endpoint,CEP)。本实验所涉及的患者及健康志愿者均知情同意本研究，并签署相关知情同意书，本研究符合赫尔辛基宣言中的伦理学标准。
+
+# 2.3标本检测及保存
+
+标本NT-proBNP及apelin水平检测：血浆NTproBNP水平检测采用床边干免疫法(cobash232POCsystem,Roche Diagnostics,Switzerland),血浆apelin水平采用RIA法(apelin-36,RIA,Phoenix,Cat-No.RK-057-15,LKB-Wallace Mini Gamma 1275， Turku,Finland)。apelin测定单位:pmol/L。
+
+Western Blot:采用 Apelin Antibody(Human,Rat,Mouse）（Santa cruz biotechnology，Cat-No.sc-33804,10410 Finnell Street,Dallas,Texas 75220,U.S.A.)为一抗。手术时留取动脉血标本 $2 0 \mathrm { m l }$ ，用淋巴细胞分离液经密度梯度法分离PBMC,收获细胞，提取蛋白，Westernblot检测蛋白，WO-9413B型凝胶成像系统自带软件Gelpro32分析条带。
+
+标本保存：采集静脉血标本后以 $2 0 0 0 \times \mathrm { g }$ 离心取得血浆， $- 8 0 \ \mathrm { { ^ circ C } }$ 保存至检测为止，保存时间小于等于3个月。提取蛋白存放于 $- 8 0 \mathrm { { ^ { \circ } C } }$ ，时间小于1月。
+
+# 2.4数据处理及统计分析
+
+所有统计学数据采用SigmaPlot12.5软件进行分析。连续变量结果以均值 $\stackrel { \cdot } { \_ }$ 标准差表示，非连续变量以四分位数(中位数，第一四分位数一第3四分位数)形式表示。独立变量均值之间的比较使用T检验或单因素方差分析(F检验)。多样本均数间的多重比较时，若方差齐性，采用LSD法检验，若同质性检验证实方差不齐，则使用Welch-Aspin法近似F检验、采用Dunnett'sT3法进行多重比较。对相应指标进行相关关系分析，并绘制受试者工作曲线，计算曲线下面积,分析其预测价值。所有检验所得 $P$ 值均为双侧数据， $P$ 值 $< 0 . 0 5$ 被认为有统计学意义。
+
+# 3结果
+
+3.1直接PCI组、择期PCI组和SA组的基线数据资料比较
+
+虽然3组间相比许多基线数据有统计学差异，但直接PCI组和择期PCI组相比，各种基线资料相比均无统计学差异 $( P { > } 0 . 0 5 )$ 。STEMI患者（直接PCI组 $^ +$ 择期PCI组)2型糖尿病、高血压病、外周动脉疾病及吸烟史比例较SA组显著增多( $P { < } 0 . 0 5 )$ ,其LDL、TG、肌酐、糖化血红蛋白、Gensini评分显著增高，差异有统计学意义中 $( P { < } 0 . 0 5 )$ ;STEMI患者LVEF比SA组减低,差异有统计学意义( $\scriptstyle \phantom { + } P < 0 . 0 5$ ，表1)。
+
+# 3.2各组患者apelin水平比较
+
+两组STEMI患者入院时apelin水平无显著差异$( P { > } 0 . 0 5 )$ ,但较SA及健康对照显著降低 $( P { < } 0 . 0 5 )$ ；直接PCI组患者术后apelin水平较术前及择期PCI术后显著升高 $( P { < } 0 . 0 5 )$ ，在出院时仍维持在升高后的水平，但仍较SA及健康对照显著降低 $( P { < } 0 . 0 5 )$ 。1年随访,直接PCI组患者apelin水平有所降低，但较入院时相比差异仍有统计学意义 $( P { < } 0 . 0 5 )$ 。择期PCI组、SA组患者apelin水平术前、术后及1年随访水平无显著变化 $( P { > } 0 . 0 5 )$ O
+
+免疫印迹结果显示PBMC中apelin变化趋势与血浆中类似(图2)。两组STEMI患者入院时apelin水平无显著差异( $\scriptstyle P = 0 . 3 4 0 )$ ,但直接PCI组术后apelin水平显著降低( $_ { \scriptstyle P = 0 . 0 0 1 }$ ，图2A,B)。
+
+# 3.3Gensini评分、糖化血红蛋白、CK-MB/肌钙蛋白T与apelin相关关系分析
+
+Gensini评分与糖化血红蛋白具有相关性(Pearson法， $P { = } 0 . 0 1 4$ ),相关系数为0.198；Gensini评分与患者入院时apelin水平负相关 $( P { = } 0 . 0 0 2 )$ ，相关系数为 ${ } . 0 . 2 7 \mathrm { }$ 0在控制糖化血红蛋白变量后进行偏相关分析，Gensini评分与患者入院时apelin水平仍具有负相关关系( $P =$ 0.001)，相关系数为 $. 0 . 2 9 7$ 。CK-MB和肌钙蛋白T均与apelin负相关，相关系数分别为-0.2930 $\scriptstyle P = 0 . 0 0 4 ,$ 与-0.317中 $\scriptstyle ( P = 0 . 0 0 2 )$ 。糖尿病患者与非糖尿病患者相比,apelin水平显著降低( $scriptstyle \overbrace { P = 0 . 0 0 0 }$ ，图未显示）。
+
+# 3.4入院NT-proBNP与apelin预测LVEF
+
+直接PCI组和择期PCI组中，低EF的患者与EF正常的患者相比，人院NT-proBNP水平显著增高( $P =$ 0.000，图3A)。此外，低EF的患者与EF保留的患者相比，入院apelin水平显著降低( ${ \it P } { = } 0 . 0 0 0$ ，图3B)。以灵敏度为纵坐标，(1-特异度)为横坐标绘制受试者工作曲线(ROC）,直接PCI组入院时apelin与NT-proBNP对EF降低的预测价值相当,NT-proBNP曲线下面积稍高于apelin;但在择期PCI组中,apelin的预测价值要显著高于NT-proBNP( $\scriptstyle \overbrace { P < 0 . 0 5 }$ ,图3C,D)。SA组患者因EF均正常，未纳入比较。
+
+表1各组的基线数据资料Tab.1 Baseline data of the three groups of participants  
+
+<html><body><table><tr><td>Category</td><td>Primary PCI group</td><td>Selective PCI group</td><td>Stable angina group</td><td>P value"</td></tr><tr><td>Age (years)</td><td>64.0, 55.5-73.0</td><td>64.0, 52.3-71.5</td><td>60.5, 53.5-75.3</td><td>0.752</td></tr><tr><td>Gender (male/female)</td><td>68/25</td><td>13/17</td><td>18/12</td><td>0.671</td></tr><tr><td>Hypertension</td><td>36 (38.71%)</td><td>11 (36.67%)</td><td>5 (16.67%)</td><td>0.028</td></tr><tr><td>(Diabetes or prediabetes)</td><td>40 (43.01%)</td><td>13 (43.33%)</td><td>6 (20.00%)</td><td>0.036</td></tr><tr><td>Peripheral arterial disease</td><td>5 (5.38%)</td><td>1 (3.33%)</td><td>0 (0.00%)</td><td>0.011</td></tr><tr><td>Smoking</td><td>43 (46.24%)</td><td>12 (40.00%)</td><td>9 (30.00%)</td><td>0.121</td></tr><tr><td>Peak CK-MB value</td><td>139.44±73.72</td><td>43.69±22.54</td><td></td><td></td></tr><tr><td>cTnT (ng/L)</td><td>1204±613</td><td>1086±580</td><td></td><td></td></tr><tr><td>LDL-C (mmol/L)</td><td>2.41±1.20</td><td>2.45±1.32</td><td>1.98±1.63</td><td>0.042</td></tr><tr><td>TG (mmol/L)</td><td>2.06±1.21</td><td>1.98±1.55</td><td>1.64±1.52</td><td>0.045</td></tr><tr><td>Creatinine (μmol/L)</td><td>91.10±22.79</td><td>82.90±23.43</td><td>77.70±18.38</td><td>0.026</td></tr><tr><td>Glycosylated hemoglobin (%)</td><td>5.5, 4.9-7.4</td><td>5.6</td><td>5.0, 4.8-6.6</td><td>0.015</td></tr><tr><td>LVEF for the first time (%)</td><td>51,47-58</td><td>48,41-55</td><td>66, 65-68</td><td>0.011</td></tr><tr><td>Gensini score</td><td>54.0,26.0-81.5</td><td>53.5,28.5-82.3</td><td>37.5, 16.5-60.5</td><td>0.021</td></tr></table></body></html>
+
+a.All the $P$ values calculatedabove involved thestableangina group,whereas no statisticsignificant diference was foundbetweenprimary PCI group and selective PCI group.
+
+![](images/7589bec765c839ee86ef9c28437804a9543c19be5989b1062071c5e9b669a1e4.jpg)  
+图1各组受试者外周血apelin水平变化趋势 Fig.1 Variation tendencies of peripheral blood apelinlevel of in each group.Solid line: Average level of healthy controls; Dotted line: Standard error of healthy controls.
+
+# 3.5随访结果及终点事件预测
+
+随访1年后，直接PCI组CEP发生率为 $7 . 5 \%$ ,死亡1例;择期PCI组CEP发生率为 $1 3 . 3 \%$ ,失访1例,死亡1例；SA组CEP发生率为 $3 . 3 \%$ ，无死亡病例。择期PCI组CEP发生率较直接PCI组显著升高 $\scriptstyle ( P = 0 . 0 0 0 )$ U
+
+虽然STEMI和SA患者中发生终点事件与未发生终点事件入院时apelin水平对比有显著差异！ $( P { < } 0 . 0 5$ ，图4A),但ROC分析表明入院时及出院时apelin均无法预测1年后CEP;入院时NT-proBNP水平预测CEP的价值亦较低(图未显示);cTnT与Gensini预测CEP事件价值较高(图4B）。
+
+# 4讨论
+
+Apelin家族是血管紧张素家族中新发现的小分子血管活性肽类，为血管紧张素II受体样蛋白J受体(Angiotensin II ProteinJreceptor,APJ受体)的天然配体，是一种重要的内源性生理调节肽，既是循环激素，又可能通过旁分泌、自分泌形式而发挥作用;apelin-APJ系统参与血压调节、动脉粥样硬化、血管新生、糖脂代谢、细胞增殖及免疫应答等病理生理过程[4]。apelin-APJ系统主要在中枢神经系统和心血管系统中表达，且后者是其主要作用靶点，参与心血管系统的平衡调节[2]。
+
+Apelin基因定位于X染色体长臂上，表达产物为77个氨基酸的前肽(prepropeptide),后经肽链内切酶切割成分子结构不同的生物活性形式，如apelin-36,apelin-13,apelin-12等,尚不清楚不同结构的apelin在心肌梗死中的表达及生物活性有何差异，而不同学者也曾采用不同结构的apelin进行实验[5-7]。鉴于此,本实验采用具有交叉反应性的试剂盒，反映的是总体apelin水平。
+
+![](images/d089103e0bb2a28d5ade06b2a2ebc4688a9c915892e092fe022f6600b86d8f8b.jpg)
+
+![](images/7a9d131e5962c8379ca47ec9c6fca7fe11129a1355ae17643c5d4ef66bf4a055.jpg)  
+图2A:直接PCI组及择期PCI组中患者Westerm blotting曝光显色、灰度扫描结果趋势比较;B:直接PCI组 (上)及择期PCI组(下)中各一例STEMI患者Western bloting曝光显色、灰度扫描结果 Fig.2 Changes of relative levels of apelin peptide in patients following primary PCI and selective PCI (A)and representative image of Western bloting (B) for STEMI patient undergoing primary (upper) and elective (lower) PCI. O.A $scriptstyle \cdot = \mathrm { O n }$ admission; P.PCI=After PCI; O.D $scriptstyle \ldots = \mathrm { O n }$ discharge.   
+图3A:NT-proBNP与EF的关系;B:apelin与EF的关系;C:直接PCI组评价NT-proBNP及apelin预测LVEF价值 的ROC曲线; $D$ ：择期PCI组评价NT-proBNP及apelin预测LVEF价值的ROC曲线 Fig.3 $A$ : NT-proBNP levelsand EF at time of admission.B: Apelin levels and EFonadmission.C:ROC of apelin and NT-proBNP in predicting LVEF inprimary PCI group.D: The ROC of apelinand NT-proBNPin predicting LVEF in selective PCI group.
+
+心梗后循环apelin水平变化规律和意义是本研究的重点之一。Tycinska等报道心梗患者循环apelin水平降低。本研究同样发现心梗患者外周血apelin水平降低,但接受直接PCI的患者外周血apelin水平显著回升，并可维持较长时间;择期PCI患者apelin水平在PCI术后及随访一年后只有小幅回升，且无统计学意义。本实验还证实，低EF的患者入院apelin水平显著降低，且肌钙蛋白T与CK-MB的峰值与入院apelin水平负相关。故我们推测外周血apelin水平可能与梗死面积、心功能状态及心肌重构程度有关，其可能的机制为心力衰竭早期apelin水平代偿性增加,心力衰竭晚期随着心功能的恶化,apelin水平可能失代偿性地降低。STEMI患者因冠脉完全闭塞，心肌细胞大量坏死,故早期apelin水平即失代偿降低，及时开通罪犯血管可部分逆转这一改变并使其代偿作用得以体现，而在未及时开通罪犯血管的择期PCI组患者，apelin维持在较低水平。
+
+![](images/2976249cf44261039a1dfdec8cbc57fc71c05c6d936fd2f1a00b9bc299aa5746.jpg)  
+图4A:发生终点事件与未发生终点事件入院时apelin水平对比.空心点:显著离群值;B:入院时 apelin,出院时apelin,Gensini和cTnT预测CEP的ROC曲线 Fig.4A:Apelin levels at time of admission in patients with and without CEP.B:The ROCs of each indexesin predicting CEP.NO: patients without CEP; YES: patients with CEP; holow points: significant outlier. \*The ROC of cTnT onlyincludes data from primary PCI group,for cTnT values from selective PCI group may be inaccurate.
+
+本实验发现心肌梗死患者PBMC中apelin含量降低，与循环apelin降低相一致。Ronkainen等8-9报道缺氧可诱导心肌细胞apelin表达上调,其后一些动物实验和临床观察均证实,缺血缺氧可诱导apelin表达上调[0]那么，心梗后为何会出现PBMC中apelin含量降低？我们推测其原因可能包括：(1)心梗患者apelin需要量增加,消耗增多导致PBMC中apelin含量降低;(2)心肌坏死导致apelin产量下降，导致循环apelin水平降低；(3)高表达apelin的PBMC迁移，单纯提取外周血无法获得此类PBMC。导致PBMC中apelin含量减少的原因需要进一步研究。
+
+本研究发现糖尿病患者与非糖尿病患者相比，外周血apelin水平显著降低。外周血apelin水平与糖化血红蛋白水平呈负相关，且在稳定型冠心病患者中也是如此。此外,控制糖化血红蛋白变量后进行偏相关分析发现,apelin与Gensini仍有显著负相关关系。Attane等[]报道，apelin-13可显著促进小鼠脂肪氧化及增强细胞线粒体功能，改善胰岛素抵抗。最近研究表明其可能有独立的抗动脉粥样硬化作用。Leeper等[12]发现,apelin对ApoE基因缺失小鼠动脉粥样硬化有明显保护作用。Kadoglou等[13认为，外周血apelin水平与Gensini积分负相关,而Cosansu等[14]却认为apelin与Gensini积分无关。以上相互矛盾的研究结果，可能的原因包括：(1)入选患者标准中未考虑apelin对糖代谢的影响；(2)入选患者人群的差异。
+
+最后，本研究分析了外周血apelin水平与1年预后的关系。众所周知，心梗后心肌重构激活并影响患者预后。研究表明，APJ受体是一个重要的机械刺激信号靶点，而apelin可以通过激活APJ受体发挥保护心肌的作用，同时还可以抑制压力负荷诱导的APJ受体活化，说明apelin是压力负荷的对抗剂,有潜在抑制心肌重构的作用[15-16]。Rastaldo 和Tempel等认为,apelin对心肌局部缺血有保护作用，可以促进新生血管、限制梗死面积等[17-18]。综上我们推测,apelin水平与心梗患者预后有关。NT-proBNP水平对急性心肌梗死患者预后及心功能具有预测价值，而Gensini积分则是评估冠脉病变较为客观的指标之一[20]。因此,我们将NT-proBNP水平和Gensini积分与外周血apelin水平作对比,评估apelin水平对LVEF和CEP的预测价值。结果发现直接PCI组入院时外周血apelin水平对LVEF的预测价值与NT-proBNP相当,且NT-proBNP要稍好于apelin;但在择期PCI组中，入院NT-proBNP预测价值大幅降低，而apelin水平仍能较好的预测LVEF。我们推测，这与NT-proBNP水平本身波动较大有关，因为择期PCI组患者心功能往往相对稳定。同时，入院、出院时apelin水平的预测价值无显著差别。令人失望的是，虽然到达
+
+CEP的患者外周血apelin水平较未到达CEP的患者显著降低，但apelin水平对CEP的预测价值差。与此同时,cTnT、NT-proBNP和Gensini积分对CEP的预测价值均明显高于apelin。总之,Apelin降低时预测CEP的特异性较高、敏感性较低，故我们认为外周血apelin水平无法作为预测CEP的指标。
+
+Apelin作为血管紧张素家族的一员,应用ACEI $. { \beta }$ 受体阻滞剂对其表达和外周血水平有无影响不得而知，本研究也未涉及。本研究虽然对外周血apelin水平变化的原因做了推测，但并未证实其下降的原因。此外，本研究总样本量不多，而蛋白水平检测抽样较少，可能影响结果。以上问题有待进一步研究。
+
+# 参考文献：
+
+[1]Atluri P,Morine KJ,Liao GP,et al. Ischemic heart failure enhances endogenous myocardial apelin and APJ receptor expression[J].Cell Mol Biol Lett,2007,12(1): 127-38.   
+[2]Maguire JJ,Davenport AP. Regulation of vascular reactivity by established and emerging GPCRs[J]. Trends Pharmacol,2005(26): 448-54.   
+[3]Li J,Li X,Wang Q,et al. ST-segment elevation myocardial infarction in China from 2001 to 2011 (the China PEACERetrospective Acute Myocardial Infarction Study):a retrospective analysis of hospital data[J].Lancet,2014,pi: S0140-6736(14) 60921-1.[Epub ahead of print].   
+[4]Masri B,Knibiehler B,Audigier Y.Apelin signalling:a promising pathway from cloning to pharmacology[J].Cell Signal,2005,17 (4): 415-26.   
+[5]Pisarenko OI,Pelogeykina YA,Bespalova ZhD,et al.Limitation of myocardial infarction by a structural analog of the peptide apelin-12 [J].Dokl Biol Sci,2012,443(443): 65-7.   
+[6]Tycinska AM,Sobkowicz B,Mroczko B,et al．The value of apelin-36 and brain natriuretic peptide measurements in patients with first ST-elevation myocardial infarction[J].Clin Chim Acta, 2010,411(23/24): 2014-8.   
+[7]Lee DK,Saldivia VR,Nguyen T,et al. Modification of the terminal residue of apelin-13antagonizes its hypotensive action [J]. Endocrinology,2005(146): 231-6.   
+[8]Ronkainen VP,Ronkainen JJ,Hanninen SL,et al. Hypoxia inducible factor regulates the cardiac expression and secretion of apelin. FASEB j.2007,21: 1821-30.   
+[9］和亚萍,魏 盟,刘铭雅,等.大鼠心肌梗死后早期Apelin的表达上调 [J].中国临床医学,2007,14(4): 462-4.   
+[10]Heo K,Kim YH, Sung HJ,et al. Hypoxia-induced up-regulation of apelin is associated with a poor prognosis in oral squamous cell carcinoma patients[J]. Oral Oncol,2012,48(6): 500-6.   
+[11]Attane C,Foussal C,Le Gonidec S,et al. Apelin treatment increases complete fatty acid oxidation,mitochondrial oxidative capacity,and biogenesis in muscle of Insulin-Resistant mice[J].Diabetes,2012, 61(2): 310-20.   
+[12]Leeper NJ, Tedesco MM, Kojima YA,et al. Apelin prevents aortic aneurysm formation by inhibiting macrophage inflammation [J]. Am JPhysiol Heart Circ Physiol, 2009,296(5): H1329-35.   
+[13] Kadoglou NP, Sailer N, Moumtzouoglou A,et al. Adipokines: a novel Link between adiposity and carotid plaque vulnerability[J]. Eur JClin Invest,2012,42(12): 1278-86.   
+[14]Cosansu K, Cakmak HA,Ikitimur B,et al.Apelin in ST segment elevation and non-ST segment elevation acute coronary syndromes: a novel finding[J].Kardiol Pol,2014,72(3): 239-45.   
+[15]Charo DN,Ho M,Fajardo G,et al.Endogenous regulation of cardiovascular function by apelin-APJ[J].Am JPhysiol Heart Circ Physiol,2009(297): H1904-13.   
+[16]Scimia MC,Hurtado C,Ray S,et al.APJ acts as a dual receptor in cardiac hypertrophy[J]. Nature,2012,488(7411): 394-8.   
+[17]Tempel D,De Boer M, Van Deel ED,et al.Apelin enhances cardiac neovascularization after myocardial infarction by recruiting aplnr plus circulating cells[J]. Circ Res,2012,111(5): 585-98.   
+[18]Rastaldo R,Cappello S,Folino A,Losano G. Effect of apelin-apelin receptor system in postischaemic myocardial protection:a pharmacological postconditioning tool[J].Antioxid Redox Sign,2011, 14(5): 909-22.   
+[19]Tunon J,Blanco-Colio L,Cristobal C,et al.Usefulness of a combination of monocyte chemoattractant protein-1,galectin-3,and N-Terminal probrain natriuretic peptide to predict cardiovascular events in patients with coronary artery disease[J].Am J Cardiol, 2014,113(3): 434-40.   
+[20] Zencirci AE, Zencirci E, Degirmencioglu A,et al. The relationship between Gensini score and ST-segment resolution in patients with acute ST-segment elevation myocardial infarction undergoing primary percutaneous coronary intervention[J].Kardiol Pol, 2014, 72(6): 494-503. (编辑.呈锦雅)

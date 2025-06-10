@@ -1,0 +1,303 @@
+·元分析(Meta-Analysis):
+
+# 自尊与社交焦虑的关系：基于中国学生群体的元分析
+
+张亚利」　李　森」俞国良²(中国人民大学教育学院；²中国人民大学心理研究所，北京 100872)
+
+摘要运用元分析方法探讨自尊与社交焦虑的关系。经过文献检索和筛选，共纳入原始文献 58 篇，含58个独立样本，被试总数达 32181名。根据同质性检验结果，选择随机效应模型分析发现，自尊与社交焦虑存在中等程度的负相关 $( r = - 0 . 3 5 , 9 5 \% \mathrm { C I }$ 为[-0.39,-0.31])，社交焦虑测量工具类型能够显著调节两者的关系，但性别和被试类型对二者的关系不存在显著的调节效应。结果表明个体的自尊水平与社交焦虑关系密切，支持了自尊的恐惧管理理论和社交焦虑认知理论。未来应开展纵向研究或实验研究来揭示自尊与社交焦虑的因果关系。
+
+关键词自尊；社交焦虑；元分析；交往焦虑；社交回避及苦恼
+
+分类号 R395
+
+1引言
+
+社交焦虑(Social Anxiety，SA)是最普遍的焦虑形式之一(Fernández,Pedreira，Boccia，&Kaczer，2018)，通常始于儿童期或青少年期，初现平均年龄在14至16岁之间(褚晓伟，范翠英，柴唤友，宋快,2016; Iverach & Rapee,2014; Ran,Zhang,& Huang,2018)，严重的将会发展成为精神障碍(Pontillo et al.,2017；张陆，卞玉薇，王雅丽，游志麒,2018)。国内外调查发现处于高社交焦虑状态的人群比例在 $2 7 . 2 \% { \sim } 4 2 . 0 \%$ 之间(李静，魏晓宇，黄娅，李雅琳，刘虹雨,2015;Pontillo et al.,2017;Rietdijk et al.,2013)，在美国，社交焦虑障碍更是成为了仅次于重度抑郁和酒精依赖的第三大心理问题(Kessler et al.,2005)。社交焦虑不仅会降低主观幸福感和友谊质量、损害社交功能(Azad-marzabadi& Amiri,2017；李宗波，王婷婷，梁音，王明辉,2017)，程度严重的还会致使个体出现诸如攻击性行为、网络过激行为等非适应性行为(丁子恩，笑涵，刘勤学,2018;Dixon,Tull,Lee,Kimbrel,& Gratz,2017)。由于社交焦虑的多发性及其影响的广泛性，近年来持续受到研究者的关注。
+
+大量研究探讨了社交焦虑的风险因子，其中自尊被认为是与其关系最密切的一个(Bowles,2017;Hiller,Steffens,Ritter,& Stangier,2017；刘广增，潘彦谷，李卫卫，孟亚运，张大均,2017)。围绕两者的关系，国内诸多研究进行了讨论与分析，然而得出结果差异较大,r值从-0.16到-0.61均有报告（卜钰，陈丽华，郭海英，林丹华,2017；丁子恩等,2018；李静等，2015;Tan,Lo,Ge,&Chu,2016)。所以，自尊与社交焦虑之间相关程度如何，是否受研究特征的干扰就成了需要进一步探讨的问题。此外，国外已有研究对自尊与焦虑的关系进行了元分析(Sowislo&Orth,2013)，结果发现两者的关系较为密切且可以相互预测。然而，该研究且仅着眼于分析自尊与广泛性焦虑的关系，未对不同形式的焦虑进行探讨。社交焦虑不同于广泛性焦虑，二者虽有共同特征，但在思维内容、回避表现、发生敏感期等方面均存在质的差别(American Psychiatric Association,2013)。因此，本研究采用更全面、更准确、更综合的元分析(meta-analysis)方法，基于国内对自尊与社交焦虑的关系进行分析并探讨可能对二者关系产生影响的调节变量，可以避免单个研究中受样本容量、地域限制等因素影响而使结果产生偏差，有利于从宏观的角度得出更普遍、更准确的结论。同时，基于本研究的开源数据亦能为日后的进一步研究打下基础。
+
+# 2文献综述与理论假设
+
+# 2.1 文献综述
+
+# 2.1.1 自尊的概念及测量
+
+对自尊的界定，学术界有三种不同的看法(方平，马焱，朱文龙，姜媛，2016)。第一种是以James为代表的能力观，其将自尊看作对自身能力的一种衡量、估计和评判。第二种是以Rosenberg为代表的价值观，认为自尊是对自我是否有价值的或积极或消极的态度(Rosenberg,1965)。第三种观点恰好整合了前两种看法，认为自尊不应是单一的成分，而应是包含胜任力和价值感的复杂心理特质(Branden，1969)，该观点成为当下研究重要的取向之一。虽然不同学者对自尊的看法莫衷一是，但总体而言，自尊被看作是一种能够对个体产生多方影响的稳定而统一的人格品质，是个体对自己的欣赏、重视、认可或喜欢的程度(Abdollahi &Abu Talib,2016)。自尊测验一般分为对内隐自尊和外显自尊的测查。前者主要基于内隐联想范式；后者一般基于标准化的心理测验，使用范围最广的当属 Rosenberg (1965)编制的自尊量表(Self-esteem Scale，SES)，该工具为单因子测验，用于测量个体对自己整体的认知评价，适用于青少年(13\~17岁)、成人(18\~64 岁)和老年人(65岁以上)，共包含 10个题目，其中5个条目为反向计分。另外，Tafarodi和 Swann (2001)编制的二维自尊量表使用范围也较为广泛，共由16个题目构成，包含对自身能力与价值两个维度的评价。由于外显与内隐自尊具有分离性(李志勇，吴明证,2013)，且外显自尊与社交焦虑的研究文献较为丰富，因此本研究只考察外显自尊。
+
+# 2.1.2社交焦虑的概念与测量
+
+社交焦虑是儿童和青少年的一个突出问题，指不合理的和过分的惧怕人际互动以及自己在社交场合的表现，具体表现为在社交场合中强烈的紧张不安、苦恼的情绪体验以及回避社会交往的行为倾向(Bowles，2017；潘朝霞，张大均，潘彦谷，胡天强，2018；Vassilopoulos,Brouzos,Moberly,Tsorbatzoudis,& Tziouma,2017;Van Zalk & Tilfors,2017)。国内主要使用如下几类工具对其测量：(1）Watson 和 Friend(1969)编制社交回避及苦恼量表(SocialAvoidance and Distress Scale，SADS)，含社交回避和社交苦恼两个因子，共 28 个项目。(2)Feingstein 等人(1975)编制的社交焦虑量表(Social Anxiety Subscale of the Self-ConsciousnessScale，SAS)，属单维度结构，含6个题目。(3)Leary(1983)编制的交往焦虑量表(Interaction
+
+Anxiousness Scale,IAS)，属单维度结构，由15个题目组成，用于评定独立于行为之外的社交焦虑主观体验倾向。(4）Mattick 和Clarke(1998)编制的社交互动焦虑量表(Social InteractionAnxiety Scale,SIAS)，属单维度结构，包括20 个题目。(5)La Greca,Dandes,Wick, Shaw 和Stone (1988)编制的儿童社交焦虑量表(Social Anxiety Scale for Children,SASC)，包括害怕否定评价、社交回避及苦恼两个因子，共10个题目，适用于7\~16岁的儿童青少年。国内对社交焦虑的测查使用最多的是交往焦虑量表(IAS)。
+
+# 2.2 理论假设
+
+# 2.2.1 自尊与社交焦虑的关系
+
+自尊是自我系统的重要成分，亦是人格的核心因素之一(晏碧华，兰继军，邹泓，2008),能够对个体的认知系统及行为调控系统产生重要影响(高爽，张向葵，徐晓林，2015；Park,Kim,Kwon,&Lee,2018)，诸多研究发现自尊与社交焦虑存在着密切关系，两者不仅存在显著相关且前者亦是后者的有效预测因子（卜钰等，2017；张伟玲，2016)，对此有以下几种解释：
+
+首先，自尊的恐惧管理理论(Greenberg et al.,1992)认为自尊的作用是保护人们免受先天的对死亡的畏惧所产生的焦虑困扰以及摆脱所正在经历的焦虑。该理论有两个基本假设，即“焦虑缓解器假设"和"死亡凸显性假设”。其中，“焦虑缓解器"假设直接将自尊看成是应对焦虑的天然缓冲器，认为自尊的自我调节机制所提供的弹性空间能够帮助人们缓解社交焦虑(丁子恩等,2018)。自尊水平较高的个体具有较强的社交自我效能，自尊对个体的自我调节功能得以有效发挥，使得个体在社交情景中的表现更加主动和积极，对他人更加信任且在与他人的交往过程中心态更加理性和平和(Berger,Keshet,&Gilboa-Schechtman,2017；刘广增等,2017)，因而较少体验到社交焦虑。实证研究也表明，自尊可以通过影响人际信任水平进而作用于个体的社交焦虑(李静等,2015)。其次，社交焦虑的认知模型认为社交焦虑者由于早期不愉快的经历，会形成一些消极信念，例如"我不行”，这些消极的信念让社交焦虑者将社交情境知觉为危险的。此时，它们将注意力转到自身，用自身内部的信息来推断他人对自己的认知(Cheng,Zhang,&Ding,2015;Ran etal.,2018)，如自己体验到扭曲的自我形象，便会认为他人也是这么评价自己的，因此会产生紧张、惶恐、低头、目光回避等一系列的社交焦虑表现(Cheng et al.，2015)。低自尊者对自身的评价是消极的，这种消极的信念被储存在记忆中,在社交情景中被自动激活，导致对形势出现错误的理解并催生强烈的社交焦虑情绪(Hiller etal.,2017)。实证研究也发现，低自尊者因过于关注来自他人的负面评价、对他人的拒绝更加敏感，导致了在社交情景中焦虑水平的上升(何霞红，2013；钟佑洁，张进辅，2011)；自尊水平较高的个体自我概念更加清晰，在社交活动中对来自他人的负面评价能够形成正确的归因和解释，不易生成焦虑情绪(刘广增等,2017)。最后，社会计量模型认为，自尊本质上是衡量社交关系的标准，它能够反映个体被周围群体的接纳和认可程度并为个体从事相应的交际活动提供一定的指示。低自尊者与社会的联结比较弱，弱化的社会联结使低自尊者对社会规范的适应较差(施国春，张丽华，范会勇，2017)，进而导致个体在交往过程中缺少安全感、缺乏互动的主动性和积极性，更易出现社交焦虑(李静等,2015)。综上，本研究提出假设1:
+
+自尊与社交焦虑存在一定程度的负相关。
+
+# 2.2.2 调节效应分析
+
+国内在近20年的时间里，广泛开展了自尊与社交焦虑之间的相关研究，但研究结果却不尽相同，这可能与研究对象的性别以及测验工具的选择等因素有关。
+
+性别可能影响自尊与社交焦虑的关系。首先，从人格特征来看，相较于男性，女性的心思较为细腻，对社交情景中的负面评价更加敏感(Ranetal.，2018；万鹏宇，林忠永，冯志远，陈露露，杨新国,2017)。因此，低自尊的女性，由于对自身价值感的怀疑，往往在社交情境中更加惧怕他人的否定评价，担心自己不受欢迎，体验到的社交焦虑更强，而低自尊的男性，面对同样的社交情境则表现的更为豁达，不太关注他人的评价，体验到的社交焦虑水平较低(王建平，马林芳，2002)。其次，从心理弹性水平来看，元分析研究表明男生的心理弹性水平高于女性(逯嘉等,2014)。这使得男性更容易从消极经历中恢复过来，并且更灵活的适应外界多变的环境。因而低自尊的男性往往更容易走出自我价值不足和能力欠缺的阴影，更加从容的开展社交活动，社交焦虑水平同女性相比更低(张伟玲，2016)。综上，本研究提出假设2：性别能够在自尊与社交焦虑的关系中起到调节作用。
+
+研究工具也可能影响自尊与社交焦虑的关系。本次纳入元分析的文献中社交焦虑测量工具的使用较为多样化，不同问卷的维度划分、题目数量、计分方法等均存在着差别，可能对研究结果产生影响。例如，基于前文的分析发现,SADS和SASC均属于多维度问卷，测量较为全面，而 SAS、IAS 和 SIAS 均为单维度问卷，潜在特质测量较为单一，大都主要关注社交焦虑主观体验而不重视对社交焦虑外在行为表现的测查;SADS 共包含28个题目,SAS 则仅仅包含6个项目，虽然测量形式变得极其简洁，但不可避免的会损失掉部分信息。因此，本研究提出假设3：社交焦虑测量工具种类会调节自尊与社交焦虑的关系。
+
+不同年龄被试群体间自尊与社交焦虑的关系也可能存在差别。自尊在人的一生中是逐渐发展和完善起来的，但存在着发展的阶段性和不平衡性。小学儿童的自尊随着经验的增加逐渐丰富，到青春期开始出现剧烈的波动，一般到高中或大学阶段自尊的发展才趋于稳定和成熟(林崇德，杨治良，黄希庭，2003)。因此，自尊在不同年龄阶段的发展水平可能影响对社交焦虑的应对。此外，施国春等人(2017)针对自尊与攻击性的元分析表明，两者的相关性受到不同年龄群体的调节，中学群体的自尊和攻击性相关系数最大。本研究将被试人群分为小学生、中学生和大学生(含专科生、本科生和研究生)，基于以上所述提出假设 4：不同年龄群体对自尊与社交焦虑关系具有调节效应。
+
+# 3研究方法
+
+# 3.1文献检索和筛选
+
+首先，按顺序依次在中国知网、万方、维普数据库将关键词"自尊"分别与"社交焦虑”“交往焦虑”、“互动焦虑”、“社会焦虑”、“社交回避苦恼"匹配，分别进行检索，搜索篇名中包含此类关键词的期刊与硕博论文。之后，在Web of Science 核心合集、PubMed、Science Direct、Springer Online Journals 数据库中分别进行检索，将关键词：“self esteem"分别与"socialanxiety”、“interaction anxiousness”、“interaction anxiety”、“social avoidance distress"搭配，搜索篇名中包含此类关键词的文献，截止日期为2018年11月。共检索到文献377篇。
+
+使用 EndNoteX9 导入文献并遵照如下标准进行筛选：(1)报告了自尊与社交焦虑的具体数据(如相关系数、样本量)且无明显错误;(2)必须对测量工具有明确介绍;(3)数据重复发表的仅取其一;(4)研究对象非特殊人群，如留守儿童、灾区学生、残疾人等。本研究参考以往文献(刘宇等,2018;Moher,Liberati,Tetzlaff,&Altman,2009)建立的文献筛选流程见图1。
+
+![](images/af6750bb8773a70672e62c42b04fad9ff08d494a623faef0f4f00f49bb7aee25.jpg)  
+图1元分析文献筛选流程图
+
+# 3.2文献质量评估与编码
+
+根据专家建议并参照实验和干预类研究评价条目与标准(如Jadad量表)自行编制相关类元分析文献质量评价量表，包括(1)被试的选取。随机选取计2分，非随机选取计1分，未报告计0分。(2)数据有效率。数据有效率在0.9及以上计2分，介于0.8\~0.9之间计1分，0.8以下及未报告的计0分。(3)测量工具的内部一致性信度。信度在0.8及以上计2分，介于0.7\~0.8之间计1分,0.7以下及未报告的计0分。(4)刊物级别。按级别CSSCI(含扩展版)及SSCI期刊 $>$ 北大核心期刊 $>$ 普通期刊及未公开发表的论文分别计2分、1分和0分。最终计算每条文献的总分，介于0\~10之间，得分越高表明文献质量越好。该评价过程由两位评分者独立完成，两者编码完成后计算评价者一致性Kappa 值为0.946。根据Kappa 值的判断标准：0.40\~0.59之间为一致性好，在0.60\~0.74之间为相当好，0.75及以上为一致性非常好(Orwin,1994)，本研究中两名评分者的一致性达到了较高的水平。
+
+对最后纳入元分析的文献的研究特征进行编码，包括被试类型、男性比例等。该过程由2名编码者各自独立完成，最终获得两份编码结果，两份结果中编码出现不一致的数据，经
+
+过查看原始文献进行更正。具体情况见表1。
+
+表1纳入分析的原始研究的基本资料  
+
+<html><body><table><tr><td>第一作者</td><td>发表年份</td><td>被试数</td><td>相关系数</td><td>调查对象</td><td>发表类型</td><td>测量工具</td><td>男性比</td><td>文献质量</td></tr><tr><td>钟佑洁</td><td>2011</td><td>655</td><td>-0.44</td><td>本科生</td><td>期刊</td><td>SIAS</td><td>0.60</td><td>8</td></tr><tr><td>李静</td><td>2015</td><td>665</td><td>-0.283</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.33</td><td>6</td></tr><tr><td>晏碧华</td><td>2008</td><td>259</td><td>-0.218</td><td>本科生</td><td>期刊</td><td>SAS</td><td>0.37</td><td>7</td></tr><tr><td>李志勇1</td><td>2013</td><td>191</td><td>-0.509</td><td>本科生</td><td>期刊</td><td>SADS</td><td>0.33</td><td>8</td></tr><tr><td>丁子恩</td><td>2018</td><td>382</td><td>-0.16</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.39</td><td>9</td></tr><tr><td>张伟玲</td><td>2016</td><td>947</td><td>-0.418</td><td>本科生</td><td>期刊</td><td>SADS</td><td>0.51</td><td>4</td></tr><tr><td>何霞红</td><td>2013</td><td>673</td><td>-0.17</td><td>专科生</td><td>期刊</td><td>IAS</td><td>无</td><td>5</td></tr><tr><td>沈晨</td><td>2010</td><td>148</td><td>-0.25,-0.31</td><td>本科生</td><td>期刊</td><td>SADS</td><td>0</td><td>3</td></tr><tr><td>卜钰</td><td>2017</td><td>797</td><td>-0.42,-0.39</td><td>小学生</td><td>期刊</td><td>SASC</td><td>0.54</td><td>6</td></tr><tr><td>周英</td><td>2013</td><td>2626</td><td>-0.299</td><td>中学生</td><td>期刊</td><td>IAS</td><td>0.06</td><td>6</td></tr><tr><td>刘广增</td><td>2017</td><td>644</td><td>-0.32</td><td>中学生</td><td>期刊</td><td>SAS</td><td>0.42</td><td>7</td></tr><tr><td> Jianfeng Tan</td><td>2016</td><td>508</td><td>-0.55</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.35</td><td>8</td></tr><tr><td>Gang Cheng</td><td>2015</td><td>717</td><td>-0.55</td><td>本科生</td><td>期刊</td><td>SIAS</td><td>0.38</td><td>2</td></tr><tr><td>徐云</td><td>2015</td><td>385</td><td>-0.263</td><td>小学生</td><td>期刊</td><td>SASC</td><td>0.49</td><td>3</td></tr><tr><td>熊晓美</td><td>2011</td><td>164</td><td>-0.387</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.1</td><td>1</td></tr><tr><td>孙配贞</td><td>2008</td><td>46</td><td>-0.443</td><td>中学生</td><td>期刊</td><td>IAS</td><td>0.46</td><td>7</td></tr><tr><td>王媛丽</td><td>2015</td><td>58</td><td>-0.427</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.48</td><td>3</td></tr><tr><td>金晓雨</td><td>2013</td><td>540</td><td>-0.34</td><td>本科生</td><td>期刊</td><td>SAS</td><td>0.31</td><td>5</td></tr><tr><td>陈洁</td><td>2010</td><td>340</td><td>-0.34</td><td>本科生</td><td>期刊</td><td>SAS</td><td>0.38</td><td>0</td></tr><tr><td>苏倩怡</td><td>2015</td><td>285</td><td>-0.421</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.44</td><td>8</td></tr><tr><td>刘小珍</td><td>2017</td><td>588</td><td>-0.38</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.37</td><td>8</td></tr><tr><td>韦耀阳</td><td>2015</td><td>366</td><td>0.126</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.14</td><td>7</td></tr><tr><td>陈佳薇</td><td>2014</td><td>341</td><td>-0.416</td><td>本科生</td><td>期刊</td><td>IAS</td><td>无</td><td>8</td></tr><tr><td>李志勇2</td><td>2014</td><td>563</td><td>-0.457</td><td>本科生</td><td>期刊</td><td>SADS</td><td>0.34</td><td>2</td></tr><tr><td>张继安</td><td>2014</td><td>122</td><td>0.376</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.57</td><td>7</td></tr><tr><td>刘冉</td><td>2012</td><td>250</td><td>-0.36</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.49</td><td>5</td></tr><tr><td>司徒巧敏</td><td>2007</td><td>88</td><td>-0.382</td><td>本科生</td><td>期刊</td><td>IAS</td><td>无</td><td>2</td></tr><tr><td>阴云航</td><td>2018</td><td>440</td><td>-0.26</td><td>中学生</td><td>期刊</td><td>SAS</td><td>0.4</td><td>5</td></tr><tr><td>闫秀峰</td><td>2012</td><td>924</td><td>-0.223</td><td>5~8年级学生</td><td>期刊</td><td>SASC</td><td>0.53</td><td>4</td></tr><tr><td>李越</td><td>2018</td><td>308</td><td>-0.351</td><td>小学和中学生</td><td>期刊</td><td>SASC</td><td>0.4</td><td>7</td></tr><tr><td>高文凤</td><td>2000</td><td>487</td><td>-0.461</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.58</td><td>2</td></tr><tr><td>王宇</td><td>2016</td><td>365</td><td>-0.31</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.2</td><td>8</td></tr><tr><td>陆润豪</td><td>2018</td><td>314</td><td>-0.36</td><td>小学生</td><td>期刊</td><td>SASC</td><td>0.57</td><td>7</td></tr><tr><td>王文娟</td><td>2008</td><td>333</td><td>-0.335</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.45</td><td>4</td></tr><tr><td>尹洪菊</td><td>2010</td><td>136</td><td>-0.501</td><td>本科生</td><td>期刊</td><td>IAS</td><td>无</td><td>4</td></tr><tr><td>韩思竹</td><td>2015</td><td>290</td><td>-0.27</td><td>本科生</td><td>期刊</td><td>SIAS</td><td>0.32</td><td>7</td></tr><tr><td>邹志礼</td><td>2012</td><td>568</td><td>0.305</td><td>小学生</td><td>期刊</td><td>SASC</td><td>0.52</td><td>5</td></tr><tr><td>孙晓玲</td><td>2011</td><td>411</td><td>-0.17</td><td>本科生</td><td>期刊</td><td>IAS</td><td>0.65</td><td>2</td></tr><tr><td>潘朝霞</td><td>2018</td><td>1459</td><td>-0.43</td><td>中学生</td><td>期刊</td><td>SADS</td><td>0.47</td><td>10</td></tr><tr><td>谭宇军</td><td>2014</td><td>295</td><td>-0.61</td><td>本科生</td><td>学位论文</td><td>IAS</td><td>0.46</td><td>6</td></tr><tr><td>沈贵兰</td><td>2017</td><td>709</td><td>-0.457</td><td>小学生</td><td>学位论文</td><td>SASC</td><td>0.53</td><td>7</td></tr></table></body></html>
+
+<html><body><table><tr><td>莫家琪</td><td>2017</td><td>774</td><td>-0.305</td><td>本科生</td><td>学位论文</td><td>IAS</td><td>0.45</td><td>5</td></tr><tr><td>孙荣光</td><td>2008</td><td>840</td><td>-0.378</td><td>本科生</td><td>学位论文</td><td>IAS</td><td>0.42</td><td>5</td></tr><tr><td>高蕾</td><td>2008</td><td>227</td><td>-0.471</td><td>本科生</td><td>学位论文</td><td>IAS</td><td>0.46</td><td>2</td></tr><tr><td>陈斯颖</td><td>2014</td><td>525</td><td>-0.464</td><td>本科生</td><td>学位论文</td><td>IAS</td><td>0.39</td><td>3</td></tr><tr><td>赵飞飞</td><td>2010</td><td>815</td><td>-0.323</td><td>本科生</td><td>学位论文</td><td>IAS</td><td>0.44</td><td>6</td></tr><tr><td>刘翻</td><td>2013</td><td>282</td><td>-0.485</td><td>本科生</td><td>学位论文</td><td>IAS</td><td>0.26</td><td>2</td></tr><tr><td>孙易卓</td><td>2015</td><td>2770</td><td>-0.52</td><td>中学生</td><td>学位论文</td><td>SIAS</td><td>0.49</td><td>8</td></tr><tr><td>肖飞</td><td>2012</td><td>244</td><td>-0.31</td><td>本科生</td><td>学位论文</td><td>IAS</td><td>0.49</td><td>2</td></tr><tr><td>宁雅童</td><td>2016</td><td>621</td><td>-0.422</td><td>本科生</td><td>学位论文</td><td>IAS</td><td>0.63</td><td>6</td></tr><tr><td>闫晓钒</td><td>2015</td><td>277</td><td>-0.335</td><td>研究生</td><td>学位论文</td><td>SADS</td><td>0.3</td><td>2</td></tr><tr><td>王晶</td><td>2013</td><td>437</td><td>-0.27</td><td>研究生</td><td>学位论文</td><td>IAS</td><td>0.55</td><td>4</td></tr><tr><td>刘灵</td><td>2012</td><td>1123</td><td>-0.437</td><td>小学生</td><td>学位论文</td><td>SASC</td><td>0.52</td><td>7</td></tr><tr><td>张静</td><td>2013</td><td>403</td><td>-0.17</td><td>小学生</td><td>学位论文</td><td>SASC</td><td>无</td><td>1</td></tr><tr><td>朱鸿博</td><td>2016</td><td>997</td><td>-0.43</td><td>本科生</td><td>学位论文</td><td>SADS</td><td>0.49</td><td>4</td></tr><tr><td>张明月</td><td>2009</td><td>184</td><td>-0.443</td><td>中学生</td><td>学位论文</td><td>IAS</td><td>0.46</td><td>1</td></tr><tr><td>孙传英</td><td>2013</td><td>756</td><td>-0.38</td><td>本科生</td><td>学位论文</td><td>IAS</td><td>0.32</td><td>7</td></tr><tr><td>周卉</td><td>2014</td><td>519</td><td>-0.48</td><td>本科生</td><td>学位论文</td><td>SADS</td><td>0.48</td><td>8</td></tr></table></body></html>
+
+注：表中相关系数为原始研究中的零阶相关系数。
+
+# 3.3 元分析过程
+
+# 3.3.1 数据的摘取与转换
+
+使用Excel2007录入原始文献零阶相关系数，若原始文献仅报告了自尊与社交焦虑各个子维度相关系数，则按照Fisher $Z - r$ 转换表，先将其分别转化为Fisher $Z$ 分数再求其均分，然后再转换为相关系数进行录入；采用相关系数 $\boldsymbol { r }$ 作为效果量指标，将每项研究的 $\boldsymbol { r }$ 值转换为对应的Fisher $Z$ 分数，然后再将 $Z$ 值加权转换为相关系数，最终得到总体效应值。具体计算公式为： $\begin{array} { r } { Z _ { r } = 0 . 5 * \ln { ( \frac { 1 + \mathrm { r } } { 1 - \mathrm { r } } ) } , V _ { Z } = \frac { 1 } { \mathrm { N } - 3 } , S E _ { Z } = \sqrt { \mathrm { V } _ { \mathrm { Z } } } , W = N - 3 . } \end{array}$ 其中 $Z _ { r }$ 代表相关系数经过转换对应的费舍 $z$ 值, $V _ { Z }$ 为方差, $S E _ { Z }$ 为标准误, $W$ 代表方差权重的倒数(高爽等,2015)。
+
+# 3.3.2 模型选定与异质性检验
+
+目前元分析主要采用固定效应模型或随机效应模型。前者假定不同研究间的真实效应值相同，研究结果间的差别是由随机误差导致；后者假定不同研究间的真实效应可以不同，研究结果的不同除了受随机误差影响外，还受研究群体差异等因素的影响(Borenstein,Hedges,Higgins,&Rothstein,2009)。本研究梳理文献发现，自尊与社交焦虑的关系可能受年龄阶段、测量工具等因素的影响，因而采用随机效应模型进行元分析。此外，通过异质性检验(heterogeneity test)，验证随机效应模型选择的适切性，检验方法主要有 $\boldsymbol { Q }$ 检验和 $I ^ { 2 }$ 检验。 $\boldsymbol { \mathscr { Q } }$ 检验假定效应量服从卡方分布，若 $p < 0 . 0 5$ ，则说明研究间是异质的(丁凤琴，赵虎英,2018)。$I ^ { 2 }$ 衡量的是各个研究所致的而非抽样误差所引起的变异(异质性)占总变异的百分比, $I ^ { 2 }$ 高于$7 5 \%$ 为高异质性(Higgins,Thompson,Deeks,& Altman,2003)。若异质性检验结果显著或 $I ^ { 2 }$ 呈现高异质性，则选择随机效应模型更合适，反之，选用固定效应模型更合适。
+
+# 3.3.3 出版偏倚检验
+
+出版偏倚(publication bias)意味着被发表的文献不能系统全面地代表该领域已经完成的研究总体(丁凤琴，赵虎英,2018;Rothstein,Sutton,&Borenstein,2005)。它会影响元分析结果的可靠性，规避途径之一是尽可能将那些结果不显著的或未发表的学位论文、个人手稿等纳入元分析。本研究不仅尽可能搜集了未发表的研究资料，还通过漏斗图(funnelplot)、Egger's检验并结合更新的 $p$ -curve 技术检验发表偏差。漏斗图本质上是一个散点图，横轴为效果量大小，纵轴为样本量多寡，如果不存在偏倚，则图形中的各点应汇集成一个大致对称的(倒置的)漏斗；Egger 线性回归的结果不显著，则视为不存在发表偏差; $p$ -curve 检验，如果某一研究的效应量是存在的，那么 $p$ 值分布应该是右偏态的，也就是说 $p$ 值在0\~0.025 的数量会超过其在0.025\~0.05的数量，反之，则存在发表偏差(赖丽足，任志洪，陶嵘，2018;Simonsohn,Simmons,& Nelson,2015)。
+
+# 3.3.4 数据处理与分析
+
+运用Comprehensive Meta-Analysis Version 2.0 (CMA 2.O)进行元分析主效应检验和调节效应检验[包括亚组分析和元回归分析(无约束极大似然法)]，若调节效应不显著则使用JASP7.2进行贝叶斯因子估计，检验结果是否支持零假设。针对研究假设1，通过对自尊与社交焦虑关系的主效应分析对该假设进行验证，如果主效应显著且呈一定程度的负相关，则支持了假设，如果主效应不显著或未成一定程度的负相关，则不支持假设。由于本研究假设不同研究间的真实效应值存在差异，因此选用亚组分析和元回归分析进一步考察异质性的来源。针对假设2，由于男性比例是连续变量，因而采用元回归分析检验其调节作用。以男性比例为预测变量，自尊与社交焦虑关系的效应值为因变量构建回归方程，若方程显著则支持了假设，反之则不支持假设。针对假设3，采用基于方差分析的Q检验法进行亚组分析，按社交焦虑测量工具种类将自尊与社交焦虑的效应值分组，计算总体变异(所有研究对象总的变异)并将其分割为组内变异(各亚组内研究对象的变异)和组间变异(各小组间的效应量均值变异)，对这些变异进行Q检验，若组间变异显著，则支持了假设，否则不支持假设。同理，针对假设4，按被试群体分组并采用基于方差分析的Q检验法进行检验，若组间变异显著，则支持了假设，否则不支持假设。
+
+# 4研究结果
+
+# 4.1文献纳入与质量评估
+
+元分析共纳入58篇研究，含58个独立样本，样本量达32181人。包括中文文献56篇，英文文献2篇；涵盖小学生、中学生和大学生。文献质量评价分数的均值为5.10，整体随研究年代呈上升趋势(图2)，其中有 23条文献评分低于理论均值5分，需谨慎对待此类文献对研究结果的影响(元分析数据详见https://osf.io/23b7r/)。
+
+![](images/3018fb39e5d498cdeb53f5e0e784d3bc952a356b2e5a9015d77f32014f776c39.jpg)  
+图2研究质量变化趋势
+
+# 4.2 同质性检验
+
+$\boldsymbol { \mathcal { Q } }$ 检验结果为911.45 $( p < 0 . 0 0 1 )$ ）， $I ^ { 2 }$ 值为 $9 3 . 7 5 \%$ 超过了 $7 5 \%$ 。说明结果异质，也表明自尊与社交焦虑的关系中有 $9 3 . 7 5 \%$ 的变异是由效应值的真实差异引起的，即研究间的变异不仅受到抽样误差的影响，还受组间误差的影响，接下来的元分析适合选用随机效应模型。该结果也提示，不同研究间的估计值差异可能受到了一些研究特征因素的干扰，有必要探讨影响两者关系的调节变量。
+
+表2效应值的同质性检验结果 $( Q$ 统计)  
+
+<html><body><table><tr><td rowspan="2">模型</td><td rowspan="2">研究数</td><td colspan="4">同质性</td><td colspan="4">Tau-squared</td></tr><tr><td>Q值</td><td>df(Q)</td><td>p</td><td>I-squared</td><td>Tau Squared</td><td>SE</td><td>方差</td><td>Tau</td></tr><tr><td>随机模型</td><td>58</td><td>911.45</td><td>57</td><td>0.000</td><td>93.75</td><td>0.03</td><td>0.01</td><td>0.00</td><td>0.17</td></tr></table></body></html>
+
+# 4.3 发表偏差检验
+
+漏斗图(图3)显示，效应值集中在图形上方且均匀分布于总效应的两侧；Egger 线性回归的结果不显著，截距为2.08, $9 5 \% \mathrm { C I }$ 为[-0.75,4.92], $p$ 值为0.15; $p$ -curve 检验的结果(图4)表明曲线呈右偏态分布，进一步检验发现结果显著的58个样本具有证据价值 $( Z = - 4 5 . 3 5$ ， $p <$ 0.001)。这表明本研究不存在严重发表偏差，元分析的结果较为稳定可靠。
+
+![](images/0b6f8a0b16e97fd666f2b8fec7d3193549502307ac4d58d0bce16e8d3f6becf7.jpg)  
+图3效应值分布漏斗图
+
+![](images/986905d414eb5377aac784770dd24ea17974e3f3ee3882ca383f525b5a06a444.jpg)  
+Note:The observed $p$ curve includes58 statisticallysignificant $( p < . 0 5 )$ results, of which 58 are $p < . 0 2 5$ There were no non-significant results entered.   
+图4 $p$ 曲线分布
+
+# 4.4 主效应检验
+
+采用随机效应模型综合探讨自尊与社交焦虑的整体性关联程度，结果（表3）显示两者的相关系数为-0.35，效果量的 $9 5 \%$ 的置信区间为[-0.39，-0.31]，不包含0。根据Lipsey 和Wilson (2001)的评价准则，本文获得的效果量远高于 0.1，可以认为二者存在中等程度的负相关。对效果量的敏感性分析表明，排除任意一个样本后的效果量 $\boldsymbol { r }$ 值在 $- 0 . 3 4 \sim \ - 0 . 3 6$ 之间浮动。根据森林图，同时剔除三项高异质性文献后(韦耀阳,2015；张继安，丁园园,2014；邹志礼等,2012)自尊与社交焦虑的效应量 $r = - 0 . 3 8 , p < 0 . 0 0 1$ ；根据文献质量评分，删除低于5分的23条文献后(详见表1)，自尊与社交焦虑的效应量 $r = - 0 . 3 3 , p < 0 . 0 0 1$ 。以上结果均表明效应值具有较高的稳定性。
+
+表3自尊与社交焦虑关系随机模型分析  
+
+<html><body><table><tr><td rowspan="2">模型</td><td rowspan="2">研究数</td><td rowspan="2">N</td><td colspan="2">效应值及95%的置信区间</td><td colspan="2">双尾检验</td></tr><tr><td>点估计 下限</td><td>上限</td><td>Z</td><td>p</td></tr><tr><td>随机效应</td><td>58</td><td>32181</td><td>-0.35</td><td>-0.39 -0.31</td><td>-15.79</td><td>0.000</td></tr></table></body></html>
+
+# 4.5 调节效应检验
+
+调节效应分析的结果表明：(1)性别对自尊与社交焦虑关系的调节作用不显著。元回归分析(53项研究)结果显示，男性比例未能显著预测两者的关系 $( b = - 0 . 0 7 , \mathrm { z } = - 0 . 3 8 , 9 5 \%$ 的置信区间为[-0.46,0.31])。贝叶斯回归分析显示，贝叶斯因子 $B F _ { I O }$ 为0.29，根据判定标准(胡传鹏，孔祥祯，Wagenmakers，Ly，彭凯平，2018)，说明有中等程度的证据认为自尊与社交焦虑的关系不存在性别差异。(2)社交焦虑测量工具能够对自尊与社交焦虑的关系产生显著的调节。亚组分析结果显著，其 $\boldsymbol { \mathcal { Q } }$ 值(组间)为24.34, $p < 0 . 0 0 1$ ，使用 SASC 和 SAS 测得的相关程度较低，使用 SIAS 测得的相关程度最高。(3)研究对象类别对自尊与社交焦虑关系的调节效应不显著。亚组分析(56项研究)显示其 $\boldsymbol { \mathcal { Q } }$ 值(组间)为1.27, $p > 0 . 0 5$ ，结果不显著，但需要指出的是，中学生中测得的相关程度有高于小学生和大学生的趋势。贝叶斯方差分析的结果也显示 $B F _ { I O }$ 为0.37，说明仅有较弱的证据认为自尊与社交焦虑的关系不受对象类别影响。亚组分析结果见表4，贝叶斯分析结果见表5。
+
+表4相关因素对自尊与社交焦虑关系的调节效应检验  
+
+<html><body><table><tr><td rowspan="2">调节变量</td><td colspan="3">异质性检验</td><td rowspan="2">类别</td><td rowspan="2">K</td><td rowspan="2">N</td><td colspan="3">95%CI</td><td rowspan="2"></td><td colspan="2">双侧检验</td></tr><tr><td>QB</td><td>df</td><td>p</td><td></td><td>点估计</td><td>下限</td><td>上限</td><td>Z P</td></tr><tr><td rowspan="4">测验工具</td><td rowspan="4">24.34</td><td rowspan="4">4</td><td rowspan="4">0.000</td><td>IAS</td><td>32</td><td>14894</td><td>-0.35</td><td>-0.39</td><td>-0.29</td><td></td><td>-12.52</td><td>0.000</td></tr><tr><td>SADS</td><td>8</td><td>5101</td><td>-0.42</td><td>-0.46</td><td>-0.39</td><td>-19.70</td><td></td><td>0.000</td></tr><tr><td>SAS</td><td>5</td><td>2223</td><td>-0.30</td><td>-0.35</td><td>-0.26</td><td></td><td>-13.34</td><td>0.000</td></tr><tr><td>SASC</td><td>9</td><td>5531</td><td>-0.27</td><td>-0.41</td><td>-0.11</td><td></td><td>-3.30</td><td>0.001</td></tr><tr><td rowspan="4">对象类别</td><td rowspan="4">1.27</td><td rowspan="4">2</td><td></td><td>SIAS</td><td>4</td><td>4432</td><td>-0.46</td><td>-0.54</td><td></td><td>-0.37</td><td>-8.75</td><td>0.000</td></tr><tr><td></td><td>大学生</td><td>42</td><td>18481</td><td>-0.36</td><td>-0.40</td><td>-0.32</td><td>-15.25</td><td></td><td>0.000</td></tr><tr><td>0.530</td><td>小学生</td><td>7</td><td>4299</td><td>-0.27</td><td>-0.45</td><td>-0.06</td><td></td><td>-2.49</td><td>0.013</td></tr><tr><td></td><td>中学生</td><td>7</td><td>8169</td><td>-0.39</td><td>-0.48</td><td>-0.29</td><td></td><td>-7.32</td><td>0.000</td></tr></table></body></html>
+
+注： $K$ 代表独立效果量的个数; $N$ 代表样本量, $Q _ { B }$ 代表异质性检验统计量， $9 5 \% C \mathrm { I }$ 为亚组效果量 $\boldsymbol { r }$ 的 $9 5 \%$ 的置信区间;“大学生”专科生、本科生和研究生。
+
+表5贝叶斯分析  
+
+<html><body><table><tr><td></td><td>Models</td><td>P (M)</td><td>P (Mldata)</td><td>BFM</td><td>BF10</td><td>%error</td></tr><tr><td>回归分析</td><td>Null model</td><td>0.500</td><td>0.777</td><td>3.484</td><td>1.000</td><td></td></tr><tr><td></td><td>性别</td><td>0.500</td><td>0.223</td><td>0.287</td><td>0.287</td><td>0.003</td></tr><tr><td>方差分析</td><td>Null model</td><td>0.500</td><td>0.730</td><td>2.710</td><td>1.000</td><td></td></tr><tr><td></td><td>对象类别</td><td>0.500</td><td>0.270</td><td>0.369</td><td>0.369</td><td>0.031</td></tr></table></body></html>
+
+# 5讨论
+
+# 5.1自尊与社交焦虑的主效应
+
+本研究通过对国内近20年来的58项研究进行元分析，对自尊与社交焦虑的相关程度进行了分析和回答，研究发现自尊与社交焦虑呈中等程度的负相关，即自尊水平较低的个体其社交焦虑水平要比一般人更高。该结果与多项研究结果较为一致(Abdollahi&Abu Talib,2016;潘朝霞等,2018;Tan etal.,2016)，也验证了本研究提出的假设1。尽管本研究无法确认二者之间的因果关系，但可以认为社交焦虑的确是存在于低水平自尊个体中的一种负性情绪。
+
+该结果符合自尊恐惧管理理论的观点，自尊是个体对自我能力感和价值感的整体评价，低自尊者往往怀疑自身的能力，更容易进行自我贬损，这使得自尊的自我调节机制所提供的弹性空间受到压缩(刘广增等，2017)，自尊的保护作用不能正常发挥，进而使个体无法有效摆脱和缓解社交情景中的焦虑情绪，因而社交焦虑水平较高(Pan,Zhang,Hu,& Pan,2018)。反之，自尊水平较高的个体对自身的评价较为积极，具有较强的社交自我效能，能够有效发挥自身的调节机制，在与他人的交往过程中不畏惧、不逃避，能够更加从容、积极和主动的处理社交问题(丁子恩等,2018)并能与他人建立良好的互动关系(Berger et al.,2017)，因而社交焦虑水平较低，这正验证了自尊是一种"焦虑缓解器"的假说。
+
+该结果同样是对社交焦虑认知理论的佐证，该理论认为不良的自我图式或消极信念是社交焦虑产生的根源(Berger et al.,2017)。这种消极的信念被储存在记忆中，在社交情景中将被自动激活，于是一个以消极的方式评价自己的人，便认为他人也以同样的方式评价自己(Cheng etal.,2015)，这种预期的负面评价最终导致社交焦虑的出现(肖崇好，黄希庭,2011)。个体的低自尊水平表明个体对自身价值和能力的认同感较低，属于一种消极的自我认知。这种不良的信念使其在人际交往中，更容易认为他人会给予自己消极的评价，倾向于把社交情境知觉为是危险的，于是焦虑感便油然而生(Cheng et al.,2015;Ran et al.,2018)。实证研究也发现，低自尊者因过于关注来自他人的负面评价、对他人的拒绝更加敏感，导致了在社交情景中焦虑水平的上升(何霞红,2013；钟佑洁，张进辅,2011)。
+
+该结果提示培养自尊品质在缓解社交焦虑方面有着巨大的价值。但另一方面，自尊与社交焦虑的相关仅处于中等水平，说明并不是所有的低自尊个体都必然会存在社交焦虑问题，除了自尊，还有其它因素与社交焦虑存在着联系。高爽等(2015)对中国大学生群体进行的元分析发现，自尊与 SCL-90中的焦虑因子也存在中等程度的负相关。本研究结果与此较为接近，但效应量略高于自尊与焦虑的相关。这表明尽管低自尊者社交焦虑水平较高，但总体上看并没有达到临床上的社交焦虑障碍水平，因此，不可过分夸大低自尊者社交焦虑的危险性。
+
+# 5.2自尊与社交焦虑相关的调节效应
+
+研究结果显示，性别对自尊与社交焦虑的关系的调节作用不显著，进一步的贝叶斯回归分析也显示有中等程度的证据认为自尊与社交焦虑的关系不受性别的影响。因此，该结果未能支持假设2，表明自尊与社交焦虑的关系可能存在跨性别的稳定性，即低自尊伴随的社交焦虑问题普遍存在于不同性别的群体间。虽然已有研究表明女性对社交情境中负面评价的敏感性高于男性，心理弹性水平低于男性，且女性机体内有助于缓解焦虑体验、改善心境的化学物质——五羟色胺及精氨酸抗利尿激素的含量低于男性(逯嘉等 2014；Nishizawa et al.,
+
+1997;de Vries& Sodersten,2009；万鹏宇等,2017)，这可能使得低自尊女性的社交焦虑水平更高。但本研究在更全面、更综合的视角下认为其不存在性别差异，这与Abdollahi 和 AbuTalib (2016)等人研究的结果一致。这可能是因为女生的情绪智力水平、共情能力均优于男生、在人际交往中更善于沟通、亲和力更佳(刘亮，刘翠莲，赵旭东，2017；张冲，邹泓，2009；张亚利等，2018)，这在一定程度上会弥补女性在心理弹性以及激素分泌等方面的劣势，使得女性得以借助社交技巧的优势来缓解社交情境中的尴尬和焦虑感。因此，低自尊女性的社交焦虑水平并不比男性更高。由此可见，男女性别间各自具有的独特优势，均能够帮助个体在一定程度上缓解社交焦虑感，但随着自尊水平的降低，男女生的社交焦虑水平均会在一定程度上增加。所以，自尊与社交焦虑的关联可能不会由于性别的不同而产生显著差别。另外，由于仅有中等程度的证据认为自尊与社交焦虑不存在性别差异，未来可进一步验证该结论是否稳健。
+
+元分析结果发现，不同社交焦虑测量工具测得的自尊与社交焦虑的相关系数具有显著差别，采用 SADS 和 SIAS 测得的相关系数较高，采用 SASC 和 SAS 测得的相关系数较低。表明测量工具的不一致性会导致测验结果出现差异，验证了假设3。使用SAS和SASC测得的相关系数较低可能与量表的题目较少有关。SAS取自Fenigstein,Scheier 和Buss (1975)编制的自我意识量表中的社交焦虑分量表，原作者本意是将其联合其他成分用于测查自我意识的发展状况，而非独立设计出来的专门反映社交焦虑状况的详实量表。该量表仅6个题目，虽能在一定程度上反映个体的社交焦虑状况，但难免会损失一些必要信息，SASC 量表与此类似，仅仅包含10个题目。其次，这两种量表设计的题目涵盖的内容相当广泛，超出了焦虑的范围，如涉及到羞怯、窘迫等方面的测量，因此，内部效度较低(汪向东，王希林，马弘，1999)。SIAS 和SADS 测得的相关系数较高，可能是由于构成问卷的题目较多，可以更全面、准确地反映不同社交情形与场景下个体的焦虑表现和症状，不仅可以详细测查社交焦虑的内部心理变化，还涉及到社交焦虑的外部行为表现。这一结果提示未来在使用社交焦虑测查工具时应该选择测量较为全面的量表，而不应仅仅考虑量表题目数量的简短，过于简洁的量表测量的内部效度会有所降低，就本结果而言 SIAS 和SADS均是将来研究的良好选择。
+
+元分析还发现，被试类型的调节效应不显著。我们基于文献中提供的年级信息，将其分成三个发展阶段的群体：小学生、中学生和大学生。结果表明中学生自尊与社交焦虑的相关程度最高，这一结果与小学生和大学生群体差异不显著，未能验证假设4，但却反映了假设4论述的基本趋势。贝叶斯方差分析的结果也显示仅有较弱的证据认为自尊与社交焦虑的关系不受对象类别影响，因此，两者关系是否不受被试发展年龄的影响，尚需进一步考察。导致此结果的原因可能在于，本次元分析有关中学生的研究仅有6项且原始研究中并未将初中生和高中生分开，而按照前文的论述，初中生阶段乃是自尊发展的转折期和波动期，可能与其它群体存在着差别。因此，将来可待研究成果进一步丰富后继续验证中学生群体中自尊与社交焦虑的相关是否与其它群体有着明显的差异。整体而言，对自尊与社交焦虑的元分析具有一定的理论和实践意义。理论上对自尊与社交焦虑相关强度和相关方向的确定及调节变量的检验，有助于进一步厘清自尊对社交焦虑的影响机制。实践上，今后可以通过心理健康教育活动和第二课堂等形式，提升个体的自尊水平，从而减少在社交情境中的焦虑体验。
+
+# 5.3 研究不足展望
+
+本研究的不足与展望如下：
+
+(1)由于元分析方法要求尽可能周全的纳入既有研究资料，本研究虽尽可能的利用检索工具进行了文献搜集，但一些未发表的文献很难被搜集，难免会遗漏一些数据。(2)本研究在摘取原始文献数据信息时仅考虑了两个变量的零阶相关系数，未来可考虑纳入偏相关系数考察自尊对社交焦虑的独特效应，也可以继续深入探讨其中的中介机制。(3)本研究纳入的文献均为横断研究，元分析结果无法揭示自尊与社交焦虑的因果关系，未来研究可借助纵向研究进一步揭示两者的因果关系。
+
+# 6结论
+
+本研究采用元分析方法发现：(1)自尊与社交焦虑存在中等程度的负相关，自尊水平较低的个体，社交焦虑水平也更高;(2)低自尊伴随的社交焦虑问题在不同性别、年龄段的群体间不存在显著差异，干预时可统筹兼顾，注意覆盖的全面性。(3)社交焦虑测验工具可显著调节自尊与社交焦虑的关系，未来研究应选择题量适中测查全面的工具。
+
+# 参考文献
+
+\*元分析用到的参考文献\*卜钰，陈丽华，郭海英，林丹华.(2017).情感虐待与儿童社交焦虑：基本心理需要和自尊的多重中介作用.
+
+中国临床心理学杂志,25(2),203-207.  
+\*陈佳薇.(2014).大学生自尊、拒绝敏感性、迷思与社交焦虑的关系．长春工业大学学报(高教研究版),35(3),135-138.  
+\*陈洁.(2010).大学生社交焦虑、自尊与归因方式的关系研究．学理论,(35),251-252.  
+\*陈斯颖.(2014)．大学生自我构念、自尊与社交焦虑的关系研究 (硕士学位论文).西北大学，西安.  
+褚晓伟，范翠英，柴唤友，宋快.(2016).初中生受欺负与社交焦虑：社会自我效能感的中介作用．中国临床
+
+心理学杂志,24(6),1051-1054.丁凤琴，赵虎英.(2018).感恩的个体主观幸福感更强?——一项元分析．心理科学进展,26(10),1749-1764.\*丁子恩，王笑涵，刘勤学.(2018).大学生自尊与网络过激行为的关系：社交焦虑和双自我意识的作用．心
+
+理发展与教育,34(2),171-180.方平，马焱，朱文龙，姜媛.(2016).自尊研究的现状与问题．心理科学进展,24(9),1427-1434.\*高蕾.(2008)．大学生外显自尊、内隐自尊与社交焦虑的关系研究(硕士学位论文)．苏州大学，苏州.高爽，张向葵，徐晓林.(2015).大学生自尊与心理健康的元分析——以中国大学生为样本．心理科学进展，
+
+23(9),1499-1507.\*高文凤，丛中.(2000).社交焦虑与大学生自尊、自我接纳的关系．健康心理学杂志,8(3),276-279.\*韩思竹，孙炳海.(2015)．自尊对大学生社交焦虑的影响:有调节的中介模型．中国健康心理学杂志，23(4),\*何霞红.(2013).对高职生自尊、拒绝敏感性、人际信任与社交焦虑关系的调查．职教论坛,(8),94-96.胡传鹏，孔祥祯,Wagenmakers,E.-J.,Ly,A.，彭凯平.(2018)．贝叶斯因子及其在 JASP 中的实现．心理科
+
+进展,26(6),951-965.
+
+\*金晓雨，肖晶，崔丽霞.(2013).大学生情绪调节的认知策略、外显自尊、人格特质与社交焦虑的关系．中国健康心理学杂志,21(4),609-612.
+
+\*李静，魏晓宇，黄娅，李雅琳，刘虹雨.(2015).大学生寝室人际信任自尊与社交焦虑关系分析．中国学校 卫生, 36(8), 1173-1176.   
+\*李越，张澜，马智群.(2018).少年儿童领悟社会支持与社交焦虑的关系：自尊的中介作用．兵团教育学院 学报,28(2),32-36.   
+\*李志勇.(2014).大学生自尊对社交焦虑的作用机制研究．淮南师范学院学报,16(6),33-37.   
+\*李志勇，吴明证.(2013).大学生自尊与社交焦虑的关系：无法忍受不确定性的中介作用．中国特殊教育， (5), 72-76.   
+李宗波，王婷婷，梁音，王明辉．(2017).大学生手机依赖与主观幸福感：社交焦虑的中介作用．心理与行为 研究,15(4), 562-568.   
+林崇德，杨治良，黄希庭.(2003)．心理学大辞典下．上海：上海教育出版社.   
+\*刘翻.(2013)．大学生自尊与社交焦虑的关系及其中介变量的研究(硕士学位论文).宁波大学，宁波.   
+\*刘广增，潘彦谷,李卫卫，孟亚运，张大均.(2017)．自尊对青少年社交焦虑的影响：自我概念清晰性的中 介作用．中国临床心理学杂志,25(1),151-154.   
+\*刘灵.(2012)．小学高年级儿童幽默感、自尊和社交焦虑的关系研究(硕士学位论文).福建师范大学，福州.   
+\*刘冉.(2012).大学生自尊与社交焦虑、人际信任的关系研究．淄博师专学报,(2),20-23.   
+\*刘小珍，史梦华，肖彦，温远丽.(2017).大学生依恋关系对社交焦虑的影响：自尊的中介作用．赣南医学 院学报,37(5),692-697.   
+刘宇，陈树钰，樊富珉，邸新，范会勇，封春亮.胡传鹏.(2018).心理学研究的元分析报告标准：现状与建 议.doi:10.12074/201809.00177.   
+逯嘉，刘琴，李恒径，代容，郭雪，黄轲，.汪洋.(2014).中国大学生心理弹性现状及其特征的 meta 分析. 吉林大学学报(医学版),40(2),328-337.   
+\*陆润豪，吴茜，彭晓雪，董婧，朱智，徐慰.(2018).小学高年级学生自尊与自杀意念的关系：社交焦虑与学 习价值怀疑感的中介作用．心理技术与应用,6(7),406-414.   
+\*莫家琪.(2017)．大学生欺负行为、自尊与社交焦虑的现状及其关系研究(硕士学位论文).广西师范大学，南 宁.   
+\*宁雅童.(2013)．森田神经质性格、自尊在完美主义与社交焦虑间的中介作用(硕士学位论文).第四军医大 学，西安.   
+\*潘朝霞，张大均，潘彦谷，胡天强.(2018).中学生自尊和评价恐惧在心理素质与社交焦虑中的中介作用 中国心理卫生杂志,32(8),676-681.   
+\*沈晨，周玲，孔明.(2010).高校女生的体型及体型认知与社交回避、社交苦恼、自尊及外向性的关系．中 国心理卫生杂志,24(11),864-867.   
+\*沈贵兰.(2017)．城市小学儿童自尊异质性背景下的社交焦虑在自尊和同伴关系间的中介作用(硕士学位论 文)．四川师范大学，成都   
+施国春，张丽华，范会勇.(2017).攻击性和自尊关系的元分析．心理科学进展,25(8),1274-1288.   
+\*司徒巧敏，黎建斌.(2007)．大学新生自尊与社交焦虑的关系．中国健康心理学杂志,15(11),1005-1007.   
+\*苏倩怡，曾伟楠.(2015).大学生社交焦虑与自尊孤独感的关系．校园心理,(4),222-225.   
+\*孙传英.(2013).大学生社交焦虑、自尊、网络自我表露的关系研究(硕士学位论文).哈尔滨师范大学，哈尔 滨.   
+\*孙配贞，江红艳，赵辉.(2008).初一新生内隐、外显自尊与社交焦虑的关系研究．中国健康心理学杂志, 16(1), 116-118.   
+\*孙荣光.(2008)．大学生生活事件、自尊与社交焦虑的关系(硕士学位论文).山东师范大学，济南.   
+\*孙晓玲，吴明证.(2011).大学生自尊，拒绝敏感性，人际信任与社会焦虑的关系．中国临床心理学杂志, 19(4), 537-539.   
+\*孙易卓.(2015)．高中生社会地位、自尊、负面评价恐惧和社交焦虑的关系研究(硕士学位论文)．西南大学， 重庆.   
+\*谭宇军.(2014)．成人依恋风格对大学生社交焦虑的影响(硕士学位论文)．首都师范大学，北京.   
+万鹏宇，林忠永，冯志远，陈露露，杨新国.(2017)．情感平衡对初中留守儿童问题行为的影响：心理韧性的 中介作用和性别的调节作用．中国特殊教育,12,68-74.   
+王建平，马林芳.(2002)．男女大学生自尊获得方式及其受损后应对方式的比较研究．韩山师范学院学报,(1), 64-71.   
+\*王晶.(2013)．硕士研究生自尊、人际关系与社交焦虑的关系研究(硕士学位论文)．东北师范大学，长春.   
+\*王文娟，叶培结，王立金.(2008).医学新生社交焦虑与其自尊及父母教养方式的相关研究．蚌埠医学院学 报,33(4), 465-467.   
+汪向东，王希林，马弘.(199).心理卫生评定量表手册(增订版).北京：中国心理卫生杂志社,227-249.   
+\*王宇，张荣娟.(2016).消极完美主义对社交焦虑的影响：无法忍受不确定性与自尊的中介作用．心理技术 与应用,4(7),404-409.   
+\*王媛丽，谢志杰，汪玉兰，南金花，张洪国，赫鹏飞.(2015)．大学生内隐自尊、外显自尊与社交焦虑的关系. 中国健康心理学杂志,23(7),1025-1027.   
+\*韦耀阳.(2015).大学生自我和谐、自尊及其社交焦虑的关系研究．池州学院学报,29(3),93-95.   
+\*肖飞.(2012)．民族院校大学生社交焦虑与自尊研究(硕士学位论文).中南民族大学，武汉.   
+\*熊晓美，左红霞，冯晓敏，叶宝霞，张胜芝，罗芳.(2011).本科护生的交往焦虑及其与自尊和人际归因的相 关性．护理学杂志,26(15),69-71.   
+\*徐云，刘堂荣.(2015).4-6 年级小学生自尊、社交焦虑与孤独感的关系．中国健康心理学杂志，23(10), 1597-1600.   
+\*晏碧华，兰继军，邹泓.(2008)．大学生撒谎行为及其与自尊水平、社交焦虑的关系．中国特殊教育，2008, (7), 82-87.   
+\*闫晓钒.(2015)．社交焦虑研究生的自尊与团体沙盘辅导研究(硕士学位论文)．郑州大学，郑州.   
+\*闫秀峰，冯淑丹，李艳霞，李翰飞，江琦.(2012).青少年自我效能、自尊与社交焦虑的关系研究．教育测量 与评价,(7),41-44.   
+\*尹洪菊，吕善辉，柳月娟，肖敏．(2010).医学院校大学生的心理自尊与社交焦虑研究．新西部，(7), 156-156.   
+\*阴云航，麻超，蒲李瑞.(2018)．内初班学生领悟社会支持和冲突与背叛行为的关系：自尊、社交焦虑的中 介作用．心理技术与应用,6(2),65-72.   
+张冲，邹泓.(2009).中学生情绪智力和创造性倾向发展特点及其关系研究．中国特殊教育,(9),70-75.   
+\*张继安，丁园园.(2014).大学生自尊水平与交往焦虑相关研究．中国电力教育,(3),182-184.   
+\*张静.(2013)．小学生父母教养方式、自尊及社交焦虑的关系研究(硕士学位论文).辽宁师范大学，大连.   
+张陆，卞玉薇，王雅丽，游志麒.(2018)．社交焦虑对手机成瘾的影响：公正世界信念的缓冲作用．中国特殊 教育,1,92-96.   
+\*张明月.(2009)．初中生外显自尊、内隐自尊与社交焦虑的关系研究(硕士学位论文)．内蒙古师范大学，呼和 浩特.   
+\*张伟玲.(2016).大学生自尊在自我接纳和社交焦虑间的中介作用．中国学校卫生,37(9),1354-1357.   
+张亚利，陆桂芝，金童林，李森，蒋怀滨，梁丽.(2018).大学生手机成瘾倾向对人际适应性的影响：述情障 碍的中介作用．中国特殊教育,(2),83-88.   
+\*赵飞飞.(2011).大学生自尊、社交焦虑和自我和谐的关系研究(硕士学位论文).河北师范大学，石家庄.   
+\*钟佑洁，张进辅.(2011).大学生评价恐惧在自尊与社交焦虑间的中介效应分析．心理发展与教育，27(5), 506-512.   
+\*周卉.(2014)．大学生身体意象、自尊与社交焦虑的关系研究(硕士学位论文)．哈尔滨师范大学，哈尔滨.   
+\*朱鸿博.(2016)．自我接纳和社交焦虑的关系研究：自尊的中介作用(硕士学位论文).湖南师范大学，长沙.   
+\*邹志礼，陈品红，蒙华庆，王慧，罗庆华，傅一笑，.胡华.(2012).4-6年级小学生社交焦虑与自尊及自我 意识的关系．中华行为医学与脑科学杂志,21(5),436-439.   
+Abdollahi, A.,& Abu Talib,M. (2016). Self-esteem,body-esteem,emotional intelligence,and social anxiety in a college sample: The moderating role of weight. Psychology, health & medicine,21(2),221-225.   
+American Psychiatric Association.(2O13).Diagnostic and statistical manual of mental disorders (DSM-5). American Psychiatric Association: American Psychiatric Publishing.   
+Azad-marzabadi，E.，& Amiri， S.(2017). Morningness-eveningness and emotion dysregulation incremental validity in predicting social anxiety dimensions. International Journal of General Medicine,1O,275-279.   
+Berger,U.,Keshet, H.,& Gilboa-Schechtman,E.(2O17).Self-evaluations in social anxiety: Thecombined roleof explicit and implicit social-rank. Personality and Individual Differences,1O4,368-373.   
+Borenstein,M., Hedges,L. V., Higgins,J. P. T.,& Rothstein, H.R. (2009).Effect sizes based on means.In M.Borenstein,L.V. Hedges,J.P. T. Higgins,& H. R.Rothstein (Eds.)， Introduction to meta-analysis (pp. 21-32). United Kingdom: John Wiley& Sons,Ltd.   
+Bowles,T.V.(2Ol7).The focus of intervention for adolescent social anxiety: Communication skills or self-esteem. International Journal of School & Educational Psychology,5(1),1-12.   
+Branden,N.(1969).The Psychology of self-esteem:Anew concept ofman's psychological nature.Bantam Books.   
+\*Cheng,G., Zhang,D.，& Ding,F. (2015). Self-esteem and fear of negative evaluation as mediators between family socioeconomic status and social anxiety in Chinese emerging adults. International Journal of Psychiatry, 61(6),569-576.   
+de Vries,G.J.,& Sodersten,P. (2O09).Sex diferences in the brain: The relation between structureand function. Hormones & Behavior, 55(5),589-596.   
+Dixon,L. J., Tull, M.T.,Lee,A. A. Kimbrel, N. A.,& Gratz, K.L. (2017). The role of emotion-driven impulse control difficulties in the relation between social anxiety and aggression.Journal of Clinical Psychology, 73(6), 722-732.   
+Fenigstein,A.,Scheier, M.F.,& Bus,A. H. (1975).Public and private self-consciousness: Assessment and heory. Journal of Consulting and Clinical Psychology,43(4),522-527.   
+Fernandez,R. S., Pedreira,M.E.,Boccia,M.M.,& Kaczer,L. (2018). Commentary: Forgeting the best when predicting the worst preliminary observations on neural circuit function in adolescent social anxiety.Frontiers in Psychology, 9,1088.   
+Greenberg,J.，olomon,S.,Pyszczynski,T.,Rosenblat,A.,Burling,J.,Lyon,D.，..Pinel,E.（1992).Whydo people need self-esteem? Converging evidence that self-esteem serves an anxiety-bufering function.Journal of Personality & Social Psychology, 63(6), 913-922.   
+Hiller,T. S.,Steffns,M.C.,Ritter, V.,& Stangier, U. (2O17). Onthe context dependencyof implicit self-esteemin social anxiety disorder.Journal of Behavior Therapy & Experimental Psychiatry, 57,118-125.   
+Higgins,J.P.T.,hompson,S.G.,Deeks,J.J.,&ltman,D.G. (2Oo3).Measuring inconsistencyinmeta-analyss. British Medical Journal,327(7414),557-560.   
+Iverach,L.,& Rapee,R.M. (2O14). Social anxiety disorder and stutering: Current status and future directions. Journal of Fluency Disorders, 40, 69-82.   
+Kessler,R.C.Berglund,P.,Demler,O.,Jin,R.,Merikangas,K.R.,& Walters,E.E. (20o5).Lifetimeprevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. Archives of general psychiatry, 62(6),593-602.   
+La Greca,A.M.,Dandes,S.K.,Wick,P.,Shaw, K.,& Stone,W.L.(1988).Development of the social anxiety scale for children: Reliabilityand concurrent validity. Journal of Clinical Child Psychology,17(1),84-91.   
+Leary,M.R.(1983).Social anxiousness: The construct and its measurement. Journalof Personality Assessment, 47(1), 66-75.   
+Lipsey, M. W.,& Wilson, D.B. (20o1). Practical meta-analysis.California, America: SAGE Publications.   
+Matick,R.P.,& Clarke,J. C. (1998). Development and validation of measures of social phobia scrutiny fear and social interaction anxiety. Behaviour Research and Therapy,36(4), 455-470.   
+Moher,D.,Liberati，A.， Tetzlaff,J.，Altman,D.G.，& Prisma Group.(2009).Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS medicine,6(7), e1000097.   
+Nishizawa, S., Benkelfat, C., Young,S.N.,Leyton,M.，Mzengeza,S.，Montigny, C.D.,..Diksic,M.(1997). Differences between males and females in rates of serotonin synthesis in human brain. Proceedings of the National Academy of Sciences of the United States of America, 94(10),5308-5313.   
+Orwin,R. G. (1994). Evaluating coding decisions. In H. Cooper & L. V. Hedges (Eds). The Handbook of research synthesis. New York (NY): Russell Sage Foundation.   
+Park,I. J., Kim, M., Kwon, S.，& Lee,H. G. (2018). The relationships of self-esteem, future time perspective, positive afect,social support,and career decision: Alongitudinal multilevel study.Frontiers in Psychology, 9, 514.   
+Pan, Z., Zhang,D. Hu,T.,& Pan, Y. (2018). The relationship between psychological Suzhi and social anxiety among Chinese adolescents: The mediating role of self-esteem and sense of security. Child and Adolescent Psychiatry and Mental Health,12,50.   
+Pontill, M., Guerrera,S.，Santonastaso,O., Tata, M. C.，Averna,R.， Vicari, S.，& Armando,M. (2017).An overview of recent findings on social anxiety disorder in adolescents and young adults at clinical high risk for psychosis. Brain Sciences, 7(10),1-9.   
+Ran, G., Zhang, Q.，& Huang, H.(2018). Behavioral inhibition system and self-esteem as mediators between shyness and social anxiety. Psychiatry Research, 270, 568-573.   
+Rietdijk,J., Ising,H.K.，Dragt,S., Klaassen,R.，Nieman,D.，Wunderink,L... van der Gaag,M.(2013). Depression and social anxiety in help-seeking patients with an ultra-high risk for developing psychosis. Psychiatry Research,209(3),309-313.   
+Rothstein， H.R.， Sutton,A.J.，& Borenstein，M. (2005). Publication bias in meta-analysis: Prevention, assessmentand adjustments. Chichester: John Wiley & Sons Ltd.   
+Rosenberg,M.(1965).Societyand the adolescent self-image: Selection of the Sample.Princeton University Press.   
+Simonsohn, U., Simmons,J.P.,& Nelson,L. D. (2O15). Better p-curves:Making p-curve analysis more robust to errors，fraud,and ambitious p-hacking,a reply to ulrich and miller (2015). Journal of Experimental Psychology General, 144(6),1146-1152.   
+Sowislo,J.F.，& Orth,U.(2013).Does low self-esteem predict depressionand anxiety?A meta-analysis of longitudinal studies.Psychological Bulletin,139(1),213-240.   
+Tafarodi, R.W.,& Swann Jr, W.B. (2Oo1). Two-dimensional self-esteem: Theory and measurement.Personality and individual Differences,31(5), 653-673.   
+\*Tan, J.,Lo,P.,Ge,N.,& Chu, C. (2016). Self-esteem mediates the relationship between mindfulness and social anxiety among Chinese undergraduate students.Social Behavior & Personality: An International Journal, 44(8),1297-304.   
+Van Zalk,N.，& Tilfors，M.(2017). Co-rumination bufers the link between social anxiety and depressive symptoms in early adolescence. Child & Adolescent Psychiatry & Mental Health, $I I ( 1 ) , 1 - 1 2$ ，   
+Vassilopoulos,S.P.,Brouzos,A.,Moberly,N.J.,Tsorbatzoudis,H.,& Tziouma,O.(20l7).Generalisationof the clark and wells cognitive model of social anxiety to children's athletic and sporting situations. British Journal of Guidance & Counseling,45(1),1-15.   
+Watson,D.,&Friend,R.(1969).Measurement of social-evaluative anxiety.Journal of Consulting and Clinical Psychology,33(4), 448-457.
+
+# The relationship between self-esteem and social anxiety: A meta-analysis with Chinese students
+
+ZHANG Yali1; LI Sen'; YU Guoliang ( SchoolofEducation,Renmin University ofChina,Beijing 10o872,China)
+
+( InstituteofPsychology,Renmin UniversityofChina,Beijing 10o87,China)
+
+Abstract: Social anxiety has become a serious public health concern in our society. It is imperative to examine risk factors for this problem. Among these predictive variables,self-esteem has been one of the most examined risk factors for social anxiety.Numerous studies have explored the relationship between self-esteem and social anxiety among Chinese students. However, these results are far from consistency. Therefore,this meta-analysis was conducted to explore the relation between self-esteem and social anxiety among Chinese students,and investigate the moderating effects of measurement tools of social anxiety, participant types,and gender.Through literature retrieval, 58 independent effect sizes together with 32181 participants which met the inclusion criteria of meta-analysis were selected.Heterogeneity test indicated that random effects model was appropriate for the meta-analysis. The results of funnel plot and Egger's intercept illustrated no publication bias. Main-effect test indicated a significant negative correlation between self-esteem and social anxiety ( ${ r } = - 0 . 3 5$ $0 . 3 5 , 9 5 \% \mathrm { C I } = [ - 0 . 3 9 , - 0 . 3 1 ] )$ .Further moderation analyses revealed that the association between self-esteem and social anxiety was moderated by measurement tools of social anxiety, but not by the type of participants and gender. The results supported the fear management theories of self-esteem and the cognitive models of social anxiety. Longitudinal or experimental studies are needed in the future to reveal the causal relationship between self-esteem and social anxiety.
+
+Key words: self-esteem; social anxiety; meta-analysis; interaction anxiousness; social avoidance and distress

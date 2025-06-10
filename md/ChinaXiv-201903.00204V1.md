@@ -1,0 +1,181 @@
+# 播种季节和种植方式对多年生苦荞主要农艺性状的影响
+
+杨丽娟，石桃雄，邓娇，王艳，崔娅松，冉盼，陈庆富\*(贵州师范大学荞麦产业技术研究中心，贵阳550001)
+
+摘要：为研究播种季节及种植方式对多年生苦荞主要农艺性状的影响，本文选取6个多年生苦荞新品系，对春、秋季直播与秋季再生其主要农艺性状进行调查。结果表明：不同播种季节对多年生苦荞新品系的主花序的花粉可育率、总结实率、有效结实率、植株株高、主茎粗、主茎分枝数、主茎节数及籽粒百粒重、单株粒数、单株产量的影响均达到显著或极显著水平，秋播主花序花粉可育率、总结实率、有效结实率，植株主茎分枝数，籽粒百粒重、单株粒数、单株产量均极显著高于春播；植株株高、主茎粗、主茎节数均极显著低于春播，主花序花朵大小、籽粒种子长宽比无显著差异。不同种植方式对主花序花粉可育率、有效结实率，植株主茎节数及籽粒百粒重的影响达到显著或极显著水平。秋季再生主花序花粉可育率、籽粒单株粒数显著高于秋季直播，主花序有效结实率，植株主茎粗、主茎节数，籽粒百粒重显著低于秋季直播，主花序花朵大小、总结实率，植株株高、主茎分枝数，籽粒种子长宽比、单株产量无显著差异。相关分析表明，各生长季节下主花序有效结实率及单株粒数与单株产量的相关系数均是最高。所有参试品系中，1612-241秋季直播的单株产量显著高于其他品系；1612-16、1612-33秋季再生单株产量较正季优势显著。该研究结果有助于筛选出适宜一季播种两季收获的优良品系，为今后多年生苦荞的选择育种提供线索基础。
+
+关键词：多年生苦荞，春秋播，再生，主要性状，单株产量中图分类号：Q945 文献标示码：A
+
+# Effects of sowing season and planting methods on main
+
+# agronomic traits of perennial tartary buckwheat
+
+YANG Lijuan, SHI Taoxiong,DENG Jiao, WANG Yan, CUI Yasong,RAN Pan, CHEN Qingfu\* (Research Center of Buckwheat Industry Technology,Guizhou Normal University, Guiyang 55oo01,China)
+
+AbstractIsot buckeate tatei maisteodbtdedaatic extreelyi sedseteffieateofdsetmberfasofi,anhtanmbppatdeldppantudeuuogae significantlydsateedbfsa lowera Ttheecto plnteacdtelteti significantl 1-gainois difei Thecoeltst plntieos atuieldol sowing ononeseasonandharvesting on two seasons,and providecluesforte perennialtartary buckwheat breeding inthe future.
+
+Key words: perennial tartary buckwheat,spring and autumn sowing,regeneration, main traits,yield per plant
+
+多年生苦荞(Fagopyrumtatari-cymosum）是以一年生同源四倍体苦荞“大苦1号”（Fagopyrumtataricum，花柱同短自交可育自花授粉，来自于西藏地方的苦荞品种染色体加倍材料)作母本，与父本多年生金荞麦“红心金荞”（四倍体，花柱异长自交不亲和，虫媒传粉，落粒，Fagopyrumcymosum）进行杂交，获得的1个新类型的双二倍体杂种（Chenetal.,2018）后代。它具有适应性强、抗旱耐瘠性好、高杆、大粒、强再生力、不落粒、自交可育的特点，有着较高的应用潜力。其越冬性不如多年生金养，但是由于其再生力强，像多年生荞麦一样，收获割茬后可再生长一季并获得第二季的收成，可实现栽培一次，收获两次（陈庆富，2018）。陈庆富（2018）将表现较稳定的多年生苦荞新品系贵多苦003-1、贵多苦74A、贵多苦60-1、贵多苦1612-248等在江苏泰兴、西藏、贵州、四川等地进行秋季试点栽培，发现其产量可达 $2 7 0 0 \mathrm { k g } { \bullet } \mathrm { h m } ^ { - 2 }$ 以上；而时政等（2011）将常规苦荞九江苦荞在贵州地区沿河、六盘水、兴义、毕节、贵阳进行试验发现各试点产量变异范围为 $1 ~ 6 7 1 { \sim } 2 ~ 5 5 0 . 1 5 ~ \mathrm { k g } { \bullet } \mathrm { h m } ^ { - 2 }$ 。显然，多年生苦荞这个新类型显示出了较高的产量潜力。目前对多年生苦荞的研究主要集中在其特点和育种现状方面（Chen,2016；Chenetal,2018；陈庆富,2018），因此，要想实现高产、稳产的育种目标，应根据其生育规律，因地制宜，合理选育，提高育种技术，科学种植，以充分发挥其增产潜力。播种季节是作物栽培技术的重要组成环节，不同的播种季节，不同品系，甚至是同一品系在不同生态条件、栽培条件下，其产量相关性状都会有很大差异。适宜的播种季节不仅保证作物的正常生长，而且通过作物的生长发育习性与当地环境的优化配合实现优质高产高效。相关研究在大豆和玉米上较为成熟，已有多名学者（赵政文和李小红，1990；朱健超，1992；马继风和赵政文，1998；汪自强等,1999；杨加银和徐海风,2005）先后对大豆不同播种季节生态特性的比较、各性状间的相关、性状遗传力、农艺性状的遗传差异表现等进行了系统的研究，发现不同播种季节对大豆品质、农艺性状和选育效果均产生不同程度的影响，提出育种时针对不同生长条件的差异，需正确选择参考指标。也有研究表明，播种季节对玉米的生长发育、干物质分配及主要农艺性状具有显著影响（张石宝等，201；崔镇海等，2008；何晓明等,2009）。不同品系再生力会存在明显的差异（唐浩等，2003），而多年生苦荞具有一定的再生性，对其正季与再生季各性状进行比较研究，筛选出适应性强、再生力强的“双季高产”新品系也十分重要。本文研究考察了6个多年生苦荞新品系春、秋播与秋季再生各种植季节农艺性状的差异，旨在了解当地不同生长季节对多年生苦荞主要农艺性状的影响、不同生长季节的优势性状选择及秋季再生苗的生产潜力，筛选出适宜一季播种两季收获的优良品系，为多年生苦荞的高产提供科学依据，为今后多年生苦荞的育种性状选择提供线索。
+
+# 1材料与方法
+
+# 1.1试验区概况
+
+试验设在贵阳市乌当区贵州师范大学荞麦产业技术研究中心试验基地，平均海拔 $1 2 4 2 \mathrm { m }$ ，属亚热带季风湿润气候，具有明显的高原性气候的特点。2017年平均气温 $1 7 \mathrm { ~ \textdegree ~ }$ ，总降水量 $4 4 2 3 . 3 \ \mathrm { m m }$ ，日照时数 $^ \textrm { \scriptsize 1 1 0 1 h }$ ，其中高温、高降水量、长日照主要在6一8月份（表1）。
+
+表12017年贵阳气候条件  
+Table 1 Climate Conditions of Guiyang in 2017   
+
+<html><body><table><tr><td rowspan="2">指标 Index</td><td rowspan="2">全年 Annual</td><td rowspan="2">1月</td><td rowspan="2">2月</td><td rowspan="2">3月</td><td rowspan="2">4月</td><td rowspan="2">5月</td><td rowspan="2">6月</td><td rowspan="2">7月</td><td rowspan="2">8月</td><td rowspan="2">9月</td><td rowspan="2">10月</td><td rowspan="2">11月</td><td rowspan="2">12月</td></tr><tr><td>July August</td></tr><tr><td>平均气温（℃）Mean temperature</td><td>17</td><td>January 10</td><td>February 10</td><td>March 13</td><td>April 16</td><td>May 19</td><td>June 20</td><td>25</td><td>26</td><td>September 22</td><td>October 17</td><td>November December 13</td><td>9</td></tr><tr><td>总降水量（mm）Total precipitation</td><td>4 423.3</td><td>160.3</td><td>134.1</td><td>306.8</td><td>337.2</td><td>449.4</td><td>1 060.4</td><td>559.1</td><td>587.1</td><td>365.7</td><td>179.3</td><td>184.4</td><td>99.5</td></tr></table></body></html>
+
+# 1.2试验材料
+
+材料均由贵州师范大学荞麦产业技术研究中心提供，是陈庆富教授2014年用同源四倍体苦荞“大苦1号”与四倍体“红心金荞”杂种后代经过八代单株选育后获得的双二倍体新品系，分别是贵多苦1612-16，1612-33，1612-19，1612-241，1612-251，1612-256六个品系。
+
+# 1.3试验设计
+
+2017年春季3月21日将参试材料种植于贵州师范大学荞麦产业技术研究中心试验基地，相同的管理方式，于成熟期8月7日随机选择各品系10个单株考察农艺性状；距地面 $1 5 { \sim } 2 0 ~ \mathrm { c m }$ 处割茬，留桩待秋季再次生长，于11月7日再次生长成熟单株考察农艺性状并单株收获种子；同年秋季8月 22日将春季收获种子每个株系播种一行，成熟期12月4日随机选择10株考察农艺性状。
+
+1.4测定项目与方法（1）全生育期：播种到成熟的天数。（2）主花序顶三花枝主要性状：  
+花朵大小（mm）：于开花期用游标卡尺测量主花序顶三花枝已打开花朵的直径，每株测三朵取平均值。  
+花粉可育率 $( \% )$ ：于开花期取主花序顶三花枝充分成熟将要开花的花蕾，于乙醇：冰醋酸（3:1）固定液中固定 $8 \mathrm { h }$ 后，于载玻片上解剖出花药，加1\~2  
+滴碘-碘化钾溶液，用镊子或解剖针挤压花药，使其充分释放出花粉粒，去杂质后，盖上盖玻片，于低倍镜下观察。统计正常可育花粉粒及败育花粉粒数  
+量。  
+花粉可育率 $( \% ) = \frac { 1 5 ^ { \frac { 3 } { 5 0 } } + \frac { 3 } { 5 0 } \times 3 . 7 } { 1 5 ^ { \frac { 3 } { 5 0 } } + \frac { 3 } { 5 0 } \times 3 . 7 5 + \frac { 3 } { 5 0 } + 3 . 7 5 + \frac { 3 } { 5 0 } \times 3 . 7 5 + \frac { 3 } { 5 0 } } \times 1 0 0 \%$   
+结实率 $( \% )$ ：于成熟期取主花序顶三花枝，统计结实正常种子数、空瘪种子数、未结实花朵数。  
+总结实率 $( \% ) =$ 结实正常中子数 子数 $+$ 空 子实花朵数 $\times 1 0 0 \%$ （204号 ，$^ +$ $+$ 结实正常种子数  
+有效结实率 $( \% ) =$ （204号 $\times 1 0 0 \%$ 结实正常种子数 $^ +$ 空瘪种子数 $^ +$ 未结实花朵数（3）植株主要农艺性状：于成熟期，收获种子前，测量以下4个性状：  
+株高（cm）：用直尺测量从地面至主茎花序的顶端的距离。  
+主茎粗（mm）：用游标卡尺测量主茎基部直径。  
+主茎分枝数（个）：主茎基部至顶端有效分枝数。  
+主茎节数（节）：主茎基部至顶端总节数。（4）主要籽粒性状：种子成熟后，单株脱粒收获种子后，将种子于 $6 0 ~ \mathrm { { ^ { \circ } C } }$ 烘箱烘干，并去除空瘪种子，测量以下4个性状：种子长宽比（%）：选择十粒饱满种子于坐标纸上测量种子十粒长（cm）、十粒宽（cm），计算种子长宽比。
+
+百粒重（g）：单株粒数大于等于100粒的，数100粒饱满种子称重；单株粒数不足100粒的则根据实际饱满的粒数，换算成100粒重量。
+
+单株粒数（粒）：对单株种子数量进行计数。  
+单株产量（g）：称取单株种子重量。
+
+# 1.5统计分析
+
+各农艺性状的平均值、标准差、变异系数等描述统计量分析以及频率分布图绘制采用 Excel 2010；采用用 SAS8.1软件(SAS Instutie，美国)的ANOVA 程序进行方差分析，DUNCAN 法进行差异显著性检验。农艺性状之间的Pearson 相关性分析用 SPSS20.0完成。
+
+# 2 结果与分析
+
+# 2.1多年生苦荞春、秋直播与秋季再生全生育期的差异
+
+由图1，各品系基本同期成熟，不同季节则有极显著差异，春、秋季直播显著较秋季再生长，春季显著较秋季长。春季播种后，夏季生长，日照较长，温度较高，雨水较多，使荞麦营养生长期过长过旺，导致生育期延长；而秋季播种，秋末冬初生长，日照时间短、温度较低，荞麦营养生长期缩短，导致生育期较短。
+
+![](images/333022db5272e06ab564fd5303fc2792a387da8f7025e1482d3649dae7a6e986.jpg)  
+图1多年生苦荞不同生长季节的全生育期  
+Fig.1 Whole growth period of perennial tartary buckwheat in different growth seasons
+
+对6个品系不同播种季节农艺性状的双因素方差分析表明（表2），不同的播种季节下除主花序花朵大小及籽粒种子长宽比外，各性状均存在显著或极显著差异；不同品系的主花序花朵大小、总结实率、有效结实率，植株株高、主茎节数，种子长宽比、单株粒数和单株产量存在显著或极显著差异；品系与播种季节之间在植株主茎分枝数、籽粒单数粒数和单株产量上表现出交互作用。
+
+表2多年生苦荞品系不同播种季节主要性状的双因素ANOVA分析  
+ble 2 Double factor ANOVA analysis of agronomic traits of perennial buckwheat lines among diferent sowing seaso   
+
+<html><body><table><tr><td colspan="5">主花序性状 Main inflorescence traits</td><td colspan="4">植株性状Plant traits</td><td colspan="4">籽粒性状 Grain character</td></tr><tr><td>变异来源 Source of variation</td><td>花朵大小 （mm) Size flower</td><td>(%） Pollen</td><td>花粉可育率总结实率 有效结实率 (%）</td><td>（%） Sum-seed Effective-see</td><td>株高(cm) Plant height</td><td>主茎粗 （mm） Main stem</td><td>主茎分枝数 （个） Number of branches of</td><td>主茎节数 （节） Number of main stem</td><td>种子长宽比（%） Seed length-width</td><td>百粒重 （g） 100-grain</td><td>单株粒数 （粒） Number of grains per</td><td>单株种子产量 （g） Grain of weight</td></tr><tr><td>播种季节 （春、秋播）Sowing season(spring and</td><td>0.99</td><td>6.67*</td><td>12.31***</td><td>56.72***</td><td>2 462.66*** 273.33***</td><td></td><td>9.12**</td><td>554.20***</td><td>0.58</td><td>174.36***</td><td>64.69***</td><td>94.10***</td></tr><tr><td>autumn) 品系 Strain</td><td>24.42***</td><td>1.88</td><td>3.28*</td><td>2.91*</td><td>2.53*</td><td>1.53</td><td>1.51</td><td>2.78*</td><td>10.63***</td><td>1.62</td><td>2.60*</td><td>5.23***</td></tr><tr><td>品系*播种季节 Strain*Sowing</td><td>1.16</td><td>1.20</td><td>1.38</td><td>1.95</td><td>1.63</td><td>0.68</td><td>2.74*</td><td>1.74</td><td>0.3</td><td>1.95</td><td></td><td>3.71**</td></tr></table></body></html>
+
+注： $^ *$ 表示在0.05水平上显著；\*\*表示在0.01水平上显著；\*\*\*表示在0.001水平上显著。下同  
+  
+ioisit
+
+对6个品系不同种植方式农艺性状的双因素方差分析表明（表3），不同种植方式下，主花序花粉可育率、有效结实率，植株主茎节数及籽粒百粒重存在显著或极显著差异；不同品系的主花序花朵大小、有效结实率，植株株高及种子长宽比、百粒重、单株粒数和单株产量存在显著或极显著差异；品系与种植方式之间在主花序花朵大小、总结实率，植株株高、主茎分枝数及籽粒单数粒数和单株产量上表现出交互作用。
+
+Table 3Double factor ANOVA analysis of agronomic traits of perennial buckwheat lines among different planting pattern:   
+
+<html><body><table><tr><td colspan="5">主花序性状 Main inflorescence traits</td><td colspan="4">植株性状 Plant traits</td><td colspan="4">籽粒性状 Grain character</td></tr><tr><td rowspan="3">变异来源</td><td colspan="4">花朵大小 花粉可育率</td><td rowspan="2">株高</td><td rowspan="2">主茎粗</td><td rowspan="2">主茎分枝数 （个）</td><td rowspan="2">主茎节数 （节）</td><td rowspan="2">种子长宽比 (%）</td><td rowspan="2">百粒重 （g）</td><td rowspan="2">单株粒数 （粒）</td><td rowspan="2">单株种子产量 （g）</td></tr><tr><td>(mm)</td><td>(%） (%）</td><td>总结实率 有效结实率 (%）</td><td>(cm)</td></tr><tr><td>Source of variation</td><td>Size flower</td><td>Pollen fertility rate setting rate</td><td>Sum-seed Effective-seed</td><td> setting rate</td><td>Plant height</td><td>(mm) Main stem</td><td>Number of branches of</td><td>Number of main stem</td><td>Seed length-width</td><td>100-grain weight</td><td>Number of grains per</td><td>Grain of weight per plant</td></tr><tr><td>种植方式</td><td></td><td></td><td></td><td></td><td></td><td></td><td>main stem</td><td>nodes</td><td>ratio</td><td></td><td>plant</td><td></td><td></td></tr><tr><td>（秋季实生、再生） Plant patterns(autumn</td><td>0.75</td><td>13.52***</td><td>2.27</td><td>6.13*</td><td></td><td>0.07</td><td>4.00</td><td>1.34</td><td>23.52***</td><td>2.85</td><td>40.40***</td><td>1.65</td><td>0.64</td></tr><tr><td>seeding and regeneration)</td><td></td><td>1.56</td><td>1.25</td><td>5.93***</td><td></td><td>5.19***</td><td>1.16</td><td>2.04</td><td>1.54</td><td>4.67**</td><td>4.34**</td><td>3.10*</td><td>2.92*</td></tr><tr><td>品系 Strain</td><td>16.46***</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>品系*种植方式</td><td>3.18*</td><td>0.88</td><td>2.97*</td><td>0.05</td><td>4.10**</td><td>1.74</td><td>3.73**</td><td></td><td>1.00</td><td>1.13</td><td>1.95</td><td>2.60*</td><td>4.59**</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Strain*Plant patterns</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+多年生苦荞不同播种季节及种植方式下各性状差异程度不同（表4）。春播各性状变异系数从大到小的顺序为单株产量 $>$ 主茎分枝数 $>$ 单株粒数 $>$ 主花序有效结实率 $>$ 主花序总结实率 $>$ 百粒重 $>$ 主花序花粉可育率 $>$ 主茎粗 $>$ 主茎节数 $>$ 花朵大小 $>$ 种子长宽比 $>$ 株高，秋播各性状变异系数从大到小的顺序为单株产量 $>$ 单株粒数 $>$ 主花序有效结实率 $>$ 主茎分枝数 $>$ 主花序总结实率 $>$ 主茎粗 $>$ 主茎节数 $>$ 株高 $>$ 花朵大小 $>$ 百粒重 $>$ 种子长宽比 $>$ 主花序花粉可育率；秋季再生各性状变异系数从大到小的顺序为单株粒数 $>$ 单株产量 $>$ 主茎分枝数 $>$ 主花序有效结实率 $>$ 主花序总结实率 $>$ 主茎粗 $>$ 主茎节数$>$ 株高 $>$ 百粒重 $>$ 主花序花粉可育率 $>$ 种子长宽比 $>$ 花朵大小。总体看来，无论是春、秋直播还是秋季再生，单株产量、单株粒数、主茎分枝数、结实率变异最大，较不稳定，花朵大小与种子长宽比变异较小，较为稳定。从同一性状变异系数来看，春播除花朵大小、株高和主茎节数外，其他性状的变异系数均小于秋播；除花朵大小、主花序花粉可育率、主花序有效结实率、主茎分枝数、种子长宽比、百粒重、单株产量外，其他性状的变异系数均小于秋季再生；而秋播各性状的变异系数除花朵大小外，均小于秋季再生。各性状以春季直播及秋季再生的变异较大，有利于选择性状优良的品系，尤其是变异系数较大的分枝数、结实率、单株粒数、单株产量等性状。
+
+Table 4 Variation of main characters of perennial tartary buckwheat lines in different growth seasons   
+
+<html><body><table><tr><td></td><td></td><td colspan="5">主花序性状 Main inflorescence traits</td><td colspan="3">植株性状 Plant traits</td><td colspan="5">籽粒性状 Grain character</td></tr><tr><td colspan="2">变异来源</td><td>花朵大小</td><td></td><td></td><td>花粉可育率总结实率有效结实率</td><td></td><td>株高</td><td>主茎粗</td><td>主茎分枝数 主茎节数 （个）</td><td>（节）</td><td>种子长宽比 (%)</td><td>百粒重</td><td>单株粒数 单株种子 （粒）</td><td>产量（g）</td></tr><tr><td colspan="3" rowspan="3">Source of variation</td><td>(mm)</td><td>(%）</td><td></td><td></td><td>(em)</td><td>（mm)</td><td>Number of Number of</td><td></td><td>Seed</td><td>100grain</td><td></td><td>Number of Grain of</td></tr><tr><td></td><td>Siz fowrfertlt ratet</td><td></td><td></td><td></td><td></td><td>Main stem</td><td>branches of</td><td>main stem</td><td> length-width</td><td></td><td></td><td>grains per weight per</td></tr><tr><td></td><td></td><td></td><td> setting rate</td><td>d setting rate</td><td>height</td><td></td><td>main stem</td><td>nodes</td><td>ratio</td><td>weight</td><td>plant</td><td>plant</td></tr><tr><td></td><td></td><td>极小值 Min.</td><td></td><td>39.86</td><td>17.24</td><td>8.11</td><td>179.00</td><td>7.95</td><td>2.00</td><td>14.00</td><td>1.04</td><td>1.6</td><td>11</td><td>0.32</td></tr><tr><td></td><td>春播</td><td>极大值Max.</td><td>6.47</td><td>76.69</td><td>52.17</td><td>33.92</td><td>218.00</td><td>11.97</td><td>8.00</td><td>21.00</td><td>1.46</td><td>3.85</td><td>103</td><td>10.89</td></tr><tr><td></td><td>Spring sowing</td><td>均值 Average</td><td>5.62</td><td>55.45</td><td>34.39</td><td>16.99</td><td>195.83</td><td>9.61</td><td>3.53</td><td>18.43</td><td>1.22</td><td>2.95</td><td>56.4</td><td>1.69</td></tr><tr><td>直播</td><td></td><td>变异系数（%）</td><td>8.65</td><td>16.15</td><td>23.66</td><td>36.07</td><td>5.48</td><td>12.40</td><td>44.29</td><td>9.04</td><td>8.51</td><td>17.09</td><td>41.26</td><td>107.01</td></tr><tr><td>Direct</td><td></td><td>CV% 极小值Min.</td><td>4.53</td><td>54.83</td><td>24.55</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.87</td></tr><tr><td> seeding</td><td>秋播</td><td>极大值Max.</td><td>6.45</td><td>63.65</td><td>52.6</td><td>17.52 45.25</td><td>54.50 92.50</td><td>4.27 7.05</td><td>2.00 6.00</td><td>6.50 12.50</td><td>1.01 1.38</td><td>3.88 5.95</td><td>50.8 256.33</td><td>14.5</td></tr><tr><td></td><td>Autumn</td><td>均值 Average</td><td>5.7</td><td>59.66</td><td>40.7</td><td>28.87</td><td>79.48</td><td>5.44</td><td>4.50</td><td>10.30</td><td>1.2</td><td>4.44</td><td>129.24</td><td>5.81</td></tr><tr><td></td><td>sowing</td><td>变异系数（%）</td><td>9.33</td><td>3.41</td><td>17.18</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>CV%</td><td></td><td></td><td></td><td>25.05</td><td>10.82</td><td>12.33</td><td>23.54</td><td>11.61</td><td>7.93</td><td>9.26</td><td>38.47</td><td>52.25</td></tr><tr><td></td><td>秋季再生</td><td>极小值 Min.</td><td>5.09</td><td>48.32</td><td>12.37</td><td>10.38</td><td>54.00</td><td>3.37</td><td>2.00</td><td>5.00</td><td>1.02</td><td>2.75</td><td>25</td><td>0.7</td></tr><tr><td>再生</td><td>Autumn</td><td>极大值 Max. 均值 Average</td><td>6.47 5.81</td><td>75.48 64.04</td><td>63.46 44.17</td><td>40.54 22.31</td><td>112.00 77.50</td><td>7.66 4.89</td><td>11.00 4.67</td><td>10.00 7.37</td><td>1.39</td><td>4.85</td><td>844</td><td>24.35 6.1</td></tr><tr><td>Regenerate</td><td>regenerati-</td><td>变异系数（%）</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.2</td><td>3.79</td><td>196.87</td><td></td></tr><tr><td></td><td>on</td><td>CV%</td><td>6.95</td><td>8.54</td><td>24.08</td><td>33.89</td><td>18.92</td><td>22.51</td><td>43.68</td><td>21.17</td><td>8.1</td><td>9.47</td><td>74.75</td><td>72.24</td></tr></table></body></html>
+
+2.3不同播种季节及种植方式对多年生苦荞各性状的影响
+
+2.3.1 不同播种季节对多年生苦荞各性状的影响从表5看出，春、秋播对多年生苦荞各性状的影响表现为，秋播主花序花粉可育率、总结实率、有效结实率，植株主茎分枝数，籽粒百粒重、单株粒数、单株产量均极显著高于春播；植株株高、主茎粗、主茎节数均极显著低于春播，主花序花朵大小、种子长宽比无显著差异。可见，秋季是多年生苦荞播种的最佳时期，而春播生长季在夏季温度高、雨水多，长日照下营养生长旺盛，抑制了生殖生长导致多年生苦荞花粉育性、结实率及产量构成因子和单产下降。
+
+.3.2不同种植方式对多年生苦荞各性状的影响从表5看出，多年生苦荞秋季再生与秋季直播相比，主花序花粉可育率、籽粒单株粒数显著提高，主花序有效结实率，植株主茎粗、主茎节数，籽粒百粒重显著降低，而主花序花朵大小、总结实率，植株株高、主茎分枝数，种子长宽比、单株产量无显著差异。可见，多年生苦荞再生季与秋播的结实率及单产具有可比性。
+
+表5多年生苦荞不同生长季节各性状的差异  
+Table 5 Differences in characters of perennial tartary buckwheat in different growth seasons   
+
+<html><body><table><tr><td colspan="2"></td><td colspan="3">主花序性状 Main inflorescence traits</td><td colspan="4">植株性状 Plant traits</td><td colspan="4">籽粒性状 Grain character</td></tr><tr><td rowspan="3" colspan="2">类型 Type</td><td>花朵大小 (mm)</td><td>花粉可育率 （%）</td><td>总结实率 （%）</td><td>有效结实率 (%）</td><td>株高(cm)</td><td>主茎粗</td><td>主茎分枝主茎节数 数(个） （节）</td><td></td><td>种子长宽比 （%）</td><td>单株粒数 百粒重 （粒） （g）</td><td>单株种子产量 （g）</td></tr><tr><td>Size flower</td><td>Pollen fertility rate</td><td>Sum-seed setting rate</td><td>Effective-seed setting rate</td><td>Plant height</td><td>（mm) Main stem</td><td>Number of Number of branches of main stem</td><td>Seed length-width</td><td>100-grain</td><td>Number of grains per</td><td>Grain of weight per plant</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>main stem</td><td>nodes</td><td>ratio</td><td>weight</td><td>plant</td></tr><tr><td rowspan="2">直播Direct seeding</td><td>Spring 5.62bA sowing 秋播</td><td>55.46cC</td><td>34.39bB</td><td>16.99cB</td><td>195.83aA</td><td>9.61aA</td><td>3.53bB</td><td>18.43aA</td><td>1.22aA</td><td>2.94cC</td><td>56.4cC</td><td>1.69bB</td></tr><tr><td>Autumn sowing</td><td>5.70abA</td><td>59.66bB 40.72aA</td><td>25.60aA</td><td>79.48bB</td><td>5.44bB</td><td>4.5aA</td><td>10.3bB</td><td>1.20aA</td><td>4.44aA</td><td>129.24bB</td><td>5.81aA</td></tr><tr><td>再生 Regenerate regenera-</td><td>秋季再生 Autumn</td><td>5.81aA</td><td>64.04aA 44.17aA</td><td>22.31bA</td><td></td><td>77.5bB 4.89cB</td><td>4.67aA</td><td>7.37cC</td><td>1.20aA</td><td>3.79bB</td><td>196.87aA</td><td>6.10aA</td></tr></table></body></html>
+
+注：同列数据后标有不同小写字母表示差异显著 $\scriptstyle \overbrace { P } < 0 . 0 5 )$ ，不同大写字母表示差异极显著 ${ \scriptstyle ( P < 0 . 0 1 }$ ）。  
+Note: Significant differences were found in different lower-case letters $\left( P < 0 . 0 5 \right)$ and different upper-case leters $( P < 0 . 0 1 )$ after the same column of datal
+
+# 2.4不同播种季节及种植方式下多年生苦荞各性状与单株产量的相关性
+
+为了发掘影响单株产量的主要因素，比较了春、秋直播及秋季再生多年生苦荞各性状与单株产量的相关性差异。由表6可以看出，多年生苦荞春播单株产量与主花序有效结实率（ $\scriptstyle 1 = 0 . 6 8 9 ^ { * * }$ ）、单株粒数（ $\stackrel { \cdot } { r } = 0 . 4 8 7 ^ { \ast \ast }$ ）及主茎分枝数（ $\stackrel { \cdot } { r = } 0 . 3 8 3 ^ { \ast } .$ ）呈极显著或显著正相关；秋播主花序花朵大小（ $\scriptstyle ( r = 0 . 5 1 8 ^ { * * } )$ ）、有效结实率（ $\stackrel { \cdot } { r } = 0 . 8 0 2 ^ { * * }$ ）、株高（ $\stackrel { \cdot } { r } = 0 . 5 7 4 ^ { * * }$ ）、主茎粗（ ${ r } = 0 . 7 1 3 ^ { * * }$ ）、主茎分枝数（ $\stackrel { \cdot } { r = } 0 . 6 4 7 ^ { \ast \ast }$ ）、百粒重（ $\stackrel { \cdot } { r } = 0 . 7 2 7 ^ { \ast \ast }$ ）、单株粒数（ $\scriptstyle 1 = 0 . 8 9 0 ^ { ^ { * * } }$ ）与单株产量均呈极显著正相关；秋季再生单株产量与主花序有效结实率（ $r { = } 0 . 4 6 4 ^ { * * }$ ）、单株粒数（ $\stackrel { \cdot } { _ { r = 0 . 9 9 2 } } ^ { * * }$ ）、主茎粗( $\stackrel { \cdot } { r } = 0 . 5 0 7 ^ { \ast \ast }$ ）呈极显著正相关，与株高（ $\stackrel { \cdot } { r } = 0 . 3 6 8 ^ { \ast } )$ 呈显著正相关。总体看来，无论是正季还是再生季影响单株产量最主要的因素有主花序有效结实率及单株粒数，但次要因素不同。在秋季，秋季播种和再生以植株粗壮、较高、分支多的，产量较高。
+
+表6春秋播及再生条件下农艺性状与单株产量的相关系数
+
+Table6Coeficientofcorelatiobetweenagronmictaitsndyieldperplatunderspringandutumsowingandregenerationoditos   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">性状 Trait</td><td colspan="3">相关系数 Correlation coefficient</td></tr><tr><td>春播 Spring sowing</td><td>秋播 Autumn sowing</td><td>秋季再生 Autumn regeneration</td></tr><tr><td></td><td>花朵大小（mm）Size flower</td><td>0.22</td><td>0.518**</td><td>-0.26</td></tr><tr><td>主花序性状</td><td>花粉可育率（%）Pollen fertility rate</td><td>0.061</td><td>0.134</td><td>-0.168</td></tr><tr><td>Main inflorescence traits</td><td>总结实率（%）Dum-seed setting rate</td><td>0.357</td><td>0.336</td><td>0.285</td></tr><tr><td rowspan="4"></td><td>有效结实率（%）Effective-seed setting rate</td><td>0.689**</td><td>0.802**</td><td>0.464**</td></tr><tr><td>株高（cm）Plant height</td><td>-0.030</td><td>0.574**</td><td>0.368*</td></tr><tr><td>主茎粗（mm）Main stem</td><td>-0.097</td><td>0.713**</td><td>0.507**</td></tr><tr><td>主茎分枝数（个）Number of branches of main stem</td><td>0.383*</td><td>0.647**</td><td>0.006</td></tr><tr><td rowspan="4">籽粒性状 Grain character</td><td>主茎节数（节）Number of main stem nodes</td><td>0.142</td><td>0.218</td><td>0.237</td></tr><tr><td>种子长宽比（%）Seed length-width ratio</td><td>-0.155</td><td>0.171</td><td>-0.17</td></tr><tr><td>百粒重（g）100-grain weight</td><td>0.221</td><td>0.727**</td><td>0.181</td></tr><tr><td>单株粒数（粒）Number of grains per plant</td><td>0.487**</td><td>0.890**</td><td>0.992**</td></tr></table></body></html>
+
+# 2.5不同播种季节及种植方式对各品系主要单株产量影响
+
+为了在6个供试品系中筛选出高产品系，进一步对不同生长季节对各品系单株产量的影响进行分析（图2）。总体看来，所有品系无论是正季还是再生季，秋季平均产量均高于春季平均产量，而秋季直播与秋季再生则不同品系表现不同，其中1612-19各季间无差异，产量最低，表现最差；1612-16与1612-33 春秋直播并没有表现出优势，但是秋季再生显著高于正季，1612-16 秋季再生单产平均值 $( 9 . 2 4 \mathrm { g } )$ 较春播 $( 1 . 6 6 \mathrm { g } )$ 高 $8 2 . 0 3 \%$ ，较秋播正季 $( 4 . 1 1 \mathrm { g } )$ 高 $5 5 . 5 2 \%$ ；DK-2秋季再生单产平均值（ $1 0 . 5 2 \mathrm { g }$ ）较春播（ $1 . 1 0 \mathrm { g }$ ）高 $8 9 . 5 4 \%$ ，较秋播正季（ $\lvert 4 . 5 0 \mathrm { g }$ ）高 $5 7 . 2 2 \%$ ，说明这两个品系适合一次播种多季收获；而1612-241、1612-251、1612-256均表现为秋季直播 $>$ 秋季再生 $>$ 春季直播，其中，秋播 1612-241平均单株产量 $( 9 . 6 2 \mathrm { g } )$ )显著高于其他品系，说明1612-241是最具秋播优势的品系。
+
+![](images/b928583806899dc64e61b6dd9930de29f92ae68fc608e3e6862d817ff821754c.jpg)  
+图2不同生长季节对多年生苦荞各品系单株产量的影响  
+Fig.2 Effects of different growth seasons on yield of perennial tartary buckwheat varieties
+
+# 3结论与讨论
+
+多年生荞麦不仅可作为荞麦遗传育种和品质改良的良好基础材料，而且对保护农业生态环境、促进农业可持续发展具有积极作用，是目前各国育种家关注热点之一（Coxetal.,2010）。多年生苦荞具有一定的再生能力，一次播种收获割茬后可再生长一季并获得第二季的收成，但因其越冬能力还不强，耐不住霜冻，只有春季播种秋季收获割茬后可再生长并收获，即“一种两收”，这可能是因为种间杂种没有完全获得父本红心金荞麦的抗冻基因等，这种情况在多年生小麦与一年生小麦的种间杂种研究有报道（Jones etal.,2011）。
+
+# 3.1.性状差异表现
+
+本研究对多年生苦荞6个品系进行春、秋季直播及秋季再生各性状的差异进行分析。各性状的变异系数以春播及秋季再生的较大，有利于选择，尤其是变异系数较大的单株产量、单株粒数、主花序结实率、主茎分枝数等性状。由于本试验材料为同一组合的杂种后代品系，具有相似的遗传基础，因而可以认为不同播种季节及种植方式下各性状的遗传差异可能是由于生长季节所处的光温等外界综合条件不同所致。
+
+# 3.2生长季节及种植方式对多年生苦荞各性状的影响
+
+荞麦生育期短，在贵州省，正常播季是秋季，可以利用春播加代来选择荞麦育种材料，从而加速育种进程，但春播生长条件明显与秋播不同，使荞麦春播性状发生较大的变化，给正确选择带来困难。特别是这种季节敏感的作物，根据季节特点，抓住其增产的重点因素，协调好各因素之间的关系，趋利避害，在适宜表现的季节选择有助于提高育种效率（杨加银等，2005）。有研究表明，荞麦的农艺性状、结实率和产量受气候条件和种植密度等影响（张以忠和陈庆富，2004；吴冰冰等，2015；母养秀等，2018）。
+
+（1）研究对多年生苦荞春、秋直播各性状的表现分析发现，多年生苦荞春播株高、主茎粗、主茎节数3个性状明显高于秋播与秋季再生，主茎分枝数相当；而主花序花粉育性、结实率、主茎分枝数及产量性状又显著低于秋播及秋季再生。可能是春季播种后，开花结果季为夏季，日照较长，温度较高，雨水较多，使荞麦营养生长期长，从而抑制多年生苦荞生殖生长、花粉育性以致结实率下降及籽粒灌浆不充分；秋季播种及秋季再生，开花结果季为秋末冬初，则处在短日照、低温条件下，荞麦营养生长期短，以致植株变矮，生育期短，恰好，荞麦喜凉爽湿润，秋季生长，随着时间推移气温逐渐凉爽，以致结实率、种子百粒重及单产明显高于春季，可见，秋季种植多年生苦荞单产、结实率、种子百粒重可以得到充分表现，因此秋季的数据对于这些性状潜力的筛选具有较大的参考价值。但各性状的变异系数以春季直播较大，有利于育种选择，尤其是变异系数较大的单株产量、主花序结实率及单株粒数等性状（李月等，2013；潘凡等，2015），并且，株高在春季可以充分表现，较适宜考察植株抗倒伏能力。
+
+（2）Douetal.（2016）研究发现，不同的品种蓄留再生稻田间长势差异明显，不可片面追求长生育期，应该根据当地生态条件，选用感光性弱且生育期适宜的品种，既可以使正季容易获得高产，同时能保证再生季能够安全齐穗，从而使两季总产提高。而多年生苦荞较常规苦荞最大的优势就是其具“一种两收”优良特性，对多年生苦荞秋季与再生季各主要农艺性状的表现分析，筛选出适宜一季播种两季收获的高产新品系，对加快荞麦育种进度和产业发展有重要的意义。研究表明，秋季直播与秋季再生的结实率与单产具有可比性，6个品系中1612-16和1612-33两个品系再生季的单产较春、秋直播表现出较大优势，适合一季播种两季收获，可作为优良品系进行推广试验和新品种培育。
+
+# 3.3不同生长季节性状的选择
+
+已有的养麦育种研究较多的关注性状与株粒重之间相关关系和遗传特点（杨玉霞等,208a；母养秀等,2016；尹桂芳等,2017）。有研究结果表明，栽培方式、栽培条件、生长环境对作物的重要农艺性状的变异系数及性状间相关性有显著影响（谭娟等,2013；张仟雨等,2016；史宏,2018）。不同播种季节及种植方式各性状与单株产量的相关性都存在差异，受环境及气候因子影响较大。该研究表明，无论是春、秋季直播还是秋季再生主花序结实率、单株粒数都是影响单株产量最主要的因素，这与潘凡等（2015）、梁龙兵等（2016）和石桃雄等（2018）研究结果一致。因此，在育种中，对春、秋季直播及再生季不同生态条件下，对多年生苦荞单株产量密切相关的主茎分枝数、主花序有效结实率、单株粒数等（杨玉霞等，2008b；陈稳良等，2009；石桃雄等，2018）性状严加选择，亦可获得较好的选择效果，达到多年生苦荞高产的育种和栽培目标。
+
+# 参考文献：
+
+CHENQo36(3):1-7.[陈庆富,2018．荞麦生产状况及新类型栽培荞麦育种研究的最新进展[J]．贵州师范大学学报(自然科学版),36(3):1-7.]CHEN QF, HUANG XY,IH,etal.,2018.Recent progresinerealbuckwheatpevelopment[J].ustinability0:1-17.CHENQF,216cepgesoteicsbgofgilC.Iteatloc9
+
+CHENWHct37(10):23-25.[陈稳良，赵雪英,李秀莲，等,2009.苦荞产量与主要性状的灰色关联度评价[J].山西农业科学,37(10): 23-25.]  
+COX TS,DEHAANLR,TASSELDLV,et al.,2010.Progressinbreeding perennal grains[J]. CropPasture Sci,61: 513-521.  
+CUZH,HAaActa Agric Boreal-Sin,23(1):123-127.[崔镇海，张立军，樊金娟，等,2008.玉米苗期不同供水条件下穗部性状与产量的相关关系[J].华北农学报,23(1):123-127.]  
+DOUFcs47: 2414-2420.  
+HEXM,XIEJo)晓大森，彭庆务,2009．种植季节对超甜玉米产量及主要农艺性状的影响[J]．热带作物学报,30(2):142-146.]  
+JONES TA, ZHANG XY, WANG RRC,2011. Genome Characterization of MT-2 Perennial and OK-906 Annual Wheat $\times$ Intermediate Wheatgrass Hybirds[J]. CropSci, 39:1041-1043.  
+LIYH26(1):35-41.[李月，石桃雄，黄凯丰，等,2013.苦荞生态因子及农艺性状与产量的相关性分析[J].西南农业学报,26(1):35-41.]  
+LIANGL45(5):13-17.[梁龙兵，陈其皎，石桃雄，等,2016.苦荞杂交后代主花序特征遗传变异研究[J].河南农业科学,45(5):13-17.]  
+MAJFZHOcss17(4):231-239.[马继风，赵政文,1998．南方春大豆不同播季主要农艺性状的变化及其遗传研究[J].大豆科学,17(4):231-239.]  
+MUYXlJiangsuAgricSci,44(6):139-142.[母养秀，杜燕萍，陈彩锦，等，2016.不同苦荞品种营养品质与农艺性状及产量的相关性[J].江苏农业科学,44(6):139-142.]  
+MUYX,Abi)4张久盘，等,2018．种植密度对荞麦受精结实率及产量的影响[J]．湖北农业科学,57(2):32-34.]  
+PANFHSciJ,33(6):829-839.[潘凡，石桃雄，陈其皎，等,2015．苦荞种质主要农艺性状的变异及其对单株产量的贡献研究[J].植物科学学报,3(6):829-839.]  
+H,2018．不同生态类型大豆农艺性状与产量关系的研究[J]．华北农学报, $3 3 ( 1 ) : 1 5 0 { - } 1 5 9 . \$ 一  
+HChin Agric Univ(Nat SciEd),39(1):18-24.[石桃雄，黎瑞源，梁龙兵，等,2018．苦荞重组自交系群体农艺性状分析[J].华南农业大学学报（自然科学版），39(1): 18-24.]  
+SHZHUAelsNom Univ (Nat Sci Ed),48(5):1221-122[时政，黄凯丰，陈庆富,2011.贵州不同生态区苦荞产量性状形成的初步分析[J].四川大学学报(自然科学版)，48(5): 1221-122.]  
+TANJVSci,(10):20-23.[谭娟，吕晓丽，蔡鑫鑫，等,2013.不同密度和栽培方式对大豆品种黑河50产量及农艺性状的影响[J].黑龙江农业科学,(10):20-23.]  
+TANGHCHeoeecsJ():-5唐陈立益2003．水稻的再生率及其与产量性状的关系[J]．杂交水稻,18(3):55-58.]  
+WANGZs25(1):27-30.[汪自强，傅光明，张少英,1999.春大豆春播和秋播性状间的相关性[J].浙江农业大学学报,25(1):27-30.]  
+WUBB,WAceat(1):29-31.[吴冰冰，王春龙，郑永照，等,2015．种植密度对荞麦生长及结实特性的影响[J]．吉林农业科学,(1):29-31.]  
+YANGJYb  
+Sin,14(2):145-147.[杨加银，徐海风,2005.不同播种季节对早熟菜用大豆农艺性状的影响[J]．西北农业学报,14(2):145-147.]  
+YANGYX,WUustesofcactdotetcttataricum)[J].Sed,27(10):30-34.[杨玉霞，吴卫，郑有良，等,2008a.苦荞品种(系)主要农艺性状与蛋白质含量的聚类分析[J].种子,27(10):30-34.]  
+YANGYX,WUEabeatodaletdoraict(Fagopyrum taricum)[J].JAnhuiAgricSci,36(16):6719-6721,6746.[杨玉霞，吴卫，郑有良，等,2008b.苦荞主要农艺性状与单株籽粒产量的相关和通径分析[J]．安徽农业科学,36(16):6719-6721,6746.]  
+YINGGFcChin Agric Sci Bul,33(34):20-25.[尹桂芳，王艳青，李春花，等,2017.荞麦新品种（系）农艺性状的主成分分析和聚类分析[J].中国农学通报,33(34):20-25.]  
+ZHANGDivers Resour,23(2):243-250.[张石宝，李树云，胡丽华，等,2011.播种季节对玉米生长发育及干物质生产和分配的影响[J].植物分类与资源学报,23(2):243-250.]  
+ZHANGXY,tct铮，等,2016.干旱对大豆生理及产量影响的研究[J]．华北农学报,31(5):140-145.]  
+ZHANGYZ,CHEF0.PtsiaidrectofateseachJ].ed,23(3):39-42.[张以，陈庆200研望[]种子,23(3): 39-42.]  
+ZHAOZWs):春大豆不同播季的生态特性比较[J]．中国油料作物学报,(4):43-45.]
+
+ZHUJC992abldeociodidSoybean Sci,11(4):32-327.[朱健超，1992.春大豆品种在春播和秋播条件下主要农艺性状的遗传力、相关性和选择效果的研究[J].大豆科学,，11(4):322-327.1

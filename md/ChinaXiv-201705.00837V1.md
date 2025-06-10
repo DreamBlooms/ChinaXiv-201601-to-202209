@@ -1,0 +1,190 @@
+# 渭河新生代盆地基底组成及其油气地质意义
+
+李玉宏²张文²袁炳强韩伟'陈高潮'卢进才'张林4许海红」赵峰华²（1.中国地质调查局西安地质调查中心，陕西西安7100542.中国矿业大学（北京），北京100083、3.西安石油大学，陕西西安7100654、陕西省地质调查院，陕西西安710065)
+
+摘要：渭河盆地有无天然气一直是地学界研究的热点问题之一，而该问题的关键是有无气源岩的存在。为进一步评价因缺乏有效烃源岩而停顿多年的渭河盆地的油气地质前景，结合区域地质背景，通过二维地震反射特征、地热井伴生气及油气化探的 $\mathrm { C H } _ { 4 }$ 、 $\mathrm { C O } _ { 2 }$ 碳同位素数据和钻探成果综合分析，认为渭河盆地深部残留有晚古生代含煤地层： $\textcircled{1}$ 二维地震反射剖面揭示，渭河盆地深部发育类似鄂尔多斯盆地石炭系一二叠系煤系地层特有的强反射特征（T9），对应于太原组 $9 \#$ 、8#和山西组4#、3#主力煤层反射； $\textcircled{2}$ 地热井伴生气及油气化探样品中 $\delta ^ { 1 3 } \mathrm { C H } _ { 4 }$ 在 $- 2 4 . 5 \% 0 \sim - 4 0 . 2 \%$ 之间，属于煤型热解一裂解气，大多数样品 $\delta ^ { 1 3 } \mathbf { C } \mathbf { c } \mathbf { o } _ { 2 } { < } \mathbf { - } 1 0 \%$ ，属有机成因气； $\textcircled{3}$ 渭参3井揭示盆内存在上古生界二叠系石盒子组，推测下部存在山西组和太原组地层； $\textcircled{4}$ 渭河盆地在晚古生代为大华北克拉通的一部分，沉积有煤系地层，三叠纪末期开始遭受一定的隆升剥蚀，至新生代渭河断陷盆地开始形成，盆地周缘发生大规模隆升剥蚀，而渭河盆地内这一时期接受了巨厚沉积，前新生代地层（上古生代煤系地层等）得以保存和深埋，即构造演化的差异造成了不同构造单元地层剥蚀和残留程度的差异。综合认为晚古生代煤系地层甚至更晚层位存在于渭河盆地的西安凹陷、固市凹陷和咸渭凸起的部分区域。渭河盆地晚古生代含煤地层可作为油气及氮气载体气的气源岩，为渭河盆地油气及富氨天然气勘探提供了物质基础，同时可为鄂尔多斯周缘断陷盆地群油气资源调查提供借鉴。
+
+关键词：渭河盆地 天然气 氨气 晚古生代煤系地层 地质地球物理
+
+Base composition for Weihe Cenozoic basin and its petroleum geological significance LI Yuhong 1 ², ZHANG Wen2 1, YUAN Bingqiang ³, HAN Wei', CHEN Gaochao', LU Jincai', ZHANG Lin4, XU Haihong',and ZHAO Fenghua²
+
+1 Bureau of Xi'an Geological Survey, China Geological Survey, Youyi East Road 438, Xi'an, 710054,   
+China   
+2 College of Geoscience and Surveying Engineering, China University of Mining and Technology,   
+Xueyuan Road Ding 11, Beijing, 100083, China,   
+3 The Department of Resources Engineering, Xi'an Shiyou University, Second Dianzi Road East 18, Xi'an,   
+710065, China   
+4 Shaanxi Geological Survey, Tangyan Road 45, Xi'an, 710065, China
+
+Abstract: Whether there is natural gas in Weihe basin has ben one of the hot issues.And the key to the problems lie in the existence of source rock.In order to continue the oil and gas prospect evaluation of Weihe basin which has been stopped for many years due to the lack of efective source rocks, here we present the 2D seismic reflection characteristics,carbon isotopes of $\mathrm { C H } _ { 4 }$ and $\mathrm { C O } _ { 2 }$ from associated gas of geothermal wells and oil $\&$ gas geochemical exploration, drilling results. Combined with the regional geological background,Late Paleozoic coal-bearing strata (LPCS) are demonstrated to present in the deep of Weihe basin: $\textcircled{1}$ Seismic reflection profiles show that there are strong reflection features similar to C-P coal-bearing strata in Ordos basin,corresponding to the main coal seam in Taiyuan formation (No.9,8) and Shanxi formation (No. 4, 3). $\textcircled{2}$ For the associated gases in geothermal wells and samples of oil & gas geochemical exploration, $\delta ^ { 1 3 } \mathrm { C H } _ { 4 }$ ranges from $- 2 4 . 5 \text{‰}$ to $- 4 0 . 2 \text{‰}$ ， classified as coal-related pyrolysis and cracking gas; Majority of $\delta ^ { 1 3 } \ C \mathrm { c o } _ { 2 }$ lower than $- 1 0 \text{‰}$ ， classified as organic gas. $\textcircled { 3 } \mathrm { W C } 3$ well reveals the presence of Permian Shihezi formation, suggesting the existence of Shanxi formation and Taiyuan formation. $\textcircled{4}$ In Late Paleozoic, Weihe basin was a part of Great North China Craton, depositing coalbearing strata; Since the end of Triassc,the region experienced uplift and erosion to some extent; In Cenozoic,surroundings experienced large-scale uplift and erosion whereas the graben basin subjected to thick sediments,preserving the pre-Cenozoic strata (including the LPCS).And the different evolution of tectonic units results in their diferent erosion and preservation. It is concluded that the LPCS and even later layers exist in the Xi'an depression,the Gushi depression and the part of the Xianwei uplift.The LPCS of the Weihe basin are the source rocks for hydrocarbon and helium carier gas, which provide material basis for the exploration of hydrocarbon and rich helium natural gas in the Weihe basin, further provide reference for the graben basins around Ordos basin.
+
+Keywords: Weihe basin, natural gas, helium, Late Paleozoic coal-bearing strata, geology-geophysics
+
+# 1.引言
+
+渭河盆地位于陕西省中部，地处秦岭造山带与鄂尔多斯盆地之间（图1）。盆地周缘出露地层从老到新依次有太古界、元古界、寒武系、奥陶系、石炭系、二叠系、三叠系、白垩系及新生界[1-2]。渭河盆地新生界厚度数千米，最厚达6000多米，主要为古近系户县群（红河组、白鹿原组、甘河组），新近系高陵群（冷水沟组、龚家沟组）、蓝田一灞桥组、张家坡组，第四系三门组。前人根据渭北地区出露下古生界及盆地东南缘骊山断隆处出露太古界花岗岩、片麻岩及震旦亚界浅变质岩系，认为渭河盆地宝鸡-渭南断裂以北，前新生界基底为下古生界碳酸盐岩，以南是太古界及元古界（图2），其中临潼-长安断裂以西为元古界地层，以东为太古界深变质岩系，基底形态总体为一北倾的陡斜坡[3-5]。
+
+渭河盆地是否具有天然气前景是人们长期探讨的问题之一，是否具有烃源岩是其核心问题。上世纪70年代，渭深13井曾发现富氮天然气显示，但石油普查工作因新生界缺乏有效烃源岩、认为盆地深部不存在晚古生代煤系地层而停顿。2004年以来，渭河盆地地热井中广泛的富氨天然气显示天然气中氮含量之高，为国内外罕见，重新引起了人们对渭河盆地前新生代基底组成及天然气前景的关注 [5-12]。主要成果有：卢进才等根据地热井煤型甲烷信息提出渭河盆地基底应该存在石炭一二叠纪煤系地层7；李玉宏等利用地质、地球化学、地球物理成果，进一步论述了渭河盆地基底存在石炭一二叠纪煤系地层的可能性[8]；王建强等[12]在总结前人地球化学成果基础上，以渭河盆地地质演化为重点，论述了渭河盆地基底可能存在石炭一二叠纪煤系地层及三叠系。由于渭河盆地钻穿巨厚新生界的钻孔极少，又缺乏能识别基底组成的高精度的物探资料，以上研究总体缺乏可靠的实证材料。2013年中国地质调查局启动“渭河盆地氨气资源调查”项目，设立“渭河盆地基底探测地球物理攻关”专题，开展了地震剖面测量的工作，取得良好效果。本文根据区域地质背景、地热井伴生气样分析成果、油气化探、地球物理测量，特别地震测量成果，进一步论证了渭河盆地前新生界基底局部残留晚古生代煤系地层，并根据重磁成果等划分的构造单元，按照新生代沉降早、地层沉积层位低的凹陷区，前新生代地层残留层位高的地质认识，对晚古生界分布进行了大致预测。渭河盆地晚古生代煤系地层烃源岩的存在，为渭河盆地天然气勘探带来了希望；由于氨气不能单独成藏，必需在甲烷等载体气藏中聚集、积累，才能形成富氨天然气藏[]，也为氨载体气成藏提供了物质基础；同时也可为鄂尔多斯周缘盆地群新层系油气调查提供借鉴。
+
+![](images/d06f9e0301ac8b1f03430c0dd183e952014efe168fa829a172cb82dd8050f431.jpg)  
+图1渭河盆地大地构造位置图
+
+![](images/2a5c9b93b3962c7f751ada0dacf2c26bc97a684ea74b82fc39532a45bc51145a.jpg)  
+Figure1 TectoniclocationofWeiheBasin   
+图2 渭河盆地基底结构概图（文献3、4、5修编） Figure 2Base structure ofWeihe Basin (after reference 3,4 and 5)
+
+# 2渭河新生代盆地基底组成
+
+# 2.1渭河地区曾广泛沉积有石炭纪-三叠纪地层
+
+渭河盆地新生代以来的断陷沉降才与鄂尔多斯盆地走上不同的演化途径，历史上曾经作为古生代大华北盆地和中生代大鄂尔多斯盆地的一部分。其前新生代地层的沉积必然和鄂尔多斯盆地（华北地块）密切相关，前新生界的残留程度必然受秦岭和鄂尔多斯盆地演化的影响。
+
+从渭河盆地周缘石炭系-三叠系地层分布看，北秦岭地区的凤县一周至一洛南一线与渭北地区一样分布有石炭-二叠纪煤系地层[\`13]，特别是二叠系中上统对比关系良好，可以认为上古生代鄂尔多斯地台与秦岭海槽的海陆交互相沉积边界应抵达北秦岭地区，现渭河盆地范围沉积过石炭一二叠纪煤系地层。前人研究也表明，今渭河盆地区域内曾有过石炭一二叠一三叠纪的沉积。张国伟等[14]对与渭河盆地密切相关的北秦岭北带的地质演化研究认为，北秦岭北带盖层以区域构造不整合于下伏早前寒武纪结晶基地之上，发育中上元古界，寒武系，少量奥陶系，与华北地块一样缺失中奥陶统一下石炭统，而上石炭统一三叠系主要出露于该区北缘。其石炭一二叠一三叠系岩石组合与古生物群落等和华北地块内部完全一致，它们原与华北地块内部是连通一致的。王景明等认为[15]渭河北山出露的三叠系尚无边缘相堆积，渭河盆地三叠纪时与鄂尔多斯盆地为统一体，今渭河盆地区域内曾有过三叠纪的沉积。
+
+鄂尔多斯南缘石盒子组与北秦岭地区的石盒子组砂岩碎屑组成相似，洛南兑山（图1）二叠系石盒子组砂岩矿物成熟度高，石英含量达 $8 5 \%$ ，非山间小盆地沉积，而应是华北地块南缘的（大盆地）沉积。鄂尔多斯盆地南缘和北秦岭地区的石盒子组砂岩不稳定重矿物含量均较高，重矿物组合类似，反映两地区具有大致相同的物源区，即石盒子期鄂尔多斯盆地南缘、渭河及北秦岭地区为连通的大盆地。
+
+渭河盆地范围晚三叠纪时依然为河湖相沉积区[7]，渭河北山出露的三叠系尚无边缘相堆积[15],秦岭造山带的丹凤一南召一带还保存有三叠系延长组深湖相沉积[]，预示当时大鄂尔多斯盆地的湖相沉积范围跨过渭河地区，即现渭河新生代盆地范围还沉积过三叠纪地层。
+
+可见现渭河盆地地区与鄂尔多斯盆地一起古生代稳定沉降（大华北），中生代发育大型坳陷盆地（大鄂尔多斯），新生代成为鄂尔多斯盆地周边断陷盆地的多旋回改造型盆地[2、17]，其前新生代基底组成主要决定于后三叠纪的改造剥蚀程度。
+
+# 2.2渭河盆地深部残留晚古生代煤系地层的证据
+
+# 2.2.1地球物理证据
+
+渭河盆地高分辨率地震折射剖面显示，西安凹陷新生界低速度层之下的中速度层（层速度4.0\~5.0km/s左右）在北部固市凹陷也有分布，且连续性良好，并延伸至渭北地区古生界露头区，与鄂尔多斯盆地井下的上古生界层速度基本一致[23、24]。
+
+地震剖面显示（图3），渭河盆地新生界之下地层具有明显强反射特征，特别是存在2个平行的强振幅、连续的同相轴，其波谱特征与鄂尔多斯盆地晚古生代煤系地层（T9）反射特征（图4)一致。T9强反射特征组合的下部强振幅反射（T9-2波组），为一个区域稳定,易于追踪对比的强振幅、高连续性反射同相轴，对应于石炭系9#、8#主力煤层反射。上部强振幅反射(T9-1)对应山西组主力煤层反射（4#、3#煤层）。在地震剖面上T9反射层特征显著，易于识别。其下奥陶系顶部不整合面为一个区域性上超 /削蚀界面，对应地震反射波组为一个波谷，其上 20\~80 ms 处为 T9-2 波峰缺失本溪组，奥陶系顶部不整合面与T9-2合二为一。这表明渭河盆地在石炭-二叠纪时与鄂尔多斯盆地岩性组合相似，渭河盆地存在晚古生代煤系地层。
+
+![](images/a1ad9086cfaeac645fa2b0715d8b4a9ab81eaae7b5ca727bedec8855c4863ed1.jpg)  
+图3P1地震测线解释成果图Figure 3 Seismic interpretation ofP1 profile
+
+P1剖面揭示西安凹陷最大厚度位于凹陷的中北部。古近系底最大埋深 $6 6 0 0 \mathrm { m }$ ；古生界底最大埋深在4.8秒左右，推测深度 $8 2 0 0 \mathrm { m }$ 。地震剖面上代表石炭系-二叠系底界的T9反射层特征明显，在西安凹陷内推测深度 $6 { \sim } 7 \mathrm { k m }$ ，咸渭凸起上推测深度 $2 { \sim } 3 \mathrm { k m }$ 。表明测区整体发育上古生界的石炭系-二叠系和下古生界的寒武系-奥陶系，凹陷南部最大厚度 $2 6 0 0 \mathrm { m }$ ，北部最薄 $7 5 0 \mathrm { m }$ ；北部的咸渭凸起上古生界残留较少，发育下古生界的寒武系-奥陶系（图3）。
+
+![](images/4bc6d5837a940d72c123851513c086456f9854b755afd7b6b013bec231aac997.jpg)  
+图4鄂尔多斯盆地C-P煤层（T9）反射特征图
+
+2.2.2地热井伴生气中甲烷和二氧化碳碳同位素
+
+渭河盆地现有石油探井30口，最深的渭深10井钻达5200m。地热井300余口，最深达到4005.6m，主要开采新近系蓝田-灞河组及高陵群砂岩、砂砾岩孔隙-裂隙热水，采用混层开采，取水段一般达数百-上千米。地热井普遍含较高浓度的氨和一定量的甲烷伴生气。分析结果表明[5-10]：甲烷含量一般10%左右，少部分地热井甲烷含量可达80%以上；甲烷气为多源成因甲烷，产于浅部张家坡组的甲烷为生物气，产于深部蓝田-灞河组及高陵群的甲烷主要为高热演化的甲烷气[10]，甲烷碳同位素分布-24.5%o\~-40.2%o，重烃含量低，表现为煤型气的特点[12、18、19]，而且与鄂尔多斯盆地上古生界石炭一二叠系煤型甲烷气具有近似的同位素分布范围[20]（表1），表明甲烷气来自上古生界石炭一二叠纪煤系地层，即渭河盆地地热井主要分布的西安凹陷及固市凹陷深部或邻区存在晚古生代石炭一二叠纪含煤系地层。
+
+able l Comparison of carbon isotope of natural gas methane between Weihe basin and Ordos bas   
+
+<html><body><table><tr><td rowspan="2">盆地</td><td rowspan="2">层位</td><td colspan="2">813CH4/%</td><td rowspan="2">气源类型</td><td rowspan="2">样品 数量</td><td rowspan="2">文献</td></tr><tr><td>范围</td><td>平均值</td></tr><tr><td rowspan="9">渭河盆地</td><td rowspan="4">西安凹陷 热水井</td><td>-48.5~-65.0</td><td>-58.8</td><td>生物气</td><td>6</td><td rowspan="4">[5-10]</td></tr><tr><td>-45.0~-48.5</td><td>-46.1</td><td>油型热解气</td><td>3</td></tr><tr><td>-29.3~-34.7</td><td>-32.5</td><td>煤型热解气</td><td>15</td></tr><tr><td>-24.5~-27.2</td><td>-25.9</td><td>煤型裂解气</td><td>5</td></tr><tr><td></td><td>-19.8~-21.4</td><td>-20.6</td><td>幔源气</td><td>2</td><td></td></tr><tr><td rowspan="3">固市凹陷 渭热2井</td><td>-34.1~-40.2</td><td>-37.1</td><td>煤型热解气</td><td>4</td><td rowspan="3">[10]</td></tr><tr><td>-26.4~-26.5</td><td>-26.5</td><td>煤型裂解气</td><td>2</td></tr><tr><td>-61.9~-63.4</td><td>-62.7</td><td>生物气</td><td>2</td></tr><tr><td>鄂尔多斯</td><td>上古生界(C-P)</td><td>-29.0~-38.5</td><td>-33.45</td><td>煤型热解气</td><td>85</td><td>[20]</td></tr><tr><td>盆地</td><td>中生界(Ty-Jiy)</td><td>-36.7~-59.7</td><td>-48.70</td><td>油型气</td><td>34</td><td></td></tr></table></body></html>
+
+注： ${ \bf T } _ { 3 } { \bf y } { \bf - } { \bf J } _ { 1 } { \bf y }$ 为上三叠统延长组一下侏罗统延安组；C-P为石炭系一二叠系
+
+渭河盆地22口井的 $\mathrm { C O } _ { 2 }$ 样品中，仅4口井的 $\delta ^ { 1 3 } \mathrm { C c o } _ { 2 } \mathrm { > } _ { - } 1 0 \% 0$ ，是无机成因或无机成因为主的$\mathrm { C O } _ { 2 }$ ，多数井（18口）的 $\delta ^ { 1 3 } \mathbf { C } \mathbf { c } \mathbf { o } _ { 2 } \mathrm { < - 1 0 \% 0 }$ ， $\mathrm { C O } _ { 2 }$ 含量 $< 1 5 \%$ ，属有机成因 $\mathrm { C O } _ { 2 } ^ { [ 2 1 , ~ 2 2 ] }$ （表2）。而渭河盆地新生界缺乏烃源岩，且成熟度低，难以大量生成 $\mathrm { C O } _ { 2 }$ ， $\mathrm { C O } _ { 2 }$ 来自上古生界煤系地层的可能性最大，这也表明盆地内应该存在晚古生代煤系地层。
+
+三
+
+# 表2渭河盆地二氧化碳含量和碳同位素
+
+表1渭河盆地伴生气甲烷碳同位素与鄂尔多斯盆地的对比表  
+Tab.2. Concentration and carbon isotope of carbon dioxide in Weihe basin   
+
+<html><body><table><tr><td>样品 编号</td><td>取样位置</td><td>CO2 (V/V%)</td><td>813Cco2（PDB %）</td><td>样品 编号</td><td>取样位置</td><td>CO2 (V/V%)</td><td>813C co2 （PDB %）</td></tr><tr><td>1</td><td>西安凹陷</td><td>0.10</td><td>-23.0</td><td>12</td><td>西安凹陷</td><td>8.40</td><td>-10.5</td></tr><tr><td>2</td><td></td><td>3.17</td><td>-15.0</td><td>13</td><td></td><td>3.37</td><td>-13.5</td></tr><tr><td>3</td><td></td><td>5.04</td><td>-16.2</td><td>14</td><td></td><td>54.34</td><td>-8.0</td></tr><tr><td>4</td><td></td><td>0.80</td><td>-15.0</td><td>15</td><td></td><td>76.05</td><td>-8.4</td></tr><tr><td>5</td><td></td><td>2.79</td><td>-16.2</td><td>16</td><td></td><td>0.07</td><td>-20.9</td></tr><tr><td>6</td><td></td><td>1.66</td><td>-16.6</td><td>17</td><td></td><td>0.052</td><td>-11.62</td></tr><tr><td>7</td><td></td><td>21.03</td><td>-8.3</td><td>18</td><td></td><td>0.038</td><td>-13.46</td></tr><tr><td>8</td><td></td><td>6.18</td><td>-11.1</td><td>19</td><td>固市凹陷</td><td>3.37</td><td>-14.4</td></tr><tr><td>9</td><td></td><td>0.20</td><td>-18.4</td><td>20</td><td></td><td>2.67</td><td>-12.28</td></tr><tr><td>10</td><td></td><td>1.22</td><td>-13.9</td><td>21</td><td></td><td>0.31</td><td>-10.0</td></tr><tr><td>11</td><td></td><td>0.96</td><td>-18.0</td><td>22</td><td></td><td>1.90</td><td>-5.9</td></tr></table></body></html>
+
+2.2.3土壤化探酸解烃中甲烷和二氧化碳碳同位素
+
+根据固市凹陷和西安凹陷的97个土壤酸解烃中甲烷和二氧化碳的碳同位素分析结果来看，酸解烃甲烷主要为煤型热解气，个别为煤型裂解气，二氧化碳主要为有机成因（图5），与地热井伴生气甲烷和二氧化碳的成因类似，说明盆地深部存在高热演化的煤系地层。
+
+![](images/8929e6385e46fe775b06c796b60142b06ae153afc07434f02b29d7d15823ddc2.jpg)  
+图5 渭河盆地土壤酸解烃中 $\mathrm { C H } _ { 4 }$ 和 $\mathrm { C O } _ { 2 }$ 碳同位素分布范围图 Figure 5 Carbon isotopes of $\mathrm { C H } _ { 4 }$ and $\mathrm { C O } _ { 2 }$ in soil acid hydrocarbon in Weihe basii
+
+# 2.2.4露头和钻探
+
+前人在WC3井钻遇石盒子组地层（未穿），推测其下还存在山西组和太原组含煤地层。且铜川和口镇的地层剖面显示有海相-陆相的太原组和山西组含煤地层。而在北秦岭地区（如，洛南），太原组和山西组缺失，但石盒子组是含煤地层，并与下覆奥陶系角度不整合接触（图6）。可见渭河盆地北部上古生界从太原期就开始沉积，向南逐步超覆，洛南地区直至石盒子期才接受沉积，渭河盆地南部开始沉积于太原期一石盒子期之间。而且北秦岭石炭系-三叠系地层的岩层组合与古生物群落与华北地块内部完全一致[4]，也就是说晚古生代鄂尔多斯地台与秦岭海槽的海陆交互相沉积边界应抵达北秦岭地区，现渭河盆地范围沉积过石炭一二叠纪煤系地层。
+
+![](images/bc7012f1d79e237bba949fbbc904c8f26ae70293c2b0dd9af04e0dcb3a252c31.jpg)  
+图6鄂尔多斯盆地（铜川）一渭河盆地一北秦岭（洛南）地层剖面对比图 注：阴影代表地层缺失
+
+Figure 6 Stratigraphic section comparison of Ordos basin (Tongchuan), Weihe basin and north Qinling (Luonan). Note: Shadows represent the lost strata.
+
+2.2.5邻区中新生代演化与渭河盆地前新生界残留
+
+前文分析中表明晚古生代含煤地层曾在渭河盆地沉积过，其前新生代基底组成主要决定于后三叠纪的改造剥蚀程度。
+
+渭北隆起与渭河盆地在古生代和中生代之前均为大华北盆地和大鄂尔多斯盆的组成部分，具有类似的沉积与构造演化，古近纪以来渭北隆起和渭河盆地进入差异演化阶段。热演化史模拟表明渭北隆起主要有两期拾升阶段： $1 2 5 { \sim } 1 0 0 \mathrm { M a }$ （早白垩世晚期）和 $4 0 \mathrm { M a } \mathrm { - }$ 现今（始新世中期开始），特别是5Ma 以来发生快速抬升冷却[26，27]。
+
+现今秦岭是由中新生代的陆内造山作用形成[14]。中生代中期！ $( \boldsymbol { \mathrm { J } _ { 2 } } \mathbf { - } \boldsymbol { \mathrm { K } _ { 1 } }$ ），秦岭发生大范围的陆内构造运动，并发育以酸性岩为主的岩浆活动。中生代晚期及新生代 $( \mathsf { K } _ { 2 }$ 以来)，在总体挤压体制下，发生隆升[12]。郑家坚等认为秦岭地区古新世的哺乳动物群与南北许多地区类似，推测当时秦岭尚未剧烈隆起[28]。滕志宏和王晓红认为秦岭的剧烈隆起发生在新生代，尤其是渐新世晚期（约 24Ma)[29]。以华山、文峪岩体和太白山岩体为例（位置见图1），华山的三次快速隆升阶段分别发生在$5 7 { \sim } 4 2 { \mathrm { M a } }$ 、 $3 2 { \sim } 2 2 \mathrm { M a }$ 和约8Ma以来[30]，文峪岩体自 $1 3 8 \mathrm { { M a } }$ 侵位后于始新世（45Ma至 $3 0 { \sim } 3 5 \mathrm { M a }$ ）发生快速冷却抬升[31]，太白山经历了始于约48Ma（始新世末）的小幅度快速抬升冷却阶段，和始于约9.6Ma（中新世）的大幅度快速抬升冷却阶段[32]。
+
+从邻区的构造演化来看，渭北隆起与秦岭造山带北缘新生代始新世以来的隆升具有同时性，与渭河盆地新生代以来的快速沉降具有很好的耦合关系。现今渭河断陷边缘残留地层较老，主要是在这一时期的巨大剥蚀所致，渭河盆地内部在这一时期接受了巨厚的沉积，前新生代地层得以较多的保存。固市凹陷三原地区的渭参3井钻遇二叠系石盒子组，是渭河盆地内有二叠系的保存直接证据（图6）。结合地震和地球化学结果可知，石炭系一二叠系在渭河盆地内仍有残留，但三叠系残留与否还不确定。
+
+# 3盆地演化与基底预测
+
+根据地震反射剖面、地化调查结果、渭北地区和秦岭北缘的地层对比及构造演化，综合认为渭河盆地曾经作为古生代大华北盆地和中生代大鄂尔多斯盆地的一部分进行沉积演化，在新生代快速断陷沉降形成现在格局。具体有以下阶段： $\textcircled{1}$ 与大华北盆地一起发育有寒武系、奥陶系、石炭系、二叠系和中下三叠统。 $\textcircled{2}$ 中晚三叠世，随着秦岭洋闭合，扬子与华北板块发生碰撞，秦岭全面造山，鄂尔多斯盆地进入鼎盛时期，盆地南界可达北秦岭地区，沉积有中上三叠统及侏罗系。晚侏罗世一早白垩世末，受秦岭陆内造山活动的影响，逐步停止接受沉积，局部隆起遭受剥蚀。晚白垩世鄂尔多斯盆地消亡，现渭河盆地地区整体抬升，地层剥蚀并不强烈。 $\textcircled{3}$ 自始新世中晚期以来，渭河断陷开始发育，与南北两侧地形高差加大，盆地邻区的快速隆升（剥蚀）与渭河盆地的大幅沉降具耦合关系，即断陷区接受沉积而两侧隆升区及翘倾端强烈剥蚀提供物源。
+
+进一步根据物探等成果划分了渭河盆地新生代构造单元，根据地震、钻探等信息，按照沉降早的凹陷区，前新生界残留层位高的思路，编制了渭河新生代盆地基底组成预测图（图7）。预测西安凹陷和固市凹陷存在较大范围的上古生界，西安凹陷向西倾覆，固市凹陷向东倾覆，两个凹陷的上翘地区上古生界残留较少；岐山-合阳凸起上古生界剥蚀殆尽，为下古生界基底；骊山地区出露太古界，其向西倾覆形成的咸渭凸起呈堑垒结构，地堑区残留少量上古生界，地垒区缺失上古生界。
+
+# 4油气地质意义
+
+渭河盆地新生代发育良好的储盖组合，油气前景一直受烃源岩的制约。系统研究认为盆地凹陷区残存有晚古生代含煤地层，甚至中生界沉积建造，并预测了基底结构。这两套地层均为潜在的烃源岩，且地层埋深大，烃源岩热演化程度高，有利于油气的大规模生成。这一认识为盆地内油气勘探和远景区规划提供了依据。
+
+渭河盆地之外，鄂尔多斯盆地周缘还分布有其他三个新生代断陷盆地：汾河盆地、河套盆地和银川盆地，其动力学机制类似，均与太平洋板块和印度洋板块对欧亚板块的俯冲有关。本次研究成果可为这些盆地的油气勘探提供借鉴。
+
+![](images/7b42566fa31111242300360cab34bd4ace27bf845e447051d4d5168196782bb7.jpg)  
+图7渭河盆地基底结构示意图  
+Figure 7Estimated base structure of Weihe basin
+
+# 5.结论
+
+（1）地震测量在盆地新生界之下获得明显反射信息，特别是获得与鄂尔多斯盆地晚古生代煤系地层地震波谱结构相近的一组强反射组合，表明渭河盆地存在晚古生代煤系地层。（2）渭河盆地地热井伴生气及土壤化探分析成果表明，广泛分布的高热演化煤型甲烷气及有机成因 $\mathrm { C O } _ { 2 }$ 气，为盆内煤系地层的存在提供了依据。（3）现渭河盆地范围沉积过石炭纪一二叠纪煤系地层及三叠系，其前新生代基底组成主要决定于后三叠纪的改造剥蚀后的残留程度。WC3井揭示渭河盆地基底至少残留二叠系石盒子组以下层位。（4）渭河盆地周缘地层主要剥蚀于新生代，用于渭河新生代盆地的沉积充填，盆内较早断陷接受沉积地区，剥蚀量较小。西安凹陷、固市凹陷和咸渭凸起部分残留有石炭系一二叠系，固市凹陷东部二叠系之上还可能残留三叠系。（5）渭河盆地与鄂尔多斯盆地一起古生代稳定沉降（大华北），中生代发育大型坳陷盆地（大鄂尔多斯），新生代成为鄂尔多斯盆地周边断陷盆地的多旋回改造型盆地，晚古生代含煤地层的保存主要得益于渭河盆地晚古生代地层的发育及晚侏罗世一晚白垩世时期的地层剥蚀弱。（6）渭河盆地晚古生代含煤地层的存在为渭河盆地油气及富氮大然气勘探提供了物质基础，同时可为鄂尔多斯周缘其他断陷盆地(汾河盆地、河套盆地和银川盆地)油气调查提供借鉴。
+
+# 参考文献：
+
+[1]陕西省地质矿产局.陕西省区域地质志[M].北京:地质出版社,1989:1-551.
+
+Shaanxi Bureau of Geology and Mineral Resources Prospecting. Geology and mineral resources geological memoirs， Shannxi province[M]. Beijing:geological publishing house,1989: 1-551.   
+[2]翟光明,王慎言,史训知,等.中国石油地质志(卷12),长庆油田[M].北京:石油工业出版社，1992:23- 55.   
+Zhai Guangming, Wang Shenyan, Shi Xunzhi ,et al. Petroleum geology of China (Vol. 12)[M]. Beijing: Petroleum Industry Press,1992, 23-55.   
+[3]权新昌.渭河盆地断裂构造研究[J].中国煤田地质.2005,17(3):1-8.   
+Quan Xinchang. Study on the Weihe basin fracture structure[J]. Coal geology of China. 20o5,17(3):1-8. [4]彭建兵.渭河断裂带的构造演化与地震活动[J].地震地质,1992,14(2):113-119.   
+Peng Jianbing. Tectonic evolution and seismicity of Weihe fault zone. Seismology and Geology 1992, 14(2): 113-119.   
+[5]王兴.渭河盆地地热资源赋存与开发[M].西安：陕西科学技术出版社，2005:29-39.   
+Wang xing. Occurrence and development of geothermal resources in Weihe basin[M]. Xi'an: Shaanxi science and technique publishing house,20o5: 29-39.   
+[6]薛华锋,朱兴国,王润三,等.西安地热田伴生富氮天然气资源的发现及意义[J],西北大学学报(自然 科学版).2004,34(6):751-754.   
+Xue Huafeng, Zhu Xingguo, Wang Runsan, et al. The discovery and significance of rich Helium naturalgas resource in Xi'an geothermic field[J]. Journal of Northwest University (Natural Science Edition). 2004, 34(6):751-754.   
+[7]卢进才,魏仙样,李玉宏,等.汾渭盆地富氮天然气成因及成藏条件初探[J].西北地质,2005,38(3):82- 86.   
+Lu Jincai, Wei Xianyang,Li Yuhong, et al. Preliminary study about genesis and pool formation conditions of rich-helium type natural gas[J]. Northwestern Geology, 2005, 38(3): 82-86.   
+[8]李玉宏,卢进才,李金超,等.渭河盆地天然气成因特征及其意义[J].西安石油大学学报(自然科学版). 2011, 26(5): 11-16.   
+LI Yuhong,Lu Jincai,Li Jinchao,et al. Genetic characteristics of the natural gas in Weihe Basin and its significance[J]. Journal of Xi'an Shiyou University(Natural Science Edition). 2011,26(5): 11-16. [9]李玉宏,卢进才,李金超,等.渭河盆地富氮天然气井分布特征与氮气成因[J],吉林大学学报(地球科学 版).2011, 41(S1):47-53.   
+Li Yuhong,Lu Jincai,Li Jinchao, et al. Distribution of the Helium-Rich Wels and Helium Derivation in Weihe Basin[J], Journal of Jilin University(Earth Science Edition).2011, 41(S1): 47-53.   
+[10]李玉宏,王行运,韩伟,等.渭河盆地固市凹陷渭热2井组甲烷气成因及其意义[J],地质通报.2013, 32(11): 1790-1797.   
+Li Yuhong, Wang Xingyun, Han Wei, et al. Genesis and Significance of Methane in Weire 2 Well of Gushi Depression in Weihe Basin[J], Geological Bulletin of China. 2013,32(11): 1790-1797.   
+[11]李玉宏,王行运,韩伟.渭河盆地氮气资源远景调查进展与成果[J].中国地质调查.2015,2(6):1-6. Li Yuhong, Wang Xingyun, Han Wei. The Status of the Survey and Results for the Prospect of Nature Helium Gas Resources In the Weihe basin[J]. Geological Survey of China. 2015,2(6): 1-6.   
+[12]王建强,刘池洋,高飞,等.陕西渭河盆地前新生界地质特征及其油气意义[J].地质通报 2015, 34(10): 1981-1991.   
+WANG Jianqiang, LIU Chiyang, GAO Fei,et al. Pre-Cenozoic geological characteristics and oil-gas significance in Weihe basin, Shaanxi Province[J]. Geological Bulltin of China. 2015,34(10): 1981-1991. [13]中国地质调查局地层古生物研究中心.中国各地质时代地层划分与对比[M].北京:地质出版 社.2005:235-299. Centre for stratigraphy and palaeontology, China Geology Survey. Stratigraphic division and corelation of each geologic period in China[M]. Beijing: Geological publishing house. 2005: 235-299.   
+[14]张国伟,张本仁,袁学诚,等.秦岭造山带与大陆动力学[M].北京:科学出版社.2001:1-820.   
+Zhang Guowei, Zhang Benren,Yuan Xuecheng, et al.Qinling Orogenic beit and continental dynamics[M]. Beijing: Science Press. 2001:1-820.   
+[15]王景明.渭河地堑断裂构造研究[J].地质论评.1984,30(3):217-223.   
+Wang Jingming. A study on the tectonics of the Weihe river graben[J]. Geological Review.1984, 30(3): 217-223.   
+[16]张文正,杨华,解丽琴,等.湖底热水活动及其对优质烃源岩发育的影响一以鄂尔多斯盆地长7烃源 岩为例[J].石油勘探与开发.2010,37(4):424-428.   
+Zhang Wenzheng, Yang Hua, Xie Liqin, et al. Lake-bottom hydrothermal activities and their influences on the high-quality source rock development: A case from Chang7 source rocks in Ordos Basin [J]. Petroleum Exploration and Development. 2010, 37(4): 424-428.   
+[17]彭兆蒙,吴智平.华北地区三叠纪地层发育特征及原始沉积格局分析[J].高校地质学报.2012, 12(3): 343-352.   
+Peng Zhaomeng，Wu Zhiping. Development Features of Triassic Strata and Analysis of Original Sedimentary Pattern in North China[J].Geological Journal of China Universities. 2012,12(3): 343-352.S [18]张景廉.论石油的无机成因[M].北京:石油工业出版社,2001:1-305.   
+Zhang Jinglian. Discussion about the inorganic origin of petroleum[M]. Beijing: Petroleum Industry Press, 2001:1-305.   
+[19]戴金星.天然气碳氢同位素特征和各类天然气鉴别[J],天然气地球科学.1993,(2-3):1-40   
+Dai Jinxing. Natural gas carbon and hydrogen isotopic character and recognition of the various natural gas [J]. Natural Gas Geoscience. 1993,(2-3): 1-40.   
+[20]胡安平,李剑,张文正,等.鄂尔多斯盆地上、下古生界和中生界天然气地球化学特征及成因类型 对比[J].中国科学(D辑),2007,37(S2):157-166.   
+Hu Anping,Li Jian, Zhang Wenzheng,et al. Geochemical characteristics and origin of gases from the Upper, Lower Paleozoic and the Mesozoic reservoirs in the Ordos Basin, China[J]. Science China Earth Sciences,2008,51(1):183-194.   
+[21]杨玉峰,张秋,黄海平,等.松辽盆地徐家围子断陷无机成因天然气及其成藏模式[J]，地学前 缘.2000, 7(4): 523-533.   
+Yang Yufeng,Zhang Qiu, Huang Haiping, et al. Abiogenic natural gases and their accumulation model in xujiaweizi area, Songliao basin, northeast china[J]. Earth Science Frontiers. 20oo,7(4): 523-533. [22]戴金星,宋岩,戴春森,等.中国东部无机成因气及其气藏形成条件[M].北京:科学出版社,1995. Dai jinxing, Song Yan, Dai Chunsen, et al. Inorganic origin gas and gas reservoir formation conditions of eastern china [M].Beijing: Science Press,1995.   
+[23]师亚芹,冯希杰,戴王强,等.渭河断裂西安段的展布及其结构特征,地震学报[J].2008,30(6):634- 647.   
+Shi Yaqin,Feng Xijie,Dai Wangqiang, et al. Distribution and structural Characteristics of the Xi'an section of the Weihe fault.Acta seismologica sinica[J]. 2008,30(6): 634-647.   
+[24]何晓菊,郭亚斌.鄂尔多斯盆地苏里格庙地区上古生界砂岩储层预测技术和效果.石油地球物理勘 探[J].2002, 37(Z1):9-13.   
+He Xiaoju, Guo Yabin. Reservoir prediction technique and effect of sandstone about upper Paleozoic ， in Sulige area， ordos-Oil Geophysical Prospecting [J].2002, 37(Z1): 9-13.   
+[25]王红伟,刘宝宪,马占荣,等.渭河盆地前新生界分布的物探特征及油气成藏条件分析[J].地球物 理学进展,2010,25(4):1280-1287.   
+Wang Hongwei,Liu Baoxian,Ma Zhanrong, et al. Analysis of distribution of geophysical characteristics and reservoir-forming conditions in the pre-Cenozoic strata in the Weihe basin[J].2010,25(4): 1280-1287. [26]任战利，崔军平，李进步,等.鄂尔多斯盆地渭北隆起奥陶系构造一热演化史恢复[J].地质学报, 2014,88(11): 2044-2056.   
+Ren Zhanli, Cui Junping,Li Jinbu, et al. Tectonic-thermal history reconstruction of Ordovician in the Weihe uplift of Ordos basin[J]. Acta Geologica Sinca, 2014, 88(11): 2044-2056.   
+[27]任战利,崔军平,郭科,等.鄂尔多斯盆地渭北隆起抬升期次及过程的裂变径迹分析.科学通报, 2015,60(14): 1298-1309   
+Ren ZL,Cui JP, Guo K,et al.Fission-track analysis of uplift times and processes of the Weibei Uplift in the Ordos Basin (in Chinese). Chinese Science Bulletin, 2015,60(14): 1298-1309   
+[28]郑家坚,何希贤,刘淑文,等.中国地层典一第三系[M].北京:地质出版社,1999.   
+Zheng Jiajian,He Xixian,Liu Shuwen, et al. The Triassc strata in China[M]. Beijing: Geological Publishing House, 1999.   
+[29]滕志宏,王晓红.秦岭造山带新生代构造隆升与区域环境效应研究[J].陕西地质,1996,14(02):33- 42.   
+Teng Zhihong，Wang Xiaohong. Studies of the tectonic uplift at the Cenozoic era and the regionally environmental effects in the Qinling Orogen Belt[J]. Geology of Shaanxi.1996,14(02): 33-42.   
+[30]吴中海,吴珍汉,万景林,等.华山新生代隆升—剥蚀历史的裂变径迹热年代学分析[J].地质科技情报, 2003,22(3): 27-32.   
+Wu Zhonghai, Wu Zhenhan，Wan Jinglin, et al. Cenozoic uplift and denudation history of Huashan mountains: evidence from track thermochronology of Huashan granite[J]. Geological Science and Technology Information, 2003,22(3): 27-32.   
+[31]余心起,刘俊来,张德会,等.小秦岭文峪花岗岩山体的隆升时代和幅度[J].科学通报,2013,58(33): 3416 -3428.   
+Yu Xinqi,Liu Junlai, Zhang Dehui, et al. Uprising period and elevation of the Wenyu granitic pluton in the Xiaoqinling district, Central China. Chinese Science Bulletin,2013, 58(33): 4459-4471.   
+[32]刘建辉,张培震,郑德文,等.秦岭太白山新生代隆升冷却历史的磷灰石裂变径迹分析[J].地球物理 学报,2010,53(10): 2405-2414.   
+Liu Jianhui, Zhang Peizhen, Zheng Dewen, et al.The cooling history of Cenozoic exhumation and uplift of the Taibai Mountain, Qinling, China: evidence from the apatite fission track (AFT) analysis[J]. Chinese Journal of Geophysics, 2010, 53(10): 2405-2414.

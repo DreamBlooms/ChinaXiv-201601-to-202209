@@ -1,0 +1,498 @@
+[
+    {
+        "type": "text",
+        "text": "两种梧桐叶绿体基因组密码子使用偏性分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陆奇丰，骆文华，黄至欢(广西壮族自治区中国科学院广西植物研究所，广西桂林541006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为分析美丽梧桐、云南梧桐叶绿体基因组密码子偏好性使用模式，本文通过筛选美丽梧桐、云南梧桐叶绿体基因组中的各52条蛋白编码序列，利用CodonW、CUSP和 SPSS 软件对其密码子使用模式及偏性进行分析。结果表明：美丽梧桐、云南梧桐的GC 含量分别为$3 8 . 1 2 \\%$ 、 $3 8 . 0 5 \\%$ ，表明叶绿体基因组内富含 A/T 碱基。有效密码子数(ENC)范围为36.91\\~56.46、36.55\\~58.04，多数密码子偏性较弱。相对同义密码子(RSCU)分析显示，RSCU>1的密码子各有29个，其中28个以A、U结尾。中性绘图显示，GC3与GC12的相关性不显著，回归曲线斜率分别为0.195和0.304，说明密码子偏好性主要受到自然选择的影响。ENC-plot 分析中大部分基因分布于曲线的周围和下方，ENC 比值多分布于-0.04\\~0.10之间，表明突变也影响密码子偏性的形成。此外，17、18个密码子分别被鉴定为美丽梧桐、云南梧桐的最优密码子。美丽梧桐、云南梧桐叶绿体基因组的密码子使用偏性可能受选择和突变共同作用，且使用模式较为相似，但具有一定的差异，可能与适应环境的进化机制有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：美丽梧桐，云南梧桐，叶绿体基因组，密码子偏性，最优密码子中图分类号：Q943.2 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis on codon usage bias of chloroplast genome from two species in Firmiana Marsili ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LU Qifeng, LUO Wenhua,HUANG Zhihuan (Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and Chinese Academy of Sciences, Guilin 541006, Guangxi, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to analyze the codon usage patterns of the chloroplast genome of Firmiana pulcherrima and Firmiana major. Fifty-two genes selected from these two species of chloroplast genome, were analyzed using CodonW, CUSP and SPSS software.The result showed that the GC content in Firmiana pulcherrima was $3 8 . 1 2 \\%$ , and Firmiana major was $3 8 . 0 5 \\%$ ， suggesting that A/T base was rich in chloroplast genome. The effective number of codons in $F .$ pulcherrima ranged from 36.91 to 56.46,and $F .$ major ranged from 36.55 to 58.04, meaning the codon bias was weak in $F .$ pulcherrima and $F .$ major. $F .$ pulcherrima and $F .$ major both had 29 codons with relative synonymous codon usage (RSCU) greater than 1 and 28 codons ending with A and U base. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金（31700196)；广西科学院基本业务费（2017YJJ23008)；广西植物研究所基本业务费（GZY16003，GZY17008）[Supported by the National Natural Science Foundation of China（31700196）；Fundamental Research Foundation of Guangxi Academy of Sciences（2017YJJ23008）；Fundamental Research Foundation of Guangxi Institute of Botany（GZY16003 ,GZY17008）]作者简介：陆奇丰（1988-)，男，广西容县人，硕士，助理研究员，主要从事植物生物技术工作，（E-mail）luiqfeng @163.com。\\*通信作者：黄至欢，博士，副研究员，从事植物繁殖生态学工作，（E-mail）zhihuan_huang $@$ whu.edu.cn 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Neutrality plot showed that there was not significant correlation between $\\mathbf { G } \\mathbf { C } _ { 3 }$ and $\\mathbf { G C } _ { 1 2 }$ ，and the regression slope was O.195 in F. pulcherrima, and 0.304 in $F .$ major, suggesting that codon bias was mainly affected by natural selection.ENC-plot analysis showed that most of genes fell below and followed the standard curve，and ENC ratio of most genes ranged from -O.O4 to 0.10, suggesting that the mutation also affected the formation of codon bias in $F .$ pulcherrima and $F .$ （204号 major. In addition,17 codons were identified as optimal codons in $F .$ pulcherrima,and 18 in $F .$ （204号 major. We concluded that the codon usage bias of $F .$ pulcherrima and $F .$ major are formed under effect of mutation and selection. Although the codon usage pattern of $F .$ pulcherrima and $F .$ major are very similar,there are some differences, which may be related to the evolutionary mechanism of adaptive environment. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Firmiana pulcherrima, Firmiana major, chloroplast genome, codon usage bias, optimal codons ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自然界中，基因序列根据三联密码子法则翻译成氨基酸序列，并进一步组装修饰形成具有特定空间结构和功能活性的蛋白质。密码子由3个相连的核苷酸碱基所组成，因此，一共存在64个密码子，除去3个终止密码子（UAA、UAG、UGA)，61个密码子对应特定的氨基酸，而天然氨基酸有 20 种，除甲硫氨酸(AUG)、色氨酸(UGG)对应单一密码子编码外，其余18 种氨基酸均对应 2-6 个编码密码子，编码相同氨基酸的不同密码子又称为同义密码子，有研究发现，同义密码子使用频率在基因内并不是随机的，而是优先使用其中一些密码子，这一现象被称为密码子使用偏性(Gustafsson et al.,2004；Li et al.,2017)。影响密码子偏性的因素较多，如自然选择下DNA 的变异(Ashesh,2002；Suzuki,2011)、tRNA 丰度(Buchanet al.,2006)、基因序列长度(Ribeiro et al.,2012；Gabriel etal.,2001；Stoletzki et al.,2011)、蛋白质翻译效率(Haupt et al.,2009；Li et al.,2017)等。研究密码子偏性不仅有助于解释物种间进化规律，同时对基因表达、载体构建、未知功能基因的分析具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叶绿体是植物细胞重要的细胞器之一，属于半自主性细胞器，是进行光合作用和固定$\\mathrm { C O } _ { 2 }$ 的主要场所，还参与植物生长环境胁迫(干旱、盐、光等)相关的重要代谢过程(Liu et al,2018)。此外，叶绿体具有母系遗传、结构稳定和基因组较小等特性，从而使其广泛运用于植物多样性、系统发育、DNA 条码开发、植物适应性和遗传工程研究中(Sajjad et al.,2017;Liu et al.,2018)。有研究发现，不同物种叶绿体基因组密码子使用偏性存在一定差异(Liu&Xue,2005；郑薇玮等，2018)。因此，为提高叶绿体遗传转化效率及目的基因表达水平，极有必要开展叶绿体全基因组密码子使用模式的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "美丽梧桐(Firmiana pulcherrima)、云南梧桐(Firmiana major)是梧桐属重要物种，具有较高的研究价值和经济价值，由于生态环境的破坏，美丽梧桐、云南梧桐野外资源日益减少，已被列为濒危树种(中国植物志，1984；周亚东等，2013；余志祥等，2013)。目前，对美丽梧桐、云南梧桐的研究重要集中于资源调查(黎国运等，2011；Yang etal.,2018)、种苗繁育(黎国运等，2011；周亚东等，2013；余志祥等，2013)等方面，虽然两种梧桐叶绿体全基因组已完成测序(Ya et al.,2018；Wang etal.,2018)，但关于两者的叶绿体基因组编码基因的密码子使用模式比较的研究尚未见报道。因此，本文在前人的研究基础上，对美丽梧桐和云南梧桐的叶绿体基因组中52个基因的密码子碱基组成特点及使用偏性进行比较分析，揭示其密码子偏性的影响因素，分析最优密码子，旨在为美丽梧桐、云南梧桐制定全面的保育策略及为梧桐科叶绿体基因组学研究提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1叶绿体基因序列数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从 NCBI 分别检索并下载美丽梧桐、云南梧桐叶绿体全基因组序列信息，登录号分别为NC_036395.1(F.pulcherrima 美丽梧桐)、NC_037242.1(F.major云南梧桐)。分别获得 82和 85 条编码基因，对获得的编码基因按以下的条件进行筛选：基因长度大于 $3 0 0 \\ \\mathrm { b p }$ ；并以ATG 为起始密码子及以TAA、TAG、TGA为终止密码子，并剔除重复的编码基因，最终获得各52条编码基因进行后续分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2试验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 密码子相关参数计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用CodonW(htp://codonw.sourceforge.net/)和 CUSP(http://imed.med.ucm.es/EMBOSS/)软件分析CDS 的有效密码子数(ENC)、密码子第三位碱基组成特性，以 $\\mathbf { C } _ { \\mathrm { T } 3 }$ 、 $\\mathbf { C } _ { \\mathrm { C } 3 }$ 、 $\\mathbf { C } _ { \\mathrm { A } 3 }$ 、 $\\mathbf { C } _ { \\mathrm { G 3 } }$ 表示，统计密码子第1、2、3位位置碱基 $\\mathrm { G } { + } \\mathrm { C }$ 及 52个基因总GC含量，分别用 $\\mathbf { C } _ { \\mathrm { G C 1 } }$ 、 $\\mathbf { C } _ { \\mathrm { G C } 2 }$ 、$\\mathbf { C } _ { \\mathrm { G C } 3 }$ 、GC 表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2中性绘图分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算各CDS 的 $\\mathbf { C } _ { \\mathrm { G C 1 } }$ 、 $\\mathbf { C } _ { \\mathrm { G C } 2 }$ 的平均值，记为 $\\mathbf { C } _ { \\mathrm { G C 1 2 } }$ ，并以此为纵坐标，以 $\\mathbf { C } _ { \\mathrm { G C } 3 }$ 为横坐标绘制散点图，分析 $\\mathbf { C } _ { \\mathrm { G C } 3 }$ 与 $\\mathbf { C } _ { \\mathrm { G C 1 2 } }$ 的相关性，并推测影响密码子偏性的因素。若 $\\mathbf { C } _ { \\mathrm { G C } 3 }$ 与CGC12呈显著相关，表明密码子对碱基使用无差异，突变是密码子偏性的主要影响因素。若 $\\mathbf { C } _ { \\mathrm { G C 3 } }$ 与 $\\mathbf { C } _ { \\mathrm { G C 1 2 } }$ 相关性不显著，且斜率接近0，表明密码子第1、2位碱基与第3位碱基使用存在差异，密码子偏性与第3位碱基显著相关，选择压力对密码子偏性的影响较强(尚明照等，2011;刘慧等，2017；秦政等，2018)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 PR2-plot绘图分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PR2-plot 分析是考察突变和自然选择对密码子偏性影响的方法之一(尚明照等，2011;刘慧等，2017)。为避免密码子第3位碱基上的 A/T和GC 突变的不平衡，通过统计两种梧桐叶绿体52条基因中编码丙氨酸、甘氨酸、亮氨酸(CTT、CTC、CTA、CTG)、脯氨酸、精氨酸(CGT、CGC、CGA、CGG)、丝氨酸(TCT、TCC、TCA、TCG)、苏氨酸、氨酸的密码子第3位碱基的 ${ \\bf T } _ { 3 }$ 、 $\\mathbf { C } _ { 3 }$ 、 ${ \\bf A } _ { 3 }$ 、 ${ \\bf G } _ { 3 }$ 的组成情况，并以 ${ \\bf A } _ { 3 } / ( { \\bf A } _ { 3 } { + } { \\bf T } _ { 3 } )$ 为纵坐标， $\\mathrm { G } _ { 3 } / ( \\mathrm { G } _ { 3 } \\mathrm { + } \\mathrm { C } _ { 3 } )$ 为横坐标绘制散点图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4ENC-plot绘图分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为进一步了解两种梧桐碱基组成对密码子偏性的影响，以两种梧桐叶绿体中各基因的ENC、GC3 值为纵、横坐标做散点图，并与ENC 期望值 $\\mathrm { ( E N C = } 2 \\mathrm { + } \\mathrm { G C } 3 \\mathrm { + } 2 9 / ( \\mathrm { [ G C _ { 3 } } ^ { 2 } \\mathrm { + } \\left( \\mathrm { 1 - } \\mathrm { G C _ { 3 } } \\right) ^ { 2 } \\mathrm { ] ) }$ 进行比较，期望值代表密码子偏性仅受碱基组成的影响。若基因分布于期望值曲线的上方，其密码子偏性仅受突变影响；若基因分布于曲线下方较远位置，表明选择是影响密码子偏性的主要因素(Wright,1990；牛元等，2018)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5相对同义密码子使用度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为考察同义密码子偏好性情况，以相对同义密码子使用度(RSCU)表示特定密码子在编码对应氨基酸的同义密码子间的相对使用概率(杨国锋等，2015)，当RSCU>1时，表示该密码子使用频率较高，偏好性较强；RSCU<1时，表示该密码子使用频率较低，偏好性较弱；当 ${ \\mathsf { R S C U } } { = } 1$ 时，该密码子无偏好性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.6最优密码子分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对CDS 的ENC值进行排序，从两极各选出5个基因作为高、低表达组，分别计算对应的密码子RSCU值，筛选高低表达组内对应密码子△RSCU之差大于0.08作为优越高表达密码子，并与整体密码子RSCU 进行结合比较，将△RSCU>0.08，且整体RSCU>1的密码子定义为最优密码子(秦政等，2018；石元豹等，2018）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1密码子组成分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过CodonW 和在线CUSP对美丽梧桐、云南梧桐叶绿体编码基因组的52条CDS 进行分析，结果如表1所示：美丽梧桐、云南梧桐叶绿体编码基因密码子 $\\mathbf { C } _ { \\mathrm { T 3 } }$ 和 $\\mathbf { C } _ { \\mathbf { A } 3 }$ 的含量分别为 $4 6 . 5 6 \\%$ 、 $4 6 . 6 7 \\%$ 与 $4 3 . 0 4 \\%$ 、 $4 3 . 1 7 \\%$ ，表明两种梧桐叶绿体编码基因第三位碱基以A/T结尾为主。密码子上不同位置碱基GC含量有所差异，第一位碱基的GC 含量最高，分别为$4 6 . 1 0 \\% . 4 6 . 1 7 \\%$ ；其次为第二位，分别为 $3 8 . 1 4 \\% . 3 8 . 0 6 \\%$ ；最低为第三位碱基，分别为 $3 0 . 1 1 \\%$ 、$2 9 . 9 2 \\%$ ，且两种梧桐叶绿体基因组GC含量分别为 $3 8 . 1 2 \\%$ 、 $3 8 . 0 5 \\%$ ，表明叶绿体编码基因富含 A/T 碱基。ENC 值可反映密码子偏性程度，其取值范围为 20\\~61，ENC 值越小，表明偏性越强，ENC 值越大，则密码子偏性越弱，一般以 ENC 的值为35 时区分密码子偏性强弱(Jiang et al.，2008)。本研究中，两种梧桐叶绿体基因组的 ENC 值为 50 左右，大于 35,",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表明其密码子偏性较弱。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用在线CUSP对各基因密码子不同位置碱基的GC含量进行分析，结果见表2，不同基因的GC 含量存在一定的差异， $\\mathbf { C } _ { \\mathrm { G C 1 } }$ 、 $\\mathbf { C } _ { \\mathrm { G C } 2 }$ 与 $\\mathbf { C } _ { \\mathrm { C G 3 } }$ 差异较大，两种梧桐叶绿体编码基因ENC 范围分别为36.91\\~56.46、36.55\\~58.04，且大部分基因的ENC大于44，表明叶绿体编码基因密码子偏性较弱。美丽梧桐、云南梧桐中atpE 基因的 ENC 值最大，分别为 56.46 和58.04，说明美丽梧桐中编码atpE基因密码子偏性强于云南梧桐，同时，两种梧桐叶绿体编码基因GC 含量、ENC 值之间也存在差异，但差异不大。此外，本研究发现，美丽梧桐中不存在clpP基因及云南梧桐中的ndhK基因为假基因，表明两种梧桐叶绿体基因组具有较高的保守性，但种间存在一定的差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CGC1、CGc2、CcG3、GC、ENC 及序列长度(sequence Length,SL)相关性分析结果见表3,$\\mathbf { C } _ { \\mathrm { G C 1 } }$ 与 $\\mathbf { C } _ { \\mathrm { G C } 2 }$ 极显著相关， $\\mathbf { C } _ { \\mathrm { G C 1 } }$ 、 $\\mathbf { C } _ { \\mathrm { G C } 2 }$ 均与 $\\mathbf { C } _ { \\mathrm { C G 3 } }$ 相关性不显著，表明两种梧桐叶绿体CDS密码子的第1、第2位碱基组成相似，且与第3位碱基组成存在较大差异，GC 与 $\\mathbf { C } _ { \\mathrm { G C 1 } \\setminus } \\mathbf { C } _ { \\mathrm { G C 2 } \\setminus }$ （20$\\mathbf { C } _ { \\mathrm { C G 3 } }$ 均呈极显著相关，SL与 $\\mathbf { C } _ { \\mathrm { G C } 2 }$ 呈负相关。此外，美丽梧桐的ENC 与 $\\mathbf { C } _ { \\mathrm { C G 3 } }$ 呈显著相关,与 $\\mathbf { C } _ { \\mathrm { G C 1 } }$ 、 $\\mathbf { C } _ { \\mathrm { G C } 2 }$ 、GC、SL均未达到显著水平，表明美丽梧桐叶绿体编码基因密码子第3位碱基组成对密码子偏性影响较大。云南梧桐中ENC 与 $\\mathbf { C } _ { \\mathrm { C G 1 } \\setminus \\mathrm { C } _ { \\mathrm { G C 3 } } }$ 显著相关，相关值分别为0.29、0.32，与 $\\mathbf { C } _ { \\mathrm { G C } 2 }$ 、GC、SL相关性较低，表明 $\\mathbf { C } _ { \\mathrm { C G 3 } }$ 对云南梧桐叶绿体密码子偏性的影响强于$\\mathbf { C } _ { \\mathrm { G C 1 } }$ 。两种梧桐密码子参数的相关性分析结果存在差异，其中 $\\mathbf { C } _ { \\mathrm { G C 1 } }$ 与云南梧桐叶绿体基因组密码子偏性显著相关，而美丽梧桐叶绿体基因组密码子偏性与 $\\mathbf { C } _ { \\mathrm { G C 1 } }$ 相关但不显著，进一步说明两种植物叶绿体基因组密码子偏性的影响因素有所差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1两种梧桐叶绿体基因组密码子第3位碱基组成及GC含量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4049c8d3c8deb489e32c18342d3f26f170891cac60ab2a095d01b5b73f07603c.jpg",
+        "table_caption": [
+            "Table 1 GC contents and the third base of codon in chloroplast genes of Firmiana pulcherrima and "
+        ],
+        "table_footnote": [
+            "表2 两种梧桐叶绿体编码基因密码子GC含量 $( \\% )$ "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">F.major (%)</td></tr><tr><td>物种 Species</td><td>CT3</td><td>Cc3</td><td>CA3</td><td>CG3</td><td>CGC1</td><td>CGC2</td><td>CGC3</td><td>GC</td><td>ENC</td></tr><tr><td>美丽梧桐F.pulcherrima</td><td>46.56</td><td>17.40</td><td>43.07</td><td>18.09</td><td>46.10</td><td>38.14</td><td>30.11</td><td>38.12</td><td>50.00</td></tr><tr><td>云南梧桐F.major</td><td>46.67</td><td>17.23</td><td>43.17</td><td>18.03</td><td>46.17</td><td>38.06</td><td>29.92</td><td>38.05</td><td>49.94</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ac53d8514cd9ce0227bc05d427c44fe989c078a74b46572b994bc6cff107d9f.jpg",
+        "table_caption": [
+            "Table 2 Genes GC contents in Firmiana pulcherrima and $F$ .major chloroplast "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因</td><td colspan=\"5\">美丽梧桐F.pulcherrima</td><td colspan=\"5\">云南梧桐F.major</td></tr><tr><td>Gene</td><td>CGC1</td><td>CGC2</td><td>CGC3</td><td>GC</td><td>ENC</td><td>CGC1</td><td>CGC2</td><td>CGC3</td><td>GC</td><td>ENC</td></tr><tr><td>accD</td><td>40.37</td><td>35.50</td><td>26.57</td><td>34.14</td><td>47.29</td><td>40.37</td><td>35.29</td><td>26.57</td><td>34.08</td><td>47.11</td></tr><tr><td>atpA</td><td>54.72</td><td>40.16</td><td>28.15</td><td>41.01</td><td>47.63</td><td>54.92</td><td>40.35</td><td>28.15</td><td>41.14</td><td>47.84</td></tr><tr><td>atpB</td><td>56.11</td><td>41.28</td><td>31.86</td><td>43.09</td><td>48.20</td><td>56.51</td><td>41.48</td><td>31.86</td><td>43.29</td><td>48.50</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f049892091189b7af48ce3e35fe24cce77fe0ba3069b967973fff384c663f8b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>atpE</td><td>52.24</td><td>40.30</td><td>34.33</td><td>42.29</td><td>56.46</td><td>52.24</td><td>40.30</td><td>35.07</td><td>42.54</td><td>58.04</td></tr><tr><td>atpF</td><td>47.57</td><td>32.97</td><td>34.05</td><td>38.20</td><td>47.85</td><td>47.57</td><td>32.97</td><td>34.05</td><td>38.20</td><td>46.83</td></tr><tr><td>atpl</td><td>50.00</td><td>37.50</td><td>28.63</td><td>38.71</td><td>45.14</td><td>50.00</td><td>37.50</td><td>28.63</td><td>38.71</td><td>45.61</td></tr><tr><td>CcsA</td><td>36.11</td><td>38.58</td><td>27.47</td><td>34.05</td><td>44.28</td><td>36.11</td><td>38.27</td><td>27.16</td><td>33.85</td><td>44.89</td></tr><tr><td>cemA</td><td>41.74</td><td>28.70</td><td>30.87</td><td>33.77</td><td>43.32</td><td>40.87</td><td>29.13</td><td>30.87</td><td>33.62</td><td>43.59</td></tr><tr><td>clpP</td><td></td><td></td><td></td><td></td><td></td><td>57.07</td><td>38.38</td><td>31.31</td><td>42.26</td><td>53.89</td></tr><tr><td>matK</td><td>39.36</td><td>31.21</td><td>28.83</td><td>33.33</td><td>49.32</td><td>39.76</td><td>31.21</td><td>27.83</td><td>32.94</td><td>49.79</td></tr><tr><td>ndhA</td><td>41.21</td><td>38.46</td><td>23.35</td><td>34.34</td><td>43.59</td><td>41.48</td><td>38.19</td><td>23.63</td><td>34.43</td><td>44.45</td></tr><tr><td>ndhB</td><td>41.88</td><td>39.14</td><td>31.31</td><td>37.44</td><td>47.84</td><td>41.88</td><td>39.14</td><td>31.31</td><td>37.44</td><td>47.84</td></tr><tr><td>ndhC</td><td>48.76</td><td>34.71</td><td>25.62</td><td>36.36</td><td>51.23</td><td>47.93</td><td>34.71</td><td>25.62</td><td>36.09</td><td>51.23</td></tr><tr><td>ndhD</td><td>40.86</td><td>37.85</td><td>30.32</td><td>36.34</td><td>49.72</td><td>40.86</td><td>37.85</td><td>29.68</td><td>36.13</td><td>49.23</td></tr><tr><td>ndhE</td><td>38.24</td><td>35.29</td><td>24.51</td><td>32.68</td><td>47.06</td><td>38.24</td><td>36.27</td><td>24.51</td><td>33.01</td><td>47.01</td></tr><tr><td>ndhF</td><td>36.77</td><td>35.55</td><td>25.51</td><td>32.61</td><td>46.61</td><td>36.91</td><td>35.28</td><td>24.83</td><td>32.34</td><td>45.68</td></tr><tr><td>ndhG</td><td>43.50</td><td>34.46</td><td>25.42</td><td>34.46</td><td>45.52</td><td>43.50</td><td>34.46</td><td>25.42</td><td>34.46</td><td>44.97</td></tr><tr><td>ndhH</td><td>50.00</td><td>36.29</td><td>28.68</td><td>38.32</td><td>48.67</td><td>50.00</td><td>36.80</td><td>28.17</td><td>38.32</td><td>49.08</td></tr><tr><td>ndhl</td><td>42.86</td><td>37.50</td><td>27.98</td><td>36.11</td><td>49.10</td><td>43.45</td><td>37.50</td><td>27.98</td><td>36.31</td><td>49.70</td></tr><tr><td>ndhJ</td><td>52.20</td><td>37.74</td><td>32.08</td><td>40.67</td><td>55.77</td><td>52.20</td><td>37.74</td><td>32.08</td><td>40.67</td><td>55.77</td></tr><tr><td>ndhK</td><td>44.25</td><td>45.13</td><td>28.32</td><td>39.23</td><td>51.27</td><td></td><td></td><td>Pseudogene</td><td></td><td></td></tr><tr><td>petA</td><td>52.96</td><td>35.83</td><td>33.02</td><td>40.60</td><td>54.37</td><td>52.96</td><td>35.83</td><td>33.02</td><td>40.60</td><td>54.87</td></tr><tr><td>petB</td><td>49.54</td><td>41.20</td><td>31.48</td><td>40.74</td><td>45.78</td><td>49.54</td><td>41.20</td><td>31.02</td><td>40.59</td><td>45.57</td></tr><tr><td>petD</td><td>51.55</td><td>40.37</td><td>22.98</td><td>38.30</td><td>38.90</td><td>51.55</td><td>39.13</td><td>22.36</td><td>37.68</td><td>37.55</td></tr><tr><td>psaA</td><td>52.46</td><td>43.68</td><td>34.75</td><td>43.63</td><td>51.08</td><td>52.46</td><td>43.68</td><td>34.35</td><td>43.50</td><td>50.66</td></tr><tr><td>psaB</td><td>48.98</td><td>43.13</td><td>32.52</td><td>41.54</td><td>49.66</td><td>48.98</td><td>43.13</td><td>32.52</td><td>41.54</td><td>49.46</td></tr><tr><td>psbA</td><td>49.44</td><td>43.79</td><td>33.90</td><td>42.37</td><td>41.16</td><td>49.44</td><td>43.79</td><td>33.90</td><td>42.37</td><td>40.64</td></tr><tr><td>psbB</td><td>54.22</td><td>45.97</td><td>30.84</td><td>43.68</td><td>47.51</td><td>54.22</td><td>46.17</td><td>30.45</td><td>43.61</td><td>46.86</td></tr><tr><td>psbC</td><td>53.39</td><td>46.20</td><td>33.12</td><td>44.30</td><td>47.53</td><td>53.38</td><td>46.41</td><td>33.12</td><td>44.30</td><td>47.14</td></tr><tr><td>psbD</td><td>52.82</td><td>43.22</td><td>32.49</td><td>42.84</td><td>44.73</td><td>52.82</td><td>43.22</td><td>31.92</td><td>42.66</td><td>44.89</td></tr><tr><td>rbcL</td><td>57.44</td><td>43.19</td><td>31.66</td><td>44.10</td><td>50.22</td><td>57.11</td><td>43.30</td><td>31.55</td><td>43.99</td><td>50.39</td></tr><tr><td>rpl14</td><td>56.91</td><td>38.21</td><td>26.83</td><td>40.65</td><td>48.98</td><td>56.10</td><td>38.21</td><td>26.83</td><td>40.38</td><td>47.88</td></tr><tr><td>rpl16</td><td>48.53</td><td>52.21</td><td>27.21</td><td>42.65</td><td>40.54</td><td>48.53</td><td>52.21</td><td>27.94</td><td>42.89</td><td>40.54</td></tr><tr><td>rpl2</td><td>51.27</td><td>49.09</td><td>32.73</td><td>44.36</td><td>53.68</td><td>51.64</td><td>49.09</td><td>32.00</td><td>44.24</td><td>53.17</td></tr><tr><td>rpl20</td><td>38.98</td><td>44.92</td><td>24.58</td><td>36.16</td><td>47.40</td><td>38.98</td><td>43.22</td><td>25.42</td><td>35.88</td><td>48.82</td></tr><tr><td>rpl22</td><td>41.67</td><td>41.07</td><td>25.00</td><td>35.91</td><td>48.62</td><td>41.67</td><td>41.07</td><td>25.60</td><td>36.11</td><td>49.25</td></tr><tr><td>rpoA</td><td>45.43</td><td>32.01</td><td>28.35</td><td>35.26</td><td>49.64</td><td>45.12</td><td>32.01</td><td>28.05</td><td>35.06</td><td>49.04</td></tr><tr><td>rpoB</td><td>50.33</td><td>37.72</td><td>30.44</td><td>39.50</td><td>50.32</td><td>50.23</td><td>37.72</td><td>30.25</td><td>39.40</td><td>50.28</td></tr><tr><td>rpoC1</td><td>50.44</td><td>37.90</td><td>27.11</td><td>38.48</td><td>48.73</td><td>49.78</td><td>37.66</td><td>26.98</td><td>38.14</td><td>48.60</td></tr><tr><td>rpoC2</td><td>46.45</td><td>37.40</td><td>30.65</td><td>38.17</td><td>51.16</td><td>46.16</td><td>37.60</td><td>29.99</td><td>37.92</td><td>51.23</td></tr><tr><td>rps1l</td><td>56.12</td><td>57.55</td><td>22.30</td><td>45.32 42.74</td><td>43.94</td><td>55.40 52.08</td><td>57.55 47.22</td><td>22.30 31.25</td><td>45.08 43.52</td><td>43.71 49.59</td></tr><tr><td>rps12 rps14</td><td>52.42 42.57</td><td>48.39 47.52</td></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/31e026fa1e5aaa266b5bf739c280d772f869e18e30ed17b4e8cc5b93db1097a0.jpg",
+        "table_caption": [
+            "表3两种梧桐编码基因密码子相关参数的相关性分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>rps7</td><td>52.56</td><td>45.51</td><td>23.72</td><td>40.60</td><td>45.00</td><td>52.56</td><td>45.51</td><td>23.72</td><td>40.60</td><td>45.00</td></tr><tr><td>rps8</td><td>40.00</td><td>41.48</td><td>29.63</td><td>37.04</td><td>36.91</td><td>40.00</td><td>41.48</td><td>28.89</td><td>36.79</td><td>36.55</td></tr><tr><td>ycf1</td><td>36.53</td><td>29.30</td><td>25.52</td><td>30.45</td><td>48.07</td><td>36.62</td><td>29.13</td><td>25.09</td><td>30.28</td><td>47.94</td></tr><tr><td>ycf2</td><td>42.30</td><td>34.41</td><td>37.05</td><td>37.92</td><td>53.75</td><td>42.17</td><td>34.32</td><td>36.97</td><td>37.82</td><td>53.62</td></tr><tr><td>ycf3</td><td>47.93</td><td>38.46</td><td>33.14</td><td>39.84</td><td>55.71</td><td>47.93</td><td>38.46</td><td>32.54</td><td>39.64</td><td>53.19</td></tr><tr><td>ycf4</td><td>41.62</td><td>41.08</td><td>31.35</td><td>38.02</td><td>50.11</td><td>41.62</td><td>41.08</td><td>30.27</td><td>37.66</td><td>49.45</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a26bf76ffeae280ba66b4c4537de9d83858b7434ff1b4cabf0819a2ccb7c559f.jpg",
+        "table_caption": [
+            "Table 3 Correlation coefficient between the parameters of genes "
+        ],
+        "table_footnote": [
+            "注：\\*表示在0.05 水平上显著相关；\\*\\*表示在0.01水平上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td>美丽梧桐</td><td colspan=\"6\">云南梧桐F.major</td></tr><tr><td>F.pulcherrima</td><td>CGC1</td><td>CGC2</td><td>CGC3</td><td>GC</td><td>ENC</td><td>SL</td></tr><tr><td>CGC1</td><td>1.000</td><td>0.401**</td><td>0.273</td><td>0.841**</td><td>0.288*</td><td>-0.158</td></tr><tr><td>CGC2</td><td>0.404**</td><td>1.000</td><td>0.083</td><td>0.747**</td><td>-0.257</td><td>-0.302*</td></tr><tr><td>CGC3</td><td>0.222</td><td>0.005</td><td>1.000</td><td>0.509**</td><td>0.317*</td><td>0.214</td></tr><tr><td>GC</td><td>0.840**</td><td>0.743**</td><td>0.452**</td><td>1.000</td><td>0.133</td><td>-0.170</td></tr><tr><td>ENC</td><td>0.253</td><td>-0.261</td><td>0.313*</td><td>0.109</td><td>1.000</td><td>0.230</td></tr><tr><td>SL</td><td>-0.155</td><td>-0.309*</td><td>0.262</td><td>-0.161</td><td>0.220</td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note: \\*indicates significant correlation at O.O5 level, \\*\\* indicates significant correlation at O.O1 level. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2中性绘图分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，美丽梧桐的叶绿体CDS 的 $\\mathbf { C } _ { \\mathrm { G C 3 } }$ 与 $\\mathbf { C } _ { \\mathrm { G C 1 2 } }$ 含量分布分别为0.2230-0.370 5、0.329 2\\~0.5684，云南梧桐为 $0 . 2 2 3 \\ 0 { \\sim } 0 . 3 6 9 \\ 7 , 0 . 3 2 8 \\ 8 { \\sim } 0 . 5 6 4 \\ 8$ ，两者的分布范围几乎重合，说明两种梧桐叶绿体基因组较为保守。两种梧桐的 $\\mathbf { C } _ { \\mathrm { G C } 3 }$ 与 $\\mathbf { C } _ { \\mathrm { G C 1 2 } }$ 的Pearson 相关系数分别为0.121和0.206，进一步说明 $\\mathbf { C } _ { \\mathrm { G C 1 } }$ 和 $\\mathbf { C } _ { \\mathrm { G C } 2 }$ 均与 $\\mathbf { C } _ { \\mathrm { C G 3 } }$ 相关性不显著，密码子的第1、2位碱基与第3位碱基组成存在显著差异，密码子偏性与第3位碱基显著相关。同时，回归曲线斜率分别为0.195 和0.304，表明选择压力对两种梧桐属叶绿体基因组密码子偏性的影响较强，此外，突变对密码子偏性也有一定的影响，且云南梧桐叶绿体密码子偏性受到突变的影响高于美丽梧桐。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注： $\\mathbf { C } _ { \\mathrm { G C 1 2 } }$ 表示密码子第1、第2位碱基GC平均含量， $\\mathbf { C } _ { \\mathrm { G C 3 } }$ 表示第3位碱基GC含量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note: $\\mathbf { C } _ { \\mathrm { G C 1 2 } }$ means average GC content of the first and the second position of these codons, $\\mathbf { C } _ { \\mathrm { G C } 3 }$ means the GC content of the third position of codons. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/167e68c148b23f89b2aedee0ccd169c0ed8728b8fd8c2862d8bc2893ac2548cb.jpg",
+        "img_caption": [
+            "图1中性绘图分析",
+            "Fig.1 Analysis of neutrality plot $\\mathbf { C } _ { \\mathrm { G C 1 2 } }$ against $\\mathbf { C } _ { \\mathrm { G C } 3 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3PR2-plot绘图分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PR2-plot绘图是通过对密码子第3位碱基组成进行分析，探讨突变和自然选择对密码子使用偏性的影响，当密码子第3位碱基表现为 $\\scriptstyle \\mathbf { A } = \\mathbf { T }$ 和 $\\scriptstyle \\mathbf { C = G }$ ，表明DNA两条互补链上不存在选择效应上的偏性和突变,突变是影响密码子的偏性的唯一因素(Sueoka,2001;Zhang et al.,2018)。本研究中，两种梧桐大部分基因分布在左下方区域(图2)，T、C碱基频率高于A、G碱基，说明密码子第3位碱基偏爱使用嘧啶碱基，表明两种梧桐叶绿体编码基因密码子使用偏性不仅受到突变的影响，还受到其他因素的影响，如自然选择压力等。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe4867f5f2388928f4558ac770d114dc7f0a52f238146df5cfba99624b068fbd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注：美丽梧桐横坐标平均位置为 $0 . 4 5 3 2 { \\scriptstyle \\pm 0 . 0 7 3 9 }$ ，纵坐标为 $0 . 4 5 0 3 \\pm 0 . 1 0 3 7$ ；云南梧桐横坐标平均位置为$0 . 4 5 4 4 { \\scriptstyle \\pm 0 . 0 7 3 6 }$ ，纵坐标为 $0 . 4 5 1 5 { \\scriptstyle \\pm 0 . 1 0 7 8 }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Note: Open circles indicate the average position for each plot. Firmiana pulcherrima; average position is $\\scriptstyle x = 0 . 4 5 3$ $2 \\pm 0 . 0 7 3 9$ $y { = } 0 . 4 5 0 3 { \\pm } 0 . 1 0 3 7 ; F .$ major average position is $_ { x = 0 . 4 5 4 4 \\pm 0 . 0 7 3 6 }$ $y = 0 . 4 5 1 5 { \\scriptstyle \\pm 0 . 1 0 7 8 }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图2PR2-plot绘图分析",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Analysis of PR2-plot [A3/ ${ \\mathrm { A } } 3 { + } { \\mathrm { T } } 3 { \\mathrm { ) } }$ ] against $[ \\mathrm { G } 3 / ( \\mathrm { G } 3 + \\mathrm { C } 3 ) ]$ 一 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4ENC-plot绘图分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从图3中可以看出，两种梧桐的大部分基因集中分布于标准曲线的两侧，说明其 ENC值与 ENC 期望值较为接近，而 rps8、rps14、rps18、petD、rpl16、psbA 基因偏离标准曲线较远，且ENC 值较小，密码子偏性较强。根据公式(ENC 期望-ENC 实际)/ENC 期望统计基因 ENC的分布频数(表4)，结果显示：大部分基因的 ENC 频数集中于-0.04\\~0.10之间，进一步表明大部分基因的 ENC 值与ENC 期望值差异较小，表明这部分基因密码子偏性主要受到突变的影响。rps8、rps14、rps18、petD、rpll6、psbA 分布于0.18\\~0.33之间，与0 点相差较远，表明这部分基因密码子偏性主要受到选择压力的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef7861b75da9db2687244f936907e96449ff33c29dcc54d59381335bf6692bac.jpg",
+        "img_caption": [
+            "图3ENC-plot绘图分析",
+            "Fig.3 Analysis of ENC-plot (ENC value against $\\mathbf { C } _ { \\mathrm { G C } 3 } \\mathrm { \\dot { . } }$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表4ENC比值频率分布",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/f62f11b426ed9c66c0f31713c011dda5107b3ddf38bc346ebe6905a32e4e70d7.jpg",
+        "table_caption": [
+            "Tab.4 Distribution of ENC frequency ratio "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组限</td><td>组中值</td><td colspan=\"2\">美丽梧桐F.pulcherrima</td><td colspan=\"2\">云南梧桐F.major</td></tr><tr><td>Class boundary</td><td>Class mid-value</td><td>组数Number</td><td>组频 Frequency</td><td>频数 Number</td><td>组频 Frequency</td></tr><tr><td>-0.1~ 0</td><td>-0.05</td><td>9.00</td><td>0.17</td><td>9</td><td>0.17</td></tr><tr><td>0~0.1</td><td>0.05</td><td>30.00</td><td>0.58</td><td>29</td><td>0.56</td></tr><tr><td>0.1~0.2</td><td>0.15</td><td>9.00</td><td>0.17</td><td>10</td><td>0.19</td></tr><tr><td>0.2~0.3</td><td>0.25</td><td>3.00</td><td>0.06</td><td>3</td><td>0.06</td></tr><tr><td>0.3~0.4</td><td>0.35</td><td>1.00</td><td>0.02</td><td>1</td><td>0.02</td></tr><tr><td>总数Total number</td><td></td><td>52.00</td><td>1.00</td><td>52</td><td>1.00</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5RSCU分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "利用CondonW 程序对两种梧桐叶绿体基因组52个编码基因进行RSCU分析，结果见表5，从表中可以发现，两种梧桐的高频密码子(RSCU>1)各有 29个，其中除UUG(RSCU大于1)外，以A/T 结尾的密码子RSCU值均在1以上，表明两种梧桐密码子偏好使用以A/T结尾的密码子，且两种梧桐植物对应密码子RSCU 值极为接近，进一步说明其叶绿体基因组密码子使用偏性较为接近，叶绿体基因组较为保守，种间差异较小。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表5两种梧桐密码子RSCU及最优密码子",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/8de01b23fcb7904e79c022e2983e69e6c4ceb72c10ab21a8a9659789f0d7c8de.jpg",
+        "table_caption": [
+            "Tab.5 Relative synonymous codon usage (RSCU) of genes and the optimal codons in Firmiana pulcherrimaand $F$ 、majorchloroplast "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">氨基酸</td><td rowspan=\"2\">密码子</td><td colspan=\"3\">美丽梧桐 F.pulcherrima</td><td colspan=\"3\">云南梧桐F.major</td></tr><tr><td>叶绿体</td><td>高表达</td><td>低表达</td><td>叶绿体</td><td>高表达</td><td>低表达</td></tr><tr><td>Amino Acid</td><td>Codon</td><td>Cp</td><td>High</td><td>Low</td><td>Cp</td><td>High</td><td>Low</td></tr><tr><td rowspan=\"5\">Ala(A)</td><td></td><td> genome</td><td>expression</td><td>expression</td><td> genome</td><td>expression</td><td>expression</td></tr><tr><td>GCA*</td><td>1.09</td><td>1.14</td><td>0.90</td><td>1.08</td><td>1.14</td><td>0.99</td></tr><tr><td>GCC</td><td>0.67</td><td>0.34</td><td>0.63</td><td>0.68</td><td>0.34</td><td>0.64</td></tr><tr><td>GCG</td><td>0.47</td><td>0.80</td><td>0.70</td><td>0.48</td><td>0.80</td><td>0.60</td></tr><tr><td>GCU</td><td>1.76</td><td>1.71</td><td>1.77</td><td>1.77</td><td>1.71</td><td>1.77</td></tr><tr><td rowspan=\"2\">Cys(C)</td><td>UGC</td><td>0.50</td><td>0.40</td><td>0.59</td><td>0.52</td><td>0.40</td><td>0.63</td></tr><tr><td>UGU*</td><td>1.50</td><td>1.60</td><td>1.41</td><td>1.48</td><td>1.60</td><td>1.37</td></tr><tr><td rowspan=\"2\">Asp(D)</td><td>GAC</td><td>0.42</td><td>0.93</td><td>0.35</td><td>0.41</td><td>0.93</td><td>0.38</td></tr><tr><td>GAU</td><td>1.58</td><td>1.07</td><td>1.65</td><td>1.59</td><td>1.07</td><td>1.62</td></tr><tr><td>Glu(E)</td><td>GAA*(*)</td><td>1.51</td><td>1.48</td><td>1.24</td><td>1.50</td><td>1.56</td><td>1.24</td></tr><tr><td rowspan=\"2\">Phe(F)</td><td>GAG</td><td>0.49</td><td>0.52</td><td>0.76</td><td>0.50</td><td>0.44</td><td>0.76</td></tr><tr><td>UUC</td><td>0.68</td><td>0.26</td><td>0.98</td><td>0.67</td><td>0.35</td><td>0.96</td></tr><tr><td rowspan=\"4\">Gly(G)</td><td>UUU***</td><td>1.32</td><td>1.74</td><td>1.02</td><td>1.33</td><td>1.65</td><td>1.04</td></tr><tr><td>GGA*</td><td>1.56</td><td>1.65</td><td>1.50</td><td>1.57</td><td>1.65</td><td>1.50</td></tr><tr><td>GGC</td><td>0.43</td><td>0.35</td><td>0.47</td><td>0.43</td><td>0.35</td><td>0.51</td></tr><tr><td>GGG</td><td>0.72</td><td>0.61</td><td>0.95</td><td>0.68</td><td>0.61</td><td>0.92</td></tr><tr><td></td><td>GGU**</td><td>1.29</td><td>1.39</td><td>1.08</td><td>1.33</td><td>1.39</td><td>1.07</td></tr><tr><td rowspan=\"2\">His(H)</td><td>CAC</td><td>0.51</td><td>0.40</td><td>0.50</td><td>0.50</td><td>0.40</td><td>0.51</td></tr><tr><td>CAU*</td><td>1.49</td><td>1.60</td><td>1.50</td><td>1.50</td><td>1.60</td><td>1.49</td></tr><tr><td>Ile(I)</td><td>AUA</td><td>0.93</td><td>1.11</td><td>1.00</td><td>0.94</td><td>1.11</td><td>1.00</td></tr><tr><td rowspan=\"3\"></td><td>AUC</td><td>0.57</td><td>0.32</td><td>0.74</td><td>0.57</td><td>0.32</td><td>0.71</td></tr><tr><td>AUU(*)*</td><td>1.50</td><td>1.58</td><td>1.27</td><td>1.48</td><td>1.58</td><td>1.29</td></tr><tr><td>AAA**</td><td>1.50</td><td>1.60</td><td>1.23</td><td>1.51</td><td>1.60</td><td>1.24</td></tr><tr><td>Lys(K)</td><td>AAG</td><td>0.50</td><td>0.40</td><td>0.77</td><td>0.49</td><td>0.40</td><td>0.76</td></tr><tr><td rowspan=\"5\">Leu(L)</td><td>CUA</td><td>0.81</td><td>0.57</td><td>0.87</td><td>0.81</td><td>0.57</td><td>0.84</td></tr><tr><td>CUC</td><td>0.37</td><td>0.19</td><td>0.58</td><td>0.37</td><td>0.19</td><td>0.59</td></tr><tr><td>CUG</td><td>0.39</td><td>0.00</td><td>0.54</td><td>0.39</td><td>0.00</td><td>0.61</td></tr><tr><td>CUU</td><td>1.23</td><td>1.52</td><td>1.44</td><td>1.25</td><td>1.52</td><td>1.50</td></tr><tr><td>UUA***</td><td>1.97</td><td>2.19</td><td>1.10</td><td>1.96</td><td>2.19</td><td>0.99</td></tr><tr><td></td><td>UUG</td><td>1.23</td><td>1.52</td><td>1.48</td><td>1.22</td><td>1.52</td><td>1.48</td></tr><tr><td>Met(M)</td><td>AUG</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td rowspan=\"2\">Asn(N)</td><td>AAC</td><td>0.47</td><td>0.72</td><td>0.48</td><td>0.46</td><td>0.69</td><td>0.48</td></tr><tr><td>AAU</td><td>1.53</td><td>1.28</td><td>1.52</td><td>1.54</td><td>1.31</td><td>1.52</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/9673ab6f1c86e5479aa8cae7a997a078e9051b3a7e3c22fe9a37815301c05099.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：\\*表示 ${ \\Delta \\mathrm { R S C U } } { \\geqslant } 0 . 0 8$ 且叶绿体基因组RSCU>1；\\*\\*表示△RSCU ${ \\geqslant } 0 . 3$ 且叶绿体基因组 ${ \\mathrm { R S C U } } { > } 1$ ；\\*\\*\\*表示 $\\Delta \\mathrm { R S C U } \\geqslant 0 . 5$ 且叶绿体基因组RSCU>1，△RSCU表示高、低表达基因库相应密码子之差。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Pro(P)</td><td>CCA</td><td>1.13</td><td>0.78</td><td>1.22</td><td>1.12</td><td>0.67</td><td>1.24</td></tr><tr><td>CCC</td><td>0.76</td><td>1.11</td><td>0.85</td><td>0.75</td><td>1.22</td><td>0.86</td></tr><tr><td>CCG</td><td>0.56</td><td>0.78</td><td>0.64</td><td>0.57</td><td>0.78</td><td>0.56</td></tr><tr><td rowspan=\"4\">Gln(Q)</td><td>CCU</td><td>1.55</td><td>1.33</td><td>1.28</td><td>1.56</td><td>1.33</td><td>1.33</td></tr><tr><td>CAA***</td><td>1.55</td><td>2.00</td><td>1.37</td><td>1.54</td><td>2.00</td><td>1.42</td></tr><tr><td>CAG</td><td>0.45</td><td>0.00</td><td>0.63</td><td>0.46</td><td>0.00</td><td>0.58</td></tr><tr><td>AGA</td><td>1.77</td><td>1.94</td><td>1.76</td><td>1.80</td><td>1.92</td><td>1.89</td></tr><tr><td rowspan=\"5\">Arg(R)</td><td>AGG</td><td>0.62</td><td>0.68</td><td>0.98</td><td>0.62</td><td>0.67</td><td>0.99</td></tr><tr><td>CGA*(*)</td><td>1.39</td><td>1.61</td><td>1.47</td><td>1.40</td><td>1.67</td><td>1.36</td></tr><tr><td>CGC</td><td>0.49</td><td>0.42</td><td>0.42</td><td>0.49</td><td>0.42</td><td>0.46</td></tr><tr><td>CGG</td><td>0.43</td><td>0.25</td><td>0.65</td><td>0.40</td><td>0.25</td><td>0.56</td></tr><tr><td>CGU**</td><td>1.29</td><td>1.10</td><td>0.72</td><td>1.29</td><td>1.08</td><td>0.73</td></tr><tr><td rowspan=\"6\">Ser(S)</td><td>AGC</td><td>0.39</td><td>0.67</td><td>0.30</td><td>0.37</td><td>0.55</td><td>0.32</td></tr><tr><td>AGU*</td><td>1.23</td><td>1.20</td><td>1.02</td><td>1.25</td><td>1.23</td><td>1.01</td></tr><tr><td>UCA</td><td>1.18</td><td>0.93</td><td>1.14</td><td>1.20</td><td>0.95</td><td>1.18</td></tr><tr><td>UCC</td><td>0.97</td><td>1.07</td><td>1.12</td><td>0.96</td><td>1.09</td><td>1.12</td></tr><tr><td>UCG</td><td>0.54</td><td>0.80</td><td>0.81</td><td>0.55</td><td>0.82</td><td>0.76</td></tr><tr><td>UCU</td><td>1.69</td><td>1.33</td><td>1.61</td><td>1.67</td><td>1.36</td><td>1.62</td></tr><tr><td rowspan=\"4\">Thr(T)</td><td>ACA*</td><td>1.23</td><td>1.37</td><td>1.20</td><td>1.22</td><td>1.37</td><td>1.25</td></tr><tr><td>ACC</td><td>0.80</td><td>1.03</td><td>0.77</td><td>0.78</td><td>0.91</td><td>0.69</td></tr><tr><td>ACG</td><td>0.40</td><td>0.23</td><td>0.67</td><td>0.42</td><td>0.23</td><td>0.79</td></tr><tr><td>ACU(*)</td><td>1.57</td><td>1.37</td><td>1.37</td><td>1.57</td><td>1.49</td><td>1.28</td></tr><tr><td rowspan=\"4\">Val(V)</td><td>GUA***</td><td>1.46</td><td>2.32</td><td>1.24</td><td>1.47</td><td>2.32</td><td>1.23</td></tr><tr><td>GUC</td><td>0.48</td><td>0.13</td><td>0.45</td><td>0.48</td><td>0.13</td><td>0.41</td></tr><tr><td>GUG</td><td>0.59</td><td>0.13</td><td>0.82</td><td>0.60</td><td>0.13</td><td>0.82</td></tr><tr><td>GUU</td><td>1.47</td><td>1.42</td><td>1.48</td><td>1.45</td><td>1.42</td><td>1.53</td></tr><tr><td>Trp(W)</td><td>UGG</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Tyr(Y)</td><td>UAC</td><td>0.41</td><td>0.00</td><td>0.43</td><td>0.41</td><td>0.00</td><td>0.42</td></tr><tr><td></td><td>UAU**</td><td>1.59</td><td>2.00</td><td>1.57</td><td>1.59</td><td>2.00</td><td>1.58</td></tr><tr><td>CodonsNo.</td><td>二</td><td>21138</td><td>635</td><td>3076</td><td>21124</td><td>635</td><td>3079</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Note:\\* means $\\Delta \\mathrm { R S C U } { \\geqslant } 0 . 0 8$ and chloroplast ${ \\mathsf { R S C U } } { \\mathsf { > } } 1$ ； $^ { * * }$ means $\\Delta \\mathrm { R S C U } \\geqslant 0 . 3$ and chloroplast ${ \\mathrm { R S C U } } { > } 1$ \\*\\*\\*means $\\Delta { \\mathrm { R S C U } } \\geq 0 . 5$ and chloroplast RSCU>1， △RSCU means RSCU difference between highly expressed genes and low expressed genes ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.6最优密码子分析",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "对两种梧桐植物叶绿体基因组基因的ENC 值进行排序，选出两极的 $10 \\%$ 基因作为高、低表达基因库，其中两种梧桐属叶绿体基因组高表达基因为rps8、rps14、petD、rps18、rpl16平均ENC 值分别为38.41(F.pulcherrima)、38.02(F.major); $F$ ：pulcherrima低表达基因为ycf2、petA、ycf3、ndhJ、atpE，而 $F$ 、major 为ycf2、clpP、petA、ycf3、ndhJ、atpE，平均ENC值分别为 55.21(F.pulcherrima)、55.24(F.major)。分别计算高、低表达基因库的RSCU 值，并计算对应密码子的△RSCU 值(高表达库RSCU 值-低表达库RSCU 值)，并与整体密码子的RSCU值结合比较，筛选出△RSCU值 $= 0 . 0 8$ ，且整体RSCU>1的密码子，定义为优越密码子。最终分别确定了17、18个表达优越密码子(见表4)，分别为GCA、UGU、GAA、UUU、GGA、GGU、CAU、AUU、AAA、UUA、CAA、CGA、CGU、AGU、ACA、ACU(为 $F$ .major优越密码子)、GUA、UAU，这些优越密码子均以A/U 结尾。此外，我们观察到两种梧桐植物叶绿体基因组使用的优越密码子基本相同，但其△RSCU 值存在一定的差异， $F$ pulcherrima 中的 GAA、CGA 密码子△RSCU>0.08 而 $< 0 . 3 0$ ，而 $F$ major 中 $\\triangle \\mathrm { R S C U } > 0 . 3$ ，AUU 表现则相反，ACU仅为 $F .$ .major的优越密码子，在 $F _ { \\ast }$ pulcherrima 中△RSCU $\\scriptstyle \\mathbf { \\bar { \\rho } } = 0$ ，推测可能与两种梧桐低表达库中所使用的编码基因差异有关。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "密码子是遗传信息的基本单位，是核酸与蛋白质的联系纽带，研究其使用情况对了解物种基因组进化具有重要意义(李平等，2011)。密码子使用偏性是物种不断进化适应的结果，其形成机制受多种因素的影响，其中突变作用和自然选择压力是其重要影响因素(王鹏良等，2018)。不同物种、基因家族中密码子使用偏性存在一定的差异，因此，密码子使用偏性是研究物种基因组进化关系及影响的重要指标之一。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "碱基组成差异对密码子的使用有重要的影响。密码子在第1、第2位碱基上的突变通常会导致编码氨基酸的改变，第3位碱基存在简并性，其突变对氨基酸改变通常无影响(尚明照等，2011)。因此，密码子第3位碱基的使用模式与密码子偏性密切相关。有研究表明，植物叶绿体基因组中密码子第三位碱基偏好使用A/T(Zhou etal.,2008；秦政等，2018）。本研究中，两种梧桐植物 $\\mathbf { C } _ { \\mathrm { T } 3 }$ 和 $\\mathbf { C } _ { \\mathbf { A } 3 }$ 高于 $\\mathbf { C } _ { \\mathrm { G 3 } }$ 、 $\\mathbf { C } _ { \\mathrm { C } 3 }$ ，且 $\\mathbf { C } _ { \\mathrm { G C 1 } }$ 、 $\\mathbf { C } _ { \\mathrm { G C } 2 }$ 均与 $\\mathrm { C } _ { \\mathrm { C G 3 } }$ 相关性不显著，$\\mathbf { C } _ { \\mathbf { C G 3 } }$ 比例最低，说明梧桐属植物叶绿体基因组密码子偏好使用 A/T 碱基结尾，与大花香水月季(Rosa odorata var. gigantea)、樟树(Cinnamomum camphora)、甜荞(Fagopyrum esculentum)(牛元等，2018；秦政等，2018；罗洪等，2015)等植物的研究结果一致。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "自然选择和突变是影响密码子使用偏性的重要因素(Sharp et al.，2010；Rao et al.，2011)。本研究通过对两种梧桐叶绿体基因组52个编码基因 $\\mathbf { C } _ { \\mathrm { G C 3 } }$ 与 $\\mathbf { C } _ { \\mathrm { G C 1 2 } }$ 相关分析表明，密码子第3位碱基GC 含量与第1、第2位碱基相关性弱，且线性回归斜率较小，表明两种梧桐密码子的使用受到选择压力因素较强；此外，PR2-plot分析发现，密码子第3位碱基上A/T 碱基和C/G 碱基使用频率存在差异，更偏好使用T、C碱基，进一步表明两种梧桐叶绿体基因组密码子使用不仅与碱基突变的有关，还更多受到选择的影响。ENC-plot 分析显示大部分基因的 ENC 值与期望 ENC值较为接近，其分布频数集中于-0.04\\~0.10之间，表明这部分基因受密码子偏性与第3位碱基的GC 含量相关，突变是主要影响因素；而 rps8、rps14、rps18、petD、rpl16、psbA 分布于标准曲线的下方较远位置，自然选择影响其密码子偏性的主要因素。综合中性绘图分析、ENC-plot、PR2-plot 等分析发现，突变和自然选择等多重因素共同影响着两种梧桐叶绿体密码子使用偏性。这与柿属植物、普通油茶、苦荞、甜荞等物种的叶绿体基因组密码子偏性研究结果相似(傅建敏等，2017；王鹏良等，2018；胡莎莎等，2016;罗洪等，2015)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究发现，两种梧桐中 29个高频密码子(RSCU>1)第3位碱基主要以A/U 结尾，与前人在其他植物中的研究结果相似(尚明照等，2011；刘慧等，2017；秦政等，2018)。与高表达密码子进行分析，最终确定美丽梧桐的最优密码子为17个，云南梧桐18个，分别为GCA、UGU、GAA、UUU、GGA、GGU、CAU、AUU、AAA、UUA、CAA、CGA、CGU、AGU、ACA、ACU(为F.major 优越密码子)、GUA、UAU，这些最优密码子以A/U 结尾，与大多植物叶绿体基因组最优密码子相似,表明梧桐与其他双子叶植物叶绿体基因组密码子第3 位碱基偏爱使用A/U 结尾(Kawabe＆Miyashita,2003)。有研究表明，物种间的亲缘关系越近，其密码子使用模式越相似(张太奎等，2017；张孟伟等，2018)，在本研究中，两种梧桐叶绿体基因组密码子使用偏性极为相似，但存在一定的差异。此外，研究还发现，美丽梧桐中叶绿体clpP编码基因丢失，云南梧桐的ndhK为假基因，推测两种梧桐适应环境改变的进化趋势有所不同，有待深入研究。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究分析比较美丽梧桐、云南梧桐叶绿体基因组编码基因的密码子偏性形成的影响因素和特点，以及两种梧桐叶绿体基因组的最优密码子，为外源基因密码子改造及梧桐属叶绿体基因组进化机制研究提供一定的理论基础。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ASHESH N, 2OO2. Investigations on Evolutionary Changes in Base Distributions in Gene Sequences [J]. Internet Electr J Molec Design,1: 545-558.   \nBUCHAN JR，AUCOTT LS, STANSFIELD I, 2006. tRNA properties help shape codon pair   \npreferences in open reading frames [J]. Nucleic Acids Res, 34(3): 1015-1027.   \nCHINESE ACADEMY OF SCIENCE，1984.Flora Reipublicae PopularisSinicae [M], http://frps.iplant.cn/，49(2):136-137．[中国科学院，1984．中国植物志[M]. http://frps.iplant.cn/， 49(2): 136-137. ]   \nFU JM, SUO YJ, LIU HM, et al.,2017. Analysis on codon usage in the chloroplast protein coding genes of Diospyros spp.[J].Nonwood For Res,35(2):38-44.[傅建敏，索玉静，刘慧敏，等, 2017．柿属植物叶绿体蛋白质编码基因密码子用法[J]．经济林研究，35(2):38-44.]   \nGABRIEL M,LAURENT D,2OO1. Synonymous codon usage,accuracy of translation, and gene length in Caenorhabditis elegans [J]. JMol Evol, 52: 275-280.   \nGUSTAFSSON C,GOVINDARAJAN S，MINSHULL J，2004. Codon bias and heterologous protein expression [J]. Trends Biotechnol, 22(7): 346-253.   \nHAUPT S, ZIEGLER A, COWAN G, et al., 2009. Studies of the role and function of barley stripe mosaic virus encodedproteins in replication and movement using GFP fusions [M]. Methods Mol Biol, 515: 287-297.   \nHU SS,LUO H, WU Q,et al., 2016. Analysis of codon usage bias of chloroplast genome of Tartary Buckwheat [J].Mol Plant Breed,14(2):309-317.[胡莎莎，罗洪，吴琦，等，2016. 苦荞叶绿体基因组密码子偏爱性分析[J]．分子植物育种，14(2):309-317.]   \nJIANG Y, DENG F, WANG HL, et al.,2O08. An extensive analysis on the global codon usage pattern of baculoviruses [J]. Arch Virol,153(12): 2273-2282.   \nKAWABE and MIYASHITA,2OO3. Paterns of codon usage bias in three dicot and four moncot plant species [J]. Genes Genet Syst, 78(5): 343-352.   \nLI GY, SHENG XH, XU PL, 2011. A preliminary report on wild resource survey of Firmiana pulcherrima[J].Torp For,39(1):50-52.[黎国运，盛小彬，徐佩玲，2011．美丽梧桐野生 资源调查初报[J]．热带林业，39(1):50-52.]   \nLI GY, GUAN XJ, SHENG XH, et al., 2011. Research on shoot cuting propagation of Firmiana pulcherrima Hsue [J].Torp For,39(4):36-38.[黎国运，关秀娟，盛小彬，等，2011．美丽 梧桐扦插育苗技术研究[J]．热带林业，39(4):36-38.]   \nLI J, LI HY, ZHI JK, et al., 2O17. Codon usage of expansin genes in Populus trichocarpa [J]. Current Bioinform, 12: 452-461.   \nLI P, BAI YF, FENG RY, et al.,2011. Analysis of codon bias of NAD-ME Gene in Amaranthus hypochondriacus [J].Chin JAppl Environ Biol,1: 12-17.[李平，白云凤，冯瑞云，等，2011. 籽粒苋苹果酸酶(NAD-ME)基因密码子偏好性分析[J]．应用与环境生物学报，1:12-17.]   \nLIU H, WANG MX, YUE WJ, et al., 2017. Analysis of codon usage in the chloroplast genome of Broomcom millet (Panicum miliaceum L.）[J].Plant Sci J,35(3): 362-371.[刘慧，王梦醒, 岳文杰，等，2017糜子叶绿体基因组密码子使用偏性的分析[J]．植物科学学报，35(3): 362-371.]   \nLIU QP, XUE QZ, 2005. Comparative studies on codon usage pattern of chloroplasts and their host nuclear genes in four plant species [J]. JGenet, 84(1): 55-62.   \nLIU X,ZHOU BY, YANG HY, et al.， 2018. Sequencing and analysis of Chrysanthemum carinatum Schousb and Kalimeris indica. The complete chloroplast genomes reveal two inversions and rbcL as barcoding of the Vegetable [J]. Molecules, 23(6): 1358.   \nLUO H, HU SS,WU Q, et al., 2015. Analysis of Buckwheat chloroplast genome bias [J]. Genom Appl Biol,34(11):2457-2464.[罗洪，胡莎莎，吴琦，等，2015．甜荞叶绿体基因密码子 偏爱性分析[J]．基因组学与应用生物学，34(11):2457-2464.]   \nNIU Y, XU Q, WANG YD,et al., 2018. An analysis on codon usage bias of chloroplast genmoe of Rosa odorata var.gigantea [J].JNWFor Univ,33(3):123-130.[牛元，徐琼，王崙德，等, 2018．大花香水月季叶绿体基因组密码子使用偏性分析[J]．西北林学院学报，33(3): 123-130].   \nQIN Z, ZHENG YJ, GUI LJ,et al., 2018. Codon usage bias analysis of the chloroplast genome of camphor tree (Cinnamomum camphora)[J]. Guihaia,38(10):1346-1355.[秦政，郑永杰，桂 丽静，等．樟树叶绿体基因组密码子偏好性分析[J]．广西植物，38(10):1346-1355.]   \nRAO Y, WU G, WANG Z, et al.,2011. Mutation bias is the driving force of codon usage in the gallus gallusgenome [J]. DNA Res,18(6): 499-512   \nRIBEIRO AS, HAKKINEN A,LLOYD-PRICE J, 2012. Effects of gene length on the dynamics of gene expression [J]. Comput Biol Chem, 41(4): 1-9.   \nSAJJAD ASAF, MUHAMMAD WAQAS,ABDUL L KHAN,et al.， 2017. The complete chloroplast genome of wild rice (Oryza minuta) and Its comparison to related species [J]. Frontiers Plant Sci, 8:304.   \nSHANG MZ, LIU F, HUA JP, et al., 2011. Analysis on codon usage of chloroplast genome of Gossypium hirsutum [J]. Sci Agric Sin,44(2):245-253.[尚明照，刘方，华金平，等，2011. 陆地棉叶绿体基因组密码子使用偏性的分析[J]．中国农业科学，44(2):245-253.]   \nSHARP PM EMERY LR, ZENG K, 2010.Forces that influence the evolution of codon bias [J]. Phil Trans R Soc B,365(1544): 1203-1212.   \nSHI YB, WANG GB, YANG XM, et al.,2018. Analysis of codon usage of WRKY transcription factors in Ginkgo biloba [J]. Mol Plant Breeding, http:kns.cnki.net/kcms/detail/46.1068.S.20180809.1423.008.html.[石元豹，汪贵斌，杨晓 明，等，2018．银杏 WRKY 家族基因密码子使用偏向性分析[J].分子植物育种， http://kns.cnki.net/kcms/detail/46.1068.S.20180809.1423.008.html. ]   \nSTOLETZKI N, 2011. The surprising negative correlation of gene length and optimal codon use-disentangling translational selection from GC-biased gene conversion in yeast [J]. BMC Evol Biol, 11(1): 1179-1187.   \nSUEOKA N, 2OO1. Near homogeneity of PR2-bias fingerprintsin the human genome and their implications in phyloge-netic analyses [J]. J Mol Evol, 53: 469 -476.   \nSUZUKI Y, 2011. Statistical methods for detecting natural selection from genomic data [J]. Genes Genet Syst, 85(6): 359-376.   \nWANG JH,CAI YC, ZHAO KK,et al.，2018.Characterization of the complete chloroplast genome sequence of Firmiana pulcherrima (Malvaceae) [J]. Conserv Genet Resour, 10(3): 445-448.   \nWANG PL, YANG LP, WU HY, et al., 2018. Codon preference of chloroplast genome in Camellia oleifera[J].Guihaia,38(2):135-144.[王鹏良，杨利平，吴红英，等，2018．普通油茶叶 绿体基因组密码子偏好性分析[J].广西植物，38(2):135-144.]   \nWRIGHT F, 1990. The effective number of codons used in a gene [J]. Gene,81(1): 23.   \nYA JD，YU ZX, YANG YQ, et al.，2018. Complete chloroplast genome of Firmiana major (Malvaceae),a critically endangered species endemic to southwest China [J]. Conserv Genet Resour, 10(4): 713-715.   \nYANG GF, SU KL, ZHAO YR, et al.,2015. Analysis of condon usage in the chloroplast genome of Medicago truncatula [J]. Atca Pratac Sin,24(12): 171-179.[杨国锋，苏昆龙，赵怡然, 等，2015．蒺藜苜蓿叶绿体密码子偏好性分析[J]．草业学报，24(12):171-179.]   \nYANG J, CHEN G, SUN WB,2018. Conserving Firmiana major,a tree species endemic to China [J]. Oryx,52(2): 211- 213.   \nYU ZX, YANG YQ, MO X, et al., 2O13. A shudy of artificial breeding of an endangered panlt (Firmiana major)[J].J Sichuan For Sci Technol,34(2): 62-65.[余志祥，杨永琼，莫旭，等， 2013.濒危植物云南梧桐(Firmiana major)人工繁育研究[J]．四川林业科技，34(2): 62-65.]   \nZHANG H, LI J, WANG RX, et al., 2018. Comparative analysis of expansin gene codonusage patterns among eight plant species[J]. J Biomol Struct Dyn, 7: 1-8.   \nZHANG MW, ZHANG TK,LIU CY, et al.,2018. Biosysthsis pathway evolution and codon usage bias analysis of lignin in Punica granatunm [J]. Mol Plant Breed,16(7): 2131-2138.[张孟 伟，张太奎，刘翠玉，等，2018．石榴木质素合成途径进化与密码子使用偏好性分析[J]. 分子植物育种，16(7):2131-2138.] ZHANG TK, QI GH, YE HL,et al., 2O17. Codon usage bias in pomegranate transcriptome [J]. Acta Hortic Sin,44(4):675-690.[张太奎，起国海，叶红莲，等，2017．石榴转录组密码 子使用偏向性[J]．园艺学报，44(4):675-690.] ZHENG WW, CHEN JH, HAO ZD,et al., 2016.Analysis on codon usage bias of chloroplast genes from five conifers including Cunninghamia lanceolata [J]. Mol Plant Breed, 14(5):   \n1091-1097.[郑薇玮，陈金慧，郝兆东，等，2016.杉木等5种针叶树叶绿体密码子偏好 性分析[J].分子植物育种,14(5):1091-1097.] ZHOU YD, ZHOU YB, YAN SL, et al., 2013. Effects of different substrates on seed germination and seeding growth of Firmiana pulcherrima Hsue [J]. J Trop Biol, 4(4): 322-326.[周亚东, 周有标，颜速亮，等，2013．不同基质对美丽梧桐种子育苗的影响[J]．热带生物学报，   \n4(4): 322-326.] ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

@@ -1,0 +1,143 @@
+# PEAK关系训练系统：孤独症语言障碍康复的新方法
+
+白晓宇1,2 Tawanda S.Mutusval,3 祝卓宏1.2\*（1中国科学院心理研究所健康与遗传重点实验室,北京100101）（2中国科学院心理研究所脑与认知科学国家重点实验室,北京100101）（3中国科学院大学心理学系，北京100039）
+
+摘要 PEAK（Promoting the Emergence of Advanced Knowledge，促进高阶知识涌现）关系训练系统是全球首个同时整合了斯金纳的《言语行为》和后斯金纳主义的“关系框架理论”，促进孤独症谱系障碍（Autism spectrum disorders,ASD）患者的语言、学习、社交等核心技能发展的语言行为评估训练系统。截至2018年底，PEAK关系训练系统由以下4个模块组成：直接训练模块、泛化模块等价关系模块、功能转化模块。每一模块依据难易程度分别设置了184个目标能力的评估方法及训练课程。已发表的多项实证研究表明，PEAK关系训练系统打破了《语言行为里程碑评估及安置程序》(Verbal BehaviorMilestonesand PlacementProgram,VB-MAPP)对ASD 患者进行里程碑评估时出现的“天花板效应”，有望比VB-MAPP提供更全面、高阶的语言行为评估体系，使ASD 患者的语言、学习、社交能力的提升范围从低龄（18个月）拓展至成年（18岁）。此外，PEAK关系训练系统表现出的评估工具的信效度良好、多项效果研究显著、实践中易操作等特性，使其不仅适用于专业人员教学，未来在ASD 患者家庭干预模式中也有潜在的应用价值。
+
+关键词孤独症谱系障碍；关系框架理论；PEAK；言语行为；VB-MAPP分类号 B842.5;R749.94
+
+# 1问题的提出
+
+孤独症谱系障碍（Autism spectrumdisorders，以下简称ASD）是一组起病于婴幼儿期的神经发育障碍，临床的核心症状主要表现为1）多情景中持续存在的社交和互动障碍；2）重复刻板的行为及兴趣或活动内容狭窄。研究发现，语言障碍在ASD患者中比较多见，是造成其核心症状社交和互动障碍的重要原因(Simms&Jin,2015)。语言障碍是指在理解和使用口头语、书面语及其他信号系统上的障碍(茅荣杰，汪作为，杜亚松，2017)。不同年龄段的ASD 患者都会表现出不同程度的语言障碍:有的患儿2\~3岁还不会说话，或者在正常的语言发育后又出现倒退；有的患儿具备语言能力甚至语言过多，但其语言缺乏交流性质，表现为无意义、重复刻板的语言。因此，对ASD患者而言，任何一个康复方案中最重要的一环就是及早评估并开展有效的语言沟通技能训练，从而促进其核心障碍的康复(牛瑞花，徐胜，2016)。
+
+言语行为分析（AnalysisofVerbalBehavior）是一种根基于斯金纳1957年发表的《言语行为》（VerbalBehavior）原理而对ASD患者的语言障碍进行干预的方法，通常被包含在应用行为分析（Applied Behavior Analysis，ABA）方法分类下，是被美国孤独症中心（NationalAutismCenter）审核为有大量循证依据支持其有效性的ASD患者语言障碍康复方法。应用言语行为分析提高ASD儿童功能性语言的能力，首先要准确评估他当前的语言能力，得出ASD儿童独特的能力和学习的强项、弱项。依据儿童特性是为其制定个别化教育计划（Individualized Educational Plan,IEP）的前提。目前，基于斯金纳的《言语行为》而开发的针对ASD或其他语言发育迟缓儿童的语言和社会能力的评估训练系统主要为基本语言和学习技能评估修订版》（The Assessment of Basic Language andLearning Skills-Revised,ABLLS-R)和《语言行为里程碑评估及安置程序》（VerbalBehavior Milestones and Placement Program,VB-MAPP)。其中，由于 VB-MAPP有一套基于发育标准作参考的评估系统，并且明确了同一类能力的点与点（VB-MAPP称之为“里程碑”）之间的进阶关系，使操作者有更加明确的训练目标和任务，被广泛应用于美国的ASD 康复机构(Sundberg,2008)。2014 年，伴随黄伟合、李丹等学者翻译的《语言行为里程碑评估及安置程序》在我国的出版和相关培训的开展，VB-MAPP在我国ASD的康复领域也成为热点，越来越多地被我国ASD 康复机构学校和所采用(桑德伯格,2014)。ABLLS-R和VB-MAPP的诞生，使斯金纳的《言语行为》从理论层面走向了系统化的实践应用。但近年来的实证研究发现表明：只依据VB-MAPP和ABLLS-R，提升ASD患者的语言交流能力，存在一些限制和不足，有待进一步突破和改进。
+
+首先，Dixon等人认为VB-MAPP和ABLLS-R等语言行为评估训练方法，并没有最大化地利用斯金纳《言语行为》中提出的理念，目前仍停留在训练ASD患者习得基本的语言操作技能：比如主要掌握提要求、命名、听者反应、仿说、肢体语言模仿、抄写、听写、逐字阅读、简单对话等。虽然掌握以上基本的语言操作元素，对于几乎没有语言能力的ASD患者而言，会出现阶段性的促进语言发展的显著效果；但从长远来看，为了对ASD患者的核心障碍，产生真正有意义的效果，这些系统必须要增加更加复杂、高阶、对ASD儿童成年后有实质帮助的语言沟通能力项目，否则很容易在阶段性训练后，出现“天花板效应”(Dixonetal,2014)。此外，即使最大化地应用斯金纳的《言语行为》的理论，近年来也不断有发表的研究去争议斯金纳的《言语行为》是否已经足够完整。争议最大的主要聚焦于以下两点(Gross & Fox,2009; Reed & Luiselli,2016; Stewart, Mcelwee,& Ming,2017):
+
+（1）斯金纳在《言语行为》中认为言语行为的本质是一种操作（Operant），并没有清楚地理解和表达语言的推衍性关系的实质，因此无法解释刺激之间主观随意应用的推衍关系反应（ArbitrarilyApplicableDerivedRelationalResponses,AADRR），而AADRR正是人类复杂语言建构的必要途径。这也是为何斯金纳的《言语行为》不能解释儿童在3\~4岁时突然会有大量自发语言产生（3\~4岁的儿童们所接触到的话语是有限的，但却可以说出自己从没听到过的话），从而受到乔姆斯基对其理论强烈抨击的重要原因。
+
+（2）斯金纳在《言语行为》第2页，对言语行为仅给出一个初步定义：“言语行为是通过他人的中介而得到强化的行为。”(Skinner,1957)。不少学者认为，斯金纳对言语行为的定义过于宽泛，因为“他人的中介而得到强化的行为”，将那些无关紧要、不应被视为言语行为的行为事件包括进来，且没有将人和其它动物的行为做出区分。例如，根据“言语行为”的定义，实验室里小白鼠按动杠杆获取食丸的行为可以被认为是言语行为，因为小白鼠的这一行为是受到实验员的中介强化的，而实验员的行为又是受到他所在的具备语言能力的社区训练的，因而能够扮演“听话人”的角色(Hayes,Barnes-Holmes,&Roche,2001)。斯金纳本人认为把具有言语行为定义性特征的“非人类行为”作为言语行为的研究对象是非常合适的，他在《言语行为》第225页指出言语行为本身就“附带包括了那些由实验员或者特殊设计的装置提供强化的实验动物的行为……动物和实验员构成了一个小型但却真实的言语社区”(Skinner,1957)。
+
+因此，如果只遵从斯金纳对言语行为的操作性定义去发展ASD儿童的语言能力：我们会发现，在前期，斯金纳的言语行为理论会有效地促进ASD儿童掌握基本的语言技能；但后期，由于缺乏对AADRR的训练和习得，ASD儿童不能掌握更高阶的语言能力，建构更复杂的语言和认知，同时由于陷入只通过“操作性条件反射”这一范式习得语言的局限性，ASD儿童掌握的语言技能过于僵化、刻板，不能灵活适应不同语境，从而导致他们依然会存在复杂语境下的沟通障碍；而不是基于语言的功能，在不同的语境下可以灵活运用以更好地交流。
+
+对上述斯金纳的《言语行为》中没有澄清或解决的问题，后斯金纳时代言语行为分析领域的重要发展理论，比如阐明语言推衍性关系本质和分析人类语言和认知形成的“关系框架理论”给出了解决方案，并对《言语行为》中的核心概念，进一步探讨和完善(王分分，祝卓宏，2017)。那么，如果同时整合斯金纳的《言语行为》原理和后斯金纳主义的关系框架理论，开发新型的促进ASD患者语言障碍康复的评估训练系统，是否能对上述ASD语言障碍康复现状中存在的限制和不足，给出新的解决方案？是否能打破已有的言语行为评估工具存在的天花板效应，如VB-MAPP等只适用于评估ASD患者是否具备低龄段的语言社交能力（18个月 ${ \sim } 4$ 岁）？是否能为ASD患者提供更高阶的语言社会交流能力的训练系统？下文将通过综述PEAK（Promoting the Emergence ofAdvanced
+
+Knowledge，促进高阶知识涌现）关系训练系统（RelationalTraining System）的研发原理、结构特性及其在ASD康复领域的应用发现、优势、不足等，对以上问题的提出给予解答。
+
+# 2PEAK关系训练系统一一打破VB-MAPP里程碑评估的天花板效应
+
+2014年，美国心理学家MarkDixon（国际认证行为分析师博士级,BCBA-D）创立了PEAK，PEAK不仅可应用于评估ASD患者或其他发展性障碍群体的语言、认知和社交能力缺陷，还可以依据评估结果，为每位患者制定IEP，从而提高其语言、学习、社交能力。PEAK的研发原理，不仅以斯金纳《言语行为》的核心概念为基础，同时重点整合了后斯金纳主义的“关系框架理论”（RelationalFrame Theory,RFT）。在组成结构上，PEAK包括4个模块，直接训练 模块（PEAK-Direct Training module,PEAK-DT）、泛化 模块（PEAK-Generalization module,PEAK-G）、等价关系模块（PEAK-Equivalence module,PEAK-E）、功能转化模块（PEAK-Transformation module,PEAK-T）（图1）。4个模块共涵盖736个技能选项，每个模块依据难易程度依序设置184个训练技能点，以实现不同模块所要求的目标能力。
+
+![](images/a07e6b7ee02d1271bc37ef6b8cd3a574a6613dd66c393362feee9aea7bf65c26.jpg)  
+图1PEAK关系训练系统模块框架图
+
+2015 年，Dixon 等人分别用VB-MAPP和PEAK两种不同的语言行为评估系统，对随机选取的40名ASD患者（年龄 $_ { 5 \sim 2 1 }$ 岁，均值12.62岁），评估他们的语言、学习、社交技能(Dixon,Belisle,Stanley,Rowsey,Daar,& Szekely,2015)。结果发现：VB-MAPP里程碑的评估结果和PEAK中前两个模块的评估分值总和显著正相关（ $\scriptstyle 1 = 0 . 8 2 6 6$ ， $\mathrm { { \tt p } } { < } 0 . 0 0 0 1$ ），和PEAK直接训练模块（PEAK-DT）的正相关性更强（ $\scriptstyle \mathtt { r } = 0 . 9 3 2 2$ ， $\mathrm { { \tt p } } { < } 0 . 0 0 0 1$ ），回归分析发现PEAK的评估结果对VB-MAPP的评估分值有正向预测作用。每位ASD患者的VB-MAPP评分和其对应的PEAK评分存在非线性的函数关系，关系的规律最符合对数曲线的回归模型中 $\scriptstyle \left. \mathrm { R } ^ { 2 } = 0 . 9 5 9 8 \right.$ ）。即对同一ASD患者被试群体，PEAK和VB-MAPP的评估分值关系表现为，随着PEAK评分的增加，VB-MAPP的评分快速接近里程碑评估满分（170分），出现评估结果的“天花板效应”。对VB-MAPP里程碑评估中取得满分的ASD患者，在PEAK评估系统中依然被区分出不同分值的能力水平，表现为从138分到368分不等。整体对比，40名ASD患者中有 $50 \%$ （20人）达到了VB-MAPP里程碑评估满分，不能依据VB-MAPP评估结果制定IEP，再从VB-MAPP训练计划中受益；而在PEAK评估中仅有 $5 \%$ （2人）达到PEAK评估的满分；其余38人可以依据PEAK评估结果制定IEP，进一步提升他们的语言、学习和社交技能。
+
+Dixon通过该研究得出结论：相比VB-MAPP，PEAK能提供更全面、高阶的语言能力评估体系。VB-MAPP里程碑可以评估的语言、学习、社交能力范围不超过正常儿童发育到4岁的水平，而对于更加复杂、高阶的语言、学习、社交能力，可以通过PEAK做出评估，并制定IEP对ASD儿童进行训练。VB-MAPP的创始人Sundberg认可了这一研究结果的信度和效度，并在阐述VB-MAPP的外部效度时，引用该研究数据，作为VB-MAPP评估工具的外部效度的证明(Sundberg,2018)。事实上，对PEAK的研究并不只这一篇，自2014年PEAK创立至2018年4月，Dixon及其团队在国际期刊上，已发表29 篇经同行审核的PEAK相关研究文章。已有研究发现，PEAK关系训练系统的第一个模块PEAK-DT不仅打破了VB-MAPP里程碑评估的天花板效应，还可以评估和训练ASD 患者的语言、学习、社交能力范围到正常儿童发育在18个月～9岁所具备的能力水平。PEAK-G模块则在此基础上，再扩展到11岁（18个月 ${ \sim } 1 1$ 岁）。PEAK系统中的后两个模块：PEAK-E 和PEAK-T模块，则更侧重于通过 Sidman的刺激等价（StimulusEquivalence）和Hayes 的关系框架理论训练儿童习得不同类型的推衍关系反应，旨在训练儿童习得复杂语言、发展高级认知必备的关系框架建立的能力(Dixon etal., 2017)。
+
+为何相比主流的评估系统VB-MAPP，PEAK能提供更全面、高阶的语言行为评估体系？Dixon认为，原因在于PEAK的每一模块的设计原理都同时整合了传统的斯金纳的语言操作训练（VerbalOperant Training,VOP）和后斯金纳主义RFT的推衍关系反应（Derived Relational Responding,DRR）。2001年，Steven C.Hayes 和Barnes-Holmes 等人撰写的《关系框架理论—一关于人类语言和认知的后斯金纳主义方法》的出版标志着RFT理论的成熟和体系的建立。RFT的核心是推衍关系反应（DRR）或者说是关系框架（Relational
+
+Framing），RFT认为言语行为是将一个刺激与其他刺激建立众多关系类型，从而形成关系框架的行为 (Hayes et al.,2001)。
+
+早在1971年,行为分析师 Sidman 在刺激等价的研究中，就对DRR产生了兴趣，本质上等价关系由对称关系（包含自反关系）、传递关系两种主要的关系反应类型构成(王分分，祝卓宏，2017)。尽管刺激等价的研究对DRR的解释具有重要意义，但其将DRR仅仅局限在等价关系中，而RFT的出现将DRR扩展至更多的关系反应类型。按照关系反应的内容来分，关系反应包括：一致关系、对立关系、比较关系、时间关系、空间关系、层级关系、直证关系等等；按照关系反应是否基于物质的性质，可将关系反应分为两种：客观非任意的推衍关系反应、主观任意的推衍关系反应。相互推衍（MutualEntailment）、联合推衍（Combinatorial Entailment）和刺激功能转化（Transformationof the StimulusFunction）是关系框架建立的核心特征。人类对语言的习得和发展，正是在有限的经过训练形成的刺激间关系反应的基础上，通过相互推衍、联合推衍、刺激功能转化三大基本的推衍途径建立起关系框架，基于不同的关系框架，推衍出大量未经训练就可以建立的新的刺激间的关系反应，从而由简单的关系框架不断推衍形成复杂的关系网络，涌现出更加高阶的语言和认知(王淑娟，张崎，祝卓宏，2012)。
+
+Hayes等人认为，斯金纳在《言语行为》中忽略掉的两大问题，RFT给出了解决方案:
+
+（1）RFT清楚地指出了语言的推衍性关系反应的实质，回答了自发语言是如何产生的问题，因此也可以解释为什么3\~4岁的儿童所接触到的话语是有限的，但却可以说出自己从未听到过的话(Hayes etal.,2001)。朱丽莎和祝卓宏等(2017)对230名2\~7岁的中国正常儿童的关系反应水平进行评估时发现：4岁是正常发育儿童关系框架建立能力发展的关键拐点，具体表现为在4岁前，儿童通过一致关系、对立关系、比较关系、客观非任意的DRR等简单的关系反应类型建构语言，而4岁后则开始掌握更加复杂的关系反应类型，如时间关系、空间关系、层级关系、直证关系、主观任意的DRR等。因此4岁后，由于有更多关系反应类型全面参与关系框架的建立，通过相互推衍、联合推衍、刺激功能转化而构建出的关系网络更为复杂和灵活，表现为4岁儿童涌现出更加高级的语言能力，可以未经训练，自发产生大量语言。
+
+（2）斯金纳对言语行为的定义“言语行为是通过他人的中介而得到强化的行为”，实际上并不完善。在斯金纳的体系中，无法回答为什么只有人能学会语言，而大猩猩等灵长类动物无论如何也学不会语言的问题。此外，斯金纳认为言语行为的习得必须依赖他人媒介，过度强调了外部环境对言语行为习得的作用，而忽略了一个人的内部语境，也可以通过语言的推衍性关系反应建立关系框架，生成语言(Niklas&Hayes,2010)。
+
+关系框架是建立在语境的特征基础上的关系反应，而不是仅仅以刺激的物理特征为基础。关系框架建立的三大特征：相互推衍和联合推衍定义了关系框架形成的关系线索，刺激功能的转化定义了关系框架形成的功能线索，而关系线索和功能线索都是RFT用来界定关系框架的语境线索。因此，RFT的视角澄清了语言产生的原理，即语境线索控制下由关系框架推衍而产生的关系反应。不仅回答了自发语言是如何产生的问题，对于乔姆斯基强烈抨击斯金纳的《言语行为》的重要原因，给予了回应。而且基于RFT的原理去训练语言的习得，不仅能摆脱操作性条件反射的局限性，避免在灵活多变的语境下，始终保持僵化的、刻板的言语行为而导致复杂语境中的沟通障碍，而且可以通过刺激功能转化增强语言的积极作用，即基于语言的功能在不同的语境下灵活运用以更好地沟通交流。
+
+可见，同时整合斯金纳的《言语行为》以及后斯金纳主义的“关系框架理论”，PEAK打破了目前主流的言语行为评估系统VB-MAPP的“天花板效应”，有望提供更全面、高阶的语言行为评估体系，使ASD 患者的语言、学习、社交能力的提升范围从低龄拓展至成年。
+
+# 3PEAK关系训练系统在ASD康复领域的循证研究
+
+# 3.1PEAK作为评估工具的信效度检验
+
+截至2018年4月，同行评议的国际期刊上可检索到8篇PEAK作为言语行为评估工具的信效度检验的心理测量学相关文章。检验结果表明：在重测信度（ICC：0.987）、观察者间信度（IOR： $8 5 \% { \sim } 9 9 . 1 \%$ ）、内部一致性信度（Cronbachα：0.981）方面，PEAK都得出较高的信度系数。对同一ASD患者被试群体，PEAK的评分结果和其他经典的言语行为评估工具的结果均呈显著正相关：如ABLLS-R（ $\scriptstyle \cdot = 0 . 9 5 1$ ， $\mathrm { p } { < } 0 . 0 5$ ）、VB-MAPP $\stackrel { \prime } { \mathrm { \tiny { ( r = 0 . 9 3 2 , p < 0 . 0 5 ) } } }$ ）、皮博迪图片词汇测验PPVT（ $\scriptstyle 1 = 0 . 9 0 8$ ， $\mathrm { p } { < } 0 . 0 5$ ）、Vineland 适应行为量表VABS-II（204号 $( \mathrm { r } { = } 0 . 4 5 3 , \mathrm { p } { < } 0 . 0 5 )$ 、韦氏儿童IQ测试 $( { \bf r } { = } 0 . 7 5 9 , { \bf p } { < } 0 . 0 5 )$ ）等，表现出良好的效标效度（median $\scriptstyle \mathbf { r } = 0 . 9 0 8$ ）。对PEAK系统的全部条目进行逻辑分析和因子分析，也得出PEAK具有良好的内容效度和结构效度。Dixon指出以上信效度检验结果表明PEAK可作为一个信效度良好的言语行为评估工具；相比之下，其他基于ABA的言语行为评估工具如VB-MAPP、ABLLS-R等信效度的实证研究尚不全面，有待进一步完善(Dixon et al.,2017)。
+
+# 3.2PEAK关系训练系统对ASD患者干预的效果研究
+
+与其他现有的语言行为训练课程主要适用低年龄段的ASD儿童不同，PEAK对ASD患者干预的年龄段范围较广（18个月\~21岁）。截至2018年4月，同行评议的国际期刊上可检索到21篇PEAK对ASD患者的语言、学习和社交技能干预的效果研究。分别有14项研究是对ASD儿童；4项研究的被试为ASD青少年；1项研究的被试是ASD成年人。
+
+PEAK-DT模块作为PEAK关系训练系统的第一个模块，主要通过以下四个方面来直接训练ASD患者习得语言和学习能力（18个月\~9岁）：基本学习技能、感知觉技能、语言理解技能、隐喻推理及数学技能。PEAK-DT模块的184个能力选项的难度依序递增，在PEAK-DT模块中排序较前的能力选项，主要基于斯金纳的应用言语行为分析，训练ASD患者习得基本的语言操作技能，比如面对具体的物质刺激，能够提要求、命名、仿说、听者反应、动作模仿、眼神对视、抄写、听写、感知觉描述、样本配对等。在ASD患者习得基本的语言操作技能之后，PEAK-DT模块中排序较后的能力选项，则训练ASD患者在面对抽象的内容刺激，仍然可以表现出以上技能，并能通过推衍关系反应，掌握初级的隐喻推理与数学技能(Reed&Luiselli,2016)。
+
+McKeel等人从美国某ASD学校随机抽取27名ASD 患者被试（年龄5\~21岁），全部被试在试验前未接触过PEAK的评估训练方法。27名ASD患者被试随机分为PEAK-DT组（ $\mathrm { \tt m } { = } 1 4$ ）和日常干预对照组（ $\scriptstyle \mathbf { n = } 1 3$ ）两组。日常干预对照组的被试，照常接受学校安排的综合课程：包括演讲治疗、绘画疗法、音乐疗法、社交互动游戏、数学题练习和问题行为消退等综合性干预项目，并且项目中不包含通过回合式操作教学法（Discrete Trial Trainings,DTT）教授技能。PEAK-DT组的被试在正常接受上述学校综合课程之外，每周进行PEAK-DT的一对一训练2次，通过DTT的形式习得目标能力项目。在PEAK-DT训练前和训练1个月后，对全部被试进行PEAK-DT模块184个能力项目的评估。结果发现两组被试在训练前PEAK-DT评估结果无显著差异；在训练1个月后，PEAK-DT训练组的评估分值平均上升15.79分，日常干预对照组评估结果平均下降2.66分，两组相比具有显著的统计学差异（ $\mathrm { F } ( 1 , 2 2 ) { = } 9 . 6 8 4$ ， $\mathtt { p } < 0 . 0 1$ ）。McKeel等人由此试验得出结论，即使每周对ASD患者只进行2次PEAK-DT训练，每次训练时间持续 $1 0 { \sim } 2 0 \ \mathrm { m i n }$ ，在训练1个月后就可以观察到ASD患者的语言、学习、社交能力显著提升的效果 (McKeel,Dixon,Daar,Rowsey,& Szekely,2015)。
+
+Dixon 等人对McKeel等人的研究发现进一步延伸，在更长期内考察PEAK-DT对ASD患者的干预效果。他们随机招募了34名来自3所美国ASD学校的患者被试（年龄 $5 { \sim } 1 5$ 岁），其中15名ASD患者被试被选作对照组，因为他们所在的学校，给学生提供的IEP中不包含PEAK-DT课程，但包括演讲治疗、绘画疗法、音乐疗法、社交互动游戏、数学题练习及通过ABA教授语言、社交技能，减少问题行为等综合性的干预课程。另外19名ASD患者作为PEAK-DT组，他们所在的学校给学生提供的IEP中，除了像对照组一样给ASD患者提供包括ABA在内的综合性干预课程之外，还增加了PEAK-DT课程。这两组被试所在的学校，每天给ASD患者提供IEP的干预时间均为6h,不同的是，PEAK-DT组的6h 训练中，包含了PEAK-DT的训练，每日PEAK训练的时间为 $1 0 { \sim } 6 0 \mathrm { m i n }$ 不等，具体时间取决于每位ASD 患者掌握PEAK-DT中目标能力的进度和结果。在3所ASD学校保持上述IEP设置1年后，研究者发现PEAK-DT组的ASD 患者，在1年后平均习得PEAK-DT模块中16项新的目标能力（包括语言、学习和社交方面），PEAK-DT组的评估分值平均上升16.0分；而对照组在1年后PEAK-DT评估结果出现了倒退，平均下降6.1分，并未习得PEAK-DT模块中任何新的目标技能，两组相比具有显著的统计学差异（ $\mathrm { ~ F ( 1 , 3 3 ) } = 1 0 . 6 6 , \mathrm { p } <$ 0.05）。因此，MarkDixon等人得出结论，即使对于普通的ASD机构或学校，在维持机构IEP设置框架不变的前提下，让和ASD患者进行一线互动的特教老师习得PEAK的训练方法，在包含ABA为主的综合干预课程中加入PEAK-DT的评估训练，也能观察到ASD患者的语言、学习和社交等目标能力提升的速度显著加快的效果，说明PEAK-DT在真实的ASD机构或学校环境中有效可行(Dixon, Belisle, Stanley, & Rowsey, 2018)。
+
+PEAK关系训练系统的第二个模块PEAK-G是刺激泛化模块，旨在帮助ASD 患者对PEAK-DT中通过直接训练习得的技能，在新的相似情境（语境）下，依然能保持或者未经训练就表现出类似的新技能（行为）。PEAK-G模块也包括184个能力选项，具体归为以下四类：基本学习和基本社交技能；基本语言理解、记忆和高级社交技能；高级语言理解、基本问题解决和高级数学技能高级问题解决和高级阅读与写作技能。
+
+Dixon等人招募3名ASD儿童被试（年龄4\~5岁），被试接受过PEAK-DT训练，并至少掌握了PEAK-DT模块中前30个能力项目，但从未接受过PEAK-G训练。通过跨行为多基线试验设计，应用训练-测试法（Train-TestTrial）而不再是DTT法，训练并考察每名ASD儿童被试是否能对PEAK-G模块中更复杂的语言操作技能：如创造性（路径试验）、自动附加的提要求、特定情境下扭曲命名等行为泛化。结果表明，3名ASD儿童被试在创造性（路径试验）、自动附加的提要求、特定情境下扭曲命名等技能训练 $4 { \sim } 1 2$ 次后，均可以观察到对未经训练过的类似刺激，在新的场景中，持续表现出正确反应，证明了上述目标能力应用PEAK-G 训练后可以泛化的有效性(Dixon,Peach,Daar,&Penrod,2017)。
+
+PEAK关系训练系统的第三个模块PEAK-E是等价关系模块，通过184个能力项目评估并训练ASD患者习得等价关系中重要的关系反应类型：包括自反关系、对称关系、传递关系，并通过RFT的三大推衍范式：相互推衍、联合推衍、刺激功能转化建立不同类型的等价关系之间的关系框架，产生转化关系。PEAK-T模块则进一步将DRR从等价关系扩展至更多关系反应类型：非任意的一致、比较、不同、相反、直证及层级的DRR技能；基于文化的一致、比较、不同、相反、直证及层级的DRR技能；简单的主观任意的一致、比较、不同、相反、直证及层级的DRR技能；复杂的主观任意的一致、比较、不同、相反、直证及层级的DRR技能。
+
+Dixon 等人在8个多基线设计的个案研究中，都观察到对不同的ASD儿童和ASD青少年，比如在分别训练并习得了：味觉的文字名称（A）和反映味道的图片（B）、反映味道的图片（B）和味觉的口头名称（C）之间的等价关系之后，ASD患者可以未经训练自动推衍出味觉的口头名称（C）和反映味道的图片（B）之间的等价关系。此外，对其他22个不同类型的刺激，比如化合物的属性、历史事件、动物分类、几何图形等等，ASD患者都可以在习得的等价关系基础上，未经训练自动推衍出新刺激之间新的等价关系，8个个案研究的非重叠数据百分比（PercentageNon-overlappingData，PND）均值为 $9 6 . 3 \%$ ，证明训练效果非常显著(Dixon et al.,2017)。
+
+Belisle等人考察3名ASD青少年（年龄12\~18岁）是否可以通过PEAK-T模块中“观点采择”能力项目的训练方法，在不同语境下理解直证关系中的“我一一你”，并习得相互推衍、联合推衍、刺激功能转化等技能，建立直证关系反应之间的关系框架。结果发现：基线水平，3名ASD被试对于“我—一你”之间相互反转的直证关系是不掌握的。举例：选择正反面分别画着不同图案的三张图片（作为刺激1），首先让被试看清楚图片的止反两面各画着什么，然后将图片垂直中立举在被试和主试中间，分别提问：“如果你是我，我是你，那么你现在看到了什么？”（提问1）“如果你是我，我是你，那么我现在看到了什么？”（提问2）。3名被试对提问1和2的反应正确率在基线水平均为0。然后，通过跨被试跨行为的多基线试验设计，分别训练3名被试对提问1，能依据刺激1中的3张图片做出正确反应，并做到持续3次正确反应率在 $100 \%$ 。此时，未经训练直接检验3名被试对刺激1中提问2的反应正确率。观察到其中的2名被试，对提问2可做出正确反应，正确反应率持续3次在 $100 \%$ 。说明这2名被试，已经习得了相互反转的“我一一你”之间的直证关系反应之间的相互推衍、联合推衍能力。同时，他们对于更换后两面都画着完全不同类型图案的3张新图片（作为刺激2），在回答提问1和提问2时，也表现出了正确反应，正确反应率初始值大于 $80 \%$ ，并最终连续3次稳定在 $100 \%$ 。说明这2名被试，已经表现出相互反转的“我—一你”之间直证关系反应的刺激功能转化能力，即对于完全不同的新刺激，依据已有刺激习得的关系框架和已有关系反应的功能特征，可以未经训练就能自动转化出新刺激之间的关系框架。Belisle等人指出，“刺激功能转化”与“刺激的泛化”概念不同，“刺激功能转化”中出现的新的刺激和原训练时接受的旧刺激一定是形式不同（刺激2和刺激1不同），但存在功能联系；而“刺激的泛化”中出现的新刺激必须是和原训练时接受的刺激形式相似（刺激2和刺激1相似），不一定存在功能联系。
+
+本研究中另外一名被试，初始未表现出可以不经训练，就自动推衍出提问2的正确答案，说明其未掌握所检测的直证关系中的相互推衍、联合推衍能力。对该被试追加训练，使其对刺激1中的图片进行提问2，能持续3次表现出正确反应后；再选择刺激2中的新图片，未经训练直接检测，发现该被试对刺激2中的2个提问，均持续3次表现出 $100 \%$ 的正确反应率。说明即使对建立关系框架能力更弱的ASD被试，增加训练次数，延长训练周期后，也可以习得并理解在不同语境下直证关系中的“我—一你”，掌握相互推衍、联合推衍、刺激功能转化等建立关系框架的核心技能。以上研究结果，提示应用PEAK-E模块中的训练方法，帮助ASD患者习得建立关系框架的能力，促进观点采择能力的发展是可行且有效的(Belisle,Dixon, Stanley,Munoz,&Daar,2016)。
+
+# 4不足与展望
+
+PEAK关系训练系统是全球首个同时整合斯金纳的《言语行为》理念和后斯金纳主义的“关系框架理论”，促进ASD患者语言、学习、社交等能力发展的手册化操作的评估训练系统，已经被证明可打破VB-MAPP里程碑评估（18个月 $\sim 4$ 岁）的天花板效应，有望比VB-MAPP提供更高阶、全面的语言、学习、社交能力评估训练方法。但由于发展时间尚短，PEAK仍然存在很多不足之处：
+
+（1）PEAK现有的模块主要侧重于提升ASD患者的语言、学习、社交技能，基本没有涉及生活自理能力的训练、生活中问题行为的消退和适应行为的建立等内容，因此作为ASD患者的康复体系还不全面。
+
+（2）近年来已有大量实证研究揭示了ASD的发病机制，与患者的脑结构功能、神经通路和神经元兴奋性等方面有关，如胼胝体结构的异常，白质神经通路紊乱等。目前，已有研究表明对正常儿童进行提升其语言能力的关系反应训练，如等价关系，自反关系等，会带来脑海马区不同部位的神经元的活化，研究者认为这些脑区的活化和关系框架的建立，以及记忆的灵活性有关(Dickins,Singh,Roberts，Burns,Downes, Jimmieson，&Bentall， 2001；Schlund，Cataldo,&Hoehn-Saric,2008)。但应用完整的PEAK系统对ASD患者进行长期干预，是否能影响神经系统等生物学水平的显著改变，还有待于下一步跨学科的合作研究的开展。PEAK的创始人Dixon博士认为，关于PEAK效果研究背后的神经影像学机制的阐明，是非常必要且重要的。因为，PEAK关系训练系统的效果研究，需要基于神经影像学水平等更为客观的循证依据，这对于下一步更加科学的优化PEAK系统，也有着重要的指导意义。
+
+（3）PEAK系统目前包含PEAK-DT、PEAK-G、PEAK-E、PEAK-T四个模块，能力难度从PEAK-DT到PEAK-T依次递增。尽管如此，并不意味着实施PEAK训练时必须依存从PEAK-DT至PEAK-T的顺序刻板进行。可以依据ASD患者的评估结果，从四个模块中选择合适的技能项目同时协调进行，以便为ASD患者提供使他们获益最大的 IEP(Dixon etal.,2017)。此外PEAK 的每个模块由184 个具体的能力点构成，是否这184个能力项目对于每一位ASD患者都必不可少？对于不同ASD患者，能力点之间应该如何有效选择，并量化评估选择模式的最优性？因此，关于PEAK系统现有的四个模块之间训练顺序的最优路线和不同模块中能力项目选择的比例，目前有10项相关的实证研究正在进行中，还有待进一步的研究结果去检验PEAK不同模块之间协调干预的最优方案。
+
+PEAK关系训练系统的下一步发展，除了完善以上不足之处，对推动我国ASD康复方法的发展，也有值得一提的应用价值：
+
+（1）PEAK可以在我国ASD家庭中应用：目前我国ABA专业师资严重不足，由于合格师资培养周期长，尤其在我国二三线城市，缺乏科学合规的ASD康复机构、学校，很多ASD患者的康复训练都是一对一进行，为了保障能起效的训练时间，家长不得不成为我国ASD患者康复的必要主力军。与VB-MAPP对训练者的要求较高，需要有扎实的ABA功底不同；PEAK的创始人Dixon介绍PEAK的操作手册易读性强、指南详细，训练方式主要是通过DTT的形式教授技能，一般有高中以上学习理解能力的家长，即使训练者非特殊教育、行为心理学等背景，仍然可以操作手册中的大部分能力项目(Dixon,2016)。因此，PEAK的家庭式训练项目具备一定的可行性。但是，必须一提的是，在推广PEAK在家庭中应用之前，PEAK的汉化修订及信效度检验；以及PEAK汉化版本的实证效果考察，都是需要相关研究人员和专业人士先行检验的。在以上研究工作完善后，还需要进行家长培训，并借助互联网、VR、AR等智能技术，将PEAK方法指导视频整合进入在线的ASD家庭式干预平台，让中国更多偏远地区的ASD家庭受益。
+
+（2）PEAK推动了ASD机构康复方法的升级：如3中所述，已有研究表明PEAK由ASD机构内一线工作的特教老师实施1年后，可以显著提升ASD患者的语言、学习和社交能力，加快ASD患者的康复速率，证明了PEAK方法在ASD 机构实施的有效性和可行性。其次，PEAK适用的ASD患者群体年龄较广（18个月 ${ \sim } 2 1$ 岁），打破了国内大多数干预方法只能适用于低龄ASD儿童的同质化现状。因此，为了对我国大龄ASD患者仍然提供有循证依据支持其有效性的IEP，PEAK急需在我国ASD患者群体进行汉化修订，本土化训练材料的优化，及开展相关的研究进行信效度检验和实证效果考察，希望有更多的专业人士参与到PEAK关系训练系统的引进、本土化和科学化的研究项目中来，以推动我国ASD语言障碍康复方法的新发展，使我国更多的ASD患者受益。
+
+# 参考文献
+
+茅荣杰,汪作为,杜亚松.(2017).孤独症语言障碍干预策略研究进展.临床精神医学杂志，
+
+27(3), 210-212.   
+牛瑞花,徐胜.(2016).语言行为方法在自闭症儿童干预中应用研究综述.绥化学院学报(4), 69-72.   
+王分分,祝卓宏.(2017).言语行为的关系框架理论视角:孤独症谱系障碍的新探索.心理科学 进展,25(8),1321-1326.   
+王淑娟,张崎,祝卓宏.(2012).关系框架理论:接纳与承诺治疗的理论基础(述评).中国心理卫 生杂志,26(11),877-880.   
+朱丽莎.(2017).学龄前儿童关系反应水平评估及训练的有效性探究.(硕士学位论文),中国科 学院心理研究所,北京.   
+桑德伯格.(2014).VB-MAPP 语言行为里程碑评估及安置程序（黄伟合，李丹 译）.北京：北 京大学医学出版社．（原书出版于2008 年）   
+Belisle,J., Dixon, M. R., Stanley, C.R., Munoz, B.,& Daar, J.H.(2016). Teaching foundational perspective-taking skills to children with autism using the PEAK-T curriculum: singlereversal "I-You" deictic frames. Journal of Applied Behavior Analysis, 49(4), 965-969.   
+Dickins,D.W.， Singh, K.D.,Roberts,N.,Burns,P.,Downes,J.J.,& Jimmieson, P., et al. (2001). An fMRI study of stimulus equivalence. Neuroreport, 12(2), 405-411.   
+Dixon,Belisle, J., Stanley, C.R.,& Rowsey, K. (2018). Student outcomes after lyear of front line staff implementation of the PEAK curriculum. Behavioral Interventions,20(1), 185-195.   
+Dixon,Peach, J., Daar, J. H.,& Penrod, C.(2017). Teaching complex verbal operants to children with autism and establishing generalization using the peak curriculum. Journal of Applied Behavior Analysis, 50(2), 317-331.   
+Dixon， M. R. (2016). IsPEAK hard to learn? Retrieved April 1， 2008， from https://www.peak2aba.com/faqs   
+Dixon,M. R.,Belisle,J.，Mckeel,A.，Whiting, S.， Speelman,R., Daar, J.H.，& Rowsey，K. (2017).An Internal and Critical Review of the PEAK Relational Training System for Children with Autism and Related Intellectual Disabilities: 2014-2017. Behavior Analyst(3), 1-29.   
+Dixon,M.R.,Belisle,J.， Stanley,C.,Rowsey, K., Daar, J.H.，& Szekely, S. (2015). Toward a Behavior Analysis of Complex Language for Children with Autism: Evaluating the Relationship between PEAK and the VB-MAPP. Journal of Developmental & Physical Disabilities,27(2),223-233.   
+Dixon,M.R., Carman, J., Tyler, P.A., Whiting, S. W., Enoch, M. R., & Daar, J. H. (2014). PEAK Relational Training System for Children with Autism and Developmental Disabilities: Correlations with Peabody Picture Vocabulary Test and Assessment Reliability. Journal of Developmental & Physical Disabilities, 26(5), 603-614.   
+Gross,A. C., & Fox, E. J. (2009). Relational Frame Theory: An Overview of the Controversy (Vol. 25), 87-98.   
+Hayes,S.C., Barnes-Holmes,& Roche. (2001). Relational frame theory a post-skinnerian account of human language and cognition. New York: Kluwer Academic/Plenum Publishers.   
+McKeel, A. N. Dixon, M.R., Daar, J. H., Rowsey, K. E.,& Szekely, S.(2015). Evaluating the Efficacy of the PEAK Relational Training System Using a Randomized Controlled Trial. Journal ofBehavioral Education, 24,230-241   
+Niklas,T., & Hayes. S.C., (2010). Learning RFT : an introduction to relational frame theory and its application. Oakland:New Harbinger Publications.   
+Palmer, D. C. (2006). On Chomsky's appraisal of Skinner's Verbal Behavior $\because$ A half century of misunderstanding. Behavior Analyst, 29(2), 253-267.   
+Partington, J. (20o6). Assessment of basic language and learning skils-revised (The ABLLS-R). Pleasant Hill: Behavior Analysts.   
+Reed,D.D., & Luiselli, J. K. (2016). Promoting the emergence of advanced knowledge: A review of peak relational training system: Direct training module by Mark R. Dixon. Journal of Applied Behavior Analysis, 49(1),205-211.   
+Schlund,M. W.，Cataldo,M.F.，& Hoehn-Saric,R..(2008). Neural correlates of derived relational responding on tests of stimulus equivalence. Behavioral and Brain Functions, 4(1), 6.   
+Simms，M. D.，& Jin，X. M. (2015). Autism， language disorder， and social (pragmatic) communication disorder: dsm-v and differential diagnoses. Pediatrics in Review, 36(8), 355-363.   
+Skinner, B. F. (1957). Verbal Behavior. New York: Appleton Century Crofts.   
+Stewart, I., Mcelwee, J., & Ming, S. (2O17). Language generativity, response generalization, and derived relational responding. Analysis of Verbal Behavior, 29(1), 1-1.   
+Sundberg, M.L. (2008). Verbal Behavior Milestones Assessment and Placement Program (VBMAPP). Concord:Advancements in Verbal Behavior Press.   
+Sundberg,M.L. Validity, Reliability, and the use of the VB-MAPP in Research. Retrieved April 7, 2008, from www.marksundberg.com/vb-mapp.htm   
+Warren, Z., McPheeters,M.L., Sathe,N.,Foss-Feig,J.H., Glasser, A.,& Veenstra-Vanderweele, J.(2011).A systematic review of early intensive intervention for autism spectrum disorders.Pediatrics,127(5), e1303-1311. doi:10.1542/peds.2011-0426
+
+# PEAK Relational Training System for Children with Autism: A novel application based on relational frame theory
+
+BAI Xiaoyu $^ { 1 , 2 }$ Tawanda S.Mutusva $^ { 1 , 3 }$ ZHU Zhuohong1.,2\*
+
+（ $^ { 1 }$ Laboratory of Mental Health and Behavior Genetics, Institute of Psychology, Chinese Academy of Sciences, Beijing 100101, China)   
+( State Key Laboratory of Brain & Cognitive Science, Beijing 100101, China)   
+( University of Chinese Academy of Sciences, Beijing 10o039, China)
+
+# Abstract:
+
+The Promoting the Emergence of Advanced Knowledge (PEAK) Relational Training System is the first verbal behavior assessment instrument and treatment protocol that integrates Skinner's “Verbal Behavior” and Post-Skinnerism analysis of human language and cognition,“Relational Frame Theory". It aims to address the language and cognitive deficits in children with autism. By the end of 2O18, the PEAK system has published four modules: PEAK-Direct Training module (PEAK-DT), PEAKGeneralization module (PEAK-G)， PEAK Equivalence module (PEAK-E） and PEAK-Transformation module (PEAK-T). Each of the modules contains a direct preassessment, a full 184-itemized skill assessment, and a 184 item curriculum. Based on the previous literature, PEAK-DT has broken the ceiling effect of the VB-MAPP milestone evaluation in patients with ASD,and the entirety PEAK system is prospected to provide a more advanced and comprehensive verbal behavior assessment and training system than VB-MAPP. Since the establishment of the PEAK system in 2O14,many published empirical studies indicated that some properties of the PEAK system are: good reliability and validity as an assessment tool, effective treatment for the patients with ASD, and an easily-mastered operation in practice; which makes the PEAK system owning potential application value in the intervention delivered from behavioral analysists as well as autistic parents in the future.
+
+Key words: Autism Spectrum Disorders; Relational Frame Theory; PEAK; Verbal Behavior; VB-MAPP

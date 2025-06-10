@@ -1,0 +1,172 @@
+# 重组大肠杆菌转化甘油合成聚3-羟基丙酸-co-乳酸
+
+赵志强 $^ { 1 , 2 ^ { * * } }$ ，Stephen TLacmatal,3\*\*，咸漠1，刘修涛1,2，冯新军 $1 ^ { * * * }$
+
+赵广1\*\*\*
+
+(1中国科学院青岛生物能源与过程研究所 生物基材料重点实验室青岛266101)
+
+（2中国科学院大学北京100049）(3 喀麦隆德尚大学 德尚 999108）
+
+摘要聚羟基脂肪酸酯作为性质优良的生物塑料，引起了广泛的关注。由于聚羟基脂肪酸合成酶PhaC 特异性较强，难以通过生物合成方法获得含乳酸单体聚合物。为了实现乳酸的聚合，PhaC的筛选至关重要。以甘油为底物，通过引入Klebsiella pneumoniae的甘油脱水酶DhaB123及其激活因子GdrAB以及 Salmonella typhimuriumLT2的丙醛脱氢酶基因PduP,获得3-羟基丙酰辅酶A；通过引入Megasphaera elsdeniiDSM20460 的丙酰辅酶A转移酶PCT，获得乳酰辅酶A；并对3种不同聚羟基脂肪酸合成酶的作用进行考察。在Pseudomonasputida的原始酶PhaC1或者PhaC2的作用下，不能实现乳酸的聚合；而在双位点突变（Ser325Thr和Gln481Lys）的PhaC1（STQK）存在条件下，重组菌可以利用甘油合成聚3-羟基丙酸-co-乳酸。经过对溶氧、有机氮源等发酵条件的优化，聚3-羟基丙酸-co-乳酸的产量可以达到 $0 . 2 2 \mathrm { g / L }$ ，占细胞干重的 $3 . 2 \%$ ，是含乳酸单体聚合物生物合成研究的一次有益尝试。
+
+关键词 聚3-羟基丙酸-co-乳酸；聚羟基脂肪酸合成酶；丙酰辅酶A转移酶；位点突变；甘油
+
+# 中图分类号Q819
+
+聚羟基脂肪酸酯（polyhydroxyalkanoates，PHAs)是微生物细胞在环境中碳源过剩的条件下合成的一种线性聚酯，由羟基脂肪酸（hydroxyalkanoic acid，HA）单体聚合而成，作为碳源和能源的贮藏物质在细胞内积累[1-2]。PHAs不仅具有石化基塑料的各种属性，还具备传统塑料无法比拟的生物相容性和生物降解性，引起了科技界和工业界的广泛关注，已经被用于化妆品、医疗器械、药物载体等领域[3-5]。能够合成PHAs 的微生物有几十个属，包括产碱杆菌属（Alcaligenes）、芽孢杆菌属（Bacillus）、假单胞菌属（Pseudomonas）和红螺菌属（Rhodospirillum）等[6-10]，此外，一些植物也能够合成 PHAs[11-12]。
+
+由于聚羟基脂肪酸合成酶PhaC的特异性较强，已经实现全生物法合成的PHAs 主要是以3-羟基酸为单体，如聚3-羟基丙酸（P3HP）[13]、聚3-羟基丁酸（P3HB）[14]、聚3-羟基戊酸（P3HV）[15]等。聚乳酸作为一种优异的生物塑料，已经被广泛用于生物医学、纺织、包装等领域[16]，市场需求呈逐年增大趋势，预计每 $3 { \sim } 4$ 年增长一倍[17]。然而，较之3-羟基酸，乳酸（2-羟基丙酸）的羟基位置变化，导致难以实现生物法聚合。市场上的聚乳酸（PLA）产品都是以乳酸为单体，通过化学法聚合得到。随着市场需求的逐渐扩大，以葡萄糖、甘油等廉价碳源为原料，实现全生物法合成聚乳酸，对于进一步降低生产成本、提高产品效益具有重要意义。
+
+生物法合成聚乳酸的关键因素在于PhaC的筛选。为了实现乳酸的聚合，本研究在前期P3HP研究的基础上，通过引入丙酰辅酶A转移酶PCT和不同的PhaC，期望实现新型生物塑料聚3-羟基丙酸-co-乳酸（P(3HP-co-LA)）的生物合成（图1)。整个代谢途径涉及两个支路，其中一个支路利用甘油脱水酶DhaB123 和丙醛脱氢酶PduP将甘油转化为3-羟基丙酰辅酶A，另外一个支路利用丙酰辅酶 A转移酶 PCT催化乳酸为乳酰辅酶A，两个支路获得的单体最终在PhaC 的作用下聚合。已有研究表明，第325和481两个氨基酸位点是与PhaC 的酶活和底物选择性最密切相关的两个位点[18]。所以，本研究将重点考察假单胞菌 Pseudomonasputida 的 PhaC1、PhaC2 和双位点突变（Ser325Thr 和 Gln481Lys）酶 PhaC1(STQK)的作用效果，并通过发酵条件的初步优化来提高产物产量。
+
+![](images/aab74b1266174d4ccc5a443d1e5df332f16cb24fb277afd0dd506839296fb1e6.jpg)  
+图1以甘油为碳源合成P(3HP-co-LA)的代谢途径示意图  
+Fig.1BiosynthesispathwayofP(3HP-co-LA) from glycerol in this study
+
+# 1 材料和方法
+
+# 1.1菌株、载体和引物
+
+本研究使用到的菌株、载体和引物见表1。甘油脱水酶基因dhaB123及其激活因子gdrAB的来源菌株Klebsiella pneumoniaeATCC25955购自美国模式培养物集存库(American type culture collection,ATCC)，丙醛脱氢酶基因 pduP 的来源菌株Salmonella typhimuriumLT2购自中国普通微生物菌种保藏管理中心(ChinaGeneral Microbiological Culture Collection Center,CGMCC)，PHA 合成酶基因phaC1和phaC2的来源菌Pseudomonasputida为本实验室保存菌株，携带PhaC1(STQK)的载体 pTV118N-pp 由北海道大学 Seiichi Taguchi 教授馈赠，携带丙酰辅酶A转移酶基因pct的质粒和各个引物均委托金唯智公司合成获得。
+
+# 表1本研究使用的菌株、载体和引物及其特征描述
+
+Table 1 Strains,vectors and primers used in this study   
+
+<html><body><table><tr><td>菌株、质粒及引物</td><td>特征描述/引物序列</td><td>来源/酶切位点</td></tr><tr><td>E. coli DH5α</td><td>用于重组质粒的构建和保存的菌株</td><td>全氏金公司</td></tr><tr><td>E. coli JM109(DE3)</td><td>蛋白表达和发酵的宿主菌株</td><td>Takara</td></tr><tr><td>K. pneumoniae ATCC25955</td><td>肺炎克雷伯氏菌，携带甘油脱水酶基因dhaB123和甘油脱水酶激活</td><td>ATCC</td></tr><tr><td>S.typhimurium LT2</td><td>因子gdrAB 鼠伤寒沙门氏菌，携带丙醛脱氢酶基因pduP</td><td></td></tr><tr><td></td><td></td><td>CGMCC</td></tr><tr><td>Pseudomonas putida</td><td>恶臭假单胞菌，携带PHA合成酶基因phaC1和phaC2</td><td>本实验室保藏</td></tr><tr><td>puC57-pct</td><td>携带Megasphaeraelsdenii DSM20460 来源的丙酰辅酶A转移酶基 因pct</td><td>金唯智合成</td></tr><tr><td>pACYCDuet-f0</td><td>重组表达载体，T7 启动子，pACYCDuet-1携带dhaB123、gdrAB本研究构建</td><td></td></tr><tr><td>pET21a-fl</td><td>和pduP基因，氯霉素抗性 重组表达载体，T7启动子，pET21a携带phaC1和pct基因，氨苄本研究构建</td><td></td></tr><tr><td>pET21a-f2</td><td>抗性 重组表达载体，T7启动子，pET21a携带phaC2和pct基因，氨苄本研究构建</td><td></td></tr><tr><td>pTV118N-pp</td><td>抗性 重组表达载体，lac 启动子，pTV118N 携带 phac(STQK)和 pct 基因，</td><td></td></tr><tr><td>dhaB123-F</td><td>氨苄抗性</td><td></td></tr><tr><td>dhaB123-R</td><td>CGCCATATGAAAAGATCAAAACGATTTG CACGGTACCGCTTAGCTTCCTTTACGCAG</td><td>NdeI</td></tr><tr><td>gdrA-F</td><td>GAGAATTCGTGAGCGGAGGTCAGCATGC</td><td>KpnI EcoRI</td></tr><tr><td>gdrA-R</td><td>TTAGATCTCCCACTGACCAAAGCTG</td><td></td></tr><tr><td>gdrB-F</td><td>CAGCTTTGGTCAGTGGGAGATCTAAAACGAGGGGACCGTC</td><td></td></tr><tr><td>gdrB-R</td><td>CAGAAGCTTCAGTTTCTCTCACTTAACG</td><td>HindIII</td></tr><tr><td>pduP-F</td><td>CTGAAGCTTAATACGACTCACTATAGGGGAATTGTGAGCGGAT</td><td>HindIII</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>AACAATTCCCCGCCATCGCGGCTATTAAC</td><td></td></tr><tr><td>pduP-R</td><td>CAGAAGCTTAGCGAATAGAAAAGCCGTTG</td><td>HindIII</td></tr></table></body></html>
+
+<html><body><table><tr><td>phaC-1-F</td><td>GGAATTCCATATGATGAGTAACAAGAACAACGATGAGC</td><td>NdeI</td></tr><tr><td>phaC-1-R</td><td>CGGGATCCTCAACGCTCGTGAACGTAGGTG</td><td>BamHI</td></tr><tr><td>phaC-2-F</td><td>GGAATTCCATATGATGACAGACAAACCGGCCAAAGGATC</td><td>NdeI</td></tr><tr><td>phaC-2-R</td><td>CGGGATCCTCATCGGGTCAGCACGTAGGT</td><td>BamHI</td></tr></table></body></html>
+
+# 1.2试剂
+
+DNA 聚合酶、DNAMaker和T4DNA 连接酶购自北京全式金生物公司，各种限制性内切酶购自Fermentas公司，细菌基因组提取试剂盒和质粒提取试剂盒购自OmegaBio-tek公司，氨苄青霉素、氯霉素和异丙基- $\cdot \beta$ -D-硫代吡喃半乳糖苷（IPTG）购自生工生物，酵母粉、胰蛋白脉购自Oxoid公司，牛肉浸粉购自青岛海博生物，大豆蛋白肺、氯仿、无水乙醇和各种无机盐购自国药集团。
+
+# 1.3重组菌的构建
+
+本研究使用的重组载体示意图如2所示，其中pACYCDuet-f0、pET21a-fl和pET21a-f2为本研究构建，pTV118N-pp 由北海道大学馈赠。
+
+![](images/c63d68e6f46baec4b47e0d803de089fc4ec20702caab8796e2d5efa3680f5494.jpg)  
+图2本研究使用重组载体示意图  
+Fig.2 The backbones of plasmids used in this study
+
+重组载体 pACYCDuet-f0 的构建：根据GeneBank 中K.pneumoniae 甘油脱水酶基因dhaB123和甘油脱水酶激活因子gdrAB 的基因序列、S.typhimurium LT2丙醛脱氢酶基因pduP的基因序列设计引物(表1)，利用试剂盒提取细菌基因组，以基因组为模板，通过PCR扩增分别获得dhaB123、gdrA、gdrB 和pduP 基因片段，gdrAB 则是以gdrA和gdrB为底物通过OverlapPCR 获得。将提取的质粒pACYCDuet-1和纯化回收的gdrAB 基因片段在 $3 7 ^ { \circ } \mathrm { C }$ 下双酶切（EcoRI/HindIII）后切胶回收，利用T4DNA连接酶在 $1 6 ^ { \circ } \mathrm { C }$ 过夜连接，连接产物热激转化E.coliDH5α感受态细胞，通过菌落PCR验证重组载体pACYCDuet-gdrAB。利用相同的方法，提取获得pACYCDuet-gdrAB 和dhaB123片段并进行双酶切（NdeI/KpnI)，连接转化，获得 pACYCDuet-gdrAB-dhaB123。在 pACYCDuet-gdrAB-dhaB123 基础上，与 HindIII 位点处插入pduP 片段获得 pACYCDuet-dhaB123-gdrAB-pduP,即 pACYCDuet-f0。
+
+pET21a-f1和pET21a-f2 的构建：菌体活化后，分别提取质粒puC57-pct 和pET21a并进行双酶切（NotI/XhoI)，切胶回收获得pct基因片段和pET21a 载体片段，将载体片段和基因片段酶连后转化E.coliDH5α感受态细胞，通过菌落PCR验证重组载体 pET2la-pct。根据GeneBank 中Pseudomonas putida的PHA合成酶基因phaC1和phaC2的基因序列设计引物，以P.putida基因组为模板扩增获得phaC1和phaC2。利用NdeI 和BamHI对phaC1、phaC2及重组载体pET21a-pct进行双酶切，分别进行酶连后转化获得pET21a-f1和pET21a-f2。
+
+重组菌构建：提取所获得的重组载体,将 pET21a-f1、pET21a-f2、pTV118N-pp与pACYCDuet-f0 分别组合并转化E.coliJM109(DE3)感受态细胞，涂布含有氯霉素和氨苄青霉素的LB 固体平板获得重组菌E.coli JM109 (pACYCDuet-f0,pET21a-fl）、 E. coli JM109（pACYCDuet-f0，pET21a-f2）和 $E$ coli JM109(pACYCDuet-f0, pTV118N-pp)。
+
+# 1.4培养基及培养条件
+
+LB 培养基 $( \mathbf { g } / \mathrm { L } )$ ：氯化钠，10；胰蛋白肺，10；酵母粉5；固体培养基加入 $1 0 \mathrm { g / L }$ 的琼脂。甘油发酵培养基 $( \mathbf { g } / \mathrm { L } )$ ：甘油，20； $( \mathrm { N H } _ { 4 } ) _ { 2 } \mathrm { S O } _ { 4 }$ ，3； $\mathrm { K H _ { 2 } P O _ { 4 } }$ 1.5；KCl，1.9；一水合柠檬酸，1；二水合柠檬酸三钠，1.1； $\mathrm { F e S O } _ { 4 } { \bullet } 7 \mathrm { H } _ { 2 } \mathrm { O }$ ，0.138;微量元素 $1 \mathrm { m L }$ ；微量元素组成 $\mathrm { ( \ g / L ) \colon ( N H _ { 4 } ) _ { 6 } M o _ { 7 } O _ { 2 4 } \bullet 4 H _ { 2 } O }$ ，0.37; $\mathrm { H } _ { 3 } \mathrm { B O } _ { 4 }$ ，2.47;$\mathrm { M n C l } _ { 2 } { \bullet } 4 \mathrm { H } _ { 2 } \mathrm { O }$ ，1.58； $Z n \mathrm { S O } _ { 4 } { \bullet 7 } \mathrm { H } _ { 2 } \mathrm { O }$ ，0.29； $\mathrm { C u S O } _ { 4 } { \bullet } \mathrm { S H } _ { 2 } \mathrm { O }$ ，0.25。氯霉素贮存液浓度 $\mathrm { 5 0 m g / m L }$ ，工作浓度 $5 0 \mu \mathrm { g / m L }$ ；氨苄青霉素贮存浓度 $1 0 0 \mathrm { m g / m L }$ ，工作浓度$1 0 0 \mu \mathrm { g / m L }$ 。发酵培养基最终 $\mathsf { p H }$ 用氨水调节至7。
+
+培养条件：从LB平板上挑取单克隆接入含有3mLLB液体培养基的试管中，$3 7 ^ { \circ } \mathrm { C }$ 、 $1 8 0 ~ \mathrm { r / m i n }$ 培养10h进行活化。将活化后的菌液按 $1 \%$ （V/V）的接种量接种于含有 $1 0 0 ~ \mathrm { m L }$ 发酵培养基的 $5 0 0 ~ \mathrm { m L }$ 三角摇瓶中，于 $3 7 ^ { \circ } \mathrm { C }$ $2 0 0 \mathrm { r / m i n }$ 进行培养。菌体浓度 $\mathrm { O D } _ { 6 0 0 }$ 达到 $0 . 6 { \sim } 0 . 8$ 左右时，加入 $0 . 0 5 \mathrm { m M }$ 的IPTG进行诱导。诱导后培养温度调节至 $3 0 ^ { \circ } \mathrm { C }$ 继续培养，每隔12小时通过补加氨水维持发酵液 $\mathsf { p H }$ 在7左右，发酵 48h结束。
+
+# 1.5检测方法
+
+菌体浓度通过测定 $6 0 0 \mathrm { n m }$ 下的紫外吸光度表示。发酵结束后通过高速离心（ $\dot { } 1 0 0 0 0 \mathrm { r / m i n }$ ， $1 0 \mathrm { { m i n } } \dot { }$ )收获菌体，利用蒸馏水和无水乙醇清洗两次，并置于 $6 0 ^ { \circ } \mathrm { C }$ 烘箱内10h完全烘干，利用天平称量获得细胞干重。烘干的菌体经过碾磨粉碎后，加入氯仿溶液，利用索氏提取器，在 $8 0 ^ { \circ } \mathrm { C }$ 条件下加热 $1 0 \mathrm { { h } }$ 提取产物，往萃取溶液中加入预冷的无水乙醇使产物沉淀[19]。产物烘干后，通过核磁共振（AdvancedIII 600NMR，Bruker）检测物质结构[20]。
+
+# 2 结果和讨论
+
+# 2.1重组菌的构建
+
+通过PCR克隆K.pneumoniae的甘油脱水酶激活因子gdrA和gdrB，纯化回收后，通过Overlap PCR克隆获得gdrAB（2178bp），如图3A所示，2500bp 附近有一条明显的条带,将该条带回收，并与pACYCDuet-1进行双酶切(EcoRI/HindIII)并酶连后转化E.coliDH5α感受态细胞，通过菌落PCR验证确认，获得载体pACYCDuet-gdrAB。利用同样方法，利用PCR克隆获得K.pneumoniae 的甘油脱水酶基因dhaB123（2679bp），如图3B所示，在2700bp 左右获得清晰条带，回收后与pACYCDuet-gdrAB进行双酶切（NdeI/KpnI）并酶连后构建获得pACYCDuet-gdrAB-dhaB123。进一步克隆S.typhimuriumLT2丙醛脱氢酶基因pduP（1800bp 左右条带，如图3C)，在pACYCDuet-gdrAB-dhaB123 基础上，获得pACYCDuet-gdrAB-dhaB123-pduP，即pACYCDuet-f0，重组质粒经过酶切验证（图3E-1）和测序确认后用于后续实验。
+
+分别提取质粒puC57-pct和pET21a，进行双酶切（NotI/XhoI）后切胶回收获得pct基因片段和pET21a载体片段，酶连后转化E.coliDH5α感受态细胞，通过菌落PCR确认获得重组载体 pET21a-pct.PCR克隆Pseudomonas putida 的PHA合成酶基因phaC1和phaC2（1680bp，如图3D)，利用NdeI和BamHI对phaC1、phaC2及重组载体pET2la-pct进行双酶切，酶连后转化获得重组载体pET21a-phaC1-pct 和 pET21a-phaC2-pct，即 pET21a-fl 和 pET21a-f2，重组质粒经过酶切验证（图3E-2,3E-3）和测序确认后用于后续实验。
+
+将pET21a-fl、pET21a-f2、pTV118N-pp与pACYCDuet-f0 分别组合并热激 转化E.coli JM109(DE3)感受态细胞，获得重组菌E.coli JM109 (pACYCDuet-f0, pET2la-fl）、 E. coli JM109（pACYCDuet-f0，pET2la-f2）和 E. coli JM109 (A) PCR amplification of gdrAB; (B)PCR amplification of dhaB123; (C) PCR amplification of pduP; (D) PCR amplification of phaCl and phaC2; (E) Restriction map of recombinant palsmids: 1- pACYCDuet-f0, 2- pET21a-f1, 3- pET21a-f2.
+
+![](images/81b812063993eb0c9b0eff91b54a1af91de5351cc93792d4e82be1d82d4c10fc.jpg)  
+图3基因克隆及重组载体的酶切验证  
+Fig.3 PCR amplification of genes and restriction map of recombinant palsmids
+
+# 2.2不同重组菌的产物合成鉴定
+
+将获得的3株重组菌在相同的条件下进行培养，菌体浓度 $\mathrm { O D } _ { 6 0 0 }$ 达到0.6左右时，加入 $0 . 0 5 \mathrm { m M }$ 的IPTG进行诱导，发酵48h后收集菌体。利用热氯仿萃取产物，3株重组菌均能获得疑似产物。疑似产物经CDCl再次溶解后，通过核磁共振检测物质结构。检测结果发现，重组菌E.coli JM109 (pACYCDuet-f0,pET21a-fl)和 $E$ ，coli JM109 (pACYCDuet-f0,pET21a-f2)的发酵产物为P3HP（图4A-B)，在 $\mathrm { ^ { 1 } H }$ 谱和 $^ { 1 3 } \mathrm { C }$ 谱上均未发现乳酸单体特异峰，未能实现3HP 和乳酸的共聚。重组菌 $E .$ coli JM109 (pACYCDuet-f0,pTV118N-pp)的产物检测结果如图4C-D所示。图4C为 $\mathrm { ^ { 1 } H }$ 谱，在相应化学位移处，具有明显的3HP特征峰。对乳酸单体而言，其1位的甲基受临位氢的影响，裂解为二重峰（1.4ppm)；2 位的氢谱受到临位甲基的影响，裂解为四重峰（5.1ppm)。图4D 为 $^ { 1 3 } \mathrm { C }$ 谱，在相应化学位移处发现了3HP（32、59、171ppm）和乳酸 $( 1 6 . 5 , ~ 6 8 . 5 , ~ 1 6 9 \mathrm { p p m } )$ ）的特征峰。核磁共振检测，证实了重组菌E.coli JM109 (pACYCDuet-f0,pTV118N-pp)可以合成P(3HP-co-LA)。
+
+由于聚羟基脂肪酸合成酶PhaC 的特异性较强[21,22]，在利用Pseudomonasputida来源的原始phaC1和phaC2时，只是实现了3HP的聚合，获得的聚合物中没有发现乳酸单体（图4A-B)。当把PhaC1的325和481位的氨基酸进行突变后（Ser325Thr 和Gln481Lys)，在聚合物中可以发现乳酸的聚合（图4C-D），获得了P(3HP-co-LA)。需要注意的是，除了3HP 和乳酸的特征峰外，还有其他峰的存在。导致该结果出现的原因，可能是经过位点突变后的PhaC1（STQK）的特异性变弱，除了3HP和乳酸外还实现了其他物质的聚合。
+
+![](images/51789f6b9af602041f60ebd388938edcf6b1285cccd7a7457a819af1ffcf495c.jpg)  
+图4核磁共振检测结果
+
+Fig.4 The 600 MHz ${ \bf \Pi ^ { 1 } H }$ (A, C) and $^ { 1 3 } \mathbf { C }$ (B,D) NMR spectra of PHA production in $\mathbf { C D C l } _ { 3 }$ solution.
+
+# 2.3溶氧对产物合成的影响
+
+为了考察溶氧对P(3HP-co-LA)合成的影响，分别采用挡板摇瓶和非挡板摇瓶，在 $1 8 0 ~ \mathrm { \ r / m i n }$ 条件下对重组菌 $E$ ，coli JM109(DE3) (pACYCDuet-f0,pTV118N-pp)进行发酵。发酵 $4 8 \mathrm { h }$ 后收集菌体，萃取产物，产量如图5所示。使用非挡板摇瓶时，产量只有 $0 . 0 7 \mathrm { g / L }$ ，占到细胞干重的 $2 . 3 \%$ （wt/wt)；使用挡板摇瓶时，产量提高到 $0 . 1 2 \mathrm { g / L }$ ，找到细胞干重的 $2 . 8 \%$ 。挡板存在时，溶氧会明显提高，从而促进菌体的生长，细胞干重（Celldry weight,CDW）由 $3 . 1 \ \mathrm { g / L }$ 提高到 $4 . 3 ~ \mathrm { g / L }$ 。在两种发酵条件下，产物占细胞干重比例没有明显变化，产物的提高主要是由细胞干重的变化引起的。
+
+![](images/c563e62251e4d163953e3fbbb78d084e32e46edead8a04965103ac6836ec2ed1.jpg)  
+图5溶氧对细胞生长和产量的影响
+
+# 2.4有机氮源对产物合成的影响
+
+为了研究有机氮源是否会对P(3HP-co-LA)的合成产生影响，分别在培养基中添加 $3 \mathrm { g } / \mathrm { L }$ 的大豆蛋白脉、胰蛋白肺、牛肉浸粉或酵母粉，在挡板摇瓶中进行发酵并考察不同氮源存在时的影响。发酵结束后的细胞干重和产物产量如图6所示。与对照实验相比（不含任何有机氮源)，添加大豆蛋白脉和胰蛋白脉的时候，P(3HP-co-LA)的产量都受到了一定程度的抑制；使用牛肉浸粉时，菌体干重和P(3HP-co-LA)产量没有明显变化。PHA产品通常是在氮源缺乏的条件下容易在细胞内积累[2]，和本研究的以上结果一致。添加酵母粉时，P(3HP-co-LA)产量获得明显增强，达到了 $0 . 2 2 \mathrm { g / L }$ ，是对照实验的1.83倍，但是产物占细胞干重的比例只有 $3 . 2 \%$ ，表明产量的提高主要是细胞干重的增加引起的，酵母粉的使用并没有加强P(3HP-co-LA)在单个细胞内的积累。
+
+![](images/5bc813b1333e073c90295d3f10922cb6b97230a453d9e8cfb8576e41c82187a8.jpg)  
+Fig.5 Cell mass and production of P(3HP-co-LA) under different flask   
+图6有机氮源对细胞生长和产量的影响
+
+Fig.6 Cell mass and production of P(3HP-co-LA) under different organic nitrogen
+
+3结论
+
+受聚羟基脂肪酸合成酶的特异性限制，乳酸的生物聚合一直难以实现，探讨乳酸的生物聚合方法具有重要意义。在聚3-羟基丙酸合成途径基础上，通过过表达M.elsdenii的丙酰辅酶A转移酶Pct和 $P .$ putida来源的聚羟基脂肪酸合成酶PhaC，成功构建了3株重组菌。原始的聚羟基脂肪酸合成酶PhaC1和PhaC2并不能实现乳酸单体的聚合，而双位点突变的聚羟基脂肪酸合成酶PhaC1（STQK)成功实现了3HP 和乳酸的共聚。通过条件优化,P(3HP-co-LA)产量达到了 $0 . 2 2 \mathrm { g / L }$ 是对照实验的1.83倍，占细胞干重的 $3 . 2 \%$ 。本研究首次实现了3HP和乳酸的生物聚合，可以为含乳酸单体聚合物的生物合成提供重要参考。
+
+参考文献
+
+[1] Sudesh K， Abe H, Doi Y. Synthesis， structure and properties of polyhydroxyalkanoates: biological polyesters. Progress in Polymer Science, 2000, 25(10): 1503-55.
+
+[2] Andesrson A J, Dawes E A. Occurrence, metabolism, metabolic role,and industrial uses of bacterial polyhydroxyalkanoates .Microbiological reviews,1990, 54(4): 450-72.
+
+[3] Steinbuchel A. Perspectives for biotechnological production and utilization of biopolymers: metabolic engineering of polyhydroxyalkanoate biosynthesis pathways as a successful example. Macromolecular Bioscience,2001,1(1): 1-24.
+
+[4] Chen G Q, Wu Q, Xi J Z, et al. Microbial production of biopoly esters-polyhydroxyalkanoates.   
+Progress in Natural Science, 2000, 10(11): 843-50.
+
+[5] Lee S Y. Bacterial polyhydroxyalkanoates.Biotechnology and Bioengineering,1996, 49(1): 1-14.
+
+[6] Lageveen R G, Huisman G W, Preusting H, et al. Formation of polyesters by Pseudomonas oleovorans: effect of substrates on formation and composition of poly-(R)-3-hydroxyalkanoates and poly-(R)-3-hydroxyalkenoates. Applied and environmental microbiology，1988，54(12): 2924-32.
+
+[7] Shamala T R, Chandrashekar A, Vijayendra S, et al. Identification of polyhydroxyalkanoate (PHA)-producing Bacillus spp. using the polymerase chain reaction (PCR). Journal of applied microbiology, 2003, 94(3): 369-74.
+
+[8] Smith R L,West T P, Gibbons W R.Rhodospirillum rubrum: utilization of condensed corn solubles for poly-(3-hydroxybutyrate-co-3-hydroxyvalerate） production. Journal of applied microbiology,2008,104(5): 1488-94.
+
+[9] Page W J, Manchak J, Rudy B. Formation of poly (hydroxybutyrate-co-hydroxyvalerate) by Azotobacter vinelandi UWD.Applied and environmental microbiology, 1992, 58(9): 2866-73.
+
+[10] Doi Y, Kawaguchi Y, Koyama N, et al. Synthesis and degradation of polyhydroxyalkanoates in Alcaligenes eutrophus.FEMS Microbiology Letters,1992,103(2-4): 103-8.
+
+[11] Matsumoto K I， Nagao R， MurataT， et al. Enhancement ofPoly (3-hydroxybutyrate-co-3-hydroxyvalerate) Production in the Transgenic Arabidopsis thaliana by the in Vitro Evolved Highly Active Mutants of Polyhydroxyalkanoate (PHA） Synthase from Aeromonas caviae. Biomacromolecules, 2005, 6(4): 2126-30.
+
+[12] Somleva M N，Snell K D，Beaulieu J J， et al. Production of polyhydroxybutyrate in switchgrass,a value-added co-product in an important lignocellulosic biomass crop. Plant biotechnology journal, 2008, 6(7): 663-78.
+
+[13] Lacmata S T, Kuiate JR, Ding Y, et al. Enhanced poly(3-hydroxypropionate) production via $\beta$ -alanine pathway in recombinant Escherichia coli. PLoS ONE, 2017,12(3): e0173150.
+
+[14] Theodorou E C, Theodorou M C, Kyriakidis. Involvement of the AtoSCDAEB regulon in the high molecular weight poly-(R)-3-hydroxybutyrate biosynthesis in phaCAB+ Escherichia coli. Metabolic Engineering, 2012, 14(4): 354-365.
+
+[15] Shen X W, Yang Y, Jian J，et al. Production and characterization of homopolymer poly(3-hydroxyvalerate） (PHV） accumulated by wild type and recombinant Aeromonas hydrophila strain 4AK4. Bioresource Technology,2009,100(18): 4296-4299.
+
+[16] 曹燕琳，尹静波，颜世峰．生物可降解聚乳酸的改性以及应用研究进展．高分子通报,2006,10:90-97.
+
+[17]甄光明．乳酸及聚乳酸的工业发展及市场前景．生物产业技术,2015,1:42-52.
+
+[18] Takase K, Taguchi S, Doi Y. Enhanced synthesis of poly(3-hydroxybutyrate) in recombinant Escherichia coli by means of error-prone PCR mutagenesis, saturation mutagenesis,and in vitro recombination of the type II polyhydroxyalkanoate synthase gene. Journal of Biochemistry, 2003, 133(1): 139-145.
+
+[19] Brandl H, Gross R A， Lenz R W,et al. Pseudomonas oleovorans as a source of poly(b-Hydroxyalkanoates） for potential applications as biodegradable polyesters. Applied and Environmental Microbiology, 1988, 54(8): 1977-1982.
+
+[20] Feng X, Xian M, Liu W, et al. Biosynthesis of poly(3-hydroxypropionate) from glycerol
+
+using engineered Klebsiella pneumoniae strain without vitamin $\mathbf { B } _ { 1 2 }$ .Bioengineered, 2015,6(2): 77-81.   
+[21] Bernd H A. Polyester synthases: Natural catalysts for plastics. Biochemical Journal, 2003, 376(1):15-33.   
+[22] Nomura C T， Taguchi S. PHA synthase engineering toward superbiocatalysts for custom-made biopolymers.Applied microbiology and biotechnology, 2007,73:969-979.
+
+# Biosynthesis of Poly (3-hydroxypropionate-co-lactate) from Glycerol by Engineered Escherichia coli
+
+ZHAO Zhi-qiang1,2, Stephen TLactama1,3, XIAN Mo1,LIU Xiu-tao1,2,FENG Xin- $\mathbf { j u n } ^ { 1 }$ ZHAO Guang1
+
+(1 CASKeyLaboratoryofiobasedMaterials,Qingdao InstituteofBioenergyandBioprocessTechnology,ChineseAcademyof Sciences,Qingdao 266101,China)
+
+(2 University of Chinese Academy of Sciences,Beijing 1ooo49,China)
+
+(3 Department of Biochemistry,University of Dschang,Dschang 999108,Cameroon)
+
+Abstract Polyhydroxyalkanoates (PHAs) have received considerable attention because of their material properties and wide applications for packaging,biofuels,and biomedicine. Polylactate (PLA） is a representative bio-based polyester，which is chemically synthesized rather than synthesized by bacteria, because of the substrate specificity of PHA synthase (PhaC). To produce lactate-based polyesters,it is critical to obtain a PhaC capable of LA-polymerization. Glycerol dehydratase DhaBl23 and its reactivating factor GdrAB from Klebsiella pneumoniae，and propionaldehyde dehydrogenase PduP from Salmonella typhimurium LT2 were overexpressed to convert glycerol into 3-hydroxypropionyl-CoA; propionyl-CoA transferase (PCT） from Megasphaera elsdenii DSM 20460 were used to obtain lactyl-CoA; and three diferent PhaC were introduced and examined for poly (3-hydroxypropionate-co-lactate) (P(3HP-co-LA)). The wild type enzyme PhaC1, PhaC2 from Pseudomonas putida can't polymerize lactyl-CoA into polymer. Only with double mutant (Ser325Thr and Gln481Lys) PhaC1(STQK), 3HP-CoA and lactyl-CoA were copolymerized into P(3HP-co-LA) in engineered Escherichia coli. Under optimal conditions, the P(3HP-co-LA） production and content were $0 . 2 2 ~ \mathrm { g / L }$ and $3 . 2 \%$ (wt/wt [cell dry weight]), respectively. A good example was provided for lactate-based biopolymer by biosynthesis. Key wordsPoly(3-hydroxypropionate-co-lactate)；Polyhydroxyalkanoate Synthase; Propionyl-CoA transferase; Site mutation; Glycerol

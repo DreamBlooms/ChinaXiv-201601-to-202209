@@ -1,0 +1,815 @@
+[
+    {
+        "type": "text",
+        "text": "图书馆知识服务与出版知识服务的比较分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Comparative Analysis of Library Knowledge Service and Publishing Knowledge Service初景利1,²任娇菡1,²王1,2(1.中国科学院文献情报中心，北京,100190；2.中国科学院大学经济与管理学院图书情报与档案管理系,北京,100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[摘要］[目的/意义]知识服务既是图书馆的核心能力与重要趋势，也是出版机构十分关注的内容与业务方向，在数字智能时代，探究图书馆与出版机构知识服务的异同点，是两个领域相互影响、相互借鉴、相互支持、相互融合的战略需要。[研究设计/方法]本研究借助文献调研、文献计量、比较分析等方法对国内外相关文献进行调研分析、归纳总结，并根据两个领域知识服务的发展实际，从研究热点、转型背景、服务主客体、服务模式、服务内容及服务产品6个方面分析图书馆知识服务与出版知识服务的异同。[结论/发现]图书馆知识服务起步较早，出版知识服务发展较快，二者不会相互替代，并将在市场竞合的基础上不断创新知识服务模式，增强自身优势，形成合作共赢。[创新/价值]利用文献计量法分析图书馆知识服务与出版知识服务的异同以及未来研究趋势，提出思考与建议，为加快两个领域的协同发展提供一定参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[关键词］图书馆 出版领域知识服务 研究热点 发展趋势[中图分类号]G250[文献标识码］A[文章编号］1003-2797(2021)06-0110-13 DOI:10.13366/j.dik.2021.06.110引用本文;初景利,任娇菡，王珏。图书馆知识服务与出版知识服务的比较分析[J].图书情报知识,2021,38（6)：110-122.(Chu Jingli，Ren Jiaohan，Wang Jue.Comparative Analysis of Library Knowledge Service and PublishingKnowledge ServicelJ」. Documentation,Information & Knowledge,2021,38(6):110-122.)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Abstract][Purpose/Significance]Knowledge service is notonly the core capabilityand important trendof ibraries，but alsothecontentandbusinessdirectionofpublishers.Intheeraofdigitaliteligence，itisstrategicallynecessarytoexplore thediferencesandsimilaritiesbetweenlibraryknowledgeserviceandpublishing knowledge serviceforthepurposeof their mutual influence，reference，supportandconfluence.[Design/Methodology]With theuseofliterature investigation，literaturemetrology，comparativeanalysisand other methods，domesticandforeign literatures were explored，analyzed，summarizedandconcluded.According totheactualdevelopmentsituationofknowledgeserviceinthetwofields，similaritiesand diferencesbetweenlibrary knowledge serviceand publishing knowledge servicewere exploredfrom sixaspects，which were research hotspots，transformation backgrounds，service subjectsand objects，service modes，servicecontentsand service products.[Findings/Conclusion]Library knowledge service hasanearly start，whilepublishing knowledge service hasa rapiddevelopment.Eitherof them willbereplacedbytheother，andtheywillbothconstantly make inovationinknowledge service modes，strengthen theirownadvantages，and realizea win-win cooperation.[Originality/Value]With theuse of bibliometricmethod，thispaperanalyzesthesimilaries，diferencesandtrendsoflibraryknowledgeserviceandpublishingknowledge service.Italsoputs forwardsomethoughtsandsuggestionssoastoaceleratethecollaborativedevelopmentofthetwofields. [Keywords]Library； Publishing field； Knowledge service；Research hotspot；Development trend ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2021年3月，新华社正式受权播发中国“十四五”规划和2035年远景目标纲要，规划中提出要坚持创新驱动发展，提升公共文化服务水平，做好文化传承与中华典籍出版等工作[1]。图书馆和出版机构都属于知识密集型服务业，是文化与知识聚集的重要主体，需要在国家的创新发展中发挥更大的作用，而知识服务是两个领域发挥更大作用的主要抓手。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "知识服务是以信息知识的搜寻、组织、分析、重组的知识和能力为基础，根据用户的问题和环境，融入用户解决问题的过程，从而有效支持知识应用和知识创新的服务[2]。在过去的数10 年间，外部环境、内部动因驱动了图书馆、出版机构均开始从以内部的文献加工流程为主导，转向以面向用户提供知识服务为主导。依托于AI技术、自然语言处理技术、大数据技术，集内容创作、生产、传播、应用于一体[3]，全新的知识服务模式开始成为新型图书馆、出版机构的核心业务，图书馆和出版机构不约而同地走向知识服务[4]，表明二者的某种契合。但显然，两个领域关于知识服务的认知与实践既有相同点，也有不同之处。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，总体上看，国内有关知识服务的研究多集中于图书情报界[5]（见图1)，这种知识服务又被称为“图书馆知识服务”，而出版界也十分重视“知识服务”，我们称之为“出版知识服务”。由图1可以看出，在整体上，知识服务的研究内容已逐渐扩展到现状、模式、机制、路径、策略、评价等多问题多角度，“人工智能”“互联网 ${ \\bf \\Phi } + { \\bf \\Phi } ^ { \\dag }$ ”“智慧图书馆”和“云计算”等新场景已开始融入图书馆知识服务与出版知识服务的研究中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究立足图书馆和出版机构两个领域，调研近十年来（2011年1月1日一2021年8月10日）国内学者有关图书馆知识服务和出版知识服务的研究现状，检索中国知网数据库核心期刊中与“图书馆知识服务”“出版知识服务”相关的文献，剔除掉与研究主题明显不相关的文章，共检索到599条文献记录，并利用文献计量的方法进行可视化分析，研究归纳图书馆和出版机构的知识服务在转型背景、服务主客体、服务模式、服务内容、服务产品等多方面的异同点，并提出图书馆知识服务与出版知识服务在未来发展方面的一些思考与建议，以期帮助图书馆和出版机构更好、更快地完成向知识服务的转型，在国家的创新驱动发展中发挥应有的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "智慧图书馆 媒体融合 太素 路 国 书馆知 服务模式 数字图书馆 现状 高校图书馆 学科馆员 数据库 工智能 知识共享 知识网格 创新 园 四 E 中 新 爱馨 互联网+ 邮评价张 展 知识 A I 共创 服务创新 大数据 专茶 y 专 F W 版企高校 厨 出版业知识管理 新 W传统出知识 转型发展 平台 知识链能力评价微服务 机制 用户画像 出版社 大学生创新团队 全媒体 云计 城 实现路径 用户研究 营销",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1概念界定及研究热点分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1图书馆知识服务",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1图书馆知识服务概念界定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着计算机技术、网络技术、人工智能技术的不断发展，数字化智能化进程（数智时代）的不断推进，图书馆开始利用大数据、云计算、本体、物联网、人工智能等技术，推动图书馆服务向自动化、集成化、智能化、可视化、生态化方向发展[]。在服务内容上，从简单的提供文献向提供信息、数据、知识和智慧的服务转变；在服务模式上，也由传统的文献服务、信息服务、情报服务转向提供数据服务、智库服务、智慧服务等知识服务（见图2）。图书馆正在从基本文献服务走向新型知识服务，包括嵌入式学科服务、知识咨询、情报分析与研究、数据管理与服务、图书馆出版与出版服务、智库研究与服务、智能与智慧服务等。这些服务直接面向用户需求与用户过程，是具备知识性、创造性的增值服务，我们将它们统称为“图书馆知识服务”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图书馆作为当今社会物质文明和精神文明建设的重要机构，在适应新时代的社会发展和需求的过程中，普遍达成了完善理念、革新技术、更新设备、提升馆员专业技能等诸多方面要素的协同发展。在新兴信息技术与用户新型需求的双重驱动下，图书馆正在从以往的文献信息服务转向更高层次的知识服务。与文献服务相对应，图书馆知识服务是为用户提供融入一线、嵌入过程的知识解决方案，是在新的时代依靠馆员知识性劳动为科研工作者或相关机构提供增值服务的新型服务模式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "“图书馆知识服务”主题下近十年的文章进行分析，绘制出2011-2021年间的19个关键词（见图3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统服务 知识服务文献服务 数据服务信息服务 智库服务情报服务 智慧服务",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Keywords YearStrength Begin End 2011-2021  \n服务模式 2011 1.66 2011 2011  \n知识管理 2011 2.61 2012 2016  \n知识服务能力 2011 2.17 2012 2013  \n层次分析法 2011 2.03 2012 2015  \n知识服务平台 2011 1.81 2012 2012  \n服务能力 2011 1.83 2014 2014  \n评价 2011 1.83 2014 2014  \n大数据 2011 1.81 2016 2017  \n医院图书馆 2011 1.72 2016 2017  \n学科知识服务 2011 1.98 2017 2018  \n知识关联 2011 1.92 2017 2018  \n隐性知识 2011 1.55 2017 2018  \n显性知识 2011 1.72 2018 2018  \n知识组织 2011 1.72 2018 2018  \n人工智能 2011 1.57 2018 2021  \n智慧图书馆 2011 3.16 2019 2021  \n创新 2011 1.55 2019 2019  \n公共图书馆 2011 2.3 2020 2021  \n知识服务创新2011 1.66 2020 2021",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2国内图书馆知识服务的研究热点与趋势",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "国内有关知识服务的研究多集中在图书情报领域[5]。最早将知识服务引入图书馆领域的文献是1987年的《对图书馆工作与图书馆理论的知识文化考察》，提出知识和知识服务应当是图书馆学和图书馆工作的核心内容和主要追求，1999年，知识服务得到国内图书情报领域的高度关注[7]，在2013 年左右达到峰值后有回落趋势，但热度一直不减。本研究利用CiteSpace突现词探测功能对CNKI数据库中",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图3可知，在“图书馆知识服务”主题中，突现词强度最高的词为“智慧图书馆”，强度（Strength）值达到3.15，突起时间是在2019年。自从大数据技术于2015年迎来研究热潮，社会各个领域逐渐产生变革，图书馆领域也凭借大数据驱动得以快速地推进向着“智慧化”转变的进程，智慧图书馆的研究热潮随之兴起，且逐渐从理论走向实践。其次，“知识管理”“知识服务能力”“学科知识服务”“知识关联”等关键词也一度备受关注，突现强度均在1.9以上。在理论探索层面，研究热点从2012年起的知识管理及服务能力逐渐发展到针对某学科的知识服务与知识管理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在应用场景方面，“智慧图书馆”“公共图书馆”正成为热点研究场景，表明图书馆知识服务已经从理论走向多方位实践，形成理论与实践的良性循环。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时值得注意的是，“知识服务创新”一词表明目前研究的主要趋势和方向，在后知识服务时代，图书馆知识服务创新的重点将不断情景化、精细化、技术化与智慧化[8]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 出版知识服务",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 出版知识服务概念界定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "罗紫初9提出出版就是将经过加工提炼的知识信息产品，通过某种方式大量复制在一定的物质载体上，并进行广泛传播的过程。在纸质印刷出版模式中，学者常常将其手稿内容全权移交给出版机构，由后者进行编辑、设计、排版、印刷以及传播。然而在数字网络技术广泛应用的大背景下，这些工作正在实现数字化、集群化和智能化，技术的发展不仅影响到传统出版流程，而且对出版物也提出了新的要求，例如出版平台建设、社交网络分析与语义出版等已经成为当今数字出版世界中的有机组成部分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着数字化的发展、开放获取的出现，学术出版从纸本出版阶段发展到数字出版阶段，再到知识服务平台阶段，学术成果从通过纸质载体出版与传播转为以网络化传播。学者从学习到创作的科研全过程也不必再完全依赖出版机构，转变为可采用开放出版、自出版等多种新型出版方式或模式进行。所有这些变革促使出版机构将自己所拥有的有限资源进行重组，对数据内容进行关联、挖掘、分析，为用户提供知识发现，并将知识以集约化方式进行出版，为用户提供“知识服务”。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "出版知识服务[\"0]就是以用户需求为导向，运用各种信息技术与信息分析工具，对数字出版的文献进行细粒化标引，从知识单元层面对所存储的知识内容进行关联、挖掘、分析，为用户提供深度的、增值性的、能够满足用户内在需求的解决方案。本研究主要聚焦于由学术出版机构提供的学术出版知识服务。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2国内出版知识服务的研究热点与趋势",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据文献记载，国内“出版知识服务”这一名词首次被提出是在2004 年[11]，指出科技期刊的出版应从信息服务向知识服务转变来适应复杂多变的需求，以获得更多机遇和发展空间。2008年，吴向[12]等人在第三届中国教育出版论坛上对影响中国教育出版的因素以及中国教育出版的方向做了探讨，提出教育出版产业升级应向知识服务业转变，做到跨平台资源整合和个性化服务。而后自2011年起，数字时代的到来彻底改变了出版行业的运作模式，互联网的高速发展也为出版领域再次赋能，对出版知识服务的研究呈现井喷式增长，本研究将“出版知识服务”主题下2011-2021年相关文献的关键词进行聚类分析（见图4），并将其研究热点总结为背景与现状研究、应用与技术研究、发展与趋势研究3个方面。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "背景与现状研究方面，“知识密集型服务业”“数字出版服务”“产业结构”等相继成为研究热点领域，其中知识密集型服务业的大背景在早期的研究中尤为重要，其内容主要包括金融、信息、商务服务、教育和医疗五类服务行业。而“补短板”进程将推动知识密集型服务业高速增长，服务业内部将向知识密集型部门升级。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在应用与技术方面，数字出版、学术出版等为主要研究热点，其中高频词包括“教育出版”“数字出版平台”“出版机制”等。具体地说，数字出版、学术出版等新型出版对出版知识服务的大环境带来了持续影响，出版业也从印刷文献单位变成了促进数据开放共享、增强科学数据管理与服务的数据密集型知识服务主体。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在发展与趋势方面，主要在传统出版的基础上强调出版转型以及出版融合，可以预见的是这场转型将更加关注场景化以及个性化，将围绕不同场景下的个性化需求进行针对性的知识服务。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3国内外图书馆知识服务与出版知识服务研究剖析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综合以上来看，国内图书馆知识服务与出版知识服务两大领域的概念外延都在扩张。在技术驱动与创新驱动双重助力下，两者在科学数据管理以及场景化知识服务等方面不断融合，都将以为用户提供精准个性化服务作为发展方向，走向协同发展，其中区块链技术、元数据管理、风险评估等方法也将在不同应用场景中发挥重要作用，同时两者也不可避免地面临着相似的挑战，例如版权管理、数字资源长期保存、数据安全保护等问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图书馆知识服务与出版知识服务的比较分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ComparativeAnalysisofLibraryKnowledgeServiceand PublishingKnowledge Service ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "742011 2013 2016 2019 2021#0 专业出版单位知识密集型服务业 高校图书馆数字出版服务 开放获取 文献粥統媒体与新媒体融合 中华书局 编辑出版学 乡村振兴专业出版单位 知识管理中国光学期刊网 产业链 中外文献数据库 “变阵产业转型 中文科技期刊 通识素养 互联网策划知识服务 北美 科研服务 产业结构 技术服务 出版单位 科技出版 区块链 应急出版 covid-#1数字出版智能电网 数字版平台 mml 标业知 出版传企业数字出版 学术期刊 教育出版 标准化 互联网 学术质量 共生共赢 #2融合发展出版史 传统出版业 编辑 云计算媒介融合全媒体 出版发展数字 知识付费 营销模式出版 5g技术 研究进展 发展#3建设与服务建设与服务 在线优先出版 新闻出版行业 中宣部出版局 品牌体系新闻出版 《北京中医药大学学报》 出版创新出版业升级 研究院 中医药专业知识资源 知识服务平台 出版业 出版社 门户网站 疫情防4中国知网知识信息服务 互联网思维 传统出版企业传统出版 内容为王 打盗维权 次转型vr技术专业出版 云出版 互联网+ 拓展相关 scigraph 知识服务产品 使用与满足 #5学术出版剑桥大学出版社 人文社会科学 出版机制学术出版 图书服务移动互联 知出版服务中外比教学学出版社 #6出版转型出版集团 人卫社工具书 医学教育 全媒体时代出版转型 知识服务模式 电子音像 专业领域 数字平台 冲突 #7出版融合内容资源 内容再造 产业模式 内容提供商业融合 信息技现代纸合出版大众出 短视频 #8创新大数据出版 内涵 传播出版模式 出版智库 儿童大数据 图书馆 出版变革 创新 童书出版 出版服务 保障机制 #9 科技期刊vr 优先出版 人才培养场景时代 ar 数字化出版 智能化人工智能 媒体融合 出版+ 选题策划 科技期刊 智能审校 #10 出版企业数字化转型 rays体系 产品经理 品牌管理信任关系 “企业20时代 利益相关者 出版产业出版企业 转型升级 专业出版社 转型 发展战11数字出版企业数字出版业途数字出版企业 数字出版产业人才 CiteSpace",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在国外的研究中，图书馆知识服务与出版知识服务的研究领域具有一定重合，而又各有侧重。在web of science 核心数据库中，分别对“library knowl-edgeservice”和“publishing knowledge service”主题下的文献按照相关性排序，对前2，000篇文献进行主题演化分析（见图5）。在近几年的研究主题演化中，国外图书馆知识服务更加注重对知识与信息本身的处理与整合，不断向着高质量与精细化的知识服务发展，而出版知识服务更倾向于出版模式与用户感知的讨论，更强调平台构建与技术的应用。综合探讨二者的发展趋势更有利于把握知识服务领域未来的发展方向。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c427126a347b0c791ba0952f954d1bfd1556c05e4d6d2cee2430590d2a33baf9.jpg",
+        "img_caption": [
+            "图4“出版知识服务\"研究主题词聚类图谱",
+            "Fig.4Keyword Clustering of Research on \"Publishing Knowledge Service\" ",
+            "图5国外研究主题演化与趋势",
+            "Fig.5Evolution and Trend of Foreign Research Topics "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2图书馆知识服务与出版知识服务的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由上文可知，目前国内外有关图书馆知识服务与出版知识服务的研究主要聚焦于背景与现状、应用与技术、发展与趋势等方面，鲜有研究将图书馆知识服务与出版知识服务共同作为研究对象进行对比分析，因此本文通过对二者进行对比分析，提出优化与推进图书馆知识服务与出版知识服务的建议。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "站在图书馆的视角来看，图书馆正在从传统图书馆向“数字知识服务系统”转型。李静海院士曾提出“要把图书馆建设成为知识工厂”。知识服务是新时代图书馆的服务特征[13]，新时代图书馆要超越传统图书馆文献采集、编目分类、流通阅览、文献检索、参考咨询、阅读推广等业务范畴，开始向情报研究、学科服务、开放获取与机构知识库、图书馆出版、数据管理、智库建设、智慧图书馆等方面进行转型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "站在出版机构的视角来看，为了应对学术交流环境、知识生成方式、科学共同体的需求等外部环境变化，出版机构需要努力提升自身产品的国际竞争力并寻找新的盈利点来弥补由于开放获取所可能带来的经济损失[9]，积极投入知识服务、开发知识产品等是大势所趋。目前期刊出版机构已经开始构建学术出版机构知识库等服务平台，出版的新形态也开始由数字出版走向开放出版、数据出版、语义出版、自出版等。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于数字化智能化带来的影响，出版者与图书馆之间的关系发生了变化，图书馆的作用在延伸、拓展，不再仅仅作为用户与出版者之间的中介，开始向出版领域延伸，图书馆开始提供图书馆学术出版服务，甚至是学术交流的服务[13]。2021年 LibraryPublishingDirectory最新数据记载了全球150家图书馆开始提供学术出版服务[14]，并与LibPub SIG 进行试点合作，促进国际图书馆出版联盟，逐步扩大影响力；而出版机构也不再仅仅依靠传统出版模式，利用图书馆这一传统中介将信息传递给用户，而是可以选择性地绕开图书馆，直接面向用户，为用户提供所需要的包括情报服务在内的知识服务。从某种程度上来说，图书馆、出版机构在向知识服务转型的过程中，均在利用自身资源、资金等各方优势抢占彼此的用户和市场。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如果将知识服务看作一个生态系统，学术图书馆与学术出版比作这个生态系统中的两个生物，从生态学视角审视学术图书馆与学术出版的关系，为了让该生态系统在一定时间内处于相对稳定的动态平衡状态，学术图书馆与学术出版之间需要相互影响、相互制约。二者在该系统中不仅需要互利共生，也需要良性竞争，从而保证系统中的生物多样性，实现双方协同进化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究贯穿图书馆知识服务与出版知识服务产生的“起因一经过一结果”全过程，从外部环境与自身因素出发，分析图书馆知识服务与出版知识服务出现以及形成差异的原因；通过二者模式和内容的对比，讨论二者发展过程中进一步细化出的关系和差异；最后落脚点为服务的产品，代表了图书馆知识服务与出版知识服务的最终表现形式。层层递进，探讨图书馆知识服务与出版知识服务的关联与差异，为图书馆知识服务与出版知识服务更好地竞争与合作提供参考，有助于实现知识服务系统中的生态平衡，推动图书馆知识服务与出版知识服务的协同发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3图书馆知识服务与出版知识服务的异同",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图书馆知识服务与出版知识服务二者之间既有联系，也有区别。这些异同主要体现在转型变革背景、知识服务主客体、知识服务模式、知识服务内容及知识服务产品5个方面。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1转型变革背景",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于学术交流的科技、社会和文化环境的变化，以及图书馆、出版机构不断提升自身影响力的需要，图书馆、出版机构需要提供知识服务来吸引用户的关注，提高用户黏度。从图书馆与出版机构开始向知识服务提供商转型的背景方面来看，二者既有差异又有相似之处。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先，从图书馆与出版二者彼此间的相互影响来看，图书馆的转型与出版模式的变化密切相关[15]。图书馆与出版机构均因为彼此的业务拓展、能力提升影响到了彼此的发展方向。出版模式在由传统的纸质出版向数字出版转化时，给图书馆带来了新的挑战，也给图书馆带来了向学术出版领域延伸的机会，数字出版改变了图书馆的物理形态、图书馆的资源结构、用户服务的基本模式以及图书馆的能力层次，让图书馆从实体图书馆走向数字图书馆，从印本资源走向数字资源，从到馆服务走向网络服务，从资源能力走向服务能力，新时代图书馆已经从资源服务能力开始转向为用户提供知识服务的能力；而图书馆的转型，在一定程度上也对出版机构形成了压力。出版机构不仅要关注出版能力，还要关注传播能力、服务能力以及能否有效地服务于读者需求的能力，这也要求出版机构能够为用户提供更高效的、集中的、深度的、增值性的、满足用户内在需求的解决方案。学术出版是图书馆发展的基础，学术出版与图书馆正在构成新的学术生态系统，走向一定程度的融合。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其次，从自身发展来看，图书馆需要从基本服务走向新型服务，直接面向用户需求和用户科研过程，为用户提供知识性、创造性、增值性的服务；而就出版机构而言，出版工作本质上就是提供知识服务的，图书、期刊等均为知识产品，知识是出版的根本，抓住了知识服务，也就抓住了出版行业转型升级的核心和关键，抓住知识服务也就抓住了出版行业在融合发展中获取利润的主要因素[16]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "再次，从转型目的来看，图书馆与出版机构进军“知识服务”有异曲同工之妙。无论是图书馆还是出版机构，转型都是为了能够更好地生存，在新的环境下立于不败之地。图书馆开展知识服务是为了通过新型服务效果证明图书馆和图书馆员的价值，实现“投入-产出-作为”的良性循环；出版知识服务同样也是为了证明出版机构其自身的价值，但与图书馆知识服务不同的是，出版机构作为营利性机构，出版知识服务更侧重于以利益、效益为终极目标。无论是图书馆还是出版机构，进行知识服务都是突破传统服务模式转型的重要契机，二者均亟需向知识服务方向转型发展的大趋势是一致的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "最后，从开放获取对二者的影响来看，开放获取打破了图书馆与出版之间的界限，图书馆、出版机构作为开放获取中重要的利益相关者，在“开放出版”中发挥着重要作用。新技术的产生为图书馆、出版行业开展知识服务创造了新的机遇，面向不同用户的不同需求，在不同层次和范围内对知识进行深层次的再加工，从而形成具有独特价值的知识产品，提高其自身竞争力、价值[1]。开放获取后，出版者可以选择绕开图书馆，直接面向用户提供服务。图书馆为了留住用户，需要为用户提供深度服务、精准服务、知识服务来不断提高用户满意度、提升自身价值表现。同样地，开放获取也对出版者的出版产品形成了冲击，由于开放获取的影响，出版机构的传统的营销渠道已经发生了变化，那么出版机构就需要利用自身资源、资金优势，将资源、知识继续开发、重组、加工，从而为用户提供更加有效的知识服务。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 知识服务主客体",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "知识服务的主体为提供知识服务的任何组织或个人，而客体是指通过接受知识服务来满足其自身知识需求的组织或个人。学术型图书馆知识服务的机构主体主要包括高校图书馆和其它学术型图书馆，提供图书馆知识服务的个人主体为图书馆员，提供知识服务的这些高学历、高素质的专家型图书馆员不再单单是作为用户与出版机构之间的桥梁、中介，而是为用户提供融入一线、嵌入过程的知识型、创造型、研究型的增值服务，走到用户身边，与用户成为合作伙伴，图书馆员开始转型为学科馆员、情报分析人员、出版馆员、智库专家等。而图书馆知识服务的协同主体（也是客体）则包括读者、作者、出版人员、出版机构、政府和企业等，在高校，协同主体（也是客体）还包括教学人员、科研人员和管理人员等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "出版知识服务的机构主体为出版机构，个人主体多为出版人员，包括社长、主编、编委、编辑等在内的出版团队，他们往往利用资金、技术和出版资源的优势，为作者提供印本出版服务，在数字环境下，则可能利用数字平台，提供网上服务。而协同主体（也是客体）则是读者、作者、图书馆员、图书馆、政府和企业等，此时，网上服务的质量（能否提供知识服务）将变得非常重要。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 知识服务模式",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "知识服务强调以用户为中心、用户需求为导向、共建共享各类知识资源为原则。图书馆知识服务与出版知识服务均表现出集成化、个性化、专业化、团队化、开放式[18]、知识性、创造性、增值性并趋于智能化、社会化[19]的一站式（one-stop)服务模式特征。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "新时代图书馆应以“服务立馆、科研兴馆、人才强馆”为目标[20]。为了达到这一目标，我们认为图书馆应以专家型知识服务模式、知识咨询服务模式、学科化知识服务模式以及协同创新驱动模式4类模式作为核心服务模式推进图书馆向知识服务转型。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "专家型知识服务模式是对图书馆基本属性的归纳，新型图书馆具备新型能力，新型图书馆的馆员也必将是具备高学历、高素质的专家馆员团队，为用户提供专业的知识性服务；知识咨询服务模式，是传统图书馆参考咨询能力的延伸与拓展，由传统的参考咨询能力发展为知识咨询的新型能力，从而为用户提供知识咨询的相关服务；学科化知识服务模式是图书馆知识服务中所特有的，依据图书馆自身独特的学科馆员制度与知识服务相结合，根据学科领域分配人力和资源，为用户提供专业化的学科知识服务，这也是提升学术图书馆竞争力的核心，学术图书馆富有竞争力的服务必须与学校的学科建设密切相关[21-22]；图书馆的发展不仅需要资源整合和技术的协同创新，还需要与出版机构等各方进行合作，联合打造协同创新驱动模式，借助外力协同创新，形成合力，从而与出版机构等形成“你中有我、我中有你”的全新格局，形成优势互补、协同创新、合作共赢的新生态。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "出版机构提供的是积累型和应用型的知识服务，出版知识服务的发展离不开清晰的盈利模式。为不断提高收益，出版机构积极投入知识服务开发，不断提升出版内容的价值，依据自身定位、实际情况开发特色产品，强调增值服务，注重商业价值，围绕价值创造不断创新运营模式、数字出版盈利模式、知识变现新模式等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "发展出版知识服务的核心模式包括平台服务型模式、知识付费模式、增值服务型商业模式等。知识付费模式是出版机构培养、提升核心竞争力的重要方式，围绕出版机构的价值、利益导向，从知识中不断实现价值的可持续创造。但由于出版机构缺乏专业、固定的研究团队，只能凭借自身资金和资源的优势，努力依靠技术打造优秀的知识服务平台，在平台建设过程中注重用户的交互体验，从而形成基于交互的定制化增值服务模式[23]。整体来看，出版机构通过新媒体技术不断创新，为目标用户设计知识服务产品，设计过程既包括对知识内容的整合与解构、知识呈现的继承与创新，更包括对知识内容的衍生与扩展，以此创造新的收入增长点。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4 知识服务内容",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图书馆知识服务的主要内容包括嵌入式学科服务、知识咨询、情报分析与研究、数据管理与服务、图书馆出版与出版服务、智库研究与服务、智能与智慧服务等。出版知识服务的服务内容可以分为嵌入式服务、知识发现、各类出版服务（包括开放出版、多媒体出版、数据出版、按篇出版、语义出版等）、智库研究与服务、智能与智慧服务等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图书馆知识服务与出版知识服务本质上都是知识服务，它们可以为学科建设、科研管理、成果转化、人才培养、教学研究等提供支持，支撑学术评价与学术创新，可以帮助用户完成学科竞争力评价、人才评估、知识产权分析、科研评价、决策支持、研究态势分析、研究数据管理等。在此，我们将二者知识服务内容大致分为面向研究过程的知识服务、面向科技创新的知识服务和面向决策咨询的知识服务3个层次（见图6）。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf514204fbf027e864bac0cf7e87e6182b21a8a29e73eebe8b7771d9ffe6d5e0.jpg",
+        "img_caption": [
+            "图6知识服务的层次图",
+            "Fig.6Hierarchy Diagram of Knowledge Service "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第一个层次为“面向研究过程的知识服务”，是根据用户的科研需要，提供嵌入研究过程，面向创意、开题、实验、结果分析、论文撰写、期刊发表全谱段的服务；第二个层次为“面向科技创新的知识服务”，是通过知识关联、挖掘、融合等过程，辅助科研人员发现科技创新所需要的思想方法与前沿热点，从而获得新的有价值的知识的服务；第三个层次是“面向决策咨询的知识服务”，图书馆、出版机构作为一种智库媒体和媒体智库，为科研管理人员提供科技趋势性预测、科技前沿预判、科学演进路径分析等服务，辅助科技战略规划制订与决策。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "虽然图书馆与出版机构在提供知识服务时发展路径基本是一致的，但它们仍有彼此的优势和专长，有自身的主要业务内容（见图7）。图书馆知识服务是直接支撑科研的，学术图书馆依托高校、科研单位等开展服务，拥有长期稳定的科研团队，直接面向具体对象、具体问题提供服务；而出版知识服务主要是间接支撑科研，是支撑创新的平台，是知识发现的平台。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce455c1c0d550034c9fc695b68193f86c2aab9f723f973a12a08946c0d897922.jpg",
+        "img_caption": [
+            "图7“图书馆知识服务”与\"出版知识服务”服务内容异同比较",
+            "Fig.7Service Content Comparison of Library Knowledge Service and Publishing Knowledge Service "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5 知识服务产品",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "知识开发、知识组织、知识获取、服务提供作为知识服务的过程要素构成了一条完整的知识转化、知识创新与知识应用链条，具有高度的集成性、增值性和创新性，是知识服务的主要环节，构成了知识服务过程能力[24]。在技术运用方面，二者并无本质的区别，图书馆知识服务与出版知识服务的技术本质是利用知识获取、知识推理、知识挖掘、知识可视化、知识发现等核心技术方法，集成平台及其它各种分布式数据源，应用知识本体、语义组织、数据挖掘等技术，通过知识标引、知识关联、语义分析等方法，创造出新的知识的一种服务过程。通过知识地图、知识图谱等可视化手段对知识进行可视化再现，从而实现信息的形态、广度、深度、及时性、准确性、效用、价值等知识服务能力的提升，激发用户的潜在需求，最终构建出“数据的信息化、信息的知识化、知识的智慧化、智慧的决策化”的价值链。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图书馆知识服务产品的主要形式包括会议、研究（项目）报告、正式出版物、知识库、知识服务平台等。其中，研究（项目）报告包括学科态势分析报告、学科竞争力分析报告、人才引进分析报告、知识产权信息服务报告、情报分析报告等；而知识库、知识服务平台则以学科知识库、学科知识服务平台为自身特色，例如，美国国立生物技术信息中心（简称NCBI）构建的“生物信息数据库”。知识服务平台是数字知识服务系统的新模式，目前有些图书馆知识服务平台已发展出学科知识服务平台、家谱知识服务平台、智慧图书馆动态知识服务平台、科技大数据与智能知识服务平台、图书馆知识服务智能互动平台、医学图书馆公众健康知识服务平台、高校图书馆嵌入式知识服务新平台、图书馆知识服务价值共创平台等近十种类型。中国科学院文献情报中心网络平台也同时标注为“中国科学院知识服务平台”，体现图书馆网络平台的知识服务功能。各类平台借助网络环境都在为用户提供知识服务，但其互动性、个性化推荐等方面还需进一步完善。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "出版知识服务产品不仅包括纸本书刊、研究报告（皮书）、知识库、知识服务平台等，出版机构还开发出了知识问答平台、知识订阅平台等能够与用户互动的特色知识服务产品，出版知识服务产品形式以软件、平台为主。例如，2015年科学技术文献出版社与中国超声医学工程学会联合开发出的“超声掌中宝”[25-26]，包含网站和移动客户端两种形式，集病例解析、培训研讨、互动交流、数据库查询、图书出版等多种服务于一体。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "知识服务的产品形式已经不仅仅局限于电脑版、网页版客户端，移动客户端的发展也十分迅速，无论是图书馆还是出版机构都已经开发出了移动式知识服务平台。例如，中国科学院文献情报中心开发的",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "“中国科讯”，超星公司开发的“学习通”，这类软件不仅可以帮助用户随时随地地浏览所许可的图书、期刊等电子资源，“中国科讯”还可以访问内部研究报告、中科院分区等其他与机构科研相关的内容，同时满足科研人员对差旅审批等生活方面的便捷式要求，真正做到随时随地为用户提供一站式学习与工作环境。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图书馆知识服务产品的特点是开发工具与购买工具相结合，出版知识服务则更加注重自身技术的实现以及知识服务运营推广。为发挥各自优势、合作共赢，图书馆、出版机构已开始建立诸如“科技出版与知识服务应用联盟”，联合开发知识服务平台，打造连接产业供需各方的知识服务生态体系，为用户提供更好的知识服务。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "整体来看，图书馆知识服务与出版知识服务两类知识服务各具特色，又相互交融（见表1)。图书馆与出版机构正在构造一个全新的生态系统，趋向关联、竞争、协同、合作共生的关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff1b31e6af7f279e4e2df5027edd0c3e5334aebf84e17ddbfc9bc944fe8e1403.jpg",
+        "table_caption": [
+            "表1图书馆知识服务与出版知识服务服务体系异同比较",
+            "Table1Similaritiesand Diferences Between Systemsof Library Knowledge Service and Publishing Knowledge Servi "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">比较类别</td><td rowspan=\"2\">相同点</td><td colspan=\"2\">不同点</td></tr><tr><td>图书馆知识服务</td><td>出版知识服务</td></tr><tr><td>转型变革 背景</td><td>业务扩展 发展需要 开放获取</td><td>实现“投入-产出-作为”的良性循环，追求 价值创造</td><td>追求自身效益最大化</td></tr><tr><td>知识服务 主客体</td><td>利益相关者：读者、 作者、政府、企业</td><td>机构主体：高校图书馆和其它学术型图书馆 个人主体：图书馆员、教师 协同主体（客体）：出版人员、出版机构， （高校）教学人员、科研人员和管理人员</td><td>机构主体：出版机构 个人主体：社长、主编、编委、编辑等出版 人员 协同主体（客体）：图书馆员、图书馆</td></tr><tr><td>服务模式</td><td>集成化、个性化、专业 化、团队化、开放式、知 识性、创造性、增值性， 趋于智能化、社会化</td><td>专家型知识服务模式 知识咨询服务模式 学科化知识服务模式 协同创新驱动模式</td><td>平台服务型模式 知识付费模式 增值服务型商业模式</td></tr><tr><td>服务内容</td><td>嵌入式服务 智库研究与服务 智能与智慧服务</td><td>学科服务 知识咨询 情报分析与研究 数据管理与服务 图书馆出版与出版服务</td><td>知识发现 开放出版 多媒体出版 数据出版 按篇出版 语义出版</td></tr><tr><td>服务产品</td><td>正式出版物/纸本书刊 知识服务平台 知识库</td><td>会议 研究（项目）报告</td><td>研究报告（皮书） 知识问答平台 知识订阅平台</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4图书馆知识服务与出版知识服务的思考与建议",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1强化图书馆个性化知识服务功能",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "新型图书馆知识服务要不断地延伸和拓展自己的边界，强化个性化知识服务，增强在学术交流生态系统中的显示度和贡献度。图书馆的个性化知识服务，可参考“医生咨询模式”，对每一位专家进行“挂号”咨询，打造全新知识服务模式。在该模式背景下，对各类图书馆、专家均采用打分评价机制，依据评分制定咨询标准、项目付费标准等。对图书馆的打分可参考“医疗机构等级划分标准”，不区分图书馆属性、分类等，制定统一标准为图书馆划分等级，同时对专家的“评星定级”可在职称等级基础上延伸，依据领域为用户安排预约咨询的时间、具体方案等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2打造出版知识服务\"五化\"发展新路径",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "知识服务是期刊出版的主导趋势与核心能力，是科技期刊及其平台的核心竞争力。随着数字出版的发展，科技期刊工作的重心必须从编辑出版转变为知识服务，而这是一个不断演进的过程，需要重视规划设计、新技术应用与知识平台建设。国内出版机构在打造知识服务方面较图书馆知识服务发展进程较为缓慢，不改革就将被改革，图书馆已经开始介入出版领域，出版知识服务必须遵循“出版方式数字化一传播手段网络化一运营模式集约化一平台能力知识化一用户体验满意化”的建设与发展路径，快速、坚定地向知识服务发展、转型。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3加强图书馆知识服务与出版知识服务的协同协作",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图书馆知识服务与出版知识服务整体上呈现出“竞合”的特征，既有竞争也有合作。出版机构提供的工具可以介入情报分析（图书馆在做的事），图书馆在做机构知识库、预印本系统（出版在做的事），在二者的竞争关系中，图书馆需要树立忧患意识、危机意识、竞争意识。但同时图书馆应该重视出版为图书馆提供的重要资源基础，出版越强大，就越能为图书馆提供强大的资源与服务能力，图书馆知识服务与出版知识服务正在走向局部融合。在图书馆与出版机构的新型相处模式中，传统出版机构、图书馆、用户三者间的上中下游界限已经模糊，各方作用均在不断延伸，图书馆与出版正在从两个领域走向交叉融合，形成相互作用的生态关系，打破原有平衡，打造新型学术生态系统。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "出版机构在市场竞合、集群化出版的基础上形成了从出版、印刷到发行的完整运营体系，而图书馆在逐渐联盟、共享大环境下将用户新需求放在首位，拥有良好而稳定的用户基础与服务优势。在知识传播的角度，出版机构对于资源的利用与重组符合其经济属性，其中既有出版机构高效高质量利用资源的“事业”追求，也有在经济作用下出版“产业”结构的优化，使得出版机构可以在经济环境与学术交流生态中拥有更多自主权；而图书馆作为学术交流生态的另一个主体，文化传承与知识服务是其根本价值所在，是数字革命让知识获取的方式发生根本性的改变，传统基于印刷的学术出版出现危机，新型出版对图书馆的资源建设和用户服务等方面均产生深远影响，图书馆相关职业人员与专业学者都开始从自身优势出发，打破出版界与图书馆界的壁垒，二者殊途同归，又终将",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在不断制衡中共同发展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图书馆与出版界由于开放获取所带来的发展需要共同走向了知识服务，双方作为彼此知识服务的协同主体/客体，拥有相同的服务受众/利益相关者，但又由于双方的服务模式与服务内容并不完全相同，这也为相同的服务受众提供了多样的选择机会。图书馆可以继续凭借其自身的资源优势、人员优势为用户提供学科服务、情报分析、数据服务、图书馆出版等服务内容；出版机构也可以继续凭借自身资金优势，开发更多更便捷的出版技术、出版平台等。与出版机构合作，图书馆可以将自身的资源借助出版机构开发出的相关技术快速重组，与出版机构实现共赢，以此进一步优化服务内涵，协同发展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图书馆知识服务方面的研究比出版知识服务研究起步早，研究内容更加丰富、全面，且图书馆知识服务在关注出版。而出版知识服务虽然起步晚，但由于其经营上的驱动力而发展更快。出版知识服务业在借鉴图书馆知识服务，图书馆知识服务业在借鉴出版知识服务。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图书馆和出版机构在新时代不断提供新型服务模式，创新知识服务新模式，这也将成为图书馆、出版机构未来很长一段时间的工作重点。图书馆、出版都是学术交流系统的重要组成部分，出版不可能代替图书馆，图书馆也不可能替代出版。图书馆有组织上的优势，能够实时嵌入研究过程，拥有专业的图书馆员、固定的研究团队；而学术出版有资源和资金上的优势，能够解决版权问题和调动社会力量。图书馆和出版机构在转型升级的过程中应加强合作，相互配合，在竞争中寻求合作共赢，打造命运共同体，不断增强自身的核心能力，强化用户优势与服务深度，同时更多地关注和研究两个领域的业务模式与知识服务模式的变化，重视用户体验与用户服务的效果，以求在转型中更好更快发展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "作者贡献说明",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "初景利：提出研究命题、整体研究思路与框架，论文修改；  \n任娇菡：论文起草及修改；  \n王玉：文献可视化及研究热点分析，论文修改。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]新华社．《中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要》[EB/OL].［2021-08-18].http://www.gov.cn/xinwen/2021-03/13/content_5592681.htm.(Xinhua News Agency.Outline of the 14th Five-Year Planand2035 Long-term Goals for National Economic and SocialDevelopment of the People's Republic of China[EB/OL].[2021-08-18].http://www.gov.cn/xinwen/2021-03/13/con-tent_5592681.htm.)",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[2]张晓林.走向知识服务：寻找新世纪图书情报工作的生长点 [J].中国图书馆学报,2000,26(5):30-35.(Zhang Xiaolin.TowardsKnowledge Service:Seeking Development Opportunities for Library and Information Services In the 21st Century[J]. Journal of Library Science in China,2000,26(5) :30-35.) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[3]张立，吴素平，周丹.国内外知识服务相关概念追踪与辨析 [J].科技与出版,2020（2）:5-12．（Zhang Li,Wu Suping, Zhou Dan.Tracking and Discrimination of Related Concepts of Knowledge Service in Domestic and Overseas[J].ScienceTechnology& Publication,2020（2):5-12．） ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[4]孙杰，李淑媛.境外大学图书馆学术出版服务实践进展[J].图书情报工作，2016,60(2):64-70.(Sun Jie,Li Shuyuan.ThePracticesofLibraryPublishingServicein OverseasAcademicLibraries[J].Library and Information Service,2016,60(2) :64-70.）",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[5]李霞，樊治平，冯博.知识服务的概念、特征与模式[J].情报 科学,2007(10）:1584-1587.（Li Xia，Fan Zhiping,Feng Bo. The Concept,Characteristics and Model of Knowledge-intensive Services[J].Information Science,2007(10):1584-1587.) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[6]陈远方.智慧图书馆知识服务延伸情境建构研究[D].长春： 吉林大学,2018.(Chen Yuanfang.Research on Wisdom Library Knowledge Service Extension Situation Construction[D].Changchun:Jilin University,2018.) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[7]任俊为.知识经济与图书馆的知识服务[J].图书情报知识，1999（1）：28-30．（Ren Junwei．Knowledge EconomyandKnowledge Service of Library[J].Documentation,Information&Knowledge,1999(1):28-30.)",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[8]柯平.后知识服务时代的图书馆服务创新[J].高校图书馆工 作，2020,40(1):1-8.(Ke Ping.Library Service Innovation in the Post-knowledge Service Era[J].Library Work in Colleges and Universities,2020,40(1):1-8.) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[9]罗紫初.编辑出版学导论[M].长沙：湖南大学出版社，2008. (Luo Zichu.Introduction to Editing and Publishing[M].Chang sha:Hunan University Press,2008.) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[10]韩丽，初景利.国际知名出版机构知识服务特征、价值和启示[J].出版发行研究，2018（2)：5-10.（HanLi,Chu Jingli.Characteristics,Value and Enlightenment of Knowledge Serviceof International Well-known Publishing Institutions[J].Publish-ing Research,2018(2):5-10.)",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[11]王明亮.科技期刊出版的知识服务化[J].中国科技期刊研究,2004,15(1):12-14.（Wang Mingliang.Knowledge ServiceofSci-tech Journal PublishingLJ」.ChineseJournal of ScientificandTechnical Periodicals,2004，15(1):12-14.)",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[12]吴向.网络时代教育出版的发展方向：知识服务[J].出版参考，2008(13):8-11.(Wu Xiang.The Development Direction ofEducational Publishing in the Network Era:Knowledge Service[J].Publishing Reference,2008(13):8-11.)",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[13]初景利，孙杰.图书馆出版：新领域、新能力、新挑战[J].图 书情报知识,2018,186(6):88-95.(Chu Jingli,Sun Jie.Library Publishing:New Field,New Competence and New Challenge [J].Documentation,Information& Knowledge,2018,186（6）： 88-95.) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[14]Educopia Institute.Library Publishing Directory[EB/OL].[2021-08- 05].https://librarypublishing.org/wp-content/uploads/2020/02/ library_publishing_directory_2020.pdf. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[15]初景利.学术图书馆与新型出版[M].北京：国家图书馆出版 社,2021.（Chu Jingli.Academic Library and New Publishing [M].Beijing:National Library Press,2021.) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[16]魏玉山.知识服务是未来出版的升级版[EB/OL].[2021-08- 05].http://www.cptoday.cn/news/detail/3168.(Wei Yushan.Knowledge Service is the Publication of the Updated Version[EB/OL].[2021-08-05].http://www.cptoday.cn/news/ detail/3168.) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[17］杨晓新，杨海平.人工智能背景下的出版业知识服务模式研究[J].科技与出版,2019,299(11):61-65.（Yang Xiaoxin，Yang Haiping.Research on Knowledge Service Model of Pub-lishing Industryunderthe BackgroundofArtificial Intelligence[J].Science-Technology& Publication,2019,299（11）：61-65.）",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[18］张晓林.开放获取、开放知识、开放创新推动开放知识服务模式—3O会聚与研究图书馆范式再转变[J].现代图书情报技术，2013（2)：1-10.（Zhang Xiaolin.Open Access,OpenKnowledge,and Open Innovation Pushes for Open KnowledgeServices—3O Convergence and a New Paradigmatic Shift forResearch Libraries[J].Modern Library and Information Tech-nology,2013(2):1-10.)",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[19］王焕景，丁志健.知识生命周期视阈下高校图书馆社会化知识服务模式研究[J].图书馆工作与研究,2017(3)：100-104,109.(Wang Huanjing,Ding Zhijian. Research of Social Knowl-edge Service Mode of University Library in the Perspective ofKnowledge Life Cycle[J].Library Work and Study,2017(3）：100-104,109.)",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[20]刘锦山，崔凤雷，崔波.崔波：潜心于易学，精心于“馆”理 [J].高校图书馆工作，2013,33(4):3-6.(LiuJinshan,CuiFenglei,Cui Bo.Cui Bo:Concentrate on Yi-Learning and Be Skillful in Libraries Management[J].Library Work in Colleges and Universities,2013,33(4):3-6.) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[21]南开大学图书馆.学科馆员制度[EB/OL].[2021-08-05].https://www.lib.nankai.edu.cn/12069/list.htm.（Libraryof Nankai University.Subject Librarian System[EB/OL].[2021- 08-05].https://www.lib.nankai.edu.cn/12069/list.htm.) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[22]初景利.嵌入式图书馆服务的理论突破[J].大学图书馆学 报,2013,31(6):5-9.（Chu Jingli.Theoretical Breakthrough of Embedded Library Services[J].Journal of Academic Libraries,2013,31(6):5-9.) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[23]张艳彬，张利洁.基于交互的定制化增值服务模式一传统 出版企业知识服务创新实践探究[J].科技与出版，2019 (12):54-60.(Zhang Yanbin,Zhang Lijie.Custom Value-added Service Model based on Interaction:Exploration of Knowledge Service Innovation Practice in Traditional Publishing Enterprises[J].Science-Technology& Publication,2019(12):54-60.) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[24]刘佳，李贺.数字图书馆知识服务能力理论与实证研究[J]. 情报理论与实践,2012,35(9):74-78.(Liu Jia,Li He.Theory andEmpiricalResearchonKnowledgeServiceCapabilityof Digital Library[J].Informationstudies:Theory & Application, 2012,35(9):74-78.) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[25]科学技术文献出版社.超声掌中宝[EB/OL].[2021-08-05].http://www.medonhand.com.（Scientific and Technical Docu-mentation Press．Ultrasonic Hand-held[EB/OL].[2021-08-05].http://www.medonhand.com.)",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[26]胡红亮，郭传斌.行业生态变革中的医学知识服务模式创新一以科学技术文献出版社医学出版转型为例[J].出版科学,2018,26(4):47-51.（Hu Hongliang,Guo Chuanbin.Innova-tion of Medical Knowledge Service：Scientific and TechnicalDocumentation Press Case[J].Publishing Journal,2018,26(4):47-51.)",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "（收稿日期：2021-08-23）",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "（上接第109页）",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[29]冯珊珊.区块链：信任背书大数据时代的可能性[J].首席财务官，2016(6）：14-17,6.（Feng Shanshan.CouldTrust EndorseBigData?[J」.CFOWorld,2016(6):14-17,6.)",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[30]中华人民共和国工业与信息化部.2018中国区块链产业白皮 书[EB/OL].[2021-01-03].http://www.miit.gov.cn//n11 46290/n1146402/n1146445/c6180238/contrnt. html.（Ministry of Industryand Information Technology of the People's Republic of China.2018 White Paper on China's Blockchain Industry[EB/ OL].[2021-01-03].http://www.miit.gov.cn//n114629 0/n1146402/n1146445/c6180238/contrnt.html.) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[31」王康，王晓慧.产业技术创新战略联盟的技术竞争情报协同服务模式研究[J].情报科学,2018,36(10)：54-57,83.（WangKang,Wang Xiaohui.Technology Competitive Intelligence Col-laborative Service Model of Industrial Technology InnovationStrategic Alliances[J.Information Science,2018,36（10）：54-57,83.)",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[32]Kale P,Singh H,Perlmutter H.Learning and Protection of Proprietary Assets in Strategic Alliances:Building Relational Capital[J].Strategic Management Journal,2020,21(3）:217-237. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[33]Barney JB,Hansen M H.Trustworthiness as a Source of Competitive Advantage[J].Strategic Management Journal,1994, 15(S1):175-190. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[34]贺锋，王汝传.一种基于PKI的P2P身份认证技术[J].计算机技术与发展,2009,19（10)：181-184,188.（He Feng,WangRuchuan.A Peer-to-Peer ldentity Authentication TechnologyBased on PKI[J].Computer Technology and Development,2009，19(10):181-184，188.)",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[35]Lee YT,Lin J J,Hsu JY J,et al.A Time Bank System Designon the Basis of Hyperledger Fabric Blockchain[J].Future Inter-net,2020，12(5):84-99.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[36]谷俊，许鑫.人文社科数据共享模型的设计与实现一以联盟链技术为例[J].情报学报，2019，38(4)：354-367.（Gu Jun，Xu Xin.Design and Implementation of a in Humanities and So-cialSciencesData SharingModel:A CaseStudyof ConsortiumBlockchain[J].Journal of the China Society for Scientific andTechnicalInformation，2019，38（4）:354-367.)",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[37]Shah R H,Swaminathan V.Factors Influencing Partner Selection in Strategic Alliances:The Moderating Role of Alliance Context[J]. Strategic Management Journal,2008,29(5):471-494. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[38]Kale P,Singh H,Perlmutter H.Learning and Protection of Proprietary Assets in Strategic Alliances:Building Relational Capital[J].Strategic Management Journal,2000,21(3):217-237. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "（收稿日期：2021-06-15）",
+        "page_idx": 12
+    }
+]

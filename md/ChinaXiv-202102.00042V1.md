@@ -1,0 +1,214 @@
+# 2001—2017年三江源区典型草地群落碳源/汇模拟及动态变化分析
+
+陈雪娇，周伟，杨晗(重庆交通大学建筑与城市规划学院，重庆400074)
+
+摘要：碳源/汇是解释地球大气碳循环过程的重要指标,探究三江源的碳源/汇特征对于理解该地区植被对全球气候变化的响应具有重要意义。三江源以脆弱的草地生态系统为主，且对全球气候变化非常敏感。该地区生态环境极其脆弱，大部分地区条件恶劣导致实测数据稀缺，很难对该地区的碳源/汇时空格局进行完整剖析。因此通过以三江源5种典型草地群落(金露梅、紫花针茅、风毛菊、小蒿草、及青藏薹草群落)为研究对象,基于BIOME-BGC模型,利用地理数据、气象数据和植被生理参数等数据，得出2001—2017年三江源草地群落的净初级生产力(NPP)、净生态系统生产力(NEP)模拟值，并对草地群落NPP、NEP变化特征与气温、降水相关性以及碳利用效率变化等特征进行了综合分析。结果表明：三江源区 $N P P , N E P$ 在空间格局上，表现为由东南向西北数值逐渐递减趋势;5种典型草地群落多年NPP均呈现逐年增高趋势，其平均值为 $1 9 6 . 0 6 \textrm { g C } \cdot \textrm { m } ^ { - 2 } \cdot \textrm { a } ^ { - 1 }$ 。其中,金露梅群落NPP平均值最高为 $3 4 2 . 0 0 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 } \bullet \mathrm { a } ^ { - 1 }$ ,青藏薹草群落 $N P P$ 平均值最低为 $5 5 . 9 3 \mathrm { g C }$ ：$\textrm { m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ ;5种草地群落NEP的多年平均值为 $4 9 . 0 2 \ : \mathrm { g } \ : \mathrm { C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ,金露梅、紫花针茅及青藏薹草3种植被群落的NEP值呈缓慢的上升趋势，风毛菊和小蒿草群落呈缓慢下降趋势。研究发现三江源草地生态系统具有显著的碳汇作用，且不同群落 $N P P , N E P$ 对气温和降水的响应程度有所差异，5种群落NPP与气温均呈显著正相关，但 $N P P , N E P$ 与降水量的相关性较低;5种群落均具有较强固碳潜力，除金露梅外其余植被群落的碳利用率均在0.625以上。
+
+关键词：碳源/汇；NPP；NEP；BIOME-BGC模型；气候因子；三江源文章编号：
+
+草地作为自然生态系统不可或缺的一部分，它拥有防风固沙、养育生物、涵养水源等生态功能，不仅能够促进生态圈的物质和能量循环，还具有固碳能力，能够调节全球碳平衡、维持全球气候稳定[1]。随着全球社会经济快速发展，石油、煤矿等自然资源快速消耗，地球表面 $\mathrm { C O } _ { 2 }$ 浓度也不断攀升。据相关数据表明,2013年 $\mathrm { C O } _ { 2 }$ 浓度 $( 7 . 2 0 { \times } 1 0 ^ { - 4 } \mathrm { k g } \cdot \mathrm { m } ^ { - 3 } )$ 远高于工业革命前的浓度 $( 5 . 0 4 \times 1 0 ^ { - 4 } \mathrm { k g } \cdot \mathrm { m } ^ { - 3 } )$ ，被称为全球变暖“新时代"的起点。自工业化以来，全球的平均气温上升了约 $1 \mathrm { { ^ { c } } }$ ,温室效应日渐严重，这一系列的问题都受到国内外学者的广泛关注。净初级生产力（NetPrimary Productivity, $N P P$ )又名净第一性生产力，是植物通过光合作用吸收 $\mathrm { C O } _ { 2 }$ 、固定并转化为有机碳所形成的能量减去自身用于异氧呼吸的能量，能够反映植物的生长状况、区域生态系统的健康状况，甚至是表征全球陆地碳平衡和碳循环过程的重要指标[2-3]。净生态系统生产力（Net Eco-systemProductivity, $N E P$ )则是NPP减去异养呼吸的部分，反映生态系统的物质循环以及能量流动，其数值大小直接反映碳源/汇的大小，是表征碳源/汇的重要指标[4]。碳源即植物向外界排放 $\mathrm { C O } _ { 2 }$ ,碳汇即植物吸收空气中的 $\mathrm { C O } _ { 2 } ^ { [ 5 ] }$ L
+
+# 干旱区地理
+
+因此，自20世纪60年代“国际生物圈计划"实施以来，专家学者对全球碳循环过程中的关键指标以及影响生态系统碳循环的因子进行了大量测算和研究。测算植被生物量的方法主要有模型模拟法和传统实测法。传统实测法在研究初期运用较多，是基于研究区域的实测数据来估算草地生物量，方法简单、精度高，但具有破坏性，且只适用于小面积研究区，在条件恶劣、人迹罕至的地区该方法较难实施。因此,利用模型估算NPP、NEP就成为一种广泛应用的重要手段。模型模拟方法随后得到快速扩展，最初多应用统计模型，然后发展为结合遥感数据的光能利用模型、生态过程模型，如MAIAI[]CASA[8-9]、YPM[10]、BIOME-BGC[11]、BEPS[12]等模型。总之，碳循环过程的研究正在不断扩充，研究方法和手段亦在不断完善，从传统实地测量到多技术应用，从单一实测数据到多源数据融合，研究对象也从局部小范围区域上升至全球区域[13]
+
+从我国近千年的历史资料来看，青藏高原的气候变化比我国东部的变化要早 $1 0 \sim 6 0 \mathrm { a } ^ { [ 1 4 ] }$ ,被称为气候变化的启动区，其气候变化的幅度也远高于其它地区，因此是全球气候变化的敏感区之一[15]。位于青藏高原腹地的三江源为寒冷干旱生境，其植被处于早期发育期，系统功能结构较为简单，以草地生态系统为主，生态环境十分脆弱，一旦遭到破坏将很难恢复。而关于三江源生态环境的理论和实践知识还较为缺乏，且随着人类足迹在三江源的增多，势必会给该地区的生态环境带来一系列的问题。基于此，本文在三江源区选取了5种典型草地群落，通过BIOME-BGC模型，得到了2001—2017年草地植被的模拟NPP、NEP值;并分析了5种草地群落的碳/源汇动态变化特征、植被碳利用效率，并评估气候变化对草地碳/源汇的影响，揭示了三江源草地生态群落的固碳潜力对气候变化的响应机制，为客观评价三江源生态系统的碳源/汇功能和开展实践活动提供参考。
+
+# 1研究区域、数据、方法
+
+# 1.1研究区域
+
+三江源地处青海省南部、“世界屋脊"青藏高原的腹地，地理位置在 $3 1 ^ { \circ } 3 9 ^ { \prime } \sim 3 6 ^ { \circ } 1 2 ^ { \prime } \mathrm { N } . 8 9 ^ { \circ } 4 5 ^ { \prime } \sim$ $1 0 2 \ ^ { \circ } 2 3 ^ { \prime } \mathrm { E }$ 之间，是长江、黄河以及澜沧江的发源地。主要地貌类型为山地，平均海拔为 $3 5 0 0 \sim 4 \$ $8 0 0 \mathrm { ~ m ~ }$ 。三江源总土地面积为 $3 0 . 2 5 { \times } 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,其中草地面积占全区总面积的 $6 5 . 3 7 \%$ 。不同地区干湿差异显著[16],随着地域由东南向西北延伸,海拔逐渐升高、水热组合也逐渐降低，该地区的气温和降水历年平均值分别为 $- 5 . 3 8 \sim 4 . 1 4 \ \mathrm { ~ \textcircled { C } ~ } , 2 6 2 . 2 \sim$ $7 7 2 . 8 ~ \mathrm { m m }$ ，具有独特的高寒生态系统。根据三江源的植被分布(图1)，本文选取了5种典型草地植被及其所对应的7个站点，依次为：金露梅群落（班玛县）、小蒿草群落(达日县、河南县）、风毛菊群落(杂多县）、紫花针茅群落(曲麻莱县、五道梁)和青藏草群落(沱沱河)。
+
+![](images/f58de5be0f26d22dca452612526a4844f62c6cd359b3956a53ad6495ba511cb8.jpg)  
+图1三江源地区植被及站点分布示意图  
+Fig.1Location of vegetation and meteorological site in the Three River Source Area
+
+# 1.2数据来源
+
+研究所需植被数据来源于1980年1:100万全国植被分类数据，包括植被型、植被型组、植被群系和植被大类，最终确定研究对象为5种草地植被。站点数据来源于全国气象站点基础数据，根据研究区草地分布状况，选取研究区及其周边的7个观测站点及4个基准站点(达日、兴海、囊谦、格尔木)，主要提取它们的高程、经纬度信息。气象数据来源于中国气象数据网站(http://cdc.cma.gov.cn）,下载各个站点2001一2017年的全国地表数据，包含日最高温度、日最低温度、日平均温度、日总降水量。利用山地气候模拟器(MT-CLIM)模拟得到站点的饱和水汽压亏缺值、地表太阳辐射、日照长度，作为BIOME-BGC模型的输入参数，植被生理参数数据通过查阅文献获得，表1为本文中模型的主要参数设置，
+
+# 1.3BIOME-BGC模型
+
+Biome-BGC模型是由FOREST-BGC模型不断完善而形成的一个生物地球化学模型。该模型基于气象数据(气温、降水、 $\mathrm { C O } _ { 2 }$ 浓度）基础地理数据以及植被生理参数数据，利用植被的光合作用、自养呼吸、异养呼吸、土壤凋落物等模型的原理，以天为单位，通过模拟碳、水、氮这3个关键因子的循环，进而模拟植被每天的生长状况。因此，根据模型输出参数可以估算植被乃至生态系统的生产力。模型的运行数据和参数包括3部分：植被生理生态参数(epc）初始化文件(ini）、日值气象数据(metdata）。
+
+表1植被生理生态参数表  
+Tab.1 Physiological parameters of vegetation   
+
+<html><body><table><tr><td>参数</td><td>C3草地</td><td>参考文献</td></tr><tr><td>转化期占生长季比例</td><td>1</td><td></td></tr><tr><td>调落期占生长季比例</td><td>1</td><td></td></tr><tr><td>年叶和细根的转换比例</td><td>1</td><td></td></tr><tr><td>落叶层各部分的比例</td><td>0.39</td><td></td></tr><tr><td>叶凋落物的纤维素比例</td><td>0.44</td><td></td></tr><tr><td>叶凋落物木质素比例</td><td>0.17</td><td></td></tr><tr><td>细根各部分的比例</td><td>0.30</td><td>WHITE[17]</td></tr><tr><td>细根的纤维素比例</td><td>0.45</td><td>WHITE[17]</td></tr><tr><td>细根木质素比例</td><td>0.25</td><td>WHITE[17]</td></tr><tr><td>枯木纤维素比例</td><td>0.75</td><td>REEVES[18]</td></tr><tr><td>枯木木质素比例</td><td>0.25</td><td>REEVES[18]</td></tr><tr><td>水汽压差限制传导上限</td><td>930</td><td></td></tr><tr><td>水汽压差限制传导下限</td><td>4100</td><td></td></tr></table></body></html>
+
+模型运行的主要公式[19-20]为：
+
+(1)气孔导度( $\phantom { + } g _ { s }$ )的计算：
+
+（204号 $g _ { s } = g _ { m a x } \times S F \bigl ( T _ { m i n } \bigr ) \times S F \bigl ( V P D \bigr ) \times S F ( \psi )$ (1)式中： $\boldsymbol { g } _ { \mathrm { m a x } }$ 为最大气孔导度； $S F$ 为极限应力函数;VPD为水汽压亏缺； $T _ { m i n }$ 为最低温度; $\psi$ 为土壤含水量。
+
+(2)光合作用速率 $( A )$ 计算：
+
+$$
+A = \operatorname* { m i n } { ( A _ { v } , A _ { j } ) }
+$$
+
+式中： $\boldsymbol { A } _ { v }$ 为 $\mathrm { R u B P }$ （植物光和作用中起重要作用的一种五碳糖)饱和时的光合作用效率，由学者(Faquthar、VonCaemmerer)研究建立：
+
+$$
+A _ { v } = \frac { V _ { c m a x } ( C _ { i } - \Gamma _ { j } ) } { C _ { i } + K _ { c } \Bigg ( 1 + \displaystyle \frac { p _ { o _ { 2 } } } { k _ { o } } \Bigg ) } - R _ { d }
+$$
+
+式中： $V _ { \it c m a x }$ 为Rubisco羧化酶(光合作用中C3反应时起重要作用的一种羧化酶)的最大羧化能力； $C _ { i }$ 为叶片内的 $\mathrm { C O } _ { 2 }$ 浓度； $\Gamma _ { j }$ 为 $\mathrm { C O } _ { 2 }$ 的光补偿点; $K _ { c }$ 为$\mathrm { C O } _ { 2 }$ 的米氏常数; $p _ { \theta _ { 2 } }$ 为植物叶片内 $\mathrm { O } _ { 2 }$ 分压； $R _ { d }$ 为在光照下叶片的呼吸速率; $k _ { o }$ 为针对 $\mathrm { C O } _ { 2 }$ 的竞争抑制常数。
+
+最大羧化能力( $V _ { \it { c m a x } }$ )的计算如下：
+
+$$
+V _ { _ { c m a x } } = \frac { a c t \times f l n r } { f n r \times s l a \times C \colon N l e a f }
+$$
+
+式中：act为Rubisco 酶；flnr、fnr分别为叶氮、叶片全氮在Rubisco酶分子中所分配的比例； $s l a$ 为实际的叶片面积；C:Nleaf为叶片中的碳与氮的总含量之比。
+
+公式(2)中 $A _ { j }$ 为辐射限制下的光合作用速率：
+
+$$
+A _ { j } = \frac { J ( C _ { i } - \Gamma _ { j } ) } { 4 . 5 C _ { i } + 1 0 . 5 \Gamma _ { j } } { - R _ { d } }
+$$
+
+式中：为 $\mathrm { R u B P }$ 再生速率。
+
+(3)自养呼吸速率 $( R )$ 计算：
+
+$$
+R = R _ { c } Q _ { 1 0 } ^ { \frac { t - 2 0 } { 1 0 } } , R _ { c } = l e a f n \times M r p e r n ,
+$$
+
+$$
+M r p e r n = 0 . 2 1 8 \big ( \mathrm { k g C / k g N / d } \big )
+$$
+
+式中：Mrpern为植物氮含量; $l e a f n$ 为叶片的氮浓度;  
+$R _ { c }$ 为环境温度在 $2 0 \ \mathrm { { ^ circ C } }$ 时植被的呼吸速率。
+
+# 2结果与分析
+
+# 2.1模型结果验证
+
+表2为模拟NPP数据与实测数据的比较，由于实测点与模拟站点并不完全重合，且有的模拟站点附近条件较为恶劣，因此缺少实测值。根据表格中NPP值的比较可以发现：2017年56046站点附近的实测值远高于模拟值，原因是此站点位于巴颜喀拉山脉，海拔高于最近的实测点。同时2017年56018站点模拟值与实测点之间距离较远，导致实测值低于模拟值;除此之外，其它几组数值相差较小。
+
+通过模拟NEP数据与BEPS模型模拟值比较（表3），验证时期均为7、8月份的数据。其中56046站点与验证数据相差较小,其余3个站点值均略高于验证值。说明本模型的模拟值与真实值较为接近，模拟的精度较高，能够对三江源的碳源/汇进行研究。
+
+# 2.2NPP、NEP趋势及空间特征分析
+
+2.2.1NPP、NEP日变化趋势三江源5种典型草地植被NPP、NEP的时间变化特征（以2017年数据为代表)表现出由东南向西北走向(图 $2 \mathrm { a } \sim \mathrm { j }$ )，植被生长活跃期逐渐缩短，由 $2 5 0 \mathrm { d }$ 减少到 $1 3 0 \mathrm { d }$ 。在年际上， $N P P , N E P$ 数值均表现为：“春季平稳-夏季大幅上升-秋季大幅下降-冬季平稳"的倒"U"型趋势，表征出“碳源-碳汇-碳源"特征。日 $N P P$ 峰值由高到低排序依次为：金露梅 $( 2 . 1 5 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 } \bullet \mathrm { a } ^ { - 1 } ) >$ 小蒿草$\mathrm { ^ { \prime } 1 . 8 5 g C { \cdot } m ^ { - 2 } { \cdot } a ^ { - 1 } } ) >$ 风毛菊 $( 1 . 6 1 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 } ) { > }$ 紫花针茅 $( 1 . 1 9 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 } ) >$ 青藏草 $( 0 . 8 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 } )$ 。冬春两季植被NEP为负值，主要是因为此段时期植被的生长呼吸作用大于植被的光合作用;开春后气温回升，水热供给增多植被开始进入生长期， $N E P$ 剧烈上升，秋季叶片开始调落，植物开始进入休眠期，NEP则剧烈下降。
+
+2.2.2NPP、NEP年际变化三江源5种草地群落2001—2017年NPP均值变化得出（图 $3 \mathrm { a } \sim \mathrm { e } ,$ ，其变化均维持稳定上升趋势，年增长速率依次为金露梅（ $5 . 6 3 \%$ )>小蒿草 $( 5 . 2 1 \% ) >$ 风毛菊 $( 4 . 8 4 \% ) >$ 紫花针茅 $( 4 . 5 5 \% ) >$ 青藏草( $1 . 1 2 \%$ )。较为严寒的地区增长速率较低，而气候条件较好的地区增长率较大，其中青藏草 $N P P$ 年平均值上升缓慢,处于 $4 7 \ \sim$ $6 8 { \mathrm { ~ g ~ C ~ } } \cdot { \mathrm { m } } ^ { - 2 } \cdot { \mathrm { a } } ^ { - 1 }$ 之间,原因是该地处于昆仑山脉,气候寒冷，气温对于植被生长的影响大于降水的影响，即青藏臺草的生长对气温的响应程度要高于对降水的响应程度,气温是植被生长的限制因子[21]。
+
+5种群落17a来的NEP值分析得出（图3f～j)）,金露梅、紫花针茅和青藏臺草的NEP值增长幅度较小，小蒿草和风毛菊总体呈缓慢下降趋势。5种草地群落的NEP值均大于0，可见三江源区的草地群
+
+Tab.2 Verificationof simulated NPPwithobserved values   
+表3净生态系统生产力(NEP)的模拟值与BEPS模型模拟值的验证比较  
+
+<html><body><table><tr><td rowspan="2">年份</td><td colspan="4">模拟数据</td><td colspan="3">实测数据</td></tr><tr><td>站点编号</td><td>经度/E</td><td>纬度/N</td><td>模拟NPP</td><td>经度/E</td><td>纬度/N</td><td>实测NPP</td></tr><tr><td>2017</td><td>56046</td><td>99.65</td><td>33.75</td><td>225.119</td><td>99.84</td><td>33.60</td><td>435.118</td></tr><tr><td>2017</td><td>56065</td><td>101.60</td><td>34.73</td><td>222.396</td><td>100.92</td><td>35.32</td><td>222.075</td></tr><tr><td>2017</td><td>56021</td><td>95.80</td><td>34.12</td><td>156.578</td><td>95.81</td><td>34.02</td><td>123.795</td></tr><tr><td>2017</td><td>56018</td><td>95.28</td><td>32.88</td><td>218.537</td><td>95.56</td><td>33.21</td><td>102.758</td></tr><tr><td>2017</td><td>56151</td><td>100.75</td><td>32.93</td><td>323.684</td><td>100.57</td><td>35.78</td><td>395.483</td></tr><tr><td>2012</td><td>56004</td><td>92.43</td><td>34.22</td><td>50.129</td><td>92.49</td><td>34.27</td><td>65.205</td></tr><tr><td>2005</td><td>56004</td><td>92.43</td><td>34.22</td><td>43.131</td><td>92.43</td><td>34.28</td><td>65.227</td></tr></table></body></html>
+
+表2净初级生产力(NPP)的模拟值与实测值的验证比较  
+Tab.3Validation and comparison of NEP simulation value and BEPS model simulation value   
+
+<html><body><table><tr><td>年份</td><td>站点编号</td><td>经度/E</td><td>纬度/N</td><td>本文模拟NEP值</td><td>BEPS模型模拟NEP值</td></tr><tr><td>2004</td><td>56004</td><td>92.43</td><td>34.22</td><td>15.646</td><td>2.485</td></tr><tr><td>2004</td><td>56018</td><td>95.28</td><td>32.88</td><td>35.742</td><td>18.611</td></tr><tr><td>2004</td><td>56021</td><td>95.80</td><td>34.12</td><td>32.904</td><td>22.734</td></tr><tr><td>2004</td><td>56046</td><td>99.65</td><td>33.75</td><td>38.591</td><td>39.189</td></tr></table></body></html>
+
+L L L 8/dN 1.0 1. (d)紫花针茅NPP 0.5 0.0 0.5   
+品名品品品品 品名留品品品品 10 8名品品888 日数/d 日数/d 日数/d 日数/d   
+(e)青藏草NPP (f)金露梅NEP (g)小蒿草NEP (h)风毛菊NEP   
+3 10 0. 1.0 8 1.0 0.5 0.5 /PdN 00 ddN 005 /PPN 00 M   
+0.5 1.0 -1.0 -1.0   
+0 0 0 65000 0 60 6 日数/d 日数/d 日数/d 日数/d (i)紫花针茅NEP (j)青藏草NEP 1 .8/ 0.5 1.0 /ddN 00 -1.0 0 0050050 5 5%005 日数/d 日数/d
+
+![](images/e61c42acaae6c24bdfdd4088c512fe56a0c82b1db8bdbddc551f4c852de54887.jpg)  
+图2NPP、NEP日变化趋势  
+Fig.2Diurnal variation trends of NPPand NEP   
+图3NPP、NEP年变化趋势  
+Fig.3Annual variation trends of NPPand NEP
+
+# 干旱区地理
+
+落具有显著的碳汇功能，且由东南向西北碳汇功能逐渐减弱，其碳汇功能大小排序为：金露梅>小蒿草$>$ 风毛菊 $>$ 紫花针茅>青藏臺草。5种植被NEP年空间变化趋势体现出，气温升高和降水量合理匹配能够有效促进植被的生长，植被NEP会继续升高，固碳能力也会逐渐增强，
+
+# 2.3NPP、NEP与气候因子的相关性分析
+
+2.3.1NPP、NEP与降水的相关性分析本研究对2001一2017年5种植被的站点年降雨量做了统计，金露梅的年平均降雨增长率最大，但平均每年不超过 $9 \mathrm { m m }$ ，其余4种群落的多年年降雨趋势线大致保持一致。2001—2017年三江源5种典型草地群落与年降雨量相关性分析得出（图 $4 \mathrm { a } \sim \mathrm { e }$ ），群落NPP与降水量的相关性很小， $R ^ { 2 }$ 均小于0.1;NEP与降水量的 $R ^ { 2 }$ 也较小，表明 $N P P , N E P$ 受降水的影响不显著。NEP与降水的相关程度依次为：风毛菊群落（204 $( R ^ { 2 } { = } 0 . 1 2 3 9 ) >$ 小蒿草群落 $\scriptstyle ( R ^ { 2 } = 0 . 0 4 ) >$ 紫花针茅群落$\scriptstyle ( R ^ { 2 } = 0 . 0 0 0 6 ) >$ 金露梅群落 $( R ^ { 2 } { = } 0 . 0 0 0 3 ) { > }$ 青藏草群落 $\scriptstyle \left( R ^ { 2 } = 0 . 0 0 0 \ 0 3 \right)$ )，值由东南向西北逐渐递减。5个群落的NPP值随着降水量的增多有一定的缓慢上升趋势，且NEP也随着降雨量的增多有着细微的上升趋势。
+
+2.3.2NPP、NEP与气温的相关性分析同理对2001一2017年5种植被的多年气温进行统计（图$5 \mathrm { a } \sim \mathrm { e } )$ ,三江源5种典型草地群落 $N P P , N E P$ 都与气温相关，除金露梅和风毛菊外 $R ^ { 2 }$ 值略偏低以外，其余3种植被 $R ^ { 2 }$ 值均大于0.5，故草地群落与气温具有显著相关性。年平均气温为波动上升的趋势,其中青藏臺草温度上升最快,每年上升大致 $0 . 0 8 { } ^ { \circ } \mathrm { C } _ { \circ }$ NPP与气温的 $R ^ { 2 }$ 值排序为紫花针茅群落 $\scriptstyle ( R ^ { 2 } = 0 . 6 9 6 8 ) >$ 青藏草群落 $( R ^ { 2 } { = } 0 . 6 2 3 ~ 5 ) >$ 小蒿草群落 $\scriptstyle ( R ^ { 2 } = 0 . 5 2 5 ) >$ 风毛菊群落 $( R ^ { 2 } { = } 0 . 3 7 7 5 ) >$ 金露梅群落 $scriptstyle R ^ { 2 } = 0 . 2 1 6 3$ ，具有很强的空间分布特征。而NEP值则与气温的相关性不高。NPP与气温的相关性整体上与气温的空间分布呈相反的趋势，其原因是严寒限制了植被的生长[22],当其限制条件改善时，其对植被生长将会具有较强的促进作用。
+
+NPP、NEP与水热的相关性对比得出，NPP、NEP均受气温的影响较大，且成正相关。而降水与它们的相关性则不显著，其规律与赵俊芳[23]、LUYS-SAERT[24]、裴志永[25]等学者的研究结果符合。
+
+# 2.4碳利用效率(CUE)分析
+
+碳利用效率(Carbonuse efficiency,CUE)是净初级生产力与总初级生产力（Gross Primary Productivity,GPP)之比,能够反映植被吸收并固定 $\mathrm { C O } _ { 2 }$ 的能力[26]
+
+2017年三江源5个草地群落日碳利用率均表现为明显的“凸"字形（图 $6 \mathrm { a } \sim \mathrm { e }$ )，无明显波峰波谷。空间上，三江源由东南向西北方向可以看出：CUE数值范围逐渐由 $\left( - 1 . 0 \sim 0 . 8 \right)$ 缩小到 $\left( - 0 . 4 \sim 0 . 8 \right)$ ，峰值持续时间大致由 $2 4 0 \mathrm { d }$ 递减到 $1 2 0 \mathrm { d }$ 。表明每年单位面积植被的固碳潜力也在逐渐下降。
+
+5种草地群落历年的CUE走势图得出（图6f\~
+
+ez. 500 (a)金露梅 1-e:z-i. (b)小蒿草 -ez- (c)风毛菊   
+400 300 。 。 。。 m 300 。。 。 R²=0.0071 R²=0.317 0 C C 0 。。 。 8 。NPP NIIIIE 200 。 R²=0.0949 。 。 NPP d 。 。 。NPP   
+200 NEP 。 NEP NEP   
+100 R2=0.0002 100 R2=0.0340 牛 3 R2=0.1239 0 0 40 50 60 70 80 40 50 60 70 40 50 60 70 降水量/cm 降水量/cm 降水量/cm I-ez-u. (d)紫花针茅 -e:z-u. (e)青藏苔草 。 R²=0.000 003 。 200 。 R=0.0320 。 。 。 。 。 C 60 。 8 。 。 HHIIPIP 。 。 。NPP PPIIIIH : NPP 100 40 R²=0.000 05 NEP R²=0.000 003 1 A 0 20 ▲ T A 25 30 35 40 45 50 55 60 20 30 40 50 降水量/cm 降水量/cm   
+-e.z-u. (a)金露梅 T (b)小蒿草 -e.z-u. (c)风毛菊 R2=0.216 3 8 30 R²=0.552 50 。 300 R²=0.377 6 9   
+d 0。 9 8 。 C8 。 。8。 。 0200 。 。 /PIPIPPP 。 。NPP N 。 。 。 0 。 。NPP :NPP 100 R²=0.0104 NEP 。。 NEP R²=0.142 7 R²=0.0463 0 1 3.0 3.3 3.6 3.9 4.2 -1.0 -0.5 0.0 0.5 1.0 1.0 1.5 2.0 2.5 气温/℃ 气温/℃ 气温/℃ (d)紫花针茅 0 R2=0.6968 R²=0.623 5 。 5010 。 :NPP Idd :NPP 50 R²=0.005 6 R²=0.5419 0 -2.0 -1.5 -1.0 -0.5 0.0 -3.5 -3.0 -2.5 气温/℃ 气温/℃
+
+![](images/83f400230ac1ee4c9eb7700bbabc4059dc30ee420ba3f689f2cae0b260b92399.jpg)  
+图5NPP、NEP与气温的相关性  
+Fig.5Correlation between NPP(or NEP)and temperature   
+图6碳利用率日变化趋势及年变化趋势 Fig.6Diurnal and annual change trends of CUE
+
+j),青藏臺草历年CUE波动上升较为明显;其中紫花针茅数值波动较大，但总体趋势是保持不变；小蒿草、风毛菊、金露梅呈明显下降趋势。空间上，由东南向西北呈现：缓慢下降-保持稳定-缓慢上升的空间特征。据大量研究表明[27-28]：碳利用效率整体上与降水呈正相关，与气温呈负相关；且随时间的推移呈现逐渐降低趋势；退化越明显的地区CUE的值越小。东南部3个草地群落CUE变化趋势同现有2研究一致，主要与气温呈负相关，主要原因是5种植被多年降雨趋势基本不变，气温都表现为明显增加趋
+
+# 干吴区地理
+
+势，那么高寒地区的植被在气温升高并不显著的情况下，植被的生长仍然受到限制，因此CUE的变化趋势不明显。
+
+# 3结论
+
+（1）三江源典型草地群落具有碳汇作用，且2001一2017年间碳汇功能在增强。三江源的5种草地植被一年中的活跃生长期在第 $5 0 \sim 3 0 0 \mathrm { d }$ 这个时段；各个群落的NPP值近17a来均表现为上升趋势,其中青藏草NPP值最低,为 $5 5 . 9 3 \mathrm { g C ^ { \bullet } m ^ { - 2 } \bullet a ^ { - 1 } }$ ，相较之下不及金露梅NPP值 $( 3 4 2 . 0 0 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } )$ （20的十分之一;整个研究区年平均 $N E P$ 值均在 $2 0 \mathrm { g C }$ ：$\mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 }$ ,均大于0。
+
+(2）群落 $C U E$ 值均较高，小蒿草、紫花针茅、风毛菊、青藏草 $C U E$ 值均在0.625以上，有较强固碳潜力；且空间上东南部区域植被固碳潜力逐渐降低，西北部逐渐增加。（3）NPP与气温呈显著正相关。其中紫花针茅群落 $\scriptstyle ( R ^ { 2 } = 0 . 6 9 6 ~ 8$ )、青藏臺草群落（ $R ^ { 2 } { = } 0 . 6 2 3 ~ 5 )$ 和小蒿草群落( $R ^ { 2 } { = } 0 . 5 2 5$ 显著值 $R ^ { 2 }$ 均大于0.5。（4）本研究中很多数据均体现出独特的空间分布格局。由东南向西北纵观三江源：高程由低到高，水热组合逐渐减少，因此植被由高大密集的灌木、乔木向稀疏矮小的耐寒耐旱高山植被过渡，植被 $N P P , N E P$ 数值逐渐递减，固碳潜力逐渐增强。另外，本论文中BIOME-BGC模型的参数优化设置有待深人研究。
+
+# 参考文献(References)
+
+[1]欧阳志云,王效科,苗鸿.中国陆地生态系统服务功能及其生态 经济价值的初步研究[J].生态学报,1999,19(5)：19-25.[OUYANGZhiyun,WANG Xiaoke,MIAO Hong.A primary study on Chinese terrestrial ecosystem services and their ecological economic values[J].Acta Ecologica Sinica,1999,19(5): 19-25.]   
+[2] 张峰,周广胜,王玉辉.基于CASA模型的内蒙古典型草原植被 净初级生产力动态模拟[J].植物生态学报,2008,32(4):786- 797.[ZHANGFeng,ZHOUGuangsheng,WANG Yuhui.Dynamics simulation of net primary productivityby a satellite data-driving CASA model in Inner Mongolian typical steppe, China[J]. Journal of Plant Ecology,2008,32(4): 786-797.]   
+[3]赵灿,张宇清,秦树高,等.3种典型沙生灌木NPP及其分配格 局[J].北京林业大学学报,2014,36(5):62-67.[ZHAO Chan, ZHANG Yuqing, QING Shugao,et al. NPP and its distribution pattern of three typical sandy shrubs[J]. Journal of Beijing Forestry University,2014,36(5) : 62-67.]   
+[4]SCHULZE ED,LLOYD J, KELLIHER F M,et al. Productivity of forests in the Eurosiberian boreal region and their potential to act as acarbon sink: Asynthesis[J]. Global Change Biology,199,5 (6): 703-722.   
+[5]方精云,朴世龙,赵淑清. $\mathrm { C O } _ { 2 }$ 失汇与北半球中高纬度陆地生态 系统的碳汇[J].植物生态学报,2001,25(5):594-602.[FANG Jingyun,PIAO Shilong, ZHAO Shuqing. The carbon sink the role of the middle and high latitudes terrestrial ecosystems in the northern hemisphere[J]. Chinese Journal of Plant Ecology,2OO1,25(5) : 594-602.]   
+[6]邱丽莎,何毅,张立峰,等.祁连山MODIS LST时空变化特征及 影响因素分析[J].干旱区地理,2020,43(3):726-737.[QIU Lisha,HE Yi, ZHANG Lifeng,et al. Grassland yield change in Qinghai Province based on MODIS data[J].Arid Land Geography, 2020,43(3): 726-737.]   
+[7]LIETHH.Modeling the primary productivityof the WorldJ].Primary Productivity of the Biosphere,1975,14(1): 237-263.   
+[8]BRADFORD JB, HICKE JA,LAUENROTH W K. The relative importance of light-use efficiency modifications from environmental conditions and cultivation for estimation of large-scale net primary productivity[J]. Remote Sensing of Environment, 2005,96 (2): 246-255.   
+[9]高清竹,万运帆,李玉娥,等.基于CASA模型的藏北地区草地 植被净第一性生产力及其时空格局[J].应用生态学报,2007, 18(11): 2526-2532. [GAO Qingzhu, WAN Yunfan,LI Yu'e, et al. Grassland net primary productivity and its spatial temporal distribution in northern Tibet:A study with CASA model[J].Chinese Journal of Applied Ecology,2007,18(11): 2526-2532.]   
+[10] 童志辉,熊助国,孙睿,等.利用多源数据估算黑河流域总初级 生产力[J].干旱区地理,2020,43(2): 440-448.[TONG Zhihui, XIONG Zhuguo, SHUN Rui, et al. Estimating gross primary production in the Heihe River Basin from multiple data sources[J].Arid Land Geography,2020, 43(2): 440-448.]   
+[11]PARTON W J, SCURLOCK JMO,OJIMA D S,et al. Observations and modeling of biomass and soil organic matter dynamics for the grassand biome worldwide[J]. Global Biogeochemical Cycles,1993,7(4): 785-809.   
+[12]LIU J, CHEN JM, CIHLAR J, et al.A process-based boreal ecosystem productivity simulator using remote sensing inputs[J]. Rem Sens Environ,1997,62(2): 158-175.   
+[13] 冯险峰,孙庆龄,林斌.区域及全球尺度的NPP过程模型和NPP 对全球变化的响应[J].生态环境学报,2014,23(3):496-503. [FENG Xianfeng, Sun Qingling, Lin Bin. NPP process models applied in regional and global scales and responses of NPP to the global chenge[J]. Ecology and Environmental Sciences,2014,23 (3): 496-503.]   
+[14] 冯松,汤懋苍,王冬梅.青藏高原是我国气候变化启动区的新证 据[J].科学通报,1998,43(6): 633.[FENG Song,TANG Maocang,
+
+WANG Dongmei. New evidence for the Qinghai-Xizang (Tibet)
+
+Plateau as a pilot region of climatic fluctuation in China[J]. Chinese Science Bulletin,1998,43(6): 633.]   
+[15] 姚檀栋,刘晓东,王宁练.青藏高原地区的气候变化幅度问题 [J].科学通报,2000,45(1):98-106.[YAO Tandong,LIU Xiaodong,WANG Ninglian.Amplitude of climatic changes in Qinghai-Tibetan Plateau[J]. Chinese Science Bulletin, 20Oo,45(1): 98- 106.]   
+[16] 许洁,陈惠玲,商沙沙,等.2000—2014年青藏高原植被净初级 生产力时空变化及对气候变化的响应[J].干旱区地理,2020, 43(3):592-601.[XU Jie,CHEN Huiling,SHANG Shasha,et al. Response of net primary productivity of Tibetan Plateau vegetation [J].Arid Land Geography,2020,43(3): 592-601.]   
+[17]WHITE MA,THORNTONPE,RUNNING SW,et al.Parameterization and sensitivity analysis of the BIOME-BGC terrestrial ecosystem model: Net primary production controls[J].Earth Interactions,2000,4(3): 1-84.   
+[18]REEVES MC,MORENO AL,BAGNE KE,et al.Estimating climate change effects on net primary production of rangelands in the United States[J]. Climatic Change,2014,126(3-4): 429-442.   
+[19]COLLATZG J, BALL JT,GRIVET C,et al. Physiological and environmental regulation of stomatal conductance,photosynthesis and transpiration: A model that includes a laminar boundary layer [J].Agri Forest Met,1991,54(2-4): 107-136.   
+[20]LOBELL D B,HICKE JA,ASNER G P,et al. Satellite estimates of productivity and light use efficiency in United States agriculture, 1982—1998[J]. Global Change Biology,2010,8(8): 722-735.   
+[21] 除多,德吉央宗,普布次仁,等.西藏藏北高原典型植被生长对 气候要素变化的响应[J].应用气象学报,2007,18(6):832-839. [CHU Duo,DEJI Yangzong,PUBU Ciren,et al. The response of typical vegetation growth to climate conditions in north Tibetan Plateau[J]. Journal of Applied Meteorological Science,2007,18 (6): 832-839.]   
+[22] 张镜锂,丁明军,张玮,等.三江源地区植被指数下降趋势的空 间特征及其地理背景[J].地理研究,2007,26(3):500-507. [ZHANG Yili, DING Mingjun, ZHANG Wei,et al. Spatial characteristic of vegetation change in the source regions of the Yangtze River,Yellw River and Lancang River in China[J]. Geographical Research,2007,26(3): 500-507.]   
+[23] 赵俊芳,延晓冬,贾根锁.东北森林净第一性生产力与碳收支对 气候变化的响应[J].生态学报,2008,28(1):92-102.[ZHAO Junfang,YAN Xiaoddong,JIA Gensuo. Simulating the responses of forest net primary productivity and carbon budget to climate change in northeast China[J].Acta Ecologica Sinica,2Oo8,28(1) : 92-102.]   
+[24]LUYSSAERT S, INGLIMA I, JUNG M, et al. CO2 balance of boreal,temperate,and tropical forests derived from a global database [J]. Glob Change Biol,2007,13(12): 2509-2537.   
+[25] 裴志永,周才平,欧阳华,等.青藏高原高寒草原区域碳估测[J]. 地理研究,2010,29(1):102-110. [PEI Zhiyong,ZHOU Caiping, OUYANG Hua, et al.A carbon budget of alpine steppe area in the Tibetan Plateau[J]. Geographical Research,2010,29(1): 102-110.]   
+[26]DILLAWAY D N,KRUGER E L. Trends in seedling growth and carbon-use efciency vary among broadleaf tree species along a latitudinal transect in eastern North America[J]. Global Change Biology,2014,20(3): 908-922.   
+[27] 袁旻舒,李明旭,程红岩,等.基于CMIP5模型结果的中国陆地 生态系统未来碳利用效率变化趋势分析[JJ.中国科学院大学 学报,2017,34(4): 452-461.[YUAN Minshu,LI Mingxu,CHENG Hongyan,et al.Future trends in carbon use efficiency for Chinese terrestrial ecosystem based on CMIPS model results[J]. Journal of University of Chinese Academy of Sciences,2017,34(4):452- 461.]   
+[28] 陈光水,杨玉盛,高人,等.杉木林年龄序列地下碳分配变化[J]. 植物生态学报,2008,32(6):1285-1293.[CHEN Guangshu, YANG Yusheng, GAO Ren, et al. Changes in belowground carbon allocation in a Chinese fir chrono sequence in Fujian Province, China [J]. Chinese Journal of Plant Ecology,2008,32(6): 1285-1293.]   
+[29] 安相,陈云明,唐亚坤.东亚森林、草地碳利用效率及碳通量空 间变化的影响因素分析[J].水土保持研究,2017,24(5):79-87. [AN Xiang,CHEN Yunming,TANG Yakun. Factors affecting the spatial variation of carbon use efficiency and carbon fluxes in East Asian forest and grassland[J]. Research of Soil and Water Conservation,2017,24(5): 79-87.]
+
+# Simulation and dynamic change of carbon source/sink in the typical grassland communities in the Three River Source Area from 2oo1 to 2017
+
+CHEN Xue-jiao， ZHOU Wei， YANG Han (Chongqing Jiaotong University，CollegeofArchitecture and Urban Planning，Chongqing 40oo74,China)
+
+Abstract: In this paper,five typical grassland communities (Potentilla fruticosa,Stipa purpurea,Saussurea japonica, Kobresia pygmaea,and Carex moorcroftiicommunities) in the Three River Source Area,Qinghai Province, China were selected as research objects.Basic geographic data, meteorological data,and vegetation physiological parameters data were used to estimate the net primary productivity ( $N P P$ ) and the net ecosystem productivity (NEP) in these grassland communities from 2001 to 2017 based on the BIOME-BGC model.This paper also investigated the change characteristics of $N P P$ and $N E P$ and their correlation with temperature and precipitation.The characteristics of the change of the carbon use efficiency( $C U E$ )were also explored.Results showed that the spatial pattern of the values of $N P P$ and $N E P$ in the Three River Source Area reduced gradually from southeast to northwest. The multi-year average value of $N P P$ in 5 typical grassland communities was $1 9 6 . 0 6 \textrm { g C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ，which showed an increasing trend year by year. Among them, the annual average value of $N P P$ in Potentilla fruticosa was the highest $( 3 4 2 . 0 0 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } )$ ,and the annual average value of $N P P$ in Carex moorcroftii seagrass was the lowest $5 5 . 9 3 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } )$ . The annual mean value of $N E P$ of the five grassland communities was $4 9 . 0 2 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ The $N E P$ values of Potentilla fruticosa, Stipa purpurea and Carex moorcrofti increased slowly, while the $N E P$ values of Saussurea japonica and Kobresia pygmaea decreased slowly.Therefore,the grassand ecosystem in the Three River Source Area has significant carbon sequestration function of absorbing CO $^ 2$ . A significant positive correlation between $N P P$ and temperature was observed, while a low correlation between $N P P$ ， $N E P$ , and precipitation existed. Allthe five communities have great potential for carbon sequestration.The carbon utilization rate ofother vegetation communities was above O.625, except the Potentilla fruticosa.
+
+Key Words:carbon source/sink; NPP； NEP; BIOME-BGC model;climate factor; Three River Source Area

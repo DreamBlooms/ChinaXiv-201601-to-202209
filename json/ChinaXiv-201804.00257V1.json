@@ -1,0 +1,295 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201712012161 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李春明,张会,HAKLAYMuki.公众科学在欧美生态环境研究和管理中的应用.生态学报,2018,38(6)：2239-2245.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "公众科学在欧美生态环境研究和管理中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李春明1,\\*,张会1²,HAKLAYMuki³",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院城市环境研究所，城市环境与健康重点实验室，厦门361021  \n2 中国科学院大学，北京100049  \n3 Extreme Citizen Science Group,University Collge London，Gower Stret，London，WCIE 6BT,United Kingdom",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;近十年来以大量公众参与科学研究活动为特征的公众科学在生态环境研究和管理中得到了快速发展,根据公众和科学家之间的合作程度不同出现了以贡献型、协作型和共创型为主的应用模式,并在生物多样性调查、环境质量监测、生态环境管理中表现出了极大的潜在价值。通过对欧美公众科学在生态环境研究和管理中的典型案例进行介绍,分析了其概念内涵,概括了其项目的组成结构和应用模式,指出了面临的挑战和发展趋势。结论如下：(1)传感器技术的进步、便携式智能设备和移动网络普及使得公众获取周边生态环境信息的能力日益增强,种类也日益多样。（2)公众科学项目的运用不仅能够扩大数据获取范围,也能加深公众对科学问题的认识和提高管理部门科学决策水平。（3)公众提供的数据种类,数据质量,以及公众激励机制，都是该模式持续和高质量运行时所要面临的挑战。（4)欧美一些“科研单位-公众机构-公民团体\"等纷纷联合起来形成公众科学协会,同时政府部门已制定了公众科学发展计划和法规,来规范和促进公众科学项目的应用。（5)我国相关研究和管理部门应建立统一协作平台,进一步引导公众科学参与和提高协作效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：公众科学；应用模式；公众参与；生态；环境",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "公众科学(Citizen Science)是一种借助大量科学爱好者或志愿者参与科学研究中的数据采集、分析、应用等相关科研活动的科研方式[1]。公众参与不仅可以扩大数据来源、提高数据处理效率、降低成本[2],同时也能够培养公众的科学素养,加深公众对科学问题的认识,推动环境管理的持续发展[3]。公众科学这一模式已有较长的历史,2010年来随着移动物联网和便携式智能设备(如智能手机)的普及,这一模式在各领域得到了迅速的发展,如借助公众的参与来对鸟类[4,5]、人侵物种[6]、河湖水质[7,8]、噪声污染[9]、空气质量[10-1],进行调查,利用公众电脑空闲的计算资源来进行净水材料性能的模拟计算[12]等。在Web of Science 中以“CitizenScience\"作为关键词对相关文献进行分析发现,2006年以前每年文章不足10篇,2010年之后速度迅速增加，截至2017年10 月底共有1850 篇相关文献,这些文献在国家和地区分布中以美国( $4 6 . 7 6 \\%$ ）、英国 $2 2 . 0 5 \\%$ ）、澳大利亚 $( 8 . 6 0 \\% ) _ { \\cdot }$ 加拿大 $( 7 . 7 3 \\%$ ）、德国 $( 6 . 6 5 \\% )$ )位居前5,其中文章产出较多的机构有康内尔大学$( 3 . 6 2 \\% )$ 、剑桥大学 $( 2 . 7 0 \\%$ )、美国地质调查局 $( 2 . 2 2 \\% )$ )和加利福尼亚大学戴维斯分校( $( 2 . 0 5 \\% )$ 等，而根据Web of Science类别分类和研究方向的统计可以看出一半以上的研究主要集中在生态、环境、生物多样性保护这些领域(表1)。相比传统的生态环境研究和管理,公众科学这一模式在信息技术的帮助下得到了大量运用,为生态环境信息获取、生态环境管理、公众生态环境知识教育等提供了新的思路和技术手段。本文通过对近年来欧美公众科学在生态环境研究和管理中的典型案例进行介绍,分析其概念内涵,概括其项目的组成结构和应用模式,指出目前存在的挑战和趋势,期待为公众科学在我国生态环境研究和管理中的发展提供参考和借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a9c4f6d45203abb1bdb00afa6eaff278e9bc44bc1f8380153cb08001692b72e.jpg",
+        "table_caption": [
+            "表1公众科学文献在WebofScience类别和研究方向中前5名百分比",
+            "Table1Thepercentage of Citizen Science publications in the top5of categoriesand research areas in Web of Scie "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>排名 Rank</td><td>Web of Science类别 Web of Science categories</td><td></td><td>研究领域 Research areas</td></tr><tr><td>1</td><td>Ecology</td><td>25.03</td><td>Environmental Sciences Ecology</td></tr><tr><td>2</td><td>Environmental Sciences</td><td>19.14</td><td>Biodiversity Conservation</td></tr><tr><td>3</td><td>Biodiversity Conservation</td><td>15.57</td><td>Science Technology Other Topics</td></tr><tr><td>4</td><td>Multidisciplinary Sciences</td><td>8.00</td><td>Computer Science</td></tr><tr><td>5</td><td>Environmental Studies</td><td>4.70</td><td>Zoology</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1内涵与模式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1内涵 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "公众科学在各个领域有着广泛的应用。2015年欧盟公众科学协会（European Citizen Science Association,ECSA)给出了公众科学的十项原则[13],并通过英、中、德等26种语言对其进行发布。这十项原则对参与公众的角色定位及参与阶段，公众科学项目区别传统科研项目的价值特征（如主体的同时收益和推动科学民主进程），公众科学项目的评估内容（数据质量，参与规模和社会政策影响），公众科学项目知识产权的发布方式（如反馈给公众，开放平台公布和公众的署名权益)进行了描述。近年来也涌现出了一些理念相似但描述角度不同的名词，如社群调查（Community-based",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a379c2f8512a2452e6452fe310f21a28b512f05eef6d37e10b320e90ea88e205.jpg",
+        "img_caption": [
+            "图1公众科学项目组成",
+            "Fig.1The composition of Citizen Science project "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Research）[14],参与式感知（Participatory Sensing）[15],众包（Crowdsourcing）[16]等。不同领域的学者在综合各类型公众科学案例后,尝试用一些固定的术语对其内涵进行准确的描述,但发现难以做到[17]。图1展示了一个完整的公众科学项目结构,包括公众或社团,科学家,政府部门,数据采集分析工具或设备,数据中心和互联网络六大部分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "公众和社团的加入是公众科学项目区别传统科研方式的重要特征，奥杜邦（Audubon）协会有近500个分会分布在美国所有的州,康奈尔鸟类实验室拥有数以百万计的鸟类观察者。科学家常常是公众科学项目的制定者和管理者，负责项目的执行方式和发展方向,后期数据分析处理。康奈尔鸟类实验室有超过300名的科研工作者,担负着公众提供的成百上千的有关鸟类的图像视频等数据的处理和分析[18]。政府部门多作为政策支持或执行者出现,并不是必须组成部分。测量工具、传感器、开源电子、消费电子（如数码相机和智能手机等)这些是公众在项目参与中记录数据的主要工具,随着技术的不断进步,这些工具正在快速的发生变化，同时这些信息技术的运用和科学任务的设计是项目科学产出的关键[19]。数据中心是项目数据存储、成果对外展示的集中地,随着云计算技术的发展,不同地区的数据更容易被集中存储。互联网是公众科学项目各部分相互联系的重要纽带,移动互联网的普及也使得各个部分的联系更加紧密和畅通。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2模式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Shirk 等人根据公众参与程度将公众参与科学的模式分为合约型(公众不参与,但邀请科学家主导项目并报告结果）、贡献型(科研人员主导,公众主要贡献数据）、协作型(科研人员主导,公众参与项目设计、数据分",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "析、结果传播）、共创型(科研人员主导,至少部分公众全程参与项目的各方面)和学院型(完全公众主导,并且成为科研人员同僚)5类[20]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 贡献型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "贡献型是指公众通过研究人员事先设计好的研究内容，来完成数据或信息的采集贡献。公众提供的大量数据能为相关科学研究和管理起到重要的作用,而且研究发现这些参与方法在经过严格的设计后,由参与者提供的数据和专家提供的数据具有相同的质量[21,22]。如奥杜邦协会依靠其1900 年发起的圣诞节数鸟活动的数据,发现在美国和加拿大南部常见的20 种鸟类在过去40 年内减少了 $5 0 \\%$ 以上[23],同时也利用其积累的数据,界定重要鸟类保护区范围,每年发布病危物种调查报告,研究气候变化对动物生境的影响。康奈尔大学根据自愿者提供的数据开发了物种空间分布模型,对物种和生境之间的关系提供了更加深刻的认识[24]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当搭载Android,IOS等操作系统的智能手机在2010年逐渐普及开来后，科研人员借助其带有的传感单元（如摄像头、GPS芯片、传声器、测温元器件等)在应用软件的帮助下来获取或处理周边生态环境信息,如能见度测量[10]、噪声测量[25-7]、物种观察[28],这些应用都极大的改善了数据获取和处理的效率[29]，扩展了生态环境数据获取的时空范围。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "而低成本传感器的应用以及开源电子的普及,就更进一步扩展了公众获取周边信息的种类,传感器在开源电子的配合下,使得公众有能力快速地搭建应用电路形成数据采集单元,同时也可以借助智能手机平台强大的数据处理和网络通讯能力形成便携的数据采集传输前端。这种方式的应用使得过去只有在专业人士和仪器的帮助下才能够获取的信息，如今公众依靠自身就能够完成。如伯克利大学共同感知项目开发的便携式空气质量监测硬件设备[30],麻省理工学院哥本哈根车轮项目将日常生活中的自行车变为城市空气质量流动监测平台[31],荷兰莱顿大学的iSPEX-EU项目通过在智能手机相机上增加低成本光谱仪来测量大气气溶胶[1]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 协作型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "协作型与贡献型相比增加了数据分析和处理的要求,而这些分析和处理的过程是需要用户来交互才能完成的,因此要求公众对相关问题具有一定的认知水平,并以分类问题常见。如康奈尔大学基于Web2.0 技术研制的鸟类在线分类系统,能够通过互联网络将需要分类的图片分配给公众,公众根据分类规则结合自己的认知能力来完成分类[32],再如 Zooniverse在线分类网站,该站点上运行着有关自然、气候、天文、人类等各类型项目,项目通过设计一些在线的简单的问题,让不具备相关专业知识的广大公众参与进来对其相关的图片、音频、视频、历史记录等进行分类,帮助科研人员进行模式识别,从而加速研究效率,降低数据处理成本。在协作过程中为了保障项目的协作效率,并加强规范,英国生态和水文中心联合英国其他单位推出了公众科学项目指南,详细介绍了公众科学项目的选择必要性,运作流程和评估方法等[33,34]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 共创型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "共创型主要侧重公众和研究人员以及政府部门间的不断地合作交流来解决问题,这种类型项目需要公众更进一步发挥自己的主观能动性,同时项目的产出更多的是侧重公众科学素养的提高,以及政府相关政策的改善,解决的问题也往往是当地居民最关注的问题。如英国伦敦大学学院 Extreme Citizen Science（ExCiteS）研究组和刚果布拉柴维尔土著居民进行合作,来共同解决如盗伐木材的问题,在和当地居民合作过程中把当地居民的意愿和诉求摆在第一位,通过反复的交流沟通来让参与者充分了解项目的目的和自己的权益,同时也让参与者根据自己的能力和意愿提供认为需要收集的重要信息[3]。为让公众在欧洲更深人地参与科学技术而建立制度和政策基础,欧盟“地平线 2020研究和创新计划”设立了为期3年的 DITOs（Doing It TogetherScience)项目。该项目联合了欧盟公众科学协会,一些中小企业,大学（伦敦大学学院,巴黎笛卡尔大学,日内瓦大学),科学美术馆,博物馆和一些非政府组织。在项目运行中不同的组织根据自身工作优势定期组织一些具有深入参与度的活动,如让公众和科研人员或当地政府面对面的交流,自己动手操作生物实验,用众包类软件记录空气质量等,来提高公众参与科学和创新的程度,同时欧盟也会根据项目反馈的简报来评估公众参",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与科学和创新的水平以及存在的问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2挑战与趋势 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 挑战",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 数据质量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "鉴于公众科学这一模式的很多数据都来源于普通公众，不同的公众以自己的认知水平、时间和动机去收集和分析数据(如物种归类),这使得这些数据的质量饱受专业科学人员的诟病，一些专业的科学人员认为公众科学数据的代表性差，噪声大,使得科研人员难以发现核心问题[36]。 C）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在一些运用微型传感器的公众科学项目中,为了更加切合实际地评估这些微型传感器在公众科学项目中的应用情况,欧盟一些研究机构从传感器对污染源定位、污染级别粗略响应、高时间分辨率以及可靠性方面制定了不同于实验室的评估方案来进行评估,并在欧洲8个城市部署了25套装置进行数据采集和分析,研究认为该方案能够用于判断和比较该类型传感器的应用情况[37]。美国一些研究人员研究发现一个由公众科学家在4个不同城市中借助低成本电化学传感器测量的臭氧浓度和参考站点具有很好的相关性,但二氧化氮传感器相关性较差[38],而类似的研究也显示臭氧传感器在合适的校正和质量控制下能够被用于空气污染的测量[39]。尽管我们看到可以借助传感器来增强数据的质量,但是一方面由于成本和公众实际需求,消费电子制造厂商缺乏利益驱动力来集成该类型传感器并推广普及,另一方面诸如半导体或电化学类型的传感器容易收到外界环境的干扰(如温湿度)使得传感器需要进行定期校准,这种类型的传感器寿命也远不及专业生态环境测量仪器,因此面对种类丰富多样的环境信息，目前想采用便携式传感器依靠公众对特定的环境要素进行大规模的采集还存在困难。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "尽管人们意识到提高数据质量很重要,但公众很难满足严格的科学研究标准,因此一味的追求公众的数据质量也显得不求实际，为此公众提供的数据种类，以及为该类型数据制定新的分析和评估方法显得更加有意义。近年来深度学习技术的发展,机器对分类问题的处理水平(如图片识别)逐渐高于人类,让我们看到了非结构化数据的处理效率,为图片、文本这类内容丰富的数据提供了高效的技术手段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 激励机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相比数据质量带来的质疑,激励机制的完善则是一个更大的挑战,它直接影响着该类型项目是否可持续，结果是否公证。生态环境资源的公共属性特征,以及缺乏合适的商业模式导致公众难以持续地参与。如何激励公众不断地参与,提高公众的参与面和参与程度,权衡科学家和参与公众的兴趣[40]，一直以来都是学者和机构关注的重点,常常从技术方法和管理机制两方面进行改进。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在技术方法方面,如通过网络技术方便参与流程和及时反馈公众参与结果,让公众不仅是数据的贡献者也是数据受益者,从而改善用户体验;增加保护参与者隐私的技术方法[41],增强公众参与的安全心理;将复杂的生物科学研究转变成网络在线游戏（如Foldit，Phylo和EteRNA）[42],来提高公众参与粘性;采用动态定价技术鼓励公众将其感知数据卖给服务提供商,从而在不同时间和空间上维持一定水平的公众参与量[43]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在管理机制方面,如奥杜邦协会的圣诞节鸟类统计（Christmas Bird Count）以及美国地质调查局联合加拿大野生动物局共同发起的北美繁殖鸟类调查（American Breeding Bird Survey）每年都定期组织爱好者参与进来;如美国奥杜邦协会每年定期发布一些制作精美的付费杂志《Audubon Magazine》来介绍青少年,家庭以及自然爱好者在生态保护方面的故事,不仅通过可以对外宣传其工作成果来激励大家参与,也能为协会创造收入。同时奥杜邦协会也不断优化其经费来源结构（个人、公司和基金会2014年至2016 年约占 $7 5 \\%$ ,投资回报约占 $20 \\%$ )保障协会持续经营,并每年公布其财务执行情况,接受公众监督。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2趋势 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 多种模式并存",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着公众科学的应用层次不断地被拓展,其应用模式也在不断地变化和交织,如在贡献型项目中,研究者和公众认为公众不能仅仅是“付出者”，他们也应该是受益者,同时公众中也不乏一些具有较高专业水平的人员,如“极客”，“业余科学家”等,他们也能够协作,甚至和专业科研人员一起来进行知识共创。在公众科学项目中贡献型、协作型和共创型有着不同的应用场景和技术背景,各种模式都有着自己的优势,在面对项目的组合需求时,常常也组合运用起到互相补充完善的效果，难以完全分割开来。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 从分散到整合",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了进一步推动公众科学的研究发展,欧盟,美国,澳大利亚纷纷联合国内外相关单位成立联合协会[44]。如美国公众科学协会（Citizen Science Asciation，CSA）,自 2012年后逐渐巩固成为了一个正式的组织，目前已有来自80个国家的超过4000 名的会员,该协会联合了如康奈尔鸟类实验室、地球数据观察网、美国国家公园管理局、美国自然历史博物馆生物多样性和保护中心等单位来支持和分享公众科学的实践和经验,前后组织了1000个以上的项目。欧盟在 2013年6月正式成立的欧盟公众科学协会在欧盟层面上协调各个公众科学的项目,目前已经吸引了包括欧盟28个成员国在内的200多名个人和组织的参与，该协会定期举办会议来分享公众科学在实践方面的各种经验。澳大利亚在 2014年6月成立的澳大利亚公众科学协会（AustralianCitizen Science Association，ACSA)联合澳大利亚博物馆、澳大利亚在线生物地图等单位来共同推动公众科学的发展。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 从公众到政府",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "公众科学起初主要是由科研人员的科学任务需要和公众的参与兴趣来推动其应用发展的,但新技术的出现使得其应用种类日益多样,程度也逐渐深入,逐渐引起了政府部门的注意，一些有关如何引导公众科学发展的政策报告逐渐出台,从国家政策层面进一步推动着公众科学的发展。如 2013年底欧盟委员会环境总署（Environment Directorate General of the European Commisson）发布了公众科学在环境方面的深度报告,报告认为公众科学具有巨大的潜力,特别是在公众和政策制定者之间还有很多没有利用的空间,并且应注意新技术的发展是否遗漏了一些有关公众科学更有价值的互动和讨论[45];2014年8月英国国会科技办公室（Parliamentary Office of Science and Technology）也对公众科学在环境方面的发展情况进行通报,报告概述了公众科学在生态环境领域的各类应用、优势和存在的挑战[46];2016年底美国环境政策与技术咨询委员会（National Advisory Council for Environmental Policyand Technology）正式给出了13条关于公众科学的行动建议,并建议美国环保署应采取措施来应对该领域的发展,报告指出美国环保署应加快公众科学能力的建设来进一步推动该机构应对环境保护和人类健康的使命[47],同年底美国众议院和参议院制定的“2016年众包和公民科学法案\"（Crowdsourcing and Citizen Science Act of 2016)进一步规范和促进了公众科学项目的发展[48]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结论及启示",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近十年以来公众科学在欧美生态环境研究和管理中得到了快速发展,出现了以贡献型、协作型和共创型为主的应用模式。在一系列新技术应用的背景下,公众获取周边生态环境信息的能力日益增强,种类也日益多样。公众科学项目的运用不仅加深了公众对问题的科学认识,也提高了政府科学管理决策的水平。公众提供的数据种类,数据质量，以及如何激励公众不断地参与生态环境研究和管理,都是该模式持续运行时所要面临的巨大挑战。而为了促进公众科学在相关领域得到更深人的应用和发展,欧美一些“科研单位-公众机构-公民团体\"等纷纷联合起来形成公众科学协会,同时在科学协会的建议下,政府部门也开始着手制定公众科学发展计划和法规,来共同畅通公众参与,更好的为科学管理服务。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近年来物联网技术在我国迅速发展,移动网络普及率不断提高，同时相关保障政策不断出台,如2015 年环境保护部出台的《环境保护公众参与办法》,2016年环境保护部联合中央宣传部等单位印发的《关于全国环境宣传教育工作纲要（2016—2020)》（其主要目标是到2020年构建全民参与环境保护社会行动体系,推动形成自上而下和自下而上相结合的社会共治局面)等,都为公众参与生态环境研究和管理提供了充足的技术和政策基础。同时目前我国也有一些应用案例正在积极地探索这一模式，如公众参与式城市声景观研究（http://ww.citi-sense.cn/pss.html）、中国植物分类（htp://www.cfh.ac.cn）、中国鸟类观察（http://www.cbw.org.cn）黑臭水体举报(htp://www.hcstzz.com/publicHC.aspx)等,都展现出了其巨大的应用潜力,但相比欧美我国公众与研究团体和管理部门之间的协作都尚浅。在目前技术和政策都越来越充足的基础上，应吸取国内外先进经验,建立符合我国国情的公众参与生态环境研究和管理的统一协作平台,畅通公众参与渠道,进一步提高参与效率,不仅能增强公众生态环境意识,更能缩小公众在生态环境问题认知方面的误区。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Silvertown J.A new dawn for citizen science.Trends in Ecology & Evolution,2009,24(9）:467-471.   \n[2] LevrelH，FontaineB,HenryPY，JiguetF，JullardR，KerbiriouC，CouvetD.Balancingstateandvolunteer investmentin monitoring fortheimplementationof CBD indicators；AFrench example.Ecological Economics,2010,69（7）：1580-1586.   \n[3]Schnoor JL. Citizen Science. Environmental Science & Techology，2007,41(17）： 5923-5923.   \n[4] Pardieck K.North American Breeding Bird Survey.（2001-10-31）2017-10-06].https://www.pwrc.usgs.gov/bbs/participate/.   \n[5] Audubon.Christmas Bird Count.[2017-11-06].htp://www.audubon.org/conservation/science/christmas-bird-count/.   \n[6] DelaneyDG,perlingCD,AdasC,LeungBarinasivespecies：validatioofitizensieceandiplicatiosfornatioal networks.Biological Invasions,2008,10(1）：117-128.   \n[7] Earthecho International.World water monitoring day.[2017-11-06].htp://www.worldwatermonitoringday.org/   \n[8]ZhengH,ongYongD,JingHMonitoingsurfacewaterqualtusingsolediainthecotetfiensience.HydrolndErt System Sciences，2017,21(2）:949-961.   \n[9]LiCM,WeiDVauseJ，LiuJ.wardsociealsaleviroentalsesingnetwkwithublicpartipatioInteatioalJoualf Sustainable Development & World Ecology，2013,20(3）：261-266.   \n[10]Poduri S,Nimkar A，Sukhatme G S. Visibility Monitoring using Mobile Phones.[2017-11-06]. http: citeseerx.ist.psu.edu/viewdoc/download? （20 $\\mathrm { d o i } = 1 0 . 1 . 1 . 1 7 3 . 4 6 4 7 \\& \\mathrm { e p } = \\mathrm { r e p } 1 \\& \\mathrm { y p e } = \\mathrm { p d f }$ （20   \n[11]SnikF,RietjensJHH,ApituleyA,VoltenH,MijlingB,NoiaAD,HeikampS,HeinsbroekRC,HasekampOP,SmitJM,VonkJ,StamD M,HartenG,BoerJ，KelerCU,3187iSEXitizensientistsapingatmospericerosolswithaitizeniencenetworkofato spectropolarimeters.Geophysical Research Letters，2014，41(20）:7351-7358.   \n[12]MaMD,ShenL，SheridanJ,LiuZJ，ChenC，ZhengQS.Fritionof waterslipingincarbonnanotubes.Physical ReviewE，01,83 (3):036316.   \n[13] ECSA.Ten Principlesof Citizen Science.[2017-10-06]. https://esa.citizen-science.net/documents.   \n[14] Conrad CC,Hilchey KG.Areview of citizen nceand community-based environmental monitoring：issues and opportunities. Environmental Monitoring and Assessment,2011,176(1) : 273-291.   \n[15]EstrinD,ChandyKM,YoungRM,Smarr,OdlyzkoA,CarkD,RedingV,IshidaT,SharmaS,CerfVG,HolleU,BarosLA,Mlian G,Hooke A，EllottC.Participatory sensing:aplicationsandarchitecture.IEEE Internet Computing，2O09,14(1）：12-42.   \n[16] BoulosMNK，ReschB，CrowleyDN.Crowdsourcing，citizensensingandsensorwebtechnologiesforpublicandenviromentalhealth surveillncedsisagtrds，saddsatioealsteaioalJoalfla，.   \n[17]EitzelMVCappdonaJL,LangCS,DerrRE,VirapongseA，WestSE,KybaCCM,BowserA,CoperCB,SforiA,MetcalfeAN, HarrisES,eHaianLoheJ,ccroniLllinFrD,F,essin,visB.i Science Terminology Matters:Exploring Key Terms.Citizen Science：Theory and Practice,2017,2(1):1-20.   \n[18]Fitzpatrick JW.A Message fromJonFitzpatrick.[2017--06].htp://www.birds.cornell.edu/page.aspx?pid=1736.   \n[19] WiginsA.Techdorkpractisinitinsie.Procedingoftheercancietyfatiiecandchol1 47(1) : 1-2.   \n[20] ShirkJL,BallrdHL,WildermanCC,PhillisT,WiginsA,JordanR,McCalieE,Minarche ,LewenstenBVKrasnyME,oyR. Public Participation in Scientific Research：a Framework for Deliberate Design.Ecologyand Society,2012,17（2):29.   \n[21 MayerA.PhenoldCitinSieceVountesavedumentedasoaleventfororeancturyndientficudisin from the data.BioScience，2010,60(3）:172-175.   \n[22] Rossiter DG,LiuJ,Carlisle S,ZhuA X.Cancitizen science asist digital soilmapping.Geoderma，2015,259-260:71-80.   \n[23] Bancroft GT.CitizenScientisMakeaDiferee：ConservatioPolicisDfiedbytheDataYouColet，ChristmasBirdCountWashington National Audubon Society. 2010.   \n[24]YuJ，WongWK，HutchinsonRA.ModelingExpertsandNovicesinCitizenScienceDataforSpeciesDistributionModelingEE0th International Conference on Data Mining. Sydney：IEEE.2010.   \n[25]MaisonneueN，StevensM,NiesenME，SteelsNiseube：MeasuringandmappngnoisepltionwithmobileponesIforatio Technologies in Environmental Engineering. 2009,215-228.   \n[26]KanjoE.NiseYAReal-TeobileonePatfoforUrbanoiseMoiorngandMapingobileetorksdApplcatios15 (4）:50∠-0/4.   \n27DHodEstaoeagoafrtaogid for environmental monitoring.Pervasive and Mobile Computing，2012,9(5）：681-694.   \n28]MorthitzLoBLdeseAiiOeaodoaoarkeplacfrndUsedndCoveng The First International ECSA Citizen Science Conference.Berlin.2017.   \n[29]SulvanBL,AycriggJL,BarryJH,BoeyRE,BrusN,CperCB,DmolasT,odtAA,DieterchT,FarsworhA,FinkD, FitzpatrickJW,FredericksT,GerbrachtJ,GomesC，HchackaW,iffJ,LagzeC,SorteFAL,Merfield,Mosls B,Reynolds M,RodewaldAD,RosenbergK V,TrautmannNM,WiginsA,WinklerDW,Wong WK,WoodCL,YuJ,KelingS.TeeBird enterprise：Anintegratedapproachtodevelopmentandapplicationofcitizenscience.Biological Conservation，2014，169：31-40.   \n[30]AOKIPM，HONICKYRJ，MAINWARINGA，MyersC,PaulosE.Common Sense：MobileEnvironmental Sensing PlatformstoSupport Community Action and Citizen Science.Ubicomp.Seoul,Korea.Ubicomp.20o8：59-60.   \n[3]OutraCatiCdenopeel：Aovatieeiesteseowrfafoion andcrowdsorcing2--hp:/seable.mitdupapers/df2OutraetalCopegelEcoloces.f   \n[32]KelingS，GerbrachtJ,FinkD,LagozeC,WongWK,uJ,DamoulasTGomesC.eBird;AHuman/ComputerLearigNetorktprve Biodiversity Conservation and Research.Ai Magazine，2013,34(1）：10-20.   \n33]TweddleJobsoLDokJyHE.Gudtisee：eveloinpleentindevaaigitsu biodiversityand theenvironment in the UK.Walingford,UK：NERC/Centre for Ecology & Hydrology.2012.   \n[34]PcockMJO,ChapanDS,ShepprdLJ,RoyHE.hosingandusingcitizenscience：agudetowenandhowtousecizensieceto monitor biodiversity and theenvironment.Walingford,UK：NERC/Centre for Ecology & Hydrology.2014.   \n[35]Stevens $\\mathrm { M }$ ，Vitos $\\mathrm { M }$ ，Altenbuchner J. Taking Participatory Citizen Science to Extremes.IEEE Pervasive Computing，2014,13(2）: 20-29.   \n[36] LukyanenkoRarsosJ，WiersaYEergingproblesofdataqualityinciienc.Coservationg16O）44.   \n[37]FishbainB,LerU,stell,er,olarodagueT,wejsetaovicJpalvic, L,Galea KS,EzionY,KizelF,GolumbicY,TsabariAB,YacobiT,DrahlerD,RobinsonJA,KocmanD,HorvatM,SvecovaV,rpaci A，BartonovaA.Anevaluation tolkitof airqualitymicro-sensingunits.ScienceoftheTotalEnvironment，2017,575:639-648.   \n[38]DuvallR,LngRWeaverMR,KroilrKG,WlerMSzyaJPerfoanceEvauatioandComunityAplatioofLow Cost Sensors for Ozone and Nitrogen Dioxide. Sensors，2016,16(10)：1698.   \n[39]MiskellG,Jaod，ilsDEowossdouddataObseatisofitigpactsoetokiaiy instruments. Science of the Total Environment，2017,575:1119-1129.   \n[40]DickisonJ,ShirkonterDoneR,ainR，MartiJhilis,urcellK.ecuentstatefitizensieefor ecological research and public engagement.Frontiers in Ecology and the Environment，2012，10(6)：291-297.   \n[41]DrosatGfrdisesdtE.racpreutatiofripaoesiho Journal of Systems and Software，2014,92：170-183.   \n[42] Curtis V.Onlinecitizensciencegames：Oportuitiesfrtebiologicalsiencs.Appled&ranslatioalGenomics，14,（4）：90-94.   \n[43] LeeJS,Hoh B.Dynamic pricing incentive for participatory sensing.Pervasiveand MobileComputing,2010,6(6）:693-708.   \n[44]Storksdiec M，ShirkJL,CappdonnaJL,DomroeseM，Gobel C,HaklayM,Miler-RushingAJ，RoetmanP,Sbrohi C,VohlandK. Associations forCitizen Science：Regional Knowledge，GlobalCollboration.CitizenScience：TheoryandPractice，2016,（2）：10.   \n[45]UWE.ScienceforEnviroentPolicyIndepthReport:EnviromentalCitizenScience.Bristol:UniversityoftheWestofEgland.01.   \n[46] WentworthJ.EroealCitnS.（4-8-）--1tp:/esearriefis.parliaentuk/ReseacBrefig/a POST-PN-476/ .   \n[47]NACEEioearteelostotbc,AVsifrCSecatE（--）21tp/epa. gov/faca/nacept-2016-report-environmental-protection-belongs-public-vision-citizen-science-epa/.   \n[48] TonkoP.CrosourcgdSeetf.（-）-1]ps://wcoeoi/4o bill/6414/text/. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

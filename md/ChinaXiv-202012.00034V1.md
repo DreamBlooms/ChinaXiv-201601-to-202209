@@ -1,0 +1,259 @@
+# 艾比湖荒漠植物物种多度分布格局的尺度效应
+
+坤杜孜·萨塔尔1.23，吕光辉1.,23，蒋腊梅1,23，王恒方1.23，王金龙1.2,3（1.新疆大学资源与环境科学学院,新疆 乌鲁木齐830046；2.新疆大学干旱生态环境研究所，新疆 乌鲁木齐830046；3.新疆大学绿洲生态教育部重点实验室,新疆 乌鲁木齐830046)
+
+摘要：以艾比湖流域荒漠生态系统为研究对象,选取 $1 \ \mathrm { h m } ^ { 2 }$ 荒漠植物群落样地,基于6个取样尺度( $\boldsymbol { 5 } \mathrm { m } \times \boldsymbol { 5 } \mathrm { m } , 1 0$ $\mathrm { m } { \times } 1 0 \mathrm { m } , 2 0 \mathrm { m } { \times } 2 0 \mathrm { m } , 2 5 \mathrm { m } { \times } 2 5 \mathrm { m } , 5 0 \mathrm { m } { \times } 5 0 \mathrm { m } , 1 0 0 \mathrm { m } { \times } 1 0 0 \mathrm { m } )$ ，利用不同的生态学模型拟合植物群落的分布格局，从而判定主导荒漠生态系统植物群落构建的主要生态学过程以及尺度效应对群落构建的影响。结果表明：（1）随着空间尺度的增加,群落中稀有种逐渐降低;常见种比例逐渐增加。（2）物种多度等级曲线显示,随尺度的增加物种丰富度增加,物种分布越均匀。（3）模型拟合结果表明,荒漠植物物种多度分布与中性模型和统计模型的预测结果一致，而生态位模型均未通过检验( $\scriptstyle \cdot - 0 . 0 5$ )。（4）随着尺度的增加物种丰富度指数和Shannon-Wiener指数随之增加;Simp-son指数和Pielou指数则呈现相反趋势。综上所述,虽然基于不同尺度下荒漠生态系统在群落组成上有明显的变化,但影响物种多度分布格局的生态学过程基本一致,同时可初步推断中性理论对荒漠植物群落物种多样性维持过程中显得更为重要。
+
+关键词：荒漠植物群落；物种多度分布；生态过程；尺度效应；中性过程；艾比湖流域
+
+生物多样性的形成和维持机理即群落构建机制一直是生态学讨论的热点1，而物种多度分布格局是群落结构的重要内容，是用来描述群落中所有物种从常见到稀有的个体数目，能够很好地反映群落构建的基本过程[2-3]。自20世纪30年代,物种多度分布作为种群生态学和群落生态学研究的起点，也一直是生态学的中心问题,研究植物的多度分布格局可以更好的了解群落内的物种组成和分布规律，对群落构建、生物多样性和生物地理学的发展提供理论依据[4-5]
+
+针对物种多度分布规律的研究，近年来，在研究方法如许多新模型应用等方面的内容得到不断补充，不同的拟合模型代表不同的生态学过程，种类多样化且应用十分广泛。目前，模型分为3种类型，即纯统计模型、中性理论模型、生态位模型。上述3类模型中，有研究发现，不同的植物群落多度格局适合的模型不尽相同。如在高水盐胁迫下的荒漠植物群落多度格局符合统计模型中的对数正态模型6；在对比分析常绿树种和落叶树种分布格局研究中，其最优拟合模型为中性理论模型；在不同利用方式下的草地物种多度分布的最佳模型为生态位模型中的断棍模型等[8]。同时，由于生态学过程具有一定的尺度依赖性，单一尺度的研究可能不满足于解决有关科学问题，因此，通过探讨不同尺度下的物种多度分布格局也成为近几年研究的热点。但探讨多度分布格局的研究主要集中于多样性较为丰富的森林、草原等生态系统[10-13],对于干旱荒漠区缺乏深人研究。
+
+干旱半干旱地区是全球陆地的重要组成部分，降水稀少、水资源缺乏，是全球气候变化最为敏感的地区[14],也是研究生物多样性的关键地区之一[15]。新疆艾比湖流域是典型的温带干旱荒漠区[16],本研究以艾比湖流域荒漠生态系统为研究对象，选取1$\mathrm { h m } ^ { 2 }$ 群落样地，基于 $5 \ \mathrm { m } { \times } 5 \ \mathrm { m } \times 1 0 \ \mathrm { m } { \times } 1 0 \ \mathrm { m } \cdot 2 0 \ \mathrm { m } { \times } 2 0$ $\mathrm { m } . 2 5 \ \mathrm { m } { \times } 2 5 \ \mathrm { m } . 5 0 \ \mathrm { m } { \times } 5 0 \ \mathrm { m }$ 和 $1 0 0 \mathrm { m } { \times } 1 0 0 \mathrm { m }$ 的空间尺度，运用多度分布直方图和物种多度等级曲线对比分析不同空间尺度下的物种多度分布差异，再利用6种常用模型将实际调查群落与理论模型进行拟合比较，探讨基于不同尺度下的物种多度格局是受随机的中性过程还是受非随机的生态位过程的影响，为研究典型荒漠植物群落多度格局提供科学依据，对干旱区植物群落构建提供理论参考。
+
+# 1研究区概况
+
+艾比湖湿地国家级自然保护区 $( 4 4 ^ { \circ } 3 1 ^ { \prime } \sim 4 5 ^ { \circ } 0 9 ^ { \prime } \mathrm { N }$ $8 2 ^ { \circ } 3 3 ^ { \prime } \sim 8 3 ^ { \circ } 5 3 ^ { \prime } \mathrm { E }$ )位于我国西北边陲，地处大西洋西风气流的主要通道一一阿拉山口。艾比湖流域平均海拔 $1 8 9 \mathrm { ~ m ~ }$ ,降水量夏多冬少，年内分配不均，年平均降水量 $1 0 0 ~ \mathrm { { m m } }$ 左右，年平均蒸发量 $1 6 0 0 ~ \mathrm { m m }$ 以上，气候属于中温带大陆性干旱气候,1月平均气温 $- 1 6 ~ \mathrm { { ^ circ C } }$ ,极端最低气温 $- 3 6 ~ \mathrm { { ^ circ C } } ; 7$ 月平均气温$2 7 \ \mathrm { { ^ circ C } }$ ,极端最高气温 $4 4 \ { } ^ { \circ } \mathrm { C } ^ { [ 1 7 - 1 8 ] }$ 。保护区集荒漠与湿地为一体，有丰富的地貌景观和生物多样性资源，其植物种类包括梭梭（Haloxylon ammodendron）、胡杨（Populus euphratica）芦苇（Phragmites australis）、白刺（Nitraria tangutorum）、甘草（Glycyrrhiza uralensis）、黑果枸杞(Lyciumrutheuicum）小獐毛（Aeluro-puspungens）、盐穗木（Halostachyscaspica）、盐节木（Halocnemum strobilaceum）、怪柳（Tamarix chinen-sis）碱蓬(Suaeda pterautha）盐爪爪(Kalidium folia-tum）琵琶柴(Reaumuria soongorica)和花花柴(Hali-modendronhalodendron)等。该区域土壤类型除了有灰漠土、灰棕漠土和风沙土等地带性土壤,还有盐土、草甸土和沼泽土等隐域性土壤[19-20]。
+
+# 2研究方法
+
+# 2.1样地的设置与调查
+
+在艾比湖流域湿地自然保护区内，垂直于东大桥管护站附近阿其克苏河以北荒漠河岸林，选择1个 $1 \mathrm { h m } ^ { 2 } ( 1 0 0 \mathrm { m } { \times } 1 0 0 \mathrm { m } )$ 的植被群落样地(图1)。将选取的大样地划分成4个 $5 0 \mathrm { m } { \times } 5 0 \mathrm { m } \ 、 1 6$ 个 $2 5 \mathrm { m } \times 2 5$ $\mathbf { m } , 2 5$ 个 $2 0 \mathrm { m } { \times } 2 0 \mathrm { m } \cdot 1 0 0$ 个 $1 0 \mathrm { m } { \times } 1 0 \mathrm { m } \cdot 4 0 0$ 个 $5 \mathrm { m } { \times } 5$ $\mathrm { ~ m ~ }$ 的连续样方单元，对大样方中所有 $5 \mathrm { m } { \times } 5 \mathrm { m }$ 的样方单元进行群落调查工作，记录乔木、灌木植物的种名和多度，草本植物在 $5 \mathrm { m } { \times } 5 \mathrm { m }$ 里小样方里以对角线法取3个 $1 \ \mathrm { m } { \times } 1 \ \mathrm { m }$ 的小样方单元记录其种名、多度。
+
+# 2.2物种多度的表示
+
+物种多度数据来自于群落调查中记录的每个物种出现的个体数。为了直观又清楚的观察到群落内物种多度分布的情况，选择直方图法(histogramplot)和多度等级分布(rankabundance distribu-tion,RAD)表示。使用直方图法表示物种多度分布时，将横轴表示的物种的个体数进行分组，即按照物种多度分别为1-4,4-16,16-64,,合并相邻多度区间，再进行分组。多度等级曲线中横轴表示物种等级，即群落中所有物种的多度从高到低进行排序，纵轴则表示相应物种等级的物种个体数。
+
+![](images/24fe707e6197c9a2c46ffc89daa3abdbfab9ed80d7132e096a9a82f6b1b0b350.jpg)  
+图1研究区示意图  
+Fig.1Schematic diagram in the study area
+
+# 2.3模型的选取
+
+选取6种广泛接受和普遍使用的多度模型进行物种多度格局的研究，其中有2个纯统计模型（对数正态模型、对数级数模型）、2个中性理论模型(复合群落零和多项式模型、Volkov模型)以及2个生态位模型(生态位优先占领模型、断棍模型)。各模型简介如下：
+
+# 2.3.1 纯统计模型
+
+（1）对数正态模型
+
+对数正态模型由Preston[21]在1948年首次提出并应用到生态学中物种多度分布的研究。根据该模型，群落内物种个体数的对数符合对数正态分布，若将第i个物种的多度记为 $\mathrm { A } _ { \mathrm { i } }$ ,则公式为：
+
+$$
+A _ { i } = \mathrm { e } ^ { \log \left( \mu \right) + \log \left( \delta \right) ^ { \Phi } } , i = 1 , 2 , 3 , \cdots , S
+$$
+
+式中： $\mu$ 表示正态分布的均值； $\delta$ 是方差； $\phi$ 为正态偏差。
+
+# （2）对数级数模型
+
+由Fisher等[22-23]提出，该模型通过数学的方法描述群落中物种数与个体数之间的关系，但是排除没有个体存在的种，此模型也被认为在众多理论分布模型中应用效果较好的分布模型[24]，其公式如下：
+
+$$
+S ( n ) = \alpha { \frac { X ^ { n } } { n } }
+$$
+
+式中： $n$ 是多度； $s$ 为物种数; $\alpha$ 和 $X$ 都是常数, $\alpha$ 可作为多样性指数，类似于物种丰富度的概念[7.25],其值大于0;通常 $X$ 满足 $0 { < } X { \leqslant } 1$ ，并且与群落的大小有关。
+
+# 2.3.2中性理论模型
+
+（1）复合群落零和多项式模型
+
+该模型认为任意样点的物种多度分布是由中性复合群落的随机漂变作用产生的[2],模型中包含了取样点物种个体数 $( J )$ 和基本多样性指数(funda-mental biodiversity number, $\theta$ )等2种参数，因此，复合群落中某一取样点内多度为 $n$ 的物种数 $s$ ，通过公式表示，即：
+
+$$
+S { \bigl ( } n { \bigr ) } = { \frac { \theta } { n } } { \int _ { 0 } ^ { J } } f _ { n , i } { \bigl ( } y { \bigr ) } ( 1 - { \frac { y } { J } } ) ^ { \theta - 1 } d y
+$$
+
+$$
+f _ { n , \delta } \bigl ( y \bigr ) = \frac { 1 } { \Gamma ( n ) \delta ^ { n } } \mathrm { e x p } ( - \frac { y } { \delta } ) y ^ { n - 1 }
+$$
+
+$$
+\Gamma ( n ) = \int _ { 0 } ^ { \infty } t ^ { n - 1 } \mathrm { e } ^ { - t } \mathrm { d } t
+$$
+
+式中：0表示基本多样性指数； $J$ 为群落总的物种多度； $y$ 为某个物种的多度； $\Gamma ( n )$ 是Gamma分布，它表示 $s$ 个物种出现时所需的多度 $n$ 的分布； $\mathbf { \chi } _ { t }$ 是某个物种含有 $n$ 个个体的时间。
+
+(2）Volkov模型
+
+Volkov模型是在复合群落零和多项式模型的基础上所提出的，该模型多了1个参数即迁移系数 $\mathbf { \Omega } _ { m }$ ，并认为物种从复合群落到局域群落的迁移系数是保持不变的[27-28],其公式为：
+
+$$
+\begin{array} { l } { { S ( n ) = \theta \displaystyle \frac { J ! } { n \left( J - n \right) ! } \frac { \Gamma ( \gamma ) } { \Gamma \left( J + \gamma \right) } } } \\ { { \displaystyle \int _ { 0 } ^ { \gamma } \displaystyle \frac { \Gamma ( n + \gamma ) } { \Gamma ( 1 + \gamma ) } \frac { \Gamma ( J - n + \gamma - \gamma ) } { \Gamma ( \gamma - \gamma ) } \mathrm { e x p } \Biggl ( - \displaystyle \frac { y ^ { \theta } } { \gamma } \Biggr ) \mathrm { d } y } } \end{array}
+$$
+
+$$
+\gamma = \frac { m ( J - 1 ) } { 1 - m }
+$$
+
+式中： $n$ 为某物种的多度； $m$ 为迁移率； $\theta$ 表示基本多样性指数； $J$ 是群落总的物种多度； $\gamma$ 表示迁移到局域群落内的个体数。
+
+# 2.3.3生态位模型
+
+（1）生态位优先占领模型
+
+该模型又称作几何级数模型，它假设群落内第1个物种占据整个生态位的 $k$ ,第2个物种占剩余生态位的 $k$ ,即 $k ( 1 - k )$ ,同样地，直到剩余资源不足以维持1个物种的生存为止[29]，因此公式可表示为：
+
+$$
+A _ { i } = A _ { 1 } \left( 1 - k \right) ^ { i - 1 } , i = 1 , 2 , 3 , \cdots , S
+$$
+
+式中： $A _ { i }$ 表示第 $i$ 个物种的多度； $A _ { 1 }$ 表示模型预测的最优势种的多度。
+
+# (2）断棍模型
+
+断棍模型是一种资源分配模型，将总资源看作是等于1的短棍,随机在棍上设S-1个点，并将其分割成 $s$ 段，则总资源被 $s$ 个物种所利用，因此又被称为分割线段模型或随机生态位假说。该模型认为这 $s$ 个物种在分类地位和竞争能力上是彼此接近的，且在群落中同时出现[30-31],若群落内物种的个体总数为 $J$ ，则第 $i$ 个物种的多度 $A _ { i }$ 为：
+
+$$
+A _ { i } = \frac { J } { S } { \sum _ { x = i } ^ { s } } \frac { 1 } { x } , i = 1 , 2 , 3 , ... , S
+$$
+
+式中：i表示调查的第 $i$ 个物种； $s$ 为调查的物种总数。
+
+# 2.4模型的检验
+
+基于Bootsrap 模拟方法的Kolmogorov-Smirnov检验(K-S检验），该检验方法是以累积分布函数为基础的，是比较频率分布与理论分布或者2个观测值分布的检验方法，并且检验这2种分布是否有明显差异，抽样1000次。当 $P { > } 0 . 0 5$ 时，表明模型通过
+
+检验，且是被接受的。
+
+同时，通过应用较为广泛的赤池信息准则(akaikeinformationcriterion,AIC）来比较模型拟合效果。AIC值越小，表示模型拟合得越好。
+
+# 2.5数据处理
+
+数据的前期整理通过Excel2013完成。物种多度分布图、物种多度等级曲线以及模型拟合使用R(3.6.0)的sads包完成；物种多样性指数的计算是通过R(3.6.0)的vegan包完成;基于Bootsrap的K-S检验利用R(3.6.0)的Matching包完成。其中物种多样性指数的计算公式如下[6]：
+
+物种丰富度指数：
+
+$$
+S _ { P } = S
+$$
+
+Shannon-Wiener多样性指数：
+
+$$
+H ^ { \prime } { = } - \sum P _ { i } \mathrm { l n } P _ { i }
+$$
+
+Pielou均匀度指数：
+
+$$
+J { = } \frac { H ^ { ' } } { \ln S }
+$$
+
+Simpson优势度指数：
+
+$$
+D = 1 - \sum { P _ { i } ^ { 2 } }
+$$
+
+式中： $s$ 表示物种数； ${ \boldsymbol { P } } _ { i }$ 表示第 $i$ 个物种的多度占总多度的比例。
+
+# 3 结果与分析
+
+# 3.1不同尺度下的物种多度分布格局
+
+由图2可知，稀有种(图中所示的物种多度为 $1 \sim$
+
+4的物种)在整个群落中占据了很大的比例，且稀有种的数目随尺度的增加而降低，然而常见种在不同空间尺度上也有明显的变化。对于小尺度而言，物种多度分布表明，单个个体的种最多，随着空间尺度的增加常见种的数目也逐渐增多。
+
+$1 \mathrm { { h m } } ^ { 2 }$ 荒漠植物群落样地，不同尺度下的物种多度等级曲线(图3)呈现出相同的趋势，但是相对于每一个尺度，物种丰富度是不断变化的。在小尺度上 $5 \ \mathrm { m } { \times } 5 \ \mathrm { m } , 1 0 \ \mathrm { m } { \times } 1 0 \ \mathrm { m } )$ ，曲线在横轴上跨越的范围小，说明物种丰富度小,然而随着尺度的增加，曲线跨越范围逐渐变大，在较大尺度上( $2 0 ~ \mathrm { m } { \times } 2 0 ~ \mathrm { m }$ $2 5 \mathrm { m } { \times } 2 5 \mathrm { m } , 5 0 \mathrm { m } { \times } 5 0 \mathrm { m } , 1 0 0 \mathrm { m } { \times } 1 0 0 \mathrm { m } )$ ,物种丰富度变高;曲线的平缓程度反映物种分布的均匀度，随着尺度的增加曲线越平缓，说明物种分布越均匀。
+
+# 3.2物种多度分布格局曲线拟合
+
+选择6种模型对样地不同尺度下的群落进行拟合，并分析其模型的拟合效果。由K-S检验结果得出，2个生态位模型（即生态位优先占领模型和断棍模型， $P { < } 0 . 0 5 )$ 在6种尺度下未通过检验，其余4个模型在所有尺度上均被接受(表1)。另外，从表1中的AIC值判断，前4个模型在所有尺度下都具有较好的拟合效果，并且尺度越小，模型的拟合效果越好。
+
+在小尺度上( $\langle 5 \ : \mathrm { m } \times 5 \ : \mathrm { m }$ 和 $1 0 \mathrm { m } { \times } 1 0 \mathrm { m }$ )，对数级数模型的AIC值最小，分别55.37和77.92，其拟合效果最好。在 $2 0 ~ \mathrm { m } { \times } 2 0 ~ \mathrm { m }$ 和 $2 5 \mathrm { m } { \times } 2 5 \mathrm { m }$ 的尺度上，由AIC值判断6种模型的拟合优度排序为：对数级数模型>复合群落零和多项式模型>Volkov模型 $>$ 对数正态模型 $>$ 生态位优先占领模型 $>$ 断棍模型，其中生态位优先占领模型和断棍模型没有通过K-S检验，且被显著拒绝 $( P { < } 0 . 0 5 )$ )。在较大尺度上，即 $5 0 ~ \mathrm { m } { \times } 5 0 ~ \mathrm { m }$ 和 $1 0 0 \ \mathrm { m } { \times } 1 0 0 \ \mathrm { m }$ 时，同样的中性理论模型和统计模型的拟合效果较好，且AIC值差异小（最大的AIC差值为3.54)。总体而言，进一步结合图4中的拟合结果看出，统计模型和中性理论模型的拟合结果与实际调查群落的物种多度分布更加吻合。
+
+![](images/9bf25decd3196350920049a3597e9066ae9eec8fb94c178ec8985ec638193bf2.jpg)  
+图2不同空间尺度下的物种多度  
+Fig.2 Species abundance distribution at different scales
+
+![](images/bca714217c33ec8c8444f99d4c6637c3643fd4309dd92f9248ecb65c26d99232.jpg)  
+图3不同空间尺度下的物种多度等级  
+Fig.3Species rank-abundance curves at different scales
+
+从表2可以看出，不同尺度下物种个体数的差异明显，中性理论预测参数中2种中性理论模型的基本多样性指数和物种迁移率随着尺度的增加而下降。物种多样性指数中，随着尺度的增加物种丰富度指数和Shannon-Wiener指数随之增加,而 Simp-son指数和Pielou指数则呈相反变化趋势。
+
+# 4讨论
+
+物种多度分布直方图简单直观的描述群落物种的多度变化，表明植物群落中稀有种、中间种和常见种的相互差异，并且能够易于解释和理解群落的物种组成[9。本文中,随尺度变化,艾比湖流域植物群落物种多度有明显的变化趋势。相对于每1个物种，其多度随着尺度的增加而增加，导致基于不同尺度下的物种总多度逐渐增加(表2)。此外，物种多度组成在小尺度上表现为个体数较少的稀有种占多数，然而对于大尺度而言，常见种逐步增加，物种丰富度增加，且群落内大多数物种的多度较低，只有少数物种是常见种(图2和图3)。程佳佳等[31也得到了相同的结果,并认为这可能是随着尺度的增加物种间的竞争减弱，优势种利用较多资源，而其他物种的生态位降低，导致群落内物种个体数减少。
+
+物种的多度格局通常是用多度拟合曲线来描述和分析的，不同的模型通过不同的生态过程和机制拟合这种变化，因此，将多类模型综合应用，可以更好的解释不同植物群落的生态学意义[32]。同时，物种多样性格局随尺度的变化而变化，生态过程在不同尺度上的作用也不尽相同[33]。本研究中，6种多度模型的拟合结果表明，同一种模型在各取样尺度上都得到了相同的检验结果，其中中性理论模型和统计模型的拟合效果较好，且二者在各尺度上的拟合优度排序结果相似，而生态位模型的拟合在所有空间尺度上均未通过检验(表1,图4)。吴 ${ { \mathbb { W } } _ { \mathrm { } } } \mathrm { { u } }$ 等[34]对不同尺度下2个典型亚热带次生林物种多度分布研究中也发现，统计模型和中性理论模型在每个尺度上都有很好的拟合效果，然而生态位模型的拟合随着尺度的增加明显减弱，且被显著拒绝。这表明，虽然基于不同尺度，群落中稀有种和常见种所占比例即群落物种组成有差异，然而从物种多度分布方面来看，却没有明显的区别，从而也可推断，研究区植物群落物种分布在不同取样尺度下的生态学过程可能是相似的。
+
+表1不同尺度下模型的物种多度分布拟合检验  
+Tab.1 Goodness-of-fit test of models for the species-abundance distribution at different scales   
+
+<html><body><table><tr><td>尺度</td><td>模型</td><td>赤池信息准则(AIC)</td><td>K-S检验统计值(D)</td><td>P</td></tr><tr><td>5 m×5 m</td><td>Volkov模型</td><td>57.45</td><td>0.43</td><td>0.15</td></tr><tr><td></td><td>复合群落零和多项式模型</td><td>58.40</td><td>0.50</td><td>0.06</td></tr><tr><td></td><td>对数正态模型</td><td>60.13</td><td>0.36</td><td>0.33</td></tr><tr><td></td><td>对数级数模型</td><td>55.37</td><td>0.43</td><td>0.15</td></tr><tr><td></td><td>生态位优先占领模型</td><td>260.78</td><td>0.57</td><td><0.05</td></tr><tr><td></td><td>断棍模型</td><td>309.74</td><td>0.64</td><td><0.05</td></tr><tr><td>10 m×10 m</td><td>Volkov模型</td><td>79.84</td><td>0.36</td><td>0.33</td></tr><tr><td></td><td>复合群落零和多项式模型</td><td>79.95</td><td>0.43</td><td>0.15</td></tr><tr><td></td><td>对数正态模型</td><td>82.32</td><td>0.29</td><td>0.62</td></tr><tr><td></td><td>对数级数模型</td><td>77.92</td><td>0.36</td><td>0.33</td></tr><tr><td></td><td>生态位优先占领模型</td><td>564.71</td><td>0.64</td><td><0.05</td></tr><tr><td>20 m×20 m</td><td>断棍模型</td><td>1016.23</td><td>0.64</td><td><0.05</td></tr><tr><td></td><td>Volkov模型</td><td>108.78</td><td>0.29</td><td>0.62</td></tr><tr><td></td><td>复合群落零和多项式模型</td><td>107.97</td><td>0.36</td><td>0.33</td></tr><tr><td></td><td>对数正态模型</td><td>110.56</td><td>0.21</td><td>0.90</td></tr><tr><td></td><td>对数级数模型</td><td>106.98</td><td>0.29</td><td>0.62</td></tr><tr><td></td><td>生态位优先占领模型</td><td>1631.80</td><td>0.64</td><td><0.05</td></tr><tr><td></td><td>断棍模型</td><td>3857.06</td><td>0.64</td><td><0.05</td></tr><tr><td>25 m×25 m</td><td>Volkov模型</td><td>119.08</td><td>0.29</td><td>0.62</td></tr><tr><td></td><td>复合群落零和多项式模型</td><td>118.05</td><td>0.36</td><td>0.33</td></tr><tr><td></td><td>对数正态模型</td><td>120.84</td><td>0.14</td><td>1.00</td></tr><tr><td></td><td>对数级数模型</td><td>117.33</td><td>0.29</td><td>0.62</td></tr><tr><td></td><td>生态位优先占领模型</td><td>2439.16</td><td>0.64</td><td><0.05</td></tr><tr><td></td><td>断棍模型</td><td>5997.32</td><td>0.64</td><td><0.05</td></tr><tr><td>50 m×50 m</td><td>Volkov模型</td><td>158.21</td><td>0.29</td><td>0.62</td></tr><tr><td></td><td>复合群落零和多项式模型</td><td>157.32</td><td>0.29</td><td>0.62</td></tr><tr><td></td><td>对数正态模型</td><td>157.22</td><td>0.14</td><td>1.00</td></tr><tr><td></td><td>对数级数模型</td><td>157.27</td><td>0.21</td><td>0.90</td></tr><tr><td></td><td>生态位优先占领模型</td><td>9310.49</td><td>0.64</td><td><0.05</td></tr><tr><td>100 m×100 m</td><td>断棍模型 Volkov模型</td><td>23861.96</td><td>0.64</td><td><0.05</td></tr><tr><td></td><td></td><td>197.68</td><td>0.21</td><td>0.92</td></tr><tr><td></td><td>复合群落零和多项式模型</td><td>198.29</td><td>0.29</td><td>0.62</td></tr><tr><td></td><td>对数正态模型</td><td>195.10</td><td>0.14</td><td>1.00</td></tr><tr><td></td><td>对数级数模型</td><td>198.65</td><td>0.21</td><td>0.90</td></tr><tr><td></td><td>生态位优先占领模型</td><td>36774.80</td><td>0.64</td><td><0.05</td></tr><tr><td></td><td>断棍模型</td><td>95328.27</td><td>0.64</td><td><0.05</td></tr></table></body></html>
+
+模型拟合结果显示，统计模型和中性模型能很好地解释该群落的多度分布，且在6种尺度下这2类模型的AIC值差异极小，然而进一步从拟合优度排序上可以看出，中性理论模型拟合效果相对更好。很多研究中发现，统计模型中的对数级数模型被认为是复合群落零和多项式模型（中性理论模型)的1个特例，二者的拟合效果是相似的，且纯统计模型描述的是物种多度格局及其数量间的关系[34],相比之下中性模型更易于解释群落多度分布的维持机制，因此，可认为中性过程对该植物群落结构的影响可能更大，成为维持物种多度分布的主要机制。相关结果表明，环境差异显著的区域主导物种多度分布的生态学过程均为中性过程[19],尺度的变化在某种程度上也可算作是一种环境的变异。本文发现中性过程主导了不同尺度下物种多度格局的分布，与其结果较为吻合。
+
+![](images/dd4fdcb0f0e7ae9c336440d6a4899d127e9daa722cdce373acb236947997231a.jpg)  
+图4不同空间尺度下物种多度分布模型拟合结果  
+Fig.4Fitting results of species abundance distribution model at different spatial scales
+
+表2不同尺度下的中性理论预测参数及物种多样性指数  
+Tab.2Predicted parameters of neutral theory and species diversity indices at different spatial scaler   
+
+<html><body><table><tr><td rowspan="3">尺度</td><td colspan="6">中性理论参数</td><td colspan="4"></td></tr><tr><td colspan="4">Volkov模型</td><td>复合群落零和 多项式模型</td><td colspan="4">物种多样性指数</td></tr><tr><td>物种数 (S</td><td>个体数 (M)</td><td>基本多样性 指数(0)</td><td>迁移率 (m)</td><td>基本多样性 指数(0)</td><td>Species richness (S)</td><td>Shannon-Wiener index (H)</td><td>Simpson index(D)</td><td>Pielou index (E)</td></tr><tr><td>5 m×5 m</td><td>14</td><td>89</td><td>4.45</td><td>1.00</td><td>2.41</td><td>2.95</td><td>0.41</td><td>0.22</td><td>0.37</td></tr><tr><td>10 m×10 m</td><td>14</td><td>323</td><td>2.74</td><td>1.00</td><td>1.45</td><td>4.88</td><td>0.42</td><td>0.19</td><td>0.27</td></tr><tr><td>20 m×20 m</td><td>14</td><td>1259</td><td>1.80</td><td>1.00</td><td>1.14</td><td>7.48</td><td>0.41</td><td>0.17</td><td>0.21</td></tr><tr><td>25 m×25 m</td><td>14</td><td>1963</td><td>1.58</td><td>1.00</td><td>1.09</td><td>8.38</td><td>0.44</td><td>0.18</td><td>0.21</td></tr><tr><td>50 m×50 m</td><td>14</td><td>7831</td><td>1.22</td><td>0.37</td><td>1.00</td><td>10.75</td><td>0.43</td><td>0.17</td><td>0.18</td></tr><tr><td>100 m×100 m</td><td>14</td><td>31306</td><td>1.07</td><td>0.08</td><td>1.00</td><td>14.00</td><td>0.43</td><td>0.16</td><td>0.16</td></tr></table></body></html>
+
+此外，物种多样性指数是衡量群落内物种分布的数量和均匀度的指标，许多模型和分析研究都揭示了随着多样性指数的增加，中性理论在群落中起着越来越重要的作用[35-37]。本研究中随着取样尺度的逐步增大，物种丰富度指数和Shannon-Wiener指数随之增加，物种迁移率有下降的趋势，但在小尺度上迁移率没有发生变化(表2)，说明随着尺度的增大，中性过程发挥着重要的作用，由此可以解释中性理论模型对该地区的物种多度分布的拟合效果是最佳的。同时，多样性指数的增加，另一方面是因为，当尺度较小时，空间内所能包含的样本量是有限的，随着采样面积的逐步扩增，样本量增多，同时空间异质性增大，导致群落的多样性增大[38]。
+
+已有研究发现，中性过程和生态位过程并不是2个相互对立的过程，而且某1个植物群落的物种多度分布并不是完全基于中性或者生态位理论的[39]同时，众多研究发现，在生态学研究中格局与过程可能并不是一一对应的，虽然物种多度分布格局的分析可以帮助我们了解群落生物多样性的维持机制，然而从格局分析来推断其生态学作用的做法可能还存在一定的缺陷[40]。本研究结果表明，艾比湖流域荒漠植物物种多度格局与中性模型的预测结果是一致的，但这也并不能说明群落中物种的竞争能力是相同的，也可以说研究区的群落构建机制并不一定是由随机过程主导的。由此，我们也可以推测，在确定群落物种组成时，生态位过程的影响较低时，中性过程的影响可能会增强。同时，从物种多样性角度考虑，如果每个植物种群随机或有规律地分布在一定的空间区域，那么物种多样性的空间变异不会随尺度的变化而变化[41]
+
+本研究利用不同采样尺度下的物种多度曲线，分析了荒漠植物群落的物种分布格局，进而探讨了艾比湖流域植物群落构建机制，然而多度曲线拟合只利用样方多度数据，包含的群落信息较少，为了能更精确地研究实际群落的多度格局，可能需要结合地形、土壤等环境因子、生物因子甚至其他空间因子进行更进一步的研究与分析[28]。另外，在实际研究中，我们调查了5个 $1 \ \mathrm { h m } ^ { 2 }$ 的大样方，由于工作量太大，同时考虑到研究时效性，在本研究中先使用了1个样方，另外4个将后续处理，进行补充和验证。
+
+# 5结论
+
+（1）艾比湖流域荒漠植物群落在群落结构上有明显的尺度依赖性。在小尺度上稀有种占多数，随着尺度的增加，稀有种数目逐渐减少，而常见种逐步增加，且群落内大多数物种的多度较低，只有少数物种是常见种
+
+(2）多度模型拟合结果得出，6种尺度下的中性模型和统计模型拟合效果基本相似，生态位模型在各尺度上均未通过检验，表明基于不同尺度下的艾比湖流域荒漠植物群落物种多度分布可能具有相似的维持机制。
+
+(3）中性模型拟合效果最佳，随机过程可能在荒漠植物群落的构建过程中发挥重要作用，可初步推断中性理论对该群落物种多样性维持过程中显得更为重要
+
+# 参考文献(References):
+
+[1] Rosindell J,Hubbell S P,Etienne R S.The unified neutral theory of biodiversity and biogeography at age ten[J].Trends in Ecology & Evolution,2011,26(7):340-348.   
+[2] 张树梓.海南岛热带天然老龄林物种多样性维持机制研究[D]. 北京：中国林业科学研究院,2017.[Zhang Shuzi.Study on the Maintenance Mechanisms of Species Diversity inthe Natural Old Growth RopicalForests on Hainan Island,China[D].Beijing: Chinese Academy of Forestry,2017.]   
+[3] 汪耀平.大尺度物种多度分布模式和环境异质性对不同构建机 制下局域群落结构影响的研究[D].兰州：兰州大学,2019. [Wang Yaoping.Effects ofLarge-Scale Species Abundance Distribution Pattern and Environmental Heterogeneity on Local Community Structure under Different Assembly Mechanisms[D]. Lanzhou: Lanzhou University,2019.]   
+[4] 马克明.物种多度格局研究进展[J].植物生态学报,2003,27(3): 412-426.[Ma Keming.Advances of the study on species abundance pattern[J]. Chinese Journal of Plant Ecology,2OO3,27(3): 412-426.]   
+[5] McGill B J, Etienne R S,Gray JS,et al. Species abundance distributions:Moving beyond single prediction theories to integration within anecological framework[J].Ecology Letters,20o7,10: 995- 1015.   
+[6]张雪妮,杨晓东,吕光辉.水盐梯度下荒漠植物多样性格局及其 与土壤环境的关系[J].生态学报,2016,36(11):3206-3215. [Zhang Xueni, Yang Xiaodong,Lyu Guanghui. Diversity patterns and response mechanisms of desert plants to the soil environment along soil water and salinity gradients[J].Acta Ecologica Sinica, 2016,36(1): 3206-3215.]   
+[7]方晓峰,杨庆松,刘何铭,等.天童常绿阔叶林中常绿与落叶物 种的物种多度分布格局[J].生物多样性,2016,24(6):629-638. [Fang Xiaofeng, Yang Qinsong,Liu Heming, et al. Distribution of species abundance of evergreen and deciduous woody plants in the evergreen broad-leaved forests at Tiantong, Zhejiang[J]. Biodiversity Science,2016,24(6): 629-638.]   
+[8]杨阳,张峰,乔荠璿,等.呼伦贝尔草甸草原物种多度分布格局 [J].生态学杂志,2018,37(12): 3576-3583.[Yang Yang,Zhang Feng, Qiao Jirong,et al.Plant species abundance distribution patterns in Hulunbuir meadow steppe[J]. Chinese Journal of Ecology, 2018,37(12): 3576-3583.]   
+[9]陈俊,艾训儒,姚兰,等.木林子天然次生林典型群落物种多度 分布格局的尺度效应[J].湖北民族学院学报(自然科学版), 2018,36(2): 130-133,202.[Chen Jun,Ai Xunru, Yao Lan,et al. Responses of species-abundance distribution to varying sampling scales in a typical forest community in Mulinzi Nature Reserve[J]. Journal of Hubei University for Nationalities (Natural Science Edition),2018,36(2): 130-133,202.]   
+[10] 夏富才,潘春芳,赵秀海,等.长白山原始阔叶红松林林下草本 植物多样性格局及其影响因素[J].西北植物学报,2012,32(2): 370-376.[Xia Fucai,Pan Chunfang, Zhao Xiuhai,et al. Influence of overstoryon seasonal variability of understory herbs in primary broad-leaved koreanpine forest of Changbai Mountain,China[J]. Acta Botanica Boreali-Occidentalia Sinica,2012,32(2): 370-376.]   
+[11]Visser V, Clayton W D, Simpson D A, et al. Mechanisms driving an unusual latitudinal diversity gradient for grasses[J].Global Ecology& Biogeography,2014,23(1): 61-75.   
+[12] 要伊桐,元正龙,魏彦波,等.长白山次生杨桦林树种多样性格 局多尺度分析[J].北京林业大学学报,2014,36(6):86-92.[Yao Yitong,Yuan Zhenglong,Wei Yanbo,et al. Multi- scale analysis on tree diversity pattern in a secondary Populus davidiana-Betula platyhylla forest in Changbai Mountains,northeastern China[J]. Journal of Beijing Forestry University,2014,36(6): 86-92.]   
+[13] SproullGJ, Quigley MF,Sher A,et al.Long-termchanges in composition,diversityand distribution paterns in four herbaceous plant communities along an elevational gradient[J]. Journal of Vegetation Science,2015,26(3): 552-563.   
+[14] 黄建平,季明霞,刘玉芝,等.干旱半干旱区气候变化研究综述 [J].气候变化研究进展,2013,9(1):9-14.[Huang Jianping,Ji Mingxia,Liu Yuzhi,etal.A review on climate change inarid and semi-arid areas[J]. Progressus Inquisitions De Mutatione Climatis,   
+2013,9(1): 9-14.] [15]Whitford WG,Wade EL.Ecology of desert systems[J]. Journal of Mammalogy,2002,3: 1122. [16]张雪妮.荒漠植物群落演替及其营养元素驱动研究[D].乌鲁木 齐：新疆大学,2014.[Zhang Xueni.Study on Desert Plant Community Succession and Nutrient Elements Driving[D]. Urumqi: Xinjiang University,2014.] [17] 郄亚栋,滕德雄,吕光辉.干旱荒漠区植物生态位对水盐的响应 [J].生态学报,2019,39(8): 259-270.[Qie Yadong,Teng Dexiong, Lyu Guanghui. Response of plant niche to soil moisture and salinity in an arid desert area of Xinjiang, China[J].Acta Ecologica Sinica, 2019,39(8): 259-270.] [18] 王恒方,周耀治,秦璐,等.凝结水对盐穗木(Halostachys caspica) 叶绿素荧光参数及水分利用效率的影响[J].干旱区研究,   
+2017,34(5): 1124-1132.[Wang Hengfang, Zhou Yaozhi, Qin Lu, et al. Influence of dew on fluorescence parameter and water use efficiency of Halostachys caspica in different salinity habitats[J].Arid Zone Research,2017,34(5): 1124-1132.] [19]蒋腊梅.荒漠生态系统植物物种共存机制研究[D].乌鲁木齐: 新疆大学,2018.[Jiang Lamei.The Studyon the Coexistence Mechanism of Plant Species in Desert Ecosystem[D]. Urumqi: Xinjiang University,2018.] [20] 李宏侠,杨晓东,吕光辉,等.艾比湖自然保护区盐生植物的分 布及其水分利用效率[J].干旱区研究,2018,35(2):370-378. [Li Hongxia,Yang Xiaodong,Lyu Guanghui,et al.Distribution and water use eficiency of halophytesin the Ebinur Lake Nature Reserve[J]. Arid Zone Research,2018,35(2): 370-378.] [21]PrestonFW.Thecommonness,andrarity,ofspecies[J].Ecology,   
+1948, 29(3): 254-283. [22]Fisher RA,Williams A S CB.The relation between the number of species and the number of individuals in a random sample of an animalpopulation[J]. Journal of Animal Ecology,1943,12(1): 4258. [23] 刘灿然,周文能,马克平.生物群落多样性的测度方法Ⅲ与物 种-多度分布模型有关的统计问题[J].生物多样性,1995,3(3):   
+157-169.[Liu Canran, Zhou Wenneng,Ma Keping.Biological community diversity measure $\mathbb { I }$ and statistical problems related to the species abundance distribution model[J]. Biodiversity Science,1995,3(3): 157-169.] [24] 涂传进,林芳,曹祖宁,等.对数级数模型在小叶青冈林物种多 度格局研究中的应用[J].福建林业科技,2011,38(3):17-20. [Tu Chuanjin,Lin Fang,Cao Zuning,etal. The application of logarithmic series model to the reseachon species abundance distribution of Cyclobalanopsis gracilis natural forest community[J].Journal of Fujian Forestry Science and Technology,2O11,38(3):17-   
+20.] [25] 任萍,王孝安,郭华.黄土高原森林群落物种多度的分布格局 [J].生态学杂志,2009,28(8): 1449-1455.[Ren Ping,Wang Xiao' an, Guo Hua. Species abundance distribution pattern of forest communities on Loess Plateau[J]. Chinese Journal of Ecology,2009,28 (8): 1449-1455.]   
+[26] Alonso D,Mckane A.Sampling hubbellsneutral theory of biodiversity[J].Ecology Letters,2010,7(10): 901-910.   
+[27]Volkov I,Banavar JR,Hubbell SP,et al.Neutral theory and relative species abundance in ecology[J]. Nature (London),2O03,424 (6952): 1035-1037.   
+[28] 张姗,葡菲,原作强,等.长白山阔叶红松林草本层物种多度分 布格局及其季节动态[J].生物多样性,2015,23(5):641-648. [Zhang Shan,Lin Fei,Yuan Zuoqiang,et al. Herb layer species abundance distribution patterns in different seasons in an oldgrowth temperate forest in Changbai Mountain, China[J]. Biodiversity Science,2015,23(5): 641-648.]   
+[29]Whittaker R H. Dominance and diversity in land plant communities[J]. Science,1965,147(3655): 250-260.   
+[30] MacArthur R H. On the relative abundance of bird species[J]. Proceedings of the National Academy of Sciences,1957,43(3): 293- 295.   
+[31] 程佳佳,米湘成,马克平,等.亚热带常绿阔叶林群落物种多度 分布格局对取样尺度的响应[J].生物多样性,2011,19(2):168- 177.[Cheng Jiajia,Mi Xiangcheng Ma Keping,et al. Responses of species-abundance distribution to varying sampling scales in a subtropical broad-leaved forest[J]. Biodiversity Science,2011,19 (2): 168-177.]   
+[32] 钟雄,张敏,尹茜,等.野三关红椿天然群落物种多度分布分析 [J].林业调查规划,2018,43(3):63-67.[Zhong Xiong,Zhang Ming,Yin Xi,et al. Species abundance distribution of natural Toona ciliata community in Yesanguan of Badong County[J]. Forest Inventory and Planning,2018,43(3): 63-67.]   
+[33] 康艳玲.山西太岳山针阔混交林物种多度格局和物种多样性研 究[D].临汾：山西师范大学,2016.[Kang Yanling.Analysis of Species-Abundance Pattern and Species Diversityof Conifer and Broad-Leaved Mixed Forest in Taiyue Mountain of Shanxi Province [D]. Linfen: Shanxi Normal University,2016.]   
+[34]Wu Anchi, Deng Xiangwen,He Honglin,et al. Responses of species abundance distribution patterns to spatial scaling in subtropical secondary forests[J]. Ecology and Evolution,2019,9:1-10.   
+[35] 于瑞鑫,田娜,王兴,等.短花针茅荒漠草原斑块尺度物种多样 性及其共存格局[J].干旱区研究,2019,36(2):444-450.[Yu Ruixin,Tian Na,Wang Xing,et al.Species diversity and co-occurrence patern at patch scalein Stipa breviflora desert steppe[J]. Arid Zone Research,2019,36(2): 444-450.]   
+[36] Chisholm R A,Pacala S W.Niche and neutral models predict asymptotically equivalent species abundance distributions in highdiversity ecological communities[J].Proceedings of the National Academy of Sciences,2010,107(36): 15821-15825.   
+[37]Bar-Massada A, Kent, Carmel Y. Environmental heterogeneity affects the location of modelled communities along the niche- neutrality continuum[J].Proceedings of the Royal Society B:Biological Sciences,2014,281(1783): 3249-3249.   
+[38]张忠华,胡刚,祝介东,等.喀斯特常绿落叶阔叶混交林物种多 度与丰富度空间分布的尺度效应[J].生态学报,2012,32(18): 5663-5672.[Zhang Zhonghua,Hu Gang, Zhu Jiedong,et al. Scaledependent spatial variation of species abundance and richness in two mixed evergreen-deciduous broad-leaved karst forests, Southwest China[J].Acta Ecologica Sinica,2012,32(18): 5663-562.]   
+[39]Chave J.Neutral theory and community ecology[J].Ecology Letters,2004,7(3): 241-253.   
+[40] 段后浪,赵安,姚忠.不同海拔高程梯度下鄱阳湖典型草洲植物 群落物种-多度分布格局的模型拟合[J].植物科学学报,2017, 35(3):335-343.[Duan Houlang,Zhao An,Yao Zhong.Modeling plant species-abundance distribution patterns with elevation in typical marshland communities of the Poyang Lake region[J]. Plant Science Journal,2017,35(3): 335-343.]   
+[41] 曹琳琳,苏宝玲,周旺明,等.长白山区典型植被类型物种多样 性空间分布的尺度效应[J].生态学杂志,2017,36(11):3102- 3108.[Cao Linlin, Su Baoling, Zhou Wangming,et al. Scale-dependent spatial variation of species diversity in typical vegetation types in Changbai Mountain, China[J]. Chinese Journal of Ecology,2017,36(11): 3102-3108.]
+
+# Responses of species abundance distribution to varying sampling scales in a desert plant community in the Ebinur Lake Basin
+
+Kunduz Sattar1,2.3，LYU Guang-hui',2.3， JIANG La-mel1,2.3, WANG Heng-fang23，WANGJin-longl2.3 (1.CollegeofResources and EnvironmentalScience,Xinjiang University, Urumqi 830046,Xinjiang,China; 2.KeyLaboratoryofOasis EcologyMinistryofEducation,Xinjiang University, Urumqi83046,Xinjiang,Chna; 3.Institute ofArid Ecologyand Environment, Xinjiang University, Urumqi 83oo46,Xinjiang,China)
+
+Abstract: We studied the desert ecosystem of Ebinur Lake Basin,and a $1 ~ \mathrm { { h m } ^ { 2 } }$ desert plant community sample area was established. On the basis of six sampling scales ( $5 \textrm { m } \times 5$ m, $1 0 \mathrm { ~ m ~ } \times \mathrm { ~ l 0 ~ }$ m, $2 0 \mathrm { ~ m ~ } \times 2 0$ m, $2 5 \mathrm { ~ m ~ } \times 2 5$ m, $5 0 \mathrm { ~ m ~ } \times$ $5 0 \mathrm { m }$ ，and $1 0 0 \ \mathrm { m } \times 1 0 0 \ \mathrm { m }$ ),different ecological models are used to fit the species abundance distributions (SADs) of plant communitiesto test the main ecological processes that dominate plant community construction in desert ecosystems and the impactof scale efects on community construction.The results showed that (1) with theincrease of spatial scale,the rare species in the community gradually decreased and the proportion of common species gradually increased.(2) Species rank-abundance curves at diferent scales showed that as the scale increases,the species richness increased and the species distribution became more uniform.(3)The results of model fiting showed thatthe neutral model and purely statistical models were suitable for explaining the SADs for the desert plant community,whereas the niche model did not pass the test ( $P$ <0. 05). (4) With the increase of scale, the species richness index and Shannon-Wiener index increased,whereas the Simpson index and the Pielou index showed an opposite trend.To sum up,although there are apparent changes in the composition of the desert ecosystem based on differentscales,the ecological processes that afect thedistribution pattern of species abundance are basically the same,and itcan be presumed thatthe neutral theory is more important in the desert plantcommunity assembly.
+
+Keywords:desert plants community；species-abundance distribution；ecological process;scale efect;neutral process; Ebinur Lake Basin

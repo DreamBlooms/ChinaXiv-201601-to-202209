@@ -1,0 +1,625 @@
+[
+    {
+        "type": "text",
+        "text": "2000一2018年古尔班通古特沙漠EVI时空变化特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨怡,²，吴世新'，庄庆威¹,²，牛雅萱1,2（1．中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2．中国科学院大学,北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于MODIS-EVI数据,采用一元线性回归、经验正交函数（EOF）、变异系数,从时间和空间2个维度分析古尔班通古特沙漠增强型植被指数(EVI)的时空变化特征。结果表明：2000—2018 年古尔班通古特沙漠整体 EVI的年际变化呈显著增加趋势,增长速率为 $0 . 0 1 6 0 \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } ( P < 0 . 0 1 )$ ，其中固定沙丘、半固定沙丘和流动沙丘中的EVI年际变化也呈显著增加趋势;生长季内沙漠整体及不同类型EVI的变化趋势大致相同,从3月开始,EVI逐渐增加,并在6—7月达到一年中的最高值;古尔班通古特沙漠大部分区域的EVI呈上升趋势，上升趋势明显的区域主要集中在沙漠南缘以及沙漠西缘的开荒区域,沙漠腹地EVI上升趋势较小,EVI降低的区域主要分布在沙漠北部;古尔班通古特沙漠EVI波动较大的区域在沙漠西缘与南缘，其中波动最大的区域在沙漠西缘的开荒区域，沙漠腹地EVI波动较小。EVI能够较好地反映以固定和半固定为主的沙漠区植被覆盖变化，其反映的植被状况对区域沙漠地貌类型的空间划分具有重要的参考意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：增强型植被指数(EVI)；时空变化；经验正交函数(EOF)；古尔班通古特沙漠 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国是世界上干旱地区和沙漠分布最多的国家之一[1]。沙漠地区的开发利用、建设与保护对区域环境与经济的发展具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "古尔班通古特沙漠是我国最大的固定半固定沙漠[2-3],具有独特的沙漠地貌和植被,前人研究主要集中在植物群落、区系及其分布等方面[4-6],且大部分是采用传统的野外调查方法，范围有限、时间序列短。随着遥感技术的发展，采用遥感手段监测植被生长状况成为目前研究的主流方式，遥感技术有助于监测生境季节变化和年际变化，可以进行时间序列分析。一些学者利用长时间序列遥感数据,对古尔班通古特沙漠植被的时空变化进行了研究。李杨等[7]分析了1981—2003 年古尔班通古特沙漠不同分区，基于归一化植被指数（normalizeddifferencevegetation index，NDVI)时空变化特征;蒋超亮等[8]根据2000—2016年NDVI数据提取了该沙漠旱生植物的时空格局;段呈等[9]对1985—2014 年的短命植物NDVI的时空变化进行了研究。以往的研究大都基于NDVI进行分析，考虑到使用传统的归一化植被指数存在许多不足和缺陷，而增强型植被指数（enhancedvegetationindex,EVI)能够减少来自大气和土壤噪音的影响[I0-1],并且EVI 时间序列相较于NDVI时间序列季节性变化更明显，时间序列曲线更平滑[12] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沙漠地貌复杂而多样，存在各种基本地貌类型、成因类型、形态类型，其表层覆盖有不同类型和盖度的植被，并随着自然及人为的影响发生着变化，通过对沙漠植被的监测有益于多角度地认知沙漠。本研究选用增强型植被指数(EVI)，采用一元线性回归分析、经验正交函数（empirical orthogonal function,EOF）变异系数，对2000—2018 年古尔班通古特沙漠EVI的时空变化特征进行研究，这对区域沙漠地貌类型的认识具有重要的参考意义，可为沙漠分类、制图和数据库的构建提供基础数据，并且对于沙漠的动态监测、保护及利用也具有十分重要的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区与数据来源",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "古尔班通古特沙漠位于新疆北部准噶尔盆地腹地,总面积约为 $4 . 7 3 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,是我国第二大沙漠（图1）。沙漠南缘地接天山北坡冲洪积平原区的绿洲荒漠带，多靠近天山北麓诸多河流的下游尾闾，水土条件较好，是新疆土地开发程度较高的区域;沙漠西缘是玛纳斯河下游、玛纳斯湖盆区，玛纳斯河、塔西河-呼图壁河老河道穿越沙漠西南部，也是农垦快速发展地区;沙漠北部是乌伦古河南部荒地，主要为干燥剥蚀基底平原，无天然河流，气候环境较差；沙漠东部是准噶尔东部的低山、丘陵及平原区，干燥剥蚀和风蚀强烈[13] C",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "古尔班通古特沙漠区年降水量可达 $7 0 \\sim 1 5 0$ mm，7一8月降水较多，冬季有稳定积雪，积雪的消融下渗为春季短命植物的生长提供了有利的条件[3]。固定、半固定沙丘是古尔班通古特沙漠的主要地貌类型，固定沙丘主要分布在沙漠西部、南部边缘以及生态恢复的区域,植被覆盖度大于 $30 \\%$ ；半固定沙丘植被覆盖度在 $1 0 \\% \\sim 3 0 \\%$ ,主要分布于沙漠腹地;流动沙丘植被覆盖度小于 $10 \\%$ ，主要分布于沙漠的东部边缘，广泛发育在沙丘顶部，多为流动性沙面[3,14] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "古尔班通古特沙漠内部植物长势较好，植被组成相对丰富，其植物区系和植被性质表现出蒙古戈壁荒漠与中亚西部荒漠之间的过渡特征，具有世界温带荒漠中最为丰富的植物物种与基因资源[15-16]在春季，利用降水和积雪融水发育的短命植物、类短命植物是古尔班通古特沙漠植物区系特有的现象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "古尔班通古特沙漠的半固定沙丘主要分布着白梭梭、蒿属等荒漠植被；固定沙垄沙丘上主要分布着白梭梭、蒿类、麻黄、短命植物;沙漠东缘的半流动沙丘上主要为沙拐枣丛和巨穗滨麦丛；玛纳斯河旁则为胡杨林、盐化草甸、河漫滩草甸[17]。近年来河流下游及沙漠边缘开垦严重，农作物及人工植被扩展迅速。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用的MODIS产品来源于美国国家航空航天局（http://ladsweb.nascom.nasa.gov）提供的合成植被指数产品MOD13Q1，空间分辨率为250$\\mathbf { m } \\times 2 5 0 \\mathrm { ~ m ~ }$ ,时间分辨率为16d，时空跨度为2000 年3月至2018年11月。古尔班通古特沙漠研究区共2景影像，其过境轨道号分别为 $\\mathrm { h } 2 3 \\mathrm { v } 0 4$ 和h24v04。MODIS遥感数据预处理使用美国国家航空航天局(National Aeronauticsand SpaceAdministration,NASA)免费提供的 MRT（MODIS reprojection tool）软件，预处理包括影像拼接、波段提取、重投影、格式转换、研究区裁切等。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d67449687b8c82a6f5c7d5b247c97b7a8c767fe5aaafe9a29c1c9d2cf83890a6.jpg",
+        "img_caption": [
+            "图1古尔班通古特沙漠类型及其在新疆的位置",
+            "Fig.1The types and location of the Gurbantunggut Desert in Xijiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区沙漠类型数据来源于中国科学院资源环境与地理研究所、中国科学院新疆生态与地理研究所等单位编制的《中华人民共和国地貌图集( $1 : 1 0 0$ 万）》，从中裁切出古尔班通古特沙漠区域的空间数据[18]（图1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Savitzky-Golay 滤波",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EVI时序数据集须在应用前正确有效地去除噪声,重建 EVI时序数据集[19]。采用 Savitzky-Golay滤波进行EVI时间序列重构，能够很好地对EVI时序曲线进行平滑，反映植物生长变化趋势，并且具有实现简单、先验知识少等优点[20] 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "S-G 滤波是Savitzky和Golay提出的基于多项式最小二乘法拟合的一种数据平滑方法[20],可以将其理解为一种加权滑动平均滤波，其权重取决于一个滤波窗口范围内做多项式最小二乘法拟合的多项式次数。S-G 滤波过程可以用公式(1)描述[20-21]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { j } ^ { * } \\ = \\frac { \\displaystyle \\sum _ { i = - m } ^ { m } C _ { i } Y _ { j + i } } { N }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： ${ Y _ { j } ^ { * } }$ 为合成序列数据即EVI拟合值； $m$ 为窗口宽度，定义为平均窗口大小的 $1 / 2 ; C _ { i }$ 为多项式拟合的系数，表示从滤波器首部开始第 $i$ 个EVI值的权重； $Y _ { j + i }$ 代表原始序列数据即EVI原始值; $N$ 为滑动窗口所包括的数据点（即滤波器的长度），等于滑动数组的宽度( $( 2 m + 1 )$ 。在本研究中，将 S-G 滤波的窗口设置为4，迭代次数设置为3，对2000—2018年古尔班通古特沙漠EVI时间序列数据进行去噪声拟合，以重构EVI时间序列数据集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 线性回归分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用一元线性回归方法，分析古尔班通古特沙漠各年份年最大化EVI的变化趋势，以单个像元时间特征反应整个区域趋势变化。 $b$ 是利用最小二乘法公式[公式(2）]，基于每个像元计算的年最大化EVI变化趋势[22] ○",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { N } i \\times \\mathrm { E V I } _ { i } - \\left( \\sum _ { i = 1 } ^ { N } i \\right) \\left( \\sum _ { i = 1 } ^ { N } \\mathrm { E V I } _ { i } \\right) \\bigg / N } { \\displaystyle \\sum _ { i = 1 } ^ { N } i ^ { 2 } - \\left( \\sum _ { i = 1 } ^ { N } \\mathrm { E V I } _ { i } \\right) ^ { 2 } \\bigg / N }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $N$ 为研究范围的总年数，本文中 $N$ 取 $1 9 ; i$ 为研究期中的第 $i$ 年； $\\mathrm { E V I } _ { i }$ 为第 $i$ 年的年最大合成EVI。某像元点的趋势线是这个像点19a的年最大化EVI值用一元线性回归模拟出来的一个总的变化趋势， $b$ 为这条趋势线的斜率，斜率为负表示研究区内EVI变化趋势为下降，反之，则表示研究区内EVI变化趋势为上升。 $b > 0$ 时,数值越大,表示EVI增加趋势越明显； $b < 0$ 时，数值越小，表明EVI降低趋势越明显。变化趋势的显著性采用 $\\mathbf { \\chi } _ { t }$ 检验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3经验正交函数分解 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经验正交函数(EOF)分解是一种在地球科学领域得到广泛应用的场分析方法，其原理是将时空要素场分解为若干空间的基本模态和时间系数序列的线性组合，进而客观定量分析要素场的空间结构和时间变化[23-24]。在本研究中用以分析古尔班通古特沙漠EVI的时空变化特征。设研究区共有 $\\mid m \\mid$ 个观测点，每个点有 $n$ 次观测值，则观测数据可写成公式(3)的矩阵形式。通过EOF展开，将公式(3）分解成正交的空间矩阵 $V$ 与正交的时间矩阵 $T$ 乘积之和[公式(4)]。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = \\left( { { X } _ { m n } } \\right) = \\left( { { X } _ { 1 } } , { { X } _ { 2 } } , \\cdots , { { X } _ { n } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathbf { \\Phi } _ { ; } X _ { 1 } , X _ { 2 } , \\cdots , X _ { n }$ 为维数是 $\\mathbf { \\nabla } _ { m }$ 的列向量。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = V T\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "空间矩阵 $V$ 可由 $\\boldsymbol { X } \\boldsymbol { X } ^ { T }$ 的特征向量得出〔公式(5)]，时间矩阵由公式(6)可计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { C = X X ^ { T } = V T T ^ { T } V ^ { T } = V A V ^ { T } } } \\\\ { { T = V ^ { T } X } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：上角标\" $T ^ { \\prime \\prime }$ 表示矩阵转置； $\\varLambda$ 为 $X X ^ { T }$ 矩阵的特征值构成的对角阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "空间模态的贡献率 $R _ { k }$ 可由公式(7)计算得出。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { k } = { \\frac { \\lambda _ { k } } { \\displaystyle \\sum _ { i = 1 } ^ { m } \\lambda _ { i } } } , k = 1 , 2 , \\cdots , p ( p < m )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { k }$ 为第 $k$ 个模态的方差贡献率； $\\lambda _ { k }$ 为 $X X ^ { T }$ 的特征值； $\\lambda _ { i }$ 为第 $i$ 个模态的方差贡献; $m$ 为列向量的维数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在进行结果分析前还需要检验分解出来的空间模态是否有物理意义，本文采用特征值误差范围的方法来进行检验(22]。空间模态的贡献率越大,越能反映变量场的空间分布特征，空间模态数值的绝对值越大，说明其随着时间的变化幅度越大。时间系数是空间模态的权重，描述空间模态的时间变化信息，数值越大，表明对应年份的空间分布特征与该空间模态越相似。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 波动特征分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "变异系数（coefficientofvariance，下文以 $\\boldsymbol { C v }$ 表示)是衡量资料中各观测值变异程度的统计量，是标准差与均值的比率，可消除单位或平均数对不同2 个或多个资料变异程度比较的影响，以反映单位均值的离散程度[25-27]。本研究通过计算变异系数[公式(8）]来分析2000—2018年古尔班通古特沙漠EVI的波动特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC v = \\frac { \\sigma } { \\mu }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\sigma$ 为标准差： $\\scriptstyle : \\mu$ 为平均值。采用变异系数作为波动性评价指标，分析古尔班通古特沙漠EVI的波动规律， $\\boldsymbol { C v }$ 值越大，表示EVI值的分布越离散，波动较大;反之,表示EVI值分布越集中，波动较小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 EVI的时空分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于2000—2018年EVI值的年最大值合成法，计算得到其 $1 9 \\mathrm { ~ a ~ }$ 平均值的空间分布图，由此分析得到：古尔班通古特沙漠19a来的EVI年最大均值在$0 . 0 4 \\sim 0 . 8 7$ 之间，EVI值较高的地区主要分布在沙漠的西南部和南缘的沙漠-绿洲过渡带，沙漠腹地的EVI值较沙漠的西东两侧EVI值高（图2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c1de2167da6e106cf28b846c3c95967d69ef4732496e3e2553ddcc314b23450.jpg",
+        "img_caption": [
+            "图22000—2018 年古尔班通古特沙漠 EVI空间分布 Fig.2The spatial distribution of EVI in the Gurbantunggut Desert from 2000 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 EVI的年际变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于年最大化合成EVI数据，采用一元线性回归分析方法对2000—2018 年古尔班通古特沙漠及其不同沙漠类型上EVI的年际变化特征进行分析。结果表明(图3）：古尔班通古特沙漠不同沙漠类型EVI均呈现显著增加的趋势（ $P < 0 . 0 1 \\rangle$ ，且古尔班通古特沙漠固定沙丘EVI值 $>$ 半固定沙丘EVI值 $>$ 流动沙丘EVI值。从整个沙漠来看，古尔班通古特沙漠 EVI 的增长速率为 $0 . \\mathrm { { 0 1 6 0 } \\cdot \\mathrm { { ( 1 0 a ) } ^ { - 1 } } }$ ，EVI变化在 $0 . \\ 1 0 5 0 \\sim 0 . \\ 1 6 3 3$ 之间，EVI最低值",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac29fafd7897a7d753263f8bb8d663e1136c82e2ed992131c4c9f928cc6cc759.jpg",
+        "img_caption": [
+            "图32000—2018 年古尔班通古特沙漠EVI的年际变化 Fig.3Annual change of EVI in the Gurbantunggut Desert from 2000 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0.1050出现在 2001年,最高值0.1633出现在2016 年，上升幅度为 $5 5 . 5 2 \\%$ ,表明近19a来,古尔班通古特沙漠EVI呈增长态势，增长速率较快。半固定沙丘和固定沙丘EVI的年际变化趋势与整个古尔班通古特沙漠EVI的变化趋势相似，其中半固定沙丘EVI以 $0 . \\mathrm { { 0 1 6 1 } \\cdot \\mathrm { { ( 1 0 a ) } ^ { - 1 } } }$ 的变化速率呈显著增长( $P < 0 . 0 1$ ),EVI变化在 $0 . \\ 1 0 4 \\ 8 \\sim 0 . \\ 1 6 3 \\ 5$ 之间，2016年的EVI值0.1635为整个研究时间段的最大值;古尔班通古特沙漠固定沙丘EVI的变化速率为 $0 . 0 1 5 6 \\cdot \\ : ( \\mathrm { 1 0 a } ) ^ { - 1 } (  { P } < 0 . 0 1 )$ ,略小于半固定沙丘EVI的变化速率,EVI变化在 $0 . \\ 0 9 9 \\ 1 \\ \\sim$ 0.1550之间，EVI最高值0.1550出现在2016年。流动沙丘的EVI变化速率最低，为0.0076·(10a) $^ { - 1 } ( P < 0 . 0 1 )$ ,EVI变化在 $0 . \\ 0 9 3 \\ 1 \\sim 0 . \\ 1 1 9 \\ 4$ 之间，EVI最大值0.1194出现在2016年,EVI最小值0.0931出现在2001年。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 EVI的生长季变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于整个古尔班通古特沙漠EVI月均值，分析其植物生长季（3—10月）EVI的年内变化（图4），结果表明：生长季内古尔班通古特沙漠不同沙漠类型EVI值的变化趋势大致相同，从3月开始，EVI值逐渐增加，并在6一7月达到一年中的最大值。各类型中半固定沙丘EVI值最大，固定沙丘EVI值次之，流动沙丘EVI值最小。古尔班通古特沙漠的EVI值从3月的0.0978快速增加，7月达到峰值，峰值处EVI值为0.1104,8月开始EVI有所下降，10月降至最小,EVI最小值为0.0518。半固定类型沙丘EVI的年内变化特征与整个古尔班通古特沙漠的年内变化基本一致,EVI最大值0.1104出现在7月，EVI最小值0.0520出现在10月。古尔班通古特沙漠中固定沙丘各月份的EVI值变化在$0 . 0 4 2 9 \\sim 0 . 1 0 6 6$ 之间，EVI值由3月的0.0922逐渐增大，在6月达到峰值，峰值处EVI值为0.1066，随后EVI值逐渐下降至最小。流动沙丘EVI值年内变化较小，变化范围在 $0 . 0 5 5 \\ 1 \\sim 0 . 0 9 6 \\ 6$ 之间，各月份的 EVI值均小于固定沙丘和半固定沙丘的EVI值。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/82185953fc234907cd510edd87d24471a870ce23de519bad223f0b8f2960e54e.jpg",
+        "img_caption": [
+            "图4古尔班通古特沙漠不同沙漠类型EVI生长季(3—10月)的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4EVI的线性趋势分析与EOF分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "古尔班通古特沙漠EVI数据的EOF分析，第一空间模态的方差贡献率为 $9 6 . 8 6 \\%$ （表1），且通过了特征根误差范围显著性的检验，能够较好的表示2000—2018年古尔班通古特沙漠EVI变量场的主要空间分布特征。在第一空间模态中（图5），古尔班通古特沙漠的数值均为正值，在空间上具有很好的一致性，并且数值的高值区主要分布在古尔班通古特沙漠的南缘与中部区域，结合其时间系数可以发现，在2000一2018年，古尔班通古特沙漠的EVI整体呈现出上升的趋势，其中古尔班通古特沙漠的",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1基于古尔班通古特沙漠EVI数据的经验正交分解前2个模态的方差贡献率",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed5b79678f3f948e1c7aca367b6772d1e59f436a3accc3100c52b86dbe865f0b.jpg",
+        "table_caption": [
+            "Tab.1The variance contribution rates of the first two modes of EVI in the Gurbantunggut Desert from empirical orthogonal function "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模态</td><td>方差贡献/%</td><td>累计方差贡献/%</td></tr><tr><td>1</td><td>96.86</td><td>96.86</td></tr><tr><td>2</td><td>2.30</td><td>99.16</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc35fe648e87e57621b165f48fb7a329286f7081410a9ad4eff3c7709700917a.jpg",
+        "img_caption": [
+            "Fig.4The change of EVI in different desert types of the Gurbantunggut Desert in growth season from 2OoO to 2018 ",
+            "图52000—2018 年古尔班通古特沙漠EVI数据 EOF 分解的第一空间模态及其对应的时间系数 Fig.5The first spatial mode and its corresponding time coefficients obtained from empirical orthogonal function of EVI in the Gurbantunggut Desert from 20OO to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "南缘与中部区域EVI的上升趋势最为明显。基于像元的线性趋势分析结果与EOF分析第一空间模态的结果基本一致(图6，表2），古尔班通古特沙漠大部分区域( $9 6 . 4 6 \\%$ )的EVI都呈上升趋势，仅有$3 . 5 4 \\%$ 区域的EVI呈降低趋势，有 $43 \\%$ 的区域显著",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8e44b28272fbdaf44f7d7e3e75374cc608e837c001a2b14db77b97d0038a62e.jpg",
+        "img_caption": [
+            "图62000—2018 年古尔班通古特沙漠EVI时空变化",
+            "Fig.6Spatial change of EVI in the Gurbantunggut Desert from 2OOO to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2古尔班通古特沙漠EVI年际变化趋势统计 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/46ca5a6f81e72a50193184742b6912382c42baf8883fb8e3ba86cfaf494df939.jpg",
+        "table_caption": [
+            "Tab.2Statistic results ofEVI trend in the "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Gurbantunggut Desert</td><td rowspan=\"2\">/% 所占面积比例</td></tr><tr><td>变化趋势</td><td>所占面积比例</td><td>所占面积比例 (P<0.05)</td></tr><tr><td>上升</td><td>96.46</td><td>28.91</td><td>(P<0.1) 43.00</td></tr><tr><td>下降</td><td></td><td></td><td></td></tr><tr><td></td><td>3.54</td><td>0.05</td><td>0.06</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/db9618f5b809228927cf55a0d9112795f7dc2610f62330f3fa58ff87235db626.jpg",
+        "img_caption": [
+            "图72000—2018 年古尔班通古特沙漠 EVI的变异系数分布",
+            "Fig.7The distribution of variable coefficient of EVI in the Gurbantunggut Desert from 2OoO to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "上升( $\\cdot P < 0 . 1 )$ ， $0 . 0 6 \\%$ 的区域显著降低( $\\cdot P < 0 . 1 )$ ，其中EVI上升趋势明显的区域主要集中在古尔班通古特沙漠的南缘，上升趋势最为明显的区域在沙漠西部边缘，沙漠腹地EVI上升趋势不明显，EVI降低的区域主要分布在沙漠北部。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5 EVI的波动特征分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于2000—2018 年古尔班通古特沙漠年最大化合成EVI数据，采用变异系数 $( C v )$ 分析古尔班通古特沙漠植物生长状况的波动程度（图7）。结果表明：2000—2018 年古尔班通古特沙漠 EVI的变异系数主要集中在 $0 . 0 3 \\sim 1 . 5 6 \\$ 之间,根据自然断点法将其分为5级， $0 . 0 3 < C v < 0 . \\ 1 3$ 的区域占古尔班通古特沙漠的 $4 8 . 8 9 \\%$ $0 . \\ 1 3 < C v < 0 . \\ 2 0$ 的区域占古尔班通古特沙漠的 $3 0 . 3 4 \\%$ ; $0 . 2 0 < C v < 0 . 3 3$ 的区域占古尔班通古特沙漠的 $1 7 . 9 7 \\%$ ： $0 . 3 3 < C v < 0 . 5 \\$ 5的区域占古尔班通古特沙漠的 $1 . 6 5 \\%$ ： $0 . 5 5 < C v <$ 1.56的区域占古尔班通古特沙漠的 $1 . 1 5 \\%$ 。古尔班通古特沙漠EVI波动程度较大的区域集中在沙漠南缘与西缘，其中波动最大的区域在沙漠西缘的开荒区域，沙漠腹地及北部EVI波动较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1 EVI指数的区域应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "EVI在一定的环境背景影响下，对植被变化的敏感性要强于NDVI,EVI更能反映区域内植被的空间差异。从本研究可以看出，EVI可以应用在沙漠区域，且能够较好表征研究区植被覆盖状况的变化趋势。从2000—2018 年古尔班通古特沙漠EVI的年际变化趋势可以看出，近 $1 9 \\mathrm { ~ a ~ }$ 来古尔班通古特沙漠及其不同沙漠类型植被覆盖状况均向好的趋势发展,这与李杨、蒋超亮、段呈、丁佩燕等[7-9,28]应用NDVI、RSEI(遥感生态指数)等数据得出的研究结果基本一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究小组于2018年5—9月对古尔班通古特沙漠区进行了实地调查，包括定点样方调查、无人机空中俯瞰估算植被盖度、线路沿途定点植被盖度记录等，调查发现：其各地的植被盖度状况与基于EVI得出的植被覆盖状况的空间格局相一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2EVI指数与沙漠地貌类型",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前，沙漠地貌类型的分类多基于地貌成因类型与地貌形态类型。本研究采用的沙漠类型空间分布数据由于制图尺度、数据裁切、沙漠地貌分类方法等的差异，没有将该沙漠南缘的许多固定沙丘区域纳入空间分析，致使固定沙丘整体的EVI值偏小。通过野外实地调查可以发现：2000一2018年古尔班通古特沙漠EVI空间分布图可以较好地反映沙漠不同地理区位的植被状况。因此，在以后的沙漠分类及制图中，可以将基于EVI等植被指数和地面植被调查数据得出的植被覆盖状况作为划分沙漠地貌类型的重要参数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3植被覆盖变化分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2000一2018年古尔班通古特沙漠大部分区域的EVI都呈上升的趋势，极少部分区域的EVI呈降低趋势；各沙漠类型区的EVI均呈现显著增加趋势0 $\\cdot P < 0 . 0 1 )$ 。气温和降水是影响地表植被覆盖状况的2个关键因素，水分条件尤为重要。沙漠南缘和沙漠东部靠近准噶尔盆地东部低山的区域降水量较多，沙漠最北部风多温度低。基于EVI与降水的偏相关分析，古尔班通古特沙漠大部分区域的植被覆盖度与降水呈正相关，通过对准噶尔区域气象资料的分析以及有关该区域降水、气温、干旱等研究文献表明：20世纪80年代中期以来降水量普遍增多，年降水量及年降水日数均呈现增加趋势，区域气候有向暖湿发展的趋势，这为古尔班通古特沙漠内植物的生长提供了有利条件[3.29-34]。基于 EVI与温度的偏相关分析也表明，沙漠植被覆盖度变化与气温存在不同程度的正、负相关关系，既有增长也有抑制作用。沙漠区域植被覆盖的变化与降水-温度协同的量化关系有待进一步研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "古尔班通古特沙漠西南部与南缘位于沙漠-绿洲过渡带，地下水位较高，水热条件相对较好，植被覆盖状况变好的趋势最明显[35]。研究区植被覆盖状况变好的原因主要有3个方面：其一，古尔班通古特沙漠南缘及西南部地区靠近天山北坡经济带绿洲区，是新疆土地开发活跃区域。20世纪90年代末以来随着国家西部大开发战略的实施，新疆也进入到新一轮的土地开垦与生态建设时期，耕地面积迅速扩张[36-37],古尔班通古特沙漠南缘及西部均有土地开垦，沙漠西南部地区的开垦最为明显。其二，实地调查发现，沙漠边缘地带也普遍实施了绿化建设，重建和新建了荒漠林和防沙林，从遥感影像上也可以看出沙漠南缘EVI值较大。其三，MOD13Q1产品的空间分辨率为 $2 5 0 \\mathrm { ~ m ~ }$ ，边缘地区包含绿地的混合因素也对EVI值有一定影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "古尔班通古特沙漠是我国独具景观特色的固定半固定沙漠，生物、生态系统丰富而多样。近年来，各地林业、环保等部门不断加强对其管护，许多地方建起了围栏并设置了管护站点。除了进行一些必要的科学研究外，已对整个沙漠实施了全面的保护措施，这一系列的封、管、育相结合的综合治理措施都促进了整个沙漠地区的植被保育。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "古尔班通古特沙漠EVI的年内变化曲线呈现先上升后下降的趋势。从3月开始，冬季的积雪开始融化，雪水消融下渗，土壤得到了水分的补给，为植物种子的萌发尤其是短命植物的生长发育创造了条件，4月初短命植物开始生长，并在接下来的2个月时间里，完成整个营养周期，6月大部分短命植物干枯死亡，此时，梭梭、沙拐枣、蒿类等植物的种子由于春冬雨水的滋润也相继萌发生长，到7月达到一年中植物生长最旺盛的时间，随后整个沙漠的植被覆盖状况开始下降[35,38-39] 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）2000—2018 年，古尔班通古特沙漠整体及其不同沙漠类型EVI均呈显著增加的趋势，这表明近 $1 9 \\mathrm { ~ a ~ }$ 古尔班通古特沙漠的植被状况向好的趋势发展，整个古尔班通古特沙漠EVI的增长速率为$0 . 0 1 6 0 \\cdot \\left( 1 0 \\mathbf { a } \\right) ^ { - 1 } \\left( P < 0 . 0 1 \\right)$ 。这与该区域降水、温度等气候变化以及人工生态建设和加强生态环境",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "管护等有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）生长季内古尔班通古特沙漠及其不同沙漠类型的EVI变化趋势大致相同，EVI从3月开始逐渐增大，并在6一7月达到一年中的最高值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）古尔班通古特沙漠大部分区域 $( 9 6 . 4 6 \\%$ ）的EVI都呈增大趋势，仅有 $3 . 5 4 \\%$ 区域的EVI呈减小趋势,其中有 $43 \\%$ 的区域显著增大( $P < 0 . \\ 1 )$ ，$0 . 0 6 \\%$ 的区域显著减小( $P < 0 . 1 )$ ,EVI增大趋势明显的区域主要集中在古尔班通古特沙漠的南缘，增大趋势最为明显的区域在沙漠西部边缘农业开垦区域，EVI减小的区域主要分布在沙漠北部。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）古尔班通古特沙漠EVI波动较大的区域集中在沙漠西缘与南缘，其中波动最大的区域在沙漠西部边缘靠近克拉玛依的开荒区域，沙漠腹地EVI波动程度较小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（5）EVI指数能够较好地反映以固定和半固定为主的沙漠区的植被覆盖变化，其反映的植被状况对于沙漠地貌类型的空间划分具有重要的参考意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]吴正.中国沙漠及其治理[M].北京:科学出版社,2009;589- 595.[Wu Zheng.Sandy Desert and Its Control in China[M].Beijing:Science Press,2009:589 -595.]   \n[2]吴正.我国的沙漠[M].北京：商务印书馆，1982：173-174. [Wu Zheng.Desert of Our Country[M].Beijing:Commercial Press,1982:173-174.]   \n[3] 钱亦兵,吴兆宁.古尔班通古特沙漠环境研究[M].北京：科学 出版社,2010:1-25.[Qian Yibing,Wu Zhaoning.Environmental Research in the Gurbantunggut Desert[M].Beijing:Science Press, 2010:1-25.]   \n[4] 石亚飞,张志山，,黄磊,等.古尔班通古特沙漠半固定沙丘植物 群落物种组成和种群结构[J].应用生态学报,2016,27（4）： 1 024-1 O3o.[Shi Yafei,Zhang Zhishan,Huang Lei,et al. Species composition and population structure of plant communities on semi-fixed dunes of the Gurbantunggut Desert,China[J].Chinese Journal of Applied Ecology,2016,27(4):1 024-1030.]   \n[5]张荣,刘彤.古尔班通古特沙漠南部植物多样性及群落分类 [J].生态学报,2012,32（19）:6 056-6 066.[Zhang Rong,Liu Tong.Plant species diversity and community classification in the Southern Gurbantunggut Desert[J].Acta Ecologica Sinica,2012, 32(19):6 056-6 066.]   \n[6]邢旭明,马晓东,张元明.古尔班通古特沙漠生物土壤结皮对 土壤种子库多样性与分布特征的影响[J].生态学杂志，2016， 35(3）:612-620.[Xing Xuming,Ma Xiaodong,Zhang Yuanming.Effects of biological soil crusts on soil seed bank diversity and distribution characteristics in Gurbantunggut Desert[J]. Chinese Journal of Ecology,2016,35(3）:612-620.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7]李杨,刘艳,张璞,等.古尔班通古特沙漠NDVI时空变化特征 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[J].干旱区研究,2009,26(5）:686-693.[Li Yang,Liu Yan, Zhang Pu,et al. Research on the spatio-temporal change of NDVI in the Gurbantunggut Desert[J].Arid Zone Research,2009,26 (5):686-693.]   \n[8]蒋超亮,吴玲,安静,等.古尔班通古特沙漠旱生植物时空分布 特征[J].生态学报,2019,39（3）：1-8.［Jiang Chaoliang,Wu Ling,An Jing,etal.Temporal and spatial distribution characteristics of xerophytes in the Gurbantunggut Desert[J].Acta Ecologica Sinica,2019,39(3) :1-8.]   \n[9]段呈,吴玲,王绍明,等.近30 年古尔班通古特沙漠短命植物 的时空格局[J].生态学报,2017,37（8）:2 642-2 652.[Duan Cheng,Wu Ling,Wang Shaoming,et al.Analysis of spatio-temporal patterns of ephemeral plants in the Gurbantunggut Desert over the last 30 years[J].Acta Ecologica Sinica,2017,37（8）:2 642- 2 652.]   \n[10］王正兴,刘闯,Huete A.植被指数研究进展:从 AVHRR-NDVI 到MODIS-EVI[J].生态学报,2003,23（5）:979-987.[Wang Zhengxing,Liu Chuang,Huete A.From AVHRR-NDVI to MODISEVI:Advances in in vegetation index research[J].Acta Ecologica Sinica,2003,23（5）:979-987.]   \n[11]Liu H Q,Huete A.A feedback based modification of the NDVI to minimize canopy background and atmospheric noise[J].IEEE Transactions on Geoscienceand Remote Sensing,1995,33（2）: 457 -465.   \n[12］李红军,郑力,雷玉平,等.基于 EOS/MODIS 数据的 NDVI与 EVI比较研究[J].地理科学进展,2007,26（1）:26－32.[Li Hongjun,Zheng Li,Lei Yuping,et al. Comparison of NDVI and EVI based on EOS/MODIS data[J].Progress in Geography,2007, 26(1) :26 -32.]   \n[13]杨发相.新疆地貌及其环境效应[M].北京;地质出版社, 2011:4-5.[Yang Faxiang. Xinjiang Geomorphology and Its Environmental Effects[M].Beijing:Geology Press,2011:4-5.]   \n[14］朱震达,吴正,刘恕,等.中国沙漠概论[M].北京:科学出版 社,1980:8O-81.[Zhu Zhenda,Wu Zheng,Liu Shu,et al.Introduction to the Chinese Desert[M].Beijing: Science Press,1980: 80-81.]   \n[15］张立运,李振武.塔克拉玛干沙漠和古尔班通古特沙漠植被的 差异初探[J].新疆环境保护,1994,16（1）:1－7.[Zhang Liyun,Li Zhenwu. Study on the diffrences of vegetation in the Taklimakan DesertandGurbantunggut Desert[J].Environmental Protection of Xinjiang,1994,16(1) :1-7.]   \n[16］中国科学院.“绿桥系统\"建设咨询报告（摘要)[J].干旱区研 究,2003,20(3）:161-163.[Chinese Academy of Sciences.Consultation report on the construction of“Green Bridge System” （Abstract)[J].Arid Zone Research,2003,20(3）:161-163.]   \n[17］中国科学院新疆综合考察队,中国科学院植物研究所.新疆植 被及其利用[M].北京:科学出版社,1978:238-242.[Xinjiang Comprehensive Investigation Team,Institute of Botany of CAS. VegetationandItsUtilization in XinjiangM].Beijing:Science Press,1978:238 - 242.]   \n[18］中华人民共和国 $1 : 1 0 0$ 万地貌图集编辑委员会.中华人民共 和国地貌图集(1:100万)[M].北京：科学出版社,2009:37- 40.[Editorial Board of the 1: 1O0 O00 Geomorphological Atlas of the People's Republicof China.The1:1Oo0o Geomorpholgi",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "cal Atlas of the People's Republic of China[M].Beijing:Science Press,2009:37-40.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[19］李明,沈润平,王迪,等.基于像元质量分析的 S-G 滤波重建 MODIS-NDVI[J].生态与农村环境学报,2015,31（3）：425-   \n431.[Li Ming,Shen Runping,Wang Di,et al. Reconstruction of MODIS-NDVI using S-G filtering based on pixel quality analysis [J].Journal of Ecologyand Rural Environment,2015,31(3）:425 -431.] [20]黄耀欢,王建华,江东,等.利用 S-G 滤波进行 MODIS-EVI时间 序列数据重构[J].武汉大学学报（信息科学版）,2009,34 (12）:1 440-1 443,1 513.[Huang Yaohuan,Wang Jianhua, Jiang Dong,et al. Reconstruction of MODIS-EVI time-series data with S-G filter[J].Geomatics and Information Science of Wuhan University,2009,34(12）:1 440-1 443,1 513.] [21]Chen J,Jonsson P,Tamura M,et al.A simple method for reconstructing a high-quality NDVI time-series data set based on the Savitzky-Golay filter[J].Remote Sensing of Environment,2004,91 (3) :332 -344. [22］魏凤英.现代气候统计诊断与预测技术[M].北京：气象出版 社,2007:38-112.[Wei Fengying.Modern Climate Statistical Diagnosis and Prediction Technology[M].Beijing: China Meteorological Press,2007:38-112.] [23］吴洪宝,吴蕾.气候变率诊断和预测方法[M].北京:气象出版 社,2005:208-244.[Wu Hongbao,Wu Lei.Methods for Diagnosing and Forecasting Climate Variability[M].Beijing:China Meteorological Press,2005:208 -244.] [24］武永利,栾青,赵永强,等.近25年山西植被指数时空变化特 征分析[J].生态环境学报,2008，17（6）：2330-2335.[Wu Yongli,Luan Qing,Zhao Yongqiang,et al.Analyses on spatial-temporal change characteristics of NDVI during the past 25 years in Shanxi[J].Ecology and Environment,2008,17（6）: 2 330-   \n2 335.] [25］伍永秋,张健枫,杜世松,等.毛乌素沙地南缘不同活性沙丘土 壤水分时空变化[J].中国沙漠,2015,35(6)：1612-1619. [Wu Yongqiu,Zhang Jianfeng,Du Shisong,et al. Temporal and spatial variationof soil moisture in dunes with diferent vegetation coverage in southern margin of the Mu Us Sandy Land[J]. Journal of Desert Research,2015,35(6):1 612 -1 619.] [26］陈登魁,马超,王夏冰,等.1982—2015 年可可西里 NDVI变化 特征及其气候响应[J].干旱区研究,2018,35(6)：1410-   \n1 417.[Chen Dengkui,Ma Chao,Wang Xiabing,et al.Variation of NDVI and its response to climate change in Hoh Xil during the period of 1982-2015[J].Arid Zone Research,2018,35(6）:1 410 -1 417.] [27］闫峰,吴波,王艳姣.2000—2011年毛乌素沙地植被生长状况 时空变化特征[J].地理科学,2013,33（5）：602-608.[Yan Feng,Wu Bo,Wang YanJiao.Spatial and temporal variations of vegetation growth status in Mu Us Sandy Land in 200o -2011[J]. Scientia Geographica Sinica,2013,33(5）:602-608.] [28］丁佩燕.近15 年古尔班通古特沙漠植被覆盖度时空变化研究 [J].新疆林业,2017（4）:18-21.[Ding Peiyan.Analyseson spatial-temporal change characteristics of vegetation coverage during the past 15 years in the Gurbantunggut Desert[J].Forestry of Xinjiang,2017(4） :18-21.]   \n[29]张扬,楚新正,杨少敏,等.近56a新疆北部地区气候变化特征 [J].干旱区研究,2019,36（1）:212-219.[Zhang Yang,Chu Xinzheng,Yang Shaomin,et al.Climate change in north Xinjiang in recent 56 years[J].Arid Zone Research,2019,36(1）:212-219.]   \n[30］谭娇,丁建丽,张钧勇,等.1961—2014 年新疆北部地区气温时 空变化特征[J].干旱区研究，2018,35（5)：1181-1191. [Tan Jiao,Ding Jianli,Zhang Junyong,et al. Spatiotemporal variation of temperature in north Xinjiang during the period of 1961- 2014[J].Arid Zone Research,2018,35(5):1 181-1 191.]   \n[31]王计军,郭仲军,程复,等.北疆生态功能区降水气温时空变化 及其与NDVI相关性分析[J].林业资源管理,2017（1)：110- 117.[Wang Jijun,Guo Zhongjun,Cheng Fu,et al. Spatio-temporal change in precipitation and surface temperature and their relationships with NDVI of different ecological function zones in north Xinjiang[J].Arid Zone Research,2017(1) :110-117.]   \n[32]普宗朝，张山清，王胜兰，等.近48a新疆干湿气候时空变化特 征[J].中国沙漠,2011,31（6）:1 563-1 572.[Pu Zongchao, Zhang Shanqing,Wang Shenglan,et al.The spatial-temporal variation characteristic of dry-wet climate in recent 48 years in Xinjiang Province,China[J].Journal of Desert Research,2011,31（6）： 1 563 -1 572.]   \n[33］袁素芬,唐海萍.新疆准噶尔荒漠短命植物群落特征及其水热适 应性[J].生物多样性,2010,18(4）:346-354.[Yuan Sufen,Tang Haiping.Patterns of ephemeral plant communities and their adaptations to temperature and precipitation regimes in Dzungaria Desert, Xinjiang[J].Biodiversity Science,2010,18(4）:346-354.]   \n[34]刘强吉，武胜利，房靓，等.古尔班通古特沙漠周边地区气温时 空变化[J].安徽农业科学，2015，43（22）：162-164.［Liu ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Qiangji,Wu Shengli,Fang Liang,etal. Spatial and temporal trends of temperature in Gurbantunggut Desert surrounding area[J]. Journal of Anhui Agricultural Sciences,2015,43(22):162-164.] [35］张立运，陈昌笃.论古尔班通古特沙漠植物多样性的一般特点 [J].生态学报,2001,22（11）:1923-1932.［Zhang Liyun, Chen Changdu.On the general characteristics of plant diversity of Gurbantunggut Sandy Desert[J].Acta Ecologica Sinica,2001,22 (11):1 923 -1932.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[36）贺可，吴世新，杨怡，等.近40a新疆土地利用及其绿洲动态变化[J].干旱区地理,2018,41（6）：1333-1340.[HeKe，WuShixin,Yang Yi,et al.Dynamic changes of land use and oasis inXinjiang in the last 4O years[J].Arid Land Geography,2018,41(6):1 333 -1 340.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[37]王丹，吴世新，张寿雨.新疆20世纪80年代末以来耕地与建 设用地扩张分析[J].干旱区地理,2017，40（1)：188-196. [WangDan,Wu Shixin,Zhang Shouyu.Expansionof both cultivated and construction land in Xinjiang since the late 198Os[J].Arid Land Geography,2017,40(1):188-196.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[38]毛祖美，张佃民.新疆北部早春短命植物区系纲要[J].干旱区研究,1994,11（3）:1-26.［Mao Zumei,Zhang Dianmin.Theconspectus of ephemeral flora in Northern Xinjiang[J].Arid ZoneResearch,1994,11(3):1-26.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[39]钱亦兵，雷加强，吴兆宁.古尔班通古特沙漠风沙土水分垂直 分布与受损植被的恢复[J].干旱区资源与环境，2002，16（4)： 69-74.[Qian Yibing,Lei Jiaqiang,Wu Zhaoning.Vertical distribution of aeolian sandy soil moisture and recovery of damaged vegetation in Gurbantunggut Desert[J].Journal of Arid Land Resources and Environment,2002,16(4）:69-74.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Spatiotemporal Change of EVI in the Gurbantunggut Desert from 20oo to 2018 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "YANG Yi1²，WU Shi-xin¹，ZHUANG Qing-wei1²，NIU Ya-xuan $^ { 1 , 2 }$ (1.StateKeyLboratoryfesertandOasisEcology,XinjangstituteofEologyndGeogaphyhineseAcademyfieces， Urumqi 830011,Xinjiang,China； 2. University of Chinese Academy of Sciences,Beijing 100049,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Based on the MODIS EVI data,the spatiotemporal change of EVIin the Gurbantunggut Desert was studied using theone-dimensional linear regresion analysis,empirical orthogonal function（EOF）and variable coeffcient.Theresults showed that the interannual variation of EVI in the Gurbantunggut Desertfrom 2OOO to 2018 was in a significant increase trend with an increase rate of $0 . 0 1 6 \\ 0 \\cdot \\ ( 1 0 \\mathrm { a } ) ^ { - 1 } ( P < 0 . 0 1 )$ ,and it on fixed dunes, semi-fixed dunes and mobiledunes was also in asignificant increase trend.The variation trend ofEVI in the whole desertand diferent types of the deserts was similar in growth season.From March,EVI increased gradually and reached the highest value during the period from June to July.TheEVI was inan increase in most areas of the Gurbantunggut Desert,especially in the southern and western marginal zones,the increase trend waslowinthe hinterlandof the desert,and theareas with a decreaseofEVI were mainly distributed inthe northern partof the desert. Theareas with high EVIfluctuation were mainly distributed in the southern and western marginal zones of he Gurbantunggut Desert,thefluctuation of EVI was the most significant in the western marginal zone,and it was low inthe hinterland.EVIcan used to reflectthe change of vegetation coverage in the desert with fixedand semi-fixed dunes, and these results have important reference significance for spatial division of regional desert types. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:EVI；spatiotemporal change；empirical orthogonal function （EOF）；Gurbantunggut Desert ",
+        "page_idx": 8
+    }
+]

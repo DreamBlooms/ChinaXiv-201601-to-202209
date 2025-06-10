@@ -1,0 +1,145 @@
+# 铝合金薄板高转速搅拌摩擦焊接头组织与力学性能刘奋军」傅 莉1.2.3 陈海燕1,2.3
+
+1西北工业大学材料学院西安 7100722西北工业大学凝固技术国家重点实验室 西安 7100723西北工业大学陕西省摩擦焊接工程技术重点实验室 西安 710072摘 要采用高转速微型搅拌摩擦焊接工艺实现了 $0 . 8 ~ \mathrm { m m }$ 厚6061-T6 铝合金薄板对接。利用OM、SEM、TEM 及 EBSD 等测试技术探讨了高转速对接头微观组织及力学性能的影响规律。结果表明，高转速焊接6061-T6 薄板时，焊缝表面成型良好，焊缝各区域组织呈连续均匀过渡。与常规搅拌摩擦焊相比，高转速工艺下，焊缝区 $\beta \mathrm { - } \mathrm { M g } _ { 2 } \mathrm { S i }$ 、 $s$ 相 $\mathrm { ( A l _ { 2 } C u M g ) }$ 和 $\mathrm { A l _ { 8 } F e _ { 2 } S i }$ 析出相数量增多，特别是长条状 $\beta { \mathrm { - } } \mathrm { M g } _ { 2 } \mathrm { S i }$ 数量增多，焊缝区显微硬度值明显提升；转速 $8 0 0 0 ~ \mathrm { r / m i n }$ 、焊速 $1 5 0 0 \mathrm { m m / m i n }$ 条件下，接头最大抗拉强度高达 $3 0 1 . 8 \mathrm { M P a }$ ，是母材抗拉强度 $( 3 5 1 . 7 \mathrm { M P a } ) ,$ 的 $8 5 . 8 \%$ ；转速对6061-T6铝合金超薄板高转速搅拌摩擦焊对接接头抗拉强度影响较小，接头断裂模式为脆性断裂为主的韧-脆混合断裂。
+
+关键词 6061-T6 铝合金薄板，高转速，FSW，组织，抗拉强度中图分类号 TG146.2 文章编号 0412-1961(2017)00-0000-00
+
+# Microstructures and Mechanical Properties of Thin Plate Aluminium Alloy Joint Prepared by High Rotational Speed Friction Stir Welding
+
+LIU Fenjun 1, FU Li 1.2.3, CHEN Haiyan 1.2.3
+
+1SchoolofMaterials ScienceandEngineering,NorthwesternPolytechnical University,Xi'an,7o72,China 2 State Key Laboratory of Solidification, Northwestern Polytechnical University,Xi'an,710o72,China   
+3Shaanxi KeyLaboratory ofFriction Welding Technologies,Northwestern Polytechnical University,Xi'an, 710072, China
+
+Correspondent: FU Li, professor, Tel: (O29)88460250, E-mail: fuli $@$ nwpu.edu.cn Supported by National Natural Science Foundation of China (No.5157545O), Key Areas of Innovation Team in Shaanxi Province (No.2O14KCT-12),Natural Science Foundation of Shaanxi Province (No.S2016YFJZO164), Research Fund of the State Key Laboratory of Solidification Processing (NWPU) (No.127-QP-2015).
+
+Manuscript received 2017-01-19，in revised form 2017-05-09
+
+ABSTRACT Aluminium alloys were widely applied in rail transit, ships and aerospace owing to their unique properties,such as low density, high strength and stiffness,outstanding corrosion resistance and low temperature performance. As a type of structure material, aluminium alloy joining was inevitable. However, these alloys were often considered very difficult to weld using traditional fusion welding technique due to the welding seams were often accompanied with metallurgical defects,large deformation and stress.Friction stir welding (FSW),an innovative solid-state welding technology invented at the welding institute (TWI), was seen by designers as an effective joining methods in welding aluminium alloys due to low heat input, small stress-strain and environment friendly. In this work, $0 . 8 \ \mathrm { m m }$ thick plate of 6O61-T6 aluminium alloy was successfully welded by use of high rotational speed fiction stir welding technology. The microstructure and mechanical property of the butt joints prepared by high rotational speed friction stir welding were analysed in detail. The results show that the wel surface topography and excellent bonding interface existed in the nugget zone (NZ） were observed. Both of the microhardness of the weld seam was lower than that of the substrate.The lowest microhardness of the butt joints located between the thermo-mechanically affected zone (TMAZ) and heat affected zone (HAZ). Compared with the conventional rotational speed, the number of $\beta { \mathrm { - } } \mathbf { M } \mathbf { g } _ { 2 } \mathrm { S i }$ 0 $\mathbf { A l } _ { 2 } \mathbf { C u M g }$ and $\mathrm { A l _ { 8 } F e _ { 2 } S i }$ precipitated phases existed in the NZ was more,which made the microhardness in the NZ improved significantly. The rod-shaped precipitates $( \mathrm { M g } _ { 2 } \mathrm { S i } )$ have the greatest influence on the microhardness. The excellent mechanical properties were obtained at the rotational speed of $8 0 0 0 ~ \mathrm { r / m i n }$ and welding speed of $1 5 0 0 \ \mathrm { m m / m i n }$ . The maximum tensile strength was $3 0 1 . 8 ~ \mathrm { M P a }$ which was $8 5 . 8 \%$ of the as-received 6061-T6( $3 5 1 . 7 \mathrm { M P a } , $ . And the toughness-brittleness fracture mode appeared.
+
+KEY WORDS thin plate 6O61-T6 aluminium alloy, high rotational speed, friction stir welding (FS W), microstructure, tensile property
+
+高效节能、安全环保是现代交通运输业、航空航天等领域的主要发展方向，轻量化是实现上述目标的重要途径之一。铝合金具有高的塑性、大的比强度、良好的耐腐蚀性能等特点，被广泛应用到船舶、汽车、轨道交通、飞机等交通工具，特别是通用飞机和无人机。在结构刚度和强度满足的条件下，薄壁铝合金结构件可明显减轻重量，提升飞行能力。传统的加工方式均采用铆接或熔焊。采用铆接加工，制造工艺复杂，成本高且不利于结构减重[1]。采用熔焊，接头常常会出现热裂纹、气孔以及焊后较大的残余应力与变形等缺陷[2.3]。
+
+搅拌摩擦焊接(friction stir welding,FSW)是英国焊接研究所(the welding institute,TWI)于1991年发明的一种新颖而具有潜力的固相焊接方法。与传统铝合金连接技术相比，FSW 热量仅仅使被焊材料达到塑性状态，可有效避免熔焊的冶金缺陷及大的应力应变，且焊接过程无需任何添加材料，可在很大程度上减轻结构件重量[4.5]。目前，铝合金FSW 接头组织与性能方面的研究多集中在 $2 ~ \mathrm { m m }$ 及以上板厚的常规转速[6\~10]。研究者对 $1 ~ \mathrm { m m }$ 厚 6016-T4[11]、5182-H111[12]、5182-H111/6016-T4[13]同质或异质铝合金搅拌摩擦对接焊工艺的研究，揭示了搅拌头轴肩几何形状和工艺参数对塑性金属流动、接头微观组织和力学性能的影响规律。Scialpi 等[14\~16]分别以 $1 . 5 \mathrm { m m }$ 厚 6082-T6和 $0 . 8 \mathrm { m m }$ 厚 2024-T3与6082-T6铝合金为研究对象，探讨了搅拌头几何形貌和工艺参数对对接接头微观组织形貌与力学性能的影响。Murr 等[17]利用透射电镜(TEM)技术对 $4 0 0 ~ \mathrm { r / m i n }$ 转速下 $0 . 6 \mathrm { m m }$ 厚6061铝合金FSW接头析出相分布和微观组织进行了研究。赵慧慧等[18]报道了LF3铝合金薄板高转速 $( 2 5 0 0 0 \mathrm { r / m i n } )$ 搅拌摩擦搭接焊接头微观组织和温度场分布特征。截至目前，尚未见有关高转速对铝合金薄板FSW 对接接头微观组织与力学性能影响规律与机理方面的详细报道。
+
+本工作主要探讨了6061-T6 铝合金薄板的高转速搅拌摩擦焊工艺，揭示高转速对铝合金薄板对接接头微观组织与力学性能的影响规律与机理，以期为高转速FSW技术的工程应用提供理论与实践指导。
+
+# 1实验方法
+
+实验材料为 $0 . 8 \ \mathrm { m m }$ 厚的6061-T6 铝合金板材。采用FSW-TS-F08-DZ 微型台式高转速搅拌摩擦焊机沿母材轧制方向施焊。搅拌头由H13 模具钢加工而成，其主要由三螺旋线型沟槽轴肩和圆锥形搅拌针组成，针长 $0 . 6 5 \mathrm { m m }$ 。搅拌头垂直被焊板材对接面沿顺时针方向无倾角施焊，具体焊接装置及拉伸试样取样如图1所示。焊接参数分别为：高转速焊接时，固定焊速 $1 5 0 0 \mathrm { m m / m i n }$ ，转速分别采用7000、8000、9000、10000和 $1 1 0 0 0 ~ \mathrm { r / m i n }$ ；常规转速焊接时，焊速 $3 0 0 \mathrm { m m / m i n }$ ，转速 $2 0 0 0 \mathrm { r / m i n }$ 。
+
+![](images/0d24bb9440a6d69a4570c6b52866b2b0fe540760351974c9116b3c1e5c4f6048.jpg)  
+图16061-T6铝合金薄板搅拌摩擦焊(FSW)示意图及拉伸试样取样图 Fig.1 Schematic of 6061-T6 friction stir welding (FSW) device (a), pin tool (b) and tensile specimen (c) (RS—retreating side,AS—advancing side,unit: mm)
+
+焊后沿垂直于焊接方向截取微观组织观察试样，采用 $5 \%$ 的氢氟酸水溶液 $( 5 { \mathrm { ~ m L ~ H F } } + 9 5 { \mathrm { ~ } }$ mL $\mathrm { H } _ { 2 } \mathrm { O } )$ 浸蚀金相试样，时间 $2 ~ \mathrm { m i n }$ 。采用MG3光学显微镜(OM)观察焊缝区结合界面形貌及微观组织特征。采用VEGA3LMU 扫描电子显微镜(SEM)及自带的电子背散射衍射(EBSD)系统和Tecnai $\mathbf { G } ^ { 2 } \mathbf { F } 3 0$ 透射电子显微镜(TEM)分别观察对接接头拉伸断口形貌、焊缝区再结晶以及析出相分布特征。EBSD 试样经机械磨抛后，采用高氯酸无水乙醇溶液 $\mathrm { \langle 5 0 \ m L \ H C l O _ { 4 } + }$ $9 5 0 \mathrm { m L } \mathrm { C } _ { 2 } \mathrm { H } _ { 5 } \mathrm { O H } )$ 进行电解抛光，电压 $5 5 \mathrm { V }$ ，抛光时间 $1 5 \mathrm { ~ s ~ }$ 。TEM样品采用机械减薄后电解双喷减薄 $( 2 5 \mathrm { \ m L \ H C l O _ { 4 } } + 4 7 5 \mathrm { \ m L \ C _ { 2 } H _ { 5 } O H } )$ 所得。采用HMV-2型显微硬度计沿横向测试对接接头横截面中心线位置处的显微硬度分布曲线，加载载荷 $1 . 9 6 \mathrm { ~ N ~ }$ ，保压时间 $1 5 \mathrm { ~ s ~ }$ 。在INSTRON3382材料万能试验机上进行对接接头拉伸性能测试，拉伸速率为 $1 \mathrm { m m / m i n }$ 。
+
+# 2实验结果与分析
+
+# 2.1焊缝宏观成型
+
+图2所示为不同转速下，6061-T6铝合金薄板搅拌摩擦对接焊焊缝表面宏观形貌。由图可见，焊缝表面整体成型较好，飞边小且表面无沟槽和裂纹等缺陷。与常规转速相比，高转速FSW时，搅拌头转速和焊速均增加，且转速对产热影响更大，转速增加焊接热输入增大[19,20]。在高转速 FSW 时，紧邻搅拌头轴肩的热塑性材料塑化程度高，在搅拌头高速旋转前进时易在表面形成粘连，最终在搅拌头后方形成表面弧纹较常规FSW模糊且伴有较多毛刺的成型特征。
+
+![](images/392cf0f7a40581efaba068d0127b33212d323e3df8ea24053fbab7cbf66d2d42.jpg)  
+图2不同转速下6061-T6 铝合金薄板FSW 焊缝表面成型宏观形貌Fig.2 Surface morphologies of 6O61-T6 FSW joints obtained at rotational speeds of $2 0 0 0 \mathrm { r / m i n }$ (a)and $8 0 0 0 ~ \mathrm { r / m i n }$ (b)
+
+# 2.2焊缝微观组织
+
+图3所示为不同转速下对接接头宏观形貌。由图可见，常规转速(图3a)和高转速(图3b)下，接头焊缝区均发生轻微减薄，高转速条件下焊缝区部分较母材基体整体发生轻微的挤压变形。焊缝区均存在明显的 Zigzag 结合界面，结合界面由初始板材中心对接位置发生弯曲变形，由板材底部向顶部逐渐偏离至后退侧一侧，而在紧邻焊缝上表面区域初始接触界面消失。高转速下，结合界面偏离至后退侧的距离远大于常规转速。焊接接头由母材区(basematerial，BM)和焊缝区组成，其中焊缝区又由热影响区(heat affected zone，HAZ)，热力影响区(thermo-mechanical affected zone，TMAZ)和焊核区(nugget zone，NZ)组成。热影响区由粗化的等轴晶组成(图4a 和d)，热力影响区由被拉长的变形晶粒和部分等轴晶组成(图 4b 和e)，焊核区组织呈细小的等轴晶(图4c 和f)。高转速FSW下，热影响区和热力影响区之间不存在明显的分界线(图 3b)，且焊缝区长条状或针状 ${ \beta { \mathrm { - } } { \mathrm { M g } } _ { 2 } { \mathrm { S i } } }$ 、圆形 $s$ 相 $( \mathsf { A l } _ { 2 } \mathsf { C u M g } )$ 和矩形$\mathrm { A l _ { 8 } F e _ { 2 } S i }$ 等析出相数量明显多于常规转速，如图5所示。
+
+![](images/8429524b4a2631a25513158afab0417c233c4876238e8a75664e7213af5bfd3e.jpg)  
+图3不同转速下6061-T6铝合金薄板FSW接头宏观形貌
+
+![](images/8f2440ef782fd5ea7e4ed7b42d4ea65a1de4b554e96815419cf52dff39700eb9.jpg)  
+Fig.3 Morphologies of 6O61-T6 FSW joints obtained at rotational speeds of $2 0 0 0 \mathrm { r / m i n }$ (a) and $8 0 0 0 ~ \mathrm { r / m i n }$ (b) (BM—base material, HAZ—heat affected zone,TMAZ—thermo-mechanical affected zone, NZ—nugget zone)   
+图4不同转速下6061-T6铝合金FSW接头微观组织
+
+Fig.4 Microstructures of 6061-T6 FSW joints corresponding to areas of HAZ (a, d), TMAZ (b, e), and NZ (c, f) at $2 0 0 0 \mathrm { r / m i n }$ (a, b, c) and $8 0 0 0 ~ \mathrm { r / m i n }$ (d, e,f)
+
+![](images/f97d1911beb6971a5de9476ec02936b94c1247ea8eb2b071742883039c20fb4e.jpg)  
+图5不同转速下6061-T6铝合金FSW接头析出相形貌及分布明场像 Fig.5 Bright field images of precipitated phases morphology and distribution of HAZ (a, c) and NZ (b, d) obtained at $2 0 0 0 \mathrm { r / m i n }$ (a, b) and at $8 0 0 0 ~ \mathrm { r / m i n }$ (c,d),respectively
+
+FSW 过程中，焊缝区金属在摩擦热和塑性变形热的共同作用下发生软化，热塑性金属在搅拌头旋转摩擦剪应力作用下发生旋转流动。初始接触界面在搅拌头搅拌破碎及相邻塑性金属流动剪切力的破碎作用下，随塑性金属由前进侧绕流至后退侧并在其后方沉积。这样在焊缝区后退侧形成了Zigzag 结合界面。
+
+FSW时的热输入可用下式表示[19]：
+
+$$
+Q = \frac { 2 } { 3 } \pi ( \delta \tau + ( 1 - \delta ) \mu p ) \times \omega ( ( R _ { s } ^ { 3 } - R _ { p } ^ { 3 } ) ( 1 + \tan \alpha ) + R _ { p } ^ { 3 } + 3 R _ { p } ^ { 2 } H _ { p } )
+$$
+
+式中， $\boldsymbol { Q }$ 为热输入， $\delta$ 为接触状态变量， $\tau$ 为焊接温度下材料屈服应力， $\mu$ 为摩擦系数， $p$ 为接触界面压力， $\omega$ 为角速度， $R _ { s }$ 为轴肩半径， $R _ { p }$ 为搅拌针半径， $\boldsymbol { a }$ 为轴肩内凹角度， $H _ { p }$ 为搅拌针长度。
+
+由式(1)可见，当其余焊接规范不变，FSW 焊接过程的热输入将随搅拌头转速增加而增大。高转速FSW下，焊缝区热输入增加明显，使得被焊材料软化区域变宽，热塑性金属随搅拌头旋转流动的作用区域变大，热塑性金属由前进侧绕流回填至后退侧挤压成型过程中，将在焊缝区后退侧形成较大半径的挤压变形层，导致对接接头结合界面偏离焊核区中心位置的现象更加明显。此外，焊缝区热输入增加，接头温度分布梯度减小，热影响区和热力影响区过渡区域的组织趋于小梯度连续过渡[21]，在热影响区和热力影响区之间形成不明显的结合界面，如图4e所示。这是由于高转速下焊缝区发生了明显的动态再结晶(图6)，且焊缝各区域再结晶组织在大的热循环作用下趋于连续过渡。从热影响区到焊核区的再结晶晶粒数量逐渐增加，变形晶粒逐渐减小，亚晶在焊核区和热力影响区略大于热影响区，如图7所示。FSW过程中，焊核区经历的热机搅拌作用最强、热力影响区次之。强烈地热变形作用使得焊核区形成大量的小角晶界，小角晶界迁移形成亚晶界，亚晶界在足够的热作用条件下又会发生长大和合并而形成再结晶晶粒[21]。这样在焊核区就形成了以再结晶晶粒为主、亚晶次之、变形晶粒最少的晶粒分布特征(图7)。而在热力影响区，热变形作用减弱，部分变形晶粒通过动态再结晶形成再结晶晶粒，部分晶粒则通过形成小角度晶界及晶界迁移而形成亚晶，最终在热力影响区形成再结晶晶粒、亚晶和变形晶粒数量相当的晶粒分布特征(图7)。在热影响区，该区域仅经历了热循环作用，因此，该区域未发生再结晶，主要由基体的变形晶粒组成。再结晶晶粒、亚晶和变形晶粒在焊缝各区域的连续梯度过渡使得高转速FSW下焊缝各区域组织趋于均匀，结合界面不明显。
+
+对6xxx系可热处理铝合金FSW而言，析出相溶解与粗化过程主要受焊接热循环影响。研究表明，搅拌头转速超过 $9 0 0 \mathrm { \Delta r / m i n }$ 时，析出相溶解现象发生[22]。采用高转速FSW工艺焊接 6061-T6铝合金薄板时，高转速产生大的焊接热输入，使得焊缝区高温停留时间相对延长，焊缝区 $\beta { \mathrm { - } } \mathbf { M } \mathbf { g } _ { 2 } \mathbf { S } \mathbf { i }$ 、 $\mathbf { A l } _ { 2 } \mathbf { C u M g }$ 和 $\mathrm { A l _ { 8 } F e _ { 2 } S i }$ 等析出相在加热阶段溶解充分；在随后的冷却阶段，析出相又重新大量析出，因此，高转速下焊缝区析出相数量明显多于常规转速，如图5所示。
+
+![](images/94afcb16f5136ccd697f98a3ac6b5c9181b0d08feba195b302420e1f6b613112.jpg)  
+图6转速 $8 0 0 0 ~ \mathrm { r / m i n }$ 下6061-T6铝合金FSW接头不同区域(图3b)晶粒分布特征Fig.6 Grain morphology maps of 6O61-T6 FSW joints corresponding to Fig.3b(a) region 1 (NZ)，(b) region 2(TMAZ)，(c) region 3 (HAZ)
+
+![](images/ec3a67ce677c047f983a0cb0ae4e1ee4c78458cb4c69da2742e7ea70a9edf4ab.jpg)  
+图7图6中6061-T6铝合金FSW接头不同位置处晶粒分布 Fig.7 Fraction of different grain type in 6O61-T6 FSW joints corresponding to Fig.6
+
+# 2.3接头显微硬度
+
+图8为不同转速下，6061-T6铝合金薄板FSW对接接头沿焊缝区横截面显微硬度分布曲线。由图可见，对接接头显微硬度均呈“W”型分布，与其它可热处理强化铝合金FSW接头显微硬度分布相似[23]。焊缝区显微硬度低于母材，硬度最低区出现在热力影响区与热影响区的过渡区域。由图可看出，高转速时，6061-T6 铝合金薄板FSW 焊缝区显微硬度值明显升高，且沿横截面硬度分布均匀性提高。
+
+![](images/ce8a6a40ce3f06e8726fcc336cafab9ab52049e22e40673966eb43773a7fb9ff.jpg)  
+图8不同转速下6061-T6铝合金FSW接头显微硬度分布 Fig.8 Microhardness distributions of 6O61-T6 FSW joints along the transverse to the weld center
+
+对于6061-T6 可热处理铝合金而言，显微硬度与其组织中晶粒尺寸和析出相的几何形状、尺寸大小和分布等密切相关，且受长条状或针状析出相 $\beta { \mathrm { - } } \mathbf { M } \mathbf { g } _ { 2 } \mathbf { S } \mathbf { i }$ 影响较大[24,25]。从图5可见，高转速下，6061-T6铝合金薄板FSW接头热影响区和焊核区长条状 $\beta { \mathrm { - } } \mathrm { M g } _ { 2 } \mathrm { S i }$ 、圆形S相 $( \mathsf { A l } _ { 2 } \mathsf { C u M g } )$ 和矩形 $\mathrm { A l _ { 8 } F e _ { 2 } S i }$ 等析出相数量较常规转速FSW接头明显要多，尤其是长条状$\beta { \mathrm { - } } \mathbf { M } \mathbf { g } _ { 2 } \mathbf { S } \mathbf { i }$ 和圆形S相(图5c和d),因而导致高转速下6061-T6 铝合金薄板FSW接头焊缝区显微硬度值较常规转速FSW接头明显提高。热影响区析出相数量较焊核区多，然而显微硬度值却略低于焊核区是因为焊核区发生了动态再结晶形成了细小的晶粒及高密度小角晶界，如图9所示，使得显微硬度有所回升。表明高转速FSW下，6061-T6铝合金薄板FSW 焊缝区软化程度明显减轻。
+
+![](images/ce51501bfea671bcdeef291c74f9826c23026dfc7551f73449ea9cebfd2b5b9d.jpg)  
+图9转速 $8 0 0 0 ~ \mathrm { r / m i n }$ 下 6061-T6铝合金薄板FSW 接头焊核区晶界分布 Fig.9 EBSD grain-boundary maps showing the grain structure in the NZ of 6O61-T6 FSW joint obtained at $8 0 0 0 ~ \mathrm { r / m i n }$
+
+# 2.4接头拉伸性能
+
+表1为不同转速下6061-T6铝合金薄板FSW对接接头力学性能。由表可见，高转速下对接接头的拉伸性能均优于常规转速，均达到母材的 $80 \%$ 及以上。焊速为 $1 5 0 0 \mathrm { m m / m i n }$ ，搅拌头转速 $8 0 0 0 ~ \mathrm { r / m i n }$ 时，对接接头的整体拉伸性能最优，抗拉强度、屈服强度和延伸率分别达到母材的 $8 5 . 8 \%$ 、 $7 3 . 0 \%$ 和 $2 5 . 1 \%$ ；当搅拌头转速达到 $1 1 0 0 0 \mathrm { r / m i n }$ 时，焊接接头拉伸性能略有下降。对接接头拉伸试样均断裂在前进侧热力影响区与热影响区的过渡区域，如图10a所示。拉伸试样断口分析表明，高转速下断口整体形貌较平整(图10b)，断口存在较大的剪切唇，剪切楞上分布着深浅不同的韧窝，焊接接头呈现准解理断裂特征。
+
+表16061-T6母材及不同转速下FSW对接接头拉伸性能  
+Table 1 Tensile properties of 6O61-T6 and FSW butt joints with different rotational spee(   
+
+<html><body><table><tr><td>@ / (r·min-1)</td><td>𝑣 / (mm·min-1)</td><td>OUTs /MPa</td><td>Oys /MPa</td><td>81%</td></tr><tr><td>0</td><td>0</td><td>351.7</td><td>296.8</td><td>21.5</td></tr><tr><td>2000</td><td>300</td><td>239.0</td><td>179.2</td><td>4.80</td></tr><tr><td>7000</td><td>1500</td><td>289.4</td><td>207.8</td><td>4.88</td></tr><tr><td>8000</td><td>1500</td><td>301.8</td><td>216.6</td><td>5.39</td></tr><tr><td>9000</td><td>1500</td><td>300.8</td><td>213</td><td>5.44</td></tr><tr><td>10000</td><td>1500</td><td>292.6</td><td>205.7</td><td>5.31</td></tr><tr><td>11000</td><td>1500</td><td>292.2</td><td>201.8</td><td>5.49</td></tr></table></body></html>
+
+Note: $\omega$ rotational speed,u—welding speed, Outs—ultimate tensile strength, δYs-yield strength,δ—elongation
+
+![](images/7738440bf3d27109e18df835c679e105448d0a46f63d73fc6e0566665dfff6eb.jpg)  
+图10转速 $8 0 0 0 ~ \mathrm { r / m i n }$ 下6061-T6铝合金FSW接头拉伸断口形貌 Fig.1O Fractographies of 6O61-T6 FSW joint obtained at $8 0 0 0 ~ \mathrm { r / m i n }$ after tensile test (a) and magnified morphologies of area A in Fig.1Oa (b) (Inset shows the fracture position)
+
+通常情况下，进行铝合金薄板常规转速FSW时，由于散热速度快导致焊接热输入不足，焊缝区易形成弱连接缺陷[26]。通过降低焊速增加焊接热输入以获得无缺陷焊接接头时，又会引起焊缝区严重软化(图8)。采用高转速FSW时，高转速对应快焊速，高转速保证了焊接热输入使析出相在加热阶段充分溶解，而快焊速加快了冷却速率，抑制了析出相在冷却阶段的析出和粗化过程，接头软化程度较常规转速明显减轻(图8)，从而使高转速下6061-T6 铝合金薄板FSW接头的抗拉强度达到常规转速时的1.26倍，具有更为优良的力学性能。
+
+# 3结论
+
+(1）实现了 $0 . 8 \mathrm { m m }$ 厚6061-T6铝合金薄板对接接头的高转速FSW焊接，焊缝成型美观，结合界面良好。 $8 0 0 0 ~ \mathrm { r / m i n }$ ， $1 5 0 0 \mathrm { m m / m i n }$ 时焊接接头力学性能最优，其抗拉强度可达301.8$\mathbf { M P a }$ ，约是常规转速的 $12 6 . 3 \%$ ，为母材的 $8 5 . 8 \%$ 。(2)6061-T6铝合金薄板高转速FSW接头焊核区主要由等轴再结晶晶粒和亚晶组成，热力影响区由等轴再结晶晶粒和亚晶以及被拉长的变形晶粒组成，热影响区主要由变形晶粒以及少量的再结晶晶粒和亚晶组成；接头各区域晶粒呈连续小梯度过渡。(3）6061-T6 铝合金薄板高转速 FSW 接头焊缝区长条状 $\beta \mathrm { - } \mathbf { M } \mathbf { g } _ { 2 } \mathbf { S } \mathrm { i }$ 、圆形 $s$ 相 $( \mathsf { A l } _ { 2 } \mathsf { C u M g } )$ （204号和矩形 $\mathrm { \bf A l _ { 8 } F e } _ { 2 } \mathrm { \bf S i }$ 析出相数量明显多于常规转速FSW接头，接头软化程度降低，显微硬度值较高，沿横截面硬度分布均匀性较好。
+
+# 参考文献
+
+[1] Rhodes CG,MahoneyMW,Bingel W H.Efects of friction stir welding on microstructure of 7O75 aluminum   
+[J]. Scr. Mater.,1997,36: 69   
+[2] Silvada AAM, Arruti E,Janeiro G, et al.Material flow and mechanical behaviorof dissimilar AA2024-T3   
+and AA7075-T6 aluminium alloys friction stir welds [J].Mater.Des.,2011,32: 2021   
+[3] MishraR S,Ma Z Y.Friction stir welding and processing [J]. Mater. Sci. Eng.,2OO5,R50: 1   
+[4] ThreadgillPL,LeonardAJ,ShercliffHR,et al.Friction stir welding of aluminium aloys [J].Int.Mater.Rev,   
+2009,54: 49   
+[5] Nandan R,DebRoy T,Bhadeshia HKD H.Recent advances in friction stir welding-Process,weldment   
+structure and properties [J].Prog.Mater. Sci.,2008,53: 980   
+[6] Wang T,Zou Y,Matsuda K.Micro-structure and micro-textural studies of friction stir welded AA6061-T6 subjected to different rotational speeds [J]. Mater. Des.,2016,90: 13   
+[7] LIUF C,MA Z Y. Influence of Tool dimension and welding parameters on microstructure and mechanical properties of friction stir welded 6061-T651 aluminum aloy[J]. Metall Mater.Trans.,2008,39A: 2378 [8] Guo JF, Chen HC,Sun CN,et al. Friction stir welding of dissimilar materials between AA6O61 and AA7075 Al alloys effects of process parameters [J]. Mater.Des.,2014,56: 185   
+[9] Liu H J, Hou JC, Guo H. Effect of welding speed on microstructure and mechanical properties of self-reacting friction stir welded 6061-T6 aluminum alloy [J]. Mater. Des.,2013,50: 872   
+[10] He C,Liu YJ, Dong JF, et al. Through thickness property variations in friction stir welded AA6061 joint fatigued in very high cycle fatigue regime [J]. Int. J. Fatigue.,2016,82: 379   
+[11] Rodrigues DM,Loureiro A,Leitao C, et al. Influence offriction stir welding parameters on the   
+microstructural and mechanical properties of AA 6016-T4 thin welds [J]. Mater. Des.,2009,30: 1913   
+[12] Galvao I,Leitao C,Loureiro A, et al.Friction stir welding of very thin plates [J].Soldag.Insp.Sao.Paulo., 2012,17: 002   
+[13]Leal RM,Leitao C,LoureiroA,etal.Materialflowin heterogeneous friction stir weldingofthinaluminium sheets: Effect of shoulder geometry [J]. Mater. Sci. Eng.,2008,A498: 384   
+[14] Scialpi A,De Filippis L AC, Cavaliere P.Influenceof shoulder geometry on microstructure and mechanical properties of friction stir welded 6082 aluminium alloy[J]. Mater. Des., 2007,28: 1124   
+[15]De Giorgi M, Scialpi A,Panella FW,et al. Effect of shoulder geometryon residual stress and fatigue properties of AA6082 FSW joints [J]. J. Mech. Sci. Technol.,2009,23: 26   
+[16] Scialpi A,De Giorgi M,De Filippis L AC,et al. Mechanical analysis of ultra-thin friction stir welding joined sheets with dissimilar and similar materials [J]. Mater.Des.,20o8,29: 928   
+[17]Murr L E,Liu G, Mcclure JC.A TEM study of precipitation and related microstructures in friction stir welded 6061 aluminium [J]. J. Mater. Sci.,1998,33: 1243   
+[18] Zhao HH,Feng X S, Xiong Y Y,et al. Microstructure and properties of micro friction stir welded joint of Al-alloy ultra thin plate with zero tilt angle[J]. Trans. China. Weld. Inst.,2014,35: 47   
+(赵慧慧，封小松，熊艳艳等．铝合金超薄板无倾角微搅拌摩擦焊接头组织性能[J]．焊接学报,2014,35:47) [19] Schmidt H, Hatel J, Wert J. An analytical model for the heat generation in friction stir welding [J]. Model. Simul. Mater. Sci. Eng., 2004,12: 143   
+[20] Schmidt HB, Hattel JH. Thermal modelling of friction stir welding [J]. Scr. Mater.,2008,58: 332 [21] Chen HY,FuLi,Liang P.Microstructure,texture and mechanical properties offriction stir welded but joints of 2A97 Alsingle bondLi alloy ultra-thin sheets [J]. J. Alloys. Compd.,2017, 692: 155   
+[22] Malopheyev S，Vysotskiy I，Kulitskity V，Mironov S,Kaibyshev R. Optimization of procesingmicrostructure - properties relationship in friction-stir welded 6o61-T6 aluminum alloy[J]. Mater.Sci. Eng.,2016, A662: 136   
+[23] LiuFJ,FuL, Zhang W Y,etal. Interface structure and mechanical properties of friction stir welding joint of 2099-T83/2060-T8 dissimilar Al-Li alloys [J]. Acta. Metall. Sin.,2015, 51: 281   
+(刘奋军，傅 莉，张纹源等.2099-T83/2060-T8异质Al-Li合金搅拌摩擦焊搭接界面结构与力学性能[J]．金属 学报,2015,51: 281)   
+[24] Yutaka S S,Hiroyuki K,Masatoshi E,et al. Microstructural evolution of 6O63 aluminum during friction-stir welding [J]. Metall. Mater.Trans.,1999,30A: 2429   
+[25] Yutaka S S,Mitsunori U, Hiroyuki K,et al. Hall-Petch relationship in friction stir welds of equal channel angular-pressed aluminium alloys [J].Mater. Sci. Eng.,20o3,A354: 298   
+[26] Sattri S,Bisadi H, Sajed M.Mechanical properties and temperature distribution of thin friction stir welded sheets of AA5083 [J]. Int. J. Mech. Appl.,2012, 2: 1

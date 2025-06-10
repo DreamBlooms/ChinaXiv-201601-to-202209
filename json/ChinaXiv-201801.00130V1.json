@@ -1,0 +1,423 @@
+[
+    {
+        "type": "text",
+        "text": "Influences of calcium silicate on chemical forms and subcellular distribution of cadmium in Amaranthus hypochondriacus L. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huanping Lu1, ², Zhian Li²\\*， Jingtao $\\mathrm { \\sf W u } ^ { 2 }$ ， Yong Shen³, Yingwen $\\mathrm { L i } ^ { 2 }$ Bi $Z \\mathrm { o u } ^ { 2 }$ ，Yetao Tang4, Ping Zhuang2,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "lGuangdong Ecological Meteorology Center, Guangzhou 510080, PR China   \n²Key Laboratory of Vegetation Restoration and Management of Degraded Ecosystems， South China Botanical Garden， Chinese Academy of Sciences, Guangzhou 510650, PR China   \n3Department of Ecology, School of Life Sciences/State Key Laboratory of Biocontrol, Sun Yat-sen University, Guangzhou 510275,PR China   \n4School of Environmental Science and Engineering, Sun Yat-sen University, Guangzhou 510275,PR China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Prof. Zhian Li, E-mail: lizan@scbg.ac.cn； Tel.: $+ 8 6$ 20 37252631; Fax: $+ 8 6$ 2037252905 or Dr. Ping Zhuang, zhuangp@scbg.ac.cn.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A pot experiment was conducted to investigate the effects of calcium silicate (CS) on the subcellular distribution and chemical forms of cadmium (Cd) in grain amaranths (Amaranthus hypochondriacus L. Cv. 'K112') grown in a Cd contaminated soil. Results showed that the dry weight and the photosynthetic pigments contents in grain amaranths increased significantly with the increasing doses of CS treatments, with the highest value found for the treatment of CS3 ( $( 1 . 6 5 ~ \\mathrm { g / k g ) }$ . Compared with the control, application of CS4 $( 3 . 3 1 ~ \\mathrm { g / k g } )$ significantly reduced Cd concentrations in the roots, stems and leaves of grain amaranths by $68 \\%$ ， $87 \\%$ and $89 \\%$ ，respectively. At subcellular level, CS treatment resulted in redistribution of Cd, higher percentages of Cd in the chloroplast and soluble fractions in leaves of grain amaranths were found, while lower proportions of Cd were located at the cell wall of the leaves. The application of CS enhanced the proportions of pectate and protein integrated forms of Cd and decreased the percentages of water soluble Cd potentially associated with toxicity in grain amaranths. Changes of free Cd ions into inactive forms sequestered in subcellular compartments may indicate an important mechanism of CS for alleviating Cd toxicity and accumulation in plants. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: silicate， cadmium， Amaranthus hypochondriacus L.， subcellulardistribution, chemical form.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cadmium (Cd), one of the most typical deleterious metals widely present in farmland soils,has the features of high toxicity， mobility and bioavailability1,2. Cadmium in soils is easily absorbed by plants³. It is suggested that the critical leaf concentration for toxicity of Cd is $5 { \\mathrm { - } } 1 0 ~ \\mathrm { m g / k g }$ (based on dry mass) for most of plants4. Cadmium in plants may easily cause physiological, biochemical, morphological and structural changes in growing plants ultimately leading to reduction in productivity5. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To mitigate the problem of Cd uptake by plants,especially by food crops, remediation approaches involving Cd immobilization in soil are receiving increasing attention. Some nontoxic amendments have been added into soils to reduce the mobility and availability of Cd in soils through precipitation， adsorption or complexation with organic matters6. Several siliceous materials have been proven to be beneficial in mitigating Cd toxicity or reduction of Cd accumulation of many plants (either monocotyledonous7.8 or dicotyledonous9,10). In our previous research, we found calcium silicate (CS) is one of the promising potential candidate amendments for reducing heavy metal accumulation, providing an alternative immobilization remediation technique for soils polluted by heavy metals. We have noticed that the application of CS can lead to a redistribution of Cd to less mobile forms and reduce Cd uptake by plants due to its effect on soil pH regulation1o. The liming effects of CS promote negative charging of soil surface, leading to an increase of adsorption capacity for $\\mathrm { C d ^ { 1 1 } }$ . Monosilicic acid generated as a result of the $\\mathrm { H } ^ { + }$ neutralization ability of silicate anion could complex with heavy metals in the soil solution to form slightly soluble or insoluble metal compounds of silicates12.In addition to the positive effect of silicate ion in soil, CS also supply calcium which is an important nutrient for plants growth and reduce plants Cd uptake by competing ion channels with $\\mathrm { C d } ^ { 1 3 , 1 4 }$ . ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "However, there is still not sufficient evidence to clarify the mechanism of inhibitory effect of CS on Cd accumulation in plants15. How CS might affect heavy metal distribution and detoxification in plants remains uncertain, like the modification of the subcellular distribution and chemical forms of Cd in plants. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In general, changes in subcellular distribution and chemical forms of heavy metals were proven to be closely linked to metal accumulation and tolerance in plants16.17. Weng et al.18 reported that most Cd was localized in the cell wall and the lowest amount was in the membrane of Kandelia obovata.In the cases of lettucel9and ramiel6，large fractions of Cd were found in the cell wall fraction. It has been documented that inorganic and water-soluble organic Cd, which can be extracted by $80 \\%$ ethanol and deionized water respectively, has greater likelihood of migration than the other extracted forms and metals binding to pectates, phosphates, oxalates and residuals are less toxic to plants16,20. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Amaranthus hypochondriacus L. is a source of food in many temperate and tropical countries,and also is cultivated as a high quality forage or silage crop with abundant nutrition²1,and is found to be capable of accumulation of high concentration of Cd in our previous study22. Studying the effects of amendments on Cd uptake by this widely consumed crop cultivated on heavy metals contaminated soil is of great importance for improvement of soil remediation technology. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Therefore, in the present study, we investigate the effects of calcium silicate on the growth and subcellular Cd accumulation of grain amaranths grown in Cd contaminated soil. We also examined the changes of chemical forms of Cd in grain amaranths with different CS addition dosages. Our results elucidate the possible mechanism of CS on Cd uptake and resistance ingrain amaranths,and provide new insights into the efficiency of CS-induced immobilization of heavy metals in soils. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Plant Growth and Chlorophyll contents. The biomass of grain amaranths increased with the increasing level of silicate application, reaching the maximum values under CS3 treatment (Fig. 1). Compared to the control (CSO), an addition of $1 . 6 5 ~ \\mathrm { g / k g }$ CS (CS3) to soil increased the dry weights of roots, stems and leaves of grain amaranths by $8 5 \\%$ ， $88 \\%$ and $64 \\%$ , respectively. However, there was no further growth promoting effect from increasing the CS addition from 1.65 to $3 . 3 1 ~ \\mathrm { g / k g }$ (CS4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Application of CS greatly influenced the chlorophyll contents with the highest chlorophyll contents in CS3 treated plants (Fig. 2). By addition of $1 . 6 5 ~ \\mathrm { g / k g }$ CS into soil, the Chl a, Chl b, Chl $( \\mathsf { a } + \\mathsf { b } )$ and Car contents in leaves of grain amaranths were $56 \\%$ ， $49 \\%$ ， $68 \\%$ and $5 5 \\%$ higher than that of the control plants，respectively. However, there was no significant difference in chlorophyll value of grain amaranths between the highest rate of CS4 and the control. Unlike the change of pigment contents, different CS treatments did not showed statistically significant effects on Chl (a/b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Concentration of Cd. Cadmium concentrations in grain amaranths decreased with the increasing doses of CS application, with the lowest value at the rate of $3 . 3 1 ~ \\mathrm { g / k g }$ CS (Fig. 3). Cadmium concentrations in roots, stems and leaves of grain amaranths in CS4 treatment were $68 \\%$ 0 $87 \\%$ and $89 \\%$ , respectively, lower than that of the control. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Subcellular distribution of Cd. Table 1 summarized the subcellular distribution of Cd in leaves and roots of grain amaranths. The results showed that a majority of the Cd was located in the cell wall and soluble fractions. Partitioning of Cd among all fractions in leaves followed the pattern of: soluble fraction (FIV, $5 2 \\mathrm { - } 6 4 \\%$ $>$ cell wall (FI, $2 4 - 3 9 \\%$ ） $>$ chloroplast (FII, $6 . 4 \\mathrm { - } 1 2 \\%$ ） $>$ membrane and organelle containing fraction (FIII, $2 . 6 { - } 4 . 2 \\%$ ),while in roots, the order changed slightly to cell wall (FI, ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$3 8 \\mathrm { - } 4 4 \\% ) >$ soluble faction (FIV, $2 8 - 3 7 \\%$ $>$ trophoplast (FII, $1 6 - 2 2 \\% ) >$ membrane and organelle containing fraction (FII, $6 . 0 - 7 . 1 \\%$ ） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Application of CS resulted in redistribution of Cd in grain amaranths. In leaves, the percentage of cell-wall-bound Cd decreased due to CS addition, while those of chloroplast and soluble fractions showed a tendency to increase. Especially for cell wall fraction, the percentage of Cd significantly decreased from $3 9 \\%$ (CSO) to $24 \\%$ (CS3). However, the percentage distribution of Cd in subcellular root tissues was not significantly different between treatments. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Chemical forms of Cd. Cadmium concentrations of different chemical forms in grain amaranths decreased with the increasing levels of CS addition (Table 2). The predominant forms of Cd were extracted by 1M NaCl in both leaves and roots. In leaves, the average proportion of the 1M NaCl extractable Cd was $56 \\%$ of the total Cd amount, followed by $2 \\%$ HAC and $\\mathrm { \\ d { - } H _ { 2 } O }$ ， with the residual forms of Cd being the lowest. In roots,Cd extracted by 1M NaCl accounted for $82 \\%$ of the total Cd, followed by that of ${ \\mathrm { d } } { \\mathrm { - } } { \\mathrm { H } } _ { 2 } { \\mathrm { O } }$ , and the residues had the lowest Cd. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The application of CS changed the percentage composition of Cd chemical forms in grain amaranths by elevating the proportion of 1M NaCl, $80 \\%$ ethanol, 0.6 M HCl extractable Cd and the residual form in both leaves and roots, but lowering those of the forms extracted by $\\mathrm { \\ d { - } H _ { 2 } O }$ and by HAC. Especially in leaves of CS4 treated plants, significantly increased percentages of 1M NaCl (from $46 \\%$ to $67 \\%$ ）and $80 \\%$ ethanol (from $2 . 6 \\%$ to $6 . 5 \\%$ ） extractable Cd, as well as slight increases in those of O.6 MHCl extracted and residual forms, were observed, while remarkable decreased proportions of ${ \\mathrm { d } } { \\mathrm { - } } { \\mathrm { H } } _ { 2 } { \\mathrm { O } }$ (from $21 \\%$ to $5 . 0 \\%$ ）and HAC(from $28 \\%$ to $1 9 \\%$ ） extractable forms of Cd were found. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Calcium silicate (CS） is known as an agricultural liming material usually used to regulate soil physical, chemical and biological properties23. Studies have now shown the beneficial effects of CS on the growth and alleviation of biotic and/or abiotic stresses of plants24-27.In the present study， the dry weight of grain amaranths significantly increased and reached a maximum value when CS was added at the rate of $1 . 6 5 \\mathrm { g / k g }$ (Fig.1). However, its rational utilization involving maximum eficiency of resources is of great importance²4. The biomass of the grain amaranths did not decrease at the rate of $3 . 3 1 ~ \\mathrm { g / k g ~ C S }$ , revealing that the promoting effect of CS on the growth of grain amaranths might have reached a maximum critical value. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Leaf chlorophyll contents provide valuable information about photosynthesis intensity and physiological status of plants, whereas Cd accumulation in plants may decrease pigment content and restrain photosynthesis of plants28.29. Application of CS has been shown to enhance the chlorophyll content of grain amaranths cultivated in a Cd contaminated soil (Fig. 2). Similar findings have been found in the study of Bokhtiar et al.24 who observed positive effects of CS fertilizer on photosynthesis, respiration and the growth of sugarcane. However， chlorophyll contents of grain amaranths returned to the same level as those of untreated control when CS was added at a high concentration $( 3 . 3 1 \\mathrm { ~ g ~ } \\mathrm { S i / k g }$ Soil,CS4 treatment)， indicating an optimal application amount of CS for maximum plants growth efficiency may exist between the rate of 1.65 and $3 . 3 1 ~ \\mathrm { g / k g }$ CS.There is increasing evidence that silicon can mitigate the heavy metals damage in photosynthetic system of plants such as barley30, cucumber³1 and cotton³2. Silicate addition was reported to increase phosphate desorption in soil and increase plants uptake of phosphate³³ which contributes to pigments biosynthesis34. Simultaneously, calcium (Ca) is an important factor affecting photosythesis process. Calcium is a structural component of photsystem II and is closely linked to photosynthesis through moderating processes such as Calvin Benson-Bassham cycle35. Cadmium-induced photosynthetic system damage was reported to be rehabilitated by exogenous Ca as well6.37. It was suggested that exogenous application of Ca alleviate Cd-induced impairment in plant parts by increasing membrane integrity and re-stabilized Ca-mediated signalling inside the plants38. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It has been proven that proper CS supplies can reduce Cd accumulation in plants9. The beneficial effects of silicate on reducing heavy metals uptake by plants has been first atributed to the effects of silicate ion in soil and Si accumulated in plants7.40. Application of CS significantly increased soil pH and reduced available Cd in soil (see supplementary Fig. S1). Silicate ion is one of the important factors as it is the critical ion in soil pH regulation24. Moreover, the heavy metal immobilizing effect of CS has been atributed to the ability of silicate to transform heavy metals from soluble form into insoluble metal compounds of silicate41,42. In plants, it was suggested that Si deposition might cause the thickening of the cell walls of epidermis, endodermis (Casparian strips） and vascular cylinder, resulting in the restriction of apoplasmic transport of $\\mathrm { C d } ^ { 4 3 }$ . However, our previous study found that higher Si in plants did not always result in lower plant Cd concentrations10. Silicon in plants may play a major role in allviating metals stress and achieving cell detoxification10. 42. Besides, available mineral nutrients (Ca, Mg, K, Cu, Zn)/available Cd concentration ratios were increased with increasing CS addition， especially for available Ca/available Cd ratio (see supplementary Table S1)， implying relatively higher concentrations of cations into soil solution to compete with Cd and reduce Cd competitiveness on root surface for plant uptake due to soil pH change and introduction of exogenous $\\mathrm { C a } ^ { 1 3 }$ . However, how CS might modify Cd distribution and ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "detoxification in plants remains uncertain. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Subcellular localization can help with the understanding of the mechanisms of heavy metals accumulation, transport and detoxification in plants16. After uptake by the plants,heavy metal detoxification is achieved by chelation and sequestration by organo-ligands at a subcellular level44. The function of vacuoles in metal compartmentalization and the affinity of cell walls for heavy metals play an important role in metal detoxification and tolerance of plants45.46. In this study, most of the Cd was localized at cell wall and soluble fractions (Table 1),which was consistent with the results of most recent studies. In barleys47, pokeweed2° and pea plants45, the largest ratio of Cd was accumulated in the soluble fraction, followed by the cell wall fraction, while maize45, ramie16 and alfalfa48 accumulated more Cd in the cell wall compartment than in the soluble fraction.The differences of Cd subcellular distribution between plants may be due to the distinct Cd treatment levels in different experiments and also to the variation of Cd tolerance of different plants49. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "An important finding in this study is that an alteration of Cd subcellular distribution in grain amaranths was resulted from the application of CS, revealing an important mechanism of CS amelioration of metal stress in plants (Table 1). Cell wall is the first protective barrier to prevent invasion of heavy metals into cell50, followed by plasma membrane which is the first“living” structure that is target of heavy metals toxicity51. In the present study, the proportion of the cell wall-bound Cd in leaves of grain amaranths was reduced due to various CS treatments,whereas there was no percentage change of Cd in membrane and organelle containing fraction in leaves and in all fractions of roots (Table 1)，which may indicate a restriction on Cd transportation from root to shoot. Silicon is not only a cell wall incrustation responsible for the rigidity of cells in leaves of monocots,but also found to precipitate in dicots and involved in cation-binding capacity of cell wall52.53. More importantly, calcium introduced by CS addition play an imperative role in controlling membrane structural integrity and translocation of available heavy metals into cell54. Calcium can compete with Cd on absorption sites and reduce negativity of the cell surface, therefore, $\\mathrm { C a } ^ { 2 + }$ supplementation may reduce Cd uptake via Ca channels5. Studies have shown that either Si or $\\mathrm { C a } ^ { 2 + }$ application reduced Cd-induced oxidative damage by lowering formation of ROS and improved stress resistance of Cd-stressed plants by enhancing antioxidant enzyme activity9,54,56.57. Thus,a combined effect of silicate ion and $\\mathrm { C a } ^ { 2 + }$ due to CS addition may promote greater efficiency in amelioration of Cd stress in plants. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "An increased percentage of Cd was located in the soluble fraction in leaves of grain amaranths (Table 1). This result may be associated with the increasing coprecipitation of Cd and Si in vacuole and cytoplasm. Formation of metal silicate compound in cytoplasm and vacuoles in leaf cells is regarded as part of the heavy metals tolerance mechanism of some species， for examples， maize42and Cardaminopsis52. On the other hand, calcium was shown to be involved in Cd exclusion and/or intracellular sequestration of plants by forming crystals containing high amounts of Cd and $\\mathrm { C a } ^ { 5 5 }$ . More interestingly， higher percentages of Cd in chloroplast (in leaves) and trophoplast (in roots) were found in CS treated amaranths. Nwugo et al.58 investigated the mechanisms involved in Si-induced Cd tolerance in rice leaves on the molecular level, which was found to be a significant enhancement of the expression of photosynthesis and carbon dioxide assimilation associated proteins. Calcium also has a crucial role in moderating chloroplast metabolism directly or via Ca-binding protein $\\mathrm { C a M } ^ { 3 5 }$ . Hence,application of CS may activate a number of protein kinases and other proteins, thus to elevate the binding of Cd to organic or inorganic ligands in chloroplast and trophoplast, which is the site of plant photosynthesis and the storage site of assimilation products, respectively. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Different chemical forms of heavy metals are closely related to different biological functions,which have distinct bioavailability and toxicities.Water-soluble Cd in the inorganic form (extracted by $80 \\%$ ethanol) and the organic form (extracted by deionized water) migrate more easily and are more toxic to plant cells than pectate and protein integrated Cd (1 M NaCl extractable Cd)， insoluble Cd phosphate complexes ( $2 \\%$ HAC extractable Cd) and Cd oxalate (0.6 M HCl extractable Cd) with litte or no toxicity to plants. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the present study, Cd extracted by 1M NaCl was the predominant chemical form in grain amaranths (Table 2). These results were consistent with the previous studies in Bechmeria nivea L.16 and Medicago sativa L.48, where the largest proportion of Cd was bound in peptides and protein integrated forms (extracted by 1M NaCl). Proteins rich in thiol and or cysteine have high binding affinity for heavy metals, especially $\\mathrm { C d } ^ { 5 9 , 6 0 }$ . Therefore, the greater fraction of total Cd extracted by NaCl may be indicative of plant adaptation to Cd stress61. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Application of CS also improved Cd tolerance of grain amaranths by converting Cd into inactive forms. In the present study, there was a significant decrease in the proportion of water soluble Cd accompanied by a notable increase in the percentage of inactive forms of Cd in the subcellular fractions of both roots and shoots of CStreated amaranth compared to untreated controls (Table 2). Specifically, a higher proportion of NaCl extractable Cd was found in CS treated plants, indicating a larger proportion of Cd integrated with pectates and proteins. It was assumed that the difference in the chemical form of Cd present in the plant cells could be relevant to thedifference in Cd-induced metal-bindingproteins(peptides)， including phytochelatins47. Silicon was proven to stimulate the response of plants to heavy metals toxicity at the gene expression level. For example,higher expression levels of metallothionein (MTs） and phytochelatins (PCs） genes closely related to metals detoxification were found in Cu-stressed Arabidopsis thaliana treated with Si than in plants only provided with toxic levels of $\\mathrm { C u } ^ { 6 2 }$ . However, these detoxification mechanisms were not merely associated with the effect of silicon in this study, but also with the influence of $\\mathrm { C a } ^ { 2 + }$ uptake by plants due to CS addition. As it was reported by the study of Srivastava6，both of the $\\mathrm { C d } ^ { 2 + } + \\mathrm { C a } ^ { 2 + }$ and $\\mathrm { C d ^ { 2 + } + \\ S i }$ treatments stimulated similar increasement of non-protein thiols and reduction in the level of GSH in rice seedlings,which might indicate synthesis of PCs and hydroxymethyl-PCs and other low-molecular-weight thiol-rich compounds that play an important role in heavy metals detoxicfication in plants. Therefore,application of CS may help to reduce the toxicity of Cd in plants by stimulating relatively higher proportions of peptides and proteins that can easily chelate with Cd and protect against Cd toxicity, such as MTs and PCs that are known as Cd complexers. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, application of calcium silicate (CS) mitigated the Cd toxicity of grain amaranths. The growth of grain amaranths in a Cd contaminated soil was significantly enhanced with the increasing doses of CS treatment. Photosynthesis capacity was also improved substantially, as increasing pigments contents in the leaves was found in Cd stressed plants treated with silicate. Cadmium concentrations in roots and shoots of grain amaranths were significantly reduced due to silicate addition, as compared to the control. Meanwhile, the findings of subcellular distribution and chemical forms of Cd in plants provided new insights into the role of silicate in alleviating Cd toxicity and bioavailability in plants. The subcellular distribution of Cd in grain amaranths was changed, which may reveal an important mechanism of CS in amelioration of metal stress through metals compartmentation in plants. The results of chemical forms of Cd showed a significant decrease in the proportion of water soluble Cd whereas a notable increase in the percentage of pectate and protein integrated Cd, further indicated the effects of CS on reducing Cd toxicity in plants by converting Cd into inactive form from toxic free Cd iron. These results provided evidence for the involvement of CS as a specific means for Cd immobilization and detoxification. We suggested that soil addition of calcium silicate at the amount of $1 . 6 5 { - } 3 . 3 1 ~ \\mathrm { g / k g ~ C s }$ S could be an effective mean to immobilize Cd in soil and reduce crop Cd uptake. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Pot experiment design.A pot experiment was carried out in a green-house of South China Botanical Garden. The soil was collected from the surface layer $( 0 { - } 2 0 \\mathrm { c m } )$ of a vegetable garden, near a waste landfill site in the suburb of Guangzhou, China. The soil was air-dried, crushed, mixed thoroughly and passed a lcm mesh sieve. Chemical properties of the soil were: soil $\\mathrm { p H } 6 . 3$ , organic matter $4 . 7 \\%$ ,cation exchange capacity (CEC) 13 cmol $\\mathbf { k g } ^ { - 1 }$ ,available S $\\mathrm { i } 8 2 \\mathrm { m g } \\mathrm { k g } ^ { - 1 }$ ,available $\\mathrm { ~ P ~ } 1 2 2 \\mathrm { ~ m g ~ k g ^ { - 1 } }$ and total Cd 6.1 mg $\\mathbf { k g } ^ { - 1 }$ .Seven and a half kilogram of soil was put into each of the plastic pots with $3 5 \\mathrm { c m }$ diameter and $2 0 \\mathrm { c m }$ depth and mixed well with $0 . 2 ~ \\mathrm { g / k g ~ N }$ as urea and $0 . 2 \\mathrm { g / k g }$ $\\mathrm { K } _ { 2 } \\mathrm { O }$ as ${ \\mathrm { K N O } } _ { 3 }$ solution. Five levels of calcium silicate with four quadruplicates were added at the amount of 0 (CS0, control), 0.41 (CS1), 0.83 (CS2), 1.65 (CS3), 3.31 (CS4) g/kg. Each pot filled with pretreated soil was then watered with tap water daily to keep soil moisture at approximately $9 5 \\%$ water holding capacity for one week. After soil incubation, twenty seeds of grain amaranths (Amaranthus hypochondriacus L. Cv.‘K1l2'） were initially sowed to each pot and later shinned to six uniform seedlings (2 cm high). All pots were watered to keep soil water holding capacity at a level of about $80 \\%$ during the period of plant growth. Sixty days after sowing, plants were harvested and divided into leaves, stems and roots, rinsed with distilled water. The samples were oven-dried for $7 2 \\mathrm { h }$ at $7 0 ^ { \\circ } \\mathrm { C }$ to constant weight. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Analysis of plants and soils.Dry plant samples were ground to pass a 1Oo mesh sieve.After digestion of the samples using ${ \\mathrm { H N O } } _ { 3 }$ -HClO4 (4:1)， Cd concentrations were analyzed using flame atomic absorption spectrometry (FAAS, HitachiZ-5300). To ensure the quality of analytical procedures,a national standard plant material (poplar leaf GBWO76O4) was used and blanks were also included in the digestion batches. Soil pH values were measured using a pH meter (Mettler Toledo FE2O) with a water-solid ratio of 2.5:1, while available soil Cd was determined using 0.01 M （204号 $\\mathrm { C a C l } _ { 2 }$ solution on the day before sowing64. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Measurement of chlorophyll contents. Chlorophyll a (Chl a), chlorophyll b (Chl b), totalchlorophyll（Chl $( { \\mathsf { a } } + { \\mathsf { b } } )$ andcarotenoids(Car） weredetermined spectrophytometrically according to the method of Aron65. Fresh leaf discs $( 0 . 2 \\mathrm { g } ,$ （20 diameter $7 ~ \\mathrm { m m }$ ） were removed from the upper fifth leaves of grain amaranths and extracted with $1 0 \\ \\mathrm { m l }$ of $80 \\%$ (v/v）acetone in the dark for $^ { 7 2 \\mathrm { ~ h ~ } }$ until they were blanched. The absorbance values for $6 6 3 \\mathrm { n m }$ 0 $6 4 5 \\mathrm { n m }$ and $4 7 0 \\mathrm { n m }$ wavelengths of the extracts were determined using an ultroviolet-visible spectrometer. Chl a, b, Chl $( \\mathsf { a } + \\mathsf { b } )$ （202 and Car were calculated using the following equations: ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C h l a ( m g / L ) } = 1 2 . 7 * \\mathrm { A } 6 6 3 - 2 . 6 9 * \\mathrm { A } 6 4 5 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C h l } \\ b ( \\mathrm { m g / L } ) = 2 2 . 9 \\ ^ { * } \\mathrm { A } 6 4 5 - 4 . 6 8 \\ ^ { * } \\mathrm { A } 6 6 3 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C a r ( m g / L ) } = ( 1 0 0 0 ^ { \\ast } \\mathrm { A } 4 7 0 - 3 . 2 7 ^ { \\ast } \\mathrm { C h l ~ a } - 1 0 4 ^ { \\ast } \\mathrm { C h l ~ b } ) / 2 2 9 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C h l } \\ ( \\mathrm { a } + \\mathrm { b } ) = \\mathrm { C h l } \\ \\mathrm { a } + \\mathrm { C h l } \\ \\mathrm { b } = 2 0 . 2 ^ { * } \\mathrm { A } 6 4 5 + 8 . 0 2 ^ { * } \\mathrm { A } 6 6 3 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Extraction of Cd subcellular distribution. Cells were separated into four fractions using differential centrifugation technique as suggested by Wu et al.47. Briefly, frozen leaf and root samples were prepared and homogenized in pre-cold extraction bufer 0 $\\mathrm { 5 0 ~ m M }$ Tris-HCl, $2 5 0 ~ \\mathrm { m M }$ sucrose, $1 . 0 ~ \\mathrm { m M }$ DTE( $\\mathrm { \\ C _ { 4 } H _ { 1 0 } O _ { 2 } S _ { 2 } }$ ， Sigma D8255), 5.0 mM ascorbic acid and $1 . 0 \\%$ W:v Polyclar AT PVPP, $\\mathrm { p H } ~ 7 . 5 ) \\$ . The homogenate was sieved through a nylon mesh $( 2 4 0 \\mu \\mathrm { m } )$ and the residue was designated as fraction (FI), mainly containing cell walls and cell wall debris. The filtrate underwent a centrifugation at $1 5 0 0 \\times \\mathrm { g }$ for $1 0 ~ \\mathrm { m i n }$ (root sample, $2 5 0 0 { \\times } \\mathrm { g }$ for $2 0 \\mathrm { m i n } \\dot { }$ ）and the pellet retained waschloroplast-shoot/trophoplast-root containing fraction (FII). The suspension was then centrifuged at $1 5 0 0 0 \\times \\mathrm { g }$ for $3 5 ~ \\mathrm { m i n }$ . The resulting precipitation and supernatant constituted the membrane and organelle containing fraction (FIII) and soluble fraction (FIV), respectively. All steps were carried out at $4 ~ ^ { \\circ } \\mathrm { C }$ .Each fraction was oven dried and then treated with wet digestion process. Cadmium concentrations in different fractions were analyzed by flame atomic absorption spectrometry (FAAS, Hitachi Z-5300). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Extraction of Cd in chemical forms. Determination of Cd chemical forms was carried out by designated extraction solutions listed below20, 66: (1) $80 \\%$ ethanol, extracting inorganic Cd including nitrate/nitrite, chloride,and aminophenol cadmium. (2）Distilled water $\\left( \\mathrm { d } { \\cdot } \\mathrm { H } _ { 2 } \\mathrm { O } \\right)$ ，extracting water soluble Cd of organic acid and $\\mathrm { C d } ( \\mathrm { H } _ { 2 } \\mathrm { P O } _ { 4 } ) _ { 2 }$ .(3) $1 \\mathrm { M N a C l }$ , extracting Cd integrated with pectates and protein. (4) $2 \\%$ acetic acid (HAc), extracting insoluble $\\mathrm { C d H P O _ { 4 } }$ ， $\\mathrm { C d } _ { 3 } ( \\mathrm { P O } _ { 4 } ) _ { 2 }$ and other Cd phosphate complexes.(5) 0.6 MHCl, extracting Cd oxalate. Frozen leaf and root tissues (about 2 g)were homogenized in $3 7 . 5 ~ \\mathrm { m l }$ of the first extraction solution using a glass tissue homogenizer. Then the homogenate was shaken for l8h at $3 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ , centrifuged at $5 0 0 0 \\mathrm { g }$ for $1 0 \\mathrm { m i n }$ , and the first supernatant was collected in a glass beaker. The sediment was re-suspended three times with the same amount of extraction solution and shaken $2 \\mathrm { ~ h ~ }$ at $3 0 ^ { \\circ } \\mathrm { C }$ ， centrifuged at $5 0 0 0 \\mathrm { g }$ for $1 0 ~ \\mathrm { { m i n } }$ . Then a total of $1 5 0 ~ \\mathrm { m l }$ extraction solution was gathered and designated as fraction (i). The residues were subjected to the next extraction and underwent centrifugation with the same procedures mentioned above. The final sediment was defined as the residual form (fraction (vi)). Each fraction was evaporated on an electric plate at $7 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ to dryness and digested with an acid oxidative mixture of ${ \\mathrm { H N O } } _ { 3 }$ ： $\\mathrm { H C l O _ { 4 } }$ (3:1, v/v). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis. Data from plant and soil samples were statistically analyzed using one-way ANOVA at a significance level of $p < 0 . 0 5$ using SPSS 11.6 software. Duncan's new multiple range test was used to detect any significant differences between means of different treatments. Simple correlation analysis and linear regression analysis were used to test the relation between soil $\\mathsf { p H }$ and available Cd. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "1 Das,P., Samantaray, S. & Rout, G. Studies on cadmium toxicity in plants: a review. Environ. Pollut. 98, 29-36 (1997).   \n2 Rizwan, M., Meunier, J. D., Miche, H. & Keller, C. Effect of silicon on reducing cadmium toxicity in durum wheat (Triticum turgidum L. cv. Claudio W.） grown in a soil with aged contamination. J. Hazard. Mater: 209,326-334 (2012).   \n3 Kabata-Pendias,A. Trace elements in soils and plants. 93-118 (CRC press, 2010).   \n4 White, P. J. & Brown, P. H. Plant nutrition for sustainable development and global health.Ann. Bot.105,1073-1080, Doi: 10.1093/aob/mcq085 (2010).   \n5 Hasan, S.A., Fariduddin, Q., Ali, B., Hayat, S.& Ahmad, A. Cadmium: Toxicity and tolerance in plants. J. Environ. Biol. 30, 165-174 (2009).   \n6 Lee, S.H., Lee, J. S., Choi, Y. J. & Kim, J. G. In situ stabilization of cadmium-, lead-,and zinc-contaminated soil using various amendments. Chemosphere 77, 1069-1075, doi: Doi: 10.1016/j.chemosphere.2009.08.056 (2009).   \n7 Nwugo, C. C.& Huerta,A. J. Effects of silicon nutrition on cadmium uptake, growth and photosynthesis of rice plants exposed to low-level cadmium. Plant Soil 311, 73-86, doi: Doi: 10.1007/s11104-008-9659-4 (2008).   \n8 Vaculik，M.， Lux,A.， Luxova，M.，Tanimoto，E.& Lichtscheidl, I. Silicon mitigates cadmium inhibitory effects in young maize plants. Environ. Exp. Bot. 67, 52-58, Doi: 10.1016/j.envexpbot.2009.06.012 (2009).   \n9 Song,A., Li, Z.， Zhang, J.， Xue, G., Fan, F.，& Liang, Y. Silicon-enhanced resistance to cadmium toxicity in Brassica chinensis L. is attributed to Sisuppressed cadmium uptake and transport and Si-enhanced antioxidant defense capacity. J . Hazard. Mater: 172, 74-83， Doi: 10.1016/j.jhazmat.2009.06.143 (2009).   \n10 Lu, H. P., Zhuang, P., Li, Z. A., Tai, Y. P., Zou, B., Li, Y. W., & McBride, M. B. Contrasting effects of silicates on cadmium uptake by three dicotyledonous crops grown in contaminated soil. Environ. Sci. Pollut. Res. 21, 9921-9930 (2014).   \n11 Fiantis, D., Van Ranst, E., Shamshuddin, J., Fauziah,I.& Zauyah, S.Effect of calcium silicate and superphosphate application on surface charge properties of volcanic soils from west Sumatra, Indonesia. Commun. Soil. Sci. Plan. 33, 1887- 1900, doi: Doi: 10.1081/Css-120004829 (2002).   \n12Liu, S.H., Ji, X. H., Xie, Y. H., Jiang, J., Bocharnikova, E.,& Matichenkov, V. Prospective for remediation and purification of wastes from Xikuangshan mine by using Si-based substances. J. Environ. Manage. 172, 77-81， doi:   \n10.1016/j.jenvman.2016.02.017 (2016).   \n13 White, P. J. Calcium channels in higher plants. Bba-Biomembranes1465, 171-   \n189, doi: Doi: 10.1016/S0005-2736(00)00137-1 (2000).   \n14Perfus-Barbeoch, L., Leonhardt, N., Vavasseur, A. & Forestier, C. Heavy metal toxicity: cadmium permeates through calcium channels and disturbs the plant water status. Plan.t J. 32, 539-548, Doi: 10.1046/j.1365-313X.2002.01442.x (2002).   \n15 Sarwar, N., Malhi, S. S., Zia, M. H., Naeem, A., Bibi, S., & Farid, G. Role of mineral nutrition in minimizing cadmium accumulation by plants. J. Sci. Food Agric. 90, 925-937, Doi: 10.1002/jsfa.3916 (2010).   \n16Wang, X., Liu, Y., Zeng, G., Chai, L., Song, X., Min, Z., & Xiao, X. Subcellular distribution and chemical forms of cadmium in Bechmeria nivea (L.) Gaud. Environ. Exp. Bot. 62,389-395 (2008).   \n17 Verkleij, J.A. C.& Schat, H. Mechanisms of metal tolerance in higher plants. Heavy metal tolerance in plants: Evolutionary aspects. 179-193 (CRC press,   \n1990).   \n18Weng, B., Xie, X., Weiss, D. J., Liu, J.,Lu, H., & Yan, C. Kandelia obovata (S. L.) Yong tolerance mechanisms to cadmium: subcellular distribution, chemical forms and thiol pools. Mar: Pollut. Bull. 64, 2453-2460 (2012).   \n19Ramos, I.，Esteban, E., Lucena, J. J. & Garate,A. n. Cadmium uptake and subcellular distribution in plants of Lactuca sp. Cd-Mn interaction. Plant Sci.   \n162, 761-767 (2002).   \n20Fu, X., Dou, C., Chen, Y.， Chen, X.， Shi, J.， Yu, M., & Xu, J. Subcellular distribution and chemical forms of cadmium in Phytolacca americana L. J. Hazard. Mater: 186,103-107 (2011).   \n21 Sleugh，B. B.， Moore,K. J.，Brummer, E. C.， Knapp,A. D.，Russell, J.，& Gibson, L. Forage nutritive value of various amaranth species at different harvest dates. Crop Sci. 41, 466-472 (2001).   \n22 Li， N. Y. et al. Effect of fertilizers on Cd uptake of Amaranthus hypochondriacus,a high biomass, fast growing and easily cultivated potential Cd hyperaccumulator. Int.J.Phytoremedia.14，162-173，Doi:   \n10.1080/15226514.2011.587479 (2012).   \n23Barnette, R. M. Synthetic calcium silicates as a source of agricultural lime I A comparison of their influence with that of other forms of lime upon certain microbiologicalactivitiesin thesoil. SoilSci. 21， 443-453， Doi:   \n10.1097/00010694-192606000-00003 (1926).   \n24Bokhtiar, S. M., Huang, H. R.& Li, Y. R. Response of sugarcane to calcium silicate on yield, gas exchange characteristics, leaf nutrient concentrations, and soil properties in two different soils. Commun. Soil. Sci. Plan. 43, 1363-1381, doi: 10.1080/00103624.2012.670516 (2012).   \n25de Souza, E.A., de Moraes, J. C., do Amaral, J.L., Liberato, R. D., Bonelli, E. A., & Lima,L.R.Application effect of calcium silicate in Brachiaria brizantha cv. Marandu on the nymph population of the brown root stinkbug, soil chemical characteristics, and plant and dry matter production. Cienc. Agrotec. 33, 1518-   \n1526 (2009).   \n26Khalid, R.A., Silva, J.A. & Fox, R.L. Residual effects of calcium silicate in tropical soils .1. Fate of applied silicon during 5 years cropping. Soil Sci. Soc. Am. J. 42, 89-94 (1978).   \n27Elisa, A. A., Ninomiya, S., Shamshuddin, J. & Roslan, I. Alleviating aluminum toxicity in an acid sulfate soil from Peninsular Malaysia by calcium silicate application. Solid Earth 7,367-374, Doi:10.5194/se-7-367-2016 (2016).   \n28Prasad, M. Cadmium toxicity and tolerance in vascular plants. Environ. Exp. Bot. 35, 525-545 (1995).   \n29Malcovska, S.M., Ducaiova, Z., Maslanakova, I. & Backor, M. Effect of silicon on growth, photosynthesis,oxidative status and phenolic compounds of maize (Zea mays L.) grown in cadmium excess. Water Air Soil Pollut. 225, 1-11 (2014).   \n30Ali, S. et al. The influence of silicon on barley growth, photosynthesis and ultrastructure under chromium stress. Ecotoxicol. Environ. Saf. 89, 66-72 (2013).   \n31Feng, J., Shi, Q., Wang, X., Wei, M., Yang,F., & Xu, H. Silicon supplementation ameliorated the inhibition of photosynthesis and nitrate metabolism by cadmium (Cd) toxicity in Cucumis sativus L. Sci. Hortic. 123, 521-530 (2010).   \n32 Farooq， M. A.，Ali，S.， Hameed，A.，Ishaque，W.，Mahmood，K.，& Iqbal, Z.Alleviation of cadmium toxicity by silicon is related to elevated photosynthesis, antioxidant enzymes; suppressed cadmium uptake and oxidative stress in cotton. Ecotoxicol. Environ. Saf. 96, 242-249 (2013).   \n33Lee, Y. B., Hoon,C., Hwang, J. Y., Lee, I. B.& Kim, P. J. Enhancement of phosphate desorption by silicate in soils with salt accumulation. Soil Sci. Plant Nutr: 50, 493-499 (2004).   \n34Ahmad, P., Latef, A. A.A., Abd_Allah, E. F., Hashem, A., Sarwat, M., Anjum, N. A.，& Gucel， S. Calcium and potassium supplementation enhanced growth, osmolyte secondary metabolite production, and enzymatic antioxidant machinery in cadmium-exposed chickpea (Cicer arietinum L.). Front. Plant Sci. 7, Doi: ARTN 51310.3389/fpls.2016.00513 (2016).   \n35Hochmal, A. K., Schulze,S.， Trompelt, K.& Hippler, M. Calcium-dependent regulation of photosynthesis. BBA-Bioenergetics1847， 993-1003， Doi: 10.1016/j.bbabio.2015.02.010 (2015).   \n36Ismail, M. A. Involvement of $\\mathrm { C a } ^ { 2 + }$ in alleviation of $\\mathrm { C d } ^ { 2 + }$ toxicity in common bean (Phaseolas vulgaris L.) plants. Asian J. Biol. Sci. 1, 26-32 (2008).   \n37 Wan，G.L.，Najeeb,U.， Jilani，G.，Naeem，M. S.& Zhou，W. J. Calcium invigorates the cadmium-stressed Brassica napus L. plants by strengthening their photosynthetic system. Environ. Sci. Pollut. R. 18, 1478-1486， Doi: 10.1007/s11356-011-0509-1 (2011).   \n38Li, P., Zhao, C., Zhang, Y., Wang, X., Wang, X., Wang, J., Wand, F. & Bi, Y. Calcium alleviates cadmium-induced inhibition on root growth by maintaining auxin homeostasis in Arabidopsis seedlings. Protoplasma 253,185-200, Doi: 10.1007/s00709-015-0810-9 (2016).   \n39Li, P., Wang, X. X., Zhang, T. L., Zhou, D. M. & He, Y. Q. Distribution and Accumulation of copper and cadmium in soil-rice system as affected by soil amendments. Water Air Soil Poll. 196, 29-40, Doi: 10.1007/s11270-008-9755-3 (2009).   \n40 Liang，Y.，Wong, J. & Wei, L. Silicon-mediated enhancement of cadmium tolerance in maize (Zea mays L.） grown in cadmium contaminated soil. Chemosphere 58, 475-483 (2005).   \n41 Gu, H. H., Qiu, H., Tian, T., Zhan, S. S., Chaney, R. L., Wang, S. Z., Tang, Y. T., Morel J.L.& Qiu, R.L.Mitigation effects of silicon rich amendments on heavy metal accumulation in rice (Oryza sativa L.） planted on multi-metal contaminatedacidicsoil.Chemosphere 83， 1234-1240, Doi:10.1016/j. chemosphere.2011.03.014 (2011).   \n42da Cunha, K. P.V.& do Nascimento, C. W.A. Silicon effects on metal tolerance and structural changes in maize (Zea mays L.） grown on a cadmium and zinc enriched soil. Water Air Soil Poll. 197, 323-330, Doi: 10.1007/s11270-008-9814- 9 (2009).   \n43Zhang, C.， Wang, L., Nie, Q.， Zhang， W. & Zhang, F. Long-term effects of exogenous silicon on cadmium translocation and toxicity in rice (Oryza sativaL.). Environ. Exp. Bot . 62, 300-307 (2008).   \n44Bhatia, N. P., Walsh, K. B.& Baker, A. J. Detection and quantification of ligands involved in nickel detoxification in a herbaceous Ni hyperaccumulator Stackhousia tryonii Bailey. J. Exp. Bot. 56, 1343-1349 (2005).   \n45 Lozano-Rodriguez, E., Hernandez, L., Bonay, P. & Carpena-Ruiz, R.Distribution of cadmium in shoot and root tissues1. J. Exp. Bot. 48, 123-128 (1997).   \n46Marques,L., Cossegal, M., Bodin, S., Czernic, P.& Lebrun, M. Heavy metal specificity of cellular tolerance in two hyperaccumulating plants, Arabidopsis halleri and Thlaspi caerulescens. New Phytol. 164, 289-295 (2004).   \n47 Wu, F., Dong, J., Qian, Q. & Zhang, G. Subcellular distribution and chemical form of Cd and Cd-Zn interaction in different barley genotypes. Chemosphere 60, 1437-1446 (2005).   \n48 Wang，Y.，Huang,J. & Gao，Y. Arbuscular mycorrhizal colonization alters subcellular distribution and chemical forms of cadmium in Medicago sativa L. and resists cadmium toxicity. PLoS One 7, e48669-e48669 (2011).   \n49Ma, J. F., Ueno, D., Zhao, F. J. & McGrath, S. P. Subcellular localisation of Cd and Zn in the leaves of a Cd-hyperaccumulating ecotype of Thlaspi caerulescens. Planta 220, 731-736, D0i: 10.1007/s00425-004-1392-5 (2005).   \n50 Strouhal, M., Kizek,R.， Vacek, J., Trnkova,L.& Nemec，M.Electrochemical study of heavy metals and metallothionein in yeast Yarrowia lipolytica. Bioelectr0chemistry 60,29-36, doi:10.1016/S1567-5394(03)00043-4 (2003).   \n51Benavides, M.P., Gallego, S. M. & Tomaro, M. L. Cadmium toxicity in plants. Braz. J. Plant Physiol. 17,21-34 (2005).   \n52Neumann,D.& zur Nieden, U. Silicon and heavy metal tolerance of higher plants. Phytochemistry 56, 685-692， Doi: 10.1016/S0031-9422(00)00472-6 (2001).   \n53 Horst, W. J., Fecht, M., Naumann, A., Wissemeier, A. H. & Maier, P. Physiology of manganese toxicity and tolerance in Vigna unguiculata (L.) Walp. J. Plant. Nutr. Soil Sci. 162, 263-274, Doi: 10.1002/(Sici)1522- 2624(199906) $1 6 2 ; 3 { < } 2 6 3$ :Aid-Jpln263>3.0.Co;2-A (1999).   \n54Ahmad, P., Sarwat, M., Bhat, N. A., Wani, M. R., Kazi, A. G., & Tran, L. S. P. Alleviation of Cadmium Toxicity in Brassica juncea L. (Czern. & Coss.) by Calcium Application Involves Various Physiological and Biochemical Strategies. PloS One 10, Doi: ARTNe011457110.1371/journal.pone.0114571 (2015).   \n55 Choi, Y.E., Harada, E.，Wada,M., Tsuboi, H.，Morita, Y.,Kusano,T.,& Sano, H.Detoxification of cadmium in tobacco plants: formation and active excretion of crystals containing cadmium and calcium through trichomes. Planta 213, 45- 50, Doi: 10.1007/s004250000487 (2001).   \n56Siddiqui, M. H., Al-Whaibi, M. H., Sakran, A. M., Basalah, M. O. & Ali, H. M. Effect of calcium and potassium on antioxidant system of Vicia faba L. under cadmium stress. Int. J. Mol. Sci. 13,6604-6619, Doi: 10.3390/ijms13066604 (2012).   \n57Shi, G., Cai, Q., Liu, C.& Wu,L. Silicon allviates cadmium toxicity in peanut plants in relation to cadmium distribution and stimulation of antioxidative enzymes. Plant Growth Regul. 61, 45-52，Doi: 10.1007/s10725-010-9447-z (2010).   \n58Nwugo, C. C.& Huerta,A. J. The effect of silicon on the leaf proteome of rice (Oryza sativa L.) plants under cadmium-stress. J. Proteome Res. 10, 518-528 (2010).   \n59 Yadav, S. Heavy metals toxicity in plants: an overview on the role of glutathione and phytochelatins in heavy metal stress tolerance of plants. S. Afr: J. Bot. 76,   \n167-179 (2010).   \n60 Klaassen, C. D., Liu, J. & Choudhuri, S.Metallothionein: an intracellular protein to protect against cadmium toxicity. Annu. Rev. Pharmacol. Toxicol. 39, 267-294 (1999).   \n61 Zhao, Y., Wu, J., Shang, D., Ning, J., Zhai, Y., Sheng, X.,& Ding, H. Subcellular distribution and chemical forms of cadmium in the edible seaweed, Porphyra yezoensis.Food Chem. 168, 48-54 (2015).   \n62 Khandekar, S.& Leisner, S. Soluble silicon modulates expression of Arabidopsis thaliana genes involved in copper stress. J. Plant Physiol. 168, 699-705 (2011).   \n63 Srivastava, R.K. et al. Exogenous application of calcium and silica alleviates cadmium toxicity by suppressing oxidative damage in rice seedlings. Protoplasma 252, 959-975, Doi: 10.1007/s00709-014-0731-z (2015).   \n64 Tan, W. N., Li, Z. A. I., Qiu, J., Zou, B., Li, N. Y., Zhuang, P., & Wang, G. Lime and phosphate could reduce cadmium uptake by five vegetables commonly grown in South China. Pedosphere 21， 223-229， Doi: 10.1016/S1002-   \n0160(11)60121-5 (2011).   \n65 Arnon, D.I. Copper enzymes in isolated chloroplasts.Polyphenoloxidase in Beta vulgaris. Plant Physiol. 24, 1 (1949).   \n66 Ding, P., Zhuang, P., Li, Z., Xia, H. & Lu, H. Accumulation and detoxification of cadmium by larvae of Prodenia litura (Lepidoptera: Noctuidae) feeding on Cdenriched amaranth leaves. Chemosphere 91,28-34 (2013). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Acknowledge ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "This research was financially supported by National Key Technologies R&D Program of China (2016YFD0800704， 2015BAD05B05)， the National Natural Science Foundation of China (41301571)， Key project of Natural Science Foundation of Guangdong (2014A030311011), Key project of Bureau of Science and Information Technology of Guangzhou Municipality (1565000109)，R & D program of Guangdong Provincial Department of Science and Technology (2016A020221023) and the Research Fund Program of Guangdong Provincial Key Laboratory of Environmental Pollution Control and Remediation Technology (2013K0o08). We are grateful to Prof. Chaosheng Zhang of National University of Ireland, Galway for checking language of the manuscript. The authors are grateful to anonymous reviewers for their useful suggestions and thoughtful comments. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "H.P.L., P.Z. and Z.L. designed this experiment. H.P.L., J.T.W., Y.W.L., Y.S. and B.Z. performed the experiment. H.P.L. analyzed the data. H.PL. and P.Z. wrote the manuscript text and prepared all of the figures and tables. All authors reviewed the manuscript. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Additionalinformation ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information accompanies this paper.   \nCompeting financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Tables ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/434d505c84e2c1aeb8ebfa6f33d5f19764a9f71469f1e5846e8ed4fa2c0844b2.jpg",
+        "table_caption": [
+            "Table1.SubcelulardistributionofCdinintherootsandleavesof grain amaranths (Amaranthus hypochondriacusL.)grown ina Cd contaminated soil under different calcium silicate treatments $( \\mathbf { m g } / \\mathbf { k g } , \\mathbf { D W } )$ （204号 "
+        ],
+        "table_footnote": [
+            "CSO,CS1,CS2,CS3and CS4represent treatments thatcalcium silicate wasaddedattheamountof0,0.41,0.83,1.65and $3 . 3 1 ~ \\mathrm { g / k g }$ 号 respetively:clfaoastiooostt:dlfcoble fraction. Data in the table are expressed as mean $\\pm$ SE of the quadruplicates. Means in each column with the same leter are not significantly different at $P < 0 . 0 5$ . Data in parentheses indicate the Cd proportion $( \\% )$ in each fraction to the total Cd content in all fractions. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Tissue</td><td rowspan=\"2\">Treatm Cd content ents</td><td colspan=\"8\"></td></tr><tr><td>FI</td><td></td><td>FII</td><td></td><td>FIII</td><td></td><td>FIV</td><td></td></tr><tr><td>Leaf</td><td>CS0</td><td>44±5.0 a</td><td>(39±3.1 A)</td><td>7.3±0.88 a</td><td>(6.4±0.85 B)</td><td>3.0±0.48 a</td><td>(2.7±0.48 B)</td><td>59±3.9 ab</td><td>(52±3.0 B)</td></tr><tr><td rowspan=\"7\"></td><td>CS1</td><td>25±1.6 b</td><td>(26±1.4 B)</td><td>6.7±1.2 a</td><td>(6.7±0.87 B)</td><td>3.3±0.20 a</td><td>(3.4±0.25 B)</td><td>64±6.5a</td><td>(64±1.1 A)</td></tr><tr><td>CS2</td><td>24±1.3 b</td><td>(29±1.4 B)</td><td>8.1±0.74 a</td><td>(9.4±0.85 AB)</td><td>2.2±0.24 b</td><td>(2.6±0.29 B)</td><td>51±1.9 b</td><td>(59±0.75 A)</td></tr><tr><td>CS3</td><td>8.1±1.1 c</td><td>(24±2.6 B)</td><td>3.0±0.07 b</td><td>(8.9±0.48 B)</td><td>1.4±0.12 b</td><td>(4.2±0.25 A)</td><td>21±0.80 c</td><td>(63±2.5 A)</td></tr><tr><td>CS4</td><td>2.8±0.44 c</td><td>(27±3.1 B)</td><td>1.2±0.17 b</td><td>(12±1.8 A)</td><td>0.27±0.01 c</td><td>(2.7±0.25 B)</td><td>5.8±0.39 d</td><td>(58±2.6 AB)</td></tr><tr><td>CS0</td><td>26±1.5 a</td><td>(44±1.9 A)</td><td>9.9±0.65 a</td><td>(17±1.3 A)</td><td>4.0±0.24 a</td><td>(6.7±0.63 A)</td><td>19±0.95 a</td><td>(33±1.2 A)</td></tr><tr><td>CS1</td><td>21±3.2 a</td><td>(41±2.9 A)</td><td>7.9±0.70 ab</td><td>(16±1.1 A)</td><td>3.0±0.43 a</td><td>(6.0±0.63 A)</td><td>18±1.5 a</td><td>(37±1.9 A)</td></tr><tr><td>CS2</td><td>18±3.7 a</td><td>(38±3.3 A)</td><td>8.9±2.1 a</td><td>(18±1.4 A)</td><td>3.3±0.54 a</td><td>(7.0±0.95 A)</td><td>17±2.2 a</td><td>(36±3.5 A)</td></tr><tr><td></td><td>CS3</td><td>11±1.5 b</td><td>(43±4.8 A)</td><td>4.6±0.95 b</td><td>(18±2.4 A)</td><td>1.8±0.28 b</td><td>(7.1±0.85 A)</td><td>8.3±1.2 b</td><td>(32±3.0 A)</td></tr><tr><td></td><td>CS4</td><td>8.3±0.70 b</td><td>(44±1.6 A)</td><td>4.3±0.92 b</td><td>(22±38 A)</td><td>1.2±0.19 b</td><td>(6.3±0.75 A)</td><td>5.4±0.70 b</td><td>(29±3.7 A)</td></tr></table></body></html>",
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/a90f0cfade4de50f7ce342bfc092d0f15a74807ea830d11491fa2df11f20b3ee.jpg",
+        "table_caption": [
+            "Table 2.Concentrations of diferentchemicalforms ofCdintheroots and leaves of grainamaranths (Amrantus hypochondriacus L.) under different calcium silicate treatments $( \\mathbf { m g } / \\mathbf { k g } , \\mathbf { D W } )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Tissue Treatments Cd content</td><td colspan=\"11\"></td></tr><tr><td>F(i)</td><td>F(ii)</td><td></td><td>F(ii)</td><td></td><td>F(iv)</td><td></td><td>F(v)</td><td></td><td>F(vi)</td><td></td></tr><tr><td>Leaf CS0</td><td>2.3±0.25 a (2.6±0.46 B)</td><td>19±2.6 a</td><td>(21±1.9 A)</td><td>42±5.2 a</td><td>(46±3.0 C)</td><td>25±1.6 a</td><td>(28±3.4 A)</td><td>1.3±0.08 a</td><td>(1.5±0.04 B)</td><td></td><td>0.004±0.000 bc (0.005±0.0004 C)</td></tr><tr><td>CS1</td><td>1.7±0.11 a (2.0±0.12 B)</td><td>17±1.7 a</td><td>(20±1.6 A)</td><td>48±4.2 a</td><td>(56±3.5 B)</td><td>18±1.4 b</td><td>(21±1.8 BC)</td><td>1.0±0.12 ab</td><td>(1.2±0.14 B)</td><td></td><td>0.003±0.000 c (0.003±0.0005 C)</td></tr><tr><td>CS2</td><td>1.9±0.27 a (2.7±0.33 B)</td><td>15±0.90 a</td><td>(20±1.1 A)</td><td>40±3.6 a</td><td>(54±2.1 B)</td><td>16±2.4 b</td><td></td><td></td><td>(22±2.5ABC) 0.94±0.12b (1.3±0.15 B)</td><td></td><td>0.007±0.001 a (0.01±0.001 C)</td></tr><tr><td>CS3</td><td>1.8±0.25 a (6.1±0.54 A)</td><td>1.9±0.21 b</td><td>(6.7±0.19 B) 17±1.6 b</td><td></td><td>(57±1.3 B)</td><td>8.1±1.0 c</td><td>(28±1.7 AB)</td><td>0.59±0.10 c</td><td>(2.0±0.28 A)</td><td></td><td>0.006±0.001 ab (0.02±0.002 B)</td></tr><tr><td>CS4</td><td>0.54±0.03 b (6.5±0.44 A)</td><td></td><td></td><td></td><td></td><td>0.41±0.03 b (5.0±0.44 B) 5.7±0.33 c (67±0.85 A) 1.6±0.12 d (19±0.7 C)</td><td></td><td></td><td>0.17±0.004 d (2.1±0.10 A)</td><td></td><td>0.003±0.000c (0.03±0.004 A)</td></tr><tr><td>Root CS0</td><td></td><td>2.2±0.16a (3.0±0.31 BC) 12±2.3 a</td><td>(15±1.8 A)</td><td></td><td></td><td></td><td></td><td></td><td>62±8.2 a (79±2.2 B) 2.0±0.18 a (2.6±0.28 BC) 0.36±0.13 a (0.48±0.13 AB) 0.02±0.004 a</td><td></td><td>(0.03±0.003 C)</td></tr><tr><td>CS1</td><td>1.4±0.07 b (2.6±0.21 C)</td><td></td><td>7.9±0.66b (14±0.80A) 47±6.3ab (81±1.1AB)1.1±0.18 bc (1.9±0.17C)0.17±0.03 b (0.31±0.06 B)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.02±0.003 a</td><td>(0.05±0.003 BC)</td></tr><tr><td>CS2</td><td>1.8±0.27 ab (3.4±0.47 B)</td><td>7.1±1.1 b</td><td>(13±1.3 A)</td><td></td><td></td><td></td><td></td><td></td><td>45±5.8 ab (81±1.6 AB) 1.3±0.15 b (2.5±0.24 BC) 0.13±0.02 b (0.26±0.04 B)</td><td>0.02±0.007 a</td><td>(0.05±0.003 BC)</td></tr><tr><td>CS3</td><td>1.7±0.05 b (4.8±0.52 A)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>3.4±0.33c(9.3±0.30B)30±4.0bc (82±1.1AB)1.4±0.19b (3.8±0.46A)0.16±0.05b (0.43±0.07AB)0.03±0.008 a</td><td></td><td>(0.07±0.01 AB)</td></tr><tr><td>CS4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.79±0.08c(3.8A)c8.B)76c(84.5)c(A)b(0）</td><td></td><td>(0.08±0.01A)</td></tr></table></body></html>",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "CSO,CS1,CS2,CS3and CS4represent treatments thatcalcium silicatewasaddedattheamountof0,0.41,0.83,1.65and $3 . 3 1 ~ \\mathrm { g / k g } .$ respectively. F (i): inorganic Cd extracted by $80 \\%$ ethanol; F (i): water soluble Cd extracted by deionized water; F (ii): pectate- and proteinintegrated Cd extracted by NaCl; F (iv): phosphate Cd extracted by $2 \\%$ HAc; F (v): oxalate Cd extracted by O.6 M HCl; F (vi): Cd in residual form. Data in the table are expressed as mean $\\pm$ SE of the quadruplicates. Means in each column with the same letter are not significantly different at $P < 0 . 0 5$ . Data in parentheses indicate the Cd proportion $( \\% )$ in each fraction to the total Cd content in all fractions. ",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc7a66434cbba088b65b0a2684ad0a6855790efccea582f92bab38422017357b.jpg",
+        "img_caption": [
+            "Figure(s) ",
+            "Figure1.Efectofcalciumsilicateondryweightof grainamaranthsgrowinCdcontaminatedsoil.Fivetreatments wereused with calcium silicate added at various doses (0 (CS0), 0.41 (CS1), 0.83 (CS2),1.65 (CS3) and 3.31 (CS4) $\\mathrm { g / k g ) }$ . Error bars represent $+ / -$ SE of the quadruplicates.The means marked with the same leter at the same stage are not significantly different $( p > 0 . 0 5 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5a7698009bb59a84e3d27a469da0bc5db900565e80e088a0fd6f2fd3b666823.jpg",
+        "img_caption": [
+            "Figure 2.Efect of calcium silicate on the chlorophyll a(Chl a), chlorophyll b (Chl b), Chlorophyll $\\mathbf { ( a / b ) }$ , total carotenoids (Car) and total chlorophyll(Chl $\\left( \\mathbf { a } + \\mathbf { b } \\right)$ ）in the upper fifth leaves of grain amaranths grown in Cd contaminated soil.Five treatments were used with calcium silicate added at various doses (0 (CS0), 0.41 (CS1), 0.83 (CS2),1.65 (CS3) and 3.31 (CS4) $\\mathrm { g / k g ) }$ . Error bars represent $+ / -$ SE of the quadruplicates. The means marked with the same letter are not significantly different $( p > 0 . 0 5 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e72eb895e1a82dc44601fa66a3fe376887315514406d21e59d1e8b9383d1741.jpg",
+        "img_caption": [
+            "Figure3.Cadmiumconcentrations inroots,stemsand leavesof grainamaranthsgrowninaCdcontaminated soil treated with increasing doses of calcium silicate (0 (CS0), 0.41 (CS1), 0.83 (CS2), 1.65 (CS3) and 3.31 (CS4) $\\mathbf { g } / \\mathbf { k g } )$ . Error bars represent $+ / -$ SE of the quadruplicates.The means marked with the same leter at the same stage are not significantly different $( p > 0 . 0 5 )$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    }
+]

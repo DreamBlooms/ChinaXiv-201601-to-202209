@@ -1,0 +1,97 @@
+基础研究
+
+# 和肽素及缺血修饰白蛋白在急性有机磷农药中毒早期心肌损伤中的应用
+
+李 敬,张建军,李 娜,李佳,刘 娟,刘倩河北医科大学附属哈励逊国际和平医院急诊科，河北 衡水053000摘要：目的 探讨和肽素(copeptin)与缺血修饰白蛋白(ischemia modified albumin,IMA)联合测定对急性有机磷农药中毒（AOPP)心肌损伤早期诊断及预后判断的临床价值。方法 选择AOPP患者126例为病例组。健康体检者50例为对照组,所有患者在入院1h内抽取静脉血 $3 ~ \mathrm { m l }$ ,检测心肌损伤标记物、Copeptin、IMA水平。结果 病例组与对照组比较,Copeptin、IMA水平均升高且有显著差异。重度与轻中度患者比较,IMA、Copeptin水平升高明显,差异有显著统计学意义 $( P { < } 0 . 0 5 )$ 。经Logistic回归分析显示,Copeptin、IMA水平、重度AOPP并发症的患者出现心血管事件的危险性增加。结论早期测定Copeptin、IMA水平在AOPP中毒心肌损伤患者的早期诊断有重要意义，其浓度高低与病情轻重呈相关性，即病情越重，其含量越高。对评估预后具有重要临床价值。
+
+关键词：急性有机磷农药中毒；和肽素；缺血修饰白蛋白
+
+# Copeptin and ischemia modified albumin in early diagnosis and prognosis of myocardial damage in acute organic phosphorus pesticide poisoning
+
+LI Jing,ZHANGJianjun,LINa,LI Jia,LIUJuan,LIUQian DepartmentofEmergency Medicine,Harrison InternationalPeaceHospital,Hengshui O53ooo,China
+
+Abstract: Objective To asess the value ofcombineddetection ofcopeptinand ischemia modified albumin (IMA)in early diagnosis and prognostic evaluation of myocardial damage in patients with acute organic phosphorus pesticide poisoning (AOPP). Methods A total of 126 AOPP patients were examined for blood copepin and IMA levels and myocardial injury markers within $^ { \textrm { 1 h } }$ after admission. Results Copeptin and IMA levels significantly increased in patients with AOPP compared withthose in thecontrol subjects.Copeptinand IMA levels were significantly higher in severe AOPPcases than in mild to moderate cases $_ { ( P < 0 . 0 5 ) }$ . Logistic regresson analysis showed that increased copeptin and IMA levels and severe complications of AOPP were asociated withan increased riskof cardiovascular events.Conclusion Early detection of copeptin and IMA levels has importantclinical value in earlydiagnosis and prognostic evaluation of myocardial damage in patients withAOPP, and their levels are positively correlated with the severity of the condition.
+
+Keywords: acute organophosphorus pesticide poisoning; copeptin; ischemia modified albumin
+
+急性有机磷农药中毒(AOPP)是基层医院急诊常见的危、急重症，可引起多器官多系统的损伤，其中以心肌损伤最常见，且易引起严重后果，可致心输出量急剧下降，出现急性肺水肿和心源性休克[。肌钙蛋白I(cTnI)作为心肌损伤的标志物是目前用于诊断的特异性标记物,但其在4\~6h后才增高。Copeptin是血管加压素(AVP)的前体，最近发现其在急性心肌缺血患者中明显升高。有研究显示在危重患者血清含量明显增加，是评价该类疾病严重程度及预后的敏感生物学指标。IMA是诊断心肌缺血的早期敏感标志物。在心肌缺血早期数分钟内开始升高4，在心肌损伤可逆阶段检出，有利于心肌缺血损伤的早诊断、早治疗。本研究旨通过分析AOPP患者血清中Copeptin及IMA浓度变化及二者的相关性，探讨其在AOPP心肌损伤的早期诊断及对预后转归的临床意义。
+
+# 1对象与方法
+
+# 1.1研究对象
+
+选择我院急诊科2011年5月\~2013年5月AOPP患者126例,诊断符合AOPP诊断标准，其中男58例，女68例，年龄16\~63岁，平均 $4 6 { \pm } 2$ 岁。甲拌磷30例,对硫磷26例，氧化乐果20例，甲胺磷中毒19例，乐果中毒16例，敌敌畏中毒15例。在我院门诊健康体检者50例作为对照组，男26例，女24例；年龄17\~65岁，平均 $4 8 { \pm } 3$ 岁，各组间在年龄、性别、体质量等方面无差异，所有对象均排除急慢性感染性疾病、脓毒症、心脑血管疾病、尿崩症及其他代谢性疾病等患者。
+
+# 1.2 方法
+
+在入院1h(患者中毒后 $3 \mathrm { h }$ 内）6h抽取静脉血 $3 ~ \mathrm { m l }$ 应用日立公司生产的7600全自动生化分析仪，检测心肌酶 $\mathrm { . c T n I } ( 0 { \sim } 1 . 7 ~ \mathrm { n g / m l } )$ 和IMA( $> 6 5 ~ \mu / \mathrm { m l } )$ 。目前IMA的检测方法主要是白蛋白钴结合试验(albumin一cobahbinding,ACB)。通过向血清中加入定量的氯化钴,充分反应后，加入等量二硫苏糖醇(DTT)可与游离钴离子发生显色反应，通过比色检测其吸光值可以定量测定游离的钴离子，ACB值越低，表示血清中的IMA越高,从而间接反应IMA水平[5]。同时采血 $3 ~ \mathrm { m l }$ ，$3 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ,并分离留取血浆后置于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 冰箱保存,用于检测Copeptin水平,Copeptin采用酶联免疫吸附(ELISA)试验法检测，标本处理、测定及含量计算均按说明书进行,试剂盒由美国PhoenixPharmaceuticals公司提供。
+
+所有入选患者入院常规检查12导联心电图，密切观察患者病情变化，了解AOPP并发症的发生情况。本研究符合医学伦理学标准，并经医院伦理委员会批准，所有抢救治疗和检测均获得患者或家属的知情同意。
+
+# 1.3 统计学方法
+
+本研究用SPSS16.0统计软件分析。计量资料两组间比较采用 $t$ 检验；多组间比较采用方差分析；计数资料采用x检验；相关性分析用Pearson相关检验；预后分析用Logistic回归分析。 $P { < } 0 . 0 5$ 认为差异有统计学意义。
+
+# 2结果
+
+2.1 两组心肌酶、IMA、Copeptin浓度的比较(表1)
+
+在入院1h病例组与对照组比较，Copeptin升高，IMA降低，差异有显著统计学意义。心肌酶两组之间比较无差异 $( P { > } 0 . 0 5 )$ 。入院 $6 \mathrm { n }$ ,IMA、Copeptin两组比较无统计学意义。CK、CK-MB、cTnI病例组与对照组比较升高，差异有统计学意义 $( P { < } 0 . 0 5 )$ ）
+
+表1病例组与对照组心肌酶、IMA、Copeptin的比较 Tab.1 Comparision of myocardial enzymes,IMA,and copeptin levels between thecase and control groups (Mean±SD)   
+
+<html><body><table><tr><td rowspan="2">Group</td><td colspan="2">CK (μ/L)</td><td colspan="2">CK-MB (μ/L)</td><td colspan="2">cTnI (ng/ml)</td><td colspan="2">IMA (>65μ/ml)</td><td colspan="2">Copeptin (ng/ml)</td></tr><tr><td>1h</td><td>6h</td><td>1h</td><td>6h</td><td>1h</td><td>6h</td><td>1h</td><td>6h</td><td>1h</td><td>6h</td></tr><tr><td>Control (n=50) 73.40±21.04</td><td></td><td>74.63±25.16</td><td></td><td>11.18±.7712.32±3.24</td><td>1.25±0.28 1.26±0.14</td><td></td><td>71.34±6.11</td><td>69.93±4.34</td><td>0.84±0.19 0.86±0.17</td><td></td></tr><tr><td></td><td>Case (n=126) 77.68±33.41 210.47±36.18* 12.57±.21 29.46±4.67#△</td><td></td><td></td><td></td><td></td><td></td><td>1.34±0.45 2.37±0.52*△ 58.97±3.34*</td><td></td><td>67.89±3.78 8.45±4.54* 0.89±0.37</td><td></td></tr></table></body></html>
+
+Note: compared with the control group, $^ { \# } P { < } 0 . 0 5$ ; compared with 1H, $^ { \triangle } P { < } 0 . 0 5$
+
+2.2不同程度的中毒患者Copeptin、cTnI浓度的比较(表2)不同中毒程度患者重度分别与轻、中度比较，IMA降低明显、Copeptin水平增高明显,且差异有显著统计学意义 $( P { < } 0 . 0 5 )$ 。重度患者肌钙蛋白I与轻、中度比较亦有差异，但轻、中度两组间比较无统计学意义。
+
+表2不同程度的中毒患者心肌酶、IMA、Copeptin的比较Tab.2Comparisionofmyocadials,IM,andcopeptinlevelsinpaientsithdiferentsveritiesofpsoing(MenD  
+
+<html><body><table><tr><td>Group</td><td>n</td><td>CK (μ/L)</td><td>CK-MB (μ/L)</td><td>LDH (μ/L)</td><td>LDH1 (μ/L)</td><td>HBDH (μ/L)</td><td>cTnI (ng/ml)</td><td>IMA (>65 μ/ml)</td><td>Copeptin (ng/ml)</td></tr><tr><td>Mild</td><td>20</td><td>71.90±24.30</td><td>11.35±4.55</td><td>169.45±37.87</td><td>37.40±14.04</td><td>133.80±31.15</td><td>1.03±0.28</td><td>61.10±2.34</td><td>2.76±0.72</td></tr><tr><td>Moderate</td><td>24</td><td>84.92±32.13</td><td>12.29±3.34</td><td>185.04±31.21</td><td>33.92±10.47</td><td>119.67±24.73</td><td>1.05±0.34</td><td>59.21±3.08 #</td><td>7.32±1.04*</td></tr><tr><td>Severe</td><td>30</td><td>75.73±39.17</td><td>13.60±4.48</td><td>176.97±31.84</td><td>41.83±10.20</td><td>130.62±26.86</td><td>1.78±0.15 #△</td><td>57.37±3.34#△</td><td>13.16±2.06*△</td></tr></table></body></html>
+
+Note:with mild and moderate $^ { \# } P { < } 0 . 0 5$ ； compare,compare,Delta $^ { \triangle } P { < } 0 . 0 5$
+
+# 2.3心肌损伤组患者IMA、Copeptin浓度与预后的相关 性(表3)
+
+相关性分析提示，心肌损伤组不同中毒程度的患者IMA、Copeptin水平呈负相关关系( $\scriptstyle 1 = 0 . - 5 4 0$ ， $P { < } 0 . 0 1$ )。采用多个自变量的逐步Logistic回归，排除多种混合因素观察IMA、Copeptin水平对AOPP中毒心肌损伤预测价值。提示在除外其他混杂因素影响后，IMA、Copeptin水平、AOPP并发症(急性肺水肿、呼吸衰竭、脑水肿、消化道出血、急性肾衰竭、中毒性肝损伤、吸入性肺炎、急性胰腺炎、迟发性神经病、中间综合症、急性溶血、休克、心跳骤停、反跳等)的患者出现心血管事件(心肌缺血、中毒性心肌炎、房性早博、室性早博、房颤、窦缓、房室传导阻滞、束支传导阻滞、心力衰竭、心源性猝死)的危险性增加。
+
+# 3讨论
+
+AOPP容易引起多器官的损伤，其中心脏的损伤较为常见。其病理改变表现为心外膜下点状出血，心肌间
+
+# 表3AOPP中毒心肌损伤患者心血管事件多因素Logistic分析
+
+Tab.3Logistic analysis of multiple factors of cardiovascular events in patients with myocardial damage following AOPP poisoning   
+
+<html><body><table><tr><td></td><td>β</td><td>SE(β)</td><td>Wald</td><td>P</td><td>R=exp (β)</td></tr><tr><td>Copeptin</td><td>0.381</td><td>0.16</td><td>5.651</td><td>0.017</td><td>1.464</td></tr><tr><td>IMA</td><td>0.368</td><td>0.173</td><td>4.539</td><td>0.033</td><td>0.692</td></tr><tr><td>Complication</td><td>3.944</td><td>1.787</td><td>4.873</td><td>0.027</td><td>51.625</td></tr></table></body></html>
+
+质明显充血水肿、脂肪样变性、炎性细胞浸润及心肌纤维断裂等。导致心脏损害的原因可能与下列因素有关： $\textcircled{1}$ 直接损害作用：对心脏造成直接损害； $\textcircled{2}$ 间接损害作用：胆碱能危象、缺氧和电解质紊乱、细胞内外电解质流动异常。诱发致死性心律失常[7。间接加重心脏损害； $\textcircled{3}$ 交感和副交感神经调节功能紊乱的损伤作用：AOPP时累及交感、副交感神经和横纹肌的运动神经肌接头，使相对应的心肌细胞受损[8。儿茶酚胺的释放及心脏对儿茶酚胺的敏感性均升高，易发生心律失常，并使心脏的耗氧量增加； $\textcircled{4}$ 医源性损害作用：AOPP时习惯给予较大量液体补液，但却忽视了心脏的损伤和承受能力,诱发心脏损伤9]。心肌发生功能障碍变性,甚至水肿破裂，从而使多种酶释放入血。cTnI作为心肌损伤的标志物，需发病4\~6h血清浓度才升高，18\~24h达高峰，1周后降为正常。因此，寻找新的心肌缺血和坏死的敏感标志物显得尤为重要。
+
+Copeptin作为一种新兴的生化标记物，与许多疾病的发生、发展及预后有关。它是pro-AVP的C末端的一部分，由下丘脑分泌的含有39个氨基酸序列的糖蛋白。在AVP的成熟、转运以及对精氨酸加压素原的细胞内加工等方面有作用。血浆中Copeptin与pro-AVP呈显著正相关，其在血浆中变化的趋势及摩尔浓度是相一致的[10]。Copeptin的功能目前还不确定,可能是通过钙联接蛋白/钙网织蛋白系统的作用，辅助错误折叠的单体发生重折叠，以保证其稳定的生物学效应。Copeptin与心肌缺血有关[1]。在0\~4h内即已升高， $6 \mathrm { n }$ 后逐渐下降。亦有研究表明[12],Copeptin是一种应激激素。体内Copeptin水平的紊乱可影响多种疾病的发生发展，在应激相关性等疾病的早期诊断及评估预后方面具有较好的临床应用价值。本研究对126例AOPP患者血浆Copeptin水平进行检测发现,病例组与对照组比较,在入院1h,Copeptin升高,IMA降低,差异有显著统计学意义。心肌酶比较无差异。入院 $6 \mathrm { ~ h ~ }$ ,IMA、Copeptin降至正常范围,无统计学意义。CK、CK-MB、cTnI两组比较，病例组升高，差异有统计学意义。在病例组中,重度患者Copeptin水平与轻、中度比较有差异。随着AOPP并发症的发生Copeptin水平升高明显。有相关报道[13],检测AOPP患者血浆Copeptin的含量，对判断其中毒程度及观察病情变化有一定指导意义。由于其敏感性高但特异性相对较差，联合IMA检测来弥补对AOPP心肌损伤早期诊断率的缺点。
+
+IMA是人血清白蛋白流经缺血组织时局部结构发生改变而产生的。心肌缺血时局部组织产生氧化应激反应，白蛋白N-末端氨基酸序列被氧化修饰，从而形成IMA。心肌缺血后 $5 { \sim } 1 0 \ \mathrm { m i n }$ 。外周血中IMA浓度迅速升高，并在缺血过程中持续升高，持续 $2 { \sim } 4 \ \mathrm { h } , 6 { \sim } 1 0 \ \mathrm { h }$ 内恢复到基础水平[14]。该研究中,心肌损伤组IMA降低,非心肌损伤组及对照组IMA均在正常范围。其血清水平升高较其他心肌损伤标记物能提前检出，故通过检测血清IMA水平能在心肌坏死前及时作出心肌缺血的诊断。其中，重度患者IMA水平与轻、中度比较有差异，AOPP并发症患者检测IMA水平发现其降低明显。IMA反映的是实质性细胞坏死之前的一种变化，在不可逆损伤出现之前检测到心肌缺血状态，对疾病的诊断具有早预知、早发现的优势。因此其作为心肌缺血的早期生化标志物,可大大提高心肌缺血的诊断率[15]。然而IMA对心肌损伤没有呈现出高度的组织或临床特异性。在非心源性心肌损伤时如脑缺血、终末期肾病、肝硬化、某些严重传染病也可出现IMA水平升高。尚缺乏一个加强诊断的标志物，而与和肽素联合检测有望填补这个空白。
+
+检测Copeptin与IMA这两种生物标记物发现，心肌损伤组,IMA、Copeptin水平均改变,不同中毒程度患者重度较轻中度,IMA降低、Copeptin水平增高明显。表明随着AOPP中毒程度的增加，IMA水平逐渐降低、Copeptin浓度逐渐升高,二者呈负相关。Logistic回归分析显示，IMA与Copeptin水平改变及出现AOPP并发症的这些患者出现心血管事件的危险性增加。本研究结果在一定程度上提示IMA、Copeptin水平可反映AOPP中毒心肌损伤程度并评估预后转归情况。
+
+综上所述，对AOPP心肌损伤的早期诊断、早期综合干预治疗，是有效提高AOPP救治成功率的关键。本研究通过测定AOPP患者Copeptin及IMA等指标进行综合分析,IMA和Copeptin可做为AOPP心肌损伤早期诊断的指标及对判断预后转归提供有价值的参考依据，对早期指导临床合理用药有重要意义。但该研究中，由于缺乏患者毒物定量检测资料,使IMA和Copeptin在早期检测中量效关系尚难以阐明,需进一步完善。
+
+# 参考文献：
+
+[1」向光明,陈世雄,高宝安，等.急性有机磷农药中毒患者血清胱抑素C与相关因子的变化[J].重庆医学，2012，41(29)：3101-2.  
+[2]张守龙.血浆脑钠肽及和肽素水平对冠心病患者冠状动脉病变程度判断的临床价值[J].中国医师进修杂志,2012,35(28):63-4.  
+[3]Katan M,Christ-Crain M.The stress hormone copeptin:a newprognostic biomarker in acute illness[J].Swiss Med Wkly,2010,140: 11-5.  
+[4」马春华,李立祥.缺血修饰白蛋白与心肌型脂肪酸结合蛋白早期诊断急性心肌梗死价值研究进展[J].中华实用诊断与治疗杂志,2013,2(27):107-9.  
+[5」张茉莉,华正祥，薛承岩，等.缺血修饰白蛋白的检测及诊断价值的研究进展[J].承德医学院学报，2012,29(1)：76-7.  
+[6」任天成,王赤,杨健.长托宁联合阿托品对重症有机磷农药中毒合并心肌损伤血清CK-MB、cTnI变化的影响[J].江苏医药,2011,37(16):1938-9.  
+[7］张永利，刘诤,张玉强.急性有机磷农药中毒患者心搏和呼吸骤停的临床观察[J].中国危重病急救医学,2012,24(6):367-8.  
+[8］应德琴.山茛荣碱维持阿托品化治疗急性有机磷农药中毒166例分析[J].重庆医学，2011，40(29):2984-6.  
+[9]何新华,李春盛,张海燕,等.重度急性有机磷农药中毒并发中毒性心肌炎猝死5例报告[J].中国危重病急救医学,2010,22(2):117-8.  
+[10]裴志勇,赵玉生.和肽素的临床研究进展[J].中华老年心脑血管病杂志,2010,12(11):1047-9.  
+[11]Chai SB,Hui YM,Li XM,et al.Plasma levels of copeptin inpatients with coronary heart disease[Jl.Heart Vessels,2OO9,24(2):79-83.  
+[12]Reichlin T,Hochholzer W, Stelzig C,et al. Incremental value ofcopeptin for rapid rule out of acute myocardial infarctionJ].JAmColl Cardiol,2009,54(1):60-8.  
+[13]张浩,任国庆,尹江宁,等.急性有机磷中毒患者和肽素的表达及其临床意义[J].实用医学杂志,2013,29(4):576-7.  
+[14]Dominguez-Rodriguez A,Abreu-Gonzalez P. Current roleofischemia-modified albumin inroutineclinical practice [J].Biomarkers,2010,15(8): 655-62.  
+[15]曹 红,于胜波,秦 牧,等.胸痛6h内缺血修饰白蛋白对急性心肌梗死预后的价值研究[J].中国实用内科杂志,2011,8(8):629-31.
+
+(编辑：孙昌朋）

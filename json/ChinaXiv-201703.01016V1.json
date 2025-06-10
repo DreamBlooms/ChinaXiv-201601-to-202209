@@ -1,0 +1,531 @@
+[
+    {
+        "type": "text",
+        "text": "cDNA microarray analysis of differential gene expression and regulation in clinically drug-resistant isolates of Candida albicans from bone marrow transplanted patients ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zheng $\\mathrm { \\Delta X u ^ { a } }$ , Li-Xin Zhangb, Jun-Dong Zhanga, Yong-Bing Caoa, Yuan-Yuan $\\mathrm { \\Delta Y u ^ { a } }$ De-Jun Wanga, Kang Yingc, Wan-Sheng Chena, Yuan-Ying Jianga,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aDepartment of Pharmacology， School of Pharmacy， Second Military Medical University,   \n325 Guohe Road,Shanghai, 200433,P.R. China   \nbGuangzhou Institute of Biomedicine and Health, Chinese Academy of Sciences, 510663, P.R. China   \nState Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Science,   \nFudan University,Shanghai,200433,P.R. China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fungi have emerged as the fourth most common pathogens isolated in nosocomial bloodstream infections,and Candida albicans is the most common human fungal pathogen. Only afew antibiotics are efective in the treatment of fungal infections.In addition,the repetitionand lengthy durationoffluconazole therapy has led toan increased incidence of azole resistance and treatment failure asociated with C.albicans.To investigate the mechanism of drug resistance and explore new targets to treat clinically resistant fungal pathogens,we examined the large-scale gene expression profile of two sets of matched fluconazole-susceptible and -resistant bloodstream C.albicans isolates from bone marrow transplanted (BMT） patients for the first time by microarryanalysis.More than 198 diferentially expressed genes were identified and they were confirmed and validated by RT-PCR independently. Not surprisingly, theresistant phenotype is assciated with increased expression of CDR mRNA,as well as some common genes involved in drug resistance such as CaIFU5,CaRTA2 and CaIFD6.Meanwhile,some special functional groups of genes，including ATP binding casette (ABC） transporter genes (IPF7530，CaYORl，CaPXAl)，oxidative stress response genes (CaALD5， CaGRPl，CaSOD2， IPFl0565)，copper transport and iron mobilization-related genes (CaCRD1/2，CaCTRl/2，CaCCC2，CaFET3）were found to be diferentially expressed in theresistant isolates. Furthermore,among these diferentially expressed genes,some co-regulated with CaCDR1,CaCDR2 and CaIFU5, such as CaPDRl6 and CaIFD6,have a DRE-like element and may interact with $T A C l$ in the promoter region. These findings may shed light on mechanisms of azole resistance in C. albicans and clinical antifungal therapy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Candida albicans; Microarray; Drug resistance; Bone marrow transplant; Differential gene expression ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Candida albicans is an important opportunistic fungal pathogen of humans and the major cause of oropharyngeal candidiasis (OPC) in AIDS patients (Franz et al., 1998; Jones et al., 2004). Fluconazole,an azole antifungal agent,is widely used to treat OPC (Demain and Zhang，20o5). Due to prolonged and repeated use of this agent, emergence of azole-resistant C.albicans strains leading to treatment failures were observed (Morschhäuser,2002;Rex et al., 1995;White et al.,2oo2).Thus it is desirable to explore and identify new targets for the treatment of clinically resistant fungal pathogens (Quan et al.， 2006； Zhang， 2005; Zhang et al., 2Oo5). Phenotypically stable resistance to azole antifungal agents in C. albicans can result from mutations or increased expression of genes involved in the ergosterol synthesis pathway (including the target enzyme $1 4 - a$ demethylase),and increased expression of ATP-binding cassette (ABC) transporter and major facilitator efflux pumps(White et al., 1998).Moreover, the resistance can be rapidly developed in $C .$ albicans after short exposures to the drug,both in vitro(Calvet et al., 1997) and in vivo (Marr et al., 1997; Nolte et al., 1997),notably in a strain of $C .$ albicans that caused disseminated infection in a patient after bone marrow transplantation (BMT) (Marr et al., 1997). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Characterizing whole-genome expression using DNA microarrays providesa snapshot of an organism's genome in action by revealing the relative transcript levels of thousands of genes at a time (Liu et al., 2005). Previous studies on fluconazole resistance in C.albicans bymicroarrayanalysishaveusedeitherlaboratory-derived azole-resistant strains,or clinical isolates obtained in the setting of OPC in patients with AIDS (Barker et al.， 2004; Cowen et al.， 2002; Rogers and Barker,2002，2003).There are important differences between the development of resistance in the setting of OPC as compared to that in candidemia in BMT patients. Resistance in OPC usually follows multiple treatment failures and dose escalations with a prolongedperiod of time. Azole-resistant isolates obtained from BMT patients showed a more rapid development of resistance and it occurred under conditions of much higher azole concentrations (Marr et al., 1998, 2001). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To investigate the mechanism of drug resistance, we examined the changes in a large-scale gene expression profile of two sets of matched clinical fluconazole susceptible and resistant $C .$ albicansisolates from BMT patients. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C.albicans isolates and growth conditions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The azole-susceptible strain SC5314 and two matched sets of susceptible and resistant isolates of $C .$ albicans usedinthisstudyare listedin Table1.FH1/FH5 and TL1/TL3 were colonizing and bloodstream isolates obtained from two different patients who underwent bone marrow transplant (BMT) operation, respectively. The two sets of isogenic $C .$ albicans isolates were obtained from Theodore C.White and have been identified at Fred Hutchinson Cancer Research Center and described previously (Marr et al., 1997, 1998, 2001). FH1/FH5 and TL1/TL3 represent the same strain by the identical banding patterns of RFLP analysis, respectively.An aliquot of glycerol stock from each isolate was diluted in YPD broth ( $1 \\%$ yeast extract, $2 \\%$ peptone, $1 \\%$ dextrose) and grown overnight at $3 0 ^ { \\circ } \\mathrm { C }$ in a shaking incubator. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Antifungal agents and IC8o determinations ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Powder formulations of fluconazole (Roerig-Pfizer, New York，N.Y.） suspended in distilled water were made to a final concentration of $0 . 1 2 5 \\mu \\mathrm { g / m l }$ ，filter sterilized,and stored at $- 7 0 ^ { \\circ } \\mathrm { C }$ .Mediautilized in these studies included YPD broth and RPMI 1640 with $0 . 1 6 5 \\mathbf { M }$ MOPS (morpholinopropanesulfonic acid) buffered at $\\mathrm { p H } ~ 7 . 0$ . Antifungal susceptibility testing was performed by the standardized microdilution method from NCCLS document M27-A (National Committee for Clinical Laboratory Standards，Wayne, PA). To ensure consistent results, $80 \\%$ inhibitory concentrations (IC80s) were determined and compared under the same environmental conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/1f1bb80ddad6380e8c258be7fed54c8d2113fcdabd087abd482059873b1074b4.jpg",
+        "table_caption": [
+            "Table1.Compilationof previouslyreportedand verifiedIC80s and describedresistance mechanismsfor C.albicans isolates used in this study "
+        ],
+        "table_footnote": [
+            "aAs reported in references Marr et al. (1997,1998,2001). "
+        ],
+        "table_body": "<html><body><table><tr><td>Isolate</td><td colspan=\"2\">IC80 (μg/ml)</td><td>Previously described resistance mechanism(s)</td></tr><tr><td></td><td>Previously determineda</td><td>This study</td><td></td></tr><tr><td>SC5314</td><td><1</td><td>0.25</td><td>Laboratory control strain</td></tr><tr><td>TL1</td><td>1</td><td>1</td><td></td></tr><tr><td>TL3</td><td>32</td><td>64</td><td>Overexpression of CDR genes</td></tr><tr><td>FH1</td><td>4</td><td>4</td><td></td></tr><tr><td>FH5</td><td>>64</td><td>32</td><td>Overexpression of CDR1 and CDR2</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Microarray preparation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The microarray (3136 chip; United Gene Holdings, Ltd.，China） used in our study consisted of 3136 sequences including full-length and partial complementaryDNAs (cDNAs). Except for some control spots, the 3136 dotted array represented 3096 unigenes which were clustered from 11,032 total cDNAs by sequencing and bioinformatics analysis. Most of the geneswere obtained by sequencing the clones isolated from a high ratio full-length cDNA library of $C .$ albicans SC5314 using switching mechanism at $5 ^ { \\prime }$ end of RNA transcript (SMART) carried out at United Gene Holdings ( $\\mathrm { \\Delta X u }$ et al.,20o5). In addition, the array included other known genes involved in drug resistance,drug targets and biofilm formation which were selected from NCBI Unigene set and cloned into plasmid vectors.The control spots were human glycerol-3-phosphate dehydrogenase (8 spots),actin genes (8 spots),and spotting solution alone without DNA (l6 spots). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The 3136 chip was constructed according to our previously published protocol (Li et al., 2o02; Cao et al., 2005).In brief,the cDNA inserts were amplified by use of the polymerase chain reaction (PCR） with universal primers and then purified with isopropanol precipitation.All PCR products were examined by agarose gel electrophoresis to ensure the quality and the identity of the amplified clones.The amplified PCR products were dissolved in a buffer containing $3 \\times \\mathrm { S S C }$ solution $( 1 \\times \\mathsf { S S C }$ . $1 5 \\mathrm { m M }$ sodium citrate, $\\mathrm { p H } \\ 7 . 0 \\$ ， $1 5 0 \\mathrm { m M }$ $\\mathrm { \\Delta N a C l ) }$ . The above solutions were spotted onto sialylated slides (CEL Associates,Houston, TX) usinga Cartesian PixSys 75o0 motion control robot (Cartesian Technologies,Irvine,CA） fitted with ChipMaker Micro-Spotting Technology(TeleChem International, Sunnyvale, CA).Glass slides with spotted cDNA were then hydrated for $2 \\mathrm { h }$ in $70 \\%$ humidity,dried for $0 . 5 \\mathrm { h }$ at room temperature,and UV cross linked $( 6 5 \\mathrm { m J } / \\mathrm { c m } ^ { 2 } )$ ： They were further processed at room temperature by soaking them in $0 . 2 \\%$ sodium dodecyl sulfate (SDS) for $1 0 \\mathrm { m i n }$ , followedbydistilled $\\mathrm { H } _ { 2 } \\mathrm { O }$ for $1 0 \\mathrm { m i n }$ ，and $0 . 2 \\%$ sodium borohydride $\\mathrm { ( N a B H _ { 4 } ) }$ ）for $1 0 \\mathrm { m i n }$ .Theslides were then dried before use. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RNA preparation and probe labeling ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For transcriptional profiling，three independent replicates of each sample(Table 1) were grown overnight from the frozen archives in $5 0 \\mathrm { m l }$ YPD at $3 0 ^ { \\circ } \\mathrm { C }$ .Each independent replicate of cultures was diluted in $1 5 0 \\mathrm { m l }$ fresh YPD to an optical density at 600 nm $\\left( \\mathrm { O D } _ { 6 0 0 } \\right)$ of 0.1-0.2 and grown at $3 0 ^ { \\circ }$ for $3 \\mathrm { h }$ to the early logarithmic phase of the density equivalent OD of O.4-O.5 for subsequent RNA isolation.The cultures were harvested by centrifugation at $3 6 0 0 g$ at $4 ^ { \\circ } \\mathrm { C }$ for $5 \\mathrm { { m i n } }$ .The medium was completely removed by aspiration, and the cell pellets were flash frozen on dry ice and stored at $- 8 0 ^ { \\circ } \\mathrm { C }$ until RNA preparation. Total RNA was isolated from frozen cells by modification of the lstep method (Chomczynski and Sacchi, 1987). The RNA pellet was resuspended in diethyl pyrocarbonate-treated water. Optical densities were measured at 260 and $2 8 0 \\mathrm { n m }$ ， and integrity of RNA was visualized by subjecting $2 { - } 5 \\mu \\mathrm { l }$ of the sample to electrophoresis through a $1 \\%$ agaroseMOPS gel. $\\mathrm { { \\bf P o l y } ( A ) } ^ { + }$ RNA was extracted using an Oligotex mRNA kit (Qiagen, Germany) and quantified using a RiboGreen RNA quantification kit (Molecular Probes,Eugene,OR). The fluorescent cDNA probes were prepared through reverse transcription with Cy3- or Cy5-deoxy UTP (Amersham Pharmacia Biotech, Piscataway，NJ) as follows: $5 \\mu \\ g$ of oligo (dT) 18 was added and annealed to $3 \\mu \\ g$ RNA by heating the reaction to $7 0 ^ { \\circ } \\mathrm { C }$ for $1 0 \\mathrm { m i n }$ ，and then chilling on ice. The final reaction buffer mixture contained dNTPs $2 0 0 \\mu \\mathrm { M }$ dATP, dCTP, dGTP, $6 0 \\mu \\mathrm { M }$ dTTP,and $6 0 \\mu \\mathrm { M }$ Cy3- or Cy5-dUTP), $2 \\mu \\mu$ Superscript II reverse transcriptase (Invitrogen),and $1 \\times$ reaction buffer. Reactions were carried out at $4 2 ^ { \\circ } \\mathrm { C }$ for $2 \\mathrm { h }$ . RNA was hydrolyzed by adding $4 \\mu 1 2 . 5 \\mathrm { M } \\mathrm { N a O H }$ and incubating at $6 5 ^ { \\circ } \\mathrm { C }$ for $1 0 \\mathrm { m i n }$ and then neutralized with $4 \\mu \\updownarrow 2 . 5 \\ M$ HCl. The RNA samples from control group cells were labeled with Cy3-dUTP and those from experimental group cells with Cy5-dUTP.The 2 color probes were then mixed and diluted to $5 0 0 \\mu \\mathrm { l }$ with TE buffer,and concentrated using a Microcon YM-30 filter (Millipore, Bedford,MA） to $1 0 \\mu \\mathrm { l }$ . The sample was then vacuum dried. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Microarray hybridization ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Each set of samples was used for separate array hybridizations.In the first two hybridizations cDNA from the susceptible isolate labeled with Cy3 and cDNA from the resistant isolate labeled with Cy5 was used,and in the third hybridization cDNA from the susceptible isolate labeled with Cy5 and cDNA from the resistant isolate labeled with Cy3.Thus,a total of three independent hybridization experiments were performed for each set of susceptible and resistant isolates.The fluorescently labeled cDNA probes were dissolved in $2 0 \\mu \\mathrm { l }$ hybridization solution $( 5 \\times \\mathsf { S S C }$ ， $0 . 4 \\% \\mathrm { S D S }$ ， $50 \\%$ formamide). Microarrays were pre-hybridizedwith hybridization solution containing $0 . 5 \\mathrm { m g / m l }$ denatured salmon sperm DNA at $4 2 ^ { \\circ } \\mathrm { C }$ for $6 \\mathrm { h }$ . Fluorescent probe mixtures were denatured at $9 5 ^ { \\circ } \\mathrm { C }$ for $5 \\mathrm { { m i n } }$ ，and the denatured probe mixtures were applied onto the prehybridized chip under a cover glass. Chipswere hybridized inahomemadechamberat $4 2 ^ { \\circ } \\mathrm { C }$ for $1 5 { - } 1 7 \\mathrm { h }$ The hybridized chips were then washed at $6 0 ^ { \\circ } \\mathrm { C }$ for $1 0 \\mathrm { m i n }$ each in solutions of $2 \\times { \\bf S S C }$ and $0 . 2 \\%$ SDS, $0 . 1 \\times \\mathrm { S S C }$ and $0 . 2 \\%$ SDS and $0 . 1 \\times \\mathrm { S S C }$ ，then dried at room temperature. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Detection and data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The chips were scanned with a ScanArray 3ooo (GSI Lumonics,Bellerica，MA）at 2 wavelengths to detect emission from both Cy3 and Cy5.GenePix 1.0 software (Axon Instruments,Inc.）was used for image analysis and data visualization.The intensities of each element at the 2 wavelengths represent the quantity of Cy3-dUTP and Cy5-dUTP，respectively，hybridized to each element.The local background values were calculated from the area surrounding each element and the background values were subtracted from the total element signal values.These adjusted values were used to determine differential gene expression $( \\mathrm { C y } 5 / \\mathrm { C y } 3$ ratio） for each element.To rule out possible artifacts arising from low expression values,only genes with raw intensity values for both Cy3 and Cy5 of more than 800 counts were chosen for differential analysis (Li et al.，2Oo2).To balance the systematic differences in the probe labeling or detection efficiencies between the fluorescent dyes used，a normalized factor $N _ { \\mathrm { t o t a l } }$ is calculated by summing the measured intensities in both channels ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { \\mathrm { t o t a l } } = \\frac { \\sum _ { i = 1 } ^ { N _ { \\mathrm { a r r a y } } } C y 5 _ { i } } { \\sum _ { i = 1 } ^ { N _ { \\mathrm { a r r a y } } } C y 3 _ { i } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C y { 5 _ { i } }$ and $C y 3 _ { i }$ are the measured intensities for the ith array element and $N _ { \\mathrm { a r r a y } }$ is the total number of elements represented in the microarray. $C y 3$ intensities for each element are appropriately scaled, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC y 3 _ { k } ^ { \\prime } = N _ { \\mathrm { t o t a l } } C y 3 \\mathrm { a n d } C y 5 _ { k } ^ { \\prime } = C y 5 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "so that the normalized expression ratio for each element becomes ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R a t i o } _ { k } = C y 5 _ { k } / C y 3 _ { k } ^ { \\prime } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the present study,only elements with a balanced differential expression ratio greater than or equal to 1.5 or less than or equal to $0 . 6 7 \\ : \\ : \\ : ( - 1 . 5 )$ in all three independent experiments,were considered to be differentially expressed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DNA sequences were annotated based on the results of BLASTN and BLASTX searches using GenBank (http:// www.ncbi.nlm.nih.gov/entrez/query.fcgi)， the Stanford University(PaloAlto， CA） sequencingdatabase (http://www-sequence.stanford.edu/group/candida/), and the CandidaDB database (http://genolist.pasteur.fr/ CandidaDB/). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "cDNA synthesis and reverse transcription-PCR (RT-PCR) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "One $\\mu \\ g$ of total RNA was used as a template for cDNA synthesis and subsequent RT-PCR amplification was performed using the One Step RNA PCR kit (AMV) from Takara following the manufacturers instructions. The following parameters were used for the amplification of specific genes: reverse transcription at $5 0 ^ { \\circ } \\mathrm { C }$ for $3 0 \\mathrm { m i n }$ heat inactivation of reverse transcriptase at $9 4 ^ { \\circ } \\mathrm { C }$ for 5 min; 26 to $3 4 ~ \\mathrm { P C R }$ cycles ( $9 4 ^ { \\circ } \\mathrm { C }$ for $3 0 \\mathrm { s }$ ，agene-specific annealing temperature for $3 0 \\mathrm { s }$ ， $7 2 ^ { \\circ } \\mathrm { C }$ for 90 s); and $7 2 ^ { \\circ } \\mathrm { C }$ for $5 \\mathrm { { m i n } }$ ．Equivalent volumes of PCR products were applied to a $1 . 5 \\%$ agarose gel with ethidium bromide and separatedby gel electrophoresisin $1 \\times { \\mathrm { T A E } }$ .Primer sequences used for amplification of specific genes by RTPCR are shown in Table 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Differential gene expression in fluconazolesusceptible and -resistant isolates ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The use of $C .$ albicans microarray techniques permits the investigation of global changes in gene expression between drug-susceptible and drug-resistant isolates.TL1/ TL3 and FH1/FH5,the two sets of clinical fluconazolesusceptible and -resistant isolates used in the present study have been well characterized and matched (Xu et al., 2005).FHl/FH5 were isolated from a patient who underwent a bone marrow transplant (BMT） operation and represent the same strain according to the identical bandingpatterns of the restriction fragment length polymorphism(RFLP) analysis. TL1/TL3 was obtained from another BMT patient, and revealed identical banding patterns in RFLP analysis.We examined a large-scale gene expression between TL1 and TL3，FH1 and FH5 simultaneously by the cDNA microarray containing 3096 unigenes in $C .$ albicans. A total of 198 genes were found to be differentially expressed between TL3 and TL1 isolates,of which 105 genes were up-regulated and 93 genes were down-regulated (Table 3);and 257 differentially expressed genes between FH5 and FH1 isolates, including 110 up-regulated genes and 147 down-regulated genes (Table 4). The distribution of those genes and their biological roles are listed in the Supplementary Table in the online version of this article. The category of genes with the largest number of responses was that of unknown function $( 3 1 . 4 \\% )$ ，followed by metabolism $( 2 4 . 4 \\% )$ ， proteinsynthesis $( 1 1 . 0 \\% )$ ，small-moleculetransport $( 9 . 7 \\% )$ ，amino acid metabolism $( 7 . 0 \\% )$ ，cellstress $( 5 . 0 \\% )$ ，transcription $( 3 . 5 \\% )$ ，lipid， fatty acid,and sterol metabolism $( 2 . 3 \\% )$ ,and others $( 5 . 7 \\% )$ (Xu et al., 2005). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To confirm the differential expression result obtained by microarray，selective important $C$ albicans genes were subjected to RT-PCR to compare their transcrip tion level. The results are shown in Figs.1-3. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/20fdbe642e605fc0fecbab0d2103fe35b42593877fe0bb0bf6f558ffee52c18a.jpg",
+        "table_caption": [
+            "Table 2. Sequences and melting temperatures $( T m )$ of primers used in RT-PCRa "
+        ],
+        "table_footnote": [
+            "aAbbreviations:F,forward primer;R,reverse primer. "
+        ],
+        "table_body": "<html><body><table><tr><td>Primer</td><td>Sequence</td><td>Tm(C)</td></tr><tr><td>CaCDR1-F</td><td>5'-GGCAATTAGTCAAGACTCTTCTTCAG-3'</td><td>57.2</td></tr><tr><td>CaCDR1-R</td><td>5'-CACCTGGTCTCATAATGGCATC-3'</td><td>56.7</td></tr><tr><td>CaCDR2-F</td><td>5'-CAGCTAGACGAAAAGCCATGG-3'</td><td>57.1</td></tr><tr><td></td><td>5'-CACCTGGTCTCATAATGGCATC-3'</td><td></td></tr><tr><td>CaCDR2-R</td><td>5'-TGAAGACAAAGAAATCCCAATG-3'</td><td>56.7</td></tr><tr><td>CaIFU5-F</td><td>5'-AATAGCATACCTCCTAACAAACC-3'</td><td>57.6</td></tr><tr><td>CaIFU5-R CaPDR16-F</td><td>5'-AATTCCTACAGGAGGGATTTTCC-3'</td><td>57.2</td></tr><tr><td>CaPDR16-R</td><td>5'-ATATTCCGTTATTTGCGAGCTTA-3'</td><td>60.0</td></tr><tr><td>CaIFD6-F</td><td>5'-AACTAAGTCTTCAGCATGAGCCAATT-3'</td><td>58.7</td></tr><tr><td>CaIFD6-R</td><td>5'-GGGCGTGTTTATGTCGTCCATT-3'</td><td>62.5</td></tr><tr><td>CaRTA2-F</td><td>5'-GACGATGACCTCTTACCGATTT-3'</td><td>63.6</td></tr><tr><td>CaRTA2-R</td><td>5'-CTTTCTGTGCGTCAAGTAACCA-3'</td><td>57.8</td></tr><tr><td>IPF7530-F</td><td>5'-CTATTGGAGAAGGCGAGGAAGA-3'</td><td>58.2</td></tr><tr><td>IPF7530-R</td><td>5'-TGTTGAGTCACATAGGCAGAAA-3'</td><td>60.5 55.9</td></tr><tr><td>CaYOR1-F</td><td>5'-AACCTCGGAATAATACTGGATCT-3'</td><td></td></tr><tr><td>CaYOR1-R</td><td>5'-AATGCTTCATTAGCTTATGAGACC-3'</td><td>56.3 57.3</td></tr><tr><td>CaPXA1-F</td><td>5'-ATCTTTGTCTTTCACCACCACTC-3'</td><td>57.6</td></tr><tr><td>CaPXA1-R</td><td>5'-ACGAGACCAAATAATTTACCCTC-3'</td><td>56.8</td></tr><tr><td>IPF10565-F</td><td>5'-CGGTAATCCTGATACTCTTGAA-3'</td><td>54.3</td></tr><tr><td>IPF10565-R</td><td>5'-AACTACTGATGGGAAACATAGA-3'</td><td>51.2</td></tr><tr><td>CaALD5-F</td><td>5'-TTGGTGGGTTGATTTTCATTCT-3'</td><td>58.8</td></tr><tr><td>CaALD5-R</td><td>5'-CTTTGGTCCAGTTGTCACTTTG-3'</td><td>57.4</td></tr><tr><td>CaSOD2-F</td><td>5'-AGCACTATCGGAAGTAACTC-3'</td><td>62.0</td></tr><tr><td>CaSOD2-R</td><td>5'-GTGGTTACCTCAATCATTGT-3'</td><td>62.0</td></tr><tr><td>CaGRP1-F</td><td>5'-TAGCATTATTGTTCACCCTTGC-3'</td><td>57.6</td></tr><tr><td>CaGRP1-R</td><td>5'-AGTGGTTGTAAACCCATCTTGG-3'</td><td>58.4</td></tr><tr><td>IPF8374-F</td><td>5'-CCCGAAAGTTTGTCCATGTTGT-3'</td><td></td></tr><tr><td>IPF8374-R</td><td>5'-GGCTTTATTTGCTGGTGGTAGA-3'</td><td>61.4</td></tr><tr><td>CaCCC2-F</td><td>5'-TATCATTTCCCATCGCCACCC-3'</td><td>59.1</td></tr><tr><td>CaCCC2-R</td><td>5'-CAGGGATTCAGGCTTTCTTCT-3'</td><td>64.2</td></tr><tr><td>CaCRD1-F</td><td>5'-AATTCAAAGCCATACTACTCAAGAC-3'</td><td>57.9</td></tr><tr><td>CaCRD1-R</td><td>5'-TGGGTGGTAATAAAGAACCAAGT-3'</td><td>56.6</td></tr><tr><td>CaCRD2-F</td><td>5'-TATAATAATTAAGGGGGGAGAGG-3'</td><td>57.8</td></tr><tr><td>CaCRD2-R</td><td>5'-ATGTTGATGATACTGAGGAGGGA-3'</td><td>56.5</td></tr><tr><td>CaCTR1-F</td><td>5'-GTCATAGCAGCCAACATCAAGG-3'</td><td>57.9</td></tr><tr><td>CaCTR1-R</td><td>5'-ATTATGCCGAAGTAGAACAAGG-3'</td><td>59.9</td></tr><tr><td>CaCTR2-F</td><td>5'-TATCGTTGAAGCATTGGAAGC-3'</td><td>56.2</td></tr><tr><td></td><td></td><td>58.2</td></tr><tr><td>CaCTR2-R</td><td>5'-TGGTGGCATGTTAAGACAGAA-3'</td><td>56.4</td></tr><tr><td>CaFET3-F</td><td>5'-GTGTTGCTGCGTTCTTAGGCT-3'</td><td>59.9</td></tr><tr><td>CaFET3-R</td><td>5'-CCATTTGGAATTTCACGGTTG-3'</td><td>60.4</td></tr><tr><td>18S rRNA-F</td><td>5'-GCCAGCGAGTATAAGGCTTG-3'</td><td>56.7</td></tr><tr><td>18S rRNA-R</td><td>5'-AGGCCTCACTAAGCCATTCA-3'</td><td>57.3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Identification of differentially expressed ATPbinding cassette (ABC) transporter superfamily genes ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Expression of several ABC transporter genes was highly coordinated with resistant phenotype. The two ABC transporter genes，CaCDRl and CaCDR2，are known to be differentially expressed in many azoleresistant isolates and can be induced by various drugs, such as estradiol, fluphenazine and fluconazole(Franz et al., 1998; Karababa et al., 2004; Rex et al., 1995).For the two sets of isolates in the present study,it was shown that the resistant isolates TL3 and FH5 contained approximately 7- and 2.5-fold more mRNA for $C D R$ (common probe for the CaCDRl and CaCDR2） by Northern analyses (Marr et al.，1998, 2001).Our microarray results also proved the up-regulation of CaCDRl intheresistantisolates,which wasfoundto be ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/29e27cfe6f01ceca79b7ae501fd1047f13925c8554bc324223ffa46afe7fc596.jpg",
+        "table_caption": [
+            "Table 3. Genes that were differentially expressed in TL3 compared to TL1 (partial) "
+        ],
+        "table_footnote": [
+            "aGene functions were obtained using the CandidaDB databases available from the Pasteur Institute. bResponseis expresedasteaveragefoldcangerelativetotevaluefortesusceptible solatefromthridependentexperimentsValues $> + 1 . 5$ mean that the genes were up-regulated in resistant isolates versus the sensitive strains; values $< - 1 . 5$ mean that the genes were down-regulated in resistant isolates versus the sensitive strains. Genes were identified at http://www.ncbi.nlm.nih.gov/entrez/query.fcgi. $^ { \\mathrm { d } } P D R I \\delta$ were identified at http://www-sequence.stanford.edu:8080/bin/blastnComb. "
+        ],
+        "table_body": "<html><body><table><tr><td>Gene group and CandidaDB entry</td><td>ORF (Assembly 19)</td><td>Function (gene)a</td><td>Average folc changeb</td></tr><tr><td>ABC transporters</td><td></td><td></td><td></td></tr><tr><td>CA4190</td><td>orf19.4531</td><td>ABC protein (IPF7530)</td><td>+4.5</td></tr><tr><td>CA6066</td><td>orf19.6000</td><td>Multidrug resistance protein (CaCDRI)</td><td>+2.3</td></tr><tr><td>CA5844</td><td>orf19.7500</td><td>Long chain fatty acid ABC transporter (CaPXA1)</td><td>+2.1</td></tr><tr><td>CA6194</td><td>orf19.1784</td><td>ABC transporter protein (Ca YORl)</td><td>+1.8</td></tr><tr><td>Copper transporters</td><td></td><td></td><td></td></tr><tr><td>CA2832</td><td>orf19.4784</td><td>Copper transporting P1-type ATPase(CaCRD1)</td><td>+3.3</td></tr><tr><td>AF268099℃</td><td></td><td>Copper-binding metallothioneins (CaCRD2)</td><td>+2.8</td></tr><tr><td>CA1600</td><td>orf19.4720</td><td>Copper transport protein (CaCTR2)</td><td>+1.9</td></tr><tr><td>CA1655</td><td>orf19.4328</td><td>Copper-transporting P-type ATPase (CaCCC2)</td><td>+1.9</td></tr><tr><td>AF193509℃</td><td></td><td>Copper resistance-associated metallothioneins (CaCUP1)</td><td>-2.6</td></tr><tr><td>CA4932</td><td>orf19.6073</td><td>Potential heme oxygenase, similar to S. cerevisiae HMX1 (IPF8374)</td><td>-2.6</td></tr><tr><td>CA1496</td><td>orf19.3646</td><td>Copper transport protein(CaCTRl)</td><td>-3.8</td></tr><tr><td>Response to stress</td><td></td><td></td><td></td></tr><tr><td>CA0281</td><td>orf19.1438</td><td>Potential oxidoreductase (IPF10565)</td><td>+3.6</td></tr><tr><td>CA0473</td><td>orf19.4781</td><td>Dihydroflavonol-4-reductases (CaGRP1)</td><td>+3.5</td></tr><tr><td>CA0917</td><td>orf19.2969</td><td>Nucleotide excision repair protein (CaRAD16)</td><td>+2.3</td></tr><tr><td>CA2719</td><td>orf19.3340</td><td>Manganese-superoxide dismutase (CaSOD2)</td><td>-1.7</td></tr><tr><td>CA4474</td><td>orf19.1896</td><td>Mitochondrial heat shock protein 7O-related protein</td><td>-1.7</td></tr><tr><td>CA4347</td><td>orf19.6722</td><td>(CaSSC1) Excision repair protein, similar to S. cerevisiae Rad4p</td><td>-2.0</td></tr><tr><td>CA3011</td><td>orf19.6229</td><td>(IPF3636) Catalase A, peroxisomal (CaCTAl)</td><td>-2.2</td></tr><tr><td>CA4159</td><td>orf19.5806</td><td>Aldehyde dehydrogenase (NAD) (CaALD5)</td><td>-2.3</td></tr><tr><td>CA2190</td><td>orf19.4774</td><td>Alternative oxidase (CaAOX1)</td><td>-2.6</td></tr><tr><td>CA4034</td><td>orf19.3664</td><td>Heat shock protein (CaHSP31)</td><td>-2.7</td></tr><tr><td>CA2189</td><td>orf19.4773</td><td>Alternative oxidase (CaAOX2)</td><td>-4.4</td></tr><tr><td>Resistance related</td><td></td><td></td><td></td></tr><tr><td>CA2679</td><td>orf19.2568</td><td>Unknown function (CaIFU5)</td><td>+7.8</td></tr><tr><td>CA4484</td><td>orf19.1880</td><td>Ferrochelatase precursor(CaHEM15)</td><td>+3.0</td></tr><tr><td>396066A06.sl.seqd</td><td>orf19.8629</td><td>Involved in lipid biosynthesis and multidrug resistance, similar to S. cerevisiae Pdrl6p(CaPDR16)</td><td>+2.2</td></tr><tr><td>CA1943</td><td>orf19.4737</td><td>multidrug resistance proteins, similarity to S. cerevisiae</td><td>+2.1</td></tr><tr><td>CA2417</td><td>orf19.4476</td><td>Polyamine transport protein Yprl56c (IPF11759) Putative aryl-alcohol dehydrogenase (CaIFD6)</td><td>+1.8</td></tr><tr><td>CA0474</td><td>orf19.4780</td><td>Putative multidrug protein (IPF12887)</td><td>+1.7</td></tr><tr><td>CA4844</td><td>orf19.3812</td><td>Drug resistance (CaPDR13)</td><td>-1.6</td></tr><tr><td>CA1983</td><td>orf19.88</td><td>Ketol-acid reducto-isomerase (CaILV5)</td><td>-1.7</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3-and 2.5-fold up-regulated in isolates TL3 and FH5, respectively. However， the CaCDR2 gene was not represented on the array used in the present study. Therefore，to confirm the differential expression of CaCDRl and CaCDR2,independent RT-PCR experiments were performed to validate the up-regulation of CaCDRlandCaCDR2intheresistantisolatesTL3and FH5 (Fig. 1). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "BesidesCaCDRlandCaCDR2，weidentifiedthree other up-regulated ABC transporter genes,including ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/48c0c6fc692678a41f1af9cd142ba58e658edee3cc520ff8a8c5c412cbcd9012.jpg",
+        "table_caption": [
+            "Table 4. Genes that were differentially expressed in FH5 compared to FHl (partial) "
+        ],
+        "table_footnote": [
+            "aGene functions were obtained using the CandidaDB databases available from the Pasteur Institute. bResponseis expressed astheaveragefoldchangerelativetothevalueforthsusceptible isolatefromthre independent experiments. Genes were identified at http://www.ncbi.nlm.nih.gov/entrez/query.fcgi. d PDR16 were identified at htp://www-sequence.stanford.edu:8080/bin/blastnComb. "
+        ],
+        "table_body": "<html><body><table><tr><td>Gene group and CandidaDB entry no.</td><td>ORF (Assembly 19)</td><td>Functiona</td><td>Average fold changeb</td></tr><tr><td>ABC transporters</td><td></td><td></td><td></td></tr><tr><td>CA6066</td><td>orf19.6000</td><td>Multidrug resistance protein (CaCDRl)</td><td>+2.5</td></tr><tr><td>Copper transporters</td><td></td><td></td><td></td></tr><tr><td>AF268099℃</td><td></td><td>Copper-binding metallothioneins(CaCRD2)</td><td>+1.7</td></tr><tr><td>Y09329C</td><td>orf19.4213</td><td>Multicopper oxidase (CaFET3)</td><td>-2.1</td></tr><tr><td>CA1262</td><td>orf19.1244</td><td>Maclp interacting protein (CaGYP2)</td><td>-2.1</td></tr><tr><td>CA4932</td><td>orf19.6073</td><td>Potential heme oxygenase, similar to S. cerevisiae HMX1 (IPF8374)</td><td>-2.8</td></tr><tr><td>Response to stress</td><td></td><td></td><td></td></tr><tr><td>CA0281</td><td>orf19.1438</td><td>Potential oxidoreductase (IPF10565)</td><td>+4.4</td></tr><tr><td>CA4034</td><td>orf19.3664</td><td>Heat shock protein (CaHSP31)</td><td>+3.0</td></tr><tr><td>CA1239</td><td>orf19.717</td><td>Heat Shock Protein 60 (CaHSP60)</td><td>+2.3</td></tr><tr><td>CA2190</td><td>orf19.4774</td><td>Alternative oxidase (CaAOX1)</td><td>+1.6</td></tr><tr><td>CA2857</td><td>orf19.1065</td><td>Heat shock protein of HSP70 family (CaSSA1)</td><td>-1.8</td></tr><tr><td>CA2719</td><td>orf19.3340</td><td>Manganese-superoxide dismutase (CaSOD2)</td><td>-1.9</td></tr><tr><td>CA4159</td><td>orf19.5806</td><td>Aldehyde dehydrogenase (NAD) (CaALD5)</td><td>-2.0</td></tr><tr><td>Resistance related</td><td></td><td></td><td></td></tr><tr><td>CA2679</td><td>orf19.2568</td><td>Unknown function (CaIFU5)</td><td>+3.7</td></tr><tr><td>CA4696</td><td>orf19.6924</td><td>Histone H2A (CaHTA1)</td><td>+2.8</td></tr><tr><td>CA4807</td><td>orf19.2094</td><td>Pleiotropic drug resistance regulatory protein (CaPDR6)</td><td>+2.3</td></tr><tr><td>396066 A06.sl.seqd</td><td>orf19.8629</td><td>Involved in lipid biosynthesis and multidrug resistance (CaPDR16)</td><td>+2.3</td></tr><tr><td>CA3607</td><td>orf19.24</td><td>Unknown function (CaRTA2)</td><td>+2.1</td></tr><tr><td>CA5932</td><td>orf19.6771</td><td>Polyubiquitin (CaUBI4)</td><td>-1.5</td></tr><tr><td>CA4844</td><td>orf19.3812</td><td>Drug resistance (CaPDR13)</td><td>-1.7</td></tr><tr><td>CA1959</td><td>orf19.771</td><td>Putative aryl-alcohol dehydrogenase (IFD2)</td><td>-1.8</td></tr><tr><td>CA1983</td><td>orf19.88</td><td>Ketol-acid reducto-isomerase (CaILV5)</td><td>-2.1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IPF7530,CaYOR1 and CaPXA1.IPF7530 represented aputative membrane protein with 13 membranespanning domains,which was similar to Saccharomyces cerevisiae ABC protein YOL075c.Yorlp,a plasma membrane transporter of the ABC family,mediated export of many different organic anions including oligomycin (Karababa et al., 20o4). Pxalp appeared to be a subunit of a peroxisomal ABC transporter necessary for transport oflong-chain fatty acids into peroxisomes.IPF7530,CaYORl and CaPXA1 were found to be up-regulated 4.5-,1.8- and 2.1-fold in the resistant isolate TL3 as compared to the susceptible one TL1, respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We have not found a significant change in CaMDRi between TL3andTL1orbetweenFH5andFH1in our microarray results, and this is consistent with the previous observation (Marr et al., 1998,2001). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Drug response element (DRE) of resistance-related genes and potential targets of TAC1 regulation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Recently, the molecular mechanisms governing the regulation of multi-drug transporter genes have made some progress due to the discovery of $T A C l$ in $C .$ （204 albicans. TAC1 appeared to be the first $C .$ albicans transcription factor involved in the control of genes mediating antifungal resistance.TACl regulated the expression of CaCDRl and CaCDR2,and the deletion of $T A C l$ can result in a loss of transient CaCDRl and CaCDR2 up-regulation after drug exposure (Coste et al., 2004). A fusion protein of Taclp with glutathione S-transferase could bind to the cis-acting regulatory drug-responsive element (DRE) in both the CaCDRl and CaCDR2 promoters(Coste et al., 2004). The DRE sequence containing two 6-bp repetitive elements with ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "HAA00DNAA FH1 FH5 ！ CC CaIFU5 CaIFU5 CaPDR16 CaPDR16 CaRTA2 CaIFD6 IPF7530 18SrRNA CaYOR1 CaPXA1 18SrRNA ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TL1 TL3 FH1 FH5 CaCRD1 CaFET3 CaCRD2 18SrRNA CaCTR1 CaCTR2 CaCCC2 18SrRNA ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "品 CaALD5 CaS0D2 18SrRNA ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$5 ^ { \\prime }$ -CGG $3 ^ { \\prime }$ triplets is known to be required for the basal activity of CaCDRl and the up-regulation of CaCDRl and CaCDR2 (de Micheli etal.,2002).Besides CaCDRl and CaCDR2, three other genes CaIFU5,CaRTA3 and CaHSPl2 that contained a DRE-like element in their promoters,were also identified as targets of TAC1 regulation (Coste et al., 2004). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It is reported that l5 over-expressed genes activated bythe PDRl-3 and PDR3-7 mutations in S. cerevisiae contained a PDRE (pleiotropic drug-responsive element) element $\\mathrm { ( T C G G / a C / t G G / c A / g }$ ，where lowercase letters indicate variable bases in a consensus motif) in their promoters (DeRisi et al.，200O). Interestingly, forseven of the fifteen genes， their $C .$ albicans homologuesshowed differential expression in the present study(Table 5).Furthermore，four of these genes including CaCDRl，CaIFU5，CaPDRl6and CaIFD6 were found to have a DRE-like element (CGGWWWTCGGWWW） in their promoters,while the other four genes(CaRTA2，CaIFD2，CaYOR1, CaGRPl) were found to havea PDRE element in their S. cerevisiae homologues and they do not contain DRElike elements in the promoters (Table 5). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For two predicted membrane proteins, CaIFU5 and CaRTA3,increased transcription has been demonstrated under conditions of CDR overexpression or fluphenazine treatment(Karababa et al.， 2004). Although CaRTA3 was not represented on the array used in the present study， we have observed the differential expression of CaIFU5 and CaRTA2. CaIFU5 was up-regulated 7.8- and 3.7-fold in both resistant isolates TL3 and FH5,respectively,and CaRTA2 was up-regulated 2.1-fold in the resistant isolate FH5.The function of CaIFU5 remainsunknown.CaRTA2 shares the same S. cerevisiae homologue YOR049c with CaRTA3,butunlikeCaRTA3,CaRTA2doesnothave a DRE-like element in its promoter. YOR049c,an ATP-dependent transporter or flippase with seven transmembrane-spanning domains,is involved in the resistance to sphingoidlong-chain base(LCBs) (Kihara and Igarashi，2002). Similarly，Barker et al. (2004) also reported the over-expression of CaIFU5and CaRTA2 in the serially passaged resistant strain SC5314-AR,which was treated with increasing concentrations of amphotericin B. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b0e34f669a317e47ccaaf95cb218fa85040cbca0facfbaac5e37ca6b6132041.jpg",
+        "table_caption": [
+            "cnrleeereerrrer aqes "
+        ],
+        "table_footnote": [
+            "武"
+        ],
+        "table_body": "<html><body><table><tr><td>Gene name</td><td>S. cerevisiae homologue name</td><td>Functiona</td><td>S.cerevisiae homologue with PDREb</td><td>Possible DRE sequence</td><td colspan=\"2\">Average fold change</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>TL3 vs TL1</td><td>FH5 vs FH1</td></tr><tr><td>CA6066</td><td>PDR5/YOR153w</td><td>Multidrug resistance protein (CaCDRI)</td><td>TCCGtGGA</td><td>CGGAAATCGGATA(-460)</td><td>+2.3</td><td>+2.5</td></tr><tr><td>CA2679</td><td>YFL010c</td><td>Unknown function (CaIFU5)</td><td>No PDRE</td><td>CGGAAATCGGATA(-248)</td><td>+7.8</td><td>+3.7</td></tr><tr><td>396066A06.sl.seq</td><td>YNL231c</td><td>Involved in lipid biosynthesis and multidrug resistance</td><td>TCCGCGGA</td><td>CGGATTCGGAAT (-562)</td><td>+2.2</td><td>+2.3</td></tr><tr><td>CA2417</td><td>YPL088w</td><td>(CaPDR16) Putative aryl-alcohol dehydrogenase</td><td>TCCaCGGA</td><td>CGGTTgTCGGAAT (-352)</td><td>+1.8</td><td>No differenced</td></tr><tr><td>CA3607</td><td>YOR049c</td><td>(CaIFD6) Unknown function (CaRTA2)</td><td>TCCGCGGA</td><td>No DRE</td><td>No difference</td><td>+2.1</td></tr><tr><td>CA1959</td><td>YPL088w</td><td>Putative aryl-alcohol dehydrogenase</td><td>TCCaCGGA</td><td>No DRE</td><td>No difference</td><td>-1.8</td></tr><tr><td>CA6194</td><td>YGR281w</td><td>(CaIFD2) ABC transporter protein (CaYORI)</td><td>TCCGtGGA</td><td>No DRE</td><td>+1.8</td><td>No difference</td></tr><tr><td>CA0473</td><td>GRE2/YOL151w</td><td>Stress-induced methylglyoxal reductase (CaGRP1)</td><td>TCCGtGGA</td><td>No DRE</td><td>+3.5</td><td>No difference</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We also found that CaPDRl6 was up-regulated 2.2- and 2.3-fold in both resistant isolates TL3 and FH5, respectively.CaPDRl6 encodes a phosphatidylinositol transfer protein,which modifies the passive diffusion of hydrophobic drugsacross theplasma membrane,thereby modulating multi-drug resistance in S. cerevisiae (van den Hazel et al.，1999). Recently it was found that PDR16 was co-expressed with CaCDRl and CaCDR2 in clinical resistant strain 5674 or upon fluphenazine treatment (de Deken and Raymond,20o4).CaPDR16 not only has a PDRE element in its S. cerevisiae homologue,which was up-regulated in the PDRl-3 and PDR3-7 mutants,but also has a DRE-like element in the promoters though one mismatch was found as compared with the consensus sequence (Table 5). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CaIFD6 was 1.8-fold up-regulated in the resistant isolate TL3.CaIFD6 has a DRE-like motif in its promoter though one mismatch was found as compared with the consensus sequence (Table 5), thus indicating that its over-expression might be potentially regulated byTAC1.However, CaIFD2 had no DRE element and also showed 1.8-fold down-regulation in the resistant isolate FH5.CaIFD6 and CaIFD2 are two members of the $I F D$ family which is homologous to $Y P L O 8 8 W$ in $S$ （2 cerevisiae,a family of putative alcohol dehydrogenase/ oxidoreductase. $Y P L O 8 8 W$ hasa PDRE element in the promoter and it is one of the 26 genes upregulated in the pdrl-3 mutant strain in S. cerevisiae，indicating its responsiveness to $P D R I$ and PDR3 (DeRisi et al., 2000). Members of the IFD gene family, the encoded products of which could have benzyl alcohol dehydrogenase activity，especiallyCaIFD1，CaIFD4，CaIFD5，and CaIFD7，have been found to be over-expressed in multiple resistant isolates,including clinical isolates with stepwise resistance from an OPC patient with AIDS，clinical isolates with CaMDRl up-regulation, and resistant strains treated with benomyl or $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ (Rogers and Barker, 2002, 2003; Karababa et al., 2004). CaIFD6 and CaIFD2 have also been observed to be upregulated in two proteomic studies comparing susceptible and resistant C. albicans isolates (Hooshdaran et al., 2004; Kusch et al., 2004). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Role of oxidative stress response genes ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "IPFI0565 was found to be up-regulated 4.3- and 3.1- fold in both isolates TL3 and FH5,respectively. IPFI0565 is a potential oxidoreductase that is similar to CPD1 in S. cerevisiae. ScCPDl encodes a protein of the FAD-dependent pyridine nucleotide reductases. Over-expression of either of Cpdlp and Snq2p could mediate resistance to singlet oxygen-generating compounds (Ververidis et al.， 2001). Snq2p is a wellcharacterized ABC-type multi-drug eflux protein in S.cerevisiae and its direct role in multi-drug and steroid export has been previously established (Anderson et al., 2003). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CaALD5 was down-regulated 2.3- and 2.0-fold in both resistant isolates TL3 and FH5 from the BMT patients,respectively.CaALD5 encodes mitochondrial aldehyde dehydrogenase which plays a role in regulation or biosynthesis of electron transport chain components (Kurita and Nishida，1999). Impairment or loss of mitochondrial function was reported to be associated with increased expression of Pdr5p in S. cerevisiae (Hallstrom and Moye-Rowley，200O). Since the ald5 mutant is defective in respiration,downregulation of CaALD5 may therefore contribute to overexpression of CaCDRl and CaCDR2 in resistant isolates.Previous studieshave showna relationship between CaALD5 and azole resistance in C. albicans from an OPC patient with AIDS，as CaALD5 was down-regulated 3.8-fold in resistant isolate 2-79 to 12-99 (Rogers and Barker, 2002). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We observed that CaGRP1 was also up-regulated 3.9- fold in the resistant isolates TL3. CaGRP1 is a homolog of $G R E 2$ in S. cerevisiae which encodes a putative reductase similar to plant dihydroflavonol-4-reductases, and it responses to osmotic stress,ionic,oxidative,heat stress and heavy metals (Rogers and Barker，2003). Containing a PDRE element in the promoter, ScGre2p has been demonstrated to be up-regulated in azole resistant S. cerevisiae isolates with constitutive activation of the transcription factor PDR3 (DeRisi et al., 2000; Nawrocki et al., 2001).In C. albicans, CaGRP2 was found to be up-regulated in the stepwise resistance development from susceptible to resistant isolates by microarray and proteomic studies (Hooshdaran et al., 2004;Rogers and Barker，2003)，and transcriptional increased upon fluphenazine or benomyl treatment (Karababa et al., 2004). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CaSOD2 was down-regulated 1.7- and 1.9-fold in the resistant isolate TL3 and FH5,respectively. The downstream gene CaCTA1 of CaSOD2 wasalso down-regulated in resistant isolate TL3. Superoxide dismutases (SODs) convert superoxide radicals into less damaging hydrogen peroxide,and the catalase encoded by CaCTA1 then converts hydrogen peroxide to water (Martchenko et al.， 2004). CaSOD1，encoding the cytosolic copper- and zinc-containing SOD (CuZnSOD),is required for the protection against oxidative stresses and the establishment of full virulence (Hwang et al.,2002). The down-regulation of CaSOD1 has been observed in multiple resistant isolates in C. albicans, including the isolates treated by benomyl, fluconazole and a series of isolates with stepwise resistance from a clinical OPC patient with AIDS (Cowen et al., 2002; Karababa et al.， 2004; Rogers and Barker，2003).C. albicans CaSOD2 encoded a mitochondrial manganesecontaining SOD(MnSOD),which had no effect on the virulence aspect of this fungus but protects the cell against intracellularly produced superoxides. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Copper transport and iron mobilization related genes ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "One of our important findings is the observation of the differential expression of a series of copper and iron transporter genes.Copper is essential for enzymes involved in a multitude of biological processes such as signaling the transcription and protein trafficking machinery，oxidative phosphorylation,iron mobilization，neuropeptide maturation,and normal develop ment (Rees et al., 2004; Riggle and Kumamoto, 2000). The acquisition of iron,which is an equally important factor,has also been known to be important for the growth, survival and virulence of C. albicans (Ramanan and Wang,2Ooo). The organism can acquire iron from heme and establish an infection by binding to and lysing erythrocytes (Marvin et al., 2003).Interestingly, we have observed a series of copper and iron mobilizationrelated geneswhich showed differential expression between the two sets of resistant and susceptible isolates. From our results，CaCRD1，CaCRD2，CaCTR2 and CaCCC2 were all up-regulated in the resistant isolates TL3and/orFH5,whereasCaCTR1,CaFET3,CaCUP1 and CaGYP2 were down-regulated in the resistant isolates TL3 and/orFH5. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CaCRD1 and CaCRD2 encode P1-type ATPases as copper-binding metallothioneins. CaCRD1 is mainly involved in high-level copper resistance in C. albicans (Riggle and Kumamoto, 20oO). In addition to its role in copper homeostasis Crd2p may also play a role in reducing oxidative stress (Palmiter,1998;Tamai et al., 1993).We observed a 3.5-fold up-regulation of CaCRD1 in the resistant isolate TL3 while CaCRD2 was upregulated 2.8- and 1.7-fold in both resistant isolates, TL3 and FH5, respectively. This up-regulation can lead to copper resistance in the resistant isolates. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The multi-copper oxidase gene CaFET3 and the copper transporter CaCCC2 are both required for high-affinity iron import (Marvin et al., 20O4; Ramanan and Wang, 200o; Weissman et al., 2002). A homozygous deletionofCaCCC2resulted instrainswithdefective high-affinity iron uptake,presumably as a result of incorrect delivery and incorporation of copper into CaFet3p (Marvin et al., 2004). We found that CaCCC2 was up-regulated 1.9-fold in TL3 and CaFET3 was down-regulated 2.1-fold in the resistant isolate FH5,as compared to thei susceptible isolate. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Recent research pointed out that the absence of heme resulted in decreased transcription of genes belonging to both the iron and copper regulons,and proved that the inhibition of heme biosynthesis can prevent transcrip tion of iron uptake genes in yeast (Crisp et al., 2003). In ourstudy,IPF8374 showed a 2.8- and 3.1-fold downregulation in resistant isolates TL3 and FH5,respectively. $I P F 8 3 7 4$ is similar to HMXl in S. cerevisiae, which encodes a potential heme oxygenase.It catalyzes the rate-limiting step in the degradation of heme to bilirubin,and it is essential for recycling of iron from heme.Deletion ofHMXl resulted inadecrease inheme degradation activity,so it is important for heme iron reutilization and the homeostasis of regulatory pools of iron and heme (Protchenko and Philpott,2003).It is reasonable to presume that down-regulation of $I P F 8 3 7 4$ resulted in a decrease of heme degradation activity.If heme is increased, there may be not enough fluconazole to bind to the excessive heme, resulting in an incomplete blocking of $1 4 \\alpha$ -demethylase(CYP51).Our observation provides a possible link between excess heme and azole resistance in $C .$ albicans. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CaCTRl is required for high-affinity copper uptake in C. albicans. When heterologously expressed inS. cerevisiae,CaCTRl was highly expressed in conditions of copper limitation and strongly repressed in conditions of copper excess (Marvin et al.，2003). Our results showed that CaCTRl was down-regulated 3.8-fold in the resistant isolate TL3.It was consistent with its function of facilitating the transport of copper into the cell (Marvin et al.，20o3),and also coincided with the up-regulated behavior of those copper efflux transporter CaCCC2 and copper-binding metallothioneins CaCRD1 and CaCRD2 in the present study.Unlike CaCTR1 encoding membrane-associated copper transport proteins, $\\mathrm { C t r 2 p }$ is localized to the vacuole membrane and provides bioavailable copper via mobilization of intracellular vacuolar copper stores in S. cerevisiae. We showed that CaCTR2 was up-regulated 1.9-fold,and the over-expression of CaCTR2 possibly led to the decrease of copper stores in the vacuole and its increase in the cytoplasm due to the transport of copper from vacuole into cytoplasm (Labbe et al., 1997). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To our knowledge,our study (this report and $\\mathrm { ( X u }$ et al., 2005)) is the first to use cDNA microarray analysis to investigate large-scale gene expression in two sets of azole-resistant/-susceptible C. albicans isolates from ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "BMT patients. Our results demonstrate that the transcriptional profile of azole-resistant isolates from BMT patients is similar to that of isolates from OPC patients with increased expression of CDR mRNA. Some common genes involved in drug resistance,which have been demonstrated previously in other resistant clinical isolates or experimental strains,have also been observed in the present study,such as the up-regulation of CaIFU5，CaRTA2，CaIFD6，and CaGRP1.Some ABC transporter genes (IPF7530, CaYORl, CaPXA1), oxidative stress response genes (IPF10565，CaALD5, CaGRP1，CaSOD2，CaCTAl)，and copper transport andironmobilization-relatedgenes(CaCRD1/2, CaCTR1/2，CaCCC2，CaCUP1，CaFET3) were found to be associated with the resistant phenotype. Furthermore,some genesco-regulated with CaCDRl,CaCDR2 andCaIFU5，such asCaPDR16 and CaIFD6，have a DRE-like element and may interact with $T A C l$ in the promoter region.Further studies are needed to investigate the specific contribution of these genes to the azoleresistant phenotype. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by two grants from The National Natural Science Foundation of P.R. China (30200012，30300442） and The Key Scientific and Technological Program Project Grant of Shanghai (03JC140o6).We thank William Fonzi and Theodore C.White for kindly providing the isolates used in this study: $C .$ albicans SC5314 was obtained from William Fonzi, C.albicans isolates TL1/TL3 and FH1/FH5 were obtained from Theodore C.White. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Appendix A. Supplementary Materials ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data associated with this article can be found in the online version at doi:10.1016/ j.ijmm.2006.03.004. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Anderson，J.B.，Sirjusingh,C.，Parsons，A.B.，Boone,C., Wickens,C.,Cowen,L.E.,Kohn,L.M.，2003.Modeof selection and experimental evolution of antifungal drug resistance in Saccharomyces cerevisiae. Genetics163,   \n1287-1298. Barker,K.S.,Crisp,S.,Wiederhold,N., Lewis,R.E.,Bareither,B.,Eckstein,J.,Barbuch,R.,Bard,M.,Rogers,P.D.,   \n2004. Genome-wide expression profiling reveals genes associated with amphotericin B and fluconazole resistance in experimentally induced antifungal resistant isolates of Candida albicans.J.Antimicrob.Chemother.54,376-385.   \nCalvet，H.M.，Yeaman，M.R.，Filler，S.G.，1997.Reversible fluconazole resistance in Candida albicans: a potential invitro model. Antimicrob. Agents Chemother. 41, 535-539.   \nCao, Y.Y., Cao, Y.B., Xu, Z., Ying, K., Li, Y., Xie, Y., Zhu, Z.Y., Chen, W.S., Jiang, Y.Y., 2005. cDNA microarray analysis of differential gene expression in Candida albicans biofilm exposed to farnesol. Antimicrob. Agents Chemother. 49, 584-589.   \nChomczynski，P.， Sacchi，N.，1987. Single-step method of RNA isolation by acid guanidinium thiocyanate-phenolchloroform extraction.Anal.Biochem.162,156-159.   \nCoste,A.T., Karababa,M., Ischer, F., Bille, J., Sanglard, D., 2004.TACl, transcriptional activator of CDR genes,is a new transcription factor involved in the regulation of Candida albicans ABC transporters CDRl and CDR2. Eukaryot. Cell 3,1639-1652.   \nCowen， L.E.， Nantel， A.， Whiteway，M.S.， Thomas, D.Y., Tessier, D.C., Kohn,L.M., Anderson, J.B.,2002. Population genomics of drug resistance in Candida albicans.Proc. Natl. Acad. Sci. USA 99,9284-9289.   \nCrisp,R.J., Pollington,A., Galea, C., Jaron, S., YamaguchiIwai, Y., Kaplan,J., 20o3.Inhibition of heme biosynthesis prevents transcription of iron uptake genes in yeast. J. Biol. Chem. 278,45499-45506.   \nde Deken, X., Raymond, M., 2004. Constitutive activation of the PDRl6 promoter in a Candida albicans azole-resistant clinical isolate overexpressing CDRl and CDR2.Antimicrob.Agents Chemother. 48,2700-2703.   \nDemain, A.L., Zhang, L.， 2005. Natural products and drug discovery. In: Zhang,L.， Demain， A. (Eds.)， Natural Products: Drug Discovery and Therapeutics Medicines. Humana Press, Totowa, NJ, pp. 3-32.   \nde Micheli,M., Bille, J., Schueller, C., Sanglard,D., 2002.A common drug-responsive element mediates the upregulation of the Candida albicans ABC transporters CDRl and CDR2, two genes involved in antifungal drug resistance. Mol.Microbiol. 43,1197-1214.   \nDeRisi,J., van den Hazel, B., Marc, P.,Balzi, E., Brown, P., Jacq, C., Goffeau, A.,20o0. Genome microarray analysis of transcriptional activation in multidrug resistance yeast mutants.FEBS Lett. 470,156-160.   \nFranz,R., Kelly, S.L., Lamb,D.C., Kelly,D.E., Ruhnke,M., Morschhäuser, J.,， 1998. Multiple molecular mechanisms contribute to a stepwise development of fluconazole resistance in clinical Candida albicans strains.Antimicrob. Agents Chemother. 42,3065-3072.   \nHallstrom,T.C., Moye-Rowley,W.S., 2000. Multiple signals from dysfunctional mitochondria activate the pleiotropic drug resistance pathway in Saccharomyces cerevisiae. J. Biol. Chem. 275,37347-37356.   \nHooshdaran,M.Z., Barker, K.S., Hilliard, G.M.,Kusch,H., Morschhäuser, J., Rogers,P.D.，2004. Proteomic analysis of azole resistance in Candida albicans clinical isolates. Antimicrob. Agents Chemother. 48,2733-2735.   \nHwang, C.S.,Rhie, G.E., Oh, J.H.,Huh,W.K., Yim,H.S., Kang,S.O., 20o2. Copper- and zinc-containing superoxide dismutase $( \\mathrm { C u } / Z \\mathrm { n }$ SOD) is required for the protection of Candida albicans against oxidative stresses and the expression of its full virulence.Microbiology 148,3705-3713.   \nJones,T., Federspiel, N.A., Chibana, H.,Dungan, J., Kalman, S.，Magee,B.B.，Newport,G.,Thorstenson，Y.R.，Agabian, N., Magee, P.T., Davis, R.W., Scherer, S., 2004. The diploid genome sequence of Candida albicans. Proc. Natl. Acad. Sci. USA 101, 7329-7334.   \nKarababa,M., Coste,A.T., Rognon,B.， Bille,J., Sanglard, D.，2004.Comparison of gene expression profiles of Candida albicans azole-resistant clinical isolatesand laboratory strains exposed to drugs inducing multidrug transporters.Antimicrob. AgentsChemother.48, 3064-3079.   \nKihara, A., Igarashi, Y.,2oo2.Identification and characterization of a Saccharomyces cerevisiae gene, RSB1, involved in sphingoid long-chain base release.J. Biol. Chem．277, 30048-30054.   \nKurita, O., Nishida, Y.,1999.Involvement of mitochondrial aldehyde dehydrogenase ALD5 in maintenance of the mitochondrial electron transport chain in Saccharomyces cerevisiae.FEMS. Microbiol. Lett. 181, 281-287.   \nKusch,H.， Biswas,K.， Schwanfelder， S.，Engelmann， S., Rogers，P.D.，Hecker，M.，Morschhäuser，J.，2004．A proteomic approach to understanding the development of multidrug-resistant Candida albicans strains. Mol. Genet. Genomics 271, 554-565.   \nLabbe， S.， Zhu，Z.， Thiele，D.J.，1997. Copper-specific transcriptional repression of yeast genes encoding critical components in the copper transport pathway.J.Biol. Chem. 272,15951-15958.   \nLi, Y., Li, Y., Tang, R., Xu,H., Qiu,M., Chen, Q., Chen, J., Fu, Z.,Ying,K., Xie, Y., Mao, Y., 2002.Discovery and analysis of hepatocellular carcinoma genes using cDNA microarrays. J. Cancer Res. Clin. Oncol. 128,369-379.   \nLiu,T.T.， Lee,R.E.， Barker，K.S.， Lee，R.E.，Wei,L., Homayouni, R., Rogers, P.D., 2005. Genome-wide expression profiling of the response to azole,polyene,echinocandin， and pyrimidine antifungal agents in Candida albicans. Antimicrob. Agents Chemother. 49, 2226-2236.   \nMarr,K.A.，White, T.C.,vanBurik, J.A.H.，Bowden,R.A., 1997.Development of fluconazole resistance in Candida albicans causing disseminated infection in a patient undergoing marrow transplantation. Clin. Infect. Dis. 25, 908-910.   \nMarr, K.A., Lyons, C.N., Rustad, T.R., Bowden, R.A., White, T.C.，1998.Rapid, transient fluconazole resistance in Candida albicansis associated with increased mRNAlevels of CDR.Antimicrob.Agents Chemother. 42, 2584-2589.   \nMarr, K.A., Lyons, C.N., Ha, K., Rustad, T.R., White, T.C., 2001.Inducible azole resistance associated with a heterogeneous phenotype in Candida albicans. Antimicrob. Agents Chemother.45,52-59.   \nMartchenko, M., Alarco, A.M., Harcus, D.， Whiteway,M., 2004. Superoxide dismutases in Candida albicans: transcriptional regulation and functional characterization of the hyphal-induced SOD5 gene.Mol. Biol. Cell 15,456-467.   \nMarvin,M.E.，Williams,P.H.，Cashmore,A.M.,2003.The Candida albicans CTR1 gene encodes a functional copper transporter.Microbiology 149,1461-1474.   \nMarvin,M.E.， Mason，R.P.， Cashmore,A.M.， 2004. The CaCTRl gene is required for high-affinity iron uptake and is transcriptionally controlled by a copper-sensing transactivatorencodedbyCaMAC1. Microbiology 150, 2197-2208.   \nMorschhäuser，J.，2002. The genetic basis of fluconazole resistance development in Candida albicans. Biochim. Biophys. Acta 1587, 240-248.   \nNawrocki, A., Fey, S.J., Goffeau, A., Roepstorff, P., Larsen, P.M.，200i. The effects of transcription regulating genes PDRl,pdr1-3 and PDR3 in pleiotropic drug resistance. Proteomics 1, 1022-1032.   \nNolte,F.S., Parkinson, T., Falconer, D.J., Dix, S., Williams, J.，Gilmore，C.，Geller，R.，Wingard，J.R.，1997． Isolation and characterization of fluconazole- and amphotericin B-resistant Candida albicans from blood of two patients with leukemia. Antimicrob. Agents Chemother. 41, 196-199.   \nPalmiter, R.D., 1998.The elusive function of metallothioneins. Proc.Natl. Acad. Sci. USA 95, 8428-8430.   \nProtchenko, O., Philpott, C.C., 2003. Regulation of intracellular heme levels by HMXl,a homologue of heme oxygenase,in Saccharomyces cerevisiae. J. Biol. Chem. 278, 36582-36587.   \nQuan,H., Cao, Y.Y., Xu, Z., Zhao, J.X., Gao, P.H., Qin, X.F.，Jiang，Y.Y.，2006.Potent in vitro synergism of fluconazole and berberine chloride against clinical isolates of Candida albicans resistant to fluconazole. Antimicrob. Agents Chemother. 50,1096-1099.   \nRamanan, N., Wang, Y., 20o0.A high-affinity iron permease essential for Candida albicans virulence. Science 288, 1062-1064.   \nRees，E.M.，Lee，J.，Thiele，D.J.，2004．Mobilizationof intracellular copper stores by the ctr2 vacuolar copper transporter.J.Biol. Chem.279, 54221-54229.   \nRex,J.H., Rinaldi, M.G.,Pfaller,M.A.,1995.Resistance of Candida species to fluconazole.Antimicrob.Agents Chemother.39,1-8.   \nRiggle，P.J.，Kumamoto，C.A.， 2000. Role of a Candida albicans Pl-type ATPase in resistance to copper and silver ion toxicity. J. Bacteriol. 182, 4899-4905.   \nRogers,P.D., Barker,K.S., 2002. Evaluation of differential gene expression in fluconazole-susceptible and -resistant isolates of Candida albicans by cDNA microarray analysis. Antimicrob.Agents Chemother. 46,3412-3417.   \nRogers,P.D.，Barker,K.S.，2003.Genome-wide expression profile analysis reveals coordinately regulated genes associated with stepwise acquisition of azole resistance in Candida albicans clinical isolates. Antimicrob. Agents Chemother. 47, 1220-1227.   \nTamai，K.T.,Gralla,E.B.，Ellerby，L.M.，Valentine,J.S., Thiele,D.J., 1993. Yeast and mammalian metallothioneins functionally substitute for yeast copper-zinc superoxide dismutase.Proc. Natl. Acad. Sci. USA 90,8013-8017.   \nvan den Hazel, H.B.,Pichler,H.，do Valle Matta,M.A.. Leitner,E.，Goffeau,A.，Daum,G.,1999.PDR16 and PDR17, two homologous genes of Saccharomyces cerevisiae,affect lipid biosynthesis and resistance to multiple drugs. J. Biol. Chem. 274,1934-1941.   \nVerveridis,P., Davrazou,F.,Diallinas, G., Georgakopoulos, D., Kanellis,A.K., Panopoulos,N., 2001.A novel putative reductase (Cpdlp) and the multidrug exporter Snq2p are involved in resistance to cercosporin and other singlet oxygen-generating photosensitizers in Saccharomyces cerevisiae.Curr.Genet.39,127-136.   \nWeissman,Z., Shemer,R.,Kornitzer,D.,20o2.Deletion of the copper transporter CaCCC2 reveals two distinct pathways foriron acquisition in Candida albicans.Mol. Microbiol. 44,1551-1560.   \nWhite，T.C.，Marr，K.A.，Bowden，R.A.，1998.Clinical, cellular,and molecular factors that contribute to antifungal drug resistance.Clin.Microbiol.Rev.11,382-402.   \nWhite, T.C.,Holleman, S., Dy,F., Mirels,L.F., Stevens, D.A., 2002. Resistance mechanismsin clinical isolatesof Candida albicans.Antimicrob.Agents Chemother. 46, 1704-1713.   \nXu, Z., Cao, Y.B., Zhang, J.D., Cao, Y.Y., Gao, P.H., Wang, D.J.,Fu, X.P.,Ying,K., Chen, W.S., Jiang,Y.Y., 2005. cDNA array analysis of the differential expression change in virulence-related genes during the development of resistance in Candida albicans.Acta Biochim.Biophys. Sin. 37, 463-472.   \nZhang，L.，2oo5.Integrated approaches for discovering novel drugs from microbial natural products. In: Zhang,L.,Demain, A.(Eds.),Natural Products: Drug Discovery and Therapeutics Medicines.Humana Press,Totowa,NJ, pp.33-56.   \nZhang,L.,An, R.,Wang, J., Sun,N.,Kuai, J., 20o5.Isolation of novel bioactive compounds from marine microbes. Curr. Opin.Microbiol.8,276-281. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

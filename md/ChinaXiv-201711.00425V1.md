@@ -1,0 +1,175 @@
+# 亚麻籽油对脂多糖刺激仔猪肝脏TLR4和NOD信号通路关键基因表达的影响
+
+陈少魁　刘玉兰\*王海波　王秀英　朱惠玲　张　晶　王树辉　涂治骁（武汉轻工大学动物营养与饲料科学湖北省重点实验室，武汉430023）
+
+摘要：本试验旨在研究亚麻籽油对脂多糖（LPS）刺激仔猪肝脏TolI样受体4（TLR4）和核苷酸结合寡聚化结构域（NOD）信号通路关键基因表达的影响。选取24头断奶仔猪，按体重相近原则随机分为4个组，分别为对照组、LPS 组、 $2 . 5 \%$ 亚麻籽油组（ $2 . 5 \%$ 亚麻籽油+LPS）、$5 . 0 \%$ 亚麻籽油组（ $5 . 0 \%$ 亚麻籽油+LPS)，每组6个重复，每个重复1头猪，试验期21d。试验组注射 $1 0 0 \mu \mathrm { g / k g }$ 体重的LPS，对照组注射等量的生理盐水。注射LPS 或生理盐水4h后屠宰仔猪，取肝脏，测定TLR4 和NOD信号通路关键基因及相关炎性介质的mRNA表达水平。结果表明：1）LPS 刺激显著提高了肝脏肿瘤坏死因子 $\mathbf { \nabla } \cdot \mathbf { a }$ （TNF-α）、环氧酶2（COX2）、热休克蛋白70（HSP70）的mRNA相对表达量（ $P { < } 0 . 0 5 )$ ， $2 . 5 \%$ 亚麻籽油可显著降低COX2、TNF- $\mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot \alpha } _ { \cdot } \mathbf { \alpha } _ { \cdot \alpha } _ { \cdot } \mathbf { \alpha } _ { \alpha } _ { \cdot \alpha } _ { \cdot \alpha } _ { \alpha } _ { \cdot \alpha } \mathbf { \alpha } _ { \alpha } _ { \alpha \cdot } \mathbf { \alpha } _ { \alpha \alpha } _ { \alpha \alpha } _ { \alpha } _ { \alpha \alpha } _ { \alpha \alpha } \mathbf { \alpha \alpha } _ { \alpha \alpha } \mathbf { \alpha \alpha } _ { \alpha \alpha \alpha } \mathbf { \alpha \alpha } \mathbf { \alpha \alpha \alpha \alpha } _ \mathbf { \alpha \alpha \alpha \alpha } \mathbf \mathbf { \alpha \alpha \alpha \alpha } \mathbf  \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \alpha \ c \ c \ c \alpha \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ a \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \ c \$ 的mRNA相对表达量（ $P { < } 0 . 0 5 )$ ， $5 . 0 \%$ 亚麻籽油可显著降低TNF- $\cdot a$ 的mRNA 相对表达量（ $P { < } 0 . 0 5 \$ )。2）LPS刺激显著提高了肝脏TLR4、髓样分化因子88（MyD88）、白细胞介素-1受体相关激酶1（IRAK1）、NOD1、NOD2、受体互作蛋白2（RIPK2）、核因子 ${ \bf \nabla } \cdot \kappa B$ （NF-κB)的 mRNA相对表达量（ $P { < } 0 . 0 5 )$ ； $2 . 5 \%$ 亚麻籽油可显著降低NOD1、NOD2的mRNA 相对表达量（ $. P { < } 0 . 0 5 )$ )，有降低RIPK2mRNA相对表达量的趋势（ ${ \cdot } P { < } 0 . 1 0 { \rangle }$ ； $5 . 0 \%$ 亚麻籽油可显著降低NOD2的mRNA相对表达量（ $. P { < } 0 . 0 5 \ '$ )。这表明LPS刺激导致仔猪发生炎症反应，亚麻籽油可能通过抑制NOD信号通路进而缓解肝脏炎症反应。
+
+关键词：仔猪；亚麻籽油；脂多糖；肝脏；TLR4；NOD中图分类号：S828；S816.43 文献标识码：A 文章编号：
+
+肝脏是机体的新陈代谢中心，同时也是体内的主要解毒和免疫防御器官。饲养环境中的致病性和非致病性抗原会刺激仔猪肝脏巨噬细胞产生、释放大量炎性介质，进而造成肝脏结构和功能损伤，最终导致生长抑制[I。因此，通过营养手段来调控炎性介质的大量产生，对缓解肝脏损伤具有重要意义，也是缓解炎症的有效手段。
+
+亚麻籽油中含有大量 $\mathbf {  { a } }$ -亚麻酸（C18:3n-3)，而 $\mathbf {  { a } }$ -亚麻酸是二十碳五烯酸（EPA）（C20:5n-3）和二十二碳六烯酸（DHA）（C22:6n-3）的前体。大量研究表明，n-3多不饱和脂肪酸（PUFA）（如 EPA 和 DHA）在急性化学肝损伤[1、胆汁淤积性肝损伤[2]、糖尿病肝损伤[3]、脂肪肝[4]等一系列肝脏损伤模型中发挥着重要的保护作用。n-3 PUFA的保护作用可能与其抑制炎性介质的过量产生有关[-4]。但是，关于亚麻籽油发挥护肝作用的分子机理尚不清楚。
+
+Toll 样受体4（TLR4）和核苷酸结合寡聚化结构域（NOD）是调节天然免疫和获得性免疫反应的重要蛋白家族。其中TLR4 信号通路关键基因包括TLR4、髓样分化因子 $8 8 ( M y D 8 8 )$ 、白细胞介素-1受体相关激酶1（IRAK1）、肿瘤坏死因子受体相关因子6（TRAF6)，NOD 信号通路关键基因包括NOD1、NOD2、受体互作蛋白2（RIPK2）。研究发现，TLR4 和NOD 被激活后，可激活各自下游的信号分子，最终激活核因子-κB（NF-kB)，从而诱导炎性介质的表达，最终导致肝脏损伤[5]。因此，我们可以推测亚麻籽油可能通过 TLR4 和 NOD 信号通路，来调节炎性介质的产生，从而对肝脏损伤起调控作用。本研究通过给断奶仔猪注射脂多糖（LPS)诱导炎症，研究亚麻籽油对肝脏TLR4和NOD 信号通路关键基因以及炎性介质表达水平的影响，旨在为探索亚麻籽油是否通过调控TLR4 和NOD 信号通路进而缓解肝脏炎性损伤提供初步依据。
+
+# 1材料与方法
+
+# 1.1 试验动物与设计
+
+选择24头平均体重为（ $\left( 6 . 9 8 { \pm } 0 . 0 5 \right.$ ） $\mathrm { k g }$ 的“杜 $\times$ 长 $\times$ 大”断奶仔猪，按体重相近原则，随机分为4个组，分别为对照组（ $5 . 0 \%$ 玉米油）、LPS 组（ $5 . 0 \%$ 玉米油 $+ \mathrm { L P S }$ ）、 $2 . 5 \%$ 亚麻籽油组（ $2 . 5 \%$ 玉米油 $+ 2 . 5 \%$ 亚麻籽油 $+ \mathrm { L P S }$ ）、 $5 . 0 \%$ 亚麻籽油组 （ $5 . 0 \%$ 亚麻籽油 $+ \mathrm { L P S }$ )，每组6个重复，每个重复1头猪，试验期21d。玉米油由山东西王食品有限公司提供，亚麻籽油由甘肃陇郁香粮油工业有限责任公司提供。玉米油和亚麻籽油脂肪酸组成见表1。试验第21天，LPS 组、$2 . 5 \%$ 亚麻籽油组和 $5 . 0 \%$ 亚麻籽油组仔猪分别腹膜注射 $1 0 0 \mu \mathrm { g / k g }$ 体重的LPS（大肠杆菌血清型O55:B5，Sigma 公司)，对照组仔猪注射等量生理盐水。LPS 注射剂量和作用时间参考前期研究结果[6-8]。前期研究表明，仔猪腹膜注射 $1 0 0 ~ \mu \varrho / \ k \mathrm { g }$ 体重的LPS， $^ { 4 \mathrm { h } }$ 后会产生炎症反应，且导致肝脏损伤。饲粮参照NRC（2012）营养需要量配制，基础饲粮组成及营养水平见表2。
+
+# 表1玉米油和亚麻籽油脂肪酸组成
+
+Table 1Fatty acid composition of the corn oil and flaxseed oil %
+
+表2基础饲粮组成及营养水平(风干基础）  
+
+<html><body><table><tr><td>脂肪酸</td><td>玉米油</td><td>亚麻籽油</td></tr><tr><td>Fatty acid</td><td>Corn oil</td><td>Flaxseed oil</td></tr><tr><td>14:0</td><td>0.04</td><td>0.05</td></tr><tr><td>16:0</td><td>12.75</td><td>5.28</td></tr><tr><td>16:1n-7</td><td>0.10</td><td>0.07</td></tr><tr><td>18:0</td><td>1.85</td><td>3.79</td></tr><tr><td>18:1n-9</td><td>31.15</td><td>20.27</td></tr><tr><td>18:2n-6</td><td>52.14</td><td>15.14</td></tr><tr><td>18:3n-3</td><td>0.75</td><td>54.31</td></tr><tr><td>20:4n-6</td><td>ND</td><td>0.01</td></tr><tr><td>20:5n-3</td><td>ND</td><td>ND</td></tr><tr><td>22:6n-3</td><td>ND</td><td>ND</td></tr></table></body></html>
+
+ND表示低于检测线。ND meanbelow thedetection line.
+
+Table 2Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料Ingredients</td></tr><tr><td>玉米Corn 56.00</td></tr><tr><td>豆粕 Soybean meal 22.00</td></tr><tr><td>麸皮Wheat bran 3.00</td></tr><tr><td>鱼粉 Fish meal 5.50</td></tr><tr><td>玉米油或亚麻籽油Corn oilorflaxseed oil 5.00</td></tr><tr><td>大豆浓缩蛋白 Soy protein concentrate 2.50</td></tr><tr><td>代乳粉Milk replacer 3.00</td></tr><tr><td>石粉Limestone 0.70</td></tr><tr><td>磷酸氢钙 CaHPO4 1.00</td></tr><tr><td>食盐 NaCl 0.20</td></tr><tr><td>赖氨酸Lysine 0.27</td></tr></table></body></html>
+
+<html><body><table><tr><td>酸化剂Acidifier 0.20</td></tr><tr><td>抗氧化剂 Antioxidant 0.05</td></tr><tr><td>防腐剂Preservative 0.05</td></tr><tr><td>甜味剂 Sweetener 0.03</td></tr><tr><td>预混料 Premixl) 0.50</td></tr><tr><td>合计 Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>消化能 DE/(MJ/Kg) 14.00</td></tr><tr><td>粗蛋白质 CP 20.20</td></tr><tr><td>钙Ca 0.90</td></tr><tr><td>总磷 TP 0.70</td></tr><tr><td>赖氨酸Lys 1.35</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys 0.72</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 Premix provided the following per $\mathrm { k g }$ of diet: VA 12 000 IU, $\mathrm { V D } _ { 3 }$ 2 500 IU,VE 30 IU, $\mathrm { V K } _ { 3 } 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 1 8 ~ \mu \mathrm { g }$ ，核黄素riboflavin $4 \ : \mathrm { m g }$ ，烟酸 nicotinic acid $4 0 \mathrm { m g }$ 泛酸 pantothenic acid $1 5 \mathrm { m g }$ ，氯化胆碱 choline chloride $4 0 0 \mathrm { { m g } }$ ，叶酸 folic acid $7 0 0 ~ { \mu \mathrm { g } }$ ， $\mathrm { V B } _ { 1 } 1 . 5$ mg， $\mathrm { V B } _ { 6 } 3 \mathrm { m g }$ ，生物素biotin $1 0 0 \mu \mathrm { g }$ ， $\mathrm { Z n 8 0 } \mathrm { m g }$ ， $ { \mathrm { M n } } 2 0  { \mathrm { m g } }$ ，Fe $8 3 ~ \mathrm { m g }$ ， $\mathrm { C u } 2 5 \mathrm { m g }$ ， $\mathrm { 1 0 . 4 8 ~ m g }$ Se $0 . 3 6 \mathrm { m g }$ 。
+
+2)消化能、赖氨酸、蛋氨酸 $^ +$ 半胱氨酸为计算值，其余为实测值。DE,Lys and Met+Cys were calculatedvalues,while theothersweremeasuredvalues.
+
+# 1.2样品采集
+
+仔猪注射LPS或生理盐水4h后，屠宰，取肝脏，立即投入液氮冻存，随后转移至-80‘C冰箱保存，用于提取组织总RNA。
+
+# 1.3 mRNA表达分析
+
+# 1.3.1 主要仪器与试剂
+
+7500 实时荧光定量聚合酶链式反应（Real-time PCR）仪（Applied Biosystems），梯度升降温功能PCR仪（TaKaRa），Nanodrop 2000 超微量分光光度计（Thermo），Tanon-4100 凝胶成
+
+像系统（上海天能）。RNAiso Plus（Total RNA 提取试剂）、PrimeScript@ RT reagent kit with gDNAeraser（cDNA 合成试剂盒）和 SYBR@Premix Ex TaqTM（Tli RNaseHPlus）（Real-time PCR 试剂盒）均购自宝生物工程（大连）有限公司。
+
+# 1.3.2 测定方法
+
+组织总RNA提取、cDNA合成、Real-timePCR 参照陈少魁等[的方法。Real-time PCR 数据计算采用Livak 等[10]的2-△△Ct法，以甘油醛-3-磷酸脱氢酶（GAPDH）为内参基因。
+
+# 1.3.3 引物设计与合成
+
+根据GenBank 中已发表的猪 TLR4、MyD88、IRAK1、TRAF6、NOD1、NOD2、RIPK2、$N F  – \kappa B$ 、肿瘤坏死因子 $\mathbf { \sigma } \cdot \mathbf { a }$ （TNF-α）、环氧酶2（COX2）、热休克蛋白70（HSP70）、GAPDH的基因序列，利用 Primer premier 6.0软件设计Real-time PCR 引物（表3)。引物由宝生物工程（大连）有限公司合成。
+
+# 表3基因的引物序列
+
+Table 3Primer sequences of genes   
+
+<html><body><table><tr><td>基因</td><td>引物序列</td><td>退火温度</td><td>扩增长度</td><td>GenBank序列号</td></tr><tr><td>Genes</td><td>Primer sequence</td><td>Annealing</td><td>Amplification</td><td>GenBank</td></tr><tr><td></td><td></td><td> temperature/</td><td>length/bp</td><td>accession No.</td></tr><tr><td></td><td></td><td>℃</td><td></td><td></td></tr><tr><td>Toll样受体4</td><td>F:TCAGTTCTCACCTTCCTCCTG</td><td>60</td><td>166</td><td>GQ503242.1</td></tr><tr><td>TLR4 髓样分化因子88</td><td>R:GTTCATTCCTCACCCAGTCTTC</td><td></td><td></td><td></td></tr><tr><td>MyD88</td><td>F:GATGGTAGCGGTTGTCTCTGAT</td><td>60</td><td>148</td><td>AB292176.1</td></tr><tr><td></td><td>R:GATGCTGGGGAACTCTTTCTTC</td><td></td><td></td><td></td></tr><tr><td>白细胞介素-1受体相关</td><td>F:CAAGGCAGGTCAGGTTTCGT</td><td></td><td></td><td></td></tr><tr><td>激酶1</td><td>R:TTCGTGGGGCGTGTAGTGT</td><td>60</td><td>115</td><td>XM_003135490.1</td></tr><tr><td>IRAK1</td><td></td><td></td><td></td><td></td></tr><tr><td>肿瘤坏死因子受体相关</td><td>F: CAAGAGAATACCCAGTCGCACA</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>R:ATCCGAGACAAAGGGGAAGAA</td><td></td><td></td><td></td><td></td></tr><tr><td>因子6</td><td></td><td>60</td><td>122</td><td>NM_001105286.1</td></tr></table></body></html>
+
+<html><body><table><tr><td>核苷酸结合寡聚化结构</td><td>F:CTGTCGTCAACACCGATCCA</td><td></td><td></td><td></td></tr><tr><td>域1</td><td></td><td>60</td><td>57</td><td>AB187219.1</td></tr><tr><td>NOD1</td><td>R:CCAGTTGGTGACGCAGCTT</td><td></td><td></td><td></td></tr><tr><td>核苷酸结合寡聚化结构</td><td>F:GAGCGCATCCTCTTAACTTTCG</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>60</td><td>66</td><td>AB195466.1</td></tr><tr><td>域2</td><td>R:ACGCTCGTGATCCGTGAAC</td><td></td><td></td><td></td></tr><tr><td>NOD2</td><td></td><td></td><td></td><td></td></tr><tr><td>受体互作蛋白2</td><td>F:CAGTGTCCAGTAAATCGCAGTTG</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>60</td><td>206</td><td>XM_003355027.1</td></tr><tr><td>RIPK2</td><td>R:CAGGCTTCCGTCATCTGGTT</td><td></td><td></td><td></td></tr><tr><td>核因子-kB</td><td>F:AGTACCCTGAGGCTATAACTCGC</td><td>60</td><td>133</td><td>EU399817.1</td></tr><tr><td>NF-KB</td><td>R: TCCGCAATGGAGGAGAAGTC</td><td></td><td></td><td></td></tr><tr><td>肿瘤坏死因子-α</td><td>F:TCCAATGGCAGAGTGGGTATG</td><td></td><td></td><td></td></tr><tr><td>TNF-α</td><td>R:AGCTGGTTGTCTTTCAGCTTCAC</td><td>60</td><td>67</td><td>NM_214022.1</td></tr><tr><td>环氧酶2</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>F:ATGATCTACCCGCCTCACAC</td><td>60</td><td>284</td><td>AY028583</td></tr><tr><td>COX2</td><td>R:AAAAGCAGCTCTGGGTCAAA</td><td></td><td></td><td></td></tr><tr><td>热休克蛋白70</td><td>F:GCCCTGAATCCGCAGAATA</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>60</td><td>152</td><td>NM_001123127.1</td></tr><tr><td>HSP70</td><td>R: TCCCCACGGTAGGAAACG</td><td></td><td></td><td></td></tr><tr><td>甘油醛-3-磷酸脱氢酶</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>F:CGTCCCTGAGACACGATGGT</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>60</td><td>194</td><td>AF017079.1</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>GAPDH</td><td>R:GCCTTGACTGTGCCGTGGAAT</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 1.4 统计分析
+
+用 SPSS17.0软件进行单因素方差分析和LSD多重比较，试验结果以平均值 $\pm$ 标准误表示。${ P / } { < } 0 . 1 0$ 表示具有显著性趋势， $P { < } 0 . 0 5$ 表示差异显著。
+
+# 2结果与分析
+
+2.1亚麻籽油对LPS 刺激仔猪肝脏COX2、HSP70、TNF- $\cdot a$ mRNA相对表达量的影响
+
+由表 4 可知，与对照组相比，LPS 刺激显著提高了仔猪肝脏COX2、HSP70、TNF- $\cdot a$ 的mRNA相对表达量( $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 )$ ;与LPS 组相比，饲粮添加 $2 . 5 \%$ 亚麻籽油可显著降低COX2、TNF- $\cdot a$ 的mRNA相对表达量（ $P { < } 0 . 0 5 \$ )，饲粮添加 $5 . 0 \%$ 亚麻籽油可显著降低TNF- $\cdot a$ 的mRNA相对表
+
+达量（ $_ { ( P < 0 . 0 5 ) }$ 。
+
+表4亚麻籽油对LPS 刺激仔猪肝脏COX2、HSP70 和TNF- $\alpha$ mRNA相对表达量的影响Table 4Effects of flaxseed oil on the mRNA relative expression levels of COX2,HSP70 and  
+
+<html><body><table><tr><td colspan="7">TNF-α in liver of piglets after LPS challenge</td></tr><tr><td rowspan="2">项目 Items</td><td rowspan="2">对照组 Control</td><td rowspan="2">LPS组 LPS group</td><td>2.5%亚麻籽油组</td><td>5.0%亚麻籽油组</td><td colspan="3">P值</td></tr><tr><td>2.5% flaxseed oil</td><td>5.0%flaxseed oil</td><td></td><td>P-value</td><td></td></tr><tr><td>环氧酶2COX2</td><td>group 1.00±0.15</td><td>9.78±1.66</td><td>group 4.12±0.88</td><td>group 7.18±2.03</td><td>P1 0.001</td><td>P2 0.015</td><td>P 0.234</td></tr><tr><td>热休克蛋白70</td><td>1.00±0.18</td><td>77.93±27.96</td><td>53.67±10.87</td><td></td><td></td><td></td><td></td></tr><tr><td>HSP70</td><td></td><td></td><td></td><td>48.21±3.13</td><td>0.002</td><td>0.239</td><td>0.153</td></tr><tr><td>肿瘤坏死因子-α TNF-α</td><td>1.00±0.08</td><td>6.58±1.50</td><td>4.15±0.71</td><td>3.93±0.39</td><td><0.001</td><td>0.041</td><td>0.028</td></tr></table></body></html>
+
+$P _ { 1 }$ ：对照组vs.LPS组； $P _ { 2 }$ :LPS 组vs. $2 . 5 \%$ 亚麻籽油组； $P _ { 3 }$ ： LPS 组vs. $5 . 0 \%$ 亚麻籽油组。表5同。
+
+$P _ { 1 }$ : control group vs.LPS group; $P _ { 2 }$ : LPS group vs. $2 . 5 \%$ flaxseed oil group; $P _ { 3 }$ : LPS group vs. $5 . 0 \%$   
+flaxseed oil group. The same as Table 5.
+
+2.2亚麻籽油对LPS 刺激仔猪肝脏 TLR4 和NOD 信号通路关键基因相对表达量的影响由表5可知，与对照组相比，LPS 刺激显著提高了仔猪肝脏 TLR4、MyD88、IRAK1、NOD1、NOD2、RIPK2、NF-κB的mRNA相对表达量（ $. P { < } 0 . 0 5 \rangle$ ；与LPS 组相比， $2 . 5 \%$ 亚麻籽油可显著降低NOD1、NOD2的mRNA相对表达量（ $. P { < } 0 . 0 5 )$ )，有降低RIPK2mRNA相对表达量的趋势（ ${ \cdot } P { < } 0 . 1 0 { \ i }$ ， $5 . 0 \%$ 亚麻籽油可显著降低NOD2mRNA相对表达量（ $( P { < } 0 . 0 5 )$ 。
+
+Table 5Effects of flaxseed oil on the mRNA relative expression levels of the key   
+
+<html><body><table><tr><td colspan="7">genesin TLR4 and NOD</td></tr><tr><td colspan="7"></td></tr><tr><td>项目</td><td>对照组</td><td>2.5%亚麻籽油组 LPS组</td><td>5.0%亚麻籽油</td><td>组</td><td>P值 P-value</td><td></td></tr><tr><td>Items</td><td>control group</td><td>LPS group</td><td>2.5% flaxseed oil</td><td>5.0%flaxseed oil</td><td></td><td></td></tr><tr><td></td><td></td><td>group</td><td>group</td><td>P1</td><td>P2</td><td>P3</td></tr><tr><td>Toll样受体4</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TLR4</td><td>1.00±0.11</td><td>2.28±0.55</td><td>1.78±0.25</td><td>1.71±0.23</td><td>0.013 0.268</td><td>0.209</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>髓样分化因子88</td><td>1.00±0.10</td><td>2.67±0.35</td><td>2.55±0.20</td><td>2.31±0.12</td><td><0.001</td><td>0.696 0.229</td></tr><tr><td>MyD88</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>白细胞介素-1受</td><td>1.00±0.10</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>体相关激酶1</td><td></td><td>1.71±0.30</td><td>1.48±0.11</td><td>1.45±0.14</td><td>0.013 0.354</td><td>0.293</td></tr><tr><td>IRAK1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肿瘤坏死因子受</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>体相关因子6</td><td>1.00±0.15</td><td>1.22±0.21</td><td>1.16±0.12</td><td>1.15±0.14</td><td>0.355 0.771</td><td>0.761</td></tr><tr><td>TRAF6</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>核苷酸结合寡聚</td><td>1.00±0.07 3.99±0.51</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>化结构域1NOD1</td><td></td><td>2.87±0.31</td><td>3.27±0.27</td><td><0.001</td><td>0.024</td><td>0.131</td></tr><tr><td>核苷酸结合寡聚</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>化结构域2NOD2</td><td>1.00±0.15</td><td>15.19±1.64 6.91±0.85</td><td>7.51±0.77</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>受体互作蛋白2</td><td>1.00±0.06</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>7.83±1.84 5.20±0.57</td><td>5.54±0.90</td><td><0.001</td><td>0.076</td><td>0.120</td></tr><tr><td>RIPK2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>核因子-κB</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1.80±0.13</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1.00±0.10</td><td></td><td>1.92±0.12</td><td>1.90±0.12</td><td><0.001 0.453</td><td>0.554</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NF-xB</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+目前诱导炎症的经典方法是腹膜或静脉注射一定剂量的LPS[I],LPS 也被广泛应用于仔猪肝脏损伤研究。前期研究证实，LPS 刺激可引起肝脏组织学损伤和功能紊乱[6-8]。肝脏中枯否细胞在LPS刺激后可分泌一系列炎性介质（如TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ )，这些炎性介质在肝脏损伤中起重要作用[]。有关亚麻籽油对猪肝脏损伤调控作用的研究较少。研究报道认为，亚麻籽油在老鼠肝脏损伤研究中的添加量为 $5 \% { \sim } 1 0 \% ^ { [ 3 - 4 ] }$ 、在猪肠道损伤研究中的添加量为 $2 \% ^ { [ 1 2 ] }$ 。另外，结合养猪生产实践（油脂添加量通常不超过 $5 \%$ )，本试验选择在饲粮中添加 $2 . 5 \%$ 和 $5 . 0 \%$ 的亚麻籽油来研究亚麻油是否可以缓解LPS 诱导的仔猪肝脏炎症反应。
+
+2  
+3 TNF- $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { a } ~ } }$ 和 COX2是典型的炎性介质，在正常情况下不表达或表达量较低[2.6-7]。研究表明，  
+4 这些炎性介质在炎症状态下表达量会急剧提高，是机体炎症反应的标志，LPS 刺激会使这些  
+5 炎性介质的表达量显著提高[2.6-7]。HSP 通常被认为是一种对细胞具有保护作用的细胞内分子  
+6號 [13]，细胞内高水平HSP70 可以降低炎症反应，促进肝再生[14]。研究表明，细胞内HSP70 可  
+7 直接与 NF-kB 相互作用，从而防止NF- $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ 的活化[15]。本试验结果表明，LPS 刺激显著提高  
+8 了仔猪肝脏TNF- $\cdot a$ 、COX2、HSP70 的 mRNA 相对表达量，原因可能是LPS 通过提高肝脏  
+9 TNF-α 的表达量，经负反馈途径进一步引起抗炎介质（如 HSP70）的表达[16]。研究证实，  
+0 LPS 刺激导致肝脏 HSP70 和炎性介质COX2、TNF-α mRNA 表达量显著上升[2.6-7]，同时也使  
+1 肝脏HSP70、COX2、TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 蛋白表达量显著上升[16]。LPS 刺激不同生长阶段猪，均会使其  
+2 肝脏 HSP70 过量表达[17]，添加PUFA 则能缓解这一现象。亚麻籽油能显著降低狗白细胞中  
+3 HSP70 mRNA 的表达量[18]。Narayanan 等[19]也发现 DHA 能显著降低前列腺癌细胞 HSP70  
+4 蛋白的表达量。Chen等8研究表明，富含EPA和DHA等n-3PUFA 的鱼油缓解了LPS 刺激  
+5 导致的肝脏COX2mRNA和TNF-αmRNA表达量的增加，同时也降低了蛋白的表达量。研  
+6號 究也发现，在大鼠酒精脂肪肝模型中鱼油可以降低肝脏HSP70、COX2、TNF- $\cdot a$ 的 mRNA 和  
+7 蛋白表达量[20]。Chen 等[2]研究表明 DHA 能通过抑制炎性介质的表达，缓解肝脏的损伤。  
+8 Han 等[4发现，亚麻籽油能显著降低由高脂肪饲粮诱导的脂肪肝大鼠肝脏TNF- $\cdot a$ 的 mRNA  
+9 表达量的增加。Jangale 等[3]也发现，日粮添加亚麻籽油或鱼油能显著降低糖尿病大鼠肝脏  
+0 NF-KB、TNF- $\cdot a$ 、 $I L { - } 6$ 的 mRNA表达量的增加。本试验结果表明， $2 . 5 \%$ 亚麻籽油可显著降低  
+1 COX2、TNF- $\cdot a$ 的 mRNA表达量， $5 . 0 \%$ 亚麻籽油可显著降低 TNF- $\cdot a$ 的 mRNA表达量。因此，  
+2 亚麻籽油可能通过减少肝脏炎性介质的产生，进而保护肝脏。
+
+为了探究亚麻籽油调节炎症的机制，本试验检测了TLR4和NOD 信号通路关键基因的mRNA 表达量。TLR4是Toll 样受体家族（TLRs）中的重要成员，主要识别LPS[21]。当LPS刺激时，LPS 与 TLR4 结合，将信号传递到胞内。在胞内，TLR4 通过 TIR（TolI/IL-1)区域与MyD88 羧基端结合，活化MyD88。活化的MyD88能依次激活下游的 IRAK1、TRAF6,最终激活NF-kB。激活的 NF-kB 转入核内，诱导炎性介质的表达[21]。NOD1 和 NOD2 是 NOD家族中最具代表性的成员，主要识别肽聚糖（PGN)。NOD1和 NOD2 都能结合共同的下游分子RIPK2，并进一步激活 NF- $\mathbf { \sigma } _ { \cdot \kappa \mathrm { B } }$ ，诱导炎性介质的转录[5.22-23]。当动物机体遭受应激或感染时，炎症介质大量产生，导致肝脏出现损伤。因此，我们推测亚麻籽油可能通过调控 TLR4和 NOD信号通路，来调节炎性介质的产生，从而发挥对肝脏的保护作用。
+
+本试验发现，LPS 刺激导致TLR4（TLR4、MyD88、IRAK1、NF- $\cdot \kappa B$ ）和 NOD（NOD1、NOD2、RIPK2)信号通路关键基因mRNA表达量显著上升。 $2 . 5 \%$ 亚麻籽油可显著降低 NOD1、NOD2的mRNA表达量，有降低RIPK2mRNA表达量的趋势， $5 . 0 \%$ 亚麻籽油可显著降低NOD2的mRNA表达量。目前，有关亚麻籽油对肝脏TLR4和NOD信号通路关键基因表达影响的研究未见报道。前期研究表明，鱼油（富含EPA和DHA）可以降低LPS 刺激导致的肝脏 NOD1、NOD2、RIPK2的mRNA表达量的增加[8。同时，鱼油也可显著降低LPS 刺激引起的肠道、肌肉、下丘脑-垂体-肾上腺轴 NOD 信号通路关键基因的上调表达[24-26]。本试验结果暗示，LPS 刺激诱导仔猪肝脏TLR4 和NOD信号通路关键基因表达，导致炎性介质的释放，从而导致肝脏损伤，而亚麻籽油可通过调控NOD 信号通路降低LPS 刺激导致的仔猪肝脏炎性介质上调表达，从而发挥护肝作用。
+
+4结论
+
+LPS 刺激诱导仔猪肝脏TLR4和NOD信号通路关键基因表达，导致炎性介质（COX2和TNF $\cdot a$ ）的过量释放。 $2 . 5 \%$ 和 $5 . 0 \%$ 亚麻籽油可通过抑制NOD信号通路，缓解LPS刺激导致的仔猪肝脏炎性介质过量表达。
+
+# 参考文献：
+
+[1]SCHMOCKER C,WEYLANDT K H,KAHLKE L,et al.Omega-3 fatty acids alleviate chemically induced acute hepatitis by suppression of cytokines[J].Hepatology,2007,45(4):864-869.
+
+[2] CHEN W Y,LIN S Y,PAN H C,et al.Beneficial effect of docosahexaenoic acid on cholestatic liver injury in rats[J].The Journal of Nutritional Biochemistry,2012,23(3):252-264.
+
+[3]JANGALE N M,DEVARSHI P P,DUBAL A A,et al.Dietary flaxseed oil and fish oil modulates expression of antioxidant and inflammatory genes with alleviation of protein glycation status and inflammation in liver of streptozotocin-nicotinamide induced diabetic rats[J].Food Chemistry,2013,141(1):187-195.
+
+[4] HAN H,MA H F,RONG S,et al.Flaxseed oil containing flaxseed oil ester of plant sterol attenuateshigh-fatdiet-inducedhepaticsteatosisinapolipoprotein-Eknockout mice[J].Journal of Functional Foods,2015,13:169-182.   
+[5]FUKATA M,VAMADEVAN A S,ABREU M T.Toll-like receptors （TLRs) and Nod-like receptors (NLRs) in inflammatory disorders[J].Seminars in Immunol0gy,2009,21(4):242-253.   
+[6] 皮定安.天冬酰胺对脂多糖诱导的仔猪肝脏损伤和肌肉蛋白质降解的调控作用[D].硕士 学位论文.武汉:武汉轻工大学,2014.   
+[7]冷炜博.天冬氨酸对脂多糖诱导的仔猪肝脏损伤和肌肉蛋白质降解的调控作用[D].硕士 学位论文.武汉:武汉轻工大学,2014.   
+[8]CHEN F,LIU Y L,ZHU H L,et al.Fish oil attenuates liver injury caused by LPS in weaned pigs associated with inhibition of TLR4 and nucleotide-binding oligomerization domain protein signaling pathways[J].Innate Immunity,2013,19(5):504-515.   
+[9] 陈少魁,刘玉兰,李权,等.脂多糖刺激对仔猪下丘脑-垂体-肾上腺轴 Toll样受体4信号通路 关键基因表达的影响[J].动物营养学报,2014,26(11):3356-3361.   
+[10] LIVAK K J,SCHMITTGEN T D.Analysis of relative gene expresson data using real-time quantitative PCR and $2 ^ { - \Delta \Delta \mathrm { C t } }$ method[J].Methods,2001,25(4):402-408.   
+[11] JOHNSON R W.Inhibition of growth by pro-inflammatory cytokines:an integrated view[J].The Journal of Animal Science,1997,75(5):1244-1255.   
+[12] CHYTILOVA M,NEMCOVA R,GANCARCiKOVA S,et al.Flax-seed oil and Lactobacillus plantarum supplementation modulate TLR and NF- $\mathbf { \nabla \cdot } \kappa \mathbf { B }$ gene expression in enterotoxigenic Escherichia coli challenged gnotobiotic pigs[J].Acta Veterinaria Hungarica,2014,62(4):463-472.   
+[13] SHI Q,DONG Z,WEI H.The involvement of heat shock proteins in murine liver regeneration[J].Cellular & Molecular Immunology,2007,4(1):53-57.   
+[14] OKA Y,AKAGI Y,KINUGASA T,et al.Heat-shock pre-treatment reduces liver injury and aids liverrecoveryafterpartialhepatectomyinmice[J].Anticancer Research,2013,33(7):2887-2894.   
+[15] KUBOKI S,SCHUSTER R,BLANCHARD J,et al.Role of heat shock protein 70 in hepatic ischemia-reperfusion injury in mice[J].American Journal of Physiology Gastrointestinal and Liver Physiology,2007,292(4):G1141-G1149.   
+[16] WU H T,LIU Y L,PI D A,et al.Asparagine attenuates hepatic injury caused by lipopolysaccharide in weaned piglets associated with modulation of Toll-like receptor 4 and nucleotide-bindingoligomerisationdomainproteinsignallingandtheirnegative regulators[J].British Journal of Nutrition,2015,114(2):189-201.   
+[17] MCCOMB M A,SPURLOCK M E.Expression ofstressproteinsinporcine tissues:developmental changes and effect of immunological challenge[J].The Journal of Animal Science,1997,75(1):195-201.   
+[18] PURUSHOTHAMAN D,BROWN W Y,VANSELOW B A,et al.Flaxseed oil supplementation alters the expression of inflammatory-related genes in dogs[J].Genetics And Molecular Research,2014,13(3):5322-5332.   
+[19] NARAYANAN N K,NARAYANAN B A,BOSLAND M,et al.Docosahexaenoic acid in combination with celecoxib modulates HSP7O and p53 proteins in prostate cancer cells [J].International Journal of Cancer,2006,119(7):1586-1598.   
+[20] NANJI A A,GRINIUVIENE B,YACOUB L K.Heat-shock gene expression in alcoholic liver diseaseintheratisrelated totheseverityofliverinjuryandlipid peroxidation[J].Experimental Biology and Medicine,1995,210(1):12-19.   
+[21] AKIRAS,UEMATSU S,TAKEUCHI O.Pathogenrecognition and innate
+
+[22] TAKEUCHI O,AKIRA S.Pattern recognition receptors and inflammation[J].Cell,2010,140(6):805-820.
+
+[23] ECKMANNL.Sensor moleculesin intestinal innate immunity against bacterial infections[J].Current Opinion in Gastroenterology,2006,22(2):95-101.
+
+[24] LIU Y L,CHEN F,ODLE J,et al.Fish oil increases muscle protein mass and modulates Akt/FOXO,TLR4 and NOD signaling in weaning piglets after LPS challenge[J].The Journal of Nutrition,2013,143(8):1331-1339.
+
+[25] LIU Y L,CHEN F,ODLE J,et al.Fish Oil enhances intestinal integrity and inhibits TLR4 and NOD2 signaling pathways in weaned pigs after LPS challnge[J].The Journal of Nutriti0n,2012,142(11):2017-2024.
+
+[26] LIU Y L,CHEN F,LI Q,et al.Fish oil alleviates activation of the hypothalamic-pituitary-adrenal axis associated with inhibition of TLR4 and NOD signaling pathways in weaned piglets after a lipopolysaccharide challenge[J].The Journal of Nutriti0n,2013,143(11):1799-1807.
+
+Effects of Flaxseed Oil on the mRNA Expression of the Key Genes in TLR4 and NOD Signaling Pathways in Liver of Piglets after LPS Challenge
+
+CHEN ShaokuiLIU Yulan\* WANG HaiboWANG Xiuying ZHU Huiling ZHANG Jing WANG ShuhuiTU Zhixiao   
+(Hubei Key Laboratory of Animal Nutrition and Feed Science, Wuhan Polytechnic University, Wuhan 430023, China)
+
+Abstract: This experiment was conducted to investigate the effects of flaxseed oil on the mRNA expression of the key genes in toll-like receptor 4 (TLR4) and nucleotide binding oligomerization domain protein (NOD） signaling pathways in liver of piglets after lipopolysaccharide (LPS) challenge. Twenty four pigs with a similar body weight were randomly divided into 4 groups with
+
+Corresponding author, professor, E-mail: yulanflower $@$ 126.com
+
+6 replicates per group and 1 pig per replicate, and the 4 groups were control group, LPS group, $2 . 5 \%$ flaxseed oil group ( $2 . 5 \%$ flaxseed oil $+ \mathrm { L P S } ^ { \prime }$ ,and $5 . 0 \%$ flaxseed oil group ( $5 . 0 \%$ flaxseed oil $+ \ \mathrm { L P S } )$ , respectively. The experiment lasted for 21 days. The pigs in the experimental group were injected intraperitoneally with $1 0 0 ~ { \mu \mathrm { g / k g } }$ body weight LPS, whereas the pigs in the control group were injected with an equivalent amount of sterile saline. At $^ { 4 \mathrm { ~ h ~ } }$ post-challenge, the pigs were slaughtered and liver samples were collcted. The mRNA expression levels of inflammatory cytokines and the key genes in TLR4 and NOD signaling pathways were detected by real-time quantitative PCR. The results showed as follows: 1） After LPS challenge, the mRNA relative expression levels of cyclo-oxygenase 2 (COX2)， heat shock protein 70 (HSP7O） and tumor necrosis factor- $\mathbf { \nabla } \cdot \mathbf { a }$ (TNF- $\alpha$ ）in liver were significantly increased $( P { < } 0 . 0 5 )$ . The mRNA relative expression levels of COX2 and TNF- $\cdot a$ in $2 . 5 \%$ flaxseed oil group were significantly lower than those in LPS group $( P { < } 0 . 0 5 )$ , and the TNF- $\alpha$ mRNA relative expression level in $5 . 0 \%$ flaxseed oil group was significantly lower than that in LPS group $( P { < } 0 . 0 5 )$ . 2) After LPS challenge, the mRNA relative expression levels of TLR4，myeloid diferentiation factor 88 (MyD88)， interleukin-1 receptor-associated kinase 1 (IRAK1), NOD1, NOD2, receptor-interacting serine/threonine-protein kinase 2 (RIPK2) and nuclear factor-kB (NF $\mathbf { \nabla } \kappa B$ ）in liver were significantly increased $( P { < } 0 . 0 5 )$ ： The mRNA relative expression levels of NOD1 and NOD2 in $2 . 5 \%$ flaxseed oil group were significantly lower than those in LPS group $( P { < } 0 . 0 5 )$ , and the mRNA relative expression level of RIPK2 had a tendency to decrease control to the LPS group $( P { < } 0 . 1 0 )$ .The mRNA relative expression level of NOD2 in $5 . 0 \%$ flaxseed oil group was significantly lower than that in LPS group $( P { < } 0 . 0 5 )$ .These results indicate that LPS challenge induces inflammatory response in piglets， flaxseed oil can allviate liver inflammatory response via NOD signaling pathway inhibition.   
+/ oil.I DC.1iv TI DA.NON

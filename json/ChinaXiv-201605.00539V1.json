@@ -1,0 +1,825 @@
+[
+    {
+        "type": "text",
+        "text": "Environmental implications of the use of agro-industrial residues for biorefineries: application of a deterministic model for indirect land-use changes ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DAVIDE TONINI1,LORIE HAMELIN² and THOMAS F. ASTRUP1   \n1DepartmentofEnoironmental Engineering,Technical UnioersityofDenmark,Miljoeej115280Kgs.Lyngby,Denmark   \n2UniversityofSouternenmark,sitteofemicalEngineringiotechologydEniromentalThnoloyCsej   \n55，5230 OdenseM.,Denmark ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biorefining agro-industrial biomassresidues for bioenergy production represents an opportunity for both sustainable energy supply and greenhouse gas (GHG) emissions mitigation. Yet, is bioenergy the most sustainable usefor these residues? To assess the importance of the alternative use of these residues,a consequential life cycle assessment (LCA）of 32 energy-focused biorefinery scenarios was performed based on eight selected agro-industrial residues and four conversion pathways (two involving bioethanol and two biogas).To specifically address indirect land-use changes (iLUC) induced by the competing feed/food sector，a deterministic iLUC model,addressing global impacts， was developed. A dedicated biochemical model was developed to establish detailed mass,energy,and substance balances for each biomass conversion pathway,as input to the LCA.The results demonstrated that, even for residual biomass，environmental savings from fosil fuel displacementcan be completely outbalanced by iLUC,depending on the feed value of the biomassresidue.This was the case of industrial residues (e.g. whey and beet molasses) in most of the scenarios assessd. Overall, the GHGs from iLUC impacts were quantified to $4 . 1 \\ \\mathrm { t } \\ C \\mathrm { O } _ { 2 ^ { - } } \\mathrm { e q } . \\mathrm { h a } ^ { - 1 }$ demanded $\\mathrm { y r } ^ { - 1 }$ corresponding to 1.2- $1 . 4 \\mathrm { ~ t ~ C O } _ { 2 }$ -eq. $\\mathbf { t } ^ { - 1 }$ dry biomass diverted from feed to energy market. Only,bioenergy from straw and wild grass was shown to perform better than the alternative use,as no competition with the feed sector was involved. Biogas for heat and power production was the best performing pathway,in a short-term context. Focusing on transport fuels, bioethanol was generally preferable to biomethane considering conventional biogas upgrading technologies.Based on the results，agro-industrial residues cannotbe considered burden-free simply because they are a residual biomass and careful accounting of alternative utilization is a prerequisite to assess the sustainability of a givenuse.Inthis endeavor,the iLUC factorsand biochemical model proposed herein can be used as templates and directly applied to any bioenergy consequential study involving demand for arable land. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:agro-industrialbiomass,biofuel,biorefineries,onsequentialLCA,UC,land-usehnge ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received9March2015;accepted5May2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Agro-industrialbiomassresiduesarereceiving increased attention for their potential of providing sustainable bioproducts and bioenergy (e.g., Steubing et al., 2012；Tuck et al.，2012;Glithero et al.，2013;Mohr & Raman,2013;Styles et al.,2014,2015).In this context, integrated biorefinery solutions generating multiple outputs (e.g.,fuels,electricity,heat,nutrients,and animal feed）have been acknowledged as promising alterna tives to single-output technologies neglecting further utilization of coproducts (e.g.，Zhang，20o8；Bentsen et al.,2009;Fatih Demirbas,2009;FitzPatrick et al.,2010; Liu et al.，2011;Forster-Carneiro et al.，2013).Current use of these residues ranges from application on-field as organic fertilizer/soil improver (manure and straw, e.g., Hamelin etal.,2014 and Petersen et al.,2013) to utilization in the feed sector (food-industry residues).Life cycle assessments have been extensively applied in the literature to evaluate the environmental implications of agro-industrial residues (e.g.，Hedegaard et al.，2008; Cherubini & Ulgiati,2010;Spatari etal.,2010;De Vries et al.,2012a;Boldrin et al.,2013;Tufvesson et al.,2013; Falano et al.,2014),generally highlighting that the environmental performance is mainly related to the energy produced (overall energybalance)and the type of fuels displaced (related to LCA assumptions). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Existing studies,however，generally fall short in two aspects. First, the alternative/current management of the biomass residues (i.e., the reference system) is often not taken into account, thereby essentially assuming that the biomass is available free of burdens with no other uses for society. For example,if the alternative use fora biorefinery substrate is animal feeding,using the biomass for bioenergy production will induce new demands for feed ingredients that will ultimately be fulfilled by cultivating additional crops.This,in turn，is ultimately achieved through land expansion or production intensification,thereby inducing indirect land-use change (iLUC) effects with environmental consequences potentially canceling any initially foreseen benefits (Searchinger et al.,2008;Edwards et al.,201O;Searchinger，2010;Tyner et al.,2010;Hamelin et al.，2014;Vazquez-Rowe et al.,2014). Such interactions with the feed market are aspects of the whole-system perspective that are often disregarded when residues are assessed (e.g., Koller et al.,2013;Leceta et al.,2014). In the few cases where these have been considered (e.g., Tufvesson et al., 2013),iLUC has not been included. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Second, the mass and energy balances describing the conversion of biomass substrates are generally incomplete or poorly defined，and often not linked to the substrate composition itself (e.g.，Hedegaardet al., 2008).Although the overall mass flows of coproducts generatedinbiorefinerysolutionsaretypically addressed in LCA,ignoring their composition changes leads to misleading conclusions regarding their potential for substituting ingredients in the feed market. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This study aims at evaluating the environmental implications of the use of agro-industrial residues for bioenergy. Such a broad aim involves two key milestones that are too often belittled in LCA studies:a methodological one and a validation one.In the former，a transparent modeling framework (i.e.，determining what to include) has to be established along with the foundation for quantifying the involved emission flows. In the latter， the established methodology is tested with a specific case，so conclusions can be drawn. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, the methodological milestone is tackled by developing: (i) a deterministic model for quantification of iLUC impacts (global warming，acidification, and N-eutrophication）in case of competition with the feed market,and (ii) abiochemical model for systematic quantification of all energy，mass,and substance flows (including biochemical composition and feed properties of all involved coproducts). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The validation is performed through a case study involving eight agro-industrial biomass residues (wheat straw，grass from natural areas,brewer's grain，beet top,beet pulp，potato pulp,beet molasses,whey）and four conversion pathways (two involving bioethanol and two biogas). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Goal,scope,and functional unit ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The environmental assessment was performed following the ISO standard for LCA (ISO 2006a,b).In $\\operatorname { L C A } ,$ two alternative approaches can be distinguished: attributional and consequential (Finnveden et al.,2oo9).While attributional (or descriptive) LCA seeks at modeling suppliers using average market data and multiple-output activities using allocation,consequential (or change-oriented) LCA seeks at modeling actual affected/ unconstrained suppliers and avoids allocation using system expansion (Ekvall & Weidema,2004).As the aim of this study was addressing the environmental consequences of changing the management of the selected substrates from the reference (current system） to a number of (future) bioenergy scenarios (i.e.,it isa change-oriented study),a consequential approach was adopted as it appears as the most suitable for this purpose (Weidema 2003). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study considers a short-term time scope (period 2015- 2030).The functional unit is ‘management of $^ \\mathrm { ~ 1 ~ t ~ }$ of biomass residue (wet)' (input to each conversion pathway),that is,all input and output flows are scaled to 1 t of biomass input.The geographical scope was Denmark,that is,the inventory data for biomass composition,technologies and the legislation context were specific to Danish conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The case study focuses on eight agro-industrial biomass residues utilized in four biorefinery pathways (Fig.1).These involve two main energy carriers,namely biogas and bioethanol, themselves produced along with multiples coproducts (digestate for the former; ethanol molasses and a lignin-rich solid biofuel for the latter) that can be used in several ways.The full conversion chains considered for the case study are (Fig.1)(i) production of bioethanol for transport, bioethanol molasses for biogas (combined heat and power,CHP),and solid biofuel for combustion (CHP);(ii) production of bioethanol for transport, bioethanol molasses for animal feeding,and solid biofuel for combustion (CHP); (ii) production of biogas for transport, separationofdigestate (liquid for fertilization and solid biofuel for combustion (CHP)); (iv） production of biogas for combustion (CHP),digestate fate as in iii. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Asillustrated in Fig.1,the assessment considered a baseline situation and three main sensitivity analyses performed on selected scenario uncertainties.Details on these are provided in dedicated sections later in this manuscript. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Impact assessment ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The following environmental impacts were included: global warming (GW;100 years horizon),acidification (AC),aquatic eutrophication - nitrogen (AEN),and phosphorous resource saving (Pres).The impact assessment followed current recommendations for best practices within LCA (Hauschild et al., 2012).The following assessment methods were used: IPCC 2007 for GW (Forster et al.,20o7),accumulated exceedance for AC ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Wheatstraw Naturegrass Brewer's grain Beettop Beetpulp Potato pulp Beet molasses Whey I I IV Bioethanol-for-transport Bioethanol-for-transport Biogas-for-transport Biogas-for-comb.CHP   \nMolasses-for-biogascomb.CHP Molasses-for-animalfeeding Solidbiofuel-for-comb.CHP Solidbiofuel-for-comb. CHP Solidbiofuel-for-comb.CHP Solidbiofuel-for-comb.CHP Baseline SensitivityS1 SensitivityS2 SensitivityS3 Manureref.:digestion&UOL Manureref.:no digestion&UOL Manureref.:digestion&UOL Manureref.:digestion&UOL Marginalelectricity:coal Marginalelectricity:coal Marginalelectricity:naturalgas Marginalelectricity:coal Proteinrecovery:limited Proteinrecovery:limited Proteinrecovery:limited Proteinrecovery: $100 \\%$ （20 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(Seppäla etal.,2006),EUTREND for AEN (Struijs etal.,2013), and Impact $2 0 0 2 +$ (Jolliet et al.,2003) forPres.Background LCA datawereobtainedfromtheEcoinvent $\\mathrm { v } 2 . 2$ database(Ecoinvent Centre,2015).Impacts associated with capital goods in the foreground processes were excluded due to lack of data. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Agro-industrialbiomassresidues ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The eight residues selected for the assessment are as follows: straw，grass from natural areas (i.e.，wild)，brewer's grain, beet top,beet pulp，potato pulp，beet molasses，and whey. Straw was assumed aswheat straw.These substrates include all domestic agro-industrial residues with the exception of manure,excluded because extensively addressed in recent LCA literature (e.g.，Hamelin et al.，2011，2014;De Vries et al.，2012a,b,2013).However,the implications of codigesting the selected agro-industrial residues with manure are included. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The domestic biomass potential was quantified based on available information (details in Table S1,Appendix S1).Straw represents the largest potential (ca. $5 6 0 0 ~ \\mathrm { M k g }$ WW $\\mathrm { y r } ^ { - 1 } .$ of which 2700 are from wheat straw);however,only $3 8 \\%$ of the total straw produced is left on-field (unutilized).Follows grass from natural areas (ca. $2 0 0 0 ~ \\mathrm { M k g }$ WW $\\mathbf { y } \\mathbf { r } ^ { - 1 }$ corresponding to $4 3 0 ~ \\mathrm { M k g ~ D M ~ y r } ^ { - 1 } ,$ ）andindustrial residues(i.e.， sumof brewer's grain,beet top,beet pulp,potato pulp,beet molasses, andwhey）accountingfor $3 5 0 0 ~ \\mathrm { M k g }$ ww $\\mathrm { y r } ^ { - 1 }$ (i.e., $3 8 0 ~ \\mathrm { M k g ~ D M ~ y r } ^ { - 1 }$ ，currently used in the feed market; see Table S1 in Appendix S1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Alternative uses of biomass ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The straw and grass considered for the case study are ‘wastes', that is,it is the grass and straw otherwise unutilized (i.e., left on-field) that are now used for bioenergy. The lost opportunity for using these two residues for bioenergy was thus modeled as‘avoided on-field decay' (Fig.2).In terms of environmental consequences,diverting straw and grass to bioenergy induces carbon and nutrient losses in the soil,and this was included in the model.Full details of the modeling are provided in Appendix S9. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the other industrial residues (brewer's grain, beet tops, beet pulp,potato pulp,beet molasses,whey),the lost opportunity (i.e.,what would have otherwise happened with these residues）is considered to be their use for animal feed.In this context,diverting the industrial residues to bioenergy induces acorresponding extra demand for marginal energy-and protein-feed,under the assumption of full elasticity of supply, as justifiedinWeidema et al.(2009). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The marginal for energy-feed was assumed to be maize, while for protein-feed soymeal was considered (Fig.2).These choices are based on detailed elaboration of recent demand trends and future projections (FAPRI,2012;FAOSTAT,2014), as detailed in Appendix S3.For soy meal,the choice is also supported by Dalgaard et al. (2o08).The energy content of the feedwasmodeledintermsof Scandinavian FeedUnits (SFU) (definition and calculations in Appendix S5). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "System boundaries and scenario modeling ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The full systemboundary considered is illustrated in Fig.2 for straw,when used as in scenario II (bioethanol for transport). Figures S1-S5(Appendix S2) provide detailed flow diagrams for brewer's grains (all scenarios） exemplifying the case of industrial residues. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As illustrated in Fig.2,the energy outputs from biomass conversion were considered to substitute marginal fossil fuel extraction and use. Coal-fired power plants and natural gas boilers were assumed as short-term marginal technologies for electricity and heat production (Appendix S3)，respectively, based on the Danish government's energy policy milestones (Danish Ministry of Climate，Energy and Buildings，2011), where phasing-out coal and natural gas are a target for 2030 and 2035,respectively (goal-oriented approach).A sensitivity analysis was performed using natural gas-fired power plants asalternative electricitymarginal. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Gasoline was assumed as marginal fuel for transport (Ap pendix S3).Overall, the EU transport fuel market has been decreasing with gasoline consumption steadily being reduced since the 1990s (as opposed to diesel). Increased biofuel production is therefore most likely to further offset gasoline consumption. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f308c4d16a87202138c6861f077be558edad9d61d61bfb24c10f8e27c81f3bd.jpg",
+        "img_caption": [
+            "Fig.2PocesflowagramforafoenarioIprouctionofoeaolforrasprtoeaoloasesforfddbi fuelforcombustio().C,bindatadower;ob.busio;pablelandepasio;itntesificatio cultural productio;PF,palmfruit;SB,sobean;SFU,sandinavianfeedunits.The“oop”symbols indicatethatthe“soybeaneal loop\"modeling framework(Dalgaardetal.,2008)wasappliedtoquantifytheavoidedsoymeal/maizeand theiducedpalmoil. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Bottom ashes from biomass combustion were considered to be landfilled,while fly ashes were assumed to be utilized for backfilling of salt mines with negligible environmental impacts (Fruergaard et al.，2O1O).Treatment of wastewater was not included. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Scenarios I, III and IV involve anaerobic digestion producing:biogas (upgraded to biomethane in scenario III),solid biofuel (undegraded solids,e.g., fibers,separated from the liquid fraction of the digestate; modeling details in Appendix S6 and mass/energy balance results in Appendix S7).The liquid fraction of the digestate (from now on simply called‘digestate', while we will referred to the separated solid fraction as ‘solid biofuel'）produced from this process is considered to be used as organic fertilizer (for N,P,and K),thus substituting marginal mineral N,P,and K fertilizers.Detailed calculations for the substitution ratios used in this study are provided in Appendix S8.MarginalN,P,andK fertilizers were considered to be urea,diammonium phosphate,and potassium chloride, respectively，based on recent demand trends and expected capacity installations (IFA,2014; details in Appendix S3). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For all scenarios involving anaerobic digestion,a wet diges tionprocess was considered,which was here modeled as codigestion with animal manure.In the baseline scenarios, the alternative management (reference scenario) of the animal manure was considered to be digestion itself.In other words,it was assumed that this manure would have been digested anyway.This assumption is supported by several western European national renewable energy action plans (NREAP) (Beurskens et al.,2011） indicating substantial increases in biogasproduction from manure, thereby suggesting manure digestion as an established practice in the near future.For Denmark, the goal is that up to $5 0 \\%$ of livestock manure can be used for bioenergy in 2020 (Danish Government,2009). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The alternative counterfactual for manure (conventional storage and application on land) was assessed in a sensitivity analysis (Appendix S1o) following the approach of Hamelin et al. (2011). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Deterministic model for indirect land-use changes(iLUC) impacts.Amodeling framework was developed and applied to quantify theiLUC impactscaused by changesin the demand for land.Effects associated with demand for land were considered to be global, given the global nature of agricultural commodity ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Arable land demand Adem 入exp Intensification of agricultural Net expansion of arable land into production on existing arable land naturalecosystems N,P,K fertilizer consumption Ecosystem loss:occupation of the due to intensification land for the duration of the demand (related to the functional unit) N,P,K fertilizer production C-emissions ${ \\mathsf N } _ { 2 } { \\mathsf O }$ $N H _ { 3 }$ $\\mathsf { N O } _ { \\mathbf { x } }$ $N O _ { 3 }$ emissions ${  { \\mathsf { N } } } _ { 2 } {  { \\mathsf { O } } }$ $\\mathsf { N O } _ { \\mathbf { x } }$ emissions ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "trading.The framework usesa cause-and-effect logic,that is,it attempts to establish a cause-effect relationship between demand for arable land and expansion/intensification effects using statistical data about deforestation,natural biomes losses (e.g.，shrubland,grassland),crop yields,and fertilizers consumption.For this reason, this iLUC model can be identified as a deterministic iLUC model (also called biophysical,or causaldescriptive,or agrophysical) conformingly with the terminology commonly found in the literature (Dunkelberg et al.,2011; Warner et al.,2013). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Consistently with the principle of 'full elasticity of supply'in consequential LCA (Weidema et al.,20o9),this model only considers long-term changes in supply (in this case of arable land) caused by changes in demand.Thus,short-term effects on prices and related price elasticities are not included.For this purpose,economic equilibrium models should be used instead. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The model considers that additional crop production is ultimately provided by (i) net expansion of arable land and (ii) intensification of current cultivation practices (Fig.3).The sum of the impacts associated with (i) and (ii) provides the total iLUC impact.In the model, intensification is considered as $100 \\%$ input driven,here modeledas increases inN,P,andK fertilizers.It is acknowledged that this is a simplifying assumption; part of the increased yield may be due to innovation-driven pathways (e.g.,plant breeding) or extension of multicropping practices.To quantify the iLUC impacts,it is necessary to model the(1） share of intensification and expansion in the total response to a changed land demand,(2) geographical location of expansion and affected biomes,(3) the changed flows of carbon and nitrogen asa result of expansion,and (4) increased N, P,K fertilizerused for intensification and the overall emissions associated to this.The model was built based on deforestation data (FAO,2010) for the period 2000-2010 (latest available data). Key aspects of the model are provided in the following sections, while additional details can be found in Appendix S4. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Shareof intensification and expansion on the total response ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The share of the response (to changes in demand for land) attributed to intensification and expansion was calculated by elaborating data on crop yields and production from FAOSTAT (2014)(Eqs.S10-S16,Appendix S4)，following the approach suggested in Schmidt et al. (2012).As a result,it was found that for the period 20oo-2010,expansion was responsible for $2 5 \\%$ $( \\overline { { \\lambda p } } _ { \\mathrm { e x p } } )$ of the response, while intensification for $7 5 \\%$ （20 $( \\overline { { \\lambda p } } _ { \\mathrm { i n t } } )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Typeandlocationofarablelandexpansion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "On the basis of Gibbs et al. (2010),two main aggregated landcover types were considered as areas where expansion takes place: forest and low woody vegetation of natural origin (including savannah,cerrado,shrubland,and grassland).The latteris here referred to as 'shrubland'.The proportion of arable land deriving from ‘forest'and 'shrubland' for the various regions of the world was quantified based on the findings of Gibbs et al.(2010) (Table S7,Appendix S4).According to this, overall ca. $8 3 \\%$ of the expansion occurred on forests and ca. $8 \\%$ on shrublands (period 1990-2000).Contrary to some iLUC studies (e.g.,Kloverpris et al.,201O),no distinction between the conversion induced by arable versus pasture land demand was considered. This was carried out because historical data (1990- 2010） show comparable expansions for both; from FAOSTAT (2014),it can be calculated that between 2000 and 2010,the average annual gross expansion of arable land and cultivated pasture land was 11.6 and $1 2 { \\mathrm { ~ M h a ~ y r } } ^ { - 1 } .$ ，respectively (and 51 vs.53Mha $\\mathbf { y } \\mathbf { r } ^ { - 1 }$ between 1990 and 2000).On this basis,it is assumed that both arable and pasture land demand will trigger expansion in similar proportions also in the mid-term future. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "On the basis of IPCC $( 2 0 0 6 \\mathrm { b } )$ ，‘forest'losses were further divided into types (tropical,subtropical, temperate,boreal and polar;each,except the latter,further subdivided in relevant vegetation categories,for example,'coniferous'，'tundra'and 'mountain'for boreal forest).This subdivision for forest losses was necessary in order to assign specific carbon emission factors to each type of biome loss (Appendix S4,section 4.2.2). Additional subdivision was not necessary for‘shrubland' losses as this type of land conversion occurs in the tropical biome only (Gibbs et al.,201O).This led to establish 20 different categories of area loss (19 ‘forest'and 1'shrubland'categories). Breaking down the world in 10 aggregated regions and using the deforestation data 2000-2010 from FAO (2010),the proportion of area loss was determined for all 2O area categories in each of the 10 world regions,resulting in a total of 83 region and biome-specific areas (Table S8,Appendix S4).Gross (rather than net) deforestation losses were used for the calculation,as it is assumed that afforestation programs do not affect agricultural land expansion. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Carbon and nitrogen emissions from expansion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For quantifying the carbon emissions,it is necessary to first quantify an average annual growth (as biomass $C ,$ at natural state) in each individual biome during the whole time horizon considered for the global warming potential (1oo years; ${ \\mathrm { G W P } } _ { 1 0 0 } )$ .To this end,biomass growth data from IPCC (2006b) wereused to calculate $\\mathrm { C O } _ { 2 } { \\cdot } \\mathrm { - } C$ emission factors (CEF) in each of the 83 region- and biome-specific areas of land cover loss $\\langle C E F _ { b , r } ,$ Eq. S17,Appendix S4).This,combined with the earlier step of establishing the proportion of land cover loss in each of the 83 region- and biome-specific areas,allowed deriving a glo bal CEF associated with arable land expansion (Eq. S20,Appendix S4): 2.4 t COz-C $\\mathrm { { h a } _ { e x p } { } ^ { - 1 } \\ y r ^ { - 1 } }$ .Similarly,N-emission factors (NO and $\\mathrm { N } _ { 2 } \\mathrm { O } )$ were calculated based on the CEFs (Eqs. S21- S25;Appendix S4)as IPCC provides emission factor per unit drymatterloss (CEFanddrymatterarerelatedbycarboncontent). These were as follows: $7 . 1 \\mathrm { \\ k g \\ N O \\ h a ^ { - 1 } } _ { \\mathrm { e x p \\ } } \\mathrm { y r ^ { - 1 } }$ and $0 . 8 8 \\mathrm { k g } \\mathrm { N } ^ { 2 } \\mathrm { O } \\mathrm { h a } ^ { - 1 } \\mathrm { { _ { e x p } \\mathrm { y r } ^ { - 1 } } }$ . ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IncreasedN,P,Kfertilizeruse forintensification,and relatedemissions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on the best available data for global fertilizer consumption (IFA,2014),the annual change in global N,P,and K fertilizer use was quantified for all years in 20oo-2010: on average this was $2 . 2 4 ~ \\mathrm { M t } \\mathrm { ~ N ~ y r } ^ { - 1 }$ for N,0.77 Mt $\\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } \\ \\mathrm { y r } ^ { - 1 }$ for ${ \\mathrm { ~ P } } ,$ and 0.54 Mt $\\mathrm { K } _ { 2 } \\mathrm { O \\ y r ^ { - 1 } }$ for K(Table S12;Appendix S4).These values were further split into shares for expanded land (Eq. S30; Appendix S4) and intensified land (calculated by difference, Eq.S29).The global fertilizer use for intensification was then calculated as the mean value of the individual years (Eq. S31; Appendix S4): $1 6 6 ~ \\mathrm { { k g } ~ N \\ h a ^ { - 1 } { _ { \\operatorname* { i n t } } } ~ y r ^ { - 1 } } ,$ $6 8 ~ \\mathrm { { k g } ~ P _ { 2 } O _ { 5 } \\ h a ^ { - 1 } { } _ { \\ i n t } \\ y r ^ { - 1 } } ,$ and $4 7 ~ \\mathrm { k g ~ K _ { 2 } O \\ h a ^ { - 1 } { } _ { i n t } \\ y r ^ { - 1 } }$ . The $\\Nu$ emissions following fertilizer application on land were directly quantified based on Nemission factors (Eq. S32-S36) for the marginal N fertilizer consideredin this study (urea); $1 . 5 \\%$ for $N _ { 2 } O - N$ (IPCC,2006a), $2 \\%$ for $\\mathrm { N H } _ { 3 }$ -N(Hamelin etal.,2012), $1 \\%$ for $\\mathsf { N O } _ { \\mathrm { x } }$ -N(Hamelinet al., 2012),and $20 \\%$ for $_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ based on a global top-down estimate (Galloway et al.,2004). The final aggregated inventory for land use is summarized in Table 1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Biochemical energy model. For proper accounting of biochemical conversion of the substrates,a biochemical energy conversion model was developed in Matlab $( \\copyright ,$ The MathWorks Inc., version R2012) and integrated with the LCA model (Fig. S8; Appendix S6).With the (bio)chemical composition of each biomass substrate as the starting point of the modeling，fuel energy production (bioethanol or biogas）and the composition of the associated coproducts (bioethanol molasses,solid biofuels,digestates,etc.) were determined based on detailed energy, mass,and substance balance calculations.Inputs such as specific hydrolysis efficiencies,fermentation yields,separation efficiencies，andparasiticenergyconsumptionsforeach individual unit process were included. Detailed modeling equationsare providedinAppendix S6.The application of the model to the investigated energy conversion pathways is described below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Biomasscomposition ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The biochemical composition of the eight selected biomasses was derived from a review of 40 studies reporting composition data (details in Appendix S5,Tables S16-S23),including sugar contents (sucrose,starch,cellulose,hemicellulose,and pectin), lipids，proteins,lignin,ash,water,carbon,higher and lower heating value (HHV and LHV),nitrogen,phosphorous,potassium,crude fibers,digestibility,and feed value (here quantified as‘Scandinavian feed units',SFU,which is a function of the energy content in terms of carbohydrates,proteins,and lipids; this is detailed in Appendix S5). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d9be2995f01c8a8756b30e54c72fc706276af34802b35235988c72d9878082ae.jpg",
+        "table_caption": [
+            "Table1 Final aggregated inventory for arable land use (one hectareofarablelanddemanded) "
+        ],
+        "table_footnote": [
+            "\\*Sum of direct and indirect $\\mathrm { N } _ { 2 } \\mathrm { O }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Expansion</td><td></td></tr><tr><td>Emissions to air</td><td></td></tr><tr><td>CO2</td><td>t CO2 ha-1dem yr-1</td></tr><tr><td>N2O</td><td>kg N2O ha-1dem yr-1</td></tr><tr><td>NOx</td><td>kg NO ha-1dem yr-1</td></tr><tr><td colspan=\"2\">Intensification: NPK fertilizer production</td></tr><tr><td>Materials N-fertilizer</td><td></td></tr><tr><td></td><td>kg N ha-1dem yr-1</td></tr><tr><td>P-fertilizer K-fertilizer</td><td>kg P2O5 ha-'dem yr-1</td></tr><tr><td></td><td>kg K2O ha-1dem yr-1</td></tr><tr><td>Intensification:N emissions Emissions to air</td><td></td></tr><tr><td>NzO (dir + ind)*</td><td>kg N2O ha-1dem yr-1</td></tr><tr><td>NH</td><td>3.4</td></tr><tr><td>NOx</td><td>kg NH3 ha-dem yr-1 kg NO2 ha-1dem yr-1</td></tr><tr><td>Emissions to water</td><td></td></tr><tr><td>NO3-N</td><td>kg NO3-N ha-1de</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Bioethanol productionmodeling ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Bioethanol production (scenarios I-II) was assumed to occur from C6-sugars hydrolyzed from cellulose.Cellulose and hemicellulose hydrolysis efficiencies were set to $9 5 \\%$ and $7 5 \\%$ respectively,based on Hamelinck et al.(2oo5).Nonhydrolyzed and unconverted sugars (both C5 and C6),along with unconverted lipids,proteins,and lignin were routed to a mixed residual stream,later separated into a liquid fraction (bioethanol molasses),and a solid fraction by centrifuging (see Appen dix S6 for more details;Figs.2 and S1-S5 exemplify mass balances for selected substrates;all mass/energy balances are detailed in Appendix S7).The solid biofuel (dry matter,DM, ca. $4 0 \\%$ at this stage) was further heat-dried to $90 \\%$ DM for cofiring in power plants.Bioethanol molasses were also consideredto be heat-dried with waste heat from the distillationunit to about $6 5 \\%$ DM to facilitate transportation (for use as feed or substrate for biogas） conformingly with current practice (Larsen et al.,2008,2012). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Biogasproductionmodeling ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Anaerobic digestion was modeled as mesophilic codigestion of the individual biomasses (scenarios II-IV) or bioethanol molasses (scenario I) with pig manure.Manure addition is needed to ensure a sufficient level of micronutrients for the digestion process,as well as to adjust the high C:N ratio (above 25 for most biomasses; Table S15 in Appendix S5) to a more optimal level (Mshandete et al.,2004;Alvarez et al.,2010; Nges et al.,2012). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The modeled theoretical methane potential for the biomasses ranged from 430 (potato pulp) to 540 (brewer grains) $\\mathrm { N m } ^ { 3 } \\mathrm { t } ^ { - 1 }$ VS(Table S15;modeled based on the substrate composition,as described in Symons & Buswell,1933).For manure,it corresponded to $4 5 0 \\ \\mathrm { N m } ^ { 3 } \\ \\mathrm { t } ^ { - 1 }$ VS (Hamelin et al.,2011).The mixture of biomass and pig manure can be calculated by different approaches:by concurrently optimizing the energy output, $\\boldsymbol { \\mathrm { { C } } } : \\mathrm { { N } }$ ratio and dry matter in the digestate,or according to a legislative context.Here,a manure: biomass ratio of $3 : 1$ (dry basis)was assumed,reflecting the Danish legislation (Danish Ministry of Food,Agriculture and Fisheries,2006,2012). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Electricity consumption $8 \\%$ of the electricity produced) was assumed according with average literature values (Boerjesson &Berglund,2006;Hamelin et al.,2011;Bacenetti et al.,2013), and heat consumption was calculated as the energy required to heat the substrates from 8 to $3 7 ~ ^ { \\circ } C$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Methane losses from the digesters were assumed to $1 \\%$ of the produced $\\mathrm { C H } _ { 4 } ,$ assuming the implementation of best available technologies and management practices in accordance with recent LCA studies (Hamelin et al.,2011;De Vries et al., 2012b;Tonini et al.,2012;Hamelin et al.,2014).Further details on anaerobic digestion modeling are provided in Appendix S6, section 6.2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Energyuseof biorefinery products ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Biogas combustion for CHP production (scenarios I,IV) was assumed to occur in a gas engine with net electricity and heat efficiencies of,respectively, $45 \\%$ and $5 5 \\%$ ,relative to the LHV of the biogas (Danish Energy Agency,20l2),and the related air emissions were based on Nielsen et al. (201O) (Table S25). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Biogas upgrading to methane and tailpipe emissions associated with combustion in vehicles (scenario III) were based on dataprovided in Jungbluth et al. (20o7) (Appendix S6). Upgrading was based on $\\mathrm { C O } _ { 2 }$ removal technologies (pressure swing adsorption,PSA),considering an electricity consumption of $0 . 0 1 4 \\mathrm { k W h } \\mathrm { M J } ^ { - 1 } \\mathrm { C H } _ { 4 }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Combustion of the solid biofuels (coproduced with bioethanol in scenarios I-II; solid fractions of the digestate in scenarios III and IV） was modeled as cofiring in large-scale coal-fired CHP plants with net electricity and heat efficiencies of $3 8 \\%$ and $6 2 \\%$ ，respectively (after Tonini et al.，2012)．Air emissions (Table S25) were based on Nielsen et al. (2010). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Use-on-land of biorefineryproducts ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The amount and composition of the liquid fraction of the digestate derived from anaerobic digestion of the biomasses was calculated based on a mass balance approach,that is,as the difference between the initial nutrients and dry matter fed to the digestion process and the amount transferred to the biogas and to the recovered solid fraction (Table S28,Appendix S7). For whey and beet molasses,no solid biofuel could be recovered as lignin is not found in their composition (mostly composed of easily degradable sugars). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The emission and leaching of nutrients were quantified as follows: direct $N _ { 2 } O - N$ emissions were calculated equal to $1 . 5 \\%$ of the Napplied with the digestate (IPCC,2006a).The emission of $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ was modeled as $11 \\%$ of the $\\Nu$ in the digestate,which is the average figure calculated from a number of studies (Amon et al.，2006;Bruun et al.，2006;Clemens et al.，2006; Matsunaka et al.,2006).The emission of $_ \\mathrm { N O _ { x } - N }$ was assumed $1 . 1 \\%$ of the $\\mathsf { N }$ in the digestate based on Hamelin et al.(2012). The leaching of $\\Nu$ (asnitrates) was calculated equal to $5 1 \\%$ of thedigestate $\\Nu$ content based on Hamelin et al.(2011) (or,alternatively, equal to $45 \\%$ of the N in the digestate after subtracting the emission of $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ ).Theindirect $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions (i.e., $\\mathrm { N } _ { 2 } \\mathrm { O }$ produced subsequent to the re-deposition of the emitted $\\mathrm { N H } _ { 3 } ,$ $\\mathsf { N O } _ { \\mathrm { x } }$ and leached N) were quantified based on IPCC (2006a). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Losses of $\\mathrm { \\Delta P }$ to soil and water were considered to correspond to $5 \\%$ of the $\\mathrm { ~ P ~ } { }$ applied in excess,based on Hamelin et al. (2012). The K losses to soil and water were not further considered,as not affecting the environmental categories considered. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The share of the applied C that entered the soil C pool and that was emitted as $\\mathrm { C O } _ { 2 }$ was determined based on the findings of Bruun et al. (2oo6). Based on the average values reported in Bruun et al.(2oo6) for arable loamy soil in West Denmark,it was considered that $20 \\%$ of the initial C applied is emitted as $\\mathrm { C O } _ { 2 }$ after 10 years, $67 \\%$ after 50 years,and $90 \\%$ after 100 years (the degradation kinetic is described in Appendix S9,section 9.3). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Transport and otherprocesses ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Overseas transport distances for soy meal and maize were included based on expected sea-transport distances.These were $1 1 4 0 0 ~ \\mathrm { k m }$ for maize and $1 2 0 0 0 ~ \\mathrm { k m }$ for soy meal. Palm meal was assumed to beused locally for the south-east Asian market (no overseas transport).Crops inland transportation of $4 0 0 ~ \\mathrm { k m }$ (with trucks）was considered.Transport of the selected biomass residues to the energy conversion facility was assumed to occur locally $( 3 0 ~ \\mathrm { k m } )$ .Transport distances for energy conversion residues were as follows: $2 5 ~ \\mathrm { k m }$ for digestate, $8 0 ~ \\mathrm { k m }$ for bottom ash, and $5 0 0 ~ \\mathrm { k m }$ for flyash based on typical EU figures (Tonini et al., 2013). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The following impacts were disregarded:(i) impacts associated with capital goods (i.e.,materials and construction/demolition of facilities);(ii) impacts associated with preparation of the feed meals from the crops (e.g.,soy meal, palm meal, maize feed).In both cases,this is due to the poor information available,and it was judged that the importance of these impacts in the whole system was largely outweighed by the uncertainty it comes with. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sensitivity and uncertainty analysis. Sensitivity and uncertainty analyses were addressed at two levels: (i) scenario uncertainties and (ii) parameter uncertainties,following the tiered approach suggested in Clavreul et al. (2012)．Uncertainties related to theLCA methodology itself werenotaddressed. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Scenario uncertainties(related toassumptions）were addressed by three main sensitivity analyses: S1) No treatment and use-on-land for the reference manure management (instead of digestion and use-on-land; applies to scenario I,III,and IV); S2) natural gas power plant as marginal technology for electricity generation (instead of coal power plant; applies to all scenarios)； S3) $100 \\%$ (maximum） recovery of proteins in the bioethanol-molasses flow (instead of the baseline value of $3 3 \\%$ Appendix S6 (Table S24);applies to scenario I and II).These sensitivity analyzes are summarized in Fig.1. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Parameter uncertainties were addressed by assigning mean value and standard deviation to the parameters used in the modeling (Table S37,Appendix S1O),assuming normal distributions.While for some parameters (crop yields,biomass composition),a normal distribution behavior around the mean was observed based on statistical data,for others (technology efficiencies,N emissions),only a minimum-maximum range around the mean was available.For simplicity, this was still approximated with normal distribution to give ‘higher probability'to the average value,even though other approaches may be applied (e.g., Clavreul et al.,2013).All scenarios were modeled using Monte Carlo analysis (1ooo simulations):for each individual biomass,scenarios I-IV were compared against each other to evaluate the number of occurrences when one scenario was performing better than another. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "GW impact from the biorefinery scenarios ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The GW environmental impacts related to the 32 bioenergy scenarios are shown in Fig.4a. Figure 4b,c illustrate the GW breakdown for energy recovery and iLUC, respectively.Net impacts/savings for the individual bioenergy scenarios were obtained by subtracting the avoided impacts (negative values in the figures） from the induced impacts (positive values). The zero axis represents the reference: net values below the zero axis indicate environmental improvements compared with the reference scenario (in which:electricity,heat,and transport are provided by coal, natural gas,and gasoline,respectively,and the biomass residues are used for feeding or left decaying on-field in the case of grass and straw).Although the functional unit is the management of1 tonne of residue (wet weight),results are shown per tonne dry weight for illustrative purposes，as the breakdown of the impacts for wet substrates would otherwise not be visible to the reader (scaling problem assubstrateshaveverydifferentwater content).Results per tonne of wet weight are nevertheless shown in Appendix S10 (Table S35). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Two major results can be observed:i) from a substrate perspective, the residues not competing with the feed sector (straw and grass) always provided GW benefits,across all scenarios;ii) from an energy pathway perspective,scenario IV (biogas and solid fuel for CHP) outperformed the remaining scenarios.The first observation reflects the importance of the iLUC impacts,this applying whenever a changed demand for land is induced,here for all substrates but straw and grass for which no competition with the feed market was involved.The reason for the second observation is the high net electricity recovery (substituting for coal-based electricity) involved in that scenario.This was expected, as this scenario,by its very nature，involves that a maximum of biomass C is converted to electricity.Scenario IV still outperformed the other scenarios when substituting natural gas-based electricity instead of coal-based electricity (Fig.7；sensitivity S2)，although the difference with the remaining scenarios significantly decreased. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The magnitude of the iLUC impacts was directly related to the nutritional value of the biomass: whey, brewer's grain,and beet top showed the highest ${ \\mathrm { G W P } } _ { 1 0 0 }$ foriLUC impacts in scenarios I,III,and IV where $100 \\%$ of the input biomass was used for bioenergy production $( \\mathrm { G W P _ { 1 0 0 } }$ varying between 1.2 and $1 . 4 \\mathrm { ~ t ~ C O } _ { 2 }$ -eq. $\\mathbf { t } ^ { - 1 } \\mathbf { \\Delta } \\mathrm { D M } ,$ Fig. 4c). This was a direct consequence of the high proteinsand energy content (high SFU) of these residuesrelatively to the other biomasses (Table S15;Appendix S5). However,when part of the input biomass was recovered as animal feed (scenario II: thereby partially avoiding iLUC)，the iLUC GHG impactswere significantly decreased (by about $4 4 \\%$ on average，across all biomasses; Fig. 4c).These results emphasize the importance of a rigorous methodology to quantify the quality of the coproduced feed:in existingLCAliteratureof biorefineries,verylittle attentionis paidto the potential avoidance of iLUC through feed recovery. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The impact of biogas production on the total induced GW impact was significant (ca. $5 0 \\%$ of total） for scenario III due to the PSA biogas upgrading process where,on top of the high energy consumption for compression, the $\\mathrm { C O } _ { 2 }$ in the biogas is removed and lost to the atmosphere without providing any services. Emerging upgrading technologies where the $\\mathrm { C O } _ { 2 }$ in the biogas isinstead converted to more methane could thus improve this process significantly.For the remaining scenarios，the impacts from the production of the energy carrier itself accounted for one-third of the induced impacts. For energy recovery (Fig. 4b)，the major GHG savings were associated with biogas and solid biofuel combustion in CHP,due to the substitution of coal-based electricity and to the overall high energy recovery in CHP units，these reflecting the highly efficient technologies in place in northern Europe.Gross production of transport biofuel was significantly higher in scenario III (as biogas for transport) compared with I-I (as bioethanol).However，due to the energy input required for upgrading in scenario III and the C losses involved in that process ( $\\mathrm { C O } _ { 2 }$ and fugitive $\\mathrm { C H } _ { 4 } )$ ,the overall GHG balancewas in favor of scenarios I-II. This highlights the important role of future innovationson biogasupgradingtechnologiesto decrease such impact and render biogas a more attractive fuel for transport. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/422ddb18840fe2a3b55dce2240d688e0e0f051ec866501023ea45e9b874b4d2d.jpg",
+        "img_caption": [
+            "Fig.4Breakdown of the GW environmental impact: (a) GW impact of the $8 \\times 4$ biorefinery scenarios; (b) focus on GW savings from energyrecoveryandsubstitutionoffosilfuel;(c)focusonGWimpacts fromiLUC(lefty-axis)andcorresponding land demanded (right y-axis).CHP,combined heatand power;comb.combustion;iLUC,indirectland-usechange; UOL,use-on-land. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Otherimpacts from the biorefinery scenarios ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.5a,b,for each individual biomass residue,AC and AEN impacts were comparable across scenarios I,III,and IV,while they were significantly lower in scenario II. This was due to the fact that scenario I involves (i) no use-on-land of digestate and associated N emissions; (ii) lower iLUC impacts;and (iii) lower net demand for crop cultivation. Use-onland,iLUC,and related crop cultivation were,in fact, the most important contributors to the N-related impact categories. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the category AC,a significant impact was associated with oversea transport of the“compensatory” feed crops (soy meal and maize) shown under the process 'Other'.This did not apply to straw and grass as for these substrate no competition with the feed market applies. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7566dfcdcbf8f678ae38f94e054fc6ec6018bc16b80c30d6ee8d8860ce180ad0.jpg",
+        "img_caption": [
+            "Fig.5Breakdown of the environmental impact of the $8 \\times 4$ biorefinery scenarios for (a) acidification (AC),(b)aquatic eutrophication -nitrogen(AEN),nd(c)phosphorusresourcesaving(res).CHcombinedheatandpower;comb.ombustion;UCdiect land-use change; UOL, use-on-land. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Results for AEN are in accordance with previous studies involving use-on-land (e.g.,Hamelin et al.,2011, 2014;De Vries et al.，2012b；Tonini & Astrup，2012; Tonini et al.,2012).When combusted (as a transport fuel or for CHP),the N as a macronutrient is completely oxidized,while when recovered and applied on-land,only a fraction is lost (volatilization,other gaseous loss, leaching, etc.） a consistent portion is subject to leaching depending upon plants N-uptaking efficiency. As shown in Fig. 5, the impact due to N-leaching (i.e., UOL (digestate） is not completely counterbalanced by the avoided application of mineral fertilizers (these also involve losses),reflecting the high efficiency of ammo nium fertilizers under European conditions (Hansen et al.,2006).For some of the biomasses (e.g.,brewer's grain，whey，beet molasses，beet top)，contributions from use-on-land to the total impacts were very impor tant asa result of their relatively high N (protein) con tent. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "P-resource depletion was dominated by consumption of $\\mathrm { ~ P ~ } { }$ mineral fertilizer for cultivation of the compensatory crops providing compensation for the energyand protein-feed diverted from feeding to energy market,that is, those reacting to the demand change. For some biomasses with significant $\\mathrm { ~ P ~ } { }$ content (whey and brewer's grain),this was partly counterbalanced by substitution of mineral $\\mathrm { \\Delta P }$ fertilizer following digestate useon-land. Scenario II displays a better performance due to the lower need for compensatory crops，compared with the other scenarios. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Indirectland-usechangeimpacts ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Based on the inventory results obtained with the iLUC model (Table 1),the characterized impacts of demanding 1 hectare of arable land $( 1 \\ \\mathrm { h a } _ { \\mathrm { d e m } } )$ ）were quantified and illustrated in Fig. 6. The net ${ \\mathrm { G W P } } _ { 1 0 0 }$ was 4.1 t $\\mathrm { C O } _ { 2 }$ eq. $\\mathrm { \\ h a } ^ { - 1 } \\mathrm { d e m \\ y r } ^ { - 1 }$ .The highest contribution came from expansion (ca. $2 . 3 \\mathrm { ~ t ~ C O } _ { 2 } .$ -eq. $\\mathrm { \\ h a } ^ { - 1 } \\mathrm { d e m \\ y r ^ { - 1 } } )$ .Intensification contributed with $1 . 8 \\mathrm { ~ t ~ C O } _ { 2 }$ -eq. $\\mathrm { \\ h a } ^ { - 1 } \\mathrm { d e m \\ y r } ^ { - 1 }$ as the sum of NPK fertilizers production (ca. $0 . 8 5 \\mathrm { ~ t ~ C O } _ { 2 } .$ eq. $\\mathrm { \\ h a } ^ { - 1 } \\mathrm { d e m \\ y r } ^ { - 1 } )$ and N-fertilizer emissions in the form of $\\mathrm { N } _ { 2 } \\mathrm { O }$ (ca. 1 t $\\mathrm { C O } _ { 2 }$ -eq. $\\mathrm { \\ h a } ^ { - 1 } \\mathrm { d e m \\ y r } ^ { - 1 } )$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Concerning the impacts on the remaining categories intensification-related impacts were by far the largest contributors. While for the AC category fertilizers pro duction (due to energy consumption) and $\\Nu$ emissions (following use-on-land) were equally important, the latter were by far the most important contributor for AEN. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Asexpected，for the category P-resource depletion (Pres),the impact was entirely associated with P-fertilizerproduction. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Sensitiuity and uncertainty analysis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key sensitivity analyses (S1-S3) results are presented in Fig.7. The most important scenario assumption was related to the reference scenario for pig manure management (Fig.7;Fig. S1O illustrates the breakdown of the impacts):when including savings associated with avoided conventional manure management (i.e.,storage and application on-land without any treatment),all net results turned into savings for scenarios III and IV in all impact categories with the exception of Pres (when manure was digested,a fraction of the manure $\\mathrm { ~ P ~ } { }$ was associated with the solid fraction used for combustion, thereby decreasing the on-land $\\mathrm { ~ P ~ } { }$ recovery). For scenario I,however，avoiding conventional manure management allowed for net savings only for GW. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "While it can be debated whether the default reference scenario for animal manure should be storage and direct application on-land without any treatment (sensitivity S1) or digestion (baseline),an a-priori inclusion of the large savings associated with avoiding manure storage and direct application on-land would cloud the impacts/savings associated specifically with the studied biomass residues.Essentially,the results from sensitivity S1 simply illustrate that raw manure digestion is environmentally beneficial compared with conventional storage and direct use-on-land.As such,manure digestion should be promoted regardless of the availability of cosubstrates，and this is the situation reflected in the baseline scenario. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Sensitivity S2 (natural gas for marginal electricity instead of coal) essentially showed that the GW savings from scenario IV would be much reduced by replacing a‘cleaner' electricity fuel, rendering biogas for transport more attractive (Fig.7).Regardless of the choice for marginal electricity,the ranking between scenarios did not change.As such,the choice of marginal electricity bap b GW w wap  +hl AC w aap-r'ba-- AEN - aap  'b t Pres 5000 3025 30 2520 27 3025 25 4000 2000 1040 2266 2015 10 20 11 1510 26 2015105 25 1000 5 5 0 0 0 0 Intensification (NPK fertilizer production) Intensification (N-emissions) Expansion (ecosystem loss) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/fda6cafd8af4576dd373d256296b93ce29bc1b49703b25ac913dd6f668a216ee.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "was not critical for the overall conclusions regarding preferredscenarios. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For Sensitivity S3 ( $1 0 0 \\%$ protein recovery, Fig. 7),it is worth emphasizing that for high protein-containing bio masses (e.g.，brewer's grain and beet top)，the GHG impacts would significantly decrease (about half of the baseline) if all proteins were recovered as part of the bioethanol conversion process (also assuming that the bioethanol molasses are used for animal feeding,as in scenario II). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The Monte Carlo analysis of parameter uncertainties confirmedthat scenarioIVwas themost favorable conversion pathway in a GW perspective,under baseline assumptions (Table S36,Appendix S10). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Methodologicalmilestone:iLUCmodel ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study provides a deterministic (in other studies also referred to as causal descriptive,or biophysical,or agro-physical） approach for quantification of indirect land-use changes induced by demands for crops and applies it to 32 biorefinery pathways. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The GWimpact calculatedwith thismodel $( 4 . 1 \\mathrm { ~ t ~ C O } _ { 2 }$ -eq. $\\mathrm { { h a } ^ { - 1 } { } _ { d e m } \\ y r ^ { - 1 } ) }$ appears lower than previous estimates elaborated with CGE (compute general equilibrium) models:in Tonini et al.(2012) and Hamelin et al.(2014),the iLUC GHG impact was quantified to $1 6 { - } 1 8 \\mathrm { ~ t ~ } \\mathrm { C O } _ { 2 } \\mathrm { \\ h a } ^ { - 1 } \\mathrm { _ { d e m \\ y r } { - } 1 }$ based on GTAP results (Global Trade Analysis Project).In that case，the higher value was due to assuming a 20-year amortization time (i.e.,the initial figure was ca. $3 1 0 { - } 3 5 0 \\mathrm { ~ t ~ } \\mathrm { C O _ { 2 } \\ h a ^ { - } } _ { \\mathrm { ~ d e m } } ^ { - 1 } )$ and to the fact that intensification accounted for only $3 0 \\%$ of the total response compared with $7 5 \\%$ in this study.For maize ethanol, Searchinger et al. (2oo8) estimated an iLUC of about $1 2 \\mathrm { ~ t ~ } \\mathrm { C O } _ { 2 } \\mathrm { \\ h a } ^ { - 1 } \\mathrm { _ { \\ d e m \\ y r } ^ { - 1 } }$ (30 year amortization） using data from FAPRI (Food and Agricultural Policy Research Institute).A comprehensive review from Broth et al. (2013) found a range of ca.130- $3 5 0 \\mathrm { ~ t ~ C O } _ { 2 } \\mathrm { \\ h a } ^ { - 1 }$ (ca. $4 { - } 1 2 \\mathrm { ~ t ~ } { \\mathrm { C O } _ { 2 } } \\mathrm { ~ h a } ^ { - 1 } \\mathrm { { d e m } \\ y r ^ { - 1 } }$ assuming 30 years amortization） based on a range of different CGE studies. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Regardless the temporal issue related to the C emission (addressed in the next paragraph)，general (e.g., GTAP）or partial (e.g.，FAPRI) economic equilibrium models have a different scope (compared with deterministic models specifically developed for LCA) as they aim at modeling how global/partial market segments reach an equilibrium (a balance)in a relatively shortterm after inducing a particular shock in the market (e.g.,a specific biofuel policy/strategy),in comparison with a business-as-usual scenario (e.g., Igos et al., 2015). They thus include short-term effects on prices and related price elasticities (which is not consistent with the principle of‘full elasticity of supply'typically applied in consequential LCA，see Weidema et al., 2009).Bearing in mind this difference, these two types ofmodels (economic and deterministic) should be seen ascomplementary rather than competing as they serve different purposes as highlighted by Schmidt et al. (2015). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this study,the temporal issue related to the C emission (due to nonproportionality between annual occupation for cropping and initial transformation of land)is overcome by quantifying the C losses related to the lost opportunity of growing biomass during a year (as in this generic year,the land is demanded/occupied for crop cultivation,being released the following year for uses/crop other than that for which the land was initially demanded).The idea is to find a function describing the annualgrowthofbiomass （ $\\mathrm { t ~ C ~ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 } ,$ .However， this ideally requires having specific information on the age of the vegetation in each individual biomes affected by deforestation. To overcome this,an average annual growth (as biomass $C ,$ at natural state) was calculated for a time horizon of 100 years. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Other methods depart from the total amount of biomass stock cleared (as $\\mathrm { ~ t ~ C ~ h a } ^ { - 1 }$ ）and apply amortization periods of 20 years (e.g.，PAS 2050，2011 and WRI/ WSB,2013） to attribute the C emission to one generic year $( \\mathrm { t } \\mathrm { ~ C ~ h a } ^ { - 1 } \\mathrm { ~ y r } ^ { - 1 } )$ ；this 20-year time horizon is also recommended by IPCC (2006c) and the Renewable Energy Directive (European Union,20o9) when addressing the time span during which a land remains in a conversion category after a change in land-use. An alternative approach,avoiding amortization，isproposedby Schmidt et al.(2015)where it is assumed that the effect of 1 ha'y occupation is simply that deforestation is brought 1 year forward in time (anticipated emissions).By doing so, the net C emissions from deforestation become null,but effects on GW are considered by‘discounting' the C emissions applying a timeweighted version of the GWP method.However,it can be argued that this approach,while avoiding amortization in the inventory phase of the LCA (LUC modeling), introduces/moves it later on in the characterization phase whose results will be totally affected by the choice of 20,50,100 years ‘discounting'of the GWPs. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "As there are no agreements on which temporal approach should be applied,the analytical framework used in this model allows for accommodating it to any of the temporal approaches described above.Additionally,the model has been developed with a consequential approach; however，it can be adapted to an attributional approach by considering: (i） the total annual arable land in use (instead of the additional annual arable land in use,in Eq. S29-S31) and (ii) the total annual consumption of NPK fertilizers (instead of the additional annual consumption, in Eq. S28-S36). By doing so,the related iLUC figures are likely to decrease as they would be distributed according to all the land in use. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "All in all, the model presented in this study offers the advantage of being transparent and replicable,as all input data can be found in available and up-to-date statistics (e.g.，FAOSTAT，2014) and all equations are thoroughly detailed in the appendixes.The iLUC model developed herein and its resulting emission factors per hectare demanded can be applied in any consequential LCA study involving demand for arable land and could be further detailed using up-to-date statistics or be tailored to specific regions (rather than to the whole globe), following the equations detailed in Appendix S4. Similarly, the model can be applied for other time series,for example,using predictions on crop yields and fertilizersuse from FAPRI (2012). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Methodologicalmilestone:thebiochemicalmodel ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The biochemical model developed in this study allows linking the quality and composition of the biorefinery coproducts to the substrate input composition. This is important for quantifying the potential for substituting ingredients in the feed market,as well as for estimating energy potentials.This both regards bioethanol and biogas refinery processes. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "For anaerobic digestion，while only few data are available on separation，recovery，and composition of solid fractions from digestates，this approach allows quantifying their energy and mass flows based on rigorous balances.To provide an example,in the case of straw anaerobic digestion, not accounting for the energy recoverable by separating the solid fraction in the digestate would lead to underestimate the total energy recoverybyabout $3 0 \\%$ (energy balancesdetailedin Table S28,Appendix S7). The same applies to all substrates having significant lignin content. It is worth noticing that such state-of-the-art technologiesare becoming more and more established (an example is Maabjerg Bioenergy Drift A/S,2014). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The same approach based on mass/energy balances allows estimating the quality of the bioethanol molasses flow given a specific input composition.While this may depend upon hydrolysis and separation efficiencies, the model can easily be tailored to specific processes through changes in parameter values.The approach finally allows estimating feed and energy potential of the bioethanol molasses flows (i.e.，the liquid fraction after fermentation）which are then directly related in theLCAtothesubstitutionofingredients/ energyin the feed/energymarket. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Keylearnings from the biorefinery case study ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "One of the key messages of this study is that residual biomass,albeit residual,can involve substantial environmental impacts exceeding those of the reference system (where residual biomass is used for feeding and fossil fuels are used for energy). In this study,it happened in particular for residues having considerable feed value $( \\mathsf { S F U } \\geq 1 .$ ：Table S15,Appendix S5).With the selected industrial residues as illustrative examples,we showed how bioenergy use incurred higher impacts than the alternative use (feeding).Similar trends were found in Tufvesson et al. (2013),although the magnitude of the impacts was lower than in this study.This is due to the fact that this study also included iLUC impacts. This highlights the importance of accounting for the upstream impacts associated with the alternative management of the biomass,including potential land relatedeffects. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "As opposite to the industrial residues,straw and wild grass (from natural areas) were identified as promising substrates for bioenergy，as their use for the energy appeared preferable to their current alternatives in all the environmental categories investigated. The results for straw are in agreement with the findings of recent LCA studies (Cherubini & Ulgiati, 201O;Boldrin et al., 2013;Hamelin et al.,2014; Turconi et al.,2014). This also applies to grass (Roesch et al.,2009;Recchia et al., 2010; De Vries et al.,2012b).These results are of course conditional to the counterfactual being that these residues are left on-field.In a future where it is economically profitable to use these for feed, their environmental perfor mance when used for bioenergy would then be tightly connectedto their feed value,as for the industrial residues investigated in this study. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Focusing on the fate of bioethanol molasses,it is worth noticing that using these for feed (scenario II) was,for most of the substrates,environmentally preferable (or at least comparable) to using it as a feedstock to produce biogas for combustion in CHP (scenario I).This would not be the case if iLUC was disregarded,highlighting their importance when comparing biorefinery solutions involving feed coproducts. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Among the conversion pathways considered，the results of this study essentially confirmed the findings of previous studies highlighting conversion pathways involving electricity and heat provision (CHP) as environmentally advantageous over those involving liquid fuels，under the current energy system (among the others: Steubing et al.,2012 andHedegaard et al.,2008). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Implication and perspectives ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "For biomass residues that may otherwise be used for feed/food production,this study clearly indicates that contributions from iLUC to the total environmental impacts,although uncertain,may be substantial and potentially cancel any benefits related to fossil fuel displacement.As demonstrated in this study, this is not only true for GHG emissions but also for other impact categories affected by intensification and crop cultivation. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "On the basis of these results,future research and renewable energy policies should carefully consider the possible alternative utilizations of residual biomasses, agree on a methodology to quantify the feed value of these products and prioritize bioenergy solutions coproducing high-quality feed/food. Currently,biomass residues are often considered burden-free by researchers and/or stakeholders.This is unlikely the case. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Theauthors are thankful to Julie Clavreul,Veronica MartinezSanchez,Roberto Turconi,Alessio Boldrin,and Hiroko Yoshida for the valuable inputs to the study.The study was partly financed by the Danish Council for Strategic Research (grant 0603-00460B,IRMAR project). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Alvarez JA,Otero L,Lema JM (2010)A methodology for optimising feed composition for anaerobic co-digestion of agro-industrial wastes. Bioresource technology, 101, 1153–1158.   \nAmon B,Kryvoruchko V，Amon T,Zechmeister-Boltenstern S (2006)Methane, nitrous oxide and ammonia emissions during storage and after application of dairy cattle slurry and influence of slurry treatment. Agriculture,Ecosystems and Environment,12,15-62.   \nBacenetti J,Negri M,Fiala M,Gonzalez-Garcia S (2013)Anaerobic digestion of different fedstocks: impact on energetic and environmental balances of biogas process.Science of the Total Environment,463-464,541-551.   \nBentsen NS, Thorsen BJ,Felby C (2oo9) Energy,feed and land-use balances of refining winter wheat to ethanol. Biofuels,Bioproducts and Biorefining,3,521-533.   \nBeurskens $\\scriptstyle \\mathrm { { L , } }$ Hekkenberg M, Vethman P (2011) Renewable Energy Projections as Published in the National Renewable Energy Action Plans of the European Member States. Covering all 27 EU member States.Energy research Centre of the Netherlands (ECN) and European Environment Agency (EEA),Petten,The Netherlands and Copenhagen, Denmark.Available at: https://www.ecn.nl/- docs/library/report/2010/e10069.pdf (accessed 19 May 2015).   \nBoerjesson P,Berglund M(2o06) Environmental systems analysis of biogas systems - PartI fuel-cyce missions.BiomassandBioenergy0,469-485.   \nBoldrin A, Balzan A,Astrup T (2o13) Energy and environmental analysis of a rapeseed biorefinery conversion process.Biomass Conuersion and Biorefinery，3,127- 141.   \nBroth A,HoekmanSK,Unnasch S(2013)Areviewofvariability inindirect land use change assessment and modeling inbiofuel policy.Environmental Science&Policy, 29, 147–157.   \nBrun S,Hansen TL,Christensen THMagid JJensenLS (2O6)Applicationof pro cessed organic municipal solid waste on agricultural land -A scenario analysis. Environmetalelingadssesment,11,65.   \nCherubiniF, Ulgiati S (2010) Crop residues as raw materials for biorefinery systems a LCA case study.Applied Energy,87,47-57.   \nClavreul J,Guyonnet D, Christensen TH (2012) Quantifying uncertainty in LCAmodelling of wastemanagement systems.Waste Management,32,2482-2495.   \nClavreul J, Guyonnet D, Tonini D, Christensen TH (2013) Stochastic and epistemic uncertainty propagation in LCA. International Journal of Life Cycle Assessment,18, 1393-1493.   \nClemens J, Trimborn M,Weiland P,Amon B (2006) Mitigation of greenhouse gas emissions by anaerobic digestion ofcattle slurry.Agriculture, Ecosystems and Environment,11,171-177.   \nDalgaard R, Schmidt JH, Halberg N,Christensen P,Thrane M,Pengue WA (2008) LCA of SoybeanMeal.International Journal ofLifeCycleAssessment,13,240-254.   \nDanishEnergAgency01)Techolgydataforeergyplants-Generationofectic ityandDistrictHeating,Energy StorageandEnergyCarrier GenerationandConersion. Energistyrelsen,Copenhagen,Denmark.Available at: http://www.energinet.dk/ SiteCollectionDocuments/Danske%20dokumenter/Forskning/Technology_data_ for_energy_plants.pdf (accessed 30 March 2014).   \nDanish Government (2009)Agreement on Green Growth.Danish Government, Copenhagen,Denmark.Available at: htp://eng.mst.dk/media/mst/69152/Danish% 20Agreement%20on%20Green%20Growth_300909.pdf (accessed15February 2015).   \nDanish Ministry of Climate,Energy and Buildings (2011)Our Future Energy.Danish Ministryof Climate,Energy and Buildings.Copenhagen,Denmark.Availableat: http://www.ens.dk/sites/ens.dk/files/policy/danish-climate-energy-policy/our future_energy.pdf (accessed 15 November 2014).   \nDanish Ministry of Food,Agriculture and Fisheries (2O06) Bekendtgorelse om anvendelseaf afald til jordbrugsformal (Slambekendtgorelsen).Copenhagen, Denmark.Availableat:htps://www.retsinformation.dk/Forms/R0710.aspx? id=13056 (accessed 30 March 2014).   \nDanish Ministryof Food,Agricultureand Fisheries (2012) Bekendtgorelseom tilskud til biogasanlaegm.v.Copenhagen,Denmark.Availableat: https://www.retsinformation.dk/Forms/R0710.aspx?id=141185 (accessed 15 February 2015).   \nDe Vries JW, Groenestein CM, De Boer IJM (2012a) Environmental consequences of processing manure to produce mineral fertilizer and bio-energy.Journal of Environmental nagement,,7-13.   \nDe Vries JW,Vinken TMWJ,Hamelin L,De Boer IJM (2012b) Comparing environmental consequences of anaerobic mono- and co-digestion of pig manure to produce bio-energy-A life cycle perspective.Bioresource technology,125,239-248.   \nDe Vries JW,Aarnink AJA,Koerkamp PWGG,Boer De,Imke JM (2013) Life Cycle Assessment of Segregating Fattening Pig Urine and Feces Compared to Conventional Liquid Manure Management. Environmental Science and Technology，47, 1589-1597.   \nDunkelberg E,Finkbeiner M,Hirschl B (2O11) Influence of Indirect Land Use Change on the GHG Balance of Biofuels-A Review of Methods and Impacts.World Renewable Energy Congress2011,8-13May 2011,Linkoping,Sweden,620-627. Available at: http://www.ep.liu.se/ecp/057/vol2/007/ecp57vol2_007.pdf (accessed 19 May 2015).   \nEcoinvent Centre (2015) Ecoinvent v2 Database.Swiss Centre for Life Cycle Inventories,Zurich,Switzerland.Available at: http://www.ecoinvent.org/database/ ecoinvent-version-2/ecoinvent-version-2.html (accessed 15 February 2015).   \nEdwardsR,MulliganD,MarelliL ()IndirectLandUseChangefromInceasedBiofuelsDemand.Comparisonof Modelsand reSults forMarginal BiofuelsProduction from Different Feedstocks. Joint Research Center of the EU (JRC), Ispra, Italy.Available at:http://www.eac-quality.net/fileadmin/eac_quality/user_documents/3_pdf/ Indirect_land_use_change_from_increased_biofuels_demand_-_Comparison_ofmodels.pdf (accessed February 15,2015).   \nEkvall T,Weidema B (2Oo4) System boundaries and input data in consequential life cycle inventory analysis.International Journal ofLifeCycleAssessment,9,61-171. the Council of 23 April 2009 on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives 2001/77/EC and 2003/30/EC.Oficial journal of the European Union,52,L 140/16-L 140/16 - L 140/62.Available at:http://eur-lex.europa.eu/LexUriServ/LexUriServ.do? uri=OJ:L:2009:140:0016:0062:en:PDF (accessed 30 March 2014).   \nFalano T,Jeswani HK,Azapagic A (2014) Assessing the environmental sustainability of ethanol from integrated biorefineries.Biotechnology Journal,9,753-765.   \nFAO (2010)Global Forest Resource Assessment 2O10.Food and AgricultureOrganization of the United Nations (FAO),Rome, Italy.Available at: http://www.fao.org/docrep/ 013/i1757e/i1757e.pdf (accessed 15 November 2014).   \nFAOSTAT (2014) @FAO Statistics Division 2014.Crops,Production. Available at: http://Faostat.fao.org (accessed 15 February 2015).   \nFAPRI (2012) FAPRI-ISU 2012 World Agricultural Outlook.Food and Agricultural Policy Research Institute (FAPRI).Available at:http://www.fapri.iastate.edu/ outlook/2012/(accessed 15 November 2014).   \nFatih Demirbas M (2o09)Biorefineries for biofuel upgrading:acritical review. Applied Energy,86(Suppl.1),S151-S161.   \nFinnveden GA,Hauschild MZ,Ekvall Tet al.(2o09)Recent developments in Life Cycle Assessment. Journal of Environmental Management,91,1-21.   \nFitzPatrick M, Champagne P,Cunningham MF,Whitney RA (2010)A biorefinery processing perspective: treatment of lignocellulosic materials for the production of value-added products.Bioresource Technology,101, 8915-8922.   \nForster P,Ramaswamy V,Artaxo P et al.(2007) Changes in Atmospheric Constituentsand in Radiative Forcing.In: Climate Change 2Oo7:The Physical Science Basis.Contribution ofWorking GroupIto the Fourth Assessment Report of the Intergooernmental Panel on Climate Change (eds Solomon S,Qin D,Manning M, Chen Z, Marquis M,Averyt KB,Tignor M, MillerHL),pp.130-234.Cambridge University Press, Cambridge, UK and New York, NY.   \nForster-Carneiro T,Berni MD,Dorileo IL,Rostagno MA (2013) Biorefinery study of availability of agriculture residues and wastes for integrated biorefineries in Brazil.Resources,Conseration and Recycling,77,7888.   \nFruergaard T,Hyks J,Astrup T (2010) Life-cycle assessment of selected management options for air pollution control residues from waste incineration. Science of the Total Environment,408,4672-4680.   \nGalloway J, Dentener F,Capone D et al.(2004) Nitrogen cycles: past,present,and future. Biogeochemistry,70,53-226.   \nGibbs HK,Ruesch AS,Achard F,Clayton MK, Holmgren P,Ramankutt N,Foley JA (2010) Tropical forests were the primary sources of new agricultural land in the1980sand 199Os.Proceedingsof theNational Academy of Sciencesof the United States of America,107,16732-16737.   \nGlithero NJ, Wilson P,Ramsden SJ (2013)Straw use and availabilityfor second generation biofuelsinEngland.Biomass and Boenergy,5,1-21.   \nHamelin $\\scriptstyle { \\mathrm { ~ L , ~ } }$ Wesnaes M,Wenzel H,Petersen BM (2011） Environmental Consequences of Future Biogas Technologies Based on Separated Slurry.Environmental Science andTechnology,45,5869-877.   \nHamelin L,Joergensen U,Petersen BM, Olesen JE,Wenzel H (2012) Modelling the environmental consequences of direct land use changes from energy crops in Denmark: aconsequential lifecycleinventory.Global Change BiologyBioenergy,4, 889-907.   \nHamelin L,Naroznova I, Wenzel H (2O14) Environmental consequences of different carbon alternatives for increased manure-based biogas.Applied Energy,114,774 782.   \nHamelinck CN,van Hooijdonk G,Faaij APC (2005) Ethanol from lignocelllosic biomass: techno-economic performance in short-,middle- and long-term. Biomass and Bioenergy,28,84410.   \nHansen TL, Bhander GS,Christensen TH,BruunS,JensenLS (2o6) Life cyclemodelling of environmental impacts of application of processed organic municipal solid waste onagriculturalland (Easewaste).Waste Management and Research,24,153-166.   \nHauschild M,Goedkoop M, Guinee Jet al.(2012) Identifying best existing practice forcharacterization modeling in life cycle impact assessment. International Journal of Life Cyclessessment,5.   \nHedegaard K,Thyg KA,Wenzel H (2008)Life cycle assessment of anadvanced bioethanol technology in the perspective of constrained biomass availability. Environmental ScienceandTechnology,42,799-999.   \nIFA (2014) Production and Trade Statistics.International Fertilizer Industry Association.Availableat: htp://www.fertilizer.org/ifa/ifadata/search,2014 (accessed 30 March 2014).   \nIgos E,Rugani B,Rege S,Benetto E,Drouet L, Zachary DS (2015)Combination of equilibrium models and hybrid life cycle-input-output analysis to predict the envirnnmental imnarte nf enerov nnlicv crenarins Anmliod Fnormi 145 234_245   \nIPUC (ZUu6a) N2O emissions trom managed solls and $\\mathrm { C O } _ { 2 }$ emissions trom lime and urea application. In: 2Oo6 IPCC Guidelines for National Greenhouse Gas Inuentories (eds Eggleston HS,BuendiaL,Miwa K,Ngara T,Tabane K),pp.11.1-11.54.IGES, Japan.Available at: htp://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_11_Ch11_N2O&CO2.pdf (accessed 15 November 2014).   \nIPCC(2006b)Forest.In: IPCC Guidelines for National Greenhouse Gas Inoentories (eds EgglestonHS, BuendiaL,MiwaK,NgaraT,TabaneK),pp.4.1-4.83.IGES,Japan. Availableat: htp://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/ V4_04_Ch4_Forest_Land.pdf (accessed 15 November 2014).   \nIPCC (006c).Generic Methodologies Applicable to Multiple Land-Use Categories. In: IPCC guidelinesfor national grenhousegasinventories (edsEgglestonH,uen dia $\\scriptstyle \\mathrm { \\mathrm { ~ L , ~ } }$ Miwa K,Ngara T,Tabane K),pp.2.1-2.59.IGES,Japan.Available at: http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_02_Ch2 Generic.pdf (accessed November 15,2014)   \nISO (006a) ISO 14040: Environmental Management-Life Cycle Assessment -Principles and Framework, 2nd edn.ISO,Geneva, Switzerland.   \nISO (2006b)ISO14044:Environmental Management-LifeCycle Assessment-Requirements andGuidelines,1st edn.ISO,Geneva,Switzerland.   \nJolliet O,Margni M,Charles R,Humbert S,Payet J,Rebitzer G,RosenbaumR (2003) IMPACT $2 0 0 2 \\substack { + \\colon }$ a new life cycle impact assessment methodology. International JournalofLife Cycle Assessment,8,32430.   \nJungbluth N,Chudacoff M, Dauriat A etal. (2007)LifeCycle Inventoriesof Bioenergy. Datav 2.0.Ecoinvent report No.17.SwissCentre for Life Cycle Inventories, ESU-services，Uster，Switzerland. Availableat:http://www.esu-services.ch/fileadmin/download/jungbluth-20o7-TP1_bioenergy-summary.pdf (accessed 30 March 2014).   \nKloverpris JH,Baltzer K,NielsenPH (2010)Lifecycle inventorymodelingof land useinduced bycrop consumption.International Journal ofLife Cycle Assessment,15, 90-103.   \nKoller M,SandholzerD,Salerno A,Braunegg G,Narodoslawsky M(2013) Biopolymer from industrial residues: life cycle assessment of poly(hydroxyalkanoates) from whey.Resources,ConseroationandRecycling,73,64-71.   \nLarsen J,Ostergaard Petersen M, Thirup L,Wen Li H, Krogh Iversen F(2008) The IBUS process -lignocellulosic bioethanolclose toacommercial reality.Chemical Engineering andTechnology,31,765-72.   \nLarsen J, Haven MO,Thirup L (2012) Inbicon makes lignocelllosic ethanol a commercial reality. Biomass and Bioenergy,46,36-45.   \nLeceta I, Etxabide A, Cabezudo S,de la Caba K,Guerrero P (2014) Bio-based films prepared with by-products and wastes: environmental assessment. Journal of Cleaner Production,64,18-227.   \nLiu S,Howard JR, Bujanovic B,Amidon TE (2011) Commercializing biorefinery technology:a case for the multi-product pathway to a viable biorefinery.Forests,2, 929-947.   \nMaabjerg Bioenergy Drift A/S (2014) Maabjerg Bioenergy.Maabjerg Bioenergy Drift A/S,Maabjerg,Denmark.Available at: htp://www.maabjerg-bioenergydk/media/1344/MBE_plancher.pdf (accessed 30 March 2014).   \nMatsunaka T, Sawamoto T,Ishimura H,Takakura K,Takekawa A (2O06) Efficient use of digested catle slurr from biogas plant with respect to nitrogen recycling in grassland.International Congress Series,293,242-252.   \nMohr A,Raman S(2o13)Lessons from first generation biofuels and implications for the sustainability appraisal of second generation biofuels.Energy Policy,63,114-122.   \nMshandete A,Kivaisi A,Rubindamayugi M,Matiasson B(2004)Anaerobic batch co-digestion of sisal pulp and fish wastes. Bioresource Technology,95,19-24.   \nNges IA, Escobar F,Fu X, Bjoernsson L (2012) Benefits of supplementing an industrial waste anaerobic digester with energy crops for increased biogas production. Waste Mangement,,59.   \nNielsen M, Nielsen O,Thomsen M (2010) Emissions from decentralised CHP plants 2007.Environmental project no. 07/1882. Project report 5 -Emission factors and emission inventory for decentralised CHP production. National Environmental Research Institute,Aarhus University,Aarhus,Denmark.Available at: htp:// www.dmu.dk/Pub/FR786.pdf (accessed 30 March 2014).   \nPetersen BM,Knudsen MT,Hermansen JE,Halberg N (2013)An approach to includesoil carbon changes in life cycle assessments.Journal of Cleaner Production, 52, 217–224.   \nRecchia L,Cini E,CorsiS (201o) Multicriteriaanalysis to evaluate the energetic reuse of riparian vegetation.Applied Energy,87,10-319.   \nRoesch C,Skarka J,Raab K, Stelzer V(2009)Energy production from grassand - Assessing the sustainability of different process chains under German conditions. Biomass and Bioenergy,33,689-700.   \nSchmidt JH,Reinhard J, Weidema B (2012)A model for indirect land-use changes. In·Prnrepdino nf the 8th Internatinnal Conferenre on I.ife Curle Assessment in the Agri-Food Sector(LCA Food 2012) (eds Corson MS,van der Werf HMG),pp.241- 247.1-4 October 2012, Saint Malo,France. INRA,Rennes,France.Available at: https://colloque4.inra.fr/lcafood2012/Proceedings (accessed 15 February 2014).   \nSchmidt JH,Weidema BP, Brandao M (2015)A framework for modelling indirect land use changes in Life Cycle Assessment. Journal of Cleaner Production,99,230- 238.   \nSearchinger TD (201o) Biofuels and the need for additional carbon. Environmental Research Letters,5,024007.   \nSearchinger T,Heimlich R,Houghton RA et al.(20o8) Use of U.S.croplands for biofuels increases greenhouse gases through emissions from land-use change. Science,319,1238-1240.   \nSeppala J,Posch M,Johansson M,Hettelingh J(2006) Country-dependent characterisation factors for acidification and terrestrial eutrophication based on accumulated exceedance as an impact category indicator (14 pp). International Journal of Life Cycle Assessment,11, 403-416.   \nSpatari S,Bagley DM,MacLean HL (2010) Life cycle evaluation of emerging lignocellulosic ethanol conversion technologies.Bioresource Technology，101,654 667.   \nSteubing B, Zah R, Steubing B,Ludwig C,Ludwig C (2012) Heat, electricity,or transportation? the optimal use of residual and waste biomass in Europe from an environmental perspective. Enoironmental Scienceand Technology,46,64-171.   \nStruijs J, Beusen A, van Jaarsveld H,Huijbregts M (20l3)Eutrophication.In: Recipe 2008.A Life Cycle Impact Assessment Method which Comprises Harmonised Category Indicators at the Midpoint and the Endpoint Level (eds Goedkoop M,Heijungs R, Huijbregts M,De Schryver A,Struijs J, van Zelm R),pp.58-62.Ministerie van VROM,Rijnstraat 8,Den Haag. Available at: http://www.lcia-recipe.net (accessed 15 February 2015).   \nStyles D,Gibbons J, Williams AP,Stichnothe H, Chadwick DR,Healey JR (2014) Cattle feed or bioenergy? Consequential life cycle assessment of biogas feedstock options on dairy farms. Global Change Biology Bioenergy,doi: 10.111/gcbb.12189.   \nStyles D,Gibbons J,Wiliams AP et al. (2015) Consequential life cycle assessment of biogas, biofuel and biomass energy options within an arable crop rotation. Global Change Biology Bioenergy，doi:10.1111/gcbb.12246.   \nSymons GE, Buswell AM (1933) The methane fermentation of carbohydrates. Journal of the American Chemistry Society,55,2028-2036.   \nTonini D,Astrup T (2012) Life-cycle assessment of a waste refinery process for enzymatic treatment of municipal solid waste.Waste Management,32,165-176.   \nTonini D, Hamelin L, Wenzel H,Astrup T (2012) Bioenergy production from perennial energy crops: a consequential LCA of 12 bioenergy scenarios including land use changes.Environmental Science and Technology,46, 13521-13530.   \nTonini D,Martinez-Sanchez V,Astrup TF (2013) Material resources,energy,and nutrient recovery from waste: are waste refineries the solution for the future? $E n$ vironmental Science and Technology,47,208962-208969.   \nTuck CO,Perez E,Horvath IT,Sheldon RA,Poliakoff M(2012) Valorization of biomass: deriving more value from Waste. Science,337,695-699.   \nTufvesson LM, Lantz M, Borjesson P (2013) Environmental performance of biogas produced from industrial residues including competition with animal feed - life-cycle calculations according to diferent methodologies and standards. Journal ofCleanerProduction,53,214-223.   \nTurconi R,Tonini D,Nielsen CFB, Simonsen CG,Astrup T (2014) Environmental impacts of future low-carbon electricity systems: detailed life cycle assessment of a Danish case study.Applied Energy,132,66-73.   \nTynerW,TaheripourF,Zhuang $\\mathrm { Q } ,$ BirurD,BaldosU (201o) Land Use Changes and Consequent $C O _ { 2 }$ EmissionsduetoUS Corn EthanolProduction:A ComprehensiveAnalysis.Department of Agricultural Economics,Purdue University, Indiana,USA. Availableat:https://www.gtap.agecon.purdue.edu/resources/download/ 5200.pdf (accessed 15 February 2015).   \nVazquez-Rowe I,Marvuglia A,Rege S, Benetto E (2014) Applying consequential LCA to support energy policy: land use change effects of bioenergy production. Scienceofthe Total Enironment,72,78–89.   \nWarner E, Zhang Y,Inman D,Heath G (2013) Challenges in the estimation of greenhouse gas emissions from biofuel-induced global land-use change. Biofuels,Bio productsandBiorefining,8,114-125.   \nWeidema B (2003) Market information in life cycle assessment. Environmental Project No.863.Danish Ministry of the Environment,Environmental Protection Agency，Copenhagen，Denmark.Available at: www2.mst.dk/udgiv/publications/2003/87-7972-991-6/pdf/87-7972-992-4.pdf (accessed 30 March 2014).   \nWeidema B,Ekvall T,Heijungs R (20o9) Guidelines for Application of Deepened and Broadened LCA.Available at: http://www.leidenuniv.nl/cml/ssp/publications/calcas_report_d18.pdf (accessed 15 February 2015).   \nZhang Y-P (2008) Reviving the carbohydrate economy via multi-product lignocellulosebiorefineries.Journal of IndustrialMicrobiologyand Biotechnology,35,367-375. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the online version of this article: ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Appendix S1. Agro-industrial biomass residues in Denmark:potential.   \nAppendix S2. Scenarios modeling and system boundary. Appendix S3.Identification of marginal technologies/products.   \nAppendix S4.Model for indirect land-use changes (iLUC). Appendix S5. Biomass residues composition.   \nAppendix S6.Biochemical model.   \nAppendix S7.Mass,energy,and nutrients balances.   \nAppendix S8.Substitution of mineral fertilizer.   \nAppendix S9.Decay processes on-field.   \nAppendix S10.Additional LCA and sensitivity/uncertainty results. ",
+        "page_idx": 16
+    }
+]

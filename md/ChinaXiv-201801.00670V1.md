@@ -1,0 +1,113 @@
+临床研究
+
+# 类风湿关节炎患者血清及滑液中DNaseI活性检测及与炎症的 相关性
+
+许夏雨'，杨文芳²,张思功³,赵 琴1,梁丽君',王鑫¹，沈海丽  
+1兰州大学第二临床医学院,甘肃 兰州 730030;河北联合大学附属开深总医院风湿免疫科,河北 唐山  
+063000；兰州大学第二医院风湿免疫科，甘肃 兰州 730030
+
+摘要：目的 探讨脱氧核糖核酸酶I(DNaseI)在类风湿关节炎中潜在的致病作用。方法 辐射状酶扩散法测定83例类风湿关节炎(RA)患者和60名健康对照者血清DNaseI活性以及27例RA患者和38例其他炎症性关节炎患者滑液(SF)DNaseI活性，PicoGreen试剂盒测定游离DNA(cfDNA)水平,并分析两者与RA患者临床指标的相关性。结果RA组血清DNaseI活性显著低于健康对照组[ $( 0 . 3 0 6 5 { \scriptstyle \pm 0 . 1 4 3 6 } )$ 0 $\mathrm { U } / \mathrm { m L }$ vs $0 . 4 2 8 9 { \scriptstyle \pm 0 . 1 9 7 6 }$ ） $\mathrm { U } / \mathrm { m L }$ ， ${ P { < } 0 . 0 0 1 } _ { - } ^ { - }$ ；血清DNaseI活性与ESR( $_ { r = - 0 . 2 8 6 2 }$ ， $P =$ 1 $0 . 0 1 2 2 ) \mathrm { { \_ C R P } } ( r { \scriptstyle { \mathrm { c o . 2 7 9 0 , } P = 0 . 0 1 8 4 } } )$ 和中性粒细胞计数（ $_ { r = - 0 . 2 8 7 }$ ${ \cal P } { = } 0 . 0 1 1$ )呈负相关。SFDNaseI活性在RA、强直性脊柱炎组和痛风性关节炎组中几乎都是阴性的。RA组患者SFcfDNA水平明显高于骨性关节炎组患者［ $( 1 0 0 . 8 1 \pm 1 4 2 . 9 8 \$ ） $\mu \mathrm { g / m L }$ Us（ $1 8 . 9 8 { \scriptstyle \pm 3 1 . 4 0 } \$ ） $\mu \mathrm { g / m L }$ $\scriptstyle P = 0 . 0 0 2 { \mathrm { . } }$ 1；与强直性脊柱炎组 $( 4 5 . 8 5 { \pm } 4 7 . 6 7 \ \mu \mathrm { g / m L }$ ， $\scriptstyle P = 0 . 4 2 8$ )和痛风性关节炎组( $1 6 2 . 9 5 { \scriptstyle \pm 9 7 . 4 9 } ~ { \mu \mathrm { g / m L } }$ 0$\scriptstyle P = 0 . 1 3 2 ,$ 无显著性差异;炎症性关节炎患者SFcfDNA水平与ESR( $_ { \cdot = 0 . 4 1 0 6 }$ $P { = } 0 . 0 1 1 6$ 和CRP( $r { = } 0 . 5 7 4 7$ $P { = } 0 . 0 0 0 2$ 呈显著正相关。结论 DNaseI活性受损可能是中性粒细胞胞外网状陷阱形成增强的原因并在RA发病机制中起作用。
+
+关键词：关节炎，类风湿；脱氧核糖核酸酶I；DNA
+
+# Correlation of DNase I in serum and synovial fluid with inflammatory activity in patients with rheumatoid arthritis
+
+XU Xiayu’,YANG Wenfang²,ZHANG Sigong,ZHAO Qin',LINAG Lijunt,WANG Xin',SHENHaili³ Secondolofcalcieuesityu;ermtflol GeneralHospitalaedtbeiidsitysoi;parmntfetoodo Hospital of Lanzhou University,Lanzhou 73oo30,China
+
+Abstract: Objective To investigate the potential roleof deoxyribonucleaseI(DNaseI) inthe pathogenesisof rheumatoid arthritis (RA).Methods DNase I activitywas measured by radial enzyme-difusion method inserum samples from 83 RA patientsand60 healthy volunteersand inthe synovialfluid (SF)from 27RA patientsand38 patients withother inflammatory arthritis.SFcfDNA level wasmeasured with PicoGree Kit,and thecorrelation among DNaseIactivitycfDNA level and clinical parameters ofRA patients wasanalyzed.Results Serum DNaseIactivity wassignificantlylower inRA patients than in the healthy control subjects $\left( 0 . 3 0 6 5 { \scriptstyle \pm 0 . 1 4 3 6 } \right.$ Us $0 . 4 2 8 9 { \scriptstyle \pm 0 . 1 9 7 6 \ \mathrm { U / m L } } ,$ $P { < } 0 . 0 0 1 \$ ), and was negatively correlated with ESR $( r { = } { - } 0 . 2 8 6 2 ,$ $P { = } 0 . 0 1 2 2 \rangle$ ,CRP $r { = } { - } 0 . 2 7 9 0 .$ $P { = } 0 . 0 1 8 4$ ）and neutrophil cell counts $_ { \it 1 = - 0 . 2 8 7 }$ $\scriptstyle P = 0 . 0 1 1$ ). SF DNase I activity was almost negative in patients withRA,ankylosing spondylitis (AS)and goutyarthritis (GA).SFcfDNAlevelinRA patients was significantlyhigher than that in patients with osteoarthritis ( $1 0 0 . 8 1 { \scriptstyle \pm 1 4 2 . 9 8 }$ US $1 8 . 9 8 { \pm } 3 1 . 4 0 ~ \mu \mathrm { g / m L } ,$ $P { = } 0 . 0 0 2 \rangle$ , but similar to that in patients with AS $( 4 5 . 8 5 { \pm } 4 7 . 6 7 \ \mu \mathrm { g / m L } ,$ $\scriptstyle P = 0 . 4 2 8 )$ andGA $( 1 6 2 . 9 5 { \scriptstyle \pm 9 7 . 4 9 } ~ \mu \mathrm { g / m L } ,$ $P { = } 0 . 1 3 2 \rangle$ ). In patients with inflammatory arthritis, SF cfDNA level was positively correlated with ESR ( $\scriptstyle \cdot = 0 . 4 1 0 6 ,$ $P { = } 0 . 0 1 1 6$ ）andCRP $\scriptstyle ( r = 0 . 5 7 4 7 ,$ $P { = } 0 . 0 0 0 2$ ). Conclusion Impairment of DNase I activity may be responsible for the enhanced NETs generation and plays a role in the pathogenesis of RA.
+
+Keywords:arthritis, rheumatoid; deoxyribonuclease I; DNA
+
+类风湿关节炎(RA)是一种慢性自身免疫性疾病，以关节滑膜炎症为主要病理特征。引起RA发生的早
+
+收稿日期：2015-12-07  
+基金项目：国家自然科学基金(81560267);甘肃省科技支撑计划-社会发展类项目(144FKCA060)；甘肃省卫生行业科研计划管理项目(GWGL2014-47)；亚太风湿病学会研究基金2015  
+Supported by National Natural Science Foundation of China (81560267).作者简介：许夏雨,硕士研究生,E-mail:398427017@qq.com  
+通信作者：沈海丽,博士，主任医师,E-mail: shl523194@sohu.com
+
+期事件仍未清楚，但抗瓜氨酸化蛋白抗体(ACPAs)的形成被认为是其关键的致病事件，因为RA相关的致病性自身抗体先于临床症状出现[。近来有研究指出中性粒细胞胞外网状陷阱(NETs)是瓜氨酸化自身抗原的来源且其本身可能是自身抗体的靶点[2-3]。RA患者中性粒细胞能通过一种新的死亡方式即NETosis自发形成NETs[4，使瓜氨酸化的波形蛋白和a-烯醇化酶外化，此外还能诱导成纤维滑膜细胞表达和分泌促炎症细胞因子如IL-8等,反过来又可进一步增强NETosis[5],扩大瓜氨酸化自身抗原暴露和促进易感个体自身抗体形成。体外形成的NETs能被脱氧核糖核酸酶I（DNaseI）和健康者血浆降解，而自身血浆则不能或不完全能降解[67],说明体内NETs降解受损可能与DNaseI异常有关。DNaseI活性受损与狼疮性肾炎相关也支持了该观点[8-9]。NETosis在RA中是增强的,如果DNaseI活性存在异常而不能有效降解NETs，势必会增加NETs的暴露，加重ACPAs的异常形成，且进一步诱发炎症反应而使关节炎症恶化。本研究拟通过测定血清和关节液DNaseI活性，分析其活性是否存在异常及与NETs在RA致病是否相关。并对关节液中NETs标记物(cfDNA)进行测定，进一步分析DNaseI与NETs的关系。DNaseI活性异常可能是RA发病中的一个中心环节，因此对其机制的阐明能为RA治疗提供新的理论基础。
+
+# 1资料和方法
+
+# 1.1研究对象
+
+纳入我院住院RA患者83例，其中女性63例，男性20例，年龄27\~86岁，平均 $5 9 { \pm } 1 3 \$ 岁，所有患者均符合1987年ACR修订的RA分类诊断标准。同期纳入年龄和性别匹配健康对照者60名。血清标本来自以上患者和健康者。关节液来自2014年7月\~2015年11月我院住院和门诊患者，其中RA患者27例，女性23例，男性4例，年龄22\~68岁，平均 $5 3 { \pm } 1 1$ 岁；OA患者23例，女性16例，男性7例，年龄42\~80岁，平均 $5 7 { \pm } 1 1$ 岁；AS患者9例，女性4例，男性5例，年龄17\~46岁，平均 $2 7 { \pm } 1 0 \$ 岁；GA患者6例，全为男性，年龄33\~64岁，平均 $4 4 { \pm } 1 1$ 岁。
+
+# 1.2标本采集和资料收集
+
+血清标本采集：清晨空腹抽取RA和健康者全血$5 \mathrm { \ m L } , 3 0 0 0 \mathrm { \ r / \ m i n }$ 离心 $1 0 \mathrm { m i n }$ ,分离血清并取 $0 . 5 ~ \mathrm { m L }$ 分装后 $- 3 0 \mathrm { { ^ { \circ } C } }$ 冻存，用于检测血清DNaseI活性。关节液标本采集：膝关节穿刺术抽取RA和其他炎症性关节炎患者关节液， $3 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 ~ \mathrm { m i n }$ 后取上清液放入Eppendorf管 $- 8 0 \mathrm { { ^ { \circ } C } }$ 保存待测。收集RA患者标本采集时的临床资料，包括病程、ESR、CRP、DAS28评分、中性粒细胞计数、RF和抗CCP抗体。
+
+# 1.3DNaseI活性的测定
+
+采用辐射状酶扩散法测DNaseI活性。该法基于对底物dsDNA的降解，配制含有dsDNA(Sigma)和核酸染料SybrGreen(Sigma)的琼脂糖(Biowest)凝胶,用血清/关节液扩散降解底物dsDNA后用凝胶成像系统测量扩散面积。具体步骤为：牛甲状腺dsDNA用蒸馏水溶解为 $5 \mathrm { m g / m L }$ 的溶液，取 $1 . 8 6 ~ \mathrm { m L }$ 的dsDNA溶液加入 $1 8 . 1 4 ~ \mathrm { m L }$ 的DNaseI缓冲液(10mmol/LTris-HClpH7.5,10mmol/L $\mathbf { M g C l } _ { 2 } , 2$ mmol/L $\mathrm { C a C l } _ { 2 }$ 和 $5 0 \mathrm { m m o l / L }$ $\mathrm { { N a C l } }$ )中，并加入电泳级SybrGreen $( 1 / 1 0 0 0 ) 1 0 ~ \mu \mathrm { L }$ 混匀后加热至 $4 0 { \sim } 5 0 ~ \mathrm { ^ { \circ } C }$ 。同时用DNaseI缓冲液配制$2 0 ~ \mathrm { m L }$ 的 $2 \%$ 的琼脂糖凝胶，待温度降至 $4 0 { \sim } 5 0 ~ \mathrm { ^ { \circ } C }$ 时与配制好的dsDNA混合液混匀，将胶倒入96孔细胞培养板的板盖中，待胶凝固后在每孔中央用 $1 0 ~ \mu \mathrm { L }$ 吸头加入$2 ~ \mu \mathrm { L }$ 血清/关节液，用已知浓度的DNaseI配制标准品，每孔加入从 $1 . 1 ~ \mathrm { U / m L }$ 倍比稀释到 $0 . 0 3 4 ~ \mathrm { U / m L }$ 的DNaseI标准品各 $2 ~ \mu \mathrm { L }$ ，胶用自封袋封口后避光 $3 7 \ \mathrm { ^ { \circ } C }$ 温箱孵育 $1 2 \mathrm { ~ h ~ }$ 。采用PCR凝胶成像系统拍照， $\mathrm { I P P 6 . 0 }$ 软件定量分析。
+
+# 1.4关节液cfDNA的测定
+
+采用PicoGreen试剂盒测定关节液cfDNA含量。该法基于荧光核酸染料PicoGreen可特异性结合dsDNA，结合后经 $4 8 8 ~ \mathrm { n m }$ 荧光激发后可发出 $5 2 0 \mathrm { n m }$ 荧光，荧光酶标仪可准确读数。用已知浓度的LambdaDNA作为标准品，根据标准品可推算出样品浓度。简要步骤为：经离心的关节液稀释40倍后取 $1 0 0 \mu \mathrm { L }$ 加入黑色96孔微孔板,加入经200倍稀释的PicoGreen $1 0 0 ~ \mu \mathrm { L }$ 室温孵育 $1 0 \mathrm { m i n }$ 后使用荧光酶标仪测定荧光值。
+
+# 1.5统计学处理
+
+采用GraphpadPrism5软件制图,SPSS19.0软件进行分析，符合正态分布的计量资料用均数 $\cdot \pm$ 标准差表示，组间比较应用独立样本 $\mathbf { \Phi } _ { t }$ 检验；不满足正态分布的计量资料用 $\mathbf { M } \left( \mathbf { P } _ { 2 5 } , \mathbf { P } _ { 7 5 } \right)$ 表示，组间比较应用MannWhitney $U$ 检验;两变量之间的相关性应用Pearson和Spearman相关分析。 $P { < } 0 . 0 5$ 认为差异有统计学意义。
+
+# 2结果
+
+2.1RA血清DNaseI活性降低与疾病活动度的关系
+
+RA血清DNaseI活性显著低于健康对照组$( 0 . 3 0 6 5 \pm 0 . 1 4 3 6 \mathrm { U } / \mathrm { m L } v s 0 . 4 2 8 9 \pm 0 . 1 9 7 6 \mathrm { U } / \mathrm { m L } , P { < } 0 . 0 0 1 )$ ，差异有统计学意义（图1A)；进一步分析RA血清DNaseI活性与临床指标的相关性发现其与ESR$( r { = } { - } 0 . 2 8 6 2 , P { = } 0 . 0 1 2 2$ ，图1C） $\scriptstyle \cdot \mathbf { C R P } ( r = - 0 . 2 7 9 0 , P = 0 . 0 1 8 4$ 图1D)和中性粒细胞计数 $\left( r { = } { - } 0 . 2 8 7 , P { = } 0 . 0 1 1 \right)$ 呈负相关，而与DAS28( $r { = } { - } 0 . 1 3 2 4$ $P { = } 0 . 2 5 4 4$ ，图1B）RF、抗CCP抗体无关(表1)。
+
+# 2.2各组炎症性关节炎患者关节液中DNaseI几乎无活性
+
+关节液中DNaseI活性的测定同样采用辐射状酶扩散法，该法基于测定DNaseI降解琼脂糖凝胶的面积来推算其活性。由于根据标准品计算出的DNaseI活性在炎症性关节炎中只有2例阳性，其中1例为RA，1例为OA，故通过比较DNaseI降解琼脂糖的面积大小来比较各组间是否有差异。如图2A所示，DNaseI活性在各组间无统计学差异。可见DNaseI在这些炎症性关节炎关节液中几乎是无活性的。
+
+![](images/e37aae3cc296cf79601532abfcd76086ee77a01c5070750b4048fb9986ce5fb9.jpg)  
+图1血清DNaseI活性分布及其与疾病活动的关系 Fig.1 Distribution of serum DNase I activity and its relationship with disease activity.
+
+表1RA血清DNaseI活性与临床指标的相关性 Tab.1 Correlation between serum DNase Iactivity of RA and clinical parameters   
+
+<html><body><table><tr><td></td><td>Duration</td><td>ESR</td><td>CRP</td><td>DAS28</td><td>Neutrophil cell counts</td><td>RF</td><td>Anti-CCP antibody</td></tr><tr><td>r</td><td>-0.039</td><td>-0.2862</td><td>-0.2790</td><td>-0.1324</td><td>-0.287</td><td>-0.140</td><td>0.026</td></tr><tr><td>P</td><td>0.735</td><td>0.0122</td><td>0.0184</td><td>0.2544</td><td>0.011</td><td>0.295</td><td>0.883</td></tr><tr><td>n</td><td>78</td><td>76</td><td>71</td><td>76</td><td>78</td><td>58</td><td>35</td></tr></table></body></html>
+
+# 2.3关节液cfDNA与炎症指标的关系
+
+RA组关节液cfDNA水平显著高于OA组( $\mathrm { 1 0 0 . 8 1 \pm }$ $1 4 2 . 9 8 ~ \mu \mathrm { g / m L }$ vs $1 8 . 9 8 { \pm } 3 1 . 4 0 ~ \mu \mathrm { g / m L }$ $\scriptstyle P = 0 . 0 0 2$ ，图2B),其水平与病程、ESR、CRP、DAS28、中性粒细胞计数、RF-IgG、RF-IgA、RF-IgM及抗CCP抗体无关(表2)。RA组关节液cfDNA水平较AS组 $( 4 5 . 8 5 { \pm } 4 7 . 6 7 \ \mu \mathrm { g / m L } , P =$ 0.428)高，较GA组（ $1 6 2 . 9 5 { \scriptstyle \pm 9 7 . 4 9 ~ { \mu \mathrm { g / m L } } }$ ， $\scriptstyle P = 0 . 1 3 2$ ）低，但差异均无统计学意义。与OA组和AS组相比，GA组cfDNA水平显著升高( $1 6 2 . 9 5 { \scriptstyle \pm 9 7 . 4 9 ~ { \mu \mathrm { g / m L } } }$ vs$1 8 . 9 8 { \pm } 3 1 . 4 0 ~ \mu \mathrm { g / m L }$ $P { < } 0 . 0 0 1 \$ ； $( 1 6 2 . 9 5 { \scriptstyle \pm 9 7 . 4 9 } ~ { \mu \mathrm { g / m L } }$ vs $4 5 . 8 5 \pm 4 7 . 6 7 ~ \mu \mathrm { g / m L }$ $\scriptstyle P = 0 . 0 0 8 ,$ ；而OA和AS组间cfDNA水平无差异。对所有炎症性关节炎患者关节液cfDNA水平与炎症指标间的相关性分析发现其水平与ESR $_ { r = 0 . 4 1 0 6 , P = 0 . 0 1 1 6 ) }$ 和 $\mathrm { C R P } ( r \mathrm { = } 0 . 5 7 4 7 , P \mathrm { = } 0 . 0 0 0 2 )$ 0呈显著正相关(图2C，D)。
+
+# 3讨论
+
+我们的研究发现血清DNaseI活性在RA中是受损的，而关节液DNaseI活性比血清低。血清DNaseI活性与炎症指标ESR和CRP及中性粒细胞计数呈负相关。可见DNaseI活性不足是NETs调控异常的一个重要因素，而关节液中异常增高的NETs标记物(cfDNA)提示关节炎症中大量形成的NETs不能被DNaseI降解可能是重要的自身抗原来源。
+
+虽然中性粒细胞在凋亡和其他炎症细胞在NETosis相关的过程中可能释放它们的染色质，但关节液cfDNA可能更多来源于NETosis。因为在早期RA患者关节液中中性粒细胞凋亡水平是显著减少的[10],且只有极少量嗜酸性细胞和肥大细胞存在于RA患者关节液中[1]。我们的研究发现RA关节液cfDNA水平是升高的，而关节液DNaseI活性是显著降低的，说明RA关节中NETs形成是增强的，DNaseI活性降低使NETs过度形成和持续存在。推测NETs在RA中的致病作用是由于DNaseI活性降低或缺陷不能及时降解NETosis过程中形成的染色体DNA网状物，使瓜氨酸化自身抗原暴露，机体对自身抗原丧失免疫耐受导致特异性自身抗体形成和炎症反应，该炎症坏境反过来又高度有利于NETosis的产生，造成一个恶性循环。
+
+![](images/3a87782dab89ee148ce8bc5b52f664c47e2011e915ce14b26655c90ee2e93d30.jpg)  
+图2关节液DNaseI和cfDNA分布以及cfDNA和炎症指标间的相关性 Fig.2 Distribution of synovial fluid DNase I and cfDNA and the correlation between cfDNA and inflammatorymarkers.
+
+表2RA关节液cfDNA水平与临床指标的相关性 Tab.2 Correlation between synovial fluid cfDNA level and clinical parameters in RA patients   
+
+<html><body><table><tr><td></td><td>Duration</td><td>ESR</td><td>CRP</td><td>DAS28</td><td>Neutrophil cell counts</td><td>RF-IgG</td><td>RF-IgA</td><td>RF-IgM</td><td>Anti-CCP antibody</td></tr><tr><td></td><td>0.164</td><td>0.151</td><td>0.336</td><td>-0.231</td><td>0.406</td><td>0.327</td><td>0.296</td><td>0.465</td><td>0.032</td></tr><tr><td>P</td><td>0.477</td><td>0.513</td><td>0.136</td><td>0.389</td><td>0.067</td><td>0.275</td><td>0.519</td><td>0.052</td><td>0.898</td></tr><tr><td>n</td><td>21</td><td>22</td><td>22</td><td>16</td><td>22</td><td>13</td><td>7</td><td>18</td><td>19</td></tr></table></body></html>
+
+本研究显示RA关节液cfDNA水平与疾病活动度无相关性，这可能与疾病处于不同时期、药物干预等因素有关。但在炎症性关节炎关节液中均存在不同程度cfDNA水平且与ESR和CRP呈显著正相关。说明NETs在这些疾病关节液中都有形成，而瓜氨酸化蛋白不仅存在于RA患者关节液中，在其他炎症性关节炎关节液中也存在[],因此蛋白瓜氨酸化可能是一种炎症相关的表现。此外在痛风性关节炎患者中关节液cfDNA水平是显著升高的，其是所有炎症性关节炎中发病急、炎症程度最强的，在急性期单钠尿酸盐结晶沉积在关节液和滑膜，可使大量中性粒细胞聚集并活化导致NETs聚合物形成[13-14]
+
+DNaseI对中性粒细胞NETs形成具有负向调节作用，其是浓度依赖型的[15，此外NETs还能通过巨噬细胞的吞噬作用被清除，该调节机制是表型和时间依赖型的。M1型巨噬细胞在与NETosis相互作用下能增加其自身cfDNA的释放,但最后能被其完全降解[16]。巨噬细胞功能紊乱是否参与RA的发病机制还未知，但RA关节液cfDNA水平与巨噬细胞数量无关而与中性粒细胞计数显著相关[7]，说明关节液NETs增强可能主要以DNaseI活性受损为主。表达DNaseI的病原微生物能抑制后期中性粒细胞活性氧簇(reactive oxygenspecies,ROS)的产生,进而逃离NETs捕杀[18]。RA中性粒细胞NETosis依赖ROS的产生，DNaseI在RA中的作用在某方面上可能是通过抑制ROS的产生减少NETs形成及促进已形成NETs降解。
+
+总之，蛋白瓜氨酸化参与RA的发病，NETs是瓜氨酸化蛋白的来源之一，而DNaseI活性不足可能导致NETs来源的瓜氨酸化蛋白暴露，引起异常免疫应答和炎症的发生。也许外源性给予DNaseI或抑制诱导NETosis的信号转导级联中的成分能为RA的治疗提供新的思路和靶点。
+
+# 参考文献：
+
+[1]Holers VM.Autoimmunity to citrullinated proteins and the initiation of rheumatoid arthritis[J].Curr Opin Immunol, 2013,25(6): 728-35.   
+[2]Khandpur R,Carmona-Rivera C,Vivekanandan-Giri A,et al.NETs areasourceofcitrullinated autoantigensandstimulate inflammatory responses in rheumatoid arthritis[J].Sci Transl Med, 2013,5(178): 12.   
+[3]Pratesi F,Dioni I, Tommasi C,et al.Antibodies from patients with rheumatoid arthritis target citrullinated histone 4 contained in neutrophils extracellular traps [J].Ann Rheum Dis,2014,73(7): 1414-22.   
+[4]Sur Chowdhury C,Giaglis S,Walker UA,et al. Enhanced neutrophil extracellular trap Generation in rheumatoid arthritis:analysis of underlying signal transduction pathways and potential diagnostic utility[J].Arthritis Res Ther,2014,16(3): R122.   
+[5]Gupta AK,Hasler P,Holzgreve W,et al. Induction of neutrophil extracellular DNA lattices by placental microparticles and IL-8 and their presence in preeclampsia[J].Hum Immunol,2Oo5,66(11): 1146-54.   
+[6]Jimenez-Alcazar M,Napirei M,Panda R,et al. Impaired DNaselmediated degradation of neutrophil extracellular traps is associated with acute thrombotic microangiopathies[J].J Thromb Haemost, 2015,13(5): 732-42.   
+[7]Li J, Zhang Y, Zhou X,et al. Establishment and evaluation of an in vitro method for neutrophil extracellular trap Generation and degradation[J].JCell Molecular Immunol,2014,30(9): 986-8.   
+[8]Hakkim A,Fuernrohr BG,Amann K,et al. Impairment of neutrophil extracellular trap degradation is associated with lupus nephritis[J]. Proc Natl Acad Sci USA,2010,107(21): 9813-8.   
+[9]Martinez-Valle F,Balada E,Ordi-Ros J,et al.DNasel activity in systemiclupuserythematosuspatientswithandwithout nephropathy[J].Rheumatol Int, 2010,30(12): 1601-4.   
+[10] Raza K,Scheel-Toellner D,Lee CY,et al. Synovial fluid leukocyte apoptosis is inhibited in patients with very early rheumatoid arthritis [J].Arthritis Res Ther,2006,8(4): R120.   
+[11]Freemont AJ,Denton J.Disease distribution of synovial fluid mast cellsand cytophagocytic mononuclear cellsin inflammatory arthritis[J].Ann Rheum Dis,1985,44(5): 312-5.   
+[12]Kinloch A,Lundberg K,Wait R,et al. Synovial fluid is a site of citrullination of autoantigens in inflammatory arthritis[J].Arthritis Rheum,2008,58(8): 2287-95.   
+[13]Maueroder C,Kienhofer D,Hahn J,et al.How neutrophil extracellular traps orchestrate the local immune response in gout[J]. JMol Med,2015,93(7): 727-34.   
+[14] Schett G, Schauer C,Hoffmann M,et al. Why does the gout attack stop?A roadmap for the immune pathogenesis of gout [J].RMD Open,2015(Suppl 1): e000046.   
+[15]Meng W,Paunel-Gorgilu A,Flohé S,et al. Deoxyribonuclease is a potential counter regulator of aberrant neutrophil extracellular traps formation after major trauma[J].Mediators Inflamm，2012(1): 149560.   
+[16]Nakazawa D,Shida H,Kusunoki Y,et al. The responses of macrophages in interaction with neutrophils that undergo NETosis [J].JAutoimmun,2016,67(9): 19-28.   
+[17] Spengler J,Lugonja B,Yterberg AJ,et al.Release of active peptidyl arginine deiminases by neutrophils can explain production of extracellular citrullinated autoantigens in RA synovial fluid[J]. Arthritis Rheumatol,2015,67(12): 3135-45.   
+[18]Munafo DB,Johnson JL,Brzezinska AA,et al.DNase I inhibits a late phase of reactive Oxygen species production in neutrophils[J]. J Innate Immun,2009,1(6): 527-42.
+
+(编辑：孙昌朋)

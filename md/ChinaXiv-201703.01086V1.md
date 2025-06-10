@@ -1,0 +1,236 @@
+# 形变诱导GH3625合金热挤压管材8相的析出行为
+
+丁雨田，高钰璧，豆正义，高鑫，刘德学，贾智（兰州理工大学 省部共建有色金属先进加工与再利用国家重点实验室，兰州 730050）
+
+摘要采用XRD、SEM、EDS 和Image-Pro Plus 金相分析等手段测定了GH3625合金热挤压管材在不同冷变形量(ε)下经过 800时效后δ  
+相的析出含量，并研究了冷变形对δ相的析出规律及析出动力学的影响。结果表明，δ相首先在形变孪晶界、晶界以及变形带上形核并析出，随后在  
+晶内形核并长大，并且随冷变形量的增加，δ相在变形带上析出量增加，随冷变形量的增加，δ相的形貌从针状向棒状或颗粒状转变；随着时效时间三  
+的延长，δ相的平均尺寸不断增大，并且长大规律符合LSW 理论。当时效温度为 $8 0 0 ^ { \circ } \mathrm { C }$ 时，δ相的析出含量与时效时间的关系满足Avrami方程，且  
+随冷变形量的增加，δ相的含量增加，时间指数n减小，δ相析出速率 $\mathfrak { a }$ 增加，冷变形促进δ相的析出。Nb 的溶质拖电与δ相的钉扎共同作用抑制8  
+晶粒长大； $\scriptstyle { \varepsilon = 3 5 \% }$ 时，其合金的硬度随保温时间的延长而增加， $\mathtt { \varepsilon } \mathtt { \ge } 5 0 \%$ 时未发生明显变化。
+
+关键词 GH3625高温合金 冷变形，δ相，析出行为，动力学生
+
+中图法分类号 $\mathrm { T G } 1 4 6 . 1 ^ { + } 5$ 文章编号 0412-1961(201@×-X ×-X
+
+# Precipitation Behavior of δ Phase of Deformation Induced GH3625 Superalloy 学希 Hot-extruded Tube
+
+DING Yutian, GAO Y DOU Zhengyi, GAO Xin, LIU Dexue, JIA Zhi StateKeyLaboratoryofAdvancedProcessngandRecyclingofNonferrous Metals,Lanzhou UniversityofTechnologyLanzhou 反 730050, China Correspondent: DING Yutian, professor, Tel :(0931)2973563, E-mail: Dingyutian@ 126.com Supported by National Natural Science Foundation of China (No.5166lO19)and Gansu Provincial Science and Technology Project (No.145RTSA004).y 学 Manuscript received 2016-11-14, in revised form 2016-12-29 学布
+
+ABSTRACT GH3625 is a wrought nickel-based superaloy mainlyused in aeronautical,aerospace,chemical, nuclear,petrochemical,and marine applications industryue to its gbbdmechanical properties,processability, weldability and resistance to high-temperature corrosion"on prolonged exposure to aggressive environments. However, in the medium and high temperature environment during long-term service, the $\gamma ^ { \prime \prime }$ is a metastable phase,easily transformed into stable δ phase,Or δ phase directly formed in the $\gamma$ matrix precipitation so that alloy performance was deteriorated,leading to the result of alloy failure. At the present work, massfraction ofphase in GH3625 superalloy,hot-extruded tube cold deformed to different reductions and then aged at 800 $^ { \circ } \mathfrak { C o r }$ （204号 diferent times, were measured by the XRD. The efect of cold deformation on the law and kinetics Of phase precipitation was investigated by SEM,EDS and Image-Pro Plus metallographic analysis and other means.The results show that S phase first precipitates at the deformation twin and graiboundariesas well as deformation bands,and then precipitates in the grains.The amount of S phase at the deformation bands increases with the increase ofcold deformation. The morphologies of S phase change graduall from needes to spheroids or rodlike with increasing cold deformation. With the extend of aging time, the average size of S phase increases,and the average size of δ phase grows according to LSW theory. At 800
+
+$^ { \circ } \mathsf { C }$ ，the relati
+
+content of 8 phase and aging time follows Avrami equation.As cold deformation increases,the content of δ phase increases as wel,the time index n decreases,whereas the S phase precipitation rate increases. Cold deformation promotes the precipitation ofS phase.The solute drags Nb in soild solution and pinning of δ phase inhibits the grain growth during aging process of cold deformed GH3625 superalloy hot-extruded tube.The hardness of the alloy increases with the extension of the holding time, $\varepsilon = 3 5 \%$ ,and $\mathtt { \varepsilon } \geqslant 5 0 \%$ , no obvious change occurs.
+
+KEY WORDS GH3625 Superalloy, cold deformation, δ phase, precipitation behavior, kinetics
+
+GH3625 镍基变形高温合金以析出体心四品体结构的金属间相 $\gamma ^ { \prime \prime } { - } \mathrm { N i } _ { 3 } \mathrm { N b }$ （ $\mathrm { D O } _ { 2 2 }$ 结构)，与γ'相$[ \mathrm { N i } _ { 3 } ( \mathrm { A l } , \mathrm { T i } , \mathrm { N b } ) ]$ 共同起沉淀强化作用[1-4]。该合金在中、高温（600\~900环境中工作时仍具有较高的力学性能和良好的耐蚀性以及抗氧化性其合金管材被广泛应用于航空航天、燃气轮机和核电设备等领域，是航空、航天、核能、石油以及化工领域关键零件的制造材料[5-7]。GH3625 合金管材在中、高温环境中长期服役时，由于合金组织中 $\gamma ^ { \prime \prime }$ 是亚稳相，容易转变成正交结构的稳定相 ${ \delta \mathrm { - } } \mathrm { N i } _ { 3 } \mathrm { N b }$ ( $\mathrm { D O } _ { \mathrm { a } }$ 结构)，或者直接从γ基体中析出 ${ \delta \mathrm { - N i } _ { 3 } N b }$ 相使合金性能退化，进而导致合金失效[8.9]。因此，研究冷变形对GH3625合金热挤压管材δ相的析出规律及动力学行为的影响就显得尤为重要。
+
+目前国内外针对GH3625合金中δ相的研究已经取得一定的进展。Sunararaman 等[10将 Inconel 625合金在 $\tilde { 7 } 5 0 \mathrm { ~ \textdegree C }$ 下保温 $1 0 0 \mathrm { { h } }$ 后，发现其组织中有少量的δ相析出面在 $7 0 0 \mathrm { ^ { \circ } C }$ 下进行类似的热处理时，则没有观察到δ相的析出；当时效温度升高到 $8 0 0 \mathrm { ~ \textdegree ~ }$ 时，该合金组织中析出了大量的δ相。邸新杰等将Inconel 625 熔敷合金经 $8 5 0 ^ { \circ } \mathrm { C }$ 焊后热处理，在基体x相中析出大量的针状δ相呈网格分布，且其附近出现了贫 $\gamma ^ { \prime \prime }$ 相区域。陈名浩和何银秋[12]采用X射线衍射对GH625合金δ相定量分析，发现δ相析出峰的温度为 $8 0 0 \mathrm { ~ \textdegree ~ }$ ，尤其是时效 $2 0 0 \mathrm { ~ h ~ }$ 以上，析出粒度较大的δ相是引起韧性下降的主要原因。赵新宇[13通过研究 GH625合金的冷变形及其对力学性能的影响，发现冷变形量为 $18 \%$ 的合金在回复过程中析出大量的${ \delta \mathrm { - N i } _ { 3 } N b }$ 相，硬度有所降低，但δ相的析出抑制了再结晶的发生，因而持久寿命很高。然而，已有的报道中并未对形变诱导GH3625合金热挤压管材8相的析出规律及动力学行为进行系统研究。
+
+本工作对形变诱导GH3625合金热挤压管材中δ相的析出规律及动力学进行研究，计算得到8相析出动力学曲线，了解δ相的析出规律，通过调节冷变形量来控制δ相的含量、分布及形态，为提高GH3625 合金的持久性能和疲劳性能提供理论指导。 K
+
+# 1 实验方法
+
+学
+
+本实验用GH3625热挤压管化学成分（质量分数，）为： $c \sharp \tilde { \mathfrak { g } } _ { 4 2 }$ ，Cr 21.77，Ni 60.63，Co 0.19,$\mathbf { M o } 8 . 7 9$ ，Al 0.21，Ti 0.40，Fe 3.68，Nb 3.75，Si0.12, $\mathrm { \tilde { M } n } 0 . 2$ ，S 0.0006， $\mathrm { P 0 . 0 0 6 }$ ， $\operatorname { C u } 0 . 0 6$ 。试样从热挤压管上切取，经 $1 1 5 0 \ \mathrm { ~ \textdegree ~ { ~ } } \mathrm { T } / 1 \ \mathrm { h } / \mathrm { A C }$ 固溶处理后机加工成直径为 $6 ~ \mathrm { m m }$ ，长为 $9 \ \mathrm { m m }$ 的圆柱试样，在应变速率为 $\boldsymbol { 1 0 } ^ { - 1 } \boldsymbol { \mathrm { s } } ^ { - 1 }$ 条件下进行变形量ε为 $3 5 \%$ 、 $5 0 \%$ 、 $65 \%$ 的室温压缩，随后进行时效处理，时效温度为 $8 0 0 ^ { \circ } \mathrm { C }$ ，保温时间分别为 $2 5 \mathrm { h }$ 、 $5 0 \mathrm { h }$ 、 $7 5 \mathrm { h }$ 和 $1 0 0 \mathrm { h }$ ，加热完后空冷。采用线切割方法将冷变形和时效处理后样沿轴向中心剖开，进行机械研磨和抛光，用 $\mathrm { 3 \ m l H N O _ { 3 } + 5 \ m l H _ { 2 } S O _ { 4 } + 9 0 \ m l F }$ ICI混合溶液进行化学腐蚀 $1 { \circ } 3 \operatorname* { m i n }$ 。
+
+采用 Axiovert 40 MAT 光学金相显微镜(OM)、Quanta FEG 450 热场发射扫描电镜(SEM)、能谱仪(EDS)及 Image-Pro-Plus 金相分析软件，观测合金显微组织中δ相析出的形貌、分布和数量；用D8 ADVANCE型X 射线衍射仪（XRD）测定GH3625合金的 XRD 谱， $\mathrm { C u K } _ { \mathrm { a } }$ ， $\lambda { = } 0 . 1 5 4 0 5 6 \ \mathrm { n m }$ ，石墨单色器，管电压为$4 0 \mathrm { k V }$ ，管电流为 $4 0 \mathrm { m A }$ ，衍射角范围为 $2 0 { } ^ { \circ } \leq 2 \theta \leq 1 0 0 { } ^ { \circ }$ ，步长为 $0 . 0 2 \ L ^ { \circ }$ 。利用微机对重叠峰进行分离，并计算奥氏体 $\gamma$ 相、δ相和NbC 衍射峰的积分强度。为提高点阵常数的测量精度，衍射峰的位置利用 Si粉末标样进行校正，用Nelson-Riley 函数外推法计算奥氏体点阵常数。
+
+借助 Image-Pro-Plus 金相分析软件测量 SEM像中δ相的平均尺寸，测量数目大于总数目的2/3取平均值；在Axiovert40 MAT光学金相显微镜(OM)上观察合金的显微组织，并按照GH6394-2002《金属平均晶粒度测定方法》测定合金平均晶粒尺寸；用 FRC-3e型洛氏硬度计测量合金的硬度值，测量3个不同点的硬度值取平均值。
+
+![](images/d9f22b1c14a8d777450913f4d08c170cf54d50277bc98646f2d1899b64fb622e.jpg)  
+图1GH3625合金中相析出的温度-时间-转变曲线[14-15]
+
+Fig.1Time-Temperature-Trasformationdiagramof the phases inGH3625superaoy15
+
+从 GH3625 合金中相析出的温度-时间-转变曲线中可以看出[14-15]，在 $8 0 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 加热温度下，在奥氏体 $\boldsymbol { \gamma }$ 中析出y"、δ、 $\mathbf { M } _ { 6 } \mathbf { C } \ 、 \bigotimes _ { \pmb { \hat { 2 } 3 } } \mathbf { C } _ { 6 }$ 和 NbC相（见图1)。本工作采用X射线定量相分析方法测定析出过程的δ相的含量，计算公式如下[6]:
+
+金
+
+$$
+\begin{array} { r l } & { \frac { \mathbf { W } _ { \gamma } } { \mathbf { W } _ { \delta } } = \displaystyle { \frac { \rho _ { \gamma } } { \rho _ { \delta } } } \frac { \frac { \mathbf { \Phi } } { n } \sum _ { i } ^ { n } ( I _ { i } ^ { \prime } / R _ { i } ^ { \prime } ) } { \frac { \mathbf { \Phi } } { m } \sum _ { i } ^ { n } ( I _ { i } ^ { \prime } / R _ { i } ^ { \prime } ) } } \\ & { \frac { \mathbf { W } _ { \gamma } } { \mathbf { W } _ { \delta } } \displaystyle { \frac { \mathbf { \Phi } } { \left( \mathbf { \Phi } ^ { \alpha } \right) ^ { 2 } } \frac { \mathbf { \Phi } } { m } \sum _ { i } ^ { n } ( I _ { i } ^ { \prime } / R _ { i } ^ { \prime } ) } } \\ & { \frac { \mathbf { W } _ { \gamma \alpha } } { \mathbf { W } _ { \delta } } \displaystyle { \frac { \mathbf { \Phi } } { \left( \mathbf { \Phi } ^ { \alpha } \right) ^ { 2 } } \frac { \mathbf { \Phi } } { \left( \mathbf { W } _ { \alpha } \right) } \frac { \frac { 1 } { n } \sum _ { i } ^ { n } ( I _ { i } ^ { \prime } / R _ { i } ^ { \prime } ) } { \frac { 1 } { m } \sum _ { i } ^ { n } \left( I _ { i } ^ { \prime } / R _ { i } ^ { \prime } \right) } } } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \displaystyle \mathbf { W } _ { \gamma } \displaystyle { \frac { \mathbf { \Phi } ^ { \alpha } } { + \mathbf { W } _ { \alpha } + \mathbf { W } _ { \alpha \alpha } } } = 1 } \end{array}
+$$
+
+$$
+R = \frac { 1 } { { \nu } ^ { 2 } } P F ^ { 2 } \varphi ( \theta ) e ^ { - 2 M }
+$$
+
+报
+
+其中： $\mathbf { W } _ { \mathrm { N b C } }$ 、 $\mathbf { W } _ { \gamma }$ 、 ${ \bf W } _ { \delta }$ 分别为 NbC、 $\gamma , ~ 8$ 相的质量分数； $I ^ { N b C }$ 、 $I ^ { \prime }$ 学分别为NC、 $\gamma , ~ 8$ 相衍射峰的积分强度（峰面积)； $\rho _ { \mathrm { N b C } } \setminus \rho _ { \gamma }$ 、 ${ \rho } _ { \delta }$ 分别为 NbC、 $\gamma , ~ \delta$ 相的密度；m、n、k分别为选用δ、 $\boldsymbol { \gamma }$ 、NbC 相衍射峰的个数； $\nu$ 为单位晶胞体积；F为合金成分、δ相成分租NbC计算的结构因数；P为多重性因数； $\boldsymbol { \Phi } ( 6 )$ 为角因数； $ { \mathbf { e } } ^ { - 2  { \mathrm { M } } }$ 为温度因数，其中 $\scriptstyle \mathbf { M } = \mathbf { B } \sin ^ { 2 } \theta / \lambda ^ { 2 }$ 为一个与原子偏离其平衡位置的均方位移有关的常数， $\gamma$ 相、δ相和 NhC 均使用 $\scriptstyle \mathrm { { B = 0 . 4 0 } }$ （ 而
+
+# 2实验结果与分析
+
+报
+
+# 2.1GH3625合金管材中δ相的含量
+
+![](images/9998fc68205683152a100c46d024ee3c1734683efdc3e25b341b6eda4d281ebd.jpg)  
+图2不同冷变形量及时效制度下GH3625合金热挤压管材XRD图谱
+
+Fig.2 XRD spectra of GH3625 superalloy hot-extruded tube under diferent cold reductions (ε)and t aging tim
+
+图2为不同冷变形量及时效制度下GH3625合金热挤压管材 $\boldsymbol { \mathrm { \Sigma } } _ { \mathrm { X } }$ 射线衍射图谱及标定。可以看出，GH3625  
+合金热挤压管材在 $8 0 0 ^ { \circ } \mathrm { C }$ 保温 $2 5 \mathord { \sim } 1 0 0 \mathrm { h }$ 后奥氏体 $\gamma$ 中主要析出δ相和NbC。奥氏体 $\gamma$ 相的点阵常数为0.3572
+
+nm，NbC的点阵常数为 $0 . 4 4 7 0 \mathrm { n m }$ ，δ相的点阵常数在不同的制度下有较小的变化，其典型的参数 $a { = } 0 . 5 1 0 6$ $\mathrm { n m }$ ， $\mathsf { b { = } } 0 . 4 2 5 1 \ \mathrm { n m }$ ， $\mathtt { c = 0 . 4 5 5 6 \ n m }$ ，此数值与M.Sundararaman[10]的测试结果相近。
+
+在定量分析过程中，选用的奥氏体衍射峰为 $( 1 1 1 ) _ { \gamma } ,$ ， $( 2 0 0 ) _ { \gamma }$ 、 $( 2 2 0 ) _ { \gamma } .$ ， $( 3 1 1 ) _ { \gamma }$ 、 $( 2 2 2 ) _ { \gamma }$ ，δ相衍射峰为 $( 2 0 1 ) _ { \mathfrak { d } }$ ，$( 0 2 0 ) _ { \mathfrak { d } }$ 、 $( 0 1 2 ) _ { \mathfrak { d } }$ 、 $( 2 1 1 ) _ { \mathfrak { d } }$ ，NbC 衍射峰为 $( 1 1 1 ) _ { \mathrm { N b C } }$ 。采用X射线定量分析方法测定不同冷变形量及时效制度下的8相的质量分数（见表1)。由表1可知，δ相的含量随冷变形量的增加和保温时间的延长而增加。
+
+表1GH3625合金管材8相质量百分数  
+Table 1 The mass fractionofδ phase in GH3625 superalloy tubes   
+(mass fraction / %)   
+
+<html><body><table><tr><td>ε/%</td><td>25 h</td><td>50 h</td><td>75 h</td><td>100 h</td></tr><tr><td>35</td><td>1.58</td><td>1.77</td><td>1.95</td><td>2.15</td></tr><tr><td>50</td><td>1.73</td><td>1.89</td><td>2.12</td><td>2.24</td></tr><tr><td>65</td><td>1.88</td><td>2.07</td><td>2.28</td><td>2.34</td></tr></table></body></html>
+
+# 2.2形变对δ相析出规律的影响
+
+![](images/ea999e3dacdeda0ccbc57ede18c0af7e9388f1a4a08d37fd551650f69ba56606.jpg)  
+图3冷变形GH3625合金热挤压管材中δ相的 SEM像及 EDS Fig.3 SEM images $( \mathsf { a } \mathrm { \sim } \mathsf { c } )$ and EDS (d)of δ phase in cold deformed GH3625superalloy hotextruded tube aging at $8 0 0 ^ { \circ } \mathrm { C }$ for 75 h (a) $8 \%$ (b) $\mathtt { \varepsilon } = 5 0 \%$ (c) $8 = 6 5 \ \%$ (d) EDS scaned along the line shown in Fig.3(a)
+
+图3为冷变形GH3625合金热挤压管材中δ相的SEM像及EDS。由图3可知，冷变形影响δ相析出的位置，在 $\mathrm { { \varepsilon } } = 3 5 \mathrm { { \% } }$ 时，δ相首先在晶界及形变孪晶界上形核并析出（图3a)，随后在晶内形核并长大； $82 5 0 \%$ 时，δ相首先在变形李晶界、晶界及变形带上形核并长大（图3b)，随后在晶内形核并析出（图3c)，并且随着冷变形量增加，δ相在变形带上析出的含量增多。这是因为在小变形量时，由于变形产生的位错密度较低，δ相在晶界（孪晶界）或晶内析出，随冷变形量的增加，位错密度提高，δ相在变形带上析出，使Nb 在缺陷处的非平衡偏聚程度提高，使得δ相的含量随变形量的增加而增多[17]。同时，冷变形程度越高，冷变形产生的超空位越多，Nb原子的非平衡偏聚程度随形变量的增加愈严重，这样在位错胞壁和位错墙位的 Nb 含量越高，因而降低了δ相的形核的临界自由能，促进了δ相析出[18]。由图3d可知，晶界处 Nb的偏析程度大于基体中的偏析程度，此结论与Liu等[18的研究结果相近；同时，测定的point1、point 2 和point3处Nb的含量（质量分数）分别为 $6 . 0 \%$ 、 $8 . 1 \%$ 和 $1 1 . 3 \%$ ，这说明，随着冷变形量的增加，Nb在缺陷处的含量增加，从而验证了8相的析出是由 $\mathbf { N b }$ 原子的非平衡偏聚引起的。
+
+同时，冷变形影响δ相的析出形貌， $\mathtt { \mathtt { g } } = 3 5 \%$ 时，析出的δ相为针状（图3a)； $\scriptstyle { \varepsilon = 5 0 \% }$ 时，析出的δ相主要为棒状或颗粒状，还有少量的针状（图3b)； $8 \%$ 时，析出的δ相为短棒状或颗粒状（图3c)。这是因为在冷变形量较小的情况下，冷变形产生的位错组态为位错胞、平面状滑移位错和位错带，位错胞型的位错密度较低，Nb在奥氏体中均匀分布，δ相一旦形核将沿与奥氏体取向关系生长，其形貌为针状；在大的冷变形条件下，冷变形产生的位错结构为位错胞和位错墙，也就是说奥氏体被位错墙所分割，位错墙具有较高的位错密度，并且有Nb的非平衡偏聚使Nb在位错胞和位错墙处富集，δ相一旦在位错壁和位错墙处形核，则不可能沿奥氏体的取向关系长入基体，因此δ相的形貌为短棒状或颗粒状[19-21]。
+
+![](images/0c30ab4e92f7fab012a38167709c053d0135a958661b05ffb5844a9235dd2616.jpg)  
+图4不同保温时间下冷变形GH3625合金热挤压管材中8相的SEM像
+
+Fig.4 SEM images of δ phase in cold deformed GH3625 superalloy hot-extruded tube $( \varepsilon { = } 6 \xi \% )$ with differeni aging time at 800℃ X 布
+
+$$
+{ \mathrm { ( a ) } } \mathsf { t = 2 5 h } \quad \mathrm { ( b ) } \mathsf { t = 5 0 h } \quad \mathrm { ( c ) } \mathsf { t = 7 5 h } \quad \mathrm { ( d ) } \mathsf { t = 1 0 0 h }
+$$
+
+发
+
+图4为不同保温时间下冷变形GH3625合金热挤压管材中δ相的SEM像。由图4可知，随着保温时间延长，GH3625合金热挤压管材中δ相的平均尺寸不断增大，其含量也不断增加。表2为实验中测得的合金管材中δ相的平均尺寸（平均长度 $\overline { { l } }$ 和平均宽度 $\overline { { w } }$ )，对其分析可知；δ相的平均长度 $\overline { { l } }$ 和平均宽度 $\overline { { \boldsymbol { w } } }$ 都与 $\mathbf { t } ^ { 1 / 3 }$ 成线性关系（图5)，符合LSW 理论[22-23]，即：
+
+$$
+\overline { d } ^ { 3 } - \overline { d } _ { 0 } ^ { 3 } = k t
+$$
+
+式中， $\overline { d }$ 为时效后析出相颗粒的平均直径， $\mu \mathrm { m }$ ； $\overline { { d } } _ { 0 }$ 为 $\mathrm { \ t = } \mathrm { t _ { 0 } }$ 时析出相颗粒的平均直径， $\mu \mathrm { m }$ ; $\mathbf { k }$ 为析出相的长大速率， $\mu \mathrm { m } ^ { 3 } / \mathrm { h }$ ; $\mathbf { \sigma } _ { \mathbf { t } }$ 为保温时间，h。
+
+# 表2不同保温时间下δ相的平均尺寸
+
+Table 2 Average sizes of δ phase at different holding times at 8Oo℃( $\scriptstyle { \mathcal { E } } = 6 5 \ { \mathcal { T } } _ { O }$ ）   
+
+<html><body><table><tr><td>Holding time / h</td><td>1/μm</td><td>w / μm</td></tr><tr><td>25</td><td>1.462</td><td>0.204</td></tr><tr><td>50</td><td>1.854</td><td>0.260</td></tr><tr><td>75</td><td>2.205</td><td>0.326</td></tr><tr><td>100</td><td>2.536</td><td>0.377</td></tr></table></body></html>
+
+Note: I_average lengths of δ phase, $\overline { { \boldsymbol { w } } }$ —average widths of S phase
+
+将表2中的实验数据代入式（5，得到δ相和的长大速率分别为 $2 . 1 1 \times 1 0 ^ { - 1 } { \mu \mathrm { m } } ^ { 3 } / \mathrm { h }$ 和 $2 . 8 2 { \times } 1 0 ^ { - 4 } { \mu \mathrm { m } } ^ { 3 } / \mathrm { h }$ 其长度方向的长大比宽度方向更为显著。
+
+属 Average lengthAverage width，金预 2.01612 报0.8 学布0.40.02 3.2 4.0 4.4 4.81/3/h1/3
+
+Fig.5 Relationship between average sizes of S phase and the aging holding times $\mathbf { \rho } ( t )$ at $8 0 0 ~ \mathrm { ^ { \circ } C }$
+
+2.3形变对GH3625合金热挤压管材δ相的动力学影响
+
+2520 学布 学汶   
+1.5   
+%l   
+W 1.0   
+0.5 报   
+0.0 G 学布 5 - G 4
+
+# hot-extruded tube at 800 ℃
+
+图6为冷变形GH3625合金管材在 $8 0 0 ^ { \circ } \mathsf { C }$ 时效时8相质量分数与时效时间的关系。由图可知，在冷变形量一定的条件下，随着时效时间的延长，δ相的含量增加，最后达到平衡状态。平衡态时δ相的含量 ${ \sf W } _ { \mathrm { s } }$ 取决于加热温度，在 $8 0 0 ~ ^ { \circ } \mathsf { C }$ 时效时， $ { \mathrm { W _ { s } } }$ 大约为 $3 \%$ 。在时效时间一定的条件下，随冷变形量的增加，δ相的含量增加。
+
+在一定时效温度下，δ相的含量 ${ \bf W } _ { \delta }$ 与等温时间 $t$ 的关系可用Avrami方程[24-26]表示：
+
+$$
+\mathbf { W } _ { \delta } { = } \mathbf { W } _ { \mathrm { s } } [ 1 { - } \exp ( - a t ^ { n } ) ]
+$$
+
+式中， $ { \mathbf { W } _ { \mathrm { s } } }$ 为给定时效温度下8相的析出平衡含量； $\mathfrak { a }$ 为δ相的析出速度； $\mathbf { n }$ 是时间指数，取决于δ相的形核和长大机制。根据图6的实验结果绘制出 $\log [ - \ln ( 1 - W _ { \delta } / W _ { s } ) ]$ 与lgt的关系曲线（图7)。通过线性回归分析，求出δ相的析出动力学参数见表3。
+
+属际
+
+![](images/0ee9d74f2d229ccb9f40bdea669275a5cf5614e0df3489fcacc288d4626cd346.jpg)  
+图 $7 \mathrm { l g } [ - \ln ( 1 - W _ { \delta } / W _ { \mathrm { s } } ) ]$ 与lgt的关系 Fig.7 Relationship between $\lvert \mathbf { g } [ - \ln ( 1 - W _ { \mathbf { \hat { \sigma } } } \mathbf { \widehat { \otimes } } \mathbf { \widehat { \otimes } } \mathbf { \vec { \sigma } } ) ]$ and lgt 表3δ相析出动力学参数
+
+Table 3 Parameters for precipitation kinetics of S phase   
+
+<html><body><table><tr><td>ε/%</td><td>α/s</td><td>n</td></tr><tr><td>35</td><td>1.144×10-2</td><td>0.364</td></tr><tr><td>50</td><td>1.693×10²</td><td>0.342</td></tr><tr><td>65</td><td>2.463×10²</td><td>0.322</td></tr></table></body></html>
+
+Note: α- precipitation velocity of δ phase, n-time index
+
+冷变形量对δ相析出动力学的影响可借助于 $\mathbf { \eta } _ { \mathrm { ~ n ~ } }$ 和 $\alpha$ 值的变化来反映。从表3可以看出，在时效温度一定的条件下，随冷变形量增加，时间指数 $n$ 降低，而δ相析出速率 $\acute { \alpha }$ 增加。这说明，随冷变形量的增加，δ相析出速率增大，δ相析出的结束时间缩短。因此，冷变形促进了相的析出。
+
+# 2.4δ相对合金晶粒尺寸及硬度的影响
+
+30 金 预  
+25 M 报  
+L llr liee lleaat 20  
+15 学布105 属发025t/hFig.8 Effect of cold deformation and aging time on grain size of GH3625 superalloy hot-extruded tube图8为GH3625合金热挤压管材晶粒尺寸与冷变形量与时效时间的关系。由图可知，随着冷变形量的  
+增加和保温时间的延长，GH3625 合金热挤压管材的晶粒尺寸逐渐减小。这是由于随着冷变形量的增加和  
+保温时间的延长，Nb 原子的非平衡偏聚程度加大，Nb 原子的含量在位错处增加，Nb 的溶质原子拖电[27]
+
+![](images/4ca32f353428df513e5cd41f3b72b2bff75b0053eae6a862662cc1b1b38ae4be.jpg)  
+图8冷变形量和时效时间对GH3625合金热挤压管材晶粒尺寸的影响
+
+与δ析出相钉扎[28]共同作用阻碍晶界在晶体组织中的迁移，从而对晶粒长大产生明显的抑制作用。
+
+![](images/042c70ecd5e97c88940770a1eb8aef8d8906e03ff8aa766644a65bd8373ebfbf.jpg)  
+>冷变形量和时效时间对GH3625合金热挤压管材硬度的影响  
+Fig.9 Effect of cold deformation and aging time on hardness of GH3625 superalloy hot-extruded tube
+
+图为GH3625金热挤压管材硬度与冷变形量与时效时间的关系。由图可知，当 $8 \%$ 时，合金的硬度值随保温时间的延长而增加；当 $8 \%$ 时，合金的硬度值随保温时间的延长而未发生明显变化。对于冷变形量为 $3 5 \%$ 的时效试样来说，其硬度的提高是由于冷变形量较小时，在晶界及孪晶界上形核析出的δ相对晶界（孪晶界）的钉扎作用，导致合金硬度的提高；对于冷变形量达到 $50 \%$ 以上，合金的硬度值并未发生明显下降是由于合金在时效过程中析出了δ相》消耗了基体中起固溶强化作用的Nb 元素，其数量的减少使合金硬度降低。此外，随着冷变形量的增加，δ相的含量增多，而且其形貌由针状转变为颗粒状或短棒状，颗粒状的δ相对位错起阻碍作用，起到弥散强化的作用从而使合金硬度提高。综上两种因素的综合作用，使合金的硬度未发生明显的变化。
+
+# 3结论
+
+金预
+
+（1）冷变形影响δ相析出位置，δ相首先在晶界及形变孪晶界上形核析出，随后在晶内形核析出，随着变形量的增加，δ相在变形带上形核析出，并且析出含量增多；同时，冷变形影响δ相的析出形貌，随着冷变形量的增加，δ相的形貌由针状转变为短棒状或颗粒状；随着保温时间的延长，8相的平均尺寸不断增大，其长大规律符合LSW 理论。
+
+(2）冷变形GH3625合金管材在 $8 0 0 ^ { \circ } \mathrm { C }$ 时效过程中相析出质量再分数与时效时间的关系符合Avrami方程，随着冷变形量的增加，时间指数 $n$ 降低，析出速率 $\boldsymbol { a }$ 增加。冷变形促进了δ相的析出。
+
+(3）Nb 的溶质拖电与δ相的钉扎共同作用抑制最粒长大； $8 \% 3 5 \%$ 时，其合金的硬度随保温时间的延长而增加，ε≥50%时未发生明显变化。金
+
+# 参考文献
+
+[1] Guo JT. Materials Science and Engineering for Superalloys [M].Beijing: Science Press,2008, 4:1
+
+学报所
+
+(郭建亭．高温合金材料学[M]．北京:科学出版社,2008,4:1)
+
+[2] Murr L E,Martinez E,Gaytan $\textsc { s m }$ ， et al.Microstructural architecture,microstructures,and umechanical properties for a Nickel-Base superalloy fabricated by electron beam melting[J]. Metall. Mater. TranslA,2011,42(11):3491
+
+[3]ChinaAeronautical Materials HandbookCompileCommitee.ChinaAeronauticalMaterials Handbook[M.Beijing:Standards Press of China,2002,05:238 金领
+
+(中国航空材料手册编委会．中国航空手册[M].北京:中国标准出版社,2002,05:238）
+
+[4]PaulCP,GaeshP,MishraSK,etal.InvestigatinglaserrapidmanufacturingforIconel-625components[J]Optics.aser Technol.,2007,39(4):800
+
+[5]MitraJ,DubeyJSBanerjee S.Acousticemisiotechiqueusedfordetectingearlystagesof precipitationduringagingof Inconel625[J].ScriptaMater.,2003,49(12):1209
+
+[6] Ye J.Nickel Base Superalloy [M].Beijing:Science Press,1978:228(冶军.美国镍基高温合金[M].北京:科学出版社,1978:228)
+
+[7] Zhang HB. Inconel625 alloy progress abroad [J]. Special Steel Technology,2000(3):69 (张红斌．国外 Inconel625 合金的进展[J].特钢技术,2000(3):69)   
+[8]CortialFCoreuJM,Verot-LoierCfluenceofheat reatmentsoncrostructur,mechanicalpropertiesndoroion resistance of weld alloy 625[J]. Metall. Mater. Trans.A,1995,26(5):1273   
+[9]SuaveLM,CormierJ,VillchaseP,etal.Microstructuralevolutionsduringtheralagingofalloy65:impactof tepature and forming process[J]. Metall Mater. Trans. A,2014, 45(7):2963   
+[10] Sundararaman M, Mukhopadhyay P, Banerjee S. Precipitation of the ${ \delta \mathrm { - } } \mathrm { N i } _ { 3 } \mathrm { N b }$ phase in two nickel base superalloys [J].Metall. Mater. Trans.A,1988,19(3):453   
+[11] Di X J, Xing X X, Wang B S. Nucleation'nd coarsening Mechanism of δ phase Inconel 625deposited metal [J].Acta. Metal. Sin., 2014, 50(3):323 X (邸新杰，邢希学，王宝森.Inconel625熔敷金属中δ相的形核与粗化机理[J].金属学报,2014(3):323)   
+[12] Chen M H,He YQ. Melal Anal. Quantitative phase analysis of γ"-Ni Nb、 $\delta$ Ni Nb and other phases in superalloy GH625 by X-Ray diffraction [J].1989, 9(2):1 (陈名清何银秋．镍基合金中γ-NiNb和 $\delta$ Ni,Nb 等相的衍射定量相分析[J].治金分析,1989(2):1)   
+[13] Zhao X Y. Cold Deformation behavior of GH3625 alloy and their effects on mechanical properties [J].J. Mater. Eng.,2000, (9): 37 (赵新宇.GH3625 合金的冷变形及其力学性能的影响[J].材料工程,2000,(9:37）   
+[14]Floreen S,Fuchs GE,Yang WJ.“The Metalurgyof Aloy6S”Superalloys718,625 and Various Derivatives,ed.E.A.Loria, (TMS,Warrendale,PA,1994),13-37.   
+[15] Shoemaker LE. Alloys 625 and 725: trendsproperties andapplications[C]//Superallys. 2005   
+[16] Liu W, Xiao F, Yao M,et al. Quantitativ phase analysis of Inconel 718 by X-ray diffraction [J]. J.Mater. Sci. Lett.,1997, 16(9):769   
+[17]Singh RP,HyzakJM,HowsonTE,etal.Recrystallzationbehaviorofcoldrolledalloy718[C//Speralloys.1991:205   
+[18]Liu WC,Yao M, Chen ZL,et al. Niobium segregation in Inconel 718[J].J. Mater. Sci.,1999,34(1I)2583   
+[19] Liu W C,Chen ZL, Xiao FR,et al. Effect on cold rollng on the precipitation_behaviorof &phase and $\gamma ^ { \prime \prime }$ phase in Inconel 718[J]. AAAS, 1999,20(3):279 W (刘文昌，陈宗霖，肖福仁，等．冷轧变形对 Inconel718 合金δ相 $\gamma ^ { \prime \prime }$ 相析出行为的影响[J]．航空学报,1999,20(3):279)   
+[20] Kanetas PJP, Osorio L AR,Mata MPG, et al. Influence of the lta phase in'l microstructure of the Inconel 718 subjected to “delta-processing"heat treatment and hot deformed [J]. Procedia Materials Science,2015,8:1160   
+[21]Liu WC,YaoM, XiaoFR,etal.Determinationof δphase franand precipitatiobehaviorofδphase inInconel718ally[J] Iron and Steel,1997,32(5):55 金 (刘文昌，姚枚，肖福仁，等.Inconel 718 合金δ相含量的测定及δ相析出[J]．钢铁,1997(5):55)   
+[22] Footner P K, Richards B P. Long-term growth of superalloy $\gamma ^ { \prime }$ particles [J]. J. Mater. Sci.,1982,17(7):2141   
+[23]Smokingermain RE, translatedby Zhang RJ. Modern Physical Metallurgy[M].Beijing: Metallurgicalndustry Pre 980:176 (SmokingermainRE 著，张人洁译．现代物流冶金学[M].北京：冶金工业出版社,1980:176）   
+[24] Avrami M. Kinetics of phase change. IItransformation milime relations for randomdistribution huclei [J].J. Chem.Phys., 1940, 8(2):212 司 1   
+[25]Yuan ZJ,LiuJS,Zhang SHResearch onprecipitation kineticsof8-phaseinGH469 aloyJ]JournalofShenyang Ligong University,2010,29(2):23 金 (袁兆静，刘劲松，张士宏.GH4169 合金δ相的析出动力学研究[J]．沈阳理工大学学报,2010,29(2):23)   
+[26]LiuWC,ChenZLXiaoFR,etalEectofcldrollgonteinticsofSphasepreipitationinconel8J].Actaeal. Sin.,1998,34(10):1049 (刘文昌，陈宗霖，肖福仁，等．冷轧变形对Inconel 718合金δ相析出动力学的影响[J]．金属学报,1998,34(10):1049-1054.)   
+[27] Cahn JW. Coherent fluctuations and nucleation in isotropic solids [J]. Acta. Metal. Sin.,196,10(10):907   
+[28] Smith CS.Grains,phases,andinterphases:aninterpretationof microstructure[J].Metals Technology,1948,175:15

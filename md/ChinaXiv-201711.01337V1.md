@@ -1,0 +1,141 @@
+# CN 53-1189/P ISSN 1672-7673
+
+# 上海天文台65米射电望远镜谱线观测及数据校准
+
+吴亚军1,2,3，刘庆会1,²，李娟1,²，赵融冰1,²，陈曦1,²，袁瑾1,2（1.中国科学院上海天文台，上海200030；2.中国科学院射电天文重点实验室，上海200030;
+
+3.中国科学院大学，北京100049)
+
+摘要：谱线观测是上海天文台 $6 5 \mathrm { ~ m ~ }$ 射电望远镜的主要观测手段之一，在和美国国家射电天文台联合研制脉冲星和谱线观测终端的基础上，开发了观测控制软件，设计了流量定标的硬件和软件，开发了频率校准程序。经过大量的观测测试，证明观测和数据校准系统的有效性，并于2015年下半年对国内用户开放，取得了大量的观测结果。详细介绍本终端的组成和功能，观测控制软件的流程，结合观测数据介绍流量定标和频率校准的处理方法和结果，并给出下一步的工作计划。
+
+关键词：谱线观测；观测控制软件；流量定标；频率校准中图分类号：P161.4 文献标识码：A 文章编号：1672-7673(2017)01-0001-07
+
+上海天文台 $6 5 \mathrm { ~ m ~ }$ 射电望远镜(Tian Ma Telescope，天马望远镜)于2012年10月落成后，陆续配置了L、 $\mathrm { s / X }$ 、C、 $\mathrm { K u }$ 、K、 $\mathrm { { X } / \mathrm { { K a } } }$ 、Q共7套接收机，是目前亚洲最大、全方位可转动的射电望远镜。分子谱线观测是 $6 5 \mathrm { ~ m ~ }$ 射电望远镜的重要研究方向之一，较宽的频率覆盖使其能够观测氢原子、 $2 1 ~ \mathrm { c m }$ 谱线、羟基脉泽、甲醇脉泽、水脉泽、氨分子、一氧化硅分子、甲醛吸收线及氢离子、氮离子、碳离子的复合线等①。
+
+2013年10月安装了脉冲星和谱线观测终端（Digital Backend System，DIBAS），该终端由美国国家射电天文台（National Radio Astronomical Observatory，NRAO)和上海天文台联合研制。在此基础上，针对谱线观测的需求，开发了谱线观测控制软件，配置了谱线幅度校准系统和谱线数据校准程序。经过大量的测试，目前这套终端、谱线观测和数据预处理系统已成功运行，并向国内用户开放。本文主要介绍这套谱线观测终端的组成和功能、谱线观测控制软件以及流量定标和频率校准的方法和测试结果。
+
+# 1谱线观测终端
+
+脉冲星和谱线观测终端的主要功能是检测望远镜接收的特定频率和带宽信号的频谱；从组成上看，该终端包含数据采集硬件、高性能服务器（High Performance Computer，HPC)组和终端数据处理软件、数据存储器，结构如图1，其中图1(a)为逻辑框图，图1(b)为终端的安装情况。
+
+数据采集硬件主要功能是将望远镜接收的电信号转换为数字信号，并作一定的处理，包括模拟滤波器、频率综合模块、高速模拟数字转换器（Analog Digital Converter，ADC）和 Roach Ⅱ板卡等硬件。模拟滤波器将中频信号限制在一定的带宽内，以利于模拟数字转换器的采样。频率综合模块利用氢钟的频标产生高稳定可靠的信号作为模拟数字转换器的采样时钟，并且作为整个终端的计时基准。高速模拟数字转换器将电信号转换为数字信号，方便后续的处理和存储。RoachⅡ板卡有一块现场可编程门阵列（Field Programmable Gate Array，FPGA），根据观测的需求，对数字信号做下变频和滤波等处理，并将数据以一定的格式组帧，通过10Gbps 的网络发送给高性能服务器组。单套数据采集硬件可
+
+以处理 $1 . 5 \ : \mathrm { G H z }$ 带宽的数据，天马望远镜目前配备了3套独立的硬件，
+
+高性能服务器组由8台带有图形处理器（GraphicsProcessingUnit，GPU）的计算机组成,其上运行终端数据处理软件，对10Gb网络接收的数据，根据观测的模式计算不同分辨率的频谱，并做一定时长的积分，然后将数据以单天线的FITS 格式（Single DishFlexible Image TransportSystem，SDFITS)放置于数据存储器中。
+
+为了放置观测数据，配置了 $8 0 ~ \mathrm { T B }$ 的存储器，由两台服务器组成，采用Lustre文件系统。将整个文件系统映射到高性能服务器组中，可以方便并发地读写数据。该存储器可以方便地扩容，以使脉冲星和谱线观测的多种格式数据保存到存储器中。
+
+脉冲星和谱线观测共有29种模式，对应不同的带宽和谱分辨率，如表1。大体上可以分为4类：模式1\~3为宽带低分辨率模式；模式4\~9为中等带宽模式；模式10\~19为单窗口可设频率窄带高分辨率模式；模式20\~29为8窗口可设频率窄带高分辨率模式。观测者可以根据观测目的选择合适的模式。
+
+# 2谱线观测控制
+
+基于脉冲星和谱线观测，开发了位置切换(Position $\mathrm { O n / O f f }$ 的观测控制和数据预处理软件。
+
+![](images/7a420cb561067eb1e782988c788356926f748ab1cfd5155ac80559af2a27a2f6.jpg)  
+  
+图1脉冲星和谱线观测终端结构（a）终端逻辑框图；（b）终端安装情况Fig.1The structure of DIBAS
+
+(a）Logic structure of the terminal；（b）Terminal installation
+
+观测控制软件采用Python脚本的方式运行，分别控制天线、接收机、中频传输系统、上下变频单元、中频分配单元、脉冲星和谱线观测终端。对于谱线观测的流量定标，由脉冲星和谱线观测终端输出控制信号，控制接收机内的固体噪声源，周期性地注入已知温度的噪声做定标，具体见本文第3节。观测控制的框图如图2。
+
+![](images/15d3f8092cdeb1cc24f23bb669d79961e88df5c77608134c53eb0866c14426bc.jpg)  
+图2谱线观测控制框图  
+Fig.2Control block diagram of the spectral line observation
+
+观测时根据观测波段选择相应的接收机，并调整副面和馈源到合适的位置。为了优化链路的传输性能，天马望远镜于2015年用光纤替代了同轴电缆，将接收机的信号传送至终端机房，链路长度约为 $4 0 0 \mathrm { m }$ 。上下变频单元根据观测的频率设置合适的本振（Local Oscillator，LO）。中频分配单元将中频信号复制多份，提供给脉冲星和谱线观测终端及其他终端。
+
+表1脉冲星和谱线观测模式  
+Table1Different modes for spectral line observation   
+
+<html><body><table><tr><td>模式</td><td>窗口数</td><td>带宽/MHz</td><td>通道</td><td>谱分辨率/KHz</td><td>中心频率/MHz</td><td>频率范围/MHz</td></tr><tr><td>MODE1</td><td>1</td><td>1 500</td><td>1 024</td><td>1 464.8</td><td>750</td><td>0~1500</td></tr><tr><td>MODE2</td><td>1</td><td>1 500</td><td>16 384</td><td>91. 553</td><td>750</td><td>0~1500</td></tr><tr><td>MODE3</td><td>1</td><td>500</td><td>16 384</td><td>30.517</td><td>250</td><td>0~500</td></tr><tr><td>MODE4</td><td>1</td><td>187.5</td><td>32 768</td><td>5. 722</td><td>750</td><td>656.25~843. 75</td></tr><tr><td>MODE5</td><td>1</td><td>187.5</td><td>65 536</td><td>2. 861</td><td>750</td><td>656. 25~843. 75</td></tr><tr><td>MODE6</td><td>1</td><td>187.5</td><td>131 072</td><td>1. 43</td><td>750</td><td>656.25~843. 75</td></tr><tr><td>MODE7</td><td>1</td><td>100</td><td>32 768</td><td>3.051</td><td>400</td><td>350~450</td></tr><tr><td>MODE8</td><td>1</td><td>100</td><td>65 536</td><td>1. 526</td><td>400</td><td>350~450</td></tr><tr><td>MODE9</td><td>1</td><td>100</td><td>131 072</td><td>0. 763</td><td>400</td><td>350~450</td></tr><tr><td>MODE10</td><td>1</td><td>23.437 5</td><td>32 768</td><td>0. 715</td><td>Tunable</td><td>0~ 1450</td></tr><tr><td>MODE11</td><td>1</td><td>23.437 5</td><td>65 536</td><td>0.358</td><td>Tunable</td><td>0~1450</td></tr><tr><td>MODE12</td><td>1</td><td>23.437 5</td><td>131 072</td><td>0. 179</td><td>Tunable</td><td>0~ 1450</td></tr><tr><td>MODE13</td><td>1</td><td>23. 437 5</td><td>262 144</td><td>0.089</td><td>Tunable</td><td>0~1450</td></tr><tr><td>MODE14</td><td>1</td><td>23.437 5</td><td>524 288</td><td>0. 045</td><td>Tunable</td><td>0~1450</td></tr><tr><td>MODE15</td><td>1</td><td>11. 718 75</td><td>32 768</td><td>0.358</td><td>Tunable</td><td>0~450</td></tr><tr><td>MODE16</td><td>1</td><td>11. 718 75</td><td>65 536</td><td>0. 179</td><td>Tunable</td><td>0~450</td></tr><tr><td>MODE17</td><td>1</td><td>11. 718 75</td><td>131 072</td><td>0.089</td><td>Tunable</td><td>0~450</td></tr><tr><td>MODE18</td><td>1</td><td>11. 718 75</td><td>262 144</td><td>0. 045</td><td>Tunable</td><td>0~450</td></tr><tr><td>MODE19</td><td>1</td><td>11. 718 75</td><td>524 288</td><td>0.022</td><td>Tunable</td><td>0~450</td></tr><tr><td>MODE20</td><td>8</td><td>23.437 5</td><td>4 096</td><td>5. 722</td><td>Tunable</td><td>0~ 1450</td></tr><tr><td>MODE21</td><td>8</td><td>23.437 5</td><td>8 192</td><td>2.861</td><td>Tunable</td><td>0~1450</td></tr><tr><td>MODE22</td><td>8</td><td>23.437 5</td><td>16 384</td><td>1. 431</td><td>Tunable</td><td>0~ 1450</td></tr><tr><td>MODE23</td><td>8</td><td>23.4375</td><td>32 768</td><td>0. 715</td><td>Tunable</td><td>0~ 1450</td></tr><tr><td>MODE24</td><td>8</td><td>23.437 5</td><td>65 536</td><td>0.358</td><td>Tunable</td><td>0~1450</td></tr><tr><td>MODE25</td><td>8</td><td>15.625</td><td>4096</td><td>3. 815</td><td>Tunable</td><td>0~450</td></tr><tr><td>MODE26</td><td>8</td><td>15.625</td><td>8 192</td><td>1. 907</td><td>Tunable</td><td>0~450</td></tr><tr><td>MODE27</td><td>8</td><td>15.625</td><td>16 384</td><td>0.954</td><td>Tunable</td><td>0~450</td></tr><tr><td>MODE28</td><td>8</td><td>15.625</td><td>32 768</td><td>0. 477</td><td>Tunable</td><td>0~450</td></tr><tr><td>MODE29</td><td>8</td><td>15.625</td><td>65 536</td><td>0.238</td><td>Tunable</td><td>0~450</td></tr></table></body></html>
+
+目前的控制软件可以自动地按照顺序观测多颗源，设置每颗源对准和偏开的时间，以及设置循环的次数。在观测中为了调整链路的信号功率，开发了自动增益调整软件，由脉冲星和谱线观测终端监视中频信号的功率，控制软件根据功率大小分别调整上下变频单元和中频分配单元的增益，使得各设备工作在合适的范围。
+
+# 3数据校准
+
+天马望远镜谱线观测的数据校准包括流量定标、频率校准和mbfits文件生成。在观测中，脉冲星和谱线观测终端以SDFITS记录功率谱信息，控制软件记录天线位置等信息，开发了准实时的处理软件完成上述工作，过程如图3。
+
+开始 读取文件判断 ON/OF 频率校准 读取线位置 填写MBFITS 结束
+
+# 3.1 流量定标
+
+在观测时，射电望远镜接收的能量(等效为系统噪声温度 $T _ { \mathrm { s y s } }$ )经过接收机等仪器设备，终端记录功  
+率读数。为了准确测定 $T _ { \mathrm { s y s } }$ ，一般在接收机前端耦合一个固体噪声源，利用噪声源的开启和关闭标定。  
+固体噪声源的温度需要定标，定标的方法通常有两种，噪声测试仪测量和参考射电源标定法②。噪声源$T _ { \mathrm { c a l } }$ $P _ { \mathrm { o n } }$ $P _ { \mathrm { o f f } }$ $T _ { \mathrm { s y s } } ^ { } = \frac { P _ { \mathrm { { o f f } } } } { P _ { \mathrm { o n } } ^ { } - P _ { \mathrm { { o f f } } } ^ { } } \times T _ { \mathrm { { c a l } } } ^ { }$
+
+系统噪声温度包含了多项内容，见(1)式。 $T _ { \mathrm { b g } }$ 为天空背景噪声温度，包括观测源 $T _ { \mathrm { s r c } }$ 、宇宙微波背景、银河系连续辐射等； $T _ { \mathrm { r v } }$ 为接收机噪声温度； $T _ { \mathrm { a t m } }$ 为大气微波辐射； $T _ { \mathrm { g r } }$ 为地面辐射泄漏； $T _ { \mathrm { c a l } }$ 为噪声源温度。为了解算 $T _ { \mathrm { s r c } }$ ，通常采用位置切换的观测方式，在数分钟内分别对准源和偏开源各自记录相应的数据，再相减扣除其他各项因素，其中假定这些因素在这段时间里不发生变化，在厘米波段假定一般是成立的。
+
+$$
+T _ { \mathrm { _ { s y s } } } = T _ { \mathrm { _ { b g } } } + T _ { \mathrm { _ { r v } } } + T _ { \mathrm { _ { a t m } } } + T _ { \mathrm { _ { g r } } } + T _ { \mathrm { _ { c a l } } } .
+$$
+
+$T _ { \mathrm { s r c } }$ $S _ { \mathrm { v } }$ $S _ { \mathrm { v } } = { \frac { 2 k T _ { \mathrm { s r c } } } { \eta A _ { \mathrm { g } } } }$ $k$ 波尔兹曼常数( $( k \approx 1 . 3 8 \times 1 0 ^ { - 2 3 } \mathrm { w / H z / K } )$ ； $\eta$ 为天线效率； $A _ { \mathrm { g } }$ 为天线的几何面积。一般天线效率是天线俯仰的函数，需要仔细测量，作为望远镜的基本性能参数供观测者查询。
+
+天马望远镜中，在接收机前端注入快速周期噪声测量系统的噪声温度，由脉冲星和谱线观测终端产生一个周期信号，通过光缆传送至馈源仓，控制接收机周期地将噪声源耦合到接收信号中。在系统安装过程中要测量周期信号的传输时间，在终端将这段时间的数据剔除。用两种方法对噪声源的温度做了标定，选择了合适的噪声功率值[1]。对于位置切换，在对准源和偏开源时，脉冲星和谱线观测终端分别记录一个文件，每个文件中有多组数据按时间排列，对应噪声源的开和关。以2015年10月27日观测W3OH的$6 . 6 6 8 \ : \mathrm { G H z }$ 的甲醇脉泽为例，图4(a)显示了对准源时噪声开和关的数据；图4(b)显示了偏开源时噪声开和关的数据；这两组数据是终端记录的频谱信息，由于W3OH的连续谱辐射很微弱，但是甲醇脉泽很强，在图4(a)中 $6 . 6 6 8 ~ \mathrm { G H z }$ 附近有一条很强的谱线，而其余部分图4(a)和图4(b)没有明显的差异。
+
+以 $P _ { \mathrm { o n } } ^ { \mathrm { c a l o n } }$ 表示对准源时噪声开的频谱数据; $P _ { \mathrm { o n } } ^ { \mathrm { c a l o f f } }$ 表示对源时噪声关的频谱数据; $P _ { \mathrm { o f f } } ^ { \mathrm { c a l o n } }$ 表示偏开源时噪声开的频谱数据； $P _ { \mathrm { o f f } } ^ { \mathrm { c a l o f f } }$ 表示偏开源时噪声关的频谱数据。首先利用偏开源的数据解算系统的噪声温度 $T _ { \mathrm { s y s } }$ ，如(2)式，考虑到只有一半的时间噪声源开启，所以只计算了一半的 $T _ { \mathrm { c a l } }$ 。其中 $\Leftrightarrow$ 表示在频率通道上求平均值。然后利用系统温度 $T _ { \mathrm { s y s } }$ 解算不同频率通道的观测源温度 $T _ { \mathrm { s r c } } ( f )$ ，如(3)式[2-3],③。
+
+$$
+T _ { \mathrm { s y s } } = T _ { \mathrm { c a l } } \times \left( \frac { < P _ { \mathrm { o f f } } ^ { \mathrm { c a l o f f } } > } { < P _ { \mathrm { o f f } } ^ { \mathrm { c a l o n } } - P _ { \mathrm { o f f } } ^ { \mathrm { c a l o f f } } > } + 0 . 5 \right) ,
+$$
+
+$$
+T _ { \mathrm { _ { s r e } } } ( f ) = T _ { \mathrm { _ { s y s } } } ^ { \mathrm { } } \times \frac { P _ { \mathrm { _ { o n } } } ^ { \mathrm { c a l o n } } + P _ { \mathrm { _ { o n } } } ^ { \mathrm { c a l o f f } } - P _ { \mathrm { _ { o f f } } } ^ { \mathrm { c a l o n } } - P _ { \mathrm { _ { o f f } } } ^ { \mathrm { c a l o f f } } } { P _ { \mathrm { _ { o f f } } } ^ { \mathrm { c a l o n } } + P _ { \mathrm { _ { o f f } } } ^ { \mathrm { { c a l o f f } } } } .
+$$
+
+经过解算，该次观测的 $T _ { \mathrm { s y s } } { = } 2 3 . 7 \mathrm { K }$ ，天线温度结果见图 $4 ( \mathrm { c } )$ ，W3OH甲醇脉泽的强度为2143.5K,观测时天线俯仰为 $5 1 . 7 ^ { \circ }$ ，经过转换等效流量密度为3572.5Jy（Jansky），与文[4-5]符合。
+
+# 3.2 频率校准
+
+频率校准是将观测站的运动修正到本地静止标准（Local Standardof Rest，LSR），在处理时主要包含4项内容：即太阳相对本地静止标准速度的视向分量、地月质心相对太阳速度的视向分量、地心相对地月质心速度的视向分量以及观测站相对地心速度的视向分量。参考紫金山天文台德令哈观测站的部分程序，调用 SLALIB库，编写了这部分程序。在测试中，将处理结果和国际上已发表的结果进行对比，表明结果正确。仍以W3OH观测为例，图5（a)展示了天马望远镜的结果，经过频率校准后，谱线速度以 $- 4 4 \mathrm { k m / s }$ 为中心，约 $4 ~ \mathrm { k m / s }$ 的展宽，纵坐标单位为K。
+
+×1011 X10113.5  
+3.5 Tcal-on 3 Tcal-on3 MWM MWM2.5  
+2.522  
+1.5 1.51  
+0.5 0.50 06580 6 620 6 660 6 700 6 740 6 550 6 600 6650 6700 6 750 6800MHz MHz(a) (b)200016001200K80040006560 6580 6600 6620 6640 6660 66806700 6720 6740 6760MHz(c）
+
+![](images/3ee419601bf8d654247b1d330333045f306d02b27612ec19c4fa2d0d18d565ce.jpg)  
+图4W3OH观测数据。（a）W3OH对准源时的数据；（b）W3OH偏开源时的数据；（c）W30H观测天线温度Fig.4The data of W3OH.（a）the data on the source of $\mathrm { W } 3 \mathrm { O H }$ ；（b）the data off the source of $\mathrm { W } 3 \mathrm { O H }$ ：（c）Antena temperature of W3OH  
+图5W3OH频率校准结果比较。（a）天马望远镜观测结果；（b）参考文献结果；（c)6小时观测的频率校准情况 Fig.5Comparison of frequency calibration for W3OH.（a）Results obtained by Tianma telescope; (b）Results provided by reference；（c）Frequency calibration of observation which lasted for 6 hours
+
+图5(b)为文[5]的结果，两者速度相符合。为了验证频率校准的稳定性，进行6小时的观测，对数据只做频率校准的处理；观测中脉冲星和谱线观测终端选用模式6，对应的速度分辨率为 $0 . 1 3 \mathrm { k m / s }$ ，每小时一个扫描，共6个扫描，见图5（c)，不同的颜色代表不同的扫描；从图中可以看出，6个扫描的谱线轮廓一致，表明在6小时的观测时间里频率校准是稳定的。
+
+图6给出了其他的2次观测结果，图6(a)是W75N的甲醇脉泽，图6(b)是NGC7538甲醇脉泽。谱线的速度和线宽与文[5]相符合。
+
+![](images/40113df1114170d8026a7b9ef50d1c094e659432c65312b449d85893c55946c9.jpg)  
+图6W75N和NGC7538的观测结果。（a）W75N甲醇脉泽频率校准结果；（b）NGC7538甲醇脉泽频率校准结果 Fig.6Observation results of W75N and NGC7538.（a） Frequency calibration results of W75N; (b）Frequency calibration results of NGC7538
+
+# 3.3 MBFITS文件生成
+
+经过流量定标和频率校准后得到的观测数据，再结合天线位置、天线效率、大气不透明度等信息，填写 MBFITS文件。这些文件可以由观测者用GILDAS软件读取和分析。图7显示了读取文件的结果，上半部分显示了头文件信息，包含源名 $\mathrm { W } 3 \mathrm { O H }$ 、线名 $\mathrm { C H 3 O H }$ 、望远镜、观测时间、处理时间、系统噪声温度 $2 3 \mathrm { ~ K ~ }$ 、观测时长$1 . 3 \ \mathrm { m i n }$ 、俯仰 $5 1 . 7 ^ { \circ }$ 、谱线的静止频率、频率分辨率、速度分辨率等信息；在图形部分，纵轴单位为K，有速度和频率两个横轴，其中频率为接收频率。
+
+# 4总结
+
+基于脉冲星和谱线观测终端，开发了观测控制软件和数据校准软件，进行了大量的观测测试，并且和已发表的观测结果进行了对比，证明
+
+![](images/66fb81a6e045b005fbc51e34d7244d744317850864fd7b99a26b0becb5296885.jpg)  
+图7GILDAS读取MBFITS文件结果 Fig.7Results of reading MBFITS files by GILDAS
+
+了这套观测和处理系统的正确性。2015年下半年开始，这套系统已向国内用户开放，成功进行了多次观测。后续将继续开发频率切换（Frequency Switching）的观测模式；研究流量定标的方法，更好地
+
+消除带通影响；针对高频观测，进行大气不透明度的校准，以得到更加准确可靠的观测数据。
+
+# 参考文献：
+
+[1] 王锦清，虞林峰，赵融冰，等.TM $6 5 \mathrm { ~ m ~ }$ 射电望远镜低频段系统噪声温度测试和分析［J]. 天文学报，2015，56(1)：63-76. Wang Jinqing，Yu Linfeng，Zhao Rongbing，et al. Measurements and analysis of system noise temperature of the low-frequency bands for the TM $6 5 \mathrm { m }$ radio telescope ［J].Acta Astronomical Sinica，2015，56(1): 63-76.   
+[2] O'Neil K. Single Dish Calibration Techniques at Radio Wavelengths [C]// NAIC/NRAO School on Single Dish Radio Astronomy，ASP Conference Series. 2001.   
+[3] Winkel B,Kraus A,Bach U. Unbiased flux calibration methods for spectral-line radio observations [J].Astronomy & Astrophysics，2012，540：A140-A163.   
+[4] Menten K M. The discovery of a new，very strong，and widespread interstellar methanol maser line ［J].Astrophysical Journal Letters，1991，380：L75-L78.   
+[5] Vlemmings W H T.A new probe of magnetic fields during high-mass star formation Zeeman splitting of 6.7GHz methanol masers [J]. Astronomy & Astrophysics，2008，484:773-781.   
+[6] 李娟，吴亚军，乔海花，等.TM $6 5 \mathrm { ~ m ~ }$ 望远镜谱线观测系统的频率校准［J]．天文学报， 2015，56(5) : 648-657. Li Juan，Wu Yajun，Qiao Haihua，et al. Frequency calibration of molecular line observing system of the TM65m radio telescope [J]. Acta Astronomical Sinica，2015,56(5） : 648-657.
+
+# Spectral Line Observation and Data Calibration of Tianma 65m Radio Telescope
+
+Wu Yajun $^ { 1 , 2 , 3 }$ ， Liu Qinghui $^ { 1 , 2 }$ ， Li Juan $^ { 1 , 2 }$ ， Zhao Rongbing $^ { 1 , 2 }$ ，Chen Xi $^ { 1 , 2 }$ ， Yuan Jin $^ { 1 , 2 }$ （20 (1.Shanghai Astronomical Observatory,Chinese Academy of Sciences，Shanghai 2Ooo30,China,Email：wuyajun $@$ shao.ac.cn; 2.Key Laboratory of Radio Astronomy，Chinese Academy of Sciences，Shanghai 2Ooo30,China; 3.University of Chinese Academy of Sciences，Beijing 1OoO49,China)
+
+Abstract：To observe spectral line is one of the key targets for Tianma 65m Radio Telescope.Based on the Digital Backend System （DIBAS)—which was jointly designed by National Radio Astronomical Observatory (NRAO）and Shanghai Astronomical Observatory for pulsar and spectral line observation，we have developed a set of observation control software，hardwareas well as software for flux calibration，and we have also designed a frequency calibration program for spectral line observation.Meanwhile，we have tested the observation and datacalibration system.Results prove that this system is highly efective.Moreover，this system has been open to domestic observers since the second half of 2O15.From then on we have obtained considerable results.The first part of this paper introduces in detail the components and functions of DIBAS; the second part shows the working processof the observation control software；combined with observation data, methods offlux calibration and frequency calibration are discussed in the third part；the last part presents our future plans for this system.
+
+Key words：Spectral line observation；Control software for observation；Flux calibration;Frequencycalibration

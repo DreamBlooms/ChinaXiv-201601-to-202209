@@ -1,0 +1,154 @@
+# 基于MCI的新疆近60a干旱时空特征分析
+
+吴秀兰¹，段春锋²，玛依拉·买买提艾力¹，张婧莉¹，张太西‘(1.新疆维吾尔自治区气候中心,新疆 乌鲁木齐830002；2.安徽省气候中心,安徽 合肥 230031)
+
+摘要：利用新疆99个气象站点1961—2020年逐日气象数据,根据最新修订的《气象干旱等级》国标,计算各站点1961—2020年逐日气象干旱综合指数序列(MCI)。利用相关分析、线性趋势、突变检验、EOF等方法,分析了近60 a新疆干旱强度的时空变化特征。结果表明：(1）新疆MCI监测结果与降水距平百分率、干旱灾情记录具有较好的一致性。(2)干旱程度在1987年前后发生突变,1988年以来新疆干旱整体偏轻,春、夏、秋各季节干旱程度均呈显著减弱趋势。空间上以天山为界,基本呈现为北疆重于南疆,牧区重于农区。(3)春季全疆干旱较重,夏季南北疆偏西地区干旱强重,秋季全疆干旱整体较轻。(4)EOF展开的第一模态反映了全区干旱变化的平均状态,第二模态反映出南北疆干旱呈反相位变化的空间分布特征。近60a新疆干旱强度时空变化整体上存在一致性，局域又存在差异性。
+
+关键词：干旱；气象干旱综合指数(MCI)；时空特征；新疆
+
+干旱是指在足够长的时期内，降水量严重不足，致使土壤因蒸发而水分亏损，河川流量减少，破坏了正常的作物生长和人类活动的灾害性天气现象[]。干旱灾害是世界上广为分布的自然灾害，全世界有120多个国家和地区受不同程度的干旱威胁，干旱灾害相较于其他自然灾害，其发生频次更高、持续时间更长、影响范围更广、灾害损失更重，是我国最严重的自然灾害之一[3]。在此情况下，开展干旱时空变化特征的研究,对干旱进行定量的监测评估工作，以达到防御干旱灾害、减小旱灾影响的研究，已成为国内外研究者关注的热点和重点[4-6]新疆地处亚欧大陆中部，水资源短缺，年降水量低于 $2 0 0 \mathrm { m m }$ ,是典型的大陆性温带干旱区。干旱是新疆主要气象灾害之一，也是经济和社会发展的制约因素[7]。在全球变暖和人类活动影响下，新疆的干旱灾害损失呈扩大趋势[8-9]。新疆作为古今丝绸之路的核心地带，同时，由于丝绸之路沿线国家大多存在干旱问题，因此，开展干旱研究不仅对指导新疆农牧业生产、预防区域干旱灾害、降低干旱灾害损失有重大的现实意义，而且对促进社会经济发展和国际合作交流具有重要意义。
+
+干旱问题异常复杂，涉及广泛，气象干旱是一种自然现象，最直观的显现是降水量的减少，而农业、水文和社会经济干旱更关注人类和社会方面。气象干旱是其他3种类型干旱的基础。气象干旱的表征形式很多，干旱指数是干旱定量监测评估的关键手段之一[10-I]。根据世界气象组织统计,目前国际上通用的干旱指数多达50余种，每种干旱指数的适用范围和应用效果都不尽相同[12-13]。王劲松等[14]对K干旱指数在甘肃省干旱监测业务中的应用和检验进行了分析，结果表明 $K$ 指数在该省干旱监测业务中有一定的指导意义和应用前景。谢五三等[15]研究了6种时间尺度SPI在安徽省气象干旱监测中的应用效果,结果表明不同时间尺度SPI在干旱监测中差异明显，因此，在干旱监测业务中应选择适当时间尺度的SPI进行监测评估。胡文峰等基于不同时间尺度标准化降水蒸散发指数(SPEI)对新疆地区近55a的干旱变化特征进行了研究，指出新疆地区该时段降水和气温整体呈波动上升趋势，且主要是以轻度和中等干旱事件为主。刘晓云等[7]基于FrankCopula函数计算了中国南方各地的干旱条件概率与条件重现期的空间分布特征，从而为抗旱减灾及区域水资源规划管理提供科学参考。江远安等[18-19]基于综合气象干旱指数(CI)做了本地适用性分析，发现CI指数适用性较好，并且具有很好的连续性，但也有一些问题，如不合理跳跃、对重度干旱反应不灵敏等问题[20-21]。近年来,经过大量调研和检验后对其算法进行了改进，得出了新的气象干旱综合指数 MCI(Meteorological Drought Composite In-dex)，该指数在新疆的适用性远未普及，同时该指数在新疆干旱时空变化特征方面的研究目前涉足较少。
+
+鉴于此，本研究利用最新发布的国家标准《气象干旱等级》中的MCI法[22],统计新疆地区99个气象站1961—2020年逐日MCI值，建立新疆地区MCI历史数据集，在此基础上，采用相关分析、Mann-Kendall(M-K)趋势检验、经验正交函数EOF(Empiri-calOrthogonalFunction)等方法，研究新疆干旱时间和空间演变特征，揭示其时空演变规律，为新疆气象干旱监测及防灾减灾提供科学参考。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+新疆位于亚欧大陆腹地(图1)，地处中国西北边陲，远离海洋的地理位置和独特的地形地貌形成了新疆大陆性极强的温带干旱气候。新疆年平均降水量约 $1 7 7 . 5 \mathrm { m m }$ ,南疆仅 $6 8 . 5 \mathrm { m m }$ 左右，而年平均蒸发量高达 $1 0 0 0 { \sim } 4 5 0 0 ~ \mathrm { m m }$ 。一年中流入新疆上空的水汽仅有 $1 1 5 4 0 \times 1 0 ^ { 8 } \mathrm { ~ t ~ }$ ，以夏季最多，冬季最少。加上新疆境内陆面蒸发 $2 2 5 7 \times 1 0 ^ { 8 }$ t,新疆上空全年的水汽总量为 $1 3 7 9 7 \times 1 0 ^ { 8 } \mathrm { ~ t ~ }$ ，相当于长江流域的1/5,黄河流域的 $1 / 3$ 。可见,新疆大气中水汽含量严重偏少，加之水汽的成雨(雪)率只有 $1 7 . 6 \%$ ,这就从根本上决定了新疆是降水稀少的干旱地区[23],干旱是新疆气候的基本属性。
+
+# 1.2数据来源
+
+本文所用资料为国家气候中心统一公布的全国2000个站1961—2020年逐日MCI指数，其中新疆为112个站，剔除数据缺失较多的台站后最终选取了新疆地区99个气象台站数据进行分析(图1)。
+
+![](images/be56c16803e8f8fc7529bd217b098fa50081470cdb63801d25fca51d16f9691e.jpg)  
+图1研究区位置及气象台站分布示意图 Fig.1 Altitude and distribution of meteorological stations in the study area
+
+# 1.3分析方法
+
+1.3.1 气象干旱综合指数(MCI)和干旱等级 根据国标《气象干旱等级》计算1961—2020年逐日MCI值：
+
+$\mathrm { M C I { = } K a { \times } ( a S P I W _ { 6 0 } { + } b M I _ { 3 0 } { + } c S P I _ { 9 0 } { + } d S P I _ { 1 5 0 } ) }$ 式中： $\mathrm { S P I W } _ { 6 0 }$ 为近 $6 0 \textup d$ 标准化权重降水指数; $\mathrm { M I } _ { 3 0 }$ 为近30d湿润度指数； $\mathrm { S P I } _ { 9 0 } \mathrm { S P I } _ { 1 5 0 }$ 分别为近90d和150d的标准化降水指数。 $\smash { a \cdot b \cdot c \cdot d }$ 为权重系数，中国北方及西部地区的取值分别为 $0 . 3 \ 、 0 . 5 \ 、 0 . 3$ 和0.2;Ka为季节调节系数，根据新疆气象干旱情况与植物生长特征确定逐月取值，仅考虑4一10月的MCI值，对气象干旱进行监测(表1)，本文的四季划分标准为4—5月为春季，6—8月为夏季，9—10月为秋季。MCI各分量的算法见文献[22」。MCI干旱等级分级情况如表2所示。
+
+根据MCI等级划分标准可以看出，当逐日$\mathrm { M C I } { \leqslant } - 0 . 5$ 时，则确定出现轻旱及以上的干旱，某时段内的干旱强度以该时段内轻旱及以上等级干旱日的MCI累积值来表示，当某时段的MCI累积值越小，干旱强度就越强，反之干旱强度就越弱。
+
+1.3.2 经验正交函数(EOF)分析法经验正交函数(EOF)也称特征向量分析或主成分分析，在气象及气候研究中常被用来分析各种气象要素场[24]。EOF分析方法能够把随时间变化的变量场分解为不随时间变化的空间函数部分以及只依赖时间变化的
+
+# 表1新疆不同月份调节系数Ka取值
+
+Tab.1 Ka values in different months in Xinjiang   
+
+<html><body><table><tr><td>月份</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td>Ka值</td><td>0</td><td>0</td><td>0</td><td>0.6</td><td>1.0</td><td>1.2</td><td>1.2</td><td>1.0</td><td>0.9</td><td>0.4</td><td>0</td><td>0</td></tr></table></body></html>
+
+表2MCI等级划分标准  
+Tab.2 Drought classification standard of MCI   
+
+<html><body><table><tr><td>等级</td><td>类型</td><td>MCI</td></tr><tr><td>1</td><td>无旱</td><td>-0.5<MCI</td></tr><tr><td>2</td><td>轻旱</td><td>-1.0<MCI≤-0.5</td></tr><tr><td>3</td><td>中旱</td><td>-1.5<MCI≤-1.0</td></tr><tr><td>4</td><td>重旱</td><td>-2.0<MCI≤-1.5</td></tr><tr><td>5</td><td>特旱</td><td>MCI≤-2.0</td></tr></table></body></html>
+
+时间函数部分，空间函数部分仅表明场的地域分布特点，而时间函数部分则是由场的空间点的变量线性组合所构成，称为主要分量。该方法可以在不损失原有信息的前提下，提取主要数据的特征量。
+
+1.3.3其他分析方法气象干旱指标变化趋势分析采用一元线性回归进行趋势倾向估计，利用最小二乘法通过99站近60aMCI序列求其线性增长趋势（气候倾向率），时间变化分析采用Mann-Kendall(M-K)检验。干旱强度的空间分布特征利用ArcGIS进行空间分析。
+
+# 2结果与分析
+
+# 2.1MCI的适用性分析
+
+1961—2020年新疆地区历年MCI值与降水距平百分率呈现极显著的相关关系，相关系数为0.874中 $\left( P < 0 . 0 1 \right)$ ,即MCI反映的全疆干旱年份与当年降水量与平均状态的偏离程度基本一致(图2)。降水距平百分率较低的1962年、1967年、1975年、1977年、1985年和1997年对应的年累积干旱强度MCI值分别为 $- 1 2 7 . 2 \ 、 - 8 8 . 7 \ 、 - 1 0 2 . 6 \ 、 - 1 0 5 . 8 \ 、 - 9 6 . 5$ 和-104.7,而降水距平百分率较高的1987年、1993年、1998年、2010年、2015年和2016年对应的MCI分别是$- 1 0 . 2 \ 、 - 8 . 6 \ 、 - 7 . 6 \ 、 - 1 6 . 0 \ 、 - 2 3 . 8$ 和-13.4。
+
+对比干旱历史灾情25与当年MCI累积值的空间分布情况(表3)可知，轻旱及以上的MCI值空间分布和变化与旱情实际发生情况具有较高吻合度，MCI可以较准确地表征新疆干旱灾害发生的范围和强度。
+
+以1997年全疆干旱和2020年北疆严重干旱过程为例，对比分析干旱持续期间MCI和降水量的逐日变化(图3)。分析可知，2次干旱事件的演变都是前期降水持续偏少，MCI值随之逐渐降低，当有较大降水时，MCI又会再次上升。1997年在5月2日全疆平均气象干旱程度接近中旱后，出现较大量级降水时，MCI值开始波动上升。2020年在6月16日北疆平均气象干旱程度接近特旱后，随着冷空气活动增多，北疆经历了阶段性低温，降水开始偏多，MCI值迅速波动上升。由此可知，气象干旱达到中度以上（即 $\left( \leqslant - 1 . 5 \right)$ 后MCI指数对降水的敏感性相对更高。
+
+# 2.2干旱时间变化趋势
+
+由图4a可知，近60a新疆MCI整体呈波动上升趋势，线性趋势呈显著上升趋势，气候倾向率为5.8·$( 1 0 \mathrm { a } ) ^ { - 1 }$ 。此外，通过M-K和累积距平法综合检验得出，MCI值在1987年发生突变，即以1987年为界，可以将新疆的干旱分为2段时期，1961—1987年MCI呈现较明显的起伏波动，MCI值较小，表明这一时期
+
+![](images/a4ad584ab7d85d69b58be3f1f2ece4985639df3d5c0edf2bf4c22d77332a2748.jpg)  
+图21961—2020年新疆降水距平百分率和MCI的年变化对比
+
+Fig.2 Comparison of annual variation of precipitation anomaly percentage and MCI in Xinjiang from 1961 to 202
+
+# 表3记录的干旱灾情与MCI监测结果对比
+
+Tab.3Comparison of drought disaster records and MCI monitoring results   
+
+<html><body><table><tr><td>年份</td><td>干旱灾情描述</td><td>年累积干旱强度MCI空间分布</td></tr><tr><td></td><td>1994北疆部分地区和南疆干旱,特别是南疆哈密、阿克苏、巴州、喀什、和田等地降水稀 MCI<-100的低值区集中在南疆的喀什、克 少,河流来水量及水库储水量较历年同期偏少50%~70%。致使农作物受旱面积州、和田、巴州及北疆的伊犁局地、塔城北 6.91×10hm²,绝收0.82×10hm²。</td><td>部，最低值为-327.4,在克州的阿图什市。</td></tr><tr><td>1995</td><td>北疆和南疆部分地区干旱。北疆大部积雪较常年偏少40%~60%,1—6月降水持续 MCI<-100的低值区在伊犁州、博州、塔城 偏少,全疆受旱面积达4.4x10'hm2,草场受旱达1.07×10hm2。伊犁地区农作物受灾和乌鲁木齐等地，最低值为-305.5,出现在 面积5.87x10hm,夏粮绝收1×10hm;博州干旱持续50多天,农作物受旱面积占总 伊宁县。 播种面积的76.5%。</td><td></td></tr><tr><td>1996</td><td>夏季,北疆阿勒泰地区、克拉玛依市干旱。哈巴河县小麦受灾240 hm,减产2.16× MCI<-50的低值区位于塔城、阿勒泰、博 10;布尔津县0.22×10hm旱地绝收，水地受旱973.33hm，绝收113.33 hm²。</td><td>州、石河子市、吐鲁番和哈密市，塔城市最 低，为-184.0。</td></tr><tr><td>1997</td><td>全疆干旱。范围涉及到阿勒泰、塔城、博州、伊犁、昌吉、乌鲁木齐、哈密、巴州、喀什、MCI<-100的低值区基本覆盖了北疆全境 克州、和田等11个地州60多个县(市),受灾范围之广、持续时间之长为多年来罕及南疆的喀什、克州、和田和哈密,最低值 见。4—10月上述地州降水量远低于常年同期水平,农作物受旱面积2.52×10hm，-342.0,为塔城的托里县。 成灾24.62×10hm，绝收7.13×10hm²。草场受旱面积约1.47×10 hm²。</td><td></td></tr><tr><td>1998</td><td>南疆干旱。巴州、阿克苏、喀什、克州、和田等地自1997年7月以来大部时间无降 MCI<-50的低值区主要位于和田地区和 水。尤其和田地区冬春草场旱情严重，全地区约53.33×10"hm2牧草基本干枯,牲畜巴音布鲁克，最低值-131.2,为和田地区的 大量死亡。</td><td>安德河。</td></tr></table></body></html>
+
+![](images/61e658a394ad936f233d373511315b8bd3ff18f56fe9f27d05deb836a29b557a.jpg)  
+图31997年4—10月新疆(a)和2020年4—10月北疆(b)MCI与降水量逐日变化 Fig.3Daily variation of MCI and precipitation in Xinjiang from April to October 1997 (a) and Northern Xinjiang from April to October 2020 (b)
+
+新疆整体为相对干旱时期。1988年至今MCI一直呈加剧上升趋势，表明这一时期新疆干旱整体偏轻。新疆干旱强度年际波动较大，MCI年平均值介于-136.7\~-16.4之间，1962年最小，1998年最大。
+
+对新疆春、夏、秋季干旱强度的时间变化进行分析可知，近60a新疆各季节MCI指数均呈波动上升趋势，且上升趋势显著，气候倾向率分别为1.4·$( 1 0 \mathrm { a } ) ^ { - 1 } \cdot 2 . 7 \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \cdot 1 . 0 \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 。新疆春季(图4b)MCI均值为 $- 4 2 . 2 \substack { \sim } - 7 . 2 , 1 9 9 1$ 年最小，1987年最大，春季MCI无明显突变点；夏季(图4c)MCI均值为 $- 8 8 . 0 \sim$ -12.6,1974年最小，1993年最大， $U B , U F$ 曲线在1983年相交，并于2004年通过0.05水平的临界线，即夏季干旱强度减弱的突变达到显著，2006—2009年 $U F$ 曲线有小幅下降，夏季干旱在该阶段有所加强，2009年之后干旱趋势继续减弱，2017年再次呈加强趋势;秋季(图4d)MCI均值为 $- 3 4 . 7 \mathrm { \sim } 6 . 8 , 1 9 9 7$ 年最小，2009年最大，并在1986年发生突变后UF曲线持续上升，2003年通过0.05水平的临界线，即在该年份秋季干旱强度减弱的突变达到显著，自2016年干旱强度又开始呈增加趋势
+
+# 2.3干旱空间变化特征
+
+新疆各站点年均MCI值介于-91.6\~-25.0之间，伊犁州霍尔果斯最小，巴州南部的若羌最大（图5a)。空间差异明显，旱情山区较重，平原较轻。伊犁河谷和博州西部MCI年均值均小于-65，伊犁河谷东部、塔城、阿勒泰南部、昌吉州西部和乌鲁木齐的MCI年均值为-65\~-55,阿勒泰北部、昌吉州东部、阿克苏东部和巴州北部等地的MCI年均值为$- 5 5 \mathrm { \sim } - 4 5$ ,东疆和南疆大部地区MCI年均值大于$- 4 5$ 。新疆年干旱强度基本呈现北疆重于南疆，牧区重于农区。
+
+![](images/a66db16aae51d4270a219adb7a5cf08f7618f3230b31f1b0dd95be32f85eca8f.jpg)  
+图41961—2020年新疆年(a)、春(b)、夏(c)秋(d)干旱强度的年际变化和突变检验Fig.4 Interannual variation and mutation test of drought intensity in year(a),spring (b),summer (c)andautumn (d) from 1961 to 2020 of Xinjiang
+
+![](images/20a766fd8faf5b317d95242d41160b7ceeb62388678e75fd9456f3beaf021f30.jpg)  
+图51961—2020年新疆年(a)春(b)夏(c)秋(d)干旱强度的空间分布  
+Fig.5Spatial distribution characteristics of drought intensity in year (a),spring (b),summer(c) and autumn (d) from 1961 to 2020 of Xinjiang
+
+新疆春季各站点年均MCI值介于-30.7\~-1.2之间，伊犁州的伊宁县最小，和田东部的安德河最大(图5b)。易出现全疆一致干旱，北疆、天山山区和南疆西部部分地区为干旱较重地区，南疆大部地区和东疆地区MCI年均值大于-17，干旱程度相对较轻。夏季全疆MCI年均值介于 $- 7 0 . 5 \mathrm { \sim } - 2 6 . 5$ 之间(图5c)，空间差异显著，表现为南北疆偏西地区干旱强度较大,偏东地区较小。秋季全疆MCI年均值介于 $- 3 2 . 3 \mathrm { \sim } - 1 1 . 8$ （图5d)，干旱总体偏弱。
+
+新疆春季温度上升快，空气干燥，风多且大，蒸发强烈，土壤失熵很快。春季降水少、变率大，各月平均降水量均小于 $5 0 ~ \mathrm { m m }$ ，降水量远低于蒸发量。而西太平洋副热带高压偏南，湿润气流几经凝结，到达新疆上空时已所剩无几。南亚的印度洋西南气流被巨大的青藏高原阻挡，只有很少一部分进入南疆地区。北方气流经过西伯利亚和蒙古翻越阿尔泰山后，有下沉作用，不能形成较大降水。因此，春季易出现干旱现象。夏季，新疆上空大气环流高层为南亚高压双体型、中亚副热带长波槽和副热带西风急流偏南，中层为伊朗副高东伸北挺和西太副高西伸北抬，两高压之间为中亚低值系统,这种高、低空的大尺度环流系统的配置造成新疆夏季降水增多[26],但由于地形影响,降水分布极不均匀,天山山区、天山南北麓为夏季降水大值区，干旱较轻，高空副热带急流稳定在天山山区上空不再北上，导致北疆西部、北部干旱强度相对偏重。秋季随着副热带急流南撤致高原上空，从西南向东北越过，云区多出现在高原东部，因此，新疆降水逐渐减少、气温下降，但此时牧草枯黄，农作物收获完成，干旱对农牧业影响较小，因此秋季新疆干旱整体偏轻。
+
+# 2.4新疆干旱时空综合特征分析
+
+为进一步了解新疆干旱的空间分布特征，对全疆99站逐年MCI值作经验正交函数(EOF)展开。分析结果表明，前2个特征向量为主要分量，方差贡献率较大，分别为 $3 4 . 8 \% , 1 5 . 1 \%$ ，累积贡献方差率$4 9 . 9 \%$ 。第3特征向量以后各特征向量方差贡献率均较小，可以不予考虑。EOF分解的第一特征向量值(图6a)在全疆地区均为正值，代表全疆干旱的一致变化，即全疆干旱强度普遍较强或较轻。但这种变化的强烈程度在不同区域存在差异，北疆西部和天山北坡各地为主要大值区，即为第一模态主要控制区。从第一模态所对应的时间系数(6c)可以看出，1961一1986年期间时间系数以负值居多，表明该时期新疆普遍出现较重的干旱，且1962年、1997年系数最低,全区出现严重干旱。在1987年以后时间系数以正值偏多，表明这一时期新疆干旱程度整体较轻。由此可见，第一特征向量的时空分析结果与图4a中体现的干旱强度年际变化特征相一致，分析第一特征向量时间系数与MCI时间序列的线性关系，得到的相关系数高达0.93，这也表明了第一特征向量实际上反映了全疆干旱强度变化的平均状态。
+
+![](images/a567b4ada0372bda635ec1091f6b71684ed8415fa27671d72af81de59c187bcf.jpg)  
+图61961—2020年新疆年干旱强度EOF展开前2个空间模态分布(a,b)和时间系数变化(c,d) Fig.6The first two spatial modal distribution (a,b)and the time coefficient variation diagram (c,d) of Xinjiang's annual drought intensity EOF from1961 to 2020
+
+第二特征向量(图6b)与第一特征向量存在显著差异，北疆地区特征向量值为正，南疆地区为负，反映了南北疆相反的干旱强度空间分布特征。由图6d可知，1961—2020年间时间系数呈正负波动变化，反映在空间上则表现为南北疆交替出现较重和较轻干旱，在1974年时间系数最小，准确反映出了1974年北疆严重干旱事件，而且南北疆存在较大差异。据历史灾情记录，1974年新疆尤其是北疆的阿勒泰地区、塔城地区、伊犁河谷、博州、昌吉州、乌鲁木齐市等地大旱，全区农作物受旱面积近 $2 . 2 \times 1 0 ^ { 5 }$ hm²,粮食减产约5×10kg。
+
+# 3结论
+
+（1）1961—2020年新疆地区历年MCI监测值与降水距平百分率、《中国气象灾害大典(新疆卷)》中记载的干旱灾情的发生区域和旱情程度具有较高的一致性。MCI指数在气象干旱达到中度以上后对降水的敏感性相对更高，在十旱发展过程中出现的异常跳变现象较少，在新疆具有较好的适用性。
+
+(2）近60a新疆地区干旱程度减轻趋势显著。1987年以前新疆整体为相对更干旱时期，1988年至今新疆干旱整体偏轻。春、夏、秋各季节MCI指数上升趋势显著，表明干旱强度均呈减轻趋势：春季MCI无明显突变点；夏季干旱强度在1983年发生突变，并于2004年减弱突变达到显著，2006—2009年夏季干旱有所加强，2009年之后干旱趋势继续减弱，2017年以来再次转为加强趋势；秋季在1986年发生突变后 $U F$ 曲线持续上升，2003年干旱强度减弱的突变达到显著，自2016年干旱强度又开始呈增加趋势。
+
+(3）新疆干旱强度变化空间差异明显，山区较重、平原较轻，牧区较重、农区较轻，年干旱强度基本呈现北疆重于南疆。春季易出现全疆一致干旱，北疆、天山山区和南疆西部等地为干旱较重地区，南疆大部和东疆地区干旱程度相对较轻。新疆夏季干旱空间差异加大，表现为南北疆偏西地区干旱强度较大,偏东地区较小。秋季全疆干旱整体偏弱。
+
+(4）通过EOF展开分析新疆干旱强度主要分为全区一致干旱型和南北疆相反型2种模态。EOF展开的第一模态特征向量值在全疆地区均为正值，表明新疆干旱变化的空间分布具有较好的一致性，即全疆干旱强度普遍较强或较轻。但这种变化特征的强烈程度在不同区域存在差异，北疆西部和天山北坡地区的特征值较大，表明是第一模态主要控制区。第二模态空间分布特征表现为以天山山脉为界，北疆地区特征向量值为正，南疆地区为负，反映了南北疆干旱强度呈现反相位变化的空间分布特征。
+
+# 参考文献(References):
+
+[1]王劲松,李耀辉,王润元,等.我国气象干旱研究进展评述[J].干 旱气象,2012,30(4): 497-508.[Wang Jinsong,Li Yaohui,Wang Runyuan,et al.Preliminary analysis on the demand and review of progress in the field of meteorological drought research[J]. Journal of Arid Meteorology,2012,30(4): 497-508.]   
+[2]张书余.干旱气象学[M].北京:气象出版社,2008:8-11.[Zhang Shuyu.Drought Meteorology[M]. Beijing: Meteorological Press,2008: 8-11.]   
+[3] 廖要明,张存杰.基于MCI的中国干旱时空分布及灾情变化特 征[J].气象,2017,43(11): 1402-1409.[Liao Yaoming, Zhang Cunjie.Spatio-temporal distribution characteristics and disaster change of drought in China based on meteorological drought composite index [J]. Meteorological Monthly,2017,43(11): 1402-1409.]   
+[4] Vicente-Serrano S M, Gouveia, Camarero J,et al.Response of vegetation to drought time-scales across global land biomes[J].Proceedings of the National Academy of Sciences,2013,110(1) : 52-57.   
+[5] 王有恒,张存杰,段居琦,等.中国北方春玉米干旱灾害风险评 估[J].干旱地区农业研究,2018,36(2):257-264,272.[Wang Youheng, Zhang Cunjie,Duan Juqi,et al. Risk assessment of spring maize drought disaster in Northern China[J]. Agricultural Research in the Arid Areas,2018,36(2): 257-264,272.]   
+[6] 冉津江,季明霞,黄建平,等.中国北方干旱区和半干旱区近60 年气候变化特征及成因分析[J].兰州大学学报(自然科学版), 2014,50(1): 46-53.[Ran Jinjiang,Ji Mingxia, Huang Jianping,et al. Characteristics and factors of climate change in arid and semi-arid areas over Northern China in the recent 6O years[J].Journal of Lanzhou University (Natural Sciences Edition),2014,50(1):46-53.]   
+[7]高瑜莲,柳锦宝,柳维扬,等.近14a新疆南疆绿洲地区地表蒸 散与干旱的时空变化特征研究[J].干旱区地理,2019,42(4): 830-837.[Gao Yulian,Liu Jinbao,Liu Weiyang,et al.Spatio-temporal variation characteristics of surface evapotranspiration and drought at the oasis area of the southern Xinjiang in recent 14 years[J]. Arid Land Geography,2019,42(4): 830-837.]   
+[8]黄静,张运,汪明秀,等.近17年新疆干旱时空分布特征及影响 因素[J].生态学报,2020,40(3):1077-1088.[Huang Jing, Zhang Yun,Wang Mingxiu,et al.Spatial and temporal distribution characteristics of drought and its relationship with meteorological factors in Xinjiang inlast17 years[J]. Acta Ecologica Sinica,2020,40 (3): 1077-1088.]   
+[9]轩俊伟,郑江华,刘志辉.基于SPEI的新疆干旱时空变化特征 [J].干旱区研究,2016,33(2):338-344.[Xuan Junwei, Zheng Jianghua, Liu Zhihui. SPEI-based spatiotemporal variationof drought in Xinjiang[J].Arid Zone Research,2016,33(2): 338-344.]   
+[10] 王素萍,王劲松,张强,等.几种干旱指标对西南和华南区域月 尺度干旱监测的适用性评价[J].高原气象,2015,34(6):1616- 1624.[Wang Suping,Wang Jinsong, Zhang Qiang, et al. Applicability evaluation of drought indices in monthlyscale drought monitoring in southwestern and southern China[J].Plateau Meteorology,2015,34(6): 1616-1624.]   
+[11]杨小利.西北地区气象干旱监测指数的研究和应用[J].气象, 2007,33(8): 90-96.[Yang Xiaoli. Research and application of meteorological drought monitoring indexes in Northwest China[J]. Meteorological Monthly,2007,33(8): 90-96.]   
+[12] 李红梅,李林,李万志.气象干旱监测指标在青海高原的适用性 分析[J].干旱区研究,2018,35(1): 114-121.[Li Hongmei,Li Lin, Li Wanzhi.Applicability of meteorological drought indices in drought monitoring in the Qinghai Plateau[J].Arid Zone Research, 2018, 35(1): 114-121.]   
+[13] 黄晚华,杨晓光,李茂松,等.基于标准化降水指数的中国南方 季节性干旱近58 a演变特征[J].农业工程学报,2010,26(7): 50-59.[HuangWanhua,Yang Xiaoguang,Li Maosong,etal.Evolution characteristics of seasonal drought in the south of China during the past 58 years based on standardized precipitation index[J]. Transactions of the CSAE,2010,26(7): 50-59.]   
+[14] 王劲松,任余龙,宋秀玲.K干旱指数在甘肃省干旱监测业务中 的应用[J].干旱气象,2008,26(4):75-79.[Wang Jinsong,Ren Yulong,Song Xiuling.Application of K index for drought monitor operationin Gansu Province[J].Journal of Arid Meteorology, 2008,26(4): 75-79.]   
+[15] 谢五三,唐为安,宋阿伟.多时间尺度SPI在安徽省气象干旱监 测中的适用性研究[J].气象,2019,45(11):1560-1568.[Xie Wusan,Tang Wei'an,Song Awei.Applicability study of SPI in multiple time scales in meterological drought monitoring in Anhui Provice[J]. Meteorological Monthly,2019,45(11): 1560-1568.]   
+[16] 胡文峰,陈玲玲,姚俊强,等.近55年来新疆多时间尺度干旱格 局演变特征[J].人民珠江,2019,40(11):1-9,27.[Hu Wenfeng, Chen Lingling,Yao Junqiang,et al. Evolution characteristics of drought patterns at multiple timescales in Xinjiang for last 55 years[J]. Pearl River,2019,40(11): 1-9,27.]   
+[17] 刘晓云,王劲松,李耀辉,等.基于Copula 函数的中国南方干旱 风险特征研究[J].气象学报,2015,73(6):1080-1091.[Liu Xiaoyun,Wang Jinsong,Li Yaohui,etal. Characteristtics of drought risk in southern China based on the Copula function[J].Acta Meteorologica Sinica,2015,73(6): 1080-1091.]   
+[18] 江远安,赵逸舟,陈颖,等.干旱指数CI的确定及其在新疆的应 用[J].沙漠与绿洲气象,2010,4(2):18-20.[Jiang Yuanan, Zhao Yizhou, Chen Ying,et al. Composite drought index CI and its application in Xinjiang[J]. Desert and Oasis Meteorology,2010,4(2): 18-20.]   
+[19] 米红波,谭桂容,彭洁,等.基于CI指数的湘西自治州干旱变化 特征[J].干旱气象,2016,34(2):223-233.[Mi Hongbo,Tan Guirong,Peng Jie,et al.Analysis on drought characteristics in Xiangxi Autonomous Prefecture of Hu'nan based on the CI index [J]. Journal of Arid Meteorology,2016,34(2): 223-233.]   
+[20] 曲学斌,姚振东.呼伦贝尔市新旧综合气象干旱指数应用对比 [J].气象科技,2016,44(2): 325-330.[Qu Xuebin,Yao Zhendong. Application of CI and MCI indexes in HuLunbuir[J]. Meteorological Science and Technology,2016,44(2): 325-330.]   
+[21] 王春学,张顺谦,陈文秀,等.气象干旱综合指数MCI在四川省 的适用性分析及修订[J].中国农学通报,2019,35(9):115-121. [Wang Chunxue, Zhang Shunqian, Chen Wenxiu,et al. Applicability and revision of MCI in Sichuan province[J]. Chinese Agricultural Science Bulletin,2019,35(9): 115-121.]   
+[22] 张存杰,刘海波,宋艳玲,等.气象干旱等级(GB/T 20481-2017) [S].北京：中国标准出版社,2017.[Zhang Cunjie,Liu Haibo, Song Yanling, et al. Greads of Meteorological (GB/T 20481-2017) Drought[S]. Beijing: Standards Pressof China,2017.]   
+[23]张学文,张家宝.新疆气象手册[M].北京:气象出版社,2006. [Zhang Xuewen,Zhang Jiabao.Xinjiang Meteorological Manual [M]. Beijing: Meteorological Press,2006.]   
+[24] 魏凤英.现代气候统计诊断与预测技术[M].第2版.北京：气象 出版社,2OO7.[Wei Fengying. Modern Climate Statistical Diagnosis and Prediction Technology[M].2nd Ed.Beijing: Meteorological Press, 2007.]   
+[25] 温克刚.中国气象灾害大典·新疆卷[M].北京:气象出版社, 2006.[Wen Kegang. China Meteorological Disasters Xinjiang Volume[M]. Beijing: Meteorological Press,2006.]   
+[26] 杨莲梅,李霞,张广兴.新疆夏季强降水研究若干进展及问题 [J].气候与环境研究,2011,16(2):188-198.[Yang Lianmei, Li Xia, Zhang Guangxing. Some advances and problems in the study of heavy rain in Xinjiang[J].Climatic and Environmental Research, 2011,16(2): 188-198.]
+
+# Analysis of the temporal-spatial variation characteristics of drought in the Xinjiang based on the meteorological drought comprehensive index
+
+WU Xiulan'，DUAN Chunfeng²， Mayila Maimaitiaili'， ZHANG Jingli'， ZHANG Taixi'(1. Xinjiang Climate Center, Urumqi 83ooO2, Xinjiang, China;2.Anhui Climate Center,Hefei 230031,Anhui, China)
+
+Abstract: According to the national standard of meteorological drought grade revised in 2017,the daily meteorological drought comprehensive index (MCI) of meteorological stations was calculated based on the daily meteorological data of 99 stations in Xinjang from1961 to 2020.The temporal and spatial characteristics of drought intensity in Xinjiang over the last 6O years were analyzed using correlation analysis,linear trend analysis, mutation tests,and empirical orthogonal function (EOF).The MCI monitoring results were in good agreement with precipitation anomaly percentages and drought disaster records in Xinjiang. The degree of drought changed abruptlyaround 1987.From 1988,the degreeof drought was generally lower.Furthermore, the degree of drought in spring,summer,and autumn showed a significant weakening trend. Taking Tianshan Mountain as the boundary, northern Xinjiang was drier than southern Xinjiang and the pastoral area was drier than the agricultural area.The drought was severe in spring, it was severe in the west of North and South Xinjang in summer, but it was generally lighter in autumn.The first mock exam of EOF expansion reflected the average state of drought change in the whole region.The second mode reflected the opposite trend of drought in North and South Xinjiang.In the last 6O years,the spatial and temporal variation of drought intensity in Xinjiang was generally consistent but differed among local areas.
+
+Keywords: drought; MCI; temporal and spatial changes; Xinjiang

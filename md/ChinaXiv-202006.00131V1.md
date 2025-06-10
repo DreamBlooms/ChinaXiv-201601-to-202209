@@ -1,0 +1,198 @@
+# 聚乳酸（PLA)沙障凹曲面及沉积物粒度特征研究
+
+王艺钊'²，原伟杰’，丁国栋³,4，虞毅²，高广磊3,4，章尧想，王陇3,4
+
+（1中国林业科学研究院华北林业实验中心,北京102300；2国际竹藤中心,北京100102;3北京林业大学水土保持学院,水土保持国家林业局重点实验室,北京100083；4宁夏盐池毛乌素沙地生态系统国家定位观测研究站,宁夏盐池751500)
+
+摘要：在乌兰布和沙漠平坦沙地布设 $1 \ \mathrm { m } \times 1 \ \mathrm { m } \ . 1 . 5 \ \mathrm { m } \times 1 . 5 \ \mathrm { m }$ 和 $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 规格的聚乳酸(PLA)沙袋格状沙障,在风季后利用插钎法和激光衍射法分别测量障格内部凹曲面形态、测定表面0\~3cm沉积物粒度组成,分析不同规格沙障内部凹曲面形态特征、蚀积效应，计算平均粒径、标准偏差等粒度参数。结果表明：3种规格PLA沙障内部均能发育成稳定凹曲面，凹曲面深度随着规格的增大而逐渐增加，蚀积系数则逐渐减小，保持在 $1 / 1 2 \sim 1 / 1 0$ 之间；障格内不同方位蚀积剖面曲线基本符合二次函数，但蚀积强度差异较大； $1 \mathrm { ~ m ~ } { \times } 1 \mathrm { ~ m ~ }$ 和 $1 . 5 \mathrm { ~ m ~ } \times 1 . 5 \mathrm { ~ m ~ }$ 规格沙障处于堆积状态，堆积强度分别是侵蚀强度的50.1倍和5.6倍，易发生沙埋； $2 { \mathrm { ~ m ~ } } { \times } 2 { \mathrm { ~ m ~ } }$ 规格障内单位体积蚀积量为0.02$\mathbf { g } \cdot \mathbf { c m } ^ { - 3 }$ ,接近蚀积平衡状态,有利于长期发挥沙障防护效益;各规格障内沉积物均以极细沙和细沙为主，除 $1 \mathrm { ~ m ~ } { \times } 1 \mathrm { ~ m ~ }$ 规格外，PLA沙障的阻滞作用使得极细颗粒含量百分比迅速下降。综合考虑沙障铺设成本和防护效果，得出在平坦沙地或者弱风区域内适合布设 $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 规格PLA沙障，研究结果可为PLA沙障在防沙工程中的合理应用提供科学参考。
+
+关键词： 聚乳酸(PLA)沙障；不同规格；凹曲面；粒度特征；乌兰布和沙漠
+
+# 文章编号：
+
+机械沙障是防沙治沙工程中的重要措施[1],因其材料，规格不同，种类也是多种多样，在生产实践过程中以草方格沙障和黏土沙障等天然材料较为常见[2]。然而这些天然材料沙障在应用实践中普遍存在材料区域性匮乏、有效使用时间短、运输施工不便、人力物力成本高等缺点。为改善这一问题现状，借助现代高分子材料科技的迅猛发展，很多学者做了先期的探索研究,由中国学者虞毅[3]发明的聚乳酸沙袋沙障便是其中影响较为广泛、具有代表性的一种。
+
+生物降解聚乳酸（PolylacticAcid,简称PLA）沙障，是以植物淀粉为原料经缩聚、熔融、纺丝、织制而成的袋状沙障外体，通过充填就地取材的沙土制作而成的一种新型绿色沙袋沙障，充分发挥了“以沙治沙”的技术优势。在自然界中能够完全生物降解、不会对环境造成任何污染[4],具有材料来源充足、施工运输便利、防风固沙效益好等优点。
+
+各位学者在PLA 沙障的防风效能[5]、生态效益[6]、设置方式[7]及降解老化性能[ 能[4,8]等方面做了详细地研究，发现PLA沙障防风效益与麦草沙障相当，风速廓线呈“S”型曲线特征，对生态恢复起到促进作用[9-1I]。但对于沙障作用下障内蚀积特征、凹曲面特性、粒度特征等变化的研究相对较少且不够深入。沙障的凹曲面特征能够直观反映出沙障格内的微地形稳定性，可以间接分析研究沙障的高度、间距、坡面角度[2]及衡量沙障障格内部的蚀积状况,探究沙障作用下风速流场的分布规律，可为沙障的优化配置提供依据；而沉积物粒度特征可以反映出沙障对外来沙源的阻滞作用，可以有效指示环境特征及其变化[12-14]，是近地表流场变化的外在表征[15]。马学喜等[16]在不同立地条件下对草方格沙障以及尼龙网沙障进行了对比研究，发现草方格沙障对不同地形的适应性较强，而固沙网沙障适合在平坦地貌区布设。目前PLA沙障主要集中布设在沙垄上，在其他立地条件下布设及研究较少，应用范围不够广泛，所以在其他地形区域内PLA沙障防沙效果及规格选取值得深入探究。
+
+因此，本研究从沙障作用下障格内部凹曲面及沉积物粒度特征入手，试图通过分析不同规格PLA沙障内部凹曲面形态特征、蚀积效应，计算平均粒径、标准偏差等粒度参数,深入探究在平坦沙地上PLA沙障对凹曲面及沉积物粒度特征的影响，从而为PLA沙障在防沙治沙工程中的合理应用提供科学参考。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+研究区位于阿拉善左旗巴彦木仁苏木境内，地理坐标在 $1 0 6 ^ { \circ } 3 3 ^ { \prime } 5 4 . \ 9 ^ { \prime \prime } \sim 1 0 6 ^ { \circ } 5 1 ^ { \prime } 2 4 . \ 9 ^ { \prime \prime } \ \mathrm { ~ E ~ } , 3 9 ^ { \circ } 4 0$ $0 2 . 8 ^ { \prime \prime } \sim 4 0 ^ { \circ } 1 3 ^ { \prime } 4 0 . 5 ^ { \prime \prime } \mathrm { ~ N ~ }$ 之间,地处乌兰布和沙漠东缘,东临黄河，北临库布齐沙漠，南靠毛乌素沙地。研究区属于典型温带大陆性气候，年降雨量 $1 5 0 \sim$ $2 2 0 ~ \mathrm { m m }$ ,年蒸发量 $2 ~ 9 0 0 \sim 3 ~ 3 0 0 ~ \mathrm { m m }$ 。该地区常年大风,年平均风速为 $3 . 4 6 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,最大风速为24.1$\mathbf { m } \cdot \mathbf { s } ^ { - 1 }$ ,无霜期 $1 6 0 \mathrm { ~ d ~ }$ 。主害风为西风（图1）,次主害风为南风。土壤主要分为风沙土、砂砾土、壤土3类。研究区大部分属于草原化荒漠亚带，境内生态环境多样,优势植被为梭梭（Haloxylonpersicum）、沙拐枣（Calligonummongolicum）、沙冬青（Ammopiptan
+
+N 风速 $/ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$   
+40 NNW NNE ≥12   
+353025 10\~12 NW NE 8\~10 6\~8   
+20 米   
+15 ENE   
+10   
+5   
+0 E   
+5   
+10   
+15   
+20 ESE   
+25303540 SE SSE S
+
+thusmongolicus）沙米（Agriophllum squrrosum）芦苇(Phragmitesaustralis）等荒漠植被。
+
+# 1.2 研究方法
+
+1.2.1沙障布设与 $\Cup$ 曲面监测2018年5月，在平坦沙地上选取长 $6 0 \mathrm { ~ m ~ }$ 、宽 $3 0 \mathrm { ~ m ~ }$ 的实验区，布设不同规格 $( 1 \ \mathrm { m } \times 1 \ \mathrm { m } \times 1 . 5 \ \mathrm { m } \times 1 . 5 \ \mathrm { m } \cdot 2 \ \mathrm { m } \times 2 \ \mathrm { m } )$ 的格状沙障,布设后障体高度为 $6 \sim 8 ~ \mathrm { c m }$ ,宽度为7\~9cm（图2）。待沙障凹曲面形态稳定后，对PLA沙障的蚀积状态以及凹曲面特征进行测量和分析。在不同规格的PLA沙障中随机选取3个实验障格，以障格西北角为起点，相邻两边为X轴和Y轴，将其10等分，等距布设11个点，共设置121个观测点，使用$4 0 \ \mathrm { c m }$ 长的竹签插在测点上，露高 $1 0 \ \mathrm { c m }$ 。用测钎法测量风季过后的地表蚀积状况，每个规格做3次重复实验,取平均值以减小误差[8,17]
+
+![](images/c8036f5ea38753e7c32671771c26e8657364fbfe72ca725132d2a0dc7ffce3b4.jpg)  
+图1巴彦木仁苏木风向玫瑰图 Fig.1Wind direction rose in Bayanmuren   
+图2PLA 沙障布设示意图  
+Fig.2The diagram of PLA sand barrier
+
+1.2.2样品采集与粒径测定对照裸沙地,在形成稳定凹曲面的不同规格沙障中随机选取3个障格，每个障格等分为9个正方形区域，采集区域内表层中 $\mathrm { ( 0 \sim 3 ~ c m ) }$ 土样。利用英国马尔文公司Mastersizer2000 型激光粒度分析仪测定沉积物粒度组成，分析结果以美国制土壤粒径标准输出[18] 。
+
+1.2.3沉积物粒度参数计算Folk等[19]依据Krumbein的对数转化公式 $\Phi = \log _ { 2 } d$ ,将沉积物粒度真值转化为 $\phi$ 值,式中 $d$ 为沙粒粒径 $( \mathbf { m } \mathbf { m } )$ 。基于Krumbein和Folk提出的粒度参数计算公式,计算平均粒径、标准偏差、偏度值、峰度等粒度参数。
+
+1.2.4沙障间蚀积特征计算沙障间蚀积系数 $k$ 是指凹曲面中部最大深度 $r _ { \operatorname* { m a x } }$ 与沙障间距 $L$ （即相邻两条平行沙障之间的距离)之比，即： $k = \frac { r _ { \operatorname* { m a x } } } { L }$ 。
+
+蚀积强度 $Q$ 是指堆积量/侵蚀量 $W$ 与规格面积$s$ 之比,即: $Q = \frac { w } { s }$
+
+单位体积蚀积量是指侵蚀量与蚀积量的差值与
+
+规格体积之比。
+
+# 1.3 数据处理
+
+用IBMSPSSStatistic21软件对研究区不同类型沙丘沉积物粒度组成和粒度参数进行单因素方差分析（One-wayANOVO），采用最小显著差异法(LSD)进行差异显著性检验，置信区间为 $9 5 \%$ 。
+
+数据处理采用软件surfer13，利用克里金差值法进行空间插值绘制沙障内积沙高度三维平面图。
+
+# 2 结果与分析
+
+# 2.1 不同规格PLA沙障凹曲面特征
+
+2.1.1 PLA沙障 $\Cup$ 曲面形态特征不同规格PLA沙障的凹曲面形态特征如图3所示。由图3可以看出，3种沙障均能形成稳定凹曲面，障体四周边缘存在不同程度的积沙。障格整体呈现中间低四周高的形态。 $1 \mathrm { ~ m ~ } \times 1 \mathrm { ~ m ~ }$ 和 $1 . 5 \mathrm { ~ m ~ } \times 1 . 5 \mathrm { ~ m ~ }$ 沙障以积沙为主，且边缘较为平整，而 $2 { \mathrm { ~ m ~ } } { \times } 2 { \mathrm { ~ m ~ } }$ 沙障侵蚀与堆积现象都较为明显。随沙障规格增大，凹曲面深度越深,最深可达 $1 6 . 4 ~ \mathrm { c m }$ 。
+
+2.1.2 PLA 沙障障内蚀积特征PLA 沙障内蚀积特征如表1所示。由表1可知，随障格增大，PLA沙障格内侵蚀面积从 $14 \%$ 到 $5 1 \%$ ,逐渐增大;凹曲面深度分别为 $1 0 . 3 \ \mathrm { c m } \ . 1 2 . 6 \ \mathrm { c m }$ 和 $1 6 . 4 ~ \mathrm { c m }$ ,随着规格增大逐渐增大，蚀积系数则逐渐减小，保持在 $1 / 1 2 \sim$
+
+$1 / 1 0$ 范围附近。堆积强度和单位体积蚀积量随着规格的增大而减小，侵蚀强度随着规格的增大而增大 $\mathrm { ~ 1 ~ m ~ } { \times } 1 \mathrm { ~ m ~ } { \mathrm { , ~ } } 1 . 5 \mathrm { ~ m ~ } { \times } 1 . 5 \mathrm { ~ m ~ }$ 和 $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 规格沙障堆积强度分别是侵蚀强度的 $5 0 . 1 , 5 . 6 , 1 . 1$ 倍，单位体积蚀积量也随障格规格的增大而减小,相比于其他2种规格沙障， $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 规格沙障基本处于侵蚀平衡状态。
+
+2.1.3不同方位蚀积剖面特征图4为3种不同规格PLA沙障内部不同方位蚀积剖面变化。由图3可知,不同规格沙障障内蚀积方位和强度存在明显差异。在N－S方位,3种规格沙障均发生了风蚀，$2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 规格最大，凹曲面深度较 $1 \ \mathrm { ~ m ~ } \times 1 \ \mathrm { ~ m ~ }$ 和$1 . 5 \ \mathrm { m } \times 1 . 5 \ \mathrm { m }$ 分别高 $3 5 . 9 \%$ 和 $2 6 . 1 \%$ ；在 $\mathbb { W } - \mathbb { E }$ 方位上，3种规格沙障也发生了风蚀，并且障格凹曲面深度随着随着规格的增大而增大， $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 中心深度较 $1 \mathrm { ~ m ~ } \times 1 \mathrm { ~ m ~ }$ 和 $1 . 5 \mathrm { ~ m ~ } \times 1 . 5 \mathrm { ~ m ~ }$ 分别高 $5 4 . 2 \%$ 和 $3 6 . 7 \%$ ， $1 \mathrm { ~ m ~ } { \times } 1 \mathrm { ~ m ~ }$ 和 $1 . 5 \mathrm { ~ m ~ } \times 1 . 5 \mathrm { ~ m ~ }$ 规格中心深度相对接近。
+
+对3种规格沙障格内不同方位蚀积深度与水平距离进行函数拟合(表2)发现，不同规格PLA沙障格内N-S和W-E方位垂直剖面轮廓曲线均符合一元二次函数，拟合度较高，除 $1 . 5 \mathrm { ~ m ~ } \times 1 . 5 \mathrm { ~ m ~ }$ 规格N-S方位外,其余各规格不同方位 $R ^ { 2 }$ 均大于0.9,且 $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 规格不同方位 $R ^ { 2 }$ 在0.95左右。
+
+![](images/63ba79056c596a72de08eaa97797514f36768bdae4eed5ea34acd12cb759e3dd.jpg)  
+图3不同规格PLA沙障的凹曲面形态拟合图Fig.3Concave of different types PLA sand barrier
+
+表1不同规格PLA沙障格内蚀积特征  
+Tab.1 Characteristicsof internal erosion of different typesPLA sand barrier   
+
+<html><body><table><tr><td>规格</td><td>侵蚀面积占／%</td><td>凹曲面深度／cm</td><td>蚀积系数</td><td>堆积强度／g·cm-2</td><td>侵蚀强度／g·cm-²</td><td>单位体积蚀积量／g·cm-3</td></tr><tr><td>1 m×1 m</td><td>14</td><td>10.3</td><td>1/9.71</td><td>6.01</td><td>0.12</td><td>0.59</td></tr><tr><td>1.5 m×1.5 m</td><td>27</td><td>12.6</td><td>1/11.90</td><td>4.20</td><td>0.75</td><td>0.34</td></tr><tr><td>2 mx2 m</td><td>51</td><td>16.4</td><td>1/12.20</td><td>4.16</td><td>3.88</td><td>0.02</td></tr></table></body></html>
+
+![](images/c904e846fa7fa8f99dd3eaa73288dd314460cc60bfea71aeb5738ce4d009c801.jpg)  
+图4不同规格PLA沙障不同方位蚀积剖面变化  
+Fig.4Profile in different orientations of different types PLA sand barrier
+
+# 表2不同规格PLA不同方位蚀积深度(与水平距离)拟合模型
+
+Tab.2Curve fitting equation of different types of PLA sand barrier profile   
+
+<html><body><table><tr><td>方位</td><td>规格 拟合方程</td><td>R²</td></tr><tr><td rowspan="4">N-S 1m×1m</td><td>y =0.002 4x² +0.245 3x +6.185 7</td><td>0.974 7</td></tr><tr><td>1.5 m×1.5m y=0.000 6x² +0.068 7x +1.2117</td><td>0.7101</td></tr><tr><td>2m×2m y =0.001x² +0.207 2x +5.989 7</td><td>0.963 4</td></tr><tr><td>y=0.001 7x²+0.194 2x +4.728 2</td><td>0.958 2</td></tr><tr><td rowspan="2">W-E1m×1m</td><td>1.5 m×1.5m y=0.0012x² +0.177 7x +4.504</td><td>0.911 9</td></tr><tr><td>2 mx2m y =0.001 2x² +0.248 3x +6.821 4</td><td>0.9483</td></tr></table></body></html>
+
+# 2.2不同规格PLA沙障对粒径参数的影响
+
+从表3中可以看出， $1 \ \mathrm { m } \times 1 \ \mathrm { m } \cdot 1 . 5 \ \mathrm { m } \times 1 . 5 \ \mathrm { m }$ 和 $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 的粒径范围在 $1 \sim 8 ~ \phi$ 之间，在本实验中，对照裸沙地的平均粒径为 $2 . 2 7 \ \phi , 3$ 种沙障平均粒径分别为 $2 . 4 7 \ \phi \ . 2 . 3 1 \ \phi \ . 2 . 2 5 \ \phi$ ,均属细沙范围内。其中 $1 \mathrm { ~ m ~ } \times 1 \mathrm { ~ m ~ }$ 沙障平均粒径明显高于1.5$\mathrm { m } \times 1 . 5 \mathrm { ~ m ~ }$ 和 $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 沙障( $\textstyle P < 0 . 0 5 )$ ，而 $1 . 5 \mathrm { ~ m ~ } \times$ $1 . 5 \mathrm { ~ m ~ }$ 和 $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 沙障之间的差异并不明显，与对照沙地粒径接近。3种沙障的标准偏差均值为0.58$\phi$ 。其中， $\mathrm { ~ 1 ~ m ~ } { \times } 1 \ \mathrm { m } \mathrm { ~ . ~ } 1 . 5 \ \mathrm { m } { \times } 1 . 5 \ \mathrm { m } \mathrm { ~ . ~ } 2 \ \mathrm { m } { \times } 2 \ \mathrm { m }$ 规格标准偏差值分别为 $0 . 5 9 \mathrm { ~ \Phi ~ } \Phi . 0 . 5 4 \mathrm { ~ \Phi ~ }$ 和 $0 . 6 2 {  { \mathrm { ~ \ � ~ } } } 0$ 。$1 \mathrm { ~ m ~ } { \times } 1 \mathrm { ~ m ~ }$ 和 $1 . 5 \ \mathrm { m } \times 1 . 5 \ \mathrm { m }$ 规格沙障标准偏差值与对照沙地相比有所减小， $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 规格沙障与对照标沙地准偏差相近。根据分选程度的7级标准得出，3种沙障沉积物分选性较好。
+
+在3种沙障中，沉积物颗粒的偏度均值为0.01。其中， $1 \ \mathrm { m } \times 1 \ \mathrm { m } \cdot 1 . 5 \ \mathrm { m } \times 1 . 5 \ \mathrm { m }$ 和 $2 {  { \mathrm { ~ m ~ } } } { \times } 2 {  { \mathrm { ~ m ~ } } }$ 规格偏度值分别为0.02、0.01和0.01，对照沙地偏度值为0.03，偏度值均大于0，近对称。对照沙地偏度最大，颗粒最粗。3种沙障的峰度均值为0.98。其中， $\mathrm { ~ 1 ~ m ~ } { \times } 1 \ \mathrm { m } \mathrm { , } 1 . 5 \ \mathrm { m } { \times } 1 . 5 \ \mathrm { m }$ 和 $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 规格峰度值分别为0.95、1.06和0.95，但3种沙障峰度无明显差异( $\cdot P > 0 . 0 5 )$ ,均属中等峰度， $1 . 5 \mathrm { ~ m ~ } \times 1 . 5 \mathrm { ~ m ~ }$ 规格峰度略大于其他2种沙障峰度。
+
+# 2.3不同规格PLA沙障对粒径组成的影响
+
+对照裸沙组成以极细沙和细沙为主，极细沙含量为 $6 2 . 8 9 \%$ ,细沙含量 $3 1 . 8 7 \%$ ,粉沙、中沙、粗沙含量极低，黏土含量为0。在布设沙障后，3种沙障的优势组均为极细沙， $1 \mathrm { ~ m ~ } { \times } 1 \mathrm { ~ m ~ }$ 规格较对照组增加至 $7 2 . 4 \%$ ， $1 . 5 \ \mathrm { m } \times 1 . 5 \ \mathrm { m }$ 和 $2 {  { \mathrm { ~ m ~ } } } { \times } 2 {  { \mathrm { ~ m ~ } } }$ 规格减小至$5 8 . 2 4 \%$ 和 $5 8 . 6 5 \%$ ,2种规格极细沙组成比例随着障格增大而下降。而在细沙、中沙粒径组成上 $1 \mathrm { ~ m ~ }$ $\times 1 \mathrm { ~ m ~ }$ 与 $1 . 5 \ \mathrm { m } \times 1 . 5 \ \mathrm { m } \cdot 2 \ \mathrm { m } \times 2 \ \mathrm { m }$ 沙障有显著不同（ $\textstyle P < 0 . 0 5 )$ ，而 $1 . 5 \mathrm { ~ m ~ } \times 1 . 5 \mathrm { ~ m ~ }$ 与 $2 \textrm { m } \times 2 \textrm { m }$ 之间并
+
+表3不同规格PLA沙障粒度组成和粒径参数  
+Tab.3Different types of PLA sand barrier soil particle and granularity parameter   
+
+<html><body><table><tr><td>规格</td><td>黏土 (>8Φ) /%</td><td>粉沙 (4~8 Φ) /%</td><td>极细沙 (3~4Φ) /%</td><td>细沙 (2~3Φ) /%</td><td>中沙 (1~2Φ) /%</td><td>粗沙 (0~1Φ) /%</td><td>平均 粒径 /Φ</td><td>标准 偏差</td><td>峰度</td><td>偏度</td></tr><tr><td>1 m×1m</td><td>0</td><td>3.27 ±1.45a</td><td>72.40±9.07a</td><td>23.65 ±9.02a</td><td>0.66 ±1.12a</td><td>0.01±0.06a</td><td>2.47</td><td>0.59</td><td>0.95</td><td>0.02</td></tr><tr><td>1.5 m×1.5 m</td><td>0</td><td>2.48 ±1.25b</td><td>58.24 ±9.71b</td><td>36.12 ±7.93b</td><td>3.09 ±3.09b</td><td>0.07 ±0.35a</td><td>2.31</td><td>0.54</td><td>1.06</td><td>0.01</td></tr><tr><td>2 m×2 m</td><td>0</td><td>1.91 ±0.89b</td><td>58.65 ±4.63b</td><td>37.41 ±4.44b</td><td>2.02 ±1.26b</td><td>0.01 ±0.02a</td><td>2.25</td><td>0.62</td><td>0.95</td><td>0.01</td></tr><tr><td>对照</td><td>0</td><td>3.20 ±1.68a</td><td>62.89 ±9.04b</td><td>31.87 ±8.10b</td><td>2.00 ±2.38b</td><td>0.04 ±0.22ab</td><td>2.27</td><td>0.61</td><td>0.98</td><td>0.03</td></tr></table></body></html>
+
+注：同列不同字母表示差异显著( $\ P < 0 . 0 5 ,$ ；表中数据为百分比 $\pm$ 标准偏差
+
+无显著差异( $\mathrm { ' } P > 0 . 0 5 )$ 。
+
+# 2.4不同规格PLA沙障频率分布曲线
+
+如图5所示，3种沙障的粒度分布频率曲线均为单峰形，这说明沙障的总体分选性较好，峰值介于$2 \sim 3 . 3 2$ 之间。对照组与 $1 \mathrm { ~ m ~ } \times 1 \mathrm { ~ m ~ }$ 沙障曲线相近，但对照组曲线更为陡峭， $1 . 5 \mathrm { ~ m ~ } \times 1 . 5 \mathrm { ~ m ~ }$ 沙障与$2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 沙障较为接近,峰值与 $1 \mathrm { ~ m ~ } \times 1 \mathrm { ~ m ~ }$ 相比偏低，且略向左倾斜。这说明在布设沙障后，颗粒分布范围变宽，细沙和中沙含量也有所增加。从累计频率曲线也可以看出， $1 \mathrm { ~ m ~ } \times 1 \mathrm { ~ m ~ }$ 沙障与对照组斜率相似，提前到达累积曲线顶端。而 $1 . 5 \ \mathrm { m } \times 1 . 5 \ \mathrm { m }$ 沙障与 $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 沙障曲线斜率较小，上升较慢，曲线走势几乎重合。
+
+![](images/a061a56c6d4a425fabbe3da0adcbbcafd446af833e8022820205705ced73ca39.jpg)  
+图5 不同规格PLA沙障粒径频率分布曲线Fig.5Sediment grain-size distribution curvers ofdifferent types PLA sand barriers
+
+# 3讨论
+
+# 3.1不同规格PLA 沙障对沙障凹曲面的影响
+
+一般研究认为，沙障规格越小，其积沙效果越明显，而沙障若要保持长时间的固沙效益，其自身首先不能被流沙掩埋,造成前缘积沙危害[20],所以沙障规格的选择应平衡上述两点，既要让沙障起到固沙效果，又不能让沙障过早被沙埋。沙障稳定的凹曲面可以为沙障提供沙物质的非堆积搬运条件，从而使沙障不易被流沙掩埋，并且前人在实践中发现具有一定疏透度的沙障对凹曲面形态特征有一定影响，导致障格内凹曲面坑洼不平，而PLA沙障为实体沙障,在形成凹曲面时较不受疏透度影响,可以有效固沙。从剖面特征分析，除 $1 . 5 \ \mathrm { m } \times 1 . 5 \ \mathrm { m }$ 沙障的N-S方向 $R ^ { 2 }$ 小于0.9外，其余方向上剖面均在0.9以上，这和周丹丹等9所观察的结果相一致，也说明了PLA沙障凹曲面拟合度较好，凹曲面形态较为稳定。从蚀积特征上来说,3种PLA沙障凹曲面的蚀积系数在 $1 / 9 . 7 1 \AA . 1 / 1 1 . 9$ 和1/12.2,在PLA沙障作用下，沙障规格增大，蚀积系数变小。 $1 \mathrm { ~ m ~ } \times 1 \mathrm { ~ m ~ }$ 沙障堆积作用远大于侵蚀作用，堆积强度是侵蚀强度的50.1倍，自身又规格体积较小，堆积与侵蚀作用失衡，障体容易失去防护作用，被沙掩埋； $1 . 5 \mathrm { ~ m ~ } \times$ $1 . 5 \mathrm { ~ m ~ }$ 沙障也体现出了强烈堆积作用，但随着规格的变大,被沙埋的几率变小；而 $2 { \mathrm { ~ m ~ } } { \times } 2 { \mathrm { ~ m ~ } }$ 沙障障格自身能做到蚀积平衡，且蚀积系数与 $1 . 5 \mathrm { ~ m ~ } \times 1 . 5 \mathrm { ~ m ~ }$ 规格沙障差别不大，凹曲面接近稳定，也有利于 $2 \mathrm { ~ m ~ }$ $\times 2 \mathrm { ~ m ~ }$ 沙障发挥其防沙效益。
+
+# 3.2不同规格PLA沙障对粒度特征的作用机制
+
+粒度特征可以衡量沙障对风沙流的阻滞作用，并且可以为后期植被恢复提供物质条件。在PLA沙障中，极细沙和细沙属于障格内的活跃颗粒，受风沙活动影响较大。 $1 \ \mathrm { ~ m ~ } \times 1 \ \mathrm { ~ m ~ }$ 障格极细沙含量为$7 2 . 4 \ \%$ ,虽然易蚀颗粒含量大,阻沙作用明显,但是因为其单一障格所能承受的积沙量较少，在实际布设后与蚀积特征相结合会发现其易被沙埋从而失去作用； $1 . 5 \ \mathrm { m } \times 1 . 5 \ \mathrm { m }$ 和 $2 { \mathrm { ~ m ~ } } { \times } 2 { \mathrm { ~ m ~ } }$ 沙障虽然障格内有面积不同的部分侵蚀，但易蚀沙粒含量大致相同，可以得出,2个规格沙障对风沙流中沙粒的截留效果上大致相同，且能控制障格内大部分易蚀沙粒不被过境不饱和风沙流大量带走。在风沙流中， $0 \sim 1 0$ cm 高度内的沙粒约占整体的 $7 5 \%$ [21],在这一高度下,粒径在2.32\~2.74Φ里的沙粒极易被风蚀[22],但是实验地裸沙的平均粒径是 $2 . 2 7 ~ \phi , > 0 \sim 1 0 ~ \mathrm { c m }$ 内风沙流沙粒粒径。且气流在遇到沙障拾升后，降低了下垫面风速[23],风沙流中跃移的一部分沙粒落在障后，而涡流的流动会造成气流搬运过来的沙粒在涡旋处不断堆积[24],粒径在易蚀沙粒范围内的沉积物落在障格内，从偏度上看，在布设PLA沙障后，障格内粒径偏度变小，说明PLA沙障截留较细的沙粒，使得较粗沙粒在障格内占比减少，可以反映出沙障对于风沙流的阻滞作用。
+
+# 3.3平坦地形不同PLA沙障的固沙成本分析
+
+在实际应用中，不仅要考虑发挥PLA沙障的固沙效益，也要考虑到布设沙障的经济效益。堆积效应越高，就更容易产生沙埋现象，从而导致沙障过早失效，无法体现其防风固沙效益，需要人工将沙障从积沙中取出才能继续发挥防护效益。在不同地形布设沙障时,也要考虑因地制宜等原则[25],PLA 沙障作为袋状沙障，布设时还要考虑障体因变形扭曲而再次布设的成本[26]。所以在选择沙障规格时,虽然障体扭曲较小，但也需要考虑材料成本与人工成本2 个方面。在平坦沙地上 $1 \mathrm { ~ m ~ } \times 1 \mathrm { ~ m ~ }$ 和 $1 . 5 \ \mathrm { m } \times 1 . 5$ $\mathbf { m }$ 规格沙障堆积效应明显，易被沙埋，需耗费人力成本将障体提出以便继续发挥固沙效益，所耗费的成本较高。 $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 能做到蚀积平衡，有较强的持续防护能力，并且成本最低，所以在此种地形上，$2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 规格沙障较为适宜。研究区域内因为地形较为平坦，适合发展沙区农业，目前种植了葡萄等经济作物，但风沙活动使得农业生产活动受到影响。PLA沙障具有生态友好的特性，通过对平坦地形防沙效果的研究，能拓展PLA沙障在干旱半干旱区的应用范围，为农业生产活动提供保障，降低种植成本。
+
+# 4结论
+
+（1）3种规格PLA沙障内部均能发育形成稳定凹曲面，凹曲面深度随着规格的增大而逐渐增加，障格内不同方位蚀积剖面曲线基本符合二次函数；蚀积系数则逐渐减小，保持在 $1 / 1 2 \sim 1 / 1 0$ 之间， $1 \ \mathrm { m } \times$ $1 \mathrm { ~ m ~ } , 1 . 5 \mathrm { ~ m ~ } \times 1 . 5 \mathrm { ~ m ~ }$ 和 $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 规格沙障堆积强度分别是侵蚀强度的 $5 0 . 1 , 5 . 6$ 和1.1倍，堆积强度和单位体积蚀积量随着沙障规格的增大而减小，侵蚀强度随着规格增大而增大， $1 \mathrm { ~ m ~ } { \times } 1 \mathrm { ~ m ~ }$ 和 $1 . 5 \ \mathrm { m } \times 1 . 5$ $\mathbf { m }$ 规格障内易发生沙埋； $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 规格障内单位体积蚀积量为 $0 . 0 2 \mathrm { ~ g ~ } \cdot \mathrm { ~ c m } ^ { - 3 }$ ,基本处于蚀积平衡状态，可以长期发挥沙障防护效益。
+
+（2）3种规格障内沉积物均以极细沙和细沙为主；3种沙障平均粒径属细沙范围内， $1 . 5 \ \mathrm { m } \times 1 . 5 \ \mathrm { m }$ 和 $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 规格沙障极细沙颗粒含量百分比迅速下降。3种规格沙障分选性较好，近对称分布，均为中等峰度。
+
+(3）综合考虑沙障铺设成本和防护效果，在平坦沙地或者弱风区域内适合布设 $2 \mathrm { ~ m ~ } { \times } 2 \mathrm { ~ m ~ }$ 规格PLA 沙障。
+
+参考文献（References）   
+[1］孙保平.荒漠化防治工程学［M].北京:中国林业出版社, 2000:144-2O2.[SUN Baoping. Desertification engineering[M]. Beijing:China Forestry Publishing House,2000:144-202.]   
+[2]常兆丰,仲生年,韩福桂,等.粘土沙障及麦草沙障合理间距的 调查研究[J].中国沙漠,2000,20（4）：455－457.[CHANG Zhaofeng,ZHONG Shengnian,HAN Fugui,et al.Research of the suitable row spacing on clay barriers and straw barriers[J]. Journal of Desert Research,2000,20(4） :455 -457.]   
+[3］虞毅.一种利用可生物降解材料制成的沙障及其配置方法 [P].中国专利:CN101614005,2008 -06-26.[YU Yi.A sand barrier made of biodegradable materials and itsallocation method [P].Chinese Patent:CN101614005,2008 -06-26.]   
+[4］原伟杰.聚乳酸纤维沙袋沙障降解老化性能研究［D].北京： 中国林业科学研究院,2014.［YUAN Weijie.Study on the degradation and aging performance of polylactic acid fibre sandbag sandbarrier[D].Beijing:Chinese Academy of Forestry,2014.]   
+[5］蒙仲举,任晓萌,高永.低立式纤维沙袋沙障防风固沙效应研 究[J].水土保持研究,2014,21（2）：294－296.［MENG Zhongju,REN Xiaomeng,GAO Yong.Effct of the low-fiber sandbag sand-barrier on wind-breaking and sand-fixation[J].Research of Soil and Water Conservation,2014,21(2):294-296.]   
+[6]袁立敏,高永,汪季,等.沙袋沙障对流动沙丘地表风沙及植被 恢复的影响[J].水土保持通报,2014,34（1）：46－50.[YUAN Limin,GAO Yong,WANG Ji,et al. Impacts of sandbag barrier on sand flow and vegetation restoration on mobile dunes[J].Bulletin of Soil and Water Conservation,2014,34(1):46-50.]   
+[7］虞毅.沙袋沙障防沙治沙技术［M].北京：科学出版社,2014： 22- 25.[YU Yi. Sandbag sandbarrer sand control technology [M]. Beijing:Science Press,2014:22 - 25.]   
+[8］原伟杰,虞毅,岳永德,等.沙丘部位对聚乳酸纤维沙袋沙障降 解速度的影响[J].干旱区资源与环境,2015,29（4）：166- 171.[YUAN Weijie,YU Yi,YUE Yongde,et al. Efctsof slope position on the degradation of PLA sand barriers[J]. Journal of Arid Land Resources and Environment,2015,29(4）:166 -171.]   
+[9］周丹丹,虞毅,胡生荣,等.沙袋沙障凹曲面特性研究[J].水土 保持通报,2009,29（4）:22-25.［ZHOUDandan,YUYi,HU Shengrong,et al. Concave surface characteristics of sandbag sand barrier[J].Bulletin of Soil and Water Conservation,2Oo9,29（4）： 22 -25.]   
+[10］李锦荣,孙保平,高永,等.基于空气动力学的沙袋沙障气流场 模拟[J].北京理工大学学报,2010,30(6）:749－752.［LI Jinrong,SUN Baoping,GAO Yong,et al. Simulation of sand-bag barri
+
+er wind flow field based on aero dynamics[J].Transactions of Beijing Institute of Technology,2010,30(6):749-752.]
+
+[11］党晓宏，虞毅，高永，等.PLA沙障对沙丘土壤粒径的影响分析 [J].水土保持研究,2014,21（3）:16－19.［DANG Xiaohong, YUYi,GAO Yong,et al.Analysis on impact of PLAbarrier on soil particle sizes of sand dunes[J].Research of Soil and Water Conservation,2014,21(3):16-19.]
+
+[12］高永，丁延龙，汪季，等.不同植物灌丛沙丘表面沉积物粒度变化及其固沙能力[J].农业工程学报，2017，33（22）：143-150.[GAOYong,DINGYanlong,WANGJi,et al.Sediments particlesize changes and itssand fixation ability for different shrub dunes[J].Transactions of the Chinese Society of Agricultural Engineer-ing,2017,33(22):143-150.]
+
+[13］钱广强，董治宝,罗万银，等.巴丹吉林沙漠地表沉积物粒度特征及区域差异［J].中国沙漠，2011,31（6)：1357-1364.[QIAN Guangqiang,DONG Zhibao,LUOWanyin,etal.Grain sizecharacteristics and spatial variation of surface sediment in the Ba-dain Jaran Desert[J].Journal of Desert Research,2O11,31（6）：1357 -1364.]
+
+[14]CATTLE SR,MCTAINSHGH,ELIAS S.Aeolian dust deposition rates,particle-sizes and contributions to soils along a transect in semi-arid New South Wales,Australia[J].Sedimentology,2010, 56(3):765-783.
+
+[15］周娜，张春来，田金鹭，等.半隐蔽式草方格沙障凹曲面形成的 流场解析及沉积表征[J].地理研究，2014，33（11）：2145- 2156.[ZHOUNa,ZHANGChunlai,TIANJinlu,et al.Flow field controlling the concave surface of the semi-buried checkerboards and its characterization by grain sizes of sediments[J].Geographical Research,2014,33（11) :2145-2156.]
+
+[16］马学喜，李生宇,王海峰，等.固沙网沙障积沙凹曲面特征及其固沙效益分析[J].干旱区研究，2016，33（4）：898-904.［MAXuexi,LI Shengyu,WANG Haifeng,etal.Concave surface featuresin sand-fixing net barriers and evaluation of sand-fixing benefits[J].Arid Zone Research,2016,33（4):898-904.]
+
+[17］马学喜，王海峰，李生宇，等.两种固沙方格沙障的防护效益及 地形适应性对比[J].水土保持通报，2015，35（2）：344-349. [MA Xuexi,WANG Haifeng,LI Shengyu,etal.Comparison of sand-protecting effciency and terrain adapted of two checker board barriers[J].Bulletin of Soil and Water Conservation,2015,35 (2):344-349.
+
+[18］高广磊，丁国栋，赵媛媛，等.四种粒径分级制度对土壤体积分 形维数测定的影响[J].应用基础与工程科学学报，2014，22 (6）:106O -1068.[GAO Guanglei,DING Guodong,ZHAO Yuanyuan,et al.Effects of soil particle size classification system on calculating volume-based fractal dimension[J]. Journal of Basic Science and Engineering,2014,22(6）:1060-1068.]
+
+[19]FOLKPL,WARD W D.Brazos river bar:A study in the significance of grain size parameters[J].Journal of Sedimentary Research,1957,27(1):3-26.
+
+[20］屈建军,凌裕泉,俎瑞平,等.半隐蔽格状沙障的综合防护效益 观测研究[J].中国沙漠,2005,25(3）：329-335.[QUJianjun， LING Yuquan,ZU Ruiping,et al.Study on comprehensive sand protecting efficiency of semi-buried checkerboard sand-barriers [J].Journal of Desert Research,2005,25(3）:329-335.]
+
+[21］刘贤万.实验风沙物理与风沙工程学［M].北京：科学出版社， 1995:11-14.［LIU Xianwan.Experimental aeolian physics and aeolian engineering[M].Beijing:Science Press,1995:11-14.] [22」吴正.风沙地貌与治沙工程学[M」.北京：科学出版社，2003， 35-38.［WU Zheng.Aeolian landforms and sand control engineering[M].Beijing:SciencePress,2003:35-38.]
+
+[23］丁泊元，丁国栋，李炯书，等.沙袋沙障对沙地公路路域生态系统的影响[J].四川农业大学学报，2013，31（2）：145－150.[DING Boyuan,DING Guodong,LI Jiongshu,et al.Effect of sand-bagbarrier on the ecosystem in highway in sandyland[J]. Journalof Sichuan Agricultural University,2013,31(2）:145-150.]
+
+[24］陈新闯,郭建英,董智,等.乌兰布和沙漠流动沙丘下风向降尘 粒度特征[J].中国沙漠，2016，36(2）：295-301.[CHENXinchuang,GUOJianying,DONG Zhi,et al.Grain size characteristics ofdustfall in theUlan BuhDesert[J].Journal ofDesertResearch, 2016,36(2):295-301.]
+
+[25］张登山，吴汪洋,田丽慧，等.青海湖沙地麦草方格沙障的蚀积 效应与规格选取[J].地理科学，2014，34（5）：627-634. [ZHANGDengshan,WUWangyang,TIANLihui,etal.Effectsof erosion and deposition and dimensions selection of straw-checkerboardbarriers in the desert ofQinghai Lake[J].Scientia Geographical Sinica,2014,34(5）:627-634.]
+
+[26］丁延龙，高永，汪季，等.生物基可降解聚乳酸(PLA)沙障对沙丘表层沉积物粒度特征的影响[J].中国沙漠,2018,38（2）：262-269.[DINGYanlong,GAOYong,WANGJi,etal.Effectsofbiodegradable poly lactic acid sand barriers on surface sedimentgrain-size characteristics at sand dunes[J]. Journal of Desert Re-search,2018,38（2):262-269.]
+
+# Concave surface features and grain-size characteristics in polylactic acid sand barrier
+
+WANG Yi-zhao12，YUAN Wei-jie¹，DING Guo-dong34，YU Yi², GAO Guang-lei34， ZHANG Yao-xiang'， WANG Long3,4 (1Forestry experiment Center of North China,Chinese Academy of Forestry,Beijing 102300,China; 2International Center for Bamboo and Rattan,Beijing 10o1O2,China; 3School of Soiland Water Conservation,KeyLaboratoryof State Forestry AdministrationonSoiland Water Conservation, Beijing Forestry University,Beijing 10O083,China; 4Yanchi Ecology Research Station of the Mu Us Desert,Yanchi 75150,Ningxia,China)
+
+Abstract：The features ofconcave surfaces,the effect of erosion and deposition,grain size parameters of sediment (including average particle size,standard deviation,skewness,and kurtosis）wereanalyzed separately inthree PLA sand barriers with different specifications $, 1 \mathrm { ~ m ~ } \times \mathrm { ~ 1 ~ m ~ } , 1 . 5 \mathrm { ~ m ~ } \times \mathrm { ~ 1 ~ . ~ 5 ~ m ~ } , \mathrm { a n d ~ 2 ~ m ~ } \times \mathrm { ~ 2 ~ m ~ } .$ ,which were laid on the flat sand in Ulan Buh Desert,Inner Mongolia,China.The concave surfaces and sediment grain size characteristics of the surface layer ( $0 - 3 \ \mathrm { c m }$ ）were measured using graduated sticks and laser diffraction methods after the wind season. The results showed the three kinds of PLA sand bariers could form stable concave surfaces.Along with the growth of sand barrier specification,the depth of surfaces increased while the erosion-deposition coeffcient decreased in the range of $1 / 1 2 - 1 / 1 0$ .The profiles in different directions basically fitted the quadratic curve ; nevertheless,the intensities of erosion-deposition varied widely. The $1 \mathrm { ~ m ~ } \times \mathrm { ~ 1 ~ m ~ }$ and $1 . 5 \textrm { m } \times 1 . 5 \textrm { m }$ sand barriers stayed in the deposition,of whichdeposition intensities were respectively 50.O8,5.6 times the erosion intensities.The deposition intensities were 1.1 times the erosion intensities and the erosion-deposition volume per unit was $0 . 0 2 \mathrm { ~ g ~ } \cdot \mathrm { c m } ^ { - 3 }$ in the （20 $2 \mathrm { ~ m ~ } \times \mathrm { ~ 2 ~ }$ m sand barriers.In terms of particle size and composition,we found that the sediment was mainly composed of very fine sand,and with the exception of the $1 \mathrm { ~ m ~ } \times \mathrm { ~ 1 ~ m ~ }$ specification,the retardation effect of PLA sand barriers esulted inarapid decrease inthe content of very fine sand.The height of thePLA sand bariers was 6-8 cm. The $1 \mathrm { ~ m ~ } \times \mathrm { ~ 1 ~ m ~ }$ and $1 . 5 \mathrm { ~ m ~ } \times \mathrm { ~ 1 ~ } . 5 \mathrm { ~ m ~ }$ sand barriers with large deposition intensities were prone to sand burial and required additional labor costs for re-laying. The $2 \mathrm { ~ m ~ } \times \mathrm { ~ 2 ~ m ~ }$ sand barriers,blocked to erosion and deposition balance,were beneficial to perform the long-term protective efectof sand barriers.Consideringthe costand protection effect of sand barriers,it was concluded that the $2 \mathrm { ~ m ~ } \times \mathrm { ~ 2 ~ m ~ }$ PLA sand barriers were suitable for flat sand or weak wind condition,and provided a scientific reference for reasonable application in sediment control engineering. Key words:：Polylactic acid(PLA）；different norms；concave surface；grain-size characteristics；Ulanbuh Desert

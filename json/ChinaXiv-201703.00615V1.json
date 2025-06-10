@@ -1,0 +1,467 @@
+[
+    {
+        "type": "text",
+        "text": "Study of the data taking strategy for a high precision T mass measurement \\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Y.K.Wang $^ { 1 , 2 }$ ；t J.Y.Zhang1 X.H.Mo1 C.Z.Yuan1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1（Institute of High Energy Physics, CAS,Beijing 100049,China ） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2（School of Physics，Peking university, Beijing 1Oo871, China ） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "January 30， 2008 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractTo achieve a high precision $\\tau$ mass measurement at BESIII, two free parameters ( $m _ { \\tau }$ and $\\epsilon$ ）and three parameters( $m _ { \\tau }$ ， $\\epsilon$ and $o _ { B G }$ ） fittings are simulated using sampling technique. For two parameters fitting, two points should be taken, the one is near the threshold of $\\tau ^ { + } \\tau ^ { - }$ production to determine $m _ { \\tau }$ ， the other point is at 3.595 GeV to determine effciency. The ratio of luminosity at the two points is 3 to 1. For three parameters fitting, one point should be added at the low energy region with about 10% of the total luminosity. The optimal ratio of luminosity at the other two points is still 3 to 1. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words $\\tau$ mass， statistical optimization， luminosity and accuracy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The mass of $\\tau$ lepton is a fundamental parameter in the standard model, measurement of $\\tau$ mass can be used to provide a significant test of lepton universality. Pseudomass technique [1, 2] and threshold scan method are employed to measure the $\\tau$ mass. The former relies on the reconstruction of the invariant mass and energy of the hadronic system in hadronic $\\tau$ decays, the latter needs a good understanding of the production cross section near threshold. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A most precise measurement of $\\tau _ { m }$ has been performed by BES collaboration [3, 4, 5] using threshold scan method: ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { m _ { \\tau } = { 1 7 7 6 . 9 6 } _ { - 0 . 2 1 - 0 . 1 7 } ^ { + 0 . 1 8 + 0 . 2 5 } \\ \\mathrm { { M e V } } / c ^ { 2 } \\ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "with a relative error of $1 0 ^ { - 4 }$ ，which dominates the PDG $\\tau$ mass value. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently, Some theoretical calculations have achieved the accuracy at the level of $1 0 ^ { - 4 }$ （204号 [6,7] for the production cross section near threshold. Experimentally, the high precision of beam energy, about $1 0 ^ { - 6 }$ GeV [8], has been determined by KEDR collaboration using depolarization technique. Large $\\tau$ data sample is expected at the forthcoming experiment BESIII [9]. Therefore, we have great interest to wonder what precision of $\\tau$ mass will be obtained in the near future. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the following parts, we begin with an introduction of methodology, then present one parameter optimization conclusion. The two parameters and three parameters optimization are researched in detailed. At last， possible effect of luminosity and time on a certain statistic error of $\\tau$ mass is discussed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Methodology ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Within a specified period of data taking time or equivalently for a given integrated luminosity, we try to find out the scheme which can provide the highest precision on $m _ { \\tau }$ ： The sampling technique is utilized to simulate various data taking possibilities among which the optimal one is chosen. For certain simulation,the likelihood function is constructed as follows [3, 4, 5]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL F ( m _ { \\tau } ) = \\prod _ { i } ^ { N _ { p t } } \\frac { \\mu _ { i } ^ { N _ { i } } e ^ { - \\mu _ { i } } } { N _ { i } ! } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { i }$ is the observed number of $\\tau ^ { + } \\tau ^ { - }$ events for $e \\mu$ final state $! ^ { 1 }$ at scan point $i$ $\\mu _ { i }$ is the expected number of events and given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { i } ( m _ { \\tau } ) = [ \\epsilon \\cdot B _ { e \\mu } \\cdot \\sigma _ { o b s } ( m _ { \\tau } , E _ { c m } ^ { i } ) + \\sigma _ { B G } ] \\cdot { \\mathcal L } _ { i } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Eq. 3, $\\mathcal { L } _ { i }$ is the integrated luminosity at the $i$ -th point; $\\epsilon$ is the overall efficiency of （204 $e \\mu$ final state for identifying $\\tau ^ { + } \\tau ^ { - }$ events,which includes trigger efficiency and event selection efficiency; $\\boldsymbol { B _ { e \\mu } }$ is the combined branching ratio for decays $\\tau ^ { + } \\to e ^ { + } \\nu _ { e } \\overline { { \\nu } } _ { \\tau }$ and $\\tau ^ { - } \\to \\mu ^ { - } \\overline { { \\nu } } _ { \\mu } \\nu _ { \\tau }$ , or the corresponding charge conjugate mode; $\\sigma _ { o b s }$ , which can be calculated by the improved Voloshin's formulas [6], is the observed cross section measured at energy （20 $E _ { c m } ^ { i }$ with $m _ { \\tau }$ as a parameter; and $\\sigma _ { B G }$ is the total cross section of background channels after $\\tau ^ { + } \\tau ^ { - }$ selection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As a tentative beginning, the energy interval to be studied is divided evenly, viz. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { i } = E _ { 0 } + ( i - 1 ) \\times \\delta E , ( i = 1 , 2 , . . . , N _ { p t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the initial point $E _ { 0 } = 3 . 5 0$ GeV, the final point $E _ { f } = 3 . 5 9 5$ GeV, and the fixed step $\\delta E = ( E _ { f } - E _ { 0 } ) / N _ { p t }$ with $N _ { p t }$ being the number of energy points. For a given integrated luminosity $( \\mathcal { L } _ { t o t } )$ it is also apportioned averagely at each point, $\\mathcal { L } _ { i } = \\mathcal { L } _ { t o t } / N _ { p t }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6c3dfc12a00296aa05729a3c3be645c3d29788ee34aa84a14d3e5df551ecc38.jpg",
+        "img_caption": [
+            "Figure 1: Flow chart of sampling simulation,where $i$ $( i = 1 , 2 , \\cdots , N _ { p t } )$ indicates certain scheme and $j$ 0 $\\displaystyle i = 1 , 2 , \\cdots , N _ { s a m p } )$ sampling times. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to reduce the statistical fuctuation, sampling is repeated many times $N _ { s a m p } =$ 200 for our study) for each scheme (say for each $N _ { p t }$ ), the average value and corresponding variance of the fit out $\\tau$ mass are worked out as follows [11] : ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { { m } } } _ { \\tau } ^ { i } = \\frac { 1 } { N _ { s a m p } } \\sum _ { j = 1 } ^ { N _ { s a m p } } m _ { \\tau j } ^ { i } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { m _ { \\tau } } ^ { 2 } ( m _ { \\tau } ^ { i } ) = { \\frac { 1 } { N _ { s a m p } - 1 } } \\sum _ { j = 1 } ^ { N _ { s a m p } } ( m _ { \\tau j } ^ { i } - { \\overline { { { m } } } } _ { \\tau } ^ { i } ) ^ { 2 } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here it should be noted that $i$ indicates the certain scheme,whose value can be 1 while $j$ indicates the sampling times which equals to 2O0 in the following study. Without special declaration, the meaning of the average defined by Eqs. (5) and (6) will be kept in the study follows. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The general flow chart of sampling and ftting research is presented in Fig. 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "During the study of high precision of $m _ { \\tau }$ mass measurement, we mainly concern with: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. the number of points to be taken;   \n2. the optimal position of the data points;   \n3.the relation between the luminosity and the precision. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 Conclusion of one-parameter fitting ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In one parameter fitting, $m _ { \\tau }$ is the solo free parameter. The region that the derivative of cross section falls to 75% of its maximum value, is proved to be effective to decrease the error of $\\tau$ mass. The total luminosity of 45 $p b ^ { - 1 }$ is rationed averagely in the sensitive region from one to six points. The simulation indicates that one point suffices to give rise to small uncertainty. The sensitive region is scanned to hunt for the optimal position, the smallest error of $\\tau$ mass is obtained near the $m _ { \\tau }$ threshold, at 3.55379 GeV. One point in the optimal location with luminosity of $6 3 p b ^ { - 1 }$ is sufficient for a statistical accuracy better than O.1 MeV. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4Two-parameter fitting ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/87da02ee549c0f2c37bdcbbc544b74a9d00f1fd6c04d4071e2d486eddb0c52eb.jpg",
+        "img_caption": [
+            "Figure 2: The variation of $\\Delta \\epsilon$ and $S _ { \\epsilon }$ with the number of points $N _ { p t }$ . The circles and stars denote the values of $S _ { \\epsilon }$ and $\\Delta \\epsilon$ respectively. The empty legends denote the the luminosity allotted evenly scheme,and the filled legends denote the expected event number equal scheme. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For two parameters fitting, $m _ { \\tau }$ and $\\epsilon$ are free variables. The optimal point， 3.55379 GeV,which determines the $\\tau$ mass most economically in one parameter fitting [12], is the one point in the two parameters fitting. We should consider how to select the region to determine the adding parameter $\\epsilon$ , How many energy points should be taken to determine （204 $\\epsilon$ , In what an economic way the total luminosity should be allotted at these points to get the smallest statistical error of the $\\tau$ mass. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fix the total luminosity of $1 0 0 \\mathrm { p b } ^ { - 1 }$ ， in which $5 0 \\mathrm { p b } ^ { - 1 }$ is arranged to spend at the first point，3.55379 GeV，to fit the $\\tau$ mass,the remainder luminosity is used for the $\\epsilon$ determination. According to the distribution of the cross section, the higher energy region with larger cross section is more suitable to determine the efficiency. The number of the energy points can be studied in the region from 3.545GeV to 3.595GeV. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To determine the number of point at the high region, $m _ { \\tau }$ is fixed,then fit the single parameter $\\epsilon$ . Figure 2 shows the variation of the $\\Delta \\epsilon$ and $S _ { \\epsilon }$ with the adding number of points $N _ { p t }$ with two different luminosity allot precepts. The empty legends denote the scheme that the total luminosity is divided evenly at these points, while the solid legends denote the scheme that the expected event number is required to be equal at these points. From the one parameter $m _ { \\tau }$ fitting，we know that the point at the high energy region has few contribution to determine the $m _ { \\tau }$ , the variation of the statistical error $S m _ { \\tau }$ just because of the correlation between $m _ { \\tau }$ and $\\epsilon$ . That is to say, the smaller the statistical error $S _ { \\epsilon }$ , the better the data taking scheme is. The trend of both the two schemes shows only one point can afford the smallest statistical fluctuation of the $\\epsilon$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b26e3ad2e74c1c62f41252dbc1ee8e266d2a97094678f50b1ca90257402f628.jpg",
+        "img_caption": [
+            "Figure 3: The variation of $S _ { m _ { \\tau } }$ and $S _ { \\epsilon }$ with the scan of the second energy point from 3.554 to 3.595GeV. The small boxes and the small triangles represent $S _ { m _ { \\tau } }$ and $S _ { \\epsilon }$ respectively. The dotted line is the cross section and solid line is the derivative of the cross section. They have been rescaled by 0.O1 and O.001 corresponding to drawn in the same plot with （20 $S _ { m _ { \\tau } }$ and $S _ { \\epsilon }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Now that one point is enough to determine the efficiency, a scan in high energy region should be done to select the point whose two statistical errors $S _ { m _ { \\tau } }$ and $S _ { \\epsilon }$ are smaller. Figure 3 shows the distributions of the $S _ { m _ { \\tau } }$ and $S _ { \\epsilon }$ when we scan this region. The cross section and the derivative cross section is also shown in the same plot after scaled. Clearly, Energy point 3.595 GeV is sufficient for the $\\epsilon$ detection. Up to now, the number of energy points has been confirmed as two and the optimal location should be 3.55379 GeV and 3.595 GeV. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The succeeding problem is how to divide the total luminosity at the two points to get the smallest statistical error of the $\\tau$ mass. Total luminosity $L _ { t o t }$ is arranged as $1 0 0 \\ p b ^ { - 1 }$ （204号 at the two points, namely, $L _ { 1 } + L _ { 2 } = L _ { t o t }$ ,where $L _ { 1 }$ and $L _ { 2 }$ denote the luminosity assigned at the first point 3.55379 GeV and the second point 3.595 GeV, respectively. Figure 4 shows the variation of $S m _ { \\tau }$ (circle） and $S _ { \\epsilon }$ (star）with $L _ { 1 }$ . With increase the $L _ { 1 }$ ,the $S m _ { \\tau }$ （204 decreases in the beginning. That is because the first point determines the $\\tau$ mass, more luminosity reduces the error of $\\tau$ mass. Subsequently, the raise of $S _ { m _ { \\tau } }$ at the right part of figure 4 is due to the correlation of $m _ { \\tau }$ and $\\epsilon$ . The minimal value of $S _ { m _ { \\tau } }$ is found out by using a curve to fit the points of figure 4. The bottom of this curve indicates that about 75% total luminosity should be assigned at the first point. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5d03efedfd1db663d6cefbb4095ea3162708c099baa73eddccdd730f3e265a7.jpg",
+        "img_caption": [
+            "Figure 4: The variation of $S _ { m _ { \\tau } }$ (denoted as empty circles） and $S _ { \\epsilon }$ (denoted as stars) with the increasing of $L _ { 1 }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Up to now, it is clear that two energy points should be taken for the two parameters fitting, they are $E _ { 1 } = 3 . 5 5 3 7 9 G e V , E _ { 2 } = 3 . 5 9 5 \\mathrm { G e V }$ . The ratio of the luminosity at the two points should be $L _ { 1 } : L _ { 2 } = 3 : 1$ . This result can be confirmed by two dimension scan in the energy region $3 . 5 5 5 \\sim 3 . 5 9 5 \\mathrm { G e V }$ , as shown in figure 5. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For 75% result is on a basis of the assumption that the total luminosity is equal to $1 0 0 p b ^ { - 1 }$ ， we variate the value of $L _ { t o t }$ from $2 0 p b ^ { - 1 }$ to $2 0 0 p b ^ { - 1 }$ to check whether or not the luminosity assgnment ratio is identical. As shown in figure 6, Every curve has a U shape similar with that in figure 4. The bottom of every curve reveals the best luminosity dividing proportion to the first point from each total luminosity $L _ { t o t }$ .The curve drawn below the series curves in this figure is the $S _ { m _ { \\tau } }$ distribution obtained from the one parameter fitting. For considering the correlation between $m _ { \\tau }$ and $\\epsilon$ ， the same level of $S _ { m _ { \\tau } }$ in two parameter fitting need more luminosity than that in one parameter fitting. Figure 7 shows the proportion of total luminosity allotted at the first point for each different $L _ { t o t }$ . It is a linear relationship between $L _ { 1 }$ and $L _ { t o t }$ , and the slope is 0.75, and keeps uniform with the increase the total luminosity. So the optimal luminosity assignment ratio can be extended to different $L _ { t o t }$ values. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For a summary of the two parameter, $m _ { \\tau }$ and $\\epsilon$ fitting, the optimal data taking scheme indicates that two points,at E1 = 3.55379GeV, $E _ { 2 } = 3 . 5 9 5 \\mathrm { G e } ^ { \\mathrm { \\prime } }$ V can acquire the smallest statistical error of $m _ { \\tau }$ . About 75% of the total luminosity should be assigned at the first point. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/982b406c6fc0a95431b10d5f136b808256fd1704030fad561981bfc2bb89e03b.jpg",
+        "img_caption": [
+            "Figure 5: The variation of $S _ { m _ { \\tau } }$ (MeV) with a 2 dimension scan of $E _ { 1 }$ and $E _ { 2 } ^ { ' }$ in the energy region $3 . 5 5 \\sim 3 . 5 9 5 \\mathrm { G e V }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/408cb6a44971eae804cd10db4a4d2fc47f4988f95838dcb4645c874c70e8447c.jpg",
+        "img_caption": [
+            "Figure 6: A series curves of $S _ { m _ { \\tau } }$ vs $L _ { 1 }$ for different total luminosity $L _ { t o t }$ variate form （204号 $2 0 \\mathrm { p b } ^ { - 1 }$ to $2 0 0 \\mathrm { p b } ^ { - 1 }$ with a step of $\\mathrm { 1 0 p b ^ { - 1 } }$ . The bottom one is the $S _ { m _ { \\tau } }$ VS $L$ curve in 1 parameter fitting. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b9c6940767d31666c85498170f1a7f4c8ef3958a36fcffe39e43fa0334ec3cb.jpg",
+        "img_caption": [
+            "Figure 7: The optimal proportion of the luminosity allotted at the first energy point （204 $E _ { 1 } = 3 . 5 5 3 7 9 \\mathrm { G }$ leV for different total luminosity $L _ { t o t }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf031c6f33cc75dcedd5e0bf11375036ada98603d16ca8928fc0c58ebccbff0a.jpg",
+        "img_caption": [
+            "Figure 8: The relationship between error of tau mass and data taking point. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c4c7c60a9a768c7df836482a2e4eb48c44a8cf7fbe7133ab546fa402e3b0e44.jpg",
+        "img_caption": [
+            "Figure 9: The variation of error of $\\tau$ mass and the location of energy. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 Three-parameter fitting ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this section, the background cross section $\\sigma _ { B G }$ is treated as a free parameter in three parameters fitting together with $m _ { \\tau }$ and $\\epsilon$ . The benefit of adding this parameter is that the correlation with other two parameters has been considered automatically. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "According to the previous $\\tau$ mass experiment, the background events should be a tiny number comparing with the observed number of events. It is acceptable to assume that the background cross section is a constant. We take the typical value, $0 . 0 2 4 \\mathrm { p b } ^ { - 1 }$ ，as the initial value in the simulation， which is given by reference [4]. The background region (from 3.50 GeV to 3.54 GeV) is supposed to contribute to the $\\sigma _ { B G }$ determination. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The same as two parameters fitting, we should consider how many points should be taken in the background region, at which energy these points should be locate, and how much luminosity should be arranged at these points. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 8 shows the relationship between the error of $\\tau$ mass and the number of data taking points in the background region. During the study the first point is at $E _ { t h } \\ =$ 3.55379GeV with $L _ { 1 } = 7 5 0 \\mathrm { p b } ^ { - 1 }$ and the second point is at $E _ { h } = 3 . 5 9 5 \\mathrm { G e V }$ with $L _ { 2 } =$ （204号 $2 5 0 \\mathrm { p b } ^ { - 1 }$ . The luminosity allotted on the background is $5 0 0 0 p b ^ { - 1 }$ and is divided evenly at these points. According to Figure 8, increasing of the points has no effect on the accuracy of the $\\tau$ mass. So, one point is enough to be taken to determine the background. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Totally, three energy points will be taken in the three parameters fitting program. similar as the two parameter ftting, the first point is at $E _ { t h } = 3 . 5 5 3 7 9 \\mathrm { G e V }$ Vwith $L _ { 1 } =$ （204号 $7 5 0 \\mathrm { p b } ^ { - 1 }$ and the second point is at $E _ { h } = 3 . 5 9 5$ GeV with $L _ { 2 } = 2 5 0 \\mathrm { p b } ^ { - 1 }$ . The energy of the third point is selected among the five points: 3.50,3.51,3.52,3.53,3.54GeV with the luminosity of $5 0 0 0 \\mathrm { p b } ^ { - 1 }$ . The relationship between the error of $\\tau$ mass and the energy are shown in figure 9. It is clear that the location of the energy point in the background region has no impaction on the error of $m _ { \\tau }$ mass. So that,3.50GeV is chosen as the third point. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Then a immediate question is, how much luminosity should be arranged at the third point? Figure 1O shows the relationship between the error of $\\tau$ mass and the luminosity at the third point. In figure 10,the star and the dot denote the cases that the total luminosity at the first and the second point is $2 0 0 p b ^ { - 1 }$ and $5 0 0 p b ^ { - 1 }$ , respectively. There is a minimal value of error of $\\tau$ mass,after that, the increasing luminosity at the background has no improvement to the accuracy of $\\tau$ mass value. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We fix the total luminosity as $2 0 0 \\ p b ^ { - 1 }$ ， and scan the luminosity allotted at the third point to find the optimal value. As shown in figure 11, the smallest error of $\\tau$ mass $S _ { m _ { \\tau } } =$ 0.0745 MeV is obtained when the luminosity equals $2 7 . 5 p b ^ { - 1 }$ , during the scan, the ratio of luminosity at the first and the second point is 3 to 1. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "However, whether or not the ratio of the luminosity,3 to 1,at the first and the second point is still the optimal value in the three parameter fitting? The distribution between the error of $\\tau$ mass and the ratio of the luminosity at the two points is shown in Figure 12. During the fitting,the luminosity at the third point is fixed as $2 7 . 5 p b ^ { - 1 }$ . As indicated in Figure 12, 3 to 1 is still the optimal value for the ratio of the luminosity at the first and the second point. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d4cecb1cc0414ffdd7f43191e2ff84f39ef3bfb3179ae99c0b5702f8ff68a9e.jpg",
+        "img_caption": [
+            "Figure 10: The relationship between error of $\\tau$ mass and the luminosity at the background point. The star line denotes that the total luminosity at the last two point is $2 0 0 p b ^ { - 1 }$ ， while the dotted line denotes that the total luminosity is $5 0 0 p b ^ { - 1 }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We extend the total luminosity from $1 0 0 \\ p b ^ { - 1 }$ to $5 0 0 \\ p b ^ { - 1 }$ , as shown in Figure 13, the optimal value of the luminosity at the third point is located in the band of about 10% of the total luminosity. The best ratio of the luminosity arranged at the first and the second point is fixed as 3 to $1$ . Then,fix the optimal luminosity at the third point,scan the ratio of the luminosity at the first and second point, the smallest errors of $\\tau$ mass are obtained at about $L _ { 1 } / ( L _ { 1 } + L _ { 2 } ) \\approx 0 . 7 5$ ，as shown in Figure 14, where $L _ { i }$ denotes the luminosity at the $i$ point. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For a summary of 3 parameters fitting, three points are needed to determine $m _ { \\tau }$ ， $\\epsilon$ ， and $\\sigma _ { b g }$ respectively. The optimal locations for the first and the second point are 3.55379 GeV and 3.595 GeV. The best ratio of the luminosity at the two points is 3 to 1. 3.5 GeV is selected as the location of the third point, about 1O% of the total luminosity should be arranged at this point. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6 Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 15 shows the comparison of the statistic error of $\\tau$ mass using one parameter, two parameters and three parameters fitting cases. Clearly, to obtain a certain statistic error, the three parameter fitting method need more luminosity, However the systematic uncertainty will be simplified. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The designed peak luminosity of BEPCII is $1 \\times 1 0 ^ { 3 3 } \\mathrm { { c m } ^ { - 1 } \\mathrm { { s } ^ { - 1 } } }$ . If the average efficiency of luminosity is taken as 5O% of the peak value, no more than three days data taking will lead to the statistic error of $\\tau$ mass less than O.1 MeV using three parameters fitting. We notice that this evaluation is on a basis of eμ tagged events only. According to previous BES result, the number of multi-channel-tagged (such as ee, $e \\mu$ , eh, μμ, μh, hh,where $h$ （20 denotes hadron) events is at least five times more that that of $e \\mu$ tagged events. If more channels are utilized to tag $\\tau$ -pair final states, more statics are excepted. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a0cbc0526a9983f2f708e13777a16d05c95195d45cc938727fcd002a49c94bf.jpg",
+        "img_caption": [
+            "Figure l1: The relationship between statistic error of tau mass and the luminosity at the background point. The total luminosity is fixed as $2 0 0 \\ p b ^ { - 1 }$ , the ratio of apportion luminosity at the first and the second point is 3 to 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef7e449a46ff43f391d2a55ac6d87977aebe180d09b66e10a4681a1f3e4c9055.jpg",
+        "img_caption": [
+            "Figure 12: The distribution of statistic error of $\\tau$ mass and the ratio of luminosity allotted at the first and the second point. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fbe9590120495e7cd25668ccc65b95ecab0740921327e616cc659f0b3d33d3a.jpg",
+        "img_caption": [
+            "Figure 13: The relationship between error of tau mass and the luminosity allotted at the background point. The total luminosity is extended from $1 0 0 \\ \\mathrm { p b } ^ { - 1 }$ to 500 pb $^ { - 1 }$ (From top to bottom). "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/6329aee6cec1fc7f24f345fdc11879591c0cb96c3f8ffdc00729b335779105aa.jpg",
+        "img_caption": [
+            "Figure 14: The relationship between error of tau mass and the ratio of the luminosity alltted at the first and the second points. The total luminosity is extended from 100 $\\mathrm { p b } ^ { - 1 }$ to 500 pb $^ { - 1 }$ (From top to bottom). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a4c12523701abc8f8d98f09e6f9f79c1f6761189dfb00c185f2c431bd7c28d3.jpg",
+        "img_caption": [
+            "Figure 15: The comparison of the statistic error of $\\tau$ mass using one parameter， two parameter and three parameter fitting methods (from left to right). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7 Summary ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The data taking scheme is optimized using 2 parameters fitting of the $m _ { \\tau }$ ，and $\\epsilon$ and 3 parameters fitting of the $m _ { \\tau }$ ， $\\epsilon$ and $\\sigma _ { B G }$ . The point number and its location of the energy points are optimized. The precision of the statistical error of $m _ { \\tau }$ is less than 0.1 MeV if three days data taking for 3 parameters fitting. The systematic error will be studied as soon. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] H. Albrecht et al. (ARGUS Collab.), Phys. Lett. B 292, 221 (1992).   \n[2] K. Belous et al. (Belle Collab.), Phys. Rev. Lett. 99. O11801 (2007).   \n[3] J. Z. Bai et al. (BES Collab.), Phys. Rev. D53, 20 (1996).   \n[4] J. Z. Bai et al. (BES Collab.),Phys. Rev. Let. 69, 3021 (1992).   \n[5] J. Z. Bai et al. (BES Collab.), HEP&NP, 16, 343(1992).   \n[6] M. B. Voloshin, Phys.Lett. B 556,153 (2003).   \n[7] B. H. Smith and M. B. Voloshin, Phys. Lett. B 324,177 (1994).   \n[8] A. Bogomyagkov et al., \"Research of Possibility to Use Beam Polarization for Absolute Energy Calibration in High-precision Measurement of Tau Leptonic Mass at VEPP-4M\"， Presented at the 9th European Particle Accelerator Conference, Lucerne, Switzerland, July 5-9, 2004.   \n[9] BES Collaboration, The BESII Detector (January, 2004).   \n[10] V. V. Anashin (Kedr Collab.),hep-ex/O611046v1   \n[11] S. Brandt, Data Analysis(3rd ed.)，Springer-Verlag, New York, 1999.   \n[12] X. H. Mo,“Study of high precision $\\tau$ mass measurement at BESIII, Nuclear Physics B(Proc.Suppl.)169(2007)132-139. ",
+        "page_idx": 12
+    }
+]

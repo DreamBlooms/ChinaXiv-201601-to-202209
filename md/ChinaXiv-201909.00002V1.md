@@ -1,0 +1,209 @@
+·研究构想(Conceptual Framework)·
+
+# 非安全依恋可塑性的神经机制
+
+马原啸 陈旭(西南大学心理学部，重庆 400715)
+
+摘要非安全依恋可塑性是借助认知启动技术(例如安全依恋启动)使非安全依恋个体长期处于敏感和支持性的环境中，从而唤醒个体积极的依恋经历，使其对依恋关系形成新的认知图式，最终实现非安全依恋个体内部工作模型的重构。本项目针对非安全依恋个体的认知加工缺陷，采用安全依恋启动的方法探索非安全依恋可塑性的发生机制及相应的神经生理基础。项目拟从单次安全依恋启动对非安全依恋个体认知加工缺陷的改善效应、多任务条件下对重复安全启动效应的检验以及重复安全依恋启动效应的追踪研究三方面开展非安全依恋可塑性研究；研究手段采用行为—生理—脑成像的技术，从安全依恋启动的性质、方式和时间三个维度上系统地探究非安全依恋可塑性的发生机制与神经基础。非安全依恋可塑性研究为安全依恋研究提供了新视角，研究提出的依恋图式重构理论是对安全基地图式理论的印证与发展，对重复安全启动效应的检验及追踪研究试图为非安全依恋可塑性研究构建一套科学有效的评估标准。研究成果对于非安全依恋人群的干预训练、提升依恋安全感、维护心理健康具有重要价值。
+
+关键词非安全依恋；认知加工缺陷；可塑性；安全依恋启动；神经生理机制
+
+分类号 B844
+
+# 问题提出
+
+个体与抚养者在早期互动经历的基础上所形成的依恋风格可能会影响其对外界刺激信息的认知加工偏向(Dan& Raz,2012; Edelstein & Gillath,2008; Liu,Ding,Lu,& Chen, 2017;Vrticka& Vuilleumier,2012; Zhai,Chen,Ma,Yang,& Liu,2016；马原啸，冉光明，陈旭,2016)。依恋焦虑个体否认自我内在价值，倾向于过度激活依恋系统并积极寻求与依恋对象的亲近，因而会对依恋相关信息形成一种过度的认知加工；与依恋焦虑个体相反，依恋回避个体否认他人价值，通过抑制依恋系统激活来回避依恋关系以保持与依恋对象的情感距离(Mikulincer& Shaver,2003)。非安全依恋个体过度趋近或回避的的认知加工缺陷(Dykas &Cassidy,2011)可能会导致心理弹性的下降，影响人际关系的处理(Wyman et al.,1999)以及较高的几率产生心理健康问题(Keinänen,Johnson,Richards,& Courtney,20l2;Lorenzini &Fonagy,2013;Woodhouse,Ayers,&Field,2015)。依恋安全个体对自我和他人的价值都持积极态度(Gillath,Selcuk,& Shaver,2008)，因此他们能以开放性的态度对待知觉到的社会信息并保持情感平衡(Mikulincer& Shaver,2007a)，因而如何促使非安全依恋风格向安全依恋风格转化成为了依恋研究中重点且迫切需要解决的问题。塑造非安全依恋个体的安全依恋风格不仅有助于矫正其认知加工缺陷，更有助提升个体的心理健康和生活幸福感。
+
+# 1.1非安全依恋个体的认知加工缺陷
+
+依恋风格作为一种重要的人格特质影响着个体的认知加工方式。依恋焦虑个体倾向于采用过度激活策略，在认知加工早期就对潜在的威胁和拒绝性信息表现出高度的唤醒，从而增强个体寻求依恋对象的亲近和支持的动机。依恋回避个体会倾向于采取抑制激活策略，更多的表现出一种防御性的姿态，对依恋相关的信息表现出高度的警觉，从而回避可能引起依恋行为的信息并抑制寻求与依恋对象亲近的行为，避免因遭到依恋对象的拒绝而引发痛苦的内心冲突(Main,1981)。非安全依恋个体的上述认知加工模式体现在认知加工的方方面面，比如情绪加工、社会认知、人际交往等。然而，过去20年间关于依恋风格的研究主要聚焦在依恋风格是如何影响个体对情绪性信息的注意上，因此本课题着重从情绪加工和选择性注意两个方面来阐述非安全依恋个体的认知加工缺陷。
+
+行为学研究发现依恋焦虑个体对依恋相关信息存在过度激活的认知加工，而依恋回避个体则表现出对认知加工的抑制(Edelstein& Gillath,2008;Suslow,Dannlowski,Arolt,&Ohrmann,2010; Tremblay& Sullivan,2010; Wilson & Ruben,2011)。 Suslow 等人 (2010)采用情绪启动任务研究了不同依恋类型对于不同情绪效价面孔启动的自动反应，结果表明高依恋回避导致了对悲伤面孔相对低的自动情绪反应。此外，有研究表明与安全依恋个体相比,依恋焦虑个体对害怕、悲伤等消极信息的唤醒度更高，而积极情绪对依恋回避个体唤醒度较低(Rognoni,Galati,Costa,&Crini,2008)。类似地，在选择性注意上，依恋回避个体对依恋相关积极或消极信息都表现出了较大的损耗(Edelstein,2006)，表明依恋回避个体选择性地抑制了对依恋相关材料的注意(Gillath,Giesbrecht,& Shaver,2009)，这与依恋回避者倾向于防御性地抑制潜在的痛苦性信息的假设相一致。国内研究者马书采、肖祝祝、周爱保、杨晓莉和向玲(2011)的研究结果也发现依恋回避与不同效价情绪词的工作记忆成绩呈负相关，表现出了回避性的注意偏向。痛觉研究也表明依恋焦虑者倾向于夸大疼痛感受，而依恋回避者倾向于抑 制疼痛 感受(Davies，Macfarlane,McBeth，Morss,& Dickens,2009；Tremblay&Sullivan,2010)。例如，研究采用止血带任务(The tourniquet task)测量了女性的疼痛阈限(Wilson&Ruben,2011)，结果表明依恋焦虑女性报告了更低的痛阈、更大的主观疼痛和夸张性；依恋回避女性则表现了更好的疼痛忍耐性和更低的心理唤醒度。Martinez,Mir,Sanchez,Mundo 和Martinez(2012）也以女性被试为对象，研究结果显示依恋焦虑与疼痛灾难化呈显著相关。
+
+认知神经研究也证实了上述发现。依恋焦虑个体在加工情绪信息时表现了较高的情绪唤起，例如，依恋焦虑个体对面孔表情的加工诱发了纹状体(striatum)，腹侧被盖体(ventraltegmental area)和 左 侧 杏仁核 (left amygdala)(Vrticka,Andersson,Grandjean，Sander，&Vuilleumier,2008)以及前额叶区域(prefrontal areas)、苍白球(globus pallidus)、屏状核(claustrum)和右小脑(right cerebellum)的较高激活(Donges et al.,2012)。此外,DeWall (2012)等人的研究也发现社会拒绝诱发了依恋焦虑个体较高的神经活动以及依恋回避个体较低的神经活动(dorsal anterior cingulate cortex,anterior insula)。然而，依恋焦虑个体在情绪唤醒上占用了较多认知资源，这导致的低效情绪管理能力使其无法合理的调节唤醒的情绪。同样地,Gillath,Bunge,Shaver,Wendelken 和Mikulincer (2005)发现回忆消极经历诱发了依恋焦虑个体在前颞极(anterior temporal pole)的较高激活和眶额叶皮层(orbitofrontal cortex)的较低激活，反映了依恋焦虑个体对消极信息的高唤醒以及较差的情绪调控能力。在ERP研究上也有相似的结果，例如，依恋焦虑个体在加工情绪性信息时表现了较大的 LPP 波幅(Ma,Chen,Ran, Ma,Zhang,& Liu,2017; Mark, Geurdes,& Bekker,2012; Zilber, Goldstein,& Mikulincer, 2007)。
+
+依恋回避个体的警觉-回避认知加工模型认为在认知加工早期的自动警觉能让他们对周围环境迅速做出反应，有利于及时启动回避行为(Donges,Zeitschel,Kersting,& Suslow,2015)。例如,Lenzi等人(2013)发现依恋回避个体在观看，模仿或移情时在动机、镜像和边缘系统表现了较大激活。然而，依恋回避个体的这种防御性加工模式导致了其对情绪信息的低唤醒，研究者发现依恋回避个体在加工情绪性信息时在胼抵体下扣带回皮层(subcallosalcingulate cortex)、侧前额叶(lateral prefrontal cortex)(Gillath et al.,2005)，初级躯体感觉皮层(Suslow et al.,2010)，纹状体(triatum)和腹侧被盖体(VTA)(Vrticka et al.,2008)、内侧眶额叶皮层(medial OFC)和扣带回后部(perigenual ACC)(Lenzi etal.,2013)以及左侧杏仁核(leftamygdala)(Rigon,Duff,&Voss,2016)激活较小。此外,ERP研究也支持了上述发现,Dan 和Raz(2012)发现依恋回避个体由生气面孔诱发的C1和P1波幅显著大于中性面孔，反映了一种警觉加工，在 N1,N2 和 N400 成分上，面孔表情却诱发了较低的波幅(Zhang,Li,& Zhou,2008)。
+
+依恋安全个体有较强安全感，惯常使用安全基地策略，能够较好处理人际关系，对他人是专注、热情和敏感的。神经生理学证据支持了上述结论。研究者发现相较于非安全依恋个体，婴儿面孔表情诱发了依恋安全个体杏仁核较弱的激活(amygdala)(Riem,Bakermans-Kranenburg，van IJzendoorn,Out,& Rombouts,2012)以及 腹 侧 纹 状 体(ventralstriatum)、催产素相关的下丘脑和脑垂体等奖赏脑区较大的激活(Strathearn,Fonagy,Amico,&Montague,2009; Vrticka et al.,2008;Vrticka& Vuillumier,2012)。此外，与非安全依恋母亲相比，婴儿面孔表情诱发了依恋安全母亲较小的N170 波幅和较大的 P300 波幅(Fraedrich,Lakatos,& Spangler, 2010; Leyh, Heinisch, Behringer, Reiner,& Spangler,2016)。
+
+# 1.2安全依恋启动效应研究
+
+考虑到在认知加工模式、处理人际关系以及维持自身心理健康水平上，依恋安全个体比依恋焦虑和回避个体具有明显优势，这使得许多成人依恋研究的目的是为发现可以促进成人安全感及安全基地策略使用的方法(安全依恋启动)，并进而探讨相应的心理机制。安全依恋启动是指通过情境性激活被试的安全依恋表征，暂时启动这些安全依恋表征可以让被试感到自己是安全的，随时可以得到依恋对象的保护和支持，从而提高依恋安全感，进而促其使用安全基地策略的方法。因此，安全依恋启动给研究者提供了一个科学可行的视角去探究非安全依恋的可塑性。近年来研究者通过采用安全依恋启动情境性激活被试安全依恋表征，提高依恋安全感，进而促其使用安全基地策略的方法对依恋系统活动进行实时动态考察，反映了个体依恋风格的发展变化过程及其与环境的相互作用(Gillath et al.,2008；郭薇，陈旭,杨楠,2011)。
+
+首先，安全依恋启动能够唤起个体积极情绪，消除威胁情境、心理创伤给被试带来的消极影响，进而增强心理健康水平。研究发现安全依恋启动能使个体以一种更为安全的方式应对威胁性关系情景(Beckes,Simpson,& Erickson,2010; Gabriel, Kawakami, Bartak,Kang,&Mann,2010; Gillath,Sesko,Shaver,& Chun,2010)。Gillath 和 Shaver (2007)发现连续 3 周共 9次的安全依恋启动结束一周后，启动组仍然比控制组报告了更高的自尊和积极情绪以及对他人更高的同情心，这表明重复安全依恋启动效应有更好的持续性。脑成像研究也发现呈现安全依恋对象的名字减弱了被试在社会排斥情境中下丘脑(hypothalamus)的激活(Karremans,Heslenfeld,van Dillen,& van Lange, 2O11)。类似地,Norman, Lawrence, Iles, Benattayallah 和Karl(2015)发现安全依恋启动减弱了依恋焦虑和依恋回避个体在加工威胁面孔和词汇信息时杏仁核(amygdala)的激活。对于神经症及人格障碍的研究也发现安全依恋启动后神经性厌食患儿前额激活增强(Nagamitsu et al.,2010)，边缘性人格障碍患者在安全依恋启动条件下表现出更强的颞上沟激活和较少的海马旁回激活(Buchheimet al.,2008)。
+
+其次，安全依恋启动能够提升非安全型个体的积极自我概念，削弱非安全依恋个体的防御机制，促进安全基地策略的使用，进而增加对外探索、自我实现及真诚的行为。研究发现安全依恋启动显著减少了依恋回避个体对创伤经历的回避倾向以及依恋焦虑个体回忆创伤经历时的强烈消极情绪(Cassidy,Shaver,Mikulincer,&Lavy,20o9; Shaver,Mikulincer,Lavy,&Cassidy,2009)。此外，安全依恋启动能够增加非安全依恋个体在人际交往中的真诚行为，摒除自我防御动机(Gabriel et al.,2010; Gillath et al.,2010)。Huang 和 Murnighan (2010)发现阈下呈现被试依恋对象的名字以启动其亲密关系图式表征增强了被试对陌生人的信任行为。神经生理研究发现观看恋人照片诱发了个体奖赏和动机系统密切相关的多巴胺受体丰富的脑区的激活(Aron et al., 2005)以及较大的 LPP 波幅(Langeslag,Jansma,Franken,& van Strien,2007)。
+
+最后，在人际关系方面，安全依恋启动可以改善非安全依恋个体的人际期望，帮助他们形成良好稳定的人际关系，进而同时增强非安全依恋个体的同情心和利他行为。一系列研究证明，安全依恋启动提升了非安全依恋个体对依恋对象的积极人际期望和行为(Gillath et al.,2008)。重复安全依恋启动研究也发现持续三天安全依恋启动后，启动组比控制组报告了更低的依恋焦虑以及更为积极的自我与人际关系评价，自我和人际关系的积极预期与安全依恋启动次数存在线性相关(Carmelley&Rowe,2007)。此外，研究还发现安全依恋启动会使被试对他人需要表现出更多的同情心(Mikulincer et al.,2001)。
+
+# 1.3安全依恋启动与非安全依恋可塑性
+
+安全基地图式理论认为个体对早期经验中来自依恋对象的关爱和安全支持的记忆是以安全基地图式的形式存在的(Steele etal.,2014;Waters& Waters,2006)。由于依恋对象能够持续、一致的在个体面临威胁时提供有效支持和应答，依恋安全个体的安全基地图式得到了较好的发展与巩固，而非安全依恋个体由于依恋对象长期的应答不一致、缺乏或无效，致使他们的安全基地图式会因为组织混乱、通达性较差而难以形成(Mikulincer,Shaver,Sapir-Lavid,& Avihou-Kanza,2009)。尽管个体的依恋风格被认为是相对稳定的，它同时也是一个发展中的结构。随着新的依恋经历不断被内化，个体可能会改变他们对以往依恋经历的认知和评价，从而产生与内部工作模型相关的新的认知图式(Carnelley&Rowe,2007; Mikulincer & Shaver,2007a,b; Sibley&Overall,2010)。而安全依恋启动正是采用特定的认知启动技术使个体暴露在温暖的依恋环境中，其产生的积极效应可以影响个体的认知、注意和行为(Gillath et al.,2008; Mikulincer, Gillath,& Shaver,2002)。Mikulincer 和 Shaver (2007c)提出了一个关于安全依恋启动效应的心理机制的启发式模型,该模型认为安全依恋表征的激活将会扩散到与之相关的感知觉、自我表征、自我管理和情感管理等方面。因此，虽然安全基地图式产生于个体早期与主要依恋对象的互动关系，非安全依恋个体的这种不安全的依恋图式并不一定是稳定不变的，而是会同化和顺应新的信息，并随之发生改变(Davila,Karmey,& Bradbury,1999)。的确，研究者认为个体的认知结构中包含多种依恋图式，与依恋对象积极的依恋记忆和消极的依恋经历共同存在于个体的依恋系统中(Baldwin,Keelan,Fehr,Enns,& Koh-Rangarajoo,1996; Mikulincer ＆ Arad,1999; Pierce&Lydon,2001)。在非安全依恋个体中，消极的依恋图式是占据主导地位的。安全依恋启动使非安全依恋个体暴露在安全的依恋环境中，唤醒了个体积极的依恋经历，从而激活了个体依恋系统中的安全依恋图式(Rowe&Carmelley,2003)。如果积极温暖的事件不断重复发生，随着时间的持续，这种安全依恋图式将会在非安全依恋个体的依恋系统中占据主导地位，最终实现非安全依恋个体内部工作模型的重构。因此，个体的依恋风格并非一成不变，而是会受到具体关系、情境的影响(Canterberry&Gillath,2013)。鉴于此，我们推测长期处于敏感和支持性的环境将会使非安全依恋个体对依恋关系形成新的认知图式，从而与旧依恋图式进行匹配与重组，进而发展出新的依恋图式。综上，安全依恋启动特别是重复安全依恋启动为非安全依恋可塑性研究提供了理论可行性和方法可行性。
+
+# 1.4 研究不足与方向
+
+对于非安全依恋可塑性的探索，前人研究从生活事件、社会支持的角度已经做了一些尝试，得出了许多有价值的研究结论，但非安全依恋可塑性及其神经机制没有被作为一个系统性问题进行探究。
+
+首先，忽视个体的意识状态在非安全依恋个体安全依恋启动效应中的作用。尽管意识和无意识安全依恋启动都产生了积极效应(Carmelley&Rowe,2007;Gillath& Shaver,2007)，但意识和无意识终归是两种完全不同的认知状态(Kouider,Dehaene,Jobert,&Le Bihan,2007),它们在安全依恋启动效应中的作用可能不同。事实上，研究者认为无意识启动不仅可以降低实验任务与要求对参与者的影响，而且还可以减少依恋回避个体的防御性反应(Gillath &Shaver, 2007)。
+
+其次，重复安全依恋启动效应及其神经机制缺乏探究。虽然安全依恋启动可以暂时提高非安全依恋个体的依恋安全感，改善其应对威胁刺激或社会拒绝的能力(Karremans et al.,2011; Norman et al.,2015)。但考虑到安全依恋启动所带来的依恋安全感的提升是状态性的,因此单次的安全依恋启动并没有涉及到依恋特质水平的改变(Gillath et al.,2008)。Gillath 等人(2008)认为除了启动的性质，启动的重复性也会影响到启动的效应,Brown,Jone 和
+
+Mitchell(1996)的研究也认为随着启动次数的增加，启动的效应会更强更持久。的确，依恋理论认为与依恋对象的持续互动不仅会在短时间内改善个体依恋系统的功能，从长远看还会影响个体稳定的依恋图式(Bowlby,1973)。虽然已有研究表明重复安全依恋启动效应具有较好的持续性(Carmelley&Rowe,2007; Gillath et al.,2008)，但也存在启动次数偏少和不连续的缺陷，最关键是缺乏对重复安全依恋启动效应神经机制的探究。
+
+再次，安全依恋启动方式相对单一且无针对性。安全依恋启动方式大致可以分为主动回忆(如，想象或回忆与依恋对象积极经历)和被动接受(依恋相关语义启动和情绪启动)两类(Mikulincer& Shaver,2007b)。然而已有研究的安全依恋启动方式相对单一，没有考虑到多种安全依恋启动方式的结合。此外，依恋回避个体具有消极的他人模型，为避免寻求与依恋对象亲近失败而导致的挫败感和痛苦感，他们认为寻求亲密感是错误和危险的。然而当前研究并未针对依恋回避个体这一特点设计针对性的安全依恋启动方式，这可能会影响到安全依恋启动的效应。
+
+最后，缺乏对重复安全依恋启动效应的系统性检验。重复安全依恋启动为非安全依恋可塑性提供了重要理论方向(Gillath et al.,2008;Gillath & Shaver,2007; Mikulincer& Shaver,2007c)，而对重复安全依恋启动效应的检验不仅是判断其是否有效的重要指标，更是非安全依恋可塑性研究的关键。现有安全依恋启动效应检验主要采用比较目标任务启动前后效应或者设置控制组的方式，但依恋风格涉及个体认知的方方面面，因此多维度系统性地检验重复安全依恋启动效应更能为非安全依恋可塑性提供科学证据。
+
+# 2研究构想
+
+基于上述内容，研究拟从安全依恋启动的视角对非安全依恋可塑性及神经机制进行系统性研究。首先，在横向水平上，探究非安全依恋个体安全依恋启动效应及其神经机制，即分别考察意识状态和持续时间对安全依恋启动效应的影响及相应的神经机制。其次，在纵向水平，通过追踪研究来考察重复安全依恋启动效应的时间持续性。因此，本研究期望以横纵结合的实验设计，采用行为-生理-脑成像技术对非安全依恋可塑性及其神经机制进行系统的探究。上述研究构想将分为三个部分进行阐述，具体研究内容图请见图1。
+
+![](images/55726b117b9942321b9e6cb21e5d8c3fa9a97f1a88784b938712bd48c8f66659.jpg)  
+图1研究内容简图
+
+# 2.1研究一：意识状态对非安全依恋个体安全依恋启动效应的影响
+
+尽管意识和无意识安全依恋启动都产生了持续的积极效应(Carmelley&Rowe,2007;Gillath& Shaver,2007)，但意识和无意识终归是两种完全不同的认知状态(Kouider et al,2007)，因此我们推测意识状态可能会影响非安全依恋个体的安全依恋启动效应。尽管当前安全依恋启动研究多以意识启动为主，但考虑到依恋回避个体对亲密依恋信息的防御性反应，意识安全依恋启动很可能对依恋回避个体并不适用。正如前文所述，研究者发现无意识启动不仅可以使参与者少受实验任务与要求的影响，而且还可以减少依恋回避个体的防御性反应(Gillath& Shaver,2007)，因此无意识安全依恋启动可能更适用于依恋回避个体。因此,意识安全依恋启动和无意识安全依恋启动在依恋焦虑个体和依恋回避个体上的适用性可能不同。针对当前研究中安全依恋启动方式相对单一且无针对性的现状，研究一拟从意识和无意识安全依恋启动两方面来考察对非安全依恋个体注意加工缺陷的改善，以及两种启动方式之间效应的差异。通过考察无意识与意识安全依恋启动在改善非安全依恋个体注意加工缺陷中的作用，从而明晰两种启动方式在依恋焦虑和回避个体中的有效性和适用性，进而深化研究者关于启动性质对安全依恋启动效应的理解。
+
+具体而言，研究一拟采用改进的线索提示范式，通过两个ERP实验考察意识状态在非安全依恋个体安全依恋启动效应中的作用。实验1拟通过 ERP 技术探讨意识(阈上)安全依恋启动条件下，依恋焦虑和回避个体对依恋相关刺激注意加工的时间进程特点。为了探索这一问题，实验1将操控三个变量：依恋风格(依恋焦虑、依恋回避)、启动效价(中性、安全)和面孔情绪(中性、负性)，其中依恋风格为被试间变量，启动类型和面孔情绪为被试内变量。
+
+需要注意的是，当前研究采用的启动材料具有依恋相关性，这是由于前人研究发现安全依恋启动和积极情绪启动具有不同的效应(Mikulincer&Arad,1999)。例如,Mallinckrodt (2007)的研究发现安全依恋启动比积极情绪启动使被试产生了更强的共情反应。研究假设安全依恋启动可以改善依恋焦虑个体过度趋近的注意加工模式，在依恋回避个体上无类似效应。具体表现在相对于中性启动，依恋焦虑个体在安全依恋启动下将会表现出更小的N170振幅和更大的P300振幅；依恋回避个体在安全依恋启动下的N170和P300 振幅与中性启动相比无显著性差异。
+
+为了更系统地研究意识状态对安全依恋启动效应的影响，实验2拟运用ERP技术考察无意识(阈下)安全依恋启动条件下，依恋焦虑和回避个体对依恋相关刺激注意加工的时间进程特点。实验2的实验设计和实验1基本相同，唯一的区别是：在呈现启动刺激时，呈现时间为 $2 2 ~ \mathrm { m s }$ ，以达到无意识启动的目的。此外，在实验结束时会让被试进行一个迫选再认测试，以检验阈下呈现的启动刺激是否被被试觉察。研究假设无意识安全依恋启动可以改善依恋回避个体的过度回避的注意加工模式。具体表现在相对于中性启动，依恋回避个体在依恋安全启动下将会表现出更小的P100振幅和更大的P300振幅；依恋焦虑个体在无意识安全依恋启动下的N170 和P300 振幅与中性启动相比无显著性差异。
+
+# 2.2研究二：多任务条件下非安全依恋个体重复安全依恋启动效应的考察
+
+尽管安全依恋启动可以暂时唤起非安全依恋个体自信、温暖等积极情绪，提高他们的依恋安全感，但单次安全依恋启动所带来的可能仅仅是依恋状态的提升而非特质水平的改变，并没有触及非安全依恋个体依恋可塑性的本质。Gillath 等人(2008)也认为除了启动的性质，启动的重复性也会影响到启动的效应。根据图式理论，结合 Bretherton 和 Munholland (1999)以及Davila 等(1999)的观点，我们推测如果依恋安全感能通过实验的方法持续性地增强，这将有助于非安全依恋个体安全依恋图式的产生。因此，研究二拟对依恋焦虑和回避个体连续进行30天的安全依恋启动训练。重复安全依恋启动对依恋焦虑和回避个体的提升不仅只体现在认知加工能力上，依恋理论认为依恋安全是确保其他行为系统功能健全的一个基本前提(Bowlby,1982;Mikulincer& Shaver,2003,2007b)。安全启动效应心理机制的启发式模型也认为对安全依恋表征的激活将会扩散到与之相关的感知觉、自我表征、自我管理和情感管理等方面(Mikulincer& Shaver 2007c)。因此，在重复安全依恋启动效应的检验上，当前研究旨在从依恋相关的多个认知与行为系统出发对重复安全依恋启动效应进行系统性检验，这也是评估非安全依恋可塑性的有效性和可靠性的关键。具体而言，研究二主要考察安全依恋启动训练前后个体在生化指标(催产素)、共情水平、以及应对社会拒绝能力上的表现及相应的大脑活动变化。为了进一步验证重复安全依恋启动能否在特质水平上改变非安全依恋个体的依恋安全感，研究二还将在重复安全依恋启动后对比依恋安全个体和非安全依恋个体在多任务上的表现来考察重复安全依恋启动效应。
+
+安全依恋启动训练流程：安全依恋启动训练前，被试需要填写亲密关系问卷和状态性成人依恋量表。首先，让被试想象或回忆以往积极依恋经历并写下来。之后，让被试观看表征积极温暖依恋的场景图片和视频。此外，我们还要求被试在晚上休息前，以日记的形式记录一天来发生的积极温暖事件。每隔一周进行一次亲密关系问卷和状态性成人依恋量表的测量。控制组的启动训练材料均为依恋无关的中性图片或视频刺激，日记的记录也要求以日常的中性事件为主，例如课程学习情况。
+
+需要注意的是，在观看表征积极温暖依恋场景图训练中，依恋焦虑和回避个体的指导语不同。依恋焦虑个体的任务是判断图片传达的情绪是否是温暖的，而依恋回避个体的任务是指出图片中出现的人数。我们有意地将依恋回避个体的意识注意从图片效价上分离，这样操纵的目的是将任务转化为一种内隐情感任务(Dan& Raz,2012)。
+
+研究二拟采用多种神经生理技术，通过三个实验从养育系统、共情系统和心理调适系统综合考察非安全依恋个体的重复安全依恋启动效应。依恋安全与养育系统紧密相关，而催产素水平又是衡量个体养育质量的重要指标。考察重复安全依恋启动对非安全依恋个体催产素水平的影响，可以使我们通过养育系统功能来检验重复安全依恋启动效应。实验3主要操控三个变量：依恋风格(依恋安全、依恋焦虑、依恋回避)、组别(依恋启动组、控制组)和测量时间点(前测、后测),其中依恋风格和组别为被试间变量，测量时间点为被试内变量。内源性催产素测量上，在安全依恋启动训练前邀请被试来到实验室，休息10分钟后采集第1个唾液样本(基线阶段)。随后，让被试观看一段5分钟的婴儿视频，视频包含婴儿高兴和哭泣的片段，在视频结束10分钟后采集第2个唾液样本(任务条件)。第2次采集结束后10分钟进行第3次唾液样本的采集(恢复阶段)。为了避免唾液催产素自身分泌节律的影响，实验安排在14:00\~17:00进行。前后测流程相同。研究假设依恋焦虑和回避个体后测催产素水平显著高于前测，且前测阶段依恋安全个体催产素水平显著高于依恋焦虑和回避个体，后测阶段依恋风格组间无显著性差异。
+
+依恋安全个体具有较好的共情能力，安全依恋启动也被证明可以增强个体的共情水平和利他行为。因此，考察重复安全依恋启动对非安全依恋个体共情能力的影响，可以使我们通过共情系统功能来检验重复安全依恋启动效应。实验4拟采用fMRI技术检验重复安全依恋启动对非安全依恋个体共情能力的改善及其神经活动。实验主要操控三个变量：依恋风格(依恋安全、依恋焦虑、依恋回避)、组别(依恋启动组、控制组)和测量时间点(前测、后测)，其中依恋风格和组别为被试间变量，测量时间点为被试内变量。实验材料为婴儿面孔表情，实验任务分为两种：情绪共情(被试会被要求观看并模仿婴儿面孔表情)和认知共情(被试被要求观察并尽力对婴儿面孔移情)。前后测流程相同。研究假设在扣带回膝部和眶额叶皮层，后测情绪和认知共情任务所诱发的依恋焦虑和回避个体的神经活动显著大于前测任务；此外，前测阶段依恋安全个体的扣带回膝部和眶额叶皮层激活显著高于依恋焦虑和回避个体，后测阶段依恋风格组间无显著性差异。
+
+安全依恋的一个重要标志就是良好的心理调适系统，个体在社会排斥任务中的表现是衡量个体心理调适能力的重要标准。考察重复安全依恋启动对非安全依恋个体心理调适系统的影响，可以使我们通过社会排斥任务来检验非安全依恋个体的重复安全依恋启动效应。实验5拟采用fMRI和内源性皮质醇的手段检验重复安全依恋启动对非安全依恋个体面临社会排斥时神经生理活动的影响。实验主要操控三个变量：依恋风格(依恋安全、依恋焦虑、依恋回避)、组别(依恋启动组、控制组)和测量时间点(前测、后测)，其中依恋风格和组别为被试间变量，测量时间点为被试内变量。实验任务为经典社会排斥范式：Cyberball网络掷球游戏。皮质醇测量上，被试来到实验室10 分钟后(核磁扫描前)采集第1个唾液样本(基线阶段)。核磁扫描结束10 分钟后采集第2个唾液样本(任务条件)。第2次采集结束后10分钟进行第3 次唾液样本的采集(恢复阶段)。为了避免唾液皮质醇自身分泌节律的影响，实验安排在14:00\~17:00进行。此外，为了排除被试对社会排斥任务产生熟悉效应，每天的安全依恋启动训练任务中都会包含社会排斥任务。但与前后测不同的是，在训练期间Cyberball 任务的两个阶段接纳和排斥是随机出现的：可能都是接纳或者排斥，也可能接纳在前排斥在后，或排斥在前接纳在后。前后测流程相同。研究假设依恋焦虑和回避个体在后测任务上的皮质醇水平以及背侧前扣带回和前脑岛的激活显著小于前测任务；此外，前测阶段依恋安全个体的皮质醇水平以及背侧前扣带回和前脑岛激活显著高于依恋焦虑和回避个体，后测阶段依恋风格组间无显著性差异。
+
+# 2.3 研究三：重复安全依恋启动效应的持续性检验
+
+除了对重复安全依恋启动效应从多个维度进行检验之外，衡量重复安全依恋启动效应的另一个重要指标就是启动所获得的依恋安全感的时间持续性(Camelley&Rowe,2007;Gillath et al.,2008;Gillath& Shaver,2007)。为了进一步验证重复安全依恋启动能否达到非安全依恋可塑性的目的，研究三拟通过对非安全依恋个体在重复安全依恋启动结束后进行 30天的追踪来检验启动效应的时间持续性。为了确保研究的连贯性和可比较性，在追踪研究中仍然采用与研究二相同的实验任务，即从养育系统、共情系统和心理调适系统三个方面来检验重复安全依恋启动效应的时间持续性。此外，追踪任务还包括亲密关系问卷和状态性成人依恋量表的测量。具体流程为邀请被试在重复安全依恋启动结束后的第7、14,21,28天分别到实验室进行问卷填写和实验任务。
+
+实验6拟通过采集被试重复安全依恋启动结束后1\~4周的内源性催产素来检验重复安全依恋启动效应在养育功能上的持续效应。实验主要操控三个变量：依恋风格(依恋焦虑、依恋回避)、组别(依恋启动组、控制组)和测量时间点(0(后测)、1、2、3、4周)，其中依恋风格和组别为被试间变量，测量时间点为被试内变量。实验流程和催产素采集流程同实验3。研究假设安全依恋启动训练结束后1\~4周依恋焦虑和回避个体催产素水平与后测催产素水平无显著性差异；安全依恋启动训练结束后1\~4周依恋焦虑和回避个体在依恋特质、状态问卷分数上与后测分数无显著性差异。
+
+实验7拟通过测量被试在重复安全依恋启动结束后1\~4周的共情任务上的得分来检验重复安全依恋启动效应在共情功能上的持续效应。实验主要操控三个变量：依恋风格(依恋焦虑、依恋回避)、组别(依恋启动组、控制组)和测量时间点(0(后测)、1、2、3、4周)，其中依恋风格和组别为被试间变量，测量时间点为被试内变量。实验流程同实验4。研究假设安全依恋启动训练结束后1\~4周依恋焦虑和回避个体共情能力得分与后测无显著性差异。
+
+实验8拟通过采集被试重复安全依恋启动结束后1\~4周的内源性皮质醇来检验重复安全依恋启动效应在心理调适功能上的持续效应。实验主要操控三个变量：依恋风格(依恋焦虑、依恋回避)、组别(依恋启动组、控制组)和测量时间点(0(后测)、1、2、3、4周)，其中依恋风格和组别为被试间变量，测量时间点为被试内变量。实验流程和催产素采集流程同实验5。同样，在追踪阶段，为了防止被试对社会排斥任务产生熟悉效应，每周随机两天被试需要到实验室完成Cyberball任务。研究假设安全依恋启动训练结束后1\~4周社会拒绝所诱发的依恋焦虑和回避个体的皮质醇水平与后测无显著性差异。
+
+# 3理论建构
+
+过去 20年中，不同依恋风格及其相应的认知加工模式已被探究的较为清晰。非安全依恋个体伴随着过度趋近和回避的认知加工缺陷，这可能会导致非安全依恋个体产生认知失调，阻碍良好社会关系的建立和保持，甚至有较高概率罹患精神疾病(Lorenzini&Fonagy,2013;Keinänen et al.,2012;Woodhouse et al.,2015)。因而如何促使非安全依恋风格向安全依恋风格转化成为了依恋研究的重点和迫切需要解决的问题。考虑到在认知加工模式、处理人际关系以及维持自身心理健康水平上，依恋安全个体比依恋焦虑和回避个体具有明显优势，这使得许多成人依恋研究的目的是为发现可以促进成人安全感及安全基地策略使用的方法(安全依恋启动)，并进而探讨相应的心理机制。虽然前人研究做了大量有益探索，得出了许多有价值的研究结论，但是必须承认现有安全依恋启动研究还较为"粗放”，对安全依恋启动效应缺乏深入全面的探索。本研究以依恋可塑性为视角，试图从安全依恋启动效应的适用性、重复安全依恋启动效应的系统检验和重复安全依恋启动效应的追踪三个方面去诠释非安全依恋可塑性的发生机制及其神经生理基础。
+
+本研究首先探究了个体的意识状态在安全依恋启动效应中的作用。尽管意识和无意识安全依恋启动都产生了积极效应(Cassidy et al.,2009; Gillath et al.,2008)，但意识和无意识终归是两种完全不同的认知状态(Kouider etal.,2007)，研究者对于两种启动方式的有效性和适用性知之甚少。非安全依恋个体的安全依恋启动研究的一个必要前提是实验操纵(启动)激活了个体的安全依恋图式、提升了依恋安全感。然而，鉴于依恋回避个体寻求与依恋对象亲近失败的痛苦经历，这类个体认为亲密寻求是徒劳的，甚至是危险的(Vrticka&Vuilleumier,2012)。考虑到依恋回避个体对亲密信息存在一种防御性机制，意识安全依恋启动可能对依恋回避个体来说并不适用。的确，研究者认为无意识启动不仅可以降低实验任务与要求对参与者的影响，而且还可以减少依恋回避个体的防御性反应(Gillath& Shaver,2007)。最近的一项元分析研究也发现意识安全依恋启动对依恋回避个体并没有产生积极的提升效应，研究者推测可能是由于依恋回避个体存在一种认知防御，而无意识安全依恋启动则可能绕过这种认知情感的防御(Gillath& Karantzas,2019)。因此，对于依恋回避个体而言，无意识安全依恋启动可能是一种更有针对性的启动方式。厘清意识和无意识安全依恋启动的有效性和适用性不仅是当前依恋可塑性研究的基石，而且也启示了未来研究中需要根据具体的非安全依恋类型去设计特定的启动方式。
+
+研究接下来将对非安全依恋个体开展安全依恋启动训练，从多个认知行为系统对重复安全依恋启动效应进行系统性检验，这也是非安全依恋可塑性研究的核心阶段。研究者认为安全依恋启动效应不仅受到启动性质的影响，启动持续时间也在提升依恋安全感中扮演着重要角色(Gillath etal.,2008)。安全依恋图式理论认为个体对早期经验中来自依恋对象的关爱和安全支持的记忆是以安全基地图式的形式存在的(Steele et al.,2014;Waters&Waters,2006)。然而，个体对过去经验的编码决定了将来如何对相似的经验进行加工，当遇到新的事件时，首先这个事件会作为意外事件被个体记录，但如果该事件不断重复发生，则一个新的图式就会建立起来(Bretherton & Munholland,1999)。Brown 等人(1996)的研究也认为随着启动次数的增加，启动的效应会更强更持久。的确，依恋理论认为与依恋对象的持续互动不仅会在短时间内改善个体依恋系统的功能，从长远看还会影响个体稳定的依恋图式(Bowlby，1973)。尽管依恋内部工作模式具有稳定性，依恋风格也被认为是一种特质水平的个体差异(Mikulincer& Shaver,2007a)，然而在社会支持的环境下个体的依恋风格依然可以得到改变(Gillath& Karantzas,2019; Sibley&Overall,2010)。据此，本研究提出的依恋图式重构理论认为当非安全依恋个体长期处在敏感且支持性的环境时，新建立的依恋联结将会与以往的图式进行匹配从而更新出新的依恋图式，进而促使非安全依恋向安全依恋转变，即非安全依恋的可塑性。在判定非安全依恋是否可塑之前，必须具有客观科学的评估方法。重复安全依恋启动对非安全依恋个体的提升不仅只体现在认知加工能力上，依恋理论认为依恋安全是确保其他行为系统功能健全的一个基本前提(Bowlby,1982;Mikulincer & Shaver,2003,2007b)。安全启动效应心理机制的启发式模型也认为对安全依恋表征的激活将会扩散到与之相关的感知觉、自我表征、自我管理和情感管理等方面(Mikulincer& Shaver 2007c)。为了进一步验证重复安全依恋启动能否达到非安全依恋可塑性的目的，对重复安全依恋启动效应从多个维度进行检验十分必要。因此，本研究拟通过安全依恋启动训练对依恋相关认知与行为系统—养育系统、共情系统和心理调适系统—的影响系统性检验重复安全依恋启动效应，这也是非安全依恋可塑性研究的关键。
+
+最后本研究旨在从纵向的时间序列上去检验重复安全依恋启动在时间序列上的持续效应。以往研究表明衡量重复安全依恋启动效应的另一个重要指标就是启动所获得的依恋安全感的时间持续性(Carnelley & Rowe, 2007; Gillath et al.,2008; Gillath & Shaver, 2007)。的确,安全依恋图式的建立意味着个体完成了稳定的安全依恋风格的塑造，因而不会像单次安全依恋启动效应会随着时间推移而产生衰减。与上述从横向的认知与行为系统来检验重复安全依恋启动效应类似，考察非安全依恋个体安全依恋启动效应的时间持续性实质上也是衡量可塑性研究是否有效的重要指标。总之，通过依恋相关的多个认知行为系统和启动效应的持续时间来检验重复安全依恋启动效应，目的都是为了建立可靠全面的非安全依恋可塑性的评估标准。
+
+非安全依恋可塑性研究能够使研究者从新的理论视角去认识非安全依恋可塑性的发生、发展过程以及评估机制，在深化安全依恋启动研究的同时也在验证依恋图式理论的核心假设、进一步拓展和深化依恋理论方面做出了贡献。此外，安全依恋风格的塑造有助于个体提升依恋安全感和建立良好的人际关系，而且也对从根本上维护和提升了个体的心理健康，提高个体的幸福感和生命质量，推进和谐社会的建设，有着重大的现实意义。
+
+#
+
+参考文献   
+郭薇，陈旭，杨楠.(2011).安全基地启动及其脑机制．心理发展与教育,27(5),553-560.   
+马原啸，冉光明，陈旭.(2016).不安全依恋者注意偏向的形成机制及神经基础．心理科学进展,24(3), 392-401.   
+马书采，肖祝祝，周爱保，杨晓莉，向玲.(2011).回避性依恋和注意偏向：刺激普遍性与刺激特定性．心理 科学,34(6),1313-1319.   
+Aron,A.,Fisher,H.,Mashek,D.J.,Strong,G.,Li,H.F.,&Brown,L.L. (2o5).Reward,motivation,andemotion systems associated with early-stage intense romantic love. Journal of Neurophysiology, 94(1),327-337.   
+Baldwin，M.W.，Keelan，J.P.R.，Fehr，B.，Enns，V.，& Koh-Rangarajoo，E.(1996).Social-cognitive conceptualization of attachment working models: Availability and accessibility effects. Journal of Personality and Social Psychology,71(1), 94-109.   
+Beckes,L., Simpson, J.A., & Erickson, A. (2010). Of snakes and succor: Learning secure atachment associations with novel faces via negative stimulus pairings. Psychological Science. 21(5),721-728.   
+Bowlby,J. (1973).Attachment and loss Separation-anxiety and anger, vol.2.New York,NY,Basic Books.   
+Bowlby, J. (1982). Attachment and los: Retrospect and prospect. American Journal of Orthopsychiatry, 52(4), 664-678.   
+Bretherton,I.,& Munholland,K.A. (1999). Internal working models in attachment relationships: A construct revisited.In J. Cassidy & P.R. Shaver (Eds.)，Handbook of attachment: Theory，research，and clinical applications (pp. 89-111). New York: Guilford Press.   
+Brown,A. S., Jones,T.C.,& Mitchell D.B.(1996).Single and multiple test repetition priming in implicit memory. Memory, 4(2),159-173.   
+Bucheim,A.,Erk,S., George,C.,Kachele,H., Kircher,T.,Martius,P.,..Walter,H. (2o08). Neural correlatesof attachment trauma in borderline personality disorder: A functional magnetic resonance imaging study. Psychiatry Research: Neuroimaging,163(3),223-235.   
+Canterberry，M.，& Gillath,O.(2013). Neural evidence for a multifaceted model of attachment security. International Journal of Psychophysiology,88(3),232-240.   
+Carnelley, K.B.,&Rowe,A. C.(20o7). Repeated priming ofatachment security influences later views of self and relationships.Personal Relationships,14(2),307-320.   
+Cassidy,J.,Shaver,P.R.,Mikulincer,M.,&Lavy,S. (2o9).Experimentally induced securityinfluencesresponses
+
+to psychological pain.Journal of Social and Clinical Psychology,28(4),463-478.
+
+Dan, O.,& Raz, S. (2012). Adult atachment and emotional processing biases: An event-related potentials (ERPs) study.Biological Psychology,91(2),212-220.
+
+Davies,K.A., Macfarlane, G.J., McBeth,J.,Morriss,R.，& Dickens, C.(2009). Insecure attachment style is associated with chronic widespread pain. PAIN,143(3), 200-205.   
+Davila, J.,Karney,B.R.,&Bradbury,T.N. (1999). Attachment Change Processes inthe Early Years of Marriage. Journal of Personality & Social Psychology, 76(5),783-802.   
+DeWall,C.N., Masten, C.L.,PowellC., Combs,D.,Schurtz,D.R.，& Eisenberger,N.I. (2012). Do neural responses to rejection depend on attachment style? An fMRI study. Social Cognitive and Affective Neuroscience, 7(2),184-192.   
+Donges,U.S.,Kugel,H., Stuhrmann,A.,Grotegerd,D.,Redlich,R.,Lichev,V.,..Dannlowski, U. (2).Adult attachment anxiety is asociated with enhanced automatic neural response to positive facial expression. Neuroscience,220,149-157.   
+Donges,U.S., Zeitschel,F.， Kersting,A.，& Suslow,T. (2015). Adult attachment orientation and automatic processing of emotional information on a semantic level: A masked afective priming study. Psychiatry Research,229(1-2),174-180.   
+Dykas,M. J.,& Cassidy, J. (2011). Attachment and the processing of social information across the life span: Theory and evidence. Psychological Bulletin,137(1),19-46.   
+Edelstein,R. S. (20o6). Atachment and emotional memory: Investigating the source and extent of avoidant memory impairments. Emotion, 6(2),340-345.   
+Edelstein,R. S.,& Gillath,O. (2oo8). Avoiding interference: Adult attachment and emotional processing biases. Personality and Social Psychology Bulletin,34(2),171-181.   
+Fraedrich,E. M.,Lakatos,K.,& Spangler, G. (2010). Brain activity during emotion perception: The role of attachment representation. Attachment & Human Development,12(3),231-248.   
+Gabriel, S., Kawakami, K.，Bartak, C., Kang, S.J.,& Mann, N. (2010). Negative self-synchronization: Will change to be like you when it is bad for me?.Journal of Personality and Social Psychology,98(6),857-871.   
+Gillath,O., Bunge,S.A., Shaver,P.R., Wendelken, C.,& Mikulincer,M. (2005). Atachment-style diferences in the ability to suppress negative thoughts: Exploring the neural correlates. Neuroimage,28(4), 835-847.   
+Gillth, O., Giesbrecht,B.& Shaver,P.R. (oo9). Attachment,attention,and cognitive control: Atachment style and performance on general atention tasks. Journal of Experimental Social Psychology,45(4), 647-654.
+
+Gillath,O.，& Karantzas，G. (2019).Atachment security priming: A systematic review. Current opinion in psychology,25,86-95.
+
+Gillth,O.,Selcuk,E.,& Shaver,P.R. (2o08).Moving toward a secure attachment style: Can repeated security priming help?. Social and Personality Psychology Compass,2(4),1651-1666.   
+Gilath, O., Sesko,A.K.,Shaver,P.R.,&Chun,D.S. (20l0). Atachment,authenticity,and honesty: Dispositional and experimentally induced security can reduce self- and other-deception. Journal of Personality and Social Psychology, 98(5), 841-855.   
+Gillath,O.,& Shaver,P.R. (2007). Long-term effects of repeated security priming. Unpublished manuscript, Department of Psychology, University of Kansas.   
+Huang,L.，& Murnighan, J. K. (2O10). What's in a name? Subliminally activating trusting behavior. Organizational Behavior and Human Decision Processes,1l(1),62-70.   
+Karremans,J. C., Heslenfeld,D.J.,van Dillen,L.F.,& van Lange,P.A. M. (2o11).Secure atachment partners attenuate neural responses to social exclusion: An fMRI investigation. International Journal of Psychophysiology, 81(1), 44-50.   
+Keinänen,M. T.，Johnson,J.G.，Richards，E.S.,& Courtney,E.A. (2012). A systematic review of the evidence-based psychosocial risk factors for understanding of borderline personality disorder. Psychoanalytic Psychotherapy,26(1), 65-91.   
+Kouider,S.,Dehaene,S.,Jobert,A,&Le Bihan,D. (2oo7). Cerebral bases ofsubliminal and supraliminal priming during reading. Cerebral Cortex,17(9),2019-2029.   
+Langeslag,S.J.E.,Jansma,B.M.,Franken,I. H.A.,&van Strien,J.W. (2o).Event-related potentialresponses to love-related facial stimuli. Biological Psychology,76(1-2),109-115.   
+Lenzi, D.,Trentini,C.,Pantano,P.,Macaluso,E.,Lenzi, G.L.& Ammaniti,. (Ol3).Attachment modelsaffect brain responses in areas related to emotions and empathy in nuliparous women. Human brain mapping, 34(6), 1399-1414.   
+Leyh,R., Heinisch,C.,Behringer,J.,Reiner,I.,& Spangler,G. (20l6).Maternal attchment representationand neurophysiological processing during the perception of infants’ emotional expressions. PloS One,11(2), e0147294.   
+Liu,Y.,Ding, Y.,Lu,L,& Chen,X. (2017). Atention bias of avoidant individuals to attachment emotion pictures. Scientific Reports,7, 41631.   
+Lorenzini,N.,&Fonagy,P. (20l3). Atachment and personality disorders: Ashort review.Focus,11(2),155-166.
+
+Ma,Y. X.,Chen,X.,Ran, G.M., Ma,H.J., Zhang,X.,& Liu,G. Z. (2017). The processing of body expressions during emotional scenes: The modulation role of attachment styles. Scientific Reports, 7, 44740.
+
+Main, M. (1981). Avoidance in the service of attchment: A working paper. Behavioral development: The Bielefeld Interdisciplinary Project, New York,NY: Cambridge University Press, 651-693.   
+Mallinckrodt,B.(2O07).A callto broaden and build Mikulincer and Shaver'swork on the benefitsof priming attachment security. Psychological Inquiry,18(3),168-172.   
+Mark,R.E., Geurdes,F.1. M.,&Bekker,M.H.J. (2012). Atachment styles are related to ERPs elicited to angry faces in an oddball paradigm. Journal of Behavioral & Brain Science,2(1),128-140.   
+Martinez,M.P.,Miro,E.，Sanchez,A.I.,Mundo,A.，& Martinez,E.(2012). Understanding the relationship between atachment style, pain appraisal and illness behavior in women. Scandinavian Journal of Psychology, 53(1), 54-63.   
+Mikulincer,M.,& Arad, D. (1999). Atachment working models and cognitive openness in close relationships: A test of chronic and temporary accessibility effects. Journal of Personality and Social Psychology，77(4), 710-725.   
+Mikulincer,M., Gillth,O., Halevy, V., Avihou,N.,Avidan,S.,& Eshkoli,N. (2001). Attachment theory and reactions to others' needs: Evidence that activation of the sense of attachment security promotes empathic responses. Journal of Personality and Social Psychology, 81(6),1205-1224.   
+Mikulincer，M.，Gillath，O.，& Shaver，P.R. (2002). Activation of the atachment system in adulthood: Threat-related primes increase the accessbility of mental representations of attachment figures.Journal of Personality and Social Psychology,83(4),881-895.   
+Mikulincer，M.，& Shaver，P. R.(2003). The atachment behavioral system in adulthood: Activation, psychodynamics, and interpersonal processes. Advances in Experimental Social Psychology,35,53-152.   
+Mikulincer,M.,& Shaver,P.R. (2oo7a). Boosting attchment security to promote mental health, prosocial values, and inter-group tolerance. Psychological Inquiry,18(3),139-156.   
+Mikulincer, M., Shaver,P.R. (20o7b). Attachment in Adulthood: Structure, Dynamics,and Change. New York: Guilford Press.   
+Mikulincer， M.，& Shaver， P.R. (20o7c). Reflections on security dynamics: Core constructs，psychological mechanisms,relational contexts， and the need for an integrative theory. Psychological Inquiry，18(3), 197-209.   
+Mikulincer,M.,Shaver,P.R.,Sapir-Lavid, Y.,& Avihou-Kanza,N. (20o9). What's inside the mindsof securely
+
+and insecurely attched people?The secure-base script and its associations with atachment-style dimensions
+
+Journal of Personality and Social Psychology, 97(4), 615-633.   
+Nagamitsu,S.,Yamashita,F.,Araki,Y.,Iizuka, C.,Ozono,S.,Komatsu,H,..atsuishi,T. (201o). Characteristic prefrontal blood volume patterns when imaging body type,high-calorie food, and mother-child atachment in childhood anorexia nervosa: A near infrared spectroscopy study. Brain and Development,32(2),162-167.   
+Norman,L.,Lawrence,N., Iles,A.,Benattayallh, A. & Karl, A. (O15).Attachment-security priming attenuates amygdala activation to social and linguistic threat. Social Cognitive and Affctive Neuroscience,10(6), 832-839.   
+Pierce,T.,& Lydon,J.E. (2oo1). Global and specific relational models in the experience of social interactions. Journal of Personality and Social Psychology, 80(4), 613-631.   
+Riem, M. M.E., Bakermans-Kranenburg, M. J., van IJzendoorn, M. H., Out, D.,& Rombouts,S.A. R.B. (2012). Attachment in the brain: Adult atachment representations predict amygdala and behavioral responses to infant crying. Attachment & Human Development,14(6),533-551.   
+Rigon,A.， Duff M. C.，& Voss,M. W. (2016). Structural and functional neural correlates of self-reported attachment in healthy adults: Evidence for an amygdalar involvement. Brain Imaging& Behavior,10(4), 941-952.   
+Rognoni,E., Galati,D.,Costa,T.,& Crini,M. (0o8). Relationshipbetween adult attachment patterns,emotional experience and EEG frontal asymmetry. Personality and Individual Diffrences,44(4), 909-920.   
+Rowe,A.，& Carnelley,K.B. (2003). Attachment style diferences in the processing of attachment-relevant information: Primed-style effects on recall interpersonal expectations,and afect. Personal Relationships, 10(1), 59-75.   
+Shaver,P.R.，Mikulincer,M.,Lavy,S.，& Cassidy,J. (2009). Understanding and altering hurt feelings: An attachment-theoretical perspective on the generation and regulation of emotions.In A.L. Vangelisti (Ed.) Feeling hurt in close relationships (pp. 92-119). New York,NY,US: Cambridge University Press.   
+Sibley, C.G.,& Overall,N. C. (2010). Modeling the hierarchical structure of personality-attachment associations: Domain diffusion versus domain diferentiation. Journal of Social and Personal Relationships,27(1),47-70.   
+Steele,R.D.,A,Waters.T.E.A.,Bost,K.K., Vaughn,B.E.,Truit, W., Waters,H.S.,..Roisman,G.I (2014). Caregiving antecedents of secure base script knowledge: A comparative analysis of young adult attachment representations. Developmental Psychology,50(11),2526-2538.   
+Strathearn,L.,Fonagy,P.,Amico,J.,& Montague,P.R.(2o09). Adult attachment predicts maternal brainand oxytocin response to infant cues.Neuropsychopharmacology,34(13),2655-2666.   
+Suslow,T.,Dannlowski,U.,Arolt, V.,& Ohrmann,P. (20lO).Adult atachmentavoidanceand automaticaffective response to sad facial expressions. Australian Journal of Psychology, 62(4),181-187.   
+Tremblay,I.,& Sullivan,M.J.L.(2010).Atachment and pain outcomes in adolescents: The mediating roleof pain catastrophizing and anxiety. The Journal of Pain,11(2),160-171.   
+Vrticka,P.，Andersson,F.，Grandjean,D.，Sander,D.，& Vuilleumier,P.(2o08).Individual attachment style modulates human amygdala and striatum activation during social appraisal. PLoS One, 3(8), e2868.   
+Vrticka,P.，& Vuileumier,P. (20l2). Neuroscience of human social interactions and adult attachment style. Frontiers in Human Neuroscience,6,212.   
+Waters,H. S.，& Waters,E.(2006).The atachment working models concept: Among other things,we build script-like representations of secure base experiences. Atachment & Human Development, 8(3),185-197.   
+Wilson,C.L.,& Ruben, M.A.(011).A pain in herarm: Romantic atachment orientations and the tourniquet task. Personal Relationships,18(2),242-265.   
+Woodhouse，S.，Ayers， S.，& Field,A.P. (2015). The relationship between adult atachment style and post-traumatic stress symptoms: A meta-analysis. Journal of Anxiety Disorders,35,103-117.   
+Wyman,P.A., Cowen,E.L.,Work, W.C., Hoyt-Meyers,L.,Magnus,K.B.,& Fagen,D.B. (1999).Caregiving and developmental factors diferentiating young at-risk urban children showing resilient versus stress-affected outcomes: A replication and extension. Child Development, 70(3), 645-659.   
+Zhai,J., Chen, X.，Ma,J.L.，Yang, Q.Q.，& Liu, Y.(2016). The vigilance-avoidance model of avoidant recognition: An ERP study under threat priming. Psychiatry Research,246,379-386.   
+Zhang,X.,Li,T. G.，& Zhou, X.L.(2008).Brain responses to facial expressons by adults with different attachment-orientations. Neuroreport,19(4), 437-441.   
+Zilber,A., Goldstein,A.,& Mikulincer,M. (20o7). Adult attchment orientations and the processing of emotional pictures-ERP correlates. Personality and Individual Differences, 43(7),1898-1907.
+
+# Plasticity of insecure attachment and its neuromechanism
+
+MA Yuanxiao; CHEN Xu
+
+(Faculty of Psychology, Southwest University,Chongqing 400715,China)
+
+Abstract: Aiming at the cognition processing defects of individuals with insecure attachment, present study aims to explore the plasticity of insecure attachment and it's neural mechanism by virtue of attachment security priming. The plasticity of insecure attachment is achieved through the cognitive priming techniques which put insecure individuals in a sensitive and supportive environment. Attachment security priming awakens people's positive atachment experiences, builds new cognitive schema about attachment relationships, finally,realizes the reconstruction of theinternal working model of insecure individuals. Using the behavior-physiology-neural techniques, present study systematically investigates the occurrence mechanism and neural basis of the plasticity of insecure attachment through three aspects.First, examining the effect of conscious and unconscious attachment security priming on cognition processing defects of insecure individuals. Second, exploring the effect of repeated atachment security priming on cognition processing defects of insecure individuals. Third, conducting a longitudinal study to track the effect of the repeated attachment security priming. Present study provides a new perspective for the research of insecure attchment. The attachment schema reconstruction theory developed by present study is the verification and development of the secure-base schema theory. In addition, the examination of repeated attachment security priming effect attempts to build an evaluation standard for the plasticity study of insecure attachment. The present study contributes to the intervention training,the promotion of attachment safety,and the maintenance of mental health for insecure attachment.
+
+Key words: insecure attchment; cognitive processing defects; plasticity; attachment security priming; neuromechanism

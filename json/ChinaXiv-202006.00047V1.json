@@ -1,0 +1,743 @@
+[
+    {
+        "type": "text",
+        "text": "费米TeV耀变体谱指数、能谱峰值频率和能谱曲率相关性研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周瑞鑫，朱柯睿，马力，康世举，郑永刚南师范大学物理与电子信息学院，云南昆明650092;2.玉溪师范学院 物理与电子工程学院，云南 玉溪 653100；3.六盘水师范学院物理与电气工程学院，贵州 六盘水553004)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：论文收集了69个费米TeV耀变体样本的平均态多波段数据，并用对数抛物线模型对能谱分布进行拟合，获得相关物理参数。论文分别对谱指数、能谱峰值频率、能谱曲率三个物理参数进行统计分析，结果如下：(1)HBLs、IBLs、LBLs和FSRQs四类样本的谱指数分布各异,除射电波段外，不同波段谱指数大小呈现HBLs<IBLs<LBLs的分布规律；(2）样本中BLLac天体的同步辐射能谱的峰值频率和逆康普顿散射能谱的峰值频率之间呈现正相关关系，表明TeVBLLac天体多波段辐射能较好地用同步自康普顿模型解释；(3）通过聚类分析给定HBLs、IBLs、LBLs和FSRQs四类样本的能谱曲率分布范围，表明HBLs、IBLs、LBLs和FSRQs四类天体样本的能谱曲率分布不同；(4）同步辐射能谱的峰值频率和逆康普顿散射能谱的峰值频率与红外、光学、紫外和软x射线波段的谱指数之间都呈现较强的负相关关系，而同步辐射能谱曲率和除射电波段外的各波段谱指数之间都呈现正相关关系。(5）同步辐射能谱的峰值频率和同步辐射能谱曲率之间较强的负相关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：星系：活动；辐射机制：非热；方法：统计;中图分类号：P157文献标识码：A文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言' ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "耀变体是活动星系核(Active galactic nuclei)的一个极端的子类，具有高光度、高偏振、快速流量变化、射电核主导以及明显的视超光速运动的特征[1]。耀变体通常可以分为蝎虎天体(BLLac)和平谱射电类星体(FSRQs)。蝎虎天体在耀变体中很独特，其特征是无或有弱发射线(等宽EW<5A)，而平谱射电类星体显示出宽、强的发射线(等宽EW≥5A)。它们的连续辐射产生于与观测者视线方向夹角很小的极端相对论性喷流[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "耀变体的能谱分布(The spectral energy distribution,SED)呈现双峰结构，在lgv-lgvf坐标系下，低能峰位于射电到X射线频率范围内，通常认为它是由喷流中极端相对论性电子的同步辐射(Synchrotronradiation)产生；高能峰位于MeV到GeV频率范围，其产生机制还存在较大争议，轻子起源模型认为它是由极端相对论性电子的逆康普顿过程(Inverse Compton process)产生[3]。如果逆康普顿上散射的软光子来源于喷流内的同步辐射软光子，则称为同步自康普顿(Synchrotron-Self-Compton，SSC)过程。根据Abdo等人[4对同步辐射能谱的峰值频率的计算结果，将耀变体分为下列三类：低峰频耀变体：LSP (Low synchrotron peaked blazars, $\\mathrm { l g } \\nu _ { \\mathrm { p e a k } } { < } 1 4 \\AA ,$ ；中峰频耀变体:ISP (Intermediate synchrotron peaked blazars, $1 4 { < } 1 \\mathrm { g } \\nu _ { \\mathrm { p e a k } } { < } 1 5 \\$ ；高峰频耀变体：HSP(Highsynchrotron peaked blazars $\\mathrm { | g \\nu _ { p e a k } > 1 5 \\rangle }$ ）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，Fermi-LAT和地面切伦科夫望远镜探测到的河外甚高能y射线天体大部分为耀变体。甚高能y射线(TeV)耀变体在天体物理学方面有重要作用，作为明亮且遥远的源，其y射线能谱可以用来研究河外背景光[5(EBL)、星际间磁场(IGMF)等，并且其喷流被认为是研究粒子加速机制的重要实验室[7][8]。由于甚高能γ射线源比较特殊且数目较少，对其能谱结构很少有统计上的研究[9]。但随着越来越多的TeV源被观测到，可以对它的SED进行研究。Zhang等人[10]通过对费米耀变体的SED进行拟合，分析了有效谱指数、同步辐射能谱的峰值频率和曲率的相关性。Lin等人通过对TeV耀变体源的SED进行拟合，研究了耀变体的谱能分布中一些参量的物理性质。Chen等人[1]对Fermi亮源的耀变体的SED进行拟合，研究了峰值频率与谱曲率的相关性。为了进一步研究TeV源的辐射机制和能谱参量，我们收集了69个费米TeV耀变体样本，用对数抛物线模型对SED进行拟合。并且对谱指数、能谱的峰值频率以及能谱曲率三个参量进行统计研究。本文中，我们假定：哈勃常数为 $H _ { 0 } { = } 7 5 \\mathrm { k m } { \\cdot } \\mathrm { s } ^ { - 1 } { \\cdot } \\mathrm { M p c } ^ { - 1 }$ 、减速因子 $q _ { 0 } { = } 0 . 5$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1模型描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通常，耀变体的非热辐射可以由典型的幂律谱来描述：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\nu } \\propto \\nu ^ { - \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $f _ { \\nu }$ 是频率v的流量， $\\scriptstyle a$ 为谱指数。这个表达式可以化为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lg \\nu f _ { \\nu } = k + ( 1 - \\alpha ) \\lg \\nu\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中k为常数。根据(2)式，在 $\\lg \\nu - \\lg \\left( \\nu f _ { \\nu } \\right)$ 坐标系下， $\\mathrm { l g } \\left( \\nu f _ { \\nu } \\right)$ 随lgv的变化在频率范围 $\\Delta ( \\mathrm { l g } \\nu )$ 内可以由一条直线来描述，且直线的斜率为 $1 - \\alpha$ 。在某一频率范围内，如果能获得多个不同频率的准同时性观测流量，则可以估算谱指数 $\\overset { \\cdot } { \\alpha }$ 。值得注意的是，这样的谱指数仅代表在这个频率范围内谱指数 $\\overset { \\cdot } { \\alpha }$ 的平均值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们可以利用下列方法来估算某一固定频率的谱指数：假设不同频率处的辐射流量可用对数抛物线模型(The log-parabolic model)[12][13]拟合，即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { f (  { \\boldsymbol \\nu } ) = k \\left( \\frac {  { \\boldsymbol \\nu } } {  { \\boldsymbol \\nu } _ { * } } \\right) ^ { - \\alpha _ { * } - \\beta \\log \\left(  { \\boldsymbol \\nu } /  { \\boldsymbol \\nu } _ { * } \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $a _ { * }$ 和 $| \\beta \\rrangle$ 是自由参量， $\\nu _ { * }$ 是固定参量。 $a _ { * }$ 是 $\\nu _ { * }$ 处的幂律谱指数， $\\beta$ 是能谱曲率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对(3)式两边同乘v并取对数，有：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\lg \\nu f _ { \\nu } = \\lg k \\nu + \\lg \\left( \\frac { \\nu } { \\nu _ { * } } \\right) ^ { - \\alpha _ { * } - \\beta \\lg \\left( \\nu / \\nu _ { * } \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在 $\\mathrm { l g } \\nu - \\mathrm { l g } \\left( \\nu f _ { \\nu } \\right)$ 坐标空间中，可以表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中参量为： $A = - \\beta$ ， $\\begin{array} { r } { { \\lg \\nu \\mathnormal \\gamma _ { \\nu } = A ( \\lg \\nu ) ^ { - } + B ( \\lg \\nu ) + C \\mathnormal \\quad } } \\\\ { { B = 1 - \\alpha _ { * } + 2 \\beta \\lg \\nu _ { * } , \\ C = \\lg k + \\alpha _ { * } \\lg \\nu _ { * } - \\beta ( \\lg \\nu _ { * } ) ^ { 2 } \\circ } } \\end{array}$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，可以用(5)式拟合SED得到谱指数和峰值频率。即：在频率 $\\nu = \\nu _ { 0 }$ 处，(5)式的斜率为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\frac { \\mathrm { d } \\left( \\log \\nu f _ { \\nu } \\right) } { \\mathrm { d } ( \\log \\nu ) } \\right] _ { \\nu = \\nu _ { 0 } } = 2 A ( \\log \\nu _ { 0 } ) + B \\left( 6 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对比(2)式，斜率为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 - \\alpha = 2 A ( \\lg \\nu _ { 0 } ) + B ( 7 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，在频率 $ { \\boldsymbol \\nu } _ { 0 }$ 的谱指数表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { a } = 1 - \\left[ 2 A ( \\lg \\nu _ { 0 } ) + B \\right] ( 8 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "峰值频率表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\lg \\nu _ { \\mathrm { p e a k } } = - \\frac { B } { 2 A } ( 9 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设同步辐射和逆康普顿散射的辐射能谱都具有幂律形式，利用上述方程，可以估算同步辐射能谱和逆康普顿散射能谱的峰值频率、能谱曲率和给定频率的谱指数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2样本选取和数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最新Fermi-LAT探测目录(Fermi-LAT 4FGL)数据中的所有已证认TeV耀变体源共有69个，其中包含62个BLLac天体，7个FSRQs。为了合理地估算物理参量，获得精准的SED图，大量多波段数据可以从SSDC(Space Science Data Center)数据库中进行收集，其中包含射电、红外、光学、紫外和软X射线，γ射线范围的多波段数据。SSDC包含大量子数据库，文献和列表数据，例如：NED(NASA/IPAC Extragalactic Database)数据库?、DB数据库（包含CLASSCAT,Fermi1FGL,2FGL,MAGIC,VERITAS,IPC等)、TWOMASS数据、USNOA2数据等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了统一每个源的SED拟合过程，我们使用SSDC中的“SSDC SED Builder”工具，下载了其中的NED数据库和DB数据库的能谱观测点，并且对数据进行了以下处理：(1)对相同频率的多个数据点，对应的流量取算术平均值；(2)剔除能量上限和流量误差大于流量值的数据；(3)由于NED数据库缺少高能波段（GeV-TeV伽玛射线波段）的数据点，而DB数据库包含高能波段数据点。因此，拟合同步辐射能谱的参量时采用NED数据，拟合逆康普顿散射能谱的参量时采用DB数据。根据(5)式我们对69个TeV的SED进行拟合，拟合卡方值见表1，图1-3为拟合结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文的计算结果为表1，其中第(1)列为费米四期列表源名称；(2)列为TeV源名称；(3)列为源类型； (4)列为源红移； (5)列为射电(5GHz)波段谱指数 $\\cdot a _ { \\mathrm { r } }$ 及其误差 $\\Delta a _ { \\mathrm { r } }$ ； (6)列为红外 $( 2 . 2 \\mu \\mathrm { m } )$ 波段谱指数 $a _ { \\mathrm { i r } }$ 及其误差 $\\Delta \\alpha _ { \\mathrm { i r } }$ ；(7)列为光学(5500A)波段谱指数 $\\mathrm { \\dot { \\alpha } } _ { \\mathrm { o } }$ 及其误差 $\\Delta a _ { \\mathrm { o } }$ ；(8)列为紫外(2500A)波段谱指数 $\\mathrm { \\Delta } \\cdot \\mathrm { \\Delta } a _ { \\mathrm { u v } } .$ 及其误差 $\\Delta  { a _ { \\mathrm { u v } } }$ ；(9)列为软X射线(1keV)波段谱指数 $\\alpha _ { \\mathrm { x } }$ 及其误差 $\\Delta a _ { \\mathrm { x } }$ ； (10)列为伽玛射线(100MeV)波段谱指数 $\\cdot a _ { \\gamma } .$ 及其误差 $\\Delta \\boldsymbol { a } _ { \\gamma }$ ；第(11)列为同步辐射能谱拟合得到的能谱曲率 $\\beta _ { \\mathrm { s y n } }$ 及其误差 $\\Delta \\beta _ { \\mathrm { s y n } }$ ；第(12)列为逆康普顿散射能谱拟合得到的能谱曲率 $\\beta _ { \\mathrm { i c } }$ 及其误差 $\\Delta \\beta _ { \\mathrm { i c } }$ ；第(13)列为计算得到的同步辐射能谱的峰值频率1og $\\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { s y n } }$ 及其误差 $\\Delta \\mathrm { l g } \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { s y n } }$ ；第(14)列为计算得到的逆康普顿散射能谱的峰值频率log $\\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { i c } }$ 及其误差 $\\Delta \\mathrm { l g } \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { i c } }$ ；第(15)列为同步辐射能谱的拟合卡方值 $\\chi _ { \\mathrm { s y n } } ^ { 2 }$ 和同步辐射能谱拟合的标准偏差 $\\dot { \\varepsilon } _ { \\mathrm { s y n } }$ ；第(16)列为逆康普顿散射能谱拟合卡方值 $\\chi _ { \\mathrm { i c } } ^ { 2 }$ 和逆康普顿散射能谱拟合的标准偏差 $\\cdot \\varepsilon _ { \\mathrm { i c } }$ 。上述参量是用上述模型拟合得到。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据同步辐射能谱的峰值频率的计算结果，本文对TeV耀变体进行进一步分类。将样本中蜗虎天体分为高峰频蝎虎天体 $( \\mathrm { l g } \\nu _ { \\mathrm { p e a k } } { > } 1 5 , \\mathrm { H S P }$ BL Lacertae objects，HBLs)、中峰频蜗虎天体 $( 1 4 { < } \\mathrm { l g } \\nu _ { \\mathrm { p e a k } } { < } 1 5$ ，ISP BLLacertae objects, IBLs)、低峰频蝎虎天体 $( \\mathrm { l g } \\nu _ { \\mathrm { p e a k } } { < } 1 4$ , LSP BL Lacertaeobjects,LBLs);样本中的平谱射电类星体都是：低峰频的平谱射电类星体 $( \\mathrm { l g } \\nu _ { \\mathrm { p e a k } } { < } 1 4$ ,LSP FSRQs)。在我们的样本中，RGB $\\mathrm { J 0 1 } 3 6 { + } 3 9 1$ 、TXS $0 5 0 6 { + } 0 5 6$ 、TXS1515-273、MAGIC $\\mathbf { J } 2 0 0 1 { + } 4 3 5$ 、RGB$\\mathbf { J } 2 2 4 3 + 2 0 3$ 的红移值未知。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1谱指数、能谱峰值频率和能谱曲率分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们将样本中62个BLLac天体分为：46个HBLs、11个IBLs和5个LBLs。样本中的7个FSRQs都是低峰频耀变体，所以分为7个FSRQs。我们的结果如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2不同类型TeV耀变体的平均谱指数、平均能谱峰值频率和平均能谱曲率",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ebe9a113f66ce5c75e830ffbf462fc342264fb2d19eb772c79e4da7fb0689688.jpg",
+        "table_caption": [
+            "Table 2 Average spectral index、 Average energy spectrum peak frequency and Average energy spectrum curvature of different TeVblazars "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Class</td><td>a</td><td>air</td><td>a。</td><td>auv</td><td>ax</td><td></td><td>1gpeak(Hz)</td><td>lg cak(Hz)</td><td></td><td>βic</td></tr><tr><td>HBLs</td><td>-0.067</td><td>0.646</td><td>0.743</td><td>0.798</td><td>1.168</td><td>-0.138</td><td>16.508</td><td>24.630</td><td>0.080</td><td>0.258</td></tr><tr><td>IBLs</td><td>-0.166</td><td>0.893</td><td>1.038</td><td>1.119</td><td>1.670</td><td>0.603</td><td>14.608</td><td>23.628</td><td>0.119</td><td>0.146</td></tr><tr><td>LBLs</td><td>-0.268</td><td>1.279</td><td>1.491</td><td>1.609</td><td>2.413</td><td>1.023</td><td>13.365</td><td>22.139</td><td>0.174</td><td>0.090</td></tr><tr><td>FSRQs</td><td>0.001</td><td>1.340</td><td>1.524</td><td>1.626</td><td>2.322</td><td>1.112</td><td>13.043</td><td>21.881</td><td>0.151</td><td>0.106</td></tr><tr><td>ALL</td><td>-0.090</td><td>0.802</td><td>0.924</td><td>0.992</td><td>1.456</td><td>0.191</td><td>15.626</td><td>24.011</td><td>0.101</td><td>0.212</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0236158fb74c0a1dfcdefacecf93396e3b1893ef9283680063ae321cc3d7497b.jpg",
+        "img_caption": [
+            "图1 费米TeV耀变体的SED［1-28]。其中圆点代表数据来自NED数据库，带误差棒的方点代表数据来自DB数据库．其中实线拟合线Fig.1TheSEDsofFermiTVblazars[-28].hedotsrepresenthedatafromtheNEDdatabase,andthesquarepointsoftheeorarrepresents the data from the DB database.The solid line is a fiting line."
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/48b5294565e7925800e13619e0a6ccd05a80de915b07b4ce210104424bdf5463.jpg",
+        "img_caption": [
+            "图2剩余费米TeV耀变体的SED[29-60]。 Fig.2The SEDsof remaining TeVblazars[29-60]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd1e9efa8d15a34c76f131cb220cdd58a3b7105a6ffa3273ac5d8773e3f8ce9d.jpg",
+        "img_caption": [
+            "图3剩余费米TeV耀变体的SED[61-69]。 Fig.3 The SEDs of remaining TeV blazars[61-69]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/65e66e2b04f1e1000bbfe10d2b5761e7b363c6b4d320c815fcf34b6ec275c7cf.jpg",
+        "img_caption": [
+            "图4 各频率波段的谱指数分布图。其中实线为正态分布曲线。Fig 4.The spectral index distribution of each frequency band.The solid line is the normal distribution curve"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/996aedfb720662b305d14e276fbcd356b200c2949b7d5006619a9dab374dfcf0.jpg",
+        "table_caption": [
+            "表1样本数据和拟合结果 Table1Sample data and fitting results "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>4FGL name</td><td>TeV name</td><td>class</td><td>Z</td><td>ar</td><td>air</td><td>αo</td><td>αuv</td><td>αx</td><td></td><td>βsyn</td><td>βic</td><td>lg vpea(Hz)</td><td>lg vieak(Hz)</td><td>Xy</td><td>xi</td></tr><tr><td></td><td></td><td></td><td></td><td>△arb</td><td>△air</td><td>△ao</td><td>△auv</td><td>△ax</td><td>△a</td><td>△βsyn(10-3)</td><td>△βic(10-3)</td><td>△lg vpeak (Hz)</td><td>△ lg veak (Hz)</td><td>Esyn</td><td></td></tr><tr><td>J0013.9-1854</td><td>SHBL J001355.9-185406</td><td>bll</td><td>0.095</td><td>0.024</td><td>0.621</td><td>0.703</td><td>0.748</td><td>1.058</td><td>-0.273</td><td>0.067</td><td>0.269</td><td>16.949</td><td>24.750</td><td>0.218</td><td>0.146</td></tr><tr><td></td><td></td><td></td><td></td><td>0.022</td><td>0.027</td><td>0.028</td><td>0.028</td><td>0.031</td><td>0.023</td><td>0.522</td><td>0.273</td><td>0.224</td><td>0.045</td><td>0.467</td><td>0.383</td></tr><tr><td>J0033.5-1921</td><td>KUV 00311-1938</td><td>bll</td><td>0.610</td><td>-0.166</td><td>0.597</td><td>0.702</td><td>0.760</td><td>1.156</td><td>0.139</td><td>0.086</td><td>0.215</td><td>16.475</td><td>24.385</td><td>0.001</td><td>0.009</td></tr><tr><td></td><td></td><td></td><td></td><td>0.002</td><td>0.003</td><td>0.003</td><td>0.003</td><td>0.003</td><td>0.005</td><td>0.539</td><td>0.609</td><td>0.018</td><td>0.012</td><td>0.033</td><td>0.093</td></tr><tr><td>J0035.9+5950</td><td>1ES 0033+595</td><td>bll</td><td>0.086</td><td>0.182</td><td>0.613</td><td>0.672</td><td>0.705</td><td>0.929</td><td>0.577</td><td>0.049</td><td>0.073</td><td>18.116</td><td>25.281</td><td>0.149</td><td>0.019</td></tr><tr><td></td><td></td><td></td><td></td><td>0.013</td><td>0.017</td><td>0.017</td><td>0.017</td><td>0.019</td><td>0.007</td><td>0.308</td><td>0.835</td><td>0.199</td><td>0.051</td><td>0.391</td><td>0.139</td></tr><tr><td>J0112.1+2245</td><td>S2 0109+22</td><td>bll</td><td>0.265</td><td>-0.281</td><td>1.129</td><td>1.322</td><td>1.429</td><td>2.162</td><td>0.774</td><td>0.159</td><td>0.096</td><td>13.729</td><td>23.564</td><td>0.346</td><td>0.005</td></tr><tr><td></td><td></td><td></td><td></td><td>0.017</td><td>0.020</td><td>0.021</td><td>0.021</td><td>0.023</td><td>0.004</td><td>0.391</td><td>0.511</td><td>0.063</td><td>0.023</td><td>0.589</td><td>0.071</td></tr><tr><td>J0136.5+3906</td><td>RGB J0136+391</td><td>bll</td><td></td><td>-0.070</td><td>0.608</td><td>0.701</td><td>0.753</td><td>1.106</td><td>-0.349</td><td>0.077</td><td>0.357</td><td>16.693</td><td>24.273</td><td>0.031</td><td>0.068</td></tr><tr><td></td><td></td><td></td><td></td><td>0.010</td><td>0.012</td><td>0.013</td><td>0.013</td><td>0.014</td><td>0.013</td><td>0.240</td><td>0.158</td><td>0.089</td><td>0.019</td><td>0.170</td><td>0.261</td></tr><tr><td>J0152.6+0147</td><td>RGB J0152+017</td><td>bll</td><td>0.080</td><td>-0.233</td><td>0.690</td><td>0.816</td><td>0.886</td><td>1.366</td><td>-0.016</td><td>0.104</td><td>0.215</td><td>15.625</td><td>24.746</td><td>0.074</td><td>0.037</td></tr><tr><td></td><td></td><td></td><td></td><td>0.013</td><td>0.016</td><td>0.017</td><td>0.017</td><td>0.019</td><td>0.011</td><td>0.313</td><td>0.133</td><td>0.083</td><td>0.028</td><td>0.273</td><td>0.452</td></tr><tr><td>J0214.3+5145</td><td>TXS 0210+515</td><td>bll</td><td>0.049</td><td>-0.070</td><td>0.657</td><td>0.756</td><td>0.812</td><td>1.190</td><td>-0.207</td><td>0.082</td><td>0.322</td><td>16.226</td><td>24.258</td><td>0.106</td><td>0.364</td></tr><tr><td></td><td></td><td></td><td></td><td>0.017</td><td>0.022</td><td>0.022</td><td>0.023</td><td>0.025</td><td>0.045</td><td>0.420</td><td>0.546 0.084</td><td>0.144 12.329</td><td>0.073 21.963</td><td>0.326</td><td>0.604</td></tr><tr><td>J0221.1+3556</td><td>S3 0218+35</td><td>fsrq</td><td>0.944</td><td>0.111</td><td>1.610</td><td>1.815</td><td>1.930</td><td>2.709</td><td>1.070</td><td>0.169</td><td></td><td>0.032</td><td></td><td>0.047</td><td>0.048</td></tr><tr><td></td><td></td><td></td><td></td><td>0.009</td><td>0.012</td><td>0.012</td><td>0.012</td><td>0.013</td><td>0.011</td><td>0.250</td><td>0.138 0.155</td><td>14.737</td><td>0.066 23.373</td><td>0.218 0.406</td><td>0.219</td></tr><tr><td>J0222.6+4302</td><td>3C 66A</td><td>bll</td><td>0.444</td><td>-0.300</td><td>0.844</td><td>1.001</td><td>1.088</td><td>1.683</td><td>0.693</td><td>0.129</td><td>0.952</td><td>0.108</td><td>0.026</td><td></td><td>0.044</td></tr><tr><td></td><td></td><td></td><td></td><td>0.022</td><td>0.027</td><td>0.028</td><td>0.028</td><td>0.031</td><td>0.008</td><td>0.527</td><td>0.247</td><td>18.095</td><td>25.838</td><td>0.637</td><td>0.209</td></tr><tr><td>J0232.8+2018</td><td>1ES 0229+200</td><td>bll</td><td>0.139</td><td>0.110</td><td>0.580</td><td>0.644</td><td>0.680</td><td>0.925</td><td>-0.706</td><td>0.053</td><td></td><td>0.291</td><td></td><td>0.326</td><td>0.019</td></tr><tr><td></td><td></td><td></td><td></td><td>0.021</td><td>0.027</td><td>0.027</td><td>0.028</td><td>0.030</td><td>0.005</td><td>0.500</td><td>0.620 0.147</td><td>16.486</td><td>0.012</td><td>0.571</td><td>0.137</td></tr><tr><td>J0238.4-3116</td><td>1RXS J023832.6-311658</td><td>bll</td><td>0.233</td><td>0.023</td><td>0.661</td><td>0.749</td><td>0.797</td><td>1.129</td><td>0.457</td><td>0.072</td><td></td><td>0.019</td><td>24.232</td><td>0.003</td><td>0.072</td></tr><tr><td></td><td></td><td></td><td></td><td>0.002</td><td>0.003</td><td>0.003</td><td>0.003</td><td>0.003</td><td>0.013</td><td>0.485</td><td>0.156</td><td></td><td>0.047</td><td>0.051</td><td>0.267</td></tr><tr><td>J0303.4-2407</td><td>PKS 0301-243</td><td>bll</td><td>0.266</td><td>0.013</td><td>0.749 0.024</td><td>0.850 0.025</td><td>0.906 0.025</td><td>1.289 0.028</td><td>0.564 0.003</td><td>0.083 0.483</td><td>0.123 0.402</td><td>15.644 0.156</td><td>24.154 0.014</td><td>0.144 0.379</td><td>0.004 0.066</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6fb45cc17d479c4bb58a15d05c686a8cf86bcfce3fffd5e97456a86c85213678.jpg",
+        "table_caption": [
+            "表1续 Table 1 Continued "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">4FGL name</td><td rowspan=\"2\">TeV name</td><td rowspan=\"2\">class</td><td rowspan=\"2\">Z</td><td>ar</td><td>air</td><td>αo</td><td>Quv</td><td>αx</td><td></td><td>βsyn</td><td>βic</td><td>lg vak(Hz)</td><td>lg vpeak(Hz)</td><td></td><td></td></tr><tr><td>△ar</td><td>△air</td><td>△ao</td><td>△auv</td><td>△ax</td><td>△a</td><td>△βsyn(10-3)</td><td>△βic(10-3)</td><td>△lg veak(Hz)</td><td>△lgveak(Hz)</td><td>Esyn</td><td>Gic</td></tr><tr><td rowspan=\"2\">J0319.8+1845</td><td rowspan=\"2\">RBS 0413</td><td rowspan=\"2\">bll</td><td>0.190</td><td>0.122</td><td>0.614</td><td>0.681</td><td>0.718</td><td>0.974</td><td>-1.392</td><td>0.055</td><td>0.492</td><td>17.621</td><td>24.815</td><td>0.032</td><td>0.101</td></tr><tr><td></td><td>0.009</td><td>0.011</td><td>0.011</td><td>0.011</td><td>0.012</td><td>0.013</td><td>0.203</td><td>0.158</td><td>0.109</td><td>0.014</td><td>0.173</td><td>0.318</td></tr><tr><td rowspan=\"2\">J0349.4-1159</td><td rowspan=\"2\">1ES 0347-121</td><td rowspan=\"2\">bll</td><td>0.188</td><td>-0.104</td><td>0.490</td><td>0.571</td><td>0.617</td><td>0.926</td><td>-0.508</td><td>0.067</td><td>0.270</td><td>17.940</td><td>25.177</td><td>0.081</td><td>0.093</td></tr><tr><td></td><td>0.012</td><td>0.015</td><td>0.015</td><td>0.015</td><td>0.017</td><td>0.009</td><td>0.274</td><td>0.102</td><td>0.126</td><td>0.017</td><td>0.285</td><td>0.305</td></tr><tr><td rowspan=\"2\">J0416.9+0105</td><td rowspan=\"2\">1ES 0414+009</td><td rowspan=\"2\">bll</td><td>0.287</td><td>0.122</td><td>0.610</td><td>0.676</td><td>0.714</td><td>0.967</td><td>-0.626</td><td>0.055</td><td>0.363</td><td>17.682</td><td>24.624</td><td>0.024</td><td>0.109</td></tr><tr><td></td><td>0.006</td><td>0.007</td><td>0.007</td><td>0.008</td><td>0.008</td><td>0.011</td><td>0.139</td><td>0.126</td><td>0.076</td><td>0.016</td><td>0.155</td><td>0.329</td></tr><tr><td rowspan=\"2\">J0449.4-4350</td><td rowspan=\"2\">PKS 0447-439</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.205</td><td>0.087</td><td>0.717</td><td>0.803</td><td>0.851</td><td>1.178</td><td>-0.347</td><td>0.071</td><td>0.371</td><td>16.127</td><td>24.200</td><td>0.112</td><td>0.070</td></tr><tr><td>0.018</td><td>0.023</td><td>0.024</td><td>0.024</td><td>0.026</td><td>0.009</td><td>0.450</td><td>0.105</td><td>0.175</td><td>0.013</td><td>0.334</td><td>0.265</td></tr><tr><td rowspan=\"2\">J0507.9+6737</td><td rowspan=\"2\">1ES 0502+675</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.416</td><td>-0.161</td><td>0.575</td><td>0.676</td><td>0.732</td><td>1.114</td><td>0.026</td><td>0.083</td><td>0.176</td><td>16.695</td><td>25.152</td><td>0.203</td><td>0.029</td></tr><tr><td>0.022</td><td>0.027</td><td>0.028</td><td>0.028</td><td>0.031</td><td>0.008</td><td>0.531</td><td>0.926</td><td>0.183</td><td>0.024</td><td>0.450</td><td>0.169</td></tr><tr><td rowspan=\"2\">J0509.4+0542</td><td rowspan=\"2\">TXS 0506+056</td><td rowspan=\"2\">bll</td><td rowspan=\"2\"></td><td>-0.228</td><td>0.996</td><td>1.164</td><td>1.257</td><td>1.893</td><td>0.865</td><td>0.138</td><td>0.097</td><td>14.147</td><td>23.080</td><td>0.051</td><td>0.005</td></tr><tr><td>0.008</td><td>0.010</td><td>0.010</td><td>0.010</td><td>0.011</td><td>0.004</td><td>0.200</td><td>0.456</td><td>0.036</td><td>0.020</td><td>0.225</td><td>0.065</td></tr><tr><td rowspan=\"2\">J0521.7+2112</td><td rowspan=\"2\">VER J0521+211</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.108</td><td>0.012</td><td>0.819</td><td>0.929</td><td>0.991</td><td>1.410</td><td>0.544</td><td>0.091</td><td>0.160</td><td>15.129</td><td>23.809</td><td>0.063</td><td>0.018</td></tr><tr><td>0.024</td><td>0.030</td><td>0.031</td><td>0.032</td><td>0.035</td><td>0.010</td><td>0.633</td><td>0.122</td><td>0.175</td><td>0.033</td><td>0.252</td><td>0.204</td></tr><tr><td rowspan=\"2\">J0550.5-3216</td><td rowspan=\"2\">PKS 0548-322</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.069</td><td>0.113</td><td>0.610</td><td>0.678</td><td>0.716</td><td>0.974</td><td>-0.482</td><td>0.056</td><td>0.265</td><td>17.615</td><td>25.179</td><td>0.160</td><td>0.093</td></tr><tr><td>0.013</td><td>0.017</td><td>0.017</td><td>0.017</td><td>0.019</td><td>0.013</td><td>0.310</td><td>0.153</td><td>0.169</td><td>0.026</td><td>0.400</td><td>0.305</td></tr><tr><td rowspan=\"2\">J0648.7+1516</td><td rowspan=\"2\">RX J0648.7+1516</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.179</td><td>-0.015</td><td>0.605</td><td>0.690</td><td>0.738</td><td>1.060</td><td>-0.028</td><td>0.070</td><td>0.236</td><td>16.952</td><td>24.561</td><td>0.004</td><td>0.097</td></tr><tr><td>0.004</td><td>0.005</td><td>0.005</td><td>0.005</td><td>0.006</td><td>0.012</td><td>0.103</td><td>0.140</td><td>0.042</td><td>0.026</td><td>0.062</td><td>0.312</td></tr><tr><td rowspan=\"2\">J0650.7+2503</td><td rowspan=\"2\">1ES 0647+250</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.203</td><td>-0.107</td><td>0.621</td><td>0.720</td><td>0.776</td><td>1.154</td><td>0.426</td><td>0.082</td><td>0.093</td><td>16.447</td><td>25.466</td><td>0.090</td><td>0.016</td></tr><tr><td>0.011</td><td>0.014</td><td>0.014</td><td>0.014</td><td>0.015</td><td>0.006</td><td>0.263</td><td>0.770</td><td>0.091</td><td>0.037</td><td>0.301</td><td>0.127</td></tr><tr><td rowspan=\"2\">J0710.4+5908</td><td rowspan=\"2\">RGB J0710+591</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.125</td><td>-0.009</td><td>0.558</td><td>0.636</td></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/26779ee88e6337372af7c068fff63f3b3db7bc9807dcd1a88d623c158b3abbdc.jpg",
+        "table_caption": [
+            "表1续 Table 1 Continued "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">4FGL name</td><td rowspan=\"2\">TeV name</td><td rowspan=\"2\">class</td><td rowspan=\"2\">Z</td><td rowspan=\"2\">ar</td><td>air</td><td></td><td>Quv</td><td>αx</td><td></td><td>βsyn</td><td>βic</td><td>lg veak(Hz)</td><td>lg vpeak (Hz)</td><td></td><td>x</td></tr><tr><td>△ar</td><td>△air</td><td>△ao</td><td>△ax</td><td>△a</td><td>△βsyn(10-3)</td><td>△βic(10-3)</td><td>△lg vpeak(Hz)</td><td></td><td>△lgeak(Hz） Esyn</td><td>Gic</td></tr><tr><td rowspan=\"2\">J0739.2+0137</td><td rowspan=\"2\">PKS 0736+017</td><td rowspan=\"2\">fsrq</td><td></td><td>0.089</td><td>1.082</td><td>1.218</td><td>1.294</td><td>1.810</td><td>1.247</td><td>0.112</td><td>0.155</td><td>13.767</td><td>21.588</td><td>0.129</td><td>0.002</td></tr><tr><td>0.189</td><td>0.009</td><td>0.011</td><td>0.011</td><td>0.011</td><td>0.013</td><td>0.002</td><td>0.218</td><td>0.280</td><td>0.048</td><td>0.007</td><td>0.360</td><td>0.039</td></tr><tr><td rowspan=\"2\">J0809.8+5218</td><td rowspan=\"2\">1ES 0806+524</td><td rowspan=\"2\">bll</td><td>0.138</td><td>-0.049</td><td>0.678</td><td>0.778</td><td>0.833</td><td>1.211</td><td>-0.452</td><td>0.082</td><td>0.383</td><td>16.095</td><td>24.279</td><td>0.059</td><td>0.075</td></tr><tr><td></td><td>0.009</td><td>0.012</td><td>0.012</td><td>0.012</td><td>0.013</td><td>0.009</td><td>0.223</td><td>0.107</td><td>0.076</td><td>0.012</td><td>0.243</td><td>0.273</td></tr><tr><td rowspan=\"2\">J0847.2+1134</td><td rowspan=\"2\">RBS 0723</td><td rowspan=\"2\">bll</td><td>0.198</td><td>-0.391</td><td>0.966</td><td>1.152</td><td>1.255</td><td>1.961</td><td>0.443</td><td>0.153</td><td>0.113</td><td>14.244</td><td>24.848</td><td>0.052</td><td>0.040</td></tr><tr><td></td><td>0.012</td><td>0.015</td><td>0.015</td><td>0.015</td><td>0.017</td><td>0.012</td><td>0.288</td><td>0.149</td><td>0.048</td><td>0.059</td><td>0.227</td><td>0.199</td></tr><tr><td rowspan=\"2\">J0854.8+2006</td><td rowspan=\"2\">OJ 287</td><td rowspan=\"2\">bll</td><td>0.306</td><td>-0.294</td><td>1.374</td><td>1.602</td><td>1.729</td><td>2.596</td><td>1.120</td><td>0.188</td><td>0.072</td><td>13.140</td><td>21.552</td><td>0.041</td><td>0.012</td></tr><tr><td></td><td>0.005</td><td>0.006</td><td>0.006</td><td>0.006</td><td>0.007</td><td>0.006</td><td>0.125</td><td>0.774</td><td>0.015</td><td>0.043</td><td>0.202</td><td>0.113</td></tr><tr><td rowspan=\"2\">J0958.7+6534</td><td rowspan=\"2\">S4 0954+65</td><td rowspan=\"2\">bll</td><td>0.367</td><td>-0.251</td><td>1.239</td><td>1.443</td><td>1.557</td><td>2.331</td><td>1.124</td><td>0.168</td><td>0.073</td><td>13.421</td><td>21.532</td><td>0.077</td><td>0.081</td></tr><tr><td></td><td>0.011</td><td>0.013</td><td>0.014</td><td>0.014</td><td>0.015</td><td>0.014</td><td>0.273</td><td>0.163</td><td>0.038</td><td>0.091</td><td>0.278</td><td>0.284</td></tr><tr><td rowspan=\"2\">J1010.2-3119</td><td rowspan=\"2\">1RXS J101015.9-311909</td><td rowspan=\"2\">bll</td><td>0.143</td><td>-0.018</td><td>0.616</td><td>0.703</td><td>0.751</td><td>1.081</td><td>0.097</td><td>0.072</td><td>0.251</td><td>16.820</td><td>24.184</td><td>0.011</td><td>0.173</td></tr><tr><td></td><td>0.007</td><td>0.009</td><td>0.009</td><td>0.009</td><td>0.010</td><td>0.017</td><td>0.168</td><td>0.200</td><td>0.067</td><td>0.035</td><td>0.099</td><td>0.416</td></tr><tr><td rowspan=\"2\">J1015.0+4926</td><td rowspan=\"2\">1ES 1011+496</td><td rowspan=\"2\">bll</td><td>0.212</td><td>-0.078</td><td>0.773</td><td>0.890</td><td>0.955</td><td>1.397</td><td>0.455</td><td>0.096</td><td>0.129</td><td>15.316</td><td>24.497</td><td>0.078</td><td>0.007</td></tr><tr><td>0.009</td><td></td><td>0.011</td><td>0.011</td><td>0.012</td><td>0.013</td><td>0.003</td><td>0.216</td><td>0.405</td><td>0.061</td><td>0.014</td><td>0.278</td><td>0.083</td></tr><tr><td rowspan=\"2\">J1103.6-2329</td><td rowspan=\"2\">1ES 1101-232</td><td rowspan=\"2\">bll</td><td>0.186</td><td>-0.042</td><td>0.561</td><td>0.643</td><td>0.689</td><td>1.003</td><td>-0.645</td><td>0.068</td><td>0.323</td><td>17.364</td><td>24.930</td><td>0.154</td><td>0.073</td></tr><tr><td>0.018</td><td></td><td>0.022</td><td>0.022</td><td>0.023</td><td>0.025</td><td>0.007</td><td>0.410</td><td>0.805</td><td>0.183</td><td>0.011</td><td>0.393</td><td>0.270</td></tr><tr><td rowspan=\"2\">J1104.4+3812</td><td rowspan=\"2\">Markarian 421</td><td rowspan=\"2\">bll</td><td>0.030</td><td>0.034</td><td>0.575</td><td>0.650</td><td>0.691</td><td>0.972</td><td>0.346</td><td>0.061</td><td>0.115</td><td>17.613</td><td>25.228</td><td>0.101</td><td>0.150</td></tr><tr><td>0.007</td><td></td><td>0.008</td><td>0.009</td><td>0.009</td><td>0.010</td><td>0.004</td><td>0.163</td><td>0.426</td><td>0.079</td><td>0.017</td><td>0.318</td><td>0.387</td></tr><tr><td rowspan=\"2\">J1136.4+6736</td><td rowspan=\"2\">RX J1136.5+6737</td><td rowspan=\"2\">bll</td><td>0.136</td><td>-0.065</td><td>0.583</td><td>0.671</td><td>0.721</td><td>1.057</td><td>0.740</td><td>0.073</td><td>0.085</td><td>16.993</td><td>23.911</td><td>0.109</td><td>0.045</td></tr><tr><td></td><td>0.013</td><td>0.016</td><td>0.017</td><td>0.017</td><td>0.019</td><td>0.012</td><td>0.312</td><td>0.141</td><td>0.125</td><td>0.071</td><td>0.331</td><td>0.213</td></tr><tr><td rowspan=\"2\">J1136.4+7009</td><td rowspan=\"2\">Markarian 180</td><td rowspan=\"2\">bll</td><td>0.045</td><td>-0.459</td><td>0.712</td><td>0.872</td><td>0.961</td><td>1.570</td><td>0.508</td><td>0.132</td><td>0.111</td><td>15.226</td><td>24.600</td><td>0.236</td><td>0.014</td></tr><tr><td></td><td>0.015</td><td>0.019</td><td>0.020</td></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ec6fb80158a188319eba2840276f4c38fc6dd54aaea85ab3762e27b4af266f1.jpg",
+        "table_caption": [
+            "表1续 Table 1 Continued "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">4FGL name</td><td rowspan=\"2\">TeV name</td><td rowspan=\"2\">class</td><td rowspan=\"2\">Z</td><td rowspan=\"2\">ar</td><td>ir</td><td>ao</td><td>auv</td><td>αx</td><td>ay</td><td>βsyn</td><td>βic</td><td>lg vpeak(Hz)</td><td>lg vpeak (Hz)</td><td></td><td></td></tr><tr><td>△ar</td><td>△air</td><td>△ao</td><td>△ax</td><td>△a</td><td>△βsyn(10-3)</td><td>△βic(10-3)</td><td>△lg vpeak(Hz)</td><td></td><td>△lg vpeak(Hz) εsyn</td><td>εic</td></tr><tr><td rowspan=\"2\">J1217.9+3007</td><td rowspan=\"2\">1ES 1215+303</td><td rowspan=\"2\">bll</td><td></td><td>-0.003</td><td>0.840</td><td>0.955</td><td>1.020</td><td>1.458</td><td>0.614</td><td>0.095</td><td>0.155</td><td>14.976</td><td>23.628</td><td>0.097</td><td>0.046</td></tr><tr><td>0.130</td><td>0.011</td><td>0.013</td><td>0.014</td><td>0.014</td><td>0.015</td><td>0.008</td><td>0.257</td><td>0.985</td><td>0.072</td><td>0.028</td><td>0.312</td><td>0.215</td></tr><tr><td rowspan=\"2\">J1221.3+3010</td><td rowspan=\"2\">1ES 1218+304</td><td rowspan=\"2\">bll</td><td>0.184</td><td>0.013</td><td>0.607</td><td>0.689</td><td>0.734</td><td>1.043</td><td>-1.117</td><td>0.067</td><td>0.423</td><td>17.063</td><td>24.886</td><td>0.030</td><td>0.046</td></tr><tr><td></td><td>0.006</td><td>0.007</td><td>0.007</td><td>0.008</td><td>0.008</td><td>0.005</td><td>0.140</td><td>0.584</td><td>0.061</td><td>0.006</td><td>0.173</td><td>0.215</td></tr><tr><td rowspan=\"2\">J1221.5+2814</td><td rowspan=\"2\">W Comae</td><td rowspan=\"2\">bll</td><td>0.102</td><td>0.050</td><td>0.848</td><td>0.957</td><td>1.018</td><td>1.433</td><td>0.503</td><td>0.090</td><td>0.181</td><td>14.979</td><td>23.758</td><td>0.100</td><td>0.106</td></tr><tr><td></td><td>0.009</td><td>0.011</td><td>0.011</td><td>0.012</td><td>0.013</td><td>0.013</td><td>0.219</td><td>0.153</td><td>0.064</td><td>0.037</td><td>0.315</td><td>0.325</td></tr><tr><td rowspan=\"2\">J1224.4+2436</td><td rowspan=\"2\">MS 1221.8+2452</td><td rowspan=\"2\">bll</td><td>0.219</td><td>-0.134</td><td>0.708</td><td>0.824</td><td>0.888</td><td>1.326</td><td>0.522</td><td>0.095</td><td>0.114</td><td>15.668</td><td>24.483</td><td>0.021</td><td>0.097</td></tr><tr><td></td><td>0.006</td><td>0.008</td><td>0.008</td><td>0.008</td><td>0.009</td><td>0.016</td><td>0.158</td><td>0.187</td><td>0.045</td><td>0.072</td><td>0.146</td><td>0.311</td></tr><tr><td rowspan=\"2\">J1224.9+2122</td><td rowspan=\"2\">4C +21.35</td><td rowspan=\"2\">fsrq</td><td>0.434</td><td>-0.245</td><td>1.272</td><td>1.479</td><td>1.595</td><td>2.383</td><td>1.102</td><td>0.171</td><td>0.072</td><td>13.339</td><td>21.676</td><td>0.281</td><td>0.433</td></tr><tr><td>0.023</td><td></td><td>0.029</td><td>0.030</td><td>0.031</td><td>0.034</td><td>0.024</td><td>0.602</td><td>0.287</td><td>0.083</td><td>0.165</td><td>0.530</td><td>0.658</td></tr><tr><td rowspan=\"2\">J1230.2+2517</td><td rowspan=\"2\">S3 1227+25</td><td rowspan=\"2\">bll</td><td>0.135</td><td>-0.152</td><td>0.832</td><td>0.967</td><td>1.042</td><td>1.554</td><td>0.817</td><td>0.111</td><td>0.142</td><td>14.888</td><td>23.028</td><td>0.015</td><td>0.029</td></tr><tr><td>0.006</td><td></td><td>0.008</td><td>0.008</td><td>0.008</td><td>0.009</td><td>0.010</td><td>0.163</td><td>0.122</td><td>0.038</td><td>0.036</td><td>0.123</td><td>0.169</td></tr><tr><td rowspan=\"2\">J1256.1-0547</td><td rowspan=\"2\">3C 279</td><td rowspan=\"2\">fsrq</td><td>0.536</td><td>0.0004</td><td>1.375</td><td>1.563</td><td>1.668</td><td>2.383</td><td>1.195</td><td>0.155</td><td>0.122</td><td>12.924</td><td>21.585</td><td>0.182</td><td>0.434</td></tr><tr><td>0.010</td><td></td><td>0.012</td><td>0.013</td><td>0.013</td><td>0.014</td><td>0.021</td><td>0.253</td><td>0.249</td><td>0.038</td><td>0.085</td><td>0.427</td><td>0.659</td></tr><tr><td rowspan=\"2\">J1315.0-4236</td><td rowspan=\"2\">1ES 1312-423</td><td rowspan=\"2\">bll</td><td>0.108</td><td>-0.062</td><td>0.553</td><td>0.638</td><td>0.685</td><td>1.005</td><td>0.036</td><td>0.069</td><td>0.208</td><td>17.351</td><td>24.702</td><td>0.257</td><td>0.174</td></tr><tr><td>0.024</td><td></td><td>0.030</td><td>0.031</td><td>0.031</td><td>0.034</td><td>0.016</td><td>0.574</td><td>0.188</td><td>0.246</td><td>0.041</td><td>0.504</td><td>0.417</td></tr><tr><td rowspan=\"2\">J1427.0+2348</td><td rowspan=\"2\">PKS 1424+240</td><td rowspan=\"2\">bll</td><td>0.604</td><td>-0.543</td><td>0.743</td><td>0.919</td><td>1.017</td><td>1.685</td><td>-0.655</td><td>0.145</td><td>0.481</td><td>15.021</td><td>24.104</td><td>0.345</td><td>0.051</td></tr><tr><td>0.017</td><td></td><td>0.022</td><td>0.022</td><td>0.023</td><td>0.025</td><td>0.005</td><td>0.425</td><td>0.593</td><td>0.078</td><td>0.005</td><td>0.588</td><td>0.226</td></tr><tr><td rowspan=\"2\">J1428.5+4240</td><td rowspan=\"2\">H 1426+428</td><td rowspan=\"2\">bll</td><td>0.129</td><td>-0.227</td><td>0.491</td><td>0.589</td><td>0.644</td><td>1.018</td><td>-1.860</td><td>0.081</td><td>0.649</td><td>17.275</td><td>24.587</td><td>0.120</td><td>0.152</td></tr><tr><td>0.009</td><td></td><td>0.012</td><td>0.012</td><td>0.012</td><td>0.013</td><td>0.021</td><td>0.216</td><td>0.249</td><td>0.081</td><td>0.017</td><td>0.346</td><td>0.390</td></tr><tr><td rowspan=\"2\">J1442.7+1200</td><td rowspan=\"2\">1ES 1440+122</td><td rowspan=\"2\">bll</td><td>0.163</td><td>-0.171</td><td>0.742</td><td>0.867</td><td>0.937</td><td>1.412</td><td>0.211</td><td>0.103</td><td>0.170</td><td>15.384</td><td>24.702</td><td>0.148</td><td>0.056</td></tr><tr><td></td><td>0.016</td><td>0.019</td><td>0.020</td></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b247fbb3d24e36c7f37868be9988a0963cccb81f4c80e9d30e4efd836e3b033.jpg",
+        "table_caption": [
+            "表1续 Table 1 Continued "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">4FGL name</td><td rowspan=\"2\">TeV name</td><td rowspan=\"2\">class</td><td rowspan=\"2\">Z</td><td rowspan=\"2\">ar</td><td>αir</td><td>αo</td><td>auv</td><td>αx</td><td></td><td>βsyn</td><td>βic</td><td>lg vpeak(Hz)</td><td>lg vpeak (Hz)</td><td>xym</td><td></td></tr><tr><td>△ar</td><td>△air</td><td>△a</td><td>△auv</td><td>△ax △a</td><td>△βsyn(10-3)</td><td>△βic(103)</td><td>△lg vpeak(Hz)</td><td>△lg veak(Hz)</td><td>Esyn</td><td>&ic</td></tr><tr><td rowspan=\"2\">J1443.9-3908</td><td rowspan=\"2\">PKS 1440-389</td><td rowspan=\"2\">bll</td><td>0.065</td><td>-0.133</td><td>0.683</td><td>0.794</td><td>0.857</td><td>1.281</td><td>0.564</td><td>0.092</td><td>0.099</td><td>15.858</td><td>24.584</td><td>0.044</td><td>0.006</td></tr><tr><td></td><td>0.013</td><td>0.016</td><td>0.016</td><td>0.017</td><td>0.018</td><td>0.004</td><td>0.319</td><td>0.454</td><td>0.093</td><td>0.020</td><td>0.209</td><td>0.076</td></tr><tr><td rowspan=\"2\">J1512.8-0906</td><td rowspan=\"2\">PKS 1510-089</td><td rowspan=\"2\">fsrq</td><td>0.360</td><td>-0.086</td><td>1.377</td><td>1.578</td><td>1.690</td><td>2.450</td><td>1.174</td><td>0.165</td><td>0.121</td><td>12.990</td><td>21.667</td><td>0.108</td><td>0.046</td></tr><tr><td></td><td>0.009</td><td>0.011</td><td>0.011</td><td>0.011</td><td>0.013</td><td>0.011</td><td>0.224</td><td>0.132</td><td>0.031</td><td>0.044</td><td>0.329</td><td>0.214</td></tr><tr><td rowspan=\"2\">J1517.7-2422</td><td rowspan=\"2\">AP Lib</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.048</td><td>0.010</td><td>1.012</td><td>1.149</td><td>1.226</td><td>1.747</td><td>0.739</td><td>0.113</td><td>0.132</td><td>14.081</td><td>23.371</td><td>0.042</td><td>0.002</td></tr><tr><td>0.007</td><td>0.008</td><td>0.008</td><td>0.009</td><td>0.009</td><td>0.002</td><td>0.168</td><td>0.292</td><td>0.036</td><td>0.009</td><td>0.204</td><td>0.049</td></tr><tr><td rowspan=\"2\">J1518.0-2731</td><td rowspan=\"2\">TXS 1515-273</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">1</td><td>0.116</td><td>0.924</td><td>1.035</td><td>1.096</td><td>1.516</td><td>0.909</td><td>0.091</td><td>0.052</td><td>14.550</td><td>23.259</td><td>0.164</td><td>0.018</td></tr><tr><td>0.022</td><td>0.028</td><td>0.028</td><td>0.029</td><td>0.032</td><td>0.007</td><td>0.562</td><td>0.854</td><td>0.155</td><td>0.070</td><td>0.405</td><td>0.130</td></tr><tr><td rowspan=\"2\">J1555.7+1111</td><td rowspan=\"2\">PG 1553+113</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.360</td><td>-0.051</td><td>0.676</td><td>0.776</td><td>0.831</td><td>1.209</td><td>-1.024</td><td>0.082</td><td>0.514</td><td>16.108</td><td>24.353</td><td>0.043</td><td>0.098</td></tr><tr><td>0.006</td><td>0.007</td><td>0.007</td><td>0.008</td><td>0.008</td><td>0.007</td><td>0.140</td><td>0.876</td><td>0.048</td><td>0.008</td><td>0.208</td><td>0.313</td></tr><tr><td rowspan=\"2\">J1653.8+3945</td><td rowspan=\"2\">Markarian 501</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.033</td><td>0.051</td><td>0.689</td><td>0.777</td><td>0.825</td><td>1.157</td><td>0.299</td><td>0.072</td><td>0.126</td><td>16.291</td><td>25.165</td><td>0.063</td><td>0.230</td></tr><tr><td>0.005</td><td>0.006</td><td>0.007</td><td>0.007</td><td>0.007</td><td>0.008</td><td>0.126</td><td>0.939</td><td>0.049</td><td>0.035</td><td>0.250</td><td>0.480</td></tr><tr><td rowspan=\"2\">J1725.0+1152</td><td rowspan=\"2\">H 1722+119</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.180</td><td>-0.384</td><td>0.672</td><td>0.816</td><td>0.897</td><td>1.445</td><td>0.299</td><td>0.119</td><td>0.177</td><td>15.513</td><td>24.364</td><td>0.130</td><td>0.010</td></tr><tr><td>0.014</td><td>0.017</td><td>0.018</td><td>0.018</td><td>0.020</td><td>0.005</td><td>0.340</td><td>0.640</td><td>0.077</td><td>0.016</td><td>0.360</td><td>0.102</td></tr><tr><td rowspan=\"2\">J1728.3+5013</td><td rowspan=\"2\">1ES 1727+502</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.055</td><td>0.010</td><td>0.684</td><td>0.776</td><td>0.828</td><td>1.178</td><td>0.586</td><td>0.076</td><td>0.063</td><td>16.211</td><td>25.664</td><td>0.032</td><td>0.044</td></tr><tr><td>0.005</td><td>0.007</td><td>0.007</td><td>0.007</td><td>0.008</td><td>0.010</td><td>0.133</td><td>0.125</td><td>0.049</td><td>0.090</td><td>0.178</td><td>0.210</td></tr><tr><td rowspan=\"2\">J1744.0+1935</td><td rowspan=\"2\">1ES 1741+196</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.084</td><td>-0.141</td><td>0.710</td><td>0.826</td><td>0.891</td><td>1.333</td><td>-0.518</td><td>0.096</td><td>0.356</td><td>15.646</td><td></td><td>24.516 0.212</td><td>0.048</td></tr><tr><td>0.024</td><td>0.030</td><td>0.031</td><td>0.031</td><td>0.034</td><td>0.013</td><td>0.583</td><td>0.156</td><td>0.165</td><td>0.019</td><td>0.460</td><td>0.220</td></tr><tr><td rowspan=\"2\">J1751.5+0938</td><td rowspan=\"2\">OT081</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.322</td><td>-0.287</td><td>1.504</td><td>1.750</td><td>1.886</td><td>2.817</td><td>0.942</td><td>0.202</td><td>0.127</td><td>12.885</td><td>22.609</td><td>0.066</td><td>0.001</td></tr><tr><td>0.005</td><td>0.007</td><td>0.007</td><td>0.007</td><td>0.008</td><td>0.002</td><td>0.144</td><td>0.231</td><td>0.016</td><td>0.008</td><td>0.189</td><td>0.032</td></tr><tr><td rowspan=\"2\">J2000.0+6508</td><td rowspan=\"2\">1ES 1959+650</td><td rowspan=\"2\">bll</td><td rowspan=\"2\">0.047</td><td>0.017</td><td>0.611</td></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/457bb47994d0142fda0e81c6ca532060ffe18e8901774623c278814be7bb4771.jpg",
+        "table_caption": [
+            "表1续 Table 1 Continued "
+        ],
+        "table_footnote": [
+            "a $\\begin{array} { r } { \\chi ^ { 2 } = \\frac { 1 } { N - d o f } \\sum _ { i = 1 } ^ { N } \\left( \\frac { \\widehat { y _ { \\mathrm { i } } } - y _ { \\mathrm { i } } } { \\varepsilon _ { \\mathrm { i } } } \\right) ^ { 2 } } \\end{array}$ ，其中N为观测数据点个数，dof为自由度，即模型自由参数， $\\widehat { \\mathbf { y } _ { \\mathrm { i } } }$ 为观测数据，yi为模型拟合值，εi是标准偏差[67]18]。b运用（5)式，得到 $\\Delta A$ ， $\\Delta B$ ，根据误差传）+ $\\Delta \\beta$ 和Ilgy，其中 $\\rho _ { i j }$ 第莊 $i$ 个量与第 $j$ 个量的相关系数， $x$ 为已知量，具体见附录。0 $\\begin{array} { r } { \\mathrm { ~ : ~ } \\mathfrak { c } = \\sqrt { \\frac { \\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { N } } \\left( \\gamma _ { \\mathrm { i } } - \\widehat { \\gamma _ { \\mathrm { i } } } \\right) ^ { 2 } } { N - 1 } } } \\end{array}$ $N$ 为观测数据点个数， $\\textstyle \\sum _ { i = 1 } ^ { N } \\bigl ( y _ { \\mathrm { i } } { - } \\widehat { y _ { \\mathrm { i } } } \\bigr ) ^ { 2 }$ 为残差平方和， $\\widehat { \\mathbf { y } _ { \\mathrm { i } } }$ 为观测数据， $y _ { \\mathrm { i } }$ 为模型拟合值[6[1]"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">4FGL name</td><td rowspan=\"2\">TeV name</td><td rowspan=\"2\">class</td><td rowspan=\"2\">Z</td><td rowspan=\"2\">ar</td><td>αir</td><td></td><td>αuv</td><td>αx</td><td></td><td>βsyn</td><td>βic</td><td>lg vpeak(Hz)</td><td>lg vieak (Hz)</td><td>xy</td><td>X</td></tr><tr><td>△ar</td><td>△air</td><td>△ao</td><td>△auv △ax</td><td>△a</td><td>△βsyn(10-3)</td><td>△βic(10-3)</td><td>△lg vpeak(Hz)</td><td>△lg peak(Hz)</td><td>Esyn</td><td>eic</td></tr><tr><td rowspan=\"2\">J2009.4-4849</td><td rowspan=\"2\">PKS 2005-489</td><td rowspan=\"2\">bll</td><td>0.071</td><td>0.022</td><td>0.678</td><td>0.768</td><td>0.818</td><td>1.159</td><td>0.238</td><td>0.074</td><td>0.187</td><td>16.310</td><td>24.422</td><td>0.070</td><td>0.070</td></tr><tr><td></td><td>0.009</td><td>0.011</td><td>0.011</td><td>0.011</td><td>0.012</td><td>0.007</td><td>0.217</td><td>0.763</td><td>0.081</td><td>0.018</td><td>0.264</td><td>0.264</td></tr><tr><td rowspan=\"2\">J2039.5+5218</td><td rowspan=\"2\">1ES 2037+521</td><td rowspan=\"2\">bll</td><td>0.053</td><td>-0.435</td><td>0.851</td><td>1.027</td><td>1.125</td><td>1.793</td><td>0.118</td><td>0.145</td><td>0.215</td><td>14.649</td><td>24.435</td><td>0.187</td><td>0.076</td></tr><tr><td></td><td>0.025</td><td>0.031</td><td>0.032</td><td>0.032</td><td>0.035</td><td>0.022</td><td>0.616</td><td>0.260</td><td>0.109</td><td>0.054</td><td>0.432</td><td>0.277</td></tr><tr><td rowspan=\"2\">J2158.8-3013</td><td rowspan=\"2\">PKS 2155-304</td><td rowspan=\"2\">bll</td><td>0.116</td><td>-0.120</td><td>0.601</td><td>0.699</td><td>0.754</td><td>1.128</td><td>-2.000</td><td>0.081</td><td>0.732</td><td>16.593</td><td>24.433</td><td>0.068</td><td>0.566</td></tr><tr><td></td><td>0.008</td><td>0.009</td><td>0.010</td><td>0.010</td><td>0.011</td><td>0.012</td><td>0.186</td><td>0.144</td><td>0.064</td><td>0.009</td><td>0.260</td><td>0.549</td></tr><tr><td rowspan=\"2\">J2202.7+4216</td><td rowspan=\"2\"> BL Lacertae</td><td rowspan=\"2\">bll</td><td>0.069</td><td>-0.225</td><td>1.150</td><td>1.338</td><td>1.443</td><td>2.157</td><td>1.155</td><td>0.155</td><td>0.082</td><td>13.651</td><td>21.437</td><td>0.073</td><td>0.060</td></tr><tr><td></td><td>0.007</td><td>0.009</td><td>0.009</td><td>0.009</td><td>0.010</td><td>0.008</td><td>0.175</td><td>0.104</td><td>0.027</td><td>0.048</td><td>0.270</td><td>0.244</td></tr><tr><td rowspan=\"2\">J2243.9+2021</td><td rowspan=\"2\">RGB J2243+203</td><td rowspan=\"2\">bll</td><td></td><td>-0.240</td><td>0.807</td><td>0.950</td><td>1.030</td><td>1.574</td><td>0.040</td><td>0.118</td><td>0.278</td><td>14.953</td><td>24.111</td><td>0.021</td><td>0.019</td></tr><tr><td></td><td>0.007</td><td>0.009</td><td>0.009</td><td>0.009</td><td>0.010</td><td>0.008</td><td>0.172</td><td>0.997</td><td>0.038</td><td>0.015</td><td>0.145</td><td>0.137</td></tr><tr><td rowspan=\"2\">J2250.0+3825</td><td rowspan=\"2\">B3 2247+381</td><td rowspan=\"2\">bll</td><td>0.119</td><td>-0.073</td><td>0.761</td><td>0.875</td><td>0.938</td><td>1.372</td><td>-0.061</td><td>0.094</td><td>0.266</td><td>15.407</td><td>24.379</td><td>0.091</td><td>0.069</td></tr><tr><td></td><td>0.014</td><td>0.018</td><td>0.018</td><td>0.018</td><td>0.020</td><td>0.010</td><td>0.348</td><td>0.122</td><td>0.098</td><td>0.020</td><td>0.302</td><td>0.262</td></tr><tr><td rowspan=\"2\">J2324.7-4041</td><td rowspan=\"2\">1ES 2322-409</td><td rowspan=\"2\">bll</td><td>0.174</td><td>-0.152</td><td>0.637</td><td>0.745</td><td>0.805</td><td>1.215</td><td>0.507</td><td>0.089</td><td>0.166</td><td>16.173</td><td>23.868</td><td>0.030</td><td>0.037</td></tr><tr><td></td><td>0.007</td><td>0.008</td><td>0.009</td><td>0.009</td><td>0.009</td><td>0.010</td><td>0.163</td><td>0.124</td><td>0.051</td><td>0.032</td><td>0.174</td><td>0.191</td></tr><tr><td rowspan=\"2\">J2347.0+5141</td><td rowspan=\"2\">1ES 2344+514</td><td rowspan=\"2\">bll</td><td>0.044</td><td>-0.112</td><td>0.651</td><td>0.755</td><td>0.813</td><td>1.210</td><td>-0.207</td><td>0.086</td><td>0.235</td><td>16.165</td><td>24.952</td><td>0.100</td><td>0.079</td></tr><tr><td></td><td>0.014</td><td>0.017</td><td>0.018</td><td>0.018</td><td>0.020</td><td>0.008</td><td>0.351</td><td>0.925</td><td>0.111</td><td>0.018</td><td>0.316</td><td>0.281</td></tr><tr><td rowspan=\"2\">J2359.0-3038</td><td rowspan=\"2\">H2356-309</td><td rowspan=\"2\">bll</td><td>0.165</td><td>-0.067</td><td>0.554</td><td>0.639</td><td>0.687</td><td>1.009</td><td>-0.399</td><td>0.070</td><td>0.361</td><td>17.318</td><td>24.321</td><td>0.101</td><td>0.057</td></tr><tr><td></td><td>0.012</td><td>0.015</td><td>0.016</td><td>0.016</td><td>0.017</td><td>0.005</td><td>0.292</td><td>0.591</td><td>0.124</td><td>0.007</td><td>0.318</td><td>0.240</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1.1谱指数分布",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在选取的样本中，每个源的谱指数可以根据(8)式计算，并且计算结果如表2所示。图4和图5分别表示所有样本的谱指数分布和HBLs、IBLs、LBLs和FSRQs四类样本的谱指数分布。根据统计分析：(1)除射电和γ射线波段外，所有TeV耀变体的谱指数从红外波段平缓地趋向于更高能的波段，每个波段的平均谱指数可以得到(见图4)；(2)HBLs、IBLs、LBLs三类不同类型的TeV耀变体，谱指数分布不同，除射电波段外，各波段谱指数大小均按照HBLs<IBLs<LBLs分布。HBLs、IBLs两种样本与FSRQs的各波段谱指数分布有较大差异(见图5)。",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/66a70b926ad0a6c2873a14963bc14d08ccad3c06c7ab16be7fa4c920215a5474.jpg",
+        "img_caption": [
+            "图5不同类型TeV耀变体的谱指数分布图。其中黑色、蓝色、红色和绿色虚线分别代表HBLs、IBLs、LBLs 和FSRQs 的正态分布曲线。Fig5ThespectralindexdistrbuiofdieentTVlazars.eblackbue,dndgeeotedlinsrepreenttheoalstribocurves of HBLs,IBLs,LBLs,and FSRQs respectively."
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.1.2峰值频率分布",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在我们的样本中,每个源的峰值频率可以根据(9)式计算,计算结果如表2所示。图6表示HBLs、IBLs、LBLs和FSRQs四类样本的同步辐射能谱和逆康普顿散射能谱的峰值频率分布，可以看到同步辐射和逆康普顿散射能谱的峰值频率大小均按照HBLs>IBLs>LBLs>FSRQs的顺序分布，其平均的同步辐射和逆康普顿散射能谱的峰值频率列于表2。所有TeV耀变体的同步辐射和逆康普顿散射能谱的峰值频率满足：",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { { 1 } \\mathrm { g } \\ \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { i c } } = 1 4 . 0 6 7 + 0 . 6 3 6 \\log \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { s y n } } } & { { } ( \\chi ^ { 2 } = 0 . 3 6 7 , r = 0 . 7 1 5 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "根据(10)式和相关系数 $_ { r = 0 . 7 1 5 }$ ，说明两峰值频率成线性关系，且逆康普顿散射能谱的峰值频率随同步辐射能谱的峰值频率增大而增大(如图7）。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "图7表示不同类型TeV耀变体同步辐射和逆康普顿散射能谱的峰值频率的关系。文献[4]提出： SSC过程的观测同步辐射能谱的峰值频率 $\\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { s y n } }$ 和观测逆康普顿散射能谱的峰值频率 $\\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { i c } }$ 应满足[4]：",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { i c } } } { \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { s y n } } } \\simeq \\frac { 4 } { 3 } \\Big ( \\gamma _ { \\mathrm { p e a k } } ^ { \\mathrm { S S C } } \\Big ) ^ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\gamma _ { \\mathrm { p e a k } } ^ { \\mathrm { S S C } } { \\leq } 2 { \\times } 1 0 ^ { 4 }$ ， $\\begin{array} { r } { \\operatorname { s s c } } \\\\ { \\gamma _ { \\mathrm { _ { p e a k } } } } \\end{array}$ 与同步辐射电子洛伦兹因子 $\\gamma _ { \\mathrm { p e a k } } ^ { \\mathrm { s y n } }$ 有相同数量级。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "对(11)式取对数，整理得：",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lg \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { i c } } = c + \\lg \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { s y n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\begin{array} { r } { c { = } \\mathrm { l g } \\left[ \\frac { 4 } { 3 } \\Big ( \\gamma _ { \\mathrm { p e a k } } ^ { \\mathrm { S S C } } \\Big ) ^ { 2 } \\right] { = } 8 . 7 2 7 . } \\end{array}$ ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "通过对HBLs、IBLs和LBLs三类样本的线性回归分析，得到方程： $\\lg \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { i c } } = 8 . 3 3 4 +$ $\\lg \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { s y n } } ( \\chi ^ { 2 } { = } 0 . 6 6 8 , r { = } 0 . 2 0 5 )$ ，其截距 $c$ 与理论式(12)中的相对误差为 $4 . 5 \\%$ 。说明TeV蜗虎天体的辐射能较好地满足同步自康普顿模型。",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/d98f33a1cd2ba4d72edc6b749964c83f2a5cd6b78bee77d658bf873f63cca126.jpg",
+        "img_caption": [
+            "图6不同类型TeV耀变体的同步辐射能谱和逆康普顿能谱的峰值频率分布图。其中上图表示同步辐射能谱的峰值频率分布，下图表示逆康普顿散射能谱的峰值频率分布。不同类型耀变体峰值频率的平均值均用垂直虚线标出。其中黑色、蓝色、红色、绿色垂直虚线分别代表HBLs、IBLs、LBLs和FSRQs的峰频均值。"
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/fff56b1875b8c0c19eccd221a651dab8e6b02f837459d19f4cacef6576e1e591.jpg",
+        "img_caption": [
+            "图7不同类型TeV耀变体同步辐射能谱的峰值频率和逆康普顿散射能谱的峰值频率关系。上图表示HBLs、IBLs、LBLs和FSRQs的两峰值频率之间的散点图，下图表示HBLs、IBLs和LBLs两峰值频率之间的散点图。其中实线代表线性回归结果，虚线代表文献[4]的理论拟合结果。图中紫色区域为 $1 \\sigma$ 置信带。"
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Fig 6 Distribution of the peak frequency of the synchrotron radiation energy spectrum and the peak frequency of inverse Compton scattering energy spectrum of different types of TeV blazars.The top panels shows the distribution of peak frequency of synchrotron radiation energy spectrum,and the bottom panels shows the distribution of peak frequency of inverse Compton scattering energy spectrum.The average peak frequency of different typesof blazarsisindicated bya vertical dashed line..Among them,black,blue,red and green vertical dotted lines represent the mean frequencies of HBLs,IBLs and LBLs and FSRQs respectively. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Fig7 The peak frequency of synchrotron radiation energy spectrum versus the peak frequency of inverse Compton scattering energy spectrum of different types of TeV blazars.The top panels shows the scatter diagram between the two peak frequencies of HBLs,IBLs, LBLs and FSRQs,and the bottom panels shows the scatter diagram between the two peak frequencies of HBLs,IBLs and LBLs.The solid line represents the linear regression result,and the dashed line represents the theoretical fitting result of the paper [4].The purple area indicate the $1 \\sigma$ confidence bands. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 能谱曲率分布",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "根据(5)式中 $A { = } - \\beta$ ，可以得到样本同步辐射和逆康普顿散射的能谱曲率。能谱曲率主要体现 SED 中低能峰和高能峰的宽窄。能谱曲率越大，峰的开口越小（即峰越窄)；能谱曲率越小，峰的开口越大（即峰越宽)。图6表示HBLs、IBLs、LBLs 和FSRQs 四类样本的同步辐射的能谱曲率大小按照 LBLs>FSRQs>IBLs>HBLs 的顺序分布；逆康普顿散射的能谱曲率大小按照：HBLs>IBLs>FSRQs>LBLs 分布，两峰的平均能谱曲率见表 2。两峰的能谱曲率之间的相关性，我们通过Pearson 相关性检验，其相关系数 $\\rho { = } - 0 . 4 0 2$ ，统计 $P$ 值为 $P { = } 0 . 0 0 0 6 2$ 。说明同步辐射的能谱曲率与逆康普顿散射的能谱曲率呈现较弱的负相关性。根据文献[19]中的K均值聚类分析和R 语言中dataElipse 函数，可对 HBLs、IBLs、LBLs 和FSRQs 的能谱曲率分布范围进行估计。图9中的虚线圆显示出HBLs、IBLs、LBLs和FSRQs在 $9 5 \\%$ 置信区间内的置信椭圆。同步辐射和逆康普顿散射的能谱曲率范围分别为 HBLs $( \\beta _ { \\mathrm { s y n } } { = } 0 . 0 7 9 { \\pm } 0 . 0 5 0$ ， $\\beta _ { \\mathrm { i c } } { = } 0 . 2 6 9 { \\pm } 0 . 3 9 3 )$ 、IBLs( $\\beta _ { \\mathrm { s y n } } { = } 0 . 1 2 1 { \\pm } 0 . 0 6 4$ $\\beta _ { \\mathrm { i c } } { = } 0 . 1 5 2 { \\pm } 0 . 1 8 5 )$ 、LBLs $( \\beta _ { \\mathrm { s y n } } { = } 0 . 1 7 7 { \\pm } 0 . 0 7 7 , \\beta _ { \\mathrm { i c } } { = } 0 . 0 9 3 { \\pm } 0 . 0 8 7 )$ 、FSRQs( $\\beta _ { \\mathrm { s y n } } { = } 0 . 1 5 4 { \\pm } 0 . 1 0 3$ ， $\\beta _ { \\mathrm { i c } } { = } 0 . 1 0 3 { \\pm } 0 . 0 9 5 )$ 。",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/52ddf36aa38d1b648ac676a6e11b8914cf4e26043c90ddf1de96b6350445d63f.jpg",
+        "img_caption": [
+            "图8不同类型TeV耀变体同步辐射和逆康普顿散射的能谱曲率分布图。其中上图表示同步辐射能谱曲率分布，下图表示逆康普顿散射能谱曲率分布。不同类型耀变体能谱曲率的平均值均用垂直虚线标出。其中黑色、蓝色、红色、绿色垂直虚线分别代表HBLs、IBLs、LBLs和FSRQs对应的能谱曲率均值。"
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/69e04ad414d1d6cc27bfedb1a7717f80d570896afd4f32fa992fead368ba9dd1.jpg",
+        "img_caption": [
+            "图9不同类型TeV耀变体同步辐射和逆康普顿散射能谱曲率的关系。上图表示HBLs、IBLs、LBLs和FSRQs之间同步辐射和逆康普顿散射能谱曲率之间的散点图，下图表示它们能谱曲率的分布范围。其中黑色、蓝色、红色和绿色虚线圆分别代表HBLs、IBLs、LBLs和FSRQs的 $9 5 \\%$ 置信区间的置信椭圆。"
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Fig8 Distribution of the curvature of the synchrotron radiation energy spectrum and inverse Compton scattering energy spectrum of different types of TeV blazars.The top panels shows the distribution of the curvature of the synchrotron radiation energy spectrum,and the bottom panels shows the distribution of curvature of inverse Compton scattering energy spectrum. The mean values of the energy spectrum curvature of different types of blazars are plotted with a vertical dashed line.Among them,the black,blue,red and green vertical dotted lines represent the mean curvature values ofHBLs,IBLs,LBLs and FSRQs respectively. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Fig9 The curvature of the synchrotron radiation energy spectrum and inverse Compton scattering energy spectrum of different types of TeV blazars.The top panels shows the scatter diagram between the synchrotron radiation and the inverse Compton scattering energy spectrum curvature between HBLs,IBLs,LBLs and FSRQs,and the bottom panels shows the distribution range of their energy spectrum curvature.The black,blue,red and green dotted circles represent the confidence ellipses of the $9 5 \\%$ confidence intervals of HBLs,IBLs, LBLs and FSRQs,respectively. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.2谱指数、能谱峰值频率和能谱曲率之间的关系",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "根据69个TeV耀变体的拟合结果，我们对谱指数、能谱峰值频率和能谱曲率三个物理参量的相关性进行分析。我们采用Pearson相关性检验和线性回归分析 $( y = a + b x )$ ，得到的结果如表3所示。其中第(1)列为相关物理量；第(2)列为截距及其误差；第(3)列为斜率及其误差；第(4)列为线性相关系数；第(5)列为Pearson相关系数；第(6)列为统计 $P$ 值。",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0cba9a18605acdbc4876a6325f7472fbdd608eeaa6a236e04ace9c91c1583d5.jpg",
+        "table_caption": [
+            "表3相关性检验和线性回归分析结果",
+            "Table 3 Results of correlation test and linear regression analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>y~x</td><td>a~△a</td><td>b~△b</td><td>r</td><td>p</td><td>P</td></tr><tr><td>a~lgvpeak</td><td>-0.625±0.194</td><td>0.034±0.012</td><td>0.089</td><td>0.320</td><td>0.007</td></tr><tr><td>Qir~lgpeak</td><td>3.394±0.125</td><td>-0.166±0.008</td><td>0.865</td><td>-0.931</td><td>2.200×10-16</td></tr><tr><td>a~lgy</td><td>3.944±0.133</td><td>-0.193±0.008</td><td>0.885</td><td>-0.942</td><td>2.200×10-16</td></tr><tr><td>Quv~lgk</td><td>4.251±0.139</td><td>-0.209±0.009</td><td>0.891</td><td>-0.945</td><td>2.200×10-16</td></tr><tr><td>ax~1gak</td><td>6.340±0.200</td><td>-0.313±0.013</td><td>0.898</td><td>-0.949</td><td>2.200×10-16</td></tr><tr><td>y~lgpek</td><td>5.542±0.677</td><td>-0.342±0.043</td><td>0.477</td><td>-0.696</td><td>3.120×10-16</td></tr><tr><td>ar ~lg vpeak</td><td>-0.610±0.414</td><td>0.022±0.017</td><td>0.009</td><td>0.152</td><td>0.213</td></tr><tr><td>ai~lgvpeak</td><td>5.766±0.344</td><td>-0.207±0.014</td><td>0.754</td><td>-0.870</td><td>2.200×10-16</td></tr><tr><td>a~lgveak</td><td>6.639±0.396</td><td>-0.238±0.017</td><td>0.753</td><td>-0.870</td><td>2.200×10-16</td></tr><tr><td>αuv~lg vpeak</td><td>7.126±0.429</td><td>-0.256±0.018</td><td>0.750</td><td>-0.868</td><td>2.200×10-16</td></tr><tr><td>ax~lgpeak</td><td>10.440±0.676</td><td>-0.374±0.028</td><td>0.721</td><td>-0.852</td><td>2.200×10-16</td></tr><tr><td>ay~log vpeak</td><td>10.429±1.463</td><td>-0.426±0.061</td><td>0.414</td><td>-0.650</td><td>1.468×10-9</td></tr><tr><td>a~βsy</td><td>0.170±0.045</td><td>-2.585±0.419</td><td>0.353</td><td>-0.602</td><td>4.418×10-8</td></tr><tr><td>αir~βsyn</td><td>0.170±0.045</td><td>6.284±0.419</td><td>0.767</td><td>0.878</td><td>2.200×10-16</td></tr><tr><td>a~βsyn</td><td>0.170±0.045</td><td>7.498±0.419</td><td>0.825</td><td>0.910</td><td>2.200×10-16</td></tr><tr><td>auv~βsyn</td><td>0.170±0.045</td><td>8.175±0.419</td><td>0.848</td><td>0.922</td><td>2.200×10-16</td></tr><tr><td>ax~βsyn</td><td>0.170±0.045</td><td>12.785±0.419</td><td>0.932</td><td>0.966</td><td>2.200×10-16</td></tr><tr><td>ay~βic</td><td>1.224±0.062</td><td>-4.864±0.243</td><td>0.855</td><td>-0.926</td><td>2.200×10-16</td></tr><tr><td>βsyn~lg peak</td><td>0.453±0.020</td><td>-0.023±0.001</td><td>0.819</td><td>-0.906</td><td>2.200×10-16</td></tr><tr><td>βic~lgveak</td><td>-0.899±0.340</td><td>0.0463±0.014</td><td>0.125</td><td>0.371</td><td>0.002</td></tr><tr><td></td><td>-23.814±1.838</td><td>2.242±0.117</td><td>0.843</td><td>0.920</td><td>2.200×10-16</td></tr><tr><td>1 B~1gak</td><td>44.281±8.994</td><td>-1.562±0.374</td><td>0.195</td><td>-0.454</td><td>8.795×10-5</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "我们将(5)式中 $A { = } - \\beta$ 及(9)式代入(10)式，可以得到在各个波段谱指数、能谱峰值频率和能谱曲率三者之间的关系：",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha = 1 - 2 \\beta \\big / \\big / \\mathrm { g } \\nu _ { \\mathrm { p e a k } } - \\mathrm { l g } \\nu _ { 0 } \\big / ( 1 3 )\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\nu _ { 0 }$ 为各波段对应的频率值。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "从(13)式，三个物理参量之间并不是简单的一对一关系。在同一波段相同同步辐射能谱峰值频率的情况下，可以计算对应的谱指数和能谱曲率的关系式。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "根据Pearson相关性检验和线性回归分析(见图10)，能谱峰值频率和各波段谱指数之间的统计结果如下：(1)在射电波段，同步辐射和逆康普顿散射能谱的峰值频率和谱指数没有相关性;",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(2)在红外、光学、紫外和软x射线波段，同步辐射和逆康普顿散射能谱的峰值频率都与谱指数有较强的负相关性，通过线性回归分析，我们得到它们之间的经验关系式，结果列于表3；(3)在y射线波段，同步辐射和逆康普顿散射能谱的峰值频率都与谱指数具有较弱的负相关。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "同步辐射和逆康普顿散射的能谱曲率与各波段之间有以下统计结果：(1)除射电波段外，在红外、光学、紫外和软x射线波段，根据两者的经验公式分析可得，同步辐射能谱曲率和谱指数具有正相关性，且线性拟合直线的斜率为主要变化量，说明(13)式中，在相同的同步辐射能谱峰值频率情况下，可计算出对应谱指数和能谱曲率的关系；(2)在γ射线波段，逆康普顿散射能谱曲率与谱指数具有强的负相关性，结果列于表3。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "能谱峰值频率和能谱曲率的关系，我们分为同步辐射和逆康普顿散射两种情况来考虑。同步辐射能谱峰值频率和同步辐射能谱曲率(如图11)，我们可得下列统计结果： (1)同步辐射能谱曲率和同步辐射能谱峰值频率之间有较强的负相关，根据线性回归分析，得到它们的经验关系式(见表3)；(2)同步辐射能谱曲率的倒数和同步辐射能谱峰值频率之间存在明显的正相关关系。根据文献[11]中，Chen提出：同步峰频和能谱曲率可以用下列三种理论进行解释，它们分别对应三种不同的电子能量分布形式(Electron energy distribution)。第一种是能量相关的加速概率机制(Energy-dependent acceleration probability)，其中给出两者关系为：",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\log \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { s y n } } \\approx C _ { 1 } + \\frac { 2 } { 5 } \\beta _ { \\mathrm { s y n } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "其电子能量分布呈对数抛物线形式。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "第二种是分数变换加速增益机制(Fluctuation of fractional acceleration gain)，其中给出两者关系为：",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\log \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { s y n } } \\approx C _ { 2 } + \\frac { 3 } { 1 0 } \\beta _ { \\mathrm { s y n } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "其电子能量分布呈指数幂项内含对数的复合函数形式。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "第三种是随机加速机制(Stochastic acceleration)，其中给出两者关系为：",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\log \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { s y n } } \\approx C _ { 3 } + \\frac { 1 } { 2 } \\beta _ { \\mathrm { s y n } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "其电子能量分布为为准单粒子注入情形[20]。其中 $C _ { 1 }$ 、 $C _ { 2 }$ 和 $C _ { 3 }$ 为常量。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "我们通过相关性分析和线性回归分析(见表3)，可得到：",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { 1 } { \\beta _ { \\mathrm { s y n } } } = \\left( - 2 3 . 8 1 4 \\pm 1 . 8 3 8 \\right) + \\left( 2 . 2 4 2 \\pm 0 . 1 1 7 \\right) \\mathrm { l g } \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { s y n } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "斜率 $b \\approx 2 . 2 4 2 \\pm 0 . 1 1 7 _ { : }$ ，满足(14)和(16)，可用能量依赖加速概率模型或随机加速模型来解释。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "逆康普顿散射能谱的峰值频率和逆康普顿散射能谱曲率之间的正相关性较弱（如图11)。我们认为同步辐射情形和逆康普顿散射情形下的两者的差异是由于两种辐射的不同辐射机制造成的。逆康普顿散射的的情况较为复杂，其种子光子的来源可能来源于同步辐射，也可能来源于外部环境(宽线区、吸积盘或尘埃环)[21]22][23]。",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/2aadecf63b59f61fcb70a8e897b67f36b024497d6f0108541d5118d0b71e8639.jpg",
+        "img_caption": [
+            "图10左图：同步辐射能谱峰值频率和各波段谱指数的关系。从上到下依次为射电、红外、光学、紫外、软 $\\mathbf { x }$ 射线和 $\\gamma$ 射线波段谱指数。中间图：逆康普顿散射能谱峰值频率和各波段谱指数的关系。右图：能谱曲率与各波段谱指数的关系。其中红色实线为线性拟合直线。图中紫色区域为 $1 \\sigma$ 置信带。"
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Fig10Leftpael:thecoelatioetweetepeakfreqeyofsychrotoadiationdthesectralindexofacand.Fomtoottom areradio,infrared,optical,ultraviolet,soft $\\mathbf { \\boldsymbol { x } }$ -rayand $\\gamma$ -ray spectral index；Middle panel: the correlation between inverse Compton peak frequencyandsctaliexfachanddghtel:teoeaoetwsralruedsectaldexofchd solid line is a linear fitting line.The purple area indicate the $1 \\sigma$ confidence bands. ",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/be48ccd18bfdd870992ce24353cf81d3cfff9d63138ed9b13b0fa4db720610dc.jpg",
+        "img_caption": [
+            "图11上图为同步辐射能谱峰值频率与同步辐射能谱曲率倒数的关 系。下图为同步辐射能谱峰值频率与同步辐射能谱曲率的关系。 其中红色实线为线性拟合直线。图中紫色区域为 $1 \\sigma$ 置信带。 Fig11 The top panels shows the correlation between the peak frequency of synchrotron radiation and the reciprocal of the synchrotron spectral curvature.The bottom panelsshowsthe correlation between the peak frequency of synchrotron radiation and the synchrotron spectral curvature.The red solid line is a linear fitting line.The purple area indicate the $1 \\sigma$ confidence bands. "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/327a1e6458a4c6f26800e6a3f8aedf3b42260e2a579545944545b2bcdbe94e1b.jpg",
+        "img_caption": [
+            "图12上图为逆康普顿散射能谱峰值频率与逆康普顿散射能谱曲率倒数的关系。下图为逆康普顿散射能谱峰值频率与逆康普顿散射的能谱曲率的关系其中红色实线为线性拟合直线。图中紫色区域为 $1 \\sigma$ 置信带。"
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Figl2The top panels shows the correlation between inverse Compton peak frequency and the reciprocal of the inverse Compton spectral curvature.The bottom panels shows the correlation between the inverse Compton peak frequency and the inverse Compton spectral curvature.The solid red line is a linear fitting line.The purple area indicate the $1 \\sigma$ confidence bands. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4总结 ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "本文收集了69个费米TeV耀变体样本的平均态多波段数据，然后用对数抛物线模型对每一个源的SED，通过反复调节 $k$ ， $a _ { * }$ ， $\\beta$ ， $\\nu _ { * }$ 四个参量的值，使得在 $\\mathrm { l g } \\nu - \\mathrm { l g } \\ \\left( \\nu f _ { \\nu } \\right)$ 坐标空间中，用(5)式拟合获得的卡方值和标准偏差接近于0。同步辐射能谱拟合的卡方平均值 $\\bar { \\chi } _ { \\mathrm { s y n } } ^ { 2 } = 0 . 1 1 5$ ，逆康普顿散射能谱拟合的卡方平均值为 $\\bar { \\chi } _ { \\mathrm { i c } } ^ { 2 } = 0 . 0 8 2$ ；同步辐射能谱拟合的标准偏差平均值为$\\bar { \\varepsilon } _ { \\mathrm { s y n } } = 0 . 3 1 0$ ，逆康普顿能谱拟合的标准偏差平均值为 $\\bar { \\varepsilon } _ { \\mathrm { i c } } = 0 . 2 4 7$ ，都接近于0，且拟合误差都在 $1 \\sigma$ 范围内。通过拟合得出了每个源的同步辐射能谱和逆康普顿散射能谱的峰值频率、从射电到射线波段各个波段的谱指数以及能谱曲率。我们对这三个参量进行统计分析，我们得到下列结论：（1）所有TeV耀变体，除射电和y射线波段外，谱指数从红外波段平缓的趋向于更高能的波段；HBLs、IBLs、LBLs和FSRQs四类样本的谱指数分布不同，除射电波段外，各波段谱指数大小均按照HBLs<IBLs<LBLs分布；（2）TeV蝎虎天体的辐射能较好符合同步自康普顿模型。同步辐射能谱和逆康普顿散射能谱的峰值频率大小均按照HBLs>IBLs>LBLs>FSRQs的顺序分布，且两峰值频率成正的线性相关关系。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "（3）HBLs、IBLs、LBLs和FSRQs四类样本的能谱曲率分布不同，其中HBLs、IBLs、LBLs和",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "FSRQs的能谱曲率分布范围分别为：HBLs( $\\beta _ { \\mathrm { s y n } } { = } 0 . 0 7 9 { \\pm } 0 . 0 5 0$ ， $\\beta _ { \\mathrm { i c } } { = } 0 . 2 6 9 { \\pm } 0 . 3 9 3 )$ ）、IBLs( $\\beta _ { \\mathrm { s y n } } { = } 0 . 1 2 1 { \\pm } 0 . 0 6 4$ $\\beta _ { \\mathrm { i c } } { = } 0 . 1 5 2 { \\pm } 0 . 1 8 5 )$ 、 LBLs $( \\beta _ { \\mathrm { s y n } } { = } 0 . 1 7 7 { \\pm } 0 . 0 7 7 , \\beta _ { \\mathrm { i c } } { = } 0 . 0 9 3 { \\pm } 0 . 0 8 7 )$ 1FSRQs $\\scriptstyle \\beta _ { \\mathrm { s y n } } = 0 . 1 5 4 \\pm 0 . 1 0 3$ ， $\\beta _ { \\mathrm { i c } } { = } 0 . 1 0 3 { \\pm } 0 . 0 9 5 )$ 。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "（4）除射电波段，在红外、光学、紫外和软x射线波段，当峰值频率增加时，TeV源的谱变得很硬，说明同步辐射在不同波段存在辐射损失。为了解释谱的斜率，Chiang(2002)等人提出：由于电子注入分布具有较宽的能量范围，同步自康普顿主导的辐射损失主导同步辐射机制，具有$F _ { \\mathrm { v } } \\approx \\nu ^ { { - 3 / 2 } }$ 的关系[24]。通过线性回归分析，我们得到它们之间的经验关系式。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "（5）除射电波段外，在红外、光学、紫外和软x射线波段，同步辐射能谱曲率和对应各波段谱指数呈现正相关性，且线性拟合直线的斜率为主要变化量，说明： $\\mathtt { a } = 1 - 2 \\beta \\big [ \\mathrm { l g } \\nu _ { \\mathrm { p e a k } } - \\mathrm { l g } \\nu _ { 0 } \\big ]$ 式中，在相同同步辐射能谱的峰值频率情况下，可计算出对应谱指数和能谱曲率的关系；在γ射线波段，逆康普顿散射能谱的谱曲率与γ射线波段谱指数具有强的负相关性；",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "（6）TeV耀变体的同步辐射能谱峰值频率和同步辐射能谱曲率之间，满足 $\\begin{array} { r } { \\frac { 1 } { \\beta _ { \\mathrm { s y n } } } = ( - 2 3 . 8 1 4 \\pm } \\end{array}$ $1 . 8 3 8 ) + ( 2 . 2 4 2 \\pm 0 . 1 1 7 ) \\lg \\nu _ { \\mathrm { p e a k } } ^ { \\mathrm { s y n } }$ ，用能量相关的加速概率机制或随机加速机制能对其进行解释。逆康普顿散射能谱的峰值频率和逆康普顿散射的能谱曲率之间呈现弱的正相关性。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "除了文中的对数抛物线模型对能谱分布拟合外，还可以用截断幂律同步自康普顿散射模型得到能谱曲率[2等物理参量。由于目前费米TeV耀变体的数目有限，且能谱分布图为平均态数据，拟合图会存在一定弥散，但经过误差修正，可以使数据点接近 $1 \\sigma \\mathrm { \\Omega }$ 置信带。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "[1]UrryCMadovaniPUnifedShemesforRadioLoudActiveGalacticucleiJ].PublicatiosofthAstronomicalSocietyofthPacific 1995,107(715):803.   \n[2]Giseliasestaectralproeisos.OectselioletI-Xsample[J]. The Astrophysical Journal,1986,310(1):317-333.   \n[3]osatiG,araschiLCelotiA,tal.Auifngof tespetraleedistrbuiosofblaars[J].otlyoticeofheal Astronomical Society,1998,299(2):433-448.   \n[4]AbdoAAax-erbckWlidouV,taleSpectralEgistributionofeiBrightBlaars[J].estroicaal 2010, 716(1).   \n[5]Hauser,MichaelG.ThCosmicInfraredBackground:MeasurementsandImplicatios[J].AnualReviewofAstronomy&Astrosics 2001,39(1):249-307.   \n[6]Ackermann.TheImprintof theExtragalactic BackgroundLightin the Gamma-Ray Spectraof Blazars[J].Science,338.   \n[7]FallaRamazaniVLindforsE,ilonKEmpicalult-wavelengthpredictionmetodforveryighenrgyamma-riingBL Lacertaeobjects[J].Astronomy and Astrophysics,2017,608.   \n[8] CostamanteL,Ghiselini G.TeVcandidate BLLacobjects[J].Astronomyand Astrophysics,20o1,384(1):56-71.   \n[9]LinC,FanJH.SpectralenergydistributionsforTeVblzars[J].ResearchinAstronomyandAstrophysics,2O18,8():2-34.   \n[10] 张宇涛，樊军辉.Fermi耀变体的能谱分布研究[J].天文学报,2019,60(01):81-95.   \n[11Chen,Liang.CURVATURE OFTHESPECTRALENERGYDISTRIBUTIONSOFBLAZARS[J].The AstrophysicalJoumal,2014, 788(2):179.   \n[12]ZhengYGKangS,YangCYetalParticlecceleratioadSchotronelf-omptoEmissioinarJets.AAan to Quiescent Emission[J]. The Astrophysical Journal,2019,873(1).   \n[13]E.asaoeaabcedticleaicctelisf the complete BeppoSAX wide band X-ray data set[J].2003,413(2):pags.489-504.   \n[14]XiongD,ZhangH,ZhangX,tal.Ferigamma-rayandmuli-wavebademissofromTVctivegalacticnuclei[J].Astroics& Space Science,2013,343(1):345-360.   \n[15]任国伟，张雄，张皓晶,etal.Fermi耀变体的辐射特性和演化研究[J].天文研究与技术,2019(3):253-261.   \n[16]王雪品，毕雄伟，郑永刚.耀变体喷流性质研究[J].天文学报，058(4):30-46.   \n[17] Zhang,J,Liang,EW,Zhang,SN.RADIATIONMECHANISMS ANDPHYSICALPROPERTIES OFGeV-TeVBLLac OBJECTS[J]. Astrophysical Journal,2012,752(2).   \n[18]丁月蓉.天文数据处理方法[M].1998.   \n[19]卡巴科弗.R语言实战[M].人民邮电出版社,2013:296-395.   \n[20] 罗双玲，丁楠，罗丹,etal.Fermi耀变体能谱分布曲率特性研究[J].天文学报(6):71-89.   \n[21]Finke JD.COMPTON DOMINANCE AND THE BLAZAR SEQUENCE[J].The Astrophysical Journal,2013,763(2).   \n[22]KardashvostatioityfSctraogucsofoldiosioJ].ovtsroo6().   \n[23]ZhengYG,Yang CY(杨初源),ZhangL,etal.DISCERNINGTHE GAMMA-RAY-EMITTING REGIONINTHEFLATSPECTRUM RADIO QUASARS[J]. 2017.   \n[24]ChiangJ,BoetcherM.SynchrotronandSynchrotronSelf-ComptonSpectralSignaturesandBlazarEmisionModels[J].e Astrophysical Journal,2001,564(1):92-96.   \n[25] 钟微，刘文广，郑永刚.BLLac天体GeV-TeV能谱分析[J].天文研究与技术,2018,15(1):1-9. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Correlation study of Fermi TeV blazars spectrum index, peak frequency of energy spectrum and energy spectrum curvature ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Zhou Ruixin'， Zhu Kerui¹，Ma Li²，KangShi ju³， Zheng Yonggangoolof Physicsand ElectronicInformation，Yunnan Normal University，Kunming 6505oo，China，Email:ynzyg@ynu.e",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "2.School of physics and electrical engineering，Yuxi Normal University，Yuxi 6531Oo，China ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3.School of physics and electrical engineering，Liupanshui Normal University，Liupanshui 553O44,China) ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this paper, the average state multiband data of 69 Fermi TeV blazars samples were collcted,and the distribution of energy spectrum was fited with a logarithmic parabolic model to obtain the relevant physical parameters. The paper conducts statistical analysis on three physical parameters, namely, spectral index, peak frequency of energy spectrum and energy spectrum curvature, and the results are as follows :(1) the spectral index distributions of HBLs,IBLs,LBLs and FSRQs are different,and the spectral index sizes of different bandsshow the distribution law of HBLs<IBLs<LBLs,except the radio bands.. (2) there was a positive linear correlation between the peak frequency of the synchrotron radiation energy spectrum of BL Lac objects and the peak frequency of the inverse Compton scatering energy spectrum, indicating that the multi-band radiation energy of TeV BL Lac objects was well explained by the synchronous synchrotron-self-compton model. (3) through cluster analysis of the energy spectrum curvature distribution range of the given four types of samples of HBLs, IBLs,LBLs and FSRQs,it is shown that the spectral curvature distribution of the four types of samples of HBLs, IBLs,LBLs and FSRQs are different. (4) the peak frequency of the synchrotron radiation energy spectrum and the inverse Compton scatering energy spectrum have a strong negative correlation with the spectrum index of the infrared，optical, ultraviolet and soft X-ray bands, while the curvature of the synchrotron radiation energy spectrum has a positive correlation with the spectrum index of allbands except the radio band. (5) there is a strong negative correlation between the peak frequency of the synchrotron radiation energy spectrum and the curvature of the synchrotron radiation energy spectrum. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Key words:galaxies: active; radiationmechanisms: non-thermal;methods: statistical ",
+        "page_idx": 21
+    }
+]

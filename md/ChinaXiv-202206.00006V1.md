@@ -1,0 +1,209 @@
+# 中亚高山冰川表面高程变化时序重建
+
+都伟冰123，张世琼¹，李均力²³，包安明²3，王双亭¹，史宁可¹，许琳娟4，高鑫¹，马丹丹¹，郑岩超¹
+
+(1.河南理工大学测绘与国土信息工程学院,河南 焦作454003；2.中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011；3.新疆遥感与地理信息系统应用重点实验室，新疆乌鲁木齐830011；4.黄河水利委员会黄河水利科学研究院,河南 郑州450003)
+
+摘要：中亚高山冰川区地形复杂,站点观测和传统实地测量范围十分有限。卫星激光测高技术可实现大范围冰川表面高程变化监测。以2003—2009年ICESat激光测高数据为数据源,参考 2000年的SRTM高程数据，建立冰川区点云去噪及其精度优化算法和多尺度冰川区表面高程时空变化分析模型，并分析了2003—2009年间中亚山区整体与各分区冰川表面高程时序变化。结果表明：中亚高山冰川区的冰川表面平均高程整体呈下降趋势,表现出明显的区域差异。其中，2003—2009年中亚冰川表面高程总体下降了 $9 . 5 9 { \scriptstyle \pm 1 . 8 9 \mathrm { ~ m ~ } }$ I区(即西藏和青海南部)的冰川表面高程下降了 $6 . 5 1 { \scriptstyle \pm 2 . 9 } \mathrm { { m } }$ ;Ⅱ区(即新疆、青海北部和甘肃部分地区)下降了 $7 . 8 7 { \scriptstyle \pm 5 . 0 3 } \mathrm { ~ m }$ ;III区（即中国境外，中亚地区的部分国家)下降了 $9 . 8 1 \pm 5 . 1 \mathrm { ~ m ~ }$ ，且监测到2004—2005年冰川表面高程上升。本研究方法对冰川区点云类高程脚点监测具有一定的通用性，但对基准DEM的依赖度较高。
+
+关键词：冰川表面高程；ICESat；卫星激光测高；时序重建；高山冰川；中亚
+
+在全球变暖背景下，气候变化加剧，中亚冰川变化表现出明显区域差异。青藏高原中部和西北部冰川相对稳定，而高原周边山区的冰川物质亏损严重[。喀喇昆仑地区冰川异常,冰川跃动现象延伸到昆仑西部和帕米尔，与中亚其他地区的负质量平衡形成鲜明对比[2]。目前,喀喇昆仑冰川质量增加暂缓，且开始消融[3]。冰川变化形式复杂多样，冰川积累或消融必须考虑表面高程变化因素。了解当前和未来冰川质量的变化，以此预测干旱区冰川融水径流的未来变化情况和自然灾害的发生，提前提出防治措施，对于淡水资源安全与经济可持续发展等有重要意义[4]
+
+目前，测定冰川变化主要有花杆测量法、卫星定位监测方法、激光测高等[5]。冰川区坡度大、冰覆盖和冰前湖发育特征使冰川变化的局部复杂化，增加了冰川高程变化监测的难度[。随着遥感技术的兴起，由于其多时相大范围覆盖的特点，被广泛应用于测定冰川高程变化。
+
+本文采用2003—2009年的ICESat卫星激光测高数据，构建适合中亚高山区冰川表面高程数据的处理模型，获取中亚地区2003年各脚点每年的拟合高程，最后根据拟合高程结合降水、温度以及地形等因素分析研究区冰川表面高程变化特征及驱动因素。
+
+# 1原理与方法
+
+# 1.1点云去噪及其精度优化方法
+
+ICESat卫星在中低纬度地区没有精密航天器指向控制，造成单一重复轨道在中低纬度地区并不完全匹配,在轨道上相隔几百米甚至几公里[。本文通过建立去噪算法和多项式模型等提高ICESat激光测高数据在空间和时间上的一致性。
+
+本文以SRTM高程数据作为基准面，采用标准差法剔除由于受云层等因素影响的ICESat高程异常值，从而保证实验数据的可靠性。所有激光脚点与基准DEM的差值服从正态分布时，设激光光束脚点与基准DEM的高程差值为 $D = [ d _ { 1 } , d _ { 2 } , d _ { 3 } , \cdots$ $d _ { N - 1 } , d _ { N } ]$ ,其平均值为 $\overline { { \overline { { d } } } }$ ,标准差为 $e , d _ { i }$ 表示第 $i$ 个高程脚点， $N$ 为激光脚点的总个数。则激光脚点与基准DEM的高程差值落在 $( - 3 e , + 3 e )$ 的概率 $P$ 如下式所示。
+
+$$
+P \Big ( - 3 e < d _ { i } - \overline { { d } } < + 3 e \Big ) \approx 9 9 . 7 \%
+$$
+
+如果 $d _ { i }$ 服从正态分布，在3倍标准差的方法中，异常值就可定义为与平均值偏差超过3倍标准差的值；如果 $d _ { i }$ 不服从正态分布，可以采用远离平均值的多倍标准差来描述。后续在2.3.2节中，具体说明如何根据正态分布结果，采用远离1倍标准差，来剔除异常值。
+
+# 1.2大范围冰川高程变化时序重建
+
+以SRTM高程为自变量，采用公式(1)剔除置信度低的高程脚点，并建立区域高程拟合多项式模型，确定每年激光雷达卫星ICESat脚点高程与SRTM高程之间的关系。对每组给定的数据拟合点$( x _ { i } , y _ { i } )$ (其中， $i { \leqslant } m , m$ 为脚点数量; $x _ { i }$ 为中脚点 $i$ 对应的重采样SRTM高程； $y _ { i }$ 为ICESat激光光束脚点 $i$ 的高程),为了获取 $x _ { i }$ 与 $y _ { i }$ 的 $n \left( n { \leqslant } m \right)$ 次多项式函数关系 $P _ { n } ( x _ { i } )$ 。
+
+$$
+P _ { n } \big ( x _ { i } \big ) = \sum _ { k = 0 } ^ { n } a _ { k } x _ { i } ^ { k }
+$$
+
+式中： $k$ 为第 $k \left( k { \leqslant n } \right)$ 多项式； $a _ { k }$ 为拟合多项式的系数。当拟合值 $P _ { n } ( x _ { i } )$ 与 $\boldsymbol { y } _ { i }$ 越接近，表示激光脚点 $i$ 获取的高程值越精确。当所有激光脚点的拟合高程$P _ { n } ( x _ { i } )$ 与ICESat脚点高程 $\boldsymbol { y } _ { i }$ 差值的平方和 $I$ 值最小时，由系数 $a _ { k }$ 构成的多项式模型也就越精确。
+
+$$
+I = \operatorname* { m i n } \left( \sum _ { i = 0 } ^ { m } \Bigl [ P _ { _ n } \bigl ( x _ { i } \bigr ) - y _ { i } \Bigr ] ^ { 2 } \right) = \sum _ { i = 0 } ^ { m } \Biggl ( \sum _ { k = 0 } ^ { n } a _ { k } x _ { i } ^ { k } - y _ { i } \Biggr ) ^ { 2 }
+$$
+
+当拟合函数为 $n$ 次多项式时，满足式(3)的$P _ { n } ( x _ { i } )$ 称为最小二乘拟合多项式;当 $n { = } 1$ 时称为线性拟合， $I$ 为系数 $\mathbf { \Delta } a _ { 0 } , a _ { 1 } , \cdots$ ， $a _ { \scriptscriptstyle k } ( k = 0 , 1 , \cdots , n )$ 的多元函数。上述问题即为求 $I = I ( a _ { 0 } , a _ { 1 } , \cdots , ~ a _ { k } )$ 的极值问题。对公式(3)以 $a _ { j }$ 为未知数求导数为0时$( j = 0 , 1 , \cdots , ~ n )$ ，得多元函数求极值的必要条件公式如下：
+
+$$
+\sum _ { i = 0 } ^ { m } \left( \sum _ { k = 0 } ^ { n } a _ { k } x _ { i } ^ { j + k } \right) = \sum _ { i = 0 } ^ { n } y _ { i } x _ { i } ^ { j } , \ j = 0 , 1 , \cdots , \ n
+$$
+
+将公式(4)按照关于 $a _ { j } \ : ( \ : j = 0 , 1 , \cdots , \ : n$ 展开，用矩阵表示为式(5)的法方程组。
+
+$$
+\left[ \begin{array} { c c c c c } { m + 1 } & { \displaystyle \sum _ { i = 0 } ^ { m } x _ { i } } & { \cdots } & { \displaystyle \sum _ { i = 0 } ^ { m } x _ { i } ^ { n } } \\ { \displaystyle \sum _ { i = 0 } ^ { m } x _ { i } } & { \displaystyle \sum _ { i = 0 } ^ { m } x _ { i } ^ { 2 } } & { \cdots } & { \displaystyle \sum _ { i = 0 } ^ { m } x _ { i } ^ { n + 1 } \left| \Biggl [ a _ { 1 } \right] } \\ { \vdots } & { \vdots } & { \vdots } & { \vdots } \\ { \displaystyle \sum _ { i = 0 } ^ { m } x _ { i } ^ { n } } & { \displaystyle \sum _ { i = 0 } ^ { m } x _ { i } ^ { n + 1 } } & { \cdots } & { \displaystyle \sum _ { i = 0 } ^ { m } x _ { i } ^ { 2 n } \left| \Biggl [ a _ { 1 } \right] } & { \left[ \displaystyle \sum _ { i = 0 } ^ { m } x _ { i } ^ { n } \mathcal { Y } _ { i } \right] } \end{array} \right]
+$$
+
+公式(5)的系数矩阵是对称正定矩阵，存在唯一解。当 $\scriptstyle n = 3$ 时,求解得到的拟合高程 $P _ { n } ( x _ { i } )$ 与基准高程 $x _ { i }$ 相关系数 $R ^ { 2 } \geqslant 0 . 9 5$ ，选 $\scriptstyle n = 3$ 得到区域的拟合高程，即为激光测高某个时间激光脚点 $i$ 的拟合高程值与基准DEM的拟合多项式如下：
+
+$$
+P _ { _ n } ( x _ { i } ) = a _ { 3 } x _ { i } ^ { 3 } + a _ { 2 } x _ { i } ^ { 2 } + a _ { 1 } x _ { i } + a _ { 0 }
+$$
+
+式中： $x _ { i }$ 为基准高程值; $P _ { n } ( x _ { i } )$ 为待校正高程脚点数据； $a _ { 3 }$ ${ \bf \Phi } _ { 3 } \ , \ a _ { 2 } \ , \ a _ { 1 } \ ,$ （204号 $a _ { 0 }$ 分别为拟合多项式的系数。
+
+# 2实验
+
+# 2.1 研究区概况
+
+中亚山区位于亚洲中部海拔在 $3 5 0 0 \mathrm { ~ m ~ }$ 以上，冰川面积约 $1 . 3 { \times } 1 0 ^ { 5 } \mathrm { k m } ^ { 2 }$ 。为研究中亚高山冰川区内部的冰川变化差异，本文根据地貌、地形等生态地理区域系统将研究区划分为3个区域(图1)。I区主要包括西藏及青海南部地区，该区东南部冰川大部分属于海洋性冰川，内部冰川大多属于大陆性冰川;II区主要包括新疆地区及青海北部和甘肃北部的部分区域，该区冰川以大陆性冰川为主，但天山、昆仑山东段以及喀喇昆仑山北坡等部分地区冰川属于亚大陆性冰川;IⅢI区在中国境外，与中国相邻，地势东高西低，大部分为温带大陆性气候。
+
+# 2.2数据与预处理
+
+本文使用数据主要包含以下3部分：（1)ICESat数据来源于冰、云和陆地测高卫星，卫星于2003年1月13日成功发射，是首颗激光测高卫星，搭载地学激光测高系统GLAS[8]；ICESat数据产品在美国国家冰雪数据中心(http://www.nsidc.org)免费获取。根据研究目的，本文采用2003—2009年的ICESat注：底图采用自然资源部标准地图制作，审图号为GS(2016)1665号，对底图边界无修改。下同。
+
+![](images/89331db3a6026ec9f3d63001437b891373e1a2f128ff1f88aa9cabdab161c4c9.jpg)  
+图1中亚冰川分区概况示意图   
+Fig.1 Overview of glacier zoning in Central Asia
+
+GLAH14数据，为便于时序重建，避免降雪和融化等季节间冰川高程变化的影响，选择每年的同一月份数据；根据统计的数据量，选择数据量最多且最完整的每年3月的数据进行处理分析。（2）本文选择能够免费获取的 $9 0 ~ \mathrm { m }$ 分辨率包含研究区范围的SRTM3数据作为参考DEM。（3）冰川编目数据采用2017年7月发布的RGI6.O(RandolphGlacierInvento-ry 6.0)数据库，RGI6.0以2010年左右的夏季无云LandsatTM/ETM $^ +$ 为主要影像来源，用于获取研究区冰川边界。
+
+# 2.3数据处理
+
+首先从ICESat数据中提取脚点的坐标、高程，进行坐标转换和地理配准；再剔除受地形、云层等因素影响产生的异常值，本文根据正态分布检验结果选定异常值并将其剔除。利用去除异常值后的ICESat坐标数据，在SRTMDEM数据中重采样，获取ICESat脚点坐标对应的SRTMDEM高程，建立每年的多项式拟合函数，以解决ICESat数据重复轨道不完全匹配的问题，并计算相关系数 $R ^ { 2 }$ ,作为评估拟合效果参数。以2003年的SRTMDEM高程数据作为基准，获取2003年每个脚点数据每年的拟合高
+
+程，实现时序重建。
+
+2.3.1数据预处理由于本文始终以SRTMDEM为基准进行时序重建，因此需将Topex/Poseidon高程转换为WGS84高程，如下式。
+
+$$
+H _ { \mathrm { { 8 4 } } } = h _ { \mathrm { { g l a s } } } - N - 0 . 7
+$$
+
+式中： $H _ { \mathrm { { 8 4 } } }$ 为转换后点云WGS84高程； $h _ { \mathrm { g l a s } }$ 为ICESat点云相对于Topex/Poseidon参考椭球的高程 $\mathrm { ( m ) }$ ； $N$ 是大地水准面和参考椭球面的距离 $\left( \mathrm { m } \right)$ ；数值0.7的单位为 $\mathrm { ~ m ~ }$ ,为2个参考椭球间的高程差异[10]。本文在 $3 0  { \mathrm { k m } } \times 3 0  { \mathrm { k m } }$ 尺度范围内选取最高点作为SRTMDEM山顶点，对比参考椭球为WGS84高分辨率四维地球影像筛选均匀分布可靠的山顶点，记录其作为控制点的150个山顶点的经纬度坐标，对SRTMDEM进行配准，提高不同坡度、坡向的ICESat脚点精度[11]。
+
+2.3.2剔除异常值根据获取的冰川边界筛选出研究区内ICESat数据高程点。以I区的2003年数据为例，检验ICESat脚点高程是否符合正态分布。如表1所示，显著性为 $0 . 0 0 { < } 0 . 0 5$ ,所以该区域高程值不服从正态分布，因此，选定远离平均值1倍标准差的值为异常值并将其剔除，确保数据的准确性。
+
+2.3.3多项式拟合函数以SRTMDEM高程为自变量，与ICESat高程进行多项式拟合，建立多项式拟合函数如式(6)，并计算相关系数 $R ^ { 2 }$ 。如图2所示，通过对比I区内2003年点云数据去除异常值前后拟合效果，发现去除异常值的 $R ^ { 2 }$ 更接近1，拟合函数的拟合效果更好，更符合冰川表面高程的实际情况。
+
+# 3结果与分析
+
+# 3.1多项式拟合模型评估
+
+由于卫星数据的处理过程带有保密性，难以给予物理模型对数据源进行校正。本文通过统计学的方法，采用确定系数 $R ^ { 2 }$ 评估多项式拟合效果，表示模型对现实数据拟合的程度， $R ^ { 2 }$ 的计算公式
+
+表1I区的2003年ICESat脚点高程正态分布检验  
+Tab.1 Normal distribution test of ICESat foot elevation in areaIin 2003   
+
+<html><body><table><tr><td colspan="3">Kolmogorov-Smirova 检验</td><td colspan="3">Shapiro-Wilk检验</td></tr><tr><td>统计</td><td>自由度</td><td>显著性</td><td>统计</td><td>自由度</td><td>显著性</td></tr><tr><td>0.041</td><td>1483</td><td>0.000</td><td>0.983</td><td>1483</td><td>0.000</td></tr></table></body></html>
+
+注：Kolmogorov-Smirova表示标化后的数据是否服从理论的分布;Shapiro-Wilk表示一种基于相关性的算法,显著性假设检验方法。
+
+![](images/01f16b6360316fa75061d40d339b4e97fd14deb77f99ca9b1a1a0da6f43cb1e1.jpg)  
+图2I区2003年数据去除异常值前后对比
+
+Fig.2Comparison of data in zone Ibefore and after removing outliers in 2003
+
+如下。
+
+$$
+R ^ { 2 } = \frac { \mathrm { S S R } } { \mathrm { S S T } } = \frac { \mathrm { S S T } - \mathrm { S S E } } { \mathrm { S S T } } = 1 - \frac { \mathrm { S S E } } { \mathrm { S S T } }
+$$
+
+式中：SSR为预测数据与原始数据均值之差的平方和；SST即原始数据和均值之差的平方和；SSE为拟合数据和原始数据对应点的误差的平方和； $R ^ { 2 }$ 的取值范围为[0.1」。当拟合数据和原始数据对应点的误差越小时，SSE越小，拟合数据越可靠，此时 $R ^ { 2 }$ 的取值越接近1。因此，当 $R ^ { 2 }$ 的取值越接近1，拟合效果越好。
+
+由表2所示，整体冰川区、I区、I区、IⅢI区的 $\textstyle R ^ { 2 }$ 都大于0.98，说明整体拟合效果很好。冰川区由物质平衡线分为消融区和积累区，在物质平衡线以下为消融区，物质平衡线以上为积累区，冰川表面高程变化可总体归为这2种模式，因此利用三次多项式更能符合2种模式的冰川表面高程变化现象，且符合冰川表面高程自身变化规律。
+
+# 3.2冰川表面高程变化分析
+
+在数据处理的过程中由于系统误差会产生部分异常值，本研究采用式(9)，根据正态性检验结果，将数据中与变化平均值的偏差超过2倍标准差的高程变化平均值作为异常值进行剔除。各区不同时间段内冰川表面高程平均变化量见表3。
+
+$$
+\sigma = { \sqrt { \frac { E _ { 1 } ^ { 2 } + E _ { 2 } ^ { 2 } + \cdots + E _ { n } ^ { 2 } } { n } } } = { \sqrt { \frac { \sum E _ { i } ^ { 2 } } { n } } }
+$$
+
+式中： $E$ 为误差 $\mathrel { \mathop : } =$ 高程变化值-高程变化均值。
+
+由图3a可知，整体区域即整个中亚地区所有的冰川区域，总的冰川表面高程下降 $9 . 5 9 { \pm } 1 . 8 9 \mathrm { ~ m ~ }$ ,在2004年高程下降了 $5 . 8 9 { \scriptstyle \pm 3 . 7 6 \mathrm { ~ m ~ } }$ ，次年回升到与2003年相当的高度，之后逐年缓慢下降;图3b中，I区冰川表面高程在2003—2004年间下降 $5 . 7 8 { \scriptstyle \pm 2 . 1 3 } \mathrm { ~ m ~ }$ ，2005年略有回升，之后高程逐年缓慢下降，变化斜率为 $- 0 . 5 8 1 \ \mathrm { m \cdot a } ^ { - 1 }$ ;图3c中，II区其冰川表面平均高程在2003—2009年间下降了 $7 . 8 7 { \pm } 5 . 0 3 \ \mathrm { m } , 2 0 0 5$ 年冰川表面高程出现大幅上升，甚至超过2003年的高程值，但整体仍处于下降趋势，变化斜率为-1.226$\mathbf { m \cdot a } ^ { - 1 }$ ;图3d所示，与其他分区相比，Ⅲ区每年的冰川表面平均高程变化波动较大。
+
+表2研究区2003—2009年3月多项式拟合模型的 $R ^ { 2 }$   
+Tab.2 R²of the polynomial fitting model from 2003 to March 20o9 in the study area   
+
+<html><body><table><tr><td>年份</td><td>整体</td><td>I区</td><td>Ⅱ区</td><td>Ⅲ区</td></tr><tr><td>2003</td><td>0.9951</td><td>0.9866</td><td>0.9974</td><td>0.9916</td></tr><tr><td>2004</td><td>0.9990</td><td>0.9995</td><td>0.9994</td><td>0.9959</td></tr><tr><td>2005</td><td>0.9964</td><td>0.9924</td><td>0.9980</td><td>0.9963</td></tr><tr><td>2006</td><td>0.9987</td><td>0.9979</td><td>0.9992</td><td>0.9975</td></tr><tr><td>2007</td><td>0.9985</td><td>0.9994</td><td>0.9997</td><td>0.9932</td></tr><tr><td>2008</td><td>0.9995</td><td>0.9988</td><td>0.9998</td><td>0.9989</td></tr><tr><td>2009</td><td>0.9999</td><td>0.9999</td><td>0.9999</td><td>0.9998</td></tr></table></body></html>
+
+如图4所示，整个研究区内天山、帕米尔高原和青藏高原东南部地区的冰川高程下降剧烈，青藏高原南部地区冰川高程呈轻微下降趋势。中部的昆仑山西段地区部分冰川高程呈现升高状态，西段以及昆仑山东部的祁连山地区都呈下降趋势。北部的天山地区冰川高程变化呈现出明显的区域差异，东天山、北天山和西天山南部地区冰川高程下降明显，西天山北部冰川高程下降速率相对较慢。整个研究区内除昆仑山部分地区冰川高程增厚外，其他地区整体呈下降趋势，只是下降速率存在地区差异。与2019年Treichler等²的研究相比，各个区域的冰川表面高程变化趋势基本符合。但由于本文只采用了每年3月的数据，数据量小，分布稀疏，部分区域缺少数据支持且表面高程变化特征表现性差，例如在Treichler等2的研究中，中天山东南部地区、昆仑山大部分地区以及青藏高原中部的部分地区冰川呈轻微增厚状态，但本文中在该部分地区数据稀少，无法确认冰川变化情况。且本文中颜色栅格表示小区域范围内激光点的变化率，因此，与Treichler等2研究中大分区冰川表面高程变化率存在部分差异。
+
+表3各区不同时间段内冰川表面高程平均变化量  
+Tab.3Average variation of glacier surface elevation in different periods of time in each region   
+
+<html><body><table><tr><td>时段</td><td>整体/m</td><td>I区/m</td><td>I区/m</td><td>Ⅲ区/m</td></tr><tr><td>2003—2004年</td><td>-5.89±3.76</td><td>-5.78±2.13</td><td>-3.53±2.99</td><td>-4.82±3.31</td></tr><tr><td>2004—2005年</td><td>6.13±3.91</td><td>1.79±1.44</td><td>8.13±5.52</td><td>1.83±0.52</td></tr><tr><td>2005—2006年</td><td>-3.78±2.66</td><td>-1.12±1.01</td><td>-6.71±5.24</td><td>-2.02±1.68</td></tr><tr><td>2006—2007年</td><td>-3.56±2.79</td><td>-0.35±0.30</td><td>-4.61±3.31</td><td>-0.03±1.89</td></tr><tr><td>2007—2008年</td><td>-1.97±1.04</td><td>-0.63±0.60</td><td>0.43±0.32</td><td>-4±3.53</td></tr><tr><td>2008—2009年</td><td>-0.52±0.38</td><td>-0.42±0.29</td><td>-1.58±1.41</td><td>-0.77±0.64</td></tr><tr><td>2003—2009年</td><td>-9.59±1.89</td><td>-6.51±2.9</td><td>-7.87±5.03</td><td>-9.81±5.1</td></tr></table></body></html>
+
+![](images/0d42e406f9be467dd096c3a966b04f3c6ecb88a56aa9a7ce08773ab1f8bd503b.jpg)  
+图3各个研究区冰川表面高程变化时序重建  
+Fig.3 Time series reconstruction of glacier surface elevation change in each study area
+
+根据2019年Treichler等2]对MERRA-2和ERA-Interim气候再分析数据的处理，显示在2003一2009年间，气温呈上升趋势，除昆仑山以及周围少数地区外，亚洲冰川表面高程整体呈下降趋势。青藏高原夏季降水量，整体呈现自东南向西北递减的分布规律[12],东北部干旱区雨季降水量也呈增加趋势[13]图3中，在2004—2005年间各区的冰川表面高程变化剧烈。据相关研究4显示，2003年12月至2004年2月，研究区冬、春季大部分地区气温较常年同期明显偏高，降水偏少，造成冰川消融。2004年新疆南部等地夏季高温日数普遍达到10\~20d,局部地区达到 $4 0 ~ \mathrm { d } ^ { [ 1 5 ] }$ 。2005年西部地区伴有降水降雪的增加，造成各区的冰川表面高程在2005年都呈上升趋势[16]。其中,新疆东南部和西部以及青藏高原北部等地较常年同期偏高3倍[17]
+
+![](images/ba3eedcbc554b4234b00baa8c156e17aced73498e7adfcc426702ded2e3a357a.jpg)  
+图4各区冰川表面变化速率分布 Fig.4 Distribution map of glacier surface change rate in each region
+
+地形上，冰川在低海拔坡度小于 $3 0 ^ { \circ }$ 时，冰川厚度减薄随着坡度的减小而加剧，冰川表面高程降低较快；中高海拔地区，温度逐渐降低，受降水的影响较大，易导致冰川表面高程增高；而在高海拔地区平均坡度 ${ > } 3 5 ^ { \circ }$ ,易发生冰崩、雪崩等现象，使得冰川物质减少[18]。结合地形因素，降水随海拔增高而增多，但有一个最大降水量高度，超过此高度，山地降水不再随高度递增,随气候干湿而异[19]。I区中，青藏高原平均海拔 $4 0 0 0 \mathrm { m }$ 以上，海拔高度对气温的影响已超过纬度位置作用。因此，青藏高原除南部和东南部的冰川退缩较严重外，大部分区域冰川高程变化相对缓慢[20]。ⅡI区南部有昆仑山和阿尔金山，这2个地区海拔高，干旱少雨，冰川高程变化相对稳定，但天山西北部受降水量影响较大的外山脉冰川融化速度较快。祁连山地表平均温度在海拔高的地区变暖趋势明显，因此，祁连山地区冰川表面高程缓慢下降[2。Ⅲ区中西帕米尔高原山脉交错复杂，降水丰富，该地区冰川高程变化强烈。东帕米尔高原东南边缘高山阻隔了来自印度洋、太平洋的暖湿气流，气候干燥，冰川高程缓慢下降[22]。就下降趋势而言，研究区内境外区域冰川表面高程下降趋势最快，为 $- 1 . 6 6 3 \ \mathrm { m } \cdot \mathrm { a } ^ { - 1 }$ ,新疆地区次之，青藏高原地区最为缓慢。
+
+# 4结论
+
+本文针对ICESat卫星测高数据，考虑到重复轨道在中低纬度地区空间匹配性弱的问题，选取SRTMDEM为高程基准面，建立冰川区点云去噪及其精度优化算法和多尺度冰川区表面高程时间序列分析模型，为点云类遥感监测冰川表面高程变化提供参考。主要结论如下：
+
+（1）采用正态分布显著性检验，进行粗差剔除，在不服从正态分布情况下，选定远离线性回归1倍标准差的高程值为异常值，能够有效剔除冰川区IC-ESat脚点高程中的异常值。
+
+(2）利用三次多项式模型，对中亚山区整体和分区域的不同尺度冰川表面高程进行拟合，模型 $R ^ { 2 }$ 都在0.98以上，表明ICESat数据和SRTM高程数据的三次多项式关系在该区具有较强的普适性。
+
+（3）亚洲高山区的冰川表面高程2003—2009年整体下降幅度在 $1 0 \mathrm { m }$ 以内，表现出明显的区域差异，对于2004年前后表现出强烈变化，由于环流和季风等因素的影响，造成的温度以及降水异常，从而导致冰川异常波动。
+
+本研究方法对冰川区点云类高程脚点监测具有一定的通用性，但会使点云数据更稀疏，另对基准DEM的依赖度较高。后续，研究将进一步加入其他冰川区点云数据，研究时间序列建立所适用的空间尺度，建立更灵活多变的区域冰川表面高程时序监测模型，对影响冰川表面高程变化的地形、环境等因子进行更有效全面的分析。
+
+# 参考文献(References):
+
+[1] Bocchiola D,G Diolaiuti.Recent (198O-2Oo9) evidence of climate change in the upper Karakoram Pakistan[J]. Theoretical and Applied Climatology,2013,113(3-4): 611-641.   
+[2] Treichler D,Käab A, Salzmann N,et al.Recent glacier and lake changes in high mountain Asia and their relation to precipitation changes[J]. The Cryosphere,2019,13(11): 2977-3005.   
+[3]Hugonnet R, McNabb R,Berthier E,et al. Accelerated global glacier mass loss in the early twenty-first century[J]. Nature, 2021, 592(7856): 726.   
+[4]Farinoti D,Immerzeel WW,de Kok R J,etal. Manifestations and mechanisms of the Karakoram glacier anomaly[J]. Nature Geoscience,2020,13(1): 8.   
+[5]吴珊珊,姚治君,姜丽光,等.现代冰川体积变化研究方法综述 [J].地球科学进展,2015,30(2):237-246.[Wu Shanshan,Yao Zhijun,Jiang Liguang,et al.Review on the research methods of modern glacier volume change[J].Advances in Earth Science, 2015,30(2): 237-246.]   
+[6]Zhao XR,Wang X,Wei JF,et al. Spatiotemporal variability of glacier changes and their controlling factors in the Kanchenjunga region Himalaya based on multi-source remote sensing data from 1975 to 2015[J]. Science of the Total Environment,2020,745: 140995,doi: 10.1016/j. scitotenv.2020.140995.   
+[7]Huang TJ, JiaL, Menenti M,et al.A new method to estimate changes in glacier surface elevation based on polynomial fitting of sparse ICESat-GLAS Footprints[J]. Sensors,2017,17(8):1803,doi: 10.3390/s 17081803.   
+[8]Nuth C, Moholdt G,Kohler J,et al.Svalbard glacier elevation changes and contribution to sea level rise[J]. Journal of Geophysical Research: Earth Surface,2010,115(F1),doi: 10.1029/2008JF 001223.   
+[9]Kaab A,Berthier E,Nuth C,etal. Contrasting paternsof early twenty-first-century glacier masschange in the Himalayas[J]. Nature:International Weekly Journal of Science,2012,488(7412): 495-498.   
+[10] 杜小平,郭华东,范湘涛,等.基于ICESat/GLAS数据的中国典 型区域 SRTM与ASTER GDEM高程精度评价[J].地球科学, 2013,38(4): 887-897.[Du Xiaoping,Guo Huadong,Fan Xiangtao,et al. Elevation accuracy evaluation of SRTM and aster GDEM in typical regions of China based on ICESat/GLAS data[J]. Journal of Earth Science,2013,38(4): 887-897.]   
+[11]宗继彪,叶庆华,田立德.基于ICESat/GLAS,SRTM DEM和GPS 观测青藏高原纳木那尼冰面高程变化(2000-2010年)[J].科学 通报,2014,59(21): 2108-2118.[Zong Jibiao, Ye Qinghua,Tian Lide. Observation of elevation change of namunani ice surface on Qinghai Tibet Plateau based on ICESat/GLAS,SRTM DEM and GPS (2000- 2010)[J]. Chinese Science Bulletin,2014,59(21): 2108-2118.]   
+[12]米玛卓嘎,秦增良,肖卓靖,等.西藏夏季降水特征及其预测分 析[J].干旱区研究,2019,36(5): 1060-1069.[Mirmah Zhuoga, Qin Zengliang,Xiao Zhuojing,et al.Summer precipitation in Tibet and its prediction[J]. Arid Zone Research,2019,36(5): 1060-1069.]   
+[13] 杨昭明,张调风.1961—2017年青藏高原东北部雨季降水量变 化及其贡献度分析[J].干旱区研究,2021,38(1):22-28.[Yang Zhaoming,Zhang Tiaofeng.Analysis of precipitation change and its contribution in the rainy season in the northeast Qinghai-Tibet Plateau from 1961 to 2017[J].Arid Zone Research,2021,38(1): 22-28.]   
+[14] 陈丽娟,许力,江滢.2004年北半球大气环流及对中国气候异 常的影响[J].气象,2005,31(4):27-31.[Chen Lijuan,Xu Li,Jiang Ying.Atmospheric circulation in the northern hemisphere in 2004 and its impactonclimate anomalies in China[J].Meteorological Monthly,2005,31(4): 27-31.]   
+[15] 博尔楠·哈不都拉,恰里哈尔,阿衣敏.2004年全国夏季降水异 常及其成因[J].安徽农业科学,2014,42(16):5159-5160.[Bornan Habura, Chariha, Aymin. Summer precipitation anomaly and its causes in China in 2O04[J]. Journal of Anhui Agricultural Sciences,2014,42(16): 5159-5160.]   
+[16] 孙建华,卫捷,赵思雄,等.2005年夏季的主要天气及其环流分 析[J].气候与环境研究,2006,11(2):138-154.[Sun Jianhua, Wei Jie,Zhao Sixiong, et al. Analysis of main weather and circulation in summer of 2Oo5[J]. Climatic and Environmental Research, 2006,11(2): 138-154.]   
+[17] 杨莲梅,史玉光,汤浩.新疆北部冬季降水异常成因[J].应用气 象学报,2010,21(4):491-499.[Yang Lianmei, Shi Yuguang, Tang Hao.Causes of winter precipitation anomaly in Northern Xinjiang[J]. Journal of Applied Meteorological Science,2010,21(4): 491-499.]   
+[18] 蒋宗立,王磊,张震,等.2000—2014年喀喇昆仑山音苏盖提冰 川表面高程变化[J].干旱区地理,2020,43(1):12-19.[Jiang Zongli,Wang Lei, Zhang Zheng,et al. Surface elevation change of Yinsugeti glacier in Karakoram mountain from 2OoO to 2014[J]. Arid Land Geography,2020,43(1):1219.]   
+[19] 傅抱璞.地形和海拔高度对降水的影响[J].地理学报,1992,47 (4): 302-314. [Fu Baopu. Influence of topography and altitude on precipitation[J]. Acta Geographica Sinica,1992,47(4): 302-314.]   
+[20] 陶静,赵文吉,王旭,等.念青唐古拉山西段冰湖时空变化分析 [J].干旱区研究,2021,38(3): 618-628.[Tao Jing,Zhao Wenji, Wang Xu,et al. Spatial changes of the glacial lakes in the western Nyainqentanglha Range[J]. Arid Zone Research,2O21,38(3): 618- 628.]   
+[21] 赵美亮,曹广超,曹生奎,等.1980—2017年青海省地表温度时 空变化特征[J].干旱区研究,2021,38(1):178-187.[Zhao Meiliang, Cao Guangchao, Cao Shengkui, et al.Spatial-temporal variation characteristics of land surface temperature in Qinghai Province from 1980 to 2017[J]. Arid Zone Research,2021,38(1): 178-187.]   
+[22] 曾磊,杨太保,田洪阵.近40年东帕米尔高原冰川变化及其对 气候的响应[J].干旱区资源与环境,2013,27(5):144-150. [Zeng Lei,Yang Taibao,Tian Hongzhen.Glacier change in the East Pamir Plateau in recent 4O years and its response to climate [J]. Journal of Arid Land Resources and Environment, 2013,27 (5): 144-150. ]
+
+# Temporal reconstruction of alpine glacier surface elevation variation in Central Asia
+
+DU Weibing1,23， ZHANG Shiqiong'， LI Junli23， BAO Anming2³， WANG Shuangtingl, SHI Ningke'， XU Linjuan4， GAO Xin'， MA Dandan'， ZHENG Yanchaol   
+(1.College ofSurveyand Teritory Information Engineering,HenanPolytechnic University,Jiaozuo 454oo3,Henan,   
+China;2.State KeyLaboratory of DesertandOasis Ecology,Xinjiang Instituteof Ecologyand Geography,Chinese   
+Academy of Sciences,Urumqi 830011,Xinjiang, China;3.KeyLaboratory ofGIS&RSApplication Xinjiang Uygur   
+Autonomous Region,Urumqi 83oo11,Xinjiang, China; 4.Yellow River Instituteof Hydraulic Research,Zhengzhou 450003,Henan, China)
+
+Abstract: The topography of the alpine glacier area in Central Asia is complex.Satelite laser altimetry technology can be used to monitor large-scale glacier surface elevation change.This study used ICESat laser altimetry data from 2003 to 2009,and shutle radar topography mision (SRTM) elevation data and Randolph glacier inventory (RGI)6.0 cataloging data for 20 to monitor the surface elevation change of alpine glaciers in Central Asia.The glacial region ofCentral Asia is divided into three regions according to geographical form.First, the data were tested for normality to eliminate error. When a normal distribution was not observed,outlier values from the standard deviation of the linear regresion were selected as abnormal.Point cloud denoising and its accuracy optimization algorithm and a multi-scale analysis model of temporal and spatial variation in surface elevation in the glacier area were established.A cubic polynomial model was used to fit the glacier surface elevation data for diffrent scales across the whole area and sub regions of the high Asian mountains.A time series reconstruction of changes in alpine glacier surface elevation in Central Asia was caried out based on the data for each region from 2003.Temporal changes in glacier surface elevation from 2O03 to 2009 were analyzed. Theresults showed that the average elevation for the whole region decreased,with clear regional differences. From 2003 to 2009, the surface elevation of high Asian glaciers decreased by $9 . 5 9 \pm 1 . 8 9 \mathrm { ~ m ~ }$ .The glacier surface elevation in Areas I(i.e.,Tibet and southern Qinghai),I (i.e.,Xinjiang,Northern Qinghai,and some partsof Gansu),and II (i.e., outside China and some countries in Central Asia) decreased by $6 . 5 1 \pm 2 . 9 \mathrm { { m } }$ ， $7 . 8 7 \pm 5 . 0 3 \mathrm { ~ m }$ ， and $9 . 8 1 \pm 5 . 1 \mathrm { ~ m ~ }$ ,respectively. The glacier surface elevation increased from 2004 to 20o5.Area I showed the slowest decline in glacier elevation,followed by Area II;Area II showed the fastest decline.This research method has universal application potential for monitoring point cloud elevation in glacier areas.The model evaluation parameter $( R ^ { 2 } )$ was ${ > } 0 . 9 8$ , indicating that the cubic polynomial relationship between ICESat data and SRTM elevation data showed strong universality in this area.However, this willmake the point cloud data more sparse,and the model is highly dependent on the benchmark DEM.
+
+Keywords: glacier surface elevation； ICESat； satelite laser altimetry； temporal reconstruction;alpine glacier;Central Asia

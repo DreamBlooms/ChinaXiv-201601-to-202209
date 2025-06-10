@@ -1,0 +1,230 @@
+# DOI:10.5846/stxb201608191696
+
+彭国清,唐绍清.喀斯特耐阴灌木淡黄金花茶的精细空间遗传结构与基因流.生态学报,2017,37(21)：7313-7323.PengGQgudlet(21)：7313-7323.
+
+# 喀斯特耐阴灌木淡黄金花茶的精细空间遗传结构与基因流
+
+彭国清，唐绍清
+
+广西师范大学，生命科学学院，广西珍稀濒危动物生态学重点实验室，桂林541004摘要;淡黄金花茶(Camelia flavida)是一种具有淡黄色花瓣的金花茶植物,为喀斯特典型的耐阴灌木。基于广西弄岗喀斯特季节性雨林 $1 5 \ \mathrm { h m } ^ { 2 } ( 3 0 0 \ \mathrm { m } \times 5 0 0 \ \mathrm { m } )$ 监测样地,利用13 对微卫星(SSR)标记,探讨喀斯特地貌对淡黄金花茶的精细空间遗传结构(SGS）基因流和小尺度范围遗传分化的影响。结果表明：(1)淡黄金花茶在 $5 0 \mathrm { ~ m ~ }$ 距离内产生显著的 SGS,在灌木类型和依赖种子传播的物种中具有中等程度的 SGS 强度( $S p = 0 . 0 2 4 8 \$ );(2)淡黄金花茶种子和花粉传播平均距离较短,分别为 $1 2 . 4 7 \mathrm { ~ m ~ }$ 和$2 9 . 0 3 ~ \mathrm { m } , 7 2 . 2 \%$ 花粉和 $8 1 . 0 \%$ 种子的传播距离均主要是在 $2 0 \mathrm { ~ m ~ }$ 内；（3）淡黄金花茶在小尺度范围（种群间距离 $< 1 ~ \mathrm { k m }$ )的4个种群,甚至相距 $1 0 0 \mathrm { ~ m ~ }$ 的两个斑块产生了显著的遗传分化。喀斯特生境地貌对淡黄金花茶的基因流产生阻碍作用,从而导致淡黄金花茶在小尺度范围产生遗传分化。 ?
+
+关键词：喀斯特;淡黄金花茶;空间遗传结构;基因流
+
+# Fine-scale spatial genetic structure and gene flow of Camellia flavida， a shadetolerant shrub in karst
+
+PENG Guoqing，TANG Shaoqing\* GuangxiKeyLbratoryofarenddangeredAimalEolog，gefLifeienceGangxialUniersituiln
+
+Abstract:Camelli flavida，a golden Camella with yellow petals，is a typicalshade-tolerantshrub in karstregions.The aimof this study was toexplore Whether karst habitat heterogeneitycontributes to the fine-scalespatial geneticstructure （ SGS），gene flow，and genetic differentiation of $C$ flavida at the small scale within a $1 5 \mathrm { { h m } } ^ { 2 }$ plot of northern tropical karst seasonalrain forest in Nonggang，basedon13microsatelites.Theresults indicated thatthere was asignificant SGS in $\boldsymbol { C }$ ： flavida within a distance of $5 0 ~ \mathrm { m }$ ，the intensity of which is moderate ( $S p \ = \ 0 . 0 2 4 8$ ）among shrub and gravity-dispersed species. The mean seed and pollen dispersal distances of $C$ flavida were short at $1 2 . 4 7 \mathrm { ~ m ~ }$ and $2 9 . 0 3 \mathrm { ~ m ~ }$ ，respectively，with （204号 $7 2 . 2 \%$ of pollen and ${ \widehat { 8 1 } } . 0 \%$ of seed being mainly spread within $2 0 ~ \mathrm { ~ m ~ }$ . In addition， there was significant genetic differentiation among four populations at the small scale （distance between populations $< 1 ~ \mathrm { k m }$ ），and even between two patches separated by a distance of only $1 0 0 \mathrm { ~ m ~ }$ It is concluded that karst habitat heterogeneity significantly influences the gene flow of C. flavida,leading to comparatively strong SGS and genetic diferentiation at the small scale.
+
+Key Words: karst； Camellia flavida ； spatial genetic structure；gene flow
+
+中国是世界上喀斯特地貌分布面积最广的国家,占世界岩溶面积的 $6 4 \%$ ,主要分布在广西、云南、贵州和四川[1]。典型喀斯特地貌广泛分布着峰丛、槽谷、洼地等,小生境复杂多样,群落结构也复杂多变、物种多样性从峰丛至洼地变化剧烈[2]。喀斯特地区生物多样性高,珍稀濒危动植物和地区特有种丰富,显示了喀斯特地区植物区系和生物多样性极其特殊[3]。例如,广西弄岗国家级自然保护区具有典型喀斯特地貌,岩溶特有植物丰富,这种特有化的发展在苦苣苔科和山茶科的金花茶植物尤为显著[5]。生境异质性可导致物种在不同的基岩和土壤条件下其叶形、树皮或者花序等产生形态变化[6,在典型峰丛谷地生态系统中的岩溶区的叶片解剖旱生结构比非岩溶区更明显[7]。
+
+空间遗传结构（spatial genetic structure，SGS)是指种群在二维空间基因型的分布格局,常利用个体之间的亲缘系数与地理距离的关系进行空间自相关分析[8-9]。研究 SGS 有助于了解种群个体间、个体与环境间的相互作用以及种群发展动态,能够为濒危植物的原地和迁地保护提供重要的参考[10-11]。同时,SGS 被认为是决定种群短期进化的一个关键因子[12],现有的 SGS 能够影响附近个体交配,产生的后代的适合度可能不一样,从而对环境异质性的适应不一致[1-14]。SGS 是植物本身特性与生态因素长期相互作用的结果,影响的因素众多而复杂,产生的作用也不相同。一般认为,建立者效应、克隆繁殖、低密度的种子资源、有限的花粉和种子流等增强 SGS[1-7],而广泛的花粉和种子传播、重叠种子区(overlapping seed shadow）多样的生活史和随机的自疏效应等则减弱 SGS[13,16,1-21]。其中,影响 SGS 的两个主要因素是种子和花粉流,有限的花粉和种子流导致存在 $\mathrm { S G S } ^ { [ 2 2 - 2 4 ] }$ 。
+
+目前,喀斯特地区植物 SGS 和基因流的研究较少,而林下灌木类型研究更少。淡黄金花茶（Camelliaflavida Chang)是一种具有淡黄色花瓣的金花茶植物,属于喀斯特典型的常绿耐阴灌木。它分布狭窄、零散，生境片段化,常生长于海拔 100— ${ 5 0 0 } \mathrm { ~ m ~ }$ 的较荫蔽的沟谷林下或灌丛中[25]。种子为蒴果,主要依赖重力传播,花粉主要为昆虫传粉。本文以喀斯特地区的耐阴灌木淡黄金花茶为研究对象,基于广西弄岗北热带喀斯特季节性雨林 $1 5 \mathrm { h m } ^ { 2 } ( 3 0 0 \mathrm { m } \times 5 0 0 \mathrm { m } )$ 监测样地,利用微卫星(SSR)标记,探讨以下问题：(1)淡黄金花茶的 SGS 强度如何？（2)淡黄金花茶具有怎样的基因流样式?（3）喀斯特强烈的生境异质性对淡黄金花茶的 SGS、基因流和遗传分化有着怎样的影响？
+
+# 1材料和方法
+
+# 1.1 研究样地
+
+广西弄岗北热带喀斯特季节性雨林 $1 5 \ \mathrm { h m } ^ { 2 } ( 3 0 0 \ \mathrm { m } \times 5 0 0 \ \mathrm { m } )$ 监测样地（以下简称 $1 5 ~ \mathrm { h m } ^ { 2 }$ 样地)是由广西植物研究所于广西弄岗自然保护区建立,是中国森林生物多样性监测网络（Chinese Forest BiodiversityMonitoring Network，CForBio）和全球森林生物多样性监测网络（Center for Tropical Forest Science，CTFS）重要组成部分,也是唯一监测热带喀斯特森林的固定样地[26]。该样地包括了从山顶、山坡到洼地等一系列“峰丛-洼地”典型的桂西南喀斯特地区生境类型[2.26]。山顶岩石裸露度高,气候干热;样地中间包含一个洼地,伴有季节性水淹,气候阴湿,土层也较厚,其中还密生很多藤本植物,再加上四面坡地植被对其郁闭的影响,使得其小生境与四面坡地也有很大的差异[2,27]。 $1 5 ~ \mathrm { h m } ^ { 2 }$ 样地是依据全球森林生物多样性监测网络（CTFS）固定样地建设技术规范,测量并记录样地内胸径 $\geqslant 1 \ \mathrm { c m }$ 的木本物种名称、胸径、高度、生长状态及坐标等信息[28]。该样地内的洼地周围聚集分布了1个淡黄金花茶种群,同时在样地周围分布有因生境异质性而呈间断分布的数个淡黄金花茶种群,该样地在喀斯特森林群落、生境类型和淡黄金花茶的分布上都具有代表性。因此,选用于研究喀斯特生境异质性对淡黄金花茶的精细空间遗传结构、基因流的影响。
+
+# 1.2 调查和取样方法
+
+对 $1 5 ~ \mathrm { h m } ^ { 2 }$ 样地内所有的淡黄金花茶个体进行调查和采样,每株取2一3片幼叶,撕成 $< 2 \mathrm { \ c m } ^ { 2 }$ 碎片，放入含有变色干燥硅胶的封口袋中干燥，带回实验室提取DNA。胸径 $\geqslant 1 \ \mathrm { c m }$ 的淡黄金花茶个体的坐标依据全球森林生物多样性监测网络(CTFS)固定样地建设技术规范精确测量,由广西植物研究所李先琨研究组提供,而胸
+
+径 $< 1 \ \mathrm { c m }$ 的个体坐标通过测量与附近3株已知坐标植株的距离,经过几何运算获得精确坐标。根据是否达到开花年龄将淡黄金花茶分为3个年龄阶段：幼苗（基径 $\leqslant 1 \ \mathrm { c m }$ ,均未达到开花年龄）、幼树（ $1 \ \mathrm { c m } \cdot$ <基径 $< 2 . 5$ cm,部分达到开花年龄)和成年树(基径 $\geqslant 2 . 5 \ \mathrm { c m }$ ,均达到开花年龄）。
+
+# 1.3 DNA提取和 SSR分型
+
+植物 DNA 的提取采取改良后的CTAB法[29]。根据已发表的38对淡黄金花茶[30]和21对近缘种平果金花茶（Camellia pingguoensis）[31]共59对SSR引物,利用10个淡黄金花茶个体作为测试样品进行PCR扩增$6 \%$ 变性聚丙烯酰胺凝胶电泳分型,筛选出13 对扩增条带清晰、多态性高的 SSR引物（表1)。PCR体系和程序参考Lu等[31]。
+
+# 1.4 数据分析
+
+# 1.4.1 遗传多样性
+
+SSR 位点利用在线软件Genepop on the $\mathrm { W e b } ^ { [ 3 2 ] }$ 检测Hardy-Weinberg 平衡,Micro-Checker v2.2.3 软件[33]检测是否存在零位点（null gene）,GenAlEx6软件[34]统计等位基因 $( A )$ 、观测杂合度 $( \hat { H _ { 0 } }$ ）、期望杂合度( $\cdot _ { H _ { \mathrm { E } } }$ )和固定系数 $( F _ { \mathrm { I S } } )$ 。
+
+# 1.4.2 空间遗传结构
+
+利用SPAGeDi软件[35]中的Loiselle等[9]的亲缘系数（kinship coefficient, $\boldsymbol { F } _ { i j }$ )统计淡黄金花茶的空间遗传结构（SGS）。参数设置如下：距离级（distanceclass）为 $1 0 \mathrm { ~ m ~ } , 1 0 0 0$ 次模拟统计 $\boldsymbol { F } _ { i j }$ 标准差和 $9 5 \%$ 置信区间。空间遗传结构强度利用 $S p$ 统计， $. S p { = } - b _ { { } _ { F } } / ( 1 { - } F _ { { } _ { 1 } } )$ $b _ { { } _ { F } }$ 为 $\boldsymbol { F } _ { i j }$ 对距离自然对数的斜率， $F _ { 1 }$ 为第一距离级的亲缘系数[36]。
+
+# 1.4.3小尺度范围的遗传分化
+
+以分布在广西自然弄岗保护区 $1 5 \ \mathrm { h m } ^ { 2 }$ 样地种群NG(144株)，CS(219株），PA(35株)和PB(62株)共4个种群（种群间距离 $0 . 2 9 6 - 0 . 9 8 2 ~ \mathrm { k m }$ ,平均0.627$\mathbf { k m } _ { \prime } ^ { \star }$ ），研究淡黄金花茶在喀斯特地貌小尺度范围内（种群间距离 $< 1 ~ \mathrm { k m }$ )的遗传分化（图1）。利用GenAIEx6.5软件计算种群之间的遗传分化系数 $( F _ { \mathrm { s r } } )$ 和基因流（202 $( N _ { m }$ ),设置999 模拟计算检测显著度。然后利用STRUCTURE $\mathrm { v } 2 . 2$ 软件[37]研究种群的遗传结构,参数设置为：Burn-in 1OOOOO 次,Markov's chain Monte Carlo（MCMC）500000迭代，重复20次，分组数目 $\mathrm { K } = 1$ -5。运行结果压缩后利用在线软件 Struture harvester[38]分析,得出最佳遗传学种群数K[39]
+
+# 1.4.4种子流和花粉流
+
+以15hm²样地的幼苗为子代,幼树和成年树为亲本，利用CERVUS 3.07 软件[40]进行亲本分析。
+
+![](images/b2f4e2fdfe591a6b230c73dfb3a9130ced1ff69bf431d4fcd7dcd8c02858ad82.jpg)  
+图1小尺度范围的4个淡黄金花茶种群卫星分布图Fig.1The satellite imagery of four populations of C.flavida atsmall scale
+
+CERVUS 3.07软件是基于最大似然法进行亲本分析,通过估计子代和亲本之间的似然值的对数（LOD）[41],最高者为真实亲本,并且通过模拟计算临界值(LOD)判断其显著性。在双亲性别未知的亲本分析中,具有最高且显著的子代-双亲三联LOD值为最优双亲组合。亲本分析模拟参数设置为：子代数量为21,候选双亲为123,候选亲本为比例为0.9，位点错配率为0.01，置信度水平为 $8 0 \%$ 。根据Dow和Ashley[42」的方法以及淡黄金花茶的种子主要依赖重力的传播特性,进行两个假设：(1)如果三联 LOD 值显著,即找到双亲,其中与子代较近的为母本,较远的为父本;(2)如果三联LOD值不显著,只有一个亲本 LOD 显著,那就认为该亲本为母本。然后根据子代、母本和父本的坐标绘制花粉流和种子流传播样式图,并根据GenAIEx 6.05 软件[34|计算花粉和种子传播距离。
+
+http://www.ecologica.cn
+
+# 2结果
+
+# 2.1 空间分布
+
+$1 5 ~ \mathrm { h m } ^ { 2 }$ 样地分布淡黄金花茶144 株,其中幼苗、幼树和成年树分别为21、48和75株，聚集分布在洼地周围约 $3 \ \mathrm { h m } ^ { 2 } ( \ 1 0 0 \ \mathrm { m } { \times } 3 0 0 \ \mathrm { m } )$ 的区域,且被物种密度较大和伴有季节性水淹的洼地较明显地分为两个斑块NG1和 NG2（图2）。此外,样地外周围无淡黄金花茶分布，为相对孤立的种群。
+
+# 2.2 遗传多样性
+
+利用扩增条带清晰、多态性高的13对SSR引物对$1 5 ~ \mathrm { h m } ^ { 2 }$ 样地的144株个体进行扩增，等位基因（A）、观测杂合度 $( H _ { \mathrm { o } }$ ）、期望杂合度（ $\left( H _ { \mathrm { E } } \right)$ 和固定系数 $( F _ { \mathrm { I S } } )$ 分别为7.23，0.748,0.729和-0.027（表1）。经在线软件
+
+![](images/8e7dcb772462822a5f6511f7aca16cdc07954e3fbd2e8eed8809f1fcff416962.jpg)  
+图215 $\mathbf { h } \mathbf { m } ^ { 2 }$ 样地淡黄金花茶分布图Fig.2Distribution of C.flavdia in $\mathbf { 1 5 \ h m ^ { 2 } }$ plot两个椭圆表示该样地的两个淡黄金花茶斑块 NG1和 NG2
+
+Genepop on the web 检测,Bonferroni 矫正后只有引物 FLA9 显著偏离哈迪温伯格平衡（表1）,Micro-Checker 检测13 对引物均不存在零位点。这表明这13 对 SSR引物具有较高的多态性和可靠性。
+
+表115 $\mathbf { h } \mathbf { m } ^ { 2 }$ 样地淡黄金花茶的遗传多样性  
+Table1 Genetic diversityof C.flavidain15 hm² plot   
+
+<html><body><table><tr><td rowspan="2">引物er</td><td rowspan="2">引物序quene(5.3)</td><td rowspan="2">退火温度</td><td rowspan="2">等位基因</td><td rowspan="2"></td><td rowspan="2">期度 HE</td><td rowspan="2">固定系数</td><td rowspan="2">平</td></tr><tr><td></td></tr><tr><td>TER4</td><td>TGAACAACAGCGAAAAACCG TTCTCAGCCGAAGCGACAAC</td><td>54</td><td>10 ?</td><td>0.708</td><td>0.708</td><td>-0.001</td><td>0.9247</td></tr><tr><td>TER7</td><td>CAATAACGCAACAACAGATC ATGCTACTCCCACAGACAAC</td><td>52</td><td>5</td><td>0.694</td><td>0.678</td><td>-0.024</td><td>0.2762</td></tr><tr><td>TER12</td><td>CATCTCTCAAAAGACCCAGT AATGCGAGGAGAGGAGTTAT</td><td>54</td><td>9</td><td>0.813</td><td>0.768</td><td>-0.058</td><td>0.1104</td></tr><tr><td>TER21</td><td>CTCATTTCCCATCAATACAC TTCTTACATTCTCGTCCCTA TCTTATTGGGCCACACTAAACAT</td><td>52</td><td>8</td><td>0.778</td><td>0.769</td><td>-0.012</td><td>0.3577</td></tr><tr><td>FLA4</td><td>CCAGCCATATCACGACTTTTAGA TTCGGTTTGTATGTGTGAGAGTG</td><td>58</td><td>4</td><td>0.785</td><td>0.734</td><td>-0.070</td><td>0.8550</td></tr><tr><td>FLA8</td><td>TACGACCCTTCAAAAACTCTCCT TCCTTTGAAGCATTCACAAAAAT</td><td>59</td><td>7</td><td>0.715</td><td>0.693</td><td>-0.032</td><td>0.0204</td></tr><tr><td>FLA9</td><td>TACTTTGCAATTCAGCTTGAGGT GAAGTCTCAGAAGAAGCAAACGA</td><td>58</td><td>13</td><td>0.868</td><td>0.861</td><td>-0.008</td><td>0.0021*</td></tr><tr><td>FLA12</td><td>CATATGCTCGCTAAAACCTTCAG GCTTTCTGAGACCGATTAAGTGA</td><td>58</td><td>4</td><td>0.611</td><td>0.599</td><td>-0.020</td><td>0.8749</td></tr><tr><td>FLA17 FLA26</td><td>GCATATTGCCCCATTTAGGTATT TAACCAGGTCAGGTGTCAGCTAT</td><td>58</td><td>4</td><td>0.743</td><td>0.694</td><td>-0.070</td><td>0.1534</td></tr><tr><td>FLA27</td><td>CAAGAGTTGGGAAAGGAAAGTCT TGAGGTTTAATCGAAAAACCAAG</td><td>58</td><td>7</td><td>0.681</td><td>0.665</td><td>-0.024</td><td>0.0536</td></tr><tr><td>FLA31</td><td>GTACCTTCTTCTTCCTTCTGGGA GATGGAGGAGAAAATGGGTACAT</td><td>58</td><td>7</td><td>0.840 0.785</td><td>0.813</td><td>-0.034 -0.027</td><td>0.0211</td></tr><tr><td>FLA36</td><td>GACGCGTTAATGAAGGTTACAAG TGCTGAGCGTAGTATGAGATGAA</td><td>58</td><td>10</td><td></td><td>0.764</td><td></td><td>0.0299</td></tr><tr><td></td><td>CTCCTCTCCACTCCTTGTCTCTT</td><td>58</td><td>6</td><td>0.708</td><td>0.727</td><td>0.025</td><td>0.0127</td></tr><tr><td>平均</td><td></td><td></td><td>7.23</td><td>0.748</td><td>0.729</td><td>-0.027</td><td></td></tr></table></body></html>
+
+A， alleles ; $H _ { 0 }$ ，observed heterozygosity; $H _ { \mathrm { E } }$ ，expected heterozygosity; $F _ { \mathrm { I S } }$ ,inbreeding coefficient；HWET,Hardy-Weinberg equilibrium test；\*，经 过Bonferroni矫正后显著偏离哈迪温伯格平衡
+
+# 2.3空间遗传结构
+
+淡黄金花茶个体间的亲缘系数 $( F _ { _ { i j } } )$ 在 $5 0 \mathrm { ~ m ~ }$ 范围内存在显著正相关，50— $1 3 0 \mathrm { ~ m ~ }$ 处于显著或者不显著的波动状态，而130— $2 2 0 \mathrm { ~ m ~ }$ 处于显著负相关（图3）。在第一距离级 $1 0 \mathrm { ~ m ~ } , \boldsymbol { F } _ { i j }$ 为0.0521,略小于第一表兄弟（thefirst cousin）的 $F _ { i j } ( 0 . 0 6 2 5 )$ ,SGS 强度 $S p$ 为0.0248。
+
+# 2.4小尺度范围的遗传分化
+
+一般而言，种群的 SGS 在某个距离范围后不会一直都表现出明显的负相关,但是 $1 5 ~ \mathrm { h m } ^ { 2 }$ 样地淡黄金花茶的SGS在 $1 3 0 \mathrm { ~ m ~ }$ 后 $( 1 3 0 - 2 2 0 ~ \mathrm { m } )$ 均产生了明显的负相关（图3），我们推测是由于该种群的 $1 0 0 \mathrm { ~ m ~ }$ 的两个斑块之间存在显著的遗传分化导致的。 $F$ 统计表明，NG1和 NG2 两个斑块之间存在显著的遗传分化( $F _ { \mathrm { { S T } } } = 0 . 0 7 9 , P < 0 . 0 5 )$ 。STRUCTURE 结果表明,该种群的最佳遗传学种群分组 $\mathrm { K } = 2$ ,STRUCTURE聚类图显示两个斑块的遗传结构存在一定的遗传分化（图4）。所以， $F$ 统计和 STRUCTURE 均证明 $1 5 ~ \mathrm { h m } ^ { 2 }$ 样地两个淡黄金花茶斑块间存在显著的遗传分化,导致 SGS 在 130— $2 2 0 \mathrm { ~ m ~ }$ 产生显著负相关。
+
+![](images/b89cf4fcfda43eb08112a42d14bfa75934a9b0710c32173bc4680a80f6efb03a.jpg)  
+图3淡黄金花茶的精细空间遗传结构Fig.3Fine-scale spatial genetic structure of C. flavida实线表示亲缘系数，虚线表示 $9 5 \%$ 置信区间
+
+此外,喀斯特地貌小尺度范围内（种群间距离 $< 1 \ \mathrm { k m }$ )4个淡黄金花茶种群间均发生了显著的遗传分化（ $P { < } 0 . 0 5 )$ ,遗传分化系数 $F _ { \mathrm { s r } }$ 为0.099—0.133,平均为0.116;基因流为1.632—2.285,平均为1.939（表2）。
+
+![](images/07ac0780a71c990d8a131fa2c8f640d1d192099fec2b77ac59050c3540166254.jpg)  
+图415 $\mathbf { h } \mathbf { m } ^ { 2 }$ 样地 NG1和NG2两个斑块的 STRUCTURE 分析Fig.4The STRUCTURE analysis of NG1 and NG2 patches in $\mathbf { 1 5 \ h m ^ { 2 } }$ plot(a): $K = 1 { \ - } - 5$ 时， $K$ 与 $\varDelta K$ 的关系图；(b)： $K = 2$ 时，两个斑块的 STRUCTURE 聚类图
+
+表2小尺度范围淡黄金花茶种群间的遗传分化系数 $F _ { \mathrm { S T } }$ 和基因流 $N _ { m }$   
+Table 2Genetic differentiation coefficient $\boldsymbol { F } _ { \mathrm { S T } }$ and gene flow $N _ { m }$ among populations of $c$ flavia at small scale   
+
+<html><body><table><tr><td>NG</td><td>CS</td><td>PA</td><td>PB</td><td></td><td>NG</td><td>CS</td><td>PA</td><td>PB</td></tr><tr><td>NG</td><td>2.161</td><td>1.679</td><td>1.632</td><td>PA</td><td>0.130*</td><td>0.105 *</td><td>1</td><td>1.754</td></tr><tr><td>cs 0.104*</td><td>1</td><td>2.120</td><td>2.285</td><td>PB</td><td>0.133 *</td><td>0.099 *</td><td>0.125 *</td><td>二</td></tr></table></body></html>
+
+下对角线为遗传分化系数 $\boldsymbol { F } _ { \mathrm { S T } }$ ,上对角线为基因流 $N m$ ；“ $^ *$ ”表示产生显著的遗传分化( $\ P < 0 . 0 5$ ）
+
+# 2.5种子流和花粉流
+
+一 $1 5 ~ \mathrm { h m } ^ { 2 }$ 样地淡黄金花茶幼苗的亲本分析表明,在三联置信度 $8 0 \%$ 水平下,21株幼苗中 18 株( $8 5 . 7 \%$ 找到双亲，3株( $1 4 . 3 \% )$ )只找到单亲(表3）。换而言之,18株幼苗的花粉来源于样地内,3株可能来源样地外。这说明 $1 5 ~ \mathrm { h m } ^ { 2 }$ 样地的幼苗的花粉大部分来源样地内,较少来源于样地外。
+
+通过亲本分析发现，子代存在的同胞和半同胞只占所有幼苗的 $3 3 . 3 \%$ 。例如，同胞个体NG90和NG91均来源与双亲 NG89和 NG105；同母异父的半同胞 NG109、NG111和 NG121均来源与母本 NG98（表4）。根据幼苗、父本和母本的坐标计算出种子传播距离为 $0 . 6 5 { \ - } 5 1 . 0 5 \mathrm { ~ m ~ }$ ,平均 $1 2 . 4 7 \mathrm { ~ m ~ }$ ;花粉传播的距离为3.06—
+
+$1 9 4 . 7 3 \mathrm { ~ m ~ }$ ,平均 $2 9 . 0 3 \mathrm { ~ m ~ }$ （表4)。以 $1 0 \mathrm { ~ m ~ }$ 为距离级,统计每个距离级淡黄金花茶的花粉和种子传播频率,结果表明花粉和种子的传播距离均主要是在 $2 0 \mathrm { ~ m ~ }$ 范围内,所占比例分别为 $7 2 . 2 \%$ 和 $8 1 . 0 \%$ （图5）。
+
+Table 3Parentage analysis of seedlings in $\mathbf { 1 5 \ : h m ^ { 2 } }$ plot   
+
+<html><body><table><tr><td>子代 (0)</td><td>第一亲本 (FC)</td><td>错配 位点数 (PLM)</td><td>LOD值 (PLS)</td><td>成对 置信度 (PC)</td><td>第二亲本 (SC)</td><td>错配 位点数 (PLM)</td><td>LOD值 (PLS)</td><td>成对 置信度 (PC)</td><td>三联位点 错配数 (TLM)</td><td>三联 LOD值</td><td>三联 置信度</td></tr><tr><td>NG3</td><td>NG32</td><td>0</td><td>5.92</td><td></td><td>NG137</td><td>0</td><td>3.73</td><td>*</td><td>0</td><td>(TLS) 12.23</td><td>(TC)</td></tr><tr><td>NG83</td><td>NG115</td><td>1</td><td>0.88</td><td></td><td>NG103</td><td>0</td><td>3.89</td><td>*</td><td>1</td><td>7.59</td><td></td></tr><tr><td>NG84</td><td>NG108</td><td>1</td><td>-0.88</td><td>一</td><td>NG94</td><td>0</td><td>5.36</td><td>一</td><td>1</td><td>7.46</td><td>●*</td></tr><tr><td>NG90</td><td>NG89</td><td>0</td><td>5.44</td><td>*</td><td>NG105</td><td>0</td><td>8.54</td><td>?</td><td>0</td><td>17.21</td><td>*</td></tr><tr><td>NG91</td><td>NG89</td><td>0</td><td>4.84</td><td>*</td><td>NG105</td><td>0</td><td>7.09</td><td>*</td><td>0</td><td>15.74</td><td>*</td></tr><tr><td>NG111</td><td>NG98</td><td>1</td><td>3.95</td><td>*</td><td>NG95</td><td>1</td><td>1.36</td><td>一</td><td>1</td><td>10.20</td><td>*</td></tr><tr><td>NG120#</td><td>NG80</td><td>2</td><td>-5.84</td><td></td><td>NG104</td><td>0</td><td>4.89</td><td>*</td><td>3</td><td>-1.48</td><td>1</td></tr><tr><td>NG121</td><td>NG102</td><td>0</td><td>6.53</td><td>1</td><td>NG108</td><td>1</td><td>2.43</td><td>一</td><td>1</td><td>10.21</td><td>*</td></tr><tr><td>NG122</td><td>NG98</td><td>0</td><td>7.73</td><td></td><td>NG103</td><td>0</td><td>1.49</td><td></td><td>0</td><td>15.05</td><td>*</td></tr><tr><td>NG132#</td><td>NG134</td><td>1</td><td>1.54</td><td>*</td><td>NG115</td><td>1</td><td>-2.46</td><td></td><td>2</td><td>2.51</td><td>1</td></tr><tr><td>NG140</td><td>NG71</td><td>1</td><td>-2.11</td><td>1</td><td>NG15</td><td>1</td><td>2.45</td><td></td><td>1</td><td>5.35</td><td>*</td></tr><tr><td>NG37</td><td>NG130</td><td>1</td><td>4.09</td><td>*</td><td>NG57</td><td>0</td><td>10.18</td><td></td><td>1</td><td>12.10</td><td>*</td></tr><tr><td>NG77</td><td>NG70</td><td>0</td><td>2.87</td><td>一</td><td>NG31</td><td>0</td><td>7.22</td><td>1</td><td>0</td><td>13.22</td><td>*</td></tr><tr><td>NG86</td><td>NG114</td><td>0</td><td>14.20</td><td>*</td><td>NG117</td><td>1</td><td>8.43</td><td>*</td><td>1</td><td>17.88</td><td>*</td></tr><tr><td>NG88</td><td>NG110</td><td>0</td><td>4.22</td><td>一</td><td>NG82</td><td>0</td><td>7.50</td><td></td><td>0</td><td>14.79</td><td>*</td></tr><tr><td>NG40</td><td>NG23</td><td>0</td><td>4.98</td><td>*</td><td>NG69</td><td></td><td>0.23</td><td>一</td><td>1</td><td>8.61</td><td>*</td></tr><tr><td>NG48#</td><td>NG51</td><td>1</td><td>2.40</td><td>*</td><td>NG65</td><td></td><td>-2.22</td><td>1</td><td>3</td><td>0.30</td><td>1</td></tr><tr><td>NG50</td><td>NG51</td><td>0</td><td>8.03</td><td>*</td><td>NG34</td><td>●0</td><td>9.90</td><td>*</td><td>0</td><td>21.31</td><td>*</td></tr><tr><td>NG81</td><td>NG112</td><td>1</td><td>1.96</td><td></td><td>NG97</td><td>0</td><td>8.67</td><td>*</td><td>1</td><td>10.83</td><td>*</td></tr><tr><td>NG109</td><td>NG98</td><td>0</td><td>6.09</td><td></td><td>NC20</td><td>1</td><td>0.13</td><td></td><td>2</td><td>7.43</td><td>*</td></tr><tr><td>NG119</td><td>NG99</td><td>0</td><td>5.93</td><td>1</td><td>NG87</td><td>0</td><td>7.84</td><td>1</td><td>0</td><td>14.90</td><td>*</td></tr></table></body></html>
+
+O,Ofsprings；C,istandidate；lsmatcing;,aiso；C,airoidenc；SCcondaddat；cDci mismatching;TLS，Trio LOD score；TC,Trio confidence；“ $^ *$ ”和“-”分别表示在 $8 0 \%$ 置信度下显著和不显著，“#"表示该幼苗只找到单亲
+
+表3 $\mathbf { 1 5 \ h m ^ { 2 } }$ 样地幼苗双亲分析  
+表4淡黄金花茶种子和花粉传播距离  
+Table 4 The seed and pollen dispersal distance of C.flavida   
+
+<html><body><table><tr><td>编号 Numbers</td><td>子代 Offsprings</td><td>母本 Mothers</td><td>父本 Fathers</td><td>种子传播距离/m Seed dispersal distance</td><td>花粉传播距离/m Pollen dispersal distance</td></tr><tr><td>1</td><td>NG3</td><td>NG32</td><td>NG137</td><td>33.41</td><td>106.85</td></tr><tr><td>2</td><td>NG83</td><td>NG103</td><td>NG115</td><td>11.92</td><td>16.99</td></tr><tr><td>3</td><td>NG84</td><td>NG108</td><td>NG94</td><td>6.66</td><td>5.57</td></tr><tr><td></td><td>NG90</td><td>NG89</td><td>NG105</td><td>1.50</td><td>9.46</td></tr><tr><td>5</td><td>NG91</td><td>NG89</td><td>NG105</td><td>1.40</td><td>9.46</td></tr><tr><td>6</td><td>NG111</td><td>NG98</td><td>NG95</td><td>6.26</td><td>4.60</td></tr><tr><td>7</td><td>NG120</td><td>NG104</td><td>1</td><td>23.05</td><td>1</td></tr><tr><td>8</td><td>NG121</td><td>NG108</td><td>NG102</td><td>13.12</td><td>6.89</td></tr><tr><td>9</td><td>NG122</td><td>NG98</td><td>NG103</td><td>12.72</td><td>7.80</td></tr><tr><td>10</td><td>NG132</td><td>NG134</td><td>1</td><td>43.49</td><td>1</td></tr><tr><td>11</td><td>NG140</td><td>NG71</td><td>NG15</td><td>16.94</td><td>42.27</td></tr><tr><td>12</td><td>NG37</td><td>NG130</td><td>NG57</td><td>0.65</td><td>17.97</td></tr><tr><td>13</td><td>NG77</td><td>NG31</td><td>NG70</td><td>6.22</td><td>27.53</td></tr><tr><td>14</td><td>NG86</td><td>NG117</td><td>NG114</td><td>5.88</td><td>5.88</td></tr></table></body></html>
+
+http ://www.ecologica.cn
+
+续表  
+
+<html><body><table><tr><td>编号 Numbers</td><td>子代 Offsprings</td><td>母本 Mothers</td><td>父本 Fathers</td><td>种子传播距离/m Seed dispersal distance</td><td>花粉传播距离/m Pollen dispersal distance</td></tr><tr><td>15</td><td>NG88</td><td>NG110</td><td>NG82</td><td>4.17</td><td>4.57</td></tr><tr><td>16</td><td>NG40</td><td>NG23</td><td>NG69</td><td>8.82</td><td>38.03</td></tr><tr><td>17</td><td>NG48</td><td>NG51</td><td>1</td><td>4.14</td><td>1</td></tr><tr><td>18</td><td>NG50</td><td>NG51</td><td>NG34</td><td>2.25</td><td>14.73</td></tr><tr><td>19</td><td>NG81</td><td>NG97</td><td>NG112</td><td>51.05</td><td>3.06</td></tr><tr><td>20</td><td>NG109</td><td>NG98</td><td>NG20</td><td>3.60</td><td>194.73</td></tr><tr><td>21</td><td>NG119</td><td>NG99</td><td>NG87</td><td>4.53</td><td>6.14</td></tr><tr><td></td><td></td><td></td><td>平均 Average</td><td>12.47</td><td>29.03</td></tr></table></body></html>
+
+“-”表示没有找到父本
+
+![](images/bee805cfad02c5fc9710d06fd3c10543d1664396bd4a2a5cbbc89501f62385a7.jpg)  
+图5淡黄金花茶在每个距离级花粉和种子传播频率   
+Fig.5The pollen and seed dispersal frequency of C.flavida within distance classes
+
+此外,分别对两个斑块 NG1和NG2 幼苗的父本来源进行分析发现,除了斑块 NG1的仅有1株幼苗的父本来源于斑块 NG2,斑块 NG1幼苗的父本均来源于斑块 NG1内,斑块 NG2幼苗的父本均来源于斑块 NG2 内（图6)。这表明淡黄金花茶的花粉流几乎均存在于斑块内,而较少存在于斑块之间。
+
+# 3讨论
+
+3.1 空间遗传结构(SGS)
+
+影响 SGS 的两个主要因素是种子流和花粉流[2-4]。当存在较强的花粉流时,往往产生较弱的或者不具有显著的 SGS,如风媒传粉植物板栗和锥栗[43]、青冈[4]、巴西松[45]等;当花粉和种子高度局域传播时将会产生近交，同胞聚集母树周围而导致较强的 $\mathrm { S G S } ^ { [ 2 4 ] }$ ,如虫媒传粉、依靠种子传播的植物野生大豆[46]、黄梅秤锤树[47]、黑檀[1]等。淡黄金花茶主要依靠昆虫传粉,种子依赖重力传播,且具有生境偏好性,故推测淡黄金花茶具有较强的 $\mathrm { s G S } _ { \% }$ 研究结果表明,淡黄金花茶存在显著的 SGS 的距离为 $5 0 \mathrm { ~ m ~ }$ ,第一距离级 $1 0 \mathrm { ~ m ~ }$ 范围内的亲缘系数 $\hat { F } _ { 1 }$ 为 $0 . 0 5 2 1 , S p$ 为0.0248,显示较强的 SGS,与预测的结果一致。双亲分析表明,淡黄金花茶种子和花粉传播距离较短,平均距离分别为 $1 2 . 4 7 \mathrm { ~ m ~ }$ 和 $2 9 . 0 3 ~ \mathrm { m } , 7 2 . 2 \%$ 的花粉和 $8 1 . 0 \%$ 的种子的传播距离在 $2 0 \mathrm { ~ m ~ }$ 范围内。所以,有限的花粉和种子传播距离导致淡黄金花茶具有较强的 $\mathrm { s G S }$ 。
+
+与同属植物山茶(C.japonica）比较,Ueno 等[48]利用 SSR 研究在 $4 \ \mathrm { h m } ^ { 2 }$ 样地中发现山茶只有 $5 \mathrm { ~ m ~ }$ 范围内存在较弱的 SGS,Chung 等[19]利用同工酶研究 $1 \ \mathrm { h m } ^ { 2 }$ 样地的山茶(C.japonica)发现存在显著 SGS 的距离为21$\mathbf { m }$ ,在第一距离 $7 \mathrm { ~ m ~ }$ 范围内 $\boldsymbol { F } _ { 1 }$ 为0.02。这表明淡黄金花茶产生显著 SGS 的距离和强度均明显大于山茶。然而,淡黄金花茶的 $S p$ 与 $\mathrm { H e }$ 等[49]研究的中国西南喀斯特专有乔木掌叶木（Handeliodendron bodinieri）的 $S p$ 为0.0233的结果相似,同时与Vekman 和Hardy[36总结的6种灌木的 $S p$ （0.0259)和6种种子依赖重力传播的物（a)：两个斑块之间的基因流； $\mathbf { \Psi } ( \mathbf { b } )$ ：斑块NG2 内的基因流;(c)：斑块 NG1内的基因流种的 $S p$ (0.0281)相似。这表明淡黄金花茶在灌木类型和依赖种子传播的物种中具有中等程度的 $\mathrm { s G S }$ 。
+
+![](images/3a58a74014a4c2699b75c68722cb60c9c7bc4b82798dd2e9c5745c456b0a49f8.jpg)  
+图6 $\mathbf { 1 5 \ : h m ^ { 2 } }$ 样地淡黄金花茶的种子流和花粉流  
+Fig.6The seed and pollen flow of C. flavida in $\mathbf { 1 5 \ h m ^ { 2 } }$ plot.
+
+# 3.2小尺度范围的种群遗传分化
+
+典型的喀斯特地貌具有空间、土壤和水分等强烈的异质性,植物对喀斯特地貌特殊且丰富的小生境及其配置格局具有明显的适应性 $ { \mathrm { [ 5 0 ] } } _ { \mathrm { { o } } }$ 研究物种在喀斯特地区小尺度范围内的遗传分化有助于了解物种对喀斯特地区的适应和喀斯特专有种丰富的原因。本研究发现喀斯特地区的淡黄金花茶在 $1 5 ~ \mathrm { h m } ^ { 2 }$ 样地被洼地隔离、相距只有 $1 0 0 \mathrm { ~ m ~ }$ 的两个斑块之间产生了较小但显著的遗传分化( $' F _ { \mathrm { S T } } = \ 0 . 0 7 9 , P < 0 . 0 5 )$ ,在小尺度范围（种群距离 $< 1 ~ \mathrm { k m }$ )的4个淡黄金花茶种群产生了中等而显著的遗传分化( $F _ { \mathrm { S T } } { = } 0 . 1 1 6$ ， $P < 0 . 0 5$ )。这表明在小尺度范围喀斯特生境对淡黄金花茶的遗传分化产生显著影响。
+
+Linhart 和Grant[52]总结了小尺度范围物种的遗传分化规律,发现木本植物在 $1 0 0 { - } 3 0 0 \mathrm { ~ m }$ 产生遗传分化,生境的异质性产生遗传的异质性,基因流和自然选择对遗传分化产生强烈的影响。同时,Gao 等[53]研究表明,中国南方喀斯特地貌的苦苣苔科牛耳朵（Primulina eburmea)复合群的遗传分化同样是由于遗传漂变和较少的基因流导致。淡黄金花茶在小尺度产生遗传分化也符合这样的规律。首先,喀斯特地区生境异质性强烈和淡黄金花茶具有生境偏好性导致其分布片段化，一定程度减弱种群的基因交流。本研究发现 $1 5 ~ \mathrm { h m } ^ { 2 }$ 样地内被单个洼地隔离、相距只有 $1 0 0 \mathrm { ~ m ~ }$ 的两个淡黄金花茶斑块之间的花粉流大部分存在于斑块内,而较少存在于斑块间。这是由于两个斑块之间为洼地的小生境与四面坡地存在很大差异,洼地在雨季常有雨水浸泡,密生藤本,种群密度大[27],一方面这不利于淡黄金花茶种子的萌发和幼苗的生长,两个斑块不能形成重叠区;另一方面有效阻止了两个斑块之间的花粉传播。其次， $1 5 ~ \mathrm { h m } ^ { 2 }$ 样地两个淡黄金花茶斑块所处的坡向、光照条件和植被类型等不同,存在生境异质性,也会产生不同的自然选择压力,从而产生遗传分化。单个洼地对淡黄金花茶的基因流产生了阻碍作用，那么小尺度范围(种群距离 $< 1 ~ \mathrm { k m } ^ { \cdot }$ )的种群间包含多个峰丛和洼地，自然对基因流会产生更为显著的影响,从而导致产生更大的遗传分化。所以,喀斯特生境的异质性和淡黄金花茶生境的偏好性导致淡黄金花茶在喀斯特生境小尺度范围产生了遗传分化。
+
+# 3.3花粉流和种子流
+
+种子流和花粉流是种群最基本而最重要的生态过程,决定物种的遗传多样性、进化与适应性。喀斯特地区植物具有怎样的花粉传播模式,以及典型的喀斯特峰丛对花粉传播具有怎样的影响是值得研究的问题。目前,在植物花粉流的研究中,越来越多结果表明花粉传播距离比想象中更远[54-55]。例如许多热带乔木花粉传播距大部分达几百米至几公里[54],喀斯特地区乔木掌叶木（Handeliodendron bodinieri）的花粉传播距离可达$7 8 6 - 1 4 0 0 \ \mathrm { m } ^ { [ 4 9 ] }$ 。然而,喀斯特地区的淡黄金花茶种子和花粉传播距离较短,平均距离分别只有为 $1 2 . 4 7 \mathrm { ~ m ~ }$ 和$2 9 . 0 3 \mathrm { ~ m ~ }$ 。同时， $1 5 ~ \mathrm { h m } ^ { 2 }$ 样地的两个斑块和小尺度范围的4个淡黄金花茶种群间产生了显著遗传分化,种群间具有较少的基因流。这均表明喀斯特地貌对淡黄金花茶的基因流具有阻碍作用。这可能是在乔木层,传粉者受到的阻碍较少,更容易发现远处的花朵,但林下灌木的淡黄金花茶,其生长在物种丰富 生境异质性强烈的喀斯特地貌,传粉者不易于发现距离较远花朵,导致传粉仅限于非常小的范围。其次,淡黄金花茶具有较强的生境的偏好性,呈片段化不连续分布,使得种群之间的基因流较少。综上所述,喀斯特地貌对淡黄金花茶的基因流具有阻碍作用,可能由于强烈的喀斯特生境异质性、淡黄金花茶的灌木特性和生境偏好导致。
+
+# 4结论
+
+典型的喀斯特生境异质性是否对耐阴灌木的基因流存在影响鲜有人研究。本研究发现，与乔木具有较远的花粉传播距离不同,喀斯特地区典型耐阴灌木淡黄金花茶的花粉和种子传播距离较短,导致在小尺度范围甚至在 $1 0 0 \mathrm { ~ m ~ }$ 的距离产生了显著的遗传分化,这说明喀斯特生境异质性对淡黄金花茶的基因流产生显著的影响。同时,淡黄金花茶的灌木特性和生境的偏好性与基因流存在密切关系。
+
+致谢：广西植物研究所李先琨研究组提供 $1 5 ~ \mathrm { h m } ^ { 2 }$ 样地淡黄金花茶坐标信息，广西弄岗自然保护区和广西植物研究所何运林、李东兴、郭屹立和王斌帮助采样,特此致谢。
+
+# 参考文献（References）：
+
+[1］李先琨，何成新.西部开发与热带亚热带岩溶脆弱生态系统恢复重建.农业系统科学与综合研究,2002，18（1)：13-16.  
+[2］黄甫昭，丁涛，李先琨，郭屹立，王斌，向悟生，文淑均，李冬兴，何运林.弄岗喀斯特季节性雨林不同群丛物种多样性随海拔的变化.生态学报,2016,36(14)：4509-4517.  
+[3］朱华.中国南方石灰岩(喀斯特)生态系统及生物多样性特征.热带林业，2007，35(S1)：46-47.  
+［4］吴望辉.广西弄岗国家级自然保护区植物区系地理学研究[D].桂林：广西师范大学，2011.  
+［5］苏志尧，张宏达.广西植物区系的特有现象.热带亚热带植物学报，1994，2（1)：1-9.  
+［6］梁畴芬，梁健英，刘兰芳,莫新礼.岗植物区系考察报告.广西植物，1985,5（3)：191-209.  
+[7] 袁道先，章程.岩溶动力学的理论探索与实践.地球学报，2008，29(3)：355-365.  
+8 EppersonBKldStiloelatoalsofistroofotilatiosfdgelei9,121(2): 369-377.  
+[9]LoisellkVptialgeiucurefroialdestubtrilis（ube）aJournal of Botany，1995，82(11）：1420-1425.  
+[10]BaldaufC，iami-GuilardiM,Aguira，CoreaCE，aesdosSantosFA,deSouaA,SebbeA.Geneticdiversityestructureadaliddlspalofmtsisocace）nlaoses(5)：1073-1083.  
+[11]LeiteFAB,BrandaoRLdeOliveiraBuzatiRS，deLemos-FioJS,LovatoM.ine-scalegeneictructureoftethreateoeooDalbergianigrafromtheAtlanticForestcomparingsaplingsversusadultsandsmallfagmentversuscontinuousforest.TreGenetics&  
+[12]NgKKLohLSatialruedeversifwocaltreseitratigdintedtploidy levels.Molecular Ecology，2004，13（3）:657-669.  
+[13]agarddouratoiiCaGGdfesfdspealdultredshiestructure of regeneration at fine temporal and spatial scales. Tree Genetics & Genomes，2O1,7(1）：37-48.  
+[14]Gonzle-artiS，erberServera,artie-ZapaterJ,GlL，lRedgefdaletrucureineiie（Pinus pinaster Ait.）using nuclear microsatelite markers.Theoreticaland Applied Genetics,2002，104（8）：1290-1297.  
+[15]Jacdei.uelitiorchid Orchis purpurea.Molecular Ecology，2006,15（10）：2801-2808.  
+[16]JnesAFubbellacspatialgeticructuofthotroicaltre，Jacadoleularol:3205-3217.  
+17]JontEeedsalflueluoEcology，2007,16(4): 697-707.  
+[18]HardestyBD,DickCW,HubbellA，KremerS，BerminghamE.Spatial genetictructureofSimaroubamaraAubl.（Simaroubaceae），adioecious，animal-dispersed Neotropical tree，on Baro Colorado Island,Panama. Heredity，2005，95(4)：290-297.  
+[19]Chung M Y,Epperson B K，Chung M G. Genetic structure of age classes in Camelia japonica （Theaceae Evolution，2003,57(1):62-73.  
+[20]deAlmeidaViiraFFjardCGdeSouaAeisAF,deCara.e-scalegeeidamicsofdoanteotropicatrinethreatened Brazilian Atlantic Rainforest. Tree Genetics & Genomes，2012,8(6）：1191-1201.  
+21]gleiessisslandscape.Ecological Research,2008，23（1）： 83-90.  
+[22]EnosRA.Estimatingtherelativeratesofpollenandseed migrationamongplantpopulations.Heredity，1994,72(3）:250-259.  
+[23]Wright S.Isolation by distance. Genetics，1994,28(2）: 114-238.  
+[24]Kalisz S,Nason JD,Hanzawa MF,Tonsor S J. Spatial population g eticstructure Trilliu mgrandiflorum the roles of dispersal，mating,history，and selection.Evolution，2001,55（8）：1560-1568.  
+[25]MinTL,BartholomewB.Teaceae//WuZY，RavenPH(HongDY.FloraofChinaBejing，St.Louis:SciencePress，MisouriBotanicalGarden Press，2006:371-371.  
+[26］王斌，黄俞淞,李先琨，向悟生，丁涛，黄甫昭，陆树华，韩文衡，文淑均，何兰军.弄岗北热带喀斯特季节性雨林15ha 监测样地的树种组成与空间分布.生物多样性，2014，22(2)：141-156.  
+［27］黄俞淞.弄岗自然保护区重要森林物种资源监测样地植物物种多样性研究[D].桂林：广西师范大学，2010.  
+［28］何兰军.广西弄岗北热带喀斯特季节性雨林种群空间格局研究[D].桂林：广西师范大学，2012.  
+[29]DoyleJDleJAidisolatioprocureforallquantitisfreshleaftsue.ytocicalletin987.  
+[30]Liufu Y Q, Peng G Q,Lu Y B, $\mathrm { Y e } \ \mathrm { ~ \text q ~ { ~ Q ~ } ~ }$ ,Tang S Q. Development and characterization of 38 microsatelite markers for Camellia flvida based ontranscriptome sequencin rvation Genetics Resources，2014，6(4）：1007-1010.  
+[31]Lu YB,Liufu Y Q,Pe gGQ，Ye QQ,Tang SQ. Development of 21 microsatelie primers for Camella pingguoensis （Theaceae）using 454sequencing. Conse Genetics Resources，2014,6(3）: 791-793.  
+[32]Rousset F. genepop'007 a complete re-implementation of the genepop software for Windows and Linux.Molecular Ecology Resources，2008,8(1): 103-106.  
+[33] van Oosterhout C， Hutchinson WF，Wils D P M,Shipley P.Micro-checker software for identifying and correcting genotyping errors inmicrosatelite data. Molecular Ecology Notes，2004,4(3): 535-538.34] PeakallR，SmousePE.GENLEX6—geneticaalysisinExcelPopultiongenetcsoftwareforteachingadreseachMolecularEcolgyes，2006,6(1):288-295.  
+[35]Hardy O J,Vekemans X. SPAGeDi- a versatile computer program to analyse spatial genetic structure at the individual or population levels.Molecular Ecology Notes，2002，2(4）：618-620.  
+[36]VekemasX,aryOJsihtsfrcaletialgeeticructurealysinplantpopltiosleularo):921-935.  
+[37]Falush D，Stephens M，Pritchard JK.Inference of population structure using multilocus genotype data -dominant markers and null alleles.Molecular Ecology Resources,2007，7(4):574-578.  
+[38]EarlDA，vonHoldtBM.STUCTUREHARVESTER—awebsiteandprogramforvisualingSTRUCTUREutputandimplementingtheEvanno method. Conservation Genetics Resources，2012,4(2）：359-361.  
+[39]Evanno G,Regnaut S,Goudet J.Detecting the numberof clusters of individuals using the software STRUCTURE- 一a simulation study.MolecularEcology，2005，14（8）：2611-2620.  
+[40]KalinoskiS,aperMarshallRevisingotoputerprogaEVUoodatesgnotyingeoricreasesessinpaternity assignment.Molecular Ecology，2007,16(5）：1099-1106.  
+[41]Marshall，SlateJ，KruukLE，PembertoJStatiticalconfidencefoikeliood-basedateityferenceinaturaloulatioMolecular Ecology，1998,7(5）: 639-655.  
+[42]DowDsyVcrosateltalsfsddispsalareaeofpirk，Qusmaleo1996,5(5) :615-627.  
+[43] 朱蕾，康明.板栗和锥栗同域居群的空间遗传结构.热带亚热带植物学报，2012，20(1)：1-7.  
+[44] 陈小勇.安徽黄山青冈种群遗传结构的空间自相关分析.植物生态学报，2001，25(1)：29-34.  
+[45] Sant'AnnaCS,ebbenAMKlabundeGHF,BitecourtR,NodariRO,MantovaniA，dosRiesMS.Realizedpolenandsddspesalwithinacntiuosoafoususalaucagsifoli（ertol.）Kuntseati14(3):601-613.  
+[46］朱维岳，周桃英，钟明，卢宝荣.基于遗传多样性和空间遗传结构的野生大豆居群采样策略.复旦学报：自然科学版，2006，45（3)：321-327.  
+[47］阮咏梅，张金菊，姚小洪，叶其刚.黄梅秤锤树孤立居群的遗传多样性及其小尺度空间遗传结构.生物多样性，2012，20(4)：460-469.  
+[48]UeSaubeteiuofellLo,Japan.Molecular Ecology，2000,9（6）：647-656.  
+[49]HeRK，Wang，uagHLngditaceeispesaledfrosatialetiruureindelidedodeitree from karst forest in southwest China.Biochemical Systematics and Ecology，2012,44:295-302.  
+[50］郭柯，刘长成，董鸣.我国西南喀斯特植物生态适应性与石漠化治理.植物生态学报，2011,35（10)：991-999.  
+[51] 卢永彬.淡黄金花茶种群遗传结构研究[D].桂林：广西师范大学，2015.  
+[52] LinhartYB,GrantEolutioarysigiicanceoflocaleticfretiatioinlatsAaleviefolodsteats，99,(1):237-277.  
+[53]GaoY,AiB,KongHH,Kang M,Huang HW.Geograpicalpaternofisolationanddiversificationinarsthabitatisads acase study in thePrimulina eburnea complex. Jounal of Biogeography，2015,42(11）：2131-2144.  
+[54]DickCW，HardJ,JoFA,etitRJpatiaalesofpoledsedmedatedgeeflowinropicalainforestreeopialantBiology，2008，1(1)：20-33.  
+[55]NasonJD,HereEA,HamickJLTebrigstructureofropicalkeystoneplantresorceNture998,96）：685-687.

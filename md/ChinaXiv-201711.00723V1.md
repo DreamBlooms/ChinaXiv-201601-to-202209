@@ -1,0 +1,149 @@
+Kruppel样因子15对脂肪沉积和肌纤维类型的影响及其可能机制罗燕柳 黄志清　贾 　刚　刘光芒　赵　华 陈小玲\*（四川农业大学动物营养研究所，动物抗病营养教育部重点实验室，成都611130）
+
+摘要：Kruppel样因子15(KLF15)是一种新发现的 Kruppel 样因子家族(KLFs)成员，为一种真核锌指蛋白转录因子。KLF15 在动物体内呈现多组织表达特性，该基因过表达能促进动物脂肪沉积，且能影响肉质性状候选基因和I型肌纤维基因的表达。因此，深入研究KLF15对脂肪沉积和肌纤维类型的影响及其可能机制，将为改善动物肉品质提供新的思路。本文综述了KLF15的发现、结构特征、表达规律及其与脂肪沉积和I型肌纤维之间的关系。
+
+关键词：Kruppel样因子15；脂肪沉积；肌纤维类型
+
+中图分类号：S811.2
+
+近年来，随着生活水平的提高，人们对肉品质的要求也不断提高，而肌内脂肪（IMF)和肌纤维类型是影响肉品质的重要因素。肌内脂肪与肌肉嫩度、风味和色泽等呈正相关[]。肌纤维类型主要包括慢速氧化型（I）、快速氧化型（IIa)、快速酵解型（IIb）和中间型肌纤维（IIX或ⅡId）4种，其中I型肌纤维与肌内脂肪含量、肌肉嫩度、pH等呈正相关[2-3]。因此，提高动物肌内脂肪和I型肌纤维含量是提高肉品质的重要途径。
+
+Kruppel样因子15（Kruppel-like factor15，KLF15）也称为肾脏富集Kruppel样因子(KKLF)，是研究人员首次从人肾脏cDNA文库中获得的[4]。自发现以来，KLF15引起人们的广泛关注，并被认为可能与脂肪沉积和肌纤维类型有关[5-10]。研究发现，在3T3-L1前体脂肪细胞中过表达KLF15能显著促进脂滴的形成，同时脂肪合成相关基因如脂肪细胞营养素（PNPLA3）、过氧化物酶体增殖物激活受体γ（PPARy）、转录因子CCAAT 增强子结合蛋白α（C/EBPα）和脂联素的表达显著升高，而负显性失活突变和RNA干扰得到了相反的结果[5-9]。另外，Wang 等[10]在C2C12 细胞上过表达 KLF15 能显著增加I型肌纤维的表达，且可能是通过钙调神经磷酸酶-活化T细胞核因子（CaN-NFAT）信号通路来促进I型肌纤维的表达。本文就KLF15对脂肪沉积和肌纤维类型的影响及其可能机制作一综述。
+
+# 1 KLF15的结构特征与分布
+
+# 1.1 KLF15的发现
+
+2000 年，Uchida 等[4首次从人肾脏cDNA文库中获得 KLF15，并以人KLF15基因序列为探针获取了大鼠KLF15。序列分析显示，人和大鼠来源的KLF15的cDNA序列约 $2 . 5 \mathrm { k b }$ 编码 415个氨基酸序列，蛋白质分子量为 $4 4 \mathrm { { k u } ^ { [ 4 ] } }$ 。随后不同动物来源的 $K L F 1 5$ 基因序列（如牛、小鼠、蟾蜍和斑马鱼等）被克隆，进化树分析显示同源性达 $5 7 \% \sim 8 3 \% ^ { [ 1 1 ] }$ 。染色体定位显示猪的KLF15 定位于7号染色体上[12-13]。
+
+# 1.2 KLF15蛋白的结构
+
+研究发现，KLF15 蛋白的结构特点是位于C端的3个Cys2/His2锌指结构，锌指结构间通过Kruppel链连接，Kruppel链是高度保守的7个氨基酸 TGEKP(Y/F)X家族蛋白，前 2个锌指结构含有23个氨基酸残基，第3个锌指结构仅含有21个氨基酸残基，这一结构使KLF15蛋白可结合特定基因启动子区GC/CACCC序列调控基因的表达[14-15]。在N端,KLF15富含丝氨酸和脯氨酸，该结构可起到转录激活功能，也是典型的抑制基序[16]。
+
+# 1.3 KLF15的分布
+
+研究发现，KLF15在1日龄固始鸡和2月龄小鼠的不同组织均有表达，且肝脏中的表达量最高[16-18]。另有研究结果表明，KLF15的表达量在猪间充质干细胞和 3T3-L1前体脂肪细胞分化过程中呈显著上调[19]，在成肌细胞分化过程中也得到类似结果，且KLF15在肌管成熟后表达量达最高[20]。以上结果表明，KLF15 可能是一个具有多种生理功能的基因。
+
+# 2 KLF15对脂肪沉积的影响
+
+# 2.1 KLF15与脂肪沉积
+
+动物的脂肪沉积是在一系列基因和调控因子共同协作下完成的复杂过程[21]。研究发现，在KLF15 影响脂肪细胞分化过程中，PNPLA3、PPARy、C/EBPα 和脂联素等在这一过程中共同构成了一个复杂精确的调控系统[22-24]。研究表明，KLF15 能促进脂肪沉积，而脂滴和甘油三酯含量是反应脂肪沉积的重要指标[5.9]。Mori等[5]在3T3-L1前体脂肪细胞中过表达KLF15，通过油红O染色证实了过表达KLF15能够显著地促进脂滴的形成，而转染KLF15的负显性失活突变体得到了相反的结果。李青莹在猪前体脂肪细胞中通过siRNA干扰KLF15 后发现脂滴的形成和细胞中甘油三酯的含量显著下降。进一步的研究发现，猪血清中 KLF15 的含量与血糖水平呈极强的正相关性，并与甘油三酯也呈较强的正相关性，认为KLF15 可调控血糖水平并参与调控前体脂肪细胞分化过程，进而影响脂肪细胞中甘油三酯的合成和脂质的沉积，并可以通过检测血清中的血糖水平而间接估测KLF15 的含量而预测猪脂肪沉积的能力[9]。以上结果表明，KLF15在脂肪沉积中起着重要的作用，且可以作为分子标记用于猪的肉质改善。
+
+# 2.2 KLF15与Patatin样磷脂酶3（PNPLA3）
+
+PNPLA3是近年来发现的与能量平衡和脂肪代谢有关的非分泌型蛋白，其同时具有脂肪分解酶活性和脂肪转移酶活性，能够参与脂肪积累和脂肪动员，并与人的体重增长及肥胖等密切相关[25]。最近研究发现，KLF15 能通过影响PNPLA3 的表达进而影响脂肪积累[7]。高欣[7]将含有 KLF15 的真核表达载体 pcDNA3.1-KLF15 转染猪肾细胞系 IBRS-2细胞，采用油红O染色法检测脂肪积累变化，实时荧光定量PCR检测PNPLA3的表达变化，结果发现，过表达KLF15能促进IBRS-2细胞中脂肪积累，显著上调PNPLA3的表达量[7]。推测KLF15可以调控PNPLA3的表达，但KLF15 是否是通过调控PNPLA3的表达来促进脂肪沉积还有待进一步的研究。
+
+# 2.3 KLF15与PPARy
+
+PPARy是诱导脂肪细胞分化的主要转录调控因子，对于脂肪细胞的分化增生起决定性作用[26]。研究发现PPARy与猪肉的烹调损失、嫩度、多汁性及肌内脂肪等显著相关[27-28]。因此，PPARy可能是影响畜禽肉质和胴体性状的候选基因[29]。时序性分析显示，在猪前体脂肪细胞上PPARy的表达量在诱导分化后显著上升，与KLF15的表达呈现相似的规律[9]。为鉴定KLF15与PPARy之间的关系，李青莹采用RNA干扰抑制KLF15在猪前体脂肪细胞中的表达，通过实时荧光定量PCR 检测发现，PPARy的表达量极显著降低。在 3T3-L1前体脂肪细胞中通过KLF15缺失突变体或RNA干扰沉默KLF15表达时，得到类似的结果[5。另有研究发现，在IBRS-2细胞或 3T3-L1前体脂肪细胞过表达KLF15 能显著增加PPARy 的表达[7,23]。这些研究结果表明，KLF15 能调控 PPARy 的表达。江书忠[30]通过在线软件 Genomatix中的 MatInspector 预测，发现在 PPARy启动子上存在 KLF15 的结合位点。为进一步研究KLF15 调控PPARy的可能机制，陈知龙[13]构建了KLF15 超表达载体和4个包含不同截短片段的PPARy启动子的荧光素酶报告基因表达载体，共转染NIH/3T3细胞后发现，KLF15 对包含不同截短片段的PPARy启动子活性均有上调作用，暗示 KLF15可能作用于PPARy启动子区的多个不同位点进而调控PPARy的表达。
+
+# 2.4 KLF15与C/EBPα
+
+C/EBPα是诱导脂肪细胞分化的主要转录调控因子，对于脂肪细胞的分化增生起决定性作用[21]。大量研究表明，C/EBPα是参与脂肪代谢的与肉质性状相关的候选基因[31]。在猪前体脂肪细胞上的研究发现，C/EBPα和KLF15的表达量在诱导分化24h后迅速上升，96h后达到最大值。且C/EBPα和KLF15在3T3-L1前体脂肪细胞分化过程中也呈现一致的表达规律[8]。为进一步确定KLF15与C/EBPα之间的关系，李青莹采用RNA干扰抑制KLF15在猪前体脂肪细胞中的表达，通过实时荧光定量PCR检测发现，C/EBPα的表达量极显著下降。此外，在3T3-L1前体脂肪细胞中，C/EBPβ和C/EBPδ能一起激活KLF15，且KLF15能与C/EBPα相互作用增加PPARy的表达[5]。那么KLF15与C/EBPα之间的具体关系如何，以及KLF15与C/EBPα对脂肪细胞分化的作用机理还需进一步深入的研究。
+
+# 2.5 KLF15与脂联素
+
+脂联素是脂肪细胞分泌的一种内源性生物活性多肽或蛋白质，研究发现脂联素的表达与猪、奶牛、肉牛的肌内脂肪含量呈正相关并可能是调控肌内脂肪含量的候选基因[32-33]。龙勤强等通过检测猪骨髓间充质干细胞（MSCs）分化过程中脂联素和 KLF15 的表达变化，发现脂联素和KLF15在猪MSCs分化过程中的表达量均显著增加，表达模式相似。随后，通过在猪MSCs细胞中过表达KLF15，实时荧光定量PCR检测发现，脂联素基因的表达量极显著升高，而转染KLF15 的负显性失活突变体则极显著降低了脂联素基因的表达量。在此基础上，龙勤强等进一步构建了一系列脂联素启动子截短的荧光素酶报告基因载体，并与KLF15共同转染NIH/3T3细胞系，结果表明，构建的包含有KLF15结合位点的启动子截短载体都能受到KLF15 的激活，染色质免疫共沉淀试验（ChIP）也显示KLF15确实能结合到脂联素的启动子上。这些研究结果表明KLF15通过结合到脂联素启动子上的KLF15位点上，激活脂联素的表达。脂联素受体1（AdipoR1）是脂联素信号通路的开关，而 KLF15 能调控 AdipoR1 基因的表达[34]。朱小玥[34]通过 ChIP 和共转染试验证实，KLF15 能通过与AdipoR1 特异性结合，进而调控脂联素-脂联素受体信号途径，最终影响脂肪沉积。但有关KLF15与脂联素之间的确切关系还需进一步深入研究。
+
+# 3KLF15对肌纤维类型的影响及其机制
+
+# 3.1 KLF15与肌纤维类型
+
+肌纤维是组成骨骼肌的肌细胞，研究发现肌纤维类型及组成是调控肉质的关键因素[35]。肌肉中I型纤维含量与动物肌内脂肪含量、肉色嫩度、多汁性和风味等呈正相关，与剪切力、肌纤维密度、pH呈负相关[2.35-36]。Fei等[9]通过荧光定量PCR 检测成年鼠上 KLF15 的表达情况，发现KLF15在比目鱼肌（慢肌）中的表达量高于股外侧肌（快肌)。另外，使用相同的方法检测KLF15在C2C12细胞和人成肌细胞分化过程中的表达变化，发现KLF15的表达量随分化时间的延长不断上升，并在肌管成熟后达到最高[15.19]，且在1月龄小鼠比目鱼肌中的表达也极显著高于胫骨前肌（快肌）[15]。这些研究结果揭示，KLF15可能对C2C12 成肌细胞分化产生调节作用，并对快慢肌的转化产生一定的作用。为证明KLF15是否对肌纤维类型产生影响，Wang 等[10]在C2C12 细胞生长阶段干扰KLF15后诱导C2C12 细胞分化，发现干扰KLF15后能显著抑制诱导分化5d后细胞中慢肌纤维基因的表达，但对快肌纤维基因和总的肌球蛋白重链(MHC)的表达没有影响。进一步的研究发现，在C2C12 细胞增殖阶段超表达KLF15后诱导C2C12细胞分化，能显著上调慢肌纤维基因的表达[10,15]。这些研究结果表明，KLF15可以调节慢肌纤维基因的表达。
+
+# 3.2KLF15通过CaN-NFAT信号通路调控I型肌纤维的表达
+
+研究发现影响肌纤维类型转化的信号通路有多条，其中CaN-NFAT是目前研究较清楚的一条信号通路。NFAT是CaN信号的下游基因，能促进氧化型肌纤维的表达[37]。钙调神经磷酸酶调节子互作蛋白外显子4（MCIP1.4）是NFAT的直接靶点，其活性的高低可以直接反映CaN信号通路的活性。为探讨 KLF15 是否通过CaN-NFAT信号通路调控慢肌纤维的表达，王杰[15]在C2C12 细胞上过表达KLF15 后检测了NFAT直接靶点MCIP1.4 的表达，结果发现MCIP1.4的表达量显著提高，而干扰KLF15则得到了相反的结果。进一步的研究结果显示，过表达KLF15 能显著上调活化T细胞核因子1(NFATc1)的mRNA 和蛋白表达水平。而在过表达KLF15的C2C12成肌细胞中干扰掉NFATc1后检测慢肌纤维基因的表达，结果表明，干扰掉 NFATc1后 KLF15上调慢肌纤维基因表达的现象得到极显著的抑制[15]。进一步研究发现，在NFATc1启动子区域 $\left( - 1 5 5 4 - + 3 3 3 \right)$ ）存在9个KLF15的可能结合位点（CACCC）[15]。为证明 KLF15 是否通过调节 NFATc1 启动子的活性来调节其表达，王杰[15]通过构建NFATc1启动子的荧光素酶载体并与KLF15共转染293T细胞，发现KLF15可极显著上调NFATc1启动子的荧光活性[15]。这些研究结果揭示，KLF15是通过CaN-NFAT信号通路来调节慢肌纤维的表达，且KLF15可以直接结合NFATc1的启动子区域并且上调其启动子的活性，从而对慢肌纤维的表达产生上调作用。
+
+# 4小结
+
+KLF15在动物体内呈多组织表达特性并高表达于肝脏，在成脂细胞分化和成肌细胞分化过程中显著上调。研究表明，KLF15 能调节PNPLA3、PPARy、C/EBPα 和脂联素等基因的表达而影响脂肪沉积。另有研究表明，KLF15能调节慢肌纤维基因的表达和影响NFATc1的表达，并认为其可能是通过钙调神经磷酸酶信号通路来发挥该功能。上述研究暗示，KLF15可作为影响动物肉品质性状的潜在候选基因。因此，深入研究KLF15对动物脂肪沉积和肌纤维类型的影响及其机制，将为今后动物肉品质的改善提供新的研究思路。
+
+# 参考文献:
+
+[1]LEFAUCHEUR L.A second look into fibre typing-relation to meat quality[J].Meat Science,2010,84(2):257-270.
+
+[2] 郭佳.金华猪和长白猪肌纤维组成差异及 ERK 基因对肌纤维转化的影响研究[D].博士学位论文.杭州:浙江大学,2011:59-63.
+
+[3] REALINI C E,VENIEN A,GOU P,et al.Characterization of Longissimus thoracis,Semitendinosus and Masseter muscles and relationships with technological quality in pigs.1.Microscopic analysis of muscles[J].Meat Science,2013,94(3):408-416.
+
+[4] UCHIDA S,SASAKI S,MARUMO F.Isolation of a novel zinc finger repressor that regulates the kidney-specific CLC-K1 promoter[J].Kidney International,2001,60(2):416-421.
+
+[5] MORI T,SAKAUE H,IGUCHI H,et al.Role of krüppel-like factor 15 (KLF15） in transcriptional regulation of adipogenesis[J].The Journal of Biological Chemistry,2005,280(13):12867-12875.
+
+[6] 龙勤强,朱小玥,雷霆,等.猪MSCs细胞的成脂分化及KLF15对脂联素表达调控[C]//第十六
+
+次全国动物遗传育种学术讨论会论文集.扬州：中国畜牧兽医学会，2011:199
+
+[7] 高欣.猪 PNPLA3、4 基因的克隆及功能研究[D].硕士学位论文.武汉:华中农业大学,2009:40-42.
+
+[8] OISHI Y,MANABE I,TOBE K,et al.Kruppel-like transcription factor KLF5 is a key regulator of adipocyte differentiation[J].Cell Metabolism,2005,1(1):27-39.
+
+[9] 李青莹.KLF15对猪前体脂肪细胞分化及通过其含量预测脂肪沉积能力的研究[D].硕士学位论文.长春:吉林大学,2015:17-34.
+
+[10] WANG J,CHEN T,FENG F,et al.KLF15 regulates slow myosin heavy chain expression throughNFATc1 in C2C12myotubes[J].BiochemicalandBiophysicalResearch Communications 2014,446(4):1231-1236.
+
+[11] SUZUKI T,AIZAWA L,MATSUMURA T,et a1.Vascular implications of the Krüppel-like family of transcription factors[J].Arteriosclerosis,Thrombosis,and Vascular Biology,2005,25(6):1135-1141.
+
+[12] 杨红文,陈知龙.分歧多于保守:人、小鼠、大鼠和猪中 kIf家族进化分析[J].云南农业大学学报,2012,27(4):508-514.
+
+[13] 陈知龙.猪KLF 家族基因克隆及分子特性研究[D].博士学位论文.武汉:华中农业大学,2010:73-81.
+
+[14] KNOEDLER J R,DENVERR J.Kruppel-like factors are effectors of nuclear receptor signaling[J].General and Comparative Endocrinology,2014,2O3:49-59.
+
+[15] 王杰.KLF15 通过 NFATc1调节C2C12 细胞慢肌球蛋白表达的研究[D].硕士学位论文.杨凌：西北农林科技大学,2014:17-26.
+
+[16]李丽,朱伟,魏盟.Kruppel 样因子15-多功能转录因子的功能研究[J].医学综述,2014,20(16):2916-2918.
+
+[17]吕世杰.鸡 KLF15 基因的组织表达特性及多态性分析研究[D].硕士学位论文.郑州:河南农业大学,2014:13-19.
+
+[18]王杰,陈婷,沈清武.KLF15 基因表达特征及其腺病毒超表达载体的构建[J].西北农林科技大学学报：自然科学版,2015,43(7):35-40.
+
+[19] FEI Z L,BERA T K,LIU X F,et al.Ankrd26 gene disruption enhances adipogenesis of mouse embryonic fibroblasts[J].The Journal of Biological Chemistry,2011,286(31):27761-27768.
+
+[20] HALDAR S M,JEYARAJ D,ANAND P,et al.Kruppel-like factor 15 regulates skeletal muscle lipid flux and exercise adaptation[J].Proceedings of the National Academy of Sciences of the United States of America,2012,109(17):6739-6744.
+
+[21] BOONE C,MOUROT J,GREGOIRE F,et al.The adipose conversion process:regulation by extracellular and intracellular factors[J].Reproduction Nutrition Development,2000,40(4):325-358.
+
+[22] WANG N D,FINEGOLD M J,BRADLEY A,et al.Impaired energy homeostasis in C/EBP alpha knockout mice[J].Science,1995,269(5227):1108-1112.
+
+[23] SCHUPP M,LAZAR M A.Fingered for a fat fate[J].Cell Metabolism,2010,11(4):244-245.
+
+[24] ANTONIADE C,ANTONOPOULO A S,TOUSOULI D,et al.Adiponectin:from obesity to cardiovascular disease[J].Obesity Reviews,2009,10(3):269-279.
+
+[25]KERSHAW E E,HAMM J K,VERHAGEN L A W,et al.Adipose triglyceride lipase:function,regulation by insulin,and comparison with adiponutrin[J].Diabetes,2006,55(1):148-157.
+
+[26] SHAO D L,LAZAR M A.Peroxisome proliferator activated receptor $\boldsymbol { \gamma }$ CCAAT/enhancer-binding Protein $\mathfrak { a }$ ,and cell cycle status regulate the commitment to adipocyte differentiation[J].The Journal of Biological Chemistry,1997,272(34):21473-21478.
+
+[27] EMNETT R S,GRINDFLEK E,ROTHSCHILD M F,et a1.Peroxisome proliferator-activated receptor gamma(PPARy):a candidate gene for carcass performance and muscle eating quality in swine[J].Journal of Animal Science,200o,78:29-35.
+
+[28] 郝称莉,李齐发,乔永,等.湖羊肌肉组织H-FABP 和 PPARy基因表达水平与肌内脂肪含量的相关研究[J].中国农业科学,2008,41(11):3776-3783.
+
+[29] 陈哲,王公金,于建宁,等 $. P P A R \gamma 2$ 基因外显子1多态性对猪胴体性状的影响[J].江苏农业学报,2012,28(2):332-336.
+
+[30] 江书忠.猪脂肪沉积关键基因的筛选及锌指蛋白KLF13的功能研究[D].博士学位论文.武汉：华中农业大学,2014:17.
+
+[31] 张爱朋,王守志,王启贵,等.鸡C/EBPα 基因的多态性与生长和体组成性状的相关研究[J].农业生物技术学报,2010,18(4):746-752.
+
+[32] 田磊磊.脂联素在皖南花猪脂肪中的表达及对肌内脂肪的影响[D].硕士学位论文.合肥:安徽农业大学,2013:17-19.
+
+[33] 张辉,李鹏,闫峰,等.不同品种肉牛脂联素表达与肌内脂肪沉积的关系[J].畜牧科学,2011(1):36-39.
+
+[34]朱小玥.KLFl5 对AdipoRl 表达的转录调控研究[D].硕士学位论文.武汉:华中农业大学,2012:32-45.
+
+[35]刘培峰,冯佳炜,段晓雪,等.肌纤维类型及其转化对畜禽肉品质的影响[J].中国 料,2015(16):16-19.
+
+[36]李欣蔚,张勇.影响肉品嫩度的因素及其候选基因的研究进展[J].猪业科学,2011(7):106-108.
+
+[37] IM S H,RAO A.Activation and deactivation of gene expression by $\mathrm { C a } ^ { 2 + } /$ calcineurin-NFAT-mediated signaling[J].Molecules and Cell,2004,18(1):1-9.
+
+Effects of Kruppel-like Factor15 on Fat Deposition and Muscle Fiber Types and Its Possible
+
+# Mechanism
+
+LUO Yanliu HUANG Zhiqing JIA Gang LIU Guangmang ZHAO Hua CHEN Xiaoling\* (Key Laboratory for Animal Disease-Resistance Nutrition of China Ministry of Education, Institute ofAnimal Nutrition, Sichuan Agricultural University, Chengdu 611130, China)
+
+Abstract: Kruppel-like factor15 (KLF15) is a recently discovered member of Kruppel-like factors (KLFs) family, which serves as an important transcription factor, and is expressed in a variety of tissues. KLF15 was reported to promote fat deposition and type I muscle fiber gene expression, and some other meat quality associated genes were also found to be regulated by KLF15. Study on the effects of KLF15 gene on fat deposition and muscle fiber types and its possible molecular mechanisms can provide a new thread of thought for improving the meat quality. This review summarized the discovery,structures and distribution of KLF15 and its roles in lipid deposition and type I muscle fiber.
+
+Key words: Kruppel-like factor 15; fat deposition; muscle fiber types

@@ -1,0 +1,749 @@
+[
+    {
+        "type": "text",
+        "text": "基于OLSR协议的无人机自组网多径路由策略",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姚玉坤，张本俊†，任丽丹(重庆邮电大学 通信与信息工程学院，重庆 400065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：近年来，无人机的应用愈发普遍，多个无人机协同完成任务大幅提高了工作效率。基于此现象，众多学者投身于无人机群通信方式的研究，并且路由协议一直都是网络研究的重点。针对现有文献在研究路由协议时选择的路由度量未能结合无人机自组织网络当时的性能水平进而造成路由决策不合理的问题，提出了一种具有负载感知和网络拓扑变动感知能力的多指标多径优化链路状态路由协议(Optimized Link State Routing Protocol based on Multi-indicator and Multi-Path，MIMP-OLSR)。该协议首先考虑了无人机场景的节点移动特性和网络的生存时间，并定义了3个用于进行路由选择的指标，即节点的MAC 层阻塞度、节点的邻居变化率和节点的MPR_S(Multi-Point RelaySelector，多点中继选择节点)邻居数目；其次，结合HELLO和TC两种控制消息提出了一种指标通告机制，用于将指标信息洪泛给全网节点；最后，根据指标信息提出了一种多径路由方案。仿真结果表明，与OLSR、SETT_MPOLSR和UAV-OLSR 协议相比，所提协议MIMP-OLSR在成功率、端到端时延和吞吐量性能上均有明显提高，进而证明所提多径路由方案的合理性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：无人机自组网；OLSR；多指标多径路由；HELLO消息；TC消息 中图分类号：TN929.5 doi:10.19734/j.issn.1001-3695.2022.03.0104 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multi-path routing strategy of UAV Ad hoc network based on OLSR protocol ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yao Yukun, Zhang Benjun†, Ren Lidan (schoolof Communication&Information Engineering,Chongqing UniversityofPosts&Telecommunications,Chongqing 400065,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In recent years,the application of drones has become more and morecommon,and multiple drones can work togetherto complete tasks,which greatly improves work eficiency.Based onthis phenomenon,manyscholars devote themselves totheresearchonthecommunicationmodeofUAVswarms,androuting protocols are always the focusofnetwork research.Aimingat theproblem that therouting metricselected intheresearchofrouting protocols intheexisting literature fails to combine the performance level ofthe UAV self-organizing network atthat time andresults in unreasonable routing decisions,this paper proposedamulti-indicatorand multi-pathoptimized link state routing protocol with loadawarenes and network topology changeawareness (Optimized Link State Routing Protocol based on Mult-indicatorsand Multi-Path, MIMP-OLSR).Firstly,theproposed protocolconsideredthe mobilitycharacteristicsofnodes andthelifetimeofthenetwork inthe UAVscene,anddefined three indicatorsforrouting,namelythe node's MAC layerblockingdegree,the node's neighbor change rate and the number ofMPR_S neighbors of the node; Secondly,combined with HELLOandTCcontrol messages, this pape proposedanindicator notification mechanism toflood theindicatorinformation tothe whole nodesofthenetwork; Finaly,acordingtotheindicatorinformation,thispaperproposedamulti-pathoutingscheme.TheSimulationrsultsshow that compared with OLSR,SETT_MPOLSR and UAV-OLSR protocols,the proposed MIMP-OLSR protocol significantly improves successrate,end-to-end delayand throughput performance,which further proves the rationalityof the proposed multipath routing scheme. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: UAV Ad hoc network; OLSR; multi-indicator and multi-ath; HELLO message; TC message ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "无人机自组网(UAVAd-hoc Networks，UANETs)作为一种特殊的移动自组网[1](MobileAd-hocNetwork，MANET),除了具有MANET的无中心和自组织的特点[2]，还有着其自己的区域覆盖度低[3]、节点移动性高和对通信时延要求高的特性。由于无人机较高的灵活性和便利性，近年来UANETs受到广泛关注。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "路由协议作为自组网的核心技术，一直是该领域内的研究热点。从在数据到达前是否已经建立路由的角度出发，可以将现有的路由协议分为3类，即先验式路由协议、反映式路由协议和混合式路由协议[4]。OLSR[5\\~7]，一种先验式路由协议，凭借其低时延的优良特性，在无人机自组网中得到普遍使用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，现有文献对于无人机自组网OLSR协议的研究总体上可以分为两类，即单径路由和多径路由。多径路由协议有多条用于数据传输的路由，对数据进行分流，在显著增加网络吞吐量的同时又可以减少数据的端到端时延[8]，大幅提高网络性能。因此，对于多径OLSR协议的研究很有必要，国内外涌现出不少对此感兴趣的学者。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文献[9]提出一种能量和队列感知的多径OLSR路由协议MBQA-OLSR。该协议定义了剩余能量、空闲时间和队列长度这三个与能量及QoS(QualityofService)相关的节点度量，并基于该三个度量构造了新的链路成本函数，用于衡量节点之间的链路质量。通过计算得到了到达目的节点的最有效和最可靠的路径，并且仿真结果表明该方案极大地提高了包交付成功率和端到端时延性能。实际上，该协议未考虑网络拓扑的动态变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[10]基于网络编码可以利用无线信道的广播特性这一出发点，提出了一种基于OLSR协议的FANETs(FlyingAd-hoc Network，飞行自组网)多径路由方案NC-OLSR，该方案建立了一种基于邻居节点链路质量的混合多路径选择模型并针对每个端到端传输任务设计了一种基于网络编码的数据传输方案。实际上，该协议未考虑节点的能耗问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[11]在计算路由时考虑了能量和节点移动速度，并基于这两个因素对链路的稳定性进行排序，进而提出了基于MP-OLSRv2的多路径能量和移动感知路由方案。实际上，该协议未考虑节点的负载问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[12]基于能量水平、移动性和链路质量参数三个状态参量并使用Q-learning算法来选择最优节能中间节点和得到最优路由，保证了网络在一段时间内的稳定性、可靠性和生存期。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[13]以节点的寿命、剩余能量、节点的空闲时间、节点移速和队列长度为路由度量，提出了一种高QoS、低能耗的多径OLSR 路由协议MEQSA-OLSRv2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[14]计算了节点间链路的期望传输次数和带宽值，并以期望传输时间为路由度量，提出了一种基于期望传输时间的多径OLSR路由协议SETT_MPOLSR。实际上，该协议未考虑节点的负载和能量问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[15]针对无人机自组网的动态性和能量受限的特点，提出了一种适用于无人机自组网的路由协议，即UAV-OLSR。该协议首先根据在HELLO消息发送间隔内邻居的变化情况以及在TC消息发送间隔内的拓扑变化情况感知网络变动幅度并对这两种控制消息的发送周期进行了调整；其次，基于链路和能量对MPR机制进行了优化；最后，基于上述指标提出了一种多径路由机制。实际上该协议牺牲的控销开销较大并且缺少全网节点如何获得路由度量信息的描述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文结合上述研究并考虑到无人机的特定场景，提出一种具有负载和网络拓扑感知的无人机自组网改进多径路由协议，主要内容包括：1)定义多个反映网络当前性能的指标；2)提出一种指标通告机制，用于全网节点获得指标信息；3)基于所得指标信息，定义一个目标函数，并提出一种多径路由方案。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 无人机自组网中OLSR协议的研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OLSR协议，作为移动自组网中的一种典型路由协议，为了实现在数据到达时节点能及时找到合适路由进而减小端到端时延的目的，整体上完成了两个通信过程，即节点的入网和发现过程与基于拓扑洪泛并采用最短路径算法进而生成全网路由的过程。上述两个过程分别基于HELLO和TC两种控制息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1HELLO消息的发送和处理过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用OLSR协议的分布式网络中的每个节点，每隔2s，在本节点通信范围内广播HELLO消息，用于更新并通告本节点当前已经发现的邻居及其状态信息。HELLO消息包括3种邻居信息，即非对称邻居、对称邻居和MPR(Multi-PointRelay)邻居。本节点能收到其他节点发来的HELLO 消息便将此节点设置为非对称邻居，且能在有效时间内和同一节点完成 HELLO消息三次握手的过程，则两者互为对称邻居。本节点根据一跳和两跳信息使用MPR选择算法选出的节点记为 MPR 邻居。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2TC消息的发送和处理过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "网络中的MPR节点，每隔5s，广播一次TC消息，用于告知周围节点选择自己作为中继节点的MPR_S节点信息。其中，MPR和MPR_S节点互为对称邻居。该TC消息会被本节点的MPR节点继续洪泛，进而网络中的所有节点都能获得全网拓扑，并以跳数作为路由度量在本地执行Dijkstra算法获得到其他节点的最短路由。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3问题描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于任何一个路由协议，在执行完整的通信过程后得到的路由应当具有合理性和可靠性。针对OLSR协议的路由生成过程，主要存在以下两个问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)路由指标单一。OLSR协议在计算路由时，采用了Dijkstra算法，以跳数作为选路依据，但实际上数据交互的端到端时延并不仅仅由跳数来约束，还受无人机自组网当时的负载情况和网络变动幅度等因素影响。因此，从合理性角度出发，仅使用跳数作为单一的路由判断指标存在不足。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）可达路由单一。大多数现有文献对于OLSR协议的研究中，节点之间仅有一条可达路由。考虑到UANETs网络中的无人机节点可能有较多数据需要交互，使得这条唯一路由中的某条无线链路因为网络阻塞或节点能量不足而发生中断时，数据就会因为缺少路由而无法及时交付并最终丢弃，进而大幅度降低网络性能。因此，从可靠性角度出发，在源节点和目的节点间存在多条路由时，仅建立一条可达路由存在不足。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 改进协议MIMP-OLSR的原理和实现",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对1.3节中无人机场景下OLSR协议的路由计算过程中存在的两个问题，本文提出了一种基于多路由指标的多路径路由算法MIMP-OLSR。该算法首先结合了无人机节点移动的特性在计算路由时新增了3个路由指标，对所得路由的合理性做了优化；其次，基于多个路由指标，提出一种多路径路由方案，进而提高了路由的可靠性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1多个路由指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对无人机自组网OLSR协议路由指标单一的问题，从节点的负载能力、网络拓扑变动幅度和网络生存时间性能的角度出发，在进行路由计算时分别考虑了节点MAC层的阻塞度、节点的一跳邻居变化率和节点的 MPR_S节点数目这三个指标。上述三个指标的定义如下。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）节点MAC层的阻塞度",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文中，OLSR 协议的全部通信过程在网络层实现，为了实现可靠传输，在MAC层建立了缓冲区，并使用了确认重传机制，主要用于数据通信的源端未在设定的时间间隔内收到来自目的端对应包的ACK时，对数据包进行重传。为了定量分析节点的MAC层阻塞度，文中考虑了MAC层的缓冲区使用率。对于任意时刻，缓冲区中的包主要有7种，分别为：待发送的数据包、待转发的数据包、待发送的HELLO包、待发送的TC包、待转发的TC包、重传的数据包、ACK包，数目分别为 $\\mathrm { n u m } _ { \\mathrm { s } \\_ \\mathrm { d } }$ 、 $\\mathrm { { n u m } _ { f _ { - } d } }$ 、 $\\mathrm { { n u m } _ { \\mathrm { { s \\_ H } } } }$ 、 $\\mathrm { { n u m } _ { { s \\_ T } } }$ 、 $\\mathrm { n u m } _ { \\mathrm { f } _ { - } \\mathrm { T } }$ 、 $\\mathrm { { n u m } } _ { \\mathrm { { r e t \\_ d } } }$ 、和 $\\mathrm { \\ n u m } _ { \\mathrm { a c k } }$ 。假设缓冲区大小为L，定义节点MAC层的阻塞度C，如式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C = \\frac { \\ n u m _ { s \\_ d } + \\ n u m _ { f \\_ d } + \\ n u m _ { s \\_ H } + \\ n u m _ { s \\_ T } + \\ n u m _ { f \\_ T } + \\ n u m _ { r e t \\_ d } + \\ n u m _ { a c k } } { L } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在计算路由时，尽量选择MAC层阻塞度较小的节点，减少节点负载，进而减小数据交互的端到端时延。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2）节点的一跳邻居变化率",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一跳邻居变化率，表示节点在两个HELLO消息发送时刻之间变化的邻居数目与原邻居数目的比例，可以定量估算节点周围的网络拓扑变动幅度。OLSR协议中，节点收到TC消息后，更新拓扑表，并设置拓扑表项的有效时间，通常为3个TC消息发送间隔。因此，为了防止拓扑信息失效，选取拓扑变动幅度较小的节点作为源端到目的端的完整路由的中间节点更合适。定义一跳邻居变化率 $\\mathbf { R } _ { \\mathrm { n e i g h } }$ ，如式(2)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R _ { n e i g h } = \\frac { \\ n u m _ { \\mathrm { i n c r } } + \\ n u m _ { \\mathrm { d e c r } } } { \\ n u m _ { \\mathrm { o r i g } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathrm { \\ n u m } _ { \\mathrm { i n c r } }$ 表示两个HELLO消息发送时刻之间新增的邻居数目； $\\mathrm { \\ n u m } _ { \\mathrm { d e c r } }$ 表示减少的邻居数目； $\\mathrm { \\ n u m } _ { \\mathrm { o r i g } }$ 表示变化前的邻居数目。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）节点的MPR_S节点数目",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MPRS节点，表示选择本节点作为MPR节点的节点。节点的MPR_S节点的数目可从TC消息的表项获得，记录为$\\mathrm { \\ n u m } _ { \\mathrm { M P R } _ { - } \\mathrm { S } }$ 。当某个节点被多个MPR_S节点选择作为中继，则它需要为这些 MPR_S节点转发其 TC 消息。因此， $\\mathrm { \\ n u m } _ { \\mathrm { M P R } \\_ \\mathrm { S } }$ 越大，节点剩余能量消耗的越多，网络的生存时间越短。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2指标通告机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了将每个节点的上述指标信息通知给全网其他节点，进而用于之后的路由选择，需要借助HELLO和TC消息进行通告。根据节点是否被选为MPR节点(判断MPR_S集是否为空)，对HELLO和TC消息的发送和接收采取不同处理方式，具体如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）发送HELLO消息 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改进协议中，对OLSR协议中的HELLO消息格式作出修改，如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "的处理与OLSR协议的处理相同；否则：收到的HELLO 消息后将指标信息记录在本节点内存中(假设用探查表来存储，探查表的结构如表1所示)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/799d6aa414f1f943220624cf966c25ed80a4a5b9c6e442bc110ff1cc8c19e714.jpg",
+        "table_caption": [
+            "表1探查表表结构",
+            "Tab.1The structure of Exploration table "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Node</td><td>C</td><td>Rneigh</td><td>flag_forward</td><td>delete_time</td></tr><tr><td></td><td></td><td></td><td>从表1中可以看出，探查表有5个表项，分别为：代转</td><td rowspan=\"3\"></td></tr><tr><td></td><td>发信息节点P、P的C值、P的Rneig值、是否需要代转发的</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>标志位flagforward和表项到期删除时间deletetime。</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除上述不同外，其余处理与OLSR协议相同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）发送TC消息 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改进协议中，通过在TC消息中加入C和 $\\mathrm { \\sf R } _ { \\mathrm { n e i g h } }$ 信息并洪泛，实现指标信息的全网通告。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图2所示为修改后的TC消息包格式。其中，C和 $\\mathrm { { R } _ { \\mathrm { { n e i g h } } } }$ 为同一节点的一对指标信息。Reserved字段的值表示指标对的数目，即需要代转发指标信息的节点个数，并且Reserved $> = 1$ 。遍历HELLO消息处理后更新的探查表，并作以下判断：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "若探查表为空，则只在TC消息中添加本节点的C和$\\mathbf { R } _ { \\mathrm { n e i g h } }$ 信息，并设置Reserved=1;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "若探查表不为空，则在TC消息中添加本节点及需要代转发信息的节点(实际上也是某一个MPR S 节点)的一对指标信息，此时Reserved>1。为了将指标信息与MPR_S节点对应，设置TC 消息的MPR_S节点的序号与指标对的序号相对应，即当Reserved>1时，第一个MPR_S节点对应第一对指标信息，并在最后添加本节点的一对指标信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除上述不同外，其余处理与OLSR协议相同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4）接收TC消息 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将TC消息中的C和 $\\mathbf { R } _ { \\mathrm { n e i g h } }$ 信息与节点对应，统计每个TC消息发送方的MPRS节点数目，并将这3个指标记录在本地内存中，便于之后的路由计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除上述不同外，其余处理与OLSR协议相同。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2bd927b0fccb6b0b23b9b2d1705b02ba7b2978d4cd136cbd06ab031622a35c16.jpg",
+        "img_caption": [
+            "图1修改后的HELLO消息包格式"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上图中，Reserved字段的值为0或1。若本节点是MPR节点，则Reserved=O；否则，Reserved $^ { = 1 }$ 。若Reservec $\\scriptstyle 1 = 1$ ，本节点A 需要通过HELLO 消息将本节点的指标1和指标 2信息告知其MPR节点(之后由该MPR节点通过TC 消息将本节点的指标信息通告全网)，故新增了两个字段，用于表示MAC层阻塞度C和一跳邻居变化率 $\\mathbf { R } _ { \\mathrm { n e i g h } }$ 信息，并且Reserved $\\scriptstyle 1 = 1$ 表示该节点选择其MPR集合中的节点作为指标信息的代转发节点；若Reserved $= 0$ ，HELLO消息中不含有C和 $\\mathbf { R } _ { \\mathrm { n e i g h } }$ 字段。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除上述不同外，其余处理与OLSR协议相同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）接收HELLO消息 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "提取Reserved字段值，若Reserved $= 0$ ，则HELLO消息 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/810553d9d3fa3f31290ba40268351e73f4a5b8ab08136b3b6f9d9fc26233aece.jpg",
+        "img_caption": [
+            "Fig.1The packet format of modified HELLO message ",
+            "图2修改后的TC消息包格式",
+            "Fig.2The packet format of modified TC message "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 多路径路由机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对无人机自组网OLSR协议可达路由单一的问题，并结合上述路由指标，提出了一种多路径路由机制，即在节点之间维护多条可达路由。考虑到无人机自组网对于数据时延性能的高要求，而跳数又与时延成正相关的关系，故在多路径路由时仍以跳数作为路由的第一衡量指标。由于维护多条路由会造成计算开销增大，故改进协议MIMP-OLSR协议中源节点和目的节点之间只维护两条路由(如果存在)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于指标1和指标2，定义用于路由选择时的目标函数F，如式(3)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { F } = \\mathbf { C } \\times \\mathbf { R } _ { \\mathrm { n e i g h } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由上式可知，该目标函数具有负载发现能力和拓扑感知能力，并且不同指标对于路由选择时的正负影响和相关性符",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "合理论分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以跳数为第一指标，计算前两条最短跳数的路由方案如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）根据TC消息建立全网拓扑，并生成无向图G。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每个节点根据G执行一次Dijkstra 算法，求出源端到目的端的最短路径，即为P，并初始化变量 $\\mathbf { k } { = } 1$ ，每个节点内部存储一个路由重复集合M、拟备选路由集合NR、最终备选路由集合ZR，全部初始化为空，并将 ${ \\bf P } _ { 1 }$ 加入M、NR和ZR。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "判断是否满足 $\\mathbf { k } < 2$ ，若不满足，算法结束。否则：将当前的最短路径 $\\mathbf { P _ { k } }$ 作为研究对象，除目的节点外，依次取 $\\mathbf { P _ { k } }$ 中的每个节点作为分叉点 $\\mathrm { v _ { x } }$ (每个节点记录一个出度，并且出度为1时表明以该节点作为源节点时只有一个路由的方向)。执行步骤4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "遍历每个分叉点，对于每个分叉点：使用Dijkstra算法求出分叉点到目的点的最短路径，加上 $\\mathbf { P _ { k } }$ 中源S到分叉点 $\\mathrm { v _ { x } }$ 的路径，得到源到目的的完整路由Path。判断Path是否已经存在于路由重复集合M中，若不存在，加入拟备选路由集合NR；否则，不做额外操作。当 $\\mathrm { v _ { x } }$ 全部遍历后，统计NR中的所有路由，选取跳数最短的路径，记为 $\\mathbf { P } _ { \\mathrm { k + 1 } }$ ，将其加入最终备选路由集合ZR，作为数据传输时的备选路由方案，同时将 $\\mathbf { P _ { k } }$ 移出NR，并设置 $k { = } \\mathbf { k } { + } 1$ ，执行步骤5)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）转执行步骤3)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述求前2条最短路由的步骤用流程图表示如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)计算，求得F值，分别为F和F。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\left| { \\overline { { \\mathrm { F _ { i } } } } } - { \\overline { { \\mathrm { F _ { 2 } } } } } \\right| } { \\operatorname* { m a x } _ { \\mathrm { i } } \\left( \\left| { \\overline { { \\mathrm { F _ { i } } } } } \\right| \\right) } < 0 . 1\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3）统计两条路由中，每个节点的MPR_S节点的数目，并求和，即为Sum。若Sum值不同，则选择 Sum值最小的路由为首选路由，另一条作为备选路由，算法结束。否则选择 ZR中的第一条路由作为首选路由，另一条作为备选路由，算法结束。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述过程用流程图表示如图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "若式(4)满足，则执行步骤4)；否则，选择F值小的路由作为首选路由，另一条作为备选路由，算法结束。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "开始?  \n根据网络拓扑，生成无向图G￥  \n各节点执行D算  \n法，将最短路径记为P√初始化变量  \nk=1，M、NR和ZR为P义NKY  \n遍历P的每个节  \n点，求出其到目  \n的节点的最短路  \n径，加上源节点  \n到本节点的路  \n径，得到完整路径Path。?NM包含PathY  \n将Path加入M和NR  \n遍历完成后，取  \nNR中跳数最小路  \n由，记为Pk+。  \n将其加入ZR，并  \n将P移出NR，设置k=k+1。结束",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）选出前两条最短跳数的路由(如果存在)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e7d62bdc98b6eda601cd9f4288f5f5cb88280d1a6280cc35962dc7b8f18b52e.jpg",
+        "img_caption": [
+            "图3前两条最短路由求解过程",
+            "Fig.3The solution process of the first two shortest route基于上述内容，完整的多路径路由方案如下：",
+            "图4MIMP-OLSR协议多径路由方案 Fig.4Multipath routing Scheme ofMIMP-OLSR protocol "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）比较两条路径的跳数，若跳数相同，执行步骤3)；否则，选择跳数最小的路由作为首选路由，另一条作为备选路由，算法结束。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别计算每条路径上的所有节点的MAC层拥塞度C和一跳邻居变化率 $\\mathbf { R } _ { \\mathrm { n e i g h } }$ 的平均值，分别为和 $\\overline { { \\mathbf { R } _ { \\mathrm { \\mathrm { n e i g h } } } } }$ ，并根据式",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 仿真验证及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仿真中，以UAV-OLSR协议、SETT_MPOLSR协议和标准的OLSR协议为对比，分析了MIMP-OLSR和OLSR协议的成功率、控制开销、端到端时延和吞吐量这四个指标的性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1仿真参数设置",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于OPNET仿真软件搭建了5个仿真场景，大小为$1 2 0 0 \\mathrm { m } \\times 1 2 0 0 \\mathrm { m }$ 。仿真中的具体参数设置如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2016f6fcbf6e59e5442c2044f534b4f128ce6a548ccc46e7427d64815a4218f.jpg",
+        "table_caption": [
+            "表2仿真参数设置",
+            "Tab.2Simulation parameter settings "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Simulation parameter name</td><td>Parameter value</td></tr><tr><td>Number of nodes</td><td>30个</td></tr><tr><td>Number of business flows</td><td>4条</td></tr><tr><td>Packet size</td><td>1024 Bytes</td></tr><tr><td>Simulation time</td><td>300 s</td></tr><tr><td>Node's moving speed</td><td>10~30 m/s</td></tr><tr><td>scene size</td><td>1200m×1200m</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2路由方案可行性分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对所提路由方案时候会增加路由震荡风险的问题：路由震荡的产生原因包括两个方面，即路由表频繁更新和路由方案设计不合理。本文所提路由方案中路由表实际上是周期性更新的，每条路由表有一定的有效时间，并且节点通信半径为 $1 5 0 \\mathrm { m }$ ，移速小于 $3 0 \\mathrm { m / s }$ ，因此在短时间内出现大幅度的网络拓扑变化的可能性较小，故路由表不会频繁地更新。根据上文中完整的多径路由方案可知，当跳数、目标函数F值和MPR_S节点数目之和Sum均相同时，使用ZR中记录的第一条路由作为首选路由，以另一条作为备选路由，故可以解决因为路由方案不合理而导致的同值选路的问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对所提路由方案是否会增加网络实际部署的复杂性问题：本文2.2节提出的指标通告机制可以实现路由方案需要的指标信息的全网通告而无须其他人为地部署网络，同时该网络是分布式网络并且所提的路由方案从通信过程上可知具有不同环境的适用性，故不会增加网络实际部署的复杂性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 仿真结果分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文中，对所提改进协议MIMP-OLSR的成功率、控制开销、端到端时延和吞吐量性能的仿真结果分析如下。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1）成功率分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "成功率 $\\mathbf { P _ { s u c c s s } }$ 计算如式(5)所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P _ { s u c c e s s } = \\frac { N u m _ { r e c v } } { N u m _ { s e n d } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式(5)中， $\\mathrm { N u m } _ { \\mathrm { s c n d } }$ 表示发出的数据包数目， $\\mathrm { N u m } _ { \\mathrm { r e c v } }$ 表示正确收到的数据包数目。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5为四种协议的成功率曲线。该图表明成功率性能随节点移速的增加而呈减少趋势，这是因为节点移速增大时，拓扑变动地更频繁，造成节点在传数据时路由可能已经失效，进而收包数目 $\\mathrm { N u m } _ { \\mathrm { r e c v } }$ 减少，故成功率降低。MIMP-OLSR 协议的成功率为四者之中最高。对于SETT_MPOLSR协议：首先在计算路由时，不仅考虑了跳数，还考虑了不同链路之间的差异并提出期望传输时间ETT的概念，进而使得计算出的路由更能贴合网络的实际性能；其次，该协议从源端到目的端维护了多条可用路由，当主路由失败时，可以启用备用路由用于数据的交付，故SETT_MPOLSR协议的成功率较OLSR协议有所提高。对于UAV-OLSR协议，该协议提出了改进MPR机制和多径路由机制，同时牺牲的开销较SETTMPOLSR协议更小而用于数据传输的带宽更大，故成功率性能较SETT_MPOLSR协议更高。对于MIMP-OLSR协议：在计算路由时考虑了节点的负载能力、网络拓扑变动幅度和网络生存时间，相比UAV-OLSR协议更全面并且也维护了多条可用路由，而MIMP-OLSR协议的开销较UAV-OLSR协议更小导致实际更多的带宽被用于数据传输，故在成功率性能上较UAV-OLSR协议又有所提升。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5706a2f3d46643f31b8942070f47a1313cc5758f14a54cd045275d276f54dce0.jpg",
+        "img_caption": [
+            "图5成功率",
+            "Fig.5 Success rate "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）控制开销分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "控制开销由HELLO和TC两种控制消息产生。如图6所示，四种协议的控制开销曲线整体上都呈现平稳趋势，都在其稳定值S附近上下波动。控制开销大小取决于控制消息的频率和消息本身的大小。当节点移速增加时，一跳邻居变化的较快，可能造成节点的HELLO消息内的表项增加，并且移速较大时拓扑更新较快，可能导致TC消息丢失，进而被继续洪泛的TC消息减少，故整体上控制消息大小变动的范围不大，并且趋于稳定，但四者的稳定值S又不相同。SETT_MPOLSR协议对OLSR协议的HELLO和TC 消息的包格式做了修改：首先对HELLO中的每个邻居添加了3个",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "32bits 的字段，用于计算期待传输时间ETT；其次，对TC 消息中的每个邻居添加了1个32bits的字段用于洪泛求出的ETT信息，这使得 SETT_MPOLSR的稳定值S相比OLSR有较大地增加。UAV-OLSR 协议在HELLO 和TC 消息中添加了50bits的字段用于携带路由指标信息，故控制开销介于OLSR协议和SETT_MPOLSR协议之间。MIMP-OLSR协议虽然也修改了HELLO和TC消息的包格式，但是：首先对于HELLO消息，只有在本节点不是MPR节点时才会在HELLO消息中添加自己的一对指标信息，大小为32bits。其次，对于TC 消息，只有在某个节点A不是MPR节点时才需要A的MPR节点在发送TC消息时，将A的一对指标信息代转发。故MIMP-OLSR协议的控制开销性能介于OLSR和UAV-OLSR协议之间。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4984885b1ad0e5fd1f82e627f709514cb0c3c033f2c51cee9b48910f40cbdbd.jpg",
+        "img_caption": [
+            "图6控制开销"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3）平均端到端时延分析平均端到端时延 $\\mathrm { ~ D ~ } _ { \\mathrm { { c t c } } }$ 计算如式(6)所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D } _ { \\mathrm { e t e } } = { \\frac { \\sum \\mathrm { T } _ { \\mathrm { r e c v } } } { \\mathrm { N u m } _ { \\mathrm { r e c v } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\sum \\mathrm { T } _ { \\mathrm { r e c v } }$ 表示所有成功交付的数据包从发出到接收经历的时延。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7为四种协议的端到端时延曲线。该图表明平均端到端时延性能均随着节点移速的增加而变差。节点移速越大，网络拓扑变动地越快，无线链路断开的概率越大，故数据的时延也越大。相比于单径路由协议OLSR，多径路由协议的时延要低很多。当某条路由的某段链路的负载过大，可以使用另一条备用的路由，进而分散流量并减小因为负载过大造成的较大排队时延。UAV-OLSR协议控制开销较SETT_MPOLSR协议更小，故有更多的带宽用于传输数据，故数据时延更小。MIMP-OLSR协议在计算路由时综合考虑了节点的MAC层阻塞度、网络拓扑变化幅度和网络生存时间，并且选择了前2条最短路由，而跳数对于时延的影响也较大并且控制开销进一步减小，故端到端时延性能最好。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f71d99e6ff4662828471a9dee3f618aeaf70ae967557319394139f36e566437d.jpg",
+        "img_caption": [
+            "Fig.6Control overhead ",
+            "图7端到端时延 ",
+            "Fig.7End-to-end delay "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4）吞吐量分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "吞吐量Throughput 计算如式(7)所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T h r o u g h p u t } = \\frac { \\mathrm { N u m } _ { \\mathrm { r e c v } } \\times \\mathrm { S } _ { \\mathrm { p k } } } { \\mathrm { D } _ { \\mathrm { e t e } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathbf { S } _ { \\mathrm { p k } }$ 表示数据包的大小，仿真中为1024Bytes。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图8为四种协议的吞吐量曲线。该图表明网络的吞吐量与节点移动速度呈负相关关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1298af4d6c14796833c2c42e89cfd1a5b3cc3b4b8c2bd46154eebabbdd62ccf3.jpg",
+        "img_caption": [
+            "图8吞吐量"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "节点移速越大，端到端时延 $\\mathrm { \\Delta D _ { c t e } }$ 越大，故吞吐量越小。SETTMPOLSR协议在选取路由度量时综合考虑了跳数和无线链路的质量，因而计算出的路由较OLSR协议更加合理。SETT_MPOLSR 协议、UAV-OLSR 协议和 MIMP-OLSR 协议的控制开销逐渐减小，故实际用于传输有效数据包的带宽增大，故吞吐量性能逐渐提高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5）网络生存时间",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "网络生存时间表示一个网络可以存在的最大时间，在路由协议中通常受到节点剩余能量的限制。图9为四种协议的网络生存时间曲线。该图表明随着节点移动速度的增加，四种协议的网络生存时间性能均呈现下降趋势。SETT_MPOLSR协议由于控制消息的大小较大使得能量消耗地较快，但由于该协议基于链路质量而提出了一种多径路由方案进而对网络中的数据包进行了分流，使得网络中节点能耗差异不至于过大，故网络生存时间较OLSR协议有所增加。UAV-OLSR协议调整了控制消息的发送频率，并且控制消息大小较SETT_MPOLSR协议更小，故网络生存时间较SETTMPOLSR协议更大。MIMP-OLSR协议考虑了节点的MPRS节点数目，即考虑了节点能量水平，并且控制消息的大小比UAV-OLSR协议更小，故网络生存时间性能得到进一步提高。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/58e8a2995057ceb0b2d8839d55158b88560829bb07ea754f00d969968c5c1739.jpg",
+        "img_caption": [
+            "Fig.8Throughput ",
+            "图9网络生存时间Fig.9Network lifetime"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "现有大多数文献对于多径OLSR协议的研究中，在计算路由时考虑的路由度量通常为跳数和链路质量等，未能完全结合当时网络的各个性能情况。因此，本文提出了一种改进多径OLSR 协议(MIMP-OLSR 协议)，该协议首先综合考虑了节点负载能力、网络变动幅度和网络生存时间，并定量计算了三个路由指标；其次，结合HELLO 和 TC 两种控制消息，提出了指标通告机制，用于将指标信息通告给全网节点，同时为了满足无人机自组网对时延的高要求，在最短路由的基础上，提出了一种多径路由方案。仿真结果表明，改进协议MIMP-OLSR在成功率、端到端时延和吞吐量性能上表现良好。所提协议的指标通告机制中，对HELLO和TC消息的包格式做了修改，造成了一定的额外开销，下一步将针对控制开销问题考虑无人机自组网的优化多径路由方案。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]Wang Xudong,Mi Zhichao,Wang Hai,et al. Performance test and analysis of multi-hop network based on UAV Ad Hoc network experiment [C]// the 9th International Conference on Wireless Communications and Signal Processing.New York: Institute of Electrical and Electronics Engineers Inc,2017: 1-6.   \n[2] Ramdhany R, Coulson G. Manetkit: A Framework for MANET Routing Protocols [C]//the 6th International Conference on Distributed Computing Systems Workshops.New York: IEEE Press,2008: 261-266.   \n[3]洪堃棋．高动态低密度无人机自组织网络的 OLSR 路由协议优化 [D]．黑龙江：哈尔滨工业大学,2021.   \n[4]周舟.含网关节点的无人机自组网OLSR路由协议研究与实现 [D]. 重庆：重庆邮电大学,2021.   \n[5]Singh G,Prateek M, Kumar S.Hybrid Genetic Firefly Algorithm-based Routing Protocol for VANETs [J]. IEEE Access.2022,10 (4): 9142-9151.   \n[6]Jain R.Ant Colony inspired Energy Efcient OLSR (AC-OLSR) Routing Protocol in MANETs [J].Wireless Personal Communications.2022,6 (3): 1-14.   \n[7]Dafalla M,Mokhtar R,Saeed R.An optimized link state protocol for realtimeapplication over vehicular ad-hoc network [J].Alexandria Engineering Journal.2022,61 (6): 4541-4556.   \n[8]Tarique M, Tepe K,Adibi S.Survey of multipath routing protocols for mobile ad hoc networks [J].Journal of Network and Computer Applocations.2009,32(6): 1125-1143.   \n[9]Jabbar WA,Ismail M,Nordin R.Multi-criteria based multipath OLSR for battery and queue-aware routing in multi-hop ad hoc wireless networks [J]. Wireless Networks.2014,21(4): 1-18.   \n[10] Yin Jun,Wang Lei, Han Chen,et al.NC-OLSR: Anetwork coding based OLSR multipath transmisson scheme for FANETs [C]// the 4th International Conference on Systems and Informatics (ICSAI).New York: IEEE Press,2017: 1007-1012.   \n[11] Jabbar W,Ismail M,Nordin R.Energy and mobility conscious multipath routing scheme for route stability and load balancing in MANETs [J]. Simulation Modelling Practice and Theory,2017,77 (3): 245-271.   \n[12] Tilwari V, Dimyati K,Hindia M. Mobility,Residual Energy,and Link Quality Aware Multipath Routing in MANETs with Q-learning Algorithm [J].Appl. Sci.2019,9(8): 1582-1605.   \n[13] Jabbar W, Saad W, Ismail M. MEQSA-OLSRv2: A multicriteria-based hybrid multipath protocol for energy-efficient and QoS-aware data routing in MANET-WSN convergence scenarios ofIoT[J]. IEEE Access. 2018,6 (4): 76546-76572.   \n[14]杨路，朱显，王诗言．一种基于期望传输时间的多径OLSR 路由协 议[J].计算机工程,2018,44(11):95-100.(Yang Lu,Zhu Xian,Wang Shiyan.A Multipath OLSR Routing Protocol Based on Expected Transmission Time [J]. Computer engineering,2018,44 (11): 95-100.)   \n[15]周长家，周建国．一种基于OLSR 的无人机网络适用路由算法[J]. 计算机工程,2021,47(10):174-181.(Zhou Changjia, Zhou Jianguo.A Routing Algorithm for UAV Network Based on OLSR [J].Computer engineering,2021,47(10): 174-181.) ",
+        "page_idx": 5
+    }
+]

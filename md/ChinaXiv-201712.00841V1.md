@@ -1,0 +1,83 @@
+临床研究
+
+# 放射状角膜切开术术后白内障手术及人工晶状体度数选择
+
+李 宇」,刘娅利¹,陈豫川',李 满²,龙 璐  
+1四川大学华西第四医院眼科,四川 成都 610021;成都363医院,四川 成都 610000;华西公共卫生学院,四  
+川成都610041
+
+摘要：目的 探讨放射状角膜切开术(RK)术后白内障手术的诊治特点及人工晶状体度数选择的可靠性。方法回顾性分析我院2010年3月\~2013年6月RK术后的白内障患者8例(12只眼),术前对白内障患者的视力、角膜曲率及眼轴长度进行检查,比较患者用TOPCON-KR8800型自动角膜曲率计测量的3组角膜中央 $2 . 6 \mathrm { m m }$ 的角膜曲率值,选择较为低的K数值,选用经SRKT三元回归公式自动计算的近正视化( $- 1 . 0 0 \mathrm { D } { \sim } - 2 . 0 0 \mathrm { D } ,$ 的人工晶状体(后房型折叠人工晶状体),行白内障超声乳化摘除联合人工晶状体植入术，术后3月随访患者的视力、屈光状态。结果RK术后白内障患者行人工晶状体植入的12只眼术后视力均较术前提高：其中6只眼裸眼视力达到0.8\~1.0，另外6只眼裸眼视力达到 $0 . 4 \substack { \sim } 0 . 6 +$ ，矫正视力0.6\~1.0;术后屈光状态：6只眼接近正视 $( + 0 . 7 5 \mathrm { D } { \sim } { - 1 . 0 0 } \mathrm { D } )$ ，另外6只眼的屈光度为 $\cdot 1 . 0 0 \mathrm { D } { \sim } - 2 . 5 0 \mathrm { D }$ ,通过术后配镜，患者均能接受。结论对RK术后的白内障患者，施行白内障超声乳化吸出术 $\cdot + .$ 人工晶状体植入术是可行的;比较患者的3组自动角膜曲率计测量的角膜中央 $2 . 6 \mathrm { m m }$ 的角膜曲率值,选择较为低的K数值,使用SRKT公式计算人工晶状体的度数，预留-1.00\~-2.00D的近视较为安全，避免> $\cdot + 3 . 0 0 \mathrm { { D } }$ 的远视出现，也较为患者接受。
+
+关键词：RK术;白内障;人工晶状体度数计算
+
+# Cataract surgery and intraocular lens power calculation after radial keratotomy: analysis of 8 cases
+
+LIYu¹,IUYali',HENYuchuan,LIMan,NG $L u ^ { 3 }$ Deprtentmotfedaliclteiy Hospital,Chengdu6o,na;WestinaollegeofublicHealth,ichuaniersityengdun
+
+Abstract: Objective To explore the clinical characteristics of cataract surgery after radial keratotomy (RK)and appropriate calculationof intraocular lens (IOL)power. MethodsEight patients with cataract (12 eyes)after RK were treated in our hospital fromMarch,2010toJune,2013.Thevisualacuitykeratometricpowerandlengthoftheocularaxis wereexamied before the operation.For each patient,3 groups ofcorneal curvature values were measured using a automatic keratometer (TOPCON-KR8800)and the minimal K value was selected. Myopic or hyperopic posterior chamber IOL (-1.00 to $\mathopen { } \mathclose \bgroup \left. - 2 . 0 0 \mathrm { D } \aftergroup \egroup \right.$ were selectedbasedonautomaticcalculationswithSRK-T.PhacoemulsificationandILimplantationwerethenperformed,andthe patients were followedupforvisualacuityand refractive statuses at3months after the operation.Results Allthe12operated eyes showed improved visual acuity after theoperation.The uncorcted visualacuityreached 0.8 to1.0in6eyes and 0.4 to $0 . 6 +$ in the other 6,witha corrcted visualacuityrangingfrom 0.6to1.0.The refractive status after operations was nearly emmetropic $^ { ' + 0 . 7 5 }$ to -1.00 D) in 6 eyes and myopic in the other 6 (-1.00 to -2.50 D). Conclusions Phacoemulsification and IOL implantation isfeasible incataract patients with previousRK.Selecting the minimal Kvaluesforcentralcornealcurvature and calculation of the IOL power using the SRK T equation with a reservation of -1.00 to $- 2 . 0 0 \mathrm { ~ D ~ }$ can better ensure the safety of the procedure and avoid the occurrence of hyperopia $> + 3 . 0 0 \mathrm { D }$ ：
+
+Keywords: radial keratotomy; cataract; intraocular lens power calculatior
+
+前苏联眼科医师Fyodorov等于1974第1次将放射状角膜切开术(RK)应用于临床治疗屈光不正至今已40年，很多当年行RK的患者已发生了白内障，需要施行白内障摘除与人工晶状体植入术，随着时间推移，这类白内障患者数量还会增加。文献报道使用标准的角膜曲率测定法和人工晶状体计算公式往往产生术后 $^ { + 1 . 0 0 \sim + }$ 6.00D的远视误差[2-3],且无论采用何种公式，所选人工晶状体屈光度均趋于偏小4，因此如何选择此类患者人工晶状体的度数已成为眼科学界研究的难点和热点[5]。本文通过对我院2010年3月\~2013年6月RK术后的白内障患者8例(12只眼)进行回顾性分析，探讨此类患者手术的诊治特点和人工晶状体度数选择的可靠性。
+
+# 1资料与方法
+
+1.1一般资料
+
+自2010年3月\~2013年6月RK术后的白内障患者8例(12只眼），男3例女5例，年龄为33\~65岁，平均
+
+$5 4 . 3 { \pm } 1 0 . 2 \$ 岁，术前视力0.2\~0.5,均不能矫正。纳入研究的对象均无手术并发症。
+
+# 1.2 方法
+
+1.2.1术前准备应用TOPCON-KR8800型自动角膜曲率计常规测定3组角膜曲率，选择较为低的K数值，详见表1;天津迈达ODM-1000A型A超测量眼轴，SRKT三元回归公式自动计算，选用预留- $1 . 0 0 { \sim } { - 2 . 0 0 } \mathrm { D }$ 近视的人工晶状体(均为后房型折叠人工晶状体)，详见表2。
+
+表1RK术后的白内障患者8例(12只眼)术前角膜曲率测定值 Tab.1 Preoperative corneal curvature measurement in the 8 cataract patients (12 eyes)   
+
+<html><body><table><tr><td rowspan="2">Number</td><td rowspan="2">Eyes</td><td colspan="2">Preoperative corneal curvature measurement 1</td><td colspan="2">Preoperative corneal curvature measurement2</td><td colspan="2">Preoperative corneal curvature measurement3</td><td colspan="2">Preoperative corneal curvaturemeasurement</td></tr><tr><td>K1</td><td>K2</td><td>K1</td><td>K2</td><td>K1</td><td>K2</td><td>K1</td><td>K2</td></tr><tr><td rowspan="2">1</td><td>Right</td><td>39.50</td><td>38.75</td><td>39.25</td><td>39.00</td><td>39.75</td><td>39.25</td><td>39.25</td><td>38.75</td></tr><tr><td>Left</td><td>40.00</td><td>39.50</td><td>40.00</td><td>39.00</td><td>39.75</td><td>39.50</td><td>39.75</td><td>39.00</td></tr><tr><td>2</td><td>Right</td><td>40.50</td><td>39.75</td><td>41.00</td><td>39.75</td><td>40.75</td><td>39.25</td><td>40.50</td><td>39.25</td></tr><tr><td>3</td><td>Right</td><td>38.75</td><td>38.00</td><td>38.75</td><td>38.00</td><td>39.00</td><td>37.75</td><td>38.75</td><td>37.75</td></tr><tr><td>4</td><td>Left</td><td>38.50</td><td>40.75</td><td>38.50</td><td>40.50</td><td>38.50</td><td>40.50</td><td>38.25</td><td>40.50</td></tr><tr><td>5</td><td>Left</td><td>41.50</td><td>39.50</td><td>41.00</td><td>39.50</td><td>41.00</td><td>39.75</td><td>41.00</td><td>39.50</td></tr><tr><td rowspan="2">6</td><td>Right</td><td>40.00</td><td>39.00</td><td>39.50</td><td>39.00</td><td>40.50</td><td>38.75</td><td>39.50</td><td>38.75</td></tr><tr><td>Left</td><td>40.00</td><td>39.50</td><td>40.50</td><td>39.75</td><td>40.00</td><td>39.75</td><td>40.00</td><td>39.50</td></tr><tr><td rowspan="2">7</td><td>Right</td><td>36.75</td><td>38.00</td><td>36.50</td><td>38.25</td><td>36.50</td><td>38.00</td><td>36.50</td><td>37.75</td></tr><tr><td>Left</td><td>36.25</td><td>37.50</td><td>36.00</td><td>37.25</td><td>36.50</td><td>37.50</td><td>36.00</td><td>37.00</td></tr><tr><td rowspan="2">8</td><td>Right</td><td>36.25</td><td>37.00</td><td>36.00</td><td>36.75</td><td>36.75</td><td>37.25</td><td>36.00</td><td>36.75</td></tr><tr><td>Left</td><td>37.50</td><td>38.00</td><td>37.25</td><td>37.75</td><td>37.00</td><td>37.25</td><td>37.00</td><td>37.25</td></tr></table></body></html>
+
+表2RK术后的白内障患者8例(12只眼)人工晶状体计算数据Tab.2 IOL calculation in the 8 cataract patients (12 eyes)  
+
+<html><body><table><tr><td rowspan="2">Number</td><td rowspan="2">Eyes</td><td colspan="2">Preoperative corneal curvature measurement</td><td rowspan="2"> Th xial emmh)</td><td rowspan="2">Calculation of IOL(D)</td><td rowspan="2">Solection ef tb)</td></tr><tr><td>K1</td><td>K2</td></tr><tr><td rowspan="2">1</td><td>Right</td><td>39.25</td><td>38.75</td><td>30.85</td><td>7.5D</td><td>9.0D</td></tr><tr><td>Left</td><td>39.75</td><td>39.00</td><td>29.63</td><td>9.0D</td><td>10.5D</td></tr><tr><td>2</td><td>Right</td><td>40.50</td><td>39.25</td><td>26.84</td><td>15.0D</td><td>16.5D</td></tr><tr><td>3</td><td>Right</td><td>38.75</td><td>37.75</td><td>30.12</td><td>10.0D</td><td>11.5D</td></tr><tr><td>4</td><td>Left</td><td>38.25</td><td>40.50</td><td>24.61</td><td>21.0D</td><td>22.0D</td></tr><tr><td>5</td><td>Left</td><td>41.00</td><td>39.50</td><td>26.17</td><td>16.5D</td><td>17.5D</td></tr><tr><td rowspan="2">6</td><td>Right</td><td>39.50</td><td>38.75</td><td>26.76</td><td>16.0D</td><td>17.0D</td></tr><tr><td>Left</td><td>40.00</td><td>39.50</td><td>26.11</td><td>17.5D</td><td>19.0D</td></tr><tr><td rowspan="2">7</td><td>Right</td><td>36.50</td><td>37.75</td><td>27.12</td><td>17.5D</td><td>18.5D</td></tr><tr><td>Left</td><td>36.00</td><td>37.00</td><td>28.08</td><td>16.0D</td><td>17.0D</td></tr><tr><td rowspan="2">8</td><td>Right</td><td>36.00</td><td>36.75</td><td>31.88</td><td>8.5D</td><td>10.0D</td></tr><tr><td>Left</td><td>37.00</td><td>37.25</td><td>31.03</td><td>9.0D</td><td>10.5D</td></tr></table></body></html>
+
+1.2.2手术方法主切口均位于最陡曲率子午线的透明角膜上以减轻患者散光及避免手术源性散光；为了防止伤口裂开，主切口和辅助切口尽量避开以前的放射状角膜切口，辅助切口与主切口成大约 $9 0 ^ { \circ }$ 的夹角，连续环形撕囊，完成晶状体超声乳化摘出术后，囊袋内植入折叠型人工晶状状体，手术由同一位技术熟练的医生完成。1.2.3术后随访术后予以抗生素、激素滴眼1月。术后不同时间点随访观察患者裸眼视力、最佳矫正视力、术后屈光状态、角膜切口愈合情况、手术并发症等，随访3月至屈光度稳定时并记录那时的屈光状态。
+
+统计学分析：应用统计分析软件包SPSS16.0进行统计分析，采用配对样本 $t$ 检验。把 $P { < } 0 . 0 5$ 定为差异有统计学意义。
+
+# 2结果
+
+RK术后白内障患者8例12眼，手术后视力均较术前有明显提高， $t { = } 5 . 0 , P { < } 0 . 0 0 1$ ,差异有统计学意义。术后屈光状态稳定时(随访3月时),术后屈光度与术前预计屈光度误差范围为 $+ 1 . 7 5 \mathrm { D } { \sim } - 1 . 0 0 \mathrm { D } , t = 3 . 4 8 , P { < } 0 . 0 5 ,$ 预计屈光度比术后屈光度高，差异有统计学意义(表3)。
+
+表3RK术后的白内障患者8例(12只眼)术后3月的视力及屈光状态 Tab.3 Visual acuity and refractive outcomes of the 8cataract patients (12 eyes)at 3 months after RK   
+
+<html><body><table><tr><td>Number</td><td>Preoperative visual acuity</td><td>Postoperative visual acuity</td><td>Postoperative best corrected visual acuity</td><td>Postoperative refraction(D)</td><td>Predicted diopter(D)</td></tr><tr><td>1</td><td>Right : 0.4</td><td>Right :0.6+</td><td>Right:0.8+</td><td>-1.00</td><td>-1.50</td></tr><tr><td></td><td>Left:0.4</td><td>Left: 0.6</td><td>Left: 1.0</td><td>-1.25</td><td>-1.50</td></tr><tr><td>2</td><td>0.5</td><td>0.8</td><td>1.0</td><td>-0.50</td><td>-1.50</td></tr><tr><td>3</td><td>0.4</td><td>1.0</td><td>1.0</td><td>-0.50</td><td>-1.50</td></tr><tr><td>4</td><td>0.5</td><td>0.5</td><td>0.8</td><td>-1.50</td><td>-1.00</td></tr><tr><td>5</td><td>0.4</td><td>0.5</td><td>1.0</td><td>-1.50</td><td>-1.00</td></tr><tr><td>6</td><td>Right : 0.3</td><td>Right : 0.8</td><td>Right : 0.9</td><td>+0.75</td><td>-1.00</td></tr><tr><td></td><td>Left:0.4</td><td>Left:0.8</td><td>Left: 1.0</td><td>+0.50</td><td>-1.50</td></tr><tr><td>7</td><td>Right : 0.5</td><td>Right: 1.0</td><td>Right : 1.0</td><td>+0.50</td><td>-1.00</td></tr><tr><td></td><td>Left:0.4</td><td>Left:0.8</td><td>Left: 1.0</td><td>+0.50</td><td>-1.00</td></tr><tr><td>8</td><td>Right : 0.3</td><td>Right : 0.5+</td><td>Right : 0.8</td><td>-2.00</td><td>-1.50</td></tr><tr><td></td><td>Left:0.2</td><td>Left:0.4</td><td>Left : 0.6</td><td>-2.50D</td><td>-1.50</td></tr></table></body></html>
+
+# 3讨论
+
+接受RK术后的患者，由于周边部放射状较深的角膜切口，使周边部角膜变凸、中央光学区变平，从而达到治疗近视的目的，此类患者往往对视力要求较高，在发生白内障后也希望通过白内障手术达到理想的视力。白内障手术前人工晶状体度数的计算必须依据3个参数，即角膜曲率、眼轴长度及前房深度。角膜曲率测算的不准确是导致屈光术后白内障患者IOL计算误差的主要原因，术后角膜中央光学区变平，而仪器测得的角膜曲率值偏高，导致计算出的人工晶状体度数偏低，从而出现术后远视。部分患者甚至因屈光度的误差需要进行人工晶状体更换术[。对于RK术后患者来说，角膜前后表面均变平坦，由于放射状切口的深度与数量不尽相同,使RK术后患者IOL度数面临更大挑战，并且在白内障手术后，RK术后患者的角膜还会暂时或永久地进一步变平坦，使RK术后患者的IOL度数计算更为困难[8]。
+
+如何获得矫正的角膜曲率方法，目前归纳起来可行的有以下几种：(1)在测算时需要角膜屈光手术前数据资料的方法，包括临床病史法：Guyton 和Holladay(1989)年提出，它要求患者提供屈光手术前角膜曲率（ $\mathbf { M K } _ { \mathrm { P R E } }$ ），验光结果和手术后屈光稳定时的验光结果。但是患者白内障形成后，验光的结果已不可靠，并不能真正反映其屈光度;(2)在测算时不需要角膜屈光手术前数据资料的方法,包括硬性接触镜法：Holladay[9]和Hoffer先后提出RK、PRK、LASIK术后用此法计算角膜屈光度，它是用已知基弧度数的硬性接触镜过矫患者，用所得的验光结果来计算角膜屈光度。它要求白内障患者能够有可靠的验光结果，通过矫正获得足够的视力，但是对部分白内障患者来说视力均无法矫正，除非在白内障发生前按上述方法计算出屈光手术后角膜曲率 $\mathrm { \Delta M K _ { \mathrm { P O S T } } ) }$ ;(3)角膜后表面曲率法：术后平均角膜曲率$\ c =$ 计算出的术后角膜前表面曲率 $+$ 理论上的(或实测的)角膜后表面屈光度数(经验值为-6.2D)，运用时也缺乏个体性。Han等[1]比较了基于既往临床资料的方法、接触镜法、传统及调整的角膜曲率计法和OrbscanⅡ角膜曲率测量法，发现OrbscanⅡ角膜曲率的Sim-K与 $3 \mathrm { m m }$ 区域所得的K值二者中，较为低的K数值最接近IOL术后推算出的角膜曲率实际值。目前测量角膜曲率的仪器主要有手动角膜曲率计、自动角膜曲率计和角膜地形图3种。自动角膜曲率计选择中央 $2 . 6 ~ \mathrm { m m }$ 为目标，因为其测量范围在放射状切开口以内，不受术后“膝盖作用影响；它比手动角膜曲率计更稳定，对RK患者更为实用[。在本组患者中我们采用TOPCON-KR8800自动角膜曲率计测量患者角膜曲率，比较患者的3组角膜中央 $2 . 6 ~ \mathrm { m m }$ 的角膜曲率值，选择较为低的K数值进行计算。
+
+通过对本文所有患者的回顾性分析，我们认为：对RK术后的白内障患者，施行白内障超声乳化吸出术 $^ +$ 人工晶状体植入术是可行的，但是必须了解这类患者病情特点，掌握手术前后的检查和治疗方法，选择合适的人工晶状体度数,才能达到满意的疗效。在计算人工晶状体度数时，我们通过比较TOPCON-KR8800自动角膜曲率计测量的3组角膜中央 $2 . 6 ~ \mathrm { m m }$ 的角膜曲率值,选择较为低的K数值进行计算；然后根据眼轴选择适合的计算公式，目前关于眼轴测量与人工晶状体计算公式的准确性的相互影响已有较多研究[II-2],对于RK术后患者仍推荐应用第3代或第4代人工晶状度数计算公式（比如SRK/T,Haigis,HofferQ及Holladay2),本文所有患者均选用SRKT三元回归公式自动计算，针对长眼轴患者，汤萍等3报导SRK-T公式在计算长眼轴时有远视偏移，故我们选用了预留- $1 . 0 0 { \sim } { - 2 . 0 0 } \mathrm { D }$ 近视的人工晶状体,并告知患者术后有可能发生屈光结果不准确[14]。一般来说,对于这类近视患者，术后屈光状态为近视,也较远视更能为之接受，Chen[5亦建议选择术后目标屈光度数为近视的IOL度数，可以减少RK术后IOL度数欠矫而导致的术后远视屈光状态；并且最好在患者屈光状态(在屈光手术后)完全稳定的情况下才行人工晶状体植入术。从本文的8例(12只眼)的术后屈光状态来看，避免了 $> + 3 . 0 0 \mathrm { D }$ 的远视出现，均达到较为满意疗效。
+
+总之，通过比较TOPCON-KR8800自动角膜曲率计测量的3组角膜中央 $2 . 6 ~ \mathrm { m m }$ 的角膜曲率值，选择较为低的K数值率进行计算，和在此基础上选择最佳的人工晶状体计算公式,预计屈光度比术后屈光度稍高，预留 $\cdot 1 . 0 0 { \sim } . . 2 . 0 0 \mathrm { D }$ 的近视，本文所有患者均达到了消除RK术后人工晶状体度数选择发生较大远视误差的目的；同时，我们感到通过了解此类患者的视力需求及视物习惯，做好术前告知与沟通，也是使其术后较为满意的重要保证。本文局限于其回顾性的实验设计和样本含量较小，还需要大样本量的临床观察和前瞻性的对比实验研究来进一步完善此类患者的IOL测算的精确性，这对于提高他们术后视功能恢复的满意度具有重要的意义。
+
+# 参考文献：
+
+[1] Clement C,Walter S.Wound instability and management after cataract surgery in a patient with prior laser in situkeratom ileusis [J]. Cataract Refract Surg,2007,33(6): 1315-7.   
+[2]许红霞,王雪梅,方 林.角膜屈光术后白内障4例人工晶体度数的计 算[J].中国误诊学杂志,2006,6(13):2621-2.   
+[3]Latkany RA,Chokshi AR,Speaker MG,et al. Intraocular lens calculations after refractive surgery[J].J Cataract Refract Surg, 2005,31(3): 562-70.   
+[4]张丰菊,祁媛媛,孔德言,等.角膜屈光手术后人工晶状体屈光度数的 IOLMaster评估[J].中华眼科杂志,2010,46(11):989-93.   
+[5]Jin HY,Holzer MP,Rabsilber T,et al. Intraocular lens power calculation after laser refractive surgery Corrective algorithm for corneal power estimation[J].J Cataract Refract Surg,2O10,36(1): 87-96.   
+[6]施玉英,云 波,董 喆,等.近视屈光矫正术后人工晶体度数的评估 [J].中国实用眼科杂志,2002,20(6):438-40.   
+[7]Hoffer KJ.Intraocular lens power calculation for eyesafter refractive keratotomy[J]. JRefract Surg,1996,11(6): 490-3.   
+[8］张振平,陈子林.人工晶状体屈光手术学:角膜屈光手术后人工晶状 体度数计算[M].北京:人民卫生出版社,2009:91.   
+[9]Holladay JT. Cataract surgery in patients with previous keratorefractive Surgery (RK,PRK,and LASIK)[J].Ophthalmol Pract, 1997,15(6): 238-44.   
+[10]Han ES,Lee JH. Intraocular lens power calculation in high myopic eyes with previous radial keratotomy [J].J Refractive Surgery, 2006,22(7): 713-6.   
+[11]Terzi E, Wang L, Kohnen T.Accuracy of modern intraocular lens power calculation formulas in refractive lens exchange for high myopia and high hyperopia[J].J Cataract Refract Surg,2009,35 (7): 1181-9.   
+[12]马榕,邵 彦.眼轴对高度近视眼白内障术后屈光度误差的影响[J]. 中国实用眼科杂志,2008,26(3):235-7.   
+[13]汤 萍,潘永称.高度近视白内障患者人工晶状体屈光度数计算公式 的选择[J].中华眼科杂志,2003,39(5):290-3.   
+[14]美国眼科学会编,中华医学会眼科学分会编译,眼科临床指南:屈光术 后行白内障手术[M].北京：人民卫生出版社,2005:282.   
+[15] Chen L,Mannis MJ,Salz J,et al.Analysis of intraocular lens power calculation in post-radial keratotomy eyes［J].J Cataract Refract Surg,2003,29(1): 65-70.
+
+(编辑：孙昌朋)

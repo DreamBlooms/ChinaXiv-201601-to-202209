@@ -1,0 +1,224 @@
+# 3种滨河植物单根抗拉特性与其微观结构关系
+
+张玉'，朱海丽}²，张珂¹，李国荣1²，刘亚斌12(1.青海大学地质工程系,青海 西宁810016；2.青藏高原北缘新生代资源环境重点实验室,青海 西宁810016)
+
+摘要：为分析黄河源区高寒草甸植物单根的抗拉力学性质及其护岸的微观力学机理,以华扁穗草、线叶嵩草和金露梅3种优势滨河植物为研究对象,通过开展单根拉伸试验和石蜡切片试验,定量分析3种植物单根力学特性及其与微观结构的关系。结果表明，当根径在 $< 0 . 5 \ \mathrm { m m } \setminus 0 . 5 { \sim } 1 . 0 \ \mathrm { m m }$ 和 ${ \mathrm { | { > } 1 } } . 0 \ \mathrm { m m } \ 3 { }$ 个根径级别时，3种植物单根抗拉力和延伸率均随根径增大而增大;单根抗拉强度和杨氏模量均随根径增大而减小;根系应力-应变曲线表现为单峰曲线。灌木金露梅单根平均抗拉强度是草本植物华扁穗草和线叶嵩草的1.56倍和1.25倍,华扁穗草单根平均延伸率是线叶嵩草和金露梅的1.06倍和1.36倍。草本植物单根抗拉强度主要与其维管柱面积占比有关;而灌木金露梅单根抗拉强度主要与其周皮和次生木质部面积占比有关。综合来看,华扁穗草和线叶嵩草根系抵抗变形的能力较强,主要发挥加筋和减缓河岸变形、破坏的作用;而金露梅刚度强、抗拉强度较大,主要发挥固土护岸的作用。研究结果可为筛选黄河源区优势护岸植物提供科学依据。
+
+关键词：根径级别；单根抗拉强度；延伸率；应力-应变曲线；木质部
+
+黄河源区地处青藏高原腹地，是黄河流域重要的水源涵养区。黄河源区弯曲河流在季节性降水和水流冲刷侵蚀作用下，河湾凹岸出现不同程度地崩岸现象[2],较黄河下游[3]及长江中下游[4江岸崩塌频率、蚀退宽度和崩岸模式均表现有较大的差别[5]。主要由于黄河源区曲流河岸广泛发育着典型密丛型或根茎型根系的高寒草甸，发达的根系与土体相互缠绕形成坚固、紧密的根土层[3]。当河岸下部砂砾石受水流掏刷作用,产生悬臂式崩塌破坏时[6,河岸上部的根纤维通过将土体基质中的拉张应力传递到根纤维的抗拉强度，从而提高河岸带土体的抗拉强度和弹性[7-8],近而发挥减小河岸崩塌频率和减缓河湾横向演变速率的作用[9-1],对保护源区河流生态和促进源区脆弱生态环境的恢复具有重要意义。因此，有必要深入分析滨河高寒草甸植物根系的抗拉特性，为揭示河岸崩塌破坏机制以及筛选优势护岸植物提供参考。
+
+高寒草甸是黄河源区主要的草地类型[12],目前对其单根力学特性的研究主要集中在草地[13-14]、坡地[15-16]和取土场[17]等，而对滨河带的研究鲜见。刘国彬等18提出草、灌植物 ${ < } 1 . 0 ~ \mathrm { m m }$ 的细根能够明显增强土体的黏聚力，而灌木、乔木较粗的主根，具有类似锚杆的锚固、支撑作用[9]。由此表明，不同根径级别的植物单根在锚固、支撑及抗拉特性等方面的力学表现存在差异[20-23]。植物根系具有复杂层状结构，根系微观结构与其力学特性有密切的关系[24-25]。不同植物其根系微观结构存在差异,而同种植物在不同根径级别时，其根系微观结构也会有所不同[26-27]
+
+为了更好地解释滨河草甸植物根系对河岸的抗拉增强作用，本文选择黄河源区3种优势滨河高寒草甸植物作为研究对象，通过开展室内单根拉伸试验和微观结构试验，定量分析3种优势植物在不同径级条件下，植物单根的抗拉力学特性、微观结构特点，并从根系微观结构角度，解释不同径级根系的抗拉力学表现，进而为评价植物护岸作用和筛选优势护岸植物提供科学依据。
+
+# 1研究区概况与方法
+
+# 1.1 研究区概况
+
+兰木错曲位于青海省黄南州河南县城以南，为黄河二级支流，弯曲河型发育，地理位置位于 $3 4 ^ { \circ } 4 8 ^ { \prime } \sim$ $3 5 ^ { \circ } 0 0 ^ { \prime } \mathrm { N }$ ， $1 0 1 ^ { \circ } 5 0 ^ { \prime } { \sim } 1 0 1 ^ { \circ } 5 9 ^ { \prime } \mathrm { E }$ ，平均海拔约为3600$\mathrm { ~ m ~ }$ 。区内地貌类型为典型的青南浅切割高山区，其总地势趋势为东北高、西南低，以湖积淤泥、砂质黏土粉砂及冲洪积砂泥、砾石层、亚砂土等为主[28]该区气候类型为高原大陆性半干旱气候，属高原亚寒带湿润气候区，具有日温差大，降雨量小，冬季多风，干旱、冰雹自然灾害频繁[29]的特点。黄河源区弯曲河流凹岸多为二元结构，上部物质组成为具有黏结力的根土层，厚度 $3 0 { \sim } 6 0 ~ \mathrm { c m }$ ；下部为砂砾石层，厚度 $3 0 { \sim } 8 0 ~ \mathrm { c m }$ 。
+
+根据课题组连续多年野外植被调查表明[1.30],研究区近河岸带植被总覆盖度为 $8 0 \% { \sim } 9 5 \%$ ,其中草本植物主要以莎草科植物华扁穗草(Blysmus sinocom-pressus）线叶嵩草(Kobresiacapillifolia)和西藏嵩草(Kobresiatibetica）分布最多，盖度分别可达 $2 0 \%$ 2$2 5 \%$ 、 $1 5 \% { \sim } 2 0 \%$ ） $1 0 \% { \sim } 1 5 \%$ ;灌木以金露梅(Potentil-la fruticosa)分布最广,盖度可达 $2 0 \% { \sim } 2 5 \%$ ;其余杂毒草等的盖度约占 $1 0 \% { \sim } 1 5 \%$ 。
+
+# 1.2根系材料
+
+结合研究区滨河植被的生长特性和覆盖度，文章选取金露梅、华扁穗草和线叶嵩草作为优势植物的研究对象。2019年7月下旬，采用挖掘剖面壁法挖取植物根系，在河岸剖面直接挖取生长正常的含根土体装入花盆带回实验室，其根系长度平均约$3 0 { \sim } 4 0 ~ \mathrm { c m }$ ，回到实验室后先用清水洗净植物根系，再用干净毛巾吸去根系表面水分，挑选出表皮完好无损的优势植物根系作为试验材料。为控制根系含水量变化，将根系材料放入LRHS-150-Ⅲ型恒温箱 $4 ^ { \circ } \mathrm { C }$ 条件保藏待用。
+
+# 1.3室内单根拉伸试验
+
+试验装置为深圳瑞格尔仪器有限公司生产的RWT-6010型微机控制电子万能试验机。由于目前根系拉伸试验没有统一标准[31],本文根据河岸带滨河植被水平延伸方向根系穿过的拉伸裂缝平均宽度为 $4 2 ~ \mathrm { m m }$ ，将3种植物根系开展单根拉伸试验的标距设定为 $4 0 ~ \mathrm { m m }$ ;由于研究区河岸上部临空的根土体崩落至河床速度较慢，同时结合相关试验设定[24-25.32],将拉伸速率设定为 $5 \mathrm { m m \cdot m i n ^ { - 1 } }$ 。加载方式为单调加载，试验重复次数为70\~90次。根据不同植物种根径范围，设定线叶嵩草根径级别为 $< 0 . 5$ $\mathbf { m } \mathbf { m }$ 和 $0 . 5 { \sim } 1 . 0 ~ \mathrm { m m }$ ,华扁穗草和金露梅根径级别为$< 0 . 5 \ \mathrm { m m } \setminus 0 . 5 \sim 1 . 0 \ \mathrm { m m }$ 和 $\lvert > 1 . 0 \ \mathrm { m m }$ 。为减少根段在夹具两端断裂或滑出现象，在上、下夹具两端黏贴胶皮或缠绕海绵以增大单根与夹具间的摩擦，试验以单根在夹具中间或接近中间处拉断的为有效数据;根段在受拉过程中的极限抗拉力即为其抗拉力 $( F )$ O
+
+根据试验根段的直径、抗拉力等，可计算其抗拉强度、延伸率和杨氏模量等参数，计算公式分别为：
+
+$$
+P = \frac { 4 F } { \pi D ^ { 2 } }
+$$
+
+$$
+\varepsilon = \frac { \Delta L } { L } \times 1 0 0 \%
+$$
+
+$$
+E = \frac { \sigma _ { _ { 0 . 5 } } } { \varepsilon _ { _ { 0 . 5 } } }
+$$
+
+式中： $P$ 为单根抗拉强度( $\mathrm { \cdot \mathbf { M P a } } ,$ ； $F$ 为单根抗拉力(N); $D$ 为根段直径 $( \mathrm { m m } )$ ; $E$ 为杨氏模量( $\left| \mathrm { { M P a } } \right.$ ； $\varepsilon$ 为延伸率 $( \% ) ; \Delta L$ 为根系拉伸伸长量 $\left( { \bf m m } \right) ; L$ 为根系的拉伸间距( $\mathrm { { ( - m m } }$ ； $\sigma _ { 0 . 5 }$ 为取应力 $\sigma$ 的 $5 0 \%$ 时应力值中 $\mathrm { \cdot \mathbf { M P a } } ,$ ； $\varepsilon _ { \scriptscriptstyle { 0 . 5 } }$ 为应力 $\sigma$ 达到 $5 0 \%$ 时应力值所对应的应变值 $( \mathrm { { m m } \cdot \mathrm { { m i n } ^ { - 1 } } }$ ）。
+
+# 1.4根系石蜡切片试验及微观结构观察
+
+选取根径级别 $< 0 . 5 ~ \mathrm { m m }$ 和 $0 . 5 { \sim } 1 . 0 \ \mathrm { m m } \ 3$ 种供试根系材料，各切取3\~5个长度为 $5 { \sim } 1 0 ~ \mathrm { m m }$ 的小段根，标号后先后通过固定（甲醛-乙酸-乙醇，即FAA固定液)一洗涤—染色(番红-固绿)一脱水(酒精)一透明一浸蜡包埋一制成切片一贴标签[33],完成石蜡切片制作。其中，固定试验是将植物根系材料，切为 $5 { \sim } 1 0 ~ \mathrm { m m }$ 的小段根，标号放置FAA固定液中固定，使根系软化并保持或接近正常状态；染色试验采用番红-固绿染色，番红用 $1 \%$ 的水溶液，固绿用$0 . 5 \%$ 的酒精液（用 $9 5 \%$ 的酒精配制)；脱水试验经氢氟酸软化、酒精系列脱水。显微观察切片，并应用图像分析软件(Image-proPlus)测定3种优势植物根系的微观结构特征，包括表皮、皮层、木质部和韧皮部等结构的百分比和厚度。
+
+# 1.5数据分析方法
+
+为了分析相同根径级别条件下，3种滨河植物单根抗拉力学特性指标的差异显著性，采用多重比较方法。为了对滨河植物根系微观结构进行定量分析，首先用图像分析软件(Image-pro Plus)测定各微观结构特征，包括表皮面积、皮层面积、木质部面积和韧皮部面积占整个横切面积的比值等，采用SPSS24.0回归分析处理数据，确定单根抗拉力学特性与根系微观结构之间的关系。由于数据的单位不同，所以在处理数据前进行标准化，并采用逐步筛选对变量进行筛选。
+
+将单根抗拉力和抗拉强度设为因变量，各微观结构设为自变量 $( X _ { i } )$ ，经回归分析得到二者的回归方程，具体表达式如下：
+
+$$
+\begin{array} { c } { F = \sum a _ { n } X _ { n } } \\ { P = \sum a _ { n } X _ { n } } \end{array}
+$$
+
+式中： $F$ 为单根抗拉力 $( \mathbf { N } ) : P$ 为单根抗拉强度$( \mathrm { M P a } ) { \mathfrak { z } } { n }$ 取值 $1 { \sim } 6 , a _ { 1 } { \sim } a _ { 6 }$ 为回归系数;草本植物华扁穗草和线叶嵩草根系微观结构中， $X _ { 1 }$ 为表皮面积占比 $( \% ) , X _ { 2 }$ 为皮层面积占比 $( \% ) , X _ { 3 }$ 为中柱鞘面积占比 $( \% )$ ? $X _ { 4 }$ 为维管柱面积占比 $( \% )$ $X _ { 5 }$ 为木质部面积占比 $( \% ) , X _ { 6 }$ 为韧皮部面积占比 $( \% )$ ;小灌木金露梅根系微观结构中， $X _ { 1 }$ 为周皮面积占比 $( \% ) , X _ { 5 }$ 为次生木质部面积占比 $( \% )$ ， $X _ { 6 }$ 为次生韧皮部面积占比（204号 $( \% )$ 。
+
+# 2结果与分析
+
+# 2.13种植物根系特征
+
+通过在河岸剖面原位观察和挖掘根系试验，3种滨河植物主要生长特征均有不同，华扁穗草多分布于河湾凸岸岸边，水流相对平缓处。常在近岸边形成以该植物种占绝对优势的成片单一群落，地上部分高为 $5 { \sim } 2 0 ~ \mathrm { c m }$ （图1a)。多年生草本，有较长的匍匐根状茎，黄色，有节，节上生根，根长为20\~70cm，根径为 $0 . 5 { \sim } 3 . 5 ~ \mathrm { m m }$ 。其中根系根径 ${ < } 1 . 0 ~ \mathrm { m m }$ 的大多数为毛根，长度约 $1 . 5 { \sim } 3 . 5 ~ \mathrm { c m }$ ，根径范围 $0 . 1 2 \sim$ $0 . 3 ~ \mathrm { m m }$ ；根径 ${ > } 2 . 0 ~ \mathrm { m m }$ 以近地表的横走根茎为主，平均节长 $2 . 8 ~ \mathrm { c m }$ ;主要以 $1 . 0 { \sim } 2 . 0 \ \mathrm { m m }$ 为主。
+
+线叶嵩草多年生草本喜寒冷湿润气候，高 $1 0 \sim$ $4 0 \ \mathrm { c m }$ (图1b)。花序穗状，由多数支小穗组成。根系发达;根状茎短，秆密丛生，平均株高 $4 . 5 \mathrm { c m }$ ,粗约$1 . 0 \mathrm { m m }$ 。线叶嵩草根由上部向下呈放射状,平均根径约 $0 . 3 5 \mathrm { m m }$ 。
+
+金露梅落叶灌木，蔷薇科，委陵菜属。平均株高约 $0 . 5 \mathrm { ~ m ~ }$ ,树冠球形(图1c)。根部呈暗红色、深紫色，根系发达，长为 $2 5 { \sim } 8 0 ~ \mathrm { c m }$ ,根径为 $0 . 2 { \sim } 3 . 2 ~ \mathrm { m m }$ 。其中根系根径 ${ < } 1 . 0 \mathrm { m m }$ 的为须根,长度约为 $6 0 \ \mathrm { c m }$ 。
+
+![](images/fe8333dab9ba2d9874b816fa1a533aacc12734c5aa1ac7e09366a3e1bb6c7741.jpg)  
+图1滨河植物华扁穗草(a)线叶嵩草(b)和金露梅(c) Fig.1Riparian vegetation Blysmus sinocompressus(a), Kobresia capilifolia(b)and Potentilla fruticose(c)
+
+# 2.2滨河植物单根抗拉特性
+
+2.2.1单根抗拉力与根径的关系通过对研究区滨河植物华扁穗草、线叶嵩草和金露梅进行室内单根拉伸试验，试验结果如表1所示。其中华扁穗草、线叶嵩草和金露梅3种植物的根径范围分别为 $0 . 1 4 \sim$ $1 . 9 8 ~ \mathrm { m m } \cdot 0 . 1 0 { \sim } 0 . 9 0 ~ \mathrm { m m }$ 和 $0 . 2 2 { \sim } 1 . 8 2 ~ \mathrm { m m }$ 。统计分析可知，同一植物种在不同根径级别下其平均抗拉力、抗拉强度和延伸率等因素间差异不显著( $P >$ 0.05)；而3种植物两两之间在相同根径级别下，其单根平均抗拉强度具有显著性差异( $\left( P < 0 . 0 5 \right)$ ，以根径级别 $< 0 . 5 \ \mathrm { m m }$ 为例，金露梅根系平均抗拉强度是华扁穗草的1.26倍，华扁穗草平均抗拉强度是线叶嵩草的1.47倍;对于单根平均抗拉力和平均延伸率两个因素，金露梅与华扁穗草、线叶嵩草草本植物具有显著性差异( $\left( P < 0 . 0 5 \right)$ ,而华扁穗草、线叶嵩草草本植物间各因素水平无显著性差异( $( P { > } 0 . 0 5 )$ ，以根径级别 $0 . 5 { \sim } 1 . 0 ~ \mathrm { m m }$ 为例，金露梅的平均抗拉力分别是华扁穗草和线叶嵩草的2.37倍、1.71倍，华扁穗草和线叶嵩草的平均延伸率分别是金露梅的1.47倍、1.42倍。由表1分析得出，以根径级别 $< 0 . 5 ~ \mathrm { m m }$ 为例，3种滨河植物单根平均抗拉力依次为：金露梅$( 4 . 4 0 \mathrm { N } ) \mathrm { > }$ 线叶嵩草（2.49N） $\mid >$ 华扁穗草（1.97N）。
+
+由图2可知，不同根径级别的金露梅单根抗拉力与根径的拟合曲线均呈上凹型幂函数关系曲线。华扁穗草和线叶嵩草单根抗拉力与根径的拟合曲线几乎呈“直线型"幂函数关系曲线，随根径增大，单根抗拉力大致呈线性增加，但增长幅度略有不同。其中， $0 . 5 { \sim } 1 . 0 ~ \mathrm { m m }$ 根径级别较 $< 0 . 5 \ \mathrm { m m }$ 的单根抗拉力增长幅度大小依次为：线叶嵩草中 $( 2 2 0 . 8 8 \%$ ） $>$ 金露梅( $2 1 0 . 6 8 \%$ ） $>$ 华扁穗草（ $1 9 2 . 8 9 \%$ )。
+
+2.2.2单根抗拉强度与根径关系分析基础数据可知(表1)，华扁穗草根径范围 $0 . 1 4 { \sim } 1 . 9 8 ~ \mathrm { m m }$ ,抗拉强度范围 $2 . 0 { \sim } 1 3 8 \ \mathrm { M P a }$ ;线叶嵩草根径范围为 $0 . 1 0 \sim$
+
+表1不同根径级别的滨河植物单根拉伸试验结果  
+Tab.1 Tensile test results of single roots of riverside plants with different root diameter grade   
+
+<html><body><table><tr><td>植物名称</td><td>根径级别/mm</td><td>平均根径/mm</td><td>平均抗拉力/N</td><td>平均抗拉强度/MPa</td><td>平均延伸率/%</td></tr><tr><td>华扁穗草</td><td><0.5</td><td>0.31±0.08</td><td>1.97±1.20b</td><td>51.52±26.26b</td><td>20.97±5.56b</td></tr><tr><td></td><td>0.5~1.0</td><td>0.73±0.14</td><td>5.77±2.11b</td><td>14.59±6.83c</td><td>47.42±12.17a</td></tr><tr><td></td><td>>1.0</td><td>1.62±0.21</td><td>25.37±9.31b</td><td>13.10±6.30b</td><td>50.50±20.25a</td></tr><tr><td>线叶嵩草</td><td><0.5</td><td>0.31±0.10</td><td>2.49±1.16b</td><td>44.21±24.88c</td><td>28.24±9.13a</td></tr><tr><td></td><td>0.5~1.0</td><td>0.68±0.11</td><td>7.99±1.95b</td><td>22.20±7.11b</td><td>45.87±10.65a</td></tr><tr><td>金露梅</td><td><0.5</td><td>0.39±0.08</td><td>4.40±2.08a</td><td>64.90±16.65a</td><td>21.77±6.77b</td></tr><tr><td></td><td>0.5~1.0</td><td>0.75±0.13</td><td>13.67±5.68a</td><td>31.15±7.89a</td><td>32.30±10.07b</td></tr><tr><td></td><td>>1.0</td><td>1.35±0.25</td><td>34.19±13.78a</td><td>24.81±8.23a</td><td>34.12±16.27b</td></tr></table></body></html>
+
+注：表中小写字母在相同根径级别条件下,3种滨河植物单根抗拉力学特性指标之间的差异显著性结果(LSD法)， $P < 0 . 0 5$ 。
+
+![](images/ed22371d3137f5e28afd7058215e9d922a199b8d6c0b30e9e4a6fdf49bbaa583.jpg)  
+图2滨河植物根径与单根抗拉力关系 Fig.2 Relationship between root diameter and single root tensile resistance of riparian plants
+
+$0 . 9 0 ~ \mathrm { m m }$ ，抗拉强度范围为 $8 { \sim } 1 2 2 \ \mathrm { M P a }$ ；金露梅根径范围 $0 . 2 2 { \sim } 1 . 8 2 ~ \mathrm { m m }$ ,抗拉强度范围 $1 0 { \sim } 9 8 \ \mathrm { M P a }$ 。以根径级别 $< 0 . 5 ~ \mathrm { m m }$ 为例，3种滨河植物单根平均抗拉强度依次为：金露梅 $( 6 4 . 9 0 ~ \mathrm { M P a } ) >$ 华扁穗草(51.52$\mathrm { { M P a } ) > }$ 线叶嵩草 $\left( 4 4 . 2 1 \mathrm { { M P a } } \right)$ ，植物根径越大，其单根抗拉强度越小。当根径级别 $\lvert > 1 \ \mathrm { m m }$ 时，华扁穗草和线叶嵩草的单根抗拉强度减小趋势基本一致。通过对比根径级别 $< 0 . 5 \ \mathrm { m m }$ 和 $0 . 5 { \sim } 1 . 0 ~ \mathrm { m m }$ ,金露梅单根抗拉强度分别为华扁穗草和线叶嵩草的1.26倍、1.47倍，差异性较大。由图3单根抗拉强度与根径关系拟合曲线可知，随着根径的增大，滨河植物的单根抗拉强度均呈幂函数减小，但减小幅度不同。其中， $0 . 5 { \sim } 1 . 0 ~ \mathrm { m m }$ 根径级别较 $< 0 . 5 \ \mathrm { m m }$ 单根抗拉强度减小幅度大小依次为：华扁穗草（ $( 7 1 . 6 8 \%$ >金露梅( $5 2 . 0 0 \%$ >线叶嵩草（ $4 9 . 7 9 \%$ ）。
+
+![](images/ac4ddfca377961c295714ef218f135ddcc0a92fae16aedc7ea3f406e4ba9812b.jpg)  
+图3滨河植物根径与单根抗拉强度关系 Fig.3Relationship between root diameter and single root tensile strength of riparian plants
+
+2.2.3根系延伸率与根径的关系研究区曲流河岸上部根土层悬臂在重力作用下易产生拉张裂隙，穿插通过裂隙的植物根系，其延伸率直接体现了滨河植物根系的受力变形能力。由图4可知，滨河植物的延伸率均随根径增大而呈幂函数增大。由表1可知，在受到河岸自重产生的牵拉作用时，华扁穗草在河岸带通过变形而抵抗受力的能力最强，通过根系变形减缓河岸破坏过程。3种滨河植物延伸率总体增长趋势表现为：线叶嵩草 $>$ 华扁穗草 $>$ 金露梅，$0 . 5 { \sim } 1 . 0 \ \mathrm { m m }$ 根径级别较 $< 0 . 5 ~ \mathrm { m m }$ 的根系延伸率增长幅度大小依次为：华扁穗草( $1 2 6 . 1 3 \%$ )>线叶嵩草$( 6 2 . 4 3 \% ) >$ 金露梅 $( 4 8 . 3 7 \% )$ 。
+
+2.2.4根系杨氏模量与根径的关系随着根径的增加，滨河植物根系杨氏模量均相应降低，但减小幅度不同，即华扁穗草、线叶嵩草和金露梅根系杨氏模量降幅分别为 $8 0 . 5 6 \% , 9 1 . 1 9 \%$ 和 $6 9 . 9 3 \%$ ，说明根径较小的单根柔韧性较好，同时抵抗变形的能力也越强。当根径级别 $\lvert > 1 \ \mathrm { m m }$ 时，华扁穗草和金露梅根系的杨氏模量减小幅度较平缓。研究区优势植物中金露梅细根产生形变的能力相对要小，但其刚度较大，对抵抗河岸破坏发挥重要作用。由图5可知，根径相同时，3种优势植物中，金露梅的杨氏模量明显较大。
+
+![](images/98b00379a9c493950736726bcd0207dbb80980e23f52a19e9dd9dfcbb934bc18.jpg)  
+图4滨河植物根径与根系延伸率关系 Fig.4 Relationship between root diameter and root elongation of riparian plants
+
+2.2.5根系应力-应变曲线与根径的关系根系应力-应变曲线初始线性阶段的斜率即为单根拉伸的弹性模量，直接表征了根系抵抗弹性变形的能力；应力应变曲线中的最大应变即极限延伸率，表明植物根系受力过程中的极限变形能力；应力-应变曲线中的最大应力为抗拉强度，表明单根的固土护坡能力[34]。由图6可知,3种滨河植物的应力-应变曲线整体都为单峰曲线，没有明显的颈缩现象，尤其在根径级别较大时，应力-应变曲线表现出较为明显的非光滑特征。受力初期，金露梅根系应力-应变曲线基本呈线性，表现出明显的弹性变形阶段；受力中期阶段，金露梅根系应力-应变曲线逐渐呈非线性，即单根进入弹塑性变形阶段;受力后期，金露梅根系应力-应变曲线近似呈线性，即出现应力硬化阶段。而草本植物华扁穗草和线叶嵩草根系应力-应变曲线在整个过程中基本呈线性，表现出明显的弹性变形阶段。由图6a可知，当根径为0.4mm时，3种植物单根弹性模量依次为：金露梅 $\mathrm { : } >$ 线叶嵩草 $>$ 华扁穗草；在根径为 $0 . 8 ~ \mathrm { m m }$ 时(图6b)，金露梅的弹性模量最大，而两种莎草科植物线叶嵩草和华扁穗草弹性模量比较接近。说明3种滨河植物中，金露梅抵抗弹性变形的能力最强，线叶嵩草和华扁穗草抵抗弹性变形的能力相对较弱。通过对比分析应力-应变曲线的极限应变，可以发现，根径径级较小时，极限延伸率：华扁穗草>线叶嵩草 $\mathrm { > }$ 金露梅;但当根径径级较大时，线叶嵩草和华扁穗草的极限延伸率基本一致，均较金露梅要大，说明两种草本植物抵抗河岸张拉破坏的能力较灌木植物金露梅要强。分析应力-应变曲线的极限应力，可以发现抗拉强度：金露梅 $>$ 线叶嵩草 $>$ 华扁穗草。说明在相同的应变条件下，金露梅根系的应力相对要大，表明当河岸受力产生拉张变形破坏时，灌木金露梅能够发挥较强的固土、护岸作用。
+
+![](images/7ddc38e31ee2e892da881ecb6386f79d9e06cc296078e073bd0668ab06953f20.jpg)  
+图5滨河植物根系杨氏模量与根径关系 Fig.5Relationship between Young's modulus and root diameter of rriparian plants
+
+![](images/55ce3ae8a3d030f77d8bad7e4078cf309fc5d2219fbdea6061cf937b16a220ec.jpg)  
+Fig.6Stress-strain relationship of riverside plant roots
+
+# 2.3滨河植物根系微观结构
+
+2.3.1滨河植物微观结构基本分析观察分析不同根径级别的华扁穗草根系横切面(图7)，可知其根系表皮由2\~4层细胞组成，随着根径级别增大，表皮厚度也随之增大；根系皮层和中柱鞘的厚度也随根
+
+![](images/1afa14a72fedb482d1e29f9eb0b86f198a95df37683a274b066953cffefe5944.jpg)  
+图6滨河植物根系应力-应变关系  
+图7华扁穗草根系根径级别 $< 0 . 5 \mathrm { m m }$ 和 $0 . 5 { \sim } 1 . 0 \ \mathrm { m m }$ 横切面
+
+Fig.7Root diameter grade of Blysmus sinocompressus root cross section of ${ < } 0 . 5 ~ \mathrm { m m }$ and $0 . 5 \mathrm { - } 1 . 0 \ \mathrm { m m }$ 径级别增大而增大，皮层由多层薄壁细胞组成，排列紧密，内皮层呈明显的马蹄形，厚度约 $9 . 4 { \sim } 2 3 . 6$ $\mu \mathrm { m }$ ;中柱鞘由一层薄壁细胞组成,细胞排列整齐而紧密。根径级别为 $< 0 . 5 \ \mathrm { m m }$ 和 $0 . 5 { \sim } 1 . 0 ~ \mathrm { m m }$ 时，皮层面积分别占横切面积的 $7 9 . 9 0 \% . 8 6 . 2 3 \%$ ,随着根径级别的增大呈增大的趋势;初生木质部占整个横切面的 $0 . 6 5 \% . 0 . 4 4 \%$ ，初生韧皮部面积分别占整个横切面的 $0 . 5 0 \% . 0 . 3 3 \%$ ，气腔面积占根系整个横切面的 $3 3 . 4 7 \% . 2 4 . 6 4 \%$ ，随着根径级别的增大呈减小的趋势。
+
+观察分析不同根径级别的线叶嵩草根系横切面(图8)，可知其根系表皮由2\~7层细胞组成，随着根径级别增大，表皮、根系皮层和中柱鞘的厚度均随根径级别增大而增大。皮层由多层薄壁细胞组成，中柱鞘由一层薄壁细胞组成，排列紧密。根径级别为 $< 0 . 5 \ \mathrm { m m }$ 和 $0 . 5 { \sim } 1 . 0 ~ \mathrm { m m }$ 时，皮层面积分别占横切面积的 $7 9 . 5 4 \% . 8 3 . 5 8 \%$ ,随着根径级别的增大呈增大的趋势；初生木质部面积约占整个横切面的$0 . 8 7 \% . 0 . 3 7 \%$ ，初生韧皮部面积约占整个横切面的$0 . 6 4 \% \ 0 . 2 3 \%$ ，气腔面积占根系整个横切面的$5 2 . 5 2 \% . 4 3 . 7 8 \%$ ,随着根径级别的增大呈明显减小的趋势。线叶嵩草与华扁穗草的微观结构组成相似，不同结构的面积占比存在差异，都具有发达的通气组织，胞间隙扩大气腔，适应水的性能较好，是研究区典型的湿地优势植物种，属湿生植物。
+
+金露梅根系横切面微观结构与华扁穗草和线叶嵩草草本植物存在一定差异(图9),根径级别为$< 0 . 5 \ \mathrm { m m }$ 和 $0 . 5 { \sim } 1 . 0 ~ \mathrm { m m }$ 时，其根系周皮厚度约为
+
+![](images/4c13ee1d1cad2031f5ec6ca466a8b6d0155c060789878a16ed19c568c07f4389.jpg)  
+Fig.8Root diameter grade of Kbresia capilifolia root cross section of ${ < } 0 . 5 ~ \mathrm { m m }$ and $0 . 5 \mathrm { - } 1 . 0 \ \mathrm { m m }$
+
+![](images/78de2c36d2b0217d526c0a2e05112c5275e6fe7534fe1c3ae46b69ef7d5726ac.jpg)  
+图8线叶嵩草根系根径级别 ${ < } 0 . 5 \ \mathrm { m m }$ 和 $0 . 5 { \sim } 1 . 0 \ \mathrm { m m }$ 横切面  
+图9金露梅根系根径级别 ${ < } 0 . 5 ~ \mathrm { m m }$ 和 $0 . 5 { \sim } 1 . 0 \ \mathrm { m m }$ 横切面
+
+Fig.9Root diameter grade ofPotentilla fruticosa root cross section of ${ < } 0 . 5 ~ \mathrm { m m }$ and $0 . 5 \mathrm { - } 1 . 0 \ \mathrm { m m }$
+
+$6 1 . 0 0 { \sim } 6 2 . 3 8 ~ \mu \mathrm { m }$ ，周皮面积分别占横切面的 $2 8 . 1 3 \%$ 、$2 6 . 3 7 \%$ 。木栓层细胞壁栓质化，次生木质部面积分别占横切面的 $2 9 . 3 7 \% . 4 9 . 9 5 \%$ ,次生韧皮部面积分别占横切面的 $1 7 . 5 7 \% , 1 7 . 4 7 \%$ ,较草本植物均明显增大。周皮面积随根径级别增大而减小，次生木质部占比随根径级别的增大而增大，次生韧皮部变化不明显。木射线明显，呈辐射状延伸。
+
+2.3.2滨河植物单根抗拉特性与微观结构的关系由表2回归分析结果表明，草本植物华扁穗草和线叶嵩草、小灌木金露梅的不同根系微观结构对抗拉力学特性的影响不同。其中，华扁穗草单根抗拉力主要受表皮、皮层、维管柱的影响，且与各微观结构面积占比呈负相关关系；而木质部面积占比未出现在回归方程中，则表明木质部面积占比对华扁穗草单根抗拉力没有影响或者影响不大。线叶嵩草单根抗拉力主要受维管柱的影响，其中与中柱鞘面积占比呈负相关关系；与木质部和韧皮部面积占比呈正相关关系；而表皮和皮层面积占比未出现在回归方程中，则表明表皮和皮层面积占比对线叶嵩草单根抗拉力没有影响或者影响不大。金露梅单根抗拉力主要受周皮、次生木质部和次生韧皮部的影响，且与周皮面积占比和木质部面积占比呈正相关关系，与次生韧皮部面积占比呈负相关关系；次生木质部面积占比的决定系数较大，起决定性作用。
+
+滨河植物根系微观结构，华扁穗草和线叶嵩草中皮层面积占整个横切面积的比例最大，随着根径增大，植物胞间隙扩大成气腔，说明其表层结构对单根抗拉力的贡献不大。韧皮部面积占比虽不大，但含有韧皮纤维，其微观结构对根系的机械作用显著，影响单根抗拉力学特性。金露梅木质化程度较高，次生木质部占横切面的比例最大，在横切面上形成一个圆环。随着根径级别的增大，纤维素明显增大，从而表现为单根抗拉力随根径级别的增大而增大。
+
+由表3回归分析结果表明，植物种不同，其各微观结构及面积比也存在差异，从而其根系抗拉力学表现也不同。其中，华扁穗草和线叶嵩草单根抗拉强度主要受维管柱的影响，均与中柱鞘面积占比呈负相关关系，与韧皮部面积占比呈正相关关系；华扁穗草单根抗拉强度与木质部面积占比关系不明显，而线叶嵩草单根抗拉强度与其呈正相关关系。金露梅单根抗拉强度主要受周皮、次生木质部和次生韧皮部的影响，且与周皮面积占比和次生木质部面积占比呈正相关关系，与次生韧皮部面积占比呈负相关关系。
+
+滨河植物根系微观结构，华扁穗草和线叶嵩草的维管柱后期发育成细胞壁，薄壁组织木质化形成厚壁组织，根系机械组织加强，从而使植物单根抗拉强度增强，所以维管柱对草本植物华扁穗草和线叶嵩草根系的抗拉强度起至关重要的作用。金露梅周皮较厚，机械组织发达，因此具有较大的抗拉强度。
+
+# 3讨论
+
+通过试验测定，黄河源区3种优势滨河草甸植物根系在受拉状态下，根径与单根抗拉力呈正相关关系，与单根抗拉强度和杨氏模量均呈负相关关系，此结果与刘亚斌等[22]、周林虎等[23]、蒋坤云等[24]、李可等[25]、李思诗等[26]的研究一致。将3种高寒草甸植物单根抗拉强度值与相关文献研究中得到的草本植物单根抗拉强度值2进行对比可知(图10)，2种莎草科植物，即华扁穗草和线叶嵩草单根抗拉强度中位数分别为 $1 8 ~ \mathrm { M P a }$ 和 $2 6 ~ \mathrm { M P a }$ 与狗牙根（Cynodondactylon）香草根（Vetiveriazizanioides）宽叶雀稗(Paspalum wetsfeteini）、巨菌草(Pennisetum gigan-teum)4种禾本科植物根系的抗拉强度值大致相同，均在 $1 5 { \sim } 3 0 \ \mathrm { M P a }$ 范围内;而灌木植物金露梅单根抗拉强度中位数为 $3 2 \mathrm { M P a }$ ,最大可达 $9 0 \mathrm { M P a }$ ,较草本植物要大 $7 7 . 7 8 \% { \sim } 4 1 1 . 1 1 \%$ 。小灌木金露梅较研究区两种优势草本植物根径相对粗，单根抗拉强度更大，刚性较强，在土体中能够发挥较强地稳固河岸作用。研究区华扁穗草和线叶嵩草两种莎草科植物根系为典型的密丛根型，根系密集，其中根径 $< 1 . 0 \ \mathrm { m m }$ 的有效根占地下总根系的 $7 0 \%$ 以上[6]，可以很好地发挥根系对土体的网络、缠绕作用，增强对土体的加筋强度。由研究结果可知，这两种植物的平均延伸率分别可达 $3 9 . 7 2 \% . 3 7 . 3 9 \%$ ,较灌木金露梅高 $3 2 . 6 8 \% { \sim } 4 0 . 9 5 \%$ ,当河岸上部根土体在自重作用下产生拉张形变时，抗拉性能较弱的土体形成拉张裂缝时(图11b)，穿插、缠绕在河岸土层中的草本植物根系能够发挥较强地牵拉作用，且由于其延伸特性较强，故抵抗河岸变形能力相对较强，能够在一定程度上抑制或减缓河岸崩塌(图11a)
+
+表2滨河植物单根抗拉力与微观结构间的回归方程  
+Tab.2Regression equation between single root tensile strength and microstructure of riparian vegetation   
+表3滨河植物单根抗拉强度与微观结构间的回归方程  
+
+<html><body><table><tr><td>植物类型</td><td>回归方程</td><td>R</td><td>P</td><td>样本数/个</td></tr><tr><td>华扁穗草</td><td>F=-1.001Xt-1.115X-0.095X3-0.314X4-0.924X6-2.251E-15</td><td>0.78</td><td><0.05</td><td>20</td></tr><tr><td>线叶嵩草</td><td>F=-6.375X3-4.525X4+7.672X5+2.295X6-5.469E-16</td><td>0.86</td><td><0.05</td><td>20</td></tr><tr><td>金露梅</td><td>F=0.143Xi+0.818X5-0.28X6-2.369E-15</td><td>0.86</td><td><0.05</td><td>20</td></tr></table></body></html>
+
+Tab.3The regression equation of single root strain resistance and microstructure of riparian vegetatior   
+
+<html><body><table><tr><td>植物类型</td><td>回归方程</td><td>R</td><td>P</td><td>样本数/个</td></tr><tr><td>华扁穗草</td><td>P=-2.329X-4.833X-2.895X-2.596X4+1.924X6-9.845E-15</td><td>0.68</td><td><0.05</td><td>20</td></tr><tr><td>线叶嵩草</td><td>P=-7.813X3-4.299X4+3.968X5+8.453X6-4.193E-16</td><td>0.78</td><td><0.05</td><td>20</td></tr><tr><td>金露梅</td><td>P=0.796Xi+0.1X5-0.552X6-3.144E-15</td><td>0.76</td><td><0.05</td><td>20</td></tr></table></body></html>
+
+![](images/be53f83ec24840ae07a3487c5424ccd4222fe7cc9ce2b138668cbcfbf0cb56a5.jpg)  
+图10植物单根抗拉强度箱形图
+
+目前，对于根径与根系延伸率的关系，绝大多数学者研究指出二者呈负相关关系[31.35-36],但本文与刘亚斌等2研究发现二者呈正相关关系。分析植物根系材料可知,李长暄等[31,35-36]研究的植物根系主要为林木类根径较粗的根系 $\left( 0 { \sim } 1 0 \ \mathrm { m m } \right)$ ，而本文和刘亚斌等[22]主要就草本植物或细根( $< 2 . 0 \ \mathrm { m m } ,$ 展开研究。当植物类型及其根径范围不同时，根系微观结构的组成、占比均会发生一定变化，可能影响其根系延伸率与根径间的相关性；另一方面，结合微观结构结果分析可知，产生此差异的原因可能是随着根径级别增大，华扁穗草、线叶嵩草皮层胞间隙分别由 $3 3 . 4 7 \%$ ） $5 2 . 5 2 \%$ 变小至 $2 4 . 6 4 \% . 4 3 . 7 8 \%$ （图7),薄壁细胞增多，薄壁细胞中富含纤维素，由于纤维素含量越多，其根系延伸率越大[24.27]。本文中表现出根径范围 $< 2 . 0 \ \mathrm { m m }$ 时，随着根径增大，其延伸率呈增大的变化趋势。但在根径范围增大时，根径与根系延伸率的相关性及其与微观结构间的关系，有待深人开展试验研究。
+
+# 4结论
+
+（1）华扁穗草、线叶嵩草和金露梅3种滨河植物单根抗拉力和延伸率随根径的增大而增大;单根抗拉强度和杨氏模量随根径增大呈减小趋势。平均抗拉强度大小依次为金露梅 $\mathrm { 4 0 . 9 4 \ M P a }$ )>线叶嵩草 $\mathrm { ( 3 2 . 7 8 \ M P a ) } >$ 华扁穗草 $( 2 6 . 2 0 \mathrm { M P a } )$ ；平均延伸率大小依次为华扁穗草( $3 9 . 7 2 \%$ )>线叶嵩草( $3 7 . 3 9 \%$ >
+
+![](images/26996432b6fc0bfadfa05ec77acc8d6d54e07deef0dd18b6f0a8ffbe86b72a15.jpg)  
+Fig.10 Box diagram of tensile strength of single plant   
+图11穿过河岸上部张拉裂隙的根系发挥抗拉作用
+
+Fig.11The root system passing through the tension crack in the upper part of the river bank plays atensile role金露梅 $( 2 9 . 2 0 \%$ )。在整个受力过程中，金露梅根系应力-应变曲线经历3个阶段：弹性变形阶段、弹塑性变形阶段、应力硬化阶段；而草本植物华扁穗草和线叶嵩草根系只表现出明显的弹性变形阶段
+
+(2）3种滨河植物做为高寒草甸植物群落的优势物种，其中草本植物细根抵抗变形的能力强，根系主要发挥加筋和减缓河岸变形、破坏的作用；而金露梅刚度强、抗拉强度较大，主要发挥固土护岸的作用。草本植物根系微观结构中，皮层面积占比最大，薄壁组织占比相对较大，因此，其纤维含量越多，表现为延伸率较大；而小灌木金露梅根系微观结构中，周皮较厚，机械组织发达，次生木质部占比相对较高，故其抗拉强度较大。
+
+（3）研究区滨河植物单根抗拉力学特性与其微观结构密切相关。当根径范围 ${ < } 2 . 0 ~ \mathrm { m m }$ 时，华扁穗草根系韧皮部面积占比与抗拉力呈负相关关系，与抗拉强度呈正相关关系，而与木质部面积占比关系不明显;线叶嵩草根系木质部和韧皮部面积占比与抗拉力呈正相关关系，与抗拉强度则相反；金露梅根系次生木质部面积占比与抗拉力和抗拉强度均呈正相关关系，与次生韧皮部面积占比则相反。
+
+# 参考文献(References):
+
+[1]朱海丽,胡夏嵩,李志威,等.黄河源区弯曲河道草甸型植被分 布特征[J].泥沙研究,2018,43(1):58-65.[Zhu Haili,Hu Xiasong,Li Zhiwei,et al. Zoning characteristics and processes in convex bank of meander reaches with riparian meadow in source region of the Yellow River[J]. Journal of Sediment Research,2018, 43(1): 58-65.]   
+[2] 李志威,郭楠,胡旭跃,等.基于BSTEM模型的黄河源草甸型弯 曲河流崩岸过程模拟[J].应用基础与工程科学学报，2019,27 (3):509-519.[Li Zhiwei,Guo Nan,Hu Xuyue,etal. Modeling of bank failure processes of meadow-type meandering river using BSTEM in the Yellow River Source[J]. Journal of Basic Science and Engineering,2019,27(3): 509-519.]   
+[3] 赵业安,周文浩.“黄河下游河道演变基本规律"研究综述[J].人 民黄河,1996,48(9):4-9,61.[Zhao Ye'an,Zhou Wenhao. Summary on“Basic development law and prospect prediction of the lower reaches of the Yellow River"[J].Yellow River,1996,48(9): 4-9, 61.]   
+[4]党祥.二元结构河岸崩塌机理试验研究[D].武汉：长江科学院, 2012.[Dang Xiang. Experimental Study on Mechanism of TwoLayer-Composition Bank Failure[D].Wuhan: Changjiang River Scientific Research Institute,2012.]   
+[5] Zhu Haili,Hu Xiasong,Li Zhiwei,et al. The influences of riparian vegetation on bank failures of a small meadow-type meandering river[J]. Water,2018,10,692-706.   
+[6]朱海丽,李志威,胡夏嵩,等.黄河源草甸型弯曲河流的悬臂式 崩岸机制[J].水利学报,2015,46(7):836-843.[Zhu Haili,Li Zhiwei,Hu Xiasong,et al.Cantilever bank failure mechanism of meadow meandering river in the Yellow River source region[J]. Journal of Hydraulic Engineering,2015,46(7): 836-843.]   
+[7]Simon A,Collson AJC. Quantifying the mechanical and hydrologic effects of riparian vegetation on streambank stability[J].Earth Surface Processs Landforms,2002,27(5): 527-46.   
+[8]Pollen N,Simon A.Hydrologic and hydraulic effects of riparian root networks on streambank stability: Is mechanical root-reinforcement the whole story?[J].Geomorphology,2010,116: 353-362.   
+[9]杨树青,白玉川,徐海珏,等.河岸植被覆盖影响下的河流演化 动力特性分析[J].水利学报,2018,49(8): 995-1006.[Yang Shuqing,Bai Yuchuan, Xu Haijue,et al. Dynamic characteristics of river evolution under the influence of riparian vegetation cover [J]. Journal of Hydraulic Engineering,2018,49(8): 995-1006.]   
+[10] Cheng Liu,An Liu, Yun He,etal.Migration rate of river bends estimated by tree ring analysis for a meandering river in the source region of the Yellow River[J].International Journal of Sediment Research,2021,36(5): 593-601.   
+[11]Guo Anyu,Li Zhiwei, Yang Hanyuan,et al. Effcts of riparian plant roots on the unconsolidated bank stability of meandering channels in the Tarim River,China[J]. Geomorphology,2020,351: 106958.   
+[12] 王文颖,王启基.高寒嵩草草甸退化生态系统植物群落结构特 征及物种多样性分析[J].草业学报,2001,12(3):8-14.[Wang Wenying,Wang Qiji. The structure and plant species diversity of the degraded ecosystems in alpine Kobresia meadow[J].Acta Prataculturae Sinica,2001,12(3): 8-14.]   
+[13]申紫雁,刘昌义,胡夏嵩,等.黄河源区高寒草地不同深度土壤 理化性质与抗剪强度关系研究[J].干旱区研究,2021,38(2): 392-401. [Shen Ziyan,Liu Changyi,Hu Xiasong,et al.Relationship between the physical and chemical properties of soil and the shear strength of root-soil composite system at different soil depths in alpine grassand inthe source region of the Yellow River[J]. Arid Zone research,2021,38(2): 392-401.]   
+[14] 付江涛,李晓康,刘昌义,等.基于统计理论的青海河南县地区 5种草本植物根系力学特性研究[J].工程地质学报，2020,28 (6): 1147-1159.[Fu Jiangtao,Li Xiaokang,Liu Changyi, et al.Statistics of mechanical characteristics of five herb roots standing in henan region of Qinghai Province[J]. Journal of Engineering Geology,2020,28(6): 1147-1159.]   
+[15] 刘亚斌,胡夏嵩,余冬梅,等.西宁盆地黄土区草本和灌木组合 根系分布特征及其增强土体抗剪强度效应[J].工程地质学报, 2020,28(3): 471-481.[Liu Yabin,Hu Xiasong,Yu Dongmei,et al.Distribution characteristics of combined herb and shrub roots in loess area of Xining Basin and their effect on enhancing soil shear strength[J]. Journal of Engineering Geology,2020,28(3): 471-481.]   
+[16] 许桐,刘昌义,胡夏嵩,等.西宁盆地黄土区荷载条件下植被护 坡力学效应[J].农业工程学报,2021,37(2):142-151.[Xu Tong, Liu Changyi,Hu Xiasong,et al. Mechanical effects of vegetation protection on slope under loading conditions in loess area of Xining Basin[J]. Transactions of the Chinese Society of Agricultural Engineering,2021,37(2): 142-151.]   
+[17] 周林虎,杨幼清,胡夏嵩,等.高寒矿区排土场边坡土体抗剪强 度特征[J].煤田地质与勘探,2019,47(6):144-152.[Zhou Linhu,Yang Youqing,Hu Xiasong,et al. Shear strength characteristics of slope soil in dumping site in high-cold mining area[J]. Coal Geology & Exploration, 2019,47(6): 144-152.]   
+[18]刘国彬.黄土高原草地土壤抗冲性及其机理研究[J].土壤侵蚀 与水土保持学报,1998,12(1): 94-97.[Liu Guobin.Study on soil anti-scourabilityandits mechanismof grassandontheloss plateau[J].Journal of Soil Erosion and Soil and Water Conservation, 1998, 12(1): 94-97.]   
+[19]Alexia Stokes,Claire Atger,Anthony G B,et al. Desirable plant root traits for protecting natural and engineered slopes against landslides[J].Plant and Soil,2009,324(1-2):1-30.   
+[20]Capilleri PP,Motta E,Raciti E.Experimental study on native plant root tensile strength for slope stabilization[J]. Procedia Engineering,2016,158(4): 116-121.   
+[21]Perti F,Giadrossich F.Root reinforcement and slope bioengineering stabilization by Spanish Broom (Spartium junceum L.)[J]. Hydrology and Earth System Sciences Discussions,2009,6(3): 1713- 1726.   
+[22] 刘亚斌,李淑霞,余冬梅,等.西宁盆地黄土区典型草本植物单 根抗拉力学特性试验[J].农业工程学报,2018,34(15):157- 166.[Liu Yabin,Li Shuxia,Yu Dongmei, etal. Experiment on single root tensile mechanical properties of typical herb species in loessregion of Xining Basin[J].Transactions of the Chinese Society of Agricultural Engineering,2018,34(15): 157-166.]   
+[23] 周林虎,徐志闻,周国英,等.青藏铁路沱沱河段取土场草本根 系力学强度试验[J].干旱区研究,2020,37(5):1353-1361. [Zhou Linhu, Xu Zhiwen, Zhou Guoying,et al. Mechanics strength test of herb roots on the earth-borrowed area of Tuotuohe River section of the Qinghai-Tibet railway[J].Arid Zone Research,2020, 37(5): 1353-1361.]   
+[24] 蒋坤云,陈丽华,盖小刚,等.华北护坡阔叶树种根系抗拉性能 与其微观结构的关系[J].农业工程学报,2013,29(3):115-123. [Jiang Kunyun,Chen Lihua,Gai Xiaogang,et al. Relationship between tensile propertiesand microstructures of three different broadleaf tree roots in North China[J]. Transactions of the Chinese Society of Agricultural Engineering,2013,29(3): 115-123.]   
+[25] 李可,朱海丽,宋路,等.青藏高原两种典型植物根系抗拉特性 与其微观结构的关系[J].水土保持研究,2018,25(2):240-249. [Li Ke,Zhu Haili,Song Lu,et al. Relationship between tensile properties and microstructure of two typical plants in the QinghaiTibet Plateau[J]. Research of Soil and Water Conservation,2018, 25(2): 240-249.]   
+[26] 李思诗.崩岗侵蚀劣地草本植物根系抗拉特性与微观性质的关 系[D].福州:福建农林大学,2018.[Li Sishi.Relationship between Tensile Properties and Microscopic Properties of Herbaceous Plant Roots in Benggang Area[D]. Fuzhou: Fujian Agriculture and Forestry University,2018.]   
+[27] 朱海丽,胡夏嵩,毛小青,等.护坡植物根系力学特性与其解剖 结构关系[J].农业工程学报,2009,25(5): 40-46.[Zhu Haili,Hu Xiasong,Mao Xiaoqing,et al. Relationship between mechanical characteristics and anatomical structures of slope protection root plants[J]. Transactions of the Chinese Society of Agricultural Engineering,2009,25(5): 40-46.]   
+[28] 青海省地质矿产局.青海省区域地质[M].北京:地质出版社, 1991.[Qinghai Bureau of Geology and Mineral Resources.Regional Geologyof Qinghai Province[M].Beijing: Geological Publishing House, 1991.]   
+[29] 张玉珍,张小月,杨举.基于信息方法的青海省各地区气温及降 水数据变点分析与建模[C]//2015年(第四届)全国大学生统计 建模大赛论文.中国统计教育学会,2015:22.[Zhang Yuzhen, Zhang Xiaoyue,Yang Ju. Analysis and modeling of temperature and precipitation data in Qinghai Province based on information method[C]//2O15 (4th) National University Student Statistical Modeling Contest Paper.China Statistical Education Association, 2015: 22. ]   
+[30] 谢彬山,朱海丽,李本锋,等.黄河源区曲流滨河植被空间分布 与土壤特性关系研究[J].泥沙研究,2019,44(6):66-73.[Xie Binshan,Zhu Haili, Li Benfeng,et al. Study on relationship between vegetation spatial distribution and soil properties in the meander riverside in source region of the Yellow River[J]. Journal of Sediment Research,2019,44(6): 66-73.]   
+[31] 李长暄.林木单根力学性能及其影响因素研究[D].北京:北京 林业大学,2O14.[Li Changxuan.The Research of Mechanical Property of Tree Root and its Influence Factors[D].Beijing:Beijing Forestry University,2014.]   
+[32]徐文秀,杨玲,鲍玉海,等.大型水库消落带2种典型耐淹草本 植物单根抗拉力学特性[J].水土保持研究,2020,27(5):259- 264,272.[Xu Wenxiu, Yang Ling,Bao Yuhai,et al. Tensile mechanical properties single root of two typical flood-tolerant Herbs in the reservoir riparian zone[J]. Research of Soil and Water Conservation,2020,27(5): 259-264,272.]   
+[33] 李正理.植物制片技术[M].北京:北京科学出版社,1987.[Li Zhengli.Plant Production Technology[M]. Beijing: Beijing Science Press, 1987.]   
+[34] 王萍花,陈丽华,冀晓东,等.4种常见乔木单根拉伸的应力应 变曲线分析[J].水土保持通报,2012,32(3):17-22.[Wang Pinghua,Chen Lihua,Ji Xiaodong,et al.Analysis of stress strain curves for four common arbor root systems[J]. Bulletin of Soil and Water Conservation,2012,32(3): 17-22.]   
+[35] 张超波.林木根系固土护坡力学基础研究[D].北京:北京林业
+
+# Relationship between tensile properties and microstructure of single root of three riparian plants
+
+ZHANG Yu'，ZHU Haili'²，ZHANG $\mathsf { K e } ^ { 1 }$ ，LI Guorong¹²，LIU Yabin',2 (1.DepartmentofGeologicalEngineering,Qinghai University,Xining81016,Qinghai,China;2.KeyLaboratoryof Cenozoic Resource &Environmentin Northern Margin of the TibetanPlateau,Xining 810016,Qinghai, China)
+
+Abstract:We aimed to analyze the tensile properties of single roots and the micromechanical mechanism of revetment by three dominant alpine meadow plants (Blysmus sinocompressus，Kobresia capilifolia，and Potentilla fruticose) in the source area of the Yellow River.The mechanical properties of single rootsof these three plants and their relationship with microstructure were quantitatively analyzed through a single root tensile test and paraffin section test. As the root diameter increased (from less than $0 . 5 ~ \mathrm { m m }$ ， $0 . 5 \mathrm { - } 1 . 0 \ \mathrm { m m }$ ,to greater than $1 . 0 \ \mathrm { m m } \cdot$ ),the single root tensile resistance and elongation increased, whereas the single root tensile strength and Young's modulus decreased.The tensile stress-strain curve for single roots followed a single peak curve trend. The average tensile strength of the single roots of Potentila fruticose shrubs was 1.56and1.25 times greater than thatof the cyperaceous Blysmus sinocompressus and Kobresia capilifolia,repsectively，whereas the average single root elongation of Blysmus sinocompressus was 1.06 and 1.36 times greater than that of Kobresia capilifolia and Potentilla fruticose,respectively. The single root tensile strength of cyperaceous plants was mainly related to the vascular column area ratio,whereas the single root tensile strength of Potentilla fruticose shrubs was closely related to the proportion of epidermis and secondary xylem.The ability to resist root system deformation in Blysmus sinocompressus and Kobresia capilifolia was stronger than that of Potentill fruticose; therefore，these two cyperaceae plants play a role in reinforcing the soil,and slowing down the speed of deformation and failure of the river bank.Moroever, the stiffness and tensile strength of the Potentill fruticose root system were higher,which play a role in soil consolidation and bank protection. Our results provide scientific support for screening the dominant revetment species in the source region of the Yellow River.
+
+Keywords: root diameter grade； single root tensile strength; elongation; stres-strain curve； xylem

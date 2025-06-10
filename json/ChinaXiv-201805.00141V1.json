@@ -1,0 +1,459 @@
+[
+    {
+        "type": "text",
+        "text": "欧盟生物基研究与创新体系的发展与启示",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郑颖\\*张志强（中国科学院成都文献情报中心）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 生物基产品是指以可再生资源（如农业和林业残渣、有机废料等）为原料而生产的化工产品和绿色能源，因其环境友好的优越性已成为社会经绿色可持续发展的重要途径。近年来，欧美等发达国家纷纷出台战略政策促进生物基产业的发展。欧盟委员会对生物基的研究与创新(R&I)项目给予了政策与财政的重点支持,已经逐渐形成以BBI(Bio-Based Industries)计划为核心的管理与资助体系。本文通过对欧盟生物基R&I项目的资助框架和经费分配情况的调研与分析，发现欧盟实现生物基经济目标的具体措施和实践方案，我国生物基创新行动提出决策建议。同时，BBI计划作为欧盟新兴产业R&I体系建设的典型案例，对我国其他创新方向开展科技政策与管理机制改革也具有一定的参考价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 欧盟 生物基产业R&I资助体系 经费分配项目实施",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号F204",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Development and Enlightenment of EU's Bio-based R&I System ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHENG Ying and ZHANG Zhiqiang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Chengdu Documentation and Information Center， Chinese Academy of Sciences， Chengdu 610041，China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bio-based products (bioproducts） are materials,chemicals and energy derived from renewable resources (such as agricultural and forestry residues, organic waste). Because of its advantages of environment friendly, it has become an important way to be the sustainable development society. During these years,Developed countries including US and Europe have been deploying strategies to promote development of bio-based industry. By focusing on policy and financial support for bio-based research and innovation (R&I)，European Commission (EC） has organized core funding framework and management system by BBI (Bio-Based Industries） initiatives. As a typical case of R&I project in Europe, the proposal is put forward to carry out suggestion for bio-based R&I project implementation and other innovation directions with investigation and analysis of the bio-based project funding frameworks and budget allocations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words European Union, Bio-based industry, R&I Funding System, Budget allocation, Project implementation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "据欧洲统计局的调查数据显示，2014年欧洲生物经济产生的交易额已经达到2.26万亿欧元1。其中，生物基经济交易额达6740亿欧元。生物燃料业占 $12 \\%$ ，占有最大份额 $2 7 \\%$ 的是纸和纸品业，其次是林业基产业占 $2 5 \\%$ （图1）。生物基产业的欧洲从业人数达1830万人，其中林业基产业雇佣人数量多，达到 $42 \\%$ 其次是纺织及纺织品业，占从业人数的 $24 \\%$ ，而纸和纸品业占第三位，占从业人数的 $1 7 \\%$ （图2）。欧盟科技与产业具有良好的社会经济基础，且从战略层面支撑生物基经济的发展。从2014年开始，欧盟通过技术、研究和创新投资（如地平线 2020计划）、地区合作（如生物经济观测平台）和与利益相关者共同合作（如欧洲创新伙伴计划）等形式来支持开展各种R&I项目，该类行动的实施是确保达成欧盟生物经济发展总体目标的关键环节。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b975e29f27475fe5c39d4c833b20e8d5a767db78663b5eaee0b9ce899de5a2f.jpg",
+        "img_caption": [
+            "图1欧洲生物基产业交易额分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc20573f0097e7a3b3f0e024b3c04d301fe94e232511db891aebb17520277e02.jpg",
+        "img_caption": [
+            "图2欧洲生物基产业从业人数分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．多维度的生物基经济战略框架",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生物基的R&I项目受欧盟生物经济政策框架体系（如图3所示）的支撑与引导。该政策框架体系共分为三个维度：（1）管理生物经济传统行业的行业政策；（2）管理对生物经济有横向影响的政策；（3）直接建设和管理生物经济的政策。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2767fc4d911e74bb77176d6f898ebe9fd389cf46b50076f4c300a7985f17895e.jpg",
+        "img_caption": [
+            "图3欧盟生物基经济政策框架的三个维度"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在过去，欧洲不同国家有不同的战略政策，评价生物基经济的可持续性也有着不同的指标与标准。尽管欧盟生物基经济战略在2012年被采纳，但其他政策行动也对欧洲生物经济发展道路产生了不小的影响，它们共同搭建形成了一个框架体系。例如，引导市场计划（LeadMarket Initiative，LMI）是指导生物基产品市场的决定性政策，它在整个框体系列中占据重要地位。ERA-NETs计划是第七框架计划时期欧盟各成员国之间的联合项目，并由此构建了生物经济观测平台，以总体协调成员国之间的研发行动。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1传统行业政策",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生物基经济的概念包括了传统的农业、林业和渔业，也涉及许多新兴行业，因此各类传统与新兴行业政策都可能纳入生物基经济的政策框架²。通用农业政策（CommonAgricultural Policy,CAP）为生物质的主要供应源农业和林业经济提供金融支持。尽管没有法律约束力，2013年发布的欧盟森林战略（2013 EUForest Strategy）促进了林业生物质可持续发展和生物经济的发展。而通用渔业政策（Common Fisheries Policy，CFP）和蓝色增长议程（Blue Growth Agenda）通过促进可持续水产养殖的发展，特别是通过欧洲海洋和渔业基金来建立可持续的生物经济体系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2横向政策的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生物经济政策框架还受到生物经济价值链领域政策的影响，如R&I（研究和创新）、气候行动和循环经济等方面的战略及政策。欧洲创新政策，包括欧洲2020战略、里斯本议程和创新欧洲旗舰计划等。事实上，委员会已确定生物技术是加强欧盟创新和竞争力的关键技术。欧洲气候行动是解决全球气候问题的巴黎协定的重要组成，达成应对气候变化的目标也是可持续生物基经济的主旨之一。此外，包括“地平线2020\"在内的欧洲资助计划，都设置了有效利用生物量和生产高质量生物质的研究和创新项目。另一方面，凡符合“循环经济\"理念的政策也都适用于这个框架，例如循环经济行动。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3标准、认证和标签",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除了战略和政策之外，标准、标签和认证等也是支持建立可持续生物经济的有效监管工具。通过欧盟授权M/429，2011年欧盟标准化委员会（CEN）制定了生物基产品标准化计划CEN/TC411，它包含了生物经济的各个方面，包括一致术语、确定产品中生物基含量、生命周期评估和所使用生物质可持续性等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标签特别是环保标志是关系到生物基产品消费者利益的重要因素。目前欧盟还没有专门针对生物基制品的标签。但是，有一些地区采用了一些类似概念的标志，如北欧生态标签“Nordic Swan\"和德国的生态标签\"Blue Angel\"等。TC411标准计划也开发出来了一些标准，这将有助于行业发展更高含量的生物基产品4。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3．开放的R&I项目管理体系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2014年以来，欧盟的科研创新和工业项目以灵活框架形式汇集在“地平线2020 计划\"下。同年，在该计划支持下以公私伙伴协议（PPP）形式成立欧盟生物基产业联盟（Bio-based IndustriesConsortium，BIC），实施生物基专项计划生",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物基产业联合技术计划，简称 BBI计划。欧盟以该计划为核心与欧盟其他计划协同，实施生物基相关的科技、产业、贸易发展的项目资助，预计其2014\\~2020年的总投资将超过37亿欧元。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1欧洲创新伙伴 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2010 年10月，欧盟推出\"创新联盟战略\"5，这是创建欧洲科研社区，应对主权债务危机的重要措施，也是欧盟实现智能、可持续和包容性增长战略的核心内容。2011年9月，欧盟提出了加强\"研究与创新伙伴\"计划，用以更好地利用公共与私人的研究与创新资源，通过优化组合促进公共与私人机构在实现可持续增长发挥作用，实现创新联盟、数字化议程和欧洲2020战略中提出的各项得大议程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "欧洲科研社区主要采用公公伙伴关系（Public-Public Partnerships,P2Ps）和公私伙伴关系（Public-Private Partnerships,PPPs）两种制度。而欧盟创新伙伴关系（the European Innovation Partnerships,EIPs）是由欧洲创新联盟最早提出，建立在这两种伙伴关系的基础上，将欧盟层面上不同领域、不同部门和不同国家的研究力量整合起来的新型框架关系。欧洲创新联盟认为，通过EIPs可以弥补欧洲现有R&I体系的缺陷，克服创新成果市场化的障碍。在2014年启动的\"地平线 2020\"计划的战略优先领域三——社会挑战明确提出将重点资助EIPs的活动。EIPs可以为国家或地区级的参与者、科学家、政策制定者、建议者和其他欧盟利益相关者提供共同的工作平台。BBIJU就是通过这个平台开展农业产量和可持续性、提升原料和水资源利用效率的相关R&I项目，通过示范项目的建设，支持供应链、食品安全、气候或环境保护项目的开展。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2014年7月9日，在地平线2020科技创新计划下创建的欧盟、私营部门和成员国之间研究合作伙伴关系发布了首次招标。欧盟与产业界和成员国将共建7个公-私伙伴关系，欧盟与成员国共建4个公-公伙伴关系，形成创新投资一揽子计划，其未来7年的总投资将达195亿欧元，其中欧盟出资73亿欧元，私营部门出资122亿欧元7。生物基产业的关键领域：应用可再生自然资源和创新技术生产更为绿色的日常产品；开发生物基产业从基础生产到消费品市场新的价值链；从石化基到生物基产品的转变，初步建立欧洲循环经济的基础；通过促进地方经济多样化支持区域发展；促进开放生物基产品和申请“欧洲造\"的新市场。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2欧盟研究与创新计划（ResearchandInnovationInitiatives）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1） 战略能源技术计划",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2007年，欧洲理事会通过了2020能源和气候变化目标，计划减少 $20 \\%$ 温室气体排放，如果条件允许将调高至 $30 \\%$ 。为此，2010年11月，欧盟委员会通过了《能源 2020：竞争、可持续和安全的能源战略》（Energy 2020 A strategy forcompetitive,sustainable and secure energy），战略再次强调了2020 年实现减少温室气体排放 $20 \\%$ 的目标，为此欧盟将采取多项行动计划，提出立即实施战略能源技术计划（Strategic Energy Technology Plan，SET-Plan）8。欧委会将加强执行欧洲能源研究协会（EERA）的联合项目和主要欧洲产业倡议例如太阳能、风能、生物能、核能等，继续支持 $^ { \\cdot } 2 0 1 0 { \\sim } 2 0 2 0$ 欧洲产业倡议技术路线图”。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2012年，SET-Plan为促进生物质能源技术的研发创新能力，专门制定了“欧洲生物质能源产业计划（European Industrial Bioenergy Initiation）\"9。技术目标是促进现有技术和价值链的商业化；开展生物质原料可行性评价、产品、管理和收获等行动来支持技术推广；开发长期研究开发（R&D）计划来支持生物能源产业的发展。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2） 可持续工业计划和\"地平线2020\"计划",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2013年12月，欧盟委员会宣布了可持续生产工业（SPIRE）在内的八项合同性公私战略合作伙伴关系（cPPP）10。SPIRE 计划与地平线 2020 计划共同的目标是通过资源和能源高效利用建设可持续发展的加工工业。BBI计划通过开发生物产业的可持续价值链支持 SPIRE及其相关利益者，将他们集中起来给予从原料到生物精炼等基础设施的支持。SPIRE计划相应的通过开发能源和原料（包括化石基和生物基）的高效加工方法给予BBI计划及其相关利益者以帮助，并为生物基建筑过程和模块的原料准备加工和制造产业。BBI计划和SPIRE 联合确立了相到支持双方的支持点。BBI计划将引领开发生物基平台化学平的新资源选项，为SPIRE项目增添可用的原料包。而SPIRE将开发出生物基原料用于生产的过程与方法，通过创建生物基产品的新市场来支持BBI计划目标的实现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4．适应产业链需求的R&I项目资助模式",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1经费的来源与分配",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2014至2020年，BBI计划的企业伙伴承诺将投入至少37亿欧元支持生物基研发活动。这其中9.75亿来自\"地平线 2020\"计划的预算，其余27.3亿由 BBIJU计划按照\"地平线 2020\"规则通过BIC 向企业融资。其中5.85 亿办公费用由 BIC和欧盟委员会平摊11。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据其资助项目的目标不同，BBI计划的项目划分为创新行动-旗舰行动（Innovation Actions－Flagship Actions，IA-FLAG）创新行动-示范行动（Innovations Actions-Demonstration Actions,IA-DEMO）、研究与创新行动（Research and Innovation Actions，RIA）、合作与支撑行动（Coordination andSupportActions，CSA）四类，它们的目标分别为：（1）RIA项目主要目标是解决原料供应、加工和产品战略路线等技术问题；（2）IA项目主要用于整合和利用价值链中的技术和研究成果，通过示范和旗舰项目使技术更加接近市场规模。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据2016年BBI的项目指南，IA-FLAG和IA-DEMO项目相应于2014和2015年做出了相应调整，后者主要支持基于生物质原料的价值链相关项目，而2016年项目则从严格地原料推动传统价值链，转向使生物质的加工过程充分响应终端市场的战略路径。（3）CSA项目则主要用于应对跨领域挑战和支持价值链的建造。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6057a25b99c46f7268c020706f8037fdc72448849db04d4cff5206d9b383f9f.jpg",
+        "table_caption": [
+            "表2RIA、IA和CSA项目经费分配"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目类型</td><td>研发目标</td><td>经费(百万欧元）</td><td>百分比</td></tr><tr><td rowspan=\"3\">RIA</td><td>生物基原料供应</td><td>85.9</td><td>2.36%</td></tr><tr><td>生物精炼</td><td>257.7</td><td>7.07%</td></tr><tr><td>产品和市场</td><td>229</td><td>6.28%</td></tr><tr><td rowspan=\"4\">IA-DEMO</td><td>农业基原料</td><td>322.1</td><td>8.83%</td></tr><tr><td>森林基原料</td><td>272</td><td>7.46%</td></tr><tr><td>水生原料</td><td>35.8</td><td>0.98%</td></tr><tr><td>生物废料和CO2</td><td>85.9</td><td>2.36%</td></tr><tr><td rowspan=\"4\">IA-FLAG</td><td>农业基原料</td><td>1074.1</td><td>29.45%</td></tr><tr><td>森林基原料</td><td>895.1</td><td>24.54%</td></tr><tr><td>水生原料</td><td>44.8</td><td>1.23%</td></tr><tr><td>生物废料和CO2</td><td>223.8</td><td>6.14%</td></tr><tr><td>CSA</td><td>一</td><td>62</td><td>1.70%</td></tr><tr><td>办公费</td><td></td><td>58.5</td><td>1.61%</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "四类项目的经费分配情况如表2所示。从四类项目的总体分布来说，IA项目投入所占比例最大，其中IA-DEMO项目占研发总经费的 $1 9 . 6 3 \\%$ ，IA-FLAG项目占 $6 1 . 3 6 \\%$ ，两者相加超过总经费的 $80 \\%$ 。其次是RIA项目，占 $1 7 . 3 1 \\%$ 。CSA项目的研发投入占比是最少的，仅有 $1 . 7 \\%$ 。可以看出相较于重在生物精炼相关技术研发的RIA类项目，以整合和利用价值链中的技术为主旨的IA项目经费投入更多，提示欧盟生物质原料供应、精炼等产业技术已经有较良好的基础，面临的主要问题集中在技术转化与新价值链的构建。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从单一类项目中的经费分布来看，IA-DEMO类项目中的农业基原料的经费（占 $8 . 9 8 \\%$ ）明显高于其他三类原料，这是基于欧盟国家粮食富余和农业残留物的数量巨大的现状，而水生原料、生物废料和 $\\mathrm { C O } _ { 2 }$ 这类新型的原料占比也达到了 $3 . 3 9 \\%$ ，说明该类新原料的应用技术也正在逐步成熟。而IA-FLAG项目对生物废料和 $\\mathrm { C O } _ { 2 }$ 原料项目的投入最多，分别占经费总数的 $2 9 . 9 3 \\%$ 和 $2 4 . 9 5 \\%$ ，也证实了该类生物质原料技术的推广与转化，及其价值链的构建与完善将是欧洲生物基产业未来几年R&I项目的重点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2014\\~2017年度预算变化趋势如图3所示，其中2015年BBI计划在5月19日和8月25日共发布了两次项目预算，我们将两次经费按类型做合并处理。从图4可以看出，2014年作为计划的启始阶段，经费投入最少，除CSA项目以外的三类项目的投入也较为均衡，可以视作是各类行动的探索阶段。2015年是BBI项目全面展开的一年，该年经费呈现大幅增长，也是四年来投入总量最大的一年，达到2.06亿欧元，其中IA-FLAG项目就达1亿欧元，占比达到 $4 8 . 5 \\%$ 。2016年除CSA以外三个创新项目的资助相较前一年有所减少，但仍保持一个较高水平，减少较为明显的是IA-FLAG项目，投入减少超过 $30 \\%$ 。而2017年的经费数量减少较2016年更为显著，尤其是IA-FLAG 和IA-DEMO 项目的资助力度明显下降。这可能是由于BBI计划实施了四年后其技术研发已经逐渐进入成熟阶段，示范项目建设也已经有了很好的基础，研发经费的投入更偏向于对已有项目的补充和完善，新项目数量也将有所下降。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b3b2b430037bb5586dbeb3250e6b8e51021a2a13de621b0adb0e2d2ecfad3d1.jpg",
+        "img_caption": [
+            "图 $4 2 0 1 4 { \\sim } 2 0 1 7$ 年BBI计划项目经费预算分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2项目的部署与实施",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "自2014以来，BBI计划已经发布了大批的R&I研究项目，这些项目主要分属于价值链示范项目、旗舰项目、RIA项目和CSA项目12:13。2017年6月BIC发布了BBI计划影响力报告14，总结了前三年BBI计划的总体实施情况。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）项目部署：BBI计划的头三年已经批准了65个项目，其中包括 20个示范项目和6个旗舰项目，这些项目由来自30个国家的729家机构参与，共获得了4.14亿欧元的共公基金和21.5亿的私人基金的支持。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）激励中小企业：目前BBI计划的受益者中有 $36 \\%$ 是中小企业，超过了“地平线 $2 0 2 0 ^ { 3 }$ 社会挑战项目 $20 \\%$ 的目标。这些中小企业占有了BBI计划 $2 9 \\%$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "的经费份额。中小企业与研究和技术机构密切合作，为大型工业企业提供宝贵经验。例如，生物反应器设计、工艺优化、用于生物质过程的新型生物催化剂等创新领域都有中小企业的深入参与。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）充分利用公共资金：目前，每1欧元的公共资金都有望带动4.4欧元的私人财政投入，在头三年中，曾发布1.92亿欧元实物资助项目和1.95亿欧元的经费追加，总资助额已远远高于承诺的投资。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5．启示",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "欧盟通过系统地制定生物基经济政策框架，确定对欧盟有重大影响的发展战略、优先领域和投资预算，通过在公-私、公-公机构组织间搭建的\"研究与创新伙伴关系\"资助R&I研究项目，更通过创新合作平台协调欧盟各成员国间的研发资源和协作关系。进而实现了欧盟对全欧生物基R&I行动的统筹规划和宏观指导，有效保障了欧盟生物基产业的快速发展。欧盟的生物基R&I项目管理体系给我们以如下启示：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.1以生物经济战略为核心搭建多维度政策框架",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "欧盟框架以生物经济战略作为核心统领，又加入各类通用政策和相关战略进行补充。欧盟生物基经济政策框架包含了多个维度，其政策施体和受体均有所不同。通用农业、林业和渔业政策制订者是各国欧盟委员会和各成员国政府，而其管理的是生物基产业链中的原料来源。因此，它在整个架构中是基础构件，支撑整个生物经济战略及其他政策的执行。而气候和能源政策和循环经济行动等在整个架构是顶层设计，也是战略最终所要达成的目标，其政策的受益者是全人类。为了实现这些目标的重要环节是在于R&I项目的实施，因此可以说它是整个框架承上启下的关键节点。R&I项目的实施不仅可以保障生物质原料得以充分利用，也是最终将生物基技术和产品推向市场，激发生物基经济活力的决定因素，更是达成欧盟 $\\mathrm { C O } _ { 2 }$ 减排目标的重要手段。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "欧盟R&I项目的政策的规范管理也有一些成功经验。2011年欧盟专门成立了生物基产品技术委员会负责制定生物基产品标准计划CEN/TC411，还为生物聚合物和生物润滑油制定了技术规范和标准（授权M430）。通过标准来克服生物基产品含量和质量不稳定等弱点，同时还增加了该产业的市场透明性。使生物基产品真正可以获得广大民众的认可，进入消费者的采购名单。德国和北欧国家的类\"生物基产品\"标签也是对推广生物基产品，保障消费者知情权的有益尝试。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2以创新网络体系为基础统管全欧科研资源",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "早在第七框架计划期间，欧盟各国就已经通过欧盟研究区（ERA）建设了统一的生物基科技创新网络体系——“ERA-Net生物经济行动\"来协调各成员国之间的关系，统筹研究资源和研发力量。通过该网络来统一发布科研计划和咨询，签订合作协议和协调分配研究项目，各成员国可以根据共同感兴趣的科研领域和方向，集中优势资源开展联合攻关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "这一成功的经验延续到了“地平线2020\"计划的实施，欧盟在ERA-NET的基础上组建了“生物经济观测平台”，该平台集中了所有与R&I活动相关的信息和数据，开放给成员国共享。这个计划通过更加密切和有效地方式集中了欧盟各成员国与生物基产业相关力量，政策实施力度更加有保障，协调和传达能力也有明显得加强，有效地保障了欧盟各国生物基相关计划的实施和部署。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.3以\"研究与创新伙伴关系”为纽带整合全产业链创新力量",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "欧盟2011年首提的\"研究与创新伙伴(EIPs)\"计划，旨在将不同国家、不同层级和领域的涉及生物基产业链的全部研发和创新力量整合起来，在促进了技术的市场转化进程方面已取得了一定成功。2017年10月9日，欧委会发布关于地平线 2020 支持下的公私合作伙伴关系（Public-Private Partnerships）和公公合作伙伴关系（Public-Public Partnerships）的中期评估报告。结果显示：欧盟同私营部门和成员国建立的科研与创新伙伴关系，目前发展状况良好15。报告认为在科研与创新领域，欧盟与产业界和成员国之间建立的两种伙伴关系，已经对欧洲经济增长和生活质量提高发挥出强化之功。利用这些伙伴关系，欧洲有能力去共同解决那些由一家公司或一个国家无法单独攻克的难题。欧盟通过“地平线 2020\"资助了包括BBI计划在内的7个公私伙伴关系和5个公公伙伴关系，其中7年间公私伙伴关系总投入195亿欧元（欧盟投入73亿，私营部门和成员国投入122亿欧元）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BBI计划利用公私伙伴关系获取了大量的私营投入，同时在研究成果转化过程中孵化带动了一批中小型企业的成长，R&I项目所产生的成果也很快被转化成为示范项目。这种模式缩短了科学技术从实验室到市场的距离，也提升了中小企业参与创新的积极性和能力。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.4以技术转化利用为目标部署研发创新项目",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "这四年间BBI计划的资金分配比例充分说明BBI计划的重点目标是扶持重点项目、加快技术转化和构建新型价值链体系。项目以产业化和市场化为项目的审批标准，在四年间将总经费的 $80 \\%$ 投入了IA-DEMO和IA-FLAG项目。而从经费投入年度变化趋势又可以看出通过R&I项目的实施创新成果正在快速地被消化利用，一批技术正逐步成熟、可操作性也变得越来越强。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在项目管理方面，BBI计划通过项目确立和经费分配的变化，来保障资金流向最可能转化为生产力的技术，从而使技术转化效率提升，转化质量得以确保。而企业伙伴的参与也为技术转化的利用提供了资金和平台。大量示范项目均是由企业牵头或承担的，例如2016年9月启动的BIOFOREVER示范项目就是由14家欧洲公司共同承担的，目的是解决精炼工业所面临的各种问题16。同年启动的BioBarr项目17也是由著名的生物基生产企业Bio-One 牵头，研发新型的可持续和可生物降解的食品包装材料。企业在这些项目实施过程中不仅承担示范工厂的作用，同时在与技术研发人员的合作中也增加了自身的研究创新能力，许多中小型创新企业借此机会成长起来。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.5创建适合我国自身特点的R&I体系",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "欧盟的成功经验，包括计划框架、项目布局和资助方式等对我国有重要的借鉴意义。比对欧盟的BBI重点计划，可以找出适合我国发展的重点创新方向，也可以在一定程度上避免可能遇到的风险。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "近年来，我国生物基技术研发取得了长足进步，获得了一批有世界影响力的研发成果。生物基产业增长迅速，《\"十三五\"生物产业发展规划》18显示\"2015年我国生物基产业规模超过3.5万亿元。\"并提出“到2020年，现代生物制造产业产值超1万亿元。\"的目标。同时，也指出\"产业生态系统依然存在制约行业创新发展的政策短板，开拓性、颠覆性的技术创新还不多”等缺陷。因此，我们应该在吸取和借鉴欧盟先进经验的同时，探索自身的发展道路。在加速传统生物基产业发展的同时，扶持培育新动能，促进我国生物基产业科技创新能力的提升和经济结构转型。逐步在国内形成创新发展高地，促进生物基产业迈向中高端，加速形成国民经济新的支柱产业19 20。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "欧盟政策框架是多国框架，各国本身均有自己的生物基R&I规划与政策。与之不同的是我国可以建立项目整体管理与监管体系，通过\"自上而下\"的顶层设计与“自下而上\"的需求征集、重大科学计划保障的方式，贯彻统一的战略规划，整合各方资源与力量，开展重点攻关与协作研究。同时，我国还应加强与欧盟及其他先进国家的交流与合作，围绕\"中国制造 $2 0 2 5 ^ { \\prime \\prime }$ 、“一带一路”、能源发展战略行动计划等可持续发展战略，通过合作项目和协议等方式共享研究成果和培养更多的优秀人才，为我国生物基产业的可持续发展奠定良好的基础。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Bio-based.eu. Turnover in the EU bio-based economy (EU-28,2014) [EB/OL].[2016-3-   \n21]http:/biconsortium.eu/sites/biconsortium.eu/files/downloads/20160302_Bioeconomy_in_ figures.pdf [2]Bourguignon,D. EPRS. Bioeconomy, Challenges and opportunities[EB/OL]. [2017-12-22]htp://www.europarl.europa.eu/RegData/etudes/BRIE/2017/595890/EPRS_BRI(   \n2017)595890_EN.pdf [3] The communication from the European Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions,A new EU Forest Strategy: for forests and the forest-based sector, COM(2013)659, reviews the previous EU Forest Strategy, dated 1998. [4]Luana Ladu, Knut Blind.Overview of policies, standards and certifications supporting the European bio-based economy[J].Current Opinion in Green and Sustainable Chemistry.   \n2017,8(12): 30-35   \n[5]European Commission. Europe 2020 Flagship Initiative Innovation Union Brussels,6.1 0.2010COM (2010)546 final.   \n[6]European Commission.\"Partnering in Research and Innovation\",Brussels,21.9.2011CO M(2011） 572final.   \n[7]European Commission.EU-industry partnerships seek innovation boost with first €1 bi llion for projects [EB/OL]. [2017-07-09] htp://europa.eu/rapid/press-release_IP-14-796_e n.htm   \n[8]European Commission. Strategic Energy Technology Plan[EB/OL]. [2017-07-06] https:/ /ec.europa.eu/energy/en/topics/technology-and-innovation/strategic-energy-technology-plan   \n[9]European Commission. European Industrial Initiative on bioenergy[EB/OL]. [2017-07-0 6] https://setis.ec.europa.eu/european-industrial-initiative-bioenergy   \n[10] European Commisson. EU Industrial Leadership Gets Boost Through Eight New Res earch Partnerships[EB/OL]. [2014-01-10] http://Europa.eu/rapid/press-release_IP-13-126 1_en.htm.   \n[11] BBI JU.ABOUT BBI[EB/OL].[2017-09-12] htps://bbi-europe.eu/about/about-bbi   \n[12] BBI JU. Guide for Applicants Innovation Actions[EB/OL].htps://bbi-europe.eu/sites/def ault/files/documents/bbiju-call%202015-guide-for-applicants.pdf   \n[13] European Commission. Call 2015 guide for applicants 02[EB/OL]. [2017-07-08] http:// ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/cals/h2020-bbi-ppp -2015-02.html#c,topics $\\ c =$ callIdentifier/s/H2020-BBI-PPP-2015-02/1/1&+Open/asc   \n[14] BIC. TheBBI JU-AnInstitutionalPPP supportingthe Bioeconomy Strategy[EB/ OL].[2017-05-10] http:/iconsortium.eu/sites/biconsortium.eu/files/downloads/BIC_Impact of_BBI_JU_June_2017.pdf   \n[15]中华人民共和国驻欧盟使团网站.欧盟评估显示：科研与创新伙伴关系促进经济增长 [EB/OL]. [2017-10-21]http://www.fmprc.gov.cn/ce/cebe/chn/kjhz/kjdt/t1500875.htm   \n[16] Biofuels News.Woody biomass project starts in EU [EB/OL]. [2017-03-07] htp://biofu els-news.com/display_news/10980/eufunded_demonstration_project_launched_for_the_conv ersion_of_woody_biomass_to_chemicals/   \n[17] Special Chemistry Company. Bio-based Food Packaging Materials with Enhanced Barr ier Properties[EB/OL]. [2017-06-15] http:/polymer-additives.specialchem.com/news/indus try-news/bioplastics-barrier-properties-food-packaging-0oo187048   \n[18] 国家发展改革委．《\"十三五\"生物产业发展规划》[EB/OL].[2016-12-20] htp://wwW.ndr c.gov.cn/zcfb/zcfbghwb/201701/W020170112411581437678.pdf   \n[19]林念修．大力培育发展生物产业加快建设生物经济强国[J]．中国生物工程杂志，2017, 37(7):1-2.   \n[20]王昌林，韩祺．着力推进生物产业供给侧结构性改革[J]．中国生物工程杂志，2017，37 (7):5-8. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "作者介绍：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1．郑颖,女,博士,副研究员,zhengy@clas.ac.cn  \n2.张志强,男,博士,研究员,中国科学院成都文献情报中心主任,zhangzq@clas.ac.cn",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "基金支持：本文获得中国科学院政策调研课题“国际科技发展态势研究（ZYS-2017-07）\"的支持。",
+        "page_idx": 10
+    }
+]

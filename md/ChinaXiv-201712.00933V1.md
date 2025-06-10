@@ -1,0 +1,134 @@
+临床研究
+
+# 子宫内膜癌组织中DAPK3和c-Myc的表达及其与患者预后的关系
+
+陈晨，郭遂群南方医科大学第三附属医院妇产科，广东广州510630摘要：目的探讨子宫内膜癌组织中DAPK3和c-Myc的表达情况、相互关系及其对患者预后的影响。方法运用免疫组织化学SP法检测132例子宫内膜癌组织中DAPK3和c-Myc的表达，分析DAPK3 $\boldsymbol { \mathbf { \mathit { \Sigma } } } _ { c }$ -Myc蛋白的表达与子宫内膜癌临床病理参数的关系及对子宫内膜癌预后的影响。结果（1)132例组织标本中DAPK3低表达80例( $8 0 / 1 3 2 , 6 0 . 6 1 \%$ ),c-Myc高表达71例(71/132,$5 3 . 7 9 \%$ );(2)DAPK3的表达在子宫内膜癌不同FIGO分级 $\scriptstyle \left( P = 0 . 0 3 4 \right)$ ，组织学分级（ $\scriptstyle P = 0 . 0 2 7 ,$ ,淋巴结转移状态 $\scriptstyle P = 0 . 0 2 2 ,$ 和肌层浸润程度( $scriptstyle \overbrace { P = 0 . 0 1 1 }$ )中差异显著;c-Myc的表达在子宫内膜癌不同FIGO分级( $P { = } 0 . 0 1 5 )$ 和淋巴结转移状态( $P { = } 0 . 0 3 1 \mathrm { \ }$ 中差异显著；(3)生存曲线分析显示，DAPK3低表达患者的生存时间少于高表达患者 $\scriptstyle ( P = 0 . 0 2 3 )$ )，而c-Myc高表达患者的生存时间少于低表达患者( $P { = } 0 . 0 0 2 { \mathrm { . } }$ );(4)等级相关分析显示DAPK3和c-Myc在子宫内膜癌中的表达显著负相关( $_ { r = - 0 . 3 1 0 }$ 5 $P { < } 0 . 0 0 1$ );(5)COX回归分析提示，c-Myc高表达是子宫内膜癌患者预后的独立影响因素( $scriptstyle \scriptstyle ( P = 0 . 0 0 7$ )。结论DAPK3低表达和c-Myc高表达与子宫内膜癌的生长浸润行为相关，且与患者预后密切相关。通过检测DAPK3和c-Myc的表达能够更加有效地评估子宫内膜癌患者的预后。
+
+关键词：子宫内膜癌;DAPK3;c-Myc;免疫组化
+
+# Expressions of DAPK3 and c-Myc in endometrial cancer and their relationship with the patients' prognosis
+
+CHEN Chen, GUO Suiqun DepartmentofOtetricsandGnecologyirdAfltedHosptalofSouthernedicalUnersityGuangzouCina
+
+Abstract: Objective Toinvestigate the expresions of DAPK3 and c-Mycand their prognostic valuein endometrial carcinoma (EC). Methods The expressons of DAPK3 and $\mathrm { ~  ~ c ~ }$ -Myc were detected immunohistochemically in 132 surgical specimens. The relationshipbetween DAPK3andc-Mycprotein expressonsandtheclinicopathologicalfeaturesof thepatients wasevaluated. Results Immunohistochemical analysis revealed low DAPK3 expression in $6 0 . 6 1 \%$ (80/132) and high c-Myc expression in $5 3 . 7 9 \%$ (71/132)of the specimens of EC.Both DAPK3 expression and c-Myc expression were significantlycorrelated withFIGO stage $\scriptstyle \mathrm { \mathit { P } = 0 . 0 3 4 }$ and 0.015,respectively) and lymph node metastasis ( $\scriptstyle P = 0 . 0 2 2$ and 0.031, respectively). DAPK3 expression was closely correlated with the histological grade $_ { ( P = 0 . 0 2 7 ) }$ and depth of myometrial invasion $( P { = } 0 . 0 1 1 )$ . Kaplan-Meier survival analysis indicated that patients withlow DAPK3 expressions had a shorter overallsurvivalrate than those with high DAPK3 expressions $\scriptstyle ( P = 0 . 0 2 3 )$ ， while patients with high c-Myc expressions had poorer prognoses than those with low c-Myc expressions $( P { = } 0 . 0 0 2 )$ . Spearman correlation analysis showed that DAPK3 and $\mathrm { ~  ~ c ~ }$ -Myc expressions were negatively correlated $_ { ( P < 0 . 0 0 1 }$ $r { = } { - } 0 . 3 1 0 \}$ . Multivariate analysis identified a high c-Myc expression as the independent predictor of the prognosis of EC $( P { = } 0 . 0 0 7 )$ . Conclusions A low expression of DAPK3 and a high expression of c-Myc are associated with aggresive and metastatic behaviors of EC,and their detection may help to predict the prognosis of the EC patients.
+
+Key words: endometrial carcinoma; DAPK3; c-Myc; immunohistochemistry
+
+子宫内膜癌是女性生殖器官常见3大恶性肿瘤之一，约占女性生殖器官恶性肿瘤的 $20 \% { \sim } 3 0 \%$ 。随着人口老龄化和人类寿命的延长，子宫内膜癌的发病率有逐年上升的趋势：在某些发达国家，它是发病率居第1位的妇科恶性肿瘤，在中国其发病率仅次于宫颈癌。尽管子宫内膜癌的预后较卵巢癌、宫颈癌等其他生殖器官恶性肿瘤要好，在早期诊断规范治疗后5年生存率高达$80 \%$ 。然而由于早期症状不明显或不典型,很多患者就诊时已过了最佳治疗时机,5年生存率明显下降[12]。目前，一些血清学标志物的监测有助于早期子宫内膜癌的诊断和患者预测，但它们的特异性和敏感性并不让人满意，这促使我们去探索发现新的子宫内膜癌血清标志物，为临床诊断和治疗提供更多有效帮助[3-5]
+
+死亡相关蛋白激酶-3(DAPK3)调节细胞的多种进程，包括细胞凋亡、平滑肌收缩、增殖以及炎症等多方面。在以往的研究中，DAPK3在某些肿瘤标本如胃癌、宫颈癌、鳞状上皮癌中表达量下调，且其低表达程度与肿瘤细胞分化程度、肿瘤大小以及淋巴结转移程度存在一定相关性[7-8]。而c-Myc被认为在肿瘤细胞中发挥着重要的角色，它参与调控肿瘤细胞增殖、侵袭、转移、凋亡等多方面[9-10]。本次实验通过检测子宫内膜癌中DAPK3和c-myc的表达情况，分析它们之间的相关性，探讨二者在子宫内膜癌发生、发展和预后方面的意义。
+
+# 1 材料和方法
+
+1.1 材料
+
+收集广州医科大学附属第三医院2002年\~2008年手术切除的子宫内膜癌标本132例，患者年龄20\~82岁（平均年龄51岁)。经有经验的病理科医师检查明确诊断后，分组进行检测。所有的患者临床资料包括年龄、FIGO分期、组织学分级、肌层浸润深度、淋巴结转移及病理类型等。其中子宫内膜样腺癌103例，腺鳞癌19例，棘腺癌5例，子宫乳头状浆液性腺癌4例，透明细胞腺癌1例。所有患者术前均未行放疗、化疗及激素治疗，随访时间为48\~108个月。本次实验经广州医科大学第三附属医院伦理委员会批准，并征得患者的知情同意。
+
+# 1.2主要试剂
+
+兔抗人DAPK3多克隆抗体(工作浓度为：1:50稀释)购自Abcam公司，兔抗人c-Myc多克隆抗体(工作浓度为： $1 : 5 0$ 稀释）购自ProteintechGroup公司。S-P及DAB试剂盒均购自北京中杉金桥公司。
+
+# 1.3方法
+
+所有标本经 $4 \%$ 中性甲醛固定，石蜡包埋， $3 ~ { \mu \mathrm { m } }$ 连续切片，HE染色。 $6 0 ~ \mathrm { { ^ { \circ } C } }$ 烤箱烘片 $^ { 4 \mathrm { h } }$ ，然后脱蜡至梯度酒精随后水洗；采用柠檬酸抗原修复液煮沸 $2 ~ \mathrm { m i n }$ 进行抗原修复，其余步骤严格按照说明书进行，DAB显色后，用苏木精复染，封片。
+
+# 1.4染色结果判定
+
+双盲阅片法，由2名经验丰富的副高职称医师分别阅片。采用半定量法[1-2],随机选取10个高倍视野，每个高倍视野观察100个细胞，按每个高倍视野阳性细胞数的百分比计数：阳性细胞数 $45 \%$ 计为0分； $5 \% { \sim } 2 0 \%$ 计1分， $2 1 \% { \sim } 5 0 \%$ 计2分， $5 1 \% \sim 7 5 \%$ 计3分， $> 7 5 \%$ 计4分;胞质按色强弱计分：淡黄色计为1分，黄色计2分，棕黄色计3分。两种记分方法的乘积即为表达强度：0分设为阴性，1\~4分为低表达，5分以上为高表达。
+
+# 1.5统计学方法
+
+应用SPSS21.0软件进行统计分析。DAPK3和c-Myc在子宫内膜癌中的表达及其与临床病理参数间的关系采用x检验;生存曲线用Kaplan-Meier法;多因素生存分析采用Cox比例风险回归模型;DAPK3和c-Myc表达之间的相关性采用Spearman相关分析。所有的检验均为双侧检验， $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1DAPK3和c-Myc在子宫内膜癌组织中的表达情况
+
+DAPK3的阳性表达主要为细胞质的不同程度着色，低表达80例 $( 8 0 / 1 3 2 , 6 0 . 6 1 \%$ ），高表达52例（52/$1 3 2 , 3 9 . 3 9 \%$ ，图1A、B)。c-Myc的阳性表达主要为细胞核和细胞质的不同程度着色，高表达71例（71/132,$5 3 . 7 9 \%$ )，低表达61例 $( 6 1 / 1 3 2 , 4 6 . 2 1 \%$ ，图1C、D)。
+
+![](images/32d89e8d64bbe75be9803179d5c8e07eefe007c872c2609d778269d1cd86acf1.jpg)  
+图1DAPK3蛋白和c-Myc蛋白在标本中的表达 Fig.1 DAPK3 expression in the cell cytoplasm (A,B) and c-Myc expression in thecell nuclei and cytoplasm $( C , D )$ in EC tissues (Original magnification: $\times 4 0 0$ ）
+
+# 2.2DAPK3和c-My的表达与子宫内膜癌患者临床病理参数间的关系
+
+通过x检验，我们发现，DAPK3和c-Myc在子宫内膜癌患者肿瘤家族史、并发症、绝经状态中的表达差异均不具有统计学意义。DAPK3在子宫内膜癌的不同年龄( $\scriptstyle x ^ { 2 } = 6 . 0 9 4$ $P { = } 0 . 0 1 4 \$ ，FIGO分期 $( \chi ^ { 2 } { = } 6 . 7 3 5 , P { = } 0 . 0 3 4 )$ ，组织学分级（ $\chi ^ { 2 } { = } 7 . 2 2 8$ $\scriptstyle P = 0 . 0 2 7$ ),淋巴结转移状态 $\scriptstyle \left. { \boldsymbol { \chi } } ^ { 2 } = \right.$ 5.236, $\scriptstyle P = 0 . 0 2 2$ )和肌层浸润程度 $\scriptstyle \chi ^ { 2 } = 6 . 4 9 2$ ， $\scriptstyle P = 0 . 0 1 1$ ）
+
+时的表达差异具有统计学意义。c-Myc在子宫内膜癌的不同FIGO分期（ $\chi ^ { 2 } { = } 8 . 3 7 2$ ， $_ { P = 0 . 0 1 5 }$ ）和不同的淋巴结转移状态( $\cdot x ^ { 2 } { = } 4 . 6 6 5$ $\scriptstyle P = 0 . 0 3 1$ )下,表达差异也具有统计学意义(表1)。
+
+表1DAPK3和c-Myc的表达与子宫内膜癌临床病理参数之间的关系 Tab.1 Correlation between the clinicopathologic characteristics and the expressions of DAPK3 and c-Myc in EC   
+
+<html><body><table><tr><td rowspan="2">Characteristics</td><td rowspan="2"></td><td colspan="3">DAPK3 expression</td><td colspan="3">c-Myc expression</td></tr><tr><td>High</td><td>Low</td><td>P</td><td>High</td><td>Low</td><td>P</td></tr><tr><td>Age (year)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><50</td><td>42</td><td>23</td><td>19</td><td>0.014</td><td>22</td><td>20</td><td>0.825</td></tr><tr><td>≥50</td><td>90</td><td>29</td><td>61</td><td></td><td>49</td><td>41</td><td></td></tr><tr><td>Family history of tumor</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Negative</td><td>111</td><td>42</td><td>69</td><td>0.400</td><td>59</td><td>52</td><td>0.737</td></tr><tr><td>Positive</td><td>21</td><td>10</td><td>11</td><td></td><td>12</td><td>9</td><td></td></tr><tr><td>Menopausal status</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Premenopausal</td><td>73</td><td>28</td><td>45</td><td>0.786</td><td>41</td><td>32</td><td></td></tr><tr><td>Postmenopausal</td><td>59</td><td>24</td><td>35</td><td></td><td>30</td><td>29</td><td>0.542</td></tr><tr><td>Complications</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>No</td><td>90</td><td>38</td><td>52</td><td>0.330</td><td>50</td><td>40</td><td>0.551</td></tr><tr><td>Yes</td><td>42</td><td>14</td><td>28</td><td></td><td>21</td><td>21</td><td></td></tr><tr><td>FIGO stage</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I</td><td>98</td><td>35</td><td>63</td><td></td><td>59</td><td>39</td><td></td></tr><tr><td>II</td><td>14</td><td>4</td><td>10</td><td>0.034</td><td>7</td><td>7</td><td>0.015</td></tr><tr><td>Ⅲ</td><td>20</td><td>13</td><td>7</td><td></td><td>5</td><td>15</td><td></td></tr><tr><td>Histological Grade</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>G1</td><td>56</td><td>28</td><td>28</td><td></td><td>27</td><td>29</td><td></td></tr><tr><td>G2</td><td>57</td><td>15</td><td>42</td><td>0.027</td><td>32</td><td>25</td><td>0.473</td></tr><tr><td>G3</td><td>19</td><td>9</td><td>10</td><td></td><td>12</td><td>7</td><td></td></tr><tr><td>Lymph node status</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Negative</td><td>115</td><td>41</td><td>74</td><td>0.022</td><td>66</td><td>49</td><td>0.031</td></tr><tr><td>Positive</td><td>17</td><td>11</td><td>6</td><td></td><td>5</td><td>12</td><td></td></tr><tr><td>Myometrium Invasion</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><1/2</td><td>95</td><td>31</td><td>64</td><td>0.011</td><td>51</td><td>44</td><td>0.969</td></tr><tr><td>≥1/2</td><td>37</td><td>21</td><td>16</td><td></td><td>20</td><td>17</td><td></td></tr></table></body></html>
+
+2.3DAPK3和c-Myc的表达与子宫内膜癌患者总生存时间之间的关系
+
+132例资料完整的子宫内膜癌病例随访48\~108个月，复发或死亡18例，平均生存时间为55个月(随访期间内)。单因素分析子宫内膜癌组织中DAPK3、c-Myc表达对预后的影响，分别将DAPK3和c-Myc表达分为低表达组和高表达组,制出Kaplan-Meier生存曲线，结果显示DAPK3低表达组平均生存时间为87个月（随访期间），高表达组为97个月（随访期间内），DAPK3低表达患者的生存时间较高表达患者显著减少( $\scriptstyle P = 0 . 0 2 3 ,$ ;
+
+c-Myc高表达组平均生存时间为84个月，低表达组为98个月（随访期间),c-Myc高表达患者的生存时间较低表达患者显著减少（ $scriptstyle \overbrace { P = 0 . 0 0 2 } $ ，图2)。
+
+2.4DAPK3和c-Myc在子宫内膜癌组织中表达的相关性
+
+Spearman等级相关分析显示，在子宫内膜癌组织中，DAPK3 和c-Myc 的表达呈负相关（ $( P { < } 0 . 0 0 1$ $r { = } { \ - } 0 . 3 1 0 \rangle$ 。为了进一步验证DAPK3和c-Myc在子宫内膜癌中表达的相互关系，我们把DAPK3和c-Myc在子宫内膜癌中的表达情况分为4组，即：(1)DAPK3低表达/c-Myc 高表达;(2)DAPK3高表达/c-Myc 高表达;
+
+![](images/584c996a706db2c040d2311052fb87361f535f4d823fbcc07f76395f0f83e222.jpg)  
+图2DAPK3和c-Myc的表达与患者生存时间的关系 Fig.2 Correlation of DAPK3 (A) and c-Myc (B) expressions with the patients' overallsurvival time.
+
+(3）DAPK3高表达/c-Myc低表达;(4)DAPK3低表达/c-Myc低表达。分析结果提示这4种组合表达在子宫内膜癌不同年龄（ $\cdot x ^ { 2 } { = } 1 0 . 3 5 9$ ， $P { = } 0 . 0 1 6$ ）、不同FIGO分期中 $\ x ^ { 2 } { = } 2 1 . 6 8 2$ ， ${ \cal P } \mathrm { = } 0 . 0 0 1$ ）和不同淋巴结转移状态 $( \chi ^ { 2 } =$ 16.739, $P { = } 0 . 0 0 1$ )时表达差异具有统计学意义(表2)。随后我们绘制了组合表达模型的生存曲线(图3)。DAPK3低表达/c-Myc高表达这一组的平均生存时间为80个月（随访期间内），其预后明显比其他3组差（ $P =$ 0.002)。
+
+# 2.5Cox比例风险回归模型分析
+
+将患者的年龄、肿瘤家族史、月经史、FIGO分期、组织学分级、淋巴转移状态、肌层浸润状态等可能影响子宫内膜癌预后的因素进行单因素分析，我们得出FIGO分期（ $\scriptstyle ( P < 0 . 0 0 1 )$ ），组织学分级（ $\scriptstyle P = 0 . 0 0 1$ ，淋巴转移（ $P <$ 0.001)，肌层浸润（ $_ { ( P = 0 . 0 1 2 ) }$ ,DAPK3表达 $\scriptstyle { ( P = 0 . 0 4 0 ) }$ ，c-Myc表达（ $scriptstyle \left( P = 0 . 0 0 9 \right)$ 和组合模型表达（ $\scriptstyle P = 0 . 0 0 4 )$ 和子宫内膜癌患者预后相关。将这些临床参数进行Cox比例风险回归模型分析，我们发现FIGO分期( $\scriptstyle P = 0 . 0 0 8 ,$ ）、组织学分级（ $\scriptstyle P = 0 . 0 3 4 ,$ 、肌层浸润程度 $( P { = } 0 . 0 2 7 )$ 和c-Myc表达( $\scriptstyle P = 0 . 0 0 7 ,$ 是影响子宫内膜癌患者预后的独立因素(表3)。
+
+# 3讨论
+
+作为凋亡激酶家族的一员，DAPK3介导包括细胞凋亡、细胞增殖、平滑肌收缩、炎症反应等多种过程。最近的一项研究提出，DAPK3可能在肿瘤细胞中突变从而失去其促凋亡功能,进而导致肿瘤的进展[13]。根据其对细胞的促凋亡作用，许多学者认为DAPK3可抑制肿瘤细胞进展[67]。然而，又有研究表明[14],DAPK3可能通过NF- $\kappa \mathbf { B }$ 通路促进胃癌的侵袭和转移。这些研究都赞同一个观点：在肿瘤细胞中DAPK3低表达比高表达有更差的生存预后。本次实验结果表明，低表达的DAPK3与子宫内膜癌患者的预后负相关，即DAPK3低表达患者要比高表达DAPK3患者的生存时间短，这一结果与前人研究一致。本次实验表明DAPK3在子宫内膜癌中表达量下调，并在不同FIGO分期，组织学分级，淋巴结转移状态和肌层浸润程度时的表达差异具有统计学意义。目前也没有关于DAPK3在子宫内膜癌进展中所起作用的任何报道。如今，随着早期诊断技术的提高，超过 $8 5 \%$ 的子宫内膜癌患者能在早期发现并得到有效治疗。但是依然有部分患者未能在早期及时发现并治疗，肿瘤转移和侵袭成为造成子宫内膜癌患者死亡的主要原因[15-17]。FIGO分期,淋巴转移和肌层浸润是与肿瘤侵袭转移相关的临床指标。因此，我们推测，低表达的DAPK3可能促进子宫内膜癌的侵袭和转移。同时我们发现，DAPK3的表达量在不同组织学分级时也有显著差异进一步说明DAPK3和参与了子宫内膜癌的预后和发展过程。越来越多的证据表明，DAPK3参与了肿瘤的致病过程，虽然目前并没有关于DAPK3在子宫内膜癌中的报道，但是，我们有理由相信，DAPK3可能对子宫内膜癌治疗和预后判断产生影响。
+
+c-Myc是原癌基因Myc家族中的一员，是核内受异常 $\mathrm { \Delta W n t }$ 通路调控的最重要的靶癌基因，参与细胞的增殖、分化与凋亡，在肿瘤的发生发展中通过多种途径发挥作用[18]。已有研究表明,在多种肿瘤细胞中存在c-Myc的过度表达[19-21],如Burkitt淋巴瘤、弥漫型大B细胞淋巴瘤、结肠癌、胃癌、胶质母细胞瘤、黑色素瘤等，同时它的过度表达与患者的预后显著相关。另有研究表明，c-Myc的过度表达参与了子宫内膜癌细胞分化、起始和进展等多个过程9]。我们的实验结果显示c-Myc在子宫内膜癌中表达上调，表达量在不同FIGO分期和不同淋巴结转移状态时，表达差异具有统计学意义。进一步表明了c-Myc还影响着子宫内膜癌的侵袭转移过程。本次实验发现，c-Myc的高表达与子宫内膜癌患者的预后呈负相关,c-Myc高表达的患者比之c-Myc低表达的患者预后更差。这些实验结果和其他学者的研究结果一致，再次验证c-Myc在肿瘤细胞的发生发展过程中发挥着重要作用，对患者的预后有显著影响。
+
+表2DAPK3与c-Myc共表达模型与子宫内膜癌临床参数之间的关系 Tab.2Correlation between the clinicopathologic characteristics and DAPK3 and c-Myc co-expression patterns in EC   
+
+<html><body><table><tr><td rowspan="2">Characteristics</td><td rowspan="2">n</td><td colspan="5">DAPK3 and c-Myc co-expression patterns</td></tr><tr><td>DH ML</td><td>DH MH</td><td>DL MH</td><td>DL ML</td><td>P</td></tr><tr><td>Age (year)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><50</td><td>42</td><td>12</td><td>11</td><td>11</td><td>18</td><td rowspan="2">0.016</td></tr><tr><td>≥50</td><td>90</td><td>22</td><td>7</td><td>42</td><td>19</td></tr><tr><td>Family history of tumor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Negative</td><td>111</td><td>29</td><td>13</td><td>46</td><td>23</td><td rowspan="2">0.523</td></tr><tr><td>Positive</td><td>21</td><td>5</td><td>5</td><td>7</td><td>4</td></tr><tr><td>Menopausal status</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Premenopausal</td><td>73</td><td>16</td><td>12</td><td>29</td><td>16</td><td rowspan="2">0.561</td></tr><tr><td>Postmenopausal</td><td>59</td><td>18</td><td>6</td><td>24</td><td>11</td></tr><tr><td>Complications</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>No</td><td>90</td><td>23</td><td>15</td><td>35</td><td>17</td><td rowspan="2">0.501</td></tr><tr><td>Yes</td><td>42</td><td>11</td><td>3</td><td>18</td><td>10</td></tr><tr><td>FIGO stage</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I+ II</td><td>112</td><td>21</td><td>18</td><td>48</td><td>25</td><td rowspan="2"><0.001</td></tr><tr><td>Ⅲ</td><td>20</td><td>13</td><td>0</td><td>5</td><td>2</td></tr><tr><td>Histological Grade</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>G1</td><td>56</td><td>17</td><td>11</td><td>16</td><td>12</td><td rowspan="3">0.096</td></tr><tr><td>G2</td><td>57</td><td>12</td><td>3</td><td>29</td><td>13</td></tr><tr><td>G3</td><td>19</td><td>5</td><td>4</td><td>8</td><td>2</td></tr><tr><td>Lymph node status</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Negative</td><td>115</td><td>23</td><td>28</td><td>48</td><td>26</td><td rowspan="2">0.001</td></tr><tr><td>Positive</td><td>17</td><td>11</td><td>0</td><td>5</td><td>1</td></tr><tr><td>Myometrium Invasion</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><1/2</td><td>95</td><td>21</td><td>10</td><td>41</td><td>23</td><td rowspan="2">0.064</td></tr><tr><td>≥1/2</td><td>37</td><td>13</td><td>8</td><td>12</td><td>4</td></tr></table></body></html>
+
+D=DAPK3; $\scriptstyle \mathbf { M } = \mathbf { c }$ -Myc;L=low expression;H=high expression.
+
+Fig.3Co-expression of DAPK3 and c-Myc predicts EC patients'overall survival time.
+
+1.0 Gnuinnn inl 8866 P=0.002 High expression of DAPK3 and low expression of c-Myc 0.4- High expression of DAPK3 and high expression of c-Myc 0.2 Low expression of DAPK3 and high expression of c-Myc 0.0 Low expression of DAPK3 and low expression of c-Myc 0 20 40 60 80 100 120 Overall survival time (month)
+
+表3子宫内膜癌单因素变量和多因素变量的COX回归分析 Tab.3 Summary of univariate and multivariate Cox regression analysis   
+
+<html><body><table><tr><td rowspan="2">Parameter</td><td colspan="3">Univariate analysis</td><td colspan="3">Multivariate analysis</td></tr><tr><td>HR</td><td>95% CI</td><td>P</td><td>HR</td><td>95% CI</td><td>P</td></tr><tr><td>Age (year)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><5 vs.≥50</td><td>1.75</td><td>0.58-5.32</td><td>0.325</td><td></td><td></td><td></td></tr><tr><td>Family history of tumor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Negative vs. positive</td><td>0.30</td><td>0.04-2.26</td><td>0.243</td><td></td><td></td><td></td></tr><tr><td>Menopausal status</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Premenopausal vs. postmenopausal</td><td>0.69</td><td>0.26-1.83</td><td>0.453</td><td></td><td></td><td></td></tr><tr><td>Complications</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>With us.without</td><td>0.42</td><td>0.12-1.46</td><td>0.172</td><td></td><td></td><td></td></tr><tr><td>Postoperative radiotherapy</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>With vs.without</td><td>2.28</td><td>0.52-9.97</td><td>0.275</td><td></td><td></td><td></td></tr><tr><td>Postoperative chemotherapy</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>With us. without</td><td>2.81</td><td>0.99-8.00</td><td>0.053</td><td></td><td></td><td></td></tr><tr><td>Postoperative hormone therapy</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>With vs.without</td><td>0.40</td><td>0.14-1.13</td><td>0.084</td><td></td><td></td><td></td></tr><tr><td>FIGO stage</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I vs. II vs. III</td><td>2.80</td><td>1.68-4.65</td><td><0.001</td><td>5.104</td><td>1.52-17.16</td><td>0.008</td></tr><tr><td>Histological grade</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>G1 vs. G2 vs. G3</td><td>3.43</td><td>1.70-6.92</td><td>0.001</td><td>2.165</td><td>1.06-4.42</td><td>0.034</td></tr><tr><td>Lymph node status</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Negative vs. positive</td><td>6.50</td><td>2.50-16.92</td><td><0.001</td><td>0.852</td><td>0.09-8.40</td><td>0.891</td></tr><tr><td>Depth of myometrial invasion</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><1/2 vs.≥1/2</td><td>3.33</td><td>1.31-8.44</td><td>0.012</td><td>3.790</td><td>1.16-12.35</td><td>0.027</td></tr><tr><td>c-Myc expression</td><td>7.02</td><td>1.61-30.55</td><td>0.009</td><td>10.01</td><td>1.88-53.33</td><td>0.007</td></tr><tr><td>DAPK3 expression</td><td>0.21</td><td>0.05-0.93</td><td>0.040</td><td>0.226</td><td>0.037-1.40</td><td>0.109</td></tr><tr><td>Model expression</td><td>1.26</td><td>0.80-1.98</td><td>0.326</td><td></td><td></td><td></td></tr></table></body></html>
+
+组合表达模型更深层次分析了子宫内膜癌中DAPK3和c-Myc的表达情况。实验表明，在不同FIGO分期和不同淋巴结转移状态时，DAPK3和c-Myc组合表达差异具有统计学意义。DAPK3低表达/c-Myc高表达组患者较其他组患者的预后更差。然而目前并没有关于DAPK3和子宫内膜癌的研究，仅有研究指出下调表达的DAPK3与胃癌等其他肿瘤的侵袭转移和预后相关[7-8]。通过Spearman相关分析得出DAPK3和c-Myc在子宫内膜癌中的表达呈负相关。DAPK3和c-Myc在子宫内膜癌中所呈现的相反表达情况让我们推测在子宫内膜癌中，高表达的c-Myc可能抑制了DAPK3对肿瘤细胞的促凋亡等有利作用，低表达DAPK3促进子宫内膜癌的进展，从而影响子宫内膜癌的预后。此外，TrinathP.Das等人证实AKT在前列腺癌中负性调控
+
+DAPK3的促调亡功能2，Puto等也验证DAXX核转录因子能抑制DAPK1和DAPK3在前列腺癌中的凋亡功能[23]。c-Myc通过参与调控其他基因的表达,在肿瘤的发生发展和预后方面有着很重要的作用，并且一些抑癌因子如P53、PTEN等会发生突变从而促进肿瘤的发生和发展，因此我们猜想在子宫内膜癌中，c-Myc的调控可能导致DAPK3功能受到抑制，表达降低。迄今为止，有关DAPK3和c-Myc在子宫内膜癌中相关性的研究还未见报道，将来有待我们更加深入地研究与探讨，如果能证实DAPK3和c-Myc相互作用，从而影响子宫内膜癌的滞留过程，就能更有针对性地为子宫内膜癌的治疗提供有效信息。
+
+迄今为止，多数学者认为子宫内膜癌的发生、发展是多种因素参与、多步骤的复杂过程，包括激素调节，基因突变，粘附分子，细胞凋亡等，但其发病的具体机制仍不明确[24]，发现新的肿瘤标志物能够对早期诊断和治疗提供更有效的信息，也可有效评估患者预后，具有重大意义。Cox比例风险回归模型分析揭示c-Myc的表达是影响子宫内膜癌预后的独立因素。因此,监测c-Myc的表达情况可能成为判断子宫内膜癌恶性程度、评估预后的新指标。尽管DAPK3表达不是影响子宫内膜癌预后的独立因素，但它依旧参与了子宫内膜癌的致病机制，与子宫内膜癌的发展、转移、预后有关，对于研究子宫内膜癌的生物学行为，判断其危害性具有重要意义，当然这个结果也可能是子宫内膜癌相对较高的生存率导致。另外，本次实验只用了132例标本揭示DAPK3和c-Myc在子宫内膜癌中的表达情况，我们将扩大标本量和坚持长期随访来支持验证我们的研究结果。
+
+通过本次实验，我们首次揭示低表达的DAPK3可能参与子宫内膜癌的临床进展并导致较差的患者预后；异常表达的DAPK3和c-Myc都是影响子宫内膜癌临床进展和预后的重要因素，且高表达c-Myc是影响子宫内膜癌预后的独立因素。此外,DAPK3和c-Myc的表达呈负相关提示我们需要进一步探讨二者在子宫内膜癌中的生物学功能，为子宫内膜癌的基因诊断和治疗提供更加全面、详实的资料。
+
+# 参考文献：
+
+[1]Morice P, Leary A,Creutzberg C,et al. Endometrial cancer[J]. Lancet,2016,387(123):1094-108.   
+[2]Matias Guiu X,Prat J.Molecular pathology of endometrial carcinoma[J].Histopathology,2013,62(1):111-23.   
+[3]Baser E,Gungor T, Togrul C,et al. Preoperative prediction of poor prognostic parameters and adjuvant treatment in women with pure endometrioid type endometrial cancer: what is the significance of tumor markers?[J].EurJGynaecol Oncol,2014,35(5): 513-8.   
+[4]Patsner B, Yim GW.Predictive value of preoperative serum CA-125 levels in patients with uterine cancer: The Asian experience 2OOO to 2012[J]. Obstet gynecol sci, 2013,56(5): 281-8.   
+[5]Shu Ming H,Fuqi X,Hong S,et al.Determination of CA-125 levels in the serum,cervical and vaginal secretions,and endometrium in Chinese women with precancerous disease or endometrial cancer [J].Med Sci Monitor Inte Med J Exper Clin Res,2011,17(11): R618.   
+[6]Usui T, Okada M, Yamawaki H. Zipper interacting protein kinase (ZIPK): function and signaling[J].Apoptosis,2014,19(2): 387-91.   
+[7]Bi J,Lau SH,Hu L,et al.Downregulation of ZIP kinase is associated with tumor invasion,metastasis and poor prognosis in gastric cancer[J].Int JCancer,2009,124(7):1587-93.   
+[8]Mallipeddi R, Wessagowit V, South AP, et al. Reduced expression of insulin-likegrowthfactor-bindingprotein-3(IGFBP-3）in Squamouscell carcinoma complicating recessive dystrophic epidermolysis bullosa[J].JInvest Dermatol,2004,122(5):1302-9.   
+[9]Bai MK,Costopoulos JS,Christoforidou BP,et al. Immunohistochemical detection of the c-myc oncogene product in normal, hyperplastic and carcinomatous endometrium[J]. Oncology,1994, 51(4): 314-9.   
+[10] Dang CV,Resar LM,Emison E,et al. Function of the c-Myc oncogenic transcription factor[J].Exp Cell Res,1999,253(1): 63-77.   
+[11] Liu Z, Yang H, Luo W, et al. Loss of cytoplasmic KLF4 expression iscorrelatedwith the progression and poor prognosisof nasopharyngealcarcinoma[J].Histopathology2013,63(3):3670.   
+[12]LiX,Gao Y,Tan M,et al. Expresson of HE4 in endometrial cancer and its clinical significance[J]. Biomed Res Int,2015(13): 437468.   
+[13] Brognard J,Zhang YW, Puto LA,et al. Cancer-associated lossof-function mutations implicate DAPK3 asa tumor-suppressing kinase[J]. Cancer Res,2011,71(8): 3152-61.   
+[14]Li J,Deng Z,Wang Z,etal. Zipper-interacting protein kinase promotesepithelial-mesenchymaltransition,invasionand metastasis through AKT and NF-kB signaling and is associated with metastasis and poor prognosis in gastric cancer patients [J]. Oncotarget,2015,6(10): 8323-38.   
+[15]Wen SY,Li CH,Zhang YL，et al. Rictor is an Independent prognostic factor for endometrial carcinoma［J].Int J Clin Exp Pathol,2014,7(5): 2068-78.   
+[16] Wang L,Jiang Q, Hua S,et al. High nuclear expression of HDGF correlates with disease progression and poor prognosis in human endometrial carcinoma[J].Dis Markers,2014(1): 298795.   
+[17]Nicolaije KH, Ezendam NM, Vos MC,et al.Follow-up practice in endometrial cancer and the association with patient and hospital characteristics:A study from the population-based PROFILES registry[Dataset][J]. Gynecol Oncol,2013,129(2): 324-31.   
+[18]Cole MD.The myc oncogene:its role in transformation and differentiation[J].Annu Rev Genet,1986,20(20): 361-84.   
+[19] Vita M,Henriksson M.The Myc oncoprotein as a therapeutic target for human cancer[J]. Semin Cancer Biol,2006,16(4): 318-30.   
+[20] Wu X,Cai ZD,Lou LM, et al. Expressions of p53,c-MYC,BCL-2 and apoptotic index in human osteosarcoma and their correlations with prognosis of patients[J].Cancer Epidemiol,2012,36(2): 212-6.   
+[21] Xu AG,Li SG,Liu JH,etal.Function ofapoptosisand expessio of the proteins Bcl-2,p53 and C-myc in the development of gastric cancer[J]. World JGastroenterol,2001,7(3): 403-6.   
+[22] Das TP,Suman S,Papu John AM,et al．Activation of AKT negatively regulates the pro-apoptotic function of death-associated protein kinase 3 (DAPK3) in prostate cancer[J]. Cancer Lett 2016: 028.   
+[23] Puto LA,Brognard J,Hunter T. Transcriptional repressor DAXX promotesprostate cancer tumorigenicity via suppression of autophagy[J].JBiol Chem,2015,290(25): 15406-20.   
+[24]吴晓云,张 甦,陈爱琴,等.子宫内膜癌中基质金属蛋白酶及其组织抑 制因子的表达与临床意义[J].实用妇产科杂志,2004,20(1):22-4. (起座)

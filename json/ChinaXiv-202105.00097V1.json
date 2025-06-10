@@ -1,0 +1,392 @@
+[
+    {
+        "type": "text",
+        "text": "重复经颅磁刺激对轻度认知障碍的干预效果",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈娟何昊¹²杨丹丹」关青12(1深圳大学脑疾病与认知科学研究中心；²深港脑科学创新研究院，深圳518060)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 轻度认知障碍(mild cognitive impairment,MCI)是介于正常认知老化和老年痴呆的中间状态，目前尚无有效的药物治疗方案。重复经颅磁刺激(repetitive transcranial magneticstimulation,rTMS)可通过诱导突触可塑性的改变来改善大脑的认知功能。对rTMS干预MCI认知功能的有效性及神经机制进行分析。未来研究应优化定位手段，延长对干预效果的随访评估，考察不同刺激参数和刺激靶区对干预有效性的影响，以及结合脑成像技术来探索rTMS 的干预机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词轻度认知障碍，非药物干预，经颅磁刺激，TMS分类号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "轻度认知障碍(mild cognitive impairment,MCI)是介于正常认知老化和老年痴呆的中间状态，但未累及日常活动(Petersen et al.,1999)。目前，除了MCI概念的提出者 Petersen(1999)之外，美国国立老化研究所和阿尔茨海默病协会(National Institute on Aging and Alzheimer'sAssociation,NIA-AA)、阿尔茨海默病神经影像学协作组织(Alzheimer's Disease NeuroimagingInitiative,ANDI)、美国精神病学协会(American Psychological Association,APA)也制订了各自的 MCI 诊断标准(Albert et al.,2011;Weiner et al.,2016; APA,2000)。这些标准的共同之处在于：采用神经心理学测验对认知功能进行评估，排除由痴呆引起的认知功能下降，强调 MCI个体的日常活动不受累及；其不同之处为：NIA-AA未纳入主诉记忆障碍，并把除记忆损伤之外的其他认知功能损伤也纳入到诊断标准中(Albert et al.,2011)；Petersen(1999)和APA(2000)则对 MCI患者的生活能力进行详细划分，包括一般认知功能、日常生活活动功能和社会功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MCI患者的认知损伤主要表现在记忆域，涉及情景记忆、语义记忆、工作记忆等方面，表现为记忆容量减少、记忆保持和巩固能力降低(Leukocyte＆ Summers,2014;Supasitthumrong et al.,2019)。MCI患者的情景记忆损伤与海马灰质密度降低、后扣带回激活减弱以及默认网络活跃度降低有关(Venneri et al.,2019; Chetelat et al.,2003; Ries et al.,2006;Brier et al.,2014)。其语义记忆损伤与颞中回萎缩有关(Venneri et al.,2019)。此外，在执行语义记忆任务时，MCI患者前颞网络的功能连接增强(前颞网络主要由嗅周皮质、内嗅皮层、海马头、杏仁核和外侧颞叶组成)，这可能是机体为应对认知功能损伤而形成的代偿机制(Gour etal.,2011)。在执行工作记忆任务时，MCI患者左侧额叶、右侧额上回和左侧聂叶的氧合血红蛋白浓度较低(Niu et al.,2013)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除了记忆功能，MCI患者的注意、语言和言语及执行功能也出现损伤。MCI患者的注意功能损伤主要体现在注意转换及定向能力、选择性注意与注意分配方面(Okonkwo et al.,2008;Fermandez et al.,2011; Charette et al.,2020)。注意功能受损与前额叶活动减弱有关(Dannhauser et al.,2005)。来自脑电(electroencephalography,EEG)研究的证据显示，MCI 患者在注意定向任务中表现出β频段振荡能量减弱(Caravaglios etal.,2018)。MCI会累及患者的语言和言语功能，表现为语速减慢、音节更长、发音的清晰度降低(Mueller et al.,2018;Themistocleous et al.,2020)，这与其额叶葡萄糖代谢减低有关(Kim et al.,2010)。此外，学习、跨期决策和风险决策等执行功能受损也是MCI患者的重要临床表现(Wu et al.,2016; Nemethet al.,2013; Seo et al.,2016; Geng et al.,2020; Pertl et al.,2015; Sun et al.,2020)。已有证据显示执行功能受损与海马及前扣带回的萎缩有关(McGough etal.,2018)。此外，前扣带回所属的突显网络在执行功能中发挥关键作用(Dosenbach et al.,2008; Goulden et al.,2014)；新近证据显示，MCI患者表现出突显网络与默认网络、中央执行网络等大尺度脑网络以及全脑功能连接的异常(Chand et al.,2017; Cai et al.,2020)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MCI 患者具有较高的阿尔茨海默病(Alzheimer disease,AD)转化率，其AD 年转化率比认知正常老人高十倍(陶雪琴 等,2016; Breton etal.,2019)。最新的研究数据显示，我国的 MCI患病率已达 $14 \\%$ (张惠玲 等,2020)。然而，更严峻的现实是药物治疗对 MCI的改善效果并不明显(Luber etal.,2013)。因此，科研人员和临床医生开始将目光转向功能性神经调节的无创物理疗法(Cui et al.,2019)。重复经颅磁刺激(repetitive transcranial magnetic stimulation,rTMS)是基于大脑电场电磁感应原理的一种神经刺激和调节技术(Rossi et al.,2009)。它通过线圈在清醒的受试者头皮上产生脉冲磁场，形成无痛感应电流，直接调节受刺激脑区的神经元功能，诱导突触可塑性的改变以及皮层的重组来促进皮层回路的调节(Luber etal.,2013)，进而改善大脑的整体功能(Lefaucheur,2019)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近年来，rTMS 被越来越多地应用到抑郁症、创伤后应激障碍、运动障碍和慢性疼痛等疾病的治疗中(Blades et al.,2020; Brys et al.,2016; Eijndhoven et al.,2020; Nardon et al.,2017;Perera et al.,2016)。事实上，以往研究也表明,rTMS 对包括工作记忆(Beynel et al.,2019; Yanget al.,2019)、语言(Zhao et al.,2017; Myczkowski et al.,2018)以及决策(Rahnev et al.,2016;Guillaume etal.,2018)在内的多项认知功能具有改善作用，其改善效果可持续数天甚至数周(Cotelli et al.,2012;Drumond et al.,2015)。rTMS具有脉冲频率的可调节性及定位精度较高的特点，研究者可通过对 MCI患者的受损脑区实施兴奋或抑制性的rTMS,以改善其认知功能。此外，从神经可塑性的角度来看，rTMS 对 MCI也可能具有干预效果。一方面，rTMS 能够调节突触可塑性(Strafella et al.,2001)，这是记忆和学习(MCI的主要受损认知域)的神经基础(Bliss &Lomo,1973)；另一方面，MCI个体仍保留有突触可塑性(D'Antonio et al.,2019)，具备通过接受神经调控从而改善认知功能的可能性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MCI 的rTMS 研究论文最早发表于 2006年(Sole-Padulles etal.,2006)。近年来该领域的文献数量呈现出增长趋势，但总体数量仍然较少，并且在主要刺激部位的选取、刺激改善的认知域、治疗效果持续时间以及所引发的不良反应等方面仍存在争议。主要的争论点在于，rTMS 干预能够改善MCI患者的哪些认知功能；rTMS 治疗效果的持续性如何以及是否会产生不良反应。鉴于此，本文对该领域的实证研究进行回顾，以期厘清采用rTMS干预MCI认知功能的有效性及其潜在作用机制，并为MCI的rTMS 治疗提供依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1检索策略",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "检索 Web Of Science、PubMed、PsycINFO、中国知网学术期刊数据库(CNKI)，搜集应用rTMS干预MCI的中英文文献，检索时限均从建库至2020年11月。同时，追溯纳入研究的参考文献，以补充获取相关文献，确保检索全面。检索采取主题词与自由词相结合的方式，检索英文文献时的检索词包括 transcranial magnetic stimulation、TMS、repetitivetranscranial magnetic stimulation、rTMS、cognitive disorder、mild cognitive impairment、cognitivedysfunction。检索中文文献时的检索词包括经颅磁刺激、轻度认知障碍、轻度认知损害、认知障碍、认知损害、TMS、rTMS、MCI。共检索到1437篇英文文献和 29 篇中文文献。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2纳入和排除标准",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "纳入标准： $\\textcircled{1}$ 研究对象：年龄在50周岁以上、非文盲、无地域和性别限制；符合 MCI的诊断标准(由 Petersen、NIA-AA、ADNI、APA 制订的 MCI 诊断标准(Petersen et al.,1999;Albert et al.,2011;Weiner et al.,2016; APA,2000))；无其他导致认知损伤的神经或精神类疾病；无rTMS 禁忌症，如体内无金属植入物。 $\\textcircled{2}$ 干预措施：实验组被试给予rTMS(即，采用某一型号刺激仪，在测量受试者运动阈值后对某一脑区实施重复性的经颅磁刺激；刺激参数如脉冲数、序列、强度和频率及刺激时长等设置为固定值)，对照组给予假性刺激(如使用假线圈)；或分别对实验组和对照组的不同脑区给予刺激，如背外侧前额叶、颞叶、楔前叶;或对实验组和对照组给予不同强度和频率的rTMS。 $\\textcircled{3}$ 结局指标：主要指标包括连线测验、复杂图形测验、语词流畅性测验、蒙特利尔认知测验、简易智力状态量表等认知测验得分；次要指标包括不良反应。 $\\textcircled{4}$ 研究类型：随机对照实验(randomized control trial,RCT)、个案研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "排除标准： $\\textcircled{1}$ 研究对象仅为动物或健康受试者。②rTMS联合药物干预。 $\\textcircled{3}$ 重复报道的文献。 $\\textcircled{4}$ 缺乏必要的用以评估干预效果的结局指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "依照此标准，共筛选出符合要求的文献有11篇。筛选流程如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/864e8277c248bbcde479b30e34a11bd6e709cc3821baaea44b624d4b061430ca.jpg",
+        "img_caption": [
+            "图1文献筛选流程及结果 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3文献质量评价 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用Cochrane风险偏倚评估工具对10项符合标准的RCT研究的偏倚风险进行评价(Higgins etal.,2019)。剩余1项研究为个案研究(Cotelli etal.,2012)，不符合偏倚风险评价条件，故不纳入此质量评估。质量评价内容包括随机序列产生、分配隐藏、对研究者和受试者施盲、研究结果的盲法评价、结局数据的完整性、选择性报告研究结果及其他偏倚。偏倚风险分为\"低风险”、“未知风险\"和\"高风险\"三个等级，偏倚风险评估图见图2。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1e34d1765a4393934caab16e39afeb20690c657c2270cd9d5fb36946adb5a2b.jpg",
+        "img_caption": [
+            "图2纳入研究的偏倚风险比例"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4文献分类 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为探讨rTMS对MCI患者认知功能产生的具体影响，文章经筛选后，根据rTMS所改善的认知功能对纳入文献进行分类，归纳出注意和认知加工速度、执行功能、情景记忆、长时记忆、短时记忆和联想记忆六个方面。相关研究方法及结果详见表1，下面将对11项研究的方法及结果进行分析和总结。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/79b27f174653b94a9cf59e1feb8f52c5dce5047979d72c2b3a8500f3b4ba14e2.jpg",
+        "table_caption": [
+            "表1纳入研究的基本信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">作者(年份)</td><td rowspan=\"2\">样本 量</td><td rowspan=\"2\">刺激区域</td><td rowspan=\"2\">频率，强度(RMT), 总脉冲数/次</td><td rowspan=\"2\">刺激疗程</td><td rowspan=\"2\">定位方法</td><td rowspan=\"2\">结局指标</td><td rowspan=\"2\">所属认知域 注意和认知加工</td></tr><tr><td></td></tr><tr><td>Anderkova et al., 2015</td><td>20</td><td>额下回，颞上回</td><td>10Hz,90%,2250</td><td>1次/天,2天</td><td>神经导航</td><td>1,2,3</td><td>速度</td></tr><tr><td>Eliasova etal., 2014</td><td>10</td><td>右额下回</td><td>10Hz,90%,2250</td><td>1次/天,2天</td><td>神经导航</td><td>1,2,3,28</td><td>注意和认知加工 速度，执行功能</td></tr><tr><td>Taylor et al., 2019</td><td>99</td><td>背外侧前额叶, 顶叶</td><td>10Hz, 120%, 4000</td><td>1次/天,20天</td><td>神经导航</td><td>1,2,11,17, 18,27</td><td>执行功能</td></tr><tr><td>Koch et al., 2018 Drumond et al.,</td><td>14</td><td>楔前叶</td><td>20Hz,100%,1400</td><td>1次/天,5天/周,2周</td><td>神经导航</td><td>7,9 21,22</td><td>情景记忆</td></tr><tr><td></td><td>34</td><td>背外侧前额叶</td><td>10Hz,110%,2000</td><td>1次/天,5天/周,2周</td><td>5cm规则</td><td>20,23,24,25</td><td>情景记忆</td></tr><tr><td>温秀云 等,2018 rziani et al.,</td><td>43</td><td>左背外侧前额叶</td><td>10Hz,80%,400 1Hz, 90% /</td><td>1次/天,5天/周,4周</td><td></td><td>17,23</td><td>情景记忆</td></tr><tr><td>5012</td><td>8</td><td>背外侧前额叶</td><td>50Hz,80%,600</td><td>共2次，每次间隔3周</td><td>神经导航</td><td>5</td><td>长时记忆</td></tr><tr><td>祝本菊 等,2012</td><td>24</td><td>前颞区</td><td>1Hz,80%,600</td><td>1次/天,5天/周,6周</td><td></td><td>4</td><td>长时记忆</td></tr><tr><td>Cui et al., 2019 2 Cotelli et al.,</td><td>21</td><td>右背外侧前额叶</td><td>10Hz,90%,1500</td><td>5天/周,共2周</td><td>5cm规则</td><td>1,2, 7,9, 19</td><td>短时记忆</td></tr><tr><td>2012</td><td>1</td><td>左顶下小叶</td><td>20Hz,100%,2000</td><td>5天/周,2周</td><td>神经导航</td><td>1,2, 6-16</td><td>联想记忆</td></tr><tr><td>Solé-Padulles et al.,2006</td><td>9</td><td>前额叶</td><td>5Hz, 80%,500</td><td>10s 刺激+20s 休息，共 五分钟</td><td></td><td>26</td><td>联想记忆</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注：1连线测验A(Trail MakingTestA)；2连线测验B(Trail Making TestB)；3Stroop干扰测验(StroopTest)；4临床记忆量表(Clinical Memory Scale)；5言语和非言语记忆辨别任务(Verbaland Nonverbal Recognition MemoryTask)；6瑞文彩色推理矩阵(Raven Colored Progressive Matrices);7简易智力状态量表(Mini-Mental State Examination);8故事回忆(Story Recal);9听觉词语学习测验(ReyAuditory VerbalLeamingTest)；10标记测验(TokenTest)；11复杂图形测试(Rey-Osterieth ComplexFigure)；12语词流畅性测验(VerbalFrequency Test)；13数字广度测验(Digit Span Test)；14空间广度测验(Spatial Span Test)；15系列位置曲线任务(Serial Position Curve Task)；16威 斯康星分类卡片测验(Wisconsin Card SortigTest)；17蒙特利尔认知测验(MontrealCognitive AsessmentTest)；18简易视空间记忆测验 修订版(Brief VisuospatialMemoryTestRevised)；9Addenbrooe认知功能检查(Addenbrooke'sCognitive ExaminationII)0逻辑记忆 测试(Logic MemoryTest)；21数字符号转换测验(Digit SymbolSubstitionTest)；22额叶功能评价量表(Frontal Asessment Battery)；23 Rivermead行为记忆测验量表(Rivermead Behavioural Memory Test)；24 字母数字连线测试(Leter-number Sequencing Test)；25动物命 名测验(Animal NamingTest)；26联想记忆测验(Associative Memory Asessment)；27波士顿命名测验(BostonNaming Test)；28复杂视 觉场景编码任务(Complex Visual Scene Encoding Task)。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3纳入研究的基本信息",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "有关刺激部位的选择方面，大部分研究者将靶点定位于背外侧前额叶，另有少量研究者对顶叶、楔前叶、额下回、颞上回等区域实施刺激。定位方法主要有两种，一种是利用神经导航进行精准定位；另一种是选用相对简单的\"5cm 规则”，即在与拇指短展肌对应的皮层刺激点前约 $5 / 5 . 5 \\mathrm { c m }$ 处对大脑实施刺激，这是背外侧前额叶的刺激靶点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "有关rTMS 的刺激频率设置方面，各研究参数不一，但可分为兴奋性刺激(高频， $\\geqslant 5 \\mathrm { H z } )$ 和抑制性刺激(低频， $\\leqslant 1 \\mathrm { H z } )$ 两类，高频rTMS促进神经元兴奋性，而低频rTMS降低神经元兴奋性(Lage etal.,2016)。刺激强度大多采用受试者静息运动阈值的 $8 0 \\% \\sim 1 2 0 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文所纳入的各项研究结果表明，rTMS 能够在一定程度上改善MCI患者的认知功能，并且干预效果在某些认知域中可保持 $1 { \\sim } 6$ 个月(Cotelli et al., 2012; Drumond et al.,2015)。关于刺激所引发的不良反应，共有2项研究报告在实施刺激时受试者感觉头皮疼痛(Anderkovaet al.,2015;Eliasova et al.,2014)。Drumond(2015)的研究发现在刺激后期受试者不良反应慢慢减少，其余研究未观察到rTMS 的潜在不良反应。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4rTMS对MCI的干预效果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1注意和认知加工速度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "认知加工速度是衡量个体认知功能的关键指标之一(Moll etal.,2016)。有研究证实对MCI患者额下回和颞上回实施rTMS 可有效提升其在注意和认知加工速度任务中的成绩，而对头顶(vertex)的刺激未能引发任何认知功能的变化(Anderkova et al.,2015;Eliasova et al.,2014)。额下回和颞上回作为腹侧注意网络的重要组成部分，参与注意定向和转换过程(Corbetta & Shulman,2002)，而额下回的活动减弱会导致注意涣散(Weissman et al.,2006)。此外，有研究表明对帕金森患者右侧额下回实施rTMS，会导致其在认知任务中表现出事件相关电位P3 成分的潜伏期缩短，这表明 rTMS 可提高其认知加工速度(Balaz et al.,2010)。上述结果提示MCI患者注意功能下降可能与包括额下回和颞上回在内的注意网络损伤有关(Liang et al.,2012),rTMS 可通过提高注意网络的兴奋性改善MCI患者在注意任务中的表现。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2执行功能",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "执行功能是一系列的高级认知过程，负责调控个体的思考及行为模式，主要有工作记忆、抑制控制和认知灵活性三个核心成分(Diamond,2013)。Taylor 等人(2019)发现对 MCI患者背外侧前额叶实施兴奋性rTMS 可改善其执行功能,这同Angius 等人(2019)的研究结果相一致，后者发现个体背外侧前额叶活动增强时，其 Stroop 测验成绩得到提高。此外，研究表明 MCI患者背外侧前额叶体积和皮层厚度越大，执行功能成绩越好(Shaked et al.,2018; Zhu et al,2018)，且背外侧前额叶对执行功能的影响呈现偏侧化，即左侧背外侧前额叶与注意有关，右侧与抑制有关(Vanderhasselt et al.,2009)。近期有研究表明，认知控制功能减退可能是 MCI的关键损伤(He etal.,2019)；执行功能障碍会在很大程度上导致 AD 患者的情感和认知功能缺失(Chainay&Gaubert,2020)。然而，目前有关rTMS 干预 MCI个体执行功能的相关研究较少，未来研究需加大对该领域的关注。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3情景记忆 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "情景记忆是对特定时间和地点所发生事件的记忆，其功能损伤是AD前期的核心临床症状(Dubois et al.,2007)。Koch 等人(2018)对 14 名 MCI患者的楔前叶实施rTMS，同时以EEG 记录受试者大脑活动。结果发现，与刺激前相比，MCI患者的情景记忆在其接受刺激后得到显著改善。参与情景记忆提取的脑网络由腹侧楔前叶、腹侧前额叶和内侧颞叶构成(Kaboodvand et al.,2018)。在Koch 等人的研究中，高频 rTMS 对楔前叶的刺激可能促进了MCI患者对情景记忆信息的提取，从而改善其情景记忆成绩。另外,Koch 等人(2018)发现对 MCI患者实施rTMS 后，其楔前叶β频段振荡增强，由于楔前叶活动增加是情景记忆学习的特征之一(Gilmore et al.,2015)，Koch 等人对 MCI 患者楔前叶实施 rTMS 可能是由于rTMS 增强了楔前叶神经细胞的长时程增强作用(Lorenzo etal.,2016)，进而促进了MCI 患者对情景信息的学习和记忆。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除了楔前叶，刺激 MCI患者背外侧前额叶也可提升其情景记忆，且干预有效性可持续30 天(Drumond etal.,2015；温秀云 等,2018)。以往研究表明，大脑左、右侧前额叶分别负责加工情景记忆中的语言和图像信息(Balconi,2013)；在信息加工过程中，激活背外侧前额叶可促进信息编码，有利于长时情景记忆的形成(Blumenfeld& Ranganath,2006)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.4长时记忆 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Turriziani等人(2012)为了比较抑制性rTMS(1Hz)和兴奋性rTMS(50Hz)干预受试者长时记忆的有效性，分别对MCI患者和认知正常老人背外侧前额叶给予rTMS。结果显示，在呈现刺激材料之后，对 MCI患者右背外侧前额叶实施抑制性刺激可显著提高其长时记忆任务成绩。有研究表明在长时记忆评估之前，即受试者进行干扰任务时，抑制其前额叶的活动可改善长时记忆(Karlsson et al.,2015; Keresztes et al.,2014)。此外，Maria等人(2018)发现采用经颅直流电刺激(transcranial direct current stimulation,tDCS)对受试者右背外侧前额叶实施兴奋性刺激，受试者长时记忆成绩会下降。在Turriziani等人(2012)的研究中，MCI患者在进行干扰任务时，被迫对先前所呈现刺激材料的相关记忆进行抑制，不利于其长时记忆的形成。一项功能性磁共振成像(functional magnetic resonance imaging,fMRI)研究的结果显示，受试者在进行干扰任务时，右背外侧前额叶被激活、海马活动减少，这提示了抑制先前的记忆可能阻断了背外侧前额叶与海马的功能连接，从而损害了长时记忆(Anderson et al.,2004)。因此，Turiziani等人(2012)对受试者背外侧前额叶实施抑制性刺激之所以能够改善其长时记忆任务的成绩，可能是因为抑制性rTMS干扰了上述记忆抑制机制。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外，祝本菊等人(2012)对血管源性 MCI(vMCI)和非血管源性 MCI(nvMCI)患者双侧前颞区实施低频rTMS，并采用临床记忆量表对干预效果进行评估，发现两类MCI患者在临床记忆量表上的成绩得到提升，并在事件相关电位上体现为P3成分的潜伏期缩短、波幅增高。此外，vMCI组受试者各项指标的改善显著高于nvMCI组；而健康对照组在无任何干预的情况下存在增龄性的认知功能减退。因为rTMS 干预可以引起局部脑血流量的增加，促进神经细胞的生长(Nadeau et al.,2002)，由于vMCI组有血管性因素存在，所以该组的干预效果更好。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.5短时记忆 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cui等人(2019)发现将高频rTMS作用在右背外侧前额叶可以提升遗忘型MCI患者的短时记忆成绩，随访评估表明干预效果可持续8周。前额叶在短时记忆中具有重要作用。一项动物研究表明，可利用神经肽S来增加小鼠前额叶活动进而改善其因睡眠限制引起的短时记忆损伤(Thomasson et al.,2017)。Tian等人(2018)对小鼠进行双光子成像(two-photon imaging)发现，在内侧前额叶存在着由兴奋性神经元组成的神经元亚群，其在内侧前额叶中可保持几分钟的连接以编码短时记忆。因此，Cui 等人(2019)采用rTMS 刺激 MCI患者背外侧前额叶可能是因为促进了神经元亚群的连接而提高了其短时记忆成绩。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.6联想记忆 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "联想记忆是对两种不相关信息进行学习和存储的记忆，其在个体处理日常事务中具有重要作用(Konkel&Cohen,2009)。Cotelli等人(2012)采用面孔-命名关联记忆任务对遗忘型 MCI患者的联想记忆成绩进行评估，发现应用高频rTMS 对MCI患者左侧顶下小叶实施刺激可提高其联想记忆任务的正确率，且这一改善效果在刺激结束6个月后依然保持，这提示左侧顶下小叶可能在联想记忆的编码和识别过程中发挥了作用,Bjekic等人(2019)应用 tDCS 刺激健康受试者顶叶同样改善了联想记忆，这进一步支持了Cotelli等人(2012)的研究结果。Cotelli在刺激顶叶的同时也可能激活了在联想记忆形成过程中发挥着核心作用的海马(Horecka etal.,2018)，因为后顶叶和海马具有较高强度的功能连接，顶叶活动对记忆表现的贡献与海马后部及其旁侧的激活程度有关(Hoppstädter et al.,2015)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对MCI患者的前额叶实施高频rTMS 同样能够提升其联想记忆成绩。Solé-Padulles等人(2006)将人脸-姓氏记忆任务作为评估工具，并在每次评估时采用 fMRI记录受试者大脑活动的变化。结果显示，在实施rTMS之前，受试者在执行人脸-姓氏任务时所激活的脑区包括额叶、顶叶、扣带回和小脑，而在接受rTMS 后，其右侧额下回、额中回、枕中回和枕下回激活程度更高，联想记忆成绩也得到显著提升，提示了MCI患者联想记忆的代偿脑网络机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5小结与展望 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文系统回顾了近年来MCI领域的rTMS 研究，对rTMS改善MCI的主要认知功能及潜在作用机制进行了分析。结果表明rTMS干预对MCI患者认知功能的提升具有较好效果，改善的认知域包括注意和认知加工速度、执行功能、情景记忆、长时记忆、短时记忆和联想记忆。此外，rTMS的干预效果可保持30天、8周、6个月不等。rTMS 以其安全无创、耐受性良好、且具有持续作用的优点受到研究者广泛关注。然而，当前MCI领域的rTMS 研究仍存在着一些不足，未来研究可从以下四个方面加以改进。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第一，优化操作方法。目前部分研究者仍采用传统的“5cm规则”方法定位背外侧前额叶，该方法虽然简单易行，但存在定位不准确的局限(Ahdab et al.,2010)。未来应尽量使用基于磁共振结构成像的神经导航或无框架立体定向导航系统的定位方法。另外，部分研究者在假刺激组采用将线圈倾斜的方法形成对照组，但这种方法在实际操作过程中仍然可以对大脑产生一些电压(Lisanby etal.,2001)，未来可使用假线圈来设置对照组。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第二，从样本量和效果评估两个方面考察rTMS 对 MCI的干预效果。本文所纳入的 MCI的rTMS干预研究的总样本量为283人，平均每项研究所纳入的受试者仅25 名，这对推广rTMS 治疗MCI是远远不够的，未来研究应增加样本量。对于干预效果的随访评估，不同研究的追踪时长差异较大，最长的追踪时长为6个月，最短的为1周。未来研究应对认知功能的改善做更长时间的随访评估，以便更为全面地评价rTMS的干预效果。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第三，探索不同刺激参数和刺激靶点对干预有效性的影响。目前比较不同刺激参数对 MCI患者认知功能影响的研究仅有1项(Turrizianietal.,2012)，比较不同刺激靶点干预有效性的研究仅有2项(Anderkovaetal.,2015；Taylor et al.,2019)。刺激参数方面，以刺激频率为例：目前对MCI的rTMS干预以高频刺激为主，仅有2项研究实施低频刺激(Turriziani etal.,2012；祝本菊等,2012)，发现低频刺激同样对认知功能产生积极作用，未来应系统考察rTMS各项刺激参数设置与干预有效性之间的关系。刺激靶点方面，目前研究者选取的刺激脑区有背外侧前额叶、顶叶、颞叶、楔前叶，对其它脑区的刺激有效性知之甚少。采用怎样一套刺激参数、选取哪个脑区实施刺激干预效果最佳，这一问题应在未来展开深入探索。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第四，应用脑电和脑成像技术考察rTMS干预MCI的神经机制。EEG具有高时间-频率分辨率，能够反映各大脑皮层活动的动态变化及频带振荡(Bortoletto etal.,2015)；fMRI的高空间分辨率有利于揭示受试者在进行认知活动时的局部脑区及脑网络活动状态(Chandra etal.,2019)。未来研究应考虑如何合理、便利地将这些技术应用到MCI的rTMS研究中。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n陶雪琴，廖雄，李梦倩，王乃博，李兰，杨晨辉，吴磊.(2016)．社区老年人轻度认知功能障碍的流行病学调 查．中国老年学杂志,36(13),3283-3286.   \n温秀云，曹雪丽，邱国荣，窦祖林，陈尚杰.(2018).重复经颅磁刺激对遗忘型轻度认知障碍的影响．中国老 年学杂志,38(07),1662-1663.   \n张惠玲，钟冬灵，李涓，刘勇国，金荣疆.(2020).中国老年轻度认知障碍患病率的系统评价．中国循证医学 杂志,20(01),17-25.   \n祝本菊，姜美娟，陶华英.(2012).重复经颅磁刺激对不同类型轻度认知障碍的干预作用．中国老年学杂志, 32(07),1366-1368.   \nAhdab,R., Ayache,S. S.， Brugieres， Goujon,C.，& Lefaucheur, J. P. (2010). Comparison of “standard” and “navigated” procedures of TMS coil positioning over motor, premotor and prefrontal targets in patients with chronic pain and depression. Neurophysiologie Clinique/Clinical Neurophysiology, 40(1),27-36.   \nAlbert,M.S.,DeKosky,S.T.,Dickson,D.,Dubois,B.,Feldman,H.H.,Fox,N.C,..Phelps,C.H.(2011).The diagnosis of mild cognitive impairment due to Alzheimer's disease: Recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease. Alzheimer's& dementia : the journal of the Alzheimer's Association, 7(3),270-279.   \nAnderkova,L.,Eliasova,I., Marecek,R.,Janousova,E,&Rektorova,I. (2O15).Distinct patter of graymatter atrophy in mild Alzheimer's disease impacts on cognitive outcomes of noninvasive brain stimulation. Journal ofAlzheimer's Disease, 48(1),251-260.   \nAnderson,M.C.,Ochsner,K.N.,Kuhl,B.,Cooper,J.,Andreou,E.,Gabrieli,S.W.,& Gabrieli,J.D.(2004). Neural systems underlying the suppression of unwanted memories. Science, 303(5655), 232-235.   \nAngius,L.,Santarnecchi,E.,Pascual-Leone,A.,& Marcora,S.M.(2Ol9).Transcranial direct currnt stimulation over the left dorsolateral prefrontal cortex improves inhibitory control and endurance performance in healthy individuals. Neuroscience, 419,34-45.   \nAPA. (200). Diagnostic and Statistical Manual of Mental Disorders. 4th Edition,Text Revision(DSM-IV-TR). American Psychological Association. Washington, DC.   \nBalaz,M.,Srovnalova, H.,Rektorova,I.,& Rektor,I. (20l0).The effect ofcorticalrepetitive transcranial magnetic stimulation on cognitive event-related potentials recorded in the subthalamic nucleus.Experimental Brain Research, 203,317-327.   \nBalconi, M. (20l3). Dorsolateral prefrontal cortex,working memory and episodic memory processs: Insight through transcranial magnetic stimulation techniques. Neuroscience Bulletin, 29(3),381-389.   \nBeynel,L.,Davis,S.W., Crowell, C.A., Hilbig,S.A.,Lim, W., Nguyen,D.,& Appelbaum,L. G. (2019). Online repetitive transcranial magnetic stimulation during working memory in younger and older adults: A randomized within-subject comparison.PLoS ONE,14(3), e0213707.   \nBjekic,J.,Colic, M.V., Zivanovic,M.,Milanovic, S.D.,& Filipovic, S.R. (2019). Transcranial direct current stimulation (tDCS) over parietal cortex improves associative memory. Neurobiology of Learning and Memory, 157,114-120.   \nBlades,R.,Jordan,S.，Becerra,S.，Eusebio,B.,& Kuhn,T. (2O2O).Treating dissociative post-traumatic stress disorder presenting as a functional movement disorder with transcranial magnetic stimulation targeting the cingulate gyrus. Neurological Sciences, 41(8),2275-2280.   \nBliss,T.V.，& Lomo,T. (1973).Long-lasting potentiation of synaptic transmission in the dentate area of the anaesthetized rabbit following stimulation of the perforant path.The Journal of Physiolgy,232(2),331-356.   \nBlumenfeld,R. S.,& Ranganath, C. (2oo6). Dorsolateral prefrontal cortex promotes long-term memory formation through its role in working memory organization. The Journal of Neuroscience, 26, 916-925.   \nBortoletto,M., Veniero,D.,Thut,G.,& Miniusi, C.(2015).The contribution of TMS-EEG coregistration n the exploration of the human cortical connectome. Neuroscience and Biobehavioral Reviews, 49,114-124.   \nBreton,A.，Casey，D.，& Armaoutoglou,N.A. (2019). Cognitive tests for the detection of mild cognitive impairment(MCI)， theprodromalstageofdementia:Meta-analysisofdiagnosticaccuracy studies. International journal of geriatric psychiatry,34(2),233-242.   \nBrier,M.R., Thomas,J. B.,& Ances, B.M. (2014). Network dysfunction in Alzheimer's disease: Refining the disconnection hypothesis. Brain connectivity, 4(5),299-311.   \nBrys,M.,Fox, M. D.Agarwal, S., Biagioni, M., Dacpano,G., Kumar,P.,& Fernandez, H. (2016). Multifocal repetitive TMS for motor and mood symptoms of Parkinson disease: A randomized trial. Neurology, 1907-1915.   \nCai, C.，Huang,C.，Yang, C.，Lu,H.，Hong,X.，Ren,F.，. Ng, E.(202O).Altered patterns of functional conectivity and causal connectivity in salience subnetwork of subjective cognitive decline and amnestic mild cognitive impairment. Frontiers in neuroscience,14,288.   \nCaravaglios,G.,Castro,G.,Muscoso,E.G.,Criveli,D.,&Balconi,M. (2018). Beta responses in healthy elderly and in patients with amnestic mild cognitive impairment during a task of temporal orientation of attention. Clinical EEG and neuroscience, 49(4),258-271.   \nChainay,H.,& Gaubert,F.(202O). Affective and cognitive theory of mind in Alzheimer's disease: The role of executive functions. Journal of Clinical and Experimental Neuropsychology, 42(2),1-16.   \nChand,G.B.,Wu,J.,Hajr,I,& Qiu,D.(2O17). Interactionsof the salience network and its subsystems withthe default-mode and the central-executive networks in normal aging and mild cognitive impairment. Brain connectivity, 7(7), 401-412.   \nChandra, A.， Dervenoulas,G.，Politis，M.,& Alzheimer's Disease Neuroimaging Initiative. (2019).Magnetic resonance imaging in Alzheimer's disease and mild cognitive impairment. Journal of neurology,266(6), 1293-1302.   \nCharette,C.,Blanchet, S.,Maganaris,C.N. Baltzopoulos,V.,& McFadyen,B.J. (2020). Community-dwelling older adults with mild cognitive impairments show subtle visual attention costs when descending stairs. Human movement science, 69,102561.   \nChetelat,G.,Desgranges,B.,de la Sayette,V., Viader,F.,，Berkouk,K.,Landeau,B.，.Eustache,F.(2003). Dissociating atrophy and hypometabolism impact on episodic memory in mild cognitive impairment. Brain : a journal of neurology, 126(Pt 9), 1955-1967.   \nCorbetta,M.,& Shulman, G.L. (2O02). Control of goal-directed and stimulus-driven atention in the brain. Nature Reviews. Neuroscience, 3(3),201-215.   \nCoteli,M.,Calabria,M.,Manenti,R.,Rosini,S.,Maioli,C.,Zaneti,O.,&Miniussi,C. (20l2).Brainstimulation improves associative memory in an individual with amnestic mild cognitive impairment. Neurocase,18(3), 217-223.   \nCui, H.,Ren,R.,Lin, G., Zou,Y., Jiang,L., Wei, Z.,& Wang, G. (2019).Repetitive transcranial magnetic stimulation induced hypoconnectivity within the default mode network yields cognitive improvements in amnestic mild cognitive impairment: A randomized controled study. Journal of Alzheimer's Disease: JAD, 69(4), 1137-1151.   \nDannhauser,T.M., Walker,Z.,Stevens,T.,Lee,L.,Seal,M.,& Shergill,S.S.(20o5).The functional anatomyof divided atention in amnestic mild cognitive impairment. Brain : a journal of neurology， 128(Pt 6), 1418-1427.   \nD'Antonio,J.,Simon-Pearson,L.,Goldberg,T.,Sneed,J.R.,Rushia,S.,Kerer,N.,A.,..Devanand,D.(019). Cognitive training and neuroplasticity in mild cognitive impairment (COG-IT):Protocol for a two-site, blinded, randomised, controlled treatment trial. BMJ Open, 9(8), e028536.   \nDiamond,A. (2013). Executive functions. Annual Review of Psychology, 64(1), 135-168.   \nDosenbach, N. U.，Fair,D.A. Cohen,A.L.， Schlaggar,B.L.，& Petersen,S.E. (2008). A dual-networks architecture of top-down control. Trends in cognitive sciences, 12(3), 99-105.   \nDrumond, M., Myczkowski, M.L.,Maia M. C.,Arnaut,D., Leite R.P., Sardinha M. C. G.,& Marcolin, M. A. (2015). Transcranial magnetic stimulation to address mild cognitive impairment in the elderly: Arandomized controlled study. Behavioural Neurology, 287843.   \nDubois,B.,Feldman,H.H.,Jacova, C.,&Dekosky,S.T. (2o07).Research criteria for the diagnosis ofAlzheimer's disease: revising the NINCDS-ADRDA criteria. The Lancet. Neurology, 9(8),21-32.   \nEijndhoven,P.F.P.,Bartholomeus,J.,Mobius,M.,De Bruijn,A.,Ferrari,G.R.A.,Mulders,P.,&Tendolkar,I. (2020).A randomized controlled trial of a standard 4-week protocol of repetitive transcranial magnetic stimulation in severe treatment resistant depression. Journal of Affective Disorders, 274, 444-449.   \nEliasova,I.,Anderkova,L.,Marecek,R.,& Rektorova,I. (2014).Non-invasive brain stimulation of the right inferior frontal gyrus may improve attention in early Alzheimer's disease: A pilot study. Journal of the Neurological Sciences, 346(1),318-322.   \nFernandez,P.J.,Campoy,G.,Garcia Santos,J.M.,Antequera,M. M., Garcia-Sevila,J.,CastiloA.,..Fuentes,L. J. (2011). Is there a specific pattern of attention deficit in mild cognitive impairment with subcortical vascular features? Evidence from the atention network test. Dementia and geriatric cognitive disorders， 31(4), 268-275.   \nGeng, Z., Wu, X., Wang,L., Zhou,S.,Tian,Y., Wang,K.,& Wei,L. (202o). Reduced delayed reward selectionby Alzheimer's disease and mild cognitive impairment patients during intertemporal decision-making. Journal of clinical and experimental neuropsychology, 42(3),298-306.   \nGilmore, A. W., Nelson, S.M.,& McDermot, K.B.(2015). A parietal memory network revealed by multiple MRI methods. Trends in Cognitive Sciences,19,534-543.   \nGoulden,N.,Khusnulina,A.,Davis,N.J.,Bracewel,R.M.,Bokde,A.L.,McNulty,J.P.,& Mulins,P.G. (2014). The salience network is responsible for switching between the default mode network and the central executive network: replication from DCM. Neurolmage, 99,180-190.   \nGour,N.,Ranjeva,J.P.,Ceccaldi,M.,Confort-Gouny,S.,Barbeau,E.,Soulier,E...Felician,O. (201).Basal functional connectivity within the anterior temporal network is associated with performance on declarative memory tasks. Neurolmage, 58(2), 687-697.   \nGuillaume，S.， Gay，A.， Jaussent，I，Sigaud,T.,，Billard，S.，Attal，J.，... Courtet，P. (2018). Improving decision-making and cognitive impulse control in bulimia nervosa by rTMS: An ancillary randomized controlled study. The International journal ofeating disorders,51(9),1103-1106.   \nHe,H.,Xu,P.,Wu,T., Chen, Y., Wang,J., Qiu,Y.,& Luo, Y. (2019). Reduced capacityof cognitivecontrol in older adults with mild cognitive impairment. Journal of Alzheime's Disease: JAD,71(1),185-200.   \nHiggins,J.,Thomas,J.,Chandler,J.,Cumpston,M.,Li,T.,Page,M.& Welch,V.A.(2019).Cochrane handbook for systematic reviews of interventions. 2nd edition. Chichester (UK): John Wiley & Sons, Ltd.   \nHoppstadter,M.,Baeuchl, C.,Diener, C.,Flor, H.,& Meyer,P.(2015).Simultaneous EEG-fMRI reveals brain networks underlying recognition memory ERP old/new effects. NeuroImage,116,112-122.   \nHorecka, K. M., Dulas,M.R.，Schwarb,H., Lucas, H. D., Duff, M.,& Cohen, N.J. (2018).Reconstructing relational information. Hippocampus, 28(2),164-177.   \nKaboodvand, N. Bäckman,L., Nyberg, L.，& Salami, A. (2018). The retrosplenial cortex: A memory gateway between the cortical default mode network and the medial temporal lobe. Human Brain Mapping，39, 2020-2034.   \nKarlsson,W.L.，Wiklund-Hornqvist,C.Eriksson,J.,Andersson,M.,Jonsson,B.,& Nyberg,L. (215).sser neural pattern similarity across repeated tests is associated with better long-term memory retention.Journal of Neuroscience,35,9595-9602.   \nKeresztes,A., Kaiser,D., Kovacs, G.,&Racsmany,M. (2014).Testing promotes long-term learning via stabilizing activation patterns in a large network of brain areas. Cerebral Cortex, 24,3025-3035.   \nKim,S. H.,Seo,S.W., Yoon,D.S., Chin,J.,Lee,B.H.,Cheong, H. K...Na,D.L. (2010). Comparisonof neuropsychological and FDG-PET findings between early-versus late-onset mild cognitive impairment: A five-year longitudinal study. Dementia and geriatric cognitive disorders, 29(3),213-223.   \nKoch，G.，Bonni,S.，Pellicciari，M.C., Casula,E.P.，Mancini，M.，Esposito,R.，& Bozzali，M.(2018). Transcranial magnetic stimulation of the precuneus enhances memory and neural activity in prodromal Alzheimer's disease. Neurolmage, 169,302-311.   \nKonkel,A.，& Cohen, N. J. (20o9). Relational memory and the hippocampus: Representationsand methods. Frontiers in Neuroscience, 3(SEP),166-174.   \nLage, C., Wiles,K., Shergil, S.S.,& Tracy,D. K. (2016). A systematic review of the effcts of low-frequency repetitive transcranial magnetic stimulation on cognition. Journal of neural transmission, 123(12), 1479-1490.   \nLefaucheur J. P. (2019). Transcranial magnetic stimulation. Handbook of Clinical Neurology,160,559-580.   \nLeukocyte， S. Z.，& Summers，M. J. (2014). Lowered performance in working memory and attentional sub-processes are most prominent in multi-domain amnestic mild cognitive impairment subtypes. Psychogeriatrics : the official journal of theJapanese Psychogeriatric Society, 14(1), 63-71.   \nLiang,P., Wang, Z., Yang,Y.,& Li, K. (2O12). Three subsystemsof the inferior parietal cortex are differently affected in mild cognitive impairment. Journal of Alzheimer's Disease, 30(3), 475-487.   \nLisanby, S.H. Gutman,D., Luber,B.，Schroeder, C.，& Sackeim, H.A.(2001). Sham TMS: Intracerebral measurement of the induced electrical field and the induction of motor-evoked potentials.Biological psychiatry, 49(5), 460-463.   \nLorenzo，F.，Ponzo,V.，Bonni, S.，Motta,C.，Negrao,P.C.，Bozzali，M.，& Koch, G. (2016).Long-term potentiation-like cortical plasticity is disrupted in Alzheimer's disease patients independently from age of onset. Annals of Neurology, 80(2),202-210.   \nLuber,B., Mcclintock,S.M.,& Lisanby,S.H. (2013). Applications of transcranial magnetic stimulation and magnetic seizure therapy in the study and treatment of disorders related to cerebral aging. Dialogues in Clinical Neuroscience,15(1), 87-98.   \nMarian,M.， Szöllsi, A.,& Racsmany,M. (2018).Anodal transcranial direct current stimulation of the right dorsolateral prefrontal cortex impairs long-term retention of reencountered memories. Cortex,108,80-91.   \nMcGough,E.L.,Kelly,V.E.,Weaver, K.E.,Logsdon,R.G.,McCurry,S.M.,Pike, K.C.,..Teri,L. (2018). Limbic and basal ganglia neuroanatomical correlates of gait and executive function: Older adults with mild cognitive impairment and intact cognition.American journal of physical medicine & rehabilitation,97(4), 229-235.   \nMoll K., Gobel,S.M.,Gooch, D.,Landerl,K.,& Snowling,M.J. (2016).Cognitive risk factors for specific learning disorder: processing speed, temporal processing，and working memory. Journal of Learning Disabilities,49(3), 272-281.   \nMueller, K.D., Hermann,B., Mecollari,J.,& Turkstra,L. S. (2018). Connected speech and language in mild cognitive impairment and Alzheimer's disease: A review of picture description tasks. Journal of clinical and experimental neuropsychology, 40(9), 917-939.   \nMyczkowski,M.L.,Fernandes,A.,Moreno,M., Valiengo,L.,Lafer,B.,Moreno,R.A.,..Brunoni,A.R.(018). Cognitive outcomes of TMS treatment in bipolar depresson: Safety data from a randomized controlld trial. Journal of affective disorders, 235,20-26.   \nNadeau,S.E.,McCoy,K.J., Crucian,G.P., Greer,R.A.,Rossi,F.,Bowers,D.,..Triggs, W.J. (2002).Cerebral blood flow changes in depressed patients after treatment with repetitive transcranial magnetic stimulation: Evidence of individual variability. Neuropsychiatry， neuropsychology， and behavioral neurology， 15(3), 159-175.   \nNardon,R.，Brigo,F.，Holler,Y.，Sebastianell,L.，Versace,V.，Saltuari,L.，& Trinka,E.(2O17).Transcranial magnetic stimulation studies in complex regional pain syndrome type I: A review. Acta Neurologica Scandinavica, 137(2),158-164.   \nNemeth,D., Janacsek,K.,，Kiraly, K.,Londe,Z., Nemeth,K.,Fazekas,K... Csanyi,A. (2013). Probabilistic sequence learning in mild cognitive impairment. Frontiers in human neuroscience, 7, 318.   \nNiu,H. J.,Li, X., Chen, Y. J., Ma, C., Zhang,J.Y.,& Zhang, Z. J. (2013).Reduced frontal activation duringa working memory task in mild cognitive impairment: A non-invasive near-infrared spectroscopy study. CNS neuroscience & therapeutics,19(2),125-131.   \nOkonkwo,O.C.，Wadley, V.G.,Ball,K., Vance,D.E.，& Crowe,M.(2008).Dissociations in visual attention deficits among persons with mild cognitive impairment. Neuropsychology， development， and cognition. Section B, Aging, neuropsychology and cognition,15(4),492-505.   \nPerera,T., George,M.S., Grammer,G., Janicak, P.G.,Pascual-Leone,A.,& Wirecki, T.S. (2016). The clinical TMS society consensus review and treatment recommendations for TMS therapy for major depressive disorder. Brain Stimulation, 9(3),336-346.   \nPertl,M.T.,Benke,T., Zamarian,L.,& Delazer,M. (2015).Decision making and ratio processing inpatients with mild cognitive impairment. Journal of Alzheimer's disease: JAD, 48(3),765-779.   \nPetersen,R.C.,Smith, G.E., Waring,S.C.,Ivnik,R.J.,Tangalos,E.G.,& Kokmen,E. (1999). Mild cognitive impairment: Clinical characterization and outcome. Archives of Neurology, 56(3),303-308.   \nRahnev,D.,Nee,D.E.,Riddle,J.,Larson,A.S.,& D'Esposito,M.(2016). Causal evidence for frontal cortex organization for perceptual decision making. Proceedings of the National Academy of Sciences of United States of America,113(21), 6059-6064.   \nRies,M.L.,Schmitz,T.W.,Kawahara,T.N.,Torgerson,B.M.,Trivedi,M.A.，&Johnson,S.C.(2006). Task-dependent posterior cingulate activation in mild cognitive impairment. NeuroImage, 29(2),485-492.   \nRossi, S., Halett,M.,&Rossini,P. (2o09). Safetyethical considerations,and application guidelines forthe useof transcranial magnetic stimulation in clinical practice and research. Clinical Neurophysiology， 120(12), 2008-2039.   \nSeo,E.H., Kim, H.,Lee,K. H.,& Choo,1. H. (2016). Altered executive function in pre-mild cognitive impairment. Journal of Alzheimer's disease: JAD, 54(3),933-940   \nShaked,D.,Katzel,L.I.,Seliger,S.L., Gulapali,R.P.,Davatzikos,C.,Erus,G.，. Waldstein,S.R.(018). Dorsolateral prefrontal cortex volume as a mediator between socioeconomic status and executive function. Neuropsychology, 32(8), 985-995.   \nSolé-Padulles,C.,Bartres-Faz,D.,Junque,C.,Clemente,I.C.,Molinuevo,J.L.，Bargall6,N.,. Vals-Solé,J. (2006).Repetitive transcranial magnetic stimulation effects on brain function and cognition among elders with memory dysfunction.A randomized sham-controlled study. Cerebral cortex (New York,N.Y.: 1991), 16(10), 1487-1493.   \nStrafella,A.P.，Paus,T.,Barret,J.,& Dagher,A. (2Ool).Repetitive transcranial magnetic stimulationof the human prefrontal cortex induces dopamine release in the caudate nucleus. Neurolmage,13(6),1008-1008.   \nSun,T.,Xie,T.,Wang,J.,Zhang,L.,Tian,Y., Wang,K,..Wang,H. (202o). Decision-making under ambiguityor risk in individuals with Alzheimer's diseaseand mildcognitive impairment.Frontiers in psychiatry,11,218.   \nSupasithumrong， T.， Tunvirachaisakul， C.， Aniwattanapong， D.， Tangwongchai， S.， Chuchuen，P., Tawankanjanachot,I.,.. Maes,M. (2019). Peripheral blood biomarkers coupled with the Apolipoprotein E4 genotype are strongly associated with semantic and episodic memory impairments in elderly subjects with amnestic mild cognitive impairment and Alzheimer's disease. Journal of Alzheimer's disease: JAD,71(3), 797-811.   \nTaylor,J. L.,Hambro,B.C.， Strossman,N.D., Bhat,P., Hernandez,B.,Ashford,J.W.,& McNerney, M. W. (2019).The effects of repetitive transcranial magnetic stimulation in older adults with mild cognitive impairment: A protocol for a randomized,controlled three-arm trial. BMC Neurology, 19(1), 326.   \nThemistocleous,C.，Eckerstrom,M.，& Kokkinakis,D. (202O).Voice quality and speech fluency distinguish individuals with mild cognitive impairment from healthy controls. PloS one,15(7),e0236009.   \nThomasson,J., Canini,F.,Poly-Thomasson,B.,Trousselard,M., Granon,S.,& Chauveau.F. (2o17). Neuropeptide S overcomes short term memory deficit induced by sleep restriction by increasing prefrontal cortex activity. European Neuropsychopharmacology, (12),1308-1318.   \nTian,Y.,Yang, C.,Cui,Y.,Su,F., Wang,Y., Wang,Y.,..Zhang, C. (2018). An excitatory neural assemblyencodes short-term memory in the prefrontal cortex. Cell Reports, 22(7),1734-1744.   \nTurriziani,P.,Smirni,D., Zappala,G., Mangano,G.R.,Oliveri,M.,& Cipoloti,L.(2012).Enhancing memory performance with rTMS in healthy subjects and individuals with mild cognitive impairment: The role of the right dorsolateral prefrontal cortex. Frontiers in Human Neuroscience, 6, 62.   \nVanderhasselt, M. A.,De Raedt, R.,& Baeken, C. (20o9). Dorsolateral prefrontal cortex and stroop performance: Tackling the lateralization. Psychonomic bulletin & review,16(3), 609-612   \nVenneri,A.,，Mitolo,M.，Beltrachini,L.， Varma,S.,，Dell Pieta,C.,Jahn-Carta,C.，..De Marco,M.(2019). Beyond episodic memory: Semantic processing as independent predictor of hippocampal/perirhinal volume in aging and mild cognitive impairment due to Alzheimer's disease. Neuropsychology, 33(4),523-533.   \nWeiner,M.,Petersen,R.,Aisen,P.,Rafi,M.，Shaw,L.，Moris,J..Jagust,W.(2016).Alzheimer's Disease NeuroimagingInitiative3(ADNI3）Protocol.RetrievedMay24，2016，from http://adni.loni.usc.edu/wp-content/themes/freshnews-dev-v2/documents/clinical/ADNI3_Protocol.pdf   \nWeissman, D. H.,Roberts,K.C., Visscher,K. M.,& Woldorff, M. G. (2006). The neural bases of momentary lapses in attention. Nature Neuroscience, 9(7),971-980.   \nWu,Q.，Chan，J. S.，& Yan,J.H. (2016).Mild cognitive impairment affects motor control and skill learning. Reviews in the neurosciences, 27(2),197-217.   \nYang,L.L.,Zhao,D. Kong,L.L.,Sun,Y. Q., Wang,Z.Y., Gao,Y.Y.,..Wang,Y.M. (2019). High-frequency repetitive transcranial magnetic stimulation(rTMS） improves neurocognitive function in bipolar disorder. Journal of affective disorders,246,851-856.   \nZhao,J.,Li,Z.,Cong,Y.,Zhang,J.,& Shan,P.(2O17).Repetitive transcranial magnetic stimulation improves cognitive function of Alzheimer's disease patients. Oncotarget, 8(20), 33864-33871.   \nZhu,X.，Liu，S.，Liao，W.，Kong，L.，Jiang，C.，& Yuan，F.(2018).Executive function deficit in betel-quid-dependentchewers:Mediatingroleofprefrontalcorticalthickness.Journalof Psychopharmacology,32(12),1362-1368. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Effects of repetitive transcranial magnetic stimulation on patients with mild cognitive impairment. ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "CHEN Juan1, HE Hao1,2, YANG Dandan1, GUAN Qing1.2 (CenterforBrainDiseasesandCognitiveSiences,henzhnUniversitySenzhen-HongKongIstituteofrainSciencehenen Fundamental Research Institutions,Shenzhen518060,China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Mild cognitive impairment (MCI) is an intermediate state between normal aging and dementia,and there is no high-quality evidence that supports the pharmacologic treatment of MC1. Repetitive transcranial magnetic stimulation (rTMS) can improve the whole brain function by eliciting changes in synaptic plasticity. In this systematic review, the effectiveness and neural mechanisms of rTMS enhance MCI patients were analyzed.Future studies should optimize the localization for TMS,extend the period of the intervention effect evaluation, and explore how rTMS works in the treatment of MCI combining with neuroimaging technologies. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Key words: Mild cognitive impairment, Nonpharmacological intervention,Transcranial magnetic stimulation, TMS ",
+        "page_idx": 18
+    }
+]

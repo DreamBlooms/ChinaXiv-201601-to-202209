@@ -1,0 +1,202 @@
+[
+    {
+        "type": "text",
+        "text": "中国生物工程学会第11届学术年会暨2017年全国生物技术大会会议征文优秀论文评选(分会场一：工业与环境生物技术研论会)",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "同步利用葡萄糖和木糖发酵产油脂酵母菌的筛选与鉴定",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张艳平1，郭书贤 $^ { 1 , 2 ^ { * } }$ ，王冬梅1,2，张志立1，李斌1,21（南阳理工学院 生物与化学工程学院，河南 南阳，473000）；2（南阳市工业微生物重点实验室，河南南阳，473000）；3（车用生物燃料技术国家重点实验室，河南 南阳473000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：从河南省南阳地区土壤中分离的10株野生酵母菌株中，筛选到一株能够同步利用葡萄糖和木糖发酵高产油脂的酵母菌株ZZ-46。摇瓶发酵 $1 2 0 \\mathrm { ~ h ~ }$ ，在葡萄糖：木糖为2:1条件下，生物量、油脂产量、油脂含量、油脂系数和产油速率分别达到 $2 0 . 2 3 \\mathrm { g / L }$ 、 $9 . 8 9 ~ \\mathrm { g / L }$ 、 $4 8 . 9 1 \\%$ 、 $1 4 . 6 4 \\mathrm { g / 1 0 0 \\mathrm { g } }$ 和 $0 . 0 8 3 \\mathrm { \\ g \\cdot L ^ { - 1 } \\cdot h ^ { - 1 } }$ ；该菌株利用5种不同比例混合糖（葡萄糖和木糖）产油脂的脂肪酸组成均以 $\\mathrm { C } _ { 1 6 }$ 和 $\\mathrm { C } _ { 1 8 }$ 系脂肪酸为主，其中油酸含量最高，其次为亚油酸、棕榈酸和硬脂酸，四种脂肪酸含量占总脂肪酸含量的 $90 \\%$ 以上，与植物油脂脂肪酸组成相似，可以作为生物柴油油源。通过形态特征及26S rDNA D1/D2区域序列分析，初步鉴定菌株 ZZ-46 为 Cutaneotrichosporon dermatis，与 Trichosporon dermatis 同物异名。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：混合糖发酵；同步利用；产油脂酵母菌；筛选；脂肪酸组成；鉴定",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Screening and identification of oleaginous yeast strains for simultaneous utilization of glucose and xylose ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GUO Shu-xian2,3\\*, WANG Dong-mei2,3, ZHANG Yan-ping1, ZHANG Zhi-li1,LI Bin1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(School of Biological and Chemical Enginering,Nanyang Institute of Technology,Nanyang 473ooo,Henan) 2(Key Laboratory for Industrial Microbiology of Nanyang City, Nanyang 4730oo, Henan)3(State Key Laboratory for Automotive Biofuel，Nanyang 47300o，Henan， China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this paper,the strain ZZ-46 which could asilimated glucose and xylose simultaneously producing lipid were screened from 1O wild yeast strains from the soil of Nanyang region of henan province. The cel biomass，lipid concentration，lipid content, lipid coefcient and lipid productivty of the strain reached $2 0 . 2 3 \\mathrm { g / L }$ 、 $9 . 8 9 ~ \\mathrm { g / L }$ 、 $4 8 . 9 1 \\%$ 、 $1 4 . 6 4 \\mathrm { g / 1 0 0 \\mathrm { g } }$ and $0 . 0 8 3 \\mathrm { \\ g \\cdot L ^ { - 1 } \\cdot h ^ { - 1 } }$ respectively by fermenting 120h with 2: 1of glucose and xylose as carbon source. Simultaneous,Lipid-acid component was analyzed, there is almost no difference in lipid-acids component by using different mixed sugar ratios as carbon source and $\\mathrm { C } _ { 1 6 }$ and $\\mathrm { C _ { 1 8 } }$ series are main fatty acids. Oleic acid content is the highest in lipid-acid component, next are linoleic acid,palmitic acid and stearic acid in all samples and the sum account for over $90 \\%$ . The lipid component of this strain is similar to plant oil and could be used as biodiesel source. The strain was primarily identified as Cutaneotrichosporon dermatis by the morphology feature and 26S rDNA D1/D2 domain sequence analysis,and Trichosporon dermatis homonym. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Mixed sugar fermentation, Simultaneous utilization, Oleaginous yeast,Screening,Lipid-acid component, Identification ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "微生物油脂是继植物油脂、动物油脂之后又一可开发利用新油脂资源[1-3]。微生物油脂除可替代动植物油脂生产食用油脂外，还可作为生物柴油的替代原料[4-5]。与传统的植物油脂获取方法相",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：张艳平（1990-），硕士研究生，研究方向为微生物油脂技术。E-mail:ZYP702920@126.com通讯作者：郭书贤（1963-），男，教授，研究方向微生物油脂技术与产油脂酵母菌，E-mail:guoshux $@$ 163.com基金项目：河南省基础与前沿技术项目（132300410087）；河南省基础与前沿技术项目（102300410059）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "比较，微生物油脂的诸多优点使其有广阔的工业化应用前景[7-8]。木质纤维素是我国最丰富的可再生资源充分水解可得到含有葡萄糖、木糖、阿拉伯糖和甘露糖等混合糖，利用木质纤维素水解液作为底物生产生物燃料和生物产品具有重要的经济和环保意义[9-10]。然而，大多数微生物对木质纤维素水解液利用效率较低，其原因除含有糠醛等对菌体生长有害物质外，还由于多数产油脂微生物在葡萄糖和木糖同时存在条件下，会产生“葡萄糖效应”，导致其它碳源的利用出现明显延滞期，产油脂效率明显降低[II-12]，因此，筛选获得能够同步利用己糖和戊糖产油脂菌株，对发酵法生产微生物油脂极为重要。Hu等[13]发现皮状丝孢酵母Trichosporoncutaneum能够同步利用葡萄糖和木糖产油脂，在葡萄糖：木糖为2:1时，油脂含量和油脂系数分别为 $59 \\%$ 和17 $\\mathbf { g } / 1 0 0 \\mathbf { g }$ ；孔祥莉等[14]研究了斯达氏油脂酵母Lipomyces starkeyi利用混合糖发酵产油脂的能力，在葡萄糖：木糖为2:1条件下发酵 $1 4 4 \\mathrm { ~ h ~ }$ ，生物量和油脂含量可达到 $1 9 . 0 ~ \\mathrm { g / L }$ 和 $5 2 . 6 \\%$ ；宋兆齐等[15]筛选到一株能够转化混合糖的高产油脂酵母JM-D，在葡萄糖：木糖为3:1条件下发酵 $1 4 4 \\ \\mathrm { ~ h ~ }$ ，油脂含量达到 $23 . 3 8 \\%$ 。这些研究多从菌种保藏机构现有菌种中进行筛选，对野生产油脂酵母资源的挖掘与利用研究还很不够。本文通过对南阳土壤中分离的产油脂酵母的筛选，以期得到能够同步利用葡萄糖和木糖的高产油脂酵母菌株，并通过高产油脂菌株以不同配比的混合糖为碳源所产油脂的脂肪酸组成分析，为利用木质纤维素水解液发酵法生产微生物油脂提供依据和基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1菌株 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从南阳市土壤中分离获得 10株产油脂酵母菌株，分别为 ZZ-03、ZZ-07、ZZ-10、ZZ-16、Z-21、 ZZ-27、 ZZ-29、 ZZ-30、 ZZ-31、 ZZ-46。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2实验仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电热恒温培养箱（101-2A）、数显恒温摇床（HZQ-B）、立式压力蒸汽灭菌锅（LDZX-50FB)、电子精密天平（FA1004）、pH数字酸度计（PHS-3C）、电子恒温水浴锅、紫外可见分光光度计（752N）、电脑型生物显微镜（XSP-13CC）、超净工作台（SW-CJ-2G）、大型全温摇床（HZQ-B）、气相色谱仪（Agilent Technologies 7890A)，液相色谱仪（Aglient 1100）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3培养基",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 斜面保藏培养基YEPD：葡萄糖 $2 0 . 0 \\ \\mathrm { g }$ ，酵母粉 $\\boldsymbol { 1 0 . 0 \\mathrm { g } }$ ，蛋白脉 $\\mathrm { 1 0 . 0 ~ g }$ ，琼脂 $1 5 . 0 \\ \\mathrm { g }$ ，蒸馏水$1 0 0 0 ~ \\mathrm { { m L } }$ ， $\\mathrm { p H } 6 . 5$ 。$\\textcircled { 2 } \\mathrm { Y M A }$ 培养基： $\\mathrm { K H _ { 2 } P O _ { 4 } }$ $0 . 5 \\mathrm { g }$ ，NaCl $0 . 2 \\mathrm { g }$ ， $\\mathrm { M g S O _ { 4 } } \\cdot 7 \\mathrm { H _ { 2 } O }$ $0 . 2 \\mathrm { g }$ ， $\\mathrm { C a S O _ { 4 } } \\cdot 7 \\mathrm { H _ { 2 } O }$ 0.1g，$\\mathrm { C a C O } _ { 3 } \\bullet 7 \\mathrm { H } _ { 2 } \\mathrm { O }$ $1 . 0 \\mathrm { g }$ ，甘露醇 $1 0 . 0 \\mathrm { g }$ ，琼脂 $1 8 . 0 \\mathrm { g }$ ，酵母汁 $1 0 0 . 0 \\mathrm { m L }$ ，维生素 $\\mathbf { B } _ { 1 } +$ 维生素 $\\mathbf { B } _ { 2 }$ 微量，蒸馏水 $9 0 0 . 0 \\mathrm { m L }$ ， $\\mathrm { p H } 6 . 0$ 。$\\textcircled{3}$ 液体种子培养基：葡萄糖 $2 0 . 0 \\ \\mathrm { g }$ ，酵母粉 $1 0 . 0 \\ \\mathrm { g }$ ，蛋白陈 $1 0 . 0 \\ \\mathrm { g }$ ，蒸馏水 $1 0 0 0 \\mathrm { m L }$ ， $\\mathsf { p H } 6 . 5$ 。$\\textcircled{4}$ 限氮发酵培养基：葡萄糖 $7 0 \\mathrm { g }$ 、酵母粉 $0 . 7 5 \\mathrm { g }$ ， $\\mathrm { \\Delta N H _ { 4 } C 1 }$ （20 （204号 $0 . 1 \\mathrm { g }$ 、 $\\mathrm { K H _ { 2 } P O _ { 4 } }$ （20 （20 $1 1 . 8 \\mathrm { g }$ 、 ${ \\mathrm { K } } _ { 2 } { \\mathrm { H P O } } _ { 4 }$ （204号 $3 . 7 \\mathrm { g }$ 、 $\\mathrm { M n S O } _ { 4 } { \\bullet } 4 \\mathrm { H } _ { 2 } \\mathrm { O }$ $0 . 7 6 \\mathrm { m g }$ 、 $\\mathrm { C a C l } _ { 2 }$ $4 0 \\mathrm { m g }$ 、 $\\mathrm { \\mathrm { M g } C l } _ { 2 }$ $1 . 0 \\mathrm { g }$ 、 $\\mathrm { F e S O _ { 4 } { \\bullet } 7 H _ { 2 } O }$ （20 $5 . 5 \\mathrm { m g }$ 、 $Z n \\mathrm { S O } _ { 4 } { \\bullet } 7 \\mathrm { H } _ { 2 } \\mathrm { O }$ $1 . 0 \\mathrm { m g }$ 、 $\\mathrm { N a _ { 2 } S O _ { 4 } 0 . 1 g }$ 、浓 $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } 0 . 0 0 1 8 4 \\mathrm { m g }$ 、Citric acid $5 . 2 \\mathrm { m g }$ ， $\\mathrm { p H } 6 . 0$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4实验方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 培养方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 活化培养：将保藏的菌株划线接种至YEPD固体斜面培养基， $2 5 \\mathrm { ^ \\circ C }$ 恒温箱中培养2天。$\\textcircled{2}$ 种子培养：活化后的菌株接两环于液体种子培养基中， $1 4 0 ~ \\mathrm { r / m i n }$ ， $2 5 ^ { \\circ } \\mathrm { C }$ 恒温摇床培养2天。$\\textcircled{3}$ 摇瓶发酵培养：取种子培养液，按 $10 \\%$ 接种量接种于限氮发酵培养基中， $2 5 \\mathrm { ^ \\circ C }$ ， $1 4 0 ~ \\mathrm { \\ r / m i n }$ 培养 $1 4 4 \\mathrm { h }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 测定方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）菌体生物量的测定：采用干重法[I6测定菌体生物量。（2）油脂含量的测定：单糖初筛时油脂的测定采用磷酸香草醛显色法[7]，混合糖复筛时油脂的测定采用酸热法[18]。（3）计算公式：细胞干重 $( \\mathbf { g } / \\mathbf { L } ) =$ （管与干重的总重量-空管重量） $\\times 1 0 0 0 / \\mathrm { V }$ 发酵液油脂含量 $( \\mathbf { g } / \\mathrm { L } ) \\mathbf { \\Psi } = \\mathbf { \\dot { \\eta } }$ 提取油脂的质量/量取发酵液体积菌体油脂含量 $( \\% ) =$ 提取油脂的质量/发酵液生物量油脂系数 $\\mathbf { \\Pi } ( \\mathbf { g } / 1 0 0 \\mathbf { g }$ ） $\\begin{array} { r } { { \\bf \\Pi } = \\frac { \\bf \\Pi } { \\bf \\Pi } } \\end{array}$ 油脂产量/耗糖量 $\\times 1 0 0$ （4）葡萄糖和木糖含量测定：利用液相色谱仪进行葡萄糖和木糖含量测定[18]。色谱柱：Eclipse XDB-C18(150 $\\mathrm { m m } \\times 4 . 6$ mm， ${ 5 . 0 } { \\mu \\mathrm { m } } \\mathrm { \\backslash }$ ，流动相：水，柱温： $6 5 ^ { \\circ } \\mathrm { C }$ ，检测器池温： $4 0 ^ { \\circ } \\mathrm { C }$ ，流速： $0 . 5 ~ \\mathrm { m L / m i n }$ ，进样体积： $2 0 ~ \\mu \\mathrm { L }$ ，工作站：Agilent Rev.B.02.01。（5）脂肪酸组成分析：样品甲酯化[19]，利用气相色谱仪进行脂肪酸组成分析。色谱柱条件:FFAP毛细管柱( $2 5 \\ \\mathrm { m } { \\times } 0 . 2 5 \\ \\mathrm { m m } { \\times } 0 . 2 5 \\ \\mathrm { u m } )$ ；进洋口： $2 7 0 ^ { \\circ } \\mathrm { C }$ ，检测器温度： $2 7 0 ^ { \\circ } \\mathrm { C }$ ，柱温： $1 4 0 ^ { \\circ } \\mathrm { C }$ ，保持 $0 . 5 \\mathrm { m i n }$ ，由 $8 ^ { \\circ } \\mathrm { C }$ 升温至 $1 6 5 ^ { \\circ } \\mathrm { C }$ ，保持 $2 \\mathrm { m i n }$ ，然后由 $2 ^ { \\circ } \\mathrm { C }$ 升温至 $1 8 5 ^ { \\circ } \\mathrm { C }$ ，保持 $1 0 \\mathrm { { m i n } }$ ，分流比：20:1，进样量： $1 \\mu \\mathrm { L }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不饱和脂肪酸指数IndexUnsaturatedFattyAcid（IUFA）计算：不饱和脂肪酸指$\\scriptstyle = 1 \\times$ 单烯酸含量 $\\% + 2 \\times$ 二烯酸含量 $\\% + 3 \\times$ 三烯酸含量 $\\% + \\cdots + \\tt { n } \\times \\tt { n }$ 烯酸含量 $\\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 形态学观察 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参照THEYEASTS，ATAXONOMIC STUDY[20](第五版)观察菌株形态特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.4分子生物学鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将目标菌株进行26SrDNAD1/D2区域序列的分子生物学鉴定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基因扩增： $2 0 ~ \\mu \\mathrm { L }$ 反应体系，纯化的PCR产物 $1 ~ \\mu \\mathrm { L }$ ，BigDye8 $\\mu \\mathrm { L }$ ，引物 $1 \\mu \\mathrm { L }$ ，灭菌去离子水10μL。反应条件： $9 6 ^ { \\circ } \\mathrm { C } 1 \\mathrm { m i n }$ ，25个循环 $9 6 ^ { \\circ } \\mathrm { C } 1 0 \\mathrm { s }$ ， $5 0 ^ { \\circ } \\mathrm { C }$ 5s， $6 0 ^ { \\circ } \\mathrm { C } 4 \\mathrm { m i n } ^ { \\cdot }$ ， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $1 0 ~ \\mathrm { m i n }$ 。由PCR产物电泳结果切割所需DNA目的条带，所得PCR 扩增原液经过DNA 胶回收试剂盒（SK1131）回收纯化，电泳再次检测后通过自动测序仪得到供试菌株PCR扩增片段的原始序列。将测序结果用Chromas 参照正反序列图谱人工校对。用校正后的序列在GenBank数据库中进行同源序列搜索（BLAST)，根据同源序列搜索结果采用ClustalX1.83进行序列比对，采用MEGA5.0软件构件系统树，发育树的生成用 neighbor-joining 法，经1000 次的相似度重复检验。依据系统发育树，并结合形态学特征确定其种类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1高效利用单糖菌株的筛选",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将 10 株从南阳土壤中分离得到的野生酵母菌株分别以葡萄糖、木糖为碳源与限氮发酵培养基中 摇瓶培养 $1 2 0 \\mathrm { h }$ ，各菌株产油脂能力见表1。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1608b740dbf791746ed287e9c308c4821ab93df2109ac781ba7d7053e84dd0df.jpg",
+        "table_caption": [
+            "表1菌株单糖发酵产油脂能力",
+            "Table1 The oil production capacity of the strain by fermenting with glucose and xylose "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>菌株</td><td>碳源</td><td>生物量(g:L-1)</td><td>油脂产量(g·L-1)</td><td>油脂含量(%)</td></tr><tr><td rowspan=\"2\">ZZ-03</td><td>葡萄糖</td><td>15.2</td><td>6.59</td><td>43.35</td></tr><tr><td>木糖</td><td>13.58</td><td>4.48</td><td>32.99</td></tr><tr><td rowspan=\"2\">ZZ-07</td><td>葡萄糖</td><td>14.59</td><td>6.92</td><td>47.43</td></tr><tr><td>木糖</td><td>13.16</td><td>6.45</td><td>49.01</td></tr><tr><td>ZZ-10</td><td>葡萄糖</td><td>14.09</td><td>6.76</td><td>45.56</td></tr></table></body></html>",
+        "page_idx": 2
+    }
+]

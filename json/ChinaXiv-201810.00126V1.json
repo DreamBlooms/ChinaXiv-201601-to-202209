@@ -1,0 +1,310 @@
+[
+    {
+        "type": "text",
+        "text": "不对称性相互依赖背景下中吉自由贸易实现路径基于局部均衡理论的模拟",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高志刚，宋亚东（新疆财经大学经济学院，新疆乌鲁木齐830012)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：不对称性相互依赖是中国和吉尔吉斯斯坦经贸合作的常态，中吉自由贸易是丝绸之路经济带互联互通战略的重要组成部分，也是我国向西开展自贸区进程的突破点。文章运用局部均衡模型从 BEC产品层面模拟分析了不同关税策略下中吉自贸区的贸易效应及本国经济效应。研究表明：在相同的关税削减幅度的情形下,2002—2016年间中吉贸易效应与其贸易额呈正相关；关税削减对中国和吉尔吉斯斯坦的贸易效应、福利效应及关税损失比较显著，尤其是中国，且对不同商品的影响存在显著差异,其中尤以工业品最为显著;综合考量贸易效应和福利效应，中国的最优策略是直接采取零关税，而吉国则是逐渐削减关税。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：不对称性相互依赖；中吉自由贸易；局部均衡模型；贸易效应中图分类号：F741.2 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自1992年中国与吉尔吉斯斯坦建交以来，经贸合作经历了稳定增长、快速增长和回落后稳定增长等阶段，尤其是在世界贸易组织和上海合作组织合作框架内，双边贸易取得了长足的发展，贸易规模呈现总体扩大趋势，然而两国无论是贸易总量还是贸易结构上均存在明显的不对称性相互依赖。贸易总量方面，如图1所示，1992—2016年间，中对吉进口贸易始终停留在一个较低的水平，2016年的进口额甚至低于2004年，而此间中对吉出口贸易增长了近11倍,并在2008 年时突破了 $9 2 \\times 1 0 ^ { 8 }$ USD,达到历史最高水平,2015 年出口额为 $4 3 \\times 1 0 ^ { 8 }$ USD 左右,而后2016 年又上升至 $5 6 \\times 1 0 ^ { 8 } ~ \\mathrm { U S D }$ 。贸易结构方面，中国对吉国出口的商品结构自1992年以来经历了以劳动密集型为主、资本密集型为辅到劳动密集型与资本密集型为主、技术密集型为辅的演变过程，对吉存在出口广化的现象;虽然中国从吉国进口商品结构也发生了变化，但仍以原材料性质的进口为主。这种商品结构的演变反映了两国要素禀赋、经济发展阶段的差异与比较优势的变化，总体而言，吉国对我国的依赖程度要远高于我国对吉国的依赖",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "程度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国务院2015年12月6日印发《关于加快实施自由贸易区战略的若干意见》，对我国自贸区建设做出了“顶层设计”，提出了我国加快实施自贸区战略的总体要求，提出要进一步优化自贸区建设布局和加快建设高水平自贸区。相比与其他中亚国家，中吉实现自由贸易具有良好的经济、政治、文化基础，丝绸之路经济带倡议也为中吉深化经贸合作提供了良好契机。然而，不对称性相互依赖背景下，如何实现中吉贸易自由化？中吉自由贸易区的建立将对中吉两国贸易和福利分配产生何种影响？这是我国创新中吉合作模式、实现中吉贸易畅通无法回避的问题。此外，中亚国家在经济、政治、文化等方面具有一定的相通性，通过探究中吉实现自由贸易的路径，可以为开启我国与其他中亚国家的自贸区谈判，向西推进自贸区进程、加快丝绸之路经济带建设提供理论参考。基于此，本文将对不同关税情形下两国的贸易创造与转移效应、福利效应及关税效应的分配情况进行模拟，以此探究中吉实现自由贸易的路径。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8c086eeb565135a3994a683139cee1bc95356cb2dd6dc2f9e464571ae5ac3f0.jpg",
+        "img_caption": [
+            "图11992—2016 年中对吉进出口额变动",
+            "Fig.1Changes in China's imports and exports to Kyrgyzstan from 1992 to 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国外学者对中吉贸易的专项研究比较少，主要研究了中国与中亚国家的合作关系，如RABAL-LAND、ANDRESY[1]指出 2002 年后中国（新疆）与中亚贸易增长的主要原因是中国推行的西部大开发的区域经济政策;AZARKAN[2]研究发现 SCO与中亚国家经济、安全利益及区域合作是相容的，但过程中需要平衡中俄美等大国的关系。国内也基本上将中亚作为整体进行研究，就中吉贸易的专项研究也寥寥可数,具体如下：(1)将中亚五国作为整体研究的，认为中国和中亚五国贸易互补性较强，合作潜力较大[3],在农产品方面合作潜力亟待挖掘[4-5],贸易商品结构有待优化[，从双边合作入手成立中国一中亚自贸区[7],中亚国家贸易便利化总体进程较缓慢,且贸易便利化水平差异性显著[8],此外,还有学者[9-10]提出了中国与中亚国家构建上海合作组织自贸区以深化区域合作，整合区域经济。（2）从中吉经贸合作的影响因素及潜力角度研究的：中吉间贸易和投资活动主要受到吉国国内动荡局势[11、经济基础和贸易投资环境的制约[12」、贸易发展的不平衡性、贸易结构相对单一以及口岸基础设施建设滞后[13-14]等方面因素的影响;开放度、要素禀赋差异及经济发展水平对中吉农产品间贸易显著[15],而有些学者[16]认为中国对吉国农产品出口贸易潜力达到饱和；吉国加入俄白哈关税同盟不利于中吉边境贸易[17],中国新疆与吉国的边境贸易提升潜力有待挖掘[18]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过对相关文献的梳理，发现目前学术界对于中吉自由贸易的研究比较少,模拟中吉自由贸易效应的更是凤毛麟角。因此，文章在充分考虑中吉不对称相互依赖这一贸易特点的基础上，通过局部均衡模型模拟互减关税与互为零关税情景下双边自由贸易的福利分配状况及贸易影响，从而探究中吉自由贸易的实现路径，为促进中吉贸易畅通、推进丝绸之路经济带建设提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1模型设定及理论介绍 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "马歇尔（1920)创立的局部均衡理论是假定其他市场条件不变，进而考察单个市场均衡时价格与供给之间的映射关系，常采用世界银行开发的SMART软件来分析模拟特定政策下该市场受到的直接影响。所以此处将采取SMART软件模拟中吉自贸区建立后不同关税策略下的贸易效应、福利及税收变化。关于模型的基本假设条件和参数设定如下：假定市场是完全竞争的，对于不同国家进口关税的不同而使得商品的到岸价格是不同的，此时的进□需求弹性参数由SMART系统自行设定;所有国家均是价格的接受者，即完全出口供给弹性，系统默认值为99；不同国家的进口产品具有不完全替代性，即阿明顿替代弹性，设定为1.5。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果在A国与B国签订自贸协定的情形下，A国消费者从B国进口产品所需的成本将会降低，那么A国消费者在其支出不变的情况下进口规模将扩大，这时的贸易增加量便是贸易创造效应。另外A国也会将C国等的进口转移至B国，此时的贸易增加量为贸易转移效应。两者之和便为贸易效应。A国消费者从B国购买到比较廉价的商品，本国消费者剩余提高后所带来的净福利。A国对外削减贸易成本带来的关税损失即为税收效应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 实证结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据以上假设及参数设定，文章将采用BEC标准对产品6分位①进行模拟，分析不同关税策略情形下对中吉两国的贸易影响和福利分配情况。在模拟中，数据来源于2002—2016年世界银行WITS数据库。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.12002—2016年中吉互减关税条件下贸易效应分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于篇幅所限，仅列举2002年以来中吉互减关税的结果，见表1。采取零关税的情形下对于两国贸易影响结论与表1类似，不具体列出。因2002—2008年吉国经济出现快速增长，所以选取该年做为起始点具有一定代表性。由表 $1 ^ { \\textcircled { 2 } }$ 可知,就中对吉削减关税而言，2002—2016年，中对吉进口基本呈现先增后减的趋势，中对吉削减关税对于两国的贸易和福利效应基本呈现一致态势，说明贸易额越大，贸易效应也越明显;就吉对中削减关税来说，中对吉出口呈现先增后平稳发展趋势，贸易效应也表现的基本一致，并于2016年达到最大，也进一步验证了贸易效应与贸易额的相关性。为具体分析对各商品的贸易效应和福利效应，所以下文将重点分析2016年中吉互减关税的情形。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.22016年中吉互减关税情形下贸易效应分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过表2模拟结果发现，若中吉两国采取互相减税（ $2 0 \\%$ )的政策，给双方带来的贸易促进效应显著，对不同类别商品贸易量的增幅存在显著差异。对于中对吉减税的情形而言，对两国贸易效应最为显著的产品均为初级工业品（第21类）、工业的制成品(第112类)及经过加工的工业品(第22类）；我国对吉国减税则会对我国造成一定的税收损失（202 $( \\mathbf { \\nabla } - 7 0 . 8 7 \\times 1 0 ^ { 4 }$ USD），说明税率的降低仍发挥主导作用，对我国税收造成损失最大的产品为经过加工的工业用品(第22类）；我国的福利效应为20.189$\\times 1 0 ^ { 4 }$ USD，其中工业的制成品(第112类)对我国的福利效应最为明显。对于吉对中减税而言，因关税降低对两国带来的贸易效应最强的产品依次为经过加工的工业品（第22类）、消费品中半耐用的产品（第62类)以及消费品中非耐用的产品（第63类）；吉国的福利效应和税收效应分别为 $5 2 4 . 3 7 \\times 1 0 ^ { 4 }$ USD和 $1 ~ 8 9 9 . ~ 8 ~ \\times ~ 1 0 ^ { 4 }$ USD,经过加工的工业品（第22类)对于吉国的福利效应和税收损失最为显著。可以发现，降低关税对中吉两国贸易促进效应较显著的主要集中在工业用品（第21、22类），这有利于中吉两国工业行业发展，在一定程度上加速双方产业升级。另外如果中吉自贸区建立，双方均采取缩减相同关税时对两国的福利改善和双边贸易均存在显著促进作用,但是此时两国的贸易总效应存在显著差异，中国的贸易总效应（两种情形时中国的贸易效应之和： $1 8 5 . 6 4 8 \\times 1 0 ^ { 4 } + 6 ~ 8 9 4 . 2 \\times 1 0 ^ { 4 }$ 为$7 ~ 0 7 9 . 8 4 8 \\times 1 0 ^ { 4 }$ USD,而同期吉国的贸易总效应为$6 7 6 7 . 6 0 5 \\times 1 0 ^ { 4 }$ USD,即吉国贸易效应要小于中国的贸易效应，两国之间的差距为 $3 1 2 . 2 4 3 \\times 1 0 ^ { 4 }$ USD。那么在此情境下，吉国与中国建立自贸区的积极性将大大降低，所以在上述基础之上，将继续分析中吉两国互相采取零关税的情形下两国的贸易效应、福利及税收分配情况，模拟结果见表3。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/482fe2cf528f9bee98afd2ba62d35e8f6d8fe34a0931fffea2c641c34065bab7.jpg",
+        "table_caption": [
+            "表12002—2016年中吉互相削减关税③情形下的贸易效应分析 $/ 1 0 ^ { 3 }$ USD",
+            "Tab.1Trade effect between China and Kyrgyzstan in the reduction of tariffs from 2002 to $\\bf 2 0 1 6 / 1 0 ^ { 3 }$ USI "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份</td><td colspan=\"4\">中对吉减税（减20%）</td><td colspan=\"4\">吉对中减税（减20%）</td></tr><tr><td>吉国</td><td></td><td>中国</td><td></td><td>中国</td><td></td><td>吉国</td><td></td></tr><tr><td></td><td>贸易效应</td><td>贸易效应</td><td>福利效应</td><td>税收效应</td><td>贸易效应</td><td>贸易效应</td><td>福利效应</td><td>税收效应</td></tr><tr><td>2002</td><td>1 428.205</td><td>742.493</td><td>108.834</td><td>-587.625</td><td>4 537.698</td><td>4 058.883</td><td>429.898</td><td>-1 906.625</td></tr><tr><td>2003</td><td>2 771.571</td><td>2 132.829</td><td>208.490</td><td>-458.635</td><td>3 907.273</td><td>3 586.718</td><td>291.351</td><td>-1 208.091</td></tr><tr><td>2004</td><td>2 775.403</td><td>1 756.158</td><td>159.031</td><td>-800.851</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>2005</td><td>3 890.854</td><td>2 562.082</td><td>271.355</td><td>-958.576</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>2006</td><td>6 032.373</td><td>4 418.500</td><td>643.737</td><td>-1 082.214</td><td>10 279.160</td><td>9 681.601</td><td>775.802</td><td>-2 875.694</td></tr><tr><td>2007</td><td>6 347.691</td><td>4 080.922</td><td>462.387</td><td>-1 781.306</td><td>12 508.680</td><td>11 407.820</td><td>894.540</td><td>-3 878.926</td></tr><tr><td>2008</td><td>6 456.873</td><td>4 342.585</td><td>443.747</td><td>-1 584.936</td><td>35 673.230</td><td>33 681.160</td><td>2 820.727</td><td>- 11 278.320</td></tr><tr><td>2009</td><td>2 740.766</td><td>1963.703</td><td>223.146</td><td>-521.939</td><td>32 171.660</td><td>302 42.790</td><td>2 586.315</td><td>-9 496.500</td></tr><tr><td>2010</td><td>3 931.916</td><td>2 837.451</td><td>284.534</td><td>-751.393</td><td>31 777.990</td><td>29 178.070</td><td>2 443.023</td><td>-10 063.960</td></tr><tr><td>2011</td><td>3456.179</td><td>2 404.878</td><td>222.192</td><td>-683.527</td><td>3 7704.570</td><td>34 381.360</td><td>2 900.568</td><td>-14 272.100</td></tr><tr><td>2012</td><td>1</td><td>1</td><td>一</td><td>1</td><td>1</td><td>1</td><td>一</td><td>1</td></tr><tr><td>2013</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>2014</td><td>7 409.239</td><td>6 083.896</td><td>1067.988</td><td>-635.316</td><td>54 318.980</td><td>49 193.910</td><td>4 082.797</td><td>-17 040.760</td></tr><tr><td>2015</td><td>3 333.458</td><td>2 337.137</td><td>335.681</td><td>-641.202</td><td>54 608.810</td><td>48 726.570</td><td>4 416.778</td><td>-15 322.210</td></tr><tr><td>2016</td><td>2 879.050</td><td>1 856.480</td><td>201.890</td><td>-708.700</td><td>68 942.000</td><td>64 797.000</td><td>5 243.700</td><td>-18 998.000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.32016年中吉互为零关税条件下贸易效应分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过表3模拟结果发现，若中吉两国采取零关税的政策，给双方带来的贸易促进效应相对更为显著，对不同类别商品贸易量的增幅也存在显著差异。对中和吉零关税的情况而言，两国贸易效应最为显著的产品均为初级工业品（第21类）、经过加工的工业品(第22类)及工业的制成品(第112类)；此时我国的关税损失为 $- 2 9 4 . 6 \\times 1 0 ^ { 4 }$ USD,说明税率的降低仍发挥主导作用，经过加工的工业用品（第22类)是对我国税收造成损失最大的产品;我国的福利效应为 $4 9 . 8 5 8 \\times 1 0 ^ { 4 }$ USD,其中工业的制成品(第112类)对我国的福利效应最为明显。对于吉和中减税而言，因关税降低对两国带来的贸易效应最强的产品依次为经过加工的工业品（第22类）、消费品中半耐用的产品(第62类)以及消费品中非耐用的产品（第63类)；福利效应和税收损失分别为 $9 7 2 . 0 3 8 \\times 1 0 ^ { 4 }$ USD 和 $7 ~ 1 9 9 . 3 3 \\times 1 0 ^ { 4 }$ USD,经过加工的工业品(第22类)对于吉国的福利效应和税收损失最为显著。对比发现，随着中吉两国从逐渐减税向零关税过渡，贸易规模有所扩大，即对两国的贸易促进作用也渐趋明显，但是贸易的产品结构并无太大变化。另一方面来说,如果中吉自贸区建立，双方均采取零关税时对两国的福利改善和双边贸易促进作用更为显著，但是此时的中吉两国的贸易总效应分别为 $2 2 ~ 8 1 9 . 9 4 2 \\times 1 0 ^ { 4 } \\mathrm { U S D }$ 和 $2 1 ~ 7 5 9 . 2 4 ~ \\times$ $1 0 ^ { 4 }$ USD,即吉国贸易效应仍要小于中国的贸易效应,且差距为 $1 ~ 0 6 0 . 7 0 2 \\times 1 0 ^ { 4 }$ USD,这种差距呈现扩大趋势,也说明吉国与中国构建自贸区的消极性在逐渐增加。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc18a2c1b50dfa6d7fa7c87057ba1e445c60899171dbfce4bb4b4e918dce67fe.jpg",
+        "table_caption": [
+            "表22016年中吉互相削减关税情形下的贸易效应、福利及税收效应分析 $/ 1 0 ^ { 3 }$ USDTab.2Trade effects，welfare and tax ffects in the case of mutual reduction of tariffs between Chinaand Kyrgyzstan in $\\mathbf { 2 0 1 6 } / \\mathbf { 1 0 } ^ { 3 }$ USD"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\" colspan=\"2\">编 码</td><td colspan=\"4\">中对吉减税(20%）</td><td colspan=\"4\">吉对中减税(20%）</td></tr><tr><td colspan=\"2\">吉国</td><td colspan=\"2\">中国</td><td colspan=\"2\">中国</td><td colspan=\"2\">吉国</td></tr><tr><td>贸易效应</td><td>贸易效应</td><td>福利效应</td><td>税收效应</td><td>贸易效应</td><td>贸易效应</td><td>福利效应</td><td>税收效应</td></tr><tr><td>111</td><td>工业的初级品</td><td>7.750</td><td>4.034</td><td>0.236</td><td>-5.348</td><td>0.222</td><td>0.193</td><td>0.009</td><td>-0.218</td></tr><tr><td>112</td><td>工业的制成品</td><td>843.581</td><td>622. 226</td><td>113.570</td><td>- 175.700</td><td>333.720</td><td>304.370</td><td>19.435</td><td>-118.600</td></tr><tr><td>121</td><td>消费的初级品</td><td>1</td><td>1</td><td>1</td><td>1</td><td>31.234</td><td>21.017</td><td>0.984</td><td>- 11.890</td></tr><tr><td>122</td><td>消费的制成品</td><td>43.920</td><td>15.003</td><td>1.382</td><td>-20.730</td><td>470.170</td><td>324.990</td><td>40.319</td><td>- 147.200</td></tr><tr><td>21</td><td>初级工业品</td><td>1159.730</td><td>855.437</td><td>66.212</td><td>-186.800</td><td>103.400</td><td>69.604</td><td>2.328</td><td>-34.120</td></tr><tr><td>22</td><td>经过加工的工业品</td><td>756.420</td><td>313.974</td><td>18.689</td><td>-307.400</td><td>44 722.000</td><td>43 117.000</td><td>3 235.000</td><td>-7 166.000</td></tr><tr><td>31</td><td>初级燃料和润滑油</td><td>54.719</td><td>35.306</td><td>0.640</td><td>-11.700</td><td>0.380</td><td>0.380</td><td>0.009</td><td>-0.073</td></tr><tr><td>32</td><td>经过加工的燃料和润滑油</td><td>1</td><td>1</td><td>1</td><td>1</td><td>48.203</td><td>31.015</td><td>0.337</td><td>- 11.240</td></tr><tr><td>41</td><td>除交通工具外的资本品</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1674.700</td><td>1420.100</td><td>94.695</td><td>-881.300</td></tr><tr><td>42</td><td>资本品中的零件和配件</td><td>0.106</td><td>0.046</td><td>0.001</td><td>-0.055</td><td>1 257.000</td><td>1 161.800</td><td>74.690</td><td>-918.800</td></tr><tr><td>51</td><td>载客汽车</td><td>一</td><td>1</td><td>1</td><td>1</td><td>221.560</td><td>143.950</td><td>9.219</td><td>-210.000</td></tr><tr><td>521</td><td>其他用于工业的运输设备</td><td>一</td><td></td><td>1</td><td></td><td>4 604.900</td><td>4464.900</td><td>363.710</td><td>-69.390</td></tr><tr><td>522</td><td>其他非工业用的运输设备</td><td>一</td><td>1</td><td>1</td><td>1</td><td>306.770</td><td>295.530</td><td>34.687</td><td>- 19.940</td></tr><tr><td>53</td><td>运输设备中的零件和配件</td><td>0.065</td><td>0.014</td><td>0.001</td><td>-0.037</td><td>283.070</td><td>151.900</td><td>6.963</td><td>-163.100</td></tr><tr><td>61</td><td>消费品中属耐用品的产品</td><td>0.181</td><td>0.058</td><td>0.007</td><td>-0.093</td><td>1036.400</td><td>696.090</td><td>46.288</td><td>-628.800</td></tr><tr><td>62</td><td>消费品中半耐用的产品</td><td>11. 225</td><td>9.285</td><td>1. 049</td><td>-0.758</td><td>7 626.200</td><td>6 723.800</td><td>726.860</td><td>-5 413.000</td></tr><tr><td>63</td><td>消费品中非耐用的产品</td><td>1.358</td><td>1.100</td><td>0.105</td><td>-0.105</td><td>6244.300</td><td>5845.200</td><td>572.730</td><td>-3 028.000</td></tr><tr><td>合计</td><td></td><td>2 879.050</td><td>1 856.480</td><td>201.890</td><td>-708.700</td><td>68 942.000</td><td>64 797.000</td><td>5 243.700</td><td>-18 998.000</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b16244ad9e0f146acb06f04b30c9f30463bd797786ed5c1569899fa497fc027a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">编</td><td rowspan=\"2\"></td><td colspan=\"4\">中对吉零关税</td><td colspan=\"4\">吉对中零关税</td></tr><tr><td>吉国</td><td></td><td>中国</td><td></td><td>中国</td><td></td><td>吉国</td><td></td></tr><tr><td>码</td><td></td><td>贸易效应</td><td>贸易效应</td><td>福利效应</td><td>税收效应</td><td>贸易效应</td><td>贸易效应</td><td>福利效应</td><td>税收效应</td></tr><tr><td>111</td><td>工业的初级品</td><td>24.690</td><td>17.845</td><td>0.574</td><td>-19.040</td><td>1.233</td><td>0.998</td><td>0.024</td><td>-1. 179</td></tr><tr><td>112</td><td>工业的制成品</td><td>1 733.000</td><td>1 261.130</td><td>216.560</td><td>-520.400</td><td>1 265.604</td><td>1 136.897</td><td>40.733</td><td>- 556.127</td></tr><tr><td>121</td><td>消费的初级品</td><td>1</td><td>1</td><td>1</td><td>1</td><td>121.714</td><td>90.712</td><td>2.499</td><td>-50.786</td></tr><tr><td>122</td><td>消费的制成品</td><td>97.540</td><td>33.227</td><td>3.098</td><td>-54.890</td><td>1083.993</td><td>709.125</td><td>55.519</td><td>-473.759</td></tr><tr><td>21</td><td>初级工业品</td><td>3 992.000</td><td>2 903.070</td><td>198.65</td><td>-890.600</td><td>443.383</td><td>301.619</td><td>6.812</td><td>- 171.021</td></tr><tr><td>22</td><td>经过加工的工业品</td><td>3 018.000</td><td>1 249.070</td><td>73.381</td><td>-1 381.000</td><td>151 525.200</td><td>145 653.800</td><td>6 234.416</td><td>- 33 239.900</td></tr><tr><td>31</td><td>初级燃料和润滑油</td><td>297.500</td><td>192.219</td><td>3.485</td><td>-74.610</td><td>3.424</td><td>3.424</td><td>0.043</td><td>-0.734</td></tr><tr><td>32</td><td>经过加工的燃料和润滑油</td><td>1</td><td>1</td><td>1</td><td>1</td><td>241.277</td><td>155.140</td><td>1.395</td><td>-65.925</td></tr><tr><td>41</td><td>除交通工具外的资本品</td><td>1</td><td>1</td><td>1</td><td>1</td><td>6 668.191</td><td>5 545.545</td><td>209.912</td><td>-3 967.870</td></tr><tr><td>42</td><td>资本品中的零件和配件</td><td>0.934</td><td>0.354</td><td>0.009</td><td>-0.420</td><td>4 803.556</td><td>4 376.894</td><td>161.213</td><td>-3 884.020</td></tr><tr><td>51</td><td>载客汽车</td><td>1</td><td>1</td><td>1</td><td>1</td><td>684.824</td><td>439.959</td><td>16.918</td><td>-677.101</td></tr><tr><td>521</td><td>其他用于工业的运输设备</td><td>一</td><td></td><td></td><td>一</td><td>14 576.530</td><td>14 047.760</td><td>696.879</td><td>-1 280.680</td></tr><tr><td>522</td><td>其他非工业用的运输设备</td><td>1</td><td>1</td><td>1</td><td>1</td><td>733.459</td><td>706.484</td><td>55.134</td><td>-109.484</td></tr><tr><td>53</td><td>运输设备中的零件和配件</td><td>0.194</td><td>0.042</td><td>0.004</td><td>-0.127</td><td>1 412.586</td><td>788.257</td><td>21.979</td><td>-898.847</td></tr><tr><td>61</td><td>消费品中属耐用品的产品</td><td>0.459</td><td>0.149</td><td>0.019</td><td>-0.272</td><td>3 276.567</td><td>2 242.275</td><td>90.716</td><td>-2139.740</td></tr><tr><td>62</td><td>消费品中半耐用的产品</td><td>27.270</td><td>22. 549</td><td>2.544</td><td>-4.090</td><td>19 222.140</td><td>16 727.050</td><td>1 155.162</td><td>- 15 217.100</td></tr><tr><td>63</td><td>消费品中非耐用的产品</td><td>3.287</td><td>2.664</td><td>0.254</td><td>-0.524</td><td>16 952.260</td><td>15 736.240</td><td>957.364</td><td>-9 169.010</td></tr><tr><td colspan=\"2\">合计</td><td>9 195.000</td><td>5 682.320</td><td>498.580</td><td>-2 946.000</td><td>222 517. 100</td><td>208 397.400</td><td>9 720.378</td><td>- 71 993.300</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4中吉自由贸易的实现路径分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结合表2、表3的模拟结果，值得肯定的是中吉自贸区建成后两国削减关税对双方福利改善有明显改善作用，当然也伴随一定关税损失，福利效应越大，关税损失也越大。那么就贸易效应来说，中吉双方同时削减关税，抑或是同时零关税，吉国获得的贸易总效应都要小于中国获得的贸易总效应，而且随着关税削减程度的降低，吉国构建自贸区的积极性逐渐降低。那么如果中国直接采取零关税，吉国采取逐渐减税是否可以提高吉国的积极性？具体削减幅度是怎样的？此处将尝试做进一步探讨，详见表4。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，在中国对吉国采取直接零关税的情形下，两国的贸易效应分别为 $5 6 8 . 2 3 2 \\times 1 0 ^ { 4 }$ USD和 $9 1 9 . 4 7 2 \\times 1 0 ^ { 4 }$ USD,而吉国对中国采取 $2 5 \\%$ 降税时,两国的贸易效应分别为 $5 ~ 9 0 3 . 0 0 0 \\times 1 0 ^ { 4 }$ USD和$5 ~ 5 4 8 . 1 9 0 \\times 1 0 ^ { 4 }$ USD，此时贸易总效应分别为$6 4 7 1 . 2 3 2 \\times 1 0 ^ { 4 }$ USD 和 $6 ~ 4 6 7 . 6 6 2 \\times 1 0 ^ { 4 }$ USD,中国贸易总效应依然大于吉国贸易总效应，差额为$3 . 5 7 0 \\times 1 0 ^ { 4 } \\ \\mathrm { U S D }$ 。以此类推，那么在削减 $2 5 . 3 5 \\%$ 的情形下，两国的贸易效应分别为 $5 ~ 8 4 4 . 2 5 7 \\times 1 0 ^ { 4 }$ USD 和 $5 ~ 4 9 3 . 0 1 7 \\times 1 0 ^ { 4 }$ USD,那么在中吉自贸区建成后两国的贸易总效应均约为 $6 ~ 4 1 2 . ~ 4 8 9 ~ \\times ~ 1 0 ^ { 4 }$ USD，也即在2016年中吉两国贸易存在一个临界值使得吉国与中国贸易总效应大体相等，如果大于该削减关税值，吉国将大于中国的贸易总效应，反之，则小于中国的贸易总效应。从另一种程度上讲，对于经济发展水平存在差距的两个或几个国家而言，为提高与其共建自贸区的积极性，可以寻求一个平衡点，从而加快自贸区建设的进程。需要明确的是贸易效应与贸易额间的相关性，依具体情况具体分析平衡点的所在。这也进一步验证了中吉两国自由贸易的实现路径是中国直接采取零关税，而吉国采取逐渐削减关税，这对提高吉国共建自贸区的积极性有一定借鉴意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee33292d8d0880a5cda255cffad4a5279b9fb9797e21de659a65b46274e6be2d.jpg",
+        "table_caption": [
+            "表32016年中吉互为零关税情形下的贸易效应、福利和税收效应分析／ $\\mathbf { 1 0 ^ { 3 } }$ USD Tab.3Trade effects，welfare and tax effects in the case of mutual zero reduction of tariffs between China and Kyrgyzstan in $\\mathbf { 2 0 1 6 } / \\mathbf { 1 0 ^ { 3 } }$ USD ",
+            "表42016年吉对中不同削减程度对于两国的贸易效应／ $\\mathbf { 1 0 } ^ { 3 }$ USD",
+            "Tab.4Kyrgyzstan's different cuts of tarifs on China and the two countries’trade effect in $\\mathbf { 2 0 1 6 } / \\mathbf { 1 0 } ^ { 3 }$ USD "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>中国</td><td>吉国</td><td>中国贸易总效应</td><td>吉国贸易总效应</td><td>总效应差额(中-吉)</td></tr><tr><td>中对吉零关税</td><td>5 682.321</td><td>9 194.721</td><td>1</td><td>1</td><td>1</td></tr><tr><td>吉对中减税25%</td><td>59 029.997</td><td>55 481.895</td><td>64 712.318</td><td>64 676.616</td><td>35.702</td></tr><tr><td>吉对中减税26%</td><td>57 382.311</td><td>53 933.214</td><td>63 064.632</td><td>63127.935</td><td>-63.303</td></tr><tr><td>吉对中减税25.5%</td><td>58 194.405</td><td>54 696.517</td><td>63 876.726</td><td>63 891.238</td><td>- 14.512</td></tr><tr><td>吉对中减税25.4%</td><td>58 359.622</td><td>54 851.802</td><td>64 041.943</td><td>64 046.523</td><td>-4.580</td></tr><tr><td>吉对中减税25.3%</td><td>58 525.765</td><td>55 007.965</td><td>64 208.086</td><td>64 202.686</td><td>5.400</td></tr><tr><td>吉对中减税25.35%</td><td>58 442.572</td><td>54 930.172</td><td>64 124.893</td><td>64 124.893</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论及启示",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文得出如下结论：（1）在相同的关税削减幅度的情形下，贸易额越大，贸易效应越大，反之则越小。（2）中吉互相减税的政策给双方带来的贸易促进效应比较显著，对不同类别商品贸易量的增幅存在显著差异。对中吉两国贸易促进作用最为显著的产品主要集中在工业用品，贸易量的增加均来源于贸易创造效应，经加工的工业用品对两国的贸易转移效应最为显著。（3）中吉互相减税对双边贸易促进、福利改善及关税损失也存在显著影响。工业的制成品对中国福利提升最为显著，同时税收损失最严重的为经过加工的工业用品；对吉国福利改善和税收损失显著的均为经过加工的工业用品。（4）中吉自由贸易的实现路径是中国直接采取零关税，而吉国采取逐渐削减关税。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 启示 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随着关税的降低，中吉两国进口增幅明显，但中国对吉国进口贸易规模相对较小，且进口产品结构比较单一，非对称性相互依赖程度也在逐渐增加。另外，中国的产品诸如工业用品、半耐用消费品等产品在吉国内占据一定市场份额且竞争力也渐趋增强，对吉国内产业结构起到一定的引导和优化作用，但同时也将对其民族工业产生较大冲击。此外，过大的贸易逆差也不利于双边经贸合作的进一步深化。因此，在推进中吉双边贸易自由化的过程中，一方面应注意优化调整贸易结构，提高产品资本、技术附加值，提升中国出口产品的质量，树立品牌形象。另一方面应充分考虑对方的发展需求，为对方产品提供一定的市场，带动其共建自贸区的积极性，进而谋求双边互利共赢。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "吉尔吉斯斯坦对自贸区的态度取决于其对两者的权衡。在推进中吉自由贸易时，综合考虑双边自由贸易的经济效应与国内民族工业的发展，吉国与中国成立自贸区的最优选择是采取逐渐减税的方式，一方面可以增加较为可观的贸易创造效应，改善本国福利。另一方面为本国工业，尤其是工业的发展预留充足过渡时间。对于中国而言，直接实行零关税对于我国推进中吉两国自由贸易最有利。另外双方需根据具体情况具体分析，以寻求吉国逐步削减关税的平衡点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]RABALLAND G,ANDRESY A.Why should trade between Central Asia and China continue to expand?［J].Asia Europe Journal,   \n2007,(5) :235-252. [2]AZARKAN E. The interests of the Central Asian States and the Shanghai Cooperation Organization［J].Ege Akademic Bakis,   \n2010,(10）:395-420. [3］赵东波,李英武.中俄及中亚各国\"新丝绸之路\"构建的战略研 究[J].东北亚论坛,2014,（1) $1 0 6 - 1 1 2 + 1 2 7$ .[ZHAO Dongbo,LI Yingwu.Research on the construction strategy of the SinoRussia and Central Asia“New Silk Road\"[J].Northeast Asia Forum,2014，(1)： $1 0 6 - 1 1 2 + 1 2 7 .$ ] [4］尹贻红.FTA背景下中国和中亚五国农业经贸合作研究[D]. 乌鲁木齐：新疆农业大学,2008.[YIN Yihong.Research on agricultural economic and trade cooperation between China and five countries in Central Asia under the background of FTA[D]. Urumqi: Xinjiang Agricultural University,2008.] [5]曹守峰,张姣.中亚五国农产品贸易特征及贸易竞争性[J].俄 罗斯中亚东欧市场,2012,（6）:29-34.[CAO Shoufeng, ZHANG Jiao.Trade characteristics and trade competition of agricultural products in five countries in Central Asia[J].Russian Central Asian & East European Market,2012,（6):29-34.] [6]保建云.中国与中亚五国进出口贸易特点及存在的问题分析 [J].国际贸易问题,2008,（7）:40－46.［BAO Jianyun.On the characteristics and problems of international trade between China and Central Asia countries[J].Journal of International Trade,   \n2008,(7) :40-46.] [7］高志刚,柴利.基于三类模式的中国新疆与中亚次区域经济合 作平台构建[J].俄罗斯中亚东欧市场，2010，（10)：21-27. [GAO Zhigang,CHAI Li. Construct the platform of sub-regional economic cooperation between Xinjiang China and Central Asia countries on the basis of three kinds of model[J].Russian Central Asian & East European Market,2010,（10）:21-27.] [8］胡颖.中亚国家贸易便利化发展及其评价［J].新疆财经,   \n2009,（2）:55-60.[HU Ying.Review of trade facilitation progress in five countries in Central Asia[J].Finance & Economics of Xinjiang,2009,（2）:55-60.] [9］贾俐贞.构建上海合作组织自由贸易区的战略思考[J].俄罗 斯中亚东欧研究,2007,（1）：75－80.［JIALizhen.Strategic thinking on constructing SCO free trade zone[J].Russian Central Asian & East European Research,2007,（1):75-80.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[10］张猛，丁振辉.上海合作组织自由贸易区：构想及其意义[J]. 国际经贸探索,2013,（2）:22-33.[ZHANG Meng,DING Zhenhui.The conception and significance of founding the Shanghai Cooperation Organization free trade area[J].International Economics and Trade Research,2013,(2):22-33.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11」周丽华.中国对吉尔吉斯斯坦贸易及投资的国家风险研究[J].武汉金融，2010，（11）：34-36.［ZHOULihua.China'snational risks to trade and investment in Kyrgyzstan［J].Wuhan Fi-nance,2010，（11):34-36.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[12］李钦，许云霞.中国新疆加大对吉尔吉斯斯坦的出口力度与对策探析[J].俄罗斯中亚东欧市场，2010，（2）：25-29.［LIQin,XU Yunxia.An analysis of Xinjiang's increased exports toKyrgyzstan and countermeasures[J].Russian Central Asian & EastEuropean Market,2010,（2）:25-29.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13］徐慧.中国与吉尔吉斯斯坦的经贸合作[J].俄罗斯中亚东欧 市场,2007,（7）:27-33.[XU Hui.Economic and trade cooperation between China and Kyrgyzstan[J].Russian Central Asian & East European Market,2007,（7):27-33.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14］程云洁.中国与吉尔吉斯斯坦经贸合作的制约因素分析[J]. 新疆财经,2014,（2）:58-64.［CHENGYunjie.Analysis on the restrictive factors of economic and trade cooperation between China and Kyrgyzstan[J].Finance& Economics of Xinjiang,2014, (2):58-64.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[15］方媛,布娲·阿布拉.影响中国与吉尔吉斯斯坦农产品产业内贸易因素分析[J].世界农业，2012，（5）：50－53.［FANGYuan,ABULA Buwajian.An analysis of the factors influencing theintra-industry trade of agricultural products between China andKyrgyzstan[J].World Agriculture,2012,（5）:50-53.]  \n[16］张晓倩，龚新蜀.上合组织贸易便利化对中国农产品出口影响研究-基于面板数据的实证分析［J].国际经贸探索，2015，(1）:28-38.[ZHANG Xiaoqian,GONG Xinshu.Analysis of theimpact of SCO trade facilitation on China's agricultural productexports based on penal data model［J].International Economicsand TradeResearch,2015,（1):28-38.]  \n[17］赵青松.吉尔吉斯斯坦加入俄白哈关税同盟的利弊及其影响[J].国际经济合作，2014，（10）:63-67.［ZHAOQingsong.Theadvantages,disadvantages and influences of Kyrgyzstan’s joiningthe Russia-Belarus-Kazakhstan Customs Union[J].Journal of In-ternational Economic Cooperation,2014,（10）:63-67.]  \n[18］李豫新，郭颖慧.边境贸易便利化水平对中国新疆维吾尔自治区边境贸易流量的影响一基于贸易引力模型的实证分析[J].国际贸易问题,2013，（10）：120-128.［LIYuxin,GUOYinghui.Influence of frontier trade facilitation on frontier tradeflow:An empirical trade gravity analysis of Xinjiang Province inChina[J].Journal of International Trade,2013,（10）：120-128.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Way of free trade between China and Kyrgyzstan under the background of asymmetry interdependence : A simulation based on partial equilibrium theory ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "GAO Zhi-gangSONG Ya-dong (Xinjiang University ofFinance & Economics,Urumqi 830o12,Xinjing,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The asymmetry interdependence is the normal state of economic and trade cooperation between China and Kyrgyzstan.Freetrade between China and Kyrgyzstan is an important part of the interconnection strategy of he Silk Road Economic Belt,and it is alsoa breakthrough point for China tocarryoutthe fre trade zone processto the west.The paper uses the partial equilibrium model to simulate the trade efectsand domestic economic effects of China and Kyrgyzstan free trade zone underdiferent tarif strategies fromthe BEC products.The research shows that under thesame scope of tariffcuts,the changes in the trade effect between 2OO2 and 2O16 in China and Kyrgyzstan are basically the sameas the changes inthe exporttrade of the two countriesat that stage,which indicated that the trade effectis positivelyrelated tothe trade volume.In2O16,the mutual reductionof tarifs between China and Kyrgyzsta has asignificant impacton the trade efect,welfare improvementand tariffloss ofthe two sides,and there are significant diferences in the impactondiferent commodities,especiall for China's trade promotion.For China, the most important products for trade promotion and impact on Chinaare processed industrial products.Itis also the mostobvious tariffloss to China.The most significant productfor China's welfare improvement is industrial finished goods.Primary industrial supplies arethe products that have the most significant impact on Kyrgyzstan's trade promotion.The most significant products for Kyrgyzstan's welfare improvement and tax losses are processed industrial products.The key to achieving the free trade between China and Kyrgyzstan is to finda balance between the two sides,soas to increase the enthusiasmof the Kyrgyz Republic tobuild afree trade zone.Basedoncomprehensive considerations,China'soptimal strategy is todirectlyadoptzero tarifs,hile Kyrgyzstan isgraduallyreducingtariffs. Key words:asymmetry interdependence;； China-Kyrgyzstan free trade；partial equilibrium model； trade effect ",
+        "page_idx": 6
+    }
+]

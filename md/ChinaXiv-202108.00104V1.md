@@ -1,0 +1,343 @@
+# 仪式动作、象征意义和积极情绪增强控制感：
+
+# 双路径机制
+
+尹可丽 兰淼森 李　慧 赵子文(云南师范大学教育学部，昆明650500)
+
+摘要以中国普米族人的传统文化仪式“敬锅庄”为例，采用回忆任务、创设新颖仪式等方法考察仪式动作、象征意义和积极情绪对普米族青少年及成人的控制感的影响。结果表明，熟悉敬锅庄仪式的动作、象征意义或者具有更多情感体验的青少年的控制感更强。仪式动作与象征意义对控制感的影响存在双路径机制：仪式动作直接增强个体的控制感，象征意义通过积极情绪间接增强个体的控制感。象征意义与控制感的关系还因仪式主体不同有所区别：祈求庇佑通过积极情绪间接增强青少年的控制感，表达感恩通过积极情绪间接增强成年人的控制感。研究结果对探究仪式动作、象征意义和积极情绪对个体控制感的影响有重要启示。
+
+关键词控制感，仪式动作，象征意义，积极情绪，敬锅庄仪式
+
+# 1问题提出
+
+控制感是一种心理资源，是个体心理健康的重要变量(Infurma et al.,2011;Ruthig et al,2007)。增强控制感不仅能够提高人的自我效能感和幸福感，改善应对方式(Alonso-Ferres etal.,2019;Drewelies etal.,2018)，使人更好地适应社会环境(Zhou etal.,2012)，还能够改善对灾害等负面事物的心理距离感知(Han etal.，2018)，提高健康水平和生活满意度(Alonso-Ferres et al.,2019; Drewelies et al.,2018; Zheng et al.,2020)。控制感增强还能够降低人的攻击行为和反社会行为(Warburton etal.,2006)，提高对痛苦体验的耐受性并促进亲社会行为(Xuetal.,2020)。因此，探究控制感的心理机制有重要的理论意义和现实意义。
+
+仪式在社会生活中具有重要作用。人类学家玛丽·道格拉斯(Douglas,1966/2020，p.101)指出：“人作为社会动物也是仪式动物。…仪式之于社会要比字词之于思想更为紧密，这样讲毫不过分。我们有可能先了解一个事物再找到与它相匹配的词语，但是没有象征行为就根本不会有社会关系。”仪式对人类的一个重要意义就是通过超自然的方法或通过改变事物的象征来获得对环境的控制感(Kapitany& Nielsen,2015)。研究证实，当人们面对不确定的情境或困境时，仪式动作对情绪的调节功能可以增强控制感(Martin et al.，2015;Norton&Gino,2014)。然而，仪式并非仅由动作构成。除特定动作外，仪式还包括象征意义、目的等(Hobson etal.,2018)。在日常生活中，人们也并不一定在面临困境或挑战时才执行仪式，一些文化仪式(如祭祖仪式)，往往在固定时间点举行。惯例性仪式在各种文化中都普遍存在(Legare et al.,2015)。但是，对惯例性仪式与控制感的关系尚缺乏实证考察。本研究以中国滇西北普米族人的敬锅庄仪式为例，通过普米族青少年和成人在日常生活中“敬锅庄”这一传统文化仪式，考察仪式动作、象征意义和积极情绪对控制感的影响。
+
+# 1.1仪式的要素及特征
+
+仪式是以刻板、模式化和重复为特征的动作序列，这些动作序列镶嵌在一个更大的象征和意义系统中，却缺乏工具性目的(Hobson etal.,2018)。仪式包括动作、象征意义和目的三要素(冉雅璇等，2018)。使这些要素成为仪式的是其特定的特征：动作是刻板的、模式化的和重复的；象征意义隐含在规则中；目的具有非工具性。刻板是指行为与脚本的符合程度，反映在执行动作前意识到应该用精准的方式来执行仪式(Boyer&Lienard,2006)；重复是指相同的动作、姿势或言语的重复(Park，1999)；模式化是指仪式具有不变性，通常需要严格地遵守规则，这种不变的规则通常会增强仪式的意义。仪式的意义要通过公开的象征性的规则表达来表现，如果将仪式的象征意义去掉，仪式会显得很随意，将失去固有的价值(Hobson et al.,2018)。譬如，Brooks 等(2016)指出，“求雨舞”将手指向上指，了解这个动作意义(规则)的人知道这个动作是在求雨，不了解其意义的人会误认为是在指某一地方。仪式动作与仪式目的的关系具有因果不透明性，即从行为的结果看，不能够解释某个特定的行为怎样导致了期望的结果，特定行为(双手向上)与期望结果(下雨)之间并没有一种可以观察到的物理因果关系(Kapitany&Nielsen,2017；邹小燕等,2018)。因此，仪式的目的具有非工具性，也难以验证。
+
+仪式动作与象征意义不可分。但是，已有研究要么仅考虑了仪式动作，如Fischer等人(2013)考察了同步动作对群体实体性的影响，要么就笼统地研究某种“仪式”的功能，如Norton 和Gino(2014)研究经历仪式对丧失后悲伤的作用，Crespo 等人(2011)考察了家庭仪式与家庭凝聚力的关系。我们认为，将两个要素同时考虑更能够清晰地反映仪式的心理功能与作用机制。
+
+# 1.2仪式动作与控制感的关系
+
+仪式动作与控制感的增强有关。关于仪式动作增强控制感的解释主要有两种： (1)控制感补偿理论，认为仪式动作可以作为控制补偿的方式，用来应对不确定性带来的负面感受，帮助人们重新获得心理控制感，更好地适应生活(Legare & Souza,2014；Norton &Gino,2014)。Malinowski (1948)发现，对新几内亚特布里兰群岛的居民而言，渔民在出海前采取的仪式行为，可以在某种程度上减少前往深海捕鱼产生的不确定感。在大学校园里， $70 \%$ 的学生采取仪式行为来提高在考试中的表现(Gallagher&Lewis,2010)。(2)进化预防系统理论，认为刻板、重复、冗余的行为是人在面对危险时形成的认知动机适应，是应对压力、创伤事件的缓冲机制(Boyer&Lienard,2006)。不管哪种理论，均认为仪式动作能够增强控制感。
+
+普米族是中国具有悠久历史和古老文化的民族之一，现有人口4万余人，主要分布在云南省的兰坪白族普米族自治县和宁蒗彝族自治县等地。据文献记载，普米族旧称“西番”，源出于古代氏羌族群，信仰藏传佛教，也信仰韩归教。普米族的民间仪式丰富，“敬锅庄”是其中之一。每一普米族家庭堂屋内都设置一火塘，火塘的正前方立有一块长方形或圆形的白色条石，普米语称之为“括鲁”，即锅庄石。“括鲁”蕴含着祖先之意，普米人认为它是历代祖先的化身(熊永翔,2015)。普米族的敬锅庄仪式具有特定的动作单元，在大祭时，敬锅庄的动作流程包括装饰“括鲁”、摆满各种供品、鸣放鞭炮、长辈唱颂祖先、环火塘曼舞、请祖先享用食物等(章虹宇，2000)。普米族人在每餐前、客人到来时也会敬锅庄。在敬锅庄时，人们会呼唤出一代代祖先的名字，请祖先来享用贡品，有的可以呼唤至30多代，不管多少代都会从普米族共同的祖先“觉吾不直董”开始(熊永翔，2015)。由于“敬锅庄”的仪式动作在普米族的日常生活中不断地被重复执行，可以预期能够增强普米族人的控制感。
+
+# 1.3仪式的象征意义对控制感的影响
+
+已有研究重视考察仪式动作对控制感的影响。为了将动作与文化仪式的象征意义剥离开来，研究者往往使用自创的一套新颖仪式动作(Hobson etal.,2017;Norton&Gino,2014;Tian etal.,2018)。然而，Park(1999)指出，重复、刻板的动作与象征意义虽然都能够影响仪式的效能，但相比而言，象征意义更加重要。Brooks 等人(2016)也发现，象征意义决定仪式对控制感的影响是否发生。
+
+祈求祖先庇佑或向祖先表达感恩，是祭祖仪式常见的象征意义。在仪式中祈祷祖先的庇佑，相信逝去的祖先能够对现世子孙的生活产生影响，是通过一系列祭祖仪式来实现的(色音，2012)。研究发现，巴厘岛的印度人(Balinese Hindus)每天都要进行祭祖仪式，相对于那些很少举行祭祖仪式的马达加斯加维佐人(MalagasyVezo)而言，巴厘岛的印度人更相信祖先的精神能力是存在的，并且影响他们的现世生活(Sebesteny& Emmons,2017)。在仪式中对祖先表达崇敬与感恩，是对自己与祖先之间因为血脉联结而形成的同气连根的情感性表达。
+
+感恩能够提升自我控制(DeSteno etal.,2014；平安俊，彭凯平,2018)，还可以通过改善应对方式增加个体对风险情境的控制(Wood etal.,2007)。
+
+普米族人具有牢固的敬老观念。在老人去世以后，普米人有着独特的“释毕戎肯”葬仪，其中，最重要的环节是亲属要特意向逝者交代各代祖先的姓名谱系，通过这样的仪式，确保亡故父母的灵魂能够回归故里成为祖先神，这是逝者最好的归属，更是生者报答父母养育之恩的最好表达(熊永翔，2015)。由此可以预期，在“敬锅庄”仪式中，向祖先神祈求庇佑或者表达感恩都能够增强普米族人的控制感。但是，由于仪式的主持者为成人，青少年多数为旁观者或者仅参与部分动作的执行，故而仪式的象征意义对青少年和成年人控制感的影响可能不同。
+
+# 1.4仪式增强控制感 积极情绪的中介作用
+
+仪式不仅减少负面情绪(Brooks et al.,2016;Norton&Gino,2014)，还增加积极情绪。研究证明，仪式会促进更多的参与体验，增强消费的享受与乐趣(Vohs etal.,2013)。人在执行仪式时，会体验到自己属于一个群体、一个信仰体系、一个宇宙等更大的范畴，对仪式的象征意义的感知给人提供了舒适感(Hobson et al.，2018)。积极情绪能够预测控制感增强(Ruthig etal.,2008)。仪式会通过积极情绪唤起对控制感起增强作用。综上，本研究拟通过3个实验考察仪式动作、象征意义和积极情绪对控制感的影响。实验1采用回忆任务考察普米族青少年参与敬锅庄仪式时所执行的动作、象征意义及积极情绪，初步探究仪式对控制感的影响；实验2抽取敬锅庄仪式的核心特征创建一种新颖仪式，探讨仪式动作、象征意义和积极情绪对普米族青少年控制感的影响；实验3通过回忆任务启动敬锅庄情境，探讨仪式动作、象征意义及积极情绪对普米族成年人控制感的影响。
+
+# 2实验1通过回忆任务考察仪式对普米族青少年控制感的影响
+
+# 2.1 被试
+
+云南省宁蒗彝族自治县一所九年一贯制学校的普米族青少年80人，有效被试为73人，32 名男生，41名女生，年龄为 $1 2 . 7 1 \pm 1 . 7 5$ 岁。采用 Norton 和Gino(2014)研究美国大学生应对丧失所执行仪式时使用的回忆任务范式，启动普米族青少年对“敬锅庄”仪式的回忆，根据回忆的内容将被试分为高投入组和低投入组。
+
+# 2.2材料与测量工具
+
+回忆任务材料：请宁蒗彝族自治县普米族文化保护协会的2名专家对指导语是否符合普米族的“敬锅庄”仪式的真实情况、用语是否准确、是否有违民族习俗和感情等进行评估。听取专家的意见，最后形成的指导语为：“亲爱的同学：你好！在每日三餐、吾昔节、春节等重大节日，以及在订婚/结婚、客人到来时，普米人都会进行敬锅庄仪式，首先是敬天地神，然后会祭祀祖先。请根据你参加过或者你看到过敬锅庄时与祭祀祖先有关的情景，写一则小短文。比如，你的家人和你做了些什么，说了些什么，你有什么感受，凡是与这件事有关的，你都可以写出来，写的越多越好”。
+
+控制感量表：采用Norton 和Gino (2014)的3个题目，并做了修订：(1)“我感觉失去了控制”；(2)“我感到很无助”；(3）“我感到无能为力”。采用5点评分( $1 =$ 完全不符合，$2 =$ 不太符合， $3 =$ 有点符合， $4 =$ 比较符合， $5 =$ 完全符合)，反向计分，总分越高，表明控制感越强。Norton 和Gino(2014)的研究采用了4个题目，其中第4 题为“你觉得事情在多大程度上得到了控制？”，该题目为反向计分，量表的信度系数为 $\mathtt { a } = 0 . 8 7$ 。因为第4题与本研究的仪式情境不匹配（敬锅庄没有具体的事情所指），所以未采用。只采用三个题目，故信度有所降低， $\mathtt { a } = 0 . 6 2$ ，仍然在可接受范围(吴明隆,2010)。
+
+# 2.3程序
+
+实验在一安静的阶梯教室里进行，被试坐定后，主试发放写有指导语的A4纸。要求学生不能互相交谈、互相抄写，主试全程严格监督学生填写材料时的纪律。允许不会写的字用拼音代替。30分钟后，统一收回材料，然后放发、填写控制感量表。
+
+# 2.4统计分析
+
+(1)在仔细浏览被试作答后，剔除未按照要求作答的7份问卷，对73份有效回忆内容进行整理。根据前期田野调查，敬锅庄仪式的执行者通常为家中的长辈，为了验证该结论，将敬锅庄仪式的执行者作为1个分析单元；根据以往研究，仪式动作、象征意义与积极情绪对个体的控制感可能产生影响，因此，将敬锅庄的动作、意义和积极情绪分别作为1 个分析单元。对每位被试在上述4个单元上的作答逐一加以统计。
+
+(2)被试分组
+
+根据被试描述敬锅庄时的内容，分为高投入组 $( n = 3 6 )$ 与低投入组 $( n = 3 7 )$ 。符合以下3条标准中2条为高投入组：(1)有亲自执行仪式的动作。在回忆描述内容中，有亲自参与敬锅庄仪式动作的经历，比如家人特意让回忆者参加或执行了部分仪式，包括放食物、磕头、祈愿等；(2)熟悉仪式的细节，对敬锅庄仪式动作和象征意义有具体的细节描述，对敬锅庄仪式的规则和要求描写很清楚；(3)情感体验强，如表达了严肃、神圣等情感。符合以下 3条标准中2条为低投入组：(1)缺乏执行仪式动作的经验，如没有关于参与材料准备、执行部分仪式动作的描述；(2)不熟悉仪式的细节，对敬锅庄的描述笼统，如只提到什么时候敬锅庄，未提怎么做，也未提到意义；(3)缺乏情感描述。因不涉及频次计算等内容，故采用焦点小组讨论决定被试分组：由1名心理学教授与8名硕士生分别对被试撰写的材料给出分组看法，一致性达 $8 5 \%$ 以上即可决定；否则，由不同意见者提出看法，全员重新审核材料直至最终达成一致。
+
+# 2.5结果与分析
+
+在 73 名普米族青少年描述的敬锅庄仪式中：(1)仪式执行者：老人或长辈(37人，占$5 0 . 7 \% \AA )$ ；爸爸或妈妈(13人， $1 7 . 8 \% )$ ；爷爷或奶奶(12人， $1 6 . 4 \%$ ；未提及称谓(11人， $1 5 . 1 \% \AA$ 可见，在“敬锅庄”时，一般都由家中长辈主持仪式。(2)敬锅庄的动作：按被提及最多次数依次为，在吃饭前将饭菜、水果等贡品放在锅庄上(44人， $6 0 . 2 7 \% )$ ；磕头(20人， $2 7 . 4 0 \%$ ：洒酒在锅庄上(19人， $2 6 . 0 3 \%$ ；烧香(14人， $1 9 . 1 8 \%$ )；烧松枝(10人， $1 3 . 7 0 \%$ )等13种动作。23人 $( 3 1 . 5 \% )$ 有根据长辈安排执行某些敬锅庄动作的经验。 (3)象征意义：提及庇佑者33人$( 4 5 . 2 1 \% )$ ；提及感恩祖先者11人 $( 1 5 . 0 7 \% )$ ；未提及者29人 $( 3 9 . 7 3 \% )$ )。(4)积极情绪：幸福(20人， $2 7 . 4 0 \% )$ ；快乐(9人， $1 2 . 3 3 \% \cdot$ ；神圣感(6人， $8 . 2 2 \%$ ；严肃感(5人， $6 . 8 5 \%$ ）
+
+独立样本 $\mathbf { \Psi } _ { t }$ 检验表明，高投入组的控制感得分 $\left( 1 3 . 8 9 \pm 1 . 6 5 \right)$ 显著高于低投入组( $( 1 2 . 9 7 \pm$ 2.15), $t ( 7 1 ) = 2 . 0 4$ $p = 0 . 0 4 6$ ,Cohen's $d = 0 . 4 8$ 。见图1。
+
+![](images/526886ac2071ff6d55d6fdf12f5c7e8124414b1cf6ae2c9b38e3fad33a9c24f0.jpg)  
+图1敬锅庄与普米族青少年控制感的关系
+
+2.6 讨论
+
+实验1表明，在敬锅庄仪式中有更多参与行为，更熟悉仪式的动作、规则和意义，有更多情感体验的青少年的控制感更高，证实敬锅庄与普米青少年的控制感有关。已有研究表明，与无仪式条件比，有仪式条件增强人的控制感(Mitkidis et al.，2017；Norton& Gino,2014;Vohs etal.,2013)。然而，由于被试的回忆掺杂了动作、象征意义、情绪、对仪式的熟悉感等因素，实验1不能明确这些因素在控制感增强中以何种方式在起作用。实验2设计了新颖仪式，将动作与象征意义分离，排除熟悉感的干扰，进一步考察仪式动作、象征意义以及伴随产生的积极情绪对控制感增强的影响。
+
+# 3 实验2新颖仪式对普米族青少年控制感的影响
+
+在实验1收集的敬锅庄仪式动作基础上创设了新颖仪式，检验仪式动作、象征意义能
+
+否增强控制感，并分析积极情绪在控制感增强过程中是否有中介作用。
+
+# 3.1被试
+
+通过G\*Power 计算(Faul et al.,2007)，期望得到中等效应量 $f = 0 . 2 5$ ，并获得 $80 \%$ 的统计效力，所需样本量为 $N = 8 1$ 。在宁蒗彝族自治县两所中学选取7至9年级学生100人(未参加实验1)。4人未完成全部实验，最终获得有效样本96人，52名男生，44名女生，年龄为$1 3 . 6 8 \pm 1 . 0 2 \$ 岁。
+
+# 3.2设计
+
+2(仪式动作：执行动作/无动作) $\times 3 0$ (象征意义：感恩/庇佑/无意义表达)混合设计，仪式动作为被试内变量，象征意义为被试间变量。
+
+# 3.3测量工具与实验材料
+
+(1)控制感量表：同实验1。
+
+(2)积极情绪问卷：选取简版心理健康连续体量表的情绪幸福感维度(尹可丽，何嘉梅，2012)，包括三个项目：“我感觉心情愉快”；“我觉得生活有乐趣”；“我感到满意”。采用5点评分( $1 =$ 完全不符合， $2 =$ 不太符合， $3 =$ 有点符合， $4 =$ 比较符合， $5 =$ 完全符合)， $\mathtt { a } = 0 . 7 4$ ，总分越高，表示积极情绪越多。
+
+(3)材料：
+
+包括仪式示范视频、130张中性图片组成的图片库、标有数字1至5的卡片、橙色荧光笔1支。在各实验条件下，指导语配音均为同一年轻女性的声音，按实验条件不同，呈现对应的刺激材料。
+
+在仪式动作条件下，刺激材料为持续时间10\~11min的仪式示范视频(共3种，按不同象征意义分组：感恩/庇佑/无表达)。在各分组中，仪式动作示范者均为同一年轻男性(脸部做了马赛克处理)、同样衣着。
+
+在无动作条件下，刺激材料为每次从130张中性图片库中随机抽取的图片，切换频率为2s/张，持续时间为 $1 0 \mathrm { { m i n } }$ 的中性图片组合刺激。在130张中性图片中，生活用品86张，交通工具46张。实验前，33位心理学硕士生从愉悦度、唤醒度、优势度三个维度对所有中性图片进行1\~9 点评分。结果表明，所用图片符合要求(见表1)。
+
+表1中性图片在愉悦度、唤醒度、优势度的平均数(标准差)  
+
+<html><body><table><tr><td>图片类型</td><td>愉悦度</td><td>唤醒度</td><td>优势度</td></tr><tr><td>生活用品</td><td>4.57(1.60)</td><td>4.45(1.78)</td><td>5.29(2.20)</td></tr><tr><td>交通工具</td><td>4.55(1.65)</td><td>4.53(1.77)</td><td>5.05(1.92)</td></tr></table></body></html>
+
+# 3.4程序
+
+经宁蒗彝族自治县普米族文化保护协会专家评定，认为实验程序不存在宗教冒犯感等问题。
+
+实验在单独房间里进行，随机将被试分到感恩 $\left( n = 3 1 \right)$ ）、庇佑 $( n = 3 3 )$ 、无表达 $\mathrm { ( } n = 3 2 ) \mathrm { \overset { \prime } { . } }$ 3组，程序在电脑上通过Eprime3.0呈现。
+
+在仪式动作条件下，分为练习与正式实验。在练习阶段，被试将跟随视频里的人练习仪式动作。指导语为：“下面你将会看到一个祭祖仪式的视频。首先，是祭祖仪式有关物品的介绍：在你前方桌子中间标有数字1至5的区域，左边有5张标有数字1至5数字的卡片，右边有一只笔。接下来，请跟着视频里的人做同样的祭祖仪式动作，并记住。
+
+第一步：双手拿起左边标有‘1’的卡片，举过头顶。
+
+第二步：慢慢弯腰双手将卡片放在桌面上标有序号‘1’的区域。
+
+第三步：再次用双手从左边拿起标有数字‘2’的卡片，举过头顶。慢慢弯腰，把纸片放在桌面上标有数字‘2’的区域。接下来，用同样动作依次将剩下卡片放在桌面上的相应区域。
+
+第四步：双手拿起桌面右边的笔，握于胸前。闭上双眼，你要跟着说出：‘请祖先保佑我平安顺利’ (庇佑组)，重复3遍/‘感谢祖先给予我生命’ (感恩组)，重复3遍/仅闭眼静立15秒（无表达组）。最后睁开眼睛，将笔放在桌面上的红条处。下面，你要跟着视频里的人完整的做一次祭祖仪式。
+
+如果你已经能够熟练执行这个仪式，请按‘Y’键进入正式实验，如果你还不能熟练执行这个仪式，请按‘N’键返回上一阶段”。
+
+在正式实验阶段，指导语如下：“现在，请你认真执行一遍刚刚所做的祭祖仪式，你有充分的时间，请按照刚才视频里的速度来做，不必过快也不必过慢。记住要闭上双眼，并清晰说3遍：‘请祖先保佑我平安顺利’ (庇佑组)‘感谢祖先给予我生命(感恩组)’／无仅闭眼静立15秒(无表达组）”。当被试自己执行完祭祖动作后，完成情绪、控制感的评估。
+
+在无动作条件下，被试看到每次从130张中性图片库中随机抽取、切换频率为2s/张、持续时间为10\~11min的中性图片组合刺激。呈现结束后，庇佑组会出现指导语：“祭祖仪式是为了向祖先祈求庇佑，每个人都有自己的祖先，请你对祖先说一句祈求庇佑的话，你要清晰地说三遍：“请祖先保佑我平安顺利”。感恩组会出现指导语：“祭祖仪式是为了向祖先表达感恩之情，每个人都有自己的祖先，请你对祖先说一句表达感恩的话，你要清晰地说三遍：“感恩祖先给予我生命”。无表达组空屏3s。接着，完成情绪、控制感评估。无动作条件下图片呈现时间与仪式动作条件下仪式示范视频的呈现时间匹配，均在$1 0 { \sim } 1 1 \mathrm { m i n }$ 之间。
+
+当被试完成一个条件的实验后，在另一教室里完成 $3 0 \mathrm { m i n }$ 的折纸任务，然后进行下一个条件的实验。一个被试在折纸时，另一被试会进行实验。由于是否执行仪式动作为被试内变量，实验采取“ABBA法”平衡顺序效应。实验处理的条件和顺序见图2。
+
+![](images/f9854ac65deba2cb0cf805e155b470a4e03526c63ec08a6ee70dfbbd68ba6c3d.jpg)  
+图2实验2流程图
+
+# 3.5结果与分析
+
+对数据用Harman单因素检验进行共同方法偏差检验，探索性因子分析提取特征根大于1的因子3个，最大因子方差解释率为 $3 5 . 0 8 \%$ （小于 $4 0 \%$ )，故实验2数据不存在严重的共同方法偏差。 $3 0 \mathrm { m i n }$ 的折纸任务也起到消退作用，降低了被试作答时采取共变策略的可能。
+
+# 3.5.1被试的积极情绪和控制感
+
+被试在不同条件下的积极情绪、控制感得分见表2。
+
+以控制感为因变量的混合设计重复方差分析表明，仪式动作的主效应显著， $F ( 1 , 9 3 ) =$ 4.20, $p = 0 . 0 4 3$ $\mathfrak { \eta } _ { \mathfrak { p } } { } ^ { 2 } = 0 . 0 4$ 。仪式动作条件下的控制感得分 $( M = 1 2 . 6 3 )$ 显著高于在无动作条件下 $( M = 1 2 . 1 8 )$ 。象征意义的主效应不显著， $F ( 2 , 9 3 ) = 2 . 9 2$ $p = 0 . 0 5 9$ 。仪式动作与象征意义在控制感上的交互作用不显著， $F ( 2 , 9 3 ) = 0 . 2 5 , p = 0 . 7 7 9$ 。
+
+表2被试的积极情绪、控制感的平均分  
+
+<html><body><table><tr><td>仪式动作</td><td>象征意义</td><td>积极情绪</td><td>控制感</td></tr><tr><td rowspan="3">执行动作</td><td>感恩</td><td>10.87(2.78)</td><td>12.16(2.15)</td></tr><tr><td>庇佑</td><td>12.85(1.99)</td><td>13.33(1.85)</td></tr><tr><td>无意义</td><td>9.94(2.50)</td><td>12.34(2.54)</td></tr><tr><td rowspan="3">无动作</td><td>感恩</td><td>10.32(3.00)</td><td>11.94(2.62)</td></tr><tr><td>庇佑</td><td>12.33(1.91)</td><td>12.79(1.88)</td></tr><tr><td>无意义</td><td>9.72(2.94)</td><td>11.78(2.12)</td></tr></table></body></html>
+
+以积极情绪为因变量的混合设计方差分析表明，仪式动作的主效应显著， $F ( 1 , 9 3 ) = 4 . 3 4 \$ $p = 0 . 0 4$ ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } = 0 . 0 5$ 。象征意义的主效应显著， $F ( 2 , 9 3 ) = 1 2 . 0 7 , p \ < \ 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 }$ $\mathfrak { \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 2 1$ 。事后检验表明，无论是否执行仪式动作，庇佑组的积极情绪得分均显著高于感恩组 $( p = 0 . 0 0 1 )$ 和无意义组 $( p \ < \ 0 . 0 0 1 )$ ，其他的组间差异均不显著 $( p s > 0 . 0 5 )$ ，见图3。仪式动作与象征意义的交互作用不显著， $F ( 2 , 9 3 ) = 0 . 2 6$ $p = 0 . 7 7 1$ 。
+
+![](images/cea1a32b3f5bc8a153fe6511da1262f4fe86173e4e85f2bc8a27ddf15d7aee1c.jpg)  
+图3仪式动作与象征意义影响积极情绪的方差分析结果
+
+# 3.5.2积极情绪的中介作用
+
+将象征意义的不同操纵(感恩组、庇佑组、无意义组)作为虚拟变量，两水平分别编码为1 和0，1代表感恩组或庇佑组，0代表无意义组。根据 Hayes (2013)的做法，采用 Bootstrap方法，选择模型4，抽样 5000 次，以评估积极情绪的中介作用。结果显示，在执行仪式动作条件下，无论是表达感恩或是祈求庇佑，象征意义的直接效应和积极情绪的间接效应都不显著， $9 5 \%$ 置信区间包含0。无仪式动作但表达感恩时，表达感恩的直接效应和积极情绪的间接效应都不显著， $9 5 \%$ 置信区间包含0。无仪式动作表达庇佑时，积极情绪的中介作用显著，间接效应大小为0.28， $9 5 \%$ 置信区间[0.11,1.30]不包含0，占总效应的 $6 2 . 9 0 \%$ ，祈求庇佑对控制感的直接效应不显著， $9 5 \%$ 的置信区间[-0.61,1.35]包含0，见图4。
+
+![](images/52c5b6c47d2de42f7a2c7847bd7f1d9e3e36c9c325a21521cf3fa418fd523adf.jpg)  
+图4不执行动作条件下庇佑的象征意义通过积极情绪影响控制感的中介模型（注： $* * _ { p } < 0 . 0 1$ ， $* * * _ { p } < 0 . 0 0 1 \$
+
+# 3.6讨论
+
+新颖仪式动作直接增强了普米族青少年的控制感，这与以往研究的结果一致(Hobson etal.,2017;Norton&Gino,2014;Tian etal.,2018)。在无仪式动作条件下，祈求庇佑的象征意义通过提高积极情绪间接增强了普米族青少年的控制感，这是因为在执行新颖动作时，被试需要将注意力集中在准确执行分段的动作单元上(Hobson etal.,2018)，减少了对祈求庇佑的象征意义感知。向祖先表达感恩则未增强控制感，也不存在积极情绪的中介效应，可能与两种象征意义启动的难易程度有关。
+
+# 4 实验3以回忆任务考察仪式对普米族成年人控制感的影响
+
+在现实生活中，普米族青少年只是敬锅庄仪式的旁观者，他们听从长辈的要求向祖先神祈求庇佑，家中长辈是仪式的执行者。仪式主体的经验差异可能影响仪式对控制感的作用。因此，实验3选取成人，继续探究仪式动作、象征意义及积极情绪对控制感的作用。
+
+# 4.1 被试
+
+宁蒗彝族自治县70名普米族成年人参与了实验3，由于3人在实验过程中退出，最终共67人完成了实验。其中，22名男性，45名女性，被试年龄为 $4 2 . 7 8 \pm 1 3 . 3 8$ 岁。
+
+# 4.2设计
+
+通过回忆启动普米族成年人的敬锅庄经验。让被试回忆以下3方面问题：(1)在敬锅庄中做了什么？(2)说了什么？ (3)有什么感受？然后对描述内容进行记录。
+
+# 4.3 材料
+
+(1)被试的年龄、性别等人口学资料；在敬锅庄仪式中呼唤祖先的代数。
+
+(2)控制感量表 $\left( \mathsf { a } = 0 . 6 9 \right)$ 、积极情绪问卷 $\left( \mathtt { a } = 0 . 6 3 \right)$ ，两个问卷与实验2相同。
+
+(3)感恩问卷。根据 Adler 和Fagley (2005)编制的 AS(The Appreciation Scale)量表中的感恩仪式分量表项目改编成的5个题目：“敬锅庄时我会感恩祖先赐予的福气”“我每天至少感恩一次我的祖先”“我敬锅庄是提醒自己要感恩祖先”“我用敬锅庄表达对祖先的感激”“我觉得经常提醒自己要对祖先心存感激这件事情很重要”。量表的信度系数 $\mathtt { a } = 0 . 7 5$
+
+5级评分，“1”代表“完全不符合”至“5”代表“完全符合”，总分越高，代表感恩的程度越高。
+
+(4)庇佑问卷。将自我价值感权变性量表(Contingencies of Self-Worth Scale,CSWS,Zeigler,2006)中神灵庇佑(God'slove)维度的5个项目改编为适合祖先庇佑的问卷题项：“祭祀祖先可以保佑我和我的家庭更加和谐平安，兴旺发达”“祭祀祖先可以使我做人做事更加自信”“我觉得如果不举行祭祖仪式会失去祖先的庇护”“祭祀祖先会得到好报”“如果不祭祀祖先，我会感到自己孤立无援”。量表的信度系数 $\mathtt { a } = 0 . 7 8$ 。5级评分，“1”代表“完全不符合”至“5”代表“完全符合”，总分越高，代表被试感受到的庇佑越多。
+
+# 4.4程序
+
+首先呈现指导语：“尊敬的爷爷/奶奶/叔叔/阿姨：您好！在每日三餐、吾昔节、春节等重大节日，以及在订婚/结婚、客人到来时，普米族人都会进行敬锅庄仪式，首先是敬天地神，然后会祭祀祖先。请根据您参加过的或者您看到过的祭祀祖先的情景，说一说，您的家人和您做了些什么，说了些什么，您有什么感受”。记录被试的描述。
+
+被试描述完敬锅庄情景后，填写人口学资料、仪式中呼唤祖先的代数，并完成《控制感问卷》、《积极情绪问卷》、《感恩问卷》和《庇佑问卷》。
+
+# 4.5结果与分析
+
+对数据采用Harman 单因素检验进行共同方法偏差检验，探索性因子分析提取出特征根大于1的因子5个，最大因子方差解释率为 $3 1 . 4 3 \%$ （小于 $4 0 \%$ )，故数据不存在严重的共同方法偏差。
+
+参与本调查的普米族成人中，每日三餐都敬锅庄者55人 $( 8 2 . 1 \% )$ ，每日一至二餐敬锅庄者9人 $( 1 3 . 5 \% )$ ，3人每年敬锅庄1次 $( 4 . 5 \% )$ 。37人 $( 5 5 . 2 \% )$ 敬锅庄时能够呼唤0\~3代祖先的名字，23人 $( 3 4 . 3 3 \% )$ 能够呼唤4\~9代祖先的名字，7人 $( 1 0 . 4 5 \% )$ 能够呼唤10代以上祖先的名字。67人都表示在敬锅庄时既祈求庇佑，也表达感恩。放贡品、点灯烧香等基本仪式动作67位人都有执行，但每个人在敬锅庄时呼唤祖先名字的数量却存在着差异。对普米族成人而言，呼唤祖先名字是敬锅庄的核心元素，呼唤祖先的名字越多，需要投入更多时间去记忆祖先的名字。在执行仪式时，精确呼唤多代祖先的名字者所花的时间比笼统呼唤祖先者多。所以，普米族成年人呼唤祖先名字的代数多少，体现了敬锅庄仪式动作执行的程度或水平。被试在各变量上得分及变量之间的相关见表3。
+
+表3变量的描述统计与相关分析  
+
+<html><body><table><tr><td></td><td>M± SD</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>1呼唤代数</td><td>4.70 ± 4.73</td><td>1</td><td></td><td></td><td></td></tr><tr><td>2 积极情绪</td><td>14.22 ± 1.42</td><td>0.204</td><td>1</td><td></td><td></td></tr><tr><td>3感恩</td><td>22.97 ± 2.72</td><td>0.175</td><td>0.483***</td><td>1</td><td></td></tr><tr><td>4庇佑</td><td>20.10 ± 4.25</td><td>0.084</td><td>0.251*</td><td>0.698***</td><td>1</td></tr><tr><td>5控制感</td><td>13.51 ± 1.94</td><td>0.317**</td><td>0.243*</td><td>0.055</td><td>- 0.012</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5 , ^ { * * } p < 0 . 0 1 , ^ { * * * } p < 0 . 0 0 1$ ，下同
+
+Pearson相关分析表明，控制感得分与积极情绪 $( r = 0 . 2 4$ $p = 0 . 0 4 7 )$ 、呼唤代数 $( r = 0 . 3 2$ $p = 0 . 0 0 9 _ { , } ^ { \cdot }$ 相关显著，与年龄、家庭人数、使用语言数、表达感恩和祈求庇佑的程度相关不显著 $( p > 0 . 0 5 )$ 。表达感恩和祈求庇佑两种象征意义与积极情绪的相关都显著(感恩： $r =$ $0 . 4 8 , p \ < \ 0 . 0 0 1$ vs．庇佑： $r = 0 . 2 5 , p = 0 . 0 4 0 )$ 。独立样本 $t$ 检验和单因素方差分析显示，控制感得分在性别、宗教信仰、受教育程度、祭祖频率上差异均不显著 $( p > 0 . 0 5 )$ 。将与控制感得分相关显著的变量纳入回归方程。回归分析显示，呼唤代数可以显著地预测控制感水平，见表4。
+
+表4控制感预测因素的回归分析结果 $( N = 6 7 )$ （204  
+
+<html><body><table><tr><td>变量</td><td></td><td>t</td><td>Ypartial</td></tr><tr><td>呼唤代数</td><td>0.279</td><td>2.349*</td><td>0.282</td></tr><tr><td>积极情绪</td><td>0.187</td><td>1.570</td><td>0.193</td></tr></table></body></html>
+
+为了考察呼唤代数、象征意义、积极情绪与控制感的关系，首先，以两种象征意义为自变量，控制感为因变量，积极情绪为中介变量搭建显变量模型，采用AMOS 24.0偏差矫正的非参数百分位 bootstrap 法，抽样 5000 次，检验各路径系数及间接效应的显著性(模型1)。其次，将不显著的路径和变量关系剔除，重新检验各路径系数及间接效应(模型 2)。最后，将实验3中新引入的变量一一呼唤代数加入模型，再次检验各路径的系数及间接效应，以考察呼唤代数加入后的模型变化(模型3，仅呈现显著路径)。结果表明，在各模型中，积极情绪在表达感恩和控制感之间的中介作用均显著。模型3显示，呼唤代数直接影响控制感，而当同时考虑呼唤代数、感恩、积极情绪与控制感的关系时，感恩对控制感的间接作用有所减弱，呼唤代数能直接影响控制感，且与“感恩→积极情绪 $$ 控制感”的路径相独立(交互项不显著)。各模型的路径系数见表5。
+
+表5路径系数和间接效应检验  
+
+<html><body><table><tr><td rowspan="2">项目</td><td rowspan="2">路径</td><td rowspan="2">β</td><td rowspan="2">SE</td><td colspan="2">95%置信区间</td></tr><tr><td>Lower</td><td>Upper</td></tr><tr><td rowspan="7">模型1</td><td>庇佑→积极情绪</td><td>-0.17</td><td>0.05</td><td>- 0.484</td><td>0.217</td></tr><tr><td>感恩→积极情绪</td><td>0.60*</td><td>0.08</td><td>0.012</td><td>0.898</td></tr><tr><td>积极情绪→控制感</td><td>0.28</td><td>0.19</td><td>- 0.015</td><td>0.535</td></tr><tr><td>庇佑→控制感</td><td>-0.05</td><td>0.08</td><td>- 0.425</td><td>0.329</td></tr><tr><td>感恩→控制感</td><td>-0.04</td><td>0.13</td><td>- 0.519</td><td>0.359</td></tr><tr><td>庇佑→积极情绪→控制感</td><td>-0.05</td><td>0.06</td><td>-0.212</td><td>0.055</td></tr><tr><td>感恩→积极情绪→控制感</td><td>0.17*</td><td>0.12</td><td>0.004</td><td>0.506</td></tr><tr><td rowspan="4">模型2</td><td>感恩→积极情绪</td><td>0.48*</td><td>0.06</td><td>0.125</td><td>0.721</td></tr><tr><td>感恩→积极情绪→控制感</td><td>0.12*</td><td>0.05</td><td>0.030</td><td>0.238</td></tr><tr><td>感恩→积极情绪</td><td>0.48*</td><td>0.06</td><td>0.125</td><td>0.721</td></tr><tr><td>呼唤代数→控制感</td><td>0.28***</td><td>0.05</td><td>0.159</td><td>0.394</td></tr><tr><td>模型3</td><td>感恩→积极情绪→控制感</td><td>0.09*</td><td>0.05</td><td>0.009</td><td>0.208</td></tr></table></body></html>
+
+# 4.6讨论
+
+实验3显示，在“敬锅庄”仪式中，呼唤祖先名字这一动作与普米族成人的控制感有关，呼唤祖先名字的代数越多者，控制感越高。“敬锅庄”的两种象征意义(表达感恩和祈求庇护)与控制感的相关不显著，这与实验2中象征意义在控制感上的主效应不显著对应。可见，不管是在行为层面还是在相关层面，“敬锅庄”的象征意义均与控制感无直接联系。但在“敬锅庄”中，成人表达对祖先的感恩通过积极情绪的中介作用来影响控制感，这与在实验2 中当普米族青少年祈求祖先庇佑时才通过积极情绪的中介作用来影响控制感的结果不一致，提示仪式主体和经验差异使得仪式的两种象征意义对两个群体的控制感产生了不同影响。普米族成人比青少年更能够理解和体验到“敬锅庄”仪式的感恩祖先的意义。
+
+# 5综合讨论
+
+# 5.1仪式动作直接增强控制感
+
+仪式是获得和提高控制感的方式之一(Legare& Souza,2014;Norton& Gino,2014; Tianet al.,2018)。仪式动作的重复次数、步骤数量是影响仪式效能的主要因素(Hobson etal.,2016;Legare& Souza,2012)。3个实验从不同角度证明，惯例性文化仪式动作与带有文化象征意义的新颖仪式动作均能够增强普米族人的控制感，揭示了传统惯例仪式仍然暗含着激活危险防御系统的价值。进化预防系统理论认为，当面对环境中各种危险时，采取行动总比不采取任何行动要好，即使采取重复、冗余和刻板的行为，也使人觉得有用。在进化中，仪式化行为被保存下来，作为一种危险防御系统帮助人们适应社会和环境中的危险和压力(Boyer&Lienard,2006)。所以，当人们执行仪式动作时，会本能地激活危险防御系统，通过仪式动作确保危险排除，从而获得了控制感。
+
+根据社会认同理论，当人觉知到自己属于某群体时，会因为感到被支持和尊重而获得社会支持体验，从而使控制感变得更强(Greenaway et al.,2015)。如果人感知到自己拥有足够的社会关系和资源，在面对挑战与危机时会更容易从他人那里获得物质上和精神上的支持，进而产生更强的控制感和克服逆境的心理资源(Chun&Lee,2017)。仪式对增强人的控制感、增进人的心理健康具有重要作用。重复的供奉与呼唤祖先名字唤起的家族认同感和社会支持体验，会激发起与祖先在一起的情感。这是仪式动作增强普米族人控制感的另一原因。
+
+# 5.2象征意义通过提高积极情绪间接影响控制感
+
+Brooks 等人(2016)指出，仪式的象征意义决定仪式对情绪的影响。实验2与实验3表明，不是仪式动作，而是象征意义增强了积极情绪，并通过积极情绪影响了个体的控制感。象征意义蕴含的积极性和神圣性是象征意义提高积极情绪的重要原因。仪式的象征意义能够使人体验到自己属于一个群体、一个信仰体系等更大的范畴，对这种意义的感知能给人带来积极的情绪体验(Hobson etal.,2018)，这种神圣化的做法能够形成与超越自我的事物相联系的体验，能够增强幸福感(Piedmont，1999)。因此，当普米族人向祖先祈求庇佑或者表达感恩时，会体验到自己与祖先的联系，认为祖先神在庇佑支持自己，这种信心可以使人们更加积极乐观。这并不意味着人们认为自己的一切都有赖于祖先的庇佑，而是更多地表达了人们对未来的美好希冀。
+
+然而，相较于成人，青少年的身心发展尚未健全，他们在经济上尚未独立，是需要照顾庇护的对象，故在实验1中，普米族青少年更多地描述了祈求庇佑的象征意义；在实验 2中，普米族青少年不执行仪式动作，仅祈求庇佑就能够增加积极情绪进而提升了控制感。这些结果均反映出青少年在“敬锅庄”仪式中，更多地体验到祈求庇佑这一象征意义。向祖先神祈求庇佑是人的情绪抒发，所得到的更多的是情绪抚慰，而不是控制感的直接增强。同样，感恩之情的流露为人带来了积极的情绪体验(Lin,2019)。实验3表明，感恩祖先是普米族成人在“敬锅庄”中更多地体验到的象征意义。向祖先表达感恩提高了普米族成人的积极情绪，积极情绪增强了控制感，这与以往情绪影响控制感的研究结论是一致的(Ruiz-Aranda et al.,2012)。可见，不同年龄的主体对仪式的参与方式与程度不同，生活经历不同，他们的仪式经验也存在着差异。
+
+# 5.3仪式动作和象征意义分别影响控制感增强：双路径机制
+
+本研究发现，仪式动作和象征意义对控制感的影响并不存在交互作用，说明仪式的两个要素分别对控制感增强产生了影响，因而存在着双路径机制。这从一个侧面证实了Hobson等人(2018)提出的仪式存在两个层次的心理过程的观点，即仪式的身体特征(仪式动作)和心理特征(仪式的象征意义/规则)分别导致了自下而上的加工和自上而下的加工(Nielbo &Sorensen,201)。就本研究而言，仪式动作的加工方式是自下而上的、高度模式化的动作序列，需要人在执行仪式动作时先将之解析为分段的动作单元。执行仪式的动作向人们传达了一种自我控制的内部感受(Tian et al.,2018)，直接增强了控制感，但是，这种认知资源的消耗有可能影响了积极情绪产生。象征意义的表达是一种自上而下的加工，使人感受到与祖先、家庭传统、文化的联系，带给人敬畏、神圣、感激等情绪(Hobson etal.,2018)，能够通过意义扩大增加积极情绪进而增强了控制感。
+
+# 5.4本研究的创新性和应用价值
+
+本研究在理论上有三点创新：(1)已有研究(如，Brooks et al.,2016;Norton&Gino,2014;Tian et al.,2018)并未重视将仪式的动作、象征意义与情绪分离。本研究通过将仪式分解为仪式动作、象征意义和仪式引起的积极情绪，发现仪式动作、象征意义在控制感增强中的不同作用，深化了仪式心理研究。(2)本研究发现仪式中不同类型的象征意义对不同年龄群体的控制感有不同作用，为解释仪式影响控制感贡献了新知识。(3)通过抽取敬锅庄仪式的核心要素，创设出新颖仪式，用实验法考察仪式对控制感的影响，与以往采用田野调查或现象学分析的文化仪式研究相比，在方法上有较大突破。
+
+本研究结果也有明显的应用价值。在现代化进程中，面对文化变迁、生活环境变迁等挑战，充分发掘民族文化中仪式的心理意义，在新社会生态环境中创造性地传承传统文化仪式的动作与象征意义，感受仪式带来的愉悦情绪和充足控制感，能够帮助人们应对现实社会生活中的各种困境和挑战。本研究结果提示，仪式动作与象征意义对控制感增强的作用路径不同，同一个民族的青少年与成人的仪式动作执行与象征意义表达也存在差异。在传承与创新文化仪式时，既要注意防止过于简化、忽略仪式动作的倾向，又要防止仅强调或设计一种象征意义，那将不能满足不同群体的要求。
+
+中国各个民族都有祖先崇拜的民俗，其中不乏各种各样的惯例性仪式。民俗的教化功能是通过日常生活的周而复始、循环往复来实现的。通过不断地叙述“祖先”，仪式让家族、族群、民族拥有一个世代生成的记忆与认同，使个体确认自我的来源、价值与责任(龙晓添,2019)。本研究表明，参与敬锅庄仪式增强普米族青少年的控制感。敬锅庄仪式还可能对青少年的自我、价值观及群体认同具有重要影响。不同年龄群体在敬锅庄的仪式动作、象征意义上存在差异，如果差异是由仪式规则本身导致，那么这种仪式规则在代际方面的不同规定对个体及族群发展有何价值和意义？这些问题值得进一步研究。实验2虽然试图将仪式动作与象征意义分开，但也可能因为对象征意义的表达重复了3遍而有了“动作”性。个体亦有为行为赋予意义的倾向，无意义表达的控制组也可能自主激活象征意义。未来研究还需要检验对象征意义操纵是否有效。最后，本研究也未考察被试对敬锅庄仪式以及新颖仪式的认同度，而认同度有可能影响仪式对控制感的作用。未来研究需要解决好这些问题。
+
+# 6结论
+
+仪式动作与象征意义分别独立地对控制感产生影响，存在着双路径机制：仪式动作直接增强控制感，象征意义通过积极情绪间接增强控制感。
+
+象征意义对控制感的影响因仪式主体的经验不同存在差异：青少年以祈求庇佑为主，成人以表达感恩为主。
+
+致谢：衷心感谢中国人民大学张积家教授在论文修改过程中给予的指导和帮助。特别感谢宁蒗彝族自治县普米族文化保护协会马馗先生在本研究的调研过程中给予的大力支持和帮助。
+
+# 参考文献
+
+Adler,M.G.,& Fagley,N.S.(2Oo5).Appreciation: Individual differences in finding value and meaning as a unique predictor of subjective well-being. Journal of Personality,73(1),79-114.   
+Alonso-Ferres,M.,Imami,L.,& Slatcher,R.B.(2O19).Untangling the effects of partnerresponsivenessonhealth and well-being: The role of perceived control. Journal of Social and Personal Relationships,37(4),1150- 1171.   
+Boyer,P.,&Lienard,P. (2Oo6).Why ritualized behavior? precaution systems and action parsing in developmental, pathological and cultural rituals.Behavioral & Brain Sciences,29(6),595-613.   
+Brooks,A.W.,Schroeder,J.,Risen,J.L.,Gino,F.,Galinsky,A.D.,Norton,M.I.,&Schweitzer,M.E.(2016). Don't stop believing: Rituals improve performance by decreasing anxiety. Organizational Behavior and Human Decision Processes,137,71-85.   
+Chun,J.W.,& Lee,M.J. (2O17). When does individuals’ wilingness to speak out increase on social media? Perceived social support and perceived power/control. Computers in Human Behavior, 74,120-129.   
+Crespo,C.,Kielpikowski,M.,Pryor,J.,&Jose,P.E.(2Ol1).Family rituals innew zealand families: links to family cohesion and adolescents'well-being.Journal of Family Psychology,25(2),184-193.   
+DeSteno，D.，Li，Y.，Dickens,L.，& Lerner，J. S.(2014).Gratitude:A tool for reducing economic impatience. Psychological Science,25(6),1262-1267.   
+Douglas,M.(2O2O).Purity and Dange: An analysis of concept of polution and taboo (Huang J.B.,&Liu B.Y., Lu, C.). The Commercial Press.(Original work published 1966)   
+[玛丽·道格拉斯.(2020).洁净与危险——对污染和禁忌观念的分析 (黄剑波，柳博赞，卢忱 译).商务印书 馆.]   
+Drewelies,J.,Schade,H., Hulur, G.,Hoppmann, C.A.,Ram,N.,& Gerstorf, D.(2018). The more we are in control,the merrier? Partner perceived control and negative affect in the daily lives of older couples.Journals of Gerontology: Series B, 75(2),338-348.   
+Faul,F.,Erdfelder,E.,Lang,A. G.,& Buchner,A.(2007). $\mathbf { G } ^ { * }$ Power 3: A flexible statistical power analysis program for the social,behavioral,and biomedical sciences.Behavior Research Methods,39(2),175-191.   
+Fischer,R.,Callander,R.,Reddish,P.,&Bulbulia,J. (2O13).Howdorituals affectcooperation? Human Nature, 24(2), 115-125.   
+Gallagher,T.J.,& Lewis,J.M.(201O).Rationalists,Fatalists,and the Modern Superstitious: Test- Taking in Introductory Sociology. Sociological Inquiry, 71(1),1-12.   
+Grenaway,K.H.,Haslam,S.A., Cruwys,T., Branscombe,N.R. Yseldyk,R.,& Heldreth, C. (2015).From "we" to "me": Group identification enhances perceived personal control with consequences for health and well-being. Journal of Personality and Social Psychology, 109(1),53-74.   
+Han,J. J.,Gershoff,A.D., Kirmani,A.,& Dalton,A.(2O18). When good things feelcloser and bad things feel farther: The role of perceived control on psychological distance perception. Journal of Consumer Psychology, 28(4),629-643.   
+Hayes, A.F. (2O13). Introduction to mediation, moderation,and conditional processanalysis: A regressionbased approach. New York: Guilford.   
+Hobson,N. M., Bonk, D.,& Inzlicht, M. (2O17). Rituals decrease the neural response to performance failure. Peerj, 5(4), e3363.   
+Hobson,N.M., Gino,F.,Norton,M.I.,& Inzlicht,M.(2016). Novel Rituals Inculcate Intergroup Bias: Evidence fromthe Trust Game and Neurophysiology. Social Science Electronic Publishing.   
+Hobson,N.M.,Schroeder,J.,Risen,J.L., Xygalatas,D.,& Inzlicht,M. (2018).The psychologyof rituals: An integrative review and process-based framework. Personality and Social Psychology Review,22(3),260- 284.   
+Infurna,F. J., Gerstorf,D.,Ram,N.,Schupp,J.,& Wagner,G.G. (201).Long-term antecedents and outcomes of perceived control. Psychology and Aging, 26(3), 559.   
+Kapitany,R.,& Nielsen,M. (2O17).The ritual stance and the precaution system: The roleof goal-demotion and opacity in ritual and everyday actions. Religion, Brain & Behavior, 7(1),27-42.   
+Kapitany,R.,& Nielsen,M.(2015).Adopting the ritual stance: the role of opacity and context in ritual and everyday actions. Cognition,145,13-29.   
+Legare,C. H.,& Souza, A.L. (2O12). Evaluating ritual efcacy: evidence from the supernatural. Cognition, 124(1), 1-15.   
+Legare,C. H.,& Souza, A.L. (2O14). Searching for control: priming randomness increases the evaluation of ritual efficacy. Cognitive Science, 38(1),152-161.   
+Legare,C.H., Wen,N.J.,Herrmann,P.A.,& Whitehouse,H. (2015). Imitative flexibility and the developmentof cultural learning. Cognition,142,351-361.   
+Lin,C.C.(2O19). Gratitude,positive emotion,and satisfaction with life:A test of mediated effect. Social Behavior and Personality: an international journal, 47(4),1-8.   
+Long,X.T.(2O19).The performance and connotation of generational “Death Education”and its modern value. Religious Studies,4,269-275.   
+[龙晓添.(2019).世代生成式"死亡教育"的展演、内涵及其现代价值.宗教学研究,4,269-275]   
+Malinowski, B.(1948). Magic, science and religion and other essays. Boston, MA: Beacon Press.   
+Martin,L.,Jan,K.，Shaver,J.H.，Danijela,J.，& Dimitris,X.(2O15).Effects of Anxiety on Spontaneous Ritualized Behavior. Current Biology,25(14),1892-1897.   
+Mitkidis,P.,Ayal,S.,Shalvi,S.,Heimann,K.,Levy,G., Kyselo,M.,..&Roepstorf,A. (2017).The efctsof extreme rituals on moral behavior: The performers-observersgap hypothesis. Journal of Economic Psychology, 59,1-7.   
+Nielbo,K.L.,& Sprensen,J. (20l1).Spontaneous processing of functional and non-functional action sequences. Religion,Brain & Behavior,1(1),18-30.   
+Norton,M.I.，& Gino,F.(2O14).Rituals alleviate grieving for loved ones,lovers,and loteries.Journal of Experimental Psychology General,143(1),266-272.   
+Park,C.(1999). The Influence of the Consumption Ritualization on Buying Behaviors. Estud Gerenc,30(6), 1340-1348.   
+Piedmont,R.L.(1999).Does spirituality represent the sixth factor of personality? Spiritual transcendence and the five - factor model. Journal of Personality, 67(6), 985-1013.   
+Ping,A.J.,&Peng,K.P.(2018). Gratitude Facilitates Self-Control. Studies of Psychology and Behavior,16(3), 378-383.   
+[平安俊，彭凯平.(2018).感恩对自我控制的影响.心理与行为研究,16(3),378-383.]   
+Ran, Y. X.，Wei, H. Y.,Li, Q.,& Lei, C. (2018). Ritual in the psychology field: A repetitive but meaningful behavior. Advances in Psychological Science, 26(1),169-179.   
+[冉雅璇，卫海英,李清，雷超.(2018).心理学视角下的人类仪式：一种意义深远的重复动作.心理科学进展, 26(1),169-179.]   
+Ruiz-Aranda,D.，Salguero,J.M.,Cabello,R.,Palomera,R.，& Berrocal,P.F.(2012).Can an emotional intelligence program improve adolescents' psychosocial adjustment? results from the INTEMO project. Social Behavior and Personality: an International Journal, 40(8),1373-1379.   
+Ruthig,J. C.,Chipperfield,J.G.Perry,R.P.,Newall,N.E.,&Swift,A. (2o7).Comparative risk and perceived control: Implications for psychological and physical wel-being among older adults. The Journal of Social Psychology, 147(4),345-369.   
+Ruthig,J.C.,PerryR.P.,Hladkyj,S.,Hall,N.C.Pekrun,R,&Chipperfield,J.G. (2O8).Pereivedotrol emotions: Interactive effects on performance in achievement setings.Social Psychology of Education,11(2), 161-180.   
+Sebesteny,A.,& Emmons,N.(2017). Balinese Hindus’afterlife beliefs as stable constructs:An effect of high frequency domestic rituals. Journal of Cognition and Culture,17(5), 437-462.   
+Se,Y.(2012). A Religious Anthropological Analysis about Ancestor Worship. Journal of Inner Mongolia Normal University (Philosophy& Social Science),41(3),29-34.   
+[色音.(2012)．祖先崇拜的宗教人类学探析.内蒙古师范大学学报(哲学社会科学版),41(3),29-34.]   
+Tian,A.D.,Schroeder,J.,Haubl,G.,Risen,J.L.,Norton,M.I.,&Gino,F.(2O18).Enacting rituals to improve self-control. Journal of Personality & Social Psychology,1l4(6),851-876.   
+Vohs,K.D.,Wang,Y., Gino,F.,& Norton,M.I. (2013). Rituals enhance consumption. Psychological Science, 24(9),1714-1721.   
+Warburton, W.A.,Williams, K. D.,& Cairns,D.R. (2006). When ostracism leads to aggression: The moderating effects of control deprivation. Journal of Experimental Social Psychology, 42(2),213-220.   
+Wood,A.M.，Joseph，S.，& Linley，P.A. (2007). Coping style as a psychological resource of grateful people.Journal of Social and Clinical Psychology,26(9),1076-1093.   
+Wu,M.L. (2010). Practice of questionnaire statistical analysis. Chongqing: Chongqing University Press.P244.   
+[吴明隆.(2010).问卷统计分析实务.重庆：重庆大学出版社.p244.]   
+Xiong,Y.X. (2O15). Religion research on Pumi of China. China Social Sciences Press.   
+[熊永翔.(2015).中国普米族宗教研究.中国社会科学出版社.]   
+Xu, Q.,Kwan, C.M.,& Zhou, X. (2020). Helping yourself before helping others: How sense of control promotes charitable behaviors. Journal of Consumer Psychology,30(3),486-505.   
+Yin,K.L.,& He,J.M.(2012). Reliability and validityof the Mental Health Continuum Short Form in adults. Chinese Mental Health Journal,26(5),388-392.   
+[尹可丽，何嘉梅.(2012).简版心理健康连续体量表(成人版)的信效度.中国心理卫生杂志,26(5),388-392.]   
+Zeigler-Hill,V. (2O06). Contingent self-esteem and the interpersonal circumplex: The interpersonal pursuit of self-esteem.Personality and Individual Differences,40(4),713-723.   
+Zhang H.Y. (200O). Pumi's "Guolu" and "Zhong Bala".Folklore Studies,(1),132-135.   
+[章虹宇.(2000)．普米族的"括鲁"与"仲巴拉"．民俗研究,(1),132-135.]   
+Zheng,L.，Miao,M.,& Gan,Y.(202O).Perceived control buffers the effects of the COVID-19 pandemic on general health and life satisfaction: The mediating role of psychological distance.Applied Psychology: Health and Well-Being,12(4),1095-1114.   
+Zhou X,He L,Yang Q,Lao J, Baumeister RF. (2O12). Control deprivation and styles of thinking. Journal of Personality and Social Psychology.102(3):460.   
+Zou, X.Y.，Yin, K.L.,& Lu,L. (2018). Collective rituals promote cohesion:Based on action, emotion,and memory. Advances in Psychological Science,26(5),939-950.   
+[邹小燕，尹可丽，陆林.(2018).集体仪式促进凝聚力：基于动作，情绪与记忆.心理科学进展,26(5),939-950.]
+
+# How Ritual Actions, Symbolic Meanings, and Positive Emotions
+
+Enhance Perceived Control: A Dual Path Way Mechanism
+
+YIN Keli, LAN Miaosen,LI Hui, ZHAO Ziwen
+
+(Faculty of Education,Yunnan Normal University,Kunming 65o5oo,China)
+
+# Abstract
+
+Perceived control is an important psychological resource for human beings when faced with various natural disasters and social and cultural pressures. As a main component of culture, rituals are an important factor in helping people acquire and enhance their perceived control. Guozhuang worship is an essential part of life for the Pumi people, an ethnic group living in southwest China. Guozhuang is a rectangular piece of white stone in front of the huotang in Pumi family,and it is regarded as the incarnation of ancestors of Pumi people. In Guozhuang worship, Pumi people call the names of their ancestors and invite them to enjoy a tribute.To explore the influence of ritual on perceived control, this study examined the ritual of worshiping Guozhuang among the Pumi people and explored the influence of rituals on perceived control as well as the mediating role of positive emotions from two aspects, namely,ritual action and the symbolic meaning of the ritual.
+
+This study conducted three experiments. In Experiment 1, we examined 73 Pumi adolescents and used the recall task to ask participants to describe their experience of worshiping Guozhuang. The results revealed that the perceived control in the high-involvement group was significantly higher than that in the low-involvement group. In Experiment 2,we created a novel ritual to manipulate ritual action and symbolic meaning and conducted a 2 (ritual action: action for ancestor worship vs. no action for ancestor worship) $\textbf { X } 3$ (symbolic meaning: gratitude vs. blessing vs. no meaning expression） behavior experiment with 1O5 Pumi adolescents and discussed the mediating role of positive emotions.We found that performing ritual actions could directly enhance Pumi adolescents’ perceived control, while the meaning of prayer could only enhance perceived control through the full mediation of positive emotions. In Experiment 3, middle-aged and elderly Pumi people were given a recall task to initiate the experience of worshiping Guozhuang. The results revealed that the perceived control in the high-involvement group was significantly higher than that in the low-involvement group.Further analysis indicated that when middle-aged and elderly people expressed their gratitude to their ancestors in worshiping Guozhuang they could affect their perceived control through the full mediation of positive emotions.
+
+This study concluded that there is a dual-path way mechanism in the influence of ritual actions and symbolic meaning on peoples’ perceived control. Ritual actions directly enhance perceived control, while symbolic meaning enhances perceived control through the full mediation of positive emotions.The influence that the subjects of the ritual and the symbolic meanings of the ritual that the positive emotion plays have on the perceived control varies depending on the experience of ritual practitioners: adolescents tend to express blessngs,while middle-aged and older adults tend to express gratitude.
+
+Key words perceived control, ritual action, symbolic meaning of ritual, positive emotions, Guozhuang worship

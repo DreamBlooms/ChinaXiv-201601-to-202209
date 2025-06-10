@@ -1,0 +1,226 @@
+# 基于动态规划理论的棉花根长生长模拟方法
+
+陈绍民 李明思\*\* 高超　赵宇龙 郝忠文(石河子大学水利建筑工程学院 石河子 832003)
+
+摘要作物根系生长不仅取决于生理因素，还取决于生态环境因素，而土壤水分环境与作物根系生长之间的关系则是局部灌溉技术设计的理论依据之一。为了进一步探索影响棉花根系生长的主要因素，本文在根-冠水量平衡的基础上，结合作物系数与叶面积的关系模型、根长密度分布函数以及根系吸水效率函数，应用动态规划理论，建立了棉花根系生长模型，并以桶栽棉花试验结果进行验证。结果表明，该模型纳入了土壤水分环境、大气蒸腾力和叶面积等影响根系生长的因子，具有揭示根系生长耗水机理的作用。该模型模拟出的棉花总根长变化趋势与实测结果基本一致，当以多年月平均参考蒸散量 $( \mathrm { E T _ { 0 } } )$ 作为输入条件时，模拟结果总体误差为 $1 5 . 4 1 \%$ ，可以用于工程设计。对模型敏感性分析结果表明，所建模型能够反映棉花根-叶生长的同步性，以及进入生殖生长期以后根一叶之间的水量平衡关系。棉花根系生长对土壤水分环境变化的敏感性高于对叶面积变化的敏感性，体现了棉花根系生长的机理，建模方法可行。本文研究成果对完善局部灌溉技术中灌溉制度的设计理论具有重要意义。
+
+关键词棉花根系生长水量平衡动态规划中图分类号：S562;S314 文献标识码：A 文章编号:1671-3990(2016)01-0056-08
+
+# Simulation method of cotton root length growth based on dynamic programming theory
+
+CHEN Shaomin,LI Mingsi\*\*,GAO Chao, ZHAO Yulong,HAO Zhongwen (College of Water Conservancyand Architecture Engineering,Shihezi University,Shihezi 832oo3,China)
+
+AbstractCroprootlength and soil moisture distributionare important determinants ofcroproot wateruptake potential. Crop rootlength changes with growth stage,which alsorequires changes in soil moisture environment.Therefore,establishing a root growth model to predictcroproot growth conditions under normal water use has theoreticaland application significance regarding thedeterminationof irrigationquotaandsoil moisture environment indicators,whicharerequired todesign appropriate local irigation technology.However,current root growth simulating models are more suitable forthedeterminationof irriationquotasofwholeirrigationtechnology.These models,whichare mostlystatistical,cannotcompletelyreflect therelational mechanisms of the growth of plantrotsystem,crop wateruseand soil moisture environment.In view of the aboveand,aroot-canopywaterbalance combined withcropcoeficientvs.leaf arearelationship model,rootlength density distribution function and root water uptake efficiency function,a coton root growth model was developed based on dynamic programming theoryandverified by experimentalresults ofabarrel-cultivated cottn.The main resultsof the studyshowed that themodel well acounted forthe effects of root growth factors such assoil moistureenvironment,atmospheric transpirationrate and leaf area,which revealed toacertain extent the mechanism ofcrop water usedue torot growth.The growth characteristicsofcottonroot length simulatedbythemodel wereconsistent with measured dates in the barrel experiment. When multi-year average monthly mean reference evapotranspiration $( \mathrm { E T _ { 0 } } )$ was used as input condition, the overall error of the simulation result was $1 5 . 4 1 \%$ . Therefore the model was applicable in engineering designs.Based on sensitivityanalysis,theestablished model wellreflectedthe synchronizationbetweenthe growthofcotonrootand leaf,as wellas the waterbalancebetweeroot and leaf after entering thereproductive period.The sensitivityofcottnroot growthto changes in soil moisture environment was higherthan tochanges inleaf area,reflectingthe processesofcotonroot growth andthe feasibilityof the modeling method.Theresearch significantly improvedthe design theoryof irigationsystems forthe development of localized irrigation technology.
+
+KeywordsCotton; Root growth; Water balance; Dynamic programming域、作物栽培和灌溉领域较为关注的问题，尤其是在局部灌溉技术设计中，作物的根系分布和生长过程是确定土壤有效湿润区的依据。所以，长期以来学者对作物根系生长过程开展了大量研究工作[1-4]。众多成果表明，随着生育阶段的演进，大部分作物的根重呈现"S"形生长特点，即生育初期根重增长较慢，然后快速增长，在中后期达到最大值，后期根重减小，所以根重随生育期变化的整个过程类似于Gaussian 分布；也有一些作物生育后期根重不减小，而是增长十分缓慢，整个生长过程符合Logistic 模型[2,5-6]。根长随生育阶段的生长过程也基本上呈现“S"形特点[1,6-8]，根长生长速率为抛物线形[5,7]。也有学者对棉花(Gossypium spp.)的根系生长过程进行了研究[9-14]，结果显示棉花的根长生长和根重生长也都呈现"S"形特点，而且在土壤水分环境较好的条件下,根长生长过程基本符合 Logistic 模型；而存在土壤水分胁迫时，根长生长近似Gaussian分布。这些研究成果对于认识作物根系生长规律有极大的帮助，在此成果基础上人们对根系生长模型开展了大量研究[2.12,15-16],较多的是建立根系沿土层深度的生长模型[2,12]，发现根长密度沿土层深度方向呈负指数函数减小，即地表处往往根长密度较大，越向土层深处，根长密度越小。这一类的模型发展相对较为成熟，主要以作物冠层蒸腾与根系吸水之间的平衡原理为基础而建立。目前针对描述根系随生育阶段生长过程的数学模型的研究尚少，其中以分形理论为基础、采用微分L-系统对作物根系几何形态建模并模拟根长生长过程取得了很好的效果[8,15]；也有学者[13]利用人工神经网络理论建立了膜下滴灌棉花根长随生育阶段的生长模型，得到的棉花根长生长符合Logistic模型，并与试验结果相吻合。但是，这些模拟作物根长生长的成果基本都是以统计学方法建立的，大多不考虑作物生长中的生态环境作用，也没有反映作物根系生长与耗水以及土壤水分环境之间的机理关系，难以根据环境因素对作物根系生长过程进行预测。传统的灌溉制度理论在制定灌水定额时只考虑作物根系沿土层深度方向的分布状况，并未考虑不同生育期的根长状况，这在用于局部灌溉技术中灌水定额设计时存在明显的理论缺陷；而描述根系生长的统计学模型很少考虑根系耗水因素。所以，以作物根一冠水量平衡原理为基础，建立作物根系生长过程模型，对于局部灌溉技术中灌水定额的制定理论具有完善和补充作用。本文采用根系虚拟研究方法[17]，以作物冠层蒸腾与根系吸水之间的平衡原理和动态规划理论为基础，建立滴灌条件下的棉花根长随生育阶段生长的模型，为实现根系生长模拟研究提供参考。
+
+# 1模型建立
+
+# 1.1 基本模型
+
+作物根系生长不仅受土壤水分环境控制，还与冠层水分蒸散强度有关[18]。学术界所提出的根系吸水模型大都是建立在冠层蒸腾与根系吸水之间的平衡理论上[1-2]，并且普遍认为根的干物质增长速度与冠层生长速度呈阶段性比例关系[12]，这就意味着根系的生长与冠层的生长具有一定程度的同步性。因此，本研究利用贝尔曼(R.E.Bellman)动态规划理论[19]，以水量平衡原理为基础，通过冠层蒸腾过程推求根长生长过程。根据贝尔曼动态规划理论，可以认为根系生长过程的每一步都应该遵从其吸水速率与冠层耗水强度相等的原则，而且生长过程中根系会主动在吸水较容易的土壤湿润区内生长，即次级根段主动寻找最优的土壤水分环境、温度环境和肥料环境。假定土壤温度环境和肥料环境没有空间变化，根系生长只受土壤水分环境影响，其基本模型为：
+
+$$
+\mathrm { E T } ( t ) { = } S _ { \mathrm { r } } ( t )
+$$
+
+式中： $\mathrm { E T } ( t )$ 为作物冠层蒸腾强度， $\mathbf { m } \mathbf { m } { \cdot } \mathbf { d } ^ { - 1 }$ ：， $S _ { \mathrm { r } } ( t )$ 为根 系吸水速率, $\mathrm { m m } { \cdot } \mathrm { d } ^ { - 1 }$ · $t$ 为出苗后天数, ${ \mathrm { { d } } _ { \circ } }$
+
+$\mathrm { E T } ( t )$ 可以实测，也可以根据参考作物潜在腾发量换算：
+
+$$
+\mathrm { E T } ( t ) { = } K _ { \mathrm { c } } ( t ) { \cdot } K _ { \theta } ( t ) { \cdot } \mathrm { E T } _ { 0 } ( t )
+$$
+
+式中： $K _ { \mathrm { c } }$ 为作物系数，取决于作物叶面积; $K _ { \theta }$ 为土壤系数，取决于土壤水分状况，由于所模拟的土壤湿润区是有利于根系吸水的湿润区，区内的土壤水分状况对根系的胁迫作用很小，则 $K _ { \theta } \approx 1$ ：， $\mathrm { E T _ { 0 } }$ 为参考作物潜在腾发量，也就是大气蒸发能力，由Penman-Monteith公式估算，在设计土壤灌溉湿润区参数时，用到的参考作物潜在腾发量应该是多年平均值，或者是某一气象频率下的对应值。
+
+状态转移方程：
+
+$$
+\mathrm { E T } \left( t + 1 \right) = K _ { \mathrm { c } } \left[ \mathrm { L A } \left( t + 1 \right) \right] \cdot \mathrm { E T } _ { 0 } \left( t + 1 \right)
+$$
+
+$$
+S _ { \mathrm { r } } \left( t + 1 \right) = a \left( t + 1 \right) \cdot \left\{ L \left( t \right) + R \left[ \Delta L \left( t + 1 \right) , V \right] \right\}
+$$
+
+$$
+\Delta L = \frac { \hat { \sigma } L } { \hat { \sigma } t } \cdot \Delta t
+$$
+
+式中： $S _ { \mathrm { r } } ( t { + } 1 )$ 是下一步对应的根系吸水速率；LA为作物叶面积， $\mathrm { c m } ^ { 2 }$ ：， $\boldsymbol { a } ( t )$ 为根系吸水效率，即单位根长的吸水通量， $\mathrm { m m } \cdot \mathrm { m } ^ { - 1 }$ ： $V$ 为根系所占据的土壤体积,$\boldsymbol { \mathrm { m } } ^ { 3 } ; ~ \boldsymbol { R } [ ^ { * }$ 为下一步骤的决策函数； $L ( t )$ 为根长， $\mathrm { ~ m ~ }$ $\Delta L ( t { + } 1 )$ 为下一步根长增长量, $\mathbf { m } { \cdot } \mathbf { d } ^ { - 1 }$ · $t$ 为出苗后天数, $\mathrm { d } _ { \circ }$
+
+# 1.2 作物系数
+
+在作物主要生育阶段不受土壤水分胁迫的条件下，作物系数与叶面积指数之间大都近似呈线性关系，而叶面积指数的变化过程类似于“S"形曲线[20],即作物生育初期，叶面积指数由小到大变化相对缓慢，然后迅速增大；营养生长旺盛时期叶面积指数达最大值，后期又逐渐减小，所以叶面积随生育期变化过程可用Gaussian模型近似表达。穆彩芸等[21]试验观测了膜下滴灌棉花的作物系数 $K _ { \mathrm { c } }$ 与单株叶面积指数LAI之间的关系，发现它们之间近似呈幂函数关系。由于叶面积指数LAI与叶面积LA呈正相关[22]，本文建立 $K _ { \mathrm { c } }$ 值与单株叶面积LA的关系模型：
+
+$$
+K _ { \mathrm { c } } = a { \cdot } \mathrm { L A } ^ { b }
+$$
+
+式中：LA为作物叶面积, $\operatorname { c m } ^ { 2 } ; a , \ b$ 为模型相关系数。
+
+王允喜等[23]对膜下滴灌棉花叶面积的观测显示，棉株现蕾前期叶面积生长速度较慢，从现蕾到开花增长最快，开花后到盛铃期叶面积已达到最高峰,以后由于下部叶片的衰老和脱落，叶面积逐渐降低。由此可知单株棉花在整个生育期内其叶面积随时间的变化规律也符合Gaussian曲线变化特征，所以本文采用的叶面积与时间的关系模型为：
+
+$$
+\mathrm { L A } = a \cdot \mathrm { e } ^ { \frac { - \left( t - b \right) ^ { 2 } } { 2 c ^ { 2 } } }
+$$
+
+式中： $\boldsymbol { a } , \boldsymbol { b }$ ， $\mathbf { \Psi } _ { c }$ 为模型相关系数。
+
+# 1.3根长密度分布函数
+
+设定根系所占土壤体积 $V$ 为一定值，任意时刻根长密度在土壤体积 $V$ 中分布是均匀的，根长密度的变化仅与生长时间相关。众多试验结果表明[10,11,14]，棉花根长密度随生长时间变化的动态过程呈“S"型曲线。在良好的土壤水分环境、温度环境和肥料环境中，该"S"型曲线是Logistic 模型[14]；如果棉花生长后期(一般指进入吐絮期)受到水分胁迫，该"S"型曲线则是Gaussian 模型[11]。
+
+$$
+d _ { \mathrm { l r } } \left( t \right) = \frac { a } { 1 + b \mathrm { e } ^ { - c t } }
+$$
+
+$$
+\mathrm { G a u s s i a n } \ \mathcal { \nhat { k } } \Xi \equiv : \quad d _ { \mathrm { l r } } \left( t \right) = a \cdot \mathrm { e } ^ { - \left( t - b \right) ^ { 2 } }
+$$
+
+$$
+L \left( t \right) = d _ { \mathrm { l r } } \left( t \right) \cdot V
+$$
+
+式中： $d _ { \mathrm { l r } } ( t )$ 为根长密度， $\mathrm { m } { \cdot } \mathrm { m } ^ { - 3 }$ ·， $V$ 为根系所占据的土壤体积, $\mathrm { m } ^ { 3 } ; a , \ b$ 人 $\mathrm { ~  ~ \bar { ~ } { ~ c ~ } ~ }$ 为模型相关系数。
+
+# 1.4 根系吸水效率函数
+
+作物根系的吸水效率取决于根系吸水量与根系的分布、表面积大小以及根的透过性之间的关系[24],这些因素均随根系生育阶段而变化，所以特定条件下可以简化为作物耗水量与根系长度的比值。苗期根系较少，冠层耗水由有限的根系提供，所以根系吸水效率高；随着根长密度的增大，冠层耗水由众多根系提供，所以根系吸水效率下降；生长后期冠层耗水量减少，根系吸水效率大幅下降。因此，根系吸水效率与生长时间的关系函数是一个开口向下的抛物线方程。基于此，本文建立以下根系吸水效率与生长时间的关系模型：
+
+$$
+\alpha ( t ) = - a \cdot t ^ { 2 } + b \cdot t + c
+$$
+
+式中: $\alpha ( t )$ 为根系吸水效率, $\mathrm { m m } \cdot \mathrm { m } ^ { - 1 }$ · $t$ 为出苗后天数，$\smash { \mathrm { d } ; a , \ b }$ 、c为模型相关系数。
+
+# 1.5模型求解约束条件
+
+$$
+0 { < } \mathrm { L A } { \leqslant } \mathrm { L A } _ { \mathrm { m } }
+$$
+
+$$
+0 { < } d _ { \mathrm { l r } } { \leqslant } d _ { \mathrm { l r m } }
+$$
+
+$$
+0 . 6 { \times } \theta _ { \mathrm { f } } { \leqslant } \theta { \leqslant } \theta _ { \mathrm { f } }
+$$
+
+$$
+\Delta L \subset R
+$$
+
+式中: $\mathrm { L A } _ { \mathrm { m } }$ 为单株作物叶面积最大值, $\mathrm { c m } ^ { 3 }$ ：， $d _ { \mathrm { l r m } }$ 为根长密度最大值, $\mathrm { m } { \cdot } \mathrm { m } ^ { - 3 }$ ： $\theta$ 为土壤含水率; $\theta _ { \mathrm { f } }$ 为田间持水率; $R$ 为任意实数。
+
+1.6模型求解初始条件
+
+$$
+\begin{array} { r } { \mathrm { L A } { = } \delta } \\ { V { = } \beta } \\ { d _ { \mathrm { l r } } { = } \gamma } \\ { a { = } \zeta } \end{array}
+$$
+
+式中： $\delta$ 为模型求解叶面积初始值， $\mathsf { c m } ^ { 2 }$ · $\beta$ 为模型求解根系所占体积，本文采用桶体体积， $\mathrm { m } ^ { 3 }$ ： $\gamma$ 为模型求解根长密度初始值, $\mathrm { m } { \cdot } \mathrm { m } ^ { - 3 }$ · $\zeta$ 为模型求解根系吸水效率初始值, $\mathrm { m m } \cdot \mathrm { m } ^ { - 1 }$ 。
+
+# 1.7 模型求解流程
+
+根据动态规划求解思路，本文所建模型的求解方法如图1所示，用MATLAB仿真平台实现。
+
+![](images/72de4dc44c1c0a0e89555bc56be4bc13534fb52834507c8fa6795a8b402cddab.jpg)  
+图1棉花根长生长模型程序求解框图 Fig.1Flow diagram of cotton root length growth model performance
+
+# 2模型验证
+
+# 2.1 试验材料
+
+试验于2014年5—9月在石河子大学水利建筑工程学院实验中心进行 $( 8 6 ^ { \circ } 0 3 ^ { \prime } 2 7 ^ { \prime \prime } \mathrm { E }$ ， $4 4 ^ { \circ } 1 8 ^ { \prime } 2 5 ^ { \prime \prime } \mathrm { N }$ ，海拔 $4 5 1 ~ \mathrm { m }$ 。供试棉花品种‘新陆早48号'，试验用桶规格为(顶部内径 $\cdot \times$ 底部内径 $\ : \times \ :$ 高)： $4 5 \ \mathrm { c m } { \times } 3 5 \ \mathrm { c m } { \times } 5 3$ cm(苗期和蕾期)、 $4 8 \ \mathrm { c m } { \times } 3 7 \ \mathrm { c m } { \times } 5 5 \ \mathrm { c m } ($ 花期、铃期和吐絮期)，试验用土为砂壤土，风干碾碎过 $2 ~ \mathrm { m m }$ 筛，分层装入桶内，干容重 $1 . 3 9 \ \mathrm { \ g } { \cdot } \mathrm { c m } ^ { - 3 }$ ，孔隙度 $4 6 . 1 4 \%$ 田间持水率(体积含水率) $2 6 . 0 6 \%$ ，每桶定植1株棉花且表面覆膜。试验设计苗期、蕾期、花期各4个重复，但根系采样时发现没必要将所有重复都取完。苗期采样1个，结果发现苗期的根长和根长密度数据都太小，在模型中模拟意义不大，没有继续采样。所以根据文献[25]的研究经验，将所剩处理重复保留至蕾期采样。蕾期采样3个重复，花期采样4个重复，铃期和吐絮期各采样2个重复。生育阶段的具体划分及取样时间如下：苗期，从出苗到现蕾阶段，一般经历45d左右，试验过程中在出苗后 $4 0 \mathrm { d }$ 进行苗期根系采样；蕾期，棉株第一果枝叶腋出现三角形花苞(大小 $3 { \sim } 5 \ \mathrm { m m }$ 即进入蕾期，试验过程中在进入蕾期后11d(盛蕾期)，即出苗后56d进行蕾期根系采样；花期，棉株基部任意一果枝上第一朵花开放即进入花期，试验过程中在进入花期后 10 d(盛花期)，即出苗后76d进行花期根系采样；铃期，棉株第1果枝出现第1颗成铃(直径大于 $2 \ \mathrm { c m } )$ 即进入铃期，试验过程中在进入铃期后 $1 0 \mathrm { ~ d ~ }$ ，即出苗后 $1 0 2 \mathrm { ~ d ~ }$ 进行铃期根系采样；吐絮期，第1果枝上的铃开始吐絮即进入吐絮期，试验过程中在进入吐絮期 $1 5 \mathrm { ~ d ~ }$ 即出苗后 $1 3 0 \mathrm { d }$ 进行吐絮期根系采样。
+
+桶栽棉花每次每桶的灌水量为苗期 $\scriptstyle 1 \ L .$ 蕾期 $2 \mathrm { L } ,$ 花铃期 $3 \mathrm { ~ L ~ }$ 、吐絮期 $2 L _ { \circ }$ 为避免水分快速沿桶壁下渗，在土壤表层埋入直径为 $3 0 \ \mathrm { c m }$ 的防水纸圈，埋深为 $5 \ \mathrm { c m } _ { \cdot }$ 。降水过程中对棉花采取避雨措施，保证水分处理的有效性。
+
+# 2.2 测试方法
+
+灌水前后采用烘干法测定土壤水分垂直分布。为了减小对根系的破坏，在距棉株 $1 5 \ \mathrm { c m }$ 处采用外径 $2 \mathrm { c m }$ 的土钻沿深度方向每 $1 0 \ \mathrm { c m }$ 取1个土样，直至桶底，每次取3个桶，取土后采用过 $2 \mathrm { m m }$ 筛的同种土质风干土回填。
+
+出苗后10d开始对试验棉花进行叶面积测量每次测量时间间隔10d，其中根系采样当天加测。利用毫米刻度的直尺对单片叶采用十字交叉法量取长和宽，如此测量所有展开的叶片(枯黄以及未展开的叶片不在计算范围)，最后按照公式[26]： $\scriptstyle \mathrm { L A } = \alpha \cdot X \cdot Y$ (LA:叶面积； $\scriptstyle a$ ：系数； $X \colon$ 叶长；Y:叶宽)计算出叶面积，本试验中计算采用的系数为1。
+
+各生育阶段采用双向切片法[27]采样获得根系分布参数。取根时以棉株为中心，按 $1 0 \ \mathrm { c m } { \times } 1 0 \ \mathrm { c m } { \times } 1 0$ cm的样方在水平和深度方向取样，直至桶边和桶底。拣出根样后，冲洗干净，然后铺在有刻度的纸上拍照，用R2V软件将根系图像矢量化，用Office Access2003处理矢量化结果并计算出根长，最后求取每株棉花的平均根长密度。
+
+# 2.3 结果与分析
+
+模型验证所用冠层蒸腾量根据参考作物潜在腾发量 $\mathrm { E T } _ { 0 }$ 换算，利用Penman-Monteith公式计算石河子市1981一2010年多年月平均腾发量 $\mathrm { E T _ { 0 } }$ 值如表1所示。
+
+由于叶面积的生长过程选取的是Gaussian模型根据前人的研究成果以及美国建立的棉花生长模拟模型GOSSYM 显示[12]，棉花不同生育阶段的根干重与冠层干重的比值分别近似为不同的常数，即根、冠生长具有一定程度的同步性；另外，试验中在棉花进入吐絮期进行了水分胁迫处理，所以模拟中根长密度 $d _ { \mathrm { l r } }$ 选用Gaussian模型，根系所占体积 $V$ 为桶体体积。由于试验中所取的棉花苗期根系太小，其根长密度很小，所以，采用即将进入蕾期以及蕾期以后的数据进行比较。文中其他模型系数根据试验所测数据进行拟合，结果如表2所示。
+
+<html><body><table><tr><td>月份Month</td><td>5月May</td><td>6月June</td><td>7月July</td><td>8月August</td><td>9月September</td></tr><tr><td>ETo</td><td>5.281 6</td><td>6.783 5</td><td>6.512 7</td><td>5.565 3</td><td>3.453 3</td></tr></table></body></html>
+
+表1石河子多年月平均 $\mathbf { E T _ { 0 } }$ 值 Table 1Annual averages of monthly $\mathrm { E T _ { 0 } }$ of the experiment area of Shihe:   
+表2棉花生长模型系数Table 2Model parameters ofcotton growth  
+
+<html><body><table><tr><td rowspan="2">模型类别 Model category</td><td colspan="3">模型系数 Model parameter</td><td rowspan="2">决定系数(R²) Detemicienion</td></tr><tr><td>a</td><td>b</td><td>c</td></tr><tr><td>作物系数 Crop coefficient</td><td>0.002 961</td><td>0.925 9</td><td>1</td><td>0.934 4</td></tr><tr><td>叶面积Leaf area</td><td>888.789</td><td>103.690</td><td>36.850</td><td>0.989 0</td></tr><tr><td>根长密度 Root length density (Logistic Model)</td><td>3 907.329</td><td>1 066.710</td><td>0.147</td><td>0.893 0</td></tr><tr><td>根长密度 Root length density (Gaussian Model)</td><td>4 704.357</td><td>100.684</td><td>40.544</td><td>0.925 0</td></tr><tr><td>根系吸水效率 Root water uptake efficiency</td><td>0.000 001 61</td><td>0.000 124</td><td>0.031 6</td><td>0.991 6</td></tr></table></body></html>
+
+![](images/5da0877376f66e4ed3c754d45ec631baafc63c23309e1e352eb51fe0533431d1.jpg)  
+模拟结果与试验结果相比较如图2所示。  
+图2棉花根长实测值与模拟值随生长时间的变化 Fig.2Observed and simulated behaviors of cotton root length growth
+
+试验数据显示，棉花即将进入蕾期至花期之间(出苗后40\~80d)的根长生长很快，铃期(出苗后100 d左右)根长生长达到最大值，进入吐絮期(出苗后110 d以后)根长开始衰减，棉花从蕾期到吐絮期的根长生长过程类似抛物线变化(如图2所示)。模型模拟出的棉花根长生长趋势与实测值基本一致，只是在出苗后 42\~83 d(蕾期和花期)和出苗 120 d以后(吐絮期)两个区间内模拟值较实测值偏小。这是由于模拟过程中的 $\mathrm { E T _ { 0 } }$ 采用的是多年月平均值，在棉花蕾期、花期及吐絮期阶段其值可能比实际值偏小，使得计算出的叶面蒸发量小，导致根长生长速度比实际的慢。不过在工程设计中这样选取 $\mathrm { E T _ { 0 } }$ 是合理的[28]。另外，模拟的棉花吐絮期根长生长衰减速度比实测结果快，是因为除了模拟过程中 $\mathrm { E T _ { 0 } }$ 的影响以外，还由于在模拟中设定根长密度在空间均匀分布，当棉花吐絮期叶面耗水减少时，所需要的吸水根系数量也减少，导致整个空间的根长同步减少，所以模拟出的总根长衰减快。而实测结果显示，根系并非均匀分布，根长密度随土层深度先增大后减小；水平方向以根轴处最大，两边近似对称分布；根系密集区由于存在吸水竞争，根长有明显衰减；而根系稀松区的根长衰减不明显，所以总体上根长的衰减幅度比模拟值小。模型反映出了根系生长受土壤水分环境、大气蒸腾力和叶面积的影响，揭示了根系生长耗水的机理。
+
+# 3模型敏感性讨论
+
+模型计算值与试验测定值的相对误差随模拟进程呈先增大后减小再增大的规律，其中最大相对误差 $( 2 6 . 1 9 \%$ )出现在出苗后56d(蕾期，叶面积和根长密度生长速度加快的阶段)，最小相对误差 $( 4 \% )$ 出现在出苗后102d(铃期)，总体误差为 $1 5 . 4 1 \%$ ，这是因为模拟过程中的 $\mathrm { E T _ { 0 } }$ 是多年月平均值，与试验年份的值有差异。但是这符合工程设计的应用规则，对于用作设计土壤灌溉湿润区的依据来说，已达到精度要求 $1 0 \% { \sim } 2 0 \%$ ；该模型是有效的。
+
+动态规划模型中状态变量叶面积LA和根长 $L$ 都是关于生长时间 $\mathbf { \chi } _ { t }$ 的函数，在同样的时间变化 $\Delta t$ 下，叶面积的相对变化量始终大于根长的相对变化量。文献[29]认为，作物生育初期以根系生长为主,此时根系生长速度比叶面生长速度快；而进入生殖生长期(对于棉花是指进入蕾期)则以冠层生长为主,此时叶面生长速度比根系生长速度快；生育后期，两者的生长速度都减小。这表明本文建立的棉花根长生长模型比较符合棉花生殖生长期的根-叶水量平衡关系，此时根系的生长是对根-叶之间水分平衡关系变化而做出的响应。
+
+本文动态规划模型共涉及到作物系数 $K _ { \mathrm { c } } .$ 、叶面积LA、根长密度 $d _ { \mathrm { l r } }$ 和根系吸水效率 $\ a ( t ) 4$ 个影响模型计算结果的状态变量，但真正具有自由度的变量是LA、 $d _ { \mathrm { l r } }$ 和 $\alpha ( t ) _ { \circ }$ 以棉花桶栽试验结果为对照，分别对这3个状态变量变动 $- 1 5 \%$ ，判断各状态变量对模拟结果的影响效果，由下式求得：
+
+$$
+p = \frac { L _ { \Delta - 1 5 \% } - L _ { \Delta 0 \% } } { L _ { \Delta 0 \% } } \times 1 0 0 \% \bigg | X _ { \Delta - 1 5 \% }
+$$
+
+式中： $p$ 为影响效果百分率， $\% ; X$ 为具有自由度的状态变量; $L _ { \Delta - 1 5 \% }$ 为状态变量变动 $- 1 5 \%$ 后模拟的总根长； $L _ { \Delta 0 \% }$ 为未变动状态变量模拟的总根长。
+
+影响效果百分率计算结果表明：叶面积LA和根长密度 $d _ { \mathrm { l r } }$ 在原数值的基础上变动 $- 1 5 \%$ ，对模拟结果的影响基本一致(图3所示)，都是使根长减小。但是叶面积对根长生长的影响程度(影响效果均值为 $- 1 3 . 9 \%$ 小于根长密度 $d _ { \mathrm { l r } }$ 对根长生长的影响程度(影响效果均值为 $- 1 4 . 9 \%$ ；而且在整个生育阶段，叶面积对根长生长的影响程度几乎是定值；而根长密度对根长生长的影响程度是变化的，生育初期影响程度小，生育后期影响程度大，出苗100d后(铃期)，根长密度对根长生长几乎是直接影响。这反映了3个方面的问题：首先，根长生长与叶面积生长呈正相关，这与前人研究得出的“棉花根、冠生长同步性"结论是一致的[12]，反映了棉花整个生育期叶面蒸腾与根系吸水之间的生理平衡关系。其次，虽然根长密度分布和根长生长之间也呈正相关关系，但它们之间的因果关系却是根长生长影响着根长密度分布。特别是在桶栽条件下(或土壤湿润空间有限的条件下)，棉花生育初期的根长生长有足够的空间,根长密度增加缓慢；而棉花生育中、后期的根长生长空间逐渐达到极限或接近定值，而为了维持水量平衡，棉花根系二级及三级侧根仍然要在土壤湿润区中生长，因此，根长生长就直接导致了根长密度的增大。最后，叶面积和根长密度分布对根长生长的影响程度反映出根系生长对土壤水分环境更敏感这符合根系生长的一般规律[2]。
+
+在水量平衡条件下，单位长度根系吸水速率决定着维持水量平衡所需的总根长。当根系吸水效率$\alpha ( t )$ 在原数值的基础上变动 $- 1 5 \%$ ，使模拟出的根长增大(影响效果均值为 $1 7 . 6 \%$ ，而且在棉花整个生育期其影响效果几乎相同(图3所示)。说明根系吸水效率与根长呈负相关关系，即如果根系吸水效率低，则为了维持水分平衡所需要的根量就多。
+
+18 △A M △△△ A kereeeeeseseesee 17 尔售酒 16 15 日 14 + 1 ? 會會 叶面积Leaf area 13 一根长密度Root length density —根系吸水效率 Root water uptake efficiency 12 0 20 40 60 80 100 120 140 出苗后天数 Days after emergence (d)
+
+比较3个因素对棉花根长生长影响效果的绝对值，发现根系吸水效率对棉花根长生长的影响大于冠层耗水和根长密度(或土壤水分环境)对根长生长的影响，因此，生产中采用合理施肥以及提高地温来提高根系吸水效率，促进作物根系及植株生长[2]。另外，对于棉花根系生长来说，叶面积和土壤水分环境是其生长的外部影响因素，而根系吸水效率是其内部影响因素，所以它的影响效果最大。
+
+前人建立的棉花根长随生育阶段生长的模型基本是以统计学模型为主[23]，并不反映根-叶或根-土水分环境的生理生态关系，而叶面耗水以及土壤水分环境恰恰是制约根系生长的边界条件。本文基于水量平衡原理，用动态规划方法建立的棉花根长生长模型能够将这些制约条件考虑进去，使模型能够反映一定的机理性质。尽管模型中各状态变量仍然采用了关于时间的统计学函数，但是模型结构上已体现了叶面耗水、土壤水分状况、根系空间等因素对棉花根长生长的作用。关于棉花叶面生长过程和根长密度变化过程的研究已有大量成果可参考，只是关于根系吸水效率的研究成果还需要丰富，因此，该建模方法对灌溉技术设计有帮助。
+
+# 4结论
+
+1)本文在棉花主要生育阶段没有水分胁迫以及所有根系都吸水的条件下，以水量平衡为原则，利用动态规划理论建立了棉花根长生长模型，经桶栽棉花试验验证，模拟的根长生长过程与实测情况基本一致。当以多年月平均 $\mathrm { E T } _ { 0 }$ 作为输入条件时，模拟结果总体误差 $1 5 . 4 1 \%$ ，用于局部灌溉技术设计中确定土壤有效湿润区是有效的。
+
+2)所建模型能够反映棉花根-叶生长的同步性，以及进入生殖生长期以后根-叶之间的水量平衡关系。对于影响根系生长的外部因素来说，模拟结果显示出，棉花根系生长对土壤水分环境变化的敏感性高于对叶面积变化的敏感性，说明本文所建模型能反映棉花根系生长与冠层耗水以及土壤水分环境的机理关系，建模方法是可行的。
+
+# 参考文献References
+
+[1]张喜英．作物根系与土壤水利用[M]．北京：气象出版社, 1999:31-53,154-166 Zhang X Y. Crop Root System and Soil Water Utilization[M]. Beijing: China Meteorological Press,1999: 31-53,154-166   
+[2]Gregory P J.Plant Roots:Growth,Activity and Interaction with Soils[M].UK:Blackwell Publishing Ltd.,2006:52-73   
+[3]王艳哲，刘秀位，孙宏勇，等．水氮调控对冬小麦根冠比和 水分利用效率的影响研究[J]．中国生态农业学报，2013, 21(3): 282-289 Wang Y Z,Liu X W, Sun H Y,et al. Effects of water and nitrogen on root/shoot ratio and water use efficiency of winter wheat[J]. Chinese Journal of Eco-Agriculture,2013,21(3): 282-289   
+[4] 廖荣伟，刘晶淼，白月明，等．玉米生长后期的根系分布研 究[J]．中国生态农业学报,2014,22(3):284-291 Liao R W, Liu JM,Bai Y M,et al. Spatial distribution and temporal variation of maize root in the soil under field conditions[J]. Chinese Journal of Eco-Agriculture,2014, 22(3): 284-291   
+[5] Chen D X,Lieth JH.A two-dimensional,dynamic model for root growth distribution of potted plants[J].Journal of the American Society Horticultural Science,1993,118(2): 181-187   
+[6] 杨青华，高尔明，马新明，等．不同土壤类型玉米根系生长 发育动态研究[J]．华北农学报,2000,15(3):88-93 YangQ H,Gao E M,Ma X M,et al.Study on growing dynamic of maize root system in various soils[J].Acta Agriculturae Boreall-Sinica,2000,15(3): 88-93   
+[7]Dunbabin V M,Diggle AJ,Rengel Z,et al.Modelling the interactions between water and nutrient uptake and root growth[J]. Plant and Soil,2002,239(1): 19-38   
+[8]冀荣华，李想，祁力钧，等．盆栽番茄根系三维生长模型构 建与实现[J].排灌机械工程学报,2014,32(9):795-801 Ji R H,Li X,Qi L J，et al.Three-dimensional growth modelling and realization for potted tomato root system[J]. Journal of Drainage and Irrigation Machinery Engineering, 2014,32(9): 795-801 L1 S K，Wang C T，WangC Y,et al. A study on the distribuding pattern and construction of high-yield cotton root system in north Xinjiang[J]. Cotton Science,20oo,12(2): 67-72   
+[10]危常州，马富裕，雷咏雯，等．棉花膜下滴灌根系发育规律 的研究[J]．棉花学报,2002,14(4):209-214 Wei C Z,Ma F Y,Lei Y W,et al. Study on cotton root development and spatial distribution under film mulch and drip irrigation[J]. Cotton Science,2002,14(4): 209-214   
+[11] Li M S.Root architecture and water uptake for cotton under furrow and mulched trickle irrigation[C]//Kang S Z,Davies W J, Shan L,et al. Water-saving Agriculture and Sustainable Use of Water and Land Resources.Xi'an:Shaanxi Science and Technology Press,2003: 485-490   
+[12]Coelho MB,Villalobos F J,Mateos L.Modeling root growth and the soil-plant-atmosphere continuum of cotton crops[J]. Agricultural Water Management, 2003,60(2): 99-118   
+[13]邵光成，张展羽，刘娜，等．膜下滴灌棉花根系发育参数的 BP 模型预测[J]．水资源保护,2006,22(4):47-49 Shao G C,Zhang Z Y,Liu N,et al. Prediction of root growing parameter of drip-irrigated cotton under mulch by using BP model[J].Water Resources Protection,2006,22(4): 47-49   
+[14]Hu X T,Chen H,Wang J,et al. Effects of soil water content on cotton root growth and distribution under mulched drip irrigation[J].Agricultural Sciences in China,2009,8(6): 709-716   
+[15] 钟南，罗锡文，秦琴．基于生长函数的大豆根系生长的三 维可视化模拟[J]．农业工程学报,2008,24(7):151-154 Zhong N,Luo X W,Qin Q.Modeling and visualization of three-dimensional soybean root system growth based on growth functions[J]. Transactions of the CSAE,20o8,24(7): 151-154   
+[16] Leitiner D,Klepsch S,Bodner G, et al.A dynamic root system growth model based on L-systems[J].Plant and Soil,2010, 332(1/2): 177-192   
+[17]唐卫东，李金忠，刘昌鑫，等．虚拟植物模型及其构建方法 研究综述[J]．计算机应用研究,2012,29(9):3206-3211 Tang W D,Li J Z,Liu C X,et al.Review of study on construction method for virtual plant model[J].Application Research of Computers,2012,29(9): 3206-3211   
+[18]张立桢，曹卫星，张思平，等．棉花根系生长和空间分布特 征[J]．植物生态学报,2005,29(2):266-273 Zhang L Z, Cao W X, Zhang S P,et al. Characterizing root growth and spatial distribution in cotton[J].Acta Phytoecologica Sinica,2005,29(2): 266-273   
+[19]刘肇祎，郭元裕．灌排工程系统分析[M].北京：水利电力 出版社,1988:114-129 Liu Z H,Guo Y Y. Analysis of Irrigation and Drainage Systems[M]. Beijing: Water Resources and Electric Power Press,1988: 114-129   
+[20] Mao Z. Forecast of crop evapotranspiration[J]. ICID Bulletin, 1994,43(1): 23-36   
+[21] 慕彩芸，马富裕，郑旭荣，等．覆膜滴灌棉田蒸散量的模拟 研究[I] 农业T程学报 2005 21(4):2.5-29 Mu C Y,Ma F Y,Zheng X R，et al. Simulation of evapotranspiration under the condition of drip irrigation with plastic film mulching in cotton field[J].Transactions of the CSAE,2005,21(4):25-29   
+[22]Allen R G.Using the FAO-56 dual crop coefficient method over an irrigated region as part of an evapotranspiration intercomparison study[J]. Journal ofHydrology,2000,229(1/2):27-41   
+[23]王允喜，李明思，蓝明菊．膜下滴灌土壤湿润区对田间棉 花根系分布及植株生长的影响[J]．农业工程学报，2011, 27(8):31-38 Wang Y X,LiMS,Lan MJ.Effect of soil wetting pattern on cotton-root distribution and plant growth under plastic mulched drip irrigation in field[J].Transactions of the CSAE, 2011,27(8):31-38   
+[24] Segal E,Ben-Gal A,Shani U.Root water uptake efficiency under ultra-high irrigation frequency[J].Plant and Soil,2006, 282(1/2):333-341   
+[25]孙浩，李明思，李金山，等．滴灌土壤湿润区对棉花根形与 生物量积累的影响[J]．灌溉排水学报,2014,33(3):28-32 Sun H,Li MS,LiJ S,et al. Influence of soil wetting pattern under drip irigation on cotton root structure and root biomass accumulation[J].Journal of Irrigation and Drainage,2014,   
+33(3):28-32 [26] Tsialtas JT,Koundouras S,Zioziou E.Leaf area estimation bysimple measurements and evaluation of leaf area prediction models in Cabernet-Sauvignon grapevine leaves[J]. Photosynthetica,2008,46(3):452-456 [27]孙浩，李明思，丁浩，等．滴头流量对棉花根系分布影响的 试验[J].农业工程学报,2009,25(11):13-18 Sun H,Li M S,Ding H,et al.Experiments on effect of dripper discharge on cotton-root distribution[J].Transactions ofthe CSAE,2009,25(11):13-18 [28]国家质量技术监督局，中华人民共和国建设部.GB50288—   
+1999灌溉与排水工程设计规范[S].北京：中国计划出版 社,1999 The State Bureau of Quality and Technical Supervision, Ministry of Construction of the People's Republic of China. GB50288—1999 Code for Design of Irrigation and Drainage Engineering[S].Beijing: China Planning Press,1999 [29]刘胜群，宋凤斌，王燕．玉米根系性状与地上部性状的相 关性研究[J]．吉林农业大学学报,2007,29(1):1-6 Liu SQ,SongFB,Wang Y.Correlations between characters of roots and those of aerial parts of maize varieties[J]. Journal of Jilin Agricultural University,2007,29(1):1-6

@@ -1,0 +1,539 @@
+[
+    {
+        "type": "text",
+        "text": "Analysis of algebraic reconstruction technique for accurate imaging of gas temperature and concentration based on tunable diode laser absorption spectroscopy ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huihui XIA1² ,Ruifeng KAN1 , Jianguo LIU',Zhenyu $\\mathrm { { X U } ^ { 1 } }$ ,Yabai $\\mathrm { H E } ^ { 1 }$ ， 1. Key Lab of Environmental Optics and Technology，Anhui Institute of Optics and Fine Mechanics ,Chinese Academy of Science,Hefei23OO31, China 2.University of Science and Technology of China,Hefei, 23OO22,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: An improved algebraic reconstruction technique(ART) with tunable diode laser absorption spectroscopy(TDLAS） is presented in this paper for determining two-dimensional distribution of $\\mathrm { H } _ { 2 } \\mathrm { O }$ concentration and temperature in a simulated combustion flame.This work aims to simulate the reconstruction of spectroscopic measurements by a multi-view parallel-beam scanning geometry and analyze the effects of projection rays on reconstruction accuracy. It finally proved that reconstruction quality dramatically increases with increasing number of projection rays until they are more than 18O for $2 0 \\times 2 0$ grid,after that point, the number of projection rays has litle impact on reconstruction accuracy. It is clear that the temperature reconstruction resultsare more accurate than the water vapor concentration bytraditional concentration calculation method, the study in this article also proposed an innovative way to remove the error of concentration reconstruction and improve the reconstruction quality greatly, the capability of this new method is evaluated by appropriate assessment parameters.By using this new approach, the concentration reconstruction accuracy is not only badly improved, but also a suitable parallel-beam arrangement is put forward for sake of high reconstruction accuracy and simplicity of experimental validation. At last, a bimodal structure of combustion region is assumed to demonstrate the robustness and universality of the proposed method. Numerical investigation indicates that the proposed TDLAS tomographic algorithm is capable for accurate temperature and concentration profiles detection, this feasible formula for reconstruction research is expected to resolve several key issues in practical combustion devices. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: algebraic reconstruction technique, two-dimensional distribution,   \nprojection rays, accurate reconstruction   \nPACS: 42.62.Fi, 02.70.-c ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Over the past decades, TDLAS has become an indispensable method for making sensitive and fast in situ measurements in gaseous detection， such as species concentration， pressure, temperature, and velocity[1,2,3]. Traditional absorption spectroscopy is a line-of-sight(LOS） technique，which can only reflects averaged value along the laser path without providing any spatially resolved information[4,5,6], while the temperature and concentration among combustion area are usually non-uniform, thus, it is necessary to accurately obtain the spatial distribution of fluid field parameters. Recently, TDLAS data is combined with computer tomography(CT), herein referred to as tunable diode laser absorption tomography(TDLAT),to image two-dimensional distribution of combustion properties of scramjet wind tunnel. TDLAT can be roughly divided into two categories in terms of reconstruction algorithm: transformation method, the representative algorithm is filtered back projection(FBP) algorithm[7,8,23], which needs complete projection data to realize physical reconstruction,and the other one is iterative method, the main example is algebraic reconstruction technique(ART) algorithm[9,10,11,12]. Bryneretal. employed filtered back projection algorithm to reconstruct the peak of the water vapor absorption transition centered at approximately $7 1 6 4 . 9 \\mathrm { { c m } ^ { - 1 } }$ of flat burner and indoor environment based on experimental measurements[13].Li Fei Et al. designed a set of TDLAT system with 6 parallel rays which were arranged in different position, they reconstructed the temperature and concentration distribution of scramjet combustor exit using ART[14].L.Ma used a tunable laser called “fiber Fabry-Perot tunable filter laser(FFP-TFL)” to scan over the 1333-1377nm range at ${ \\sim } 2 0 0 \\mathrm { H z }$ in the 2D reconstruction of temperature and $\\mathrm { H } _ { 2 } \\mathrm { O }$ concentration distributions over a Hencken burner flame[15]. Although the FBP algorithm can obtain highly accurate reconstructions of objective area, especially in medical imaging, a large number of closely sampled angular views and projection rays may increase the difficulty of experimental design， therefore，FBP reconstruction study based on laboratory verification is rarely reported in the literature.Unlike FBP,ART tomography algorithm has been successively used for combustion diagnosis because of its strong resistance to noise and availability with only limited projection data[12,16]. Even though many researchers have performed relevant work for imaging, it is hard to evaluate the preciseness of reconstruction results， especially the concentration distribution results, it is usually not so satisfactory when compared with temperature reconstruction by using traditional method[23]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we divided the combustion area into $2 0 \\mathrm { x } 2 0$ grids,and theoretically discussed the reconstruction of temperature and concentration with different projectionraysbasedonamodifiedadaptivealgebraicreconstruction technique(MAART)[17]. More importantly, weproposed a novel way to eliminate the concentration reconstruction error, which greatly improved the accuracy of the results when compared with the traditional method, furthermore,an optimal spatial structure of test system include parallel-beam projection rays and grid partition principle was suggested later. At the same time， asymmetric temperature and concentration distribution models were created to analyze the robustness and universality of the proposed algorithm. By the way of this article, the temperature and concentration can be simultaneously and precisely generated whatever the combustion flow field is like in the future. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.Theoretical foundation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generally the TDLAT can be divided into two steps，which is absorption spectroscopy theory on the one hand and tomographic reconstruction algorithm,on the other. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Absorption Spectroscopy Principle ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to the Beer-Lambert law, when collimated light at a certain frequency penetrates a gas medium of path length,L, the relationship between the transmitted and incident intensity of radiation is: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\phantom { } _ { t } } ( \\nu ) = I _ { 0 } ( \\nu ) \\exp ( - p \\int _ { 0 } ^ { L } X _ { \\phantom { } _ { a b s } } ( x ) S _ { i } [ T ( x ) ] \\phi _ { \\nu } d x )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Where $I _ { \\ d _ { t } }$ and $I _ { 0 }$ are the transmitted and incident laser intensity respectively， $p$ is total static pressure[atm], $X _ { a b s }$ is the mole fraction of the absorbing species, $S _ { i } ( T )$ is the transition line strength $1 [ \\mathsf { c m } ^ { - 2 } \\mathrm { ~ a t m } ^ { - 1 } ]$ for a single transition $i$ ，and $\\phi _ { \\nu }$ is the normalization line-shape function[cm], namely, $\\int \\phi _ { \\nu } \\mathrm { d } \\nu = 1$ , usually $\\phi _ { \\nu }$ approximates the convolution of two dominant broadening mechanisms， i.e.，Doppler and collisional broadening， representative for typical combustion environment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The integrated absorbance of the transition $i$ can be inferred from the above as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { i } = \\int \\ln ( I _ { 0 } / I _ { t } ) _ { \\nu } d \\nu = p \\int _ { 0 } ^ { L } X _ { a b s } ( x ) S _ { i } [ T ( x ) ] d x\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The absorption coefficient can be defined as flows from equation(2） for a uniform flow field whose concentration and temperature are constant: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha = p X _ { a b s } S _ { \\scriptscriptstyle i } \\left( T \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The line strength $S$ of a single transition $i$ ，which is temperature-dependent, can be described in terms of the formula below at a reference temperature $T _ { 0 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$S ( T ) = S ( T _ { 0 } ) \\frac { Q ( T _ { 0 } ) } { Q ( T ) } \\frac { T _ { 0 } } { T } \\exp [ - \\frac { h c E ^ { * } } { k } ( \\frac { 1 } { T } - \\frac { 1 } { T _ { 0 } } ) ] \\times [ 1 - \\exp ( \\frac { - h c \\upsilon _ { 0 } } { k T } ) ] [ 1 - \\exp ( \\frac { - h c \\upsilon _ { 0 } } { k T _ { 0 } } ) ] ^ { - 1 }$ (4) Where $h$ [J.s] is Plank's constant, $c \\ [ \\mathrm { c m . s ^ { - 1 } } ]$ the speed of light, $k \\ [ \\mathrm { J } . \\mathrm { K } ^ { - 1 } ]$ the Boltzmann's constant, $Q ( T )$ the partition function of the absorbing species[18], $\\nu _ { 0 }$ （20 $[ \\mathrm { c m ^ { - 1 } } ]$ the line-center frequency, and $E ^ { ' } [ \\mathrm { c m } ^ { - 1 } ]$ the lower state energy of the transition. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Tomography algorithm ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Before the tomography algorithm study, we discrete the region of interest(ROI) into N(N equals to $\\boldsymbol { \\mathrm { n } } { \\times } \\boldsymbol { \\mathrm { n } }$ ） grids,and the flame parameters such as pressure, temperature and gas concentration are assumed to be constant in each grid， then the integrated absorbance $A$ of transition iin equation(2) for each laser beam is calculated by the discrete form: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { \\nu , i } = \\sum _ { j = 1 } ^ { J } [ p S ( T ) X _ { a b s } ] _ { \\nu , j } L _ { i j } = \\sum _ { j = 1 } ^ { J } \\alpha _ { \\nu , j } L _ { i j } \\qquad ( \\mathrm { i = 1 , 2 , \\ldots , I ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Where $I$ and $J$ are respectively total beam and grid number, $L _ { i j }$ the path length of the $i$ -th laser beam passing through the grid $j ,$ which can be automatically calculated from a fast algebraic reconstruction algorithm based on improved projection coeficient computation[19], $\\alpha _ { \\nu , j }$ the absorption coefficient of the $i$ -th laser beam within the $j$ -th grid. In general, equation(5) can be rewritten as matrix expression: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = L \\alpha\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Where $\\mathrm { ~ L ~ }$ is the $\\mathbf { I } { \\times } \\mathbf { J }$ matrix of weights $L _ { _ { i j } }$ , the column vector $\\alpha = \\{ \\alpha _ { \\nu , 1 } , \\alpha _ { \\nu , 2 } , . . . , \\alpha _ { \\nu , J } \\} ^ { T }$ and $\\boldsymbol { A } = \\{ A _ { \\nu , 1 } , A _ { \\nu , 2 } , . . . , A _ { \\nu , I } \\} ^ { T }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Instead of the matrix theory, here we compute $\\alpha$ by using a modified adaptive algebraic reconstruction technique(MAART)[17]，application of this ART method solves linear equations(6) in iterative equation as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c c } { { \\alpha ^ { k } = \\alpha ^ { k - 1 } - \\lambda _ { k } [ \\alpha ^ { k - 1 } \\bullet L _ { i } - A _ { i } ] \\qquad } } & { { \\mathrm { ( i = 1 , 2 , \\ldots , I ) } } } \\\\ { { \\lambda _ { k } = \\beta \\times { \\frac { \\displaystyle \\alpha _ { j } ^ { k - 1 } L _ { i j } } { \\displaystyle \\sum _ { j = 1 } ^ { J } L _ { i j } } } } } & { { \\mathrm { ( j = 1 , 2 , \\ldots , J ) } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Where $\\mathbf { k }$ represents the iteration time in the ART procedure, $\\lambda _ { k }$ is the relaxation parameter, and $\\beta$ generally is a constant( $\\beta < 0 . 5 )$ [17] during the calculation, here we make it O.25. The iterative process is terminated when the absorption coefficient in equation(3） becomes less than $1 \\times { 1 0 } ^ { - 9 }$ between two consecutive iterations. Considering the non-negativity ofconcentration and temperature value, restrictions are performed during the iterative process: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ \\Phi ( \\alpha ) ] _ { j } =  \\binom { \\alpha _ { j } . . . . . . . . . \\alpha _ { j } \\geq 0 }  0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to reduce the mutation of reconstruction results, the reconstructed value is to be restricted within a reasonable range for specific application in practice, here a kind of smoothness regularization is employed[21,22], for grid (i,j), the absorption coefficient $\\alpha$ is: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { \\alpha } _ { i , j } ^ { k } = ( 1 - \\delta ) \\times \\mathcal { \\alpha } _ { ( i , j ) } ^ { k - 1 } + \\delta \\times [ \\sum _ { y = j - 1 } ^ { j + 1 } \\sum _ { x = i - 1 } ^ { i + 1 } \\mathcal { \\alpha } _ { ( x , y ) } ^ { k - 1 } \\mathbf { \\beta } / 8 ]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $\\boldsymbol { \\alpha } _ { ( i , j ) } ^ { k }$ after $\\mathbf { k }$ th iterationisnotonlyrelativewith(k-1)-thgidinformation,but also dependent on its nearest eight neighbors,and we keep the constant $\\delta 0 . 0 0 1$ [17]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "By performing the equations(7)、(8)、(9), the tomographic reconstruction result of $\\alpha$ can be obtained subsequently, the temperature of grid $\\mathrm { j }$ would be approximately determined by the following formula if we select a pair of appropriate transitions( $\\nu _ { 1 }$ and $\\nu _ { 2 }$ ）with different temperature dependence[20]: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { j } = ( \\frac { h c } { k } ( \\bar { E _ { 2 } } - \\bar { E _ { 1 } ^ { \\circ } } ) ) / ( \\mathrm { l n } ( \\frac { \\alpha _ { \\nu 1 , j } } { \\alpha _ { \\nu 2 , j } } ) + \\mathrm { l n } ( \\frac { S _ { 2 } ( T _ { 0 } ) } { S _ { 1 } ( T _ { 0 } ) } ) + \\frac { h c } { k } \\frac { ( \\bar { E _ { 2 } ^ { \\circ } } - \\bar { E _ { 1 } ^ { \\circ } } ) } { T _ { 0 } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The traditional way to infer concentration is that $X _ { j }$ can be simultaneously obtained from equation(3) at the atmospheric pressure with $T _ { j }$ in hand, but this algorithm may generate great reconstruction error, we propose a novel method instead of this way to solve the problem, more details will be given in the following text. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.Methods ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Absorption line selection ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { H } _ { 2 } \\mathrm { O }$ is an attractive target species for combustion diagnosis due to the relative abundanceof water vapor as a combustion product and a strong near-infrared absorption spectrum. In this work two transitions $7 1 5 3 . 7 2 2 \\mathrm { c m } ^ { - 1 } \\& 7 1 5 3 . 7 4 8 \\mathrm { c m } ^ { - 1 }$ and $7 1 5 4 . 3 5 4 \\mathrm { c m } ^ { - 1 }$ , have been selected to infer temperature by means of two-line scheme because of their suitable line-strength and free of significant interference from nearby transitions[9,23], these two overlapped transitions $7 1 5 3 . 7 2 2 \\mathrm { { c m } ^ { - 1 } }$ and $7 1 5 3 . 7 4 8 \\mathrm { c m } ^ { - 1 }$ can be treated as one transition when we deal with their line strength, integrated absorbance， center frequency . The dependence of the two line strength on temperature can be obtained from HITRAN 2OO8 or be calculated by equation(4),as shown in Fig.1(a), then the line strength ratio of the two absorption transitions and relative sensitivity to temperature are derived as shown in Fig.1(b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a2435ee4d6aa776c843facf16978e5fce49148d83ba686f762fd4ef893b3ba5.jpg",
+        "img_caption": [
+            "Figure.1(a).Line strength for selected transitions "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d5706d36a0d224be5d41f3c07fbe80487f701a64524aab4acb17b33edcd0b24.jpg",
+        "img_caption": [
+            "Figure.1(b).Ratio and sensitivity "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Numerical investigation for temperature reconstruction ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the simulation, we assumed the ROI is $2 0 { \\times } 2 0 ~ \\mathrm { c m } ^ { - 2 }$ ，then the ROI was divided into $2 0 \\times 2 0$ grids, namely, the length for both $\\mathrm { \\Delta X }$ and $\\mathrm { Y }$ axis directions of each grid was 1cm,which was a relatively high spatial resolution to understand combustion flow field information. Parallel-beam retained 2O light rays at each projection angle,and these rays rotated around the ROI for generating projection data in different views. This parallel laser-detector scanning geometry is shown as Fig.2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c82052ffb8e074a6e773603e07f0d93046c81280172ab00b486f8df1a4ff8e0.jpg",
+        "img_caption": [
+            "Figure.2. Parallel beam collection geometry for multi-view with a fixed location "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A Gaussian model was designed for simulating the temperature and concentration distribution of the combustor exit of flat flame furnace,and we can arbitrarily specify a possible distribution using this Gaussian function. In this paper an interest temperature range(5O0K-140OK） was taken for example， similarly， water vapor concentration i.e. volume fraction varied from O.15 to O.25 for testing, and the total static pressure was always latm, which is the case for many practical applications. First of all, projection data of the numerical phantom, which is exactly equivalent to the integrated absorbance A [26],can be obtained directly from equation(5). Secondly,we changed the number of projection angle which is scattered between O degree and 18O degree to bring out the effect of projection rays on the overall reconstruction quality by the algorithm mentioned in this article,in the end, we specifically set up the projection rays varying from 12O to 36O with 60 increment and keep the parallel rays 2O invariably at each projection angle. Take one of beam arrangements for example, the reconstructed profile was shown in Fig.3, here we just displayed the temperature result regardless of concentration, which would be studied later. In order to analyze the impact of projection rays on reconstruction accuracy clearly, rather than other influence factor, we did not add measurement noise to projection data. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ef1af436e596b83c9cda2b0f3e053784a28670204150d92755f47b0205cbac5.jpg",
+        "img_caption": [
+            "(a).The original temperature distribution(b). The reconstructed temperature distribution Figure.3.Temperature image reconstruction for Gaussian model by ART with totally 3OO projection rays scattered between O degree and 180 degree "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As can be seen from Fig.3,very good agreement was achieved between the reconstruction image and the original phantom， considering the other beam arrangements mentioned in the above, the maximum relative error between the tomographic images and the phantoms was utilized to quantitatively evaluate the accuracy of the reconstructions, this criteria was mathematically expressed as[25]: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne = M a x _ { j = 1 } ^ { N } \\frac { \\left| o _ { j } - r _ { j } \\right| } { o _ { \\operatorname* { m a x } } - o _ { \\operatorname* { m i n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Where $o _ { j }$ and $r _ { j }$ represent the true temperature value and reconstructed one for grid （20 $j$ respectively, $N$ represents the total grid number in reconstruction area, and ${ { o } _ { \\operatorname* { m a x } } }$ （204号 represents maximum value of original pixel, similarly, $o _ { \\mathrm { m i n } }$ the minimum, $e$ reflects the maximum reconstruction difference of a certain pixel compared to original phantom. Another criterion for evaluating reconstruction quality is the average error, shown in equation(13)[25],which inflects average difference of each pixel between reconstructed image and original one. ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\na \\nu e r _ { - } e = \\frac { 1 } { N } \\sum _ { j = 1 } ^ { N } \\frac { \\left| \\boldsymbol { o } _ { j } - \\boldsymbol { r } _ { j } \\right| } { { \\cal O } _ { \\operatorname* { m a x } } - { \\cal O } _ { \\operatorname* { m i n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In terms of the different parallel-beam projection rays scanning， temperature reconstruction error is plotted in Fig.4(a) by calculating equation(12) and (13) . ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/16a2b75f9b7c83399a7e8c08ee92781f95599a90f32954c7cbce931798cfa002.jpg",
+        "img_caption": [
+            "(a).Temperature reconstruction error "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/76cd929c35f4a0a0a661f17334840fa209f03b2007b16a39f0a5d47394ee0b0b.jpg",
+        "img_caption": [
+            "Figure.4.Reconstruction error versus projection rays number "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "From the graph above we can obviously conclude some typical trend is: the error decreases with increasing projection data, reconstruction accuracy is significantly dependent on the projection rays when they are less than 18O,after this point, projection rays have little impact on $e$ and aver_e，which indicates that there is no need to increase the projection rays as many as possible in the TDLAT experiment, for $2 0 \\mathrm { x } 2 0$ grid partition，in consideration of laboratory verification and experimental condition， 18O or near this magnitude of projection rays arrangement is accurate enough to reconstruct the temperature distribution. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3 Modified algorithm for concentration reconstruction ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Just as described in most of literature, once the temperature of each grid is known, the line-strength S can be calculated, and then the local concentration follows from equation(3) as: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { _ j } = \\alpha _ { _ j } / p S ( T _ { j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In terms of the water vapor concentration reconstruction involved in this paper, we analyzed the results just like temperature mentioned in the above, the concentration image was mapped in Fig.5 under the same conditions as temperature. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6618cd1e55cbe75b8f20b28bf8e93cab6d9c6feb0243e1115190ce304dd0438f.jpg",
+        "img_caption": [
+            "(b).Concentration reconstruction error ",
+            "a).The original concentration distribution(b). The reconstructed concentration distribution Figure.5. Concentration image reconstruction for Gaussian model by ART with totally 3OO projection rays scattered between O degree and 180 degree Fig.5 shows the water vapor concentration reconstruction result under a specific "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "parallel-beam layout, we can also plot the trend curve of the maximum relative error $e$ and the average error aver_e versus different projection rays by equation(l2) and (13), which was displayed in Fig.4(b). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "It turns out that the concentration can be easily reconstructed as long as the temperature has been imaged correctly. However, it is evident that the concentration reconstruction results are usually worse than the temperature reconstruction either from Fig.4 or Fig.5，especially at the edge of ROI， reconstructed value of concentration generates relatively lager error than the center region, this phenomenon can be explained by the literature[23].Many researchers have been focused on temperature measurement for a long time, but they pay litle attention on the correction of concentration reconstruction. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Currently, an unique and standard way of solving the concentration distribution is through directly iterative calculation instead of indirect derivation by temperature reconstruction results.In practical measurements,with $T$ in hand, the line strength $S ( T )$ for each grid can be figured out easily, then we defined another projection weights $L ^ { \\prime }$ ，called normalized $L$ ，which is depicted by the multiplication of original weights $L$ at each grid and the corresponding line-strength, shown as: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ^ { \\prime } { = } L \\cdot S ( T )\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Since the pressure of the combustion region remains latm at the beginning of our study, integrated absorbance $A$ for every transition of a certain laser beam will be converted to equation(16), which would be called absorption formula for transition $i$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = { X _ { a b s } } \\cdot { L ^ { \\prime } }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "According to the previous text, there would be $2 I$ absorption formulas because the total projection laser beam number is $I$ ，now we combine all these $2 I$ equation together. ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ \\begin{array} { l l } { \\displaystyle A _ { \\nu , 1 , 1 } = X _ { 1 } , \\displaystyle \\bar { L } _ { \\nu _ { 1 } , ( 1 , 1 ) } + X _ { 2 } , \\displaystyle \\bar { L } _ { \\nu _ { 1 } , ( 1 , 2 ) } + \\cdots + X _ { j } , \\displaystyle \\bar { L } _ { \\nu _ { 1 } , ( 1 , j ) } + \\cdots + X _ { j } , \\displaystyle \\bar { L } _ { \\nu _ { 1 } , ( 1 , j ) } } \\\\ { \\displaystyle A _ { \\nu , 1 , 2 } = X _ { 1 } , \\displaystyle \\bar { L } _ { \\nu _ { 1 } , ( 2 , 1 ) } + X _ { 2 } , \\displaystyle \\bar { L } _ { \\nu _ { 1 } , ( 2 , 2 ) } + \\cdots + X _ { j } , \\displaystyle \\bar { L } _ { \\nu _ { 1 } , ( 2 , j ) } + \\cdots + X _ { j } , \\displaystyle \\bar { L } _ { \\nu _ { 1 } , ( 2 , j ) } } \\\\ { \\displaystyle \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ { \\displaystyle M _ { \\nu , 1 , 1 } = X _ { 1 } , \\displaystyle \\bar { L } _ { \\nu _ { 1 } , ( 1 , 1 ) } + X _ { 2 } , \\displaystyle \\bar { L } _ { \\nu _ { 1 } , ( 2 , 1 ) } + \\cdots + X _ { j } , \\displaystyle \\bar { L } _ { \\nu _ { 1 } , ( 1 , j ) } + \\cdots + X _ { j } , \\displaystyle \\bar { L } _ { \\nu _ { 1 } , ( 1 , j ) } } \\\\ { \\displaystyle M _ { \\nu , 2 , 1 } = X _ { 1 } , \\displaystyle \\bar { L } _ { \\nu _ { 2 } , ( 1 , 1 ) } + X _ { 2 } , \\displaystyle \\bar { L } _ { \\nu _ { 2 } , ( 1 , 2 ) } + \\cdots + X _ { j } , \\displaystyle \\bar { L } _ { \\nu _ { 2 } , ( 1 , j ) } + \\cdots + X _ { j } , \\displaystyle \\bar { L } _ { \\nu _ { 2 } , ( 1 , j ) } } \\\\ { \\displaystyle M _ { \\nu , 2 , 2 } = X _ { 1 } , \\displaystyle \\bar { L } _ { \\nu _ { 2 } , ( 2 , 1 ) } + X _ { 2 } , \\displaystyle \\bar { L } _ { \\nu _ { 2 } , ( 2 , 2 ) } + \\cdots + X _ { j } , \\displaystyle \\bar { L } _ { \\nu _ { 2 } , ( 2 , 1 ) } + \\cdots + X _ { j } , \\displaystyle \\bar { L } _ { \\nu _ { 2 } , ( 2 , j ) } } \\\\ { \\displaystyle \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\  \\displaystyle M _ { \\nu , 2 , \\nu } + X _ { 1 } , \\displaystyle \\bar { L } _  \\nu _ { 2 } , ( 2  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Where $X _ { j }$ represents the concentration of grid $j$ ， $\\dot { L _ { \\nu 1 , ( i j ) } }$ the normalized path length of the $i$ -th laser beam within the $j$ -th grid with regard to the first absorption transition $\\nu 1$ ，and $\\dot { L _ { \\nu 2 , ( i j ) } }$ for another, $A _ { \\nu 1 , i }$ and $A _ { \\nu 2 , i }$ represent integrated absorbance of absorption $\\boldsymbol { \\nu } \\boldsymbol { 1 }$ and $\\nu 2$ respectively for $i$ -th laser beam. Equation(17) is a linear equation array with $J$ unknowns and $2 I$ equations, solution of the equations is deeply restricted because of the increased $I$ equations when compared with equation(5），which can facilitate us to obtain a more accurate outcome than before.As we all know from the matrix theory, there must be at least $x$ equations to solve $x$ unknowns if we want to get the unique and precise solution, therefore,it provides a reference guideline for us to select the appropriate laser projection beam arrangement in TDLAT, in other words, projection rays should approximate the half of grid number if we want to get accurate results with small number of beam scanning as possible as we can. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In order to reconstruct the concentration distribution by ART from equation(17), we treated $X _ { j }$ as iteration variable and the final convergence value was exactly concentration.In combustion diagnosis,there could be a wide variety of flow field model, a relatively large range(O.15 to O.25） of water vapor concentration has been tested in the above, now another concentration layout varying from O.15 to 0.1591, which is an almost uniform distribution， has been supposed by changing the parameters of Gaussian function to assess the capability and accuracy of the proposed method, for the sake of simplicity, temperature value was still the reconstructed results listed previously. Fig.6 shows the reconstruction for $2 0 \\times 2 0$ grid by traditional method(TM) and the modified method(MM) on the condition that the combustion zone is scanned by 3OO projection rays . ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/42ade3af83db5df3251309261e66c54f9e5a48b81f32fee7a828166ec60cc8b8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd2b4966567e672d3007d2d305f3acadb3abe588c1f082a7db32a33ca8567f18.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a). $\\mathrm { H } _ { 2 } \\mathrm { O }$ concentration of reconstruction by TM (b). Interpolation operation result ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b6fb3a634e8314352f1cdbf8e292f141b2e9f66e266d01fd7bf551c1dd94a7f.jpg",
+        "img_caption": [
+            "Figure.6.Reconstruction image of assumed concentration distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In order to obtain a high spatial resolution image，cubic spline interpolation algorithm was used to realize a $2 0 0 \\times 2 0 0$ grid distribution,which were displayed in Fig.6.(b)、(d)、(f).It isevident from Fig.6 that traditional method generates much larger mistake than modified one, especially at the edge, obvious fluctuation exists whether the original reconstruction or the interpolated image shown in Fig.6(a) and Fig.6(b). While the proposed calculation scheme implements extremely well, the reconstructed results is almost the same as original image shown in Fig.6(e） and Fig.6(f). To quantitatively compare the reconstruction accuracy between TM and MM, we calculated the maximum relative error $e$ and the average error aver_e respectively by using equation(12) and (13) again, a list of the calculation results is shown in table 1 for comparison. ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/6e02042b0f2eae4bb14464278cef2c9337ee4e80e63ed8467f1547341bb1375e.jpg",
+        "table_caption": [
+            "Table 1. Error analysis for 3OO parallel-beam scanning "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Reconstruction methods</td><td>maximum relative error e</td><td>average error aver_e</td></tr><tr><td>Traditional method(TM)</td><td>1.186</td><td>0.1643</td></tr><tr><td>Modified</td><td></td><td></td></tr><tr><td>method(MM)</td><td>0.0673</td><td>0.0054</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "It can be seen that a significant improvement of the tomographic accuracy of concentration reconstruction can be obtained by using the proposed method. To further validate the modified concentration calculation algorithm,we employed this modified way to conduct the reconstruction whose ROI is the same as the distribution depicted by Fig.5(a) again. Figure.8 shows the concentration reconstruction result. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d445fa26be6b5ed6a58a8394fa8da42ef5de5f89e39863a11185442478cb072.jpg",
+        "img_caption": [
+            "(a). Original concentration distribution(b).Reconstructed concentration distribution by MM Figure.7. Concentration reconstruction result by modified concentration calculation algorithm with totally 3O0 projection rays scattered between O degree and 18O degree "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In some complicated combustion environment, the very specific case of the centered symmetrical Gaussian distributions of temperature and mole fraction discussed above should be expanded to include a range of possible cases，we considered a bimodal structure to validate the universality and robustness of the proposed method, reconstruction results are displayed in Fig. 8. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/17ff63ee075569049d2e20b7066c66a4b1db75c6fe4f610888a120b98fd1b958.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/334ad53fd76c75c35edc1bc30534f5c0876ddb2eb8d002261613c389b37b36a2.jpg",
+        "img_caption": [
+            "(e). Temperature reconstruction residuals (f). Concentration reconstruction residuals Figure.8.Reconstruction of asymmetry structure for a bimodal distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "It is obvious from Fig.5，Fig.7 and Fig.8 that the modified concentration calculation algorithm can not only reconstruct different kinds of concentration distribution easily but also provides a more accurate reconstruction image than the traditional method，especially at the edge of ROI, irregular fluctuation of reconstructed phantom is greatly eliminated. In general, the modified method for reconstructing concentration distribution is basically a universal approach in practical combustion diagnosis. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Insummary， a comprehensive analysis for high-quality and simultaneous tomographic imaging of temperature and gas concentration was implemented in this paper. We numerically demonstrated a spatial resolution with totally containing up $2 0 \\times 2 0$ grid points for an improved ART algorithm. By quantitatively calculating the reconstruction error of different parallel-beam scanning arrangements, it proved that reconstruction accuracy was greatly dependent on projection rays only when they were less than a certain value, additionally, the concentration reconstruction results are always worse than the temperature reconstruction by traditional algorithm. Therefore,a modified concentration calculation method was introduced later, which aimed to directly reconstruct concentration instead of deriving from temperature. This proposed method facilitates the high-quality concentration reconstruction without adding extra projection rays. The conclusions presented in the above indicate that projection rays should be approximately equal to half of the grid number or near this magnitude if we simultaneously consider the reconstruction accuracy and simplicity in engineering application. At the end of this article, we applied this proposed method to a more complicated flow field model for demonstrating the robustness and universality of the method. The study in this work validates an available and feasible approach for precisely reconstructing temperature and concentration distribution,and we believe that it certainly can offer a good theoretical foundation for experimental verification in the future. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5. Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the Young Scientists Fund of the National Natural Science Foundation of China (Grant No. 612O5151)， the National Key Scientific Instrument and Equipment Development Project of China(Grant No. 2014YQ060537), and National 973 Program(Grant No.2013CB632803). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "1. M.P. Arroyo and R. K.Hanson. 1993 Appl. Opt. 32 6104.   \n2. Tang Y Y,Liu W Q and Kan R F.2011 Opt.Exp.19 20224.   \n3. Kyle Owen and Aamir Farooq.2014 Appl. Phys. B. 116 371.   \n4. Zhou X,Liu X, Jeffries JB and R K Hanson. 2OO3 Meas.Sci.Technol. 14 1459.   \n5. Scott T. Sanders, Wang J, Jeffries JB and Hanson R. K. 2O01 Appl. Opt. 40 4404.   \n6. Zhang GL,Liu JG, Kan RF and Xu Z Y. 2014 Chin. Phys. B. 23 124207.   \n7. Elizabeth F,Martin, Christopher P G,Glenn S and Diskin.2O1O International   \nJournal of Hypersonics 3173.   \n8. Christopher P.G, McDaniel J C, Glenn S. D and Elliott Bryner. 20O6 AIAA 3445.   \n9. Wang F, Wu Q, Huang Q X, Zhang H D, Yan J H and Cen K F. 2015 Opt. Commun. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "346 53.   \n10.Kasyutich V.L and Martin P.A. 2011 Appl. Phys B. 102 149.   \n11.Song JL, Hong Y Jand Wang G Y. 2012 Acta. Phys. Sin. 61 240702.   \n12.Liu C, Xu L and Cao Z. 2012 IEEE International Conference on 117-120.   \n13.Bryner E and Sharma M.G. 2010 AIAA Aerospace Sciences Meeting Including the New Horizons Forum and Aerospace Exposition 299.   \n14. Li F, Yu X l and Lin X. 2012 Hypersonic Symposium and ${ 5 } ^ { \\mathrm { t h } }$ National Hypersonic Science and Technology Conference.   \n15. Ma L, Cai W and Caswell A. W. 2009 Opt. Express. 17 8602.   \n16.Guha A and Schoegl I. 2O12 International Mechanical Engineering Congress and Exposition. American Society of Mechanical Engineers 305-315.   \n17. Li N, Weng C S. 2011. Chin. Opt.Lett9 061201.   \n18. Nagali V, Chou S.L, Baer D.S, Hanson R.K and Segall J. 1996 Appl. Opt. 21 4026.   \n19. Yang W L, Wei D B. 2012 CT Theory and Application 2 187.   \n20. Zhou X. 2Oo5 “Diode-laser Absorption Sensors For Combustion Control\".（Ph.D. dissertation) (Stanford University, July).   \n21. Piccolomini E.L and Zama F. 1999. Appl. Math. Comput 102 87.   \n22. Ma L and Cai W. 2008 Appl. Opt 47 3751.   \n23. Xia HH, Xu Z Y, Kan R F, He YB,Liu JG and Zhang G L.2015 Infrared. Phys. Techn 72 170.   \n24. Liu C, Xu L J, Chen J L, Cao Z, Lin Y Z and Cai W W. 2015 Opt. Express 23 22494.   \n25. Xu Z Y. 2012 “Research on temperature measurement and 2D distribution for transientcombustionprocessbyinfrared absorptionspectroscopy\". (Ph.D. dissertation).(Chinese Academy of Science. Anhui Institute of Optics and Fine Mechnics).   \n26. Zhuang T G. 1992 CT Principle and Algorithm. ShangHai Jiaotong University Press . ",
+        "page_idx": 15
+    }
+]

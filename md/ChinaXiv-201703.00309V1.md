@@ -1,0 +1,452 @@
+# ANIMPROVEDADAPTIVEREGULARIZATIONMETHOD
+
+# FORFORWARDLOOKINGAZIMUTH SUPER-RESOLUTION
+
+# OFADUAL-FREQUENCYPOLARIZED SCATTEROMETER
+
+Liling Liul ², Xiaolong Dong', Senior Member, Jintai Zhu ³,and Di Zhul
+
+1. The Key Laboratory of Microwave Remote Sensing， Chinese Academy of Sciences, National Space Science Center, Chinese Academy of Sciences, Beijing 100190, China   
+2.University of Chinese Academy of Sciences, Beijing 1OoO49, China   
+3．DFH Satellite co., Ltd, Beijing, 100094, China   
+Corresponding author's address   
+Liling Liu   
+The CAS Key Laboratory of Microwave Remote Sensing,   
+National Space Science Center,Beijing 1OO19O, China   
+E-mail: liuliling15@126.com
+
+# ABSTRACT
+
+Dual-Frequency Polarized Scatterometer (DFPSCAT) is a pencil-beam rotating scatterometer which is designed for snow water equivalent (SWE) measurement, and Doppler Beam Sharpening (DBS) technique is proposed for DFPSCAT to achieve the azimuth resolution. However， the DBS technique is inapplicable forthe forward-looking and afterward-looking region. Based on an approximate aperiodic model of scatterometer echo signal， an improved adaptive regularization deconvolution algorithm with gradient histogram preservation (GHP） constraint is implemented to settle the problem.To investigate its performance of resolution enhancement and resulted accuracy, both a synthetic backscattering coefficient $( \sigma ^ { 0 } )$ field reconstruction and SWE $\boldsymbol { \sigma } ^ { 0 }$ reconstruction are carried out. The results show that the proposed method can recover the truth signal and achieve azimuth resolution of 2km with the designed scatterometer system, which is required by the SWE retrieval. Moreover, the relative errors of reconstructed $\sigma ^ { 0 }$ are less than O.5dB that satisfy the accuracy requirement for SWE retrieval，and comparisons with observed results shows that the error reduction are more than O.O3dB.Meanwhile,a comparison between the proposed algorithm and some existing resolution enhancement methods is analyzed，which concludes that the proposed method can obtain a comparable resolution enhancement as $L _ { 1 }$ method and has less noise.The technique is also verified with ASCAT scatterometer data.
+
+Index Terms: Dual-Frequency Polarized Scatterometer (DFPSCAT)， snow water equivalent (SWE),azimuth super-resolution, reconstruction accuracy
+
+# 1. INTRODUCTION
+
+ocean surface wind vectors and have been widely used in the investigations of oceanography and meteorology. With advantages of wide swath，quick global coverage and high measurement accuracy, scatterometers have become the desirable candidates for land and ice applications [1]. For the conventional scatterometers, resolution in range dimension is processed into a few kilometers using the range gate and that in azimuth dimension is still determined by the antenna beamwidth about a few tens kilometers. For land and ice applications,spatial resolution comparable with visible/IR imaging radiometers,i.e.， the $1 { - } 5 \mathrm { k m }$ resolution Advanced Very High Resolution Radiometer (AVHRR),is demanded [2].
+
+To achieve the required resolution, meanwhile keep the advantage of wide swath. several high resolution reconstruction methods have been proposed for scatterometer image reconstruction， such as additive algebraic reconstruction technique (AART), multiplicative algebraic reconstruction technique (MART） and scatterometer image reconstruction (SIR) [3, 4]. As an improved version of MART, SIR has the fastest convergence and the least noise amplification，and has been applied to the scatterometric data for some specific applications such as ice mapping and iceberg tracking et al. In addition，Williams established a Bayesian-based scatterometer reconstruction framework, in which the scatterometer noise wastaken into consideration [5]. The maximum posteriori (MAP) estimator which is developed by
+
+Williams can obtain consistent results as the well-established SIR algorithm，but significantly enhances the resolution at the expense of noise amplification.
+
+The Water Cycle Observation Mission (WCOM） is proposed to improve the capability of synergetic observation of key water cycle parameters. Dual-Frequency Polarized Scatterometer (DFPSCAT） is one of the payloads,proposed for WCOM along with two others, the L-S-C tri-frequency Interferometeric Microwave Imager (IMI) and the Polarimetric Microwave Imager (PMI). DFPSCAT is dedicated to retrieve snow water equivalent (SWE） by simultaneously measuring surface and volume scattering from snow coverage [6,7]. According to the requirements of SWE retrieval, the spatial resolution of DFPSCAT should be less than $2 \mathrm { k m }$ to mitigate the retrieval errors related to the mix-pixel problem, and its radiometric precision should be better than 0.5dB [8]. Since the existing scaterometer systems and technology cannot satisfy the resolution and accuracy demands, Doppler Beam Sharpening (DBS) technique is proposed for DFPSCAT to achieve the goal of the resolution in azimuth direction. However, the DBS technique is inapplicable for the forward-looking and afterward-looking region, where the Doppler discrimination is confused with range discrimination [9]. Therefore,it is necessary to find some other super-resolution methods to overcome the difficulty.
+
+Guan et al. derived a forward-looking radar echo model for airborne radar and concluded the radar echo was equivalent to a convolution operation between target normalized radar backscatter coeficient $( \sigma ^ { 0 } )$ and antenna pattern [1O]. Then, the echo model can be solved by some deconvolution methods to achieve high resolution. With this motivation, the sampling rate of DFPSCAT in azimuth direction is increased to meet the desired resolution requirement, and then the deconvolution methods are utilized to improve the azimuth resolution for the forward- and after-looking region. However, the noise and the nulls of antenna pattern make the deconvolution become an ill-posed problem.Wiener filter eliminates the antenna nulls in frequency domain by introducing a constant regularization term，but the algorithm requires high signal-to-noise ratio (SNR） [11]. To solve the problem，Richards proposed an constrained iterative algorithm to reduce the demand of SNR,but it is still strongly influenced by noise [12]. Guan introduced a statistical optimization method to reduce the noise sensitivity, but the method amplified noise locally during the iteration [10]. Zou proposed a norm regularization method used in radar azimuth super-resolution, and obtained promising results [13]. Both the $L _ { 2 }$ and $L _ { 1 }$ norm regularization model were set up,and the results turn out that the latter one could obtain more effective resolution improvement especially for sparse target signal. Besides, Wang utilized a total variation regularization (TV） method for scatterometer image reconstruction of the rotating fan-beam scatterometer (RFSCAT),and achieved an improved quality of resolution enhancement and noise reduction [14].
+
+The aim of this paper is to develop a theoretical framework that allows the scatterometer forward-looking echo signal model to be appropriately solved by deconvolution method. Two kinds of approximate model (circulant matrix model and aperiodic matrix model） are introduced. Considering the over smoothness of the adaptive regularization method, an improved adaptive regularization deconvolution algorithm with gradient histogram preservation （GHP） constraint hasbeen implemented to solve the echo model. The improved adaptive regularization algorithm integrates gradient histogram preservation into the adaptive regularization method which can better perverse the fine variations of $\sigma ^ { 0 }$ . To illustrate the feasibility of the deconvolution framework and the effectiveness of the proposed algorithm, both simulation and actual scatterometer data validation are conducted. The performance of resolution enhancement and processing accuracy of the proposed method is investigated, and compared with that of conventional approaches.
+
+This paper is organized as follows. Section II deduces a DFPSCAT echo signal model for super resolution processing. Section III proposes an improved adaptive regularization deconvolution algorithm and describes its iterative specification. Section IV discusses the performance of resolution enhancement and processing accuracy for the proposed algorithm. Section V validates the feasibility of the deconvolution framework and the effectiveness of the proposed algorithm using real scatterometer data. Finally, Section VI concludes this paper.
+
+# Ⅱ . DFPSCAT ECHO SIGNAL MODEL
+
+# A.THEINSTRUMENT
+
+DFPSCAT is a real aperture radar operating at X-band (9.6 GHz) frequency and Ku-band (17 GHz) frequency using both vertical and horizontal polarization (i.e., VV, HH and HV polarization). It transmits long pulses with linear frequency modulation, and the received echoes are processed with a de-chirping technique to achieve the range resolution enhancement. The original range resolution is about several-hundred meters，with transmitted signal bandwidth of about 5MHz,and can be further averaged into $2 { \cdot } 5 \mathrm { k m }$ spaced slices along-elevation before being downlinked to ground. The DBS technique is utilized in the outer swath regions of DFPSCAT,and results in the azimuth resolution of $1 { - } 3 \mathrm { k m }$ . For the forward- and afterward-looking region of 200-30Okm, the azimuth resolution is still determined by the antenna beamwidth in the azimuth direction. Fig.1 illustrates the observation geometry of DFPSCAT. The center of each pencil beam has a nominal off nadir angle of $3 9 ^ { \circ }$ together with the altitude of $6 0 0 ~ \mathrm { k m }$ to ensure that the swath is about $1 0 0 0 \mathrm { k m }$ . In the figure,“High Resolution” denotes the DBS processing region, and “Low Resolution” represents the forward- and afterward-looking region for the super resolution algorithm processing.
+
+![](images/c9f8c7de44e433967fdbaa22439a221c5d4e1a0c91d68b6140f71df4066d0dcf.jpg)  
+Fig.1 The observation geometry of DFPSCAT
+
+The preliminary designed system parameters of DFPSCAT are shown in Table 1. The antenna 3dB beamwidths are $1 . 2 ^ { \circ }$ and $1 ^ { \circ }$ for $\mathrm { \Delta } X$ -band and Ku-band, respectively. Considering the accuracy of SWE retrieval which is greatly influenced by spatial resolution, the resolution of $2 { \cdot } 5 \mathrm { k m }$ for DFPSCAT is required. Based on the previous illustration,the period repeat frequency (PRF) of DFPSCAT is designed to satisfy 1km sampling rate in azimuth direction.
+
+Table1DFPSCAT system parameters   
+
+<html><body><table><tr><td>Parameters</td><td>X-band</td><td>Ku-band</td></tr><tr><td>Frequency</td><td>9.6 GHz</td><td>17GHz</td></tr><tr><td>Polarization</td><td>VV, HV</td><td></td></tr><tr><td>Altitude</td><td>600km</td><td></td></tr><tr><td>Incidence Angle</td><td>43.5°</td><td></td></tr><tr><td>PRF</td><td>1320Hz</td><td></td></tr><tr><td>Rotation Rate</td><td>15.4 revolutions per minute (rpm)</td><td></td></tr><tr><td>Swath</td><td>1000km</td><td></td></tr><tr><td>3dBBeamwidths</td><td>1.2°x1.2°</td><td>1.0°x1.0°</td></tr><tr><td>3dBFootprint Dimensions (elevationxazimuth)</td><td>22.5x16.4km</td><td>16.4x14km</td></tr></table></body></html>
+
+# B.ECHO MODEL
+
+From Fig. 1,we can see that the echo of DFPSCAT varies with slant range $R$ and azimuth angle $\varphi$ . The amplitude of the echo is the result of filtering and weighting of the backscattering distribution of the observed targets. Assuming the transmit signal is a rectangular pulse signal
+
+$$
+p ( \tau ) = \mathrm { r e c t } ( \tau ) \mathrm { e } ^ { j ( 2 \pi f _ { c } \tau - \phi ( \tau ) ) }
+$$
+
+where $\tau$ represents transmit time, $\mathrm { r e c t } ( \tau )$ denotes the rectangular pulse envelope， $f _ { c }$ is carrier frequency and $\phi ( \tau )$ is phase factor.
+
+The echo signal after pulse compression can be expressed as
+
+$$
+y ( R , \varphi ) = C _ { R } \sigma ^ { 0 } ( R , \varphi ) \bigotimes _ { R , \varphi } \left[ h ( R , \varphi ) \delta ( \frac { 2 R } { c } ) \right] \bigotimes _ { R } \left[ \mathrm { s i n c } ( \frac { 2 R } { c } ) \mathrm { e } ^ { j ( \frac { 4 \pi } { \lambda } - \phi ( \frac { 2 R } { c } ) ) } \right]
+$$
+
+where $C _ { \scriptscriptstyle R }$ is the radar system constant, $\boldsymbol { \sigma } ^ { 0 }$ is the normalized radar backscatter coefficient, which is the function of the slant range $R$ and the azimuth angle $\varphi , \ h$ represents antenna pattern, $\lambda$ is the electromagnetic wave length, $c$ is the light speed, $\otimes$ represents convolution symbol.
+
+On the forward-looking region of DFPSCAT, the slant ranges are the same for the same slice. Then,Eq. (2) can be simplified as
+
+$$
+y ( \varphi ) = \sigma ^ { 0 } ( \varphi ) \otimes h ( \varphi )
+$$
+
+Fig. 2 shows the azimuth sampling schematic of DFPSCAT. The continuous echo signal $y$ can be discretized as
+
+$$
+\begin{array} { r } { \boldsymbol { y } _ { s } = \left[ \begin{array} { l } { y _ { 0 } } \\ { y _ { 1 } } \\ { y _ { 2 } } \\ { \vdots } \\ { y _ { N - 1 } } \end{array} \right] = \left[ \begin{array} { l l l l l l l } { h _ { M - 1 } } & { h _ { M - 2 } } & { \cdots } & { h _ { 0 } } & & & \\ & { h _ { M - 1 } } & & & { \ddots } & & \\ & & { \ddots } & & & { \ddots } & \\ & & & { \ddots } & & & { h _ { 0 } } \\ & & & & { h _ { M - 1 } } & { \cdots } & { h _ { 1 } } & { h _ { 0 } } \end{array} \right] \left[ \begin{array} { l } { \vdots } \\ { \sigma _ { - 1 } ^ { 0 } } \\ { \sigma _ { 0 } ^ { 0 } } \\ { \sigma _ { 1 } ^ { 0 } } \\ { \vdots } \end{array} \right] } \end{array}
+$$
+
+where $N$ and $M$ indicate the sample numbers of $y$ and $h$ ,respectively
+
+![](images/e59219cec4da3bcc2efb33bc9b9fea4d1da50117ef56e5084e8a6e35686803d1.jpg)  
+Fig.2 Azimuth sampling schematic of DFPSCAT $( R = R _ { 0 } )$
+
+Due to the number of unknown $\boldsymbol { \sigma } ^ { 0 }$ exceeds the number of equations, there is no definite solution of Eq. (4). To setle the problem,one way is to utilize a circulant approximate model, which first spares the front M-1 columns of the matrix in Eq.(4), and then modifies the remaining part into a periodic structure[15]. The corresponding circulant model is
+
+$$
+\begin{array} { r } { \mathbf { y } _ { s } = \left[ \begin{array} { l l l l l l } { h _ { 0 } } & & & & & { h _ { M - 1 } } & { \cdots } & { h _ { 1 } } \\ { h _ { 1 } } & { h _ { 0 } } & & & & { \ddots } & { h _ { 2 } } \\ { \vdots } & & { \ddots } & & & & { \vdots } \\ { h _ { M - 1 } } & & & & & & { \vdots } \\ & { \ddots } & & & & & \\ & & { \ddots } & & & & & \\ & & & { \ddots } & & & \\ & & & & { h _ { M - 1 } } & { \cdots } & & & { h _ { 1 } } \end{array} \right] \left[ \begin{array} { l } { \boldsymbol \sigma _ { 0 } ^ { 0 } } \\ { \boldsymbol \sigma _ { 1 } ^ { 1 } } \\ { \boldsymbol \sigma _ { 2 } ^ { 0 } } \\ { \vdots } \\ { \boldsymbol \sigma _ { n - 1 } ^ { 0 } } \end{array} \right] } \end{array}
+$$
+
+The other way is to modify the partial convolution of Eq. (4) into a complete convolution[15]，namely the aperiodic approximate model. Then，Eq. (4） can be modified as
+
+$$
+\begin{array} { r l r } { \mathbf { y } _ { a } = \left[ \begin{array} { c c c c } { h _ { 0 } } & & & \\ { h _ { 1 } } & { \ddots } & & \\ { \vdots } & { \ddots } & { h _ { 0 } } \\ { h _ { M - 1 } } & { \ddots } & { h _ { 1 } } \\ & { \ddots } & { \vdots } \\ & & & { h _ { M - 1 } } \end{array} \right] \left[ \begin{array} { c } { \sigma _ { 0 } ^ { 0 } } \\ { \sigma _ { 1 } ^ { 0 } } \\ { \vdots } \\ { \sigma _ { \scriptscriptstyle { N - M } } ^ { 0 } } \end{array} \right] } & \end{array}
+$$
+
+Compared with the circulant model, the aperiodic model is overdetermined problem,which is more favorable for solving the problem. Therefore,we adopt the aperiodic model and the matrix-vector form which can be expressed by
+
+$$
+{ \bf y } _ { a } = { \pmb H } { \pmb \sigma } ^ { 0 }
+$$
+
+where $\pmb { H }$ and $\pmb { \sigma } ^ { 0 }$ denote the matrix and vector in Eq. (6), respectively. Thus, $y _ { a }$ can be obtained through the following expression
+
+$$
+y _ { a } = y _ { s } - H _ { 0 } { \left[ \begin{array} { l l l l l l l l l } { \sigma _ { - M + 1 } ^ { 0 } } & { \cdots } & { \sigma _ { - 1 } ^ { 0 } } & { 0 } & { \cdots } & { 0 } & { \sigma _ { N - M + 1 } ^ { 0 } } & { \cdots } & { \sigma _ { N - 1 } ^ { 0 } } \end{array} \right] } ^ { T }
+$$
+
+where $\pmb { H } _ { 0 }$ represents the convolution matrix of Eq.(4).In fact, the boundary value of $\sigma _ { - M + 1 } ^ { 0 } \cdots \sigma _ { - 1 } ^ { 0 }$ and $\sigma _ { N - M + 1 } ^ { 0 } \cdots \sigma _ { N - 1 } ^ { 0 }$ are unknown inreal situation. Tekalp proposedto use the observed values to replace the boundary values,which produced large errors at the boundary of $y _ { a }$ [16].Instead, the paper proposes to utilize the previously described circulant model to calculate the unknown values in Eq. (8). The results show that $y _ { a }$ obtained through our proposed method is closer to the complete convolution results.
+
+For scatterometry, the measurement error mainly consists of the following three components: transmission error caused by the fading effect of radar and thermal noise of receiver, calibration error resulting from the uncertainty of radar system parameters, and model error introduced since the inverse model and calibration model are inconsistent to the real scene. Usually， the value of the error is denoted by its normalized standard deviation, which is defined in terms of a so-called $K _ { p }$ parameter.
+
+$$
+K _ { _ { p } } = { \frac { \sqrt { \operatorname { v a r } [ { \bf \nabla } { \bf y } _ { a } ] } } { \varepsilon [ { \bf { y } } _ { a } ] } }
+$$
+
+For the scatterometer, the noisy measurement can be represented as
+
+$$
+\pmb { y } = ( 1 + K _ { p } \cdot N ( 0 , 1 ) ) \pmb { H } \pmb { \sigma } ^ { 0 }
+$$
+
+where $N ( 0 , 1 )$ denotes the standard normal distribution, $K _ { p }$ denotes the normalized standard deviation of measurement error.
+
+# IⅢI. REGULARIZATIONALGORITHM
+
+Based on the former analysis,the azimuth super resolution is equivalent to the deconvolution problem. Due to the ill-poseness of deconvolution,one popular solving
+
+method is the regularization-based technique which makes the equation solutions continuously depend on observed data through introducing some regularization operators[17]. Then the desired $\pmb { \sigma } ^ { 0 }$ could be obtained by
+
+$$
+\hat { \pmb { \sigma } } ^ { 0 } = \arg \operatorname* { m i n } _ { \pmb { \sigma } ^ { 0 } } \biggl [ \left\| \pmb { H } \pmb { \sigma } ^ { 0 } - \pmb { y } \right\| _ { L ^ { 2 } } ^ { 2 } + \alpha \cdot \Psi \left( \pmb { \sigma } ^ { 0 } \right) \biggr ] , \alpha > 0
+$$
+
+where $\Psi$ denotes some regularization term which depends on $\pmb { \sigma } ^ { 0 }$ priors, $\alpha$ is the regularization parameter.
+
+# A. SELECTION OF $\Psi$
+
+In most practical applications, scatterometer image reconstruction is ill posed. Some form of regularization is required to estimate $\pmb { \sigma } ^ { 0 }$ image from the scatterometer measurements. The proposed AART, MART, SIR and MAP algorithms all have a built-in regularization term, specifically
+
+AART: $\begin{array} { r l } & { \Psi { = } \Big \| \pmb { \sigma } ^ { 0 } \Big \| _ { L ^ { 2 } } ^ { 2 } } \\ & { \Psi { = } ( \pmb { \sigma } ^ { 0 } ) ^ { T } \log _ { 2 } ( \pmb { \sigma } ^ { 0 } ) } \\ & { \Psi { = } \Big \| \pmb { \sigma } ^ { 0 } - \pmb { \sigma } _ { a v g } ^ { 0 } \Big \| _ { L ^ { 2 } } ^ { 2 } } \end{array}$   
+MART(SIR):  
+MAP:
+
+These algorithms can be equivalent to the classical Tikhonov regularization algorithm (referred as TR algorithm） where $\scriptstyle \Psi \left( \pmb { \sigma } ^ { 0 } \right) = \left\| \pmb { \sigma } ^ { 0 } \right\| _ { L ^ { 2 } } ^ { 2 }$ in Eq. (11). Then, their solution may be written as
+
+$$
+\Big ( H ^ { T } H + \alpha I \Big ) \pmb { \sigma } ^ { 0 } = { \pmb { H } } ^ { T } \pmb { y }
+$$
+
+Besides,an adaptive regularization method (denoted as AR) has been proposed to solve inverse problem of linear equations,and shows some promising results[18]. With the prerequisite that $\pmb { H } ^ { T } \pmb { H }$ is reversible, the specific form of the algorithm is
+
+$$
+\Big ( ( H ^ { T } H ) ^ { 2 } + \alpha I \Big ) \pmb { \sigma } ^ { 0 } = H ^ { T } H \ H ^ { T } \pmb { y }
+$$
+
+Let $\pmb { S } = \pmb { H } ^ { T } \mathbf { y }$ ， $\Phi = \pmb { H } ^ { T } \pmb { H }$ ,then the Eqs. (8), (12), (13) can be expressed in the form of $F { \boldsymbol { \sigma } } ^ { 0 } = \mathbf { s }$ , then the corresponding $F$ expression in Eqs. (8), (12), (13) can be written as $F = \Phi$ ， $\pmb { F } _ { \alpha } ^ { T R } = \Phi + \alpha \pmb { I }$ and $F _ { \alpha } ^ { A R } = \frac { \Phi ^ { 2 } + \alpha I } { \Phi }$ Comparing the above formulae,it is not dificult to find that when α→O,both FAR and FTR are approximate to $F$ ，whereas when $\Phi$ contains zero eigenvalue, $F \to 0$ ， $F _ { \alpha } ^ { A R } \to 0$ （20 and $F _ { \alpha } ^ { T R } \to \alpha ^ { - 1 }$ ，which indicates Eq. (13） is a better approximation of Eq. (8). Therefore,the optimal solution of the echo model can be obtained by using the adaptive regularization algorithm.
+
+To evaluate the algorithm performance, one-dimensional (1-D） signal reconstruction simulation has been conducted,as shown in Fig.3. The test signal is set as a narrow sinc function with a bandlimited spectrum. The antenna pattern is assumed as a wide rect function whose frequency response attenuates the high frequency components of the signal spectrum [3].
+
+![](images/3f6b6abd666cfb3166d0c5ceec1db30cc3d06b4ff2d36699b172304bc21de721.jpg)  
+Fig. 3 Test signal and antenna pattern
+
+The reconstructed signal and its corresponding spectrum of different algorithms are investigated, as shown in Fig. 4. It is obvious that both AR and MAP algorithms can reconstruct the original signal with less bias compared with SIR and TR algorithms, whereas the AR algorithm has least noise amplification.
+
+![](images/d91c20b0eb8f902079540849ba13bbd8f15d931d926c3cac4b4be7c3b5a954fe.jpg)  
+Fig. 4 Algorithm performance comparisons for noisy measurements
+
+# B.ANIMPROVED ADAPTIVEREGULARIZATIONMETHOD
+
+Considering the above proposed $L _ { 2 }$ -norm based adaptive regularization method might result in an over-smoothed solution, this section proposes an improved version of the adaptive regularization method. Since a good reconstructed $\sigma ^ { 0 }$ should have a similar gradient distribution of the original ones,a gradient histogram preservation (GHP) term is integrated into the above adaptive regularization method [19]. The new proposed method is referred to as an improved adaptive regularization method with GHP constraint.
+
+The adaptive regularization method with GHP constraint can be expressed as
+
+$$
+\hat { \pmb { \sigma } } ^ { 0 } = \arg \operatorname* { m i n } _ { \pmb { \sigma } ^ { 0 } } \left[ \left\| \pmb { H } \pmb { \sigma } ^ { 0 } - \pmb { y } \right\| _ { L ^ { 2 } } ^ { 2 } + \alpha \cdot \left\| \frac { \pmb { \sigma } ^ { 0 } } { \pmb { H } } \right\| _ { L ^ { 2 } } ^ { 2 } + \pmb { \mathcal { S } } \left\| \pmb { G } \left( \nabla \pmb { \sigma } ^ { 0 } \right) - \nabla \pmb { \sigma } ^ { 0 } \right\| _ { L ^ { 2 } } ^ { 2 } \right] \quad s . t . h _ { G } = h _ { \nabla \pmb { \sigma } ^ { 0 } }
+$$
+
+where $G$ denotes some odd function with monotonically non-descending property, $\nabla$ represents the gradient operator, $h _ { G }$ is the histogram of $\Big | G \Big ( \nabla \pmb { \sigma } ^ { 0 } \Big ) \Big |$ ， $h _ { \mathrm { { { \nabla } } } \sigma ^ { \mathrm { { 0 } } } }$ is the gradient histogram of $\sigma ^ { 0 }$ ， $ { \alpha }$ and $\vartheta$ are two regularization parameters.
+
+To solve Eq. (14)，the gradient histogram of $\pmb { \sigma } ^ { 0 }$ ， $h _ { \nabla \sigma ^ { 0 } }$ ，should be estimated accurately. Zuo introduced an estimation method of reference gradient histogram from noisy image [19]. However, the method is only suitable for the denoising case. This paper substitutes $\pmb { \sigma } ^ { 0 }$ with the gradient histogram of noise-free observation $H \sigma ^ { 0 }$ , and obtains the following adaptive regularization with GHP constraint model
+
+$\hat { \sigma } ^ { 0 } = \arg \operatorname* { m i n } _ { \sigma ^ { 0 } } \left[ \left\| H \sigma ^ { 0 } - y \right\| _ { L ^ { 2 } } ^ { 2 } + \alpha \cdot \left\| \frac { \sigma ^ { 0 } } { H } \right\| _ { L ^ { 2 } } ^ { 2 } + \mathcal { S } \left\| \boldsymbol { G } \left( \boldsymbol { \nabla } \boldsymbol { g } \right) - \boldsymbol { \nabla } \boldsymbol { g } \right\| _ { L ^ { 2 } } ^ { 2 } \right] \quad s . t . \ h _ { G } = h _ { \boldsymbol { \nabla } \boldsymbol { g } }$ where $g = H \sigma ^ { 0 }$ （20
+
+# C.GRADIENTHISTOGRAMESTIMATIONFOR $H \sigma ^ { 0 }$
+
+To estimate the desired $\pmb { \sigma } ^ { 0 }$ from $y$ using Eq. (15)， the reference histogram $h _ { \nabla g }$ should be determined，which is supposed to be the histogram of noise-free observation $\nabla g$ in the paper. Substituting $H \sigma ^ { 0 }$ with $\pmb { g }$ ,Eq.（10) can be writen as （204号 ${ \pmb y } = { \pmb g } + { \pmb n }$ ，where $\pmb { n }$ denotes the measurement error and can be modeled as Gaussian white noise with variance $\delta ^ { 2 }$ . Then,the relationship $\nabla { \mathbf { y } } = \nabla { \mathbf { g } } + \nabla { \pmb { n } }$ can be obtained, where $\nabla \mathbf { y }$ are independent and identically distributed with the probability density function (PDF） of $p _ { \nabla \mathbf { y } }$ . Since $\pmb { n }$ subjects a Gaussian distribution of $N ~ ( 0 , \delta ^ { 2 } )$ ，the corresponding PDF for ${ { \nabla } } n$ can be well approximate as follows[20].
+
+$$
+p _ { \nabla n } = \frac { 1 } { 2 \sqrt { \pi } \delta } \exp \left( - \frac { ( \nabla n ) ^ { 2 } } { 4 \delta ^ { 2 } } \right)
+$$
+
+Assuming $\nabla \pmb { g }$ and $\nabla n$ are independent,and $\nabla \pmb { g }$ satisfies independent and identically distributed with PDF of $p _ { \nabla g }$ ,then $p _ { \nabla \mathbf { y } }$ can be expressed as
+
+$$
+p _ { \nabla y } \left( \nabla y = t \right) = \underset { a } { \int } p _ { \nabla g } \left( \nabla g = \pmb { a } \right) \times p _ { \nabla n } \left( \nabla \pmb { n } = t - \pmb { a } \right) d \pmb { a }
+$$
+
+Since the normalized histogram can be regarded as a discrete approximation of PDF, $p _ { \nabla \mathbf { y } } , \ p _ { \nabla \mathbf { g } }$ ,and $p _ { \nabla n }$ can be approximated by $h _ { \nabla y } , \ h _ { \nabla g }$ and $h _ { \nabla n }$ , respectively. Then Eq.(17) can be rewritten as
+
+$$
+h _ {  { \nabla } \ b { y } } = h _ {  { \nabla } \ b { g } }  { \otimes } h _ {  { \nabla } \ b { n } }
+$$
+
+where $\otimes$ denotes the convolution operator.
+
+Using the above relationship， the estimation of $h _ { \nabla g }$ is equivalent to a deconvolution problem.Generally, the gradient histogram of $H \sigma ^ { 0 }$ can be modeled as a generalized Gaussian distribution[21] with the following expression.
+
+$$
+p _ { \nabla g } = \frac { \gamma } { 2 \beta \Gamma \big ( 1 / \gamma \big ) } \mathrm { e x p } \left( { - \big ( \big | \nabla { \pmb g } \big | / \beta \big ) ^ { \gamma } } \right)
+$$
+
+where $\Gamma$ represents complete Gamma function, $\beta$ is a scale parameter,y is shape factor which is inversely proportional to the decreasing rate of the Gaussian distribution peak. Then the estimation of $p _ { \nabla g }$ is converted into that of parameters $[ \beta , \gamma ]$ ：
+
+# D.ITERATIVESPECIFICATION OF THE IMPROVED ADAPTIVE
+
+# REGULARIZATIONMETHODWITHGHPCONSTRAINT
+
+Considering the complexity of the optimization problem of Eq. (15)，an iterative method based on steepest descent algorithm has been chosen. The iterative specification for the proposed mixed regularization method is summarized in Algorithm1, which is described in Table 2.
+
+Define an object function as
+
+$$
+\begin{array} { r } { J = \Big \| H \sigma ^ { 0 } - y \Big \| _ { L ^ { 2 } } ^ { 2 } + \alpha \cdot \Bigg \| \frac { \sigma ^ { 0 } } { H } \Bigg \| _ { L ^ { 2 } } ^ { 2 } + \mathcal { S } \Big \| G \big ( \nabla g \big ) - \nabla g \Big \| _ { L ^ { 2 } } ^ { 2 } } \end{array}
+$$
+
+And its gradient can be written as
+
+$$
+\nabla J = 2 { \cal H } ^ { T } \left( y - { \cal H } ^ { T } \sigma ^ { 0 } \left( k \right) \right) + 2 \alpha \frac { \sigma ^ { 0 } \left( k \right) } { { \cal H } ^ { T } { \cal H } } + 2 \vartheta { \cal H } ^ { T } \nabla ^ { T } \left( G \left( \nabla g \right) - \nabla g \right)
+$$
+
+Then, the steepest descent algorithm satisfies the following relationship
+
+$$
+{ \pmb { \sigma } } ^ { 0 } \left( k + 1 \right) = { \pmb { \sigma } } ^ { 0 } \left( k \right) + { \pmb { \mu } } \cdot \nabla J
+$$
+
+where $\mu$ is the step size.
+
+Another problem is to select an optimal $G \big ( \nabla g \big )$ to satisfy the requirement of $h _ { _ { G } } = h _ { \nabla g }$ . In the paper, $G \big ( \nabla g \big )$ is defined as follows [22].
+
+$$
+G \left( \nabla g \right) = \operatorname { s g n } \left( \nabla g \right) \cdot T \left( \left| \nabla g \right| \right)
+$$
+
+where $T$ represents an feasible monotonic non-parametric transform that makes the histogram of $T \big ( | \nabla g | \big )$ as similar as $h _ { \nabla g }$ ：
+
+Table 2 Algorithm1 specification   
+
+<html><body><table><tr><td>Algorithm 1: Iterative Specification of the improved adaptive</td></tr><tr><td>regularization method with GHP constraint</td></tr></table></body></html>
+
+1．Initialization: Set the initial estimate as ${ \pmb \sigma } ^ { 0 } \left( k \right) = { \bf y } , k = 0 ;$ Set initial regularization parameters $ { \alpha }$ ， $\vartheta$ and step length $\mu$
+
+2． Loop: iterate on $k = 0$ ,1.,..., maxiter
+
+(a) Let $g ( k ) = H \sigma ^ { 0 } ( k )$   
+(b) Update $G \big ( \nabla g ( k ) \big )$ $G { \big ( } \nabla g { \big ( } k { \big ) } { \big ) } = \operatorname { s g n } { \big ( } \nabla g { \big ( } k { \big ) } { \big ) } \cdot T { \big ( } { \big | } { \big ( } \nabla g { \big ( } k { \big ) } { \big ) } { \big | } { \big ) }$   
+(c） Define $f = G { \bigl ( } \nabla g { \bigl ( } k { \bigr ) } { \bigr ) }$   
+(d) Compute VJ  
+$\nabla J = 2 { \cal H } ^ { T } \left( y - { \cal H } ^ { T } \sigma ^ { 0 } \left( k \right) \right) + 2 \alpha \frac { \sigma ^ { 0 } \left( k \right) } { { \cal H } ^ { T } { \cal H } } + 2 \vartheta { \cal H } ^ { T } \nabla ^ { T } \left( f - \nabla g \right)$   
+(e) Update σ°
+
+$$
+{ \pmb { \sigma } } ^ { 0 } \left( k + 1 \right) = { \pmb { \sigma } } ^ { 0 } \left( k \right) + { \pmb { \mu } } \cdot \nabla J
+$$
+
+$$
+k \gets k + 1
+$$
+
+until stop criteria satisfied
+
+There are two regularization parameters ( $\dot { \alpha }$ and 9) in our proposed algorithm. In the simulation, $ { \alpha }$ is first determined by Morozov method, $\boldsymbol { \vartheta }$ is set empirically. Since the parameter 9 balances the regularization term with the histogram preservation term, a large $\boldsymbol { \vartheta }$ is preferred. Actually, $\boldsymbol { \vartheta }$ cannot be set too large because of the existence of estimation errors in reference histogram estimation.In the simulation, $\boldsymbol { \vartheta }$ and $\mu$ are set to 1 and O.25,respectively. For the gradient histogram estimation for $H \sigma ^ { 0 }$ ，we use the same strategy as [23] where the range of $\beta$ is between O.001 and 5,and of $\gamma$ is from 0.1 to 2.5.
+
+# IV.ALGORITHMPERFORMANCE
+
+This section investigates the algorithm performance,and focuses on the two crucial aspects, i.e., the quantitative evaluation of resolution enhancement and algorithm processing accuracy.
+
+# A.RESOLUTIONENHANCEMENT
+
+Whereas various definitions of effective resolution exist, there are two common working definition: the resolving capability for two closely spaced objects and the 3dB beamwidth of spatial response of point target. The objects are considered individually“resolved” if there is a 3 dB change of value between them against a high contrast background. To assess the resolution enhancement of the proposed method, we take a synthetic $\sigma ^ { 0 }$ field including these features as an example, which is shown in
+
+Fig. 5(a). In the synthetic $\sigma ^ { 0 }$ field, the left squares are $1 \mathrm { k m } \times 1 \mathrm { k m }$ in size and spaced 2km apart, the right square is $2 \mathrm { k m } \times 2 \mathrm { k m }$ ，and the width of the narrow and broad lines are 1km and $2 \mathrm { k m }$ , respectively.
+
+The synthetic $\sigma ^ { 0 }$ field reconstruction is conducted using Monte Carlo simulation. In our simulation, the ‘slice’ measurements of the scatterometer are used to verify the resolution enhancement of reconstruction. Based on the measurement model described in section $\mathrm { I I }$ ， the measurement result is shown in Fig. 5(b). Fig. 5(c)-(h) illustrate the reconstructed $\boldsymbol { \sigma } ^ { 0 }$ using three classical scatterometer image reconstruction methods (SIR,AART and MART), Tikhonov regularization method (TR) and two $L _ { 1 }$ norm based regularization methods (TV and $L _ { 1 }$ ). The reconstructed result of the proposed method is displayed in Fig. 5(i). Noted that due to the equivalence of the MAP method proposed by Willams [5] and TR method, the MAP result is not descripted repeatedly.
+
+As expected, the SIR result is excessively smooth and seriously spread out, and the noise amplification is least. The AART, TR and TV methods produce better resolution enhancement than SIR, but make the output $\sigma ^ { 0 }$ field become nosier. The $L _ { 1 }$ and our proposed method obtain the best resolution enhancement, and our method has less noise amplification.
+
+![](images/d32ed79c4d7b7612ef1963f47628457f20523280112bce9a2f8b5df06d2a86d2.jpg)
+
+# Fig. 5 (a) Synthetic $\pmb { \sigma } ^ { \mathbf { 0 } }$ field, (b) noisy measurement, and reconstructed results of
+
+(c) SIR,(d) AART,(e) MART,(f) TR, (g) TV,(h) $L _ { 1 }$ ，and (i) the proposed reconstruction methods with $K _ { p } \mathbf { = } 0 . 0 8$ 0
+
+To future investigate the resolution quantitatively, the profiles of the horizontal (azimuth direction) cut of $\boldsymbol { \sigma } ^ { 0 }$ values extracted from Fig. 5 across the top row of spots are analyzed as shown in Fig. 6. For clarification, Fig. 6(a) shows a comparison between the proposed method with three scatterometer image reconstruction methods (SIR,AART and MART),Fig. 6(b） presents the comparison between our method with the three regularization methods (TR, TV and $L _ { 1 }$ ). From Fig 6(a),it is apparent that, except for the SIR method, the other methods realize the resolution of 2km. Our method recovers the truth signal with the highest accuracy. We note that, in Fig. 6(b), all methods achieve 2km resolution,and our proposed and $L _ { 1 }$ method have better amplitude recovery than the other two. Overall, the proposed method shows good performance in resolution enhancement than other methods except for $L _ { 1 }$ method.
+
+![](images/24cc6a71f52fb91020ba0d4abbe817f7f4ab4fe40364414b07c7d65e8264484c.jpg)  
+Fig. 6. Horizontal cuts of $\pmb { \sigma } ^ { \mathbf { 0 } }$ values extracted from top row of Fig. 5
+
+# B. DFPSCAT $\pmb { \sigma } ^ { 0 }$ RECONSTRUCTION FRAMEWORK
+
+To illustrate the application of the proposed deconvolution method for DFPSCAT measurements of SWE, simulation is initially used. Fig. 7 is the simulation flow chart of DFPSCAT $\sigma ^ { 0 }$ reconstruction. In the process, DMRT-QCA model [24] is adopted as the snow forward model to obtain the surface original backscattering coefficient $\boldsymbol { \sigma } _ { t } ^ { 0 }$ ．The DMRT-QCA model takes incidence angle， frequency, polarization， snow parameters (density，depth and grain size） and surface soil parameters (here it is assumed the surface is frozen ground) as input parameters. The observation system outputs the measured backscattering coefficient $\boldsymbol { \sigma } _ { m } ^ { 0 }$ based on the echo signal model described in section II. Then， the reconstructed backscattering coefficient $\boldsymbol { \sigma } _ { s } ^ { 0 }$ will be obtained after some super-resolution algorithms.
+
+![](images/045f85845517bd4fd0d10aeee35ec1a3fa65180732ca2635d4eab94890cb28e3.jpg)  
+Fig. 7 Simulation flow chart of DFPSCAT $\pmb { \sigma } ^ { 0 }$ reconstruction
+
+The existing SWE spatial distribution data includes AMSR-E/Aqua L3,ESA Globe Snow products, Snow Data Assimilation System (SNODAS) Data Products [25] and some airborne and snow pit database. Since AMSR-E/Aqua L3 and ESA SWE products have low spatial resolution of $2 5 \mathrm { k m }$ ，and observations of airborne and ground pits have limited spatial distribution， SNODAS SWE dataset becomes the optimal alternative for our application. The SNODAS SWE dataset assimilates satellite-derived, airborne,and ground-based observations of snow covered area and snow water equivalent, and outputs SWE gridded data for the continental United States with 1km spatial resolution and 24 hours temporal resolution [25].
+
+In the paper, the Montana state of the United States is chosen as the study domain to investigate algorithm performance of different SWE distribution. In the study domain, the western part is flat (referred to as Coastal Plain), the middle part includes gentle hills and valleys (Foothill region)，whereas the southern part is characterized by mountain ridges (Mountain region). We choose two days SWE data (February 28 in 2014 and 2015,respectively) as the input SWE distribution. Since actual SWE values are less than $7 0 0 \mathrm { m m }$ ， SWE values above $7 0 0 ~ \mathrm { { m m } }$ are removed. The SWE distributions are shown in Fig. 8.
+
+![](images/0e972b1c327bafa6ef572942d805ce4da0f62a47a86baca3a76f21770e5d1a53.jpg)  
+Fig. 8 SWE distributions of the Montana State
+
+# C.ALGORITHMCOMPARISON
+
+To investigate the performance of the proposed method, an algorithm comparison among the proposed method and some existing resolution enhancement methods is conducted. Based on the former DFPSCAT $\sigma ^ { 0 }$ reconstruction framework, we take the Ku-band VV polarization $\sigma _ { t } ^ { 0 }$ in Feb.28,2015 as a test image,in which three different areas，corresponding to the Coastal Plain， Foothill region and Mountain region of Montana State, have been chosen as study regions. Fig. 9 illustrates the test image and three study regions marked with red rectangle.
+
+![](images/50e9f654d3c02d79d509816851c92168ebf04de4a07cff4fe9c9094892d488ef.jpg)  
+Fig.9 Test image and three study regions
+
+Fig. 10 shows the reconstructed $\boldsymbol { \sigma } _ { s } ^ { 0 }$ results of the three study regions through various reconstruction methods for a particular noise realization of $K _ { p } { = } 0 . 0 8$ . It can be seen that the SIR,AART,MART and TV methods produce smoother image than the other three.For TR, $L _ { 1 }$ and our proposed results, $L _ { 1 }$ shows the best resolution enhancement, but with largest noise amplification; TR has least noise amplification whereas sacrifices the resolution; the proposed method shows a comparable resolution enhancement as $L _ { 1 }$ ,meanwhile has less noise.
+
+![](images/790de05475ac57278d2229cb406d0ac965f11a80e839728d93ac78ec6f0b0bf1.jpg)
+
+![](images/fbe0657f1dd6409dd7408d3216a1dcded0c6157cf8c7e09f8691eba01506eab0.jpg)  
+(c) region III   
+Fig. 10 The reconstructed $\pmb { \sigma } ^ { 0 }$ images (in decibels) over three study areas with
+
+$$
+\scriptstyle K _ { p } = 0 . 0 8 .
+$$
+
+Besides， the quantitative assessment on these super-resolution resultsis conducted. Two evaluation index, correlation coefficient and relative error, are computed from the difference between the “truth” and estimated images,where the relative error is defined as $\| \sigma _ { s } ^ { 0 } - \sigma _ { t } ^ { 0 } \| _ { 2 } / \| \sigma _ { t } ^ { 0 } \| _ { 2 }$ .The quantitative experimental results of the above methods are shown in Table 3 and Table 4,respectively.
+
+From Table 3,it is obvious that, with the increasing $K _ { p }$ , the correlation coefficient of reconstructed results gradually decreases.When $K _ { p }$ is less than $5 \%$ ， the proposed method has the highest correlation coefficient.For various $K _ { p }$ ， the proposed method has higher correlation coefficient than $L _ { 1 }$ method,whereas lower than TR which is caused by noise amplification.
+
+Table 4 shows the relative errors results of different methods. It is noted that the SIR,AART, MART, TR and TV methods have similar relative errors for the same $K _ { p }$ （204号 The $L _ { 1 }$ method has the largest relative errors for different $K _ { p }$ values. Compared with $L _ { 1 }$ ，the proposed method shows a significant reduction of the error. Moreover, the relative error of the proposed method does no increase much with comparison of the others.
+
+Table 3 The correlation coefficient results by different methods   
+
+<html><body><table><tr><td>Region</td><td>Kp</td><td>SIR</td><td>AART</td><td>MART</td><td>TR</td><td>TV</td><td>L1</td><td>Proposed</td></tr><tr><td rowspan="5">I</td><td>0.05</td><td>0.85</td><td>0.86</td><td>0.87</td><td>0.88</td><td>0.86</td><td>0.81</td><td>0.89</td></tr><tr><td>0.08</td><td>0.84</td><td>0.84</td><td>0.85</td><td>0.86</td><td>0.83</td><td>0.73</td><td>0.84</td></tr><tr><td>0.10</td><td>0.83</td><td>0.83</td><td>0.83</td><td>0.85</td><td>0.82</td><td>0.65</td><td>0.81</td></tr><tr><td>0.12</td><td>0.82</td><td>0.82</td><td>0.82</td><td>0.83</td><td>0.81</td><td>0.6</td><td>0.79</td></tr><tr><td>0.15</td><td>0.82</td><td>0.81</td><td>0.82</td><td>0.82</td><td>0.8</td><td>0.56</td><td>0.76</td></tr><tr><td rowspan="5">I</td><td>0.05</td><td>0.93</td><td>0.93</td><td>0.94</td><td>0.94</td><td>0.93</td><td>0.89</td><td>0.95</td></tr><tr><td>0.08</td><td>0.92</td><td>0.92</td><td>0.93</td><td>0.93</td><td>0.92</td><td>0.83</td><td>0.91</td></tr><tr><td>0.10</td><td>0.92</td><td>0.91</td><td>0.92</td><td>0.92</td><td>0.91</td><td>0.78</td><td>0.88</td></tr><tr><td>0.12</td><td>0.91</td><td>0.91</td><td>0.91</td><td>0.92</td><td>0.91</td><td>0.73</td><td>0.88</td></tr><tr><td>0.15</td><td>0.91</td><td>0.91</td><td>0.91</td><td>0.91</td><td>0.9</td><td>0.7</td><td>0.86</td></tr><tr><td rowspan="5">I</td><td>0.05</td><td>0.96</td><td>0.96</td><td>0.96</td><td>0.96</td><td>0.97</td><td>0.82</td><td>0.97</td></tr><tr><td>0.08</td><td>0.96</td><td>0.96</td><td>0.96</td><td>0.95</td><td>0.96</td><td>0.76</td><td>0.9</td></tr><tr><td>0.10</td><td>0.95</td><td>0.95</td><td>0.95</td><td>0.94</td><td>0.95</td><td>0.73</td><td>0.86</td></tr><tr><td>0.12</td><td>0.95</td><td>0.95</td><td>0.95</td><td>0.94</td><td>0.95</td><td>0.69</td><td>0.86</td></tr><tr><td>0.15</td><td>0.95</td><td>0.94</td><td>0.95</td><td>0.93</td><td>0.94</td><td>0.67</td><td>0.83</td></tr></table></body></html>
+
+Table 4 The relative errors (dB) results by different methods   
+
+<html><body><table><tr><td>Region</td><td>Kp</td><td>SIR</td><td>AART</td><td>MART</td><td>TR</td><td>TV</td><td>L1</td><td>Proposed</td></tr><tr><td rowspan="5">I</td><td>0.05</td><td>0.37</td><td>0.36</td><td>0.35</td><td>0.34</td><td>0.36</td><td>0.51</td><td>0.34</td></tr><tr><td>0.08</td><td>0.38</td><td>0.38</td><td>0.37</td><td>0.36</td><td>0.39</td><td>0.62</td><td>0.38</td></tr><tr><td>0.10</td><td>0.39</td><td>0.39</td><td>0.39</td><td>0.37</td><td>0.4</td><td>0.71</td><td>0.43</td></tr><tr><td>0.12</td><td>0.39</td><td>0.4</td><td>0.39</td><td>0.38</td><td>0.4</td><td>0.79</td><td>0.44</td></tr><tr><td>0.15</td><td>0.4</td><td>0.4</td><td>0.4</td><td>0.39</td><td>0.41</td><td>0.85</td><td>0.48</td></tr><tr><td rowspan="5">II</td><td>0.05</td><td>0.52</td><td>0.52</td><td>0.52</td><td>0.48</td><td>0.53</td><td>0.67</td><td>0.45</td></tr><tr><td>0.08</td><td>0.54</td><td>0.54</td><td>0.54</td><td>0.51</td><td>0.55</td><td>0.78</td><td>0.52</td></tr><tr><td>0.10</td><td>0.55</td><td>0.56</td><td>0.55</td><td>0.52</td><td>0.56</td><td>0.88</td><td>0.59</td></tr><tr><td>0.12</td><td>0.56</td><td>0.56</td><td>0.56</td><td>0.54</td><td>0.56</td><td>0.96</td><td>0.59</td></tr><tr><td>0.15</td><td>0.57</td><td>0.57</td><td>0.57</td><td>0.55</td><td>0.57</td><td>1.05</td><td>0.64</td></tr><tr><td rowspan="5">III</td><td>0.05</td><td>0.2</td><td>0.21</td><td>0.2</td><td>0.18</td><td>0.19</td><td>0.37</td><td>0.21</td></tr><tr><td>0.08</td><td>0.22</td><td>0.22</td><td>0.22</td><td>0.22</td><td>0.21</td><td>0.42</td><td>0.27</td></tr><tr><td>0.10</td><td>0.23</td><td>0.24</td><td>0.23</td><td>0.26</td><td>0.23</td><td>0.45</td><td>0.32</td></tr><tr><td>0.12</td><td>0.25</td><td>0.25</td><td>0.24</td><td>0.31</td><td>0.25</td><td>0.52</td><td>0.33</td></tr><tr><td>0.15</td><td>0.25</td><td>0.26</td><td>0.25</td><td>0.36</td><td>0.26</td><td>0.56</td><td>0.36</td></tr></table></body></html>
+
+# D.SWE BACKSCATTERINGCOEFFICIENTRECONSTRUCTION
+
+Since the goal of our improved adaptive regularization method is to obtain high-resolution $\boldsymbol { \sigma } ^ { 0 }$ used for SWE retrieval application, the processing accuracy is crucial. In this section, the processing accuracy of the proposed method is investigated to validate the feasibility for SWE retrieval. Fig. 11 shows $\sigma ^ { 0 }$ images over Montana State using one-day data of February 28 in 2O15 for DFPSCAT. The figures from left to right of each row respectively represent original, observed and reconstructed $\sigma ^ { 0 }$ images. The figures from top to bottom of each column represent X-band VV-pol, X-band HV-pol, Ku-band VV-pol and Ku-band HV-pol, respectively. It is obvious that the reconstructed $\sigma ^ { 0 }$ images have significant resolution improvement compared with the observed ones.To further verify the algorithm performance,another similar experiment is conducted using the data of the same day whereas for different years.
+
+Fig.12 exhibits the original, observed and reconstructed $\sigma ^ { 0 }$ images of Montana State in the year 2O14. The same results can be obtained as year 2015.
+
+![](images/9ca0ce3f9997cab13515753148e22608e5879e95c7a8aa78615f800312b4733e.jpg)  
+Fig. 11 The original, observed and reconstructed $\pmb { \sigma } ^ { 0 }$ images (in decibels) over
+
+Montana State using one day data of Feb. 28th in 2015 with $K _ { p } \mathbf { = } 0 . 0 8$ . (a)-(c) are X-band VV-pol; (d)-(f) are X-band HV-pol; (g)-(i) are Ku-band VV-pol; (k)-(l) are Ku-band HV-pol.
+
+![](images/acda52e273dbc4cfb6c0bb11ff41a661e10ac502ed75222666cc0e7aeb8eddca.jpg)  
+Fig. 12 The original, observed and reconstructed $\pmb { \sigma } ^ { 0 }$ images (in decibels) over
+
+Montana State using one day data of Feb. 28th in 2014 with $K _ { p } \mathbf { = } 0 . 0 8$ (a)-(c) are X-band VV-pol; (d)-(f) are $\mathbf { X }$ -band HV-pol; (g)-(i) are Ku-band VV-pol; (k)-(l) are Ku-band HV-pol
+
+The relative error and correlation coefficient of measured and reconstructed $\sigma ^ { 0 }$ images for different $K _ { p }$ are shown in Table 5.For each $K _ { \mathrm { p } }$ ,the first row data is relative error in decibels,and the second row data is correlation coefficient .For the day in year 2015, the relative errors of the reconstructed $\sigma ^ { 0 }$ images are about O.30dB for X-band VV-pol, 0.42dB for X-band HV-pol, 0.27dB for Ku-band HV-pol, O.33dB for
+
+Ku-band HV-pol for various $K _ { p }$ . They all satisfy the accuracy requirement for SWE retrieval except for the X-band HV-pol case. The reason is that the Coastal Plain has the highest SWE and relatively larger variation compared with the other regions. The corresponding relative errors are about O.36dB, O.34dB, O.22dB, O.31dB for the year 2014,and they all satisfy the accuracy requirement.
+
+In addition， compared with observed results， the relative errors of the reconstructed $\sigma ^ { 0 }$ images nearly decrease more than O.03dB for the Ku-band in two years.For the X-band, the relative errors decrease more than O.O6dB in two years. The correlation coefficient of reconstructed results of both two years shows significant improvement than that of observations.
+
+Based on the above analysis, the proposed reconstructed method could satisfy the accuracy requirement of O.5dB for SWE retrieval and produces high correlated reconstructed $\sigma ^ { 0 }$ images with the original ones. The results also indicate that the proposed method is insensitive to measurement noise and has stable performance.
+
+Table 5 The relative errors (dB) and correlation coefficient of measured and reconstructed $\pmb { \sigma } ^ { 0 }$ images   
+20150228   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="2">X-band VV</td><td colspan="2">X-band HV</td><td colspan="2">Ku-band VV</td><td colspan="2">Ku-band HV</td></tr><tr><td></td><td></td><td></td><td>g</td><td></td><td>9</td><td>9</td><td>g</td></tr><tr><td rowspan="2">Kp=0.05</td><td>0.37</td><td>0.23</td><td>0.54</td><td>0.36</td><td>0.28</td><td>0.22</td><td>0.39</td><td>0.27</td></tr><tr><td>0.50</td><td>0.86</td><td>0.77</td><td>0.90</td><td>0.87</td><td>0.93</td><td>0.76</td><td>0.88</td></tr><tr><td rowspan="2">Kp=0.08</td><td>0.37</td><td>0.28</td><td>0.54</td><td>0.40</td><td>0.28</td><td>0.25</td><td>0.39</td><td>0.30</td></tr><tr><td>0.49</td><td>0.70</td><td>0.77</td><td>0.86</td><td>0.97</td><td>0.90</td><td>0.75</td><td>0.84</td></tr><tr><td rowspan="2">p=0.10 ↑</td><td>0.37</td><td>0.30</td><td>0.54</td><td>0.42</td><td>0.29</td><td>0.26</td><td>0.39</td><td>0.33</td></tr><tr><td>0.48</td><td>0.65</td><td>0.76</td><td>0.84</td><td>0.87</td><td>0.89</td><td>0.75</td><td>0.82</td></tr></table></body></html>
+
+<html><body><table><tr><td>Kp =0.12</td><td>0.37 0.47</td><td>0.31 0.61</td><td>0.54 0.76</td><td>0.45 0.82</td><td>0.29 0.86</td><td>0.27 0.87</td><td>0.39 0.75</td><td>0.35 0.79</td></tr><tr><td>Kp =0.15</td><td>0.37 0.46</td><td>0.32 058</td><td>0.54 0.76</td><td>0.47 0.80</td><td>0.29 0.85</td><td>0.31 0.86</td><td>0.40 0.74</td><td>0.37 0.76</td></tr></table></body></html>
+
+20140228   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="2">X-band VV</td><td colspan="2">X-band HV</td><td colspan="2">Ku-band VV</td><td colspan="2">Ku-band HV</td></tr><tr><td>9</td><td></td><td></td><td>g</td><td>9</td><td>g</td><td></td><td>g</td></tr><tr><td rowspan="2">Kp =0.05</td><td>0.43</td><td>0.28</td><td>0.42</td><td>0.29</td><td>0.24</td><td>0.19</td><td>0.35</td><td>0.26</td></tr><tr><td>0.54</td><td>0.88</td><td>0.80</td><td>0.90</td><td>0.86</td><td>0.92</td><td>0.79</td><td>0.90</td></tr><tr><td rowspan="2">Kp =0.08</td><td>0.43</td><td>0.34</td><td>0.42</td><td>0.32</td><td>0.24</td><td>0.21</td><td>0.35</td><td>0.29</td></tr><tr><td>0.54</td><td>0.76</td><td>0.80</td><td>0.87</td><td>0.86</td><td>0.88</td><td>0.79</td><td>0.87</td></tr><tr><td rowspan="2">Kp =0.10</td><td>0.44</td><td>0.36</td><td>0.43</td><td>0.34</td><td>0.24</td><td>0.22</td><td>0.36</td><td>0.31</td></tr><tr><td>0.54</td><td>0.71</td><td>0.80</td><td>0.85</td><td>0.86</td><td>0.87</td><td>0.79</td><td>0.85</td></tr><tr><td rowspan="2">Kp =0.12</td><td>0.44</td><td>0.37</td><td>0.42</td><td>0.35</td><td>0.24</td><td>0.23</td><td>0.36</td><td>0.32</td></tr><tr><td>0.53</td><td>0.67</td><td>0.80</td><td>0.84</td><td>0.84</td><td>0.85</td><td>0.79</td><td>0.83</td></tr><tr><td rowspan="2">Kp =0.15</td><td>0.44</td><td>0.38</td><td>0.43</td><td>0.37</td><td>0.25</td><td>0.24</td><td>0.36</td><td>0.33</td></tr><tr><td>0.52</td><td>0.64</td><td>0.79</td><td>0.82</td><td>0.84</td><td>0.83</td><td>0.78</td><td>0.81</td></tr></table></body></html>
+
+# V. REAL DATA VALIDATION
+
+The previous analysis is based on simulation processing. In this section, we now illustrate the feasibility of the deconvolution framework and the effectiveness of the deconvolution algorithm with actual scatterometer data. For the existing pencil beam scatterometer data like SeaWinds, the azimuth sampling interval is more than ten kilometers which is not satisfied the requirement of high azimuth sampling rate in our framework. Therefore， the fan beam scatterometer data become the optimal alternative.
+
+An ASCAT (Advanced Scatterometer on Metop） is a C-band fan beam scatterometer, which has two swaths with three beams on each side, as shown in Fig. 13. Each beam is splited into 256 nodes through range processing，and the corresponding measurement values (radar backscatter, incidence angle, azimuth angle) along with location (in latitude and longitude） is reported in the “full resolution" product (SZF) [26]. We take the right middle beam measurement as an example,and combine its multiple measurements for azimuth resolution enhancement. In this case, the measurements are $5 . 6 \mathrm { k m }$ apart, and the“slice” measurements have an aperture function with an effective size of approximately $6 \mathrm { k m } \times 3 5 \mathrm { k m }$
+
+![](images/9219d106961d6476ae212a87ae6cfa99c96e648d61b7d470d07c3a5ae9ce1026.jpg)  
+Fig.13 The ASCAT swath geometry where the beam numbering matches the
+
+convention in the SZF L1B files.
+
+![](images/adab66c25d58ea206040616eb17a80bb546865927915eb2b1255167c9427ea59.jpg)  
+Fig.14 Images generated from real ASCAT scatterometer data. (a) observation image, (b) the reconstructed image processed by our proposed method.
+
+The costal line of Mogadishu centered at $4 5 ^ { \circ } \mathrm { E }$ $1 ^ { \circ } \mathrm { N }$ is chosen as the study region. Both observation and reconstructed $\boldsymbol { \sigma } ^ { 0 }$ images created from the scatterometer measurements are shown in Fig. 14. Through the comparison of the observed and reconstructed images,it is apparent that the reconstructed image discriminates the coastal line clearly and preserves more detail information. It should be noted that noise enhancement in the reconstructed image is not obvious,which is mainly due to the lower noise level of the ASCAT measurements.
+
+# VI. CONCLUSIONS
+
+This paper introduces an improved adaptive regularization deconvolution method with gradient histogram preservation constraint to enhance azimuth resolution, and successfully applies it to the DFPSCAT forward-looking case. Compared with the over smoothness of adaptive regularization method, the proposed method can recover more details. To illustrate the feasibility of the deconvolution framework and the effectiveness of the proposed algorithm, both simulation and real scatterometer data processing are implemented.
+
+In the simulation, a synthetic $\sigma ^ { 0 }$ field reconstruction and SWE $\sigma ^ { 0 }$ reconstruction are carried out to evaluate resolution enhancement and algorithm processing accuracy quantitatively. Meanwhile, the proposed method is compared with some existing resolution enhancement methods. The results show that the proposed method can obtain a comparable resolution enhancement as $L _ { 1 }$ method. From the quantitative analysis of processing accuracy， the proposed method has highest correlation coefficient and least relative error when $K _ { p }$ is less than $5 \%$ ，and shows higher accuracy than $L _ { 1 }$ method with higher correlation coefficient and lower relative errors. Take SWE distributions over Montana State in two different days as examples to judge effectiveness of the proposed method for SWE retrieval application. It turns that our proposed method satisfies the accuracy requirement of $0 . 5 \mathrm { d B }$ for SWE retrieval and produces the high correlated reconstructed $\sigma ^ { 0 }$ images with the truth ones. Compared with the observation results, the relative errors of the reconstructed $\boldsymbol { \sigma } ^ { 0 }$ （204 images nearly decrease more than O.O3dB for the Ku-band in two polarizations,and 0.06dB for the X-band.
+
+In addition, we take ASCAT “full resolution” product (SZF) for further validation. Compared with observation, the reconstructed image discriminates the coastal line clearly and shows better performance.
+
+# ACKNOWLEDGMENT
+
+The work of this paper is supported by the Strategic Priority Program on Space Science from Chinese Academy of Sciences, under the project of intensive study of candidate mission of Water Cycle Observation Mission (WCOM) (Grant Number: XDA04061202).
+
+# REFERENCES
+
+[1] M. S.Lin, Y.G. Zhang,and X. Z. Yuan, "The development course and trend of ocean remote sensing satellite," Haiyang Xuebao, vol. 37, pp. 1-10, Jan. 2015.
+
+[2] M. W. Spencer, T.Wu-Yang, and D.G. Long, "High-resolution measurements with a spaceborne pencil-beam scatterometer using combined range/Doppler discrimination techniques," Geoscienceand RemoteSensing， IEEE Transactions on, vol. 41, pp. 567-581, 2003.   
+[3] D. S.Early and D.G.Long,"Image reconstruction and enhanced resolution imaging from irregular samples," IEEE Transactions on Geoscience and Remote Sensing, vol. 39, pp. 291-302, Feb. 2001.   
+[4] D.G.Long,P.J. Hardin,and P. T. Whiting,"Resolution enhancement of spaceborne scatterometer data," Geoscience and Remote Sensing， IEEE Transactions on, vol. 31, pp. 700-715, 1993.   
+[5] B.A.Williams and D.G. Long，"Reconstruction From Aperture-Filtered SamplesWith Application to ScatterometerImage Reconstruction," Geoscience and Remote Sensing， IEEE Transactions on, vol. 49, pp. 1663-1676, May 2011.   
+[6]J. S. Shi, X.L. Dong,T. J. Zhao,J. Y. Du,L. M. Jiang, Y. Du, et al.,"WCOM: The science scenario and objectives of a global water cycle observation mission," in IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2014, pp. 3646-3649.   
+[7] D. Xiaolong,H. Liu, Z. Z. Wang, J. C. Shi, and T. J. Zhao, "WCOM: The mission concept and payloads of a global water cycle observation mission," in IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2014, pp. 3338-3341.   
+[8] P. Clissold, Coreh2o-cold regions hydrology high resolution observation. The Netherlands: ESA Communication Product Office, 2008.   
+[9] M. W. Spencer, W. Chialin, and D.G. Long, "Improved resolution backscatter measurements with the SeaWinds pencil-beam scatterometer," Geoscience and Remote Sensing, IEEE Transactions on, vol.38, pp. 89-1O4, Jan. 2000.   
+[10]J. C. Guan,J. Y. Yang，Y. L. Huang，and W. C. Li, "Maximum a posteriori-based angularsuperresolution forscanning radarimaging," Aerospace and Electronic Systems, IEEE Transactions on， vol. 50, pp. 2389-2398, July 2014.   
+[11] R. Sethmann，B. A. Burns， and G. C. Heygster， "Spatial resolution improvement of SSM/I data with image restoration techniques," Geoscience and Remote Sensing, IEEE Transactions on, vol. 32, pp. 1144-1151, Nov. 1994.
+
+[12] M. A.Richards， "Iterative noncoherent angular superresolution" in Proceedings of the 1988 IEEE National Radar Conference,1988, pp. 100-105.
+
+[13]J. W. Zou, M. B. Zhu, X. P.Li, and W. Dong,"Norm regularization method and its application in radar azimuth super-resolution," in TENCON 2013 - 2013 IEEE Region 10 Conference (31194),2013, pp. 1-4.   
+[14]W. Qian, Y. Ting, and D. Xiaolong, "Super-resolution scaterometer image reconstruction using total variation regularization method," in Geoscience and Remote Sensing Symposium (IGARSS)， 2014 IEEE International, 2014， pp. 3065-3068.   
+[15] M. Y. Zou and U. Rolf, "Circulant and aperiodic models of deconvolution: A comparison," Signal Processing, vol. 64, pp. 185-192, Jan 1998.   
+[16] A. M. Tekalp and M. I. Sezan， "QUANTITATIVE-ANALYSIS OF ARTIFACTS INLINEAR SPACE-INVARIANT IMAGE-RESTORATION," Multidimensional Systems and Signal Processing， vol. 1， pp. 143-177, Jun 1990.   
+[17] M. Y. Zou, Deconvolution and Signal Recovery. Beijing: National Defense Industry Press,2001.   
+[18] G.A.Ryzhikov and M. S.Biryulina, "Sharp deconvolution in elimination of multiples," Geophysics, 1998.   
+[19] W. M. Zuo,L. Zhang,C.W.Song,D. Zhan，and H. J.Gao,"Gradient Histogram Estimation and Preservation for Texture Enhanced Image
+
+Denoising," Image Processing, IEEE Transactions on, vol. 23, pp.2459-2472,
+
+June 2014.   
+[20] J.K. Patel and C.B. Read, Handbook of the normal distribution. New York: New York: Marcel Dekker,1982.   
+[21] W. Guang Xin，L. Hong， and Z. Zhen Rong， "Regularized resolution enhancement of point-based features of synthetic aperture radar image using variable quasi-norm," in Signal Processing Systems (ICSPS)， 2O1O 2nd International Conference on, 2010, pp. V1-500-V1-504.   
+[22] R. C. Gonzalez and R. E. Woods, Digital Image Processing. Beijing: Publishing House of Electronics Industry, 2005.   
+[23] Z. Wangmeng, Z. Lei, S. Chunwei, and D. Zhang, "Texture Enhanced Image Denoising via Gradient Histogram Preservation," in Computer Vision and Pattern Recognition (CVPR), 2013 IEEE Conference on,2013, pp. 1203-1210.   
+[24]T.Leung，P. Jin，L. Ding,L. Zhongxin，D. W. Cline,and T. Yunhua, "Modeling Active Microwave Remote Sensing of Snow Using Dense Media Radiative Transfer (DMRT） Theory With Multiple-Scattering Effects," Geoscience and Remote Sensing, IEEE Transactions on, vol. 45, pp. 990-1004, Apr. 2007.
+
+[25]N. O. H. R. S. Center, Snow Data Assimilation System (SNODAS) Data Products at NSIDC.Boulder, Colorado USA: National Snow and Ice Data Center, 2015.
+
+[26] R.D.Lindsley, "Estimating the ASCAT Spatial Response Function endnote," Brigham Young University, Provo,Technical Report # MERS 14-O1， May 2014.

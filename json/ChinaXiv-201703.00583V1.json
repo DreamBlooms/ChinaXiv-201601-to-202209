@@ -1,0 +1,197 @@
+[
+    {
+        "type": "text",
+        "text": "Detection of helium in irradiated Fe9Cr alloys by coincidence Doppler broadening of slow positron annihilation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xingzhong Caoa \\*, Te Zhua b, Shuoxue Jina, Peng Kuanga, Peng Zhanga, Eryang Lua, Yihao Gonga, Liping Guoc, Baoyi Wanga,b \\*   \naMulti-discipline Research Center, Institute of High Energy Physics, CAS, Beijing 1Oo049, China   \nbSchool of Physical sciences, University of Chinese Academy of Sciences, Beijing 1Ooo39, China cSchool of Physics and Technology， Wuhan University, Wuhan 430072, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "An element analysis method,coincidence Doppler broadening spectroscopy of slow positron annihilation, was employed to detect helium in ion irradiated Fe9Cr alloys. Spectra with higher peak to background ratio were recorded using a two-HPGe-detector coincidence measuring system. It means that information in the high-momentum area of the spectra can be used to identify helium in metals. This identification is not entirely dependent on the helium concentration in the specimens, but is related to the structure and microscopic arrangement of atoms surrounding the positron annihilation site. The results of Doppler broadening spectroscopy and transmission electron microscopy show that vacancies and dislocations were formed in ion irradiated specimens. Thermal helium desorption spectrometry was performed to obtain the types of He traps. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Coincidence Doppler broadening spectroscopy, Helium, Micro-defects,Alloys, Ion-irradiation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There is a significant interest in the behavior of helium in solids,in particular, structural materials for the fusion energy system. He atoms can be generated in materials by $( \\mathtt { n } , \\mathtt { a } )$ reaction, or introduced directly into plasma-facing materials by the helium plasma. These He atoms can promote the growth of cavities [1], dislocation loops [2] and induce void swelling in materials and thus result in significant mechanical property degradation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Transmission electron microscopy (TEM） [3], thermal helium desorption spectrometry (THDS)[4] and proton backscattering technique [5] are commonly used to detect He in materials. However, the above methods stillhas many disadvantages: i) Small-sized helium-vacancy clusters has not yet formed bubbles are invisible to the TEM technique,due to its resolution limit,ii THDS is unable to provide information on site trapping He and the sample will be damaged during heating, and ii) The distribution of helium in materials is dificult to observe by proton backscattering because the elemental Rutherford cross section at a given energy decreases as the square of decreasing atomic number. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Doppler broadening spectroscopy (DBS) of slow positron beam [6] is a nondestructive, depthsensitive technique for testing the distribution of elements around annihilation sites. Positrons are implanted into a specimen material where they thermalize rapidly (within about $1 0 \\ \\mathrm { p s } )$ ）before annihilating with an electron, creating two gamma photons with energies of about $5 1 1 \\ \\mathrm { k e V }$ emitted in close to opposite directions. The gamma rays are Doppler shifted from $5 1 1 \\mathrm { k e V }$ due to the movements of electrons,so the annihilation peak carries information about the electron momentum distribution. The Doppler broadening is characterized by an S (for shape) parameter, defined as the ratio of counts in a fixed central low momentum area (of width ${ \\sim } 1 . 6 \\ \\mathrm { k e V }$ and centered around $5 1 1 \\ \\mathrm { k e V }$ ） of the annihilation photo peak to the total number of counts in the annihilation photo peak. Because a reduced fraction of the positrons trapped in defects will annihilate with core electrons in favor of annihilation with valence electrons (low momentum electrons),rising S parameter measured for the materials could demonstrate the presence of vacancy-like defects. During the last two decades,two-detector coincidence system [7, 8] have been used to achieve the higher peak to background ratio,which allows analysis of highmomentum components of the annihilation gamma-ray spectra. Since the higher-momentum regions correspond to annihilation with electrons which are bound to nucleus, they can be used to identify element which surround the annihilation site. Coincidence Doppler broadening (CDB) has been used widely to detect precipitates in alloys [9-11] and identify impurity-defect complexes in semiconductors [12,13],however,it has not yet been used to detect gaseous atoms in solids.Here we present the results from a CDB of slow positron annihilation setup that measures the helium variations around the annihilation site. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedure ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The thickness of $0 . 2 { \\mathrm { m m } }$ in $1 0 \\mathrm { m m } \\times 1 0 \\mathrm { m m }$ square sheets Fe9Cr alloy specimens used in this study were supplied by China Iron & Steel Research Institute Group. In the case of He ions irradiation, well annealed specimens were irradiated with $2 0 \\ \\mathrm { k e V }$ He ions at room temperature using an accelerator in the Accelerator Lab of Wuhan University. The irradiation dose are $1 \\times 1 0 ^ { 1 5 }$ ， $1 \\times 1 0 ^ { 1 6 }$ and $5 \\times 1 0 ^ { 1 6 } ~ \\mathrm { H e ^ { + } / c m ^ { 2 } }$ respectively,and the ${ \\mathrm { H e ^ { + } } }$ irradiation produced damage levels of 0.02, 0.2 and 1 dpa (displacements per atom). He atoms mainly distributed in the region from O to $1 9 0 \\mathrm { n m }$ and peaked at about $6 2 \\mathrm { n m }$ based on calculations using TRIM code [14]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To study the damage incurred during helium irradiation, TEM was performed using a JEM2000FX type microscope. The unirradiated sample is shown in Figure 1(a). Figure 1(b) is of the ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TEM micrograph for a specimen irradiated by $2 0  { \\mathrm { k e V } }  { \\mathrm { H e } ^ { + } }$ .For the irradiated samples, a number of dislocations induced by post-irradiation of ${ \\mathrm { H e } } ^ { + }$ was observed and no helium bubbles were found at room temperature. It is not possble to infer from TEM the location of helium in specimens when it is not in resolvable bubbles,but He may be present in smaller He-vacancy clusters below the resolution limit of the TEM. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e72d18ac7af258abc40fc6afc6ef7b35ddaf403b51c00f1bfcfdae3530e41a9.jpg",
+        "img_caption": [
+            "FIG.1. (a) TEM micrographs of the wel-nnealed sample, no defects were observed. (b) The image of irradiated specimen,a number of dislocations induced by post-irradiation of ${ \\mathrm { H e ^ { + } } }$ was observed. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Thermal desorption spectroscopy is based on the detection of helium released from materials during ramp anneal under high vacuum conditions, better than $1 0 ^ { - 9 }$ torr, using a quadrupole mass spectrometer.From the temperature at which specific desorption peaks appear,information can be recorded about the types of He traps and their thermal stability. The temperature of the sample was measured with a thermocouple. The heating rate (controlled by a PID feedback loop) from room temperature up to $1 1 0 0 \\mathrm { K }$ was setted at $1 \\mathrm { K / s }$ . Before the measurements, the system was baked out overnight at a temperature of $4 2 0 ~ \\mathrm { K }$ to reduce the background signal. In Figure 2 the smoothed TDS spectra of the sample implanted with dose $5 \\times 1 0 ^ { 1 6 } \\mathrm { H e ^ { + } / c m ^ { 2 } }$ is shown. There are three peaks appear in this spectra, as follows: Peak A at 63O K, Peak $\\mathbf { B }$ at $8 1 5 \\mathrm { K }$ ,and Peak C at 1100 K. In our previous research [4], these peaks can be ascribed to helium desorbing from over pressurized $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ $\\mathbf { \\tau } ( \\mathbf { n } > \\mathbf { m } )$ ）clusters,dislocation networks $\\mathrm { ( H e _ { n } D ) }$ and larger $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ $\\left( \\mathbf { n } < \\mathbf { m } \\right)$ ）clusters [15], respectively. The calculated total amount of He (excluding the background） desorbed is approximately $3 5 . 1 \\%$ of the implanted dose. The amount of He detected in a desorption peak is associated with defect concentration and defect dissociation energy. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d09598c3078bb9e8eaadeebb13e2b2327f600d9f09b5ce9e3e37980528a1a87c.jpg",
+        "img_caption": [
+            "FIG.2. Desorption spectra in a well-annealed specimens irradiated by $2 0 \\mathrm { k e V }$ helium ions to $5 { \\times } 1 0 ^ { 1 6 }$ $\\mathrm { H e ^ { + } } / \\mathrm { c m } ^ { 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DBS measurements uses a single HPGe detector (whose energy resolution is $1 . 3 \\mathrm { \\ k e V }$ at 511.0 keV) were carried out at the variable energy positron beam facility at Institute of High Energy Physics. In a vacuum of about $1 0 ^ { - 7 } \\mathrm { P a }$ ,mono-energetic positrons with energies between 0.18 and $2 0 \\mathrm { k e V }$ are implanted into the sample. The whole spectrum is accumulated to a total counts of 2.0 $\\times 1 0 ^ { 6 }$ to reduce the statistical error. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/24c1d5a953fa420578b0ef00173c9e2fa8734229639db87d01cfff5f8edfbf47.jpg",
+        "img_caption": [
+            "FIG. 3. S-parameter (a) and $\\Delta \\mathsf { S }$ (b)as a function of incident positron energy or the mean positron implantation depth. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In Figure 3, S parameters and $\\Delta \\mathsf { S }$ parameters $( \\Delta \\mathrm { S } = \\mathrm { S } _ { \\mathrm { i r r a d i a t e d } } - \\mathrm { S } _ { \\mathrm { u n i r r a d i a t e d } } )$ are measured as a function of incident positron energy (E) to obtain depth resolved defect information in unirradiated and irradiated specimens. The mean positron implantation depth (in nm) is given by $5 . 0 9 \\mathrm { E } ^ { 1 . 6 }$ ， where E is in keV. For all irradiations a higher S-parameter reflects a higher implantation dose as shown in Figure 3(a). An increasing S parameter corresponds with larger size and higher concentration of the defects which were created by the He irradiation.Figure 3(b） shows the dependence of the $\\Delta \\mathsf { S }$ parameter on implanted positron energy. The $\\Delta \\mathsf { S }$ parameter could clearly reflect the change in the concentration of vacancy defects after ion irradiation experiments. The peak value of $\\Delta \\mathsf { S }$ reaches at the depth about $5 8 ~ \\mathrm { n m }$ for the specimen of lower irradiation dose, which is similar to the peak depths of defect by TRIM calculation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4082ce5ac31c572312c56c1408e17d03e7514f931304ef058750da68a79eea48.jpg",
+        "img_caption": [
+            "FIG.4. CDB ratio curves for the Fe9Cr specimens irradiated with a dose of $1 \\times 1 0 ^ { 1 5 }$ and $1 \\times 1 0 ^ { 1 6 }$ $\\mathrm { H e ^ { + } } / \\mathrm { c m } ^ { 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To apply the two-detector coincidence system,another HPGe-detector is added collinearly with the first at the opposite side of the specimen, and annihilation events are accepted only if a pulse is received from both detectors. CDB spectra with ${ \\sim } 1 0 ^ { 7 }$ counts in the peak were obtained, over a period of about $2 0 \\mathrm { h }$ . To amplify differences between specimens, we calculate quotient spectra by dividing the number of counts in each channel by the number of counts in the corresponding channel of a“standard spectrum,\" acquired from a bulk unirradiated Fe9Cr specimen using a beam energy of $4 . 5 \\mathrm { k e V }$ . Figure 4 shows typical quotient spectra of the Fe9Cr specimens irradiated with a dose of $1 \\times 1 0 ^ { 1 5 }$ ㎡ $1 \\times 1 0 ^ { 1 6 } \\mathrm { H e ^ { + } / c m ^ { 2 } }$ (i.e., the spectrum of irradiated Fe9Cr divided by the standard spectrum of unirradiated Fe9Cr). The ratio curves shows the peak in the range of $8 – 1 4 \\times 1 0 ^ { - 3 } \\mathrm { m o c } .$ the peak at $\\mathrm { \\sim 1 1 . 8 \\times 1 0 ^ { - 3 } m o c }$ ，where $\\mathbf { m } _ { 0 }$ is the electron rest mass,and c is the velocity of light. This result roughly agrees with the one obtained theoretically by Sabelova et al[16]. They reported that He atoms affect CDB ratio curves in the momentum of $5 { \\cdot } 1 2 \\times 1 0 ^ { - 3 } \\mathrm { m o c }$ by simulation.For the higher dose irradiated specimen, the peak value was smaller than that of the lower dose irradiated one, which indicate helium concentration in metals is not the only factor that affects the positron annihilate with the electron of helium. The appearance of peak in the quotient spectrum suggest that the implanted He atoms form complexes with the remaining dislocations or vacancies. That is to say, CDB of positron annihilation can be used to detect gaseous atoms in materials. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In summary，we have shown that implanted helium in Fe9Cr alloys produce peaks in coincidence Doppler broadening spectra of $4 . 5 \\mathrm { k e V }$ slow positron annihilation. Helium element in material was identified clearly for the first time from CDB of slow positron annihilation. This identification is perhaps surprising since one would expect the detailed shape of the annihilation spectrum to be associated with the structure and microscopic arrangement of atoms surrounding the annihilation site. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "All authors acknowledge support from the National Natural Science foundation of China Grant Nos. 11475193,11505205 and 11505192. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1. L. K. Mansur and W.A. Coghlan, Mechanisms of helium interaction with radiation efects in metals and alloys: A review. J. Nucl. Mater. 119(1): 1-25 (1983).   \n2. K. Niwase, T. Ezawa, T. Tanabe, Dislocation loops and their depth profiles in ${ \\mathrm { H e ^ { + } } }$ and $\\mathrm { D ^ { + } }$ ion irradiated nickel. J. Nucl. Mater. 203(1): 56-66 (1993).   \n3. K. Arakawa, R. Imamura, K. Ohota, Evolution of point defect clusters in pure iron under lowenergy ${ \\mathrm { H e } } ^ { + }$ irradiation. J. Appl. Phys. 89(9): 4752-4757 (2001).   \n4. T. Zhu, X.Z. Cao, S.X. Jin, J.P. Wu, Helium retention and thermal desorption from defects in Fe9Cr binary alloys. J. Nucl. Mater. 466: 522-525 (2015). 5.R.S. Blewer, Depth distribution of implanted helium and other low-z elements in metal films using proton backscattering. Appl. Phys. Lett. 23: 593-595 (1973).   \n6. Te Zhu, Shuoxue Jin, Liping Guo, Yuanchao Hu, Eryang Lu, Jianping Wu, Baoyi Wang, Long Wei, Xingzhong Cao, Helium/hydrogen synergistic effect in reduced activation feritic/martensitic steel investigated by slow positron beam. Philos. Mag. 96(3): 253-260 (2016).   \n7. K. G. Lynn and A. N. Goland, Observation of high momentum tails of positron-annihilation lineshapes. Solid State Commun.18: 1549-1552 (1976).   \n8.P.Asoka-Kumar，M. Alatalo，V.J. Ghosh, Increased Elemental Specificity of Positron Annihilation Spectra. Phys. Rev. Lett. 77: 2097-2100 (1996).   \n9. Q. Xu, T. Yoshiie, K. Sato, Dose dependence of Cu precipitate formation in Fe-Cu model alloys irradiated with fission neutrons. Phys. Rev.B 73: 134115 (2006).   \n10. Y. Nagai, T. Honma, Z. Tang, K. Hono, M. Hasegawa, Coincidence Doppler broadening study of the pre-precipitation stage of an Al[sbnd]Cu[sbnd]Mg[sbnd]Ag alloy. Philos.Mag. A,82,1559- 1572 (2002).   \n11. C.Hugenschmidt, P. Pikart, M. Stadlbauer,K. Schreckenbach, High Elemental Selectivity to Sn Submonolayers Embedded in Al Using Positron Annihilation Spectroscopy. Phys. Rev. B 77: 092105 (2008).   \n12. M. Alatalo, H. Kauppinen, K. Saarinen, Identification of vacancy defects in compound semiconductors by core-electron annihilation: Application to InP. Phys. Rev.B 51: 4176-4185 (1995).   \n13. U.Myler, R. D. Goldberg, A.P. Knights, Chemical information in positron annihilation spectra. Appl. Phys.Lett. 69(22): 3333-3335 (1996). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "14.J.P. Biersack,L.G. Haggmark， A Monte Carlo computer program for the transport of energetic ions in amorphous targets. Nucl. Instrum. Meth.174: 257-269 (1980). 15. I. Carvalho, H. Schut, A. Fedorov, Helium implanted Eurofer97 characterized by positron beam Doppler broadening and Thermal Desorption Spectroscopy. J. Nucl. Mater. 442: 377-381 (2013). 16. V. Sabelova, V. Krsjak, J. Kuriplach, Characterization of helium implanted Fe-Cr alloys by means of positron annihilation methods. J. Nucl. Mater. 450: 54-58 (2014). ",
+        "page_idx": 9
+    }
+]

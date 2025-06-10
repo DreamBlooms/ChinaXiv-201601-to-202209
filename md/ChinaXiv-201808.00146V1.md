@@ -1,0 +1,172 @@
+# 杨氏金红50号'弼猴桃的离体快繁研究
+
+杨迪'，赵新仕'，邹婷婷'，王'，周业皓'，杜戈²，李书林²，张乃群”\*
+
+（1.南阳师范学院 生命科学与技术学院，南阳 473061；2.西峡猕猴桃研究所，西峡 474573）摘要：‘杨氏金红50 号'猕猴桃是黄肉红心的中华猕猴桃优良品种，该研究以其带腋芽茎段为外植体，采用组织培养的方法进行离体培养，研究适合其离体快繁的外植体灭菌方式、最佳植物生长调节剂种类及浓度配比，建立了两种离体再生途径：途径I为直接诱导茎段腋芽出芽；途径ⅡI为茎段基部先产生愈伤组织，再分化不定芽。结果表明：‘杨氏金红50 号'猕猴桃带腋芽茎段的最佳灭菌方式为 $7 5 \%$ 酒精 $3 0 \mathrm { \ s } + 1 5 \%$ $\mathrm { C a ( C l O ) } _ { 2 } 5 \mathrm { m i n } + 0 . 1 \%$ 升汞 $8 \mathrm { m i n }$ ；途径I中，诱导茎段腋芽出芽的最优培养基为 $\mathbf { M S } + 4 . 0 \mathbf { m g } \mathbf { \cdot } \mathbf { L } ^ { - 1 } 6 \mathbf { - } \mathbf { B } \mathbf { A } \mathbf { + } \mathbf { 0 } . 1$ mg·L' NAA；途径ⅡI中，诱导茎段基部产生愈伤组织并产生不定芽的最优培养基为 $\mathrm { M S } + 3 . 0 \ \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 } \ 6 .$ （204号$\mathrm { B A } + 0 . 3 \ \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ NAA；培养丛生芽的最佳植物生长调节剂组合为 $\mathrm { M S } + 4 . 0 \mathrm { m g } \mathrm { \cdot L } ^ { - 1 } 6 \mathrm { - B A } + 0 . 4 \mathrm { m g } \mathrm { \cdot L } ^ { - 1 }$ NAA;不定芽生根培养的最佳植物生长调节剂组合为 $1 / 2 ~ \mathrm { M S } \mathrm { + } 0 . 9 ~ \mathrm { m g } \mathrm { { · } } \mathrm { { L } } ^ { - 1 }$ IBA， $2 0 \mathrm { d }$ 左右分化出不定根， $4 0 \mathrm { d }$ 左右获得完整植株；生根后的组培苗在田园土：细沙 $\mathbf { \partial } \cdot = 1 : 1$ 的基质中能达到 $96 \%$ 的移栽成活率。该研究结果建立了‘杨氏金红50号'猕猴桃的离体快繁体系，为后续的遗传转化和基因改良研究提供了基础。
+
+关键词：‘杨氏金红50号猕猴桃，带腋芽茎段，组织培养，植物生长调节剂，再生体系
+
+# Study on micropropagation in vitro of Actinidia chinensis Yangshi Jinhong 50
+
+YANGDi',ZHAO Xin-Shi1,Zou Ting-Tingl,Wang Yun1,Zhou Ye-Hao1,Du Ge²,Li Shu-Lin2, ZHANG NaiQun1,\*
+
+(1.CollegeofLife ScienceandTechnology,NanyangNormal University,Nanyang 473061,China;2.Instituteof Actinidiainin Xixia County,Xixia 474573,China）
+
+Abstract:Actinidia chinensis‘Yangshi Jinhong50'isa fine Actinidiachinensis Planch cultivarof yellw-flesh and red-heart,which favoredby people and known as rich nourishment.In order to establish therapidand efficient propagation system in virtro,this study used stem with axillary bud of Actinidia chinensis‘Yangshi Jinhong $5 0 ^ { \circ }$ as theexplant,and used tissue culture to study suitable explants sterilization method,best plant growth regulator 基金项目：河南省科技攻关项目（102102110159)；南阳师范学院2018年度 STP项目 (2018STPoO1）[Supported by the Scientific and Technological Research Project of Henan Province (10210211O159); the STP Project of Nanyang Normal University in 2018 (2018STP001)]。
+
+作者简介：杨迪（1993-)，男，河南南阳人，硕士研究生，从事植物资源保护与利用等研究，（E-mail）amazingdaliyang@163.com。
+
+通讯作者：张乃群，本科，教授，从事植物资源保护与利用等研究，（E-mail）zhnq@nynu.edu.cn。
+
+combination in Actinidia chinensis‘Yangshi Jinhong $5 0 ^ { \circ }$ . This study founded two kinds of in vitro regeneration modes.ModeI:the axillary buds of stem with axillary bud were induced directly; Mode I :the callus was induced first,and then the adventitious buds were induced.The results showed that the explants best sterilization method was $7 5 \%$ alcohol $3 0 ~ \mathrm { s } + 1 5 \% ~ \mathrm { C a } ( \mathrm { C l O } ) _ { 2 } \ : 5 ~ \mathrm { m i n } + 0 . 1 \%$ mercuric chloride $8 ~ \mathrm { m i n }$ ; In Mode I, the plant growth substances combination of $\mathrm { M S } + 4 . 0 \mathrm { m g } \mathrm { \cdot L } ^ { - 1 } 6 \mathrm { - B A } + 0 . 1 \mathrm { m g } \mathrm { \cdot L } ^ { - 1 }$ NAA for axillary buds germination had the best the induction rate,which could reach $91 . 6 7 \%$ ； In Mode I, callus rate of inducing stems bottom was more than $80 \%$ the optimal medium that induced stems bottom callus to generate adventitious buds was $\mathrm { M S ^ { + } } 3 . 0 \ \mathrm { m g \cdot L ^ { - 1 } } 6 { \cdot } \mathrm { B A ^ { + } }$ $0 . 3 \ \mathrm { m g \cdot L ^ { - 1 } }$ NAA,germination rate reach $8 3 . 3 3 \%$ ； the best plant growth substances combination in tufted bud culture was $\mathrm { M S + 4 . 0 \ m g { \cdot } L ^ { - 1 } \ 6 { - } B A { + } \ 0 . 4 \ m g { \cdot } L ^ { - 1 } }$ NAA,multiplication coeffcient as high as 6.14;the best plant growth substances combination in rooting culture was $1 / 2 \mathrm { \Delta \ M S ^ { + } \ 0 . 9 \mathrm { \ m g ^ { . } L ^ { - 1 } } }$ IBA,getting the differentiation of adventitious root about $1 5 { \mathrm { ~ d ~ } }$ and complete plant $4 5 \mathrm { ~ d ~ }$ ，rooting rate reach $7 2 . 6 4 \%$ ，average rooting number reach 25.67,average root length reach $2 . 6 7 ~ \mathrm { c m }$ ，average plant height reach $3 . 0 8 ~ \mathrm { c m }$ . After the seedlings rooted, transplanted the seedlings to the substrate,the seedlings could reach the $96 \%$ survival rate in the substrate with the garden soil : sand $\mathbf { \Phi } = \mathbf { 1 } : \mathbf { \Phi } 1$ . Through this study,the micropropagation system in vitro of Actinidia chinensis ‘Yangshi Jinhong $5 0 ^ { \circ }$ was established,which provides the basis for the research of genetic transformation in Actinidia chinensis Planch,at the same time,the establishment regeneration system provides a good technical support for seedling micropropagation and factory in Actinidia chinensis‘Yangshi Jinhong $5 0 ^ { \circ }$ ：
+
+Keywords:Actinidia chinensis‘Yangshi Jinhong $5 0 ^ { \circ }$ ，stems with axillary buds,tissue culture,plant growth regulators, regeneration system
+
+猕猴桃作为20 世纪人工驯化栽培野生果树最有成就的四大果种之一（Warrington等，1990)，其茎段（王林青，2017）、花药（王广富，2017）、叶片（韦鹏飞，2016）、叶柄（葛新玲，2009）、胚乳（林颖等，2012）等都曾被用作组织培养的研究，组织培养技术已经成为猕猴桃良种繁育的重要途径。
+
+中华猕猴桃（Actinidiachinensis）是中国特有的猕猴桃果种，口感独特，经济价值高，近年来种植规模逐步扩大（王茹琳等，2017）。‘杨氏金红50号’猕猴桃（Actinidiachinensis‘Yangshi Jinhong $5 0 ^ { \circ }$ ）是2013年由江苏省扬州杨氏猕猴桃科学研究所从中华猕猴桃中选育出来的优良品种，果实单果重量平均在100 克以上，金肉红心，不仅好看，而且甜度高，果肉细腻，口感好，被认为是有望超越‘海沃德'的新品种。西峡县是中国重要的猕猴桃产区，种植了大量的‘杨氏金红50号’猕猴桃，且销量好，农户评价较高，市场前景广阔。现阶段西峡县采用的育苗方法主要为实生苗嫁接法，即以种子繁育的实生苗为砧木，然后在其上嫁接人工栽培品种。该方法需先利用一年时间培育出实生苗作为砧木，然后再利用一年时间管护嫁接苗生长，育苗周期为两年左右（唐玲玲等，2016)，时间长且易感染溃疡病，对西峡县的猕猴桃产业发展有一定限制。虽然目前关于猕猴桃组织培养有一定量的报道，但猕猴桃雌雄异株，基因高度杂合（叶开玉等，2012)，而组织培养体系又受到基因型的影响（黄宏文等，2013)，且关于‘杨氏金红50号'的组织培养尚未有报道，因此，本试验采用'杨氏金红50号'猕猴桃的带腋芽茎段进行组织培养，为西峡县科学种植杨氏金红50'猕猴桃提供了技术支撑。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+试验材料在西峡县猕猴桃研究所试验田采集，取材时间为5月，取健康、幼嫩的‘杨氏金红50号’猕猴桃新稍茎段为外植体。
+
+# 1.2培养基成分及培养条件
+
+腋芽诱导、愈伤组织诱导、芽的分化、丛生芽培养均以MS为基本培养基，生根培养以 $1 / 2 \mathrm { M S }$ 为基本培养基，含 $3 6 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 蔗糖、 $6 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 琼脂、 $\mathsf { p H }$ 为 $5 . 8 \sim 6 . 2$ 之间，用到的植物生长调节剂有6-BA、NAA、IBA，培养基于 $1 2 1 ^ { \circ } \mathrm { C }$ 、 $0 . 1 \mathrm { M P a }$ 条件下灭菌 $2 0 ~ \mathrm { { m i n } }$ 。培养温度为 $2 5 { \pm } 2 ~ ^ { \circ } \mathrm { C }$ ，光照强度为 $1 5 0 0 { \sim } 2 0 0 0 \mathrm { L x }$ ，光照时间为每天 $1 2 \mathrm { h }$ 左右。
+
+# 1.3试验方法
+
+# 1.3.1 外植体的灭菌
+
+将‘杨氏金红 $5 0 ^ { \circ }$ 号猕猴桃的幼嫩枝条去除叶片，用洗洁精洗净，并在自来水下冲洗$4 0 \mathrm { m i n }$ ，截成 $1 \sim ~ 1 . 5 \mathrm { c m }$ 长的带腋芽茎段，再分别用4个处理进行灭菌。每个处理接种 30个，21d时分别统计污染率、褐化率、成活率。成活率 $_ { . = 1 }$ -污染率－褐化率。灭菌后的带腋芽芽茎段用无菌水冲洗 $5 \sim 6$ 次，洗去灭菌剂残留和灭菌过程中茎段的分泌物，每个处理接种30个外植体。由于‘杨氏金红 $5 0 ^ { \circ }$ 号弼猴桃茎段表层长有细密的毛，灭菌处理时应用无菌镊子反复搅动，以便于灭菌剂充分接触茎段表皮。
+
+# 1.3.2腋芽的培养
+
+经灭菌处理的带腋芽茎段需先剪去两端与灭菌剂接触的伤口部分，再分别接种于添加不同植物生长调节剂的MS 培养基中，腋芽朝上，培养35天后统计腋芽的萌发率及数量。试验设9种培养基，每种培养基8个外植体，重复3次。出芽率 $\dot { . } = \mathbf { \nabla }$ 出芽的外植体数/接种的外植体数 $\times 1 0 0 \%$ 。
+
+# 1.3.3愈伤组织不定芽诱导
+
+在腋芽诱导的过程中，茎段基部会产生愈伤组织，每隔一周观察记录一次每种培养基茎段愈伤组织的变化情况，最后统计愈伤组织再分化成芽的诱导率。愈伤组织再分化成芽的诱导率（表3中的出芽率） $\ c =$ 愈伤组织出芽的外植体数/接种的外植体总数 $\times 1 0 0 \%$ 。
+
+# 1.3.4丛生芽培养
+
+选择健壮且生长情况基本一致的单个不定芽接种于增殖培养基上做丛生芽培养，每隔10d观察一次芽的生长情况， $3 0 \mathrm { d }$ 后统计不定芽的增殖率及增殖系数。试验设9种培养基，每种培养基7个不定芽，重复3次。增殖系数为单个外植体再生形成的芽的平均数。
+
+# 1.3.5不定芽生根
+
+选取长至 $2 \sim 3 ~ \mathrm { c m }$ 且健壮、生长情况基本一致的单个不定芽接种于生根培养基上做生根培养。试验设6种培养基，每种培养基7个不定芽，重复3次，每隔10d观察记录一次数据。生根率 $\dot { \bf \theta } =$ 生根的不定芽数/接种的不定芽数 $\times 1 0 0 \%$ 。
+
+1.3.6生根苗移栽
+
+生根后的无菌苗，移至在日光温室中炼苗，先拧松瓶盖放置2d，再打开培养瓶瓶盖，放置5d左右，之后洗净根部的培养基，移栽至田园土：细沙 $\mathbf { \sigma } = 1 : 1$ 的基质中。
+
+# 1.4数据分析
+
+试验数据先用Excel2013做初步统计，再用 SPSS22.0软件进行统计学分析，平均数之间差异显著性比较采用Duncan法（新复极差法）。
+
+# 2试验结果
+
+2.1不同灭菌方法获取‘杨氏金红50号'弼猴桃无菌带芽茎段
+
+经过 $2 0 \mathrm { d }$ 的观察，污染多出现在前9d，褐化则是在 $7 \sim 2 0 \mathrm { d }$ 之间陆续出现，4种灭菌方法对‘杨氏金红50号'猕猴桃带芽茎段的处理效果有较大的差异，如表1所示。C处理仅用 $\mathrm { C a } ( \mathrm { C l O } ) _ { 2 }$ 灭菌，污染率最高，达到 $70 . 0 0 \%$ ，成活率最低，而另外3种使用升汞的处理污染率均在 $50 \%$ 以下，说明本试验中升汞灭菌效果更好；A处理是升汞灭菌 $5 \mathrm { m i n }$ ，B处理是升汞灭菌 $8 ~ \mathrm { m i n }$ ，A处理污染率比B处理高 $1 3 . 3 4 \%$ ，成活率低 $1 0 . 0 2 \%$ ，说明升汞灭菌8min 效果比 $5 \mathrm { m i n }$ 好； $\mathrm { ~ D ~ }$ 处理是 $\mathrm { C a } ( \mathrm { C l O } ) _ { 2 }$ 和升汞结合灭菌，污染率比B处理低 $10 . 0 0 \%$ ，成活率高 $3 . 2 4 \%$ ，效果略优。外植体褐化现象是由外植体被切割后，破裂溶酶体中的酚氧化酶把细胞质中的酚氧化为醌产生的。综合考虑，‘杨氏金红50号'猕猴桃带芽茎段灭菌的最佳处理为 $7 5 \%$ 酒精 $3 0 ~ \mathrm { s + 1 5 \% ~ C a ( C l O ) _ { 2 } 5 \mathrm { m i n + 0 . 1 \% } }$ 升汞 $8 \mathrm { m i n }$
+
+表1不同灭菌方法获取‘杨氏金红50号'猕猴桃无菌带芽茎段的效果  
+Table l the effect of different sterilization methods to obtain aseptic stem with buds of Actinidia chinensis‘Yangshi Jinhong 50'   
+
+<html><body><table><tr><td>消毒方法 Disinfection method</td><td>Chinensts 接种数 Inoculation number</td><td>TangsnJmong50 污染率 Pollution rate (%)</td><td>褐化率 Browning rate (%)</td><td>成活率 Survival rate (%)</td></tr><tr><td>A</td><td>30</td><td>43.34</td><td>16.68</td><td>39.98</td></tr><tr><td>B</td><td>30</td><td>30.00</td><td>20.00</td><td>50.00</td></tr><tr><td>C</td><td>30</td><td>70.00</td><td>3.33</td><td>26.67</td></tr><tr><td>D</td><td>30</td><td>20.00</td><td>26.76</td><td>53.24</td></tr></table></body></html>
+
+2.2‘杨氏金红50号'猕猴桃腋芽的诱导
+
+带腋芽茎段接种后，培养7d左右腋芽开始萌发， $1 3 \mathrm { ~ d ~ }$ 左右可看到明显的呈浅绿色的小芽，随着培养的继续，腋芽逐渐变成深绿色， $3 5 \mathrm { ~ d ~ }$ 后，最高的出芽率达 $91 . 6 7 \%$ （表2)，芽的高度在 $2 \sim 5 \mathrm { c m }$ 之间。
+
+根据表2可知，当培养基中6-BA浓度为 $3 { \sim } 5 ~ \mathrm { { m g } { \cdot } L ^ { - 1 } }$ 时， $0 . 1 \ \mathrm { m g \cdot L ^ { - 1 } }$ 的 NAA浓度最适合腋芽萌发，3种培养基中外植体的腋芽出芽率均在 $7 5 \%$ 及以上，其中2号培养基中外植体出芽率高达 $91 . 6 7 \%$ ，显著高于其余8种培养基，且芽健壮，茎、叶明显，生长旺盛（图1：A)；6号培养基中外植体的出芽率达到 $7 9 . 1 7 \%$ ，苗弱、细，叶片长势很好，茎短，不能正常伸长；整体上看，随着NAA浓度由 $0 . 1 \ \mathrm { m g \cdot L ^ { - 1 } }$ 升至 $0 . 3 ~ \mathrm { m g \cdot L ^ { - 1 } }$ ，对腋芽的出芽有抑制作用。因此，该研究得到的‘杨氏金红50号'猕猴桃茎段腋芽萌发的最佳培养基为 $\mathrm { M S ^ { + } }$ $4 . 0 \mathrm { m g ^ { . } L ^ { - 1 } 6 - B A + 0 . 1 \mathrm { m g ^ { . } L ^ { - 1 } N A A } }$
+
+表26-BA和NAA浓度组合对‘杨氏金红50号'猕猴桃带腋芽茎段腋芽萌发的影响 .able2 Effect of 6-BA and NAA on axillary bud germination from Stems with axillary buds of Actinidia chinensis‘Yangshi Jinhong 50'   
+
+<html><body><table><tr><td>序号 No.</td><td>6-BA (mg·L-1)</td><td>NAA (mg:L-1)</td><td>外植体数 Explant number</td><td>出芽率 Germination rate (%)</td></tr><tr><td>1</td><td>3.0</td><td>0.1</td><td>24</td><td>83.33±0.07ab</td></tr><tr><td>2</td><td>4.0</td><td>0.1</td><td>24</td><td>91.67±0.07a</td></tr><tr><td>3</td><td>5.0</td><td>0.1</td><td>24</td><td>75.00±12.5ab</td></tr><tr><td>4</td><td>3.0</td><td>0.2</td><td>24</td><td>54.17±0.14bc</td></tr><tr><td>5</td><td>4.0</td><td>0.2</td><td>24</td><td>33.33±14.4c</td></tr><tr><td>6</td><td>5.0</td><td>0.2</td><td>24</td><td>79.17±0.26ab</td></tr><tr><td>7</td><td>3.0</td><td>0.3</td><td>24</td><td>58.33±0.07bc</td></tr><tr><td>8</td><td>4.0</td><td>0.3</td><td>24</td><td>41.67±0.07c</td></tr><tr><td>9</td><td>5.0</td><td>0.3</td><td>24</td><td>0d</td></tr></table></body></html>
+
+注：同列不同小写字母表示差异显著（ $\cdot P { < } 0 . 0 5 \$ ）Note:Different lowercase letters in the column indicate significant difference ( $\cdot P { < } 0 . 0 5 )$ ）：
+
+2.3‘杨氏金红50号'弼猴桃茎段基部愈伤组织的不定芽分化
+
+9 种培养基中接种的'杨氏金红50号'猕猴桃茎段基部均能大量形成愈伤组织（图1：B)，出愈率均在 $80 \%$ 以上，但愈伤组织再分化成不定芽的过程较慢，其进程为：前7d外植体底端明显膨大， $7 \sim 1 5 \mathrm { ~ d ~ }$ 之间形成愈伤组织，1月后愈伤组织才能再分化出芽，在 $1 \sim 3$ 个月之间愈伤组织会陆续长出不定芽。其中，7号培养基，即 $3 ~ \mathrm { { m g } { \cdot } L ^ { - 1 } 6 { - } B A { + } 0 . 3 ~ \mathrm { { m g } { \cdot } L ^ { - 1 } } }$ NAA出芽最快，出芽率最高，出芽时间在前2个月，出芽率达 $8 3 . 3 3 \%$ ，芽粗壮，长势良好（图1：C)；而1号培养基，即 $3 ~ \mathrm { { m g } { \cdot } L ^ { - 1 } ~ 6 { - } B A \mathrm { { + } ~ 0 . 1 ~ \mathrm { { m g } { \cdot } L ^ { - 1 } ~ N A A } } }$ ，出芽率虽然也高达$7 5 . 0 0 \%$ ，但整体出芽时间多为第2个月和第3个月，属后期出芽；其余7种培养基出芽率与上述两种差异显著（ $( P { < } 0 . 0 5 )$ 。结合表3可知，6-BA和NAA的浓度配比对茎段愈伤组织的诱导情况及愈伤组织再分化成芽的诱导率影响显著，NAA浓度不变时，随着6-BA浓度的升高，愈伤组织产生不定芽的诱导率呈下降趋势，6-BA浓度为 ${ 5 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 } }$ 时，出愈率虽然高，但出芽率却极低，6号培养基除少量芽分化外还有少量不定根分化，9号培养基的出芽率为0。因此，‘杨氏金红50号’猕猴桃茎段愈伤组织诱导及再分化形成不定芽的最佳培养基为 $\mathrm { M S + 3 \ m g { \cdot } L ^ { - 1 } 6 { \mathrm { - } } B A { \mathrm { + } } 0 . 3 \ m g { \cdot } L ^ { - 1 } N A A }$
+
+表3不同激素配比对‘杨氏金红50号'猕猴桃愈伤组织不定芽分化的影响able3 Effect of different hormone formulations on callus and bud differentiation inducing ofActinidia chinensis‘Yangshi Jinhong 50'  
+
+<html><body><table><tr><td>序号 No.</td><td>6-BA (mg·L-1)</td><td>NAA (mg·L-1)</td><td>外植体数 Explant</td><td>出愈率 Callus rate</td><td>出芽率 Germination rate</td></tr><tr><td>1</td><td>3.0</td><td>0.1</td><td>number 24</td><td>(%) 91.67abc</td><td>(%) 75.00±0.12ab</td></tr><tr><td>2</td><td>4.0</td><td>0.1</td><td>24</td><td>95.84ab</td><td>54.17±0.19c</td></tr><tr><td>3</td><td>5.0</td><td>0.1</td><td>24</td><td>95.83ab</td><td>12.50±0.00cf</td></tr><tr><td>4</td><td>3.0</td><td>0.2</td><td>24</td><td>83.33c</td><td>58.33±0.07bc</td></tr><tr><td>5</td><td>4.0</td><td>0.2</td><td>24</td><td>87.50bc</td><td>29.17±0.07de</td></tr><tr><td>6</td><td>5.0</td><td>0.2</td><td>24</td><td>100.00a</td><td>20.83±0.14de</td></tr><tr><td>7</td><td>3.0</td><td>0.3</td><td>24</td><td>95.82ab</td><td>83.33±0.07a</td></tr><tr><td>8</td><td>4.0</td><td>0.3</td><td>24</td><td>91.66abc</td><td>33.33±0.07d</td></tr><tr><td>9</td><td>5.0</td><td>0.3</td><td>24</td><td>100.00a</td><td>0f</td></tr></table></body></html>
+
+注：同列不同小写字母表示差异显著（ $\cdot P { < } 0 . 0 5 \$ ）°Note:Different lowercase letters in the column indicate significant difference ( $\scriptstyle P < 0 . 0 5 ,$ ）：
+
+# 2.4‘杨氏金红50号'猕猴桃丛生芽培养
+
+在丛生芽培养过程中，8d左右在芽底部的茎上会先长出少量愈伤组织，在愈伤组织上会出现芽点， $1 3 \sim 1 7 \mathrm { d }$ 便可观察到丛生芽的长出。根据表4可知，5号培养基的增殖效果最好，平均增殖系数达6.14（图1：D)，与其余的培养基有极显著差异（ $\scriptstyle { \big . } { P < 0 . 0 1 } { \big . }$ ；8号培养基平均增殖系数为5.10，比5号培养基稍差一点；7号培养基最差，只有个别不定芽增殖。试验发现，在NAA浓度不变时，随着6-BA浓度的升高，增值系数出现“低－高-低”的变化，可见，6-BA浓度为 $4 . 0 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 适合‘杨氏金红50号'猕猴桃丛生芽培养，相匹配的3种NAA浓度， $0 . 4 \ \mathrm { m g ^ { . } L ^ { - 1 } }$ 时效果最佳。所有培养基在植株的基部均有愈伤组织的形成，3，6，9号培养基基部的愈伤团较大；3、6号培养基共出现3个玻璃化芽；1号培养基增殖的不定芽颜色偏黄，长势畸形。因此，‘杨氏金红50号’猕猴桃的最佳丛生芽培养培养基为 $\mathrm { M S + 4 \ m g { \cdot } L ^ { - 1 } 6 { \mathrm { - } } B A { + } 0 . 4 \ m g { \cdot } L ^ { - 1 } N A A }$ 0
+
+表46-BA、NAA浓度组合对‘杨氏金红50号'猕猴桃丛生芽培养的影响
+
+Table4 Effect of 6-BA,NAA on clustered buds proliferation of Actinidia chinensis‘Yangshi   
+
+<html><body><table><tr><td colspan="5">Jinhong 50'</td></tr><tr><td>序号 No.</td><td>6-BA (mg·L-1)</td><td>NAA （mg·L-1)</td><td>植株数 Number of plants</td><td>增殖系数 multiplication</td></tr><tr><td>1</td><td>3.0</td><td>0.3</td><td>21</td><td>coefficient</td></tr><tr><td>2</td><td>4.0</td><td>0.3</td><td>21</td><td>2.62±0.92E 3.71±1.01CD</td></tr><tr><td>3</td><td>5.0</td><td>0.3</td><td>21</td><td>3.29±0.84D</td></tr><tr><td>4</td><td>3.0</td><td>0.4</td><td>21</td><td>2.48±0.92E</td></tr></table></body></html>
+
+<html><body><table><tr><td>5 4.0</td><td>0.4</td><td>21</td><td>6.14±1.27A</td></tr><tr><td>6</td><td>5.0 0.4</td><td>21</td><td>3.33±1.15D</td></tr><tr><td>7</td><td>3.0 0.5</td><td>21</td><td>1.14±0.35F</td></tr><tr><td>8</td><td>4.0</td><td>0.5 21</td><td>5.10±0.76B</td></tr><tr><td>9</td><td>5.0</td><td>0.5 21</td><td>4.24±0.88C</td></tr></table></body></html>
+
+注：同列不同大写字母表示差异显著（ $\cdot P { < } 0 . 0 1 \$ ）°Note:Different capital letters in the column indicate significant difference ( $\cdot P { < } 0 . 0 1 \$ ）：
+
+# 2.5‘杨氏金红50号'猕猴桃不定芽的生根
+
+不定芽在生根培养基中，12d左右在芽底部的茎上出现根点，从第18d开始产生不定根，第22d普遍生根，之后不定根伸长，在 $4 0 \mathrm { d }$ 左右形成良好的根系。根据表5可以看出随着 IBA浓度的升高，‘杨氏金红50号猕猴桃不定芽的生根情况有显著差异。除3号培养基外，整体培养基的生根率、平均生根数、平均根长均随着 IBA浓度升高而变化，在0.9$\mathrm { { m g } { \cdot } L ^ { - 1 } \ I B A }$ 处理时达到最大值，株高则随着IBA浓度升高而降低。 $0 . 9 \ \mathrm { m g \cdot L ^ { - 1 } \ I B A }$ 处理的生根率最高( $7 2 . 6 4 \%$ )、平均生根数较多（25.67条）、根长较长( $2 . 6 7 \mathrm { c m }$ ）（图1：E)，其次是$1 . 1 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ IBA 处理，0.3、 $0 . 7 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ IBA处理两个处理生根率还不到 $40 \%$ ，平均生根数及根长亦较差。因此，‘杨氏金红50号’猕猴桃不定芽最佳的生根培养基为 $1 / 2 ~ \mathrm { M S } \mathrm { + } ~ 0 . 9$ mg:L-1 IBA 。
+
+表5IBA对‘杨氏金红50号'猕猴桃不定芽生根的影响  
+
+<html><body><table><tr><td colspan="4">Table5 Effect of IBA on adventitious buds rooting of Actinidia chinensis‘Yangshi Jinhong 50'</td><td rowspan="2">平均生根数 Average rooting</td><td rowspan="2">平均根长 Average root length</td><td rowspan="2">平均株高 Average plant height</td></tr><tr><td>序号 No.</td><td>IBA (mg·L-1)</td><td>总株数 Total plants</td><td>生根率 Rooting rate (%) number</td></tr><tr><td>1</td><td>0.3</td><td>21</td><td>30.91±0.38d</td><td>8.33±2.08c</td><td>(cm) 1.77±0.19c</td><td>(cm) 4.19±0.18a</td></tr><tr><td>2</td><td>0.5</td><td>21</td><td>65.08±1.01b</td><td>17.00±2.64b</td><td>2.03±0.21b</td><td>3.73±0.35b</td></tr><tr><td>3</td><td>0.7</td><td>21</td><td>35.96±0.61c</td><td>7.00±3.60c</td><td>1.64±0.58c</td><td>3.36±0.06bc</td></tr><tr><td>4</td><td>0.9</td><td>21</td><td>72.64±0.24a</td><td>25.67±5.51a</td><td>2.67±0.14a</td><td>3.08±0.14c</td></tr><tr><td>5</td><td>1.1</td><td>21</td><td>70.48±1.00a</td><td>23.33±0.74a</td><td>2.43±0.07a</td><td>3.01±0.03cd</td></tr><tr><td>6</td><td>1.3</td><td>21</td><td>62.58±2.03b</td><td>18.60±0.98b</td><td>1.80±0.18c</td><td>2.84±0.15d</td></tr></table></body></html>
+
+注：不同小写字母表示差异显著性（ $\cdot < 0 . 0 5$ ）
+
+Note:Different lowercase letters meant significant difference at O.O5 level.
+
+# 2.5生根苗移栽
+
+生根苗经1周左右的炼苗，移栽至配好的基质中，再经40d的观察，成活率达到$96 \%$ 以上，根系发达，适合进行田园种植（图1：F)。
+
+![](images/ff2d2b8955840a5a87c404a21be4f1e7b66eaf1f29816748eb86495e4ea66aa8.jpg)  
+图1‘杨氏金红50号'猕猴桃的组织培养
+
+注：A.腋芽萌发；B.茎段愈伤组织；C.愈伤组织诱导出不定芽；D.丛生芽；E.生根培养；F.移栽。   
+Note: A.Germination of stem with axillary bud; B.Callus of stem; C.Adventitious bud induction of Calls; D. Multiple shoot clumps; E. Rooting culture; F. Transplant.
+
+Fig.1 Tissue culture of Actinidia chinensis‘Yangshi Jinhong 50'
+
+# 3讨论
+
+激素的配比对组织培养起着决定性的作用，不同种类或浓度的激素对外植体生长和分化有不同的作用（黄奥丹等，2017；闫海霞等，2017)。关于诱导腋芽萌发，前人的研究不尽相同。同为中华猕猴桃系列品种的‘红阳’猕猴桃的最佳激素组合为 $1 . 0 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } \ : 6 .$ $\mathrm { B A ^ { + } 0 . 1 \ m g \cdot \ L ^ { - 1 } \ N A A }$ ，萌发率达 $8 3 . 3 3 \%$ （隆前进等，2010)；‘脐红’猕猴桃的最佳激素组合为 $2 . 0 \ \mathrm { m g \cdot L ^ { - 1 } 6 - B A + 0 . 1 \ m g \cdot L ^ { - 1 } \ N A A }$ ，萌发率达 $8 2 . 6 4 \%$ （王林青，2017）；‘Hort16A’猕猴桃的最佳激素组合为 $3 . 0 \ \mathrm { m g \cdot L ^ { - 1 } 6 - B A + 0 . 1 \ m g \cdot L ^ { - 1 } N A A }$ ，萌发率达 $8 5 . 1 5 \%$ （王林青，2017)；本试验利用较高浓度的6-BA和较低浓度的NAA 结合，腋芽萌发率为$91 . 6 7 \%$ ，高于上述三个品种，这可能是因为基因型的不同，导致不同品种所适应的激素浓度也不同。此外，试验发现茎段基部易产生愈伤组织，再分化出不定芽时，6-BA对其影响明显， $3 . 0 \ \mathrm { m g \cdot \ L ^ { - 1 } \ 6 - B A + 0 . 3 \ \mathrm { m g \cdot \ L ^ { - 1 } \ N A A } }$ 时出芽率达 $8 3 . 3 3 \%$ ，诱导过程不需更换培养基，这与常用的先用2,4-D 诱导愈伤组织，再用6-BA或 ZT 结合NAA 诱导不定芽（张太奎等，2017）更省时省力，这可能是由于‘杨氏金红50号’猕猴桃本身长势较好。关于丛生芽培养，刘峥等（2013）在总结猕猴桃组织培养研究进展时认为高浓度的6-BA对猕猴桃的不定芽增殖有促进作用，却会抑制茎的伸长。本试验得出丛生芽培养阶段最佳的6-BA使用浓度为 $4 . 0 \ \mathrm { m g \cdot L ^ { - 1 } }$ ，属于较高浓度，发现接种的不定芽虽有较高的增值系数，但却出现叶片生长过旺，茎生长缓慢的现象，不利于进一步的生根培养，这与刘峥的观点类似，具体原因有待于进一步试验探索。诱导不定芽生根时，吴秀华等（2013）通过比较 NAA、IBA对‘海沃德’猕猴桃生根的影响，得出IBA效果更优的结论；赵许朋等（2013）仅用
+
+IBA 诱导‘红阳’猕猴桃生根，也取得了很好的效果。本试验发现合适的IBA浓度可有效促进‘杨氏金红50号’猕猴桃生根，其作用只在一定范围内有效。
+
+本研究采用两种途径获得'杨氏金红50号'猕猴桃的无菌苗：一是诱导带芽茎段腋芽萌发，二是诱导茎段基部形成愈伤组织并产生不定芽。在已有的研究中，中华猕猴桃（谭晓明，2002）、软枣猕猴桃（林苗苗等，2016；牛晓林，2012）、狗枣猕猴桃（张玉杰，2014）成功构建了这两种途径的快繁体系；葛枣猕猴桃（王羽悦，2016）则通过带芽茎段腋芽萌发的途径建立了快繁体系；而大籽猕猴桃（姜维梅等，2003）的愈伤组织分化成苗困难。上述研究均指出诱导腋芽萌发的快繁途径比通过茎段基部愈伤组织诱导不定芽的快繁途径更节省培养时间，效率更高，该试验中诱导腋芽萌发需35d左右，而通过愈伤组织诱导不定芽的方式需 $2 \sim 3$ 个月，时间过长。胡科迪（1991）用猕猴桃嫩梢为材料进行组织培养，指出诱导带芽茎段腋芽萌发的途径在遗传性状上更稳定，可保持母株优良性状，愈伤组织在分化过程中出现变异的可能性大。因此，直接诱导腋芽萌发的快繁途径是‘杨氏金红50号’猕猴桃组培快繁的有效途径，通过愈伤组织产生的不定芽可为遗传转化研究提供基础。
+
+# 参考文献
+
+GE XL,2009,Establishment of high eficient reproduction systemof kiwifruit (Actinidia delitiousa) by in vitro culture[D].Hefei: Anhui Agricultural University:8-12.[葛新玲,2009.猕猴桃高效离体再生体系的建立 [D]．合肥：安徽农业大学:8-12.]   
+HUANG AD,LAN ZQ,WU T,2017.Regeneration of leaves of noni[J]. Guihaia,37(6): 749 - 756.[黄奥丹, 蓝增全，吴田，2017．诺丽叶片的离体再生[J].广西植物，37(6):749-756.]   
+HUANG HW,GONG JJ,WANGSM,et al,200. Genetic diversity in the genus Actinidia[J]. Biol Sci,8(1):1-12. [黄宏文，龚俊杰，王圣梅，等，2000.猕猴桃属（Actinidia）植物的遗传多样性[J].生物多样性， 8(1): 1- 12.   
+HU KD,1991.The ways of increasing tender branches of Altiniclin chinensis in tissue culture[J].JZhejiang For Sci Technol,11(3):63-64.[胡科迪，1991.猕猴桃组织培养育苗中嫩梢增殖试验[J]．浙江林业科技， 11(3): 63 - 64.]   
+JIANG WM,LIFY,2003.Establishment of plantlet regeneration system of Actinidia macrosperma[J].JZhejiang Univ (Agric Life Sci Ed),(3): 61- 65.[姜维梅，李凤玉，2003．大籽猕猴桃(Actinidia macrosperma)离体 再生系统的建立[J].浙江大学学报(农业与生命科学版)，(3):61-65.]   
+LIN MM,FANG JB,QI XJ,et al,2016.Establishment of regeneration of Actinidia arguta‘Tianyuanhong'[J]. Guihaia,36(11):1358-1362.[林苗苗，方金豹，齐秀娟，等，2016．软枣猕猴桃‘天源红'离体再生体 系的建立[J].广西植物，36(11): 1358-1362.]   
+LIN Y,LONG ZL, ZHANG L,et al， 2012. Optimum technological parameters for regeneration system of endosperm of Actindia chinese cv.‘JINTAO'[J]. JNucl Agric Sci. 26(2): $2 5 7 - 2 6 1 + 3 1 0$ [林颖，龙自立， 张璐，等，2012．猕猴桃胚乳再生植株体系的优化[J]．核农学报， $2 6 ( 2 ) \colon 2 5 7 - 2 6 1 + 3 1 0 . 7$ （20   
+LIU Z,ZHANG TK,ZHANG HY,2013.Research status and prospect of tissue culture of Actinidia chinensis[J]. J Fujian For Sci Technol, $4 0 ( 4 ) \colon 2 3 1 - 2 3 5 + 2 4 2 .$ [刘峥，张太奎，张汉尧，2013．猕猴桃组织培养研究现 状与展望[J].福建林业科技， $4 0 ( 4 ) \colon 2 3 1 - 2 3 5 + 2 4 2 .$ ！   
+LONG QJ, WU YJ, XIE M,2010. Tissue culture and rapid micro-propagation from leaves and stems of kiwifruit (Actinidia chinensis cv.Hongyang)[J].Acta Agric Zhejiang,22(04): 429 -432.[隆前进，吴延军，谢鸣， 2010.‘红阳'猕猴桃叶片和带芽茎段的组织培养快繁技术[J]．浙江农业学报，22(04):429 -432.]   
+NIU XL, 2012. Study on the tissue culture and micropropagation of Actinidia arguta in Mt. Changbai[D]. Nanjing: Nanjing Forestry University:10-20.[牛晓林，2012．长白山软枣猕猴桃组织培养和快繁技术研究[D]. 南京：南京林业大学：10-20.]   
+TAN XM, 20o2. Studies on the induction of calus and multipropagation in Actinidia chinesis on wuzhi. No.2[D]. Changsha: Central South University Forestry Technology:5-24.[谭晓明，2002.中华猕猴桃“武植 2 号”的微繁和愈伤组织的诱导[D]．长沙：中南林业科技大学:5-24.]   
+TANG LL, XIANG XQ, YANG JP, et al,2016. Submergence tolerance of LD-1'stock- grafted Actinidia deliciosa Miliang1[J].Guihaia,36(6):646-650.[唐玲玲，向小奇，杨江平，等，2016.‘LD-1'砧米粮一号猕猴桃 的耐涝性[J]．广西植物，36(6):646-650.]   
+WANG GF, 2017. Anther culture and regeneration system establishment of Actinidia arguta （ Sieb.& Zucc ） planch.ex Miq [D].Beijing:CAAS:5-10.[王广富，2017．软枣猕猴桃花药培养及再生体系建立[D]．北 京：中国农业科学院:5-10.]   
+WANG LQ,2017. Study on tissue culture and rapid propagation of kiwifruit[D]. Yangling: Northwest A & F Univ: 7-8.[王林青,2017．猕猴桃组织培养快繁技术研究[D]．杨凌：西北农林科技大学:7-8.]   
+WANG RL,LI Q,HE SS,et al,2018.Potential distributionof Actinidia chinensis in China and its predicted response to climate change[J].Chin JEco-Agric,26(01): 27-37.[王茹琳,李庆，何仕松，等,2018．中华 猕猴桃在中国潜在分布及其对气候变化响应的研究[J].中国生态农业学报,26(1):27-37.]   
+WANG YY,2016. Tissue culture and rapid propagation of Kiwi[D].Yangling: Northwest A& FUniversity: 22- 25. [王羽悦，2016．猕猴桃组织培养快速繁育技术研究[D]．杨凌：西北农林科技大学:22-25.]   
+WARRINGTON IJ, WESTON GC,1990. Kiwifruit: science and management[M ]. New Zealand: Ray Richards Publisher: 183-204.   
+WEI PF,2016.Establishment of in vitro regeneration system of kiwifruit by leaf explants and effcts oftransgenic kiwifruit with the antibacterial peptide D gene on protective enzyme activities [D]. Zhengzhou: Henan Agricultural University:18-25.[韦鹏飞，2016.猕猴桃叶片离体再生体系的建立和转抗菌肽D基因对 保护酶活性的影响[D]．郑州：河南农业大学:18-25.]   
+WU XH, ZHANG YL, ZHOU Y, et al,2013.Establishment of high frequencyand direct regeneration system from leaf of ‘Hayward' Kiwifruit [Actinidia deliciosa (A. Chev.)C.F.Liang etA.R.Ferguson][J]. Plant Physiol J, 49(8):759-763.[吴秀华，张艳玲，周月，等，2013.‘海沃德'猕猴桃叶片高频直接再生体系的建立[J]. 植物生理学报，49(8):759-763.]   
+YAN HX,DENG JL,HUANG YC,et al,2017. Study on tisse culture and rapid propagation of Primulina glandaceistriata[D].Guihaia,37(10):1270-1278.[闫海霞，邓杰玲，黄昌艳，等,2013．褐纹报春苣苔组 织培养与快速繁殖[D].广西植物，37(10):1270-1278.]   
+ZHANG TK,GUO T,LIU Z,et al,2017. In vitro regeneration system of‘Hort16A'kiwifruit introduced from abroad[J].JSWFor Univ,37(1):54-60.[张太奎，郭腾，刘峥，等,2017．国外引进品种‘Hort16A'猕猴桃 离体再生体系建立[J]．西南林业大学学报,37(1):54- 60.]   
+ZHAO XP, ZHOU Y, YANG L,et al,2013.Establishment of a highly eficient regemeration system from stem segments of‘RedSun' Kiwifruit(Actinidia chinensis)[J].JSW Univ (Nat Sci Ed),35(2): 6-10.[赵许朋，周 月，杨立，等，2013.“红阳"猕猴桃茎段高效再生体系的建立[J]．西南大学学报(自然科学版)，35(2): 6- 10.]   
+ZHANG YJ, 2014. Study on Actinidia kolomikta in vitro rapid propagation[D]. Changchun: Jilin Agricultural University:20-25．[张玉杰，2014.狗枣猕猴桃离体快繁的研究[D]．长春：吉林农业大学:20-25.]

@@ -1,0 +1,401 @@
+[
+    {
+        "type": "text",
+        "text": "河西走廊西段戈壁灌木群落多样性及其分布格局研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "董雪1,5，李永华2.34，辛智鸣15，段瑞兵15，姚斌²， 包岩峰²，黄雅茹1.5，张正国² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1中国林业科学研究院沙漠林业实验中心,内蒙古磴口015200；2中国林业科学研究院荒漠化研究所,北  \n京100091；3库姆塔格荒漠生态系统国家定位观测研究站，甘肃 敦煌736200；4甘肃敦煌荒漠生态系统国家定位观测研究站，甘肃 敦煌736200；5内蒙古磴口荒漠生态系统国家定位观测研究站，内蒙古 磴口015200)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：通过野外样方调查河西走廊西段荒漠戈壁典型灌木群落多样性状况，研究探讨了8种典型灌木群落物种多样性的空间分布格局及其与地理因子的关系，对荒漠戈壁植物群落的多样性的保护和可持续发展具有重要意义。结果表明:(1)8个典型灌木群落Shannon-Wiener指数、Simpson指数、Margalef指数和Pielou指数从高到低为：盐爪爪群落 $>$ 麻黄群落 $>$ 合头草群落 $>$ 红砂群落 $>$ 梭梭群落 $>$ 泡泡刺群落 $>$ 多枝怪柳群落 $>$ 沙拐枣群落；波动范围分别为 $0 . 3 1 4 \\sim 1 . 3 5 5 , 0 . 1 7 9 \\sim 0 . 6 6 6 , 0 . 3 3 4 \\sim$ 1.222 和 $0 . 0 5 1 \\sim 0 . 2 1 8$ ，说明荒漠戈壁灌木群落物种多样性指数偏低，群落结构简单，物种组成稀少。(2)不同灌木群落内物种数越多，群落间Jaccard相似性系数越大。大部分灌木群落类型间Jac-card相似性在 $0 . 2 0 \\sim 0 . 6 0$ 之间，群落间相似水平较低，群落相对稳定。(3)随着海拔的升高，Margalef指数、Pielou指数和Shannon-Wiener指数均呈先增加后降低的单峰型分布格局，最大值出现在海拔$2 0 0 0 \\mathrm { m }$ ，且与海拔显著相关( $_ { ( P < 0 . 0 5 ) }$ ；在经度梯度上，从东到西，Margalef指数、Pielou指数和Shan-non-Wiener指数呈递增格局，但与经度无显著相关性( $\\scriptstyle P > 0 . 0 5 )$ ；在纬度梯度上，从南到北，Margalef指数、Pielou指数和Shannon-Wiener指数呈显著递增趋势 $( P { < } 0 . 0 5 )$ 。总体上，荒漠戈壁灌木群落物种多样性呈现出明显的垂直(海拔)和纬度地带性分布格局。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：荒漠戈壁；灌木群落；物种多样性；地理分布",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "物种多样性的分布格局是指物种多样性在海拔、经度和纬度梯度上的空间分异规律[1-2]。其中海拔梯度用于主要表征温度变化特征，经度梯度用于主要表征降水变化特征，而纬度梯度作为综合性指标还可以用于表征温度年较差和太阳辐射等信息[3-4]。植物多样性在区域尺度上随海拔的变化会出现3种分布格局。其中最常见的2种类型：一是先升高后降低的单峰型格局，主要在温带干旱区较为常见[5-10]；二是随着海拔的升高而降低的单调下降型格局[11-13]。少量研究表明物种多样性在海拔梯度上无明显的变化规律[14]。多数研究表明，物种多样性随着纬度的增加呈递减趋势或在中纬度地区出现峰值[15-20]。有关物种多样性分布格局对经度梯度响应的研究鲜见报道。灌木群落在干早区发挥的生态效益巨大，其对恶劣环境的适应性极强，而且在区域生态环境保护和替代能源方面发挥着极其重要的作用，开展荒漠生态区物种多样性的研究，明确荒漠区植物物种多样性的维持机制十分迫切。因此，本研究通过分析植物群落物种多样性的地理分布格局，探究植物群落多样性沿环境梯度的变化规律和植物种间共存与外界环境适应性等具有深远意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "荒漠戈壁生态自然环境复杂多变，土壤质地的异质性较强，因此独特的植物资源孕育而生[2]。与沙漠中的植被生态系统相比较[22-23],在植被群落结构组成上，灌木占有绝对的优势地位，而一年生或多年生的草本植物相对较少,且物种组成更加简单[24]。因此灌木植物在研究荒漠戈壁地区脆弱生态环境修复及植物群落的演替与保护中具有重要的地位。鉴于荒漠戈壁区恶劣的自然环境，处于无信号区且交通不便，造成调查荒漠戈壁植被群落物种多样性的工作很困难，因此相关报道比较少，且主要集中在植被群落的特征及其影响因素[21-24],但针对荒漠戈壁灌木群落物种多样性沿水平和垂直尺度变化的研究未见报道。加之全球气候变化和人类活动对环境的影响，通过监测荒漠戈壁主要灌木群落的多样性，了解典型灌木植物资源沿海拔、经度和纬度梯度的分布规律及群落特征，为荒漠戈壁天然植被恢复与利用,以及生物多样性保护与可持续管理提供科学的基础数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区处于河西走廊的西端，行政区地跨敦煌市、金塔县、瓜州县、肃北县和阿克塞县且全部属于甘肃省境内，主要的山脉有阿尔金山、祁连山、马鬃山和北山，整个区域地势南高北低，海拔梯度相差较大为 $8 0 0 { \\sim } 3 ~ 2 0 0 ~ \\mathrm { m }$ 之间,地理区域为 $9 2 ^ { \\circ } 0 9 ^ { \\prime } { \\sim } 1 0 0 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { E }$ $3 7 ^ { \\circ } 5 8 ^ { \\prime } { \\sim } 4 2 ^ { \\circ } 4 8 ^ { \\prime } \\mathrm { N } _ { \\circ }$ 。研究区的气候属于中温带干旱型，降水量分配极不均匀，呈现出由南向北递减的趋势，祁连山地年降水量最大，可达 $3 0 0 \\mathrm { m m }$ 左右，而北部马鬃山地的降水量最小，仅为 $3 9 \\mathrm { m m }$ 左右，但蒸发量均在 $2 0 0 0 { \\sim } 4 0 0 0 \\mathrm { m m }$ 之间；昼夜温差较大，年均气温 $4 { \\sim } 1 0 \\ \\mathrm { ~ \\textdegree C }$ ，太阳辐射强，年日照总时数超过$3 0 0 0 { \\sim } 4 0 0 0 \\mathrm { h }$ 。该区具有荒漠戈壁典型的气候特点降水稀少，日照时间长，干旱多风且风力强劲，冬冷夏热。棕漠土为主要土壤类型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 样地的设置与调查于2018年8月和2019年6月分2次进行野外实地监测，沿调查路线设置植被样方，利用GPS工具箱记录每一个样地的经度、纬度和海拔信息(表1)，记录样方内出现的所有植物种，并测量其高度、冠幅和株数。灌木设置10$\\mathrm { m } { \\times } 1 0 \\mathrm { m }$ 的大样方，草本设置 ${ 1 \\mathrm { m } { \\times } 1 \\mathrm { m } }$ 的小样方，植被类型发生变化需增设样地，共计布设75个样地，每个样地5个灌木样方和9个草本样方(图1)。样地植被群落盖度通过无人机拍摄图像，使用Pix4D拼接无人机拍摄图像，应用ENVI获取样地内灌木群落总盖度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1研究区域8个典型群落样地特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/9aee4f1e83b546c9b9977ca09165bb4d43c782e4eeacc0dde97b186a3241b6b5.jpg",
+        "table_caption": [
+            "Tab.1 Sample plotcharacteristicsof eight typical shrub communities of the study area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>群落类型</td><td>样方数</td><td>海拔/m</td><td>经度/E</td><td>纬度/N</td></tr><tr><td>合头草群落</td><td>14</td><td>1 423~2 554</td><td>93.31~97.02</td><td>39.53~42.45</td></tr><tr><td>红砂群落</td><td>11</td><td>1 494~3 200</td><td>93.33~96.96</td><td>39.46~42.33</td></tr><tr><td>麻黄群落</td><td>9</td><td>1429~2 560</td><td>93.42~94.85</td><td>39.41~41.97</td></tr><tr><td>泡泡刺群落</td><td>14</td><td>1035~1945</td><td>93.49~96.81</td><td>39.60~41.58</td></tr><tr><td>盐爪爪群落</td><td>12</td><td>1768~3018</td><td>94.73~96.96</td><td>39.59~42.18</td></tr><tr><td>沙拐枣群落</td><td>6</td><td>847~1481</td><td>93.12~94.39</td><td>39.74~40.52</td></tr><tr><td>梭梭群落</td><td>5</td><td>969~1391</td><td>93.54~95.49</td><td>39.87~41.74</td></tr><tr><td>多枝柽柳群落</td><td>4</td><td>980~1334</td><td>93.98~95.93</td><td>39.97~40.44</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fea04946dd9e162fc02aa9a021937265b4adf6d5d60c980405199a598308c33c.jpg",
+        "img_caption": [
+            "图1样地设置",
+            "Fig.1 Sample plot setting "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2计算公式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）重要值 $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } =$ （相对密度 $^ +$ 相对盖度 $+$ 相对频度）/3  \n(2) $\\alpha$ -多样性：  \n丰富度指数Margalef指数： $R = ( S - 1 ) / \\ln { N }$   \n均匀度指数Pielou均匀度指数：$E { = } ( - \\sum P _ { i } \\ln P _ { i } ) / \\ln S$   \nShannon-Wiener多样性指数： $H = - \\sum _ { i = 1 } ^ { s } P _ { i } \\mathrm { l n } P _ { i }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Simpson多样性指数： $D = 1 - { \\sum _ { i = 1 } ^ { s } } { \\left( P _ { i } \\right) ^ { i } }$ (3) $\\beta \\mathrm { \\cdot }$ -多样性Jaccard相似性系数： $C _ { j } = c / a + b - c$ Cody指数： $\\beta _ { c } = ( a + b - 2 c ) / 2$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：S是样方内总的物种数； $N$ 是样方内所有物种的个数总和； $P _ { i }$ 是第 $i$ 种的个数占所有物种个体总数的比例； $\\boldsymbol { a } , \\boldsymbol { b }$ 是不同样方内的物种数； $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 是两个样方内共有物种数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3数据分析利用Excel2003软件绘制散点图，从线性、对数、乘幂、指数、多项式等趋势线中选择出 $R ^ { 2 }$ 值最大的趋势线添加到散点图中，用以探究沿海拔、经度和纬度梯度下多样性指数变化规律，用线性表示其变化趋势。通过国家气象局气象共享网站，收集研究区域内网格气象数据，采用二次插值法获取75个样地年平均降雨量、年平均气温，采用相关分析法研究荒漠戈壁灌木群落盖度和多样性与2个气象因子之间的关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1戈壁灌木群落物种组成",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "灌木(半灌木)物种有29种，隶属于11科22属，其中以藜科和菊科为优势科，分别有8和6种灌木，两者所占总物种数的比例为 $4 8 . 2 8 \\%$ (表2)。根据物种重要值划分灌木群落类型有8种，分别为：合头草群落、红砂群落、麻黄群落、泡泡刺群落、盐爪爪群落、沙拐枣群落、梭梭群落和多枝怪柳群落，各群落类型平均物种数分别为19、20、17、13、20、4、7和8种。各种典型灌木群落中的次优势植物种存在一定的差异，合头草群落伴生的物种以红砂和泡泡刺占优势，其重要值分别为0.159和0.075;红砂群落伴生的物种以泡泡刺和合头草占优势，其重要值分别为0.179和0.068;麻黄群落伴生的物种以合头草和红砂占优势，其重要值分别为0.236和0.093;泡泡刺群落伴生的物种以红砂和麻黄占优势，其重要值分别为0.074和0.049;盐爪爪群落伴生的物种以红砂和合头草占优势，其重要值分别为0.244和0.105；沙拐枣群落伴生的物种以麻黄和霸王占优势，其重要值分别为0.119和0.058；梭梭群落伴生的物种以泡泡刺和沙拐枣占优势，其重要值分别为0.142和0.109;多枝怪柳群落伴生的物种以骆驼刺和泡泡刺占优势，其重要值分别为0.154和0.129。群落内物种优势度明显，其中，红砂、合头草、泡泡刺在各群落中出现的频率较高且重要值均较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/add38a3ec6395ef47d017174c35801ce3d56a4a70ef83a5d8e9fe0180d1399ad.jpg",
+        "table_caption": [
+            "表2不同灌木群落物种组成及其重要值",
+            "Tab.2 Species composition and its importance value in shrub community "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>物种</td><td>合头草群落</td><td>红砂群落</td><td>麻黄群落</td><td>泡泡刺群落</td><td>盐爪爪群落</td><td>沙拐枣群落</td><td>梭梭群落</td><td>多枝怪柳群落</td></tr><tr><td>合头草Sympegma regelii</td><td>0.406</td><td>0.068</td><td>0.236</td><td>0.019</td><td>0.105</td><td></td><td>0.073</td><td></td></tr><tr><td>红砂 Reaumuria songarica</td><td>0.159</td><td>0.447</td><td>0.093</td><td>0.074</td><td>0.244</td><td></td><td>0.063</td><td></td></tr><tr><td>麻黄 Ephedra przewalskii</td><td>0.060</td><td>0.032</td><td>0.327</td><td>0.049</td><td>0.019</td><td>0.119</td><td></td><td></td></tr><tr><td>泡泡刺 Nitraria sphaerocarpa</td><td>0.075</td><td>0.179</td><td>0.054</td><td>0.692</td><td>0.044</td><td></td><td>0.142</td><td>0.129</td></tr><tr><td>盐爪爪Kalidium foliatum</td><td>0.041</td><td>0.025</td><td></td><td></td><td>0.368</td><td></td><td></td><td>0.009</td></tr><tr><td>沙拐枣 Calligonum mongolicum</td><td></td><td>0.005</td><td>0.060</td><td>0.029</td><td></td><td>0.807</td><td>0.109</td><td>0.032</td></tr><tr><td>梭梭Haloxylon ammodendron</td><td></td><td>0.019</td><td></td><td></td><td>0.009</td><td></td><td>0.550</td><td></td></tr><tr><td>多枝怪柳 Tamarix ramosissima</td><td>0.031</td><td>0.008</td><td>0.065</td><td>0.006</td><td>0.003</td><td></td><td></td><td></td></tr><tr><td>霸王 Sarcozygium xanthoxylon</td><td>0.018</td><td></td><td>0.034</td><td>0.040</td><td>0.010</td><td>0.058</td><td></td><td></td></tr><tr><td>裸果木Gymnocarpos przewalskii</td><td>0.049</td><td>0.022</td><td>0.044</td><td>0.010</td><td>0.010</td><td></td><td></td><td></td></tr><tr><td>紫菀木Asterothamnus alyssoides</td><td>0.015</td><td></td><td>0.013</td><td></td><td>0.002</td><td></td><td></td><td></td></tr><tr><td>灌木铁线莲Clematis fruticosa</td><td>0.061</td><td>0.034</td><td>0.015</td><td>0.033</td><td>0.029</td><td></td><td></td><td></td></tr><tr><td>菁状亚菊Ajania achilloides</td><td>0.014</td><td>0.044</td><td>0.008</td><td>0.037</td><td>0.001</td><td></td><td></td><td></td></tr><tr><td>短叶假木贼 Anabasis brevifolia</td><td></td><td>0.014</td><td>0.010</td><td></td><td>0.017</td><td></td><td></td><td></td></tr><tr><td>荒漠锦鸡儿Caragana roborovskyi</td><td></td><td>0.010</td><td>0.004</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>旱蒿Artemisia xerophytica</td><td></td><td>0.016</td><td></td><td>0.005</td><td></td><td></td><td></td><td></td></tr><tr><td>木本猪毛菜 Salsola arbuscula</td><td>0.004</td><td>0.007</td><td></td><td>0.005</td><td>0.014</td><td></td><td></td><td></td></tr><tr><td>松叶猪毛菜Salsola laricifolia</td><td>0.014</td><td>0.041</td><td>0.021</td><td></td><td>0.036</td><td></td><td>0.008</td><td></td></tr><tr><td>细枝盐爪爪 Kalidium gracile</td><td>0.019</td><td></td><td></td><td></td><td>0.033</td><td></td><td></td><td></td></tr><tr><td>驼绒藜Ceratoides latens</td><td>0.005</td><td></td><td>0.009</td><td></td><td>0.025</td><td></td><td></td><td></td></tr><tr><td>毛刺锦鸡儿Caragana tibetica</td><td>0.002</td><td>0.002</td><td>0.002</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>沙木蓼Atraphaxis bracteata</td><td></td><td>0.005</td><td>0.005</td><td></td><td></td><td>0.017</td><td></td><td></td></tr><tr><td>白沙蒿 Artemisia sphaerocephala</td><td></td><td>0.008</td><td></td><td></td><td></td><td></td><td></td><td>0.615</td></tr><tr><td>灌木亚菊Ajania fruticulosa</td><td>0.021</td><td>0.013</td><td></td><td></td><td>0.030</td><td></td><td></td><td></td></tr><tr><td>猫头刺Oxytropis aciphylla</td><td>0.002</td><td></td><td></td><td></td><td>0.001</td><td></td><td></td><td></td></tr><tr><td>油蒿Artemisia ordosica</td><td>0.006</td><td></td><td></td><td>0.002</td><td>0.001</td><td></td><td></td><td></td></tr><tr><td>骆驼刺Alhagi sparsifolia</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.056</td><td>0.154</td></tr><tr><td>小叶金露梅 Potentilla parvifolia</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.030</td></tr><tr><td>尖叶盐爪爪 Kalidium cuspidatum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.031</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2灌木群落物种 $\\pmb { \\alpha }$ 多样性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同灌木群落的Margalef指数、Pielou指数、Shannon-Wiener指数和Simpson指数均表现为盐爪爪群落最大，沙拐枣群落最小，各群落指数的波动范围分别为 $0 . 3 3 4 \\sim 1 . 2 2 2 , 0 . 0 5 1 \\sim 0 . 2 1 8 , 0 . 3 1 4 \\sim$ 1.355和 $0 . 1 7 9 \\sim 0 . 6 6 6$ （图2)。从8个典型灌木群落物种多样性的总体情况看，荒漠戈壁典型灌木群落物种多样性水平低，说明戈壁区自然环境恶劣，灌木群落物种组成简单且物种分布极不均匀。但环境因子的异质性较强，造成不同植被群落在各自微环境下，其多样性水平差异显著：如多枝怪柳仅分布于河床岸周围，受水分影响群落稳定性较差，而合头草和麻黄具有适应风沙和干旱的能力，分布面积广泛，群落稳定性较强，盐爪爪属于盐化草甸植物，积雪融化下泄有利于群落的形成，分布区覆沙较少且形成的盐结皮较为稳定，水土资源适宜从而形成的盐爪爪群落物种多样性丰富。方差分析结果表明，物种Margalef指数、Pielou指数和Shannon-Wiener指数以盐爪爪群落、麻黄群落和合头草群落的较大，而红砂群落、梭梭群落和泡泡刺群落的物种多样性指数显著降低（ $_ { ( P < 0 . 0 5 ) }$ ，多枝怪柳群落和沙拐枣群落显著小于其他各灌木群落类型( $\\scriptstyle { \\mathcal { P } } <$ 0.05)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3灌木群落β多样性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "大部分灌木群落Jaccard相似性系数主要集中在 $0 . 2 0 \\sim 0 . 6 0$ 之间(表3)，只有小部分灌木群落间的物种相似性存在差异，如多枝怪柳群落分别与合头草群落和盐爪爪群落的Jaccard相似性系数均为0.08且最低，而合头草群落与盐爪爪群落间的Jac-card相似性系数最高，达到 $0 . 8 6$ 。各灌木群落类型之间，多枝怪柳群落、梭梭群落和沙拐枣群落与其他灌木群落间的Jaccard相似性系数均小于0.30，说明这3个群落内物种组成简单且群落内物种的生态位宽度较窄。合头草、红砂、麻黄、泡泡刺和盐爪爪5个灌木类型群落间的物种Jaccard相似系数较高，总体平均相似性Jaccard系数均大于0.50，表明这5类灌木群落的物种在戈壁区分布范围广泛且具有较强的适应能力，因此生态位幅度较宽。从Cody指",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aaa90fdcf323026a8846c47067571e9e65eefdd9217884b8063e88cc8bb61f3a.jpg",
+        "img_caption": [
+            "图2不同灌木群落间多样性比较",
+            "Fig.2Diversity analysis among different shrub communities "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f74310ca3f6bcbc865b343cb7b6807640d1aefca93cb3ea6840e733972616c99.jpg",
+        "table_caption": [
+            "表3不同灌木群落间β多样性比较",
+            "Tab.3 Correlations of $\\beta$ species diversity index in shrub communities "
+        ],
+        "table_footnote": [
+            "注：括号外的为Jaccard系数，括号内为Cody指数。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>合头草群落</td><td>红砂群落</td><td>麻黄群落</td><td>泡泡刺群落</td><td>盐爪爪群落</td><td>沙拐枣群落</td><td>梭梭群落</td><td>多枝柽柳群落</td></tr><tr><td>合头草群落</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>红砂群落</td><td>0.50 (6.5)</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>麻黄群落</td><td>0.57 (5.0)</td><td>0.61 (4.5)</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>泡泡刺群落</td><td>0.52 (5.0)</td><td>0.50 (5.5)</td><td>0.58 (4.0)</td><td>1.00</td><td></td><td></td><td></td><td></td></tr><tr><td>盐爪爪群落</td><td>0.86 (1.5)</td><td>0.54 (6.0)</td><td>0.54 (5.5)</td><td>0.50 (5.5)</td><td>1.00</td><td></td><td></td><td></td></tr><tr><td>沙拐枣群落</td><td>0.10 (9.5)</td><td>0.20 (8.0)</td><td>0.24 (6.5)</td><td>0.30 (4.5)</td><td>0.09 (10.0)</td><td>1.00</td><td></td><td></td></tr><tr><td>梭梭群落</td><td>0.18 (9.5)</td><td>0.29 (7.5)</td><td>0.26 (7.0)</td><td>0.25 (6.0)</td><td>0.23 (8.5)</td><td>0.10 (4.5)</td><td>1.00</td><td></td></tr><tr><td>多枝柽柳群落</td><td>0.08 (11.5)</td><td>0.17 (10.0)</td><td>0.09 (10.5)</td><td>0.11 (8.5)</td><td>0.08 (12.0)</td><td>0.09 (5.0)</td><td>0.25 (4.5)</td><td>1.00</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f144cdb5ed7ea66ddc5bf0fd458180d035547d3ddc4f719d76939577c23c9209.jpg",
+        "img_caption": [
+            "注：实线表示二项式，虚线表示线性",
+            "图3灌木群落盖度和多样性沿海拔、经度和纬度梯度的变化",
+            "ig.3Variation of shrub community coverage and diversity along altitude,longitude and latitude gradi "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数分析，多枝怪柳群落与盐爪爪群落的Cody指数最大12.0,其次与合头草群落Cody指数为11.5，合头草群落与盐爪爪群落间Cody指数最低，为1.5，说明Cody指数在不同群落间的变化趋势与Jaccard相似性相反。综上所述，群落内物种数越多，群落间Jac-card相似性系数越大，群落间Cody相异性指数越小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4戈壁灌木群落盖度和多样性的海拔、经度和纬度梯度",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植被盖度、Margalef指数、Pielou指数和Shan-non-Wiener指数均随着海拔的增加呈现出上升趋势（图3)，植被盖度与海拔的二项式分析显著相关( $P <$ 0.05)，且显示凹曲线，3个指数二项式显示凸曲线，且随着海拔呈现出先上升后下降的“单峰\"格局，在海拔 $2 0 0 0 \\mathrm { ~ m ~ }$ ，物种多样性的3个指数均达到最大值，且3个多样性指数与海拔之间呈现“中间膨胀”显著相关性 $( P { < } 0 . 0 5 )$ 。植被盖度、Margalef指数、Pielou指数和Shannon-Wiener指数随着经度的增加呈现出上升趋势，二项式变化趋势几乎与线性变化完全一致，除植被盖度与经度的相关性显著外( $P <$ 0.05），3个指数均与经度之间均无相关性( $P >$ 0.05）。植被盖度、Margalef指数、Pielou指数和Shannon-Wiener指数随着纬度的增加呈现出上升趋势，除植被盖度与纬度显示凹曲线且无显著相关性外 $( P { > } 0 . 0 5 )$ ,3个指数二项式变化趋势几乎与线性变化完全一致，其中Pielou和Shannon-Wiener指数均与纬度之间呈极显著正相关性( $_ { \\scriptstyle P < 0 . 0 1 }$ ）,Margalef指数与纬度之间呈显著正相关性 $( P { < } 0 . 0 5 \\$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5荒漠戈壁灌木群落盖度和多样性与气象因子的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "物种多样性与气象因子的相关分析表明（表4）,Margalef指数、Pielou指数和Shannon-Wiener指数与降雨呈正相关，与温度呈负相关，但均未达到显著水平( ${ \\it P } { > } 0 . 0 5 { \\it \\Psi }$ )。气象因子仅对群落植被盖度有",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4灌木群落盖度、物种多样性与气象因子的相关系数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b022ada38fa25dd17e41ec0aea2fd48d36702556a04c47442214d4019f786bc2.jpg",
+        "table_caption": [
+            "Tab.4 Coeficients among community coverage,species diversity and meteorological factors "
+        ],
+        "table_footnote": [
+            "注：\\*表示显著（ $\\scriptstyle \\cdot P < 0 . 0 5 .$ ） $^ { * * }$ 表示极显著( $_ { \\scriptstyle P < 0 . 0 1 } )$ 0"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>盖度</td><td>margalef</td><td>Pielou</td><td>Shannon-Wiener</td></tr><tr><td>降雨</td><td>0.345**</td><td>0.072</td><td>0.127</td><td>0.172</td></tr><tr><td>温度</td><td>-0.357**</td><td>-0.075</td><td>-0.071</td><td>-0.110</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "显著影响，群落盖度与降雨呈极显著正相关( $\\scriptstyle { \\mathrm { . } } P <$ 0.01)，与温度呈极显著负相关（ $\\scriptstyle { \\overbrace { P { < } 0 . 0 1 } }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1戈壁灌木群落物种多样性特征 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "河西走廊西段地势南高北低，自西南向东北倾斜，具有低纬度区域海拔高，高纬度区域海拔低的特点，海拔从低到高地形起伏较大，海拔对河西走廊西段荒漠戈壁灌木群落的空间分布特征和物种多样性变化影响较大，而且纬度地带性也较明显。物种多样性可以客观反映群落中物种组成的丰富程度及其分布的均匀程度，戈壁区典型灌木群落多样性指数相比荒漠区群落物种多样性水平偏低[2528]，反映研究区荒漠戈壁植被群落物种稀少、群落结构相对简单且物种分布极不均匀的特点，但物种多样性低并不能说明生态系统结构稳定性差[29-30],优势种群以灌木和半灌木为主，主要以密集型的克隆繁殖生长维持群落多样性。研究区典型灌木群落物种多样性Shannon-Wiener指数表现为：盐爪爪群落>麻黄群落 $\\mathrm { > }$ 合头草群落 $>$ 红砂群落>梭梭群落>泡泡刺群落 $>$ 多枝怪柳群落 $>$ 沙拐枣群落，8个灌木群落的Margalef指数和Pielou指数的排序与Shannon-Wiener指数完全相同。不同灌木群落类型间物种数越多，群落间相似性系数相对较高，Cody指数在不同群落间的变化趋势与Jaccard相似性相反。本研究中的28对灌木群落按照Jaccard相似性系数大小划分为4个等级，其中1对群落类型间属于极相似水平(0.751)，9对群落类型间属于中等相似水平中 $( 0 . 5 0 \\sim 0 . 7 5 ) \\$ ,5对群落类型间属于中等不相似水平$( 0 . 2 5 \\sim 0 . 5 0 )$ )，13对群落类型间属于极不相似水平（204号 $( 0 . 0 0 \\sim 0 . 2 5 )$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2环境因子对物种多样性格局的综合影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究区荒漠戈壁灌木群落物种多样性分布受阿尔金山、祁连山、马鬃山和北山的影响造成水分和温度重新再分配，使得灌木群落物种多样性呈现出垂直地带性分布，沿海拔和纬度梯度有显著的变化规律，但经度变化规律不明显。本研究中，沿海拔梯度上，荒漠戈壁灌木群落多样性指数随海拔的升高总体呈先增加后降低的单峰型变化趋势，但沿纬度呈显著递增趋势。海拔变化会引起的降雨和温度气象因子的变化，从而是导致群落物种组成和",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "多样性发生变化的主要原因[31-33]。前期研究表明,降雨越大，物种多样性越大[36],通常海拔每升高100$\\mathrm { ~ m ~ }$ ,温度降低 $0 . 6 ^ { \\circ } \\mathrm { C }$ ,造成植被群落多样性应更低[35]。本研究结果显示，荒漠戈壁灌木群落多样性与降雨量总体上呈正相关，与温度呈负相关，但均未达到显著水平。说明海拔引起的降雨和温度的变化不足以影响物种多样性的变化，反映出调查样点小生境差异性对物种多样性产生很大影响，甚至已经超越了气候因子的作用。一般来讲,在大尺度环境梯度上温度和水分是影响物种分布格局和植被群落多样性的重要因素[3],但在较小尺度上,如本研究结果所述，物种多样性更容易受小生境异质性的影响，因此在不同尺度下，物种多样性分布格局对环境因子的响应存在差异[37]。对于长期适应荒漠戈壁恶劣自然环境的植物来讲，只有群落盖度对降雨和温度变化存在显著响应，研究区由于降雨稀少，缺乏短命植物，优势群落建群种优势度高，绝大部分典型灌木物种已形成了自身稳定的生理调节机制结构功能，因此荒漠戈壁灌木群落物种多样性并没有随降雨的增大显著增大，同样也没有随着温度的降低而显著减小，物种多样性空间分布呈现明显的垂直(海拔)和纬度分布格局。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] 叶万辉.物种多样性与植物群落的维持机制[J].生物多样性,   \n2000,8(1):17-24.[YE Wanhui.The maintenance mechanism of plant community and its species diversity[J]. Chinese Biodiversity,   \n2000,8(1): 17-24.] [2] 高俊峰,马克明,冯宗伟.景观组成、结构和梯度格局对植物多 样性的影响[J].生态学杂志,2006,25(9):1087-1094.[GAO Junfeng,MA Keming,FENG Zongwei.Effects of landscape composition,structure and gradient pattern on plant diversity[J]. Chinese Journal of Ecology,2006,25(9): 1087-1094.] [3] WEBBGE,SANDO WJ,RAYMONDA.Mississippian coral latitudinal diversity gradients (western interior United States): Testing the limits of high resolution diversity data[J]. Journal of Paleont,   \n1997,71: 780-791. [4] BROWN JH,LOMOLINO M V.Biogeography[M]. Sunderland, Mass: Sinauer,1998. [5] WESCHE K,VONWEHRDEN H. Surveying southern Mongolia: Application of multivariate classification methods in drylands with low diversity and long floristic gradients[J].Applied Vegetation Science,2011,14(4): 561-570. [6]王国宏.祁连山北坡中段植物群落多样性的垂直分布格局[J] 生物多样性,2002,10(1): 7-10.[WANG Guohong.Species diversity of plant communities along an altitudinal gradient in the middle section of northern slopes of Qilian Mountains,Zhangye, Gansu, China[J]. Chinese Biodiversity,2002,10(1): 7-10.]   \n[7]MCCAIN C M. Elevational gradients in diversity of small mammals [J]. Ecology,2005,86:366-372.   \n[8] OOMEN M A, SHANKER K. Elevational species richness patterns emerge from multiple local mechanisms in Himalayanwoody plants[J].Ecology,2005,86:3039-3047.   \n[9]许佳,祝晓瞳,苑塏烨.额河源流采金矿区不同恢复措施对矿区 物种多样性和地上生物量的影响[J].干旱区地理,2019,42(3): 581-589.[XU Jia, ZHU Xiaotong, YUAN Kaiye.Eects of diferent restoration measures on species diversity and aboveground biomass of the gold mining area in headwaters of the Ertix River[J]. Arid Land Geography,2019,42(3): 581-589.]   \n[10]LIU B.Vertical paterns in plant diversity and their relations with environmental factors on the southern slope of the Tianshan Mountains(middlesection)in Xinjiang(China)[J]. Journal of Mountain Science,2017,14(4): 742-757.   \n[11]KIKKAWA J,WILLIAMS E E.Altitude distribution of land birds in New Guinea[J]. Search,1971,2: 64-65.   \n[12] TERBORGH J. Bird species diversity on an Andean elevation gradient[J].Ecology,1977,58:1007-1019.   \n[13] 杨启池,李亭亭,汪正祥,等.鄂西北珍稀濒危植物及物种多样 性空间尺度分析[J].植物科学学报,2019,37(4):464-473. [YANG Qichi,LI Tingting,WANG Zhengxiang,et al. Spatial scale analysis of the species diversity and distribution of rare and endangered plants in northwest Hubei, China[J]. Plant Science Journal, 2019, 37(4) : 464-473.]   \n[14]WILSON JB, SYKES M T. Some tests for niche limitation by examination of species diversity in the Dunedin area,New Zealand [J]. New Zealand Journal of Botany,1988,26(2): 237-244.   \n[15] QIAN H. Spatial patern of vascular plant diversity in north America north of Mexico and its floristic relationship with Eurasia[J]. Annals of Botany,1999,91: 71-283.   \n[16] CARDILLO M. Body size and latitudinal gradients in reginal diversity of New World birds[J].Global Ecologyand Biogeography, 2002,11: 59-65.   \n[17]QIAN H,RICKLEFS R E.A latitudinal gradient in large-scale beta diversity for vascular plants in north America[J].Ecology Letters,2007,10(8): 737-744.   \n[18] CLARKE A.Is therea latitudinal diversity cline in the sea[J]. Trends in Ecology and Evolution,1992,7: 286-287.   \n[19] COATES M.A comparison of intertidal assemblages on exposed and sheltered tropical and temperate rocky shores[J]. Global Ecology and Biogeography,1998,7: 115-125.   \n[20]SUGIMOTO N, HARA Y, YUMIMOTO K,et al. Dust emission estimated with an assimilated dust transport model using lidarnetwork data and vegetation growth in the gobi desert in Mongolia[J]. Sola, 2010,6: 125-128. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[21]何芳兰,刘世增,李昌龙,等.甘肃河西戈壁植物群落组成特征",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "及其多样性研究[J].干旱区资源与环境,2016,30(4):74-78. [HE Fanglan,LIU Shizeng,LI Changlong,et al. Study on composition and diversity of phytocoenosium in gobi region of Hexi, Gansu [J].Journal of Arid Land Resources and Environment, 2016,30 (4): 74-78.]   \n[22] 陈鹏,潘晓玲.河西走廊地区植物的区系特征[J].植物研究, 2001,21(1): 24-30.[CHEN Peng,PAN Xiaoling.The floristic characteristics in the area of the Hexi Corridor[J].Bulletin of Botanical Research,2001,21(1): 24-30.]   \n[23]夏延国,宁宇,李景文,等.中国黑戈壁地区植物区系及其物种 多样性研究[J].西北植物学报,2013,33(9):1906-1915.[XIA Yanguo,NING Yu,LI Jingwen, et al.Plant species diversity and floral characters in the Black Gobi Desert of China[J].Acta Botanica Sinica,2013,33(9): 1906-1915.]   \n[24]王健铭,董芳宇,巴海·那斯拉,等.中国黑戈壁植物多样性分布 格局及其影响因素[J].生态学报,2016,36(12):3488-3498. [WANG Jianming, DONG Fangyu,NASINA Bahai, et al. Plant distribution patterns and the factors influencing plant diversity in the Black Gobi Desert of China[J].Acta Ecologica Sinica,2016,36 (12): 3488-3498.]   \n[25] 马斌,周志宇,张莉丽,等.阿拉善左旗植物物种多样性空间分 布特征[J].生态学报,2008,28(12):6099-6106.[MA Bin, ZHOU Zhiyu,ZHANG Lili,et al. The spatial distribution characteristics of plant diversity in Alex Left Banner[J].Acta Ecologica Sinica, 2008,28(12):6099-6106.]   \n[26] 张佩,袁国富,庄伟,等.黑河中游荒漠绿洲过渡带多枝怪柳对 地下水位变化的生理生态响应与适应[J].生态学报,2011,31 (22):6677-6687.[ZHANG Pei,YUAN Guofu,ZHUANG Wei,et al.Ecophysiological responses and adaptation of Tamarix ramosissima to changes in groundwater depth in the Heihe River Basin[J]. Acta Ecologica Sinica,2011,31(22): 6677-6687.]   \n[27] 张锦春,王继和,赵明,等.库姆塔格沙漠南缘荒漠植物群落多 样性分析[J].植物生态学报,2006,30(3):375-382.[ZHANG Jinchun,WANG Jihe,ZHAO Ming,et al.Plant community and species diversity in the south fringe of Kumtag Desert[J]. Journal of Plant Ecology,2006,30(3): 375-382.]   \n[28] 张林静,岳明,张远东,等.新疆阜康绿洲荒漠过渡带植物群落 物种多样性特征[J].地理科学,2003,23(3):329-334.[ZHANG Linjing,YUE Ming,ZHANG Yuandong,et al. Characteristics of plant community species diversity of oasis desert ecotone in Fukang,Xinjiang[J]. Scientia Geographica Sinica,2003,23(3): 329- 334.]   \n[29] 李新荣,何明珠,贾荣亮.黑河中下游荒漠区植物多样性分布对 土壤水分变化的响应[J].地球科学进展,2008,23(7):685-691. [LI Xinrong,HE Mingzhu, JIA Rongliang. The response of desert plant species diversity to the changes in soil water content in themiddle-lower reaches of the Heihe River[J].Advances in Earth Science,2008,23(7): 685-691.]   \n[30] 中国黑戈壁地区生态本底科学考察队.中国黑戈壁研究[M].北 京：科学出版社,2014.[China Black Gobi Region Ecological Background Research Team.Black Gobi studies in China[M]. Beijing: Science Press,2014.]   \n[31] 王庆锁,冯宗炜,罗菊春.河北北部、内蒙古东部森林-草原交 错带生物多样性研究[J].植物生态学报,2000,24(2):141-146. [WANG Qingsuo,FENG Zongwei, LUO Juchun. Biodiversity of a forest-steppe ecotone in northern Hebei Province and eastern Inner Mongolia[J]. Journal of Plant Ecology,2000,24(2): 141-146.]   \n[32] 闻志彬,冯缨.新疆猪毛菜属植物多样性及其地理分布特征[J]. 干旱区研究,2020,37(1):185-192.[WEN Zhibin,FENG Ying. Biodiversity and geographical distribution of the genus Salsola L. in Xinjiang[J]. Arid Zone Research,2020,37(1): 185-192.]   \n[33] 王蕾,罗磊,刘鹏,等.塔里木河中下游水分干扰对胡杨林群落 物种多样性的影响[J].干旱区地理,2016,39(6):1275-1281. [WANG Lei,LUO Lei,LIU Peng.Biodiversityof Populus euphratica communities under water disturbance in middle and lower reaches of the Tarim River[J]. Arid Land Geography,2016,39(6): 1275-1281.]   \n[34] 张钦弟,卫伟,陈利顶,等.黄土高原草地土壤水分和物种多样 性沿降水梯度的分布格局[J].自然资源学报，2018,33(8): 1351-1362.[ZHANG Qindi,WEI Wei, CHEN Liding,et al. Spatial variation of soil moisture and species diversity patterns along a precipitation gradient in the grassands of the Loess Plateau[J]. Journal of Natural Resources,2018,33(8): 1351-1362.]   \n[35]唐志尧,方精云.植物物种多样性的垂直分布格局[J].生物多样 性,2004,(1): 2O-28.[TANG Zhiyao,FANG Jingyun.A review on the elevational pattrns of plant species diversity[J]. Chinese Biodiversity,2004, (1): 20-28.]   \n[36] WHITTAKER R J, WILLIS K J,FIELD R. Scale and species richness: Towards a general,hierarchical theory of species diversity [J]. Journal of Biogeography,2001,28: 453-470.   \n[37]GODFRAY HC J,LAWTONJH. Scale and species richness numbers[J]. Trends in Ecology and Evolution,2001,16: 400-404. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Gobi shrub species diversity and its distribution pattern in west Hexi Corridor ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DONG Xue1'， LI Yong-hua²4， XIN Zhi-ming1'， DUAN Rui-bing1’， YAO Bin²,BAO Yan-feng²， HUANG Ya-rul'5， ZHANG Zheng-guo²",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1ExperimetalCenterofertFrestryAFgkou,erongoliaina;sitteofeiti Studies,CAF,Beijingo9,China;3NationalForestryBureau'sKumtageDesertEcosstemLocationResearchtation Dunhuang7362o0,Gansu,China;4StateForestryAdministrationDunhuangDesertEcosystemLocationResearchStation Dunhuang362,Gansu,China;5StateForestryAdministrationDengkouDesertEcosystemLocationResearchtation, Dengkou 01520o,Inner Mongolia,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:To elucidate the plant diversityof typical shrub communities species diversityin west of Hexi Corridor, GansuProvince,China,spatial distribution paternof species diversityand its relationship with geographical factors were discussed in this paper via field sample survey.Itis important for maintaining,self-improvement,scientific conservation,and managing the diversity of the gobi shrub communities.Results showed that: (1) Simpson index, Shanon-Wiener index,richness Margalef index,and evennessPielou indexof eight desert gobi shrub communities are calculated and compared.The order is Kalidium foliatum community>Ephedra przewalskii community> Sympegma regelii community>Reaumuria songarica community>Haloxylon ammodendron community>Nitraria sphaerocarpa community> Tamarix ramosissima community>Calligonum mongolicum community.The Shannon-Wiener, Simpson,Margalef,and Pielou fluctuation range of the indexes were0.314-1.355,0.179-0.666,0.334-1.22,and 0.051-0.218.The species diversity indexes of gobidesert shrub communities were observed to be low.The structure and composition of the shrub communities were simple and rare.(2) More species in the community results in higher Jaccard similarity coeficient between communities.The Jaccard similarity between most shrub community types ranges from O.2O to O.60.Most Jaccard similarity levels between communities were low and the communities were relatively stable.(3)Forthe species diversitysuchas Margalef and Pielou,the Shannon-Wiener index showed an increasing and then decreasing trend,similar tothe Unimodalpattern,where the maximumoccuredat 2OO mof the elevational gradient.The correlation between species diversity and altitude were significant ( $P$ <0.05). The species density had a significant increasing trend from south to north ( $P$ <0.05),while it had a non-significant increasing trend from east to west ( $P$ >0.05).On the community scale,the species diversity of gobi desert shrub communities showed obvious vertical (altitude) and latitude zonal distribution pattern. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key Words: gobi desert ； shrub communities; species diversity; geographical distribution ",
+        "page_idx": 8
+    }
+]

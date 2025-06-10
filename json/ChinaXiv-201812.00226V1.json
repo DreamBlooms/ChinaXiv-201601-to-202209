@@ -1,0 +1,380 @@
+[
+    {
+        "type": "text",
+        "text": "1 牛奶乳铁蛋白多克隆抗体的制备、纯化及定量检测",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 王建郝丽媛 魏婧雅 孙鹏\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4摘要：本试验旨在制备高纯度和特异性的牛奶乳铁蛋白多克隆抗体，为鉴定并定量检测牛  \n5 奶样品中及奶牛乳腺组织中合成的乳铁蛋白提供试验材料。选用4只健康新西兰大白兔，初  \n6 次免疫乳铁蛋白4周后进行加强免疫，每2周加强免疫1次，待血清达到抗体效价后，对兔  \n7 进行心脏采血并分离血清，利用饱和硫酸铵法和蛋白A树脂纯化抗体，十二烷基硫酸钠-聚  \n8 丙烯酰胺凝胶电泳（SDS-PAGE）和免疫印迹（Westem-blot）法分别用于鉴定纯化后抗体的  \n9 纯度和特异性。测定纯化后抗体效价，并绘制抗体抑制曲线。最后利用所得抗体对市售液态  \n10 奶、奶牛乳腺组织匀浆液、奶粉样品中的乳铁蛋白进行定量检测。结果表明，本试验制备的兔抗牛乳铁蛋白多克隆抗体纯度较高、特异性较强,抗体浓度为 $1 1 . 0 2 \\ : \\mathrm { m g / m L }$ ，效价达到1:128000;采用该抗体测定的乳腺组织样品中乳铁蛋白浓度为 $1 6 . 1 3 \\mu \\mathrm { g / g }$ ，液态奶中接近于 $0 ~ \\mu \\ g / \\mathrm { g }$ 奶粉中为 $5 . 2 8 ~ \\mu \\mathrm { g / g }$ 。总之，本试验采用经过饱和硫酸铵法和蛋白A树脂2步纯化后得到了纯度较高、特异性较强的兔抗牛乳铁蛋白多克隆抗体，可以用于牛奶等产品的乳铁蛋白鉴定。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：乳铁蛋白；多克隆抗体；抗体纯化中图分类号：S852.2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，人们对乳品质的要求越来越高，乳蛋白作为衡量乳品质的重要指标，其合成的营养调控已经成为奶牛营养学研究的热点。乳铁蛋白（lactoferrin，Lf）也称为乳运铁蛋白，是牛奶中重要生物活性物质之一，具有调节铁吸收，广谱抗细菌感染的作用[1-2]，可以调节机体免疫反应，还具有抗氧化、抗癌、抗病毒等作用[3]。乳铁蛋白在初乳中浓度较高，人初乳中浓度为 $6 { \\sim } 8 ~ \\mathrm { { m g / m L } }$ ；奶牛初乳中浓度为 $1 { \\sim } 2 \\ \\mathrm { m g / m L }$ ；而在常乳中浓度较低，人常乳中浓度为 $1 { \\sim } 2 ~ \\mathrm { m g / m L }$ ，奶牛常乳中浓度为 $0 . 0 2 { \\sim } 0 . 3 5 \\mathrm { m g / m L }$ 。由于人乳来源有限，因此牛奶即成为人们获取乳铁蛋白的最直接途径。为检测牛奶与乳制品中乳铁蛋白的浓度，有效降低牛奶加工过程中造成的损失，需要建立一种快速、准确的方法测定生鲜乳及乳制品中乳铁蛋白的浓度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "酶联免疫吸附测定（enzyme-link immunosorbent assay，ELISA）方法是检测特定蛋白质的有效方法，具有快速、灵敏、简便、载体易于标准化等优点。ELISA方法结合十二烷基硫酸钠-聚丙烯酰胺凝胶电泳（sodium dodecyl sulfate-polyacrylamide gel electrophoresis，SDS-PAGE）可用于针对特定抗原的定性和定量检测。利用此种方法检测生鲜乳及乳制品中的乳铁蛋白浓度需要用到相应的乳铁蛋白抗体，而 Sigma 公司出售的商品化抗体价格昂贵，不适合大批量样品检测。因此，本试验通过免疫新西兰大白兔来制备兔抗牛乳铁蛋白多克隆抗体，旨在为研究奶牛乳铁蛋白的合成调控提供有效的试验材料。为得到纯度较高、特异性较强的抗体，通过饱和硫酸铵法和蛋白A树脂对抗血清进行纯化，纯化后得到的抗体用ELISA方法测定其效价以及与乳铁蛋白的抑制率，以期为定量检测牛奶中以及奶牛乳腺中合成的乳铁蛋白提供有效研究材料。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验材料包括乳铁蛋白标准品（美国Sigma公司，纯度 $2 8 5 \\%$ )、弗氏完全佐剂（美国Sigma 公司）、弗氏不完全佐剂（美国Sigma 公司）、蛋白A树脂（美国Genscript公司）、羊抗兔辣根过氧化物酶标记的免疫球蛋白G（immunoglobulinG-horseradish peroxides，IgG-HRP）（武汉博士德生物工程有限公司)。乳腺组织样品采自中国农业科学院北京畜牧兽医研究所昌平试验基地；液态奶样品为市售超高温灭菌乳；奶粉样品为市售品牌普通奶粉。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验动物及饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验选取4只健康纯种新西兰大白兔，单笼饲养，每日饲喂颗粒饲料（饲料中不含酪蛋白)，自由采食和饮水。饲养前对兔舍进行彻底清扫和消毒，待兔适应饲养环境1周后，耳缘静脉采血，测定其血清是否与乳铁蛋白有反应，血清与乳铁蛋白无反应性的合格兔子按免疫程序进行免疫。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3免疫程序及抗血清的制备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "乳铁蛋白抗血清的制备参考You等[4的方法。试验第1周，将弗氏完全佐剂与乳铁蛋白溶液等比例乳化完全后，采用皮下多点注射法，每只兔注射 $1 \\mathrm { m L }$ 乳化液（含 $5 0 0 ~ { \\mu \\mathrm { g } }$ 乳铁蛋白)，4周后，同样方法背部皮下多点注射经弗氏不完全佐剂乳化完全的乳铁蛋白（含 $2 5 0 ~ \\mu \\mathrm { g }$ 乳铁蛋白)，以后每2周重复1次，每次免疫后的第7天耳缘静脉采血，ELISA方法检测抗血清效价。第4次免疫后的第7天进行心脏采血。待血液凝结后，于 $9 4 0 \\times g$ 离心 $2 0 ~ \\mathrm { m i n }$ 取上清液分装后置-80℃保存备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4饱和硫酸铵法纯化抗血清 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "饱和硫酸铵纯化参考庞学燕等[5]的方法配制，取 ${ 5 0 0 \\mu \\mathrm { L } }$ 血清加入等体积的磷酸盐缓冲液（phosphate-buffered saline，PBS）（ $0 . 0 1 \\mathrm { m o l / L }$ ， $\\mathrm { p H } 7 . 4 ) \\$ ，冰浴下逐滴加入 $2 5 0 ~ \\mu \\mathrm { L }$ 饱和硫酸铵溶液，旋涡混匀， $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 静置 $3 0 \\mathrm { m i n }$ ，4 $\\mathrm { { ^ \\circ C } }$ 、 $1 5 5 0 \\times g$ 离心 $1 5 \\mathrm { m i n }$ ，取上清液。在上清液中逐滴加入 $1 0 0 0 \\mu \\mathrm { L }$ 饱和硫酸铵溶液，旋涡混匀， $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 静置 $3 0 ~ \\mathrm { m i n }$ ，离心弃上清液。沉淀用 ${ 5 0 0 \\mu \\mathrm { L } }$ PBS 溶解，在溶液中逐滴加入 $2 5 0 ~ \\mu \\mathrm { L }$ 饱和硫酸铵溶液，边加边搅拌， $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 静置30min，4℃离心，保留沉淀。沉淀继续用PBS 溶解，滴加饱和硫酸铵溶液，静置，离心，保留沉淀。将沉淀溶于PBS中，装入透析袋中 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 透析过夜。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5蛋白A树脂纯化抗血清",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参考庞学燕等[5]的方法，采用蛋白A树脂纯化抗血清。向纯化柱中加入 $1 \\mathrm { m L }$ 结合/洗涤缓冲液，将 $1 \\mathrm { m L }$ 混匀的蛋白A树脂加入柱中，再向柱中加入 $5 \\mathrm { m L }$ 结合/洗涤缓冲液以平衡柱子，流速约 $1 \\mathrm { m L } / \\mathrm { m i n }$ 。将结合/洗涤缓冲液稀释后的血清样本加入柱中，保持流出速度约为 $1 \\mathrm { m L } / \\mathrm { m i n }$ 。用 $3 0 ~ \\mathrm { m L }$ 结合/洗涤缓冲液冲洗柱子并使缓冲液流出速度约 $2 ~ \\mathrm { m L / m i n }$ ，用 $1 5 ~ \\mathrm { m L }$ 洗脱缓冲液洗脱抗体，保持洗脱液流速约 $1 \\ \\mathrm { m L / m i n }$ 。将含有抗体的洗脱液收集到含平衡缓冲液的烧杯中以中和洗脱液 $\\mathfrak { p H }$ 至7.4。洗脱出来的抗体溶液装入透析袋中 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 透析过夜。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6SDS-PAGE鉴定纯化后抗体纯度",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "配制 $12 \\%$ 的分离胶和 $5 \\%$ 的浓缩胶，取 ${ 8 0 \\mu \\mathrm { L } }$ 抗体样品与 $2 0 \\mu \\mathrm { L } 5 \\times$ 上样缓冲液混匀，在沸水中煮沸 $5 \\mathrm { m i n }$ 。每孔上样 $1 2 { \\mu \\mathrm { L } }$ ，电压调为 $8 0 \\mathrm { V }$ 开始电泳（PowerPac 3000 型电泳仪，美国Bio-Rad公司)，当指示染料进入分离胶后，将电压调至 $1 2 0 { \\mathrm { V } }$ ，继续电泳直至染料抵达距分离胶下端约 $1 \\mathrm { c m }$ 处停止电泳，固定液固定，考马斯亮蓝染色，脱色液脱色，直至条带清晰可辨，用凝胶成像系统拍照观察。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.7ELISA方法检测纯化后抗体的效价",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "抗体效价的检测采用ELISA方法[。将乳铁蛋白标准品用包被液稀释至 $0 . 3 1 ~ \\mu \\mathrm { g / m L }$ ，每孔 $1 0 0 \\mu \\mathrm { L }$ 包被酶标板，4℃过夜，并用PBS 做阴性对照，次日弃去孔内液体，每孔加入200$\\mu \\mathrm { L }$ 封闭液 $[ 1 \\%$ 卵清白蛋白（OVA）]，置 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 恒温箱 $^ { \\textrm { 1 h } }$ ，倾去液体后，用磷酸盐吐温缓冲液（phosphate-buffered saline tween，PBST）洗涤4次，每次静置 $3 \\mathrm { m i n }$ 后迅速倾去洗涤液，拍干。取不同稀释度的纯化后抗体（1:2000、1:4000、1:8 000、1:16 000、1:32 000、1:64 000和1:128000)，每个稀释度3个重复， $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 温育 $^ { \\textrm { 1 h } }$ ，然后倾去液体，PBST洗涤，倾去液体，拍干。每孔加 $1 0 0 { \\mu \\mathrm { L } }$ 按1:5 000 稀释的羊抗兔IgG-HRP抗体， $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 温育1h，PBST洗涤，倾去液体，拍干。每孔加入 $1 0 0 \\mu \\mathrm { L }$ 新鲜配制的四甲基联苯胺(TMB)底物溶液室温孵育$2 0 \\mathrm { m i n }$ 。每孔加入 ${ 5 0 \\mu \\mathrm { L } }$ 终止液（ $2 \\mathrm { m o l / L }$ 硫酸)， $5 \\mathrm { m i n }$ 后在酶标仪上测定 $4 5 0 \\mathrm { n m }$ 下的吸光度（ $\\mathrm { O D } _ { 4 5 0 \\mathrm { n m } }$ ）值。若待测孔 $\\mathrm { O D } _ { 4 5 0 \\mathrm { n m } }$ 值大于或等于阴性对照孔的2.1倍，即认为是阳性值，从而得出抗体的效价。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.8乳铁蛋白的测定工作曲线",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用竞争性ELISA测定抗体与乳铁蛋白之间的抑制率[]。将抗体作适当浓度稀释后，以等体积分别与系列倍比稀释的乳铁蛋白（40000、20000、10000、5000、2500、1250、625、$3 1 2 . 5 ~ \\mathrm { { n g / m L } }$ )混匀后，室温反应 $1 5 \\mathrm { m i n }$ 。然后加至已包被处理的酶标板中。其余步骤同1.7。根据 $\\mathrm { O D } _ { 4 5 0 }$ 值绘制标准曲线，计算抗体与乳铁蛋白的抑制率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.9乳腺组织及乳制品中乳铁蛋白浓度的测定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将从屠宰场采集的奶牛乳腺组织样品迅速放入液氮保存。测定时，将乳腺组织样品取出后，倒入液氮进行研磨，称取一定量乳腺组织样品，充分溶解于5倍体积的PBS中，同时加入放射免疫沉淀测定裂解液（radio immunoprecipitation assay，RIPA）和蛋白酶抑制剂，$1 2 0 0 0 \\times g$ 离心 $1 0 \\mathrm { m i n }$ ，取上清液，用二辛可酸（BCA）蛋白质浓度测定试剂盒检测待检样品中总蛋白质的浓度。取 $1 \\mathrm { m L }$ 液态奶，加入蒸馏水进行稀释后， $3 0 0 0 \\times g$ 离心 $1 0 \\mathrm { m i n }$ ，去除上层脂肪。加入 $1 \\mathrm { m o l / L }$ 稀盐酸调节 $\\mathfrak { p H }$ 为4.6，去除酪蛋白，得到乳铁蛋白粗品。取 $ { 3 \\mathrm { ~ g ~ } }$ 奶粉样品，加水定容至 $1 0 0 ~ \\mathrm { { m L } }$ ，离心去除脂肪和酪蛋白后，得到乳铁蛋白粗品。利用乳铁蛋白测定工作曲线，检测乳腺组织、液态奶及奶粉中乳铁蛋白的浓度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.10免疫印迹法（Western-blot）鉴定纯化后抗体特异性及反应性",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将乳铁蛋白纯品溶于PBS中，奶牛乳腺组织、液态奶和奶粉前处理方式同1.9。以总蛋白质浓度作为SDS-PAGE上样量依据，配制 $12 \\%$ 分离胶和 $5 \\%$ 浓缩胶，对乳铁蛋白纯品、奶牛乳腺组织、液态奶和奶粉样品进行电泳，电泳结束后将蛋白质转移到预先用甲醇活化的聚偏二氟乙烯膜（polyvinylidene difluoride,PVDF）上，利用 $0 . 5 \\%$ 的鸡血清进行封闭，将乳铁蛋白多克隆抗体溶液按1:6000稀释后，室温孵育 $2 \\mathrm { h }$ ，PBST洗后加入羊抗兔辣根过氧化物酶标记IgG抗体（1:5000 稀释)，PBST洗膜，二氨基联苯胺（DAB）显色剂显色后扫描结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1乳铁蛋白多克隆抗体纯度",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SDS-PAGE 结果如图1所示，经过饱和硫酸铵法和蛋白A树脂2步纯化后得到的乳铁113 蛋白多克隆抗体重链清晰可见，表明通过纯化得到了纯度较高的乳铁蛋白抗体。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1：蛋白质分子质量标准；2：纯化后的多克隆抗体。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1: protein molecular weight standard; 2: purified polyclonal antibodies. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fea0b9d5200acdc07944ed6cbb111cd1d0c2eb661ac48c7874760c5eca3c62d1.jpg",
+        "img_caption": [
+            "图1纯化后多克隆抗体的电泳图",
+            "Fig.1Electrophoresis of purified polyclonal antibodies "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2乳铁蛋白多克隆抗体效价",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用BCA蛋白质浓度测定试剂盒测得乳铁蛋白多克隆抗体浓度为 $1 1 . 0 2 \\mathrm { m g / m L }$ 。图2为多克隆抗体的效价曲线，抗体经过纯化以后，ELISA方法检测抗体的效价为1:128000。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e38c2ae5b598e214bf4f91212e734343357117d05d05c5ae84e4a779e33f5cf.jpg",
+        "img_caption": [
+            "图2兔抗牛乳铁蛋白多克隆抗体效价曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3抗体与乳铁蛋白的抑制率 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "抗体与乳铁蛋白的抑制率见图3，抑制抗原与抗体结合 $50 \\%$ 时乳铁蛋白的浓度（ $\\mathrm { I C } _ { 5 0 } \\dot { . }$ ）为 $2 4 . 5 5 \\mu \\mathrm { g / m L }$ 。测检出限时，乳铁蛋白设10个浓度梯度，从 $1 0 0 0 \\mu \\mathrm { g / m L }$ 起始2倍等比稀释到 $1 . 9 5 ~ \\mu \\mathrm { g / m L }$ ，每个浓度设6个重复，线性范围 $1 1 { \\sim } 4 0 ~ \\mu \\mathrm { g / m L }$ ，检出限为 $1 1 . 4 8 ~ \\mu \\mathrm { g / m L }$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f600863cf2084112e5c402418c90ba0695649ba244be3d8fe5bd9d30dcc0c9ba.jpg",
+        "img_caption": [
+            "Fig.2The curve of rabbit anti-bovine lactoferrin polyclonal antibody titer ",
+            "图3抗体与乳铁蛋白的抑制率",
+            "Fig.3 Inhibition rate of antibody and lactoferrin "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4乳腺组织及乳制品中乳铁蛋白浓度的测定利用工作曲线测定乳腺组织样品及乳制品中乳铁蛋白浓度，测得5份乳腺组织样品中乳铁蛋白浓度范围在 $1 4 . 7 2 { \\sim } 1 8 . 6 4 ~ \\mu \\mathrm { g / g }$ ，平均值为 $1 6 . 1 3 ~ { \\mu \\mathrm { g / g } }$ ，相对标准偏差为 $1 1 . 0 5 \\%$ ，液态奶中乳铁蛋白浓度接近于 $0 \\mu \\mathrm { g / g }$ ，奶粉中乳铁蛋白浓度范围为 $4 . 9 1 { \\sim } 5 . 7 3 ~ \\mathrm { \\mu g / g }$ ，平均值为5.28$\\mu \\mathrm { g / g }$ ，相对标准偏差为 $6 . 4 2 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 乳铁蛋白抗体特异性",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Westem-blot结果如图4所示，纯化后的抗体能够与乳铁蛋白标准品专一性结合，表明得到的抗体能够特异性识别乳铁蛋白。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/837d3b3e37d0d511484a6c6458e6545b08c818138dabd0305b0f7cbe35e3145f.jpg",
+        "img_caption": [
+            "图4Western-blot法鉴定乳铁蛋白抗体特异性"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M：蛋白质分子质量标准；1\\~2：乳铁蛋白。M: protein molecular weight standard; 1 to 2: lactoferrin",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Identification of lactoferrin antibody specificity by Western-blot method ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图5显示，纯化后的抗体与奶牛乳腺组织中提取的乳铁蛋白具有反应性，同时对奶粉中的乳铁蛋白也有特异反应性，可用于检测奶牛乳腺组织和乳制品中的乳铁蛋白。途中条带的粗细可初步反映样品中乳铁蛋白浓度的差异，由图可以看出，奶粉中乳铁蛋白浓度高于乳腺组织及液态奶样品。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f47a4c5c09c99ed65d7f8b5d4f1c57e72dc0d51cee9cfee578f751805c590636.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M：蛋白质分子质量标准；1：液态奶样品；2\\~3：乳腺组织样品；4：奶粉样品。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M: protein molecular weight standard;1: liquid milk sample; 2 to 3: breast tissue sample; 4: milk powder mple. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Identification of the reactivity between lactoferin extracted from mammary gland tissues and milk products of dairy cows and antibodies by Western-blot method ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "牛奶中含有多种生物活性物质，例如抗毒素、抗细菌和抗病毒以及刺激免疫系统的成分。其中，乳铁蛋白即是一种多功能蛋白质，具有与铁元素结合的特性，不仅可以促进铁的吸收，同时兼具抗细菌、抗病毒、抗真菌、抗炎症、抗氧化和免疫调控等作用[3,7-9]。Habing 等[10]研究发现，乳铁蛋白还可以降低断奶前腹泻犊牛的死亡率。目前针对乳铁蛋白的检测方法主要有高效液相色谱法[9,11]、放射免疫扩散法[12]以及ELISA方法[13]等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "高效液相色谱法利用色谱柱根据样品分子质量的差异分离蛋白质，其测定结果准确可靠，精密度高，重复性好；但仅适合于高纯度样品测定，如果样品中乳铁蛋白浓度较低时，由于乳铁蛋白与其他杂蛋白质分子质量相近，在凝胶色谱上的保留时间相近，很难将各组分区分开，进而影响定量结果[14]。且高效液相色谱法需要的仪器较为昂贵。龚广予等[12]利用放射免疫扩散法检测婴幼儿配方奶粉中的乳铁蛋白，利用抗原抗体反应形成沉淀带的原理计算乳铁蛋白浓度，准确性稍差。而ELISA方法操作相对简便，准确性好，对于乳及乳制品中浓度相对较低的乳铁蛋白而言，该方法灵敏度高，且对样品纯度要求不高，检测限较低，适合于乳铁蛋白的检测[13]。因此，制备乳铁蛋白抗体是目前检测牛奶及奶牛乳腺中合成的乳铁蛋白的优选措施。与普通抗血清相比，特异性抗体的制备要求对相应抗血清进行纯化，其制备步骤更为复杂，但抗体的效价相对较高。针对牛奶中的多种生物活性蛋白质，已经得到了包含兔抗牛β-酪蛋白、αs-酪蛋白和κ-酪蛋白以及乳铁蛋白等的抗血清[14-18]，早期沈新义等[19]利用乳铁蛋白免疫家兔得到的抗血清效价仅为1:10000，李岩[18]利用乳铁蛋白免疫新西兰大白兔和高产罗曼蛋鸡，得到的抗血清效价仅为1:48000，与本试验中特异性抗体的效价相差甚远。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以往研究中针对抗体的纯化方法多为单一纯化方法，常见的有盐析法、离子交换层析法和亲和层析法等。盐析法利用蛋白质在高浓度盐溶液中形成沉淀的原理分离纯化蛋白质，离子交换层析法利用离子交换树脂与蛋白质的选择性结合而分离蛋白质，而亲和层析法则是利用蛋白质与介质中配基的特异结合而分离纯化蛋白质。由于以上方法的原理不尽相同，其纯化抗体后的纯度也相差甚远，例如,通过饱和硫酸铵盐析法得到的抗体纯度一般在 $7 5 \\%$ 左右，而利用亲和层析法纯化后的抗体纯度可达 $90 \\%$ 以上[4]。本试验中在分析比较了前人所用方法的基础上，先后通过饱和硫酸铵法和蛋白A树脂2种方法纯化了抗体，经 SDS-PAGE 电泳后看到抗体条带清晰，且纯度较好，抗体浓度为 $1 1 . 0 2 \\mathrm { m g / m L }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "抗体滴度，即抗体效价，用抗体的稀释倍数表示，是指某一抗体经稀释后能与抗原结合并出现可见反应的最高稀释倍数；或者是稀释抗体和阴性对照的吸光度值之比大于2.0的最大的抗体稀释度。本试验中的多克隆抗体血清来自4只用乳铁蛋白免疫的新西兰白兔。在血清稀释倍数最大为128000时，仍然为阳性反应，证明最终的抗体效价为1:128 000。Westermblot 法证明本试验中制备的多克隆抗体与乳铁蛋白标准品可特异性结合，且可用于检测奶牛乳腺组织中以及奶粉中的乳铁蛋白。本试验中奶牛乳腺组织、市售液态奶及奶粉样品中的乳铁蛋白检测结果不尽相同，证明不同样品中该物质浓度有所差异。研究表明，乳铁蛋白由机体外分泌腺分泌，主要存在于乳汁中，同时在泪液、唾液、血浆、胆汁、胰液和嗜中性粒细胞中也有存在[20]。其在初乳中浓度最高，常乳次之，而本试验中检测到其在奶粉样品中浓度稍高，证明奶粉中可能含有外源添加的乳铁蛋白。由于乳铁蛋白具有多种生物学功能，有利于人体健康而无毒副作用，目前已成为允许在婴幼儿配方奶粉以及食品中添加的物质之一[21]。本试验中液态奶中乳铁蛋白浓度偏低可能与其加工储存方式有关。通过利用本试验中制备的抗体检测不同样品中乳铁蛋白浓度的差异结果表明，该抗体可有效反映样品中乳铁蛋白的浓度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本试验通过免疫新西兰大白兔成功制备了纯度较高、特异性较强的兔抗牛乳铁蛋白多克隆抗体，抗体浓度为 $1 1 . 0 2 \\mathrm { m g / m L }$ ，效价达到1:128000，该多克隆抗体可以与乳铁蛋白特异性结合，可用于定性鉴定和定量检测牛奶中以及奶牛乳腺合成的乳铁蛋白，为后续奶牛乳铁蛋白合成调控的研究工作的开展奠定了基础。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] KIECKENS E,RYBARCZYK J,BARTH S A,et al.Effect of lactoferrin on release and bioactivity of Shiga toxins from different Escherichia coli O157:H7 strains[J].Veterinary Microbiology,2017,202:29-37. [2]RYBARCZYK J,KIECKENS E,VANROMPAY D,et al.In vitro and in vivo studies on the antimicrobialeffectoflactoferrinagainstEscherichiacoliO157:H7[J].Veterinary Microbiology,2017,202:23-28.   \n210 [3] WAKABAYASHI H,ODA H,YAMAUCHI K,et al.Lactoferrn for prevention of common   \n211 viral infections[J].Journal of Infection and Chemotherapy,2014,20(11):666-671.   \n212 [4] YOU J M,SUN P,LI D F,et al..A novel method using immuno-affinity chromatography for   \n213 isolating $\\beta$ -conglycinin from soybean proteins[J].Food Chemistry,2009,117(2):371-374.   \n214 [5]庞学燕,季昀,王洪荣,等.奶牛 $\\mathbf { { a } } _ { \\mathrm { { s } } } ^ { }$ -酪蛋白多克隆抗体的制备、纯化及鉴定[J.动物营养学   \n215 报,2012,24(11):2190-2194.   \n216 [6] 黑文静.大豆主要抗营养因子检测技术研究及初步应用[D].硕士学位论文.北京:中国农业   \n217 大学,2012.   \n218 [7] MURATA M,WAKABAYASHI H,YAMAUCHI K,et al.Identification of milk proteins ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "219 enhancing the antimicrobial activity of lactoferrin and lactoferrcin[J].Journal of Dairy   \n220 Science,2013,96(8):4891-4898.   \n221 [8]CARVALHO C A M,SOUSA I P Jr,SILVA JL,et alInhibition of Mayaro virus infection by   \n222 bovine lactoferrin[J].Virology,2014,452/453:297-302.   \n223 [9]ZHANG J S,LAI S Y,CAI Z X,et al.Determination of bovine lactoferrin in dairy products by   \n224 ultra-high performance liquid chromatography-tandem mass spectrometry based on tryptic   \n225 signature peptides employing an isotope-labeled winged peptide as internal standard[J].Analytica   \n226 Chimica Acta,2014,829:33-39.   \n227 [10]HABING G,HARRIS K,SCHUENEMANN G M,et al.Lactoferrin reduces mortality in   \n228 preweaned calves with diarrhea[J].Journal of Dairy Science,2017,100(5):3940-3948.   \n229 [11] TSAKALI E,PETROTOS K,CHATZILAZAROU A,et al.Short communication:determination   \n230 oflactoferrin inFetacheesewheywithreversed-phasehigh-performanceliquid   \n231 chromatography[J].Journal of Dairy Science,2014,97(8):4832-4837.   \n232 [12] 龚广予,巫庆华,吴正钧,等.一种检测乳铁蛋白的方法——放射免疫扩散法[J].中国乳品   \n233 工业,2001,29(3):27-29.   \n234 [13]卢蓉蓉,许时婴,王璋.乳铁蛋白测定方法的比较[J].中国乳品工业,2002,30(5):123-125.   \n235 [14]李姣,张施敬,佘之蕴,等.乳铁蛋白纯化和检测方法研究进展[J].广东化   \n236 工,2014,41(14):123-124,130.   \n237 [15]李震,陈永福.牛乳中β-酪蛋白检测的 ELISA 方法[J].山东农业大学学报:自然科学   \n238 版,1999,30(4):451-452.   \n239 [16]张涛,庞广昌.酶联免疫法快速测定原料乳中 $\\mathbf { \\alpha } _ { \\mathbf { a } _ { \\mathrm { s } } } .$ 酪蛋白质量浓度[J].中国乳品工   \n240 业,2006,34(2):56-58.   \n241 [17]张涛,庞广昌.酶联免疫法快速测定原料乳中 $\\kappa -$ 酪蛋白含量[J].食品工业科   \n242 技,2006,27(11):179-181.   \n243 [18]李岩.乳中乳铁蛋白检测方法的建立[D].硕士学位论文.郑州:河南农业大学,2008.   \n244 [19]沈新义,耿培兰,叶伟民.人乳铁蛋白(Lactoferrin)的分离纯化和抗血清制备[J].上海免疫   \n245 学杂志,1983,3(4):228-230.   \n246 [20]REDWAN E M,UVERSKY V N,EL-FAKHARANY E M,et al.Potential lactoferrin activity   \n247 against pathogenic viruses[J].Comptes Rendus Biologies,2014,337(10):581-595.   \n248 [21]CHEN K,ZHANG L,LI H,et al.Iron metabolism in infants:influence of bovine lactoferrin   \n249 from iron-fortified formula[J].Nutrition,2015,31(2):304-309.   \n250 Preparation, Purification and Quantitative Identification of Bovine Lactoferrin Polyclonal ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "WANG Jian HAO Liyuan WEI Jingya SUN Peng\\* (State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Sciences, Beijing 100193, China) Abstract: This study aimed at preparing polyclonal antibody against lactoferrin in milk with high purity and specificity to provide experimental materials for the identification and quantification of lactoferrin synthesized in milk and mammary gland.Four healthy New Zealand white rabbits were immunized with bovine lactoferrin and challenged again after 4 weeks. Thereafter, the rabbits were immunized once every 2 weeks until antibody titer was desirable. Then the blood was collcted from the heart and the serum was obtained.The antibody was purified by the saturated ammonium sulfate method and protein A resin. The sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE) and Western blotting were used to identify the purity and specificity of the purified antibody. Antibody titer was determined and the curve of antibody inhibition was obtained.Finally，we used the obtained antibody to quantitatively determine lactoferrin in commercial liquid milk, milk powder and the homogenate of mammary gland tissue of dairy cows. The results showed that the obtained rabbit anti-bovine lactoferrin polyclonal antibody had high purity and specificity, the antibody concentration was $1 1 . 0 2 ~ \\mathrm { m g / m L }$ ,and the titer was 1:128 000; lactoferrin concentration in mammary gland tissue of dairy cows was $1 6 . 1 3 ~ \\mu \\mathrm { g / g }$ ，that in commercial liquid milk was close to O,and that in milk powder was $5 . 2 8 ~ { \\mu \\mathrm { g / g } }$ ，In conclusion, lactoferrin polyclonal antibody with high purity and specificity was prepared by saturated ammonium sulfate method and protein A resin in the present study, which can be used to identify lactoferrin in products like milk. Key words: lactoferrin; polyclonal antibody; purification of antibody ",
+        "page_idx": 9
+    }
+]

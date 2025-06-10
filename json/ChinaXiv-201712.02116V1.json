@@ -1,0 +1,302 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "良性前列腺增生合并前列腺炎症患者前列腺液IL-8、IL-6与血清前列腺特异抗原的相关性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "任行飞，吴春磊，余沁楠，朱峰，刘沛，张会清新乡医学院第一附属医院泌尿外科，河南卫辉453100摘要：目的探讨良性前列腺增生(BPH)伴前列腺炎症患者前列腺液IL-8、IL-6与血清前列腺特异性抗原(PSA)的相关性。方法 选取2013年9月\\~2015年10月于我院行前列腺手术的BPH患者211例,根据前列腺液白细胞计数分为单纯组（ $\\scriptstyle n = 7 5$ 和合并前列腺炎组 $\\scriptstyle ( n = 1 3 6 )$ 。两组临床观察指标间差异比较采用Mann-WhitneyU检验，相关性分析采用调整年龄变量下的偏相关性分析，再进一步多元逐步回归分析。结果单纯组与合并前列腺炎组患者年龄、体质量指数(BMI)、血压、血糖、血脂、国际前列腺症状评分(IPSS)评分、PSA-Ratio及前列腺体积比较差异均无统计学意义( $( P { > } 0 . 0 5 )$ 。合并前列腺炎组患者血清PSA及前列腺液IL-8、IL-6水平升高，与单纯组差异具有统计学意义( $\\scriptstyle P < 0 . 0 0 1 .$ )。多元线性回归分析显示：前列腺液中IL-8、IL-6、前列腺液白细胞数(EPWBC)与血清PSA依次呈显著独立正相关性。结论 前列腺炎症是BPH患者血清PSA升高的重要危险因素。前列腺液IL-8、IL-6与血清PSA存在良好独立相关性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：良性前列腺增生；前列腺炎症；前列腺特异性抗原；白介素-8;白介素-6 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correlation of IL-8 and IL-6 in prostatic fluid with serum prostate-specific antigen level in patients with benign prostatic hyperplasia complicated by prostatitis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "REN Xingfei,WUChunlei,U Qinnan,ZHUFeng,LIUPei,ZHANGHuiqing DepartmentofUrology,FirstAffiliatedHospitalof XinxiangMedicalUniversity,Weihui 45310o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveToinvestigatethecorelationofthelevelsofinterleukin-8(IL-8)andIL-6intheprostaticfuidwithseum levels of serum prostate-specificantigen (PSA) in patients withbenign prostatic hyperplasia (BPH)complicated by prostatitis. Methods A series of 211 patients undergoing surgery of BPH were divided into BPH group $\\scriptstyle ( \\mathrm { n = 7 } 5$ ）and BPH with prostatitis group $( n { = } 1 3 6 )$ according to the white blood cell count in the prostatic fluid. The clinical and laboratory findings were comparedbetweenthetwo groups,and stepwiseregressionanalysis wasusedtoassesstheaociationofIL-8and IL-6with serumPSAlvel.esultsigficantdirencewerefoundingeoodpressure,lodgucose,blodld, score, PSA-Ratio, or prostate volume between the two groups $( P { > } 0 . 0 5 )$ . The patients with prostatitis had significantly increased serum PSA and prostate fluid IL-8 and IL-6 levels compared with those without prostatitis $( P { < } 0 . 0 0 1 \\$ ). Multiple linear regression analysisshowedthatIL-8andIL-6levelsand white bloodcellcountintheprostaticfluidwereall positivelycorrelated with serumPSA level.ConclusionProstatitis isan importantriskfactor forelevatedserumPSAlevelinpatients withBPH,and both IL-8 and IL-6 levels in the prostatic fluid are correlated with serum PSA level. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:benign prostatic hyperplasia; prostatitis prostate-specific antigen; interleukin-8; interleukin-6 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "前列腺增生症(benign prostatic hyperplasia,BPH)和慢性前列腺炎症(chronic prostatic inflammations,CP)是泌尿外科常见慢性病，二者互相诱导、促进、加剧疾病进展,形成恶性循环[1-2]。临床上前列腺增生与慢性前列腺炎症状往往重叠[3，仅凭临床症状不易区分；此外,IV型前列腺炎在我国较为流行[4，且其无任何临床症状，使得前列腺增生患者是否合并前列腺炎症的问题被忽视。炎症带来的影响可能亦随之被忽视，对于BPH合并前列腺炎症伴血清PSA异常升高患者来说意义尤显重大。多数研究证实炎症及增生均可使PSA升高，究竟前列腺炎症对BPH患者血清PSA浓度的影响程度如何,目前尚无统一明确结论[5]。本研究通过定量检测单纯BPH患者与同时合并前列腺炎症患者的前列腺液(EPS)中白细胞计数及IL-8、IL-6细胞因子，对两组指标与患者血清PSA浓度的相关性分析，进一步探讨前列腺炎症对血清PSA的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1资料和方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1一般资料",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究对象取自新乡医学院第一附属医院泌尿外科标准化临床资料数据库，选取2013年9月\\~2015年10月于我院行前列腺手术患者，年龄区间为53\\~86岁。所有患者术前均行经直肠指检及经直肠前列腺彩超无明显异常，术后病理均证实为良性；且完全符合纳入排除标准的患者共211例作为研究对象。排除标准：(1)未完整填写前列腺增生疾病样本收集量表，或者未提供所需完整个人信息者；(2)拒绝前列腺按摩检查或未能成功取得前列腺液标本，无法完成镜检及后续分析者；(3)近期服用治疗前列腺相关药物及抗菌药物者；(4)存在尿路感染及会阴部检查存在感染等异常者及其它有可能影响血清PSA真实值者",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 临床资料的收集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究对象术前评估项目包括：年龄、前列腺体积、血清PSA、IPSS评分、BMI、血压值、空腹血糖、胆固醇、高低密度脂蛋白、前列腺按摩液镜检白细胞计数及术后病理诊断。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3PSA与EPS样本采集及分组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "直肠指检及经直肠彩超检查前取空腹静脉血，采用德国拜耳公司BayerACS-180PSAassay试剂盒，用BayerACS-180全自动化学发光仪进行测定。研究对象3\\~5d内均无性活动，取标本前清洗消毒阴茎头及尿道外口，有标准化培训过的泌尿外科临床医生进行前列腺按摩后取得EPS样本，先有 $1 . 5 ~ \\mathrm { m L }$ EP管收集，立即放入 $- 2 0 \\mathrm { { ^ { \\circ } C } }$ 冰箱保存，而后在一周内转移至 $- 8 0 \\mathrm { { ^ { \\circ } C } }$ 冰箱长期保存。剩余的最后一滴EPS涂片，于 $1 0 { \\times } 4 0$ 高倍镜下观察3\\~5个高倍镜视野，常规观察白细胞数量，取平均值，0\\~9个/HP为偶见或少许(-）,10\\~20/HP为 $( + )$ ，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "21\\~30个/HP为 $( + + )$ ,31\\~40个/HP为 $( + + + )$ _， $> 4 0$ 个/HP为 $( + + + + )$ 。最终将<10个/HP分为单纯BPH组； $\\mathord { \\geqslant } 1 0$ 个HP分至合并炎症组。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4EPS中IL-8、IL-6的测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用购自上海易利生物科技有限公司的酶联免疫检测试剂盒，采用双抗体夹心ELISA法检测EPS中IL-8、IL-6的含量。严格按照试剂盒使用方法检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "应用SPSS19.0软件进行统计学分析，资料在分析前均进行正态检验；正态计量资料均以均数 $\\cdot \\pm$ 标准差表示；偏态计量资料采用中位数、四分位间距[M(QR)]表示，采用非参数秩和检验；计数资料比较采用四格表资料x检验；各变量相关分析前进行标准正态变换处理，调整年龄变量后PSA与其他变量的偏相关分析;考虑到各变量间可能受潜在混杂因素影响，遂建立多元线性逐步回归模型进行分析。 $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1一般临床资料比较",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如表1所示，单纯BPH组与BPH合并炎症组患者年龄、BMI、血压、血糖、血脂、IPSS评分及前列腺体积比较差异均无统计学意义 $( P { > } 0 . 0 5 )$ ）",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0173205caee78c46a58e43a6c6ff54152368692345f76afcac0998f82827afb.jpg",
+        "table_caption": [
+            "表1单纯BPH组与BPH合并炎症组观测变量差异比较 Tab.1 Comparison of the variables between the BPH group and BHP with prostatitis group "
+        ],
+        "table_footnote": [
+            "Iwo independent samples Mann-Whitney U test; $P { < } 0 . 0 5$ was considered statistically significant. "
+        ],
+        "table_body": "<html><body><table><tr><td>Variable</td><td>Simple BPH group (n=75)</td><td>BPH with prostatitis group (n=136)</td><td>P</td></tr><tr><td>Age (year)</td><td>63 (7)</td><td>58 (11)</td><td>0.097</td></tr><tr><td>Body mass index (kg/m)</td><td>25 (3)</td><td>26 (4)</td><td>0.425</td></tr><tr><td>Systolic blood pressure (mmHg)</td><td>120 (11)</td><td>120 (12)</td><td>0.950</td></tr><tr><td>Diastolic blood pressure (mmHg)</td><td>85 (8)</td><td>84.5 (8)</td><td>0.266</td></tr><tr><td>Hypertension (%)</td><td>21.3</td><td>16.2</td><td>0.871</td></tr><tr><td>Plasma glucose (mmol/L)</td><td>5.40 (0.7)</td><td>5.60 (0.9)</td><td>0.498</td></tr><tr><td>Diabetes (%)</td><td>8.0</td><td>8.8</td><td>0.838</td></tr><tr><td>Serum total cholesterol (mmol/L)</td><td>5.31 (1.28)</td><td>5.40 (1.40)</td><td>0.162</td></tr><tr><td>Serum triglycerides (mmol/L)</td><td>1.34 (1.21)</td><td>1.30 (1.02)</td><td>0.365</td></tr><tr><td>Serum high density lipoprotein cholestero (mmol/L)</td><td>1.32 (0.33)</td><td>1.32 (0.41)</td><td>0.920</td></tr><tr><td>Serum low density lipoprotein cholesterol (mmol/L)</td><td>3.31±0.77</td><td>3.18 (1.04)</td><td>0.150</td></tr><tr><td>Dyslipidemia (%)</td><td>40.0</td><td>39.7</td><td>0.967</td></tr><tr><td>IPSS</td><td>21 (4)</td><td>22 (5)</td><td>0.635</td></tr><tr><td>Prostate volume (mL)</td><td>56 (14)</td><td>58 (15)</td><td>0.155</td></tr><tr><td>T-PSA (ng/mL)</td><td>2.158 (0.800)</td><td>6.170 (2.994)</td><td><0.001a</td></tr><tr><td>f-PSA (ng/mL)</td><td>0.249 (0.066)</td><td>0.246±0.0488</td><td>0.197</td></tr><tr><td>PSA-Ratio (%)</td><td>0.24 (0.07)</td><td>0.25 (0.06)</td><td>0.129</td></tr><tr><td>PSAD (ng/mL)</td><td>0.0396 (0.0182)</td><td>0.11088 (0.0731)</td><td><0.001a</td></tr><tr><td>IL-8 (pg/mL)</td><td>3434.06±249.13</td><td>5818.90 (2720.66)</td><td><0.001a</td></tr><tr><td>IL-6 (pg/mL)</td><td>27.81 (6.35)</td><td>84.492±17.419</td><td><0.001a</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2两组患者血清PSA、f-PSA、PSAD及PSA-Ratio值 比较 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所观测数据经正态性检验后，选择非参数检验(Mann-WhitneyU检验），结果显示：BPH合并炎症组PSA、f-PSA、PSAD显著高于单纯BPH组患者( $scriptstyle \\mathrm { { U = } } 3 0 . 0$ $P { < } 0 . 0 0 1$ · $\\mathrm { U } { = } 4 5 5 2 . 0 , P { < } 0 . 0 0 1$ · $\\mathrm { U } { = } 2 7 3 . 5$ $P { < } 0 . 0 0 1$ )；而两组患者PSA-Ratio比较差异无统计学意义（ $\\mathrm { U } { = } 4 4 5 8 . 5$ $\\scriptstyle P = 0 . 1 2 9$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3两组患者前列腺液中IL-8、IL-6水平比较及其与",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EPSWBC、PSA、PSAD间相关性",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "两组数据均行Mann-WhitneyU检验,结果显示：BPH合并炎症组IL-8、IL-6水平显著高于单纯BPH组患者( $\\mathrm { U } { = } 3 1 2 . 0$ ， $P { < } 0 . 0 0 1 ; \\mathrm { U } { = } 6 5 . 0 , P { < } 0 . 0 0 1 )$ ，差异有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4调整年龄后PSA与相关变量的偏相关分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在控制年龄的影响下，标准正态转换血清PSA与甘油三酯、IPSS评分、f-PSA、EPWBC、前列腺液中IL-8、IL-6进行偏相关分析，上述结果呈显著相关性(表2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/89ea299a69424b00e26206d3d9c6107722fa487de1dc383889b59cd7095ce63f.jpg",
+        "table_caption": [
+            "表2调整年龄后PSA与相关变量的偏相关分析结果 Tab.2 Age-adjusted Pearson partial correlations between serum prostate-specific antigen (PSA） and other variables "
+        ],
+        "table_footnote": [
+            "$^ { * } P { < } 0 . 0 5$ ， $^ { * * } P { < } 0 . 0 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Variable</td><td colspan=\"2\">Serum PSA</td></tr><tr><td>r</td><td>P</td></tr><tr><td>BMI (kg/m²)</td><td>0.110</td><td>0.112</td></tr><tr><td>Systolic blood pressure (mmHg)</td><td>-0.008</td><td>0.903</td></tr><tr><td>Diastolic blood pressure (mmHg)</td><td>-0.026</td><td>0.706</td></tr><tr><td>Plasma glucose (mmol/L)</td><td>0.051</td><td>0.458</td></tr><tr><td>Serum total cholesterol (mmol/L)</td><td>0.034</td><td>0.625</td></tr><tr><td>Serum triglycerides (mmol/L)</td><td>-0.195</td><td>0.005*</td></tr><tr><td>Serum high density lipoprotein cholester (mmol/L)</td><td>0.016</td><td>0.820</td></tr><tr><td>Serum low density lipoprotein cholesterol (mmol/L)</td><td>-0.046</td><td>0.511</td></tr><tr><td>IPSS</td><td>0.245</td><td><0.001**</td></tr><tr><td>Prostate volume (mL)</td><td>0.003</td><td>0.970</td></tr><tr><td>f-PSA (ng/mL)</td><td>0.166</td><td>0.016*</td></tr><tr><td>EPWBC</td><td>0.880</td><td><0.001**</td></tr><tr><td>IL-8 (pg/mL)</td><td>0.986</td><td><0.001**</td></tr><tr><td>IL-6 (pg/mL)</td><td>0.953</td><td><0.001**</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5进一步建立多元线性回归模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "血清PSA与调整年龄后存在显著偏相关的变量进一步行多元线性回归分析：把血清PSA作为因变量，甘油三酯、IPSS评分、f-PSA、EPWBC、前列腺液中IL-8、IL-6作为自变量，进行逐步回归分析。按 $P { < } 0 . 0 5$ 进入， $> 0 . 1$ 剔除的设置模型，结果(表3)表明EPWBC、前列腺液中IL-8、IL-6是血清PSA的独立影响因子或预测因子，存在独立相关性。且标准化系数β大小表明，对PSA影响高低依次为IL-8、IL-6、EPWBC,均呈显著正相关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ec9c3747f47e6339b6fc08954323dec2e39179971ba44e7165795bb8ec1918d.jpg",
+        "table_caption": [
+            "表3血清PSA与相关变量的多元回归分析Tab.3 Multiple linear regressions analysis of serum PSAand other variables",
+            ""
+        ],
+        "table_footnote": [
+            "Dependent variable :serum prostate-specific antigen (PSA). "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">Unstandardized coefficients</td><td rowspan=\"2\">Standardized coefficients β</td><td rowspan=\"2\">t</td><td rowspan=\"2\">P</td></tr><tr><td></td><td>B</td><td>Std.Error</td></tr><tr><td>Constant</td><td>2.863E-16</td><td>0.008</td><td></td><td>0.000</td><td>1.00</td></tr><tr><td>EPWBC</td><td>0.140</td><td>0.016</td><td>0.140</td><td>8.911</td><td>0.000</td></tr><tr><td>IL-8</td><td>0.724</td><td>0.024</td><td>0.724</td><td>30.762</td><td>0.000</td></tr><tr><td>IL-6</td><td>0.158</td><td>0.025</td><td>0.158</td><td>6.325</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近20年，来自多个亚洲国家公布的关于前列腺癌流行病学研究数据显示，其发病率及病死率呈大幅上升趋势[,结果令人警醒。血清前列腺特异性抗原(prostate-specificantigen,PSA)水平是诊断及监测前列腺癌的重要工具。但PSA仅具有高度器官或组织特异性，而不是肿瘤特异性标志物，其易受多种因素影响，诸如年龄、前列腺体积、经尿道的检查、经直肠的检查、饮食药物及代谢综合征等因素[7-]。临床工作中发现相当一部分PSA升高的患者并非前列癌所致，依据PSA升高患者进行系统活检，除存在一定的风险和并发症外，还给患者带来巨大心理负担、精神压力及医疗资源的浪费。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "前列腺炎症性病变对血清PSA的影响倍受国内外研究者关注。其中，BPH合并组织学前列腺炎的检出率国外报道约为 $8 7 . 5 \\% { \\sim } 1 0 0 \\% ^ { [ 3 , 1 2 ] }$ ,本研究中患者BPH合并前列腺炎的患病率为 $6 4 . 5 \\%$ ,其结果差异系合并前列腺炎的评判标准不同所致[12]。既往大量关于前列腺炎症与血清PSA关系多集中于组织学层面的研究，另有部分涉及前列腺液中细胞因子与前列腺炎的关系研究，却少有关于前列腺液中细胞因子与血清PSA关系的研究。鉴于此，本研究将探讨BPH合并前列腺炎症患者前列腺液中IL-8、IL-6与血清PSA的相关性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "国内有研究指出[9],在控制年龄的偏相关分析中，BMI和FBG与PSA呈负相关，年龄与PSA呈正相关，并强调在临床解释PSA水平时，应考虑年龄、BMI和血糖水平的影响。此外，张小马等[13在BPH与血生化指标的关系研究中认为，BPH患者前列腺体积、t-PSA与血糖、血脂等代谢水平有关，与FBG呈正相关，与高密度脂蛋白呈负相关。本研究资料中两组患者年龄、BMI、血压、血糖、血脂、IPSS评分及前列腺体积比较差异均无统计学意义，排除了上述因素造成的血清PSA差异，说明两组均衡可比",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "陈鑫等14报道前列腺液中白细胞密度与血清PSA呈正相关，指出PSA值增高可能与白细胞浸润有关。大量有关组织病理学研究认为[5.15],各型前列腺炎症中炎症细胞破坏了腺管及原有组织正常生理屏障的完整性，导致本应当分泌至前列腺腺管内的PSA渗漏到基质中，同时炎症也使得淋巴管、毛细血管的通透性增高，使PSA易于进人血液循环,最终导致血清中浓度升高。本研究BPH合并前列腺炎症组血清PSA显著高于单纯BPH组，且前列腺液白细胞计数与PSA呈显著正相关性 $\\scriptstyle ( r = 0 . 8 8 0 , P < 0 . 0 0 1 )$ ，,研究结果与前述相关研究相符合。此外，BPH合并前列腺炎症组PSAD与单纯BPH组差异有统计学意义 $\\left( \\mathrm { U } { = } 2 7 3 . 5 , P { < } 0 . 0 0 1 \\right.$ ），该结果与李可等[]相关研究相似，通过组织学炎症分级分析单纯BPH与BPH合并炎症PSA与PSAD之间的差异，他们认为炎症浸润和破坏程度越高，PSA越高，浸润程度越高，PSAD越高。然而，两组PSA-Ratio值比较无统计学意义 $\\mathrm { ( } \\mathrm { U } { = } 4 4 5 8 . 5 , P { = } 0 . 1 2 9 \\mathrm { ) }$ ，似乎前列腺炎症对BPH患者PSA-Ratio值无明显影响，但满立波等[17]研究指出,PSA-Ratio值与前列腺炎症的分级和范围呈显著相关性。但鉴于其研究样本量较小，此结论值得进一步商榷。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "有研究表明[18-19],IL-8、IL-6等参与慢性前列腺炎的发生发展，而且其检测水平可以反应前列腺内炎症严重程度。本研究发现BPH合并炎症组患者IL-8水平显著高于单纯BPH组，且其与血清PSA、前列腺液白细胞计数呈显著相关性 $\\left( r { = } 0 . 9 8 7 , P { < } 0 . 0 0 1 ; r { = } 0 . 8 3 7 \\right.$ $P { < } 0 . 0 0 1 \\$ )。研究结果与段志国等[20相关研究部分结果相符，这与IL-8的趋化功能相符，趋化性细胞因子诱导白细胞集中于前列腺，产生或加剧炎症反应。然而，遗憾的是其未涉及血清PSA值的研究。值得注意的是，前列腺液中IL-8浓度与血清PSA呈显著正相关，表明在细胞因子层面反映前列腺炎症对血清PSA的影响。且国内外均有文献指出[2I-22],BPH合并慢性前列腺炎症患者经抗炎治疗后，血清PSA及IL-8均显著下降。另外，BPH合并炎症组患者IL-6水平也显著高于单纯BPH组，其与血清PSA及前列腺液白细胞计数呈显著正相关 $( r { = } 0 . 9 5 3 , P { < } 0 . 0 0 1$ · $_ { r = 0 . 8 5 1 }$ $P { < } 0 . 0 0 1 \\$ )。该研究与Korrovits等[19]结果相似,他们发现IL-6与血清PSA、精液白细胞计数在V型前列腺炎中显著增高。这些缘于炎症介质IL-6的生物活性，它能激活、诱导淋巴细胞的分化、增强单核细胞、NK细胞杀伤靶细胞，趋化并激活中性粒细胞，促进中性粒细胞的溶酶体活性和吞噬功能。决定炎症反应的类型和持续时间，在炎症性疾病中起重要作用[23]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，前列腺炎症是前列腺增生患者血清PSA高水平的重要因素之一。BPH合并前列腺炎症患者血清PSA水平升高更加明显，且相应前列腺液中IL-8、IL-6水平均一致升高。建立多元线性回归分析证实前列腺液中IL-8、IL-6、EPWBC是血清PSA的独立影响因子或预测因子，依次呈显著正相关性。针对血清PSA升高的BPH患者可先行前列腺液白细胞、IL-8、IL-6检测，显著升高者可考虑给予抗炎治疗，复测血清PSA、IL-8、IL-6水平变化，以尽可能的提高PSA诊断前列腺癌的准确性及特异性，减少不必要的前列腺穿刺活检。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Fibbi B,Penna G,Morelli A,et al.Chronic inflammation in the ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "pathogenesis of benign prostatic hyperplasia[J]. Int J Androl,2010, 33(3): 475-88.   \n[2]Bostanci Y,Kazzazi A,Momtahen S,et al. Correlation between benign prostatic hyperplasia and inflammation[J].Curr Opin Urol, 2013,23(1): 5-10.   \n[3]Nickel JC.The overlapping lower urinary tract symptoms of benign prostatic hyperplasia and prostatitis[J].Curr Opin Urol,2006,16 (1): 5-10.   \n[4]Wu C,Zhang Z,Lu Z,et al. Prevalence of and risk factors for asymptomatic inflammatory (NIH-IV) prostatitis in Chinese men[J]. PLoS One,2013,8(8): e71298.   \n[5]白安胜,汪峰,贾军琪,等.前列腺增生症患者合并前列腺炎对血清 PSA的影响[J].现代泌尿外科杂志,2012,17(2):177-9.   \n[6]Xia SJ,Cui D,Jiang Q.An overview of prostate diseases and their characteristics specific to Asian men[J].Asian JAndrol,2012,14 (3): 458-64.   \n[7] Chang SL, Harshman LC,Presti JC.Impact of common medications on serum total prostate-specific antigen levels:analysis of the National Health and Nutrition Examination Survey [J].J Clin Oncol,2010,28(25):3951-7.   \n[8]Shirazi M,Ariafar A, Zeyghami S,et al.Association of diet with prostate specific antigen and prostate volume[J].Nephrourol Mon, 2014,6(4): e19411.   \n[9]张本宏,章飞,陈保德,等.代谢综合征及其风险因子对血清前列腺特 异性抗原水平的影响[J].检验医学,2014,29(9):940-4.   \n[10]Ansong E,Ying Q,Ekoue DN,et al.Evidence that Selenium binding protein 1 is a tumor suppressor in prostate cancer[J].PLoS One,2015,10(5): e0127295.   \n[11]刘欣,王节,张舜欣,等.北京地区临床无前列腺癌人群年龄相关性 前列腺特异性抗原的参考范围[J].南方医科大学学报,2013,33(11): 1704-8.   \n[12]胡旭辉,刁伟强,陈 浩.前列腺增生合并前列腺炎的临床研究[J].岭 南现代临床外科,2010,10(6):454-6.   \n[13]张小马,方军,龚强.良性前列腺增生与血生化代谢指标的关系分析 [J].中华泌尿外科杂志,2013,34(3):208-11.   \n[14]陈 鑫,李宇峰,王 萍,等.前列腺特异性抗原异常患者前列腺液细胞 学检查的临床分析[J].中华泌尿外科杂志,2012,33(2):123-6.   \n[15]肖丽萍,毕向军,李亚南,等.前列腺物异性抗原对前列腺癌早期诊断 的价值[J].南方医科大学学报,2007,27(1):107-8.   \n[16]李可,杨金瑞.良性前列腺增生合并前列腺炎患者的临床特点分析 [J].中华泌尿外科杂志,2009,30(2):127-9.   \n[17]满立波,李贵忠,黄广林,等.V型前列腺炎炎症分级和范围与前列腺 特异性抗原之间的关系[J].中华男科学杂志,2012,18(8):710-4.   \n[18]王晓荣,陈 宪,程 献,等.精浆中细胞因子水平与慢性非细菌性前列 腺炎的相关性分析[J].临床和实验医学杂志,2009,8(9)：73,76.   \n[19]Korrovits P,Ausmees K,Mandar R,et al. Seminal interleukin-6 and serum prostate-specific antigen as possible predictive biomarkers in asymptomatic inflammatory prostatitis [J].Urology，2011,78(2): 442-6.   \n[20]段志国,杨为民.慢性前列腺炎患者前列腺液中IL-2,IL-8及IL-10水 平分析[J].中华男科学杂志,2005,11(3):201-3.   \n[21]张豪杰,盛璐,陈燕忠,等.前列腺特异抗原异常患者抗感染药物治疗 后血清指标的变化及其意义[J].复旦学报:医学版,2011,38(6): 496-500.   \n[22]Agnihotri S,Mittal RD,Kapoor R,et al. Asymptomatic prostatic inflammation in men with clinical BPH and erectile dysfunction affects the positive predictive value of prostate-specific antigen[J]. Urol Oncol,2014,32(7): 946-51.   \n[23]汪岩,赵忠文，王立波.前列腺液中细胞因子(IL-6、TNF-α)在慢性前 列腺炎中的意义[J].白求恩医科大学学报,1999,25(4):402-3. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(编辑：经媛)",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,128 @@
+李宇敏」　杨美璐」　吴峰洋」陈宝江 $^ 1$ 谷子林1,2.3 陈赛娟 2.3刘亚娟 2.3\*（1.河北农业大学动物科技学院，保定071001；2.河北省山区农业工程技术研究中心，保定071001；3.河北农业大学山区研究所，保定071001)
+
+摘要：本试验旨在通过消化试验来评定早稻和晚稻在生长獭兔上的营养价值。选择18 只60日龄、平均体重为（ $1 . 5 0 { \scriptstyle \pm 0 . 2 0 } \$ ）kg 的健康状况良好的白色獭兔，随机分为3组（每组6个重复，每个重复1只），分别饲喂基础饲粮、早稻饲粮（ $8 5 \%$ 基础饲粮 $+ 1 5 \%$ 早稻）、晚稻饲粮（ $8 5 \%$ 基础饲粮 $+ 1 5 \%$ 晚稻）。预试期和正试期各7d。采用全收粪法测定生长獭兔对早稻和晚稻中主要营养物质的表观消化率。结果显示：1）早稻与晚稻中总能（GE）、干物质（DM）、粗蛋白质（CP）、粗脂肪（EE）、粗纤维（CF）、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）、酸性洗涤木质素（ADL）、粗灰分（Ash）、钙（Ca）、磷（P）、无氮浸出物（NFE）的含量分别为 $1 6 . 2 5 \mathrm { M J / k g }$ 、 $8 6 . 3 2 \%$ 、 $7 . 8 2 \%$ 、 $1 . 3 2 \%$ 、 $8 . 5 4 \%$ 、 $2 3 . 3 5 \%$ 、10.54%、 $1 . 5 4 \%$ 、 $1 . 3 2 \%$ 、 $0 . 5 3 \%$ 、 $0 . 3 8 \%$ 、 $6 4 . 7 6 \%$ 与 16.07 MJ/kg、 $8 9 . 1 7 \%$ 、 $6 . 8 8 \%$ 、 $1 . 3 2 \%$ 、9.07%、 $2 4 . 5 5 \%$ 、 $1 1 . 5 7 \%$ 、 $2 . 0 1 \%$ 、 $3 . 9 6 \%$ 、 $0 . 6 2 \%$ 、 $0 . 2 1 \%$ 、 $6 3 . 7 1 \%$ 。2）早稻和晚稻在生长獭兔中的表观消化能分别为10.43 和 $1 0 . 3 2 \mathrm { M J / k g }$ ，生长獭兔对早稻和晚稻中GE、DM、CP、EE、CF、NDF、ADF、Ash、Ca、P、NFE 的表观消化率分别为 $6 5 . 3 3 \%$ 、 $7 4 . 3 2 \%$ 、 $7 6 . 6 9 \%$ ，68.59%、 $1 3 . 1 2 \%$ 、38.63%、 $2 7 . 1 1 \%$ 、 $5 2 . 2 3 \%$ 、 $5 0 . 0 3 \%$ 、 $1 5 . 5 4 \%$ 、 $7 4 . 3 5 \%$ 与 $6 4 . 2 2 \%$ 、 $7 6 . 1 5 \%$ 、$7 0 . 9 2 \%$ 、 $7 2 . 9 3 \%$ 、 $1 4 . 3 5 \%$ 、 $3 8 . 4 9 \%$ 、 $2 7 . 0 9 \%$ 、 $5 2 . 0 3 \%$ 、 $4 8 . 6 3 \%$ 、 $1 4 . 9 9 \%$ 、 $7 3 . 6 4 \%$ 。由上可知，早稻和晚稻中主要营养物质含量差异较小，生长獭兔对早稻和晚稻主要营养物质的表观消化率基本相当；早稻和晚稻均可以作为生长獭兔的能量饲料来源，二者对生长獭兔的营养
+
+价值相近。
+
+关键词：早稻；晚稻；消化率；营养物质；生长獭兔
+
+中图分类号：S816 文献标识码：A 文章编号：我国畜禽饲粮大多数是"玉米-豆粕"型饲粮。随着玉米深加工技术的发展，玉米在酿酒、  
+生物酒精、氨基酸、木糖醇等产业的需要量激增，加之国内养殖规模的不断扩大，我国很多  
+地区玉米供不应求。许多饲料企业为保证生产甚至从外省调配或者购进玉米。开发新的能量  
+饲料部分替代玉米为解决能量饲料短缺提供了新途径。稻谷是我国的主要粮种之一，2016  
+年我国水稻单产总产量约为20 693.4万t，其中早稻产量3277.7万t，中晚稻产量17 415.7  
+万t。我国稻谷年产量占世界稻谷年总产量的 $3 5 \%$ 左右，居世界之首[1-2]。早稻由于生长期  
+和季候等因素的影响使得口味欠佳，市场价格低并且销路不畅。目前已有关于早稻作为猪、  
+牛、鸭等畜禽饲料的相关报道[3-5]，但早稻应用于家兔饲粮中却鲜见报道。本试验旨在对早  
+稻和晚稻进行营养价值评定，为其在獭兔生产中的应用提供数据参考。  
+1材料与方法  
+1.1试验材料本试验所用稻谷均产自广西省南宁市，早稻为“特优2258”品种，晚稻为“金优 527”  
+品种。稻谷自然晾晒，粉碎后棚内贮存。试验动物为18只60日龄的健康白色獭兔，平均体重为（ $1 . 5 0 { \pm } 0 . 2 0 \ \^$ ）kg。  
+1.2试验饲粮基础饲粮参考 NRC（1977）建议的兔营养需要量以及谷子林[推荐的獭兔饲粮营养标  
+准进行配制，其组成及营养水平见表1。试验饲粮为早稻饲粮和晚稻饲粮，采用套算法进行  
+设计，由 $8 5 \%$ 的基础饲粮和 $1 5 \%$ 的待测饲料原料配制而成。基础饲粮和试验饲粮均制成直  
+径为 $4 \mathrm { m m }$ 、长 $1 0 \mathrm { m m }$ 的颗粒饲粮。
+
+含量Content
+
+<html><body><table><tr><td></td></tr><tr><td>原料 Ingredients</td></tr><tr><td>玉米 Corm 16.50</td></tr><tr><td>小麦麸 Wheat bran 24.00</td></tr><tr><td>豆粕 Soybean meal 10.00</td></tr><tr><td>大麦 Barley 10.00</td></tr><tr><td>芝麻粕 Sesame meal 3.00</td></tr><tr><td>花生粕 Peanut meal 2.00</td></tr><tr><td>麦芽根 Malt root 11.00</td></tr><tr><td>菊花粉 Chry powder 12.00</td></tr><tr><td>花生壳 Peanut hull 9.00</td></tr><tr><td>石粉 Limestone 1.45</td></tr><tr><td>预混料 Premix1) 0.30</td></tr><tr><td>氯化钠 NaCl</td></tr><tr><td>0.50</td></tr><tr><td>赖氨酸盐酸盐 Lys·HCl（98.5%） 0.10</td></tr><tr><td>蛋氨酸盐酸盐 Met·HCl（99.0%） 0.15</td></tr><tr><td>合计Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>消化能 DE/(MJ/kg) 10.52</td></tr><tr><td>粗蛋白质 CP 17.12</td></tr><tr><td>粗纤维CF 14.67</td></tr><tr><td>粗脂肪 EE 2.64</td></tr></table></body></html>
+
+钙Ca 0.87
+
+总磷TP 0.49  
+总赖氨酸 TLys 0.80  
+总蛋氨酸 $^ +$ 总胱氨酸TMet+TCys 0.60
+
+1)预混料为每千克饲粮提供 The premix provided per kg of the diet:Fe (as ferric sulfate) 70 mg, Cu (as copper sulfate) $2 0 \ : \mathrm { m g }$ ， $Z \mathrm { n }$ (as zinc sulfate) $7 0 \mathrm { m g }$ ， Mn (as manganese sulfate) $1 0 \mathrm { m g }$ Co $0 . 1 5 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 2 \ : \mathrm { m g }$ ， Se (as sodium sulfate) $0 . 2 5 \mathrm { m g }$ ，VA 10 000 IU，VE $5 0 \mathrm { m g }$ ，VK $2 \ : \mathrm { m g }$ ， 硫胺素thiamine $2 ~ \mathrm { m g }$ ，核黄素riboflavin $6 ~ \mathrm { m g }$ ，泛酸pantothenic acid $5 0 ~ \mathrm { m g }$ ，吡哆醇 pyridoxine $2 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$ ，烟酸niacin $5 0 \mathrm { m g }$ ，胆碱choline $1 0 0 0 \mathrm { m g }$ ，生物素 biotin 0.2 mg。
+
+2)营养水平为实测值。Nutrient level were measured values.
+
+# 1.3 试验动物及分组
+
+消化试验于2017年5月1日至2017年5月14日在河北农业大学试验兔场进行。将18只试验獭兔随机分成3组，每组6个重复，每个重复1只。3组獭兔分别饲喂基础饲粮、早稻饲粮（ $8 5 \%$ 基础饲粮 $+ 1 5 \%$ 早稻）和晚稻饲粮（ $8 5 \%$ 基础饲粮 $+ 1 5 \%$ 晚稻）。
+
+# 1.4 消化试验
+
+试验兔于消化代谢笼内单笼饲养，每天饲喂2次，饲喂量掌握在采食后略有剩余，自由采食和饮水，自然通风和光照。采用全收粪法进行消化试验，预试期和正试期各7d，预试期观测每只试验兔的采食量，正试期记录和称量每只试验兔每天的实际采食量，以重复为单位。每天10:00收集全部新鲜粪便，清除粪球上的兔毛后称重，将新鲜粪便分成2份，一份用 $10 \%$ 盐酸溶液固定挥发性氮，用于测定粗蛋白质含量；另一份不添加盐酸溶液，用于分析其他常规营养物质含量。试验结束后，将收集的粪便充分混匀，置入烘箱中 $6 5 { \sim } 7 0 ^ { \circ } \mathrm { C }$ 烘干，取出后在空气中回潮 $2 4 \mathrm { h }$ 后称重，测定初水分后将风干样品粉碎，取部分样品装入样
+
+HH山竹田。
+
+1.5测定指标和方法分别采集早稻和晚稻原料以及基础饲粮、试验饲粮和粪便样品，测定各样品中主要营养  
+物质的含量。其中，总能（GE）采用长沙友欣YX-ZR天鹰自动量热仪测定，粗脂肪（EE）  
+含量采用索氏提取法（GB/T 6433-2006)测定，粗蛋白质（CP）含量采用FossKjeltec 8400 全  
+自动凯氏定氮仪测定，粗纤维（CF）、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）和  
+酸性洗涤木质素（ADL）含量采用ANKOMA2000i全自动纤维分析仪测定，粗灰分（Ash）  
+含量采用 550C灼烧法（GB/T6438-92）测定，钙（Ca）含量采用高锰酸钾滴定法（仲裁法）  
+（GB/T6436-2002）测定，磷（P）含量采用钼酸比色法（GB/T6437-2002）测定，干物质  
+（DM）含量测定时先测出样品的水分含量（GB/T6435-2014），再进一步计算出DM含量。  
+无氮浸出物（NFE）含量可通过公式无氮浸出物=100-(水分 $+$ 粗灰分 $^ +$ 粗蛋白质 $+$ 粗脂肪 $^ +$ 粗纤  
+维)求得。  
+1.6计算公式饲粮中主要营养物质的表观消化率计算公式为：饲粮中某营养物质的表观消化率 $( \% ) = 1 0 0 \times$ （食入某营养物质量一对应粪中某营养物  
+质量）/食入某营养物质量。待测饲料中某营养物质的表观消化率计算公式为：D=100×（A-B） /F+B;$F { = } C _ { 1 } { \times } f / [ C _ { 1 } { \times } f { + } C _ { 0 } { \times } ( 1 { - } f ) ] \circ$ 式中： $D$ 为待测饲料原料中某营养物质的表观消化率 $( \%$ ）； $A$ 为试验饲粮中该营养物  
+质的表观消化率 $( \%$ ）； $B$ 为基础饲粮中该营养物质的表观消化率（%）； $F$ 为待测饲料原  
+料提供的该营养物质占试验饲粮总营养物质的比例（%）； $f$ 为试验饲粮中掺入待测饲料原  
+料的比例 $( \% )$ ）； $C _ { 0 }$ 为基础饲粮中该营养物质的含量（%）； $C _ { 1 }$ 为待测饲料原料中该营养物
+
+质的含量 $( \% )$ ）。
+
+# 1.7 数据处理与分析
+
+试验数据采用Excel2010进行处理，结果以平均值 $\pm$ 标准差表示。
+
+# 2结果与分析
+
+2.1生长獭兔各饲粮和待测饲料原料中GE 和主要营养物质含量由表2可知，3种饲粮中，基础饲粮中GE 略低于早稻饲粮和晚稻饲粮；2种试验饲粮中CF含量均低于基础饲粮，其中以早稻饲粮中CF含量最低，为 $14 . 3 5 \%$ ；以基础饲粮中CP 含量最高，为 $1 7 . 1 2 \%$ ，早稻饲粮和晚稻饲粮中CP含量基本相当，分别为 $1 6 . 8 0 \% . 1 6 . 7 3 \%$ 02 种待测饲料原料中，早稻中GE、CP含量分别为 $1 6 . 2 5 \mathrm { M J / k g }$ 、 $7 . 8 2 \%$ ，晚稻中GE、CP含量分别为 $1 6 . 0 7 \mathrm { M J / k g } \cdot 6 . 8 8 \%$ ，早稻高于晚稻；早稻中CF含量为 $8 . 5 4 \%$ ，低于晚稻的 $9 . 0 7 \%$ 早稻中 NDF、ADF、ADL含量分别为 $2 3 . 3 5 \%$ 、 $10 . 5 4 \%$ 、 $1 . 5 4 \%$ ，晚稻中 NDF、ADF、ADL含量分别为 $2 4 . 5 5 \%$ 、 $1 1 . 5 7 \%$ 、 $2 . 0 1 \%$ ，晚稻中NDF、ADF、ADL含量均较早稻高。
+
+表2生长獭兔各饲粮和待测饲料原料中GE 和主要营养物质含量（风干基础）
+
+Table 2GE and major nutrient contents in diets and tested feed ingredients for growing Rex   
+
+<html><body><table><tr><td colspan="5">rabbits (air-dry basis)</td></tr><tr><td></td><td>基础饲粮</td><td>早稻饲粮</td><td>晚稻饲粮</td><td>早稻</td><td>晚稻</td></tr><tr><td>项目Items</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Basal diet</td><td>Early rice diet</td><td>Late rice diet</td><td>Early rice</td><td>Late rice</td></tr><tr><td>总能</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>GE/(MJ/kg)</td><td>15.33±0.03</td><td>15.36±0.14</td><td>15.58±0.02</td><td>16.25±0.08</td><td>16.07±0.01</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM/%</td><td>86.73±0.04</td><td>87.36±1.35</td><td>88.40±0.05</td><td>86.32±0.17</td><td>89.17±0.10</td></tr><tr><td>粗蛋白质</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CP/%</td><td>17.12±0.03</td><td>16.80±0.04</td><td>16.73±0.03</td><td>7.82±0.95</td><td>6.88±0.18</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗脂肪 EE/%</td><td>2.64±0.03</td><td>2.33±0.03</td><td>2.27±0.07</td><td>1.32±0.03</td><td>1.32±0.04</td></tr></table></body></html>
+
+<html><body><table><tr><td>粗灰分 Ash/%</td><td>11.53±0.06</td><td>12.16±1.27</td><td>10.98±0.05</td><td>3.58±0.10</td><td>3.96±0.00</td></tr><tr><td>钙 Ca/%</td><td>0.87±0.04</td><td>0.61±0.03</td><td>0.78±0.02</td><td>0.53±0.53</td><td>0.62±0.01</td></tr><tr><td>磷P/%</td><td>0.49±0.05</td><td>0.42±0.01</td><td>0.44±0.03</td><td>0.38±0.04</td><td>0.21±0.06</td></tr><tr><td>粗纤维 CF/%</td><td>14.67±0.09</td><td>14.35±0.17</td><td>15.88±0.05</td><td>8.54±0.87</td><td>9.07±1.07</td></tr><tr><td>中性洗涤纤维</td><td>31.78±0.06</td><td>30.13±1.02</td><td>31.53±0.03</td><td>23.35±2.54</td><td>24.55±2.47</td></tr><tr><td>NDF/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酸性洗涤纤维</td><td>17.57±0.07</td><td>17.56±0.34</td><td>18.38±0.06</td><td>10.54±1.35</td><td>11.57±1.73</td></tr><tr><td>ADF/% 酸性洗涤木质</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>5.53±0.04</td><td>4.56±0.03</td><td>4.97±0.08</td><td>1.54±0.45</td><td>2.01±1.30</td></tr><tr><td>素 ADL/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无氮浸出物</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>40.77±0.15</td><td>41.72±2.37</td><td>42.55±0.12</td><td>64.76±1.46</td><td>63.71±1.39</td></tr></table></body></html>
+
+2.2生长獭兔各饲粮和待测饲料原料的表观消化能和能量及主要营养物质的表观消化率由表3可知，早稻饲粮的表观消化能略低于基础饲粮和晚稻饲粮，分别为10.35、10.52、$1 0 . 5 6 \mathrm { M J / k g }$ ；基础饲粮的能量表观消化率稍高于早稻饲粮和晚稻饲粮，但差别不大，分别为 $6 8 . 6 4 \%$ 、 $6 8 . 3 3 \%$ 、 $67 . 8 2 \%$ 。早稻的表观消化能和能量表观消化率稍高于晚稻，分别高出0.11和1.11百分点。3种饲粮中，基础饲粮的CP、CF表观消化率最高，分别为 $8 0 . 6 5 \%$ 、$2 7 . 3 7 \%$ ，晚稻饲粮的CP、CF表观消化率最低，分别为 $7 9 . 9 2 \%$ 、 $2 5 . 4 0 \%$ ；DM、NFE表观消化率以晚稻饲粮最高，分别为 $6 9 . 8 2 \%$ 、 $78 . 6 6 \%$ ；早稻饲粮的 Ash、Ca、P、NDF、ADF表观消化率分别为 $5 2 . 4 3 \%$ 、 $5 3 . 4 5 \%$ 、 $1 9 . 8 7 \%$ 、 $3 9 . 4 2 \%$ 、 $2 7 . 6 3 \%$ ，晚稻饲粮的Ash、Ca、P、NDF、ADF表观消化率分别为 $51 . 8 4 \%$ 、 $5 3 . 2 5 \%$ 、 $1 9 . 9 3 \%$ 、 $3 8 . 3 6 \%$ 、 $2 7 . 2 1 \%$ ，两者基本相当。早稻的CP表观消化率为 $7 6 . 6 9 \%$ ，高于晚稻的 $7 0 . 9 2 \%$ ；早稻的CF表观消化率为 $1 3 . 1 2 \%$ 低于晚稻的 $1 4 . 3 5 \%$ ；早稻的DM表观消化率稍低于晚稻，分别为 $74 . 3 2 \%$ 、 $7 6 . 1 5 \%$ ；早稻和晚稻的Ash、P、Ca、NDF、ADF表观消化率基本相当。
+
+表3生长獭兔各饲粮和待测原料的表观消化能以及能量和主要营养物质的表观消化率
+
+Table 3Apparent digestible energy, apparent digestibility of energy and major nutrients in diets   
+
+<html><body><table><tr><td colspan="6">and tested feed ingredients for growing Rex rabbits</td></tr><tr><td></td><td>基础饲粮</td><td>早稻饲粮</td><td>晚稻饲粮</td><td>早稻</td><td>晚稻</td></tr><tr><td>项目Items</td><td>Basal diet</td><td>Early rice diet</td><td>Late rice diet</td><td>Early rice</td><td>Late rice</td></tr><tr><td>表观消化能</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Apparent digestible</td><td></td><td>10.35±0.32</td><td>10.56±0.23</td><td>10.43±1.46</td><td>10.32±1.19</td></tr><tr><td></td><td>10.52±0.23</td><td></td><td></td><td></td><td></td></tr><tr><td>energy/ （MJ/kg)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>表观消化率Apparent digestibility/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>能量Energy</td><td>68.64±1.48</td><td>68.33±5.99</td><td>67.82±1.45</td><td>65.33±4.36</td><td>64.22±3.44</td></tr><tr><td>干物质 DM</td><td>68.83±1.44</td><td>69.73±4.33</td><td>69.82±3.72</td><td>74.32±3.05</td><td>76.15±10.75</td></tr><tr><td>粗蛋白质CP</td><td>80.65±0.98</td><td>80.27±0.16</td><td>79.92±1.24</td><td>76.69±2.20</td><td>70.92±3.53</td></tr><tr><td>粗脂肪 EE</td><td>83.95±1.38</td><td>82.63±0.14</td><td>82.98±0.21</td><td>68.59±1.65</td><td>72.93±2.60</td></tr><tr><td>粗灰分 Ash</td><td>52.08±2.17</td><td>52.43±0.79</td><td>51.84±0.57</td><td>52.23±3.17</td><td>52.03±10.03</td></tr><tr><td>钙Ca</td><td>53.52±5.66</td><td>53.45±3.87</td><td>53.25±0.05</td><td>50.03±4.32</td><td>48.63±6.88</td></tr><tr><td>磷P</td><td>20.70±5.83</td><td>19.87±2.13</td><td>19.93±0.17</td><td>15.54±1.78</td><td>14.99±2.45</td></tr><tr><td>粗纤维CF</td><td>27.37±5.00</td><td>25.71±0.44</td><td>25.40±0.48</td><td>13.12±4.87</td><td>14.35±2.17</td></tr><tr><td>中性洗涤纤维</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NDF</td><td>39.87±6.53</td><td>39.42±3.25</td><td>38.36±0.42</td><td>38.63±2.04</td><td>38.49±1.63</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酸性洗涤纤维</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADF</td><td>27.07±4.68</td><td>27.63±0.58</td><td>27.21±0.70</td><td>27.11±3.79</td><td>27.09±2.17</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无氮浸出物NFE</td><td>77.11±1.35</td><td>78.34±6.73</td><td>78.66±7.54</td><td>74.35±5.31</td><td>73.64±6.81</td></tr></table></body></html>
+
+# 3.1早稻和晚稻中主要营养物质含量
+
+稻谷分为稻和粳稻2个亚种，分别为早季稻和晚季稻。早灿稻支链淀粉少，直链淀粉多（ $52 5 \%$ ），饭粒硬，口感差，销路不畅，积压严重，多被用于畜禽饲料。直链淀粉与支链淀粉的含量与比例，以及饲料在消化道内停留的时间，会影响饲料中淀粉的消化和淀粉酶的活性，从而影响营养物质的表观消化率[7]。本试验的测定结果显示，早稻和晚稻中CP 含量分别为 $7 . 8 2 \%$ 、 $6 . 8 8 \%$ 。早稻的CP含量高于俞路等[8]报道的 $7 . 2 7 \%$ ，低于郑艺梅等[9]报道的早稻糙米CP 含量 $8 . 6 5 \% \sim 1 2 . 5 2 \%$ ，与张莹等[10]报道的 $7 . 8 0 \%$ 基本一致。造成差异的原因可能与稻谷的脱壳程度不同有关，CP的含量与脱壳程度有直接关系。本试验测定早稻GE为 $1 6 . 2 5 \mathrm { M J / k g }$ ，稍高于何仁春等[1测定的早粘稻GE 为 $1 5 . 6 8 \mathrm { M J / k g }$ 及谭荣炳等[12]测定的早灿稻GE为 $1 5 . 8 3 ~ \mathrm { M J / k g }$ ，这可能与品种存在差异有关。本试验测定的早稻和晚稻中CF含量分别为 $8 . 5 4 \%$ 、 $9 . 0 7 \%$ ，均高于张莹等[10]报道的 $8 . 2 \%$ ，早稻CF含量低于何仁春等[13]报道的$12 . 7 \%$ ，但在郑艺梅等[9]报道的 $0 . 9 3 \% \sim 1 0 . 2 0 \%$ 范围内。本试验测定的早稻和晚稻中NDF、ADF含量分别为 $2 3 . 3 5 \%$ 、 $1 0 . 5 4 \%$ 和 $2 4 . 5 5 \%$ 、 $1 1 . 5 7 \%$ ，均低于许栋[14]报道的 $2 7 . 4 \%$ 、 $2 8 . 7 \%$ 。水稻的品种、生长环境、收割季节以及生产过程的工艺，还有稻谷的脱壳程度不同，都可能导致各营养成分含量的差异，尤其是CF的含量与消化率，因为稻谷中 $20 \%$ 为稻壳，稻壳的主要成分是木质素，它与纤维素、半纤维素混杂在一起，作为主要的粗纤维成分难以被消化，因此稻谷的CF 消化率特别低，并且CF 含量的高低影响着单胃动物对CP、EE及NFE 的利用率。本试验测定的早稻和晚稻中Ash含量分别为 $3 . 5 8 \% . 3 . 9 6 \%$ ，高于俞路等[8]报道的 $1 . 5 9 \%$ 以及郑艺梅等[9]报道的 $0 . 8 3 \% \sim 1 . 3 0 \%$ ，低于谭荣炳等[12]报道的 $4 . 4 \%$ ，也低于《饲料成分与营养价值表(2017年第28版)》[15]中的参考值 $4 . 6 \%$ 。Ash 是动物体组织中重要的组成成分，在动物的骨骼和牙齿中含量较高，因此，评价饲料中Ash 的含量也是饲料营养价值评定中的一项重要参考指标。
+
+3.2生长獭兔对早稻和晚稻中能量和主要营养物质的表观消化率
+
+本试验测得生长獭兔对早稻和晚稻的表观消化能分别为10.43、10.32MJ/kg，略低于高振华等[16]报道的用糙米代替玉米饲喂生长獭兔的表观消化能（ $1 0 . 6 1 ~ \mathrm { M J / k g } ^ { \cdot }$ ），低于陈丹丹等[17]报道的生长獭兔对玉米、高梁、小麦的表观消化能（分别为11.22、11.18、11.19 MJ/kg)，低于俞路等[18]报道的稻谷替代玉米饲喂肉仔鸡的表观代谢能（ $1 2 . 5 8 \mathrm { M J / k g } ^ { \cdot }$ ），低于夏晨等[19]报道的稻谷替代玉米饲喂生长肥育猪的表观消化能（ $1 1 . 6 2 \mathrm { M J / k g }$ ）。家兔的消化能低于猪、鸡，这可能与家兔饲粮组成成分有关，家兔饲粮中CF含量较高，可达 $14 \%$ ，而生长猪饲粮中 CF 含量一般不超 $7 \%$ ，CF 含量能够影响能量的利用；加之动物物种不同，其消化能也存在差异。家兔对能量类饲料中能量的消化率为 $7 1 \% \sim 9 6 \% ^ { [ 2 0 ] }$ 。本试验测得生长獭兔对早稻和晚稻的能量表观消化率分别为 $6 5 . 3 3 \%$ 、 $6 4 . 2 2 \%$ ，低于陈丹丹等[17测定的生长獭兔对玉米、高粱、小麦的能量表观消化率（分别为 $6 8 . 6 9 \%$ 、 $6 8 . 6 1 \%$ 、 $6 8 . 6 3 \%$ ）。生长獭兔对能量的消化利用受饲粮中纤维水平的影响，而稻谷中的纤维水平受脱壳程度的影响较大。陈丹丹等[17]测得生长獭兔对高梁和小麦中CF 的表观消化率分别为 $30 . 9 0 \%$ 、 $3 1 . 2 3 \%$ ，本试验测得生长獭兔对早稻和晚稻中CF 的表观消化率分别为 $1 3 . 1 2 \%$ 、 $1 4 . 3 5 \%$ ，獭兔对早稻和晚稻中CF 的消化率较低可能是因为稻谷表面的稻壳导致其木质素含量较高，从而导致消化利用率降低。本试验测得生长獭兔对早稻和晚稻中CP的表观消化率分别为 $7 6 . 6 9 \%$ 、 $7 0 . 9 2 \%$ ，低于陈丹丹等[17报道的生长獭兔对玉米和高梁中CP的表观消化率（分别为 $8 0 . 6 5 \%$ 和 $8 0 . 4 5 \%$ ），低于对小麦中CP的表观消化率（ $80 . 3 3 \%$ ）。生长獭兔对早稻中CP的表观消化率高于刘晓兰等[21]报道的猪对早稻中CP的表观消化率（ $7 3 . 9 0 \%$ ）。与玉米相比，稻谷的有效能较低，约为玉米的 $8 0 \% \sim 8 5 \%$ ，但其氨基酸结构优于玉米，因为稻谷中含有非淀粉多糖（NSP）等抗营养因子（ $\beta ^ { - }$ 葡聚糖、木聚糖和纤维素）[223]，抗营养因子的存在大大限制了稻谷的应用效果，因此在饲料中直接应用较少。本试验测得生长獭兔对早稻和晚稻中EE 的表观消化率分别为 $6 8 . 5 9 \%$ 、 $7 2 . 9 3 \%$ ，低于陈丹丹等[17]报道的生长獭兔对玉米、高梁和小麦中 EE 的表观消化率（分别为 $8 3 . 8 7 \%$ 、 $8 3 . 8 1 \%$ 和 $8 3 . 0 8 \%$ ）。本试验测得生长獭兔对早稻和晚稻中NFE的表观消化率分别为 $7 4 . 3 5 \%$ 、 $7 3 . 6 4 \%$ ，低于陈丹丹等[17]报道的生长獭兔对高梁中NFE的表观消化率（ $7 9 . 1 8 \%$ ），也低于刘晓兰等[21报道的猪对早稻中 NFE 的表观消化率（ $8 4 . 0 0 \%$ ）。本试验测得生长獭兔对晚稻和早稻中DM的表观消化率分别为 $7 6 . 1 5 \%$ 、 $7 4 . 3 2 \%$ ，高于陈丹丹等[17报道的生长獭兔对玉米和小麦中DM的表观消化率（分别为 $6 8 . 9 3 \%$ 、 $6 9 . 0 2 \%$ ）。
+
+4结论综合考虑早稻和晚稻中主要营养物质含量以及生长獭兔对早稻和晚稻中主要营养物质  
+表观消化率的差异，二者对生长獭兔的营养价值接近，并与其他谷物类能量饲料营养价值相  
+当，可作为生长獭兔的能量饲料资源应用。  
+参考文献：  
+[1] 胡寰.不同储藏条件下稻谷品质变化规律研究[D].硕士学位论文.南京:南京财经大学,2010:1-2.  
+[2] 刘笑然,曹乐乐,张波.2017年中国稻米市场分析与展望[J].中国粮食经济,2017(5):34-38.  
+[3] 杨秀容,刘长忠,张毅,等.稻谷添加专用酶替代部分玉米对肉鸭生长及物质代谢的影响[J].畜牧市场,2010(7):10-13.  
+[4] ZHANG D F,LI D F,PIAO X S,et al.Effects of replacing corn with brown rice or brownrice with enzyme on growth performance and nutrient digestibility in growing pigs[J].Asian-Australasian Journal of Animal Sciences,2002,9(15):1334-1340.  
+[5] 汪汉华,何瑞国.早粘稻谷替代玉米对肉牛生长及肥育性能的影响[C]//中国畜牧兽医学会 2003 年学术年会论文集.北京:中国畜牧兽医学会,2003:5.  
+[6] 谷子林.家兔饲料的配制与配方[M].北京:中国农业出版社,2002:50-54.  
+[7] WANG J F,ZHU Y H,LI D F,et al.The influence of different fiber and starch types on
+
+nutrient balance and energy metabolism in growing pigs[J].Asian-Australasian Journal of
+
+Animal Sciences,2004,17(2):263-270.[8] 俞路,王雅倩,葛家根,等.稻谷在肉仔鸡饲粮中的应用研究[J].饲料博览,2007(8):8-12[9] 郑艺梅,何瑞国,徐三平,等.不同品种早稻糙米营养成分含量的分析[J].中国粮油学报,2002,17(6):44-47.[10]张莹,章世元,周联高,等.不同品质水稻对肉鸡生长及屠宰性能、消化器官发育和血清生化指标的影响[J].黑龙江畜牧兽医,2009(3):44-45.[11]何仁春,杨家晃,卢玉发,等.稻谷对鹅生产性能和养分利用的影响[J].饲料研究,2008(4):1-5.[12]谭荣炳,吴灵英.鹅对早粘稻利用率的研究[J].饲料博览,2006(12):18-19.[13]何仁春,杨家晃,麦伟虹,等.不同日粮类型对鹅生长性能和养分利用率的影响[J].饲料工业,2007,28(19):43-45.[14]许栋.日粮中添加稻谷及不同形态糙米、稻壳对鹅肠道微生物区系的影响[D].硕士学位论文.扬州:扬州大学,2011:7-8.[15]熊本海,罗清尧,周正奎,等.中国饲料成分及营养价值表(2017年第 28版)制订说明[J].中国饲料,2017(21):31-41.[16]高振华,何瑞国,李英,等.用糙米代替玉米饲喂生长獭兔的效果研究[J].中国粮油学报,2006,21(3):175-177.[17]陈丹丹,谷子林,王圆圆,等.高梁和小麦对生长獭兔的营养价值评定[J].动物营养学报,2014,26(1):170-176.[18]俞路,葛家根,章世元,等.稻谷替代玉米对肉用鸡仔生产、屠宰性能和部分血液生化指标的影响[J].黑龙江畜牧兽医,2008(5):34-36.[19]夏晨,赵国斌.稻谷取代玉米饲喂生长肥育猪试验研究[J].中国饲料,2001,1(3):28-29.
+
+[20]谷子林,张宝庆.养兔手册[M].石家庄:河北科技出版社,2008:150-155.
+
+[21] 刘晓兰,陈匡辉,王仁华,等.早稻谷及全早稻日粮主要营养物质表观消化率测定研究[J].江西农业大学学报,1999(3):414-417.
+
+[22] HENRY R J.A comparison of the non-starch carbohydrates in cereal grains[J].Journal of Science of Food and Agriculture,1985,36(12):1243-1253.
+
+[23]张石蕊,魏文贵,李湘,等.稻谷型饲粮中添加微丸型复合酶对猪生长及肠道微生物菌群 的影响[J].饲料工业,2005,26(14):34-36.
+
+Nutritional Value Evaluation of Early Rice and Late Rice in Growing Rex Rabbits
+
+LI Yumin1YANG Meilu1CHEN Baojiang1GU Zilin1,2.3CHEN Saijuan2,3LIU Yajuan2.3\* (1. College of Animal Science and Technology,Agricultural University of Hebei,Baoding 071001, China; 2. Mountain Area of Heibei Province Agricultural Engineering Technology Research Center, Baoding O71001, China; 3. Mountainous Area Research Institute, Agricultural University of Hebei, Baoding 071001, China)
+
+Abstract: This trial was carried out to evaluate the nutritional value of early rice and late rice for growing Rex rabbits by digestion experiment. Eighteen healthy and white growing Rex rabbits at the age of 6O days with an average body weight ( $( 1 . 5 0 { \pm } 0 . 2 0 ) \$ ） kg were randomly divided into 3 groups with 6 replicates per group and 1 rabbit per replicate.The rabbits in the 3 groups were fed with basal diet, early rice diet ( $8 5 \%$ basal diet $+ 1 5 \%$ early rice） and late rice diet( $8 5 \%$ basal diet $+ 1 5 \%$ late rice)，respectively. Both pre-trial and formal trial periods lasted for $^ \mathrm { ~ 7 ~ d ~ }$ The apparent digestibility of main nutrients in early rice and late rice for growing Rex rabbits was measured by total feces collction method.The results showed as follows: 1) the contents of gross energy (GE),dry matter (DM),crude protein (CP), ether extract (EE), crude fiber (CF), neutral detergent fiber (NDF),acid detergent fiber (ADF),acid detergent lignin (ADL), crude ash (Ash), calcium (Ca)， phosphorus (P) and nitrogen free extract (NFE) of early rice were $1 6 . 2 5 ~ \mathrm { M J / k g } ,$ （204号 $8 6 . 3 2 \%$ ， $7 . 8 2 \%$ ， $1 . 3 2 \%$ ， $8 . 5 4 \%$ ， $23 . 3 5 \%$ ， $10 . 5 4 \%$ ， $1 . 5 4 \%$ ， $1 . 3 2 \%$ ， $0 . 5 3 \%$ ， $0 . 3 8 \%$ and $6 4 . 7 6 \%$ respectively,and those of late rice were 16.07 MJ/kg, $8 9 . 1 7 \%$ ， $6 . 8 8 \%$ ， $1 . 3 2 \%$ ， $9 . 0 7 \%$ ， $2 4 . 5 5 \%$ $1 1 . 5 7 \%$ ， $2 . 0 1 \%$ ， $3 . 9 6 \%$ ， $0 . 6 2 \%$ ， $0 . 2 1 \%$ and $6 3 . 7 1 \%$ ，respectively. 2） The apparent digestible energy and the apparent digestibility of GE,DM, CP,EE, CF,NDF,ADF,Ash, Ca, P and NFE of early rice for growing Rex rabbits were 10.43 MJ/kg, $6 5 . 3 3 \%$ ， $7 4 . 3 2 \%$ ， $76 . 6 9 \%$ $6 8 . 5 9 \%$ ， $1 3 . 1 2 \%$ $3 8 . 6 3 \%$ ， $2 7 . 1 1 \%$ ， $5 2 . 2 3 \%$ ， $5 0 . 0 3 \%$ ， $1 5 . 5 4 \%$ and $7 4 . 3 5 \%$ , respectively,and those of late rice were 10.32 MJ/kg, $6 4 . 2 2 \%$ ， $7 6 . 1 5 \%$ ， $7 0 . 9 2 \%$ ， $7 2 . 9 3 \%$ ， $1 4 . 3 5 \%$ ， $3 8 . 4 9 \%$ ， $2 7 . 0 9 \%$ ， $5 2 . 0 3 \%$ ， $4 8 . 6 3 \%$ $1 4 . 9 9 \%$ and $7 3 . 6 4 \%$ , respectively. In conclusion, the contents of major nutrients in early rice and late rice have no significant difference. Combined with the comprehensive analysis of two kinds of raw materials,the apparent digestibility of major nutrients in early rice and late rice for growing Rex rabbits are basically the same. Therefore,the nutritional value of early rice is close to late rice, and both of them can be used as the source of energy feed for growing Rex rabbits. Key words: early rice; late rice; digestibility; nutrients; growing Rex rabbits

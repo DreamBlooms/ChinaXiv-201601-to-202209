@@ -1,0 +1,419 @@
+[
+    {
+        "type": "text",
+        "text": "Self-Assembly of Ferritin Nanoparticles into an Enzyme Nanocomposite with Tunable Size for Ultrasensitive Immunoassay ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dong Men,+,5.O Ting-Ting Zhang,5O Li-Wei Hou, Juan Zhou,+ Zhi-Ping Zhang,+ Yuan-Yuan Shi, Jin-Li Zhang,# Zong-Qiang Cui,+ Jiao-Yu Deng,+ Dian-Bing Wang,\\* and Xian-En Zhang\\*# ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "+StateKeyLaboatoryofolouanlstituteofVroloinecadeyofencesuan3OhinaatioaKeybtof Bioacroo \"StateKeyLaboatoyfricuaobleofifeecdoaogcuvesitya MedicalCidsa Ting-Ting Zhang,and Li-Wei Hou contributed equally to this work. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT The self-assembly of nanoparticles into larger superstructures is a powerful strategy to develop novel functional nanomaterials,as these superstructures display collective properties that are different to those displayed by individual nanoparticles or bulk samples.However,there are increasing bottlenecks in terms of size control and multifunctionalization of nanoparticle assemblies.In this study,we developed a self-assembly strategy for construction of multifunctional nanoparticle assemblies of tunable size, through rational regulation of the number of self-assembling interaction sites on each nanoparticle.As proof-of-principle,a size-controlled enzyme nanocomposite (ENC) was constructedbyfaelyofreptieedseadishperoase(Sndtobotiatedfeitiortisr integratesbolelireptaedciodasticetict SAisbounttiaedaroleAsltfdseinsiitialdos (ELISA)methodswasachevedinacardiactoponinimmunoassayOurmetodpresentederesouldprovideafeasibleaproachforcostrucing elaborate multifunctional superstructures of tunable size useful for a broad range of biomedical applications. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b5dd5b8bb747ac9307aecb00ff3a2f0428c7314ec44ee0d200a9d29c168a524.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS:self-assembly $\\cdot$ nanoparticles $\\cdot \\cdot$ enzyme nanocomposite $\\cdot \\cdot$ ultrasensitive immunoassay ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "S it facilitates the formation of biomacromolecular superstructures with suitable size and sophisticated functions.1 Such selfassembly approach is attractive for nanodevice fabrication,due to their uniformity, versatility and simplicity of preparation.2 Considerable efforts have been made in the design of self-assembling superstructures that consist of nanoparticles.3,4 Selfassembly of nanoparticles into ordered superstructures can endow them with new properties,and alsoallow them to perform multiple tasks either simultaneously or in sequence.5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For the majority of nanoparticle assemblies that form in solutions,the self-assembly process occurs continuously until all componentsare exhausted,resulting in increased polydispersity of architectures throughout the process. In addition,this self-assembly process is mainly governed by thermodynamics and,therefore,is independent of manual intervention.Thus,the size of selfassembledsuperstructure becomesuncontrollable.Furthermore,in most cases the self-assembly process of nanoparticles is driven by physical forces,7,8 such as van der Waals force,trtat drophobic forces,13.14magnetic interactions15,16 and entropic effects.17,18 However, these interactions depend on the physical ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\* Address correspondence to zhangxe@ibp.ac.cn. ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received for review June14,2015 and accepted October 2,2015. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published online October 02, 2015   \n10.1021/acsnano.5b03607 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "properties of the self-assembly components,which limit the choice of molecules available for those assemblies.Furthermore,nanoparticleassembliesare usuallyclosed-packed,and there is not sufficient space for incorporating functional molecules.19 Therefore, the development of a straightforward method to construct self-assembled superstructure of controllable size and multiple functions is highly desirable. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Protein nanoparticles are superior for the construction of controlled self-assembled superstructures, due to their high degree of symmetry,availability for modification and structural uniformity.2o The surface of protein nanoparticles can be genetically modified with functional ligands without disrupting their structural integrity.In addition,the fused ligandsare mounted on the surface of nanoparticles in the exact number and orientation.These properties make possible to limit the number of interacted self-assembling building blocks through rational regulation of the stoichiometricratio of different building blocks.Ferritin is a typical protein nanoparticle that is present ubiquitously in various organisms.The recombinant heavy chain of human ferritin (rHF) can form a nanoparticle with 24 subunits.21 The functionalized rHF can be linked with foreign proteins,2² and such constructs have been widely used in biosensing,2³ targeted delivery²4 and templated synthesis of inorganic nanomaterials.25 These characteristicsmake rHF a perfectbuilding block for the construction of controlled self-assembled nanoparticleassemblies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,we present a size-controlled self-assembly strategy to construct functional rHF nanoparticle assemblies thatareof tunablesize.Different fromthe commonly used physical forces,a specific biomolecular interaction,namely biotin-streptavidin interaction, was chosen as a driving force to mediate the interaction between the rHF nanoparticles.Aautobiotinylated ferritin nanoparticles (bFNP) was built to display biotin on the surface of rHF nanoparticle.Through precise regulation of the assembly ratio between streptavidin and bFNP,these bFNP are expected to assemble together ina certain number,therebyachieving sizecontrol of our nanoparticle assemblies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Toendow the rHF nanoparticle assemblies with specific functions,streptavidin-labeled horseradish peroxidases (SA-HRPs) were assembled with bFNP to construct enzyme nanocomposite (ENCs). The resulting ENCs not only combined the two functions of antibody binding and enzyme labeling,but also created a high enzyme-to-antibody ratio,thus greatly increasing the potential sensitivity of an immunoassay. As proof-of-principle,we applied the ENC to a cardiac troponin I(cTnl) assay to improve the sensitivity compared to conventional cTnl immunoassays.cTnl is an important biomarker for the diagnosis of heartattack, also termed acute myocardial infarction (AMl),26 which is one of the most fatal human diseases in the world. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Early detection of cTnl in patients with a high risk of AMI can largely reduce the risk of death from heart attacks.27 However, most assays currently available for detecting troponin are based on conventional ELISA and have a limited detection threshold.28 Therefore, we used our ENC to develop an ultrasensitive immunoassayto detect cTnl. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Design Principle of ENc.As shown in Figure1,the sizecontrolled self-assembly can be achieved by regulating the stoichiometric ratio of the two building blocks during assembling process.First,each 24 biotinylated rHF unitsare assembled into a bFNPwith 24biotins on its surface.The bFNPs serve as the self-assembling blocks to form the backbone of the ENC.In principle, each bFNP can bind 24 SA-HRPs.Therefore,in the presence of saturated or excess SA-HRP (the ratio of bFNPs to $S A - H R P \\leq 1 : 2 4 ;$ ,the bFNPs are supposed to be fully coated with SA-HRP.The coating of SA-HRP will prevent the aggregation of bFNPs,resulting in the construction of ENCs that contains only one bFNP in each structure (Figure 1a). In the presence of insufficient SA-HRP (the ratio of bFNPs to $S A - H R P > 1 : 2 4 )$ bFNPs will share SA-HRP with each other, resulting in the aggregation of bFNPs and a concomitant increase of the size of ENC.For example,when the assembly ratio of bFNP to SA-HRP is set to 1:23.5,one bFNP will share a SA-HRP with another bFNP,forming a bFNP-SA-HRP-bFNP dimer (Figure 1b).When the assembly ratio of bFNP to SA-HRP is set to 1:23,one bFNP will share two SA-HRPs with twO other bFNPs, resulting in the formation of trimer or tetramerassemblies (Figure 1c).Further reduction of the assembly ratio of bFNP to SA-HRP will lead to even larger structures.By the rational adjustment of the amount of biotins mounted on the surface of bFNPs,it is possible to construct ENC with a certain number of enzymes on one structure. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Autobiotinylated Ferritin Nanoparticle.To Obtain autobiotinylated ferritin nanoparticles that contain 24 biotin molecules uniformly distributed on their surface, biotin accepted peptide (BAP),a substrate of biotin ligase (BirA,EC 6.3.4.15),29 was genetically fused to the N-terminal of rHF (BAP-rHF,see Supporting Information Figure S1).As a consequence of coexpression of BAP-rHF with BirAin Escherichia coliBL21，BAP-rHF isbiotinylatedby BirA priorto assemblyinto bFNPs (Figure 2a).To ensure that the BAP tag is located on the surface of the ferritin nanoparticles and accessible for binding to SA-HRP，a flexible spacer peptide $( 2 ^ { \\ast } \\mathsf { G G G G S } )$ was inserted into the C-terminal region of the BAP tag (the predicted structure of BAP-rHF is shown in Supporting Information Figure S2). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The constructed bFNPs were characterized by transmission electron microscopy (TEM) and dynamic light scattering (DLS).As observed in the TEM images ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/14bd23b57b47a3f0fc3a7db458e3277dbf547da915d8f49924573617a1ccb07b.jpg",
+        "img_caption": [
+            "Figure1.Designprincipleofconstructingan ENC.(a)Formationofan ENCwithasinglebFNPbyreactingbFNPwithsaturatec or excessSA-HRP.(bandc)Formationofdimer,trimerandtetramerassembliesbyreacting bFNPwith insuffcientSA-HRP (d) Schematic diagram of an ENC-based high-sensitivity immunoassay. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(Figure 2b),the obtained bFNPs displayed good monodispersity and a uniform spherical shape,a structure that is structurally similar to native rHF nanoparticles. These results indicate that the fusion of BAP tag to the rHF subunit did not impair the structure of the selfassembled rHF.The mean diameter of these BAP-rHF nanoparticles as measured by TEM was $1 3 . 6 3 ~ \\pm$ $0 . 6 5 \\mathsf { n m }$ 1 $h = 6 0 0 )$ .We also measured the hydrodynamic diameter $( D _ { \\mathsf { h } } )$ of BAP-rHF nanoparticles using DLS,and the mean value was $1 5 . 6 \\ \\mathsf { n m }$ (Figure 2c)，which is slightly larger than the diameter measured by TEM. This difference may be the result of the influence of a counterion cloud on particle mobility,as well as the large scattering cross section of a smallamountof large particles. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tovalidate effcient biotinylation of BAP-rHF, Western blotting was used.As shown in Figure S3, biotin was present on BAP-rHF.In addition,we used liquid chromatography-mass spectrometry (LC-MS) toevaluate the invivo efficiency of biotinylation on BAP-rHF.As shown in Figure 2d, the measured $m / z$ value of purified BAP-rHF was 23932.0. This value is consistent with our theoretical calculation and further supports the notion that each BAP-rHF subunit was modified by a single biotin (see Supporting Information). Considering the highly symmetric,24-subunit structure of BAP-rHF nanoparticles,we propose that there are 24 biotin molecules uniformly displayed on the surface of each BAP-rHF nanoparticle. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Self-Assembly of bFNPsand SA-HRPs into ENC.The accurate surface modification of bFNPs with biotin molecules allowed us to precisely control the number of biotin molecules thatare blocked by SA-HRPs,as well asregulate the number of shared SA-HRP molecules shared between the bFNP by adjusting the assembly ratio of bFPNs to SA-HRPs.The ENC formed by selfassembly of bFPNs to SA-HRPs with different ratios were characterized by gel electrophoresis mobility shift assay.The electrophoretic migration of the ENC was analyzed using different assembly ratios of bFNPs and SA-HRPs.As shown in Figure 3a，significant changeswere found in the electrophoreticmigration behavior depending on the assembly ratio.The migrations of the assembly ratio at1:0.5,1:1 and1:2were similar to the bFNPsalone.At the assembly ratio of1:4 to 1:17, the migration rates of the assembled ENCs were significantly decreased.When the ratio was set to 1:18-1:22,the ENCs stayed in the loading place of the agarose gel, indicating that they were highly aggregated，and thus too large for gel migration.The migration rates began to increase from the assembly ratio of 1:23,and this trend gradually slowed stopped at1:26.These results indicate that the ENCs assembled atthese ratios contained fewer bFNPs,and the sizes tended to be uniform.When the ratio of bFNPs and ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/442d6c96bff29c08b6fa13f1650116ffa67b4316064eb6a63a49d39c84d5834d.jpg",
+        "img_caption": [
+            "Figure2.Autobiotinylated feritin nanoparticles.(a)SchematicdiagramofthebFNPspreparation.(b)TEM imageof bFNPs 0 $\\mathsf { b a r } = 1 0 0 \\ \\mathsf { n m }$ ).(c) Size distribution of bFNPs measured by DLS.(d) LC-MS analysis confirmed each BAP-rHF subunit was modified by onlyone biotin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SA-HRPs was smaller than 1:26,the migration rates of the ENCs did not change any further. This result indicated that when the bFNPs are saturated with SA-HRPs,each assembled ENCs contains only one bFNP.These findings confirmed that unsaturated SA-HRPs induce the aggregation of bFNPs,and that the saturation ratio was 1:26.This value is slightly different from the predicted ratio of 1:24.This difference may have been caused by deviations in the protein concentration measurement， protein purification,the cross-linking extent of SA-HRP or by a systematic error. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Nanostructure of ENC at Different Assembly Ratios.To confirm the relationship between the assembly ratio and the size of ENCs，we prepared the ENCs by gradually decreasing their ratio with SA-HRP from the saturation ratio of 1:26 (1:26,1:25.5,1:25,1:24.5,1:24 and 1:23). The results of agarose gel electrophoresis (Figure 3b) indicated that the size of the ENCs was markedly increased,even though the ratio of SA-HRPs was slightly decreased.Then,the detailed aggregation states of the ENCs were further examined by TEM (Figure 3d).When the ratio of bFNPs to SA-HRPs was lower than 1:26 (saturated),the TEM images showed that the majority of the nanoparticles are monodispersed without aggregation (Supporting Information Figure S4).At an assembly ratio of 1:25.5,many dimer aggregates were observed in the TEM images. Our results of statistical analysis showed that approximately half of the nanoparticles were aggregated into dimer forms (see Supporting Information Figure S5a). When the assembly ratio was set to 1:25,many trimeric and tetrameric aggregates were observed.The statistical data showed that approximately half of the nanoparticles were aggregated into trimers or tetramers, with a decreased number of dimeric aggregates (see Supporting Information Figure S5b).When the assemblyratio of SA-HRPs to bFNPs Was furtherdecreased, much largeraggregationswere observed in the TEM images,and the numbers of dimers,trimersand tetramerswere decreased (Figure3d,bottom;and Supporting Information S6).Furthermore,the sizes of the ENCs ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/150d1c3f20b924cf7248bcdf5f9608099684a27a43db756687e6b6163f5d4130.jpg",
+        "img_caption": [
+            "Figure 3.Characterizationsof ENCaggregate atdiferent assembly ratios.(a)TheSA-HRPswereused to titrate bFNP ina serisf,,:2,:: 1:26,1:28,1:30,1:32,1:341:6,:38,:4.adreteotrosfbFad-espeively.() assemblyratire4:4.5:,:d6.()zeistribtifEssblyaiof6,. 1:24.5,1:4,d:2.d),:.54., $\\mathbf { \\tau } = \\mathbf { \\tau }$ $1 0 0 \\ : \\mathsf { n m }$ ). Inset: the amplified TEM images of single ENC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "at assembly ratio of 1:26,1:25.5,1:25,1:24.5,1:24,1:23, and 1:22 were measured by DLS.The mean values were 37.84, 58.77,68.08,78.82,91.82,141.8,and $2 5 5 ~ \\mathsf { n m }$ respectively (Figure 3c).These TEMand DLS resultsof SA-HRP-induced bFNPs aggregation were consistent with the results of the electrophoresis and our theoretical predictions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Evaluation of ENc Functions.The functions of the ENCs were evaluated byapplying our ENCs inan ELISA-type assay to substitute the typically used enzymeconjugated antibodies.The detection procedure was performed in a similar manner to that of conventional direct ELISA (Figure 4a and Methods).Biotinylated antibodies were diluted and immobilized on the microplate as targets.The ENCs were captured by the antibodies through the biotin-streptavidin interaction.Subsequently,the color reaction was performed by adding substrate for the HRP reaction.The signal ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8db558ca92cf3ac89c390b9060d7175fc3c2ea47a9a5f348ec7347c449f689a.jpg",
+        "img_caption": [
+            "Figure4.Evaluationof ENC functions.(a)The schematic diagramof functionevaluation.(b) Comparisonof signal amplification for different assembly ratios of ENCs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "intensity was directly correlated with the concentration of biotinylated antibodies immobilized on the microplate (see Supporting Information Figure S7). Next,the performance of ENCs with different sizes was examined by the same method.These ENCs were prepared by progressively decreasing the assembly ratio of bFNPs to SA-HRPs (from 1:13 to 1:30).As shown in Figure 4b,the signal outputs of the ENCs assembled at the ratios between 1:30 and 1:26 showed no significant difference.The stable signal outputs indicated that in these ENCs,the bFNPs were saturated with SA-HRP without aggregation. Upon reduction of the proportion of SA-HRP,the signal outputs increased at a ratio of 1:26,with a peak signal at the ratio of 1:24.This was probably caused by the aggregations of bFNPs into larger ENCs with more than one bFNP in each ENC. These larger ENCs contained more enzymes, resulting in enhanced enzymatic signal outputs. However,when theassembly ratio was further decreased from1:13 to 1:23,the signal outputs of ENCs gradually reduced. Although the size of ENCs continuously increased with further decrease of the proportion of SA-HRPs (1:23-1:17，shown in the results of agarose gel electrophoresis),the sensitivity of ENC was reduced. We propose two reasons for this observed reduction. First,the oversized ENCs may bury most enzyme molecules in their interior,so that the substrate cannot attach to the enzymes; second, the ENCs may have poor binding ability to target molecules when the ENC size is too big.When the assembly ratio of bFNP to SA-HRP was higher than 1:17,the sensitivity was continuously reduced due to the decreased number of HRP molecules present in the ENCs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary, these results were consistent with the results of the electrophoresis analysis and TEM. The optimized ratio of bFNPs to SA-HRPs during ENC assembly was 1:24,which yielded the lowest standard deviations and highest signal-to-noise ratio. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "High-Sensitivity ELISA Based on ENc. To develop a highly sensitive troponin (cTnl) assay,the ENCs assembled at the ratio of 1:24 were applied in a sandwich ELISA to detect cTnl spiked into serum samples.A schematic view of the assay is shown in Figure 1d, indicating that the ENC allows the recruitment of hundreds of HRP molecules to each antibody-antigen complex. The detection procedure was similar to that of conventional sandwich ELISA (see Methods).First,the capture antibodywas immobilized onamicroplate to capture cTnl spiked in cTnl-free serum.Second, the biotinylated detection antibody was captured on the microplate through antibody-antigen reaction,prior to addition of the ENC.As shown in Figure 5a,the sensitivity of ENCs in detecting cTnl was significantly higherthan the conventional method.Wealso tested the detection limits of both the ENC-based and the conventional ELISA methods (see Supporting Information Figure S8).The results showed that the detection limit was improved from $1 6 \\mathsf { n g / m L } \\left( 0 . 6 3 \\mathsf { n m o l / L } \\right)$ of the conventional ELISA method to $0 . 8 ~ \\mathsf { p g / m L }$ (33 fmol/L) for the our ENC-based method,with the cutoff value of the signal-to-noise ratio (S/N, the noise value was the average absorbance of thenegative control from all the repeats $+ 2 S D )$ being $\\geq 1$ .These results indicate thatthe sensitivity of the troponin assay using the ENCs was 1o ooo-fold higher than that of a conventional ELISA.Such extraordinarily high sensitivity is probably due to the large number of HRP molecules carried by the ENCs,which is significantly greater than the number of HRPs labeled on the secondary antibodies in conventional ELISA. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Clinical Sample Test Using Our ENC-Based ELISA.Next,tO evaluate the potential use of ENC-based immunoassays in clinic,we tested the ENC-based cTnl assay in the clinical diagnosis of AMl patients.First, the cTnl levels of 40 healthy people were measured by both ENCbased ELiSA as well as conventional method,and cutoff values of the cTnl immunoassay were determined (see Methods).Then,the sera of 17 AMl patients and 17 healthy people were tested by both ENC-based ELISA and conventional method.The results of the ENC-based troponin assay (Figure 5b,top) showed that all samples from the AMl patient demonstrated clear positive signals,which were significantly higher than the cutoff value of O.226, indicating a $1 0 0 \\%$ clinical ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/24ef281475cc7a02b0ef84fe9850173fc28d584c9f18e7488069a47e2b769bd8.jpg",
+        "img_caption": [
+            "Figure 5.ENC-based highlysensitivecTnlimmunoassay.(a)Comparisonof the ENC-basedandconventionalELISA forcTnl detectioninserum.(b)cTnlimmunoassaysofserafrom17healthyindividualsand17AMlpatientsusing theENC-basedasy (top)and a conventional ELISA (bottom).The cutoff value is shown as a horizontal dotted line. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "specificity of this method.In contrast,by using the conventional method (Figure 5b,bottom),four samples from the AMl patient (no.1,4,8,11)showed negative signal outputs below the cutoff value (0.091), and two samples (no.7,16) exhibited ambiguous signal outputs that were very close to the cutoff value. These results were not surprising,because one of the serological diagnostic criteria for AMl is that the cTnl level in the patient sera is higher than the clinical reference ranges of $0 . 0 4 ~ \\mathrm { { n g / m L } }$ .This is much lower than the detection limit of the conventional ELISA. Importantly， the ENC-based immunoassay can be usedto diagnose the onset of AMl,even with a small quantity of cTnl present in patient sera. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Self-assembly of nanoparticles into size-controlled superstructures allows the construction of a larger family of uniform superstructures that are of tunable size.This method greatly broadens the practical applications of nanoparticle assemblies,including biosensing,biodevices fabricationor cargodelivery.Previously reported self-assemblyof nanoparticlesinto size-controlled superstructures was achieved by a force competition-based assembly,2 stepwise assembly,30-32ortemplatedaembly.3Compared with these methods,our size-controlled self-assembly strategy described here is conceptually different. First, the size-controlled self-assembly was achieved by limiting the number of interacting nanoparticles through limiting the number of interaction sites on the surface of these nanoparticles.Different from the inorganic nanoparticle commonly used in nanoparticle assemblies, theprotein nanoparticles possess a symmetrically assembled body,the interaction sites uniformly distribute on the surface of nanoparticle with exact number and orientation.These properties allowed us to limit the number of interaction sites through stoichiometric controlling the assembly ratio of nanoparticles and interacting buildingblocks.Second，the commonly used physical interactions were replaced by the biological interaction between biotin and streptavidin.Different from those physical interactions, this biological interaction is more specific,and is independent of the chemical or physical characteristics of the building blocks used (such as surface charge,hydrophobicity,etc.).Such fundamental change in design enables the use of a wide range of components for nanoparticle assemblies,which should allow for the construction of a diverse range of superstructures. Furthermore,there are many types of highly specific interactions (for example,thereare $\\sim 9 3 0 0 0$ different protein-protein interactions predicted in yeast³4) and diversity of functions in biology.Thus， thesizecontrolled self-assembly method can be considered asa general approach for the construction of sophisticated protein superstructures. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "On the basis of this strategy,an ENC with powerful signal amplification characteristics was builtby directly assembling of bFNP and SA-HRP in solution.Compared with other protein superstructures for super- or ultrasensitive immunoassays,such as bifunctional protein nanowire,35 layer-by-layer assembled protein composites³ and fluorescent protein nanoparticles,2³ the ENC-based immunoassay improved the sensitivity to a level of tens of femtomoles.Instead of enzyme-labeled secondary antibody used in conventional ELISA,our ENC can be designed as a ready-to-use reagent to meet the requirement of the conventional immunoassay that is widelyadopted in clinical or field tests.Therefore,there is no particular instrumental demand or requirement for human resource training.The ENCbased immunoassay is not limited to the cTnl assay shown here as proof of principle,but can be applied widely for the detection ofvarious biomarker (for example,HIV screening,see Supporting Information and Figure S9). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "One of the limitations of our approach is that the uniformity achieved in practice was not as good as the theoretical uniformity expected according to our design (see Supporting Information).This observation maybe caused by two reasons: First,although streptavidin can be used as a bivalent mediator to link two ${ \\mathsf { b F N P s } } ,$ streptavidin has in fact tetravalent afinity to biotin,which can result in a fluctuation of ENC assembly.Second,the binding abilities of the conjugated SA-HRP molecules differ from each other,which is due to the random nature of the chemical cross-linking procedure.An alternative would be to introduce a molecule with bivalent binding ability instead of streptavidin,and to replace chemical modification with a genetic method. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We propose a size-controlled self-assembly strategy for constructing ENCs of tunable size.This was applied successfully to an ultrasensitive immunoassay for the detection of cTnl.This strategy is easy-to-perform and independent of the characteristics of assembly components,and thus could be further exploited to build complex biological devices for a broad range of applications. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "METHODS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Preparation of Autobiotinylated Ferritin Nanoparticles.Autobiotinylated ferritin nanoparticles were constructed by fusing the BAP tag and rHF together.The BAP tag,spacer peptide and rHF were cloned in order into pET28,resulting in the expression vector pET28-BAP-rHF.The plasmid map of pET28-BAP-rHF is shown in Figure S1.The BirA (EC 6.3.4.15) gene was amplified from the genome of E.coli BL21 (DE3) by PCR and cloned into the pCDFDuet vector (compatible with pET28) resulting in the expression vector pCDFDuet-BirA.Subsequently,the constructed pCDFDuet-BirA and pET28-BAP-rHF plasmids were cotransformed into E.coli BL21.Transformed E. coli cellswere added to LB medium in the presence of $5 0 \\mu { \\sf g } / { \\sf m L }$ streptomycin, $5 0 \\ \\mu { \\mathfrak { g } } / { \\mathfrak { m L } }$ kanamycin at $3 7 ^ { \\circ } \\mathsf C ,$ and $1 2 \\ : \\mu { \\sf g } / { \\sf m L }$ biotin (SigmaAldrich).The expressions of fusion protein and BirA were induced by $1 \\ m M$ isopropyl $\\cdot \\beta$ -D-thiogalactopyranoside (IPTG) at $2 5 ^ { \\circ } \\mathsf { C }$ The autobiotinylated ferritin nanoparticles were purified by thermal denaturation $( 6 0 \\ ^ { \\circ } \\mathsf C , \\ 4 0 \\ \\mathsf { m i n } ,$ ，sizeexclusion (sepharose 6B,GE) and sucrose density gradient centrifugation (38 000 rpm,4 h).The expression and biotinylation of bFNP weremeasured by SDS-PAGE,Western blotting and LC-MS, respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Construction of ENc. The ENC was constructed by the selfassembly of bFNP and SA-HRP (Beyotime).The concentrations of bFNP and SA-HRP were tested simultaneously by BCA protein assaykit (Pierce) andopticalabsorptionat $2 8 0 ~ \\mathsf { n m }$ (GE AKTA). The SA-HRPswereused to titrate bFNPina seriesof ratios.The assembly ratios used were 1:0.5,1:1,1:2,1:4,1:8,1:16,1:17,1:18, 1:19,1:20,1:21,1:22,1:23,1:24,1:25,1:26,1:28,1:30,1:32,1:34, 1:36,1:38,1:40.After rapid addition of bFNP into SA-HRP in assembly buffer $2 0 ~ { \\mathsf { m M } }$ Tris base,150 mM NaCl, pH 8.0), the mixtures were vortexed vigorously and incubated at $4 ^ { \\circ } C$ overnight. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ENC Analysis by Agarose Gel Electrophoresis and DLS.The prepared mixture ofbFNPand SA-HRPwasadded in loadingbuffer $( 5 0 \\%$ glycerol, $0 . 5 \\%$ w/v bromophenol blue) and loaded in a Trisglycine buffered $2 \\%$ agarose gel. Electrophoresis was performed in an ice-water bath for approximately $4 h$ at $5 0 ~ \\mathsf { V } .$ （2 The agarose gel was stained with Coomassie blue and imaged for documentation using Alpha Imager.The ENCs samples at the assembly ratios of 1:22,1:23,1:24,1:24.5,1:25,1:25.5,1:26, 1:28,and 1:30 were prepared.After incubatingat $4 ^ { \\circ } C$ overnight, DLS analyses of ENCs were carried out with a Zetasizer NanoZS90 (ZEN3690, Malvern, U.K.). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Biological Functional Evaluation of ENc. The functions of molecular recognition and catalysis abilities of ENC were tested by detecting the biotinylated antibodies based on the principle of direct ELISA.The dilutions of biotinylated antibodies were coated onto a microplate and blocked with PBS containing $5 \\%$ skim milk powder.After repeated washes, $1 0 0 \\mu \\mathrm { L }$ of ENC was added to each well and incubated at $3 7 ^ { \\circ } \\mathsf { C }$ for 45 min.Each well was then washed to remove unbound ENC.Detection results were analyzed using a TMB liquid substrate system (Sigma),and the optical absorption was measured at a wavelength of $4 5 0 \\mathsf { n m }$ using a microplate reader (Synergy HT,BlOTEK).ENCs at the gradient assembly ratio indicated (from 1:30 to 1:13)were tested in identical manner to compare signal amplification. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Sandwich ELISA for Troponin I.To compare our ENC-based detection with conventional sandwich ELISA,parallel assays were performed for cTnl.The ENC-based ELISA was applied at theassembly ratio of 1:24 ina sandwich ELISA to detect cTnl spiked into serum and clinical sample.The detection procedure was similar to that of the conventional sandwich ELISA.ENC was applied inassay instead of enzyme labeled secondaryantibody. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Capture antibody (Hytest,19C7) was diluted to a final concentration of $5 \\mu \\mathrm { g / m L }$ in carbonate buffer $( \\mathsf { p H 9 . 6 } )$ and used for coating of a microplate at $4 ^ { \\circ } C$ overnight. The coated wells were blocked with $3 0 0 \\mu \\mathrm { L }$ of $5 \\%$ nonfat dry milk/PBS overnight at $4 ^ { \\circ } C$ The troponin I(Hytest, 8RTl7) was diluted in cTnl-free serum (Hytest, 8TFS).After incubation of the capture antibodycoated microplate with sample (troponin diluted in serum,AMl patient or healthy serum)about 45 min $( 3 7 \\ ^ { \\circ } \\mathsf C ,$ shaking at $3 0 0 ~ \\mathsf { r p m } )$ ,biotinylateddetectionantibody (Hytest,16A11;biotinylated by the biotin labeling kit-NH2,Dojindo) wasadded to bind antigen for 45 min $( 3 7 ^ { \\circ } \\mathsf C ,$ shaking at $3 0 0 ~ \\mathsf { r p m } ,$ .Then,EN was added to the microplate and incubated at $3 7 ^ { \\circ } \\mathsf C$ for 45 min for binding of the biotinylated antibody-antigen complexes. Subsequently,each well was washed 6 times with PBST (PBS with $0 . 0 5 \\%$ Tween 20) to remove unbound ENC.All solutions to dilute antibodies and ENC contained $0 . 5 \\%$ milk,and the microplate should be washed by PBST at least four times at each washing step.Detection results were analyzed using a TMB liquid substrate system,and the optical absorption was measured ata wavelength of $4 5 0 \\mathsf { n m }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Diagnosis of AMl Patients.The clinic samples were collected from hospitalized patients who were undergoing or had just experienced AMl,as well as from healthy volunteers.The collected serums were stored in liquid nitrogen immediately after acquisition.The cutoff value for AMl diagnose was the mean value of cTnl assay in healthy people,plus 2-fold standard deviations.The study was done in accordance with the approval by the research ethics committee of Wuhan Institute of Virology. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Conflict of Interest:The authors declare no competing financial interest. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information Available:The Supporting Information isavailable free of charge on the ACS Publications website at DOl:10.1021/acsnano.5b03607. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Experimental details and additional figures (PDF) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment.DongMen was supported by the National Natural Science Foundation of China (Grant No. 31200755),the Key Research Program of the Chinese Academy of Sciences (Grant NO.KGZD-EW-606), Hubei Provincial Natural ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Science Foundation (Grant No.2015CFB483) and Youth Innovation Promotion Association of CAS (Grant No.2014308).Xian-En Zhang was supported by the Key Research Program of the Chinese Academy of Sciences.Juan Zhou was supported by the National Natural Science Foundation of China (Grant No. 81301324).Yuanyuan Shi was supported by the Open Research Fund Programof the State Key Laboratoryof Virology of China (Grant No.2011014).We also thank Dr.Ding Gao,Ms.B.C.Xu and Ms.P.Zhang in the core facility and technical support of Wuhan Institute of Virology, CAS for assistance with TEM imaging.We thank Dr.T.Juelich for linguistic assistance during the preparation of our manuscript.We thank Feng Ge and Mingkun Yang of the Institute of Hydrobiology, CAS for assistance with the measurement of mass spectrometry. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCESAND NOTES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1．Whitesides,G.M.;Grzybowski,B.Self-Assembly at All Scales. Science 2002,295,2418-2421.   \n2.Park,J.I.; Nguyen,T.D.; de Queirós Silveira,G.; Bahng,J.H.; Srivastava,S.; Zhao,G.P.;Sun,K.; Zhang,P.J.; Glotzer,S.C.; Kotov,N.A.Terminal Supraparticle Assemblies from Similarly Charged Protein Molecules and Nanoparticles.Nat. Commun.2014,5,3593.   \n3．Grzelczak,M.;Vermant, J.; Furst, E.M.; Liz-Marzan,L.M. Directed Self-Assembly of Nanoparticles.ACS Nano 2010, 4,3591-3605.   \n4.Wang, L. B.; Xu, L. G.; Kuang, H.; Xu, C. L.; Kotov, N. A. Dynamic Nanoparticle Assemblies.Acc.Chem. Res.2012, 45,1916-1926.   \n5．Nie, Z. H.; Petukhova,A.; Kumacheva, E.Properties and Emerging Applications of Self-assembled Structures Made frominorganicNanoparticles.Nat.Nanotechnol.2010,5, 15-25.   \n6.Xia,Y. S.; Nguyen,T.D.; Yang,M.; Lee,B.;Santos,A.; Podsiadlo,P.; Tang, Z.Y.; Glotzer, S. C.; Kotov, N. A. SelfAssembly of Self-Limiting Monodisperse Supraparticles from Polydisperse Nanoparticles.Nat.Nanotechnol. 2012, 7, 479.   \n7．Bishop,K.J.；Wilmer，C.E.； Soh,S.；Grzybowski，B.A. Nanoscale Forces and Their Uses in Self-Assembly.Small 2009,5,1600-1630.   \n8．Min,Y.J.; Akbulut,M.; Kristiansen, K.; Golan,Y.; Israelachvili, J.The Role of Interparticle and External Forces in Nanoparticle Assembly.Nat.Mater.2008,7,527-538.   \n9.Murray,C.B.; Kagan,C.R.; Bawendi, M.G.Self-Organization of CdSe Nanocrystallites into 3-Dimensional QuantumDot Superlattices.Science 1995,270,1335-1338.   \n10．Shevchenko, E.V.; Talapin,D.V.; Kotov, N. A.; O'Brien, S.; Murray,C.B.Structural Diversity in Binary Nanoparticle Superlattices. Nature 2006,439,55-59.   \n11.Leunissen, M.E.; Christova,C.G.; Hynninen,A.-P.; Royall, C. P.; Campbel,A.I.; Imhof,A.; Dijkstra,M.; van Roij, R; Van Blaaderen，A.lonic Colloidal Crystals of Oppositely Charged Particles.Nature 2005,437,235-240.   \n12.Tang,Z.Y.; Zhang,Z.L.; Wang,Y.; Glotzer,S.C.; Kotov, N.A. Self-assembly of CdTe Nanocrystals into Free-Floating Sheets. Science 2006,314,274-278.   \n13．Nie, Z.H.; Fava, D.; Kumacheva, E.; Zou, S.; Walker, G.C.; Rubinstein,M.Self-assembly of Metal-Polymer Analogues of Amphiphilic Triblock Copolymers.Nat.Mater.2007,6, 609-614.   \n14. Zhao, N. N.; Liu, K.; Greener,J.; Nie, Z. H.; Kumacheva,E. Close-packed Superlattices of Side-by-Side Assembled Au-CdSe Nanorods. Nano Lett.2009,9,3077-3081.   \n15．Tripp,S.L.; Pusztay,S.V.; Ribbe,A.E.; Wei, A.Self-assembly of Cobalt Nanoparticle Rings.J.Am. Chem.Soc.2002,124, 7914-7915.   \n16.Lalatonne, Y.; Richardi,J.; Pileni, M.P.Van der Waals versus Dipolar Forces Controlling Mesoscopic Organizations of Magnetic Nanocrystals.Nat. Mater.2004,3,121-125.   \n17.Bodnarchuk, M.I.; Kovalenko,M.V.; Heiss, W.; Talapin, D.V. Energetic and Entropic Contributions to Self-Assembly of Binary Nanocrystal Superlattices:Temperature as the Structure-Directing Factor.J.Am. Chem. Soc.2010,132, 11967-11977. o. EvEIS,vV..; INIJS,D. astlio, DIJKSud, IvI. Vanmaekelbergh,D.Entropy-Driven Formation of Binary Semiconductor-Nanocrystal Superlattices.Nano Lett. 2010,10, 4235-4241.   \n19.Liljestrom,V.;ila,J.;Kostinen,M.A.Self-ssbly andModular Functionalization of Three-Dimensional Crystals from Oppositely Charged Proteins.Nat.Commun. 2014, 5, 4445.   \n20．Sinclair,J.C.; Davies,K. M.; Venien-Bryan, C.; Noble, M.E. Generation of Protein Lattices by Fusing Proteins with Matching Rotational Symmetry.Nat.Nanotechnol.2011,6, 558-562.   \n21．Harrison,P.M.; Arosio,P.The Ferritins:Molecular Properties,Iron Storage Function and Celllar Regulation. Biochim. Biophys.Acta,Bioenerg.1996,1275,161-203.   \n22.Theil,E.C.eritinProteinoages-thetorytech nol.Perceptions 2012,8,7-16.   \n23．Kim,S.E.; Ahn,K.Y.; Park,J.S.; Kim, K.R.; Lee,K.E.; Han,S.S.; Lee,J.Fluorescent Ferritin Nanoparticles and Application to the Aptamer Sensor.Anal. Chem.2011,83,5834-5843.   \n24.Fan, K.L.; Cao, C.Q.; Pan,Y.X.; Lu, D.; Yang, D.L.; Feng,J.; Song，L.N.；Liang,M.M.；Yan,X.Y.Magnetoferritin Nanoparticles for Targeting and Visualizing Tumour Tissues. Nat. Nanotechnol. 2012,7,459-464.   \n25．Uchida,M.; Kang,S.; Reichhardt, C.; Harlen, K.; Douglas,T. The Feritin Superfamily:Supramolecular Templates for Materials Synthesis. Biochim.Biophys.Acta,Gen.Subj. 2010,1800,834-845.   \n26.Adams,J.E.; Bodor,G.S.; Davila-Roman,V.G.; Delmez,J.A.; Apple,F.S.; Ladenson, J.H.; Jaffe,A.S.;et al.Cardiac Troponinl.aMarkerwith High Specificityfor CardiacInjury. Circulation1993,88,101-106.   \n27.KellerT;ZeleT;eetz，D.;ikasS.;RothA;C,E; Bickel,C.； Baldus,S.; Warnholtz,A.;Frohlich,M.；et al. Sensitive Troponin I Assay in Early Diagnosis of Acute Myocardial Infarction.N. Engl.J.Med.2009,361,868-877.   \n28.Wu,A.H.; Jaffe,A.S.The Clinical Need for High-Sensitivity Cardiac Troponin Assays for Acute Coronary Syndromes and the Role for Serial Testing.Am. Heart J.2o08,155, 208-214.   \n29.Men,D;Zhang,Z.P.;Guo,Y.C;Zhu,D.H.;Bi,LJ;Deng, J.Y.; Cui,Z. Q.; Wei, H.P.; Zhang,X.E.AnAuto-Biotinylated Bifunctional Protein Nanowire for Ultra-Sensitive Molecular Biosensing.Biosens. Bioelectron.2010,26,1137-1141.   \n30.Maye,M.M;Nykypanchuk,D.;Cuisinier,M;vanderLelie,D.; Gang,O.Stepwise Surface Encoding for High-Throughput Assembly of Nanoclusters.Nat. Mater.20o9,8,388-391.   \n31.Groschel,A. H.; Walther, A.; Lobling,T.I.; Schacher,F. H.; Schmalz, H.; Muller,A.H.Guided Hierarchical Co-Assembly of Soft Patchy Nanoparticles.Nature 2013,503,247-251.   \n32.Groschel, A. H.; Schacher,F.H.; Schmalz, H.; Borisov,O.V.; Zhulina, E.B.; Walther,A.; Muller,A.H.Precise Hierarchical Self-Assembly_of Multicompartment Micelles.Nat. Commun. 2012,3,710.   \n33.LiF.；Wang,Q.B.Fabrication of Nanoarchitectures Templated by Virus-Based Nanoparticles: Strategies and Applications.Small2014,10,230-245.   \n34.Uetz, P.; Giot, L.; Cagney, G.; Mansfield,T.A.; Judson, R.S.; Knight,J.R.;Lockshon,D.;Narayan,V.; Srinivasan,M.; Pochart,P.；et al.A Comprehensive Analysis of ProteinProtein Interactions in Saccharomyces Cerevisiae.Nature 2000,403,623-627.   \n35.Men,D.; Guo,Y.C.; Zhang,Z.P.; Wei, H.P.; Zhou,Y.F.; Cui, Z. Q.; Liang,X.S.; Li, K.; Leng,Y.; You, X.Y.; et al.SeedingInduced Self-Assembling Protein Nanowires Dramatically Increase the Sensitivity of Immunoassays.Nano Lett.2009, 9,2246-2250.   \n36.Chu, Y.W.; Wang, B.Y.; Lin, H. S.; Lin, T.Y.; Hung, Y.J.; Engebretson,D.A.; Lee,W.; Carey,J.R.Layer by Layer Assembly of Biotinylated Protein Networks for Signal Amplication.Chem. Commun.2013,49,2397-2399. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 8
+    }
+]

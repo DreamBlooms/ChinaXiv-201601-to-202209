@@ -1,0 +1,282 @@
+[
+    {
+        "type": "text",
+        "text": "术前血清白蛋白水平对非肌层浸润性膀胱癌患者行经尿道膀胱肿瘤电切术的预后价值",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张玥,李飞，杨帆,曾文利,林昊，翟启良，苏明强，陈自豪,谭万龙南方医科大学南方医院泌尿外科，广东广州510515",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的明确术前血清白蛋白水平能否作为非肌层浸润性膀胱癌(NMIBC)患者经尿道膀胱肿瘤电切术(TURBT)的生存预后指标。方法纳入2007年1月\\~2012年4月间在本院初治诊为NMIBC,并行TURBT术治疗，有完整临床资料及随访数据的216名膀胱癌患者。将纳入患者根据术前血清白蛋白水平分为低血清白蛋白组( ${ \\langle < 4 0 \\ \\mathrm { g / L } \\rangle }$ )和正常血清白蛋白组 ${ \\tt ( \\geq 4 0 { \\ g / L } ) }$ 。应用Kaplan-Meier模型评估两组患者生存情况,并用 $\\operatorname { C o x }$ 比例风险模型对总体生存率(OS)进行单、多因素分析。结果 216例NMIBC患者中，低血清白蛋白组共82( $3 9 \\%$ 例，正常血清白蛋白组共127( $61 \\%$ )例。Kaplan-Meier分析结果显示低血清白蛋白组的5年OS低于正常血清白蛋白组( $_ { P = 0 . 0 1 7 }$ )。进一步进行 $\\operatorname { C o x }$ 多因素分析以排除干扰因素的影响后发现，术前血清白蛋白水平仍可成为NMIBC电切患者5年OS(HR： $3 . 1 0 2 , 9 5 \\%$ CI:1.200\\~8.020,P=0.020)的独立危险因素。结论 术前低血清白蛋白水平的NMIBC电切患者拥有更差的5年 $\\mathrm { O S } _ { \\circ }$ 对于NMIBC电切患者,术前血清白蛋白水平可作为一项廉价易得且简单有效的生存预后指标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：膀胱尿路上皮癌；非肌层浸润性膀胱癌;经尿道膀胱肿瘤电切术；白蛋白；预后",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Prognostic value of preoperative serum albumin in patients with non-muscle-invasive bladder cancer undergoing transurethral resection of bladder tumor ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANGYue,LIFei,YANGFan,ZENG Wenli,LINHao,ZHAI Qiliang,SUMingqiang,CHENZihao,TANWanlong Departmentofrology,anfangHospital,outhernedicalniversityGuangzhou5o55,ina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To assess the value of preoperative serum albumin level in predicting the survival of patients with non-muscle-invasive bladder cancer (NMIBC)undergoing transurethral resection of bladder tumor (TURBT). Methods Two hundred and sixteen newly diagnosed patients with NMBC whounderwent TURBTbetween January,2007 and April,2012 were retrospectively analyzed. The patients were categorized into low albumin $( < 4 0 ~ \\mathrm { g / L } )$ and normal albumin $( \\mathrm { { \\gtrsim } 4 0 ~ g / L ) }$ groups.The patientsurvivalwas estimatedusingtheKaplan-Meier method,and univariateand multivariate Cox proportional analyses wereused todetermine the hazardratios (HRs)for theoverallsurvival (OS).Results Ofthe patients with available data, 82 $( 3 9 \\%$ ）and 127 $( 6 1 \\%$ ） patients were classified into low albumin $( < 4 0 ~ \\mathrm { g / L } )$ and normal albumin ${ \\tt ( \\geqslant 4 0 \\gamma _ { \\mathrm { g / L } } ) }$ groups, respectively. Kaplan-Meier analysis showed a significantly worse 5-year OS inlow albumin group than in normal albumin group $_ { ( P = 0 . 0 1 7 ) }$ . In the multivariate Cox regresson analysis,after adjusting for confounding variables,the preoperative albumin level remained as an independent predictor for 5-year OS (HR: 3.102, $9 5 \\% C \\mathrm { I }$ ：1.200-8.020, $\\scriptstyle P = 0 . 0 2 0$ ). Conclusion A low preoperative albumin level predicts a poor 5-year OS in patients with NMIBC who underwent TURBT. Preoperative serum albumin can be a good prognostic factor for predicting survival of the patients with NMIBC treated with TURBT. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:bladderurothelialcarcinoma,non-muscleinvasivebladderancer,transurethralsectionofbladderumoralbu min, prognosis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "膀胱尿路上皮癌(BUC)是目前全球发病率排名第9的恶性肿瘤，在泌尿生殖系统恶性肿瘤中发病率位居第2。2017年的美国癌症报告指出，美国全年约有79030例新发膀胱癌病例，而当年的膀胱癌估算死亡人数为16870人[1。每年新发膀胱癌病例中 $80 \\%$ 为非肌层浸润性膀胱癌(NMIBC)，经尿道膀胱肿瘤电切术(TURBT)被认为是非肌层浸润性膀胱癌的标准治疗术式2。目前研究普遍认为,肿瘤的术后病理分期及分级可作为膀胱尿路上皮癌患者的主要生存预后因素[3-6]。然而在将NMIBC患者TURBT术后病理相关指标充分评估用以制定后续治疗、随访方案后，NMIBC患者的复发、进展率仍高，故寻找新的预后评估指标指导临床治疗意义重大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "患者准确的病理分期、分级只能在术后获得，目前尚无可靠的术前预后评估指标，寻找新的术前预后评估标志物对指导临床工作有重大价值。患者的全身营养状态对其生存有重大影响。白蛋白是人类血清蛋白的重要组成成分之一，常被用于评估患者的营养状况。既往研究显示高分级的恶性肿瘤患者，其血清白蛋白水平通常低于正常阈值。术前或化疗前的血清白蛋白水平对癌症患者具有重要的预后价值。越来越多的研究者开始关注患者术前的营养状态，特别是术前血清白蛋白水平对BUC患者生存结局的预测价值。目前相关研究多关注术前血清白蛋白水平对行膀胱癌根治性切除术患者的预后影响，而对于NMIBC患者接受TURBT术的预后影响研究证据相对较少。因此，本研究的目的在于评估术前血清白蛋白水平对诊断为NMIBC并接受TURBT术治疗的初发患者的预后价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象及分组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用回顾性分析方法，通过检索2007年1月\\~2012年4月5年间南方医院电子病历系统，共查询到427名临床诊断为膀胱癌并有详细临床及随访数据的成年患者。随后严格按照纳入、排除标准进行筛选。1.1.1 纳入标准 (1)第1次接受治疗的成人患者;(2)术前完善相关检查并无手术禁忌症；(3)患者接受TURBT术治疗；(4)手术采用F27外鞘的连续冲洗经尿道 $3 0 ^ { \\circ }$ 电切镜 $\\vdots$ GyrusMedical公司生产的等离子双极电切系统;(5)手术为具有开展此类手术资质并且经验丰富的高年资临床医师完成；(6)术中切除肉眼所见的全部肿瘤；(7)若术后病理检查未含肌层，需行二次电切手术；(8)术后病理确诊为非肌层浸润性膀胱尿路上皮癌。1.1.2排除标准 (1)复发患者；(2)术前有新辅助放化疗或膀胱灌注治疗；(3)TURBT中转开放手术；(4)行膀胱部分切除或膀胱癌根治性全切除术患者；(5)姑息性手术；(6)术后病理非BUC,或为肌层浸润性膀胱癌。1.1.3分组筛选后共有216名患者纳入研究，纳入患者根据术前血清白蛋白水平，按照我院检验科检验标准，被分为低血清白蛋白组( ${ < } 4 0 ~ \\mathrm { g / L } { \\mathrm { \\Omega } }$ 及正常血清白蛋白组${ ( \\geqslant 4 0 } \\ \\underline { { \\operatorname { g } / \\mathrm { L } } } ) $ 。在可获得术前血清白蛋白数据的患者里，有82位（ $3 9 \\%$ )患者被分在低血清白蛋白组，127位( $61 \\%$ 0患者被分在正常血清白蛋白组。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据搜集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "患者一般资料、术后病理及术前实验室数据采集自患者个人病历，术后随访资料来源于病历系统及电话回访结果。所有病人术前均进行了常规实验室检查；术后病理标本由南方医院病理科多位病理医生共同进行病理学诊断并分期、分级。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1纳入研究项目患者流行病学指标包括:年龄、性别、吸烟、Karnofsky评分及ASA评分。术后病理学指标包括：肿瘤数量、病理学T分期及病理分级。术前实验室指标包括：血红蛋白浓度、中性粒细胞计数、淋巴细胞计数、血小板计数、血清白蛋白水平、血清球蛋白水平及血肌酐水平。此外，肌酐清除率通过Cockcroft-Gault公式计算得到，并据此进行慢性肾脏病(CKD)分期。1.2.2术后治疗与随访患者术后常规行膀胱灌注化疗，药物选择为表柔比星 $5 0 \\mathrm { m g }$ 术后 $2 4 \\mathrm { h }$ 内完成第1次膀胱灌注化疗，随后每周1次，共连续8次，后改为每月1次，连续10次)。术后前2年每3月随访1次，第3年及第4年每6月随访1次，之后每年随访1次。随访患者生存、死亡情况，随访时间截止至患者术后第5年。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3统计学分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究数据使用SPSS20.0软件进行统计学分析。卡方检验、Mann-Whitneyu检验和 $t$ 检验被用于进行低血清白蛋白组和正常血清白蛋白组两组间的差异分析;KaplanMeier模型被用于评估患者生存情况，并采用Log-rank检验进行组间比较;单因素和多因素Cox生存分析被用于确定两组间总体生存率(OS)的危险比(HR)。对于所有分析结果，均以 $P { < } 0 . 0 5$ 被认为差异具有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1低血清白蛋白组与正常血清白蛋白组间基本资料对比",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "216例患者的中位年龄为60.0岁（四分位间距：$4 7 . 0 { \\sim } 7 0 . 8 \\$ 岁);其中，176名 $( 8 1 . 5 \\%$ 男性，40名 $( 1 8 . 5 \\% )$ 0女性;Karnofsky评分， ${ \\geqslant } 9 0$ 分者165例， ${ < } 9 0$ 分者51例；ASA评分， $_ { 1 \\sim 2 }$ 分者204例，3\\~5分者12例；肿瘤数量，156例患者肿瘤为单发，60例为多发;肿瘤分期,Ta期者182例，T1期者34例；肿瘤分级，低级别者185例，高级别者31例；术前血色素 $1 3 3 . 7 7 { \\scriptstyle \\pm 2 1 . 2 7 \\ \\mathrm { g / L } }$ ,血清白蛋白$4 0 . 7 1 { \\scriptstyle \\pm 4 . 3 1 } \\ \\mathrm { g / L } .$ 。其他临床相关指标见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "低血清白蛋白组的患者年龄显著大于正常血清白蛋白组 $\\scriptstyle P = 0 . 0 0 1 ,$ 。两组间的性别、吸烟状况、Karnofsky评分、ASA评分、病理学T分期、肿瘤分级、血小板计数和血清球蛋白水平无显著差异( $_ { ( P > 0 . 0 5 ) }$ 。然而,正常血清白蛋白组的血红蛋白浓度、中性粒细胞计数、淋巴细胞计数和血清白蛋白水平均显著高于低白蛋白组 $( P { < } 0 . 0 5 )$ ，而低血清白蛋白组则有更多患者处于高CKD分期( $P =$ 0.001,表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2总体生存率的单因素分析结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究随访终止时间为术后第5年，中位随访时间为60月（四分位间距： $4 8 { \\sim } 6 0$ 月)。在随访过程中，共有27名患者死亡，低血清白蛋白组和正常血清白蛋白组的病死率分别为 $1 9 . 5 \\% \\big ( 1 6 / 8 2 \\big )$ 和 $8 . 7 \\% ( 1 1 / 1 2 7 )$ 。其中，低血清白蛋白组有1人于膀胱癌复发并接受根治性全膀胱切除术后因膀胱癌转移死亡，3人于膀胱癌复发并接受全身化疗后因膀胱癌进展死亡，3人于发现膀胱癌复发且进展后放弃治疗死于膀胱癌，2人因其他系统恶性肿瘤死亡，1人因全身感染死亡，1人因\"恶病质\"死亡，5人死因不详;正常血清白蛋白组有2人于膀胱癌复发并接受根治性全膀胱切除术后因膀胱癌转移死亡，2人于膀胱癌复发并接受全身化疗后因膀胱癌进展死亡，2人于发现膀胱癌复发且进展后放弃治疗死于膀胱癌，1人因其他系统恶性肿瘤死亡，3人因心脑血管意外死亡，1人因“恶病质\"死亡。KaplanMeier分析和Log-rank检验的结果显示低血清白蛋白组的5年OS $\\scriptstyle { \\backslash } ( P = 0 . 0 1 7 )$ 明显低于正常血清白蛋白组(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3a0040a16abc701a2b85f23082a40ebf2c0c79f73dc2a2a54b01632eb478a80.jpg",
+        "table_caption": [
+            "表1低血清白蛋白组与高血清白蛋白组一般资料的组间对比Tab.1 Characteristics stratified byALB level in 216 patients"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Variable</td><td></td><td>Total patients (n=216)</td><td>Low albumin group (n=82) albumin<40</td><td>Normal albumin group (n=127)albumin≥40</td><td>P</td></tr><tr><td>Clinical characteristic</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Median follow-up</td><td>month (IQR)</td><td>60(48,60)</td><td>60(24,60)</td><td>60(60,60)</td><td>0.038</td></tr><tr><td>Age</td><td>year (IQR)</td><td>60(47,70.75)</td><td>65.5(56.75.75)</td><td>56(43,65)</td><td><0.001</td></tr><tr><td>Gender</td><td>Male (%)</td><td>176(81.5)</td><td>65(79.3)</td><td>104(81.9)</td><td>0.734</td></tr><tr><td></td><td>Female (%)</td><td>40(18.5)</td><td>17(20.7)</td><td>23(18.1)</td><td></td></tr><tr><td>Smoking status</td><td>Yes (%)</td><td>68(31.5)</td><td>56(68.3)</td><td>87(68.5)</td><td>0.974</td></tr><tr><td></td><td>No (%)</td><td>148(68.5)</td><td>26(31.7)</td><td>40(31.5)</td><td></td></tr><tr><td>Karnofsky score</td><td>≥90 score (%)</td><td>165(76.4)</td><td>59(72)</td><td>102(80.3)</td><td>0.16</td></tr><tr><td></td><td><90 score (%)</td><td>51(23.6)</td><td>23(28)</td><td>25(19.7)</td><td></td></tr><tr><td>ASA score</td><td>1-2 score (%)</td><td>204(94.4)</td><td>75(91.5)</td><td>122(96.1)</td><td>0.163</td></tr><tr><td></td><td>3-5 score (%)</td><td>12(5.6)</td><td>7(8.5)</td><td>5(3.9)</td><td></td></tr><tr><td>Pathological characteristic</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tumor multiplicity</td><td>Unifocal (%)</td><td>156(72.2)</td><td>56(68.3)</td><td>93(73.2)</td><td>0.441</td></tr><tr><td></td><td>Multifocal (%)</td><td>60(27.8)</td><td>26(31.7)</td><td>34(26.8)</td><td></td></tr><tr><td>Pathological T stage</td><td>Ta(%)</td><td>182(84.3)</td><td>69(84.1)</td><td>109(85.8)</td><td>0.739</td></tr><tr><td></td><td>T1(%)</td><td>34(15.7)</td><td>13(15.9)</td><td>18(14.2)</td><td></td></tr><tr><td>Pathological Grade</td><td>Low (%)</td><td>185(85.6)</td><td>69(84.1)</td><td>111(87.4)</td><td>0.506</td></tr><tr><td></td><td>High (%)</td><td>31(14.4)</td><td>13(15.9)</td><td>16(12.6)</td><td></td></tr><tr><td>Laboratory</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hemoglobin</td><td>g/L</td><td>133.77±21.27</td><td>127.09±20.29</td><td>138.1±20.84</td><td><0.001</td></tr><tr><td>Neutrophil count</td><td>G/L</td><td>3.80±1.64</td><td>3.53±1.34</td><td>3.98±1.79</td><td>0.029</td></tr><tr><td>Lymphocyte count</td><td>G/L</td><td>2.03±0.68</td><td>1.89±0.60</td><td>2.11±0.72</td><td>0.023</td></tr><tr><td>Platelet count</td><td>G/L</td><td>214.26±54.12</td><td>211.81±56.10</td><td>215.84±52.96</td><td>0.668</td></tr><tr><td>Albumin</td><td>g/L</td><td>40.71±4.31</td><td>36.91±3.54</td><td>43.16±2.67</td><td></td></tr><tr><td>Globulin</td><td>g/L</td><td>26.66±16.56</td><td>28.87±25.82</td><td>25.24±4.32</td><td>0.121</td></tr><tr><td>CKD</td><td>1-2 grade (%)</td><td>156(72.2)</td><td>50(61)</td><td>104(81.9)</td><td>0.001</td></tr><tr><td></td><td> 3-5 grade (%)</td><td>51(23.6)</td><td>30(36.6)</td><td>20(15.7)</td><td></td></tr><tr><td></td><td>missing (%)</td><td>9(4.2)</td><td>2(2.4)</td><td>3(2.4)</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单因素Cox生存分析结果显示，术前血清白蛋白水平与患者OS显著相关,有统计学差异。此外，人口学及临床病理学变量中，年龄、Karnofsky评分、ASA评分、肿瘤数量，病理学T分期和肿瘤分级均与OS显著相关，有统计学差异。在实验室变量中，血红蛋白浓度、血清白蛋白水平及CKD分期与OS显著相关，有统计学差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3总体生存率的多因素分析结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所有具有潜在预后价值的变量均被纳入Cox多因素生存分析，以确定术前血清白蛋白水平是否为膀胱尿路上皮癌的独立预后因素(表2)。表2中数据显示术前血清白蛋白水平( $_ \\mathrm { H R } { : } 2 . 8 5 1 , 9 5 \\%$ C $\\operatorname { I } ; 1 . 0 8 3 { \\sim } 7 . 5 0 7 ; P { = } 0 . 0 3 4$ ）、年龄（HR：3.585, $9 5 \\%$ CI: $1 . 3 9 8 { \\sim } 9 . 1 9 1$ $\\scriptstyle P = 0 . 0 0 8$ ）、",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf63000c0d6205098172177a0758d757b80995707f31ec2962f41c2696d779e5.jpg",
+        "img_caption": [
+            "图1低血清白蛋白组与高血清白蛋白组间Kaplan-Meier生存分析结果 Fig.1ComparisonofOSaccording to preoperative serum albumin in 216 patients. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Karnofsky评分(HR:3.511, $9 5 \\%$ CI: 1.483\\~8.314; $P =$ 0.004)病理学T分期(H $\\mathrm { R } { : } 6 . 6 9 0 { , } 9 5 \\%$ CI:2.693\\~16.617;$P { < } 0 . 0 0 1 \\$ )在多因素分析中仍为总体生存率的独立预后因素。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BUC是一种临床常见并具有高复发率的恶性肿瘤[]TURBT术是NMIBC患者的标准治疗手段[2。近年来，一些新颖的膀胱尿路上皮癌术前预后因素被发现,如血管内皮生长因子(VEGF)[1]、透明质酸酶[]、肌肉萎缩率[12-13]等，然而这些指标绝大多数在临床应用方面具有局限性，特别是在检验费用方面尤为昂贵。而血清白蛋白是术前常规检查项目，具有检测方便、经济有效的优势。已有研究证明，低白蛋白血症是需接受外科手术治疗患者的不良预后因素[4],术前低血清白蛋白水平预示着BUC 患者的不良预后[15-17]。然而,对于接受TURBT术治疗的初发NMIBC患者，术前血清白蛋白水平是否也可影响其预后，目前鲜有报道。因此，本研究纳入患者一般状况、术后病理及术前实验室指标3方面变量进行5年OS的预后评估，着重探究术前血清白蛋白水平对初发NMIBC行TURBT术治疗患者的预后价值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在患者一般状况方面，我们引入在前人研究中被证实对BUC行全膀胱根治性切除术治疗患者术后生存率有预后价值的Karnofsky评分i8，进行患者术前体力情况评价。经过单因素分析，我们发现年龄、Karnofsky评分及ASA评分均与患者5年OS密切相关，但进一步经多因素分析矫正后，仅年龄与Karnofsky评分被证实与患者OS间有统计学意义，高龄及低Karnofsky评分均预示患者的不良预后。并证明与ASA评分相比,Karnofsky评分在对患者术前体力状况评价及手术预后评估方面拥有更大的价值，适合在临床推广。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在术后病理方面，单因素分析结果显示，肿瘤数量越多、病理学T分期及肿瘤分级越高预示手术患者预后越差,具有统计学意义,与前人研究结果相一致[19-21]。但经多因素分析矫正后发现，肿瘤数量和肿瘤分级不再是具有统计学意义的预后因素，提示对于NMIBC患者行TURBT术治疗后的远期生存而言，病理学T分期拥有更高的预测效能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在术前实验室指标方面，本研究纳人与患者营养、免疫、凝血及肾功能水平相关的血常规、生化指标进行分析，单因素分析结果显示，术前低血色素、低血清白蛋白水平及高CKD分期均预示患者不良预后。但经多因素分析矫正后发现，仅术前血清白蛋白水平可作为NMIBC患者TURBT术后的独立生存预后指标。术前血清白蛋白水平对手术患者围术期生存及并发症的影响在临床研究中已得到广泛认同[4，而我们的研究发现其对NMIBC患者远期预后亦有重大影响，究其原因，可能有以下几方面。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "白蛋白是一种由肝脏合成、释放的产物，我们已经知道在多种癌症中，癌症患者的血清白蛋白水平低于正常阈值[7-8]。血清白蛋白是用于评估患者营养状况的一项常用标志物，低血清白蛋白水平多表示患者处于营养不良状态。已有许多研究探讨了术前血清白蛋白水平与围术期并发症之间的关系。Hollenbeck及其同事分析了全美外科手术质量提高计划(NSQIP)从1991到2002年的数据，并发现接受膀胱癌根治性切除术和TURBT术治疗的患者中，术前血清白蛋白水平较低的患者拥有更高的术后并发症发生率及病死率[22-23]Johnson等[24进一步对NSQIP中2005到2012的数据进行回顾性分析后发现，低血清白蛋白水平是一个强大的术后并发症预测因素，且当把术前血清白蛋白水平作为连续变量进行研究时，其结果仍具有统计学意义。在所有这些研究中，营养不良被认为是术后并发症发生率高的主要原因，由于营养不良患者的防御机制被减弱，其术后并发症的发生及癌症的快速进展更为常见。因此，低血清白蛋白水平常与不良生存相关。我们认为术前低血清白蛋白水平不仅代表营养不良状态，还代表患者防御机制的薄弱，这最终导致患者短期预后和远期的结局都很差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了作为营养状况指标，血清白蛋白还可能与炎症反应机制有关[25]。许多研究探讨了炎症反应对膀胱癌进展的影响，一些如C反应蛋白的炎症标志物，被发现在癌症患者死亡方面发挥重要的作用26-28]。并且一些研究发现肿瘤释放的细胞因子，比如白介素IL-6可以阻断白蛋白合成通路，肿瘤坏死因子TNF-a水平升高可选择性地抑制白蛋白基因表达，最终达到降低血清白蛋白水平的结果[29]。炎症因子的表达有3种重要途径：首先,癌症组织的生长和侵袭可导致周围组织发生炎症反应，刺激人类免疫细胞释放炎症因子;其次，癌细胞可独立合成炎性细胞因子,例如IL-1、IL-6、IL-8、TNF-α和VEGF;最后，肿瘤供血不足、坏死或缺氧亦可导致细胞因子的增多。以上3种机制均可以减少白蛋白的产生，并解释为什么术前低血清白蛋白水平可被认为是全身炎症的标志物和癌症患者生存结局的不良预后指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5752c9e4e800fbd71296a3fe3427d6051b513c4f3c907cc8b4900ada8ba9ae9.jpg",
+        "table_caption": [
+            "表2低血清白蛋白组与高血清白蛋白组患者总体生存率Cox单因素及多因素分析结果Tab.2 Univariate and multivariate analysis regarding OS in 216 patients"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Variable</td><td rowspan=\"2\"></td><td colspan=\"2\">Univariate analysis</td><td colspan=\"2\">Multivariate analysis</td></tr><tr><td>HR (95% CI)</td><td>P</td><td>HR (95% CI)</td><td>P</td></tr><tr><td>Age (year)</td><td><65</td><td>1</td><td></td><td>1</td><td></td></tr><tr><td></td><td>≥65</td><td>4.324 (1.942-9.627)</td><td><0.001</td><td>3.585 (1.398,9.191)</td><td>0.008</td></tr><tr><td>Gender</td><td>Female</td><td>1</td><td></td><td>1</td><td></td></tr><tr><td></td><td>Male</td><td>1.45 (0.501,4.193)</td><td>0.493</td><td>1.674 (0.519, 5.400)</td><td>0.389</td></tr><tr><td>Karnofsky score</td><td>≥90 score</td><td>1</td><td></td><td>1</td><td></td></tr><tr><td></td><td><90 score</td><td>3.057 (1.429,6.536)</td><td>0.004</td><td>3.511 (1.483,8.314)</td><td>0.004</td></tr><tr><td>ASA score</td><td>1-2 score</td><td>1</td><td></td><td>1</td><td></td></tr><tr><td></td><td>3-5 score</td><td>3.108 (1.075, 8.988)</td><td>0.036</td><td>1,056 (0.288,3.875)</td><td>0.935</td></tr><tr><td>Tumor multiplicity</td><td>Unifocal</td><td>1</td><td></td><td>1</td><td></td></tr><tr><td></td><td>Multifocal</td><td>2.190 (1.025,4.681)</td><td>0.043</td><td>1.164 (0.489,2.773)</td><td>0.732</td></tr><tr><td>Pathological T stage</td><td>Ta</td><td>1</td><td></td><td>1</td><td></td></tr><tr><td></td><td>T1</td><td>7.106 (3.319,15.214)</td><td><0.001</td><td>6.690 (2.693,16.617)</td><td><0.001</td></tr><tr><td>Pathological Grade</td><td>Low</td><td>1</td><td></td><td>1</td><td></td></tr><tr><td></td><td>High</td><td>3.659 (1.641, 8.160)</td><td>0.002</td><td>1.300 (0.540, 3.127)</td><td>0.558</td></tr><tr><td>Hemoglobin</td><td></td><td>0.982 (0.966,0.998)</td><td>0.032</td><td>0.998 (0.976,1.021)</td><td>0.885</td></tr><tr><td>Neutrophil count</td><td></td><td>1.087 (0.888,1.330)</td><td>0.417</td><td>1.052 (0.824,1.343)</td><td>0.684</td></tr><tr><td>Lymphocyte count</td><td></td><td>0.934 (0.533, 1.637)</td><td>0.811</td><td>1,629 (0.810,3.279)</td><td>0.171</td></tr><tr><td>Platelet count</td><td></td><td>1.005 (0.998,1.012)</td><td>0.181</td><td>1.005 (0.996,1.014)</td><td>0.259</td></tr><tr><td>Albumin</td><td>Normal</td><td>1</td><td></td><td>1</td><td></td></tr><tr><td></td><td>Low</td><td>2.464 (1.143, 5.311)</td><td>0.021</td><td>2.851 (1.083,7.507)</td><td>0.034</td></tr><tr><td>Globulin</td><td></td><td>0.980 (0.902,1.064)</td><td>0.625</td><td>0.954 (0.866,1.050)</td><td>0.334</td></tr><tr><td>CKD</td><td>1-2 grade</td><td>1</td><td></td><td>1</td><td></td></tr><tr><td></td><td>3-5 grade</td><td>2.784 (1.303, 5.950)</td><td>0.008</td><td>0.901 (0.335,2.421)</td><td>0.836</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究证实术前血清白蛋白水平、年龄、Karnofsky评分、病理学T分期均与NMIBC患者TURBT术治疗后的生存结局密切相关。考虑到术前血清白蛋白在评估患者营养状态和免疫反应中的重要作用，我们认为术前血清白蛋白水平可用于对NMIBC患者行TURBT术治疗后的生存预后评估。术前血清白蛋白水平较低的患者(即血清白蛋白 ${ < } 4 0 ~ \\mathrm { g / L }$ )应接受更为积极",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "的治疗及随访方案。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当然，我们的研究仍具有一定的不足。首先，这是一个单中心、小样本的回顾性研究;其次，本研究主要采用电话回访的方式进行生存随访，患者的回忆偏倚不可避免；最后，不同外科医生因手术经验不同，可能导致不同的手术预后。本研究结论仍需要更多的多中心、大样本队列研究来证实。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Siegel RL,Miller KD,Jemal A.Cancer statistics,2017[J].CA CancerJClin,2017,67(1):7-30.   \n[2]Burger M,Oosterlinck W,Konety BA，et al.ICUD-EAU international consultation on bladder cancer 2O12:Non-MuscleInvasive urothelial carcinoma of the bladder[J].Eur Urol,2013,63 (1): 36-44.   \n[3]Abdollah F,Gandaglia G,Thuret R,et al. Incidence,survival and mortality rates of stage-specific bladder cancer in United States:a trend anaiysisLJ」. Cancer Epiuemol, ∠Ui),ə/(ə): ∠1y-∠).   \n[4]Herr HW,Faulkner JR,Grossman HB,et al. Surgical factors influence bladder cancer outcomes: a cooperative group report[J]. J Clin Oncol,2004,22(14): 2781-9.   \n[5]Hollenbeck BK, Miller DC,Dunn RL,et al. The effects of stage divergence on survival after radical cystectomy for urothelial cancer [J]. Urol Oncol,2005,23(2): 77-81.   \n[6]Van Bruwaene S,Costello AJ,Van Poppel H. Prognosis of nodepositive bladder cancer in 2016[J].Minerva Urol Nefrol,2016,68 (2): 125-37.   \n[7] Goransson J, Jonsson S,Lasson A.Pre-operative plasma levels of Creactive protein,albumin and various plasma protease inhibitors for the pre-operative assessment of operability and recurrence in cancer surgery[J]. Eur J Surg Oncol,1996,22(6): 607-17.   \n[8] Gupta D,Lis CG. Pretreatment serum albumin as a predictor of cancer survival:a systematic review of the epidemiological literature[J].Nutr J,2010,9: 69.   \n[9]Ku JH, Kim M, Choi WS,et al. Preoperative serum albumin as a prognostic factor in patients with upper urinary tract urothelial carcinoma[J]. Int Braz J Urol,2014,40(6): 753-62.   \n[10] Jones A，Crew J.Vascular endothelial growth factor and its correlation with superficial bladder cancer recurrence rates and stage progression[J]. Urol Clin North Am,2000,27(1): 191.   \n[11]Lokeshwar VB,Schroeder GL,Selzer MG,et al. Bladder tumor markers for monitoring recurrence and screening comparison of hyaluronic acid-hyaluronidase and BTA-Stat tests[J]. Cancer, 2002, 95(1): 61-72.   \n[12]Hirasawa Y, Nakashima J, Yunaiyama D,et al. Sarcopenia as a novel preoperative prognostic predictor for survival in patients with bladder cancer undergoing radical cystectomy[J]. Ann Surg Oncol, 2016,23(5): S1048-54.   \n[13]Psutka SP, Carrasco A, Schmit GD, et al. Sarcopenia in patients with bladder cancer undergoing radical cystectomy impact on cancer-specific and all-cause mortality[J]. Cancer, 2014,120(18): 2910-8.   \n[14] Gibbs J,Cull W, Henderson W,et al. Preoperative serum albumin level as a predictor of operative mortality and morbidity:results from the national VA surgical risk study[J]. Arch Surg,1999,134 (1): 36-42.   \n[15] Chan ES,Yip SK,Hou SM,et al.Age,tumour stage，and preoperative serum albumin level are Independent predictors of mortality after radical cystectomy for treatment of bladder cancer in Hong Kong Chinese[J]. Hong Kong Med J,2013,19(5): 400-6.   \n[16]Djaladat H,Bruins HM,Miranda G,et al.The association of preoperative serum albumin level and American Society of Anesthesiologists (ASA） score on early complications and survival of patients undergoing radical cystectomy for urothelial bladder cancer[J].BJU Int,2014,113(6): 887-93.   \n[17]Lambert JW,Ingham M, Gibbs BB,et al. Using preoperative albumin levels as a surrogate marker for outcomes after radical cystectomy for bladder cancer[J]. Urology,2013,81(3): 587-92.   \n[18]Hinata N,Miyake H,Miyazaki A,et al. Performance status as a significant prognosticpredictorin patientswith urothelial carcinoma of the bladder who underwent radical cystectomy[J]. Int JUrol,2015,22(8): 742-6.   \n[19]Raitanen MP, Nieminen P, Tammela TL. Impact of tumour grade, stage,number and size,and smoking and sex,on survival in patients with transitional cell carcinoma of the bladder[J].Br J Urol,1995, 76(4): 470-4.   \n[20]Thrasher JB,Frazier HA,Robertson JE,et al. Clinical variables which serve as predictors of cancer-specific survival among patients treated with radical cystectomy for transitional cell carcinoma of the bladder and prostate[J].Cancer,1994,73(6): 1708-15.   \n[21] Vale JA,A'hern RP,Liu K,et al. Predicting the outcome of radical radiotherapy for invasive bladder cancer[J].Eur Urol,1993,24(1): 48-51.   \n[22]Hollenbeck BK, Miler DC,Taub D,et al. Risk factors for adverse outcomes after transurethral resection of bladder tumors[J].Cancer, 2006,106(7): 1527-35.   \n[23]Hollenbeck BK,Miller DC,Taub DA,et al. The effects of adjusting for case mix on mortality and length of stay following radical cystectomy[J]. JUrol,2006,176(4,1): 1363-8.   \n[24] Johnson DC,Riggs SB,Nielsen ME,etal. Nutritional predictors of complications following radical cystectomy[J].World JUrol,2015, 33(8): 1129-37.   \n[25]Barbosa-Silva MC. Subjective and objective nutritional assessment methods:what do they really assess[J]? Curr Opin Clin Nutr Metab Care,2008,11(3): 248-54.   \n[26]Guo YZ,Pan L,Du CJ,et al. Association between c-reactive protein and risk of cancer: a meta-analysis of prospective cohort studies[J].Asian Pac JCancer Prev,2013,14(1): 243-8.   \n[27] Grimm T,Buchner A, Schneevoigt B,et al. Impact of preoperative hemoglobin and CRP levels on cancer-specific survival in patients undergoing radical cystectomy for transitional cell carcinoma of the bladder: results of a single-center study[J]. World JUrol,2016,34 (5): 703-8.   \n[28]Masson-Lecomte A，Rava M，Real FX,et al. Inflammatory biomarkers and bladder cancer prognosis: a systematic review[J]. Eur Urol,2014,66(6): 1078-91.   \n[29]Brenner DA,Buck M,Feitelberg SP,et al.Tumor necrosis factoralpha inhibits albumin gene expression in a murine model of cachexia[J]. JClin Invest, 1990,85(1): 248-55. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

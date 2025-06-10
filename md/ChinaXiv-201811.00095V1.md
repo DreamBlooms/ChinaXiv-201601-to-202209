@@ -1,0 +1,197 @@
+# Fermi耀变体的辐射特性和演化研究
+
+任国伟,张雄,张皓晶,李富婷,徐小林,余莲，吴月承，晏培琳（云南师范大学物理与电子信息学院，云南昆明650500）
+
+摘要：本文搜集和计算了734个Fermi耀变体样本，其中包括 322个蜗虎天体（BLLacs）（其中148个HBLs、73个IBLs以及101个LBLs）和412个平谱射电类星体（FSRQs）其中18个HFSRQs，45个IFSRQs，349个LFSRQs）。我们研究了每个子类的红移分布，黑洞质量分布以及γ射线光度的分布，并对其红移、黑洞质量、γ射线光度以及同步峰值频率的相关性进行了分析，结果表明：（1）根据红移与γ射线光度分别从高到低的排序，Fermi耀变体的演化序列遵循 ：FSRQs→BLLacs，且HSPs→ISPs→LSPs，但根据黑洞质量从高到低所得到的演化序列不同，这可能是黑洞质量的估计误差以及黑洞质量样本数量较少造成的；（2)Fermi耀变体每个子类的红移与黑洞质量、黑洞质量与γ射线光度之间存在正相关（3）Fermi耀变体每个子类的红移、γ射线光度分别与同步峰频之间存在反相关，黑洞质量与同步峰频之间不存在相关性。
+
+关键词：Fermi耀变体；红移；黑洞质量；γ射线光度；演化序列中图分类号：P157文献标识码：文章编号：
+
+# 0引言
+
+耀变体是活动星系核（AGN）中的一个极端子类，它们显示出了一些极端的观测特性，如高光度、高光偏振、快速大幅光变、视超光速运动等[]。耀变体通常被分为平谱射电类星体（FSRQs）和蝎虎天体（BLLacs）两个子类，FSRQs 和BLLacs之间的经典划分主要基于发射线的等值宽度（EW)，EW 大于 5A的耀变体被归类为 FSRQs，反之则为 BL Lacs[2]。FSRQs 具有很强的发射线，而BLLacs 只有非常弱或者不存在发射线[3]。Ghisellini 等人认为这个分类标准并不能完全区分两类天体，因为源的流量状态能够影响发射线的等值宽度，非热辐射可能淹没处于高态的FSRQs的发射线，导致 FSRQs可能被归为BLLacs，因此他们提出了另一种分类方式：用爱丁顿比 $L _ { \mathrm { B L R } } / L _ { \mathrm { E d d } } \sim 5 \times 1 0 ^ { - 4 }$ 来区分两类天体，即大于 $5 \times 1 0 ^ { - 4 }$ （204号的耀变体归类为FSRQs，反之则归类为BLLac，其中 $L _ { \mathrm { B L R } }$ 为宽线区光度， $L _ { \mathrm { E d d } }$ 为爱丁顿光度[4-5]。Padovani 和 Giommi 认为可以根据同步峰频的频率值将 BLLacs 分为高峰频 BL Lacs收稿日期：修改日期：作者简介：任国伟，男，硕士.研究方向：活动星系核.Email:renren999 $@$ 163.com通讯作者：张 雄，男，教授.研究方向：活动星系核.Email:ynzx@yeah.net
+
+（简称 HBLs）和低峰频 BLLacs（简称LBLs）。此外，Abdo 等根据同步峰频的大小对 blazars进行更细的分类：低同步峰频耀变体（Low synchrotron peaked $, \nu _ { p e a k } ^ { s y n } < 1 0 ^ { 1 4 } \mathrm { H z }$ ，简称LSPs)，中同步峰频耀变体（Intermediae synchrotropeaked, $1 0 ^ { 1 4 } \mathrm { H z } < \nu _ { p e a k } ^ { s y n } < 1 0 ^ { 1 5 } \mathrm { H z }$ ，简称ISPs）以及高同步峰频耀变体（High synchrotron peaked, $\nu _ { p e a k } ^ { s y n } > 1 0 ^ { 1 5 } \mathrm { H z }$ ，简称HSPs)。研究耀变体各子类间的关系是认识活动星系核的方法之一，各子类之间的关系在一定程度上反映了耀变体的本质。在过去的耀变体演化序列的研究过程中，很多研究者认为演化序列为FSRQs→LBLs→HBLs[6-10]。基于这些研究背景，本文搜集和计算了 734 个 Fermi 耀变体样本的红移、黑洞质量、 $\gamma$ 射线光度以及同步峰值频率，考虑到BLLac天体与FSRQ可能有不同的物理机制，本文根据同步峰频对这两个子类进一步细分：将 BLLacs 分为 HBLs（20 $( \nu _ { p e a k } ^ { s y n } > 1 0 ^ { 1 5 } \mathrm { H z } )$ ，IBLs $\langle 1 0 ^ { 1 4 } \mathrm { H z } < \nu _ { p e a k } ^ { s y n } < 1 0 ^ { 1 5 } \mathrm { H z } \rangle$ ，LBLs $( \nu _ { p e a k } ^ { s y n } < 1 0 ^ { 1 4 } \mathrm { H z } )$ ；按照同样的方法将 FSRQs 分为高峰频 FSRQs $( \nu _ { p e a k } ^ { s y n } > 1 0 ^ { 1 5 } \mathrm { H z }$ ，简称 HFSRQs），中峰频 FSRQs（204号 $( 1 0 ^ { 1 4 } \mathrm { H z } < \nu _ { p e a k } ^ { s y n } < 1 0 ^ { 1 5 } \mathrm { H z }$ ，简称IFSRQs），低峰频 $\mathrm { F S R Q s } ( \nu _ { p e a k } ^ { s y n } < 1 0 ^ { 1 4 } \mathrm { H z }$ ,简称LFSRQs)。采用统计的方法对Fermi耀变体的演化进行研究，得到相应的演化序列，并对相关物理参数的相关性进行研究。
+
+本文取哈勃常数 $H _ { 0 } = 7 5 \mathrm { k m } \cdot s ^ { - 1 } \cdot \mathrm { M p c } ^ { - 1 }$ ，物质能量密度 $\Omega _ { \mathrm { m } } = 0 . 3$ ，无量纲宇宙学常数$\Omega _ { \Lambda } = 0 . 7 .$ 。
+
+在本文中，我们描述了样本数据的选取；给出了样本的分布直方图，以及相关物理参数的关系图，并对统计结果进行物理解释；最终我们得到了研究结论。
+
+# 1样本和数据
+
+# 1.1样本选择
+
+费米卫星自2008 年升空以后，经过4年的巡天观测，Fermi-LAT官方网站释放了第三期观测数据，该网站（http://www.ssdc.asi.it/）公布了Fermi-LAT 第三期源数据列表(3FGL)和Fermi-LAT第三期AGN数据列表 (3LAC),本文主要从这两个数据列表中选取研究样本。样本的选择标准为：（1）选取3FGL中所有源的坐标（RA、Dec)，1-100GeV的y射线能量流量，光谱指数等数据作为样本1，该样本共有3033个源；（2）选取3LAC中所有源的坐标（RA、Dec)，红移，同步峰频，以及 SED分类等数据作为样本2，该样本中共有1773个源；（3）选取样本1和样本2中单独的源，即不与任何源出现交叉，没有被其他源污染的概率 $\mathrm { P } \geq 8 0 \%$ ，确保选取的源是"干净"的；（4)样本1和样本2中"干净"的源通过坐标（RA、Dec）进行匹配，在匹配后的样本中，选取红移、光子谱指数、γ射线能量流量、同步峰频以及 SED 分类都被取到的源作为研究的样本。最终得到的样本中一共有734个Fermi耀变体，其中包括 322个BLLacs（148个HBLs、73个IBLs、101个LBLs）和412个FSRQs（18个HFSRQs，45个 IFSRQs，349 个LFSRQs）。
+
+1.2 参数（1）黑洞质量
+
+一般来说，黑洞质量的计算方法有三种，分别为：反响映射法、恒星弥散速度法、时标光变法，本文搜集了293 个源的黑洞质量,包括95个BLLacs（30个HBLs,15个IBLs,50 个LBLs）和198个FSRQs（20个IFSRQs，178个LFSRQs)。在本文搜集到的黑洞质量样本中，有 210 个源的黑洞质量是通过反响映射法估算的[1-15]，有171个源的黑洞质量是通过恒星弥散速度法估算的[16-20]。有 39 个源的黑洞质量是通过时标光变法得到的[21-23]。对于同一个源，如果我们得到了用不同方法估算的黑洞质量，取其平均值作为该源的黑洞质量。
+
+（2）Y射线光度
+
+我们搜集了“干净"的Fermi耀变体源1-100GeV的y射线能量流量以及光子谱指数，对得到的能量流量进行K 修正，即 $F _ { \gamma } = F _ { \gamma } ^ { o b s } ( 1 + Z ) ^ { \alpha - 1 }$ ， $\alpha$ 是光子谱指数，且 $\alpha _ { \gamma } = \alpha _ { \mathrm { p h } } - 1$ 。可以通过公式 $\ L _ { \gamma } = 4 \pi { d _ { \mathrm { L } } } ^ { 2 } F _ { \gamma }$ 计算出 $\gamma$ 射线光度，其中 $d _ { \mathrm { L } }$ 为光度距离[24]
+
+$$
+\begin{array} { r } { d _ { \mathrm { L } } ( z ) = \frac { c } { H _ { 0 } } ( 1 + \mathrm { z } ) \int _ { 0 } ^ { \mathrm { z } } [ \Omega _ { \Lambda } + \Omega _ { \mathrm { m } } ( 1 + \mathrm { z } ^ { \prime } ) ^ { 3 } ] ^ { - 1 / 2 } d \mathrm { z } ^ { \prime } } \end{array}
+$$
+
+式（1）中 $\mathrm { ~  ~ c ~ }$ 为光速（ $3 \times 1 0 ^ { 8 } m / s )$ ， $\textbf { z }$ 为红移。
+
+# 2结果和讨论
+
+# 2.1 红移分布图
+
+图1给出322个BLLacs（148个HBLs、73个IBLs、101个LBLs）的红移分布图，三个子类的红移平均值分别为0.24、0.29、0.37，为了更加直观的看出红移分布，我们对每个子类的红移进行洛伦兹拟合，得到红色曲线为洛伦兹拟合曲线，从图1可以看出：BLLacs的红移在 $0 . 0 3 { \sim } 0 . 9 4$ 的范围内分布，其子类的红移由高到低分布为LBLs $$ IBLS $$ HBLs。
+
+图2给出412个FSRQs（18个HFSRQs，45个IFSRQs，349个LFSRQs）的红移分布图，三个子类的红移平均值分别为1.07、1.19、1.35，从图2可以看出：FSRQs的红移在 $0 . 6 0 \sim$ 3.10 的范围内分布，其子类的红移由高到低分布为LFSRQs $$ IFSRQs $$ HFSRQs。
+
+对比图1和图2可以看出：BLLacs和FSRQs红移总体分布由高到低为FSRQs $$ BLLacs。耀变体的演化机制是随着红移的变化进行的，可以根据红移的大小来判断天体出现的早晚[25]。比如 LSPs 的红移偏大，可以认为LSPs形成于较早时期，根据红移由高到低的分布可以得到Fermi 耀变体的演化序列为：LFSRQs $$ IFSRQs $$ HFSRQs $$ LBLS $$ IBLS $$ HBLs,这与文献[6-10]中的结论一致。
+
+![](images/0402a711961207f3ef7d0245f5c5ae7064963b8f692caca74e43c30b42fc4446.jpg)  
+图1BLLacs的红移分布图（322个样本)，红色曲线为洛伦兹拟合曲线
+
+The red curve is the Lorenz curve fitting red curve is the Lorenz curve fitting
+
+![](images/58a15b5a9bd0e1649eae253858d5858671a4891100d07c09098dce06900eb722.jpg)  
+Fig.1 Redshift distributions of BLLacs (322 samples),   
+图2FSRQs的红移分布图（412个样本），红色曲线为洛伦兹拟合曲线  
+Fig.2Redshift distributionsofFSRQs (412 samples),The
+
+2.2Y射线光度分布图
+
+图3 给出 322个BLLacs（148个HBLs、73个IBLs、101个LBLs）的γ射线光度分布图，三个子类的γ射线光度 $\left( \log \mathrm { L } _ { \gamma } \right)$ 平均值分别为 $4 5 . 3 4 \mathrm { e r g } s ^ { - 1 }$ 、45.52 erg $s ^ { - 1 }$ 、46.10 erg $s ^ { - 1 }$ ，从图3可以看出:BLLacs的γ射线光度 $\left( \log \mathrm { L } _ { \gamma } \right)$ 在 $4 2 . 9 9 \ : \mathrm { e r g } \ : s ^ { - 1 } { \sim } 4 8 . 3 2 \ : \mathrm { e r g } \ : s ^ { - 1 }$ 的范围内分布，其子类的y射线光度由高到低分布为LBLs $$ IBLS $$ HBLs。
+
+图4给出412个FSRQs(18个HFSRQs,45个IFSRQs,349个LFSRQs)的γ 射线光度分布图，三个子类的γ射线光度 $\left( \log \mathrm { L } _ { \gamma } \right)$ 平均值分别为46.34erg $s ^ { - 1 }$ 、46.70 erg $s ^ { - 1 }$ 、47.09 erg $s ^ { - 1 }$ ，从图4可以看出：FSRQs的 $\gamma$ 射线光度 $\left( \log \mathrm { L } _ { \gamma } \right)$ 在44.35erg $s ^ { - 1 } { \sim } 4 8 . 8 6$ erg $s ^ { - 1 }$ 的范围内分布，其子类的y射线光度由高到低分布为LFSRQs $$ IFSRQs $$ HFSRQs。
+
+对比图3和图4可以看出:BLLacs和FSRQsγ射线光度总体分布由高到低为FSRQs→BLLacs。根据γ射线光度由高到低的分布可以得到Fermi 耀变体的演化序列为：
+
+LFSRQs $$ IFSRQs $$ HFSRQs $$ LBLS $$ IBLs $$ HBLs，这与根据红移分布得到的演化序列是一致的。
+
+![](images/8d613b2f0e32dc91512ec1f2ced73ea684d32767f7894de44c6a29f2b6f20145.jpg)  
+图3BLLacs的y射线光度分布图分布图（322个样本），红色曲线为洛伦兹拟合曲线
+
+![](images/1598ac2f1a7bee9424914ad084ac522425f91dadcd5fdd3aeaaf69c7e40003dc.jpg)  
+图4FSRQs的y射线光度分布图分布图（412个样本)，红色曲线为洛伦兹拟合曲线
+
+Fig.3 $\gamma$ -ray luminosity distributions of BLLacs (322 samples),The red curve is the Lorenz curve fitting
+
+Fig.4 $\boldsymbol { \gamma }$ -ray luminosity distributions of FSRQs (412 samples),The red curve is the Lorenz curve fitting
+
+2.3黑洞质量分布图
+
+图5给出95个BLLAC天体（30个LBLs，15个IBLs，50个HBLs）的黑洞质量分布图，三个子类的黑洞质量 $( \log ( \mathsf { M } / \mathsf { M } _ { \odot } ) )$ 平均值分别为8.5、8.1、8.4，从图5可以看出：BLLacs的黑洞质量 $( \log ( \mathsf { M } / \mathsf { M } _ { \odot } ) )$ 在 $6 . 5 \sim 1 0 . 4 \$ 的范围内分布，其子类的黑洞质量由高到低分布为HBLs $$ LBLS $$ IBLS。
+
+图6 给出198个FSRQs（20个IFSRQs，178个LFSRQs）的黑洞质量分布图，两个子类的黑洞质量 $( \log ( \mathsf { M } / \mathsf { M } _ { \odot } ) )$ )平均值分别为8.4、8.7，从图6可以看出：FSRQs天体的黑洞质量在 $6 . 5 \sim 9 . 8$ 的范围内分布，其子类的黑洞质量由高到低分布为LFSRQs $$ IFSRQs。对比图5 和图6可以看出：BLLacs和FSRQs黑洞质量总体分布由高到低为FSRQs $$ BLLacs。根据黑洞质量由高到低的分布可以得到Fermi耀变体的演化序列为：LFSRQs $$ IFSRQs→HBLs→LBLs→IBLs。该结论和根据红移、γ射线光度分布得到的演化序列结论不一致，可能的原因有：（1）本文中利用反响映射法、恒星弥散速度法和时标光变法估算黑洞质量，由于AGN 的磁场和辐射压会对宽线云的运动产生影响，所以通过反响映射法估算的黑洞质量可能偏高[26]。由于受到观测时间等因素的限制，使得以现有的技术手段估算的黑洞质量还存在一定的误差，如文献[15]中所估算黑洞质量的上限与黑洞质量下限的比值平均为1.9，最大为5；（2）目前可以估算黑洞质量的样本较少，也可能影响根据黑洞质量得到的演化序列。
+
+![](images/9b994fb4247a31b37e592f29999b3fffa247884964dbab4bd06d81627b14ed98.jpg)  
+图5BLLacs的黑洞质量分布图(95个样本)，红色曲线为洛伦兹拟合曲线
+
+![](images/dea2412dffcde57e41dfb8e5c674b615bc9f8f3967a8f897db8140489164c568.jpg)  
+图6FSRQs的黑洞质量分布图（198个样本），红色曲线为洛伦兹拟合曲线
+
+Fig.6BH mass distributions ofFSRQs (198 samples),The red curve is the Lorenz curve fitting samples),The red curve is the Lorenz curve fitting
+
+![](images/3a63cf6314310d8c7417db77a93081acde3c6d169758f804bcce6a23d9c969fa.jpg)  
+Fig.5BH mass distributions ofBLLacs (95   
+Fig.7The relation between the redshift and
+
+![](images/78bcee7f24d729ebbcc13848ebb95fcd0ea6a9a43e179469d1fb2b9bb84aa577.jpg)  
+图7BLLac与FSRQs的红移与黑洞质量的  
+图8BLLac与FSRQs的黑洞质量与y射线光度的  
+Fig.8 The relation between the BH mass and $\boldsymbol { \gamma }$ -ray
+
+关系图（293个样本)
+
+关系图（234个样本)
+
+BH mass for BL Lac and FSRQs (293 samples)
+
+luminosity for BLLac and FSRQs (234 samples)
+
+# 2.4红移和黑洞质量的关系
+
+图7给出 293个源的红移与黑洞质量的关系图，包括95个BLLacs（30个HBLs，15个IBLs，50个LBLs）和198个FSRQs（20个IFSRQs，178个LFSRQs)。从图10 可以看出：红移与黑洞质量之间存在正相关，其相关系数 $\scriptstyle \mathbf { R = } 0 . 3 3 9 7$ ，置信度 $\mathrm { P } = 2 . 3 \times 1 0 ^ { - 9 }$ ，且可以看出其演化序列为：LFSRQs $$ IFSRQs $$ LBLS $$ IBLS $$ HBLs。
+
+# 2.5黑洞质量和y射线光度的关系
+
+图8给出 293个源的黑洞质量与γ射线光度的关系图,包括95个BLLacs(30个HBLs,15个IBLs，50个LBLs）和198个FSRQs（20个IFSRQs，178个LFSRQs)。从图8可以看出：黑洞质量与γ射线光度之间存在正相关,其相关系数 $\scriptstyle \mathrm { R = 0 } . 3 4 9 3$ ,置信度 $\mathrm { P } = 7 . 3 \times 1 0 ^ { - 1 0 }$ ，且可以看出其演化序列为：LFSRQs $$ IFSRQs $$ LBLS $$ IBLS $$ HBLs。
+
+# 2.6红移与同步峰频的关系
+
+图9 给出734个源的红移与同步峰频的关系图，包括 322个BLLacs（148个HBLs、73个IBLs、101个LBLs）和412个FSRQs（18个HFSRQs，45个IFSRQs，349个LFSRQs）。从图9可以看出：红移与同步峰频之间具存在反相关，其相关系数 $\scriptstyle \mathrm { R = - 0 . 6 1 1 4 }$ ，置信度$\mathrm { P } = 2 . 0 \times 1 0 ^ { - 7 6 }$ 。
+
+2.7黑洞质量与同步峰频的关系
+
+图10 给出293个源的黑洞质量与同步峰频的关系图，包括95个BLLac天体（30个HBLs，15个IBLs，50个LBLs）和198个FSRQs（20个IFSRQs，178个LFSRQs）。从图10 可以看出：黑洞质量与同步峰频之间并不具有相关关系，可能的原因是估算的黑洞质量误差较大以及得到的黑洞质量的样本较少。
+
+![](images/750852b2b0db4165be7467d100ea65072f8f8daf25b3b6440ae079cc9150ccdb.jpg)  
+图9BLLac与FSRQs的红移与同步峰频的关系图（734个样本)
+
+的关系图（293个样本）
+
+![](images/ab0a5be7755bee5119144fd4cdeca98ceb47a3216d46912b816146d1c99864b6.jpg)  
+图10BLLac与FSRQs的黑洞质量与同步峰频  
+Fig.9 The relation between the redshift andsynchronous peak frequency for BL Lac and FSRQs (734 samples)   
+Fig.10 The relation between the BH mass andsynchronous peak frequency for BL Lac and FSRQs (293 samples)
+
+2.8γ射线光度与同步峰频的关系
+
+图11给出734个源的红移与同步峰频的关系图，包括 322个BLLacs（148个HBLs、73 个 IBLs、101个LBLs)和 412个FSRQs(18个HFSRQs,45个 IFSRQs,349 个LFSRQs)。从图11可以看出：γ射线光度与同步峰频之间具有反相关，其相关系数 $\scriptstyle \mathrm { R = - 0 . 6 1 0 2 }$ ，置信度$\mathrm { P } = 2 . 7 \times 1 0 ^ { - 7 6 }$ 。
+
+![](images/7827d5f03c04a0d05e445dbf300ed7d4b7ff1a29077e9ff56ad2a956bbbc13ed.jpg)  
+图11BLLacs与FSRQs的y射线光度与同步峰频的关系图（734个样本）
+
+Fig.llThe relation between they-ray luminosity andsynchronous peak frequencyforBLLac and FSRQs (734 samples)
+
+根据红移与γ射线光度从高到低，得到Fermi耀变体的演化序列遵循：LFSRQs $$ IFSRQs $$ HFSRQs $$ LBLS $$ IBLS $$ HBLs，从不同物理参量的关系图中可以看出，FSRQs 位于右上区域，在演化的过程中，同步峰频逐渐增大，演化到一定阶段时，FSRQs逐渐过渡到BLLacs，且Fermi耀变体每个子类的红移、γ射线光度分别与同步峰频之间存在反相关。这可能的解释是：在宇宙的早期，宽线区云块的光子处于比较干净的环境，所以它不会提供软光子，高红移、高亮度的天体可能出现在宇宙的早期，随着演化的进行，气体和尘埃微粒数量增加并受到中心黑洞的吸积作用，吸积率发生改变，外部的散射占主导，从而使得光子场的强度较高，冷却喷流中的相对论性电子的能力增强，电子很快被冷却导致高能电子难以产生，导致同步峰频降低；由于不断的辐射能量，消耗活动星系核周围的物质，导致气体和尘埃微粒变得稀薄，从而使得光子场的能量密度较低，电子难以冷却，在短时间内就能由于辐射释放能量，达到高能量状态，最终导致较高的辐射流量峰值频率[27]。
+
+# 3结论
+
+通过对Fermi耀变体的红移、黑洞质量、γ射线光度的研究，得到的主要结论如下：(1)根据红移与y射线光度分别从高到低的排序,Fermi耀变体的演化序列遵循：FSRQs $ \dot { }$ BLLacs，且 $\mathrm { H S P s { \longrightarrow } I S P s { \longrightarrow } L S P s }$ ，但根据黑洞质量从高到低所得到的演化序列不同，这可能是黑洞质量的估计误差以及黑洞质量样本数量较少造成的;
+
+(2)Fermi耀变体每个子类的红移与黑洞质量、黑洞质量与γ射线光度之间存在正相关；（3)Fermi耀变体每个子类的红移、γ射线光度分别与同步峰频之间存在反相关，黑洞质量与同步峰频之间不存在相关性。
+
+致谢：感谢编辑和审稿人对我们稿件“Fermi耀变体的辐射特性和演化研究”提供的意见。这些意见对我们进行论文修改和提高论文质量非常有帮助。我们根据审稿人的意见对论文做了仔细修改。在今后的学习中，我会广读文献来加强自己知识点的不足。
+
+# 参考文献
+
+[1] Fichtel CE,Bertsch DL,Chiang J,etal.The first energetic gamma-rayexperiment telescope (EGRET）source catalog[J]. Astrophysical Journal Supplement,1994, 94(2):551-581.   
+[2] ScarpaR,FalomoR.Are highpolarizationquasarsandBLLacertaeobjectsreallydiferent?Astudyof theopticalspectral properties.[J].Astronomy & Astrophysics,1997,325(1):109-123.   
+[3] Xiong DR, Zhang X. Intrinsic $\gamma$ -ray luminosity,black hole mass, jet and accretion in Fermi blazars[J].Monthly Notices of the Royal Astronomical Society,2014,441(4):3375-3395.   
+[4] GiommiP,PadovaniPolentaG,etal.Asimplifiedviewofblazars:clearingthefogaroundlong-standingselectionefects[J]. Monthly Notices of theRoyal Astronomical Society,2012,420(4):2899-2911.   
+[5] Ghiselini G,TaveccioF,FoschiniL,etal.ThetransitionbetweenBLLacbjectsandflatspectrumadiouasars[J].onthly Notices of the Royal Astronomical Society,2011,414(3):2674-2689.   
+[6] Boetcher M,Dermer CD.Anevolutionaryscenarioforblazarunification[J].AstrophysicalJoural,Oo1,564(1):86-91.   
+[7] Sambruna R M,Maraschi L,UryCM.Onthe Spectral Energy Distributionsof Blazars[J].Journalof Venomous Animals& Toxins Including Tropical Diseases,1996,463(2):466-480.   
+[8] Fossati G,MaraschiL,CelotiA,etal.Auifyingviewofthespectralenergydistributionsofblazars[J].MonthlyNoticesofthe Royal Astronomical Society,2010,299(2):433-448.   
+[9] Ghiselini G,CelotiA,ossati G,etal.Atheoreticalunifyingschemeforgamma-raybrightlazars[J].MonthlyNoticesofthe Royal Astronomical Society,2010,301(2):451-468.   
+[10] Ghiselini G,MaraschiL,TavecchioFTheFermiblazarsdivide[J].MonthlyNoticesoftheoyalAstronomicalSocietyLters, 2010,396(1):L105-L109.   
+[11]ShawMS,RomaniRW,CoterG,etal.SpectroscopyofBroadLineBlazars fromLAC[J].AstrophysicalJoual,2012, 748(1):1-83.   
+[12]Shen Y Richards G T,Strauss M A, tal. A CATALOG OF QUASAR PROPERTIES FROM SLOAN DIGITAL SKY SURVEY DATA RELEASE 7[J]. Astrophysical Journal Supplement, 2011,194(2):45.   
+[13]LiuY,JiangDR,GuFThejetpowerdioloudnsndlackoleassidildactivegalacticuclei[J].Aoical Journal,2006,637(2):669.   
+[14]MinfengGu,Xinwu Cao,D.R.Jiang.Onthe masesofblack holes inradio-loud quasars[J]. Monthly Noticesofthe Royal Astronomical Society, 2010,327(4):1111-1115.   
+[15]WangJM,LuoB,HoLC.TheConnection Between Jets,AccretionDisks,andBlack Hole MassinBlazars[J].Astrophysical Journal,2004,615(1):L9-L12.   
+[16]ChaiB,CaoX,GuM.Whatgovesthebulkvelocityofthejetcomponentsinactivegalacticnuclei[J].AstrophysicalJoual, 2012, 759(2):1445-1449.   
+[17]WooJH,UrryCM.ActiveGalacticucleusBlackHole MassesandBolometricLuminosities[J].AstrophysicalJoual08, 579(2):530-544.   
+[18]Sbarrato T,Ghisellini G,Maraschi L,et al. The relation between broad lines and $\boldsymbol { \gamma }$ -ray luminosities in Fermi blazars[J].Monthly Notices of the Royal Astronomical Society,2012,421(2):1764-1778.   
+[19]ZhouM,CaoXW.Therelationbetweeblackhole massesandLorentzfactorsofthejetcomponentsinblazars[J].Research n Astronomy and Astrophysics,2009,9(3):293-301.   
+[20]Jin Zhang,EnWeiLiang,ShuangNan Zhang,etal.RadiationMechanismsandPhysicalPropertiesofGeV-TeVBLLacObjects[J]. Astrophysical Journal,2011,752(2):-.   
+[21]XieGZ,ZhouSB,LiangEW.The Mass-LuminosityRelation,AccretionRate-LuminosityRelation,andEvolutionarySequence of Blazars[J].Astronomical Journal, 2004,127(127):53.   
+[2]XieGZ,LiuFK,LiuBFetal.Thebeaming modelandHubblediagramofBLLacertaeobjects[J].Astronomy&Astrophsics, 1991,249(1):65-69.   
+[23]LiangEWLiuHT.Themassesofcentralsupermassiveblackholesandthearabilitytime-scales ingamma-rayudblazars[J] Monthly Notices of the Royal Astronomical Society,2010,340(2):632-638.   
+[24]VentersTM,Pavlidou V,ReyesLC.TheExtragalacticBackgroundLight AbsorptionFeature intheBlazar Componentof the Extragalactic Gamma-ray Background[J].Astrophysical Journal, 2009,703(2):1939-1946.   
+[25]尤莉莎，张雄．活动星系核的演化与宇宙学红移[J].天文研究与技术,2007,4(2):108-112.   
+YouLisha,Zhang Xiong.ActiveGalacticNucleiandtheRedshift[J].AstrophysicalResearch&Technology,2Oo7,4(2):08-112.   
+[26]KrolikJystematicEosinthestimatiooflackHoleassesbyeverberationappingJ].strophsicalJoul, 551(1):72-79.
+
+[27]王雪品.耀变体能谱分布及演化序列研究[D].云南师范大学,2017. Wang Xuepin.Studyingonthespectral energy distributionand evolution sequenceof blazars[DJ.Jourmal of YunnanNormal University,2017.
+
+# The Research about Radiation Characteristics and Evolutionary Sequence in Fermi blazars
+
+RenGuowei， Zhang Xiongt ,ZhangHaojing ,LiFuting ,XuXiaoling ,Yu Lian，WuYuecheng，
+
+YanPeilin
+
+(College ofPhysicsandElectronics，YunnanNormal University,Kunming 65o5oo,China,Email: yzx@yeah.net)
+
+Abstract:In this paper, we colected and calculated 734 samples of Fermi blazars.the sample includes322BL Lacobjects(148High-frequencypeaked BL Lacs，73 Intermediate-frequency peaked BL Lacs，1O1 Low-frequency peaked BL Lacs） and 412 flat spectrum radio quasars(FSRQs)(18 High synchrotron peaked FSRQs， 45 Intermediate synchrotron peaked FSRQs, 349 Low synchrotron peaked FSRQs)， Then the distribution of redshift, black hole mass and gamma ray luminosity of each subclass were researched,and the relationships between redshift, BH mass and gamma ray luminosity were discussed, The results are as follows: (1） According to the redshift and gamma ray luminosity from high to low,the evolution sequence of Fermi blazars follows:FSRQs $$ BL Lacs,and HSPs $$ ISPs $$ LSPs, but the evolution sequence obtained from high to low black hole mass is different. This may be due to the estimation error of the black hole mass and the small number of black hole mass samples; (2) there is a significant positive correlation between the redshift and black hole mass,black hole mass and gamma ray luminosity of each subclass of Fermi blazars; (3) There is a significant inverse correlation between the red shift, the gamma ray luminosity and the synchronous peak frequency of each subclass of Fermi blazars,There is no correlation between black hole mass and synchronous peak frequency.
+
+Key words: Fermi blazars; redshift; black hole mass; gamma ray luminosity; sequence evolution

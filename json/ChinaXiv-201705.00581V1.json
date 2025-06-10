@@ -1,0 +1,385 @@
+[
+    {
+        "type": "text",
+        "text": "Effect of $\\gamma _ { b } \\mathsf { ^ { 3 + } }$ on the Crystal Structural Modification and Photoluminescence Properties of GGAG:Ce³+ ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhao-Hua Luo,\\*† Yong-Fu Liu, Chang-Hua Zhang4\\* Jian-Xin Zhang,§ Hai-Ming Qin,† Hao-Chuan Jjiang,\\*tand JunJjiang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "+Ningbo Instituteof Materials TchnologyandEngineering, Chinese Academyof Sciences,Ningbo,315201,P.R China \\*Department of Chemistry, College of Science, Shanghai University, Shanghai, 200444,P.R. China \\$Colege ofElectronic Informationand Enginering, Hangzhou Dianzi University, Hangzhou310o18,P.RChina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: Gadolinium gallium aluminum garnet (GGAG) is a very promising host for the highly efficient luminescence of $\\mathrm { C e } ^ { 3 + }$ and shows potential in radiation detection applications. However， the thermodynamically metastable structure would be slanted against it from getting high transparency. To stabilize the crystal structure of GGAG, $\\mathrm { Y b } ^ { \\tilde { 3 + } }$ ions were codoped at the $\\mathrm { G d } ^ { 3 + }$ site. It is found that the decomposition of garnet was suppressed and the transparency of GGAG ceramic was evidently improved. Moreover， the photoluminescence of GGAG: ${ \\mathrm { C e } } ^ { 3 + } , { \\dot { x } } { \\mathrm { Y b } } ^ { 3 + }$ with different $\\mathrm { Y b } ^ { 3 + }$ contents has been investigated. When the $\\mathsf { C e } ^ { 3 + }$ ions were excited under $4 7 5 \\ \\mathrm { n m }$ a typical near-infrared region emission of $\\mathrm { Y b } ^ { 3 + }$ ions can be observed, where silicon solar cells have the strongest absorption. Basing on the lifetimes of $\\mathsf { C e } ^ { 3 + }$ ions in the GGAG: $\\bar { \\mathrm { C e } } ^ { 3 + } , x \\mathrm { Y b } ^ { 3 + }$ sample, the transfer efficiency from $\\mathsf { C e } ^ { 3 + }$ to $\\mathrm { Y b } ^ { 3 + }$ and the theoretical internal quantum efficiency can be calculated and reach up to $8 6 \\%$ and $1 8 6 \\%$ respectively. This would make $\\mathrm { G G A G } { : } \\mathrm { C e } ^ { 3 + } , \\mathrm { Y b } ^ { 3 + }$ a potential atractive downconversion candidate for improving the energy conversion efficiency of crystalline silicon (c-Si) solar cells. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d7dd15adda81d67e56888f8e67c652cc55c6568e60e54d5d332d43bdfe34e40.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The fabrication and research of cerium doped aluminate garnets have attracted a lot of attention in recent years. The most famous compounds in this garnet family are $\\mathrm { Y } _ { 3 } \\mathrm { A l } _ { 5 } \\mathrm { O } _ { 1 2 } { : } \\mathrm { C e } ^ { 3 + }$ $\\left( \\mathrm { Y A G } { : } \\dot { \\mathrm { C e } } ^ { 3 + } \\right)$ and $\\mathrm { L u } _ { 3 } \\mathrm { A l } _ { 5 } \\mathrm { O } _ { 1 2 } { : } \\mathrm { C e } ^ { 3 + }$ $\\left( \\mathrm { L u A G : C e } ^ { 3 + } \\right)$ ： The former is one of the successful commercial phosphors for white LEDs at present，which can emit yellow light when excited by blue chips,and then the yellow light combines with the blue source to produce white light.1² The latter is promising to be used in high energy gamma-ray detection and nuclear medical imaging as an inorganic scintillator, which mainly benefits from its satisfactory stopping power for the incident radiations，fast decay time，and high scintillation eficiency3-Howeverbecauseofitsverylownatural abundance and its separation and purification being very difficult,the cost of lutetium is rather too high for industrial applications.Researchers have attempted to replace lutetium with gadolinium and form $\\mathrm { G d _ { 3 } A l _ { 5 } O _ { 1 2 } } \\mathrm { \\dot { : } C e ^ { 3 + } ( G A \\bar { G : } C e ^ { 3 + } ) . }$ ,forthe reason that gadolinium's relative atomic mass is close to that of lutetium but with much lower price for its oxide.Moreover, the 4f orbits of ${ \\mathrm { G d } } ^ { 3 + }$ ion are half filled with electrons,and the structure of electron shell is enclosed,which makes ${ \\mathrm { G d } } ^ { 3 + }$ ion nonluminous and suitable as host materials.Additionally, $\\operatorname { G d } ^ { 3 + }$ ion is a fine sensitizer for $\\mathsf { C e } ^ { 3 + }$ ions by energy transfer,and this can enhance the luminescence efficiency of $\\mathbf { C e } ^ { 3 + }$ ions. Unfortunately, the radius of $\\mathrm { G d } ^ { 3 + }$ ion is $1 . { \\dot { 0 } } 5 3 \\ { \\hat { \\mathrm { A } } } ,$ larger than that of ${ \\mathrm { L } } { \\mathrm { u } } ^ { 3 { \\dot { + } } }$ ion (0.977 A） in eight coordinate. Some researchers point out that the difference in ion radius makes GAG thermodynamically metastable and it would transform to orthorhombic gadolinium aluminate perovskite_phase(GAP) at about $1 5 0 0 ~ ^ { \\circ } \\bar { \\mathbf { C } }$ or even lower temperature.7 So,it seems impossible to prepare a pure-phase GAG solid material at a high temperature. The garnet structure belongs to cubic $I a \\overline { { 3 } } d$ space group，and the chemical formula of garnet can be expressed as $\\mathrm { A } _ { 3 } \\mathrm { B } _ { 2 } \\mathrm { C } _ { 3 } \\mathrm { O } _ { 1 2 } ,$ where A, B,and $\\mathrm { ~ \\cal ~ C ~ }$ represent cations occupying dodecahedral $2 4 ( \\mathrm { c } )$ ，octahedral $1 6 ( \\hat { \\textmd a } )$ ，and tetrahedral $2 4 ( \\mathrm { d } )$ symmetry sites, respectively. For the ideal $\\mathrm { G A G } { : } \\mathrm { C e } ^ { 3 + }$ crystal, $\\mathrm { G d } ^ { 3 + }$ and $\\mathrm { C e } ^ { 3 + }$ ions occupy the $2 4 ( \\mathrm { c } )$ sites, while $4 0 \\%$ of $\\mathrm { A l } ^ { 3 + }$ ions take the $1 6 ( \\mathrm { a } )$ sites and the other $6 0 \\%$ are located at $2 4 ( \\mathrm { d } )$ sites.In order to stabilize the crystal structure of GAG, ion substitution atA,B,and C sites can be used.T.Kanai et al.9 have developed a new oxide scintillator $\\mathrm { G d } _ { 3 } ( \\mathrm { A l } , \\mathrm { G a } ) _ { 5 } \\mathrm { O } _ { 1 2 } { : } \\mathrm { C e } ^ { 3 + }$ successfully by partially substituting $\\mathsf { A l } ^ { 3 + }$ ions with $\\boldsymbol { \\mathrm { G a } } ^ { 3 + }$ ions. By Rietveld analysis, they found that the $\\boldsymbol { \\mathrm { G a } } ^ { 3 + }$ ions can occupy both 16(a)and $2 4 ( \\mathrm { d } )$ sites.They also revealed that the GGAG:Ce scintillator exhibits excellent afterglow performance, which is crucial for medical CT applications.Later on，by systematically comparing the optical，  luminescent， and scintillation characteristics of multicomponent （20 $\\mathrm { ( L u } _ { x } \\mathrm { G d } _ { 1 - x } \\mathrm { ) } _ { 3 } \\mathrm { ( G a } _ { y } \\mathrm { A l } _ { 1 - y } \\mathrm { ) } _ { 5 } \\mathrm { O } _ { 1 2 } \\mathrm { : } \\mathrm { C e } ^ { 3 + }$ garnet single crystals， K. Kamada et al. found that the maximum light yield could achieve almost 46,ooo photons/MeV for composition of $\\mathrm { G d } _ { 3 } \\mathrm { A l } _ { 2 } \\mathrm { G a } _ { 3 } \\mathrm { O } _ { 1 2 }$ 10 At the same time,the energy resolution was $4 . 9 \\% \\textcircled { a } 6 6 2 \\mathrm { k e V }$ and the scintillation response was quite fast.1 It is generally recognized that GGAG:Ce3+ compounds are promising candidates for scintillator applications.11 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although $\\mathrm { G G A G } { : } \\mathrm { C e } ^ { 3 + }$ crystals with high quality have been grown successfully, the optical behavior of ceramics with similar compounds seems not as good,and some researchers attributed it to the moderate phase stability of GGAG.1213 In our previous work of fabricating GGAG ceramics，we observed a similar phenomenon.To modify the structure of GGAG further，rare earth ions with smaller radii compared to Gd3+,， such as Y3+, ${ \\mathrm { L u } } ^ { 3 + }$ ,and $\\mathrm { T b } ^ { 3 + } .$ ,have been codoped at the $\\mathrm { G d } ^ { 3 + }$ site.13-16 With this compound modification， transparent ceramics GY$\\mathrm { G A G } { : } \\mathrm { C e } ^ { 3 + }$ and GLuGAG: ${ \\mathrm { C e } } ^ { 3 + }$ exhibit excellent phase stability, and their light yield increases to S0,000-60,000 photons/ MeV.12,13 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since phase stability can be achieved by partially substituting $\\mathrm { G d } ^ { 3 + }$ with smaller rare earth ions, ${ \\mathrm { Y b } } ^ { 3 + }$ with ion radius of 0.985 A at dodecahedron coordination is supposed to have similar effect as ${ \\mathrm { Y } } ^ { 3 + }$ and ${ \\mathrm { L u } } ^ { 3 + }$ . However, to the best of our knowledge, cerium doped YbGGAG ceramics have not been reported yet. The reason may lie in the existence of highly efficient downconversion from $\\mathsf { C e } ^ { 3 + }$ to $\\mathrm { Y b } ^ { 3 + }$ ，and this would result in luminescence quenching for $\\mathbf { C e } ^ { 3 + }$ ions. On the other side, the emission wavelength of $\\mathrm { Y b } ^ { 3 + }$ ion $( 9 5 0 - 1 1 0 0 \\ \\mathrm { n m } )$ lies in the near-infrared region (NIR),where silicon solar cells have the strongest absorption.1719Meanwhile the spectral responseof crystalline silicon (c-Si） at the excitation peaks of $\\hat { \\mathrm { C e } } ^ { 3 + }$ ions $\\left( 3 0 0 - 5 0 0 \\ \\mathrm { n m } \\right)$ is very weak.So，the downconversion from $\\dot { \\mathrm { C e } } ^ { 3 + }$ absorption to $\\mathrm { Y b } ^ { 3 \\dagger }$ emission would be a promising spectral modification approach for enhancing the efficiency of c-Si solar cells.Recently, the energy transfer between $\\mathrm { C e } ^ { 3 + }$ and $\\mathrm { Y b } ^ { 3 + }$ has attracted a lotof interest.0-27 Therefore,in the present work we attempt to modify the phase stability of the GGAG:Ce3+ ceramic by substituting $\\mathrm { G } \\hat { \\mathsf { d } } ^ { 3 + }$ with $\\mathrm { Y b } ^ { 3 + }$ .The effect of $\\mathrm { Y b } ^ { 3 + }$ codoping on the photoluminescence behavior will also be studied. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.EXPERIMENTALSECTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Raw Materials and Reagents.Rare-earth oxides such as ${ \\mathrm { G d } } _ { 2 } { \\mathrm { O } } _ { 3 } ,$ ${ \\mathrm { Y b } } _ { 2 } { \\mathrm { O } } _ { 3 } ,$ and $\\mathrm { C e } ( \\mathrm { C O } _ { 3 } ) _ { 2 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ with purity of 4N were purchased from Qiandong Rare Earth Group $C _ { 0 }$ ，Ltd.，China. ${ \\bf G } { \\bf a } _ { 2 } { \\bf O } _ { 3 }$ with purity of 4Nwasprovided by Chinalco.High-purity(AR, $9 9 \\%$ ） $\\mathrm { \\tilde { N H _ { 4 } A l ( S O _ { 4 } ) _ { 2 } \\cdot 1 2 H _ { 2 } O , } }$ （204 ${ \\mathrm { N H } } _ { 4 } { \\mathrm { H C O } } _ { 3 } ,$ ammonium hydroxide,nitric acid,and hydrochloric acid were purchased from Sinopharm Chemical Reagent Co.,Ltd., China. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2. Fabrication of $\\mathsf { G G A G } \\colon \\mathsf { C e } ^ { 3 + } , x \\mathsf { Y b } ^ { 3 + }$ Ceramics. The starting materials were first weighed accurately according to the chemical formula of $( \\mathrm { C e _ { 0 . 0 1 5 } Y b } _ { x } \\mathrm { G \\bar { d } _ { 2 . 9 8 5 - x } } ) \\mathrm { G a } _ { 3 } \\mathrm { A l } _ { 2 } \\mathrm { O } _ { 1 2 }$ (GGAG $\\mathrm { C e } ^ { 3 + } , x \\mathrm { Y b } ^ { 3 + } )$ ? $\\mathbf { \\boldsymbol { x } } = \\mathbf { \\boldsymbol { \\mathsf { I } } }$ 0,0.015,0.03,0.09,0.15,and 0.3,respectively).Then, the raw material powders were dissolved in hot nitric acid and made into solution of 0.3 $\\mathrm { \\ m o l / L }$ 、After that，the resulting mixture was precipitated with ultrasonic-assisted chemical precipitation method with ammonia and ammonium carbonate mixed solution.The suspension was fltered and washed.The wet cake was dried and ground into fine powder afterward. Subsequently，the powders were calcined，molded，and sintered in oxygen atmosphere followed by hot isostatic pressing and annealing treatment.The details of powder preparation and ceramic fabrication were described in detail in our previous work.11,28 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Characterizations.The phases of all samples were identified by an X-ray diffraction (XRD）measurement on a Bruker AXS D8 Discover diffractometer where $\\operatorname { C u } \\ K \\alpha$ radiation $\\left( \\lambda = 1 . 5 4 0 5 6 \\mathrm { ~ \\AA ~ } \\right)$ was used.Diffraction patterns were collected in the range of $1 0 { - } 9 0 ^ { \\circ }$ with a step scan width and scanning rate of O.02 and $1 0 ~ \\mathrm { { \\bar { d e g } } ~ m i n ^ { - 1 } }$ . The tube voltage and current are $4 0 \\ \\mathrm { k V }$ and $4 0 ~ \\mathrm { m A }$ ,respectively.In addition, samples with composition of $\\big ( \\mathrm { C e } _ { 0 . 0 1 5 } \\mathrm { G d } _ { 2 . 9 8 5 } \\big ) \\mathrm { G a } _ { 3 } \\mathrm { A l } _ { 2 } \\mathrm { O } _ { 1 2 }$ and $\\bigl ( \\mathrm { C e } _ { 0 . 0 1 5 } ^ { - } \\mathrm { Y b } _ { 0 . 3 } \\mathrm { G d } _ { 2 . 6 9 5 } \\bigr ) \\bar { \\mathrm { G a } } _ { 3 } \\mathrm { A l } _ { 2 } \\mathrm { O } _ { 1 2 }$ were crushed and ground into powders for further XRD measurement with the scanning rate reduced to 2.5 deg $\\mathbf { m } \\mathbf { \\dot { n } } ^ { - 1 }$ . Their crystal structures were determined with Rietveld refinement by using a general structure analysis system (GSAS).29 The microstructure and elementary composition of the ceramics were measured by a field emission scanning electron microscope (FEI SIRION 200) equipped with an energy-dispersive X-ray spectrometer (EDS Oxford).Room-temperature PLE,PL spectra,and fluorescence decay curves of ${ \\mathrm { C e } } ^ { 3 + }$ were measured on a Horiba FL3-111 spectrometer equipped with two different detectors for measuring visible light or near-infrared light.The visible light detector isa photomultiplier,which has a very high rate of sensitivity in the range of 270 to $7 0 0 ~ \\mathrm { { n m } }$ .The infrared light detector is a liquid nitrogen cooled InGaAs detector,which has a high rate of sensitivity in the range of 850 to $1 1 5 0 \\mathrm { n m }$ .Both the excitation and emission slits were set at $_ { 2 - 5 }$ nm. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Phase Characteristics and Crystalline Structure Determination.Figure 1 presents the XRD patterns of the ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f28f1f18a72c0c502d56beb6fe48a03707a09984fe9df0be3bbbd88990dc4ff4.jpg",
+        "img_caption": [
+            "Figure 1. XRD patterns of the GGAG: ${ \\mathrm { C e } } ^ { 3 + } , x { \\mathrm { Y b } } ^ { 3 + }$ 0 $\\mathbf { \\boldsymbol { x } } = 0 ,$ 0.03,0.09, 0.15, 0.3). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GGAG: $\\mathrm { C e } ^ { 3 + } , x \\mathrm { Y b } ^ { 3 + }$ $\\left( x \\ = \\ 0 , \\right.$ ，0.03，0.09，0.15，and 0.3, respectively） samples. The patterns show that all these samples can be assigned to a pure garnet phase according to the standard PDF # 46-0448 card.With the concentration increase of $\\mathrm { Y b } ^ { 3 + }$ ions, the peaks are slightly shifted toward higher angles (as seen in the inset of Figure 1),which indicates that the $\\check { \\mathrm { Y b } } ^ { 3 + }$ ions would substitute the ${ \\mathrm { ~ G d } } ^ { 3 + }$ sites and form a solid solution with the matrix. According to the Bragg equation, the shift of diffraction peaks reveals that the unit cell of these samples would shrink with the addition of $\\mathrm { Y b } ^ { 3 + }$ ions. This is because the $\\mathrm { Y b } ^ { 3 + }$ ionic radius $\\left( r = 0 . 9 8 5 \\mathrm { ~ \\AA ~ } \\right)$ is slightly smaller than that of $\\mathrm { G d ^ { 3 + } }$ 0 $\\mathit { \\check { \\Psi } } _ { r } = 1 . 0 5 3 \\ : \\mathring { \\mathrm { A } } )$ inan eight coordinate site,while it is( $\\mathbf { \\check { \\Psi } } _ { r } = \\mathbf { \\Psi } _ { \\mathbf { \\Phi } }$ $0 . 8 6 8 \\mathring { \\mathrm { A } } ;$ much bigger than that of $\\boldsymbol { \\mathrm { G a } } ^ { 3 + }$ $\\overset { \\prime } { r } = 0 . 6 2 0 \\overset { \\circ } { \\mathrm { A } } )$ or $\\mathsf { A l } ^ { 3 + }$ 0 $\\stackrel { \\cdot } { r }$ $= 0 . 5 3 5 \\mathring \\mathrm { ~ A ~ }$ ） in a six coordinate site. Theoretically,the codoping of $\\mathrm { Y b } ^ { 3 + }$ ions can only take the sites of $\\mathrm { G d } ^ { 3 + }$ and cause the unit cell to shrink. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To examine the structural changes of $\\mathrm { G G A G } { \\mathrel { \\left. \\mathrm { : } \\right.} \\mathrm { C e } ^ { 3 + }  }$ with the codoping of $\\mathrm { Y b } ^ { 3 + }$ ，Rietveld refinements for $\\mathrm { G G A G } { : } \\mathrm { C e } ^ { 3 + }$ and GGAG $\\because \\mathrm { C e } ^ { 3 + } , 0 . 3 \\mathrm { Y b } ^ { 3 + }$ were carried out and presented in Figure 2.The crystal structural data determined with Rietveld refinements and the obtained reliability factors for $\\mathrm { G G A G } { : } \\mathrm { C e } ^ { 3 + }$ and $\\mathrm { G G A G } { : } \\mathrm { C e } ^ { 3 + } , 0 . 3 \\mathrm { Y b } ^ { 3 + }$ are listed in Table1. The reliability factors in Table1 show that the resultsofRietveld refinements are reliable.From the refinement results,one can see that both compositions belong to the $I a \\overline { { 3 } } d$ space group with the unit cell dimensions of 12.2739 and 12.2640 $\\breve { \\bar { \\mathrm { A } } }$ for $\\mathrm { G G A G } { : } \\mathrm { C e } ^ { 3 + }$ and GGAG: $\\mathrm { C e } ^ { 3 + } , 0 . 3 \\mathrm { Y b } ^ { 3 + } .$ ，respectively，confirming the shrinking of the unit cel with $\\mathrm { Y b } ^ { 3 + }$ codoping in Figure 1. Moreover, the $\\mathrm { G d - O }$ bond lengths in dodecahedron-coordination unit cell are of two different values,indicating that the structure of the $\\mathrm { G d O } _ { 8 }$ dodecahedron is distorted.The structure distortion for GGAG: ${ \\mathrm { C e } } ^ { 3 + }$ is $5 . 6 3 \\%$ ，and it is decreased to $2 . 5 9 \\%$ with 10 atom $\\%$ 0 $\\stackrel { \\prime } { x } = 0 . 3$ ） $\\mathrm { Y b } ^ { 3 + }$ codoping (Table 1). This indicates that the crystal structure ofGGAG becomes more stable with partial substitution of Gd by $\\mathrm { Y b }$ .The fact that the average $\\mathrm { G d - O }$ distance becomes shorter in GGAG: $\\mathrm { C e } ^ { 3 + } , 0 . 3 \\mathrm { Y b } ^ { 3 + }$ than that in GGAG: ${ \\mathrm { C e } } ^ { 3 + }$ also confirms the better stability of the crystal structure with codoping $\\mathrm { Y b } ^ { 3 + }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f7b0af375700ea8460c5ced06d33387da2b409e41fb40791be2c22d830fe3a7.jpg",
+        "img_caption": [
+            "Figure 2.Profile fitting for GGAG: ${ \\mathrm { C e } } ^ { 3 + }$ (a) and $\\mathrm { G G A G { : } C e ^ { 3 + } } , 0 . 3 \\mathrm { Y b } ^ { 3 + }$ (b) by Rietveld analysis.The insets are coordinate environments of $\\mathrm { G d / C e }$ (a) and $\\mathrm { G d / Y b / C e }$ (b）with oxygen atoms. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3afdfedd0680715c21aedaeb8fc53cf9f5093bb1d31bc440748dfeb858d2bda0.jpg",
+        "table_caption": [
+            "Table1.CrystalData Determined with Rietveld Refinement for $\\mathbf { C e } _ { 0 . 0 1 5 } \\mathbf { G } \\mathbf { d } _ { 2 . 9 8 5 } \\mathbf { G a } _ { 3 } \\mathbf { A l } _ { 2 } \\mathbf { O } _ { 1 2 }$ $\\left( \\mathbf { G } \\mathbf { G } \\mathbf { A } \\mathbf { G } \\mathbf { : } \\mathbf { C } \\mathbf { e } ^ { 3 + \\gamma } \\right)$ and （204号 $\\mathbf { C e } _ { 0 . 0 1 5 } \\mathbf { Y b } _ { 0 . 3 } \\mathbf { G d } _ { 2 . 6 9 5 } \\mathbf { G a } _ { 3 } \\mathbf { A l } _ { 2 } \\mathbf { O } _ { 1 2 }$ 0 $\\mathbf { \\tilde { G } G A G { : } C e ^ { 3 + } , 0 . 3 Y b ^ { 3 + } } )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>formula</td><td>Ce0.015Gd2.985Ga3AlO12</td><td>Ce0.015Yb0.3Gd2.695Ga3Al2O12</td></tr><tr><td>space group</td><td>Ia3d</td><td>Ia3d</td></tr><tr><td>vol (A3)</td><td>1849.04</td><td>1844.59</td></tr><tr><td>unit cell dimens (A)</td><td>a=b=c= 12.2739</td><td>a=b=c= 12.2640</td></tr><tr><td>Gd-O distances (A)</td><td>d= 2.3456,d= 2.4857</td><td>d= 2.3911,d = 2.4548</td></tr><tr><td>structure distortiona</td><td>5.63%</td><td>2.59%</td></tr><tr><td>reliability factors</td><td>Rwp = 8.04%,Rp = 6.68%,χ² = 5.33</td><td>Rwp =7.62%,Rp = 5.91%,x² = 7.29</td></tr><tr><td>a(d-d)/d.</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the double-face polished $\\mathrm { G G A G { : } C e ^ { 3 + } , } x \\mathrm { Y b } ^ { 3 + }$ $\\stackrel { \\prime } { x } = \\stackrel { \\textstyle 0 - 0 . 3 } { } ,$ ）ceramics under sunlight and the $2 5 4 ~ \\mathrm { n m }$ UV light, respectively. It is clear that the transparency of ceramics is improved significantly with the increase of $\\mathrm { Y b } ^ { 3 + }$ contents. Upon taking a close look，one can find that the cloudiness (or translucency）in the $\\mathrm { G G A G { : } C e ^ { 3 + } } , x \\mathrm { Y b } ^ { 3 + }$ ceramics decreases gradually when $x$ is increased from O to 0.15 and disappears when $\\mathrm { Y } \\dot { \\mathsf { b } } ^ { 3 + }$ content reaches 0.3. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0e44d646ef50983a7d7c2afbe2796eb6429d4715f2063e357d7f143d2949e95.jpg",
+        "img_caption": [
+            "Figure 3.Photos of the GGAG ${ \\mathrm { C e } } ^ { 3 + } , x { \\mathrm { Y b } } ^ { 3 + }$ （ $\\overset { \\cdot } { x } = 0$ ，0.03,0.09,0.15, 0.3）under sunlight(a)and the $2 5 4 ~ \\mathrm { n m }$ UV light (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to demonstrate the translucency, the microstructure of GGAG: ${ \\mathrm { C e } } ^ { 3 + }$ and $\\mathrm { G G A G } { : } \\mathrm { C e } ^ { 3 + } , 0 . 3 \\dot { \\mathrm { Y b } } { } ^ { 3 + }$ ceramics was investigated and is shown in Figure 4. It appears completely densified,and the grain sizes are almost the same for both of them.The only difference between them is that a small number of little grains with submicrometer scale exist at some grain boundary triple junctions in $\\mathrm { G G A G } { : } \\mathrm { C e } ^ { 3 + }$ ceramics (Figure 4a). It should be noted that the amount of second phases in Figure 4a is below the detection limit of XRD,and they still show a pure garnet phase in XRD patterns (Figure 1).The EDS results for the region marked by a white box in Figure 4a exhibit composition of perovskite.According to the decomposition equation $\\mathrm { G d _ { 3 } A l _ { 5 } \\mathrm { \\hat { O } _ { 1 2 } }  A l _ { 2 } O _ { 3 } + 3 G \\mathrm { \\breve { d } A l O _ { 3 } } , ^ { 8 , 3 0 } }$ the perovskite phase would be the decomposition product of aluminate garnet. In addition，the grain size of the second dispersed phase is much smaller than that of the garnet matrix, which means that their sintering characteristics are different from those of garnet. Therefore,it is reasonable to believe that the second dispersed phase in Figure 4ais perovskite phase,and itwould result in the translucency in $\\mathrm { G G A } \\mathrm { \\bar { G } } { : } \\mathrm { C e } ^ { 3 + }$ ceramics due to scattering caused by the refraction index mismatch.The absence of a second dispersed phase in GGAG: $\\mathrm { C e } ^ { 3 + } , 0 . 3 \\mathrm { Y b } ^ { 3 + }$ samples indicates that the codoping of 10 atom $\\% \\mathrm { Y b } ^ { 3 + }$ ions $\\left( x = 0 . 3 \\right)$ in $\\mathrm { G d ^ { 3 + } }$ sites is able to fully stabilize GGAG: ${ \\mathrm { C e } } ^ { 3 + }$ crystalline structure. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/66de610f88f444e1645b0a14dd7a02e44baa14b59ce8626ef0ad0a35f582a3d4.jpg",
+        "img_caption": [
+            "Figure 4.Microstructure of $\\mathrm { G G A G } { : } \\mathrm { C e } ^ { 3 + }$ (a) and GGAG:Ce $^ { 3 + } , 0 . 3 \\Upsilon { \\ b } ^ { 3 + }$ (b),respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Luminescence of $\\yen 6$ Codoped $\\mathsf { G G A G : C e } ^ { 3 + }$ Ceramics. Figure $\\mathsf { S a - c }$ presents the normalized PLE and PL ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.0 (a) 447 nm 558nm GGAG:0.015Ce3+ 0.8- 345nm 0.6   \n(n 'e) nieeiui perierion 0.4 274 nm =475nm 0.2 312pm =558nm 0.0 1.0 (b) Slide Entrance Slit:5.00 nm Bandpass GGAG:0.015Yb3+ 0.8 Slide Exit Slit:5.00 nm Bandpass 1027nm 0.6- =475nm 0.4- ×4 1 m=1027nm 0.2 ×1/7 L 0.0 1.0 (c) GGAG:0.015Ce3+,0.03Yb3+ 0.8 em=1027nn 0.6 =475nm 0.4- 0.2 =558nm 0.0   \n(ri) Viiseeiu) 0.08 (d) GGAG:0.015Ce3+0.015Yb3+ 0.06 GGAG:0.015Yb3+ 0.04- Slide Entrance Slit:2.00 nm Bandpass 0.02- Slide Exit Slit:2.00 nm Bandpass λx=475nr 0.00- 300 400 500 600 900 1000 1100 Wavelength (nm) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "spectra of $\\mathsf { C e } ^ { 3 + }$ singly doped, $\\mathrm { Y b } ^ { 3 + }$ singly doped,and $\\mathrm { C e } ^ { 3 + } -$ $\\bar { \\mathrm { Y b } } ^ { 3 + }$ codoped GGAG ceramics, respectively. In addition, the PL spectra of $\\mathrm { G G A G { : } 0 . 0 1 5 C e ^ { 3 + } , 0 . 0 1 \\hat { 5 } Y b ^ { 3 + } }$ and $\\mathrm { G G A G { : 0 . 0 1 5 } Y b ^ { 3 + } }$ are shown in Figure Sd.The side entrance and exit slits were set to $2 \\mathrm { n m }$ in Figure Sa,c,d, while they were set to $\\{ \\mathfrak { s } \\mathfrak { n } \\mathfrak { m }$ in Figure Sb.It should be noted that two different detectors were used in visible and near-infrared light ranges，so the units of the ordinate are diferent. The PLE spectrum of the $\\mathsf { C e } ^ { 3 + }$ singly doped GGAG consists of two strong broad and two weak sharp excitation bands peaking at 447，345,312,and $2 7 4 \\ \\mathrm { n m } ,$ and they are related to the $4 \\mathrm { f } { - } 5 \\mathrm { d } _ { 1 }$ and $4 \\mathrm { f } - 5 \\mathrm { d } _ { 2 }$ transitions of $\\mathbf { C e } ^ { 3 + }$ ions and the $^ 8 \\mathrm { S } _ { 7 / 2 } - ^ { 6 } \\mathrm { P } _ { 7 / 2 }$ and $^ 8 S _ { 7 / 2 } - ^ { 6 } \\mathrm { I } _ { 7 / 2 }$ transitions of $\\mathrm { G d ^ { 3 + } }$ ions,respectively (Figure S). Under the $4 7 5 \\ \\mathrm { n m }$ excitation，a typical emission band of $\\mathsf { C e } ^ { 3 + }$ ions peaking at around $5 5 8 ~ \\mathrm { n m }$ arises.For PLE spectrum of $\\mathrm { Y b } ^ { 3 + }$ singly doped GGAG， the $^ 8 \\mathrm { S } _ { 7 / 2 } - ^ { 6 } \\mathrm { P } _ { 7 / 2 }$ and ${ ^ 8 } \\bar { \\mathrm { S } } _ { 7 / 2 }  { - } { ^ 6 } \\mathrm { I } _ { 7 / 2 }$ transitions of $\\mathrm { G d } ^ { 3 \\bar { + } }$ ions are clearly observed by monitoring the $^ 2 \\mathrm { F } _ { 5 / 2 } - ^ { 2 } \\mathrm { F } _ { 7 / 2 }$ transition of $\\mathrm { Y b } ^ { 3 + }$ at $1 0 2 7 ~ \\mathrm { { n m } }$ (Figure Sb)，which illustrates that there is strong energy transfer from ${ \\mathrm { G d } } ^ { 3 + }$ to $\\mathrm { Y b } ^ { 3 + }$ . The excitation bands ranging from 330 to ${ 5 0 0 } \\mathrm { n m }$ and from 580 to $6 8 0 \\ \\mathrm { n m }$ would be related to localized exciton transitions,which would be caused by structure defects.31 Moreover, the excitation band from 580 to $6 8 0 \\ \\mathrm { n m }$ overlaps with the $\\mathsf { C e } ^ { 3 + }$ emission band, indicating that energy transfers from $\\mathbf { C e } ^ { 3 + }$ to $\\mathrm { Y b } ^ { 3 + }$ can take place upon the $\\mathsf { C e } ^ { 3 + }$ excitation. When excited under $4 7 5 \\ \\mathrm { n m }$ ，a typical NIR emission band of $\\mathrm { Y b } ^ { 3 + }$ ions appears. It should be noted that the excitation spectrum of ${ \\mathrm { Y b } } ^ { 3 + }$ singly doped GGAG in Figure Sb overlaps with that of $\\mathrm { C e } ^ { 3 + }$ singly doped ones in Figure Sa. In order to identify the main source of energy for emission of $\\mathrm { Y b } ^ { 3 + }$ ions,the absolute NIR emission intensities of GGAG:0.015- $\\mathrm { C e } ^ { 3 + } , 0 . 0 1 5 \\mathrm { Y b } ^ { 3 + }$ and $\\mathrm { G G A G { : } 0 . 0 1 5 Y b ^ { 3 + } }$ are compared in Figure Sd.It is noticeable that the emission intensity of $\\mathbf { C e } ^ { 3 + }$ and $\\check { \\mathrm { Y } } \\mathsf { b } ^ { 3 + }$ codoped GGAG is much stronger than that with $\\mathrm { Y b } ^ { 3 + }$ singly doped ones,which indicates that the main source of energy for emission of $\\mathrm { Y b } ^ { 3 + }$ ions comes from $\\mathsf { C e } ^ { 3 + }$ rather than the structure defects. In $\\mathsf { C e } ^ { 3 + }$ and $\\mathrm { Y b } ^ { 3 + }$ codoped GGAG, the PLE spectra appear similar whether by monitoring the ${ 5 \\mathrm { d - } 4 \\mathrm { f } }$ transition of $\\mathsf { C e } ^ { 3 + }$ at $5 5 8 ~ \\mathrm { n m }$ or the $^ 2 \\mathrm { F } _ { 5 / 2 } - ^ { 2 } \\mathrm { F } _ { 7 / 2 }$ transition of $\\mathrm { Y b } ^ { 3 + }$ at $1 0 2 7 { \\mathrm { n m } }$ (Figure Sc). Meanwhile, the PL spectra exhibit both strong $\\mathbf { C e } ^ { 3 + }$ emission at $5 5 8 ~ \\mathrm { n m }$ and $\\mathrm { Y b } ^ { 3 + }$ emission at $1 0 2 7 ~ \\mathrm { { n m } }$ ,verifying the existence of energy transfers from $\\mathsf { C e } ^ { 3 + }$ to $\\mathrm { Y b } ^ { 3 + }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The visible and NIR PL spectra of GGAG: ${ \\mathrm { C e } } ^ { 3 + } , x { \\mathrm { Y b } } ^ { 3 + }$ 1 $( x =$ $_ { 0 - 0 . 3 ) }$ under $4 7 5 \\ \\mathrm { n m }$ excitation is presented in Figure $6 \\mathsf { a }$ and ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/094f9dbcaa8b453ad400072384c6fa2e6285202a96e500ecec9f206e1e404e27.jpg",
+        "img_caption": [
+            "Figure 5.Normalized PLE and PL spectra of $\\mathrm { G G A G { : } 0 . 0 1 5 C e ^ { 3 + } }$ (a), GGAG: $0 . 0 1 5 \\mathrm { Y b } ^ { 3 + }$ (b),and $\\mathrm { G G A G { : } 0 . 0 \\bar { 1 } 5 C e ^ { 3 + } , 0 . 0 3 Y b ^ { 3 + } }$ (c) and the PL spectra of $\\mathrm { G G A G { : } 0 . 0 1 5 C e ^ { 3 + } , 0 . 0 1 5 Y b ^ { 3 + } }$ and $\\mathrm { G G A G { : } 0 . 0 1 5 Y b ^ { 3 + } }$ (d). ",
+            "Figure 6.Visible (a) and NIR(b)PL spectra of $\\mathrm { G G A G { : } C e ^ { 3 + } } , x \\mathrm { Y b ^ { 3 + } } ~ ( \\$ x ${ \\bf \\Omega } = { \\bf 0 } ,$ 0.03,0.09,0.15,0.3)under the $4 7 5 \\ \\mathrm { n m }$ excitation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure $\\displaystyle 6 \\mathbf { b } ,$ respectively. Obviously,as the amount of $\\mathrm { Y b } ^ { 3 + }$ ions increases from O to O.3,the emission intensity of $\\mathsf { C e } ^ { 3 + }$ centered at ${ 5 5 8 \\ \\mathrm { n m } }$ declines dramatically (Figure 6a). This trend can be intuitively seen from the light and shade degree of samples under $2 5 4 \\ \\mathrm { n m }$ UV light，which is presented in Figure 3b. Meanwhile, the luminescence of $\\mathrm { Y b } ^ { 3 + }$ first reaches a maximum when the ${ \\mathrm { Y b } } ^ { 3 + }$ concentration reaches $x = 0 . 0 9$ (3 atom $\\%$ at the Gd site)，and then it decreases with further $\\mathrm { Y b } ^ { 3 + }$ addition (Figure 6b).We noted that the optimal $\\mathrm { Y b } ^ { 3 + }$ concentration in this study is lower than that in other reported systems.18,26 The reason could be related to the relatively low $\\mathrm { C e } ^ { \\dot { 3 } + }$ concentration in this research，rather than the ${ \\mathrm { Y b } } ^ { 3 + }$ concentration quenchingTheemissionintensitychangesof ${ \\mathrm { C e } } ^ { 3 + }$ and $\\hat { \\mathrm { Y b } } ^ { 3 + }$ over various $x$ values confirm the energy transfer from $\\mathrm { C e } ^ { 3 + }$ to $\\mathrm { Y b } ^ { 3 + }$ in GGAG ceramics. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The normalized concentration-dependent PLE and PL spectra for $\\mathrm { G G A G { : } C e ^ { 3 + } } , x \\mathrm { Y b ^ { 3 + } }$ with $x$ varying from O to 0.3 are presented in Figure 7.The PLE spectra were monitored at the emission maximum wavelength of $\\mathsf { C e } ^ { 3 + }$ around ${ 5 5 8 } \\ \\mathrm { n m } ,$ and the PL spectra were recorded under the $4 7 5 \\ \\mathrm { n m }$ excitation. With the increase of $\\mathrm { Y b } ^ { 3 + }$ contents, the excitation peaks around 274 and $3 1 2 ~ \\mathrm { n m }$ for the $4 \\mathrm { f } { - } 4 \\mathrm { f }$ transition of $\\mathrm { G d } ^ { \\bar { 3 + } }$ ion do not change，whereas the excitation peaks at 345 and $4 4 7 ~ \\mathrm { n m }$ are shifted to shorter and longer wavelengths,respectively (Figure 7a).The blue and red shifts indicate that the lowest excited ${ \\mathfrak { s d } } _ { 1 }$ state energy level of $\\mathrm { C e } ^ { 3 + }$ ions shifts to an even lower energy position, while the ${ \\left. 5 \\right. { d } } _ { 2 }$ level shifts in an opposite way. P. Dorenbos pointed out that the main crystal-field splitting $1 0 D q$ isa quite normally observed value for $\\mathsf { C e } ^ { \\bar { 3 } + }$ incubal coordination，and the type of host rare earth cation chosen affects additional $\\Delta _ { 1 2 }$ splitting between the first two [LS] Sd levels for $\\mathrm { C e } ^ { 3 + }$ but not $1 0 D q$ in garnet.33 In general, the reason for the increase of energy separation between ${ \\mathfrak { H } } _ { 1 }$ and ${ \\mathfrak { H } } _ { 2 }$ levels lies in the enlargement of the $\\Delta _ { 1 2 }$ splitting caused by the enhancement of crystal field strength.However，according to the results of Rietveld refinement as shown in Table 1,the structure distortion of $\\mathrm { G d O } _ { 8 }$ dodecahedron has been improved a litle and the average Gd-O distance extends a litte, meaning that the $\\Delta _ { 1 2 }$ splitting of $\\mathsf { C e } ^ { 3 + }$ should be decreased. So，the crystal field change would not be the main cause of the shift of excitation peaks in Figure 7a. From Figure $5 \\mathsf { b }$ ，we can see that there is a strong localized exciton transition between 33O and $5 0 0 ~ \\mathrm { { \\ n m } } ,$ ，which can excite the luminescence of $\\mathrm { Y b } ^ { 3 + }$ ions. Accordingly,this part of energy for $\\mathsf { C e } ^ { 3 + }$ excitation will decrease with codoping of $\\mathrm { \\bar { Y } b } ^ { 3 + } .$ ,and this may be the main reason for the shift of excitation peaks at 345 and $4 4 7 ~ \\mathrm { n m }$ .Moreover,a slight \"blue shift” phenomenon occurs in emission spectra at higher $\\mathrm { Y b } ^ { 3 + }$ concentrations (Figure 7b), which seems contradictory to the“red shift”in Figure 7a. It can be mainly atributed to two factors.One is the enhancement of $\\mathrm { G d O } _ { 8 }$ dodecahedron symmetry as mentioned above，and the other is structure defects.It is well-known that the PL spectrum of $\\mathbf { C e } ^ { 3 + }$ can be decomposed into two emission bands，namely $5 \\mathrm { d } { - } ^ { 2 } \\mathrm { F } _ { 5 / 2 }$ and $\\mathrm { 5 d - ^ { 2 } F } _ { 7 / 2 } ^ { - }$ .From Figure $\\boldsymbol { 4 \\mathrm { b } } _ { ; }$ ，we can also know that there is an excitation band ranging from 580 to $6 8 0 \\ \\mathrm { n m } ,$ ，overlapping with the $5 \\mathrm { d } { - } ^ { 2 } \\mathrm { F } _ { 5 / 2 }$ emission portions,which means that this part of energy can be transferred to $\\mathrm { Y b } ^ { 3 + }$ ions.Consequently，the percentage of the $\\mathrm { 5 d - ^ { 2 } F } _ { 5 / 2 }$ emission portion declines and it results in the apparent phenomenon of “blue shift\".Besides the main emission band of $\\mathrm { C e } ^ { 3 + }$ , two narrow peaks around 521 and $6 4 7 ~ \\mathrm { n m }$ emerge when the $\\mathrm { Y b } ^ { 3 + }$ content exceeds 0.09 (Figure 7b).These two narrow emission peaks are attributed to the ${ } ^ { 2 } \\mathrm { H } _ { 1 1 / 2 } { - } ^ { 4 } \\mathrm { I } _ { 1 5 / 2 }$ and $^ 4 \\mathrm { F } _ { 9 / 2 } - ^ { 4 } \\mathrm { I } _ { 1 5 / 2 }$ transitions of impurity $\\mathrm { E r } ^ { 3 + }$ ions, respectively.34 Moreover, the emission intensity of $\\mathrm { E r } ^ { 3 + }$ shows an upward trend with increasing $\\mathrm { Y b } ^ { 3 + }$ content, which is due to the energy transfer from $\\mathrm { Y b } ^ { 3 + }$ to $\\mathrm { E r } ^ { 3 + }$ 35,36 Because it is not the issue we are concerned with in this study,and the $\\mathrm { E r } ^ { 3 + }$ has very little impact on the emission of $\\mathrm { \\ Y b } ^ { 3 + }$ and $\\mathbf { C e } ^ { 3 + }$ ，the luminescence characteristics of $\\mathrm { E r } ^ { 3 + }$ will not be discussed in detail. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fa737719ee722a78617dbcbca0e64a1c4e1b6d2fc643b6442355203852b4fd4.jpg",
+        "img_caption": [
+            "Figure 7. Concentration-dependent normalized PLE monitored at ${ 5 5 8 \\ \\mathrm { n m } }$ (the emission maximum wavelength of ${ \\mathrm { C e } } ^ { 3 + }$ ）(a)and PL under $4 7 5 \\ \\mathrm { n m }$ excitation(b） spectra for( $\\bar { \\mathrm { { G G A G } : \\mathrm { { C e } ^ { 3 + } , x Y b } ^ { 3 + } } }$ 1 $\\stackrel { \\prime } { x } = 0 { - } 0 . 3 )$ ceramics. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The energy level schematic diagrams of $\\mathrm { \\Delta \\vec { a } d ^ { 3 + } , C e ^ { 3 + } , Y b ^ { 3 + } . }$ and $\\mathrm { E r } ^ { 3 + }$ ions based on the PLE and PL spectra are shown in Figure 8 along with the proposed energy transfer mechanism in the GGAG host. There are four possible ET routes among ${ \\mathrm { G d } } ^ { 3 + } .$ $\\mathrm { C e } ^ { 3 + } , \\mathrm { Y b } ^ { 3 + } ,$ ，and the impurity $\\mathrm { E r } ^ { 3 + }$ ions in GGAG. When the $\\mathrm { G d } ^ { 3 + }$ ions are excited from the $^ 2 { \\cal S } _ { 7 / 2 }$ level to ${ } ^ { 2 } \\mathrm { P } _ { 7 / 2 }$ or $^ 2 \\mathrm { I } _ { 7 / 2 }$ levels, their energy can transfer to the nearby ${ \\mathrm { C e } } ^ { 3 + }$ and $\\mathrm { Y b } ^ { 3 + }$ ions. Then， the ${ \\mathfrak { s d } } _ { 1 }$ state of $\\mathsf { C e } ^ { 3 + }$ will be populated through fast nonradiative relaxation from the ${ \\left. 5 \\right. { d } } _ { 2 }$ state and leads to the emission of $\\mathrm { C e } ^ { 3 + }$ at around $5 5 8 ~ \\mathrm { n m }$ . At the same time, part of the excited energy would transfer to one or two $\\mathrm { Y b } ^ { 3 \\mp }$ ions, resulting in the NIR emission of $\\mathrm { Y b } ^ { 3 + }$ ions at around $1 0 2 7 ~ \\mathrm { { n m } }$ Additionally,upconversion emissions of $\\mathrm { E r } ^ { 3 + }$ ions will also take place due to the phonon-assisted energy transfer from $\\mathrm { Y b } ^ { 3 + }$ to Er3+. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/420431665a43ab7dde83feb025a889188c5491eac614b876bd9175af78cfaeb8.jpg",
+        "img_caption": [
+            "Figure 8.Energy level schematic diagrams of $\\mathrm { G d } ^ { 3 + }$ ， ${ \\mathrm { C e } } ^ { 3 + } , { \\mathrm { Y b } } ^ { 3 + } .$ and $\\mathrm { E r } ^ { \\bar { 3 } + }$ ions,and possible processes of populations and emissions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate the cooperative energy transfer(CET) efficiency in $\\mathrm { G G A G { : } C e ^ { 3 + } , } x \\mathrm { Y b } ^ { 3 + }$ （ $\\stackrel { \\prime } { x } = 0 { - } 0 . 3 )$ ,the decay curves of the ${ \\mathfrak { s d } } _ { 1 } { - } 4 \\mathrm { f }$ transition for $\\mathbf { C e } ^ { 3 + }$ $\\left( \\lambda _ { \\mathrm { e m } } = 5 5 8 \\ \\mathrm { n m } \\right)$ ）havebeen measured under the $4 5 8 ~ \\mathrm { n m }$ excitation (Figure 9).Meanwhile, the CET efficiencies $( \\eta _ { \\mathrm { C E T } } )$ are plotted in the inset of Figure 9. The $\\eta _ { \\mathrm { C E T } }$ is determined with the following equation:32,39 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c6b4b7f6cb553b70d8f8b3c7a7846fde13a883c440a1d76fc79a0d3647f63a1.jpg",
+        "img_caption": [
+            "Figure 9.Normalized photoluminescence decay curves of the $\\mathrm { C e } ^ { \\mathsf { 3 } + } { : } 5 \\mathrm { d } _ { \\mathrm { 1 } } { - } 4 \\mathrm { f }$ transition under $4 5 8 ~ \\mathrm { n m }$ excitation in GGAG: ${ \\mathrm { C e } } ^ { 3 + } , x { \\mathrm { Y b } } ^ { 3 + }$ （2 $\\left( x \\ = \\ 0 { - } 0 . 3 \\right)$ .The inset is the $\\eta _ { \\mathrm { C E T } }$ with different Yb doping concentrations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { \\mathrm { C E T , } \\mathrm { { x Y b } } } = 1 - \\frac { \\tau _ { \\mathrm { { x Y b } } } } { \\tau _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where the $\\tau _ { x \\mathrm { Y b } }$ and $\\tau _ { 0 }$ are the lifetimes of samples with and without $\\mathrm { Y b } ^ { 3 + }$ ，respectively.Since thedecay curves exhibita slight nonexponentiality，average lifetimes are used in eq 1, which can be formulated by38 ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { x \\mathrm { Y b } } = \\int _ { 0 } ^ { \\infty } I _ { x } ( t ) \\mathrm { d } t\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $I _ { x } ( t )$ stands for the normalized fluorescence intensity at time $t$ with the $\\mathrm { Y b } ^ { 3 + }$ content $x$ varying from 0 to 0.3. Basing on the results of integration, it can be found that the average decay times of $\\mathsf { C e } ^ { 3 + }$ decrease from 50.4 to 6.9 ns with the $\\mathrm { Y b } ^ { 3 + }$ content increasing from O to 0.3，which offers compelling evidence for the energy transfer from $\\mathbf { C e } ^ { 3 + }$ to $\\mathrm { Y b } ^ { 3 + }$ .In addition, as is illustrated in the inset of Figure 9,the CET effciency $\\eta _ { \\mathrm { C E T } }$ increases dramatically at first when the content of $\\mathrm { Y b } ^ { 3 + }$ is lower than O.o9,and then it increases slowlyand reaches $8 6 \\%$ for $x =$ 0.3. The theoretical internal quantum efficiency $\\eta _ { \\mathrm { Q E } }$ can be calculated according to32 ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { \\mathrm { Q E } } = \\eta _ { \\mathrm { C e } } \\bigl ( 1 - \\eta _ { \\mathrm { C E T } } \\bigr ) + 2 \\eta _ { \\mathrm { Y b } } \\eta _ { \\mathrm { C E T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\eta _ { \\mathrm { C e } }$ and $\\eta _ { \\mathrm { Y b } }$ denote the luminescent quantum efficiencies of ${ \\mathrm { C e } } ^ { 3 + }$ and $\\mathrm { Y b } ^ { 3 + }$ ， respectively. Assuming the value of $\\eta _ { \\mathrm { C e } }$ and $\\eta _ { \\mathrm { Y b } }$ to be 1,an $\\eta _ { \\mathrm { Q E } }$ of $1 8 6 \\%$ can be obtained with the $\\mathrm { \\Delta } \\mathrm { Y b } ^ { 3 + }$ content $x = 0 . 3$ (10 atom $\\%$ ),which is higher than the QEs $( 4 8 \\% - 1 7 4 \\% )$ in other $\\mathrm { C e } ^ { 3 + }$ and $\\mathrm { Y b } ^ { 3 + }$ codoped hosts.18,21,24 Furthermore,it is important to point out that there are two other factors that should not be neglected for the practical application of $\\mathrm { G G A G } { : } \\mathrm { C e } ^ { 3 + } , \\mathrm { Y b } ^ { 3 + }$ .One factor is theperfect match of ${ \\mathrm { Y b } } ^ { 3 + }$ emission and the optimum spectral response of $_ { \\mathrm { c - S i } }$ ，The other factor is that the excitation spectrum of ${ \\mathrm { C e } } ^ { 3 + }$ locates in a range of low spectral response of $_ \\mathrm { c - S i }$ but matches well with the solar spectrum.So, there is reason to believe that the $\\mathrm { C e } ^ { 3 + } { - } \\mathrm { Y b } ^ { 3 + }$ codoped GGAG transparent ceramics hold great application promise for improving the conversion efficiency of $_ { \\mathrm { c - S i } }$ solar cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cerium doped gadolinium gallium aluminum garnet $\\left( \\mathrm { G G A G } { : } \\mathrm { C e } ^ { 3 + } \\right)$ transparent ceramic shows potential in high energy particle detection applications.However, the thermodynamically metastable structure would be slanted against it from getting high transparency. On the basis of Rietveld refinement,we found that the structures of $\\mathrm { G d O } _ { 8 }$ dodecahedron were distorted.With partial substitution of $\\mathrm { Y b } ^ { 3 + }$ at the $\\mathrm { G d } ^ { 3 + }$ site，the polyhedral distortion was corrected slightly, implying that the crystal structure became more stable. Consequently， the decomposition of garnet could be suppressed and the transparency of GGAG ceramic was evidently improved. Moreover， the photoluminescence of GGAG:- $\\mathrm { C e } ^ { \\hat { 3 } + } , x \\mathrm { Y b } ^ { 3 + }$ with different $\\mathrm { Y b } ^ { \\hat { 3 } + }$ contents has been investigated. In comparison of the excitation and emission spectra of ${ \\mathrm { C e } } ^ { 3 + }$ and $\\mathrm { Y } \\bar { \\mathsf { b } } ^ { 3 + }$ singly doped and $\\mathrm { C e } ^ { 3 + } { - } \\mathrm { Y b } ^ { 3 + }$ codoped GGAG, efficient energy transfer from $\\mathsf { C e } ^ { 3 + }$ to $\\mathrm { Y b } ^ { 3 + }$ was observed in this host.The transfer efficiency reached up to $8 6 \\%$ based on the measured $\\mathsf { C e } ^ { 3 + }$ lifetimes in the $\\mathrm { G G A G { : } C e ^ { 3 + } , { \\boldsymbol { x } } Y b ^ { 3 + } }$ sample.This can be a potential attractive downconversion candidate for improving the energy conversion efficiency of crystalline silicon (c-Si) solar cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AUTHORINFORMATION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Authors ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$^ { * } \\mathrm { E }$ -mail: luozhaohua@nimte.ac.cn. Tel: 86-574-87913381. Fax:86-574-86382329. No. 1219 Western Zhongguan Road,Ningbo 315201, China. (Z.-H.L.).  \n$^ { * } \\mathrm { E }$ -mail: jianghaochuan@nimte.ac.cn (H.-C.J.).  \n$^ { * } \\mathrm { E }$ mail: jun@nimte.ac.cn (J.J.).",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Notes ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interest. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work is financially supported by the National Natural Science Foundation of China (NSFC51402317，11404351, S1502308）and Public Projects of Zhejiang Province (2015C33104). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）Nakamura, S.Science 1998,281,956-961.(2）Denault,K.A.； Brgoch,J.； Gaultois,M.W.；Mikhailovsky，A.;Petry，R；Winkler，H.；DenBaars，S.P.；Seshadri，R.Chem.Mater.2014,26,2275-2282.(3）Dujardin,C.； Mancini, C.；Amans,D.；Ledoux, G.； Abler,D.;Auffray,E.; Lecoq,P.; Perrodin,D.; Petrosyan,A.; Ovanesyan,K.L.J.Appl.Phys.2010,108,013510.(4)Nikl, M.; Yoshikawa,A.Adv. Opt.Mater.2015,3,463-481.(5）Nikl，M.；Kamada，K；Babin，V.；Pejchal，J.；Pilarova，K.;Mihokova，E.；Beitlerova，A.；Bartosiewicz，K.；Kurosawa，S.;Yoshikawa,A.Cryst.Growth Des.2014,14,4827-4833.(6) Shannon,R.D.Acta Crystallogr., Sect.A: Cryst.Phys.,Diffr., Theor.Gen. Crystallogr. 1976,32,751-767.(7) Chiang, C.-C.; Tsai,M.-S.; Hon, M.-H.J.Electrochem. Soc.2007,154,J326-J329.(8)Li,J.; Li,J.-G.; Zhang, Z.; Wu,X.; Liu,S.; Li,X.; Sun,X; Sakka,Y.J. Am. Ceram. Soc.2012, 95,931-936.(9) Kanai, T.; Satoh,M.; Miura,I. J. Am. Ceram. Soc.2008,91,456-462.(10）Kamada, K.； Yanagida, T.； Endo,T.；Tsutumi,K.；Usuki, Y.;Nikl,M.； Fujimoto,Y.； Fukabori,A.；Yoshikawa,A.J. Cryst.Growth2012,352, 88-90.(11) Luo,Z.; Jiang,H.; Jiang,J.; Mao,R Ceram. Int.2015,41,873-876.(12)Wang, Y.;Baldoni, G.；Rhodes,W.H.;Brecher,C.; Shah,A.;Shirwadkar，U.；Glodo,J.；Cherepy，N.；Payne,S.Proc.SPIE 2012,8507, 850717.(13）Cherepy，N.J.；Seeley，Z. M.；Payne，S.A.；Beck,P.R;Swanberg,E.L.; Hunter, S.； Ahle,L.; Fisher, S.E.; Melcher, C.;Wei,H.； Stefanik,T.；Chung,Y.S.；Kindem, J.Proc. SPIE 2014,9213,921302.(14)Chewpraditkul,W.； Panek,D.；Bruza, P.；Chewpraditkul,W.;Wanarak，C.；Pattanaboonmee，N.；Babin，V.；Bartosiewicz，K.;Kamada,K.; Yoshikawa,A.; Nikl,M.J.Appl.Phys.2014,116,083505.(15) Cherepy,N.J.; Seeley, Z. M.; Payne, S.A.; Beck, P.R; Drury,O.B.;O'Neal, S.P.; Figueroa,K.M.; Hunter, S.；Ahle,L.; Thelin,P.A.； Stefanik,T.；Kindem,J.IEEE Trans.Nucl. Sci.2013,60,2330-2335.(16)Wu,Y.;Ren,G. CrystEngComm 2013,15,4153-4161.(17) Liu,Z; Li,J; Yang,L;Chen, $\\mathrm { Q . ; }$ Chu,Y.; Dai,N.Sol.EnergyMater. Sol. Cells2014,122,46-50.(18) Li, J.; Chen,L.; Hao,Z.; Zhang,X.; Zhang,L.; Luo,Y.; Zhang,J.Inorg. Chem.2015,54,4806-4810.(19) Richards,B.S.Sol. Energy Mater.Sol.Cels 2006,90,2329-2337.(20) Sontakke, A. D.; Ueda, J.; Katayama, Y.; Dorenbos,P.; Tanabe,S.Appl.Phys.Lett. 2015,106,131906.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(21)Fang, Z.; Cao,R; Zhang,F.; Ma,Z.;Dong, G.; Qiu,J.J. Mater. Chem. C 2014,2,2204-2211. (22）Ueda,J.; Tanabe, S.J.Appl.Phys.2009,106,043101. (23) Sontakke,A.D.; Ueda,J.; Katayama, Y.; Zhuang, Y.; Dorenbos, P.； Tanabe, S.J.Appl.Phys.2015,117,013105. (24) Chen,D.; Wang, Y.; Yu,Y.; Huang,P.; Weng, F.J.Appl.Phys. 2008,104,116105. (25)Boccolini, A.; Marques-Hueso,J.; Chen,D.; Wang, Y.; Richards, B. S.Sol.Energy Mater. Sol. Cells 2014,122,8-14. (26) Yu, D. C.； Rabouw,F. T.; Boon,W. $\\mathrm { Q . ; }$ Kieboom, T.; Ye, S.; Zhang, Q.Y.;Meijerink,A.Phys.Rev.B:Condens.Mater Mater.Phys. 2014, 90,165126. (27) You,F.; Bos,A. J. J.; Shi, $\\mathrm { Q . ; }$ Huang, S.; Dorenbos,P.J.Phys.: Condens.Matter2011,23,215502. (28)Luo,Z.; Jiang,H.; Jiang,J. J.Am. Ceram. Soc.2013,96,3038- 3041. (29)Larson,A. C.; Dreele,R.B.V. General structure analysis system (GSAS); Los Alamos National Laboratory Report: LA-UR: 2000; pp 86-748. (30)Li, J.-G.; Sakka,Y. Sci. Technol.Adv.Mater.2015,16,014902. (31) Luo,J.; Wu,Y.; Zhang, G.; Zhang,H.; Ren, G. Opt. Mater. 2013, 36,476-481. (32)Vergeer,P.; Vlugt, T.; Kox,M.; den Hertog,M.; van der Eerden, J.；Meijerink,A.Phys.Rev.B:Condens.Matter Mater.Phys.2005,71, 014119. (33)Dorenbos,P.J. Lumin. 2013,134,310-318. (34) Zhai,X.; Li, J.; Liu,S.; Liu,X.; Zhao,D.; Wang, F.; Zhang, D.; Qin,G.; Qin,W.Opt.Mater.Express 2013,3,270-277. (35) Wang,F.; Liu, X.J.Am. Chem. Soc.2008,130,5642-5643. (36) Wang,F.; Liu,X. Chem. Soc. Rev.2009,38, 976-989. (37) Zhang,Q.Y.; Yang, C.H.; Pan, Y.X. Appl.Phys. Let. 2007,90, 021107. (38) Liu,Y.; Zhang, X.; Hao, Z.; Luo, Y.; Wang, X.; Zhang,J. J. Mater. Chem. 2011,21,16379-16384. ",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,222 @@
+植物精油对断奶仔猪生长性能、血液指标及免疫能力的影响周选武」 王 宇」 陈代文」 余 冰」 晨 光² 李 延² 何 军1\*(1.四川农业大学动物营养研究所，成都611130;2.中牧股份成都华罗生物科技有限公司，
+
+成都 610052)1
+
+摘要：本试验旨在研究饲粮添加植物精油(PEO)对断奶仔猪生长性能、血液指标及免疫能力的影响。试验选用24头体重相近的“杜 $\times$ 长 $\times$ 大”断奶仔猪（30日龄），随机分为4组，每组6个重复，每个重复1头猪。各组分别饲喂在基础饲粮中添加 $5 0 \ \mathrm { m g / k g }$ 硫酸黏杆菌素(CS 组)及50（I组）、100（Ⅱ组）和 $2 0 0 ~ \mathrm { m g / k g }$ PEO（I组）的试验饲粮。预试期 $6 \textup { d }$ 正试期 $1 4 { \mathrm { d } }$ 。结果表明：1）组断奶仔猪平均日增重（ADG）显著高于CS 组（ $. P { < } 0 . 0 5 ^ { \cdot }$ ），且较I、Ⅱ组有增加的趋势（ $\scriptstyle P = 0 . 0 5$ 、 $P { = } 0 . 0 6$ ）；II组断奶仔猪料重比（F/G）较其他各组有所下降，但各组间差异不显著（ $P { > } 0 . 0 5$ ）。2）I组干物质（DM）消化率显著低于其他各组( $. P { < } 0 . 0 5$ ），III组粗蛋白质（CP）消化率较I组有增加的趋势（ $\scriptstyle \cdot { P = 0 . 0 7 }$ ）。3）IⅢ组红细胞计数显著高于CS 组（ $P { < } 0 . 0 5$ ）；Ⅱ组平均血红蛋白浓度显著高于CS 组（ $P { < } 0 . 0 5 \$ ）；III组血清葡萄糖含量高于其他各组，但差异不显著（ ${ \cdot } P { > } 0 . 0 5 { \rangle }$ ）；IⅢ组血清白蛋白含量显著高于其他各组( $. P { < } 0 . 0 5 .$ ）。4)II组血清免疫球蛋白G(IgG)含量显著高于CS 组和I组( $( P { < } 0 . 0 5 )$ ’IⅢ组血清免疫球蛋白A（IgA)含量显著高于I组（ $( P { < } 0 . 0 5 )$ ）。综上所述，饲粮添加 $2 0 0 \mathrm { m g / k g }$ PEO 具有改善血液有效成分含量、提高机体免疫能力、增强断奶后仔猪健康、促生长的功效；因此，PEO在断奶仔猪上具有潜在的利用价值
+
+关键词：断奶仔猪；植物精油；生长性能；血液成分；免疫能力中图分类号：S828 文献标识码： 文章编号：
+
+随着集约化养殖速度推进，仔猪早期断奶和超早期断奶技术的使用有效地提高了生产中母猪利用率，给生猪养殖带来了收益。但仔猪过早断奶，其断奶后1\~2周内，易因诸多应激（主要为断奶应激）导致仔猪早期断奶综合征。抗生素的发现与使用，有效地缓解了这一突出性问题。相关研究表明，7\~35日龄断奶仔猪饲粮添加不同组分抗生素，均有保障仔猪健康，降低腹泻及促生长的功效[1]。但随着抗生素的大量使用，宿主菌群紊乱、细菌耐药性、药物残留等相关问题变得越发突出。因此，寻找更加安全、稳定、有效的抗生素替代物成为当前最主要的工作任务之一。
+
+植物精油(plant essentialoils,PEO)是一类从植被中所提炼出的挥发性芳香物质，其成分复杂，具有广泛的生物学活性，如抗菌、抗炎、抗氧化、抗癌、杀虫等[2。现今精油已在食品、医疗、农业等领域广泛使用。Gabriella等[3研究发现，精油能影响瘤胃产甲烷菌活性，降低甲烷（ $\mathrm { C H } _ { 4 }$ ）、氨的排放，且对饲料消化及瘤胃发酵未产生不利影响；黄国清等[4研究发现，饲粮添加牛至油能提高肉鸡生长性能，增加肠道乳酸杆菌及双歧杆菌数量，其机体抗病能力也有所提升；刁慧等5研究表明，饲粮添加一定剂量百里香酚混合物有增强仔猪消化道部分酶活性、加强机体消化能力及抗氧化能力、改善仔猪生长性能的功效；方秋红等[6]报道指出，断奶仔猪饲粮添加 $5 0 \ \mathrm { m g / k g }$ 肉桂油，有提高机体抗氧化能力、改善断奶仔猪营养状况的作用；Zhong 等[7]研究发现，繁殖母猪饲粮添加 $2 0 0 \mathrm { m g / k g }$ 百里香酚 $^ +$ 肉桂醛复合精油能够增强机体免疫力水平，提高母猪繁殖性能。但目前国内外有关百里香酚和肉桂醛复合精油在断奶仔猪上的应用却鲜有报道。因此，本试验旨在通过研究饲粮中添加不同水平PEO对“杜 $\times$ 长 $\times$ 大”断奶仔猪生长性能、血液指标及免疫能力的影响，以评估其是否具有缓解断奶应激、促生长的功效，为现代化生猪养殖提供参考。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+硫酸黏杆菌素(colistin sulfate,CS)，CS含量为 $10 \%$ ；PEO，主要有效成分为 $1 3 . 5 \%$ 肉桂醛和 $4 . 5 \%$ 百里香酚，载体为糊精粉；均为中牧股份成都华罗生物科技有限公司提供。主要仪器及试剂包括化学发光仪、酶联免疫吸附试验（ELISA）试剂盒（北京诚林生物科技有限公司）、酶标仪[美谷分子仪器（上海）有限公司]。
+
+# 1.2试验设计及饲粮
+
+试验采用单因子设计，选用24头体况接近的“杜 $\times$ 长 $\times$ 大”断奶仔猪（30日龄），随机分为4组，每组6个重复，每个重复1头猪，单笼饲喂。各组分别饲喂在基础饲粮中添加$5 0 \mathrm { m g / k g }$ 硫酸黏杆菌素(CS 组)及50（I组）、100（ⅡI组）和 $2 0 0 \mathrm { m g / k g }$ PEO（III组）的试验饲粮。预试期6d，正试期14d。基础饲粮参照NRC（2012）断奶仔猪营养需求进行设计，基础饲粮组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平(风干基础)
+
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis) %
+
+项目Items 含量Cont  
+组成 Ingredients  
+玉米Corn 27.79  
+膨化玉米 Extruded corm 28.61  
+去皮大豆粕 Dehulled soybean meal 10.33  
+膨化大豆 Extruded soybean 4.50  
+进口鱼粉 Import fish meal 0.50  
+大豆浓缩蛋白 Soy protein concentrate 12.00  
+乳清粉(低蛋白)Whey powder (low protein) 8.00  
+蔗糖 Sucrose 3.50  
+豆油 Soybean oil 1.90  
+石粉 Limestone 0.91  
+磷酸氢钙 $\mathrm { C a H P O _ { 4 } }$ （20 0.74  
+$L .$ 赖氨酸盐酸盐 $L$ -lysineoHCl 0.38  
+食盐 NaCl 0.25  
+氯化胆碱 Choline chloride 0.10  
+DL-蛋氨酸 DL-Met 0.17  
+色氨酸 Trp 0.02  
+$L .$ 苏氨酸 $L$ -Thr 0.05  
+维生素预混料 Vitamin premixl) 0.05  
+矿物元素预混料 Mineral premix2) 0.20  
+合计Total 100.00  
+营养水平 Nutrient levels3)  
+消化能 DE/(MJ/kg) 14.86  
+粗蛋白质CP 19.59  
+钙Ca 0.81  
+总磷TP 0.57  
+可利用磷 AP 0.37  
+赖氨酸 Lys 1.36  
+蛋氨酸Met 0.45  
+蛋氨酸+半胱氨酸Met+Cys 0.75  
+苏氨酸 Thr 0.79  
+色氨酸 Trp 0.23
+
+1 维生素预混料为每千克饲粮提供 The vitamin premix provided the following per $\mathrm { k g }$ of the diet: VA 6 000IU， $\mathrm { V D } _ { 3 } 4 0 0 0$ IU，VE 10 IU, $\mathrm { V K } _ { 3 } 1 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 0 . 8 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 6 . 4 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 . 4 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 1 2 \mu \mathrm { g }$ ，叶酸folicacid $0 . 2 \mathrm { m g }$ ，烟酸 nicotinic acid $1 4 ~ \mathrm { m g }$ ， $D$ 泛酸 $D$ pantothenic acid $1 0 \mathrm { m g }$ 。
+
+2）矿物元素预混料为每千克饲粮提供 The mineral premix provided the folowing per $\mathrm { k g }$ of the diet:FeSO4 HO 350.88 g, $\mathrm { C u S O _ { 4 } { \bullet } 5 H _ { 2 } O }$ 25.00 g， $\mathrm { M n S O _ { 4 } { \bullet } H _ { 2 } O }$ $1 3 . 2 4 \ \mathrm { g }$ ， $\mathrm { Z n S O _ { 4 } bullet H _ { 2 } O \ 2 9 2 . 7 8 g }$ ， $\mathrm { ~ K I ~ } 8 . 3 1 \mathrm { ~ g ~ }$ ， ${ \mathrm { N a } } _ { 2 } { \mathrm { S e O } } _ { 3 }$ （204号 $3 5 . 7 1 \ \mathrm { g }$ ，石粉(载体)limestone (carrier) $\begin{array} { r } { 1 2 7 4 . 0 7 \ \mathrm { g } \cdot } \end{array}$ 。
+
+3）消化能为计算值，其余为实测值。DE was a calculated value,while the others were measured values.
+
+# 1.3 饲养管理
+
+试验于四川农业大学雅安校区科研园进行，试验前对猪舍进行彻底清洗，并消毒。试验期间，仔猪自由采食与饮水，每日饲喂4次（08:00、12:00、16:00 和20:00）。舍内温度维持在 $2 4 { \sim } 2 6 \mathrm { ~ ~ } ^ { \circ } \mathrm { C }$ ，相对湿度 $7 5 \% { \sim } 8 5 \%$ ；每天定时打扫圈舍，试验期不对任何猪仔使用药物。
+
+# 1.4 测定指标
+
+# 1.4.1 生长性能
+
+于试验第1和15天08：00对仔猪空腹称重，记录猪仔体重，计算增重（DG）和平均日增重（ADG）。准确记录每天每头仔猪采食量，并计算总采食量（TFI）和平均日采食量（ADFI）。根据仔猪ADFI和ADG 计算料重比（F/G）。
+
+# 1.4.2 养分消化率
+
+试验第11\~14天，以盐酸不溶灰分（AIA）作为内源指示剂，进行消化试验。饲料及粪便中盐酸不溶灰分、干物质（DM）、粗蛋白质（CP）、粗脂肪（EE）、粗灰分（Ash）含量及能量的测定均参照刁慧等[5]进行。
+
+# 1.4.3 血液指标
+
+于试验第15天07：00，采用前腔静脉采血法，采集每头仔猪新鲜血液各 $5 \mathrm { m L }$ 于乙二胺四乙酸（EDTA）管中，并送于雅安市人民医院进行血常规测定；另采集 $1 0 ~ \mathrm { m L }$ 血液于普通抗凝管，常温下静置 $0 . 5 \mathrm { h }$ 、 $3 5 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 \mathrm { { m i n } }$ ，取上清液装于EP 管中， $- 2 0 \mathrm { ~ \textdegree C }$ 保存，采用生化发光仪进行血清生化分析。
+
+血清中免疫球蛋白A（IgA）、免疫球蛋白G（IgG）、免疫球蛋白M（IgM）含量均采
+
+用猪ELISA试剂盒进行测定。
+
+# 1.5 数据统计与分析
+
+试验数据采用Excel2010进行统计，SPSS21.0进行单因素方差分析，Duncan 氏法进行多重比较，结果以平均值 $\pm$ 标准差表示， $P { < } 0 . 0 5$ 为差异显著， $0 . 0 5 { \leqslant } P { < } 0 . 1 0$ 为显著性趋势。
+
+# 2结果
+
+# 2.1PEO 对断奶仔猪生长性能的影响
+
+由表2可见，I组断奶仔猪 ADG 显著高于CS 组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ），且较I、Ⅱ组有增加的趋势（ $\scriptstyle P = 0 . 0 5$ 、 $P { = } 0 . 0 6$ ）；与CS 组和I相比，ⅡI组、IⅢI组断奶仔猪F/G均有所降低，但各组间差异不显著 （ $. P { > } 0 . 0 5 \$ ）。
+
+Table 2Effects of PEO on growth performance of weaning piglets   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别 Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>CS</td><td>1</td><td>II</td><td>IⅢI</td></tr><tr><td>初重IW/kg</td><td>9.25±0.41</td><td>9.18±0.24</td><td>9.16±0.61</td><td>9.17±0.49</td><td>1.00</td></tr><tr><td>末重FW/kg</td><td>15.53±0.28</td><td>15.52±0.20</td><td>15.55±0.76</td><td>16.00±0.54</td><td>0.88</td></tr><tr><td>增重 DG/kg</td><td>6.41±0.55</td><td>6.33±0.23</td><td>6.39±0.71</td><td>6.83±0.33</td><td>0.36</td></tr><tr><td>平均日增重 ADG/ (kg/d)</td><td>0.45±0.04a</td><td>0.45±0.02ab</td><td>0.46±0.05ab</td><td>0.50±0.03b</td><td>0.09</td></tr><tr><td>总采食量TFI/kg</td><td>9.46±1.01</td><td>9.80±0.42</td><td>9.40±1.63</td><td>9.50±0.56</td><td>0.98</td></tr><tr><td>平均日采食量 ADFI/</td><td>0.67±0.07</td><td>0.70±0.03</td><td>0.67±0.19</td><td>0.66±0.04</td><td>0.98</td></tr><tr><td>（kg/d)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>料重比F/G</td><td>1.47±0.05</td><td>1.55±0.07</td><td>1.43±0.38</td><td>1.34±0.09</td><td>0.36</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。
+
+In the same row,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below.
+
+# 2.2PEO对断奶仔猪养分消化率的影响
+
+由表3可见，I组DM消化率显著低于其他各组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。与CS组和ⅡI组相比，II组CP消化率有所提高（ $. P { > } 0 . 0 5 )$ ），且I组较I组有增加的趋势（ ${ \scriptstyle \cdot } P = 0 . 0 7$ ）。另外，II组EE、能量、Ash 消化率均高于其他组，但差异不显著（ $. P { > } 0 . 0 5 .$ ）。
+
+表2植物精油对断奶仔猪生长性能的影响  
+表3植物精油对断奶仔猪养分消化率的影响  
+Table 3Effects of PEO on nutrients digestibility of weaning piglets $\%$   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别 Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>CS</td><td>I</td><td>II</td><td>III</td></tr><tr><td>干物质 DM</td><td>81.95±0.31b</td><td>80.39±0.30a</td><td>81.96±0.53b</td><td>82.38±0.26b</td><td>0.01</td></tr></table></body></html>
+
+<html><body><table><tr><td>粗蛋白质 CP</td><td>83.23±0.51</td><td>82.79±0.85</td><td>83.57±1.23</td><td>85.14±0.59</td><td>0.29</td></tr><tr><td>粗脂肪 EE</td><td>80.81±2.73</td><td>81.32±1.84</td><td>82.40±0.66</td><td>82.60±1.12</td><td>0.84</td></tr><tr><td>能量 Energy</td><td>81.28±0.33</td><td>80.70±0.40</td><td>81.67±0.96</td><td>82.35±0.34</td><td>0.36</td></tr><tr><td>粗灰分 Ash</td><td>40.91±0.84</td><td>40.85±3.67</td><td>41.87±2.79</td><td>43.71±2.00</td><td>0.89</td></tr></table></body></html>
+
+# 2.3PEO对断奶仔猪血常规指标的影响
+
+由表4可见，I组、Ⅱ组、IⅢ组血液白细胞计数均高于CS 组，但各组间差异不显著L $. P { > } 0 . 0 5$ ）；与CS组相比，I组、IⅢ组血液红细胞计数显著提高（ $. P { < } 0 . 0 5 )$ ）；Ⅱ组血液平均红细胞体积显著低于I组和CS 组（ $\scriptstyle \cdot { \cal P } \ll 0 . 0 5 .$ ）；与Ⅱ组相比，I组血液平均血红蛋白含量显著增加（ $P { < } 0 . 0 5 )$ ）；与CS 组相比，ⅡI组血液平均血红蛋白浓度显著增加（ $. P { < } 0 . 0 5 )$ ）。
+
+表4植物精油对断奶仔猪血常规指标的影响  
+Table 4Effects of PEO on blood routine index of weaning piglets   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>CS</td><td>I</td><td>II</td><td>Ⅲ</td></tr><tr><td>白细胞计数 White blood cell counts/(x10/L)</td><td>14.27±0.38</td><td>14.82±0.92</td><td>14.96±1.57</td><td>14.49±0.60</td><td>0.96</td></tr><tr><td>中性粒细胞 Neutrophile granulocyte/%</td><td>27.95±2.30</td><td>29.33±2.27</td><td>31.20±3.61</td><td>31.50±5.92</td><td>0.91</td></tr><tr><td>淋巴细胞Lymphocyte/%</td><td>67.70±2.88</td><td>65.17±4.01</td><td>63.70±4.22</td><td>67.98±7.42</td><td>0.92</td></tr><tr><td>单核细胞 Monocyte/%</td><td>3.58±0.78</td><td>4.03±1.48</td><td>4.20±1.10</td><td>3.85±1.25</td><td>0.98</td></tr><tr><td>嗜酸细胞 Acidophilic cell/%</td><td>0.60±0.13</td><td>0.63±0.33</td><td>0.35±0.15</td><td>0.20±0.06</td><td>0.48</td></tr><tr><td>嗜碱细胞 Basophilic cell/%</td><td>0.18±0.05</td><td>0.20±0.45</td><td>0.25±0.05</td><td>0.20±0.04</td><td>0.65</td></tr><tr><td>中性粒细胞计数 Neutrophil differential</td><td>4.24±0.59</td><td>4.79±0.86</td><td>4.84±1.81</td><td>4.41±0.95</td><td>0.47</td></tr><tr><td>counts/(x109/L)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>淋巴细胞计数 Lymphocyte counts/(x109/L)</td><td>10.06±0.25</td><td>12.55±1.57</td><td>10.53±1.22</td><td>9.77±1.26</td><td>0.95</td></tr><tr><td>单核细胞计数 Monocyte counts/(x10/L)</td><td>0.55±0.14</td><td>0.69±0.22</td><td>0.69±0.14</td><td>0.55±0.17</td><td>0.87</td></tr><tr><td>嗜酸细胞计数 Eosinophil counts/(x10/L)</td><td>0.07±0.02</td><td>0.13±0.08</td><td>0.05±0.02</td><td>0.02±0.01</td><td>0.38</td></tr><tr><td>嗜碱细胞计数 Basophil counts/(x109/L)</td><td>0.02±0.01</td><td>0.04±0.00</td><td>0.04±0.01</td><td>0.03±0.01</td><td>0.28</td></tr><tr><td>红细胞计数 Red blood cell counts/(x10l²/L)</td><td>6.53±0.16a</td><td>7.12±0.31b</td><td>6.91±0.24ab</td><td>7.37±0.08b</td><td>0.16</td></tr><tr><td>血红蛋白 Hemoglobin/(g/L)</td><td>105.75±2.02</td><td>114.33±4.87</td><td>107.00±4.53</td><td>113.67±3.01</td><td>0.35</td></tr><tr><td>红细胞压积 Hematocrit</td><td>39.58±1.11</td><td>42.03±1.85</td><td>42.04±1.54</td><td>43.03±1.58</td><td>0.40</td></tr><tr><td>平均红细胞体积 Mean corpuscular volume</td><td>59.50±1.05b</td><td>60.13±0.70b</td><td>55.45±1.19a</td><td>58.38±1.53ab</td><td>0.06</td></tr><tr><td>红细胞宽度-SD RDW-SD/fL</td><td>48.00±3.89</td><td>45.75±1.58</td><td>40.30±1.20</td><td>47.63±2.46</td><td>0.31</td></tr><tr><td>红细胞宽度-CVRDW-CV/fL</td><td>25.85±2.12</td><td>23.65±0.64</td><td>26.10±2.12</td><td>26.43±1.40</td><td>0.65</td></tr><tr><td>平均血红蛋白含量 CHb/pg</td><td>15.90±0.27ab</td><td>16.10±0.21b</td><td>15.57±0.25a</td><td>16.00±0.26ab</td><td>0.29</td></tr><tr><td>平均血红蛋白浓度 MCHC/(g/L)</td><td>267.50±2.84a</td><td>272.25±0.75ab</td><td>277.25±2.46b</td><td>271.25±3.68ab</td><td>0.13</td></tr><tr><td>幼稚粒细胞 Immature granular cells/%</td><td>0.30±0.04</td><td>0.30±0.04</td><td>0.33±0.03</td><td>0.30±0.04</td><td>0.93</td></tr><tr><td>幼稚粒细胞计数 Immature granulocyte counts/(x109/L)</td><td>0.05±0.01</td><td>0.06±0.01</td><td>0.06±0.02</td><td>0.05±0.01</td><td>0.64</td></tr></table></body></html>
+
+# 2.5 PEO对断奶仔猪血清生化指标的影响
+
+由表5可见，IⅢ组血清葡萄糖含量高于其他组，但差异不显著（ $_ { \cdot \cdot P > 0 . 0 5 } )$ ）；I组、Ⅲ组血清甘油三酯含量显著低于CS组（ $P { < } 0 . 0 5$ ），且ⅡI组血清甘油三酯含量较CS组有下降的
+
+趋势（ $\scriptstyle P = 0 . 0 5$ ）；与I组相比，CS组和II组血清总胆固醇含量显著降低（ $. P { < } 0 . 0 5$ ），Ⅱ组血清总胆固醇含量较I组有下降的趋势（ $scriptstyle \cdot P = 0 . 7 1$ ）；另外，IⅢ组血清白蛋白含量显著高于其他各组（ $_ { . P < 0 . 0 5 }$ ）。
+
+Table 5 Effects of PEO on serum index of weaning piglets   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>CS</td><td>I</td><td>I</td><td>III</td></tr><tr><td>尿素UREA/(mmol/L)</td><td>3.37±0.19</td><td>3.25±0.41</td><td>3.37±0.20</td><td>3.57±0.19</td><td>0.86</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>50.03±1.69</td><td>50.66±0.47</td><td>51.89±0.64</td><td>51.91±1.08</td><td>0.54</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>3.88±0.15</td><td>3.85±0.25</td><td>3.97±0.18</td><td>4.33±0.41</td><td>0.59</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.58±0.06a</td><td>0.44±0.01b</td><td>0.44±0.07ab</td><td>0.43±0.03b</td><td>0.10</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>45.41±3.94</td><td>45.58±0.38</td><td>43.76±1.32</td><td>43.03±2.36</td><td>0.87</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>54.64±2.11</td><td>53.54±3.03</td><td>51.98±2.64</td><td>51.33±3.31</td><td>0.53</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>2.10±0.04a</td><td>2.29±0.06b</td><td>2.14±0.06ab</td><td>1.95±0.06a</td><td>0.03</td></tr><tr><td>肌酐 CREA/(mmol/L)</td><td>117.49±6.89</td><td>126.24±6.82</td><td>115.75±2.49</td><td>114.51±2.45</td><td>0.39</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>29.32±0.82a</td><td>28.98±0.39a</td><td>29.09±0.35a</td><td>30.90±0.43b</td><td>0.06</td></tr></table></body></html>
+
+2.6PEO 对断奶仔猪血清免疫球蛋白含量的影响
+
+由表6可见，III组血清IgG含量显著高于CS组和I组（ $. P { < } 0 . 0 5 \$ ），I组血清IgG含量较CS 组和I组也有增加，但未达到显著水平（ $P { > } 0 . 0 5$ ）；I组血清IgA含量较CS 组有上升趋势（ $\scriptstyle P = 0 . 0 5$ ），且显著高于I组（ $. P { < } 0 . 0 5 ^ { \cdot }$ ）。
+
+表5植物精油对断奶仔猪血清生化指标的影响  
+表6植物精油对断奶仔猪血清免疫球蛋白含量的影响  
+Table 6Effects of PEO on serum immunoglobulin content of weaning piglets ( $( n { = } 6 )$ （204号 g/   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>CS</td><td>I</td><td>I</td><td>IⅢI</td></tr><tr><td>免疫球蛋白GIgG</td><td>2.55±0.25a</td><td>2.42±0.19a</td><td>3.31±0.43ab</td><td>3.84±0.61b</td><td>0.08</td></tr><tr><td>免疫球蛋白MIgM</td><td>0.23±0.03</td><td>0.25±0.01</td><td>0.25±0.02</td><td>0.23±0.03</td><td>0.93</td></tr><tr><td>免疫球蛋白AIgA</td><td>0.89±0.05ab</td><td>0.89±0.08a</td><td>1.07±0.08ab</td><td>1.14±0.07b</td><td>0.11</td></tr></table></body></html>
+
+# 3讨论
+
+仔猪断奶后健康是影响生猪养殖业可持续发展的重要因素。早期甚至超早期断奶技术的使用，有效地提高了繁殖母猪利用率，给养殖带来了极大利益。但仔猪过早断奶，其自身发育条件尚不完善，再加上饲养环境改变及一些管理措施不当等因素，极易诱发仔猪断奶综合征。抗生素的发现与使用，缓解了这一突出性问题。而近年来，抗生素滥用所导致的问题，如宿主菌群紊乱、细菌耐药性、药物残留等变得越发突出。此外，王瑞等[8]和阮存鑫[报道指出，养殖领域中抗生素使用剂量已大大超出了动物适应水平，其未能吸收与利用部分绝多数以原药和代谢产物形式排出体外，严重威胁到环境健康。目前诸多研究表明，PEO 具有潜在的替代抗生素功效[4,10-1]；机体摄入PEO，可经胃肠壁完全吸收，参与代谢调控，并以安全产物形式排出体外，对机体未有损伤，且对环境也无任何危害[12-13]。
+
+另有报道指出，PEO能够刺激机体，增加唾液、胆汗及消化道酶分泌，提高消化道酶活性[14-15]，并加速成熟的肠上皮细胞更新，刺激肠绒毛发育，增加小肠消化吸收面积[16]。Huang 等[17]研究表明，饲粮添加 $0 . 1 \%$ PEO（含 $0 . 3 \%$ 苯甲酸）能显著提高1\~14日龄断奶仔猪 ADG及DM、能量表观消化率，但对 ADFI、F/G 无显著影响。本试验研究表明，断奶仔猪基础饲粮中添加 $2 0 0 ~ \mathrm { m g / k g }$ PEO，其ADG 较CS 组显著提高，且较I组、ⅡI组有增加的趋势，这与张强等[18]研究结果相似；方热军等[19]报道指出，饲粮添加 $1 0 0 ~ \mathrm { { m g / k g } }$ PEO 能够有效地改善断奶仔猪健康，降低 F/G。本试验显示，仔猪饲粮添加 100、 $2 0 0 ~ \mathrm { m g / k g }$ PEO 均可降低仔猪F/G；此外，I组DM消化率较CS 组有显著提高，CP、Ash 消化率较CS 组也所增加，这与Li等[20]、Zeng 等[21研究结果相似。但也有部分研究结果表明，饲粮添加 PEO断奶仔猪生长性能没有显著影响[22-23]。上述结果的差异，可能与动物饲喂环境的不同、PEO组分及添加剂量的差异有关。
+
+血液是机体内部循环流动的不透明红色液体，其有效成分可作为反映机体新陈代谢机能、组织及细胞通透性、机体健康状况的重要性指标[24]。研究表明，仔猪过早断奶，其血液成分会发生明显变化，其总蛋白、白蛋白、葡萄糖、血红蛋白含量及平均红细胞体积均较断奶前有下降，但平均红细胞血红蛋白浓度却有上升[25]。本试验结果表明，仔猪饲粮添加200 mg/kg PEO 可在一定程度上提高血液中红细胞压积和血红蛋白含量,Rahimi 等[26]研究也得到类似的结果。此外，Huang 等[17]报道指出，饲粮添加 $0 . 1 \%$ PEO 能显著提高仔猪血液中红细胞数（RBS）及淋巴细胞计数；本试验同样发现，饲粮添加50、100 和 $2 0 0 \mathrm { m g / k g }$ PEO均能有效地增加红细胞计数，但对淋巴细胞计数未产生显著影响；ⅡI组、IⅢ组平均血红蛋白浓度较CS 组和I组有所增加，而平均红细胞体积均低于CS 组和I组。而相关报道也表明，PEO 在一定程度上能够影响机体血液，且具有加强机体对氧、营养物质及细胞代谢产物运输的作用[12]。由此可见，饲粮中添加一定水平PEO 能够影响血液中有效成分含量，进而影响机体代谢水平。
+
+方秋红等研究发现，断奶仔猪饲粮添加 $5 0 \ \mathrm { m g / k g }$ 肉桂油能显著增加仔猪血清中总蛋白、白蛋白含量；刁慧等[5]研究发现， $1 0 0 \mathrm { m g / k g }$ 百里香酚配合苯甲酸添加到断奶仔猪饲粮，显著增加了断奶仔猪第14和42天血清白蛋白含量，同时降低了血清尿素和甘油三酯含量。本试验结果表明，饲粮添加不同水平PEO，其血清总蛋白含量均不同程度高于CS 组；III组血清白蛋白含量较其他各组有显著增加，而血清甘油三酯含量显著降低于CS组，这与Rahimi等[26]和刘猛[27]研究的结果相似。另有研究表明，断奶仔猪饲粮添加 $0 . 1 \%$ PEO，显著提高了血清葡萄糖、胆固醇含量，且显著降低了血清尿素氮含量[24]。本试验结果表明，饲粮添加100、 $2 0 0 \mathrm { m g / k g }$ PEO，血清葡萄糖含量均有所上升，血清总胆固醇含量有一定程度下降，但对血清尿素含量未产生影响。张强等[18]通过在仔猪饲粮添加PEO，研究发现PEO 具有加强机体免疫球蛋白的分泌，增加血清IgG、IgA 含量的作用，但对血清IgM含量没有显著影响。本试验结果表明，III组血清IgG 含量显著高于CS 组和I组，这与Li等[20报道结果相似，但与 Huang 等[17]研究的结果相反，这可能与PEO 添加水平及组分不同有关。本试验结果表明，饲粮添加 $2 0 0 \mathrm { m g / k g }$ PEO 对断奶仔猪血清IgA含量趋势性高于CS 组，同时显著高于I组，这与刘猛[27]报道结果相似。由此可见，饲粮添加 200 mg/kgPEO（百里香酚 $+$ 肉桂醛），能够影响断奶仔猪血液有效成分含量，加强机体新陈代谢代谢，提高机体免疫能力。
+
+4结论   
+综上所述，饲粮添加 $2 0 0 \mathrm { m g / k g }$ PEO 具有改善血常规、增强免疫力、缓解断奶应激、促 进生长性能的功效；因此，PEO在断奶仔猪上具有潜在的利用价值。   
+参考文献:   
+[1]王书凤,龚月生.不同抗生素组合对哺乳仔猪生产性能及肠道菌群的影响[J].西北农业学 报,2007,16(5):63-66.   
+[2] BRENES A,ROURA E.Essential oils in poultry nutrition:main effects and modes of action[J].Animal Feed Science and Technology,2010,158(1/2):1-14.   
+[3] COBELLIS G,TRABALZA-MARINUCCI M,MARCOTULLIO M C,et al.Evaluationof different essential oils in modulating methane and ammonia production,rumen fermentation,and rumen bacteria in vitro[J].Animal Feed Science and Technology,2016,215:25-36.   
+[4] 黄国清,谢伟,王博.牛至油对肉鸡生产性能和肠道微生物菌群的影响[J].中国兽医杂 志,2008,44(11):69-70.   
+[5]刁慧,郑萍,余冰,等.苯甲酸对断奶仔猪生长性能、血清生化指标、养分消化率和空肠食 糜消化酶活性的影响[J].动物营养学报,2013,25(4):768-777.   
+[6]方秋红,侯永清,赵迪,等.植物精油对断奶仔猪生长性能及血液生化指标的影响[J].饲 料工业,2014,35(17):44-47.   
+[7] ZHONG M,WU D,LIN Y,et al.Phytogenic feed additive for sows:effects on sow feed intake,serum metabolite concentrations,IgG level,lysozyme activity and milk quality[J] Journal of
+
+Agricultural Science and Technology,2011,1(6A):802-810.
+
+[8] 王瑞,魏源送.畜禽粪便中残留四环素类抗生素和重金属的污染特征及其控制[J].农业环境科学学报,2013,32(9):1705-1719.
+
+[9] 阮存鑫.四环素与铜复合污染对土壤硝化作用及植物生长的影响[D].硕士学位论文.南京:南京林业大学，2010.
+
+[10] HONG J C,STEINER T,AUFY A,et al.Effects of supplemental essential oil on growth performance,lipid metabolites and immunity,intestinal characteristics,microbiota and carcass traits in broilers[J].Livestock Science,2012,144(3):253-262.
+
+[11] ZENG Z K,ZHANG S,WANG H L,et al.Essential oil and aromatic plants as feed additives in non-ruminant nutrition:a review[J].Journal of Animal Science and Biotechnology,2O15,6(1):7.
+
+[12] WORWOOD V A.The complete book of essential oils and aromatherapy:over 600 natural,non-toxicandfragrantrecipesto create Health-Beauty-A Safe Home Environment[M].California:New World Library,1991.
+
+[13] MICHIELS J,MISSOTTEN J,DIERICK N,et al.In vitro degradation and in vivo passage kinetics of carvacrol,thymol,eugenol and trans-cinnamaldehyde along the gastrointestinal tract of piglets[J].Journal of the Science of Food and Agriculture,2008,88(13):2371-2381.
+
+[14] JANG I S,KO Y H,YANG H Y,et al.Influence of essential oil components on growth performance and the functional activity of the pancreas and small intestine in broiler chickens[J].Asian Australasian Journal of Animal Sciences,20O4,17(3):394-400.
+
+[15] PLATEL K,SRINIVASAN K.Stimulatory influence of select spices on bile secretion in rats[J].Nutrition Research,2000,20(10):1493-1503.
+
+[16]姜文,赵鑫.植物精油在养猪生产中的应用[J].今日养猪业,2016(3):72-74.
+
+[17] HUANG Y,YOO J S,KIM H J,et al.Effects of dietary supplementation with blended essential oilson growth performance,nutrient digestibility,blood profilesand fecal characteristics in weanling pigs[J].Asian-Australasian Journal of Animal Sciences,2010,23(5):607-613.
+
+[18] 张强,朴香淑,张宏宇,等.低能量日粮中添加植物精油对仔猪生长性能、抗氧化活性及其免疫性能的影响[C]//中国畜牧兽医学会动物营养学分会第十一次全国动物营养学术研讨会论文集.北京:中国畜牧兽医学会动物营养学分会,2012.
+
+[19] 方热军,李美君,周学彬,等.植物精油提取物对断奶仔猪生产性能及血液生化指标的影响
+
+[J].饲料工业,2010,31(16):9-12.
+
+[20] LI PF,PIAO X S,RU Y J,et al.Effects of adding essential oil to the diet of weaned pigs on performance,nutrient utilization,immune response and intestinal health[J].Asian-Australasian Journal of Animal Sciences,2012,25(11):1617-1626.
+
+[21] ZENG Z K,XU X,ZHANG Q,et al.Effects of essential oil supplementation of a low-energy diet on performance,intestinal morphology and microflora,immune properties and antioxidant activities in weaned pigs[J].Animal Science Journal,2015,86(3):279-285.
+
+[22] GOIS F D,CAIRO P L G,DE SOUZA CANTARELLI V,et al.Effect of Brazilian red pepper (Schinus terebinthifolius Raddi) essential oil on performance,diarrhea and gut health of weanling pigs[J].Livestock Science,2016,183:24-27.
+
+[23] JANCZYK P,PIEPER R,URUBSCHUROV V,et al.Investigations on the effects of dietary essential oils and different husbandry conditions on the gut ecology in piglets after weaning[J].International Journal of Microbiology,2009,2009:730809.
+
+[24] 燕富永,印遇龙,孔祥峰,等.刺五加提取物抗仔猪断奶应激的效用[J].中国农业科学,2010,43(21):4490-4496.
+
+[25] 周向梅,高得仪,王清兰,等.仔猪断奶应激对血液和生化的影响[J].中国兽医杂志,1999,25(9):6-8.
+
+[26] RAHIMI S,TEYMOURI ZADEH Z,KARIMI TORSHIZI M A,et al.Effect of the three herbal extracts on growth performance,immune system,blood factors and intestinal selected bacterial population in broiler chickens[J].Journal of Agricultural Science and Technology,2011,13(4):527-539.
+
+[27] 刘猛.植物精油对仔猪生产性能、肠道微生物及免疫性能的影响[D].硕士学位论文.  
+郑州：河南农业大学，2011.
+
+Effects of Plant Essential Oils on Growth Performance, Blood Index and Immunity Capability of Weaning Piglets
+
+ZHOU Xuanwu1 WANG $\mathrm { Y u ^ { 1 } }$ （204号 CHENDaiwen1 YU Bing1 CHEN Guang² LI Yan1 HE Jun1\*
+
+(1. Institute of Animal Nutrition, Sichuan Agricultural University, Chendu 611130, China; 2. Chengdu Hualuo Sheng Technology Co. Ltd., Chendu 610052,China)
+
+Abstract: The objective of present study was to investigate the effects of dietary plant essential oils (PEO）on growth performance, blood index and immunity capability of weaning piglets. Twenty-four healthy“Duroc $\times$ Landrace $\times$ Yorkshire” weaning piglets weaned at 30 days of age with similar body weight were randomly divided into 4 groups with 6 replicates per group and 1 pig per replicate. Pigs in the 4 groups were fed the basal diets supplemented with $5 0 ~ \mathrm { m g / k g }$ （204号 colistin sulfate(CS group)and 5O（group I）,100（group II） and $2 0 0 \mathrm { m g / k g }$ PEO（group II), respectively. The preliminary period lasted for 6 days and the formal period lasted for 14 days. The results showed as follows: 1) the average daily gain (ADG) of weaning piglets in group III was significantly higher than that in CS group $( P { < } 0 . 0 5 )$ ，and it showed an increasing trend on ADG compared with group I and group II $( P { = } 0 . 0 5 , P { = } 0 . 0 6 )$ . The ratio of feed to gain (F/G) of weaning piglets in group Il was lower than that in other groups, but had no significant difference $( P { > } 0 . 0 5 )$ . 2) The dry matter (DM) digestibility in group I was significantly lower than that in other groups $( P { < } 0 . 0 5 )$ ,the crude protein (CP) digestibility in group II showed an increasing trend compared with group I $\scriptstyle \overbrace { P = 0 . 0 7 } ,$ . 3）The red blood cell counts in group III was significantly higher than that in CS group $( P { < } 0 . 0 5 )$ ； the mean corpuscular hemoglobin concentration in group I was significantly higher than that in CS group $( P { < } 0 . 0 5 )$ ; the serum glucose content in group II was significantly higher than that in other groups,but had no significant difference $( P { > } 0 . 0 5 )$ ; the serum albumin content in group II was significantly higher than that in other groups $( P { < } 0 . 0 5 )$ .4） The serum immunoglobulin G content in group III was significantly higher than that in CS group and group I( $_ { ( P < 0 . 0 5 ) }$ , the serum immunoglobulin A content in group II was significantly higher than that in group I( $_ { ( P < 0 . 0 5 ) }$ . In conclusion, diets supplemented with $2 0 0 ~ \mathrm { m g / k g }$ PEO has the effects of improve blood effective components content, Improve body immunity, enhance weaned piglets health and improve growth. Therefore, the PEO has a potential value in weaning piglets.
+
+Key words: weaning piglets; PEO； growth performance； blood compositions; immunitycapability;2

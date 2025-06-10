@@ -1,0 +1,119 @@
+# 母亲喂养行为与体型认知对儿童肥胖的影响
+
+刘静静1² 江兰¹陈祉妍¹ 郭菲¹　韩世文³齐佳玉4李冬梅5  
+$^ 1 1 0 0 1 0 1$ 北京，中国科学院心理健康重点实验室(中国科学院心理研究所)； $^ 2 1 0 0 0 4 9$ 北京，中国  
+科学院大学； $^ 3 1 0 0 0 8 2$ 北京，中国教师报； $^ { 4 } 1 0 0 0 3 7$ 北京，北京师范大学实验幼儿园展览路分园；$^ { 5 } 1 0 2 4 3 3$ 北京，军民共建阳光幼儿园刘静静为第一作者通信作者:陈祉妍,Email:chenzy@psych.ac.cn
+
+【摘要】目的初步探索母亲喂养行为、体型认知对儿童肥胖的影响，并比较母亲是否主要喂养人的差异，为今后在家庭喂养环境中干预儿童肥胖提供借鉴。方法在北京、西安、江苏和深圳等四个城市选取8所幼儿园，对儿童母亲进行方便抽样，共收回有效问卷456份。采用母亲报告的方法。调查内容包括人口社会学特征、体型图表认知和儿童喂养问卷。结果 $8 1 . 6 6 \%$ 超重和 $7 0 . 1 5 \%$ 肥胖儿童的母亲在认知其子女体重水平时存在低估现象。认知偏差分别与填鸭式喂养 $( \mathrm { r } { = } 0 . 1 1$ $\mathrm { P } { < } 0 . 0 5$ )和担心 $\left( \mathrm { r } = 0 . 1 5 , \mathrm { P } < 0 . 0 1 \right)$ 呈显著正相关。分层回归分析发现，母亲为主要喂养人的责任认知和填鸭式喂养比为非主要喂养人的对儿童BMI更具有预测效果。结论超重和肥胖儿童的母亲更存在认知偏差现象更可能采取不科学的喂养行为。母亲喂养行为不科学和体型认知不正确都会增加儿童肥胖风险。
+
+【关键词】 儿童肥胖；母亲；主要喂养人；体型认知；喂养行为
+
+# The influence of maternal feeding behavior and body cognition
+
+# on chi ldhood obesity
+
+1.2Liu Jingjing，‘Jiang Lan，'Chen Zhiyan，'Guo Fei，²Han Shiwen，4Qi Jiayu,‘Li Dongmei 'CAS Key Laboratory of Mental Health,Institute of Psychology,Beijing 100101,China; ²University of Chinese Academy of Sciences 100049,China;   
+³China teacher weekly 100082, China;   
+4Beijing Normal University, Zhanlanlu Campus,Bei jing 100037,China;   
+5Jun min gong jian yang guang_Kindergarten,Beijing 102433,China   
+Liu Jingjing is the first author.
+
+Corresponding author :Chen Zhiyan,E-mail:chenzy@psych.ac.cn
+
+【Abstract】 Objective To explore tentatively maternal feeding behavior,body cognition effect on childhood obesity,and comparing the difference between the mother whether the main feed,to provide the reference for interventing childhood obesity in the family's feeding environment in the future.MethodsIn Beijing， Xian, Jiangsu and Shenzhen et al.,selected eight kindergarten from four cities to random sampling of children's mother,a total of 456 effective questionnaires were taken back.The mother reported questionnaire was used in the investigation method.The questionnaire，which included social-demographic characteristics,body cognitive chart ,and children feeding questionnaire.Results81. $6 6 \%$ and $7 0 . 1 5 \%$ of overweight andobese children's mother when its cognitive level of children's weight is undervalued.Cognitive biases and feeding behavior $( r = 0 . 1 1$ ， $\mathsf { P } < 0 . 0 5 )$ and concern ( $\mathtt { \tilde { \Gamma } } _ { \mathtt { r } } = 0$ .15， $\mathsf { P } < 0 . 0 1 \dot { }$ ）were significantly positive correlation. Hierarchical regression analysis showed that responsibility and pressuring of mother as the main feeding has more prediction effect for children than as no main feeding. Conclusion The more mother of overweight and obese children cognitive deviation phenomenon,the more likely to adopt unscientific feeding behavior.Materal unscientific feeding behavior and incorrect body cognition will increase the risk of childhood obesity.
+
+【Key words】 Children obesity;Maternal; Main feeding people;Body cognitive;Feedingbehavior
+
+近几年来，国内外学者围绕儿童肥胖问题的研究，在儿童体型认知和家庭环境[中的喂养行为这两个领域已有明显的进展。[2,3.5]但是，在研究认知偏差和喂养行为的关系和母亲喂养行为和体型认知对儿童肥胖的影响上还尚未有报道，以及对于母亲是否主要喂养人这个变量的关注不足。为此，本研究对 $2 { \sim } 5 . 5$ 罗儿童母亲进行横断调查研究，旨在初步探索母亲喂养行为和体型认知对儿童肥胖的影响，为今后在家庭喂养环境中干预儿童肥胖提供参考。
+
+# 2方法
+
+2.1被试2016年6月 ${ \sim } 8 \$ 月，在北京、西安、江苏和深圳等四个城市共选取8所幼儿园对 $2 { \sim } 5 . 5$ 岁儿童母亲进行方便抽样，共收回有效问卷456份，有效率为 $8 3 . 2 1 \%$ ，问卷没有填写完整的和儿童年龄大于5.5岁和小于2岁的问卷都被视为无效问卷。
+
+2.2 工具整个问卷采用母亲报告的调查方法。[5调查内容包括人口社会学特征、体型图表认知和儿童喂养问卷。
+
+2.2.1人口社会学特征问卷收集了儿童与家庭的基本信息，包含儿童性别和年龄、儿童身高和体重、母亲身高和体重等。此外，使用“在家里，是谁主管孩子的饮食”这一问题来甄别母亲是否为主要喂养人。儿童和母亲的实际 BMI值是根据母亲报告的儿童和母亲自己的身高和体重分别算出，计算公式为身高 $( k g )$ /体重（米）²。儿童 BMI 分组根据李辉等(2009)针对中国儿童的标准，分为 $\mathrm { B M I } \langle 5 t h$ 为低体重， ${ 5 t h } { \leqslant } \mathrm { B M I } < 8 5 t h$ 为正常体重， $8 5 t h { \leqslant } B M I { < } 9 5 t h$ 为超重， $9 5 t h { \leqslant }$ BMI 为肥胖．母亲 BMI分组根据Ji（2005）针对中国成人的标准，分为 BMI<18为低体重，18≤BMI<24 为正常体重， $2 4 { \leqslant } \mathrm { B M I } < 2 8$ 为超重， $2 8 { \leqslant } B { \mathrm { M I } }$ 为肥胖。[7]
+
+2.2.2 体型图表认知本研究使用了Eckstein 等制作的儿童体型图表，适用于 $2 { \sim } 1 8$ 岁，但是本研究只用了男童和女童 $2 { \sim } 5$ 岁的体型图表。体型图表分7个体型图，体重从左到右依次逐渐增加，体型图从左到右依次编号为1、2、3、4、5、6、7。本研究根据 Li等(2009)的儿童分类标准，把这7个体型图分为：1为低体重，2、3、4为正常体重，5为超重，6、7为肥胖。认知偏差是指儿童实际体重与母亲认知体型图表后产生的认知体重之间的差值。儿童体型认知偏差的评估分为三种：第一种是高估（认知体重水平>实际体重水平）；第二种是低估（认知体重水平<实际体重水平）；第三种是正确认知（认知体重水平 $\cdot =$ 实际体重水平）。
+
+2.2.3儿童喂养问卷该问卷的题目基于 Birch 等人编制的儿童喂养问卷（Child Feeding
+
+Questionnaire，CFQ）改编，包含4个维度20个题目，各题目采用Likert5级（ $1 { \sim } 5$ ）评分标准，每个维度分数为所属题目的平均分，得分越高，说明母亲在该维度上的喂养态度和行为的表现程度越高。本研究中，该问卷的各个分量表的内部一致性（Cronbach’s $\boldsymbol { a }$ ）在 $0 . 6 5 { \sim } 0 . 9 5$ 之间。
+
+1.3 数据处理对调查回收回来的问卷统一进行编号处理，应用 SPSS 20.0统计软件包建立数据库和统计处理。利用克雷莫V系数（Cramer'sVcoeficient）处理认知其子女体重水平与儿童 BMI分组之间的一致性检验。[4用相关分析和回归分析检验了认知偏差和喂养行为的相关。用分层回归分析处理了喂养行为和认知偏差对儿童肥胖的影响。
+
+# 3结果
+
+3.1儿童体重状况本研究中，儿童平均年龄为 $\left( 4 . 3 0 { \pm } 0 . 7 8 \right)$ 岁，其中男童有238名 $( 5 2 . 2 0 \% )$ ，女童有218名 $( 4 7 . 8 0 \% )$ ；儿童平均BMI为 $( 1 5 . 8 7 \pm 2 . 4 6 ) \mathrm { k g / m } ^ { 2 }$ ,其中低体重42 名 $( 9 . 2 0 \% )$ ,正常体重有287名 $( 6 2 . 9 0 \% )$ ，超重60名 $( 1 3 . 2 0 \% )$ ，肥胖67名 $( 1 4 . 7 0 \% )$ 。男童超重率 $1 3 . 9 0 \%$ 高于女童12. $4 0 \%$ ；男童肥胖率 $1 7 . 2 0 \%$ 高于女童 $1 1 . 9 0 \%$ 。
+
+3.2 母亲体型认知情况在本研究中，母亲存在认知儿童体重水平和实际体重水平之间的一致性较差。 $8 1 . 6 6 \%$ 超重和 $7 0 . 1 5 \%$ 肥胖儿童的母亲在认知其子女体重水平时存在低估现象。 （见表1)
+
+表1认知其子女体重水平与儿童BMI分组之间的一致性 $( N , \% )$   
+
+<html><body><table><tr><td rowspan="2">儿童 BMI分组</td><td colspan="4">母亲认知其子女体重水平</td><td rowspan="2">总计</td><td rowspan="2">P</td></tr><tr><td>低体重</td><td>正常体重</td><td>超重</td><td>肥胖</td></tr><tr><td>低体重</td><td>10(23.80)</td><td>29 (69.05)</td><td>2(4.76)</td><td>1(2.38)</td><td>42(9.21)</td><td></td></tr><tr><td>正常体重</td><td>38(13.24)</td><td>232 (80.84)</td><td>15(5.23)</td><td>2(0.70)</td><td>287 (62.94)</td><td></td></tr><tr><td>超重</td><td>2(3.33)</td><td>47 (78.33)</td><td>9(15.00)</td><td>2(3.33)</td><td>60 (13.16)</td><td><0.001</td></tr><tr><td>肥胖</td><td>3(4.48)</td><td>23(34.33)</td><td>21(31.34)</td><td>20(29.85)</td><td>67 (14.69)</td><td></td></tr><tr><td>总计</td><td>53(11.62)</td><td>331 (72.59)</td><td>47(10.31)</td><td>25(5.48)</td><td>456(100.00)</td><td></td></tr></table></body></html>
+
+注：Cramer’sV系数为0. $3 4 , P { < } , 0 0 1$
+
+3.3认知偏差和喂养行为的关系认知偏差与填鸭式喂养呈显著正相关 $( \boldsymbol { r } = 0 . 1 1 , \boldsymbol { P } { < } 0 . \boldsymbol { 0 } 5 )$ ，这种相关关系即便在控制了儿童性别、年龄和母亲的 BMI 情况下，依然存在！ $( P \mathrm { = } . 0 1$ ， $\beta { = } 0 . 2 8 )$ ；认知偏差与担心呈显著正相关 $( \mathit { r } \mathrm { = } 0 . 1 5 , \mathit { P } \mathrm { < } 0 . 0 1 )$ ，这种相关关系即便在控制了儿童性别、年龄和母亲的BMI的情况下，依然存在 $\left( P \mathrm { = } 0 . 0 0 , \ \beta \mathrm { = } 0 . 2 7 \right)$ 。
+
+表2认知偏差和母亲喂养行为之间的相关性分析  
+
+<html><body><table><tr><td></td><td>责任认知</td><td>填鸭式喂养</td><td>喂养成就感</td><td>担心</td></tr><tr><td>认知偏差</td><td>-0.01</td><td>0.11*</td><td>0.04</td><td>0.15**</td></tr></table></body></html>
+
+注：\*\*在0.01水平（双侧）上显著相关；\*在0.05 水平（双侧）上显著相关.
+
+3.4儿童肥胖的影响因素从表4看出，母亲为主要喂养人的责任认知和填鸭式喂养比为非主要喂养人的对儿童 BMI更有预测性。可能原因与母亲为非主要喂养人较少地参与子女的喂养行为有关。在整个回归模型中，引入4个喂养维度和认知偏差时R变化最大（各变量VIF 值均小于4,VIF值范围为 $1 . 0 0 { \sim } 1 . 1 9 )$ 。
+
+表34个喂养维度和认知偏差对儿童BMI的分层回归分析  
+
+<html><body><table><tr><td rowspan="2">步骤</td><td rowspan="2">预测变量</td><td colspan="4">儿童BMI（β)</td></tr><tr><td>方程1（A)</td><td>方差2（A)</td><td>方程1(B)</td><td>方程2(B)</td></tr><tr><td>第一层</td><td>控制变量</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="6">第二层</td><td>儿童性别</td><td>-0.27</td><td>-0.74***</td><td>-0.44</td><td>-0.85**</td></tr><tr><td>儿童年龄</td><td>-0.10</td><td>-0.05</td><td>0.11</td><td>0.06</td></tr><tr><td>自变量</td><td></td><td></td><td></td><td></td></tr><tr><td>责任认知</td><td></td><td>-0.33**</td><td></td><td>-0.09</td></tr><tr><td>填鸭式喂养</td><td></td><td>0.24*</td><td></td><td>-0.04</td></tr><tr><td>喂养成就感</td><td></td><td>0.11</td><td></td><td>-0.48</td></tr><tr><td></td><td>担心</td><td></td><td>0.63***</td><td></td><td>0.61****</td></tr><tr><td></td><td>认知偏差</td><td></td><td>0.75***</td><td></td><td>0.83***</td></tr><tr><td></td><td>R²</td><td>0.01</td><td>0.58</td><td>0.01</td><td>0.50</td></tr><tr><td></td><td>△R²</td><td>-0.00</td><td>0.56**</td><td>-0.00</td><td>0.48***</td></tr><tr><td></td><td>△R²F值</td><td>-0.00</td><td>27.40</td><td>-0.00</td><td>12.61</td></tr></table></body></html>
+
+注：A,母亲为主要喂养人;B,母亲为非主要喂养人. $* P { < } 0 . \ 0 5$ ，\*\* $\cdot P { < } 0 . \ 0 1$ “， $\ast \ast \ast P { < } 0 . 0 0 1$
+
+# 4讨论
+
+我们目的是研究母亲喂养行为、体型认知对儿童肥胖的影响。有这种研究想法是出于很多国家，特别是中国历史悠久，人们的思想易受传统观念的影响，认为儿童圆润丰满是健康的，这也更表明了母亲照顾得好和给予了儿童更好的喂养。Yilmaz R等（2009）和 JacksonJ等（1990）在研究中分别也阐述了这种喂养观念。母亲在喂养儿童时，要是儿童吃饱了，母亲就表现出很高兴或者说母亲看着儿童体重比原来胖了就很欣慰。[10,11]
+
+4.1绝大多数超重和肥胖儿童的母亲存在认知偏差现象本研究结果表明，绝大多数超重和肥胖儿童的母亲均更存在认知偏差和体型认知低估现象，这与国内外研究结果一致。[12,13,14,15,16,17,18,19,20]这说明了母亲的错误认知更容易出现在超重和肥胖儿童群体中。进一步推理可知，母亲在认知儿童体型时出现的错误认知不是说母亲不具备这种一般认知能力，而是受母亲本身的情感因素的影响。[2]母亲之所以有这样的错误认知可能是因为她们更相信随着儿童年龄的增长，儿童的体型会呈现均匀分布·[21]
+
+4.2 认知偏差和喂养行为存在相关关系本研究结果显示认知偏差与填鸭式喂养行为呈显著正相关。这说明了低估儿童体重的母亲更容易采取填鸭式的喂养行为，而这种喂养行为主要表现在肥胖儿童群体中。而以往研究表明母亲越是在体重低的儿童群体中越倾向于采取填鸭式喂养行为。[9,2,23,2,25]有这种不同以往研究结果的可能是和我国国情有关，也可能是受地域和我国传统文化的影响。还得出了认知偏差与担心喂养态度呈显著正相关，说明了母亲越是低估子女的体重水平越是产生担心的喂养态度。进一步推理可知，子女的体重水平越超重和肥胖母亲越担心，这与以往的研究结果一致。9.2,2,2,25]
+
+4.3影响儿童肥胖的因素及干预治疗启示本研究表明了影响儿童肥胖的因素有喂养行为和认知偏差。这就提醒了医学专家和保健医生在干预治疗儿童肥胖时要把重点落在家庭环境[中的喂养行为上，以及科学地引导母亲正确认知子女的体重水平，进而帮助母亲采取科学合理的喂养行为和态度。
+
+4.5 本研究的不足与展望本研究不足首先是样本量不够大；[2.38其次是，进行了横断研究，不能分析变量之间的因果关系。[5]要想知道认知偏差与喂养行为之间的因果关系则需要进行纵向研究设计。[9]
+
+研究展望就是希望更多学者在体型认知和喂养行为之间多做研究假设，并且尽量做实验室研究和纵向研究，[5得出认知偏差和喂养行为之间的因果关系，更好地指导医学专家和保健医师在家庭环境中干预儿童肥胖问题。
+
+致谢：感谢中国科学院心理健康重点实验室陈祉妍等导师组的导师们的耐心指导，感谢Eckstein K C （University of Tennessee Health Science Center College of Medicine）免费提供儿童体型图表。
+
+# 参考文献
+
+[1] Ostbye T，Malhotra R,Stroo M,et al.The effect of the home environment on physical activity and dietary intake in preschoolchildren[J]. International Journal of Obesity,2013,37(10):1314-1321.
+
+[2] 王燕，陈姿利，王瑞霞，等．从父母的认识看儿童肥胖防治的重要性[J]．中国临床医生杂志， 2014, 42(11): 40-42.   
+[3] 陈楚琳，孔德辉，翁瑛丽，等．学龄前儿童家长喂养行为/方式相关问卷的研究进展[J]．中国 儿童保健杂志,2015,23(7):717-720.   
+[4] Yilmaz R, Erkorkmaz U, Ozcetin M,et al. How does parents' visual perception of their child's weight status affect their feeding style?[J]. Nutricion Hospitalaria,2013,28(3):741-746.   
+[5] Pai H L,Contento l. Parental perceptions,feeding practices, feeding styles, and level of acculturation of Chinese Americans in relation to their school-age child's weight status☆[J].Appetite,2014, 80(80):174-182   
+[6] 李辉，季成叶，宗心南,等．中国 $_ { 0 \sim 1 8 }$ 岁儿童、青少年体块指数的生长曲线[J]．中华儿科杂志, 2009,47(7):493-498.   
+[7] Cheng-Ye JI. Report on Childhood Obesity in China (1) Body Mass Index Reference for Screening Overweight and Obesity in Chinese School-age Children[J]．生物医学与环境科学:英文版,2005, 18(6):390-400   
+[8] Eckstein K C，Mikhail LM，Ariza AJ，et al.Parents'perceptions of their child's weight and health[J]. Pediatrics, 2006,117(3): pp.681-690.   
+[9] Birch LL，FisherJO，Grimm-Thomas K，et al.Confirmatory factor analysis of the child Feeding Questionnaire: a measure of parental atitudes，beliefs and practices about child feeding and obesity proneness[J]. Appetite,2001,36(3): 201-10.   
+[10] Rand CS.Psychodynamics of obesity.[J].Journal of the American Academy of Psychoanalysis,1978, 6(6):103-15.   
+[11] Baughcum A E, Burklow K A, Deeks C M, et al. Maternal Feeding Practices and Childhood Obesity: A Focus Group Study of Low-income Mothers[J].Archives of Pediatrics & Adolescent Medicine, 1998, 152(10):1010-4.   
+[12] Warschburger P and Kroller K. Maternal perception of weight status and health risks associated with obesity in children[J]. Pediatrics,2009,124(1): 60-68.   
+[13] Maynard LM,Galuska DA, Blanck H M,et al.Maternal Perceptions of Weight Status of Children[J]. Pediatrics,2003,111(5 Part 2): 1226-31.   
+[14] Baughcum AE， Chamberlin LA， Deeks C M，et al. Maternal Perceptions of Overweight Preschool Children[J]. Pediatrics, 2001,106(6): 1380-1386.   
+[15] Rosas LG，Harley K G，Guendelman S，et al. Maternal perception of child weight among Mexicans in California and Mexico[J]. Matern Child Health J, 2010, 14(6): 886-894.   
+[16] Hudson E, Mcgloin A, Mcconnon A.Parental Weight (Mis)Perceptions: Factors Influencing Parents' Ability to Correctly Categorise Their Child’s Weight Status[J]. Matern Child Health Journal,2012, 16(9): 1801-1809.   
+[17] Vanhala M L， Keinänen-Kiukaanniemi S M， Kaikkonen K M， et al. Factors associated with parental recognition of a child's overweight status--a cross sectional study[J]. BMC Public Health，2011, 11(11): 1-7.   
+[18] Wald E R，Ewing LJ， Cluss P，et al.Parental perception of children's weight in a paediatric primary care setting[J]. Child Care Health & Development, 2007,33(6): 738-743.   
+[19] 敬存婷，李廷玉，魏小平．母亲对儿童体型的认知现状及其影响因素[J]．中国儿童保健杂志, 2012, 20(7)   
+[20] 李方，林茜，胡香英,等．家长对学龄期儿童体形认知情况及影响因素[J]．中国公共卫生，2013, 29(9):1249-1253.   
+Jackson J,Strauss C C, Lee AA,et al. Parent's accuracy in estimating child weight status[J]. Addictive Behaviors,1990,15(1):65-68.   
+Boles R E, Nelson T D,Chamberlin L A, et al. Confirmatory factor analysis of the Child Feeding Questionnaire among low-income African American families of preschool children[J]. Appetite, 2010,54(2):402-405.   
+Mulder C, Kain J, Uauy R,et al. Maternal attitudes and child-feeding practices: relationship with the   
+BMl of Chilean children[J]. Nutrition Journal,2009,8(1):478-483.   
+Haycraft EL， Blissett JM.Maternal and Paternal Controlling Feeding Practices: Reliability and   
+Relationships With BMI[J]. Obesity, 2008,16(16):1552-8.   
+Mcphie S, Skouteris H, Daniels L, et al.Maternal correlates of maternal child feeding practices: a   
+systematic review[J]. Maternal & Child Nutrition,2014, 10(1):18-43.

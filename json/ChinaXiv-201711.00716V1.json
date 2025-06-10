@@ -1,0 +1,508 @@
+[
+    {
+        "type": "text",
+        "text": "行距配置方式对夏玉米氮素吸收利用及产量的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "丧建峰 董朋飞 张海红 张竞元 李潮海 \\*来(河南农业大学农学院 郑州 450002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要为确定黄淮南部夏玉米产区机械化生产适宜的行距配置方式，2012一2013年同时在河南省方城县和辉县两个试验点设置大田试验，以高、中、低3种株高类型的玉米杂交种‘先玉 $3 3 5 ^ { \\circ }$ 、‘郑单958'和‘512-4'为材料，设置2个种植密度(低:60000 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ；高：75000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ )、5个行距配置方式 $( 5 0 \\ \\mathrm { c m }$ 、 $6 0 ~ \\mathrm { c m }$ 、 $7 0 ~ \\mathrm { c m }$ ，$8 0 ~ \\mathrm { c m }$ 等行距和 $8 0 \\ { \\mathrm { c m } } { + } 4 0 \\ { \\mathrm { c m } }$ 宽窄行距)，研究了不同株型玉米品种在不同密度和行距配置条件下对氮素吸收利用效率和产量的影响。结果显示，低密度种植条件下，高秆的 $\\cdot _ { \\mathrm { X Y 3 3 5 } } ,$ 和矮秆的‘512-4'均以 $6 0 ~ \\mathrm { c m }$ 等行距处理产量优势明显；中秆的 $\\cdot _ { Z { \\bf D } 9 5 8 } ,$ 在辉县和方城分别以 $6 0 ~ \\mathrm { c m }$ 和 $7 0 \\mathrm { c m }$ 等行距产量最高。在高密度种植条件下,高秆的‘XY335'和中秆的‘ZD958'均以 $6 0 ~ \\mathrm { c m }$ 等行距处理产量最高；而矮秆的‘512-4'则以 $5 0 \\ \\mathrm { c m }$ 等行距种植产量优势明显，但与 $6 0 ~ \\mathrm { c m }$ 等行距处理差异不显著。植株氮积累量随行距的扩大呈先升高后降低的趋势，以60cm 等行距的氮积累量较大，低密度时显著高于 $8 0 ~ \\mathrm { c m }$ 等行距和 $8 0 \\ { \\mathrm { c m } } { + } 4 0 \\ { \\mathrm { c m } }$ 宽窄行距处理，而高密度下与各行距处理差异不显著；不同品种植株氮积累量对行距反应不同，高秆品种在行距间差异不显著，中秆品种 80cm 等行距最低且与其余行距处理差异显著，矮秆品种 $5 0 \\ \\mathrm { c m }$ 和 $6 0 ~ \\mathrm { c m }$ 等行距氮积累量最高且与其余行距差异显著。两个密度种植条件下，籽粒氮积累量和氮素收获指数均随行距的扩大先升高后降低，在 $6 0 ~ \\mathrm { c m }$ 等行距处理达到最大值，并且均显著高于其他行距处理；氮肥偏生产力随行距的扩大呈现先升高后降低的趋势， $6 0 ~ \\mathrm { c m }$ 等行距处理较高，但在低密度下与其他行距处理差异不显著，高密度时与 $8 0 ~ \\mathrm { c m }$ 等行距处理差异显著。与其他行距处理相比, $6 0 ~ \\mathrm { c m }$ 等行距处理具有相对较高的氮素吸收利用效率和产量，能够较好地协调玉米土壤与植株的氮素吸收利用关系，兼顾不同株高类型玉米品种在一定密度范围内获得高产，可作为目前黄淮南部地区夏玉米统一的行距配置方式进行推广。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词　夏玉米　株高　品种　行距　密度　氮素吸收利用　产量中图分类号：S513 文献标识码：A 文章编号:1671-3990(2016)07-0853-11",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of row spacing on nitrogen uptake, nitrogen utilization and yield of summer maize ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHANG Jianfeng, DONG Pengfei, ZHANG Haihong, ZHANG Jingyuan, LI Chaohai (College of Agronomy, Henan Agricultural University, Zhengzhou 45ooo2, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractTo identifytherow spacing suitable for mechanizationof maize production in the southof Huanghuai maizeregion, fieldexperiments wereconductedattwo experimental sites (Fangchengand Huixian)in HenanProvincein 2Ol2and 2013, respectively. Three varieties of hybrid maize with different plant heights (high - ‘Xianyu $_ { 3 3 5 } ,$ ,medium -‘Zhengdan 958’ and dwarf - ‘512-4') were planted under two planting densities (low density - 60 o00 plants $\\cdot \\mathrm { h m } ^ { - 2 }$ and high density - 75 000 plants $\\cdot \\mathrm { h m } ^ { - 2 }$ ）and five row spacings ( $5 0 ~ \\mathrm { c m }$ ， $6 0 ~ \\mathrm { c m }$ ， $7 0 \\ \\mathrm { c m }$ $8 0 ~ \\mathrm { c m }$ ,and $8 0 ~ \\mathrm { c m } + 4 0 ~ \\mathrm { c m }$ ）conditions. The study determined theeffects ofrow spacing andplantingdensityonnitrogen uptake,nitrogenutilizationandyieldofmaize.Theresults showed that grain yield of both‘Xianyu $3 3 5 '$ and $^ { \\cdot } 5 1 2 \\cdot 4 ^ { \\cdot }$ with $6 0 ~ \\mathrm { c m }$ row spacing was obviously higher than those of other row spacings.Also yield of medium height variety‘Zhengdan $9 5 8 ^ { \\circ }$ with $6 0 ~ \\mathrm { c m }$ and $7 0 ~ \\mathrm { c m }$ row spacings was higher than that of others row spacings under low density treatments.The study also showed that under high plant density，grain yield of high-height variety ‘Xianyu $3 3 5 ^ { \\prime }$ and medium-height variety‘Zhengdan $9 5 8 ^ { , }$ with $6 0 \\ \\mathrm { c m }$ row spacing was obviously the highest, followed by dwarf-height variety‘512-4’ with $5 0 ~ \\mathrm { c m }$ row spacing and treatments with other row spacings. Initially, plant nitrogen accumulation increased with increasing row spacing,reached peak level at $6 0 ~ \\mathrm { c m }$ row spacing,and then decreased.Nitrogen accumulation in plant under $6 0 ~ \\mathrm { c m }$ row spacing was significantly higher than that under $8 0 ~ \\mathrm { c m }$ and $8 0 ~ \\mathrm { c m }$ $+ ~ 4 0 ~ \\mathrm { c m }$ row spacings in low planting density treatment, while no significant difference among diferent row spacings under high plantingdensity.Nitrogenaccumulation indifferent maize varieties variedwithdiferentrowspacings.As forhigh-height maize variety,nitrogen aumulation was not diference among different row spacings.For medium-height maize variety, nitrogen accumulation in plant of $8 0 ~ \\mathrm { c m }$ row spacing was significantly decreased compared with that of other row spacings. However, nitrogen accumulation in plants of $5 0 ~ \\mathrm { c m }$ and $6 0 ~ \\mathrm { c m }$ row spacing were obviously higher than that of other row spacings.Seed nitrogen accumulationand nitrogen harvest index initially increased with increasingrow spacing,reached the highest in $6 0 ~ \\mathrm { c m }$ row spacing,and then decreased. Similarity, nitrogen partial factor productivity was increased firstly,and then decreased with increasing of row spacing,and it was significantly higher in $6 0 ~ \\mathrm { c m }$ row spacing treatment than that in 80 cmrow spacing under high density condition,butnoobvious diference was found among diferentrow spacings under low density conditions.Compared with other row spacings,nitrogen utilization eficiencyand grain yield were relatively higher under $6 0 ~ \\mathrm { c m }$ row spacing condition.In conclusion, $6 0 ~ \\mathrm { c m }$ row spacing was the optimal planting pattern for summer maize in the south of Huanghuai maize region. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsSummer maize;Plant height; Variety;Row spacing; Plant density;Nitrogen uptakeandutilization; Grain yield ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着农业机械化的快速发展，生产中对玉米种植方式的标准化提出了更高的要求[1]。在我国黄淮海玉米产区，玉米行距配置不统一，导致了玉米机械收获效率下降，生产成本提高，效益降低[2]。而美国76cm主体定型行距的经验对我国玉米机械化生产有一定的借鉴意义[3]。玉米适宜种植行距受株型、种植模式和生态条件等因素的影响[4-5]，但如果按照种植条件的不同而随机调整种植行距将会大大降低机械作业效率。另外，玉米生长空间的变化也能显著影响玉米对氮素的吸收利用[6-8]。因此，研究不同种植模式下玉米对氮肥的利用效率和统一播种行距，对提高玉米产量、减少土壤污染、降低氮素排放和提高玉米机械化生产效率具有重要意义。综合国内外玉米发展状况，矮秆、耐密、抗逆、适应机械化、资源高效将是未来玉米生产发展的主趋势[3.9]。前人研究表明，提高种植密度是玉米增产的有效途径之-[10]，但密度过高，植株间相互遮挡，植株易早衰、倒伏，最终导致产量下降[11-12]；而在密度一定时,适当调节种植行距能够有效调节地上部与地下部各种资源的分布与利用，缓解高密度对群体生长发育和产量造成的不利影响[13-14]。调控植株生长环境能够影响植株对水肥的利用[15]，对氮肥肥效的影响尤为显著[16]。刘金平等[17]研究表明，相同密度条件下,窄行距土壤硝态氮的残留量高于宽行距处理。Barbieri等[18]研究发现，在施肥一致情况下，窄行距处理的植株氮素吸收和利用效率高于宽行距处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "王宏庭等[19]认为，宽窄行种植方式下的肥料效益与利用效率高于等行距种植。前人就玉米行距配置方式对氮素吸收利用效率虽然做过不少研究，但均与施肥、灌水等栽培措施相结合；而在大田条件下，结合不同株型的品种研究行距配置对氮素吸收利用方面的报道较少。本研究以3个不同株高类型的玉米品种为材料，在2个密度条件下，设置5种行距，在黄淮南部地区研究行距配置对玉米产量和氮素积累利用的影响，筛选出能够兼顾资源高效利用与高产的种植行距，为本地区玉米生产统一行距提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于 2012一2013 年在河南省方城县(北纬$3 3 ^ { \\circ } 1 9 ^ { \\prime }$ ，东经 $1 1 2 ^ { \\circ } 8 9 ^ { \\prime }$ 和辉县(北纬 $3 5 ^ { \\circ } 4 5 ^ { \\prime }$ ，东经$1 1 3 ^ { \\circ } 7 7 ^ { n } )$ 进行。方城试验地土壤为砂姜黑土，质地偏黏，$0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土壤有机质 $1 2 . 8 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，全氮 $0 . 9 7 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ，速效磷 $1 0 . 2 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ，速效钾 $1 8 6 . 3 ~ \\mathrm { m g ^ { - } k g ^ { - 1 } }$ 。辉县试验地土壤为潮土, $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土壤有机质 $1 0 . 5 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ ，全氮 $0 . 8 3 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ ，速效磷 $1 3 . 3 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ ，速效钾$1 7 7 . 4 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "方城县在2012年和2013年的6一9月，平均气温为 $2 5 . 8 8 \\mathrm { ~ \\textdegree C }$ 和 $2 6 . 3 8 \\mathrm { ~ \\ ^ ~ { ~ C ~ } ~ }$ ，降水量为 $4 6 3 . 7 \\ \\mathrm { m m }$ 和$3 5 8 . 3 ~ \\mathrm { m m }$ ；辉县在2012年和2013年的6一9月，平均气温为 $2 5 . 5 ~ \\mathrm { ~ \\textdegree C }$ 和 $2 6 . 6 3 \\mathrm { ~ \\ ^ ~ { \\circ ~ } C ~ }$ ，降水量为 $3 1 5 . 4 \\ \\mathrm { m m }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "和 $3 0 4 . 9 ~ \\mathrm { { m m } _ { \\circ } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据试验需求，选取了3个不同株高的品种进行试验。其中高秆和中秆品种选取了我国种植面积最大的两个玉米杂交种‘先玉 $3 3 5 ^ { \\prime } ( \\mathrm { X Y } 3 3 5 \\$ ，株高约$2 8 0 ~ \\mathrm { c m }$ ，适宜种植密度60000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ )和‘郑单 $9 5 8 ^ { \\circ }$ (ZD958，株高约 $2 5 0 \\mathrm { c m }$ ，适宜种植密度67500株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ）由于自前生产上矮秆、耐密品种较少，故矮秆品种选取了未审定但试验中表现较好的杂交组合 $\\cdot 5 1 2 \\cdot 4 ^ { , }$ (512-4，株高约 $2 2 0 \\mathrm { c m }$ ，适宜种植密度75000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本试验采用3因素裂区试验设计。主区为3个不同株高玉米品种；副区为5种行距配置方式： $5 0 \\ \\mathrm { c m }$ $6 0 ~ \\mathrm { c m }$ 、 $7 0 \\ \\mathrm { c m }$ 、 $8 0 ~ \\mathrm { c m }$ 等行距和 $8 0 \\ \\mathrm { c m } { + } 4 0 \\ \\mathrm { c m }$ 宽窄行；副副区为2个种植密度：60000株 $\\cdot \\mathrm { h } \\mathrm { m } ^ { - 2 }$ 和$7 5 \\ \\mathrm { \\ 0 0 0 }$ 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ，共30个处理。各小区均为6行区,行长 $6 \\mathrm { m } , 3$ 次重复。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "方城县两年均在6月10日播种；辉县2012年于6月12日播种,2013年于6月15日播种，均在9月底收获。施肥量均为纯氮 $2 4 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ， ${ \\bf P } _ { 2 } \\mathrm { O } _ { 5 }$ $1 2 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ $\\mathrm { K } _ { 2 } \\mathrm { O } 1 5 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。磷、钾肥随底肥一次施入。氮肥按 $1 : 1$ 比例在5叶期和9叶期分两次施入。其他田间管理同一般高产田。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 测定项目与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 土壤 $\\bf N O _ { 3 } ^ { - } { \\bf - N }$ 含量测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米成熟期，至少两周内无有效降水和田间灌溉等影响土壤含水量条件时取样，每个小区选3点，于1/2行距处和距离植株基部 $2 5 \\ \\mathrm { c m }$ 处(宽窄行处理的窄行取至1/2行间处)用土钻分别向下取 $0 { \\sim } 2 0 ~ \\mathrm { c m } .$ $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土样，测定土壤含水量，采用注射式流动分析仪测定土壤硝态氮含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 植株养分测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米成熟期，每个小区选取长势一致的3株玉米，分为茎(含鞘)、叶、籽粒和其他共4部分，烘干至恒重后称重，并粉碎、过筛，采用凯氏定氮法测定各部分氮百分含量。植株氮积累和氮肥偏生产力参考Jiang等[8和吕丽华等[20]的计算方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "氮积累量 $( \\mathrm { k g \\cdot h m } ^ { - 2 } ) { = }$ 含氮量 $( \\% ) \\times$ 生物量",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "氮收获指数 $( \\mathrm { N H I } ) { = } \\mathrm { i }$ 籽粒氮积累量/地上部植株总氮量 (2)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "氮肥偏生产力(PPNF， $\\mathbf { k g } { \\cdot } \\mathbf { k g } ^ { - 1 } ) =$ 籽粒产量/施氮量 (3)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 计产 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米成熟期，收获小区中间2行全部果穗，脱粒后称重计产，以 $14 \\%$ 籽粒含水量计算产量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 统计分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本试验的产量数据为方城、辉县两点；其他数据为辉县一点。试验数据利用DPS14.5进行差异显著性检验(LSD 法)，利用SigmaPlot12.5软件制图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1行距配置方式对玉米产量的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图1可见，两年两点的产量平均，高秆品种$\\cdot _ { \\mathrm { X Y 3 3 5 } } ,$ 平均比中秆品种'ZD958'增产 $4 . 7 0 \\%$ ，差异不显著；比低秆品种‘512-4'增产 $7 . 7 4 \\%$ ，差异显著。3个株高类型品种在相同行距配置下，高密度比低密度处理增产 $8 . 2 7 \\%$ ，差异显著。从表1可以看出，产量在品种、密度和行距间均差异极显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高秆品种‘XY335'，低密度下，方城县两年均以$6 0 ~ \\mathrm { c m }$ 行距处理产量最高；2012年与其他行距差异不显著，2013年与宽窄行差异显著。辉县2012年以$6 0 ~ \\mathrm { c m }$ 行距产量最高，与 $7 0 \\ \\mathrm { c m }$ 等行距差异不显著，与其余行距处理均差异显著；2013年则以宽窄行产量最高，与其他行距差异不显著。高密度条件下，两试验点两年均以 $6 0 ~ \\mathrm { c m }$ 行距产量较高，方城县2012年和2013年分别和 $8 0 ~ \\mathrm { c m }$ 和宽窄行处理差异显著；辉县2012年与 $8 0 ~ \\mathrm { c m }$ 行距、宽窄行差异显著，2013年与 $5 0 \\mathrm { c m }$ 和 $8 0 ~ \\mathrm { c m }$ 行距差异显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "中秆品种‘ZD958'，低密度下，方城县两年均以$7 0 \\mathrm { c m }$ 行距处理产量最高，均与 $8 0 ~ \\mathrm { c m }$ 等行距和宽窄行差异显著；辉县两年均以 $6 0 ~ \\mathrm { c m }$ 行距产量最高，2012年与 $5 0 ~ \\mathrm { c m }$ 行距差异显著，2013年与 $8 0 ~ \\mathrm { c m }$ 行距差异显著。高密度下，方城县2012年、2013年分别以 $6 0 ~ \\mathrm { c m }$ 和 $5 0 \\ \\mathrm { c m }$ 行距产量最高，分别与 $5 0 \\ \\mathrm { c m }$ /$8 0 ~ \\mathrm { c m }$ 行距和 $7 0 \\ \\mathrm { c m }$ 、 $8 0 ~ \\mathrm { c m }$ 、宽窄行处理差异显著；辉县两年均以 $6 0 ~ \\mathrm { c m }$ 行距产量最高，均与 $8 0 ~ \\mathrm { c m }$ 行距差异显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "矮秆品种 $^ { \\cdot } 5 1 2 \\cdot 4 ^ { \\cdot }$ ，低密度下，两年、两点均以$6 0 ~ \\mathrm { c m }$ 行距产量最高，在方城县两年分别与 $5 0 \\ \\mathrm { c m }$ 和$8 0 \\mathrm { c m }$ 行距差异显著；在辉县两年分别与 $7 0 \\mathrm { c m }$ （ $8 0 \\mathrm { c m }$ 和 $5 0 ~ \\mathrm { c m }$ 、宽窄行行距差异显著。高密度下，方城县两年均以 $5 0 \\mathrm { c m }$ 等行距产量最高，与宽窄行处理差异显著；辉县2012年以 $6 0 \\mathrm { c m }$ 行距产量最高，与 $8 0 \\ \\mathrm { c m }$ 行距、宽窄行差异显著，2013年以 $6 0 ~ \\mathrm { c m }$ 等行距产量最高，与 $8 0 ~ \\mathrm { c m }$ 行距差异显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 行距配置方式对土壤 $\\mathbf { N O } _ { 3 } ^ { - } \\mathbf { - N }$ 含量的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在辉县对同一土层距行间1/2 处的土壤 $\\mathrm { N O } _ { 3 } ^ { - }$ -N比较发现(表2)，相同处理下的土壤 ${ \\tt N O } _ { 3 } ^ { - } { \\tt - N }$ 向下层移动并富集。相同种植方式下，在 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层中的 ${ \\tt N O } _ { 3 } ^ { - } { \\tt - N }$ 含量，低密度处理分别比高密度高",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/671d6404d09f7b084e991b1873eb9e2aac3c0be8f4c63853116f574e322bfe5e.jpg",
+        "img_caption": [
+            "图1不同行距和种植密度对不同玉米品种产量的影响 Fig.1Effects of diferent row spacings and planting densities on yield of different maize varieties 不同字母表示差异达 $5 \\%$ 显著水平。Values with different letters are significantly different at $P < 0 . 0 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c997520955f9d173649496a426255c99486b48afec4b1276f5c24474ebecba7.jpg",
+        "table_caption": [
+            "表1不同处理方式对玉米产量、土壤氮、植株氮积累量的影响分析 ${ \\bf \\nabla } ^ { \\prime } F _ { \\mathbf { \\eta } }$ 值,Multi ANOVA) ble 1Effects of diferent treatments on yield,soil nitrogen and plant nitrogen accumulation in maize ( $\\boldsymbol { \\cdot } \\boldsymbol { F }$ values,Multi ANOV "
+        ],
+        "table_footnote": [
+            "\\*和\\*\\*分别表示差异达到0.05和0.01显著水平。\\*and \\*\\* indicatesignificant diffrenceat0.05and0.01levels,respectively "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变异来源 Variance source</td><td rowspan=\"2\">产量 Yield</td><td colspan=\"2\">1/2 行距处土壤硝态氮 Soil NOj-N at 1/2 row spacing</td><td colspan=\"2\">距植株25cm处土壤硝态氮 SoilNO-N at 25cm from plant</td><td rowspan=\"2\">植株氮积累量 N in plant</td></tr><tr><td>0~20 cm</td><td>20~40 cm</td><td>0~20 cm</td><td>20~40 cm</td></tr><tr><td>品种Variety (V)</td><td>27.40**</td><td>34.65**</td><td>105.97**</td><td>2.96</td><td>1.65</td><td>704.24**</td></tr><tr><td>密度Density (D)</td><td>22.02*</td><td>25.64**</td><td>91.01**</td><td>8.97*</td><td>4.96</td><td>14.33**</td></tr><tr><td>行距Row spacing (R)</td><td>19.30**</td><td>55.62**</td><td>114.27**</td><td>2.83*</td><td>3.56*</td><td>16.04**</td></tr><tr><td>品种×密度V×D</td><td>0.22</td><td>1.11</td><td>36.99**</td><td>0.30</td><td>0.56</td><td>12.59**</td></tr><tr><td>密度×行距 D×R</td><td>3.07*</td><td>1.35</td><td>0.27</td><td>0.09</td><td>0.01</td><td>0.07</td></tr><tr><td>品种×行距V×R</td><td>0.71</td><td>0.94</td><td>1.61</td><td>0.20</td><td>0.08</td><td>0.18</td></tr><tr><td>品种×密度×行距VxD×S</td><td>1.37</td><td>0.96</td><td>0.95</td><td>0.15</td><td>0.05</td><td>0.36</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c7ebb8c23a9e63e3f97b2f120e66f2d5aac29c4f9d282a2b5ddf4377d15dec9.jpg",
+        "table_caption": [
+            "表2不同种植模式下不同株高的夏玉米品种1/2行距处土壤 $\\mathbf { N O } _ { 3 } ^ { - } \\mathbf { - N }$ 含量(辉县) Table2Soil ${ \\bf N O } _ { 3 } ^ { - }$ -N accumulation at 1/2 ofrow spaces of different summer maize varieties with diferent plant heights under different planting patterns in Huixian County mg:kg-1 "
+        ],
+        "table_footnote": [
+            "不同字母表示差异达 $5 \\%$ 显著水平,下同。Values in each column followed by different letters are significantly different at $P < 0 . 0 5$ . The same below. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土层 Soil layer</td><td rowspan=\"2\">种植密度 Pplants hmity</td><td rowspan=\"2\">行距 Row spacing</td><td colspan=\"2\">XY335</td><td colspan=\"2\">ZD958</td><td colspan=\"2\">512-4</td><td rowspan=\"2\">平均 Average</td></tr><tr><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td></tr><tr><td>0~20</td><td>60 000</td><td>50</td><td>30.12±0.59a</td><td>26.61±0.84a</td><td>30.18±1.05a</td><td>26.04±1.08a</td><td>31.22±0.84a</td><td>26.45±0.34ab</td><td>28.44a</td></tr><tr><td rowspan=\"9\"></td><td rowspan=\"9\"></td><td>60</td><td>30.57±0.76a</td><td>25.75±0.65ab</td><td>29.60±0.94ab</td><td>25.19±0.87a</td><td>31.50±0.17a</td><td>27.17±0.52a</td><td>28.22a</td></tr><tr><td>70</td><td>28.86±0.96ab</td><td>24.48±0.57ab</td><td>29.56±0.64ab</td><td>25.83±0.39a</td><td>30.17±1.21ab</td><td>26.11±1.13ab</td><td>27.72a</td></tr><tr><td>80</td><td>26.84±1.50b</td><td>23.11 ±1.57b</td><td>27.82±0.57b</td><td>23.20±1.32b</td><td>28.42±0.56b</td><td>24.31±1.86b</td><td>26.17b</td></tr><tr><td>80+40</td><td>28.40±0.67ab</td><td>25.50±1.14ab</td><td>29.47±0.82ab</td><td>25.62±0.51a</td><td>30.51±0.33ab</td><td>25.45±0.71ab</td><td>27.78a</td></tr><tr><td>50</td><td>28.25±0.49a</td><td>25.38±0.86a</td><td>29.92±0.78a</td><td>24.56±1.18a</td><td>30.79±0.80a</td><td>26.64±0.37a</td><td>27.59a</td></tr><tr><td>60</td><td>28.26±1.09a</td><td>25.71±0.53a</td><td>30.37±0.49a</td><td>23.50±0.56ab</td><td>30.88±0.64a</td><td>25.59±0.55a</td><td>27.39a</td></tr><tr><td>70</td><td>27.64±0.84a</td><td>23.61±1.19ab</td><td>27.95±1.02b</td><td>23.28±0.70ab</td><td>29.46±0.45ab</td><td>23.75±0.64b</td><td>25.95b</td></tr><tr><td>80</td><td>26.56±0.90b</td><td>21.23±1.39b</td><td>27.09±0.40b</td><td>22.85±0.42b</td><td>28.25±1.15b</td><td>23.0±0.67b</td><td>24.83c</td></tr><tr><td>80+40</td><td>27.91±0.74a</td><td>22.44±1.41b</td><td>28.19±0.51ab</td><td>23.40±0.22ab</td><td>28.76±0.57b</td><td>25.96±0.40a</td><td>26.11b</td></tr><tr><td rowspan=\"9\">20~40</td><td>60000</td><td></td><td>40.40±0.52a</td><td>36.31±0.42a</td><td>42.22±0.76a</td><td>35.02±0.52a</td><td>41.89±0.54a</td><td>37.48±0.87a</td><td>38.89a</td></tr><tr><td></td><td>60</td><td>40.24±0.46a</td><td>36.42±0.39a</td><td>39.43±0.57b</td><td>35.41±0.97a</td><td>42.30±0.61a</td><td>37.92±0.56a</td><td>38.62a</td></tr><tr><td></td><td>70</td><td>38.35±0.47ab</td><td>35.39±0.39ab</td><td>37.72±1.09bc</td><td>33.62±1.02ab</td><td>39.66±0.91ab</td><td>36.48±0.59ab</td><td>36.87b</td></tr><tr><td rowspan=\"5\"></td><td>80</td><td>36.98±0.72b</td><td>33.27±1.23b</td><td>36.19±1.32c</td><td>31.45±1.06b</td><td>37.49±1.33b</td><td>35.73±0.41b</td><td>36.87c</td></tr><tr><td>80+40</td><td>38.17±1.24ab</td><td>35.40±0.45ab</td><td>38.00±1.26b</td><td>34.41±1.30a</td><td></td><td>39.49 ±0.51ab 36.59±0.51ab</td><td>37.01b</td></tr><tr><td>50</td><td>36.86±0.54a</td><td>33.44±0.49a</td><td>40.48±1.36a</td><td>34.25±1.14a</td><td>40.97±0.64a</td><td>34.36±0.66a</td><td>36.73a</td></tr><tr><td>60</td><td>36.95±0.60a</td><td>33.32±0.38a</td><td>38.43±1.05ab</td><td>34.80±0.55a</td><td>39.63±0.42ab</td><td>34.46±0.36a</td><td>36.26a</td></tr><tr><td>70</td><td>35.05±1.31ab</td><td>31.38±1.30ab</td><td>36.67±0.55b</td><td>33.15±0.73ab</td><td>38.19±1.29ab</td><td>33.12±0.32ab</td><td>34.59b</td></tr><tr><td></td><td>80</td><td>34.31±1.24b</td><td>28.41±1.21b</td><td>35.13±1.19b</td><td>30.89±1.14b</td><td>36.78±0.64b</td><td>31.68±0.62b</td><td>32.87c</td></tr><tr><td></td><td></td><td>80+40</td><td>35.89±0.77ab</td><td>30.68±0.51ab</td><td>36.85±0.38b</td><td>31.86±0.94b</td><td>39.05±1.04ab</td><td>32.32±0.97ab</td><td>34.44b</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$4 . 7 \\%$ 和 $7 . 1 \\text{‰}$ 个品种综合比较，在两种密度下，不同土层的土壤 ${ \\mathsf { N O } } _ { 3 } ^ { - } { \\mathsf { - N } }$ 含量均随行距扩大逐渐降低(宽窄行除外)。行距间比较发现,3个品种两年平均，在 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层低密度条件下, $5 0 \\ \\mathrm { c m }$ ！ $6 0 ~ \\mathrm { c m }$ 、70 cm行距和宽窄行处理之间均差异不显著，但均和 $8 0 \\ \\mathrm { c m }$ 行距差异显著；高密度处理条件下， $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $2 0 \\sim$ $4 0 \\ \\mathrm { c m }$ 土层的两个密度中，均表现为 $5 0 ~ \\mathrm { c m }$ 、 $6 0 \\ \\mathrm { c m }$ 行距差异不显著，但均和 $7 0 ~ \\mathrm { c m }$ 、 $8 0 ~ \\mathrm { c m }$ 、宽窄行处理差异显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同一土层距植株 $2 5 ~ \\mathrm { c m }$ 处的土壤 $N O _ { 3 } ^ { - } { - } N$ 含量（表3)具有同1/2行间处相似的变化趋势，3个株高类型品种在不同密度下，土壤 $N O _ { 3 } ^ { - } { - } N$ 随行距扩大逐渐降低(宽窄行除外)。行距间比较,3个品种两年平均，在$0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层，低密度条件下 $5 0 ~ \\mathrm { c m }$ 和 $6 0 ~ \\mathrm { c m }$ 行距差异不显著，但二者均和 $8 0 \\ \\mathrm { c m }$ 行距差异显著；在高密度条件下， $5 0 ~ \\mathrm { c m }$ 行距和其他行距处理间差异显著，但其余4个行距处理间差异不显著。在 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层中，在低密度和高密度条件下均表现为 $5 0 ~ \\mathrm { c m }$ 和 $6 0 ~ \\mathrm { c m }$ 间差异不显著，但两者均和其余行距处理差异显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 行距配置方式对玉米地上部氮素吸收利用的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 行距配置方式对玉米植株氮积累量的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对成熟期单株氮积累量比较发现(表4)，不同品种综合比较，高密度条件下平均氮素积累量比低密度处理高 $8 . 2 4 \\%$ ，且差异显著。相同密度条件下，3个品种两年的单株氮积累量平均值均以 $6 0 \\ \\mathrm { c m }$ 等行距处理最高，且在低密度条件下与 $8 0 \\ \\mathrm { c m }$ 和宽窄行处理比较差异显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "高秆品种‘XY335'的单株氮积累量在行距间差异不显著。中秆品种‘ZD958'在低密度下,2012年各行距处理间单株氮积累量差异不显著，2013年 $6 0 ~ \\mathrm { c m }$ 等行距处理与 $8 0 ~ \\mathrm { c m }$ 等行距处理差异显著。高密度下，2012年, $5 0 \\ \\mathrm { c m }$ 、 $6 0 ~ \\mathrm { c m }$ 和 $7 0 \\mathrm { c m }$ 等行距处理间差异不显著，但均显著高于 $8 0 ~ \\mathrm { c m }$ 等行距和宽窄行处理；2013年， $6 0 ~ \\mathrm { c m }$ 行距与 $8 0 ~ \\mathrm { c m }$ 行距差异显著，与其他行距差异不显著。矮秆品种‘512-4'在低密度下,2012年和2013年均表现为 $6 0 ~ \\mathrm { c m }$ 行距与 $5 0 ~ \\mathrm { c m }$ 差异不显著，但均显著高于其他行距处理；高密度下，",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f16254620c753dd06528dec907e0699facc6f028064b63a32898df364a9c26ce.jpg",
+        "table_caption": [
+            "表3不同种植模式下不同株高的夏玉米品种行间距玉米 ${ 2 5 \\mathrm { \\ c m } }$ 处土壤 $\\mathbf { N O } _ { 3 } ^ { - } \\mathbf { - N }$ 含量(辉县) Table3Soil ${ \\bf N O } _ { 3 } ^ { - }$ -N accumulation at $2 5 \\ \\mathrm { c m }$ from plant of different summer maize varieties with different plant heights under different planting patterns in Huixian mg:kg-1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土层</td><td rowspan=\"2\">种植密度 Soiler PayRoin</td><td rowspan=\"2\">行距</td><td colspan=\"2\">XY335</td><td colspan=\"2\">ZD958</td><td colspan=\"2\">512-4</td><td rowspan=\"2\">平均 Average</td></tr><tr><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td></tr><tr><td>0~20</td><td>60000</td><td>50</td><td>30.12±0.59a</td><td>26.61±0.84a</td><td>30.18±1.05a</td><td>26.04±1.08a</td><td>31.22±0.84a</td><td>26.45±0.34ab</td><td>28.44a</td></tr><tr><td></td><td></td><td>60</td><td>29.71±0.51a</td><td>26.76±0.49a</td><td>28.78±0.53b</td><td>25.25±1.27ab</td><td>30.96±0.57ab</td><td>26.45±0.71a</td><td>27.99ab</td></tr><tr><td></td><td></td><td>70</td><td>29.87±0.90a</td><td>24.40±0.72b</td><td>28.45±0.46b</td><td>24.53±1.10b</td><td>31.13±1.19ab</td><td>26.19±0.73a</td><td>27.43b</td></tr><tr><td></td><td></td><td>80</td><td>28.21±0.83b</td><td>24.56±0.89b</td><td>27.59±0.78b</td><td>23.06±1.21b</td><td>28.93±1.13b</td><td>25.59±0.96a</td><td>26.32c</td></tr><tr><td></td><td></td><td>80+40</td><td>29.88±0.70a</td><td>26.55±0.77a</td><td>28.97±0.95b</td><td>24.02±1.14b</td><td>30.53±0.78b</td><td>25.45±0.95a</td><td>27.29b</td></tr><tr><td></td><td>75 000</td><td>50</td><td>28.25±0.49a</td><td>25.38±0.86a</td><td>29.92±0.78a</td><td>24.56±1.18a</td><td>30.79±0.80a</td><td>26.64±0.37a</td><td>27.59a</td></tr><tr><td></td><td></td><td>60</td><td>28.32±0.35a</td><td>24.04±0.41ab</td><td>27.82±0.23b</td><td>22.53±0.79b</td><td>29.69±0.52ab</td><td>25.16±1.15ab</td><td>26.21b</td></tr><tr><td></td><td></td><td>70</td><td>27.40±0.39b</td><td>24.15±0.44ab</td><td>27.75±0.40b</td><td>22.62±0.26b</td><td>28.41±0.89b</td><td>25.73±0.86ab</td><td>26.01b</td></tr><tr><td></td><td></td><td>80</td><td>27.02±0.19b</td><td>23.07±1.22b</td><td>27.39±0.71b</td><td>23.28±0.50ab</td><td>28.19±1.18b</td><td>23.13±1.05b</td><td>25.35b</td></tr><tr><td>20~40</td><td></td><td>80+40</td><td>28.48±0.40a</td><td>21.80±0.21c</td><td>27.93±0.40b</td><td>24.04±0.78a</td><td>29.26±0.80b</td><td>24.2±1.01b</td><td>25.97b</td></tr><tr><td></td><td>60000</td><td>50</td><td>40.40±0.52a</td><td>36.31±0.42a</td><td>42.22±0.76a</td><td>35.02±0.52a</td><td>41.89±0.54a</td><td>37.48±0.87a</td><td>38.89a</td></tr><tr><td></td><td></td><td>60</td><td>39.24±10.15ab</td><td>36.01±0.71a</td><td>40.43±1.10a</td><td>34.28±1.23a</td><td>41.30±0.77a</td><td>36.58±1.32a</td><td>37.97a</td></tr><tr><td></td><td></td><td>70</td><td>37.35±1.07b</td><td>32.65±0.30c</td><td>37.72±0.91b</td><td>34.43±0.74a</td><td>38.66±1.04ab</td><td>34.84±0.47b</td><td>35.94b</td></tr><tr><td></td><td></td><td>80</td><td>36.98±1.13b</td><td>32.75±0.16c</td><td>36.19±1.11b</td><td>30.75±1.16b</td><td>37.49±1.02b</td><td>34.01±1.13b</td><td>34.76c</td></tr><tr><td></td><td></td><td>80+40</td><td>38.17±1.04b</td><td>34.87±0.33b</td><td>38.00±1.21b</td><td>32.11±0.62ab</td><td>39.49±0.96ab</td><td>34.92±0.74b</td><td>36.13b</td></tr><tr><td></td><td>75 000</td><td>50</td><td>36.86±0.54a</td><td>33.44±0.49a</td><td>40.48±1.36a</td><td>34.25±1.14a</td><td>40.97±0.64a</td><td>34.36±0.66a</td><td>36.73a</td></tr><tr><td></td><td></td><td>60</td><td>37.95±0.97a</td><td>33.52±0.29a</td><td>38.43±0.45b</td><td>33.80±0.80a</td><td>39.63±1.28ab</td><td>34.57±0.92a</td><td>36.32a</td></tr><tr><td></td><td></td><td>70</td><td>35.05±1.25b</td><td>30.91±0.34b</td><td>36.67±1.02c</td><td>32.68±0.40ab</td><td>38.19±0.70ab</td><td>32.40±0.84b</td><td>34.32c</td></tr><tr><td></td><td></td><td>80</td><td>34.81±0.46b</td><td>30.21±1.34b</td><td>35.13±0.94c</td><td>31.81±0.33b</td><td>36.78±1.22b</td><td>32.09±1.17b</td><td>33.47d</td></tr><tr><td></td><td></td><td>80+40</td><td>35.89±0.49b</td><td>31.85±1.31b</td><td>36.85±0.43c</td><td>32.71±0.40ab</td><td>39.05±1.13ab</td><td>33.30±0.68ab</td><td>34.94b</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/822f20af5e8c7148282d9886afa25cc75f197ecdb45f0b3bc966de211d6af266.jpg",
+        "table_caption": [
+            "表4不同种植模式下不同株高的夏玉米品种植株氮积累量(辉县) Table4PlantNaccumulatioofdierentsumeraevarietieswithdieretplantheightsunderdieretplantingpattsinHuixian kg·hm-2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">种植密度 Plants -hmity</td><td rowspan=\"2\">行距 Row.smacing</td><td colspan=\"2\">XY335</td><td colspan=\"2\">ZD958</td><td colspan=\"2\">512-4</td><td rowspan=\"2\">平均 Average</td></tr><tr><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td></tr><tr><td>60 000</td><td>50</td><td>178.16±1.41ab</td><td>186.80±1.41ab</td><td>153.91±3.18a</td><td>166.04±2.66ab</td><td>127.72±2.15a</td><td>133.92±2.06ab</td><td>157.76ab</td></tr><tr><td></td><td>60</td><td>181.42±1.48a</td><td>190.22±2.58a</td><td>155.67±2.59a</td><td>168.76±1.78a</td><td>130.94±2.69a</td><td>135.58±2.16a</td><td>160.43a</td></tr><tr><td></td><td>70</td><td>175.43±1.94ab</td><td>183.95±2.48b</td><td>153.79±4.62a</td><td>164.31±3.78ab</td><td>122.30±3.53b</td><td>128.25±1.66b</td><td>154.67ab</td></tr><tr><td></td><td>80</td><td>173.71±3.56b</td><td>182.14±2.48b</td><td>152.81±1.95a</td><td>160.25±4.16b</td><td>119.81±3.45bc</td><td>125.68±2.80b</td><td>152.40b</td></tr><tr><td></td><td>80+40</td><td>172.79±2.15b</td><td>182.38±4.85b</td><td>151.75±1.77a</td><td>162.74±2.60ab</td><td>116.89±3.99c</td><td>126.32±1.78b</td><td>152.14b</td></tr><tr><td>75 000</td><td>50</td><td>187.80±1.89a</td><td>188.43±6.13a</td><td>177.99±6.06a</td><td>188.96±2.99a</td><td>136.42±3.31a</td><td>146.51±6.89a</td><td>171.02a</td></tr><tr><td></td><td>60</td><td>189.75±3.19a</td><td>190.61±6.62a</td><td>179.02±7.83a</td><td>189.14±3.28a</td><td>140.11±7.90a</td><td>147.08±4.56a</td><td>172.62a</td></tr><tr><td></td><td>70</td><td>185.47±4.96a</td><td>186.12±4.52a</td><td>175.32±7.28a</td><td>183.90±6.48ab</td><td>135.19±5.61a</td><td>141.75±6.30a</td><td>167.96a</td></tr><tr><td></td><td>80</td><td>183.65±5.39a</td><td>184.97±7.23a</td><td>166.97±6.33b</td><td>179.04±7.71b</td><td>134.35±4.40a</td><td>140.80±6.91a</td><td>164.98a</td></tr><tr><td></td><td>80+40</td><td>184.42±4.11a</td><td>185.21±8.27a</td><td>164.68±8.89b</td><td>183.64±6.39ab</td><td>128.51±1.62b</td><td>142.77±6.94a</td><td>164.87a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2012年与宽窄行差异显著，与其他行距处理差异不显著，2013年不同行距处理间差异均不显著。由表1可见，玉米单株氮素积累量在品种、行距和密度等不同种植方式间均差异显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2行距配置方式对籽粒氮积累量的影响成熟期籽粒氮积累量(表5)，不同密度间比较，高密度比低密度处理高 $3 . 7 \\%$ ，但差异不显著。各品种综合比较，两个密度下，两年均以 $6 0 \\ \\mathrm { c m }$ 行距最高，两种密度下与其他行距比较均差异显著。两年平均, $6 0 \\ \\mathrm { c m }$ 在低密度和高密度下分别比 $5 0 \\mathrm { c m }$ 、 $7 0 \\mathrm { c m }$ /$8 0 ~ \\mathrm { c m }$ 、宽窄行高 $9 . 8 \\%$ 、 $1 7 . 0 \\%$ 、 $2 1 . 1 \\%$ 、 $1 6 . 4 \\%$ 和$8 . 2 \\%$ 、 $1 4 . 4 \\%$ 、 $2 6 . 0 \\%$ 、 $1 7 . 2 \\text{‰}$ （204",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecoagri.ac.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fafbb5df6eb98c5d7594c093409eba0e3755c774701bcabc34cee18b018d2812.jpg",
+        "table_caption": [
+            "表5不同种植模式下不同株高的夏玉米品种籽粒氮积累量(辉县)Table5GrainNaccumulationofdierentsummermaizevarietieswithdiferentplantheightsunderdiferentplantingpatesinHuixian$ { \\mathrm { k g } } \\cdot  { \\mathrm { h m } } ^ { - 2 }$ （20"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">种植密度 Plantd-enmity</td><td rowspan=\"2\">行距 Row spacing</td><td colspan=\"2\">XY335</td><td colspan=\"2\">ZD958</td><td colspan=\"2\">512-4</td><td rowspan=\"2\">平均 Average</td></tr><tr><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td></tr><tr><td>60 000</td><td>50</td><td>144.36±3.55b</td><td>137.56±3.54b</td><td>122.65±4.98b</td><td>118.37±5.12b</td><td>95.93±3.03b</td><td>94.41±4.31b</td><td>118.88b</td></tr><tr><td></td><td>60</td><td>156.60±1.66a</td><td>152.88±4.65a</td><td>136.05±5.25a</td><td>127.66±3.80a</td><td>106.40±1.96a</td><td>103.89±3.10a</td><td>130.58a</td></tr><tr><td></td><td>70</td><td>139.34±3.08bc</td><td>133.92±5.97b</td><td>115.43±5.62c</td><td>108.00±4.16c</td><td>88.64±2.99c</td><td>84.48±1.71c</td><td>111.64 c</td></tr><tr><td></td><td>80</td><td>127.35±4.31d</td><td>118.16±4.64d</td><td>109.94±4.58d</td><td>104.76±3.47c</td><td>79.98±3.08d</td><td>78.29±1.47 d</td><td>103.08d</td></tr><tr><td>75 000</td><td>80+40</td><td>137.65±3.43c</td><td>127.79±5.55c</td><td>124.37±4.49b</td><td>118.43±5.12b</td><td>85.30±4.34c</td><td>81.03±4.57cd</td><td>112.43c</td></tr><tr><td></td><td>50</td><td>144.04±4.47b</td><td>144.13±6.01b</td><td>132.43±4.64b</td><td>126.67±4.18b</td><td>102.30±4.36b</td><td>96.59±3.47 b</td><td>124.36b</td></tr><tr><td></td><td>60</td><td>160.63±4.72a</td><td>153.09±4.47a</td><td>144.67±3.92a</td><td>136.83±3.47a</td><td>109.60±3.87a</td><td>102.25±4.89a</td><td>134.51a</td></tr><tr><td></td><td>70</td><td>140.63±4.75bc</td><td>139.29±2.19c</td><td>126.30±6.46c</td><td>120.32±5.96c</td><td>89.41±5.49d</td><td>89.61±3.94 c</td><td>117.59c</td></tr><tr><td></td><td>80</td><td>129.51±5.11d</td><td>120.06±4.22d</td><td>114.24±4.49d</td><td>105.32±3.79d</td><td>87.01±3.26d</td><td>84.17±2.19 d</td><td>106.72d</td></tr><tr><td></td><td>80+40</td><td>136.10±3.07c</td><td>129.70±4.89c</td><td>127.20±5.02bc</td><td>115.97±2.40c</td><td>94.59±3.29c</td><td>84.95±1.28d</td><td>114.75c</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 行距配置方式对氮素收获指数的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对成熟期氮素收获指数比较发现(表6)，低密度比高密度平均高 $5 . 1 8 \\%$ ，且差异显著。同一密度下，各品种综合比较，两年平均均以 $6 0 ~ \\mathrm { c m }$ 行距最高，且与其他行距比较差异显著。在低密度和高密度条件下， $6 0 ~ \\mathrm { c m }$ 行距与其他行距比较均差异显著，分别比 $5 0 \\ \\mathrm { c m }$ 、 $7 0 \\ \\mathrm { c m }$ 、 $8 0 ~ \\mathrm { c m }$ 、宽窄行高 $8 . 0 \\%$ 、 $12 . 5 \\%$ /$1 9 . 1 \\%$ 、 $1 1 . 0 \\%$ 和 $6 . 5 \\%$ 、 $1 1 . 6 \\%$ 、 $20 . 3 \\%$ 、 $1 3 . 2 \\% _ { \\textmd { c } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/dcdd4d5e3a8cc5453c6fa0f27066e21217b4e65ced3fe41058d0a510b51e0d63.jpg",
+        "table_caption": [
+            "表6不同种植模式下不同株高的夏玉米品种氮收获指数(辉县)Table6Nharvest indexofdifferent summer maize varietieswithdiferentplantheights underdifferent planting pattrns inF"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">种植密度 Pplant demity</td><td rowspan=\"2\">行距 Row cpmcing</td><td colspan=\"2\">XY335</td><td colspan=\"2\">ZD958</td><td colspan=\"2\">512-4</td><td rowspan=\"2\">平均 Average</td></tr><tr><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td></tr><tr><td>60000</td><td>50</td><td>0.77±0.01b</td><td>0.77±0.02b</td><td>0.74±0.02b</td><td>0.77±0.02b</td><td>0.72±0.02b</td><td>0.74±0.02b</td><td>0.75b</td></tr><tr><td></td><td>60</td><td>0.82±0.01a</td><td>0.84±0.03a</td><td>0.81±0.01a</td><td>0.82±0.01a</td><td>0.78±0.02a</td><td>0.79±0.01a</td><td>0.81a</td></tr><tr><td></td><td>70</td><td>0.76±0.02b</td><td>0.76±0.02b</td><td>0.70±0.03c</td><td>0.70±0.03c</td><td>0.69±0.02c</td><td>0.69±0.03c</td><td>0.72c</td></tr><tr><td></td><td>80</td><td>0.70±0.02c</td><td>0.68±0.02c</td><td>0.69±0.02c</td><td>0.69±0.03c</td><td>0.64±0.01d</td><td>0.65±0.02d</td><td>0.68d</td></tr><tr><td>75 000</td><td>80+40</td><td>0.75±0.03b</td><td>0.74±0.01b</td><td>0.76±0.01b</td><td>0.78±0.02b</td><td>0.68±0.01c</td><td>0.69±0.02c</td><td>0.73bc</td></tr><tr><td></td><td>50</td><td>0.74±0.02b</td><td>0.77±0.02b</td><td>0.70±0.01b</td><td>0.71±0.02b</td><td>0.70±0.02b</td><td>0.71±0.02a</td><td>0.72b</td></tr><tr><td></td><td>60</td><td>0.81±0.01a</td><td>0.81±0.02a</td><td>0.77±0.02a</td><td>0.76±0.03a</td><td>0.75±0.03a</td><td>0.73±0.03a</td><td>0.77a</td></tr><tr><td></td><td>70</td><td>0.72±0.02bc</td><td>0.75±0.02b</td><td>0.69±0.02b</td><td>0.69±0.02b</td><td>0.63±0.01cd</td><td>0.66±0.01b</td><td>0.69c</td></tr><tr><td></td><td>80</td><td>0.66±0.01d</td><td>0.65±0.01d</td><td>0.64±0.01c</td><td>0.63±0.01c</td><td>0.62±0.01d</td><td>0.63±0.01c</td><td>0.64d</td></tr><tr><td></td><td>80+40</td><td>0.69±0.02c</td><td>0.70±0.01c</td><td>0.69±0.02b</td><td>0.70±0.02b</td><td>0.66±0.02c</td><td>0.66±0.02b</td><td>0.68c</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.4行距配置方式对氮肥偏生产力的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对氮肥偏生产力比较发现(表7)，高密度处理平均比低密度处理高 $7 . 7 9 \\%$ ，且差异显著。同一密度下,不同品种综合比较，两年平均值均以 $6 0 ~ \\mathrm { c m }$ 行距最高。低密度条件下，各行距处理间差异不显著；高密度条件下， $6 0 ~ \\mathrm { c m }$ 行距与 $8 0 ~ \\mathrm { c m }$ 比较差异显著，与其他行距比较差异均不显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4行距配置方式、产量与氮素吸收利用特性的相关性分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "各因素间的相关性分析发现(表8)，玉米产量与地上部植株氮积累量、籽粒氮积累量和N收获指数间存在显著或极显著的正相关关系，而与行间中部土壤中的 ${ \\mathsf { N O } } _ { 3 } ^ { - } { \\mathsf { - N } }$ 含量存在一定的负相关；种植行距与氮收获指数、行间 ${ \\tt N O } _ { 3 } ^ { - } { \\tt - N }$ 含量存在显著的负相关。可见，与窄行距相比，宽行距氮素吸收利用效率较低，适当缩小种植行距能够促进不同株高类型品种在不同密度条件下氮素吸收利用效率的提高，增加群体产量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随着玉米机械化生产的发展，生产中亟需统一播种行距，提高生产效率。在密度一定的条件下，合理的行距配置有利于构建良好的冠层结构，提高玉米产量[20]。目前生产中的玉米品种还是以‘XY335'和‘ZD958'为代表的高、中秆株型为主，但随着玉米机械化生产的发展，会逐渐向耐密、抗倒、矮秆的品种过渡。在本试验中，不同株高的3个品种对密度和行距的反应有明显差异。在低密度条件下，高秆的‘XY335'和矮秆的'512-4'均以 $6 0 ~ \\mathrm { c m }$ 等行距处理产量优势明显；中秆的‘ZD958'在辉县和方城分别以$6 0 ~ \\mathrm { c m }$ 和 $7 0 \\ \\mathrm { c m }$ 产量最高。在高密度种植条件下，高秆的‘XY335'和中秆的‘ZD958'均以 $6 0 ~ \\mathrm { c m }$ 等行距处理产量最高；而矮秆的‘512-4'则以 $5 0 ~ \\mathrm { c m }$ 等行距种植产量优势明显，但和 $6 0 ~ \\mathrm { c m }$ 等行距处理差异不显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/60d020931b5f4dce22e8241bb9f85e9dc53cd79ae0625c1aa2781dbf1e3193dc.jpg",
+        "table_caption": [
+            "表7不同种植模式下不同株高的夏玉米品种的氮肥偏生产力(辉县) Table7Partial productivityofNfertilizer (PPNF)ofdiferentsummermaizevarieties withdiferentplantheightsunderdierent planting patterns in Huixian kg·kg-1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">种植密度 Plant density (plants:hm-2)</td><td rowspan=\"2\">行距 Row spacing (cm)</td><td colspan=\"2\">XY335</td><td colspan=\"2\">ZD958</td><td colspan=\"2\">512-4</td><td rowspan=\"2\">平均 Average</td></tr><tr><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td></tr><tr><td>60000</td><td>50</td><td>45.40±0.47ab</td><td>40.20±0.85a</td><td>42.07±0.43a</td><td>36.92±0.79b</td><td>42.20±0.54a</td><td>39.04±1.20b</td><td>40.97a</td></tr><tr><td></td><td>60</td><td>47.48±0.95a</td><td>40.90±1.19a</td><td>43.75±1.83a</td><td>38.77±1.02a</td><td>42.99±1.12a</td><td>40.46±0.37a</td><td>42.39a</td></tr><tr><td></td><td>70</td><td>47.15±0.96ab</td><td>40.84±0.90a</td><td>42.97±1.54a</td><td>37.48±1.12ab</td><td>41.30±0.90ab</td><td>40.03±0.48b</td><td>41.63a</td></tr><tr><td></td><td>80</td><td>44.83±0.54b</td><td>40.25±0.94a</td><td>42.43±1.65a</td><td>35.79±1.12b</td><td>40.81±1.04b</td><td>39.91±1.12b</td><td>40.67a</td></tr><tr><td>75000</td><td>80+40</td><td>45.39±2.46ab</td><td>41.21±0.47a</td><td>42.94±0.45a</td><td>36.07±0.77b</td><td>41.72±0.99ab</td><td>39.39±1.53b</td><td>41.12a</td></tr><tr><td></td><td>50</td><td>48.55±0.55a</td><td>43.29±1.56b</td><td>44.15±0.96a</td><td>41.54±1.10a</td><td>46.09±0.65a</td><td>42.34±0.95a</td><td>44.33a</td></tr><tr><td></td><td>60</td><td>48.43±0.73a</td><td>46.30±1.54a</td><td>44.56±0.99a</td><td>41.85±0.41a</td><td>46.36±0.50a</td><td>41.91±1.20a</td><td>44.90a</td></tr><tr><td></td><td>70</td><td>48.05±1.01ab</td><td>45.64±0.81a</td><td>43.63±1.03a</td><td>41.64±0.92a</td><td>45.23±1.24ab</td><td>40.74±1.17ab</td><td>44.16a</td></tr><tr><td></td><td>80</td><td>45.82±1.78b</td><td>43.60±0.34b</td><td>42.88±2.31a</td><td>38.81±1.02b</td><td>43.58±0.91b</td><td>39.89±1.04b</td><td>42.43b</td></tr><tr><td></td><td>80+40</td><td>45.75±1.65b</td><td>45.05±0.93ab</td><td>43.74±2.44 a</td><td>40.14±1.09ab</td><td>42.93±1.63b</td><td>41.51±0.94a</td><td>43.19ab</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0a9aee2d51896a63ff248622aedd985d9ebd65488d94cc6fb4b87a7ed7e291f.jpg",
+        "table_caption": [
+            "表8夏玉米行距配置方式、产量与氮素吸收利用特性的相关性分析(辉县,2012年和2013年)Table8Corelationanalyses among rowspacing,yield and nitrogen absorption andutilization eficiencyinsummer maize inHuixian in 2012 and 2013"
+        ],
+        "table_footnote": [
+            "\\*和\\*\\*分别表示在 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 水平显著。\\* and \\*\\* indicate significant correlation at $P < 0 . 0 5$ and $P < 0 . 0 1$ ,respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">产量</td><td rowspan=\"2\">积</td><td rowspan=\"2\"></td><td rowspan=\"2\">摄数</td><td rowspan=\"2\"></td><td rowspan=\"2\">武</td><td rowspan=\"2\"></td></tr><tr><td></td></tr><tr><td>行距 Row spacing</td><td>1.00</td><td>-0.26</td><td>-0.11</td><td>-0.35</td><td>-0.67*</td><td>-0.26</td><td>-0.84**</td><td>-0.82**</td></tr><tr><td>产量Yield 植株氮积累量</td><td>-0.26</td><td>1.00</td><td>0.56*</td><td>0.69**</td><td>0.67*</td><td>1.00**</td><td>0.03</td><td>-0.13</td></tr><tr><td>N in plant 籽粒氮积累量</td><td>-0.11</td><td>0.56*</td><td>1.00</td><td>0.93**</td><td>0.51</td><td>0.56*</td><td>-0.41</td><td>-0.47</td></tr><tr><td>N in grain 氮收获指数</td><td>-0.35</td><td>0.69**</td><td>0.93**</td><td>1.00</td><td>0.78**</td><td>0.69**</td><td>-0.16</td><td>-0.24</td></tr><tr><td>N harvest index 氮肥偏生产力</td><td>-0.67*</td><td>0.67*</td><td>0.51</td><td>0.78**</td><td>1.00</td><td>0.67*</td><td>0.33</td><td>0.25</td></tr><tr><td>Partial productivity of N fertilizer 土壤 NOj-N</td><td>-0.26</td><td>1.00**</td><td>0.56*</td><td>0.69**</td><td>0.67*</td><td>1.00</td><td>0.03</td><td>-0.13</td></tr><tr><td>(25 cm) Soil NO3-N at 25 cm from plant 土壤 NO3-N</td><td>-0.84**</td><td>0.03</td><td>-0.41</td><td>-0.16</td><td>0.33</td><td>0.03</td><td>1.00</td><td>0.97**</td></tr><tr><td>(1/2行距) Soil NO3-N at 1/2 of row spacing</td><td>-0.82**</td><td>-0.13</td><td>-0.47</td><td>-0.24</td><td>0.25</td><td>-0.13</td><td>0.97**</td><td>1.00</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作物对土壤氮素的吸收量是反映其生长状况的重要指标[15]。 $\\mathrm { N O } _ { 3 } ^ { - }$ -N是能够被植物直接吸收利用的氮素形态，土壤中积累量的多少显著影响肥效。土壤中的 $\\mathrm { N O } _ { 3 } ^ { - }$ -N依靠水分在土壤中移动[21]，密度一定时，随行距扩大，土壤无效蒸发增大，土壤含水量降低[22]，不利于土壤硝态氮的存留[21]。刘金平等[17]研究发现，在施肥一致的情况下，宽行距不利于土壤养分的积累。本研究结果显示，相同密度条件下,随行距扩大，玉米行间土壤 $\\mathrm { N O } _ { 3 } ^ { - }$ -N含量逐渐降低，与前人研究结果一致，说明适当缩小行距对于提高氮肥的利用率是有利的。但是，玉米的生长发育受到地上、地下等多种因素的影响。行距过小，不利于地上部光、热资源的合理布局，降低光合效率[10]。根据本试验和前期研究的结果[10,23]，不同株高类型的品种植株氮吸收量在行距间有差异，主要表现为高秆品种对行距不敏感；中秆品种在宽行距下氮吸收量较低；矮秆品种在窄行距下氮吸收量较高。可见，缩小行距有利于增加中、低秆品种对氮素的吸收。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "提高地上部氮素的积累与利用有利于产量的形成与提高，而田间行距配置方式能够影响植株对氮的吸收利用[3]，在低氮情况下，窄行距能够显著增加植株氮素积累[24]，而较高的氮素积累量能促进玉米群体产量的提高[25-26]。本研究结果表明, $8 0 ~ \\mathrm { c m }$ 宽行距和宽窄行处理的氮素积累量较其他行距处理最低。氮肥偏生产力是评价肥料利用效率的重要指标，而氮素收获指数(NHI)是衡量作物体内氮素向籽粒转移的重要参数，反映氮素在植株体内的分配情况[27],营养器官中的氮素向穗部转运有利于氮素利用效率的提高[28]。前人研究表明，宽行距不利于植株氮素的吸收积累，且氮素回收率和利用效率等均低于窄行距处理[18]，窄行距显著提高了氮素收获指数、利用效率和转运效率以及群体产量[8.29]。本研究结果表明，与宽行距处理相比， $5 0 { \\sim } 7 0 ~ \\mathrm { c m }$ 窄行距处理氮素向籽粒转运增多，其他器官中残留的氮素较少，单位质量氮素能够生产出较多的籽粒产量，与前人研究结果相似。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明， $7 0 { \\sim } 8 0 ~ \\mathrm { c m }$ 行距处理土壤中残留的 $N O _ { 3 } ^ { - } { - } \\mathrm { N }$ 较少，而植株积累的氮素也相对较低。可见，土壤 ${ \\mathsf { N O } } _ { 3 } ^ { - } { - } { \\mathsf { N } }$ 含量降低，并非单纯由于作物吸收利用增多所致，也可能受到土壤 ${ \\mathsf { N O } } _ { 3 } ^ { - } { \\mathsf { - N } }$ 淋失的影响。一般认为，土壤中的 ${ \\tt N O } _ { 3 } ^ { - } { \\tt N }$ 随水分的下渗而向下层移动富集[21]。本研究结果是以 $0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层试验数据为基础，对更深层次土壤的 $N O _ { 3 } ^ { - } { - } \\mathrm { N }$ 含量变化有待进一步研究验证。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "土壤是作物生长发育所需水肥资源的基础。适宜的田间行距配置方式有利于改善土壤的养分分布与理化性质[17.30]，促进植株的生长发育和养分利用,最终提高群体产量[18]。本研究结果表明，不同品种和密度下，适宜的种植行距能够显著影响土壤养分环境，适当缩小种植行距有利于促进地上部植株的养分积累与利用，并提高玉米群体产量。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "降低株高、增加种植密度和提高抗倒性，是提高玉米产量和资源利用效率的发展趋势[31]。前人研究表明，玉米对空间的变化具有一定的自我调节能力，密度扩大后群体产量和生长发育显著变化[32-34]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究选用高、中、低3种株高类型品种和两个种植密度，从高产和资源高效两个方面研究统一行距配置方式的可行性。结果显示，3个株高类型品种在不同密度下，在 $5 0 { \\sim } 7 0 ~ \\mathrm { c m }$ 行距范围内，群体的氮素吸收利用效率和产量变化不显著，但过宽的 $8 0 ~ \\mathrm { c m }$ 行距超过了玉米自身的调节能力，氮素吸收利用效率和产量显著降低。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "土壤是作物生长发育所需水肥资源的基础。适宜的田间行距配置方式有利于改善土壤的养分分布与理化性质[17,30]，促进植株的生长发育和养分利用,最终提高群体产量[18]。本研究结果表明，不同品种和密度下，适宜的种植行距能够显著影响土壤养分环境，适当缩小种植行距有利于促进植株养分积累与利用，并提高产量。 $6 0 ~ \\mathrm { c m }$ 等行距处理氮素吸收利用效率较高，且在不同的株高类型品种和种植密度下均有产量优势，宜作为黄淮南部地区机械化生产普遍的播种行距推广应用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]李少昆，王崇桃．中国玉米生产技术的演变与发展[J]．中 国农业科学,2009,42(6):1941-1951 Li S K,Wang C T.Evolution and development of maize production techniques in China[J].Scientia Agricultura Sinica.   \n2009,42(6): 1941-1951 [2]赵久然，王荣焕．30 年来我国玉米主要栽培技术发展[J]. 玉米科学,2012,20(1):146-152 Zhao JR，Wang R H.Development of main cultivation technology in Chinese maize production since reform and opening up[J].Journal of Maize Sciences，2012,20(1):   \n146-152 [3]赵明，李少昆，董树亭，等．美国玉米生产关键技术与中国 现代玉米生产发展的思考—赴美国考察报告[J]．作物杂 志,2011(2): 1-3 Zhao M,Li S K,Dong S T,et al. The key technology in American production and the thought of China's maize production development —investigation report to the United States[J].Crops,201l(2):1-3 [4] 李娜娜，李慧，裴艳婷，等．行株距配置对不同穗型冬小麦 品种光合特性及产量结构的影响[J]．中国农业科学，2010,   \n43(14): 2869-2878 Li N N,Li H,Pei Y T,et al. Effects of allocations of rowspacing on photosynthetic characteristics and yield structure of winter wheat cultivars with different spike types[J]. Scientia Agricultura Sinica,2010,43(14): 2869-2878 [5]韩成卫，孔晓民，刘丽，等．不同种植模式对玉米生长发 育、产量及机械化收获效率的影响[J]．玉米科学，2012,   \n20(6): 89-93 Han C W,Kong X M,Liu L,et al.Contrast test for maize different planting patterns under the mechanize harvest[J]. Journal of Maize Sciences,2012,20(6): 89-93 143-148   \n[7] Peng YF, Yu P, Zhang Y, et al. Temporal and spatial dynamics in root length density of field-grown maize and NPK in the soil profile[J].Field Crops Research,2012,131:9-16 [8] Jiang W S,Wang K J,Wu QP,et al.Effects of narrow plant spacing on root distribution and physiological nitrogen use efficiency in summer maize[J]. The Crop Journal,2013,1(1): 77-83   \n[9] 佟屏亚．从植株形态指标评价玉米育种方向[J]．玉米科学, 2006,14(6): 1-3 Tong P Y.Evaluation of the maize breeding direction basis on the plant morphological index[J].Journal of Maize Sciences, 2006,14(6): 1-3   \n[10]丧建峰，张海红，董朋飞，等．种植模式对不同株型夏玉米 品种生理生态效应比较[J]．玉米科学,2014,22(3):115-120 Chang JF,Zhang H H,Dong P F,et al. Comparison on physiological and ecological effects of planting patterns in summer maize with different morphological types[J]. Journal of Maize Science,2014,22(3):115-120   \n[11] 李洪岐，葡海明，梁书荣，等．密度和种植方式对夏玉米酶 活性和产量的影响[J].生态学报,2012,32(20):6584-6590 Li H Q,Lin H M,Liang S R,et al. Effects of planting densities and modes on activities of some enzymes and yield in summer maize[J].Acta Ecologica Sinica,2012,32(20): 6584-6590   \n[12]杨吉顺，高辉远，刘鹏，等．种植密度和行距配置对超高产 夏玉米群体光合特性的影响[J]．作物学报，2010，36(7): 1226-1233 Yang JS,Gao HY,Liu P,et al. Effects of planting density and row spacing on canopy apparent photosynthesis of high-yield summer corn[J]. Acta Agronomica Sinica, 2010,36(7): 1226-1233   \n[13]姜兴芳，陶洪斌，郑志芳，等．株行距配置对玉米根系性状 及产量的影响[J].玉米科学,2013,21(2):116-121 Jiang X F, Tao H B, Zheng Z F,et al. Effect of spacing allocation on the root system characters and yield of maize[J]. Journal of Maize Science,2013,21(2):116-121   \n[14]Mohammad G R,Ghobadi ME,Sheikheh-Poor S.Phosphate biofertilizer,row spacing and plant density effects on corn (Zea mays L.) yield and weed growth[J].American Journal of Plant Sciences,2012,3(4): 425-429   \n[15]安慧，上官周平．植物氮素循环过程及其根域调控机制[J]. 水土保持研究,2006,13(1):83-85 An H, Shangguan Z P. The nitrogen cycling of plants and it's physiological mechanism of root-zoneenvironment[J]. Research of Soil and Water Conservation,2006,13(1):83-85   \n[16] 王树丽，贺明荣，代兴龙，等．种植密度对冬小麦根系时空 分布和氮素利用效率的影响[J]．应用生态学报,2012,23(7) 1839-1845 Wang S L,He MR,Dai XL,et al.Effects of planting density   \n[17」刘金平，游明鸿．行距对老芒麦杷群地卜部及土壤特性的 影响[J].中国草地学报,2012,34(4):55-60 Liu JP,You M H. Influence of row space on underground biomass structure of Elymus sibiricus L. populations and soil chemical properties[J]. Chinese Journal of Grassland,2012, 34(4): 55-60   \n[18] Barbieri P A,Echeverra H E,Sainz Rozas H R,et al. Nitrogen use efficiency in maize as affected by nitrogen availability and row spacing[J].Agronomy Journal,2008, 100(4): 1094-1100   \n[19]王宏庭，王斌，赵萍萍，等．种植方式、密度、施肥量对玉 米产量和肥料利用率的影响[J]．玉米科学，2009，17(5): 104-107 Wang H T,Wang B,Zhao P P,et al. Influence of plant arrangement,density and the rate of fertilizer applied on maize yield and fertilizer use efciency[J]. Journal of Maize Science,2009,17(5):104-107   \n[20]吕丽华，陶洪斌，夏来坤，等．不同种植密度下的夏玉米冠 层结构及光合特性[J]．作物学报，2008,34(3):447-455 Lü L H,Tao H B,Xia L K,et al.Canopy structure and photosynthesis traits of summer maize under different planting densities[J]. Acta Agronomica Sinica, 2008,34(3): 447-455   \n[21]宋海星，李生秀．根系的吸收作用及土壤水分对硝态氮、铵 态氮分布的影响[J]．中国农业科学,2005,38(1):96-101 Song H X,Li S X. Effects of root uptake function and soil wateron $N O _ { 3 } ^ { - } { \\cdot } N$ and $\\mathrm { N H } _ { 4 } ^ { + }$ -Ndistribution[J]．Scientia Agricultura Sinica,2005,38(1): 96-101   \n[22]陈素英，张喜英，陈四龙，等．种植行距对冬小麦田土壤蒸 发与水分利用的影响[J]．中国生态农业学报，2007，14(3): 86-89 Chen S Y, Zhang X Y,Chen SL,et al.Effects of different row spaces on the soil evaporation and water use in winter wheat field[J]. Chinese Journal of Eco-Agriculture,2007,14(3): 86-89   \n[23]甚建峰，张海红，李鸿萍，等．不同行距配置方式对夏玉米 冠层结构和群体抗性的影响[J]．作物学报，2016，42(1): 104-112 Chang JF, Zhang H H,Li HP,et al.Effects of different row spaces on canopy structure and resistance of summer maize[J]. Acat Agronomica Sinica,2016,42(1):104-112   \n[24]吕丽华，董志强，张经廷，等．水氮对冬小麦-夏玉米产量 及氮利用效应研究[J]．中国农业科学，2014，47(19): 3839-3849 Lü L H,Dong Z Q, Zhang J T,et al.Effect of water and nitrogen on yield and nitrogen utilization of winter wheat and summer maize[J]. Scientia Agricultura Sinica, 2014,47(19): 3839-3849   \n[25] Uhart S A,Andrade F H. Nitrogen deficiency in maize: I. effects on crop growth,development,dry matter partitioning, and kernel set[J]. Crop Science,1995,35(5): 1376-1383   \n[26] Barbieri P A,Sainz Rozas HR,Andrade F H,et al.Row spacing effects at different levels of nitrogen availability in maize[J].Agronomy Journal,2000,92(2):283-288   \n[27]范霞，张吉旺，任佰朝，等．不同株高夏玉米品种的氮素吸 收与利用特性[J].作物学报，2014,40(10):1830-1838 Fan X,Zhang JW,Ren B Z,et al.Nitrogen uptake and utilization of summer maize hybrids with different plant heights[J].Acta Agronomica Sinica,2014,40(10):1830-1838   \n[28]董桂春，王熠，于小凤，等．不同生育期水稻品种氮素吸收 利用的差异[J].中国农业科学,2011,44(22):4570-4582 Dong G C,Wang Y,Yu X F,et al.Differences of nitrogen uptake and utilization of conventional rice varieties with different growth duration[J]. Scientia Agricultura Sinica,2011, 44(22):4570-4582   \n[29]BarbieriPA,Echeverria HE,RozasHR S,et al.Nitrogen status in maize grown at different row spacings and nitrogen availability[J].Canadian Journal of Plant Science,2O13,93(6): 1049-1058   \n[30]刘武仁，边少锋，郑金玉，等．玉米宽窄行种植的土壤环境 变化研究[J].玉米科学,2002,10(4):52-55 LiuWR,Bian SF,ZhengJY,et al.Study on the changes to soil environment in maize planted in narrow/wide form[J]. Journal of Maize Sciences,2002,10(4):52-55   \n[31]董树亭，张吉旺．建立玉米现代产业技术体系，加快玉米 生产发展[J].玉米科学,2008,16(4):18-20 Dong S T,ZhangJW.The establishment of maize modern industrial technology system,accelerate the development of maize production[J].Journal of Maize Sciences,20o8,16(4): 18-20   \n[32]刘伟，张吉旺，吕鹏，等．种植密度对高产夏玉米登海661 产量及干物质积累与分配的影响[J]．作物学报,2011,37(7): 1301-1307 Liu W, Zhang JW,Lü P, et al. Effect of plant density on grain yield dry matter accumulation and partitioning in summer maize cultivar denghai 661[J].Acta Agronomica Sinica,2011, 37(7):1301-1307   \n[33]马冬云，郭天财，查菲娜，等．种植密度对两种穗型冬小麦 旗叶氮代谢酶活性及籽粒蛋白质含量的影响[J].作物学报, 2007,33(3):514-517 MaDY,Guo T C,Zha FN,et al.Effects of planting density on activities of nitrogen metabolism enzymes in flag leaves and grain protein content in winter wheat with two spike types[J].Acta Agronomica Sinica,2007,33(3):514-517   \n[34]吴雪梅，陈源泉，李宗新，等．玉米空间布局种植方式研究 进展评述[J]．玉米科学,2012,20(3):115-121 WuXM,ChenYQ,Li ZX,et al.Research progress of maize planting spatial layout pattern[J]. Journal ofMaize Sciences, 2012,20(3): 115-121 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

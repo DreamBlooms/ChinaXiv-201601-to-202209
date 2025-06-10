@@ -1,0 +1,564 @@
+[
+    {
+        "type": "text",
+        "text": "SDN场景中基于双向流量特征的DDoS攻击检测方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈超，曹晓梅 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(南京邮电大学 计算机与软件学院，南京 210000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：传统网络资源的分布式特性使得管理员较难实现网络的集中管控，在分布式拒绝服务攻击发生时难以快速准确地检出攻击并溯源。针对这一问题，结合软件定义网络集中管控、动态管理的优势和分布式拒绝服务攻击特点，首先引入双向流量概念，提出了攻击检测四元组特征，并利用增长型分层自组织映射算法对网络流中提取的四元组特征向量快速准确地分析并分类，同时提出了一种通过自适应改变监控流表粒度以定位潜在受害者的检测方法。仿真实验结果表明，提出的四元组特征及下发适量监控流表项的检测算法能以近似 $96 \\%$ 的准确率检出攻击并定位受害者，且对控制器造成的计算开销较小。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：软件定义网络；双向流量；四元组特征；分布式拒绝服务攻击；增长型分层自组织映射中图分类号：TP393 doi: 10.3969/j.issn.1001-3695.2018.01.0039",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Distributed denial of service attack detection based on bidirectional traffic feature in software defined network ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen Chao, Cao Xiaomei (School of Computer & Software,Nanjing University of Posts & Telecommunications,Nanjing 210ooo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Thedistributed natureof traditionalnetwork resources makes itmore dificultforadministrators torealize the centralizedcontrolof thenetwork.Itisdificult toquicklyandacuratelydetectandtracetheDDoSatacks whendistributed denialofserviceattcksoccur.Tosolvethis problem,combined withtheadvantages ofcentralized managementandcontrolof softwaredefined network,theadvantagesof dynamic managementandthecharacteristicsofDDoSattcks,this paper first introduced theconceptofbidirectional trafic feature,putforwardthefour-tuplecharacteristics ofatack detectionandmadeuse ofthegrowth hierarchical self-organizing mapalgorithm toanalyze andclasifythequaternioneigenvectors extracted from network flows quickly and accurately.At the same time,this paper proposed a new detection method that locates potential victims byadaptivelychanging thegranularityofflowtable.Simulationresults showthat thefour-tuplefeatures,as welas the detectionalgorithm issingthe monitoring flowentry,candetectDDoSatacks and pinpointthe victim withaccuracyofnearly $96 \\%$ ,and the computational overhead for the controller is small. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:softwaredefined network;bidirectional traficfeature;four-tuple;distributeddenialofservice; growinghierarchical self-organization map ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "软件定义网络(software-defined networks,SDN)技术可以使网络管理员根据网络实际状况动态更新网络流规则，极大地简化了网络管理的复杂性[1]。得益于这种集中式的网络管控能力，学术界和工业界对于SDN的研究逐年升温。然而，SDN网络其特有的转控分离的架构模式也引入了更多的安全威胁。据卡巴斯基发布的2017安全报告显示，DDoS攻击较去年在攻击次数和持续时间上均呈上升态势[2]，而传统网络与SDN网络的融合是未来发展的趋势，因此SDN 场景下的DDoS攻击检测成为近些年研究的热点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文献[3]将 SDN 场景中的DDoS攻击分为OpenFlow 交换机流表攻击和 SDN控制层带宽攻击两类。本文主要研究后一种攻击，而利用 SDN 控制器集中管控和可编程特性对网络流量进行审查分析是其经典的检测方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Braga等人[4]利用SDN控制器的可编程特性和SOM算法分类计算时计算量小的优势，提出了一种基于流量特征属性的DDoS攻击检测方案。实验结果表明，利用流量特征属性检测",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DDoS 攻击较传统检测方法开销更小，检出率更高。然而，由于实际网络场景中流量状况错综复杂，SOM对其自身结构的初始权值的选取十分敏感，所以针对不同网络状况较难选取最优初始参数。同时，由于仿真实验网络规模的限制，文章默认用于统计SDN流量的流表项总是可以成功安装于SDN交换机中，并未考虑SDN交换机流表存储空间大小的限制，这在一定程度上限制了文章算法的适用性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mousavi等人[5通过统计恒定数量网络数据包目的IP地址的熵值，并判断其是否小于指定阈值的方法来确定当前SDN网络是否遭受DDoS攻击。虽然此检测方法具有开销低的优点，但在阈值的确定上需要提前进行大量的样本实验或依靠专家经验；与此同时，DDoS攻击种类众多，在网络流量特征上呈现出多样性的特点，因此仅选取单一的特征属性显然不能保证DDoS攻击的高检出率。针对这一问题，Yan等人[将流请求速率、目的IP地址熵值、目的端口熵值和源IP地址熵值这四种流量特征作为评价因素集，利用模糊数学中的模糊综合评判方法对不同程度的DDoS攻击进行模糊评价。然而模糊综合评判方法中评价因素的初始最优权重较难确定，且对于网络场景的变更难以做到自适应，因此该检测方法有进一步改进的余地。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "姚琳元等人[7提出了基于网络对象目的IP地址的检测七元组，并利用增长型分层自组织映射(growinghierarchical self-organizationmap,GHSOM)算法对收集到的七元组特征向量进行分析分类处理，以有效检出DDoS攻击受害者。实验结果表明，所提七元组的加权检测率接近 $90 \\%$ ，且检测算法对控制器的开销基本可忽略。然而文章未考虑收集网络流量过程中对于SDN交换机流表空间大小的影响，且该方法较难区分高速率正常突发网络流量和DDoS攻击异常流量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "武泽慧等人[8]构建了一种 SDN场景下基于OpenFlow 的交换机洗牌模型，通过在交换机上部署流量吞吐率检测器，一旦发现网络包吞吐率大于指定阈值即判定网络正遭受DDoS攻击，进而在控制端触发交换机洗牌算法以分离攻击者和合法用户。仿真实验表明，与传统已有检测工具相比，本文方法在攻击流筛选能力上更胜一筹，且降低了误报率，但也一定程度上增加了数据包转发的延迟。与此同时，网络状况良莠不一，当发生高速率正常突发流时也会触发洗牌算法，进而消耗控制器系统资源。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过上述描述分析可知，提出一种SDN网络下合理的DDoS攻击检测方案需要综合考虑多方面因素，如DDoS攻击检测算法的分类精度与实时性、算法对于控制器和交换机资源的消耗，以及对于高速率突发流等特殊网络状况的处理策略等。本文受文献[4]的启发，引入双向流特征的思想，在发生DDoS攻击时，对于受害者而言，网络流进与出之间的流速率相差较大，若不考虑双向速率差异，则会将网络中的高速率正常突发流量判定为异常流量，进而造成用户正常访问的阻断。然而，由于SDN交换机流表存储空间是有限的[9，所以流表的有限性存储也应当作为DDoS检测重点考虑的因素。同时，GHSOM算法近些年因其结构可拓展性强、分类精度高等优势在入侵检测中的应用范围逐步扩大，因此本文结合SDN高效下发流表及GHSOM算法分类优势，提出了一种SDN场景下基于双向流量特征的DDoS攻击检测方案。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文特色在于：a).合考虑 SDN 架构及DDoS 攻击特点，为准确检出DDoS攻击，本文引入双向流概念，提出了基于目的IP 地址的DDoS检测四元组特征；b)考虑到OpenFlow 交换机流表空间大小的限制，本文提出了一种流表项监控粒度自适应调整的策略;c)利用GHSOM算法对 SDN 网络中提取到的四元组特征向量分析并分类，之后在基于Ope-nDayLight的SDN 仿真平台上分析了所提检测算法的可行性及检测性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 分类算法GHSOM介绍 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近些年来SOM算法应用广泛[10]，然而算法在实际运行过程中，存在结构不可动态改变、学习过程较为复杂等缺陷，因此近些年来专家学者对 SOM 的改进算法GHSOM[I进行了较多研究，其步骤大致可分为三个阶段：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)初始化阶段。第0层包含单个神经元节点，其权值矢量$m _ { 0 }$ 被初始化为所有输入向量的期望值，进而计算层0的平均量化误差（ $m q e _ { 0 }$ ）：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm q e _ { 0 } = ( 1 / n ) ^ { * } \\| m _ { 0 } - x \\|\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $x$ 表示输入向量； $n$ 表示输入向量的个数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)网络结构训练和成长阶段。在竞争学习原则下，当且仅当 $m q e _ { 0 } \\ge \\Gamma _ { m } m q e _ { 0 }$ 时，神经元横向扩展。同时找到具有最大量化误差的神经元节点，并在此节点、与之相差最大的邻居神经元节点之间插入一行或一列并计算其权向量，若不满足上述条件，则进行纵向拓展。其中 $\\Gamma _ { m }$ 为横向拓展系数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)展开或终止分层阶段。神经网络训练完成后，考察神经元是否符合全局终止条件，即 $m q e _ { i } < T _ { u } \\cdot m q e _ { 0 }$ ，对于不符合条件的神经元，重新进行步骤b)，直至各层神经元都满足全局终止条件为止。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第零层一 第一层8 第二层",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 DDoS分类检测四元组特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了精确检出DDoS攻击，系统需要提取简单高效的网络流量特征。在DDoS攻击发生时，对于受害者而言，其接收的网络数据包无论在大小上还是数量上均异常增长；与此同时，在DDoS攻击发生时受害者端进出双向之间的数据包特征差异较明显，因此本文引入了包括网络流和双向流两类流量特征，如表1所示，网络流特征包括 $D _ { i p - } P C$ 和 $D _ { i p - } B C$ ；双向流特征包括 $D _ { i p - } P C A$ 和 $D _ { i p - } B C A$ □",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文将周期性提取监控流表项所审查IP网段的四元组网络特征信息，而一旦系统检出DDoS攻击受害者，则可判定网络正在遭受DDoS 攻击。假定现行 SDN 网络中存在网络流 $f _ { j i }$ ，代表从源地址段 $j$ 到目的地址段 $i$ 的网络流，定义目的地址段范围 $i$ 的 IP地址数目为 $G r a ( i )$ ，则提取的DDoS 攻击受害者网络流四元组信息用公式表示如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { D _ { i p \\_ B C } = \\sum B y t e _ { j i } / G r a ( i ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { D _ { i p \\mathrm { ~ - ~ } } P C = \\sum P k _ { j i } / G r a ( i ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { i p } \\mathrm { - } P C A = ( \\sum _ { j } P k t _ { j i } - \\sum _ { j } P k t _ { i j } ) / G r a ( i )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { i p } - B C A = ( \\sum _ { j } B y t e _ { j i } - \\sum _ { j } B y t e _ { i j } ) / G r a ( i )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fbf04260492293566004d31cad13caa9f28b294c7156920e36688cd35f5dc3da.jpg",
+        "table_caption": [
+            "表1检测四元组特征"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>缩写</td><td>元素名称</td></tr><tr><td>Dip_PC</td><td>地址段内一个目的IP地址对应的平均数据包的数量</td></tr><tr><td>Dip_BC</td><td>地址段内一个目的IP地址对应的平均数据包的大小</td></tr><tr><td>Dip_PCA</td><td>地址段内一个目的IP地址的平均双向数据包数量差值</td></tr><tr><td>Dip_BCA</td><td>地址段内一个目的IP地址的平均双向数据包大小差值</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 DDoS攻击检测流程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SDN网络中受害目标遭到DDoS攻击时，其接收到的数据包目的地址单一，且数据包大小和数量会发生异常变化；与此同时，其进出双向数据包大小和数量差异也会越发明显[12]。根据这一特征，本文提出了SDN场景中基于双向流特征的DDoS攻击检测方案。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "待全网网络地址段划分完成后，为了初始化监控网段范围，系统首先下发交换机初始监控流表项，之后为更加精确检出DDoS攻击，系统通过周期性提取网络流四元组特征，运行DDoS攻击检测算法，逐次迭代更新监控流表粒度，从而逐步缩小包含受害者的网段大小；一旦确定受害者，系统判定网络正遭受DDoS攻击，继而下发命令阻断发往受害者的流量。其整体流程如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1初始状态网络地址段的划分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通常DDoS攻击对于实施平台具有一定的依赖性，因此本文提出以下两点合理假设：a)SDN网络拓扑是PoP(Point-Of-Presence)[13]级别的；b)任意两个PoP 级路由器之间的网络流量经过相同的SDN交换机。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "初始状态下，检测系统对于网络是否发生DDoS攻击是未知的，因此系统需要监控网络中尽可能多的IP地址，然而考虑到交换机流表空间的限制和检测实时性要求，系统需要保证所监控的IP网段的范围及数量尽可能的小。据OpenFlow 协议和SDN 流表规则定义[14]，SDN网络中每一个IP 网段都是由相同的网络前缀构成的，因此初始化阶段系统首先需要利用网络前缀匹配规则，将PoP入网点内前缀相同的IP地址集合划分在同一个IP网段内，为防止IP集合不能被单独的一条前缀匹配规则匹配，系统需要自动划分IP集合直到所有监控IP能被完整划分为止。与此同时，为了提取网络流特征，假设存在一源IP 地址段 $\\boldsymbol { R } ^ { s }$ 和目的 $\\scriptstyle \\mathbf { I P }$ 地址段 $\\boldsymbol { R } ^ { t }$ ，系统需要统计从源IP 到目的 IP 之间所有的可能路由，即： $\\left\\{ \\langle s , t \\rangle , \\forall s \\in R ^ { s } , \\forall t \\in R ^ { t } \\right\\}$ ,鉴于网络流源IP与目的IP之间的双向性，与之对应的需要统计目的 IP 到源IP之间的路由，即： $\\left\\{ \\langle t , s \\rangle , \\forall t \\in R ^ { t } , \\forall s \\in R ^ { s } \\right\\}$ 0统计完成后，本文将每一对源、目的IP地址对的网络数据包交互，即： $\\left\\{ R ^ { s } , R ^ { t } \\right\\}$ 称为一道流 $f$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "初始网络地址段划分√  \n监控流表项下发策略↓流信息采集业四元组提取√  \n针对受害者的监控命令下发  \n流表项自适应变化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2交换机监控流表下发策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1监控流表项生成策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在初始化阶段IP地址段划分完成后，为了精确检出DDoS攻击，系统需要初始化网络中潜在受害者的IP网段范围，同时下发对于网络中每道流 $f$ 的初始监控流表项。一般而言，有两种关于监控流表项的生成策略。第一种策略是对于每一个潜在受害者IP网段均设置一条监控流表项。假设现行网络中存在两道网络流： $\\mathbf { A } \\to \\mathbf { B }$ 和 $\\mathrm { B } \\to \\mathrm { A }$ ，因此系统会生成 $\\mathrm { A } \\to \\mathrm { B }$ 和 $_ \\mathrm { B } \\to$ A两条监控规则；但若系统判定A、B间皆可能存在受害者进而需要更细粒度生成监控规则时，系统对于地址段A会产生A1$ \\mathrm { B }$ ， $\\mathrm { A } 2  \\mathrm { B } , \\mathrm { B }  \\mathrm { A } 1$ 和 $\\mathbf { B } \\to \\mathbf { A } 2$ 四条监控策略；同时，对于地址段B会生成 $\\mathrm { A \\to B l , A \\to B } 2 , \\mathrm { B l \\to A }$ 和 ${ \\bf B } 2  { \\bf A }$ 四条监控规则，故一共生成了8条监控规则；而第二种生成策略是仅生成一条监控条目同时负责监控源和目的地址段，一旦源和目的地址段内均被怀疑有受害者，则系统需要更细粒度的划分源和目的地址段。例如当系统想利用第二种生成策略审查地址段A和B的流量，则会生成 $\\mathrm { A l }  \\mathrm { B l }$ ， $\\mathrm { A } 2  \\mathrm { B } 1$ ， $\\mathrm { A l }  \\mathrm { B } 2$ $\\mathrm { A } 2  \\mathrm { B } 2$ ， $\\mathrm { B l }  \\mathrm { A l }$ ， ${ \\bf B } 2  { \\bf A } 1$ ， $\\mathrm { B l } \\to \\mathrm { A } 2$ 和 ${ \\mathrm { B } } 2 \\to { \\mathrm { A } } 2$ 八条监控条目。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由上述分析可知，若系统为细粒度监控审查地址段A和B的流量，将其网络范围细分为k段，对于第一种监控规则生成策略，针对地址段A和B总共会产生4k条监控条目；而对于第二种生成策略，将总共会产生 $2  { \\mathrm { k } } ^ { 2 }$ 条监控条目。当 $\\mathbf { k } > 2$ 时，第一种方法将产生更少的监控流表规则。因此，为了尽可能地节省交换机TCAM流表空间，本文选用第一种监控流表生成策略。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2监控流表项更新策略",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统用算法1来迭代更新交换机监控流表项。首先，系统会针对 $\\left\\{ R ^ { s } , R ^ { t } \\right\\}$ 中的每道流 $f$ 创建一条单独的监控流表项，即设置 $N _ { f } = 1$ 。在检测时，系统仅关心可疑受害者IP 地址段的监控粒度大小。初始化阶段系统将全网监控粒度 $G$ 设置为一个较大的值 $G _ { \\mathrm { u p p e r } }$ ，在后续迭代中逐步缩小潜在受害者IP 范围并逐步减小监控粒度 $G$ ；同时，逐次迭代过程系统均需确定网络中所有监控网段最大的监控粒度 $G _ { \\mathrm { m a x } }$ ，并将其审查的地址段范围缩小为原来的一半，随即生成两条监控流表。然而更新流表项粒度后不同IP地址段的监控流表项可能会重复，因此为了进一步节省交换机TCAM空间需要进行去重操作，逐步更新每道流 $f$ 的监控流表 $N _ { f }$ 。在控制器端计算得到待下发的监控流表项之后，系统会用3.2.3节所述的合法性检查算法检验监控流表项下发的合法性。一旦满足要求，控制器便会下发流表项，并进行下一轮迭代过程；否则系统将默认返回上一次迭代过程的监控流表配置，并且最小的监控粒度就是上一轮迭代过程搜索到的Gmax 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.3流表策略下发合法性检查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于3.2.2节监控流表下发而言，最关键的是要考虑所生成的监控流表项所需占用的交换机的空间大小 $\\{ N _ { f } , \\forall f \\in F \\}$ 是否能得到满足。此类问题可以转换为求解网络流中经典的最大流问题[14]。图3形象展示了交换机监控流表项下发合法性检查的数学模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模型由四种节点构成，即 start节点 $s$ 、terminate 节点 $T$ 、网络流节点 $\\{ f _ { i } , i \\in F \\}$ 和交换机节点 $\\{ s _ { j } , j \\in S \\}$ 。 $s$ 节点和所有流节点 $f _ { i }$ 相连并且 $s$ 节点与 $f _ { i }$ 节点之间的链路容量代表 $s$ 到 $T$ 的监控流表项所需占用的交换机TCAM流表空间大小。假设正常通信下信道带宽足够， $T$ 到 $s _ { j }$ 代表网络流， $s _ { j }$ 到 $T$ 之间的链路容量代表交换机节点 $s _ { j }$ 剩余的流表空间的大小。由此建模，问题求解便可抽象为： $s$ 到 $T$ 之间的最大流是否等于$\\sum _ { f \\in F } N _ { f }$ ，其求解可用 Fold-Fulkerson[15]算法解决，限于篇幅所限,",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这里不作详述。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法1受害者检测过程监控流表项自适应策略(D)",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1:F：网络流集合；R：监控路由规则集合； $\\overline { { N _ { f } } }$ ：对于具体网络流f的监控流表项",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2:Initializemonitorgranularity tobe $G _ { u p p e r }$   \n3:InitializemonitorrulesRforfowsinFatgranularity $G _ { u p p e r } ;$   \nCalculate $N _ { f }$ forall $\\mathbf { f } \\in F$ （204号   \n4:if $\\mathsf { P l a c e m e n t } ( N _ { 1 } , N _ { 2 } , . . . , N _ { F } )$ isnot Feasible then   \n5: RaiseError   \n6:end if   \n（204 $^ { 7 : }$ while1do   \n8: Gmax=maximum victim range granularity of allrules inR   \n9: $\\widehat { R } = { \\bf R }$   \n10: for all rules $r \\in { \\hat { R } }$ withvictimrange granularity $G _ { m a x }$ do   \n11: Partition victimIP range into two halves;   \n12: Replacerwith two new rulesin $\\widehat { R }$   \n13: end for   \n14: Removeredundantrulesand Update $N _ { f }$ ,forall $\\mathbf { f } \\in F$   \nbased on R;   \n15: ifPlacement $( N _ { 1 } , N _ { 2 } , . . . , N _ { F } )$ isnot Feasible then   \n16: Return $G _ { m a x }$ and theprevious rule set R   \nand theassociatedallocation   \n17: Break   \n18: endif   \n19: $\\begin{array} { r } { \\operatorname { R } = \\widehat { R } ; } \\end{array}$   \n20:end while ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/274a1a146440403c06df2532e539f43d84e18b7b1333a5a2e997980088da833f.jpg",
+        "img_caption": [
+            "图3监控流表项下发最大流问题数学模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3监控流表项粒度的自适应变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了精确检出DDoS攻击，本文检测算法需要精确定位受害者位置。然而若受害者网络范围较大，则随着网络通信的推进，交换机流表空间逐渐减小，不利于细粒度监控表项的下发。因此本文引入了一种监控流表项自适应合并或分裂的思想，如图4所示。其基本思路为：逐次迭代所产生的监控流表项下发完成后，系统便会周期性提取流表项所审查的IP地址段的四元网络特征，并用GHSOM算法对其分析分类以检出含有潜在DDoS攻击受害者的IP地址段。若GHSOM判定该地址段内没有DDoS攻击受害者，系统便会用粗粒度的监控流表项代替之前细粒度的监控流表项，而对于那些有较高可能性出现受害者的地址段，系统则会建立更加细粒度的监控流表项。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在算法2中，本文用迭代的方式逐步缩小潜在受害IP的地址段范围。本文利用Trie树存储网络监控节点信息，树中每一个节点代表每一个监控流表项中的目的IP网段 $d$ 。系统提取$d$ 的四元流量特征并利用GHSOM算法对四元流量特征分析并分类，即计算 $C _ { \\nu } ( d )$ 。一旦 $C _ { \\nu } ( d ) = F a l s e$ ，则系统判定IP段$d$ 中没有DDoS 攻击受害者；而一旦 $d$ 的兄弟节点 $S i b ( d )$ 也被判定为False，则系统会用其父节点Parent(d)的监控流表项代替 $d$ 和 $S i b ( d )$ 的监控流表项以节省交换机流表空间。而一旦$C _ { \\nu } ( d ) = T r u e$ ，则地址段 $d$ 中可能存在潜在受害者IP，由此系统会将 $d$ 的监控流表项分裂成 $d$ 的两个子节点的监控流表项以进一步减小监控粒度。同时，由于过大的监控粒度变更将会增大系统检出受害者IP的模糊性，进而造成更高的误报率，所以本文规定以1bit的大小减小或扩大监控粒度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法2监控流表项粒度自适应变化算法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/730ede17d74a9de453b907cce6e1b3948f21cefb0525b6ac7623afadb11f7c6d.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">1:D：R中监控流表项审查的潜在受害者IP地址段</td></tr><tr><td colspan=\"2\">2:while1do</td></tr><tr><td>3</td><td>foralld∈Ddo</td></tr><tr><td>4:</td><td>collect packet statistics features(d)</td></tr><tr><td>5:</td><td>usevictimclassifierCvtocalculateCv(d)todecide</td></tr><tr><td></td><td>whetherd isunder attack or not;</td></tr><tr><td>6:</td><td>end for</td></tr><tr><td>7:</td><td>fordinDdo</td></tr><tr><td>8:</td><td>ifCv(d)=FalsethenandC(Sib(d))=False</td></tr><tr><td>9:</td><td>Contraction:addmonitorruleforvictimrangesParent(d)， removemonitor rulesfor victimrangedand Sib(d);</td></tr><tr><td>10:</td><td>endif</td></tr><tr><td>11:</td><td>ifCv(d)=False thenand G(d)!=32</td></tr><tr><td>12:</td><td>Refinement:addmonitorrulesforthevictimrangeChild(d),</td></tr><tr><td></td><td>removemonitorrulesforvictimranged;</td></tr><tr><td>13: 14:</td><td>endif end for</td></tr><tr><td></td><td></td></tr><tr><td>15:</td><td>ifRefinedRuleSetInfeasible?then</td></tr><tr><td>16:</td><td>returnlistofvictimrangeswithC𝑣(d)=True</td></tr><tr><td>17:</td><td>endif</td></tr><tr><td colspan=\"2\">18:end while</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 可行性分析与仿真实验",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本章主要从检测算法中监控粒度自适应变化的合理性、四元组网络流特征的可行性、DDoS攻击检测实验结果以及检测算法对于控制器的开销四个方面进行分析。实验中，本文通过OpenDayLight(Helium)控制器结合OpenFlow1.3开发了DDoS攻击检测模块，攻击者与被攻击者网络均由实际主机组成，且用图4所示的网络拓扑完成了实验的通信数据交互、采集和DDoS攻击检测过程。为了验证本文检测方案在真实网络场景中的DDoS攻击检测效果，在部分攻击者主机中安装LOIC攻击软件，通过精心构造数据包实际产生了A、 $\\mathbf { N } _ { 1 }$ 、 $\\Nu _ { 2 }$ 和 ${ \\bf N } _ { 3 }$ 共四种网络流(一种攻击流和三种正常流)，具体描述参见表2。通过随机混合 $\\mathrm { N } _ { 1 }$ 、 $\\Nu _ { 2 }$ 和 ${ \\bf N } _ { 3 }$ 来模拟正常网络通信过程中的网络流，且训练与检测分类所用数据参考WIDE项目[16],由ICMP、TCP 和UDP三种协议按照10：80：10比例混合而成。与此同时，为全面评估检测算法性能，实验中共模拟了三种攻击方式，受害者目标1、2和3均位于不同网段。方式一攻击的对象仅包含目标1，方式二攻击的对象包含目标1和目标2，方式三则包含目标1、目标2和目标3，且三种攻击方式总攻击次数为2000次。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a0735cbdbc78de3e3b8b77cbbb4ad3bcca858babf81410fd0c6deee3c97f33e.jpg",
+        "img_caption": [
+            "图4实验拓扑图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/03ecf0ee1c4f4498f6e31f68bfedae46188ac0df64bf07e57206a0c8b1057547.jpg",
+        "table_caption": [
+            "表2实验中网络流具体描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>网络流</td><td>具体描述</td></tr><tr><td>DDoS攻击流A</td><td>随机选择N个源IP地址向受害者发送网络包，且保 证每个源IP地址的发包速率随机化在(30kbps， 70kbps）区间中；与此同时，保证收包速率随机化在</td></tr><tr><td>高速率正常突发</td><td>(1kbps，4kbps）区间中。 从任一源IP向另一目的IP发送网络包，保证源端发</td></tr><tr><td>大流量N1</td><td>包和收包的速率均随机化在（300mbps，700mbps） 之间。</td></tr><tr><td></td><td>从任一源IP向另一目的IP发送网络包，保证源端发</td></tr><tr><td></td><td>正常非对称小流包速率随机化在(30kbps，70kbps）区间中，且收包</td></tr><tr><td></td><td></td></tr><tr><td>量N2</td><td>速率随机化在(1kbps，4kbps）区间中，且向同一目</td></tr><tr><td></td><td>的 IP地址发包的源IP数量不超过50个。</td></tr><tr><td></td><td></td></tr><tr><td></td><td>正常对称小流量与N2类似，唯一区别在于源端发包和收包的速率均</td></tr><tr><td>N3</td><td>随机化在(30kbps，70kbps）区间中。</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1四元组特征可行性分析及监控粒度自适应改变合理性分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为分析本文四元组网络流特征的可行性，本节以攻击方式一为例，对检测过程作了详细分析。方式一中，本文选取目标1 为 DDoS 攻击受害者，从攻击者网络 Network1 中随机选取100个IP地址作为攻击者。假定包含受害者的IP网段为 $I P$ ，其网络前缀长度是 $a$ ，则受害者监控网段可描述为： $I P / a$ 。在实验中，本文对比分析了两种不同的特征组合的检测效果，即： $\\{ D _ { i p } - P C , D _ { i p } - B C \\} , \\{ D _ { i p } - P C , D _ { i p } - B C , D _ { i p } - P C A ,$ $D _ { i p - } B C A _  \\}$ ，这两种特征组合区别在于是否考虑发生DDoS 攻击时的双向流量特征差异。实验中对网络流周期性提取四元组特征，取样周期 $\\Gamma$ 可由系统管理员根据实际情况自行调节，本文设为3s。对于GHSOM算法的参数设置如下：$\\Gamma _ { m } = 0 . 6 5 , T _ { u } = 0 . 0 3$ ，且学习速率 $\\hat { \\sigma } \\big ( t \\big )$ 设置为$0 . 1 / \\left( 1 + 0 . 0 0 1 t \\right)$ 。正常突发大流量与异常攻击流的区分在以往的检测中是一个难点，因此为了模拟正常突发大流量的场景，实验中适当增大 $\\mathrm { N } _ { 1 }$ 在正常流中所占的比例，分别用两种不同的特征组合作检测分析。本节截取了DDoS攻击发生时刻(0-70s)的特征趋势。由于另外 $D _ { i p - } B C$ 、 $D _ { i p - } B C A$ 特征的趋势大致分别与 $D _ { i p - } P C$ 与 $D _ { i p - } P C A$ 类似，限于篇幅，所以仅展示前两种特征的变化趋势图。从图5中清晰可见，突发正常大流量$\\mathrm { N } _ { 1 }$ 与攻击流A在单向流特征上区分不明显，而双向流特征的引入使得四特征组合可更好的区分出高速率正常突发大流量$\\mathrm { N } _ { 1 }$ 和攻击流A，因此四特征组合在受害者检出率上要优于二特征组合，这也一定程度上印证了四特征组合的可行性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef78a62c0c0e42c0bd9d013345abdbf3a2bdda643d2f3da8c688d607d637bcdb.jpg",
+        "img_caption": [
+            "图5及 $D _ { i p - } P C A$ 特征效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同网络前缀下结合上述两种不同特征组合，并利用GHSOM算法检测受害者的实验结果如图6所示。图中清晰可见，随着监控网络范围的逐步缩小，受害者检出率也在逐步提高。这是因为一旦多道网络流被单一的监控流表项监控，则系统会很难分辨出攻击流A和正常非对称小流量 $\\Nu _ { 2 }$ ，这也一定程度上印证了本文的监控流表项生成策略的正确性，即：监控粒度越小，检出率越高。同时，从结果上看GHSOM在特征分类上效果较好，使用四特征时的DDoS检出率明显优于二特征，当使用4特征组合且网络前缀长度仅为16时，受害者检出率就已大于 $80 \\%$ ，并且漏报率为零。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f4b82c2828d13c068ef0661d3385d1f1791f70256b6be22cc5558c846c53d13.jpg",
+        "img_caption": [
+            "图6不同网络前缀下受害者检测效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2仿真实验结果分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于本文DDoS 检测算法而言，一旦检出受害者，则系统判定此刻网络正遭受DDoS攻击，因此受害者的检测准确性十分关键。因此本节主要分析检测算法对于三种攻击方式的检测性能，并与文献[7]的算法过程做对比分析，具体实验结果如表3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3结果可知，本文DDoS检测方案在整体检测率上稍优于文献[7]，这主要是由于文献[7]实验拓扑中受害者网络较小，所以在控制器下发监控流表项时总是默认OpenFlow交换机TCAM表空间充足，监控流表项总是能成功安装于交换机中。而本文为了模拟实际网络环境，受害者网络范围较大(超过100台主机且网段分布不均匀)，随着检测算法的迭代运行，交换机TCAM流表空间逐渐减小，因此更加精确地定位受害者变得困难。而文献[7]的算法未考虑监控流表项的自适应粒度改变过程，因此在DDoS检出率上略差于本文。同时，从实验结果可知，本文的四元组网络流特征可以精确地检出受害者。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4f2a2251434915fe5ec0d4c07aff45e749cd200c9ec0844ea9524eff186841a.jpg",
+        "table_caption": [
+            "表3三种攻击方式受害者检测效果 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">攻击方式</td><td colspan=\"3\">攻击对象</td><td rowspan=\"2\">四元组检测 四元组检测 四元组平均 文献[7]七元组 文献[7]七元组</td><td colspan=\"6\"></td></tr><tr><td>目标1</td><td>目标2</td><td>攻击次数 目标3</td><td>次数</td><td>率/%</td><td>检测率/%</td><td>检测次数</td><td>检测率/%</td><td>文献[7]七元 组平均检</td></tr><tr><td>方式1</td><td>√</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>测率/%</td></tr><tr><td>方式2</td><td></td><td>√</td><td>√</td><td>650 650</td><td>627 623</td><td>96.5 95.8</td><td>96.20</td><td>606 574</td><td>93.2 88.3</td><td>90.7</td></tr><tr><td>方式3</td><td>√</td><td>√</td><td>√</td><td>700</td><td>675</td><td>96.4</td><td></td><td>634</td><td>90.5</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图7上图显示了本文检测方法和文献[7]检测方法在交换机TCAM表项的变化趋势图。图中清晰可见，8s之后，文献[7]的算法对于交换机TCAM表项的消耗基本呈线性增长态势，因而随着通信过程的进行，流表项逐渐增多，导致交换机TCAM表项空间大幅度减小，不利于后续检测过程的推进；而本文检测方法由于存在监控表表项的粒度自适应过程，因而对交换机TCAM表空间消耗相比文献[7]要小很多。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了尽可能减小误报率，本文的检测方法在逐次迭代过程中将会消耗一定的交换机流表空间用于更细粒度的监控网络资源。在逐次迭代调整过程中，本文以1bit为单位来调整监控粒度。图7下图清晰可见，本文的检测算法对于受害者的检测最终总是可以定位在一台或几台主机之间，检出率较高，且随着算法迭代过程的推进，TCAM流表空间剩余空间逐渐减小，监控网段的细化也导致后续寻找潜在受害者的迭代次数逐渐减小。综上所述，本文所提出的DDoS攻击检测算法在仿真场景中能够以接近 $96 \\%$ 的检测率检出DDoS攻击，且对于交换机TCAM表项的消耗是可接受的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f921996b9e65566ae5afc592e376d4e826c4466e9471f99fba5dd24373f2c650.jpg",
+        "img_caption": [
+            "图7TCAM流空间大小和迭代过程关系",
+            "图8控制器CPU开销图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3 算法开销分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文DDoS攻击检测算法的开销主要包括训练和检测两个阶段。训练阶段可在线下完成，因此训练过程对于控制器的性能开销可以忽略。检测阶段复杂度主要受待检测目标 IP地址数量影响，在本实验中以监控网段中具体的主机数量而定。对于每一次检测过程而言，其时间开销受到四元组特征提取和GHSOM算法匹配时间影响。四元组特征提取过程涉及前后两次特征数据的比较，若每个周期提取 $N$ 个数据包，则最终处理的数据包共为 $2 N$ ；而GHSOM算法的匹配主要受神经元匹配过程影响，其数量远少于受检测目标IP数量。对于本文DDoS检测算法对于控制器的CPU消耗如图8所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "经过多次测试，本文检测算法对于控制器的CPU带来的额外开销并不大，在 $5 \\% { \\sim } 9 \\%$ 间，为了保证SDN网络的安全性，属于可接受的开销范围。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在基于OpenFlow 的 SDN 网络中，本文研究了如何利用SDN控制器集中控制、可编程的优势检出DDoS攻击。本文引入了双向流速率特征，更有效区分了大速率正常突发流和DDoS攻击流。同时，本文研究了如何通过自适应改变交换机监控流表项粒度以节省OpenFlow 交换机宝贵的流表空间。仿真实验结果表明，本文的四元组特征及检测方案以接近 $96 \\%$ 的DDoS高攻击检出率的同时保证了对控制器造成的开销较小。然而由于实验环境的限制，本文实验环境下受害者和攻击者的网络大小仍然无法与实际网络环境相提并论，所以对于未来的研究工作，可集中在以下几点：a)在实际较大规模网络场景中对本文的算法进行验证；b)对于本文而言，监控流表项粒度的自适应调整基本单位为1bit，然而为了进一步加快检测速度其粒度大小的自适应动态调整策略值得考虑；c追踪到受害者之后，考虑利用SDN的流表特性进行溯源。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "30 •. · · . . . · · · · · + \\*.. · · ： ： ： ： ·， · ·.25 “ • \\*. + \\*∗. \\* ： · ： ： “ 1 •. \\*∗.\\*： ： ： ·. ·.· · . · · · •. • .. \\*.· · “. · ： · · “. . ,. .  \n(%) ·20 中 = . ·· • . ·· 一  \n游运 5 ： · ·， 1 1 ·. 1 1 115 · ： 1 ： ·· \\*\\*.\\* 4 • \\*.\\* \\*.·  \n10 · 一 1 W ， · · · ·, · “, · 1 · 未运行检测算法· · ·， · · · ·， ·1 •\\*.• , ··, ∗• 运行检测算法. •\\*, · •.· • · •.5 \\* ... .. #·. ： •. · “· .·. \". ： · · •. •， ： · ·· ·. ·L T 1 二 1 1 U00 3 6 9 12 15 18 21 24 27 30 333639 42 454851 54 57 60 63Time (Secs)",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Ying Z.An adaptive flow counting method for anomaly detection in sdn [C]//Proc of ACM Conference on Emerging Networking Experiments and Technologies.2013:25-30.   \n[2]2017年 Q3 全球 DDoS攻击情况汇总 [J/OL].(2017-05-17).http://www. 199it.com/archives/656282.html.   \n[3]Kandoi R,Antikainen M.Denial-of-service attacks in OpenFlow SDN networks [C]//Proc of IFIP//IEEE International Symposium on Integrated Network Management.2015:1322-1326.   \n[4]Braga R,Mota E,Passito A.Lightweight DDoS flooding attack detection using NOX//OpenFlow [C]//Proc of the 35th Annual IEEE Conference on Local Computer Networks.2010: 408-415.   \n[5]Mousavi S M, StHilaire M.Early detection of DDoSattacks against SDN controllers [C]// Proc of International Conference on Computing, Networking and Communications.2015:77-81.   \n[6]Yan Q, Gong Q,Deng FA.Detection of DDoS attacks against wireless SDN controlers based on the fuzzy synthetic evaluation decision-making model [J].Ad Hoc & Sen-sorWireless Networks,2016,33(1): 275-299.   \n[7]姚琳元，董平，张宏科．基于对象特征的软件定义网络分布式拒绝服务 攻击检测方法[J].电子与信息学报,2017,39(2):381-388.(Yao Linyuan, Dong Ping,Zhang Hongke.Distributed denial of service attack detection based on object character in software defined network [J].Journal of ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Electronics& Information Technology,2017,39(2):381-388.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8]武泽慧，魏强，任开磊，等．基于OpenFlow 交换机洗牌的 DDoS 攻击 动态防御方法[J].电子与信息学报,2017,39(2):397-404.(Wu Zehui, Wei Qiang,Ren Kailei,et al.Dynamic defense for DDoS attck using OpenFlow-based switch shuffling approach [J].Journal of Electronics & Information Technology,2017,39 (2):397-404.)   \n[9]Openflow specification [M/OL].(2014） http://www. opennet-working. org/images/stories/downloads/sdn-resources/onfspecifications/openflow/openflow-spec-v1.3.0. pdf.   \n[10]Dozono H,Nakakuni M,Kabashima T,et al.Analysis of packet traffics and detection of abnormal traffics using Pareto Learning self organizing maps [M]//Neural Infor mation Processing:Models and Applications.Berlin: Springer,2010:329-336.   \n[11]Huang SY,Huang Y.Network forensic analysis using growing hierarchical SOM[C]//Proc of the 13th IEEE Internation Conference on Data Mining ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Workshop.2013:536-543. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[12]Liu C,Zhang S.A bidirectional-based DDoS detection mechanism [C]// Proc of International Conference on Wireless Communications,Networking and Mobile Computing.2009:1-4.   \n[13] Yan R,Zheng Q,LiH.Combining adaptive filtering and IF flows to detect DDoS attacks within a router [J].KSII Transactions on Internet & Information Systems,2010,4(3): 428-451.   \n[14] Sheu RL,Ting MJ,WangIL.Maximum flow problem in the distribution network [J].Journalof Industrial & Management Optimization,2O17,2(3): 237-254.   \n[15]Ford LRJ,Fulkerson DR,Maximal flow through a network[J].Canadian Journal of Mathematics,1956,8(3): 399-404.   \n[16] Cho K.MAWIworking group traffic archive [EB/OL].(2016).http://mawi. wide.ad. jp/mawi/. ",
+        "page_idx": 7
+    }
+]

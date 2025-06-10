@@ -1,0 +1,217 @@
+# 开放数据平台的接口服务研究及应用探讨
+
+翁丹玉翟　军　袁长峰林岩(大连海事大学交通运输管理学院大连116026)
+
+摘要：【目的】分析我国地方政府各开放数据平台接口服务同国际发展趋势的差距，探讨提升互操作性的途径【应用背景】“十三五"期间，我国将建设国家政府数据统一开放平台，推动各级政府数据的开放共享与深度利用，对开放数据接口服务有着广泛的需求。【方法】在介绍国际上主要的开放数据平台和W3CAPI最佳实践基础上，分析我国开放数据平台接口服务的主要不足。引进开放数据协议OData，给出开放标准化API服务的关键步骤。【结果】通过搭建OData服务、发布说明文档和附加机器可读的元数据，为遵循国际通用的最佳实践打下基础。【结论】我国在提供接口服务时，需要借鉴先进经验，采纳国际标准是提升互操作水平的关键。
+
+关键词：开放政府数据 开放数据平台API 接口服务OData
+
+分类号：G203
+
+# 1引言
+
+作为一种基础性战略资源，数据被誉为21世纪的“金矿”。各国纷纷将大数据提升为国家发展战略，积极推进政府数据开放和大数据应用，拉动相关产业发展[1]。根据世界银行的统计，已有100多个国家和超过250个政府，及联合国和世界银行等国际组织，实施“开放数据行动计划"(Open Data Initiative)[2]。
+
+纽约州立大学Albany 校区政府技术研究中心的学者分析了“开放政府数据"(Open Government Data,OGD)在法律、政策、社会、经济、业务流程和技术上面临的挑战，指出应着重从三个方向开展研究，即理论、政策和基础设施[3]。作为关键的数据基础设施(DataInfrastructures)，开放数据平台(Open Data Platform,ODP)是联系数据发布者和消费者的枢纽，成为“开放数据行动计划"重点建设的对象[1,3]。到2017年5月，开放知识国际(Open Knowledge International)的网站DataPortals.org收集的数据平台门户已达520个。
+
+为开放数据资源提供"接口服务”，即应用程序接□(Application Programming Interface,API)是 ODP 的核心功能，国际上呈现出标准化、规范化的发展趋势，日益成为消费者获取数据的最重要方式之一。我国学者也对ODP开展了研究，吴钢等4认为API的数量体现了平台数据的可开发程度，我国应从公众需求出发，增加 API的数量、拓宽 API 的主题领域；黄如花等[5]认为API能帮助专业用户实现地理信息相关的应用开发；曹雨佳指出我国各地ODP的数据存在格式混乱等不足；邸弘阳等[在国内外比较研究的基础上认为我国各级政府网站API的开放进程仍处于初始阶段。
+
+2015年9月5日，国务院印发《促进大数据发展行动纲要》(国发〔2015」50号)，明确在2018年底前要建成国家政府数据统一开放平台；2016年12月15日，国务院印发《十三五国家信息化规划》（国发［2016]73 号)，推动政府数据的开放共享与深度利用。数据的再利用离不开高质量的API服务，因此研究数据平台开放API的实现方式等问题具有一定的现实意义，而这方面国内还缺乏可操作层面的较为系统的研究成果。
+
+本文从W3C开放数据API的最佳实践人手，分析我国开放数据平台API服务的不足，探讨基于国际标准OData的解决方案，为各级政府的开放数据实践提
+
+供借鉴和参考。
+
+# 2国内外发展状况分析
+
+# 2.1 国外发展状况
+
+各国数据门户使用的基础平台可以分为开源的和商业目的两种[8-9]。表1列出6个代表性的平台。其中,CKAN(Comprehensive Knowledge Archive Network)和DKAN(Drupal+CKAN)是免费的开源软件(OpenSourceSoftware)，而Socrata等是基于云服务的SaaS(Software-as-a-Service)商用开放数据平台。
+
+表1国际上主要的开放数据平台  
+
+<html><body><table><tr><td>平台</td><td>网址</td><td>类别</td><td>应用实例</td></tr><tr><td>CKAN</td><td>https://ckan.org http://getdkan.com/</td><td></td><td>开源超过146个应用实例，如美国 Data.Gov、英国 Data.Gov.UK 等</td></tr><tr><td>DKAN</td><td>https://www.drupal.org/project/dkan http://docs.getdkan.com/en/stable</td><td></td><td>开源科隆(德国) https://www.offenedaten-koeln.de</td></tr><tr><td>Socrata</td><td>https://socrata.com</td><td>商用</td><td></td></tr><tr><td>Junar</td><td>http://www.junar.com</td><td></td><td>商用智利 recursos.datos.gob.cl</td></tr><tr><td>OpenDataSoft</td><td>https://www.opendatasoft.com</td><td></td><td>商用巴黎 opendata.paris.fr</td></tr><tr><td>OGDI</td><td>http://ogdi.codeplex.com https://github.com/openlab/OGDI-DataLab</td><td></td><td>商用哥伦比亚 https://www.datos.gov.co/en</td></tr></table></body></html>
+
+随着开放数据的发展，W3C于2013年12月发起新的数据标准行动计划(Data Activity)，致力于将Web的数据互操作(Data Interoperability)能力推向一个新的水平。目前，该标准计划包括6个工作组，Web数据最佳实践(Data on the Web Best Practices,DWBP)工作组是最早成立的工作组之一，其任务是[10]:
+
+(1）开发开放数据生态系统，在开发者和数据发布者之间建立更好的交流沟通平台;
+
+(2）为数据发布者提供指南，指导他们提升数据管理过程中的一致性，以提升数据的可重用性;
+
+(3）采用各种技术建立开发者对数据的信任度,提升数据应用创新的巨大空间。
+
+DWBP工作组在对各国开放数据实践(包括ODP)全面调研和深入分析基础上，在元数据、开放许可、溯源、数据质量、格式和获取等方面提炼了35个最佳实践(BestPractice,BP)，于2017年1月31日发布为W3C 的正式推荐标准[]。全部最佳实践中有10 个与API密切相关(见表2)，足以表明API的重要性。其中,
+
+表2W3C 推荐的 API最佳实践  
+
+<html><body><table><tr><td>编号</td><td>最佳实践</td><td>说明</td></tr><tr><td>BP2</td><td>Provide Descriptive Metadata</td><td>为 API提供描述元数据。</td></tr><tr><td>BP12</td><td>UseMachine-readable StandardizedDataFormats</td><td>数据及元数据使用机器可读的标准数据格式，如CSV、XML、JSON 和 RDF等。</td></tr><tr><td></td><td>BP14Provide Data in Multiple Formats</td><td>为数据资源提供多种格式。</td></tr><tr><td></td><td>BP18Provide Subsets for Large Datasets</td><td>对于大型数据集，能让消费者获取它的子集。这时,API是最灵活的方式。</td></tr><tr><td></td><td>BP20Provide Real-time Access</td><td>通过API定期轮询或流媒体技术，让消费者实时获取数据。</td></tr><tr><td></td><td>BP21Provide Data up to Date</td><td>为消费者提供最新数据，防止数据过时。</td></tr><tr><td></td><td>BP23Make Data Available through an API</td><td>为数据资源提供 API，可以借助平台(如CKAN)的 API功能，或者 API的 开发框架。</td></tr><tr><td></td><td>BP24Use Web Standards as the Foundation of APIs</td><td>API 建立在Web 标准(主要是HTTP、REST 等)之上，使其易于理解、使 用和维护。</td></tr><tr><td></td><td>BP25Provide Complete Documentation for Your API</td><td>为开发者提供详细的 API说明文档，包括每个 API的目的、参数、返回 值和使用示例等。</td></tr><tr><td></td><td>BP26Avoid Breaking Changes to Your API</td><td>避免API格式与文档的变化，使客户端代码保持稳定。如需改进API，最 好以增量的方式并采用版本控制。</td></tr></table></body></html>
+
+BP23-BP26 是专门对API的要求,BP14、BP18、BP20和BP21是通过API可实现的高级需求，而BP2和BP12则是共性的基本要求。
+
+目前，主流的ODP和先进国家的数据门户都实现了基本的API最佳实践(BP23-BP26、BP2和BP12等)[12]
+
+# 2.2 国内发展状况
+
+从2012年开始，我国已相继上线了近20个地方政府开放数据的门户网站[。其中，北京、上海、浙江、贵州、广东、贵阳、广州、深圳和青岛等提供了“接口/API服务”，哈尔滨和无锡等尚没有API服务。参照表2的API最佳实践，除去三个难以评价的(BP20、BP21和BP26)，对主要开放数据平台的分析结果如表3所示，其中“优点”一栏列出实现的"最佳实践”，“不足”一栏列出没能实现的“最佳实践”。
+
+表3我国地方政府开放数据平台API服务的分析结果 一最佳实践的视角  
+
+<html><body><table><tr><td>地方政府</td><td>数据门户网站</td><td>主要优点</td><td>主要不足</td></tr><tr><td>北京市</td><td>http://www.bjdata.gov.cn/</td><td>BP2、BP23、BP25 (为 API提供了元数据和说明文档)</td><td>BP12(元数据不是机器可读的)；BP14(API不能返 回多种格式，只是JSON格式);BP18(API没有查询 功能);BP24(不是RESTfulAPI)；调用API需要 key</td></tr><tr><td>上海市</td><td></td><td>BP2、BP18、BP23、BP25 API有查询功能)</td><td>BP12(元数据不是机器可读的)；BP14(API不能返 http://www.datashanghai.gov.cn/（为 API 提供了元数据和说明文档；回多种格式，只是 XML格式)；BP24（不是 RESTfulAPI)</td></tr><tr><td>贵州省</td><td>http://www.gzdata.gov.cn/</td><td>BP2、BP23 (为 API提供了元数据)</td><td>BP12(元数据不是机器可读的)；BP14(API 不能返 回多种格式，只是XML格式);BP18(API没有查询 功能);BP24(不是RESTfulAPI);BP25(没有文档)</td></tr><tr><td>浙江省</td><td>http://data.zjzwfw.gov.cn/</td><td>BP2、BP18、BP23 (为 API提供了元数据;API有查询 功能)</td><td>BP12(元数据不是机器可读的)；BP14(API 不能返 回多种格式，只是JSON格式);BP24(不是RESTful API);BP25(没有说明文档)</td></tr><tr><td>重庆市</td><td>http://cqckan.chinacloudapp.cn/</td><td>BP2、BP23、BP24 有 OData API)</td><td>BP12(元数据不是机器可读的)；BP14(API不能返 (为 API提供了元数据；少量数据集 回多种格式，只是XML格式);BP18(API没有查询 功能);BP25(没有说明文档)</td></tr><tr><td>广东省</td><td>http://www.gddata.gov.cn/</td><td>BP2、BP18、BP23、BP25 API有查询功能)</td><td>BP12(元数据不是机器可读的)；BP14(API不能返 (为 API 提供了元数据和说明文档；回多种格式，只是 JSON 或 XML)；BP24(不是 RESTful API)</td></tr><tr><td>贵阳市</td><td>http://www.gyopendata.gov.cn/</td><td>BP2、BP14、BP18、BP23、BP25 两种格式 JSON 和 XML;API有查询 RESTful API) 功能)</td><td>(为 API 提供了元数据和说明文档；BP12(元数据不是机器可读的)；BP24（不是</td></tr></table></body></html>
+
+可见，同国际发展趋势一致，“API服务"是我国开放数据平台的最重要功能之一，但现阶段还存在如下不足:
+
+(1）各地采用的描述数据资源API的元数据方案  
+不同，且元数据记录格式都不是机器可读的;(2）如何使用 API的说明文档不规范、不详尽,  
+即使同一个平台内各API的文档格式也不统一(北京  
+除外);(3)API缺失查询功能或查询功能不全面，用户难  
+以灵活获取部分数据;(4）各平台API的实现方式、采用的技术标准不
+
+一致，普遍不是RESTfulAPI;
+
+(5）一些平台调用API需要key，如北京、深圳、青岛等，而浙江、重庆、广东则不需要key。
+
+这些不足破坏了平台间的互操作性，不利于各数据门户聚合到国家级统一平台，也不利于应用程序跨平台获取多个数据资源。面对Web的开放性和灵活性给数据发布者和数据消费者带来的新挑战，W3CDWBP工作组的建议重点是向消费者提供REST(REpresentationalStateTransfer)风格的 APIRESTfulAPI，即BP24。目前，采用开放数据协议OData的API方案则是最佳选择之一。
+
+# 3开放数据协议OData概述
+
+开放数据协议 OData(Open Data protocol)是建立在HTTP、URIs、REST、JSON 和AtomPub 等Web标准之上的数据获取协议(Data Access Protocol)，它以标准的方式创建和使用数据API。OData的最初版本由微软于2007年提出，随后微软与合作伙伴(IBM、SAPAG和RedHat等)一起将其提交给结构化信息标准促进组织(Organization for the Advancement of StructuredInformation Standards,OASIS)，于2014 年2月 24日被批准为正式标准[13]。最新的OData v4.0 又于 2016年12月15日成为 ISO/IEC 标准(ISO/IEC 20802-1:2016)[14]。微软的很多产品，如SharePoint、Azure、WCF和OGDI等，都开始支持OData；开放数据平台Socrata和OpenDataSoft也集成了OData 的API功能[15-16]。随着越来越多公司的加入和产品的出现，OData的生态系统正在形成，在开放数据领域的影响也日益显现[17]。
+
+OData的核心标准由三部分组成：基础协议、URL约定和通用模式定义语言，如表4所示。两个附加文档分别定义了客户端与服务器通信的JSON格式语法，及数据分组和聚集等新功能[16]。OData 服务(ODataService)采用"实体数据模型"(EntityData Model,EDM)描述数据资源，模型中的主要概念与“关系数据模型"(RelationalDataModel,RDM)的映射关系如表5所示。OData服务暴露出的API中可以包含各种查询关键字(见表6)，供客户端灵活选取数据。
+
+表4OData 标准的组成  
+
+<html><body><table><tr><td>序号</td><td>名称</td><td>说明</td></tr><tr><td>1</td><td>Part 1: Protocol Plus Errata 03</td><td>定义协议的核心语义和能力</td></tr><tr><td>2</td><td>Part2:URL Conventions Plus Errata 03</td><td>推荐URL的构建规则，用以标识数据和元数据，以及查询字符串</td></tr><tr><td>3</td><td>Part 3: Common Schema Definition Language(CSDL) Plus Errata 03</td><td>定义OData 服务的"实体数据模型"(EDM)的 XML 表示</td></tr><tr><td>4</td><td>OData JSONFormat Version 4.0 Plus Errata 03</td><td>对Part1的补充，给出客户端与服务器通信的JSON格式语法</td></tr><tr><td>5</td><td>OData Extension forData Aggregation Version 4.0</td><td>增加分组和聚集功能</td></tr></table></body></html>
+
+表5EDM与RDM的概念映射  
+
+<html><body><table><tr><td>EDM</td><td>RDM</td><td>说明</td></tr><tr><td>实体集(Entity Set)</td><td>表或视图</td><td>对应数据库中的表，也称集合(Collections)或源(Feeds)</td></tr><tr><td>实体(Entity)</td><td>数据行</td><td>对应数据库表中的一行数据</td></tr><tr><td>操作(Operation)</td><td>存储过程</td><td>对数据的 CRUD(Create,Retrieve,Update,Delete)操作</td></tr><tr><td>导航属性(Navigation Property)</td><td>外键</td><td>定义实体间的关系</td></tr></table></body></html>
+
+表6OData 查询关键字  
+
+<html><body><table><tr><td>序号</td><td>查询关键字</td><td>说明</td></tr><tr><td>1</td><td>$select</td><td>等价于T-SQL的SELECT子句，用于确定OData 服务返回哪些列</td></tr><tr><td>2</td><td>$expand</td><td>用来指定相关的实体，以内联形式表示，类似T-SQL中的多表联合查询</td></tr><tr><td>3</td><td>$filter</td><td>等价于T-SQL的WHERE子句，指定查询结果应满足的条件</td></tr><tr><td>4</td><td>$orderby</td><td>等价于T-SQL的ORDERBY子句，用于对查询结果排序</td></tr><tr><td>5</td><td>$top</td><td>等价于T-SQL的 TOP子句，限制返回的记录个数</td></tr><tr><td>6</td><td>$skip</td><td>排除给定参数N的记录数，从第N+1个记录开始返回</td></tr><tr><td>7</td><td>$count</td><td>指定true值，返回请求匹配集合中总共的记录个数</td></tr><tr><td>8</td><td>$search</td><td>返回指定查询表达式限制的实体信息</td></tr></table></body></html>
+
+不同于其他基于REST的Web 服务方法，OData有如下特点[18]:
+
+(1）使用URIs标识资源，包括OData 服务、实体集和实体等。
+
+(2）利用 HTTP 方法执行对资源的操作，包括
+
+GET(获取或查询资源)、POST(创建新资源)、PUT(更新资源)、PATCH(更新资源)和DELETE(删除资源)。
+
+(3）以机器可读的格式表示数据和数据模型。在OData $\mathrm { v } 4 . 0$ 中，JSON是数据表示的标准格式，同时通过XML表示数据模型。
+
+(4)以机器可读的格式提供描述文档：服务文档(Service Document)和元数据文档(Metadata Document)。服务文档列出了全部的实体集、函数和单例，用户可以借助服务文档导航整个模型。元数据文档描述了每个实体集的数据模式和数据类型等，帮助用户理解数据、构建查询以及与服务器的交互。例如，巴黎开放数据平台(参见表1)的这两个文档的网址分别是:https://opendata.paris.fr/api/odata(服务文档)，https://opendata.paris.fr/api/odata/\$metadata(元数据文档)，它们都是XML格式的。
+
+因此，OData标准提升了系统之间的互操作性，在开放数据的API上有着简单、高效和功能完善的优势，如表7所示。
+
+表7CKANAPI、SocrataAPI与ODataAPI的对比  
+
+<html><body><table><tr><td>平台</td><td>API类型</td><td>API模式</td></tr><tr><td rowspan="2">CKAN API</td><td>通过键值对的方式查询与查询字符串匹配的数据资源 的元数据</td><td>{根URL}/api/{version}/action/resource_search?query= {元数据字段key}:{value}</td></tr><tr><td>某一数据集下的全部的元数据描述，包括该数据集下 数据资源元数据</td><td>{根URL}/api/{version}/action/package_show?id= {datasetName or datasetId}</td></tr><tr><td>Socrata API</td><td>某一数据集下的数据资源</td><td>{根URL}/resource/{dataset_identifier}.{datatype}</td></tr><tr><td rowspan="5">OData API</td><td>获取元数据文档</td><td>{根URL}/$metadata</td></tr><tr><td>获取服务文档</td><td>{根URL}/</td></tr><tr><td>获取一个实体集</td><td>{根URL}/{entityset_identifier}</td></tr><tr><td>查询实体集中某一实体</td><td>{根URL}/{entityset_identifier}(entity_id)</td></tr><tr><td>其他查询 API</td><td>{根URL}/{entityset_identifier}?$filter={}等</td></tr></table></body></html>
+
+# 4基于OData的API服务的实现方法
+
+API服务的实现方法主要有两种：依托平台(如CKAN等)提供的API服务或自行设计和开发。目前，我国各开放数据网站大多没有采用国外的平台软件，因此本节介绍基于OData标准的实现和开放API服务的关键步骤。
+
+# 4.1 创建OData服务
+
+如图1所示，OData服务是开放数据平台的核心组件之一，它负责解析用户的ODataAPI请求，然后访问数据源将结果返给用户。OData 是Web 环境中的JDBC和ODBC，但其数据源不局限于关系数据库，可以是非SQL数据源和数据文件等。
+
+![](images/bb29c126b05f734ab8a5cf4f23b8753fb9aecc73eb34c53d2ed93e876d18fc2c.jpg)  
+图1开放数据平台中的OData服务
+
+在创建OData 服务时，或者选用开源的支持库，如 Java 环境下的 Apache Olingo，.NET 环境下的RESTier等，表8列出了代表性的支持库及其主要技术要求；或者依托商用软件，如CData 公司(http://www.cdata.com/)的软件等。各种方式的实现机制大同小异，即首先提供OData 服务的元数据，向用户声明哪些请求可以执行、返回结果的结构以及如何导航服务等;然后响应用户请求，处理器(Processor)实例被调用，根据元数据的规定匹配变量名、类型和长度等，向用户返回数据。
+
+表8实现OData服务的代表性支持库的主要技术要求  
+
+<html><body><table><tr><td>名称</td><td>网址</td><td>技术平台</td><td>支持的版本</td></tr><tr><td>Apache Olingo</td><td>http://olingo.apache.org/</td><td>Java</td><td>V2 和V4</td></tr><tr><td>RESTier</td><td>http://odata.github.io/RESTier/</td><td>.Net</td><td>V4</td></tr><tr><td>node-odata</td><td>https://github.com/TossShinHwa/node-odata</td><td>JavaScript</td><td>V4</td></tr><tr><td>ODataStore for CoreData (iOS)</td><td>http://www.hwigmbh.de/hwi/produkte/odatastore-for-coredata/</td><td>Objective-C (iOS&Mac OS X)</td><td>V3</td></tr></table></body></html>
+
+# 4.2 发布说明文档
+
+启动OData服务的同时，应发布说明文档详细描述ODataAPI的类型、功能及调用方式等。在笔者的实验环境中，借助CDataSoftware提供的Excel
+
+OData Connectors，将浙江省开放数据网站(参见表3)教育科技大类下的"浙江省学校信息"数据集发布为ODataAPI,API示例如表9所示，它们应是说明文档的核心内容。
+
+表9基于HTTPGET方法的OData API示例  
+
+<html><body><table><tr><td>序号</td><td>API类型</td><td>调用方式</td></tr><tr><td>1</td><td>全部数据集元数据</td><td>GETlocalhost:8050/api.rsc/$metadata</td></tr><tr><td>2</td><td>数据集服务文档</td><td>GETlocalhost:8050/api.rsc/</td></tr><tr><td>3</td><td>查询某个数据集</td><td>GETlocalhost:8050/api.rsc/高等学校</td></tr><tr><td>4</td><td>查询数据集中某一数据项</td><td>GET localhost:8050/api.rsc/高等学校(1)</td></tr><tr><td>5</td><td>根据$search传入参数值进行查询</td><td>GETlocalhost:8050/api.rsc/高等学校?$search=大学</td></tr><tr><td>6</td><td>根据$filter传入参数值，限制返回结果集</td><td>GETlocalhost:8050/api.rsc/高等学校?$filter=phone</td></tr><tr><td>7</td><td>$count返回数据集记录总数</td><td>GETlocalhost:8050/api.rsc/高等学校/$count</td></tr><tr><td>8</td><td>$orderby根据字段名返回结果集排序，默认升序</td><td>GETlocalhost:8050/api.rsc/高等学校?$orderby schoolCode</td></tr></table></body></html>
+
+可见，基于HTTPGET方法,OData服务提供了丰富的查询API，供用户实时在线读取需要的数据。
+
+# 4.3 附加元数据
+
+元数据帮助用户发现、理解和使用API，提高数据资源的可发现性和可用性。
+
+由于缺乏通用的元数据标准，我国各开放数据门户在描述数据资源的API时，元数据项的个数与名称不尽相同，而且普遍没有采用机器可读的元数据记录格式(仅是HTML网页)例如，北京是“接口地址”"接口参数”、“返回值说明"和"详细使用说明"四个元数据项，上海的元数据项的名称是"接口服务地址”、“参数说明”、“返回值说明"和"接口说明文档”，广东、贵州和贵阳多了“支持格式”、“请求方式"和"请求示例"等数据项，而重庆只有一个"OData endpoint"数据项。
+
+世界各国以 W3C 正式推荐标准 DCAT(DataCatalogVocabulary)为基础，开发了各自的元数据标准规范[19]，如美国、英国、澳大利亚、爱尔兰和欧盟等。笔者的前期研究也设计了基于DCAT的我国地方政府核心元数据方案[20]。在 DCAT 中，dcat:accessURL元数据项是专门用于API的，并支持JSON、XML等机器可读的编码格式。以北京开放数据门户(参见表 3)为例，数据集"高校"的JSON格式的API元数据记录如下(省略了其他元数据):
+
+"distribution": [{"title":"高校","description"："该数据是北京市教育委员会登记备案的高等院校信息，包括名称，电话，地址，学校类别等属性字段。",
+
+"accessURL":"http://www.bjdata.gov.cn/api/政务数据API接口使用说明书(文件类).pdf",
+
+"format": "API"}]
+
+其中，format的值为API，表示数据的获取方式为API，而不是直接下载；accessURL的值为API说明文档的URL，其中含有请求方式、接口地址、接口参数和返回值的详细说明。
+
+显然，如果各数据平台都以这种格式提供API元数据，应用程序就能以一致的方式跨平台读取和解析它们，有利于大量数据资源的自动获取，最终提高数据聚合和分析的效率。
+
+这样，通过采用OData标准，为遵循BP12、BP14、BP18、BP24和BP25等最佳实践打下了良好基础，
+
+# 5结语
+
+开放数据的最主要目标是让任何人以最便利的方式获取和使用数据。目前，通过Web获取数据的方式有两种：批量下载和API，它们是优势互补的。批量下载方式简单，但难以适应超大的数据文件和实时读取数据。API适用于所有数据，特别对实时数据的自动化读取优势明显。但同批量下载相比，发布者要为API做出更多的工作：搭建API服务、撰写文档和保持API的稳定持久等。
+
+本文从国际上最佳实践的视角分析了我国各开放数据平台API服务的主要不足，进而探讨了基于OData标准的接口服务的实现方法。结果表明，我国在提供接口服务时，需要借鉴先进经验，采纳国际标准是提升API服务质量的关键。
+
+未来的工作是研究特定领域(如GIS、交通等)的专门API服务和实时数据的API服务。
+
+# 参考文献：
+
+[1] Attard J,Orlandi F,Scerri S,et al.A Systematic Review of OpenGovernmentDataInitiatives[J]. Government Information Quarterly,2015,32(4):399-418.   
+[2] World Bank.Open Data in 60 Seconds [EB/OL].[2016-05-22]. http://opendatatoolkit.worldbank.org/en/open-data-in-60-seco nds.html.   
+[3] Zuiderwijk A,Helbig N,Gil-Garc,et al.Special Issue on Innovation Through Open Data: A Review ofthe State-of-the-Art and an Emerging Research Agenda:Guest Editors’Introduction[J]. Journal of Theoretical & Applied Electronic Commerce Research,2014, 9(2): 1-13.   
+[4]吴钢，曾丽莹．国内外政府开放数据平台建设比较研究[J]. 情报资料工作,2016(6):75-79.(Wu Gang,Zeng Liying.A Comparative Study on the Construction of Open Data Platform Between Chinese and Foreign Governments[J]. Information and Documentation Services,2016(6): 75-79.)   
+[5]黄如花，王春迎．我国政府数据开放平台现状调查与分析 [J]．情报理论与实践，2016,39(7):50-55.(Huang Ruhua, Wang Chunying.Investigation and Analysis of the Status of Government Open Data Platform in China [J].Information Studies: Theory and Application,2016,39(7): 50-55.)   
+[6]曹雨佳.政府开放数据生存状态：来自我国19 个地方政府 的调查报告[J]．图书情报工作，2016,60(14):94-101.(Cao Yujia. Government Open Data Survival Status: Investigation Report on 19 Local Governments[J].Library and Information Service,2016,60(14): 94-101.)   
+[7]邸弘阳，任思琪．政府数据公开网络平台的数据管理与利 用方式研究[J]．图书馆杂志,2017(1):88-96.(Di Hongyang, Ren Siqi. Research of Open Data Management and Utilization of Open Government Data Network Platforms[J].Library Journal, 2017(1): 88-96.)   
+[8]Priebe S, Kannicht M, Jacob M,et al. The Complementarity of Open Data Infrastructures: An Analysis of Functionalities [C]/Proceedings of the 14th Annual International Conference on Digital Government Research. ACM,2013: 166-171.   
+[9]李盼，翟军,陈燕．基于 Drupal 的政府开放数据平台构建 [J]．现代情报,2016,36(8):37-43.(Li Pan,Zhai Jun,Chen Yan.The Construction of Government Open Data Platform Based on Drupal [J]. Modern Information,2016,36(8): 37-43.)   
+[10]W3C.Data on the Web Best Practices Working Group [EB/OL].[2016-08-29]. http://www.w3.org/2013/dwbp/wiki/ Main_Page.   
+[11] W3C.Data on the Web Best Practices[EB/OL]. [2017-01-31]. https://www.w3.0rg/TR/dwbp/.   
+[12] W3C. DWBP Implementation Report [EB/OL].[2017-01-29]. http://w3c.github.io/dwbp/dwbp-implementation-report.html.   
+[13] OASIS Standards [EB/OL]. [2017-01-31]. https://www.0asisopen.org/standards#odatav4.0.   
+[14] ISO/IEC. Information technology -- Open Data Protocol (OData) v4.0 -- Part 1: Core[EB/OL].[2017-01-29]. https:// www.iso.org/standard/69208.html.   
+[15] Analyzing Socrata data in Microsoft Excel $\textsuperscript { \textregistered }$ via OData [FR/OI.1 [2017-01-311 httns://dev socrata com/ndata/   
+[16]OpenDataSoft.Using the OData API[EB/OL].[2017-01-29]. http://docs.opendatasoft.com/en/using_api/odata/index.html.   
+[17]OData - The Protocol for REST APIs [EB/OL]. [2017- 01-31].http://www.odata.org/.   
+[18]Wikipedia．Open Data Protocol [EB/OL]. [2017-01-29]. https://en.wikipedia.org/wiki/Open_Data_Protocol.   
+[19]W3C.Data Catalog Vocabulary (DCAT)[EB/OL]. [2014-01- 16].http://www.w3.org/TR/vocab-dcat/.   
+[20]于梦月，翟军，林岩．我国地方政府开放数据的核心元数 据研究[J].情报杂志,2016,35(12):98-104.(Yu Mengyue, Zhai Jun,Lin Yan.Open Data Core Metadata Research in Chinese Local Governments[J].Journal of Intelligence,2016, 35(12): 98-104.)
+
+# 作者贡献声明：
+
+翁丹玉：提出研究方法，论文起草;
+
+翟军：设计论文总体思路,论文修改;  
+袁长峰：国内文献综述;  
+林岩：国外文献综述。
+
+# 利益冲突声明：
+
+所有作者声明不存在利益冲突关系。
+
+# 支撑数据：
+
+支撑数据来自“浙江政务服务网"(data.zjzwfw.gov.cn)，可自由免费下载。  
+[1]浙江省教育厅．浙江省学校信息.xls.浙江省学校信息.URL:http://data.zjzwfw.gov.cn/deptdetail.action?resid=210512/20150610110144613124&frontcode=210512.
+
+收稿日期:2017-05-31  
+收修改稿日期:2017-06-28
+
+# Interface Services and Applications of Open Data Platform
+
+Weng DanyuZhai JunYuan ChangfengLin Yan (Transportation Management College, Dalian Maritime University, Dalian 116026, China)
+
+Abstract: [Objective] This paper aims to findout the diferences betweenthe interface services of governmental open data platform in China and developing trends around the world.[Context] During the13th Five-Year Plan period, China willbuildanational open data platform topromote the sharingand in-depth utilizationof data atallevels,which demands huge amount of interface services. [Methods] We analyzed the major issues facing the open data platform interface services in China,based on the popular international open data platforms and the W3CAPI best practices.We also introduced the open data protocol OData to discuss key steps for launching standardized API services.[Results] Building OData services,issuing documentation and machine-readable metadata could help our API services follw best practices.[Conclusions] Adopting internationaly accepted standards could improve user experience of interface services in China.
+
+Keywords: Open Government DataOpen Data PlatformApplication Programming Interface (API）Interface Service Open Data Protocol (OData)

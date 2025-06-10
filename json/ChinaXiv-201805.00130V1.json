@@ -1,0 +1,427 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201704280779 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周刊社,张建春,黄晓清,袁雷,罗珍，施磊,魏克文.西藏高原冬虫夏草资源适宜性区划分析.生态学报,2018,38(8)：2768-2779.ZhouKS,ZgaoSKiabildaltsessicaEcologica Sinica,2018,38(8):2768-2779.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "西藏高原冬虫夏草资源适宜性区划分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周刊社¹，张建春²，黄晓清，\\*，袁雷'，罗珍}，施磊，魏克文4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1西藏自治区气候中心，拉萨850000  \n2昌都市气象局，昌都854000  \n3西藏自治区气象信息与网络中心，拉萨850000  \n4米林县气象局，林芝860000",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：冬虫夏草是分布在西藏高原高寒草甸中稀缺的可再生生物资源,具有很高的药用价值和经济价值,然而资源的数量、空间分布格局及分布适宜度尚不清晰。根据西藏高原冬虫夏草产区生态环境条件,以海拔高度、植被类型、土壤类型、年平均降水量、年平均气温为区划主要指标,利用GIS空间分析方法对西藏高原冬虫夏草生长区进行适宜性综合区划。结果表明：那曲地区的比如县、索县,昌都市的边坝县、丁青县、类乌齐县、江达县、洛隆县、察雅县、贡觉县部分产区处在适宜区;那曲地区的那曲县、嘉黎县、巴青县、聂荣县,拉萨市的当雄县及其他产区处在次适宜区;日喀则市的大部分地区、林芝市和山南市的低海拔地区为不适宜区。在出产冬虫夏草的地区(市)中,那曲地区、昌都市分布面积占当地产冬虫夏草县域国土面积的 $5 2 . 1 \\% - 5 9 . 3 \\%$ ，山南市、日喀则市、拉萨市和林芝市分布面积占当地产冬虫夏草县域国土面积的 $1 3 . 7 \\% - 2 6 . 1 \\%$ ,整个西藏高原产区的冬虫夏草分布面积平均占当地产冬虫夏草县域国土面积的 $3 4 . 5 \\%$ 。综合区划图能比较真实的反映西藏高原冬虫夏草空间分布格局，区划结果与采挖地乡镇调查结果符合程度高,与冬虫夏草单位草原面积统计产量分布较为一致。这一研究方法可为以后冬虫夏草资源调查提供参考,为冬虫夏草资源评估及区划等相关研究提供方法支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：冬虫夏草;物种分布;栖息地需求；西藏高原",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Suitability and regionalization of Ophiocordyceps sinensis in the Tibetan Plateau ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IHOU Kanshe',ZHANG Jianchun²,HUANG Xiaoqing1,\\*,YUAN Lei’,LUO Zhen1,SHI Lei³,WEI Kewen4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Tibet Climate Center,Lhasa 850000，China   \n2Qamdo Meteorological Bureau of Tibet,Qamdo 85400o,China   \n3Meteorological Information and Network Center of Tibet,Lhasa 85oooo,China   \n4Mainlin County Meteorological Bureau of Tibet,Nyingchi 860ooo,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Ophiocordyceps sinensis，asarcerenewable biologicalresource,is mainlydistributed inthealpinemeadowof the TibetanPlateau.Although ithasimportant medicinalandeconomicvalue，theavailabilityof thisresource,itsspatial distributionpatern，and habitatrequirementsare notclear.In thisstudy，thealtitude，vegetation type，soil type，anual average precipitation，and annual mean temperature across the areas where $o$ . sinensis was found in the Tibetan Plateau were investigated. The distribution of $o$ . sinensis in the Tibetan Plateau was mapped based on spatial analysis undertaken using a GIS.Theresults showed that Biru and Sog counties in Nagqu，and Banbar，Dengqen，Riwoqe，Jomda,and other counties in Qamdo were clasifiedas suitableareas，and Nagqu，Lhari，Baqen，and Nyainrong countiesin Nagqu, Damxung County in Lhasa，and some other areas were less suitable for $o$ . sinensis.Most parts of Xigaze and most low altitudeareasofNyingchiand Shannan wereunsuitable.O.sinensis was distributed throughoutthe TibetanPlateau,covering approximately $3 4 . 5 \\%$ of the total land area.For example,their distribution in Qamdo and Nagqu accounted for $5 2 . 1 \\%$ 一 $5 9 . 3 \\%$ of the land area of these two cities，and in Shannan，Xigaze，Lhasa，and Nyingchi,it was $1 3 . 7 \\% - 2 6 . 1 \\%$ . The comprehensive zoning map developed in this study reflects the spatial distribution pattern of $o$ .sinensis in the Tibetan Plateau.This map is highly consistent with the areas where this resource is being well as management of $o$ . sinensis resources.colected from and with the yield obtained.Results from our studycan provideareference forfuture investigation, assessment，as well as management of $o$ . sinensis resources. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:caterpillar fungus ；species distribution；habitat requirements；Tibetan Plateau ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冬虫夏草(Ophiocordyceps sinensis(Berk.)G.H.Sung et al.)是蝙蝠蛾幼虫被虫草菌感染,死后尸体、组织与菌丝结成坚硬的假菌核[1]。从世界范围看,冬虫夏草主要分布在中国、尼泊尔、不丹和印度[2],中国主要分布在西藏的那曲地区、昌都市、林芝市,青海省的玉树州、果洛州,四川省的阿坝州、甘孜州,甘肃省的甘南州,云南省的迪庆州等地[3-4]。冬虫夏草常见于海拔 $3 5 0 0 \\mathrm { m }$ 以上的高寒山区和高山雪线附近,由于青藏高原生态地理环境的复杂性和多样性,冬虫夏草居群在区域尺度上呈不连续的斑块状分布[5]。不同地区由于土壤、植被、气候状况等的不同冬虫夏草分布海拔高度有一定的差异[6-I],总体上青藏高原主体分布海拔要高于周边地区。袁峰模拟全球冬虫夏草潜在适生分布区认为海拔 2600—5300m 是其主要潜在适生分布区,海拔$4 2 0 0 { - } 4 8 0 0 \\mathrm { m }$ 是集中分布区[12]。 CCY",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生物一般均生活在较为适宜的生态地理环境中,为了某一生存目的,在可达的生境之间寻找一项最适宜生境,任何一种生物都是通过长期不断的进化来适应栖息地的环境。在长期的进化过程中,冬虫夏草寄主昆虫与其生存的高寒草甸生态系统相互作用,长期适应,环境和气候的变化会影响冬虫夏草的产生和资源的可持续性。生态调查发现西藏高原冬虫夏草一般生长在高山草甸、亚高山草甸和高山灌丛草甸之中,其分布与海拔、温度、湿度、光照、土壤、植被等关系密切[13],降雨量和温度是影响其产量的主要气象因素[14]。冬虫夏草生长地植被多为矮生垫状灌丛,草本植物种类丰富,少有高大乔木,植被盖度不高[15」,朱印酒等[16也对中国冬虫夏草主要产区蝠蛾属昆虫生长发育的最适宜植被类型、土壤类型进行了调查。研究发现冬虫夏草在生境平均气温达到 $2 . 6 \\%$ 时开始生长,最适宜环境的气温为 $7 . 0 { - } 1 2 . 0 \\mathrm { 9 C } ^ { [ 1 7 ] }$ ,空气相对湿度为 $8 0 \\% - 9 8 \\%$ ,土壤相对湿度为 $4 0 \\% - 6 0 \\% ^ { [ 1 8 ] }$ ;云南西北部冬虫夏草蝠蛾种类和种群主要分布在海拔 $3 8 0 0 \\mathrm { m }$ 以上的高寒草甸区域,蝠蛾昆虫种群的分布明显受到海拔和草甸植物群体分布状况的制约[19];近几十年青海玉树、四川西部和云南西北部的冬虫夏草分布海拔范围均有所收窄[7,18,20-21],据中国科学院的专家在冬虫夏草研究基地的多年观察发现部分破坏严重地区资源量不足30年前的 $1 \\%$ 一 $- 3 \\% ^ { [ 2 2 ] }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此,冬虫夏草的产生与海拔高度、植被类型、土壤类型、气候条件密切相关,其分布也与蝠蛾寄主昆虫分布规律密切相关。许多学者虽然对不同地区冬虫夏草生境做了调查,也对植被进行了分类,但大部分仅局限于单点观测,缺乏全面性、系统性的研究。目前,冬虫夏草资源适宜性区划也只做了尝试性研究[23-24],没有考虑当地具体的气候因素对冬虫夏草产生的限制性影响。随着气候变暖,西藏高原冬虫夏草资源数量及分布范围也受到较大影响,如何利用现有资料做好冬虫夏草资源适宜性区划显得尤为重要。本研究根据冬虫夏草在西藏高原分布的地域性、海拔高度、土壤类型、植被类型及气候因子等,结合冬虫夏草资源调查基础资料,利用地理信息系统(GIS)中的空间分析功能,研究西藏高原冬虫夏草适宜性空间分布,以便为冬虫夏草资源调查和保护提供方法,为当地政府开展冬虫夏草采挖等生态环境保护管理提供决策依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "西藏高原是青藏高原的主体,是一个集高原、山地、河谷、盆地、湖盆、冰川等多种地貌兼而有之的地区,该区域大致可分为南部喜马拉雅山区,喜马拉雅北麓湖盆区,雅鲁藏布江中游谷地、藏北高原湖盆区和藏东高山峡谷区[25]。植被水平地带性从东南到西北,垂直地带性从低海拔到高海拔依次分布半常绿雨林、常绿阔叶林、针阔混交林、亚高山暗针叶林、高山灌丛、高山草甸、高山草原、荒漠草原、草原化高山垫状植被、高山亚冰雪稀疏植被等[26]。土壤从东南向西北水平分为亚热带山地森林土、高山毡土、高山草原土、高山漠土等[27]。冬虫夏草广泛分布于高原东部、中部地区,地理位置为 $8 4 ^ { \\circ } 6 ^ { \\prime } \\mathrm { - } 9 9 ^ { \\circ } 6 ^ { \\prime } \\mathrm { E } , 2 6 ^ { \\circ } 4 0 ^ { \\prime } \\mathrm { - } 3 2 ^ { \\circ } 4 0 ^ { \\prime } \\mathrm { N }$ 之间(图1)。这些县主要为畜牧业县,冬虫夏草一般生长在这些县的高山草甸或灌丛中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/05323cade5e5361126dbde35ff6e288b5bc55844bbedc4f80c9edd1b439581a7.jpg",
+        "img_caption": [
+            "图1西藏高原冬虫夏草产区海拔分布",
+            "Fig.1Altitude distribution of Ophiocordyceps sinensis in Tibetan Plateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究的主要数据包括：高程数据空间分辨率为 $3 0 \\mathrm { m }$ 的DEM数据,行政边界数据采用国家基础地理信息中心发布的1:400万西藏行政区划数据,植被数据为地球系统科学数据共享平台发布的1:100万西藏植被图,土壤数据为西藏1:100万数字化土壤图;气象数据为西藏38个气象站1981—2010年年平均降水量和年平均气温,由西藏自治区气象信息网络中心提供;1951—2000 年的年平均降水量、年平均气温栅格数据由月气候栅格数据集计算获得,由 htp://www.worldclim.org/versionl提供;冬虫夏草产地所在县及乡镇资料由西藏自治区农牧厅草原监理站提供和实地调研获得。利用ArcGIS9.3软件实现数据投影转换、图层叠加运算、区划等级划分等空间分析功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 空间分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过调查发现西藏高原冬虫夏草主要分布在39个县区,对西藏冬虫夏草在主产区（那曲地区比如县、索县、嘉黎县和昌都市的丁青县、类乌齐县、昌都县)、次产区(林芝市高海拔县区)和非产区(那曲地区西部县区和阿里地区各县)的生境进行调查,利用手持GPS 测量冬虫夏草采挖地的经纬度及海拔高度。在对西藏冬虫夏草资源分布范围调查的基础上,结合38个气象站30年气象资料进行研究,初步确定了冬虫夏草不同产区的年平均降水量和年平均气温,同时也对不同产区的海拔高度、植被类型和土壤类型进行了初步调查,确立了影响冬虫夏草产生的几个主要限制性因素。首先确立以海拔高度、植被、土壤、年平均降水量、年平均气温作为冬虫夏草资源适宜性区划主要依据,并制定区划指标(表1);再利用ArcGIS9.3软件的空间分析模块分析每个指标所确定的冬虫夏草适宜性空间分布,通过重采样技术将海拔高度、植被类型、土壤类型、年平均降水量和年平均气温栅格数据的分辨率均统一为 $^ { 9 0 \\mathrm { m } , 5 }$ 个要素图层叠加运算，根据叠加后值的大小重新分类，结果形成适宜区、次适宜区和不适宜区的冬虫夏草综合适宜性分布图;最后将西藏冬虫夏草所在区县行政边界叠加到适宜性分布图上，形成西藏冬虫夏草适宜性空间分布图。 2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa22e8fd189633585dd1f15b7d67db452a17ba4fe571ba5178bbce5b6b6e26a7.jpg",
+        "table_caption": [
+            "表1冬虫夏草资源适宜性空间划分依据",
+            "Table1The dividing basis of suitability distribution for Ophiocordyceps sinesis resources "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>适宜性 Suitability</td><td>海拔高度 Altitude/m</td><td>植被类型 Vegetation types</td><td>土壤类型 Soil types</td><td>年平均降水量 Annual average precipitation/mm</td><td>年平均气温 Annual average temperature/℃</td><td>适宜性分布情况 Distribution conditions</td></tr><tr><td>适宜区 Suitable areas</td><td>4300—4700</td><td>高山灌丛、 高山草甸</td><td>黑毡土、草毡 土、黑毡土+草 毡土</td><td>451—600</td><td>2.9- 5.0</td><td>有利于取食植物生长,适宜 蝠蛾昆虫生长发育,分布数 量较多，为冬虫夏草主要采 集区</td></tr><tr><td>次适宜区 Sub-suitable areas</td><td>3700—4300 4700—5000</td><td>高山草原</td><td>薄草毡土、黑褐 土、赤红壤、黄 壤、褐土、灰褐 土、赤红壤</td><td>301—450 601—750</td><td>-5.9-3.0 5.1-8.0</td><td>较有利于取食植物生长，较 适宜蝠蛾昆虫生长发育，分 布数量较少，分布零散，为 冬虫夏草非主要采集区</td></tr><tr><td>不适宜区 Unsuitable areas</td><td>≤3700 ≥5000</td><td>阔叶林、针叶 林、荒漠、裸露 岩石等无植被 地段</td><td>寒钙土、暗寒钙 土、沼泽土、寒 冻土、冷钙土、 实质土</td><td>≤300 ≥751</td><td>≤-6.0 ≥8.0</td><td>取食植物分布少，不适宜蝠 蛾昆虫生长发育,极难发现 冬虫夏草</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 实地验证方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "调查全区39个县出产冬虫夏草的乡镇,获得156个乡镇政府所在地的经纬度,同时利用ArcGIS 9.3软件在 DEM数据中提取156个乡镇政府所在地的海拔高度。利用ArcGIS9.3软件将产区乡镇驻地点数据叠加在区划图上进行合理性判断,再结合单位草原面积产量对区划图的代表性和科学性进行验证。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1冬虫夏草适宜性分布单因素分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1冬虫夏草海拔适宜性分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "西藏高原不同地方冬虫夏草生长海拔与品质差异较大,以西藏那曲地区东部和昌都市西部出产的冬虫夏草为优,这些产地的海拔高度较其他产地要高。杨大荣等的研究表明,虫草蝠蛾的分布具有垂直分布和区域水平分布的特点,蝠蛾属每一个种群都有特定的地理位置和分布格局。虽然蝠蛾寄主昆虫具有物种多样性，但产区均具有气温低,昼夜温差大,无绝对无霜期,冻土时间长,日照充足等气候特征。蝠蛾寄主昆虫在长期进化过程中形成了对低温、大风、缺氧、气压低等高原气候的长期适应性,而且主要生长在高山草甸和亚高山草甸中,生态位相对固定,所以根据海拔限制来研究冬虫夏草的垂直分布是可行的。调查发现冬虫夏草在那曲地区东部海拔4100— $5 0 0 0 \\mathrm { m }$ 的垂直地带均有分布,海拔 $4 3 0 0 { \\mathrm { - } } 4 8 0 0 { \\mathrm { m } }$ 是冬虫夏草分布最适区域, $4 9 0 0 \\mathrm { { m } }$ 以上冬虫夏草数量较少， $5 0 0 0 \\mathrm { { m } }$ 以上 $\\ 、 4 1 0 0 \\mathrm { m }$ 以下未发现分布[14]。调查发现那曲地区冬虫夏草产区海拔高度聂荣县为 $4 5 0 0 { \\mathrm { - } } 5 1 0 0 { \\mathrm { m } }$ 、那曲县为 $4 5 0 0 { \\mathrm { - } } 4 9 0 0 { \\mathrm { m } }$ 、嘉黎县和索县为 $4 0 0 0 { \\mathrm { - } } 4 8 0 0 { \\mathrm { m } }$ ,海拔具有北部县高于南部县的特征。金云翔等23在西藏高原那曲地区研究认为海拔 $4 3 0 0 { \\mathrm { - } } 4 7 0 0 { \\mathrm { m } }$ 为冬虫夏草生长的适宜区;4701—$5 0 0 0 \\mathrm { m }$ 和3701— $4 3 0 0 \\mathrm { m }$ 为冬虫夏草生长的次适宜区; $5 0 0 0 \\mathrm { m }$ 以上和 $3 7 0 0 \\mathrm { m }$ 以下为冬虫夏草生长的不适宜区。由于那曲地区东部为西藏高原冬虫夏草的主产区,该地冬虫夏草产量高,品质优,具有代表性。根据此标准，结合西藏高程数据将冬虫夏草资源的海拔适宜性空间分布按海拔高度划分为3个区域（图2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/826298bbea84baa90110d65c2a50c7a52d6c819f6d41f1ea2098816041dc9ab9.jpg",
+        "img_caption": [
+            "图2西藏高原冬虫夏草海拔适宜性分布",
+            "Fig.2Suitability distribution of Ophiocordyceps sinensis based on the altitude in Tibetan Plateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2冬虫夏草植被类型适宜性分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "调查发现冬虫夏草产地植被类型多为高山草甸、亚高山草甸和高山灌丛草甸,主要植物有高山嵩草（Kobresia pygmaea）藏苔草（Carex tristachya）、披碱草（Elymus natans）、珠芽蓼（Polygonum viviparum）、圆穗蓼（Polygonum macrophyllum）风毛菊（Saussurea salsa）、火绒草（Leontopodium leontopodioides）、龙胆（Gentianascabra Bunge）、黄芪（Astragalus SP.)等,也发现伴生有金露梅（Potentilla fruticosa）、土大黄（Rumex madaioMakino）、小大黄（Rheum pumilum Maxim.）、轮叶黄精（Polygonatum verticillatum）和垂叶黄精(Polygonatumcurvi-stylum)等植物。调查研究认为冬虫夏草适宜生长的植被类型是高山灌丛、高山草甸和亚高山草甸;冬虫夏草次适宜生长的植被类型是高山草原;阔叶林、针叶林、荒漠、裸露岩石等无植被地段很难发现寄主昆虫和冬虫夏草分布,是不适宜分布的植被类型或地段。根据西藏植被类型图及冬虫夏草对植被的依赖性将冬虫夏草资源的植被适宜性分布划分为3个区域（图3）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3冬虫夏草土壤类型适宜性分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤是蝠蛾昆虫一生中最主要的活动场所,土壤质地、土壤温湿度是否适合幼虫生活十分关键。同时,土壤类型的分布无形中也影响着蝠蛾幼虫取食植物的分布,这些植物的嫩根或块茎是蝠蛾幼虫生存的食物基础,土壤的适宜性影响寄主幼虫的生长发育、种群数量、食物来源,甚至影响冬虫夏草的产生。在西藏那曲地区调查发现冬虫夏草多分布于比如县、索县、聂荣县、嘉黎县大部、那曲县大部、巴青县大部的亚高山草甸土和高山草甸土中。有研究认为最适宜蝠蛾幼虫生长的土壤为高山草甸土和高山灌丛草甸土；其次为草甸混合土和流石滩,高山棕色和暗棕色林土也发现有少量寄主分布;其他土壤不适宜蝠蛾幼虫生长。高山草甸土在西藏高原分布广泛，主要发育在森林郁闭线以上的高山带或无林山原高寒草甸植被下。这些土壤类型主要包括黑毡土、草毡土,生长在黑毡土和草毡土上的植被主要是高山嵩草、矮生嵩草等多种嵩草和臺草组成的高寒草",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cc8f8901eade3a456d9f1d4dcfd42eb6114943b6a2f72c66d5a900e569c5220.jpg",
+        "img_caption": [
+            "Fig.3Suitabilitydistributionof Ophiocordyceps sinensis based on thevegetation types in the TibetanPlateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/03380d268fc16eabf417378f432195d5513cc6f08cebfa00b9a31e3f16c28fa8.jpg",
+        "img_caption": [
+            "图3西藏高原冬虫夏草植被类型适宜性分布",
+            "图4西藏高原冬虫夏草土壤适宜性分布",
+            "Fig.4Suitabilitydistribution of Ophiocordyceps sinensis based on the soil types in the Tibetan Plateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "甸,群落结构简单,草层低矮,划为适宜土壤类型。薄草毡土、黑褐土、赤红壤、黄壤、褐土、灰褐土、赤红壤等土壤类型中有少量寄主昆虫幼虫和冬虫夏草资源分布,划为次适宜土壤类型;而寒钙土、暗寒钙土、沼泽土、寒冻土、冷钙土、实质土等不适宜寄主昆虫幼虫生长和冬虫夏草产生,因此划为不适宜土壤类型。通过对冬虫夏草分布区土壤类型及冬虫夏草对土壤的适应性综合分析,将冬虫夏草资源的土壤类型适宜性空间分布划分为3个区域(图4）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.4冬虫夏草年平均降水量适宜性分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在自然状况下,湿度和降水是影响冬虫夏草的主要气候因子,特别是雪水对冬虫夏草生长发育影响很大，干旱更不利于冬虫夏草的生长发育。空气湿度影响蝠蛾昆虫的发育期长短,过低的空气湿度会抑制蝠蛾昆虫幼虫发育,较高的空气湿度促进生长发育,因此较多的降水和保持较高的空气湿度有利于冬虫夏草的形成。据调查,在3—4月降雪量较大的年份,冬虫夏草产量相对较高;降雪少的年份,当年的冬虫夏草产量相对较低。在降雪少的年份，如果空气湿度低于 $5 0 \\%$ 时，会导致冬虫夏草生长发育不良，子实体瘦小干瘪。因此，降水量是影响冬虫夏草产量最重要的限制性气候因子之一，甚至降水的形态也决定着冬虫夏草的生长发育及产量。根据对冬虫夏草主产区、次产区和非产区年平均降水量、冬虫夏草单位草原面积产量及各县分布状况的分析,结合38个气象站1981—2010 年年平均降水量数据,初步将年平均降水量为 $4 5 1 { \\ - } 6 0 0 \\mathrm { m m }$ 的区域划为冬虫夏草生长的适宜区;年平均降水量为 $3 0 1 - 4 5 0 \\mathrm { m m }$ 和601- $\\cdot 7 5 0 \\mathrm { m m }$ 的区域划为冬虫夏草生长的次适宜区;年平均降水量 ${ \\leqslant } 3 0 0 \\mathrm { m m }$ 和 $\\geqslant 7 5 0 \\mathrm { m m }$ 的区域划为冬虫夏草生长的不适宜区。依据以上标准,将冬虫夏草资源降水量适宜性空间分布划分为3个区域（图5）。 S",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f64584dfd12392317f8df1b35a1b596fb06e480a1bf56d990875bd1c59f4dd12.jpg",
+        "img_caption": [
+            "图5西藏高原冬虫夏草年平均降水量适宜性分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.5SuitabilitydistributionofOphiocordycepssinensis basedonannual averageprecipitation intheTibetanPlateau ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.5冬虫夏草年平均气温适宜性分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "气温直接影响冬虫夏草的生长和发育,寒冷而湿润,昼夜温差大有利于冬虫夏草繁衍。产区冬虫夏草适应的气温有细微的差别,对西藏那曲虫草进行生态调查发现产区平均气温为-1.9— $4 . 0 ^ { \\circ } \\mathrm { C }$ [6]。根据对冬虫夏草主产区、次产区和非产区冬虫夏草单位草原面积产量及各县分布状况的分析,结合38个气象站 1981—2010年年平均气温数据，将年平均气温为-2.9- $. 5 . 0 ^ { \\circ } \\mathrm { C }$ 的区域划为冬虫夏草生长的适宜区； $- 5 . 9 \\mathrm { - } 3 . 0 ^ { \\circ } \\mathrm { C }$ 和5.1— $8 . 0 \\%$ 的区域划为冬虫夏草生长的次适宜区； $\\leqslant - 6 . 0 \\mathrm { { ^ { \\circ } C } }$ 和 $\\geqslant 8 ^ { \\circ } \\mathrm { C }$ 的区域划为冬虫夏草生长的不适宜区，因此,将冬虫夏草资源年平均气温适宜性空间分布按以上条件划分为3个区域（图6）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/280eb12cbf34cd90d503a9249b0726238f4fd75183c9326dfe0eac0edd719103.jpg",
+        "img_caption": [
+            "图6西藏高原冬虫夏草年平均气温适宜性分布",
+            "Fig.6Suitabilitydistribution of Ophiocordyceps sinensis based onannual average temperature in the TibetanPlateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2冬虫夏草综合适宜性区划",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "宏观上分析得出决定冬虫夏草分布的客观条件主要为海拔高度、植被类型、土壤类型、年平均降水量及年平均气温,经过对以上栅格数据重新分类将不适宜区赋值为0,将次适宜区赋值为1,将适宜区赋值为2,利用ArcGIS 软件在同一投影下将所有栅格数据像元设为一致大小重采样,用栅格计算工具将以上5个删格数据图层叠加。本文依据海拔高度确定冬虫夏草海拔适宜性分布区域,作为第一图层;在此图层的基础上,叠加植被类型确定的冬虫夏草植被类型适宜性分布图,两图层叠加时,取两个图层同一位置像元中的最小值作为新叠加后图层的像元值,以此类推决定新图层的原则进行,最终得出冬虫夏草的综合适宜性空间分布图（图7），该区划结果与海拔高度、植被类型、土壤类型3要素的区划结果相比,有了很大改进,更能客观的反映冬虫夏草的实际分布状况,说明引进气候因素对冬虫夏草区划是十分必要的。研究认为那曲地区的比如县、索县,昌都市的边坝县、丁青县、类乌齐县、江达县、洛隆县、察雅县、贡觉县等区域多处在适宜区,该区主要处在那曲地区东部和昌都市大部;那曲地区的那曲县、嘉黎县、巴青县、聂荣县,拉萨市的当雄县及其他产冬虫夏草县的部分区域为较适宜区;日喀则市的大部分地区、林芝市和山南市的低海拔地区为不适宜区。将西藏地区（市)行政边界叠加到冬虫夏草适宜性区划图上,分别提取6个地市冬虫夏草不同适宜性等级分布面积(表2）,发现在出产冬虫夏草的地区(市)中,那曲地区、昌都市分布面积占当地产冬虫夏草县域国土面积的 $5 2 . 1 \\%$ 一$5 9 . 3 \\%$ ,山南市、日喀则市、拉萨市和林芝市分布面积占当地产冬虫夏草县域国土面积的 $1 3 . 7 \\% - 2 6 . 1 \\%$ ,整个西藏高原的冬虫夏草分布面积平均占当地产冬虫夏草县域国土面积的 $3 4 . 5 \\%$ 。适宜区面积比例在各个地区差异也比较大,其中昌都市比例最大,其次是那曲地区和林芝市,山南市、日喀则市和拉萨市这一比例极低；山南市、日喀则市、拉萨市和林芝市不适宜区面积比例都特别高,这与该地区海拔低适合森林等茂密植被生长或主要为农区有关,多因为海拔、降水量或植被所限制,很难产生冬虫夏草。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/22de8c79c5b8a88047ef1e0e0464289c0c770d383a8144f78048092a635ac4c7.jpg",
+        "img_caption": [
+            "图7西藏高原冬虫夏草综合适宜性空间分布",
+            "Fig.7Comprehensive suitability distribution of Ophiocordyceps sinensis in the Tibetan Plateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c84fdd9b85ca07dbee58191bff191c8bff12d9db68b0c541f9b037da745f476.jpg",
+        "table_caption": [
+            "表2西藏高原各地(市)冬虫夏草资源适宜性分布区域",
+            "Table 2The suitability distribution of Ophiocordyceps sinesisin each region of Tibetan Plateau "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">地区 Region</td><td rowspan=\"3\">产虫草县的国土面积</td><td colspan=\"5\">分布面积Areas/km²/占该虫草区面积比Percent/%</td></tr><tr><td colspan=\"2\">Sui宜 ras</td><td colspan=\"2\">Sub-sib rcas</td><td colspan=\"2\">适宜区</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>那曲地区</td><td>65840</td><td>3498</td><td>5.31</td><td>30767</td><td>46.73</td><td>31575</td><td>47.96</td></tr><tr><td>昌都市</td><td>107715</td><td>21535</td><td>19.99</td><td>42344</td><td>39.31</td><td>43836</td><td>40.70</td></tr><tr><td>林芝市</td><td>113212</td><td>1417</td><td>1.25</td><td>24323</td><td>21.48</td><td>87472</td><td>77.26</td></tr><tr><td>山南市</td><td>59038</td><td>34</td><td>0.06</td><td>8202</td><td>13.89</td><td>50802</td><td>86.05</td></tr><tr><td>日喀则市</td><td>53181</td><td>40</td><td>0.08</td><td>7252</td><td>13.64</td><td>45889</td><td>86.29</td></tr><tr><td>拉萨市</td><td>19658</td><td>0</td><td>0.00</td><td>5133</td><td>26.11</td><td>14525</td><td>73.89</td></tr><tr><td>分布区域 Distribution area</td><td>418644</td><td>26524</td><td>6.34</td><td>118021</td><td>28.19</td><td>274099</td><td>65.47</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3 对比验证分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "根据农牧厅草原监理站近11年(2005—2015年)调查资料分析,西藏的冬虫夏草产量中那曲地区约占$4 5 . 6 \\%$ ,昌都市约占 $3 3 . 2 \\%$ ,其他4个地市合计约占 $2 1 . 2 \\%$ 。利用西藏自治区草原监理站2005—2015年各县冬虫夏草产量和草原面积数据,计算获得各县单位草原面积产量(图8),发现那曲地区东部的比如县、索县、巴青县,昌都市的丁青县、类乌齐县,山南市的加查县和林芝市的朗县单位草原面积产量高;边坝县、嘉黎县、洛隆县、昌都县等单位草原面积产量较高;其他县域单位草原面积产量相对较低。这一分布事实与冬虫夏草综合适宜性空间分布较为一致,证明了区划具有较强的科学性和客观性,适宜性空间分布未能反映出加查、朗县这一适宜分布小区域,可能是由于这两县地理位置偏南,海拔高度平均为 $3 2 0 0 \\mathrm { m }$ 左右，海拔限制性区划使得该区域部分被划分为不适宜区,实际上西藏高原南北适宜性海拔高度是有差别的,如果在藏东南地区和藏北高原采取不同的海拔区划标准就可能解决这个问题。利用经纬度提取156个冬虫夏草采挖乡镇政府驻地高程,研究发现最低乡镇海拔为 $2 3 0 4 \\mathrm { { m } }$ ,最高乡镇海拔为 $5 0 7 4 \\mathrm { m }$ ,其中海拔为 $2 3 0 4 { - } 3 0 0 0 { \\mathrm { m } }$ 的乡镇5个,占$3 . 2 \\%$ ;3001— $3 5 0 0 \\mathrm { m }$ 的乡镇18个,占 $1 1 . 5 \\%$ ;3501— $4 0 0 0 \\mathrm { m }$ 的乡镇45个，占 $2 8 . 8 \\%$ ;4001— $4 5 0 0 \\mathrm { m }$ 的乡镇58个，占 $3 7 . 2 \\% ; 4 5 0 1 { - 5 0 0 0 } \\mathrm { m }$ 的乡镇29个,占 $1 8 . 6 \\%$ $5 0 0 0 \\mathrm { m }$ 以上的乡镇只有1个，占 $0 . 7 \\%$ ,海拔在3000—$5 0 0 0 \\mathrm { m }$ 之间冬虫夏草产区乡镇占 $9 6 . 1 \\%$ ,可以初步判断 $5 0 0 0 \\mathrm { m }$ 和 $3 0 0 0 \\mathrm { { m } }$ 是西藏高原产生冬虫夏草的海拔上下限,但西藏地域辽阔,小气候环境复杂而多样,会出现各地海拔上下限有所差异,需要和实际调查结合。研究认为那曲地区东部产区大部分处在海拔4000一 ${ \\cdot } 5 0 0 0 \\mathrm { m }$ 之间，与陈仕江等[14 调查结果一致。整个西藏高原来看,冬虫夏草产区海拔呈向东、向南降低趋势,那曲地区产区海拔最高,其次为昌都市、拉萨市、山南市和日喀则市,而林芝市海拔最低（图9）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/e27b93e212e1f225bbafc3d583a0f6f65fa556604168c732126835f6610c43be.jpg",
+        "img_caption": [
+            "图8各县单位面积草原冬虫夏草产量",
+            "Fig.8The yield of Ophiocordyceps sinensis in the area per unitgrassland of each county "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "研究认为西藏高原那曲地区的比如县、索县,昌都市的边坝县、丁青县、类乌齐县、江达县、洛隆县、察雅县、贡觉县部分产区处在适宜区;那曲地区的那曲县、嘉黎县、巴青县、聂荣县,拉萨市的当雄县及其他产区处在次适宜区;日喀则市的大部分地区、林芝市和山南市的低海拔地区为不适宜区。总体上西藏高原冬虫夏草资源主要分布在那曲地区东部和昌都市西部的高海拔地区,在林芝市、山南市、拉萨市、日喀则市的部分高海拔地区也有分布,各生长区域适宜区、次适宜区和不适宜区均呈斑块状镶嵌分布。该适宜性区划能比较真实的反应西藏冬虫夏草分布格局,通过冬虫夏草采挖县产量和适宜度的验证很好地证明了该方法的可行性;通过在那曲县、比如县、索县冬虫夏草产地实地调研,也印证了这一分布事实,认为这一区划方法比较科学。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ea013e05541ca95810e770a2b2e7113478e5116f7d44e4008d35dab789ce60f.jpg",
+        "img_caption": [
+            "图9冬虫夏草采挖点乡镇政府所在地海拔高度",
+            "Fig.9Altitude of Town government seat of Ophiocordycepssinensisinthe TibetanPlateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文首次将气候因子引入到冬虫夏草适宜性区划,是对西藏高原地形复杂,地貌组合区域差异大,气候差异大的情况下进行冬虫夏草资源适宜性区划的有效尝试;初步明确了西藏高原冬虫夏草分布的年平均降水量和年平均气温适宜性的阈值范围,如果经过多点验证,可更加精确冬虫夏草分布的气候因子阈值。由于本研究使用的环境因子图层数据(气候因子、植被、土壤等)的空间分辨率较粗,叠加后产生一定的误差,对区划图的准确性有一定影响。应该缩小研究范围,应用分辨率更高的数据,采取更加科学的数据处理方法减小误差，提高制图的准确度。另外,由于生态因子的重要性有区别,对不同生态因子分级处理,赋予不同的权重,加权运算获得的区划结果可能会更加科学。同时考虑寄主昆虫的生长发育、取食植物的丰富度以及冬虫夏草产生易受到坡度、坡向等地貌因子,日照、空气湿度、土壤温湿度等气候因子的影响,将这些因素考虑进区划会更加科学;同样冬虫夏草分布也受到河流、湖泊、冻土、冰盖等分布的影响,加强这方面的研究也十分必要。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本区划标准与李仕江等[6]等在西藏高原那曲地区的生态调查较为一致,在那曲地区海拔下限要比大部分产地高100- ${ \\it 6 0 0 } \\mathrm { m }$ ,海拔上限大多数产区均为 $5 0 0 0 \\mathrm { m }$ 。随着经济的发展,道路修建、牧区居民点建设、过度放牧、人为破坏草皮、滥砍滥伐森林灌木、乱扔生活垃圾、不合理采挖等人为干扰均会影响冬虫夏草资源的分布;气温升高,雪线抬升,冬虫夏草核心分布区海拔明显上升,冬虫夏草产区面积明显变小或发生位置迁移。近年来对冬虫夏草寄主蝠蛾种类的多样性进行了系统研究[28-31],由于冬虫夏草蝠蛾昆虫的多样性,不同寄主的生态特性不同,会存在不同的适应性和分布。对于某一种蝠蛾昆虫分布,必须从该蝠蛾昆虫的生物学和生态学特性,结合外界生态环境开展研究。今后研究冬虫夏草生长适宜性应从冬虫夏草蝠蛾昆虫和虫草菌生长发育的各个环节本身来研究,加强各种环境因子对冬虫夏草产生和不同发育阶段影响的研究,加强气候变化对冬虫夏草产生的影响研究;同时加强利用遥感技术对冬虫夏草资源分布区的植被等生态环境监测,有效保护冬虫夏草资源。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "［1］梁宗琦.中国真菌志第三十二卷虫草属.北京：科学出版社，2007：1-1.  \n[2]Winklertelfs（ocdssi）uctailitaatals2009,5(2):291-316.  \n[3]LiY,WangXL,JiaoL,JiangY,LiH,JiangSP,LhosumtseiringN,FuSZ,DongCH,ZhanY,YaoYJ.Asurveyofthegeoahcdistribution of Ophiocordyceps sinensis.The Journal of Microbiology，2011,49(6）：913-919.  \n[4］中国科学院西北高原生物研究所，青海省药品检验所.中国虫草;历史·资源·科研[M].陕西科学技术出版社，2008：54-58.  \n[5］董应才，罗都强.我国的冬虫夏草研究.国土与自然资源研究，1996，（3)：47-51.  \n[6] 陈仕江，尹定华，丹增，扎西，扎玛次仁.中国西藏那曲冬虫夏草的生态调查.西南农业大学学报，2001，23(4)：289-292，296-296.  \n［7］刘兆红，李玉玲.玉树州冬虫夏草资源与分布.草业与畜牧，2006，（12)：34-36.  \n[8] 黄天福，陈仕江，傅善全，罗庆明.康定冬虫夏草菌优势寄主昆虫的生态型的研究.时珍国药研究，1996，7（3)：178-179.  \n[9］肖生荣，施至用，陈庆涛.虫草的研究——I.生境考察和形态描述.微生物学通报，1983,（1)：5-6．[10] 郭相，刘蓓，马绍宾，桂明英.云南冬虫夏草生态环境调查及生物学特性分析.中国食用菌,2008，27(6)：8-11.  \n[11] 顾龙云，安旺盛.甘肃省甘南藏族自治州虫草考察初报.西北植物学报，1987，7(4)：261-265.  \n[12] 袁峰.冬虫夏草居群谱系地理与适生区分布研究[D].昆明：云南大学，2015.  \n[13] 罗玉秀.冬虫夏草的研究现状.青海大学学报：自然科学版，2003，21(2)：38-40，52-52.  \n[14] 陈仕江，尹定华，李黎，扎西，孙健华，扎玛次仁.西藏那曲地区冬虫夏草资源及分布.中药材，200,23(11)：673-675.  \n[15] 高葵.川西冬虫夏草分布及生境中种子植物区系研究.绵阳师范学院学报，2008，27(11)：81-87.  \n[16] 朱印酒，段双全，欧珠朗杰.冬虫夏草的研究进展.中央民族大学学报：自然科学版，2009，18（2）：27-33.  \n[17] 雷豪清.浅谈玉树州冬虫夏草生长与水热条件的关系.青海草业，1995，（4）：19-20,36-36.  \n[18] 刁治民.青海冬虫夏草资源及生物学特性的初步研究.生物学杂志，1996，13(2)：20-22.  \n[19] 杨大荣，李朝达，舒畅，杨跃雄.虫草蝠蛾分布与高寒草甸植物的关系.西南农业学报，1992，5（2）：68-73.  \n[20] 杨大荣，彭艳琼，陈吉岳，曹永强，杨培.中国冬虫夏草分布格局与环境变化对其分布的影响.中国草地学报，2010，32(S1)： 22-27.  \n[21] 沈发荣，杨跃雄，杨大荣，春生，鲁自，斯那都吉，喻润清.云南的冬虫夏草初步研究.微生物学通报，1988，15(2)：49-51.  \n[22］周东平.经济聚焦：冬虫夏草，如何把“根\"留住.北京：人民网-《人民日报》，[2010-07-27].htp://cpc.people.com.cn/GB/64093/64387/12256253.html.  \n[23］金云翔，徐斌，杨秀春，覃志豪，高懋芳，吕海燕，朱立博.青藏高原那曲地区冬虫夏草资源分布空间分析方法.生态学报，2010，30(6):1532-1538. 1[24］李芬，吴志丰，徐翠，徐延达，张林波.三江源区冬虫夏草资源适宜性空间分布.生态学报，2014，34(5）：1318-1325.  \n[25] 西藏自治区土地管理局.西藏自治区土地利用.北京：科学出版社，1992：165-198.  \n[26］张新时.西藏植被的高原地带性.植被学报，1978，20(2)：140-149.  \n[27］李明森.西藏土壤资源的特点及其开发利用.资源科学，1984，（2)：1-6.  \n［28］王晓亮.冬虫夏草及其寄主昆虫的多样性研究[D].北京：中国科学院研究生院，2012.  \n［29］张姝.冬虫夏草菌群体遗传学及其与寄主昆虫之间的进化关系研究[D]．太原：山西大学，2013.  \n[30］全庆梅.冬虫夏草菌与其寄主昆虫的遗传多样性及协同进化研究[D]．上海：同济大学，2014.  \n[31]吴长奎.兰坪虫草及其寄主蝠蛾居群遗传学和适生区分布研究[D].昆明：云南大学，2016.",
+        "page_idx": 11
+    }
+]

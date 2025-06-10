@@ -1,0 +1,353 @@
+[
+    {
+        "type": "text",
+        "text": "基于远程医疗的阻塞性睡眠呼吸暂停诊疗新模式的建立：一项非劣效随机对照试验研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "方案",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "衣荟洁’廖欣意」皮梦媛²许力月’张驰’董霄松’韩芳‘ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、研究背景",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "阻塞性睡眠呼吸暂停（Obstructive sleep apnea，OSA)，是由于睡眠过程中上气道完全或部分塌陷，导致睡眠期间反复发生的呼吸变浅或暂停，其对机体的危害主要是睡眠中发生的间歇性低氧血症和睡眠结构的破坏。未经诊疗的OSA 极易合并心脑血管、内分泌代谢等多系统多器官疾病，并与焦虑抑郁、认知功能受损及生活质量的降低密切相关，严重者可发生睡眠猝死[]。2019年“阻塞性睡眠呼吸暂停与全球经济负担”报告显示，0SA在全球的患病率由10 年前的 $2 \\% - 4 \\%$ 上升到 $2 4 \\%$ 以上，其中我国睡眠呼吸暂停患病人数居全球首位，达1.76 亿2。然而，我国人群对0SA 认识不足，就诊率及治疗率较低。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前 OSA 的诊断和治疗均在医院的睡眠中心进行，由专业的睡眠技师进行整夜多导睡眠监测（Polysomnography，PSG）和数据分析，患者往往等待时间长，偏远地区的患者需要经过长途跋涉才能就诊，并且就诊期间患者的睡眠可因就诊环境的改变而受到影响。随着新技术的发展，新型远程居家医疗模式使得OSA 患者的居家诊断和治疗成为可能，OSA 患者将无需前往睡眠中心即可得到睡眠医师使用现代远程技术为病人提供的诊断和治疗。在远程居家医疗模式中，将使用家庭睡眠呼吸暂停监测（Home sleep apnea testing，HSAT)完成OSA 的诊断。HSAT，或称便携式监测仪（Portablemonitors，PM），亦称中心外监测仪（Out-of center testing devices，OCST）具有准确度较高，导联少、操作便捷的优势[3]。患者可在家中自行完成佩戴及睡眠监测，不需专业睡眠技师值守，且对患者来说花费更少，在医疗条件较差的偏远地区亦有较好的普及性[4]。2017 年美国睡眠医学会新版指南中指出，对于无严重合并症且高度怀疑中-重度OSA 的成人患者，推荐使用 PSG 或使用技术完善的HSAT 进行诊断，若单次 HSAT 结果阴性，可选择 PSG来诊断OSA（强烈推荐）[5]。HSAT 的推广实现了OSA 的远程居家诊断。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "此外，在远程医疗中,在睡眠中心通过PSG进行人工压力滴定已被自动调整的气道正压通气（Automatic continuouspositive airway pressure，APAP）治疗所取代。人工压力滴定的目标是逐渐上升压力，直至消除所有的阻塞性呼吸事件，最终确定适合患者压力参数，进行持续气道正压通气（Continuous positive airway pressure，CPAP）治疗，而具有自动调压功能的呼吸机可持续探测患者睡眠中的呼吸事件，并根据其上气道的阻塞程度，提供最适治疗压力。与 PSG 人工压力滴定的CPAP 治疗模式相比，APAP 治疗能够有效地降低治疗压力，极大地增加患者治疗的舒适度，并且操作简便、费用相对较低。2019 年AASM 发布成人阻塞性睡眠呼吸暂停综合征患者治疗指南指出，APAP 和 CPAP一起被列为成人OSA长期治疗的首选[6]。目前，国外应用最广泛的智能型呼吸机Airsense10(澳大利亚瑞思迈公司生产)，可通过内置传感设备监测患者长期使用 PAP 治疗的依从性，相关指标可以通过机器自带的远程传输系统传到云平台，并与医生的客户端相连接，及时发现患者呼吸机治疗过程中存在的问题，相关参数如呼吸机治疗压力，湿化程度以及呼气末压力释放等亦可实现远程调节。然而，如何研发家庭诊断治疗随访为一体的OSA 管理系统，建立整套的跟踪管理体系是目前国际上在该领域的研究热点，亦是我国亟待解决的问题。本研究将基于互联网及日趋成熟的远程医疗现代通讯技术搭建一个睡眠疾病诊疗与多种新兴远程医疗技术相结合的个性化、交互式交流平台，并与传统的OSA 诊疗樟式讲行对比，旨在探索出一套适合中国国情的中心医院-社区-家庭医疗一体化的OSA患者远程居家医疗新模式。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "二、试验设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.目标和假设 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1目标1（主要）：对新型管理体系的临床效能分析，比较远程组和门诊组的OSA 患者经过3个月APAP 治疗后的功能性结果，主要的测量指标是治疗后睡眠功能性结局问卷（Functional Outcomes of Sleep Questionnaire，FOSQ-10）评分与基线的变化。同时，本研究还将比较两组接受APAP 治疗的OSA患者每天使用 APAP 的平均时间，即呼吸机治疗的依从性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "假设1a：被随机分配到远程组的OSA 患者，其FOSQ-10 评分的平均变化不低于门诊组。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "假设1b：与门诊组相比，远程组OSA 患者每天 APAP 治疗的时间不低于门诊组的0.75 小时。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2 目标2（次要）：对新型管理体系的成本效益分析，即卫生经济学评价，比较远程组与门诊组在OSA治疗相关费月和质量调整生命年(Quality-adjusted life years，QALYs)方面的差异。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "假设 2a：与门诊组相比，远程组与治疗相关的卫生花费将更低，QALYs 平均低于门诊组，远程组更具有成本经济效益。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.3目标3（次要）：评估远程组和门诊组OSA患者的可接受度及满意度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2．研究方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "招募自 2019年5月因打鼾到睡眠中心就诊者，与患者沟通后，满足入组标准并自愿参与研究的患者将签署知情同意书，入组受试者将随机分配到远程组和门诊组。只有研究人员了解其分组情况，患者仅被告知所在分组的诊疗及随访计划。不符合条件或拒绝参加的患者将安排进行常规临床管理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1纳入标准",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A、年龄 $\\geqslant 1 8$ 岁。  \nB、可疑OSA，并被推荐到睡眠中心做HSAT 监测。  \nC、可以上网、收发电子邮件和接打电话。  \nD、近三个月居住于北京（被随机分配到门诊治疗组的受试者能够往返于睡眠中心）E、中文表达流畅。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.2排除标准",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A、不能或不愿提供知情同意及填写所需问卷。B、曾被诊断为OSA、中枢性睡眠呼吸暂停、陈-施呼吸（Cheyne-stokes breathing，CSB）、肥胖低通气综合征或者发作性睡病。C、曾用气道正压通气（Positive airway pressure，PAP）、外科手术治疗过OSAHS 或者目前需要吸氧治疗。D、近两个月身体状况不稳定，如被诊断为肺炎、心脏病、甲状腺疾病、抑郁症或精神病、肝硬化、癌症等。E、过去三个月内经常倒时差或工作时间不规律（夜班工作者）。F、怀孕或没有避孕措施的育龄妇女。G、因视力（无法阅读）或听力（无法电话沟通）障碍而无法进行日常生活活动。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.3研究对象随机分组",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在研究对象签署知情同意后，计算机生成的随机化方案将自动将符合条件的参与者分配至远程组或门诊组。随机化由 Excel中“RAND()”公式完成。随机分组编号将按顺序排列并密封在信封中，只有在受试者签署知情同意书后，研究者才可打开信封，了解受试者分组情况。受试者可以在研究过程中随时退出。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.4 本研究经北京大学人民医院医学伦理委员会批准（2015PHB187-01），受试者均签署知情同意书，并于中国临床试验注册中心注册（临床注册号：CHiCTR2000030546）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2试验流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1研究对象随机分组",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随机化由 Excel中“RAND()”公式完成，计算机生成的随机化方案将自动将符合条件的参与者分配至远程干预组或常规门诊组。随机分组编号将按顺序排列并密封在信封中，只有在受试者签署知情同意书后，研究者才可打开信封，了解受试者分组情况。本研究为单盲试验设计，研究者需要了解研究对象的分组，并开展后续针对性随访，，受试者不了解试验分组情况，仅被告知所在分组的诊疗及随访计划，并根据研究者指令完成定期随访，受试者在研究过程中可以随时退出，研究者需记录受试者退出原因。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2研究对象临床治疗路径表1显示了所有研究对象的临床治疗路径及数据收集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将在门诊就诊期间在睡眠中心填写与远程组相同的纸质问卷。所有受试者将进行一项HSAT监测。远程组的受试者将通过人民睡眠公众号上关于如何执行 HSAT 的视频说明进行操作，而门诊组的受试者将接受睡眠医师的现场指导。HSAT结束后，睡眠医师将通过远程视频/电话对远程组的受试者进行评估，门诊组的受试者将前往睡眠中心由睡眠医生进行评估。经HSAT 监测后所有被诊断为OSA 的患者将接受标准化的APAP 治疗。所有研究对象将在第一周内每天接到一位经验丰富的睡眠医师的评估电话。在1个月和3个月时，睡眠医生将通过电话/视频对远程组的参与者进行随访，并提示其在 Redcap 上完成对应的随访问卷。门诊组的参与者将在睡眠中心挂号就诊，并完成相同的纸质问卷。在1个月和3个月的访视点外，睡眠医师还可根据患者的临床情况进行额外的电话/视频或门诊随访。所有额外的电话/视频或门诊随访的类型、次数和持续时间将被记录在Redcap 中。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/966e6abde8908bb6bd1c595918c352e4e2767ab6aea9e2039b5a17e39b810d3a.jpg",
+        "table_caption": [
+            "表1．临床治疗路径及数据收集"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td>初次评估</td><td>HSAT 监测后评估</td><td>APAP滴定</td><td>第1周随访</td><td>1个月随访</td><td>3个月随访</td></tr><tr><td>第0周</td><td>第1周</td><td>第2-4周</td><td>第5周</td><td>第8周</td><td>第16周</td></tr><tr><td>初次就诊</td><td>睡眠中心</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>资格筛选</td><td>睡眠中心</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>知情同意</td><td>睡眠中心</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>人口统计学问卷</td><td>邮件vs纸</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>睡眠相关问卷</td><td>质问卷 邮件vs 纸</td><td></td><td></td><td></td><td>邮件vs 纸</td><td>邮件 vs 纸质</td></tr><tr><td>HSAT监测</td><td>质问卷 居家监测</td><td>报告讲解</td><td></td><td></td><td>质问卷</td><td>问卷</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/da1d7a1d0ad890f32d83cfbcd1e94b95e40b03c8bc171569f0b7a5475c146fc1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>APAP滴定</td><td></td><td></td><td>睡眠中心</td><td></td><td></td><td></td></tr><tr><td>自我效能&</td><td></td><td></td><td>邮件vs 纸</td><td></td><td>邮件vs 纸</td><td>邮件vs 纸质</td></tr><tr><td>满意度问卷 APAP 治疗依从性</td><td></td><td></td><td>质问卷</td><td>云平台</td><td>质问卷 云平台</td><td>问卷 云平台</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3问卷评估 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所有参与者在基线时将完成以下研究问卷：人口统计学调查、FOSQ-10、Epworth睡眠量表（Epworth SleepinessScale，ESS）、匹兹堡睡眠质量指数（Pittsburgh Sleep Quality Index，PSQI）、失眠严重程度指数量表（InsomniaSeverity Index，ISI）、健康调查 12 条简表（Health Survey Short Form 12，SF-12）、流行病学研究中心短期抑郁量表（Center for Epidemiological Studies Short Depression Scale，CES-D）、欧洲五维健康指数量表（Euro QolFive Dimensions Questionnaire，EQ-5D）、健康效用指数(Mark II)多属性健康状况量表(Health utilities index,HUI2)以及用药情况列表，门诊组填写纸质版，远程组由 Redcap 发送至其邮箱。所有参与者在呼吸机滴定后，将完成WAISR-C、CSQ-8满意度调查和呼吸机治疗自我效能问卷。在PAP 治疗一个月后，所有参与者在完成基线问卷的基础上，增加一项 PAP 治疗随访问卷。在PAP 治疗三个月后，所有参与者将完成 FOSQ-10、ESS、PSQI、ISI、SF-12、CES-D、EQ-5D、HUI2、PAP 治疗随访问卷以及用药情况列表。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3家庭睡眠呼吸暂停监测（HSAT）",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HSAT将用于研究对象OSA的诊断。HSAT将采用3型便携式监测设备NOXT3，记录鼻气流、胸部和腹部运动、脉搏血氧仪、鼾声音量和体位。研究对象首次到睡眠中心就诊时分发便携式监测设备。远程组不接受任何设备使用指导。他们将通过关注人民睡眠公众号自行学习并完成 HSAT 监测。门诊组将在睡眠中心由睡眠医师面对面指导 HSAT 的使用方法，并回答参与者的问题。研究对象可选择邮寄或自行交回监测设备。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "受试者完成 HSAT 监测后，监测结果将由一名经验丰富的睡眠医师进行判读，该医师对随机化分组不知情，也不参与研究对象的管理，研究者将根据睡眠医师出具的诊断报告，对需要治疗的患者安排进一步的呼吸机治疗方案。本研究使用NOXT3分图软件，按照美国睡眠医学学会（AASM）的标准手动评分。在 HSAT中，呼吸暂停定义为呼吸气流信号峰值较基线时下降 ${ \\geqslant } 9 0 \\%$ ，下降持续时间 $\\geqslant 1 0$ 秒，低通气定义为呼吸气流信号峰值较基线时下降 $\\geqslant 3 0 \\%$ ，下降持续时间≥10 秒同时伴有氧饱和度减少 $\\geqslant 3 \\%$ 。呼吸事件指数（Respiratory event index，REI）为 HSAT中每小时呼吸事件发生的次数。根据《国际睡眠障碍分类第三版（International classification of sleep disorders，third edition,ICSD-3）》，两组中 $\\mathrm { R E I } \\geqslant 1 5$ 次/小时或 $5 { \\leqslant } \\mathrm { R E I } < 1 5$ 次/小时且伴有嗜睡、夜间憋醒、合并高血压或2型糖尿病等 OSA相关症状的患者诊断为OSA。对 APAP 治疗感兴趣的受试者将进入 APAP 治疗流程。需要双水平PAP 和/或需要氧疗 PAP的OSA 患者将被排除，被诊断为中枢性睡眠呼吸暂停/潮式呼吸的OSA 患者将被排除，并转介给其他睡眠医师进行进一步治疗。远程医疗组：睡眠医生通过医院信息中心开放的外网平台与受试者进行视频或电话沟通，详细解读监测报告，并告知患者后续治疗流程。门诊医疗组：睡眠医生将在睡眠中心与受试者进行面诊，解读报告并告知后续治疗流程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4PAP治疗滴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "? 诊断为 OSA 且自愿接受呼吸机治疗的患者，将继续为期三个月的自动气道正压通气（Auto-adjusted positiveairway pressre，APAP）治疗（S10 Auto SetM Plus C，ResMed，澳大利亚）。两组受试者前往睡眠中心领取呼吸机，睡眠医师帮助受试者选择面罩（MigrateFx，ResMed，澳大利亚），向受试者介绍 APAP 治疗的工作原理、治疗的好处以及如何避免和处理可能出现的副作用，演示如何操作和维护 APAP 设备。所有受试者的APAP 压力设置均为6-20cmH20。在完成 APAP 滴定后，远程组的参与者将在家中通过 REDCap 网站完成 WAISR-C、CSQ-8满意度调查和呼吸机治疗自我效能问卷，而门诊组的参与者将在睡眠中心完成相同的纸质问卷。所有研究人员都可以在 ResMed的Airview 网站上访问参与者的每日APAP治疗数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5APAP治疗随访 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 APAP 治疗的第一周，每天都由经验丰富的睡眠医师打电话随访两组受试者。睡眠医师将审查APAP 治疗的依从性数据，评估参与者对 APAP 治疗的反应，询问是否存在限制 APAP 使用的障碍，并就如何克服这些问题提供建议。对于远程组的受试者，将被安排与睡眠医生进行为期1个月和3个月的视频/电话随访，并在网站上完成调查问卷。门诊组的受试者将被安排与睡眠医师进行为期1个月和3个月的门诊随访，并完成纸质版问卷。在两组患者治疗期间，睡眠医师可根据患者 APAP 治疗情况，通过无线方式调整 APAP 压力范围，并告知受试者。无法耐受APAP 或拒绝治疗的患者将由睡眠医师进行进一步评估和管理。经过3个月的APAP 治疗，所有参与者将到睡眠中心归还呼吸机。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6时间/经济花费及其转换",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究将收集研究期间所有与诊断治疗相关的费用，记录时间及经济花费。其中与OSA 诊疗相关的直接花费包括：首次与睡眠医生面诊、研究者安排睡眠技师为受试者设置 HSAT及初始化 HSAT、告知患者如何使用 HSAT、下载并对 HSAT评分、安排受试者与睡眠医生进行 HSAT 后评估、视频/门诊解读 HSAT、准备并设置 APAP、告知患者如何使用 APAP、第1周电话随访、1个月远程/门诊随访、3个月远程/门诊随访。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "非直接相关的花费包括：首次就诊路程花费、首次就诊请假时间、归还 HSAT路程花费、归还 HSAT 请假时间、HSAT报告解读门诊路程花费、HSAT报告解读门诊请假时间、领取APAP 设备路程费用、领取APAP 设备请假时间、1个月随访路程费用、1个月随访请假时间、3个月随访路程费用、3个月随访请假时间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将所有的时间花费换算为经济花费，具体换算标准为：首次与睡眠医生面诊时间换算为首次就诊产生的挂号费；睡眠技师在诊疗过程中的时间花费按每月工资10000元、工作日 21.75天计算；受试者因就诊产生的请假时间按每月",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "工资10000元、工作日21.75天计算，得到误工费。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.7样本量计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究的主要目的是验证目标1远程医疗管理的临床效能不劣于传统门诊管理模式。两种管理模式的临床效能将通过治疗前和APAP 治疗3个月后的 $\\mathrm { F 0 S Q ^ { - 1 0 } }$ 问卷得分的变化以及治疗期间APAP依从性来衡量。据以往研究，FOSQ 提高小于1分则视为无临床意义的非特异性改变，因此FOSQ得分平均改善的临床非劣效界值定义为-1分。那么 FOSQ得分的非劣效性假设可表示为：H0： $\\Delta \\mathrm { T } - \\Delta \\mathrm { P } { \\leqslant } - 1$ vs. H1: $\\Delta \\mathrm { T } - \\Delta \\mathrm { P } { > } - 1$ ，其中“T”代表远程组，“P”代表门诊组。若$\\mathrm { S D { = } 2 . 8 0 }$ ，检验效能 $8 5 \\%$ ，拒绝H0所需要的每组样本量为128人。基于目前转诊患者的数据，我们预期入组的受试者中有 $2 0 \\%$ 不患有OSAHS，此外，预计 $2 0 \\%$ 确诊OSAHS 的患者和接受APAP 治疗的患者会中途退出试验，本试验计划招募356名受试者，并随机分配至门诊组和远程组各178名。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.8统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "统计软件使用 SPSS 26.0，本研究将对所有观察结果进行描述性统计分析，正态分布的连续型变量使用均数土标准差表示，分类变量使用率和百分比表示。此外，对各组的观察结果进行偏相关性分析，以 $\\mathrm { p } { < } 0 . 0 5$ 为差异有统计学意义，以探索可能对最终研究结果造成重要影响的协变量。若发现存在协变量，本研究将控制影响治疗效果和FOSQ-10评分变化的协变量后重新进行非劣效性验证。非劣效性假设的统计方法目标1通过评价基础水平和治疗后的 FOSQ-10得分，APAP平均使用时间，确定远程医疗管理的临床效果是否不劣于传统的面对面医疗模式。本研究中涉及的纵向数据主要采用混合效应模型分析，该模型可充分利用收集到每个患者各个随访节点的数据，并可对随机分组后仍存在的组内偏差进行校正。对FOSQ评分变化进行分析时，基础水平将被预设为该模型中的协变量。对非正态分布的纵向数据，使用广义线性混合模型进行分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究的第二个目标将从医疗系统的角度来探索远程医疗治疗0SA的成本效益是否高于传统医疗模式，进行成本效益的分析。本研究将计算两组间的时间总花费、经济总花费、质量调整寿命年(Quality-adjusted life years，QALYs)值以及成本/QALYs 的差异，并运用混合效应模型分析两组间总花费随时间变化的差异。QALYs 值 $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } =$ 质量调整寿命曲线下面积积分，成本/QALYs $\\ L _ { \\mathrm { { ; } } } =$ 两组成本差值除以两组QALYs 差值。成本效果比的可信区间通过Fieller准则计算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "缺失数据处理方法：本研究首先将沿用末次观测值来填补缺失值，并使用敏感性分析评估数据缺失偏离随机的程度对不同多重填补模型准确性的影响，从而比较不同数据缺失机制下各个填补模型的预测效果和灵敏度。若预测参数不完整，本研究将使用多重填补法（SAS PROC MI）通过已知值预测缺失值，构建完整的数据集，得到最终推断结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$1 2 . 9$ 质量控制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "」为了监测可能存在的选择偏倚，将跟踪所有潜在研究对象中同意入组的人数，已签署知情同意的人数，不符合入且标准者的排除原因，以及研究对象无法完成研究方案的原因。研究对象可随时退出本研究。研究者退出该研究后，需要进行最后一次的研究访问，以评估受试者的安全。该研究还将要求研究对象完成随后的电话采访，以了解他们在签署知情同意书后退出该研究的原因。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究进展",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究自2019年5月起纳入研究对象，至2021年7月，本研究已完成符合纳入标准研究对象的纳入，总计356，并计划在完成最后一例研究对象的跟踪随访后，使用改良的意向性处理和符合方案集分析，分别对目标一至目标的预期结果进行验证（图1）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1a933b5669ed9a1122d57b7fa899db4f4ae9fc6c3a501be3748f2f059d4e133.jpg",
+        "img_caption": [
+            "图1每月入组人次统计"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. 小结与展望 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "OSA 是一种慢性病，其发病率高、并发症多、潜在危害大，且近年来发病年龄有年轻化趋势，越来越受到临床工作者的关注。我国目前约有 $8 0 \\%$ 的OSA 潜在患者尚未得到及时诊断和治疗。远程医疗以其便捷、交互性、高效、共享、连贯及突破时空限制的优势越来越多的被应用于慢性病的诊治管理中。本研究通过随机干预试验对新型远程医疗模式和传统的面对面医疗模式诊断和管理OSA患者的多项指标进行比较，该研究结果可以向临床医生、管理工作者和其他相关人员阐述新型远程慢性病管理模式的临床效能和成本效益，从而为今后进一步完善相关步骤，设计出更有效、更切实可行的，更容易大范围推广的远程医疗模式奠定基础。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "【参考文献】",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.Gottlieb D J,Punjabi NM. Diagnosis and Management of Obstructive Sleep Apnea: A Review［J].Jama.2020; 323(14): 1389-1400. D0I:10.1001/jama.2020.3514   \n2. Benjafield A，Ayas N,Eastwood P， Heinzer R,et.al.Estimationof the global prevalence and burden of obstructive sleep apnoea: a literature-based analysis[J].2019;7(8). D0I:10.1016/S2213-2600(19)30198-5 3. XuL,Fang H, Keenan B T,et.al.Validationof the Nox-T3 Portable Monitor for Diagnosis of Obstructive Sleep Apnea in Chinese Adults ［J]. 2017；13(5): 675. D0I:10.5664/jcsm.6582   \n4．徐淑桦．家庭睡眠呼吸暂停监测在阻塞性睡眠呼吸暂停诊断中的应用与研究进展［J].中国临床医学．2019; 26(003): 503-507． D0I:10.12025/j.issn.1008-6358.2019.20190431   \nXu S Y.Application and research progress of home sleep apnea monitoring in the diagnosis of obstructive sleep apnea [J]. Chinese Clinical Medicine.2019;26(003) :503-507.DOI: 10.12025/j. issn.1008-6358.2019.20190431   \n5.Vishesh,K, Kapur,Dennis,H, Auckley,Susmita,et.al.Clinical Practice Guideline forDiagnostic Testing for Adult Obstructive Sleep Apnea:An American Academy of Sleep Medicine Clinical Practice Guideline [J]. Journal of clinical sleep medicine: JCSM:official publicationof the American Academyof Sleep Medicine.2017; 13(03)． DOI:10.5664/jcsm.6506   \n6.Patil SP,Ayappa I A, Caples SM, et.al.Treatment of Adult Obstructive Sleep Apnea With Positive Airway Pressure: An American Academy of Sleep Medicine Systematic Review, Meta-Analysis，and GRADE Assessment [J]. Journal of clinical sleep medicine: JCSM: official publication of the American Academy of Sleep Medicine. 2019； 15(02): 301-334. D0I:10.5664/jcsm.6506 ",
+        "page_idx": 4
+    }
+]

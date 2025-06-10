@@ -1,0 +1,517 @@
+[
+    {
+        "type": "text",
+        "text": "易卒中高血压(SHRSP)大鼠尿液蛋白质组学变化的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孟文书，高友鹤\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "北京师范大学生命科学学院基因工程药物及生物技术北京市重点实验室，北京，100875摘要",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高血压是一种与遗传和环境因素有关的多因素复杂疾病，已经成为最严重的公共卫生问题。尽管在降低血压方面取得进展，由于缺乏相关分子机制研究，但高血压的诊断和治疗存在局限性。尿液蛋白质组学技术有潜力为涉及多种生物学通路和器官的复杂疾病提供新的研究策略。在本研究中，我们使用SHRSP大鼠模型模拟高血压进展，分别在第1、4、8、10、12和14月收集尿液并通过使用高效液相色谱串联质谱联用（LC-MS/MS）分析尿液蛋白质组动态变化。考虑到疾病进展程度可能不同，本研究采用单只大鼠前后对比的方式筛选差异蛋白，根据差异蛋白进行功能注释分析，更细致的了解高血压进展过程中涉及到的病理机制。在疾病进展过程中我们在尿液中富集到一些重要的通路，例如肾素-血管紧张素信号对氧化应激的反应、上皮细胞中的醛固酮信号、肾素-血管紧张素信号、巨噬细胞中IL-12 信号和产生、apelin 脂肪细胞信号通路、钙转运I、STAT3通路和糖皮质激素受体信号传导。这些通路曾经被报道与高血压的生理病理机制有关，可能为降压药物靶点研究提供新的线索。本研究表明尿液蛋白质组学可以反应与高血压相关的病理过程。这提示我们，尿液蛋白质组学方法可能用于研究高血压的相关机制，寻找高血压新的药物靶点，有潜力提供个性化最佳疗效的降压治疗的策略。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高血压；尿液；蛋白质组学；SHRSP大鼠",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Changes of Urinary Proteome of Stroke-Prone Spontaneously Hypertensive (SHRSP) Rats ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wenshu Meng, Youhe Gao\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Beijing Normal University, Gene Engineering Drug and Biotechnology Beijing Key ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laboratory, Beijing, 100875 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hypertension is a multifactorial complex disease related to genetic and environmental factors, which has become the most serious public health problem. Despite progress in antihypertension, there are limitations in the diagnosis and treatment of hypertension due to the lack of relevant molecular mechanisms. Urinary proteome has the potential to provide new research strategies for complex diseases involving multiple biological pathways and organs. In this study, the stroke-prone spontaneously hypertensive rats (SHRSP) were used. Urine samples were collected at months 1, 4, 8, 10,12, and 14 during hypertension development. Dynamic urine proteomes were analyzed by using liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Considering that the degree of disease progression may be different, each rat was compared before and after to screen for differential proteins, and functional annotation analysis was performed based on the differential proteins to have a better understanding of the pathological mechanisms involved in hypertension progression. During hypertension development, urine proteins were enriched some important pathways, such as renin-angiotensin signaling response to oxidative stress, aldosterone signaling in epithelial cells,renin-angiotensin signaling, IL-12 signaling and production in macrophages, apelin adipocyte signaling pathway, calcium transport I, STAT3 pathway, and glucocorticoid receptor signaling. These pathways were reported to be involved in the pathological mechanisms of hypertension， and might provide new clues for antihypertension drug target research. This study demonstrates that urinary proteomics can reflect the pathological processes associated with hypertension. This suggests that urine proteomic approaches may be used to investigate the mechanisms associated with hypertension and to find new drug targets of hypertension, and has the potential to provide personalized antihypertensive strategies with optimal efficacy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words:Hypertension; Urine; Proteome； SHRSP",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高血压影响全球超过12亿人，已经成为最严重的公共卫生问题[1]。高血压是一种多因素复杂疾病，与遗传和环境因素有关，它导致了全世界850万人死于中风、缺血性心脏病、其他血管疾病和肾脏疾病[2-4]。心脑血管疾病给患者、家庭和社会带来沉重的负担，制定准确、高效的早期诊断和治疗的策略，有效减缓甚至阻止心血管疾病的进程成为是2021年度人类社会发展十大科学问题之一。在过去的20年中，没有开发出专门治疗高血压的新药物。大多数高血压患者需要两种或两种以上的药物来控制血压并同时使用他汀类药物来降低危险因素。许多临床医生在没有特别理由的情况下，一种又一种地增加药物，其效果有限，而且产生了不必要的成本和副作用[5]。尽管有有效和安全的抗高血压药物可供使用，但大多数患者的高血压及其伴随的危险因素仍未得到控制。在不同人群中，对不同种类药物的反应是相似的，然而，每个人的反应会有显著的不同[6]。选择药物治疗时，如何为患者选择降压药提供最有效的降压效果仍然存在困难，需要研究可以帮助预测对降低血压的药物的反应的工具对临床医生在药物选择和个体化治疗方面提供指导。由于缺乏相关分子机制研究，高血压的诊断和治疗存在局限性，迫切需要研究新的策略减少其对公共健康的影响[7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前已知原发性高血压患者的血压升高的三种机制：钠量（Volume）、肾素-血管紧张素系统 (Renin-angiotensin system，RAS)和交感神经系统 (Sympatheticnervous system，SNS)。大多数药物(利尿剂、血管紧张素转换酶抑制剂[ACEIs]、血管紧张素受体阻滞剂[ARBs]、直接肾素抑制剂[DRIs]、b-阻滞剂、a-阻滞剂和中央a-激动剂)都以它们作为靶点[5]。钙通道阻滞剂（Calciumchannel blockers,",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CCB）已被美国食品和药物管理局(FDA)批准单独或与其他抗高血压药物联合使用用于降低血压，同时如血管紧张素转换酶抑制剂、血管紧张素受体阻滞剂、肾素抑制剂和他汀类药物等也联合上市。尽管有各种药物和处方联合治疗，但仍有超过 $40 \\%$ 的患者血压不受控制。研究发现有几个靶点可以作为潜在的治疗选择，包括 Toll样受体4，血管紧张素ⅡI诱导的高血压的关键调节剂；蛋白酶激活受体 2；chemerin；apelin 受体；瞬时感受器电位褪黑素；尿紧张素-II 和Tie2受体。近年来，人们进行了大量的研究来确定高血压的发病机制和新的治疗策略，仍然存在对控制血压的新的、更有效的治疗方案的需求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近年来，越来越多的研究使用组学技术揭示高血压病理生理学和诊断、器官损伤和治疗反应预测以及监测治疗效果中的作用。迅速发展的蛋白质组学技术已被应用于多种疾病的临床和转化研究，但是高血压的蛋白质组学研究数量较为有限[8]。最近的一些例子显示出了蛋白质组学用于研究高血压发病机制的潜力。例如，Matafora 等人进行高血压患者尿液蛋白质组学研究来确定与高血压和盐敏感性的发病机制相关的尿蛋白，发现尿肾素1可能预测盐敏感表型[9]。Kuznetsova等人使用尿液蛋白质组学开发了一组肽，这些肽是高血压患者早期舒张功能障碍的特征。该组中的肽在明显心力衰竭患者和对照组中也有差异表达，表明参与器官损伤早期阶段的分子过程仍然在晚期疾病中发挥作用[10]。Pena 等人在高血压患者和糖尿病患者中进行的一项血浆蛋白质组学研究，确定了蛋白尿状态转变的生物标志物特征，这可能有助于早期识别高血压的肾脏并发症[11]。Gajjala 等人通过比较高血压患者和对照组血浆样品的蛋白质组，发现了27个差异分子在病例中与对照组表达不同，有的差异分子在血压调节和心血管疾病中具有已知和可能的作用[7]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于不受稳态系统的调控，尿液是疾病标志物的良好来源之一，富含机体早期、全部的变化[12]。基于尿液蛋白质组学技术，近年来研究者已经在阿尔兹海默症[13]、自闭症[14]、抑郁症[15]、脑胶质瘤[16]、小儿髓母细胞瘤[17]、帕金森[18]等疾病中发现，尿蛋白质组可以反映出肾脏系统以外的脑部或神经系统发育障碍相关的变化。有研究表明尿蛋白组学可以反映冠状动脉疾病的病理生理变化[19]。Zimmerli等人比较了冠状动脉疾病患者和对照组尿液多肽，发现一组反应冠状动脉特征的尿肽，表明尿蛋白质组学可以可靠的识别冠状动脉患者，并可能在监测治疗干预的效果[20]。Dawson 等人探索了中风患者与对照组的尿液蛋白质组，并开发了用于诊断中风的生物标志物分类器模型[21]。吴建强等人在颈动脉狭窄（CAS）和健康对照组患者中进行尿液蛋白质组学研究，确定了用于CAS 无创早期筛查和风险分层的新型潜在尿液生物标志物[22]。这些结果表明，对于涉及多种生物学通路和器官的复杂疾病，尿液蛋白质组学技术有潜力提供心脑血管疾病新的机制以帮助进一步了解和表征疾病的病理生理学。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "易卒中型自发性高血压大鼠（stroke-prone spontaneously hypertensive,SHRSP）是一种自发发展复杂形式的脑血管病变的动物模型。SHRSP是从自发性高血压大鼠（SHR）中通过选择交配，再经继代近亲繁殖培育而成的，是高血压和脑卒中的一种独特的遗传模型[23-26]。SHRSP大鼠表现出与人颅内出血、动脉粥样硬化血栓栓塞性梗死和腔隙性梗死相似的特征[26]。在本研究中，我们使用SHRSP大鼠模型模拟易发卒中的高血压疾病，分别在第1、4、8、10、12和14月收集尿液并进行数据依赖性非标记定量的蛋白质组学分析。考虑到疾病进展程度可能不同，本研究采用单只大鼠前后对比的方式筛选差异蛋白，根据差异蛋白进行生物学通路注释分析，更细致的了解疾病进展过程中涉及到的病理机制，为了解心脑血管疾病的生物学相关过程以及寻找新的药靶提供新的线索。同时，未来针对高血压患者也可以通过分析尿蛋白质组进行通路分析，选择有针对性的药物进行个性化治疗。本研究技术路线如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf7ee19b5042552cafe00d571f4efe5766fbaf8a942f92027f68e498900957ac.jpg",
+        "img_caption": [
+            "图1本研究技术路线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2材料与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1实验动物及模型建立",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4周龄雄性 SHRSP大鼠18只和雄性Wistar大鼠6只，体重 $1 4 0 { \\cdot } 1 6 0 \\mathrm { g }$ ，购自北京维通利华实验动物技术有限公司，所有动物在标准环境中（室温 $2 2 { \\pm } 1 ^ { \\circ } \\mathrm { C }$ .湿度 $6 5 \\% { \\sim } 7 0 \\%$ ）饲养。本动物实验经过中国医学科学院基础医学研究所伦理委员会评审（编号：ACUC-A02-2014-007）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2尿液样本的收集及样本处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将大鼠放入代谢笼适应3天后，收集每只大鼠第1月龄、4月龄、8月龄、10 月龄、12月龄和14月龄的尿液。每只大鼠放入代谢笼中，收集早上8点至下午6点的尿液。尿液收集后用 $1 2 0 0 0 \\mathrm { g }$ 离心40分钟，取上清用3倍体积的乙醇沉淀过夜，然后 $1 2 0 0 0 \\mathrm { g }$ 离心30 分钟。将蛋白沉淀重悬于裂解液(8mol/L尿素，2mol/L硫脲， $2 5 \\mathrm { m m o l / L }$ 二硫苏糖醇和 $5 0 \\ \\mathrm { m m o l } / \\mathrm { L } ^ { \\prime }$ Tris)。用Bradford法测量蛋白浓度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用滤器辅助样品制备（FASP）方法进行尿蛋白酶解[27]。将尿蛋白加载到 $1 0 \\mathrm { { k D a } }$ 超滤管(PALL公司)的滤膜上，用UA（ $\\mathrm { 8 m o l / L }$ 尿素 $\\mathrm { 0 . 1 m o l / L }$ Tris-HCl,$\\mathrm { p H } ~ 8 . 5 ) \\$ 和 25mmol/L NH4HCO3 溶液洗涤两次；加入 20 mmol/L 二硫苏糖醇(Sigma 公司)在 $3 7 ^ { \\circ } \\mathrm { C }$ 中变性1小时，再与 $5 0 \\ \\mathrm { m m o l / L }$ 碘乙酰胺(Sigma 公司)在黑暗中烷基化30 分钟,用UA 和 NH4HCO3 洗涤两次，以1：50 比例加入胰酶(Promega 公司)在 $3 7 ^ { \\circ } \\mathrm { C }$ 水浴中消化14小时。将多肽混合物通过HLB柱(Waters 公司)除盐后用真空干燥仪进行抽干。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3高 $\\mathbf { p H }$ 反相色谱预分离 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "酶切后的样品用 $0 . 1 \\%$ 甲酸水重溶，并稀释到 $0 . 5 \\mu \\mathrm { g / u L }$ ，取每个样品制备混合多肽样，使用高 $\\mathsf { p H }$ 反相肽段分离试剂盒(Thermo Fisher Scientific)进行分离。将混合多肽样品和乙晴浓度梯度递增的洗脱液分别加于色谱柱上，通过离心收集十份流出液，使用真空干燥仪抽干后用 $0 . 1 \\%$ 甲酸水复溶。本次研究使用iRT合成多肽（Biognosis公司)，以10：1的体积比例加入到十个组分和每个样品中。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4高效液相串联质谱数据采集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用 EASY-nLC 1200 色谱系统(Thermo Fisher Scientific)和 Orbitrap FusionLumos Tribrid质谱仪(Thermo Fisher Scientific)进行质谱采集和分析。将肽段样品加载到预柱（ $7 5 ~ { \\mu \\mathrm { m } } { \\times } 2 ~ \\mathrm { c m }$ ,C18, $2 \\mu \\mathrm { m }$ ，ThermoFisher）和反相分析柱（ $5 0 ~ { \\mu \\mathrm { m } } { \\times } 1 5$ cm, C18, $2 \\mu \\mathrm { m }$ ，Thermo Fisher），以 $3 0 0 ~ \\mathrm { { n L / m i n } }$ 流速进行洗脱，洗脱时间为90分钟，洗脱用梯度为 $4 \\% - 3 5 \\%$ 的流动相（ $80 \\%$ 乙腈 $+ 0 . 1 \\%$ 甲酸 $+ 2 0 \\%$ 水)。参数设置如下：喷雾电压 $2 . 4 \\mathrm { k V } ,$ 一级全扫描范围为 $3 5 0 { - } 1 5 5 0 \\mathrm { m / z } ,$ 分辨率60000；二级扫描范围为 $2 0 0 { - } 2 0 0 0 \\mathrm { m / z }$ ，分辨率30000，循环时间3s，最高速度模式， $30 \\%$ HCD碰撞能量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将反相色谱柱分离得到的10个组分进行DDA模式采集质谱数据，把DDA采集的结果导入ProteomeDiscoverer 软件（版本 2.1）搜库，参数：人数据库（2018年发布，含20346条序列）附加iRT多肽序列，胰酶酶切，最多允许两个漏切位点，母离子质量容差 $1 0 \\mathrm { p p m }$ ，碎片离子质量容差 $0 . 0 2 \\mathrm { D a }$ ，甲硫氨酸氧化为可变修饰，固定化修饰为半胱氨酸的氨酰甲基化修饰，蛋白FDR设置为 $1 \\%$ 。PD搜库结果用于建立DIA采集方法，根据 $\\mathrm { m } / \\mathrm { z }$ 分布密度计算窗口宽度和数量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将单个多肽样品进行DIA模式采集质谱数据，每个样本重复采集3次。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5质谱数据分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用 SpectronautX软件对质谱数据进行处理和分析。根据10个DDAraw 文件建立谱图库，导入每个样本DIA采集的raw文件进行搜库。高度可信蛋白标准为肽段qvalue ${ \\ < } 0 . 0 1$ ，采用二级肽段所有碎片离子峰面积进行蛋白定量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.6动物尾动脉无创血压测量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 4月龄时，使用动物尾动脉无创测压系统检测大鼠尾内动脉的波动情况，将大鼠装入固定盒内固定后放入动物固定架，大鼠尾部通过加压套插入至接近尾根部，使鼠尾刚好处于脉搏传感器，使鼠尾压迫片紧贴尾动脉，待大鼠脉搏稳定后进行血压测量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.7动物模型脑部组织摘取及HE染色",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对每只大鼠进行心内灌注，先用 $0 . 9 \\%$ 生理盐水迅速冲净全身血液，迅速用$4 \\%$ 多聚甲醛进行固定，取出全脑保存于 $4 \\%$ 多聚甲醛，进行HE染色：组织修剪、脱水、透明，进蜡包埋，切片、展片、拷片，脱蜡，苏木精染色，盐酸酒精分色，脱水，伊红复染脱水，封片。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.8统计学分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将每只大鼠的不同时间点间进行差异蛋白筛选。两组数据之间的比较采用双尾非配对t检验。筛选差异蛋白标准为：两组之间变化倍数 $\\mathrm { F C } { \\ge } 1 . 5$ 或 $\\mathrm { F C } { \\le } 0 . 6 7$ $\\mathrm { P } { < } 0 . 0 5$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.9差异蛋白的功能注释",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将筛选到的差异蛋白用DAVID 数据库（https://david.ncifcrf.gov/）和 IPA软件(Ingenuity Systems,Mountain View,CA,USA)进行功能富集分析。均采用 $\\mathbf { P } <$ 0.05的显著性阈值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1SHRSP大鼠的特征 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 4月龄时，使用动物尾动脉无创测压系统检测大鼠尾内动脉的情况，SHRSP大鼠收缩压平均值为 $1 4 0 \\mathrm { m m H g }$ ，对照组大鼠收缩压平均值为 $1 1 0 \\mathrm { m m H g }$ SHRSP大鼠舒张压平均值为 $1 8 0 \\mathrm { m m H g }$ ，对照组大鼠舒张压平均值为 $1 3 0 \\mathrm { m m H g }$ 结果显示 SHRSP血压与对照组大鼠的收缩压（ $\\mathbf { \\boldsymbol { P } } { < } 0 . 0 1$ ）和舒张压（ $\\scriptstyle \\mathbf { P } < 0 . 0 0 1$ ）均出现显著差异（图 2)，表明 SHRSP 大鼠出现高血压状态。在14 月龄时，SHRSP大鼠中出现行为表现为俯卧不动，不能行走，忧郁性的症状。过量麻醉处死后，取其中3只大鼠脑部和肾脏进行HE染色，图3为3只SHRSP大鼠14月龄的病理图，1号大鼠（图3A-B）脑部未见出血灶；只有极少部分肾小球、肾小管肿胀、变性、纤维化，有少量的蛋白管型存在。2号大鼠（图3C-D）在海马和脑室周围可见出血灶，周围脑组织有液化性坏死；肾脏可见多个肾小球和肾小管坏死萎缩，部分肾小球玻璃样变、纤维化，肾小动脉管壁增厚，管腔狭窄周围有多个炎性细胞浸润，肾小管多见蛋白管型。3号大鼠（图3E-F）脑部皮层和海马区部位见多个散在的出血灶，引起周围组织脑组织硬化性坏死；肾脏可见多个肾小球和肾小管坏死萎缩，部分肾小球玻璃样变、纤维化，肾小动脉管壁增厚，管腔狭窄周围有多个炎性细胞浸润，肾小管多见蛋白管型。病理结果显示,14月龄的SHRSP大鼠出现脑部出血病变和肾脏病变。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8cda2b94bbb83cf8a7623321db8547009d9e7e0e818868df6588077d449891a.jpg",
+        "img_caption": [
+            "图24月龄SHRSP大鼠和对照组大鼠的血压"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffd1ecd809dd3da19b557110e6b29567aa1dc10d97f33049672de909417e6149.jpg",
+        "img_caption": [
+            "图3SHRSP大鼠的脑和肾病理"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(A)1号大鼠脑组织病理；（B）1号大鼠肾脏组织病理；（C）2号大鼠脑组织病理；（D）2号大鼠肾脏组织病理；（E）3号大鼠脑组织病理；（F）3号大鼠肾脏组织病理",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2SHRSP大鼠尿蛋白质组变化",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我们取了4只大鼠的第1、4、8、10、12和14月龄时共6个时间点的尿液样本，提取尿液蛋白酶切后，进行数据依赖型质谱数据采集，每个样本进行3次技术重复，使用 Spectronaut 软件进行了蛋白非标记定量分析。本研究共鉴定到884个蛋白，补充缺失值后共有649个蛋白用于后续分析。对4只大鼠不同时间点的差异蛋白进行筛选，筛选条件采取倍数变化 $\\geqslant 1 . 5$ 或 ${ \\leqslant } 0 . 6 7$ ； $\\mathbf { P } { < } 0 . 0 5$ 。考虑到病理结果提示每只大鼠疾病进程可能不同，本研究采取单只大鼠前后两个时间点对照的方式筛选差异蛋白，尝试用尿蛋白质组更细致的了解SHRSP大鼠疾病进展过程中的变化，寻找可能的干预靶点。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对1号大鼠6个时间点蛋白组进行差异蛋白筛选，与第1月时相比，在第4月时筛选到173个差异蛋白；与第4月时相比，在第8月时筛选到321个差异蛋白；与第8月时相比，在第10个月时筛选到91个差异蛋白；与第10个月相比，在第12个月时筛选到61个差异蛋白；与第12个月相比，在第14个月时筛选到52个差异蛋白。用韦恩图展示了不同时间点差异蛋白的重叠情况（图4A），共有2个差异蛋白在所有时间点都鉴定到。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对2号大鼠6个时间点蛋白组进行差异蛋白筛选，与第1月时相比，在第4月时筛选到176个差异蛋白；与第4月时相比，在第8月时筛选到302个差异蛋白；与第8月时相比，在第10个月时筛选到128个差异蛋白；与第10个月相比，在第12个月时筛选到113个差异蛋白；与第12个月相比，在第14个月时筛选到65个差异蛋白。用韦恩图展示了不同时间点差异蛋白的重叠情况（图4B)，共有3个差异蛋白在所有时间点都鉴定到。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对3号大鼠6个时间点蛋白组进行差异蛋白筛选，与第1月时相比，在第4月时筛选到113个差异蛋白；与第4月时相比，在第8月时筛选到380个差异蛋白；与第8月时相比，在第10个月时筛选到91个差异蛋白；与第10个月相比，在第12个月时筛选到69个差异蛋白；与第12个月相比，在第14个月时筛选到41个差异蛋白。用韦恩图展示了不同时间点差异蛋白的重叠情况（图4C)，共有4个差异蛋白在所有时间点都鉴定到。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对4号大鼠6个时间点蛋白组进行差异蛋白筛选，与第1月时相比，在第4月时筛选到126个差异蛋白；与第4月时相比，在第8月时筛选到214个差异蛋白；与第8月时相比，在第10个月时筛选到 2611个差异蛋白；与第10个月相比，在第12个月时筛选到29个差异蛋白；与第12个月相比，在第14个月时筛选到95个差异蛋白。用韦恩图展示了不同时间点差异蛋白的重叠情况（图4D)，共有3个差异蛋白在所有时间点都鉴定到。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f49ef601f0d5c77b6a04c7d0e665388b97eeeda85cc4e349ca69345f8476223.jpg",
+        "img_caption": [
+            "图44只大鼠蛋白质组分析不同时间点的尿液样本"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(A)1号大鼠不同时间点鉴定到的差异蛋白的重合情况；（B）2号大鼠不同时间点鉴定到的差异蛋白的重合情况；（C）3号大鼠不同时间点鉴定到的差异蛋白的重合情况；（D）4号大鼠不同时间点鉴定到的差异蛋白的重合情况",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3不同时间点差异蛋白的功能分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "使用DAVID数据库和IPA软件对差异蛋白进行功能注释分析，将每只大鼠的不同时间点的差异蛋白依据生物学过程和通路进行了分类。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对1号大鼠在4月、8月和14月时鉴定到的差异蛋白进行了功能注释分析，在生物学过程中（图5A)，细胞氧化解毒、蛋白水解作用、老化和纤维蛋白溶解在3个时间点均被显著富集；补体激活，经典途径、氧化应激反应、负调控内肽酶活性和药物反应在4月和8月龄时被显著富集；对有机物的反应和应对营养过程在4月和14月龄时被显著富集。糖酵解过程、急性期反应、氧化还原过程和吞噬作用只在第4月龄时被显著富集；凝血、细胞粘附、负调节血液凝固、炎症反应和上皮细胞分化只在第8月龄时被显著富集；中间纤维组织、血管紧张素、负调控ERK1和ERK2级联和肾素-血管紧张素对全身动脉血压的调节过程只在第14月龄时被显著富集。在信号通路中（图6A)，LPS/IL-1介导的RXR功能抑制和铁稳态信号通路在4月龄和8月龄时被富集；LXR/RXR激活和凝血系统在8月龄和14月龄时被富集；Apelin脂肪细胞信号通路只在4月龄被富集；动脉粥样硬化信号通路只在8月龄被富集；糖皮质激素受体信号通路只",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在14月龄被富集。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对2号大鼠在4月、8月和14月时鉴定到的差异蛋白进行了功能注释分析（图 5B)，在生物学过程中，蛋白水解作用和视网膜内稳态在3个时间点均被显著富集；急性期反应、负调控内肽酶活性、对有机物的反应、补体激活，经典途径、过氧化氢分解代谢过程和器官再生在4月和8月龄时被显著富集；纤维蛋白溶解和凝血过程在4月和14月龄时被显著富集。对铅离子的响应、药物反应、应对营养和氧化还原过程只在第4月龄时被显著富集；老化、血液凝固的负调节、通过质膜细胞粘附分子实现异嗜性细胞间粘附、细胞氧化解毒、对营养水平的反应、对氧化应激的反应只在第8月龄时被显著富集；中间丝组织、对革兰氏阴性菌的防御反应、受体介导的病毒粒子附着于宿主细胞、组织重塑的调节、参与凋亡过程的半胱氨酸型内肽酶活性的负调节只在第14月龄时被显著富集。在信号通路中（图6B)，蛋白水解和视网膜内稳态在4月、8月和14月龄均被富集；内肽酶活性的负调控和补体激活经典途径在 4月和8月龄被富集；纤维蛋白溶解和凝血通路在8月和12月龄时被富集。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对3号大鼠在4月、8月和14月时鉴定到的差异蛋白进行了功能注释分析（图 5C)，在生物学过程中，急性期反应、负调控内肽酶活性、细胞氧化解毒、补体激活，经典途径、过氧化氢分解代谢过程和应对缺氧在4月和8月龄时被显著富集；蛋白水解作用、纤维蛋白溶解和应对营养在4月和14月龄时被显著富集。染色质沉默、先天免疫反应、对过氧化氢的反应、吞噬作用,识别和细胞对白细胞介素-6的反应只在第4月龄时被显著富集；老化、凝血、碳水化合物代谢过程、谷胱甘肽代谢过程、负调节血液凝固、对铅离子的响应、细胞粘附和氧化应激反应只在第8月龄时被显著富集；中间纤维组织和受体介导内吞作用只在第14月龄时被显著富集。在信号通路中（图6C)，补体激活经典途径和缺氧反应和糖皮质激素受体信号通路在4月和8月龄被富集；上皮细胞醛固酮信号转导通路和Apelin脂肪细胞信号通路在14月龄时被富集。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对4号大鼠在4月、8月和14月时鉴定到的差异蛋白进行了功能注释分析（图 5D)，在生物学过程中，蛋白水解作用和氧化还原过程在4月、8月和14月龄时均被显著富集；对有机物的反应、药物反应、老化和补体激活，经典途径在4月和8月龄时被显著富集；负调控内肽酶活性、纤维蛋白溶解、凝血、急性期反应和负调节血液凝固在8月和14月龄时被显著富集。染色质沉默、细胞粘附、细胞氧化解毒、氧化应激反应、吞噬作用,吞没、细胞骨架组织和B 细胞活化的正向调控只在第4月龄时被显著富集；糖皮质激素反应、对有机环化合物的反应、炎症反应、吞噬正向调节和应对缺氧只在第8月龄时被显著富集;碳水化合物代谢过程、应对营养、负调节炎症反应和磷脂酰胆碱代谢过程只在第14月龄时被显著富集。在信号通路中（图6D)，蛋白水解和氧化还原过程在4月、8月和14月龄均被富集；肾素-血管紧张素对全身动脉血压的调节作用在4月龄时被富集；糖皮质激素反应、肾素-血管紧张素信号通路和 Apelin 脂肪细胞信号通路在8月龄时被富集。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A 4M-1M cellular oxidant detoxification 三 8M-4M 14M-12N proteolysis aging fibrinolysis negative regulation of endopeptidase activity 1 response to drug complement activation,classical pathway response to oxidative stress 、 response to organic substance response to nutrient glycolyticprocess acute-phaseresponse proidtiorctiecs phagocytosis,recognition ， blood coagulation cell adhesion negative regulation of blood coagulation inflammatoryresponse cell-matrix adhesion intermediate filament organization renal absorption angiotensin maturation\" regulation of systemic arterial blood pressure by renin-angiotensinnegative regulation of ERK1 and ERK2 cascade 1 15 1 1 1 0 10 15 20 25 -log(P-value) B acute-phase response ■ 4M-1M negative regulation of endopeptidase activity Luul 一 14M-12M proteolysisretina homeostasis c hydrogen peroxide catabolic process organ regeneration blood cograisis response to lead ionresponse to drug response tonutrient oxidation-reduction process L-kynurenine metabolic process aging negative regulationof blood coagulation heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules\" cellular oxidant detoxification response to nutrient levels intermediate filament organization defense response to Gram-negative bacterium regulation of tissue remodeling receptor-mediated virion attachment to host cell- 1 15 T T 1 0 10 15 20 -log(P-value) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "acute-phase response 43I-4M negative regulation of endopeptidase activity 14M-12M cellular oxidant detoxification H complement activation, classical pathway 一 hydrogen peroxide catabolic process □ response to hypoxia response to organic substance proteolysis fibrinolysis response to nutrient chromatin silencing innateimmuneresponse response to hydrogen peroxide phagocytosis,recognition cellularresponse tointerleukin-6 aging blood coagulation carbohydrate metabolic process glutathione metabolic process negativeregulation of bloodcoagulation intermediate filament organization receptor-mediated endocytosis keratinocyte developmentkeratinization respose to thyroid hormone T5 10 15 7 20 -log(P-value) D 4M-1M proteolysis 三 8M-4M oxidation-reduction process 14M-12M response to organic substance response to drug agingcomplement activation,classical pathway hydrogen peroxide catabolic process\" negative regulation of endopeptidase activity fibrinolysis blood coagulation acute-phase response negative regulation of blood coagulation response to nutrient levels cellular oxidant detoxification chromatin silencing cell adhesion response to oxidative stress phagocytosis,engulfment response toglucocorticoidresponse to organic cycliccompoundinflammatoryresponse positiveregulation of phagocytosis response to hypoxia carbohydratemetabolicprocess response to nutrient negativeregulationof inflammatoryresponse phosphatidylcholine metabolic process respons to toxi ustne 5 10 15 7 20 -log(P-value) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(A)1号大鼠；（B）2号大鼠；（C）3号大鼠；（D）4号大鼠",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A LPS/IL-1Mediated InhibitionofRXRFunction 4M-M Ironhomeostasis signalingpathway 14M-12M Maturity OnsetDiabetes ofYoung (MODY) SignalingD-glucuronateDegradationIAcute Phase Response Signaling LXR/RXR Activation CoagulationSystem Intrinsic Prothrombin Activation Pathway ExtrinsicProthrombin ActivationPathway Clathrin-mediatedEndocytosisSignaling GlycolysisIGluconeogenesisI- .. GlutathioneRedoxReactionsIPhagosomeMaturation ArsenateDetoxificationI(Glutaredoxin)- Rapoport-LueberingGlycolyticShunt ApelinAdipocyteSignalingPathway Complement SystemAtherosclerosis SignalingIL-12SignalingandProduction inMacrophages CalciumTransportIGlucocorticoid Receptor Signaling ApelinCardiacFibroblastSignalingPathwayRoleofIL-17FinAllergicInflammatoryAirwayDiseases 10 T T T 1 10 20 30 40 -log(P-value) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "B ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4M-1M proteolysis 8M-4M 14M-12M retina homeostasis 三 ei response to organic substance 山 complement activation, classical pathway hydrogen peroxide catabolic process organregeneration fibrinolysis blood coagulation response to lead ion response to drug response to nutrient oxidation-reduction process aging negative regulation of blood coagulation IL-12 Signaling and Production in Macrophages' Calcium TransportI IL-6 Signaling intermediatefilamentorganization 二 15 T T 1 0 10 15 20 -log(P-value) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "C ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/517572cabd9e2a1845da05cf6e27bf1ede6b0561a44f0866d34fdc797ffba1b5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/a19a5d0558c49298979b6fe917c863099d7070d2a593a196076034d917a1a878.jpg",
+        "img_caption": [
+            "图64只大鼠不同时间点差异蛋白富集到的信号通路(A)1号大鼠；（B）2号大鼠；（C）3号大鼠；（D）4号大鼠"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，我们使用SHRSP大鼠模型，使用非标记定量蛋白质组学技术鉴定了易发卒中的高血压大鼠进展过程中不同时间点的尿液蛋白质组的动态变化。在疾病进展过程中我们富集到一些重要的生物学过程，例如肾素-血管紧张素对全身动脉血压的调节作用、对氧化应激的反应、凝血、纤维蛋白溶解、中间纤维组织、补体激活经典通路、细胞对白介素6的反应、炎症反应、对细胞因子的反应及对吞噬作用的调控等过程。除血压高外，肾素-血管紧张素-醛固酮系统和血管炎症诱导的肾脏氧化应激是公认的高血压病理生理机制。（i）高血压的特征是系统性动脉中的持续性高压，尿血管紧张素原作为高血压肾内血管紧张素状态的一个指标，研究表明高血压患者尿血管紧张素原水平升高[28,29]。动脉血压的升高会随着肾脏灌注压的升高而传递到肾脏，从而导致钠和水的排泄量增加，肾素-血管紧张素-醛固酮系统在维持压力性尿钠排泄中起到核心作用[30]。（ii）有研究表明，氧化应激与高血压的发病机制有关[31]，在高血压的病理生理过程中，氧化应激促进内皮功能障碍，血管重塑和炎症，从而导致血管损伤[32]。对原发性高血压患者的临床研究表明，血压与氧化应激生物标志物正相关，与抗氧化水平负相关[33]。（iii）炎症在高血压的发生和维持中起着重要作用，与许多免疫系统的细胞的激活相关，例如T细胞、抗原提呈细胞、巨噬细胞、自然杀伤细胞和B细胞，促炎性细胞因子加剧心肌肥大和纤维化，导致高血压的血管功能障碍和器官损伤。高血压还会导致大脑发生炎症反应和功能障碍[34]。这些炎症机制对高血压的调节提供了新的靶点。IL-6是一种多功能促炎细胞因子，研究表明IL-6 的产生可能通过介导巨噬细胞向肾脏浸润或增殖而参与达尔盐敏感大鼠的高血压[35]。此外，临床研究发现IL-6 水平与自发性脑出血后较差的功能预后相关，可作为脑出血潜在介入靶点[36]。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "此外，这些差异蛋白还富集到一些重要的通路。例如上皮细胞中的醛固酮信号传导通路、肾素-血管紧张素信号通路、巨噬细胞中的IL-12 信号传导和产生、Apelin 脂肪细胞信号通路、钙离子转运通路、STAT3 通路、糖皮质激素受体信号等。（1）醛固酮是一种类固醇激素，由肾上腺皮质外层的肾小球带合成和分泌，调节钠稳态，控制血容量和血压。这种激素的过度分泌会导致高血压并加剧疾病的发病率和死亡率，对醛固酮生物合成调控信号通路的了解，有助于寻找高血压等心血管疾病的治疗干预的新靶点[37]。（2）血管紧张素转换酶抑制剂（ACE抑制剂）作用机制为ACE位于大血管和小血管、毛细血管和小静脉的内皮细胞以及肺内皮细胞中。ACE抑制剂以ACE为靶点，它催化血管紧张素I向血管紧张素ⅡI的转化，使小阻力动脉血管舒张，总外周阻力降低，血压降低[38]。（3）血管紧张素ⅡI受体阻断剂（ARBs）作用机制为ARBs在血管紧张素ⅡI受体1水平拮抗血管紧张素ⅡI的作用，血管紧张素ⅡI是一种有效的血管收缩肽，阻断其对血管紧张素Ⅱ受体1型的作用，从而减少血管紧张素Ⅱ诱导的血管收缩、钠潴留和醛固酮释放的影响，导致小阻力动脉的血管舒张，减少总外周阻力和血压[38]。（4）研究发现，单核细胞在高血压期间被血管内皮激活可能是由于NO信号传导的丧失和功能失调的内皮细胞释放IL-6和过氧化氢的增加以及相邻单核细胞中STAT激活，因此提高生物可利用NO、减少IL-6或过氧化氢产生或抑制STAT3的干预措施可能在高血压和相关疾病中具有抗炎作用。（5）钙通道阻滞剂(CCB)通过跨越细胞壁的离子特异性通道抑制细胞外钙的流动。尽管已经确定了几种类型的此类通道，但目前可用的CCB会抑制人体中的1型通道。当向内的钙流受到抑制时，血管平滑肌细胞会松弛，从而导致血管舒张和血压(BP)降低[39]。（6）Apelin是一种血管活性肽，Apelin及其受体APJ在心血管系统中广泛表达于血管、心脏和大脑的心血管调节区域。越来越多的证据表明，apelin/APJ受体系统在心血管生理和病理生理学中发挥调控作用，使其成为心血管药物发现和开发的潜在靶点[40]。（7）糖皮质激素通过包括血管平滑肌、血管内皮、中枢神经系统和脂肪组织等多种肾外组织参与血压调节，过量的糖皮质激素引起盐皮质激素受体的混杂激活会诱发高血压。糖皮质激素受体在许多与血压调节相关的器官系统中广泛表达，在高血压的发病机制和维持中也具有重要作用[41]。这些结果表明，尿蛋白相关的信号通路可能为高血压的药物研究提供新的靶点。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "高血压发展的持续时间及其与年龄的相关性是一个挑战，应对人类进行长期纵向研究。考虑到动物模型中大鼠疾病进程不同，本研究采用单只大鼠前后时间点比较筛选差异蛋白的方式，是研究多因素复杂疾病尿蛋白质组的策略之一。本研究中发现在多只大鼠中共同鉴定到一些重要的生物学过程和通路，这表明高血压可能涉及的显著通路是有限的。不同的大鼠的独特的生物学通路可能为高血压个性化诊疗提供新的线索。未来针对高血压患者也可以通过分析尿蛋白质组进行通路分析，选择有针对性的药物进行个性化治疗。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5小结 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本研究表明尿液蛋白质组学可以反应与高血压相关的病理机制过程。这提示我们，尿液蛋白质组学方法可能用于研究高血压的相关机制，寻找高血压新的药物靶点，有潜力提供个性化最佳疗效的降压治疗的策略。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "1．Rossier BC, Bochud M, Devuyst O. The Hypertension Pandemic: An Evolutionary Perspective.   \nPhysiology (Bethesda). 2017;32(2):112-25. 2.Olsen MH, AngellSY, Asma S,Boutouyrie P, Burger D, Chirinos JA, et al. A callto action and a lifecourse strategy to address the global burden of raised blood pressure on current and future generations: the Lancet Commission on hypertension. Lancet. 2016;388(10060):2665-712.   \n3．Zhou B,Perel P, Mensah GA, Ezzati M. Global epidemiology, health burden and effective interventions for elevated blood pressure and hypertension. Nat Rev Cardiol. 2021;18(11):785-802. 4.Collaboration NCDRF. Worldwide trends in hypertension prevalence and progres in treatment and control from 1990 to 2019: a pooled analysis of 1201 population-representative studies with 104 million participants. Lancet. 2021;398(10304):957-80.   \n5.Mann SJ. Drug therapy for resistant hypertension: simplifying the approach. J Clin Hypertens (Greenwich). 2011;13(2):120-30.   \n6.Messerli FH, Williams B, Ritz E. Essential hypertension. Lancet. 2007;370(9587):591-603. 7．Gajala PR,Jankowski V, Heinze G, Bilo G, Zancheti A,Noels H, et al. Proteomic-Biostatistic Integrated Approach for Finding the Underlying Molecular Determinants of Hypertension in Human Plasma. Hypertension. 2017;70(2):412-9.   \n8.Arnett DK, Claas SA. Omics of Blood Pressure and Hypertension. Circ Res. 2018;122(10):1409- 19.   \n9.Matafora V, Zagato L,Ferrandi M, Molinari I, Zerbini G, Casamassima N, et al. Quantitative proteomics reveals novel therapeutic and diagnostic markers in hypertension. BBA Clin. 2014;2:79-87. 10.Kuznetsova T, Mischak H, Mullen W, Staessen JA. Urinary proteome analysis in hypertensive patients with left ventricular diastolic dysfunction.Eur Heart J.2012;33(18):2342-50.   \n11．Pena MJ, Jankowski J, Heinze G,Kohl M, Heinzel A,Bakker SJ,et al. Plasma proteomics classifers improve risk prediction for renal disease in patients with hypertension or type 2 diabetes. J Hypertens. 2015;33(10):2123-32.   \n12.Gao Y. Urine-an untapped goldmine for biomarker discovery? Sci China Life Sci.   \n2013;56(12):1145-6.   \n13． Ni Y, Zhang F,An M, Yin W,Gao Y.Early candidate biomarkers found from urine of   \nglioblastoma multiforme rat before changes in MRI. Sci China Life Sci. 2018;61(8):982-7.   \n14. Meng W,Huan Y, Gao Y. Urinary proteome profiling for children with autism using dataindependent acquisition proteomics. Transl Pediatr. 2021;10(7):1765-78.   \n15.Huan Y, Wei J, Su T, Gao Y. Urine proteome changes in a chronic unpredictable mild stress (CUMS) mouse model of major depressive disorder. JPharm Biomed Anal. 2021;199:114064. 16.Wu J, Zhang J, Wei J, Zhao Y, Gao Y. Urinary biomarker discovery in gliomas using mass spectrometry-based clinical proteomics. Chin Neurosurg J. 2020;6:11.   \n17.Hao X, Guo Z, Sun H,Liu X, Zhang Y,Zhang L,et al. Urinary protein biomarkers for pediatric medulloblastoma. J Proteomics.2020;225:103832.   \n18.Virreira Winter S, Karayel O, Strauss MT, Padmanabhan S, Surface M, Merchant K,etal. Urinary proteome profiling for stratifying patients with familial Parkinson's disease. EMBO Mol Med. 2021;13(3):e13257.   \n19. Sun H, Wang D,Liu D, Guo Z, Shao C, Sun W, et al. Differential urinary proteins to diagnose coronary heart disease based on iTRAQ quantitative proteomics.Anal Bioanal Chem.   \n2019;411(11):2273-82.   \n20. Zimmerli LU, Schifer E, Zurbig P, Good DM,Kellmann M, Mouls L,et al. Urinary proteomic biomarkers in coronary artery disease.Mol Cell Proteomics.20o8;7(2):290-8.   \n21.Dawson J, Walters M, Delles C, Mischak H, Mullen W. Urinary proteomics to support diagnosis of stroke. PLoS One. 2012;7(5):e35879.   \n22. Wang W, Wu J,Liu P, Tang X, Pang H, Xie T, et al. Urinary Proteomics Identifying Novel Biomarkers for the Diagnosis and Phenotyping of Carotid Artery Stenosis. Front Mol Biosci. 2021;8:714706.   \n23. Okamoto K, Aoki K. Development of a strain of spontaneously hypertensive rats. Jpn Circ J. 1963;27:282-93.   \n24. Yamori Y, Horie R, Handa H, Sato M, Okamoto K. Proceedings: Studies on stroke in stroke-prone spontaneously hypertensive rats (SHRSP). (I). Local factor analysis on stroke. Jpn Heart J.   \n1975;16(3):329-31.   \n25.Watanabe H, Sasatani M,Doi T, Masaki T, Satoh K, Yoshizumi M.Protective Effects of Japanese Soybean Paste (Miso) on Stroke in Stroke-Prone Spontaneously Hypertensive Rats (SHRSP). Am J Hypertens. 2017;31(1):43-7.   \n26. Nabika T, Cui Z, Masuda J. The stroke-prone spontaneously hypertensive rat: how good is it as a model for cerebrovascular diseases? Cell Mol Neurobiol. 2004;24(5):639-46.   \n27.Wisniewski JR, Zougman A, Nagaraj N, Mann M. Universal sample preparation method for proteome analysis. Nat Methods. 2009;6(5):359-62.   \n28.Kobori H, Harrison-Bernard LM, Navar LG. Expression of angiotensinogen mRNA and protein in angiotensin II-dependent hypertension. J Am Soc Nephrol. 2001;12(3):431-9.   \n29.Kobori H, Nishiyama A, Harrison-Bernard LM,Navar LG. Urinary angiotensinogen as an indicator of intrarenal Angiotensin status in hypertension. Hypertension. 20o3;41(1):42-9.   \n30．Wadei HM, Textor SC.The role of the kidney in regulating arterial blood pressure.Nat Rev Nephrol. 2012;8(10):602-9.   \n31.Korsager Larsen M, Matchkov VV. Hypertension and physical exercise: The role of oxidative stress. Medicina (Kaunas). 2016;52(1):19-27.   \n32.Montezano AC,Dulak-Lis M, Tsiropoulou S, Harvey A, Briones AM, Touyz RM. Oxidative stress and human hypertension: vascular mechanisms, biomarkers, and novel therapies. Can JCardiol. 2015;31(5):631-41.   \n33.Rodrigo R,Libuy M, Feliu F, Hasson D. Oxidative stress-related biomarkers in essential hypertension and ischemia-reperfusion myocardial damage. Dis Markers. 2013;35(6):773-90. 34.Mikolajczyk TP, Szczepaniak P, Vidler F, Maffa P, Graham GJ, Guzik TJ. Role of inflammatory chemokines in hypertension. Pharmacol Ther. 2021;223:107799.   \n35．Hashmat S,Rudemiller N,Lund H,Abais-Battad JM, Van Why S,Mattson DL.Interleukin-6 inhibition attenuates hypertension and associated renal damage in Dahl salt-sensitive rats. Am J Physiol Renal Physiol. 2016;311(3):F555-61.   \n36.Leasure AC, Kuohn LR, Vanent KN, Bevers MB, Kimberly WT, Steiner T, et al. Association of Serum IL-6 (Interleukin 6) With Functional Outcome After Intracerebral Hemorrhage. Stroke. 2021;52(5):1733-40.   \n37．Bolag WB. Regulation of aldosterone synthesis and secretion. Compr Physiol.2014;4(3):1017- 55.   \n38.Messerli FH, Bangalore S, Bavishi C,Rimoldi SF. Angiotensin-Converting Enzyme Inhibitors in Hypertension: To Use or Not to Use? JAm Coll Cardiol. 2018;71(13):1474-82.   \n39.Elliott WJ, Ram CV. Calcium channel blockers. J Clin Hypertens (Greenwich).2011;13(9):687-9. 40.Mughal A, O'Rourke ST. Vascular effects of apelin: Mechanisms and therapeutic potential. Pharmacnl Ther 2018:190:139-47 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "41．Goodwin JE, Geller DS. Glucocorticoid-induced hypertension. Pediatr Nephrol. 2012;27(7):1059-   \n66. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(通讯作者:高友鹤E-mail: gaoyouhe $@$ bnu.edu.cn) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明\\*：",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "高友鹤，孟文书：提出研究思路，设计研究方案;  \n孟文书：进行实验;  \n孟文书：采集、清洗和分析数据；  \n高友鹤，孟文书：论文起草；  \n高友鹤，孟文书：论文最终版本修订。",
+        "page_idx": 18
+    }
+]

@@ -1,0 +1,462 @@
+[
+    {
+        "type": "text",
+        "text": "LTE-A中基于时隙接入的接入拥塞控制优化算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "段红光，何功成",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(重庆邮电大学 通信与信息工程学院，重庆 400065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在LTE-A中，由于物理随机接入信道(Physical Random Access Channel，PRACH)资源有限，当大量的设备几乎同时地向基站发起随机接入请求时，可能会导致接入网拥塞，接入时延增大，无法满足用户的服务质量需求。通过分析时隙接入模型，提出了一种自适应调整时隙接入周期的接入控制优化方案。与基于时隙接入的信道接入控制协议(slottd-access-based channel access control protocol，SCACP)相比，所提方案首先通过实时接入负载的估计，优化时隙接入周期的选择，均衡了接入时隙的接入请求，既保障了设备的接入成功率，又减少了不必要的前导重传，降低了接入时延。最后，仿真结果验证了所提接入控制优化方案的有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：LTE-A；随机接入；时隙接入；信道接入控制协议 中图分类号：TN929.5 doi:10.3969/j.issn.1001-3695.2018.01.0013 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Access congestion control optimization mechanism based on slot access in LTE-system ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Duan Hongguang, He Gongcheng† (Chongqing UniversityofPosts&Telecommunications,Communication&InformationEngineeing,Chongqing40o65,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT:InLTE-A,it mayresult incongestionwhen massvedevices initiate almost simultaneouslyarandomacce requestothebasestation,andthentheaccessdelaywillbeincreasedandthequalityofservicewillbenotsatisfied.Byanalying the random access model ofsloted access,this paper proposed an accesscongestioncontrol mechanism based on slot access cyele decision adaptivelywith the estimationofaccessload.Compared with the slotted-acess-based channelaccess control protocol(SCACP),this paperoptimized the choiceofslotaccesscycle tocounterbalancethe timeslotaccess load forthesake of acess sucess probabilityand accessdelay.Finally,thesimulationresults demonstratedthe efectiveness of theaccess congestion control mechanism. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:LTE-A system; random access; access load estimation; SCACP ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着物联网的快速发展，M2M通信逐步走进人们的生活，在智能交通、智能电网、无人超市等领域的应用越来越广泛。全球诸多电信研究机构均预计到2020年全球将有近百亿台智能设备活跃在移动网络中，M2M应用市场也将成为全球高速增长的高科技市场之一[1,2]。当前 LTE-A 蜂窝网具有覆盖范围广、系统容量高、向后兼容性强，且部署成本低，很适合成为M2M业务的承载网络。但当海量的M2M设备被同一事件触发，并几乎同时地向网络发起随机接入时，就可能导致严重的接入拥塞和很高的接入延迟，影响网络的整体吞吐量性能，同时接入失败的设备会再次尝试发起接入请求，将使得接入网拥塞变得更为严重[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "第三代合作伙伴组织(3rd Generation Partnership Project3GPP)在TR37.868报告中针对网络侧优化对大量M2M设备的接入拥塞问题进行了大量研究，并提出了六种备选接入控制机制[4]。在此基础上，参考文献[5]提出了一种基于pull的接入类禁止(access barring,ACB)机制，通过调整禁止参数的大小来控制 M2M设备的接入尝试。在参考文献[6-8]中，作者分析了LTE-A蜂窝网中M2M设备突发性到达对随机接入过程的影响，证明了ACB机制缓解接入拥塞的有效性。参考文献[9]提出了基于业务优先级的增强型接入禁止类(extended access barring,EAB)控制机制，使具有高优先级的设备尽可能不受低优先级设备的影响，保障系统服务质量。但ACB机制可能产生“乒乓效应”，在控制释放阶段再次发生接入拥塞。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文献[10]基于快速重传的多通道ALOHA提出了一种动态调整时隙前导资源数算法，在接入设备数和接入概率未知情况下使单位时间内接入设备数达到最大。文献[11]参考LTE-A中物理层帧格式和PRACH配置，提出了一种基于时隙接入的信道接入控制协议，均衡M2M设备的突发性到达以缓解接入时隙拥塞，但文中对时隙接入周期的设置不灵活，不能准确应对接入设备数的变化，导致接入延迟较高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于参考文献[11,12]，本文主要分析时隙接入方案的接入模型，参考SCACP的接入特性，提出一种基于自适应调整时隙接入周期的接入拥塞控制机制，在保障接入成功率的同时，尽可能降低设备接入时延。最后，仿真结果表明本文所提方案切实可行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统模型分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1随机接入模型分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在LTE-A系统中，用户终端在与基站通信前需发起随机接入。其中，基于竞争的随机接入过程包括以下四条信令的传输：msgl-前导选择发送、msg2-随机接入响应、msg3-资源调度请求、msg4-竞争解决。仅在四条信令传输完成后，才可认为设备完成随机接入过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于LTE-A系统配置，本文以接入时隙作为分析的基本单位。假设单小区中共有 $M$ 个待接入设备，其中H2H设备到达服从泊松分布，M2M设备到达服从beta分布。设 $L _ { \\mathrm { { } } i }$ 为接入时隙 $i$ 上可用前导数，其中被零个设备选择、被一个设备选择、被两个及其以上设备选择的前导数分别为 $Z _ { i }$ 、 $S _ { i }$ 、 $C _ { i }$ ，则当前时隙前导集合状态可表示为 $\\left( Z _ { i } , S _ { i } , C _ { i } \\right)$ ，可得前导集合状态数为$\\big [ \\big ( L _ { i } + 1 \\big ) \\big ( L _ { i } + 2 \\big ) \\big ] \\big / 2$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令接入时隙周期为 $K$ ，相邻随机接入时隙的时间间隔为 $T _ { R A }$ 基站侧前导处理时间为TRAR，终端侧 msg2响应窗口为WRAR，接入退避窗口为 $W _ { B O }$ 。当任意设备随机选择任一前导发送，在[(1+TRAR+WRAR)/TRA]个时隙后该设备仍未收到mSg2 消息，则本次前导发送失败。接着，在下一时隙接入周期的同一接入时隙该设备将重新选择任一前导发送，直至前导重传次数减为0。在此期间，所需接入时隙数 $\\Theta$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Theta = K \\Bigg [ \\frac { T _ { _ { R A R } } + W _ { _ { R A R } } } { K T _ { _ { R A } } } \\Bigg ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则，在接入周期[0,T]内所有设备完成随机接入过程的最大接入时隙数 $I _ { \\mathrm { m a x } }$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { m a x } } = \\left[ \\frac { T } { T _ { R A } } \\right] + K + \\left( N _ { P \\mathrm { m a x } } - 1 \\right) \\cdot \\Theta\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $N _ { { P \\mathrm { m a x } } }$ 为前导最大重传次数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令 $M _ { i } [ n ]$ 为 $i$ 时隙第 $n$ 次发送前导的设备数，其中$M _ { i } \\left[ n \\right] = S _ { i } \\left[ n \\right] + F _ { i } \\left[ n \\right] , S _ { i } \\left[ n \\right] = M _ { i } \\left[ n \\right] e ^ { - M _ { i } / L _ { i } } p _ { n }$ 为该时隙前导传输成功的设备数， $F _ { i } \\left[ n \\right] = M _ { i } \\left[ n \\right] - S _ { i } \\left[ n \\right]$ 为前导传输失败的设备数，（204号 $p _ { n }$ 是基站侧前导检测概率。因此，时隙 $i$ 时发送了前导的设备总数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { i } = \\sum _ { n = 1 } ^ { N _ { P \\mathrm { m a x } } } M _ { i } \\big [ n \\big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "暂不考虑msg2响应限制和 $\\mathrm { m s g } 3 / \\mathrm { m s g } 4$ 传输失败的影响，可得时隙 $i$ 时第 $n$ 次发送前导的设备数 $M _ { i } [ n ]$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { i } \\big [ n \\big ] = \\left\\{ \\begin{array} { l l } { \\displaystyle { \\sum _ { j = i - 1 } ^ { i - K } \\frac { M } { K } } \\int _ { t _ { j - 1 } + 1 } ^ { t _ { j } + 1 } g \\big ( t \\big ) d t , i f n = 1 } & \\\\ { F _ { i - \\Theta } \\big [ n - 1 \\big ] , } & { i f 2 \\leq n \\leq N _ { P \\operatorname* { m a x } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：g(t)= $g \\left( t \\right) = \\frac { t ^ { x - 1 } \\left( T - t \\right) ^ { y - 1 } } { T ^ { x + y - 1 } \\beta \\left( x , y \\right) } , 0 \\leq t \\leq T$ 为M2M设备到达概率分布函数， $\\beta ( x , y )$ 服从 beta 分布。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 时隙接入分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3GPP在TR37.868中针对RACH拥塞提出了一系列可能的解决方案，其中时隙接入方案的主要思想是接入设备只能在固定的接入时隙内才能发起随机接入，该时隙可由网络当前负荷、业务特性等确定。如图1所示，LTE-A中每 $1 0 \\mathrm { m s }$ 为一帧，每帧又分为10个子帧，其中若干为随机接入子帧。根据参考文献[11]，时隙接入方案将若干个随机接入子帧设为一个时隙接入周期，即一个时隙接入周期包含了 $K$ 个随机接入子帧。如果有两个及其以上的设备选择了同一时隙接入周期同一接入时隙的同一前导发送，则该前导传输发生了碰撞，接入失败的设备将在下一周期到来后再次选择某一前导发起随机接入。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a52784813f32227319bc97cbe059917cbb5c6ff93b03d0d798eb8f01ab7f10a.jpg",
+        "img_caption": [
+            "图1随机接入时隙时序"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同于其他接入拥塞控制方案，时隙接入方案通过将当前接入时隙内到达的负载分散到后续的接入时隙，缓解当前时隙的接入拥塞，提高接入成功率。时隙接入周期也就是接入帧 $K$ 值成为关键设置参数，经分析得， $K$ 值过大会导致设备接入延迟变大， $K$ 值过小会导致接入时隙中前导发生碰撞的概率变高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于时隙接入的接入控制优化算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 时隙负载估计 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "时隙 $i$ 时，基站通过对前导的检测得到当前前导集合状态为 $\\left( Z _ { i } = z , S _ { i } = s , C _ { i } = c \\right)$ ，进而估计当前接入负载 $\\hat { M } _ { i }$ ，有：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { M } _ { i } = \\underset { 0 \\leq m \\leq M } { \\arg \\operatorname* { m a x } } \\left\\{ \\operatorname* { P r } \\big ( M _ { i } = m \\big | Z _ { i } = z , S _ { i } = s , C _ { i } = c \\big ) \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由贝叶斯准则和最大似然估计得：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { M } _ { i } = \\underset { 0 \\leq m \\leq M } { \\arg \\operatorname* { m a x } } \\left\\{ \\operatorname* { P r } \\big ( Z _ { i } = z , S _ { i } = s , C _ { i } = c \\big | M _ { i } = m \\big ) \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对前导集合状态进行排序。设 $\\left( 0 , 0 , L _ { i } \\right)$ 为前导集合第一状态， $\\left( 0 , 1 , L _ { i } - 1 \\right)$ 为第二状态，依次可得 $\\left( Z _ { i } , S _ { i } , C _ { i } \\right)$ 为前导集合第$n$ 状态，其中 $n = f { \\left( { Z _ { i } , S _ { i } , C _ { i } } \\right) } = { \\left( { 2 L _ { i } - S _ { i } + 3 } \\right) } { S _ { i } } { \\left/ { 2 + C _ { i } + 1 } \\right. }$ ，因此可得前导集合状态转移概率 $P _ { x y }$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P _ { v y } = \\left\\{ \\begin{array} { l } { \\displaystyle \\frac { S _ { i } } { L _ { i } } , i f \\ x = f \\left( Z _ { i } , S _ { i } , C _ { i } \\right) \\to y = f \\left( Z _ { i } - 1 , S _ { i } + 1 , C _ { i } \\right) } \\\\ { \\displaystyle } \\\\ { \\displaystyle } \\\\ { \\overline { { L } } _ { i } , i f \\ x = f \\left( Z _ { i } , S _ { i } , C _ { i } \\right) \\to y = f \\left( Z _ { i } , S _ { i } , C _ { i } \\right) } \\\\ { \\displaystyle } \\\\ { \\displaystyle \\frac { S _ { i } } { L _ { i } } , i f \\ x = f \\left( Z _ { i } , S _ { i } , C _ { i } \\right) \\to y = f \\left( Z _ { i } , S _ { i } + 1 , C _ { i } - 1 \\right) } \\\\ { \\displaystyle } \\\\ { 0 , \\ o t h e r s } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据P可写出时隙i时前导集合状态转移矩阵 Pxy。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在时隙 $i$ 时，一次前导发送可视为一次前导集合状态转移，因此可设 $\\vec { \\pi } _ { m }$ 为第 $\\mathbf { \\nabla } m$ 次转移后前导集合状态概率向量，得πm=(Pxx)\"”，其中=(1.,...,0)为概率向量初始值，所得概率向量的第 $\\mathfrak { n }$ 个值 $\\left[ \\vec { \\pi } _ { m } \\right] _ { n }$ 即为时隙 $i$ 时前导集合处于 $\\left( { Z _ { i } , S _ { i } , C _ { i } } \\right)$ 状态的概率 $\\vec { P } ^ { ( m ) } \\bigl ( Z _ { i } , S _ { i } , C _ { i } \\bigr )$ 。综上可得，当前时隙负载估计值 $\\hat { M } _ { i }$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { M } _ { i } = \\operatorname * { a r g m a x } _ { 0 \\leq m \\leq M } \\left\\{ \\left[ \\vec { \\pi } _ { m } \\right] _ { n } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2时隙接入周期自适应调整算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不难证明，在接入时隙i当 $M _ { i } = R _ { i }$ 时，LTE-A接入网的接入效率最高，且系统工作在稳态附近。因此，当时隙接入负载过载即 $M _ { i } > R _ { i }$ 时，基站可以通过增大时隙接入周期将发送前导码失败的设备分散到后续的接入时隙，以减缓接入拥塞；当时隙接入设备较少即 $M _ { i } < R _ { i }$ 时，基站可以通过减小时隙接入周期以提高随机接入资源利用率，所以M值越大则K值越大，Mi值越小则 $K$ 值越小，且 $\\hat { M } _ { i }$ 值变化越快则相应的 $K$ 值变化越快,因此本文选择学习法调整时隙接入周期 $K$ 值，具体如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在LTE-A蜂窝网中，系统广播周期为 $8 0 \\mathrm { m s }$ ，根据PRACH配置，该周期相当于 $K _ { _ { p r } }$ 个随机接入时隙，故时隙接入周期的选择以这 $K _ { _ { p r } }$ 个随机接入时隙为单位。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先，在接入网处于稳态后，系统在较短时间内发生剧烈变化的可能性比较小，因此通过使用求历史值平均可以降低时隙接入负载估计值产生的波动。在本次系统广播周期中，时隙接入负载估计平均值 $\\hat { M } _ { o l d }$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { M } _ { o l d } = \\frac { 1 } { K _ { p r } } \\sum _ { k = 1 } ^ { K _ { p r } } \\hat { M } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此下一次广播周期中的同一接入时隙的接入周期估计值$K _ { n e w , i }$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ K } _ { n e w , i } = R + { K } _ { o l d , i } \\Big [ 1 + \\big ( \\hat { M } _ { i } - \\hat { M } _ { o l d } \\big ) r \\Big ] ^ { \\hat { M } _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，R为滞后提前量，r为学习步长，r值大小影响K值学习速度和收敛性，经仿真比较，本文r取值0.05。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "接着，通过求平均值可得下一系统广播周期中接入周期值",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$K _ { n e w }$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { n e w } = \\frac { 1 } { K _ { p r } } { \\sum _ { k = 1 } ^ { K _ { p r } } { K _ { n e w , k } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同样，滞后提前量R更新为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { n e w } = R _ { o l d } \\left( 1 + \\frac { K _ { n e w } - K _ { o l d } } { K _ { o l d } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后，基站将通过系统广播将新的时隙接入周期参数告知给等待接入的设备。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 仿真分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1参数设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用LTE-SIM仿真平台来构建随机接入模型。参考3GPPTR37.868主要仿真参数设置如表1所示。其中，根据LTE-A中PRACH配置，每帧中第2、第7子帧为随机接入子帧。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/122c5de846f55089eb9ff5db48ce9543df96b9cfb80790ba043f124b912a7d62.jpg",
+        "table_caption": [
+            "表1主要仿真参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>含义</td><td>配置</td></tr><tr><td>M</td><td>MTC设备数量</td><td>0-30000</td></tr><tr><td>g(t)</td><td>M2M设备到达</td><td>beta(3,4)</td></tr><tr><td>T/s</td><td>M2M设备到达周期</td><td>10</td></tr><tr><td>Pn</td><td>前导检测概率</td><td>1-e-\"</td></tr><tr><td>N Pmax</td><td>前导最大重传次数</td><td>10</td></tr><tr><td>TRA /ms</td><td>相邻时隙间隔</td><td>5</td></tr><tr><td>TRAR/mS</td><td>基站处理时间</td><td>2</td></tr><tr><td>WRAR / ms</td><td>前导响应时间</td><td>5</td></tr><tr><td>TRA /ms</td><td>随机接入时隙间隔</td><td>5</td></tr><tr><td>t3.4/ms</td><td>Msg3/Msg4处理时间</td><td>5</td></tr><tr><td>L</td><td>时隙前导数</td><td>54</td></tr><tr><td>R</td><td>滞后提前量</td><td>7</td></tr><tr><td>r</td><td>学习步长</td><td>0.05</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 仿真结果分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选择使用设备接入成功率、平均接入时延、前导重传次数累积概率分布、接入时延累积概率分布的性能指标，通过与SCACP算法的对比验证本文提出的算法切实有效性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2为接入时隙中负载的实际值与估计值对比图。从图中可以看出，无论是在接入时隙为300、1500的低负载情况下，还是在接入时隙数为850的高负载情况下，估计值曲线总能跟随实际值曲线的变化而变化，这表明基于前导集合状态的时隙负载估计能够正确反映实际接入负载的实时变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/23bf4fcdafd7a240338fefa746668e281ab970e2a0acdd324495d27471912630.jpg",
+        "img_caption": [
+            "图2时隙接入负载实际值和估计值对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3描绘了在接入周期内采取不同机制下设备接入成功率之间的仿真对比。从图中可以看出，本文所提方案的设备接入成功率比参考文献[11]中所提SCACP的设备接入成功率有比较明显的提升，且当接入设备数达到30000时，本文所提方案仍有 $90 . 5 6 \\%$ 设备完成接入，高于SCACP的 $8 7 . 6 4 \\%$ ，略低于$K = 1 2 8$ 的 $91 . 7 1 \\%$ ，但时隙接入周期固定为128将会导致接入网的RACH利用率严重降低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4为不同负载情况下不同机制间的平均接入时延对比图。可以看出，本文所提方案的平均接入时延性能明显优于SCACP和时隙接入周期固定为128时的平均接入时延性能。在$M \\geq 3 0 0 0 0$ 时，本文所提方案自适应选择的时隙接入周期值均大于64，因此其平均接入时延高于时隙接入周期固定为128时的平均接入时延，但仍低于 $1 . 6 \\mathrm { ~ s ~ }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/07e244f46a2757620b8e07b2b3cf8fc20d11242248c78f59d500aecb3651448e.jpg",
+        "img_caption": [
+            "图3不同负载下设备接入成功率"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/11db3fd22fc45e0cb09cefa53b3012e4eec855039d832def1f3db53afe42c80a.jpg",
+        "img_caption": [
+            "图4不同负载下平均接入时延"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5描绘了接入负载 $\\scriptstyle M = 3 0 0 0 0$ 时前导重传次数的累积概率分布。从图上看，在前导传输次数小于4时本文所提方案曲线低于其他机制曲线，这是因为本文所提方案在低负载时选择了较小的时隙接入周期；在前导传输次数大于3时本文所提方案曲线高于其他机制曲线，这是因为本文所提方案自适应调整时隙接入周期，有效减少了接入失败设备的前导重传次数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6为接入负载 $\\scriptstyle M = 3 0 0 0 0$ 时接入时延的累积概率分布曲线图。从对比图上可以看出，本文所提方案在相同接入时间内接入时延的累积概率均大于SCACP和时隙接入周期固定为128时的接入时延累积概率，这表明本文所提方案在保障设备接入成功率的同时，也降低了设备接入时延。在接入时延$\\scriptstyle t = 3 7 0 0$ 时，时隙接入周期固定为64 的接入时延累积概率高于本文所提方案，这是因为本文机制在高负载接入时隙时自适应选择的时隙接入周期值超过了64。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dddeca18f0647f5cf567c5853ec987762faa4b3856b8c4bfa20f8be857b72570.jpg",
+        "img_caption": [
+            "图5时前导重传次数累积概率分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c69774d8644700176625eb2f9e1f807be741d5f9d10be692540ae93507cd276c.jpg",
+        "img_caption": [
+            "图6时接入时延累积概率分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在LTE-A中，大量的M2M设备突发性的到达可能会引起短时间内海量的随机接入请求，导致严重的接入网拥塞，严重降低PRACH资源利用率。本文基于负载估计提出了一种自适应调整接入时隙周期的接入拥塞控制机制，通过时隙前导集合状态估计时隙接入负载，从而选择合适时隙接入周期对接入负载进行合理控制。经仿真验证，本文所提方案性能较好，既能提高M2M设备接入成功率，又能在一定程度上减少前导重传，降低了接入时延。但本文并未考虑时延敏感型M2M设备的随机接入，下一步将引入服务质量的影响，研究业务优先级对随机接入的影响，使算法更具通用性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Taleb T,Kunz A.Machine type communications in 3GPP networks: potential,challenges,and solutions [J].IEEE Communications Magazine, 2012,50 (3): 178-184.   \n[2]Hasan M,Hossain E,Niyato D.Random access for machine-to-machine communication in LTE-advanced networks: issues and approaches [J].IEEE Communications Magazine,2013,51(6): 86-93.   \n[3]3GPP TR 23.888.System improvements for machine type communications [S].2012.   \n[4]3GPP TR 37．868.Study on RAN Improvements for Machine Type Communication [S].2011.   \n[5]Cheng JP,Lee CH,Lin TM.Prioritized random access with dynamic access barring for ran overload in 3GPPLTE-A networks [C]// Proc of IEEE GLOBECOM Workshops.2011: 368-372.   \n[6]He Hongliang,Du Qinghe,Song Houbing,et al. Traffic-aware ACB scheme for massive access in machine-to-machine networks [C]//Proc of IEEE International Conference on Communications.2015: 617-622.   \n[7]Wei C H, Giuseppe B,Cheng R G.Modeling and analysis of random access channelswith bursty arrivals in OFDMAwireless networks [J].IEEE Trans on Wireless Communications,2015,14(4):1940-1953.   \n[8]Liu Jianlong, Zhou Wen'an,Song Lijun.A novel congestion reduction scheme for massive machine-to-machine communication [J]. IEEE Access, 2017,5 (99):18765-18777.   \n[9]Cheng RG,Chen Jenhui, Chen Danwu,et al.Modeling and analysis of an ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "extended access barring algorithm for machine-type communications in LTE-A networks [J].IEEE Trans on Wireless Communications,2015,14(6): 2956-2968. [10] ChoiJ.On the adaptive determination of the number of preambles in RACH for MTC[J].IEEE Communications Letters,2016,20(7):1385-1388. [11]Wei CH,ChengR G,Lin Y S.Analysis of slotted-access-based channel access control protocol for LTE-advanced networks [M].[S.1.] :Kluwer Academic Publishers,2015. [12] 3GPP TS 36.211,evolved universal terrestrial radio access [S].2012. ",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,428 @@
+[
+    {
+        "type": "text",
+        "text": "基于光合有效辐射瞬时值估算日均值的方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张璟}²，谢亚楠'，汪鸣泉²，王茂华²（1．上海大学,上海先进通信与数据科学研究院，特种光纤与光接人网重点实验室,上海200000;2．中国科学院上海高等研究院，碳数据与碳评估中心，上海200000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：光合有效辐射是太阳辐射的一部分,是植被进行光合作用和陆地生态系统碳循环的核心因素,对估算植被生产力具有重要影响。本文基于 SURFRAD 多年观测数据,建立了一个线性回归模型,由上午、下午瞬时光合有效辐射值估算日均值。该模型模拟效果较好,单个观测站的均方误差低于 $9 \\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,判定系数不低于0.96,并适用于不同经纬度、气候条件和海拔高度下的区域,总的均方误差为 $8 . 8 6 3 \\mathrm { ~ 1 ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ，判定系数 $R ^ { 2 }$ 为0.977,表明该模型和方法有较好的可行性和可靠性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：光合有效辐射；瞬时值；日均值；线性回归模型；方法研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "光合有效辐射（PAR，photosyntheticallyactiveradiation)是太阳辐射在电磁波谱的可见光( $4 0 0 \\sim$ $7 0 0 ~ \\mathrm { n m } ,$ )部分，是植被进行光合作用的那部分太阳辐射，是形成植物干物质的能量来源。作为一种重要的气候资源，是光合潜力、潜在产量和作物生长模拟研究、土壤碳固定模拟研究中不可缺少的基础数据[]。另一方面,光合有效辐射还是水循环过程中生物蒸腾作用的主要控制因子，特别是在生物量和作物产量模式模拟研究中，光合有效辐射更是不可缺少的参数之一[2]。PAR 在光合作用中也扮演了重要的角色[3],在入射到地表的过程中，被植被吸收和贮存在生物质中。为了提高对光合作用和碳循环的模拟，PAR的估算准确性非常重要，其精确测量有助于提高净第一性生产力（NPP)模型的准确率,促进 $\\mathrm { C O } _ { 2 }$ 源/汇研究[4-5]。因此,光合有效辐射研究在生态学、农学以及气候研究中都具有重要的意义和价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "尽管光合有效辐射在生态系统模型应用中极具潜力，但它并不是气象站的常规观测项目。地面PAR可由地面太阳辐射（SSR,surfacesolarradia-tion)和辐射站的其他参数估算得到[6。由于 SSR和PAR存在较好的线性关系，经过校准的经验模型可以准确地来估算该区域的PAR。但是这些经验模型的参数依赖于独立的辐射站，而不同的辐射站之间却不同，可能没有校准参数的区域PAR存在较大误差[7]。而且,地面太阳辐射观测站相较于其他常规的气象站点非常稀少，以地面太阳辐射站的SSR与经验模型估算PAR并进行空间地理插值获取区域上连续的 PAR,也带来了较大误差[8]。目前，全球PAR网格化产品空间分辨率都比较大，如TOMS 卫星的 PAR产品[9]、CERES 和 $\\mathrm { I S C C P \\_ L }$ 的PAR 产品[10-1]等,空间分辨率都超过 $1 0 0 ~ \\mathrm { k m }$ ，而MODIS 只有海洋PAR产品。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着卫星观测技术的发展，以辐射传输模型为理论基础，陆续有各种适应特定传感器的PAR估算方法提出，在空间分辨率和精度上取得了较大的进展[12-15]。在时间分辨率上,中低分辨率的多光谱遥感卫星，一般每 $1 \\sim 2 \\mathrm { ~ d ~ }$ 甚至更久可获取一次全球综合信息，对于全球/区域的观测，遥感信息是一个瞬间信息。通过相应的模型和算法可估算PAR的瞬时值，而根据生态模型的输入要求，PAR的日分布值更具有应用价值[16。由PAR 瞬时值估算日均值的方法较少，多数参考SSR日均值的估算方法，主要有以下几种： $\\textcircled{1}$ 加入间隔时间,简单求均值[13]；$\\textcircled{2}$ 参考太阳辐射变化规律,将日均值与瞬时值建立三角函数关系[17-18],该方法在晴朗天气下应用较好，在多云天气下效果较差； $\\textcircled{3}$ 将PAR简化为仅与太阳平均天顶角相关，该方法假设当地时间10：30代表了上午的天气情况，13：30代表了下午的天气情况[19-20]； $\\textcircled{4}$ 根据观测站多年数据,建立瞬时值与日均值的经验模型[21],该方法估算的辐射是 SSR,简单有效，也是笔者参考和改进的模型与方法，并应用于PAR日均值估算。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以美国国家海洋和大气管理局地面辐射网络的7个PAR辐射数据观测站为研究对象，利用2006一2016年的PAR观测数据，从时间尺度和空间覆盖范围上，探究PAR瞬时值与日均值，以及PAR理论值之间的估算模型。为从瞬时值估算日均值提供一种简单快捷较为精确的方法。瞬时时间参考搭载 MODIS 传感器的 Terra 和 Aqua卫星过境时间当地时间—10：30 和13：30。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究数据和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据来源于美国国家海洋和大气管理局地面辐射网络[22]（SURFRAD,Surface Radiation Budget Net-work）,该辐射网络一共有7个观测站，2008 年之前数据每间隔 $3 ~ \\mathrm { m i n }$ 记录1次，之后数据每隔 $1 ~ \\mathrm { m i n }$ 记录1次,单位为 $\\mathbb { W } \\cdot \\textrm { m } ^ { - 2 }$ 。该 PAR 辐射网络分布于美国7个州，主要位于中高纬度地区，详细的经纬度和海拔信息如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/22c6be8e59b931e819b32e7879890bebf041306bf0a0bcbd5190dd382932a9db.jpg",
+        "table_caption": [
+            "表1SURFRAD观测站信息",
+            "Tab.1Basic information of the seven SURFRAD stations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据站</td><td>纬度(N)</td><td>经度(E)</td><td>海拔/m</td><td>美国(州)</td><td>开始时间</td></tr><tr><td>Bondville</td><td>40.06</td><td>88.37</td><td>213</td><td>伊利诺伊州</td><td>1995-01</td></tr><tr><td>Fort Peek</td><td>48.31</td><td>105.10</td><td>634</td><td>蒙大拿州</td><td>1995-01</td></tr><tr><td>Goodwin Greek</td><td>34.25</td><td>89.87</td><td>98</td><td>密西西比州</td><td>1995-01</td></tr><tr><td>Table Mountain</td><td>40.125</td><td>105.237</td><td>1 689</td><td>科罗拉多州</td><td>1995-06</td></tr><tr><td>Desert Rock</td><td>36.626</td><td>116.018</td><td>1007</td><td>内华达州</td><td>1998-03</td></tr><tr><td>Penn State</td><td>40.72</td><td>77.93</td><td>376</td><td>宾夕法尼亚州</td><td>1998-06</td></tr><tr><td>Sioux Falls</td><td>43.73</td><td>96.62</td><td>473</td><td>南达科他州</td><td>2003-06</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对地观测领域中，MODIS数据以其全球覆盖，较高的时间分辨率、多空间分辨率、多光谱分辨率以及免费的信息接受和产品服务政策，在目前研究全球尺度下大气、海洋和陆地生化过程应用非常广泛[23]。多种以辐射传输模型为理论基础的 PAR 估算方法，数据源多是MODIS数据，因此，本文选择的瞬时时间为搭载了MODIS传感器的两颗卫星Terra和 Aqua的过境时间—当地时间10：30和13：30，而实际上卫星数据获取时间 $1 0 : 0 0 { \\mathrm { - } } 1 1 : 0 0$ 和13：00一14：00，因此，本文假设卫星过境时间的瞬时值代表了该小时的平均情况",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法与评价指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通常情况，一天中 $8 5 \\%$ 的日辐射量在当地正午的前 $^ { 2 \\mathrm { ~ h ~ } }$ 至后 $^ { 2 \\mathrm { ~ h ~ } }$ 之间获得[24],因此,笔者提出一个简单有效的线性回归模型，根据当地时间10：30和13：30左右的瞬时值以及PAR大气上界理论值作为修正，来估算日均值。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P A R } _ { _ { \\mathrm { d a i l y } } } = A _ { _ { 1 } } \\cdot \\mathrm { P A R } _ { _ { \\mathrm { m o r n i n g } } } + A _ { _ { 2 } } \\cdot \\mathrm { P A R } _ { _ { \\mathrm { a f t e r m o o n } } } +\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P A R } _ { _ { \\mathrm { t h e o r y } } } = A _ { _ { 0 } } \\cdot \\mathrm { S S R } _ { _ { \\mathrm { t h e o r y } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { P A R } _ { \\mathrm { d a i l y } } \\mathrm { \\setminus P A R } _ { \\mathrm { m o r n i n g } } \\mathrm { \\setminus P A R } _ { \\mathrm { a f t e r n o o n } }$ 分别为观测站的PAR 日均值,上午瞬时值和下午瞬时值; $\\mathrm { P A R } _ { \\mathrm { t h e o r y } }$ 为大气上界 PAR 值,由大气上界太阳辐射值 $\\mathrm { S S R } _ { \\mathrm { t h e o r y } }$ 决定。 $A _ { 0 } \\sim A _ { 4 }$ 为拟合系数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PAR作为太阳辐射的一部分，约占太阳总辐射能量的 $5 0 \\%$ 左右，在很多研究中由地面接收到的太阳辐射值和经验系数0.48或0.5直接获得，不同的经验模型系数[25-26]在 $0 . 4 \\sim 0 . 5$ 之间变动,在太阳辐射进入大气后，受云、水汽、气溶胶等因子的影响，太阳辐射经吸收、散射后减少;同理，PAR值也产生变化。考虑到天气因素的影响，引入大气上界太阳日辐射量对线性回归模型进行修正，视为理论值。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S S R } _ { \\mathrm { t h e o r y } } = \\intop _ { \\mathrm { s u n r i s e } } E _ { \\mathrm { s c } } \\mathrm { d } t\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S S R } _ { _ { \\mathrm { t h e o r y } } } = \\frac { 2 4 } { \\pi } E _ { \\mathrm { s c } } \\left( r _ { 0 } / r \\right) ^ { 2 } \\cdot \\ \\intop _ { 0 } ^ { \\pi } \\left( \\mathrm { s i n } \\delta \\mathrm { s i n } \\varphi + \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { 3 } \\cdot \\mathrm { P A R } _ { \\mathrm { t h e o r y } } + A _ { 4 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { c o s } \\delta \\mathrm { c o s } \\varphi \\mathrm { c o s } \\tau ) \\mathrm { d } \\tau\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $E _ { \\mathrm { s c } }$ 是太阳常数,值为 $1 ~ 3 6 7 ~ \\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ $r _ { 0 } / r$ 是日地相对距离，与经纬度相关； $\\delta _ { \\cdot } \\varphi$ 和 $\\cdot$ 分别是当地的纬度、太阳赤纬和水平面日出时角，太阳赤纬和日出时角及经纬度相关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相较于仅仅用瞬时值与日均值建立线性回归模型，引入不受天气情况影响的大气上界PAR理论值作为修正，可进一步提高模型的准确性,这也是笔者对上文所述线性回归估算模型的改进。模型采用的评价指标是均方误差RMSE、偏差MBE和判定系数$R ^ { 2 }$ ,公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { R M S E } } = { \\sqrt { { \\frac { 1 } { N } } \\sum _ { t = 1 } ^ { N } { \\left( \\mathrm { ~ o b s e r v e d } _ { t } - { \\mathrm { p r e d i c t e d } } _ { t } \\right) ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M B E } = \\frac { 1 } { N } { \\sum _ { t = 1 } ^ { N } { \\left( \\mathrm { \\ o b s e r v e d } _ { t } - \\mathrm { p r e d i c t e d } _ { t } \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = 1 - \\frac { \\displaystyle \\sum _ { t = 1 } ^ { N } ( \\mathrm { \\ o b s e r v e d } _ { t } - \\overline { { \\mathrm { \\ o b s e r v e d } } } ) ^ { 2 } } { \\displaystyle \\sum _ { t = 1 } ^ { N } ( \\mathrm { \\ o b s e r v e d } _ { t } - \\mathrm { p r e d i c t e d } _ { t } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：observed,、predicted,是 $\\mathbf { \\chi } _ { t }$ 时刻的观测值和模拟值； $N$ 是样本个数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1PAR瞬时值与日均值变化分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实际上卫星数据获取时间在当地时间10：00—11：00和13：00—14：00，所以，以观测站10：00和$1 3 : 0 0 \\mathrm { ~ 1 ~ m i n }$ 频率下的小时均值代替瞬时值。PAR观测数据的日均值由日出、日落时间内的 $1 ~ \\mathrm { m i n }$ 频率下的观测值求得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PAR受天气情况影响较大，无论是瞬时值还是日均值，日与日之间差异均较大，但总体呈现出冬春季低、秋夏季高的特征，季节变化明显。如图1所示，以Bondville观测站2016年PAR的瞬时值与日均值为例,PAR日均值与瞬时值均波动较大，上午和下午的瞬时值总体处于 $5 0 \\sim 4 0 0 \\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ，日均值总体处于 $2 0 \\sim 1 6 0 \\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,远低于瞬时值,因此，以瞬时值的天气情况代替上午、下午的天气情况，可能带来一定误差。全年PAR变化呈现出正弦函数的变化规律，其他观测站日均值年变化类似。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2观测站数据模拟结果验证与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "光合有效辐射主要受地理位置、海拔和天气情况影响，基于辐射传播模型的遥感估算方法考虑了上述影响因素估算出瞬时值。在此基础上，笔者探究由瞬时值估算日均值的线性回归模型是否受地理位置、海拔以及气候因素的影响。同上文所述，以观测站10：00和13：00在 $1 ~ \\mathrm { m i n }$ 频率下的小时均值代替瞬时值。PAR观测数据日均值由日出、日落时间内的 $1 ~ \\mathrm { m i n }$ 频率下的观测值求得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对每年的数据进行拟合后发现，同一个观测站不同年份的拟合系数非常接近，故认为该线性回归方程尽可能减少了气候影响，因此，对同一个数据站的拟合系数采用多年拟合系数的平均值。利用11a观测数据对拟合结果进行验证，图2分别是7个站点的模型拟合结果，RMSE和MBE的单位是W·$\\mathrm { m } ^ { - 2 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图2可以看出，此线性回归方程应用于不同区域的单个光合有效辐射观测站，RMSE、MBE和 $R ^ { 2 }$ 均较小,其中 RMSE 均低于 $1 0 \\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ，均大于0.96，拟合结果较好，拟合系数如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d32842fe9cd2174dcf403a8938e6a7d594e851c8ad3e526240db1d08bf75b098.jpg",
+        "img_caption": [
+            "图1Bondville 观测站 2016 年PAR 瞬时值与日均值变化Fig.1Changes of PAR instantaneous and daily values at Bondville Station in 2016"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a102f952386b80239a8bde0096ec8f1f04513ba94296b1a7cd25df7cf270a0fc.jpg",
+        "img_caption": [
+            "图22006—2016年7个观测站模拟结果验证"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Validation of the simulated results at seven SURFRAD stations during the period from 2O06 to 2016 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2数据站拟合系数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad769a1e9b0eafb1c9ec1f001f5b71b9c5e352b7a4086958eff6a9e93c4bbcd5.jpg",
+        "table_caption": [
+            "Tab.2Fitting coefficients for the SURFRAD stations ",
+            "表3SURFRAD观测站模拟结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据站</td><td colspan=\"4\">拟合系数</td></tr><tr><td>A</td><td>A</td><td>A ×A</td><td>A4</td></tr><tr><td>Bondville</td><td>0.163 727 273</td><td>0.146 281 818</td><td>0.077 772 727</td><td>- 19.573 545 5</td></tr><tr><td>Fort Peek</td><td>0.162 254 545</td><td>0.149 872 727</td><td>0.085 945 455</td><td>-18.340 763 6</td></tr><tr><td>Goodwin Greek</td><td>0.163 7</td><td>0.141 018 182</td><td>0.095 127 273</td><td>-22.742 227 3</td></tr><tr><td>Table Mountain</td><td>0.164154 545</td><td>0.126 881 818</td><td>0.0909 454 55</td><td>- 19.496 663 6</td></tr><tr><td>Desert Rock</td><td>0.150 118 182</td><td>0.1418</td><td>0.122 045 455</td><td>-24.245 290 9</td></tr><tr><td>Penn State</td><td>0.157 990 909</td><td>0.149 772 727</td><td>0.069 427 273</td><td>- 17.026 554 5</td></tr><tr><td>Sioux Falls</td><td>0.1573 090 91</td><td>0.160 418 182</td><td>0.078 827 273</td><td>-19.125 672 7</td></tr><tr><td>平均</td><td>0.159 893 506</td><td>0.145 149 351</td><td>0.088 584 416</td><td>- 20.078 674</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6805b7ad783d66707eb85ab8f6ae9f8a4331196b04969452ffa29a0fcc8b94ad.jpg",
+        "table_caption": [
+            "Tab.3Simulated results at the seven SURFRAD stations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>BON</td><td>FPK</td><td>GWN</td><td>TBL</td><td>DRA</td><td>PSU</td><td>SXF</td><td>全部</td></tr><tr><td>RMSE/(W·m-²)</td><td>7.707 9</td><td>8.696 7</td><td>8.310 2</td><td>9.001 8</td><td>7.218 5</td><td>8.5161</td><td>7.742 6</td><td>8.8631</td></tr><tr><td>MBE/(W·m-²)</td><td>-0.030 01</td><td>0.324 65</td><td>-3.1281</td><td>0.074 703</td><td>-0.767 04</td><td>0.0193 02</td><td>-0.008 38</td><td>0.433 57</td></tr><tr><td>R²</td><td>0.9806</td><td>0.978 5</td><td>0.980 6</td><td>0.968 6</td><td>0.983 8</td><td>0.9759</td><td>0.9811</td><td>0.976 97</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/beb29d72f831eeb7fd4c156a176f567b4695a51756750fefe0ea8991832634df.jpg",
+        "img_caption": [
+            "图37个观测站2017年模拟结果验证",
+            "Fig.3Validation of simulated results at seven SURFRAD stations in 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表2可以看出，位于不同地理位置的多个观测站拟合系数也较接近，存在微小的差异。为探究该回归模型统一后的拟合系数是否适用于不同区域，笔者利用全部数据站多年拟合系数的平均值作为最终的拟合系数，应用于该模型中，输入2017年7个观测站上午、下午瞬时值数据估算日均值,并用观测值进行验证，多个数据站模拟验证结果如图3所示，误差分析如表3所示，RMSE和MBE的单位是 $\\mathbb { W } \\cdot \\textrm { m } ^ { - 2 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出，该模型和固定的拟合系数应用于多种经纬度、海拔高度和气候条件下的观测站，拟合效果仍然较好，误差较小，RMSE为8.8631$\\mathbb { W } \\cdot \\textrm { m } ^ { - 2 }$ ， $R ^ { 2 }$ 为 $0 . 9 7 6 \\ 9 7 \\$ 。根据卫星遥感数据估算的瞬时PAR值，可以考虑应用此模型和系数，由上午、下午瞬时值估算日均值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3观测站数据模拟结果验证与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与其他方法相比,利用间隔时间求均值[13]方法，其在晴朗天气下的RMSE为32.62103W·$\\mathrm { ~ m ~ } ^ { - 2 }$ ,多云天气下的RMSE为 $6 3 . 7 8 5 5 3 \\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,多种天气条件下的RMSE 为 $4 5 . 7 1 9 \\mathrm { ~ 3 ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ;通过建立三角函数关系由瞬时值估算日均值的方法[18]其在多个区域RMSE 范围为 $3 3 . 6 \\sim 1 4 7 . 1 ~ \\mathrm { W } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ：仅利用上午和下午瞬时值建立估算模型的方法[21],其RMSE为 $5 3 . 3 3 \\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ;前3种方法的瞬时值由卫星数据估算而来，因为估算的瞬时值本身存在一定误差，所以，由这样的估算值作为瞬时值输入，在估算日均值时比利用观测站的瞬时值作为输入误差可能会偏大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了验证笔者所提出的线性回归模型以基于卫星数据估算的瞬时值为输入，估算日均值是否准确有效,基于辐射传播模型[14]和 MODIS 卫星数据估算了上午和下午的瞬时值。该辐射传播模型由唐文俊等在2017年提出，考虑多种气候条件因素，整体误差较小。验证数据为观测站过境时间小时平均数据，验证结果如图4所示，RMSE和MBE的单位是",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4baf4400c7027ee48a2991ec4216896b84190f866bca6f4bcf6eeb3906336c15.jpg",
+        "img_caption": [
+            "图4Bondville观测站范围基于MODIS 数据估算的瞬时值验证结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/823f461eea53930ee0f06f09b605103ac5a65909358f3f2b332fec71c6f37d75.jpg",
+        "img_caption": [
+            "Fig.4Validated results of the instantaneous values estimated by MODIS data at Bondville Station during the period from 2015 and 2016 ",
+            "图5基于估算的瞬时值和线性回归模型估算的日均值验证结果",
+            "Fig.5Validated results of the estimated instantaneous values and the daily values based on the linear regression model "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbb { W } \\cdot \\textrm { m } ^ { - 2 }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，由卫星数据和辐射传播模型估算的上午、下午瞬时值存在一定的估算误差，但误差尚在合理范围内。因为PAR的影响机制复杂，一方面误差来源于MODIS数据估算PAR时所采用的方法本身存在的误差;另一方面来源于MODIS 多个数据产品，在云天气情况下多种产品存在大量缺失值，需要通过其他数据如MODIS的月均值和美国国家环境预报中心（NCEP)再分析资料进行插值填充。估算的卫星瞬时值作为本文提出的线性回归模型的输入来估算日均值，探究在输入的瞬时值存在一定误差的情况下，结合上午、下午瞬时值，引入理论值进行修正后，验证本文提出的线性回归模型效果。验证数据为观测站日均值，模拟结果如图5所示，RMSE 和 MBE的单位是 $\\mathbb { W } \\cdot \\textrm { m } ^ { - 2 }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图4和图5可以看出，即使在估算的瞬时值存在一定误差的情况下，利用本文提出的线性回归模型和拟合系数依旧很好地估算出了较为准确的日均值,RMSE 为 $1 4 . 2 7 4 \\mathrm { ~ 6 ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } ,$ $R ^ { 2 }$ 为 $0 . 9 2 6 ~ 8 2$ ○而上文所述的将PAR简化为仅与太阳平均天顶角相关求日均值的方法[14],其输入的瞬时值由卫星数据和辐射传播模型估算而来时，RMSE为14.6W·$\\mathrm { ~ m ~ } ^ { - 2 }$ ,MBE为 $3 . 7 \\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } , R$ $R ^ { 2 }$ 为0.92,与本文模型的验证结果基本持平，但考虑到其应用的是2008 年与2009年数据，而且在辐射传播模型中及其所用遥感数据本身存在误差，所以，误差总体来源于卫星估算的瞬时PAR;其输入的瞬时值来源于观测站时，RMSE 为 $1 1 . 9 \\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,MBE为 $2 . 7 \\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } , K$ $R ^ { 2 }$ 为0.94，总体低于本文采用的线性回归模型估算方法结果,RMSE为 $8 . 8 6 3 \\mathrm { ~ 1 ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,MBE为0.433 57$\\mathbb { W } \\cdot \\textrm { m } ^ { - 2 }$ $R ^ { 2 }$ 为 $0 . 9 7 6 9 7$ 。由此可见,本文提出的线性回归模型是可靠的，可以简单、有效、准确地根据瞬时值估算PAR日均值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文基于SURFRAD地面辐射观测网络中不同经纬度分布、海拔高度下的7个观测站2006—2016年PAR数据，分析了一年内的PAR日均值变化和多年年均值变化,日均值在 $2 0 \\mathrm { ~ \\sim ~ } 1 6 0 \\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 。除位于高海拔的TBL观测站年均值在 $1 0 0 \\sim 1 0 5$ W·$\\mathrm { m } ^ { - 2 }$ ,其他观测站年均值在 $6 2 \\sim 8 5 \\textrm { W } \\cdot \\textrm { m } ^ { - 2 }$ ,波动较小。可以看出PAR日均值变化较大,年均值变化较平稳，但是季节规律明显，冬春季低、夏秋季高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以辐射传输模型为理论基础,利用遥感卫星数据估算瞬时PAR的方法逐渐成熟。由瞬时值估算日分布值，笔者提出一种简单、有效的线性回归模型，根据PAR瞬时值以及大气上界SSR值估算PAR日均值，效果良好。单个观测站的模拟结果RMSE值均低于 $1 0 \\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,最高为 $9 \\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 左右， $R ^ { 2 }$ 均高于0.96，最低为 $0 . 9 6 8 \\ 6 \\$ 。应用该方法对2017年7个观测站数据进行估算并验证，模拟结果显示RMSE为 $8 . 8 6 3 \\mathrm { ~ 1 ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,MBE为0.43357W·$\\mathbf { m } ^ { - 2 } , R ^ { 2 }$ 为 $0 . 9 7 6 9 7$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文建立的估算模型仅根据PAR上午、下午的瞬时值及与跟经纬度相关的大气上界SSR理论值进行估算，简化了模型。模拟结果显示，该模型具有良好的可行性和可靠性，在由瞬时值估算日均值的过程中不考虑地形、经纬度分布和气候条件的影响，可以考虑大范围应用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文基于SURFRAD地面辐射观测网络数据建立了线性回归模型，由PAR上午、下午瞬时值估算日均值，避免再次考虑地理区域、气候情况和海拔高度等因素的影响，减少了传统方法的误差。无论是基于观测站的瞬时值数据，或者基于辐射传播模型和卫星数据估算的瞬时值数据，均可以准确有效地估算出日均值。为后续大范围基于遥感数据估算瞬时PAR值后估算日均值提供了可行可靠的方法。结合遥感数据估算PAR日均值对研究植被碳循环具有重要的意义，有助于进一步提高植被净生产力估算模型的准确性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Mccree K J.Photosynthetically Active Radiation[M].Springer Berlin Heidelberg:Physiological Plant Ecology I,1981:41-55.   \n[2] Liu C,Dong X,Liu Y.Changes of NPP and their relationship to climate factors based on the transformation of different scales in Gansu,China[J].Catena,2015,125:190-199.   \n[3] GitelsonAA,PengY,ArkebauerTJ,etal.Productivity,absorbed photosynthetically active radiation，and light use efficiency in crops:Implications for remote sensing of crop primary production [J].Journal of Plant Physiology,2015,177:100-109.   \n[4] Munir TM,Perkins M,Kaing E,etal.Carbon dioxide flux and net primary production of a boreal treed bog:Responses to warming and water-table-lowering simulations of climate change[J].Biogeosciences,2015,12(4）:1-21.   \n[5]Allen MF,Kitajima K.Net primary production of ectomycorrhizas in a California forest[J].Fungal Ecology,2014,10(8）:81-90.   \n[6]Tang W,Qin J,Yang K,et al. Reconstruction of daily photosynthetically active radiation and its trends over China[J]. Journal of Geophysical Research Atmospheres，2013,118（23）:13 292- 13 302.   \n[7]Yu X,Wu Z,Jiang W,et al.Predicting daily photosynthetically active radiation from global solar radiation in the Contiguous United States[J].Energy Conversion & Management,2015,89:71-82.   \n[8]Zhang X,Liang S,Zhou G,et al. Generating global land surface satelite incident shortwave radiation and photosynthetically active radiation products from multiple satellite data[J].Remote Sensing of Environment,2014,152:318-332.   \n[9]Eck TF,Dye D G.Satelite estimation of incident photosynthetically active radiation using ultraviolet reflectance.[J]. Remote Sensing of Environment,1991,38(2）:135-146.   \n[10]Pinker R T,Laszlo I. Modeling surface solar irradiance for satellite applications ona global scale[J]. Journal of Applied Meteorology, 1992,31(2) :194 - 211.   \n[11]Su W,Charlock TP,Rose F G,et al.Photosynthetically active radiation from clouds and the earth's radiant energy system（CERES）products[J]. Journal of Geophysical Research,2007,112: G02022.   \n[12]QinJ,Yang K,Liang S,et al. Estimation of daily mean photosynthetically active radiation under all-sky conditions based on relative sunshine data[J]. Journal of Applied Meteorology and Climatology,2012,51:150 -160.   \n[13]LiL,Xin X Z,Zhang HL,et al.A method for estimating hourly photosynthetically active radiation（PAR）in China by combining geostationary and polar-orbiting satelite data[J]. Remote Sensing of Environment,2015,165:14-26.   \n[14]Tang W,Qin J,Yang K,et al.An efficient algorithm for calculating photosynthetically activeradiation with MODIS products[J].Remote Sensing of Environment,2017,194:146-154.   \n[15]Sun Z,Liu J,Zeng X,et al.Parameterization of instantaneous global horizontal irradiance:Cloudy-sky component[J]. Journal of Geophysical Research Atmospheres,2012,117(D14）:202 -211.   \n[16]Wang L,Gong W,Feng L,et al.Estimation of hourly and daily photosynthetically active radiation in Inner Mongolia,China,from 1990 to 2012[J].International Journal of Climatology,2015,35 (10):3 120 -3 131.   \n[17]Bisht G,Bras RL.Estimation of net radiation from the MODIS data under all sky conditions : Southern great plains case study[J]. Remote Sensing of Environment,2010,114(7）:1 522-1 534.   \n[18]Roupioz L,JiaL,NerryF,etal.Estimation of Daily Solar Radiation Budget at Kilometer Resolution over the Tibetan Plateau by Integrating MODIS Data Products and a DEM[J]. Remote Sensing, 2016,8(6) :504.   \n[19]Wang H,Pinker R T.Shortwave radiative fluxes from MODIS:Model development and implementation[J]. Journal of Geophysical Research Atmospheres,2009,114(D20）:1 -17.   \n[20]Wang D,Liang S,He T,et al.Estimation of Daily Surface Shortwave Net Radiation From the Combined MODIS Data[J].IEEE Transactions on Geoscience & Remote Sensing,2015,53（10）： 5 519 -5 529.   \n[21]Tang B H,Li Z L,Wu H,et al.Estimation of daily net surface shortwave radiation from MODIS data[J].Geoscience and Remote Sensing Symposium,2015:25 -28.   \n[22]Augustine JA,Hodges GB,Cornwall C R,et al.An update on Surfrad:The GCOS surface radiation budget network for the continental United States[J].Journal of Atmospheric & Oceanic Technology,2005,22(10):1 460-1 472.   \n[23]李贵才.基于MODIS数据和光能利用率模型的中国陆地净初 级生产力估算研究[D].北京：中国科学院遥感应用研究所， 2004.[Li Guicai. Estimation of Chinese Terrestrial Net Primary Production Using LUE Model and MODIS Data[D].Beijing.Institute of Remote Sensing Applications Chinese Academy of Sciences,2004.]   \n[24]Mcarthur L JB,Hay JE.A technique for mapping the distribution of diffuse solar radiation over the sky hemisphere[J].Journal of Applied Meteorology,1981,20(4）:421-429.   \n[25]Potter C S,Randerson JT,Field CB,et al.Terrestrial ecosystem production:A process model based on global satelliteand surface data[J].Global Biogeochem Cycles,1993,7:811 -841.   \n[26]Schiller K.Derivation of photosynthetically available radiation from METEOSAT data in the German Bight with neural nets[J].Ocean Dynamics,2006,56:79-85. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Estimation of Daily Value from PAR Instantaneous Value ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Jing1,2， XIE Ya-nan1， WANG Ming-quan²，WANG Mao-hua² (1.Key laboratoryofSpecialtyFiber OpticsandOpticalAccessNetworks,Shanghai InstituteofAdancedCommunication and Data Science,Shanghai University,Shanghai 2Ooo,China; 2. Shanghai Carbon Data Research Center,Shanghai Advanced Research Institute,Chinese Academy of Sciences, Shanghai 200000,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Photosyntheticalyactive radiation（PAR）commonly refers to solar radiation in the visible（400-700 nm）partof theelectromagnetic spectrum.Despite its potential and critical application in terrestrial ecosystem modeling,surface PAR is not typicallya routine observation at meteorological station.Remote sensing can be used to derive the spatiotemporally continuous instantaneous PAR,but the researches about dailyPAR estimation are deficient,and their accuracy cannot be guaranteed.In this paper,a linear regression model was developed to calculate the daily PAR based on Surface Radiation Budget Network（SURFRAD）data through the instantaneous and theoretical PAR.The results indicated thatthe model was effctive with root mean square errors （RMSE）about 8.863 1 （204号 $\\mathrm { ~ W ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,with coefficient of determination ( $R ^ { 2 }$ ）about O.977 without the limitations of areas. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:photosynthetically active radiation；instantaneous value；daily value；linear regresion model；method research ",
+        "page_idx": 7
+    }
+]

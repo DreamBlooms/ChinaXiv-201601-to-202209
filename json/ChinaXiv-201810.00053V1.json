@@ -1,0 +1,555 @@
+[
+    {
+        "type": "text",
+        "text": "基于CMFS-MIC特征选择的跳频电台个体识别方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨银松1，郭英1，李红光‘，畦萍1，于欣永²(1．空军工程大学 信息与导航学院，西安 710077;2.空军通信士官学校，辽宁 大连 116100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对跳频电台细微特征集中存在冗余特征等导致电台识别时存在计算量大、识别准确率低等问题，提出了一种基于CMFS-MIC特征选择的跳频电台个体识别方法。首先计算采集到的各个跳频电台信号样本的细微特征集，然后采用关联信息熵度量特征子集的组合效应，兼顾考虑特征间的关联关系和冗余关系对各个特征进行降序排序，在此基础上，采用最大信息系数度量的近似马尔可夫毯方法删除冗余特征，实现对特征子集进行优化和降维。最后，设计了投票组合分类器实现对4部跳频电台信号的识别。仿真结果表明，本文算法具有更高的分选识别率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：特征选择；跳频电台；关联信息熵；最大信息系数；加权投票组合分类器中图分类号：TN911.6 doi:10.3969/j.issn.1001-3695.2018.04.0387",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Individual identification method of frequency hopping radio based on CMFS-MIC feature selection ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yang Yinsong1,Guo Ying1,Li Hongguang1, Sui Ping1, Yu Xinyong² (1.InstituteofInformation&Navigation,AirForceEnginering UniversityXi'an077,China;2.AirForceSergeant School of Communication,Dalian Liaoning 1161oo, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Due to thepresenceof irelevant features and redundant features in thefine feature setof frequencyhoping radio stations,the large amount of calculationand lowrecognition accuracy are existed forradio stations identification.This paper proposedan individual identification method for frequency hopping radio stations based on CMFS-MIC feature selection. Firstly,thefine feature sets ofeachcollcted signalsampleoffrequencyhoppngradio werecalculated,and then using the association information entropy to measure thecombination efectof the feature subsets，taking into account the features' relationshipandtheredundant relationship to sorteach feature indescendingorder.Onthisbasis,theapproximate Markov blanketmethod using the largest informationcoeficient metric isused to removeredundant and irelevant features.This process achieves the purpose of optimizing and reducing the dimension of feature subsets.Finaly,it designed a voting combination classifiertorealize the identification offour frequency-hoppingradio signals.Simulationresultsshow that proposed algorithm has higher sorting recognition rate. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: feature selection;frequency hoppngradio;asociated information entropy；maximum informationcoeficient; voting combination classifier ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "跳频通信是指通信双方在伪随机码和同步算法的控制下，射频频率在约定频率集内随伪随机码同步跳变的通信。这种通信方式因其具有良好的抗干扰性、低截获概率及强组网能力，广泛应用于军事通信[1]。随着电磁环境日趋复杂，跳频电台个体识别和网台分选技术已经成为通信对抗领域亟待解决的重要课题。同时，对跳频电台的识别技术进行研究，并将每部跳频电台从众多的跳频通信网络中分选出来，对于通信侦察、敌我识别和实施电子打击等军事行动具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现有跳频信号的网台分选和电台个体识别技术主要可以分为两大类：基于参数估计的网台分选技术和基于盲源分离的网台分选技术。其中，基于参数估计的网台分选技术主要利用跳频信号的跳周期、DOA信息、功率以及信号时间相关性等参数信息实现跳频信号识别和分类。文献[2]采用MUSIC算法估计跳频信号的DOA，并用其进行聚类分析实现跳频信号的分选；文献[3]利用估计出的跳频信号的跳周期、DOA信息和功率，结合改进的K-means算法和统计直方图方法进行跳频信号的聚类分选。这类算法存在的主要问题是可估计的参数数量少，估计精度低，分选正确率对特征参数估计精度依赖大，复杂战场电磁环境下分选性能急剧下降。基于盲源分离网台分选技术主要采用“两步走”，即先估计混合矩阵，然后在混合矩阵已知的条件下利用信号的稀疏性完成源信号和噪声的分离，存在的主要问题是源信号分选正确率不高，欠定条件下混合矩阵的估计难度大，而在实际电磁环境中，受限于系统复杂度和载体限制，使得接收到的混合信号个数往往大于天线阵元数，因此该类方法实战应用局限性较大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到即使来自工艺完全相同的任意两部电台，在信号的表示形式上仍然存在着不影响信息传递的可检测、可重现的细微特征差异，通过提取设备的这些细微特征差异同样可以实现电台的分选。近年来已有部分研究开始聚焦于通过提取电台的细微特征进行个体识别，文献[5]提出提取跳频信号瞬时包络的信息维数和盒维数，并采用构造神经网络进行分类识别的方法；由于双谱能够很好的抑制高斯噪声，被广泛用于表征信号的细微特征，文献[6]中徐书华等人提出提取信号的积分双谱（SIB)特征，结合主成分分析（PCA）进行特征降维处理，最终利用SVM分类算法在场外实采数据集上实现 $90 \\%$ 以上的分辨率，但是识别效果的鲁棒性较低；雷迎科等人[7-8]在文献[6]基础上，建立最大熵模型去除非高斯噪声影响，在分类阶段引入了协作表示分类器（CRC)，能够实现同型号同厂家同工作模式的不同FM 电台个体识别，并获得了更为鲁棒而快速高效的识别效果；文献[9]考虑到各个特征对电台识别率的重要度不同，并引入邻域粗糙的数据集简约算法，对各个特征在分类中的重要度进行评估，设计了加权投票组合分类器，提高了分类识别率，但是没有降低计算复杂度；文献[10]通过仿真表明并不是把所有的特征简单的拼凑在一块就可以作为特征集，特征越多并不意味着能获得最好的识别率，并提出采用PCA选择出重要度高的特征进行分类，但是此方法忽略了特征之间的冗余性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，提取电台信号的多个细微特征，选择出对识别效果最好的特征子集，并结合机器学习等分类器设计理论来实现电台分选识别逐渐成为新的研究趋势。本文提出改进的关联信息熵度量的特征选择方法对跳频信号的细微特征集进行优化选择，并构造投票组合分类器实现跳频电台的分选。为了验证本文所提算法的有效性，实验分别在UCI部分数据集和跳频信号特征集上进行分析，以分选正确率作为评判标准。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 预备知识 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "特征选择是指从已有的M个特征中剔除不相关或冗余的特征，选择N个最有效的特征作为新的特征子集（ $\\mathbf { M } { \\ > } \\mathbf { N } \\ ,$ ，使得新的特征子集在完成分类任务时大大降低计算复杂度的同时，能够提供与原始数据集近似或者更优的识别能力。文献[11-13]提出基于互信息的特征选择方法，考虑了特征与类别之间的相关性，但是没有充分考虑特征之间的冗余性，会带来较多冗余信息，并且算法需要指定选择的特征个数；文献[14,15]提出采用对称不确定性作为相关性的评价标准，考虑了特征与类别之间、特征与特征之间的相关性进行删除冗余特征，但是算法没有综合考虑特征子集的组合效应；文献[16,17]将数据融合领域中的关联信息熵理论应用于特征选择中，考虑了特征集的组合效应，即不同特征之间的多变量关系，但是会出现最优特征子集的维数较大或过小的不合理情况。本文提出改进的关联信息熵度量的特征选择方法对跳频信号的细微特征集进行优化选择，首先来介绍两个基本概念。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1关联信息熵",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设一个多变量系统存在 $N$ 个变量,每个变量的不同时刻$t ( 1 , 2 , . . . , M )$ 的取值为 ${ x } _ { i } ( t ) , i = 1 , 2 , . . . , N$ ，则该系统构成的多变量时间序列矩阵为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = ( x _ { i } ( t ) ) _ { 1 \\leq t \\leq M , 1 \\leq i \\leq N } , P \\in R ^ { M \\times N }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $P$ 是实矩阵，对其进行中心化和标准化处理之后得到 $\\boldsymbol { \\mathscr { Q } }$ ，计算其相关矩阵 $R$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = Q ^ { T } Q , R \\in R ^ { N \\times N }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于 $N$ 个变量的关联矩阵 $R$ 可以表示如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\left[ \\begin{array} { c c c c } { 1 } & { r _ { 1 2 } } & { \\cdots } & { r _ { 1 N } } \\\\ { r _ { 2 1 } } & { 1 } & { \\cdots } & { r _ { 2 N } } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { r _ { N 1 } } & { r _ { N 2 } } & { \\cdots } & { 1 } \\end{array} \\right] = I + \\tilde { R }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $I$ 是自关联矩阵， $\\tilde { R }$ 是协相关矩阵且表示变量之间的重叠信息的大小。假设矩阵 $R , I , { \\tilde { R } }$ 的特征值分别为 $\\lambda _ { N } ^ { R } , \\lambda _ { N } ^ { I } , \\lambda _ { N } ^ { \\tilde { R } }$ ，则满足 $\\lambda _ { n } ^ { R } > 0 \\ ; \\sum _ { i = 1 } ^ { N } \\lambda _ { i } ^ { R } = \\sum _ { i = 1 } ^ { N } \\lambda _ { i } ^ { I } + \\sum _ { i = 1 } ^ { N } \\lambda _ { i } ^ { \\tilde { R } }$ 。根据信息论计算原理，关联信息熵定义为[17]",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { R } = - \\sum _ { i = 1 } ^ { N } \\frac { \\lambda _ { i } ^ { R } } { N } \\log _ { n } { \\frac { \\lambda _ { i } ^ { R } } { N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为单位矩阵 $I$ 的特征值均为1，则 $H _ { \\scriptscriptstyle I } = 1$ ，所以有",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { _ R } = 1 - H _ { R } = \\sum _ { i = 1 } ^ { N } ( \\frac { 1 } { N } + \\frac { 1 + \\lambda _ { i } ^ { R } } { N } \\mathrm { l o g } _ { n } \\frac { 1 + \\lambda _ { i } ^ { R } } { N } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结合特征值满足的条件和式（5）可知，当 $\\lambda _ { N } ^ { \\tilde { R } } = 0$ 时，$\\begin{array} { r } { \\lambda _ { N } ^ { R } = \\lambda _ { N } ^ { I } = 1 } \\end{array}$ ，表明各个变量之间相互独立，提供了完全不同的信息，此时系统中没有重叠信息，关联信息熵 $H _ { _ { I } } = 1 \\ , H _ { _ { \\tilde { R } } } = 0$ 当 $\\lambda _ { N } ^ { \\tilde { R } } \\neq 0$ 时，系统存在重叠信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2最大信息系数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reshef 等人于2011年在 Sicence上提出了一种新的基于信息论的度量标准——最大信息系数。最大信息系数不仅能够度量大量数据中变量间的线性与非线性关系，而且对不能使用单个函数表示的非函数依赖关系也十分有效[18]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最大信息系数主要利用互信息和网格划分方法进行计算。假设给定变量 $X = \\{ x _ { i } , i = 1 , 2 , . . . , n \\}$ 和 $Y = \\{ y _ { i } , i = 1 , 2 , . . . , n \\}$ ， $\\mathbf { \\Omega } _ { n }$ 为样本数，对于有限样本对的集合 $D = \\{ ( x _ { i } , y _ { i } ) , i = 1 , 2 , . . . , n \\}$ ，定义$G$ 划分将变量 $X$ 的值域分成 $x$ 段，将 $Y$ 的值域分成 $y$ 段， $G$ 即为 $x \\times y$ 的网络。在得到的每一种网格划分中计算互信息$I ( X ; Y )$ ，相同的 $x \\times y$ 网格划分方式可以有多种，选择最大值作为 $G$ 的互信息值。定义划分 $G$ 下数据 $D$ 的最大互信息公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ^ { * } ( X ; Y ) = \\operatorname* { m a x } ( I ( D | G ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $D | G$ 表示数据 $D$ 在使用 $G$ 进行划分。将不同划分下得到的最大互信息值组成特征矩阵，特征矩阵 $I ( D ) _ { x , y }$ 定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( D ) _ { x , y } = \\frac { I ^ { * } ( D , x , y ) } { \\log \\operatorname* { m i n } \\{ x , y \\} }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则最大信息系数定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM I C ( D ) = \\operatorname* { m a x } _ { x y < B ( n ) } \\{ I ( D ) _ { x , y } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $B ( n )$ 为网格划分 $x \\times y$ 的上限值，文献[19]中通过大量实验给出当 $B ( n ) = n ^ { 0 . 6 }$ 时效果最好。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "给定一个样本的特征集 $F = \\{ f _ { 1 } , f _ { 2 } , . . . , f _ { N } , c \\}$ ，样本数为 $N$ ，类别为 $\\mathbf { \\Psi } _ { c }$ ，对于任意特征 $f _ { i }$ 和类别 $\\mathbf { \\Psi } _ { c }$ 的相关性定义为$M I C ( f _ { i } , c )$ ，值越大表明特征 $f _ { i }$ 和类别 $\\mathbf { \\Psi } _ { c }$ 间的相关性越大， $f _ { i }$ 为强相关特征，越倾向于保留，反之则为弱相关特征，需要被删除。对于任意两个特征 $f _ { i }$ 和 $f _ { j }$ 的冗余性定义为 $M I C ( f _ { i } , f _ { j } )$ ，$M I C ( f _ { i } , f _ { j } )$ 越大说明两个特征间的可代替性越强，即冗余性越强，需要剔除其中一个特征，反之，当 $M I C ( f _ { i } , f _ { j } )$ 的值为0时,说明 $f _ { i }$ 和 $f _ { j }$ 相互独立，都需要保留。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 本文算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1改进的关联信息熵度量的特征选择算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设原始数据集 $D$ 中有 $k$ 个样本 $D = \\{ d _ { 1 } , d _ { 2 } , . . . , d _ { k } \\}$ ，其中每个样本 $d _ { i }$ 都由 $N$ 个特征构成集合 $X = \\{ x _ { 1 } , x _ { 2 } , . . . , x _ { N } \\}$ ，目标集合$c$ 中有 $M$ 个不同的类别 $C = \\{ c _ { 1 } , c _ { 2 } , . . . , c _ { M } \\}$ ，特征选择就是要在$N$ 维特征集合中选择出一个最佳特征子集 $s$ ，其中 $s$ 中含有 $p$ 维特征（ $p < N$ )。该特征子集 $s$ 在分类识别过程中提供了与 $X$ （204号近似或者更优的识别能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于关联信息熵度量的特征选择方法CMFS算法简单描述如下[17]:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)计算每一个特征和相应类别的互信息 $I _ { \\ O _ { i j } }$ ，并构造多变量实矩阵 $P$ ，式中 $H ( \\bullet )$ 为熵， $H ( \\bullet , \\bullet )$ 为联合熵;",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { i j } = I ( x _ { i } ; c _ { j } ) = H ( x _ { i } ) + H ( c _ { j } ) - H ( x _ { i } , c _ { j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = { \\left[ \\begin{array} { l l l l } { I _ { 1 1 } } & { I _ { 1 2 } } & { \\cdots } & { I _ { 1 M } } \\\\ { I _ { 2 1 } } & { I _ { 2 2 } } & { \\cdots } & { I _ { 2 M } } \\\\ { \\vdots } & { \\vdots } & & { \\vdots } \\\\ { I _ { N 1 } } & { I _ { N 2 } } & { \\cdots } & { I _ { N M } } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)对实矩阵 $P$ 做中心化和标准化得到 $Q _ { F } = [ \\tilde { I } _ { i j } ]$ ,并计算特征相关矩阵 $\\mathrm { R e } l = Q _ { F } ^ { T } Q _ { F }$ ·",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { I } _ { i j } = \\frac { I _ { i j } - \\frac { \\operatorname* { m a x } ( I _ { i } ) - \\operatorname* { m i n } ( I _ { i } ) } { 2 } } { \\sqrt { \\displaystyle \\sum _ { j = 1 } ^ { M } \\left( I _ { i j } - \\frac { \\operatorname* { m a x } ( I _ { i } ) - \\operatorname* { m i n } ( I _ { i } ) } { 2 } \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)计算矩阵 $\\mathbf { \\nabla } _ { \\mathrm { R e } l }$ 的特征值向量，根据式（4）（5）计算全体特征值下的Ha和H;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)对每一个 $x _ { i }$ ，根据 $I n f o ( i ) = H _ { a l l } - H _ { m i s s } ( x _ { i } )$ 计算失去特征$x _ { i }$ 后冗余信息的增加量，其中 $H _ { a l l }$ 为全体特征下的关联信息熵，$H _ { m i s s } ( x _ { i } )$ 为失去特征 $x _ { i }$ 后的关联信息熵;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)根据 $S ( 1 ) = \\arg \\operatorname* { m a x } ( I n f o ( i ) )$ 选择第1个特征，每一个$x _ { i } \\in X - S$ ，添加 $x _ { i }$ 到集合 $s$ 中，扩充后的相关矩阵为 $\\mathbf { R e } l _ { a d d }$ ，计算扩充集合后的关联信息熵：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { a d d } ( i ) = H _ { s \\cup \\{ x _ { i } \\} } = - \\sum _ { i = 1 } ^ { \\left| s \\right| + 1 } \\frac { \\lambda _ { i } ^ { \\mathrm { R e } l _ { a d d } } } { | s \\mathbin { | + } 1 } \\mathrm { l o g } _ { 2 } \\frac { \\lambda _ { i } ^ { \\mathrm { R e } l _ { a d d } } } { | s \\mathbin { | + } 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)对于未排序的特征集合 $X - S$ ，根据$S ( l ) = \\arg \\operatorname* { m a x } ( H _ { a d d } ( i ) ) , l = 2 , . . . , N$ 迭代排序， $X = X - S$ ，直到$l = p$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CMFS算法通过特征排序的方式确保了前 $p$ 维特征形成的特征子集是低冗余的，并且关联信息熵最大，但是无法自适应的选择特征子集，需要人工参与设定维数 $p$ 。文献[17]引入阈值 $\\eta$ 进行子集规模的自适应控制，称为CMFS $\\cdot \\mathbf { n }$ 算法，与CMFS算法不同的地方在于步骤6中，当满足 $H _ { a d d } ( i ) > \\eta , H _ { a \\tilde { d } d } ( i ) < 1 - \\eta$ 时，把 $x _ { i }$ 加入集合 $s$ 中；当加入 $x _ { i }$ 带来的冗余信息超出 $1 - \\eta$ 的限制时，算法迭代终止。CMFS- $\\cdot \\mathbf { n }$ 算法实现了特征子集的自适应调控，存在的根本问题是 $\\eta$ 的取值如何选择，当 $\\eta$ 较小时，允许带入 $1 - \\eta$ 的冗余信息，特征子集规模几乎等于原始集合规模，没有达到降维的目的；当 $\\eta$ 较大时，允许加入的冗余信息较小，留下的特征数过少，影响分选识别率。文献[17]通过大量实验，综合考虑了分类识别正确率和计算效率两方面进行确定阈值 $\\eta$ ，但是只能给出一个性能较好的范围，而且对于不同的数据集取值还不一样，这种通过大量实验来反推寻找最优阈值 $\\eta$ 的方法严重增加了算法的计算复杂度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[18]提出基于最大信息系数的度量标准的近似马尔可夫毯的特征选择方法，首先用FCBF 算法以对称不确定性度量作特征排序和删除弱相关特征，然后运用近似马尔可夫毯删除冗余信息，得到最优特征子集。受此启发，本文也采用近似马尔可夫毯方法来删除冗余信息，实现自适应选择特征子集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义1 近似马尔可夫毯。对于两个特征 $x _ { i }$ 和 $x _ { j } ( i \\neq j ) ~ , ~ x _ { i }$ 是 $x _ { j }$ 的近似马尔可夫毯的条件是： $M I C ( x _ { i } , c ) > M I C ( x _ { j } , c )$ ，并且 $M I C ( x _ { j } , c ) < M I C ( x _ { i } , x _ { j } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义2主元素。一个特征 $x _ { i }$ 为主元素，当且仅当特征集中没有元素是 $x _ { i }$ 的近似马尔可夫毯；对于任意一个数据集，所有主元素组成的特征子集为最优特征子集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于以上分析，本文提出了改进的关联信息熵度量的特征选择算法，简写为CMFS-MIC，先用CMFS算法进行特征值排序，再用最大信息系数度量的近似马尔可夫毯去除冗余特征，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法具体步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输入：数据集 $D$ 、特征集合 $X$ 、类别信息 $c$ 输出：最优特征子集 Sopta $_ { \\mathrm { 1 \\sim e } }$ )与CMFS算法的步骤 $\\mathrm { { \\bar { a } } ) \\mathrm { { \\tilde { \\Sigma } } ^ { \\mathrm { { \\bar { d } } } } } }$ 相同；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "f)计算方法与CMFS 算法的步骤f)相同，但是对 $N$ 维特征都进行特征排序并放入 $s$ 中；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "g)选择 $s$ 中的第一个特征 $x _ { 1 }$ 为主元素，添加到 $S _ { o p t }$ 中，并查找以 $x _ { 1 }$ 为马尔可夫毯的特征子集 $\\{ x _ { j } \\}$ ，将冗余特征子集 $\\{ x _ { j } \\}$ 从 $s$ 中删除，得到新的 $s$ ·",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "h)重复步骤g)，直到S=，输出Sop",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2投票组合分类器设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分类器设计时，构建组合分类器进行分类，组合分类器融合多个分类器的决策后，通过一个组合器对不同分类器的输出作第二次判决，可以获得更好的分类性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在跳频信号特征集中积分双谱特征（SIB）与径向积分双谱（RIB）、轴向积分双谱（AIB）、圆周积分双谱（CIB）三种高阶谱特征相比，具有更好的时移不变性、尺度变化性和相位保持性等优势，在分类中最能体现辐射源的个体差异，因此本文在双谱特征中只关注 SIB 特征。另外，文献[9-10]仿真实验表明高维矢量SIB单独分类效果好，但是和其他低维特征合成新的特征矢量分选识别率反而降低，故而本文设计的组合分类器将 SIB 特征集和低维特征集分别输入两个CRC分类器[8]和两个SVM分类器进行分类，最后对4个分类器的结果进行投票组合判决。投票组合分类器如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3本文算法流程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe661715517dffa348569e51c727b4b7f6ff1ed541f78c619f3c6207ad45bcbc.jpg",
+        "img_caption": [
+            "图1投票组合分类器"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综合以上对特征选择算法CMFS-MIC以及加权组合分类器的理论分析，提出了基于CMFS-MIC特征选择的跳频电台分选方法，算法的总体流程框架如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f7a2fafba56cfd855af833226d6f00698f248f2d8d066752d1186d256a84a4d.jpg",
+        "img_caption": [
+            "图2本文算法总体流程框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1实验1 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文提出的特征选择算法CMFS-MIC的有效性，选择在UCI机器学习库[20]上选择几个常用数据集（如表1）进行特征选择，并与经典的特征选择算法FCBF、CMFS-n作比较，采用了 $S V M \\setminus C R C ^ { 2 }$ 种分类器进行对比实验。实验过程中采用随机抽取的方式从原始数据分为 $5 0 \\%$ 的训练样本和 $5 0 \\%$ 的测试样本。为了提高实验的准确性，重复试验10次并求其均值作为实验的最后结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1fadfb3676935c68dfa1cadd906628a32a229275c59070b4c8861dde20495eb4.jpg",
+        "table_caption": [
+            "表1UCI数据集"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>样本数</td><td>特征维数</td><td>类别数</td></tr><tr><td>Dermat</td><td>366</td><td>34</td><td>6</td></tr><tr><td>Spambase</td><td>4601</td><td>57</td><td>2</td></tr><tr><td>Arrhyth</td><td>279</td><td>452</td><td>16</td></tr><tr><td>Colon</td><td>62</td><td>2000</td><td>2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2和3分别给出了FCBF、CMFS-n和CMFS-MIC在表1数据集上的特征降维能力和三种不同方法选择的最优特征子集在测试集上的分类准确率。其中，CMFS-n 算法的阈值 $\\eta$ 通过多次实验仿真综合考虑分类成功率与特征降维来选定，Full来表示数据全集，Average表示均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe08b2d75322a3de59281d97e70acaa8a4d076e6c7c09ffd0190b5b478fdcecd.jpg",
+        "table_caption": [
+            "表2三种特征选择算法选择的特征数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>维数</td><td>FCBF</td><td>CMFS-n</td><td>CMFS-MIC</td></tr><tr><td>Dermat</td><td>34</td><td>12.5</td><td>11</td><td>9.2</td></tr><tr><td>Spambase</td><td>57</td><td>16.3</td><td>15.4</td><td>13.1</td></tr><tr><td>Arrhyth</td><td>452</td><td>11.8</td><td>10</td><td>8.6</td></tr><tr><td>Colon</td><td>2000</td><td>22</td><td>19.2</td><td>18</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表2中可知三种算法均能实现降维，但是降维能力存在缺陷，本文提出的特征选择算法CMFS-MIC在这四个数据集中均得到了更少的特征维数，降维能力优于其他两种算法。从表3可以看到，相比于FCBF 算法，CMFS-MIC 能够用较小的数据特征维数实现了更高的识别率；CMFS-MIC算法与CMFS-n算法相比，在分类效果上各有优势，但是CMFS-n存在特征选择时选择的阈值 $\\eta$ 需要多次实验得到，选择不同的值对分类结果和特征选维数影响较大，鲁棒性较差且实现过程耗时多。此外，特征选择之后，不同数据集在不同分类器上准确率均有一定提高，在同一数据集上，CRC算法分类的准确率高于SVM算法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e83eadee159a33590977c8f88e4bfc11494486455fed1ca2a73dc22cb7650ec7.jpg",
+        "table_caption": [
+            "表3三种特征选择方法在UCI数据集上的分选结果 $( \\% )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据集</td><td colspan=\"5\">SVM</td><td colspan=\"3\">CRC</td></tr><tr><td>Full</td><td>FCBF</td><td>CMFS-n</td><td>CMFS-MIC</td><td>Full</td><td>FCBF</td><td>CMFS-n</td><td>CMFS-MIC</td></tr><tr><td>Dermat</td><td>90.12</td><td>89.88</td><td>90.64</td><td>91.85</td><td>91.67</td><td>91.01</td><td>92.49</td><td>92.20</td></tr><tr><td>Spambase</td><td>85.13</td><td>84.24</td><td>85.37</td><td>85.20</td><td>85.32</td><td>86.22</td><td>86.87</td><td>86.95</td></tr><tr><td>Arrhyth</td><td>57.56</td><td>60.72</td><td>61.81</td><td>62.13</td><td>60.79</td><td>62.30</td><td>63.83</td><td>64.25</td></tr><tr><td>Colon</td><td>73.3477.45</td><td></td><td>78.56</td><td>78.29</td><td>75.31</td><td>75.44</td><td>76.72</td><td>77.16</td></tr><tr><td>Average</td><td>76.54</td><td>77.07</td><td>79.09</td><td>79.37</td><td>78.52</td><td>78.90</td><td>79.98</td><td>80.14</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2实验2 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本实验首先对同型号的4部短波跳频电台信号进行数据采集，数据采集仪器为TektronixDPO7254数字荧光示波器，采样率高达 $4 0 \\mathrm { G H z / s }$ ，每部电台采100个样本，50个用于训练，50个用于测试。实验平台为Lenovo T440S的PC机，内存12G，处理器Intel(RCoreTMi7-4600UCPU ${ \\ @ 2 . 1 0 } \\mathrm { { G H z } }$ ，Windows7 64bit 操作系统，仿真软件是MATLAB $\\mathtt { R 2 0 1 4 a }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对采集到的4部跳频电台的信号样本分别预处理并计算特征集，设获得特征集 $F _ { 1 }$ 和 $F _ { 2 }$ ，记为$F _ { 1 } = \\{ f _ { 1 } , f _ { 2 } , f _ { 3 } , f _ { 4 } , f _ { 5 } , f _ { 6 } , f _ { 7 } , f _ { 8 } , f _ { 9 } \\} \\ , \\ F _ { 2 } = \\{ f _ { 1 0 } ^ { 1 } , f _ { 1 0 } ^ { 2 } , . . . , f _ { 1 0 } ^ { 2 5 6 } \\}$ ,其中 $f _ { 1 }$ ：谱对称均值； $f _ { 2 }$ ：谱对称方差； $f _ { 3 }$ ：瑞利熵； $f _ { 4 }$ ：信息维数；$f _ { 5 }$ ：盒维数； $f _ { 6 }$ :LZC； $f _ { 7 }$ ：包络峰度； $f _ { 8 }$ ：高阶J特征均值； $f _ { 9 }$ ：高阶J特征方差； $f _ { 1 0 } ^ { i } ( i = 1 , 2 , . . . , 2 5 6 )$ ：SIB。类别信息$C = \\{ 1 , 2 , 3 , 4 \\}$ ， $F _ { 1 }$ 和 $F _ { 2 }$ 经过 $C F M S - M I C$ 特征选择得到的最优子集 $F _ { 1 } ^ { * } = \\{ f _ { 3 } , f _ { 5 } , f _ { 6 } , f _ { 8 } \\}$ 和 $\\boldsymbol { F } _ { 2 } ^ { * } = \\{ f _ { 1 0 } ^ { 1 } , f _ { 1 0 } ^ { 2 } , . . . , f _ { 1 0 } ^ { 7 2 } \\}$ ，构造特征集F={F,F}，F4={F,F}。由于采用CRC分类器得到的效果比SVM分类效果好，本文只给出了CRC分类器在不同特征集下的识别率与本文算法的识别率进行比较，如表4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对表中结果进行分析：比较 $F _ { 1 }$ 和 $F _ { 1 } ^ { * } \\setminus F _ { 2 }$ 和 $\\boldsymbol { F } _ { 2 } ^ { * }$ 的结果表明,不论是常规低维特征集还是高维积分双谱特征集，特征选择之后得到特征集的分类识别率均略低于原始特征集，但是差别不大，表明在 $C F M S - M I C$ 特征选择获得的特征集仍然具有与原始特征集近似的分选能力，但是维数大大降低了；比较 $F _ { 3 }$ 和 $F _ { 4 }$ 的结果表明，所有特征的集合得到的识别率还不如采用$C F M S - M I C$ 特征选择之后得到的低维特征集合的识别率；本文算法的识别率结果表明，采用投票组合分类器的方法与单个CRC分类器相比，组合分类器的分类识别性能明显更优。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/01619b2034cc9ca969691b3e3216f2aa1f2ec0d26a6f18d4ddc933eb7c14a795.jpg",
+        "table_caption": [
+            "表4不同特征集合下的个体识别率 $( \\% )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>特征集</td><td>电台1</td><td>电台2</td><td>电台3</td><td>电台4</td><td>平均</td></tr><tr><td>F</td><td>78.43</td><td>81.20</td><td>83.37</td><td>65.02</td><td>77.01</td></tr><tr><td>F</td><td>76.84</td><td>80.66</td><td>83.21</td><td>62.78</td><td>75.87</td></tr><tr><td>F</td><td>80.65</td><td>86.27</td><td>85.74</td><td>81.30</td><td>83.49</td></tr><tr><td>F</td><td>78.97</td><td>84.23</td><td>84.33</td><td>78.88</td><td>81.60</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/555aff6efc974f45761595d521eb82162dfd1c64abba122e68cb56cd719cc4a8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>F</td><td>75.71</td><td>82.54</td><td>83.40</td><td>75.48</td><td>79.28</td></tr><tr><td>F4</td><td>76.50</td><td>82.34</td><td>85.37</td><td>77.83</td><td>80.51</td></tr><tr><td>本文算法</td><td>85.64</td><td>89.81</td><td>90.70</td><td>86.52</td><td>88.17</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "提出了一种基于CMFS-MIC特征选择的跳频电台网台分选方法，该方法兼顾了特征与类别之间的相关性和特征之间的冗余性对特征集进行排序，并用近似马尔可夫毯的方法删除冗余特征和不相关特征得到最优的特征子集。在分类识别阶段，基于SVM分类器和CRC分类器设计了投票组合分类器。实验结果验证了本文所提特征选择算法CMFS-MIC 的有效性以及本文算法提高了电台分选的识别率，但是存在的不足之处是特征选择过程计算复杂，导致算法单次实验整体的计算复杂度仍然很大，有待往后的研究进行改进。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] Sha Zhichao,Liu Zhangmeng,Huang Zhitao,et al. Online hop timing detection and frequency estimation of multiple FH signals[J]. ETRI Journal, 2013,35(5):748-756.   \n[2] Eric M, Dukic M L,Obradovic M. Frequency hopping signal separation by spatio-frequency analysis based on the music method [C]/ Proc of the 6th IEEE International Symposium on Spread Spectrum Techniques and Applications.Piscataway,NJ: IEEE Press,20oo:78-82.   \n[3] 陈利虎，张尔扬，沈荣骏．基于优化初始聚类中心K-Means 算法的跳频 信号分选[J]．国防科技大学学报,2009,31(2):70-75.(Chen Lihu,Zhang Eryang,Shen Rongjun. The sorting of frequency hopping signals based on K-means algorithm with optimal initial clustering centers[J].Journal of National University of Defense Technology,2009,31(2):70-75.)   \n[4] 郭海召，张顺生．稀疏贝叶斯模型在跳频信号电台分选中的应用[J].信 号处理,2016,32(6):733-738.(Guo Haizhao,Zhang Shunsheng.Application of Sparse Bayesian model in frequency-hopping signal station separation[J]. Journal of Signal Process,2016,32(6):733-738.)   \n[5]顾晨辉，王伦文．基于频域瞬时包络特征的跳频电台个体识别方法[J]. 信号处理,2012,28(9):1335-1340.(Gu Chenhui,Wang Lunwen.Individual frequency-hopping radio identification method based on transient characteris-tics of frequency domain [J]. Journal of Signal Process,2012, 28(9):1335-1340.)   \n[6] 徐书华，黄本雄，徐丽娜．基于 SIB/PCA 的通信辐射源个体识别[J]．华 中科技大学学报:自然科学版,2008，36(7):14-17.(Xu Shuhua,Huang Benxiong,Xu Lina.Identification of individual radio transmiters using SIB/PCA[J].JournalofHuazhongUniversityofScienceand Technology:Natural Science Edition,20o8,36(7):14-17)   \n[7]唐哲，雷迎科．基于最大相关熵的通信辐射源个体识别方法[J].通信学 报，2016,37(12):171-175.(Tang Zhe,Lei Yingke.Method of individual ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "communication transmitter identification based on maximum correntropy[J]. Journal of Communication.2016,37(12):171-175.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[8]Tang Zhe,Lei Yingke.Radio Transmitter Identification Based on Collaborative Representation[J].Wireless Personal Communications,2017, 96(1):1377-1391. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[9]孙娜．通信电台细微特征研究[D].北京：北京邮电大学， 2010.(Sun Na.Research on the subtle characteristics of communication stations[D].Beijing:Beijing University of Posts and Telecommunications, 2010.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[10]胡建树.短波电台个体特征识别[D].广州：华南理工大学，2015.(Hu Jianshu.Individual character recognition of short wave radios[D]. Guangzhou:South China University of Technology,2010.)   \n[11] Chandrashekar $\\textsc { G }$ Sahin F.A survey on feature selection methods[J]. Computers & Electrical Engineering,2014,40(1):16-28.   \n[12]Hoque N,Bhattacharyya D K,Kalita JK.MIFS-ND:A mutual information-based feature selection method[J].Expert Systems with Applications,2014,41(14):6371-6385.   \n[13]Estevez PA,TesmerM,Perez CA,etal.Normalized Mutual Information FeatureSelection[J].IEEETransonNeuralNetworks， 2009, 20(2):189-201.   \n[14] Yu Lei,Liu Hu.Efficient Feature Selection Via Analysis ofRelevance and Redundancy[J].JournalofMachineLearningResearch， 2004, 5(12):1205-1224.   \n[15]段宏湘，张秋余，张墨逸．基于归一化互信息的FCBF特征选择算法[J]. 华中科技大学学报:自然科学版，2017，45(1):52-56.(Duan Hongxiang， Zhang Qiuyu, Zhang Moyi.FCBF algorithm based on normalized mutual information for feature selection[J]. Journal of Huazhong University of Science and Technology:Natural Science Edition,2017,45(1):52-56.)   \n[16] Wang Qiang,Shen Yang,Zhang Yan,et al.Fast quantitative correlation analysisand informationdeviationanalysisforevaluatingthe performancesofimagefusiontechniques[J].IEEE Trans on Instrumentation & Measurement,2004,53(5):1441-1447.   \n[17]董红斌，滕阳，杨雪．一种基于关联信息熵度量的特征选择方法[J].计 算机研究与发展，2016,53(8):1684-1695.(Dong Hongbin，Teng yang, Yang Xue.Feature selection based on measurement of correlation information entropy[J].Journal of Computer Research and Development, 2016,53(8):1684-1695.)   \n[18]孙广路，宋超，刘金来,等．基于最大信息系数和近似马尔可夫毯的特 征选择方法[J]．自动化学报，2017,43(5):795-805.(Sun Guanglu,Song Chao,Liu Jinlai,et al.[J] Acta Automatica Sinica,2017,43(5):795-805.)   \n[19]Reshef DN,Reshef YA,FinucaneHK,etal.DetectingNovel Associations in Large Data Sets[J]. Science,2011,334(6062):1518.   \n[20]Lichman M.UCI machine learning repository [EB/OL]. (2015-11-10). http://archive.ics.uci.edu/ml. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,492 @@
+[
+    {
+        "type": "text",
+        "text": "Stau LSP and comparison with $H ^ { \\pm }$ phenomenology ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A.G. Akeroyd $\\boldsymbol { a }$ \\*, Chun Liu $\\boldsymbol { b }$ t, and Jeonghyeon Song $a \\ddag$ （20 （20 $a$ Korea Institute for Advanced Study, 207-43 Cheongryangri-dong, Dongdaemun-gu, Seoul 130-012, Korea （204号 $b$ Institute of Theoretical Physics, Chinese Academy of Sciences, P.O. Box 2735, Beijing 100080, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In supersymmetric models with explicit breaking of $R$ -parity the lightest supersymmetric particle (LSP） may be the lightest stau, $\\tilde { \\tau } _ { 1 }$ .Such a scenario would provide a clear sign of $R$ -parity violating SUSY，although its phe nomenology may resemble that of a charged Higgs boson, $H ^ { \\pm }$ .We discuss various ways of distinguishing a LSP $\\tilde { \\tau } _ { 1 }$ from $H ^ { \\pm }$ at future colliders,and address the case of $\\tilde { \\tau } _ { 1 }$ mimicking the signal for $H ^ { \\pm }$ . As an example we suggest that the recent L3 signal for $H ^ { + } H ^ { - }  q q ^ { \\prime } q q ^ { \\prime }$ and $H ^ { + } H ^ { - }  q q ^ { \\prime } \\tau \\nu _ { \\tau }$ could be more easily explained by a LSP $\\tilde { \\tau } _ { 1 }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$R$ -parity violating extensions of the minimal supersymmetric standard model (MSSM) have received much attention since the observation of neutrino oscillations [1]. Small neutrino masses can be naturally generated through trilinear and/or bilinear lepton number violating interactions [2.3]. Moreover the particle content of the MSSM remains intact.A clear signal of $R$ -parity violation would be the single production of supersymmetric particles,and/or observation of a charged lightest supersymmetric particle (LSP). The latter situation is allowed in a $R$ -parity violating supersymmetric model because the LSP is unstable. A charged or colored stable LSP would conflict with cosmological observations by forming readily detectable anomalous heavy isotopes [4]. If the LSP is unstable then such cosmological constraints become irrelevant. In this paper we focus on the case of the LSP being the lightest scalar tau, $\\tilde { \\tau } _ { 1 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In a general $R$ -parity violating supersymmetric model, the phenomenology of the stau has been known to possess many similarities with that of the charged Higgs boson $H ^ { \\pm }$ [5,6]. For example, at future $e ^ { + } e ^ { - }$ colliders both can be pair-produced by the same mechanism $e ^ { + } e ^ { - } \\to$ $\\tilde { \\tau } _ { 1 } ^ { + } \\tilde { \\tau } _ { 1 } ^ { - } , H ^ { + } H ^ { - }$ with very similar rates, especially if the $\\tilde { \\tau } _ { 1 }$ is mainly left-handed. Therefore distinguishing $\\tilde { \\tau } _ { 1 }$ from $H ^ { \\pm }$ is an issue of significance and importance at future colliders. There are,in principle, at least two ways in which $\\tilde { \\tau }$ and $H ^ { \\pm }$ may differ phenomenologically; the mass spectrum and the decay modes. Firstly in the MSSM, the mass of $H ^ { \\pm } \\left( M _ { H ^ { \\pm } } \\right)$ originates from the supersymmetric and gauge-invariant superpotential， and at tree-level $M _ { H ^ { \\pm } }$ is related to the pseudoscalar mass $M _ { A }$ and the $W$ boson mass $M _ { W }$ by $M _ { H ^ { \\pm } } ^ { 2 } = M _ { A } ^ { 2 } + M _ { W } ^ { 2 }$ Although this relationship may be relaxed in extensions of the MSSM, or in other nonsupersymmetric models with an extended Higgs sector, the contribution of $H ^ { \\pm }$ to the decay $b  s \\gamma$ often imposes a strong lower bound on $M _ { H ^ { \\pm } }$ .In comparison，the presence of a light $\\tilde { \\tau } _ { 1 }$ is compatible with the experimental measurement of $b \\to s \\gamma$ . Secondly， decays of （204号 $H ^ { \\pm }  f f ^ { \\prime }$ are proportional to the mass of the fermion and involve the parameter $\\tan \\beta$ （20 （204号 $( = v _ { 2 } / v _ { 1 }$ ). Therefore for a given $M _ { H ^ { \\pm } }$ the branching ratios (BRs) are calculable functions of $\\tan \\beta$ . In contrast, $\\tilde { \\tau } _ { 1 }  f f ^ { \\prime }$ decays involve the arbitrary $R$ -parity violating couplings $\\lambda$ （204号 and $\\lambda ^ { \\prime }$ . Therefore in general there are many more decay possibilities for $\\tilde { \\tau } _ { 1 }  f f ^ { \\prime }$ [5,6]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Furthermore our assumption of a LSP $\\tilde { \\tau } _ { 1 }$ can provide a unique phenomenology which includes the possibility of $\\tilde { \\tau } _ { 1 }$ closely mimicking $H ^ { \\pm }$ .If $M _ { H ^ { \\pm } } \\leq m _ { t }$ then $H ^ { \\pm }$ decays mainly into $c s$ and $\\tau \\nu$ and the misidentification can occur if the relevant $\\lambda$ and $\\lambda ^ { \\prime }$ couplings are both non-zero. This possibility has not yet been seriously considered due to the usual assumption that one $R$ -parity violating operator is dominant at a time while the others are negligible. LEP has carried out searches for $\\tilde { \\tau } _ { 1 }$ as the LSP but the dominance of one coupling is always assumed [7]. The possibility of misidentifying $\\tilde { \\tau } _ { 1 }$ and $H ^ { \\pm }$ has important implications for future colliders,and merits further experimental and theoretical consideration. Any signal in a given search for $H ^ { \\pm }$ should be interpreted with care in order to be sure that the signal really is a $H ^ { \\pm }$ . Observation of $H ^ { \\pm }$ is expected to provide a useful measurement of $\\tan \\beta$ （204号 since this parameter strongly determines its phenomenology. Therefore, measurements of $\\tan \\beta$ from $H ^ { \\pm }$ -like signals should await complementary confirmation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An example of $\\tilde { \\tau } _ { 1 } - H ^ { \\pm }$ misidentification affecting the interpretation of experimental signals is the recently reported L3 excess of $4 . 4 \\sigma$ in the channels $H ^ { + } H ^ { - }  q q ^ { \\prime } q q ^ { \\prime }$ and （204号 $H ^ { + } H ^ { - }  q q ^ { \\prime } \\tau \\nu _ { \\tau }$ [8]. The data is compatible with $M _ { H ^ { \\pm } } = 6 8 \\mathrm { G e }$ V, BR $( H ^ { \\pm }  c s ) \\approx 9 0 \\%$ （20 and BR $( H ^ { \\pm }  \\tau \\nu _ { \\tau } ) \\approx 1 0 \\%$ . As shall be discussed later, many popular extensions of the SM have diffculties in incorporating such light charged Higgs bosons. Neither the MSSM, nor the next to MSSM (NMSSM), nor two Higgs doublet models (2HDM) can accommodate the above L3 results. In contrast，a $\\tilde { \\tau } _ { 1 }$ with mass around 68 GeV and with observed branching ratios can be obtained within a reasonable SUSY parameter space. Note that the LSP requirement for the stau is crucial, since otherwise its dominant decay mode would be into a tau lepton ( $^ { \\prime }$ ）and a LSP neutralino ( $\\chi ^ { 0 }$ ). The latter decays would give rise to a signature incompatible with the observed BRs (i.e.,missing energy for $\\chi ^ { 0 }$ if $R$ -parity is conserved,or high multiplicity fermionic events if $\\chi ^ { 0 }$ decays). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In Sec. II we specify the conditions for a LSP $\\tilde { \\tau } _ { 1 }$ in the context of a $R$ -parity violating model. In Sec. III we briefly summarize the L3 results and consider its interpretation as a $H ^ { \\pm }$ in some popular supersymmetric and nonsupersymmetric models with two or more Higgs doublets. It shallbe shown that it is difficult to accommodate the L3 excess except for models with 3 or more doublets. In Sec. IV we offer an attractive explanation of the L3 data in terms of the stau LSP. In Sec. V we compare the phenomenology of $\\tilde { \\tau } _ { 1 }$ and $H ^ { \\pm }$ at future colliders,and specify the conditions where the phenomenology is very close and where it can differ. Finally, Sec. VI contains our conclusions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "II.STAU AS THE LSP IN THE MSSM WITH EXPLICIT $\\boldsymbol { \\mathcal { R } } _ { P }$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Explicit $R$ -parity violation in the MSSM is generated by adding all possible renormalizable $L$ -violating couplings to the superpotential [9]: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\not R _ { p } } = { \\frac { 1 } { 2 } } \\lambda _ { i j k } L _ { i } L _ { j } \\bar { E } _ { k } + \\lambda _ { i j k } ^ { \\prime } L _ { i } Q _ { j } \\bar { D } _ { k } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $i , j , k = 1 , 2 , 3$ are generation indices, $\\lambda _ { i j k } = - \\lambda _ { j i k }$ ， $L _ { i }$ $\\left( Q _ { i } \\right)$ ）are the lepton (quark) （204号 $S U ( 2 )$ doublet superfields,and $E _ { i }$ ( $D _ { i }$ ） are the lepton (down-quark) $S U ( 2 )$ singlet superfields. The $B$ -violating couplings $\\lambda ^ { \\prime \\prime } U D D$ are set to zero in order to forbid proton decay. In addition,a bilinear term $\\epsilon _ { i } L _ { i } H _ { 2 }$ may be added，which generates a tree-level mass for neutrinos through their mixing with the neutralinos. Such a bilinear term is also known to induce mixing between $H ^ { \\pm }$ and $\\tilde { \\tau } _ { i }$ [10]. The smallness of the neutrino mass indicated by the Super-Kamiokande data would suggest a suppressed $\\epsilon _ { i }$ [3],and thus small mixing between $H ^ { \\pm }$ and $\\tilde { \\tau } _ { i }$ . If this mixing is unsuppressed then a LSP $\\tilde { \\tau } _ { 1 }$ in a purely bilinear $R$ -parity violating model would decay promptly via its $H ^ { \\pm }$ component，with $H ^ { \\pm }$ like BRs [10]． For suppressed mixing $\\tilde { \\tau } _ { 1 }$ would decay with a long lifetime, again with $H ^ { \\pm }$ like BRs. We shall be working in the $R$ -parity violating model defined by the superpotential above, and we shall see that the large range of values of the $\\lambda$ and $\\lambda ^ { \\prime }$ couplings enable the LSP $\\tilde { \\tau } _ { 1 }$ to have a richer phenomenology than that of the LSP $\\tilde { \\tau } _ { 1 }$ in the purely bilinear case. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The $R$ -parity violating Yukawa interactions involving sleptons are given by, in fourcomponent Dirac notation, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal { L } } = \\lambda _ { i j k } [ { \\tilde { e } } _ { L } ^ { j } { \\bar { e } } _ { R } ^ { k } \\nu _ { L } ^ { i } + ( { \\tilde { e } } _ { R } ^ { k } ) ^ { * } ( { \\bar { \\nu } } _ { L } ^ { i } ) ^ { c } e _ { L } ^ { j } - ( i  j ) ] - \\lambda _ { i j k } ^ { \\prime } { \\tilde { e } } _ { L } ^ { i } { \\bar { d } } _ { R } ^ { k } u _ { L } ^ { j } + H . c . .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since the sleptons can decay into SM leptons and/or quarks, the cosmological condition for the LSP to be charge- and color-neutral becomes inapplicable. We restrict ourselves to phenomenological implications of the case where the stau is the LSP. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The mass matrix squared for the left- and right-handed stau's (neglecting possible $\\boldsymbol C \\boldsymbol P$ violating phases) is given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } _ { \\tilde { \\tau } } ^ { 2 } = \\left( \\begin{array} { c } { { X _ { \\tau } ~ Z _ { \\tau } } } \\\\ { { } } \\\\ { { Z _ { \\tau } ~ Y _ { \\tau } } } \\end{array} \\right) ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $X _ { \\tau }$ ， $Y _ { \\tau }$ ，and $Z _ { \\tau }$ are ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { X _ { \\tau } = m _ { \\tilde { \\tau } _ { L } } ^ { 2 } + m _ { \\tau } ^ { 2 } + \\displaystyle \\frac { 1 } { 2 } ( m _ { Z } ^ { 2 } - 2 m _ { W } ^ { 2 } ) \\cos 2 \\beta , } } \\\\ { { \\nonumber } } \\\\ { { Y _ { \\tau } = m _ { \\tilde { \\tau } _ { R } } ^ { 2 } + m _ { \\tau } ^ { 2 } + ( m _ { W } ^ { 2 } - m _ { Z } ^ { 2 } ) \\cos 2 \\beta , } } \\\\ { { \\nonumber } } \\\\ { { Z _ { \\tau } = m _ { \\tau } \\mid A _ { \\tau } + \\mu \\tan \\beta \\mid . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here $m _ { \\tilde { \\tau } _ { L , R } } ^ { 2 }$ （204号 are respectively the left- and right-handed soft-SUSY-breaking stau masses squared; $A _ { \\tau }$ is the soft trilinear coupling for the $\\tilde { \\tau }$ . Diagonalizing this matrix leads to two mass eigenstates T1 and T2, with mr2 ≥ mr1\\* ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As one can see, the mass of $\\tilde { \\tau } _ { i }$ depends on a combination of $\\mu$ ， $\\tan \\beta$ and soft SUSY breaking parameters, all of which are very weakly constrained by experiment. This is in contrast to $M _ { H ^ { \\pm } }$ in the MSSM,which is constrained by the sum rule obtained from the scalar potential. Hence a light $\\tilde { \\tau } _ { 1 }$ is permitted if one of $m _ { \\tilde { \\tau } _ { L } } ^ { 2 }$ and $m _ { \\tilde { \\tau } _ { R } } ^ { 2 }$ is chosen to be suitably small. Therefore a LSP $\\tilde { \\tau } _ { 1 }$ is certainly possible in the $R$ -parity violating MSSM. We note that models which assume universality of scalar masses at the GUT scale will not in general produce a LSP $\\tilde { \\tau } _ { 1 }$ . Models with anomalous breaking of supersymmetry generally require the sleptons to be lighter than the other SUSY particles [11],and thus a LSP stau may arise in such models provided $R$ -parity is also broken. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A comment on constraints from the decay $b  s \\gamma$ is in order here.It is known that a light charged Higgs boson （ $M _ { H ^ { \\pm } } < M _ { W }$ ） can give an unacceptably large contribution to the measured decay $b  s \\gamma$ ， as shall be discussed in the next section. However, $R$ -parity violating supersymmetric models have been shown to be weakly constrained by the $b \\to s \\gamma$ （204号 decay due to the large number of free parameters coming from new (complex) Yukawa couplings [12]. In the scenario of the LSP stau, the dominant contribution to $b \\to s \\gamma$ from the $R$ -parity violating Yukawa interactions in Eq. (2） is mediated by $\\tilde { \\tau } _ { 1 }$ and a top quark, giving a contribution proportional to $| \\lambda _ { 3 3 3 } ^ { \\prime } \\lambda _ { 3 3 2 } ^ { \\prime } | ^ { 2 }$ . The adjustment of these parameters is, in principle,always possible to avoid the $b  s \\gamma$ bounds. Therefore a LSP $\\tilde { \\tau } _ { 1 }$ is certainly a viable option in the $R$ -parity violating MSSM. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "III.L3 EXCESS AND $H ^ { \\pm }$ INTERPRETATION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on the recent search for pair-produced charged Higgs bosons with data collected at $2 0 0 \\mathrm { G e V } \\le \\sqrt { s } \\le 2 0 9 \\mathrm { G e V }$ ， the L3 collaboration has reported signals in the channels （204 $H ^ { + } H ^ { - }  c \\bar { s } \\bar { c } s$ and $H ^ { + } H ^ { - }  c \\bar { s } \\tau ^ { - } \\bar { \\nu } _ { \\tau }$ [8]. The data is compatible with a $4 . 4 \\sigma$ fuctuation in the background, and is best fitted by a $H ^ { \\pm }$ with $M _ { H ^ { \\pm } } = 6 8 ( \\$ eV,BR( $H ^ { \\pm }  c s ) \\approx 9 0 \\%$ （204号 and BR $\\langle H ^ { \\pm } \\to \\tau \\nu _ { \\tau } \\rangle \\approx 1 0 \\%$ . Although similar excesses have not been observed by OPAL, DEPLHI,and ALEPH, the full confrmation of the L3 results still awaits future experiments. There is a possibility that differences in the search strategies among the four collaborations may be a partial explanation of why the above three experiments have not observed the L3 excess. In particular, the DELPHI search utilizes $c$ -tagging since $H ^ { \\pm } \\to c s$ is expected to be the dominant quark decay channel. Note that the DELPHI search would not be sensitive to anomalous decay modes of the charged scalar， e.g.，decays to light quark jets. The compatibility of the four experiments is currently being investigated by the LEP working groups [13]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discovery of a $H ^ { \\pm }$ would be immediate evidence of physics beyond the minimal SM, since the latter predicts the existence of only a single neutral Higgs boson. In various models the Higgs sector is extended to include two or more Higgs doublets, leading to a physical Higgs spectrum with charged Higgs bosons. The MSSM requires two Higgs doublets， and the supersymmetric structure of the theory imposes constraints on the Higgs potential. This constrained tree-level Higgs potential ensures the following sum rule [14,15]: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { H ^ { \\pm } } ^ { 2 } = M _ { A } ^ { 2 } + M _ { W } ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Equation (5) is only significantly affcted by one-loop corrections in the parameter space of very low $\\tan \\beta$ [16],which is now experimentally excluded. The current lower bound from LEP $M _ { A } \\geq 9 0$ GeV implies $M _ { H ^ { \\pm } } \\geq 1 1 0 \\mathrm { G e } \\backslash$ /, taking $H ^ { \\pm }$ out of the discovery reach of LEP2 [17]. Thus any signal for pair-produced charged Higgs bosons at LEP would be evidence against the MSSM. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the NMSSM where a Higgs singlet field $N$ is added to the superpotential, the above relation is modified to ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { H ^ { \\pm } } ^ { 2 } = M _ { A } ^ { 2 } + M _ { W } ^ { 2 } - \\lambda _ { _ N } v ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Here the $\\lambda _ { { } _ { N } }$ contribution arises from the $\\lambda _ { { } _ { N } } N H _ { 1 } H _ { 2 }$ term in the superpotential. $M _ { A }$ is now an entry in the extended $3 \\times 3$ pseudoscalar mass matrix, and does not necessarily correspond to the mass of a physical Higgs boson. Clearly $M _ { H ^ { \\pm } } \\ \\leq \\ M _ { W }$ is possible if $\\lambda _ { { } _ { N } }$ is suitably large. Requiring that $\\lambda _ { { } _ { N } }$ remains perturbative up to the GUT scale, Ref.[17] showed that （204号 $M _ { H ^ { \\pm } } \\leq M _ { W }$ is possible for $1 . 7 \\le \\tan \\beta \\le 3 . 5$ If $H ^ { \\pm }$ is lighter than the $W$ boson, its main decay modes are into $c s$ and $\\tau \\nu$ . Since $\\Gamma ( H ^ { - } \\to \\tau ^ { - } \\bar { \\nu } _ { \\tau } ) / \\Gamma ( H ^ { - } \\to \\bar { c } s ) \\approx \\tan ^ { 4 } \\beta ( m _ { \\tau } ^ { 2 } / 3 m _ { c } ^ { 2 } )$ ,the permitted region for $\\tan \\beta$ would give B $\\mathrm { R } ( H ^ { \\pm } \\to \\tau \\nu _ { \\tau } ) \\geq 9 0 \\%$ , in clear disagreement with the L3 signal. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Charged Higgs bosons also arise in non-supersymmetric models with two or more Higgs   \ndoublets. The Higgs potential of such models is not restricted by the constraints of super  \nsymmetry and thus there are no mass relations among the Higgs bosons. In principle $M _ { H ^ { \\pm } }$ （204号   \nis a free parameter,which may be chosen such that $M _ { H ^ { \\pm } } \\leq M _ { W }$ . However, the observed   \ndecay rate of $b \\to s \\gamma$ is known to provide strong constraints on such a light $H ^ { \\pm }$ (see below). In a 2HDM with natural favor conservation [18] there are four distinct models depending   \non how the Higgs doublets are coupled to the fermions (the Yukawa couplings)[19]. In Table ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "I, we summarize which type of fermions couple to $H _ { 1 }$ and $H _ { 2 }$ . The Higgs sector of the MSSM requires Model II type couplings. The Yukawa interaction for $H ^ { + }$ is given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal { L } } = { \\frac { g } { \\sqrt { 2 } } } \\left\\{ \\left( { \\frac { m _ { d _ { i } } } { M _ { W } } } \\right) X { \\bar { u } } _ { L j } V _ { j i } d _ { R i } + \\left( { \\frac { m _ { u _ { i } } } { M _ { W } } } \\right) Y { \\bar { u } } _ { R i } V _ { i j } d _ { L j } + \\left( { \\frac { m _ { l _ { i } } } { M _ { W } } } \\right) Z { \\bar { \\nu } } _ { L i } e _ { R i } \\right\\} H ^ { + } + H . c . ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Here $u _ { L }$ and $u _ { R }$ ( $d _ { L }$ and $d _ { R }$ ） respectively denote left- and right-handed up (down） type quark fields, $\\nu _ { L }$ is the left-handed neutrino field,and $e _ { R }$ the right-handed charged lepton field. The $V$ is the CKM matrix. Table II shows the couplings $X$ ， $Y$ and $Z$ in the 2HDM [19]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In a MHDM with $N$ doublets ( $N \\geq 3$ ), the couplings $X$ ， $Y$ and $Z$ are arbitrary complex numbers which originate from the mixing matrix for the charged scalar sector [20]. In a model with $N$ doublets there are $( N - 1 )$ $H ^ { + }$ 's, each with fermionic couplings $X _ { i }$ ， $Y _ { i }$ and $Z _ { i }$ ( $i = 1 , 2 , \\cdots , N - 1 )$ . These couplings obey various sum rules due to the unitarity of the matrix which diagonalizes the charged scalar mass matrix [21]. We shall only be concerned with the lightest $H ^ { \\pm }$ , and thus drop the subscript $i$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The phenomenology of charged Higgs bosons differs from model to model. Of particular importance is the $H ^ { \\pm }$ contribution to the decay $b \\to s \\gamma$ [22,23]. To leading order, its decay rate is known to be ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma ( b  s \\gamma ) = \\frac { \\alpha _ { e m } G _ { F } ^ { 2 } m _ { b } ^ { 5 } } { 3 2 \\pi ^ { 4 } } | V _ { t s } ^ { * } V _ { t b } | ^ { 2 } | \\bar { D } ( m _ { b } ) | ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where the $D$ is the effective Wilson coefficient. The $H ^ { \\pm }$ contributions modify the $D$ into ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { D } ( M _ { W } ) = \\bar { D } _ { S M } \\left( \\frac { m _ { t } ^ { 2 } } { M _ { W } ^ { 2 } } \\right) + | Y | ^ { 2 } \\bar { D } _ { Y Y } \\left( \\frac { m _ { t } ^ { 2 } } { M _ { H ^ { \\pm } } ^ { 2 } } \\right) + ( X Y ^ { \\ast } ) \\bar { D } _ { X Y } \\left( \\frac { m _ { t } ^ { 2 } } { M _ { H ^ { \\pm } } ^ { 2 } } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The analytic form of the functions $D _ { S M }$ ， $D _ { Y Y }$ ，and $D _ { X Y }$ at next to leading order in QCD can be found in Ref. [22]. In type II and II $\\begin{array} { l } { ^ { \\prime } \\prime } \\\\ { . } \\end{array}$ 2HDM's, the value of $X Y ^ { * }$ is fixed to be one, which imposes a lower limit of $M _ { H ^ { \\pm } } \\geq 1 6 0 \\mathrm { G e V }$ ，with the bound becoming stronger with increasing $| Y |$ [22]. In type Iand $\\mathrm { I ^ { \\prime } }$ 2HDM's and a MHDM, the absence of such a constraint permits a $H ^ { \\pm }$ to be light enough to explain the L3 data. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Assuming $M _ { H ^ { \\pm } } = 6 8$ GeV,we now check whether any of these models can accommodate the branching ratios of the $H ^ { \\pm }$ as observed by L3. We define the following ratio: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { R } \\equiv \\frac { \\Gamma ( H ^ { \\pm } \\to c s ) } { \\Gamma ( H ^ { \\pm } \\to \\tau \\nu _ { \\tau } ) } \\approx \\frac { 3 | V _ { c s } | ^ { 2 } ( m _ { c } ^ { 2 } | Y | ^ { 2 } + m _ { s } ^ { 2 } | X | ^ { 2 } ) } { m _ { \\tau } ^ { 2 } | Z | ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "which is constrained by the L3 data to be $\\mathcal { R } \\approx 9$ . In the type I and $\\mathrm { I ^ { \\prime } }$ 2HDM's where $X = Y = \\cot \\beta$ ， the term proportional to $m _ { s } ^ { 2 }$ may be neglected. In type I 2HDM, $\\mathcal { R } \\approx 9$ （204号 cannot be attained since the cot $\\beta$ -dependence cancels out in $\\mathcal { R }$ , leaving $\\mathcal { R } \\approx 0 . 5$ . In Model $\\mathrm { I ^ { \\prime } }$ one has $\\mathcal { R } \\leq 0 . 5$ for $\\tan \\beta \\geq 1$ . Although lower values of $\\tan \\beta$ would increase $\\mathcal { R }$ ( $\\mathcal { R } \\approx 9$ （204号 is possible for $\\tan \\beta = 0 . 4 5$ )，such low values of $\\tan \\beta$ together with $M _ { H } = 6 8$ GeV enhances too much the $H ^ { \\pm }$ contributions to the $b \\to s \\gamma$ decay (see Eq.(9) and Table II) [22]. Thus we conclude that neither type I nor $\\mathrm { I ^ { \\prime } }$ 2HDM can achieve $\\mathcal { R } \\approx 9$ as required by the L3 data. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Higgs Triplet Models (HTM) are another source of $H ^ { \\pm }$ [24,25], and have the added bonus of providing a mass for neutrinos [26]. A $H ^ { \\pm }$ composed dominantly of scalar triplet felds only couples very weakly to quarks, rendering its contribution to $b \\to s \\gamma$ negligible,and thus may be light. However, such models usually predict enhanced BRs to leptons through new Yukawa couplings [24], or exotic decays $H ^ { \\pm }  W ^ { * } Z ^ { * }  f f f$ [25].Hence $R \\approx 9$ seems unlikely in a HTM. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A MHDM can easily obtain $\\mathcal { R } \\approx 9$ ， provided $| Y | \\approx 5 | Z |$ . Since $| Y |$ and $| Z |$ are essentially free parameters, one may choose $| Y |$ and $| Z |$ appropriately, while simultaneously satisfying the constraints from $b \\to s \\gamma$ and $Z \\to b b$ .If $| X |$ is much larger than $| Y |$ and $| Z |$ then $H ^ { \\pm } $ （204号 $c b$ becomes the dominant channel since the CKM suppression of $V _ { c b }$ is well compensated by the large ratio of $m _ { b } / m _ { s }$ [21,27]. We point out here that DELPHI searches for events consistent with $H ^ { \\pm } \\to c s$ by imposing an anti- $b$ quark tag. Note the possibility that a $H ^ { \\pm }$ （204号 with a large BR( $H ^ { \\pm } \\to c b$ ） might escape the DELPHI search strategy. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "IV.STAULSPINTERPRETATIONOFL3EXCESS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this section we show that the L3 excess can be naturally explained by a LSP $\\tilde { \\tau } _ { 1 }$ Attributing the L3 excess to stau pair-production is attractive in the sense that it would be a SUSY explanation of the data, and a signal of a model which generates a mass for neutrinos (i.e.，a $R$ -parity violating model). Unlike the Higgs case, the $R$ -parity violating Yukawa couplings are not proportional to the fermion mass, and thus the decay channels to light quarks (e.g., $\\tilde { \\tau } ^ { - } \\to \\bar { u } d$ ） can be sizable. Note that the L3 conclusion of 90% BR( $H ^ { \\pm } \\to c s$ is based on the assumption of charged Higgs bosons. In fact, the search is sensitive to any light quark, e.g., u $d$ . The relatively large ratio of the hadronic to leptonic BRs may be partially explained by the availability of several unsuppressed hadronic decay channels. As mentioned in Sec. II, a LSP $\\tilde { \\tau } _ { 1 }$ in a purely bilinear $R$ -parity violating model would also give $H ^ { \\pm }$ like signals since it would decay via its $H ^ { \\pm }$ component.However, whether or not the observed BRs could be obtained lies outside the present study, and would require a careful analysis of the correlation between the $\\tilde { \\tau } - H ^ { \\pm }$ mixing and the bilinear $R$ -parity violating parameters, the latter being strongly constrained from the observation of neutrino oscillations. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The stau interpretation of the L3 excess requires three conditions. Firstly, the stau should be the LSP, which is cosmologically permitted in $R$ -parity violating supersymmetric models. In the R parity conserving MSSM the lightest neutralino $( \\tilde { \\chi } _ { 1 } ^ { 0 } )$ is the LSP and the stau would dominantly decay into $\\tau \\tilde { \\chi } _ { 1 } ^ { 0 }$ . This gives rise to a signature incompatible with the L3 data and the lower limit $M _ { \\tilde { \\tau } } \\gtrsim 8 0$ GeV has been obtained [28]. If the sneutrino is the LSP, the strong mass constraint ( $m _ { \\tilde { \\nu } } \\gtrsim 1$ TeV） from the direct relic searches in underground low-background experiments [29], rules out the presence of such a light stau. Secondly, in order to explain the observed decays into $q q ^ { \\prime }$ ， $\\tilde { \\tau } _ { 1 }$ must contain some $\\tilde { \\tau } _ { L }$ ，since $\\tilde { \\tau } _ { R }$ only decay to leptons (see Eq. (2)). We will see below that $\\tilde { \\tau } _ { 1 }$ should be dominantly composed of $\\tilde { \\tau } _ { L }$ in order to comply with the observed cross-section. Thirdly, both $\\lambda$ and $\\lambda ^ { \\prime }$ Yukawa couplings should be non-zero in order to allow both hadronic and leptonic decay modes. This is different from the widely applied assumption that one $R$ -parity violating operator is dominant at a time. Present searches at LEP for $R$ -parity violating decays of scalar fermions are also based on this one-at-a-time assumption. The current search for a LSP stau only considers direct decays to $q q ^ { \\prime }$ via a $\\lambda ^ { \\prime }$ coupling, or direct decays to $l \\nu _ { i }$ via the $\\lambda$ coupling [7]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Now let us check whether $\\sigma ( e ^ { + } e ^ { - } \\to \\tilde { \\tau } _ { 1 } ^ { + } \\tilde { \\tau } _ { 1 } ^ { - } ,$ ） can be compatible with that of $\\sigma ( e ^ { + } e ^ { - } $ $H ^ { + } H ^ { - }$ ). For simplicity， we assume that the $\\lambda _ { i 3 3 }$ coupling is dominant over other $\\lambda$ couplings. Otherwise there would be extra $t$ -channel contributions. Therefore the dominant contributions are from $\\gamma$ and $Z$ gauge bosons in the $s$ channel, which is the same as in the $R$ -parity conserving MSSM. In the absence of left-right mixing in the stau mass matrix, and assuming that $\\tilde { \\tau } _ { 1 } = \\tilde { \\tau } _ { L }$ ， the couplings $Z \\tilde { \\tau } _ { 1 } ^ { + } \\tilde { \\tau } _ { 1 } ^ { - }$ and $\\gamma \\tilde { \\tau } _ { 1 } ^ { + } \\tilde { \\tau } _ { 1 } ^ { - }$ are equal to the analogous couplings for $H ^ { \\pm }$ . Therefore the cross-sections are the same if $\\tilde { \\tau } _ { 1 }$ and $H ^ { \\pm }$ have the same mass. If $\\tilde { \\tau } _ { 1 }$ has a component of $\\tilde { \\tau } _ { R }$ then $\\sigma ( e ^ { + } e ^ { - } \\to \\tilde { \\tau } _ { 1 } ^ { + } \\tilde { \\tau } _ { 1 } ^ { - } )$ ） is reduced compared to that for （204号 $\\sigma ( e ^ { + } e ^ { - }  H ^ { + } H ^ { - } )$ since the $\\tilde { \\tau } _ { 1 } ^ { * } \\tilde { \\tau } _ { 1 } Z$ coupling is proportional to $\\left( \\cos ^ { 2 } \\theta _ { \\tilde { \\tau } } - 2 \\sin ^ { 2 } \\theta _ { W } \\right)$ )，with $\\theta _ { \\tilde { \\tau } }$ being the left-right stau mixing angle. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To obtain $M _ { \\tilde { \\tau } _ { 1 } } = 6 8$ GeV one merely requires the various SUSY parameters to be chosen appropriately. In the case of no mixing ( $\\theta _ { \\tilde { \\tau } } = 0$ )， requiring $M _ { \\tilde { \\tau } _ { 1 } } = 6 8$ GeV limits $m _ { \\tilde { \\tau } _ { L } } \\approx 5 3$ ， 49,and 48 GeV for $\\tan \\beta  = \\ 3$ ， 10, and 50 respectively. Including stau left-right mixing increases the allowed region for $m _ { \\tilde { \\tau } _ { L } } ^ { 2 }$ . Since the stau production cross-section should not be decreased too much by the mixing, we constrain the ratio of $\\sigma ( e ^ { + } e ^ { - } \\to \\tilde { \\tau } _ { 1 } ^ { + } \\tilde { \\tau } _ { 1 } ^ { - } ) / \\sigma ( e ^ { + } e ^ { - } \\to $ （204号 $H ^ { + } H ^ { - }$ ） to be larger than 0.9. With $A _ { \\tau } = 1 0 0 \\mathrm { G e V }$ and $\\mu = 1 0 0$ (200) GeV, Fig.1 (2) exhibits the allowed region in the $( m _ { \\tilde { \\tau } _ { R } } , m _ { \\tilde { \\tau } _ { L } } )$ plane after requiring $M _ { \\tilde { \\tau } _ { 1 } } = 6 8 \\pm 2 ( \\$ GeV. It can be easily seen that larger stau mixing, which occurs for large $\\tan \\beta$ and large $| \\mu |$ , increases the allowed m,· ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Finally we show that the LSP stau interpretation can naturally explain the branching ratios of the charged scalar as observed by the L3. For the leptonic decay, the stau can decay into $\\tau \\nu _ { e }$ and $\\tau \\nu _ { \\mu }$ with non-zero $\\lambda _ { i 3 3 } ( i \\ne 3 )$ .Since $\\lambda _ { 1 3 3 } ( < ~ 0 . 0 0 4 )$ is rather strictly constrained from the bound on the mass of $\\nu _ { e }$ [28,30],we assume that the main leptonic stau decay mode is into $\\tau \\nu _ { \\mu }$ . For the hadronic stau decays, we assume that all $\\lambda _ { 3 i j } ^ { \\prime }$ are the same order of magnitude. Then various decay channels are open; $\\tilde { \\tau } _ { 1 }  u d , u s , u b , c d , c s , c b$ The ratio $\\mathcal { R }$ defined in Eq.（10） becomes ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { R } \\simeq \\frac { \\sum _ { i = 1 } ^ { 2 } \\sum _ { j = 1 } ^ { 3 } | \\lambda _ { 3 i j } ^ { \\prime } | ^ { 2 } } { | \\lambda _ { 2 3 3 } | ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The bounds on the $\\lambda _ { i j k }$ and $\\lambda _ { i j k } ^ { \\prime }$ have been obtained from various physical processes: $\\lambda _ { 2 3 3 } <$ 0.06 is obtained from $\\Gamma ( \\tau \\to e \\nu \\bar { \\nu } ) / \\Gamma ( \\tau \\to \\mu \\nu \\bar { \\nu } )$ [28,31]; $\\lambda _ { 3 1 1 } ^ { \\prime } < 0 . 1 6$ from BR( $\\tau \\to \\pi \\nu _ { \\tau }$ ）[32]; ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（204号 $\\lambda _ { 3 2 2 } ^ { \\prime } < 0 . 2 0$ from $D ^ { 0 } - D ^ { 0 }$ mixing [33,34]. Thus $\\mathcal { R } \\approx 9$ can be naturally accommodated in the scenario of a LSP $\\tilde { \\tau } _ { 1 }$ ： ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "V.DISTINGUISHING BETWEEN $H ^ { \\pm }$ AND LSP $\\tilde { \\tau } _ { 1 }$ AT FUTURE COLLIDERS ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this section we will discuss how $H ^ { \\pm }$ of the MSSM and a LSP $\\tilde { \\tau } _ { 1 }$ may be distinguished at future colliders. Note that $H ^ { \\pm }$ of the $R$ -parity violating model under consideration is expected to possess a phenomenology very similar to that of the MSSM $H ^ { \\pm }$ ，and so our comments will be valid for both cases. As discussed previously， a LSP $\\tilde { \\tau } _ { 1 }$ has more possibilities for $f f ^ { \\prime }$ decays，which are proportional to arbitrary couplings $\\lambda$ and $\\lambda ^ { \\prime }$ In general there would be no tendency to decay into the heaviest allowed fermion,unlike the case for $H ^ { \\pm }$ . For a given $M _ { H ^ { \\pm } }$ the BRs of $H ^ { \\pm }$ are calculable functions of $\\tan \\beta$ and hence are much more predictable, with $H ^ { \\pm }  t b$ dominating for $M _ { H ^ { \\pm } } \\geq m _ { t } + m _ { b }$ and ${ \\cal H } ^ { \\pm } \\to \\tau \\nu _ { \\tau }$ （204号 dominating for $M _ { H ^ { \\pm } } \\leq m _ { t } + m _ { b }$ . The $H ^ { \\pm } \\to c s$ decays can compete with ${ \\cal H } ^ { \\pm } \\to \\tau \\nu _ { \\tau }$ only for very low $\\tan \\beta$ ，which is already disfavored experimentally. Therefore sizeable BRs for （204号 $\\tilde { \\tau } _ { 1 }  e \\nu _ { i } , \\mu \\nu _ { i }$ would be clear signals for $\\tilde { \\tau } _ { 1 }$ , as would enhanced BRs to light quarks $\\tilde { \\tau } _ { 1 } \\to u d$ ,cs etc. Note that these latter decays may also dominate for the region $m _ { \\tilde { \\tau } _ { 1 } } \\textrm { \\geq } m _ { t }$ ，while for （204号 $m _ { H ^ { \\pm } }$ the dominate decay would be $H ^ { \\pm } \\  \\ t b$ ， which gives a very different signature. A high-energy $e ^ { + } e ^ { - }$ collider would be an ideal place to distinguish the flavor of the jets from （204号 $\\tilde { \\tau } _ { 1 }  f f ^ { \\prime }$ decays. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "As pointed out in the previous section, if $\\tilde { \\tau } _ { 1 }$ is mainly $\\tilde { \\tau } _ { R }$ then its production cross-section （204号 $\\sigma ( e ^ { + } e ^ { - }  \\tilde { \\tau } _ { R } ^ { + } \\tilde { \\tau } _ { R } ^ { - } )$ would be suppressed compared to that for $\\sigma ( e ^ { + } e ^ { - }  H ^ { + } H ^ { - } )$ . In general, one would expect $\\tilde { \\tau } _ { 1 }$ to be a mixture of $\\tilde { \\tau } _ { R }$ and $\\tilde { \\tau } _ { L }$ ，and so there would always be some suppression compared to the $H ^ { + } H ^ { - }$ production. Given the expected high luminosity of proposed linear colliders, even relatively small diferences in the rates might be observable. However， one-loop corrections to $\\sigma ( e ^ { + } e ^ { - }  H ^ { + } H ^ { - } )$ should not be ignored since these can be up to 30% [35], thus rendering difficult this method of distinguishing $\\tilde { \\tau } _ { 1 }$ and $H ^ { \\pm }$ ： ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "At hadron colliders, such as the Tevatron and LHC,a sufficiently light $H ^ { \\pm }$ may be produced by the decay $t  H ^ { \\pm } b$ . At the Tevatron Run I discovery in this channel is possible for small or large $\\tan \\beta$ [36]，with improved coverage at the LHC. Therefore a $H ^ { \\pm }$ signal would provide information on $\\tan \\beta$ . However, in the LSP $\\tilde { \\tau } _ { 1 }$ scenario, the decay $t \\to \\tilde { \\tau } _ { 1 } b$ may be open with a rate depending on the arbitrary coupling $\\lambda _ { 3 3 3 } ^ { \\prime }$ [34,37]. Hence $H ^ { \\pm }$ （20 like signals and corresponding measurements of $\\tan \\beta$ in this channel should be interpreted with care. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "At the LHC the discovery of $H ^ { \\pm }$ for $M _ { H ^ { \\pm } } \\geq m _ { t }$ is considered challenging [38]. Currently the most effective method is to use the production mechanism $g g ( q \\overline { { { q } } } ) \\longrightarrow H ^ { \\pm } t b$ followed by （204号 ${ \\cal H } ^ { \\pm }  \\tau \\nu _ { \\tau }$ decay [39]. This method offers reasonable detection prospects for $\\tan \\beta \\geq 1 5$ ， where BR $( H ^ { \\pm } \\ \\to \\ \\tau \\nu ) \\ \\approx \\ 1 0 \\%$ for this region. Using the above production mechanism followed by the decay $H ^ { \\pm } \\  \\ t b$ requires highly efficient $b$ tagging [6] due to the huge hadronic backgrounds. For $\\tilde { \\tau } _ { 1 }$ , the analogous mechanism $g g ( q \\overline { { { q } } } ) \\longrightarrow \\tilde { \\tau } _ { 1 } t b$ can be used [6], and offers sizeable cross-sections for $\\lambda _ { 3 3 3 } ^ { \\prime } ~ \\ge ~ 0 . 0 1$ . Detection of a LSP $\\tilde { \\tau } _ { 1 }$ in its light hadronic decay modes would be unlikely due to the large QCD background but $\\tilde { \\tau } _ { 1 }$ decay to $l \\nu _ { i }$ should provide a very promising signature. For $\\boldsymbol { l } = \\boldsymbol { e } , \\mu$ the signature would be distinct from that of （204号 $H ^ { \\pm }$ .For $l = \\tau$ there is the possibility of a much larger BR $( \\tilde { \\tau } _ { 1 }  \\tau \\nu _ { i }$ )，which would enhance the signal size compared to that for $H ^ { \\pm }$ . Note also that $\\tilde { \\tau } _ { 1 }$ may be produced as a $s$ -channel resonance at hadron colliders [40], while the corresponding rates for $H ^ { \\pm }$ would be very small due to the suppressed Yukawa couplings to the light quarks. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Finally we mention the possibility of very different lifetimes for $H ^ { \\pm }$ and $\\tilde { \\tau } _ { 1 }$ . In general （204号 $H ^ { \\pm }$ is expected to decay promptly, especially if $H ^ { \\pm }  t b$ decays are open. Since the $\\tilde { \\tau } _ { 1 }$ decay rates are proportional to the arbitrary $\\lambda$ and $\\lambda ^ { \\prime }$ couplings, the various partial widths may be very suppressed. The LEP searches, assuming one coupling is dominant, are sensitive to $\\lambda , \\lambda ^ { \\prime } \\gtrsim 1 0 ^ { - 5 }$ [7].If $\\tilde { \\tau } _ { 1 }$ possessed very similar BRs to $H ^ { \\pm }$ ，(e.g， $\\tilde { \\tau } _ { 1 }  t b$ dominating for $M _ { \\tilde { \\tau } _ { 1 } } \\ \\geq \\ m _ { t }$ )，the lifetimes would be very different if $\\lambda _ { 3 3 3 } ^ { \\prime }$ were considerably less than the corresponding $H ^ { \\pm } t b$ Yukawa coupling. This might leave an observable decay length in the detector,which could not be attributed to a $H ^ { \\pm }$ .If $\\lambda , \\lambda ^ { \\prime } \\lesssim 1 0 ^ { - 5 }$ then $\\tilde { \\tau } _ { 1 }$ would decay outside the detector, but could be detected as a long lived charged particle [41] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "VI. CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In the context of a $R$ -parity violating model we have studied the phenomenological im plications of the assumption that the lightest supersymmetric particle (LSP) is the lightest stau $\\left( \\tilde { \\tau } _ { 1 } \\right)$ . In such a model the LSP is unstable and is not in conflict with the usual cosmological requirement that any LSP should be charge- and color-neutral, conditions which apply only to stable particles. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The stau LSP assumption has important implications for both $H ^ { \\pm }$ and stau searches. A left-handed stau possesses many phenomenological similarities with $H ^ { \\pm }$ . Two major differences between $\\tilde { \\tau } _ { 1 }$ and $H ^ { \\pm }$ are the mass spectrum and the decay modes. Whereas the presence of a light charged Higgs boson ( $M _ { H ^ { \\pm } } < M _ { W . }$ ） in many popular extensions of the SM is severely constrained by the supersymmetric structure of the theory and/or other phenomenological constraints such as the decay $b \\to s \\gamma$ , a light stau is naturally accommodated within a reasonable SUSY parameter space. In models with anomaly-mediated breaking of supersymmetry the stau would be a natural candidate for the LSP, provided that $R$ -parity is also violated. It is feasible that a LSP stau is lighter than the charged Higgs boson, and thus may be observed first at future colliders. The distinction of $\\tilde { \\tau } _ { 1 }$ signals from $H ^ { \\pm }$ （204 signals is, in principle, possible by examining the decay modes. For a given $H ^ { \\pm }$ mass,its decays are essentially determined by the decaying fermion mass and the parameter $\\tan \\beta$ ： In contrast, $\\tilde { \\tau } _ { 1 }$ decays possess many more possibilities due to the arbitrariness of $R$ -parity violating couplings $\\lambda$ and $\\lambda ^ { \\prime }$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "One of the most remarkable implications in our scenario is the possibility that a LSP stau may imitate $H ^ { \\pm }$ .In particular，when both $R$ -parity violating couplings, $\\lambda$ and $\\lambda ^ { \\prime }$ ， are non-zero,a light LSP stau may possess $H ^ { \\pm }$ like hadronic and leptonic BRs and thus may be misconceived as the charged Higgs boson. This misidentification possibility has received little attention due to the usual simplifying assumption that one $R$ -parity violating operator is dominant at a time. One possible example of $H ^ { \\pm }$ misidentification is the recently reported L3 excess of $4 . 4 \\sigma$ in the search for pair-produced charged Higgs bosons. Attributing the signal to $H ^ { \\pm }$ production has severe problems in many popular models such as the MSSM, NMSSM, and 2HDM. We have shown that the LSP stau interpretation offers a more attractive explanation of the data and simply requires that the LSP $\\tilde { \\tau } _ { 1 }$ is mainly left $; -$ handed with simultaneous non-zero values for the couplings $\\lambda$ and $\\lambda ^ { \\prime }$ . The L3 data can be summarized by the following three characteristics: pair-produced singly charged particles with mass around 68 GeV; a production cross-section comparable to that for $H ^ { \\pm }$ ; decay BRs of 90% into light quarks and $1 0 \\%$ into a tau lepton with a neutrino. All three features can be explained in the LSP $\\tilde { \\tau } _ { 1 }$ scenario without any fine-tuning, and within the experimental bounds on $R$ -parity violating couplings and SUSY breaking scalar masses. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Finally, we have discussed how to distinguish a stau LSP from a $H ^ { \\pm }$ signal at future colliders. Firstly, anomalous decay modes into light fermions (e.g.，ud,ev，or $\\mu \\nu$ ）would be a robust signal of the LSP stau. Such decays are permitted since the $R$ -parity violating couplings are in principle independent of the fermion mass, in contrast to the case of $H ^ { \\pm }$ （204号 which has a tendency to decay into the heaviest available fermions. Secondly, the tree-level pair-production cross-sections for the LSP stau and $H ^ { \\pm }$ at future $e ^ { + } e ^ { - }$ collider may differ since the mixing between the left- and right-handed stau's decreases the $\\tilde { \\tau } _ { 1 }$ cross-section compared to that for $H ^ { \\pm }$ . However, the one-loop corrections to these rates can be sizeable and complicate this method of distinguishing $\\tilde { \\tau } _ { 1 }$ from $H ^ { \\pm }$ . Note also that $\\tilde { \\tau } _ { 1 }$ may be produced as a $s$ -channel resonance at hadron colliders [40], while the corresponding rates for $H ^ { \\pm }$ would be very small due to the suppressed Yukawa couplings to the light quarks. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Thirdly, the lifetime of $\\tilde { \\tau } _ { 1 }$ may be much longer than that for $H ^ { \\pm }$ . This could leave an observable decay length in the detector which could not be attributed to $H ^ { \\pm }$ .We stress the fact that a LSP $\\tilde { \\tau } _ { 1 }$ may mimic the phenomenology of $H ^ { \\pm }$ and thus signals for $H ^ { \\pm }$ （204 and corresponding measurements of the Higgs sector parameters (e.g., $\\tan \\beta$ ）should be interpreted with care. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We thank T. Han, M.A. Diaz and F.M. Borzumati for useful comments. C.L. is supported in part by the National Natural Science Foundation of China with grant no. 10047005. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[1] Y. Fukuda et al. [Super-Kamiokande Collaboration], Phys. Rev. Lett. 81,1562 (1998). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[2] A. Santamaria and J. W. Vale, Phys. Lett. B 195, 423 (1987); R. Hempfling, Nucl. Phys. B 478,3 (1996); F. M. Borzumati, Y. Grossman, E. Nardi and Y. Nir, Phys. Lett. B 384, 123 (1996)； H. Nilles and N. Polonsky, Nucl. Phys. B 484,33 (1997); C. Liu, Mod. Phys. Lett.A 12 329 (1997); E. Nardi, Phys. Rev. D 55, 5772 (1997); O. C. Kong, Mod. Phys. Lett. A 14, 903 (1999); E. J. Chun, S. K. Kang, C. W. Kim and U. W. Lee, Nucl. Phys. B 544, 89 (1999). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[3] M. Hirsch, M. A. Diaz, W. Porod, J. C. Romao and J. W. Valle, Phys. Rev. D 62, 113008 (2000); J. Ferrandis, Phys. Rev. D 60, 095012 (1999).   \n[4] J. Rich, D. Lloyd Owen and M. Spiro, Phys. Rept.151 (1987) 239; T. K. Hemmick et al., Phys. Rev. D 41, 2074 (1990).   \n[5] H. Dreiner and G. G. Ross, Nucl. Phys. B 365, 597 (1991).   \n[6] F. Borzumati, J. Kneur and N. Polonsky, Phys. Rev. D 60, 11501l (1999).   \n[7]G.Abbiendi et al. [OPAL Collaboration],Eur. Phys. J. C 12，1 (2000)；P. Abreu et al. [DELPHI Collaboration], Eur. Phys. J. C 13, 591 (2000)； M. Acciarri et al. [L3 Collaboration], Eur.Phys. J. C 19,397 (2001); R. Barate et al. [ALEPH Collaboration], Eur. Phys. J. C 19, 415 (2001).   \n[8] P. Garcia-Abia, “Search for charged Higgs bosons in L3,” hep-ex/O105057.   \n[9] H. Dreiner， In \\*Kane, G.L. (ed.): Perspectives on supersymmetry $^ *$ 462-479.hepph/9707435.   \n[10] A.G. Akeroyd, M.A. Diaz, J. Ferrandis, M. Garcia-Jareno and J.W.F. Valle, Nucl. Phys. B 529,3 (1998).   \n[11] L. Randall and R. Sundrum, Nucl. Phys. B 557, 79 (1999); J. L. Feng and T. Moroi, ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Phys. Rev. D 61, 095004 (2000).   \n[12] B. de Carlos and P. L. White, Phys. Rev. D 55, 4222 (1997); M. A. Diaz, E. TorrenteLujan and J. W. Valle, Nucl. Phys. B 551, 78 (1999); T. Besmer and A. Steffen, Phys. Rev. D 63, 055007 (2001).   \n[13] LEP Higgs Working Group, hep-ex/0107031.   \n[14] H. P. Nilles, Phys. Rept.110 (1984) 1; H. E. Haber and G. L. Kane, Phys. Rept. 117 (1985) 75.   \n[15] J.F.Gunion, H.E. Haber, G.L. Kane and S. Dawson, The Higgs Hunters Guide; J. F. Gunion and H.E. Haber, Nucl. Phys. B272 (1986) 1; [Erratum-ibid. B 402, 567 (1986)].   \n[16] M. A. Diaz and H. E. Haber, Phys. Rev. D 45, 4246 (1992).   \n[17] M. Drees, E. Ma, P. N. Pandita, D. P. Roy and S. K. Vempati, Phys. Lett. B 433, 346 (1998)   \n[18] S. L. Glashow and S. Weinberg, Phys. Rev. D 15,1958 (1977).   \n[19] V. Barger, J. L. Hewett and R. J. Phillps, Phys. Rev. D 41,3421 (1990).   \n[20] C.H. Albright, J. Smith and S. H. Tye, Phys. Rev. D 21,711 (1980)； S. Weinberg, Phys. Rev. Lett. 37, 657 (1976).   \n[21] Y. Grossman, Nucl. Phys. B 426, 355 (1994).   \n[22] F. M. Borzumati and C. Greub, Phys. Rev. D 58, 074004 (1998); F. M. Borzumati and C. Greub, Phys. Rev. D 59, 057501 (1999).   \n[23] J. L. Hewett, Presented at SLAC Summer Inst. on Particle Physics, SLAC, Jul 6 - Aug 6,1993.hep-ph/9406302.   \n[24] K. Huitu, J. Laitinen, J. Maalampi and N. Romanenko, Nucl. Phys. B 598,13 (2001).   \n[25] R. Godbole, B. Mukhopadhyaya and M. Nowakowski, Phys. Lett. B 352, 388 (1995); D. K. Ghosh, R. M. Godbole and B. Mukhopadhyaya, Phys. Rev. D 55, 3150 (1997).   \n[26] R. N. Mohapatra and G. Senjanovic, Phys. Rev. Lett. 44, 912 (1980); J. F. Gunion, J. Grifols, A. Mendez, B. Kayser and F. Olness, Phys. Rev. D 40, 1546 (1989); E. Ma, M. Raidal and U. Sarkar, hep-ph/O012101; W. Grimus, R. Pfeifer and T. Schwetz, Eur. Phys. J. C 13,125 (2000)； T. Hambye,E. Ma and U. Sarkar, Nucl. Phys. B 602, 23 (2001).   \n[27] A. G. Akeroyd and W. J. Stirling, Nucl. Phys. B 447,3 (1995). A. G. Akeroyd, Nucl. Phys. B 544, 557 (1999)   \n[28] D.E. Groom et al. [Particle Data Group Collaboration], Eur. Phys. J. C 15 (2000) 1.   \n[29] H. V. Klapdor-Kleingrothaus and Y. Ramachers, Eur. Phys. J. A 3 (1998) 85.   \n[30] L. J. Hall and M. Suzuki, Nucl. Phys. B 231, 419 (1984); R. M. Godbole, P. Roy and X. Tata, Nucl. Phys. B 401, 67 (1993).   \n[31] V. Barger,G. F. Giudice and T. Han, Phys. Rev. D 40, 2987 (1989).   \n[32] G. Bhattacharyya, Nucl. Phys. Proc. Suppl. 52A, 83 (1997).   \n[33] R. Gupta, T. Bhattacharya and S. Sharpe, Phys. Rev. D 55, 4036 (1997).   \n[34] K. Agashe and M. Graesser, Phys. Rev. D 54, 4445 (1996).   \n[35] A. Arhrib and G. Moultaka, Nucl. Phys. B 558,3 (1999); J. Guasch,W. Hollik and A.Kraft，Nucl. Phys.B 596,66 (2001)；M. A. Diaz and T.A. ter Veldhuis, hepph/9501315.   \n[36] M. Carena et al., Report of the Tevatron Higgs working group, hep-ph/0010338.   \n[37] J.Erler,J.L. Feng and N.Polonsky，Phys. Rev. Lett. 78,3063 (1997)；L. Navarro, W. Porod and J. W. Valle, Phys. Lett. B 459, 615 (1999); K. J. Abraham, K. Whisnant, J. M. Yang and B. Young, Phys. Rev. D 63, 034011 (2001).   \n[38] D. P. Roy, hep-ph/0102091.   \n[39] D.P. Roy, Phys. Lett. B 459, 607 (1999); K.A. Assamagan and Y. Coadou, ATLAS Internal Note: ATL-PHYS-1999-013.   \n[40] S. Dimopoulos, R. Esmailzadeh, L. J. Hall and G. D. Starkman, Phys. Rev. D 41, 2099 (1990); J. Kalinowski, R. Ruckl, H. Spiesberger and P. M. Zerwas, Phys. Lett. B 414, 297 (1997); H. Dreiner, P. Richardson and M. H. Seymour, hep-ph/9903419.   \n[41] K. Ackerstaff et al. [OPAL Collaboration], Phys. Lett. B 433,195 (1998). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/60e063bc007a5ebb4dcf4f2a5de1ac58cf8c0ef9f85942edd7799de2e0aa9d66.jpg",
+        "table_caption": [
+            "TABLE I. The four distinct structures of the 2HDM. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Model I</td><td>Model I'</td><td>Model II</td><td>Model II'</td></tr><tr><td>u (up-type quarks)</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>d (down-type quarks)</td><td>2</td><td>2</td><td>1</td><td>1</td></tr><tr><td>e (charged leptons)</td><td>2</td><td>1</td><td>1</td><td>2</td></tr></table></body></html>",
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5549f95ae2969e830a25d3083a342b5ae9b69171259560c820cd89f0e3f0d64.jpg",
+        "table_caption": [
+            "TABLES ",
+            "TABLEII.Thevaluesof $X$ ， $Y$ and $Z$ in the 2HDM. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Model I</td><td>Model I</td><td>Model II</td><td>Model II'</td></tr><tr><td></td><td>- cot β</td><td>-cot β</td><td>tan β</td><td>tan β</td></tr><tr><td>Y</td><td>cot β</td><td>cot β</td><td>cot β</td><td>cot β</td></tr><tr><td>Ｚ</td><td>- cot β</td><td>tan β</td><td>tan β</td><td>- cot β</td></tr></table></body></html>",
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf5972a5e45b6fafafe3b943be71c621976a6a2e9529e83d0a82eaf10ce98266.jpg",
+        "img_caption": [
+            "FIG.1.Allowed region in the $( m _ { \\tilde { \\tau } _ { L } } , m _ { \\tilde { \\tau } _ { R } } )$ plane by the mass constraint $M _ { \\tilde { \\tau } } = 6 8 \\pm 2$ GeV and $\\sigma ( e ^ { = } e ^ { - }  \\tilde { \\tau } ^ { + } \\tilde { \\tau } ^ { - } ) / \\sigma ( e ^ { = } e ^ { - }  H ^ { + } H ^ { - } ) > 0 . 9$ ： $A _ { \\tau } = \\mu = 1 0 0$ GeV. The solid-lined-band is for $\\tan \\beta = 3$ , the dashed-lined-band for $\\tan \\beta = 1 0$ ,and the dotted band for $\\tan \\beta = 3 0$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/79089e27cbf6604602767ab1e7db611169fa88f64bb9aa3513dd0ef3dbc30920.jpg",
+        "img_caption": [
+            "FIG.2. The same plot for $\\mu = 2 0 0$ GeV. The band with larger dots is for $\\tan \\beta = 1 0$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    }
+]

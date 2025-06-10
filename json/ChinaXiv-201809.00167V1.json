@@ -1,0 +1,540 @@
+[
+    {
+        "type": "text",
+        "text": "Homogeneity analysis of streamflow records in arid and semi-arid regions of northwestern Iran ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MajidKAZEMZADEH,ArashMALEKIAN\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Universityof Tehran,Karaj 31587-77871,Iran ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Homogeneity analysis of the streamflow time series is essential to hydrological modeling, water resources management and climate change studies. In this study,five absolute homogeneity tests and one clustering approach were used to determine the homogeneity status of the streamflow time series (over the period 1960-2010) in14 hydrometric stations of three important basins (i.e.,Aras River Basin, Urmia Lake Basin and Sefid-Roud Basin) in northwestern Iran.Results of the Buishand range test, von Neumann ratio test,cumulative deviation test,standard normal homogeneity test and Petitt test for monthly streamflow time series detected that about $4 2 . 2 6 \\%$ 5 $3 8 . 0 9 \\%$ ， $3 3 . 3 3 \\%$ 0 $3 9 . 2 8 \\%$ and $6 8 . 4 5 \\%$ of the streamflow time series were inhomogeneous at the O.O1 significance level,respectively. Streamflow time series of the stations located in the eastern parts of the study area or within the Urmia Lake Basin were mostly homogeneous. In contrast,streamflow time series in the stations of the Aras River Basin and Sefied-Roud Basin showed inhomogeneity at annual scales. Based on the overallclassification for the monthly and annual streamflow series, we determined that about $4 5 . 6 0 \\%$ ， $1 1 . 5 3 \\%$ and $4 2 . 8 5 \\%$ of the time series were categorized into the 'useful','doubtful' and'suspect' classes according to the five absolute homogeneity tests. We also found the homogeneity paterns of the streamflow time series by using the clustering approach. The results suggested the effectiveness of the clustering approach for homogeneity analysis of the streamflow time series in addition to the absolute homogeneity tests. Moreover, results of the absolute homogeneity tests and clustering approach indicated obvious decreasing change points of the streamflow time series in the 1990s over the three basins, which were mostly related to the hydrological droughts. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: streamflow time series; homogeneity test; clustering analysis; inhomogeneity; Urmia Lake; northwestern [ran ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The hydrological time series increasingly show non-stationarity behavior and their variables such as streamflow and precipitation series do not show a consistent mean or median for a long period of time mainly due to the natural and anthropogenic changes (Rougé et al., 2O13). Homogeneity analysis in the hydrological time series used for water resources management and project planning is important for detecting the accuracy and validity of data. Meanwhile, homogeneity analysis of the streamflow time series is essential to hydrological modeling and climate change studies. Hydrologic time series sequences are the results of particular natural conditions and might be shown irregular fluctuations when natural conditions of the river basin are relatively steady. However, the hydrologic time series sequences can exhibit evident trends or jumps, if natural conditions change noticeably (Wong et al.,2Oo6).In this regard,for detecting the same paterns of the time series, two important methods can be used to analyze the homogeneity of the streamflow time series,including statistical homogeneity test and clustering approach. Statistical homogeneity test has been used in hydrological analysis for the detection of non-homogeneity which suggested by Hirsch et al. (1982), Hirsch and Slack (1984),Hirsch (1988) and McCuen (2002). Generally,homogeneities of the streamflow time series can be determined by two different statistical approaches,including relative and absolute homogeneity tests (Peterson et al.,1998). Relative homogeneity tests are few to be recommended to use，considering the neighboring stations are hypothetically homogeneous. However, absolute homogeneity tests are recommended to use if the two time series of the neighboring stations are not adequately correlated (Wijngaard et al., 2003). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Several researches have applied the statistical homogeneity tests and clustering approach for the hydro-climatic time series (e.g., Conrad and Pollak,195O; Wijngaard et al., 2O03; Kahya et al., 2008; Sahin and Cigizoglu, 2010; Dikbas et al.,2O13; Hosseinzadeh Talaee et al.,2014; Seyam and Othman,2015; Omar et al.，2017).For examples,Wijngaard et al. (2003） used the statistical homogeneity tests to analyze the climatic variables in the European continent and reported that about $2 5 \\%$ of the precipitation series and $94 \\%$ of the temperature series were labelled 'suspect' or 'doubtful' over the period 1901-1999. Sahin and Cigizoglu (2010) applied four homogeneity tests (i.e., standard normal homogeneity test,Pettittest, Von Neumann ratio test and bivariate test) for the meteorological time series of Turkey,and revealed that the four homogeneity tests showed the same results of the time series in most of the cases.Dikbas et al. (2O13) utilized the K-means clustering method to classify the maximum annual flows and identify the hydrological homogenous groups in Turkey. They suggested that the homogenous regions defined by the K-means clustering method can be used for regional flood frequency analysis. Seyam and Othman (2O15) analyzed the long-term variation of annual streamflow regime in the Selangor River over a 5O-year period (from 1961 to 2O1O) by using normality and homogeneity tests (including Shapiro-Wilk test and Pettitt test),and they found that the maximum annual streamflow totally increased whereas the minimum annual streamflow significantly decreased with respect to time. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Understanding the characteristics and sensitivities of the alternative tests is very important to analyze the homogeneity of the streamflow time series, mainly due to the large array of available statistical homogeneity tests.Applying a statistical test which is insensitive to a specific type of homogeneity can result in a failure to determine the homogeneity (McCuen, 2OO2). In this study, we analyzed the homogeneity of the streamflow time series (over the period 1960-2010) in 14 hydrometric stations of three important basins in northwestern Iran using five absolute homogeneity tests which are mostly used in the hydro-climatic data and clustering analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Study area and data collection ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study area is located in northwestern Iran, which consists of three important basins, namely, Aras River Basin (ARB), Urmia Lake Basin (ULB)and Sefid-Roud Basin (SRB).The ARB covers an area of $4 1 . 0 { \\times } 1 0 ^ { 3 } \\mathrm { k m } ^ { 2 }$ .The second one,ULB,covers an area of $5 1 . 8 { \\times } 1 0 ^ { 3 } \\mathrm { k m } ^ { 2 }$ and includes three important rivers,i.e.,Aji Chai River, Zarrineh-Roud River and Simineh-Roud River. The SRB with an area of $6 0 . 5 { \\times } 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ is located between the Zagros Mountain Ranges and Alborz Mountain Ranges.The study area shows different soil and vegetation types. In this study，14 available hydrometric stations with valid and adequate data over 196O-2O1O were selected. Spatial distribution of these 14 stations is shown in Figure 1,and characteristics of the hydrometric stations are shown in Table 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 Cumulative deviations ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The adjusted partial sums or cumulative deviations $( S _ { k } ^ { ^ { * } } )$ from the mean can be used for testing the homogeneity of the data series (Eq. 1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/960d3077e47467e133eae115c1c4e3fc7ee26253c0bc662e473dd0d966489d6e.jpg",
+        "img_caption": [
+            "Fig.1Spatial distribution of the 14 hydrometric stations inthe study area.ARB,Aras River Basin; ULB,Urmia Lake Basin; SRB, Sefid-Roud Basin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b83aa51782827dd18442b8e2553f16cf0de4ae59c2cc5ae2f6aa3aa032e2a1c.jpg",
+        "table_caption": [
+            "Table 1 Details of the 14 selected hydrometric stations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>No.</td><td>Station</td><td>River</td><td>Latitude</td><td>Longitude</td><td>Elevation (m a.s.l.)</td></tr><tr><td>1</td><td>Babaroud</td><td>Barandooz Chai</td><td>37°24'00\"N</td><td>45°14'00\"E</td><td>1297</td></tr><tr><td>2</td><td>Dashband</td><td>Simineh Roud</td><td>36°39'00\"N</td><td>46°10'00\"E</td><td>1350</td></tr><tr><td>3</td><td>Estoor</td><td>Ghezel-Ozan</td><td>37°30'46\"N</td><td>47°58'19\"E</td><td>930</td></tr><tr><td>4</td><td>Ghermizi Gol</td><td>Gambar Chai</td><td>37°44'00\"N</td><td>46°06'00\"E</td><td>1800</td></tr><tr><td>5</td><td>Lighvan</td><td>Lighvan</td><td>37°50'11\"N</td><td>46°26'08\"E</td><td>2150</td></tr><tr><td>6</td><td>Mashiran</td><td>Darreh Roud</td><td>38°41'10\"N</td><td>47°32'01\"E</td><td>705</td></tr><tr><td>7</td><td>Meher Abad</td><td>Talvar</td><td>35°51'15\"N</td><td>47°53'50\"E</td><td>1650</td></tr><tr><td>8</td><td>Miandoab</td><td>Simineh Roud</td><td>36°57'00\"N</td><td>46°03'00\"E</td><td>1310</td></tr><tr><td>9</td><td>Motor Khaneh</td><td>Aydogmosh</td><td>37°22'57\"N</td><td>47°16'20\"E</td><td>1050</td></tr><tr><td>10</td><td>Oshnavieh</td><td>Gelaz Chai</td><td>37°02'00\"N</td><td>45°05'00\"E</td><td>1480</td></tr><tr><td>11</td><td>Pol Dokhtar</td><td>Ghezel-Ozan</td><td>37°21'30\"N</td><td>47°48'42\"E</td><td>1100</td></tr><tr><td>12</td><td>Sari Ghamish</td><td>Sari Ghamish</td><td>36°29'00\"N</td><td>46°29'00\"E</td><td>1380</td></tr><tr><td>13</td><td>Tapik</td><td>Nazlou Chai</td><td>37°40'00\"N</td><td>44°54'00\"E</td><td>1399</td></tr><tr><td>14</td><td>Venyar</td><td>Aji Chai</td><td>38°07'55\"N</td><td>46°24'22\"E</td><td>1450</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { k } ^ { * } = { \\sum } _ { i = 1 } ^ { k } { \\Big ( } Y _ { i } - { \\overline { { Y } } } { \\Big ) } \\ ( k = 1 , 2 , . . . , n ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { i }$ is the observed value of the climate parameter $\\mathbf { \\Phi } _ { i ; } ~ \\overline { { Y } }$ is the sample mean; and $n$ is the number of records in the data series.The rescaled adjusted partial sums $( S _ { k } ^ { * * } )$ can be obtained by using Equation 2: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ S _ { k } ^ { * * } = \\frac { S _ { k } ^ { * } } { D _ { x } } } ( k = 1 , 2 , . . . , n ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $D _ { x }$ is the sample standard deviation,which can be calculated as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { x } ^ { 2 } = { \\frac { 1 } { n } } { \\sum _ { i = 1 } ^ { n } ( x _ { i } - \\overline { { x } } ) ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study, we used $\\boldsymbol { Q }$ statistic to measure the sensitivity to departures from homogeneity: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = \\operatorname* { m a x } \\biggl | S _ { k } ^ { * * } \\biggr | ( 0 \\leq k \\leq n ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The higher values of $\\boldsymbol { Q }$ statistic indicate non-homogeneity in the time series.The critical values of $\\boldsymbol { Q }$ for some specified values of $n$ are given by Buishand(1982),which were based on the 19,999 synthetic sequences of Gaussian random numbers. The critical values of $\\boldsymbol { Q }$ statistic in the cumulative deviation test are shown in Table 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5106f80fcf9b07c79130ebda39e99129a5fa1d3d5c59af90f3afb0780c7d009b.jpg",
+        "table_caption": [
+            "Table2The $1 \\%$ and $5 \\%$ critical values of $\\boldsymbol { Q } / \\sqrt { n }$ statistic in the cumulative deviation test and $R / { \\sqrt { n } }$ statistic in the Buishand range test as function of $n$ (Buishand,1982) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">n</td><td colspan=\"2\">Critical value of Q/√n statistic</td><td colspan=\"2\">Critical value of R/√n statistic</td></tr><tr><td>95%</td><td>99%</td><td>95%</td><td>99%</td></tr><tr><td>10</td><td>1.14</td><td>1.29</td><td>1.28</td><td>1.38</td></tr><tr><td>20</td><td>1.22</td><td>1.42</td><td>1.43</td><td>1.60</td></tr><tr><td>30</td><td>1.24</td><td>1.46</td><td>1.50</td><td>1.70</td></tr><tr><td>40</td><td>1.26</td><td>1.50</td><td>1.53</td><td>1.74</td></tr><tr><td>50</td><td>1.27</td><td>1.52</td><td>1.55</td><td>1.78</td></tr><tr><td>100</td><td>1.29</td><td>1.55</td><td>1.62</td><td>1.86</td></tr><tr><td>8</td><td>1.36</td><td>1.63</td><td>1.76</td><td>2.00</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 Absolute homogeneity tests ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 Buishand range test ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$R$ is another statistic which can be used for homogeneity analysis (Eq. 5): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\mathrm { m a x } S _ { k } ^ { * * } - \\mathrm { m i n } S _ { k } ^ { * * } ( 0 \\leq k \\leq n ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The critical values of $R$ statistic in the Buishand range test are shown in Table 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 Von Neumann ratio test ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The ratio of the mean square successive difference to the variance is defined as the von Neumann ratio $( N )$ ,which is described by Buishand(1982) and can be calculated as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN = \\sum _ { i = 1 } ^ { n - 1 } \\frac { ( Y _ { i } - Y _ { i + 1 } ) ^ { 2 } } { \\displaystyle \\sum _ { i - 1 } ^ { n } ( Y _ { i } - \\overline { { Y } } ) ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The value of $N$ statistic tends to be lower than the expected value in cases that the sample contains a break,and the values of $N$ statistic are ${ \\geq } 2$ if the sample has rapid variations in the mean (Bingham and Nelson,1981).However, this test cannot identify the year of break.The critical values of $N$ statistic in the von Neumann ratio test are given in Table 3. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b63624c24439d6049b024655883f4071c3ff471d2438ddfd4c903463b07011de.jpg",
+        "table_caption": [
+            "Table3The $1 \\%$ and $5 \\%$ critical values of $N$ statistic in the von Neumann ratio test as function of $n$ (Buishand, 1982) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"6\">Critical value ofN statistic</td></tr><tr><td>n=20</td><td>n=30</td><td>n=40</td><td>n=50</td><td>n=70</td><td>n=100</td></tr><tr><td>99%</td><td>1.04</td><td>1.20</td><td>1.29</td><td>1.36</td><td>1.45</td><td>1.54</td></tr><tr><td>95%</td><td>1.30</td><td>1.42</td><td>1.49</td><td>1.54</td><td>1.61</td><td>1.67</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 Standard normal homogeneity test ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The standard normal homogeneity test usually shows higher sensitivity to breaks near the first and the end parts of the time series.Alexandersson (1986) has defined the $T ( k )$ statistic for the standard normal homogeneity test: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT ( k ) = k z _ { 1 } ^ { - 2 } + \\left( n - k \\right) z _ { 2 } ^ { - 2 } ( k = 1 , 2 , . . . , n ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { z _ { 1 } } } = \\frac { 1 } { k } \\sum _ { i = 1 } ^ { k } { \\left( Y _ { i } - \\overline { { Y } } \\right) / s \\mathrm { ~ a n d ~ } \\overline { { z _ { 2 } } } } = \\frac { 1 } { k - 1 } \\sum _ { i = k + 1 } ^ { k } { \\left( Y _ { i } - \\overline { { Y } } \\right) / s } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $z _ { 1 }$ and $\\overline { { z _ { 2 } } }$ are the parameters of $T ( k )$ statistic; $k$ is the years of record; $\\overline { { Y } }$ is the mean of time series; $Y _ { i }$ is the annual series which will be tested; and $s$ is the standard deviation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on calculation of the mean of the first $k$ years and the last $n { - } k$ years of the time series,we assumed that the $T ( k )$ statistic reaches its maximum value when a break occurs at the year $k$ .The $T _ { 0 }$ statistic in the standard normal homogeneity test is described as follows (Eq. 9): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { T _ { 0 } = \\mathrm { m a x } T _ { k } ( 1 \\leq k \\leq n ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The critical values of $T _ { 0 }$ statistic are given in Table 4.According to the standard normal homogeneity test, the null hypothesis will be rejected if $T _ { 0 }$ statistic exceeds the critical values. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c1f858af0c2a410f48500ada6df3757d25ab09d9ab2d79cc665782cac75e562.jpg",
+        "table_caption": [
+            "Table 4The $1 \\%$ critical values of $T _ { 0 }$ statistic in the standard normal homogeneity test as function of $n$ (Jaruskova, 1996）and the $5 \\%$ critical values of $T _ { 0 }$ statistic in the standard normal homogeneity test as function of $n$ （204号 (Alexandersson and Moberg,1997) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\"></td><td colspan=\"6\">Criticalvalue ofTo statistic</td></tr><tr><td>n=20</td><td>n=30</td><td>n=40</td><td>n=50</td><td>n=70</td><td>n=100</td></tr><tr><td>99%</td><td>9.56</td><td>10.45</td><td>11.01</td><td>11.38</td><td>11.89</td><td>12.32</td></tr><tr><td>95%</td><td>6.95</td><td>7.65</td><td>8.10</td><td>8.45</td><td>8.80</td><td>9.15</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.4 Pettitt test ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Pettitt test as a non-parametric approach is suitable to detect the breaks which occur near the middle of the time series. This approach is based on the Wilcoxon test developed by Petitt (1979). The ranks $r _ { 1 } , r _ { 2 } , . . . , r _ { \\mathrm { k } }$ of the $Y _ { 1 } , Y _ { 2 } , . . . , Y _ { \\mathrm { k } }$ were used to calculated the $X _ { k }$ statistic in the Pettitt test: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { k } = \\sum _ { i = 1 } ^ { k } r _ { i } - k { \\big ( } n + 1 { \\big ) } \\ { \\big ( } k = 1 , 2 , . . . , n { \\big ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on the Pettitt test, the absolute value of $X _ { k }$ statistic will reach to its maximum value if a break occurs in a given year (Eq.11). ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { k } = \\operatorname* { m a x } \\lvert X _ { k } \\rvert ( 1 \\leq k \\leq n ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The critical values of $X _ { k }$ statistic in the Pettitt test suggested by Pettitt (1979) are presented in Table 5. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/90ad118fe33a614cfb2197be4ac5601823794ae3ed35e715abd198f5b91b5b65.jpg",
+        "table_caption": [
+            "Table5The $1 \\%$ and $5 \\%$ critical values of $X _ { k }$ statistic in the Pettitt test as function of $n$ (Pettitt,1979) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"6\">Critical value ofXk statistic</td></tr><tr><td>n=20</td><td>n=30</td><td>n=40</td><td>n=50</td><td>n=70</td><td>n=100</td></tr><tr><td>99%</td><td>71</td><td>133</td><td>208</td><td>293</td><td>488</td><td>841</td></tr><tr><td>95%</td><td>57</td><td>107</td><td>167</td><td>235</td><td>393</td><td>677</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.5 Clustering approach of the streamflow time series ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The clustering approach is able to classify several time series in different clusters.Many researchers have applied different kinds of classification (Lagacherie et al.，1997;Ramachandra Rao and Srinivas,2006; Kahya et al.,2008; Hsu and Li,2010; Zahraie and Roozbahani,2011; Dikbas et al, 2013;Kousari et al., 2O13). The clustering approach was applied to facilitate the homogeneity analysis in addition to the absolute homogeneity tests in this study.The time series usually show relatively diferent averages and variances,then it is essential to normalize the initial time series before the clustering (Kousari et al.,2O13).In this study,the hierarchical clustering was considered and the Ward's algorithm and squared Euclidean distance were preferred. The hierarchical clustering approach aims to group a set of cases in such a way that cases in the same group or cluster are more similar to each other, which leads to a minimized variance within a group or cluster (Everitt,1993; Kahya et al.,2O08). We classified the normalized streamflow time series based on the dendrograms.We also used the overall classification and qualitative interpolation of the five absolute homogeneity tests. The classfication is based on the number of the homogeneity tests which reject the null hypothesis (Wijngaard et al., 2003). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 Data analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Microsoft Office, XLSTAT and ArcGIS were used for data analysis and figure mapping. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Results and discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The descriptive statistics of the annual streamflow series shown in Table 6 can beter reflect the streamflow regime patterns in the study area.The results indicated that in the SRB,Estoor station with an average annual discharge of $7 9 . 4 3 ~ \\mathrm { m } ^ { 3 } / \\mathrm { s }$ had the highest annual water yield while Lighvan station with an average annual discharge of $0 . 7 8 \\mathrm { ~ m } ^ { 3 } / \\mathrm { s }$ showed the lowest annual water yield. Moreover, Ghermizi Gol station with coefficient of variation(CV) of $9 8 . 8 0 \\%$ exhibited the highest temporal variability,while Lighvan station with the CV value of $2 8 . 8 6 \\%$ had the lowest temporal variability. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ef8169f9a941e97e990f2dc0d9f9abf658a9bf7cb65679d7c86c77b26da7647.jpg",
+        "table_caption": [
+            "Table 6Descriptive statistics of the annual streamflow series for different hydrometric stations "
+        ],
+        "table_footnote": [
+            "Note:CV,coefficient of variation. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Station</td><td colspan=\"5\">Annual streamflow</td></tr><tr><td>Mean (m³/s)</td><td>Maximum (m³/s)</td><td>Minimum (m³/s)</td><td>Standard deviation (m/s)</td><td>CV (%)</td></tr><tr><td>Babaroud</td><td>8.20</td><td>19.27</td><td>1.09</td><td>3.94</td><td>48.07</td></tr><tr><td>Dashband</td><td>15.18</td><td>39.43</td><td>2.25</td><td>8.71</td><td>57.39</td></tr><tr><td>Estoor</td><td>79.43</td><td>241.03</td><td>7.16</td><td>45.70</td><td>57.53</td></tr><tr><td>Ghermizi Gol</td><td>1.14</td><td>8.65</td><td>0.31</td><td>1.13</td><td>98.80</td></tr><tr><td>Lighvan</td><td>0.78</td><td>1.39</td><td>0.36</td><td>0.23</td><td>28.86</td></tr><tr><td>Mashiran</td><td>15.23</td><td>34.40</td><td>2.76</td><td>7.06</td><td>46.35</td></tr><tr><td>Meher Abad</td><td>7.44</td><td>22.10</td><td>1.15</td><td>4.67</td><td>62.79</td></tr><tr><td>Miandoab</td><td>16.33</td><td>45.96</td><td>2.38</td><td>9.57</td><td>58.60</td></tr><tr><td>Motor Khaneh</td><td>5.07</td><td>13.85</td><td>0.16</td><td>3.29</td><td>64.88</td></tr><tr><td>Oshnavieh</td><td>1.41</td><td>3.26</td><td>0.16</td><td>0.68</td><td>47.87</td></tr><tr><td>Pol Dokhtar</td><td>48.38</td><td>119.31</td><td>5.10</td><td>28.24</td><td>58.38</td></tr><tr><td>Sari Ghamish</td><td>52.22</td><td>146.96</td><td>10.46</td><td>25.81</td><td>49.42</td></tr><tr><td>Tapik</td><td>12.29</td><td>28.70</td><td>3.95</td><td>5.87</td><td>47.74</td></tr><tr><td>Venyar</td><td>12.13</td><td>42.84</td><td>0.71</td><td>7.63</td><td>62.89</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study, five absolute homogeneity tests were used and their results for the cumulative deviation test and Buishand range test are shown in Tables 7 and 8,respectively. The observation data of each station were analyzed for a significance level of O.O1, then inhomogeneities were detected. For the monthly streamflow series, the results of $\\boldsymbol { Q } / \\sqrt { n }$ statistic in the cumulative deviation test showed that $4 2 . 2 6 \\%$ of the streamflow time series of the stations were inhomogeneous.The monthly streamflow series in the Lighvan station were found homogenous in all 12 months while the monthly streamflow series in the Mashiran station in 9 months out of 12 months were detected with high inhomogeneity.Also,the results of Buishand range test indicated that about $3 8 . 0 9 \\%$ of the streamflow time series were inhomogeneous at the O.O1 significance level. Furthermore,in most of the streamflow time series,the cumulative deviation test detected the change year in the 199Os at the O.01 significance level. According to the study of Hawkins (1997), the cumulative deviation test is more sensitive when a break happens in the middle part of a data series. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/61a3491baf2a5f05ac4c8fac0e339334e37b5e4ed0ecd47bc97f0871c2fd3d22.jpg",
+        "table_caption": [
+            "Table 7 Results of $\\boldsymbol { Q } / \\sqrt { n }$ statistic in the cumulative deviation test for different hydrometric stations "
+        ],
+        "table_footnote": [
+            "Note:\\*\\* indicates the significance at the O.O1 level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Station</td><td colspan=\"10\">Q/√n statistic</td></tr><tr><td>Jan</td><td>Feb</td><td>Mar</td><td>Apr</td><td>May</td><td>Jun</td><td>Jul</td><td>Aug</td><td>Sep</td><td>Oct</td><td>Nov</td><td>Dec</td></tr><tr><td>Babaroud</td><td>1.91**</td><td>2.09**</td><td>1.19</td><td>1.27</td><td>0.90</td><td>1.50</td><td>1.64**</td><td>1.22</td><td>1.62**</td><td>1.50</td><td>1.10</td><td>1.75**</td></tr><tr><td>Dashband</td><td>0.97</td><td>1.31</td><td>0.97</td><td>1.61**</td><td>1.67**</td><td>1.60**</td><td>1.92**</td><td>1.98**</td><td>1.94**</td><td>2.02**</td><td>0.61</td><td>1.49</td></tr><tr><td>Estoor</td><td>1.57**</td><td>1.70**</td><td>1.22</td><td>1.66**</td><td>1.82**</td><td>1.53**</td><td>1.28</td><td>1.28</td><td>1.46</td><td>1.81**</td><td>1.81**</td><td>1.58**</td></tr><tr><td>Ghermizi Gol</td><td>1.24</td><td>1.06</td><td>0.72</td><td>0.98</td><td>0.98</td><td>1.17</td><td>1.23</td><td>0.71</td><td>1.28</td><td>1.84**</td><td>1.63**</td><td>1.00</td></tr><tr><td>Lighvan</td><td>0.76</td><td>1.09</td><td>0.92</td><td>1.01</td><td>1.09</td><td>0.89</td><td>0.92</td><td>0.92</td><td>0.90</td><td>0.80</td><td>1.04</td><td>1.31</td></tr><tr><td>Mashiran</td><td>2.14**</td><td>2.32**</td><td>2.38**</td><td>2.35**</td><td>1.93**</td><td>1.81**</td><td>1.56**</td><td>0.55</td><td>1.33</td><td>1.03</td><td>1.62**</td><td>1.96**</td></tr><tr><td>Meher Abad</td><td>1.80**</td><td>1.71**</td><td>1.41</td><td>1.46</td><td>1.42</td><td>0.95</td><td>0.99</td><td>1.04</td><td>1.42</td><td>2.12**</td><td>1.96**</td><td>1.09</td></tr><tr><td>Miandoab</td><td>1.03</td><td>0.72</td><td>0.57</td><td>1.63**</td><td>1.82**</td><td>1.37</td><td>1.21</td><td>1.35</td><td>1.31</td><td>1.08</td><td>0.73</td><td>1.52**</td></tr><tr><td>Motor Khaneh</td><td>1.04</td><td>1.22</td><td>0.93</td><td>1.35</td><td>1.92**</td><td>1.60**</td><td>1.23</td><td>1.53**</td><td>1.70**</td><td>1.36</td><td>1.89**</td><td>1.21</td></tr><tr><td>Oshnavieh</td><td>1.39</td><td>1.59**</td><td>1.03</td><td>1.51</td><td>1.11</td><td>1.38</td><td>0.87</td><td>1.12</td><td>1.68**</td><td>1.72**</td><td>0.99</td><td>1.00</td></tr><tr><td>PolDokhtar</td><td>1.60**</td><td>1.66**</td><td>1.36</td><td>1.66**</td><td>1.75**</td><td>1.44</td><td>1.07</td><td>1.18</td><td>1.37</td><td>1.76**</td><td>1.78**</td><td>1.82**</td></tr><tr><td>Sari Ghamish</td><td>1.42</td><td>1.63**</td><td>1.20</td><td>0.78</td><td>1.19</td><td>0.79</td><td>2.23**</td><td>2.43**</td><td>2.14**</td><td>1.64**</td><td>1.34</td><td>1.47</td></tr><tr><td>Tapik</td><td>1.60**</td><td>1.60**</td><td>0.63</td><td>1.01</td><td>1.17</td><td>1.47</td><td>1.33</td><td>1.16</td><td>1.24</td><td>1.59**</td><td>1.58**</td><td>1.68**</td></tr><tr><td>Venyar</td><td>1.70**</td><td>1.70**</td><td>1.55**</td><td>1.73**</td><td>1.49</td><td>1.70**</td><td>1.14</td><td>0.70</td><td>1.11</td><td>1.14</td><td>1.60**</td><td>1.97**</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c42696fae0cc7950f70d5e0ce7d8acc7b294c4795054daaa81c1c2ca1e5f1cb.jpg",
+        "table_caption": [
+            "Table 8Results of $R / { \\sqrt { n } }$ statistic in the Buishand range test for different hydrometric stations "
+        ],
+        "table_footnote": [
+            "Note:\\*\\*indicates the significance at the O.O1 level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Station</td><td colspan=\"10\">R/√n statistic</td></tr><tr><td>Jan</td><td>Feb</td><td>Mar</td><td>Apr</td><td>May</td><td>Jun</td><td>Jul</td><td>Aug</td><td>Sep</td><td>Oct</td><td>Nov</td><td>Dec</td></tr><tr><td>Babaroud</td><td>2.10**</td><td>2.21**</td><td>1.28</td><td>1.68</td><td>1.24</td><td>1.50</td><td>1.64</td><td>1.22</td><td>1.62</td><td>1.74</td><td>1.39</td><td>1.97**</td></tr><tr><td>Dashband</td><td>1.53</td><td>1.92**</td><td>1.08</td><td>1.82**</td><td>1.67</td><td>1.60</td><td>1.92**</td><td>1.98**</td><td>1.94**</td><td>2.21**</td><td>1.19</td><td>2.28**</td></tr><tr><td>Estoor</td><td>2.17**</td><td>2.26**</td><td>1.64</td><td>2.08**</td><td>1.82**</td><td>1.53</td><td>1.57</td><td>1.29</td><td>1.60</td><td>2.13**</td><td>2.11**</td><td>2.13**</td></tr><tr><td>Ghermizi Gol</td><td>1.24</td><td>1.09</td><td>1.27</td><td>0.98</td><td>1.01</td><td>1.17</td><td>1.23</td><td>0.95</td><td>1.31</td><td>1.84**</td><td>1.63</td><td>1.00</td></tr><tr><td>Lighvan</td><td>1.01</td><td>1.27</td><td>1.00</td><td>1.09</td><td>1.14</td><td>1.01</td><td>0.98</td><td>0.92</td><td>1.40</td><td>1.07</td><td>1.40</td><td>1.54</td></tr><tr><td>Mashiran</td><td>2.14**</td><td>2.32**</td><td>2.38**</td><td>2.35**</td><td>1.93**</td><td>1.81</td><td>1.56</td><td>0.84</td><td>1.34</td><td>1.07</td><td>1.62</td><td>1.96**</td></tr><tr><td>Meher Abad</td><td>2.46**</td><td>2.23**</td><td>1.99**</td><td>2.09**</td><td>1.66</td><td>1.19</td><td>1.58</td><td>1.50</td><td>1.88**</td><td>2.84**</td><td>2.45**</td><td>1.55</td></tr><tr><td>Miandoab</td><td>1.41</td><td>1.36</td><td>0.82</td><td>1.82**</td><td>1.86**</td><td>1.46</td><td>2.19**</td><td>1.87**</td><td>2.32**</td><td>1.87**</td><td>0.93</td><td>2.35**</td></tr><tr><td>Motor Khaneh</td><td>1.77</td><td>1.97**</td><td>1.30</td><td>1.64</td><td>1.95**</td><td>1.64</td><td>1.32</td><td>1.53</td><td>1.70</td><td>1.44</td><td>1.92**</td><td>2.17**</td></tr><tr><td>Oshnavieh</td><td>2.13**</td><td>2.10**</td><td>1.28</td><td>1.67</td><td>1.19</td><td>1.38</td><td>1.05</td><td>1.12</td><td>1.68</td><td>1.72</td><td>1.10</td><td>1.76</td></tr><tr><td>Pol Dokhtar</td><td>2.28**</td><td>2.18**</td><td>1.88**</td><td>2.16**</td><td>1.76</td><td>1.54</td><td>1.44</td><td>1.25</td><td>1.70</td><td>2.12**</td><td>2.10**</td><td>2.51**</td></tr><tr><td>Sari Ghamish</td><td>1.72</td><td>1.63</td><td>1.20</td><td>0.97</td><td>1.46</td><td>1.43</td><td>2.23**</td><td>2.43**</td><td>2.36**</td><td>3.20**</td><td>2.31**</td><td>1.94**</td></tr><tr><td>Tapik</td><td>1.83**</td><td>1.76</td><td>0.99</td><td>1.39</td><td>1.44</td><td>1.49</td><td>1.39</td><td>1.16</td><td>1.24</td><td>1.79**</td><td>1.87**</td><td>1.96**</td></tr><tr><td>Venyar</td><td>1.88**</td><td>1.90**</td><td>1.75</td><td>1.82**</td><td>1.53</td><td>1.70</td><td>1.16</td><td>1.10</td><td>1.13</td><td>1.25</td><td>1.60</td><td>2.15**</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The outputs of three absolute homogeneity tests, namely， von Neumann ratio test, standard normal homogeneity test and Pettit test, are presented in Tables 9,10 and 11,respectively. The von Neumann ratio test, standard normal homogeneity test and Petitt test identified that about $3 3 . 3 3 \\%$ ， $3 9 . 2 8 \\%$ and $6 8 . 4 5 \\%$ of the streamflow time series were considered as inhomogenous at monthly scales at the O.O1 significant level, respectively.The results of von Neumann ratio test showed that the total number of inhomogeneity of the streamflow time series in clod seasons (autumn and winter) was more than that in warm seasons (spring and summer).The highest number of inhomogeneity in monthly streamflow series was found in February based on the von Neumann ratio test. Homogeneity analysis of precipitation series in Iran indicated that the total number of inhomogeneity was more in clod season months or winter months than in warm season months (Hosseinzadeh Talaee et al.,2O14). It was previously reported that in the semi-arid regions, the variability of the streamflow time series was usually larger in warm season months than in clod season months mainly due to the natural and anthropogenic changes (e.g., Hereford and Webb, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1992; Barlow etal.,2OO1; Das etal.,2O11). In this study, the standard normal homogeneity test and Pettitt test did not show any specific particular patern for the monthly streamflow series over the period 196O-2010.The monthly streamflow series in the Mashiran,Estoor,Pol Dokhtar and Mothor Khaneh stations exhibited inhomogeneous patterns. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c6f725faefc269fdae07dceac7983057332c859ec7a587c857617ec7c53d464a.jpg",
+        "table_caption": [
+            "Table9Results of $N$ statistic in the von Neumann ratio test for different hydrometric stations "
+        ],
+        "table_footnote": [
+            "Note:\\*\\* indicates the significance at the O.O1 level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Station</td><td colspan=\"10\">N statistic</td></tr><tr><td>Jan</td><td>Feb</td><td>Mar</td><td>Apr</td><td>May</td><td>Jun</td><td>Jul</td><td>Aug</td><td>Sep</td><td>Oct</td><td>Nov</td><td>Dec</td></tr><tr><td>Babaroud</td><td>0.95**</td><td>0.78**</td><td>1.36**</td><td>1.84</td><td>1.49</td><td>1.40</td><td>1.55</td><td>1.84</td><td>1.71</td><td>1.56</td><td>1.67</td><td>0.87**</td></tr><tr><td>Dashband</td><td>1.66</td><td>1.29**</td><td>1.89</td><td>1.90</td><td>1.64</td><td>1.61</td><td>1.50</td><td>1.43</td><td>1.37</td><td>1.28**</td><td>1.74</td><td>1.30**</td></tr><tr><td>Estoor</td><td>0.86**</td><td>0.98**</td><td>1.57</td><td>1.78</td><td>1.49</td><td>1.58</td><td>1.90</td><td>1.61</td><td>1.38</td><td>1.10**</td><td>1.04**</td><td>0.80**</td></tr><tr><td>Ghermizi Gol</td><td>1.87</td><td>1.27**</td><td>2.35</td><td>1.99</td><td>2.13</td><td>1.84</td><td>1.96</td><td>1.85</td><td>1.66</td><td>0.83**</td><td>0.82**</td><td>1.82</td></tr><tr><td>Lighvan</td><td>2.08</td><td>1.82</td><td>1.96</td><td>1.87</td><td>2.02</td><td>1.84</td><td>1.95</td><td>1.68</td><td>1.56</td><td>1.81</td><td>1.48</td><td>1.83</td></tr><tr><td>Mashiran</td><td>0.96**</td><td>0.82**</td><td>0.93**</td><td>1.25**</td><td>1.65</td><td>1.73</td><td>2.04</td><td>2.09</td><td>1.84</td><td>1.60</td><td>1.70</td><td>1.15**</td></tr><tr><td>Meher Abad</td><td>0.52**</td><td>0.59**</td><td>1.57</td><td>1.87</td><td>1.66</td><td>1.75</td><td>1.30**</td><td>1.41</td><td>1.41</td><td>0.66**</td><td>0.82**</td><td>1.41</td></tr><tr><td>Miandoab</td><td>1.52</td><td>1.49</td><td>1.63</td><td>1.85</td><td>1.54</td><td>1.54</td><td>1.07**</td><td>1.35**</td><td>1.08**</td><td>1.12**</td><td>2.17</td><td>1.22**</td></tr><tr><td>Motor Khaneh</td><td>1.22**</td><td>0.83**</td><td>2.00</td><td>1.76</td><td>1.35**</td><td>1.60</td><td>1.97</td><td>1.79</td><td>0.88**</td><td>1.83</td><td>1.14**</td><td>1.00**</td></tr><tr><td>Oshnavieh</td><td>1.42</td><td>1.36**</td><td>1.67</td><td>1.93</td><td>1.79</td><td>1.62</td><td>1.88</td><td>1.93</td><td>1.33**</td><td>1.83</td><td>2.03</td><td>1.50</td></tr><tr><td>Pol Dokhtar</td><td>0.71**</td><td>0.80**</td><td>1.38</td><td>1.80</td><td>1.43</td><td>1.43</td><td>1.79</td><td>1.66</td><td>1.37</td><td>1.02**</td><td>1.05**</td><td>0.48**</td></tr><tr><td>Sari Ghamish</td><td>1.40</td><td>1.44</td><td>1.50</td><td>1.92</td><td>1.85</td><td>1.74</td><td>0.68**</td><td>0.46**</td><td>0.52**</td><td>0.32**</td><td>1.35**</td><td>1.47</td></tr><tr><td>Tapik</td><td>0.81**</td><td>1.12**</td><td>1.80</td><td>1.38</td><td>1.37</td><td>1.39</td><td>1.53</td><td>1.52</td><td>0.97**</td><td>0.58**</td><td>0.92**</td><td>0.74**</td></tr><tr><td>Venyar</td><td>1.29**</td><td>1.48</td><td>1.40</td><td>1.59</td><td>1.71</td><td>1.58</td><td>2.20</td><td>2.12</td><td>2.11</td><td>1.56</td><td>1.76</td><td>0.96**</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/8aa50609aa8d82d2703dfc48fc46f2b7049b5e9c8d0f7bd50a89f401090702d3.jpg",
+        "table_caption": [
+            "Table10Results of $T _ { 0 }$ statistic in the standard normal homogeneity test for different hydrometric stations "
+        ],
+        "table_footnote": [
+            "Note:\\*\\*indicates the significance at the O.O1 level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Station</td><td colspan=\"10\">To statistic</td></tr><tr><td>Jan</td><td>Feb</td><td>Mar</td><td>Apr</td><td>May</td><td>Jun</td><td>Jul</td><td>Aug</td><td>Sep</td><td>Oct</td><td>Nov</td><td>Dec</td></tr><tr><td>Babaroud</td><td>17.73**</td><td>21.57**</td><td>6.62</td><td>7.48</td><td>3.96</td><td>10.92</td><td>13.07**</td><td>6.37</td><td>13.29**</td><td>6.03</td><td>10.44</td><td>14.91**</td></tr><tr><td>Dashband</td><td>4.34</td><td>6.79</td><td>3.85</td><td>11.39**</td><td>11.86**</td><td>10.88</td><td>17.60**</td><td>15.40**</td><td>15.91**</td><td>1.52</td><td>19.04**</td><td>9.96</td></tr><tr><td>Estoor</td><td>12.56**</td><td>14.94**</td><td>7.58</td><td>14.02**</td><td>16.13**</td><td>10.92</td><td>7.95</td><td>8.16</td><td>9.90</td><td>17.15**</td><td>15.91**</td><td>12.80**</td></tr><tr><td>Ghermizi Gol</td><td>9.80</td><td>5.81</td><td>5.16</td><td>7.00</td><td>6.98</td><td>9.94</td><td>10.98</td><td>7.26</td><td>10.21</td><td>29.36**</td><td>24.07**</td><td>13.00**</td></tr><tr><td>Lighvan</td><td>4.18</td><td>7.24</td><td>14.69**</td><td>11.86**</td><td>8.11</td><td>5.00</td><td>4.59</td><td>6.86</td><td>4.14</td><td>4.21</td><td>3.92</td><td>7.35</td></tr><tr><td>Mashiran</td><td>20.58**</td><td>26.13**</td><td>26.65**</td><td>25.25**</td><td>16.30**</td><td>12.97**</td><td>9.73</td><td>1.88</td><td>8.91</td><td>11.89**</td><td>4.18</td><td>17.24**</td></tr><tr><td>Meher Abad</td><td>16.49**</td><td>14.83**</td><td>9.60</td><td>10.41</td><td>9.76</td><td>4.07</td><td>4.77</td><td>5.21</td><td>9.81</td><td>19.66**</td><td>23.26**</td><td>6.00</td></tr><tr><td>Miandoab</td><td>4.78</td><td>4.21</td><td>1.75</td><td>12.06**</td><td>14.14**</td><td>7.98</td><td>7.40</td><td>8.91</td><td>8.29</td><td>2.53</td><td>5.40</td><td>10.37</td></tr><tr><td>Mateh</td><td>4.91</td><td>6.91</td><td>3.92</td><td>8.47</td><td>18.57**</td><td>13.11**</td><td>7.37</td><td>15.45**</td><td>19.23**</td><td>18.13**</td><td>9.16</td><td>6.90</td></tr><tr><td>Oshnavieh</td><td>8.24</td><td>10.79</td><td>4.21</td><td>9.20</td><td>5.10</td><td>7.49</td><td>3.85</td><td>8.39</td><td>15.02**</td><td>4.03</td><td>12.52**</td><td>4.47</td></tr><tr><td>Pol Dokhtar</td><td>13.00**</td><td>14.07**</td><td>9.46</td><td>14.00**</td><td>15.25**</td><td>10.47</td><td>5.85</td><td>6.48</td><td>8.70</td><td>16.49**</td><td>16.28**</td><td>17.26**</td></tr><tr><td>Ghamish</td><td>9.08</td><td>11.97**</td><td>10.46</td><td>3.13</td><td>7.22</td><td>4.54</td><td>29.09**</td><td>36.17**</td><td>30.34**</td><td>7.51</td><td>16.57**</td><td>9.77</td></tr><tr><td>Tapik</td><td>12.44**</td><td>12.46**</td><td>1.76</td><td>4.77</td><td>6.54</td><td>10.16</td><td>8.66</td><td>6.51</td><td>7.59</td><td>12.15**</td><td>12.95**</td><td>14.09**</td></tr><tr><td>Venyar</td><td>13.47**</td><td>11.44**</td><td>10.17</td><td>13.73**</td><td>10.19</td><td>11.44**</td><td>5.22</td><td>2.47</td><td>6.24</td><td>15.04**</td><td>9.08</td><td>17.58**</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Results of the five absolute homogeneity tests for annual streamflow series are shown in Figure 2.The cumulative deviation test and Buishand range test determined that streamflow time series in 5 and 6 stations (out of 14 stations） showed homogenous,respectively. Meanwhile, the results of standard normal homogeneity test were the same with those of cumulative deviation test. Furthermore,the von Neumann ratio test and Petitt test identified streamflow time series in 5 and 3 stations (out of 14 stations)as homogeneous,respectively. Based on the above-mentioned results, we inferred that the Pettittest is more sensitive than the other absolute homogeneity tests in the determination of homogeneity of the streamflow time series.As a good consequence, the results of thefive homogeneity tests determined that streamflow time series in the stations located in the east of the study area or within the ULB were mostly found to be homogeneous. In contrast,the annual streamflow series of allstations located in the ARB and SRB were inhomogeneous.The streamflow time series in the three stations of the ULB namely Ghermizi Gol, Lighvan and Sari Ghamish stations were identified as homogeneous by all homogeneity tests. Generally,since the absolute homogeneity tests have different sensitivities to the variability and changes of the data series in a given station,then the outputs of the tests sometimes have discrepancies. These discrepancies were also suggested by Wijngaard et al. (2003),Feng et al. (2004), Sahin and Cigizoglu (2010) and Hosseinzadeh Talaee et al. (2014). ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e2f609aff14e656f80491126146dcc28ef6e64daef98d79555d4c568623c03d.jpg",
+        "table_caption": [
+            "Table11Results of $X _ { k }$ statistic in the Pettitt test for different hydrometric stations "
+        ],
+        "table_footnote": [
+            "Note:\\*\\* indicates the significance at the O.O1 level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Station</td><td colspan=\"10\">Xk statistic</td></tr><tr><td>Jan</td><td>Feb</td><td>Mar</td><td>Apr</td><td>May</td><td>Jun</td><td>Jul</td><td>Aug</td><td>Sep</td><td>Oct</td><td>Nov</td><td>Dec</td></tr><tr><td>Babaroud</td><td>410**</td><td>423**</td><td>221</td><td>297**</td><td>152</td><td>324**</td><td>426**</td><td>300**</td><td>375**</td><td>385**</td><td>273</td><td>362**</td></tr><tr><td>Estoor</td><td>429**</td><td>379**</td><td>357**</td><td>391**</td><td>417**</td><td>388**</td><td>381**</td><td>394**</td><td>447</td><td>446**</td><td>448**</td><td>441**</td></tr><tr><td>Dashband</td><td>326**</td><td>317**</td><td>263</td><td>387**</td><td>380**</td><td>399**</td><td>462**</td><td>530**</td><td>469</td><td>491**</td><td>266</td><td>368**</td></tr><tr><td>Ghermizi Gol</td><td>305**</td><td>207</td><td>127</td><td>157</td><td>144</td><td>285**</td><td>273</td><td>233</td><td>280</td><td>396**</td><td>282</td><td>276</td></tr><tr><td>Lighvan</td><td>108</td><td>214</td><td>139</td><td>153</td><td>241</td><td>158</td><td>272</td><td>250</td><td>233**</td><td>211</td><td>208</td><td>270</td></tr><tr><td>Mashiran</td><td>504**</td><td>486**</td><td>471**</td><td>491**</td><td>409**</td><td>405**</td><td>320**</td><td>174</td><td>365**</td><td>260</td><td>370**</td><td>452**</td></tr><tr><td>Meher Abad</td><td>441**</td><td>417**</td><td>396**</td><td>394**</td><td>374**</td><td>316**</td><td>195</td><td>212</td><td>410**</td><td>461**</td><td>467**</td><td>457**</td></tr><tr><td>Miandoab</td><td>317**</td><td>203</td><td>224</td><td>383**</td><td>412**</td><td>340**</td><td>263</td><td>314**</td><td>280**</td><td>298**</td><td>286</td><td>384**</td></tr><tr><td>Motor Khaneh</td><td>301**</td><td>343**</td><td>364**</td><td>367**</td><td>419**</td><td>387**</td><td>289**</td><td>383**</td><td>329**</td><td>425**</td><td>414**</td><td>337**</td></tr><tr><td>Oshnavieh</td><td>298**</td><td>348**</td><td>279</td><td>330**</td><td>222</td><td>314**</td><td>230</td><td>255</td><td>395**</td><td>454**</td><td>166</td><td>240</td></tr><tr><td>Pol Dokhtar</td><td>411**</td><td>405**</td><td>369**</td><td>401**</td><td>429**</td><td>411**</td><td>309**</td><td>337**</td><td>408**</td><td>450**</td><td>440**</td><td>423**</td></tr><tr><td>Sari Ghamish</td><td>386**</td><td>354**</td><td>265</td><td>193</td><td>275</td><td>190</td><td>407**</td><td>400**</td><td>386**</td><td>366**</td><td>296**</td><td>378**</td></tr><tr><td>Tapik</td><td>344**</td><td>342**</td><td>136</td><td>257</td><td>256</td><td>332**</td><td>349**</td><td>254</td><td>319**</td><td>377**</td><td>324**</td><td>382**</td></tr><tr><td>Venyar</td><td>429**</td><td>371**</td><td>396**</td><td>438**</td><td>345**</td><td>313**</td><td>237</td><td>190</td><td>255</td><td>327**</td><td>453**</td><td>456**</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The overall classification determined that about $4 5 . 6 0 \\%$ of the streamflow time series were labeled as 'useful', which suggested no obvious evidence of inhomogeneity in the streamflow time series.According to the study of Wijngaard et al. (2OO3)，the 'useful' class is adequately homogeneous for variability and trend analyses.About $1 1 . 5 3 \\%$ of the streamflow time series were labelled as 'doubtful'.In other words, $1 1 . 5 3 \\%$ of the monthly and annual streamflow series in the stations were critical in terms of the possible inhomogeneities.The third class known as 'suspect' refers to the situation that the null hypothesis is rejected by three or four tests at the O.01 significance level. Finally, $4 2 . 8 5 \\%$ of the streamflow time series were labeled in this class.It is obvious that the streamflow time series labeled as 'suspect' class have insufficient credibility and should not be applied in issues which are related to time series studies. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 indicated the different clusters of the normalized annual streamflow series with some clear fluctuations in the clusters. Moreover, downtrend alterations or change points in the streamflow time series occurred after 1990 for all stations,and the results from the five absolute homogeneity tests were almost the same.Meanwhile,fluctuation of the third cluster (Fig.3c) was more dramatic than those of the first (Fig.3a)and second (Fig.3b) clusters.It was obvious that the first cluster (Fig.3a) contained most of the streamflow time series compared with the other two clusters (Figs. 3b and c). Since these curves did not show a spatial distribution in the study area, then the distributions of various clusters of specific streamflow time series were mapped in Figure 4.The results showed that most of the streamflow time series were in the first cluster. For the monthly streamflow series,we found that only Estoor station was in the third cluster in January, April, May, November and December. As mentioned earlier, the number of inhomogeneity of the streamflow time series was more in the third cluster than in the first and second clusters.The results indicated that the clustering time series could identify the homogeneity of the streamflow time series in most of the stations. Homogeneity tests determined that most of the streamflow time series in the Estoor station were inhomogeneous.Meanwhile, most of the streamflow time series in this station were classfied in the third cluster which showed high fluctuations and inhomogeneity. All time series of streamflow except for February in the Estoor and Pol Dokhtar stations were classified in the second and third clusters. Furthermore, inhomogeneity was also detected in most of the streamflow time series in the stations by the five absolute homogeneity tests. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f45504f0a262b66bb62b6c946fb617bda2c6eb26b4b39eab6540bad9e5254b88.jpg",
+        "img_caption": [
+            "Fig.2Outputs of five homogeneity tests for annual streamflow series in the 14 hydrometric stations over the period 1960-2010 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Generally, the hydrometric stations located in the SRB were classified in the second and third clusters in most streamflow time series while the stations in the ULB were categorized in the first cluster which exhibited low inhomogeneity of the streamflow time series.Therefore,the results of this study clearly proved the effectiveness of the clustering approach for homogeneity analysis of the streamflow time series in addition to the homogeneity tests.The clustering analysis to classify the streamflow time series into regions with relatively similar streamflow patterns by Kahya et al. (2008) indicated that the regions with the same streamflow patterns will not be covered enough with the climatic zones in Turkey. Kousari et al. (2O13) has suggested that clustering approach is suitable to analyze the trends in the climatic variables over the Iran. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e2646bd45ea5a8240a4d8ac76694fb2969c9647e107ae084680895ee07b775d.jpg",
+        "img_caption": [
+            "Fig.3Normalized annual streamflow series of cluster1(a),cluster2(b)and cluster 3(c) "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Results of the absolute homogeneity tests and clustering approach indicated that stations located in the three basins (SRB,ARB and ULB） have the same fluctuations and alterations of the streamflow time series in most of the study period. Moreover, obvious decreasing change points were observed in the 199Os over the three basins.It is clear that inhomogeneity of the streamflow time series cannot be completely explained by the local changes of the hydrometric stations or watershed conditions,such as changes in the locations of stations,land use changes,etc.From the results we concluded that alternations in the streamflow time series of the study area are mostly related to the hydrological droughts. The droughts occurred in the 199Os were more devastating to water resources and agriculture,resulting in accelerated urbanization (Agrawala et al.,2001; Yazdani and Haghsheno, 2O08).According to the study of Raziei et al. (2OO9),over half of population in Iran has been affected by prolonged droughts in the 199Os.Nikbakht et al.(2013) and Tabari et al. (2O13) analyzed the streamflow droughts in northwestern Iran and found the most severe streamflow scarcities in the 199Os.The decreasing trend of the streamflow time series in the study area can be considered as an important reason of inhomogeneities in most of the stations. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The current research considered five absolute homogeneity tests and clustering approach for determining the homogeneity of the streamflow time series (over the period 1960-2010) in three important basins (SRB,ARB and ULB) located in northwestern Iran. The results of cumulative deviation test, Buishand range test, von Neumann ratio test, standard normal homogeneity test and Pettitt test for the monthly streamflow series showed that about $4 2 . 2 6 \\%$ ， $3 8 . 0 9 \\%$ $3 3 . 3 3 \\%$ ， $3 9 . 2 8 \\%$ and $6 8 . 4 5 \\%$ of the time series were inhomogeneous at the O.O1 significance level, respectively. Among the five absolute homogeneity tests,Pettittest was found to be much more sensitive than the other four homogeneity tests in determination of homogeneity of the streamflow time series. Results of the five absolute homogeneity tests determined that the streamflow time series in the stations located in the east of the study area or within the ULB were mostly found to be homogeneous.In contrast, the streamflow time series in all stations of the ARB and SRB were inhomogeneous at annual scales. Since the absolute homogeneity tests have various sensitivities to the variability and changes in the streamflow time series of the station,the outputs of these tests may show discrepancies in some cases.The overall classfication and qualitative interpolation of the monthly and annual streamflow series based on the five absolute homogeneity tests showed that about $4 5 . 6 0 \\%$ ， $1 1 . 5 3 \\%$ and $4 2 . 8 5 \\%$ of the series were categorized into 'useful','doubtful' and 'suspect' classes,respectively. Furthermore,the effectiveness of the clustering approach for analyzing the homogeneity of the streamflow time series was proved in addition to the absolute homogeneity tests. Both the results of absolute homogeneity tests and clustering approach indicated relatively similar fluctuations and alterations in the streamflow time series of the stations.Moreover, obvious decreasing change points of the streamflow time series were detected in the 1990s over the three basins.It can be inferred that inhomogeneity and alternations in the streamflow time series of the three basins are related to the natural and anthropogenic conditions of the basins. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/35bc86e18c4fbc378f4a4dddd890e6e6483207556ca2cc1db4905b48f0109b4a.jpg",
+        "img_caption": [
+            "Fig.4Spatial distributions of three clusters in monthly and annual streamflow series "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Agrawala S,BarlowM,Cullen H,etal.2Ool.Thedroughtand humanitariancrisis in Centraland SouthwestAsia:aclimate perspective.Palisades,N.Y.: International Research Institute for Climate and Society,50-160.   \nAlexandersson H.1986.Ahomogeneity test applied to precipitation data.JournalofClimateology,6(6):661-675.   \nAlexanderson H,Moberg A.1997.HomogenizationofSwedish temperature data.Part1:homogeneitytest forlinear trends. International Journal of Climatology,17: 25-34.   \nBarlow M,Nigam S,BerberyEH.2Ool.ENSO,Pacificdecadal variability,and USsummertime precipitation,drought,and stream flow.Journal of Climate,14(9): 2105-2128.   \nBingham C,NelsonLS.1981.Anapproximationforthedistributionof theVonNeumannratio.Technometrics,23(3):285-288.   \nBuishand TA.1982.Some methods fortesting thehomogeneityofrainfallrecords.Journalof Hydrology,58(1-2):11-27.   \nConradV,PollakLW.195o.Methods in Climatology.Cambridge,Massachusets,USA: Harvard UniversityPress1-459.   \nDas T,Pierce D W,CayanDR,et al.2011.The importance of warm season warming to western U.S.streamflow changes. Geophysical Research Letters,38(23):L23403.   \nDikbasF,FiratM,KocAC,etal.20l3.Defiing homogeneousregionsforstreamflowprocesss inTurkeyusingaK-Means clustering method.Arabian Journal for Science and Engineering,38(6):1313-1319.   \nEverittB.1993.Cluster Analysis.New York:Halsted Press,1-130.   \nFeng S,Hu Q,Qian W.2004.Qualitycontrolofdailymeteorological data inChina,1951-200:Anewdataset.Interational Journal of Climatology,24(7): 853-87.   \nHawkins M.1997.Testing asequenceof observations fora shift in location.Journal of the American Statistical Asociation, 72(357): 180-186.   \nHereford R,WebbRH.1992.Historic variationof warm-seasonrainfall,Southern Colorado Plateau,southwestern U.S.A. Climatic Change,22(3):239-256.   \nHirsch RM,SlackJR,Smith RA.1982.Techniques oftrend analysis formonthly waterqualitydata. WaterResources Research, 18(1): 107-121.   \nHirsch RM,SlackJR.1984.Anonparametric trend test forseasonal data with serial dependene.Water Resources Research, 20(6): 727-732.   \nHirschRM.1988.Statistical methods andsampling design for estimating step trends insurface-waterquality. Water Resources Bulletin,24(3): 493-503.   \nHosseinzadeh TalaeePH,KouchakzadehM,Shifteh Some'eBS.2O14.Homogeneityanalysisof precipitation series inIran. Theoretical and Applied Climatology,118(1-2): 297-305.   \nHsu KC,LiST.2O10.Clustering spatial-temporal precipitationdatausing wavelet transformandself-organizing map neural network.Advances in Water Resources,33(2):190-200.   \nJaruskova D.1996.Change-point detection in meteorological measurement.Monthly Weather Review,124:1535-1543.   \nKahyaE,DemirelMC,BégOA.2Oo8.Hydrologic homogeneous regions using monthly streamflow in Turkey.Earth Sciences Research Journal, 12(2): 181-193.   \nKousari MR,Ahani H,Hendi-zadeh R.2O13.Temporaland spatial trend detectionof maximum air temperaturein Iran during 1960-2005.Global and Planetary Change,111: 97-110.   \nLagacherie P,CazemierDR,van Gaans PF,et al.1997.Fuzzy k-means clusteringoffields inanelementarycatchmentand extrapolation to a larger area. Geoderma,77(2-4):197-216.   \nMcCuen R H.20o2.Modeling Hydrologic Change: Statistical Methods.Boca Raton,Florida: CRC Press,1-433.   \nNikbakhtJ,TabariH,HoseizadehTalae P.2O13.treamflowdroughtseverityanalysisbypercentofnormal index(PNI) in northwest Iran. Theoretical and Applied Climatology,112(3-4): 565-573.   \nOmar MA,BagcacC,SarlakN.2017.HomogeneityAnalysisofPrecipitation Series inNorth Iraq.IOSRJournalofApplied Geology and Geophysics,5(3):57-63.   \nPeterson TC,VoseR,SchmoyerR,etal.1998.Global Historical Climatology Network(GHCN)qualitycontrolof monthly temperature data.International Journal of Climatology,18:1169-1179.   \nPetit A N.1979.Anon-parametricapproach tothechange-point problem.JournaloftheRoyal Statistical Society.Series C (Applied Statistics),28(2):126-135.   \nRamachandraRaoA,Srinivas VV.Oo6.Regionalizationofwatersheds byhybrid-clusteranalysis.JournalofHydrology,318(- 4): 37-56.   \nRazieiT,SaghafianB,PauloAA,etal.2Oo9.Spatialpatersand temporalvariabilityof drought inwestern IranWater Resources Management,23(3):439-455.   \nRougé C,GeY,Cai X.20l3.Detecting gradual and abrupt changes inhydrologicalrecords.Advances in Water Resources,53: 33-44.   \nSahin S,CigizogluHK.2O10.Homogeneityanalysisof Turkish meteorologicaldata set.HydrologicalProcesses,24(8):981- 992.   \nSeyam M,OthmanF.2015.Long-term variation analysis ofatropical river'sannual streamflowregime overa 50-yearperiod. Theoretical and Applied Climatology,121(1-2):71-85.   \nTabariH,NikbakhtJ,HossinzadehTalaeeP.O13.HydrologicaldroughtassessmentinNorthwestenIranbasedonreamflow drought index (SDI).Water Resources Management,27(1): 137-151.   \nWijngaard JB,Klein Tank A MG, Konnen GP.2003.Homogeneity of $2 0 ^ { \\mathrm { t h } }$ century European daily temperature and precipitation series.International Journal of Climatology,23(6):679-692.   \nWong H,HuBQ,IpWC,etal.2Oo6.Change-pointanalysisofhydrological time series using greyrelational method.Journal of Hydrology,324(1-4): 323-338.   \nYazdani S,Haghsheno M.2Oo8.Drought management and recommended solutions on how to deal with drought.AmericanEurasian Journal of Agricultural & Environmental Sciences,2(Suppl.1): 64-68.   \nZahraie B,Roozbahani A.2Ol1.SST clustering for winter precipitation prediction in southeast of Iran:comparison between modifiedK-means and genetic algorithm-based clustering methods.ExpertSystems with Applications,38(5):5919-5929. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

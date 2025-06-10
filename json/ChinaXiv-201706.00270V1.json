@@ -1,0 +1,404 @@
+[
+    {
+        "type": "text",
+        "text": "Cry3a杀虫蛋白基因的合成优化及在JK-SH007中高效表达",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李阳1、吴酬飞²、吴小芹1、叶建仁」、张立钦1\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.南京林业大学林学院，江苏 南京 210037；2.湖州师范学院，浙江 湖州 313000）摘要：本研究人工合成优化Cry3a杀虫蛋白基因，并从大肠杆菌BL21（DE3）中克隆T7表达系统，通过同源重组克隆进PHKT2表达载体，将此表达载体导入吡咯伯克霍尔德氏菌JK-SH007，通过诱导表达，成功指导合成T7RNA聚合酶且高效表达分子量为 $7 0 \\mathrm { k D }$ 的Cry3a蛋白。通过粗提液对二龄榆蓝叶甲进行生物毒杀试验，结果表明粗提液具有高毒性，致死中浓度 $\\operatorname { \\mathrm { T C 5 0 = 0 . 6 3 ( 0 . 4 8 - 0 . 8 2 ) \\ g / l ) } }$ 。本研究成功构建的T7表达系统，可高效表达毒性的Cry3Aa蛋白，为进一步开发杀虫生防菌剂，建立外源基因表达技术平台奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：苏云金芽孢杆菌；Cry3a基因；吡咯伯克霍尔德氏菌；杀虫活性；表达中图分类号：Q786 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gene synthesis of Bacillus thuringiensis Cry3Aa and high -level expression in Burkholderia pyrrocinia JK-SHoo7 as a biopesticide ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Yangl, WU Chou-fei², ZhANG Li-qin1\\* (1. College ofForest, Nanjing Forestry University, Nanjing 210037,Jiangsu Province, China;2. Collge ofLife Sciences, Huzhou Teachers Collge, Huzhou 313oo0, Zhejiang Province, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract :To develop an anti-Pyrrhalta larva biopesticide. The T7 RNA pol for T7 DNA-d irected RNA polymerase was cloned from BL21(DE3） into the Burkholderia pyrrocinia expr esson vector pHKT2. The insecticidal cry3Aa gene from Bacillus thuringiensis was optimiz ed, synthesized, and cloned to the modified T7 expression system. The expression of the cr y3Aa gene in wild-type endophyte $B$ ：pyrrocinia JK-SHo07 was induced with temperature s hifting,resulting in high-level production of Cry3Aa protein with a molecular weight of ab out $7 0 ~ \\mathrm { { k D a } }$ . Toxic mortality bioassay was conducted on $1 5 \\ P$ ，aenescens (Fairmaire) larvae in the 2 instar in the laboratory. The crude engineered strain was highly toxic（ $\\mathrm { L C } 5 0 { = } 0 . 6$ $3 ( 0 . 4 8 \\mathrm { - } 0 . 8 2 ) \\ \\mathrm { g / l . ) }$ to Pyrrhalta aenescens (Fairmaire) larvae grown in culture dishes on elm leaves.In conclusion，we have devised a novel T7 expression vector for the effective expre ssion of a cry3Aa gene for a protein toxic to beetle larvae,and its impactful delivery can make it a possible candidate for a biopesticide. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Bacillus thuringiensis； Cry3a; Burkholderia pyrrocinia; insecticidal activity; expression",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "苏云金芽孢杆菌 Bacillus thuringiensis(BT)分泌的杀虫晶体蛋白（ICPS）因其对害虫具有高度专一毒杀作用，且对环境和人畜安全，成为世界上应用最广泛的一类微生物杀虫剂[.根据杀虫晶体蛋白氨基酸序列的同源性，可将他们划分为17群94亚类[2]，目前已报道的编码$C r y$ 蛋白的基因达300 多个，其中 $C r y I$ 类的表达产物对鳞翅目昆虫有特异毒性，而Cry3类的表达产物对鞘翅目昆虫有特异毒性[3\\`4]。1987 年,Herrnstadt 克隆了第一个对鞘翅目害虫有毒性的Cry3Aa 基因[5\\`6]，随后发现对鞘翅目昆虫具有专一毒性蛋白的基因还有Cry5、Cry7、",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$C r y \\delta$ 和 $C r y I { \\& } A$ 等[7]。但又以Cry3Aa 基因专一性和毒性最高，其从细胞营养期即可不依赖芽孢的产生进行较长时间表达，且表达的蛋白多肽易于被昆虫肠液降解为55KDa的毒性多肽，因此国内外一般都优先选用Cry3Aa 基因作为抗虫基因转入微生物，构建具有抗鞘翅目昆虫杀虫活性的BT工程菌[8\\`9]。Cry3Aa 基因的工程菌剂于1991年投放市场,在马铃薯甲虫的防治中发挥了巨大作用[10\\`11]。本研究构建了一个吡咯伯克霍尔德氏菌 $B _ { \\cdot }$ pyrrocinia T7表达系统，利用人工密码子优化重新合成Cry3Aa 基因，同时将T7表达系统重组到PHKT2表达载体上，通过将Cry3A杀虫蛋白基因插入T7启动子后，让T7表达系统启动表达T7RNA聚合酶后表达Cry3Aa杀虫蛋白，最后将重组表达质粒转入本实验室前期自行分离并保存的吡咯伯克霍尔德氏菌 B.pyrrocinia JK-SH007 中[12、13]。宿主菌JK-SH007，是由本实验室近年分离自野外杨树林，此菌对拟茎点霉(phomopsismacrospore)、金黄壳囊孢菌(cytosporachrysosperma)、七叶树壳梭孢菌(fusicoacumaesculi)三种主要病原菌具有 $83 \\%$ 以上的抑菌率[12]，生态价值重大。此次构建的工程菌经过 PCR、SDS-PAGE 蛋白电泳、west blot 及室内生测分析，结果显示重组工程菌成功表达了Cry3Aa杀虫蛋白，对鞘翅目幼虫有一定杀虫活性。随着人工和天然林的逐渐增长，森林病虫害仍将是一个较大威胁。此次研究通过转基因技术开发成新的生物工程菌，具有较大的生防潜力和经济价值，为进一步开发生物农药奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1菌株，害虫，载体，培养基及试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B.pyrrocinia JK-SH007（中国典型培养物保藏号：M209028）分离并保存于本实验室，Cry3Aa-Pet30a 质粒、大肠杆菌XL10-GOLD 购自 Stratagene 公司，大肠杆菌BL21(DE3）购自默克密理博公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "原核表达载体 PHKT2 由本实验室保存，大肠杆菌购自ABM生物公司，供试榆蓝叶甲由浙江农林大学生物农药高效制备技术国家地方联合工程实验室提供。所有的细菌菌株都于$3 7 ^ { \\circ } \\mathrm { C }$ 培养于LuriaBertani（LB）中。鼠单克隆抗 $6 \\times \\mathrm { H I S ~ I g G }$ 抗体和羊抗鼠IgG（辣根过氧化物酶标记）购买自生工生物有限公司。质粒及DNA胶回收试剂盒购自全式金生物技术有限公司,Tryptone 和Yeast extract 购自生工生物有限公司,引物合成、高保真聚合酶,DNA Marker等常规生化分子试剂购自大连宝生物工程有限公司，甲氧苄啶抗生素（TP）购自南京博巧生物科技有限公司,所有其他试剂为分析级（除非另有说明）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2Cry3Aa的人工合成及优化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cry3Aa的密码子序列来自于苏云金芽孢杆菌Bacillusthuringiensis[GenBank ID:M84650.1]，加上N末端 $6 \\times \\mathrm { H i s }$ 标签，根据大肠杆菌密码子偏好进行优化[14]，通过DNAwork软件进行引物设计，合成 DNA(https://hpcwebapps.cit.nih.gov/cgi-bin/dnaworks)。Cry3Aa 核苷酸序列利用引物通过重叠PCR技术拼接而成[15].",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3重组质粒构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了实现T7启动子在JK-SH007中对 $C r y 3 A a$ 基因的表达，首先将T7RNA聚合酶基因利用同源重组的方式连接到PHKT2载体上 $[ 1 6 \\cdot ~ 1 7 ]$ ，载体骨架片段通过反向的PCR 技术从PHKT2 中扩增而来[18]，引物为pHKT2F1/R1(见表1)，T7RNA 聚合酶[产品编号：P001509]通过引物T7RNApolF/R(见表1)从大肠杆菌BL21(DE3）扩增得到，然后将扩增的目的片段和载体按照1:3（ $1 0 0 ~ \\mathrm { { n g } }$ 载体： $3 0 0 \\mathrm { n g } \\mathrm { D N A }$ 片段）的比例混合[19]，然后转移到大肠杆菌XL-10Gold 感受态细胞中，重组质粒通过测序确定为pHKT2-T7RNApol.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "吡咯伯克霍尔德氏菌 $B .$ pyrrocinia-Cry3Aa表达载体质粒构建方法同上，利用引物Cry3aF/R、pHKT2F2/R2（见表1)分别扩增目的片段和载体片段，其中pBluescript $\\mathrm { S K } ( + )$ 载体利用反向PCR扩增出T7promoter- $6 \\times$ his-Cry3Aa-T7telDNA结构,重组质粒通过测序鉴定确定",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为 pHKT2-Cry3Aa.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1本研究中的引物序列",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e8223d35b5b5dec30da05daafb420b813b4f941cd6e566e6d69363e26b2c2400.jpg",
+        "table_caption": [
+            "Table 1 Oligonucleotides used in this study "
+        ],
+        "table_footnote": [
+            "a 图中标注下滑线的序列分别为pHKT2 和 pHKT2-T7RNApol表达载体的同源臂 a The italic leter underline indicates homology arms to the vector backbone pHKT2 and pHKT2-T7RNApol, respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td>Primers</td><td>Primer sequences a (5'-3')</td></tr><tr><td>T7RNApolF</td><td>GTTTTAACTGAAACAAACTGGAGACTCATA ATGAACACGATTAACATCGCTAAGA</td></tr><tr><td>T7RNApolR</td><td>ATAAGCTCTTAATTAAGAATTCTAATGATTTACGCGAACGCGAAGTCCGACTCT</td></tr><tr><td>pHKT2F1</td><td>GAATTCTTAATTAAGAGCTTATCGATACC</td></tr><tr><td>pHKT2R1</td><td>TATGAGTCTCCAGTTTGTTTCAGTTAA</td></tr><tr><td>Cry3AaF</td><td>CGTTGGCCGATTCATTAATGCAGCTCGATCCCGCGAAATTAATACGACTCAC</td></tr><tr><td>Cry3AaR</td><td>CCAATACGCAAACCGCCCTTTCAGCAAAAAACCCCTCAAGACC</td></tr><tr><td> pHKT2F2</td><td>GGCGGTTTGCGTATTGG</td></tr><tr><td>pHKT2R2</td><td>CGTTGGCCGATTCATTAATGCAGCT</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4Cry3Aa基因在吡咯伯克霍尔德氏菌 $B .$ pyrrociniaJK-SH007中的表达",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将重组 $\\mathsf { p H K T 2 - } C r y 3 A a$ 质粒导入 $B _ { \\cdot }$ ：pyrrociniaJK-SH007感受态细胞，能后涂布浓度为${ 5 0 } \\mathrm { u g / m L }$ 含甲氧苄啶抗生素的LB抗性平板上， $3 0 \\ \\mathrm { ^ { \\circ } C }$ 过夜培养.将新重组菌株命名为 $B .$ （2pyrrocinia JK-SH007(pHKT2-Cry3Aa).Cry3Aa 蛋白表达通过将重组菌接于LB 培养基，采用$3 0 \\ \\mathrm { ^ { \\circ } C }$ ， $2 2 0 \\mathrm { r / m i n }$ 摇培，待 $\\mathrm { O D } 6 0 0 { = } 0 . 8$ 时,加终浓度为0.1mmol/LIPTG,并迅速升温到 $4 2 \\ { ^ \\circ } \\mathrm { C }$ ，继续培养 $\\boldsymbol { 4 } \\mathrm { h }$ ，能后取工程菌液( $( 6 0 0 0 \\times \\mathrm { g } ,$ 10 min)离心，再将沉淀重悬于PBS（ $\\mathrm { 1 0 0 m m o l / L }$ ,pH7.8)缓冲液，利用超声波破碎 $( 1 0 ^ { \\circ } \\mathrm { C } , 1 2 0 \\mathrm { w } , 1 5 \\mathrm { m i n } )$ ，离心收集细胞裂解液进行 SDS-PAGE 分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5SDS-PAGE和蛋白浓度测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蛋白样品采用 $4 \\% - 1 2 \\%$ （w/v）SDS聚丙烯酰胺凝胶电泳（SDS-PAGE）分离。通过考马斯亮蓝R-250 染色检测目标蛋白条带。用Bradford蛋白浓度试剂盒测定蛋白质浓度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6蛋白质印迹Western-blot ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蛋白质样品在 $4 \\% - 1 2 \\%$ Tris-glycine凝胶分离，然后转移到硝酸纤维素膜，膜浸泡在10毫升TBST（20mmol/L Tris-HCl，150mol/LMnacl, $0 . 0 5 \\%$ 吐温20）和 $10 \\%$ （ $\\mathbf { \\bar { \\Psi } } _ { \\mathbf { W } } / \\mathbf { \\bar { V } } .$ ）脱脂奶中，室温1h。Western blot分析采用了一抗（单克隆抗 $\\mathord { - } 6 \\times \\mathrm { H i s } \\ \\mathrm { I g G }$ 抗体，1:3000 稀释）和二抗羊抗鼠IgG-HRP（辣根过氧化物酶标记，1:5000 稀释）。采用ECL发光液检测底物；信号经X光压片、洗片记录。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.7异源蛋白表达的质谱分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将SDS-PAGE电泳凝胶、经硝酸银染色，然后切下目标条带， $3 7 ^ { \\circ } \\mathrm { C }$ 与胰蛋白酶消化过夜，蛋白质采用基质辅助激光解析飞行时间质谱(UItraFlexIIMALDI-TOF/TOF质谱)正离子反射模式(布鲁克·道尔顿公司）鉴定。利用 Biotools 软件分析肽段分子量指纹图谱，同时采用mascot 软件在NCBI搜寻非冗余蛋白质库进行比对鉴定(http://www.matrixscience.com)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.8生物毒杀活性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生物毒性测定采用发酵液浸泡过的榆树叶对2龄榆蓝叶甲幼虫进行饲喂。 $B _ { \\cdot }$ pyrrociniaJK-SH007(pHKT2-Cry3Aa)诱导蛋白表达方法如前1.4 所述。 $B$ pyrrociniaJK-SH007(pHKT2-Cry3Aa)致死中浓度(LC50）计算方法如 Sharma所描述[20]，通过采用五个梯度稀释的发酵工程菌液浸泡同样大小的榆树叶 $1 5 \\mathrm { m i n } ^ { [ 2 1 ] }$ ，然后 $2 0 ^ { \\circ } \\mathrm { C }$ 风干 $3 0 \\mathrm { m i n }$ 转移到装有灭菌滤纸的培养皿内，再将2龄的榆蓝叶甲幼虫放入皿中孵育，放于 $2 5 ^ { \\circ } \\mathrm { C }$ 恒温箱中。第二天记录幼虫的死亡率，每个实验设计三个重复，同时利用B.pyrrociniaJK-SH007(pHKT2-T7RNApol)作为对照组。进一步分析榆蓝叶甲幼虫生存曲线，首先将JK-SH007以及工程菌 $\\mathrm { J K - S H 0 0 7 ( p H K T 2 - } C r y 3 A a )$ 菌液 $( 6 0 0 0 \\times \\mathrm { g } , 1 0 \\operatorname* { m i n } )$ 离心，取中位浓度0.83$\\mathbf { g } / \\mathrm { L }$ 湿重菌重悬于PBS（100 mmol/L, $\\mathfrak { p H } 7 . 8 )$ 缓冲液，再将榆树叶浸泡（如前所述）。死亡率采用每隔8h 记录一次，直到96h 调查死亡结果[2]，最后利用Graphpad Prism6软件绘制榆蓝叶甲幼虫生存率曲线。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结论与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1Cry3Aa基因合成与优化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cry3Aa基因序列全长1794bp,编码蛋白大小为 $6 7 . 7 \\mathrm { k D a }$ ．本研究根据大肠杆菌密码子偏好对Cry3Aa进行优化，其中包括一个 $6 { \\times } \\mathrm { H i s }$ 标签。通过设计54条引物(见表2)，实验通过重叠 PCR 技术[23、4]合成了 T7 启动子- $6 \\times$ his-Cry3Aa-T7 终止子的DNA 结构。将此结构克隆到pBluescriptSK（+）载体上，并导入大肠杆菌菌株BL21（DE3）时， $C r y 3 A a$ 基因转录可以被T7启动子及终止子启动和终止。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9145bf3f0e5f1106d6267d6572945d3dd7547e66d300deda1feaa14b997234d8.jpg",
+        "table_caption": [
+            "表2用于T7启动子 $\\displaystyle - 6 x$ his 标签-Cry3Aa-T7终止子DNA合成的引物序列Table2 Oligonucleotides Used forT7 promoter- $\\cdot 6 \\times$ his-Cry3Aa-T7terDNA synthesis"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Oligonucleotide</td><td>Oligonucleotide sequences (5'-3\")</td></tr><tr><td>Cry3Aa-1</td><td>CGATCCCGCGAAATTAATACGACTCACTATAGGGGAATTGTGAGCGGA</td></tr><tr><td>Cry3Aa-2</td><td>TCTTAAAGTTAAACAAAATTATTTCTAGAGGGGAATTGTTATCCGCTCACAATTCCCCTA</td></tr><tr><td>Cry3Aa-3</td><td>CCTCTAGAAATAATTTTGTTTAACTTTAAGAAGGAGATATACCATGGGCAGCAGCCATCA</td></tr><tr><td>Cry3Aa-4</td><td>GTGCGAACCCCGAGGTACCAGCCCGCTGCTATGATGGTGGTGATGATGGCTGCTGCCCAT</td></tr><tr><td>Cry3Aa-5</td><td>TACCTCGGGGTTCGCACATGGCGAGCATGACCGGTGGCCAGCAAATGGGACGCGGAAGTA</td></tr><tr><td>Cry3Aa-6</td><td>GGTTGAGGAATCCAGCGCTTCGGTATTGTTATCCGCGGTCATACTTCCGCGTCCCATTTG</td></tr><tr><td>Cry3Aa-7</td><td>GCGCTGGATTCCTCAACCACGAAAGATGTTATTCAAAAAGGCATTTCAGTGGTGGGCGAT</td></tr><tr><td>Cry3Aa-8</td><td>ACCAAAGCACCGCCAAAAGGAAACCCGACGACGCCAAGCAGATCGCCCACCACTGAAATG</td></tr><tr><td>Cry3Aa-9</td><td>TTTTGGCGGTGCTTTGGTGTCGTTTTACACCAATTTCCTTAATACCATCTGGCCGAGCGA</td></tr><tr><td>Cry3Aa-10</td><td>CCATAAGGGCCTCCACCTGCTCCATAAACGCCTTCCACGGATCTTCGCTCGGCCAGATGG</td></tr><tr><td>Cry3Aa-11</td><td>AGGTGGAGGCCCTTATGGATCAGAAAATCGCCGATTATGCCAAGAATAAGGCTCTGGCGG</td></tr><tr><td>Cry3Aa-12</td><td>GCTCACGTAATCCTCGACGTTATTTTGCAGACCTTGCAGTTCCGCCAGAGCCTTATTCTT</td></tr><tr><td>Cry3Aa-13</td><td>CGTCGAGGATTACGTGAGCGCACTGTCGAGTTGGCAGAAAAACCCAGCCGCTCCTTTCCG</td></tr><tr><td>Cry3Aa-14</td><td>CTTGGCTGAACAGTTCACGAATACGCCCCTGGCTGTGCGGGTTGCGGAAAGGAGCGGCTG</td></tr><tr><td>Cry3Aa-15</td><td>TCGTGAACTGTTCAGCCAAGCCGAAAGCCACTTTCGTAATAGCATGCCGTCGTTTGCGAT</td></tr><tr><td>Cry3Aa-16</td><td>GGCCTGCGCATAGGTGGTCAGGAACAGGACTTCATAACCGCTAATCGCAAACGACGGCAT</td></tr><tr><td>Cry3Aa-17</td><td>CACCTATGCGCAGGCCGCAAATACCCATCTTTTCCTGCTTAAGGACGCCCAGATCTATGG</td></tr><tr><td>Cry3Aa-18</td><td>AAAATTCCGCGATATCCTCTTTTTCATAGCCCCATTCTTCACCATAGATCTGGGCGTCCT</td></tr><tr><td>Cry3Aa-19</td><td>AAAAGAGGATATCGCGGAATTTTACAAGCGTCAATTAAAGCTTACCCAGGAATATACCGA</td></tr><tr><td>Cry3Aa-20</td><td>AACTTATCCAGGCCAACGTTATACCATTTCACGCAATGGTCGGTATATTCCTGGGTAAGC</td></tr><tr><td>Cry3Aa-21</td><td>TAACGTTGGCCTGGATAAGTTACGTGGCAGCTCCTACGAATCTTGGGTGAATTTCAATCG</td></tr><tr><td>Cry3Aa-22</td><td>CAGATCCAGCACGGTTAAGGTCATCTCCCGACGGTAACGATTGAAATTCACCCAAGATTC</td></tr><tr><td>Cry3Aa-23</td><td>CCTTAACCGTGCTGGATCTGATTGCGCTGTTTCCCCTGTATGATGTCCGTCTGTATCCGA</td></tr><tr><td>Cry3Aa-24</td><td>CGGTCAGCACATCACGGGTCAGTTCGGTTTTCACTTCCTTCGGATACAGACGGACATCAT</td></tr><tr><td>Cry3Aa-25</td><td>CCGTGATGTGCTGACCGATCCGATTGTTGGCGTGAACAACCTGCGCGGCTACGGAACCAC</td></tr><tr><td>Cry3Aa-26</td><td>CAAACAGATGCGGTTTACGAATATAGTTTTCTATATTACTAAAGGTGGTTCCGTAGCCGC</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7d86e134d43c985f1bd6af90c3e8cb020f4568283e5de88361a88e6d09f1127.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>TTCGTAAACCGCATCTGTTTGATTATCTGCATCGCATTCAATTTCATACGCGGTTTCAGC</td></tr><tr><td>Cry3Aa-27</td></tr><tr><td>Cry3Aa-28 CGGACCAATAGTTAAACGAGTCATTGCCGTAATACCCGGGCTGAAACCGCGTATGAAATT</td></tr><tr><td>Cry3Aa-29 GACTCGTTTAACTATTGGTCCGGCAATTATGTGAGCACCCGTCCGAGCATTGGCTCTAAT</td></tr><tr><td>Cry3Aa-30 CGCTGCTCTTATTCCCATAAAATGGGCTTGTGATTATATCATTAGAGCCAATGCTCGGAC</td></tr><tr><td>Cry3Aa-31 ATTTTATGGGAATAAGAGCAGCGAGCCGGTGCAGAATTTAGAATTCAACGGCGAAAAAGT</td></tr><tr><td>Cry3Aa-32 GGCCACACCGCAAGATTGGTATTCGCGACAGCACGATATACTTTTTCGCCGTTGAATTCT</td></tr><tr><td>Cry3Aa-33 AATCTTGCGGTGTGGCCATCGGCGGTGTACAGCGGCGTGACCAAAGTGGAGTTTAGCCAG</td></tr><tr><td>Cry3Aa-34 GTAGGTTTGGGTGCTTGCTTCGTCGGTCTGGTCATTATACTGGCTAAACTCCACTTTGGT</td></tr><tr><td>Cry3Aa-35 AGCAAGCACCCAAACCTACGATAGCAAACGTAACGTGGGCGCAGTGAGCTGGGACTCTAT</td></tr><tr><td>Cry3Aa-36 TTCCAGCGGTTCATCGGTGGTCTCAGGTGGCAACTGATCAATAGAGTCCCAGCTCACTGC</td></tr><tr><td>Cry3Aa-37 ACCGATGAACCGCTGGAAAAAGGGTACTCACACCAGCTTAACTACGTTATGTGTTTCTTA</td></tr><tr><td>Cry3Aa-38 TAAGGACCGGGATGGTGCCGCGAGAACCCTGCATTAAGAAACACATAACGTAGTTAAGCT</td></tr><tr><td>Cry3Aa-39 GCACCATCCCGGTCCTTACATGGACCCATAAGTCAGTTGATTTCTTTAACATGATTGACA</td></tr><tr><td>Cry3Aa-40 GCTTTGACCAACGGCAGCTGGGTGATCTTCTTGCTGTCAATCATGTTAAAGAAATCAACT</td></tr><tr><td>Cry3Aa-41 GCTGCCGTTGGTCAAAGCCTATAAGCTGCAGAGCGGAGCGAGCGTGGTGGCTGGACCACG</td></tr><tr><td>Cry3Aa-42 CGCTGCCATTTTCAGTACACTGTATTATGTCTCCTCCGGTGAAACGTGGTCCAGCCACCA</td></tr><tr><td>Cry3Aa-43 GTGTACTGAAAATGGCAGCGCAGCGACCATCTATGTGACCCCGGATGTGTCTTATAGCCA</td></tr><tr><td>Cry3Aa-44 CTGGGAGGTGCTCGCGTAATGAATACGTGCCCGGTACTTCTGGCTATAAGACACATCCGG</td></tr><tr><td>Cry3Aa-45 CGCGAGCACCTCCCAGATTACCTTTACTCTGAGCCTGGACGGTGCGCCGTTCAATCAATA</td></tr><tr><td>Cry3Aa-46 AGGTCAGGGTATCGCCTTTGTTAATGGTTTTATCAAAGTAGTATTGATTGAACGGCGCAC</td></tr><tr><td>Cry3Aa-47 AAAGGCGATACCCTGACCTATAACTCTTTTAACCTGGCATCCTTCTCGACTCCCTTTGAA</td></tr><tr><td>Cry3Aa-48 CAGACCGGTTACGCCAATTTGCAGGTTATTTCCGCTCAGTTCAAAGGGAGTCGAGAAGGA</td></tr><tr><td>Cry3Aa-49 AATTGGCGTAACCGGTCTGTCTGCTGGCGATAAAGTGTATATAGATAAAATCGAGTTCAT</td></tr><tr><td>Cry3Aa-50 TGCGGCCGCAAGCTTTCACTAATTCACGGGAATGAACTCGATTTTATCTATATACACTTT</td></tr><tr><td>Cry3Aa-51 AAGCTTGCGGCCGCACTCGAGCACCACCACCACCACCACTGAGATCCGGCTGCTAACAAA</td></tr><tr><td></td></tr><tr><td>Cry3Aa-52 GCTCAGCGGTGGCAGCAGCCAACTCAGCTTCCTTTCGGGCTTTGTTAGCAGCCGGATCTC Cry3Aa-53 CTGCCACCGCTGAGCAATAACTAGCATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGG</td></tr><tr><td>Cry3Aa-54 CTTTCAGCAAAAAACCCCTCAAGACCCGTTTAGAG</td></tr><tr><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2构建Cry3A蛋白表达载体pHKT2-Cry3Aa",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，通过反向PCR以及体内同源重组技术构建重组质粒 pHKT2-T7RNApol．方法通过将 $3 . 0 \\mathrm { k b }$ 的 T7RNA 聚合酶基因插入到pHKT2 载体骨架，得到pHKT2-T7RNApol（见图1).T7RNA 聚合酶基因转录依赖prpL启动子，实验利用一个25bp以及17bp的同源臂将一个$2 . 0 \\mathrm { k b }$ 大小的T7启动子-Cry3Aa-T7终止子基因克隆进pHKT2-T7RNApol中。重组菌通过菌落PCR筛选，将带有 $C r y 3 A a$ 基因以及T7启动子和终止子序列的菌株送上海生工测序鉴定，确定为 pHKT2-Cry3Aa(见图 2)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A.T7 RNA聚合酶和phkt2线性化载体扩增电泳分析M:>-EcoT14I分子标记；条带1:T7 RNA 聚合酶；条带 2:pHKT2线性化载体. B.pHKT2-T7RNApOl质粒图谱   \nTp 抗性;MOB，基因转移区;rep，复制调节;rrnBT转录终止子;prp入噬菌体转录启动子，atpE，翻译起始 区;T7 RNA pOl, T7 D RNA 聚合酶 Fig.1 Construction of the B.pyrrociniaT7 expression vector pHKT2-T7RNApol. A.The electrophoresis analysis of T7 RNApol and linear vector of pHKT2. M: Molecular weight marker; Lane 1: T7 RNA pol; Lane 2: linear vector of pHKT2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "B.The physic map of plasmid pHKT2- T7RNApol.Tp, dihydrofolate reductase; MOB, gene for plasmid mobilization; rep, gene for plasmid replication; rrnBT, transcriptional terminator; prpL, lambda phage transcriptional promoters; atpE, translation initiation region; T7 RNA pol, T7 DNA directed RNA polymerase. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/61d7dd25feb2ebb07e0f24876141633737f7ce79a91517c176745adf1be329ef.jpg",
+        "img_caption": [
+            "图 $2 \\mathsf { p H K T 2 - } C r y 3 A a$ 表达载体的构建"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A.T7启动子- $C r y 3 A o - 7 7$ 终止子以及pHKT2-T7RNA线性化载体的电泳分析",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M:入-EcoT14I分子标记；条带1:T7启动子- $C r y 3 A a \\mathrm { - } \\nabla 7$ 终止子；条带2.pHKT2-T7RNA聚合酶线性化载体 B.pHKT2-Cry3Aa质粒图谱 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Generation of the Cry3AalCP expression vector pHKT2-Cry3Aa. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A. The electrophoresis analysis of T7 Cry3Aa and linear vector of pHKT2- T7RNApol.   \nM: Molecular weight marker; Lane 1: T7P-Cry3Aa- T7T; Lane 2.linear vector of pHKT2- T7RNApol. B.The physic map of plasmid pHKT2- Cry3Aa. PT7,T7 RNA polymerase bingding promoter;   \n$C r y 3 A a ,$ gene encoding Bacillus thuringiensis tenebrionis $C r y 3 A a$ crystal toxin protein; T7 ter, T7 RNA polymerase transcriptional terminator. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba41fea4cc940f55c707cce6888b5099f7fecd0288ffb4dd9fc732006ecd3e39.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3Cry3Aa杀虫蛋白在B.pyrrociniastrainJK-SH007中的表达",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过电转将 pHKT2-Cry3Aa 质粒导入B.pyrrocinia strain JK-SH007。重组菌通过 DNA提取及PCR验证(见图3).将阳性克隆子放于LB平板上进行传代培养，待其长到对数期，将工程菌转接诱导培养4小时以便产生蛋白。将 ${ 5 } \\mathrm { m L }$ 培养菌液等分进行 SDS-PAGE和 Westernblot蛋白免疫鉴定分析.结果清晰显示工程菌 $\\mathrm { P H K T } 2  – C r y 3 A a$ 在野生吡咯伯克霍尔德氏菌中成功表达分子量为 $7 0 \\mathrm { { k D a } }$ 的蛋白 (见图4).将此条带割胶，进一步通过基质辅助激光解吸离子飞行质谱分析，确定其为 $C r y 3 A a$ 杀虫蛋白.使用Bradford 法对蛋白定量，获得约 $3 . 0 5 ~ \\mathrm { g / L }$ 的总蛋白浓度，通过定量计算得到在诱导蛋白表达中，诱导表达的Cry3Aa 杀虫蛋白约占$1 5 . 6 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图3B.pyrrociniaJK-SH007 (pHKT2-Cry3Aa)重组菌的PCR鉴定",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A．吡咯伯克霍尔德氏菌JK-SHOO7重组子DNA提取的琼脂糖凝胶电泳 N:pHKT2-T7RNA聚合酶质粒DNA;   \nB.B.pyrrocinia JK-SH007(pHKT2-Cry3Aa) 重组子的 PCR 验证.N: PHKT2-T7RNApol 阴性对照；条带一 到八为阳性重组子Cry3a的PCR验证 Fig.3 ldentification of the recombinant B.pyrrocinia strain JK-SH007 by PCR screening. A. Agarose gel electrophoresis of plasmid DNA extracted from B.pyrrocinia JK-SH007. M:   \nMolecular weight marker; N: pHKT2-T7RNApol DNA isolated from B. pyrrocinia JK-SH007; Lane 1to 8: pHKT2-Cry3Aa DNA isolated from 8 independent B.pyrrocinia JK-SH007 colonies.   \nB. Identification of recombinant B.pyrrociniastrain JK-SH007 by PCR assay.N: negative control   \nUsing PHKT2-T7RNApol template; Lane 1 to 8 were positive recombinants, PCR amplification Used primers Cry3aF/R. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b2f13c99e7008f75dd2c41395508bfc56067f363b15610cc15c293562fc5b05.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/136177b0a26cbd601d13cb3df1987a5f94ad04d39a0a591b55eefe57f2666bb3.jpg",
+        "img_caption": [
+            "图4B.pyrrociniaJK-SH007表达 $C r y 3 A a$ 融合蛋白SDS-PAGE和蛋白质印迹分析M:蛋白分子标记；条 带1:B.pyrrocinia JK-SH007(pHKT2-T7RNApol） 的全蛋白图谱；条带2:B.pyrrocinia JK-SH007(pHKT2-Cry3Aa)的全蛋白图谱.箭头指的为 $C r y 3 A a$ (about $7 0 \\models \\mathsf { D q } )$ ： Fig.4 SDS-PAGE and western blotting analysis of $C r y 3 A a$ fusion protein expressed in B.pyrrocinia strain JK-SHo07 M: Protein molecular mass markers (The corresponding sizes are indicated. Lane 1: the total cellysates from B.pyrrocinia strain JK-SH007(pHKT2-T7RNApol) induced by $4 2 ^ { \\circ } \\mathsf { C }$ temperature shifting; Lane 2: the total cell lysates from B. pyrrocinia JK-SH007(pHKT2- Cry3Aa) induced by $4 2 ^ { \\circ } \\mathsf { C }$ temperature shifting.The arrow indicates $C r y 3 A a$ (about 70 kDa). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4B. pyrrocinia JK-SH007(pHKT2-Cry3Aa)中 $C r y 3 A a$ 杀虫蛋白生物活性评价",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为检验工程菌JK-SH007(pHKT2-Cry3Aa)毒杀二龄榆蓝叶甲幼虫活性，实验选取了$0 . 2 1 { - } 3 . 3 2 ~ \\mathrm { g / L }$ 五个不同梯度湿重的发酵菌液浸泡榆树叶,每个稀释浓度接种15 条二龄榆蓝叶甲幼虫，实验做三个重复。结果发现对照组 $B .$ pyrrocinia JK-SH007(pHKT2-T7RNApol)死亡率为0,而相同的剂量重组菌 $B _ { \\cdot }$ ：pyrrociniaJK-SH007(pHKT2-Cry3Aa）对榆蓝叶甲幼虫致死效果明显，尤其当浓度为 $3 . 3 2 { \\mathrm { g / L } }$ 时， $B _ { \\cdot }$ pyrrociniaJK-SH007(pHKT2-Cry3Aa)工程菌对榆蓝叶甲幼虫致死率高达 $8 8 . 8 9 \\%$ 。随着工程菌浓度的稀释，杀虫活性也表现出下降 (见图5)。通过计算得出， $B .$ pyrrocinia JK-SH007(pHKT2-Cry3Aa)的致死中浓度 LC50 为 0.63(0.48-0.82)$\\mathrm { g / L } ($ 见表3).同时实验对比了工程菌 $B .$ pyrrocinia JK-SH007(pHKT2-Cry3Aa)与野生菌 $B$ pyrrociniaJK-SH007在中位发酵浓度为 $0 . 8 3 ~ \\mathrm { g / L }$ 时对二龄榆蓝叶甲幼虫的存活周期（见图6).以上结果证明工程菌 $B _ { \\cdot }$ pyrrocinia JK-SH007(pHKT2-Cry3Aa)对榆蓝叶甲幼虫具有显著杀虫活性[24]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图5B.pyrocinia JK-SH007(pHKT2-Cry3Aa)发酵液经PBS (100mmol/L,pH7.8)缓冲液稀释后不同梯度 对榆蓝叶甲幼虫的致死率（实验使用三个重复），误差条为标准差SD Fig.5 Lethal rate of Pyrrhalta aenescenslarvae using different doses of induced B.pyrrocinia JK-SH007(pHKT2-Cry3Aa).Bacteria were diluted with PBS (100 mmol/L,pH 7.8). Measurements were performed in triplicates.Errorbars denote SD. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/21790f2b47c5b520a98b24c5bee0fddba31c98d6252c30ddec12e829201e2292.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/40985683020448dc5d7b53c4bc5e09232fe68c9eea515d840776b4509a28a2c9.jpg",
+        "table_caption": [
+            "表3.B.pyrrociniaJK-SH007 (pHKT2-Cry3Aa)对榆蓝叶甲幼虫的毒杀活性",
+            "Table 1.Effect of B.pyrrocinia JK-SH007 (pHKT2-Cry3Aa) toxicity on Pyrrhalta aenescens larvae. ",
+            "图6B.pyrrociniaJK-SH007重组菌液对榆蓝叶甲幼虫的毒杀存活率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Treatment</td><td>Insect</td><td>No.of larvae</td><td>LC50 (95% confidence limit)</td><td>Slope±SE</td><td>XxX</td><td>toxicity regression equations</td></tr><tr><td>B.pyrrocinia JK-SH007 (pHKT2-Cry3Aa)</td><td>Pyrrhalta</td><td>270</td><td>0.63(0.48-0.82)</td><td>1.62±0.09</td><td>1.07</td><td>Y=5.32+1.62X</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "取中位浓度 $0 . 8 3 { \\tt g } / { \\tt L }$ 湿重的B. $p$ yrrociniaJK-SH007 $( \\mathsf { p } \\mathsf { H K } \\mathsf { T } \\mathsf { 2 } \\ – C r y s \\ A \\sigma )$ 工程菌及 B.pyrrocinia JK-SH007(阴性对照) $( \\mathsf { n } = 1 5 )$ ：   \nFig.6 Characterization of recombinant B.pyrrocinia JK-SH007 living bacteria on the survival rates   \nof P.aenescenslarvae.Groups of P.aenescenslarvae were treated with $0 . 8 3 { \\ : } \\mathsf { g } /$ Lwet weight $B$ pyrrocinia JK-SH007 (pHKT2-Cry3Aa) or B.pyrrocinia JK-SH007(Control) $( \\mathsf { n } = 1 5 )$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/37dc575b0e7ec82e4a9279b5adea63815fbc1e55f1809c1a81e32d6f39ae3a0e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "榆树是多种天然林的重要组成部分。在我国，许多品种被用作道路观赏、花园装饰、土壤保护而广泛种植。然而，近几十年，许多成年榆树死于虫害。对此，许多森林保护者和研究人员在这一森林病害的防治上做了大量的工作，并开发出许多用于昆虫防治的化学和生物制剂。然而，许多化学杀虫剂，如有机磷农药、有机氯农药，已被证明对环境和人类健康造成伤害。为了对环境和人类健康的影响更加友好，生物农药被广泛使用，其中苏云金芽孢杆菌被最广泛使用，因Bacillus thuringiensis 的孢子形成过程中，能够产生多种杀虫成分 $[ 2 0 \\cdot 2 5 ]$ 其中Cry3Aa 杀虫蛋白被证明对鞘翅目害虫具有最高的特异性细胞毒性。为了达到生物农药的高产以及对鞘翅目甲虫处理过程的优化，本研究合成优化了Cry3Aa 基因，同时采用T7表达系统来表达 $C r y 3 A a$ 杀虫蛋白。此次实验 $C r y 3 A a$ 的表达具有一个相对较高的表达水平（204号 $( 0 . 4 8 ~ \\mathrm { g / L }$ ，总蛋白的 $1 5 . 6 \\%$ )。根据以往的研究报道，当T7启动子表达基因时，几乎所有的细胞资源都用来参与靶蛋白的表达，这也可能导致此次外源基因的高效表达．此次研究首次报道利用T7表达系统高效表达外源基因 $C r y 3 A$ 杀虫蛋白在野生B.pyrrocinia JK-SH007内生菌中。成功使具有抑菌功效的植物内生菌吡咯伯克霍尔德氏菌JK-SH007表达了Cry3A 蛋白。通过生测实验，工程菌 $B .$ pyrrocinia JK-SH007(pHKT2-Cry3Aa)被证明对榆树甲虫幼虫的控制是有效的。此次实验建立了以吡咯伯克霍尔德氏菌为宿主的苏云金芽孢杆菌杀虫蛋白的表达系统，将有助于我们开发环保的生物农药，具有相当的生防潜力[26]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Schnepe E,Crickmore N,Lereculus D.Bacillus thuringiensis and its pesticidal crystal proteins[J].Microbiol.Mol.Biol,Rev,1998,62:775-806.   \n[2]Tabashnik BE, Carriere Y, Dennehy TJ,et al.Insect resistance to transgenic Bt crops:lessons from the laboratory and field[J]. J.Econ Entomol,2003,96:1031-1038.   \n[3]Seker V,Thompson D A, Maroney M J,et al. Proc Natl Acad Sci UAS.1987.84:7036 -7040   \n[4]Whiteley,H.R., Schnepf,H.E.The molecular biology of parasporal crystal body formation in Bacillus thuringiensis[J] Annual Review of Microbiology, 1986,40(1), 549-76.   \n[5]Herrnstadt C, Gilroy TE, Sobieski DA, et al. Nucleotide sequence and deduced amino acid sequence of a coleopteran-active delta-endotoxin gene from Bacillus thuringiensis subsp.san diego[J]. Gene, 1987, 57(1):37-46.   \n[6]Park Y,Abdullah MA, Taylor MD,et al.Enhancement of Bacillus thuringiensis Cry3Aa and Cry3Bb toxicities to coleopteran larvae by a toxin-binding fragment of an insect cadherin[J].Appl Environ Microbiol,2009,75:3086-3092.   \n[7]Park Y,Hua G,Taylor MD,et al.A coleopteran cadherin fragment synergizes toxicity of Bacillus thuringiensis toxins $C r y 3 A a , C r y 3 B b$ ,and $C r y 8 C a$ against lesser mealworm, Alphitobius diaperinus (Coleoptera: Tenebrionidae)[J].J. Invertebr Pathol, 2014,123:1-5.   \n[8]Hua G, Park Y,Adang MJ.Cadherin Adcad1 in Alphitobius diaperinus larvae is a receptor of   \n$C r y 3 B b$ toxin from Bacillus thuringiensis[J].Insect Biochem Mol Biol,2014,45:11-17.   \n[9]N Crickmore,DR Zeugler,JFeitelson,et al.Revision of the Nomenclature for the Bacillus thuringiensis Pesticidal Crystal Progeins[J]. Microbilogy and Molecular Biology Reviews,1998,807-813.   \n[10] Abbott WS.A method of computing the effectiveness of an insecticide[J]. Journal of the American Mosquito Control Association, 1987,3(2):302-3.   \n[11]Nicholas D, Stephen E.Transgenic. Plant and Insect Pests Bio-control.USA[M]. JohnWiley &Sons   \nPress,1997,1-18.   \n[12] 任嘉红，班虎栋，叶建仁,等．吡咯伯克霍尔德氏菌 JK-SH007的发酵条件及其对杨树溃疡病 的防治效果[J]．中国生物防治学报,2010,26(3):300-306. Ren JH,Ban HD,Ye JR,et al.Fermentation Conditions of Antagonistic Strain Burkholderia pyrrocinia JK-SHo07and Its Control Effect on Poplar Canker Disease[J].chinese Journal of biological control), 2010, 26(3):300-306.   \n[13]Zhao TH, Cai Q N,Luo K, et al. Research on insect-resistant cotton endophytic bacterium.In:Progress of Research on Chinese Plant Protection[J].Beijing :China Scientech Press,1996.684.   \n[14] 张杰，宋福平．对鞘翅目害虫高毒力Bt基因cry3Aa7的分离克隆及表达研究[J]．中国农业科 学,2003,21:1493-1497 Zhang J, Song FP,Li CY,et al. Cloning and Expression of cry3Aa7 Gene from Bacillus thuringiensis Strain Toxic to Coleopteran Pests[J]. Scientia Agricultura Sinica),2002,35(6):650-653.   \n[15] 杨波，张绍勇，陈振,等．新化合物天维菌素的杀虫杀螨活性[J]．农药学学报,2016,18(1): 124-129. Yang B,Zhang SY,Chen Z,et al. Insecticidal and acaricidal activity of novel compound tenvermectin[J]. Chinese Journal of Pesticide Science,2016,18(1): 124-129.   \n[16]Zhu D,Zhong X,Tan R, et al.High-throughput cloning of human liver complete open reading frames using homologous recombination in Escherichia coli[J].Anal Biochem, 2010,397(2):162-167.   \n[17]Shivakumar AG.Vegetative expression of the S-endotoxin genes of Bacillus thuringiensis subsp.kustaki in Bacillus subtilis[J].J.Bacteriol,1986,166:194-204.   \n[18]Tomlin, K.L.,S.R. Clark, et al.Green and red fluorescent protein vectors for use in biofilm studies   \nof the intrinsically resistant Burkholderia cepacia complex[J]. J.Microbiol.Methods,2004,57:95-106.   \n[19]Liu Y, Zhang L, Zhang Y,et al.Functional analysis of rnai suppressor p19 on improving baculovirus yield and transgene expression in sf 9 cels[J].Biotechnology Letters, 2015,37(11), 1-8.   \n[20]Li JJ, Zhang G, Yu JH,et al.Molecular cloning and characterization of caffeic acid 3-o-met   \nhyltransferase from the rhizome of ligusticum chuanxiong[J].Biotechnology Leters, 2015,37(11),2   \n295-2302.   \n[21] 熊海燕，王为国，曾东方,等．介绍测量菌液浓度的一种方法[J]．食品信息与技术, 2004(3):59-59. Xiong HY,Wang WG,Wang CW,et al.A method of determining the cell concertration[J]. Sichuan Food and Fermentation), 2004(3):59-59.   \n[22]Ferre J, Van Rie J.Biochemistry and genetics of insect resistance to Bacilus thuringiensis[J].Annu Rev Entomol, 2002, 47:501-533.   \n[23]Vadlamudi RK, Weber E,Ji I, et al.Cloning and expression of a receptor for an insecticidal toxin of Bacillus thuringiensis[J]. J.Biol Chem,1995,270:5490-5494.   \n[24] 冯书亮，付韵琴，范秀华,等．几株高效苏云金杆菌菌株对玉米螟、棉铃虫、粘虫和黄地老虎   \n的毒力测定[J]．中国生物防治学报,1995,11(1):22 -25. Feng SL,Fu Y Q,Fan XH,et al.A study on bioassy for toxi cities of several highly effective strains of Bacillus thuringiensis to four species of lepidopterous larvae[J].Chinese Journal of Biological Control, 1995,11(1):22 -25.   \n[25]Zhao JZ, Cao J,Li Y,et al. Transgenic plants expressing two Bacillus thuringiensis toxins delay insect resistance evolution[J]. Nat Biotechnol,2003,21:1493-1497.   \n[26]Harwood C R, Cutting S M.Molecular biological methods for Bacillus[J].Febs Letters,1990,   \n287(1-2):227. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

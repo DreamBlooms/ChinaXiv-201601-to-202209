@@ -1,0 +1,813 @@
+[
+    {
+        "type": "text",
+        "text": "A spatial assessment of potential biomass for bioenergy in Australia in 2010, and possible expansion by 2030 and 2050 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DEBBIEF.CRAWFORD $^ { 1 , 2 }$ ,MICHAEL H. O'CONNOR²,3, TOM JOVANOVIC1,2, ALEXANDER $\\mathrm { H E R R } ^ { 1 , 2 }$ ,ROBERT JOHN RAISON1'²,DEBORAH A.O'CONNELL1,2 and TIM BAYNES2,4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1CSIRO Land $\\boldsymbol { \\mathcal { E } }$ Water,GPO Box 1700，Canberra,ACT 2601,Australia,²CSIRO Energy Flagship,PO Box 330，Newcastle, NSW 2300, Australia, $^ 3 C S I R O$ Land & Water,Prioate Bag 5，Wembley,WA 6913,Australia,4CSIRO Land & Water,PO Box310，NorthRyde,NSW1670,Australia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper provides spatial estimates of potentially available biomass for bioenergy in Australia in 2010,2030 and 2050 (under clearly stated assumptions)for the following biomass sources: crop stubble, native grasses, pulpwood and residues (created either during forest harvesting or wood processing) from plantations and native forests,bagasse,organic municipal solid waste and new short-rotation tree crops.For each biomass type, we estimated annual potential availabilityat the finest scale posible with readily accessible data,and then aggregated to make estimates for each of 6O Statistical Divisions (administrative areas）across Australia.The potentially available lignocellulosic biomass is estimated at approximately $8 0 ~ \\mathrm { M t }$ per year,with the major contributors of crop stubble (27.7 Mt per year), grasses (19.7 Mt per year) and forest plantations ( ${ \\bf \\Omega } _ { \\mathrm { 1 0 . 9 ~ M t } }$ per year). Over the next 20-40 years,total potentiallyavailable biomass could increase to 100-115 Mt per year,with new plantings of short-rotation trees being the major source of the increase (14.7 Mt per year by 2030 and $2 9 . 3 ~ \\mathrm { M t }$ per year by 2050). We exclude oilseeds,algae and 'regrowth',that is woody vegetation naturaly regenerating on previously cleared land,which may be important in several regionsof Australia (Australian Forestry 77,2014,1; Global Change Biology Bioenergy 7,2015,497).We briefly discusssome of the challenges to providingareliable and sustainable supply of the large amounts of biomass required to build a bioenergy industry of significant scale.More detailed regional analyses,including of the costs of delivered biomass,logistics and economics of harvest, transport and storage,competing markets for biomassand a fullasessment of the sustainabilityof production are needed to underpin investment in specific conversion facilities (e.g. Opportunities for forest bioenergy: An assessment of the environmental and economic opportunitiesand constraints asociated with bioenergy production from biomass resources in two prospective regions of Australia, 2011a). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Australia,bioenergy,biofuel,biomass,spatial biomass assessment ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received10 March 2015;revised version received 11 June 2015 and accepted 4 July 201! ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Current and future biomass production in Australia could support a significant contribution to renewable energy in Australia (Farine et al.，2012). Bioenergy can takethe form of bioelectricity,heat and biofuels (solid, liquid or gas).Farine et al. (2012) outlined why much of the internationalliterature estimatesof the Australian resource base for bioenergy are not robust. This previous study (Farine et al.,2012) provided spatial and temporal estimates of biomassproduction for several different categories of biomass，as well as potential availability and use within several different types of bioelectricity and biofuel conversion technologies in Australia. The Farine et al. (2012) paper provided a valuable first step towards quantifying the bioenergy potential and greenhouse gas mitigation that could be provided in Australia,but did not provide regionalscale estimates of the biomass production and potential availability within various regions of Australia.RIRDC (2011) lists 'the identification of regions for the sustainable growing of bioenergy/biofuel crops and integrated biomass production' as a research,development and extension priority for primary industries in Australia. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Regional studies with specific biomass feedstocks and target technologieshave been completed for some areas of Australia (e.g. Rodriguez et al. (201la) for Gippsland and lignocellulosic ethanol; Rodriguez et al. (2011b,c) for Green Triangle and smal-scale bioelectricity and lig nocellulosic ethanol; Murphy et al. (2015) and Hayward et al.(2015) for Fitzroy and lignocellulosic biocrude to jet fuel, diesel and gasoline). These regional-scale spatial and temporal estimates of biomass production and potential availability are required to underpin the development of industry based on local conversion facilities, because the economies of scale depend on the distributional density of the aggregate amount of biomass feedstocks relevant to the particular conversion technology.Optimizing the scale and type of energy facility or biorefinery to the distribution,location，spatial density and seasonal supply of biomass is critical. The above casestudies(Rodriguezet al.， 201la,b,c; Hayward et al.,2015;Murphy et al.,2015) looked at subsets.Furthermore, Brinsmead et al. (2015a,b) developed quantitative methods to optimize the locations of bioenergy facilities.The missing link is information on distribution，location，spatial density and seasonal supply at regional scale across the country. This paper provides information at an intermediate scale between a national assessment and a specific business case (regional) scale that helps to fill the gap. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This paper aims to assist with industry development through a better understanding of the distributions of different biomass types.It is based on recent work by Crawford et al. (2012).It builds on the analysis from Farine et al. (2012) by including additional biomass types (grasses and waste),extended time-frames (to 2050) and by providing a spatial disaggregation that enables comparative estimates of different biomass types.We estimate the amounts of each biomass type within Australiawide Statistical Divisions (SDs) as set out by the Aus tralian Bureau of Statistics(ABS)(Edwards，2001） to identify regional areas of high potential for development of a bioenergy industry - the biomass hotspots. The amounts reported arewhat is potentially available allowing for ongoing sustainable supply. No allowance has been made for any current uses of these products,Rodriguez et al., $2 0 1 1 \\mathsf { b } , \\mathsf { c }$ andFarine et al.,2012 have discussed some current uses of stubble，bagasse and sawmill wastes. Rodriguez et al., $2 0 1 1 \\mathrm { a } , \\mathrm { b } , \\mathrm { c }$ haveproduced bio mass supply curves,andBrinsmead et al.,2015a,b have examined how to optimize plant size and type. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are several types of biomass produced in Australia,and significant quantities could be used for bioenergy.In this paper,we provide estimates of the amount of biomass produced annually in 2010,projected to 2030 and 2050. We apply explicit assumptions (and underlying rationale) to estimate the components and proportions of the biomass produced which could be potentially available for each of the following biomass types: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Crop stubble- field residues from grain crops Grasses ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "·Wood (pulp logs，in-field woody harvest residues and wood processing residues) from plantations and native forests Bagasse - residue remaining after processing of sugar cane   \nWaste - organic components of municipal solid waste (MSW) Biomass from newly established short-rotation tree crops (SRT) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The estimates are produced from the following analytical steps: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Biomass production: Assessment of annual production,either as reported by others or as estimated by modelling. Different approaches are used for each different type of biomass as appropriate to that form.   \n，Potentially available for harvest:application of simple constraints to the total production (e.g. technical constraints to harvesting stubble or grasses; environmental constraints for leaving some soil cover).   \nPotentially available for diversion: in the case of those existing types of biomass which are already harvested and consumed in an existing market (e.g. pulpwood, bagasse),simple constraints applied (e.g. diversion of all of the pulp logs,but none of the sawlogs from existing markets). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Assumptions and constraints are detailed further by Farine et al. (2012).We present only the ‘potential availability estimates: the actual availability ofbiomass will depend on many local factors which are beyond the scope of this study，including the technologies and economics ofgrowing，harvest and transport; willingness of growers to adopt new technologies or markets and participate in new or emergingsupply chains; local planning and legislative constraints.Security of biomass supply is a critical issue for the investors in the bioenergy facility (Sims et al.，2008;Richard，201O).We demonstrate and discuss the year-to-year variation in the availability of crop residues and grass biomass caused by climatic variability overa 20-30 year period. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Over the last 25 years or more, there has been a large amount of research examining the incorporation of trees into the landscape in various configurations ranging from block plantings to narrow rows for a range of uses including biodiversityrestoration，salinity reduction and biomass production(Wildy et al.,20o4; Bartle,2009; Bartle et al.,2007). The SRT system of growing a woody crop that is harvested every 5-10 years for its lignocellulosic product has been identified by RIRDC (2014) as a potential feedstock worthy of further development for the bioenergy sector. We have modelled the SRT system asdescribedinFarine etal.(2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Previous studies in Australia have demonstrated that the production of plant-based oils (from oilseed crops, trees such as Pongamia，and algae） is projected to remain low in thenext decade ortwo atleast (Farine et al.,2012;Murphy et al.，2012)． Therefore,this paper focuses on the more immediate opportunities presented by lignocellulosic biomass. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "One large potential source of lignocellulosic biomass that is not considered in this paper is native woody regrowth vegetation which originates after clearing for agricultural development. Booth et al. (2014) have estimated the production of regrowth for the Fiztroy Region,Queensland,and however,national spatial estimates of potential biomass production and potential availability of native woody regrowth have not been conducted yet. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dueto the dispersed nature and high level of variability of lignocellulosic biomass production systems, we believe that security of supply can most appropriatelybe metby an industrywhich can use mixed lignocellulosic feedstocks,including annual and perennial biomass sources.This will increase the critical mass of total potentially available feedstock concentrated within economic distance,deal with temporal issues such as seasonal variation or drought,and thus avoid the risk of relying on a single feedstock type. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is relatively simple to calculate current and estimate future biomassproduction for existing commercial types of biomass using published statistics at a national or state level.However, the differing scales and types of regional reporting (or lack of any reporting in some cases）makes it more difficult to provide the finer scale spatial and temporal assessments of biomass production and potential availability which are required to support industry development in any given region. The estimates of new types of biomass, for example SRT, cannot be derived from reported statistics and are therefore more uncertain. Some biomass sources are widely distributed with a low biomass density or are seasonal in their production or potential availability.Using a common reporting structure，different biomass types then can be aggregated to estimate regional biomass totals. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper uses spatial analysis techniques to map each bio mass type according to its original reporting structure and then convert it to a common reporting structure - SDs.The SD boundaries are reviewed every 5 years to coincide with the Australian Population Census,although boundary changes are usually minor.This study used the 2006 SD layer which has 60 individual SDs with size varying from 800 to $1 ~ 3 4 5 ~ 0 0 0 ~ \\mathrm { k m } ^ { 2 }$ andin aggregate; they cover thewhole of Australia.A 6lst SD which covers island territories (Christmas and Cocos Islands) to the north-west of mainland Australia was not included in this study. Table S1 includes each SD identification number and name. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For each biomass type,we made spatial estimates for the amounts potentially available at the finest spatial resolution possible,using the methods described below. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cropstubble ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Australia,statistics on the annual production of agricultural commodities are compiled by the Australian Bureau of Statistics (ABS) based on censuses and surveys.Broad acre crop residues remaining after harvest (referred to here as crop stubble) were estimated from annual grain production statistics and harvest index data (the ratio of grain to total above-ground biomass) and converted to dry mass (assuming $1 5 \\%$ moisture content)(Herret al.,201O).Further details,including rationale for retention of some crop residue for soil protection,are provided in Herr et al. (2012a)and Farine et al. (2012).There is large interannual variability in crop yields and thus stubble production.Figure 1 illustrates the average crop stubble production potentially available for harvest (PAfH) for 1983-2005.Prior to the mid-199Os,Australia experienced an expansion in grain production areas. This study used the 1996-2005 time period to be consistent with Farine et al. (2Ol2) and because areas under grain production stabilized in the mid 1990s. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Estimates of the stubble PAfH were made nationally at the 2002 SD level of spatial resolution.Differences in SD boundaries over time were dealt with by converting the data to a common SD layer prior to aggregation (J.Walcott, pers.comm., Bureau of Rural Sciences).Estimates of stubble PAfH from wheat,oats,barley,triticale,sorghum,canola and lupins were combined for each SD.The 20o1/02 Australian land-use layer (Knapp et al., 2006, $5 0 \\mathrm { ~ m ~ }$ resolution） was used to extract the appropriate cropping land-use pixels,viz. the aggregation of irrigated and nonirrigated cereals,oil seeds and legumes to give the number of crop stubble pixels.For each 2002 SD, the crop stubble PAfH estimate was divided by the SD crop stubble pixel number to get a harvestable yield per pixel. Using a GIS,the crop stubble PAfH for the 2002 SD layer was converted to crop stubble PAfH for the 2006 SD layer.Figure 2 illustrates the spatial concentration of the resource based on focal statistics,where each pixel is the sum of stubble biomass PAfH within a $5 0 ~ \\mathrm { k m }$ radius.The underlying spatial data used is the average stubble PAfH for 1996-2005 at $1 0 ~ \\mathrm { k m }$ resolution. This focal analysis (Fig.2) can assist with the visualization of areas of high concentration for a widely distributed resource such as crop stubble.Further details on land use and methods for overlaying polygons of different size/shape to transfer values are described elsewhere (Herr,2007;Herr & Dunlop,2011). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Grasses ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Herr et al.(2012b) made broad model-based estimates of grass production across Australia and concluded that there is a potential for grasses growing outside the existing cropping and hayproduction areas to provide a bioenergy feedstock.Here, weapplied the model AussieGRASS (Carter et al.,20o0,2003; seehttp://www.longpaddock.qld.gov.au/about/researchprojects/aussiegrass/index.html) to generate spatial estimates of net primary production (NPP) and standing (potentially harvestable）biomass modelled at a resolution of $5 ~ \\mathrm { k m }$ AussieGRASS estimates pasture biomass,which includes native and introduced grasses and forbs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddf53e01971927ff185922645f63a9f56c0554b5bdaeb53cc301a7961e9ed95d.jpg",
+        "img_caption": [
+            "Fig.1Variationinannualrinfallandteamountofcropresiduepotentiallyavailableforharvest (PAfH)across Australiaforthe period 1983-2005 (derived from Herr et al.,2012a). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bf4f464490b6509db65d826ab8bb670026a6a8488ef21d6d8f15d5300b9ba4b.jpg",
+        "img_caption": [
+            "Fig.2 Average crop stubble biomass $( \\mathbf { k } \\mathbf { t \\ y r } ^ { - 1 }$ ）focal concentrations for the period of 1996-2005. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This paper applied the same constraints for grass calculation as in Crawford et al. (2012),which was based on estimating pasture productivity with AussieGRASS (Carter et al.,2000, 2003;Murphy et al.,2015): grasswould only be harvested when economic to do so,and some cover also needs to be retained for soil protection (standing biomass $\\ge 5 . 5 \\mathrm { ~ t ~ h a } ^ { - 1 }$ and retaining $2 . 5 \\mathrm { ~ t ~ h a } ^ { - 1 }$ leaving at least $3 \\mathrm { ~ t ~ h a } ^ { - 1 }$ for harvest for efficiency reasons in harvesting).In general, the decrease in hay harvesting cost stabilizes at around $3 \\mathrm { ~ t ~ h a } ^ { - 1 }$ ，which is related to the greater efficiency with increased yield,as fixed costs for machinery and labour decrease when spread over a larger harvest.Retention for soil protection is to ensure that residual total standing dry matter (TSDM) after harvest could maintain $4 0 \\%$ ground cover. We acknowledge these constraints will need refinement when a more detailed case study is carried out in the future.Only pasture and grazing lands from the Bureau of Rural Sciences (BRS; now formerly merged with the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES)) land use of Australia (BRS,201O) were included in the calculations.Areas considered to be practical to harvest required tree basal area per ha to be less than $0 . 1 \\%$ (very low tree density) and slope to be less than 12 degrees.The biomass that was potentially available for harvest (PAfH) was calculated for each year over a period of 30 years (1981-2010),and also as an average over that period.PAfH grass biomass was aggregated for each 2006 SD polygon. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Plantation forests ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "An Australian Government programme - the National Plantation Inventory- has been collecting and reporting on plantations established primarily for wood production since 1993. Comprehensive plantation log supply forecast reports have beenproduced every 5 years.Weused the Gavranet al. (2012) forecasts for pulp log and sawlog supply (wood volume) for hardwood and softwood plantations for each of the 15 Australian National Plantation Inventory (NPI) regions on an annual basis for 5-year periods. These estimates were used to provide current and future estimates of plantation wood flows. As plantation planting rates have varied through time,especiallywith the more recent hardwood plantation establishment, estimated wood flows can vary between time periods.The following three periods were taken to approximate log flow for the three time periods used in this study: period 2010- $1 4 = 2 0 1 0$ ，period $2 0 3 0 - 3 4 = 2 0 3 0$ period $2 0 5 0 - 5 4 = 2 0 5 0$ Wood volumes were converted to dry mass using average densities of sawlogs and pulp logs from hardwood and softwood plantations as described in Farine et al.(2012). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ximenes et al. (2oo8) estimate that,in Australian softwood and hardwood forests,as much as $3 0 { \\mathrm { - } } 5 5 \\%$ of the above-ground biomass is left on site following commercial harvest. Following harvest,Ximenes et al.(2012) estimated that for 16 plots of P.radiata plantations of various ages and silvicultural treatments at four sites; the harvest residue of waste logs,stumps and large branches was $7 . 5 \\mathrm { - } 1 3 . 7 \\%$ of the harvested log mass.In eucalypt plantations in southern Queensland, it was estimated that unmerchantable stemwood for solid wood products could be as much as $2 5 \\mathrm { - } 5 0 \\%$ of the timber harvested (Meadows et al., 2014).For this study,in-field woody residues (harvest residues - includes woody stems and large branches） that could be recovered for bioenergy were calculated as $9 \\%$ of harvested log mass;all other residue components (smaller branches,leaves, etc.）were assumed to beretained in the forest for environmental reasons such as site nutrient retention and habitat (Farine et al.，2012).Sawmill residues were calculated as a fraction (range $5 7 . 4 \\mathrm { - } 6 7 . 4 \\%$ ）of the processed sawlog mass,based on state data from industry surveys (Burns et al.，2Oo9).We assumed that $100 \\%$ of the pulp log,sawmill residue and infield woody residue would be potentially available for bioenergy. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Using a spatial map of Australian plantation forests (ABARES,20o8),the areas of hardwood and softwood plantations were estimated for each NPI region.We assumed that there would be no change in the areas of hardwood and softwood plantations into the future.The amount of pulp log, sawmill residue and in-field woody residue biomass for hardwood and softwood for each NPI region was then divided by the appropriate forest area to give an average amount of biomass/ unit area for each NPI region at each time period.We examined three biomass types (pulp log,sawmill residue and infield woody residue) from both hardwood and softwood plantations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The 2006 SD polygon layer was overlaid on the spatial plan tation type $\\mathbf { \\boldsymbol { x } } \\operatorname { N P I }$ region data,and a new spatial layer was produced giving the area of softwood or hardwood plantation in each NPI region by each SD polygon. These areas were multiplied by the biomass/unit area values for each biomass type $\\mathbf { \\boldsymbol { x } }$ NPI region to get potentially available forest biomass for bioenergy for each SD polygon.Amounts were summed to give the total potentially available biomass from forest plantations for each SD for each time period. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Native forests (NF) managed for sawlog production ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Sixteen per cent of Australia's native forest is now formally protected in public conservation reserves.Timber harvesting is generally permitted in multiple-use native forests,which cover around $6 \\%$ ofAustralia's total native forest estate (Montreal Process Implementation Group for Australia,20o8).The following procedures were used to estimate the amount of potentially available biomass in each SD polygon. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A map of production native forests (Bureau of Rural Sciences,2010) was overlaid with the SD polygons.The major production native forests are distributed within relatively few regions in south-east (SE) mainland Australia,SE Queensland, south-west (SW)of Western Australia and in Tasmania.We applied our broad knowledge of forest distribution and forest management (Raison & Squire,201O),and findings from other regional studies (Rodriguez et al.,201la),to approximately allocate state-level estimates (ABARE,201O) of the annual volumes of sawlog and pulp log harvest from native forests to the appropriate SD polygons.Wood volumes were converted to drywood massas described above for plantation forests (see also Farine et al.,2012).Sawmill residues were calculated as a fraction (range $5 9 . 9 \\substack { - 6 7 . 4 \\% }$ ）of the processed sawlog mass, based on state data from industry surveys (Burns et al.,2009). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Innative forest harvest operations,'residual' logsmay be left on the ground- these trees are felled asa part of normal harvesting operations,but for several reasons are normally noncommercial (e.g. they contain decayed wood or are not species of interest).These residual logs and other in-field woody residue were estimated as $6 0 \\%$ of harvested logs (Raison & Squire 2010; Rodriguez et al.，201la).All other harvest residues (branches and leaves) were assumed to beretained in the forest. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We assumed that $100 \\%$ of the pulp log,sawmill residue, residual log and in-field woody residue would be potentially available for bioenergy and that the amounts of biomass potentially available in 201O will remain the same until 2050. Amounts for each biomass type were summed to give the total potentially available biomass from native forests for each SD and time period. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bagasse ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In Australia,sugarcane production occurs in coastal hubs between Mossman in far north Queensland (Qld) and Grafton in northern New South Wales (NSW).Bagasse is the residue remaining after the crushing of wet cane and extraction of sugar. The quantity of bagasse potentially available was estimated from sugar industry production statistics (1996-2005) for the five reporting regions where sugar cane is grown (Anon, 1996-2006；ASMC，1996-2006)(viz.Northern，Herbert/Burdekin, Central, South Queensland and NSW).Wet cane yields were adjusted to account for sugar extracted,and for moisture content to estimate the amounts of dry bagasse produced (equivalent to $\\sim 1 5 \\%$ of the weight of wet cane). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The SD polygons were overlaid on the sugar production regions; for four of the five regions,all sugar mills associated with the region were contained by a single SD region. For the South Queensland region, the Rocky Point sugar mill fell into a different SD from the other regional mills. The bagasse production for the South Queensland region was split proportionally across the two SDs based on individual mill production data (Canegrowers,2006).It was assumed that $100 \\%$ of bagasse would be potentially available for bioenergy.Trash remaining in the field after cane harvest was not considered to be PAfH asanenergysource. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Waste ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Waste is defined here as‘any discarded,rejected,unwanted, surplus or abandoned matter...'(DEWHA,2010;p.361) that may be intended for disposal, recycling,reprocessing or recovery.Organic waste includes all materials that originate from living things and includes food waste,garden waste,paper and cardboard.These organic wastes are of interest for bioenergy production and can be found in three waste streams: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.Municipal solid waste (MSW)which is primarily waste collected from households and councils,mostly through kerbside collection and recycling   \n2.Commercial and industrial (C&I) waste which is mainly collected from commercial buildings，government facilities, educational institutions and industrial sites   \n3.Construction and demolition(C&D) waste which is residential,civil and commercial waste,produced by demolition and construction of buildings (some waste from residential renovations may end up in the MSW stream) (DEWHA, 2010). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Waste management in Australia is undertaken by local governments and is legislated by state governments.Each jurisdiction differs in what is recycled and what records are kept for materials that are recycled or disposed into landfill,making consistent comparisons across the country extremely difficult. Over $90 \\%$ of Australian households have some sort of kerbside recycling service (DEWHA，2010)；this greatly facilitates the recoveryof particular materials from the waste stream.Whilst all jurisdictions are working towards waste minimization and increased recycling, the recycling facilitiesavailable to households vary considerably both withina state and between states. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Arecent review (Hyder,2011) identified 23different waste classification systems and various data capture methods across Australia.Hyder (2013) have since reported on the waste information gaps.As a result of some states employing more than one classification scheme, it can be difficult to aggregate waste to a state level for all streams.Waste is typically measured at landfill and recycling sites,which act to concentrate material from changing catchment areas which are thus not easily matched to SDs.Whilst averaging over a decade or more is valid for agricultural and forestry biomass,where the geographic footprint of these sources is relatively stable, time-series data for waste is more difficult to average.The ‘footprint' for waste collections is continually changing as urbanization and population increases,availability of recycling options is expanded and data collection is improved.These data,within a harmonized system for national waste reporting as recommended by Hyder (2013),should improve the estimation of organic waste production in the future. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Atotalamountof $4 3 . 7 ~ \\mathrm { { M t } }$ ofwasteis estimatedtohave been generated in Australia in 2006-2007 (DEWHA,2010: table 2.2). Of this total,about half is recycled and half disposed in landfills (DEWHA，2010:table 2.5).Hyder (2009)reported on material disposed and recycled (i.e. total waste generated) in the three waste streams for 2006-2007 disaggregated to the state/territory level.We combined data from Hyder(2013) and DEWHA (2010) to estimate the amount of organic waste biomass per waste stream per state/territory.The 'organic fractions'used were paper and cardboard,garden waste,food waste and wood/timber where these categories were reported. Wood and timber from the C&I waste stream were excluded to avoid double counting of forestry material. The moisture content of different fractions is mostly unknown.Reported masses were used without any moisture correction,except for food waste which was reduced by $5 0 \\%$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Population data and per capita organic waste generation were the basis for disaggregation of organic waste amounts from state/territory to SDlevel.We excludedC&Dand C&I organic waste from disaggregation to SD level on the basis that only the MSW waste stream is primarily collected from households (DEWHA,2010) and is therefore approximately correlated to population,whereas data correlating C&D and C&I waste to population do not currently exist for the whole of Australia. SDs can be broken down into smaller units called statistical local areas (SLAs).We used population estimates at the SLA level (2006) for current (treated as equivalent to 2010 in this study) and future (2030 and 205O) time horizons from the Base Case scenario for SLA population to 21oo developed for a recent study of Australian coastal climate risk (Baynes et al.,2012). Key inputs to Baynes et al.(2012) are the 2006-2026 projections from the (then) Federal Department of Health and Ageing which have now been superseded by the 2011-2026 SLA projections available from the Department of Health (https://www.health.gov. au/internet/main/publishing.nsf/Content/ageing-stats-lapp.htm), and is based in turn on ABS population projections 2006-2100 (ABS,20o8). SLA current and future populations were aggregated for each 2006 SD polygon to give SD population at 2010,2030 and 2050.Percapitawastewascalculated bydividing each state/territory MSW organic waste total by its population, then multiplying by SD population to give total waste biomass in each SD.The final amounts are likely to be an underestimate of the total amount of waste biomass. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "New plantings of short-rotation trees (SRT) ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There is potential to establish significant areas of new woody plantings,integrated with traditional agriculture,for production of biomass for bioenergy. Such plantings could be grown on short ( $_ { < 1 0 }$ years）rotations and would often utilize coppicing (re-sprouting) species.We examined the following expansion scenario:planting of $5 \\%$ of cleared farmland $( { \\sim } 2 . 4 ~ \\mathrm { M h a } )$ by 2030 and extension of the area to $10 \\%$ $( { \\sim } 4 . 8 ~ \\mathrm { M h a } )$ by 2050.It was assumed that there would be no significant reduction in stubble or grass production as the total area diverted to SRT is relatively small.However，the tradeoffs involved would be complex and very specific to the region,biomass and agricultural production system,and the particular spatial arrangements (e.g.block v row plantings) in a given landscape. For example,in some situations,rows of mallee trees have been shown to reduce crop or pasture production by up to $5 2 \\%$ within $1 1 - 1 2 \\mathrm { ~ m ~ }$ of the trees (or 2.6 times tree height) and by ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$3 5 \\%$ within $2 0 ~ \\mathrm { m }$ (Peck et al.,2012).This competition zone may be reduced for the first three or so years following tree harvest. Whereas in other situations,there may be significant benefits to the agricultural production system (e.g. increased grain production) due to improved shelter and salinity benefits of tree plantings (Stirzaker et al.,2oo2).These issues require further exploration to underpin feasibility studies at a more local scale. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Biomass production was estimated spatially using the Physiological Principles Predicting Growth (3-PG) model (Landsberg & Waring,1997) that has been calibrated for relevant SRT species (3-PG2,Polglase et al.，2008).The scenario used in this study relied on a stocking rate of 2500 stems $\\mathrm { \\ h a } ^ { - 1 }$ and a rotation length of 5 years.Further details of the methods used are described in Rodriguez et al. (201la) and Farine et al. (2012). Land with mean annual rainfall ${ > } 2 7 5 ~ \\mathrm { m m ~ y r } ^ { - 1 }$ was identified within the nonirrigated crop and sown pasture lands from the BRS land use of Australia layer (Bureau of Rural Sciences, 2010). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Thisland layer wasused to extract cells from the SRT 3-PG2 modelled output. Spatial layers of annual total above-ground biomass production were produced.These biomass layers were then overlaid with the SD polygon layer.Annual biomass production was then determined for each SD polygon for the $5 \\%$ and $10 \\%$ planting scenarios for the 2030 and 2050 time periods, respectively.The total area of this category of land was $\\mathrm { 4 8 \\ m i l } \\cdot$ lion hectares and the area modelled to be planted to SRT was （2 $( 2 . 4 ~ \\mathrm { M h a } )$ by2030 and (4.8 Mha)by2050. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Crop stubble ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The distribution of Australia's agricultural production systems and estimated annual production of crop stubble has been reported by Herr et al. (2012a). The crop stubble PAfH focal analysis is shown in Fig.2; the resulting map shows areas ofgreatest production. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Regions with more than $2 5 0 ~ \\mathrm { k t ~ y r } ^ { - 1 }$ within a distance of $5 0 ~ \\mathrm { k m }$ occur in southern Australia,concentrations of more than $5 0 0 ~ \\mathrm { k t ~ y r } ^ { - 1 }$ within $5 0 ~ \\mathrm { k m }$ occur in South Australia,western Victoria and central NSW. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As shown in the Fig. 1, there is large annual (spatial and temporal) variation in the amount of crop stubble PAfH that correlates broadly with variation in annual rainfall.Variation across the time series examined (1996-2005）was nearly twofold，with national total potential availability ranging from about $7 – 3 8 ~ \\mathrm { M t ~ y r } ^ { - 1 }$ For this 10-year period,on average,about $2 7 ~ \\mathrm { M t } ~ \\mathrm { y r } ^ { - 1 }$ of crop stubble is potentially available (with a standard deviation of 8).We have assumed that this average will not change in the future.Individual amounts for each SD，extracted from the $5 0 ~ \\mathrm { m }$ resolution data,can be found in Tables S1-S3.There are 12 SDs with a potential to produce more than $1 ~ \\mathrm { M t }$ of stubble biomass per year. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Grasses ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "There is extremely high interannual variability in the amount of grass biomass PAfH (Fig.3).Across the 30-year period modelled， the amount varied from about 1 to $9 5 ~ \\mathrm { M t } ~ \\mathrm { y r } ^ { - 1 }$ . The mean annual biomass PAfH was about $2 0 ~ \\mathrm { M t }$ (with a standard deviation of $2 2 \\ \\mathrm { M t } )$ .Variation in land area with harvestable quantities of grass biomass ranged from O.2 to 19 Mha over the 3O year period and is highly correlated with grass production. Focal analysis，as described above, was carried out for years of contrasting total production to illustrate changes in biomass concentration (Fig. 4). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Tables S1-S3 give the average annual grass biomass PAfH by SD; there are eight SDs with values of approximately 1 Mt or more. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b313f870730d3f36c45703222cf04a4b34f52b17ce3d87ec51fa7003475911e2.jpg",
+        "img_caption": [
+            "Fig.3Interanualvaritioningrassbiomasspotentiallyavailableforharvest (PAfH)overtheperiod1981-201(fromCrawford et al.,2012). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4bd68a8ee6fda2caafe535669245dd3667b4b1e81f3525d97cd0ec188c91f4d.jpg",
+        "img_caption": [
+            "Fig.4Grass biomass(kt） potentially available for harvest (PAfH) for focal concentrations of approximately $5 0 ~ \\mathrm { k m }$ radius.Data shown for thelowest (a),highest (b),second highest (c)andaverage (d) yearover theperiod1981-2010.Areas withPAfH $< 3 \\mathrm { \\ t \\ h a } ^ { - 1 }$ are not shown (from Crawford et al., 2012). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plantation forests ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Australia's total plantation area in 201O was ${ \\sim } 2$ Mha (Garvan & Parsons,2011)，distributed within $1 5 ~ \\mathrm { N P I }$ regions (Fig.5).When mapped to SDs，forest plantations are located in 44 SDs (Tables S1-S3).Gavran et al. (2012) assumed little change in future plantation area when forecasting wood supply. Estimated amounts of biomass potentially available from plantations ranged from about 11 to $1 4 ~ \\mathrm { M t } ~ \\mathrm { y r } ^ { - 1 }$ over the period 2010-2050 (Table 1).For 2010, the potential availability of biomass ranges from $4 0 ~ \\mathrm { k t }$ to over $2 . 3 ~ \\mathrm { M t }$ between the NPI regions.Four NPI regions have estimated potentially available biomass between 1.2 and $2 . 3 \\ \\mathrm { M t \\ y r } ^ { - 1 }$ .The ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Green Triangle and the Murray Valley are major pro ducers of softwood sawlogs and pulpwood. Since the mid199Os,therehasbeena concerted effortin establishing hardwood plantations primarily for pulpwood in Western Australia,the Green Triangle and Tasmania. There is a general trend for the annual harvestable wood volume and hence the potential biomass for bioenergy,from these hardwood plantations to increase as the estate matures. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The total biomass potentially available for harvest/diversion from plantation forests is reported at the SD level in Tables S1-S3.Plantation forests could contribute biomass for bioenergy in many of the SDs with an annual contribution greater than $5 0 0 ~ \\mathrm { k t }$ in at least seven SDs. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c6b0b1621348b85a555fcacbba87ddb8b376d9c68772d40f770ebf329af16c7.jpg",
+        "img_caption": [
+            "Fig.5Map of Australia showing location of 15 National Plantation Inventory (NPI) regions and distribution of the plantation forest resource in 2010. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Native forestsmanaged for sawlog production ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Native forests are managed for sawlog (and associated pulp log） production in five Australian states - WA, Qld,NSW，Vic.and Tas. We disaggregated the total production of sawlogs and pulp logs within each state into 19 SD polygons taking into account forest distribution and our broad knowledge of forest management (Raison & Squire,201O).Figure 6 shows the managed native forests and the SD polygons which cover the sawlog production areas.Managed native forest occurring outside of these polygons is managed for products other than sawlog production. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The amount of biomass potentially available from native forests managed for sawlog as identified above is about $7 . 9 ~ \\mathrm { M t ~ y r } ^ { - 1 }$ (Table 2) and is assumed to remain constant into the future.High potential availabilities $( > 1 \\ \\mathrm { M t \\ y r } ^ { - 1 } ,$ are confined to two SDs in Tasmania. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Bagasse ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "There are 24 sugar mills concentrated around the sugarcane resource,and the mills fall into the boundaries of six SDs (Fig.7). It is estimated that there are $5 . 5 ~ \\mathrm { M t ~ y r } ^ { - 1 }$ of bagasse potentially available (Table 3),and some is already used to generate energy within the mills. The amount of bagasse in each SD ranged from 57to almost $1 9 0 0 \\ \\mathrm { k t } \\ \\mathrm { y r } ^ { - 1 } ,$ ,and these amounts are assumed to remain constant into the future. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0379167e614f69836ad6c70b07650aab22716178e02ba70b386a8125ad124ea5.jpg",
+        "table_caption": [
+            "Table1 Plantation forest biomass $( \\mathbf { k } \\mathbf { t \\ y r } ^ { - 1 } ;$ ）potentiallyavailable for bioenergy production in 15 National Plantation InventoryRegions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">NPI</td></tr><tr><td>Region</td><td>NPI Name</td><td>2010</td><td>2030</td><td>2050</td><td></td></tr><tr><td>1</td><td>WesternAustralia</td><td>2347</td><td>2676</td><td></td><td>2007</td></tr><tr><td>2</td><td>Northern Territory</td><td>367</td><td></td><td>288</td><td>430</td></tr><tr><td>3</td><td>Mt Lofty Ranges and Kangaroo Island</td><td>133</td><td></td><td>208</td><td>115</td></tr><tr><td>4</td><td>Green Triangle</td><td>2334</td><td></td><td>2968</td><td>2610</td></tr><tr><td>5</td><td>North Queensland</td><td></td><td>86</td><td>189</td><td>171</td></tr><tr><td>6</td><td>South-east Queensland</td><td>652</td><td></td><td>921</td><td>873</td></tr><tr><td>7</td><td>Northern Tablelands</td><td>104</td><td></td><td>120</td><td>162</td></tr><tr><td>8</td><td>North Coast of NSW</td><td></td><td>181</td><td>845</td><td>332</td></tr><tr><td>9</td><td>Central Tablelands</td><td></td><td>501</td><td>482</td><td>506</td></tr><tr><td>10</td><td>of NSW Southern Tablelands</td><td></td><td>44</td><td>81</td><td>78</td></tr><tr><td>11</td><td>of NSW Murray Valley</td><td>1211</td><td></td><td>1199</td><td>1207</td></tr><tr><td>12</td><td>Central Victoria</td><td></td><td>382</td><td>424</td><td>354</td></tr><tr><td>13</td><td>Central Gippsland</td><td></td><td>570</td><td>785</td><td>864</td></tr><tr><td>14</td><td>East</td><td></td><td>336</td><td>375</td><td>319</td></tr><tr><td></td><td>Gippsland-Bombala</td><td></td><td></td><td></td><td></td></tr><tr><td>15</td><td>Tasmania</td><td></td><td>1683</td><td>2659</td><td>2816</td></tr><tr><td></td><td>Total</td><td>10 932</td><td></td><td>14 219</td><td>12 842</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Waste ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Estimates of organic waste for MSW,C&I and C&D generated in each state/territory in 20o6-O7 are shown in Table 4. Only the MSW waste stream was included in calculation of SD waste biomass,reducing the total biomass potentially available by $3 9 \\%$ on average across Australia. The MSW waste biomass that was disaggre gated to SDs averaged $3 4 6 ~ \\mathrm { k g } .$ /person over a range of $1 0 7 { - } 8 2 9 ~ \\mathrm { k g } .$ /person acrossall states and territories (Table 5). Tables S1-S3 give the individual SD quantities for organic MSW based on population.Most SDs were estimated to generate less than $1 0 0 \\ \\mathrm { k t \\ y r ^ { - 1 } }$ of waste biomass in 2010.Annual estimates for the large capital cities of Brisbane,Melbourne and Sydneyranged from $8 0 0 ~ \\mathrm { k t }$ to $1 ~ \\mathrm { M t }$ in 2010, rising to $1 . 4 { - } 1 . 7 \\ \\mathrm { M t }$ in 2050.Estimates for other medium to highly populated areas ranged from ${ } > 1 0 0 { - } 6 0 0 \\ \\mathrm { k t } \\ \\mathrm { y r } ^ { - 1 } .$ ，increasing to $3 0 0 ~ \\mathrm { k t }$ to 1.2 Mt in 2050. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "New plantings of short-rotation trees (SRT) ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "There is negligible biomass currently available from SRT crops,but this could increase to about $1 4 ~ \\mathrm { M t } ~ \\mathrm { y r } ^ { - 1 }$ by 2030(Table6),and this couldbe doubledby 2050 if a major planting programme (such as the simple $5- 1 0 \\%$ assumption used in this study）was undertaken. The distribution of cropping and sown pasture lands is quite wide spread in Australia with areas of this land-use type being present in all SDs.Estimated productivity of SRT varied from 2.9 to $1 9 . 5 \\mathrm { ~ t ~ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ . Thirty-six SDs each could have 10 ooo ha or more planted to SRT in the $5 \\%$ planting scenario.If these very simple scenarios were to be explored in more regionally specific feasibility studies,the economics would probably dictate that a more concentrated resourceshould be developed around proposed facilities (rather than a randomized $5 \\%$ smear across the SD) to benefit from economies of scale and density (e.g.Brinsmead et al.,2015a). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/719323e412b049d2052a285b840e2870185325ec4b9c64df235a0b248b54f109.jpg",
+        "img_caption": [
+            "Fig.6Distribution of native forest managed for sawlog pro duction within SDs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Aggregated total annual aoailability of biomass ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The total annual amount of biomass potentially available from all feedstock types (under the assumptions used in this study）is ${ 7 8 } ~ \\mathrm { { M t } }$ ，increasing to almost ${ 1 0 0 } \\ \\mathrm { M t }$ in 2030 and 114 Mt in 2050 (Table 7). Crop stubble and grasses are the current main sources of potentially available biomass. If an SRT estate as explored in this paper was established,it could potentially produce an amount of biomass similar to crop stubble by 2050. Organic waste would increase over time as the population is predicted to increase. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/d339cd0b495efaa90c1fcca0ed60400cdd767ea4b6b246ce4498d3767103b6db.jpg",
+        "table_caption": [
+            "Table 2 Annual potential availability $( \\mathbf { k } \\mathbf { t } )$ of biomass from native forests for each important SD "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SD ID</td><td>SD Name</td><td>State</td><td>Biomass</td></tr><tr><td>105</td><td>Sydney</td><td>NSW</td><td>72</td></tr><tr><td>110</td><td>Hunter</td><td>NSW</td><td>216</td></tr><tr><td>125</td><td>Mid-north coast</td><td>NSW</td><td>721</td></tr><tr><td>145</td><td>South-eastern</td><td>NSW</td><td>433</td></tr><tr><td>220</td><td>Central Highlands</td><td>Vic.</td><td>170</td></tr><tr><td>240</td><td>Goulburn</td><td>Vic.</td><td>255</td></tr><tr><td>245</td><td>Ovens-Murray</td><td>Vic.</td><td>170</td></tr><tr><td>250</td><td>East Gippsland</td><td>Vic.</td><td>682</td></tr><tr><td>255</td><td>Gippsland</td><td>Vic.</td><td>426</td></tr><tr><td>309</td><td>Sunshine Coast</td><td>Qld</td><td>29</td></tr><tr><td>312</td><td>WestMoreton</td><td>Qld</td><td>58</td></tr><tr><td>315</td><td>Wide Bay-Burnett</td><td>Qld</td><td>87</td></tr><tr><td>320</td><td>Darling Downs</td><td>Qld</td><td>87</td></tr><tr><td>330</td><td>Fitzroy</td><td>Qld</td><td>29</td></tr><tr><td>505</td><td>Perth</td><td>WA</td><td>65</td></tr><tr><td>510</td><td>South-west</td><td>WA</td><td>586</td></tr><tr><td>610</td><td>Southern</td><td>Tas.</td><td>2314</td></tr><tr><td>615</td><td>Northern</td><td>Tas.</td><td>1157</td></tr><tr><td>620</td><td>Mersey-Lyell</td><td>Tas.</td><td>385</td></tr><tr><td></td><td>Total</td><td></td><td>7942</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The total feedstock amounts for each SD now and into the future are shown in Figs 8-10.The contribution of each feedstock type to the biomass for each SD is given in Tables S1-S3.Fifteen individual SDs from Western Australia,Queensland,NSW and Tasmania could produce more than $2 \\ \\mathrm { M t \\ y r } ^ { - 1 }$ of biomass potentially available for harvest/diversion,with two of the NSW SDs potentially producing more than $4 ~ \\mathrm { M t ~ y r } ^ { - 1 }$ (Fig.8, Table S1).With the addition of biomass from SRT,the number of SDs able to produce more than $2 \\ \\mathrm { M t \\ y r } ^ { - 1 }$ of biomass PAfH increases to 22 in 2030 and 25 in 2050 with two and then three SDs potentially producing more than 5 Mt $\\mathrm { y r } ^ { - 1 }$ (Figs 9 and 10,Tables S2 and S3). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study,we have only included quantities of biomass PAfH on an assumed ongoing (sustainable yield) basis. Some constraints have been applied to the amount potentially available for harvest (for example,rudimentary protection of environmental values,or on an economic basis where in forests the high-value sawlog component was not considered to be available). For forests,all pulp logs and saw mill residue were considered potentially available for diversion to bioenergy.In-field woodyharvest residuesarenot currentlyharvested, but conservative estimates of what could be collected are included as potentially available for harvest.All foliage andsmallbranchesareretainedinthe forest. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/53134991ab97a2568a7b03cdf87bb4db6d4a24182fc51ac54a5c62874e0b2666.jpg",
+        "img_caption": [
+            "Fig.7 Map showing distribution of sugarcane and location of sugar mills in Queensland and northern New South Wales.The statistical division boundaries containing the sugar mills are also shown. (Sugarcane and mill information modified from ASMC,2014). "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/af1db8ee12da00fc11aece0a3d68312e70fb3ee7c076c9de41256e3b63d73b64.jpg",
+        "table_caption": [
+            "Table 3Annual potential availability (dry $\\mathrm { k t } ^ { \\cdot }$ ）ofbagasseby Statistical Division "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SD ID</td><td>SD Name</td><td>State</td><td>Biomass</td></tr><tr><td>120</td><td>Richmond-Tweed</td><td>NSW</td><td>349</td></tr><tr><td>307</td><td>Gold Coast</td><td>Qld</td><td>57</td></tr><tr><td>315</td><td>Wide Bay-Burnett</td><td>Qld</td><td>759</td></tr><tr><td>340</td><td>Mackay</td><td>Qld</td><td>1387</td></tr><tr><td>345</td><td>Northern</td><td>Qld</td><td>1869</td></tr><tr><td>355</td><td>Far North</td><td>Qld</td><td>1081</td></tr><tr><td></td><td>Total</td><td></td><td>5502</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In aggregate，the biomass types considered in this study could make a significant contribution to the amount of biomass potentiallyavailable for harvest/diversion.Stubble and grasses were the largest biomass types (combined,theyaccount for $6 0 \\%$ of the 2010 total biomass).However, these types are the most widely distributed with relatively low biomass spatial density providing economic and logistic challenges for harvesting and transport. Stubble and grasses are also only physically harvestable for part of the year (due to technical constraints)，so that storage may be important if they are to be fully utilized (unless they are combined with other types of biomass throughout the year).For grasses,harvesting in the summer rainfall part of Australia (i.e. subtropics） is after the wet season，from March to May. During the wet season，harvesting is generally not possible due to the impact of machinery on soil. The beginning of the dry season is the ideal time for maximizing harvest amounts,after this the biomassdecays.In the southernwinterrainareas,harvesting takes place as soon as there is sufficient grass biomass on the ground and coincides with grain harvest in about November-December,or slightly earlier in the more northern zones.For harvest of green biomass (i.e. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/63e33a552df60461bce149f373f501585a1928ca493a5274726aeb257ee9d87b.jpg",
+        "table_caption": [
+            "Table 4 Annual amounts of organic waste (kt) by stream by state/territory 2006-2007 (from Hyder,2013).Streams:MSW (municipal solid waste),C&I (commercial and industrial waste) and C&D (construction and demolition waste) "
+        ],
+        "table_footnote": [
+            "NR,not reported. \\*For Queensland,disposal data were estimated from recycled amounts. "
+        ],
+        "table_body": "<html><body><table><tr><td>State/Territory</td><td>MSW</td><td>C&I</td><td>C&D</td><td>Total</td></tr><tr><td>NSW</td><td>1538</td><td>1993</td><td>481</td><td>4012</td></tr><tr><td>Vic.</td><td>1432</td><td>967</td><td>167</td><td>2566</td></tr><tr><td>Qld*</td><td>1889</td><td>79</td><td>32</td><td>2000</td></tr><tr><td>WA</td><td>844</td><td>562</td><td>57</td><td>1463</td></tr><tr><td>SA</td><td>481</td><td>233</td><td>67</td><td>781</td></tr><tr><td>Tas.</td><td>53</td><td>22</td><td>NR</td><td>75</td></tr><tr><td>ACT</td><td>281</td><td>72</td><td>1</td><td>354</td></tr><tr><td>NT</td><td>28</td><td>NR</td><td>NR</td><td>28</td></tr><tr><td>Total (min.)</td><td>6546</td><td>3928</td><td>805</td><td>11 279</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/18699ed87aaf1a76fecc7c47991355e68b3b87fd38079866e9354ea9779701f8.jpg",
+        "table_caption": [
+            "Table 5Annual amounts of organic MSW (from Hyder,2013) by state for 2006-2007 per capita (kg person-1） (population data from DEWHA,2010) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>State/Territory</td><td>Population</td><td>Organic MSW per capita</td></tr><tr><td>NSW</td><td>6 888 000</td><td>223</td></tr><tr><td>Vic.</td><td>5 205 000</td><td>275</td></tr><tr><td>Qld</td><td>4 181 000</td><td>452</td></tr><tr><td>WA</td><td>2106 000</td><td>401</td></tr><tr><td>SA</td><td>1 584 000</td><td>304</td></tr><tr><td>Tas.</td><td>493000</td><td>108</td></tr><tr><td>ACT</td><td>340000</td><td>828</td></tr><tr><td>NT</td><td>215 000</td><td>130</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/1cf4585e77eedf774310f1185bb6fc34de74c1e7c0df8e5a12c89a590594c47a.jpg",
+        "table_caption": [
+            "Table 6The area (ha),biomass (kt) and average productivity （204号 $( \\mathrm { t } \\ \\mathrm { h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 } )$ corresponding to planting of $5 \\%$ of crop and pasture land to SRT in each statistical division.SDs with more than 10 Ooo ha that could be planted to SRT are bolded. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SD ID SD Name</td><td>Area</td><td></td><td>Biomass</td><td>Productiv</td></tr><tr><td>105</td><td>Sydney</td><td>110</td><td>1</td><td>9.1</td></tr><tr><td>110</td><td>Hunter</td><td>915</td><td>7</td><td>7.7</td></tr><tr><td>115</td><td>Illawarra</td><td>455</td><td>7</td><td>15.4</td></tr><tr><td>120</td><td>Richmond-Tweed</td><td>2415</td><td>47</td><td>19.5</td></tr><tr><td>125</td><td>Mid-North Coast</td><td>880</td><td>15</td><td>17.0</td></tr><tr><td>130</td><td>Northern</td><td>84 145</td><td>648</td><td>7.7</td></tr><tr><td>135</td><td>North-western</td><td>87 635</td><td>504</td><td></td></tr><tr><td>140</td><td>Central West</td><td>75 725</td><td>457</td><td>5.8 6.0</td></tr><tr><td>145</td><td>South-eastern</td><td>11 415</td><td>97</td><td>8.5</td></tr><tr><td>150</td><td>Murrumbidgee</td><td>64 230</td><td>352</td><td>5.5</td></tr><tr><td>155</td><td>Murray</td><td>39 225</td><td>194</td><td>4.9</td></tr><tr><td>160</td><td>Far West</td><td>150</td><td><</td><td></td></tr><tr><td>205</td><td>Melbourne</td><td>11 675</td><td>122</td><td>10.4</td></tr><tr><td>210</td><td>Barwon</td><td>25 410</td><td>185</td><td>7.3</td></tr><tr><td>215</td><td>Western District</td><td>77 455</td><td>719</td><td>9.3</td></tr><tr><td>220</td><td>Central Highlands</td><td>38 030</td><td>289</td><td>7.6</td></tr><tr><td>225</td><td>Wimmera</td><td>112 075</td><td>544</td><td>4.9</td></tr><tr><td>230</td><td>Mallee</td><td>106 895</td><td>311</td><td>2.9</td></tr><tr><td>235</td><td>Loddon</td><td>38895</td><td>227</td><td>5.8</td></tr><tr><td>240</td><td>Goulburn</td><td>58 935</td><td>462</td><td>7.8</td></tr><tr><td>245</td><td>Ovens-Murray</td><td>19 460</td><td>205</td><td>10.5</td></tr><tr><td>250</td><td>East Gippsland</td><td>19 680</td><td>175</td><td>8.9</td></tr><tr><td>255</td><td>Gippsland</td><td>22 085</td><td>357</td><td>16.2</td></tr><tr><td>305</td><td>Brisbane</td><td>280</td><td>2</td><td>7.1</td></tr><tr><td>307</td><td>Gold Coast</td><td>465</td><td>8</td><td>17.2</td></tr><tr><td>309</td><td>Sunshine Coast</td><td>345</td><td>6</td><td>17.4</td></tr><tr><td>312</td><td>West Moreton</td><td>970</td><td>9</td><td>9.3</td></tr><tr><td>315</td><td>Wide Bay-Burnett</td><td>5500</td><td>73</td><td>13.3</td></tr><tr><td>320</td><td>Darling Downs</td><td>69 705</td><td>695</td><td>10.0</td></tr><tr><td>325</td><td>South -west</td><td>20 045</td><td>157</td><td>7.8</td></tr><tr><td>330</td><td>Fitzroy</td><td>31 325</td><td>336</td><td>10.7</td></tr><tr><td>335</td><td>Central West</td><td>350</td><td>2</td><td>5.7</td></tr><tr><td>340</td><td>Mackay</td><td>17 015</td><td>163</td><td>9.6</td></tr><tr><td>345</td><td>Northern</td><td>5125</td><td>43</td><td>8.4</td></tr><tr><td>350</td><td>Far North</td><td>8085</td><td>91</td><td>11.3</td></tr><tr><td>355</td><td>North-west</td><td>140</td><td><1</td><td></td></tr><tr><td>405</td><td>Adelaide</td><td>1650</td><td>11</td><td>二 6.7</td></tr><tr><td>410</td><td>Outer Adelaide</td><td>33795</td><td>233</td><td>6.9</td></tr><tr><td>415</td><td>Yorke and</td><td>74 370</td><td>352</td><td>4.7</td></tr><tr><td></td><td>Lower North</td><td></td><td></td><td></td></tr><tr><td>420 425</td><td>Murray Lands South-east</td><td>95 850 74 805</td><td>365 566</td><td>3.8 7.6</td></tr><tr><td>430</td><td>Eyre</td><td>139 175</td><td>519</td><td>3.7</td></tr><tr><td>435</td><td></td><td>40 270</td><td></td><td>4.2</td></tr><tr><td></td><td>Northern</td><td></td><td>169</td><td>12.0</td></tr><tr><td>505</td><td>Perth</td><td>4595</td><td>55</td><td></td></tr><tr><td>510 515</td><td>South-west Lower Great</td><td>31 150 118 165</td><td>359 693</td><td>11.5 5.9</td></tr><tr><td></td><td>Southern</td><td></td><td></td><td></td></tr><tr><td>520</td><td>Upper Great Southern</td><td>155 880</td><td>752</td><td>4.8</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(continued) ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/f1763e1c87f5cc71b7c26595f2b81372da0c66ffa12c0863f675765c78c0acba.jpg",
+        "table_caption": [
+            "Table 6 (continued) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SD ID</td><td>SD Name</td><td>Area</td><td>Biomass</td><td>Productivity</td></tr><tr><td>525</td><td>Midlands</td><td>299 785</td><td>1403</td><td>4.7</td></tr><tr><td>530</td><td>South-eastern</td><td>76 430</td><td>393</td><td>5.1</td></tr><tr><td>535</td><td>Central</td><td>134 640</td><td>690</td><td>5.1</td></tr><tr><td>540</td><td>Pilbara</td><td>160</td><td><1</td><td>1</td></tr><tr><td>545</td><td>Kimberley</td><td>445</td><td>3</td><td>6.7</td></tr><tr><td>605</td><td>GreaterHobart</td><td>1435</td><td>10</td><td>7.0</td></tr><tr><td>610</td><td>Southern</td><td>12 650</td><td>99</td><td>7.8</td></tr><tr><td>615</td><td>Northern</td><td>22 950</td><td>264</td><td>11.5</td></tr><tr><td>620</td><td>Mersey-Lyell</td><td>10 170</td><td>163</td><td>16.0</td></tr><tr><td>705</td><td>Darwin</td><td>450</td><td>6</td><td>13.3</td></tr><tr><td>710</td><td>Northern</td><td>3645</td><td>37</td><td>10.2</td></tr><tr><td></td><td>Territory-Bal</td><td></td><td></td><td></td></tr><tr><td>805</td><td>Canberra</td><td>545</td><td>5</td><td>9.2</td></tr><tr><td>810</td><td>Australian Capital</td><td>355</td><td>4</td><td>11.3</td></tr><tr><td></td><td>Territory-Bal Totals</td><td>2 390 610</td><td>14 661</td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb784a9efb14223d2d6f93ae8744aba91fdb5eca2633430c143172e4c2b3af84.jpg",
+        "table_caption": [
+            "Table 7 Total biomass (Mt) potentially available annually for each feedstock and time period "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Biomass type</td><td>2010</td><td>2030</td><td>2050</td></tr><tr><td>Crop stubble</td><td>27.7</td><td>27.7</td><td>27.7</td></tr><tr><td>Grasses</td><td>19.7</td><td>19.7</td><td>19.7</td></tr><tr><td>Plantation forests</td><td>10.9</td><td>14.2</td><td>12.8</td></tr><tr><td>Native forests</td><td>7.9</td><td>7.9</td><td>7.9</td></tr><tr><td>Bagasse</td><td>5.5</td><td>5.5</td><td>5.5</td></tr><tr><td>Organic waste (MSW)</td><td>6.5</td><td>9.0</td><td>10.9</td></tr><tr><td>SRT</td><td>0.0</td><td>14.7</td><td>29.3</td></tr><tr><td>Total</td><td>78.3</td><td>98.7</td><td>114.0</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "no drying required) which is useful for biogas production,timing would be similar because farmers will tar getharvest at thetime ofoptimum biomass accumulation. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A further challenge results from the considerable interannual variability of production of grass and crop stubble,especially for grasses.Woody biomass sources are less variable and provide a buffer' supply,because biomass accumulates over time and can be effectively 'stored' in the field until required. Therefore,combining woody biomass sources with crop residues/grass can help spread the risk of the effects of climatic variability on biomass production and potential availability. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Our estimates of forest biomass (woody biomass), which already exclude sawlogs,are likely to be maximum amounts that could be potentially available for use for bioenergy. There are existing alternative markets for pulpwood and for a portion of sawmill residues in many regions (e.g. Rodriguez et al.,2011c). Thus,bioenergy would compete with these markets if the biomass resource was to be diverted.Currently，in-field forest residues are not collected and the impact of removal of these fractions will require careful management and further research. Further work is required to develop harvestingsystemstoimprovecollectionefficiency, quantify the costs and explore the sustainability implications of removing the biomass from the forest floor. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6e53d6da7ac7a5844754e96f3f049c50d5ebad468048e2552833ba8a91bdd34.jpg",
+        "img_caption": [
+            "Fig.8Spatial representation of the potential total biomass $( \\mathbf { k } \\mathbf { t } )$ potentially available annually in each of the 6O Statistical Divisions in 2010. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Much of the bagasse produced is already used in the sugar mills to generate bioelectricity. Our estimates of the amounts of bagasse potentially available for diversion include the bagasse already used for bioelectricity. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "All organic waste resources produced in Australia were considered to be potentiallyavailable fordiversion to bioenergy - yet at present over $5 1 \\%$ of waste generated in Australia is recycled (DEWHA 201O). Only the organic MSW waste was disaggregated to SDs. This biomass type is a relatively minor component of the seven types identified in this study -it is assumed to contribute $8 \\%$ by mass in 2010,increasing to ${ \\sim } 1 0 \\%$ by 2050.The organic material in the C&I and C&D waste streams- an additional $4 . 7 \\ \\mathrm { M t }$ of organic biomass in ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2010-has been excludedbecause available data cannot be disaggregated satisfactorily to SD level. As recycling and recording of these waste streams improves, there is potential for available quantities to increase.Regardless of the amount of waste biomass potentially available the most significant biomass hotspots are those rural SDs that produce both agricultural and forestry biomass resources. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The planting of SRT for biomass is one suggested way of increasing the amount of biomass potentially available for bioenergy into the future. The SRT productivity values given in Table 6 are the average for identified land in each SD.The actual productivity achieved would depend on where SRT were planted and may be higher than the average if the growers selected the more productive areas. A major investment wouldbe required to establish an SRT estate of the magnitude estimated in the scenarios for this study.It is unlikely that anestablishmentratewouldexceed $1 0 0 \\ 0 0 0 \\ \\mathrm { h a \\ y r } ^ { - 1 }$ (achieved with establishment of blue gum plantations over several years during the managed investment schemes (MIS) expansion of the last decade). Thus,it will take decades of investment and effort to achieve thearea of 2.4 Mha estimated in this scenario. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c1904e8aa327608173152d8ab0e36b6e27f72dd30ffd06e9a9e37d14cbd7aec.jpg",
+        "img_caption": [
+            "Fig.9Spatial representation of the potential total biomass (kt) potentially available annually in each of the 6O Statistical Divisions in 2030.See Fig.8 for individual SD numbering. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Woody regrowth biomass has not been assessed in this study,but is known to be significant in particular regions of Australia such as in the Fitzroy Basin in central Queensland (Booth et al.,2014; Murphy et al., 2015). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "There are many different existing and developing technologies for producing electricity， liquid fuel，gas andotherproductsfrom lignocellulosicbiomass. Depending on the type of technology,there are tradeoffs between the type and scale of economy of the conversion facility,and the spatial distribution and concentration of the feedstock resource (e.g.Richard,2010; Stucley et al.,2012;Brinsmead et al.,2015a).Brinsmead et al.(2015a） suggest specific analytical approaches to define the economic tradeoffs between spatial density, cost of harvest and transport,and scale of economy for a range of emerging technologies. Richard (2010) suggests that a cellulosic biofuel refinery should have an annual output of $2 0 0 { - } 1 0 0 0 \\ \\mathrm { M L }$ in order to achieve economiesof scale.IEA (2004） reports conversion efficiencies of cellulosic biomass,such as the types discussed here,to be in the range of 288-3901 of ethanol per tonne of dry feedstock.Using this range,a $2 0 0 ~ \\mathrm { M L }$ refinery would require $5 0 0 { - } 7 0 0 ~ \\mathrm { k t }$ of biomass per year. Richard (2010） reports that a $3 0 0 ~ \\mathrm { M W }$ power plant would require a similar amount of biomass. Optimizing the variables within the production plant, including cost and scale efficiency，needs to be conducted in the context of the supply chain and region,in terms of biomass spatial density，type，seasonality etc.as demonstrated by Brinsmead et al. (2015a,b). This approach can be further explored across the range of biomass types and regions matched with energy types and scales. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/1063b6887cb16f7f546651d3e968137a749e0e6139013584828dd7066f737167.jpg",
+        "img_caption": [
+            "Fig.10 Spatial representation of the potential total biomass (kt) potentially available annually in each of the 6O Statistical Divisions in 2050.See Fig.8 for individual SD numbering. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In our assessment of biomass potentially available for harvest/diversion on a SD basis for 2010,41 of the 60 SDs produced in excess of $5 0 0 ~ \\mathrm { k t ~ y r } ^ { - 1 }$ .However,a full analysis of the constraints imposed by the logistics of harvest, storage and transport, or by economics has not been applied and is not discussed in this paper. Stucley et al.(2012) indicate that a typical breakdown of costs for producing and supplying biomass for bioenergy would be $2 5 \\%$ for production, $5 0 \\%$ for harvesting and ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$2 5 \\%$ for transport. Bioenergy industries will require large amounts of biomass to be sustainably produced and supplied in a reliable manner to conversion facilities. Clearly, there are major challenges in developing biomass supply systems at the scale required to make a major contribution to a renewable bioenergy market. The approach taken by Brinsmead et al. (2015a,b） and Rodriguez et al. (201la) could be applied at a national scale across the aggregate biomass PAfH,along with more detailed surveys of cost structures relevant to each region. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Our analyses provide a broad assessment of the potential availability of biomass for bioenergy in Australia; they have increased the resolution of information (i.e. finer scale) and are therefore useful in guiding potential government interaction and business development.More detailed regional analyses,including the transport and storage costs of delivered biomass,as well as competing markets for biomass,are needed to underpin investment in specific conversion facilities.More detailed regional investigations of the sustainability of various supply chains are also required (O'Connell et al.,2013;Future Farm Industries CRC,2014). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We thank our CSIRO colleagues particularly fellow members of the Sustainable Biomass Project and Dr Paul Graham for their inputs to the development of this paper and Dr Trevor Booth and Dr Jenny Haywood for their critical reviews.This work spawned froma project funded by AEMO's $100 \\%$ renewable electricity scenarios project and was funded by the CSIRO Energy Flagship. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "ABARE (2010)Australian Forest and Wood Products Statistics.September and December Quarters 2oo9.Australian Bureau of Agricultural and Resource Economics, Canberra,Australia.   \nABARES (2008) Forests of Australia (2008) Spatial Dataset.Australian Bureau of Agricultural and Resource Economics and Sciences, Canberra,Australia.   \nABS (2008)Population Projections,Australia,2006 to 2101.ABS 32220.Published4Sept 2008.Australian Bureau of Statistics,Canberra.   \nAnon. (1996-2006) Australian Sugar Year Book.Rural Press Queensland Pty Ltd,Ormiston, Australia.   \nASMC(1996-2006) Annual Review.Australian Sugar Milling Council, Brisbane,Australia.   \nASMC (2014) Australian Sugarcane Industry Ooerview.Available at: http://asmc. com.au/industry-overview/(accessed 21 October 2014).   \nBartle J (2009) Integrated production systems.In: Agroforestry for Natural Resource Management (eds Nuberg I, George B,Reid R),pp.267-280. CSIRO Publishing, Collingwood, Vic.,Australia.   \nBartle J,Olsen G,Cooper D,Hobbs T (2007) Scale of biomass production from new woody crops for salinity control in dryland agriculture in Australia. International Journal ofGlobal Energy Issues,27,15-137.   \nBaynes TM,HerrA,LangstonA,SchandlH(2012) Coastal ClimateRisk Project Milestone1Final Reportto theAustralian Department ofClimate ChangeandEnergy Effciency.Prepared for the Department of Climate Change and Energy Efficiency (DCCEE) by the Commonwealth Scientific and Industrial Research Organization (CSIRO),DCCEE,Canberra,Australia.   \nBooth TH, Raison RJ, Crawford DF et al. (2014) Biomass for aviation fuel production in the Fitzroy Basin, Queensland: a preliminary assessment of native and plantation forest potential. Australian Forestry,77,1-8.   \nBrinsmead TS,Herr A,O'Connell DA (2015a) Quantifying spatial dependencies, trade-offs and uncertainty in bioenergy costs: an Australian case study (1)-least cost production scale. Biofuels, Bioproducts and Biorefining,9,21-34.   \nBrinsmead TS,Herr A,O'Connell DA (2015b) Quantifying spatial dependencies, trade-offs and uncertainty in bioenergy costs: an Australian case study (2)-nationalsupplycurves.iofuels,ioproductsandiorefining,9,50   \nBureauof Rural Sciences (201o)UserGuide andCaoeats fortheLand Useof Australia, Version4,2005-06.BureauofRural Sciences,Cra.   \nBurns K,Sledge P,Wicks S (2009)ABARE 2007 sawmill survey report.ABARE report to the Australian Government Departmentof Agriculture,Fisheries andForestry and Forest and Wood Products Australia, Canberra,Australia.   \nCanegrowers (2006) Canegrowers Annual Report. Queensland Cane Growers OrganisationLtd,risbane,Austrlia.   \nCarter J,Hall WB,Brook KD,McKeon GM, Day KA,Paull CJ (2000)AussieGRASS: Australian grassland and rangeland assessment by spatial simulation. In: Applicationsof Seasonal ClimateForecasting inAgricultural and Natural Ecosystems The Australian Experience (eds Hammer N,Nichols N,Mitchell C)，pp.329-349. Kluwer Academic Press, Netherlands.   \nCarter J, Bruget D,Hassett R et al. (2003)Australian grassand and rangeland assess ment by spatial simulation (AussieGRASS).In: Science for Drought,Proceedings of theNational DroughtForum,BrisbaneApril oo3 (edsStoneR,PartridgeI),pp.152- 159.Department of Primary Industries, Brisbane,Australia.   \nCrawford D,Jovanovic T,O'Connor M,Herr A,Raison J, Baynes T (2012) AEMO （20 $100 \\%$ RenewableEnergy Study:Potentialfor Electricity GenerationinAustraliaFrom Biomass in 2010,2030 and 2050.CSIRO Energy Transformed Flagship,Newcastle, Australia.   \nDEWHA(2010)NationalWasteReport2010.epartmentofEnvironentWaerer itage and the Arts,and Environment Protection and Heritage Council, Canberra, Australia.   \nEdwardsRW(2oo1) StatisticalGeography Volume1AustralianStandard Geographical Classification (ASGC).Australian Bureau of Statistics,Canberra,Australia.   \nFarine DR,OoellARsoRJetal. (2)Ansessmntofis fobielectricity and biofuel,and for greenhouse gas emisson reduction in Australia. Global Change Biology Bioenergy,4,148-175.   \nFutureFarm Industries CRC (2014) Sustainable MaleeJetFuel.Sustainability and Life CycleAssessment forSupply toPerthAirport,WesternAustralia.Future FarmIndustries, Perth, WA,Australia.   \nGarvan M,Parsons M (2011) Australian Plantation Statistics 2011.Australian Bureau of Agricultural and Resource Economics and Sciences, Canberra,Australia.   \nGavran M,FrakesI, Davey S,Mahendrarajah S(20l2)Australia'sPlantation log Supply 2010-2054,ABARES, Canberra, March.CC BY 3.0.   \nHaywardJA,OConnellDA,RaisonRJetal. (2015)The economicsofproducingsustainable aviation fuel: a regional case study in Queensland,Australia.Global Change Biology Bioenergy,7,497-511.   \nHerr A (2007) Data integration issues in research supporting sustainable natural resources management. Geographical Research,45,376-386.   \nHerrA,Dunlop M(2011) Bioenergy in Australia:an improved approach for estimating spatial availability of biomass resources in the agricultural production zones. Biomassand Bioenergy,35,2298-05.   \nHerrA,FarineD,PoultonPetal.(2Olo)Haroesting StubbleforEnergyinAustralia Take itorLeaveit.PhaseIIofOpportunities forEnergy Efficiency,Regional Self-Sufficiency and Energy Production for Australian Grain Growers.CSIRO,Canberra,Australia.   \nHerr A,O'Connell D,Dunlop M, Unkovich M,Poulton P,Poole M(2012a) Second harvest—Is there suficient stubble for biofuel production in Australia? Global Change Biology Bioenergy,4,654-660.   \nHerrAOConell,FarineD,DunlopM,CrimpS,Pole (0b)Watching grass grow in Australia:is there suficient production potential for a biofuel industry?ofels,dctsndrefiing,,   \nHyder Consulting (2009) Waste and Recycling in Australia,amended report.Report to the Department of the Environment,Water,Heritage and the Arts,November 2009.   \nHyder Consulting (2011) Waste clasifications inAustralia.Acomparisonof waste classificationsin theAustralianwaste databasewith current jurisdictional classifications. Report to the Department of Sustainability,Environment, Water,Populationand Communities, October 2011.   \nHyder Consulting (2013)Waste Definitionsand Clasifications.Report on Isues, Opportunities and Information Gaps.Revision O2.Report to the Department of Sustainability,Environment,Water,Population and Communities,February 2012.   \nIEA(2004) Biofuels for Transport:An International Perspective.International Energy Agency,Paris,France.   \nKnapp S,SmartR,BarodienG (2006) National Land Use Maps:1992/93,1993/94,1996/ 97,2000/01 and 2001/02,Version 3.Report ER061223,National Land & Water Resources Audit, Canberra, Australia.   \nLandsberg JJ,Waring RH (1997)A generalised model of forest productivity using simplified concepts of radiation-use eficiency,carbon balance and partitioning. Forest Ecologyandanagement,95,09-330.   \nMeadows J,Coote D,Brown M (2014) The potential supply of biomassfor energy from hardwood plantations in the Sunshine Coast Council Region of South-East Queensland,Australia.Small-scale Forestry,13,461-481.   \nMontreal Process Implementation Group for Australia (2008)Australia's State of the Forests Report 2Oo8. Bureau of Rural Sciences,Canberra,Australia.   \nMurphy H, O'Connell D,Seaton G et al.(2012) A common view of the opportunities, challenges,and research actions for Pongamia in Australia. BioEnergy Research,5, 778–800.   \nMurphy HT,O'Connell DA,Raison RJ et al.(2015) Biomass production for sustainable aviation fuels: a regional case study in Queensland.Renewable and Sustainable Energy Reviews,44,738-750.   \nO'Connell D,Braid A,Raison Jetal.(20l3) Navigating Sustainability: Measurement, Evaluation and Action. CSIRO,Australia.   \nPeckA,SudmeyerR,Huxtable D,Bartle J,Mendham D (2012) Productivity of Mallee Agroforestry Systems.The Effect of Haruest and Competition Management Regimes. Publication No.11/162,RIRDC,Canberra,Australia.   \nPolglaseP,PaulK,Hawkins Cetal.(2oo8)Regional Opportunities forAgroforestry Systems in Australia.Report to the Rural Industries Research and Development Corporation. CSIRO, Canberra,Australia.   \nRaisonRJ,SquireRO eds (2O10) Forest Management in Australia:Implications for Carbon Budgets.National Carbon Accounting System Technical Report 32.Australian Greenhouse Office,Canberra, Australia.   \nRichard TL (201o) Challenges in scaling up biofuels infrastructure. Science,329, 793- 796.   \nRIRDC (2014) Opportunities for Primary Industries in the Bioenergy Sector:National Research,Developmentand Extension Strategy.Priority AreaRD&E Implementation Plan.Publication No 14/056,RIRDC,Canberra,Australia.   \nRodriguezLC,WardenA,OConnellDetal. (0la)Oportunitiesforforestbioeery: An assessment of the environmental and economic opportunities and constraints associated with bioenergy production frombiomass resources in two prospective regions ofAustralia.Report to Department of Agriculture,Fisheries and Forestry by CSIRO Energy Transformed Flagship,Canberra,Australia.   \nRodriguez LC,May B,Herr A,Farine D,O'Connell D,Crawford D (2011b) Biomass assessment and small scale biomass fired electricity generation in the Green Triangle,Australia.Biomass and Bioenergy,35,2589-2599.   \nRodriguez LC,May B,Herr A,Farine D,O'Connell D,Crawford D (201lc) Biofuel excision and the viability of ethanol production in the Green Triangle,Australia. Energy Policy,39,1951-1957.   \nRural Industries Research and Development Corporation (RIRDC) (2011) Opportunities for Primary Industries in the Bioenergy Sector:National Research,Development and Extension Strategy.Publication No 11/O79，RIRDC,Canberra, Australia.   \nSimsR,TaylorM,SaddlerJ,MabeeW(2Oo8)From1stto2ndGenerationBiofuel Technologies.An Overview of Current Industry and RD&D Activities.International Energy Agency,Paris,France.   \nStirzakerR,Verteddy R,Sarre A(eds) (2O02) Trees,Water and Salt.An Australian Guide to Using Trees for Healthy Catchmentsand Productive Farms.RIRDCPublication No. 01/086,RIRDC,Canberra,Australia.   \nStucley C,Schuck S,SimsR et al.(2012) Bioenergy in Australia-Status and Opportunities.Bioenergy Australia Ltd, Sydney,Australia.   \nWildy DT,Pate JS,Sefeik LT (2004)Water-use efficiency of a mallee eucalypt growing naturally and in short-rotation coppice cultivation.Plant and Soil,262, 111- 128.   \nXimenes FA，Gardner WD，Kathuria A (2O08) Proportion of above-ground biomass in commercial logs and residues following the harvest of five commercial forest species in Australia.Forest Ecology and Management,256, 335–346.   \nXimenes F,Ramos J, BiH,Cameron N,Singh BP,Blasi M (2012) Determining Biomass inResiduesFollowing Harvestin PinusRadiata Forests in New South Wales.RIRDC Publication No.11/177,RIRDC, Canberra,Australia. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the online version of this article: ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Table S1.Biomass potentially available $( \\mathrm { k t ~ y r } ^ { - 1 } ;$ ）in2010 from each assessed biomass type for bioenergy production in 60 Australian Statistical Divisions.   \nTable S2.Biomass potentially available $( \\mathbf { k } \\mathbf { t \\ y r } ^ { - 1 }$ ）in 2030 from each assessed biomass type for bioenergy production in 60Australian StatisticalDivisions.   \nTable S3.Biomass potentially available $( \\mathbf { k } \\mathbf { t \\ y r } ^ { - 1 }$ ）in2050 from each assessed biomass type for bioenergy production in 60 Australian Statistical Divisions. ",
+        "page_idx": 15
+    }
+]

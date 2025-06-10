@@ -1,0 +1,271 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "舒林酸对孤独症模型大鼠病症行为的改善作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦利燕1,²,戴旭芳1,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1重庆市特殊儿童心理诊断与教育技术重点实验室，重庆400047；第三军医大学西南医院输血科,重庆  \n400038；重庆师范大学教育科学学院特殊教育系，重庆400047",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 探讨舒林酸对孤独症模型大鼠病症行为的改善作用。方法 在大鼠怀孕12.5d后采用一次性腹腔注射丙戊酸钠(VPA)制备孤独症大鼠模型。针对舒林酸处理组,于VPA注射后每天给大鼠口服 $2 0 \\mathrm { m g / k g }$ 舒林酸直至断奶。将出生幼鼠分为4组：对照组，VPA处理组，舒林酸处理组及VPA联合舒林酸处理组。出生后35d对幼鼠进行社会交往行为检测、箱焦虑样行为检测，并分离提取脑组织蛋白利用Westernblot分析Wnt信号通路关键蛋白 $\\beta$ -catenin与Gsk3β表达情况。结果成功制备孤独症大鼠模型。与对照组相比，VPA处理组社会交往能力下降、在中央区活动时间增加、站立次数减少,符合孤独症行为特征;舒林酸单独处理组无明显行为学变化；但舒林酸联合处理能明显改善VPA处理导致的孤独症行为症状。Westemblot结果显示，与对照组相比，VPA处理可增强大鼠前额叶、海马及小脑组织中β-catenin表达水平并降低Gsk3β第9位丝氨酸磷酸化水平；而舒林酸联合处理则能抑制上述脑组织中β-catenin表达水平并增加Gsk3β第9位丝氨酸磷酸化水平。结论 舒林酸可改善孤独症模型大鼠的病症行为，机制可能与抑制脑组织中Wnt信号通路相关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：舒林酸;孤独症;Wnt信号通路",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of sulindac on improving autistic behaviors in rats ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "QIN Liyant2, DAI Xufang1.3   \nChongqinKeyLaboatoryofschologicaliagosisndEducatioalechnologforCildrenwithpecialeedshongi00 China;Deptotaldcaliyo Education Science, Chongqing Normal University, Chongqing 40oo47,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To test the efectof sulindac on autistic behaviors in arat model and explore the possble mechanisms. Methods Autisticrat models were established byasingle intraperitoneal injection ofsodium valproate(VPA)at12.5days of pregnancy. The pregnant rats were treated with oral sulindac at a daily dose of $8 0 ~ \\mathrm { m g / k g }$ until weaning of the newborn rats (23 days after being born),which were divided into control, VPA treatment, sulindac treatment,and $\\mathrm { \\Delta V P A ^ { + } }$ sulindac treatment groups.The social interaction and neuroethology of the newbornrats were evaluated at 35 days,and the levels of $\\beta$ catenin and phosphorylated $_ \\mathrm { G s k } 3 \\beta$ in the brain tissues were investigated by Western bloting. Results Compared with the control rats, the rats treated with VPA showed lower social interaction,longer moving time incentralarea,and reduced standing times. Treatmentwithsulindacaloneresulted innoobviouschanges inthesocialinteractionorneuroethologyof thenewbornrats, but sulindac treatment corrected VPA-induced autistic-like behaviors.Sulindac also atenuated VPA-triggered $\\mathsf { p } { \\mathrm { - } } \\mathsf { G s k } 3 \\beta$ downregulation and $\\beta$ catenin upregulation in the prefrontal lobe, seahorse and cerebellum. Conclusion Sulindac can improve the behaviors of autistic rats possibly by suppressing Wnt signaling pathway. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: sulindac; autism; Wnt signaling pathway ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孤独症又称儿童自闭症，是一种脑发育障碍疾病，临床特征主要体现在婴幼儿期出现的交往障碍、语言障碍和重复刻板行为等。孤独症的发病率约千分之五[]。目前国内约有60多万孤独症儿童，男孩多于女孩，且发病率还呈上升趋势[2]。孤独症的发病涉及遗传、免疫、环境、教育、饮食等多方面因素，至今尚未完全阐明[3]。因此，目前针对孤独症的治疗主要以不典型抗精神病药如奥氮平等、针刺疗法、按摩、高压氧、音乐治疗等为主4]，尚无明确的治疗方案及特效药物。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年的研究表明，孤独症患者脑组织中多种信号通路发生紊乱，如与神经系统发育密切相关的Wnt信号通路[5、与神经细胞生长相关的PI3K/AKT/MTOR信号通路以MAPK信号通路等。尤其是Wnt信号通路，不仅在孤独症患者中存在Wnt2基因编码序列突变现象[8，在孤独症模型大鼠的脑组织中也发现Wnt信号通路处于超激活状态,而且将Wnt信号通路中关键基因散乱蛋白(Dishevelled-1,Dvl-1)敲除后的小鼠也表现出类似孤独症的行为症状[1o]。因此，抑制Wnt信号通路的过度激活可能是改善孤独症行为症状的可行途径，但相关研究目前尚未见报道。由于非甾体抗炎药物舒林酸可以与DvI-1中的PDZ结构域特异性结合而抑制其活性，从而抑制Wnt信号通路],因此本研究拟以孤独症大鼠为模型，探讨舒林酸对孤独症大鼠病症的改善作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1实验动物本实验所用Wistar大鼠（合格证号：SYXK(渝)2012-0002)由第三军医大学实验动物中心提供。成年SPF级Wistar雌性大鼠(体质量 $2 0 0 { \\sim } 2 5 0 ~ \\mathrm { g } ,$ 10只，雄性大鼠(体质量 $3 0 0 { \\sim } 3 5 0 ~ \\mathrm { g }$ ）10只，子代雄性大鼠(出生后35d,体质量 $8 0 { \\sim } 1 0 0 \\ \\mathrm { g }$ )30只，饲养于第三军医大学实验动物中心。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2药物与试剂 丙戊酸钠(Sodium valproate,VPA）舒林酸购自Sigma, $\\mathrm { \\ G s k { 3 \\beta } }$ 、磷酸化 $\\mathrm { G s k } 3 \\beta$ (Ser 9)、$\\beta$ -catenin抗体、GAPDH抗体购自Cell Signaling,细胞裂解液和BCA蛋白浓度测定试剂盒购自江苏碧云天生物技术公司，PVDF膜为美国Bio-Rad产品;蛋白相对分子质量标准及免疫组化试剂盒购自北京中衫公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1动物模型制备参照Schneider等2的方法，将雌、雄大鼠合笼过夜，次日早晨对雌鼠进行阴道涂片检查，发现阴栓者记为妊娠第1天，并将孕母鼠单独饲养。在第12.5天按 $6 0 0 \\mathrm { m g / k g }$ 剂量腹腔一次性注射VPA,对照组孕鼠腹腔注射等量的生理盐水。模型组孕鼠产下的幼鼠即为孤独症模型组，而对照组孕鼠产下的幼鼠即为对照组。参照Xing等[13的方法,把舒林酸溶于芝麻油(终浓度为 $4 0 ~ \\mathrm { m g / m L }$ )中并将其渗入常规颗粒性大鼠饲料中，在第12.5天后按照每天 $2 0 ~ \\mathrm { m g / k g }$ 体质量的比例饲喂母鼠直至仔鼠断奶(出生后 $2 3 \\mathrm { d }$ )，其它小组喂服含等剂量溶剂(芝麻油)的饲料，幼鼠出生后第1天记为P1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2社会交往行为检测在幼鼠出生后35d,分别从每组各选择6只进行检测。检测鼠均为雄性，出生时间相同，体质量差别小于 $\\boldsymbol { 1 5 } \\mathrm { \\ : g \\ : }$ ，分笼饲养。检测在大小为$6 0 \\mathrm { c m } { \\times } 6 0 \\mathrm { c m } { \\times } 6 0 \\mathrm { c m }$ 的透明三室箱内进行。实验前1d，所有被检测鼠放入检测室适应环境。实验时将1只被测鼠放入中间小室先适应 $1 0 \\mathrm { m i n } .$ 。然后在左侧小室空铁丝笼子，右侧小室放入陌生幼鼠并用同样的铁丝笼子罩住。打开中间小室进入左、右小室的通道，摄像记录$1 0 \\mathrm { m i n }$ 内被检测鼠的行为，通过Any-Maze软件系统分别统计被检测鼠自梳理(非社交行为）、嗅铁丝笼子和陌生鼠(社交行为)时间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3“敞箱”焦虑样行为检测同样在幼鼠出生后35d检测，分别从模型组与对照组各选择5只进行检测，被检测大鼠的选择标准同1.2.2。检测在大小为 $2 5 ~ \\mathrm { c m } \\times$ $2 5 \\mathrm { c m } { \\times } 3 8 \\mathrm { c m }$ 的封闭箱内进行，箱子中央 $1 2 \\mathrm { c m } { \\times } 1 2 \\mathrm { c m }$ 区域为中央区。实验前1d,所有被检测鼠放入检测室适应环境。检测时将被检测鼠放入检测箱中央，摄像记录 $5 \\mathrm { m i n }$ 内被检测鼠的行为，通过Any-Maze软件系统分别统计被检测鼠在中央区活动时间及直立次数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4Westernblot检测将出生后35d的幼鼠断颈处死，立即分离前额叶皮层、海马和小脑组织。将各组织分别按 $1 0 0 ~ \\mathrm { { m g / m L } }$ 比例加入组织裂解液进行匀浆。冰上静置 $3 0 ~ \\mathrm { m i n }$ 后于 $4 \\mathrm { ~ ‰ ~ }$ 离心 $3 0 ~ \\mathrm { m i n }$ 。取上清,测定蛋白浓度后置 $- 8 0 \\ \\mathrm { { ^ circ C } }$ 冰箱备用。将含 $5 0 ~ { \\mu \\mathrm { g } }$ 总蛋白的组织样品经变性后进行SDS聚丙烯酰胺凝胶电泳，然后再转移到PVDF膜上。经 $5 \\%$ 脱脂奶粉封闭后加入一抗 $4 ^ { \\circ } \\mathrm { C }$ 孵育过夜，洗涤后再加入二抗，室温孵育 $^ { \\textrm { 1 h } }$ 。再经漂洗后加人化学发光液进行曝光显影。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.5统计学分析采用SPSS19.0统计软件进行数据分析，所有数据均用均数 $\\cdot \\pm$ 标准差表示，采用单因素方差分析后两两比较检验，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 舒林酸处理显著改善孤独症大鼠的社会交往能力",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对社会交往能力测试结果分析发现(表1)，与正常对照组相比，VPA处理组的社会交往能力显著下降( $P =$ 0.000)，体现为与陌生幼鼠交往减少，不愿接触新事物，自我梳理时间增加，符合孤独症儿童的行为特点。舒林酸单独处理组与对照组相比社会交往能力无显著差异中 $\\scriptstyle { \\mathrm { ~ \\mathit { P } = 0 . 6 3 0 ) } }$ ；而舒林酸联合处理则可以显著改善VPA处理导致的社会交往能力下降 $\\scriptstyle \\left( P = 0 . 0 0 3 \\right)$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c1f0f505ee5d7c02016b28864ce91a9723f17bb22899321128e0528b4872b8cd.jpg",
+        "table_caption": [
+            "表1各处理组大鼠的社交活动时间统计分析结果",
+            "Tab.1 Statistic analysis of social interaction time in different groups $\\scriptstyle \\cdot _ { n = 6 }$ ） "
+        ],
+        "table_footnote": [
+            "Compared to control group, $^ { * } P { < } 0 . 0 5$ $^ { * * }$ : Compared tocontrol group, $P { < } 0 . 0 1$ ; X: Compared to VPA group, $P { < } 0 . 0 5$ ； xα: Compared to VPA group, $P { < } 0 . 0 1$ ; : Compared to sulindac group, $P { < } 0 . 0 5 ; ^ { \\mathbf { \\tau } ^ { \\mathbf { \\pi } } }$ : Compared to sulindac group, $P { < } 0 . 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>Time of social interaction(Mean±SD,min)</td><td>Time of non-social interaction (Mean±SD,min）</td><td>P within group</td></tr><tr><td>Control</td><td>6.11±0.62</td><td>3.89±0.62</td><td>0.000</td></tr><tr><td>VPA</td><td>3.58±0.97**</td><td>6.42±0.97**</td><td>0.000</td></tr><tr><td>Sulindac</td><td>5.91±0.48</td><td>4.09±0.48</td><td>0.000</td></tr><tr><td>VPA+Sulindac</td><td>4.94±0.66**mV</td><td>5.06±0.66*m</td><td>0.744</td></tr><tr><td>P inter-group</td><td>0.000</td><td>0.000</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 舒林酸处理明显改善孤独症大鼠的焦虑行为 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1舒林酸处理减少孤独症大鼠在中央区活动时间如表2所示，正常对照组在非中央区活动时间显著高于中央区 $\\scriptstyle { \\mathit { P } } = 0 . 0 0 0 )$ ,而VPA处理组在中央区活动时间与非中央区活动时间无明显差异( $\\scriptstyle P = 0 . 3 9 2$ ),与对照组差异明显 $\\scriptstyle ( P = 0 . 0 0 3 )$ ),符合孤独症的行为特点。舒林酸单独处理组与对照组相比活动方式无显著差异（ $P =$ 0.074);而舒林酸联合处理则可以减少孤独症大鼠在中央区活动时间 $\\scriptstyle { ( P = 0 . 0 1 0 ) }$ ，明显改善孤独症幼鼠的活动方式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9678fd6d011b007b0b32eadd7f679022cd137075f7b3d6f2ea095a986de96824.jpg",
+        "table_caption": [
+            "表2各处理组大鼠的中央区活动时间统计分析结果",
+            "Tab.2 Statistic analysis of the time moving in central region in different groups $\\scriptstyle ( n = 6 )$ （204 "
+        ],
+        "table_footnote": [
+            "\\*: Compared to control group, $P { < } 0 . 0 5$ ， $* *$ : Compared to control group, $P { < } 0 . 0 1$ ； α: Compared to VPA group, $P { < } 0 . 0 5$ ； xα: Compared to VPAgroup, $P { < } 0 . 0 1$ ; : Compared to sulindac group, $P { < } 0 . 0 5 ; ^  \\mathbf { \\triangledown } \\mathbf { \\} }$ : Compared to sulindac group, $P { < } 0 . 0 1$ ："
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>Time moving in central region (Mean±SD,min)</td><td>Time moving in non-central region (Mean±SD,min)</td><td>P within group</td></tr><tr><td>Control</td><td>1.02±0.24</td><td>3.98±0.24</td><td>0.000</td></tr><tr><td>VPA</td><td>2.64±0.54**</td><td>2.36±0.54**</td><td>0.392</td></tr><tr><td>Sulindac</td><td>1.45±0.39</td><td>3.55±0.39*</td><td>0.000</td></tr><tr><td>VPA+Sulindac</td><td>2.00±1.34*mV</td><td>3.00±0.34**m</td><td>0.000</td></tr><tr><td>P inter-group</td><td>0.000</td><td>0.000</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 舒林酸处理增加孤独症大鼠站立次数 正常对照组的站立次数显著高于VPA处理组（ $\\scriptstyle { ( P = 0 . 0 0 0 ) }$ ，而舒林酸联合处理则可以明显增加孤独症大鼠的站立次数1 $_ { ( P = 0 . 0 1 3 ) }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3舒林酸处理改变孤独症大鼠前额叶皮层、海马和小脑组织中Wnt信号通路关键蛋白的表达",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别提取各组大鼠的前额叶皮层、海马和小脑组织蛋白进行Westernblot。结果如图1所示，与正常对照组相比，VPA处理组的前额叶皮层、海马和小脑组织中Wnt信号通路的 $\\beta$ -catenin蛋白表达水平及Gsk3β的第9位丝氨酸磷酸化水平明显增强，而舒林酸单独处理组及VPA与舒林酸的联合处理组中 $\\beta$ -catenin的表达水平与Gsk3β的第9位丝氨酸磷酸化水平明显下降，表明舒林酸处理可改变孤独症大鼠前额叶皮层、海马和小脑组织中Wnt信号通路关键蛋白的表达，这种改变可能对Wnt信号通路起抑制作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/85f86a0b8a22d1d9cf62c46080f280bf5e0a4d331f9728366ba6a16df380e180.jpg",
+        "img_caption": [
+            "图1Western blot分析各组大鼠前额叶皮层、海马和小脑组织中β-catenin和Gsk3β表达水平 Fig.1 Expression levels of $\\beta$ catenin and Gsk3β in the prefrontal cortex,hippocampus and cerebellum in different groups. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前有多种用于孤独症研究的动物模型，如Dvl-1基因敲除鼠模型、VPA药物处理模型、病毒感染模型等[14]。这些模型中,VPA一次性注射模型是一种目前公认的较理想的孤独症动物模型。该模型在行为上可以模拟孤独症的重复、刻板等行为特征，且脑组织的病理变化也与孤独症病人尸检报告相似。社会交往实验是检测模型动物社会交往能力的经典实验，实验中的空笼子与陌生鼠分别代表了新事物与新伙伴，通过统计分析规定时间内被检测鼠与陌生鼠、空笼子接触及自我梳理时间,从而判断其社会交往能力[15]。本研究中,经VPA处理的模型鼠社会交往能力明显减弱，与孤独症症状相符。神经行为学检测实验中，在中央区所呆时间反映了被测动物的神经兴奋性，正常鼠具有避开中央区、在四周角落中探寻的习惯，而孤独症鼠则相对愿意呆在中央区；站立次数反映了被测鼠在新环境中的探索能力，正常鼠站立次数多、探索能力强，而孤独症鼠则站立次数减少、探索能力减弱[15]。本研究中VPA处理的孤独症模型鼠也具有相似的行为特征。VPA诱导大鼠发生孤独症的药理机制目前尚不明确。本实验结果表明，VPA可以抑制大鼠前额页、海马与小脑组织中的Gsk3β磷酸化，增加β-catenin的表达，从而增强Wnt信号通路活性，这与Dvl-1基因敲除孤独症模型鼠中 $\\mathbf { W } \\mathbf { n } \\mathbf { t }$ 信号通路活性的表现相一致,也与陈明军等的报道相符[1，表明Wnt信号通路过度激活可能是VPA诱导孤独症发病的重要机制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Wnt信号通路对神经系统的发育具有重要调控作用。在发育早期， $\\mathrm { \\Delta W n t }$ 信号通路对神经细胞的增殖、分化、迁移、凋亡及突触的形成均具有调控作用[17]。因此，一旦Wnt信号通路被抑制或过度激活均会对神经细胞的发育造成影响，进而引发神经发育障碍疾病的发生。许多孤独症患者存在Wnt2编码序列基因突变[8，敲除Wnt信号通路中Dvl-1基因的小鼠，也表现出社交行为和感觉运动障碍[10],Dvl-1和Dvl-2缺失的小鼠,神经管闭合不全[18],而catenin转基因小鼠，则能使神经前体细胞增殖，导致巨大脑、脑皮质容量增加[19],这些研究结果均强烈提示Wnt通路与孤独症的发病密切相关。本研究结果也表明，孤独症模型大鼠脑组织中经典Wnt通路被过度激活，这可能与孤独症的发病密切相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "舒林酸是一种非甾体抗炎药，它本身活性极小，经生物转化后发挥作用。Lee等\"的研究进一步发现，舒林酸可以与Wnt信号通路中关键蛋白Dv1中的PDZ结构域特异性结合，从而抑制Wnt信号通路。已有研究表明，舒林酸不仅具有抗肿瘤作用，同时还对阿尔海默滋病、心肌缺血再灌注损伤有治疗作用[20-21]。但目前尚没有舒林酸改善孤独症症状的相关报道。本实验结果表明，舒林酸处理后大鼠前额叶皮质、海马及小脑组织中$\\beta \\mathrm { . }$ -catenin的表达水与Gsk3β的第9位丝氨酸磷酸化水平明显下降。因此，舒林酸可能通过对Wnt信号通路的抑制来改善孤独症的病症，这一结果为孤独症的治疗提供了一定的理论与实验依据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Napoli E,Duenas N,Giulivi C.Potential therapeutic use of the ketogenic diet in autism spectrum disorders[J].Front Pediatr, 2014, 30(2): 69.   \n[2]Chen W. Seventy years autism: from Kanner to DSM-V[J]. JClinic Pediatrics,2013,31(11):1001-4.   \n[3]Matson JL,Jang J. Treating aggression in persons with autism spectrum disorders:A review[J].Res Dev Disabil,2014,35(12): 3386-91.   \n[4]Bhat S,Acharya UR,Adeli H,et al.Autism: cause factors,early diagnosis and therapies[J].Rev Neurosci, 2014,25(6): 841-50.   \n[5]Zhang Y, Yuan X,Wang Z,et al. The canonical Wnt signaling pathway in autism[J].CNS Neurol Disord Drug Targets,2014,13 (5): 765-70.   \n[6]Tsai PT,Hull C,Chu YX,et al. Autistic-like behaviour and cerebellar dysfunction in Purkinje cell Tsc1 mutant mice[J].Nature, 2012, 488(7413): 647.   \n[7]Pucilowska J,Puzerey PA,Karlo J,et al. Disrupted ERK signaling duringcortical development leadstoabnormal progenitor proliferation，neuronal and network excitabilityand behavior, modelinghumanNeuro-Cardio-Facial-Cutaneousand related syndromes[J].JNeurosci, 2012,32(25): 8663-77.   \n[8]Folstein S,Mankoski R. Chromosome 7q: where autism meets language disorder[J].Am JHum Genet,2000,67(4): 278-81.   \n[9]Okerlund N,Kivimäe S,Tong CK,et al. Dactl is a postsynaptic protein required for dendrite,spine,and excitatorysynapse development in the mouse forebrain[J].J Neurosci, 2010,30(12): 4362-8.   \n[10]Lijam N,Paylor R,Mcdonald MP,et al. Social interaction and sensorimotor gating abnormalities in mice lacking Dvl1[J]. Cell, 1997,90(5): 895-905.   \n[11] Lee HJ,Wang NX,Shi DL,et al. Sulindac inhibits canonical Wnt signaling by blocking the PDZ domain of the protein dishevelled [J].Angew Chem Int Ed Engl,2009,48(35): 6448-52.   \n[12]Schneider T,Przewlocki R.Behavioral alterations in rats prenatally exposed tovalproicacid:animal model of autism [J]. Neuropsychopharmacology,2005,30(1): 80-9.   \n[13] Xing YX,Zhang XJ, Zhao K, et al. Beneficial effects of sulindac in focal cerebral ischemia: A positive role in Wnt/beta-catenin pathway [J].Brain Res,2012,1482(7): 71-80.   \n[14]Banerjee S,Riordan M,Bhat MA.Genetic aspects of autism spectrum disorders:insights from animal models[J].Front Cell Neurosci,2014,8(5): 58.   \n[15]Shah CR,Forsberg CG, Kang J. Letting a typical mouse judge whether mouse social interactions are atypical ［J].Autism Res, 2013,6(3): 212-20.   \n[16]Chen M, Yu J,Cai J,et al. Changes of the expressionof $\\beta$ -catenin and GSK- $3 \\beta$ in prefrontal cortex,hippocampus and cerebellm in an autism model of rat[J]. Chin Jof Neuroanatomy,2009,25(4): 361-8.   \n[17] Oliva CA, Vargas JY, Inestrosa NC.Wnt signaling: Role in LTP, neural networks and memory[J].Ageing Res Rev,2013,12(3, SI): 786-800.   \n[18] Wassink TH,Piven J, Vieland VJ,et al. Evidence supporting WNT2 as an autism susceptibility gene[J].Am JMed Genet,20o1,105(5): 406-13.   \n[19]Joksimovic M,Awatramani R.Wnt/-catenin signaling in midbrain dopaminergic neuron specification and neurogenesis[J]. J Mol Cell Biol,2014,6(1, SI): 27-33.   \n[20]Tai WP,Hu PJ,Wu J,et al.The inhibition of Wnt/beta-catenin signaling pathway in human colon cancer cells by sulindac [J]. Tumori,2014,100(1): 97-101.   \n[21] Cosar M,Kaner T, Sahin O,et al. The neuroprotective effect of Sulindac after ischemia-reperfusion injury in rats(1)[J].Acta Cir Bras,2014,29(4): 268-73. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(编辑：孙昌朋)",
+        "page_idx": 3
+    }
+]

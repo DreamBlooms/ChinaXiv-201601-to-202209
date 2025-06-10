@@ -1,0 +1,151 @@
+# 基于“可转债”的知识产权证券化模式设计
+
+# 武汉知识产权交易所的实践探索与困惑
+
+# 焦洪涛1\*陈 琪²王 乐
+
+1华中科技大学科技法研究所武汉4300742台湾清华大学科技法律研究所新竹300133武汉知识产权交易所科技金融服务部武汉430074
+
+摘要在知识产权对经济增长贡献度不断提高的背景下，挖掘知识产权资本潜力成为新趋势。探索知识产权证券化不仅符合国家政策导向，更是符合中国（湖北）自由贸易试验区战略定位的宗旨。目前国内已出现不同的知识产权证券化模式，尚未形成统一标准。武汉知识产权交易所作为国家平台，针对科技型中小企业融资难的现状探索知识产权证券化路径，将其设计成“科技可转债”，这是基于我国当下并没有能使欧美模式成功移植的市场环境与法律制度的考量。“科技可转债”符合证券化的本质特征，亦在中国证券市场实践中有迹可循。然而，“科技可转债”的落地遇到了法律与其他规范性文件层面的若干障碍。这些障碍如何破除，迫切需要学术界和实务界的关注，以促进我国知识产权证券化的开展。
+
+关键词知识产权证券化，欧美模式，可转换债券，科技可转债
+
+DOI 10.16418/j.issn.1000-3045.2018.03.004
+
+在工业经济时代，经济发展的动力植根于有形资产。进入知识经济时代，专利权、商标权、著作权等无形资产成了现代经济发展的关键资源。在无形资产重要性日益彰显的背景下，挖掘知识产权等无形资产的资本潜力，利用知识产权等无形资产融资也备受重视。基于此，我国积极出台了有关知识产权证券化的政策。从中发［2015」8号文，提出“推动修订相关法律法规，探索开展知识产权证券化业务”[1；再到国发〔2015〕71号文，提出“创新知识产权投融资产品，探索知识产权证券化”[2]。新近,中国（湖北）自由贸易试验区（以下简称“自贸区”）建立，明确其主要任务之一是“推进科技金融创新”[3]。由此可见，探索知识产权证券化既是我国政策的必然要求，也是自贸区实现其战略宗旨的必由之路。本文将探讨武汉知识产权交易所（以下简称“知交所”）设计的知识产权证券化模式特征，剖析该种模式的合理性，并揭示实践该种模式会遇到哪些法律层面上的困惑，企盼学术界与实务界予以关注，共谋应对之道。
+
+# 1知交所知识产权证券化模式设计的特点
+
+迄今，我国在知识产权证券化探索的实践过程中已涌现多种不同的知识产权证券化模式，分别是“中关村模式”“证监会模式”“银监会模式”“科技部模式”[4]等，并未形成统一标准与通约模式。近年来，知交所致力于探索知识产权证券化路径，尤其针对市场经济最需要解决的短板一—科技型中小企业融资需求来形成知识产权证券化路径的设计思路，以期真正实现知识产权金融对科技型中小企业发展的支撑作用。
+
+# 1.1知交所模式的主要特点
+
+知交所是经湖北省人民政府批准，国务院部际联席会议核准，由武汉光谷联合产权交易所、武汉留学生创业园管理中心、武汉东湖新技术开发区生产力促进中心共同出资成立，是集知识产权交易、投融资、专利运营于一体的专业化综合服务平台。作为国家知识产权交易的合法平台，同时作为国家级知识产权运营试点机构，其交易属性直接指向于知识产权证券化中的交易功能。
+
+现阶段，知交所探索的知识产权证券化模式可做如下概括：以企业核心知识产权所形成的许可、产品或服务产生的收益为基础，将其收益包装成类证券的知识产权融资票据，通过交易所交易系统向投资者非公开发行的有价证券（图1）。
+
+这一模式的特点表现为： $\textcircled{1}$ 从性质来看，知识产权融资票据是同时具有债权与股权性质的混合体。在知识产权融资票据发行期间，持有人拥有一次或数次行使现金退出（发行人还本付息）的机会，如果持有人未行使现金退出的机会，则只能在二级市场买卖退出，或是等待转股期限到来，如果满足转股条件，则可以申请成为发行人股东，对于未能申请成为发行人股东的持有人，也可以等待下次转股。在知识产权融资票据发行期间，现金退出、持有人有多少次转股以及转股条件是由发行人在发行方案中设定的。因此，如果发行人只设定了一次转股，待知识产权融资票据发行期限届满时，对于既未选择还本付息退出，也未成为发行人股东的持有人，发行人将会以发行方案中约定的回购方案强制回购持有人手中的知识产权融资票据。 $\textcircled{2}$ 从支撑证券的信用基础来看，是以知识产权运用到企业能够产生的所有收益为还本付息的依据或来源，即企业整体信用，而不仅仅限于知识产权某一许可产生的收益。也就是说，只要是企业能够获得的收益即可作为还本付息的资金来源，这极大弥补了传统欧美模式仅以债权性基础资产的本身信用为支撑的局限性。 $\textcircled{3}$ 从知识产权价值评估来看，由于是以企业整体信用为基础，因而不直接涉及知识产权价值评估，而涉及知识产权对产品或服务产生收益的贡献以及企业的市值评估。
+
+# 1.2知交所模式与可转换公司债券的比较
+
+知交所探索的知识产权证券化模式同时具有债权退出方式与股权退出方式，那么其与上市公司发行的可转换债券相比，有何相同之处，又有何差异之处？本文认为，二者相同之处： $\textcircled{1}$ 二者都是债权与股权的混合体;$\textcircled{2}$ 转换的对象均为企业以增股增资形式新发行的有价
+
+S 交易 一  
+几 品 自 发 三斗自然人  
+企业 知识产权 证券化产品 知交所 1Ⅱ认购现金退出 股权退出
+
+证券。二者差异之处： $\textcircled{1}$ 发行主体不同。知交所模式的发行主体既包括有限责任公司，也包括股份公司。而可转换债券的发行主体在我国是上市的股份公司。 $\textcircled{2}$ 是否涉及转换价的不同。知交所模式不涉及转换价，当转为股权时，以持有的知识产权融资票据的份数作为转股条件。例如，发行方案约定持有5000份知识产权融资票据可以申请转换为发行人股东，对应公司 $5 \%$ 股权。而可转换债券涉及转换价。 $\textcircled{3}$ 未转股的后果不同。知交所模式中未转股的，持有人可以等待下次转股，或者是仍为发行人的债权人，但是否有利息、利息是否和最初债权还本付息退出时约定的利息保持一致则由发行人决定。而可转债中，如未能转换为股票，则持有人仍为发行人的债权人，公司仍以其资本总额保证偿还持有人本金与固定利息，不得减少偿还持有人的本金与利息。
+
+# 2知交所模式设计原因的探究
+
+# 2.1欧美模式中国本土化问题
+
+探讨知识产权证券，作为开端的欧美模式不可回避。其模式可以简单地概括为“发起人将其具有可预期现金收入流量的知识产权，通过一定的结构安排对基础资产中风险与收益要素进行分离与重组，转移给一个特设载体，并由后者发行一种基于该基础资产所产生的现金流的可以出售和流通的权利凭证，据以融资的过程”[5]。如果要设计中国的知识产权证券化模式，我们是否可以直接将欧美模式拿来？换句话说，欧美模式能否移植到中国土壤中并存活下来？如果不能，是什么因素影响了欧美模式在中国移植的成效？
+
+在思考欧美模式移植问题时，应当从三个方面思考： $\textcircled{1}$ 欧美模式在我国发挥作用需要什么环境或制度进行配合； $\textcircled{2}$ 我国现存的制度或环境是否为欧美模式的移植设定了限制； $\textcircled{3}$ 如果存在限制，应当如何创新模式。
+
+# 2.1.1欧美模式作用发挥依赖的制度或环境
+
+分析欧美模式发挥作用所依赖的制度或环境，我们认为有两方面：法律制度和知识产权授权许可。
+
+（1）从法律制度来看，尽管美国没有专门调整知识产权证券化的法律，但有相关的成文法与判例法，使得知识产权证券化的法律关系得以明确，投资者购买信心得以增强[]。如特殊目的机构的构建根据其不同形式适用合伙、公司、信托相关法律；未来债权的转让适用《统一商法典》；特殊目的机构发行证券适用《证券法》；发起人的破产隔离适用《破产法》；还有判例法形成的真实销售的判断等[7]。这些成文法与判例法共同形成了美国知识产权证券化法律制度。
+
+(2）从知识产权授权许可来看，欧美模式中知识产权证券化的基础资产是许可第三人所生之许可合同债，以许可合同债权为基础资产用于保障向投资者偿付。著名的案例如：在英国大卫鲍伊的音乐版权证券化中，基础资产是发起人鲍伊未来一段时间能够获得的音乐作品的使用费[8；在Guess 商标证券化中，基础资产是Guess 公司签订的商标许可协议所生许可费用，该许可费以年度销售量的百分比为计算基础9；在耶鲁大学药品专利证券化中，基础资产是耶鲁大学能够获得的以Zerit公司药物销售量为计算基础的专利许可使用费[1]。通过上述分析可知，知识产权授权许可而产生的现金流是知识产权证券化能够得以实施的前提与保障。因此，知识产权授权许可行为的规模化程度及稳定性程度，直接影响着以授权许可费为基础资产的知识产权证券化的可实施性。
+
+# 2.1.2我国现存制度或环境的制约
+
+我国现存的制度或环境是否为欧美模式的移植带来了限制呢？
+
+（1）从法律制度方面来看，我国某些法律制度与推行欧美模式之间存在不匹配性。诸如，特殊目的机构法律形式的选择上，因合伙法与公司法的限制使得信托形式成为特殊目的机构的唯一选择；如以特殊目的信托为管道，形成的交易结构中当事人权利的安排不符合信托制度的基本法理要求[]；我国尚无针对知识产权真实销售的专门规定；针对发起人待履行合同破产隔离的法律障碍尚未消除；关于企业信用评级的规范化发展有待于进
+
+一步提升等[1]
+
+(2）从知识产权授权许可市场环境来看，我国知识产权授权许可市场环境与推行欧美模式之间存在着不适应性。据调查，我国 $8 8 . 1 \%$ 的企业在专利研发模式上，目前维持着自行完成从发明创造到产品开发到销售全过程的这样一种模式，企业的专利许可率仅有 $9 . 9 \% ^ { [ 1 2 ] }$ 。可见，我国专利领域中授权许可活动存在规模化程度偏低和活跃度偏弱的现实制约因素。进而言之，基于授权许可费的证券化对我国企业来说，尤其是对面临融资瓶颈但又处于专利密集型产业中的科技型中小企业而言，不具有普遍的适用性。因而，我们不可能期盼欧美模式在中国能进一步发挥应有的功能。
+
+# 2.1.3如何创新模式
+
+既然当下我们无法移植欧美模式，那么应当思考如何使其发生变化，以在我国发生作用？
+
+针对我国面临融资难困境的科技型中小企业拥有大量专利，专利运用实际情况表现为专利自用（自我实施）居多、授权许可少的现状，知交所设计以知识产权运用到企业中所形成的许可、产品或服务产生的收益为基础资产，避免了基于授权许可使用费的知识产权证券化模式对我国科技型中小企业不具有普遍适用性而无法发挥作用的困境。知交所模式的设计不仅符合我国实际情况，亦符合国家鼓励知识产权运用的政策导向。
+
+针对缺乏完善的关于增强投资者信心的法律制度，知交所模式不仅赋予投资者灵活的退出渠道，也设计了多重风险隔离措施，以实现投资者风险与损失最小化，以及利益的最大化。将知识产权融资票据设计成同时具有债权与股权性质的混合体，投资者可以视情况选择股权退出（申请成为发行人股东），或现金退出（发行人还本付息），或选择将知识产权融资票据转手卖给其他人。这一灵活退出方式既为投资者提供了当发起人发展势头较好时可以申请成为股东参与更大经济利益分享的机会，也为投资者提供了及时退出的多样渠道。具体的风险防控措施将在后文展开。
+
+# 2.2证券化与债股融合
+
+# 2.2.1知交所模式是否符合资产证券化的结构性融资特征？
+
+对于这个问题的回答，需要弄清楚什么是证券化？根据《金融工程词典》对证券化（securitization）的解释：“证券化是未来现金流货币化的过程，并以该未来现金流为证券支撑基础。证券化通常运用特殊目的机构（SPV）进行风险隔离。”[13]由此可知，要满足证券化的本质，需具备两个条件。
+
+（1）有未来现金流作为支撑证券的基础。知交所模式以知识产权运用到企业中形成的许可、产品或服务产生的收益为基础资产，很明显有未来现金流，能够形成支撑证券的基础。
+
+（2）需要进行风险隔离的设计。既然知交所模式中没有SPV的参与，没有体现结构性融资，那么其是否就不满足证券化特征？笔者并不这样认为，因为根据对证券化含义的理解，证券化通常运用SPV进行风险隔离，这就意味着证券化最重要的是要进行风险隔离设计，SPV的运用只是证券化中的一个方法。因此，知交所模式中即便没有SPV参与的结构性特征，但只要有风险隔离的设计就是满足证券化的本质特征的。在知交所模式下，投资人可能会面临的风险包括： $\textcircled{1}$ 信用风险。在投资人选择以现金方式退出，要求企业还本付息时，如遇到企业出现经营困难，则可能会发生抽逃、转移资金或恶意拖欠债务等逃避行为，损害投资人的利益。面对信用风险，有风险隔离带加以防范。也就是增加担保措施，以及要求企业在还本付息之前的一段时间内将还本付息的金额从企业资本中分离出来并冻结；如果企业没有分离还本付息的资金，则由企业公布解决措施。 $\textcircled{2}$ 收益风险。在投资人选择股权退出，成为企业股东后，如企业经营不善或破产，则会发生投资人持有的股权贬值或债权人先于其受偿破产财产，投资人需要承担由此带来的不利。面对收益风险，有完善的信息披露制度加以防范。知识产权证券化运行环节较复杂，及时公开披露各种信息是风险防控的有效措施。与证券市场传统的公司证券信息披露不同，知交所模式中的信息披露除了要求披露企业自身信用之外，还包括各个运作环节的信息披露，如知识产权的质量前景分析、知识产权的使用、可能影响投资人对企业价值判断的事件等。承担信息披露义务的主体不仅包括企业自身，还包括企业内部高级管理人员、股东以及为知识产权证券化运作出具各类文件的签章人。完善的信息披露制度能够及时消除投资人与企业之间存在的信息不对称，帮助投资人决策。
+
+# 2.2.2债转股融资票据有无历史的轨迹可循？
+
+我们发现在证券市场中其实早已存在不少的具有债股融合性质的混合证券。如优先股，因能稳定分红而具有债权的特征；永久债券，因没有固定的到期日而具有股权的属性；可交换债券，因可交换公司股票而具有股权的属性等。除上述混合证券外，债股融合进一步发展，最近我国证券市场中发展出了解决企业融资困难的债股结合融资模式。如，作为在全国范围内专业扶持中小微企业的互金平台，冠群驰骋提出了“债股结合”创新金融模式，该模式已在全国范围内推广，惠及了众多中小企业[4]。又如投贷联动，商业银行通过“股权 $+$ 债权”的模式对企业进行投资，形成股权投资和银行信贷之间的联动融资模式。这些债股混合性质的证券与融资模式的发展是由金融市场参与人的利益需求所致。鉴于知交所设计的债转股融资模式在实践中有迹可循，因此这一模式能够被市场所接受。
+
+# 3知交所模式实施中的现实困惑
+
+现阶段，知交所课题组业已基本完成对“科技可转债”型的知识产权证券化方案的理论探索，并提出一套涵括“科技可转债”发行、交易、退出等各个环节的规则设计方案。目前正在积极推动上述方案的实施试点工作。然而，“科技可转债”试点工作，也遇到若干法律障碍。
+
+（1）公司法层面。“科技可转债”尚未被纳入到公司法中，其法律定位尚未明晰化，由此导致诸多科技型中小企业与投资者对发行与投资“科技可转债”行为的合法性产生怀疑，降低参与“科技可转债”的行动意愿。
+
+（2）证券法层面。“科技可转债”是否是证券法所规范的交易种类？是否是国务院依法认定的其他证券？是否适用《证券法》规范？国务院证券监督管理机构是否承担“科技可转债”监督主体的职责？
+
+（3）破产法层面。当“科技可转债”尚未进入到现金退出阶段，或是当“科技可转债”已进入到股权退出阶段，发行人破产的，“科技可转债”的持有人是否还可以进行债权退出？受偿的顺序如何确定？
+
+（4）物权法层面。尽管“科技可转债”是纯信用融资渠道，但如果为了增信，科技型中小企业发行人愿意提供轻资产抵押或质押，那么该轻资产应当置放何处，是置放到投资者手中还是交易所内？如果是置放到投资者手中，应由哪一位投资者负责持有？如果是置放到交易所内，交易所持有质押物的法律依据是什么？
+
+（5）其他规范性文件层面。《国务院办公厅关于清理整顿各类交易场所的实施意见》（国办发〔2012］37号）禁止权益拆分等份额发行、连续挂牌交易等，《国务院办公厅关于规范发展区域性股权市场的通知》（国办发〔2017」11号）禁止私募债转让，如果从“科技可转债”的“债”的属性来观察，那么“科技可转债”会受限于《国务院办公厅关于规范发展区域性股权市场的通知》；如果从“科技可转债”的“股”的属性来观察，那么“科技可转债”会受限于《国务院办公厅关于清理整顿各类交易场所的实施意见》。“科技可转债”到底是否应当受限于上述两个规范性文件的相关规定呢？对这一问题的准确解答，还需要进一步探究“科技可转债”的法律属性。
+
+# 4结语
+
+作为知识产权金融领域的创新之举，知识产权证券化是知识产权资本价值与金融创新工具的有效结合，是资本与技术要素的再配置。武汉知交所在推进知识产权证券化工作中形成了探索性方案。这一模式在法律与政策层面的正当性与可行性如何成立，以及实施过程中的相关法律政策障碍如何破除等问题，祈请学术界与实务界共同予以关注。
+
+# 参考文献
+
+1 新华社.中共中央国务院关于深化体制机制改革加快实施创新驱动发展战略的若干意见.[2017-09-27].http://www.gov.cn/xinwen/2015-03/23/content_2837629.htm.
+
+2国务院办公厅.国务院办公厅印发《国务院关于新形势下加快知识产权强国建设的若干意见》重点任务分工方案的通知.[2017-09-27]. http://www.gov.cn/zhengce/content/2016-07/18/content_5092397.htm.
+
+3国务院．国务院关于印发中国（湖北）自由贸易试验区总体方案的通知.[2017-09-27].http://www.gov.cn/zhengce/content/2017-03/31/content_5182299.htm.
+
+4董涛.知识产权证券化制度研究．北京：清华大学出版社，2009.
+
+5李建伟.知识产权证券化：理论分析与应用研究.知识产权，2006,16(1):33-39.
+
+6夏培峰.我国知识产权证券化法律制度构建.成都：四川师范大学,2015.
+
+7仇海珍.美国知识产权证券化法律制度研究.上海：复旦大学,2012.
+
+8Kerr T N.Bowie bonding in the music biz:Will music royalty securitization be the key to the gold for music industry participants. UCLA Entertainment Law Review,1999,7(2): 367-368.
+
+9Borod R S.An update on intellectual property securitization. Journal of Structured Finance,2005,10(4): 65-72.
+
+10Odasso M C,Ughetto E.Patent-backed securities in pharmaceuticals:what determines success or failure? R&D Management, 2011,41(3): 219-239.
+
+11江烨.我国知识产权证券化法律问题研究.上海：上海社会科学院，2012.
+
+12国家知识产权局．2015年中国专利调查数据报告.[2017-03-14].http://www.sipo.gov.cn/tjxx/yjcg/201607/t20160701_1277842.html.
+
+13 Marshall JF.Dictionary of Financial Engineering.New Jersey: John Wiley& Sons,2001.
+
+14 搜狐网.银行拥抱股权融资—“债股结合”极具想象空间.[2017-10-06].http://www.sohu.com/a/115331535_354650.
+
+# Model Design of Intellectual Property Securitization Based on Convertible Bond: Practical Exploration and Perplexity of Wuhan Intellectual Property Exchange
+
+JIAO Hongtaol\*CHEN Qi²WANG Le³
+
+(1InstituteofLawforScienceandTechnology,Huazhong UniversityofScienceandTechnology,Wuhan43074,China; 2Institute ofLaw for Scienceand Technology,Taiwan Tsing Hua University, Hsinchu 3oo13,China;
+
+rtmentof Science and TechnologyFinance Services,Wuhan Intelectual PropertyExchange,Wuhan 43o074,China）
+
+AbstractIntecontextofteincreasingcontributioofintellctualproperttoeconomicgowth,excavatingitscapitalpotetialis becominganetrend.Factuallexplonginteletalpropertysecuritizationotolyaccodswiththedretionofnationalpolicybtlso conformstoteiofstrategicpositioingofCina(ubei)PilotFreeTadeZoewichasrecentlybeenestablisd.Atpreentieret modelsofintelletualproprtyseurionvepparedinnandngrementasbenreachd.Asatioalplatfo,Wuhan IntelectualProprtyExageseastodelofntelalprortysuriatioosdeingteuentsiatioffacing diffcultiesfalllodSpalluanItellaloprtcagsis‘tcooertibledfor themodelfitellalproprtyscuiatioAndheassiefacttatCanooespodgarketvirotdlgal systemwhichareessaryfortesuessultansplantatiofuropanndAmeamodel.Asmateroffact“techoogtbe bondsatisfthetialaacteristsfscuizatio.urthrecuittateilarto‘teogonertibleodcabe foundinChinesescuritymarket.However,theimplementatioof"technologyonvertiblebond”encoutersseveralobstaclesinlawsand othernormativedocuments.Thereisanurgentedtodrateatentionofacademicandpracticalciclestotequestionofowtolate these barriers.Therefore,the development of intellectual property securitization in Chinais able to be promoted.
+
+Keywordsintelectualpropertyscuritiation,EropeanandAmericanmodel,onvertibleond,tchologyconvertiblebond焦洪涛华中科技大学法学院副教授，博士生合作导师，科技法研究所执行所长，中国科技法学会常务理事，武汉知识产权研究会秘书长。主要研究领域为科技法与知识产权法。参与国家中长期科学和技术发展规划（2006—2020年）战略研究，并任第18专题组“科技发展法制和政策研究”办公室主任兼执行秘书；国家级、湖北省和武汉市知识产权战略研究专家库成员。《武汉市知识产权促进与保护条例》《武汉市科技创新促进条例》《广州市科技创新促进条例》《湖北省专利条例》等立法专家组主要成员，参与《中华人民共和国人类遗传资源管理条例》《中华人民共和国公共图书馆法》等立法咨询工作。发表学术论文50余篇。
+
+![](images/5867d45d3cf09a0c4b80fd899ff8e05767354b8420e7977196a10e08fa4a451a.jpg)
+
+E-mail: jiaohongtao@hust.edu.cn
+
+JIAOHongtaoAssociaterofessor,Co-DoctoralSupervisorofLawScholofHuazhongUniversityofScienceandTechologyand ExecutiveDirectorofstituteofLawforSienceadTchnologiHazonUiversityofienceandTchnologdExecutieitor ofChinaLawAsociationoncience&Technology(CLAST),andSecretary-GeneralofWuhan IntellectualPropertySociety(WIPS). He specializesinscienceandtechologylawadintelectualpropertylaw.Hewasivitedtoprtcipateinstrategicresearchonnatioal mediumandlongtemsientificandtechnologicaldevelpmentplang(o6-2）andseredasoficedirectorndxecutiescretary ofl8thresearchgroupwhichundertooklegalandpolicyesearchonsienceandtechnologydevelopment.Currntly,heisberof thenational,ubei,andWuhanexpertpoloitelectualpropertysratgyearchHeasalsothememberofgislativeexprtgoup involvingin“RegulatiosforItelecalPropertyPromotionandProtectionofWuhan”,‘RegulatiosforcienceandTechologIotio andPromotionofWuhan,“RegulationsforScienceandTechnologyInovationandPromotionofGuangzhou,“egulationsforPatentf Hubei",adsn.Heonsultedinraloterlgalorksswellcding"Regulatiosfordmnistratioofumaneticouc ofPeople'sRepublicofChina”,“LawofPublicLibrariesofthePeople’sRepublicofChina.Inadditiontotheaboveachievements,ehas published more than 50 academic papers.E-mail: jiaohongtao@hust.edu.cn

@@ -1,0 +1,236 @@
+# 干旱区文化旅游地社会-生态系统恢复力年际变化及影响因素以甘肃省敦煌市为例
+
+李观凤，焦华富，王群(安徽师范大学地理与旅游学院，安徽 芜湖241002)
+
+摘要：文旅融合背景下，分析文化旅游地社会-生态系统恢复力年际变化及影响因素，能够为文化旅游地可持续发展提供较好的理论和实践指导。以敦煌市为典型案例地，从社会、经济、文化和生态环境4个方面构建文化旅游地社会-生态系统恢复力评价指标体系，运用灰色关联TOPSIS、耦合协调度模型、BP神经网络等方法，探究了2007—2018年案例区社会-生态系统恢复力时序变化及影响因素。结果表明：(1)2007—2018年敦煌市社会-生态系统恢复力处于较良好的状态且可划分为波动-缓慢增长-快速上升阶段。(2）文化和生态环境子系统在决定敦煌市社会-生态系统恢复力程度方面起到主导作用。(3)社会-生态系统及各子系统间的耦合度和协调度均呈上升趋势，子系统间对系统总体的协调度普遍起正向推动作用且作用强度随时间推移不断增大。(4)各因子的贡献率大小为敦煌百度指数>敦煌研究院研究生数量 $\mathrm { > }$ 各类文物保护单位>旅游业碳总排放量>文化产业经营单位。
+
+关键 词：干旱区；文化旅游地；社会-生态系统；敦煌市文章编号：
+
+新时代背景下，旨在满足人民美好生活需要的文旅融合应运而生[。文化旅游地是践行文旅融合发展的典型代表，然而文化旅游地作为一个社会-生态系统，自身具有明显的脆弱性，且高强度的旅游开发活动对其干扰和破坏日益加剧2-4，已引起相关部门的高度重视，出台举措以促进文旅融合发展的同时加强文化生态保护、非遗资源保护[5-6]。可见，文旅融合背景下，研究如何促进文化旅游地可持续发展具有现实意义。
+
+文化旅游地社会-生态系统是以文化旅游资源为主要吸引物的社会、经济、文化、生态环境子系统交互作用的复杂适应系统[27],子系统间协调演进才能实现旅游地的健康发展8。近年来，恢复力成为旅游地可持续发展的新理念和新范式，已成为地理学、旅游管理等学科研究的热点之一[7.9-10]。恢复力原意为跳回的动作，后被引申为旅游地能消化和吸收外界干扰，保持原有主要特征和关键功能的能力[10-1]。自1973年Holling将恢复力引入生态学领域后[],恢复力研究已从单纯的生态系统研究扩展到面向社会-生态系统的研究。旅游地社会-生态恢复力的研究主要集中在2个方面：一是旅游地社会-生态系统恢复力的基础理论[7,12-17],主要体现为辨析脆弱性、恢复力、适应性、可持续性的概念和关系；二是旅游地社会-生态系统恢复力的测度与影响因素[8.18-21]。学者构建旅游地社会-生态系统恢复力框架，关注气候干扰或压力及其对旅游活动的影响，进而评估旅游地社会-生态系统恢复力。尽管学者在旅游地社会-生态系统恢复力开展了大量研究，但我国已有研究在旅游目的地类型上多以东部地区的自然观光类旅游地为主[8.18]，较少关注西部
+
+# 干旱区地理
+
+干旱地区的文化旅游地；在研究内容上，多涉及单一子系统恢复力或整体恢复力的研究，对耦合视角下子系统间的多元互动过程关注较少[17]。另外,文化旅游的可持续发展研究是旅游地理学领域的另一个热门研究议题[22],且研究内容多以文化旅游的潜力、竞争力评价及文化资源与旅游产业协调发展为主[23-25],较少基于不同类型区从社会-生态系统恢复力的视角来研究文化旅游的可持续发展。
+
+鉴于此，本文以干旱区文化旅游资源丰富的敦煌市为案例地，从社会、经济、文化、生态环境4个方面及脆弱性、应对能力2个维度构建干旱区文化旅游地社会-生态系统恢复力指标体系，提炼出干旱区文化旅游地社会-生态系统恢复力分析框架，分析干旱区文化旅游地社会-生态系统恢复力年际变化及影响因素，拓展文化旅游地研究视角，为干旱区文化旅游地持续健康发展提供借鉴和参考。
+
+# 1研究区概况
+
+敦煌市位于典型的干旱气候区，兼备生态脆弱和文化旅游发展活跃特点的典型区域。其境内文化旅游资源丰富，现存各类文物景点265处，其中世界文化遗产有3处，全国重点文物保护单位4处，省级文物保护单位12处(图1)。近年来敦煌研究院强注：基于甘肃省自然资源厅标准地图服务网站下载的审图号为甘S(2017)54号的标准地图制作，底图边界无修改。
+
+![](images/6d68d97f8af0b0efb1b5f882c2c2a3e9285e5306ef896756a81cbf71edafeb26.jpg)  
+图1研究区主要文化旅游景点分布  
+Fig.1 Distribution of main cultural tourist attractions in the study area
+
+势推进文化旅游产业，并因“数字敦煌”、“文创敦煌"而获“2020中国文旅年度贡献"奖；另外敦煌文化对于传承中华优秀传统文化、增强社会凝聚力和国家软实力具有不可替代的文化价值[26]。但由于全球气候变化[27-28]和旅游发展对生态环境的干扰，其生态环境脆弱性不断增强。因此，选取敦煌市为案例地，具有一定的代表性。
+
+# 2干旱区文化旅游地社会-生态系统恢复力分析框架
+
+旅游与文化是依赖共存、相得益彰的关系，即文化是旅游发展的灵魂，旅游是文化资源重要的传播载体[46]。文化旅游的精髓在于文化资源的独特性和原真性[，但随着旅游发展的不断深入，旅游作为文化活化形式的同时不可避免地对文化旅游地产生负面效应，进而胁迫文化旅游地可持续发展[4],因而引起了学者们对文化保护与旅游发展的思考。学者们认为文化保护和利用是一种相辅相成的关系，文化旅游的发展应以保护为前提[1.4.29-30]。本文认为旅游发展给文化旅游地带来了一些负面影响。文化旅游地应基于可持续发展理念，在保护性开发原则的基础上进行发展。
+
+干旱区深居内陆，气候干旱、水资源短缺且对全球气候变化的响应敏感[3I]。尽管干旱区发展工业的基础条件和生态环境较恶劣，但拥有极具特色的文化旅游资源，加之旅游产业关联性高，既能增强干旱区经济实力又能为文化旅游资源的保护提供资金支持，故旅游开发成为干旱区文化旅游资源保护和促进经济发展的有效途径[32]。而旅游开发作为外生性变量嵌入干旱区时，随着文化旅游资源的文化化和资本化，文化旅游地成为了文化旅游资源与旅游活动共生的空间[33]。也就是说在文化旅游地社会-生态系统中，旅游开发、文化旅游资源保护、脆弱性和应对能力经历着一个互动演进与作用的过程[34]。从资源和开发视角来看，干旱区文化旅游资源作为一种旅游吸引物，被赋予经济价值的同时由于文化旅游资源的易损性和外部不经济，旅游发展不可避免地对其和十旱区生态环境产生胁迫，增大了生态环境和文化旅游资源的脆弱性，进而影响旅游地的生存状态4；从传播和保护视角来看，干旱区文化旅游资源作为历史物质载体，被赋予新的生命活力的同时，既向旅游者传达了其文化价值，又提示和强化人类个体或群体的存在意义和认同感[6.29],且相关利益者为缓解脆弱性,在反哺文化旅游资源保护的同时采取措施以提高应对能力，从而实行保护性开发(图2)。
+
+# 3数据、方法与指标体系
+
+# 3.1数据来源
+
+生态环境数据。植被指数源于中国科学院资源环境科学与数据中心(https://www.resdc.cn/);降水量、相对湿度、日照时数来自中国气象科学数据共享服务网上中国地面气象资料年值数据集(http://data.cma.cn/)，且由于难以获取敦煌市长时间序列的气象数据，考虑到敦煌市隶属于酒泉市，故采用酒泉市气象数据以进行研究；党河径流量、年温差来源于敦煌气象局；自然灾害数量来源于敦煌应急管理局；旅游业碳总排放量引自参考文献[35」，其中2007—2012年数据直接引自参考文献，2012—2018年的数据则根据文献中的方法计算所得，
+
+社会经济文化数据。社会经济文化数据主要来源于《甘肃省统计年鉴》《敦煌研究院年鉴》《敦煌市十二五统计年鉴》《甘肃城市统计年鉴》及《中国城市建设统计年鉴》。其中，敦煌百度指数是在百度指数网页上获取敦煌日百度指数的基础上，以年为单位进行计算所得;中国敦煌石窟保护研究基金会的公益活动金额来自敦煌研究院网站公布的信息(http://public.dha.ac.cn/);缺失数据采用插值法来填补。为保证数据客观性，本文运用熵权法来确定指标权重，具体计算步骤见参考文献[36」。
+
+# 3.2 研究方法
+
+3.2.1灰色关联TOPSISTOPSIS是多目标决策分析中的常用方法之一，其原理是通过评价对象与正负理想解之间的接近或远离程度来确定各评价对象的相对优劣，而灰色关联TOPSIS利用灰色关联度在曲线规律分析上的优势来改进TOPSIS以提高评价的准确度，具体计算步骤见参考文献[37」。
+
+3.2.2耦合协调度模型引入耦合协调度模型[38-39]，以便更好地反映干旱区文化旅游地社会-生态系统恢复力发展状况。计算模型如下：
+
+$$
+\begin{array} { l } { C = \cfrac { 3 \sqrt [ 3 ] { u _ { 1 } u _ { 2 } u _ { 3 } } } { u _ { 1 } + u _ { 2 } + u _ { 3 } } } \\ { T = \alpha u _ { 1 } + \beta u _ { 2 } + \delta u _ { 3 } } \\ { D = \sqrt { C \times T } } \end{array}
+$$
+
+根据三元系统耦合机制，构建四元系统耦合协调度模型：
+
+$$
+\begin{array} { l } { { C ^ { \prime } = \displaystyle \frac { 4 \sqrt [ 4 ] { u _ { 1 } u _ { 2 } u _ { 3 } u _ { 4 } } } { u _ { 1 } + u _ { 2 } + u _ { 3 } + u _ { 4 } } } } \\ { { T ^ { \prime } = \alpha u _ { 1 } + \beta u _ { 2 } + \delta u _ { 3 } + \varepsilon u _ { 4 } } } \\ { { { } } } \\ { { D ^ { \prime } = \scriptscriptstyle \mathscr { f C ^ { \prime } } \times T ^ { \prime } } } \end{array}
+$$$$
+D ^ { \prime } = \sqrt { C ^ { \prime } \times T ^ { \prime } }
+$$
+
+式中： $D$ 、 $D ^ { \prime }$ 为系统耦合协调度； $\smash {  { C _ { \ : \perp } } \ : \ : C ^ { \prime } }$ 为耦合度;$T , \ T ^ { \prime }$ 为协调度; $\alpha , \beta , \delta , \varepsilon$ 为待定权重; $u _ { 1 } \setminus u _ { 2 } \ ,$ （20号$u _ { 3 } \setminus u _ { 4 }$ 为社会、经济、文化、生态环境子系统恢复力。3.2.3BP神经网络利用BP神经网络输入和输出层之间的权重，计算影响因素对恢复力的贡献率。BP神经网络模型的输入层、隐含层和输出层节点间
+
+文化旅游资源保护推动内、外源性变量 ↑ 文物修复反馈 文化遗产信息化气候干旱、全球变暖 反向驱动 正向驱动： 文物科研项目获批  
+水资源短缺、旅游开发 增多文物保护单位  
+人口自然增长、游客增多等 正向驱动 正向驱动 教育推广和艺术展览活动等反 引 干旱区文化旅游地 提 增馈 发 社会一生态系统恢复力 高 强脆弱性 ：反向驱动 正向驱动 应对能力  
+空间拥挤、社会环境恶化 产业结构依赖旅游业 ：正向驱动 正向驱动： 产业结构多元 提高社会保障文物氧化、磨损 推动 提高管理水平降水、径流量不稳定 ? 资金、技术支持  
+物理风化侵蚀、植被破环 降低 生态防护林、环保支出土地盐碱化、沙漠化等 增加专业科学技术人员数量等
+
+# 干旱区地理
+
+相互连接后产生连接权值，1991年Garson提出了利用神经网络的连接权值来计算输人参量对输出参量的影响，其数学计算方法如下[40]：
+
+$$
+\begin{array} { r } { I _ { j } = \frac { \displaystyle \sum _ { s = 1 } ^ { N _ { k } } \left( \left| \frac { \displaystyle | w _ { j , s } ^ { 1 } | } { \displaystyle \sum _ { k = 1 } ^ { N _ { k } } | w _ { \mathrm { l a n } } ^ { 1 } | } \right| \right) \times | w _ { \mathrm { m a t } } ^ { 2 } | } { \displaystyle \sum _ { s = 1 } ^ { N _ { k } } \left[ \displaystyle \sum _ { s = 1 } ^ { N _ { k } } \left( \left| \frac { \displaystyle w _ { \mathrm { m a t } } ^ { 1 } } { \displaystyle \sum _ { s = 1 } ^ { N _ { k } } | w _ { \mathrm { l a n } } ^ { 1 } | } \right| \right) \times | w _ { \mathrm { m a t } } ^ { 2 } | \right] } } \end{array}
+$$
+
+式中： $I _ { { _ j } }$ 为第 $j$ 个输入参量对第 $\mathbf { \Omega } _ { n }$ 个输出参量的影响权重， $I _ { j }$ 值越大,表示输入变量对输出变量的影响越大; $N _ { i \setminus \ N _ { h } }$ 为输入层和隐含层节点数； $w ^ { 1 }$ 为输入层到隐含层的连接权值； $w ^ { 2 }$ 为隐含层到输出层的连接权值； $j \setminus k \setminus m \setminus n$ 为神经元，如 $\boldsymbol { w } _ { j m } ^ { 1 }$ 为第 $j$ 个神经元与隐含层第 $\mathbf { \Omega } _ { m }$ 个神经元的连接权值。
+
+# 3.3指标体系
+
+余中元等认为社会-生态系统是自然环境、经济、文化、治理、意识等复合的巨系统。文化旅游地围绕着文化旅游资源开发和保护，衍生出系列与社会、经济子系统相互交织的要素，相应地文化旅游地社会-生态系统的结构应在自然旅游地的社会、经济、自然子系统结构基础上增加“文化子系统”，所以文化旅游地社会-生态系统是一个包含社会、经济、文化、生态环境子系统4部分的综合系统。可持续的干旱区文化旅游地社会-生态系统应当是社会稳定、经济发展健康、文化活化与传承、生态环境平衡相互作用相互影响的四维一体的结果。干旱区文化旅游地社会-生态系统主要包括以下方面的含义：(1）社会子系统是干旱区文化旅游地社会-系统的内在支撑。旅游发展需要一个良好的社会环境且旅游目的地发展旅游的初衷是为了提高自身更美好的生活，所以社会子系统主要评价社会治安和保障。之所以增加敦煌百度指数指标，是因为百度指数能够反映外界对敦煌的关注和潜在游客数量；(2）经济子系统是干旱区文化旅游地社会-生态系统的核心。干旱区文化旅游地的重要产业是旅游业和文化产业，经济子系统主要考虑旅游产业、文化产业总量与质量、产业结构、GDP等方面；（3)文化子系统是干旱区文化旅游地社会-生态系统的保障。文化子系统侧重于物质文化的保护，主要从文化旅游资源数量、科学技术、管理、宣传教育、科研、非正式制度等方面综合考量；(4)生态环境子系统是干旱区文化旅游地社会-生态系统的承载基础。生态环境子系统侧重于本底环境对文化的影响，干旱和水分是影响干旱区旅游业发展的主要因子，同时旅游业碳排放已逐渐成为可持续发展的重要因素之一，因此主要考量生态环境本底条件和环境保育水平这2个方面。基于文中关于可持续干旱区文化旅游地社会-生态系统的内涵，借鉴已有研究成果[8.18],结合敦煌市实际情况,分别以旅游开发引起的相关因子和系统应对干扰的因子作为脆弱性和应对能力的指标，遵循指标体系的科学性、系统性、可操作性和数据可获得性等原则，构建干旱区文化旅游地社会-生态系统恢复力评价指标体系(表1)，以此分析干旱区文化旅游地社会-生态系统恢复力。结合参考文献和文化旅游地特征，将其划分为3个等级(表2)，恢复力指数越大则文化旅游地恢复力越大。
+
+# 4结果与分析
+
+# 4.1敦煌市社会-生态系统恢复力年际变化
+
+基于灰色关联TOPSIS测算敦煌市社会-生态系统恢复力、脆弱性、应对能力(图3)，结果显示：(1)敦煌市社会-生态系统恢复力指数由2007年的0.3245上升到2018年的0.6323，目前处于中等等级，说明敦煌市社会-生态系统恢复力处于较良好的状态。(2）2007—2018年敦煌市社会-生态系统脆弱性、应对能力和恢复力均呈现稳步上升的态势，发展速度与水平大体一致，说明敦煌市社会-生态系统脆弱性、应对能力和恢复力的发展较为均衡。运用回归分析法以进一步探究脆弱性、应对能力和恢复力之间的关系。公式如下： $E = 0 . 4 1 3 V + 0 . 5 4 2 A +$ $0 . 0 2 ( R ^ { 2 } { = } 1 )$ ,其中 $E , V { \setminus } A$ 分别为恢复力值、应对能力值和脆弱性值。当应对能力值每增加1个单位，恢复力值上升0.413;当脆弱性值每增加1个单位，恢复力值上升0.542。可见，较之应对能力，脆弱性对敦煌市社会-生态系统恢复力的影响更加突出。(3)进一步分析发现，恢复力、脆弱性和应对能力可划分为3个阶段：2007—2009年为波动阶段、2009—2013年则为缓慢增长阶段、2014—2018年为快速上升阶段。2007—2009年曲线波动较大，原因在于
+
+表1干旱区文化旅游地社会-生态系统恢复力测度指标体系  
+Tab.1Measurementindex system of social-ecological system resilience ofcultural tourism destination inarid area   
+
+<html><body><table><tr><td>子系统层</td><td>准则层</td><td>指标层</td><td>指标含义(性质)</td><td>权重</td></tr><tr><td>社会</td><td>脆弱性</td><td>人口自然增长率/%0</td><td>反映人口自然增长情况(-)</td><td>0.0218</td></tr><tr><td></td><td></td><td>旅游者与当地居民比/%</td><td>反映系统承受外界压力(-)</td><td>0.0144</td></tr><tr><td></td><td></td><td>敦煌百度指数</td><td>反映旅游网络关注度(-)</td><td>0.0196</td></tr><tr><td></td><td>应对能力</td><td>刑事案件立案数/起</td><td>反映社会稳定性(-)</td><td>0.0293</td></tr><tr><td></td><td></td><td>教育支出与财政支出比/%</td><td>反映教育投入力度(+)</td><td>0.0154</td></tr><tr><td></td><td></td><td>各类专业科学技术人员与全市从业人员比/%</td><td>反映科学技术水平(+)</td><td>0.0306</td></tr><tr><td></td><td></td><td>社会保障与就业占财政支出比/%</td><td>反映社会保障能力(+)</td><td>0.0298</td></tr><tr><td>经济</td><td></td><td>公路、铁路和航空的客运量/10人次</td><td>反映交通可达性(+)</td><td>0.0260</td></tr><tr><td></td><td>脆弱性</td><td>旅游收入增加值与GDP比/%</td><td>反映旅游业的依赖度(-)</td><td>0.0121</td></tr><tr><td></td><td></td><td>旅游人数增长率/%</td><td>反映旅游规模(+)</td><td>0.0070</td></tr><tr><td></td><td></td><td>旅游业拉动率/%</td><td>反映旅游业对相关产业的带动作用(+）</td><td>0.0208</td></tr><tr><td></td><td></td><td>文化产业经营单位数量/家</td><td>反映文化产业规模(+)</td><td>0.0335</td></tr><tr><td></td><td></td><td>文化产业增长速度/%</td><td>反映文化产业发展速度(+)</td><td>0.0333</td></tr><tr><td></td><td>应对能力</td><td>第三产业从业人员与全市总从业人员比/%</td><td>反映旅游发展所形成的就业能力(+)</td><td>0.0238</td></tr><tr><td></td><td></td><td>人均GDP/元</td><td>反映经济总体发展水平(+)</td><td>0.0193</td></tr><tr><td></td><td></td><td>城镇居民人均可支配收入/元</td><td>反映居民经济能力(+)</td><td>0.0177</td></tr><tr><td></td><td></td><td>财政自给率/%</td><td>反映政府应对风险能力(+)</td><td>0.0301</td></tr><tr><td></td><td></td><td>产业结构多样化指数</td><td>反映产业结构平衡程度(+)</td><td>0.0212</td></tr><tr><td>文化</td><td></td><td>人均固定投资资产金额/元</td><td>反映文化产业投资强度(+)</td><td>0.0320</td></tr><tr><td></td><td>脆弱性</td><td>修复文物病虫害面积占壁画比重/%</td><td>反映文物承受微生物的影响(-)</td><td>0.0094</td></tr><tr><td></td><td></td><td>各类文物保护单位数量/处</td><td>反映文物资源禀赋(+)</td><td>0.0687</td></tr><tr><td></td><td></td><td>文物对外艺术展览活动/项</td><td>反映文物价值及知名度(+)</td><td>0.0235</td></tr><tr><td></td><td></td><td>“文化遗产日"系列教育推广活动/项</td><td>反映文物的社会教育活动(+)</td><td>0.0319</td></tr><tr><td></td><td>应对能力</td><td>敦煌研究院从业人员数量/人</td><td>反映文化博物馆管理规模(+)</td><td>0.0321</td></tr><tr><td></td><td></td><td>敦煌研究院研究生数量/人</td><td>反映文化博物馆管理质量(+)</td><td>0.0161</td></tr><tr><td></td><td></td><td>国内外文物进修学习的人员费用/元</td><td>反映文物保护的资金力度(+)</td><td>0.0302</td></tr><tr><td></td><td></td><td>国内外文物学术交流和合作项目/场·项-</td><td>反映文物学习及信息交流(+)</td><td>0.0343</td></tr><tr><td></td><td></td><td>获批省级以上文物保护科研项目/项</td><td>反映文物科研力度(+)</td><td>0.0203</td></tr><tr><td></td><td></td><td>文物、档案和图像资料信息数字化/件·张-</td><td>反映技术对文物保护程度(+)</td><td>0.0329</td></tr><tr><td>生态环境脆弱性</td><td></td><td>中国敦煌石窟保护研究基金会的公益活动金额/10元</td><td>反映非正式制度对文物的保护力度(+)</td><td>0.0348</td></tr><tr><td></td><td></td><td>干旱指数</td><td>反映系统干旱状况(*)</td><td>0.0179</td></tr><tr><td></td><td></td><td>径流变率/%</td><td>反映河流径流量稳定性(*)</td><td>0.0198</td></tr><tr><td></td><td></td><td>平均相对湿度/%</td><td>反映文物受空气水分侵蚀程度(-)</td><td>0.0255</td></tr><tr><td></td><td></td><td>年温差/C</td><td>反映文物受物理风化侵蚀程度(-)</td><td>0.0318</td></tr><tr><td></td><td></td><td>旅游业碳总排放量/t</td><td>反映文物受氧化程度(-)</td><td>0.0176</td></tr><tr><td></td><td></td><td>年均植被指数</td><td>反映植被状况(+)</td><td>0.0176</td></tr><tr><td></td><td></td><td>年日照时数/h</td><td>反映气候环境(+)</td><td>0.0121</td></tr><tr><td></td><td></td><td>自然灾害数量/件</td><td>反映系统受灾害干扰(-)</td><td>0.0151</td></tr><tr><td></td><td>应对能力</td><td>生态防护林造林面积/10 hm</td><td>反映系统抗风沙干扰(+)</td><td>0.0453</td></tr><tr><td></td><td></td><td>环保支出占财政支出比/%</td><td>反映环保支持程度(+)</td><td>0.0172</td></tr><tr><td></td><td></td><td>人均园林绿地面积/m</td><td>反映生态环境保育水平(+)</td><td>0.0080</td></tr></table></body></html>
+
+注： $+$ 为正向指标，即指标值越大则对评价越好;-为负向指标，即指标值越小则对评价越好;\*为适度指标，即指标值保持在适度值时最好。干旱指数是通过云南省水文水资源局水情处标准化降水指数(SPI)公式包计算所得。
+
+# 干吴区地理
+
+# 表2干旱区文化旅游地社会-生态系统恢复力分级
+
+Tab.2 Classification of social-ecological system resilience of cultural tourism destination in arid area   
+
+<html><body><table><tr><td>等级</td><td>评价等级</td><td>恢复力指数的取值范围</td></tr><tr><td>1级</td><td>恢复力较低</td><td>[0.00,0.33)</td></tr><tr><td>2级</td><td>恢复力中等</td><td>[0.33,0.66)</td></tr><tr><td>3级</td><td>恢复力较高</td><td>[0.66,1.00)</td></tr></table></body></html>
+
+![](images/408b63431ab894d30a26faafb3f0953bf25c6e153667ac13e7057cbb7d93b99a.jpg)  
+图3敦煌市社会-生态系统脆弱性、应对能力和恢复力值 Fig.3Vulnerability, coping capacity and resilience of socialecological system in Dunhuang City
+
+2008年世界金融危机、2009年甲H1N1流感和新疆"7·5"暴恐等事件的相继发生使得旅游人数急剧下降，旅游业碳排放总量也随之下降，致使该年份的脆弱性较低而应对能力增大。2009—2013年脆弱性和应对能力指数稳中有进且应对能力指数大部分略低于脆弱性。2014—2018年恢复力快速上升主要与政策有关。由指标数据可知：2013年后旅游收人增加值占GDP比、文化产业经营数量、人均固定资产指标均大幅度上升。这与敦煌市政府推行文化旅游产业首位引领地位有关。2009年后敦煌市政府为有效缓解冲击，一方面加强旅游对外宣传；另一方面在大幅度引进文化产业和文化旅游项目的同时积极推动敦煌国际文化旅游名城建设，促使旅游产品向文化旅游复合型转变，并于2013年取
+
+得较大突破。
+
+# 4.2敦煌市子系统恢复力年际变化
+
+运用最小二乘法，探究各子系统与社会-生态系统恢复力之间的影响关系。由表3可知，模型 $R ^ { 2 }$ 为0.999,德宾-沃森(D-W)值为2.329， $F$ 值为5157.520，且 $P { < } 0 . 0 5$ ,表明模型的拟合效果较好。从系数方向上看，各个子系统系数均为正值，说明各子系统均会对社会-生态系统恢复力产生正向影响关系。从影响程度大小来看，文化子系统 $>$ 生态环境子系统 $>$ 经济子系统 $>$ 社会子系统。
+
+2007一2018年，社会、经济、文化、生态环境子系统恢复力值的变异系数和增幅分别为0.2259、$0 . 3 9 8 3 , 0 . 4 2 0 8 , 0 . 1 5 6 3$ 及 $5 . 4 6 \%$ 、 $7 . 7 5 \%$ 、 $9 . 9 3 \%$ 和 $- 2 . 2 7 \%$ ，说明在离散程度上社会和生态环境子系统较小，经济和文化子系统较大。在增幅上，不同于社会、经济和文化子系统的快增幅，生态环境子系统是负增长。社会子系统恢复力数值变化呈现出“升-降-升"时序变化特征，其中2008年的峰值主要得益于社会保障的提高;经济子系统恢复力曲线呈现出“缓慢增长-快速上升-缓慢下降"态势，而缓慢下降的原因在于2013年后文化产业增长速度变缓；文化子系统恢复力曲线呈现波动式上升趋势，而 2010年峰值和2013年的快速上升趋势主要得益于系列文化保护政策；生态环境子系统恢复力在数值0.4000上下小幅度波动(图4)，这与敦煌市生态本底条件有关，因为敦煌市位于西北地区，气候干旱，多戈壁沙漠，生态自净能力较弱
+
+# 4.3敦煌市社会-生态系统耦合协调特征
+
+为进一步反映文化旅游地社会-生态系统恢复力发展状况，基于子系统耦合，引人耦合协调度模型，探究子系统间的多元互动过程。“社会-经济-文化-生态环境"恢复力的耦合协调性反映的是旅游地社会-生态系统总体耦合协调水平，而3个子系统间恢复力协调关系则可进一步揭示子系统间的发展协调状态[8]（图5)。
+
+表3各子系统与社会-生态系统恢复力的回归结果  
+Tab.3 Regression results of resilience of subsystems and social-ecological system   
+
+<html><body><table><tr><td>变量</td><td>回归系数</td><td>标准误差</td><td>t</td><td>P</td><td>R</td><td>调整R</td><td>F</td></tr><tr><td>常数</td><td>-0.012</td><td>0.013</td><td>-0.901</td><td>0.368</td><td>0.999</td><td>0.999</td><td>F=5157.520,P=0.000</td></tr><tr><td>社会</td><td>0.118</td><td>0.022</td><td>5.276</td><td>0.000**</td><td></td><td></td><td></td></tr><tr><td>经济</td><td>0.229</td><td>0.012</td><td>19.930</td><td>0.000**</td><td></td><td></td><td></td></tr><tr><td>文化</td><td>0.429</td><td>0.017</td><td>25.558</td><td>0.000**</td><td></td><td></td><td></td></tr><tr><td>生态环境</td><td>0.279</td><td>0.029</td><td>9.647</td><td>0.000**</td><td></td><td></td><td></td></tr></table></body></html>
+
+注：t为变量的显著性检验； $P$ 为模型的显著性； $R ^ { 2 }$ 为模型的拟合优度； $F$ 为模型总体线性的显著性检验；\*\*表示在0.01水平上显著。下同。
+
+![](images/7acfb21d4a86fc2c589da8351d9f9283a26ed9e0235d97b8c051156847be3bcf.jpg)  
+图4各子系统恢复力指数
+
+社会-生态系统及子系统间的耦合度和协调度均呈现上升趋势，且协调度水平低于耦合度水平，但二者之间差距逐渐缩短，这说明各子系统间相互作用有所加强。（1）从耦合度来看，“社会-经济-文化"的耦合度均值达到了0.85，而其他子系统间的耦合度均值为0.70，处于磨合阶段，说明社会、经济、文化、生态环境子系统相互作用的程度较高，处于有序的发展状态，4个子系统的发展有效促进了社会-生态系统的发展。（2）从协调度变化趋势来看，研究期内系统总体协调度呈稳步增长态势，子系统间的协调度均不断提升。协调度数值上，系统总体协调度均值为0.5426，从2007年的0.2260增加到2018年的0.6770，增长率为 $5 . 0 0 \%$ ；“社会-经济-文化”、“社会-经济-生态环境”、“社会-文化-生态环境"和"经济-文化-生态环境"的协调度均值分别为0.5979、0.5683、0.5423和0.5168，增长率分别为 $1 1 . 2 6 \%$ 、
+
+![](images/2a9614a4c35f57f7bdf4be285626d6d520840813d35879130c0f6b87a7e1141f.jpg)  
+图5各子系统耦合协调度  
+Fig.5Coupling coordination degree of each subsystem
+
+$2 . 7 5 \%$ ） $1 . 2 1 \%$ 和 $7 . 6 5 \%$ ,反映了系统总体与子系统间协调度增长态势基本同步。（3）为分析子系统间协调性对总体耦合协调度的影响，参照王少剑等4的测算方法，构建协调影响力指标。总体上，子系统间对系统总体的协调度起正向推动作用，且作用强度随时间推移不断增大(图6)。
+
+![](images/8f3a06100d584eac0ee28e0c03bbf60ca51b6995f13fc6b486c4a0ccab981b6b.jpg)  
+Fig.4Resilience indexof each subsystem   
+图6各子系统协调影响力  
+Fig.6 Coordinate influence of each subsystem
+
+# 4.4影响因素
+
+引入多元线性逐步回归-BP神经网络方法，分析文化旅游地社会-生态系统恢复力影响因素，其中多元线性逐步回归用于筛选文化旅游地社会-生态系统恢复力的关键影响因素，BP神经网络用于测算影响因素的贡献率。具体过程为：首先对41个指标与恢复力进行Pearson相关性分析以剔除相关性低于0.3的因素；其次，运用多元线性逐步回归筛选出关键影响因素，考虑样本量的要求，在以子系统为单元的同时为避免遗漏影响因素的情况，采取两两交叉方式进行多元线性逐步线性回归(表4)。最终筛选的影响因素分别是敦煌百度指数、文化产业经营单位、各类文物保护单位、敦煌研究院研究生数量和旅游业碳总排放量；最后，考虑到文化旅游地社会-生态系统具有非线性的特征，而BP神经网络具有良好的非线性映射能力，所以在Mat-labR2018b环境下对数据进行训练且利用式(3)测量影响因素的贡献率。结果表明：因子的贡献率大小为敦煌百度指数( $3 2 . 4 2 \%$ )>敦煌研究院研究生数量 $( 2 5 . 9 1 \%$ )>各类文物保护单位 $( 2 0 . 5 3 \% ) >$ 旅游业碳总排放量( $( 1 5 . 4 3 \% )$ >文化产业经营单位 $( 5 . 7 1 \% )$ 。
+
+敦煌百度指数是影响文化旅游地社会-生态系统恢复力的关键因素。敦煌百度指数反映了旅游者对敦煌的潜在旅游需求。敦煌市多戈壁沙漠，著
+
+# 干旱区地理
+
+# 表4多元线性逐步回归结果
+
+Tab.4 Results of multiple linear regression model   
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="4">t值</td></tr><tr><td>模型1</td><td>模型2</td><td>模型3</td><td>模型4</td></tr><tr><td>敦煌百度指数</td><td>11.013**</td><td></td><td></td><td></td></tr><tr><td>文化产业经营单位</td><td></td><td>17.260**</td><td></td><td></td></tr><tr><td>各类文物保护单位</td><td></td><td></td><td>6.304**</td><td></td></tr><tr><td>敦煌研究院研究生数量</td><td></td><td></td><td>3.183*</td><td></td></tr><tr><td>旅游业碳总排放量</td><td></td><td></td><td></td><td>6.572**</td></tr><tr><td>R²</td><td>0.961</td><td>0.984</td><td>0.979</td><td>0.901</td></tr><tr><td>D-W值</td><td>2.128</td><td>3.003</td><td>2.729</td><td>1.376</td></tr><tr><td>F</td><td>121.289</td><td>297.917</td><td>103.588</td><td>43.188</td></tr></table></body></html>
+
+注：t为单个变量对模型的显著性检验，其中\*、\*\*分别表示在0.05、0.01水平上显著。
+
+名的旅游景点多临近于建成区，土地供需矛盾较突出且资源的人口承载力有限。另外，随着旅游开发强度不断加大，大量游客涌入到敦煌市，使得人口的过度集聚，从而导致交通拥挤、人居环境质量下降、资源消耗强度增大(尤其是水资源），进而提高了生态环境的胁迫。文化产业经营单位是提高系统恢复力的持续动力。文化产业经营单位的增加有利于提高敦煌市经济实力、促进经济结构转型、增强投资力度和改善基础设施，从而为生态环境治理和文物修复提供资金保障和技术支持，进而有效减低系统脆弱性和提升应对能力。各类文物保护单位和敦煌研究院研究生数量是提高系统恢复力的推动力。文化旅游资源是敦煌市旅游业赖以生存和不断发展的前提条件，而敦煌研究院研究生数量和各类文物保护单位的增多不仅能够加大文物保护力度，提升应对能力，还营造文物保护的氛围，利于增强文物保护意识，从而减低系统脆弱性。旅游业碳总排放量是影响系统恢复力的限制因素。旅游业碳总排放量的增多会加大生态环境压力和加速文物氧化，然良好的生态环境是旅游经济发展的保障，因此旅游业碳总排放量的增多不利于提高系统应对能力，从而限制了系统恢复力发展。
+
+# 5讨论
+
+文化旅游地作为践行文旅融合发展的典型代表，其持续健康发展有利于满足人民美好生活的需要。文中选取敦煌市作为典型案例地，基于文化旅游地的特性，在社会-生态系统结构中增加“文化子系统"维度，从社会、经济、文化和生态环境4方面构建指标体系，分析干旱区文化旅游地社会-生态系统恢复力时序变化和影响因素，拓展文化旅游地研究视角的同时为干旱区文化旅游地持续健康发展提供借鉴和参考。在实证研究中发现，文化子系统对敦煌市社会-生态系统恢复力影响最大且生态环境子系统对敦煌市社会-生态系统恢复力的影响程度大于社会和经济子系统。这与非干旱区社会-生态系统恢复力的研究结果[8.18]有所不同，可能与干旱区社会-生态系统本底条件有关。因为较之非干旱区，干旱区的生态环境系统对外界干扰响应敏感且脆弱性高。从影响因素来看，敦煌市社会-生态系统恢复力主要受旅游发展及相关因子影响,这与前人研究一致。尽管文中分析了文化旅游地社会-生态系统恢复力时序变化和影响因素，但受文化类型数据获取的限制，文化子系统侧重于物质文化指标，未能将文化解说、文化原真性等难以定量化的指标纳入指标体系中，未来需要进一步完善评价指标体系和探究宏微观因子的交互作用。另外，文化旅游地是基于旅游供求关系且涉及相关利益主体的复杂适应系统，未来需要将文化旅游地的演变阶段嵌入社会-生态系统适应性循环过程中，探究文化旅游地的演化过程或采用OWA多准则算法，基于不同相关利益者的偏好，模拟或预测干旱区文化旅游地社会-生态系统恢复力。
+
+# 6结论
+
+本文运用灰色关联TOPSIS、耦合协调模型和BP神经网络研究2007—2018年干旱区文化旅游地社会-生态系统恢复力时序变化、协调性程度及影响因素，得到以下结论：
+
+（1）在已有研究基础上，基于文化旅游地的特性，从社会、经济、文化、生态环境4个方面构建了干旱区文化旅游地社会-生态系统恢复力的指标体系和分析框架
+
+(2）较之内生性变量，干旱区文化旅游地社会-生态系统对外生性变量反映强烈。2007一2018年干旱区旅游地社会-生态系统总恢复力处于中等等级、可划分为波动-缓慢增长-快速上升阶段且内部各子系统恢复力波动性较大。
+
+(3）各个子系统对干旱区文化旅游地社会-生态系统恢复力影响程度不一，文化和生态环境子系统对干旱区文化旅游地社会-生态系统恢复力影响更加突出，且各个子系统共同推进系统总体耦合协调度的提高。
+
+(4）干旱区文化旅游地社会-生态系统恢复力的影响因子与旅游和文化产业相关。因子贡献率大小为敦煌百度指数 $>$ 敦煌研究院研究生数量>各类文物保护单位>旅游业碳总排放量>文化产业经营单位。
+
+# 参考文献(References)
+
+[1]傅才武.论文化和旅游融合的内在逻辑[J].武汉大学学报(哲学 社会科学版),2020,73(2):89-100.[Fu Caiwu. On the internal logic in the integration of culture and tourism[J].Wuhan University Journal (Philosophy & Social Science),2020,73(2): 89-100.]   
+[2]保继刚,楚义芳.旅游地理学[M].北京:高等教育出版社,2012: 277-299.[Bao Jigang,Chu Yifang. Tourism geography[M]. Beijing: Higher Education Press,2012: 277-299.]   
+[3]Cumming G S,Barnes G,Perz S,et al. An exploratory framework for the empirical measurement of resilience[J]. Ecosystems,2005, 8(2): 975-987.   
+[4]张朝枝.文化遗产与可持续旅游:共容、共融、共荣—“文化遗 产与可持续旅游高峰论坛"的总结与反思[J].遗产与保护研 究,2017,2(3): 54-60.[Zhang Chaozhi. Cultural heritage and sustainable tourism: Mutual tolerance,mutual fusion,mutual prosperous: Summary and reflection from the“cultural heritage and sustainable tourism summit forum"[J]. Study on Natural and Cultural Heritage,2017,2(3): 54-60.]   
+[5]中共中央国务院印发《乡村振兴战略规划(2018——2022年)》[N]. 人民日报,2018-09-27(001).[The Central Committee of the Communist Party of China and the State Council issued the “Strategic Plan for Rural Revitalization (2018—2022)"[N]. The People’s Daily,2018-09-27(001).]   
+[6]范周.文旅融合的理论与实践[J].人民论坛·学术前沿,2019 (11): 43-49.[Fan Zhou.Theory and practice of the integration of culture and tourism[J]. Frontiers,2019(11): 43-49.]   
+[7]余中元,李波,张新时.社会生态系统及脆弱性驱动机制分析 [J].生态学报,2014,34(7):1870-1879.[Yu Zhongyuan,Li Bo, Zhang Xinshi.Social ecological system and vulnerability driving mechanism analysis[J].Acta Ecologica Sinica,2014,34(7):1870- 1879.]   
+[8]展亚荣,盖美.滨海旅游地社会-生态系统恢复力测度及协调 发展研究[J].地域研究与开发,2018,37(5):158-164.[Zhan Yarong,Gai Mei. Study on measurement and coordinated development of socio-ecological system resilience in coastal tourism destination[J].Areal Research and Development, 2018,37(5):158- 164 1   
+[9] Espiner S, Orchiston C,Higham J.Resilience and sustainability: A complementary relationship? Towards a practical conceptual model for the sustainability-resilience nexus in tourism[J]. Journal of Sustainable Tourism,2017,25(10): 1385-1400.   
+[10]Holling C S.Resilience and stability of ecological systems[J].Annual Review of Ecology and Systematics,1973,4: 1-23.   
+[11]Holling C S.Understanding the complexity of economic,ecological and social systems[J]. Ecosystems,2001,6(4): 390-405.   
+[12] 汪辉,徐蕴雪,卢思琪,等.恢复力、弹性或韧性?—社会-生态 系统及其相关研究领域中"Resilience"一词翻译之辨析[J].国 际城市规划,2017,32(4):29-39.[Wang Hui,Xu Yunxue,Lu Siqi,et al.A comparative study of Chinese translation of resilience terminology in socio-ecological system and its related research fields [J]. Urban Planning International,2017,32(4): 29-39.]   
+[13]Partelow S.A review of the social-ecological systems framework: Applications,methods，modifications,and challenges[J].Ecology & Society,2018,23(4): 36,doi: 10.5751/ES-10594-230436.   
+[14]Calgaro E,Lloyd K,Dominey- Howes D.From vulnerability to transformation:A framework for assessing the vulnerability and resilience of tourism destinations[J].Journal of Sustainable Tourism, 2014,22(3): 341-360.   
+[15]Bui H T,Jones TE,Weaver D B,et al. The adaptive resilience of living cultural heritage in a tourism destination[J]. Journal of Sustainable Tourism,2020,28(7):1022-1040.   
+[16] 杨晴青,高岩辉,杨新军,等.黄土高原半干旱区微尺度乡村人 居环境系统脆弱性测度及时空分异—以陕西省佳县为例 [J].干旱区地理,2020,43(5):1371-1381.[Yang Qingqing,Gao Yanhui, Yang Xinjun, etal.Measurement and spatial-temporal differentiation of vulnerability of microscale rural human settlementsin the semi-arid region of the Loess Plateau: A case study of Jiaxian County,Shaanxi Province[J].Arid Land Geography,2020,43 (5): 1371-1381.]   
+[17] 宋爽,王帅,傅伯杰,等.社会-生态系统适应性治理研究进展 与展望[J].地理学报,2019,74(11:2401-2410.[Song Shuang, Wang Shuai,Fu Bojie,et al. Study on adaptive governance of social-ecological system: Progress and prospect[J]. Acta Geographica Sinica,2019,74(11): 2401-2410.]   
+[18] 王群,陆林,杨兴柱.千岛湖社会-生态系统恢复力测度与影响 机理[J].地理学报,2015,70(5):779-795.[Wang Qun,Lu Lin, Yang Xingzhu. Study on measurement and impact mechanism of socio-ecological system[J].Acta Geographica Sinica,2015,70(5): 779-795.]   
+[19]Barbhuiya M R,Chatterjee D.Vulnerability and resilience of the tourism sector in India:Effects of natural disasters and internal conflict[J]. Tourism Management Perspectives,2020,33:100616, doi: 10.1016/j.tmp.2019.100616.   
+[20] Beirman D.Thailand's approach to destination resilience: An historical perspective of tourism resilience from 2002 to 2018[J]. Tourism Review International,2018,22(3-4): 277-292.   
+[21]Becken S. Developing a framework for assessing resilience of tour
+
+# 干吴区地理
+
+ism sub-systems to climatic factors[J].Annals of Tourism Research, 2013,43:506-528.   
+[22] 朱梅,魏向东.国内外文化旅游研究比较与展望[J].地理科学进 展,2014,33(9): 1262-1278.[Zhu Mei,Wei Xiangdong.Comparison and prospect of Chinese and international cultural tourism[J]. Progress in Geography,2014,33(9): 1262-1278.]   
+[23] 杨更生,王东,孙彬.“一带一路"下旅游文化产业的大数据体系 架构与实施途径研究[J].干旱区地理,2019,42(1):187-194. [Yang Gengsheng, Wang Dong, Sun Bin.Big data system architecture and implementation appoach of tourism culture industry under “the Belt and Road”Initiative[J].Arid Land Geography,2019, 42(1): 187-194.]   
+[24] 侯兵,周晓倩,卢晓旭,等.城市文化旅游竞争力评价体系的构 建与实证分析——以长三角地区城市群为例[J].世界地理研 究,2016,25(6):166-176.[Hou Bing, Zhou Xiaoqian,Lu Xiaoxu, et al.The construction and empirical analysis on the evaluation system of urban cultural tourism competitiveness: Taking the urban agglomerationinthe Yangtze River Delta region asan example [J]. World Regional Studies,2016,25(6): 166-176.]   
+[25] 张环宙,黄克己,吴茂英.基于博弈论视角的滨海文化旅游可持 续发展研究——以普陀山为例[J].经济地理,2015,35(4):202- 208.[Zhang Huanzhou,Huang Keji,Wu Maoying.Sustainable tourism development of coastal cultural regions based on game theory: Acaseof Mount Putuo in Zhejiang Province[J]. Economic Geography,2015,35(4): 202-208.]   
+[26] 朱婕,吕宝林.坚定文化自信、担负文化使命[N].甘肃日报, 2017-1O-24(OO1).[Zhu Jie,Lu Baolin. Strengthen cultural confidence and shoulder cultural mission[N]. Gansu Daily,2017-10-24 (001).]   
+[27] 陈亚宁,李稚,范煜婷,等.西北干旱区气候变化对水文水资源 影响研究进展[J].地理学报,2014,69(9):1295-1304.[Chen Yaning,Li Zhi,Fan Yuting,et al. Research progresson the impact of climate change on water resources in the arid region of northwest China[J]. Acta Geographica Sinica,2014,69(9): 1295-1304.]   
+[28] 新华网.真正的大事:寒冷干旱的中国西北正在变暖变湿[EB/ OJ.[2019-09-18]. https://m.jiemian.com/article/3513681.html. [Xinhuanet. The real big thing: The cold and arid northwest of China is warming and getting wet[EB/OJ].[2019-09-18]. https://m. jiemian.com/article/3513681.html.]   
+[29] 张朝枝,朱敏敏.文化和旅游融合:多层次关系内涵、挑战与践 行路径[J].旅游学刊,2020,35(3): 62-71.[Zhang Chaozhi,Zhu Minmin.The integration of culture and tourism: Multi-understandings,variouschallngesandapproaches[J].Tourism Tribune, 2020,35(3): 62-71.]   
+[30] 傅才武,申念衢.新时代文化和旅游融合的内涵建构与模式创 新——以甘肃河西走廊为中心的考察[J].福建论坛(人文社会 科学版),2019(8): 28-39.[Fu Caiwu,Shen Nianqu.Connotation construction and model innovation for the integration of culture and tourism in the new era: An examination centering on the Hexi Corrdor in Gansu[J].Fujian Tribune (Humanities and Social Sciences Edition),2019(8): 28-39.]   
+[31] 陈亚宁,杨青,罗毅,等.西北干旱区水资源问题研究思考[J].干 旱区地理,2012,35(1): 1-9.[Chen Yaning, Yang Qing,Luo Yi, et al.Ponder on the issues of water resources in the arid region of northwest China[J].Arid Land Geography,2012,35(1): 1-9.]   
+[32] 朱鹤,唐承财,王磊,等.新时代的旅游资源研究:保护利用与创 新发展——旅游地理青年学者笔谈[J].自然资源学报,2020, 35(4): 992-1016. [Zhu He,Tang Chengcai,Wang Lei,et al. Research on tourism resources in the new era: Protection,utilization and innovative development: Comments of young tourism geographers[J]. Journal of Natural Resources,2020,35(4): 992-1016.]   
+[33]张朝枝,张捷,苏明明,等.遗产旅游的概念与内涵——“重新认 识遗产旅游"系列对话连载(一)[J].旅游论坛,2021,14(1):1-9. [Zhang Chaozhi, Zhang Jie,Su Mingming,et al. The concept and connotation of heritage tourism: A series of dialogues on“Rethinking heritage tourism"(D)[J]. Tourism Forum,2021,14(1): 1-9.]   
+[34] 张捷,苏明明,孙业红,等.遗产旅游研究的问题与方法—“重 新认识遗产旅游"系列对话连载(二)[J].旅游论坛,2021,14(2): 18-25.[Zhang Jie,Su Mingming,Sun Yehong,et al. The concept and connotation of heritage tourism: A series of dialogues on “Rethinking heritage tourism”（II)[J]. Tourism Forum,2021,14(2): 18-25.]   
+[35] 李彩云,陈兴鹏,张子龙,等.敦煌市旅游业碳排放与经济增长 的耦合关系分析[J].生态科学,2016,35(1):109-116.[Li Caiyun, Chen Xingpeng,Zhang Zilong,et al.Estimation of tourism carbon emission and its decoupling with tourism development in Dunhuang[J]. Ecological Science,2016,35(1): 109-116.]   
+[36] 王靖,张金锁.综合评价中确定权重向量的几种方法比较[J].河 北工业大学学报,2001,30(2): 52-57.[Wang Jing,Zhang Jinsuo. Comparing several methods of assuring weight vector in synthetical evaluation[J].Journalof Hebei Universityof Technology, 2001,30(2): 52-57.]   
+[37] 杨莹,林琳,钟志平,等.基于应对公共健康危害的广州社区恢 复力评价及空间分异[J].地理学报,2019,74(2):266-284. [Yang Ying,Lin Lin, Zhong Zhiping,et al. Comprehensive evaluation andspatial diferentiationofcommunityresilience in Guangzhou based on response of the city to public health hazards[J].Acta Geographica Sinica,2019,74(2): 266-284.]   
+[38] 吴磊,焦华富,叶雷.皖南国际文化旅游示范区旅游经济与交通 耦合协调发展的时空特征[J].地理科学,2019,39(11):1822- 1829.[Wu Lei,Jiao Huafu,Ye Lei. Spatio-temporal characteristics of coordinated development between tourism economy and transportation: A case of international culture and tourism demonstration area in south Anhui Province[J]. Scientia Geographica Sinica,2019,39(11): 1822-1829.]   
+[39] 李恒吉,曲建升,庞家幸,等.甘肃省人口-经济-社会-资源-环 境系统耦合协调及可持续发展时空综合测度研究[J].干旱区 地理,2020,43(6): 1622-1634.[LiHengji,QuJiansheng,Pang Ji
+
+axing,et al. Spatial- temporal synthetic measurement of coupling coordination and sustainable development of population-economysociety-resource-environment system in Gansu Province[J].Arid Land Geography,2020,43(6): 1622-1634.]
+
+[40]Aleboyeh A,Kasiri MB,Olya ME,etal.Prediction ofazo dye decolorization by UV/HO2 using artificial neural networks[J].Dyes
+
+and Pigments,2008,77(2): 288-294. [41]王少剑,崔子恬,林靖杰,等.珠三角地区城镇化与生态韧性的 耦合协调研究[J].地理学报,2021,76(4):973-991.[Wang Shaojian,Cui Zitian,Lin Jingjie,et al.Coupling relationship between urbanization and ecological resilience in the Pearl River Delta[J]. Acta Geographica Sinica,2021,76(4): 973-991.]
+
+# Interannual variation and influencing factors of social-ecological system resilience of cultural tourism destination in arid area: A case of Dunhuang City, Gansu Province
+
+LI Guanfeng， JIAO Huafu, WANG Qun (School of Geography and Tourism,Anhui Normal University,Wuhu 241OO2,Anhui, China)
+
+Abstract: This paper mainly studies the interannual changesand influential factors of social-ecological system resilience of cultural tourism destinations in arid areas.Existing studies on social-ecological systems have not paid much atention to cultural tourism destinations in the arid regions of western China. Therefore,taking Dunhuang Cityas a typical case,in this paper,we constructed an indicator system to evaluate the resilience of the social-ecological system ofcultural tourismdestinations from fouraspects:social,economic,cultural,and ecological environment. We also conducted research using gray correlation TOPSIS,coupling coordination degree model, and BP neural network.As aresult,the following were found.(1） Compared with endogenous variables,the social-ecological system of cultural tourism destinations in arid regions strongly reflects exogenous variables.The social-ecological system resilience of Dunhuang City has been good from 2007to 2018 and can be divided into fluctuating,slow-growth,and rapid-rise stages. (2) Various subsystems have diferent impacts on the resilience of the social-ecological system ofcultural tourism destinations in arid regions.Cultural and ecological environment subsystems play a leading role in determining the degre of social-ecological system resilience in Dunhuang City. (3)The degree of coupling and coordination between the social-ecological system and its subsystems shows an upward trend. The subsystems generally play a positive role in promoting the overall degree of coordination of the system,and the action intensity increases with time.(4)The contribution rate of the factors is as follows: Dunhuang Baidu index>Dunhuang Research Institute graduate students>various protection units of cultural relics>total carbon emission of tourism>cultural industry operation units.
+
+Key words: arid area; cultural tourism destination; social-ecological system; Dunhuang City

@@ -1,0 +1,546 @@
+# Antisymmetric tensor field and spontaneous magnetization in holographic duality
+
+Rong-Gen Cai $^ { 1 }$ ,\* and Run-Qiu Yang1,t $^ { 1 }$ State Key Laboratory of Theoretical Physics,Institute of Theoretical Physics, Chinese Academy of Sciences,Beijing 100190，China.
+
+A real anti-symmetric tensor field was introduced to realize a holographic magnetic ordered phase in our previous works.However,a more careful analysis shows there is a vector ghost in the model. In this paper we present a modified Lagrangian density for the anti-symmetric tensor, which is ghost free and causality is well-defined,and keeps all the significant results in the original model qualitatively.We show this modified Lagrangian density could come from the dimensional compactification of $p$ -form field in String/M-theory. For static curved space-time,we also prove that this modified model is ghost free and dose not violate causality.This new model ofers a solid foundation for the application of antisymmetric tensor field in holographic duality,especially for the spontaneous magnetization.
+
+# I. INTRODUCTION
+
+The application of holographic duality in condensed matter theory,or named AdS/CMT correspondence,has been attracting a lot of attention in both sides of field theory and condensed matter physics.By this duality,we can connect a strongly coupled or correlated system in a $d$ -dimensional flat space-time with a $( d + 1 )$ -dimensional asymptotic AdS space-time [1-4]. This duality opens a novel approach to survey strongly coupled or correlated phenomenons in condensed matter field and provides a powerful tool to deal with relevant issues.It has been extensively applied into condensed matter physics and a great deal of progress have been made [5-1O]. For a brief review, see [11], for example.
+
+So far,most studies have been focused on how to take this duality to describe electronic transport properties in strongly correlated systems. Although there are a few works investigating the magnetism in holographic superconductors such as Refs.[12-16],the magnetism there only plays a participator's role rather than a protago nist's one. In fact,in condensed matter physics,there are some interesting critical phenomenons and phase transitions involving the strongly correlated electrons, which are controlled by magnetic properties of material,such as Kondo effect [17]，colossal magnetoresistance [18]，and competition and coexistence between magnetic ordered states and superconductivity [19,20], A toy model for studying magnetism in AdS/CMT duality was proposed in Ref. [21]. In this model, the authors proposed that the magnetic moment could be described by a real antisymmetric tensor field（ATF) which is coupled to the gauge field strength in the bulk,and showed that the spontaneous magnetization can happen and the ferromagnetism-paramagnetism phase transition can be realized. Sooner, this model was extended into describe the antiferromagnetism-paramagnetism phase transitions by introducing two ATFs corresponding two magnetic sublattices in materials [22]. Based on this model,the competition and coexistence between magnetic ordered states and superconducting were also discussed in Ref. [23]. Thought some significative results have been made through this model on describing spontaneous magnetization and relevant issues, there are still some fundamental aspects to be clarified.For example, whether can the model be consistently embedded into String/M theory? The most stringent query about the model is whether the model is ghost free and causality violation does not appear since a tensor field is involved in the model. In our previous studies, these problems are not discussed.
+
+It is well-known that in high spin field theory,such issues mentioned above usually appear. For a physical field which describes a bosonic particle, the degrees of freedom are determined by its mass $m$ and spin $s$ ,which are $2 s + 1$ for the massive case and 2 for the massless case. However,when one writes drown a field theory with high rank Lorentz index, the degrees of freedom in general are more than these,which leads to ghost.Then a self-consistent theory needs to be constructed carefully to rule out this redundant degrees of freedom by itself.
+
+The other fundamental problem that may arise in field theory is connected with the possibility of causality violation,which usually appears in a high spin field or an interacted field theory [24]. Even a theory which is well defined in a flat space-time,may still have causality violation when it is generalized into a curved spacetime [25]. Unlike the ghost linking to the properties of degrees of freedom in the phase space,the causality concerns the properties about propagation,which can be obtained from equation of motions [25].In general, for a field theory,we have a set of differential equations for a set of fields $\Phi _ { A }$ such as,
+
+$$
+( { M _ { A } } ^ { B } ) ^ { \mu \nu } \partial _ { \mu } \partial _ { \nu } \Phi _ { B } + \cdot \cdot \cdot = 0 , \mu , \nu = 0 , 1 , \cdot \cdot \cdot , d - 1 .
+$$
+
+A characteristic matrix ${ M _ { A } } ^ { B } ( n )$ is the matrix function   
+of $d$ arguments defined as, $n _ { \mu }$
+
+$$
+M _ { A } { } ^ { B } ( n ) = ( M _ { A } { } ^ { B } ) ^ { \mu \nu } n _ { \mu } n _ { \nu } .
+$$
+
+A characteristic equation then is $\operatorname* { d e t } [ { M _ { A } } ^ { B } ( n ) ] = 0$ If for any values $n _ { i } ( i = 1 , \cdots , d - 1 )$ ，all solutions of the characteristic equation $n _ { 0 } ( n _ { i } )$ are real then the system of differential equations is hyperbolic. The hyperbolic differential equations describe the propagation of wave processes. The hyperbolic system is called causal if all the solutions of characteristic equation are space-like or null.In such a system,the velocity of propagation dose not exceed the speed of light. Otherwise，if there are time-like solutions for $n _ { \mu }$ in the characteristic equation, the propagation can exceed the speed of light and violates the causality.
+
+In this paper, we will build a ghost free and causal ATF theory. The results show that the original Lagrangian for the holographic magnetism proposed in [21] contains a vector ghost and needs to be remedied.In section II, we will show that the ATF describes a spin-1 field rather thana spin-2 field,naively thought. Then we will discuss how to build a ghost free ATF theory in flat space-time. We will generalize it into a curved space-time in section II. For a very general form,we prove that the modified model dose not contain ghost or violate causality. In this new model we will also re-produce the main results in Ref. [21] in section IV. In other words the significative results in our previous works remain valid and the ghost and causality violation issues do not appear in the modified model.
+
+# II. GHOSTFREEMODELINMINKOWSKIAN SPACE-TIME
+
+Let us begin our discussion with the two Casimir invariants of Poincaé group,
+
+$$
+C _ { 1 } = p ^ { \mu } p _ { \mu } , \quad C _ { 2 } = W ^ { \mu } W _ { \mu }
+$$
+
+where $\begin{array} { r } { W ^ { \mu } = - \frac { 1 } { 2 } \epsilon ^ { \mu \nu \sigma \tau } S _ { \nu \sigma } p _ { \tau } } \end{array}$ is the Pauli-Lubanski pseudovector and $S _ { \nu \sigma }$ and $p _ { \tau }$ are the spin angular momentum operator and momentum operator，respectively. They define mass and spin which are the two basic quantum numbers for the feld. Let us consider the massive case, which corresponds to a physical massive particle of mass $m$ and spin $s$ .In this case,we have the mass and spin numbers as the eigenvalues of these two Casimir operators such that $C _ { 1 } = - m ^ { 2 }$ and $C _ { 2 } = m ^ { 2 } s ( s + 1 )$ ：
+
+In general, the properties under the Poincaé group nearly uniquely determine the dynamic of the given field by the requirement that the single particle state carries an irreducible unitary representation of the Poincaé group. For an ATF $M _ { \mu \nu }$ ,the Casimir operator $C _ { 1 }$ then demands that the Klein-Gordon equation be satisfied,
+
+$$
+( \partial ^ { 2 } - m ^ { 2 } ) M _ { \mu \nu } = 0 ,
+$$
+
+which gives the equation of motion for the ATF.If there is no other constraint equation,the Lagrangian density then can be determined up to an arbitrary divergence term,
+
+$$
+\mathcal { L } = - \frac { 1 } { 4 } ( \partial _ { \mu } M _ { \nu \tau } ) ( \partial ^ { \mu } M ^ { \nu \tau } ) - \frac { m ^ { 2 } } { 4 } M ^ { \mu \nu } M _ { \mu \nu } .
+$$
+
+For the AFT，we can show that the value of second Casimir operator $C _ { 2 }$ is $2 m ^ { 2 }$ (see appendix A), which indicates that the antisymmetric tensor feld describes spin-1 particles.This is due to the fact that the representation of Lorentz group for an ATF is $D ( 1 , 0 ) \oplus D ( 0 , 1 )$ ,which is the direct sum of two spin-1 irreducible representations and describes two spin-1 particles.We will discuss this in detail in some appendix A.As a comparison,we can find that the representation of Lorentz group for a symmetric tensor field with rank two is $D ( 1 , 1 )$ ，which is the direct product representation,and hence it is reducible.As a results,the symmetric tensor field may contain particles with spin 2, $^ { 1 }$ ,and 0.
+
+If one quantizes the tensor field described by the Lagrangian (5),it can be shown that the Hamiltonian is not positive definite and one of spin-1 particles carries negative energy. So the naive model(5) for ATF has a massive vector ghost. For details,one may see appendix B.To eliminate this vector ghost,we can impose divergence/transversality condition such that [26],
+
+$$
+\partial ^ { \mu } M _ { \mu \nu } = 0 .
+$$
+
+Because of the identical relation $\partial ^ { \mu } \partial ^ { \nu } M _ { \mu \nu } = 0$ , the equation(6)offers three independent constraints,which can eliminate three degrees of freedom associated with the ghost.However,all the constraints should come out from the Lagrangian itself. In order to write down a ghost free theory for ATF,we need to modify the Lagrangian density (5). The new Lagrangian density should keep the equation of motion (4），and also give the constraint (6) automatically. To this aim, let us assume the Lagrangian density has following form,
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { { \mathcal { L } } = - \displaystyle \frac { 1 } { 4 } ( \partial _ { \mu } M _ { \nu \tau } ) \partial ^ { \mu } M ^ { \nu \tau } - \frac { m ^ { 2 } } { 4 } M ^ { \mu \nu } M _ { \mu \nu } } } \\ { { } } & { { } } & { { - \displaystyle \frac { c } { 2 } ( \partial _ { \mu } M ^ { \mu \nu } ) \partial ^ { \tau } M _ { \tau \nu } , } } \end{array}
+$$
+
+where $c$ is a constant to be determined. Varying the Lagrangian,we get the equation of motion,
+
+$$
+\partial ^ { 2 } M _ { \mu \nu } - 2 c \partial _ { [ \mu } \partial ^ { \alpha } M _ { \nu ] \alpha } - m ^ { 2 } M _ { \mu \nu } = 0 .
+$$
+
+The divergence of Eq. (8） gives,
+
+$$
+( 1 + c ) \partial ^ { 2 } \partial ^ { \mu } M _ { \mu \nu } - m ^ { 2 } \partial ^ { \mu } M _ { \mu \nu } = 0 .
+$$
+
+Therefore if one takes the coefficient $c = - 1$ ，the above equation reduces to the constraint (6). This indicates that the Lagrangian density leads to the constraint (6) automatically. In this way we obtain a self-consistent Lagrangian density,
+
+$$
+\begin{array} { l } { { \displaystyle { \mathcal { L } } = - \frac { 1 } { 4 } ( \partial _ { \mu } M _ { \nu \tau } ) \partial ^ { \mu } M ^ { \nu \tau } - \frac { m ^ { 2 } } { 4 } M ^ { \mu \nu } M _ { \mu \nu } } } \\ { { \displaystyle ~ + \frac { 1 } { 2 } ( \partial _ { \mu } M ^ { \mu \nu } ) \partial ^ { \tau } M _ { \tau \nu } . } } \end{array}
+$$
+
+And associated equations of motion are equivalent to following two equations,
+
+$$
+( \partial ^ { 2 } - m ^ { 2 } ) M _ { \mu \nu } = 0 , \partial ^ { \mu } M _ { \mu \nu } = 0 .
+$$
+
+The first one of (11) gives the first Casimir invariant,as expected.
+
+In fact， there is an equivalent form for the Lagrangian (1O),which is quite useful when we generalize it into a curved space-time.After some algebra,one can show that,by adding some suitable boundary terms, the Lagrangian (1O) is equivalent to,
+
+$$
+\mathcal { L } = - \frac { 1 } { 1 2 } ( d M ) ^ { 2 } - \frac { m ^ { 2 } } { 4 } M _ { \mu \nu } M ^ { \mu \nu } ,
+$$
+
+where $( d M ) _ { \mu \nu \tau }$ is the exterior differential of $M _ { \mu \nu }$ ，and $( d M ) ^ { 2 } \ : = \ : 9 \partial _ { [ \mu } M _ { \nu \tau ] } \partial ^ { \mu } M ^ { \nu \tau }$ .The Lagrangian describes nothing but a massive 2-form field！This equivalent form givesus a manner to explain how this massive ATF theory can be generated fromlow energy action of String/M theory.
+
+As it is well-known, the $p$ -form fieldin String/M-theory is well defined, as the source of the $D ( p - 1 )$ -brane.For example,we can write down the following action for $p$ form in String/M theory,
+
+$$
+S = - \frac { 1 } { 2 \kappa _ { 0 } ^ { 2 } } \int d C \wedge { ^ * d C } + \mu _ { p } \int _ { \mathcal { M } _ { p } } C ,
+$$
+
+where $^ *$ is the Hodge dual operator, $C$ isa -form, $p$ $\mu _ { p }$ is the charge of the $D ( p - 1 )$ -brane under the $p$ -form $C$ and $\mathcal { M } _ { p }$ is the world-volume of the $D ( p - 1 )$ -brane.We see that this $p$ -form field is massless and the action has a gauge symmetry such as $C  C + d C ^ { \prime }$ for any $( p - 1 )$ form $C ^ { \prime }$ . However,if we consider a certain field coupling with this $p$ -form,then in the low energy limit,there are a few mechanisms to break this kind of gauge symmetry spontaneously and to give the $p$ -form field mass,such as Higgs mechanism，Stueckelberg mechanism [27,28], and topological mass generation [29]. Even without any other field,the $p$ -form field can acquire its mass by the Kaluza-Klein (KK) dimensional reduction [30l. Therefore we see that the Lagrangian(1O) describes an effective model which can be obtained from String/M theory in some suitable manner.In appendix C we show that a $p$ -form field gets its mass through the KK dimensional reduction.
+
+The model(1O) is ghost free,which can be seen from the fact that the canonical momentum density of the component $M _ { 0 i }$ vanishes and $M _ { 0 i }$ can be directly solved by $M _ { i j }$ and their canonical momentum densities. Therefore in model (10),only the spatial components of $M _ { \mu \nu }$ are real degrees of freedom. We can directly quantize the model (1O) and show that the model describes one spin-1 particle with 3 polarization directions.All the states are physical and there is no ghost.
+
+# III. COUPLED TOGRAVITYINA FIXEDBACKGROUND
+
+In section II, we have constructed a ghost free model for ATF in a flat space-time. Now we want to generalize this model into curved space-time.For this,first of all, we demand the theory can come back to the flat case when curvature vanishes.Besides,it is also required that there are the same propagating degrees of freedom as in the flat case and no negative mode states in Fock space. Furthermore we need pay attention on the causality since causality violation may appear in curved space-time.All those are just what we will discuss in this section.
+
+In curved space-time,the field has interaction with gravity. Usually we can make the replacements such as $\partial _ { \mu } \to \nabla _ { \mu }$ and $\eta _ { \mu \nu }  g _ { \mu \nu }$ for the Lagrangian in fat spacetime.In addition,we should take all the possible terms of the coupling between curvature tensor and the tensor field into account. Considering symmetry and only taking the coupling between curvature and quadratic forms of ATF into account,we write drown the general Lagrangian density of (12) in a curved space-time
+
+$$
+\mathcal { L } = - \sqrt { - g } \left[ \frac { 1 } { 1 2 } ( d M ) ^ { 2 } + \frac { m ^ { 2 } } { 4 } M _ { \mu \nu } M ^ { \mu \nu } + \frac { L _ { R M } } { 4 } \right] ,
+$$
+
+with
+
+$$
+\begin{array} { l } { { { \cal L } _ { R M } = a _ { 1 } R M _ { \mu \nu } M ^ { \mu \nu } + a _ { 2 } R ^ { \mu \nu } M _ { \mu \tau } M ^ { \tau } { } _ { \nu } } } \\ { { \phantom { \qquad = } + a _ { 3 } R ^ { \mu \nu \alpha \beta } M _ { \mu \nu } M _ { \alpha \beta } + a _ { 4 } R ^ { \alpha \mu \nu \beta } M _ { \mu \nu } M _ { \alpha \beta } . } } \end{array}
+$$
+
+Here the coefficients $a _ { 1 } , a _ { 2 }$ ， $a _ { 3 }$ and $a _ { 4 }$ are all arbitrary constants, $R _ { \mu \nu \alpha } { } ^ { \beta } V _ { \beta } = [ \nabla _ { \mu } , \nabla _ { \nu } ] V _ { \alpha }$ for any covariant vector $V _ { \beta }$ and $R _ { \mu \nu } = { R _ { \mu \alpha \nu } } ^ { \mathrm { c } }$ \*. There are two reasons that we should reject the derivative coupling between curvature and ATF. One is that it will lead to the appearance of high order derivatives (more than 2) in equations of motion when the dynamic of gravity is taken into account. The other is that it would lead to ghost unless some very special conditions are imposed on the curvature terms. We will make a simple comment on this later on.
+
+In a flat space time,we can prove that the model (12) is ghost free by directly showing that it can give a correct degrees of freedom by quantization. However,this method is not applicable in a curved space-time.Since it is hard to write down a mode decomposition such as Fourier decomposition in flat case.Instead,we will use Hamiltonian analysis to find the number of real degrees of freedom. This method is equivalent to the one in Ref.[25],which directly takes the equations of motion.
+
+To write down the Hamiltonian form of a matter field, we need make a $3 + 1$ decomposition on the background geometry.It seems very complex to write down the Hamiltonian canonical equations in a general space-time For simplicity， here we assume the background spacetime is static.In this case we can write the metric in the following form
+
+$$
+d s ^ { 2 } = g _ { 0 0 } d t ^ { 2 } + h _ { i j } d x ^ { i } d x ^ { j } ,
+$$
+
+with $g _ { 0 0 } < 0$ ： $h _ { i j }$ is the spatial metric,which is independent of time $t$ In this coordinate, we have $g ^ { 0 0 } = 1 / g _ { 0 0 }$ and ${ \sqrt { - g } } = h { \sqrt { - g _ { 0 0 } } }$
+
+With the Lagrangian density (14),we can obtain the canonical momentum density,
+
+$$
+\begin{array} { c } { { \pi ^ { \mu \nu } = \displaystyle \frac { \partial \mathcal { L } } { \partial \partial _ { 0 } M _ { \mu \nu } } = - \sqrt { - g } ( d M ) ^ { 0 \mu \nu } } } \\ { { = - \sqrt { - g } g ^ { 0 0 } g ^ { \mu ^ { \prime } \mu } g ^ { \nu \nu ^ { \prime } } ( \partial _ { 0 } M _ { \mu ^ { \prime } \nu ^ { \prime } } + 2 \partial _ { [ \mu ^ { \prime } } M _ { \nu ^ { \prime } ] 0 } ) } } \end{array}
+$$
+
+and
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { \pi _ { \mu \nu } = g _ { \mu ^ { \prime } \mu } g _ { \nu \nu ^ { \prime } } \pi ^ { \mu ^ { \prime } \nu ^ { \prime } } = - \sqrt { - g } g ^ { 0 0 } ( d M ) _ { 0 \mu \nu } } } \\ { { } } & { { } } & { { = - \sqrt { - g } g ^ { 0 0 } ( \partial _ { 0 } M _ { \mu \nu } + 2 \partial _ { [ \mu } M _ { \nu ] 0 } ) . } } \end{array}
+$$
+
+It is easy to see that the canonical momentum density （20 $\pi ^ { 0 i } = 0$ from the expression (17), which gives a 3-vector primary constraint $\pi ^ { 0 i } \approx 0$ or，
+
+$$
+\psi _ { u } ^ { ( 0 ) } \equiv \int d ^ { 3 } x u _ { i } \pi ^ { 0 i } \approx 0 , \mathrm { f o r a n y s u i t a b l e } u _ { i } .
+$$
+
+Here the term “suitable”means that it is independent of time with a compact support on the space.We use ‘ $\approx$ ”as weak equivalence which means that two sides are equal only on the physical phase space. Using the canonical momentum density,we obtain the Hamiltonian
+
+$$
+H = \int d ^ { 3 } x \mathcal { H }
+$$
+
+with Hamiltonian density $\mathcal { H }$
+
+$$
+\begin{array} { l } { { \displaystyle { \mathcal { H } } = \frac { 1 } { 2 } \pi ^ { i j } \partial _ { 0 } M _ { i j } - { \mathcal { L } } } } \\ { { \displaystyle ~ = - \frac { g _ { 0 0 } \pi ^ { i j } \pi _ { i j } } { 4 \sqrt { - g } } - \pi ^ { i j } \partial _ { i } M _ { j 0 } } } \\ { { \displaystyle ~ + \frac { \sqrt { - g } } { 4 } [ ( \partial _ { i } M _ { j k } ) ( d M ) ^ { i j k } + m ^ { 2 } M ^ { \mu \nu } M _ { \mu \nu } + L _ { R M } ] } } \end{array}
+$$
+
+Herethe coefficient $1 / 2$ in the first line comes from the antisymmetry of index $\mu , \nu$ . From this Hamiltonian,we can get the equations of time evolution,
+
+$$
+\begin{array} { c } { { { \dot { \pi } } ^ { \mu \nu } = - { \displaystyle \frac { \delta H } { \delta M _ { \mu \nu } } } = - 4 ( \partial _ { i } \pi ^ { i j } ) \delta _ { j } ^ { [ \mu } \delta _ { 0 } ^ { \nu ] } + } } \\ { { { \partial _ { k } } ( \sqrt { - g } ( d M ) ^ { i j k } ) \delta _ { i } ^ { \mu } \delta _ { j } ^ { \nu } - \sqrt { - g } V ^ { \mu \nu } . } } \end{array}
+$$
+
+with $V ^ { \mu \nu } = m ^ { 2 } M ^ { \mu \nu } + { \textstyle { \frac { 1 } { 2 } } } \partial L _ { R M } / \partial M _ { \mu \nu }$ and
+
+$$
+\dot { M } _ { i j } = \frac { \delta H } { \delta \pi ^ { i j } } = - \frac { \pi _ { i j } g _ { 0 0 } } { \sqrt { - g } } - 2 \partial _ { [ i } M _ { j ] 0 } , \dot { M } _ { 0 j } = \lambda _ { 0 i } .
+$$
+
+Here $\lambda _ { 0 i }$ are undetermined Lagrange multipliers and the overdot stands for the Lie derivative with respect to $t$ In our case,it is just the partial derivative $\partial / \partial t$ .We see that the equation (23) is consistent with(18),which can be treated as a test for the expression (21). In addition,we see from (22) that there is a 3-vector secondary constraint,
+
+$$
+\dot { \pi } ^ { 0 i } = 2 \partial _ { j } \pi ^ { j i } - \sqrt { - g } V ^ { 0 i } \approx 0 ,
+$$
+
+or
+
+$$
+\psi _ { v } ^ { ( 1 ) } \equiv \int d ^ { 3 } x v _ { j } \big ( 2 \partial _ { i } \pi ^ { i j } - \sqrt { - g } V ^ { 0 j } \big ) \approx 0 ,
+$$
+
+for any suitable function $v _ { i }$ ．This secondary constraint needs to be satisfied at any time,which may lead to a new constraint. So we have,
+
+$$
+\dot { \psi } _ { v } ^ { ( 1 ) } = \frac { 1 } { 2 } \int d ^ { 3 } x \left[ \frac { \delta \psi _ { v } ^ { ( 1 ) } } { \delta \pi ^ { \mu \nu } } \dot { \pi } ^ { \mu \nu } + \frac { \delta \psi _ { v } ^ { ( 1 ) } } { \delta M _ { \mu \nu } } \dot { M } _ { \mu \nu } \right] \approx 0 ,
+$$
+
+Note the fact that $\pi ^ { 0 i } \approx 0$ at any spatial point,we have δiπOi \~ Voo = O. By introducing a suitable function vo, we have
+
+$$
+\begin{array} { l } { { \psi _ { v } ^ { ( 1 ) } \approx \displaystyle \int d ^ { 3 } x \big [ v _ { j } ( 2 \partial _ { i } \pi ^ { i j } - \sqrt { - g } V ^ { 0 j } ) } } \\ { { ~ + v _ { 0 } ( 2 \partial _ { i } \pi ^ { i 0 } - \sqrt { - g } V ^ { 0 0 } ) \big ] } } \\ { { ~ = \displaystyle \int d ^ { 3 } x v _ { \mu } ( 2 \partial _ { i } \pi ^ { i \mu } - \sqrt { - g } V ^ { 0 \mu } ) , } } \end{array}
+$$
+
+whichleadsto
+
+$$
+\dot { \psi } _ { v } ^ { ( 1 ) } \approx 2 \int d ^ { 3 } x v _ { \mu } \partial _ { \nu } ( \sqrt { - g } V ^ { \mu \nu } ) .
+$$
+
+With the constraints of(19)and (24)and equations of time evolution (22) and (23)，if Eq. (28) doesn't equal to $0$ ，then it gives a new constraint.To verify that,we combine equations (22） and (23),which gives,
+
+$$
+3 \nabla ^ { \tau } \nabla _ { [ \tau } M _ { \mu \nu ] } - V _ { \mu \nu } = - 3 ( ^ { * } d ^ { * } d M ) _ { \mu \nu } - V _ { \mu \nu } = 0 .
+$$
+
+Then we can find that $\nabla ^ { \nu } V _ { \nu \mu } = - ( ^ { * } d ^ { * } V ) _ { \mu } \approx 0$ ，which gives $\partial _ { \nu } ( \sqrt { - g } V ^ { \mu \nu } ) \approx 0$ . Thus we see that Eq. (26) does not lead to any new constraint.
+
+Now we can count the number of degrees of freedom in phase space. Because of two 3-vector constraints (19) and (25),the total physical degrees of freedom is $2 \times 6 - 3 - 3 =$ $2 \times 3$ . So there is three degrees of freedom in configuration space,which are just what we expect to describe a spin-1 particle.
+
+One can see that the crucial point to rule out the ghost is that the canonical momentum density $\pi ^ { 0 i }$ dose not appear in the Hamiltonian density. However,if we add the terms containing the derivative coupling between curvature and ATF,then we see that canonical momentum density $\pi ^ { 0 i }$ will not vanish unless the curvature tensor satisfies some very special conditions. So if such terms are added into (15)，in various space-times of physical interest, the system will contain ghost.
+
+Further let us mention here that there is a significant difference between the cases with ATF and with symmetric tensor field. In the latter case, the forms of the interaction between tensor field and curvature tensor should to be fixed carefully so that the model can give correct degrees of freedom [25].However,in this AFT case,the coefficients in (15) are arbitrary. The most simple choice is to take $L _ { R M } = 0$ . In that case, the general Lagrangian density is reduced to (12）and the equation of motion then is,
+
+$$
+3 \nabla ^ { \tau } \nabla _ { [ \tau } M _ { \mu \nu ] } - m ^ { 2 } M _ { \mu \nu } = 0 ,
+$$
+
+which is equivalent to following two equations,
+
+$$
+\begin{array} { r } { \nabla ^ { 2 } M _ { \mu \nu } + R _ { \mu \nu } ^ { \rho \tau } M _ { \rho \tau } + 2 R ^ { \rho } { } _ { [ \mu } M _ { \nu ] \rho } - m ^ { 2 } M _ { \mu \nu } = 0 , } \\ { \nabla ^ { \mu } M _ { \mu \nu } = 0 . } \end{array}
+$$
+
+Compared with the case in flat space-time, the equation of motion has additional curvature terms but the constraint equation has a similar form.
+
+Next consider the causal properties of the system.Let us first consider the simple case with $L _ { R M } = 0$ .With the constraint equation,we have the equations of motion (31)and the characteristic equation reads,
+
+$$
+X _ { \mu \nu } { } ^ { \alpha \beta } ( n ) = \delta _ { [ \mu } ^ { \alpha } \delta _ { \nu ] } ^ { \beta } n ^ { \rho } n _ { \rho } .
+$$
+
+At any point $x _ { 0 }$ we can choose locally $g _ { \mu \nu } ( x _ { 0 } ) = \eta _ { \mu \nu }$ and then,we have characteristic equation,
+
+$$
+0 = - n _ { 0 } ^ { 2 } + { \vec { n } } ^ { 2 } = n ^ { \rho } n _ { \rho } .
+$$
+
+We see that the equation of motion (31） is hyperbolic and causal, which means that with $L _ { R M } = 0$ , the system does not violate any causality.
+
+In a general case, the equation of motion can only be written as the form of (29). As the constraint equation now is complicated, then the characteristic equation can only be written as,
+
+$$
+X _ { \mu \nu } ^ { \alpha \beta } ( n ) = n _ { [ \rho } \delta _ { \mu } ^ { \alpha } \delta _ { \nu ] } ^ { \beta } n ^ { \rho } .
+$$
+
+Once again, at any point, we can take locally that $g _ { \mu \nu } =$ $\eta _ { \mu \nu }$ . We see that there are 36 components in $X _ { \mu \nu } ^ { \alpha \beta } ( n )$ ， however, they are not independent because there is a constraint such as $\nabla ^ { \mu } V _ { \mu \nu } \approx 0$ . One can directly check that there are two triplex eigenvalues of $X _ { \mu \nu } ^ { \alpha \beta } ( n )$ , one is zero and the other is $( \overrightarrow { n } ^ { 2 } - n _ { 0 } ^ { 2 } ) / 6$ . Because of the identity that $\nabla ^ { \mu } \nabla ^ { \nu } V _ { \mu \nu } = 0$ , there are three independent constraints whichcan beusedto eliminatethreedegrees of freedom. Then on the physical parameter space, these constraints just rule out the three zero eigenvalues of $X _ { \mu \nu } { } ^ { \alpha \beta } ( n )$ .As a result we obtain the characteristic equation just as the same as (33). Thus we see that even for arbitrary values of the coefficients in $\scriptstyle L _ { R M }$ ，the system dose not violate causality.
+
+Here let us say some thing on the case that the ATF has interaction with other matter fields or contains selfinteraction. In general those interactions can be described by adding a term into (14) such as,
+
+$$
+\mathcal { L } _ { I } = \sqrt { - g } [ L _ { i } ( M _ { \mu \nu } , \Phi _ { A } ) + L _ { s } ( M _ { \mu \nu } ) ] ,
+$$
+
+where $\boldsymbol { L } _ { i }$ describes the interaction between ATF and some other field $\Phi _ { A }$ and $L _ { s }$ describes the self-interaction of ATF.If both $\boldsymbol { L } _ { i }$ and $L _ { s }$ do not involve the derivative of $M _ { \mu \nu }$ or their derivative terms of $M _ { \mu \nu }$ can be removed by adding suitable boundary terms, then one can see that this interaction will not change our discussions about ghost and causality. Therefore for the case with such interactions,the model is still ghost free and does not violate any causality.
+
+# IV. MAGNETICPHASETRANSITIONSIN ADS BLACKHOLEBACKGROUND
+
+In this section,we will show that the new model can reproduce the main results in Ref.[21], namely the spontaneous magnetization can happen in an AdS black hole background.As the physical pictures and motivations have been expounded in some detail in Refs. [21]，we here only give a brief discussion and to recover some key results in the original model.
+
+To construct a ferromagnetic model, we take the following action
+
+$$
+\begin{array} { c } { { S = \displaystyle \frac { 1 } { 2 \kappa ^ { 2 } } \displaystyle \int d ^ { 4 } x \sqrt { - g } ( L _ { 1 } + L _ { 2 } + L _ { R M } ) , } } \\ { { { } } } \\ { { L _ { 1 } = R + \displaystyle \frac { 6 } { L ^ { 2 } } - F ^ { \mu \nu } F _ { \mu \nu } , } } \\ { { { } } } \\ { { L _ { 2 } = \displaystyle - \frac { ( d M ) ^ { 2 } } { 1 2 } - \displaystyle \frac { m ^ { 2 } } { 4 } M _ { \mu \nu } M ^ { \mu \nu } - \displaystyle \frac { \lambda ^ { 2 } } { 2 } M ^ { \mu \nu } F _ { \mu \nu } - V ( M ) . } } \end{array}
+$$
+
+Here $V ( M )$ is the self-interaction of ATF,its form will be specified shortly. $L _ { R M }$ is defined in(15) and we will set $L _ { R M } = 0$ for simplicity. $F _ { \mu \nu } = ( d A ) _ { \mu \nu }$ with the $U ( 1 )$ gauge field $A _ { \mu }$ ： $L$ is the AdS radius and we will set $L = 1$ ： Aswe have clarified,this model is ghost free and the causality violation does not appear. Here we will work in probe limit by neglecting all the reaction of matter fields on the background. The full back reaction will be studied in the forthcoming work [31]. For convenience, we rescale the value of ATF and its mass and rewrite $L _ { 2 }$ to the form
+
+$$
+{ \cal L } _ { 2 } = - \lambda ^ { 2 } \left[ \frac { ( d M ) ^ { 2 } } { 1 2 } + \frac { m ^ { 2 } } { 4 } M _ { \mu \nu } M ^ { \mu \nu } + \frac { M ^ { \mu \nu } F _ { \mu \nu } } { 2 } + V ( M ) \right] .
+$$
+
+In that case,as one can see,the only difference between the new model and the original one is that the covariant derivative appearing in [21] is replaced by the exterior derivative here.Now we take the AdS-Schwarzschild black brane as the background geometry with metric,
+
+$$
+d s ^ { 2 } = - r ^ { 2 } f ( r ) d t ^ { 2 } + \frac { d r ^ { 2 } } { r ^ { 2 } f ( r ) } + r ^ { 2 } ( d x ^ { 2 } + d y ^ { 2 } ) .
+$$
+
+Here $f ( r ) = 1 - r _ { 0 } ^ { 3 } / r ^ { 3 }$ and $r _ { 0 }$ is the horizon radius.For simplicity,we can set $r _ { 0 } = 1$ in the numerical computa tion. Following Ref. [21],we take the following ansatz for matter fields,
+
+$$
+A _ { \mu } = \phi ( r ) d t + B x d y , M _ { \mu \nu } = - p ( r ) d t \wedge d r + \rho ( r ) d x \wedge d y .
+$$
+
+In the AdS-Schwarzschild black brane background, the equations of motion for matter fields read
+
+$$
+\begin{array} { r } { \rho ^ { \prime \prime } + \cfrac { f ^ { \prime } } { f } \rho ^ { \prime } - \cfrac { m ^ { 2 } + V _ { \rho } ^ { \prime } } { r ^ { 2 } f } \rho + \cfrac { B } { r ^ { 2 } f } = 0 , } \\ { ( m ^ { 2 } - \cfrac { V _ { p } ^ { \prime } } { r ^ { 4 } } ) p - \phi ^ { \prime } = 0 , } \\ { \phi ^ { \prime \prime } + \cfrac { 2 } { r } \phi ^ { \prime } - \lambda ^ { 2 } \left( \cfrac { p ^ { \prime } } { 4 } + \cfrac { p } { 2 r } \right) = 0 , } \end{array}
+$$
+
+where
+
+$$
+V _ { p } ^ { \prime } = { \frac { \partial V ( M ) } { p \partial p } } , V _ { \rho } ^ { \prime } = { \frac { \partial V ( M ) } { \rho \partial \rho } } .
+$$
+
+As we expect, $p ( r )$ is not a dynamical field and can be directly solved from the second equation in (4O).With the equations for $p ( r )$ and $\phi ( r )$ ，we can obtain
+
+$$
+\begin{array} { l } { { p ( r ) = \displaystyle \frac { ( 1 - \lambda ^ { 2 } / 4 m ^ { 2 } ) \sigma } { m ^ { 2 } ( 1 - \lambda ^ { 2 } / 4 m ^ { 2 } ) - V _ { p } ^ { \prime } / r ^ { 4 } } , } } \\ { { \phi ( r ) = \sigma ( 1 - \displaystyle \frac { \lambda ^ { 2 } } { 4 m ^ { 2 } } ) ( 1 - \displaystyle \frac { 1 } { r } ) + \displaystyle \frac { \lambda ^ { 2 } } { 4 } \int _ { 1 } ^ { r } p ( r ) d r . } } \end{array}
+$$
+
+Here $\sigma$ is an integration constant,which corresponds to the charge density of the dual system.Assume that both $V _ { p } ^ { \prime } / r ^ { 4 }$ and $V _ { \rho } ^ { \prime }$ decay to zero when $r  \infty$ , then near the AdS boundary, we can get the asymptotic solution for $\rho$ as
+
+$$
+\rho = \rho _ { + } r ^ { ( 1 + \delta ) / 2 } + \rho _ { - } r ^ { ( 1 - \delta ) / 2 } + \cdot \cdot \cdot + \frac { B } { m ^ { 2 } } ,
+$$
+
+where $\delta = \sqrt { 1 + 4 m ^ { 2 } }$
+
+As we discussed in [21], $\rho ( r )$ corresponds to the magnetic response of the dual system. We can define magnetic moment density as,
+
+$$
+N = - \lambda ^ { 2 } \int _ { r _ { 0 } } ^ { \infty } \frac { \rho } { 2 r ^ { 2 } } d r .
+$$
+
+In order to have the spontaneous magnetization,we need to impose the restrictions 1
+
+$$
+m ^ { 2 } > \lambda ^ { 2 } / 4 > 0 , \ \rho _ { + } = 0 .
+$$
+
+One can see that in that case,the integration in (44) converges. If $B \neq 0$ ， $\rho$ is always nonzero. So the magnetic moment defined in(44) is also nonzero,which corresponds to an induced magnetic moment under the external magnetic field. When $B = 0$ ，the leading term is given by $\rho _ { + }$ .According to the AdS/CFT correspondence, $\rho _ { + }$ gives the external source of the dual operator while $\rho _ { - }$ is its vacuum expectation value.
+
+![](images/9c28528367702d9fb2dc63f7be3db5af16104b8fd40011e00c67297c2b873318.jpg)  
+FIG.1.A plot of the potential at the horizon $r = r _ { 0 } = 1$ .Here $\bar { V } = { V } / [ 2 | J | ( 1 - \lambda ^ { 2 } / 4 m ^ { 2 } ) ^ { 2 } \sigma ^ { 2 } ]$ and the parameters are taken as $m ^ { 2 } = - J = 1 / 8$ and $\lambda = 1 / 2$ .The two minimums are at （204号 $\rho _ { c } = \pm \sqrt { - m ^ { 2 } / [ 4 J ( 1 - \lambda ^ { 2 } / 4 m ^ { 2 } ) ] } = \pm \sqrt { 2 } / 4$ ，respectively.
+
+In the case with $V ( M ) = 0$ ,because the equation for $\rho$ in(40) is linear,there is no possibility to get a nontrivial condensed solution for $\rho$ when $B = 0$ .To have a spontaneously condensed solution of $\rho$ ，we need a selfinteraction term for the ATF.One simple form can be taken as
+
+$$
+V ( M ) = \frac { J } { 8 } ( ^ { * } M _ { \mu \nu } M ^ { \mu \nu } ) ^ { 2 } .
+$$
+
+Use the ansatz (39),we get $V = 2 J p ^ { 2 } \rho ^ { 2 }$ so that $V _ { p } ^ { \prime } =$ $4 J \rho ^ { 2 }$ and $V _ { \rho } ^ { \prime } = 4 J p ^ { 2 }$ .The self-interaction potential in fact is not unique. Here the choice is due to two reasons. One is that it leads to a simple equation for $p$ ，through which we can directly express $p$ as a function of $\rho$ and $r$ The other is that the potential has a maximum at $\rho = 0$ and a minimum at some nonzero positive $\rho _ { c }$ for fixed $r$ See Fig. 1.
+
+In Fig. 2,we plot the magnetic moment density $N$ asa function of temperature.As an typical example,we here take the parameters as $m ^ { 2 } = - J = 1 / 8$ and $\lambda = 1 / 2$ . In that case,the critical temperature $T _ { c } / \mu \simeq 1 . 7 8 7 1$ . Thus we see that when temperature is lower than $T _ { c }$ ,the nontrivial solution of $\rho \neq 0$ and spontaneous magnetization appear indeed.
+
+Thus,replacing the covariant derivative in the kinetic term for the ATF in the original model by the exterior derivative of the ATF,we have shown that the modified model does not include any ghost and causality violation does not appear. In the new model,the spontaneous magnetization and the ferromagnetism/paramagnetism phase transition happen for the ATF in an AdSSchwarzschild black brane background when the temperature is lower than its critical temperature.Furthermore we expect that all the results presented in [21-23] can be recovered qualitativelywith the modified model.
+
+Next let us stress why we need the potential $V ( M )$ for the ATF so that the condensation of $\rho$ can happen. Asone knows,in some holographic models describing spontaneous condensation such as holographic s-wave superconductor, the condensation can happen without an self-interaction potential. In the case of the holographic s-wave superconductor model, the complex scalar field couples with the gauge field, the associated gauge potential can decrease the effective mass squared of the complex scalar field near the horizon but has no any effect on the effective mass squared far away from the horizon [32], which leads that the mass squared of the complex scalar can be negative enough near the horizon so that an instability happens and a nontrivial hair appears.In model (36),however, the ATF is real and couples to the gauge field strength,if $V ( M ) = 0$ and $B = 0$ ，the instability cannot appear and the condensation will not happen. When we add the term $V ( M )$ such as (46)，we can see from the equation of motion of $\rho$ that the effective mass squared of $\rho$ can be lowed near the horizon,which leads to the expected instability and a nontrivial solution for $\rho$ ：
+
+![](images/12fbedd936b5a3af1db9ecf600ca3d1c070f908702b33d779d8cb2399f2d4f6d.jpg)  
+FIG.2.The magnetic moment density $N$ as a function oftemperature.Here we take the parameters as $m ^ { 2 } = - J = 1 / 8$ and $\lambda = 1 / 2$ . The critical temperature $T _ { c } / \mu \simeq 1 . 7 8 7 1$ （204号
+
+In the case of $L _ { R M } = 0$ ，we see that in order to have the instability and the nontrivial solution of $\rho$ ，we need a self-interaction potential of ATF.Such a term could come from the loop correction of the ATF in String/M theory. In fact,there is an alternative way to generate the instability, where we can set $V ( M ) = 0$ but $L _ { R M } \neq 0$ For example,for simplicity, we can set $a _ { 1 } \neq 0 , a _ { 2 } = a _ { 3 } =$ $a _ { 4 } = 0$ . In that case,we can see that the effective mass squared at the horizon and the boundary are,
+
+$$
+m _ { \mathrm { e f f } } ^ { 2 } | _ { h } = m ^ { 2 } + 4 a _ { 1 } R _ { h } , \quad m _ { \mathrm { e f f } } ^ { 2 } | _ { b } = m ^ { 2 } + 4 8 a _ { 1 } ,
+$$
+
+respectively.Here the subscript $h$ denotes taking the value at the horizon,while $b$ for the value at the AdS boundary. By changing the scalar curvature near the horizon，we can reach that the effective mass squared of $\rho$ violates the Breitenlohner-Freedman bound at the horizon, but not at the boundary. This gives us the possibility to generate the instability and spontaneous condensation.
+
+# V. SUMMARY ANDDISCUSSION
+
+In this paper,we have started with two Casimir invariants of Poincaé group and builded a ghost free and causal ATF theory step by step. We have shown that the ATF theory describes spin-1 particles,rather than spin 2 particles. The naive Lagrangian for ATF proposed in Ref.[21] includes a vector ghost. To remedy this,we have presented a modified Lagrangian density by replacing the covariant derivative in the kinetic term of the AFT with the exterior derivative.It turns outs that the modified Lagrangian density describes a massive 2-form field.We have argued that this modified Lagrangian density could be obtained by dimensional compactification of low energy effective action in String/M-theory. For a general interaction form between ATF and gravity,we have proved that the modified model dose not contain ghost and does not violate causality in static curved space-time. In AdS-Schwarzschild black brane background, we have also shown that the spontaneous condensation and paramagnetism/ferromagnetism phase transition can happen in the modified model,and the main results in Ref. [21] keep valid qualitatively.
+
+Note that the main goal of this paper is to present a ghost free and causally well-defined theory for an ATF. We believe that the self-consistent ATF theory provides a solid base on which various magnetic properties of strongly coupled materials can be investigated in the AdS/CFT framework. We hope to report more significant progress on this model in the coming works.
+
+It is worth mentioning here that in this paper we neglected these non minimal coupling terms （15） between the tensor field and background geometry. It is natural to ask what would be the effects and implications for those terms from the dual boundary theory.From the equation of motion of the tensor field,we see that those terms provide an effective mass term for the tensor field such that the dimension of the dual tensor operator gets changed if those terms are included. Indeed,as we discussed in the previous section,once those terms are taken into account,even in the case without the potential term of the tensor field,the spontaneous magnetization can happen in the proper choice of the coefficients of those terms.
+
+In addition,let us stress that our tensor field model looks equivalent to a massive vector field model.In the mathematical level,it is true when both the selfinteraction of the tensor field and the non-minimal coupling between the tensor field and background geometry vanish. In a general case,they are not equivalent to each other. From the physical point of view, the magnetic moment is a space-space component of a tensor field and it is a pseudo-vector,it is therefore more suitable to takea tensor field rather than a vector field in the holographic setup.Another advantage to use the tensor field is that the time-space component of the tensor field can be viewed as the electric polarization vector and can act asthe order parameter for the paraelectric/ferroelectric phase transition in dielectric materials [21],and the tensor field model can be regarded as a unified holographic model for the paramagnetic/ferromagnetic phase transition and the paraelectric/ferroelectric phase transition. The other reasons to consider the tensor model will be presented in [31].
+
+Note added: After finishing this work,we are informed by Quentin Bailey of the reference [33],where a general Lagrangian of an antisymmetric 2-tensor is constructed, even including non minimal gravitational couplings.Our action (12） just corresponds to the so-called minimal model discussed there.
+
+# ACKNOWLEDGEMENTS
+
+This work is finished during one of the authors (R.G. C) visits Kunsan National University, Korea,the warm hospitality extended to him is greatly appreciated.This work was supported in part by the National Natural Science Foundation of China （ No.11375247 and No.11435006 ).
+
+# Appendix A:Computing $C _ { 2 }$ for ATF
+
+In this appendix let us compute $C _ { 2 }$ for a massive ATF. Because its mass is non vanishing,we can choose a frame where the particle is static and only the spatial compo nents of the spin angular momentum have contribution to $C _ { 2 }$ .In that case,we have
+
+$$
+C _ { 2 } = m ^ { 2 } S ^ { i } S _ { i }
+$$
+
+where $S ^ { i } = \textstyle { \frac { 1 } { 2 } } \epsilon ^ { i j k } S _ { j k }$ is the spin vector. We can get the spin of the massive field by investigating its property under SO(3) transformation. Note that $S ^ { i }$ is an operator of Hilbert space formed by all ATFs,so does $C _ { 2 }$ .To compute the eigenvalue of $C _ { 2 }$ ，we can choose a suitable basis of this Hilbert space so that the computation can be done as easy as possible. Of course, the final result is independent of the choice.For convenience,we introduce a new six-components vector $\Psi _ { A }$ ( $A = 1 , 2 , \cdots , 6$ ） to rearrange the components of ATF such as,
+
+$$
+\Psi _ { A } = \left( { \frac { \vec { P } } { \vec { Q } } } \right) ,
+$$
+
+with
+
+$$
+\begin{array} { l } { { P _ { i } = M _ { 0 i } , ~ Q _ { i } = \displaystyle \frac { 1 } { 2 } \epsilon _ { i j k } M ^ { j k } , } } \\ { { P ^ { i } = M ^ { 0 i } , Q ^ { i } = \displaystyle \frac { 1 } { 2 } \epsilon ^ { i j k } M _ { j k } . } } \end{array} \ i = 1 , 2 , 3 .
+$$
+
+By definition,we have $P ^ { i } = - P _ { i }$ and $Q ^ { i } = Q _ { i }$ Under （204号 $S O ( 3 )$ transformation,we can see that both $\overrightarrow { P }$ and $\overrightarrow { Q }$ are associated with SO(3) vector. Thus we can find that the representation of $\Psi _ { A }$ under the SO(3) transformation is $D ( 1 , 0 ) \oplus D ( 0 , 1 )$ .With $\Psi _ { A }$ ，we can easily find the representation of spin operator,which reads
+
+$$
+( S ^ { i } ) _ { A B } = \left( \begin{array} { c c } { { J ^ { i } } } & { { { \bf 0 } } } \\ { { { \bf 0 } } } & { { J ^ { i } } } \end{array} \right) _ { A B }
+$$
+
+with $i = 1 , 2 , 3$ and $A , B = 1 , 2 , \cdots , 6$ .Here $J ^ { i }$ are the generators of 3-dimensional spatial rotation. Thus we can find that $( S ^ { \imath } S _ { i } ) _ { A B } = s ( s + 1 ) \delta _ { A B } = 2 \delta _ { A B }$ ，which gives $s = 1$ ，aswe expected.
+
+# Appendix B:Computing the Hamiltonian for ATF
+
+In this appendix,we will show that the Hamiltonian associated with the Lagrangian(5) is not positive definite and there is a vector ghost.However, this kind of ghost will not appear in the modified model.
+
+Let us first consider the Lagrangian density (5). From this Lagrangian,we have the canonical momentum density as
+
+$$
+\pi ^ { \mu \nu } = \frac { \partial \mathcal { L } } { \partial \partial _ { 0 } M _ { \mu \nu } } = \partial _ { 0 } M ^ { \mu \nu } , \pi _ { \mu \nu } = \eta _ { \mu \mu ^ { \prime } } \eta _ { \nu \nu ^ { \prime } } \pi ^ { \mu ^ { \prime } \nu ^ { \prime } } .
+$$
+
+And the Hamiltonian reads
+
+$$
+H = \int d ^ { 3 } x \mathcal { H }
+$$
+
+with the Hamiltonian density $\mathcal { H }$
+
+$$
+\begin{array} { l } { { \displaystyle { \mathcal { H } } = \frac { 1 } { 2 } \pi ^ { \mu \nu } \partial _ { 0 } M _ { \mu \nu } - { \mathcal { L } } } } \\ { { \displaystyle = \frac { 1 } { 4 } \left[ \pi ^ { \mu \nu } \pi _ { \mu \nu } + ( \partial _ { i } M _ { \mu \nu } ) \partial ^ { i } M ^ { \mu \nu } + m ^ { 2 } M ^ { \mu \nu } M _ { \mu \nu } \right] . } } \end{array}
+$$
+
+Now let us adopt the two vectors $\vec { P }$ and $\overrightarrow { Q }$ defined in (A3) to rewrite the Hamiltonian. From the expression (B1),we have their canonical momentum densities
+
+$$
+\begin{array} { r } { \pi ^ { i } ( P ) = \pi ^ { 0 i } , \quad \pi ^ { i } ( Q ) = \epsilon ^ { i } { } _ { j k } \pi ^ { j k } , } \\ { \pi _ { i } ( P ) = \pi _ { 0 i } , \quad \pi _ { i } ( Q ) = \epsilon _ { i j k } \pi ^ { j k } . } \end{array}
+$$
+
+We see that $\pi ^ { i } ( P ) = - \pi _ { i } ( P )$ and $\pi ^ { \ i } ( Q ) = \pi _ { i } ( Q )$ .Note that here we have just used some new notations to rep resent the components of $M _ { \mu \nu }$ and $\pi _ { \mu \nu }$ ，which does not change any physics of the theory. The Hamiltonian then decouples into two parts associated with two vector fields under SO(3) transformation,
+
+$$
+H = H _ { P } + H _ { Q } ,
+$$
+
+where
+
+$$
+\begin{array} { c } { { { \cal H } _ { P } = - \displaystyle { \frac { 1 } { 2 } } \sum _ { i = 1 } ^ { 3 } \int d ^ { 3 } x [ \pi ^ { i } ( P ) \pi ^ { i } ( P ) + ( \overrightarrow { \nabla } P _ { i } ) ^ { 2 } + m ^ { 2 } P _ { i } ^ { 2 } ] , } } \\ { { { \cal H } _ { Q } = \displaystyle { \frac { 1 } { 2 } } \sum _ { i = 1 } ^ { 3 } \int d ^ { 3 } x [ \pi ^ { i } ( Q ) \pi ^ { i } ( Q ) + ( \overrightarrow { \nabla } Q _ { i } ) ^ { 2 } + m ^ { 2 } Q _ { i } ^ { 2 } ] . } } \end{array}
+$$
+
+We see that the part for $P$ is negative definite. More precisely speaking,the Hamiltonian of the theory has no lower bound,which means that there exist infinite ghost states,but no ground state in Fock's space.
+
+On the other hand,if we take the Lagrangian density such as (1O)or(12),the result is rather different. To make it clear, we adopt the Lagrangian density (12). Taking the constraint Eq.(6) into account,we find the Hamiltonian can be written as the same form as (B6). However,thecanonical momentum density for $P$ now is zero,i.e. $\pi ^ { i } ( P ) = 0$ ，and the components $P _ { i }$ are not independent variables.With the equation (11),we see that the equation of motion of $P$ reads
+
+$$
+0 = \partial ^ { 0 } \pi ^ { i } ( P ) + \vec { \nabla } ^ { 2 } P _ { i } - m ^ { 2 } P _ { i } = \vec { \nabla } ^ { 2 } P _ { i } - m ^ { 2 } P _ { i } .
+$$
+
+Put it into the expression for $H _ { P }$ ，we have
+
+$$
+\begin{array} { l } { { \displaystyle H _ { P } = - \frac { 1 } { 2 } \sum _ { i = 1 } ^ { 3 } \int d ^ { 3 } x [ ( \vec { \nabla } P _ { i } ) ^ { 2 } + P _ { i } \vec { \nabla } ^ { 2 } P _ { i } ] } } \\ { { \displaystyle \quad = - \frac { 1 } { 2 } \sum _ { i = 1 } ^ { 3 } \int d ^ { 3 } x \vec { \nabla } \cdot ( P _ { i } \vec { \nabla } P _ { i } ) , } } \end{array}
+$$
+
+which is just a total divergence term and can be removed from the Hamiltonian of the system. As a result we get $H \ : = \ : H _ { Q }$ ，which is obviously positive definite.We see that there are 3 polarization states for every momentum. In addition, if quantize this system,we can see that the projection of spin along the direction of momentum can be $\pm 1 , 0$ . All three polarizations are physical.
+
+# Appendix C:Giving the $p$ -form fieldmass by compactification
+
+As we have argued in section I, the modified ATF theory has a clear physical origin,which can be treated as the low energy limit of some fundamental field,such as $p$ -form field,in String/Mtheory.In String/M theory, however,the $p$ -form field is massless.Therefore we need to clarify there is a suitable mechanism to give the mass term.In fact,there are a few mechanisms for this as we mentioned in section II.Here we give a very simple mechanism to give the mass term by the generalized KK dimensional reduction. This kind of dimensional reduction is discussed in Ref. [3O].Here we just give a brief introduction.
+
+For simplicity, we set $\mu _ { p } = 0$ in action（13） and take the background metric as
+
+$$
+d s ^ { 2 } = e ^ { 2 A ( z ) } ( h _ { \mu \nu } d x ^ { \mu } d x ^ { \nu } + d z ^ { 2 } ) ,
+$$
+
+where $z$ denotes the extra dimension and $A$ is a function of $z$ . Then the equations of motion of the action (13) in
+
+the conformal metric(C1) read
+
+$$
+\partial _ { \mu _ { 1 } } ( \sqrt { - g } E ^ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p + 1 } } ) + \partial _ { z } ( \sqrt { - g } E ^ { z \mu _ { 2 } \cdots \mu _ { p + 1 } } ) = 0 ,
+$$
+
+where $E _ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p + 1 } } = ( d C ) _ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p + 1 } }$ . Consider the gauge symmetry, we can set $C _ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p - 1 } z } = 0$ . Next we make a decomposition for $C _ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p } }$ as
+
+$$
+C _ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p } } = \sum _ { n } \widetilde { C } _ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p } } ^ { ( n ) } K _ { n } ( z ) e ^ { A ( z ) / 2 } .
+$$
+
+By this decomposition,the field strength Eμiμμp+1 can be expressed as
+
+$$
+E _ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p + 1 } } ( x ^ { \mu } , z ) = \sum _ { n } \widetilde { E } _ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p + 1 } } ^ { ( n ) } K _ { n } ( z ) e ^ { A ( z ) / 2 }
+$$
+
+and
+
+$$
+\begin{array} { l } { { \displaystyle E _ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p } z } ( x ^ { \mu } , z ) } } \\ { { \displaystyle = \sum _ { n } \widetilde { E } _ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p + 1 } } ^ { ( n ) } ( K _ { n } ^ { \prime } + K _ { n } A _ { n } ^ { \prime } / 2 ) ( z ) e ^ { A ( z ) / 2 } } } \end{array}
+$$
+
+with E(n) ${ \widetilde E } _ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p + 1 } } ^ { ( n ) } = \partial _ { [ \mu _ { 1 } } { \widetilde C } _ { \mu _ { 2 } \mu _ { 3 } \cdots \mu _ { p } ] } ^ { ( n ) }$ Substituting these decompositions into the equations of motion (C2)，we obtain the equation for the function $K _ { n } ( z )$ ，which has a Schrodinger-like form as,
+
+$$
+\left[ - \partial _ { z } ^ { 2 } + \frac { { A ^ { \prime } } ^ { 2 } } { 4 } + \frac { A ^ { \prime \prime } } { 2 } \right] K _ { n } = m _ { n } ^ { 2 } K _ { n } .
+$$
+
+The equation for $K _ { n }$ is second order ODE. The properties of its solutions depend on the function $A ( z )$ .We further assume that the solutions of (C6) with some suitable boundary conditions form a complete orthogonal basis with the function basis $K _ { n } ( z )$ .By a straightforward calculation,we can show that the the effective action of the $p$ -form feldreads,
+
+$$
+\begin{array} { l } { { \displaystyle S _ { \mathrm { e f f } } = \sum _ { n } \int d ^ { D - 1 } x \sqrt { - h } \left[ \widetilde { \cal E } ^ { ( n ) \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p + 1 } } \widetilde { \cal E } _ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p + 1 } } ^ { ( n ) } \right. } } \\ { { \displaystyle \left. + \frac { m _ { n } ^ { 2 } } { p + 1 } \widetilde { C } ^ { ( n ) \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p } } \widetilde { C } _ { \mu _ { 1 } \mu _ { 2 } \cdots \mu _ { p } } ^ { ( n ) } \right] . } } \end{array}
+$$
+
+We see that for the excited states of KK modes,we have $m _ { n } ^ { 2 } \neq 0$ ，which gives the mass for $p$ -form in a lower dimension. By specializing to the case $p = 2$ ，it gives a mass term for a massless 2-form field.Here we further mention that if $A = 0$ in (C1),the dimension along $z$ is required to be compact.In this case,the above dimensional reduction is just the standard KK one.On the other hand,if $A \neq 0$ ，the dimension along $z$ is not required to be compact.This is called warped dimensional reduction (compactification).
+
+[1] J.M.Maldacena,“The large N limit of superconformal field theories and supergravity,”Int.J.Theor.Phys. 38, 1113(1999) [arXiv:hep-th/9711200].   
+[2] S. S. Gubser,I. R. Klebanov and A. M. Polyakov,“Gauge theory correlators from non-critical string theory,”Phys. Lett.B 428,105 (1998) [arXiv:hep-th/9802109].   
+[3] E.Witten,“Anti-de Sitter space and holography,”Adv. Theor. Math.Phys. 2, 253(1998)   
+[4] E.Witten,“Anti-de Sitter space, thermal phase transition，and confinement in gauge theories”，Adv.Theor. Math.Phys.2,505 (1998) [arXiv:hep-th/9803131].   
+[5] S.A. Hartnoll, C.P.Herzog and G.T. Horowitz,“Building a Holographic Superconductor,” Phys.Rev.Lett. 101,031601 (2008)[arXiv:0803.3295 [hep-th]].   
+[6] S.S.Lee,“A Non-Fermi Liquid from a Charged Black Hole:A Critical Fermi Ball,”Phys.Rev.D 79,086006 (2009）[arXiv:0809.3402 [hep-th].   
+[7] H.Liu, J. McGreevy and D.Vegh,“Non-Fermi liquids from holography,”Phys.Rev.D 83,065029 (2011) [arXiv:0903.2477 [hep-th]   
+[8] M. Cubrovic, J. Zaanen and K. Schalm,“String Theory, Quantum Phase Transitions and the Emergent FermiLiquid,” Science 325,439 (2009) [arXiv:0904.1993 [hepth]].   
+[9] A.Donos and J.P.Gauntlett，“Holographic charge density waves,” Phys. Rev. D 87, 126008 (2013) [arXiv:1303.4398 [hep-th].   
+[10] Y. Ling, C. Niu,J.Wu, Z. Xian and H. b. Zhang, “Metal-insulator Transition by Holographic Charge Density Waves,” Phys.Rev.Lett.113，091602 (2014) [arXiv:1404.0777 [hep-th]].   
+[11] R. G. Cai,L. Li, L. F. Li and R. Q. Yang，“Introduction to Holographic Superconductor Models," Sci.China Phys.Mech.Astron. 58,060401 (2015) [arXiv:1502.00437 [hep-th]].   
+[12] M.Montull,A. Pomarol and P. J. Silva,“The Holographic Superconductor Vortex,”Phys.Rev.Lett.103, 091601（2009)[arXiv:0906.2396 [hep-th].   
+[13] A.Donos,J.P.Gauntlett，J. Sonner and B.Withers, “Competing orders in M-theory:superfluids, stripes and metamagnetism,” JHEP 1303,108 (2013) [arXiv:1212.0871 [hep-th].   
+[14] T.Albash and C.V. Johnson,“A Holographic Superconductor in an External Magnetic Field,” JHEP o809,121 (2008）[arXiv:0804.3466 [hep-th].   
+[15] M. Montull,O.Pujolas，A.Salvio and P.J. Silva, “MagneticResponseintheHolographicInsulator/Superconductor Transition,”JHEP 1204(2012）135 [arXiv:1202.0006 [hep-th].   
+[16] N. Iqbal，H. Liu，M. Mezei and Q. Si， “Quantum phase transitions in holographic models of magnetism and superconductors,” Phys.Rev.D 82,045002 (2010) [arXiv:1003.0010 [hep-th]].   
+[17] J.Kondo,“Resistance Minimum in Dilute Magnetic Alloys”,Prog. Theor. Phys.32,37 (1964)   
+[18] A.P. Ramirez,“Colossal magnetoresistance,” J. Phys.: Condens.Matter 9 (1997) 8171-8199.   
+[19] D.Aoki,A.Huxley,E.Ressouche,D.Braithwaite,J. Flouquet,J-P.Brison,E. Lhotel and C.Paulsen,“Coexistence of superconductivity and ferromagnetism in URhGe",Nature 413 613 (2001):   
+[20] N. T. Huy,A. Gasparini, et al., “Superconductivity on the border of weak itinerant ferromagnetism in UCoGe", Phys.Rev.Lett.99,067006 (2007)   
+[21] R.G. Cai and R. Q.Yang， "ParamagnetismFerromagnetism Phase Transition in a Dyonic Black Hole,”Phys.Rev.D.90，no.8，081901 (2014) [arXiv:1404.2856 [hep-th]].   
+[22] R. G. Cai and R. Q. Yang，“A Holographic Model for Paramagnetism/antiferromagnetism Phase Transition," [arXiv:1404.7737 [hep-th].   
+[23] R. G. Cai and R. Q. Yang,“Coexistence and competition of ferromagnetism and $p$ -wave superconductivity in holographic model,”Phys.Rev.D 91,no. 2,026001 (2015) [arXiv:1410.5080 [hep-th].   
+[24] S.Deser,A.Waldron,and V.Pascalutsa,“Massive spin 3/2 electrodynamics,”Phys.Rev.D 62，105031 (2000) [hep-th/0003011].   
+[25]I.L.Buchbinder，D.M.Gitman and V.D.Pershin, “Causality of massive spin-2 field in external gravity,” Phys.Lett.B 492,161 (2000) [hep-th/0006144].   
+[26] R.Rahman,“Higher Spin Theory- Part I,”PoS ModaveVIII 004 （2012)[arXiv:1307.3199 [hep-th]]   
+[27] H.Ruegg and M.Ruiz-Altaba,“The Stueckelberg field," Int.J.Mod.Phys.A19 3265-3348 (2004)，[hepth/0304245].   
+[28] B.Kors and P.Nath,Aspects of the Stueckelberg extension,JHEP 07 069 (2005)，[hep-ph/0503208].   
+[29] T.J.Allen，M.J.Bowick,and A.Lahiri,Topological mass generation in (3+1)-dimensions,Mod.Phys.Lett. A6 559-572 (1991).   
+[30] C. E. Fu,Y. X. Liu, K. Yang and S. W. Wei，“qForm fields on p-branes,” JHEP 1210，O60 (2012) [arXiv:1207.3152 [hep-th]].   
+[31] R. G. Cai, R. Q. Yang, C. Y. Zhang, in preperation.   
+[32] S. S. Gubser,“Breaking an Abelian gauge symmetry near a black hole horizon,”Phys.Rev.D 78,065034 (2008) [arXiv:0801.2977 [hep-th].   
+[33] B.Altschul,Q.G.Bailey and V.A.Kostelecky,“Lorentz violation with an antisymmetric tensor,”Phys.Rev.D 81,065028 (2010) [arXiv:0912.4852 [gr-qc].

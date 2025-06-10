@@ -1,0 +1,85 @@
+# 病例报告
+
+# 以不明原因发热为主要表现的横纹肌淋巴瘤1例报告并文献回顾
+
+申晓东',陈 歆}，肖红菊'，刘 刚',翟永志',徐白萱²,石怀银³,黎檀实'，朱海燕1  
+解放军总医院1急诊科，核医学科，病理科，北京100853
+
+摘要：淋巴瘤是免疫系统恶性肿瘤之一，其中结外淋巴瘤患者常缺乏典型症状及阳性的辅助检查结果，部分病例仅以发热为主要表现。对于表现为长期发热(病程>3周)的淋巴瘤患者，其发热症状的特点可以为疾病的诊断提供线索，如起热时间、热型、药物反应等特异性表现对于明确诊断具有重要作用，尤其早期、罕见病例。应用不明原因发热的诊断思维,可以提高此类淋巴瘤患者的诊断效率，值得深入探讨。
+
+关键词：不明原因发热；淋巴瘤；诊断思维
+
+# Muscle tissue lymphoma presenting only with fever of unknown origin: a case repor and literature review
+
+SHENXiaodong,Hin,Aongju,Gng,ongzhi,Bixuan,uiin,sh, Departmentegeyptofearicieettoealiale
+
+Abstract: Extra-nodal malignant lymphoma is often characterized bya lack of typical symptoms and positive results of auxiliaryexaminations,whichmakediagnosisdificult.Insomecases,fevercanbetheonlyclinicalmanifestation.Forthe lymphoma patients presenting with persistent fever with a duration over 3 weeks，characteristics offever including time of fever attack,fever typeand effects of drugs mayhavesignificant valueinthe diagnosis,especiallyintheearly stageof the disease or in rare cases.
+
+Key words: fever of unknown origin; lymphoma; diagnosis
+
+淋巴瘤作为免疫系统恶性疾病之一，病例并不少见，但病变位于淋巴结外的病例报道较少，其中以横纹肌为原发病灶的淋巴瘤更为罕见，在报道非霍奇金淋巴瘤病例的文献中仅占 $1 . 1 \% ^ { [ 1 . 2 ] }$ 。同时,淋巴瘤的诊断是临床常见的难题之一[3],其中非霍奇金淋巴瘤的组织形态学表现与临床特征非常多样，临床上一般通过发现肿大淋巴结并活检以明确诊断，但以结节外淋巴瘤为代表的部分患者常缺乏典型的临床症状和阳性辅助检查结果，既往临床诊断策略的作用较为局限。本文通过1例仅表现为长期发热的横纹肌淋巴瘤患者的病例，探讨不明原因发热(FUO)的诊断思维对那些表现为发热的淋巴瘤患者诊断的帮助。
+
+# 1病例资料
+
+男性，62岁，退休，居住于河北省。因"发热3周余”于2014年5月至我院就诊。患者缘于3周前饮酒、受凉后出现发热，最高可至 $4 1 . 7 \mathrm { { ^ { \circ } C } }$ ，轻度畏寒，无寒颤等其他伴随症状。发热热型为不规律热，多于凌晨出现，无明显前驱症状，自服解热镇痛药效果不佳，发热5\~7h后出较多汗后体温可下降。当地医院给予左氧氟沙星、阿奇霉素抗感染治疗，效果不佳，期间给予地塞米松激素肌注1次，体温下降至正常，维持 $2 4 \mathrm { h }$ 左右后复升。治疗过程中逐渐出现双下肢轻度水肿、白细胞下降及贫血，接受骨髓穿刺活检术，见三系增生活跃，未见幼稚细胞，给予升白药物治疗后白细胞数量可有所上升。无特异既往史及家族史，起病后体质量无明显变化。至我院就诊，门诊以“不明原因发热”为诊断收治入急诊发热病区住院，患者一般情况差，神志清，精神差，体力下降，体温$3 8 . 4 ~ \mathrm { { ^ { \circ } C } }$ ，脉搏110次/min,血压 $1 3 9 / 7 4 \mathrm { m m H g }$ ，大小便正常，查体见双下肢轻度可凹陷性水肿，未见浅表淋巴结肿大及其他阳性体征。入院检查：肺CT示双侧胸腔积液;血常规见血红蛋白 $1 1 3 \ \mathrm { g / L }$ 、白细胞计数 $3 . 2 5 { \times } 1 0 ^ { 9 } / \mathrm { L }$ 血小板 $1 2 0 \times 1 0 ^ { 9 } / \mathrm { L }$ ，中性粒细胞0.887、淋巴细胞0.095，C反应蛋白 $5 . 3 ~ \mathrm { m g / L }$ ，白介素 $\mathrm { \cdot 6 6 0 . 8 9 \ p g / m L }$ ;血生化见丙氨酸氨基转移酶 $7 3 . 3 ~ \mathrm { U / L }$ ，天冬氨酸氨基转移酶$3 0 9 . 0 \mathrm { U / L }$ ;血清白蛋白 $2 1 . 3 ~ \mathrm { U / L }$ ,肌酸激酶 $3 5 8 3 . 3 ~ \mathrm { U / L }$ ，乳酸脱氢酶 $2 1 0 6 . 4 \mathrm { U / L }$ ;凝血功能见血浆活化部分凝血活酶 $4 8 . 4 \mathrm { ~ s ~ }$ ，血浆凝血酶原时间 $1 6 . 2 \mathrm { ~ s ~ }$ ，血浆凝血酶原活动度 $6 6 . 0 \%$ ，肿瘤标记物中仅 $\mathtt { C A 1 2 5 3 7 . 3 8 U / m L }$ ;血清铁蛋白 ${ > } 2 0 0 0 ~ \mathrm { n g / m L }$ ,红细胞沉降率正常，免疫、自身抗体、呼吸道病原学及真菌D-葡聚糖检测均阴性；尿常规见尿蛋白定性实验 $7 5 \mathrm { m g / d L }$ 。
+
+患者入院后给予抗感染治疗，效果不明显，一般情况逐渐恶化。激素可控制发热,但效果逐渐减弱， $4 0 \mathrm { m g }$ 甲泼尼龙静滴1次/d后发热间隔由 $2 4 \mathrm { h }$ 左右逐渐减短为 $1 2 \mathrm { ~ h ~ }$ 左右。给予患者PET/CT检查，结果回报：双侧锁骨上窝、腋窝、乳腺区及前、侧胸壁、右前侧腹壁皮肤及肌肉肿胀增厚，皮下9间隙模糊，放射性摄取增高，SUVmax：8.3;右侧臀中肌及臀小肌肿胀增厚，皮下脂肪间隙模糊，可见放射性浓聚，SUVmax：7.4;左侧竖脊肌，双侧臀大肌，股中间肌、股直肌及左侧坐骨海绵体肌可见局部放射性浓聚，SUVmax：7.0(图1)。于CT引导下对右臀部肌肉进行活组织穿刺活检术，活检示：送检为横纹肌组织，肌间可见弥漫核异型细胞，并见核分裂相(图2)，考虑淋巴造血组织恶性肿瘤可能性大，免疫组化提示T细胞淋巴瘤，诊断为“非霍奇金淋巴瘤结外T细胞型IV期B”，血液科给予CHOP方案，患者病情有所好转。
+
+![](images/2992f1aefa694fda85fa8b44ae6b4c44d0c2d17b5de1c06363be26367dfd825b.jpg)  
+图1静脉注射示踪剂1F-FDG $6 0 \mathrm { m i n }$ 后PET/CT显像示 Fig.1PET/CT images show swollen gluteus medius and minimus with exceptional increased radioactivity uptake (SUVmax: 7.4）at $6 0 ~ \mathrm { \ m i n }$ after the intravenous administration of $^ { 1 8 } \mathrm { F } \cdot$ -FDG tracer.
+
+# 2讨论
+
+结外T细胞型非霍奇金淋巴瘤在中国人群中发病率低,病变在肌肉的更为罕见,临床病例极少[4]。北京某大型三甲医院对38年间1289例淋巴瘤病理活检病例进行回顾性分析，未见发生于肌肉组织的病例。荟萃研究发现,淋巴瘤的临床表现缺乏典型性，诊断难度大[6-8]
+
+本例患者仅以发热为主要症状,病情极其隐匿，且起病急、病程短，诊断难度大。我们以FUO的诊疗思维为主，结合淋巴瘤的特点，较快做出初步诊断，给予针对性较强的PET/CT检查以明确诊断，入院至确诊共 $6  { \mathrm { d } _ { \circ } }$
+
+FUO指反复发热超过 $3 8 . 3 ~ \mathrm { { ^ circ C } ( 1 0 1 ~ \mathrm { { ^ circ F } ) } }$ ,病程持续3周以上，入院3d或3次门诊未诊断[9-10]。国内外多个FUO的荟萃分析显示，FUO的诊断率为 $70 \% { \sim } 9 0 \%$ ,感染性疾病、结缔组织病、恶性肿瘤和其他类疾病是其主要病因分布[11-15],其诊断思维及技巧有迹可循。
+
+第1步：病史及发热特点的采集。FUO患者一般都经历过多次门诊甚至住院诊疗，症状绝大部分不典型，常除发热外无特异临床表现，且实验室检查又得不到有价值的诊断线索，故围绕发热症状所进行的询问、比较，有助于做出初步分类诊断，利于下一步选择针对性的辅助检查以明确诊断。其中，一些症状学上的主观指标，如热型、起热时间(凌晨、上午、午后、傍晚或夜间)起热时畏寒、寒战与否、起热及退热时出汗量、解热镇痛药效果及使用后出汗量、对激素反应等可以起到一定指导作用。我院回顾性分析416例FUO患者发现，部分疾病其发热的特征，可以作为早期识别这些疾病的依据之一，例如感染性心内膜炎表现为无规律的间歇热；泌尿系感染表现为规律的间歇热；淋巴瘤患者表现凌晨发热，为间歇期逐渐缩短的间歇热等[16-17]
+
+![](images/ace2db7d445e3edea4c753c44aa85d5b064cd3cc72229cb906885b2ebc241ff8.jpg)  
+图2右侧臀部病理活检示横纹肌组织肌间可见弥漫核 异形细胞 Fig.2 Pathological examination of right gluteal region show diffuse heterotypic cells located between striated muscle cells (HE staining: $\times 1 0 0 \mathrm { \Omega }$ ）
+
+在临床工作中我们可以观察到淋巴瘤患者常常表现为凌晨发热，使用小剂量激素退热后体温可降至$3 5 ~ \mathrm { { ^ { \circ } C } }$ 以下，这有别于其他疾病，原因可能与机体皮质醇分泌相关。人体分泌的皮质醇，具有明显节律性，一般在早晨达到最高点，在凌晨为最低点；糖皮质激素作为治疗恶性淋巴瘤方案的重要组成部分，通过与其受体结合后对于淋巴细胞代谢及基因表达的抑制等多种机制诱导淋巴细胞增殖停滞并促发凋亡，可表现为控制淋巴细胞系恶性肿瘤病情活动[18-19]。我们推测,皮质醇水平与恶性淋巴细胞活动性存在关联，导致了此种发热特点。
+
+临床上淋巴瘤患者常于治疗中出现对于糖皮质激素的耐药，是导致淋巴瘤化疗失败的重要原因，其机制可能与患者染色体易位而产生持续活化的蛋白激酶有关[20。在以FUO为表现的淋巴瘤患者，小剂量糖皮质激素常在应用早期起到抑制发热等症状的作用，但随着疗程的延长其作用常常明显下降，而小剂量糖皮质激素对于风湿免疫类疾病的效果多持续而稳定，可以作为二者鉴别诊断的依据之一。
+
+第2步：分析血液检查对FUO诊断的价值。淋巴瘤患者血清CRP、IL-6、IL-10的水平均可出现显著升高，升高程度在不同型淋巴瘤之间差异不明显，提示三者的表达水平与淋巴瘤的发生存在一定关联[21]。CRP和IL-6作为常用及逐渐普及的感染性指标，在感染性疾病中同样增高[22-23],说明诊断淋巴瘤需鉴别排除原发感染性疾病的可能。
+
+本例患者CRP、IL-6及中性粒细胞比例、血清铁蛋白等炎症指标均增高，但肝功能、凝血功能，血清白蛋白、肌酸激酶及乳酸脱氢酶的改变与凌晨起热、无畏寒等发热症状与感染不相符，考虑感染为继发性可能性大。部分结缔组织病的自身抗体及免疫类检验可为阴性，如皮肌炎等也可有乳酸脱氢酶和血清铁蛋白同时升高的表现，同时患者院外使用地塞米松可控制发热，故不能完全除外自身免疫疾病，但入院后甲泼尼龙逐渐失效的病情变化提示结缔组织病可能小。最终根据患者一般情况、发热症状、对激素反应，乳酸脱氢酶和血清铁蛋白的改变考虑患者原发疾病为全身性或恶性疾病隐匿发作的可能性大，高度怀疑恶性淋巴瘤，应立即相关影像学检查以明确定位诊断根据。
+
+第3步：核医学检查。18氟脱氧葡萄糖正电子发射断层显像/计算机体层扫描的出现对于FUO的诊断准确性和效率起到了显著的促进，有研究显示对于FUO诊断的敏感度和特异度可以分别达到 $9 8 . 2 \%$ 和 $8 5 . 9 \% ^ { [ 2 4 ] }$ 。PET/CT将组织的代谢功能与形态结构相结合的技术优势，为FUO的病因诊断提供了新的手段。对于有恶性肿瘤倾向但常规检查不能明确定位或诊断的FUO患者，特别是一般情况较差或持续恶化的患者，可积极进行PET/CT检查。特别需要指出的是，PET/CT在淋巴瘤诊断和判断疗程中的敏感性和特异性优势已得到广泛认可，并被引入淋巴瘤AnnArbor分期中，淋巴瘤疗效评价标准也因此而修订。PET-CT对于结外淋巴瘤病灶的敏感性 $8 8 \%$ ,特异性分别为 $100 \% ^ { \left[ 2 5 \right] }$ 。然而在实际运用中，PET/CT常被列为第3阶梯检查手段，通常在一系列血液及影像结果阴性以后使用，往往增加了疾病的诊断时间。国外有研究表明将PET/CT检查提前有助于FUO病因的诊断及节省费用[2]。本例患者在做出恶性肿瘤并高度怀疑淋巴瘤的初步诊断后，立即使用PET/CT做进一步检查，从而大大减少了确诊时间，为下一步的病理检查提供了重要的参考及指导价值。
+
+# 3结论
+
+淋巴瘤的临床表现本身即无典型性，尤其是结外型非霍奇金淋巴瘤，临床表现因原发部位不同而症状各异,病变可侵犯全身各系统脏器,缺乏特异性;又由于淋巴瘤患者CRP、IL-6和IL-10等炎症介质的表达水平较正常人高，在缺乏特异临床表现的情况下，难以与感染类疾病相区分，临床上极易误诊，提醒我们应高度重视。本病例仅以FUO为主要表现，更加增加了其诊断难度。然而，通过对于FUO的认识和了解，把握其发热症状相对独特的规律性，运用合理的的诊疗思维和方法，逐步进行，逐层深入，即使对于疑难病，也可较快地明确诊断。
+
+# 参考文献：
+
+[1]Alamdari A,Naderi N,Peiman S,et al. Non-Hodgkin lymphoma with primary involvement of skeletal muscle [J]. International journal of hematology-oncology and stem cell research,2O14,8(3): 55-7.   
+[2]Lim CY,Ong KO. Imaging of musculoskeletal lymphoma[J]. Cancer Imaging,2013,13(4): 448-57.   
+[3]Katsura M,Nishina H,Shigemori Y,et al.Extranodal lymphoma originating in the gluteal muscle with adjacent bone involvement and mimicking a soft tissue sarcoma[J].Int J Surg Case Rep,2015, 7 (6): 161-4.   
+[4]刘 霆.外周T细胞淋巴瘤的诊断和治疗进展[J].中华血液学杂志, 2014,35(4): 361-6.   
+[5］纪小龙,徐长江,刘雨清.我国淋巴瘤的临床病理特点——附1289例 分析[J].肿瘤防治研究,1996,23(5):268-9,272.   
+[6]Lenz G, Staudt LM. Aggressive lymphomas[J].N Engl JMed, 2010,362(15): 1417-29.   
+[7]Yung L,Linch D.Hodgkin's lymphoma[J].Lancet，2003,361 (9361): 943-51.   
+[8]Shankland KR,Armitage JO, Hancock BW. Non-Hodgkin lymphoma [J].Lancet, 2012,380(9844): 848-57.   
+[9]Petersdorf RG,Beeson PB.Fever of unexplained origin: report on 100 cases[J].Medicine (Baltimore),1961,40(7): 1-30.   
+[10]Durack DT, Street AC.Fever of unknown origin-reexamined and redefined[J].Curr Clin Top Infect Dis,1991,11(6): 35-51.   
+[11]李静波,张静萍,陈佰义.541例不明原因发热病因回顾性分析[J].中 华医院感染学杂志,2011,21(8):1587-9.   
+[12]Knockaert DC,Vanderschueren S,Blockmans D.Fever of unknown origin in adults: 40 years on[J].JIntern Med,2003,253(3):263-75.   
+[13]Gaeta GB,Fusco FM,Nardiello S.Fever of unknown origin:a systematic review of the literature for 1995-20O4[J].Nucl Med Commun,2006,27(3): 205-11.   
+[14] Hayakawa K,Ramasamy B,Chandrasekar PH. Fever of unknown origin:an Evidence-Based review[J].Am JMed Sci, 2012,344(4): 307-16.   
+[15]马小军,王爱霞,邓国华,等.不明原因发热449例临床分析[J].中华 内科杂志,2004,43(9): 682-5.   
+[16]翟永志,刘刚.不明原因发热病因诊断进展[J].中国医药导报,2011, 8(16): 11-2.   
+[17]刘刚.不明原因发热的病因诊断[J].解放军医学院学报,2013,34 (11): 1103-5.   
+[18]Erlacher M,Michalak EM,Kelly PN,et al.BH3-only proteins Puma and Bim arerate-limiting forgamma-radiation-and glucocorticoid-induced apoptosis of lymphoid cells in vivo [J]. Blood,2005,106(13): 4131-8.   
+[19]Tonko M,Ausserlechner MJ,Bernhard D,et al. Gene expression profiles of proliferating vs.G1/GO arrested human leukemia cells suggest a mechanism for glucocorticoid-induced apoptosis [J]. FASEB J,2001,15(3): 693-9.   
+[20]Deroo BJ,Rentsch C,Sampath S,et al.Proteasomal inhibition enhances glucocorticoid receptor transactivation and altersits subnuclear trafficking[J].Mol Cell Biol,2002,22(12): 4113-23.   
+[21]张飞飞,赵 兰,韩秀华.淋巴瘤患者血液和瘤组织白介素-6、白介 素-10的表达及意义[J].疑难病杂志,2014,13(12):1260-2,1265.   
+[22]Assicot M, Gendrel D,Carsin H,et al. High serum procalcitonin concentrations in patients with sepsis and infection[J].Lancet, 1993, 341(8844): 515-8.   
+[23]杜 斌,陈德昌,潘家绮,等.降钙素原与白介素-6的相关性优于传统的 炎症指标[J].中国危重病急救医学,2002,14(8):474-7.   
+[24]赵 葵,董孟杰,阮凌翔,等.FDGPET/CT对经典型不明原因发热的 诊断价值[J].浙江大学学报:医学版,2010,39(2):174-80.   
+[25]宋玉琴,朱 军.PET/CT在淋巴瘤中的应用价值[J].中华医学杂志, 2012,92(46): 3241-2.   
+[26]Becerra NE,Garcia Vicente AM,Soriano CA,et al.Analysis of cost-effectiveness in the diagnosis of fever of unknown origin and the role of(18)F-FDG PET-CT: a proposal of diagnostic algorithm [J].Revista Espanola de Medicina Nuclear e Imagen Molecular (English Edition),2012,31(4): 178-86. (编辑.孙旦明)

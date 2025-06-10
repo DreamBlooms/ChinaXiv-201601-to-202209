@@ -1,0 +1,511 @@
+[
+    {
+        "type": "text",
+        "text": "Continuous Percolation Phase Transitions of Two-dimensional Lattice Networks under a Generalized Achlioptas Process ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Maoxin Liu $^ { 1 }$ , Jingfang Fan $^ { 1 }$ , Liangsheng Li $^ 2$ , and Xiaosong Chenla   \n1 Institute of Theoretical Physics, Chinese Academy of Sciences, P.O.Box 2735, Beijing 100190, China   \n2 Key Laboratoryof Cluster Scienceof Ministryof EducationandDepartmentof Physics,Beijing Instituteof Technology, Beijing 100081,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: date /Revised version: date ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract.The percolation phase transitions of two-dimensional lattice networks under a generalized Achlioptas process (GAP) are investigated.During the GAP,two edges are chosen randomly from the lattice and the edge with minimum product of the two connecting cluster sizes is taken as the next occupied bond with a probability $p$ .At $p = 0 . 5$ , the GAP becomes the random growth model and leads to the minority product rule at $p = 1$ .Using the finite-size scaling analysis,we find that the percolation phase transitions of these systems with $0 . 5 \\leq p \\leq 1$ are always continuous and their critical exponents depend on $p$ .Therefore,the universality class of the critical phenomena in two-dimensional lattice networks under the GAP is related to the probability parameter $p$ in addition. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS.64.60.ah 64.60.De- 89.75.Da 89,75.Hc ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The percolation phase transition concerns the formation of a macroscopic component in systems on both lattices and networks [1].It provides a model for the onset of a macroscopic component in random media 1land social networks [2].It was widely believed that the percolation transition isa typical continuous phase transition for various networks [3]. However,Achlioptas,D'Souza,and Spencer [4] found recently that the percolation phase transition in random network becomes discontinuous (first-order) under the Achlioptas process (AP),where the edge with minimum product of cluster masses is connected from the two randomly chosen unoccupied edges.The Achlioptas process suppresses the appearance oflarger cluster and discourages the formation of a giant component,which has the size comparable with the number of vertices $N$ . The percolation phase transition is delayed by this Achlioptas process and becomes sharper.It was argued by them[4] that the phase transition is discontinuous and named as an explosive percolation.Later,the Achlioptas process was introduced to the two-dimensional regular lattice networks [5] and scale-free networks [6,7].It was claimed that the explosive percolation was found both in lattice [5] and in scale-free networks[6,7]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the article of Achlioptas et al.[4], the step interval （204号 $\\varDelta$ between the size of the largest component $S _ { 1 } = N ^ { 1 / 2 }$ and $S _ { 1 } = 0 . 5 N$ is used as the criterion of continuous or discontinuous phase transition.Later, Ziff applied this criterion to the two-dimensional regular lattice networks[5, 8].It was found that the size-dependence of $\\varDelta$ in lattice network is quite different from that in random network. It is not well established that the first-order phase transition can be distinguished from the continuous phase transition by the size-dependence of $\\varDelta$ . It was argued by da Costa et al.[9] that the explosive percolation transition, under their modified Achlioptas process, is actually continuous.Recently,Riordan et al.[1O] show mathematically that all Achlioptas process have continuous phase transitions.The finite-size behavior of the order-parameter distribution function has been used as the evidence of both discontinuous[11] and continuous[l2] phase transition.It is also argued with the finite-size scaling that the explosive percolation is continuous [13,14].This controversy about the character of explosive percolation is going on and calls for further investigations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we investigate the percolation phase transition in two-dimensional lattice network under a generalized Achlioptas process (GAP)，which will be introduced in the next section.The generalized Achlioptas process is characterized by a probability parameter $p$ . The GAP becomes the random growth model at $p = 1 / 2$ and the minority product rule at $p ~ = ~ 1$ .Using the finitesize scaling analysis,our Monte Carlo simulation results demonstrate clearly that the percolation phase transition in two-dimensional lattice networks under the GAP is continuous.It will be shown that the critical exponents and therefore the universality class of the continuous percolation phase transition depend on the probability parameter $p$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our paper is organized as follows.In the next section,we introduce a generalized Achlioptas process in twodimensional lattice network.In Section 3,we investigate the critical points of two-dimensional lattice network under the GAP and their critical exponents with the use of finite-size scaling.In Section 4, the finite-size scaling function of the ratio $S _ { 2 } / S _ { 1 }$ isobtained at different probability parameter $p$ ，where $S _ { 2 }$ and $S _ { 1 }$ are the size of the second largest and the largest cluster in the network.Theuniversality class of the critical points in our model is discussed in Section 5.Finally we make some conclusions in Section 6. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Two-dimensional lattice network under the GAP ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We consider a two-dimensional square lattice with size $L \\times L$ and periodic boundary conditions in both directions.There are $N = L ^ { 2 }$ vertices in this lattice.We introduce a generalized Achlioptas process for adding edges into this lattice.In the generalized Achlioptas process,two edges are picked up randomly at each step.Each edge is connected with two clusters.The edge with the minimum product of the cluster sizes is chosen and added into the lattice with a probability $p$ ，where $0 \\leq p \\leq 1$ . Correspondingly,another edge is chosen with a probability $1 - p$ .At $p = 0 . 5$ , the GAP is equivalent to the classic Erdos-Rényi (ER)rule,where edges are picked up randomly. The twodimensional square lattice with the ER rule is actually the two-dimensional bond percolation (BP)model. The GAP at $p = 1$ is the product rule (PR) of Ref.[4] and our model becomes the PR model on the two-dimensional regular lattice. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In our Monte Carlo simulations,there are $N$ isolated vertices in a two-dimensional lattice at the beginning and then edges are added into the lattice through the GAP. With the edges added,we obtain a network in the lattice. The lattice network can be characterized by a reduced edge number $r \\equiv N _ { r } / N$ ，where $N _ { r }$ is the number of the edges added. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We have used the algorithm of Newmann and Ziff [15, 16] in our Monte Carlo simulations.For the investigations related only to the largest cluster of lattice networks in Figs. 3,5 and 7, the linear sizes $L = 3 2$ ，64，128,256,512, and 1024 are taken.When the second largest cluster in the lattice is taken into account in addition,only three linear sizes $L = 6 4$ ，128,and 256 are taken in Figs.2, 4 and 6.To get enough samples for the average of each simulation,different steps are taken for the simulation of different system size.In our Monte carlo simulations,we run 10,000,000 steps for $L = 3 2$ until to $6 , 4 0 0 , 0 0 0$ steps for $L = 1 0 2 4$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the cluster ranked $R$ and with size $S _ { R } ( r , L ; p )$ ，we defined its reduced size as ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5414704ed5706b852412edc86e5ab9f1488cd8e12dcad84b787f4c4d85fb949.jpg",
+        "img_caption": [
+            "Fig.1.Reduced size of the largest cluster,defined in Eq.(1),as a function of the reduced edge number $r$ at the lattice size $L =$ 1024 and probability parameters $p = 0 . 5$ ，0.6,0.7, 0.8,0.9, and 1.0. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Fig.1, we shown the reduced size $s _ { 1 } ( r , L ; p )$ of the largest cluster. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the Monte Carlo simulations of these data,we take the lattice size $L = 1 0 2 4$ and the probability parameter $p = 0 . 5$ ，0.6，0.7，0.8，0.9,and 1.0.At small $r$ ，the reduced size of the largest cluster is nearly zero.When $r$ is large enough,the reduced size $s _ { 1 }$ becomes finite.This indicates the formation of a macroscopic component.Therefore,there is a percolation phase transition in the lattice network.The transition value of the reduced edge number $r _ { c }$ depends on the probability parameter $p$ . It is shown in Fig.1 that $r _ { c }$ increases with the probability parameter $p$ This is plausible since a larger $p$ means stronger suppression of larger cluster and therefore the later appearance of a macroscopic component.In the following,we will try to verify that these percolation phase transitions are continuous or not. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 Critical points of two-dimensional lattice networks under GAP ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "If the percolation phase transitions above were continuous, the reduced size of the cluster ranked $R$ should follow the finite-size scaling form [17,18] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { R } ( r , L ; p ) = L ^ { - \\beta / \\nu } \\tilde { s } _ { R } ( t L ^ { 1 / \\nu } ; p ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $t = ( r - r _ { c } ) / r _ { c }$ characterizes the deviation from the critical point $r _ { c }$ and $\\nu$ is the critical exponent of the correlation length $\\xi = \\xi _ { 0 } | t | ^ { - \\nu }$ . This finite-size scaling form is supposed to be valid in the asymptotic critical region where $L \\gg$ lattice spacing and $| t | \\ll 1$ . Outside the asymptotic region,additional correction terms should be taken into account. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the largest cluster of lattice network,we have the finite-size scaling form ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { s _ { R } ( r , L ; p ) \\equiv S _ { R } ( r , L ; p ) / N . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { 1 } ( r , L ; p ) = L ^ { - \\beta / \\nu } \\tilde { s } _ { 1 } ( t L ^ { 1 / \\nu } ; p ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the bulk limit $L \\to \\infty$ ，the reduced size of the largest cluster becomes ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { 1 } ( r , \\infty ; p ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "for $r < r _ { c }$ and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { 1 } ( r , \\infty ; p ) = a _ { p } \\ t ^ { \\beta }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "for $r > r _ { c }$ . The emergent macroscopic component is characterized by the critical exponent $\\beta$ .The smaller the critical exponent $\\beta$ is,the larger is the macroscopic component. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Near the critical point, the reduced size of the second largest cluster can be written also in a finite-size scaling form ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { 2 } ( r , L ; p ) = L ^ { - \\beta / \\nu } \\tilde { s } _ { 2 } ( t L ^ { 1 / \\nu } ; p ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Using Eqs.(1,(3),and (6),we can obtain the finite-size scaling form of the ratio ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { 2 } / S _ { 1 } = \\tilde { s } _ { 2 } ( t L ^ { 1 / \\nu } ; p ) / \\tilde { s } _ { 1 } ( t L ^ { 1 / \\nu } ; p ) \\equiv U ( t L ^ { 1 / \\nu } ; p ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At the critical point $t = 0$ ,the ratio ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. S _ { 2 } / S _ { 1 } \\right| _ { r = r _ { c } } = U ( 0 ; p ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "which is independent of the system size $L$ .Therefore, the curves of $S _ { 2 } / S _ { 1 }$ at different system size $L$ have a crosspoint at $\\boldsymbol { r } = \\boldsymbol { r } _ { c }$ . The critical point corresponds the fixed point of $S _ { 2 } / S _ { 1 }$ ,which can be used to determine the critical point of our system. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The logarithm of Eq. (3) can be expressed as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln s _ { 1 } ( r , L ; p ) = - ( \\beta / \\nu ) \\ln L + \\ln \\tilde { s } _ { 1 } ( t L ^ { 1 / \\nu } ; p ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At the critical point $\\boldsymbol { r } = \\boldsymbol { r } _ { c }$ ，we have ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln s _ { 1 } ( r _ { c } , L ; p ) = - ( \\beta / \\nu ) \\ln L + \\ln \\tilde { s } _ { 1 } ( 0 ; p ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "which is a straight line with respect to $\\ln { \\cal L }$ .We can use this property to determine the critical point $r _ { c }$ of the lattice networks also.From the slope of this straight line,the critical exponent ratio $\\beta / \\nu$ can be determined. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the following,we use both the fixed point of $S _ { 2 } / S _ { 1 }$ and the linear dependence of $\\ln { s _ { 1 } }$ on $\\ln { \\cal L }$ as the criterion to determine the critical point of the two-dimensional lat tice networks under the generalized Achlioptas process.If we have reached the asymptotic critical region,both $s _ { 1 }$ and $s _ { 2 }$ satisfy the finite-size scaling form in Eqs.(3) and (6).The critical reduced edge numbers $r _ { c }$ obtained from $S _ { 2 } / S _ { 1 }$ and $\\ln { s _ { 1 } }$ should be equal.On the other hand, the consistence of $r _ { c }$ obtained from two different methods can be used as the indicator of the accuracy of our simulation results. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the generalized Achlioptas process with probability parameter $p = 0 . 5$ ,edges are added randomly into a two-dimensional lattice and our model becomes the so called bond percolation model.It is well known that the bond percolation model has a continuous phase transition.We can determine the critical point of this model by the two methods described above.In Fig.2,the ratio $S _ { 2 } / S _ { 1 }$ is shown as a function of the reduced edge number $r$ at different system size $L$ ．A fixed point between $r = 0 . 4 9 9 8$ and $r = 0 . 5 0 0 2$ is found and is in full agreement with $r _ { c } = 1 / 2$ of the bond percolation model.In Table 1,we denote the critical point obtained from $S _ { 2 } / S _ { 1 }$ as r(1）= 0.5000 ± 0.0002. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a5ed6991b9718b610171f4422cf278b27662154b5c3ff6ba8d958fbe3d64187.jpg",
+        "img_caption": [
+            "Fig.2. Size ratio $S _ { 2 } / S _ { 1 }$ of the second largest to the largest cluster at $p = 0 . 5$ and different $L$ .There is a fixed point at $r _ { c } = 0 . 5 0 0 0 \\pm 0 . 0 0 0 2$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e0cece2f8db88340acf09f14f1685bff93fb66d15bd5f8ebe506dab906e5dbe.jpg",
+        "img_caption": [
+            "Fig. 3.Log-log plot of the reduced size $s _ { 1 }$ of the largest cluster at $p = 0 . 5$ and different $r$ .We have chosen linear sizes $L =$ 32，64，128，256，512,and 1024. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As we have discussed above,a critical point can be determined alternatively by the linear relationship between $\\ln { s _ { 1 } }$ and $\\ln { \\cal L }$ . In Fig.3, $\\ln s _ { 1 } ( r , L ; p )$ at different reduced edge numbers are shown.At $r = 0 . 4 9 9 6$ and $r = 0 . 5 0 0 4$ ， the curves of $\\ln s _ { 1 } ( r , L ; p )$ are curved and their curvatures have different sign.At $r = 0 . 5$ , the curve of $\\ln s _ { 1 } ( r , L ; p )$ becomes a straight line.Therefore,we obtain the critical point $r _ { c } ^ { ( 2 ) } = 0 . 5 0 0 0 \\pm 0 . 0 0 0 4$ , which is in agreement with $r _ { c } ^ { ( 1 ) }$ .From the slope of $\\ln s _ { 1 } ( r , L ; p )$ at $r _ { c }$ we get the critical exponent ratio $\\beta / \\nu = 0 . 1 0 8$ . Our Monte Carlo simulation results agree very well with the exact results $r _ { c } = 1 / 2$ and $\\beta / \\nu = 5 / 4 8$ of two-dimensional bond percolation model, for a review, see Ref.[19]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bae20e0405f36fef3be862d86069a4ca91aef24f7fbfe172d68647e29321e6a2.jpg",
+        "img_caption": [
+            "Fig.4.Ratio $S _ { 2 } / S _ { 1 }$ at $p = 0 . 8$ and different $L$ .There is a fixed point at $r = 0 . 5 2 0 8 \\pm 0 . 0 0 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For probability parameter $p = 0 . 8$ ,the edge that minimizes the product of two connecting cluster sizes is added into the lattice with a probability O.8 from two randomly chosen edges.The connection of smaller clusters is favored.The critical point of this system is investigated by the fixed point of $S _ { 2 } / S _ { 1 }$ and the linear dependence of $\\ln { s _ { 1 } }$ on $\\ln { \\cal L }$ . In Fig.4, the ratio $S _ { 2 } / S _ { 1 }$ is plotted as a function of the reduced edge number $r$ at different system sizes $L$ .A fixed point of $S _ { 2 } / S _ { 1 }$ is found.It is between $r = 0 . 5 2 0 7$ and $r = 0 . 5 2 0 9$ . So there is a continuous phase transition in this system and the critical point is at r(1)=0.52080.0001.Alternativelythis criticalpointcan be determined from $\\ln s _ { 1 } ( r , L ; p )$ . In Fig.5, $\\ln s _ { 1 } ( r , L ; p )$ at $r = 0 . 5 2 0 5 , 0 . 5 2 0 7$ ，and O.5209 are shown.The curvature of $\\ln s _ { 1 } ( r , L ; p )$ is negative at $r = 0 . 5 2 0 5$ and positive at $r = 0 . 5 2 0 9$ . The function $\\ln s _ { 1 } ( r , L ; p )$ at $r = 0 . 5 2 0 7$ can be described quite well by a straight line with zero curvature. So the critical point $r _ { c } ^ { ( 2 ) } = 0 . 5 2 0 7 \\pm 0 . 0 0 0 2$ , in agreement with $r _ { c } ^ { ( 1 ) }$ . The slope of the straight line at $r _ { c } = 0 . 5 2 0 7$ gives the critical exponent ratio $\\beta / \\nu = 0 . 0 8 1$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At $p = 1 . 0$ ，our model becomes the two-dimensional lattice network under the Achlioptas process.The ratio $S _ { 2 } / S _ { 1 }$ of this model is shown in Fig.6 for different system size $L$ . There is a cross-point between $r = 0 . 5 2 6 5$ and $r = 0 . 5 2 6 7$ ，which corresponds to the critical point of this system. Therefore its critical point is at $r _ { c } ^ { ( 1 ) } = 0 . 5 2 6 6 \\pm$ 0.0001. The curves of l $\\mathrm { n } s _ { 1 } ( r , L ; p )$ at $r = 0 . 5 2 6 5 1 , 0 . 5 2 6 5 5$ 5 and O.52659 are shown in Fig.7. Their curvatures change with $r$ from negative to positive.The function becomes linear with respect $\\ln { \\cal L }$ around $r = 0 . 5 2 6 5 5$ . So we get the critical reduced edge number $r _ { c } ^ { ( 2 ) } = 0 . 5 2 6 5 5 \\pm 0 . 0 0 0 0 4$ which agrees with $r _ { c } ^ { ( 1 ) }$ given above.From the slope of $\\ln s _ { 1 } ( r _ { c } , L ; p )$ with respect to $\\ln { \\cal L }$ ，the critical exponent ratio $\\beta / \\nu = 0 . 0 6 4$ is obtained.Our results of the critical point and the critical exponent ratio are in full agreement with the results of Refs.[5,6,7]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Fig.8,we summarize the critical reduced edge numbers $r _ { c }$ of two-dimensional lattice networks under the GAP with different $p$ .It is found that $r _ { c }$ increases with $p$ . At a larger $p$ ，the continuous percolation phase transition appears at a larger critical reduced edge number $r _ { c }$ and the formation of a giant component is delayed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9e5f288f30af746b1bc2f43258dbc486430671bef87f4196fb4788102b191ef.jpg",
+        "img_caption": [
+            "Fig. 5.Log-log plot of the reduced size $s _ { 1 }$ of the largest cluster at $p = 0 . 8$ and different $r$ .We have chosen linear sizes $L =$ 32，64，128，256，512,and 1024. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/037eb6d53ba5a5599bb0313f6d2e24c83cb9f03d767273a2a9239d3a1922c322.jpg",
+        "img_caption": [
+            "Fig.6.Ratio $S _ { 2 } / S _ { 1 }$ at $p = 1 . 0$ and different $L$ .There is a fixed point at $r = 0 . 5 2 6 6 \\pm 0 . 0 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/81bac74981e66cf893a92138493b7835235d58a214e8bdc81ee5e0b99d0a6f09.jpg",
+        "img_caption": [
+            "Fig.7.Log-log plot of the reduced size $s _ { 1 }$ of the largest at （20 $p ~ = ~ 1 . 0$ and different $r$ ．We have chosen linear sizes $L \\ =$ 32，64，128，256，512，and1024. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b70ef8a6e694f874dd951d9776a4cde644f2daea5028e4dfbe35cb1973f74699.jpg",
+        "img_caption": [
+            "Fig.8.Dependence of the critical reduced edge number $r _ { c }$ on the probability parameter $p$ .The error bars of Monte Carlo simulation data are smaller than the symbol. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c0236c29eca512ab194f37adc4e577b0768bc9a994dba6cfba6a37955c4d489.jpg",
+        "img_caption": [
+            "Fig.9.Dependence of the critical exponent ratio $\\beta / \\nu$ on the probability parameter $p$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In Fig.9, the dependence of the critical exponent ratio $\\beta / \\nu$ on $p$ is shown.With the increase of $p$ ，the ratio $\\beta / \\nu$ decreases.We will show in the next section that $1 / \\nu$ increases with $p$ .So it can be concluded that the critical exponent $\\beta$ decreases with $p$ . Smaller $\\beta$ indicates the stronger emergence of a giant component in the networks after the percolation transition. Therefore,the increase of $p$ results in the delayed appearance of a continuous percolation phase transition and the formation of a larger giant component at the same time. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 Finite-size scaling functions of $S _ { 2 } / S _ { 1 }$ ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Inthe last section,we have mentioned that the size ratio $S _ { 2 } / S _ { 1 }$ follows the finite-size scaling form in Eq.(7) when $r$ is near the critical point $r _ { c }$ .Fora given probabilityparameter $p$ ,the different curves of $S _ { 2 } / S _ { 1 }$ at different $L$ collapse into a finite-size scaling function after using the scaling variable $t L ^ { 1 / \\nu }$ ，where $\\nu$ is the critical exponent of correlation length.In the following,we will investigate the finite-size scaling function of $S _ { 2 } / S _ { 1 }$ for different $p$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f73309104c6336a6df57af2054500d19a8e19c1b069dab7e14a6fa2672d94fab.jpg",
+        "img_caption": [
+            "Fig.10．Finite-size scaling function $U ( t L ^ { 1 / \\nu } ; p )$ of the ratio $S _ { 2 } / S _ { 1 }$ at $p = 0 . 5$ . The critical exponent of two-dimensional bond percolation $\\nu = 4 / 3$ is taken for the scaling variable. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At $p = 0 . 5$ ,we use the critical exponent of two-dimensional bond percolation model $\\nu = 4 / 3$ [19] for the finite-size scaling function of $S _ { 2 } / S _ { 1 }$ . After defining the scaling variable $t L ^ { 1 / \\nu }$ with this value of $\\nu$ , our Monte Carlo simulation results at $L = 6 4$ ，126，256 collapse and we get the finitesize scaling function of $S _ { 2 } / S _ { 1 }$ ,which is shown in Fig.10. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At $p = 1 . 0$ ，the critical exponent $\\nu$ is unknown. According to the finite-size scaling form in Eq.(7), the curves of $S _ { 2 } / S _ { 1 }$ at different system sizes can collapse only when the correct critical exponent $\\nu$ is used for the scaling variable.This property can be used also for determining the critical exponent $\\nu$ .At $1 / \\nu = 0 . 9 3$ ，the curves of $S _ { 2 } / S _ { 1 }$ at $L = 6 4$ ，128，256 collapse into its finite-size scaling function,which is shown in Fig.11. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In Fig.12,we demonstrate the variation of the finitesize scaling function of $S _ { 2 } / S _ { 1 }$ with the probability parameter $p$ . In the region before the percolation phase transition, the finite-size scaling function of $S _ { 2 } / S _ { 1 }$ increases with $p$ The second largest cluster in this region is more important at larger $p$ . In the region after the percolation phase transition,the finite-size scaling function of $S _ { 2 } / S _ { 1 }$ decreases with $p$ .The largest cluster in this region is more dominant at larger $p$ . To get the finite-size scaling functions at different $p$ , the corresponding exponents of correlation length are determined and presented in Fig.13 and Tabel 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 Universality classes ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The concept of universality plays a fundamental role in statistical and elementary particle physics [20,21]. The universality is characterized by the dimensionality $d$ of the system and by the number $n$ of the components of the order parameter [22].Within a certain $( d , n )$ universality class,the critical exponents are independent of microscopic details and are universal.In a finite-size system near its critical point,there is also universality. For example,the Binder cumulant ratio of magnetization at the critical point is universal. The ratio $S _ { 2 } / S _ { 1 }$ here is similar to the Binder cumulant ratio of magnetization.We could suppose that the ratio $S _ { 2 } / S _ { 1 }$ at the critical point is also universal and does not depend on microscopic details. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e7aec5be24bbc78ad9904e289781373e181160c0502c166275f9a63c1e2f3c2.jpg",
+        "img_caption": [
+            "Fig.11. Finite-size scaling function $U ( t L ^ { 1 / \\nu } ; p )$ of the ratio $S _ { 2 } / S _ { 1 }$ at $p = 1 . 0$ . The inverse of the critical exponent $1 / \\nu =$ 0.93 is taken for the scaling variable. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/003520edfc5e75240784f74b4abd4d8d0a2f93c811b310434f01937bdf9ce46f.jpg",
+        "img_caption": [
+            "Fig.13. $p$ -dependence of the inverse of critical exponent $1 / \\nu$ The Monte Carlo data at $p = 0 . 5$ ，0.6，0.7，0.8，0.9,and 1.0 are shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e736f6492ab2fea4da96cd423fe476d17b642dc75799499e260908039ce11aa.jpg",
+        "img_caption": [
+            "Fig.12. Finite-size scaling functions $U ( t L ^ { 1 / \\nu } ; p )$ of the ratio $S _ { 2 } / S _ { 1 }$ at $p = 0 . 5$ ，0.6,0.7, O.8,0.9,and 1.0. The corresponding $1 / \\nu$ for the scaling variable at different $p$ are presented in Fig.13 and Tabel 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/13ca49799080a1e8178ef72df618dc371cc4aad3faf608088699b930b5205677.jpg",
+        "img_caption": [
+            "Fig. 14. $p$ -dependence of the finite-size scaling function $U ( t L ^ { 1 / \\nu } ; p )$ of the ratio $S _ { 2 } / S _ { 1 }$ at the critical point $t = 0$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b83ed75e309cc62e9a6a5e484fe784c6086a10f18a0520f28c3a9ee76cc1130.jpg",
+        "table_caption": [
+            "Table 1.Critical reduced edge number $r _ { c }$ ，ration of critical exponent $\\beta / \\nu$ and inverse of critical exponent $1 / \\nu$ at different probability parameters.We obtain the critical reduced edge number $r _ { c } ^ { ( 1 ) }$ from $S _ { 2 } / S _ { 1 }$ and $r _ { c } ^ { ( 2 ) }$ from $\\ln { s _ { 1 } }$ ： "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>P</td><td>r</td><td>r2</td><td>β/v</td><td>1/v</td></tr><tr><td>0.5</td><td>0.5000(2)</td><td>0.5000(4)</td><td>0.108(4)</td><td>0.75</td></tr><tr><td>0.6</td><td>0.5082(2)</td><td>0.5082(4)</td><td>0.102(3)</td><td>0.77(1)</td></tr><tr><td>0.7</td><td>0.5153(3)</td><td>0.5153(2)</td><td>0.092(4)</td><td>0.79(1)</td></tr><tr><td>0.8</td><td>0.5208(1)</td><td>0.5207(2)</td><td>0.081(5)</td><td>0.83(1)</td></tr><tr><td>0.9</td><td>0.5244(1)</td><td>0.5244(1)</td><td>0.070(3)</td><td>0.88(1)</td></tr><tr><td>1.0</td><td>0.5266(1)</td><td>0.52655(4)</td><td>0.064(3)</td><td>0.93(1)</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In our previous investigations of the two-dimensional lattice networks under a generalized Achlioptas process, the dimensionality $d$ of systems is fixed and the macroscopic property of their order parameter is unchanged. But we have found in Figs.9,13 and 14 that the critical exponents $\\beta$ ， $\\nu$ and the ratio $S _ { 2 } / S _ { 1 }$ at $r _ { c }$ depend on the probability parameter $p$ . So the universality of percolation phase transition in these networks is characterized in addition by the probability parameter $p$ of GAP. A different probability parameter $p$ of GAP generates a different probability distribution of configuration.So the probability parameter $p$ is actually related to the macroscopic character of network.For a general classification of universality class in complex networks,further investigations are needed. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We have investigated the percolation phase transitions in two-dimensional lattice network under a generalized Achlioptas process.In this GAP,we choose randomly two unoccupied edges in a two-dimensional lattice and the edge that minimizes the product of the two connecting cluster sizes is taken with a probability $p$ . Our model becomes the two-dimensional bond percolation model at $p = 0 . 5$ and the two-dimensional lattice network under the minority product rule at $p = 1$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The size $S _ { 1 }$ of the largest cluster in the lattice increases with the edge number $N _ { r }$ . When the reduced edge number $r = N _ { r } / N$ islarger than a certain value $r _ { c }$ ， $S _ { 1 }$ becomes comparable with the lattice size $N \\ = \\ L ^ { 2 }$ .At $r _ { c }$ ，a giant component emerges and there is a percolation phase transition.From the finite-size scaling analysis of $S _ { 1 }$ and the ratio $S _ { 2 } / S _ { 1 }$ ，we can conclude that this percolation phase transition is continuous at probability parameter $0 . 5 \\leq p \\leq 1$ .The critical exponent ratio $\\beta / \\nu$ can be determined from the power-law behavior of $S _ { 1 }$ at $r _ { c }$ . To obtain the finite-size scaling function of the ratio $S _ { 2 } / S _ { 1 }$ from the Monte carlo simulation data of different $L$ with the scaling variable $t L ^ { 1 / \\nu }$ ，the critical exponent of correlation length $\\nu$ can be fixed.We find that the critical reduced edge number $r _ { c }$ increases with the probability parameter $p$ ,which is shown in Fig.8.The critical exponent ratio $\\beta / \\nu$ and the critical exponent $\\nu$ decrease with the probability parameter $p$ ,as demonstrated in Fig.9 and 13.Under the GAP with $0 . 5 < p \\leq 1$ ,the formation of larger cluster is suppressed and this suppression increases with $p$ . So the formation of a giant component should be delayed at a larger probabilityparameter $p$ . This delay is accompanied then by the stronger emergence of the giant component, which is characterized by smaller $\\beta$ . It is plausible that $r _ { c }$ increases and $\\beta$ decreases with $p$ . The finite-size scaling functions of the ratio $S _ { 2 } / S _ { 1 }$ are given for different $p$ in Fig.12. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Within a certain universality class characterized by the dimensionality of the system and by the number of components of the order parameter, the universal quantities (critical exponents,amplitude ratios,and scaling functions)of different systems are identical.For the twodimensional lattice networks under a GAP we discuss here, the critical exponents $\\beta$ ， $\\nu$ and the ratio $S _ { 2 } / S _ { 1 }$ at the critical point depend on the the probability parameter $p$ ,which has been pointed out above.So the universality class of the percolation phase transition in this model should be characterized in addition by the probability parameter $p$ To understand the universality class of the critical phenomena in networks in general, further investigations are needed. For random networks,we introduce also a generalized Achlioptas process and the phase transitions in these systems are investigated [23]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the National Natural Science Foundation of China under grant 1O835005. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.D.Stauffer and A.Aharony,Introduction to Percolation Theory (Taylor & Francis,London,1994).   \n2.S.Solomon,G.Weisbuch,L.de Arcangelis,N. Jan,and D. Stauffer,Physica A 277,239 (2000).   \n3.S.N.Dorogovtsev,A.V.Goltsev,and J.F.F.Mendes,Rev. Mod.Phys.80,1275 (2008).   \n4.D.Achlioptas,R. M.D'Souza,and J. Spencer, Science 323, 1453 (2009).   \n5.R.M.Ziff,Phys.Rev.Lett.103,045701 (2009).   \n6.Y.S.Cho,J.S.Kim,J.Park,B.Kahng,and D.Kim,Phys. Rev.Lett.103,135702 (2009).   \n7.F.Radicchi and S.Fortunato,Phys.Rev.Lett.103,168701 (2009).   \n8.R.M. Ziff,Phys.Rev.E 82,051105 (2010).   \n9.R.A. da Costa,S.N. Dorogovtsev，A. V. Goltsev,and J.F.F.Mendes,Phys.Rev.Lett.105,255701 (2010).   \n10.O.Riordan and L.Warnke,Science 333,322 (2011).   \n11.L.Tian and A.N.Shi,arXiu:1010.5900 (2010).   \n12.P.Grassberger, C.Christensen,G.Bizhani, S.W. Son,and M.Paczuski, arXiv:1103.3728v2.   \n13.F.Radicchi and S.Fortunato,Phys.Rev.E 81,O36110 (2010).   \n14.S.Fortunato and F.Radicchi,arXiu:1101.3567v1 (2011).   \n15.M.E. J. Newmann and R.M. Ziff,Phys.Rev.Lett.85, 4104 (2000).   \n16. M.E. J. Newmann and R.M. Ziff,Phys. Rev.E64,016706 (2001).   \n17.V.Privman and M.E.Fisher,Phys.Rev.B 30,322 (1984).   \n18.V.Privman,Finite Size Scaling and Numerical Simulation of Statistical Systems,(World Scientific,Singapore,1990).   \n19. J. W. Essam,Phase Transitions and Critical Phenomena, edited by C. Domb and J. L. bebowitz (Academie Press, London,1972),Vol. 2,p.197.   \n20.M. E. Fisher，Rev.Mod.Phys.46,597 (1974);70,653 (1998).   \n21.J. Zinn-Justin，Quantum Field Theory and Critical Phenomena,(Clarendon Press, Oxford,1996).   \n22.V.Privman,A.Aharony,and P.C.Hohenberg,in Phase Transitions and Critical Phenomena,edited by C.Domb and J.L.Lebowitz (Academic,New York,1991),Vol.14,p.1.   \n23. Jingfang Fan, Maoxin Liu, Liangsheng Li, and Xiaosong Chen,to be published. ",
+        "page_idx": 6
+    }
+]

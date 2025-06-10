@@ -1,0 +1,257 @@
+# Estimation of meteorological drought indices based on AgMERRA precipitation data and station-observed precipitation data
+
+Nasrin SALEHNIA'， Amin ALIZADEHl\*， Hossein SANAEINEJAD1， MohammadBANNAYAN1,Azar ZARRIN², Gerrit HOOGENBOOM³
+
+1Faculty of Agriculture,Ferdowsi University of Mashhad,Mashhad 9177948944,Iran;   
+2Department of Geography,Ferdowsi University of Mashhad,Mashhad 9177948974, Iran;   
+3 Institute for Sustainable Food System,University of Florida,Gainesville 110570, USA
+
+Abstract: Meteorological drought is a natural hazard that can occur under allclimatic regimes. Monitoring the drought is a vital and important part of predicting and analyzing drought impacts. Because no single index can represent all facets of meteorological drought, we took a multi-index approach for drought monitoring in this study. We assessed the ability of eight precipitation-based drought indices (SPI (Standardized Precipitation Index),PNI (Percent of Normal Index),DI (Deciles index),EDI (Effective drought index), CZI (China-Z index), MCZI (Modified CZI),RAI (Rainfall Anomaly Index),and ZSI (Z-score Index) calculated from the station-observed precipitation data and the AgMERRA gridded precipitation data to assess historical drought events during the period 1987-2010 for the Kashafrood Basin of Iran. We also presented the Degree of Dryness Index (DDI) for comparing the intensities of diferent drought categories in each year of the study period (1987-2010). In general, the correlations among drought indices calculated from the AgMERRA precipitation data were higher than those derived from the station-observed precipitation data.Allindices indicated the most severe droughts for the study period occurred in 2001 and 2008.Regardless of data input source,SPI，PNI,and DI were highly inter-correlated $( \mathrm { R } ^ { 2 } { = } 0 . 9 9 )$ ).Furthermore,the higher correlations $\langle { \mathrm { R } } ^ { 2 } { = } 0 . 9 9 \rangle$ were also found between CZI and MCZI, and between ZSI and RAI. Allindices were able to track drought intensity, but EDI and RAI showed higher DDI values compared with the other indices. Based on the strong correlation among drought indices derived from the AgMERRA precipitation data and from the station-observed precipitation data, we suggest that the AgMERRA precipitation data can be accepted to fillthe gaps existed in the station-observed precipitation data in future studies in Iran.In addition,if tested by station-observed precipitation data,the AgMERRA precipitation data may be used for the data-lacking areas.
+
+Keywords: severe drought; degree of dryness; MDM (Meteorological Drought Monitoring) software; precipitation; intensity; Middle East
+
+# 1 Introduction
+
+Precipitation deficits over an extended period can be devastating to human life and health, water resources,and economies and are commonly described as meteorological droughts (Yu et al., 2013).Meteorological drought is characterized by lack of precipitation over weeks,months,or years (Heim, 2002; Potop et al., 2014; Escalante-Sandoval and Nunez-Garcia, 2017). Monitoring meteorological drought is a vital and important part of drought risk mitigation (Li et al.,2017) on a global scale (WMO, 2013; Li et al., 2014). In arid and semi-arid regions like Iran, monitoring meteorological drought is of critical importance for both agricultural and natural resource management. In addition, droughts may be exacerbated under projected global climate change, further highlighting the importance of drought monitoring (IPCC, 2014).
+
+For drought monitoring, various drought indices have been developed to describe the intensity of a drought, including SPI (Standardized Precipitation Index),PNI (Percent of Normal Index) (Willeke et al.,，1994),DI (Deciles Index), EDI (Effective Drought Index) (Byun and Wilhite, 1999),CZI (China-Z index)，MCZI (modified CZI)，RAI (Rainfall Anomaly Index) and ZSI (Z-Score Index). Drought indices are calculated by a combination of climatic and meteorological variables,among which precipitation is the most important in defining the magnitude and intensity of a drought (Alley,1984; Chang and Kleopa,1991). Fortunately， station-observed precipitation data recorded over long historical perids are widely available (Barbulescu and Deguenon, 2O14). Using those available data, Morid et al. (2006) compared the performance of seven drought indices (DI, PNI, SPI, CZI, MCZI, ZSI and EDI) for drought monitoring. They concluded that DI is responsive to rainfall events and EDI is sensitive to drought intensification. Shahabfar and Eitzinger (2O13) compared six drought indices (SPI, PNI, CZI, MCZI, ZSI and de Martonne aridity index) in six diferent climatic regions of Iran and concluded that ZSI, CZI and MCZI could be used as meteorological drought predictors. Wu et al. (2O01) evaluated the SPI, CZI and ZSI on 1-,3-,6-,9- and 12-month time scales using monthly precipitation totals for four locations in China and concluded that SPI, CZI, and ZSI were alluseful for defining, detecting, and monitoring droughts.
+
+Based on the NASA Modern Era Retrospective Analysis for Research and Applications (MERRA） outputs (Rienecker et al.， 2011)， the AgMERRA global gridded climate dataset （ $( 0 . 2 5 ^ { \circ } \times 0 . 2 5 ^ { \circ }$ horizontal resolution; ${ \sim } 2 5 ~ \mathrm { k m } ,$ ）provided daily， high-resolution and continuous meteorological datasets for the period 198O-2Ol0 and was advocated to be useful for agricultural and meteorological projects (Ruane et al., 2015；White et al.， 2008). Bannayan et al. (2015) evaluated the performance of the AgMERRA dataset to fill gaps existed in historical station-observed meteorological data for different climatic regions of Iran and concluded that the AgMERRA dataset can satisfactorily fill the gaps in station-observed data. Ceglar et al. (2017) also found that AgMERRA dataset has the best performance in reflecting the station-observed precipitation data in comparison with ERA-Interim (ERA, European Centre for Medium-Range Weather Forecasts (ECMWF) Re-Analysis), ERA-Interim/Land and JRA-55 datasets.
+
+In order to properly allocate the water resources for agricultural, economic and ecological sections,researchers attempt to quantify the effects of droughts using many indices. In this study, precipitation-based drought indices calculated from different sources of data were utilized for monitoring meteorological drought in the Kashafrood Basin of Iran. The main objectives of this study are: (1） to compare the outputs of eight drought indices derived from the AgMERRA precipitation data and from the station-observed precipitation data; and (2) to present the Degree of Dryness Index (DDI) for evaluating meteorological drought intensity in the northeast of Iran.
+
+# 2 Materials and methods
+
+# 2.1 Study area
+
+This study was conducted in the Kashafrood Basin $( 3 5 ^ { \circ } 4 0 ^ { \prime } - 3 6 ^ { \circ } 0 3 ^ { \prime } \mathrm { N }$ ， $5 8 ^ { \circ } 0 2 ^ { \prime } { - } 6 0 ^ { \circ } 0 8 ^ { \prime } \mathrm { E }$ Fig.1), Khorasan Province in northeastern Iran. The Kashafrood Basin includes the Mashhad-Fariman, Mashhad-Chenaran,and Chenaran-Ghoochan plains,and each of them has a weather station.The study area is characterized by a cool and dry climate.Physiographic details of the three weather stations are included in Table 1.
+
+Table1 Characteristics of the three weather stations   
+
+<html><body><table><tr><td>Station</td><td>Latitude</td><td>Longitude</td><td>Elevation</td><td></td><td>AC</td><td>Precipiaion</td><td>Climate</td></tr><tr><td>Mashhad</td><td>36°16'N</td><td>5938E</td><td>999</td><td>21.6</td><td>8.3</td><td>256</td><td>Semi-arid</td></tr><tr><td>Ghoochan</td><td>37°04N</td><td>58°30'E</td><td>1287</td><td>19.4</td><td>6.1</td><td>308</td><td>Semi-arid</td></tr><tr><td>Golmakan</td><td>36°29N</td><td>59°17E</td><td>1176</td><td>20.4</td><td>6.7</td><td>208</td><td>Arid</td></tr></table></body></html>
+
+Note: $\mathrm { T } _ { \mathrm { m a x } }$ ,maximum temperature; $ { \mathrm { T } } _ { \mathrm { m i n } }$ ,minimum temperature.
+
+![](images/ea8d032f505f61806f79dcbd3976f9efb0e6708e06cf8c3495c8092493b47043.jpg)  
+Fig.1Location of Kashafrood Basin (left map) in the Khorasan Province (lower-right map)of Iran (upper-right map)
+
+# 2.2 Meteorological drought indices
+
+# 2.2.1 SPI (Standardized Precipitation Index)
+
+The SPI is the most popular drought index (Karabulut, 2O15)and is a widely recognized index for characterizing meteorological droughts (Hayes et al.,1999; Deo,2011). McKee et al. (1993,1995) defined SPI suitable for different timescales (1,3,6,12,24 and 48 months),and the output values ranged from $- 2 . 0$ to 2.0.Because precipitation data may be fitted by a gamma distribution, the SPI is calculated as following using a probability density function of the gamma distribution:
+
+$$
+g \left( x \right) = \frac { 1 } { \beta ^ { \alpha } \Gamma \left( \alpha \right) } x ^ { \alpha - 1 } \mathrm { e } ^ { \frac { - x } { \beta } } ( x { > } 0 ) ,
+$$
+
+where $\Gamma ( \alpha )$ is the gamma function; $x$ (mm） is the amount of precipitation $( x { > } 0 )$ · $ { \alpha }$ is the shape parameter $( a { > } 0 )$ ; and $\beta$ is the scale parameter $( \beta > 0 )$ . More details can be found in Edwards and McKee (1997) and Dogan et al. (2012).
+
+# 2.2.2 PNI (Percent of Normal Index)
+
+The PNI was described by Willeke et al. (1994) as a percentage of normal precipitation. It can be calculated for different time scales (monthly,seasonally,and yearly).PNI has been found to be rather effective for describing drought for a single region or/and for a single season (Hayes, 2006). PNI is calculated as following:
+
+$$
+P N I = \frac { P _ { i } } { P } { \times } 1 0 0 ,
+$$
+
+where $P _ { i }$ is the precipitation in time increment $i \ ( \mathrm { m m } )$ ，and $P$ is the normal precipitation for the
+
+studyperiod (mm).
+
+# 2.2.3DI (Deciles Index)
+
+The DI was defined a ranking of the precipitation in a particular time interval over the entire historic period (Gibbs and Maher,1967). Specifically, monthly historical precipitation data are sorted from lowest to highest and divided into ten equal categories or deciles. So,precipitation in a given month can be placed into the historical context by decile.
+
+# 2.2.4 EDI (Effective Drought Index)
+
+The EDI is calculated in daily time step and its values are standardized in a similar way with that for calculating SPI values.The EDI was originally developed by Byun and Wilhite (1999） to overcome some limitations of other indices. The value of EDI generally ranges from $- 2 . 5$ to 2.5. Near normal conditions are indicated when EDI ranges from $- 1 . 0$ to 1.0,while extreme drought conditions are indicated when EDI is less than or equal to $- 2 . 0$ .Effective precipitation should be calculated firstly before obtaining the EDI.
+
+$$
+E P _ { i } = \sum _ { n = 1 } ^ { i } \left( { \frac { \left( \sum _ { m = 1 } ^ { n } P _ { m } \right) } { n } } \right) ,
+$$
+
+where $E P _ { i }$ is the effective precipitation (mm)，which represents the valid accumulations of precipitation; $P _ { m }$ is the precipitation over the previous $m$ days $( \mathrm { m m } )$ ; and $n$ is the duration of the preceding period (day).When $\scriptstyle { i = 3 6 5 }$ ，then $E P _ { 3 6 5 }$ shows available precipitation accumulated over 365 days.More details about the calculation of EDIcan be found in Byun and Wilhite(1999).
+
+# 2.2.5 CZI (China-Z Index) and MCZI (Modified CZI)
+
+The National Climate Center of China developed the CZI in 1995 as an alternative to the SPI (Ju et al.,1997) when mean precipitation follows the Pearson type III distribution. CZI is calculated as:
+
+$$
+C Z I _ { i j } = \frac { 6 } { C _ { s i } } \times \left( \frac { C _ { s i } } { 2 } \times \varphi _ { i j } + 1 \right) ^ { \underline { V } _ { 3 } } - \frac { 6 } { C _ { s i } } + \frac { C _ { s i } } { 6 } ,
+$$
+
+where $i$ is the time scale of interest and $j$ is the current month; $C Z I _ { i j }$ means the CZI's amount of the current month $( j )$ for period $i$ ： $C _ { s i }$ is the coefficient of skewness； and $\varphi _ { t j }$ is the standardized variation. Further details can be found in $\mathrm { w } _ { \mathrm { u } }$ et al.(2OO1).Furthermore,the MCZI can also be calculated using the formula above but substituting the median precipitation for mean precipitation.
+
+# 2.2.6 ZSI (Z-Score Index)
+
+The ZSI is occasionally confused with SPI. However, it is more analogous to CZI, but without the requirement for fiting precipitation data to either gamma distribution or Pearson type III distribution. ZSI can be calculated by the following equation:
+
+$$
+Z S I = \frac { P _ { i } - \overline { { P } } } { S D } ,
+$$
+
+where $\overline { { P } }$ is the mean monthly precipitation $( \mathrm { m m } )$ · $P _ { i }$ is precipitation in a specific month $( \mathrm { m m } )$ and $S D$ is the standard deviation of any time scale (mm).
+
+# 2.2.7 RAI (Rainfall Anomaly Index)
+
+The RAI considers two anomalies，i.e.， positive anomaly and negative anomaly. First, the precipitation data are arranged in descending order. The ten highest values are averaged to form a threshold for positive anomaly and the ten lowest values are averaged to form a threshold for negative anomaly. The thresholds are calculated by Equations 6 and 7,respectively:
+
+$$
+R A I { = } 3 \times \left[ { \frac { \left( p - { \bar { p } } \right) } { \left( { \overline { { m } } } - { \overline { { p } } } \right) } } \right] ,
+$$
+
+$$
+R A I { = } { - } 3 { \times } \lbrack \frac { ( p - \overline { { p } } ) } { ( \overline { { m } } - \overline { { p } } ) }  ,
+$$
+
+where $p$ is the actual precipitation for each year (mm); $\overline { { p } }$ is the long-term average precipitation $\left( \mathrm { m m } \right)$ ; and $\overline { { m } }$ is the mean of the ten highest values of $p$ for the positive anomaly and the mean of the ten lowest values of $p$ for the negative anomaly.
+
+# 2.3 Data collection and processing
+
+Daily precipitation data from 1987 to 2010 were obtained from two sources: three weather stations(Mashhad， Golmakan and Ghoochan） and the AgMERRA gridded dataset (http://data.giss.nasa.gov/impacts/agmipcf/agmerra/). WeusedSPSs16.Osoftwareand MATLAB 2O13a for data analysis.Furthermore,we used the C# language (Visual Studio 2013 and .NET Framework 4.5.1） to develop a software package for calculating the meteorological drought indices.
+
+We developed the MDM (Meteorological Drought Monitoring） software package for calculating diferent precipitation-based meteorological drought indices.Normally,if different drought indices can be simultaneously calculated for a given time interval and also for a given region，drier-than-mean or wetter-than-mean conditions can be more confidently defined (Smakhtin and Hughes,2OO7).Thus,user-friendly software is a rather useful tool for calculating and comparing multiple locations, different timescales,and different data sources.The MDM software package is currently based on calculations from two sources of data covering the period of 1980-2O10. The first is the weather station data file,which includes daily precipitation in Excel format. The second one is a database of daily precipitation from AgMERRA.The user can click the map on the desired point in the package and calculate all indices at $0 . 2 5 ^ { \circ }$ grid location. There is a complete help instructions in the package describing all setup steps.The detailed description of MDM capabilities and instructions for data analysis are available at https://www.agrimetsoft.com.
+
+# 2.4Degree of Dryness Index (DDI)
+
+We classified dry months as those in which each one of the aforementioned indices falls into one of the three categories: extreme,severe,or moderate.For each year, we counted the frequency of months for the interested location when each one of the indices fell into one of the three drought categories (i.e., extreme, severe,and moderate).For example,the SPI index for 1989 in Ghoochan had 1 month of extreme drought, O month of severe drought and 2 months of moderate drought. We then applied multipliers of 3 for extreme drought, 2 for severe drought month,and 1 for moderate drought months to get a total yearly degree of dryness index (DDI) of 5 for SPI at Ghoochan station (i.e., $\mathrm { D D I } { = } ( 1 { \times } 3 ) { + } ( 0 { \times } 2 ) { + } ( 2 { \times } 1 ) { = } 5 )$ . Then we averaged the DDI values from the three weather stations to get an average yearly degree of dryness index of 3 for SPI for station-observed precipitation data in 1989. The same method was used for the AgMERRA derived index outputs， with the exception of the final averaging across sites. The DDI can be calculated by Equations 8 and 9:
+
+$$
+\begin{array} { l } { { \displaystyle { \cal D } { \cal D } { \cal I } _ { y } ^ { s t } = \sum _ { i n t = 1 } ^ { N _ { i n t } } a _ { i n t } \times N _ { i n t , y } } , } \\ { { \displaystyle { \cal D } { \cal D } { \cal I } _ { y } = \frac { \left[ \sum _ { s t = 1 } ^ { N _ { s t } } { \cal D } { \cal D } { \cal I } _ { y } ^ { s t } \right] } { N _ { s t } } } , } \end{array}
+$$
+
+where $D D I _ { y } ^ { s t }$ is the degree of dryness index of the station in each year; $a _ { i n t }$ is the intensity of drought, with 1 for moderate drought, 2 for severe drought,and 3 for extreme drought; $N _ { i n t , y }$ is the number of dry months for each drought category in each year; $D D I _ { y }$ is the average value of degree of dryness index in each year for all stations; and $N _ { s t }$ is the number of stations ( $\mathrm { \Delta } N _ { s t } { = } 3$ in this study).
+
+# 2.5 Statistical analysis
+
+The performance of AgMERRA datasets was evaluated using five widely-used statistical indices, i.e.,relative absolute bias (ABIAS),mean errors $( M E )$ ，mean absolute error $( M A E )$ ， Pearson's correlation coefficient $( r )$ ，and coefficient of determination $( R ^ { 2 } )$ . Specifically， the ABIAS was computed to describe the absolute magnitude of systematic bias of the difference between the station-observed precipitation data and the AgMERRA precipitation data (Eq. 1O). The $M E$ was selected to represent the average difference between the station-observed precipitation data and the AgMERRA precipitation data (Eq. 11). The $M A E$ was used to determine the average magnitude of the error (Eq. 12). Pearson's correlation coefficient $( r )$ was used to measure the degree of agreement between the two sources of data (Eq. 13). The coeficient of determination $( R ^ { 2 } )$ described the proportion of the total variance in the station-observed precipitation data that can be explained by the AgMERRA precipitation data (Eq.14). It ranges from O to 1 with higher values indicating stronger agreement.
+
+$$
+A B I A S = \frac { \displaystyle \sum _ { i = 1 } ^ { N } \Bigl | A g _ { i } - S t _ { i } \Bigr | } { \displaystyle \sum _ { i = 1 } ^ { N } S t _ { i } } \times 1 0 0 \% ,
+$$
+
+$$
+\ M E = { \frac { \displaystyle \sum _ { i = 1 } ^ { N } \bigl ( A g _ { i } - S t _ { i } \bigr ) } { N } } ,
+$$
+
+$$
+\ M A E { = } \frac { \displaystyle \sum _ { i = 1 } ^ { N } \Bigl | A g _ { i } - S t _ { i } \Bigr | } { N } ,
+$$
+
+$$
+R ^ { 2 } = \left\{ \frac { \displaystyle \sum _ { i = 2 } ^ { N } \left( S t _ { i } - \overline { { S t } } \right) \times \left( A g _ { i } - \overline { { A g } } \right) } { \displaystyle \left[ \sum _ { i = 1 } ^ { N } \left( S t _ { i } - \overline { { S t } } \right) ^ { 2 } \right] ^ { 0 . 5 } \times \left[ \sum _ { i = 1 } ^ { N } \left( A g _ { i } - \overline { { A g } } \right) ^ { 2 } \right] ^ { 0 . 5 } } \right\} ^ { 2 } ,
+$$
+
+where $N$ is the total sets of AgMERRA precipitation data or station-observed precipitation data; $A g _ { i }$ and $S t _ { i }$ are the AgMERRA precipitation data $( \mathrm { m m } )$ and station-observed precipitation data, respectively； and $\overline { { A g } }$ and $\overline { { S t } }$ are the average values of AgMERRA and station-observed precipitation data (mm), respectively.
+
+# 3Results and discussion
+
+# 3.1 Comparison of AgMERRA precipitation data and station-observed precipitation data
+
+We first calculated the statistical indices (i.e.,ABIAS,ME,MAE, $R ^ { 2 }$ and $\dot { r }$ ）to compare the AgMERRA precipitation data with the station-observed precipitation data at three stations in the Kashafrood Basin. These results are presented in Table 2 at monthly time scale.Figure 2 shows the relationships between average monthly precipitation over each selected grid box for the three stations (Mashhad,Ghoochan and Golmakan） and the corresponding values from the three stations. These results show that there is a good agreement between the station-observed precipitation data and the AgMERRA precipitation data, with $R ^ { 2 } { = } 0 . 9 0 2 5$ for Mashhad, $R ^ { 2 } { = } 0 . 8 4 3 7$ （204号 for Ghoochan,and $R ^ { 2 } { = } 0 . 6 9 2 4$ for Golmakan.As shown in Table 2, the $M E$ values ranged from $- 2 . 2 0$ to $0 . 3 9 \mathrm { m m }$ ； the ABIAS values ranged from $2 1 . 0 \%$ to $3 7 . 5 \%$ ; and the $r$ values ranged from 0.85 to 0.96. It means that the AgMERRA precipitation data are quite consistent with the station-observed precipitation data. So,the AgMERRA precipitation data can be acceptable for monitoring meteorological droughts.
+
+Table2Statistical indices between the AgMERRA precipitation data and the station-observed precipitation data for Mashhad,Ghoochan,Golmakan stations and for the Kashafrood Basin   
+
+<html><body><table><tr><td>Region</td><td>ABIAS (%)</td><td>MAE (mm)</td><td>ME (mm)</td><td>r</td></tr><tr><td>Ghoochan</td><td>28.4</td><td>7.17</td><td>-0.67</td><td>0.92</td></tr><tr><td>Golmakan</td><td>37.5</td><td>6.45</td><td>0.39</td><td>0.85</td></tr><tr><td>Mashhad</td><td>25.2</td><td>4.50</td><td>-2.20</td><td>0.96</td></tr><tr><td>Kashafrood Basin</td><td>21.0</td><td>4.20</td><td>-0.83</td><td>0.95</td></tr></table></body></html>
+
+Note:ABIAS,relativeabsolute bias;MAE,meanabsolute error;ME,mean errors;r,Pearson'scorrelationcoefficient.
+
+![](images/589368d39b4c3075eed03d2f406916c6c7cd9069ca0c4e1065223ccb027f98b1.jpg)  
+Fig.2Relationships of the average monthly precipitation data between the AgMERRA and the weather stations (Mashhad (a), Ghoochan (b) and Golmakan (c),as wellas relationship of the average precipitation data between the AgMERRA and the weather stations over the whole Kashafrood Basin (d)
+
+# 3.2 Comparison of drought indices
+
+The eight drought indices (i.e., SPI,PNI,DI, EDI, CZI,MCZI,RAI,and ZSI) were calculatedfor the three stations (Mashhad, Ghoochan,and Golmakan) from 1987 to 2O10.For Mashhad station, there were close relationships between the AgMERRA-derived drought indices and the station-derived drought indices,allcorrelation coefficients being larger than O.82 (Table 3; Fig. 3). The Pearson's correlation coefficients for SPI, PNI and DI were more or less identical (0.91, 0.89 and O.89,respectively). It should be noted that similar conclusions were drawn by Keyantash and Dracup (2OO2)，who found that SPI and DI are the two most robust indices for monitoring meteorological drought in Oregon. Quiring (2OO9) recommended SPI, DI, and PNI as the best indices of meteorological drought. Inour study, the trends of these three indices (SPI,DI,and PNI) were very similar (Fig. 3). The values of CZI, ZSI,and RAI were nearly the same for the observation period.In Mashhad,the trends of MCZI were somewhat different from those of CZI (Fig.3). Morid et al. (2Oo6) also found that MCZI was a poor detector of meteorological drought. It should be particularly pointed out that 2OO8 was the driest year in Mashhad station during the study period (1987-2010), as suggested by all indices.
+
+Table3Pearson's correlation coefficientsbetween the AgMERRA-derived drought indices and the station-derived drought indices for the three stations   
+
+<html><body><table><tr><td>Station</td><td>SPI</td><td>PNI</td><td>DI</td><td>EDI</td><td>CZI</td><td>MCZI</td><td>RAI</td><td>ZSI</td></tr><tr><td>Ghoochan</td><td>0.87</td><td>0.88</td><td>0.88</td><td>0.89</td><td>0.76</td><td>0.77</td><td>0.76</td><td>0.79</td></tr><tr><td>Golmakan</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.65</td><td>0.33</td><td>0.31</td><td>0.30</td><td>0.31</td></tr><tr><td>Mashhad</td><td>0.91</td><td>0.89</td><td>0.89</td><td>0.91</td><td>0.82</td><td>0.84</td><td>0.82</td><td>0.83</td></tr></table></body></html>
+
+Note:SPIStadddeciiaonde;eentfalex;Deilee;Dtieouht China-Z Index; MCZI,Modified CZI; RAI,Rainfall Anomaly Index; ZSI, Z-score Index.
+
+![](images/dc6a2b5ef328e81123da83f3bd9fe60b5cfdba5092e4231344d03226369bdfcb.jpg)  
+Fig.3 Comparison of eight drought indices derived from the AgMERRA precipitation data and from the station-observed precipitation data at an annual time scale for Mashhad station.SPI, Standardized Precipitation Index;PNI,Percent of Normal Index;DI,Deciles index;EDI, Efective Drought Index; CZI, China-Z Index; MCZI, Modified CZI; RAI, Rainfall Anomaly Index; ZSI, Z-score Index.
+
+For Ghoochan station， there was a good correspondence between the AgMERRA-derived drought indices and the station-derived drought indices,all correlation coefficients being larger than 0.76 (Table 3; Fig. 4). Through comparing MCZI and CZI indices,we found that MCZI represented the range of wet years better than CZI, while CZI represented the dry years better than MCZI. Shahabfar and Eitzinger (2O13) described MCZI as a best performer during rainy seasons in mountainous and semi-mountainous areas. In general, SPI, PNI,DI, CZI and ZSI showed similar trends (Fig. 4). Wu et al. (2001) and Morid et al. (2006) obtained similar outputs from SPI, CZI, and ZSI. In our study, the precipitation recorded by AgMERRA and the derived drought indices for years of 2OO1 and 2OO2 were lower than the precipitation recorded at weather stations and the derived drought indices.All indices indicated that 2O0l and 2OO8 were the driest years in Ghoochan station during the study period (1987-2010).
+
+![](images/1e51dc9f4780f523f0342ee8b92d9fa38cbe5e1152f2b0af8d113057913a1c91.jpg)  
+Fig.4Comparisonof eight drought indices derived from the AgMERRA precipitation data and from the station-observed precipitation data at an annual time scale for Ghoochan station
+
+In contrast to Mashhad and Ghoochan stations, the correlations $( > 0 . 3 1 )$ between the AgMERRA-derived drought indices and the station-derived drought indices for Golmakan station 0 $_ { r < 0 . 6 5 }$ ; Table 3; Fig.5) were not robust at all. For example,1992 and 1993 were two years when the station-derived drought indices showed an extreme drought while the AgMERRA-based drought indices showed a normal condition. This discrepancy was likely caused by the $3 0 0 \mathrm { - m }$ elevation difference between the Golmakan station and the nearest pixel of AgMERRA.For Golmakan, SPI, PNI, DI, and EDI showed a good agreement between the AgMERRA-based drought indices and the station-derived drought indices in presenting wet and dry spells. The values of CZI, MCZI, RAI,and ZSI had similar trends (Fig. 5), with 1993 being the driest year in Golmakan station during the study period (1987-2010).
+
+![](images/a425f223dca3b2bfdbf21cbd04dbdfc4d182cfc56034a00657cb856793797280.jpg)  
+Fig.5Comparison of eight drought indices derived from the AgMERRA precipitation data and from the station-observed precipitation data at an annual time scale for Golmakan station
+
+Pearson's correlation coefficients among all the indices derived from the AgMERRA precipitation data are shown in Table 4 and the correlations from the station-observed precipitation data are shown in Table 5.The correlation coeficient between EDI and RAI was the lowest (O.60 for station-observed precipitation data and O.74 for AgMERRA precipitation data). The second lowest correlation was found between EDI and ZSI (O.68 for station-observed precipitation data and O.76 for AgMERRA precipitation data). In general， the correlation coefficients among the drought indices obtained from the AgMERRA precipitation data are higher than those obtained from the station-observed precipitation data. In both the AgMERRA and station-observed datasets,the SPI,PNI,and DI and also CZI and MCZI,and ZSI and RAI showed higher correlation coefficients. These results agreed with the findings of Wu et al. (2Oo1),Dogan et al. (2O12) and Asefjah et al. (2O14). Given the strong correlations between PNI, DI and SPI $( R ^ { 2 } { = } 0 . 9 9 )$ ，we only used SPI to define the number of dry months during the study period. Similarly, we only used CZI in the following analysis due to the high correlation between CZI and MCZI ( $R ^ { 2 } { = } 0 . 9 9 \rangle$ ）：
+
+Table 4Pearson's correlation coefficients between drought indices derived from the AgMERRA precipitation data on an average annual basis   
+
+<html><body><table><tr><td></td><td>SPI</td><td>PNI</td><td>DI</td><td>EDI</td><td>CZI</td><td>MCZI</td><td>RAI</td><td>ZSI</td></tr><tr><td>SPI</td><td>1.00</td><td>0.99</td><td>0.99</td><td>0.84</td><td>0.94</td><td>0.95</td><td>0.94</td><td>0.95</td></tr><tr><td>PNI</td><td>0.99</td><td>1.00</td><td>0.99</td><td>0.85</td><td>0.94</td><td>0.95</td><td>0.94</td><td>0.95</td></tr><tr><td>DI</td><td>0.99</td><td>0.99</td><td>1.00</td><td>0.85</td><td>0.94</td><td>0.95</td><td>0.94</td><td>0.95</td></tr><tr><td>EDI</td><td>0.84</td><td>0.85</td><td>0.85</td><td>1.00</td><td>0.78</td><td>0.81</td><td>0.74</td><td>0.76</td></tr><tr><td>CZI</td><td>0.94</td><td>0.94</td><td>0.94</td><td>0.78</td><td>1.00</td><td>0.99</td><td>0.98</td><td>0.98</td></tr><tr><td>MCZI</td><td>0.95</td><td>0.95</td><td>0.95</td><td>0.81</td><td>0.99</td><td>1.00</td><td>0.96</td><td>0.97</td></tr><tr><td>RAI</td><td>0.94</td><td>0.94</td><td>0.94</td><td>0.74</td><td>0.98</td><td>0.96</td><td>1.00</td><td>0.99</td></tr><tr><td>ZSI</td><td>0.95</td><td>0.95</td><td>0.95</td><td>0.76</td><td>0.98</td><td>0.97</td><td>0.99</td><td>1.00</td></tr></table></body></html>
+
+Table 5Pearson's correlation coefficients between drought indices derived from the station-observed precipitation data on an average annual basis   
+
+<html><body><table><tr><td></td><td>SPI</td><td>PNI</td><td>DI</td><td>EDI</td><td>CZI</td><td>MCZI</td><td>RAI</td><td>ZSI</td></tr><tr><td>SPI</td><td>1.00</td><td>0.99</td><td>0.99</td><td>0.84</td><td>0.94</td><td>0.96</td><td>0.87</td><td>0.92</td></tr><tr><td>PNI</td><td>0.99</td><td>1.00</td><td>0.99</td><td>0.86</td><td>0.92</td><td>0.95</td><td>0.85</td><td>0.90</td></tr><tr><td>DI</td><td>0.99</td><td>0.99</td><td>1.00</td><td>0.86</td><td>0.92</td><td>0.95</td><td>0.85</td><td>0.90</td></tr><tr><td>EDI</td><td>0.84</td><td>0.86</td><td>0.86</td><td>1.00</td><td>0.73</td><td>0.76</td><td>0.60</td><td>0.68</td></tr><tr><td>CZI</td><td>0.94</td><td>0.92</td><td>0.92</td><td>0.73</td><td>1.00</td><td>0.99</td><td>0.96</td><td>0.98</td></tr><tr><td>MCZI</td><td>0.96</td><td>0.95</td><td>0.95</td><td>0.76</td><td>0.99</td><td>1.00</td><td>0.93</td><td>0.97</td></tr><tr><td>RAI</td><td>0.87</td><td>0.85</td><td>0.85</td><td>0.60</td><td>0.96</td><td>0.93</td><td>1.00</td><td>0.99</td></tr><tr><td>ZSI</td><td>0.92</td><td>0.90</td><td>0.90</td><td>0.68</td><td>0.98</td><td>0.97</td><td>0.99</td><td>1.00</td></tr></table></body></html>
+
+# 3.3 Calculation of Degree of Dryness Index (DDI)
+
+As shown in Table 6, DDI values from EDI and RAI suggested that the most severe drought year was the year 200l over the entire study period (1987-2010). However, DDI values from SPI, CZI, and ZSI suggested that 2OO8 was the most severe drought year over the same period. In fact, the lowest average annual precipitation values recorded at these three stations were $1 7 3 ~ \mathrm { m m }$ in 2001 and $1 2 3 ~ \mathrm { m m }$ in 2O08. It should be emphasized here that due to a significant reduction in rainfall, about $9 5 \%$ of rain-fed farms suffered severely from droughts in 2OO1 and also in 2Oo8 in Iran (FAO,2OO8;Ministry of Jihad-e-Agriculture Iran, 2O09； USDA Foreign Agricultural Service, 2010).According to the reports from Ministry of Jihad-e-Agriculture (2Oo9),about $2 . 5 { \times } 1 0 ^ { 6 } \mathrm { h m } ^ { 2 }$ of irrigated agricultural land, $4 { \times } 1 0 ^ { 6 } \ : \mathrm { h m } ^ { 2 }$ of rain-fed agricultural land, and $1 . 1 { \times } 1 0 ^ { 6 } \mathrm { h m } ^ { 2 }$ of gardens were affected by drought of 20O1. In general, the data in Table 6 showed that 2OO1 and 2008 were the two driest years during the study period (1987-2010). However, the DDI values from EDI and RAI seem to be more sensitive to the station-observed droughts than the DDI values from other drought indices. The reasons may include: EDI is more sensitive to subtle changes in rainfall (Kim et al., 2009; Dogan et al.,2012; Deo et al.,2017) and RAI can better identify the positive anomaly or negative anomaly.
+
+Although most of the drought indices are strongly cross-correlated and exhibit rather comparable seasonal and annual DDI trends, selecting a single most appropriate index of meteorological drought is still a diffcult task and the difficulty arises from various sources including the spatial variability of climates and the temporal scales of the intended applications (Morid et al.,2OO6; Shahabfar and Eitzinger, 2O13). Therefore,a variety of indices should always be examined to select the best or better drought indices for a specific case study. Another consideration in drought index selection is the differences in index formulations,as SPI uses the gamma distribution in its structure while EDI dose not.
+
+Table 6Average yearly Degree of Dryness Index (DDI) for five drought indices derived from the AgMERRA precipitation data and from the station-observed precipitation data across the Kashafrood Basin   
+
+<html><body><table><tr><td rowspan="2">Year</td><td colspan="2">SPI</td><td colspan="2">CZI</td><td colspan="2">ZSI</td><td colspan="2">EDI</td><td colspan="2">RAI</td></tr><tr><td>WS</td><td>AgM</td><td>WS</td><td>AgM</td><td>WS</td><td>AgM</td><td>WS</td><td>AgM</td><td>WS</td><td>AgM</td></tr><tr><td>1987</td><td>2</td><td>5</td><td>2</td><td>4</td><td>1</td><td>3</td><td>29</td><td>29</td><td>11</td><td>13</td></tr><tr><td>1988</td><td>2</td><td>1</td><td>1</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>12</td><td>7</td></tr><tr><td>1989</td><td>3</td><td>6</td><td>2</td><td>5</td><td>1</td><td>3</td><td>23</td><td>24</td><td>19</td><td>19</td></tr><tr><td>1990</td><td>2</td><td>4</td><td>3</td><td>2</td><td>1</td><td>2</td><td>29</td><td>34</td><td>17</td><td>15</td></tr><tr><td>1991</td><td>1</td><td>1</td><td>1</td><td>0</td><td>1</td><td>0</td><td>6</td><td>8</td><td>12</td><td>11</td></tr><tr><td>1992</td><td>2</td><td>2</td><td>1</td><td>2</td><td>1</td><td>1</td><td>8</td><td>0</td><td>15</td><td>12</td></tr><tr><td>1993</td><td>3</td><td>2</td><td>3</td><td>2</td><td>2</td><td>2</td><td>12</td><td>0</td><td>17</td><td>10</td></tr><tr><td>1994</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>26</td><td>21</td><td>17</td><td>14</td></tr><tr><td>1995</td><td>3</td><td>4</td><td>2</td><td>4</td><td>1</td><td>3</td><td>13</td><td>25</td><td>14</td><td>18</td></tr><tr><td>1996</td><td>1</td><td>3</td><td>1</td><td>2</td><td>1</td><td>2</td><td>20</td><td>33</td><td>12</td><td>13</td></tr><tr><td>1997</td><td>1</td><td>3</td><td>1</td><td>3</td><td>0</td><td>2</td><td>10</td><td>20</td><td>12</td><td>11</td></tr><tr><td>1998</td><td>2</td><td>3</td><td>1</td><td>2</td><td>1</td><td>2</td><td>0</td><td>0</td><td>11</td><td>14</td></tr><tr><td>1999</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>4</td><td>6</td><td>7</td><td>10</td></tr><tr><td>2000</td><td>4</td><td>6</td><td>3</td><td>5</td><td>2</td><td>4</td><td>24</td><td>29</td><td>15</td><td>14</td></tr><tr><td>2001</td><td>4</td><td>3</td><td>4</td><td>3</td><td>2</td><td>2</td><td>36</td><td>35</td><td>20</td><td>16</td></tr><tr><td>2002</td><td>1</td><td>1</td><td>1</td><td>0</td><td>1</td><td>0</td><td>10</td><td>8</td><td>14</td><td>12</td></tr><tr><td>2003</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>11</td><td>9</td></tr><tr><td>2004</td><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>11</td><td>7</td></tr><tr><td>2005</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td><td>14</td><td>9</td></tr><tr><td>2006</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>24</td><td>10</td><td>14</td><td>11</td></tr><tr><td>2007</td><td>3</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>3</td><td>3</td><td>14</td><td>12</td></tr><tr><td>2008</td><td>5</td><td>3</td><td>5</td><td>4</td><td>3</td><td>3</td><td>30</td><td>29</td><td>18</td><td>18</td></tr><tr><td>2009</td><td>2</td><td>2</td><td>1</td><td>2</td><td>0</td><td>1</td><td>7</td><td>9</td><td>9</td><td>8</td></tr><tr><td>2010</td><td>4</td><td>3</td><td>2</td><td>3</td><td>1</td><td>2</td><td>8</td><td>17</td><td>14</td><td>13</td></tr></table></body></html>
+
+Note:WS,weather station;AgM,AgMERRA.
+
+# 4 Conclusions
+
+In this study,using historical precipitation data from 1987 to 2O10,we developed a software program to calculate and compare the drought indices for monitoring drought in the Kashafrood Basin of Iran based on two different precipitation data sources: AgMERRA and station observation. We compared eight drought indices to track the drought history. Our comparison shows that allindices agree that the most severe droughts for the study period occurred in 2001 and 2008.A high cross-correlation coefficients $( R ^ { 2 } { > } 0 . 9 0 )$ were obtained among ZSI, CZI,and SPI, and among SPI, DI and PNI,and between CZI and MCZI in both data sources (AgMERRA and station observation). The DDI values from EDI and RAI seem to be more sensitive to the observed droughts than the DDI values from other drought indices.The consistent and significant agrements between the AgMERRA-based drought indices and the station-derived drought indices are boosting our confidence that the AgMERRA precipitation data can be used for filling thegaps existed in the station-observed precipitation data. In addition，if tested by station-observed precipitation data， the AgMERRA precipitation data may be used for the data-lacking areas.
+
+# Acknowledgements
+
+We would like to thank Dr.Carol WILKERSON(Independent Consultant, Gainesville,Florida,USA)and K. Grace CRUMMER (Institute for Sustainable Food Systems，University of Florida,USA）for editing and improving the language of the manuscript.
+
+# References
+
+Alley WM.1984.ThePalmerdrought severity index:limitationsand asumptions.Journal of Applied Meteorology,23(7): 1100-1109.   
+AsefjahB,FanianF,Feizi Z,etal.2O14.Meteorological drought monitoringusing several drought indices (case study:Salt Lake Basin in Iran).Desert,19(2): 155-165.   
+Bannayan M,LashkariA,ZareH,etal.2015.Appicabilityof AgMERRAforcing datasettofillgaps inhistorical n-situ meteorologicaldata.In:AmericanGeophysicalUnion，FallMeting2015.Abstract#GC13D-1180. 2015AGUFMGC13D1180B.Washington DC: American Geophysical Union.   
+Barbulescu A,DeguenonJ.2O14.Models for trendof precipitationin Dobrudja.Environmental Engineering&Management Journal,13(4): 873-880.   
+Byun HR,WilhiteDA.1999.Objective quantificationofdrought severityand duration.Journalof Climate,12(9):2747-2756.   
+Ceglar A,Toreti A,Balsamo G,etal.2Ol7.Precipitationover MonsoonAsia:acomparisonofreanalysesandobservations. Journal of Climate,30(2): 465-476.   
+Chang TJ,Kleopa XA.1991.A proposed method for drought monitoring.Journal of the American Water Resources Association,27(2): 275-281.   
+DeoRC.20l1.On meteorological droughts intropical Pacific Islands: time-series analysisof observed rainfallusingFiji asa case study. Meteorological Applications,18(2):171-180.   
+DeoRC,Byun HR,AdamowskiJF,etal.2017.Applicationof efectivedrought index forquantificationof meteorological drought events: a case study in Australia.Theoretical and Applied Climatology,128(1-2): 359-379.   
+Dogan S,BerktayA,Singh VP.2O12.Comparisonof multi-monthlyrainfall-baseddroughtseverityidices,withaplicationto semi-arid Konya closed basin,Turkey. Journal of Hydrology, 470-471: 255-268.   
+Edwards D C, McKee T B.1997. Characteristics of $2 0 ^ { \mathrm { { u } } }$ century drought in the United States at multiple time scales. In: Department of Atmospheric Sciences,Colorado State University.Atmospheric Science Paper No.634,ClimatologyReport No.97-2. Fort Collins, CO.   
+Escalante-Sandoval C,Nunez-GarciaP.2l7.Meteorological drought features in northernand northwesternpartsof Mexico under different climate change scenarios.Journal of Arid Land, 9(1): 65-75.   
+FAO(Food and Agriculture Organization of the United Nations).2008.Statistics.[2010-08-12].htp:/faostat.fao.org.   
+Gibbs W,Maher J.1967.RainfallDeciles as Drought Indicators.Melbourne: Bureau of Meteorology,117.   
+Hayes MJ,Svoboda MD,WilhiteDA,et al.1999.Monitoring the 1996 drought using the standardized precipitation index. Bulletin of the American Meteorological Society,80(3): 429-438.   
+HayesMJ.2O06.Drought Indices.Van Nostrand's Scientific Encyclopedia.Hoboken:John Wiley& Sons,Inc.Doi: 10.1002/0471743984.vse8593.http:/onlinelibrary.wiley.com/doi/10.1002/0471743984.vse8593/full.   
+HeimJrRR.20o2.Areviewof twentieth-century drought indicesused in the United States.Bulltinof the American Meteorological Society, 83(3): 1149-1165.   
+IPCC(Intergovernmental Panel on ClimateChange).2014.Working Group II Contribution to the IPCCFifth Assessment Report Climate Change 2014: Mitigation of Climate Change.Cambridge,UK,and New York,NY,USA: Cambridge University Press,895-896.   
+JuXS,YangXW,ChenLJ,etal.997.Researchondeterminationofstationidexesanddivisionofregionalflood/drought grades in China. Quarterly Journal of Applied Meteorology,8(1): 26-33.(in Chinese)   
+Karabulut M.2O15.Droughtanalysis inAntakya-Kahramanmaras Graben,Turkey.Journalof AridLand,7(6):741-754.   
+Keyantash J,DracupJ.2O02.Thequantificationof drought:anevaluationof drought indices.Buletinof theAmerican Meteorological Society,83(8): 1167-1180.   
+Kim DW,Byun HR,Choi K S.2O09.Evaluation,modification,andapplicationoftheEfective Drought Index to-Year drought climatology of Seoul,Korea. Journal of Hydrology, 378(1-2):1-12.   
+LiR,Tsunekawa A,Tsubo M.2O14.Index-based assssmentof agricultural drought in asemi-aridregionof Inner Mongolia, China. Journal of Arid Land,6(1): 3-15.   
+LiY,Yao N,Sahin S,etal.2Ol7.Spatiotemporal variabilityoffour precipitation-baseddroughtindicesin Xinjiang,China. Theoretical and Applied Climatology,129(3-4):1017-1034.   
+McKeeTB,DoeskenNJ,KleistJ.1993.Therelationshipofdroughtfrequencyanddurationtotimescales.In:Proceedingsof the 8th Conference on Applied Climatology.Anaheim,CA:American Meteorological Society,179-184.   
+McKee TB,Doesken NJ, Kleist J.1995.Drought monitoring with Multiple Time scales.In: Proceeding of the $9 ^ { \mathrm { t h } }$ Conference on Applied Climatology.Dallas,TX:American Meteorological Society,233-236.   
+MinistryofJihad-e-Agriculture (Iran).209.Cropstatistics.[209-04-03].htp://dpeagri-jahad.ir/portal/File/ShowFileaspx? ID=bd799699-4e89-437f-8a30-5e15a014d332.(in Persian)   
+Morid S,Smakhtin V,Moghaddasi M.2O06.Comparisonof sevenmeteorologicalindices fordrought monitoringinIran. International Journal of Climatology,26(7): 971-985.   
+Potop V,Boroneant C,MoznyM,etal.2014.Observed spatiotemporalcharacteristicsof droughtonvarioustime salesover the Czech Republic.Theoretical and Applied Climatology,115(3-4): 563-581.   
+Quiring SM.2009.Monitoring drought:anevaluationof meteorological droughtindices.Geography Compass,3(1):64-88.   
+Rienecker MM,Suarez MJ,GelaroR,etal.2011.MERRA:NASA'smoderm-era retrospectiveanalysis forresearch and applications. Journal of Climate,24(14): 3624-3648.   
+Ruane AC,GoldbergR,ChryssanthacopoulosJ.2O15.Climate forcing datasets foragriculturalmodeling: merged products for gap-filling and historical climate series estimation.Agricultural and Forest Meteorology,2Oo: 233-248.   
+ShahabfarA,EitzingerJ.2O13.Spatio-temporalanalysisof droughts insemi-aridregionsbyusingmeteorologicaldrought indices.Atmosphere,4(2): 94-112.   
+SmakhtinVU,Hughes DA.2Oo7.Automated estimationandanalysesofmeteorological droughtcharacteristics frommonthly rainfall data.Environmental Modelling& Software,22(6):88O-890.   
+USDAForeign Agricultural Service.2010.Iran: crop progress report.FAS—Officeof Global Analysis (OGA), United States DepartmentofAgriculture(USDA)．International Operational AgricultureMonitoringProgram．[2009-12-28]. https://www.pecad.fas.usda.gov/pdfs/Iran/Iran_December_28_2009.pdf.   
+WhiteJW,HoogenboomG,StackhouseJrPW,etal2O08.Evaluationof NASAsatelite-andassimilationmodel-erived long-term daily temperature dataoverthecontinental US.AgriculturalandForestMeteorology,148(1O):1574-1584.   
+WillkeGHoskingJRM,WallsJR,etal.994.Thenationaldroughtatlas.In:InstituteforWaterResourcesReport 94-NDS-4.U.S Army Corp ofEngineers,CD-ROM.Norfolk,VA.   
+WMO（World MeteorologicalOrganization).2O13.High-level Meetingon National DroughtPolicy.Geneva:International Conference Center (CICG).[2013-03-11]. htp://www.wmo.int/pages/prog/wcp/agm/meetings/hmndp13/.   
+Wu H,Hayes MJ,Weiss A,etal.2Ool.An evaluationofthe Standardized Precipitation Index,the China-Z Indexand the statistical Z-Score. International Journal of Climatology,21(6): 745-758.   
+Yu G,SauchynD,LiYF.2O13.Droughtchangesandthemechanismanalysis for theNorth AmericanPrairie.Jouralof Arid Land,5(1): 1-14.

@@ -1,0 +1,129 @@
+# 荒漠草原中间锦鸡儿（Caraganaintermedia）冠层穿透雨的发生与分布特征
+
+杨新国1,2,3，古君龙1,2,3，王兴1,2,3，陈林1,2,3，王磊1,2.3，宋乃平1,2.3，曲文杰1,2.3(1．宁夏大学西北土地退化与生态恢复国家重点实验室培育基地,宁夏银川750021;  
+2.宁夏大学退化生态系统恢复与重建教育部重点实验室,宁夏银川750021;  
+3．宁夏大学西部生态与生物资源开发联合研究中心,宁夏银川750021)
+
+摘要：为进一步认识荒漠草原带状人工中间锦鸡儿林（Caragana intermedia)植被稳定性维持的生态水文过程机制,通过对行生和散生中间锦鸡儿冠层穿透雨的对比研究,结果表明： $\textcircled{1}$ 两者对降水变化响应显著，但是差异不显著。散生和行生中间锦鸡儿穿透雨百分比变化范围分别为 $2 5 . 6 \% \sim 9 6 . 5 \%$ （ $C v \ = \ 2 3 \%$ )和 $2 5 . 4 \% \sim 9 6 . 1 \%$ （ $\boldsymbol { C v } \ =$ $1 9 \%$ ),穿透雨量均值分别为 $7 . 5 5 ~ \mathrm { m m }$ 和 $7 . 4 0 \ \mathrm { m m }$ 。穿透雨量与降雨量、降雨历时、降雨强度都具有极显著的线性回归关系，但是穿透雨百分比与降水特征参数以幂函数关系为主。 $\textcircled{2}$ 冠层下穿透雨分布存在明显的空间异质性。穿透雨百分比普遍随距灌丛基部距离的增大而线性增大。“旱区"集中出现在散生中间锦鸡儿灌木的基部,向外百分比逐步提高;行生中间锦鸡儿则出现了多个旱区和雨极镶嵌分布的情况。
+
+键词：穿透雨；中间锦鸡儿；空间异质性；降水特征；荒漠草原；盐池县
+
+干旱地区点状或带状植被分布格局的形成往往受土壤水分稀缺和高度降水波动的限制["。作为沙化草地治理的产物，人工带状中间锦鸡儿林在中国西北保有很高的存林面积，伴随人工林进人成龄阶段，土壤旱化普遍发生，灌木自身也开始进入衰退阶段[2-4],这种特殊的带状植被格局能否继续维持,也是当前迫切需要回答的问题，
+
+由于冠层尺度降水再分配过程对于旱区植被具有重要的生态水文意义，充分认识植被对降水再分配的作用，对于理解旱区点状或带状植被格局的形成与维持十分关键[5-7]。穿透雨是冠层降水再分配的一种重要组分[8],影响着土壤水分和养分的空间分布[9-10] 、水土流失过程[]等生态水文与生物地化过程。对于干旱地区人工灌木林水分平衡机制而言，穿透雨发生规律与形成机制研究具有重要意义。生物和环境因子都可以引起穿透雨的变化，这些因子包括冠层结构形态[12]、降水特征[13-14]以及不同因子间的交互作用[15],但是相关过程机制研究尚未深入，相较于树干茎流和降水截留过程,旱区灌木，特别是人工灌木穿透雨相关研究的案例积累依然很少[16-17]。一般认为,相较于气象因子,生物因子（如冠层形态结构)对穿透雨的影响作用是有规律的和可预测的[18]。例如,冠层开放度与穿透雨往往存在很好的正相关性[19]。但是相同因子对于不同植物的影响作用也可能完全相反，如灌丛穿透雨随距灌丛基部中心距离的远近所表现出的增减趋势[2,20]对于荒漠草原大面积存在的人工中间锦鸡儿林（多以带状行生存在），灌丛个体的形态发育与自然散生中间锦鸡儿存在很大的差异，这种差异是否会影响人工中间锦鸡儿冠层降水分配格局及其转换土壤水的有效性，对于分析这种人工植被稳定性维持的生态水文机理具有一定的价值。同样，自然生长灌木得出的冠层水文过程规律是否适用于这种特殊的人工植被，也需要进一步的验证。
+
+据此，笔者选择荒漠草原典型成龄退化带状人工中间锦鸡儿为对象(行生中间锦鸡儿），以自然散生中间锦鸡儿为对照，利用野外布置的穿透雨收集装置，连续监测了不同降水事件下穿透雨量及其空间分布变化，通过穿透雨发生与降水特征、灌丛穿透雨异质性分布对降水的响应等方面的系统比较分析，试图揭示中间锦鸡儿穿透雨的基本发生与分布规律，行生和散生状态下穿透雨的区别，为分析评价荒漠草原人工带状中间锦鸡儿林植被格局稳定性提供理论依据。
+
+# 1材料与方法
+
+# 1.1 研究区背景
+
+研究区位于宁夏盐池县，地处毛乌素沙漠南缘，在地貌上为黄土高原向鄂尔多斯台地过渡地带，也属于中国北方农区向牧区过渡的农牧交错带，半干旱向干旱过渡的气候区域和干草原向荒漠过渡的植被地带。属于中温带半干旱区，为大陆性气候,干燥少雨、蒸发量大、冬春季节风沙较大，年平均气温$8 . 2 ~ \mathrm { ^ { \circ } C }$ ，降雨年际变率大，地表水、地下水资源匮乏，多年平均降水量 $2 8 0 ~ \mathrm { m m }$ 左右，降雨比较集中的月份为7一9月。年均蒸发量 $2 \ 7 1 0 \ \mathrm { m m }$ ,大风日（风速大于 $1 7 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ )多发生于春季,年均 $2 4 . 2 \mathrm { ~ d ~ }$ 。土壤类型主要为灰钙土、风沙土等，土壤结构松散，极易受风蚀影响。研究区植被类型包括灌丛、草原、草甸、沙生植被和荒漠植被等,以灌丛、草原和沙生植被广泛分布为主，其中灌丛主要为自然或人工中间锦鸡儿灌木林。
+
+# 1.2试验样地的选择与穿透雨的收集
+
+本研究所选取的人工中间锦鸡儿林，林龄30a(1987年种植），按两行一带配置，带距 $6 \sim 8 \mathrm { ~ m ~ }$ ,株行距都是 $1 \mathrm { ~ m ~ }$ ;在林带边缘间或有成片的散生中间锦鸡儿林出现。中间锦鸡儿灌丛的老化集中在行带依然完整的片区，而散生中间锦鸡儿灌丛一般生长发育都比较健壮。相对于散生中间锦鸡儿，行生中间锦鸡儿的老化主要体现在灌丛高度降低，分枝短小，冠层面积减小，灌丛开放度提高。2016年8—10月分别在行生中间锦鸡儿和散生中间锦鸡儿区设置标准试验样地( $5 0 \mathrm { ~ m ~ } \times 5 0 \mathrm { ~ m ~ }$ )，在试验样地内，随机选取中间锦鸡儿灌丛6丛（行生中间锦鸡儿编号为$\mathrm { A l } \sim \mathrm { A } 6$ ,散生中间锦鸡儿编号为 $\mathbf { B l } \sim \mathbf { B } 6$ )，开展穿透雨收集与分析试验。同时，通过样地内布设的小型自动气象站监测获取降水数据。
+
+穿透雨的收集方法，在中间锦鸡儿灌丛下方，以基部为圆心，分别在 $0 ^ { \circ } , 9 0 ^ { \circ } , 1 8 0 ^ { \circ } , 2 7 0 ^ { \circ }$ 辐射方向上，以冠幅大小为依据，从冠层中心到边缘等距离放置直径为 $1 3 \ \mathrm { c m }$ 、外缘高 $2 \ \mathrm { c m }$ 的聚乙烯漏斗3\~4个，在漏斗下方放置一个下部埋入土壤的 $1 ~ 5 0 0 \sim 2 ~ 0 0 0$ mL 聚乙烯瓶，收集穿透雨。每次降水事件后随即收集称量。
+
+# 1.3数据分析处理方法
+
+对所测穿透雨量除以容器接受降雨的面积，平均值则为整个冠层的穿透雨量。基于穿透雨量与降水量的比值，折算穿透雨百分比。次降水事件的降水量、降水强度和降水历时根据自动气象站监测数据统计换算。基于 SPSS 20.0（SPSS Inc.，Chicago,USA），采用 $\mathbf { \chi } _ { t }$ -tests完成了行生和散生中间锦鸡儿穿透雨的差异显著性分析( $P < 0 . 0 5 )$ ，采用线性函数和幂函数拟合了穿透雨与降水特征值间的回归关系；采用克里金插值方法拟合了灌丛穿透雨百分比的空间分布格局。
+
+# 2结果与讨论
+
+# 2.1 试验期间降水分布特征
+
+图1显示了试验期间(2016年8—10月）逐日降水量（图1a）、降水持续时间（图1b）、降水强度（图1c）。共观测到降雨18次，降水总量为162.4$\mathbf { m } \mathbf { m }$ 。单次降雨最小值为 $0 . 2 \ \mathrm { m m }$ ,最大值为40.2$\mathbf { m } \mathbf { m }$ 。从降雨分配上看,降雨量为 $< 2 \ \mathrm { m m } \ . 2 \sim 5 \ \mathrm { m m } \ .$ $5 \sim 1 0 \ \mathrm { m m } \setminus 1 0 \sim 2 0 \ \mathrm { m m }$ 和 $> 2 0 \ \mathrm { m m } \ 5$ 个降雨等级的降雨次数分别为5次、5次、2次、4次和2次；累计降雨分别为 $5 . 4 \ \mathrm { m m } , 1 6 . 4 \ \mathrm { m m } , 1 5 . 4 \ \mathrm { m m } , 5 1 . 8 \ \mathrm { m m }$ 和 $7 3 . 4 \ \mathrm { m m }$ ;分别占总降雨量的 $3 . 3 3 \% . 1 0 . 1 \%$ 、$9 . 4 8 \% . 3 1 . 9 \%$ 和 $4 5 . 2 \%$ 。降雨量 $> 5 \ \mathrm { m m }$ 的降雨次数为8次，占总观测降雨次数的 $44 \%$ ,降雨量占总降雨量的 $8 6 . 5 8 \%$ 。降雨强度分析表明,最小降雨强度为 $0 . 2 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ ,最大降雨强度为 $3 . 7 \ \mathrm { m m } \cdot$ $\mathbf { h } ^ { - 1 }$ ,其中 $< 1 \ \mathrm { m m } \ \cdot \ \mathrm { h } ^ { \ - 1 }$ 的降雨为9次,累计降雨量为 $2 1 . 6 \ \mathrm { m m }$ ，占总降雨量的 $1 3 . 3 \%$ 。降雨强度为$1 \sim 2 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 } \cdot 2 \sim 3 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 和 $3 \sim 4 \ \mathrm { m m } \cdot \mathrm { ~ h ~ } ^ { - 1 }$ 的降雨次数分别为4次，3次和2次，累计降雨量分别为 $3 2 . 4 \ \mathrm { m m } . 8 4 . 2 \ \mathrm { m m }$ 和 $2 4 . 2 \ \mathrm { m m }$ ，分别占总降雨量的 $1 9 . 9 5 \%$ （20 $, 5 1 . 8 5 \%$ 和 $1 4 . 9 \%$ 。
+
+# 2.2穿透雨发生特征的比较
+
+在2016年对18次降雨进行穿透雨测量，这些降雨事件中的每一个降雨特征以及两种灌木类型下的穿透雨量的统计属性如表1所示。散生中间锦鸡儿的穿透雨量为 $0 . 0 8 \sim 3 7 . 7 8 ~ \mathrm { m m }$ ，占总降雨量的
+
+![](images/12e7654c3db8d60834497df475c514fcc8cb629d2738deefe6cb51d498f75e5a.jpg)  
+图1试验期间降水分布情况  
+Fig.1Distribution of precipitation during the test
+
+表1试验期间的降水特征及中间锦鸡儿穿透雨特征的统计分布属性  
+Tab.1Statistical results of precipitation and throughfall of Caragana intermedia during the tes   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="3">降雨</td><td colspan="2">散生中间锦鸡儿</td><td colspan="2">行生中间锦鸡儿</td></tr><tr><td>降雨量/mm</td><td>降雨强度/(mm·h-1)</td><td>持续时间/min</td><td>穿透雨/mm</td><td>穿透雨百分比/%</td><td>穿透雨/mm</td><td>穿透雨百分比/%</td></tr><tr><td>平均值</td><td>9.0</td><td>1.4</td><td>347</td><td>7.42</td><td>70.47</td><td>7.54</td><td>76.67</td></tr><tr><td>最小值</td><td>0.2</td><td>0.2</td><td>60</td><td>0.08</td><td>25.62</td><td>0.15</td><td>25.38</td></tr><tr><td>最大值</td><td>40.2</td><td>3.7</td><td>840</td><td>37.78</td><td>96.46</td><td>36.13</td><td>96.09</td></tr><tr><td>Cv/%</td><td>124</td><td>80</td><td>69</td><td>138</td><td>26</td><td>131</td><td>21</td></tr></table></body></html>
+
+$2 5 . 6 2 \% \sim 9 6 . 4 6 \%$ ;行生中间锦鸡儿的穿透雨量为$0 . 1 5 \sim 3 6 . 1 3 ~ \mathrm { m m }$ ，占穿透雨总降雨量的 $2 5 . 3 8 \%$ \~$9 6 . 0 9 \%$ 。散生 $( 7 0 . 4 7 \%$ )和行生( $7 6 . 6 7 \%$ )中间锦鸡儿穿透雨百分比无显著性差异( $\cdot P > 0 . 0 5 )$ ，说明这种分布格局的差异对穿透雨形成影响不大。横向比较来看，中间锦鸡儿穿透雨百分比平均值高于地中海灌木的平均值( $49 \%$ ）[21],与美国北部的奇瓦瓦沙漠中的苜蓿( $( 6 4 . 7 \%$ )和腺牧豆树( $( 6 2 . 8 \%$ )类似[22-23],但是略低于墨西哥东北山毛榉( $( 7 8 . 1 \%$ ）[24]
+
+# 2.3穿透雨对降水变化的响应
+
+行生和散生中间锦鸡儿穿透雨量与降雨量（图2a）、持续时间(图2c)具有极显著的线性关系（ $P <$ 0.01），而与降雨强度的关系相对较弱(图2e)；穿透雨的百分比与降雨量、降雨强度(图2f)和持续时间(图2d)都遵循幂函数分布，随着降雨量增加，穿透雨百分比变化逐渐趋于稳定。这与Zhang 等[1关于中间锦鸡儿的研究结果基本一致，反映了随降水增强，冠层对雨水的遮挡能力减弱，大部分雨水可以
+
+A散生中间锦鸡儿 $0$ 行生中间锦鸡儿50 (a) 110 (b) y=56.09x0.125,R²=0.273,P=0.096  
+u/鲁奥 40 y=0.912x-0.815, A 本 亚 车30 R²=0.991,P<0.001 金 7605020 40 鑫 y=68.89x0.049, $R ^ { 2 } { = } 0 . 0 4 9$ ,P=0.46710 果 yz=0.76x-0.3640 穿 30201 盒售0 010 20 30 40 50 10 20 30 40 50降雨量/mm 降雨量/mm50 (c) 120 (d)  
+/里 4030 y=0.033x-4.121, 本 美R²=0.601,P<0.001 本 6040 本 套  
+穿 20 至100 发 皖 宝畫 y=0.032x-3.581, R²=0.605,P<0.001 到 200 本 y=24.75x0179,R²=0193,鑫200 400 600 800 1000 200 400 600 800 1000降雨持续时间/min 降雨持续时间/min50 (e) 120 (f) y=74.21x06,R²=0.033,P0.467  
+u/鲁里 4030 （204号 $y _ { 1 } { = } 6 . 1 6 8 x { - } 0 . 9 7 3 ,$ 2 香 吧 本 亚 重 亚 鑫 交 金 立20 R²=0.448,P=0.001 管4010 鑫 拿 会 會 牌 穿 20 盒 y=67.70x0.149, $R ^ { 2 } { = } 0 . 1 6 3$ $P { = } 0 . 0 9 6$ （204号0 A 营 01 2 3 4 1 2 3 4降雨强度/ ${ \bf ( m m \cdot h ^ { - 1 } } .$ ） 降雨强度/ $( \mathbf { m } \mathbf { m } \cdot \mathbf { h } ^ { - 1 } )$
+
+穿透冠层直达地面[25]；对于较小的降雨事件，大部分降雨被冠层拦截，自由通过的雨水是穿透雨的最主要部分。而在冠层拦截雨水量达到饱和后，随着总降水量的增加，开始释放雨水量（从树叶和树枝滴落）[26]
+
+# 2.4灌丛穿透雨的空间分布特征
+
+灌丛穿透雨百分比与穿透雨距灌丛基部距离之间的关系可以用线性函数来描述（图3）。从灌木基部依次向外，收集到的穿透雨依次为穿透雨1、穿透雨2和穿透雨3。对于散生中间锦鸡儿来说（图3a)，随着穿透雨百分比距离基部距离的增大，6个灌丛（ $\mathrm { [ B 1 \sim B 6 ) }$ 穿透雨百分比均明显增大，即穿透雨1穿透雨2穿透雨3。线性拟合函数斜率最大值为0.82，最小值为0.20，均值为0.39，斜率越大，说明穿透雨增大的趋势越明显。行生中间锦鸡儿（图3b)随着穿透雨百分比距离基部的距离的增大，6个灌丛( $\mathrm { A l } \sim \mathrm { A } 6 \$ 中有4个穿透雨百分比均明显增大，即穿透雨1穿透雨2穿透雨3，其他两个变化不大。4个穿透雨增大的灌木中，斜率的最大值为0.53，最小值为0.12，均值为0.36，低于散生中间锦鸡儿。这与Li等[2研究结果基本一致，两个变化不明显的灌丛则与Keim 等[27]的研究结果近似;Fan 等[20]的结果甚至是一种反向的线性变化趋势。灌丛穿透雨一维线性分布特征可能是灌木种的特异性，与灌木种所特有的冠层形态有很大关系。
+
+基于克里金插值的方法研究了穿透雨百分比在灌丛的二维空间分布规律（图4和图5；分别以B4和A2灌丛为例)。散生中间锦鸡儿（图4）“旱区”多集中出现在灌木的基部，降雨量为 $6 \ \mathrm { m m }$ 和12mm时最为明显，“雨极”则多出现在冠层外围或无显著雨极发生之处；整体表现出从内到外穿透雨百分比渐次增加的格局。行生中间锦鸡儿(图5)雨极和旱区的分布相对较为复杂，局部旱区和雨极多伴生交错分布，但是随降水量变化并未出现显著的集
+
+![](images/e4ee5931accd2bb8e6beca56d3596d03beb2b85aed5e6121dc9020294cd5b1fe.jpg)  
+Fig.3The change of thoughfall percentage with the distance to shrub base
+
+![](images/c8cd33be0b351c62a3b8d281ebacee53cd34ffe12a2dbe0b608476c2b617210f.jpg)  
+图3穿透雨随距基部距离远近的变化  
+图4散生中间锦鸡儿灌丛穿透雨百分比空间分布(以B4为例)
+
+主：颜色较深的区域看做穿透雨百分比极少的区域，称为"旱区”,颜色较浅的区域看做穿透雨百分比集中的区域，称为“雨极”,字母 $P$ 表示降雨量（ $\cdot \mathrm { m m } )$ ，红色太阳标记代表灌丛中心。下同。
+
+Fig.4Spatial distributionof throughfallpercentageunder scatered Caragana intermedia plants（took B4asanexample)
+
+![](images/b0f9e9fa7edc2395eaa3bbae7b29589ddc614b8e0d9909e1f4eba882d161a704.jpg)  
+图5行生中间锦鸡儿灌丛穿透雨百分比空间分布(以A2为例)  
+Fig.5Spatial distribution of throughfallpercentage under row Caragana intermedia plants (took A2asan example)
+
+中分布或趋向性变化规律。从有限的研究案例比较看,散生中间锦鸡儿与沙蒿[16],行生中间锦鸡儿与中间锦鸡儿[16的空间分布格局分别具有一定的相似性。
+
+# 3结论与展望
+
+总体而言，行生或散生的生长格局对中间锦鸡儿灌丛冠层穿透雨产生的影响不明显，但是对其冠层下的分布有显著的影响。散生和行生中间锦鸡儿穿透雨的一般统计分布特征无显著区别，降雨量、降雨历时、降雨强度和穿透雨量都具有高度显著的线性关系，穿透雨百分比与降水特征参数以幂函数拟合为主。穿透雨具有明显的灌丛空间异质性分布特征。穿透雨百分比随距灌丛基部距离的增加而线性增加。“旱区”集中出现在散生中间锦鸡儿灌木的基部，向外穿透雨百分比逐步提高;行生中间锦鸡儿分布更为复杂，甚至出现多个“旱区”和“雨极”镶嵌分布的情况，规律性不明显。考虑到穿透雨对灌丛土壤水分格局与有效性的影响，行生中间锦鸡儿冠层开放度的提高，总体上应该有利于降水对土壤水的补充。鉴于其空间格局的复杂性以及考虑潜在蒸发的提高，其环境效应还有待进一步研究。
+
+# 参考文献(References）:
+
+[1]Rietkerk M,Van de Koppel J.Regular pattern formation in ral ecosystems[J].TrendsinEcology and Evolution,2008,23(3）:169 -175.   
+[2] 杨新国,赵伟,陈林,等.荒漠草原人工中间锦鸡儿林土壤与植被 的演变特征[J].生态环境学报,2015,24（4）：590-594.[Yang Xinguo,Zhao Wei,Chen Lin,et al.Evolution characteristics of soil and vegetation in artificial Caragana forest in desert steppe[J].Ecology and Environment Sciences,2015,24(4）:590 -594.]   
+[3]宋乃平,杨明秀,王磊,等.荒漠草原区人工中间锦鸡儿林土壤 水分周年动态变化[J].生态学杂志，2014，33（10）：2618- 2 624.[Song Naiping,Yang Mingxiu,Wang Lei,et al.Annual dynamic change of soil moisture in artificial Caragana forest in desert steppe region[J].Chinese Journal of Ecology,2014,33（10）： 2 618 -2 624.]   
+[4] 翟德苹,陈林,杨明秀,等.荒漠草原不同生长年限中间锦鸡儿 灌丛枝系构型特征[J].浙江大学学报（农业与生命科学版）， 2015,41(3）:340-348.[Zhai Deping,Chen Lin,Yang Mingxiu, etal.Conformation characteristics of Caragana intermediain different growth years of desert steppe[J]. Journal of ZhejiangUniversity（Agriculture andLife Sciences）,2015,41(3）:340-348.]   
+[5]Li XY,Hu X,Zhang Z H,et al.Shrub hydropedology:Preferential water availability to deep soil layer[J].Vadose Zone Journal, 2013,12(4):1 742 -1 751.   
+[6]戴岳,郑新军,李彦,等.古尔班通古特沙漠梭梭和白梭梭树干 茎流特征[J].干旱区研究,2013,30(5）:867-872.[Dai Yue, Zheng Xinjun,Li Yan,etal.Stem flow of Haloxylon ammodendron and H. persicum in the gurbantonggut desert[J].Arid Zone Research,2013,30(5）:867-872.]   
+[7］田丽,王孝安,李晓炜.毛乌素沙地东南缘植被恢复中优势灌 木的保育作用分析[J].干旱区研究,2016,33（6)：1202- 1 208.[Tian Li,Wang Xiao'an,Li Xiaowei.Nurse effct of dominant shrubs in vegetation regeneration in the southeastern marginal Zone of the Mu Us sandland[J].Arid Zone Research,2016,33 (6):1 202 -1 208.]   
+[8]Johnson M S,Lehmann J.Double-funneling of trees:Stem flow and root-induced preferential flow[J].Ecoscience,2006,13（3）:324 -333.   
+[9]Navar J,Gonzalez JM,Gonzalez H. Gross precipitation and through fall chemistry in legume species planted in Northeastern Mexico [J].Plant and Soil,2009,318(1-2):15 -26.   
+[10]Zhang Y F,Wang XP,HuR,et al.Stem flow in two xerophytic shrubs and its significance to soil water and nutrient enrichment [J].Ecological Research,2013,28(4） :567 -579.   
+[11]Vega JA,Fernandez C,Fonturbel T.Throughfall,runoff and soil erosion after prescribed burning in gorse shrubland in Galicia(NW Spain)[J].Land Degradation& Development,2005,16（1）:37- 51.   
+[12]Van Stan JT,Pypker TG.A review and evaluation of forest canopy epiphyte roles in the partitioning and chemical alteration of precipi tation[J]. Science of the Total Environment,2015,536:813- 824.   
+[13]Dohnal M,Cerny T,Votrubova J,et al.Rainfall interception and spatial variability of throughfall in spruce stand[J]. Journal of Hydrology and Hydromechanics,2014,62(4）:277 -284.   
+[14]Tanaka N,Levia D,Igarashi Y,et al. Throughfall under a teak plantation in Thailand;A multifactorial analysis on the effects of canopy phenology and meteorological conditions[J]. International Journal of Biometeorology,2015,59(9）:1145-1 156.   
+[15]Van Stan JT,Gay TE,Lewis E S.Use of multiple correspondence analysis(MCA）to identify interactive meteorological conditions affecting relative throughfall[J]. Journal of Hydrology,2016,533： 4D∠-400.   
+[16]Zhang YF,Wang XP,Hu R,et al.Throughfalland its spatial variability beneath xerophytic shrub canopies within water-limited arid desert ecosystems[J]. Journal of Hydrology,2016,539:406 -416.   
+[17]Zhang YF,Wang X P,Hu R,et al.Meteorological influences on process-based spatial-temporal pattern of throughfall of a xerophytic shrub in arid lands of Northern China[J].Science of the Total Environment,2018,619 -620:1 003-1 013.   
+[18]Levia DF,Frost E E.Variability of throughfall volume and solute inputs in wooded ecosystems[J].Progress in Physical Geography, 2006,30(5):605 -632.   
+[19]Rosier C L,Van Stan JT,Moore L D,et al.Forest canopy structural controls over throughfall afect soil microbial community structure in an epiphyte-laden maritime oak stand[J].Ecohydrology, 2016,8(8):1 459 -1 470.   
+[20]Fan JL,Oestergaard K T,Guyot A,et al. Spatial variability of throughfall and stemflow in an exotic pine plantation of subtropical coastal Australia[J].Hydrology Process,2015,29(5）:793-804.   
+[21]Llorens P,Domingo F.Rainfall partitioning by vegetation under Mediterranean conditions:A review of studies in Europe[J]. Journal of Hydrology,2007,335(1-2):37-54.   
+[22]Martinez-Meza E,Whitford W G.Stem flow,throughfall and channelization of stem flow by roots in three Chihuahuan desert shrubs [J].Journal of Arid Environment,1996,32(3）:271-287.   
+[23]Whitford W G,Anderson J,Rice PM.Stem flow contribution to the fertile island efect in creosotebush,Larrea tridentata[J].Journal of Arid Environment,1997,35(3）:451-457.   
+[24]Navar J,Charles F,Jurado E.Spatial variations of interception loss components by Tamaulipan thornscrub in northeastern Mexico[J]. Forest Ecology and Management,1999,124(2-3）:231-239.   
+[25]Carlyle-Moses D E,Laureano JSF,Price A G.Throughfall and throughfall spatial variability in Madrean oak forest communities of northeastern Mexico[J].Journal of Hydrology,2004,297(1-4）： 124 -135.   
+[26]Rutter A,Kershaw K,Robins P,et al.A predictive model of rainfall interception in forests,1.Derivation of the model from observations in a plantation of Corsican pine[J].Agricultural Meteorology, 1972,9:367 - 384.   
+[27]Keim R F,Skaugse A E,Weiler M.Temporal persistence of spatial patterns in throughfall[J]. Journal of Hydrology,2005,314（1- 4) :263 - 274.
+
+# Occurrence and Distribution of Throughfall under Caragana intermedia Canopy in Desert Steppe
+
+YANG Xin-guo $^ { 1 , 2 , 3 }$ ， GU Jun-long1,23，WANG Xing1,.3， CHEN Lin1,2,3， WANG Lei1,2.3 SONG Nai-ping1,2.3， QU Wen-jie1,2.3 (1． Northwest National Key Laboratory Breeding Base for Land Degradation and Ecological Restoration, Ningxia University,Yinchuan 75o021,Ningxia,China； 2.Key Laboratory of Restoration and Reconstruction of Degraded Ecosystems,Ministry of Education, Ningxia University,Yinchuan 750021,Ningxia,China; 3．Joint Research Center for Ecological and Biological Resources Development in Western China, Ningxia University,Yinchuan 75o021,Ningxia,China)
+
+Abstract：The rainfall redistribution through canopy isof important eco-hydrological significance for thesurvival of shrubs.The Caragana intermedia plantation in large area indesert steppe is mostly zonal,and the growth mode and morphological characteristics of natural sporadic $\boldsymbol { C }$ .intermedia plants are quite different.Whether this difference affecting the distribution of precipitation through canopy is necessary to be further verified.The eco-hydrological mechanism of vegetation stability of adult $C$ .intermedia plantation in desert steppe should be further understood.The occurrence and distribution of throughfall under $C$ .intermedia canopy in two different growth patterns (scatered and row distribution）were compared and analyzed by monitoring precipitation redistribution in18 different rainfall events in 2O16. The results showed that the throughfall percentage of scattered $\boldsymbol { C }$ . intermedia plants was $2 5 . 6 \% - 9 6 . 5 \%$ ,that of row ones was $2 5 . 4 \% - 9 6 . 1 \%$ ,and the coefficients of variation was $23 \%$ and $19 \%$ respectively. The mean values of throughfall were similar and for $7 . 5 5 ~ \mathrm { m m }$ and $7 . 4 0 \ \mathrm { m m }$ respectively. Rainfall,rainfallduration,andrainfallintensityhadaverysignificantlinearrelationshipwith thoughfalldepth,buttherelationship between throughfall percentage and characteristic parameters of precipitation was complex,which was dominated by power function,and the fitting significance of scattered $\boldsymbol { C }$ ．intermedia plants was better than that of row ones. Thedistribution of troughfall undercanopywas spatial heterogeneityGenerally,throughfall percentage was increased linearly with the increase of distance from shrub base.The“dry area”of throughfall was concentratedat the base of scattered $\boldsymbol { C }$ . intermedia plants,however,the distribution of row ones was more complex. Mosaic distribution of dry areas and rain pole was found for row $\boldsymbol { C }$ .intermedia plants. The different growth patterns of $C$ . intermediaplants didnot significantlyaffect the throughfalldepth,butthespatial distributionpattern of throughfall under canopy was significantlychanged,which might further afect the processof theconversion from precipitation to soil water.
+
+Key words:throughfall；Caragana intermedia；spatial heterogeneity；rainfall；desert steppe;； Yanchi county

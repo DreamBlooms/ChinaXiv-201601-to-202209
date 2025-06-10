@@ -1,0 +1,433 @@
+[
+    {
+        "type": "text",
+        "text": "高效构建卵清白蛋白scFv噬菌体文库及其筛选",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郎巧利，余琳，何麒麟，葛良鹏\\*\\*，杨希\\*\\*（重庆市畜牧科学院，农业部养猪科学重点实验室，养猪科学重庆市市级重点实验室，重庆市医用动物资源的开发与利用工程计算研究中心，重庆402460)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要目的：建立一种高效噬菌体文库构建方法，获得抗鸡卵清蛋白（ovalbumin,OVA）的单链抗体（scFv）噬菌体展示文库，筛选鉴定获得OVA单链抗体。方法：用OVA蛋白免疫Balb/C 小鼠，选取血清抗体效价高的小鼠提取脾脏 RNA，利用RT-PCR方法扩增获得小鼠重链和小鼠轻链基因。通过无缝连接酶一步将小鼠重链基因、轻链基因和linkerDNA连接起来，插入噬菌体表达载体中，构建OVA scFv噬菌体展示文库。测定文库容量，对文库进行富集筛选，ELISA 鉴定阳性克隆，测序后构建真核表达载体，转入Expi-CHO 悬浮细胞进行真核表达，利用Westernblot进行鉴定。结果：成功获得库容量为 $1 . 2 { \\times } 1 0 ^ { 7 } \\mathrm { c f u }$ 的OVA scFv噬菌体展示文库，并从中筛选出8个阳性克隆，选取效价最高的2号克隆，在 Expi-CHO 悬浮细胞中表达获得可溶性抗体。结论：本研究建立了一种高效构建scFv噬菌体文库的方法，筛选获得高结合活性的OVA单链抗体，并成功进行了真核表达，为OVAELISA检测试剂盒的研制奠定了基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：鸡卵清蛋白；scFv；噬菌体展示；真核表达",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Construction and Screening of a Phage Display Library of Single Chain Fv Antibody Efficiently from Mouse Immunized with ovalbumin ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LANG Qiao-li, YU Lin, He Qi-lin, Ge Liang-peng, Yang Xi (Chongqing Academy of Animal Sciences,Key Laboratory of Pig Industry Sciences, Chongqing research center for the development and utilization of medical animal resources, Chongqing, 402460, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Objective: to establish an efficient method for construction of a Phage Display Library of Single Chain Fv (scFv) Antibody Efficiently from Mouse Immunized with ovalbumin (OVA) and obtain anti-OVA single chain antibody. Methods: Balb/C mice were immunized with OVA.The heavy chain and light chain variable region gene of immunoglobulin were amplified from mRNA of spleen cells of mice with high serum OVA antibody titer by RT-PCR and joined by a DNA linker with Seamless Cloning. These fragments were inserted into phage expression vector to construct a phage display library. After measurement of library capacity,affinity selection and ELISA analysis were run to find high affinity scFv. Its protein was expressed by Epxi-CHO cells and identified by western blot analysis. Results: The OVA scFv phage display library was constructed and its library capacity was $1 . 2 \\mathrm { ~ x ~ } 1 0 ^ { 7 }$ cfu.Eight high affinity scFv were screened from this library. The $2 \\#$ clone with the highest affinity was cloned into the eukaryotic expression vector and expressed in expi-CHO cells.The western blot analysis showed that it is a soluble antibody.Conclusion: This study established a highly efficient method for construction of a scFv phage library and generated a high affinity OVA scFv antibody. These laid a good foundation for the development of the research of OVA ELISA analysis kit. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Ovalbumin (OVA); Single Chain Fv (scFv) Antibody; Phage Display; Eukaryotic Expression ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "抗体是是进行临床医学、分子生物学和药学研究的重要工具之一[I]。抗体制备技术经过了三个阶段的发展，分别是多克隆抗体阶段、单克隆抗体阶段和基因工程抗体阶段。其中单链抗体（single chain antibody fragment，scFv）是基因工程抗体的代表，是保留抗体活性的最小结构单位，由抗体重链可变区通过短肽和抗体轻链可变区连接而成。相较于完整的抗体，它具有抗原性弱、穿透力强、分子量小，便于基因工程操作，基本保留对抗原的亲和活性等优点[2]。噬菌体展示技术，是利用 PCR 扩增抗体的的可变区基因，将此可变区基因与噬菌体外壳蛋白基因连接，然后以融合蛋白的方式展示到噬菌体的表面，从而实现基因的克隆化。该技术现已是一种应用十分广泛的蛋白和多肽筛选技术，常用于微生物诊断和治疗、表位标记和筛选、生物医药和抗体工艺的开发等领域[3-6]。鸡卵清蛋白（ovalbumin,OVA）是鸡卵蛋白的主要蛋白质，分子量约 $4 4 . 5 \\mathrm { k D } ^ { [ 7 , 8 ] }$ ，属于大分子蛋白，微量便可能引起过敏反应，是流感疫苗接种反应的检测指标，也可作为鸡蛋过敏原的一个检测指标。目前国内有针对流感疫苗的卵清蛋白ELISA 检测试剂盒，但其特异性、灵敏度和准确性都比国外ELISA检测试剂盒差。而国内食品中卵清蛋白 ELISA检测试剂盒几乎没有，基本依赖进口。本研究旨在利用噬菌体展示技术构建 scFv抗体文库，并筛选出抗OVA的单链抗体，进行真核表达，为OVA的ELISA检测试剂盒的研制奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1实验动物及抗原  \n4\\~6 周龄雄性Balb/C 小鼠购自成都达硕实验动物有限公司，OVA 购自 sigma。  \n1.1.2质粒、噬菌体及菌种  \n噬菌粒载体pCANTAB5e、辅助噬菌体M13K07、融合表达宿主菌TG1均购自北京宝科维食安生物技术有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.3主要试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SV Total RNA Isolation System 购自 promega 公司;RevertAid First Strand cDNA Synthesis Kit购自Thermo Scientific；凝胶回收试剂盒购自qiagen 公司；质粒提取试剂盒购自全式金公司；In-Fusion HD Cloning kits、T4 连接酶、Taq DNA 聚合酶、DNA 限制性内切酶、DNA Marker均购自TaKaRa公司；HRP标记鼠源抗M13单克隆抗体购自GE 公司；HRP 标记的羊抗鼠IgG 抗体、抗His 标签的鼠单抗均购自abcam 公司；Expi-cho 表达系统、抗鼠IgG（ $_ \\mathrm { H + L }$ ）的荧光二抗均购自 invitrogen。胰蛋白陈（Tryptone）和酵母提取物（Yeast extract)购自",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OXOID；SOB、 $2 { \\times } \\mathrm { Y T }$ 培养基按照《分子克隆》配制，各培养中中含葡萄糖（Glucose，G)的浓度为 $1 0 0 \\mathrm { m m o l / L }$ ，氨苄青霉素（Amplicillin，A）浓度为 $1 0 0 \\mu \\mathrm { g / m l }$ ，卡那霉素（Kanamycin，K）为 $5 0 \\mu \\mathrm { g / m l }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1动物免疫",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取6周龄的Balb/C 雄性小鼠，免疫OVA蛋白 $2 0 0 \\mu \\mathrm { g } /$ 只/次，免疫4次，每次间隔两周，设置注射PBS 缓冲液的阴性小鼠，首次免疫使用弗氏完全佐剂皮下注射，加强免疫使用弗氏不完全佐剂进行腹腔注射。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2ELISA检测小鼠血清效价 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取第四次免疫两周后小鼠的尾静脉血， $3 0 0 0 \\mathrm { r p m }$ 离心 $2 0 \\mathrm { { m i n } }$ ，吸出上清即血清用于ELISA抗体效价检测。用包被液稀释OVA（ $2 \\mu \\mathrm { g / m l }$ ），取 $1 0 0 \\mu \\mathrm { L } /$ 孔加入96孔板中， $4 ^ { \\circ } \\mathrm { C }$ 过夜。将包被好的96孔板用洗涤液洗3次后，加入 $1 \\% \\mathrm { B S A }$ 封闭2h。再用洗涤液洗3次后加入稀释好的免疫后小鼠血清（1：400，1：800，1：1600，1：3200，1：6400，1：12800，1:25600)，同时以未免疫的小鼠血清作为阴性对照， $3 7 ^ { \\circ } \\mathrm { C }$ 孵育1h。用洗涤液洗3次后再加入HRP标记的羊抗鼠IgG抗体（1：5000 稀释）， $3 7 ^ { \\circ } \\mathrm { C }$ 孵育1h。用洗涤液洗3次后加入基联苯胺（TMB)显色 $1 5 \\mathrm { m i n }$ ，再加入终止液，后用酶标仪检测波长 $4 5 0 \\mathrm { n m }$ 处的吸光值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3提取小鼠脾脏总RNA及RT-PCR ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取3只血清效价高于1：10000的免疫小鼠，分离脾淋巴细胞，按RNA提取试剂盒说明书提取脾脏总RNA。利用反转录试剂盒，以Oligo (dT)18 Primer 和随机引物为引物进行反转录，获得cDNA。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$1 . 2 . 4 \\ : \\mathrm { P C R }$ 克隆VH和 $\\mathrm { v } _ { \\kappa }$ 基因",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设计VH和Vκ兼并引物以及linker并在两端加上酶切位点和同源臂，引物和linker 设计如表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed90f71aea6bf2e1935af70e7303a0bf67ea6d9de8bdbf8bfc5fd69f821fc29e.jpg",
+        "table_caption": [
+            "表1引物序列表",
+            "Table1List of primers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Name</td><td>Sequence</td></tr><tr><td>VH-For</td><td>GGCCAGCCGGCC1ATGGCCCAGGTSMARCTGCAGSAGTCWGG</td></tr><tr><td>VH-Rev</td><td>TCCACCTGAGGAGA2CGGTGACCGTGGTCCCTTGGCCCC</td></tr><tr><td>Linker</td><td>GTCTCCTCAGGTGGAGGCGGTTCAGGCGGAGGTGGCTCTGGCGGTGGCGGATCGGA CATCGAGCTC</td></tr><tr><td>Vk-For</td><td>TCGGACATCGAGCTCGACATTGAGCTCACCCAGTCTCCA</td></tr><tr><td>Vk1-</td><td></td></tr><tr><td>Rev</td><td>GCGGCGCCCGTTTGATTTCCAGCTTGGTGCC</td></tr><tr><td>Vk2-</td><td>GCGGCGCCCGTTTTATTTCCAGCTTGGTCCC</td></tr><tr><td>Rev</td><td></td></tr><tr><td>Vk4-</td><td></td></tr><tr><td>Rev</td><td>GCGGCGCCCGTTTTATTTCCAACTTTGTCCC</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Note:1):Underline represent restriction endonucleases cleavage sites;2): Bold represent Homology arm ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以cDNA为模板,利用VH-For和VH-Rev 引物如下进行PCR克隆VH基因,利用 $\\mathrm { v } _ { \\kappa }$ -For和Vk-Rev-mix（将 $\\mathrm { V } \\kappa 1 , \\mathrm { V } \\kappa 2 , \\mathrm { V } \\kappa 4 , \\mathrm { V } \\kappa 5$ 以1:1:1:1 混合作为 $\\mathrm { v } _ { \\kappa }$ -Rev-mix）引物进行PCR克隆 $\\mathrm { v } _ { \\kappa }$ 基因。PCR反应程序为： $9 4 ^ { \\circ } \\mathrm { C }$ 预变性 $2 \\mathrm { m i n }$ ，继以 $9 4 ^ { \\circ } \\mathrm { C }$ 变性30s， $5 5 \\mathrm { ^ \\circ C }$ 退火 $3 0 \\mathrm { s }$ ， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 45s，共35个循环。取 ${ 5 } \\mu \\updownarrow$ PCR产物在 $1 . 5 \\%$ 的琼脂糖凝胶中电泳观察。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5scFv噬菌体文库的构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将克隆的VH和 $\\mathrm { v } _ { \\kappa }$ 基因切胶回收，与合成的linker序列按试剂盒方法进行无缝连接得到 scFv序列。连接完成后，以接产物为模板，VH-For和 $\\mathrm { v } _ { \\kappa } .$ -Rev-mix为引物扩增scFv片段，切胶回收。NotI和SfiI酶切scFv序列和pCANTAB5e质粒，用 $\\mathrm { T } _ { 4 }$ DNA连接酶连接，获得重组质粒（图1）。将获得的重组质粒通过电穿孔的方法转入TG1细菌中，用 $2 { \\times } \\mathrm { Y T }$ 培养液做梯度倍比稀释，涂布 SOB-AG平板， $3 0 ^ { \\circ } \\mathrm { C }$ 培养过夜。计数平板上的单菌落数，计算库容。剩余的转化后培养的菌液，加入 $80 \\%$ 终浓度灭菌甘油， $- 8 0 ^ { \\circ } \\mathrm { C }$ 冻存，此即为初级抗体库。随机挑取SOB-AG平板上单克隆15个，提取质粒DNA，以VH-For和 $\\mathrm { v } _ { \\kappa }$ -Rev-mix为引物PCR 扩增scFv基因，初步鉴定阳性克隆。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e11604634350da4032fa57daeca29a5142a34c7750d0e35f517ea256b02087a.jpg",
+        "img_caption": [
+            "图1.scFv噬菌体载体的构建示意图",
+            "Fig.1 Construction of scFv phagemid vector "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.6scFv噬菌体展示文库的筛选 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用 M13K07感染初级抗体库，培养感染细菌，离心取上清收集获得重组噬菌体抗体。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "抗原包被过夜，将获得的噬菌体抗体上清按照MPBS（ $2 \\%$ 脱脂乳PBS）：上清 ${ \\cdot = } 2 { : } 3$ 的比例将 MPBS和噬菌体上清干扰化处理 $2 0 \\mathrm { m i n }$ ，加入封闭好的免疫管中，轻摇温育 $3 0 \\mathrm { m i n }$ 后，再静置温育1.5h，用0.2N甘氨酸 ${ \\mathrm { - H c l } } { \\mathrm { p H } } 2 . 5$ 进行洗脱，加入等体积Tris-HclpH7.4中和洗脱液。后加入宿主菌TG1（ $\\mathrm { O D } _ { 6 0 0 } { = } 0 . 5$ ），振荡培养1h，加入 $4 { \\times } 1 0 ^ { 1 0 } \\mathrm { M } 1 3 \\mathrm { K } 0 7$ 噬菌体，静置温育 $3 0 \\mathrm { m i n }$ 后，再振荡培养 $3 0 \\mathrm { m i n }$ ，离心后用 $2 { \\times } \\mathrm { Y T - A K }$ 轻悬细胞沉淀， $3 0 ^ { \\circ } \\mathrm { C }$ 培养过夜，刮取菌落，重新扩增表达制备噬菌体抗体再进行下一轮的筛选，同样方法筛选至少3轮。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.7scFv 噬菌体文库的初步鉴定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随机挑取96个最终获得的抗体库单克隆菌落培养过夜，以1：100 比例稀释至新鲜含有$2 . 5 { \\times } 1 0 ^ { 1 0 }$ pfu/ml M13K07的 $2 { \\times } \\mathrm { Y T - A G }$ 中， $3 7 ^ { \\circ } \\mathrm { C }$ 振荡培养2h，离心弃上清，沉淀用 $2 \\times$ YT-AK培养液重悬， $3 7 ^ { \\circ } \\mathrm { C }$ 培养过夜。离心取上清即重组抗体待用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "包被原过夜，设立阳性对照和阴性对照，阳性对照为M13K07。一抗为提前混匀的重组抗体（ $1 6 0 \\mu \\mathrm { l }$ 重组抗体 $+ 4 0 \\mu \\mathrm { l }$ MPBS），阴性对照加等量的封闭液， $3 7 \\ \\mathrm { { ^ circ C } }$ 结合反应 2h。二抗为酶标抗M13抗体， $3 7 \\ \\mathrm { { ^ circ C } }$ 孵育反应1h,TMB 显色，加入终止液，置于酶标仪检测波长 $4 5 0 \\mathrm { n m }$ 处读取吸光值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.8构建真核表达载体Epxi-CHO表达",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将从噬菌体文库筛选出与抗原结合能力最强的单克隆序列构建入pcDNA3.4真核表达载体。提取表达质粒，酶切鉴定后通过瞬时转染方法转染Epxi-CHO 细胞，转染后1d加入增强剂和补料，转染后7d 收取培养基，收集上清进行westem blot 鉴定单链抗体的表达。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.9 Western blot ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将Epxi-CHO 细胞表达上清进行 SDS-PAGE 电泳并电转移至PVDF，用 $5 \\%$ 脱脂奶粉室温封闭1h，洗涤后，再用1：10000 稀释Alexa Fluor $^ \\mathrm { T M } 6 8 0$ donkey anti-mouse IgG ( $\\cdot \\mathrm { H } { + } \\mathrm { L }$ ）室温孵育1h后显色。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1克隆VH和 $\\mathbf { V } \\mathbf { \\kappa }$ 基因 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "取免疫血清效价在1：10000以上的3只小鼠，脱颈处死，取脾脏，提取总RNA，反转录为cDNA后，PCR 扩增VH 和 $\\mathrm { v } _ { \\kappa }$ 基因。获得大小分别约为390bp 和350bp 的VH和 $\\mathrm { v } _ { \\kappa }$ 基因（图2），与实验设计一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d6dbbb32a91b50a25226aabc8b3679afa4594d01f9dd13692ac3e227c2e4e74.jpg",
+        "img_caption": [
+            "图2.VH和VK的PCR扩增结果 Fig.2PCR amplificationofVH&Vk gene "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M:DL2000 maker; 1:PCR product of VH; 2:PCR product of Vk ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2scFv基因的连接和扩增 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将纯化后的VH、Vk和linker混合无缝连接后，PCR扩增获得大量scFv条带（图3），大小约为 $7 8 0 \\mathrm { { b p } }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/acdaf3bc6e314c8be0ef7405f3ec7eef4ecc86953160eafe67d48d06c0c48ef5.jpg",
+        "img_caption": [
+            "图3.scFv基因PCR扩增结果 Fig.3PCR amplification of scFv gene "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M:DL2000 maker;1:PCRproduct of scFv ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3噬菌体文库的构建 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将 ScFv与pCANTAB5e质粒酶切连接，电转入制备好的感受态TG1细菌中，涂布于2×YT-AG平板，计数抗体库容量为 $1 . 2 { \\times } 1 0 ^ { 7 } \\mathrm { c f u / m l }$ 。随机挑取SOB-AG平板上单克隆15个，提取质粒DNA，PCR扩增 scFv基因，鉴定15个克隆均为阳性克隆，重组率达到 $100 \\%$ （图4）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a55b38c7db4638f0639ef72d9c3a0caaf13e09880fde5a5506c15c270d6b5b88.jpg",
+        "img_caption": [
+            "图4.单克隆的PCR鉴定结果",
+            "Fig.4Identificationof individual recombinantclonesbyPCR "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "M:DL5oo0 maker; 1\\~15: individual recombinant clones ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4scFv噬菌体文库的富集筛选 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对噬菌体 scFv抗体文库进行4轮富集筛选，每轮对洗脱下来的噬菌体颗粒进行了滴度测定，取振荡培养的菌液，用 $2 { \\times } \\mathrm { Y T }$ 培养基做梯度倍比稀释，取稀释液涂布 SOBAG平板，$3 0 \\mathrm { ~ \\textdegree ~ }$ 培养过夜，计算菌落形成单位(cfu)，即为淘筛步骤的噬菌体量，计算输出率（输出/输入）。结果显示最后两轮筛选输出率均有上升，较之前有显著的提高，说明噬菌体文库得到了富集(表1)。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/cb557d02a19261b5470b514996feb88e4ecb4902330c8354c2ddf3ac59b6a025.jpg",
+        "table_caption": [
+            "表1对特异性噬菌体抗体文库的富集筛选 ",
+            "Table 1Enrichment of phage antibody library by panning "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Rounds of panning</td><td> Input phage（CFU）</td><td>Output phage（CFU）</td><td>Recovery rating</td></tr><tr><td>1</td><td>3×1012</td><td>1.2×106</td><td>4×10-7</td></tr><tr><td>2</td><td>2.5×1012</td><td>3.5×105</td><td>1.4×10-7</td></tr><tr><td>3</td><td>0.7×1012</td><td>1.2×105</td><td>1.7×10-7</td></tr><tr><td>4</td><td>10×1012</td><td>7.5×106</td><td>7.5×10-7</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5特异性噬菌体抗体的ELISA鉴定",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过phageELISA最终筛选出8个与抗原有结合活性的阳性克隆（图4），且与阴性没有结合活性，送检测序。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/29f556c250c702cc95c273e98333ad57b241c88311a488a120ab4a82b3db2281.jpg",
+        "img_caption": [
+            "图5.ELISA筛选特异性噬菌体抗体"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利用Igblasti数据库对筛选获得的阳性克隆可变区基因序列进行比对，发现其轻链可变区分别属于 $\\mathrm { v } \\kappa \\mathrm { \\mathrm { U } }$ 、VκI亚群，而重链可变区则属于VHI亚群。选取PhageELISA中检测到结合能力最高的2号克隆构建入真核表达载体pcDNA3.4中，在CHO 细胞中瞬时表达。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.6筛选抗体在Epxi-CHO 细胞中的表达及westernblot鉴定",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结果显示表达载体细胞上清检测到 $3 0 \\mathrm { { k D } }$ 左右的目的条带，而空载体细胞上清没有检测到条带（图6），表明构建的分泌性单链抗体载体成功进行了真核表达。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/11e24a27fd9ee10044ab2cf57d33206f65b498b062078a6cd9576f53b7c5a95a.jpg",
+        "img_caption": [
+            "Fig.5ELISA Selection of phage antibodiesspecific ",
+            "图6.Western blotFig.6Westernblot"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1:Transfection of cell supernatant； 2：Unloaded somatic supernatant",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "噬菌体展示技术是目前在改造和筛选功能性多肽或蛋白质方面应用最广泛的技术方法之一[9.1]。该技术的优点是能够将表型和基因型、噬菌体的可扩展性与分子的结合活性直接联系起来。与单克隆抗体制备其它技术相比该方法简单、快速、高效，不需要杂交瘤以及复杂的基因工程技术，展示的拷贝数高，更能筛选到高亲和力和特异性的抗体，抗体的筛选范围非常广，采用不同的抗原进行筛选，可同时获得不同的抗体[12]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究从OVA免疫的小鼠中获得了抗体可变区VH 和 $\\mathrm { v } _ { \\kappa }$ 的基因片段，将其与LinkerDNA 进行无缝连接，一步获得 scFv片段。相比传统的直接将重链可变区和轻链可变区分别建库进行表达筛选获得库容量更大，也省去了复杂的重叠延伸 PCR(OE-PCR,overlapextension PCR）过程，无需设计OE-PCR引物，只需在扩增抗体可变区的引物和合成的Linker上设计一段同源臂便可直接将VH、Vκ和Linker无缝连接为 ScFv片段，大大的提高了建库的效率。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于小鼠轻链可变区 $9 5 \\%$ 以上为k轻链，仅有 $5 \\%$ 为入轻链，本研究只扩增了κ轻链，构建了 ${ \\mathrm { V H - V } } \\kappa$ 单链抗体文库。本研究共筛选得到8个与OVA结合的阳性克隆，并将其中的2号克隆成功构建入真核表达载体中，在Epxi-CHO 悬浮细胞中表达得到了可溶性 scFv 抗体。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过WB的方法鉴定可溶性 scFv抗体成功进行了真核表达。但由于本试验中使用的二抗为抗鼠IgG抗体，其免疫原为鼠的全部重链和轻链，其中能与鼠 scFv结合的部分较少，因此WB的结果显示的目的条带较淡。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "OVA蛋白是鸡卵白蛋白，其主要成分为卵清蛋白，属于大分子蛋白，是检测流感疫苗接种反应的重要指标，也是鸡过敏原的一个检测指标，其微量水平即可引起过敏反应。目前检测卵清蛋白含量的主要方法酶联免疫测定法，《中国药典》三部（2005版）中更是将该方法做为仲裁纳入了药典[13]。但目前不管是检测流感疫苗中还是鸡类食品中的卵清蛋白ELISA试剂盒都是依赖进口，价格昂贵，为与节约生产成本同时国际接轨，卵清蛋白单克隆抗体的研究极其重要。本研究获得了卵清蛋白的单链抗体并进行了真核表达，为今后国内卵清蛋白ELISA试剂盒的研发奠定了基础。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] Nieri P, Donadio E,Rossi S,et al. Antibodies for therapeutic uses and the evolution of biotechniques[J]. Current Medicinal Chemistry, 2009,16(6):753-779.   \n[2]马颖，邹全明．单链抗体及其在生物医学中的应用[J]．免疫学杂志,2006,22(s1):1-5. Ma Y,Single chain antibody and itsapplication in biomedicine[J].Immunological Journal,2006,22(s1):1-5.   \n[3] Pande J, Szewczyk M M, Grover A K. Phage display: concept, innovations, applications and future.[J]. Biotechnology Advances,2010, 28(6):849-858.   \n[4] Wu C H, Liu I J, Lu R M, et al. Advancement and applications of peptide phage display technology in biomedical science[J]. Journal of Biomedical Science,2016, 23(1):1-14.   \n[5] Dudak F C, Boyaci I H, Orner B P. The discovery of small-molecule mimicking peptides through phage display[J]. Molecules,2011,16(1):774-789.   \n[6] Chan C E,Lim A P, Macary P A,et al. The role of phage display in therapeutic antibody discovery.[J]. International Immunology, 2014, 26(12):649-657.   \n[7] 佟平，高金燕，陈红兵．鸡蛋清中主要过敏原的研究进展[J]．食品科学,2007, 28(8):565-568. Tong P, Gao J Y, Chen H B.Research Progress of Major Egg White Allergens[J]. Food Science, 2007, 28(8):565-568.   \n[8] Huntington J A， Stein P E. Structure and properties of ovalbumin[J]. Journal of Chromatography B Biomedical Sciences & Applications, 2001, 756(1-2):189-198.   \n[9] Thie H, Meyer T, Schirrmann T, et al. Phage display derived therapeutic antibodies[J]. Current Pharmaceutical Biotechnology, 2008, 9(6):439-46.   \n[10] Hoogenboom H R. Selecting and screening recombinant antibody libraries.[J]. Nature Biotechnology,2005,23(9):1105-1116.   \n[11] Lofblom J. Bacterial display in combinatorial protein engineering.[J]. Biotechnology Journal, 2011,6(9):1115-1129.   \n[12] Bellfiore P, Petronzeli F,Martino T D,et al. Identification and refinement of a peptide affinity ligand with unique specificity for a monoclonal anti-tenascin-C antibody by screening of a phage display library[J]. Journal of Chromatography A， 2006, 1107(1-2):182-191.   \n[13] Jefferson T, Smith S, Demicheli V, et al. Assessment of the Efficacy and Effectiveness of influenza Vaccines in Healthy Children:Abstract of Systematic Review[J]. Chinese Journal of Evidence-Based Medicine, 2005,365(9461):773-780. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

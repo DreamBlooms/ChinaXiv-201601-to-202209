@@ -1,0 +1,294 @@
+# WP可解公式上警示传播算法收敛的有效条件
+
+崔立，王晓峰，牛进(北方民族大学 计算机科学与工程学院，银川 750021)
+
+摘要：信息传播算法求解可满足性问题时非常有效，警示传播（warming propagation，WP）算法是最为基础的信息传播算法。通过对WP算法的数学原理分析，高概率确定的部分变元与公式的骨干集合后门集有密切关系。针对WP 算法收敛性的研究，基于骨干集和后门集定义WP-可解公式，利用在 ${ \mathrm { G } } ( { \mathrm { n } } , 3 , { \mathrm { m } } )$ 模型和植入指派模型下证明WP算法的收敛性，给出算法收敛的充要条件。最后，通过在植入指派的公式产生模型上进行数值实验验证，结果表明：如果一个可满足性公式WP-可解公式，当且仅当WP算法高概率收敛。
+
+关键词：警示传播算法；骨干集；后门集；WP-可解公式；实例产生模型 中图分类号：TP doi:10.19734/j.issn.1001-3695.2018.11.0791
+
+Effective conditions for warning propagation algorithm convergence on WP solvable formula
+
+CuiLi, Wang Xiaofeng, Niu Jin (SchoolofComputer Science& Engineering,North Minzu University,Yinchuan 75o021,China)
+
+Abstract:It is very efective when the message passing algorithm solves the satisfiabilityproblem,while the most basic messge pasing algorithm is the warning propagation (WP)algorithm.Through the analysis of the mathematical principle of WPalgorithm,itcould be found thatthepartial variables determinedby high probabilityare closelyrelated to the backbone set and backdoor setofthe formula.Forthe studyofteconvergenceof WP-solvable formula and WPalgorithm, WP-solvable formula was defined based on backbone set and backdoor set,and by using the ${ \mathrm { G } } ( { \mathrm { n } } , 3 , { \mathrm { m } } )$ model and the planted distribution model to prove the convergence of the WP algorithm,the necessaryand suffcient conditions for the convergence of the algorithmare given.Finally,by caryingout the numerical experimentson the modelof the planted distribution formula,Theresultsshowthatifasatisfiabilityformula WP-solvable formula,ifandonlyifthe WPalgorithm has a high probability of convergence.
+
+Key words: warning propagation algorithm; backbone; backdoor; WP-solvable formula; instance generation mode
+
+# 0 引言
+
+约束可满足性问题（constraint satifiabilityproblem，CSP）是人工智能中一个重要的研究领域[l\~3]，SAT (satisfiability)问题是典型的CSP问题[4-6]。SAT 问题的NP-完全性表明，不存在多项式时间算法求解该问题。然而现实世界中很多复杂问题通过编码都可以转换为SAT问题，如机器人路径规划问题、智能系统知识推理、大型复杂系统控制等。尽管SAT问题是NP-难的，随着研究的不断深入以及硬件的发展，SAT问题求解器越来越智能，使得难解区域变窄，甚至能够在多项式时间内求解变相点附近的难解实例。梳理这几年的研究成果，SAT问题研究主要集中在两个方面，一方面，通过构造实例产生模型，分析该问题的相变现象。最具有代表性的是随机3-SAT实例产生模型 $G ( n , 3 , m )$ ，该模型中子句与变元的比值$\alpha = m / n$ 是一个重要的参数，它不仅仅影响实例的可满足性，而且影响实例的判定难度[7]。随机统计现象表明，对于随机3-SAT实例产生模型 $G ( n , 3 , m )$ ，存在可满足的相变点 $\alpha _ { d }$ 。当$\alpha < \alpha _ { d }$ 时，实例高概率可满足；当 $\alpha > \alpha _ { d }$ 时，实例高概率的不可满足[8]。把满足与不可满足之间出现的这种临界现象称为相变现象。 $\alpha _ { d }$ 称为相变点，在相变点附近区域的实例求解难度较大。尽管人们不知道 $\alpha _ { d }$ 的确切值，但研究表明， $\alpha _ { d }$ 至少为 $3 . 5 2 ^ { [ 9 ] }$ ，至多为 $4 . 4 8 9 8 ^ { [ 1 0 ] }$ 。在该模型中通过控制参数 $\alpha$ 来构造实例，大量的实验研究表明，当 $\alpha$ 的值大约在4.27附近时，产生的实例求解难度最大。 $\mathrm { { X u } }$ 等人[11,12]分别在B模型和D 模型的基础上提出了具有精确相变点的RB 模型和 RD模型，解决了经典CSP实例产生模型的平凡无解性问题，被广泛用于构造 $C S P$ 问题和SAT问题的难解实例。
+
+另一方面，设计更加有效的求解 SAT问题的判定算法[13]大多数SAT问题求解算法利用了隐藏在实例内部的某种特殊结构，较大程度地提高了算法的搜索能力，而骨干集和后门集是SAT实例中最为重要的结构，在算法求解过程中起关键性作用。Monasson和Silliams等人在研究可满足性问题的相变现象和复杂度时，首次提出了骨干集和后门集的概念[14]。骨干集和后门集都与问题的难度相关，骨干集越大，问题的难度越大；同样，后门集越大，问题的难度越大[15]。事实上，对于一些结构化的实例，骨干集和后门集有一定联系[16\~20],现实世界中许多具有结构化的SAT问题都有较小的骨干集和后门集，一些著名的搜索算法利用了这种结构特征，求解这些实际问题往往比求解随机3-SAT 更为有效[14]。
+
+在SAT问题判定算法的研究中，人们发现实例的隐藏结构对算法的性能有影响，最为重要的隐藏结构主要有骨干集和后门集。骨干集是文字的集合，指对于一个可满足命题公式的每一个真值指派使得骨干集中的文字均为真；后门集是变元的集合，指对后门集中的变元赋值后将相应的命题公式化简为易解公式，即多项时间可解公式（如HORN、2-SAT公式等）。骨干集的大小与问题的难度有关，直观上骨干集越大，SAT问题求解难度越大，原因在于骨干集增大，解被聚类的可能性增大，可灵活赋值的变元相对减少，公式被容易错误赋值的概率增大，增加了局部搜索算法的求解难度，这也解释了在可满足相变点附近公式的求解难度较大。类似地，从后门集的定义可以看出，后门集越大，问题判定的难度越大。后门集与求解算法有关，不同的求解算法可能有不同的后门集，而骨干集与问题本身有关，每个SAT实例有唯一的骨干集。根据定义不难看出，骨干集与后门集之间没有必然的联系，后门集与骨干集的重叠部分很小。
+
+20 世纪80年代，物理学家提出了一种基于消息传递的信息传播算法，数值实验证明该算法求解组合优化问题时非常有效[2I]，被广泛应用于人工智能和工程技术等各个领域。在文献[22]中设计了三种求解随机3-SAT问题的信息传播算法，分别为警示传播（warningpropagation，WP）算法、信念传播（beliefpropagation，BP）算法、调查传播（surveypropagation,SP）算法，其中WP算法能够求解子句数与变元数的比值 $\alpha { < } 3 . 5$ 的随机实例。
+
+但是当 $\alpha { > } 3 . 5$ 时， $W P$ 算法常表现为不收敛，在实验数据中会发现这种现象，却对于这种不收敛现象，缺少一定的系统理论解释。所以，对于研究信息传播算法的收敛性具有重要意义。信息传播算法的特征在于基于消息传播可以将一个满足指派的部分变元取值以高概率确定，从而可以将公式简化。经过多次操作，如果能够将公式化简为易解公式，则调用某个求解SAT问题的算法对公式进行求解。特别是基于WP算法“冻结”的部分变元，这些变元以概率为1力迫取某个固定值，也就是说某些子句的可满足性完全由这些被"冻结”的变元取值决定。本文的主要工作是，由骨干集和后门集的定义，提出了 $W P -$ 可解公式的定义。通过对该公式的结构进行分析，给出了基于 $W P -$ 可解公式上警示传播算法收敛的一个有效条件。
+
+# 1 命题公式的特殊变元集
+
+骨干（backbone）：设 $F$ 为一个CNF公式，其变元集$\operatorname { v a r } ( F ) = \left\{ x _ { 1 } , \cdots , x _ { n } \right\}$ ，一个变元子集 $S \subseteq \operatorname { v a r } ( F )$ 称为 $F$ 的骨干变元集，简称 $F$ 的骨干(backbone)。如果 $F \left| = { \land } L i t ( S ) \right.$ ，即任意一个使 $F$ 为真的赋值 $\tau$ ，都使得 $L i t ( S )$ 中的文字为真。换言之，每一个使 $F$ 为真的真值指派 $\tau$ ，在变元集 $s$ 上的赋值是固定的。其中 $\boldsymbol { L i t } ( S ) = \left\{ \boldsymbol { L } _ { 1 , \ldots , \boldsymbol { L } _ { | S | } } \right\}$ 为由 $s$ 内的每个变元取正（或负）文字得到，文字合取 $\land L i t ( S ) = ( L _ { 1 } \land \dotsc \dotsc \land L _ { | S | } )$ 。
+
+后门集（backdoor）：设 $F$ 为一个CNF其变元集$\operatorname { v a r } ( F ) = \left\{ x _ { 1 , \ldots , x _ { n } } \right\}$ ， $c$ 是一个易解类，即可满足性判定问题在多项式时间内可解。
+
+一个变元子集 $S \subseteq \operatorname { v a r } ( F )$ 称为 $\scriptstyle { C - }$ 弱后门集（weakbackdoor），如果存在对 $s$ 上变元的任意一个赋值 $\boldsymbol { \tau } _ { s }$ 下简化为 $c$ 类中的一个公式。
+
+一个变元子集 $S \subseteq \operatorname { v a r } ( F )$ 称为 $\scriptstyle { C - }$ 强后门集（strongbackdoor），如果对于 $s$ 上变元的一个赋值 $\boldsymbol { \tau } _ { s }$ ，公式在赋值 $\tau _ { s }$ 下简化为 $c$ 类中的一个公式。
+
+一般地，变元子集 $S \subseteq \operatorname { v a r } ( F )$ 称为 $F$ 的一个弱后门集，如果存在对S上变元的一个赋值 $\boldsymbol { \tau } _ { s }$ ，公式 $F$ 在赋值 $\boldsymbol { \tau } _ { s }$ 下简化为一个易解公式。一个变元子集 $S \subseteq \operatorname { v a r } ( F )$ 称为强后门集，如果对于S上变元的任意一个赋值 $\boldsymbol { \tau } _ { s }$ ，公式 $F$ 在赋值 $\boldsymbol { \tau } _ { s }$ 下化简为一个容易可解公式。
+
+警示传播（warningpropagation，WP）算法中的信息取值为1或0。子句节点 $\mid c \mid$ 传递给变元节点 $i$ 的值为1隐示，子句 $\vert c \vert$ 中除变元i外的所有变元均以概率为1“力迫”一个事实：子句 $\boldsymbol { c }$ 的可满足性完全依赖于变元 $i$ 的取值。换句话说，变元i的取值被固定（冻结），已经知道：对于WP算法，因子图为树结构的公式（简称树公式）容易求解。根据信息传播算法这样的机理，公式的骨干集与公式关于易可解类的后门集密切相关。
+
+由骨干集的定义可知，|S越大，公式化简到易可解类的可能性就越大；反之，|S越小，WP算法中每一轮更新化简公式的效果就越差。本文相信：在WP算法下仍然难解的公式与其骨干集和后门集的大小和分布密切相关，这就隐约告诉人们：WP算法冻结的变元与骨干集和后门集中的变元有关系。基于此，本文引入WP一可解的概念。
+
+# 1.1 WP-可解公式
+
+一个CNF 公式 $F$ 成为WP-可解公式，如果存在变元集$X = ( x _ { 1 } , x _ { 2 } , . . . , x _ { n } )$ 的子集 $S _ { 1 } , S _ { 2 } , . . . , S _ { m }$ 满足如下条件：
+
+a） $S _ { 1 }$ 是 $F _ { 0 } = F$ 的骨干集，且对应于一个 $S _ { 1 }$ 上的文字集合$L i t ( S _ { 1 } )$ 规定的部分赋值 $\tau _ { s _ { 1 } }$ ，在此赋值下得到 $F _ { 0 } \left| _ { \tau _ { S _ { 1 } } } = F _ { 1 } \right.$ ：
+
+b）对 $2 \leq k \leq m$ ， $S _ { k }$ 是 $F _ { k - 1 }$ 的骨干集，且对应于一个 $S _ { k }$ 上的文字集合 $L i t ( S _ { k } )$ 规定的部分赋值 $\tau _ { S _ { k } }$ ，在此赋值下得到$F _ { k - 1 } \big | _ { \tau _ { S _ { k } } } = F _ { k }$ ：
+
+c） $F _ { m }$ 是一个易解公式。
+
+显然，树公式是 $W P$ -可解公式。
+
+3CNF公式是子句 $C _ { 1 } , C _ { 2 } , . . . , C _ { n }$ 合取结果，其中每个子句是三个文字析取的结果，每个文字都是一个变量或者变量的否定，一个文字对应变量 $x _ { 1 }$ 或对应变量的否定 $\neg { x } _ { 1 }$ 。如果对变量进行布尔赋值，则3CNF是可满足的，每个子句至少包含一个计算结果为true的文字。3SAT是所有了满足3CNF公式的语言。
+
+# 1.2植入指派（planted distribution）
+
+近年来，随机结构的算法理论一直是广泛研究的焦点。众所周知，3SAT在子句与变量的比率方面有一个明显令人满意的阈值。即随机3CNF的子句与变量的比率低于阈值的时，这时候是高概率（with high probability，whp）满足；当子句与变量的比率高于阈值时，这时候是高概率不满足。这个阈值并不是已知的，甚至都不知道这个阈值是一个常量，但是目前已知的最佳界限至少是3.42，最多是4.5。在这样的比例，大多数的公式都不能满足，分析随机可满足实例的分布似乎很困难。因此本文关注3-SAT植入分布，用 $p _ { n , p } ^ { p l a n t }$ 表示[23]。
+
+该分布中的随机3CNF是通过对变量选择赋值 $\varphi$ ，然后包括 $\varphi$ 满足的子句以概率 $p = p ( n )$ 来获得，从而保证得到的实例是可满足的。具体地讲，由随机选择一个赋值 $x$ 均匀地分布在 $\{ 0 , 1 \} ^ { n }$ 的 $2 ^ { n }$ 元素中，然后独立选择 $x$ 满足的 $( 2 ^ { k } - 1 ) ( \ O _ { k } ^ { n } )$ 子句中的所有子句生成。每个子句以均匀随机顺序的 $k$ 文字给出。（ $n$ 是变量的个数， $k$ 是每个子句中包含变量的个数）。
+
+在 $p _ { n , p } ^ { p l a n t }$ 中植入的实例是随机选择 $n$ 个变量的真值赋值生成的， $\varphi$ 满足的每个子句都包含在概率 $p$ 中。在这个工作中本文要考虑 $p { \geq } d / n ^ { 2 }$ ，其中 $d$ 是足够大的常数[24,25]。本文着重研究随机3CNF问题，在植入分布的随机3CNF公式，以高概率 $p$ 满足每个子句，从而保证得到的实例 $F$ 是可满足的。由植入分布的定义可以知道，当概率 $p$ 足够大时， $p _ { n , p } ^ { p l a n t }$ 产生的实例 $F$ 高概率的只有一个可满足解。
+
+# 2 WP算法
+
+# 2.1 因子图
+
+设 $F = \{ C _ { 1 } , C _ { 2 } , . . . , C _ { m } \}$ 为一个CNF公式，含有 $n$ 个变元$x _ { 1 } , x _ { 2 } , . . . x _ { n }$ ，用 $i$ 代表变元 $x _ { i }$ 。公式 $F$ 可以用一个二分图$G = \{ C \cup X , E \}$ 表示，称为因子图。其中，变元节点集 $X = \{ 1 , 2 , . . . , n \}$ ，子句节点集为 $C = \{ C _ { 1 } , C _ { 2 } , . . . , C _ { m } \}$ 。图 $G$ 中的边分为两类：实边和虚边[26]。
+
+实边： $( C _ { i } , j ) \in E \Leftrightarrow$ 子句 $C _ { i }$ 含正文字 $x _ { j }$ ：
+
+虚边： $( C _ { i } , j ) \in E \Leftrightarrow$ 子句 $C _ { i }$ 含负文字 $\boldsymbol { x } _ { j }$ 。
+
+一个 SAT 问题可以转换为因子图来表示，如图1所示。每个 $N$ 变量与图中的顶点相关，被称为变量节点（在图中用圈表示），每个 $M$ 子句都与图中的另一种顶点相关联，被称为功能节点（在图中用方框表示）。当变量 $x _ { i }$ 出现在子句 $A$ 中时，功能节点 $A$ 通过一条边与变量节点连接；当子句中出现的变量为 $x _ { i }$ 时， $\boldsymbol { a }$ 与 $i$ 之间用实线（ $J _ { i } ^ { a } = - 1$ ）；当子句中出现的变量为 $\neg { x } _ { i }$ 时， $\boldsymbol { a }$ 与 $i$ 之间用虚线（ ${ \cal J } _ { i } ^ { a } = 1$ ）。变量节点构成的集合 $\boldsymbol { \cal X }$ （ $\vert X \vert = N$ ），功能节点的集合 $A$ （ $\vert A \vert = M$ ）。
+
+![](images/0b55a0f6e7d647796a699a0be49fddf59b45a0080493d1830f75cf756c72e99d.jpg)  
+图1因子图
+
+一个因子图里面有六个变量节点 $i = 1 , . . . , 6$ ,六个功能节点$_ { a , b , c , d , e , f }$ ，则这个公式可以写为
+
+$$
+\begin{array} { c } { F = ( x _ { 1 } \vee \neg x _ { 3 } ) \wedge ( \neg x _ { 1 } \vee x _ { 2 } \vee x _ { 4 } ) \wedge ( \neg x _ { 3 } \vee x _ { 5 } ) \wedge } \\ { ( \neg x _ { 3 } \vee \neg x _ { 4 } \vee x _ { 5 } ) \wedge ( \neg x _ { 2 } \vee x _ { 4 } \vee x _ { 6 } ) \wedge ( x _ { 6 } ) } \end{array}
+$$
+
+# 2.2 WP算法
+
+一个 $C S P$ 问题是一个三元组 $\langle X , D , C \rangle$ ，其中：表示变量的集合，记为 $X = \{ x _ { 1 } , . . . , x _ { m } \}$ ； $D$ 是关于变量 $x _ { 1 } , . . . , x _ { m }$ 的取值域的集合，记为 $D = \{ D _ { 1 } , . . . , D _ { m } \}$ ； $c$ 是约束的集合，每一个约束 $c = \langle \sigma , \rho \rangle$ u其中：约束范围 $\sigma$ 是变量的列表；约束关系 $\rho$ 是关于 $\sigma$ 中变量取值域的笛卡尔积的子集。可满足性问题判定（SAT）是典型的 $C S P$ 问题，即给定一个合取范式（conjunctivenormalform,CNF） $F \_ S A T$ 判定问题指是否存在一组指派使得 $F$ 为真[27]。
+
+$V ( a )$ ：表示出现在子句 $a$ 中的变元集合，$V ( a ) { : = } V ^ { + } ( a ) \mathsf { U } V ^ { - } ( a )$ 。其中， $\mathnormal { V } ^ { + } \left( a \right)$ ：表示出现在子句 $\boldsymbol { a }$ 中的正文字对应的变元标志集合。
+
+$\begin{array} { r } { V ^ { - } \left( a \right) } \end{array}$ ：表示出现在子句 $\boldsymbol { a }$ 中的负文字对应的变元标志集合。
+
+$$
+V ( a ) \backslash i : = V ( a ) - \{ i \}
+$$
+
+$V ( j )$ ：表示含变元 $x _ { j }$ 中的子句集合, $V ( j ) { : = } V ^ { + } \left( j \right) \cup V ^ { - } \left( j \right)$ 。其中： $V ^ { + } \left( j \right)$ ：表示变元 $x _ { j }$ 正出现的子句集合。
+
+$V ^ { - } \left( j \right)$ ：表示变元 $x _ { j }$ 负出现的子句集合。 $V ( j ) \backslash a : = V { \bigl ( } j { \bigr ) } - \{ a \}$ 。
+
+$J _ { j } ^ { a }$ 是一个标志参数，若 $x _ { i }$ 出现在子句 $a$ 中，则 ${ J } _ { j } ^ { a } = - 1$ ：若 $\neg { x } _ { i }$ 出现在子句 $a$ 中，则 $J _ { j } ^ { a } = 1$ 。在因子图的每条边 $( a , i )$ 上，
+
+定义 $W P$ 算法中的消息传递 $\boldsymbol { u } _ { a  i }$ （常称为警示信息）。 $u _ { a  i }$ 表示子句 $a$ 的可满足性对变元 $x _ { i }$ 的取值倾向。 $W P$ 算法的消息更新迭代方程如下：
+
+$$
+u _ { a  i } ( t ) = \prod _ { j \in V ( a ) \backslash i } \theta { ( { - J _ { j } ^ { a } ( \sum _ { b \in V ( j ) \backslash a } J _ { j } ^ { b } u _ { b  j } ( t - 1 ) ) } ) }
+$$
+
+其中： $\textit { t }$ 表示迭代次数； $\theta ( x )$ 是截尾函数，如果 $x { \leq } 0$ ，则$\theta ( x ) = 0$ ，否则 $\theta ( x ) = 1$ 。若 $\boldsymbol { a }$ 中仅包含变元 $x _ { i }$ ，则置 $u _ { a  i } = 1$ 。当 $W P$ 算法收敛时，根据警示信息固定变元 $x _ { i }$ 的赋值。
+
+$$
+H _ { i } = - \sum _ { b \in V ( j ) } J _ { i } ^ { b } u _ { b  i } ^ { * }
+$$
+
+如果 $H _ { i } > 0$ ，则 $x _ { i } = 1$ ；如果 $H _ { i } < 0$ ，则 $x _ { i } = 0$ ；否则 $x _ { i }$ 暂且不赋值。一般地将式（1）改写为
+
+$$
+u _ { a  i } ( t ) = \prod _ { j \in V ( a ) \backslash i } \theta \Bigg ( { - J _ { j } ^ { a } \Bigg ( \sum _ { b \in V ^ { + } ( j ) \backslash a } u _ { b  j } ( t - 1 ) - \sum _ { b \in V ^ { - } ( j ) \backslash a } u _ { b  j } ( t - 1 ) \Bigg ) } \Bigg )
+$$
+
+$$
+h _ { j  a } = \sum _ { b \in V ^ { + } ( j ) \backslash a } u _ { b  j } ( t - 1 ) - \sum _ { b \in V ^ { - } ( j ) \backslash a } u _ { b  j } ( t - 1 )
+$$
+
+称 $h _ { j  a }$ 为腔域。若变元 $x _ { j }$ 仅出现在 $a$ 中，则置 $h _ { j  a } = 0$ 。求解CNF 公式 $F$ 的 WP（warning propagation）算法如下：
+
+Warning propagation（CNF formula F）
+
+构造相应的因子图 $G ( F )$ ；
+
+给因子图上的所有消息边 $u _ { a  i } ( t = 0 )$ 随机赋值0或1;
+
+重复如下过程，直到算法收敛（可设置最大迭代步 $t _ { \mathrm { m a x } }$ 强迫算法结束）：
+
+对 $G ( F )$ 中的边随机排列;  
+根据随机边序列，利用（1）式更新消息 $u _ { a  i }$ ：根据 $H _ { i }$ ，计算部分指派 $\psi$ ，对公式 $F$ 进行简化；返回 $\psi$ 。
+
+# 3 WP算法收敛的条件
+
+由于 $3 - S A T$ 问题是 $N P$ 难问题，在 $P \neq N P$ 条件下，不存在多项式时间算法求解该问题[28]。信息传播算法是目前求解$3 - S A T$ 问题最为有效的办法，然而对于相变点附近的3-SAT实例，该算法不总有效，常表现为不收敛。但目前对信息传播算法的收敛性理论研究较少，研究也变得非常困难。
+
+每一个使 $F$ 为真的真值指派 $\tau$ ，在变元集S上的赋值是固定的，在骨干集的集合之中每一个变量都可以使得公式 $F$ 为真；后门集的集合之中，对公式 $F$ 赋值之后，都可以使得公式 $F$ 得到不同程度上的化简，最后化简为一个易解公式。因此在骨干集与后门集之间存下如下的关系，如图2所示：
+
+若 $S _ { 1 }$ 表示骨干子集的集合； $S _ { 2 }$ 表示后门子集的集合，那么骨干集的集合 $S _ { 1 }$ 与后门集的集合 $S _ { 2 }$ 之间存在以下四种情况：
+
+![](images/a3a1f5873164bc1e889659f2ce66a38e9848871a8baeb530665daefa8c5e9ec6.jpg)  
+Fig.1Factordiagram   
+图2骨干集与后门集关系图  
+Fig.2Relationship between backbone set and backdoor set
+
+图2中： $\textcircled{1}$ 表示骨干集与后门集没有任何交集； $\textcircled{2}$ 表示骨干集与后门集的部分集合是相同的，公共部分为 $S _ { 1 } \cap S _ { 2 }$ ：$\textcircled{3}$ 表示在骨干集的集合中包含着后门集的集合，即 $S _ { 2 } \subseteq S _ { 1 }$ ，公共部分为后门集 $S _ { 2 }$ ； $\textcircled{4}$ 表示在后门集的集合中包含着骨干集的集合，即 $S _ { 1 } \subseteq S _ { 2 }$ ，公共部分为骨干集 $S _ { 1 }$ ，称公共部分的变元为核变元，被该变元满足的子句称为支持子句。
+
+根据WP-可解公式的概念可以得出：只研究图中 $\textcircled{3}$ 这一种情况的类型。WP算法收敛的时候，得到部分变元的赋值，该赋值是高概率，使得WP-可解公式可满足，从而进一步说明，该变元赋值的改变使得在植入分布 $p _ { n , p } ^ { p l a n t }$ 模型下产生实例$F$ 是高概率不可满足，这就告诉本文：由WP算法收敛后确定的变元高概率的是骨干变元。因此，本文有如下定理：
+
+定理1若合取范式（CNF）公式 $F$ 为WP-可解公式，当且仅当WP算法高概率收敛。
+
+为了证明定理1，现本文需要证明如下两个定理：定理2若WP算法收敛，则合取范式（CNF）公式 $F$ 为WP-可
+
+解公式；
+
+证明基于图 $\textcircled{3}$ 情况下对此定理进行研究分析。可满足性问题（SAT），例如3-SAT， $k - S A T$ 等问题都是属于NP难问题，则产生的 $3 { \ - } C N F$ 公式 $F$ 是在多项式时间内无法求解
+
+如果WP算法收敛，得到不动点 $u ^ { * } = \{ u _ { a  i } ^ { * } : ( a , i ) \in E \}$ 。利用$u ^ { * } = \{ u _ { a  i } ^ { * } : ( a , i ) \in E \}$ 启发式定义每一个变量的取值，并对公式进行化简。如此重复，寻找到公式的满足性指派集合。根据骨干集的定义，本文将骨干的变元集记为 $D ( F )$ 。本文有如下定理[29];
+
+设 $F$ 为一个可满足的合取范式（CNF）公式，其变元集为 $\operatorname { v a r } ( F ) = \{ x _ { 1 } , x _ { 2 } , . . . , x _ { n } \}$ ，假设 $W P$ 算法关于输入 $F$ 收敛，则变元集 $\{ x _ { i } : u _ { a  i } ^ { * } = 1 , ( a , i ) \in E \}$ 是 $D ( F )$ 的一个子集，其中$u ^ { * } = \{ u _ { a  i } ^ { * } : ( a , i ) \in E \}$ 是WP算法得到的不动点。
+
+假定一个可满足性的合取范式（CNF）公式为 $F$ ，输入公式 $F$ 在WP算法中是收敛的，因此通过WP算法会得到一个固定点，即不动点 $u ^ { * } = \{ u _ { a  i } ^ { * } : ( a , i ) \in E \}$ 。
+
+假设WP 算法在 $n$ 步之内收敛，其中 $n \geq 1$ ，对 $n$ 数学归纳，本文可以得到一个结果：若 $u _ { c  i } ^ { * } = 1$ ，则子句 $\mid c \mid$ 的可满足性完全依赖于变元 $x _ { i }$ 的取值。若 $\mid c \mid$ 是一个单位子句，在WP算法中，$u _ { c  i } ( 1 ) = u _ { c  i } ( 2 ) = \cdots = u _ { c  i } ( n ) = 1$ 。因为 $C N F$ 公式 $F$ 在WP算法中收敛，即 $F$ 是可满足，对于所有的变量都存在$\begin{array} { r } { \big ( \sum _ { c \in V _ { + } ( i ) } u _ { c  i } ^ { * } \big ) \big ( \sum _ { c \in V _ { - } ( i ) } u _ { c  i } ^ { * } \big ) = 0 \ _ { c } } \end{array}$
+
+当 $c \in V _ { + } ( i )$ 且 $u _ { c  i } ^ { * } = 1$ 时，则对于任意满足 $F$ 的真值指派函数 $\nu$ ： $\operatorname { v a r } ( F ) \to \{ 0 , 1 \}$ ，对于任何文字 $M \in c \backslash \{ x _ { i } \}$ 一定存在 $\nu ( M ) = 0$ ，$\nu ( x _ { i } ) = 1$ 。同理，当 $c \in V _ { - } ( i )$ 且 $u _ { c  i } ^ { * } = 1$ 时，则对于任意满足 $F$ 的真值指派 $\nu$ ，对于任何文字 $M \in c \backslash \{ \lnot x _ { i } \}$ 一定存在 $\nu ( M ) = 0$ ，$\nu ( \neg x _ { i } ) = 1$ 。即：若 $u _ { c  i } ^ { * } = 1$ ，出现在 $\mid c \mid$ 中对应于变元 $x _ { i }$ 的文字是一个关键文字。因此，变元集 $\{ x _ { i } : u _ { a  i } ^ { * } = 1 , ( a , i ) \in E \}$ 是 $D ( F )$ 的一个子集。
+
+根据以上定理，引出一个求解公式的骨干变元集的算法，简称backbone 算法。
+
+backbone算法：
+
+Input:一个CNF公式 $F$ 的因子图 $G = ( V , E )$ ·
+
+Output :输出公式不满足的状态标识UNSAT,或者一个变  
+元集 $B$ ·初始化 $B = \phi$ While存在不固定变元do运行WP算法如果WP不收敛，则输出 $B$ ；否则计算所有 $\boldsymbol { H } _ { i }$ 和冲突  
+标识 $b _ { i }$ ;如果存在某个 $b _ { i } = 1$ ，则输出UNSAT；如果所有的 $H _ { i }$ 为0，则输出 $B$ ；否则While $H _ { i } \neq 0$ do当 $H _ { i } > 0$ 时，令 $x _ { i } = 1$ $B = B \cup \{ i \}$ ·，
+
+当 $H _ { i } < 0$ 时，令 $x _ { i } = 0$ ：
+
+对图进行清洗；（即，对公式进行简化）
+
+Endwhile
+
+# Endwhile
+
+End
+
+WP算法是通过这些赋值对公式 $F$ 进行化简，化简后的子公式上继续使用WP算法，通过多次迭代化简可以将一个公式 $F$ 化简为易解公式，调用其他算法对该易解公式求解。如果WP算法收敛，可以得到警示信息的不动点$u ^ { * } = \{ u _ { a  i } ^ { * } : ( a , i ) \in E \}$ ，根据局部域 $H _ { i }$ 启发式定义每一变元的取值，并对公式进行化简。如此重复，寻找公式的满足指配。当冲突数 $c _ { i } = 1$ 时，表示变元取值冲突，公式是不可满足的；当 $c _ { i } = 0$ 时，利用 $H _ { i }$ 诱导变元赋值以高概率满足公式。对于树公式来说，如果 $W P$ 算法收敛，可以通过 $\boldsymbol { H } _ { i }$ 高概率的固定部分变元的取值，以此来简化公式。
+
+在WP算法在关于公式 $F$ 收敛之后，必然会产生部分变元赋值，这些变元的赋值都可以使得公式 $F$ 得到满足，且这部分变元定是包含于骨干集之中。但是根据WP-可解公式的定义可知：对 $2 \leq k \leq m$ ， $S _ { k }$ 是 $F _ { k - 1 }$ 的骨干集，存在部分赋值，在这个赋值之下，3-CNF公式 $F$ 是可以化简为一个易解公式，这个易解公式在多项式时间内必然是可解的，满足WP-可解公式，因此可以得出：若WP算法收敛，则合取范式（CNF）公式 $F$ 为WP-可解公式。
+
+定理3若合取范式（CNF）公式 $F$ 为WP-可解公式，则WP 算法高概率收敛；
+
+证明基于图2中 $\textcircled{3}$ 情况下对此定理进行研究分析。对于植入分布模型来说，当 $p$ 足够大时，高概率得存在一个赋值满足公式 $F$ ，所以，根据WP—可解公式的概念，必然高概率得有骨干集变元包含在这个赋值。
+
+在植入分布 $p _ { n , p } ^ { p l a n t }$ 模型下，如果 $\pi$ 和 $\alpha$ 随机均匀选取，那么以概率 $1 - e ^ { - \Omega ( d ) }$ 有 $\# H = ( 1 - e ^ { - \Omega ( d ) } ) n$ 。其中： $\pi$ 是一个子句变元边的序列； $\alpha$ 是子句变元边上的信息向量； $H$ 表示核心变量（核变量）。这句话隐含：当 $p = c \log n / n ^ { 2 }$ 时，高概率地 $H$ 包含了所有变元。由图2中 $\textcircled{3}$ 可知，核变元包含于骨干集之中，即在分布中，核变元所具有的特征，骨干变元也是具备的，由WP-可解公式的概念，显然，树公式是一个WP-可解公式。
+
+若 $F$ 为WP-可解公式，则实例 $F$ 中的变元满足对$2 \leq k \leq m$ ， $S _ { k }$ 是 $F _ { k - 1 }$ 的骨干集，且对应于一个 $S _ { k }$ 上的文字集合$L i t ( S _ { k } )$ 规定的部分赋值 $\tau _ { S _ { k } }$ ，在此赋值下得到 $F _ { k - 1 } | _ { \tau _ { S _ { k } } } = F _ { k }$ ，即在骨干集的部分赋值之下，可以将公式 $F$ 化简为一个易解公式，此公式可以在多项式时间内求解，以此可以使得原问题得到简化。在植入指派 $p _ { n , p } ^ { p l a n t }$ 模型中，当 $p$ 足够大时，必然存在一组赋值 $\varphi ^ { * }$ 使得公式 $F$ 得到满足。再此之前，本文已得WP算法收敛情况下，确定的变元高概率的是骨干变元集，且骨干变元集高概率地包含于在这组赋值 $\varphi ^ { * }$ 中。
+
+在文献[24]中分析了植入指派的可满足性公式上警示传播算法的收敛性，给出了算法收敛的充分条件，有定理如下：
+
+$F$ 是一个由模型 $p _ { n , p } ^ { p l a n t }$ 产生的随机3CNF公式， $p \geq d / n ^ { 2 }$ ，$d$ 是一个有效足够大常数。存在一个可满足性指派 $\varphi ^ { * }$ ，高概率有如下结论：
+
+a）WP在 $F$ 上最多迭代 $O ( \log n )$ 步收敛;b） $\psi$ 是WP返回的部分指派， $V _ { A }$ 是被赋值的变量集合，$V _ { U }$ 是未被赋值的变量集合。那么对于 ${ \boldsymbol { x } } \in V _ { A }$ ， $\varphi ( x ) = \varphi ^ { * } ( x )$ ，且$\# V _ { A } \geq ( 1 - e ^ { - \Theta ( d ) } ) n$ ：
+
+c） $\boldsymbol { F } \parallel _ { \psi }$ 是一个简单公式，且能够在 $O ( n )$ 实际内判定。
+
+上述定理是关于植入指派 $p _ { n , p } ^ { p l a n t }$ 模型的，对于随机实例产生模型 $G ( m , k , n )$ 也成立。在植入指派 $p _ { n , p } ^ { p l a n t }$ 模型中，当 $k = n$ 时，此时子句的个数为 $C _ { n } ^ { 3 }$ ，以高概率 $p$ 满足子句的情况下，产生实例 $F$ 的子句个数则为 $C _ { n } ^ { 3 } { \bullet p }$ ,其中 $C _ { n } ^ { 3 } { \bullet p } \leq C _ { n } ^ { 3 }$ ,在这些子句中，高概率的存在一组解使得实例 $F$ 是可满足的。
+
+因WP-可解公式 $F$ 最终可以化简为易解公式，且其中变元集高概率得为骨干集 $D ( F )$ ，与 $p _ { n , p } ^ { p l a n t }$ 模型下高概率产生的解$\varphi ^ { * }$ 的关系是： $D ( F ) \subseteq \varphi ^ { * }$ 。由 $p _ { n , p } ^ { p l a n t }$ 模型下高概率结论可知：WP在 $F$ 上最多迭代 $O ( \log n )$ 步收敛； $\boldsymbol { F } \parallel _ { \psi }$ 是一个简单公式，且能够在 $O ( n )$ 实际内判定。此证： $F$ 为 $W P$ -可解公式，则WP算法高概率收敛。 □
+
+至此，定理1证明完毕。
+
+# 4 数值实验
+
+因子句个数 $m$ 随着变量数 $n$ 的增大而呈指数级增长（2"），因此在整个实验过程中变量数的大小取$\mathrm { n } { = } 3 , 4 , 5 , 6 , 7 , 8 , 9 , 1 ($ )得出所有可能性子句的个数和在高概率下（ $p > 0 . 8$ ）植入指派得到子句的个数，如图3和表1所示。在变量数不断变化的情况下，图4\~6是变量数分别为10、20、30时，可满足性子句的收敛性情况；图7\~9是变量数分别为10、20、30，可正确判定实例图的概率。
+
+![](images/8bbb1255b11cf5e2fe006bb848ac344027af9b357cce6659cc06dab2d7f77083.jpg)  
+图3两种情况下的子句情况图Fig.3Case diagram of two cases表1子句个数
+
+Table1Number of clauses   
+
+<html><body><table><tr><td>变元个数n</td><td>子句所有可能个数 指派模型下子句数</td></tr><tr><td>3</td><td>8 7</td></tr><tr><td>4</td><td>16 15</td></tr><tr><td>5</td><td>32</td></tr><tr><td>6</td><td>31 64 63</td></tr><tr><td>7</td><td>128 127</td></tr><tr><td>8</td><td>256</td></tr><tr><td>9</td><td>255 512 511</td></tr><tr><td>10</td><td>1024 1023</td></tr></table></body></html>
+
+![](images/f5d271d46bfa478bc7f5c5b2017ef419621ce5e903039439ae50904841a3db75.jpg)  
+图4 $\mathrm { \ n { = } } 1 0$ 的收敛性图  
+Fig.4Convergence graph of $\mathrm { \tt m } { = } 1 0$
+
+![](images/c0e09375366fbafa55a3b0a67a6afa25deae3d2d7fa1d3b99a1b4d087e197a63.jpg)  
+图5 $\scriptstyle 1 = 2 0$ 的收敛性图
+
+![](images/39b36816a4e22ec2f9745e87204eb1c62da14d5dcf4a33a58c08cd957f630e9e.jpg)  
+Fig.5Convergence graph of $\scriptstyle \mathrm { n = 2 0 }$
+
+![](images/92101a6589139aad5516b61f285c265228470ec002192faa45897545a946bddf.jpg)  
+Fig.6Convergence graph of $\scriptstyle \mathrm { n = 3 0 }$   
+图7 $\mathrm { n } { = } 1 0$ 正确判定的实例图
+
+![](images/5b4754934d046ba7c2671a15e2448b2949d2bda36b419d00bb32c258c266cc3c.jpg)  
+图6 $\scriptstyle \mathrm { n = 3 0 }$ 的收敛性图  
+Fig.7Example of $\mathrm { \ n { = } } 1 0$ correct decision   
+图8 $\scriptstyle \mathrm { n = 2 0 }$ 正确判定的实例图 Fig.8Example of $\scriptstyle \mathrm { n = 2 0 }$ correct decision
+
+![](images/9cd8ffeaf67959fdc2bfaa1f14a877cbec1627512a9f5096df8574acf6f670f1.jpg)  
+图9 $\scriptstyle \mathrm { n = 3 0 }$ ，正确判定的实例图  
+Fig.9Example of $\scriptstyle \mathrm { n = 3 0 }$ correct decision
+
+随着 $\mathfrak { n }$ 的增加，产生子句的个数也增加，产生可满足性实例包含的子句也在增加，在变元 $\mathfrak { n }$ 逐渐增大，算法在 $\alpha { < } 3 . 5$ 收敛于1， $\alpha { > } 3 . 5$ 算法表现为不收敛，呈下降趋势。可正确判定实例的概率也随着 $\mathfrak { n }$ 的增大呈离散的分布，即当迭代次数较小的时候，可判定实例的概率趋于1，随着迭代次数的增加，可判定实例的概率趋于减小。
+
+从实验的数据中，在WP算法迭代1000次之后，可满足公式 $F$ 中包含的子句必然包含于在高概率 $p > 0 . 8$ 的情况下，产生可满足性公式 $F$ 的子句中，不失一般性，证明了WP算法收敛情况下，确定的变元高概率的是骨干变元集，且骨干变元集高概率地包含于在这组赋值 $\varphi ^ { * }$ 中，为定理1的证明提供了一定的条件。
+
+# 5 结束语
+
+本文从骨干集与后门集变量之间的关系引出了WP-可解的概念，当随机产生的3CNF公式 $F$ 为WP-可解公式时，当且仅当WP算法高概率收敛。进一步研究：a)研究WP-可解公式的结构性质、难解公式与WP-不可解性；b)研究信息传播算法的依概率收敛性；c)研究WP-可解的规则（3,4）-CNF公式的结构性质、以该公式为输入的信息传播算法的收敛性和依概率收敛性。
+
+# 参考文献：
+
+[1]Dyer M,Frieze A,Molloy M.A probabilistic analysis of randomly generated binary constraint satisfaction [J]. Theoretical Computer Science,2003,290 (3):1815-1828.   
+[2]Creignou N,Daudé H. The SAT-UNSAT transition for random constraint satisfaction problems [J].Discrete Mathematics,2oo9,309 (8):2085-2099.   
+[3]Gaspers S,Papadimitriou C,Sether S H,et al.On satisfiability problems with a linear structure [J].arXiv preprint arXiv:1602.07876, 2016.   
+[4]Doerr B,Neumann F,Sutton A M. Time complexity analysis of evolutionary algorithms on random satisfiable k-CNF formulas [J]. Algorithmica,2017,78 (2): 561-586.   
+[5]Sosa-Ascencio A, Ochoa G,Terashima-Marin H,et al. Grammar-based generation of variable-selection heuristics for constraint satisfaction problems [J].Genetic Programming and Evolvable Machines,2016,17 (2):119-144.   
+[6]Abbe E,Montanari A.Conditional random fields,planted constraint satisfactionandentropyconcentration[M]//Approximation, Randomization, and Combinatorial Optimization Algorithmsand Techniques.Berlin:Springer,2013:332-346.   
+[7]Alfredo B,Luca D,Guilhem S,et al. The large deviations of the whitening process in random constraint satisfaction problems [J]. Journal of Statistical Mechanics: Theory and Experiment,2016,2016 (5): 053401.   
+[8]Kirkpatrick S,Selman B.Critical behavior in the satisfiability of random boolean expressions [J]. Science,1994,264 (5163):1297-1301.   
+[9]Kaporis A C, Kirousis L M, Lalas E G. The probabilistic analysis of a greedy satisfiability algorithm [J]. Random Structures & Algorithms, 2006,28 (4): 444-480.   
+[10] Dubois O,Boufkhad Y,Mandler J. Typical random 3-SAT formulae and the satisfiability threshold[J].arXiv preprint cs/0211036,2002.   
+[11] Xu Ke,Boussemart F, Hemery F,et al. Random constraint satisfaction: easy generation of hard satisfiable instances[J]. Artificial Intelligence, 2007. 171 (8): 514-534.   
+[12] Xu Ke,Wei Li.Many hard examples in exact phase transitions [J]. Theoretical Computer Science,2006,355 (3):291-302.   
+[13] Coja-Oghlan A,Panagiotou K. The asymptotic k-SAT threshold [J]. Advances in Mathematics,2016,288: 985-168.   
+[14] Williams R,Gomes C P，Selman B.Backdoors to typical case complexity [C]// Proc of the 18th International Joint Conference on Artificial Intelligence.San Francisco，CA：Morgan Kaufmann Publishers Inc，2003:1173-1178.   
+[15] Kilby P,Slaney J,Thiebaux S,et al. Backbones and backdoors in satisfiability[C]// Proc of the 2Oth National Conference on Artificial Intelligence.Pennsylvania :AAAI Press，2005: 1368-1373.   
+[16] Hemaspaandra LA,Narvaez D E. Search versus decision: the opacity of backbones and backdoors under a weak assumption [J].arXiv preprint arXiv: 1706.04582,2017.   
+[17] Janota M,Lynce I,Marques-Silva J.Algorithms for computing backbones of propositional formulae [J].AI Communications,2015,28 (2): 161-177.   
+[18] Gregory P,Fox M,Long D.A new empirical study of weak backdoors [C]// Proc of the 14th International Conference on Principles and Practice of Constraint Programming.Berlin: Springer,20o8:618-623.   
+[19] Marques-Silva J，Janota M，Lynce I.On computing backbones of propositional theories [Cl// Proc of the 19th European Conference on Artificial Intelligence.201o:15-20.   
+[20] Meier A,Ordyniak S,Ramanujan M S,et al.Backdoors for linear temporal logic [J].Algorithmica,2018,81(2): 476-496..   
+[21] Zhou Huan, Xu Shouzhi,Ren Dong,et al.Analysis of event-driven warning message propagation in vehicular ad hoc networks [J]. Ad hoc Networks,2017,55:87-96.   
+[22] Braunstein A, Mezard M, ZecchinaR.Survey propagation:an algorithm for satisfiability[J]. Random Structures & Algorithms,2005, 27 (2): 201-226.   
+[23] Krivelevich M,Vilenchik D.Solving random satisfiable 3CNF formulas in expected polynomial time [Cl//Proc of the 17th annual ACM-SIAM symposium on Discrete algorithm. Society for Industrial and Applied Mathematics.PhiladelphiaPA:Societyfor Industrial andAppied Mathematics，2006:454-463.   
+[24] Feige U, Mossel E, Vilenchik D. Complete convergence of message passingalgorithmsforsomesatisfiabilityproblems[M]/ Approximation， Randomization， and Combinatorial Optimization. Algorithms and Techniques.Berlin:Springer,2006: 339-350.   
+[25] Abbe E,Montanari A. Conditional random fields,planted constraint satisfactionandentropy concentration[M]// Approximation, Randomization，and Combinatorial Optimization．Algorithmsand Techniques.Berlin ： Springer,2013:332-346.   
+[26] Wang Xiaofeng,Jiang Jiulei.Warning propagation algorithm for the MAX-3-SAT problem [J].IEEE Trans on Emerging Topicsin Computing,http://doi.org/10.1109/tetc.2017.2736504.2017.   
+[27]王晓峰，许道云．警示传播算法收敛的充分条件[J].软件学报，, 2016,27 (12):3003-3013.(Wang Xiaofeng，Xu Daoyun．Sufficient conditions for warning propagation algorithm convergence [J].Journal of Software,2016,27(12):3003-3013.)   
+[28] Sutton A M,Neumann F.Runtime analysis of evolutionary algorithms onrandomly constructed high-density satisfiable 3-CNF formulas[C]// Proc of International Conference on Parallel Problem Solving from Nature.[S.1.]:Springer International Publishing.2014: 942-951.   
+[29]王晓峰，许道云，秦永彬．求解公式关键文字集的信息传播算法[J]. 山东大学学报:工学版，2011,41(3):1-6.(Wang Xiaofeng,Xu Daoyun, Qin Yongbin. Information propagation algorithm for solving keywordsetsofformulas[J].JournalofShandong University :Engineering Edition,2011,41(3):1-6.)

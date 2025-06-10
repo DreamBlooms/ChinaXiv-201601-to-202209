@@ -1,0 +1,157 @@
+# 陕西省大气环境承载力分析
+
+张侠¹，胡琳，李茜，王琦，樊敏²，田亮(1陕西省气候中心,陕西 西安 710015；2 西南科技大学,四川 绵阳 621010)
+
+摘要：以陕西省大气环境中 $\mathrm { S O } _ { 2 }$ 和 $\mathrm { P M } _ { 1 0 }$ 作为评估对象进行大气环境承载力研究，采用烟云足迹分析法计算了陕西省2010—2013年环境容量系数 $A$ 值和 $\mathrm { S O } _ { 2 } \ 、 \mathrm { P M } _ { 1 0 }$ 环境承载力的时空分布状况。结果表明：陕西省环境容量系数 $A$ 值变化范围较大，2010—2013年全省年平均 $A$ 值变化范围为1\~5，陕北地区环境容量系数 $A$ 值最大，其次为关中，陕南最小,2010—2013年关中地区西安、宝鸡和渭南呈现出逐年下降的趋势。 $\mathrm { S O } _ { 2 }$ 环境承载力全省整体上2010—2013年变化范围为 $- 1 4 8 ~ 5 7 8 . 0 4 \sim$ $- 1 8 9 ~ 1 4 9 . 5 9 ~ \mathrm { k m } ^ { 2 } ,$ 4a $\mathrm { S O } _ { 2 }$ 承载力均无余额，其中渭南和西安 $\mathrm { S O } _ { 2 }$ 承载力严重不足且呈下降趋势；$\mathrm { P M } _ { 1 0 }$ 环境承载力全省整体上2010—2013年变化范围为 $1 2 7 0 1 . 4 7 \sim 4 4 5 1 1 . 0 2 \ \mathrm { k m } ^ { 2 }$ ,4a $\mathrm { P M } _ { 1 0 }$ 承载力均有余额，全省各市除渭南和铜川外4a均有余额，但总体呈下降趋势。
+
+关键词：环境容量系数；大气环境承载力；烟云足迹分析法；陕西省中图分类号：X16 文献标识码：A 文章编号：
+
+目前，我国经济快速发展，城市化进程不断加快，城市化必然要求大规模的物质和能源消耗，导致环境污染问题[1]，人口、资源与环境之间的矛盾越来越复杂[2]。大气环境承载力是指在某一时期,某一区域,在某种状态下环境对人类活动所排放大气污染物的最大可能负荷的支撑阈值[3]。在我国关于环境承载力的研究主要有生态环境承载力[4、区域资源环境承载力[5]、水环境承载力[6]等。国内外关于大气环境承载力的系统分析、评价和应用将有助于协调区域发展和改善大气环境质量[7-9],国内外学者采用数据包络分析（DEA）模型[10-11]、烟云足迹分析法[12-13]、大气环境承载力相对剩余率和大气环境承载指数相结合的方法[14-17]等对不同空间尺度的大气环境容量、大气环境承载力的时空分布特征及其影响因素进行了综合和系统的研究。
+
+陕西省由于地理位置特殊，地势南北高，中部低，境内气候差异很大。复杂多样的地形地貌及气候特点使得大气环境污染机理极为复杂。关中城市群是陕西乃至西北地区的重要生产科研基地[18],工业污染和人类活动形成了大量空气污染源，城市自净能力和环境容量都十分有限，同时冬季采暖以煤为主的能源消耗，导致大量的污染物质排放，使大气环境极度恶化[19]。本研究对陕西省大气环境承载力的时空分布特征进行了分析，以全面把握全省大气环境承载力状况,对陕西省的大气环境调控具有一定的指导意义。
+
+# 研究区概况
+
+陕西省位于中国西北部，地理位置 $1 0 5 ^ { \circ } 2 9 ^ { \prime } \sim$ $1 1 1 ^ { \circ } 1 5 ^ { \prime } \mathrm { E }$ 和 $3 1 ^ { \circ } 4 2 ^ { \prime } \sim 3 9 ^ { \circ } 3 5 ^ { \prime } \mathrm { N }$ 之间。地域南北长,东西窄，南北长约 $8 8 0 ~ \mathrm { k m }$ ,东西宽约 $1 6 0 \sim 4 9 0 ~ \mathrm { k m }$ ，总面积 $2 0 . 5 8 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ 。全省设10 个省辖市和杨凌农业高新技术产业示范区。
+
+2010—2013 年陕西省各市工业 $\mathrm { S O } _ { 2 }$ 和 $\mathrm { P M } _ { 1 0 }$ 排放量存在明显的地域性差异（图1和图2）， $\mathrm { S O } _ { 2 }$ 排放量渭南最大，其次为榆林,延安、安康和商洛相对较小，杨凌排放量最小; $\mathrm { P M } _ { 1 0 }$ 排放量榆林最大，远大于其他各市,其次为渭南,渭南 2013 年排放量显著增大,达 $1 3 . 3 6 4 \times 1 0 ^ { 4 } ~ \mathrm { t } ^ { [ 2 0 ] }$ ,延安、安康和商洛相对较小,杨凌排放量最小。2010—2013 年陕西省工业 $\mathrm { S O } _ { 2 }$ 排放总量分别为 $7 0 . 7 0 \times 1 0 ^ { 4 } \mathrm { ~ t ~ } . 8 3 . 1 2 \times 1 0 ^ { 4 } \mathrm { ~ t ~ } . 7 4 . 7 1 \times$ $1 0 ^ { 4 } \mathrm { ~ t ~ } , 7 0 . 7 2 \times 1 0 ^ { 4 }$ t,全省 $\mathrm { P M } _ { 1 0 }$ 排放总量分别为11.91$\times 1 0 ^ { 4 } \mathrm { ~ t ~ } , 3 9 . 7 0 \times 1 0 ^ { 4 } \mathrm { ~ t ~ } , 3 8 . 5 5 \times 1 0 ^ { 4 } \mathrm { ~ t ~ } , 4 6 . 8 5 \times 1 0 ^ { 4 } \mathrm { ~ t ~ } _ { \circ }$
+
+![](images/e6eb294dd336df6b785c3051cbfe159b60a4351a7361da4d123a93324b834646.jpg)  
+图1陕西省各市 2010—2013 年 $\mathrm { S O } _ { 2 }$ 排放量 Fig.1 $\mathrm { S O } _ { 2 }$ emissions of the cities in Shaanxi Province from 2010 to 2013
+
+![](images/0950554d623c0bff83e20fd73703cde72020333810e4074c0bf2cc509a7311ad.jpg)  
+图2陕西省各市2010—2013 年 $\mathrm { P M } _ { 1 0 }$ 排放量 Fig.2 $\mathrm { P M } _ { 1 0 }$ emissions of the cities in Shaanxi Province from 2010 to 2013
+
+# 2资料与方法
+
+# 2.1 资料来源
+
+陕西省各市气象数据来源于2010—2013年全省98个地面气象台站的逐时气象观测资料。
+
+陕西省各市占地面积数据和2010—2013年工业 $\mathrm { S O } _ { 2 } \ 、 \mathrm { P M } _ { 1 0 }$ 排放量数据来源于 2011—2014 年陕西省统计年鉴。
+
+# 2.2 计算方法
+
+本研究采用烟云足迹分析法来计算大气环境承载力，该方法基于生态承载力足迹分析法建立的评估方法，定义任何区域的大气承载力（供给）足迹为该地区能用于清除其上空空气污染物的土地面积的总和[3]。大气承载力足迹表达式：
+
+$$
+\boldsymbol { L _ { f } } = \sum _ { i } \boldsymbol { W _ { i } } \times \boldsymbol { S _ { i } }
+$$
+
+烟云足迹表达式：
+
+$$
+\boldsymbol { E } _ { f } = \sum _ { i } \left( \boldsymbol { Q } _ { i } \times \boldsymbol { F } _ { i } \right)
+$$
+
+烟云足迹函数：
+
+$$
+\boldsymbol { F } _ { i } = \sqrt { S } \mathrm { ~ / ~ } ( \boldsymbol { A } _ { i } \times \boldsymbol { C } _ { s , i } )
+$$
+
+环境容量系数 $A$ 值：
+
+$$
+A = 3 . 1 5 3 \ 6 \times 1 0 ^ { - 3 } \times \frac { \sqrt { \pi } \times U \times H } { 2 } + 3 . \ 1 5 3 \ 6 \times
+$$
+
+$$
+\sqrt { S } \times \left( u _ { d } + w _ { r } \times R \right)
+$$
+
+式中： $\textstyle \mathbf { \big | } \mathbf { \big | } _ { i }$ 为权重系数; $S _ { i }$ 为各子区域面积 $(  { \mathrm { k m } } ^ { 2 } ) ; Q _ { i }$ 为各子区域污染物排放量( $\mathbf { \bar { \rho } } _ { \mathrm { ~ t ~ } } \cdot \mathbf { \rho } _ { \mathrm { ~ a ~ } } ^ { - 1 }$ ）； $s$ 为区域总面积 $\displaystyle ( \mathrm { k m } ^ { 2 } )$ ； $C _ { s , i }$ 为各子区域污染物年平均浓度阈值0 $\mathbf { \omega } _ { \mathrm { m g } } \cdot \mathbf { \omega } _ { \mathrm { m } } ^ { - 3 }$ ）； $U$ 为风速( $\mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ）； $H$ 为大气混合层厚度 $\mathbf { \Pi } ( \mathbf { m } ) \mathbf { \Pi } _ { : u _ { d } }$ 为干沉降速度( $\mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ）； $\boldsymbol { w } _ { r }$ 为清洗比（无量纲 $1 . 9 \times 1 0 ^ { - 5 }$ ）； $R$ 为年降水量 $( \mathbf { m } \mathbf { m } \cdot \mathbf { a } ^ { - 1 }$ ）。
+
+# 3 研究结果
+
+# 3.1环境容量系数 $A$ 值的确定
+
+环境容量系数 $A$ 值是气象条件，如混合层厚度、边界层的平均风速、降水等的函数，气象条件是随机量，因此， $A$ 值也是随机量，应以一定的概率值求取。本文计算 $A$ 值时暂不考虑干沉降，大气混合层厚度的计算采用国标法。图3为西安市2013年A值逐时变化图，可以看出， $A$ 值变化范围很大，而概率较大的 $A$ 值则在5以下。根据逐小时 $A$ 值求取逐日 $A$ 值，将各市逐日 $A$ 值的累积概率按 $7 5 \%$ 取值，则可确定陕西省各市相应的 $A$ 值，图4为2013年全省 $A$ 值空间分布图，由图可见陕北 $A$ 值最大,其次为关中，陕南最小。陕西省各市2010—2013 年$A$ 值情况如图5所示，全省 $A$ 值变化范围为1～5，榆林的 $A$ 值相对最大，其次为铜川,而西安、汉中和安康的 $A$ 值较小。时间变化上来看，西安、宝鸡和渭南 2010—2013年呈现出逐年下降的趋势,铜川、榆林和杨凌2011—2013 年呈现出逐年上升的趋势。
+
+# 3.2 足迹函数的计算
+
+烟云足迹函数表征单位质量的烟云被清除前，该烟云漫游过的面积。本研究选取 $\mathrm { S O } _ { 2 }$ 和 $\mathrm { P M } _ { 1 0 }$ 两种评价对象进行环境承载力研究，阈值浓度 $C s$ 由年均浓度标准限值与大气本底浓度值之差求取，本研究中区域的本底浓度取为一级标准的 $10 \%$ ，接近大陆内地的大气本底浓度[3]。根据式（3）确定各市2010—2013年 $\mathrm { S O } _ { 2 }$ 和 $\mathrm { P M } _ { 1 0 }$ 的足迹函数如表1、2所示。可以看出，单位质量 $\mathrm { S O } _ { 2 }$ 的清除需要相对较大的面积来进行，而单位质量 $\mathrm { P M } _ { 1 0 }$ 的清除所需面积相对较小。由于受气象条件因子环境容量系数 $A$ 值的影响，榆林、铜川、商洛和咸阳的足迹函数相对较小，西安、宝鸡、汉中和安康的足迹函数相对较大，西安和宝鸡2010—2013年呈现出逐年增大的趋势。
+
+![](images/13401e787a3c0a65c99294baa41b931ae97f1f39c49c05109baf649cd54430e5.jpg)  
+Fig.3Hourly variation of $A$ value in 2013 in Xi'an City
+
+![](images/b646640e5200eb83c63ac8820ccbfa70084130534efe93d6d21d80195df80b8c.jpg)  
+图3西安市2013年 $A$ 值逐时变化图
+
+# 3.3大气环境承载力的计算
+
+区域大气环境承载力的足迹是该区域可供给的承载面积，由于区域浓度的本底量已在确定浓度阈值时作了考虑，承载力足迹表达式(1)中权重系数$\textstyle \mathbf { \big | } \mathbf { \big | } _ { i }$ 的数值取为1，各辖区的占地面积即可供给承载面积。陕西省总承载力足迹为 $2 0 . 5 8 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ，全省各市承载力足迹如图6所示，其中，陕北地区榆林和延安承载力足迹最大，关中地区杨凌、铜川、西安、咸阳、渭南承载力足迹相对较小。
+
+根据各市的足迹函数和 $\mathrm { S O } _ { 2 }$ ） $\mathrm { P M } _ { 1 0 }$ 排放量，按式(2）可确定出各市排放的 $\mathrm { S O } _ { 2 }$ 和 $\mathrm { P M } _ { 1 0 }$ 的烟云足迹，烟云足迹代表排放出的烟云所漫游过的面积，承载力足迹与烟云足迹之差可得出承载力余额。表3和表4 分别为陕西省各市2010—2013 年 $\mathrm { S O } _ { 2 }$ 和 $\mathrm { P M } _ { 1 0 }$ 的承载力余额。承载力余额为正值代表区域排放的烟云足迹尚未遍历该区域供给的可承载面积，承载力余额为负值，则代表该区域排放的烟云足迹超出了该区域供给的可承载面积。由表3可见，延安、榆林、安康、商洛 $\mathrm { S O } _ { 2 }$ 承载力相对较好，2010—2013年$\mathrm { S O } _ { 2 }$ 承载力余额均为正值， $\mathrm { S O } _ { 2 }$ 承载力全省最差为渭南，其次为西安,2010一2013 年西安和渭南 $\mathrm { S O } _ { 2 }$ 承载力余额均为负值，由于渭南 $A$ 值较小且 $\mathrm { S O } _ { 2 }$ 排放量较大，烟云足迹远远超出其可承载面积，导致全省整体上2010—2013年 $\mathrm { S O } _ { 2 }$ 承载力余额均为负值。
+
+![](images/1d66d85b117c30314c30b0477596aaf19000e2ecb2aae5c46cbab4cf517c5ec7.jpg)  
+图4陕西省2013年 $A$ 值分布图Fig.4Spatial distribution of $A$ value in 2013 inShaanxi Province  
+图5陕西省各市2010—2013年 $A$ 值Fig.5 $A$ value of the cities in Shaanxi Provincefrom 2010 to 2013
+
+表1陕西省各市2010—2013年 $\mathbf { S } \mathbf { O } _ { 2 }$ 足迹函数  
+Tab.1 $\mathbf { S } \mathbf { O } _ { 2 }$ footprint function of the cities in Shaanxi Province from 2010 to 2013   
+
+<html><body><table><tr><td>足迹函数 /km²·104 t-1</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td></tr><tr><td>西安</td><td>4 628.16</td><td>6 110.61</td><td>6 141.24</td><td>7 900.59</td></tr><tr><td>铜川</td><td>2 190.92</td><td>2 523.09</td><td>2 438.96</td><td>2 228.37</td></tr><tr><td>宝鸡</td><td>4 858.13</td><td>5 586.85</td><td>5 662.75</td><td>6 110.61</td></tr><tr><td>咸阳</td><td>2 744.42</td><td>3 067.29</td><td>2 907.65</td><td>2 973.99</td></tr><tr><td>渭南</td><td>3 796.89</td><td>4 321.32</td><td>4 495.16</td><td>4 888.49</td></tr><tr><td>延安</td><td>5 112.15</td><td>5 046.18</td><td>5 179.86</td><td>3 604.42</td></tr><tr><td>汉中</td><td>7 520.75</td><td>6 921.76</td><td>6 063.24</td><td>7 821.58</td></tr><tr><td>榆林</td><td>1 573.76</td><td>1 827.47</td><td>1 730.44</td><td>1 580.12</td></tr><tr><td>安康</td><td>6 517.99</td><td></td><td></td><td></td></tr><tr><td>商洛</td><td>2 523.09</td><td>6 307.73</td><td>5 469.64</td><td>6 628.46</td></tr><tr><td>杨凌</td><td>3 415.54</td><td>2 697.10</td><td>2 444.24</td><td>2 475.18</td></tr><tr><td>其他</td><td>3 320.63</td><td>3 891.34 3 700.53</td><td>3 796.89 3 540.38</td><td>3 621.10 3493.20</td></tr></table></body></html>
+
+表2陕西省各市2010—2013年 $\mathbf { P M _ { 1 0 } }$ 足迹函数Tab.2 $\mathbf { P M _ { 1 0 } }$ footprint function of the cities in ShaanxiProvince from 2010 to 2013  
+
+<html><body><table><tr><td>足迹函数 /km²·104 t-1</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td></tr><tr><td>西安</td><td>1 851.26</td><td>2 444.24</td><td>2 456.50</td><td>3 160.24</td></tr><tr><td>铜川</td><td>876.37</td><td>1009.24</td><td>975.59</td><td>891.35</td></tr><tr><td>宝鸡</td><td>1 943.25</td><td>2 234.74</td><td>2 265.10</td><td>2 444.24</td></tr><tr><td>咸阳</td><td>1 097.77</td><td>1 226.92</td><td>1 163.06</td><td>1 189.59</td></tr><tr><td>渭南</td><td>1 518.75</td><td>1 728.53</td><td>1 798.07</td><td>1 955.40</td></tr><tr><td>延安</td><td>2 044.86</td><td>2 018.47</td><td>2 071.94</td><td>1 441. 77</td></tr><tr><td>汉中</td><td>3008.30</td><td>2 768.70</td><td>2 425.30</td><td>3 128.63</td></tr><tr><td>榆林</td><td>629.50</td><td>730.99</td><td>692.18</td><td>632.05</td></tr><tr><td>安康</td><td>2 607.19</td><td>2 523.09</td><td>2 187.86</td><td>2 651.38</td></tr><tr><td>商洛</td><td>1 009.24</td><td>1078.84</td><td>977.70</td><td>990.07</td></tr><tr><td>杨凌</td><td>1 366.22</td><td>1 556.53</td><td>1 518.75</td><td>1 448.44</td></tr><tr><td>其他</td><td>1 328.25</td><td>1 480.21</td><td>1 416.15</td><td>1 397.28</td></tr></table></body></html>
+
+![](images/101136a069ae98bf6dd542f226c5401410289bf98d1da38bde34e70ad42002b8.jpg)  
+图6陕西省各市承载力足迹  
+Fig.6Bearing footprint of the cities in Shaanxi Province
+
+由表4可见，除渭南和铜川外，全省其他各市2010—2013 年 $\mathrm { P M } _ { 1 0 }$ 承载力余额均为正值且余额较大。陕北地区延安和榆林 $\mathrm { P M } _ { 1 0 }$ 承载力余额相对最大，其次为陕南地区汉中、安康、商洛，关中地区各市相对较小。渭南 2010—2011 年 $\mathrm { P M } _ { 1 0 }$ 承载力余额和西安、咸阳较为接近，但2013年由于渭南 $A$ 值较小且 $\mathrm { P M } _ { 1 0 }$ 排放量明显增大，烟云足迹超出可承载面积，承载力余额降至负值。全省整体上 $\mathrm { P M } _ { 1 0 }$ 承载力2010一2013年均有余额，但总体呈下降趋势。
+
+表4陕西省各市2010—2013年 $\mathbf { P M _ { 1 0 } }$ 承载力余额  
+
+<html><body><table><tr><td colspan="5"></td></tr><tr><td>承载力 余额 /km²</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td></tr><tr><td>西安</td><td>-27 613.32</td><td>-49 705.13</td><td>-40 909.08</td><td>-44 487.19</td></tr><tr><td>铜川</td><td>304.38</td><td>-1 194.86</td><td>-529.18</td><td>53.04</td></tr><tr><td>宝鸡</td><td>-9 961.75</td><td>-6 277.68</td><td>846.82</td><td>557.85</td></tr><tr><td>咸阳</td><td>-13 552.68</td><td>-11 270.31</td><td>-9 423.31</td><td>-8 436.64</td></tr><tr><td>渭南</td><td>-97 754.67</td><td>-120 701.61</td><td>-106 798.77</td><td>-112 063.81</td></tr><tr><td>延安</td><td>30 982.44</td><td>27 831.06</td><td>27 580.97</td><td>30 752.38</td></tr><tr><td>汉中</td><td>-1 325.34</td><td>5 947.86</td><td>8 877.31</td><td>3 126.59</td></tr><tr><td>榆林</td><td>26 368.12</td><td>4 969.52</td><td>8 067.32</td><td>12 032.73</td></tr><tr><td>安康</td><td>19 603.29</td><td>17 311.28</td><td>18 225.14</td><td>17 276.13</td></tr><tr><td>商洛</td><td>16 457.56</td><td>13 145.78</td><td>14 266.14</td><td>14 639.34</td></tr><tr><td>杨凌</td><td>52.69</td><td>-64.85</td><td>-54.12</td><td>-42.07</td></tr><tr><td>其他</td><td>1 366.00</td><td>1366.00</td><td>1 366.00</td><td>1 366.00</td></tr><tr><td>合计</td><td>-148 578.04 -189 149.59</td><td></td><td>-156 813.51</td><td>-164 376.75</td></tr></table></body></html>
+
+表3陕西省各市2010—2013年 $\mathbf { S } \mathbf { O } _ { 2 }$ 承载力余额Tab.3 $\mathbf { S } \mathbf { O } _ { 2 }$ bearing remainder of the cities in ShaanxiProvince from 2010 to 2013  
+Tab.4 $\mathbf { P M _ { 1 0 } }$ bearing remainder of the cities in Shaanxi Province from 2010 to 2013   
+
+<html><body><table><tr><td colspan="5"></td></tr><tr><td>承载力 余额 /km²</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td></tr><tr><td>西安</td><td>7 021.02</td><td>5 880.75</td><td>5 818.32</td><td>5 085.39</td></tr><tr><td>铜川</td><td>3 592.64</td><td>-84.34</td><td>- 171.75</td><td>720.03</td></tr><tr><td>宝鸡</td><td>16 449.65</td><td>14 804.23</td><td>15030.04</td><td>14 256.74</td></tr><tr><td>咸阳</td><td>8 842.36</td><td>6 414.22</td><td>8 308.86</td><td>7 245.96</td></tr><tr><td>渭南</td><td>8 605.35</td><td>3 641.35</td><td>4 989.69</td><td>-14 606.65</td></tr><tr><td>延安</td><td>35 270.92</td><td>35 201.65</td><td>32 287.70</td><td>35 906.38</td></tr><tr><td>汉中</td><td>21 027.24</td><td>21 805.51</td><td>22 993.43</td><td>21 463.38</td></tr><tr><td>榆林</td><td>42 362.52</td><td>28 877. 64</td><td>29 433.43</td><td>30 693.24</td></tr><tr><td>安康</td><td>22 551.63</td><td>21 385.49</td><td>21 620.67</td><td>21 373.24</td></tr><tr><td>商洛</td><td>18 703.72</td><td>18 188.14</td><td>18 694.85</td><td>18 860.33</td></tr><tr><td>杨凌</td><td>128.31</td><td>100.65</td><td>107.09</td><td>110.06</td></tr><tr><td>其他</td><td>1 366.00</td><td>1 366.00</td><td>1 366.00</td><td>1 366.00</td></tr><tr><td>合计</td><td>44 511.02</td><td>30 656.22</td><td>33 975.17</td><td>12 701.47</td></tr></table></body></html>
+
+# 4结论
+
+(1)气象条件因子环境容量系数 $A$ 值陕北地区最大,其次为关中，陕南最小。其中榆林的 $A$ 值相对最大，其次为铜川，而西安、汉中和安康的 $A$ 值较小。2010—2013年关中地区西安、宝鸡和渭南呈现出逐年下降的趋势。受环境容量系数A值的影响，榆林、铜川、商洛和咸阳的足迹函数相对较小，西安、宝鸡、汉中和安康的足迹函数相对较大，且西安和宝鸡2010一2013年呈现出逐年增大的趋势。
+
+(2) $\mathrm { S O } _ { 2 }$ 环境承载力陕西省整体上2010—2013年均已无余额。其中延安、榆林、安康、商洛 $\mathrm { S O } _ { 2 }$ 承载力相对较好,2010—2013 年 $\mathrm { S O } _ { 2 }$ 承载力余额均为正值，渭南和西安 $\mathrm { S O } _ { 2 }$ 承载力严重不足，2010—2013年 $\mathrm { S O } _ { 2 }$ 承载力余额均为负值。由于渭南环境容量系数 $A$ 值较小且 $\mathrm { S O } _ { 2 }$ 排放量较大，烟云足迹远远超出其可承载面积,导致全省整体上2010—2013 年 $\mathrm { S O } _ { 2 }$ 承载力均无余额。
+
+(3) $\mathrm { P M } _ { 1 0 }$ 环境承载力陕西省整体上2010—2013年均有余额。其中渭南2010—2011年 $\mathrm { P M } _ { 1 0 }$ 承载力余额和西安、咸阳较为接近，但2013年由于渭南环境容量系数 $A$ 值较小且 $\mathrm { P M } _ { 1 0 }$ 排放量显著增大，烟云足迹超出可承载面积，承载力余额降至负值。除渭南和铜川外，全省其他各市 2010—2013 年均有余额，但总体呈下降趋势
+
+# 参考文献(References)
+
+[1］安瓦尔·买买提明,张小雷，杨德刚.阿图什市城市化过程的 大气环境污染效应[J].干旱区地理，2012，35（2)：274-280. [MAIMAITIMING Anwaer,ZHANG Xiaolei,YANG Degang.Urbanization and its effect on air pollution in Atux City[J].Arid Land Geography,2012,35(2）:274 -280.]   
+[2］卢新卫,陈鹏.西安城市化进程与环境生态问题研究[J].干旱 区资源与环境,2006,20(1）:7-12.[LU Xinwei,CHEN Peng. Urbanization and ecological environment problems of Xi'an［J]. Journal of Arid Land Resources and Environment,2OO6,2O（1）:7 -12.]   
+[3］徐大海,王郁.确定大气环境承载力的烟云足迹法[J].环境科 学学报,2013,33（6）:1734-1740.［XUDahai,WANG Yu. Plume footprints analysis for determining the bearing capacity of atmospheric environment[J].Acta Scientiae Circumstantiae,2013, 33(6) :1734 -1740.]   
+[4］李朝辉,魏贵臣.生态环境承载力评价方法研究及实例[J].环 境科学与技术，2005，28（1） $: 7 5 - 7 6 + 1 1 8$ .［LIZhaohui,WEI Guichen.Regional ecological carrying capacity:Evaluation and a case study[J].Environmental Science and Technology,2O05,28 (1) $: 7 5 - 7 6 + 1 1 8 .$ ]   
+[5] 曹月娥,塔西甫拉提·特依拜,杨建军,等.新疆土地利用总体 规划中的区域资源环境承载力分析[J].干旱区资源与环境， 2008,22(1）:44-49.CAO Yuee,TIYIP Tashpolat,YANG Jianjun,et al.The analysis of carrying capacity of resources and environment in the general land use planning of Xinjiang[J]. Journal of Arid Land Resources and Environment,2008,22(1）:44-49.]   
+[6］江明峰,马太玲,孙晶.呼和浩特市水环境承载力综合评价 [J].干旱区资源与环境,2010,24（9）:60-63.[JIANG Mingfeng,MA Tailing,SUN Jing.Comprehensive evaluation on water environment carrying capacityof Hohot[J]. Journalof Arid Land Resources and Environment,2010,24（9）:60 -63.]   
+[7］彭再德,杨凯,王云.区域环境承载力研究方法初探[J].中国 环境科学,1996,16（1):6-10.[PENG Zaide,YANG Kai, WANG Yun.The primaryexploringof theresearch method of AESC[J].China Environmental Science,1996,16(1）:6-10.]   
+[8］毛汉英,余丹林.区域承载力定量研究方法探讨[J].地球科学 进展,2001,16(4）:549-555.[MAO Hanying,YU Danlin.A study on the quantitative research of regional carrying capacity [J].Advance in Earth Sciences,2001,16(4）:549-555.]   
+[9]李定策,齐永安.焦作市区大气环境承载力分析[J].焦作工学 院学报：自然科学版,2004,23（3）:220－223.[LIDingce,QI Yongan.Analysis of atmosphere environment bearing capacity in Jiaozuo City[J].Journal of Jiaozuo Institute of Technology(Natral Science）,2004,23(3):220-223.]   
+[10］王俭,孙铁珩,李铁军,等.环境承载力研究进展[J].应用生态 学报,2005,16（4）:768-772.[WANG Jian,SUN Tieheng,LI Tiejun,et al. Research progresson environmental carrying capacity [J]. Chinese Journal of Applied Ecology,2005,16（4）:768- 772.]   
+[11］刘立勇,王彬,李忠武.典型城区山岳型风景区大气环境承载 力分析[J].生态环境学报,2009,18（2）:688-692.[LIU Liyong,WANG Bin,LI Zhongwu.Exploitation of atmosphere environment sustainable capacity for a typical urban mountain scenic spot[J].Ecology and Environmental Sciences,2009,18（2）:688 -692.]   
+[12］郑健,关宁,杨成梅.干旱区绿洲城市大气环境承载力分析及 预测——以乌鲁木齐市为例[J].西北师范大学学报（自然科 学版）,2015,51（6）:110－114.[ZHENG Jian,GUAN Ning, YANG Chengmei. Urbanoasis environmental carring capacityanalysis and prediction of atmospheric arid zone[J]. Journal of Northwest Normal University（Natural Science）,2015,51(6）:110 -114.]   
+[13］宋宇.中国区域大气环境承载力DEA评价[J].河南农业大学 学报,2011,45(5）:600-604.[SONG Yu.Evaluation of air environment carrying capacity based on DEA in China[J]. Journal of Henan Agricultural University,2011,45（5）:600-604.]   
+[14] CLARKEA A L. Assessing the carrying of the Florida Keys[J]. Population& Environment,2002,23（4）:405-418.   
+[15]MONTE-LUNA P,BROOK B W,ZETINA-REJON MJ,et al. The capacity of ecosystems[J].Global Ecology and Biogeography, 2004,13(6) :485 -495.   
+[16]HARNES A,COOPER W W,RHODES E. Measuring the ffiency of decision making units[J].European Journal of Operational Research,1978,2(6) :429-444.   
+[17］范丽雅,余锡刚,金均.浙江省大气环境承载力时空分布特征 研究［J].环境污染与防治,2013,35（12）：72－77.［FAN Liya,YU Xigang,JIN Jun.Analysis of spatial and temporal futures of atmospheric environmental carrying capacity of Zhejiang Prov
+
+ince[J].Environmental Pollution & Control,2013,35（12）:72- 77.]
+
+[18］胡琳，王琦，张文静，等.关中地区低能见度事件变化特征分析 [J].干旱区地理,2016,39（1）:41-46.[HULin，WANGQi, ZHANG Wenjing，et al.Variation of lowvisibility eventsin Guanzhong of Shaanxi[J].Arid Land Geography,2016,39（1）:41 -46.]
+
+[19］赵丽莉，魏疆，陈学刚，等.乌鲁木齐市“煤改气"对 $\mathrm { S O } _ { 2 }$ 浓度空 间变化的影响［J].干旱区地理，2014，37（4）：744－749.[ ZHAO Lili,WEI Jiang,CHEN Xuegang,et al.Effect of“coal to gas”project on $\mathrm { S O } _ { 2 }$ concentration at different districts of Urumqi City in winter[J].Arid Land Geography,2014,37（4）:744- 749.]
+
+[20］陕西省统计局.陕西统计年鉴[M].北京：中国统计出版社， 2014.［Shaanxi Provincial Bureau of Statistics.Shaanxi statistical yearbook[M].Beijing:China Statistics Press,2014.]
+
+# Bearing capacity of atmospheric environment in Shaanxi Province
+
+ZHANG Xia'，HU Lin'， $\operatorname { L I } { \operatorname { Q i a n } ^ { 1 } }$ ，WANG $\mathrm { Q i } ^ { 1 }$ ，FAN Min1， TIAN Liang1 (1Shaanxi Provincial Climate Center，Xi'an 71oo15,Shaanxi,China; 2Southwest University of Science and Technology,Mianyang 621o1o,Sichuan,China)
+
+Abstract：In recent years,the atmospheric environmental pollution in Shaanxi Province,China has been more and more serious due to itscomplex terrain and fasturbanization.Therefore,it is meaningful to improve airquality,promote coordinated development between economy and environmentthrough comprehensively understanding the bearingcapacity of atmospheric environment in Shaanxi Province.Based on the observed meteorological data from 98 meteorological stations,this study took the annual average emissions of $\mathrm { S O } _ { 2 }$ and $\mathrm { P M } _ { 1 0 }$ as evaluation objectives from 2010 to 2O13 in Shaanxi Province.The study also analyzed the spatial and temporal distributions of theenvironmental capacity coeficient （A） and bearing capacities of atmospheric environment for $\mathrm { S O } _ { 2 }$ and $\mathrm { P M } _ { 1 0 }$ through plume footprint analysis approach based on the analysis of ecological footprint.The results were shown as follows：（1）The varied magnitudeof environmental capacity coefficient （A）was large,and the average value of environmental capacity coeficient（A） in the whole Shaanxi Province was ranged from1 to5.The largest value of environmental capacitycoeficient（A）ocurred in Yulin City which is located in the north of Shaanxi Province,anditscorresponding values were ranged from 4 to 5.The second largest valueof environmental capacity coeficient（A）appeared in Tongchuan City which is located in central Shaanxi Province,and thevaried range of its corrsponding values was from 3 to 4.The lowest value of environmental capacity coeficient $( A )$ was in Hanzhong City which is located in the south of Shaanxi Province,and thecorresponding values were from1 to1.5.In particular,the environmental capacity coefficients $( A )$ of Xi'an,Baoji,and Weinan cities were gradually decreased from 2O1O to 2013.（2） The bearing capacities of $\mathrm { S O } _ { 2 }$ across Shaanxi Province were larger than critical values during 2O1O—2O13,and the values of bearing capacities of $\mathrm { S O } _ { 2 }$ were negative and ranged from $- 1 4 8 ~ 5 7 8 . 0 4 ~ \mathrm { k m } ^ { 2 }$ to $- 1 8 9 ~ 1 4 9 . 5 9 ~ \mathrm { k m } ^ { 2 }$ which indicated that there was not enough space for bearing $\mathrm { S O } _ { 2 }$ in these four years. Moreover,the bearing capacities of $\mathrm { S O } _ { 2 }$ in Weinan and Xi'ancities wereseverely larger than critical valuesand were obviously in descendant trend from 2010 to 2O13.Compared with Weinan and Xi'an cities,the bearing capacities of $\mathrm { S O } _ { 2 }$ in Yan'an,Yulin,Ankang,and Shangluo cities were beter whose annual average values were positive during these four years.（3）The bearing capacities of $\mathrm { P M } _ { 1 0 }$ across Shaanxi Province were less than critical values from 2O1O to 2O13,and the values of bearing capacities of $\mathrm { P M } _ { 1 0 }$ were positive and ranged from $1 2 7 0 1 . 4 7 ~ \mathrm { k m } ^ { 2 }$ to $4 4 ~ 5 1 1 . 0 2 ~ \mathrm { k m } ^ { 2 }$ which suggested that there was still space for bearing $\mathrm { P M } _ { 1 0 }$ in these four years.The environmental capacity coeficient $( A )$ in Weinan City was low and the emitted amount of $\mathrm { P M } _ { 1 0 }$ was significantly increased in 2O13 which revealed that plume footprint was over than bearing area.Particularly,the bearing capacities of $\mathrm { P M } _ { 1 0 }$ in all cities were lower than critical values from 2010 to 2013 except Weinan and Tongchuan cities ,and the bearing capacities of $\mathrm { P M } _ { 1 0 }$ across Shaanxi Province was in descendant trends.
+
+Key words：environmental capacity coeficient；bearing capacity of atmospheric environment；plume footprint analysis；Shaanxi Province

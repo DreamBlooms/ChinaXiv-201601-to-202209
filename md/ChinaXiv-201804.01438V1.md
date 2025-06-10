@@ -1,0 +1,236 @@
+# 基于节点综合相似度的多标签传播社区划分算法\*
+
+郝梓琳，李雷，施化吉(江苏大学 计算机科学与通信工程学院，江苏 镇江 212013)
+
+摘要：为了解决现有的多标签传播社区划分算法采用的随机顺序策略导致形成的社区划分结果不稳定和社区质量不够高的问题，提出了一种基于节点综合相似度的多标签传播社区划分算法MLPA-NCS。以节点潜在影响力的降序作为节点选择顺序，解决社区结果划分不稳定问题。根据节点的主题相似度和链接相关度计算出节点综合相似度，并以节点综合相似度降序作为更新节点标签时对邻近节点遍历的顺序，提高所划分社区的质量。采用真实数据集和人工网络数据，对多个算法进行对比实验，结果表明算法有效可行，社区划分结果更稳定，社区质量也更高。
+
+关键词：社区划分；标签传播；重叠社区；综合相似度；主题相似度中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2017.12.0809
+
+# Multi-label propagation algorithm for community division based on node comprehensive similarity
+
+Hao Zilin, Li Lei, Shi Huaji (School ofComputer Science& Communication Enginering Jiangsu University,Zhenjiang Jiangsu 212013,China)
+
+Abstract:To solve the problem that recent research about multi label propagation communitydivisionalgorithmadopted the randomsequence strategy to result in unstableresult ofcommunitydivision and poorcommunity quality,this paper proposeda Multi-label Propagation Algorithm Basedon the Node Comprehensive Similarity(MLPA-NCS)forcommunitydivision.This paper chose the descending orderof node potential impact as the node selection order in order to solvethe problem of the instabilityofthe propagation.Node synthesis similaritycouldbecalculated basedon the themeof node similarityand link correlation,andit's descending order wasusedas the orderof neighboring nodestraversal whenupdating the node label to improve theqalityof thecommunities found.This paperusedreal data sets andartificial network datatocompare theresults ofseveral algorithms.Theresultsshow that thealgorithmis efectiveand feasibleandableto maketheresultofcommunity division more stable while the quality of community more efectively.
+
+Key words: communitydivision; label propagation; overlapping community;comprehensive similarity;topic similarity
+
+# 0 引言
+
+社区结构是社交网络中极为重要的特性之一，通常认为同一个社区内关系紧密，社区之间关系稀疏。对社区结构进行划分有助于节省资源，例如对以社区为单位的结构进行广告投放、信息推荐和舆情控制等。
+
+目前已有研究者提出基于标签传播思想对社区进行划分，Reghavan 等人[1]首次提出基于标签传播的社区划分算法LPA，由于其时间复杂度几乎是线性且算法设计较为简单，使得该算法被广泛应用于大型网络社区划分中，该算法仅允许每个节点拥有一个标签，生成的社区为非重叠社区，然而现实的社交网络中常常有节点同时属于不同的社区，形成较为复杂的重叠社区。为此，很多学者对其进行改进，提出了各种改进算法[2]。其中Gregory[3]对LPA算法进行扩展提出基于多标签传播的重叠社区划分算法COPRA，允许节点同时携带多个社区的标签和相应标签的隶属度，在重叠社区划分中取得了较为明显的效果，但COPRA算法是采用随机顺序策略选择节点更新标签，且在迭代过程中也随机遍历邻接节点的标签集，随机顺序策略的采用使得传播过程不确定，导致社区划分结果不稳定且生成社区质量不够高。Xie等人[4则提出了SLPA算法来实现重叠社区的划分，节点在每次标签传播中只能够传播一个标签，但是允许节点保留其所有感兴趣的标签，最后统计标签序列中出现的各标签概率。2016年，刘世超等人[5]提出基于标签传播概率的重叠社区发现算法LPPB，综合利用网络的结构特点与节点属性计算标签传播的概率；张昌理等人[提出基于信息熵和局部相关性的多标签传播重叠社区发现算法，按照标签熵从小到大的顺序进行标签更新，使得最后的划分结果相对稳定一些。文献[7]提出了基于边界节点和标签传播的社区划分算法，在一定程度上降低标签传播的随机性。
+
+为此，本文以COPRA算法框架为基础对其改进，提出基于节点综合相似度的多标签传播社区划分算法（Multi-labelPropagation Algorithm Based on the Node ComprehensiveSimilarity，MLPA-NCS)。首先以用户节点的潜在影响力降序作为节点更新顺序，以解决社区结果划分不稳定问题。然后考虑节点之间潜藏的主题相似因素和链接关系，以节点主题相似度和链接相关度作为更新节点标签时对邻近节点遍历的顺序，避免因随机策略更新标签带来的不稳定问题，并提高生成社区的质量。
+
+# 1 相关工作与问题提出
+
+标签传播思想为每个节点赋予唯一的标签，通过在迭代更新中接受邻接节点标签的影响来改变自身的标签，直至标签不再改变，此时标签相同的节点划为同一个社区。COPRA算法允许同一个节点在迭代更新中携带多个标签，从而使得迭代结束后同一节点可属于多个社区，得到重叠社区结构。
+
+COPRA算法的基本思想如下：
+
+a）初始化节点标签。初始时对网络中的每一个节点 $\boldsymbol { \nu }$ 各自赋予不同标签 $\boldsymbol { \mathscr { c } }$ ，表示其从属的社区，标签对应的隶属度为 $b$ $b$ 都为1。以后随着标签传播过程将更新标签节点的标签集，每一个标签有对应的隶属度。
+
+b）标签传播过程。网络中的任意节点 $\mathbf { \Lambda } _ { \nu }$ 在标签传播过程中通过接受邻接节点 $u$ 的影响来更新自己的标签集lable(v)，如此进行迭代更新。在 $t$ 轮迭代中按式（1）计算节点 $\nu$ 的每一个标签 $\mathbf { \Psi } _ { c }$ 的隶属度。
+
+$$
+b _ { t } ( c , \nu ) = \frac { \displaystyle \sum _ { u \in N ( \nu ) } b _ { t - 1 } ( c , u ) } { \displaystyle | N ( \nu ) | }
+$$
+
+并对所有标签的隶属度进行标准化，使隶属度之和为1，如式（2）所示。
+
+$$
+\sum _ { c \in l a b e l ( \nu ) } b ( c , \nu ) = 1
+$$
+
+c)直至每个节点的标签集不再更改或者满足迭代次数后停 正迭代，标签传播过程停止。
+
+d）根据节点最终的标签集确定其所属的社区。
+
+COPRA算法按照随机顺序选择网络中节点迭代更新其标签，所采用的同步更新策略会导致下一轮迭代对节点标签的更新依赖于上一轮更新的结果，选择不同的节点更新标签势必会产生不同的划分结果。多次实验发现，社区划分在迭代更新节点标签时对节点的选择顺序非常敏感，通过随机顺序选择节点更新标签会造成每次实验的收敛结果都不一致，且社区划分结果都存在着一定程度的差异。实际上网络中影响力大的节点通常也是网络中的重要节点，PageRank中心性认为节点的重要性取决于邻接节点的度及其重要性，若节点的邻接节点在网络中很重要，则该节点成为重要节点的可能性也越大。因此可以用PageRank中心性评估节点的潜在影响力，按其降序选择节点进行标签更新，可以在一定程度上解决由于随机顺序选择节点造成的划分结果不稳定问题并提高划分社区的质量。
+
+COPRA算法在更新节点标签时只是随机遍历其邻接节点的标签对其影响以更新自己的标签集，且忽略了不同邻近节点（分为直接邻接节点和间接邻接节点，其含义见后文2.1.2节解释）对其影响程度的差异。在实际社交网络中，尽管很多用户之间没有直接邻接，但是他们拥有相同的粉丝，或者共同关注某人，这说明他们之间在一定程度上也有间接的联系或影响，因此在更新节点标签时，不仅要考虑直接邻接节点而且还要考虑间接邻接节点的影响，为此本文通过节点链接相关度来度量节点间的链接关系。除了链接关系外，社交网络中的用户之间在关注的主题上也存在一定的相似性，通过用户的主题相似性程度进行社区划分，所得到的社区更具有相对一致的主题，得到的社区质量更高。
+
+# 2 基于节点综合相似度的多标签传播算法MLPA-NCS
+
+MLPA-NCS算法首先初始化节点标签，然后依据节点的潜在影响力降序选取节点，以避免由于随机顺序选取节点带来的社区结构划分不稳定现象；接着在计算待更新标签节点与其邻近节点的主题相似度和链接相似度基础上得出节点的综合相似度，并以其排序作为更新节点标签时对邻近节点遍历的顺序，保证了标签隶属度的稳定性，以提高生成社区的质量。
+
+定义1社交网络 $G$ 。将社交网络抽象表示为一个有向图$G ( V , E )$ ， $V$ 是 $G$ 中用户节点的集合， $E$ 是 $G$ 中有向边的集合，其中 $V = \left\{ \nu _ { 1 } , \nu _ { 2 } , \cdots \nu _ { n } \right\}$ ，$\mid V \mid = n , E = \left\{ \langle \nu , u \rangle \mid \nu , u \in V \right\}$ ， $\left. \nu , u \right.$ 表示由节点 $\mathbf { v }$ 指向节点 $\mathrm { ~  ~ u ~ }$ 的有向边。
+
+初始化节点标签时对 $G$ 中的每一个用户节点 $\boldsymbol { \nu }$ 赋予一个唯一的标签 $\mathbf { \Psi } _ { c }$ ，表示其从属的社区。初始时指定所有标签的隶属度 $b ( c , \nu ) = 1$ 。
+
+# 2.1标签传播过程
+
+# 2.1.1节点选择策略
+
+COPRA算法每次迭代都按随机顺序选择节点更新标签，生成的社区结构不稳定。MLPA-NCS算法根据节点潜在影响力降序选择节点更新标签。
+
+定义2节点潜在影响力 $P I$ 。节点潜在影响力 $P I$ 表示节点在网络中的重要程度及对其他节点的影响程度。PageRank中心性是有向网络特征向量中心性的变种，节点的中心性评估方法中特征向量中心性认为节点的重要性取决于邻接节点的度和邻接节点的重要性，因此可用PageRank中心性评估节点的潜在影响力。 $\mathbf { G }$ 中任意节点 $\nu _ { i }$ 的潜在影响力 $P I$ 计算如式（3）所示。
+
+$$
+P I \left( \nu _ { i } \right) = \left( 1 - f \right) + f \sum _ { \nu _ { j } \in N \left( \nu _ { i } \right) } \frac { P I \left( \nu _ { j } \right) } { C _ { D O } \left( \nu _ { j } \right) }
+$$
+
+其中: $N ( \nu _ { i } )$ 表示节点 $\nu _ { i }$ 的所有的父邻接节点组成的集合，$C _ { D o } ( \nu _ { j } )$ 表示节点 $\boldsymbol { \nu } _ { j }$ 的出度， $f$ 表示阻尼系数，一般取0.85。它是用来加速算法的收敛，而且可以避免由于孤立节点的存在而导致不能收敛的情况。
+
+# 2.1.2标签遍历顺序
+
+确定了要更新节点的顺序后，就可以对所选节点更新其标签集。更新节点标签时以所选节点和邻近节点的综合相似度降序为标签遍历顺序，节点的综合相似度通过链接相关度[8]和主题相似度[]计算得到。
+
+邻近节点包括直接邻接节点和间接邻接节点。若节点 $\nu , u$ 满足 $( < \nu , u > \in E \lor < u , \nu > \in E )$ ，则称 $\nu$ 和 $u$ 互为直接邻接节点。若节点 $\mathbf { \Delta } _ { \nu , u }$ 满足 $( < \nu , u > \# E \ \wedge < u , \nu > \# \ E \wedge ( ( < \nu , w > \in E \wedge < u , w > \in E ) \vee$ （204号 $( < w , \nu > \in E / \setminus < w , u > \in E ) \lor ( < \nu , w > \in E \land < w , u > \in E ) \lor ( < u , w > \in E )$ $\in E \ \wedge < w , \nu > \in E ) )$ )，则称 $\nu$ 和 $u$ 互为间接邻接节点。
+
+定义3链接相关度link。社交网络拓扑由用户节点和用户的双向关注构成，用户节点的链接相关度表示在网络拓扑中节点之间的链接紧密程度。用户节点 $\nu$ 和 $\boldsymbol { u }$ 的链接相关度link定义如式（4）所示。
+
+$$
+l i n k _ { \nu u } = \left\{ \begin{array} { l l } { \displaystyle \frac { 1 } { 2 } a d j _ { \nu u } + \frac { 1 } { 2 } a d j _ { u \nu } } & { \nu u \not \boxplus \not \exists \not \& \not \exists \not \equiv \not \exists \not \exists \not \} } \\ { \displaystyle \alpha ( c o _ { \nu u } + c i _ { \nu u } ) + \beta S _ { \nu u } } & { \nu u \not | \exists \not \equiv \not \exists \not \equiv \not \exists \not \exists \not \equiv } \end{array} \right.
+$$
+
+对 $\forall x , y \in V$ ，若 $< x , y > \in E$ ，则定义 $x$ 到 $y$ 的路径长度 $a d j _ { x y }$ 为1，否则为0。当节点 $\nu$ 和 $u$ 互为间接邻接节点时，若 ${ < } \nu , w >$ $\in E \wedge < u , w > \in E$ ，则表示 $\nu$ 和 $u$ 有共同指向关系，用 $\displaystyle c o _ { \nu u }$ 表示；若 $< w , \nu > \in E \land < w , u > \in E$ ，则表示 $\boldsymbol { \nu }$ 和 $\boldsymbol { u }$ 有共同被指向关系，用$c i _ { \nu u }$ 表示；若 $< \nu , w > \in E \bigwedge < w , u > \in E \bigstar ) \bigvee \big ( < u , w > \in E \bigwedge < w , \nu >$ $\in E )$ ，则表示 $\nu$ 和 $u$ 有路径长度为2的链接关系，用 $S _ { \nu u }$ 表示。若 $< \nu , w > \in E \land < u , w > \in E .$ 则 $\nu$ 经 $w$ 到 $u$ 的路径长度 $S p l _ { \nu u } = a d j _ { \nu w }$ $+ \ a d j _ { _ { w u } } = 2 \circ \ S p l _ { u \nu }$ 也类似。间接邻接节点限定在路径长度为2的节点。式（4）中取 $\scriptstyle { a = { \beta } = 0 . 5 }$ 。 $c o _ { \nu u }$ 、 $c i _ { \nu u }$ 和 $S _ { \nu u }$ 如式（5）、(6)、（7）所示， $O _ { \nu }$ 表示节点 $\nu$ 的出度， $I _ { \ d _ { \nu } }$ 表示节点 $\nu$ 的入度。
+
+$$
+c o _ { \nu u } = \frac { \vert O _ { \nu } \cap O _ { u } \vert } { \vert O _ { \nu } \cup O _ { u } \cup I _ { \nu } \cup I _ { u } \vert }
+$$
+
+$$
+c i _ { \nu u } = \frac { \mid I _ { \nu } \bigcap I _ { u } \mid } { \mid O _ { \nu } \cup O _ { u } \cup I _ { \nu } \cup I _ { u } \mid }
+$$
+
+$$
+S _ { \nu u } = { \frac { 1 } { 2 s p l _ { \nu u } } } + { \frac { 1 } { 2 s p l _ { u \nu } } }
+$$
+
+定义4主题相似度 topic。主题相似度用来衡量节点 $\mathbf { \sigma } _ { \nu }$ 与邻近节点 $u$ 在主题上的相似程度。将用户的主题分布表示为向量空间的简单映射后，可通过主题概率分布计算得到两个用户的主题相似度。可用KL（Kullback-Leiblerdivergence）距离的对称版本JS（Jensen-Shannon）散度来衡量主题相异度，再根据主题相异度计算主题相似度。节点 $\mathbf { v }$ 和 $\mathrm { ~  ~ u ~ }$ 之间的差异可用主题相异度公式 $d i s t ( \nu , u ) ^ { [ 1 0 ] }$ 计算，如式（8）、（9）所示。若V为用户节点集，T为主题集，则由 $\mathrm { \Delta V }$ 和T可构成"用户一主题"矩阵UTM，UTM反映了所有用户节点 $\nu$ 的主题概率分布 $\boldsymbol { V } \boldsymbol { T } \boldsymbol { P } _ { \nu }$ 。式中 $D _ { _ { J S } } ( \nu , u )$ 是 $\boldsymbol { V } \boldsymbol { T } \boldsymbol { P } _ { \nu }$ 和 $V T P _ { u }$ 之间的 JS 散度, $M = \frac { 1 } { 2 } ( V T P _ { \mathrm { { \nu } } } + V T P _ { \mathrm { { \nu } } } )$ 是 $\boldsymbol { V } \boldsymbol { T } \boldsymbol { P } _ { \nu }$ 和 $V T P _ { u }$ 的均值， $D _ { { \cal K } { \cal L } } ( P \| Q ) = \sum _ { t \in { \cal T } } P ( t ) \log \frac { P ( t ) } { Q ( t ) }$ 是Q到 $\mathrm { ~ \bf ~ P ~ }$ 的KL 散度。
+
+$$
+D _ { J S } ( \nu , u ) { = } { \frac { 1 } { 2 } } ( D _ { K L } ( V T P _ { \nu } \| M ) { + } D _ { K L } ( V T P _ { u } \| M ) )
+$$
+
+$$
+d i s t ( \nu , u ) = \sqrt { 2 \times D _ { _ { J S } } ( \nu , u ) }
+$$
+
+用户节点 $\nu$ 和 $\boldsymbol { u }$ 的主题相似度定义如式（10）所示。
+
+$$
+t o p i c _ { _ { v u } } = 1 - d i s t ( \nu , u ) = 1 - \sqrt { 2 \times D _ { _ { J S } } ( \nu , u ) }
+$$
+
+定义5综合相似度 $s i m _ { \nu u }$ 。融合节点 $\nu$ 和 $\boldsymbol { u }$ 的主题相似度和链接相似度就得到用户的综合相似度，如式（11）所示。参数设置采用黄金分割比例，设λ数0.618。
+
+$$
+s i m _ { \nu u } = \lambda t o p i c _ { \nu u } + ( 1 - \lambda ) l i n k _ { \nu u }
+$$
+
+# 2.1.3更新节点标签
+
+对待更新节点 $\nu$ 的邻近节点根据综合相似度排序后，开始更新节点标签。节点接受邻近节点的标签影响程度与节点之间的综合相似度有关，综合相似度高的节点之间标签影响作用更明显，在此考虑将 $s i m _ { \nu u }$ 值引入到节点标签的更新， $\nu$ 的某个标签 $\boldsymbol { \mathscr { c } }$ 在 $t$ 轮迭代中的隶属度可用式（12）计算。
+
+$$
+b _ { t } ( c , \nu ) = \frac { \displaystyle \sum _ { u \in N ( \nu ) } s i m _ { u \nu } \cdot b _ { t - 1 } ( c , u ) } { \displaystyle \mid N ( \nu ) \mid }
+$$
+
+其中: $N ( \nu )$ 为节点 $\nu$ 的邻近节点集合。
+
+在更新节点标签时，如果某些节点携带无穷多隶属度较小的标签，使得该节点属于无穷多的社区，影响了所划分的社区的质量，所以需要设定淘汰机制。本文利用淘汰参数 $\delta$ 0 $0 . 2 7 { < } \delta { < } 0 . 6 2$ ）来限制节点所拥有的标签个数，根据经验本文取其值为0.6。在每次标签更新完成后，对隶属度做归一化处理，使得每一个节点所拥有的标签隶属度总和为1，将标签集合中的元素根据隶属度进行降序排序，从隶属度最大的值开始累加，直至和不小于 $\delta$ ，选取这前几个标签并重新做归一化处理，使得 $\sum _ { \substack { \gamma \in l a b e l ( \nu ) } } b ( c , \nu ) = 1$ 。
+
+# 2.2MLPA-NCS 算法描述
+
+输入：网络 $G ( V , E )$ ，用户节点集 $V$ ，主题T，淘汰参数 $\delta$ 每个节点的标签集label，标签集初始为空。
+
+输出：重叠社区集合 $C$ 。
+
+1.初始化节点标签，为 $\mathbf { G }$ 中每个节点 $\nu$ 赋予唯一的标签 $\mathbf { \Psi } _ { c }$
+
+2.由用户节点集 $V$ 和主题集 $T$ 构造“用户一主题"矩阵UTM，并计算每个节点v的主题概率分布VTP。 。
+
+3.据式（3）计算所有节点 $\nu$ 的潜在影响力 $P I ( \nu )$ ，并由高到低排序；4.令 $_ { t = 1 }$ ：5.按潜在影响力 $P I$ 降序更新所有节点 $\nu$ 的标签，重复执行(5.1）\~（5.6）步:5.1据式（4）计算 $\nu$ 与其所有邻近节点 $\boldsymbol { u }$ 的链接相关度$l i n k _ { \nu u }$ 。5.2 据式（10）计算 $\mathbf { \sigma } _ { \nu }$ 与其所有邻近节点 $\boldsymbol { u }$ 的主题相关度$t o p i c _ { \nu u }$ 。5.3据式（11）计算 $\mathbf { \sigma } _ { \nu }$ 与其所有邻近节点 $\mathbf { \Omega } _ { u }$ 的综合相似度simvu。5.4更新 $\mathbf { \sigma } _ { \nu }$ 的标签，即记录 $\mathbf { \sigma } _ { \nu }$ 接受到的所有邻近节点 $u$ 的标签 $\mathbf { \Psi } _ { c }$ 。在根据 $s i m _ { \nu u }$ 对邻近节点进行降序排序的基础上，利用隶属度将每一个邻近节点 $\boldsymbol { u }$ 的所有标签排序，以此作为计算 $\mathbf { \Phi } _ { \nu }$ 接受到所有标签的隶属度的顺序，按式（12）计算每一个标签$c$ 的隶属度 $b _ { t } ( c , \nu )$ 。5.5对 $\nu$ 的所有标签的隶属度 $b$ 进行初步归一化处理，使得 $\sum _ { \cdot \in l a b e l ( \nu ) } b _ { \mathrm { t } } ( c , \nu ) = 1$ ：（5.6根据淘汰参数 $\delta$ 对 $\mathbf { \sigma } _ { \nu }$ 的初步归一化结果进行过滤，过滤之后进行二次归一化处理;6.如果 $G$ 中所有节点 $\nu$ 的标签集label(v)不再改变，标签传播过程停止，转到第7步；否则，令 $t = t + 1$ 并转到第5步；7.根据所有节点最终的标签集确定其所属社区，得到社区集合 $C = \left\{ C _ { 1 } , C _ { 2 } , . . . , C _ { q } \right\}$ 。
+
+# 2.3 算法复杂度分析
+
+假定网络有 $\mathfrak { n }$ 个节点和 $\mathrm { ~ m ~ }$ 条边， $\mathrm { m / n }$ 表示节点的平均邻居数。
+
+a）初始化节点标签需要时间复杂度 $O ( n )$ b）计算所有节点的主题概率分布需要时间复杂度 $O ( n )$ c）根据PageRank计算节点的潜在影响力需要时间复杂度O(nlogn);d）计算节点与邻近节点的综合相似度需要时间复杂度0(m);e）与COPRA算法类似，每个节点接受其每个邻居节点标签的时间复杂度同为 $O ( l o g ( m / n ) )$ ，这一阶段总的时间复杂度为O(mlog(m/n)) 。
+
+根据以上分析，忽略掉较小的时间复杂度，MLPA-NCS算法总的算法复杂度为 $O ( m l o g ( m / n ) )$ ，比COPRA算法的时间复杂度O(vmlog(vm/n))略低。
+
+# 3 实验
+
+为了考察本文提出的MLPA-NCS算法的可行性，并且验证其相比现有的基于多标签传播的重叠社区划分算法划分的社区具有更高的质量和准确性，本文采用了真实数据集和人工网络图进行实验，对LPA，COPRA，SLPA，LPPB和MLPA-NCS算法进行对比。所有算法和数据的运行环境为Corei5-2450M，12GB，MicrosoftWindows10，在anaconda2平台上进行实验。
+
+# 3.1实验数据
+
+实验采用的真实数据集是Karate[II]，该数据集是目前社区划分研究中使用的小型复杂网络数据集。该数据集描述美国一个空手道俱乐部的成员关系，网络包含34个节点和78条边，实际可划分为两个社区结构，如表1所示。
+
+表1Karate 网络实际分组  
+
+<html><body><table><tr><td>社区</td><td>成员编号</td></tr><tr><td>1</td><td>1234567811121314171820 22</td></tr><tr><td>2</td><td>91015161921232425262728 293031323334</td></tr></table></body></html>
+
+由于Karate数据量较少，社区划分结果可直接与网络实际分组进行比较，从而验证算法的可行性。对于大型网络，则采用LFR网络生成程序仿真生成较大规模的人工网络图，本文采用LFR-10000人工网络对LPA、COPRA、SLPA、LPPB、MLPA-NCS 五种算法进行对比。LFRbenchmark基准程序由Lancichinetti等人[12]提出，根据参数设置生成所需求的网络，本实验网络参数如表2所示，其中，N为节点数目，k为节点平均度数，maxk为节点最大度数，minc 为社区最小规模，maxc为社区最大规模，mu（mixing parameter）为节点与社区外部连接的边数与该节点度数的比值，该比值越小，说明节点可连接的社区越少，网络的社区结构越明显，mu取 $0 . 1 \sim 0 . 6$ ，每次增加0.05，生成11个LFR-10000网络。
+
+表2LFR-10000人工网络参数设置  
+
+<html><body><table><tr><td>参数</td><td>LFR-10000</td></tr><tr><td>N</td><td>10000</td></tr><tr><td>k</td><td>10</td></tr><tr><td>maxk</td><td>300</td></tr><tr><td>minc</td><td>30</td></tr><tr><td>maxc</td><td>100</td></tr><tr><td>mu</td><td>0.1~0.6</td></tr></table></body></html>
+
+# 3.2 实验评价标准
+
+实验采用标准化互信息 $\mathbf { N M I } ^ { [ 1 3 ] }$ 度量社区划分算法生成的社区结构与标准社区结构之间的相关性，以此评估算法的准确性，如式（13）所示。采用重叠模块度 $\mathbf { Q o v } ^ { [ 1 4 ] [ 1 5 ] }$ 评价重叠社区的网络结构，以此度量社区划分的质量，如式（14）～（16）所示。 ${ \cal N } M { \cal { I } } ( X \vert Y ) { = } 1 { - } \lbrack { \frac { 1 } { 2 } } ( H ^ { ( } X \vert Y ) _ { \mathrm { \scriptsize { n o r m } } } { + } H ^ { ( } Y \vert X ) _ { \mathrm { \scriptsize { n o r m } } } ) \rbrack$ (13)其中： $X$ 和 $Y$ 分别代表实验划分的社区结构和标准的社区结构。NMI值越大说明划分结果与标准网络结构越相似，算法划分社区的准确性越高。
+
+$$
+Q o \nu = \frac { 1 } { m } \sum _ { c \in C } \sum _ { i , j \in V } [ r _ { i j c } A _ { i j } - \omega _ { i j c } \frac { k _ { \mathrm { i } } ^ { o u t } k _ { j } ^ { i n } } { m } ]
+$$
+
+其中： $A$ 为邻接矩阵， $K$ 为节点的度， $\mathbf { \nabla } _ { m }$ 为边的个数， $r _ { i j c }$ 表示节点 $i$ 和j同属于社区 $\mathbf { \Psi } _ { c }$ 的概率， $r _ { i j c } = \ell ( p _ { i , c } , p _ { j , c } )$ ， $p _ { i , c }$ 表示 $i$ 属于社区 $\mathbf { \Psi } _ { c }$ 的概率， $\omega _ { i j c }$ 表示节点 $i$ 或者节点 $j$ 在社区 $\mathbf { \Psi } _ { c }$ 中的概率。
+
+$$
+\ell ( p _ { i , c } , p _ { j , c } ) = \frac { 1 } { ( 1 + e ^ { - f ( p _ { i , c } ) } ) ( 1 + e ^ { - f ( p _ { j , c } ) } ) }
+$$
+
+$$
+\omega _ { i j c } = \frac { \displaystyle \sum _ { j \in V } \ell ( p _ { i , c } , p _ { j , c } ) } { \displaystyle | V | } \times \frac { \displaystyle \sum _ { i \in V } \ell ( p _ { i , c } , p _ { j , c } ) } { \displaystyle | V | }
+$$
+
+根据文献[17]建议，本文 $f$ 定义为 $f ( x ) = 6 0 x - 3 0$ 。Qov取值范围在0到1之间，值越大，重叠社区结构越好。
+
+# 3.3 实验结果与分析
+
+实验中对Karate数据集用MLPA-NCS进行社区划分后的结果如图1所示，可以看出共分为两个社区，与表1中实际分组相比，除节点3和31为两个社区的重叠节点外，其他节点都分配到各自所属的社区且均划分正确，取得了较好的实验效果。
+
+![](images/2266fcc97485003686449302220bf8e18fba21544aef2e4937aba4673b930274.jpg)  
+图1MLPA-NCS对Karate 网络的划分结果
+
+实验选用LPA、COPRA、SLPA、LPPB、MLPA-NCS五种算法作为对比，为避免算法的随机性对实验造成影响，对LPA、COPRA、SLPA、LPPB四个算法都进行20次实验取结果平均值，而本文提出的MLPA-NCS 由于算法的稳定性只需进行一次实验。采用LFR网络生成程序仿真生成不同规模的人工网络图，求取各算法NMI与Qov。图2和3是在LFR-10000 的人工网络中，五种算法划分的社区结构随着 mixingparameter 的改变所求得NMI与Qov 的变化情况。
+
+从图2可知，在mixingparameter值较小的时候，网络的社区结构较为明显，社区之间的边界较为清晰，此时LPPB与MLPA-NCS 算法相比其他三个算法的 NMI 值较高，但是随着mixingparameter 值的增大，MLPA-NCS 算法的NMI 值超过LPPB 算法，由此可以判断大规模网络中MLPA-NCS 算法准确性更高。从图3可知，无论mixingparameter值是大或小，均可以看出LPPB与MLPA-NCS 算法划分的社区模块度Qov 比其他三个算法更有优势，原因是这两个算法对标签传播算法的随机策略的改进减少了运行结果的差异，在一定程度上发挥出潜在影响力更高的节点的作用，实验结果表明MLPA-NCS算法无论是在社区结构明显还是模糊的网络中，都能划分出质量较高的社区。
+
+![](images/95d8fe776e58d24704ec46edf188120faec2f7acc485d4cbbca6ab63915bc546.jpg)  
+图2算法在LFR-10000上NMI的比较
+
+![](images/be5c172bd8ba4236db496d6c9038e89935cb284c418b9d9463a2c43ebcc1a3bc.jpg)  
+图3算法在LFR-10000上Qov 的比较
+
+总体而言，MLPA-NCS算法相比现有的多标签传播社区划分算法在一定程度上提高了社区划分的稳定性和生成社区的质量。
+
+# 4 结束语
+
+针对COPRA算法在选择节点和节点标签更新时因采用随机顺序策略导致传播过程不确定、社区划分结果不稳定且生成社区质量不够高等问题，本文以COPRA 算法框架为基础对其改进，提出基于节点综合相似度的多标签传播社区划分算法MLPA-NCS算法，通过计算节点潜在影响力并排序作为选择更新节点的顺序，通过计算由节点主题相似度和链接相关度构成的综合相似度并排序作为节点标签更新的顺序，提高了生成社区的质量，保证了社区划分结果的稳定。实验表明MLPA-NCS算法在Karate数据集上的社区划分结果正确且有较好的实验效果，同时在LFR-10000上的实验表明当mu值比较大时，MLPA-NCS算法相比于LPA、COPRA、SLPA、LPPB四个算法的NMI值较高，说明MLPA-NCS算法准确性更高；相比于LPA、COPRA、SLPA、LPPB四个算法划分的社区结构具有更高的模块度Qov，说明社区质量相对更高且社区划分结果稳定。
+
+# 参考文献：
+
+[1]Raghavan UN,Albert R,Kumara S.Near linear time algorithm to detect community structures in large-scale networks [J].Physical Review E: Statistical Nonlinear& Soft MatterPhysics,2007,76(2): 036106.   
+[2]Barber M J,Clark J W.Detecting network communities by propagating labels under constraints [J].Physical Review E: Statistical Nonlinear & Soft Matter Physics,2009,80(2Pt2):026129.   
+[3]Gregory S.Finding overlapping communities in networks by label propagation [J].New Journal of Physics,2009,12 (10): 2011-2024.   
+[4]Xie J,Kelley S,Szymanski B K.Overlapping community detection in networks: The state-of-the-art and comparative study [J].ACM Computing Surveys,2013,45(4): 43.   
+[5] 刘世超，朱福喜，甘琳．基于标签传播概率的重叠社区发现算法[J]. 计算机学报,2016,39 (4):717-729.(Liu Shichao,ZhuFuxi,Gan Lin.A label-propagation-probability-based algorithm for overlapping community detection [J].Chinese Journal ofComputers,2016,39(4):717-729.)   
+[6] 张昌理，王一蕾，吴英杰，等．基于信息熵和局部相关性的多标签传播 重叠社区发现算法 [J].小型微型计算机系统,2016,37(8):1645-1650. (Zhang Changli,Wang Yolei,Wu Yingjie,et al.Multi-label propagation algorithm for overlapping community discovery based on information entropy and local correlation [J].Journal of Chinese Computer Systems, 2016,37(8): 1645-1650.)   
+[7]Gui Q,Deng R,Xue P,et al.A community discovery algorithm based on boundary nodes and label propagation [J]. Pattern Recognition Letters,2017.   
+[8]闫光辉，舒昕，马志程，等．基于主题和链接分析的微博社区发现算法 [J]．计算机应用研究,2013,30(7):1953-1957.(Yan Guanghui,Shu Xin,
+
+Ma Zhicheng,et al.Community discovery for microblog based on topic and
+
+link analysis [J].Application Research of Computers,2013,30(7):1953- 1957.)   
+[9]Endres D M, Schindelin JE.A new metric for probability distributions [J]. IEEE Trans on Information Theory,2003,49(7):1858-1860.   
+[10]Weng J,Lim E P,Jiang J,et al. TwitterRank:finding topic-sensitive influential twitterers.[C]//Proc of the 3rd ACM International Conference on Web Search and Data Mining.2010:261-270.   
+[11] Zachary W W.An information flow model for conflict and fission in small groups [J].Journal of Anthropological Research,1977,33 (4): 452-473.   
+[12] Lancichineti A,Fortunato S,Radicchi F.Benchmark graphs for testing community detection algorithms [J]. Physical Review E: Statistical Nonlinear& Soft Matter Physics,2008,78 (4 Pt2): 046110.   
+[13] Lancichinetti A,Fortunato S,Kertész J.Detecting the overlapping and hierarchical community structure of complex networks [J].New Journal of Physics,2008,11(3):19-44.   
+[14]Newman MEJ,Girvan M.Finding and evaluating community structure in networks [J].Physical Review E:Statistical Nonlinear & Soft Matter Physics,2004,69 (2 Pt 2): 026113.   
+[15] Nicosia V,Mangioni G,Carchiolo V,et al.Extending the definition of modularity to directed graphs with overlapping communities [J]. Journal of Statistical Mechanics Theory & Experiment,2008,2009(3):3166-3168.

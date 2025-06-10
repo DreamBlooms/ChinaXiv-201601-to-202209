@@ -1,0 +1,173 @@
+1 桑叶粉对肥育猪生长性能、肉品质和血清生化指标的影响， 宋琼莉」韦启鹏」邹志恒1\*\*周泉勇」刘林秀」陈小连1\* 董闽鲜²　赖贻奎²　严景3 生3
+
+（1.江西省农业科学院畜牧兽医研究所，南昌330200；2.江西省吉安市畜牧兽医局，吉安343000；3.江西省井冈山市畜牧兽医局，井冈山 343604)
+
+摘要:本试验旨在研究饲粮中添加桑叶粉对育肥猪生长性能、肉品质和血清生化指标的影响。选用始重 $\left[ ( 8 7 . 1 0 { \pm } 5 . 3 3 ) \mathrm { k g } \right]$ 基本一致的健康"杜×大 $\times$ 长"三元杂交肥育猪160头，随机分为4组（每组4个重复，每个重复10头)：对照组饲喂基础饲粮，试验组分别饲喂含 $5 \%$ 、 $10 \%$ 、$1 5 \%$ 桑叶粉饲粮，试验期 $5 0 \mathrm { d }$ 。结果表明:与对照组相比，1)饲粮中添加 $5 \%$ 和 $10 \%$ 的桑叶粉对肥育猪平均日增重影响不显著 $( P 5 0 . 0 5 )$ ；添加 $1 5 \%$ 的桑叶粉显著降低肥育猪平均日增重和显著提高料重比 $( P { < } 0 . 0 5 )$ 。2)添加 $5 \%$ 和 $10 \%$ 桑叶粉对屠宰后 $4 5 ~ \mathrm { m i n }$ 、24h肌肉剪切力和pH影响不显著 $( P { > } 0 . 0 5 )$ ，可提高肌肉的大理石纹评分，但差异不显著 $( P 5 0 . 0 5 )$ ；当桑叶粉添加 $1 5 \%$ 时，平均背膘厚和总胆固醇含量显著降低 $( P { < } 0 . 0 5 )$ 。3)添加 $5 \%$ 、 $10 \%$ 、 $1 5 \%$ 桑叶粉能显著提高肌肉中超氧化物歧化酶的活性 $( P { < } 0 . 0 5 )$ ，降低肌肉中丙二醛的含量 $( P { > } 0 . 0 5 )$ ，有效提高肌肉的抗氧化能力。4)添加 $5 \%$ 、 $10 \%$ 、 $1 5 \%$ 桑叶粉血清尿素氮含量均显著提高 $( P { < } 0 . 0 5 )$ ，脂肪酶活性降低，但差异不显著 $( P { > } 0 . 0 5 )$ ，饲粮中添加 $1 5 \%$ 桑叶粉能显著降低血清甘油三酯含量（204号 $( P { < } 0 . 0 5 )$ 。综合各项指标，饲粮中添加 $10 \%$ 的桑叶粉对育肥猪生长速度影响较小，但可有效提高肉品质。
+
+关键词：桑叶粉；肥育猪；生长性能；肉品质；血清生化指标中图分类号：S816.4;S828 文献标识码： 文章编号：
+
+我国是传统的种桑养蚕大国，桑树广泛分布于全国各地，桑叶在我国的种植面积约为100万公顷[1]，桑叶资源十分丰富。桑叶中含有丰富的蛋白质、碳水化合物、维生素、矿物元素及天然活性物质等[2-3]。桑叶氨基酸组成大体与脱脂大豆粉一致，虽然氨基酸含量远不及脱脂大豆粉高，但每种氨基酸占总氨基酸的比例趋向一致，桑叶蛋白是一种优良的蛋白质资源[3]。桑叶作为动物的非常规饲料，具有极大的开发潜力和利用价值，已引起联合国粮食与农业组织（FAO）的高度关注 $^ { [ 2 ] }$ 。近年来，桑叶在鸡、猪、反刍动物饲粮中的应用已有报道，但大多局限在通过调整桑叶添加水平以提高畜禽的生长速度等研究方向。桑叶中的天然活性物质主要有黄酮类化合物、多糖和超氧化物歧化酶（SOD）等物质 $^ { [ 3 ] }$ 。黄酮类化合物具有抗氧化和降低胆固醇的作用，多糖有降低血糖的功效，SOD则能够清除自由基和防止衰老。因此，可在充分利用桑叶优良蛋白源的同时，利用桑叶中特有的黄酮类、多糖等天然活性物质的调控功能，从而改善畜禽肉类的品质。本试验旨在育肥猪饲粮中添加桑叶粉，探讨对育肥猪生长性能和肉品质及血清生化指标的影响，为桑叶粉在肥育猪饲粮中的应用提供科学依据。
+
+1试验材料与方法
+
+# 1.1 试验材料
+
+桑叶粉，从市场上购买，经检测营养指标为：水分 $12 . 6 3 \%$ 、粗蛋白质 $1 5 . 4 0 \%$ 、17种氨基酸总量 $1 1 . 3 3 \%$ 、粗脂肪 $3 . 7 2 \%$ 、粗纤维 $8 . 6 8 \%$ 、粗灰分 $1 6 . 0 0 \%$ 、钙 $2 . 5 0 \%$ 、磷 $0 . 2 5 \%$ 。
+
+# 1.2 试验动物及饲粮
+
+选择胎次、始重 $\left[ ( 8 7 . 1 0 { \pm } 5 . 3 3 ) \mathrm { k g } \right]$ 、日龄基本一致的健康"杜 $\times$ 长×大"三元杂交肥育猪160头，随机分为4组，分别饲喂含4种桑叶粉水平的试验饲粮，其基础饲粮为玉米-豆粕型饲粮，其为参照NRC（1998）营养需要配制的粉状配合饲料，试验饲粮组成及营养水平见表1。
+
+# 表1试验饲粮组成及营养水平(干物质基础)
+
+Table 1 Composition and nutrient levels of the experimental diets (DM basis) %   
+
+<html><body><table><tr><td>项目</td><td>I组</td><td>I组</td><td>Ⅲ组</td><td>IV组</td></tr><tr><td>Items</td><td>group I</td><td>Group II</td><td>GroupIII</td><td>GroupIV</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>61</td><td>61</td><td>61</td><td>61</td></tr><tr><td>豆粕 Soybean meal</td><td>20</td><td>20</td><td>20</td><td>20</td></tr><tr><td>麦麸Wheat bran</td><td>15</td><td>10</td><td>5</td><td></td></tr><tr><td>桑叶粉Mulberry leaf powder</td><td></td><td>5</td><td>10</td><td>15</td></tr><tr><td>预混料Premix1</td><td>4</td><td>4</td><td>4</td><td>4</td></tr><tr><td>合计Total</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>营养水平 Nutrient levels²</td><td></td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>13.15</td><td>13.20</td><td>13.25</td><td>13.31</td></tr><tr><td>粗蛋白质CP</td><td>15.75</td><td>15.74</td><td>15.72</td><td>15.71</td></tr><tr><td>钙Ca</td><td>0.67</td><td>0.78</td><td>0.90</td><td>1.02</td></tr><tr><td>总磷TP</td><td>0.52</td><td>0.49</td><td>0.45</td><td>0.42</td></tr></table></body></html>
+
+1’预混料为每千克饲粮提供The premix provided the following per $\mathbf { k g }$ of the diets: VA 18
+
+000 IU,VD 35 000 IU,VE 35 1U, VK $5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 }$ 5 mg, $\mathrm { V B } _ { 2 }$ 10 mg, $\mathrm { V B } _ { 1 2 } 3 5 \mu \mathrm { g }$ ，烟酸nicotinicacid $4 0 \mathrm { m g }$ ，泛酸 pantothenic acid $2 0 \mathrm { m g }$ ，叶酸 folic acid $1 . 5 \mathrm { m g }$ ，Fe $8 0 ~ \mathrm { m g }$ ， $\mathrm { C u } 8 \mathrm { m g }$ ， Zn 100mg， $ { \mathrm { M n } } 2 0  { \mathrm { m g } }$ ，Se $: 0 . 1 5 \mathrm { m g }$ ， $\mathrm { ~ I 0 . 1 5 m g }$ 。
+
+2)消化能为计算值，其余营养水平为实测值。DE was acalculated value,while the other nutrient levels were measured values.
+
+# 1.3 试验设计
+
+将试验猪随机分为4组，每组设4个重复，每重复10头，公母各占1/2，各组试验猪始重差异不显著 $( P { > } 0 . 0 5 )$ 。4个组分别饲喂4种不同的饲粮：I组饲喂基础饲粮(对照组)，ⅡI组饲喂含 $5 \%$ 桑叶粉饲粮，II组饲喂含 $10 \%$ 桑叶粉饲粮，IV组饲喂含 $1 5 \%$ 桑叶粉饲粮。试验期为50d，分栏饲养，自由采食。
+
+# 1.4饲养管理与屠宰
+
+试验在井冈山市华富畜牧有限责任公司进行。整个试验期间采用常规饲养及免疫，自由采食、自由饮水。试验期末，各重复组随机选取2头试验猪进行屠宰，取左侧胴体最后肋处背最长肌（眼肌）用于肉品质和生化指标的测定。
+
+# 1.5 测定指标
+
+# 1.5.1 生长性能指标测定
+
+试验猪分别于试验的第1和50天时，空腹 $1 6 \mathrm { h }$ 后称重，统计试验期间各重复猪的饲粮消耗量，计算平均日增重、平均日采食量和料重比。
+
+# 1.5.2 肉品质指标测定
+
+饲养试验结束时，所有试验猪自由饮水，空腹 $1 6 \mathrm { h }$ ，宰前称活重后进行屠宰试验。试验猪进行屠宰后，取左侧胴体最后肋处背最长肌（眼肌）用于肉品质和生化指标的测定。首先测定胴体平均背膘厚，然后，取左侧胴体最后肋处背最长肌(眼肌)，分别测定 $4 5 \mathrm { m i n }$ 和 $2 4 \mathrm { h }$ 的肌肉pl $\mathrm { \Delta H ~ ( p H _ { 4 5 \mathrm { { m i n } } } }$ 、 $\mathrm { p H } _ { 2 4 \mathrm { h } }$ ）和剪切力，测定肌肉大理石纹评分、总胆固醇（TCH）含量。肌肉总胆固醇含量测定采用南京建成生物工程研究所的试剂盒，严格按照说明书测定。
+
+# 1.5.3 肌肉抗氧化指标测定
+
+采集眼肌肉样于 $4 ^ { \circ } \mathrm { C }$ 冷冻储存，分别测定 $4 5 \mathrm { m i n }$ 和 $2 4 \mathrm { h }$ 的肌肉中丙二醛（MDA）含量和 SOD 活性，采用南京建成生物工程研究所的试剂盒，严格按照说明书测定。
+
+# 1.5.4 血清生化指标测定
+
+血清样品采集：在试验结束时从每组挑取12头中等体重猪，前腔静脉采血1份，析出血清用于测定血清生化指标。血清尿素氮（UN)含量、甘油三酯（TG)含量、脂肪酶（lipase）活性测定采用南京建成生物工程研究所的试剂盒，严格按照说明书测定。
+
+# 1.6 数据处理和统计
+
+采用Excel2007和SPSS16.0统计软件对数据进行整理、方差分析和多重比较。所有结果
+
+均以平均值±标准差表示。
+
+2结果
+
+2.1不同添加水平桑叶粉对育肥猪生长性能的影响
+
+由表2可知，试验猪始重差异不显著 $( P 5 0 . 0 5 )$ ；经 $5 0 \mathrm { d }$ 的饲养试验，与I组相比，、III、IV组末重差异都不显著 $( P { > } 0 . 0 5 )$ ；平均日增重随饲粮桑叶粉水平提高逐渐降低，II、II组与I组相比差异不显著 $( P { > } 0 . 0 5 )$ ，IV组显著低于I组 $( P { < } 0 . 0 5 )$ ；与I组相比，Ⅱ组料重比未显著变化 $( P { > } 0 . 0 5 )$ ，II和IV组则显著提高 $( P { < } 0 . 0 5 )$ ；与Ⅰ组相比，添加桑叶粉后平均日采食量变化均不显著 $( P 5 0 . 0 5 )$ 。
+
+表2桑叶粉对肥育猪生长性能的影响  
+Table 2Effects of mulberry leaf power on growth performance in finishing pigs   
+
+<html><body><table><tr><td>项目 Items</td><td>I组 GroupI</td><td>Ⅱ组 Group II</td><td>IⅢ组 Group III</td><td>IV组 Group IV</td></tr><tr><td>始重 Initial weight/kg</td><td>87.24±7.74</td><td>86.63±6.57</td><td>86.99±5.62</td><td>87.55±4.57</td></tr><tr><td>末重 Final weight/kg</td><td>130.04±7.88</td><td>126.35±9.38</td><td>124.89±4.92</td><td>123.8±4.20</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>856.13±80.02a</td><td>794.47±61.20ab</td><td>757.93±67.68ab</td><td>724.93±22.07b</td></tr><tr><td>平均日采食量ADFI/g</td><td>2.58±0.12</td><td>2.58±0.07</td><td>2.66±0.07</td><td>2.64±0.03</td></tr><tr><td>料重比 F/G</td><td>3.02±0.08a</td><td>3.25±0.14ab</td><td>3.52±0.15b</td><td>3.64±0.12b</td></tr></table></body></html>
+
+同行无字母或数据肩标相同字母表示差异不显著 $( P 5 0 . 0 5 )$ ，不同小写字母表示差异显著$( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ,while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ .The same as below.
+
+# 2.2不同添加水平桑叶粉对育肥猪肉品质的影响
+
+由表3可知，平均背膘厚随桑叶粉水平提高逐渐降低，II、IⅢ组与I组相比分别降低$8 . 0 4 \%$ 和 $1 3 . 6 4 \%$ ，但差异不显著 $( P { > } 0 . 0 5 )$ ，IV组与I组相比降低 $2 8 . 6 7 \%$ ，差异显著 $_ { ( P < 0 . 0 5 ) }$ 各组肌肉pH差异均不显著 $( P { > } 0 . 0 5 )$ ；肌肉大理石纹评分随桑叶粉水平提高而增加 $( P { > } 0 . 0 5 )$ 饲粮桑叶粉水平对 $4 5 \mathrm { m i n }$ 、24h肌肉剪切力影响不显著 $( \mathrm { P } { > } 0 . 0 5 )$ ；与I组相比，II、IⅢI、IV组肌肉中总胆固醇含量分别降低 $1 1 . 5 2 \%$ 、 $1 3 . 8 0 \%$ 和 $1 8 . 7 2 \%$ ，当饲粮桑叶粉水平提高到 $1 5 \%$ 时，肌肉中的总胆固醇含量显著降低 $( P { < } 0 . 0 5 )$ 。
+
+# 表3桑叶粉对育肥猪肉品质的影响
+
+Table 3Effects of mulberry leaf power on meat quality in finishing pigs
+
+<html><body><table><tr><td>项目 Items</td><td>I组 GroupI</td><td>Ⅱ组 Group II</td><td>II组 Group III</td><td>IV组 Group IV</td></tr><tr><td>平均背膘厚 Average backfat</td><td>2.86±0.29a</td><td>2.63±0.44a</td><td>2.47±0.03ab</td><td>2.04±0.16b</td></tr><tr><td>thickness/cm</td><td></td><td></td><td></td><td>6.10±0.01</td></tr><tr><td>pH45 min</td><td>6.03±0.01</td><td>6.12±0.04</td><td>6.09±0.03</td><td></td></tr><tr><td>pH24 h 大理石纹评分 Marbling</td><td>5.95±0.02</td><td>5.98±0.04</td><td>5.96±0.03</td><td>5.98±0.02</td></tr><tr><td>score</td><td>4.25±0.50</td><td>4.50±0.58</td><td>4.75±0.50</td><td>4.75±0.50</td></tr><tr><td>剪切力 SF/N</td><td></td><td></td><td></td><td></td></tr><tr><td>45 min</td><td>15.23±1.68</td><td>14.63±1.66</td><td>15.81±2.45</td><td>16.18±5.76</td></tr><tr><td>24 h</td><td>30.98±3.73</td><td>31.32±2.94</td><td>31.03±6.67</td><td>29.05±0.40</td></tr><tr><td>总胆固醇 TCH/(mg/L)</td><td>335.96±17.10a</td><td>297.24±27.00ab</td><td>289.58±23.09ab</td><td>273.08±6.69b</td></tr></table></body></html>
+
+97 2.3不同添加水平桑叶粉对育肥猪肌肉抗氧化能力的影响
+
+由表4可知，在4 $\mathrm { { } ^ { \circ } C }$ 储存72h后，与I组相比，II、III、IⅣ组肌肉中SOD活性分别提高$3 4 . 4 3 \%$ 、 $6 8 . 4 4 \%$ 、 $7 9 . 1 2 \%$ ，均与I组差异显著 $( P { < } 0 . 0 5 )$ ；II、II、IV组肌肉中MDA含量分别降低 $1 4 . 5 0 \%$ 、 $3 3 . 7 3 \%$ 和 $4 1 . 7 2 \%$ ，各组间差异均不显著 $( P { > } 0 . 0 5 )$ 。
+
+# 表4桑叶粉对育肥猪肌肉抗氧化能力的影响
+
+Table 4Effects of mulberry leaf power on antioxidant capacity of muscle in finishing pigs   
+
+<html><body><table><tr><td>项目 Items</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组 Group III</td><td>V组 Group IV</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mg</td><td>GroupI 69.43±1.27a</td><td>Group II 93.34±4.27b</td><td>116.95±3.98b</td><td>124.36±5.05b</td></tr><tr><td>prot) 丙二醛 MDA/(nmol/mg prot)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>3.38±1.52</td><td>2.89±0.91</td><td>2.24±0.84</td><td>1.97±0.62</td></tr></table></body></html>
+
+2.4不同添加水平桑叶粉对血清生化指标的影响
+
+由表5可知，与I组相比，ⅡI、ⅢI、IⅣ组血清尿素氮含量分别提高了 $2 1 . 7 8 \%$ 、 $3 6 . 6 9 \%$ 和$4 2 . 2 5 \%$ ，均与I组差异显著 $( P { < } 0 . 0 5 )$ ；Ⅱ、IⅢI、IⅣ组甘油三酯含量分别降低了 $5 . 0 2 \%$ 、 $1 7 . 8 5 \%$ 和 $2 5 . 0 1 \%$ ，IV组与I组间差异显著 $( P { < } 0 . 0 5 )$ ；脂肪酶活性各组间差异不显著 $( P 5 0 . 0 5 )$ 。
+
+表5桑叶粉对血清生化指标的影响  
+Table 5Effects of mulberry leaf power on serum biochemical indexes in finishing pigs   
+
+<html><body><table><tr><td>项目</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td><td>IV组</td></tr><tr><td>Items</td><td>Group I</td><td>Group II</td><td>Group III</td><td>Group IV</td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td>6.84±1.09a</td><td>8.33±1.25b</td><td>9.35±0.80b</td><td>9.73±1.66b</td></tr><tr><td>甘油三酯 TG/(mg/dL)</td><td>38.43±6.67a</td><td>36.50±5.36a</td><td>31.57±4.34ab</td><td>28.82±1.07b</td></tr></table></body></html>
+
+3讨论
+
+3.1饲粮中添加桑叶粉对育肥猪生长性能的影响
+
+桑叶中含有丰富的营养成分和许多特有的天然活性物质，是优良的畜禽饲料。刘爱君等（2 $^ { [ } 4 ^ { ] }$ 在猪饲粮中添加 $| 2 . 5 \mathrm { k g }$ 新鲜桑叶，平均日增重从 $. 0 . 3 4 \mathrm { k g }$ 提高到 $0 . 5 8 \mathrm { k g }$ 。郭建军等「5]在育肥猪饲粮中添加一定比例的鲜桑叶能够改变肠道微生物变化，增加有益菌的数量，从而提高了饲料报酬和平均日增重。本试验结果表明，在饲粮中添加桑叶粉，育肥猪平均日增重随饲粮桑叶粉水平提高逐渐降低，平均背膘厚随桑叶粉水平提高逐渐降低。这可能与桑叶中的抗营养因子及有毒有害物质影响动物生长性能有关，因而也是动物饲粮中不能大量添加桑叶的主要原因。本试验中，添加 $10 \%$ 桑叶粉对育肥猪生长速度影响不显著。
+
+# 3.2饲粮中添加桑叶粉对育肥猪肉品质的影响
+
+肌肉pH是肌肉酸度的直观表现，是肌肉酵解速率的重要指标，是肉品质测定的指标之二[6]。猪宰杀后肌肉在缺氧条件下肌糖原、脂肪进行无氧酵解代谢产生大量乳酸，肌肉pH急剧下降，促使蛋白质变性，直到糖酵解酶活性被抑制[6。因此，延缓肌肉pH下降速度将有助于减少PSE、DFD等低品质猪肉的产生。杨静等［7]研究表明，饲用桑粉可减缓猪屠宰后肌肉pH的下降速度，改善猪肉品质和风味。大理石纹的深度与肌内脂肪呈正相关，通过直观的大理石纹评分可估计肌内脂肪含量[8]。在适当的范围内随着肌内脂肪含量的升高，肌肉的大理石纹评分增加[9]。刘子放等[10]研究表明，在基础饲粮中添加 $10 \%$ 的桑枝叶粉，饲喂体重 $6 0 \mathrm { k g }$ 左右的中大猪50d，可改善肌肉的品质与风味，增加肌间脂肪含量和大理石花纹，对猪的生产性能影响不显著。郭建军等[5]研究表明，在饲粮中添加鲜桑叶能提高背最长肌中高密度脂蛋白、胆固醇、肌酐酸、维生素E、亚油酸、总氨基酸和赖氨酸的含量，降低了总胆固醇、硬脂酸的含量。本试验结果表明，在饲粮中添加桑叶粉，可提高肌肉的大理石纹评分，降低肌肉中的总胆固醇含量，提高肉品质。
+
+# 3.3饲粮中添加桑叶粉对育肥猪肌肉抗氧化能力的影响
+
+猪宰后肌肉SOD活性和MDA含量与持水性能、肉色、嫩度等重要肉质性状间存在不同程度的显著相关，证明SOD活性越高、MDA含量越低的肌肉，其系水力越高、肉色越鲜艳，并且肉质越细嫩[11]。桑叶中的黄酮类低分子化合物及桑叶多糖是天然的强抗氧化剂，能清除超氧化物自由基、氧自由基、过氧化氢、脂质过氧化物及羟自由基等，从而抑制动物体内自由基诱导的氧化损伤，增进动物健康[12]。Cheong等[13]在韩牛的全混合饲粮中添加 $10 \%$ （204号青贮桑叶增加了牛肉背最长肌中的谷胱甘肽过氧化物酶、SOD、过氧化氢酶和谷胱甘肽一S一转移酶等抗氧化物酶的活性。本试验结果表明，在饲粮中添加桑叶粉能显著提高肌肉中SOD的活性，降低肌肉中MDA的含量，有效提高肌肉的抗氧化能力，这可能与桑叶中含有丰富的桑叶多糖和黄酮类等活性物质有关。
+
+# 3.4饲粮中添加桑叶粉对血清尿素氮含量的影响
+
+血清尿素氮含量的高低可以反映饲料蛋白质利用率的高低[14]。本试验的结果表明，添加桑叶粉能显著提高肥育猪血清尿素氮含量，且随桑叶粉水平的增加逐渐提高。这可能与桑叶粉中含有部分活性物质具有抗营养及毒副作用有关。有报到，单宁是桑叶中最主要的抗营养因子，能与饲料中的蛋白质等生物大分子物质结合，形成不易消化的复合物[12]。但本试验结果与常文环等「15]测得桑叶饲粮试验鸡的血清氮含量降低相矛盾，具体原因有待进一步研究。
+
+3.5饲粮中添加桑叶粉对肥育猪血清甘油三酯含量和脂肪酶活性的影响
+
+动物性脂肪的大量摄入会严重影响人类的身体健康，特别是心血管疾病的发生率会明显升高[16]。黄酮类物质是桑叶的主要有效活性成分之一，韩国学者Kim等从桑叶中分离出9种黄酮[17]。大量的研究结果显示，黄酮类化合物对动物的脂肪沉积及代谢具有调节作用，可促使血管扩张，冠状动脉血流量增加，有调血脂、降血压、降血糖和强心作用，能改善心脏活力、兴奋中枢神经系统和抗氧化作用「18]。本次试验中，饲粮添加桑叶粉后可降低肥育猪血清甘油三酯含量，与桑叶总黄酮对高脂血模型小鼠的研究结果相同[19-22]，这可能与桑叶中存在的总黄酮成分发挥降血脂作用有关。
+
+4结论
+
+$\textcircled{1}$ 饲粮中添加 $10 \%$ 的桑叶粉，育肥猪生长速度影响不显著，但可提高肌肉的大理石纹   
+评分，降低平均背膘厚和肌肉中的总胆固醇含量。 $\textcircled{2}$ 饲粮中添加 $10 \%$ 的桑叶粉，可显著提高肌肉中SOD活性，提高肌肉抗氧化能力。 $\textcircled{3}$ 饲粮中添加 $10 \%$ 的桑叶粉，可降低肥育猪血清甘油三酯含量，调节脂肪代谢。   
+参考文献：   
+[1]高雨飞,黎力之,欧阳克蕙,等.桑叶在肉牛生产中的开发利用[J].中国牛业科 学,2015,41(1):68-70.   
+[2]杜周和,刘俊凤,左艳春,等.桑叶的营养特性及其饲料开发利用价值[J].草业学 报,2011,20(5):192-200.   
+[3]苏海涯,吴跃明,刘建新.桑叶中的营养物质和生物活性物质[J].饲料研究,2001(9):1-3.   
+[4]刘爱君,李素侠,吴国明,等.鲜桑叶对育肥猪增重效果的对比[J].中国牧业通 讯,2007(18):76-77.   
+[5]郭建军,邱殿锐,李晓滨,等.日粮鲜桑叶对育肥猪生长性能和肉质的影响[J].畜牧与兽 医,2011,43(9):47-50.   
+[6]刘瑞生.中草药提高猪肉品质的研究进展[J].养猪,2014(5):11-16.   
+[7]杨静,李同洲,曹洪战,等.不同水平饲用桑粉对育肥猪生长性能和肉质的影响[J].中国畜牧 杂志,2014,50(7):52-56.   
+[8]蔡绍倩,王霞,张伟力.猪肉大理石纹遗传资源识别与选材利用[J].猪业科 学,2007(7):88-89.   
+[9]谭林,姜海龙.肌内脂肪含量与猪肉品质的相关性分析[J].饲料博览,2010(12):11-13.   
+[10]刘子放,邝哲师,叶明强,等.桑枝叶粉饲料化利用的营养及功能性研究[J].广东蚕 业,2010,44(4):24-28.   
+[11]李华,曾勇庆,魏述东,等.猪宰后肌肉 SOD与MDA 的变化及其对肉质特性的影响[J].畜 牧兽医学报,2010,41(3):257-261.   
+[12]黄静,邝哲师,刘吉平,等.桑叶在动物饲料的应用研究现状与发展策略[J].蚕业科 学,2014,40(6):1114-1121.   
+[13]CHEONG S H,KIM K H,JEON B T,et al.Effct of mulberry silage supplementation during late fattening stage of Hanwoo (Bos taurus coreanae) steer on antioxidative enzyme activity within the longissimus muscle[J].Animal Production Science,2012,52(4):240-247.   
+[14]张丽英,谯仕彦,李德发,等.不同寡糖含量的大豆产品对断奶仔猪生产性能及相关生化 指标的影响[C].第六届全国会员代表大会暨第八届学术研讨会论文集.哈尔滨:中国畜 牧兽医学会动物营养学分会,2000:247-255.   
+[15]常文环,刘国华,张姝.桑饲料对肉鸡生长性能及其血浆尿素氮含量的影响[J].中国饲 料,2006(18):35-36.   
+[16]杜改梅,陈清,蒋加进,等.中草药饲料添加剂对肉鸡脂质代谢的影响[J].金陵科技学院学 报,2010,26(3):76-78.   
+[17]苏方华.桑叶的化学成分及临床应用研究进展[J].中国医药导报,2010,7(14):9-12.   
+[18]朱业靖,周文.桑叶的化学成分及其药理作用研究[J].菏泽医学专科学校学 报,2010,22(4):82-83.   
+[19] 江正菊,单琳琳,胡霞敏,等.桑叶总黄酮对大鼠血脂早期干预的实验研究[J].时珍国医国 药,2011,22(3):595-596.   
+[20]江正菊,宁林玲,胡霞敏,等.桑叶总黄酮对高脂诱导大鼠高血脂及高血糖的影响[J].中药 材,2011,34(1):108-111.   
+[21]谢惠萍,刘以农,郭明.桑叶提取物降血脂作用的动物试验研究[J].中国现代医药杂 志,2006,8(11):48-49.   
+[22] 李向荣,陈菁菁,刘晓光.桑叶总黄酮对高脂血症动物的降血脂效应[J].中国药学杂 志,2009,44(21):1630-1632.   
+Effects of Mulberry Leaf Powder on Growth Performance,Meat Quality and Serum Biochemical Indexes in Finishing Pigs   
+SONGQiongli1WEIQipeng1ZOU Zhiheng1\*\*ZHOU Quanyong1LIU Linxiu1CHEN Xiaolianl\* DONG Minxian² LAI Yikui²YAN Jingsheng3 (1. Institute ofAnimal Husbandry and Veterinary Science,Jiangxi Academy ofAgricultural Sciences, Nanchang 3302O0, China; 2.Animal Husbandry and Veterinary Bureau of Ji'an in Jiangxi Province, Ji'an 343Ooo China; 3.Animal Husbandry and Veterinary Bureau of Jinggangshan in Jiangxi Province, Jinggangshan 343604, China) Abstract: The study was aimed to investigate the effects of mulberry leaf powder on growth performance,meat quality and serum biochemical indexes in finishing pigs. One hundred and sixty‘DurocxYorkshirexLandrace’ health finishing pigs with the same initial weight of （204号 $( 8 7 . 1 0 { \pm } 5 . 3 3 ) \mathrm { ~ k ~ }$ g were randomly divided into four groups with four replicates in each group and ten pigs in each replicate. Pigs in the four groups were fed with a basal diet (control group, group I)， the basal diet containing $5 \%$ mulberry leaf powder (group I), the basal diet containing $10 \%$ （204号 mulberry leaf powder (group II)，and the basal diet containing $1 5 \%$ mulberry leaf powder (group IV), respectively. The experiment lasted for 5O days.The results showed as follow: compared with the control group, 1） the average daily gain of finishing pigs fed diet containing $5 \%$ and $10 \%$ （204号 mulberry leaf powder was not significantly different $( P { > } 0 . 0 5 )$ ，the average daily gain was significantly decreased and the ratio of feed to gain was significantly increased in pigs fed diet containing $1 5 \%$ mulberry leaf powder $( P { < } 0 . 0 5 )$ .2) Shear force and $\mathrm { p H }$ of muscle at $4 5 \mathrm { m i n }$ and 24   
+226 h post-slaughter were not significantly different in finishing pigs fed diet containing $5 \%$ and $10 \%$ （204号   
+227 mulberry leaf powder $( P { > } 0 . 0 5 )$ ,but marbling score was increased with no significantly different   
+228 （204号 $( P { > } 0 . 0 5 )$ . Backfat thickness and cholesterol content in muscle were significantly decreased in pigs   
+229 fed diet containing $1 5 \%$ mulberry leaf powder $( P { < } 0 . 0 5 )$ . 3）As diet mulberry leaf powder level   
+230 was $5 \%$ ， $10 \%$ and $1 5 \%$ , the SOD activity was significantly increased $( P { < } 0 . 0 5 )$ and malonaldehyde   
+231 content was significantly decreased $( P { > } 0 . 0 5 )$ ，and the antioxidant performance of muscle was   
+232 improved. 4) Urea nitrogen content in serum was significantly increased in pigs fed diets   
+233 containing $5 \%$ ， $10 \%$ and $1 5 \%$ mulberry leaf powder $( P { < } 0 . 0 5 )$ , lipase activity was decreased with   
+234 no significantly different $( P { > } 0 . 0 5 )$ , and triglyceride content was significantly decreased in pigs fed   
+235 diet containing $1 5 \%$ mulberry leaf powder $( P { < } 0 . 0 5 )$ . In conclusion, diet containing $10 \%$ mulberry
+
+leaf powder has less effect on the growth rate of finishing pigs, while can improve meat quality.
+
+Key words: mulberry leaf powder； finishing pig； growth performance； meat quality； serumbiochemical index

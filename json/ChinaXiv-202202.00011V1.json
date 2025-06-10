@@ -1,0 +1,748 @@
+[
+    {
+        "type": "text",
+        "text": "Exact Decomposition of Multifrequency Discrete Real and Complex Signals ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BaoGuo LIU\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "School of Mechanical and Electrical Engineering,Henan University of Technology; Henan Key Laboratory of Super Hard Abrasives Grinding Equipment, Zhengzhou 45oo1, Henan, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "‘The spectral leakage (SL） from windowing and the picket fence effect (PEF） from discretization’have been among the standard contents in textbooks for many decades.The SL and PEF would cause the distortions in amplitude,frequency,and phase of signals, which have always been of concern,and atempts have been made to solve them.This paper proposes two novel decomposition theorems that can totally eliminate the SLand PEF,they could broaden the knowledge of signal processing.First, two generalized eigenvalue equations are constructed for multifrequency discrete real signals and complex signals.The two decomposition theorems are then proved. On these bases，exact decomposition methods for real and complex signals are proposed.For a noise-free multifrequency real signal with $m$ sinusoidal components,the frequency,amplitude,and phase of each component can be exactly calculated by using just $4 m { - } 1$ discrete values and its second-order derivatives.For a multifrequency complex signal, only $2 m { - } 1$ discrete values and its first-order derivatives are needed.The numerical experiments show that the proposed methods have very high resolution,and the sampling rate does not necessarily obey the Nyquist sampling theorem. With noisy signals, the proposed methods have extraordinary accuracy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Exact decomposition; Multifrequency sinusoidal signal; Discrete real signal; Discrete complex signal; Decomposition theorem; Generalized eigenvalue equation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since Cooley and Tukey proposed the fast Fourier transform (FFT) of Fourier analysis in 1965 [1, 2],the technique has been indispensable in electronics,communication,signal analysis,digital image and audio processing,and many other fields [2,3]. However, while performing the FFT algorithm, distortions in amplitude, frequency, and phase - caused by spectrum leakage (SL) due to signal truncation and the picket fence effect (PEF） due to frequency discretization - are inevitable, which have always been of concern,and attempts have been made to solve them. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In 1970, Rife and Vincent studied the correction measurement of frequencies and levels of tones using discrete Fourier transform (DFT) [4].A number of scholars have also studied this issue [4-18]. Interpolation techniques are the most studied and applied methods in many engineering fields [4-10]. Interpolation techniques refer to interpolated discrete Fourier transform (IpDFT) or interpolated fast Fourier transform (IpFFT). The IpDFT and IpFFT reduce SL and PEF through windowing and interpolation, respectively. Generally, windows with the maximum side lobe decay efficiently reduce SL; thus, the Hanning window is one of the commonly used [5,7,8]. According to the distribution of spectrum lines in the windows, weighting the discrete signals before DFT and FFT are performed,and thus the PEF is decreased to a minimum,and accurate amplitudes, frequencies,and phases of the signal components can be computed [4-10]. IpDFT and IpFFT can be quickly and easily implemented; however, their results are not accurate when sinusoids are not well separated in frequency [5-8]. Weighted phase average (WPA) is another popular choice of a correction technique for FFT[11-15]. Relying on weighted linear regression on the phases, WPA averages the weighted phase estimators that are obtained by FFT within different nonoverlapping segments of the signals.WPA has the advantage of accurately calculated frequencies and phases, but amplitudes are dependent on the windows.There are many other correction techniques, such as the phase difference correction method [16] and sliding-window DFT method [17,18,27]. All of the correction techniques have advantages and disadvantages. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Distinct from techniques based on DFT and FFT, matrix-based singular value decomposition (SVD) and singular spectral decomposition (SSD) are techniques that aim to represent signals as a linear superposition of elementary variable modes with unnecessary harmonic components [19- 22]. The aforementioned techniques do not provide estimators for the spectrum, but they are powerful denoising filters capable of separating autocoherent features,such as anharmonic Oscillations and quasiperiodic phenomena， from random features.They are non-parametric techniques. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Other techniques commonly used to extract signal features include the wavelet transform (WT) [23,24],Hilbert-Huang transform (HHT） [25],estimation of signal parameters via rotational invariance technique (ESPRIT) [26,27], and multiple signal classification (MUSIC) [28,29]. However, it is impossible to exactly compute frequencies，amplitudes，and phases of multifrequency discrete signals using the aforementioned techniques. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This paper constructs the generalized eigenvalue equations and proves the decomposition theorems for multifrequency discrete real signals and complex signals. Based on the two decomposition theorems,decomposition methods for real and complex signals are proposed. For a noise-free real signal with $m$ sinusoidal components,the frequency,amplitude,and phase of each component can be exactly calculated by using just $4 m { - } 1$ discrete values and its second-order derivatives.For a complex signal,only $2 m { - } 1$ discrete values and its first-order derivatives are needed. The decomposition results are exact in theory. The numerical experiments show that the proposed methods have very high resolution, and the sampling rate does not necessarily obey the Nyquist sampling theorem. With noisy signals, the proposed methods have extraordinary accuracy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Decomposition theorem of multifrequency discrete real signal ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Multifrequency sinusoidal signal is one of the most common signals in engineering. The Multifrequency real signal can be presented as follows ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ( t ) = \\sum _ { i = 1 } ^ { m } a _ { i } s i n ( 2 \\pi f _ { i } t + \\varphi _ { i 0 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $a _ { i } , \\ f _ { i }$ ，and $\\varphi _ { i 0 }$ are the amplitude,frequency and phase of the ith component of signal $x ( t ) ; m$ is the number of component signals. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Discretize $x ( t )$ ，and construct the following generalized eigenvalue equation of the multifrequency discrete real sinusoidal signal ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- { \\pmb { D } } _ { { \\boldsymbol { x } } } { \\pmb { v } } = \\lambda { \\pmb { X } } { \\pmb { v } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda$ is the generalized eigenvalue; $v$ is the generalized eigenvector; $\\pmb { X }$ is the square Hankel matrix of $x ( t )$ ; and $\\pmb { D } _ { x }$ is the square Hankel matrix of the second-order derivative $\\ddot { x } ( t )$ . And ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = { \\left[ \\begin{array} { l l l l } { x _ { 1 } } & { x _ { 2 } } & { \\cdots } & { x _ { n } } \\\\ { x _ { 2 } } & { x _ { 3 } } & { \\cdots } & { x _ { n + 1 } } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { x _ { n } } & { x _ { n + 1 } } & { \\cdots } & { x _ { 2 n - 1 } } \\end{array} \\right] } ; \\quad \\mathbf { { \\cal { D } } } _ { x } = { \\left[ \\begin{array} { l l l l } { { \\ddot { x } } _ { 1 } } & { { \\ddot { x } } _ { 2 } } & { \\cdots } & { { \\ddot { x } } _ { n } } \\\\ { { \\ddot { x } } _ { 2 } } & { { \\ddot { x } } _ { 3 } } & { \\cdots } & { { \\ddot { x } } _ { n + 1 } } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { { \\ddot { x } } _ { n } } & { { \\ddot { x } } _ { n + 1 } } & { \\cdots } & { { \\ddot { x } } _ { 2 n - 1 } } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $x _ { k } , \\ddot { x } _ { k } \\left( k = 1 , \\cdots , 2 n - 1 \\right)$ are the discrete series of $x ( t )$ and $\\ddot { x } ( t )$ , respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Theorem 1: When $n \\geq 2 m$ ， the generalized eigenvalue equation of the multifrequency real sinusoidal signal has $2 m$ nonzero generalized eigenvalues，which are given by the following equations ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { 2 i - 1 } = \\lambda _ { 2 i } = 4 \\pi ^ { 2 } f _ { i } ^ { 2 } , ( i = 1 , \\cdots , m )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Proof ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The square Hankel matrix $\\pmb { X }$ of signal $x ( t )$ is rewritten as follows ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = \\sum _ { i = 1 } ^ { m } a _ { i } X _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $a _ { i } { \\pmb X } _ { i }$ is the square Hankel matrix of the ith sinusoidal component. The $k t h$ row and lth column element of matrix $X _ { i }$ is given by the following equation ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { k l } ^ { i } = s i n ( 2 \\pi f _ { i } ( k + l - 2 ) / f _ { s } + \\ \\varphi _ { i 0 } ) , \\quad ( k , l = 1 , \\cdots , n )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "were $f _ { s }$ is sampling rate. The square Hankel matrix $\\pmb { D } _ { x }$ is given by the following equation ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\pmb { D } } _ { x } = \\sum _ { i = 1 } ^ { m } { \\pmb { D } } _ { x i } = \\sum _ { i = 1 } ^ { m } - 4 \\pi ^ { 2 } f _ { i } ^ { 2 } a _ { i } { \\pmb { X } } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The ranks of matrices $\\pmb { X }$ and $\\pmb { D } _ { x }$ are less than or equal to $2 m$ ， because the ranks of the square Hankel matrices $X _ { i }$ and $\\pmb { D } _ { x _ { i } }$ are two [30]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Suppose $\\lambda = 4 \\pi ^ { 2 } f _ { i } ^ { 2 }$ ,and considering the relation $D _ { x i } = - 4 \\pi ^ { 2 } f _ { i } ^ { 2 } a _ { i } { \\pmb X } _ { i }$ ,eq. (2) is modified to obtain the following equation ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Bigg \\{ \\sum _ { k = 1 , k \\neq i } ^ { m } { \\cal D } _ { x k } + 4 \\pi ^ { 2 } f _ { i } ^ { 2 } \\sum _ { k = 1 , k \\neq i } ^ { m } a _ { k } { \\cal X } _ { k } \\Bigg \\} v = { \\bf 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Eq.(8） has at least two nonzero solutions，which are ${ \\pmb v } _ { 2 i }$ and $\\pmb { v } _ { 2 i - 1 }$ ，because it is a homogeneous equation about vector $\\boldsymbol { v }$ ,and the rank of the coefficient matrix is less than or equal to $2 m - 2$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In eq. (8), replacing $v$ with $\\pmb { v } _ { 2 i }$ , and left multiplying by $\\pmb { v } _ { 2 i } ^ { T }$ ,yields ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n4 \\pi ^ { 2 } f _ { i } ^ { 2 } = - v _ { 2 i } ^ { T } \\left( \\sum _ { k = 1 , k \\neq i } ^ { m } { \\cal D } _ { x k } \\right) v _ { 2 i } \\Biggl / v _ { 2 i } ^ { T } \\left( \\sum _ { k = 1 , k \\neq i } ^ { m } a _ { k } { \\cal X } _ { k } \\right) v _ { 2 i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\pmb { v } _ { 2 i } ^ { T }$ is the transpose vector of ${ \\pmb v } _ { 2 i }$ . Considering the following identical equation ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n4 \\pi ^ { 2 } f _ { i } ^ { 2 } = - \\frac { v _ { 2 i } ^ { T } { \\pmb { D } } _ { x i } { \\pmb v } _ { 2 i } } { v _ { 2 i } ^ { T } a _ { i } { \\pmb X } _ { i } { \\pmb v } _ { 2 i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The following equation is derived from eq. (9) and (10) ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n4 \\pi ^ { 2 } f _ { i } ^ { 2 } = \\frac { - { v _ { 2 i } ^ { T } } { \\pmb { D } _ { x } } { \\pmb v } _ { 2 i } } { v _ { 2 i } ^ { T } { \\pmb X } { \\pmb v } _ { 2 i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Eq.（11） reveals that $4 \\pi ^ { 2 } f _ { i } ^ { 2 }$ is a Rayleigh quotient of matrices $- { \\pmb D } _ { x }$ and $\\pmb { X }$ ，that is, $\\lambda = 4 \\pi ^ { 2 } f _ { i } ^ { 2 }$ is a generalized eigenvalue of eq. (2), and ${ \\pmb v } _ { 2 i }$ is the corresponding generalized eigenvector [29]. Replacing ${ \\pmb v } _ { 2 i }$ with $\\pmb { v } _ { 2 i - 1 }$ ,eq.（11） is also established.Therefore, $\\lambda = 4 \\pi ^ { 2 } f _ { i } ^ { 2 }$ is a double eigenvalue of eq. (2). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Decomposition theorem 1 of the discrete real signal is thus proven. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Component amplitudes and phases of multifrequency discrete real signal ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After the ith double eigenvalue and its two corresponding eigenvectors are computed, considering eq. (6), ${ \\pmb v } _ { 2 i } ^ { T } a _ { i } { \\pmb X } _ { i } { \\pmb v } _ { 2 i }$ and ${ \\pmb v } _ { 2 i - 1 } ^ { T } a _ { i } { X } _ { i } { \\pmb v } _ { 2 i - 1 }$ can be expanded as follows ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { v _ { 2 i } ^ { T } a _ { i } X _ { i } v _ { 2 i } = v _ { 2 i } ^ { T } H _ { i 1 } v _ { 2 i } a _ { i } c o s \\varphi _ { i 0 } + v _ { 2 i } ^ { T } H _ { i 2 } v _ { 2 i } a _ { i } s i n \\varphi _ { i 0 } } \\\\ { \\qquad \\vdots } \\\\ { v _ { 2 i - 1 } ^ { T } a _ { i } X _ { i } v _ { 2 i - 1 } = v _ { 2 i - 1 } ^ { T } H _ { i 1 } v _ { 2 i - 1 } a _ { i } c o s \\varphi _ { i 0 } + v _ { 2 i - 1 } ^ { T } H _ { i 2 } v _ { 2 i - 1 } a _ { i } s i n \\varphi _ { i 0 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\pmb { H } _ { i 1 }$ and $\\pmb { H } _ { i 2 }$ are square matrices with dimensions $n$ . Their $k t h$ row and lth column elements are given by the following equation ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { { \\{ h \\} _ { k l } ^ { i 1 } = s i n ( 2 \\pi f _ { i } ( k + l - 2 ) / f _ { s } ) } } \\\\ { { \\{ h \\} _ { k l } ^ { i 2 } = c o s \\big ( 2 \\pi f _ { j } ( k + l - 2 ) / f _ { s } \\big ) } } \\end{array} , \\ : ( k , l = 1 , \\cdots n ) \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the $i t h$ generalized eigenvector, ${ \\pmb v } _ { 2 i } ^ { T } a _ { i } { \\pmb X } _ { i } { \\pmb v } _ { 2 i }$ can be replaced with ${ \\pmb v } _ { 2 i } ^ { T } { \\pmb X } { \\pmb v } _ { 2 i }$ ，and ${ \\pmb v } _ { 2 i - 1 } ^ { T } a _ { i } { \\pmb X } _ { i } { \\pmb v } _ { 2 i - 1 }$ can be replaced by ${ \\pmb v } _ { 2 i - 1 } ^ { T } { \\pmb X } { \\pmb v } _ { 2 i - 1 }$ ，because the generalized eigenvectors are weighted orthogonally, that is, ${ \\pmb v } _ { 2 i } ^ { T } { \\pmb X } { \\pmb v } _ { k } = { \\pmb v } _ { 2 i - 1 } ^ { T } { \\pmb X } { \\pmb v } _ { k } = 0 \\ ( k \\neq 2 i , \\ k \\neq 2 i - 1 )$ . Thus eq. (12) is modified to create ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array} { l l } { { \\pmb v } _ { 2 i } ^ { T } { \\pmb H } _ { i 1 } { \\pmb v } _ { 2 i } } & { { \\pmb v } _ { 2 i } ^ { T } { \\pmb H } _ { i 2 } { \\pmb v } _ { 2 i } } \\\\ { { \\pmb v } _ { 2 i - 1 } ^ { T } { \\pmb H } _ { i 1 } { \\pmb v } _ { 2 i - 1 } } & { { \\pmb v } _ { 2 i - 1 } ^ { T } { \\pmb H } _ { i 2 } { \\pmb v } _ { 2 i - 1 } } \\end{array} \\right] \\left\\{ \\begin{array} { l } { a _ { i } c o s \\varphi _ { i 0 } } \\\\ { a _ { i } s i n \\varphi _ { i 0 } } \\end{array} \\right\\} = \\left\\{ \\begin{array} { l } { { \\pmb v } _ { 2 i } ^ { T } { \\pmb X } { \\pmb v } _ { 2 i } } \\\\ { { \\pmb v } _ { 2 i - 1 } ^ { T } { \\pmb X } { \\pmb v } _ { 2 i - 1 } } \\end{array} \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The amplitude $a _ { i }$ and phase $\\varphi _ { i 0 }$ can be calculated after the unknowns $a _ { i } c o s \\varphi _ { i 0 }$ and $a _ { i } s i n \\varphi _ { i 0 }$ are computed from eq. (14). The frequencies,amplitudes,and phases of all sinusoidal component signals can be computed in this way. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Decomposition theorem of multifrequency discrete complex signal ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The multifrequency complex signal can be expressed as follows ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny ( t ) = \\sum _ { i = 1 } ^ { m } a _ { i } e ^ { j ( 2 \\pi f _ { i } t + \\varphi _ { i 0 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $a _ { i } , \\ f _ { i }$ ，and $\\varphi _ { i 0 }$ are the amplitude, frequency and phase of the ith component of complex signal $y ( t ) ; m$ is the number of component complex signals. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discretize $y ( t )$ ，and construct the generalized eigenvalue equation of the multifrequency discrete complex signal as follows ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- j \\pmb { D } _ { y } \\pmb { v } = \\lambda \\pmb { Y } \\pmb { v }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda$ is the generalized eigenvalue; $v$ is the generalized eigenvector; $\\pmb { Y }$ is the square Hankel matrix of $y ( t )$ ; and $\\pmb { D } _ { y }$ is the square Hankel matrix of the first-order derivative $\\dot { y } ( t )$ . And ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\boldsymbol { Y } = \\left[ \\begin{array} { c c c c } { y _ { 1 } } & { y _ { 2 } } & { \\cdots } & { y _ { n } } \\\\ { y _ { 2 } } & { y _ { 3 } } & { \\cdots } & { y _ { n + 1 } } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { y _ { n } } & { y _ { n + 1 } } & { \\cdots } & { y _ { 2 n - 1 } } \\end{array} \\right] ; \\quad \\quad \\boldsymbol { D } _ { \\boldsymbol { y } } = \\left[ \\begin{array} { c c c c } { \\dot { y } _ { 1 } } & { \\dot { y } _ { 2 } } & { \\cdots } & { \\dot { y } _ { n } } \\\\ { \\dot { y } _ { 2 } } & { \\dot { y } _ { 3 } } & { \\cdots } & { \\dot { y } _ { n + 1 } } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { \\dot { y } _ { n } } & { \\dot { y } _ { n + 1 } } & { \\cdots } & { \\dot { y } _ { 2 n - 1 } } \\end{array} \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $y _ { k } , \\dot { y } _ { k } \\left( k = 1 , \\cdots , 2 n - 1 \\right)$ are the discrete series of $y ( t )$ and $\\dot { y } ( t )$ ,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Theorem 2: When $n \\geq m$ ， the generalized eigenvalue equation of the multifrequency complex signal has $m$ nonzero generalized eigenvalues，which are given by the following equation ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { i } = 2 \\pi f _ { i } , ( i = 1 , \\cdots , m )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Proof ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The square Hankel matrix $\\pmb { Y }$ of complex signal $y ( t )$ can be rewritten as follows ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = \\sum _ { i = 1 } ^ { m } a _ { i } Y _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $a _ { i } { \\cal Y } _ { i }$ is the square Hankel matrix of the ith component complex signal. The $k t h$ row and lth column element of matrix $\\pmb { Y } _ { i }$ is given by the following equation ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { k l } ^ { i } = e ^ { j ( 2 \\pi f _ { i } ( k + l - 2 ) / f _ { s } + \\varphi _ { i 0 } ) } , \\quad ( k , l = 1 , \\cdots , n )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "were $f _ { s }$ is sampling rate. The square Hankel matrix $\\pmb { D } _ { y }$ is given by the following equation ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\pmb { D } } _ { y } = \\sum _ { i = 1 } ^ { m } { \\pmb { D } } _ { y i } = \\sum _ { i = 1 } ^ { m } j 2 \\pi f _ { i } a _ { i } { \\pmb { Y } } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The ranks of matrices $\\pmb { Y }$ and $\\pmb { D } _ { y }$ are less than or equal to $m$ , because the ranks of the square Hankel matrices $\\pmb { Y } _ { i }$ and $\\pmb { D } _ { y _ { i } }$ are both one [30]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Suppose $\\lambda = 2 \\pi f _ { i }$ ，and considering the relation ${ \\pmb { D } } _ { y i } = j 2 \\pi f _ { i } a _ { i } { \\pmb { Y } } _ { i }$ ，eq.(16) is modified to obtain the following equation ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ j \\sum _ { k = 1 , k \\neq i } ^ { m } { \\pmb { D } _ { y k } + 2 \\pi f _ { i } \\sum _ { k = 1 , k \\neq i } ^ { m } a _ { k } { \\pmb { Y } _ { k } } } \\right\\} { v = \\pmb { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Eq.(22) has at least one nonzero solution,which is $\\pmb { v } _ { i }$ ,because it is a homogeneous equation about vector $\\boldsymbol { v }$ ,and the rank of the coefficient matrix is less than or equal to $m - 1$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In eq. (22), replacing $\\boldsymbol { v }$ with $\\pmb { v } _ { i }$ , and left multiplying by $\\boldsymbol { v } _ { i } ^ { T }$ ,yields ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 \\pi f _ { i } = - { \\pmb v } _ { i } ^ { T } \\left( j \\sum _ { k = 1 , k \\neq i } ^ { m } { \\pmb D } _ { y k } \\right) { \\pmb v } _ { i } \\Bigg / { \\pmb v } _ { i } ^ { T } \\left( \\sum _ { k = 1 , k \\neq i } ^ { m } a _ { k } { \\pmb Y } _ { k } \\right) { \\pmb v } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\pmb { v } _ { i } ^ { T }$ is the transpose vector of $\\pmb { v } _ { i }$ . Considering the following identical equation ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 \\pi f _ { i } = - \\frac { j v _ { i } ^ { T } D _ { y i } v _ { i } } { v _ { i } ^ { T } a _ { i } Y _ { i } v _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The following equation is derived from eq. (23) and (24). ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 \\pi f _ { i } = \\frac { - \\pmb { v } _ { i } ^ { T } j \\pmb { D } _ { y } \\pmb { v } _ { i } } { \\pmb { v } _ { i } ^ { T } \\pmb { Y } \\pmb { v } _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Eq. (25) reveals that $2 \\pi f _ { i }$ is a Rayleigh quotient of matrices $- j \\pmb { D } _ { y }$ and $\\pmb { Y }$ ,that is, $\\lambda = 2 \\pi f _ { i }$ is a generalized eigenvalue of eq. (16), and $\\pmb { v } _ { i }$ is the corresponding generalized eigenvector [29]. Therefore, $\\lambda = 2 \\pi f _ { i }$ is a eigenvalue of eq. (16). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Decomposition theorem 2 of the discrete complex signal is thus proven. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Component amplitudes and phases of multifrequency discrete complex signal ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "After the ith eigenvalue and its corresponding eigenvector are computed,considering eq. (20), ${ \\pmb v } _ { i } ^ { T } a _ { i } { \\pmb Y } _ { i } { \\pmb v } _ { i }$ can be expressed as follows ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { v } _ { i } ^ { T } a _ { i } \\pmb { Y } _ { i } \\pmb { v } _ { i } = a _ { i } e ^ { j \\varphi _ { i 0 } } \\pmb { v } _ { i } ^ { T } \\pmb { G } _ { i } \\pmb { v } _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\pmb { G } _ { i }$ is a square matrix with dimensions $n$ . Its kth row and lth column element is given by the following equation ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ g \\} _ { k l } ^ { i } = e ^ { j ( 2 \\pi f _ { i } ( k + l - 2 ) / f _ { s } ) } , ( k , l = 1 , \\cdots n )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the ith generalized eigenvector, ${ \\pmb v } _ { i } ^ { T } a _ { i } { \\pmb Y } _ { i } { \\pmb v } _ { i }$ can be replaced with ${ \\pmb v } _ { i } ^ { T } { \\pmb Y } { \\pmb v } _ { i }$ ，because the generalized eigenvectors are weighted orthogonally, that is, ${ \\pmb v } _ { i } ^ { T } { \\pmb Y } { \\pmb v } _ { k } = 0$ 1 $( k \\neq i )$ . Thus eq. (26) is modified to create ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i } e ^ { j \\varphi _ { i 0 } } = \\frac { v _ { i } ^ { T } Y v _ { i } } { v _ { i } ^ { T } G _ { i } v _ { i } } , ( i = 1 , \\cdots m )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Eq. (28) is a complex equation, so the amplitude $a _ { i }$ and phase $\\varphi _ { i 0 } \\ ( i = 1 , \\cdots m )$ can be calculated. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Numerical experiments ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1 Decomposition of noise-free multifrequency real signal and complex signal ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on eq. (1) and eq.(15) as the noise-free multifrequency real signal and complex signal, respectively, the known frequencies,amplitudes and phases of all component signals for $m { = } 1 0$ are listed in Table 1. Since the highest frequency of the component signal is $2 9 0 ~ H z$ ,we can set the sampling rate $f _ { s } { = } 2 9 9 H z ,$ which is slightly higher than the highest frequency. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/55d17fb81ca00994caf4c9a1d6fd162931d75dc7205ed6a4e0dd559fd61e8472.jpg",
+        "table_caption": [
+            "Table1.Parametersof theknown signal "
+        ],
+        "table_footnote": [
+            "The minimum frequency difference between two neighboring components is only $0 . 5 \\ H z ,$ （2 the relative difference is about $0 . 5 \\%$ ,and the corresponding amplitude difference is up to 20 times as large. "
+        ],
+        "table_body": "<html><body><table><tr><td>fj(Hz)</td><td>35</td><td>60</td><td>97</td><td>97.5</td><td>120</td><td>135</td><td>160</td><td>230</td><td>270</td><td>290</td></tr><tr><td>aj</td><td>1.5</td><td>3.5</td><td>2</td><td>0.1</td><td>1.2</td><td>0.8</td><td>2.5</td><td>0.8</td><td>1</td><td>0.3</td></tr><tr><td>jo(°)</td><td>30</td><td>50</td><td>170</td><td>230</td><td>90</td><td>145</td><td>0</td><td>330</td><td>280</td><td>0</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the real signal where $\\scriptstyle n = 4 m - 1 = 3 9$ ， solve the generalized eigenvalue eq. (2)，while ten double eigenvalues and twenty corresponding eigenvectors were computed. Ten component frequencies were calculated by eq. (4),and the component amplitudes and phases were computed using eq. (14). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows the known multifrequency real signal and its ten decomposed component signals. The 39 discrete points on the original multifrequency signal are identified by symbol ‘o'. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although the minimum frequency difference between two neighboring components is only $0 . 5 H z$ the relative difference is approximately $0 . 5 \\%$ , and the corresponding amplitude difference is up to 20 times as large. The two neighboring component signals can be decomposed accurately. The sampling rate is less than the Nyquist sampling rate,which is $5 8 0 H z$ - twice the highest component frequency. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/75ded64ba6d74e9ed319f30f9c8b7b79d3d1527362a4666c9d1193bffb0a7e9e.jpg",
+        "img_caption": [
+            "Fig.1.Multifrequency real signal and its ten decomposed component signals.The 39 discrete points on the original multifrequency signal are identified by symbol‘o'.The maximumabsolute errors in frequency,amplitude and phase are 1.99e-09,7.79e-10 and $- 4 . 3 9 \\mathrm { e } { - 0 8 }$ ,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the complex signal where $\\scriptstyle n = 2 m - 1 = 1 9$ ，solve the generalized eigenvalue eq. (l6),while ten eigenvalues and ten corresponding eigenvectors were computed. Ten component frequencies were calculated by eq. (18), and the component amplitudes and phases were computed using eq. (28). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The decomposed results are similar to those of the real signal. With the multifrequency complex signal，however， the decomposed results have both real component signals and imaginary component signals.The discrete points on the original signal are much less than the real signal. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The absolute computational errors in the component frequencies,amplitudes and phases are listed in Table 2. With the real signal, the maximum absolute errors in frequency,amplitude and phase are 1.99e-09,7.79e-10 and $- 4 . 3 9 \\mathrm { e } { - } 0 8$ ,respectively. With the complex signal, these errors are 6.41e-07,-2.5le-07 and -6.72e-O6,respectively. It should be noted that all maximum errors resulted from the two neighboring components with minimum frequency difference and maximum amplitude difference,and the other errors were much less.Therefore,these errors were considered to be caused by the computer rather than the method. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Therefore, the proposed two decomposition theorems are exactly in theory. The corresponding decomposition methods are highly accurate and possess high resolution,and it is unnecessary for the sampling rate to obey the sampling theorem. In fact, it is impossble to extract accurate frequencies,amplitudes and phases from multifrequency signals by using other methods with so little discrete data. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0cdc096620073f029da7b3241c3518ce5e3ce31e2ffe8f5330f461ac7b8027d.jpg",
+        "table_caption": [
+            "Table 2.The absolute computation errors in the component frequencies,amplitudes and phases "
+        ],
+        "table_footnote": [
+            "The color bold numbers are the maximum absolute errors of the component parameters.Al maximum errors resulted from the two neighboring components with minimum frequency diference and maximum amplitude difference,and the other errors are greatly less. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">PtneeomponentTeqacheies，unplitaaesundpnuses</td></tr><tr><td colspan=\"3\">Errors of real signal</td><td colspan=\"3\">Errorsof complex signal</td></tr><tr><td>△fj(Hz)</td><td>△aj</td><td>△φj(°)</td><td>△fj(Hz)</td><td>△aj</td><td>△φjo(°)</td></tr><tr><td>-5.76e-12</td><td>2.07e-12</td><td>1.22e-10</td><td>-1.99e-13</td><td>-2.00e-14</td><td>1.80e-12</td></tr><tr><td>3.41e-13</td><td>2.19e-13</td><td>-7.68e-12</td><td>0</td><td>0</td><td>-3.98e-13</td></tr><tr><td>9.54e-11</td><td>7.79e-10</td><td>-2.23e-09</td><td>-5.18e-09</td><td>-4.23e-08</td><td>6.92e-08</td></tr><tr><td>1.99e-09</td><td>-7.77e-10</td><td>-4.39e-08</td><td>6.41e-07</td><td>-2.51e-07</td><td>-6.72e-06</td></tr><tr><td>1.14e-13</td><td>4.26e-14</td><td>-4.49e-12</td><td>3.50e-11</td><td>-6.50e-13</td><td>-4.22e-10</td></tr><tr><td>1.25e-12</td><td>4.68e-13</td><td>-4.56e-11</td><td>2.20e-11</td><td>-3.09e-12</td><td>-2.09e-10</td></tr><tr><td>-2.56e-13</td><td>9.70e-13</td><td>-3.36e-12</td><td>9.95e-13</td><td>-1.90e-13</td><td>-6.20e-12</td></tr><tr><td>-8.81e-13</td><td>-8.34e-14</td><td>2.02e-11</td><td>0</td><td>-2.00e-15</td><td>0</td></tr><tr><td>3.41e-13</td><td>-9.43e-14</td><td>-8.92e-12</td><td>0</td><td>-1.30e-14</td><td>1.99e-12</td></tr><tr><td>3.41e-13</td><td>-4.11e-15</td><td>-7.67e-12</td><td>0</td><td>-6.99e-15</td><td>-4.23e-12</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Generally, the first-order and second-order derivatives of signals are unknown. In this case, they can be easily obtained by the differential circuits or numerically calculated by using the discrete values of the original signal. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2 Simulation to FMCW radar measurement ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Frequency modulation continuous wave (FMCW) radar is widely used to measure the distance of targets. The transmiting antenna of the radar system transmits the FMCW radio signal, the receiving antenna receives the reflected signal from the target, and then mixing the transmission signal and reflection signal yields [31] ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz ( t ) = A e ^ { j ( 2 \\pi f _ { b } t + \\varphi _ { b } ) } + w ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $A$ is the received signal power and $w ( t )$ is the system noise. The frequency $f _ { b }$ and phase $\\varphi _ { b }$ are given by the following equations ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle f _ { b } = \\frac { 2 B R } { c T _ { c } } } \\\\ { \\displaystyle \\varphi _ { b } = \\frac { 4 \\pi f _ { c } R } { c } + \\frac { 4 \\pi B R ^ { 2 } } { c ^ { 2 } T _ { c } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { c }$ is the chirp start frequency; $B$ is the bandwidth of the chirp; $T _ { c }$ is the duration of the chirp; $R$ is the distance to the target; $c$ is the speed of light. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "According to eqs. (23) and (24),the distance to the target can be calculated by measuring the frequency $f _ { b }$ or the phase $\\varphi _ { b }$ . In general, the distance measurement accuracy of the phase method is higher. However, because of the periodic ambiguity of the phase,when the measured distance is long,it is dificult to use the phase method [31]. Here,we simulate to measure the distance of the target by the frequency method and investigate the influence of noise on the measurement accuracy by using the proposed method of this paper. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Set the parameters of radar as follows: the chirp start frequency $f _ { c } = 2 4 ~ G H z .$ ，the bandwidth of the chirp $B = 1 0 0 M H z$ ，the duration of the chirp $T _ { c } = 5 1 2 \\mu s$ ，and the speed of light （204 $c = 3 \\times 1 0 ^ { 8 } \\ : m / s$ . Suppose the distance of the target $R = 1 2 . 3 4 5 6 7 8 9 m$ ,and the noise $w ( t )$ is Gaussian white noise with zero mean.With a specified signal-to-noise ratio (SNR)，1000 simulation measurements were made,and the simulated measurement results of distance were shown in figures 2 to 4. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d02daf00382ee92c7124e8537b4deca340dfe54842b442b94a0b18ba0acd9d75.jpg",
+        "img_caption": [
+            "Fig.2.The absolute errors and relative errors of the average distance of1OOO simulation measurements vs.SNR "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 shows the absolute errors and relative errors of the average distance of 1OOO simulation measurements vs. SNR.As seen from fig.2,even if the SNR is very low,as low as $- 1 0 \\ d B$ ，the distance errors are less than $4 \\ : m m$ ，and the relative error is approximately $0 . 0 3 2 \\%$ . When SNR $> =$ $1 0 d B$ ,the absolute errors and relative errors are close to zero ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The reason for the high distance accuracy is that the simulation measured frequency, amplitude and phase of the signal $z ( t )$ are of high accuracy.Fig. 3 shows the comparison between the mean squared errors (MSEs）of the simulation measured frequency，amplitude and phase and their Cramer-Rao bounds (CRBs) [4]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/80a0b42d879c9c7ba80e423371b1e9b637cebbda3adca9c239e602122e3d3922.jpg",
+        "img_caption": [
+            "Fig.3.The MSEs and CRBs of frequency,amplitude and phase of the signal vs.SNR.The MSEs of the frequency, amplitude and phase are lessthan those of their CRBs.This indicates that the method has achieved extraordinary accuracy. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In general theory, it is impossible that the MSEs of the frequency,amplitude and phase are less than their CRBs.The simulation results, however, show that the MSEs are indeed less than their CRBs.It is very difficult to explain these results at this time.On the hand,this indicates that the method has achieved extraordinary accuracy. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To investigate the robustness of the method,the MES of the simulation measured distance is calculated by the following equation ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { s } ^ { 2 } = \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } ( R _ { i } - R ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $N = 1 0 0 0$ , is the simulation times; $R _ { i }$ is the simulation measured distance at a certain SNR; $R$ is the real distance of target ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 gives the curve of $\\sigma _ { s } ^ { 2 }$ vs. SNR. It shows that $\\sigma _ { s } ^ { 2 }$ decreases rapidly with the increase of SNR. So the method has well robustness. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9c4c6fcc12e07584457dd40cb7c08ac45b4215dbe53d6149bf0a753130ecf7d.jpg",
+        "img_caption": [
+            "Fig.4.The MSE of distancevs.SNR "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5. Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The key point of this paper is the construction of generalized eigenvalue equations for real signals and complex signals. For the multifrequency real signal, the generalized eigenvalue equation is constructed by using the square Hankel matrixes of discrete values and their second-order derivatives of signal. For the multifrequency complex signal， the generalized eigenvalue equation is constructed by using the square Hankel matrixes of discrete values and their first-order derivatives of signal. The aforementioned Hankel matrix can be replaced by a Toeplitz matrix or other matrix as long as the rank of the matrix equals the rank of the corresponding square Hankel matrix. The first-order and second-order derivatives of signals can be obtained by differential circuits or numerically calculated by using the discrete values of the original signal. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The proposed two decomposition theorems are exactly in theory. For a noise-free real signal with $m$ components,the proposed method can exactly compute the frequency,amplitude and phase of each component using only $2 m { - } 1$ discrete values and corresponding second-order derivatives.For a noise-free complex signal, the number of discrete values decreases to $2 m { - } 1$ ,and the second-order derivatives are replaced by the first-order derivatives.The proposed methods have very high resolution. The sampling rate is unnecessary to obey the sampling theorem. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "With noisy signals, the proposed methods have extraordinary accuracy. It is possble that the MSEs of the frequency, amplitude and phase are less than their CRBs. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For the multifrequency discrete real signal and complex signal, it may be the first time to realize the exact decomposition of frequencies, amplitudes and phases of component signals in theory. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The author would like to thank the financial support of the National Natural Science Foundation of China (Grant No.12072106 & U1604254). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1Cooley,J.W.& Tukey J.W.Analgorithm for the machine calculation of complex Fourier series.Mathematics of Computation,1965,19(90): 297-301.   \n2Kumar, G. G.,Sahoo,S.K.& Meher,P. K.50 Years ofFFTalgorithms and applications. Circuits Systems and Signal Processing,2019,38(12): 5665-5698.   \n3Weimann S.,Perez-Leija A.,Lebugle M., Keil R.,Tichy M., Grafe M.,Heilmann R.,Nolte S.,Moya-Cessa H, Weihs G., Christodoulides D.N.& Szameit A. Implementation of quantum and classical discrete fractional fourier transforms.Nature Communications,2O16,7: 11027.   \n4Rife,D. C.& Vincent, G.A. Use of the discrete Fourier transform in the measurement of frequencies and levels of tones. Bell Labs Technical Journal,1970,49(2): 197-288.   \n5Grandke,T. Interpolation algorithms for discrete Fourier transforms of weighted signals.IEEE Transactions on Instrumentation and Measurement, 1983,32(2): 350-355.   \n6Quinn, B. G.Estimating frequency by interpolation using Fourier coefficients. IEEE Transactions on Signal Processing,1994,42(5): 1264-1268.   \n7Agrez, D. Weighted multipoint interpolated DFT to improve ampliture estimation of multifrequency signal. IEEE Transactions on Instrumentation and Measurement, 20o2,51(2),287-292.   \n8Aboutanios,E.& Mulgrew,B.Iterative frequency estimation by interpolation on Fourier coeficients. IEEE Transactions on Signal Processing,2005,53(4): 1237-1242.   \n9Belega,D.& Petri，D. Accuracy analysis of the multicycle synchrophasor estimator provided by the interpolated DFT algorithm. IEEE Transactions on Instrumentation and Measurement,2013,62(5): 942-953.   \n10Fan,L.& Qi, G.Frequency estimator of sinusoid based on interpolation of three DFT spectral lines. Signal Processing,2018,144: 52-60.   \n11Tretter, S.A.Estimating the frequency of a noisy sinusoid by linear regression. IEEE Transactions on Information Theory,1985,31(6): 832-835.   \n12Santamarida,I.，Pantaleon, C.& Ibanez,J.A comparative study of high-accuracy frequency estimation methods.Mechanical Systems and Signal Processing,2000,14(5): 819-834.   \n13Xiao, Y. C., Wei, P.& Xiao, X. C.Fast and accurate single frequency estimator. Electronics Letters, 2004, 40(14): 910-911.   \n14Fu, H. & Kam,P. Y. Improved weighted phase averager for frequency estimation of single sinusoid in noise. Electronics Letters,2008,44(3): 247-248.   \n15Liao,J. R.& Chen, C.M. Phase correction of discrete Fourier transform coeficients to reduce frequency estimation bias of single tone complex sinusoid. Signal Processing,2O14,94: 108-117.   \n16Kang, D.， Ming X.& Xiaofei Z. Phase difference correction method for phase and frequency in spectral analysis.Mechanical Systems and Signal Processing,2Ooo,14: 835-843.   \n17Jacobsen,E.and Lyons,R. The sliding DFT. IEEE Signal Processing Magazin,2003,20(2): 74-78.   \n18Wang, K., Zhang,L., Wen, H.and Xu,L. A sliding-window DFT based algorithm for parameter estimation of multi-frequency signal. Digital Signal Processing, 2019, 97: 102617.   \n19Klema,V.& Laub,A.The singular value decomposition: Its computation and some applications. IEEE Transactions on Automatic Control,1980,25(2): 164-176.   \n20Muruganatham,B.,Sanjith,M.A.& Krishnakumar,B.Roller element bearing fault diagnosis using singular spectrum analysis.Mechanical Systems and Signal Processing,2O13,35: 150-166.   \n21Golafshan,R.& Sanliturk,K.Y. SVD and Hankel matrix based de-noising approach for ball bearing fault detection and its assessment using artificial faults. Mechanical Systems and Signal Processing,2O16,70-71: 36-50.   \n22 Islam,M.T.,Zabir,I.& Ahamed,S.T.A time-frequency domain approach of heart rate estimation from photoplethysmographic (PPG) signal. Biomedical Signal Processing and Control,2017,36:146-154.   \n23Grossmann,A.& Morlet,J. Decomposition of Hardy functions into square inte-grable wavelets of constant shape.Siam Journal on Mathematical Analysis,1984,15(4): 723-736.   \n24Jiang, Q.& Suter, B.W. Instantaneous frequency estimation based on synchrosqueezing wavelet transform. Signal Processing,2017,138:167-181.   \n25Huang,N.E.， Shen, Z.& Long,S.R. The empirical mode decomposition and the Hilbert spectrum for nonlinear and non-stationary time series analysis.Proceedings of the Royal Society of London, Series A, 1998,454: 903-995.   \n26Paulraj, A., Roy,R.& Kailath,T. A subspace rotation approach to signal parameter estimation. Proceedings of the IEEE,1986,74(7):1044-1046.   \n27Gu,Y.H.& Bollen,M.H.J.Estimating interharmonics byusing sliding-window ESPRIT. IEEE Transactions on Power Delivery,2008,23(1): 13-23.   \n28Odendaal,J.W.,Barnard,E.&Pistorius,C.W.I.Two-dimensional super-resolution radar imagingusing the MUSIC algorithm. IEEE Transactions on Antennas and Propagation,1994,42(10): 1386-1391.   \n29Zheng,W.,Li, X.L.& Zhu,J.Foetal heart rate estimation by empirical mode decomposition and MUSIC spectrum. Biomedical Signal Processing and Control,2018,42: 287-296.   \n30Gallier,J.& Quaintance,J.Algebra,topology，diffrential calculus,and optimization theory for computer science and engineering.Philadelphia,PA19104,USA, July 28,2019   \n31Kim,B.S.,Jin,Y.,Lee,J.andKim,S.High-Effciency Super-ResolutionFMCWRadar AlgorithmBasedon FFT Estimation. Sensors,2021,21(12): 4018. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,258 @@
+# 结合用户兴趣度聚类的协同过滤推荐算法
+
+黄贤英，龙姝言，谢晋(重庆理工大学 计算机科学与工程学院，重庆 400054)
+
+摘要：针对传统的协同过滤算法忽略了用户兴趣源于关键词以及数据稀疏的问题，提出了结合用户兴趣度聚类的协同过滤推荐算法。利用用户对项目的评分,并从项目属性中提取关键词,提出了一种新的RF-IIF(rating frequency-inverseitemfrequency)算法，根据目标用户对某关键词的评分频率和该关键词被所有用户的评分频率，得到用户对关键词的偏好，形成用户一关键词偏好矩阵，并在该矩阵基础上进行聚类。然后利用logistic函数得到用户对项目的兴趣度，明确用户爱好，在类簇中寻找目标用户的相似用户，提取邻居爱好的前N个物品对用户进行推荐。实验结果表明，算法准确率始终优于传统算法，对用户爱好判断较为准确，缓解了数据稀疏问题，有效提高了推荐的准确率和效率。
+
+关键词：协同过滤；推荐算法；用户兴趣；K-means聚类 中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2018.03.0149
+
+# Collaborative filtering recommendation algorithm combined with user interest degree clustering
+
+Huang Xianying,Long Shuyan†, Xie Jin (School ofComputer Science&Engineering,Chongqing Universityof Technology,Chongqing 40o054,China)
+
+Abstract:Aimingattheproblemofignorestheuser'snterestinthekeywordsandthedatasparsenessintraditioalcollaborative filtering algorithm.We proposedacolaborativefiltering recommendation algorithmcombined withtheuser interestdegree clustering.We using user ratings for projects and extracting keywords from item atributes.Anew RatingFrequency-Inverse ItemFrequencyalgorithm is proposed.According to the target users'scoring frequencyforakeywordand thefrequencyof the keyword being evaluated byallusers.We getusers'preferences for keywords,formuser preference matrix,and clusteronthe basis ofthis matrix.Then weuse logistic function to getusers'interestinprojects.Clearuser preferencesandfindsimilarusers oftargetusers intheclusters.Then extractNitems fromneighbors'preferences,andrecommendusers.Experimentalresults showthathealgorithmaccuracyrateisalwaysbterthanthetraditionalalgorithm.it,smoreaccurate tojudge theserinterest, alleviating the problem ofdata sparseness,and effctively improves the accuracyand eficiencyofrecommendation.
+
+Key words: Collaborative filtering; recommendation algorithm; user interest; K-means clustering
+
+# 0 引言
+
+推荐系统[1(recommender system，RS)是为用户推荐有用的项目的一种软件工具，也可以说是一种技术方法。早期的推荐系统为用户提供的推荐都是当前流行且大众化的内容，并不能满足个体用户的需求，因此产生了基于个性化推荐系统。这类个性化推荐最简单的方法就是根据用户的历史行为数据（包括评分，历史记录）得到个性化需求，来预测可能的最适项目。根据用户需求的不同，推荐系统也出现了多种方法，常用的有基于内容的推荐方法，基于用户的推荐方法、基于组合的推荐方法、基于关联规则的推荐方法和基于协同过滤的推荐方法[2]。其中协同过滤推荐算法是当前各类推荐算法中研究最多且推荐效果最好的算法之一。因此，协同过滤推荐算法也广泛应用于各大电子商务网站中，例如淘宝、京东商城、亚马逊、当当网等。
+
+协同过滤算法又分为基于模型的协同过滤推荐和基于内存的协同过滤推荐[3-5]。其中基于内存的协同过滤推荐算法又分为基于用户的协同过滤推荐算法和基于项目的协同过滤推荐算法。基于用户的协同过滤推荐通过计算目标用户与其余用户之间的相似度，得到与目标用户兴趣爱好相似的用户，根据相似用户的喜好为目标用户进行推荐。随着用户和项目数量的增加，数据稀疏[]、相似度计算不准确和实时性差成为影响推荐系统性能的关键因素。
+
+为了解决数据稀疏导致的评分预测问题，相关学者引入聚类算法进行优化研究，例如文献[7]提出了一种结合项目聚类和Slopeone方案的推荐算法，利用项目聚类算法，将项目聚合为几个类簇，并且将Slopeone 算法应用到每个类簇中，对目标用户对未知项目的评分进行预测。文献[8]提出了一种通过矩阵聚类的协同过滤算法，对用户评分数据利用矩阵聚类算法进行聚类，然后将协同过滤算法应用到聚类后的子矩阵上，该方法提高了算法的推荐精度。文献[9]等提出了基于项目聚类的协同过滤推荐算法，通过分析用户对项目的评分，来对项目进行聚类，再在相似类簇中搜索目标项目的最近邻，该算法有效提高了推荐系统的实时响应速度。上述改进算法虽然在一定程度上缓解了传统协同过滤推荐算法的问题，但依然忽略了用户对项目的兴趣来源于关键词，用户对项目的某一关键词感兴趣，所以才会产生对该项目的评分。
+
+针对上述问题，本文提出了一个以用户与-关键词关系为中心的协同过滤算法，将用户-项目矩阵与项目-关键词矩阵结合在一起，构成用户-关键词矩阵，再引入 $R F - I I F$ 算法计算用户对关键词的偏好，形成用户偏好向量，对用户进行聚类，再利用logistic函数计算用户对项目的兴趣度，进而在类簇中寻找目标用户的相似邻居，使算法更加高效。该算法使用结合用户兴趣度的聚类算法，使系统能够充分了解用户和项目，发现用户之间的隐藏关系，使一些冷门项目可能被推荐，并提高了算法的实时性。
+
+# 1 协同过滤推荐算法简介
+
+协同过滤算法的基本思想概括起来就是为用户推荐兴趣爱好类似的用户感兴趣的项目[10]。算法分为4个步骤：首先，收集用户评分数据，构建用户-项目评分矩阵，利用评分矩阵对用户进行相似度的计算，然后根据相似度计算的结果选取top-N个最近邻，最后根据这些最近邻的评分数据计算预测目标用户的评分，依据预测评分得到推荐结果。协同过滤推荐算法不依赖用户和项目本身的特征与属性，而是分析更能够反应用户偏好的历史数据，找到用户之间的隐藏关系，使得推荐结果更加贴近用户的喜好。
+
+# 1.1评分矩阵
+
+定义1用户-项目矩阵。用户的所有评分记录可以看作是一个用户-项目评分矩阵 $R$ ，其中包括 $m$ 个用户$U = \left\{ u _ { 1 } , u _ { 2 } , u _ { 3 } , \cdot \cdot \cdot , u _ { m } \right\}$ 以及 $n$ 个项目 $\left\{ { { I _ { 1 } } , { I _ { 2 } } , { I _ { 3 } } , \cdots , { I _ { n } } } \right\}$ 如式(1)所示。本文采用 $r _ { i j }$ 表示用户 $u _ { i }$ 对项目 $I _ { j }$ 的评分。分值为1\~5分，分数越高，表示该用户对该物品的喜欢程度越深。
+
+$$
+\begin{array} { r } { I _ { 1 } \quad I _ { 2 } \quad I _ { 3 } \quad \cdots \quad I _ { n } } \\ { u _ { 1 } \quad } \\ { R = { \binom { u _ { 2 } } { u _ { 3 } } } \quad \left[ r _ { 1 1 } \quad r _ { 1 2 } \quad r _ { 1 3 } \quad \cdots \quad r _ { 1 n } \right] } \\ { r _ { 2 1 } \quad r _ { 2 2 } \quad r _ { 2 3 } \quad \cdots \quad r _ { 2 n } } \\ { r _ { 3 1 } \quad r _ { 3 2 } \quad r _ { 3 3 } \quad \cdots \quad r _ { 3 n } } \\ { \vdots \quad } \\ { u _ { m } \quad } \end{array}
+$$
+
+# 1.2相似度计算
+
+协同过滤算法的目的是对目标用户 $u$ 的未评分项目进行预测评分。为了预测评分，首先就需要找到用户的相似邻居集，用户间相似性的计算就成了协同过滤算法的关键之一。常用的相似性度量方法有余弦相似度[II]、Pearson 相关系数[12]和修正的余弦相似度。由于余弦相似度忽略了不同用户之间的不同评分标准，学者们又提出了修正的余弦相似度计算方法，将用户评分减去该用户的平均评分之后，再进行相似度的计算，计算方法如下：
+
+$$
+s i m ( i , j ) = \frac { { \displaystyle \sum _ { u \in U _ { i j } } } ( r _ { u , i } - { \overline { { r _ { u } } } } ) ( r _ { u , j } - { \overline { { r _ { u } } } } ) } { \sqrt { { \displaystyle \sum _ { u \in U _ { i j } } } ( r _ { u , i } - { \overline { { r _ { u } } } } ) ^ { 2 } } \sqrt { { \displaystyle \sum _ { u \in U _ { i j } } } ( r _ { u , j } - { \overline { { r _ { u } } } } ) ^ { 2 } } }
+$$
+
+其中：将评分矩阵 $R$ 看做向量空间， $u$ 、 $\nu$ 表示两个不同的用户， $i$ 、 $j$ 表示不同的项目， $r _ { u , i }$ 表示用户 $u$ 对项目 $i$ 的已有评分， $\vec { i }$ 为所有用户对项目 $i$ 的评分向量， $\vec { j }$ 为所有用户对项目 $j$ 的评分向量， $U _ { i j }$ 表示对 $i$ 和 $j$ 都评分的用户集合， $\overline { { r } } _ { u }$ 表示用户$u$ 对他所评分项目的平均值。
+
+# 1.3评分预测
+
+通过相似度计算得到目标用户的最近邻居集 $N N$ ，通过式(3)预测用户 $u$ 对项目 $I _ { i }$ 的评分 $P _ { u , i }$ 。
+
+$$
+P _ { u , i } = \overline { { r _ { i } } } + \frac { \displaystyle \sum _ { j \in N N } s i m ( i , j ) ( r _ { u , j } - \overline { { r _ { j } } } ) } { \displaystyle \sum _ { j \in N N } \lvert s i m ( i , j ) \rvert }
+$$
+
+其中： $\overline { { r _ { i } } }$ 表示用户对项目 $i$ 的平均评分， $\overline { { r } } _ { j }$ 表示用户对项目 $j$ 的平均评分， $s i m ( i , j )$ 表示项目 $i$ 和 $j$ 之间的相似度。
+
+根据上述方法预测目标用户 $u$ 对未评分项目的评分，并选取评分的前 $N$ 个项目，将其推荐给目标用户 $u$ 0
+
+# 2 结合用户兴趣度聚类的协同过滤推荐算法
+
+本文提出的结合用户兴趣度聚类的协同过滤推荐算法，根据用户对项目的评分记录和项目关键词，得到用户对关键词的评分情况；然后采用 $R F - I I F$ 算法得到用户对不同关键词的偏好程度，在该偏好程度矩阵的基础上，对用户进行聚类。再结合Logistic函数得到用户对项目兴趣度矩阵；最后，利用该矩阵在聚类得到的相似用户类簇中寻找目标用户的最近邻居。算法具体流程如图1所示。
+
+![](images/147b041d5674b36aaa03c10a29e28d698a91094052d655cbe08dea04d6fa7511.jpg)  
+图1传统的协同过滤推荐算法流程图
+
+# 2.1用户-关键词偏好度矩阵计算
+
+不同用户选择某个项目通常是由于对该项目的某个关键词属性感兴趣，而用户对项目每个关键词的兴趣度也不是同一而论的。因此，可以将用户对项目的评分映射到项目相应的关键词属性上，有些没有相同评分项目的用户也能借助对某些关键词属性的评分而进行相似性的度量。用户对关键词属性的评分能够在一定程度上体现用户的偏好，因此，本文通过用户-项目评分次数矩阵和项目属性矩阵计算得到用户-关键词矩阵。
+
+定义2项目一关键词矩阵．在推荐系统中，项目都具有若干属性来描述项目本身，将系统中项目的关键词表示为$T = \{ t _ { 1 } , t _ { 2 } , \cdot \cdot \cdot , t _ { r } \}$ ，项目一关键词矩阵如式(4)所示。
+
+$$
+K = { \left[ \begin{array} { l l l l } { 1 , } & { 0 , } & { \cdots , } & { 0 } \\ { 1 , } & { 1 , } & { \cdots , } & { 0 } \\ { \vdots } & { \vdots } & { \ddots } & { \vdots } \\ { 0 , } & { 1 , } & { \cdots , } & { 1 } \end{array} \right] }
+$$
+
+其中：“1”表示某个项目具有某个关键词属性，‘ $\mathbf { \partial } ^ { : } 0 ^ { \prime \prime }$ 表示某个项目不具有某个关键词属性，矩阵中的任意列为向量 $T _ { q }$ 。在项目属性列表中，每个项目都有项目 $ { I D }$ ，发布时间，项目类型等关键属性值，可以从这些属性值中提取出每个项目对应的属性值关键词。将用户对项目的评分映射到项目的属性值上，生成用户-关键词评分矩阵。
+
+定义3用户-关键词评分矩阵．由用户-项目评分矩阵 $R$ （204号和项目-关键词矩阵 $K$ ，得到用户-关键词评分矩阵 $W$ ，具体公式如式(5)所示。
+
+$$
+{ \begin{array} { r l } & { W = R \bullet K = \left[ { \begin{array} { l } { R _ { 1 } } \\ { R _ { 2 } } \\ { \vdots } \\ { R _ { m } } \end{array} } \right] \bullet \left[ { \begin{array} { l } { \dots } \\ { T _ { 1 } , T _ { 2 } , \cdots , T _ { r } } \end{array} } \right] } \\ & { = \left[ { \begin{array} { l l l l } { R _ { 1 } \bullet T _ { 1 } } & { R _ { 1 } \bullet T _ { 2 } } & { \dots } & { R _ { 1 } \bullet T _ { r } } \\ { R _ { 2 } \bullet T _ { 1 } } & { R _ { 2 } \bullet T _ { 2 } } & { \dots } & { R _ { 2 } \bullet T _ { r } } \\ { \vdots } & { \vdots } & { \ddots } & { \vdots } \\ { R _ { n } \bullet T _ { 1 } } & { R _ { n } \bullet T _ { 2 } } & { \dots } & { R _ { n } \bullet T _ { r } } \end{array} } \right] } \end{array} }
+$$
+
+在矩阵W中，用户对不同的关键词有不同的评分，即用户对不同关键词的偏好不同，即用户 $u _ { i }$ 对关键词 $t _ { j }$ 的偏好程度随用户 $u _ { i }$ 对 $t _ { j }$ 的评分次数增加而增加，随着关键词的流行度增加而下降。由此特性，本文提出一种 $R F - I I F$ 算法根据用户对关键词的评分次数来预测用户对关键词的偏好，并根据偏好来对用户进行聚类。
+
+评分频率（ $R F$ ）表示目标用户对某关键词的评分次数，计算方法如式(6)所示。
+
+$$
+R F _ { i , j } = \frac { w _ { i , j } } { \sum _ { q \in T } w _ { i , q } }
+$$
+
+其中： $w _ { i , j }$ 为矩阵 $W$ 中用户 $u _ { i }$ 对关键词 $t _ { j }$ 的评分次数， $T$ 为矩阵中全部关键词的集合， $w _ { i , q }$ 为用户 $u _ { i }$ 评分次数总合。
+
+反向项目频率（ $I I F$ ）表示评分该关键词的用户总数，计算方法如式(7)所示。
+
+$$
+I I F _ { j } { = } \log { \frac { n } { N _ { j } } }
+$$
+
+其中： $n$ 为矩阵 $W$ 中的用户个数总数， $N _ { j }$ 为矩阵中评分过关键词 $t _ { j }$ 的用户个数。
+
+那么用户 $u _ { i }$ 对关键词 $t _ { j }$ 的偏好程度可以由式(8)所示。
+
+$$
+P r e = R F _ { i , j } \times I I F _ { j } = \frac { w _ { i , j } } { \sum _ { q \in T } w _ { i , q } } \times \lg \frac { n } { N _ { j } }
+$$
+
+用户 $u _ { i }$ 对于所有关键词 $T = \{ t _ { 1 } , t _ { 2 } , \cdots , t _ { r } \}$ 的偏好程度组成用户 $u _ { i }$ 的偏好向量 $P r e _ { i } = ( P r e _ { i , 1 } , P r e _ { i , 2 } , \cdots , P r e _ { i , r } )$ ，所有用户的偏好向量就构成了用户-关键词偏好矩阵如式(9)所示。
+
+$$
+P r e = { \left[ \begin{array} { l l l l } { P r e _ { I , I } } & { P r e _ { I , 2 } } & { \cdots } & { P r e _ { I , r } } \\ { P r e _ { 2 , I } } & { P r e _ { 2 , 2 } } & { \cdots } & { P r e _ { 2 , r } } \\ { \vdots } & { \vdots } & { \ddots } & { \vdots } \\ { P r e _ { m , I } } & { P r e _ { m , 2 } } & { \cdots } & { P r e _ { m , r } } \end{array} \right] }
+$$
+
+由 $R F - I I F$ 算法可以得出，对于用户评分多的关键词，即热门关键词，根据式(8)计算得出的偏好值偏低。而对于那种冷门的关键词，用户如果对其评分，表示这个关键词对于该用户相对于其他用户的重要程度更高，更受该用户关注，这样就能更好的区分用户偏好。
+
+# 2.2用户聚类查找最近邻
+
+在上节中，利用用户一项目评分矩阵和项目一关键词矩阵得到了用户偏好度矩阵，在一定程度上明确了用户偏好。但在实际推荐系统中，得到的用户一关键词偏好矩阵依然是个高维稀疏矩阵。因此，采用K-means算法对用户进行聚类，将用户划分成为规模较小的相似类簇，在类簇中寻找相似邻居，缓解数据稀疏问题。
+
+K-means聚类通过计算对象之间的距离来衡量他们的相似度，将小于距离阈值的对象作为相似类簇。由于余弦相似度更适用于数据稀疏性较强的情况，本文采用余弦距离来计算相似度进行聚类：
+
+$$
+S ( u _ { a } , u _ { b } ) = \frac { P r e _ { u _ { a } } \bullet P r e _ { u _ { b } } } { \parallel P r e _ { u _ { a } } \parallel \bullet \parallel P r e _ { u _ { b } } \parallel }
+$$
+
+其中： $P r e _ { a }$ 和 $P r e _ { b }$ 分别表示用户 $\boldsymbol { u } _ { a }$ 和 $u _ { b }$ 的偏好向量。采用K-means聚类算法将具有相同关键词偏好的用户划分为一个类簇。
+
+关键词评分次数表示了这个用户对该关键词的喜好程度，通常来说，用户越喜欢该关键词，评分次数越多。相对于通过评分来考虑用户偏好，评分次数更能够准确判断用户兴趣。由于用户对不同关键词的评分次数差别较大，考虑到评分次数特别多的关键词对其他关键词的影响，引入logistic 函数，对关键词评分次数进行非线性的映射，得到用户对关键词的兴趣度。
+
+Logistic函数于1844年由皮埃尔·弗朗索瓦·韦吕勒提出，用于描述生物种群发展、人类认真学习过程等，是一种常见的S型函数，定义公式如下，
+
+$$
+S ( x ) = \frac { 1 } { 1 + e ^ { - x } }
+$$
+
+函数光滑连续且严格单调，因变量在开始阶段随着变量增长而缓慢增长，发展期时极速增长，增长到一定程度之后，又增长减缓，其值无限趋近于1。
+
+用户对项目的兴趣度随着评分的次数增长呈非线性变化，在项目非独占的情况下，评分次数越高，就表示用户对该项目越感兴趣。因此，本文采用logistic 函数模拟用户 $u _ { i }$ 与评分之间的关系，进而可以得到用户对项目的感兴趣程度，计算方法如式(12)所示。
+
+$$
+H _ { i , j } = \frac { 1 } { 1 + e ^ { - ( R _ { i j } - \overline { { R } } _ { i } ) } }
+$$
+
+其中： $H _ { i , j }$ 为用户 $u _ { i }$ 对项目 $I _ { j }$ 的兴趣度，取值为（0,1），随着评分次数增加而单调非线性递增， $R _ { i j }$ 为用户 $u _ { i }$ 对项目 $I _ { j }$ 的评分次数， $\overline { { R } } _ { i }$ 为用户对所有项目的平均评分次数。
+
+由式(12)可知，用户 $u _ { i }$ 对 $I = \{ I _ { 1 } , I _ { 2 } , \cdots , I _ { n } \}$ 中所有项目的兴趣度值构成了用户 $u _ { i }$ 兴趣度向量 $H _ { i } = ( H _ { i , 1 } , H _ { i , 2 } , \cdots , H _ { i , m } )$ 。在得到用户-项目兴趣度之后，需要在类簇中寻找与目标用户相似的 Top-N邻居，计算方法如式(12)所示。
+
+$$
+S ( u _ { a } , u _ { b } ) = \frac { { \displaystyle \sum _ { s _ { i } \in S } } [ ( H _ { u _ { a } , i } - \overline { { H } } _ { u _ { a } } ) ( H _ { u _ { b } , i } - \overline { { H } } _ { u _ { b } } ) ] } { { \displaystyle \sqrt { \sum _ { s _ { i } \in S } ( H _ { u _ { a } , i } - \overline { { H } } _ { u _ { a } } ) ^ { 2 } } \sqrt { \sum _ { s _ { i } \in S } ( H _ { u _ { b } , i } - \overline { { H } } _ { u _ { b } } ) ^ { 2 } } } }
+$$
+
+其中： $s$ 为用户 $\boldsymbol { u } _ { a }$ 和 $u _ { b }$ 之间共同的感兴趣项目集合， $H _ { u _ { a } , i }$ 和 $H _ { u _ { b } , i }$ 分别表示用户 $\boldsymbol { u } _ { a }$ 和 $u _ { b }$ 对项目 $I _ { i }$ 的兴趣度， $\overline { { H } } _ { u _ { a } }$ 和$\overline { { H } } _ { u _ { b } }$ 分别表示用户 $\boldsymbol { u } _ { a }$ 和 $u _ { b }$ 对集合 $I$ 中项目的平均兴趣度。
+
+# 2.3 预测与推荐
+
+经过上节计算得到与目标用户相似的Top-N个用户，组成最近邻居集 $N _ { u _ { a } }$ ，根据式(13)预测目标用户对项目的偏好度，
+
+$$
+P ( u _ { a } , t _ { q } ) = \overline { { H } } _ { a } + \frac { \displaystyle \sum _ { u _ { b } \in N _ { u _ { a } } } [ S _ { u _ { a } u _ { b } } \times ( H _ { b , q } - \overline { { H } } _ { b } ) ] } { \displaystyle \sum _ { u _ { b } \in N _ { u _ { a } } } S _ { u _ { a } u _ { b } } }
+$$
+
+其中： ${ \overline { { H } } } _ { a }$ 为用户 $\boldsymbol { u } _ { a }$ 评分过的所有关键词的平均兴趣度，$H _ { b , q }$ 为用户 $u _ { b }$ 对项目 $I _ { q }$ 的兴趣度。
+
+得到目标用户对为评分过项目的评分预测值之后，将预测值最高的前 $N$ 推荐给目标用户。
+
+# 3 仿真结果分析
+
+# 3.1数据处理
+
+仿真采用的是GroupLens项目研究组提供的MovieLens数据集[17对算法进行评估。数据集中包含943个用户信息，1682个项目信息，以及100000条用户对项目的评分信息，每个用户至少有20条评分记录，评分范围为1(非常差) $\sim 5$ （非常好)。实验从数据集中随机选取5组数据且数据之间不相交，采用交叉验证法对算法进行评估验证。实验之前需要对数据集进行划分。本文实验将数据集的 $80 \%$ 作为训练集，剩余的$20 \%$ 作为测试集。用户-项目评分数据如图2所示，每列依次表示：用户ID|项目ID|评分丨时间戳，项目属性如图3所示，0表示不具有该关键词属性，1则表示项目具有关键词属性。关键词为 Action丨Adventure丨Animation丨Children's|Comedy|Crime|Documentary|Drama|Fantasy|Film-Noir|Horror丨Musical|Mystery|Romance丨Sci-Fi|Thriller|War|Western |。
+
+119 392 4 886176814   
+167 486 4 892738452   
+299 144 4 877881320   
+291 118 2 874833870   
+308 1 4 887736532   
+95 546 2 879196566   
+38 95 5 092430094
+
+![](images/bf367c6c7aaa0a9830e10f245eb3629f88f8f6056a2543f1c9d935f58264ccc0.jpg)  
+图2用户-项目评分数据样式  
+图3项目属性数据样式
+
+# 3.2度量方法
+
+本实验采用平均绝对误差(Mean Absolute Error， $M A E$ )和准确率两种评价指标来度量算法的推荐质量。 $M A E$ 是一种常用的用于衡量统计的准确性和比较的度量方法，能够准确地反应推荐质量的好坏。它用来衡量预测的用户评分与实际用户评分之间的误差， $M A E$ 值越小，推荐准确度越高，假设系统预测的用户兴趣集合为 $( p _ { 1 } , p _ { 2 } , \cdots p _ { n } )$ ，其实际兴趣集合为$( q _ { 1 } , q _ { 2 } , \cdots q _ { n } )$ 计算方法如下：
+
+$$
+\ M A E = { \frac { \displaystyle \sum _ { i = 1 } ^ { n } \mid p _ { i } - q _ { i } \mid } { n } }
+$$
+
+准确率指的是推荐系统为目标用户推荐其感兴趣项目的概率，具体计算方法如下：
+
+$$
+P r e c i s i o n { = } \frac { C } { N }
+$$
+
+其中， $N$ 为推荐系统产生的推荐总数， $C$ 为系统产生的正确的推荐数目。
+
+# 3.3 仿真结果及分析
+
+实验主要分为两个部分：
+
+实验1分析算法中主要参数对推荐效果的影响，主要从关键词数目方面分析。
+
+实验2为了验证本文算法的有效性进行对比实验，通过相同参数环境下，比较本文算法与现存算法的 $M A E$ 值，准确率等。
+
+实验1
+
+本文算法主要根据目标用户对不同关键词的兴趣度用户推荐，为了考察关键词数目对于推荐结果是否有影响，设计实验考察不同关键词数目对 $M A E$ 的影响，实验结果如图4所示。
+
+![](images/54b4fd23f00d88da46cd6249501b78ea881909f4db6ded810473d350e714d887.jpg)  
+图4关键词数对 $M A E$ 值的影响
+
+由图4可以看出，当关键词数目取6时， $M A E$ 值最小，算法效果最好。当关键词数目较少时，很难计算用户之间的相似度，进而影响算法推荐效果；当数目过多时，又会增加矩阵的稀疏度，导致相似度计算结果受影响，使得误差升高。
+
+实验2
+
+上节中给出了关键词数目对算法的影响，因此，本是要的算法取关键词数为6，进行实验，将本文算法与现有算法从MAE值和准确率两个方面进行比较，算法对MAE值的影响如图5所示，对准确率的影响如图6所示，运行效率如图7所示。
+
+从图5可以看出本文算法随着邻居数目的增加，MAE值不断减小，且逐渐趋于平稳。邻居数目为40时，本文算法的MAE值约为0.643，而基于logistic聚类的算法MAE值约为0.676，本文算法始终优于传统算法。
+
+由图6可以看出，本文算法随着邻居数目的增加，准确率不断增高，且逐渐趋于平稳。邻居数目为20时，本文算法准确率最高，约为0.2487，而文献[15]算法准确率约为0.2442，且本文算法始终优于文献[15]算法。
+
+![](images/eb5e84cd10f7f19a61220479adf765f6585edc508749054e232a2d9342306a27.jpg)  
+图5不同算法的 $M A E$ 值
+
+![](images/acaf8c21d9b2c5f9ab72f5dc2dd55cae9813e3c9e3f008d363693cf0f9525017.jpg)  
+图6不同算法的准确率比较
+
+![](images/52b1fb85699848a9c8c4bbf656c9f6ab97f07de1f35ff967aa5af1cb463f354e.jpg)  
+图7采用不同方法产生推荐所需时间
+
+图7是算法在聚类与不聚类两种情况下产生推荐的时间，从图中可以看出，随着邻居数目的增加，两种情况的时间都在增加，然而采用聚类的时候算法运行时间远远小于不采用聚类的情况，推荐效率明显提高。
+
+# 4 结束语
+
+本文引入logistic函数模拟用户对项目的评分次数的非线性关系，用于计算用户对项目关键词的兴趣度，形成用户-关键词兴趣度矩阵，从而构建用户-项目兴趣度矩阵，在新的矩阵基础上进行用户聚类，然后在目标用户所在的类簇中寻找最近邻居，缩小搜索范围，提升了算法的效率。经实验表明，该算法有效的利用了用户对项目关键词的兴趣度，能够有效的提取出用户的最近邻居，提高了算法的准确率。然而在本文算法中未详细考虑随着时间的变化，用户的兴趣也会发生变化，下一步将考虑时间戳的影响，结合遗忘机制来对用户进行推荐，进一步提高推荐进度。
+
+# 参考文献：
+
+[1]项亮．推荐系统实践[M].北京：人民邮电出版社,2012.(Xiang Liang
+
+Recommended system practice [M].Beijing: People'sPostsand
+
+Telecommuni-cations Press,2012.)   
+[2]Herlocker L,Konstan A,BorchersS A,et al.An algorithmic framework for performing collabora-tive filtering [C]// Proc of, International ACM SIGIR Conference on Research and Development in Information Retrieval. 1999: 230-237.   
+[3]Dehghani Z,Reza S,Salwah S,et al.A systematic review of scholar contextaware recommender systems [J].Expert Syst.Appl.2015 (42):1743.   
+[4]Adomavicius G,Tuzhilin A. Toward the next generation of recommender systems: a survey of the state-of-the-art and possible extensions [J]. IEEE Trans on Knowledge & Data Engineering,2005,17(6):734-749   
+[5]Mnih A,Salakhutdinov R.Probabilistic matrix factorization [C]//Advances in Neural Information Processing Systems.2007:1257.   
+[6]Paterek A． Improving regularized singular value decomposition for collaborative filtering [C]//Proc of KDD Cup Workshop at SIGKDD&the 13th ACM Int Conf on Knowledge Discovery and Data Mining.2007:39.   
+[7]You Haipeng,Li Hui,Wang Yunmin,et al.An improved collaborative filtering recommendation algorithm combining item clustering and slope one scheme [C].Lecture Notes in Engineering & Computer Science,vol 2215.2015: 313-316.   
+[8]高凤荣，邢春晓，杜小勇，等．基于矩阵聚类的协作过滤算法[J]．华 中科技大学学报：自然科学版,2005,33(S1):257-260.(Gao Fengrong, Xing Chunxiao，Du Xiaoyong，Wang Shan.A collaborative filtering algorithm based on matrix clustering [J].Journal of Huazhong University of Science and Technology(Natural Science Edition),2005,33(S1):257-260.)   
+[9]兰艳，曹芳芳．面向电影推荐的时间加权协同过滤算法的研究[J].计 算机科学,2017,44(4):295-301.(Lan Yan,Cao Fangfang.A temporal weighted collaborative filtering algorithm for movie recommendation [J].
+
+Computer Science,2017,44(4): 295-301.) [10]范波，程久军．用户间多相似度协同过滤推荐算法[J].计算机科学, 2012,39 (1): 23-26.(Fan Bo, Cheng Jiujun. Among multiple users similarity collaborative filtering algorithm[J].Computer Science,2012,01:23-26.) [11] Zhao Z D, Shang M S. User-based collaborative filtering recommendation algorithms on Hadoop [Cl//Proc of the 3rd International Conference on Knowledge Discovery and Data Mining.2010:478-481. [12] Herlocker JL. Evaluating collaborative filtering recommender systems [J]. Acm Trans on Information Systems,2004,22(1):5-53. [13]黄震华，张佳雯，田春歧，等．基于排序学习的推荐算法研究综述[J]. 软件学报,2016,27(3): 691-713.(Huang Zhenhua, Zhang Jiawen,Tian Chunqi,et al. A survey of recommendation algorithms based on ranking learning.[J]. Software Journal,2016,27 (3): 691-713) [14]张松，张琳，王汝传．基于用户限制聚类的协同过滤推荐算法[J]．南 京邮电大学学报：自然科学版,2017.37(3):93-99.(Zhang Song,Zhang Lin,Wang Ruchuan.Collaborative filtering recommendation algorithm based on user restricted clustering [J].Nanjing University of Posts and Telecommunications: Natural Science Edition,2017,37(3): 93-99.) [15]朱东郡，李敬兆，谭大禹，等．基于标签聚类和兴趣划分的协同过滤推 荐算法[J]．计算机工程，2017,43(11):146-151.(Zhu Dongjun,Li Jingzhao,TanDayu,et al. Collaborative filtering recommendation algorithm based on tag clustering and interest partition [J]. Computer Engineering, 2017.43 (14): 146.) [16] Forsati R,Barjasteh I,Masrour F,et al.PushTrust:an efficient recommendation algorithm by leveraging trust and distrust relations [C]/ Proc of Conference on Recommender Systems.2015:51-58 [17] MovieLens_10oK [DB/OL]. htps://grouplens.org/datasets/movielens/.

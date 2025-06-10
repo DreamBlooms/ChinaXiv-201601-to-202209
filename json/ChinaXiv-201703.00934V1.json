@@ -1,0 +1,217 @@
+[
+    {
+        "type": "text",
+        "text": "The Effects of Cation Concentration in the Salt Solution on the Cerium Doped Gadolinium Gallium Aluminum Oxide Nanopowders Prepared by a Co-precipitation Method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shenghui Yang, Yan Sun, Xianqiang Chen, Ye Zhang, Zhaohua Luo, Jun Jiang,and Haochuan Jiang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract-Cerium doped gadolinium gallium aluminum oxide (GAGG:Ce) nanopowders were prepared by a co-precipitation method with different cation concentrations of the mother salt solution,followed by calcination at different temperatures.The influence of cation concentrations (0.1,0.2,0.3,O.4,0.5,and 0.6 mol/L） in the mother salt solution on GAGG:Ce nanopowders was investigated by thermal gravity-differential thermal analysis (TG-DTA),X-ray diffraction (XRD),Fourier transform infrared spectroscopy (IR), scanning electron microscopy (SEM), and photoluminescence spectroscopy (PL).The GAGG phase was formed after calcining at 950 degree C for $^ { 2 \\mathrm { ~ h ~ } }$ for all samples.The primary particle sizes of powder calcined at the same temperature decrease with the increase of cation concentration, which is suggested by the analysisof SEM and specific surface area measurement.However,the nonuniformity of particle size was observed for samples prepared using the salt solutions with cation concentrations $> \\mathbf { 0 . 3 } \\ \\mathbf { m o l } / \\mathbf { L }$ ,especially for the $\\mathbf { 0 . 6 \\ m o l / L }$ sample.The photoluminescence spectrum intensity indicates that the $\\mathbf { 0 . 2 \\ m o l / L }$ and $\\mathbf { 0 . 3 \\ m o l / L }$ samples have higher degree of crystal perfection than others.Considering all the factors above, samples synthesized by using salt solution with $\\mathbf { 0 . 3 \\ m o l / L }$ cation concentration were chosen for ceramic scintillators preparation in our future work. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Index Terms-Ce doped, co-precipitation,GAGG Scintillator, nanopowder. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I．INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TESN in the field of high energy physics, medical imaging, security, and inspection technology[1],[2]. For high performance X-ray computed tomography (CT） and positron emission tomography (PET),some special scintillation properties are critical, including high X-ray stopping power, high luminescence conversion efficiency,high chemical uniformity, short luminescence decay time,lowafterglow,and lowradiation damage [3] Compared with the single crystalline scintillators,transparent ceramic scintillators have some significant advantages,such as better machinability, lower production cost, better performance uniformity,and flexibility of doping or co-doping [4]. The ceramic scintillator with high performance is attracting more and more attention in recent years,especially in medical imaging applications. Some commercial ceramic scintillators have been developed and widelyused, such as $\\mathrm { ( Y , G d ) _ { 2 } O _ { 3 } }$ ：Eu [5], GOS:Pr [6], and $\\mathrm { ( L u , T b ) _ { 3 } A l _ { 5 } O _ { 1 2 } }$ :Ce garnet. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is well known that the yttrium aluminum garnet (YAG, $\\mathrm { Y _ { 3 } A l _ { 5 } O _ { 1 2 } } )$ ）isa good inorganic scintillator which has excellent chemical, physical, and optical properties [6]. In order to overcome the deficient in stopping power of YAG, a family of YAG type scintillators was currently developed by the heavy elements substitution [8]. These scintillators, such as LuAG $\\mathrm { ( L u _ { 3 } A l _ { 5 } O _ { 1 2 } ) }$ [9],GAG $( \\mathrm { G d _ { 3 } A l _ { 5 } O _ { 1 2 } } )$ ，[10] and their successors LuAGG [11] and GAGG [12] (short for $\\mathrm { L u _ { 3 } ( A l , G a ) _ { 5 } O _ { 1 2 } }$ and $\\mathrm { G d _ { 3 } ( A l , G a ) _ { 5 } O _ { 1 2 } }$ ，respectively)，are attracting more and more attention now.For this kind of scintillators, the $\\mathrm { C e ^ { 3 + } }$ ion has been studied as fast luminescence center to achieve the primary lower decay time as short as $2 0 \\mathrm { n s }$ Ceramic scintillators with garnet structure such as Ce doped LuAG[13], $( \\mathrm { L u } , \\mathrm { G d } ) _ { 3 } \\mathrm { A l } _ { 5 } \\mathrm { O } _ { 1 2 }$ have been prepared successfully by wet chemical synthesis methods, e.g.， homogeneous precipitation [14],co-precipitation [15]. For wet chemical synthesis method, the morphologies and degree of crystal perfection of powders are affected by some factors,such as the cation concentration in salt solution,rate of titration,reaction temperature,PH value,and so on.[16] Well-dispersed starting powders with nanosize,spherical shape,high purity,and high degree of crystal perfection are necessary to obtain high quality ceramic scintillators. It is crucial to investigate the influences of these factors on the morphologies of powders and find the optimum synthesis conditions.In this work,a co-precipitation method was used to prepare Ce doped GAGG nanopowders using salt solutions with different cation concentration. The effects of cation concentrations in the salt solution on the degree of crystal perfection,micromorphology, and luminescence propertieswere studied. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/54fe7224aab198b87b2a1c9283fc9d1be03b38550c5d6b03e5d14876414df91b.jpg",
+        "img_caption": [
+            "Fig.1．FT-IR spectra for the precursor and the calcined powders of the $0 . 3 ~ \\mathrm { m o l / L }$ samples. ",
+            "Fig.2.XRD patterns for powders calcined at: (a) $8 5 0 ~ ^ { \\circ } \\mathrm { C }$ ，(b) $9 0 0 ^ { \\circ } \\mathrm { C }$ (c)950 $^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { ~ h ~ } }$ The symbols G,M,P represent GAGG,GAM,and GAP, respectively.The formation process of GAGG phase can be clearly concluded. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II．EXPERIMENTAL PROCEDURE ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A. Preparation of GAGG Powders ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The salt solutions of $\\mathrm { G a ^ { 3 + } }$ and $\\mathrm { G d ^ { 3 + } }$ were made by dissolving the correspond oxides with a proper amount of hot nitric acid. Then aluminum and cerium sources of $\\mathrm { N H _ { 4 } A l ( S O _ { 4 } ) _ { 2 } }$ ： $\\mathrm { 1 2 H _ { 2 } O }$ withpurityof $9 9 \\%$ and $\\mathrm { { C e } ( \\mathrm { { C O } _ { 3 } ) _ { 2 } \\cdot 6 \\mathrm { { H } _ { 2 } O } } }$ with purity of $9 9 . 9 9 \\%$ were weighed as chemical formula $\\mathrm { G d _ { 2 . 9 9 5 } C e _ { 0 . 0 0 5 } A l _ { 3 } G a _ { 2 } O _ { 1 2 } }$ then dissolved in the salt solution.The required solutions with different total cation concentration (sum of Gd, Ce,Al,and Ga) were prepared by diluting the mother solution with the deionized water. The solution was dripped into the deionized water at a titration speed of $1 0 \\ \\mathrm { m L / m i n }$ and stirred continuously, meanwhile,the precipitation agent solution ( $\\mathrm { \\Delta \\ m o l / L }$ ammonia : $1 . 5 ~ \\mathrm { m o l / L }$ ammonium hydrogen carbonate $= 1 : 1 \\cdot$ ）wasadded to the suspension with a proper speed.A critical factor of this processing is to keep the PH value of suspension between $\\mathrm { ~ 7 ~ } \\sim \\mathrm { ~ 8 ~ }$ .As the titration is finished, the white precipitations were washed four times with deionized water and collected by filtrating.The precursors were obtained by drying at $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ for about $^ \\textrm { \\scriptsize 1 h }$ in microwave oven. The resulted powders were crushed and directly calcined at 850,9o0,and $9 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $2 \\mathrm { ~ h ~ }$ in air,respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B.Characterizations ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The TG/DTA analysis of the precursors was made under flowing air with a heating rate of $1 0 ^ { \\circ } \\mathrm { C } / \\operatorname* { m i n }$ (Pyris Diamond TG/DTA,Perkin-Elmer). The phases of powders were detected by X-ray diffraction (D8 Advance,Brucker AXS) using nickel-filtered Cu $K _ { \\alpha }$ radiation in the $2 \\theta$ range of $1 0 \\mathrm { ~ - ~ } 9 0 ^ { \\circ }$ FT-IR spectroscopy was performed by the standard KBr method (Nicolet 67Oo,Thermo). The specific surface areas were measured by accelerated surface area & porosimetry system(ASAP 202OM,Micromeritics) based on Brunauer-Emmett-Teller(BET) theory.The micromorphology was observed via FE-SEM with an acceleration voltage of $8 ~ \\mathrm { k V }$ (S-4800, Hitachi). The PL excitation spectra and emission spectra of ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a）W 0.1mol/L0.2mol/L  \n(ne)niuaau GGCGG G G GGGG GG 0.3mol/L0.4mol/L0.5mol/Lx 0.6mol/LJCPDS46-044810 20 30 40 50 60 70 80 9020(）(b) GGG GG GGGGGGGGG 0.1mol/LN 人 0.2mol/L  \n(ne)nsraia ww 0.3mol/LM M.P.P. 0.4mol/L0.5mol/LM 0.6mol/LJCPDS46-044810 20 30 40 50 60 70 80 9020（）(c) GGG GG CGG GGGGG GG0.1mol/L10.2mol/L  \nne)nseiau 0.3mol/L0.4mol/L0.5mol/L0.6mol/LJCPDS 46-044810 20 30 40 50 60 70 80 9020（）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "the GAGG powders were studied through a fluorescence spectrophotometer (ModelF460o,Hitachi) with a Xe lamp at room temperature.The excitation light with $\\lambda = 4 5 0 ~ \\mathrm { { n m } }$ were used in the emission measurements. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "III.RESULTS AND DICUSSION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A．FR-IR Absorption Spectra ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The FT-IR absorption spectroscopy has been made to investigate the functional groups and components in the precursor and calcined powders,using the typical samples of $x = 0 . 3 \\mathrm { m o l / L }$ ， as shown in Fig 1. The strong and wide absorption band in the range of $3 0 0 0 { \\cdot } 3 5 0 0 ~ \\mathrm { c m } ^ { - 1 }$ can be assigned to the O-H stretching vibrations. The weak absorption peak near $1 6 4 5 ~ \\mathrm { \\ c m ^ { - 1 } }$ is originated from the H-O-H bending mode [16]. These have confirmed the existence of water hydrated in the structure or surface absorbed water on the powders.For calcined powders, this IR absorption mostly comes from the surface absorbed water. The absorption band in the region of $3 5 0 0 { \\cdot } 3 7 5 0 \\ \\mathrm { c m } ^ { - 1 }$ provides the evidence of $\\mathrm { O H } ^ { - }$ ions [17]. Generally, the $\\mathrm { N H ^ { 4 + } }$ ions cause the absorption band around $3 0 0 0 { \\cdot } 3 5 0 0 \\ \\mathrm { c m } ^ { - 1 }$ [18], which overlaps with the water absorption. Although it is difficult to discriminate, the $\\mathrm { N H ^ { 4 + } }$ should exist in precursor because the absorption at this region becomes weaker after calcination (the ammonium salt decomposes at high temperature). The presence of double absorption peaks (at $\\sim ~ 1 4 0 0 ~ \\mathrm { c m ^ { - 1 } }$ and $\\sim ~ 1 5 0 0 ~ \\mathrm { c m ^ { - 1 } }$ , respectively） and single absorption peak at $\\sim ~ 8 5 0 ~ \\mathrm { c m ^ { - 1 } }$ indicates the presence of carbonate ions in precursor [19]. The weak absorption bands centered around $\\sim 1 1 2 9 ~ \\mathrm { c m } ^ { - 1 }$ implies that a small amount of sulphates existed in precursor. The absorption of carbonate ions and sulphates almost disappear in the calcined powders,as results of the decomposition during the calcination process.The absorption at the region $\\sim 6 0 0 \\mathrm { c m ^ { - 1 } }$ could be ascribed to the M-O vibrations (M: Metallic elements).According to the FT-IR results and synthesis, the resulted precursors in this work may be written as a formula of $( \\mathrm { N H _ { 4 } } ) _ { x } ( \\mathrm { G d , C e } ) _ { 3 } ( \\mathrm { G a , A l } ) _ { 5 } ( \\mathrm { O H } ) _ { y } ( \\mathrm { C O _ { 3 } } ) _ { z } ( \\mathrm { S O _ { 4 } } ) _ { \\delta }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/81ce450beb10aff7ce8fec80d32a0bcf3904f7612b2a8da5d1b391096bee625e.jpg",
+        "img_caption": [
+            "Fig3icoooue with $0 . 1 \\mathrm { m o l / L }$ cation concentration; (d)-(f) for the powders of $0 . 3 ~ \\mathrm { m o l / L }$ samples; (g)-(i) for the powders of $0 . 6 \\mathrm { m o l / L }$ samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "B.PhaseFormation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The XRD patterns of the precursors and powders calcined below $8 0 0 ~ ^ { \\circ } \\mathrm { C }$ show that they are almost amorphous. The crystallization of the powders started above $8 0 0 ~ ^ { \\circ } \\mathrm { C }$ ，which is in accordance with the TG/DTA results.As shown in Fig. 2.(a), the $\\mathrm { G d _ { 4 } ( A l , G a ) _ { 2 } O _ { 9 } }$ monoclinic phase (shorted as GAGM), $\\mathrm { G d } ( \\mathrm { G a } , \\mathrm { A l } ) \\mathrm { O } _ { 3 }$ perovskite phase (GAGP),and $\\mathrm { G d _ { 3 } ( A l , G a ) _ { 5 } O _ { 1 2 } }$ garnet phase(GAGG） could be observed in the powders calcined at $8 5 0 ~ ^ { \\circ } \\mathrm { C }$ .The peaks of GAGM and GAGP become weaker and the peaks of GAGG become stronger as the calcining temperature increases.Finally,the pure GAGG phase was obtained after calcining at $9 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { ~ h ~ } }$ for all samples. The strong peaks (around 32.7 °） show a broader FWHM (full width at high maximum, $\\sim ~ 0 . 3 ^ { \\circ } \\mathrm { { \\bar { \\Gamma } } }$ ）in ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2.(c), compared with the sharp peaks of single crystalline GAGG [2O] or ceramic.The nanosized grains could be major reason of XRD peaks broadening,which is consistent with the SEM images of powders as discussed later.Furthermore, the broadening of peaks could also be due to the incomplete crystallization at low calcination temperature.It is worth noting that,compared with other samples，the $0 . 3 ~ \\mathrm { \\ m o l / L }$ sample has a smaller amount of the secondary phase retained in the calcination with major phase of GAGG after calcining at 900 $^ { \\circ } \\mathrm { C }$ for $2 \\mathrm { ~ h ~ }$ .This result implies that the $0 . 3 ~ \\mathrm { m o l / L }$ sample tends to form GAGG phase at low temperature,compared with the other samples. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C.Micromorphologies ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3. presents the FE-SEM morphologies of some typical samples calcined at different temperatures. The aggregates of calcined powders are composed of primary nanosized particles. With the increase of calcined temperature,the particles undergo an unobvious growth and keep a subsphaeroidal shape.The specific surface area analysis was performed and specific areas are 12.4,14.6, and $\\mathrm { 1 3 . 3 \\ m ^ { 2 } }$ for the 0.1,0.3 and $0 . 6 \\ \\mathrm { m o l / L }$ samples (calcined at $9 5 0 ~ ^ { \\circ } \\mathrm { C } \\cdot$ ),respectively.The estimated average size of particles decreases from $7 4 ~ \\mathrm { n m }$ for $0 . 1 \\ \\mathrm { m o l / L }$ sample to $6 3 ~ \\mathrm { n m }$ for $0 . 3 \\ \\mathrm { m o l / L }$ sample.This is consistent with the result of SEM observation.The primary particle sizes of powders calcined under the same condition decrease with the in crease of cation concentration,as shown in Fig.3.This can be explained that more nucleation happened when the salt solution with greater amount of cation was dripped into precipitated agent. The sizes of original particles are relatively uniform for the low cation concentration samples. Conversely, for the samples prepared using salt solution with high cation concentration $\\mathrm { ( > 0 . 3 ~ m o l / L ) }$ ),the particle sizes show an inhomogeneous distribution, especially the $0 . 6 \\mathrm { m o l / L }$ sample as shown in Fig.3(g)-(i).The size of smaller particles is about $1 2 \\ \\mathrm { n m }$ and the larger particles are about $1 0 0 { - } 2 0 0 ~ \\mathrm { { n m } }$ sized.This inhomogeneity may be caused by the abnormal grain growth during the calcining process.This is also the reason of low BET surface area of high concentration samples.The inhomogeneity of particle sizes may also bring harmful effect in the further ceramic sintering process, such as abnormal grain growth and intracrystalline pores.It is known that betteruniformity of particles sizes helps to reduce abnormal grain growth,and smaller particles with high surface energy would promote the sintering process.These features are beneficial for the obtainment of high densification ceramics.As above,the morphologies of powders such as the size,uniformity of size, shape,and dispersity can be significantly affected by the cation concentration of salt solution used in the synthesis process.In this work,the salt solution with cation concentration of $0 . 3 ~ \\mathrm { m o l / L }$ is near optimum for the preparation of GAGG powders. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1ae82e716c344aaa21d2e54b42bd08a8f2dab5b9da681b861701a6ff5367aa5.jpg",
+        "img_caption": [
+            "Fig.4.Photoluminescence properties of some GAGG:Ce typical powders calcined at $9 5 0 ^ { \\circ } \\mathrm { C }$ (a)Excitation spectra taken for emission $5 6 0 \\mathrm { n m }$ ,(b)emission spectra excited by light with $\\lambda = 4 5 0 ~ \\mathrm { { n m } }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D.Photoluminescence Properties ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The excitation spectra for some typical powders calcined at $9 5 0 ~ ^ { \\circ } \\mathrm { C }$ are shown in Fig. 4.(a), taken for emission at $5 6 0 \\ \\mathrm { n m }$ All sampleshaveasimilarexcitationbehaviorwiththedifferent excitation intensity.Two broad excitation bands were observed: a weak band peaking at $\\sim 3 4 2 ~ \\mathrm { n m }$ ，a strong one peaking at around $4 5 0 ~ \\mathrm { n m }$ . These two excitation bands correspond to the electron transitions of $\\mathrm { C e ^ { 3 + } }$ from the 4f ground state $^ 2 \\mathrm { F } _ { 5 / 2 }$ to the different components ( $\\mathrm { 5 d } _ { 1 }$ and $\\mathrm { 5 d _ { 2 } }$ )of the 5d excited states [21],[22]. Fig.4.(b) shows the emission spectra of some GAGG typical powders calcined at $9 5 0 ^ { \\circ } \\mathrm { C }$ .Similarly, samples prepared by different cation concentrations perform different emission intensity.As weknow, the intensity of excitation and emissionis affected by degree of crystal perfection [23]. The excitation and emission intensity for O.2 and $0 . 3 ~ \\mathrm { m o l / L }$ samples is higher than other samples,indicating these samples have better chemical homogeneity and fewer lattice defects.This means the samples with these concentrations are prone to form GAGG phase at low temperature,which is consistent with the prediction of XRD results. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IV.CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In summary,cerium doped gadolinium gallium aluminum oxide nanopowders were prepared by a co-precipitation method followed by the calcination at different temperatures.The effects of cation concentration in the salt solution on morphology, degree of crystal perfection and luminescence properties of calcined powders were studied.The GAGG phase was obtained after calcining at $9 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $2 \\mathrm { ~ h ~ }$ for all samples.Although the primary particle size decreases with the increasing the cation concentration,particle size was inhomogeneous for the high cation concentration samples, especially for $0 . 6 \\mathrm { m o l / L }$ sample. The $0 . 3 ~ \\mathrm { m o l / L }$ sample shows a smaller particle size,better uniformity,better chemical homogeneity and lattice perfects than other samples,according to the analysis of XRD,SEM,and luminescence properties. This study provided a potential basis to choose an optimum cation concentration of salt solution for better GAGG powders,which is favorable to the further preparation of GAGG ceramic scintillators. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]N.J.Cherepy,J.D.Kuntz,T.M.Tillotson,D.T.Speaks, S.A.Payne, B.H.Chai,Y.Porter-Chapman,and S.E.Derenzo,“Cerium-doped single crystal and transparent ceramic lutetium aluminum garnet scintillators,”Nucl.Instrum.Meth.Phys.Res.A,vol.579,no.1,pp.38-41, 2007.   \n[2]M.Nikl,“Scintillation detectors for X-rays,”Measurement Science & Technology,vol.17,no.4,pp.R37-R54,2006.   \n[3]C.Greskovich and S.Duclos,“Ceramic scintillators,”Annual Rev. Mater. Sci.,vol.27,pp.69-88,1997.   \n[4] C.L.Melcher,“Perspectives on the future development of new scintillators,”Nucl.Instrum.Methods Phys.Res.A,vol.537,no.1-2,pp. 6-14,2005.   \n[5] C.D.Greskovich,D.Cusano,D.Hoffman,and R.J.Riedener,“Ceramic scintillators for advanced,medical X-Ray-Detectors,”American Ceramic Society Bulletin,vol.71,no.7,pp.1120-1130,1992.   \n[6]M.Yoshida,M.Nakagawa,H.Fujii,F.Kawaguchi,H.Yamada,Y.Ito, H.Takechi, T.Hayahawa,and Y.Tsukuda,“Application ofGd2O2S ceramic scintillator for X-Ray Solid-State detector in X-Ray CT,\"Jpn J.AppliedPhys.Part2-Let.,vol.27,no.8,pp.L1572-L1575,1988.   \n[7]G.Blasse and A.Bril,“A new phosphor for lying-spot cathode-ray tubes for color television: yellow-emitting $\\mathrm { Y _ { 3 } A \\bar { l } _ { 5 } O _ { 1 2 } : C e ^ { 3 + } }$ ,”Appl. Phys.Lett.,vol.11,p.53,1967.   \n[8] M.Nikl,V.V.Laguta,and A.Vedda,“Complex oxide scintillators: Material defects and scintillation performance,”Phys. Stat. Sol.(b), vol. 245,no.9,pp.1701-1722,2008.   \n[9]J.A.Maresa,A.Beitlerovaa,and M.Nikla,“Scintillation response of Ce-doped or intrinsic scintillating crystals in the range up 1MeV,”Radiation Measurements,vol.38,no.4-6,pp.353-357,2004.   \n10]A.Yamaji,T.Yanagida,Y.Yokota,Y.Fujimoto,M.Sugiyama,and A.Yoshikawa,“Comparative study on scintillation properties of LGG, YGG and GGG,”in Proc.IEEE NSS/MIC,2010,pp.179-181.   \n[11] M. Nikl, J.A. Mares,N. Solovieva,H.L.Li,X.J. Liu,L.P.Huang, I.Fontana,M.Fasoli,A.Vedda,and C.D'Ambrosio,“Scintillation characteristics of $\\mathrm { L u _ { 3 } A l _ { 5 } O _ { 1 2 } : C e }$ optical ceramics,”J. Appl.Phys., vol.101,p.033515,2007.   \n12]T.Kanai,M.Satoh,and I.Miura,“Characteristics of a Nonstoichiometric $\\mathrm { G d } _ { 3 + \\delta } ( \\mathrm { A l } , \\mathrm { G a } ) _ { 5 - \\delta } \\mathrm { O } _ { 1 2 } : \\ : \\ : C e$ Garnet scintillator,”J.Am. Ceram. Soc.,vol.91,no.2,pp.456-462,2008.   \n13]L.Wang,M.Lin,C.Guo,and W.Zhang,“Synthesis and luminescent properties of $\\mathrm { C e ^ { 3 + } }$ doped LuAG nano-sized powders by mixed solvothermal method,”J.Rare.Earths,vol.28,no.1,pp.16-21,2010.   \n[14]H.Li and X.Liu,“Fabrication of transparent cerium-doped lutetium aluminum garnet ceramics by co-precipitation routes,”J.Am. Ceram. Soc.,vol.89,no.7,pp.2356-2358,2006.   \n[15] J.Li,J.Li,Z.Zhang,X.Wu,S.Liu,X.Li,X.Sun,and Y. Sakka,“Gadolinium aluminategarnet $( \\mathrm { G d _ { 3 } A l _ { 5 } O _ { 1 2 } } )$ :crystal structure stabilization via lutetium doping and properties of the $\\left( \\mathrm { G d } _ { 1 - \\mathrm { x } } \\mathrm { L u } _ { \\mathrm { x } } \\right) _ { 3 } \\mathrm { A l } _ { 5 } \\mathrm { O } _ { 1 2 }$ solid solutions $( \\mathrm { x } ~ = ~ 0 { - } 0 . 5 )$ ,”J. Am. Ceram. Soc.,vol.95,no.3,pp.931-936,2012.   \n[16]X.Zhang,D.Liu,H.Qin,Y.Sang,H.Liu,andJ.Wang,“Investigation on factor influencing the synthesis of YAG nano-powders by co-precipitation method,\" $J .$ Synthetic Crystals,vol.39,pp.73-77,2010.   \n[17]E.Matijevic and W.P.Hsu,“Preparation and properties of monodispersed colloidal particles of lanthanide compounds.1.gadolinium,europium,terbium, samarium,and cerium(III),\" $J .$ Colloid Interface Sci., vol.118,pp.506-23,1987.   \n[18]Z.Dega-Szafran,G.Dutkiewicz,Z.Kosturkiewicz,and M.Szafran, “Structure of complex of N-Methylpiperidine betaine with P-Hydroxybenzoic acid studied byX-ray,FT-IR and DFT methods,”J.Mol. Struct.,vol.875,pp.346-353,2008.   \n[19]J.A.Gadsden,Infrared SpectraofMineralsandRelated Inorganic Compounds. Newton,MA:Butterworth,1975.   \n[20]K.Kamada,T.Yanagida,J.Pejchal,M.Nikl,T.Endo,K.Tsutumi,Y. Usuki,Y.Fujimoto,A.Fukabori,andA.Yoshikawa,“Growthand scintillation properties of $\\mathrm { P r }$ doped $\\mathrm { G d _ { 3 } ( G a , A l ) _ { 5 } O _ { 1 2 } }$ single crystals,\" $J .$ （204号 Crystal Growth,vol.352,pp.84-87,2012.   \n[21]J.Kang,M.Kim,andK.Kim,“preparation and luminescence characterization of GGAG: $\\mathrm { C e ^ { 3 + } }$ $\\mathrm { B ^ { 3 + } }$ for a white light-emitting diode,” Mater.Res.Bulletin,vol.43,pp.1982-1988,2008.   \n[22]A. Suzuki, S.Kurosawa,J.Pejchal,V.Babin,Y.Fujimoto,A.Yamaji, M.Seki,Y.Futami,Y.Yokota,K.Yubuta,T.Shishido,M.Kikuchi, M.Nikl,and A.Yoshikawa,“The effect of different oxidative growth conditions on the scintillation properties of Ce： $\\mathrm { C d _ { 3 } A l _ { 3 } G a _ { 2 } O _ { 1 2 } }$ （204号 crystal,Phys. Status.Solidi C,vol.9,pp.2251-2251,2012.   \n[23]Y.Pan,M.Wu,and Q.Su,“Comparative investigation on synthesis and photoluminescence of YAG:Ce phosphor,”Mater.Sci.Eng.:B, vol.106,pp.251-256,2004. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

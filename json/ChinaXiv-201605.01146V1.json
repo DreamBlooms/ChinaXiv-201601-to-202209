@@ -1,0 +1,772 @@
+[
+    {
+        "type": "text",
+        "text": "Split Supersymmetry Under GUT and Current Dark Matter Constraints ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fei Wang1,3, Wenyu Wang2,3, Jin Min Yang³ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Department of Physics and Engineering, Zhengzhou University, 45000,ZhengZhou P.R.China   \n2 Institute of Theoretical Physics, College of Applied Science, Beijing University of Technology，Beijing 100124，China   \n3 Institute of Theoretical Physics China, Chinese Academy of Sciences， Beijing, 100080 P.R.China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: We recalculate the two-loop beta functions for three gauge couplings taking into account all low energy threshold corrections in split supersymmetry (split-SUSY) which assumes a very high scalar mass scale $M _ { S }$ . We find that, in split-SUSY with gaugino mass unification assumption and a large $M _ { S }$ ，the gauge coupling unification requires a lower bound on gaugino mass. Combined with the constraints from the dark matter relic density and direct detection limits, we find that split-SUSY is very restricted and for dark matter mass below 1 TeV the allowed parameter space can be fully covered by XENON-1T(2017). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction 2 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Constraints of Split SUSY From Gauge Coupling Unification 3 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Dark matter in split-SUSY 8 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion 10 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is well known that both the ATLAS and CMS collaborations have established the existence of a 125 GeV Standard Model (SM)-like Higgs boson [1,2]. So far the LHC Higgs data (with large uncertainties) agree well with the SM predictions. Still, such a newly discovered Higgs boson (especially its enhanced diphoton signal rate reported by ATLAS) has been interpreted in various new physics frameworks,among which a particular interesting scenario is low energy supersymmetry [3]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Supersymmetry (SUSY) is interesting in many aspects. A very interesting observation is that the observed Higgs boson mass of 125 GeV falls within the narrow window $1 1 5 - 1 3 5$ （204号 GeV predicted by the Minimal Supersymmetric Standard Model (MSSM). Besides, the unification of gauge couplings [4,5], which cannot be achieved in the SM, can be successfully realized by introducing supersymmetric particles with proper quantum numbers. The observed cosmic dark matter， which has no interpretation in the SM,can be perfectly explained in SUSY. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although SUSY is appealing, no signals of SUSY have been found at the LHC, which implies that squarks and gluinos should beyond the 1 TeV range. In fact,the LHC data set a limit[6, 7] $m _ { \\tilde { g } } > 1 . 5$ TeV for $m _ { \\tilde { q } } \\sim m _ { \\tilde { g } }$ and $m _ { \\tilde { g } } \\gtrsim 1$ TeV for $m _ { \\tilde { q } } \\gg m _ { \\tilde { g } }$ within the popular CMSSM model. On the other hand, radiative electroweak symmetry breaking conditions to give a l25 GeV Higgs requires an electroweak fine-tuning (EWFT). Such a fine-tuning may indicate that we should not expect SUSY to provide naturalness. Actually, from the viewpoint of quantum field theory, the naturalness problem of the Higgs mass appears to be quite similar to the cosmological constant problem, since both of them are related to ultraviolet power divergences. Maybe we can apply the naturalness criterion of the cosmological constant to SUSY. Split supersymmetry (split-SUSY), proposed in [8, 9, 10], gives up naturalness while keeps the other two main virtues: the gauge coupling unification and viable dark matter candidates. This split-SUSY scenario assumes a very high scalar mass scale $M _ { S }$ and at low energy the supersymmetric particles are only the gauginos and higgsinos as well as a fine-tuned Higgs boson. With very heavy sfermions this scenario can obviously avoid the flavor problem. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Given the significant progress of the LHC experiment and dark matter detections [11,12,13], we in this work check the dark matter and gauge coupling unification in splitSUSY. In fact, as shown in [14, 15, 16], the previous dark matter data can already set some constraints on the parameter space of split-SUSY. The gauge coupling unification in split-SUSY had been checked at two loop level in a special case assuming $M _ { 1 } = M _ { 2 } =$ $M _ { 3 } = \\mu$ [9,17] and also in complete two loop level in [18]. We recalculate the two-loop beta functions for three gauge couplings at two loop level taking into account al threshold corrections to check the status of split SUSY after higgs discovery, in particular the gauge coupling unification constraints on dark matter phenomenology. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In Sec. 2 we study the gauge coupling unification in split-SUSY.In Sec. 3 we examine the constraints of dark matter relic density and direct detections on split-SUSY.Sec. 4 contains our conclusions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Constraints of Split SUSY From Gauge Coupling Unification ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We firstly brief review the split supersymmetry scenario and explain our conventions. More details can be found in [8, 9]. The Lagrangian of Split supersymmetry is given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\mathcal { L } = m ^ { 2 } H ^ { \\dagger } H - \\displaystyle \\frac { \\lambda } { 2 } \\left( H ^ { \\dagger } H \\right) ^ { 2 } - \\left[ h _ { i j } ^ { u } { \\bar { q } } _ { j } u _ { i } \\epsilon H ^ { * } + h _ { i j } ^ { d } { \\bar { q } } _ { j } d _ { i } H + h _ { i j } ^ { e } { \\bar { \\ell } } _ { j } e _ { i } H \\right. } } \\\\ { { \\displaystyle \\left. + \\frac { M _ { 3 } } { 2 } { \\tilde { g } } ^ { A } { \\tilde { g } } ^ { A } + \\frac { M _ { 2 } } { 2 } { \\tilde { W } } ^ { a } { \\tilde { W } } ^ { a } + \\frac { M _ { 1 } } { 2 } { \\tilde { B } } { \\tilde { B } } + \\mu { \\tilde { H } } _ { u } ^ { T } \\epsilon { \\tilde { H } } _ { d } \\right. } } \\\\ { { \\displaystyle \\left. + \\frac { H ^ { \\dagger } } { \\sqrt { 2 } } \\left( { \\tilde { g } } _ { u } \\sigma ^ { a } { \\tilde { W } } ^ { a } + { \\tilde { g } } _ { u } ^ { \\prime } { \\tilde { B } } \\right) { \\tilde { H } } _ { u } + \\frac { H ^ { T } \\epsilon } { \\sqrt { 2 } } \\left( - { \\tilde { g } } _ { d } \\sigma ^ { a } { \\tilde { W } } ^ { a } + { \\tilde { g } } _ { d } ^ { \\prime } { \\tilde { B } } \\right) { \\tilde { H } } _ { d } + { \\mathrm { h . c . } } \\right] } \\ : , }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with $\\epsilon = i \\sigma _ { 2 }$ and the higgsino components ${ \\tilde { H } } _ { u , d }$ , the gluino $\\tilde { g }$ , the Wino $\\tilde { W }$ , the Bino $\\tilde { B }$ as well as all the standard model particles with one Higgs doublet $H$ . The standard model higgs doublet is the linear combination of two higgs doublets $H = - \\cos \\beta \\epsilon H _ { d } ^ { * } + \\sin \\beta H _ { u }$ （204号 which are fine-tuned to have small mass. The definition of scalar quartic coupling $\\lambda$ and the yukawa couplings $h _ { i j } ^ { u , d , e }$ will be given shortly. The parameter $\\mu$ arises from the $\\mu$ -term of the supersymmetric standard model and acts as the higgsino mass parameter. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The squarks, sleptons, charged as well as the pseudoscalar Higgs from the supersymmetric standard model in split SUSY scenario are assumed to be heavy (so that they will not cause a problem in SUSY favor problems etc) and their masses are assumed to be degenerated at mass scale $M _ { S }$ . The coupling constants appeared in previous Lagrangian at the scale $M _ { S }$ are obtained by matching them with the interaction terms of the supersymmetric Higgs doublets $H _ { u }$ and $H _ { d }$ （204 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathcal { L } } _ { \\mathrm { s u s y } } = - \\frac { g ^ { 2 } } { 8 } \\left( H _ { u } ^ { \\dagger } \\sigma ^ { a } H _ { u } + H _ { d } ^ { \\dagger } \\sigma ^ { a } H _ { d } \\right) ^ { 2 } - \\frac { g ^ { \\prime 2 } } { 8 } \\left( H _ { u } ^ { \\dagger } H _ { u } - H _ { d } ^ { \\dagger } H _ { d } \\right) ^ { 2 } } } \\\\ { { \\displaystyle ~ + \\lambda _ { i j } ^ { u } H _ { u } ^ { T } \\epsilon \\bar { u } _ { i } q _ { j } - \\lambda _ { i j } ^ { d } H _ { d } ^ { T } \\epsilon \\bar { d } _ { i } q _ { j } - \\lambda _ { i j } ^ { e } H _ { e } ^ { T } \\epsilon \\bar { e } _ { i } \\ell _ { j } } } \\\\ { { \\displaystyle ~ - \\frac { H _ { u } ^ { \\dagger } } { \\sqrt { 2 } } \\left( g \\sigma ^ { a } \\tilde { W } ^ { a } + g ^ { \\prime } \\tilde { B } \\right) \\tilde { H } _ { u } - \\frac { H _ { d } ^ { \\dagger } } { \\sqrt { 2 } } \\left( g \\sigma ^ { a } \\tilde { W } ^ { a } - g ^ { \\prime } \\tilde { B } \\right) \\tilde { H } _ { d } + \\mathrm { h . c . } ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Because one Higgs doublet can be fine-tuned to be small, the new coupling constants at the scale $M _ { S }$ can be obtained by replacing $H _ { u } \\to \\sin \\beta H$ and $H _ { d } \\to \\cos \\beta \\epsilon H ^ { * }$ into (2.2) with: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\lambda ( M _ { S } ) = \\displaystyle \\frac { \\left[ g ^ { 2 } ( M _ { S } ) + g ^ { \\prime 2 } ( M _ { S } ) \\right] } { 4 } \\cos ^ { 2 } 2 \\beta , } } \\\\ { { h _ { i j } ^ { u } ( M _ { S } ) = \\lambda _ { i j } ^ { u * } ( M _ { S } ) \\sin \\beta , h _ { i j } ^ { d , e } ( M _ { S } ) = \\lambda _ { i j } ^ { d , e * } ( M _ { S } ) \\cos \\beta , } } \\\\ { { \\tilde { g } _ { u } ( M _ { S } ) = g ( M _ { S } ) \\sin \\beta , \\tilde { g } _ { d } ( M _ { S } ) = g ( M _ { S } ) \\cos \\beta , } } \\\\ { { \\tilde { g } _ { u } ^ { \\prime } ( M _ { S } ) = g ^ { \\prime } ( M _ { S } ) \\sin \\beta , \\tilde { g } _ { u } ^ { \\prime } ( M _ { S } ) = g ^ { \\prime } ( M _ { S } ) \\cos \\beta . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We should note that such tree level relation will hold in higher order only if $\\overline { { D R } }$ (Dimensional Reduction） renormalization scheme is used. Supersymmetry ensures that the gaugino coupling $\\hat { \\boldsymbol g }$ within $\\sqrt { 2 } \\hat { g } \\phi ^ { i } ( t ^ { A } ) _ { i } ^ { j } ( \\psi _ { j } \\lambda ^ { A } )$ is equal to the gauge couping $g$ . Due to the fact that $\\overline { { M S } }$ is not supersymmetry preserving, the relation ${ \\hat { g } } = g$ is spoiled in this scheme. The relation (2.3) will be modified [19] to act as the input of RGE running (see appendix). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Let us take a look at the free parameters in split-SUSY. It is well known that for the ratios of gaugino masses and gauge couplings we have ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d } { d \\ln \\mu } \\left( \\frac { M _ { i } } { g _ { i } ^ { 2 } } \\right) = 0 \\nonumber\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and thus the ratios are RGE-invariant (up to one-loop level). This leads to a mass relation given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { M _ { 1 } } { g _ { 1 } ^ { 2 } } = \\frac { M _ { 2 } } { g _ { 2 } ^ { 2 } } = \\frac { M _ { 3 } } { g _ { 3 } ^ { 2 } } = \\frac { M _ { U } } { g _ { U } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with universal gaugino mass at the GUT scale. This gaugino mass relation can naturally appear in the ordinary SUSY-SU(5) GUT models (it can be spoiled by the introduction of certain higher dimensional representation Higgs fields,e.g.， the 75，20o dimensional Higgs felds [20, 21]). The two-loop corrections to the mass ratios $M _ { i } / g _ { i } ^ { 2 }$ are subdominant and make negligible contributions to two-loop RGE running of gauge couplings. So in our following analysis we adopt this gaugino mass relation. With this mass relation, the low energy SUSY mass parameters in split-SUSY can be reduced to: $M _ { 3 }$ ， $\\mu$ and $M _ { S }$ .The parameter $\\tan \\beta$ is chosen by random scan so as to give the 125 GeV higgs in the next section. It was chosen as a free parameter in this section. To avoid the SUSY favor problem，split-SUSY assumes $M _ { S } \\gg ( M _ { 3 } , \\mu )$ and the value of $M _ { S }$ is typically chosen to be higher than 1Oo TeV. We should note that the gaugino mass relation will no longer be valid below $M _ { S }$ due to the split nature of the split supersymmetry spectrum. However, various constraints, especially the 125 GeV higgs discovery by LHC, exclude the high $M _ { S }$ （204号 scenario and favor scalar superpartners in the region $M _ { S } \\sim 1 0 ^ { 4 } - 1 0 ^ { 8 } \\mathrm { G e V } [ 1 \\xi$ 3]. So it can be reasonable to keep the approximate ratio of the gaugino mass relations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Preserving gauge coupling unification is one of the two motivations of split-SUSY which,on the other side, is a highly non-trivial constraint on split-SUSY. In general, the successful gauge coupling unification at one-loop level taking into account threshold corrections disfavors a large $M _ { S }$ due to the prediction of a relatively lower $\\alpha _ { s } ( M _ { Z } )$ than the experimental value. In [8] it is argued that the two-loop renormalization group equation (RGE) running can alleviate this difficulty by pushing up the predicted $\\alpha _ { 3 } ( M _ { Z } )$ to around 0.130 and thus can push up $M _ { S }$ to a large value. So the inclusion of two-loop RGE runnings for gauge couplings are necessary in order to achieve the gauge coupling unification in splitSUSY. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this work we use the method in [22,23] to calculate the two-loop beta functions for three gauge couplings in split-SUSY, taking into account the threshold corrections. The results of [9], which assuming $M _ { 1 } = M _ { 2 } = M _ { 3 } = \\mu$ , is a special case of our general results (we checked that in this special case both results are in agreement). To study the RGE running for gauge couplings, we also calculated the one-loop beta functions for Yukawa couplings and gaugino couplings with threshold corrections. There are in total four different scenarios depending on the relative size of the gaugino masses and $\\mu$ . The full analytic expression for the beta function in these scenarios can be seen in the appendix. Although the proton decay problem in the split susy scenario will ameliorated, natural doublet-triplet(D-T) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "splitting may still need certain mechanism. Incorporating various D-T splitting mechanism can lead to uncertainties in the GUT theory feld contents and consequently new matter threshold uncertainties. So in our study on gauge coupling unification, we neglect possible GUT scale threshold corrections and possible new gauge kinetic terms from Planck-scale suppressed non-renormalizable operators involving various high representation higgs fields of GUT gauge group. It is well known that the two loop RGE running for gauge couplings are scheme independent, so we use the $\\overline { { M S } }$ couplings in our studying of the gauge coupling unification. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "With the two-loop RGE running of gauge couplings, we can study the gauge coupling unification requirement for the three free mass parameters in split-SUSY. To make our calculation reliable, the GUT scale must be significantly lower than the Planck scale so that the gravitational effcts can be neglected. On the other hand, the GUT scale can not be very low; otherwise it will lead to fast proton decay. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note that in ordinary SUSY-GUT,the dominant proton decay comes from the dimension5 operators involving the triplet Higgs and gaugino loops (these dimension-5 operators induce the decay $p  K ^ { + } { + } \\bar { \\nu }$ , whose experimental bound is $\\tau _ { p \\to K ^ { + } \\bar { \\nu } } > 3 . 3 { \\times } 1 0 ^ { 3 3 }$ years[24, 25]). Since this decay also involves sfermions in the loops, it is much suppressed in split-SUSY due to very heavy sfermions. In fact,as noted in [10], the contribution from the modeldependent dimension-5 operator which is suppressed by $M _ { S } ^ { 4 }$ is subdominant to dimension-6 operators if the amplitude is suppressed by two light quark/lepton masses. In Split Supersymmetry, the heavy squarks can provide adequate suppression and the suppression of light fermion masses can even be unnecessary. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "So for proton decay, we only consider the decay mode $p  e ^ { + } + \\pi ^ { 0 }$ induced by the heavy X, Y gauge bosons of $\\mathrm { S U } ( 5 )$ with mass $M _ { G U T }$ through the dimension-6 operators (via gauge boson exchange)[9]: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau ( p  \\pi ^ { 0 } e ^ { + } ) = ( \\frac { M _ { G U T } } { 1 0 ^ { 1 6 } \\mathrm { G e V } } ) ^ { 4 } ( \\frac { 1 / 3 5 } { \\alpha _ { G U T } } ) ^ { 2 } ( \\frac { 0 . 0 1 5 \\mathrm { G e V } ^ { 3 } } { \\alpha _ { N } } ) ^ { 2 } ( \\frac { 5 } { A _ { L } } ) ^ { 2 } \\ 4 . 4 \\times 1 0 ^ { 3 4 } \\mathrm { y r } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $A _ { L }$ the operator renormalization factors and $\\alpha _ { N }$ the hadronic matix element. The lattice result[26] gives $\\alpha _ { N } = 0 . 0 1 5 ~ \\mathrm { G e V ^ { 3 } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Combining with the experimental bound given by[24, 25] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau ( p  e ^ { + } + \\pi ^ { 0 } ) > 1 . 0 \\times 1 0 ^ { 3 4 } \\mathrm { y e a r s } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "we can find the lower limit for the GUT scale. Taking into account the upper limit (Planck scale) and choosing the central value of $A _ { L } = 5$ in equation (2.9), the GUT scale should lie in the range ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 . 0 \\times 1 0 ^ { 1 9 } \\mathrm { G e V } > M _ { G U T } > \\sqrt { 3 5 \\alpha _ { G U T } } \\left( 6 . 9 \\times 1 0 ^ { 1 5 } \\right) \\mathrm { G e V } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In our numerical study, we require that successful grand unification should satisfy this constraint on the GUT scale. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The following setting is used in our numerical studies: We use the central value of $g _ { 1 } , g _ { 2 }$ and $3 \\sigma$ range of $g _ { 3 }$ as the input at the electroweak scale. Other couplings at the electroweak scale, for example, the top yukawa $h _ { t }$ etc,are extracted from the standard model inputs taking into account the threshold corrections. Relevant details can be seen in the appendix. We also use their central values in our numerical studies. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Gauge couplings unification requires that the three gauge couplings meet at the same point with $g _ { 1 } ( M _ { G U T } ) = g _ { 2 } ( M _ { G U T } ) = g _ { 3 } ( M _ { G U T } )$ and the GUT scale satisfied the equation (2.10). However, in numerical studies,it is not possible to obtain exact equality which differs dramatically from the approach of the one-loop case. Because of the decoupled nature of the one-loop gauge couplings running, the unification scale is determined by the intersection of $g _ { 1 } , g _ { 2 }$ and one can extrapolate back to predict $g _ { 3 }$ at the elctroweak scale. In case of the two loop results, the two-loop RGE running of gauge couplings which amount to numerically solve a series of coupled differential equations are obtained from the values at electroweak scale and evolve step by step to GUT scale. We thus use the criteria that the gauge couplings unification is satisfed when the three couplings differ within the range 0.005 (less than $1 \\%$ error). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The RGE running of the three gauge couplings for some benchmark points in the parameter space is displayed in Fig.1,where we fix $M _ { S } = 1 0 0 \\mathrm { T e V } , \\mu = 5 0 0 \\mathrm { G e V } , \\tan \\beta =$ 10 and vary $M _ { 2 }$ from 200 GeV to 3.33 TeV. To illustrate if the three gauge couplings can really merge at a high scale, we only show the running region of $E > 1 0 ^ { 1 4 }$ GeV in this figure. In fact，we found that the two-loop RGEs change $_ { g _ { 2 } }$ coupling more sizably than （204号 $g _ { 1 }$ and $g _ { 3 }$ . We can see from this figure that gauge coupling unification prefers a relatively large gaugino mass. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "With a random scan over the parameter space $( 0 < M _ { 2 } , \\mu < M _ { S } \\leq 1 0 ^ { 1 3 } \\mathrm { G e V } )$ for （204号 $1 < \\tan \\beta < 5 0$ under the gauge coupling unification requirement, we obtain the results shown in Fig. 2. The sharp edge within the figures corresponds to the constraints $M _ { S } > M _ { 3 }$ in the split SUSY.From the left panel we can find an upper bound for $M _ { S }$ ,which is about （204号 $1 0 ^ { 6 }$ GeV (since split-SUSY requires $M _ { S } \\gg M _ { \\tilde { g } _ { i } }$ , we can also obtain an upper bound on $M _ { 2 }$ （204号 correspondingly). From the right panel we can find upper limits for $\\mu$ and $M _ { 2 }$ ，which are around 1Oo TeV, independent of the $M _ { S }$ value. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4901792df14c62e5373a9999c9e4d50c3c50826b491c89d8c792d5981fcc36ac.jpg",
+        "img_caption": [
+            "Figure 1: The RGE running of the three gauge couplings (we only show the region of $E > 1 0 ^ { 1 4 }$ GeV). The dashed lines (green) denote the one-loop results while the solid lines (red) denote the two-loop results. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b4f0ef3c520db8e04cae649d0c2ad0e43c9791b037a1718d20b75b055731958.jpg",
+        "img_caption": [
+            "Figure 2: The scatter plots of the parameter space with the gauge coupling unification requirement. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/af010db74a25d9066e45414b817dd7e412c8126f6a647527bb8bbcaf332be799.jpg",
+        "img_caption": [
+            "Figure 3: Same as Fig.2,but showing $M _ { 2 }$ versus $M _ { S }$ for fixed $\\mu$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We also scan the parameter space of $( M _ { 2 } , M _ { S } )$ with a fixed value of $\\mu$ and display the results in Fig.3. We can see that the gauge coupling unification imposes a lower bound on $M _ { S }$ ，which is 5 TeV for a small $\\mu$ value. It is also interesting to note that a lower bound for $M _ { 2 }$ exists for a large $\\mu$ value. However,when $\\mu$ turns small, the lower bound for $M _ { 2 }$ is relaxed. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note that on the plane of $( M _ { 2 } , M _ { S } )$ the gauge coupling unification requirement gives a region instead of a line. The reason is that some uncertainties are involved in gauge coupling unification requirement. The first uncertainty comes from the measured gauge couplings at $M _ { Z }$ scale and in our calculation we considered the $3 \\sigma$ range of $\\alpha _ { s } ( M _ { Z } )$ .The second uncertainty is that the merging of three gauge couplings at some GUT scale is not 'exact’ numerically (in our analysis we require the difference between any two gauge couplings to be smaller than O.005 while the gauge coupling strength is about 0.68). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We should give a brief comment on the role of parameter $\\tan \\beta$ in the gauge coupling unification. Naively, $\\tan \\beta$ does not appear explicitly in the two-loop gauge coupling beta functions. However, $\\tan \\beta$ can affect the gauge coupling RGE running by showing itself in the yukawa couplings and the gaugino couplings $\\tilde { g } , \\tilde { g } ^ { \\prime }$ . Numerical studies indicates that the unification is not sensitive to the choice of $\\tan \\beta$ . The parameter $M _ { i } , \\mu$ ，which define the thresholds of gauginos and higgsino, can also affect the gauge coupling unification by changing the value of beta functions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.Dark matter in split-SUSY ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In split-SUSY the lightest neutralino $\\tilde { \\chi } _ { 0 }$ is proposed to be the Weakly Interacting Massive Particle (WIMP) dark matter candidate. We now check the dark matter issue in splitSUSY,using the latest relic density data from Planck and the direct detection limits from XENON100,LUX as well as the future Xeon1T. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We use the package DarkSUSY [27] to scan the parameter space of split-SUSY in the ranges: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 < \\tan \\beta < 5 0 , ~ 0 ~ < ( M _ { 2 } , ~ \\mu ) < M _ { S } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In order to use DarkSUSY to calculate the relic density of dark matter in split susy scenario, we use the fact that the effects of heavy sfermions and heavy higgs almost entirely decouple when $M _ { S } = M _ { A } > 5 \\mathrm { T e V } | 2 8 .$ . So in our numerical study, we single out the points which satisfy the GUT constraints (as that in previous section) and then set $M _ { S } = M _ { A } = 1 0 \\mathrm { T e V }$ in DarkSUSY to carry out dark matter related numerical calculations for such survived points. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In our scan we take into account the current dark matter and collider constraints: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1） We use the lightest neutralino $\\tilde { \\chi } _ { 1 } ^ { 0 }$ to account for the Planck measured dark matter relic density $\\Omega _ { D M } = 0 . 1 1 9 9 \\pm 0 . 0 0 2 7$ [11] (in combination with the WMAP data [12]);   \n(2）The LEP lower bounds on neutralino and charginos, including the invisible decay of $Z$ -boson；For LEP experiments,the most stringent constraints come from the chargino mass and the invisible $Z$ -boson decay. We require that $m _ { \\tilde { \\chi } ^ { \\pm } } > 1 0 3 \\mathrm { G e V }$ and the invisible decay width $\\Gamma ( Z  \\tilde { \\chi } _ { 0 } \\tilde { \\chi } _ { 0 } ) < 1 . 7 1 ~ \\mathrm { M e V }$ ，which is consistent with the $2 \\sigma$ （204 precision EW measurement result: $\\Gamma _ { i n v } ^ { n o n - S M } < 2 . 0$ MeV.   \n(3） The precision electroweak measurements; Indirect constraints from electroweak precision observables such as $\\rho _ { l } , \\sin ^ { 2 } \\theta _ { e f f } ^ { l }$ ffand （204号 $M _ { W }$ or their combinations (oblique parameters $S , T , U )$ [29]. We require the oblique parameters to be compatible with the LEP/SLD data at $2 \\sigma$ confidence level [30]. We compute these observables with the formula presented in [31].   \n(4） The combined mass range for the Higgs boson: $1 2 3 \\mathrm { G e V } \\ < \\ M _ { h } \\ < \\ 1 2 7 \\mathrm { G e V }$ from ATLAS and CMS collaborations of LHC. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In split-SUSY due to large $M _ { S }$ ， $\\log ( m _ { \\tilde { f } } ^ { 2 } / m _ { t } ^ { 2 } ) \\gg 1$ will spoil the convergence of the traditional loop expansion in evaluating the SUSY effects of Higgs boson self-energy. So in order to calculate mass of the SM-like Higgs boson,we use the RGE improved effective potentiall32]. This computation method is employed in the NMSSMTools package[33]. This package can be applied to the MSSM cases by setting $\\lambda = \\kappa  0$ （20 so that the MSSM phenomenology is recovered. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We calculate the spin-independent (SI) dark matter-nucleon scattering rate with the e $f _ { T _ { u } } ^ { ( p ) } = 0 . 0 2 3$ ， $f _ { T _ { d } } ^ { ( p ) } = 0 . 0 3 2$ g， $f _ { T _ { u } } ^ { ( n ) } = 0 . 0 1 7$ $f _ { T _ { d } } ^ { ( n ) } = 0 . 0 4 1$ and $f _ { T _ { s } } ^ { ( p ) } = f _ { T _ { s } } ^ { ( n ) } = 0 . 0 2 0$ In into account all the contributions known so far (including QCD corrections). For $f _ { T _ { s } }$ we take a more reliable value from the recent lattice simulation [37]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/06014b2a1cb5e4a02f59d353f29ac4a573b6a0341f10135eb93044b9a2ff2780.jpg",
+        "img_caption": [
+            "Figure 4: The scatter plots of the parameter space for $\\mu > 0$ satisfying constraints (1-4) including dark matter relic density. The triangles (red) cannot achieve the gauge coupling unification. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In figs.4 and 5, we show the scatter plots of the parameter space satisfying constraints (1)-(4) with positive $\\mu$ . In the allowed parameter space,some samples cannot achieve the gauge coupling unification,which are marked out with red color in these figures. From fig.4,we can see that all the parameter space satisfying constraints (1-4) are excluded by GUT constraints for $M _ { S } \\gtrsim 2 0 0 ~ \\mathrm { T e V }$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We see that the current LUX[38] and XENON100 direct detection limits are quite stringent for split-SUSY, which can exclude a large part of the parameter space allowed by other constraints including the dark matter relic density. Note that a strip corresponding to a dark matter mass range from 1.0 TeV to 1.3 TeV can survive the combined constraints of GUT and dark matter direct detection for $M _ { S } \\lesssim 2 0 0$ TeV. From a careful analysis we found that this strip of parameter space gives a higgsino-like dark matter. Outside this strip (i.e. for a dark matter mass below 1 TeV), the survived parameter space can be fully covered by the future XENON-1T experiment. In fact, the vast majority of such survived parameter spaces had already been excluded by LUX. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For negative $\\mu$ , the survived parameter spaces are shown in fig.6 and fig.7. Our numerical calculations show that in most parameter spaces the results are not very sensitive to the sign of $\\mu$ . The minus sign scenario can only revive a very small part of parameter spaces which otherwise be excluded in positive $\\mu$ scenario. However,unlike the positive $\\mu$ （204号 scenario, future XENON-1T experiment is necessary to cover al the survived parameter spaces with a dark matter mass below 1 TeV. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "So we can conclude that for a dark matter mass below 1 TeV the split-SUSY under current experimental constraints and gauge coupling unification requirement can be fully covered by the future XENON-1T experiment. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e64da96412faa135cd112cfe081c1860fcec5c6ab96688594e0689155e2a5602.jpg",
+        "img_caption": [
+            "Figure 5: Same as Fig.4, but showing the spin-independent cross section of dark matter scattering off the nucleon. The curves denote the limits from LUX [38] and XENON100 as wellas the future XENON-1T sensitivity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We calculated the two-loop beta functions for three gauge couplings in split-SUSY taking into account all low energy threshold corrections. In split-SUSY scenario with gaugino mass unification assumption and a large $M _ { S }$ ，we find that the gauge coupling unification requires a lower bound on gaugino mass. Combined with the constraints from the dark matter relic density and direct detection limits, we found that split-SUSY is very restricted and for dark matter mass below 1 TeV the allowed parameter space can be fully covered by XENON-1T(2017). ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca64f5c7eb20f191f8477d14ac6cb2ed7e465621908a9de9be2beeb77fb14446.jpg",
+        "img_caption": [
+            "Figure 6: Same as Fig.4 for $\\mu < 0$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/55303f5d98760bf6d8a2f386ca468caef959aca9e721311c0ebbaaefd0111eb9.jpg",
+        "img_caption": [
+            "Figure 7: Same as Fig.5 for $\\mu < 0$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We are very grateful to the referee for discussions and comments. This work was supported by the Natural Science Foundation of China under grant numbers 11105124,11105125. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Appendix A: Boundary Value of the RGE Running ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We will use the modified minimal subtraction ( $\\overline { { M S } }$ ） scheme in our gauge coupling RGE running. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Taking into account certain threshold contributions, the $\\overline { { M S } }$ couplings can be extracted from the standard model input $\\alpha _ { s } ( M _ { Z } ) = 0 . 1 1 8 4 \\pm 0 . 0 0 0 7$ by ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { g } _ { 3 } ^ { 2 } } { 4 \\pi } ( M _ { Z } ) | _ { \\overline { { { M S } } } } = \\frac { \\alpha _ { s } ( M _ { Z } ) } { 1 + \\frac { \\alpha _ { s } ( M _ { Z } ) } { 2 \\pi } { \\frac { 2 } { 3 } } \\ln \\left( \\frac { m _ { t } } { M _ { Z } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Similarly, we have ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\alpha } _ { e m } ( M _ { Z } ) | _ { \\overline { { { M S } } } } = \\frac { \\alpha _ { e m } ( M _ { Z } ) } { 1 + \\frac { \\alpha _ { e m } ( M _ { Z } ) } { 2 \\pi } \\frac { 1 6 } { 9 } \\ln \\left( \\frac { m _ { t } } { M _ { Z } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "with the Standard Model input $\\alpha _ { e m } ^ { - 1 } ( M _ { Z } ) = 1 2 7 . 9 1 6 \\pm 0 . 0 1 5$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The exact form of effective weak mixing angle in the modified minimal subtraction （204 $\\overline { { M S } }$ scheme is rather complex and we use the given by PDG[39] ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { s } ^ { 2 } \\equiv { \\frac { \\hat { g } ^ { \\prime 2 } ( M _ { Z } ) } { \\hat { g } ^ { \\prime 2 } ( M _ { Z } ) + \\hat { g } ^ { \\prime 2 } ( M _ { Z } ) } } = 0 . 2 3 1 1 6 \\pm 0 . 0 0 0 1 3 .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "From the top-quark pole mass $M _ { t } | _ { p o l e } = 1 7 3 . 5 \\mathrm { G e V }$ and taking into account the QCD threshold corrections, one-loop electroweak corrections as well as two-loop $\\mathcal { O } ( \\alpha \\alpha _ { s } )$ corrections, the $\\overline { { M S } }$ input for top-yukawa coupling is given by[40] ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { h _ { t } ( M _ { t } ) = 0 . 9 3 5 8 7 + 0 . 0 0 5 5 7 \\left( \\displaystyle \\frac { M _ { t } } { \\mathrm { G e V } } - 1 7 3 . 1 5 \\right) - 0 . 0 0 0 0 3 \\left( \\displaystyle \\frac { M _ { h } } { \\mathrm { G e V } } - 1 2 5 \\right) } } \\\\ { { - \\ 0 . 0 0 0 4 1 \\left( \\displaystyle \\frac { \\alpha _ { s } ( M _ { Z } ) - 0 . 1 1 8 4 } { 0 . 0 0 0 7 } \\right) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In converting the pole top quark mass into $\\overline { { M S } }$ mass,we neglect the subleading possible contributions from gaugino corrections in this stage because of undecided gaugino coupling （204号 $\\bar { g } _ { 1 d , 2 d } , \\tilde { g } _ { 1 u , 2 u }$ ： ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The bottom and tau yukawa couplings at $M _ { Z }$ scale can be similarly extracted from their （204号 $\\overline { { M S } }$ or pole mass $m _ { b } ( \\overline { { { M S } } } ) = 4 . 1 8 \\mathrm { G e V } , m _ { \\tau } | _ { p o l e } = 1 . 7 7 6 \\mathrm { G e V }$ followed by RGE running[17] ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { h _ { b } } ( { M _ { Z } } ) = 0 . 0 2 4 \\left( 1 - \\frac { g _ { 3 } ^ { 2 } } { 8 \\pi ^ { 2 } } \\frac { 2 3 } { 3 } \\ln \\left( \\frac { M _ { Z } } { m _ { b } } \\right) \\right) ^ { 1 2 / 2 3 } \\left( 1 + \\frac { e ^ { 2 } } { 8 \\pi ^ { 2 } } \\frac { 8 0 } { 9 } \\ln \\left( \\frac { M _ { Z } } { m _ { b } } \\right) \\right) ^ { - 3 / 8 0 } , } } \\\\ { { { h _ { \\tau } } ( { M _ { Z } } ) = 0 . 0 1 0 2 \\left( 1 - \\frac { e ^ { 2 } } { 4 \\pi ^ { 2 } } \\right) \\left( 1 + \\frac { e ^ { 2 } } { 8 \\pi ^ { 2 } } \\frac { 8 0 } { 9 } \\ln \\left( \\frac { M _ { Z } } { m _ { b } } \\right) \\right) ^ { - 2 7 / 8 0 } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Because of the fact that supersymmetry is not preserved in the $\\overline { { M S } }$ scheme, the boundary conditions appeared in (2.3） is valid only in $\\overline { { D R } }$ scheme and will be spoiled in $\\overline { { M S } }$ （204号 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "scheme. We know that in case of simple group, the $\\overline { { M S } }$ gauge couplings are related to the （2 $\\overline { { D R } }$ gauge couplings by the relation[19] ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { \\overline { { { M S } } } } = g _ { \\overline { { { D R } } } } \\left[ 1 - \\frac { g ^ { 2 } } { 9 6 \\pi ^ { 2 } } C ( G ) \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The relation(2.3） in $\\overline { { M S } }$ scheme will be changed into ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\tilde { g } _ { u } ( M _ { S } ) = g ( M _ { S } ) \\sin \\beta \\left[ 1 + \\frac { 1 } { 1 6 \\pi ^ { 2 } } \\left( \\frac { 2 3 } { 2 4 } g ^ { 2 } - \\frac { 1 } { 8 } g ^ { \\prime 2 } \\right) \\right] , } } \\\\ { { \\displaystyle \\tilde { g } _ { u } ^ { \\prime } ( M _ { S } ) = g ^ { \\prime } ( M _ { S } ) \\sin \\beta \\left[ 1 + \\frac { 1 } { 1 6 \\pi ^ { 2 } } \\left( \\frac { 3 } { 8 } g ^ { 2 } + \\frac { 1 } { 8 } g ^ { \\prime 2 } \\right) \\right] , } } \\\\ { { \\displaystyle \\tilde { g } _ { d } ( M _ { S } ) = g ( M _ { S } ) \\sin \\beta \\left[ 1 + \\frac { 1 } { 1 6 \\pi ^ { 2 } } \\left( \\frac { 2 3 } { 2 4 } g ^ { 2 } - \\frac { 1 } { 8 } g ^ { \\prime 2 } \\right) \\right] , } } \\\\ { { \\displaystyle \\tilde { g } _ { d } ^ { \\prime } ( M _ { S } ) = g ^ { \\prime } ( M _ { S } ) \\sin \\beta \\left[ 1 + \\frac { 1 } { 1 6 \\pi ^ { 2 } } \\left( \\frac { 3 } { 8 } g ^ { 2 } + \\frac { 1 } { 8 } g ^ { \\prime 2 } \\right) \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "at the $M _ { S }$ scale at tree-level. This result agrees with the results in [41]( and also agrees with ref.[17] if we use the tree-level expression $c ^ { 2 } = g ^ { 2 } / ( g ^ { \\prime 2 } + g ^ { 2 } )$ to eliminate $g ^ { \\prime }$ ） ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "At one-loop level, the expression changed into [41] ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c c c } { { \\displaystyle { \\frac { \\tilde { g } _ { u } ( M _ { S } ) } { g ^ { \\prime } ( M _ { S } ) \\sin \\beta } = 1 + \\frac { 1 } { 1 6 \\pi ^ { 2 } } \\left[ \\frac { 2 3 } { 2 4 } g ^ { 2 } - \\frac { 1 } { 8 } g ^ { \\prime 2 } + \\frac { 7 } { 1 6 } \\cos ^ { 2 } \\beta \\ g ^ { \\prime 2 } - \\left( \\frac { 1 1 } { 1 6 } \\cos ^ { 2 } \\beta + \\frac { 1 3 } { 8 } \\right) g ^ { 2 } + \\left( \\frac { 1 3 } { 4 8 \\sin ^ { 2 } \\beta } \\right) \\right] } } } \\\\ { { \\displaystyle { \\frac { \\tilde { g } _ { u } ^ { \\prime } ( M _ { S } ) } { g ^ { \\prime } ( M _ { S } ) \\sin \\beta } = 1 + \\frac { 1 } { 1 6 \\pi ^ { 2 } } \\left[ \\frac { 3 } { 8 } g ^ { 2 } + \\frac { 1 } { 8 } g ^ { \\prime 2 } + \\frac { 2 1 } { 1 6 } \\cos ^ { 2 } \\beta \\ g ^ { 2 } + \\left( \\frac { 7 } { 1 6 } \\cos ^ { 2 } \\beta - \\frac { 2 1 } { 8 } \\right) g ^ { \\prime 2 } + \\left( \\frac { \\vdots } { 4 \\sin ^ { 2 } \\beta } \\right) g ^ { \\prime 2 } \\right] } } } \\\\ { { \\displaystyle { \\frac { \\tilde { g } _ { d } ( M _ { S } ) } { g ^ { \\prime } ( M _ { S } ) \\sin \\beta } = 1 + \\frac { 1 } { 1 6 \\pi ^ { 2 } } \\left[ \\frac { 2 3 } { 2 4 } g ^ { 2 } - \\frac { 1 } { 8 } g ^ { \\prime 2 } + \\frac { 7 } { 1 6 } \\sin ^ { 2 } \\beta \\ g ^ { \\prime 2 } - \\left( \\frac { 1 1 } { 1 6 } \\sin ^ { 2 } \\beta + \\frac { 1 3 } { 8 } \\right) g ^ { 2 } + \\frac { 3 } { 2 } h _ { t } ^ { 2 } \\right] } } } \\\\  { \\displaystyle { \\frac { \\tilde { g } _ { d } ^ { \\prime } ( M _ { S } ) } { g ^ { \\prime } ( M _ { S } ) \\sin \\beta } = 1 + \\frac { 1 } { 1 6 \\pi ^ { 2 } } \\left[ \\frac { 3 } { 8 } g ^ { 2 } + \\frac { 1 } { 8 } g ^ { \\prime 2 } + \\frac { 2 1 } { 1 6 } \\sin ^ { 2 } \\beta \\ g ^ { \\prime 2 } - \\left( \\frac { 7 } { 1 6 } \\sin ^ { 2 } \\beta - \\frac { 1 3 } { 8 } \\right) g ^ { \\prime 2 } + \\frac { 3 } { 2 } h _ { t } ^ { 2 } \\right] . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "with proper normalization $g ^ { \\prime } = \\sqrt { 3 / 5 } g _ { 1 }$ . Because such boundary conditions are given at the $M _ { S }$ scale while other inputs are given at the weak scale $M _ { Z }$ ， iterative procedure is necessary in the numerical studies. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Appendix B: Two-Loop RGE for Gauge Couplings in Split Supersymmetry ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The 2-loop RGE for $S U ( 3 ) _ { c } , S U ( 2 ) _ { L } , U ( 1 ) _ { Y }$ gauge couplings $( g _ { 3 } , g _ { 2 } , g _ { 1 }$ ， respectively） are given by ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { i } = \\frac { b _ { i } } { ( 4 \\pi ) ^ { 2 } } g _ { i } ^ { 3 } + \\frac { g _ { i } ^ { 3 } } { ( 4 \\pi ) ^ { 4 } } \\left[ \\sum _ { j } B _ { i j } g _ { j } ^ { 2 } - \\sum _ { a = u , d , e } d _ { i } ^ { a } T r ( h ^ { a \\dagger } h ^ { a } ) - d _ { W } ( \\tilde { g } _ { u } ^ { 2 } + \\tilde { g } _ { d } ^ { 2 } ) - d _ { B } ( \\tilde { g } _ { u } ^ { \\prime 2 } + \\tilde { g } _ { d } ^ { \\prime 2 } ) \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "with the $U ( 1 ) _ { Y }$ normalization $\\begin{array} { r } { g _ { 1 } ^ { 2 } = \\frac { 5 } { 3 } ( g _ { Y } ) ^ { 2 } } \\end{array}$ and the relevant coefficients in Table 1,2,3,4 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The one-loop RGE for Yukawa couplings below the $M _ { S }$ scale can be written as ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { 1 6 \\pi ^ { 2 } \\displaystyle \\frac { d } { d t } h ^ { u } = h ^ { u } \\left[ - 3 c _ { i } ^ { u } g _ { i } ^ { 2 } + c _ { T } ^ { u } T + c _ { S _ { 1 } } ^ { u } S _ { 1 } + c _ { S _ { 2 } } ^ { u } S _ { 2 } + \\displaystyle \\frac { 3 } { 2 } \\left( h ^ { u \\dagger } h ^ { u } - h ^ { d \\dagger } h ^ { d } \\right) \\right] , } } \\\\ { { 1 6 \\pi ^ { 2 } \\displaystyle \\frac { d } { d t } h ^ { d } = h ^ { d } \\left[ - 3 c _ { i } ^ { d } g _ { i } ^ { 2 } + c _ { T } ^ { d } T + c _ { S _ { 1 } } ^ { d } S _ { 1 } + c _ { S _ { 2 } } ^ { d } S _ { 2 } + \\displaystyle \\frac { 3 } { 2 } \\left( h ^ { d \\dagger } h ^ { d } - h ^ { u \\dagger } h ^ { u } \\right) \\right] , } } \\\\ { { 1 6 \\pi ^ { 2 } \\displaystyle \\frac { d } { d t } h ^ { e } = h ^ { e } \\left[ - 3 c _ { i } ^ { e } g _ { i } ^ { 2 } + c _ { T } ^ { e } T T + c _ { S _ { 1 } } ^ { e } S _ { 1 } + c _ { S _ { 2 } } ^ { e } S _ { 2 } + \\displaystyle \\frac { 3 } { 2 } h ^ { e \\dagger } h ^ { e } \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = T r ( 3 h ^ { \\bar { u } \\dagger } h ^ { u } + 3 h ^ { d \\dagger } h ^ { d } + h ^ { e \\dagger } h ^ { e } ) , S _ { \\boldsymbol { 1 } } = \\frac { 1 } { 2 } \\left[ ( \\tilde { g } _ { u } ^ { \\prime } ) ^ { 2 } + ( \\tilde { g } _ { d } ^ { \\prime } ) ^ { 2 } \\right] , S _ { \\boldsymbol { 2 } } = \\frac { 3 } { 2 } \\left( \\tilde { g } _ { u } ^ { 2 } + \\tilde { g } _ { d } ^ { 2 } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The relevant coefficients in different scenarios can be found in Table 5.6,7. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Upon $M _ { S }$ ，we recover the MSSM result and the one-loop RGE for yukawa-type inter· actions in the superpotential are ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { 1 6 \\pi ^ { 2 } \\displaystyle \\frac { d } { d t } \\lambda ^ { u } = \\lambda ^ { u } \\left[ - 2 c _ { i } ^ { u } g _ { i } ^ { 2 } + 3 T r ( \\lambda ^ { u \\dagger } \\lambda ^ { u } ) + 3 \\lambda ^ { u \\dagger } \\lambda ^ { u } + \\lambda ^ { d \\dagger } \\lambda ^ { d } \\right] , } } \\\\ { { 1 6 \\pi ^ { 2 } \\displaystyle \\frac { d } { d t } \\lambda ^ { d } = \\lambda ^ { d } \\left[ - 2 c _ { i } ^ { d } g _ { i } ^ { 2 } + T r ( 3 \\lambda ^ { d \\dagger } \\lambda ^ { d } + \\lambda ^ { e \\dagger } \\lambda ^ { e } ) + \\lambda ^ { u \\dagger } \\lambda ^ { u } + 3 \\lambda ^ { d \\dagger } \\lambda ^ { d } \\right] , } } \\\\ { { 1 6 \\pi ^ { 2 } \\displaystyle \\frac { d } { d t } \\lambda ^ { e } = \\lambda ^ { e } \\left[ - 2 c _ { i } ^ { e } g _ { i } ^ { 2 } + T r ( 3 \\lambda ^ { d \\dagger } \\lambda ^ { d } + \\lambda ^ { e \\dagger } \\lambda ^ { e } ) + 3 \\lambda ^ { e \\dagger } \\lambda ^ { e } \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { i } ^ { u } = ( \\frac { 1 3 } { 3 0 } , \\frac { 3 } { 2 } , \\frac { 8 } { 3 } ) , ~ c _ { i } ^ { d } = ( \\frac { 7 } { 3 0 } , \\frac { 3 } { 2 } , \\frac { 8 } { 3 } ) , ~ c _ { i } ^ { e } = ( \\frac { 9 } { 1 0 } , \\frac { 3 } { 2 } , 0 ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The gaugino coupling RGE (upon gaugino, higgsino thresholds and below $M _ { S }$ ) can be written as ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { 1 6 \\pi ^ { 2 } \\displaystyle \\frac { d } { d t } \\tilde { g } _ { u } = - 3 \\tilde { g } _ { u } c _ { i } ^ { u } g _ { i } ^ { 2 } + \\frac { 5 } { 4 } \\tilde { g } _ { u } ^ { 3 } - \\frac { 1 } { 2 } \\tilde { g } _ { u } \\tilde { g } _ { d } ^ { 2 } + \\frac { 1 } { 4 } \\tilde { g } _ { u } \\tilde { g } _ { u } ^ { \\prime 2 } + \\tilde { g } _ { d } \\tilde { g } _ { d } ^ { \\prime } \\tilde { g } _ { u } ^ { \\prime } + \\tilde { g } _ { u } ( T + c _ { S _ { 1 } } S _ { 1 } + c _ { S _ { 2 } } S _ { 2 } ) , } } \\\\ { { 1 6 \\pi ^ { 2 } \\frac { d } { d t } \\tilde { g } _ { d } = - 3 \\tilde { g } _ { d } c _ { i } ^ { d } g _ { i } ^ { 2 } + \\frac { 5 } { 4 } \\tilde { g } _ { d } ^ { 3 } - \\frac { 1 } { 2 } \\tilde { g } _ { d } \\tilde { g } _ { u } ^ { 2 } + \\frac { 1 } { 4 } \\tilde { g } _ { d } \\tilde { g } _ { d } ^ { \\prime 2 } + \\tilde { g } _ { u } \\tilde { g } _ { u } ^ { \\prime } \\tilde { g } _ { d } ^ { \\prime } + \\tilde { g } _ { d } ( T + c _ { S _ { 1 } } S _ { 1 } + c _ { S _ { 2 } } S _ { 2 } ) , } } \\\\  { 1 6 \\pi ^ { 2 } \\frac { d } { d t } \\tilde { g } _ { u } ^ { \\prime } = - 3 \\tilde { g } _ { u } ^ { \\prime } \\tilde { c } _ { i } ^ { u } g _ { i } ^ { 2 } + \\frac { 3 } { 4 } \\tilde { g } _ { u } ^ { \\prime 3 } + \\frac { 3 } { 2 } \\tilde { g } _ { u } ^ { \\prime } \\tilde { g } _ { d } ^ { 2 } + \\frac { 3 } { 4 } \\tilde { g } _ { u } ^ { \\prime } \\tilde { g } _ { u } ^ { 2 } + 3 \\tilde { g } _ { d } ^ { \\prime } \\tilde { g } _ { d } \\tilde { g } _ { u } + \\tilde { g } _ { u } ^ { \\prime } ( T + c _ { S _ { 1 } } S _ { 1 } + c _ { S _ { 2 } } S _ { 2 } ) , } \\\\  1 6 \\pi ^ { 2 } \\frac { d } { d t } \\tilde { g } _ { d } ^ { \\prime } = - 3 \\tilde { g } _ { d } ^ { \\prime } \\tilde { c } _ { i } ^ { 2 } + \\frac { 3 } { 4 } \\tilde { g } _ { d } ^ { \\prime 3 } + \\frac { 3 } { 2 } \\tilde { g } _ { d } ^ { \\prime } \\tilde { g } _ { d } ^ { 2 } + \\frac { 3 } { 4 } \\tilde { g } _ { u } ^ { \\prime } \\tilde { g } _ { d }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "withthe coefficient ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { i } ^ { u , d } = ( \\frac { 3 } { 2 0 } , \\frac { 1 1 } { 4 } , 0 ) , ~ \\tilde { c } _ { i } ^ { u , d } = ( \\frac { 3 } { 2 0 } , \\frac { 3 } { 4 } , 0 ) , ~ c _ { S _ { 1 } } = c _ { S _ { 2 } } = 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "and the boundary value at $M _ { S }$ scale ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l } { { \\tilde { g } _ { u } ( M _ { S } ) = g _ { 2 } ( M _ { S } ) \\sin \\beta , } } & { { \\tilde { g } _ { d } ( M _ { S } ) = g _ { 2 } ( M _ { S } ) \\cos \\beta , } } \\\\ { { \\tilde { g } _ { u } ^ { \\prime } ( M _ { S } ) = g _ { 1 } ( M _ { S } ) \\sin \\beta , } } & { { \\tilde { g } _ { d } ^ { \\prime } ( M _ { S } ) = g _ { 1 } ( M _ { S } ) \\cos \\beta . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Below $M _ { 2 }$ ， we can decoupling the effect of wino by setting $\\ddot { g } _ { u } = \\ddot { g } _ { d } = 0$ .Blow $M _ { 1 }$ ，the effect of bino can be decoupled by setting $\\tilde { g } _ { u } ^ { \\prime } = \\tilde { g } _ { d } ^ { \\prime } = 0$ .Below $\\mu$ , these gaugino interactions will decouple. ",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/cdb618fd534382a1fb240656b86b568653351d017e1cb75376baa30672a1e84c.jpg",
+        "table_caption": [
+            "Table 1: The coefficients in two-loop gauge coupling RGE with $M _ { 3 } < \\mu < M _ { S }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>E</td><td>bi</td><td>Bij</td><td></td><td>(dy，,dd,d)</td><td>(dW,dB)</td></tr><tr><td>[Mz,M2]</td><td>41/10 -19/6 -7</td><td>10509 21 10 3569-2 11</td><td>45 12 -26 45</td><td>1 1-2 3-21 3-2 32 2 2 20</td><td>00 00 00</td></tr><tr><td>[M2,M3]</td><td>41/10 -11/6 -7</td><td>10509-10 11 199</td><td>21 163 12 6 9-2 -26</td><td>3 3 2 2 2</td><td>1-2 3-21- 2 20</td><td>品品 00 0 0</td></tr><tr><td>[M3，μ]</td><td>41/10 -11/6 -5</td><td></td><td>27 44 509一10 10 5 163 12 69-2 22</td><td></td><td>17 1 3-21- 10 2 3 3 2 2 2 2 20</td><td></td><td>9 3 20 20 11 1 4 4 0 0</td></tr><tr><td>[μ,Ms]</td><td>9/2 -7/6 -5</td><td></td><td>104 18 25651 5 3:9-2 10 199</td><td>44 5 10612 22</td><td>17 10</td><td>1 3-21 2 3 3 1 2 2 2 2 20</td><td>9 3 20 20 11 1 4 4 0</td></tr><tr><td>[Ms,Mu]</td><td>33 5 1 -3</td><td></td><td>27 88 59-515 5 5 25 24 9 14</td><td></td><td>26 14 18 5 5 5 6 6 2 4 4 0</td><td></td><td>0 00 00 00</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/36bd98b366b53c89b082d3bf67edc31a80a423d89eeee33c3b37fbf46d38ceac.jpg",
+        "table_caption": [
+            "Table 2: The coefficients in two-loop gauge coupling RGE with $M _ { 2 } < \\mu < M _ { 3 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>E</td><td>bi</td><td>Bij</td><td></td><td>(dy，dg,d)</td><td></td><td>(dW,dB)</td></tr><tr><td>[Mz,M2]</td><td>41/10 -19/6 -7</td><td></td><td>10509-101 211 45 35 12 69-2 -26</td><td></td><td>1 12 3 3 2 2 2 20</td><td>3-2 1 2</td><td>00 00 00</td></tr><tr><td>[M2,μ]</td><td>41/10 -11/6 -7</td><td></td><td>1050910 1</td><td>21 45 169-2 12 -26</td><td>110 3-2 2</td><td>1-2 3-21 32 2 20</td><td>品品 00 0 0</td></tr><tr><td>[μ,M3]</td><td>9/2 -7/6 -7</td><td></td><td>199 9一10 11</td><td>27 44 10 5 163 12 6:9-2 22</td><td>17 10 3 2 2</td><td>1 321 2 3 1 2 2 20</td><td>9 3 20 20 11 1 4 4 0 0</td></tr><tr><td>[M3,Ms]</td><td>9/2 -7/6 -5 33</td><td></td><td>104 25 65 1 199</td><td>18 44 5 5 10612 39 2 22 27</td><td>17 10 3 2 2</td><td>1 3-21 2 3 1 2 2 20</td><td>9 3 20 20 11 1 4 4 0 0</td></tr><tr><td>[Ms,Mu]</td><td>5 1 -3</td><td></td><td>25 5 95 15 9</td><td>88 5 25 24 14</td><td>26 14 5 6 4</td><td>18 5 5 6 2 4 0</td><td>00 00 00</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[1]G.Aad et al.(ATLAS Collaboration), Phys. Lett. B710, 49 (2012). [2] S. Chatrachyan et al.(CMS Collaboration), Phys.Lett.B710,26 (2012). [3] See,e.g.,M. Carena et al. JHEP 1203,014 (2012); JHEP 1207,175 (2012); J. Cao et al., ",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/86fc4775bd6168fb932dcda2864d8baf862d4685afed63c9b1881e5b8f45d0af.jpg",
+        "table_caption": [
+            "Table 3: The coefficients in two-loop gauge coupling RGE with $M _ { 1 } < \\mu < M _ { 2 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>E</td><td>bi</td><td>Bij</td><td></td><td>(dy，dd,de)</td><td>(dW ,dB)</td></tr><tr><td>[Mz,μ]</td><td>41/10 -19/6 -7</td><td>12509一1</td><td>2110 45 369-2 12 -26</td><td>1 3-2 2</td><td>3-2 1-2 20</td><td>00 00</td></tr><tr><td>[μ,M2]</td><td>9/2 -15/6</td><td>-7</td><td>50910 10 163 69-2</td><td>-26</td><td>2 3 2 20</td><td>2020 0</td></tr><tr><td>[M2,M3]</td><td>-7/6 -7</td><td></td><td>256511</td><td>-26</td><td>10 2 3 3 2 2 2 20</td><td></td><td>9 3 20 20 11 1 4 4 0 0</td></tr><tr><td>[M3,Ms]</td><td>9/2 -7/6 -5</td><td></td><td>2565 1</td><td>44 5 12 22 88</td><td>17 10 3-2 2</td><td>1 3-2 2 3-2 1-2 20</td><td>9 3 20 20 14 1-4 0 0</td></tr><tr><td>[Ms,Mu]</td><td>1 -3</td><td></td><td>9.5 5 25 24 1 9</td><td></td><td>26 14 18 5 5 5 6 6 2 44 0</td><td></td><td>00 00 00</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "JHEP 1210,079 (2012); JHEP 1203,086 (2012); Phys.Lett.B 710,665 (2012); U. Ellwanger, JHEP 1203,044 (2012); G. Belanger et al.,arXiv:1210.1976; arXiv:1208.4952; J. F.Gunion, Y. Jiang, S.Kraml, Phys. Rev.D 86, 071702 (2012)； Phys. Rev. Lett.110, 051801 (2013). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[4] J. R. Ells, S. Kelley and D. V. Nanopoulos,Phys. Lett. B 249,441(1990); Phys. Lett. B 260,131 (1991); U. Amaldi, W. de Boer and H. Furstenau, Phys. Lett. B 260,447(1991); P. Langacker and M. X. Luo, Phys. Rev. D 44, 817 (1991).   \n[5] H. Georgi and S. L. Glashow,Phys. Rev. Lett. 32, 438 (1974).   \n[6] G.Aad et al. (ATLAS collaboration), Phys.Lett. B710 (2012) 67 (2011). G. Aad et al. [ATLAS Collaboration], Phys. Rev. D 87 (2013) 012008.   \n[7] S.Chatrchyan et al.(CMS collaboration),Phys.Rev.Lett.107(2011) 221804. S. Chatrchyan et al. [CMS Collaboration], J. High Energy Phys.1210 (2012) 018.   \n[8] N.Arkani-Hamed, S. Dimopoulos,JHEP 0506 (2005) 073.   \n[9]G.F.Giudice,A. Romaninom,Nucl.Phys.B699,65 (2004).   \n10] N.Arkani-Hamed, S. Dimopoulos, G.F. Giudice, A. Romanino, Nucl. Phys. B709(2005) 3-46.   \n[11] http://www.sciops.esa.int/SA/PLANCK/docs/Planck 2013 results 16.pdf.   \n12] J. Dunkley et al.[WMAP Collaboration],Astrophys. J. Suppl. 180,306 (2009).   \n[13] E.Aprile et al. [XENON100 Collaboration], Phys. Rev. Lett.109,181301 (2012).   \n[14] J. Cao,W. Wang, J. M. Yang, Phys. Lett. B706,72 (2011).   \n'15] Clifford Cheung,Lawrence J. Hall, David Pinner, Joshua T.Ruderman, JHEP 1305(2013)100. ",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9272ba4c833c91e7e03db3355550ff727bb6544034d45d56417afa37076840c.jpg",
+        "table_caption": [
+            "Table 4: The coefficients in two-loop gauge coupling RGE with $M z < \\mu < M _ { 1 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>E</td><td>bi</td><td>Bij</td><td>(d,d,d)</td><td></td><td>(dW,dB)</td></tr><tr><td>[Mz,μ]</td><td>41 16 -7</td><td>1509π1 21 369-2</td><td>32 -26</td><td>1 1-2 32 32 1-2 220</td><td>00 00 00</td></tr><tr><td>[μ,M1]</td><td>92 15-6 -7</td><td>1256-510 185 439-2</td><td>45 12 -26</td><td>11 12 321 3-2 3-2 1-2 220</td><td>00 00 00</td></tr><tr><td>[M1,M2]</td><td>9-2 156 -7</td><td>104 18 25651 5 3:9-2 10</td><td>44 5 12 -26</td><td>17 1 3 10 2 2 3-2 3-2 1-2 220</td><td>9 3 20 20 0 0 0 0</td></tr><tr><td>[M2,M3]</td><td>9-2 7 6 17</td><td>104 18 25 5 65 106 3:9-2 11 10 104</td><td>44 5 12 -26 44</td><td>17 1 3-21 10 2 3 3 1 2 2 2 220 17 1</td><td>9 3 20 20 11 1 4 4 0 0</td></tr><tr><td>[M3,Ms]</td><td>9-2 7 6 -5</td><td>18 25 5 65 106 3:9-2 11</td><td>5 12 22 885</td><td>32 10 2 3 3 1 2 2 2 220</td><td>9 3 20 20 11 1 4 4 0 0</td></tr><tr><td>[Ms,Mu]</td><td>35 1 -3</td><td>199 27 951 25 24 5 9 14</td><td>25 6 4</td><td>14 185 6 2 4 0</td><td>00 00 00</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Table 5: The coefficients in the one-loop yukawa couplings in case $M _ { 3 } < \\mu < M _ { S }$ and $M _ { 2 } < \\mu < M _ { 3 }$ （204号 ",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/8109a3a0ed0d30a8d0ed1007619e38efbe26c41ef866bb902eb7f16f2431195c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>E</td><td>[Mz，μ]</td><td>[μ,Ms]</td></tr><tr><td>d Ci c</td><td>17 3 8 60 4 3 1 3 8 12 4 3 3-4 3-4 0</td><td>17 3 8 60 4 3 1 3 8 12 4 3 3-4 3-4 0</td></tr><tr><td>C S1 d C cs CS S1 S2 cu cu S2 CS1</td><td>100 100 100</td><td>111 111 111</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[16] Nicolas Bernal, JCAP 0908(2009)022.   \n[17] Nicolas Bernal,Abdelhak Djouadi, Pietro Slavich, JHEP0707:016(2007).   \n[18] Gian F. Giudice,Alessandro Strumia,Nucl.Phys. B858 (2012) 63-83.   \n[19] Stephen P. Martin, Michael T. Vaughn, Phys.Lett. B318 (1993) 331-337.   \n[20] J.R. Elis, K. Enqvist, D. V. Nanopoulos, K. Tamvakis,Phys.Lett. B155(1985） 381.   \n[21] M. Drees,Phys.Lett. B158 (1985) 409.   \n[22] M. E. Machacek and M. T. Vaughn, Nucl. Phys.B 222,83 (1983); Nucl. Phys.B 236, 221 (1984); Nucl. Phys. B 249,70 (1985).   \n[23] S. P. Martin and M. T. Vaughn, Phys. Rev. D 50, 2282 (1994). ",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/a95708da5d8fec2a57d968c90c80da5894e01a3bbb69901906afebefeecc1122.jpg",
+        "table_caption": [
+            "Table 6: The coefficients in the one-loop yukawa couplings in case $M _ { 1 } < \\mu < M _ { 2 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>E</td><td>[Mz，μ]</td><td>[μ,M2]</td><td>[M2,Ms]</td></tr><tr><td>cu Ci d Ci</td><td>17 3 8 60 4 3 1 3 8 12 4 3 3-4 3-4 0</td><td>17 3 838 60 4 3 4 3 3-4 3-4 0</td><td>17 3 8138 60 4 1 13 12 4 3 3-4 3-4 0</td></tr><tr><td>S1 cd cd ce e CS CS S1 S2 c CT CS1 ce CT</td><td>100 100 100</td><td>110 110 110</td><td>111 111 111</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/b80971856bcbe4627642ebf91cc1819700deaf738fe6ead5e9edfd28f279ff3a.jpg",
+        "table_caption": [
+            "Table 7: The coefficients in the one-loop yukawa couplings in case $M _ { Z } < \\mu < M _ { 1 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>E</td><td>[Mz,M1]</td><td>[M1,M2]</td><td>[M2,Ms]</td></tr><tr><td>cd Ci</td><td>17 3 83 4 1 3 8 12 4 3 3-4 3-4 0</td><td>17 3 83 60 4 1 3 8 12 4 3 3-4 3-4 0</td><td>17 3 83 60 4 1 3 8 12 4 3 3-4 3-4 0</td></tr><tr><td>s ce S CS2</td><td>100 100 100</td><td>110 110 110</td><td>111 111 111</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[24] Makoto Miura [Super-Kamiokande Collab.],ICHEP2010. Y. Suzuki et al. [TITAND Working Group Collaboration], hep-ex/O110005. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[25] J. Hisano, D. Kobayashi, T. Kuwahara and N. Nagata, JHEP 1307, O38 (2013) [arXiv:1304.3651 [hep-ph]; J. Hisano, T. Kuwahara and N. Nagata, Phys.Lett.B 723,324 (2013) [arXiv:1304.0343 [hep-ph]].   \n[26] S. Aoki et al. [JLQCD Collaboration], Phys. Rev. D 62, 014506 (2000).   \n[27] P.Gondolo et al., JCAP 07 (2004) 008. The code is available from http://www.physto.se/ edsjo/darksusy.   \n[28] Fei Wang,Wenyu Wang, Jin Min Yang,Eur. Phys. J. C46:521-526(2006).   \n[29] G.Altarelli and R.Barbieri, Phys. Lett.B 253,161(1991); M. E.Peskin,T. Takeuchi,Phys. Rev. D 46,381 (1992).   \n[30] LEP and SLD Collaborations,Phys.Rept.427(2006) 257.   \n[31] J. Cao and J. M. Yang, JHEP 0812,006 (2008).   \n[32] M. Binger,Phys. Rev. D73, 095001 (2006).   \n[33]U. Ellwanger et al., JHEP 0502, 066 (2005).   \n[34] A. Djouadi and M. Drees, Phys. Lett. B 484,183 (2000); G. Belanger et al., Comput. Phys. Commun. 180,747 (2009).   \n[35] M. S. Carena et al., Nucl. Phys. B 577,88 (2000).   \n[36] J. Hisano, K. Ishiwata and N. Nagata, arXiv:1007.2601 [hep-ph].   \n[37] H.Ohki et al.， Phys. Rev. D 78,054502 (2008); D. Toussaint and W. Freeman， Phys. Rev. Lett.103,122002 (2009); J. Giedt, A. W. Thomas and R. D. Young， Phys. Rev. Lett. 103, 201802 (2009).   \n[38] D.S. Akerib et al. [LUX Collaboration],arXiv:1310.8214 [astro-ph.CO].   \n[39] J.Beringer et al. (Particle Data Group),Phys.Rev.D86, O10001 (2012)   \n[40] Giuseppe Degrassi, Stefano Di Vita, Joan Elias-Miro, Jose R. Espinosa, Gian F. Giudice, Gino Isidori,Alessandro Strumia,JHEP1208(2012)098.   \n[41] Pier Paolo Giardino,Paolo Lodone, Mod. Phys. Lett.A, Vol. 29, No.19 (2014) 1450099. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

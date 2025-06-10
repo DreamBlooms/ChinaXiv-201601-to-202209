@@ -1,0 +1,609 @@
+[
+    {
+        "type": "text",
+        "text": "Response of the temperature of cold-point-mesopause to solar activity based on SABER dataset ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chaoli Tang123，Dong Liut2，Heli Wei12，Yingjian Wang12，Congming Dai',，Pengfei ${ \\mathrm { W } } { \\mathrm { u } } ^ { 1 }$ Wenyue Zhu', Ruizhong Rao1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Key Laboratory of Atmospheric Composition and Optical Radiation， Anhui Institute of Optics and Fine Mechanics, Chinese Academy of Sciences,Hefei 230031, China; 2University of Science and Technology of China, Hefei 230026, China; 3Anhui University of Science and Technology, Huainan 232001, China; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Points ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The global response of temperature of cold-point-mesopause to solar activity is $4 . 8 9 { \\pm } 0 . 6 7$ K/100SFU Temperature of cold-point-mesopause and its solar response increases gradually with increasing latitude   \nLatitudinal distribution of correlation coefficients of annual-mean series between solar flux and temperature of mesopause takes on M-shape ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The thermal structure and energy balance of upper atmosphere are dominated by solar activity. The response of Cold-Point-Mesopause(CPM) to solar activity is an important form. This article presents the response of Temperature-of-CPM(T-CPM) to solar activity using fourteen-year SABER data series over $8 0 ^ { \\circ } \\mathrm { S } { - } 8 0 ^ { \\circ } \\mathrm { N }$ regions. These regions are divided into 16 latitude zones with $1 0 ^ { \\circ }$ interval, and the spatial areas of $8 0 ^ { \\circ } \\mathrm { S } .$ 一 $\\cdot 8 0 ^ { \\circ } \\mathrm { N } , 1 8 0 ^ { \\circ } \\mathrm { W } .$ 一 $1 8 0 ^ { \\circ } \\mathrm { E }$ are divided into 96 lattices with $1 0 ^ { \\circ }$ (latitude) $\\times 6 0 ^ { \\circ }$ (longitude) grid. The annual-mean values of T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ are calculated. The least squares regression method and correlation analysis are applied to these annual-mean series.First, the results show that the global T-CPM is significantly correlated to solar activity at the 0.O5 level of significance with correlation coefficient of 0.90.The global solar response of T-CPM is $4 . 8 9 { \\pm } 0 . 6 7 \\mathrm { K } / 1 0 0$ Solar-Flux-Units(SFU). Then, for each latitude Zone, the solar response of T-CPM and its fluctuation are obtained. The solar response of T-CPM becomes stronger with increasing latitude. The fluctuation ranges of solar response at middle latitude regions are smaller than those of equator and high latitude regions,and the global distribution takes on W-shape. The co-relationship analysis shows that the T-CPM is significantly correlated to solar activity at the O.05 level of significance for each latitude zone. The correlation coefficients at middle latitude regions are higher than those of equator and high latitude regions,and the global distribution takes on M-shape.At last, for each grid cell, the response of T-CPM to solar activity and their correlation coefficient are presented. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Index Terms and Keywords ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cold-point mesopause, Solar activity, Solar cycle, Solar response, TIMED/SABER ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The energy balance of upper atmosphere of earth is greatly affected by solar radiation. The most energetic solar photons at ultraviolet (UV) and shorted wavelengths are removed at various levels in the atmosphere，and the earth's surface re-emits the absorbed energy at long wavelength. So many energy source and sinks processes are occurred at upper atmosphere, and its thermal structure is greatly impacted by the abundance of solar energy striking the Earth from a constantly changing sun. Variations arising on decadal and even longer timescales may play a significant role in long-term trend estimates. One of the major sources of decadal variability in the upper atmosphere is the 11-year solar activity cycle. Electromagnetic radiation from the Sun is not constant and varies mainly at shorter ultraviolet wavelengths on different timescales. Incoming solar radiation provides the external forcing for the Earth-atmosphere system. While the total solar flux is quite constant, the UV spectral irradiance on the timescale of the 27-d and 11-year solar cycles exhibits the largest changes,up to a factor of 2 over a solar cycle for the solar Lyman alpha flux [Beig et al., 2Oo8]. The thermal structure and energy balance of upper atmosphere are dominated by solar activity cycle. The response of the cold-point-mesopause to solar activity variations is an important form. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Cold-Point-Mesopause (CPM)， defined as the region where kinetic temperature is minimum, separates the mesosphere from the thermosphere, in which the transport and exchange of energy occur through subtle and complex processes [Beig et al., 2003]. Temperature is the most important parameter for characterizing this transition from the mesosphere to the thermosphere， and the variation of temperature may be related with the solar activities. Temperature-of-CPM(T-CPM) and Height-of-CPM (H-CPM) are established by radiative, chemical and dynamical processes,and also display large variability due to internal gravity waves and tides [Xu et al., 2007; John et al., 2011]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Solar energy is the original source of all these complex atmospheric processes. Hence, the investigations of the changes in solar UV spectral irradiance on timescales of the 27-day and 11- year solar cycles have been studied by many researchers. She et al. [2Oo9] investigated solar cycle effect and temperature trends in mesopause region on the basis of 894 nights of Na lidar observation obtained during the period 1990-2007 over Fort Collins $( 4 1 ^ { \\circ } \\mathrm { N } , 1 0 5 ^ { \\circ } \\mathrm { W } )$ . Offermann et al.[2o10] analyzed the response of temperature to solar activity about ${ \\sim } 8 7 \\mathrm { k m }$ on the basis of OH airglow measurements obtained during the period 1988-2008 over Wuppertal station $( 5 1 ^ { \\circ } \\mathrm { N }$ 0 $7 ^ { \\circ } \\mathrm { E }$ ). Ammosova et al. [2012] investigated temperature data on the basis of spectral observations of the mesopause emissions on Maymaga station ( $6 3 ^ { \\circ } \\mathrm { N }$ ， $1 2 9 ^ { \\circ } \\mathrm { E }$ ） during the 2000-2011 years seasonal dependence of the response received radiation temperatures of OH (6,2) (height of the radiation $8 7 \\mathrm { k m } \\dot { }$ ) from the solar activity. Savigny et al. [2012] studied the sensitivity of equatorial mesopause temperatures to the 27-day solar forcing using night-time observations of OH(3-1) rotational temperatures with SCIAMACHY (SCanning Imaging Absorption spectroMeter for Atmospheric CHartographY) on Envisat. Ammosov et al. [2014] analyzed the measurements of rotational temperature of the hydroxyl near the mesopause region at Maimaga station $( 6 3 . 0 4 ^ { \\circ } \\mathrm { N } ,$ $1 2 9 . 5 1 ^ { \\circ } \\mathrm { E }$ ）for the period from August 1999 to March 2O13 in search for solar activity effects and temperature trends. However， the above literatures mainly reported some separate local mesopause region through analyzing temperature data obtained by ground-based remote sensing. The ground-based remote sensing, such as lidar measurements or OH airglow measurements, can only observe a small portion of the upper atmosphere located over an observation site. So, the ground-based remote sensing was based on separate local sites with a limited number of observation days,and failed to give continuous observations on global scale. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Satellite remote sensing, such as HALOE observations or SABER observations, is the most efficient method to obtain the atmosphere parameters for investigating the global scale effects of solar variability on temperature in the upper atmosphere. Remsberg [2O09] reported solar cycle effects in temperature versus altitude from the Halogen Occultation Experiment (HALOE) for the mesosphere. Oindrila and Sridharan [2014] investigated the long-term variabilities and trends of middle atmospheric temperature and their responses towards quasi-biennial oscillation(QBO), solar cycle and ElNino-southern oscillation(ENSO), extending $2 0 { \\mathrm { - } } 1 0 0 \\ \\mathrm { k m }$ altitude and $1 0 { - } 1 5 ^ { \\circ } \\mathrm { N }$ latitude using SABER observations for the years 2002-2012. Forbes et al. [2014] investigated a response of the middle atmosphere at various heights on change of solar activity using SABER temperature data during 2002-2013 and covering $2 0 { \\mathrm { - } } 1 1 0 \\ \\mathrm { k m }$ altitude.Ramesh et al. [2015] studied the solar cycle variabilities of tropical ( $( 1 0 ^ { \\circ } \\mathrm { N } - 1 5 ^ { \\circ } \\mathrm { N } )$ mesopause temperature structure through analyzing SABER observations during 2002-2012. Detailed reviews of this subject were made by Beig et al.[2O08] and Beig [2011]. However, the global distribution of the response of T-CPM (at mesopause actually) to solar activity, which was obtained using same data source with coverage of at least one complete solar cycle，was not reported. In our work, the close connection of T-CPM with the level of solar activity is statistically presented on the basis of large volume of data, and the nonuniform latitudinal and longitudinal distribution of the response of T-CPM to solar activity is shown. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Sounding of the Atmosphere using Broadband Emission Radiometry (SABER) is one of four instruments on NASA's TIMED (Thermosphere Ionosphere Mesosphere Energetics ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Dynamics) satelite launched in December 2O01. The primary goal of the SABER experiment is to provide the data needed to advance our understanding of the fundamental processes governing the energetics,chemistry, dynamics,and transport in the mesosphere and lower thermosphere. The latitudinal coverage of SABER observations is either $8 3 ^ { \\circ } \\mathrm { N }$ to $5 2 ^ { \\circ } \\mathrm { S }$ or $8 3 ^ { \\circ } \\mathrm { S }$ to $5 2 \\mathrm { ^ \\circ N }$ （204号 depending on the yaw cycles, and it makes ${ \\sim } 1 5$ orbits per day with a period of ${ \\sim } 1 . 6$ hour. The SABER scans the atmosphere from the troposphere of the Earth up to lower thermosphere once in every ${ \\sim } 5 8 \\mathrm { s }$ , and obtains vertical profiles of kinetic temperature, geopotential height and other parameters [Russell et al.,1999; Mertens et al., 2001,2003; Remsberg et al, 2003]. The SABER observations offer sufficiently good quality dataset, and have larger scope and much longer records than OH airglow measurements and lidar measurements. Thus, SABER observations are optimal data source for investigating the global scale long-term temperature response to solar activity. According to the characteristics of SABER observations, for the convenience of division of latitude zones and analysis, we will present the response of T-CPM to solar activity and their correlation coefficient globally from $8 0 ^ { \\circ } \\mathrm { S }$ to $8 0 ^ { \\circ } \\mathrm { N }$ based on 2002-2015 SABER temperature products in this paper. The solar activities are presented with the $1 0 . 7 \\mathrm { c m }$ solar radio flux $\\left( \\mathrm { F } _ { 1 0 . 7 } \\right)$ （204号 dataset. The results are restricted to nighttime situation to minimize the impact of fluctuations caused by the propagation of internal gravity waves and tides. In section 2, the data and methodologies used in the investigation will be introduced. The results of the response of TCPM to solar activity willbe shown in section 3,and a brief discussion and conclusions will be given in last section. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 Data and Methodologies ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 Data source ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The atmospheric temperature profiles we used in this investigation are SABER version 2.0(V2.0) Level 2A dataset, which lasts from 2002.1.25 up to now. The V2.0 products were available to public in November 2012. Compared to prior versions, the V2.0 production retrieval algorithm has many substantial improvements. These improvements significantly impact all parameters. More details on retrieval algorithm and data quality assessment can be obtained from Mertens et al.[2003]，Remsberg et al. [2003，2008] and the website: htp://saber.gatsinc.com/V107vsV2.php. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $1 0 . 7 \\mathrm { c m }$ solar radio flux $\\left( \\mathrm { F } _ { 1 0 . 7 } \\right)$ , which varies with solar cycle, is often taken as an index of solar activity [e.g. Gray et al., 2010; Beig, 2011; Ammosova et al., 2012; Ammosov et al., 2014; Ramesh et al., 2015]. The daily data of $\\mathrm { F } _ { 1 0 . 7 }$ adjusted for an arbitrary unit (1 A.U.) is used to analyze the response of T-CPM to solar activity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 The methodology for CPM data quality control processing ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Through processing 14 years (14yr) temperature profiles data of SABER observations from 2002 to 2015,the T-CPM is firstly identified for each temperature profile based on the definition of CPM. The H-CPM is corresponding height for the T-CPM. Owing to some incorrect CPMs in the temperature profiles, it is necessary to preprocess the profiles by carrying out quality control for T-CPM. For all the 4,495,286 temperature profiles with any valid nighttime event reports in level 2A dataset of the SABER version 2.0 during 2002 to 2015,the following three steps are carried out for each temperature profile. Firstly， the temperature profile with the maximum height lower than $9 0 ~ \\mathrm { k m }$ ，which cannot give an effective judge for T-CPM and H-CPM,is ignored. Secondly, the temperature profile is ignored when height of the temperature profile does not rise above the H-CPM for it is an ineffective record,as the circle symbol shown in Fig.la. Finally，the circle symbol shown in Fig.1b is considered as an effective CPM，and the corresponding effective temperature，height, date，latitude and longitude are saved for the following analysis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) -CPM Ignore the tem perature pro file (b） 112 0 does not rise above H-CPM 112- H-CPM 102 102- s 1 92 92 ? 82- H-CPM L 44 82 CPM An efreatire PMmle   \nuy 72 公 4 (rriat 72   \n)trt 62 62 茶 52 the100theventin75361orbit 52 the 40theventin76214orbit 42 at2015-11-4nighttime 42 at2015-12-31nig htim e 32 32 T-CPM 22- 22- T-CPM 12- 12 ↑ ★★★★★ 160 180 200 220 240 260 150 170 190 210 230 250 270 Temperature（K） Temperature( K） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2a shows the distribution of amount of global available temperature profiles for each year from 2002 to 2015 in level 2A dataset of the SABER version 2.0. The original data are shown in hollow hexagon, and the effective data after CPM quality control are shown in solid circle. After the quality control of CPM, the total amount of global available temperature profiles of T-CPM decreases from the original 4,495,286 to 4,492,664.A total of 2622 temperature profiles are removed in the outside of CPM quality control for T-CPM, and approximately 99.94 percent of 4,495,286 profiles are effective values.Also found in Fig.2a, due to SABER observations lack of data during 2002.1.1 to 2002.1.24, the amount of temperature profiles of TCPM in 20O2 is about 1/14 less than that of other years. In order to match with the satellite data series, the daily data of $\\mathrm { F } _ { 1 0 . 7 }$ during 2002.1.1 to 2002.1.24 are also removed out. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2b shows the distribution of 4,492,664 temperature profiles of T-CPM for each integer latitude interval between the latitudes of about $8 3 ^ { \\circ } \\mathrm { S }$ to $8 3 ^ { \\circ } \\mathrm { N }$ .From the solid circle symbol shown in Fig.2b, we can find that, between $5 2 ^ { \\circ } \\mathrm { S }$ and $5 2 ^ { \\circ } \\mathrm { N }$ ,the amount of profiles of T-CPM are more than 2500O for each integer latitude interval, and the amount of profiles of T-CPM are more than 10000 between $5 2 \\mathrm { ^ \\circ N }$ and $8 3 ^ { \\circ } \\mathrm { N }$ or between ${ 5 2 ^ { \\circ } \\mathrm { S } }$ and $8 3 ^ { \\circ } \\mathrm { S }$ . The uneven distribution of temperature profiles accords with the latitudinal coverage of SABER observations which is either $8 3 ^ { \\circ } \\mathrm { N }$ to $5 2 ^ { \\circ } \\mathrm { S }$ or $8 3 ^ { \\circ } \\mathrm { S }$ to $5 2 \\mathrm { ^ \\circ N }$ depending on the yaw cycles. Latitudinal coverage varies with time because SABER performs a yaw maneuver approximately every 60 days, so only the latitude range from ${ 5 2 ^ { \\circ } \\mathrm { S } }$ to ${ 5 2 ^ { \\circ } \\mathrm { N } }$ is continuously covered by SABER observations.Based on above analysis, in order to avoid the yaw cycles impact on the solar response of T-CPM, we only analyze the annual-mean response of T-CPM to solar activity and their correlation coefficient, and the global annual-mean of T-CPM is calculated by averaging latitude zones mean values in this study. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e32375eb292196e5f7b4aa23a087ce7ce879f781481a834671b5964eb33baa3b.jpg",
+        "img_caption": [
+            "Figure 2.Distribution of global available profiles of T-CPM. (a) Amount of total temperature profiles of TCPM for each year before CPM quality control (hollow hexagon) and after CPM quality control (solid circle); (b) Distribution of 4,492,664 profiles of T-CPM for each integer latitude interval after CPM quality control "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "At last, during the period from 2002 to 2015, the total number of 4,302,764 temperature profiles are adopted in the following investigations over $8 0 ^ { \\circ } \\mathrm { S } { - } 8 0 ^ { \\circ } \\mathrm { N }$ latitude region,which is about 45 times of the amount of HALOE temperature profiles reported in the literature [Remsberg,E.E.,2009]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 The methodologies for CPM data analyzing ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We divide the latitude regions from $8 0 ^ { \\circ } \\mathrm { S }$ to $8 0 ^ { \\circ } \\mathrm { N }$ into 16 latitude zones with the interval of $1 0 ^ { \\circ }$ . The annual-mean of T-CPM for each latitude zone is calculated by the T-CPM of all temperature profiles within the latitude zone. For the investigations of the spatial (latitudelongitude) distribution of response of T-CPM to solar activity and their correlation coefficient, wedivide theareasof $8 0 ^ { \\circ } \\mathrm { S } .$ $. 8 0 ^ { \\circ } \\mathrm { N }$ ，180°W $\\cdot 1 8 0 ^ { \\circ } \\mathrm { E }$ into 96latticesusing $1 0 ^ { \\circ }$ (latitude) $\\times 6 0 ^ { \\circ }$ (longitude) grid to ensure each grid cell contains a sufficient number of CPM samples.The annual-mean of T-CPM for each grid cell is calculated by the T-CPM of all temperature profiles within the cell. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study, the global annual-mean of T-CPM is calculated by the corresponding average of 16 latitude zones, and the annual-mean of $\\mathrm { F } _ { 1 0 . 7 }$ is calculated by the daily data of $\\mathrm { F } _ { 1 0 . 7 }$ Using least squares method and linear regression analysis, we obtain the global solar response of TCPM and the fluctuation range of solar response. Through correlation analysis,we obtain the global correlation coefficient of annual-mean series values between $\\mathrm { F } _ { 1 0 . 7 }$ and T-CPM, and the global significance of correlation coefficient is tested with 12 degrees of freedom T-test. Then, for each latitude zone and each grid cell, the solar response of T-CPM and its fluctuation are analyzed by the least squares regression method，and the corresponding significance of correlation coefficient is also tested with 12 degrees of freedom T-test. The spatial distribution characteristics of solar response of T-CPM and their solar cycle dependence are obtained. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1. Global response of T-CPM to solar activity and their correlation coefficient ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to reduce the noises and increase the statistical significance,the global annualmean of T-CPM is calculated by the corresponding average of 16 latitude zones.By using least squares method and linear regression analysis, the scatter plot of T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ is shown in Fig.3a, the global solar response of T-CPM and the fluctuation range of solar response are obtained.From Fig.3a, we can find that the T-CPM varies almost linearly with the solar flux $\\mathrm { F } _ { 1 0 . 7 }$ . The global solar response of T-CPM is $4 . 8 9 { \\pm } 0 . 6 7 \\mathrm { K } / 1 0 0 \\mathrm { S F U } .$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Through the calculation of correlation coefficient, we analyze the dependence relation of fourteen-year time series average between T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ ，as shown in Fig.3b,and the correlation coefficient is O.90. Since the probability density function of sample correlation coefficient obeys the T-distribution [Mises et al.，1964]， the significance of correlation coeficient will be tested with 12 degrees of freedom T-test in this paper. By calculation, the critical value of correlation coefficient is O.53 at the O.O5 level of significance. The corelationship analysis shows that the global annual-mean of T-CPM is significantly correlated to the solar activity at the 0.05 level of significance during 2Oo2-2015. Solar variations are the dominant influence on the upper atmospheric temperature structure. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e906cde945a1ec2687f546fb7829e110c4a0cf77649006e6fd0ffbf349c8431.jpg",
+        "img_caption": [
+            "Figure 3.The scater plot and the annual-mean of T-CPM and solar flux index during 2O02-2015.(a) The scatter plot of T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ ; (b) The annual-mean of T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.3b clearly shows that there is a strong dependence of the T-CPM on the changes of solar activity. The T-CPM decreases from 2002 to the bottom at 2008,and then gradually increases to the top. The changes of T-CPM are closely with the changes of solar activity. It is commonly known that the solar activity has 11-year solar activity cycles. The annual-mean of T-CPM coincides with the solar 11-year-cycle changes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "One important mechanism of this dependency is that $\\mathrm { C O } _ { 2 }$ cooling is dominant during solar minimum, while NO cooling becomes more important during maximum [Qian et al. 2006]. The solar cycle dependence is due to the relative importance of $\\mathrm { C O } _ { 2 }$ infrared cooling and NO infrared cooling. NO density at solar maximum is about three times of that at solar minimum. Consequently, $\\mathrm { C O } _ { 2 }$ cooling is relatively less important at solar maximum [Qian et al. 2011]. SABER measurements revealed a decrease of the global NO cooling rate from 2002 to 2009 by nearly an order of magnitude，while the global $\\mathrm { C O } _ { 2 }$ cooling rate decreased only by $3 5 \\%$ [Mlynczak et al., 2010]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The T-CPM is determined by many factors under the radiative, chemical and dynamical processes. Because the sun is the original source of all these complex atmospheric processes, it is not surprising that the changes of the solar energy result in the variation of these processes, and make the changes of T-CPM. We find the changes of T-CPM depend closely on the changes of solar activities from the SABER observations over the global region. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "With the increasing of solar flux index $\\mathrm { F } _ { 1 0 . 7 }$ ，the solar UV photons increase, the production of ion pairs by photoionization $( \\Nu _ { 2 } , \\mathrm { O } _ { 2 } )$ and the production of atoms by molecular $\\left( \\mathrm { O } _ { 2 } \\right)$ （204号 photodissociation increase, thus, the abundance of O atoms vary with solar activities and in turn induce the changes in the thermal structure of the middle atmosphere thereby afecting the temperature-dependent reaction rates， long- and short-wave radiative heating. In the lower thermosphere, thermal collisions with O atoms provide the principal excitation process, so the temperature varies with the variation of solar activity. These may explain the reasons that the TCPM varies with the solar activities. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The global annual-mean of H-CPM is also calculated by the corresponding average of 16 latitude zones,as shown in Fig.4.The annual-mean of H-CPM serves as the location reference of solar response of T-CPM. The variation of annual-mean of H-CPM is small， it is around $9 5 . 4 \\pm 0 . 4 \\mathrm { k m }$ , it has negative dependence with the solar cycle with the correlation coefficient of -0.78. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/67d04c3a564c233e8e715b274f8bf89593ec267c3554a102c0c38f14550825bf.jpg",
+        "img_caption": [
+            "Figure 4.The annual-mean ofH-CPM during 20o2-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.Latitudinal distribution of the response of T-CPM to solar activity and their correlation coefficient ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to study the latitudinal distribution of the response of T-CPM to solar activity and their correlation coeficient, the annual-mean of T-CPM for each latitude zone is calculated by the T-CPM of all temperature profiles within the latitude zone. By using least squares method and linear regression analysis,the latitudinal distribution of the solar response of T-CPM and the fluctuation range of solar response are obtained. Fig.5a shows the solar response of T-CPM and the fluctuation range of solar response with every $1 0 ^ { \\circ }$ interval. From Fig.5a, we can see that the latitudinal distribution characteristics of the solar response of T-CPM are remarkable. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae6671404e5416d194b2db9e715cbfc3786a6eddf74391fb47f286b8ae46d5ee.jpg",
+        "img_caption": [
+            "Figure 5. Latitudinal distribution of solar response and solar cycle dependence with every $1 0 ^ { \\circ }$ interval. (a) Latitudinal distribution of solar response of T-CPM,and the vertical bars show the fluctuation range of solar response; (b) Latitudinal distribution of correlation coefficients between T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ （20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the northern hemisphere, the solar response of T-CPM increases gradually from low latitude zone to high latitude zone with the solar response values vary from the minimum $2 . 7 8 { \\pm } 0 . 6 9 \\ \\mathrm { K } / 1 0 0 \\mathrm { S F U }$ in $0 ^ { \\circ } \\mathrm { N - } 1 0 ^ { \\circ } \\mathrm { N }$ latitude zone to the maximum $7 . 2 1 { \\pm } 1 . 8 5 \\ \\mathrm { K } / 1 0 0 \\mathrm { S F U }$ in $7 0 ^ { \\circ } \\mathrm { N \\_ }$ latitude zone. The fluctuation range of solar response increases gradually from $2 0 ^ { \\circ } \\mathrm { N } \\mathrm { - } 3 0 ^ { \\circ } \\mathrm { N }$ latitude zone to high latitude zone with the fluctuation values vary from $\\pm 0 . 3 5$ K/100SFU in $2 0 ^ { \\circ } \\mathrm { N } \\mathrm { - } 3 0 ^ { \\circ } \\mathrm { N }$ latitude zone to $\\pm 1 . 8 5 \\mathrm { \\ K / 1 0 0 { S F U } }$ in $7 0 ^ { \\circ } \\mathrm { N \\_ }$ latitude zone,and in equator region, the fluctuation range of solar response decreases gradually from $0 ^ { \\circ } \\mathrm { N - } 1 0 ^ { \\circ } \\mathrm { N }$ （204号 latitude zone with $\\pm 0 . 6 9 \\mathrm { \\ K / 1 0 0 S F U }$ to $2 0 ^ { \\circ } \\mathrm { N } \\mathrm { - } 3 0 ^ { \\circ } \\mathrm { N }$ latitude zone with $\\pm 0 . 3 5 \\mathrm { \\ K / 1 0 0 S F U }$ . The smallest fluctuation of solar response with $\\pm 0 . 3 5 \\mathrm { \\ K / 1 0 0 { S F U } }$ occurs in $2 0 ^ { \\circ } \\mathrm { N } \\mathrm { - } 3 0 ^ { \\circ } \\mathrm { N }$ latitude zone,and the largest fluctuation of solar response with $\\pm 1 . 8 5 \\mathrm { K } / 1 0 0 \\mathrm { S F }$ U occurs in $7 0 ^ { \\circ } \\mathrm { N \\_ }$ latitude zone. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the southern hemisphere，except for $7 0 ^ { \\circ } \\mathrm { S }$ 一 ${ } . 8 0 ^ { \\circ } { \\mathrm { S } }$ latitude zone with $6 . 1 3 { \\pm } 1 . 2 1 \\$ K/100SFU, the solar response of T-CPM increases gradually from low latitude zone to high latitude zone with the solar response values vary from $2 . 8 2 { \\pm } 0 . 7 3 \\ \\mathrm { K } / 1 0 0 \\mathrm { S F U }$ in $0 ^ { \\circ } \\mathrm { S }$ 一 $\\mathrm { \\cdot 1 0 ^ { \\circ } S }$ latitude zone to $6 . 3 5 { \\scriptstyle \\pm 1 . 1 6 \\mathrm { \\ K / 1 0 0 S F U } }$ in $6 0 ^ { \\circ } \\mathrm { S }$ 一 ${ 7 0 ^ { \\circ } \\mathrm { S } }$ latitude zone. The minimum solar response with $2 . 8 2 { \\pm } 0 . 7 3 \\ \\mathrm { K } / 1 0 0 \\mathrm { S F U }$ occurs in equator latitude region $( 0 ^ { \\circ } \\mathrm { S } - 1 0 ^ { \\circ } \\mathrm { S } )$ ，and the maximum solar response with $6 . 3 5 { \\scriptstyle \\pm 1 . 1 6 ~ \\mathrm { K } } / 1 0 0 \\mathrm { S F U }$ occurs in $6 0 ^ { \\circ } \\mathrm { S }$ 一 ${ 7 0 ^ { \\circ } \\mathrm { S } }$ latitude zone. Except for $0 ^ { \\circ } \\mathrm { S }$ $1 0 ^ { \\circ } \\mathrm { S }$ latitude zone with $\\pm 0 . 7 3 \\mathrm { \\ K / 1 0 0 S F U }$ ，the fluctuation range of solar response increases gradually from low latitude zone to high latitude zone with the fluctuation values vary from $\\pm 0 . 4 2 \\mathrm { K } / 1 0 0 \\mathrm { S F }$ Uin $1 0 ^ { \\circ } \\mathrm { S } .$ 一 ${ } ^ { 2 0 ^ { \\circ } \\mathrm { S } }$ latitude zone to $\\pm 1 . 2 1 \\mathrm { { K } / 1 0 0 \\mathrm { { S F U } } }$ in $7 0 ^ { \\circ } \\mathrm { S }$ 一 ${ \\mathrm { 8 0 ^ { \\circ } S } }$ latitude zone. The smallest fluctuation of solar response with $\\pm 0 . 4 2 \\mathrm { \\ K / 1 0 0 { S F U } }$ occurs in $1 0 ^ { \\circ } \\mathrm { S } \\mathrm { - } 2 0 ^ { \\circ } \\mathrm { S }$ latitude zone,and the largest fluctuation of solar response with $\\pm 1 . 2 1 \\ \\mathrm { K } / 1 0 0 \\mathrm { S F U }$ occurs in $7 0 ^ { \\circ } \\mathrm { S } \\mathrm { - } 8 0 ^ { \\circ } \\mathrm { S }$ latitude zone. Based on above analysis and combined with Fig.5a, it can be concluded that the fluctuation ranges of the solar response at middle latitude regions are remarkable smaller than those of equator and high latitude regions,and the solar response fluctuation with latitude at the global scale takes on W-shape. The phenomenon was not reported before. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "By using correlation analysis,we obtain the correlation coefficients of annual-mean series between $\\mathrm { F } _ { 1 0 . 7 }$ and T-CPM for 16 latitude zones,as shown in Fig.5b. The correlation coefficients also show obviously latitudinal distribution characteristics.The correlation coefficients at middle latitude regions are higher than those of equator and high latitude regions,and the correlation coefficients with latitude at the global scale take on M-shape. The phenomenon was also not reported before.Due to the correlation coefficient of each latitude zone greater than 0.53,the corelationship analysis shows that the annual-mean of T-CPM is significantly correlated to the solar activity at the O.O5 level of significance for each latitude zone. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Based on above analysis and combined with Fig.5,it can be concluded that the correlation coeffcient depends on the corresponding fluctuation range of solar response. The lower the correlation coefficient, the larger the fluctuation amplitude. The phenomenon that the larger fluctuation and lower correlation coefficient at the equator and high latitude zones might display that the variation of temperature at the mesopause atmosphere is more active at the equator and high latitude zones. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To interpret the reliability of above results, we count the number of CPM samples at each latitude zone. Fig.6 shows the distribution of global available CPM samples for each latitude Zone.From Fig.6,we can see that each latitude zone contains a sufficient number of CPM samples,and the amount of CPM samples is more than $1 0 ^ { 5 }$ for each latitude zone.Thus,the number of CPM samples is enough large to account the statistics credible for the solar response of T-CPM over the global zones. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/a24c024961971a2233465d0c17a5d231085802e21d0b115677628101d3bed145.jpg",
+        "img_caption": [
+            "Figure 6.Latitudinal distribution of 4,3O2,764 temperature profiles with every $1 0 ^ { \\circ }$ interval "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.7a shows the latitudinal distribution of 14yr average of T-CPM for each latitude zone, and the 14yr average of T-CPM is calculated by the T-CPM of alltemperature profiles within the latitude zone during 2002-2015,and the corresponding H-CPM is shown in Fig.7b. The 14yr average of H-CPM serves as the location reference of solar response of T-CPM for each latitude Zone. From Fig.7a, we can see that the latitudinal distribution characteristics of T-CPM are obviously,and the T-CPM increases gradually from the equator to both sides to high latitude Zones.It is known that the behavior of a seasonal mesopause of high latitudes has a 2-level structure: mesopause drops to ${ \\sim } 8 5 ~ \\mathrm { k m }$ and cools down to $1 3 0 { - } 1 4 0 \\mathrm { ~ K ~ }$ in summer.Due to the latitude zones contain uneven amount of CPM samples shown in Fig.6, and there is no CPM samples for some nights at polar latitude zones in summer, the 14yr average of T-CPM and HCPM may be lower for high latitude zones above 6O degrees. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e4075849bc629af7298bc372b071842873e6eb6f60e9cf45c2823f0175fa364.jpg",
+        "img_caption": [
+            "Figure 7.Latitudinal distribution of 14yr-average for T-CPM and H-CPM with every $1 0 ^ { \\circ }$ interval.(a) Latitudinal distribution of 14yr average of T-CPM; (b) Latitudinal distribution of 14yr average of H-CPM "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3.Spatial distribution of the response of T-CPM to solar activity and their correlation coefficient ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this section, we will focus on the spatial (latitude-longitude) distribution of the response of T-CPM to solar activity and their correlation coefficient for each grid cell.The annual-mean of T-CPM for each grid cell is calculated by the T-CPM of al temperature profiles within the grid cell. Using least squares regression method, the solar response of T-CPM is obtained for each grid cell. Through correlation analysis, we obtain the correlation coefficient of annual-mean series between $\\mathrm { F } _ { 1 0 . 7 }$ and T-CPM, and then the significance of correlation coefficient is tested with 12 degrees of freedom T-test for each grid cell. Fig.8a shows the spatial distribution of solar response of T-CPM,and Fig.8b shows the spatial distribution of correlation coefficients of annual-mean series between T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ during 2002-2015. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4b159bf19601b7ba8045578002ce0b9bfafdd3f46285a050b9cdc94ee815797.jpg",
+        "img_caption": [
+            "Figure 8.Maps of the solar response and solar cycle dependence.(a) Spatial distribution of the solar response of TCPM,and contour interval is 1 K/10oSFU; (b) Spatialdistributionof thecorrelation coeficients between T-CPM and $\\mathrm { F } _ { 1 0 . 7 } ,$ ,and contour interval is 0.05 above 0.53 "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.8a, the solar response of T-CPM shows obviously spatial distribution characteristics，and the variation amplitude of the solar response of T-CPM vary from 2.12 K/100SFU to $8 . 1 8 ~ \\mathrm { K } / 1 0 0 \\mathrm { S F U }$ . The minimum solar response of T-CPM with 2.12 K/100SFU occurs in the grid cell which is located at $0 ^ { \\circ } \\mathrm { N } { \\longrightarrow } 1 0 ^ { \\circ } \\mathrm { N } , 0 ^ { \\circ } \\mathrm { E } { \\longrightarrow } 6 0 ^ { \\circ } \\mathrm { E }$ region，as the black star symbol shown. The maximum solar response of T-CPM with 8.18 K/10oSFU occurs in the grid cell which is located at $7 0 ^ { \\circ } \\mathrm { N } { \\longrightarrow } 8 0 ^ { \\circ } \\mathrm { N } , 6 0 ^ { \\circ } \\mathrm { W } { \\longrightarrow } 1 2 0 ^ { \\circ } \\mathrm { W }$ region, as the black triangle symbol shown. Under the same longitude zone with every $6 0 ^ { \\circ }$ interval, on the whole, the change gradient of the solar response of T-CPM increases gradually from the equator to both sides to high latitude regions except for some individual grid cells. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.8b, the correlation coefficients also show obviously spatial distribution characteristics,and the variation amplitude of correlation coefficients between T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ （20 vary from 0.51 to 0.95. The minimum solar cycle dependence with the correlation coefficient of 0.51 occurs in the grid cell which is located at $0 ^ { \\circ } \\mathrm { N } { \\longrightarrow } 1 0 ^ { \\circ } \\mathrm { N } , 0 ^ { \\circ } \\mathrm { E } { \\longrightarrow } 6 0 ^ { \\circ } \\mathrm { E }$ region,as the black star symbol shown. The maximum solar cycle dependence with the correlation coefficient of 0.95 occurs in the grid cell which is located at $3 0 ^ { \\circ } \\mathrm { N } .$ 一 $4 0 ^ { \\circ } \\mathrm { N }$ ， $0 ^ { \\circ } \\mathrm { E }$ T ${ } ^ { 6 0 ^ { \\circ } \\mathrm { E } }$ region, as the black triangle symbol shown. For each grid, the significance of correlation coefficient is tested with 12 degrees of freedom T-test. Only one grid cell region,as the blue color shown in map, is not significantly correlated to the solar activity at the 0.O5 level of significance. The remaining ninety-five grid cells are significantly correlated to the solar activity at the 0.05 level of significance. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Also,both the solar response of T-CPM and their correlation coefficient show a litle longitudinal dependence, as can be seen in Fig.8. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Fig.9a shows the spatial distribution of 14yr average of T-CPM for each grid cel, and the 14yr average of T-CPM is calculated by the T-CPM of al temperature profiles within the grid cell during 2002-2015, and the corresponding H-CPM is shown in Fig.9b. The 14yr average of H-CPM serves as the location reference of solar response of T-CPM for each grid cell Same as Fig.7a,the T-CPM shows the remarkable latitudinal dependence,and has little longitudinal dependence. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d45d74d950fc873655d2cedb3a3c9a6a4f411d479122dfc0fe090c65d619d17.jpg",
+        "img_caption": [
+            "Figure 9.Maps of 14yr-average for T-CPMand H-CPM.(a) Spatial distribution of 14yr average of T-CPM,and contour interval is 2K; (b) Spatial distribution of 14yr average of H-CPM,and contour interval is $0 . 5 \\mathrm { k m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion and Conclusions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.1. Discussion ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "A wide scater of literatures have investigated the solar activity influence on upper atmosphere temperature [Remsberg, 2009; She et al., 2009; Offermann et al.,2010; Ammosova et al.,2012； Savigny et al., 2012; Ammosov et al.，2014; Forbes et al., 2014; Oindrila and Sridharan, 2014; Ramesh et al.,2015]. Beig et al. [2008] and Beig [2011] provided a compilation of the existing studies quantifying the sensitivity of middle atmospheric temperatures to solar activity in terms of the 11-year solar activity cycle, the majority estimations lie in the range from 0 to $1 0 ~ \\mathrm { K } / 1 0 0$ SFU in mesopause region. We process a large array of data, and the results show that there is a strong dependence of the temperature of cold-point-mesopause and its latitudinal distribution from changes in solar activity. Our results,for northern and southern hemisphere that refer to heights around $9 5 ~ \\mathrm { k m }$ ，coincide with most of the conclusions obtained by different observations separated by several decades. However, the magnitude of solar response reported by different authors is found to be a little different compared to our results. Some of the differences in temperature response to solar activity in the mesopause region are understandable. The differences may be attributed to the fact that ground-based remote sensing (such as lidar measurements and OH airglow measurements) results were averages of measurements obtained over several nightime hours，whereas the HALOE results were strictly based on the data obtained for sunrise and sunset time only,and the HALOE observations were intermitent, as shown from the website: http://aloe.gats-inc.com/coverage/index.php. The differences， the magnitude of solar response of T-CPM reported by other researchers compared to our results, may be due to the height difference since the solar temperature response increases with altitude from the middle mesosphere into the lower thermosphere [Forbes et al., 2014]. The differences may also be due to decadal or solar cycle effect in the tidal forcing at tropics, where tidal amplitudes are large [Beig, 2011]. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Due to no more results in previous literatures, which were obtained using same data source with long-term data series, were available for the global scale mesopause region, the major challenge is in the interpretation of the latitudinal or longitudinal variability of the response of TCPM to solar activity. Our results show that the spatial distribution characteristics of the solar response are obviously. The spatial changes of the response of T-CPM to solar activity may be mainly caused by the changes in the spatial distribution of chemically active gases (such as ozone, NO, $\\mathrm { C O } _ { 2 }$ ， and O) and by changes in Solar UV irradiation. The spatial changes may also be related with the solar radiation intension or solar incidence angle in the difference mesopause region, as for the other reasons for the spatial changes are worthy of further investigations. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.2.Conclusions ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The first global distribution of the response of T-CPM to solar activity and their correlation coefcient are presented through analyzing temperature profiles of the level 2A dataset in the SABER version 2.0 from 2002 to 2015.The analyses include the latitudinal distribution, spatial distribution, the solar response of T-CPM and its fluctuation,and solar cycle dependence and its significance of correlation coefficient. The results show that there is a close connection of TCPM (at mesopause actually） with the level of solar activity,and there exists a nonuniform latitudinal and longitudinal distribution of the response of T-CPM to solar activity on the basis of large volume of data. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The 4,302,764 temperature profiles are applied for this period.By using the least squares method and linear regression analysis, the solar response of T-CPM and its fluctuation range are presented. The global solar response of T-CPM is $4 . 8 9 { \\pm } 0 . 6 7 \\ \\mathrm { K } / 1 0 0 \\mathrm { S F U }$ . The global T-CPM clearly follows the solar cycle,and the corresponding significance correlation coefficient is 0.90. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Through the analysis for the latitudinal distribution of the response of T-CPM to solar activity and its fluctuation,it is found that the latitudinal distribution characteristics of the solar response are obviously. The solar response of T-CPM increases gradually from the equator to both sides to high latitude zones except for one latitude zone $7 0 ^ { \\circ } \\mathrm { S } \\mathrm { - } 8 0 ^ { \\circ } \\mathrm { S } )$ ， and the fluctuation range of solar response increases gradually from low latitude zones to high latitude zones except for three latitude zones in tropic region over $1 0 ^ { \\circ } \\mathrm { S }$ 一 ${ \\cdot 2 0 ^ { \\circ } \\mathrm { N } }$ . The co-relationship analysis shows that the annual-mean of T-CPM is significantly correlated to the solar activity at the O.O5 level of significance for each latitude zone. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The following phenomena were not reported in previous literatures: the fluctuation ranges of solar response at middle latitude regions are remarkable smaller than those of equator and high latitude regions,and the solar response fluctuation with latitude at the global scale takes on W-shape.The correlation coeficients at middle latitude regions are higher than those of equator and high latitude regions,and the correlation coefficients with latitude at the global scale take on M-shape. The correlation coefficient and the corresponding fluctuation range of solar response are related values,and the lower the correlation coefficient, the larger the amplitude. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Through the analysis for the spatial distribution of the response of T-CPM to solar activity and their correlation coefficient for each grid cell, the nonuniform latitudinal and longitudinal distribution of the solar response of T-CPM is shown. The values of solar response of T-CPM vary from 2.12 K/100SFU at the equator region to $8 . 1 8 ~ \\mathrm { K } / 1 0 0 \\mathrm { S F U }$ at high latitude region. The minimum solar response of T-CPM with $2 . 1 2 \\mathrm { K } / 1 0 0 \\mathrm { S F U }$ occurs in the grid cell which is located at $0 ^ { \\circ } \\mathrm { N } { \\longrightarrow } 1 0 ^ { \\circ } \\mathrm { N } , 0 ^ { \\circ } \\mathrm { E } { \\longrightarrow } 6 0 ^ { \\circ } \\mathrm { E }$ region. The maximum solar response of T-CPM with 8.18 K/100SFU occurs in the grid cell which is located at $7 0 ^ { \\circ } \\mathrm { N \\_ } 8 0 ^ { \\circ } \\mathrm { N } ,$ $6 0 ^ { \\circ } \\mathrm { W } { \\mathrm { - } } 1 2 0 ^ { \\circ } \\mathrm { W }$ region. For each grid cell, the significance of correlation coefficient is tested with 12 degrees of freedom T-test. Only one grid cell region, with the correlation coefficient of 0.51, is not significantly correlated to the solar activity at the O.O5 level of significance;and the remaining ninety-five grid cells are significantly correlated to the solar activity at the O.O5 level of significance. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In summary, the present analysis has demonstrated that T-CPM is significantly sensitive to solar activity on the basis of large volume of data. T-CPM changes due to solar activity changes taken to bracket the assumed to be associated with the 11 year cycle are large. Our present results show that there is a relationship between solar activity and temperature structure in mesopause regions. These results demonstrate the potentially significant physical mechanism which may link the 11 year solar cycle and the dynamic state of the mesopause. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to the SABER scientific team for the permission to use the SABER data obtained from the website: ftp://saber.gats-inc.com/Version2_O/Level2A/. The solar flux data used in this study are obtained from the website: ftp:/ftp.geolab.nrcan.gc.ca/data/solar_flux/daily_flux_values/. This work is supported by the ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "National Natural Science Foundation of China (51104003, 41505023, 61077081). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We thank the editor,Dr. Alan Rodger,and two anonymous reviewers,whose insightful comments helped to improve this paper. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "References   \nAmmosov，P.，Gavrilyeva，G.，Ammosova，A.，Koltovskoi， I. (2014)，Response of the mesopause temperatures to solar activity over Yakutia in 1999-2013,Advances in Space Research, 54, 2518-2524,doi: 10.1016/j.asr.2014.06.007   \nAmmosova, A. M.; Ammosov, P.P. (2012), Seasonal variations of temperature and emission intensities of mesopause on variation of solar activity， Eighteenth International Symposium on: Atmospheric and Ocean Optics/Atmospheric Physics.， 8696, 86960S, doi: 10.1117/12.2008792.   \nBeig,G.; Keckhut,P.; Lowe,R. P., et al. (2O03), Review of mesospheric temperature trends, Rev. Geophys., 41(4),1015, doi:10.1029/2002RG000121.   \nBeig,G., J. Scheer, M. G. Mlynczak,and P. Keckhut (2008), Overview of the temperature response in the mesosphere and lower thermosphere to solar activity, Rev. Geophys., 46, RG3002, doi:10.1029/2007RG000236.   \nBeig, G. (2011), Long-term trends in the temperature of the mesosphere/lower thermosphere region: 2. Solar response, J. Geophys. Res., 116, A00H12, doi:10.1029/2011JA016766.   \nForbes,J. M., X. Zhang,and D.R. Marsh (2014), Solar cycle dependence of middle atmosphere temperatures, J. Geophys. Res. Atmos., 119, 9615-9625, doi:10.1002/2014JD021484.   \nGray，L. J.，et al. (2010)，Solar influences on climate，Rev.Geophys.， 48，RG4001, doi:10.1029/2009RG000282.   \nJohn，S.R.，and K. K. Kumar (2011)， TIMED/SABER observations of global cold point mesopause variability at diurnal and planetary wave scales, J. Geophys. Res.， 116, A06314, doi:10.1029/2010JA015945.   \nMertens, C. J.; Mlynczak, M. G.； Lopez-Puertas, M.; et al. (2001), Retrieval of mesospheric and lower thermospheric kinetic temperature from measurements of CO2 15-um Earth limb emission under non-LTE conditions, Geophys. Res.Lett.， 28(7):1391-1394. DOI: 10.1029/2000GL012189   \nMertens,C. J.； Mlynczak，M. G.； Lopez-Puertas，M.； et al. (2003)， Retrieval of kinetic temperature and carbon dioxide abundance from non-local thermodynamic equilibrium limb emission measurements made by the SABER experiment on the TIMED satellite, Proc.SPIE 4882， The International Society for Optical Engineering, v4882, p.162-171, doi: 10.1117/12.463358   \nMises,R. V.and Geiringer, H. (1964), Mathematical Theory of Probability and Statistics, New York: Academic Press.   \nMlynczak,M. G., et al. (201O), Observations of infrared radiative cooling in the thermosphere on daily to multiyear timescales from the TIMED/SABER instrument, J. Geophys. Res., 115,A03309, doi:10.1029/2009JA014713.   \nOffermann, D.,P.Hoffmann, P. Knieling,R. Koppmann, J. Oberheide,and W. Steinbrecht (2010)，Long-term trends and solar cycle variations of mesospheric temperature and dynamics, J. Geophys. Res., 115,D18127, doi:10.1029/2009JD013363.   \nQian, L., R. G. Roble, S. C. Solomon, and T. J. Kane (2006), Calculated and observed climate change in the thermosphere,and a prediction for solar cycle 24, Geophys. Res. Lett., 33, L23705, doi:10.1029/2006GL027185.   \nQian,L., J. Lastovicka, R. G. Roble, and S. C. Solomon (2011), Progress in observations and simulations of global change in the upper atmosphere, J. Geophys. Res., 116, A00H03, doi:10.1029/2010JA016317.   \nOindrila Nath， S.Sridharan (2014). Long-term variabilities and tendencies in zonal mean TIMED-SABER ozone and temperature in the middle atmosphere at $1 0 { - } 1 5 ^ { \\circ } \\mathrm { N }$ ， Journal of Atmospheric and Solar-Terrestrial Physics,120,1-8, DOI: 10.1016/j.jastp.2014.08.010.   \nRamesh, K., S. Sridharan, and S. Vijaya Bhaskara Rao (2O15), Influence of solar cycle and chemistry on tropical $( 1 0 ^ { \\circ } \\mathrm { N } \\mathrm { - } 1 5 ^ { \\circ } \\mathrm { N } )$ ） mesopause variabilities，J. Geophys. Res. Space Physics,120, doi:10.1002/2014JA020930.   \nRemsberg， E.， G. Lingenfelser, V. L. Harvey，W. Grose,J. Russell II，M. Mlynczak,L. Gordley，and B. T. Marshall (2O03)，On the verification of the quality of SABER temperature， geopotential height， and wind fields by comparison with Met Office assimilated analyses,J. Geophys. Res., 108(D20), 4628, doi:10.1029/2003JD003720.   \nRemsberg, E. E., et al. (2008), Assessment of the quality of the Version 1.07 temperatureversus-pressure profiles of the middle atmosphere from TIMED/SABER, J. Geophys. Res.,113,D17101, doi:10.1029/2008JD010013.   \nRemsberg, E. E. (2009), Trends and solar cycle effects in temperature versus altitude from the Halogen Occultation Experiment for the mesosphere and upper stratosphere, J. Geophys. Res.,114, D12303, doi:10.1029/2009JD011897.   \nRussell, J. M., II; Mlynczak, M. G.; Gordley, L. L.; et al, (1999), Overview of the SABER experiment and preliminary calibration results, Proc. SPIE 3756, Optical Spectroscopic Techniques and Instrumentation for Atmospheric and Space Research III, 277; doi:10.1117/12.366382.   \nSavigny, C. V; Eichmann, K. U., Robert, C. E. Burrows J. P., Weber, M. (2012), Sensitivity of equatorial mesopause temperatures to the 27-day solar cycle, Geophys. Res. Lett.， 39, L21804, doi:10.1029/2012GL053563.   \nShe, C. Y., D. A. Krueger, R. Akmaev, H. Schmidt, E. Talaat, and S. Yee (2009), Long-term variability in mesopause region temperatures over Fort Collins, Colorado $( 4 1 ^ { \\circ } \\mathrm { N } , 1 0 5 ^ { \\circ } \\mathrm { W } )$ （204号 based on lidar observations from 1990 through 2007, J. Atmos. Sol. Terr. Phys.，71, 1558-1564, doi:10.1016/j.jastp.2009.05.007.   \nXu, J., H.-L. Liu, W. Yuan, A. K. Smith, R. G. Roble, C. J. Mertens, J. M. Russell III, and M. G. Mlynczak (2007), Mesopause structure from Thermosphere, Ionosphere, Mesosphere, Energetics，and Dynamics (TIMED)/Sounding of the Atmosphere Using Broadband Emission Radiometry (SABER） observations，J. Geophys. Res.，112，D09102, doi:10.1029/2006JD007711. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Figure Captions ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 1. Examples of the CPM data quality control process. (a) The temperature profile is the 100th event in 75361 orbit at 2015-11-4 night; (b) The temperature profile is the 40th event in 76214 orbit at 2015-12-31 night ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 2. Distribution of global available profiles of T-CPM. (a) Amount of total temperature profiles of T-CPM for each year before CPM quality control (hollow hexagon) and after CPM quality control (solid circle); (b) Distribution of 4,492,664 profiles of T-CPM for each integer latitude interval after CPM quality control ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 3. The scatter plot and the annual-mean of T-CPM and solar flux index during 2002- 2015. (a) The scatter plot of T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ ; (b) The annual-mean of T-CPM and F10.7 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 4. The annual-mean of H-CPM during 2002-2015 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 5. Latitudinal distribution of solar response and solar cycle dependence with every $1 0 ^ { \\circ }$ interval. (a) Latitudinal distribution of solar response of T-CPM, and the vertical bars show the fluctuation range of solar response; (b) Latitudinal distribution of correlation coeficients between T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 6.Latitudinal distribution of 4,302,764 temperature profiles with every $1 0 ^ { \\circ }$ interval ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 7. Latitudinal distribution of 14yr-average for T-CPM and H-CPM with every $1 0 ^ { \\circ }$ interval. (a) Latitudinal distribution of 14yr average of T-CPM; (b) Latitudinal distribution of 14yr average of H-CPM ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 8. Maps of the solar response and solar cycle dependence. (a) Spatial distribution of the solar response of T-CPM,and contour interval is 1 K/10oSFU; (b) Spatial distribution of the correlation coefficients between T-CPM and $\\mathrm { F } _ { 1 0 . 7 } ^ { } ,$ ,and contour interval is O.05 above 0.53 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 9. Maps of 14yr-average for T-CPM and H-CPM. (a) Spatial distribution of 14yr average of T-CPM, and contour interval is 2K; (b) Spatial distribution of 14yr average of HCPM, and contour interval is $0 . 5 \\mathrm { k m }$ ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "112 a CPM netrisebeve-Cpie 112- (b) H-cPM 102 102 二二 92 92 + 822 H-CPM M 4 82 CPM ★★ Aneffetire CPMle irrat 62 Arregtt 62 52- the100theventin75361orbit 52 the 40theventin76214orbit 42 at2015-11-4nighttime 42 at2015-12-31nighttime 32 32 22 T-CPM 22 T-CPM A 山 4 12- 12- 160 180 200 220 240 260 150 170 190 210 230 250 270 Temperature（K） Temperature(K) ",
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/06c3fda0bfd89fa2cce0bace18d2ee15761800d92048ca414630d3fc7117e376.jpg",
+        "img_caption": [
+            "Figure 2.Distribution of global available profiles of T-CPM. (a) Amount oftotal temperature profiles ofT-CPM for each year before CPM qualitycontrol (hollow hexagon)and after CPM quality control (solid circle); (b) Distribution of 4,492,664 profiles of T-CPM for each integer latitude interval after CPM quality control "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0b3068f8e96f0da8bda371e797ce0b9d218c4931384e7e24ee3ef1cc5cc2463.jpg",
+        "img_caption": [
+            "Figure 3.The scater plot and the annual-mean of T-CPMand solar flux index during 2002-2015.(a)The scatter plot of T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ ; (b) The annual-mean of T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/23f2b2be3e4e9044ee45c8a0749201e9907e67449bf9b2209de4cfb1d9d97d05.jpg",
+        "img_caption": [
+            "Figure 4.The annual-mean of H-CPM during 2002-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/edb602756214e0be2b9defe0810ef65f15b89e822f1bed2d9d1fce775621c937.jpg",
+        "img_caption": [
+            "Figure 5.Latitudinal distribution of solar response and solar cycle dependence with every $1 0 ^ { \\circ }$ interval. (a) Latitudinal distribution of solar response ofT-CPM,and the vertical bars show the fluctuation range of solar response; (b) Latitudinal distribution of correlation coefficients between T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e23d28e12b7b8b495178dc1b4f9ef52ae31690b52e2ab0124782483117221c7.jpg",
+        "img_caption": [
+            "Figure 6.Latitudinal distribution of 4,3O2,764 temperature profiles with every $1 0 ^ { \\circ }$ interval "
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/692dfd766c1fa99c90bebfeebf276174f7caced23529aaffc4e158dc454646a7.jpg",
+        "img_caption": [
+            "Figure 7.Latitudinal distribution of 14yr-average for T-CPM and H-CPM with every $1 0 ^ { \\circ }$ interval.(a) Latitudinal distribution of 14yr average of T-CPM; (b) Latitudinal distribution of 14yr average of H-CPM "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/279ad84c26e5b68064d5a1e3c698e0740f9f910a42c9202b6237f32c8f8344ab.jpg",
+        "img_caption": [
+            "Figure 8.Maps ofthe solar response and solar cycle dependence.(a) Spatial distribution of the solar response of TCPM,and contour interval is $1 \\mathrm { K } / 1 0 0 \\mathrm { S F U }$ ; (b) Spatial distribution of the correlation coefficients between T-CPM and $\\mathrm { F } _ { 1 0 . 7 }$ ,and contour interval is O.O5 above 0.53 "
+        ],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/a828ada5f2f3d96d84552f7cfc9e21471e7539672851e9b1e079104577e9113f.jpg",
+        "img_caption": [
+            "Figure 9.Maps of 14yr-average for T-CPMand H-CPM.(a) Spatial distribution of 14yr average ofT-CPM,and contour interval is 2K; (b) Spatial distribution of 14yr average of H-CPM,and contour interval is $0 . 5 \\mathrm { k m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 29
+    }
+]

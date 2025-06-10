@@ -1,0 +1,181 @@
+饲用苎麻青贮特性及其青贮前后营养成分与饲用价值比较 $1$ 王郝为 戴求仲 侯振平 王延周 吴端钦\*（中国农业科学院麻类研究所，长沙410205）
+
+摘要：为了探索切碎长度对饲用苎麻青贮特性的影响，试验将饲用苎麻分别切碎1、2 和3cm3种长度后青贮 $6 0 \mathrm { d }$ ，然后对样品进行感官评价与实验室分析，并与饲用苎麻青贮前营养成分及饲用价值进行比较分析。结果表明：1）1和 $2 \mathrm { c m }$ 组饲用苎麻青贮发酵品质定级为1级优等，而 $3 \mathrm { c m }$ 组饲用苎麻青贮发酵品质定级为2级尚好。2）1、2 和 $3 \mathrm { c m }$ 组饲用苎麻青贮的氨态氮占总氮比及乙酸、丙酸含量无显著差异（ $\cdot  { P } { > } 0 . 0 5 ) ,$ ； $2 \mathrm { c m }$ 组饲用苎麻青贮的pH显著低于1和 $3 \mathrm { c m }$ 组（ $\cdot < 0 . 0 5 \$ ； $2 \mathrm { c m }$ 组饲用苎麻青贮的乳酸含量显著高于1和 $3 \mathrm { c m }$ 组（ $\scriptstyle P < 0 . 0 5 )$ 。3）饲用苎麻青贮前后的粗蛋白质、粗脂肪、粗纤维、中性洗涤纤维和酸性洗涤纤维含量无显著差异（ $P { > } 0 . 0 5 )$ ；但是 $3 \mathrm { c m }$ 组的粗灰分含量显著低于其他各组（ $P <$ 0.05)，并且1和 $3 \mathrm { c m }$ 组的总能显著高于 $2 \mathrm { c m }$ 组和青贮前的饲用苎麻组（ $\scriptstyle P < 0 . 0 5$ )。4）饲用苎麻青贮前后的粗饲料干物质采食量（DMI）、可消化干物质（DDM）和有机物质消化率（OMD）无显著差异（ $\cdot P { > } 0 . 0 5 )$ ；但是 $1 \mathrm { c m }$ 组的相对饲用价值（RFV）为最低，显著低于$2 \mathrm { c m }$ 组（ $\scriptstyle P < 0 . 0 5$ )。综合分析， $2 \mathrm { c m }$ 切碎长度饲用苎麻青贮的发酵效果、营养成分和饲用价值较佳，具有较高的实际生产应用价值。
+
+关键词：饲用苎麻；青贮；营养成分；饲用价值中图分类号： $5 8 1 6 . 5 ^ { + } 3$
+
+随着我国人畜争粮矛盾越发突出，草食家畜作为节粮型畜种，逐渐成为居民牛羊肉和奶制品等畜产品的主要来源[1]，因此生产优质饲草是事关畜牧业发展甚至国民生计的重要物质基础。中国南方多属于热带、亚热带气候，有良好的自然资源优势，适合种植高产饲草，但也由于雨水较多，气温较高，对饲草的保存条件要求较高[2]。青贮是饲草保存最经济和实用的一种方式，它是通过乳酸菌厌氧发酵产生有机酸来降低青贮饲料的pH，从而抑制不良微生物的发酵，以达到减少营养流失、长期保存青绿饲草的目的[3]。目前，青贮饲料的原料主要是玉米，为反刍动物一年四季特别是冬春季节提供粗饲料[4-5]。然而，我国还有大量的其他饲草资源可被开发利用。苎麻在我国南方种植面广，而且粗蛋白质（CP）含量高，是一种优质的非常规粗饲料，而传统的干草调制工作费时费力，且容易受天气因素影响，特别在南方湿热的雨季更加受到限制。吴端钦等[报道，苎麻青贮可以替代荷斯坦奶牛饲粮中$3 3 \% { \sim } 6 7 \%$ 的苜蓿干草，未见影响奶牛的生产性能、乳成分及血清指标，且提高了奶牛血清总抗氧化能力。廣年初等[7的研究也表明，苎麻青贮饲料可代替 $2 5 \%$ 的精饲料喂养夏南牛。原料的切碎是青贮必须的步骤和保障青贮品质的基础，但目前关于切碎长度对饲用苎麻青贮影响的研究还未见报道。因此，本研究将饲用苎麻切碎成3个不同长度（1、2和 $3 \mathrm { c m } .$ ，研究不同切碎长度对其青贮特性的影响，同时进行青贮前后营养成分及饲用价值的比较分析，以期为饲用苎麻进一步的饲料化开发和利用提供参考依据。
+
+# 1材料与方法
+
+# 1.1 试验材料及制备
+
+用刀将饲用苎麻—一中饲苎1号分别切成1、2和 $3 \mathrm { c m } 3$ 种不同长度，采用袋装（25kg）青贮的方式，每种处理青贮6袋。青贮 $6 0 \mathrm { d }$ ，随机选取3袋采集样品，备测。同时，采集未青贮的饲用苎麻，进行营养成分测定。
+
+# 1.2 感官评价
+
+按照德国农业协会（DLG）的青贮质量感官评分标准（表1）进行感观评定[8]。
+
+# 表1青贮质量感官评分标准
+
+Table 1Silage quality sensory scoring standard   
+
+<html><body><table><tr><td colspan="2">感官指标</td><td colspan="2">评分标准 分值</td></tr><tr><td>Sensory indices</td><td colspan="2">Scoring standard</td><td>Score</td></tr><tr><td rowspan="4">气味 Smell</td><td>有很强的丁酸或氨味，或几乎无酸味</td><td></td><td>2</td></tr><tr><td>丁酸味颇重，或有刺鼻的焦糊臭味或霉味</td><td></td><td>4</td></tr><tr><td>有微弱的丁酸臭味，或较强的酸味、芳香味弱</td><td></td><td>10</td></tr><tr><td>无丁酸臭味、芳香味浓或明显的面包香味</td><td></td><td>14</td></tr><tr><td rowspan="4">结构 Structure</td><td>茎叶腐烂或污染严重</td><td></td><td></td><td>0</td></tr><tr><td>茎叶结构保持极差，或发现轻度霉菌或轻度污染</td><td></td><td></td><td>1</td></tr><tr><td>茎叶结构保持较差</td><td></td><td></td><td>2 4</td></tr><tr><td>茎叶结构保持良好 变色严重，墨绿色或者呈黄色</td><td></td><td></td><td>0</td></tr><tr><td rowspan="3">颜色 Color</td><td>略有变色，呈淡黄色或带褐色</td><td></td><td></td><td>1</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>接近原料原色，烘干后成淡褐色</td><td></td><td></td><td>2</td></tr><tr><td>总分 Score</td><td>16~20</td><td>10~15</td><td>5~9</td><td>0~4</td><td></td></tr><tr><td>等级Grade</td><td>1级优等</td><td>2级尚好</td><td>3级中等</td><td>4级腐败</td><td></td></tr></table></body></html>
+
+# 1.3样品分析
+
+pH 的测定：取青贮饲料样品 $2 0 \mathrm { g }$ ，加入 $1 8 0 ~ \mathrm { m L }$ 蒸馏水，充分搅拌均匀，静置 $2 \mathrm { h }$ ，之后用纱布和滤纸过滤，用pH酸度计测定。粗蛋白质、粗脂肪（EE）、粗灰分（Ash）、粗纤维（CF）、中性洗涤纤维（NDF）及酸性洗涤纤维（ADF）含量按照张丽英[9]的方法进行测定。总能（GE）利用全自动氧弹式量热仪（湖南开元仪器有限公司）进行测定。称取青贮鲜样 $\boldsymbol { 1 0 } \mathrm { g }$ ，加入 $1 0 0 ~ \mathrm { { m L } }$ 蒸馏水，用玻璃棒充分搅拌、振荡，在温度为 $4 ~ { ^ \circ } \mathrm { C }$ 条件下浸提 $4 8 \mathrm { { h } }$ 取浸提液， ${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C }$ 保存，测定氨态氮及有机酸含量，计算氨态氮占总氮比。乳酸含量使用高效液相色谱仪（Agilent1290）测定；乙酸、丙酸和丁酸含量利用气相色谱仪（Agilent 7890A）测定；氨态氮含量利用分光光度计（岛津UV-2600）测定。
+
+# 1.4饲用价值指标计算
+
+粗饲料干物质采食量（drymatter intake，DMI)，单位为占体重（BW）的百分比 $( \% \mathrm { B W } )$ ，计算公司如下：
+
+可消化干物质(digestible dry matter，DDM)含量，单位为占干物质（DM）的百分比$( \% \mathrm { D M } )$ ，计算公司如下：
+
+相对饲用价值（relative feed value，RFV）采用美国牧草草地理事会饲草分析小组委员会提出的粗饲料相对值[10]，计算公式如下：
+
+R ${ \mathrm { F V } } { = } \mathrm { D M I } { \times }$ DDM/1.29（以绵羊为动物基础）。
+
+有机物质消化率（organic matter digestibility，OMD， $9 \%$ ）根据经验公式 $Y = 1 2 3 . 5 0 6$ $8 – 2 . 2 7 9 X$ （以绵羊为动物基础）计算[II]；式中，Y为OMD， $X$ 为粗纤维含量。
+
+# 1.5 数据统计
+
+利用 Excel2013软件进行数据的录入处理。采用 SPSS21.0软件进行单因素方差分析，Duncan氏法多重比较进行组间差异显著性检验， $P { < } 0 . 0 5$ 为差异显著，结果以平均值 $\pm$ 标准误表示。
+
+# 2结果与分析
+
+# 2.1饲用苎麻青贮的感官评分
+
+不同切碎长度的饲用苎麻青贮的感官评分见表2。由表可知，1和 $2 \mathrm { c m }$ 组饲用苎麻青贮的色泽接近原料原色，茎叶结构清晰可见，无丁酸臭味和有微弱的丁酸臭味，评分分别为
+
+17和16，发酵品质等级定级为1级优等。 $3 \mathrm { c m }$ 组饲用苎麻青贮的色泽接近原料原色，有微弱的丁酸臭味，茎叶结构稍有破坏，评分为15分，发酵品质等级定级为2级尚好。
+
+# 表2饲用苎麻青贮的感官评分
+
+Table 2Sensory scoring of feeding ramie silage   
+
+<html><body><table><tr><td colspan="3">项目 切碎长度 Chop length/cm</td></tr><tr><td>Items</td><td>1</td><td>2</td><td>3</td></tr><tr><td>气味 Smell</td><td>11</td><td>10</td><td>10</td></tr><tr><td>结构 Structure</td><td>4</td><td>4</td><td>3</td></tr><tr><td>色泽Color</td><td>2</td><td>2</td><td>2</td></tr><tr><td>分值 Score</td><td>17</td><td>16</td><td>15</td></tr><tr><td>等级Grade</td><td>1级优等</td><td>1级优等</td><td>2级尚好</td></tr></table></body></html>
+
+2.2饲用苎麻青贮的 $\mathfrak { p H }$ 、氨态氮占总氮比及有机酸含量分析
+
+由表3可知，3组饲用苎麻青贮的氨态氮占总氮比及乙酸、丙酸含量无显著差异（ $P >$ 0.05)，且3组均未检测出丁酸。 $, 2 \mathrm { c m }$ 组饲用苎麻青贮的 $\mathfrak { p H }$ 显著低于1和 $3 \mathrm { c m }$ 组 $\cdot P { < } 0 . 0 5 \rangle$ ），但1cm组与 $3 \mathrm { c m }$ 组之间无显著差异（ $\cdot P { > } 0 . 0 5 )$ 。另外， $2 \mathrm { c m }$ 组饲用苎麻青贮的乳酸含量最高，显著高于1和 $3 \mathrm { c m }$ 组（ $\scriptstyle P < 0 . 0 5 .$ )，1cm组显著高于 $3 \mathrm { c m }$ 组（ $\cdot < 0 . 0 5$ ）°
+
+表3饲用苎麻青贮的 $\mathsf { p H }$ 、氨态氮占总氮比及有机酸含量分析
+
+Table 3Analysis of pH, $\mathrm { N H } _ { 3 }$ -N/TN and organic acid content of feeding ramie silage   
+
+<html><body><table><tr><td colspan="3">项目 切碎长度 Chop length/cm</td><td colspan="2"></td></tr><tr><td>Items</td><td>1 cm</td><td>2 cm</td><td>3cm</td><td></td></tr><tr><td>pH</td><td>5.22±0.25a</td><td>4.34±0.18b</td><td>4.99±0.13a</td><td></td></tr><tr><td>氨态氮占总氮比 NH3-N/TN/%</td><td>1.46±0.32</td><td>1.47±0.27</td><td>1.67±0.17</td><td></td></tr><tr><td>乳酸Lactic acid/%DM</td><td>3.93±0.09b</td><td>5.51±0.37a</td><td>2.33±0.49c</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td></td></tr><tr><td>乙酸 Acetic acid/%DM</td><td>3.03±0.24</td><td>3.10±0.17</td><td>3.03±0.50</td></tr><tr><td>丙酸Propionic acid/%DM</td><td>1.83±0.24</td><td>1.45±0.19</td><td>1.86±0.12</td></tr><tr><td>丁酸Butyric acid/%DM</td><td>ND</td><td>ND</td><td>ND</td></tr></table></body></html>
+
+ND：未检测到 not detected。
+
+同行数据肩标不同小写字母表示差异显著（ $\scriptstyle P < 0 . 0 5$ )，相同或无字母表示差异不显著（ $. P { > } 0 . 0 5$ )。下表同。 In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below.
+
+# 2.3饲用苎麻青贮前后的常规营养成分分析
+
+由表4可知，饲用苎麻组与3种切碎长度饲用苎麻青贮组的粗蛋白质、粗脂肪、粗纤维、NDF和ADF含量无显著差异 $( P { > } 0 . 0 5 ) \circ 3 \ \mathrm { c m }$ 组的粗灰分含量显著低于其他各组 $\cdot P { < } 0 . 0 5 )$ 。1cm组与 $3 \mathrm { c m }$ 组之间总能无显著差异（ $\vert P { > } 0 . 0 5 )$ ，但是显著高于饲用苎麻组与 $2 \mathrm { c m }$ 组（ $P$ $< 0 . 0 5 )$ 。
+
+表4饲用苎麻青贮前后的常规营养成分分析(干物质基础)  
+Table 4Analysis ofroutine nutrient composition of feeding ramie before and after silage (DM basis)   
+
+<html><body><table><tr><td>项目</td><td>饲用苎麻组</td><td>切碎长度 Chop length/cm</td><td></td></tr><tr><td>Items</td><td>（青贮前）</td><td></td><td></td></tr><tr><td rowspan="3"></td><td>Feeding ramie</td><td></td><td>3</td></tr><tr><td>group (before</td><td>1</td><td>2</td></tr><tr><td>silage)</td><td></td><td></td></tr><tr><td>粗蛋白质 CP/%</td><td>15.45±0.57</td><td>15.39±1.48</td><td>17.12±1.45</td><td>16.00±1.04</td></tr><tr><td>粗脂肪 EE/%</td><td>2.84±0.06</td><td>3.53±0.59</td><td>2.93±0.14</td><td>2.87±0.49</td></tr><tr><td>粗灰分 Ash/%</td><td>14.45±0.23a</td><td>14.09±0.38a</td><td>14.05±0.10a</td><td>12.85±0.05b</td></tr><tr><td>粗纤维 CF/%</td><td>28.41±0.0.34</td><td>29.84±0.94</td><td>26.91±1.21</td><td>27.93±0.98</td></tr></table></body></html>
+
+<html><body><table><tr><td>中性洗涤纤维</td><td>52.92±2.64</td><td>54.18±0.57</td><td>48.23±0.67</td><td>50.76±2.42</td></tr><tr><td>NDF/%</td><td></td><td></td><td></td><td></td></tr><tr><td>酸性洗涤纤维ADF/%</td><td>38.28±1.03</td><td>42.66±0.95</td><td>38.71±3.12</td><td>39.75±0.90</td></tr><tr><td>总能GE(MJ/kg)</td><td>15.31±0.01b</td><td>15.91±0.28a</td><td>15.40±0.06b</td><td>16.13±0.06a</td></tr></table></body></html>
+
+# 2.4饲用苎麻青贮前后的饲用价值评定
+
+由表5可知，饲用苎麻组与3种切碎长度饲用苎麻青贮组的DMI、DDM和OMD无显著差异（ $P { > } 0 . 0 5 )$ 。1cm组饲用苎麻青贮的RFV最低，显著低于 $2 \mathrm { c m }$ 组( $\cdot P { < } 0 . 0 5 )$ ，但是与饲用苎麻组与 $3 \mathrm { c m }$ 组之间无显著差异（ $\cdot P { > } 0 . 0 5 )$ ）°
+
+表5饲用苎麻青贮前后的饲用价值评定  
+Table 5Feeding value evaluation of feeding ramie before and after silage   
+
+<html><body><table><tr><td>项目</td><td>饲用苎麻组（青贮</td><td>切碎长度 Chop length/cm</td><td></td></tr><tr><td>Items</td><td>前）</td><td></td><td></td></tr><tr><td rowspan="3"></td><td>Feeding ramie</td><td></td><td></td></tr><tr><td>group (before</td><td>1</td><td>2</td></tr><tr><td>silage)</td><td></td><td></td></tr><tr><td>干物质采食量DMI/%BW</td><td>2.28±0.11</td><td>2.22±0.02</td><td>2.49±0.03</td><td>2.37±0.11</td></tr><tr><td>可消化干物质 DDM/%DM</td><td>59.08±0.80</td><td>55.67±0.74</td><td>58.75±2.43</td><td>57.93±0.70</td></tr><tr><td>相对饲用价值RFV</td><td>104.23±3.81ab</td><td>95.62±2.11b</td><td>113.41±5.57a</td><td>106.65±5.23ab</td></tr><tr><td>有机物质消化率OMD/%</td><td>58.75±0.77</td><td>55.50±2.13</td><td>62.18±2.76</td><td>59.86±2.24</td></tr></table></body></html>
+
+数据为估测公式计算值。
+
+The data were calculated values based on estimating formulas.
+
+# 3讨论
+
+目前，对饲用苎麻青贮的研究较少，还没有针对性的评价标准。本研究结果发现，切碎长度对饲用苎麻青贮感官评分有一定的影响，1和 $2 \mathrm { c m }$ 切碎长度饲用苎麻青贮发酵品质为1级优等，而3cm 切碎长度饲用苎麻青贮发酵品质仅为2级尚好。同样，张晓余等[12]研究不同切碎长度对胡萝卜苗青贮的影响后，发现 $2 \mathrm { c m }$ 组的感官评定结果略优于 $4 \mathrm { c m }$ 组。叶方等[13]在研究不同切碎长度对全株玉米青贮的影响时发现,1.5 和 $2 . 0 \mathrm { c m }$ 组感官评定结果优于 3.0cm 组。大量的研究结果一致表明，切碎长度较短的青贮饲料感官评价优于切碎长度较长的青贮饲料，这可能是由于切碎长度越长，饲草越不易压实，青贮袋中残留空气也相对较多，霉菌易繁殖从而致使青贮饲料感官效果较差[14-15]。
+
+pH、氨态氮和有机酸（乳酸、乙酸、丙酸和丁酸）含量可反映出青贮饲料发酵品质，当pH越低，氨态氮含量越少，有机酸含量越多，青贮饲料越容易保存，青贮品质也越好[16-20]。Mc Eniry 等[17]对不同切碎长度青贮饲料的发酵品质进行了研究分析，发现切碎处理能够降低青贮饲料的pH和氨态氮含量，增加乳酸含量，提升发酵品质。余汝华等[18]报道了青贮饲料质量随切碎长度增加而明显下降。本研究中，3种切碎长度饲用苎麻青贮的氨态氮占总氮比和乙酸、丙酸含量差别不大，丁酸均未检测出，但2cm 切碎长度饲用苎麻青贮的pH较1和3cm切碎长度低，同时乳酸含量高，青贮品质较佳。这可能是由于切碎长度减小，植物细胞壁的破坏加大，从而可以更快地释放可溶性碳水化合物，加速青贮微生物的利用速度，促进发酵的迅速进行，同时可产生更多的乳酸，pH下降更迅速[21-23]。但试验中1cm 切碎长度饲用苎麻青贮发酵品质较差，可能是由于试验用饲用苎麻——中饲苎1号水分含量较高，切短后汁液流失较多。侯建建等[20]对高水分含量的无芒雀麦和黄花草木樨的发酵品质研究时也发现了类似的结果。本研究中不同切碎长度对饲用苎麻青贮品质有一定的影响，这可能是由于切碎长度对压实程度造成了一定的影响，从而影响了饲料青贮品质。
+
+任继周[16]认为，上等牧草的一个重要评价指标就是粗纤维含量，粗纤维含量小于或等于$2 7 \%$ 为上等牧草，介于 $2 7 \% { \sim } 3 4 \%$ 之间为中等牧草，大于或等于 $34 \%$ 的为下等牧草。本研究中， $2 \mathrm { c m }$ 切碎长度饲用苎麻青贮的粗纤维含量低于 $2 7 \%$ ，属于上等饲草，而1和 $3 \mathrm { c m }$ 切碎长度饲用苎麻青贮为中等饲草。粗蛋白质也是重要的营养指标，饲用苎麻青贮的粗蛋白质含量高，营养价值较高。本研究中，不同切碎长度的饲用苎麻青贮粗蛋白质含量波动较大，这可能由于切碎长度不同引起的在青贮时叶茎混合不均或者取样不均而造成，因为饲用苎麻叶与茎中的粗蛋白质含量差别较大[17]。不过，切碎长度对饲用苎麻青贮的大多数常规营养成分含量影响并不大，许多科研工作者研究其他饲草也得出了类似结论。侯建建等[20]对羊草、无芒雀麦、黄花草木樨和沙打旺青贮饲料进行分析，发现切碎长度对其干物质和粗蛋白质含量无显著影响。叶方[23]研究了不同切碎长度对玉米青贮营养成分的影响，发现切碎长度对常规营养成分无显著影响。
+
+RFV 是饲料中ADF 和NDF的综合反映，是评价粗饲料的一项重要指标[24]，RFV大于100，说明该粗饲料营养价值整体较好，且RFV越大说明该粗饲料的营养价值越高。杨红等[25]以 RFV为评定指标对青贮容器不同部位高丹草青贮饲料进行了营养价值评价，发现青贮高丹草下部的RFV最高，达到108.3。然而，有研究指出，根据 RFV仅能粗略判断饲料的总体营养价值，没有考虑到其品质，即纤维的消化率[26]，具有一定的局限性。OMD 是饲料中粗纤维的反映，饲料OMD 越高，说明其被消化利用特性越好。余汝华等[27研究了不同玉米品种的青贮饲料，发现科多4号和辽原1号青贮饲料的OMD 极显著高于其他品种。本研究中，除1cm 切碎长度饲用苎麻青贮外，其他2个切碎长度饲用苎麻青贮的RFV均大于100，具有较高的营养价值，且消化利用特性以 $2 \mathrm { c m }$ 切碎长度饲用苎麻青贮最佳。
+
+# 4结论
+
+饲用苎麻营养成分丰富，饲用价值较高，青贮之后可以较好保持原料的营养特性。不同切碎长度对饲用苎麻青贮品质及估测饲用价值均有不同程度地影响，本试验条件下，饲用苎麻青贮的适宜切碎长度为 $2 \mathrm { c m }$ 0
+
+参考文献：
+
+[1]左应梅,黄必志.云南牧草引种概况及草业发展建议[J].四川草原,2006(6):33-35,39.
+
+[2]方社会,尚来贵,朱斌,等.快速评价青贮饲草品质的方法研究[J].湖南农业科学,2013(10):32-33,36.
+
+[3]刘建新,杨振海,叶均安,等.青贮饲料的合理调制与质量评定标准(续)[J].饲料工业,1999,20(4):3-5.
+
+[4]徐敏云,李建国,谢帆,等.不同施肥处理对青贮玉米生长和产量的影响[J].草业学报,2010,19(3):245-250.
+
+[5]张晓庆,穆怀彬,侯向阳,等.我国青贮玉米种植及其产量与品质研究进展[J].畜牧与饲料科学,2013,34(1):54-57.
+
+[6]吴端钦,魏仲珊,高帅,等.苎麻青贮替代苜蓿干草对奶牛生产性能、乳成分及血清指标的影响[J].动物营养学报,2017,29(5):1645-1651.
+
+[7]度年初,李莉,吴胜强,等.苎麻副产物饲喂夏南牛试验初报[J].中国麻业科学,2014,36(2):85-88.
+
+[8]张苏江,艾买尔江·吾斯曼,薛兴中,等.南疆玉米和不同糖分甜高梁的青贮品质分析[J].草 业学报,2014,23(3):232-240.
+
+[9]张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007:49-80.
+
+[10] ROHWEDER D A,BARNES R F,JORGENSEN N.Proposed hay grading standards based on laboratory analyses for evaluating quality[J].Journal of Animal Science,1978,47(3):747-759.
+
+[11]韩建国,贾慎修.放牧绵羊采食量及消化率的研究[J].草原牧业杂志,1987(4):35-37.
+
+[12]张晓余,康国星,解新建,等.不同切碎长度对胡萝卜苗青贮品质的影响[J].饲料博览,2015(1):39-41.
+
+[13]叶方,杨正德,黄飞.不同切碎长度对玉米青贮发酵品质影响的研究[J].黑龙江畜牧兽
+
+医,2009(5):64-65
+
+[14]玉柱,孙启忠.饲草青贮技术[M].北京:中国农业大学出版社,2011:53-60,153-157.
+
+[15] PAULY T M,HANSSON I B,THAM W A.The effect of mechanical forage treatments on the growth of Clostridium tyrobutyricum and Listeria monocytogenesin grass silage[J].Animal Feed Science and Technology,1999,78(1/2):127-139.
+
+[16]金华平,刘晓风,袁月祥,等.不同添加剂对玉米秸秆青贮发酵效果的影响[J].应用与环境生物学报,2013,19(6):1053-1057.
+
+[17] MCENIRYJ,O'KIELYP,CLIPSON N J W,etal.Therelative impacts of wilting,chopping,compaction and air infiltration on the conservation characteristics of ensiled grass[J].Grass and Forage Science,2007,62(4):470-484.
+
+[18] 余汝华,莫放,赵丽华,等.切碎和揉切对玉米秸秆青贮饲料发酵特性的影响[J].中国畜牧杂志,2007,43(15):42-43.
+
+[19]白元生.饲料原料学[M].北京:北京农业大学出版社,1999:5-32.
+
+[20] 侯建建,娜日苏,罗海玲,等.切碎长度对不同牧草青贮饲料发酵品质的影响[J].中国奶牛,2016(6):10-14.
+
+[21]任继周.草业科学研究方法[M].北京:中国农业出版社,1998.
+
+[22]王延周,喻春明,唐守伟,等.纤用苎麻“中苎2号”饲草化刈割模式研究[J].中国麻业科学,2017,39(3):120- 129.
+
+[23]叶方.切碎长度对玉米青贮品质的影响研究[J].安徽农业科学,2013,41(15):6725-6727.
+
+[24]张吉鹃,陈开文,谢金防,等.分级指数与相对值在奶牛用粗饲料品质评定上的比较研究[J].中国奶牛,2008(8):15-19.
+
+[25]杨红,田吉鹏,刘贵波,等.青贮容器不同部位高丹草青贮饲料的营养价值[J].草业科学,2015,32(10):1682-1686.
+
+[26]张吉鹃,邹庆华,卢德勋.反刍动物粗饲料纤维品质的整体评定研究[J].饲料工业,2011,32(1):31-34.
+
+[27]余汝华,莫放,赵丽华,等.不同玉米品种青贮饲料营养成分比较分析[J].中国农学通报,2007,23(8):17-20.
+
+Feeding Ramie: Silage Characteristics and Comparison of Nutrient Composition and Feeding Value before and after Silage
+
+WANG HaoweiDAI QiuzhongHOU ZhenpingWANG YanzhouWU Duanqin\*
+
+(Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha 410205,
+
+# China)
+
+Abstract: To explore the efect of different chop lengths on the silage quality of feeding ramie, three groups of feeding ramie were ensiled for 6O days with 1,2 and $3 \ \mathrm { c m }$ ，and then the experiment was conducted by sensory evaluation and laboratory analysis,and comparatively analyzed nutrient composition and feeding value before and after silage. The results showed as follows: 1） the fermentation quality grade of feeding ramie silage of 1 and $2 \ \mathrm { c m }$ groups was excellent,whereas the $3 \ \mathrm { c m }$ group was well. 2） There were no significant differences on the ammonia nitrogen to total nitrogen and contents of acetic acid and propionic acid among 1, 2 and $3 \mathrm { c m }$ groups $( P { > } 0 . 0 5 )$ . The $\mathfrak { p H }$ in feeding ramie silage of $2 \mathrm { c m }$ group was significantly lower than that of 1 and $3 \mathrm { c m }$ groups $( P { < } 0 . 0 5 )$ . The lactic acid content in feeding ramie silage of $2 \mathrm { c m }$ group was significantly higher than that of 1 and $3 \ \mathrm { c m }$ groups $( P { < } 0 . 0 5 )$ .3） There were no significant differences on the contents of crude protein, ether extract, crude fiber, neutral detergent fiber and acid detergent fiber in feeding ramie before and after silage $( P { > } 0 . 0 5 )$ ,but the crude ash content of $3 \ \mathrm { c m }$ group was significantly lower than that of other groups $( P { < } 0 . 0 5 )$ ,and the gross energy of1 cm and $3 \ \mathrm { c m }$ groups was significantly higher than that of $2 \ \mathrm { c m }$ group and feeding ramie group before silage $( P { < } 0 . 0 5 )$ . 4) There were no significant differences on the roughage dry matter intake (DMI)，digestible dry matter (DDM) and organic matter digestibility (OMD) in feding ramie before and after silage ( $( P { > } 0 . 0 5 )$ . But the relative feed value (RFV) of $1 \ \mathrm { c m }$ group was minimum and significantly lower than that of $2 \ \mathrm { c m }$ group $( P { < } 0 . 0 5 )$ . Comprehensive analysis, the feeding ramie silage with $2 \ \mathrm { c m }$ chop length has a high practical production value which with better fermentation effect, nutrient composition and feeding value.
+
+Key words: feeding ramie; silage; nutrient composition; feeding value

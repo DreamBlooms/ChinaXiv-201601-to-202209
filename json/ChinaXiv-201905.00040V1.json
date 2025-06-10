@@ -1,0 +1,602 @@
+[
+    {
+        "type": "text",
+        "text": "基于改进人工蜂群算法与MapReduce的大数据聚类算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙倩a，陈 昊ʰ，李超a(湖北大学 a.信息化建设与管理处;b.计算机与信息工程学院，武汉 430062)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对大数据聚类算法计算效率与聚类性能较低的问题，提出了一种基于改进人工蜂群算法与 MapReduce的大数据聚类算法。将灰狼优化算法与人工蜂群算法结合，同时提高人工蜂群算法的搜索能力与开发能力。该策略能够有效地提高聚类处理的性能。采用混沌映射与反向学习作为 ABC 种群的初始化策略，提高搜索的解质量。将聚类算法基于 Hadoop 的 MapReduce 编程模型实现，通过最小化类内距离的平方之和，实现对大数据的聚类处理。实验结果表明，该算法有效地提高了大数据集的聚类质量，同时加快了聚类速度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：数据分析；聚类算法；人工蜂群算法；灰狼优化算法；云计算；分布式计算中图分类号：TP391 doi:10.19734/j.issn.1001-3695.2018.11.0865",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Clustering algorithm of big data based on improved artificial bee colony algorithm and MapReduce ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sun Qiana, Chen Haob,Li Chaoa (a.Informationization Management Department,b.SchoolofComputer Science&Information Enginering,Hubei University,Wuhan430062,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aiming atthe problems oflowcomputational efficiencyandlowclustering performanceofclusteringalgorithms forbigdata,aclustering algorithmofbigdata basedonthe improvedartificial beecolonyalgorithmand MapReduceis presented.Thegreywolfoptimizer algorithmand artificial beecolonyalgorithmarecombined,in order to improve the explorationand exploitationof theartificial beecolonyalgorithmsimultaneously,this strategy helps to improve the clustering performance effectively.The chaotic map and backward learning are utilized as the initial trategyof ABCcolony to improve the solution qualityof search procedure.The clustering algorithm is realized based on MapReduce programming model,and theclustering process for bigdata isrealized by minimizing the quadraticsum of inner classdistances. Experimental results demonstrated thatthe proposed algorithm improves theclustering qualityofbigdata,and it speedups the clustering procedure. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: data analysis;clustering algorithm; artificial bee colony algorithm; grey wolf algorithm; cloud computing; distributed computing ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "聚类处理是数据分析领域中的一个重要步骤，优质的数据分析是决定决策系统性能的关键因素[1]。许多研究人员提出了有效的聚类算法，但这些聚类算法的计算时间大多随着数据集规模的增大而增加，所以大数据集聚类处理的时间效率是一个关键的性能指标[2]。MapReduce 是一个强大的编程模型，支持并行、分布式地处理大数据集，能够有效地提高算法的计算效率[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "诸多近期的研究成果表明，基于元启发式的算法在求解聚类问题方面存在巨大的潜力。受到研究人员关注的元启发式算法主要有遗传算法(geneticalgorithm,GA)[4]、差分进化算法(differential evolution algorithm,DE)[5]、蚁群算法(ant colonyoptimization，ACO)[6]、粒子群优化算法(particleswarmoptimization，PSO)[7]等，这些元启发式算法均支持求解无监督聚类的问题。元启发式算法大多采用迭代寻优的策略，因此求解全局最优解的时间成本较高。许多研究者将MapReduce编程模型与元启发式算法结合，利用MapReduce的并行计算能力降低元启发式算法的总体处理时间。文献[8]成功地将 $k \\mathrm { . }$ -近邻算法在MapReduce模型实现，该方案明显地提高了K-近邻算法对大数据集的处理效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，已有少量研究人员将元启发式算法在MapReduce编程模型上实现[9]，其中也存在一些针对聚类问题进行有效优化的方案。文献[10]提出了一种基于MapReduce和K-means的大数据聚类算法，该算法有效地在高维空间对大数据进行聚类处理，并且通过MapReduce 框架实现算法的分布式处理，降低了内存成本与计算成本。文献[11]成功地将人工智能算法与分布式计算框架结合，在计算效率与聚类效果两方面同时取得了明显的效果；但是受限于遗传算法固有的不足，该方案对大数据的聚类准确率并未达到理想的效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人工蜂群算法(artificial bee colony，ABC)是一种全局搜索能力极强的人工智能算法，许多研究人员采用ABC已经成功解决了聚类问题[12]。虽然ABC的全局搜索能力强，但是ABC对于大规模问题的局部开发能力较弱。针对ABC局部开发能力弱的缺点，利用灰狼优化算法(greywolfoptimizer,GWO)[13]增强ABC的局部开发能力，简称为GWOABC(grey wolf optimizer artificial bee colony)算法。ABC利用信息分享策略保持全局的搜索能力，通过GWO的捕食策略来增强局部的开发能力，该策略能够防止早熟收敛。此外，设计了基于混沌映射与反向学习算法的种群初始化机制，能够有效地解决随机初始化导致搜索性能不稳定的问题。并且基于Hadoop 框架的MapReduce 模型实现了GWOABC算法，通过分布式计算提高算法对于大数据的处理速度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关背景知识 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1灰狼优化算法(grey wolf optimizer,GWO) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GWO 算法[14]是一种模拟灰狼捕食行为的群智能优化算法，考虑了灰狼捕食行为的包围、追捕与攻击三个阶段。算法1所示是灰狼算法的伪代码。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "算法1GWO算法的伪代码输入：搜索agent的种群 $N$ ，解的维度 $\\mathfrak { n }$ ，解的上下界$[ U b _ { 1 } , . . . , U b _ { n } , L b _ { 1 } , . . . , L b _ { n } ]$ ，最大迭代次数maxi。输出：最优agent $\\overrightarrow { X } \\alpha$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.初始化灰狼群 ${ \\overrightarrow { X } } _ { i } = ( x _ { 1 } , x _ { 2 } , . . . , x _ { n } )$ ，其中 $( i \\in [ N ] ) , x _ { j } \\in [ U b _ { j } , L b _ { j } ] | \\ \\forall$ j∈[n]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.初始化 $\\alpha$ ，A， $\\vec { c }$ ， $\\scriptstyle t = 1$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.计算每个搜索agent 的适应度 $f ( X _ { i } )$ ，式中 $\\textit { i } \\in [ N ]$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. $\\overrightarrow { X } \\alpha =$ 全局最优agent； $\\overrightarrow { X } _ { \\beta } =$ 第二优agent； $\\overrightarrow { X } \\cdot =$ 第三优agent;  \n5.while（t<maxi）{  \n6. foreach agent{  \n7. 更新当前agent的位置 $/ { * }$ 根据(5)式计算\\*/  \n8. }  \n9. 更新 $\\alpha$ ， $\\mathit { \\Pi } _ { \\vec { A } } ^ { - } , \\vec { C }$ ：  \n10. 计算所有agent的适应度；  \n11. 更新X。， ${ \\overrightarrow { X } } _ { \\beta }$ ， $\\overrightarrow { X } _ { \\delta }$   \n12. $\\scriptstyle t = t + 1$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "13.} ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GWO模型主要包括了以下几个要素：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)社会等级。将三个最优解设为 $\\scriptstyle a$ ， $\\beta$ 、 $\\delta$ 狼，剩下的狼群设为 $\\omega$ 狼。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)包围猎物。包围猎物策略的数学模型表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overrightarrow { D } = \\left| \\overrightarrow { C } \\cdot \\overrightarrow { X } _ { p } \\left( t \\right) - \\overrightarrow { X } \\left( t \\right) \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overrightarrow { X } ( t { + } 1 ) = \\overrightarrow { X } _ { p } ( t ) { - } \\overrightarrow { A } \\cdot \\overrightarrow { D }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\stackrel { \\_ } { A }$ 与 $\\vec { c }$ 为两个系数向量， $\\scriptstyle { \\vec { A } } = 2 { \\vec { a } } \\cdot { \\vec { r _ { 1 } } } - { \\vec { a } }$ ， $\\scriptstyle { \\vec { C } } = 2 { \\vec { a } } \\cdot { \\vec { r _ { 2 } } } - { \\vec { a } }$ 。随机向量 $r _ { 1 , r _ { 2 } \\epsilon [ 0 , 1 ] }$ ， $\\stackrel {  } { a } = a _ { 1 } ( 1 - t / t _ { \\operatorname* { m a x } } )$ ，一般将 $a _ { 1 }$ 值设为2。tmax为最大迭代次数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)追捕阶段。三个最优解 $\\scriptstyle a$ 、 $\\beta$ 、 $\\delta$ 狼引导GWO的捕猎程序。 $\\omega$ 狼基于 $\\scriptstyle a$ 、 $\\beta , ~ \\delta$ 狼更新位置，位置的更新方法为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\overrightarrow { D } _ { \\alpha } = \\left| \\overrightarrow { C } _ { 1 } \\cdot \\overrightarrow { X } _ { \\alpha } ( t ) - \\overrightarrow { X } \\right| , \\quad \\overrightarrow { D } _ { \\beta } = \\left| \\overrightarrow { C } _ { 2 } \\cdot \\overrightarrow { X } _ { \\beta } ( t ) - \\overrightarrow { X } \\right| , } \\\\ & { \\overrightarrow { D } _ { \\delta } = \\left| \\overrightarrow { C } _ { 3 } \\cdot \\overrightarrow { X } _ { \\delta } ( t ) - \\overrightarrow { X } \\right| } \\\\ & { \\overrightarrow { X } _ { 1 } = \\overrightarrow { X } _ { \\alpha } ( t ) - \\overrightarrow { A } _ { 1 } \\cdot ( \\overrightarrow { D _ { \\alpha } } ) , \\quad \\thinspace \\overrightarrow { X } _ { 2 } = \\overrightarrow { X } _ { \\beta } ( t ) - \\overrightarrow { A } _ { 1 } ( \\overrightarrow { D } _ { \\beta } ) , } \\\\ & { \\overrightarrow { X } _ { 3 } = \\overrightarrow { X } _ { \\delta } ( t ) - \\overrightarrow { A } _ { 1 } ( \\overrightarrow { D } _ { \\delta } ) } \\\\ & { \\overrightarrow { X } ( t + 1 ) = \\frac { \\overrightarrow { X } _ { 1 } + \\overrightarrow { X } _ { 2 } + \\overrightarrow { X } _ { 3 } } { 3 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)攻击猎物。参数 $\\mathbf { \\Delta } _ { a }$ 控制GWO的攻击猎物阶段程序， $a$ 值随着迭代逐渐地减小。GWO中两个参数 $\\vec { A }$ 与 $\\vec { c }$ 控制猎物的搜索过程， $\\stackrel { \\_ } { A }$ 的取值为 ${ \\cdot } 2 a { \\sim } 2 a$ 。如果 $\\stackrel { - } { A } < 1$ ，那么灰狼攻击猎物。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "e)搜索猎物。参数 $A$ 控制GWO的探索速度，如果 $\\vec { A } \\ | > 1$ ，那么搜索的多样性较高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 ABC 算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ABC算法[15]主要由雇佣蜂阶段、观察蜂阶段、搜索蜂阶段三个阶段组成。雇佣蜂与观察蜂的搜索策略直接随机更新解向量的一个元素，如式（6）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i j } = x _ { i j } + \\phi _ { i j } \\left( x _ { i j } - x _ { k j } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\nu _ { i j }$ 为两个不同解的第 $j$ 维变量变异所获得的新解； $\\phi _ { i j }$   \n为[-1,1]区间的随机数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ABC具有较强的全局搜索能力，但是ABC算法并未利用最优解来引导搜索程序，可能导致算法的收敛速度减慢。因为最优解信息能够提高算法的收敛性能，而GWO利用最优解信息的能力较强，所以将GWO引入ABC算法中，提高ABC算法的性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3MapReduce 编程框架 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了提高ABC对大数据集的处理效率，本文设计了ABC在MapReduce 模型的实现方案，简称为MR-GWOABC。MR-GWOABC处理大数据聚类任务的机制中包含两个主要的操作，即更新类的质心与适应度评估。类的质心更新基于ABC实现。适应度评估是计算每个目标与质心之间欧氏距离之和，并且寻找全局最优值。聚类程序将数据对象划分到各个簇中，最小化所有目标与质心之间的欧氏距离之和，将其作为ABC的适应度函数。基于MR-GWOABC的数据聚类流程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/40663af53bbcb0709167b37782df5846db2231080589a6f2110ac252d8a4a7f7.jpg",
+        "img_caption": [
+            "图1基于MR-GWOABC 的数据聚类流程",
+            "Fig.1Data clustering flow based on MR-GWOABC "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 混合的GWOABC算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[16]将传统GWO基于不同的标准benchmark函数进行了测试与验证，根据其分析结果，GWO对于多模问题容易陷入局部最优解，原因在于种群的大部分灰狼仅仅作为一个跟随者，由三个最优解引导，导致整个种群的搜索能力较弱。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GWO中参数 $\\stackrel { - } { a }$ 与A的值决定了种群全局搜索与局部开发之间的权重，如果A $> 1$ ，那么候选解不同于依赖值；如果",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A $< 1$ ，那么候选解收敛于依赖值。文献[16]发现GWO 在早期迭代中搜索的能力较强，后期迭代中开发的能力较强。GWO 通过三个最优agent引导搜索的过程，导致算法缺少多样性。本文将GWO引入ABC算法，通过ABC的信息分享机制来提高候选解之间的信息分享，从而提高GWO的全局",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "搜索能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文GWOABC算法的流程框图如图2所示。从图中可看出，GWOABC的所有步骤与传统GWO相同，在种群初始化与信息分享模块中增加了一些附加策略。首先定义了初始化参数，包括种群规模 $N$ 、解空间维度dim、最大的迭代次数；然后计算其他的参数，包括 $a$ ， $A$ ， $C$ 。算法主要分为三个阶段，分别为种群初始化阶段、GWO阶段与ABC阶段。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/87aa02448104fd01fb6a86b42b3f51576fabaa02ccf8561081513b71f3f7b618.jpg",
+        "img_caption": [
+            "图2 GWOABC算法的流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)种群初始化阶段通过混沌映射与反向学习算法生成优质的初始化候选解。算法2描述了种群初始化的策略。观察算法1的第1行与第2行，使用Logistic 混沌映射处理获得随机变量 $c h ( k )$ ，将结果作为初始化种群 $X$ ，将 $X$ 定义为变量空间的边界。Logistic 混沌映射函数定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc h ( k + 1 ) = 4 * c h ( k ) * ( 1 - c h ( k ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $k$ 为迭代次数，设为300；初始值 $c h ( 0 )$ 为随机值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法2基于反向学习与混沌映射的种群初始化程序输入：搜索agent的种群规模 $\\lvert N \\rvert$ ，解的维度为 $j \\in [ n ]$ ，解的上下界分别为 $x _ { j } \\in [ U b _ { 1 } , \\ldots , U b _ { n } , L b _ { 1 } , \\ldots , L b _ { n } ]$ ， $k = 3$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输出：初始化种群 $\\lvert N \\rvert$ 。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.使用 $\\mathfrak { n }$ 维空间的混沌映射初始化种群 $\\vert N \\vert$ ，使用(7)式获得 $c h ( k )$ U",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 \\ldots X _ { i } { = } ( x _ { 1 } , x _ { 2 } , \\ldots , x _ { n } )$ 的元素定义为 $\\scriptstyle x _ { j } = L b _ { j } + c h ( k ) ^ { * } U b _ { j } - L b _ { j }$ ，其中i∈[N]， $x _ { j } \\in [ U b _ { j } , ~ L b _ { j } ] \\ \\forall \\ j \\in [ n ] _ { \\circ }$ （204号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.使用OBL获得种群大小为 $N$ 的集合",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. $X _ { i } ^ { * } = ( x _ { 1 } ^ { * } , x _ { 2 } ^ { * } , . . . , x _ { n } ^ { * } )$ ，其中iε[N]，每个新反向解定义为$x _ { j } ^ { * } = L b _ { j } + U b _ { j } - x _ { j } \\ , \\ x _ { j } ^ { * } \\in [ U b _ { j } , L b _ { j } \\mid \\forall j \\in [ n ] ]$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5.将两组解结合 $X = ( X _ { i } \\cup X _ { i } ^ { * } )$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6.计算适应度 $f ( X ) = ( f ( X _ { i } ) \\bigcup f ( X _ { i } ^ { * } ) )$ ，并且按照适应度排序",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7.选择top- $N$ 解。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第4行通过反向学习算法推导反向种群 $X ^ { * }$ 的集合，然后将两个集合组合为一个解 $X { = } ( X _ { i } \\cup \\ X _ { i } ^ { * } ) { \\in } | 2 N |$ ，并且计算其适应度 $f ( X )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)GWO阶段生成初始化种群后，传统GWO使用式(1)\\~(5)更新其参数与当前agent 的位置。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3)ABC阶段ABC蜂群在候选解之间分享信息，根据式(6)更新旧解。为了提高序列的随机性、降低重复性，采用式(7)的Logistic 混沌映射生成式(6)的 $\\phi _ { i j }$ 项。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "迭代地运行GWO程序与ABC程序直至达到最大迭代次数，将最优解作为最终的结果。通过 ABC 的全局搜索改善了GWO的全局搜索能力，使得狼群的每个成员具备分享信息的机会；同时保留了算法的全局搜索与局部开发能力，有效地解决了多样性问题，并且防止早熟收敛问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 基于MR-GWOABC的聚类算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MR-GWOABC在处理大规模数据的聚类任务中主要有两个模块，分别为更新质心处理与适应度评估。基于MR-GWOABC完成质心的更新处理，其目标是计算每个目标与质心之间的平方欧氏距离之和，获得全局最优值。聚类处理的目标是寻找数据实例的最优分配，实现平方欧氏距离之和的最小化，将该策略作为ABC的适应度函数。图3所示是基于MR-GWOABC的数据聚类流程。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/052449483c1ad01910f7f5158a308eab84c578d500849d48ffc2126db3635309.jpg",
+        "img_caption": [
+            "Fig.2Flow diagram of GWOABC algorithm ",
+            "图3基于MR-GWOABC 的聚类算法流程",
+            "Fig. 3 FlowdiagramofMR-GWOABCbasedclusteringalgorithm "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据图3所示的流程框图，首先生成初始化解，将初始化解作为雇佣蜂的解。计算平方欧氏距离之和计算聚类的质量，评估解的适应度。雇佣蜂更新并与观察蜂分享它们发现的新解，然后观察蜂选择适应度较好的解。重复该程序，直至达到最大迭代次数。如果在一定时间内某个解的适应度无法提高，那么侦查蜂重新生成新解。然而大数据集的适应度评估需要大量的计算时间，所以采用MapReduce编程模型分布式地计算适应度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法3、4所示为MapReduce 模型的Map 函数与Reduce函数。Map函数首先通过GWOABC算法检索聚类的质心，数据记录于 Hadoop 分布式文件系统(hadoop distributed filesystem,HDFS)中；然后Map 函数提取每个蜂群的质心，计算每个数据与质心之间的距离，返回每个质心ID的最小距离。使用质心ID 的最小距离建模 Map 函数的key，从最小距离中获得一个新的value。Map 函数将新的key 与value 传递至Reduce函数，Reduce函数聚集所有相同的key，计算总体的平均距离，最终，Reduce 函数Map 函数调用emit(key,value)触发平均距离的key，计算蜂群中每只蜂的适应度值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法3map 函数 输入：（key:record_id，value:record）。 /\\*初始化\\*/ record_ $\\displaystyle \\mathbf { i d } \\ = \\ \\mathsf { k e y } .$ record $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ value; read(蜂群); foreach bee in 蜂群{ bee_id $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ extract_bee_id(bee); ${ \\mathsf { C V } } =$ extract_centroids(bee); min_dist $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ return_min_distance(record，CV); centroid_id $\\mathbf { \\Sigma } = \\textbf { i }$ new_key $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ (bee_id，centroid_id); new_value $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ (min_dist); } 算法4 reduce 函数 输入:key:(bee_id,centroid_id),value_list:(min_dist,1)。 初始化：count $\\mathbf { \\theta } = \\mathbf { \\theta } \\cdot \\mathbf { \\alpha }$ ： sum_dist $\\mathbf { \\theta } = \\mathbf { \\theta } \\theta$ ; avg_dist $\\mathbf { \\theta } = \\mathbf { \\theta } \\theta$ ： Foreach value in value_list { min_dist=extract_min_dist(value); count $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ count $^ { + 1 }$ · sum_dist $\\mathbf { \\tau } = \\mathbf { \\tau }$ sum_dst $^ +$ min_dist; } avg_dist $\\mathbf { \\tau } = \\mathbf { \\tau }$ sum_dist/count; emit(key，avg_dist); ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对MR-GWOABC算法进行仿真实验，评估聚类的质量与并行算法的有效性。实验中基于Perl脚本语言编程实现本算法，实验中Hadoop平台为10个节点，每个节点的配置为CPU： $2 . 2 6 ~ \\mathrm { G H z }$ ，4GB内存，180GB磁盘，每个节点的操作系统为Ubuntu14.04，Hadoop 平台为Apache Hadoop2.6.2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了基于大数据集评估MR-GWOABC算法的性能，采用表1所示的合成数据集。将四个公开数据集合成一个大数据集，四个数据集均来自于UCIMachineLearningRepository，而且具有不同的属性。将四个数据集随机复制若干个备份，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "组成 $1 0 ^ { 7 }$ 个记录的大数据集。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dbbbfb3e80c839f9df56a0b9f61bcd0b9d284dce64e533fcebed365dd97123d1.jpg",
+        "table_caption": [
+            "Table 1 Attributes of experimental datasets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>数据集</td><td>样本数量</td><td>数据维度</td><td>分簇数量</td></tr><tr><td>1</td><td>Iris</td><td>10000050</td><td>3</td><td>4</td></tr><tr><td>2</td><td>CMC</td><td>10000197</td><td>3</td><td>9</td></tr><tr><td>3</td><td>Wine</td><td>10000040</td><td>3</td><td>13</td></tr><tr><td>4</td><td>Vowel</td><td>10000822</td><td>6</td><td>3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1聚类算法的性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用F-measure作为聚类质量的评估指标，F-measure由精度与召回率两个信息指标计算而来，定义为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( i , j ) = \\frac { 2 \\cdot r ( i , j ) \\cdot p ( i , j ) } { r ( i , j ) + p ( i , j ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $j$ 表示聚类算法生成的类； $i$ 表示原数据集的类标签；  \n$\\boldsymbol { r }$ 与 $p$ 分别表示召回率与精度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "召回率定义为 $r ( i , j ) = \\frac { n _ { i j } } { n _ { i } }$ ,精度定义为 $p ( i , j ) = \\frac { n _ { i j } } { n _ { j } }$ 。其中：$n _ { i j }$ 表示类 $i$ 的数据被分类为类 $j$ 的数量； $n _ { i }$ 与 $n _ { j }$ 分别为类 $i$ 与类 $j$ 的数据规模。对于规模为 $n$ 的数据集，总的 $\\mathrm { ~ F ~ }$ -measure计算公式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF { = } \\sum _ { i } { \\frac { n _ { i } } { n } } \\operatorname* { m a x } _ { j } ( F ( i , j ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $F$ 的上界为1，F-measure 值越大，聚类质量越高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于聚类之类比较，将本方案的解与PKMeans算法、并行K-PSO算法比较。三种聚类算法的性能结果如表2所示。MR-GWOABC 算法的性能明显地优于PKMeans 与并行K-PSO算法。虽然三种聚类算法均采用基于启发式的搜索方法，但是K-means算法对于问题空间中初始化质心的位置较为敏感，K-means算法趋向于收敛于起始点附近的局部最优解。将ABC算法与PSO算法比较，ABC搜索的解质量优于PSO算法。ABC方法的搜索过程中包含了全局搜索与局部开发两种策略，而PSO方法的搜索过程中则侧重于局部开发。在ABC算法中，雇佣蜂与观察蜂负责局部开发，侦查蜂负责全局搜索，如果搜索程序陷入局部最优，侦查蜂将随机搜索一个新的解。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/10e23383526e2bc2560a9d1c36f00dd327e98d6cb338454490acc32b210a42f5.jpg",
+        "table_caption": [
+            "表1实验数据集的属性",
+            "表2三种聚类算法的F-measure 结果",
+            "Table 2 F-measure results of three clustering algorithms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集编号</td><td>MR-GWOABC</td><td>PKMeans</td><td>K-PSO</td></tr><tr><td>1</td><td>0.842</td><td>0.667</td><td>0.785</td></tr><tr><td>2</td><td>0.387</td><td>0.298</td><td>0.324</td></tr><tr><td>3</td><td>0.718</td><td>0.482</td><td>0.517</td></tr><tr><td>4</td><td>0.643</td><td>0.586</td><td>0.627</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2聚类算法的时间效率",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本算法的主要贡献是采用MapReduce 模型提高了对大数据集聚类处理的速度，因此通过实验评估本算法的加速效果。将加速指标定义为 $S _ { p }$ ， $S _ { p }$ 计算公式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { p } = { \\frac { T } { T _ { N } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $T$ 表示一个Hadoop 节点的处理时间； $T _ { N }$ 表示使用 $N$ 个Hadoop 节点的处理时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2.1可扩展性实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先测试了MR-GWOABC算法的可扩展性，每次运行改变Hadoop节点的数量，统计本算法对于四个数据集的运行时间与加速指标，如图4与5所示。从图4(a)\\~(d)可看出，MR-GWOABC的运行时间随着Hadoop节点数量的增加而降低，并且运行时间接近于理想值。从图5(a)\\~(d)可看出，MR-GWOABC的加速指标呈现线性提高的趋势，并且其结果接近理想值。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0414dac3e0e2c0593e28af6eee19b8790da8b9c8fad24838d43cbb3da024a962.jpg",
+        "img_caption": [
+            "图4 MR-GWOABC的运行时间与Hadoop节点数量的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6adeec91b0f537796b5391fee83f0d5f3eedc1ee307702013d40a9ecc3eaaa9d.jpg",
+        "img_caption": [
+            "Fig.4Relationship between runtime of MR-GWOABC and node number of Hadoop ",
+            "图5MR-GWOABC 的加速指标与Hadoop节点数量的关系 Fig. 5 Relationship between speedup of MR-GWOABC and node number of Hadoop "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2.2数据规模对可扩展性的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其次测试了数据集规模对于MR-GWOABC算法可扩展性的影响，效率的计算方法如式(10)所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3所示是MR-GWOABC在10个节点获得的效率结果，也是MR-GWOABC算法的性能随着数据集规模增大的变化情况。从结果可看出，不同规模数据集的效率均高于0.90，并且可得出结论MR-GWOABC算法的可扩展性随着问题规模的增大而提高。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc09e407311ff34aa4f9d24cba392cbbdfd792d7cf1f11fd15126f0de4f9f5f3.jpg",
+        "table_caption": [
+            "表3不同规模数据集的效率值与F-measure 值",
+            "Table3 F-measure results of efficiency values of different scale of "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">datasets</td></tr><tr><td>数据集编号</td><td>性能指标</td><td>2 GB</td><td>4 GB</td><td>6GB</td><td>8GB</td><td>10 GB</td></tr><tr><td rowspan=\"2\">1</td><td>F-Measure 值</td><td>0.842</td><td>0.842</td><td>0.842</td><td>0.842</td><td>0.842</td></tr><tr><td>效率值</td><td>0.905</td><td>0.914</td><td>0.918</td><td>0.922</td><td>0.925</td></tr><tr><td rowspan=\"2\">2</td><td>F-Measure 值</td><td>0.387</td><td>0.387</td><td>0.387</td><td>0.387</td><td>0.387</td></tr><tr><td>效率值</td><td>0.924</td><td>0.927</td><td>0.93</td><td>0.935</td><td>0.941</td></tr><tr><td rowspan=\"2\">3</td><td>F-Measure 值</td><td>0.718</td><td>0.718</td><td>0.718</td><td>0.718</td><td>0.718</td></tr><tr><td>效率值</td><td>0.932</td><td>0.934</td><td>0.934</td><td>0.942</td><td>0.948</td></tr><tr><td rowspan=\"2\">4</td><td>F-Measure 值</td><td>0.643</td><td>0.643</td><td>0.643</td><td>0.643</td><td>0.643</td></tr><tr><td>效率值</td><td>0.911</td><td>0.918</td><td>0.924</td><td>0.927</td><td>0.928</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文的 MR-GWOABC 算法基于 MapReduce 实现，MapReduce的Map任务将数据集转换为“键一值”对的数据集，Reduce任务将这些数据组合成集合。MapReduce分布式计算将任务分成若干个单独的进程，在大型硬件集群上并行地执行。MapReduce 将大数据集的各个元素分解为元组，然后进一步将元组缩小为较小的集合，通过将大数据数据并行地处理，由此显著地加快数据处理速度。通过实验结果可证明，MR-GWOABC算法能够在合理的时间内完成大数据的聚类处理，并且保持较高的解质量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了提高聚类算法的处理效率与聚类性能，本文设计了基于改进人工蜂群算法与MapReduce 的大数据聚类算法。将GWO算法与ABC算法结合，同时提高ABC算法的搜索能力与开发能力。该策略能够有效地提高聚类处理的性能。采用混沌映射与反向学习作为 ABC 种群的初始化策略，提高搜索的解质量。聚类算法基于Hadoop 的MapReduce 编程模型实现，通过最小化类内距离的平方之和，实现对大数据的聚类处理。实验结果表明，MR-GWOABC算法能够高效地处理大规模数据集，并且实现了较好的聚类质量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]周润物，李智勇，陈少淼，等．面向大数据处理的并行优化抽样聚类 K-means 算法 [J].计算机应用,2016,36(2):311-315.(Zhou Runwu, Li Zhiyong，Chen Shaomiao，et al.Parallel optimization sampling clustering K-means algorithm for big data processing [J].Journal of Computer Applications,2016,36 (2):311-315.)   \n[2]海沫．大数据聚类算法综述[J].计算机科学,2016,43(s1):380-383. (HaiMo.Survey of clustering algorithms for big data [J].Computer Science,2016,43 (s1): 380-383.)   \n[3] 宋杰，孙宗哲，毛克明，等．MapReduce 大数据处理平台与算法研究 进展[J].软件学报，2017,28(3):514-543.(Song Jie,Sun Zongzhe, Mao Keming,et al. Research advance on mapreduce based big data processing platforms and algorithms [J]. Journal of Software,2017,28 (3): 514-543. )   \n[4]Ding Y,Fu X.Kernel-based fuzzy C-means clustering algorithm based on genetic algorithm [J].Neurocomputing,2016,188:233-238.   \n[5] 王勇臻，陈燕，张金松．一种改进的求解聚类问题的差分进化算法 [J]．计算机应用研究，2016,33（9):2630-2633.（Wang Yongzhen, Chen Yan, Zhang Jinsong.Improved differential evolution algorithm for clustering [J]．Application Research of Computers，2016,33 (9): 2630-2633.)   \n[6]Villar-Rodriguez E, Gonzalez-Pardo A,Ser JD,et al.A novel adaptive density-based ACO algorithm with minimal encoding redundancy for clustering problems [Cl// Proc of IEEE Evolutionary Computation. 2016:3139-3145.   \n[7]Santos P,Macedo M,Figueiredo E,et al. Application of PSO-based clustering algorithms on educational databases [C]// Proc of IEEE Computational Intelligence.2018:1-6.   \n[8] Anchalia P P,Roy K.The K-nearest neighbor algorithm using mapreduce paradigm [C]// Proc of IEEE International Conference on Intelligent Systems,Modelling and Simulation.2015: 513-518.   \n[9] 于彦伟，齐建鹏，陆云辉，等．时空轨迹大数据分布式蜂群模式挖掘 算法[J].计算机工程与科学,2016,38(2):255-261.(Yu Yanwei, Qi Jianpeng,Lu Yunhui,et al.Distributed swarm pattern mining algorithm in big spatio-temporal trajectory data [J]. Computer Engineering and Science,2016,38(2): 255-261.)   \n[10] Tsapanos N,Tefas A,Nikolaidis N,et al.Eficient MapReduce kernel K-means for big data clustering [J].Automatica,2016,43 (2): 1-5.   \n[11] Sinha A, Jana P K.A hybrid MapReduce-based K-means clustering using genetic algorithm for distributed datasets[J]. Journal of Supercomputing,2017 (8): 1-18.   \n[12]徐曼舒，汪继文，邱剑锋，等．基于改进人工蜂群的模糊C-均值聚 类算法[J].计算机工程与科学，2016,38(6):1238-1243.(Xu Manshu, Wang Liwen, Qiu Jianfeng,et al. A fuzzy C-means clustering algorithm based on improved artificial by colony[J]. Computer Engineering and Science,2016,38(6): 1238-1243.）   \n[13]徐辰华，李成县，喻昕，等．基于Cat 混沌与高斯变异的改进灰狼优 化算法[J].计算机工程与应用，2017,53(4):1-9.(Xu Chenhua,Li Chengxian, Yu Xin,et al. Improved grey wolf optimization algorithm based on chaotic Cat mapping and Gaussian mutation [J]. Computer Engineering and Applications,2017,53 (4): 1-9.）   \n[14] Mirjalili S,Mirjalili S M,Lewis A.Grey wolf optimizer[J].Advances in Engineering Software,2014,69 (3): 46-61.   \n[15] Karaboga D，Basturk B.A powerful and efficient algorithm for numerical function optimization: artificial bee colony(ABC) algorithm [J]. Journal of Global Optimization,2007,39 (3): 459-471.   \n[16] Kishor A, Singh PK. Empirical study of grey wolf optimizer [C]//Proc of the 5th International Conference on Soft Computing for Problem Solving. Singapore: Springer,2016:1037-1049. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

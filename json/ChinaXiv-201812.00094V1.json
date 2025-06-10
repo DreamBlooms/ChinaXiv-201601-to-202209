@@ -1,0 +1,702 @@
+[
+    {
+        "type": "text",
+        "text": "采用位置混沌重构的入侵杂草优化在盲源分离的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李著成1,²，黄祥林1\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．中国传媒大学 理工学部，北京 100024;2.北京联合大学 商务学院，北京 100025)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：传统盲源分离（blind source separation，BSS）优化算法的应用场合非常有限，而且分离性能不高，为此提出了一种新的采用位置混沌重构的入侵杂草优化算法（invasive weed optimization，IWO)，并对其在盲源分离的应用进行了研究。新算法在每轮更新的初期驱动选出的较优个体向此时种群的最优个体做适当距离的移动，这样不仅会增加种群的多样性，避免算法出现早熟，而且也能够加快收敛速度。盲信号分离仿真实验证实，与标准IWO、粒子群优化算法（particle swarm optimization，PSO）和自然梯度算法（natural gradient，NG）相比，新算法的性能优势明显，收敛速度较快，分离精度较高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：入侵杂草优化算法；盲源分离；位置重构；混沌 中图分类号：TN911.7 doi:10.19734/j.issn.1001-3695.2018.07.0547 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application of invasive weed optimization based on location chaos reconstruction to blind source separation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Zhucheng1,2, Huang Xianglin1† (1.FacultyofScience&TechnologyCommunication UniversityofChina,Beijing0o24,China;2.BusinessCollege, Beijing Union University,Beijing 10o025,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aiming atthe limitationof traditional optimizationalgorithm for blind source separation (BSS）,this paper proposesa new invasive weed optimization (IWO)based on location chaos reconstruction,and explores its aplication to BSS.The new algorithm drivers thesuperior individuals towards theoptimal individual ofthe population at theearlystage of each update.Itcan accelerate the convergence speed,increase the population diversity andavoid the premature convergence.Simulation experiments for BSS show that the proposed algorithm is more efective than the basic IWO, particle swarmoptimization (PSO)and natural gradient (NG)，and has fasterconvergence speed and higher separation accuracy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: invasive weed optimization; blind source separation; location reconstruction; chaos ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "盲源分离（blind source separation，BSS）是指在源信号和混合系统特性未知的情况下，仅由观测信号（也被称为混合信号）恢复出源信号各个独立成分的技术，是当前信号处理领域的研究热点，其研究成果已广泛应用于图像处理、语音识别、生物医学和机械故障检测等诸多场合[1-4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "独立分量分析(independent component analysis,ICA)是将一组混合信号矢量还原成一组统计独立的矢量，使得各矢量成分之间的依赖性最小的过程。独立分量分析是盲信号分离的一种重要技术。一般说来，基于ICA的BSS有两个重要组成部分：独立性判据和和优化算法。独立性判据用来规定或描述分离信号的统计独立性，而优化算法的作用则是在判据函数空间通过某种方法寻找到最优解（最佳分离矩阵)，是决定BSS算法收敛速度和分离精度高低的关键性因素。因此，选择一种恰当的优化算法是有效实现BSS技术的重要保证。传统BSS优化算法基于自然梯度（natural gradient，NG)，不仅要求判据函数空间是凸的、连续可微的，而且无法处理多峰的复杂优化问题，所以梯度优化方法的应用受到了很大的限制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为解决上述问题，智能仿生优化算法在最近几年逐渐被应用于BSS，如遗传算法（genetic algorithm，GA)[5,6],PSO[6,7]和蚁群算法（antcolonyalgorithm，ACA）[8]等。智能仿生优化算法是通过模拟自然界生物种群的行为特点、进化规律和生存方式而发展起来的一种演化计算技术，是人工智能一个新的研究分支，一般不要求判据的凸性与连续性，甚至对解析表达式都不要求，对计算数据的不确定性也有很强的适应能力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "入侵杂草优化算法（invasive weed optimization，IWO）由Mehrabian等人[9提出，模仿了自然界杂草的种子繁殖、扩散、生长和竞争性消亡的殖民化过程，是一种全新的优化计算方法，具有很强的鲁棒性和自适应性。与其他群智能优化算法相比，IWO算法在进化过程中，种群的所有个体都有机会繁殖出下一代个体，适应度越高的个体产生的后代数量会越多，这种机制使得算法搜索能力更强，更符合自然进化的法则。同时，算法不需要较大的存储空间来记忆所有个体的进化轨迹，空间复杂度较小。IWO算法自诞生起就引起了国际学术界的广泛关注，逐渐成为解决实际工程优化问题的一种有力工具[10\\~12]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了克服 BSS 传统优化算法的局限性和进一步发挥IWO 算法的优势，本文提出了一种采用位置混沌重构的入侵杂草优化算法（invasive weed optimization based on locationchaosreconstruction，LCR-IWO)，然后将其应用在盲分离中。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 盲源分离基本算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1数学模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "盲信号的混合过程可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\boldsymbol { x } ( t ) = \\boldsymbol { A } \\boldsymbol { s } ( t ) + \\boldsymbol { n } ( t ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $A$ 为 $m \\times n$ 维混合矩阵， $\\pmb { \\mathscr { s } } ( t ) = \\left[ \\mathrm { s } _ { 1 } \\left( t \\right) , \\mathrm { s } _ { 2 } \\left( t \\right) , \\cdots , \\mathrm { s } _ { n } \\left( t \\right) \\right] ^ { T }$ 为源信号， $t$ 为采样时间， ${ \\boldsymbol { x } } ( t ) = \\left[ x _ { 1 } \\left( t \\right) , x _ { 2 } \\left( t \\right) , \\cdots , x _ { m } \\left( t \\right) \\right] ^ { T }$ 为观测信号，是源信号 $s$ 经过 $A$ 混合后的信号数据， $n ( t ) = \\left[ n _ { 1 } \\left( t \\right) , n _ { 2 } \\left( t \\right) , \\cdots , n _ { m } \\left( t \\right) \\right] ^ { T }$ 为噪声，一般不予考虑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "盲源分离的目标是在没有任何先验知识的情况下，仅仅根据观测信号 $x$ 计算出分离矩阵W，进而得到源信号的估计$y ( t ) = \\left[ y _ { 1 } \\left( t \\right) , y _ { 2 } \\left( t \\right) , \\cdots , y _ { n } \\left( t \\right) \\right] ^ { T }$ 。 $y$ 也被称为分离信号，这一过程可以描述为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { y } ( t ) = \\boldsymbol { W } \\boldsymbol { x } ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于源信号和传输信道特性都是未知的，所以分离信号y的各分量在幅度和排列次序上具有随机性，这种现象被称为盲源分离的模糊性或不确定性[13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2信号的预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在一般情况下，观测信号分量间都具有相关性，所以在分离信号之前需要对信号数据进行预处理，提高算法执行的效率。信号预处理最常见的方法一是使信号的均值为零，即中心化，二是预白化或球面化[14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）中心化（centering）",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "也称均值化处理，但并不是所有基于ICA的盲源分离算法都必须要求这一步骤。中心化不会影响到信号后续的分离，而且在信号恢复后，还可以再将均值向量加到恢复的信号上。观测信号中心化的表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\overline { { x } } } = x { \\mathrm { - E } } \\left[ x \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2）预白化（prewritening）",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "也被称为白化（writening）或球面化（sphering)，目的是让信号各个分量之间不相关，是盲分离重要的预处理手段之一。白化过程降低了混合矩阵的维数，减少了被估计的参数个数，从而也大大降低了计算的复杂度。对观测信号进行预白化的一个常用方法是特征值分解（eigenvaluedecomposition，EVD)，白化的过程实质为求白化矩阵 $\\boldsymbol { v }$ 。设A $\\lambda _ { 2 }$ ： $\\lambda _ { n }$ 为协方差矩阵 $\\operatorname { E } \\left[ x x ^ { T } \\right]$ 特征分解后的特征值， $\\boldsymbol { \\mathsf { \\Pi } } _ { E }$ 是此特征值对应的特征向量组成的矩阵，对角阵$D = \\mathrm { d i a g } [ \\lambda _ { 1 } \\lambda _ { 2 } \\cdots \\lambda _ { n } ]$ ，则白化矩阵 $V$ 的计算表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV { = } E D ^ { - 1 / 2 } E ^ { \\scriptscriptstyle T }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "观测信号白化后的输出 $\\boldsymbol { v }$ 的表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { V } = V x\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3）独立性判据的选取",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "峭度和负熵是信号处理领域常见的统计独立性度量方法。通常情况下，用四阶累积量定义随机变量 $y$ 的峭度：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { k u r t } \\left( y \\right) = \\mathrm { E } \\left[ y ^ { 4 } \\right] - 3 \\mathrm { E } ^ { 2 } \\left[ y ^ { 2 } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "负熵不易被准确计算，可以通过下式来近似替代[15]:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ \\left( y \\right) \\approx \\frac { 1 } { 1 2 } k _ { 3 } ^ { ^ 2 } \\left( y \\right) + \\frac { 1 } { 4 8 } k _ { 4 } ^ { ^ 2 } \\left( y \\right) + \\frac { 7 } { 4 8 } k _ { 3 } ^ { ^ 4 } \\left( y \\right) - \\frac { 1 } { 8 } k _ { 3 } ^ { ^ 2 } \\left( y \\right) k _ { 4 } \\left( y \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $k _ { j }$ 表示 $y$ 的第 $j$ 阶累积量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果 $y$ 的概率分布对称，那么 $k _ { 3 } = 0$ ，这时负熵为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ \\left( y \\right) \\approx \\frac { 1 } { 4 8 } k _ { 4 } ^ { 2 } \\left( y \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { \\scriptscriptstyle 4 } \\left( y \\right) = \\mathrm { k u r t } \\left( y \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所以，峰度可以看做是负熵的一种特殊情形。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 入侵杂草优化算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1算法原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IWO算法通过群体中优秀个体来指导种群的殖民化，运用正态分布动态改变标准差的扩散方式将产生的种子散布在父代个体周围，兼顾了全局搜索和局部搜索。然后，采用子代与父代生存竞争机制，较大限度地保留了有用信息。种群通过这种机制不断进化最终得到最优解。算法考虑了群体的多样性和进化速度，搜索能力较强，能够较大程度避免早熟的发生。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "入侵杂草算法总体可分为：种群初始化、繁殖、空间扩散分布和生存竞争等四个过程[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2数学描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1种群初始化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "确定初始杂草数量 $N _ { 0 }$ 和最大杂草规模 $N _ { \\mathrm { m a x } }$ 、最大迭代次数 $\\mathrm { i t e r } _ { \\operatorname* { m a x } }$ 、问题维数 $D$ 、繁殖的种子数上限 $\\mathrm { s e e d } _ { \\mathrm { m a x } }$ 和下限$\\mathsf { s e e d } _ { \\mathrm { m i n } }$ 、标准差初始值 ${ \\sigma } _ { \\mathrm { i n i t } }$ 和最终值 $\\sigma _ { \\mathrm { f i n a l } }$ 、杂草适应度函数的最小值 $f _ { \\mathrm { m i n } }$ 和最大值 $f _ { \\mathrm { m a x } }$ 。然后将产生的种群个体随机散布在判据函数空间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2繁殖 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "杂草在繁殖过程中所生产的种子数量与它的适应度值成正比，这样使得适应度较小的个体只允许繁殖少量的子代，而适应度较大的个体则可以繁殖较多子代。规定适应度最大的杂草个体产生的种子数量为 $\\mathrm { \\ s e e d } _ { \\mathrm { \\tiny { m a x } } }$ ，适应度最小的杂草个体产生的种子数量为 $\\operatorname { s e e d } _ { \\operatorname* { m i n } }$ ，而其他个体生成的种子数与其适应度值服从向下取整的线性关系。杂草 $i$ 生产的种子数量的表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { s e e d } } _ { i } = \\mathrm { f l o o r } _ { \\mathrm { d o w n } } \\left( { \\frac { f _ { i } - f _ { \\mathrm { m i n } } } { f _ { \\mathrm { m a x } } - f _ { \\mathrm { m i n } } } } { \\big ( } { \\mathrm { s e e d } } _ { \\mathrm { m a x } } - { \\mathrm { s e e d } } _ { \\mathrm { m i n } } { \\big ) } + { \\mathrm { s e e d } } _ { \\mathrm { m i n } } \\right) ( 1 - { \\mathrm { s e e d } } _ { \\mathrm { m a x } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathbf { f l o o r } _ { \\mathrm { d o w n } }$ 代表向下取整函数， $f _ { i }$ 代表杂草 $i$ 的适应度值。  \n图1表示杂草 $i$ 生产种子的方式[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.3扩散 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "杂草产生的种子以正态分布 $N ( 0 , 1 )$ 的方式分布在父代个体的周围，迭代次数和标准差的关系如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\it \\mathrm { \\ i t e r } } = \\frac { \\left( \\mathrm { i t e r } _ { \\mathrm { m a x } } \\it - \\mathrm { i t e r } \\right) ^ { \\theta } } { \\it \\ i t e r _ { \\mathrm { m a x } } ^ { \\theta } } \\left( \\sigma _ { \\it \\mathrm { i n i t i a l } } - \\sigma _ { \\it \\mathrm { f i n a l } } \\right) + \\sigma _ { \\it \\mathrm { f i n a l } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathrm { i t e r } _ { \\operatorname* { m a x } }$ 和iter分别表示迭代循环的最大次数和当前迭代数， $\\theta$ 为非线性调和因子， $\\sigma _ { \\mathrm { i n i t i a l } }$ 为标准差初始值， $\\sigma _ { \\mathrm { f i n a l } }$ 为标准差最终值。从式(11)中可以看出，标准差 $\\sigma$ 的逐渐减少使父代的搜索区域和种群的多样性被逐渐减少，这样会使适应度值较好的个体聚集在一起而一些适应度值较差的个体被淘汰。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.4生存竞争",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经过一定迭代次数后，杂草种群规模会达到设定的上限$N _ { \\mathrm { m a x } }$ 。此时，种群进行生存竞争，其规则是父代和子代所有个体按适应度值高低进行排序，适应度较高的排序前 $N _ { \\mathrm { m a x } }$ 株杂草个体将保留下来继续进化，而其他适应度低的杂草个体根据适者生存的原则被淘汰。此后，杂草种群规模会按这种方式维持不变，只保留生存能力强的杂草进行后续的搜索。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b542a9364c709928cee825c1b6debf1e23ba963015ac9ffb5bfa551d77bd1e97.jpg",
+        "img_caption": [
+            "图1杂草i生产种子的方式"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3位置混沌重构策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标准IWO算法虽然具备很多优点，但仍然存在一些缺陷：对于高维问题空间，算法搜索的时间较长；其次，算法种群的繁殖和生存竞争机制主要依据个体适应度的高低来进行，适应度小的杂草只允许产生少量种子或直接被淘汰，可能会丢失一些附近存在全局最优解的个体，某程度上削弱了杂草种子全局扩散的可能性，使算法容易早熟。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为此，本文提出一种基于位置混沌重构的IWO算法，在每轮算法迭代的初期预先对选出的优秀杂草个体进行位置重构，驱动这些个体向种群此时的最优个体移动，使部分杂草个体跳出局部极值点，快速引导整个种群搜索到全局最优点。文献[16]提出的FireflyAlgorithm（FA）思想为位置重构的实现提供了方向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先，定义杂草个体 $i$ 和 $j$ 之间的吸引力（其本质可以看成为对方杂草所在田野对本杂草的吸引力）表达式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi = \\xi _ { 0 } \\times e ^ { - r _ { i j } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\xi _ { 0 }$ 为最大吸引系数，因为两株杂草之间的吸引力会随着二者距离的增加逐渐减弱，吸引系数的引入用来体现这种特性； $r _ { i j }$ 为杂草个体 $i$ 和 $j$ 之间的空间距离。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "那么，杂草 $i$ 向杂草 $j$ 移动的距离由下式决定：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } \\left( k + 1 \\right) = x _ { i } \\left( k \\right) + \\xi \\times \\left( x _ { j } \\left( k \\right) - x _ { i } \\left( k \\right) \\right) + \\psi \\times \\left( \\mathrm { r a n d } - 0 . 5 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $x _ { i }$ 、 $x _ { j }$ 为个体 $i$ 和 $j$ 对应的空间位置， $\\psi \\in [ 0 , 1 ]$ 为步长因子，ranc $\\mathsf { l } \\in \\left[ 0 , 1 \\right]$ 为服从均匀分布的随机因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一般将由确定性方程得到的随机性的运动状态称为混沌，自然界和社会生活中混沌现象随处可见，是非线性系统中一种较为普遍的现象，行为复杂且类似随机。但看似一片混乱的混沌背后其实存在着一定规律。混沌现象具有随机型、规律性和遍历性三个性质，非常适合用来研究全局优化问题，尤其是遍历性，可以帮助改进智能优化算法的不足，避免其早熟[17]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，为了进一步加强种群的多样性，考虑运用混沌理论对式（12）（13）的权重进行混沌处理。混沌模型的形式有很多种，不同的混沌模型对混沌优化过程的影响不同。最常见的是Logistic 混沌模型，但Logistic 遍历的不太均匀性会影响算法的性能。立方混沌映射要比Logistic 映射具有更快的收敛速度与更好的遍历均匀性。所以，本文采用立方混沌模型对 $\\xi _ { 0 }$ 和 $\\psi$ 进行构造：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi _ { 0 } \\left( k + 1 \\right) = 4 \\left( \\xi _ { 0 } \\left( k \\right) \\right) ^ { 3 } - 3 \\xi _ { 0 } \\left( k \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi ( k + 1 ) = 4 { \\left( \\psi ( k ) \\right) } ^ { 3 } - 3 \\psi ( k )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在实际应用中，只要立方映射的迭代初值不为0，混沌就会发生。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 采用位置混沌重构的入侵杂草优化盲分离算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1算法流程图",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2为基于位置混沌重构的入侵杂草优化（LCR-IWO）的盲分离算法流程图。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4ea00e91c6e2d9dc7861ead881b206ccdee9de179754b91484d76c90dce9c14.jpg",
+        "img_caption": [
+            "Fig.1Seed production procedure of weedi ",
+            "图2基于LCR-IWO 的BSS 算法流程图 Fig.2Flow chart of BSS based on LCR-IWO "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2算法实现步骤 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据图2得出算法的实现步骤：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)读取观测信号 $x$ ，对其进行均值化、白化处理;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)初始化参数 $N _ { 0 }$ 、 $N _ { \\mathrm { m a x } }$ 、 $\\mathrm { i t e r } _ { \\operatorname* { m a x } }$ 、 $\\mathrm { s e e d } _ { \\mathrm { m a x } }$ 、 $\\mathrm { s e e d } _ { \\mathrm { m i n } }$ 、 $\\sigma _ { \\mathrm { i n i t i a l } }$ 、$\\sigma _ { \\mathrm { f i n a l } }$ 、非线性调和因子 $\\theta$ 、 $f _ { \\mathrm { m i n } }$ 、 $f _ { \\mathrm { m a x } }$ ，随机产生初始杂草种群；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)计算杂草个体的适应度值（峭度)，并记录最优个体的适应度值 $f \\left( x _ { \\mathrm { o p t } } \\right)$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)对新组建的种群个体进行位置混沌重构；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)计算每株杂草产生的种子个数;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)计算子代个体正态分布的标准差，生成的种子被散布并成长为后代杂草个体；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "g)计算父代和子代杂草个体的适应度值，并按适应度值从大到小排序；如果当前种群最优杂草的 $f$ 优于公告板记录的 $f \\left( x _ { \\mathrm { o p t } } \\right)$ ，则更新 $f \\left( x _ { \\mathrm { o p t } } \\right)$ ·",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "h)若新种群的杂草数量超过 $N _ { \\mathrm { m a x } }$ 时，保留适应度值前$N _ { \\mathrm { m a x } }$ 株杂草组成新的种群，此后种群的规模保持为 $N _ { \\mathrm { m a x } }$ ;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "i）若迭代次数达到了结束条件，算法停止运行，输出结果，否则转到d）继续执行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3计算机仿真实验",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证新算法的有效性，本节通过盲信号分离的仿真实验，将提出的新算法与标准IWO、PSO 和NG 算法进行分离性能的比较。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.1实验环境及参数取值 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3为三路具有3000个采样点的源信号s： $s _ { 1 }$ 为锯齿波信号、 $s _ { 2 }$ 为一段随机的FSK信号、 $s _ { 3 }$ 正弦函数与余弦函数乘积信号，源信号对应直方图见图4。实验随机生成的混合矩阵A为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c c c } { { 0 . 4 1 0 4 } } & { { 0 . 4 7 8 2 } } & { { 0 . 6 1 6 4 } } \\\\ { { 0 . 0 1 5 3 } } & { { 0 . 8 6 4 5 } } & { { 0 . 5 3 6 1 } } \\\\ { { 0 . 1 4 3 5 } } & { { 0 . 8 6 3 2 } } & { { 0 . 3 1 5 8 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "源信号 $s$ 被随机矩阵A混合后产生的观测信号 $x$ （经过白化）及其对应直方图分别见图5、6。LCR-IWO算法各参数取值情况见表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "度 0  \n幅0 500 1000 1500 2000 2500 3000采样点数  \n度 0 <70000 /W00  \n幅0 500 1000 1500 2000 2500 3000采样点数  \n度 m  \n幅0 500 1000 1500 2000 2500 3000采样点数5  \n牌 >>>>><>>>>>>>>>>>>>>>-50 500 1000 1500 2000 2500 3000采样点数5  \n度 >><>>>>><>>>><\\>>>>>>>  \n幅-50 500 1000 1500 2000 2500 3000采样点数50 <><>><}>\\>>>>>><<><-50 500 1000 1500 2000 2500 3000采样点数",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a308890ed8972955ed1a6e7e43b75418f5ba24a759e2c8200e35592f857a331e.jpg",
+        "img_caption": [
+            "图3源信号",
+            "图4源信号直方图",
+            "Fig.4Histograms of source signals "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0ef34dee5c4ee43642d272636b3f0ef718b96047d6b7ac0567ff23b14c95d70.jpg",
+        "img_caption": [
+            "图6混合信号直方图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c9333f696d2ba0fe82ccaacb0a3c0344c15275567e106e30ba0ad21f393e075.jpg",
+        "table_caption": [
+            "Fig.6Histograms of mixed signals 表1 LCR-IWO 算法实验参数取值 ",
+            "Table1The parameters used in LCR-IWO "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>N</td><td>Nmax</td><td>itermax</td><td>seed mx</td><td>seed min</td><td>Oinitial</td><td>Ofinal</td><td>0</td></tr><tr><td rowspan=\"3\">意义</td><td>初始杂</td><td>最大杂</td><td>最大迭</td><td>可产生的</td><td>可产生的</td><td>标准差</td><td>标准差最非线性调</td><td></td></tr><tr><td>草规模</td><td></td><td>代次数</td><td>最大种子</td><td>最小种子</td><td></td><td></td><td></td></tr><tr><td></td><td>草规模</td><td></td><td>数量</td><td>数量</td><td>初始值</td><td>终值</td><td>和因子</td></tr><tr><td>取值</td><td>5</td><td>20</td><td>100</td><td>5</td><td>2</td><td>0.3</td><td>0.0005</td><td>3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.2实验结果及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图7是新算法在更新16次以后的分离信号（对应直方图见图8)，可以看出源信号已经被较好地恢复。但将图7与图3对比发现，分离信号各分量与源信号的对应分量相比不仅顺序全部发生了改变，而且相位和幅度也大部分有所变化，这种情况是由盲分离的不确定性决定的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图9是四种优化算法的适应度值曲线图，看出新算法比标准IWO、PSO和NG算法的分离性能要好，收敛速度和恢复精度均为最高：收敛速度从大到小的排序为$\\mathrm { s p e e d } _ { \\mathrm { L C R - I W o } } > \\mathrm { s p e e d } _ { \\mathrm { I W o } } > \\mathrm { s p e e d } _ { \\mathrm { p S o } } > \\mathrm { s p e e d } _ { \\mathrm { N G } }$ ，收敛时的适应度值从大到小的排序为 $\\mathrm { f i t n e s s } _ { \\mathrm { L C R - I W o } } > \\mathrm { f i t n e s s } _ { \\mathrm { I W o } } > \\mathrm { f i t n e s s } _ { \\mathrm { p S o } } > \\mathrm { f i t n e s s } _ { \\mathrm { N G } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2列举了四种优化算法在某些迭代时刻的适应度值（各算法收敛时的适应度值被加粗显示)，可知各算法的收敛速度： $\\mathrm { s p e e d } _ { \\mathrm { L C R - I W O } } { = } 1 6 .$ 、speed $_ { \\mathrm { \\tiny ~ I w o } } = 2 7$ 、speed $\\scriptstyle \\mathtt { \\mathtt { P S O } } = 3 7$ ，NG的收敛情况未知；收敛时的适应度值 $\\mathrm { f i t n e s s } _ { \\mathrm { L C R - I W O } } { = } 1 . 0 7 7 3$ 、 $\\mathrm { f i t n e s s } _ { \\mathrm { { I w o } } } { = } 0 . 8 7 7 8$ 、fitness $ \\scriptstyle \\operatorname { \\dot { \\Gamma } } _ { \\mathrm { P S O } } = 0 . 8 2 7 0$ ，NG收敛情况未知。所以从表2能够定量地分析出LCR-IWO的性能明显高于其他三种算法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图10是新算法得到的分离信号和源信号的散点图，从图中同样可以直观地看出分离信号各分量，与源信号的对应分量相比较，顺序、相位和幅度大部分发生了变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "20 <≥2<><>>≥/<>/<>≥<-20 500 1000 1500 2000 2500 3000采样点数5  \n牌 0 >>>>>>>?>>?>><>>>>?>?>-50 500 1000 1500 2000 2500 3000采样点数2  \n邮 0-20 500 1000 1500 2000 2500 3000采样点数",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6b87724fdc7acf7b9d883d159746637eba1cf38b8aa840194497da9fac44737.jpg",
+        "img_caption": [
+            "Fig.3Source signals ",
+            "图5混合信号",
+            "Fig.5Mixed signals ",
+            "图7分离信号",
+            "Fig.7Separated signals ",
+            "图8分离信号直方图",
+            "Fig.8Histograms of separated signals "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbf73479b8175ddb1abd736e3b25326fe194e0ee8137898ebc1bdc25d32caa0f.jpg",
+        "img_caption": [
+            "图9四种优化算法的适应度曲线",
+            "表2四种优化算法在某些迭代时刻的适应度值"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/473864a97ab608e32811e8cd506991ccf855ce78ef11546b9eae9ca3d9486907.jpg",
+        "table_caption": [
+            "able 2 Fitness versus iteration number of four optimizatio "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">algorithms</td></tr><tr><td>算法</td><td>5次</td><td>10次</td><td>16次</td><td>20次</td><td>27次</td><td>30次</td><td>37次</td><td>70次</td><td>100次</td></tr><tr><td>LCR-IWO</td><td>0.7399</td><td>1.0058</td><td>1.0773</td><td>1.0773</td><td>1.0773</td><td>1.0773</td><td>1.0773</td><td>1.0773</td><td>1.0773</td></tr><tr><td>IWO</td><td>0.7467</td><td>0.7754</td><td>0.8494</td><td>0.8516</td><td>0.8778</td><td>0.8778</td><td>0.8778</td><td>0.8778</td><td>0.8778</td></tr><tr><td>PSO</td><td>0.3938</td><td>0.6258</td><td>0.6807</td><td>0.6807</td><td>0.6807</td><td>0.7058</td><td>0.8270</td><td>0.8270</td><td>0.8270</td></tr><tr><td>NG</td><td>0.0611</td><td>0.0844</td><td>0.1250</td><td>0.1633</td><td>0.2351</td><td>0.2579</td><td>0.2871</td><td>0.4515</td><td>0.5632</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/818517a6355052b918a3c518d552665c043625c305d4501e7aa1d687440c9a52.jpg",
+        "img_caption": [
+            "ig.9Fitness curves obtained by four optimization algorithm ",
+            "图10源信号与分离信号的散点图",
+            "Fig.10Scatter plots of separated signals versus source signals "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法各参数的取值可以遵循一定的规则进行[18:19]。初始种群规模 $\\ d _ { N _ { 0 } }$ 选的不要太大，否则反而会影响进化速度且不会明显提高分离精度。此外， $ { \\mathcal { N } } _ { 0 }$ 的取值应该结合最大种群规模$N _ { \\mathrm { m a x } }$ 一起考虑，要与该值有一定距离，以提高种群的多样性，对于大多数优化问题， $N _ { 0 }$ 应在 $N _ { \\mathrm { m a x } }$ 的1/8\\~1/2之间取值。 $N _ { \\mathrm { m a x } }$ 值较大有利于增加种群的多样性，但仅仅依靠增加 $N _ { \\mathrm { m a x } }$ 值并不能有效提高算法的性能，而且会增加算法的运行时间，所以 $N _ { \\mathrm { m a x } }$ 的取值要依据实际情况，一般在10\\~50之间即可。繁殖的种子数上限 $\\mathrm { \\ s e e d _ { \\mathrm { { m a x } } } }$ 一般设为3\\~5的整数，下限 $\\mathrm { s e e d } _ { \\mathrm { m i n } }$ 一般设为1或2。对于标准差，首先要满足初始值 ${ \\sigma } _ { \\mathrm { i n i t } }$ 大于最终值$\\sigma _ { \\mathrm { f i n a l } }$ ，实现从进化初期全局寻优到进化后期局部寻优的转变。一般情况下，在满足 $\\sigma _ { \\mathrm { i n i t i a l } } > \\sigma _ { \\mathrm { f i n a l } }$ 成立的基础上，充分考虑标准差对目标函数寻优的影响程度。非线性调和因子 $\\theta$ 对算法也具有很大的影响，研究发现该值的最佳选择一般是3。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种基于位置混沌重构的入侵杂草算法(LCR-IWO)，该方法在每轮迭代的初期首先对选出的优秀个体进行位置重构，使部分杂草个体跳出局部极值点，从而引导整个种群以较快的速度找到全局最优点。所谓位置重构，就是驱动选出的较优个体向当时的最优个体移动适当的距离。然后，为了进一步加强种群的多样性，对位置移动模型的某些权重进行了混沌处理。在此基础上，为了克服传统BSS优化算法应用范围有限和性能不高的缺点，本文将LCR-IWO算法应用到BSS，与基于标准IWO、PSO和NG算法的对比实验结果表明，新算法的不仅收敛速度较快，而且分离精度也较高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Mallis D，Sgouros T,Mitianoudis N.Convolutive audio source separation using robust ICA and an intelligent evolving permutation ambiguitysolution[J].EvolvingSystems，2017:articleID s12530-017-9199-3.   \n[2] 张立毅，刘静光，陈雷，等．基于差分搜索的高光谱图像解混算法 [J]．计算机应用研究，2016，33(10):3177-3180.(ZhangLiyi，Liu Jingguang,Chen Lei,et al. Unmixing of hyperspectral images based on differential search [J].Application Research of Computers，2016, 33(10):3177-3180.)   \n[3]Jadhav M S H,Dhang MD N. Extraction of fetal ECG from abdominal recordings combining BSS-ICA & WT techniques [J]. International Journal of Engineering,2017,10(1): 869-875.   \n[4]Farhat M,Gritli Y,Benrejeb M.Fast-ICA for mechanical fault detection and identification in electromechanical systems for wind turbine applications [J].International Journal of Advanced Computer Science and Applications,2017,8(7):article ID 080759.   \n[5]Dadula CP,Dadios E P.A genetic algorithm for blind source separation based on independent component analysis [C]/Proc of IEEE HNICEM. Piscataway, NJ: IEEE Press,2014: 1-6.   \n[6]Mavaddaty S,Ebrahimzadeh A.Blind signals separation with genetic algorithm and particle swarm optimization based on mutual information [J].Radioelectronics and Communications Systems，2011，54(6): 315-324.   \n[7]Li Qiaoyan,Quan Haiyan.Analyze gravity tide signal based on ICA with PSO [C]/Proc of IEEE ICSPCC.Piscataway，NJ: IEEE Press, 2015: 1-4.   \n[8]王放，何选森．蚁群聚类的欠定盲源分离方法[J].计算机工程与应 用,2013,49(13):211-215.(Wang Fang,He Xuesen.Underdetermined blind separation based on ant colony clustering [J].Computer Engineering and Applications,2013,49(13): 211-215.）   \n[9]Mehrabian A R,Lucas C.A novel numerical optimization algorithm inspired from weed colonization [J].Ecological Informatics,2Oo6,1(4): article ID 3.   \n[10] Jahangir H,Mohammadi M,Pasandideh S H R,et al.Comparing performance of genetic and discrete invasive weed optimization algorithms for solving the inventory routing problem withan incremental delivery [J]. Journal of Inteligent Manufacturing,2018: article ID s10845-018-1393-z.   \n[11] Pouya A R,Solimanpur M,Rezaee M J. Solving multi-objective portfolio optimization problem using invasive weed optimization [J]. Swarm and Evolutionary Computation,2O16,28: article ID1.   \n[12] Silhavy R,Senkerik R,Oplatkova ZK,et al.Artificial intelligence perspectivesin intelligentsystems[M].Switzerland:Springer International Publishing,2016:115-126.   \n[13]刘琚．盲信号处理理论与应用[M]．北京：科学出版社，2013.(Liu Ju.Blind signal processing theory and its application in [M].Beijing: Science Press,2013.)   \n[14]Hyvärinen A,Oja E.Independent component analysis:algorithms and applications [J].Neural Networks,2000,13(4-5): 411-430.   \n[15] Comon P. Independent component analysis,a new concept?[J]. Signal Processing,1994,36(3): 287-314.   \n[16]Yang Xinshe.Cuckoo search and firefly algorithm [M].Switzerland: Springer International Publishing,2O14:1-26.   \n[17]黄润生，黄浩．混沌及其应用[M].武汉：武汉大学出版社，2005. (Huang Runsheng,Huang Hao. Chaos and its application [M].Wuhan: Wuhan University Press,2005.)   \n[18]刘燕．入侵杂草优化算法在阵列天线综合中的应用[D]．西安：西安 电子科技大学,2O15.(Liu Yan.Invasive weed optimization algorithm for the synthesis of antenna arrays [D].Xi'an: Xi'an Electronic and Science University,2015.)   \n[19]赵晓雯．稀布阵列天线的压缩感知和入侵杂草优化算法研究[D].. 北京：中国科学院国家空间科学中心,2016.(Zhao Xiaowen.Study of sparse array antenna synthesis based on compressed sensing and invasive weed optimization [D].Beijing:National Space Science Center, Chinese Academy of Sciences,2016.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

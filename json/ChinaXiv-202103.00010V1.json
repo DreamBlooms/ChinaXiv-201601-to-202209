@@ -1,0 +1,580 @@
+[
+    {
+        "type": "text",
+        "text": "2000一2018年中亚五国水分利用效率对气候变化的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郝海超1,23，郝兴明12，花顶1.2.3，秦景秀1,23，李玉朋1,3，张齐飞1.3(1.中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011；2.新疆阿克苏绿洲农田生态系统国家野外科学观测研究站，新疆阿克苏843017；3.中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：水分利用效率(Water use eficiency,WUE)是研究陆地碳水循环耦合的一种常用度量指标。基于MODIS的总初级生产力(GPP)和蒸散发(ET)数据，通过Slope趋势分析和敏感性分析等方法，研究了中亚WUE的时空变化规律及其对气候因子与干旱的动态响应。结果表明：(1)2000—2018年，中亚年均WUE随着生境湿润程度的增加而升高(生长期规律与此相反),其中湿地WUE最高 $\\left( 1 . 8 2 0 { \\pm } 0 . 1 0 \\ \\mathrm { g } \\ \\mathrm { C } { \\cdot } \\mathrm { m m } ^ { - 1 } { \\cdot } \\mathrm { m } ^ { - 2 } \\right)$ ，而灌丛WUE最低 $( 1 . 3 3 0 { \\pm } 0 . 1 8 \\ \\mathrm { g } \\ \\mathrm { C } { \\cdot } \\mathrm { m m } ^ { - 1 } { \\bullet } \\mathrm { m } ^ { - 2 } ) _ { \\circ } ( 2 )$ 中亚WUE呈略微下降趋势，每年下降速率为 $0 . 0 1 6 \\ \\mathrm { g \\ C \\cdot m m ^ { - 1 } \\cdot m ^ { - 2 } }$ ，年均WUE的显著下降区域大于上升区域。WUE对年降水和年气温的敏感性均表现为正值区大于负值区且均存在阈值效应，降水敏感性阈值介于 $2 5 0 { \\sim } 3 0 0 ~ \\mathrm { m m }$ （低值点）和 $5 0 0 { \\sim } 5 5 0 ~ \\mathrm { m m }$ （高值点），温度阈值介于 $3 { \\sim } 6 ~ \\mathrm { \\% }$ （高值点）和 $9 { \\sim } 1 2 ~ \\mathrm { \\% }$ （低值点），且 $\\varepsilon _ { \\mathrm { N D V I } }$ (WUE对NDVI敏感性系数）与降水变化呈正相关关系，与气温变化呈负相关关系。（3)通过WUE与标准化降水指数(SPEI)的相关性比较，发现WUE受干旱程度影响由大到小依次为灌丛、作物、森林、草原和湿地，且不同植被类型下WUE随着干旱程度的增加而升高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：中亚；敏感性；气候变化；水分利用效率；植被类型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水分利用效率(Wateruse efficiency，WUE)定义为碳同化或生产力与水分流失的比率，是研究陆地碳循环与水循环耦合的一种常用度量指标，已被认为是生态系统生产力的重要特征[2],同时也是生物能源作物绩效的关键指标[3]。在当前中亚生态环境恶化的背景下，量化WUE的时空变化对气候变化的响应具有重要意义4，对水资源的可持续管理以及生态系统服务具有指导意义[5]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因研究目的和对象不同，可以在叶、个体、冠层和区域尺度上分析WUE[,在生态系统层面，WUE涉及冠层(T)和土壤表面蒸发(E)的水分流失，它们对气温和水的变化具有不同的敏感性[7-8],计算为总初级生产力(Gross primary productivity,GPP)与蒸散发(Evapotranspiration,ET)的比率[6],生态系统水平聚焦于整个生态系统碳水通量的观测，以及降水、气温和植被覆盖指数(NDVI)等因子对生态系统生产力与蒸散的影响。生态系统WUE对气候响应变化的研究主要是通过空间或时间梯度分析进行的[10],由于多种环境因素对WUE交互影响的不确定性，要准确预测气候变化对碳水资源的区域影响，就必须考虑土地覆盖变化与气候之间的相互作用[1]。机制模型的应用使得WUE从林分或田间规模扩大到生态系统水平成为可能，从而可以更好地探究单个和多个环境因素对WUE的影响[],如气候因子：降水、气温及干旱等。另外，NDVI也可敏感地反映干旱半干旱区的气候变化[12]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着技术的发展，GPP、ET和WUE可通过遥感数据间接计算出，且卫星遥感数据具有时间序列长和空间范围广的优势，可为大尺度WUE的连续监测提供保证，因此，通过GPP和ET的比值直接计算出",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WUE已被广泛认可与应用[13-14]。裴婷婷等[15]通过黄土高原植被WUE对气候要素的敏感性研究，得出灌丛WUE对气温和降水的敏感度明显高于森林和草原。Yang等[1通过比较全球不同陆地生态系统WUE对干旱的响应，讨论了生态系统应对干旱的响应机制。目前，关于WUE研究较多，但中亚WUE研究较少，邹杰等1基于不同国家、土地利用类型及人口密度分析了近 $1 5 \\mathrm { ~ a ~ }$ 中亚GPP、ET和WUE的空间格局变化及趋势特征，并探讨了WUE变化的原因。邹杰等[18通过探究干旱区WUE对干旱的响应在不同地区和植被类型中的差异得出，发生干旱时，WUE对干旱通常表现出负面响应，干旱事件结束后，WUE与干旱指数呈现正相关关系，本研究中植被类型更多，时间序列更长，且干旱阶段划分更细，能更精细地探究中亚的水分利用效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中亚地处干旱半干旱区，水资源匮乏，地表植被稀少[19],生态系统极其脆弱，且气候变化影响剧烈[20]。苏联解体后，政策体制混乱，中亚部分区域的生态环境出现明显的退化甚至恶化，成为亚洲乃至世界上恶化最严重的区域之一，特别是植被生态系统成为全球碳循环估算中最不确定的环节之一，如干旱加剧、草原退化、湖泊萎缩等[21]。尤其是过去几十年来，由于气候变化，世界各地的干旱现象一直在增加[22],中亚内陆小水循环过程加快，高山冰雪快速消融，山区水储量进一步减少，直接改变径流补给构成，影响山地、绿洲和荒漠中植被水分利用状况，影响植被的生长及空间分布格局[23-25]中亚干旱区对水资源利用往往高耗低效，导致水资源矛盾愈演愈烈，水资源问题成为限制中亚发展和区域稳定的核心问题[26-28]。因此，本文在已有研究基础上，对中亚不同植被类型GPP、ET及WUE的多年时空变化进行分析，并定量评估WUE对气温、降水、NDVI的敏感性及对干旱的动态响应，为该区域生态修复及水资源利用与管理提供数据支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究区范围为中亚五国，正文称为“中亚”，中亚深处欧亚大陆腹地，东西横跨 $4 6 ^ { \\circ } 2 9 ^ { \\prime } \\sim$ $8 7 ^ { \\circ } 1 8 ^ { \\prime } \\mathrm { E }$ ,南北纵跨 $3 5 ^ { \\circ } 0 7 ^ { \\prime } { \\sim } 5 5 ^ { \\circ } 2 6 ^ { \\prime } \\mathrm { N }$ ，总面积约 $4 0 \\times$ $1 0 ^ { 5 } \\mathrm { k m } ^ { 2 }$ 。按行政区划分有哈萨克斯坦(Kazakhstan,",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KAZ）、土库曼斯坦（Turkmenistan，TKM）、乌兹别克斯坦（Uzbekistan,UZB）、吉尔吉斯斯坦(Kyrgyzstan,KGZ)和塔吉克斯坦(Tajikistan,TJK)（图1)。整个中亚呈现海拔自西部平原向东部山区逐渐升高，最高海拔共产主义峰为 $7 4 9 5 \\mathrm { ~ m ~ }$ ,塔吉克斯坦帕米尔地区和吉尔吉斯斯坦西部天山地区的高山区平均海拔 $4 0 0 0 { \\sim } 5 0 0 0 \\mathrm { ~ m }$ 。中亚以平原、丘陵及起伏山地为主，沙漠面积广阔。气候类型包括温带荒漠气候和温带草原气候及高原山地气候，自北向南从半干旱区向干旱区过渡。年均降水稀少，但降水的时空变率大。平均气温西部比东部高，南部比北部高。主要植被类型为森林、灌丛、草原、湿地和作物，其中草原面积最大，全区均有分布，森林主要分布在东部山区，作物分布在北部和南部区域",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1气象数据本文使用的气象数据选用英国EastAnglia大学ClimaticResearchUnit(简称CRU)提供的2000—2018年的降水和气温格点数据及标准化降水指数(SPEI)，空间分辨率 $0 . 5 ^ { \\circ } \\times 0 . 5 ^ { \\circ }$ ,有比较大的可信性。陈发虎等3通过分析中亚平均单位格点所用站点数的时间序列及不同时段所用的插值站点发现，1930年以后的CRU资料具有可靠性和适用性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2总初级生产力(GPP)、蒸散发(ET)和植被指数(NDVI)及土地利用数据本文探究2000—2018年水分利用效率（WUE）,主要基于MODIS中GPP(MOD17A2)和ET(MOD16A2)数据集，空间分辨率为 $5 0 0 \\mathrm { ~ m ~ }$ ,时间分辨率为 $8 \\textup { d }$ ;MOD13归一化植被指数(NDVI)时间尺度为 $3 0 \\mathrm { ~ d ~ }$ ,空间分辨率为 $1 ~ \\mathrm { k m }$ MCD12Q1数据产品作为土地利用类型，空间分辨率为 $5 0 0 \\mathrm { ~ m ~ }$ ,采用IGBP国际地圈生物圈计划（Interna-tional geo-biosphere programme,IGBP)的分类体系，中亚主要植被类型占比为：森林 $0 . 3 4 \\%$ 、灌丛 $2 . 8 1 \\%$ 、草原 $8 5 . 7 3 \\%$ 、湿地 $0 . 1 2 \\%$ 、作物 $6 . 2 6 \\%$ 和其他 $4 . 7 4 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1WUE的计算WUE定义为GPP/ET的比值。该指标反映了植被的光合作用生产过程与耗水特性之间的关系，采用单位面积上植物每蒸散 $1 \\mathrm { m m }$ 水所能固定的有机碳克数来表示( $\\bf \\Pi _ { g } ^ { \\prime } c \\cdot \\mathrm { m m } ^ { - 1 } \\cdot m ^ { - 2 } ,$ [31]1.3.2WUE的超势分析本文通过对2000—2018年中亚WUE逐年(逐月)栅格的一元线性回归分析，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "50E 60°E 70°E 80E 50E 60°E 70E 80E  \nNss (a)平均降水 350 3ss (b)平均气温 350KAZ KAZ 2  \n104 UZB 4454 UZB gr-m 4544TKM TKM  \n320 0 750km 35 350 0 750km 320L 1 150E 60E 70E 80E 50E 60E 70E 80E50E 60E 70E 80E 50E 60°E 70E 80E  \nNoss (c)土地利用类型 Soss Noss (d)高程及地貌类型 SossKAZ KAZ  \n4554 森林 4554 204 254UZBL  \n23 T 350 一 000地 3500 0水体 台地、丘陵 12500\\~7021极大起伏山地50E 60E 70E 80E 50E 60E 70E 80°E注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2016)1666号的标准地图制作，底图无修改。  \nKAZ，哈萨克斯坦;TKM，土库曼斯坦；UZB，乌兹别克斯坦； $\\operatorname { K G Z }$ ，吉尔吉斯斯坦;TJK，塔吉克斯坦。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1中亚概况",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算WUE的线性回归系数Slope ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { S l o p e } } = { \\frac { n { \\displaystyle \\sum _ { j = 1 } ^ { n } j \\times P _ { j } } - { \\displaystyle \\sum _ { j = 1 } ^ { n } j } \\times { \\displaystyle \\sum _ { j = 1 } ^ { n } P _ { j } } } { n { \\displaystyle \\sum _ { j = 1 } ^ { n } j ^ { 2 } } - { \\displaystyle \\left( { \\displaystyle \\sum _ { j = 1 } ^ { n } j } \\right) ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $n$ 为时间序列长度； $j$ 表示时间序列的第 $j$ 年； $P _ { j }$ 表示第 $j$ 年WUE的平均值;Slope是趋势线的线性回归系数。Slope ${ > } 0$ 表明植被WUE随时间呈上升趋势，反之呈下降趋势。其次，本文进一步对WUE的线性回归系数进行分级。WUE年际变化幅度range的表达式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { r a n g e } } = { \\mathrm { S l o p e } } ( n - 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用Lenhart和Eckhardt[32]的标准对WUE变化幅度进行分级，见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3敏感性系数文章采用Zheng等[33]运用的敏感性系数计算方法，分析年水分利用效率WUE对气象要素(降水和气温)及NDVI的敏感性。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon = { \\frac { { \\bar { X } } } { \\bar { Q } } } { \\frac { \\sum \\left( X _ { i } - { \\bar { X } } \\right) \\left( Q _ { i } - { \\bar { Q } } \\right) } { \\sum \\left( X _ { i } - { \\bar { X } } \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { \\varepsilon }$ 为WUE对气候要素的敏感系数，指气象要素变化 $1 \\%$ ,引起的WUE变化 $8 \\%$ · $i$ 表示时间序列的第 $i$ 年； $X _ { i }$ 为气象要素； $Q _ { i }$ 为WUE; $\\bar { X }$ ， $\\bar { Q }$ 分别为气象要素和WUE的多年平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为定量辨识气候要素及NDVI对WUE的贡献率，其贡献率的计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda = \\frac { \\Delta x } { \\bar { X } } \\times \\varepsilon \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\lambda$ 指气象要素及NDVI对WUE的贡献率； $\\Delta x$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc5f75c06ff4eebd7d5a2e809f128e9bd12abb48ab278479f8aa7587a9fb13ad.jpg",
+        "table_caption": [
+            "表1水分利用效率(WUE)变化幅度分级",
+            "Tab.1 Classification of WUE change magnitude "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变化幅度(range)</td><td>定义</td><td>变化幅度(range)</td><td>定义</td></tr><tr><td>range≤-1</td><td>重度下降</td><td>0≤range<0.05</td><td>轻度上升</td></tr><tr><td>-1<range<-0.2</td><td>高度下降</td><td>0.05≤range<0.2</td><td>中度上升</td></tr><tr><td>-0.2<range<-0.05</td><td>中度下降</td><td>0.2≤range<1</td><td>高度上升</td></tr><tr><td>-0.05<range≤0</td><td>轻度下降</td><td>range≥1</td><td>重度上升</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干辛区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为气象要素或NDVI的多年变化量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.4Pearson相关系数本文利用Pearson相关关系法对生态系统WUE和SPEI之间的相关关系进行了进一步分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1中亚WUE的时空变化特征及其趋势分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中亚2000—2018年月序列上，WUE变化幅度为 $0 { \\sim } 5 \\ \\mathrm { g } \\ \\mathrm { C } \\cdot \\mathrm { m m } ^ { - 1 } \\cdot \\mathrm { m } ^ { - 2 }$ ,GPP月序变化幅度为0\\~75$\\mathbf { g } \\mathbf { \\Lambda } \\mathrm { C } \\cdot \\mathbf { m } ^ { - 2 }$ ,ET变化幅度为 $0 { \\sim } 4 0 ~ \\mathrm { m m } { \\cdot } \\mathrm { m } ^ { - 2 }$ ,ET波动程度均比WUE和GPP复杂。WUE呈略微下降趋势，每月下降速率为 $0 . 0 0 1 \\ \\mathrm { g } \\mathrm { C } \\cdot \\mathrm { m m } ^ { - 1 } \\cdot \\mathrm { m } ^ { - 2 }$ ,与GPP峰谷波动趋势一致，呈单峰波动变化，且最高值均出现在夏季(6—8月）;最低值均出现在冬季(12月一次年2月），排序为夏季WUE>春季WUE>秋季WUE>冬季WUE（图 $2 \\mathrm { a } { \\sim } \\mathrm { b }$ ）。2000—2018年年内平均月序上，WUE与GPP及ET总体上变化规律一致，其中，GPP",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "870605040302010 (a)年际月序列变化 0.0001x+24.04 (P>0.05)   \n/ddg   \n2000 2001 2002 2003 2004 2005 2006 2007 20082009 20 20142015201620172018   \n4035 0.008x+20.21(P<0.05)   \n.w/mm 30   \n25   \n20   \n15   \n10   \n2000 20012002 2003 2004 2005 2006 2007 2008 2009 2010 20112012201320142015 20162017 2018   \nww.m 6543 0.001x+1.91 (P>0.05)   \n2   \n1   \n0   \n2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 年份   \n(b)年内月均序列变化 (c）年均序列变化 y=0.011x+23.94 (P<0.05) 58.35 55.99 26.66 28.92 50.61 39.43 626.2825.9726.2424.93 25.71 25.71 12.4727.62 23.48/ 25.03   \n1.98 3.73 22.67 10.33 3.80 1.59 22.0022.4524.25 22.23 20.621.6522.2V21.612 20.93 1 2 3 4 5 6 7 8 9 10 11 12 2000 2002 20042006 2008201020122014 2016 2018   \n30.250 18.98.15 246 16.82.84 19.45 .m/ 2523210 23.01 21.9221.9622.08 22.6322.42 18.52 1 2 3 4 5 6 7 8 9 10 11 12 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018   \ni 531 0.15 0.24 080 3.421 3.0712 0.18 .51 1 2 3 4 5 6 7 8 9 1011 12 2000 2002 2004 2006 2008 2010 20122014 2016 2018 月份 年份 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最大值为 $5 8 . 3 5 \\mathrm { ~ g ~ C ~ } \\cdot \\mathrm { m } ^ { - 2 }$ ，最低值为12月的1.59$\\mathbf { g } \\mathbf { C } \\cdot \\mathbf { m } ^ { - 2 }$ ,GPP与WUE的中高值所在时间范围均为生长期（4—10月）（图2b）。2000—2018年序列上，GPP与ET变化趋势一致，而WUE与GPP变化趋势不一致(图2c)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中亚不同季节WUE具有明显的空间差异，其中春季和秋季空间分布规律总体上变化一致，高值区主要集中在东南部中小起伏山地区域，主要为灌木和草原，低值区位于中北部平原作物及草原区和东部山地森林区（图 $\\mathrm { 3 a , d , g , j } ,$ )。WUE夏季和冬季空间差异大，夏季WUE高值区出现在中南部平原、丘陵及小起伏山地，主要植被类型为灌木和草原，低值区出现在北部平原丘陵区及东部山地区，主要植被类型为草原、作物及森林，与降水呈负相关关系，与气温呈正相关关系（图 $\\mathrm { 3 d . j }$ )；冬季WUE在中亚中部及北部全部区域为无值低值区，主要是由于冬季GPP为无值区，高值区位于气温高的南部中小起伏山地,符合以热量为基础的纬度地带性规律(图3j)，并且各个季节及生长期WUE整体上由内向外呈递减趋势，不同植被类型WUE随着生境湿润程度的降低而升高(图3h)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GPP与降水空间变化趋势一致，呈自西向东及以咸海流域为中心由内向外增加的趋势(图3b);ET规律与GPP相类似，中部平原大部分为低值无值区，均受降水影响大，总体趋势是呈自西向东，由内向外递增的趋势(图3e)。不同植被类型下，中亚多年平均GPP由高到低序列分布规律依次为：森林、作物、草原、湿地和灌丛，ET与上述GPP变化规律一致（图3c、f)。WUE变化规律不同于GPP和ET，由高到低序列为：湿地 $\\left( 1 . 8 2 { \\pm } 0 . 1 0 \\ \\mathrm { g } \\mathrm { C } { \\cdot } \\mathrm { m m } ^ { - 1 } { \\cdot } \\mathrm { m } ^ { - 2 } \\right.$ ；误差为STDEV标准偏差）、森林 $( 1 . 7 8 { \\pm } 0 . 2 0 \\mathrm { ~ g ~ C \\cdot m m ^ { - 1 } \\cdot m ^ { - 2 } } )$ 、作物 $( 1 . 6 7 { \\pm } 0 . 0 3 \\ \\mathrm { g } \\mathrm { C } { \\cdot } \\mathrm { m m } ^ { - 1 } { \\cdot } \\mathrm { m } ^ { - 2 } )$ 、草原 $( 1 . 5 3 { \\scriptstyle \\pm 0 . 1 2 } { \\mathrm { ~ g ~ C ~ } }$ ·$\\mathbf { m } \\mathbf { m } ^ { - 1 } \\cdot \\mathbf { m } ^ { - 2 } ,$ 和灌丛 $( 1 . 3 3 { \\pm } 0 . 1 8 \\ \\mathrm { g } \\ \\mathrm { C } \\cdot \\mathrm { m m } ^ { - 1 } \\cdot \\mathrm { m } ^ { - 2 } )$ ，发现WUE随着生境湿润程度的增加而升高，受到非生长期的干扰(图 $3 \\mathrm { i } , \\mathbf { k } , \\mathbf { l } )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2000—2018年，中亚部分地区WUE表现为增加趋势，但整体上WUE显著下降区域大于上升区域。其中，WUE上升的地区主要集中在哈萨克斯坦南部、乌兹别克斯坦中东部、土库曼斯坦东北部以及吉尔吉斯斯坦高山地区，以高度上升为主。WUE下降区域面积较大，主要集在哈萨克斯坦东中西大部分区域且相间分布，以高度下降为主；而乌兹别克斯坦东南部、塔吉克斯坦西南部以及土库曼斯坦西北部地区，以轻度下降为主；WUE表现重度下降区域主要有塔吉克斯坦西北部区域、巴尔喀什湖周围及一些湖泊周围（图 $4 \\mathrm { a } { \\sim } \\mathrm { b }$ )。中亚WUE趋势经过了显著性检验(图4b)，小部分区域 $P { < } 0 . 0 5$ ,极小部分区域 $P { < } 0 . 0 1$ ，但大部分空白区域 $P { > } 0 . 0 5$ （图4c）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2中亚WUE对降水、气温和NDVI的敏感性分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2000一2018年，中亚WUE对降水和气温的敏感性( $\\cdot \\varepsilon _ { \\mathrm { P r e } }$ 和 $\\dot { \\varepsilon } _ { \\mathrm { T e m . } }$ )具有明显的空间差异，而对NDVI敏感性 $\\left( \\varepsilon _ { \\mathrm { N D V I } } \\right)$ 的空间变化与其本身趋势较为一致，三者均为正值区大于负值区。 $\\varepsilon _ { \\mathrm { P r e } }$ 和 $\\varepsilon _ { \\mathrm { T e m } }$ 存在负相关关系，北部大部分区域 $\\varepsilon _ { \\mathrm { P r e } } > 0$ 而 $\\varepsilon _ { \\mathrm { T e m } } < 0$ ，南部则相反。$\\varepsilon _ { \\mathrm { P r e } }$ 正值区位于中亚中部和南部地区，大部分为草原和作物，占整个区域的 $5 6 . 0 5 \\%$ ;负值区位于西部和东部区域，大部分为草原、森林和湿地，占整个区域的 $4 3 . 9 5 \\%$ （图5a）。 $\\varepsilon _ { \\mathrm { T e m } }$ 正值区主要集中在中亚北部及中南部区域，占整个中亚的 $5 0 . 5 0 \\%$ ,负值位于中南部及西部区域，占整个区域的 $4 9 . 5 0 \\%$ （图5b）。$\\varepsilon _ { \\mathrm { P r e } }$ 整体上随降水以咸海流域为中心由内向外的增加而降低， $\\varepsilon _ { \\mathrm { T e m } }$ 规律随着气温由东北向西南的增加而降低。εNDvI正值区占整个区域的 $6 6 . 9 3 \\%$ ,负值区占整个区域的 $3 3 . 0 7 \\%$ ，正值高值区大部分分布在高山和水域，如东部帕米尔高原山地区及巴尔喀什湖、咸海和里海周边,植被类型主要为森林和湿地;负值低值区主要位于东北部，中部及南部区域，主要为灌丛、草原和作物(图5c)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为进一步探究WUE对降水、气温及NDVI的敏感性随降水和气温的变化，发现降水在 $1 5 0 { \\sim } 2 5 0 ~ \\mathrm { m m }$ 之间， $\\varepsilon _ { \\mathrm { P r e } }$ 多为正值，WUE随着降水的增加而降低，$\\varepsilon _ { \\mathrm { N D V I } }$ 随降水变化呈连续下降趋势；在 $3 0 0 { \\sim } 5 5 0 ~ \\mathrm { m m }$ 之间， $\\varepsilon _ { \\mathrm { P r e } }$ 多为负值但正负并存，WUE随着降水的增加而增加, $\\varepsilon _ { \\mathrm { N D V I } }$ 趋势平缓,略微上升;在 $5 5 0 { \\sim } 7 0 0 ~ \\mathrm { m m }$ 之间,WUE随着降水的增加而增加。气温在 $- 3 { \\it \\mathrm { \\sim } } 6 \\mathrm { \\ : \\ : } \\mathrm { \\mathcal { C } }$ ，WUE随着气温的升高而升高， $\\varepsilon _ { \\mathrm { N D V I } }$ 呈连续下降趋势；在 $3 { \\sim } 1 2 ~ \\mathrm { \\% }$ ,WUE随着气温的升高而降低， $\\varepsilon _ { \\mathrm { N D V I } }$ 呈连续上升趋势；在 $9 { \\sim } 1 8 ~ \\mathrm { \\% }$ ,WUE随着气温的升高而升高， $\\varepsilon _ { \\mathrm { N D V I } }$ 呈波动上升。因此，WUE对降水和气温的敏感性均存在阈值效应，降水敏感性阈值范围介于 $2 5 0 { \\sim } 3 0 0 ~ \\mathrm { m m }$ （低值点）和 $5 0 0 { \\sim } 5 5 0 ~ \\mathrm { m m }$ （高值点），WUE变化的最适温度阈值介于 $3 { \\sim } 6 ~ \\mathrm { \\textdegree C }$ （高值点）和$9 { \\sim } 1 2 ~ \\mathrm { \\% }$ （低值点）。显然 $\\varepsilon _ { \\mathrm { N D V I } }$ 与降水变化呈正相关，与气温变化呈显著负相关(表2)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "50E 60E 70E 80E 50E 60E 70E 80E  \n3ss (a)春季平均WUE 35s (b)全年平均GPP 35s 森林 (c)雨期 作物 中  \n154 文 KAZ 154 KAZ N04 草原UZB KGZWUE/gC. UZB KGZ 湿地  \n320 0 地 350 0 地 GP40m 320 灌丛 0 200 400 600 800 1000120(50°E 60E 70°E 水体 80E 0 50E 60E 70°E 水体 80°E 0.01 全年平均GPP/g $\\mathbf { C } { \\cdot } \\mathbf { m } ^ { - 2 }$ （204  \nSoss (d)夏季平均WUE Sss (e)全年平均ET 350 森林 (f)  \n404 KGZWUE/gC 154 KGZ 4404TKM TJK m29.03 TKM TJK ET/04.23  \n253 2 350 4 灌丛0 750km 3.37 0 750km 裸地 水体 452.23 320 0 200 400 60050E 60E 70°E 80E 50E 60E 70°E 80°E 全年平均 $\\mathbf { E T / m m { \\cdot } m ^ { - 2 } }$   \n5(B)秋季平均WUE 355s (h)生长期平均WUE 3 35s 湿地 (i)T  \n104 KAZ N04 KAZ 454 作物 HUZB KGZWUE/gC UZB KGZWUE/gC 草原 工  \nN53 0 地 8 350 0 地 2158 350 灌丛 0.51.01.5 2.0水体 水体 0 生长期WUE/g $\\mathbf { C } { \\cdot } \\mathbf { m } \\mathbf { m } ^ { - 1 } { \\cdot } \\mathbf { m } ^ { - 2 }$ 50°E 60°E 70°E 80°E 50E 60°E 70E 80E  \nSss (i)冬季平均WUE 3.5s (k)全年平均WUE 355s 森林 (1)T  \n154 1504 KAZ 454 作物 IUZB KGZ WUE/gC UZB KGZWUE/gC 草原  \n220 0 I 253 0 350 灌丛 0.5 1.0 1.52.050E 60E 70E 80E 50E 60°E 70°E 80°E 全年平均WUE/g $\\mathbf { C } { \\cdot } \\mathbf { m } \\mathbf { m } ^ { - 1 } { \\cdot } \\mathbf { m } ^ { - 2 }$ 50°E 60E 70E 80E 50E 60°E 70E 80°E 50E 60°E 70E 80°E  \n35s (a)WUE趋势 355s (b)WUE趋势(P<0.05) 3.5s (c)WUE趋势P值 35  \n154 KAZ 154 KAZ C 254 KAZ 4454  \nN0 金 三三 1 350 1 3530 0 ！50E 60E 70°E 80°E 50E 60°E 70°E 80°E 50E 60°E 70°E 80°E",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同植被类型 $\\varepsilon _ { \\mathrm { P r e } }$ 变化由大到小排序为：湿地、灌丛、森林、作物和草原，除森林之外，其余均为正值。 $\\varepsilon _ { \\mathrm { T e m } }$ 变化由大到小排序为：灌丛、湿地、草原、作物和森林，湿地、作物为正值，森林、灌丛和草原均为负值。 $\\varepsilon _ { \\mathrm { N D V I } }$ 变化由大到小排序规律与WUE植被变化规律一致为：湿地、森林、作物、草原和灌丛，所有植被类型均为正值。总体来说，降水和气温变化引起灌丛和湿地WUE的变率大于森林WUE。森林",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/dac956975bafaac76b74d61e48d8071853fde9b0dabc415da1d980f5fa4b7e1a.jpg",
+        "img_caption": [
+            "注： $\\varepsilon _ { \\mathrm { P r e } \\setminus } \\varepsilon _ { \\mathrm { T e m } }$ 和 $\\dot { \\varepsilon } _ { \\mathrm { N D V } }$ 分别是指中亚WUE对降水、气温和NDVI的敏感性。 ",
+            "图52000—2018年中亚WUE对气候要素的敏感性系数",
+            "Fig.5 Sensitivity coefficient of WUE to climate factors in Central Asia from 2Oo0 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a31b63c9b7b5137d0a939ca3069e10cc324b4e817b46165656622c3066989c9.jpg",
+        "table_caption": [
+            "Tab.2WUE sensitivity to precipitation,temperature and NDVI with gradient from 20o0 to 2018 "
+        ],
+        "table_footnote": [
+            "注： $\\boldsymbol { \\varepsilon } _ { \\mathrm { P r e } } \\setminus \\mathcal { E } _ { \\mathrm { T e m } }$ 和&NDvI分别是指中亚水分利用效率(WUE)对降水、气温和NDVI的敏感性。"
+        ],
+        "table_body": "<html><body><table><tr><td>降水/mm</td><td>EPre</td><td>εNDVI</td><td>气温/℃</td><td>&Tem</td><td>&NDVI</td></tr><tr><td>100~150</td><td>0.17</td><td>0.55</td><td>-6~-3</td><td>0.24</td><td>0.20</td></tr><tr><td>150~200</td><td>0.21</td><td>0.28</td><td>-3~0</td><td>-0.01</td><td>0.22</td></tr><tr><td>200~250</td><td>0.00</td><td>0.13</td><td>0~3</td><td>0.04</td><td>0.49</td></tr><tr><td>250~300</td><td>-0.07</td><td>0.09</td><td>3~6</td><td>0.09</td><td>0.16</td></tr><tr><td>300~350</td><td>-0.06</td><td>0.24</td><td>6~9</td><td>-0.19</td><td>0.12</td></tr><tr><td>350~400</td><td>-0.02</td><td>0.24</td><td>9~12</td><td>-0.49</td><td>0.27</td></tr><tr><td>400~450</td><td>-0.07</td><td>0.29</td><td>12~15</td><td>-0.23</td><td>0.52</td></tr><tr><td>450~500</td><td>0.05</td><td>0.27</td><td>15~18</td><td>0.16</td><td>0.39</td></tr><tr><td>500~550</td><td>0.08</td><td>0.23</td><td>>18</td><td>-0.37</td><td>0.30</td></tr><tr><td>550~600</td><td>-0.16</td><td>0.45</td><td></td><td>1</td><td></td></tr><tr><td>600~650</td><td>-0.04</td><td>0.23</td><td>1</td><td>1</td><td>1</td></tr><tr><td>650~700</td><td>0.02</td><td>0.38</td><td>二</td><td>二</td><td>二</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "WUE的 $\\varepsilon _ { \\mathrm { P r e } }$ 和 $\\varepsilon _ { \\mathrm { T e m } }$ 均为负值，即随着降水和气温的升高，森林WUE降低；湿地、作物WUE的 $\\varepsilon _ { \\mathrm { P r e } }$ 和 $\\varepsilon _ { \\mathrm { T e m } }$ 均为正值，即随着降水和气温的升高，湿地和作物WUE升高；草原WUE的 $\\dot { \\varepsilon } _ { \\mathrm { P r e } }$ 为正值， $\\varepsilon _ { \\mathrm { { T e m } } }$ 为负值,草原WUE随降水的增加而升高，随气温的升高而降低，而 $\\varepsilon _ { \\mathrm { N D V I } }$ 直接反映了WUE的景观格局变化，与WUE的变化呈正相关关系(表3)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不同季节WUE对于气温、降水及NDVI的敏感性具有明显差异， $\\varepsilon _ { \\mathrm { P r e } }$ 由大到小：春季、冬季、夏季和秋季； $\\varepsilon _ { \\mathrm { T e m } }$ 由大到小：秋季、春季、夏季和冬季； $\\varepsilon _ { \\mathrm { N D V I } }$ 由大到小：秋季、春季、冬季和夏季。气温、降水及ND-VI对WUE的贡献率具有季节的一致性规律，由大到小均为：秋季、春季、夏季和冬季，说明植被WUE在春秋季受气候因子影响大，是由于气候因子作用于植被GPP的影响，体现在 $\\langle \\varepsilon _ { \\mathrm { N D V I } }$ 及NDVI对WUE的贡献率在春秋季均比较大；在夏冬季植被GPP与ET",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/62744133403c611bd14e66ab0823370013a99748b450324383ac07c24028d021.jpg",
+        "table_caption": [
+            "表22000—2018年中亚WUE对降水、气温及NDVI敏感性随梯度变化",
+            "表3不同植被类型WUE对气温、降水及NDVI的敏感性",
+            "Tab.3 WUE sensitivity of different vegetation types to temperature,precipitation and NDVI "
+        ],
+        "table_footnote": [
+            "注：敏感性平均值±STDEV标准偏差。"
+        ],
+        "table_body": "<html><body><table><tr><td>植被类型</td><td>敏感性系数εPrve</td><td>敏感性系数εtem</td><td>敏感性系数εDvI</td></tr><tr><td>森林</td><td>-0.167±0.158</td><td>-0.002±0.010</td><td>0.573±0.338</td></tr><tr><td>灌丛</td><td>0.206±0.263</td><td>-0.492±2.135</td><td>0.201±0.554</td></tr><tr><td>草原</td><td>0.015±0.413</td><td>-0.109±0.800</td><td>0.223±0.627</td></tr><tr><td>湿地</td><td>0.238±0.488</td><td>0.118±1.331</td><td>0.751±0.583</td></tr><tr><td>作物</td><td>0.057±0.271</td><td>0.071±0.858</td><td>0.320±0.656</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "均比较稳定，因此，WUE对于气候因子及NDVI的敏感性及贡献率处于低值区(表4)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3中亚不同植被类型下WUE对干旱的响应",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "中亚WUE与SPEI波动趋势总体上一致,其中，2000—2009年与2012—2018年,SPEI与WUE的变化趋势一致，而2009—2012年呈相反的变化趋势。根据2个变量之间的规律，本研究在时间上分为3个阶段进行分析：2000—2008年为干旱期间，WUE随着干旱程度的加剧变化而下降,2009—2012年为干旱过渡，WUE随干旱的变化不是很明显，但略呈相反趋势；2013—2018年为干旱之后，WUE随着干旱的变化而变化。并依据SPEI指数的干旱分类方法，统计不同干旱等级下WUE的均值变化（图6a)。在干旱期间，不同植被类型WUE对干旱的响应各不相同,其中森林WUE与SPEI呈现正相关关系，但程度极低，这主要是因为森林在水分充足的高海拔地区,受干旱影响小。而作物、草原、湿地和灌丛WUE与干旱SPEI呈负相关关系，相关性由高到低：灌丛、作物、草原和湿地，但相关性均处于弱相关级别;进入干旱过渡，WUE与SPEI相关关系程度比干旱期间强,但规律与干旱期间一致且均处于弱相关级别;在干旱之后，WUE与SPEI相关关系程度较干旱过渡弱，但强于干旱期间，森林和作物WUE与SPEI均为正相关，主要是由于森林和作物均有充足水分，森林来源于山地降水，作物来源于人工灌溉，草原、湿地和灌丛均为负相关,受干预较少。不同植被类型受干旱影响程度由大到小均为：灌丛、作物、森林、草原和湿地(图6e);3个阶段正负相关系数具有明显空间差异性，十旱期间：正相关主要集中在哈萨克斯坦中东部起伏山地、吉尔吉斯斯坦、塔吉克斯坦和土库曼斯坦高山区域,其余平原区多为负相关区域(图6b)；干旱过渡：正负相关性，呈东西方向相间分布，与WUE的变化密切相关(图6c)；干旱之后：相关系数与干旱过渡呈负相关关系，反映了干旱事件的结束，WUE与SPEI相关系数回归到干旱之前的正常状态(图6d)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为进一步探究不同植被类型WUE同SPEI的关系，本文进一步提取12种植被类型在2000—2018年间平均WUE和SPEI对应的象元属性值，求其Pearson相关系数 $R$ 及 $R ^ { 2 }$ 。综合所得(取Pearson相关系数绝对值与 $R ^ { 2 }$ 之和作为指标），植被类型WUE与SPEI相关性由高到低排序：多树草原，混交林，开放灌丛，落叶阔叶林,郁闭灌丛，作物，稀树草原,镶嵌体,常绿针叶林,草原,落叶针叶林和永久湿地。但落叶针叶林、草原、作物和镶嵌体的WUE与SPEI呈负相关关系(图7)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "中亚2000—2018年GPP和ET及WUE的时空差异明显。GPP变化幅度为 $0 { \\sim } 7 5 \\ \\mathrm { g } \\ \\mathrm { C } { \\cdot } \\mathrm { m } ^ { - 2 }$ ,ET变化幅度为 $0 { \\sim } 4 0 \\ \\mathrm { m m } { \\cdot } \\mathrm { m } ^ { - 2 }$ ,WUE变化幅度为 $0 { \\sim } 5 \\ \\mathrm { g } \\mathrm { C } { \\cdot } \\mathrm { m m } ^ { - 1 } { \\cdot } \\mathrm { m } ^ { - 2 }$ 符合邹杰等[17]对近 $1 5 \\mathrm { ~ a ~ }$ 中亚及新疆生态系统WUE时空变化分析的控制范围，证实了数据产品解译及计算结果的准确性。本文2000—2018年WUE平均值为 $1 . 7 8 \\ \\mathrm { g \\ C \\cdot m m ^ { - 1 } \\cdot m ^ { - 2 } }$ ，低于上文2000—2014年生态系统WUE平均值 $2 . 6 5 \\ : \\mathrm { g } \\ : \\mathrm { C } \\cdot \\mathrm { m m } ^ { - 1 } \\cdot \\mathrm { m } ^ { - 2 } .$ 及Tang等[34通过通量计算的全球WUE平均值 $1 . 8 9 \\ \\mathrm { g \\ C \\cdot m m ^ { - 1 } \\cdot m ^ { - 2 } }$ 但高于且较为接近Tang等通过遥感计算的全球平均水平 $1 . 7 1 \\ \\mathrm { g \\ C \\cdot m m ^ { - 1 } \\cdot m ^ { - 2 } }$ 。本文近19a的WUE整体上呈下降趋势，虽然大气中 $\\mathrm { C O } _ { 2 }$ 排放增加引起全球变暖，导致WUE增加[35],但高温会抑制光合作用[36]且促进实际蒸散发增加[37],最终导致WUE降低。本文与上述邹杰等研究WUE趋势有所不同，主要是由于空间区域与时间序列的选择不同，本文研究的空间区域较小，未考虑中国新疆，但时间序列较长，且为全年月序列而非生长期。降水和气温是影响WUE空间分异的重要因素，发现降水对GPP和ET起主导作用，其中对GPP的影响更为明显，这与裴婷婷等[5]对黄土高原植被WUE对气候和植被指数的研究相一致(图2)。空间上各植被类型WUE由高到低依次为：湿地、森林、作物、草原和灌丛，基本与降水变化相一致(图3);时间上，森林WUE变化趋势与降水的变化相一致，符合森林GPP随着气温和降水增加而增加[38]。有研究得出水的可获得性是南部欧洲森林的GPP的主要控制因素，而气温被认为是最北端森林的最重要的控制因素[39],本区域位于内陆干旱区，限制性因素是水资源，GPP空间变化上符合干湿度地带性，更进一步证实了降水影响占主导地位，但温度在一定程度上起到干扰作用，",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5795467bee13729b9a87606c093646c59339da7f505127e1708d0094a7dca60.jpg",
+        "table_caption": [
+            "表4不同季节WUE对气温、降水和NDVI的敏感性及贡献率",
+            "Tab.4WUE sensitivity and contribution rate to temperature,precipitation and NDVIin different seasons "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">春季</td><td colspan=\"2\">夏季</td><td colspan=\"2\">秋季</td><td colspan=\"2\">冬季</td></tr><tr><td>敏感系数</td><td>贡献率/%</td><td>敏感系数</td><td>贡献率/%</td><td>敏感系数</td><td>贡献率/%</td><td>敏感系数</td><td>贡献率/%</td></tr><tr><td>降水</td><td>11.40</td><td>59.65</td><td>-0.37</td><td>7.02</td><td>-3.04</td><td>-91.27</td><td>-0.02</td><td>0.14</td></tr><tr><td>气温</td><td>0.80</td><td>66.16</td><td>0.20</td><td>0.28</td><td>0.93</td><td>-93.03</td><td>-1.04</td><td>0.08</td></tr><tr><td>NDVI</td><td>1.68</td><td>66.02</td><td>-1.20</td><td>7.93</td><td>4.70</td><td>-92.81</td><td>-0.01</td><td>0.54</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/62a3612b50ac2b0cc30a51195fb397e2f7a2038c8b2bab3633f100643e619a27.jpg",
+        "img_caption": [
+            "图62000—2018年WUE与SPEI时间趋势及不同干旱阶段相关系数",
+            "Fig.6WUE and SPEItime trends and correlation coefficients in different drought stages from 2O00 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Zhang等[40]对WUE的研究表明温度主导灌丛WUE的变化，本文研究发现灌木WUE对温度和降水的敏感性高于草原、作物和森林，即 $\\varepsilon _ { \\mathrm { { T e m } } }$ 变化由大到小为：灌丛、湿地、草原、作物和森林。WUE对降水和气温的敏感性均存在阈值效应，降水敏感性阈值范围介于 $2 5 0 { \\sim } 3 0 0 ~ \\mathrm { m m }$ 和 $5 0 0 { \\sim } 5 5 0 ~ \\mathrm { m m }$ ,WUE变化的最适温度阈值介于 $3 { \\sim } 6 ~ \\mathrm { \\% }$ 和 $9 { \\sim } 1 2 ~ \\mathrm { \\% }$ 。有研究基",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "WUE ..-- SPEI(a)常绿针叶林 1.75 w. 1.9 (b)落叶针叶林 1.75 iA 1.9 (c)落叶阔叶林 1.25R=0.33 R²=0.17 1.50 1.8 R=-0.22 R²=0.09 1.50 1.8 R=0.64\\*R²=0.41\\* 1.001.25 1.251.00 IS 1.7 1.00 IPS 1.7 0.751.9 0.75 0.751.8 0.50 1.6 0.50 1.6 0.501.7 0.25 1.5 0.25 1.5 0.25  \nw 201918 5015100 （ 1.25 准丛 1515015IS 1.8 0.75 IS 1.00 IS1716015 0 132110 000 2 8  \n. 1.9 (g)多树草原 1.50 w. 1.9 (h)稀树草原 1.50 w. 1.8 (i)草原 1.251.8 R=0.83\\*R²=0.68\\* 1.25 1.8 R=0.21\\*R²=0.47 1.25 1.7 R=-0.35\\*R²=0.12\\* 1.001.00 IS 1.00 S IIS1.7 1.7 1.6 0.750.75 0.751.6 0.50 1.6 0.50 1.5 0.501.5 0.25 1.5 0.25 1.4 0.25(i)永久湿地 1 1.25 . 118 (k)作物 1.50 w. 1918 作物和自然植被的 155015R=0.02R²=0.01 0.75 IPS 1.7 R=-0.54\\*R²=0.30\\* 1.00 ISS 1.7 R=-0.37R²=0.14 1.00 IPS1817 0.50 1.6 0.75 1615 22 00",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "于中国气象数据下的黄土高原WUE数据的研究结果表明，年降水量低于 $5 0 0 ~ \\mathrm { m m }$ 时，WUE随着降水量的增加而增加，而当降水量大于 $5 0 0 ~ \\mathrm { m m }$ 时，WUE随着降水量的增加而降低[15]。WUE在干旱区随降水增加的生态系统中呈下降趋势，是由于ET的增加幅度大于光合作用而导致的[4]，相反，降水减少导致区域的WUE增加,这是因为ET的降幅大于 $\\mathrm { G P P ^ { [ 4 2 ] } }$ ，另外，对WUE的阈值效应可能和区域内的有效降水有关。气温在 $- 3 { \\it \\mathrm { \\sim } } 6 { \\it \\mathrm { \\Omega } } ^ { \\mathrm { \\circ } } \\mathrm { C }$ 和 $9 { \\sim } 1 8 ~ \\mathrm { \\% }$ ,WUE随着气温的增加而升高;气温在 $3 { \\sim } 1 2 ~ \\mathrm { \\textdegree C }$ ,WUE随气温的增加而降低。符合夏磊在一定的温度临界值以下，随温度升高，叶片气孔导度加大，光合作用增加幅度大于蒸散作用幅度，因此植物的WUE升高;当温度高于这一临界值时，温度升高对蒸散作用的影响比光合作用大，因此又会导致WUE降低的论断[43]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "干旱指数SPEI比降水与气温更加综合，本文比较了不同植被类型WUE对干旱的响应，发现不同干旱阶段下，受干旱程度影响WUE由大到小：灌丛、作物、森林、草原和湿地。研究结果与邹杰在运用遥感数据对中亚生态系统WUE对温度植被干旱指数(TVDI)的响应分析中具有一致性，森林WUE与干旱呈正相关关系,灌木林与草地WUE与干旱呈负相关关系，农田受人类干预大而受干旱影响较小[18]但本文植被类型更为细致具体，并发现WUE变化趋势随着干旱程度的增加而升高，总体空间分布规律呈以咸海流域为中心由内向外递减趋势（图3和图6)。张乐园等28对中亚SPEI做了更详细地干旱趋势分析，与本文关于SPEI及WUE空间分布规律论述具有高度一致性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在今后的研究中要考虑更多的因素对WUE及",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "GPP、ET的影响，如风动力项、光照项、土壤水及相对湿度；遥感数据本身有很多不确定性，要进一步获取更高时空分辨率的数据进行更长序列和更大尺度生态系统WUE分析，更要考虑WUE对干旱时间响应的滞后性等等，另外，也需配合模型进行佐证，甚至实地数据验证，",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（1）2000—2018年，年际及年内月序列上，WUE时间变化趋势与GPP一致，整年呈“钟型”单峰波动变化;其中，夏季WUE>春季WUE>秋季WUE>冬季WUE，夏、冬季WUE相比空间差异大，春、秋季空间递变规律相似，各季节及生长期WUE整体上以咸海流域为中心由内向外呈递减趋势，WUE随着生境湿润程度的降低而升高。但整体上GPP、ET及WUE高值区均出现在山区，且平均WUE由高到低：湿地、森林、作物、草原、灌丛，植被类型WUE随着生境湿润程度的增加而升高。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2）WUE对降水和气温的敏感( $\\cdot \\varepsilon _ { \\mathrm { P r e } }$ 和 $\\dot { \\varepsilon } _ { \\mathrm { T e m } }$ 性具有明显的空间差异， $\\varepsilon _ { \\mathrm { N D V I } }$ 与降水变化呈正相关关系，与气温变化呈负相关关系。近19a来WUE呈现显著下降趋势，与上升差值占整个区域的 $5 1 . 1 7 \\%$ 。WUE对于降水和气温的敏感性正值区均 $\\left( \\varepsilon _ { \\mathrm { P r e } } > 0 \\right)$ $\\varepsilon _ { \\mathrm { { T e m } } } > 0 \\} ,$ 大于负值区 $( \\varepsilon _ { \\mathrm { P r e } } < 0 , \\varepsilon _ { \\mathrm { T e m } } < 0 )$ ,且均存在阈值效应，对降水的敏感性阈值范围介于 $2 5 0 { \\sim } 3 0 0 ~ \\mathrm { m m }$ （低值点)和 $5 0 0 { \\sim } 5 5 0 ~ \\mathrm { m m }$ （高值点），WUE转折点变化的最适温度阈值介于 $3 { \\sim } 6 ~ \\mathrm { \\% }$ （高值点）和 $9 { \\sim } 1 2 ~ \\mathrm { \\% }$ （低值点)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3）中亚不同植被类型WUE及其变化趋势随着干旱程度的增加而升高，植被类型WUE与SPEI相关性由高到低：多树草原，混交林，开放灌丛，落叶阔叶林,郁闭灌丛，作物，稀树草原,镶嵌体,常绿针叶林，草原，落叶针叶林和永久湿地。不同干旱阶段下，受程度干旱影响WUE由大到小排序为灌丛、作物、森林、草原和湿地。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] Baldocchi D D,Wilson K B.Modeling CO2 and water vapor exchange of a temperate broadleaved forest across hourly to decadal time scales[J]. Ecological Modelling,2001,142(1-2):184.   \n[2] Niu S,Xing X, Zhang Z,et al. Water-use efficiency in response to climate change:From leaf to ecosystem in a temperate steppe[J]. Global Change Biology,2001,17(2):1073-1082.   \n[3]Zeri M, Hussain M Z,Anderson-teixeira K J,et al. Water use fficiency of perennial and annual bioenergy crops in central llinois [J]. Journal of Geophysical Research Biogeosciences,2013,118 (2): 581-589.   \n[4]温永斌,韩海荣,程小琴,等.基于Biome-BGC模型的千烟洲森 林水分利用效率研究[J].北京林业大学学报,2019,41(4):69- 77.[Wen Yongbin, Han Hairong,Cheng Xiaoqin,etal.Forest water use efficiency in Qianyanzhou based on Biome-BGC model, JiangxiProvince of eastern China[J]. Journal of Beijing Forestry University,2019,41(4): 69-77.]   \n[5]Zhang T,Peng J,Liang W,et al. Spatial-temporal paterns of water use efficiency and climate controls in China's Loess Plateau during 2000—2010[J]. Science of the Total Environment,2016,565 (15): 105-122.   \n[6] DeoliveirAG,Brunsell NA,MoraesEC,et al. Evaluation of MODIS-based estimates of water-use efficiency in Amazonia[J]. International Journal of Remote Sensing,2017,38(19): 5291-5309.   \n[7]Hu Z,YuG,Fu Y,etal.Effctsof vegetation controlon ecosystem water use efficiency within and among four grassland ecosystems in China[J]. Global Change Biology,2008,14(7): 1609-1619.   \n[8]Jassal R S,Black TA, Spitlehouse D L,et al. Evapotranspiration and water use efficiency in different-aged Pacific northwest Douglas-fir stands[J].Agricultural & Forest Meteorology,2OO9,149(6- 7): 1178.   \n[9]于贵瑞,王秋凤,方华军.陆地生态系统碳-氮-水耦合循环的 基本科学问题、理论框架与研究方法[J].第四纪研究,2014,34 (4): 683-698.[Yu Guirui,Wang Qiufeng,Fang Huajun. Fundamental scientific issues,theoretical framework and relative research methods of carbon-nitrogen-water coupling cycles in terrestrial ecosystems[J]. Quaternary Sciences,2014,34(4): 683-698.]   \n[10] Zheng H,Lin H,Zhou W,etal.Revegetationhasincreased ecosystem water-use eficiency during 2000—2014 in the Chinese Loess Plateau: Evidence from satellite data[J].Ecological Indicators, 2019,102(Jul.): 507-518.   \n[1] Tian H, Chen G,Liu M,etal. Model estimates of net primarypro ductivity,evapotranspiration,and wateruse efficiencyin the terrestrial ecosystems of the southern United States during 1895—2007 [J].Forest Ecology& Management,2010,259(7): 1311-1327.   \n[12] 陈秀妍,付碧宏,时丕龙,等.2000—2016年中亚天山植被变化 及气候分异研究[J].干旱区地理,2019,42(1):164-173.[Chen Xiuyan,Fu Bihong,Shi Peilong,etal.2O19.Vegetation dynamics in response to climate change in Tianshan, Central Asia from 2000 to 2016[J]. Arid Land Geography,2019,42(1): 164-173.]   \n[13] Zhao M, Heinsch FA,Nemani R R,et al.Improvements of the MODIS terrestrial gross and net primary production global data set [J]. Remote Sensing of Environment,2005,95(2): 164-176.   \n[14]Mu Q,Zhao M,Running SW.Improvements toa MODIS global terrestrial evapotranspiration algorithm[J].Remote Sensing of En",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "vironment,2011,115(8): 1781-1800.   \n[15] 裴婷婷,李小雁,吴华武,等.黄土高原植被水分利用效率对气 候和植被指数的敏感性研究[J].农业工程学报,2019,35(5): 119-125.[Pei Tingting,LI Xiaoyan, Wu Huawu, et al. Sensitivity of vegetation water use efficiency to climate and vegetation index in Loess Plateau, China[J]. Transactions of the Chinese Society of Agricultural Engineering,2019,35(5): 119-125.]   \n[16] Yang Y, Guan H, Batelaan O,et al. Contrasting responses of water use efficiency to drought across global terrestrial ecosystems[J]. Scientific Reports,2016,6(1): 1-8.   \n[17] 邹杰,丁建丽,杨胜天.近15年中亚及新疆生态系统水分利用 效率时空变化分析[J].地理研究,2017,36(9):1742-1754.[Zou Jie,Ding Jianli, Yang Shengtian. Spatial and temporal variation analysis of ecosystem water use eficiency in Central Asia and Xinjiang in recent 15 years[J]. Geographical Research,2017,36(9): 1742-1754.]   \n[18] 邹杰,丁建丽,秦艳,等.遥感分析中亚地区生态系统水分利用 效率对干旱的响应[J].农业工程学报,2018,34(9):145-152. [Zou Jie,Ding Jianli, Qin Yan,et al. Response of water use efficiency of Central Asia ecosystem to drought based on remote sensing data[J]. Transactions of the Chinese Society of Agricultural Engineering,2018,36(9): 1742-1754.]   \n[19] 梁倩,光莹,刘琼,等.新疆及周边中亚低涡背景下云中液态水 分布研究[J].干旱区地理,2020,43(1):72-78.[Liang Qian, Guang Ying,Liu Qiong,et al.2O20.Distribution of total cloud liquid water in Xinjiang and its surrounding Central Asia under the background of low vortex in Central Asia[J].Arid Land Geography,2020,43(1): 72-78.]   \n[20] 胡广录,赵文智,王岗,等.干旱荒漠区斑块状植被空间格局及 其防沙效应研究进展[J].生态学报,2011,31(24):7609-7616. [Hu Guanglu, Zhao Wenzhi,Wang Gang,et al.Reviews on spatial pattern and sand-binding effect of patch vegetation in arid desert area[J]. Acta Ecologica Sinica,2011,31(24): 7609-7616.]   \n[21] 刘春静,张丽,周宇,等.中国新疆及中亚五国干旱区草地覆盖 度反演与分析[J].草业科学,2016,33(5):861-870.[Liu Chunjing,Zhang Li, Zhou Yu, et al. Retrieval and analysis of grassland coverage in arid Xinjiang, China and five countriesof Central Asia [J]. Pratacultural Science,2016,33(5): 861-870.]   \n[22]Dehghan S,Salehnia N,Sayari N,et al.Prediction of meteorological drought in arid and semi-arid regions using PDSI and SDSM: A case study in Fars Province,Iran[J]. Journal of Arid Land,2020, 12(2): 318-330.   \n[23] 陈亚宁,李稚,方功焕,等.气候变化对中亚天山山区水资源影 响研究[J].地理学报,2017,72(1):18-26.[Chen Yaning,Li Zhi, Fang Gonghuan, et al. Impact of climate change on water resources in the Tianshan Mountians, Central Asia[J].Acta Geographica Sinica,2017,72(1): 18-26.]   \n[24]White M A, BrunsellN,Schwartz MD. Vegetation phenology in global change studies[J]. Phenology: An Integrative Environmental Science,2003,39(): 453-466.   \n[25] Zou J,Ding J, Welp M,etal.Assessing the responseof ecostem water use eficiency to drought during and after drought events across Central Asia[J]. Sensors (Basel),2020,20(3): 581.   \n[26] Chen Y,Li Z,Fang G,et al. Large hydrological processes changes in the transboundary riversof Central Asia[J]. Journal of Geophysical Research Atmospheres,2018,123(10): 5059-5069.   \n[27] 王旋旋,陈亚宁,李稚,等.基于模糊综合评价模型的中亚水资 源开发潜力评估[J].干旱区地理,2020,43(1):126-134.[Wang Xuanxuan,Chen Yaning,Li Zhi,etal.Assessment of the development potential of water resources in Central Asia based on fuzzy comprehensive evaluation model[J].Arid Land Geography, 2020, 43(1): 126-134.]   \n[28] 张乐园,王弋,陈亚宁.基于SPEI指数的中亚地区干旱时空分 布特征[J].干旱区研究,2020,37(2):331-340.[Zhang Leyuan, Wang Yi, Chen Yaning.Spatial and temporal distribution characteristics of drought in Central Asia based on SPEI index[J].Arid Zone Research,2020,37(2): 331-340.]   \n[29] 李炳元,潘保田,韩嘉福.中国陆地基本地貌类型及其划分指标 探讨[J].第四纪研究,2008,28(4):535-543.[Li Bingyuan,Pan Baotian,Han Jiafu.Basic terrestrial geomorphological types in China and their circumscriptions[J]. Quaternary Sciences,2008, 28(4): 535-543.]   \n[30] 陈发虎,黄伟,靳立亚,等.全球变暖背景下中亚干旱区降水变 化特征及其空间差异[J].中国科学:地球科学,2011,41(11): 1647-1657.[Chen Fahu,Huang Wei,Jin Liya,et al. Spatiotemporal precipitation variations in the arid Central Asia in the context of global warming[J].Science China-Earth Sciences,2O11,41(11): 1647-1657. ]   \n[31]Adams MA,Turnbull TL, Sprent JI, et al. Legumes are different: Leaf nitrogen,photosynthesis,and water use eficiency[J].Proc Natl Acad Sci USA,2016,113(15): 4098-4103.   \n[32]Lenhart,K,Eckhardt,etal.Comparisonof twodierentapproaches of sensitivity analysis[J].Physics and Chemistry of the Earth, Parts A/B/C,2002,27(9-10): 645-654.   \n[33] Zheng H G, Zhang L, Zhu R R,et al. Responses of streamflow to climate and land surface change in the headwaters of the Yellow River Basin[J]. Water Resource Research,2009,45(7): 641-648.   \n[34] Tang X G,Li HP,Ankur R,et al. How is water use efficiency of terrestrial ecosystems distributed and changing on Earth[J].Scientific Reports,2014(4): 7483,doi: 10.1038/srep07483.   \n[35]Huang M, Piao S, Zeng Z,et al. Seasonal responses of terrestrial ecosystem water-use efciency to climate change[J]. Global Change Biology,2016,22(6): 2165-2177.   \n[36] 龚婷婷,雷慧闽,杨大文,等.荒漠灌丛碳通量对极端水分和温 度的响应研究[J].水力发电学报,2018,37(2):32-46.[Gong Tingting,Lei Huimin,Yang Dawen, etal. Assessing impactsof ex treme water and temperature conditions on carbon fluxes in two desert shrublands[J]. Journal of Hydroelectric Engineering,2018, ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "37(2): 32-46.] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[37] 韩宇平,张丽璇,王春颖,等.寒区湿地实际蒸散发动态特征及 影响因素研究[J].南水北调与水利科技，2018,16(1):28-34. [Han Yuping,Zhang Lixuan, Wang Chunying, et al. Dynamic characteristics and influencing factors of actual evapotranspiration in cold region wetland[J]. South-to-North Water Transfers and Water Science & Technology,2018,16(1):28-34.]   \n[38]Luyssaert S,Inglima I, Jung R,et al. CO balance of boreal, temperate,and tropical forests derived from a global database[J].Global Change Biology,2007,13(12): 2509-2537.   \n[39]Reichstein M,Papale D,Valentini R,et al. Determinants of terrestrial ecosystem carbon balance inferred from European eddy covariance flux sites[J]. Geophysical Research Letters,2OO7,34(1): L1402,doi: 10.1029/2006GL027880.   \n[40]Zhang T,Peng J,Liang W,etal. Spatial-temporal patterns of water use efficiency and climate controls in China’s Loess Plateau during 200O—2010[J]. Science of the Total Environment,2016,565 (Sep. 15): 105-122.   \n[41]Zhang F,Ju W, Shen S.How recent climate change influences water use effciency in East Asia[J].Theoretical & Applied Climatology,2014,116(1-2): 359-370.   \n[42]Salve R,Sudderth EA, Clair SB S,et al. Effect of grassland vegetation type on the responses of hydrological processes to seasonal precipitation patterns[J].Journal of Hydrology,2011,410(1-2): 51-61.   \n[43]夏磊.全球陆地生态系统水分利用效率及人为用地植被缺失热 效应估算[D].北京：中国科学院大学,2015.[XiaLei.Water use efficiency in global terrestrial ecosystems and estimate of heat balance relating to vegetation in artificial areas[D].Beijing:University of Chinese Academy of Sciences,2015.] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "《干旱区地理》投稿须知",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "投稿前请自行逐一严格核对最后文稿的总体格式，确认与我刊最新发文格式完全相同后再行投稿。对于不符合本刊格式的投稿，本刊可即做退稿处理。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1)稿件格式(标题结构、图件规范、三线表要求、参考文献规范、英文摘要排版等)请逐一严格  \n参照本刊官网“下载中心”中最新发文格式修改。(2）为提高稿件处理效率，请各位投稿人在网站的“在线办公系统”下点击“作者在线投稿”菜单  \n进行网上投稿。(3）网上投稿时请参照论文模板,注意标明作者单位、通讯地址、邮编、电话、电子邮箱,第一作  \n者和通讯作者简介，基金项目等信息。(4)本刊拒绝一稿多投，来稿一律不退，请作者自留底稿。(5)作者决定另投他刊或撤稿，需邮件或电话告知编辑部，避免重复发表。编辑部地址：乌鲁木齐市北京南路818号45号楼《干旱区地理》编辑部邮编：830011电话：0991-7827350E-mail: aridlg@ms.xjb.ac.cn网址:http://alg.xjegi.com",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Response of water use efficiency to climate change in five Central Asian countries from 20oo to 2018 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "HAO Haichaol23，HAO Xingming1²， HUA Ding1,23,，QIN Jingxiu $^ { 1 , 2 , 3 }$ ， LI Yupeng1³，ZHANG Qifei13 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1.State KeyLaboratoryof DesertandOasis Ecology,XinjiangInstituteofEcologyand Geography,ChineseAcademyof Sciences,Urumqi 830ol1,Xinjiang,China;2.Aksu National Station of Observationand Research forOasis Agro-ecosystem,Aksu8430l7,Xinjiang,China;3.UnversityofChineseAcademyofSciences,Beijing0o49,China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Water use eficiency(WUE) is a commonly used measurement index for studying the coupling of the terrestrial carbon cycle and hydrological cycle. Using grossprimary productivity and evapotranspiration of MODIS data, we assessed the spatial-temporal variation law of WUE in Central Asia and its dynamic response to climate factors and drought through the slope trend analysis approach，sensitivity analysis,among others.We found the folowing results.(1)From 200 to 2018,the WUE mean value greatly fluctuated with habitat humidity increment (i.e.,the growth period is contrary to the law).In contrast, its maximum value $( 1 . 8 2 { \\pm } 0 . 1 0 \\mathrm { g } \\mathrm { C } { \\cdot } \\mathrm { m m } ^ { - 1 } { \\cdot } \\mathrm { m } ^ { - 2 } )$ （204号 was basically in the wetland region and its minimum value ( $( 1 . 3 3 { \\pm } 0 . 1 8 ~ \\mathrm { g } \\mathrm { C } { \\cdot } \\mathrm { m m } ^ { - 1 } { \\cdot } \\mathrm { m } ^ { - 2 } )$ in the shrubland.Generally, the WUE value is on a slight downward trend with an annual descending rate of $0 . 0 1 6 \\textrm { g C } \\cdot \\mathrm { m m } ^ { - 1 } \\cdot \\mathrm { m } ^ { - 2 }$ .(2) The areas with WUE mean value on the significant downward trend were found greater than those on the significant rising trend.Furthermore,the sensitivity of WUE toward precipitation and air temperature both illustrated the areas with positive values to be greater than those with negative values.The sensitivity coefficient toward normalized difference vegetation index $\\left( \\varepsilon _ { \\mathrm { N D V I } } \\right)$ showed a positive correlation with precipitation variation but negatively corelated with air temperature change.The sensitivity of WUE toward precipitation and air temperature both exist threshold effect with the range between $2 5 0 { - } 3 0 0 ~ \\mathrm { m m }$ (low-value point) and $5 0 0 { - } 5 5 0 ~ \\mathrm { m m }$ （204号 (high-value point)of precipitation sensitivity. Besides,the fitest temperature threshold of WUE variation ranged from $3 { - } 6 ~ ^ { \\circ } \\mathrm { C }$ (low-value point) to $9 - 1 2 ~ ^ { \\circ } \\mathrm { C }$ (high-value point). (3) WUE of grassland with abundant trees,mixed forest,and open shrub was positively correlated with standardized precipitation index (SPEI),with a correlation coefficient of0.83,0.81,and 0.70,respectively. On the other hand,the WUE of grassland with deciduous needleleaf forest and permanent wetland was lowly correlated with SPEI, with a correlation coefficient of $- 0 . 3 5 , - 0 . 2 2$ and 0.02,respectively.WUE is affected by the degree of drought and evolved in a descending way under shrub, crops,forest，grasslands，and wetlands while ascending with the drought degree increment under diferent vegetation types.The influence of drought degree toward WUE value on diferent habitats ranked in descending order (shrub,crop,forest，grassland,and wetland) but elevated with the increment in drought degree with different vegetation types. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: Central Asia; sensitivity; climate change; water use effciency; vegetation types ",
+        "page_idx": 13
+    }
+]

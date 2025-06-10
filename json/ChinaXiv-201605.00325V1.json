@@ -1,0 +1,372 @@
+[
+    {
+        "type": "text",
+        "text": "DownloadedFo:hp://procsedialiay/osehp:/sdigitallbss ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A New MIMO SAR System based on Alamouti Space-Time Coding Scheme and OFDM-LFM Waveform Design ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiaojin Shi\\*, Yunhua Zhang Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, NO.1 Nanertiao, Zhongguancun, Haidian district, Beijing, China 100190 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years,multi-input and multi-output (MIMO)radar has attracted much atention of many researchers and institutions.MIMOradar transmits multiple signals,andreceives the backscatered signals reflected fromthetargets.In contrast with conventional phased arrayradar and SAR system, MIMO radar system has significant potentialadvantages for achieving higher system SNR,more accurate parameter estimation,or high resolution of radar image.In this paper, we propose a new MIMO SAR system based on Alamouti space-time coding scheme and orthogonal frequency division multiplexing linearly frequency modulated (OFDM-LFM) for obtaining higher system signal-to-noise ratio (SNR) and better range resolution of SAR image. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: synthetic aperture radar (SAR), multiple-input and multiple-output (MIMO),Alamouti Scheme,orthogonal frequency division multiplexing (OFDM) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multi-input and multi-output (MIMO） isa highly focused research area in mobile communications.MIMO communication systems can improve link reliability and multiplexing gain. MMO radar based on the idea of employing multiple transmiters with multiple waveforms and multiple receivers to receive the echoes reflected from targets. Becauseofmultiple transmiters in MIMO system, we have high flexibilityof waveform designto achieve higher signalto-noise ratio (SNR) or improved resolution by signal processing[1]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alamouti space-time coding scheme iscommonlyused in wirelesscommunicationarea to decrease the probabilityof bit error.For MIMO SAR,we introduce Alamouti space-time code in transmited waveform design to increase system SNR[2].Orthogonal signals are transmited from the twoantennas,and received signalscan be decoded toacquire additional 6dB gain by Alamouti decoding matrix. OFDM-LFM is a group of orthogonal waveforms which has the same frequency slopebut diffrent center frequency. We select OFDM-LFMas transmited signals to decrease interference of transmitted channels and improve range resolution of SAR image[3]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we employ Alamouti space-time code and OFDM-LFM waveform design to form a new MIMO SAR system.There are 2n transmittrs in the system and the transmitted signals are orthogonally designed which have the same bandwidth and increasing center frequency.Every two transmiters and a receiver are designed as a group and Alamouti space-time encoding and decoding scheme is appied in every group.The simulation results prove that the new MIMO system can enhance system SNR and significantly improve range resolution of SAR image. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.ALAMOUTISPACE-TIMECODINGSCHEME ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Alamouti code which is usually applied in mobile communication systems can be generalized as an orthogonal space-time code based on two transmitters. A generic Alamouti scheme is illustrated in Figure 1. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DownloadedFro:htp://procedigsediiallbary/o0TrsofUse:htp:/spdigitalliayo/sses ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b84821160ff6c40accd86c05074916bfd3ecac6a5ccbd3bbdfa2c9ac680d9bb9.jpg",
+        "img_caption": [
+            "Figure 1.Generic diagramof Alamouti scheme "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "At a given period $t _ { 1 }$ ，two orthogonal signals $S _ { 1 } , S _ { 2 }$ transmits from antenna $T x _ { 1 }$ and $T x _ { 2 }$ ，and complex conjugated singal $S _ { 2 } ^ { * } \\ , - S _ { 1 } ^ { * }$ transmits at the next period $t _ { 2 }$ . The channel influence of $T x _ { 1 }$ and $T x _ { 2 }$ denote by $H _ { 1 }$ and $H _ { 2 }$ .The symbol block $S$ and the channel vector $H$ are given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { S } = \\left[ \\begin{array} { l l } { S _ { 1 } } & { S _ { 2 } } \\\\ { S _ { 2 } ^ { * } } & { - S _ { 1 } ^ { * } } \\end{array} \\right] , \\mathbf { H } = \\left[ \\begin{array} { l } { H _ { 1 } } \\\\ { H _ { 2 } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The received signal at time $t _ { 1 }$ and $t _ { 2 }$ can be described by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { R x _ { 1 } = H _ { 1 } S _ { 1 } + H _ { 2 } S _ { 2 } + n _ { 1 } } } \\\\ { { } } & { { } } & { { R x _ { 2 } = H _ { 1 } S _ { 2 } ^ { * } - H _ { 2 } S _ { 1 } ^ { * } + n _ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$H _ { 1 } , H _ { 2 }$ denotes the individual channel response, $S _ { 1 } , S _ { 2 }$ is the transmitted signal, and $n _ { 1 } , n _ { 2 }$ represents random complex additive white Gaussian noise. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The received signals also can be given as matrix form by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { R } \\mathbf { x } = { \\left[ \\begin{array} { l } { R x _ { 1 } } \\\\ { R x _ { 2 } } \\end{array} \\right] } = { \\left[ \\begin{array} { l } { H _ { 1 } S _ { 1 } + H _ { 2 } S _ { 2 } } \\\\ { H _ { 1 } S _ { 2 } ^ { * } - H _ { 2 } S _ { 1 } ^ { * } } \\end{array} \\right] } + { \\left[ \\begin{array} { l } { n _ { 1 } } \\\\ { n _ { 2 } } \\end{array} \\right] } = \\mathbf { H } \\mathbf { S } + \\mathbf { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In wirelesscommunication system,transmited code is recovered from received signal basedon the modulation scheme such as BPSKorQPSK.Butinradarsystem,it is needless to recover transmittedsignal, wehave priori knowledge about signal waveform matrix $\\mathbf { s }$ and $\\mathbf { S } ^ { H }$ . The Alamouti decoding can be directly implemented by multiplying $\\mathbf { S } ^ { H }$ with $\\mathbf { R } \\mathbf { x }$ （20 signal. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { R } = \\mathbf { R } \\mathbf { x } \\mathbf { S } ^ { H } = ( \\mathbf { H } \\mathbf { S } + \\mathbf { n } ) \\mathbf { S } ^ { H } = \\mathbf { H } { \\left\\| \\mathbf { S } \\right\\| } _ { F } ^ { 2 } + \\mathbf { n } = { \\left[ { H } _ { 1 } ( \\left| S _ { 1 } \\right| ^ { 2 } + \\left| S _ { 2 } \\right| ^ { 2 } ) \\right] } + \\mathbf { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { S } ^ { H }$ is Hermitian transpose of matrix $\\mathbf { s }$ ，and $\\left\\| \\mathbf { S } \\right\\| _ { F } ^ { 2 }$ denotes squared Frobenius noum of matrix S. If $S _ { 1 } , S _ { 2 }$ have the same power, which means $\\left| S _ { 1 } \\right| ^ { 2 } = \\left| S _ { 2 } \\right| ^ { 2 }$ ，the Alamouti decoder can address additional gain of 6dB compared with conventional Single-Input Single-Output (SISO) SAR system[4]. It is noticed that signal S and $\\mathbf { S } ^ { H }$ are representations infrequency domain and the range compression has been acomplished in the step of Alamouti decoding.The simulation result of Alamouti scheme is shown in Figure 2, $S _ { 1 } , S _ { 2 }$ are linear frequency modulated (LFM) signal with 10dB white noise.Compared with conventional matched filtering,the magnitude of Alamouti decoding result has additional gain of 6dB. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DownloaedFro:ttp:/rogsspigialiao/soUs:hp:/spedigiallbry/ss ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3e97e9f0fcbb1f3b828741fbbff8bd658384ea5d288581a96d2e73a4a3ce852.jpg",
+        "img_caption": [
+            "Figure 2. Comparison of range compression result using Alamouti scheme and conventional matched filtering "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.OFDM-LFMWAVEFORM ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "OFDM-LFM is composed of a group of linearly frequency modulated subpulses which have equal chirp rate and dlifferent center frequency. OFDM-LFM waveform can be represented by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle s ( t ) = \\sum _ { i = 0 } ^ { N - 1 } u ( t ) \\exp ( j 2 \\pi f _ { i } t ) } } \\\\ { { \\displaystyle u ( t ) = \\exp ( j K \\pi t ^ { 2 } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $u ( t )$ is chirp subpulse, $f _ { i }$ is the center frequency of subpulse $i$ and $f _ { i } = f _ { 0 } + i \\Delta f . \\ f _ { 0 }$ is starting frequency of subpulses, $\\Delta f$ is step frequency. $K$ is chirp rate of every subpulse and $K = B / T _ { p } , B$ is bandwidth of subpulse, $T _ { p }$ is subpulse width[5]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because of the requirement of orthogonality between each subpulse, it should be satisfied with ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l l } { \\displaystyle { T _ { p } } } \\\\ { \\displaystyle { \\int _ { 0 } s _ { m } ( t ) s _ { n } ^ { * } ( t ) d t = \\left\\{ C _ { m } \\qquad m \\neq n \\right. } }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $*$ denotes a complex conjugation operator and $C _ { m }$ denotes a nonzero constant. To reach this aim,any two subpluses cannot be overlapped in frequency domain, which can be expressed as: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB \\geq \\Delta f\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "High resolution radar imaging with OFDM-LFM can be achieved by frequency domain synthesis method based on match filtering algorithm. The subpulse $i$ and the received signal can be described as: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { s _ { i } ( t ) = \\exp ( j 2 \\pi f _ { i } t + j K \\pi t ^ { 2 } ) } & { { } } & { - T _ { _ p } / 2 \\leq t \\leq T _ { _ p } / 2 } \\\\ { r _ { i } ( t ) = g _ { i } ( t ) * s _ { i } ( t ) } & { { } } & { } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $g _ { i } ( t )$ is the reflection function of targets for subpulse $i$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "After down conversion and Fourier transform, expression (9) is transformed to ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { i } ( \\omega - \\omega _ { i } ) = G _ { i } ( \\omega - \\omega _ { i } ) \\cdot S _ { i } ( \\omega - \\omega _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DownloadedFro:htp://procedigsediiallbary/o0TrsofUse:htp:/spdigitalliayo/sses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Where $\\omega _ { i } = 2 \\pi f _ { i }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Match filteringin frequency domain can be expressed by: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { i } ( \\omega - \\omega _ { i } ) = { R } _ { i } ( \\omega - \\omega _ { i } ) \\cdot S _ { i } ^ { * } ( \\omega - \\omega _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Spectrum synthesis means the superposition of all reflection function $G _ { i } ( \\omega )$ in frequency domain,which can be represented by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ( \\omega ) = \\sum _ { i = 1 } ^ { N - 1 } G _ { i } ( \\omega - \\omega _ { i } + ( i - 1 ) \\Delta \\omega )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At last, high resolution radar imaging is obtained by inverse Fourier transform. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng ( t ) = I F F T [ G ( \\omega ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Theresults of OFLM-LFM simulation is shown inFigure 3and simulation parametersare listed in Table1.InFigure 3, we can see that main lobe width decreases gradualy with the increase of the number of subpulse,which means the improvement of range resolution. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0113fef8dbf92d13086e35e8d3bd43c333941fbe434f9fcdab3d803ecc1e5c5f.jpg",
+        "table_caption": [
+            "Table 1. OFLM-LFM simulation parameters. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Parameter</td><td>Value</td></tr><tr><td>Bandwidth of subpulse B</td><td>100MHz</td></tr><tr><td>Subpulse with Tp</td><td>10us</td></tr><tr><td> Step frequency △f</td><td>100MHz</td></tr><tr><td>Number of subpulses N</td><td>1,2,4</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/304b02ad1d94816a2d014b78eecb759f9b33631d4e139443a5b3cd4dcc494a33.jpg",
+        "img_caption": [
+            "Figure 3.OFLM-LFM simulation result with different number of subpulses. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.THE NEWMIMO SAR SYSTEM SIMULATION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this section, the new MIMO SAR model is discussed and the proposed processing is demonstrated by simulations.   \nMIMO radar system model is shown in Figure 4. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DownloaddFo:hp://procdsediitallay/o/oUsehp://diitallrao/s",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d187694e4a96bd216b775863c2866a4344f45b251dc8546a372a5553313fbb8d.jpg",
+        "img_caption": [
+            "Figure 4.MIMO SAR system model "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$S _ { 1 } , S _ { 2 } \\cdots S _ { n }$ is OFDM-LFM waveform which has the same bandwidth but different center frequency. $S _ { 1 } ^ { * } , S _ { 2 } ^ { * } \\cdots S _ { n } ^ { * }$ is complex conjugated of singal $S _ { 1 } , S _ { 2 } \\cdots S _ { n }$ ： $S _ { 1 } , S _ { 2 } \\cdots S _ { n - 1 } , S _ { n }$ is transmitted at time $t _ { 1 }$ ，and $S _ { 2 } ^ { * } , - S _ { 1 } ^ { * } \\cdot \\cdot \\cdot S _ { n } ^ { * } , - S _ { n - 1 } ^ { * }$ is transmitted at time $t _ { 2 } \\cdot R _ { 1 } , R _ { 2 } \\cdots R _ { n / 2 }$ is receiver, every two transmitters and a receiver are designed as a group. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because $S _ { 1 } , S _ { 2 } \\cdots S _ { n }$ is orthogonal, Alamouti space-time encoding and decoding scheme can be applied in every group. The procedure ofsignal procesing for the new MIMO SAR system is shown in Figure 5.Firstly,received data should be decoded by Alamouti decoding matrix.It is noticed that Alamouti decoding scheme is implemented in frequencydomain and the range compression has been accomplished in this step.Secondly,allof received data after Alamouti decoding should berealigned based on the center frequency of received signals.Thirdly,Inverse fastFourier transform (IFFT) should be implemented to achieve higher range resolution. Finally,SAR image is generated through matched filter in the azimuth direction. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e6d825e05957e2d38ca66ccf6939688a38014d07e33453cb7cdf4e582e2772e.jpg",
+        "img_caption": [
+            "Figure 5.Flow diagramof signal processing for MIMO SAR system "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The simulation result of an airplane model is shown in Figuer 6.Figure 6(a)is SAR image generatedby conventional SISO SAR system. Figure 6(b)is SAR image of new MIMO system with 4 transmiters and 2 receivers. Compared with Figure 6(a), Figure 6(b) has higher SNR and obvious improvement in range resolution. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d01ed0ab5e438cda5102cbc5bdf8dbd139d87c03976009304468afd8bbefcd7.jpg",
+        "img_caption": [
+            "(b)New MIMO SAR system simulation result with 4 transmitters and 2 receivers. ",
+            "Figure 6.Conventional SISO SAR and new MIMO SAR system simulation result "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "An inovative concept of MIMO SAR is proposed in this paper.The new MIMO SAR system is implemented by using Alamouti space-time coding schemeand OFDM-LFM theory.Alamouti scheme is employed at two separated transmiters and provides 6dB additional power gain in ideal.High range resolutioncan be obtained by OFDM-LFM waveform design and spectrum synthesis process.The simulation results indicate that the new MIMO system can enhance receive SNR and range resolution of SAR image. Because Alamouti scheme and OFDM-LFM waveform design can only improve the performance in range bin,our further work willbe focused on high resolution application using Alamouti scheme and MIMO radar concept in azimuth direction. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Wen-Qin Wang,\"Space-Time Coding MIMO-OFDM SAR for High-Resolution Imaging,\" IEEE Transactions on Geoscience and Remote Sensing.Papers 49(8), 3094-3104 (2011).   \n[2]Jung-Hyo Kim,Alicja Ossowska, Werner Wiesbeck,\"Investigation of MIMO SAR for Interferometry,\" Proceedings of the 4th European Radar Conference,51-54 (2007).   \n[3]Wen-Qin Wang， Cai Jingye,\"Millimeterwave Radar High-Resolution Imaging via OFDM Waveforms,\" 2nd International Conference on Signal Processing Systems,512-515 (2010).   \n[4] Jung-Hyo Kim,Werner Wiesbeck,\"Investigation of a New Multifunctional High Performance SAR System Concept Exploiting MIMO Technology,\" IEEE Geoscience and Remote Sensing Symposium,221-224 (2008).   \n[5] Zhang Yunhua, Zhai Wenshuai, Gu Xiang,Shi Xiaojin,Dong Xiao,\"High-resolution moving train imaging by Kuband radar with 4GHz signal bandwidth,\" IET International Conference on Radar Systems,1-6 (2012). ",
+        "page_idx": 6
+    }
+]

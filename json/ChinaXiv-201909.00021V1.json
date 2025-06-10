@@ -1,0 +1,597 @@
+[
+    {
+        "type": "text",
+        "text": "天山北坡植被NDVI时空变化及其与气候因子的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "尼加提·伊米尔，满苏尔·沙比提，玉苏甫·买买提（新疆师范大学地理科学与旅游学院,新疆 乌鲁木齐830054)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用 MODIS NDVI数据产品并结合相应的气候数据,运用一元回归趋势分析法,相关分析法,探讨 2000—2015 年天山北坡年平均、月平均NDVI时空变化与气候因子的相关关系。结果表明： $\\textcircled{1}$ 近16a来,天山北坡年平均NDVI值在 $0 . 2 7 \\sim 0 . 3 1 \\$ 之间波动上升,总体上呈明显增加的趋势;月平均NDVI值每年4月开始植被覆盖迅速增加,到7月达到最大值,然后8月开始降低,月平均 NDVI值的变化呈现出单峰趋势。天山北坡不同季节植被指数都呈现上升的趋势。空间上天山北坡植被覆盖呈现出西部高东部低,南部高北部低的分布特征。生长季植被 ND-VI值和年平均植被 NDVI值的变化存在明显的空间差异,表现为中部植被覆盖增加,东北部、西部、南部的植被覆盖减少。 $\\textcircled{2}$ 天山北坡年平均气温和平均降水量逐步上升,变化趋势表现为上升一下降一上升的趋势。空间上天山北坡南部山地地区气温低,降水量多;北部平原区气温高,但降水量少。 $\\textcircled{3}$ NDVI值对气温和降水量存在一定的相关关系。气温与降水量对植被的生长均有影响，其中春季的植被NDVI值与气温的关系密切,夏季的植被 NDVI值与降水量有密切的关系,综合分析,降水量对植被覆盖的影响大于气温对植被覆盖的影响。 $\\textcircled{4}$ 生长季(5—9月)植被 NDVI值与气温和降水量存在一定的滞后性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：NDVI；时空变化；气候因子；天山北坡 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植被覆盖的变化是反映区域生态环境状况的重要指标,表示区域环境质量的优劣[1]。NDVI 是植物生长状态及地表覆盖变化的最佳指示因子，因此，广泛应用于植被覆盖度以及植被净初级生产力的估算[2-3]。植被的活动与气候密切相关,其变化不仅导致植物生长发育状况和植被分布格局的变化[4]而且干旱半干旱地区植物生长对温度和降水量的变化极其敏感，因此，动态监测地表植被覆盖的时空演变，掌握当前植被与气候之间的关系，对于揭示区域环境状况演化、预测未来陆地生态系统对全球变化的响应等具有重要意义[5]。随着全球气候变暖问题研究的日益深入，不同时空尺度的NDVI动态变化及其对气候因子响应的研究已经成为全球变化研究的重要领域[6-7]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究表明，在全球气温趋于变暖的大背景下，近50多年来，新疆气温和降水分别以 $0 . 3 2 \\mathrm { ~ \\textdegree C }$ ·(10a）-¹和 $8 \\ \\mathrm { m m } \\cdot \\left( 1 0 \\mathrm { a } \\right) ^ { - 1 }$ 的倾向率增加[8]。国内外诸多学者利用NDVI数据对植被覆盖变化与气候变化之间的相关性进行了研究，取得了一系列成果[9]。Barbosa等[10]利用AVHRR 植被指数数据,对巴西东北部地区20a间的植被变化趋势进行了分析，估算发现巴西东北部地区的植被指数值在1984—1990 年呈现递增趋势，在1991—1998 年呈现递减趋势。 ${ { \\mathbb { W } } _ { \\mathbf { u } } }$ 等[1]则在全球尺度上进一步揭示了植被对气候变化响应存在时间滞后性。Bokhorst等[12]研究发现,亚北极冬季极端气温暖事件频繁发生，对该区域植物生长和生态环境保护产生了严重影响。Piao 等[13]研究表明,日最高气温的增加是欧洲和美国植被展叶日期提前的主要影响因素。苏慧敏等(14 基于MODIS NDVI的像元二分模型，估算了北京市2014—2016年的植被覆盖度，并对不同年份、不同分级植被覆盖度的变化情况进行了分析。陈登魁等[15]利用1982—2015 年的GIMMS NDVI$3 \\mathrm { g } + \\$ 数据，研究了可可西里世界自然文化遗产保护区NDVI时空分布特征及变化趋势，并对其驱动因素进行分析。罗新蕊等[16基于2000—2015 年 MODIS",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NDVI数据、气象和土地利用数据及研究区统计数据，利用最大值合成法（MVC）、相关系数法、趋势分析法对经国家生态工程建设后的川中丘陵区植被动态变化特征进行了分析，同时探讨了气候变化和人类活动对植被覆盖的影响。分析NDVI变化趋势以及NDVI对气候变化的响应研究表明，由于不同地理区域植被类型和气候特征不同，存在着较明显的区域性差异(17-20],而且分析了植被生长季 NDVI与气候因子的关系或NDVI变化空间格局，很少有NDVI时空变化趋势与气候因子关系的定量分析研究。本文在前人研究的基础上，通过定量分析天山北坡NDVI年际和季节变化趋势与气候因子的关系，试图解决以下问题： $\\textcircled{1}$ 通过分析过去16a天山北坡NDVI的时空变化趋势，了解天山北坡植被生物量的变化情况； $\\textcircled{2}$ 解释天山北坡NDVI春、夏、秋季变化与气温和降水量的相关关系； $\\textcircled{3}$ 分析气温和降水量对NDVI的滞后效应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "天山北坡位于准噶尔盆地南缘与天山北坡中东段之间，系天山山脉中段博格达山，依连哈比尔尕山和博罗科努山分水岭以北的区域（图1），包括乌鲁木齐市、石河子市、克拉玛依市、昌吉市、米泉市、阜康市、呼图壁县、奇台县、吉木萨尔县、木垒县和玛纳斯等县市，塔城地区的沙湾县、乌苏市，伊犁的奎屯市，博尔塔拉的精河县等,总面积 $9 5 ~ 5 9 8 ~ \\mathrm { k m } ^ { 2 }$ 。该区地势南高北低，区域内由山地海拔 $5 ~ 0 0 0 ~ \\mathrm { ~ m ~ }$ 左右降至沙漠边缘的 $2 0 0 \\mathrm { ~ m ~ }$ 左右。天山北坡地区属于内陆半干旱气候,夏季干旱炎热，冬季寒冷多风。降水由南往北递减，山区中低山带年降水量在 $5 0 0 ~ \\mathrm { m m }$ 左右，平原区年降水量约 $2 0 0 ~ \\mathrm { m m }$ ;北部沙漠区年降水量约 $1 0 0 ~ \\mathrm { { m m } }$ ;年均气温由山区的 $2 \\ \\mathrm { { ^ circ C } }$ 到平原区的$6 \\sim 8 ~ \\mathrm { { ^ { \\circ } C } }$ ,其自然地理条件的垂直分带性十分明显[21]。该研究区的区域生态环境特点是立体型结构，由南往北山地、绿洲、荒漠等共同构成了天山北坡相互依存和相互作用的完整生态系统。研究区的重要植被类型包括半灌木与小乔木荒漠植被，山地植被以及人工绿洲区的耕地植被等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来原",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NDVI数据为2000—2015年MODIS中国区域NDVI月最大值合成产品（TERRA卫星的MODND1M），数据来源于中国科学院计算机网络信息中心国际科学数据镜像网站。MODIS NDVI数据时间范围为2000 年2月至2015年12月，共16期数据(192景影像),空间分辨率为 $5 0 0 \\mathrm { ~ m ~ } \\times 5 0 0 \\mathrm { ~ m ~ }$ 。对下载好的NDVI数据进行格式和投影转换以及图像拼接等一系列预处理，并利用研究区边界裁天山北坡NDVI数据，为有效消除云遮蔽、大气影响等不利因素，对预处理的MODISNDVI数据采用最大合成法折算为年NDVI数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/deebf1e2e81da6a657b1f6da2f4d8f1f5a7036a82ddc8f53b748c1fabc040473.jpg",
+        "img_caption": [
+            "图1研究区位置示意图",
+            "Fig.1Sketch map of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "气象数据来源于天山北坡37个气象站点的日常数据，通过克里格回归插值法进行空间插值，得到时间序列2000—2015年、空间分辨率 $0 . 1 ^ { \\circ } \\times 0 . 1 ^ { \\circ }$ 的天山北坡降水、气温栅格数据集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1一元线性趋势分析为了解研究区域多年植被覆盖的空间变化规律，采用一元线性回归趋势分析。趋势分析法是对每个栅格的变化趋势进行模拟,并不是简单的最后一年与第一年的连线[22],而是反映不同时期植被覆盖变化的空间分布特征的分析方法。趋势线是对一组随时间变化的变量进行回归分析，预测其变化趋势的方法。本文在ENVI软件下对天山北坡 2000—2015年各年平均NDVI值进行一元线性趋势分析，反映每个像元的变化趋势。其计算公式为[4]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { \\mathrm { s l o p e } } = \\frac { n \\displaystyle \\sum _ { k = 1 } ^ { n } k \\times \\overline { { \\mathrm { N D V I } } } - \\sum _ { k = 1 } ^ { n } k \\times \\sum _ { k = 1 } ^ { n } \\overline { { \\mathrm { N D V I } } } } { n \\displaystyle \\sum _ { k = 1 } ^ { n } k ^ { 2 } - \\left( \\sum _ { k = 1 } ^ { n } k \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $n$ 是总年数； $k$ 为 $1 \\sim n$ 年中的第 $k$ 年； $\\overline { { \\mathrm { N D V I } } }$ 为年平均NDVI值; $\\theta _ { \\mathrm { s l o p e } }$ 为趋势线的斜率，趋势线法反映了在研究时间段内 NDVI的变化趋势。其中，$\\theta _ { \\mathrm { s l o p e } } > ~ 0$ 时,说明NDVI在 $n$ 年间呈现增加趋势;$\\theta _ { \\mathrm { s l o p e } } = 0$ 时,说明NDVI没有变化; $\\theta _ { \\mathrm { s l o p e } } < 0$ 时，ND-VI呈现减少趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2相关性分析为了研究NDVI与各气候因子的相应关系，运用SPSS软件计算NDVI与气温、降水量等气候因子的相关系数，并进行显著性检验，比较NDVI与各气候因子的相关性，由于天山北坡气候数据的空间分辨率为 $0 . 1 ^ { \\circ } \\times 0 . 1 ^ { \\circ }$ 。为了分析天山北坡植被指数与气候因子的相关关系，本文利用ArcGIS的重采样功能，采用最邻近分配法对MODISNDVI数据进行了重采样，使其与气温、降水量序列的分辨率保持一致，然后在ENVI软件下分别计算年NDVI值。计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr \\times y = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( x _ { i } - { \\overline { { x } } } \\right) \\left( y _ { i } - { \\overline { { y } } } \\right) } { \\displaystyle { \\sqrt { \\sum _ { i = 1 } ^ { n } \\left( x _ { i } - { \\overline { { x } } } \\right) ^ { 2 } \\sum _ { i = 1 } ^ { n } \\left( y _ { i } - { \\overline { { y } } } \\right) ^ { 2 } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $x _ { i } \\setminus y _ { i }$ 分别为 $\\mathbf { \\chi } _ { i }$ 年 NDVI的年平均值和同期的气温或降水数值； $x , y$ 分别为NDVI多年平均值和研究期气温或降水均值。 $r _ { i } > 0$ 是正相关， $r < 0$ 是负相关。 $\\vert \\bar { r } \\vert < 0 . 3$ 为弱相关， $0 . 3 < \\vert \\bar { r } \\vert < 0 . 5$ 为低度相关， $. 0 . 5 < \\mid \\bar { r } \\mid < 0 . 8$ 为显著相关， $0 . 8 < \\mid \\bar { r } \\mid < 1$ 为极显著相关[20] O",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 天山北坡NDVI及气象因子时空 变化 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 NDVI的时序变化特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2a显示了2000—2015年天山北坡地区ND-VI值年际变化趋势。近16a以来NDVI值在$0 . 1 8 \\sim 0 . 2 2$ ,保持波动上升的趋势。平均NDVI为0.21,平均NDVI最小值出现在2000 年，为0.18，最大值出现在2013年，为0.25，NDVI上升率每10a为0.03。生长季(4—9月)平均NDVI值在 $0 . 2 5 \\sim$ 0.34之间呈上升趋势，该时段气温适宜，降水集中，有利于植物的生长，所以植被覆盖较高。由月平均NDVI变化曲线图2b可以看出，4月NDVI开始快速生长，其中4一6月NDVI值为明显上升阶段，7月达到全年最大值，8月末进入快速下降阶段，到11月又回到4月的水平，月平均NDVI的变化呈现出单峰趋势。总体来说，天山北坡植被覆盖整体上呈现增加的趋势，当植被指数较高时，植被覆盖度也越高。随着全球气候的变暖，天山山区降水量增加，导致天山北坡植被覆盖度呈增加的趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/80912b5627b4609eb15de5415ce3bd82703870bbb53ed1f6e1eeca4f6fca3cfc.jpg",
+        "img_caption": [
+            "图22000—2015年天山北坡 NDVI年际变化及月变化Fig.2Interannual and monthly changes of NDVI on the northernslope of the Tianshan Mountains from 2OoO to 2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过计算2000—2015年天山北坡地区NDVI的多年不同季节平均值，得到16a以来不同季节NDVI的变化趋势图。图3分别为天山北坡地区春季3—5月、夏季6—8月、秋季9一11月、冬季12—2月的平均NDVI的变化趋势。由图3可知,16a以来天山北坡地区不同季节的平均NDVI值都呈现上升趋势，各季植被覆盖度的变化趋势存在一定的差异。其中，春季天山北坡地区NDVI变化趋势比较平稳，2009一2011年波动较大。夏季是植物生长的最好时期，有充足的光照，充足的降水，因此植被覆盖度最高，变化趋势为减少一增加一减少，2008—2011年植被指数持续增加，2013年的植被指数最高，为0.39,NDVI变化波动上升幅度较大。秋季和冬季的变化波动比较大，变化率最高，2000年的植被指数最低，秋季和冬季的变化趋势为增加一减少一增加一减少，与夏季相反。16a来,天山北坡地区不同季节的植被指数都呈上升趋势，春季的变化最明显，秋季和冬季的变化波动最大，夏季的植被指数最高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ca236f40184a8ce698387370a6125b111f3a4206a07e3e42a5ddea3a20794e3.jpg",
+        "img_caption": [
+            "图32000—2015 年天山北坡地区不同季节植被覆盖度年际变化",
+            "Fig.3Interannual variationof vegetationcoverageonthenorthern slopeof the Tianshan Mountains from2OoO to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了更好地分析天山北坡植被覆盖状况，ArcGIS 软件下利用最大值合成法得到研究区最大ND-VI多年平均空间分布图。根据 NDVI值,将其分为5级（无植被覆盖 $- 0 . 0 0 3 \\sim \\ 0 . 1$ ,低植被覆盖0.1\\~0.2，中等植被覆盖 $0 . 2 \\sim 0 . 3$ ，高植被覆盖 $0 . 3 \\sim$ 0.6,极高植被覆盖 $0 . 6 \\ \\sim 1 . 0 \\dot s$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 NDVI的空间变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在像元尺度上对16a天山北坡生长季（4—9月）和年平均NDVI在ENVI软件下进行一元线性回归分析，得到平均NDVI的变化趋势图（图4）。参照相关研究成果(15-24],根据趋势分析统计获取其所占的比例(表1）。可知研究区NDVI在16a间整体呈上升趋势。各地区和各时期的变化趋势有所不同，其中生长季的植被退化面积较小且零散，约占总面积的 $4 . 8 5 \\%$ ，年际植被覆盖的退化面积占$8 . 9 9 \\%$ 。温泉县、克拉玛依市、乌鲁木齐市、乌鲁木齐县、吉木萨尔县的北部、石河子市等周围地区退化面积零散。这些地区为发展较快的地区，受人类活动的影响较大，农田开垦，森林砍伐严重，过度放牧使得植被严重退化，植被覆盖状况需要改善。生长季 NDVI的改善面积约占总面积的 $4 6 . 1 5 \\%$ ,年平均NDVI的植被改善面积为 $4 4 . 4 5 \\%$ 。其主要集中在天山北坡中部地区，这些地区是海拔 $2 0 0 \\sim 1 ~ 0 0 0 ~ \\mathrm { ~ m ~ }$ 的山前平原区，降水较多，受人类活动的影响较小。植被变化不明显的地区约占总面积的 $4 8 . 9 9 \\%$ 和$4 6 . 5 7 \\%$ ，主要位于海拔高的山区和海拔低的荒漠地",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b16a19c95570b8f3106cedef2ce006e3e18d717e09733fb1c14ed9aff307452b.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "图42000—2015 年天山北坡生长季及年平均NDVI的空间变化"
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4SpatialvariationofaverageannualNDVIingrowingseasononthenorthenslopeoftheTianshanMountainsfrom2Ooto201: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表12000—2015年天山北坡年平均NDVI和生长季平均NDVI的年际变化趋势",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tab.1Interannual variation trend of average annual NDVI and average NDVI in growing season on the northern slope of the Tianshan Mountains from 2ooo to 2015 ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7b30f88ede11af47038046873ea10b09e5951ad78d33f9aa1db4c6a8bc47f91.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变化 程度</td><td colspan=\"2\">生长季平均NDVI</td><td colspan=\"2\">年平均 NDVI变化</td></tr><tr><td>变化趋势</td><td>面积比 例/%</td><td>变化趋势</td><td>面积比 例/%</td></tr><tr><td>严重 退化</td><td>-0.0349~ -0.0032</td><td>0.96</td><td>-0.255~ -0.002 2</td><td>1.74</td></tr><tr><td>轻微 退化</td><td>-0.0032~ -0.0007</td><td>3.89</td><td>-0.0022~ -0.0003</td><td>7.25</td></tr><tr><td>基本 不变</td><td>-0.0007~0.0025</td><td>48.99</td><td>-0.0003~0.001 7</td><td>46.57</td></tr><tr><td>轻微 改善</td><td>0.0025~0.010 8</td><td>37.35</td><td>0.001 7~0.009 4</td><td>39.78</td></tr><tr><td>明显 改善</td><td>0.0108~0.047 2</td><td>8.80</td><td>0.009 4~0.0362</td><td>4.67</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "区，其环绕天山北坡。近年来，随着全球气候的变暖，天山北坡南段和东段的冰川快速融化，降水变化呈上升趋势，加之气温度明显升高，加快了天山北坡植被覆盖速度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3气温与降水的变化特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "气候变化是天山北坡植被变化的驱动因素之一。研究表明，各个区域的气候变化会影响世界上各种自然生物系统[25]。如冰川退缩、冻土融化、中高纬度地区生长季延长等。天山北坡2000一2015年气温与降水量出现不同程度的增加，气候暖湿化趋势较明显，主要原因是全球气候变暖所导致的区域气候变暖。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "气温的年际变化：在同一年内1一12月的气温取平均值，得到2000—2015年平均气温（图5a）。从2000一2006年，天山北坡年平均气温逐渐下降，2006一2015年，年平均气温波动上升，其中2006年的平均气温最低 $( 2 . 1 ~ \\mathrm { \\textdegree C }$ ），2013年的平均气温最高（204号 $( \\ 5 . 9 \\ \\mathrm { { ^ { c } } }$ ），最大增量为 $3 . 8 ~ \\mathrm { { ^ { 9 } C } }$ 。总体上年平均气温逐步上升，变化趋势表现为上升一下降一上升的趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a710ee83acfbeb0cd7b0fcbbdd9bf529bee6a8d0f8c66cfdf2fee305be06ac8c.jpg",
+        "img_caption": [
+            "图52000—2015年天山北坡年平均气温和降水量变化趋势",
+            "Fig.5Variation trend of average annual precipitation on the northern slope of the Tianshan Mountains during 2OOO -2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "降水量的年度变化（图5b）：2000—2015年降水量呈明显的增加趋势，从2000年的 $2 1 8 ~ \\mathrm { m m }$ 增加到2015年的 $3 4 0 ~ \\mathrm { m m }$ ,其中2008 年的降水量最少，2015年的降水量最多，变化趋势表现为增加一减少一增加的趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "气温的空间分布：从图6可以看出，天山北坡年平均气温在 $- 1 8 \\sim 1 0 \\ \\mathrm { ^ { c } }$ ,气温的空间分布存在明显的区域性差异。南部山地的气温最低，为 $- 1 8 \\sim$ $- 1 0 \\ \\mathrm { { ^ { \\circ } C } }$ ,其海拔达到 $3 ~ 5 0 0 \\sim 4 ~ 5 0 0 ~ \\mathrm { m }$ ,随着海拔的增高，气温逐渐降低；中部大部分地区的平均气温在$5 \\sim 1 0 ~ \\mathrm { { ^ { \\circ } C } }$ 。总体上年平均气温南部低北部高。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1af35b698a3e11e55c2f46fc6c287f4ce5025dc0fe92b1aa6806bd32d0bacd3f.jpg",
+        "img_caption": [
+            "尼加提·伊米尔等：天山北坡植被NDVI时空变化及其与气候因子的关系",
+            "图6天山北坡年平均气温和降水量的空间分布",
+            "Fig.6Spatial distributionof annual mean temperatureand precipitationonthe northern slopeof the Tianshan Mountains "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "降水量的空间分布：南部山地地区的降水量最多，达 $5 0 0 \\sim 7 6 9 ~ \\mathrm { m m }$ ,东部、北部、西北部有些地区的降水量少，主要是木垒县、米泉县、克拉玛依市和精河县的部分地区，为 $8 1 \\sim 1 0 0 ~ \\mathrm { m m }$ 。中部地区的降水量为 $2 0 0 \\sim 4 0 0 ~ \\mathrm { m m }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3天山北坡NDVI与气候因子的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1年平均NDVI与气温和降水的相关性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于天山北坡气候数据的空间分辨率为$0 . 1 ^ { \\circ } \\times 0 . 1 ^ { \\circ }$ ，为了分析植被指数与气候因子的相关关系，本文利用ArcGIS的重采样功能，采用最邻近分配法对MODISNDVI数据进行了重采样，使其与气温、降水量序列的分辨率保持一致。然后，在EN-VI软件下分别计算年平均NDVI与气候因子的相关系数以及不同季节NDVI与气候因子的相关系数，相关系数等级划分为4级（弱、低、显著、极显著)（表2）。由图7可知，在天山北坡大部分地区，ND-VI与降水量存在显著的正相关关系 $0 . 5 < \\bar { r } < 0 8$ ，主要分布在北部地区和精河县； $\\overline { { r } } > 0 . 8$ 极显著正相关的区域主要分布在乌苏县;在南部山地地区和中部大部分地区，NDVI与降水量存在显著的负相关关系 $\\bar { r } < - 0 . 5$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "天山北坡的北部地区以及西部和南部的部分地区气温与NDVI之间呈正相关关系，部分地区尤其是乌苏县、沙湾县、克拉玛依区和精河县NDVI与气温之间的负相关关系极显著 $\\textstyle { \\binom { - } { r } } < \\operatorname { - } 0 . 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b47deec6b231be55ed41d5a763f8d913ccf8fe7ecc816d48b623b9474d9612f1.jpg",
+        "table_caption": [
+            "表2相关系数等级划分标准",
+            "Tab.2Criteria for classifying correlation coefficients "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>1</td><td>相关性</td><td>1</td><td>相关性</td></tr><tr><td>0~0.3</td><td>弱正相关</td><td>0~-0.3</td><td>弱负相关</td></tr><tr><td>0.3~0.5</td><td>低度正相关</td><td>-0.3~-0.5</td><td>低度负相关</td></tr><tr><td>0.5~0.8</td><td>显著正相关</td><td>-0.5~-0.8</td><td>显著负相关</td></tr><tr><td>0.8~1</td><td>极显著正相关</td><td>-0.8~1</td><td>极显著负相关</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2各季节NDVI与降水量和气温的相关性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图8a和8b可知，春季NDVI与降水量和气温的相关系数分别在 $- 0 . 8 2 \\sim 0 . 7 8$ 和 $- \\ : 0 . 6 8 \\ : \\sim$ 0.83，大部分地区与降水呈负相关，呈正相关的区域主要出现在乌鲁木齐市、五家渠及昌吉市等;与气温呈显著或极显著正相关,主要的植被类型是草地，春季气温升高，植物开始生长，所以春季植物主要受气温的影响较大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图8c和8d可知，夏季NDVI与降水量和气温的相关系数分别在 $- 0 . 7 9 \\sim 0 . 8 4$ 和-0.82\\~0.79，与降水呈正负相关的区域分布在全区且较分散，但在人类较集中的乌鲁木齐、石河子等区域基本上呈弱负相关关系；与气温呈正相关的区域基本上分布在天山北坡中部地区，其中极显著正相关的区域分布在克拉玛依市、石河子市和博州中部地区，与气温呈负相关的区域基本上分布在天山北坡南部和北部地区。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图8e和8f可知，秋季NDVI与降水量和气温的相关系数分别在 $- 0 . 8 4 \\sim 0 . 7 3$ 和 $- 0 . 7 6 \\sim 0 . 7 8$ ，其中气温与NDVI的关系很密切。天山北坡中部地区的NDVI与气温呈显著相关,这说明秋季气温的升高对植物的生长具有促进作用;秋季NDVI与降水量的关系多为低度相关，东部地区的NDVI与降水量呈负相关和弱正相关，西北部地区的NDVI与降水量呈弱相关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3植被 NDVI与气候因子的相关分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了解研究区16a时间序列中NDVI与气温,降水量之间的相关程度，利用研究区2000一2015年生长季平均NDVI和年平均NDVI,不同季节NDVI与相应的平均气温和降水量进行相关分析（表3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/852c152b4d436c3766e3a83493086f700d8bcd5513e530f0d45817648c607eee.jpg",
+        "img_caption": [
+            "Fig.7Spatial distributionofcorelations betweenaverage annual NDVIand precipitationand temperatureonthe northe of the Tianshan Mountains from 2OOO to 015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/15eb3a215927724e0843d7ed72be79ff3516c956dce6c95a972f5ebb69b04dcf.jpg",
+        "img_caption": [
+            "图72000—2015 年天山北坡年平均 NDVI与降水量和气温的相关性空间分布",
+            "图82000一2015 年天山北坡秋季 NDVI与降水量和气温的相关性"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.8Corelations betweenautumn NDVIand precipitationand temperatureonthe northern slopeof the Tianshan Mountain from 2000 to 2015 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.1NDVI与降水量的相关关系由表3分析表明，春季平均NDVI与降水量呈正相关，为弱相关；夏季平均NDVI与降水量呈弱相关;秋季平均NDVI与降水量为负相关，相关性弱;冬季平均NDVI与降水量呈正相关,但相关性很低;生长季平均NDVI与降水量呈低度正相关;年平均NDVI与降水量呈正相关，相关系数为0.453，为低度相关。从2000—2015年生长季平均NDVI与相应时段平均降水量的",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表32000—2015年平均NDVI与平均气温和降水量的相关分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e88e5c0e7c3408ddf7024cb641a898ab7b7df64eb474cbb79361ac68ba33183.jpg",
+        "table_caption": [
+            "Tab.3Analysis on the correlations between average annual NDVI and average temperature and precipitation from 2000 to 2015 "
+        ],
+        "table_footnote": [
+            "注： $*$ 表示在0.05水平(双侧)上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td>季节</td><td>降水量</td><td>气温</td></tr><tr><td>NDVI值 春季</td><td>0.147</td><td>0.611 *</td></tr><tr><td>夏季</td><td>0.226</td><td>0.149</td></tr><tr><td>秋季</td><td>-0.133</td><td>0.444</td></tr><tr><td>冬季</td><td>0.088</td><td>0.081</td></tr><tr><td>生长季</td><td>0.336</td><td>0.237</td></tr><tr><td>年平均</td><td>0.453</td><td>0.381</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "相关性（图 $9 \\mathrm { a }$ )可以看出，随着降水量的增加平均NDVI也随着增加，降水量在 $1 0 0 \\sim 2 5 0 ~ \\mathrm { m m }$ 时平均NDVI增加迅速，这时段NDVI对降水量敏感。当降水量超过 $2 5 0 ~ \\mathrm { m m }$ 之后，平均NDVI不再有明显的增长趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.2NDVI与气温的相关关系由表3分析表明,春季植物生长主要受气温的影响,春季平均ND-",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "VI与气温呈显著相关，相关系数为0.611;夏季平均NDVI与气温呈正弱相关;秋季平均NDVI与气温呈低度相关;冬季平均NDVI与气温呈正相关;生长季平均NDVI与气温呈弱相关;年平均NDVI与气温呈正相关，相关系数为0.381，为低度相关。2000—2015年生长季平均NDVI与相应时段平均气温的拟合如图9b所示。由图9b可知，随着月平均气温的升高，月均NDVI也随之增加，气温在 $1 9 . 5 \\ \\sim 2 1 \\ \\mathrm { ~ \\textcircled ~ { ~ C ~ } ~ }$ 之间点的分布较密集，说明此时植物生长较好。由此可得，气温与降水对植被的生长均有影响，且降水量对植被覆盖的影响大于气温的影响。由图可知，在时间序列中，研究区NDVI与气温和降水量都有相关性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4生长季植被覆盖变化对气候因子的滞后效应",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图10a可知，生长季降水量的年际变化趋势与 NDVI较为相似,如2002、2004、2005、2006、2007、2008、2009、2011、2012、2013、2014年的降水量与NDVI的增减具有相似性。但其余年份如2000、2001、2003、2010年降水量与NDVI的变化相反。由",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8504412b66c7dfe295d36c01cf3ea61e6fc0e3c5d470daf31818429d4dbba74a.jpg",
+        "img_caption": [
+            "图92000—2015年生长季平均NDVI与该时段平均气温和降水量线性拟合"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.9Linear fiting of average NDVIand average temperature and precipitation in growing season from 2OOO to 2015 ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7335707b4d894e8d01ad2eb1faad991e32f8d856043d4f5108f1a37bb9cad59.jpg",
+        "img_caption": [
+            "图10天山北坡生长季NDVI与降水量和气温的年际变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.10Interannual variation trends of NDVI,precipitation and temperature in growing season on the northern slope of the Tianshan Mountains ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图10b可知，生长季气温的年际变化与NDVI的相似性不明显。在 $2 0 0 3 \\ 、 2 0 1 0 \\AA 2 0 1 1$ 年变化趋势较一致，其余年份呈相反趋势，表明NDVI对气温和降水量的敏感性。另一方面，随着气温、降水量的增加，NDVI却减少，表明NDVI与气温和降水量的响应关系存在着一定的滞后性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，5月的NDVI与当月降水的相关性较高，相关系数为0.251，呈低度相关，与前1个月和前2个月的降水呈弱相关；与气温的相关性则表现出与前1个月的相关性较高，当月气温的相关性次之，前2个月的最低。6月NDVI与前2个月降水量的相关性较高，相关系数为0.312，呈低度相关，与当月和前1个月降水量的相关性低；与前1个月气温的相关性最高，呈显著负相关，相关系数为-0.536，当月和前2个月气温的相关性低。7月NDVI与6月降水量的相关性比较高;与当月和前2个月气温的相关性都比较弱。8—9月NDVI与降水量的相关性较高，9月NDVI与当月气温呈显著正相关，相关系数为0.553。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/37fdc8b661367b97a115e83343dcb6c6b6d468bd0e653b50b0bf543f10154270.jpg",
+        "table_caption": [
+            "表4天山北坡生长季各月NDVI与降水量和气温的滞后性 Tab.4Hysteresis of NDVI,precipitation and temperature in each month on the northern slope of the Tianshan Mountains in growing season "
+        ],
+        "table_footnote": [
+            "注：\\*在0.05水平(双侧)上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">降水量</td><td colspan=\"3\">气温</td></tr><tr><td>当月</td><td>前1 前2 个月 个月</td><td>当月</td><td>前1 个月</td><td>前2 个月</td></tr><tr><td>5月NDVI</td><td>0.251</td><td>0.085 0.144</td><td>0.228</td><td>0.478</td><td>0.060</td></tr><tr><td>6月NDVI</td><td>-0.099</td><td>0.100 0.312</td><td>-0.037</td><td>-0.536 *</td><td>0.139</td></tr><tr><td>7月NDVI</td><td>0.048</td><td>0.489 0.074</td><td>0.273</td><td>0.088</td><td>-0.293</td></tr><tr><td>8月NDVI</td><td>0.295</td><td>0.293 0.247</td><td>0.014</td><td>0.171</td><td>0.090</td></tr><tr><td>9月NDVI</td><td>-0.228</td><td>0.294 0.441</td><td>0.553 *</td><td>0.096</td><td>0.141</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）2000—2015年以来，天山北坡地区的 ND-VI值在 $0 . 2 7 \\sim 0 . 3 1 \\$ 之间波动上升，总体上呈明显增加的趋势，2001—2002 年快速增长，2002—2006年处于下降状态，2006—2011 年波动上升，2011—2015年呈下降趋势。每年4月开始植被覆盖迅速增加,到7月达到最大值,8月再开始下降,月平均NDVI的变化呈现出单峰趋势。天山北坡地区不同季节的植被指数都呈现上升的趋势，春季的变化最明显，秋季和冬季的变化波动最大，夏季的植被指数最高。空间上，天山北坡地区植被空间分布特征是植被覆盖呈现出西部多东部少，南部和中部多，北部少的分布特征。空间变化特征为2000—2015年天山北坡NDVI在整体上呈上升趋势,植被覆盖改善的面积约占总面积的一半，主要是天山北坡中部地区，植被覆盖退化的面积较小且零散。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）气候变化是天山北坡植被变化的驱动因素之一。天山北坡的气温与降水量呈现不同程度的增加趋势，这主要是由于全球气候变暖导致区域气候变暖所致，气候变暖湿化趋势明显。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）年平均NDVI和不同季节NDVI与降水和气温的空间相关分布特征不尽相同。天山北坡年均NDVI和年平均降水量的相关系数高，相关性为极显著相关；与年平均气温的相关性较低。春季植物生长主要受气温的影响，与降水量的相关性较低。夏季NDVI与降水量的相关性达到一年中最高。秋季NDVI与气温和降水量的相关性都较低。降水量对NDVI的影响大于气温对植被覆盖的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（4）天山北坡生长季(5—9月)NDVI与气温和降水量存在一定的相关性。NDVI与气温和降水量的年际变化趋势在较多年份的变化趋势表现出一致性,其中 NDVI与降水量的变化趋势比较相似。生长季内NDVI与气温和降水量的响应关系存在一定的滞后性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Gutman G,Ignatov A.The derivation of the green vegetation fraction from NOAA/AVHRR data for use in numerical weather prediction models[J].International Journal of Remote Sensing,1998, 19(8) :1 533 -1 543.   \n[2] Pettorelli N,VikJO,MysterudA,etal.Using the satellite-derived NDVI to assess ecological responses to environmental change[J]. TrendsinEcology& Evolution,2005,20(9）:503-510.   \n[3] 李学渊.基于RS/GIS 的矿山地质环境动态监测与评价信息系 统[D].北京：中国矿业大学,2015.［Li Xueyuan.Information System of Mining Geological Environment Dynamic Monitoring and Evaluation Based on RS and GIS[D].Beijing:China University of Mining and Technology,2015.]   \n[4] Lanfredi M,Simoniello T,Macchiato M.Comment on“Variations in northern vegetation activity inferred from satellite data of vegetation index during 1981 to 1999”[J].Journal of Geophysical Research Atmospheres,2003,108(D12).DOI:10.1029/2000JD000115.   \n[5] 马守存,保广裕,郭广，等.1982—2013 年黄河源区植被变化趋 势及其对气候变化的响应[J].干旱气象，2018,36(2）：226- 233.[Ma Shoucun,Bao Guangyu,Guo Guang,et al. Change trend of vegetation and its responses to climate change in the source re",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "gion of the Yellow River[J].Journal of Arid Meteorology,2018,36 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2):226-233.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[6] 马明国,王建,王雪梅.基于遥感的植被年际变化及其与气候 关系研究进展［J].遥感学报，2006，10（3）：421-431.［Ma Mingguo,Wang Jian,Wang Xuemei.Advance in the inter-annual variability of vegetation and its relation to climate based on remote sensing[J].Journal of Remote Sensing,2006,10(3）:421-431.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[7]郭锯,王小平,蔡迪花,等.近 20 多年来西北绿洲植被指数的 变化及其成因[J].干旱区研究,2010,27（1）：75-82.[Guo Ni,Wang Xiaoping,Cai Dihua,et al.Analyses on the vegetation indexd variation and its formation causes in the oases in Northwest China in recent 22 years[J].Arid Zone Research,2010,27（1): 75 -82.]   \n[8］李佳秀,陈亚宁,刘志辉.新疆不同气候区的气温和降水变化 及其对地表水资源的影响[J].中国科学院大学学报,2018,35 (3）:37O-381.[Li Jiaxiu,Chen Yaning,Liu Zhihui.Variation in the temperature and precipitation and their influences on surface water resource in diferent climate zones of Xinjiang[J]. Journal of University of Chinese Academy of Sciences,2018,35（3）:370- 381. ]   \n[9]杨静雅,李新国,闫凯,等.基于 NDVI的新疆和静县草地植被 覆盖动态变化及其与气温降水的关系［J].生态科学,2018,37 (6）:38-44.[Yang Jingya,Li Xinguo,Yan kai,et al.Grassland vegetation dynamics and the relationship between thetemperature and precipitation in Hejing County,Xinjiang,based on NDVI[J]. Ecological Science,2018,37(6）:38-44.]   \n[10]Barbosa HA,Huete AR,Baethgen W E.A 2O - year study of NDVI variability overthe Northeast Region of Brazil[J].Journal of Arid Environments,2006,67(2) :288-307.   \n[11]Wu D,Zhao X,Liang S,et al.Time-lag efects of global vegetation responses to climate change[J].Global Change Biology,2015,21 (9) :3 520 -3 531.   \n[12]Bokhorst S,TΦmmervik H,Callaghan TV,et al. Vegetation recovery following extreme winter warming events in the sub-Arctic estimated using NDVI from remote sensing and handheld passive proximal sensors[J].Environmental and Experimental Botany,2012, 81:18 -25.   \n[13]Piao S,Tan J,Chen A,et al.Leaf onset in the northern hemisphere triggered by daytime temperature[J].Nature Communications, 2015,6:1.   \n[14］苏慧敏,郭浩,夏照华,等.基于 MODIS 数据的北京市植被覆 盖度动态监测[J].中国水土保持,2019,40（2）：41－43,55. [Su Huimin,Guo Hao,Xia Zhaohua,et al. Dynamic monitoring on vegetation coverage of Beijing based on MODIS data[J]. Soil and Water Conservation in China,2019,40(2）:41-43,55.]   \n[15］陈登魁,马超,王夏冰,等.1982—2015年可可西里 NDVI变化 特征及其气候响应[J].干旱区研究,2018,35（6)：1410- 1 417.[Chen Dengkui,Ma Chao,Wang Xiabing,et al.Variation of NDVI and its response to climate change in Xoh Xil during the period of 1982-2015[J].Arid Zone Research,2018,35(6）:1 410 -1 417. ]   \n[16］罗新蕊,杨武年,陈桃.川中丘陵区植被遥感动态监测及其驱 动力分析[J].长江流域资源与环境,2019,28（1)：103-111. [Luo Xinrui,Yang Wunian,Chen Tao.Dynamic Monitoring of vegetation and its driving force analysis using remoting sensing in hilly area of central Sichuan Province[J]. Resources and Environment in the Yangtze Basin,2019,28(1):103-111.]   \n[17]Weiss JL,Gutzler D S,Jea C,et al. Seasonal and inter-annual relationships between vegetation and climate in central New Mexico, USA[J]. Journal of Arid Environments,2004,57(4）:507-534.   \n[18]Piao SL,Wang X H,Ciais P,et al. Changes in satellte-derived vegetation growth trend in temperate and boreal Eurasia from 1982 to 2006[J]. Global Change Biology,2011,17:3 228-3 239.   \n[19］张胜军,王涛,王天明,等.新疆不同植被 NDVI的变化及其与 气候因子的关系[J].草业科学,2010,26(5）:26-31.[Zhang Shengjun,Wang Tao,Wang Tianming,et al.The variation in NDVI of different vegetation types in Xinjiang and itsrelation to climate factor[J].Pratacultural Science,2010,26(5）:26-31.]   \n[20］刘宪锋,任志远.西北地区植被覆盖变化及其与气候因子的关 系[J].中国农业科学,2012,45(10）:1954-1963.[Liu Xianfeng,Ren Zhiyuan.Vegetation coverage change and its relationship with climate factors in Northwest China[J].Scientia Agricultura Sinica,2012,45(10):1 954 -1 963.]   \n[21]李杨,刘艳,马丽云.天山北坡气候因子对植被影响的空间分 异性研究[J].干旱区资源与环境,2011,25（7）：91-95.[Li Yang,Liu Yan,Ma Liyun,etal.Spatial variationof thevegetation effected by climatic factors in the north slope of Tianshan Mountains[J].Journal of Arid Land Resources and Environment, 2011,25(7) :91 -95.]   \n[22]武正丽.2000—2012年祁连山植被覆盖变化及其对气候的响 应研究[D].西安:西北师范大学,2014.[Wu Zhengli.The Eesearch of the Vegetation Change and the Sensitivity between NDVI and Climatic Factors in Qilian Mountains[D].Xi'an: Northwest Normal University,2014.]   \n[23］唐海萍,陈玉福.中国东北样带 NDVI的季节变化及其与气候 因子的关系[J].第四纪研究,2003,23（3）：318－325.［Tang Haiping,Chen Yufu.Intra-annual variability of NDVI and its relation to climate in Northeast China Transect[J]. Quaternary Sciences,2003,23(3) :318-325.]   \n[24］张君,延军平.1982—2013 年陕西不同植被类型 NDVI变化特 征分析[J].干旱区资源与环境,2017,31（4):86-92.[Zhang Jun,Yan Junping. Characteristics of NDVI changes under the different vegetation types in Shaanxi Province from 1982 to 2013 [J]. Journal of Arid Land Resources and Environment,2017,31 (4):86 -92.]   \n[25]吴绍洪,尹云鹤,郑度,等.青藏高原近30 年气候变化趋势 [J].地理学报,2005,60（1）:3-11.[Wu Shaohong,Yin Yunhe,Zheng Du,et al.climate changes in the Tibetan Plateau during the last three decades[J].Acta Geographica Sinica,2005,60(1） : 3 -11.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Spatiotemporal Variation of Vegetation NDVI and Its Relationship with Climatic Factors on the Northern Slope of the Tianshan Mountains ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Nijiati Yimier，Mansur Shabiti，Yusufu Maimaiti (College of Geographical Scienceand Tourism,Xinjiang Normal University,Urumqi 830054,Xinjiang,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In this paper,the monadic regressve analysis was employed to investigate the annual and monthly as well as spatial variations of vegetation NDVIonthe northern slope of the Tianshan Mountains from 2OoO to 2015 based on the MODIS NDVI data and the corresponding climate data.The results are as follows : $\\textcircled{1}$ In recent 16 years,the average annual NDVIon the northern slope of the Tianshan Mountains fluctuated between O.27 and 0.31 and inasignificant increase trend.The average monthly NDVIvalue began to increase rapidlyin April,reached its maximum in July,and then began to decrease in August.The curve of average monthly NDVI was unimodal.The increaseof vegetation index onthe northern slope of the Tianshan Mountains was diferent from different seasons.Spatially,the vegetationcoverage was high inthe westand south but lowinthe eastand north.There was a significant spatial difference of average annual vegetation NDVI and NDVI in growing season,and the vegetation coverage was increased in the central area but decreased in the northeast,west and south; $\\textcircled{2}$ The average temperature and precipitationon the northern slope of the Tianshan Mountains in the past years were gradually increased and in an increase-decrease-increase fluctuation trend.Spatialy,the temperature was low but the precipitation was high inthe southern mountainous region,the situation in the northern plain,however,was opposite; $\\textcircled{3}$ There was a certain correlation between the vegetation NDVI and the temperature and precipitation,especiall in growing season.The vegetation NDVIin spring was more closely related to the temperature,but in summer was more closely related to the precipitation.Comprehensively,and the efect of precipitation on the vegetation coverage was higher than that of temperature ; $\\textcircled{4}$ There was a hysteresis of vegetation NDVI than the temperature and precipitation in growing season from May to September. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key Words:NDVI；spatiotemporal variation；climatic factor；northern slope of the Tianshan Mountains ",
+        "page_idx": 10
+    }
+]

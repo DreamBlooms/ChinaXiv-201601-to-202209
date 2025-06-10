@@ -1,0 +1,484 @@
+[
+    {
+        "type": "text",
+        "text": "玛纳斯河流域两种典型土地利用变化分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "贺可1²，吴世新1（1．中国科学院新疆生态与地理研究所 LUCC 与全球变化实验室,新疆 乌鲁木齐830011;2．中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：对比分析兵团和地方两种土地经营管理模式下两种典型土地利用变化的差异,对认识不同人类活动方式对土地利用的影响有重大意义。以新疆玛纳斯河流域兵团、地方为研究对象,利用1972—2015年Landsat MSS/TM/OLI以及CBERS-02B 遥感影像数据,综合分析两种典型土地利用变化,结果表明： $\\textcircled{1}$ 兵团、地方土地利用变化差异主要体现在耕地、建设用地上,兵团耕地变化更为显著,地方建设用地变化更为显著。 $\\textcircled{2}$ 不同于地方小规模自主经营模式,地块规模有限,破碎度较高;兵团实行大规模统一管理的土地利用模式,土地整合频率较高,地块不断集中，景观格局趋于简单。 $\\textcircled{3}$ 兵团与地方土地利用变化程度及景观格局存在显著差异的主要原因在于土地经营管理模式的不同。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：土地经营与管理模式；土地利用变化；景观格局；兵团；玛纳斯河流域",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人类活动使得自然地理环境发生了深刻变化，直接表现为土地利用状况的改变[1-2],不同人类活动下区域经济及政策等不同，使得土地利用变化程度存在显著差异[3-4]。以人类活动－自然环境耦合系统为核心的土地利用动态过程逐渐成为研究的焦点[5-7]。我国西北内陆干旱地区,人类活动与自然环境长期处于缺水环境下，形成了独具特色的土地利用格局(8-11]。在土地利用不断向纵深发展的过程中,其利用程度和复杂性随之增加[12],人类活动成为流域绿洲土地利用变化和景观格局改变的驱动要素。玛纳斯河流域是我国内陆干旱区水土开发的典型代表区域，大规模的水土开发使其成为新疆农业、经济开发区的核心地带。但流域内部不同区域的发展过程表现出差异性，由于兵团和地方土地经营管理模式的不同使得现代绿洲演变过程不同[13]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "不同的土地管理模式，在不同的历史发展阶段和政策调控下，使得其对应区域在不同阶段呈现出不同的土地利用状态。兵团实行的是统一播种、统一施肥、统一灌溉和统一推广先进技术等的大农场规模化经营管理模式；地方实行的是家庭承包、土地人股等自主经营模式[14-17]。经营管理模式的不同使得地方和兵团在人与地的结合方式、水资源管理及使用、土地规模等方面表现出显著的差异，从而在玛纳斯绿洲演变过程中形成了兵团和地方两种典型的人为驱动的土地利用变化。对比分析兵团大规模集约利用模式和地方农用自主经营模式下土地利用变化差异，对于土地合理利用以及区域可持续发展具有一定的现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "玛纳斯河流域位于 $8 5 ^ { \\circ } 0 1 ^ { \\prime } \\sim 8 6 ^ { \\circ } 3 2 ^ { \\prime } \\mathrm { E } , 4 3 ^ { \\circ } 2 7 ^ { \\prime } \\sim$ $4 5 ^ { \\circ } 2 1 ^ { \\prime } \\mathrm { N }$ ,地处新疆天山北麓、准噶尔盆地南缘。总面积约为 $2 . 1 0 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,其中兵团面积为9149.18$ { \\mathrm { k m } } ^ { 2 }$ ,主要包括农八师、农七师、农六师部分团场;地方面积为 $1 . 1 9 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,主要包括玛纳斯县、沙湾县、奎屯市和附近乡镇村。玛纳斯河流域属内陆干旱区,年平均气温 $6 . 8 ~ \\mathrm { { ^ { 6 } C } }$ ,年降水量 $1 1 0 \\sim 2 0 0 ~ \\mathrm { m m }$ ，流域内土壤主要类型为灰漠土。玛纳斯河流域是新疆经济最发达的天山北坡经济开发区的核心地带，是新疆重要农业、工业生产基地，也是我国内陆干旱区水土开发的典型代表区域。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f61c4b91c9c095b1ccaeebd539ca347cfa8209cd52b72f30767bab658f391b19.jpg",
+        "img_caption": [
+            "图1玛纳斯河流域及兵团与地方研究区示意图",
+            "Fig.1The sketch map of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/728abaf82a9817e03761cf1afc88c9415dd0043b6b36ae3daad328624d4c8788.jpg",
+        "table_caption": [
+            "Tab.1 Remote sensing images used in the study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>数据类型</td><td>采集时间</td><td>空间分辨率/m</td></tr><tr><td>1970s</td><td>MSS卫星影像</td><td>1972—1978 年</td><td>79</td></tr><tr><td>1990s</td><td>Landsat- TM</td><td>80 年代后期</td><td>30</td></tr><tr><td>2000</td><td>Landsat-TM</td><td>90 年代后期</td><td>30</td></tr><tr><td>2005</td><td>Landsat-TM</td><td>2005年</td><td>30</td></tr><tr><td>2010</td><td>CBERS-02B</td><td>2010年</td><td>19.5</td></tr><tr><td>2015</td><td>Landsat - OLI</td><td>2015年</td><td>15</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究数据主要包括： $\\textcircled{1}$ 新疆兵团和地方工作区矢量数据，用以确定兵团、地方范围； $\\textcircled{2}$ 20世纪70年代至2015年遥感影像（表1），用以获取20 世纪70 年代以来玛纳斯河流域兵团、地方土地利用类型变化数据集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在ArcGIS软件支持下完成投影转换、几何精校正等数据处理。根据中国土地利用分类系统，将土地利用类型划分为耕地、林地、草地、水域、建设用地、未利用地6种，结合非遥感数据及资料，如地形图和实际调查资料等，进行人机交互解译。通过外业定点核查及项目组随机抽样精度验证，土地利用一级和二级类型分类综合精度均在 $90 \\%$ 以上，满足1:100000比例尺用户制图精度。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca5f674d08f7346693ef3cbf1990a6dcf7b06e7299bfc27ecd5f27dbb4ba51de.jpg",
+        "table_caption": [
+            "表1遥感影像信息",
+            "表2土地利用定量统计分析模型",
+            "Tab.2Statistical models for quantitative analysis on LUCC "
+        ],
+        "table_footnote": [
+            "式中： $\\Delta U _  \\}$ 为研究时段 $T$ 内某一类型转变为其他类型的面积之和， $\\Delta U _ { o u t }$ 为其他类型转变为该类型的面积之和， $U _ { a }$ 为研究初期某一类型的面积， $T$ 为研究时段： ${ \\bf \\nabla } _ { : A _ { i } }$ 为第i级土地利用程度分级指数， $C _ { i }$ 为第i种土地类型占总面积的百分比， $n$ 为研究区土地利用类型的数量。其中， $A _ { i }$ 根据冯异星等[19)结合玛纳斯河流域实际情况,借鉴刘纪远提出的土地利用程度分级指数得到。"
+        ],
+        "table_body": "<html><body><table><tr><td>参数</td><td>意义</td><td colspan=\"4\">公式</td></tr><tr><td>综合土地利用变化动态度（P)</td><td>反映区域土地类型变化整体状态及趋势</td><td colspan=\"4\">△Uin-i -△Uout-i P，</td></tr><tr><td>土地利用强度(L)</td><td>反映研究区域土地利用的规模和未来发展 方向，受人为干扰的程度</td><td colspan=\"4\">∑=1 |△Uin-i + △Uou-i L =100×∑(A×C;)</td></tr><tr><td>土地利用净变化速度(R)</td><td>反映类型变化的速度</td><td colspan=\"4\">Ua+(△Uin-△Uout） R Ua</td></tr><tr><td>单一土地利用变化动态度(P)</td><td>反映土地变化的动态，分为平衡、准平衡、 不平衡和极度不平衡</td><td colspan=\"4\">P= (△Uin+△Uou≠0)且-1≤P≤1 △Uin-△Uout △U in +△Uout</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表3景观格局指数模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad816ae5a46aa889460fdaada7f592a916ce9b97be2f6072678c93cad856dd60.jpg",
+        "table_caption": [
+            "Tab.3Models for Landscape pattern index "
+        ],
+        "table_footnote": [
+            "式中 ${ \\bf \\nabla } _ { : } A _ { k }$ 为第 $k$ 个景观面积，A为研究区总面积， $m$ 为景观类型数目， $\\mathbf { \\Omega } _ { , n }$ 为某一类斑块个数， $E$ 为边界周长。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>参数</td><td>意义</td><td>公式</td></tr><tr><td rowspan=\"2\">景观水平</td><td>香农多样性指数（SHDI)</td><td>反映土地利用程度，对斑块类型非均衡分布状况敏感</td><td>SHDI = - ()</td></tr><tr><td>分离度指数(SPLIT)</td><td>反映整体斑块的离散程度</td><td>A² SPUIT=∑∑</td></tr><tr><td rowspan=\"3\">类型水平</td><td>最大斑块指数(LPI)</td><td>反映人类活动的方向和强弱</td><td>LP1=1ma（a（100） A</td></tr><tr><td>斑块数目(NP)</td><td>反映景观破碎化程度</td><td>NP = n</td></tr><tr><td>斑块边界密度(ED)</td><td>反应景观类型形状复杂度</td><td>ED= A 106</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 土地利用变化指数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土地利用变化过程和程度可以通过定量化的要素或数值表达(18],能够直观地反映研究时段内各类型的变化速度、状态及程度等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 景观格局指数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "景观格局指数能定量地反映景观结构组成和空间配置等相关特征[20],是自然和人为的多种因素相互作用的综合反映。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1兵团、地方土地利用变化分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对比分析兵团与地方综合土地利用动态度可得,兵团和地方土地利用变化均处于不平衡至极端不平衡的状态，以单向转换为主，耕地、建设用地面积增长迅速，草地、林地、水域、未利用地面积迅速减少（图2）。兵团土地利用不平衡状态比地方更显著。在土地利用强度上，兵团显著高于地方，平均高出 $1 1 . 3 8 \\%$ ；在土地利用强度变化率上，兵团、地方各时期均大于0，兵团土地利用强度变化率呈先升后降趋势，2000一2005年达到峰值；地方呈先降低后上升再降低的波动状态（图3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在兵团和地方土地利用变化过程中，主要用地类型(耕地、建设用地)变化显著(图4)，但在不同发展阶段不同经营管理模式下变化的速度、规模均具有显著差异（图5）。结合1970s至2015年的土注：P：综合土地利用变化动态度。 $\\textcircled{1}$ 当 $0 . 2 5 < \\mathrm { P } _ { \\mathrm { t } } \\leqslant 0 . 5$ 时，土地利用变化处于准平衡状态，双向转换较为频繁； $\\textcircled{2}$ 当 $0 . 5 < \\mathrm { P _ { t } } \\leqslant 0 . 7 5$ 时，处于不平衡状态，单向转换较为频繁; $\\textcircled{3}$ 当 $0 . 7 5 < \\mathrm { P } _ { \\mathrm { t } } \\leqslant 1$ 时，处于极端不平衡状态，以单向转换为主。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/68128385411dbd85a074c1b123b1b759860d7a003f7f3b6dc7d7abe3fe385eec.jpg",
+        "img_caption": [
+            "图21970s至2015年兵团与地方土地利用综合动态度 Fig.2The comprehensive dynamic degree of land use change during 1970s -2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6338c6703e97d935b3c7abb8ceceec4400c363c531ba0f653e6e69c018cc8f3.jpg",
+        "img_caption": [
+            "\\*兵团土地利用强度 一一地方土地利用强度一一兵团土地利用强度变化率 $\\underbrace { \\phantom { \\left( i \\alpha \\mathcal { U } - R e ^ { - 1 } \\right) } } _ { - \\infty - 1 }$ 地方土地利用强度变化率",
+            "图31970s至2015年兵团、地方土地利用强度及变化率",
+            "Fig.3The land use intensity and equilibrium of during 197Os-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d8992cfe0ad44ce309006160c7d64a26bcf280eb879139a97a523b2ee91bb4b.jpg",
+        "img_caption": [
+            "图41970s至2015年兵团与地方土地利用类型空间变化 Fig.4The Spatial change of land use during 197Os -2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/50722f2092737a07e320ddb16422126dbc71e150113afecf99ea324a9c689913.jpg",
+        "table_caption": [
+            "表41970s至2015年兵团土地利用转移矩阵",
+            "Tab.4 Conversion matrix among land -use during 1970s -2015 in Bingtuan "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">兵团</td><td rowspan=\"2\"></td><td colspan=\"5\">2015年</td><td rowspan=\"2\">总计 (1970s)</td><td rowspan=\"2\">流失</td></tr><tr><td>耕地</td><td>林地</td><td>草地 水域</td><td>建设用地</td><td>未利用地</td></tr><tr><td rowspan=\"6\">1970s</td><td>耕地</td><td>3 644.44</td><td>6.98</td><td>76.19</td><td>1.85</td><td>84.45</td><td>5.41</td><td>3 819.32</td><td>174.88</td></tr><tr><td>林地</td><td>3.90</td><td>12.10</td><td>15.32</td><td>0.45</td><td>0.14</td><td>0.27</td><td>32.17</td><td>20.07</td></tr><tr><td>草地</td><td>1 953.04</td><td>6.94</td><td>1 828.13</td><td>16.91</td><td>43.15</td><td>8.27</td><td>3 856.44</td><td>2 028.31</td></tr><tr><td>水域</td><td>0.48</td><td>1</td><td>0.76</td><td>65.05</td><td>1</td><td>0.59</td><td>66.88</td><td>1.83</td></tr><tr><td>建设用地</td><td>15.34</td><td>0.88</td><td>3.36</td><td>1</td><td>174.39</td><td>1.26</td><td>195.23</td><td>20.84</td></tr><tr><td>未利用地</td><td>102.42</td><td></td><td>45.81</td><td>35.65</td><td>0.11</td><td>995.15</td><td>1 179.14</td><td>184.00</td></tr><tr><td colspan=\"2\">总计(2015年)</td><td>5 719.62</td><td>26.91</td><td>1969.57</td><td>119.91</td><td>302.24</td><td>1 010.94</td><td>9 149.18</td><td></td></tr><tr><td colspan=\"2\">新增</td><td>2 075.18</td><td>14.81</td><td>141.44</td><td>54.86</td><td>127.85</td><td>15.80</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8bd1fbc0e9ee581893d86de89c8f16b030779feb1bd9bc264c82e6066cca9895.jpg",
+        "table_caption": [
+            "表51970s至2015年地方土地利用转移矩阵",
+            "Tab.5Conversion matrix among land-use during 1970s-2015 in Goverments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">地方</td><td colspan=\"6\">2015年</td><td rowspan=\"2\">总计 (1970s)</td><td rowspan=\"2\">流失</td></tr><tr><td>耕地</td><td>林地</td><td>草地</td><td>水域</td><td>建设用地</td><td>未利用地</td></tr><tr><td rowspan=\"6\"></td><td>耕地</td><td>2 421.21</td><td>0.90</td><td>43.25</td><td>2.94</td><td>58.67</td><td>2.96</td><td>2 529.93</td><td>108.72</td></tr><tr><td>林地</td><td>7.07</td><td>30.95</td><td>5.72</td><td>0.30</td><td>1</td><td>1</td><td>44.04</td><td>13.09</td></tr><tr><td>草地</td><td>913.80</td><td>2.95</td><td>4 790.34</td><td>8.34</td><td>69.44</td><td>61.41</td><td>5 846.28</td><td>1 055.94</td></tr><tr><td>水域</td><td>0.49</td><td>0.25</td><td>1.22</td><td>121.81</td><td>15.13</td><td>2.63</td><td>141.52</td><td>19.71</td></tr><tr><td>建设用地</td><td>7.79</td><td>1</td><td>1.97</td><td>1</td><td>146.41</td><td>0.08</td><td>156.25</td><td>9.84</td></tr><tr><td>未利用地</td><td>267.19</td><td>2.72</td><td>241.34</td><td>21.62</td><td>1.43</td><td>2 623.38</td><td>3 157.68</td><td>534.30</td></tr><tr><td colspan=\"2\">总计(2015 年)</td><td>3 617.55</td><td>37.76</td><td>5 083.84</td><td>155.00</td><td>291.08</td><td>2 690.46</td><td>11 875.7</td><td></td></tr><tr><td colspan=\"2\">新增</td><td>1 196.34</td><td>6.82</td><td>293.50</td><td>33.20</td><td>144.67</td><td>67.08</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d69ff18c3281de4d962fa483ad6cd0473cc9e7874c7d7beb0f5326d99aada1e.jpg",
+        "img_caption": [
+            "图51970s至2015年兵团与地方主要用地类型转变Fig.5The transform of main land use type during 197Os-2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "地利用转移矩阵(表4\\~5)分析兵团与地方耕地、建 设用地面积变化特征发现，兵团耕地面积变化比地",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "方更为显著,共增加 $1 9 0 0 . 3 \\ \\mathrm { k m } ^ { 2 }$ ,面积提升率为52.$14 \\%$ ,高于地方 $1 1 . 3 8 \\%$ ;而对于建设用地，地方扩张规模明显高于兵团,共增长 $1 3 4 . 8 3 ~ \\mathrm { k m } ^ { 2 }$ ,提升率较兵团高 $3 1 . 4 8 \\%$ 。兵团与地方土地利用类型转移均是以草地、未利用地转为耕地，耕地、草地转变为建设用地为主，但其转换比例不同。兵团和地方，由草地、未利用地转变为耕地的比例分别为191和3.41，由耕地、草地转变为建设用地的比例分别为11.95和1.181。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2兵团、地方景观格局变化分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过景观尺度与耕地类型尺度上的景观格局分析，可以得到兵团和地方景观格局破碎度、均衡度等差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "兵团土地利用破碎化程度降低土地集中程度增加，分离度指数先升高后降低，地方破碎化程度加剧，分离度指数持续升高，但仍低于兵团（表6）。表明兵团土地类型景观中斑块集中连片程度增强、景观多样性降低；地方土地类型景观中最大斑块指数总体上趋于减小,景观破碎化程度增强。这是由于兵团和地方经营管理模式上的差异[13],不同于地方小面积分散经营，兵团实行大面积统一耕作的土地利用模式，必然导致土地利用类型简单化，破碎度降低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表61970s至2015年兵团与地方景观格局指数比较",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9201b45e0d8fdc0ace1099d2abe8327626deaafe01b3019b1cc56fe557c8adb2.jpg",
+        "table_caption": [
+            "Teb.6The comparisons of Landscape pattern index at landscape level during 1970s-2015 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">年份</td><td colspan=\"2\">香农多样性指数</td><td colspan=\"2\">分离度指数</td><td colspan=\"2\">最大斑块指数</td></tr><tr><td>兵团</td><td>地方</td><td>兵团</td><td>地方</td><td>兵团</td><td>地方</td></tr><tr><td>1970s</td><td>1.13</td><td>1.16</td><td>11.77</td><td>6.92</td><td>23.11</td><td>26.91</td></tr><tr><td>1990s</td><td>1.13</td><td>1. 17</td><td>10.57</td><td>5.33</td><td>24.62</td><td>34.85</td></tr><tr><td>2000</td><td>1.14</td><td>1.20</td><td>16.65</td><td>7.32</td><td>14.52</td><td>23.97</td></tr><tr><td>2005</td><td>1.12</td><td>1.20</td><td>14.14</td><td>7.38</td><td>17.59</td><td>23.57</td></tr><tr><td>2010</td><td>1.09</td><td>1.21</td><td>12.29</td><td>7.66</td><td>22.28</td><td>23.72</td></tr><tr><td>2015</td><td>1.05</td><td>1.23</td><td>7.26</td><td>7.66</td><td>31.93</td><td>23.60</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2358cabca8bf317fb1fd8ec835d3c8f270ab2c0f5291259aced17e5605f5ffab.jpg",
+        "img_caption": [
+            "图61970s至2015年兵团、地方主要用地类型景观格局定量描述"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Fig.6Quantitative description of landscape patern of main land use type in type index during 197Os-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对比分析兵团和地方耕地斑块数目、斑块边界密度可得：兵团斑块数目及边界密度均呈现先增加后减少的趋势，地方则呈上升趋势，表明兵团耕地斑块先分散后集中，边缘复杂度降低，而地方耕地斑块始终趋于破碎。由于地方采用“均田制”，土地流转制度不规范，土地耕作以小家庭为单位，地块平均面积有限，导致破碎度较高；兵团为便于耕地管理，土地整合频率较高，地块不断集中，景观格局趋于简单。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3兵团、地方经营管理模式差异及其对土地利用变化的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "兵团和地方在行政体制、土地属性、水资源管理、开垦背景条件上均存在显著差异。行政体制上，兵团受中央和自治区政府的双重管辖，实行规模化统一管理,而地方受上一级政府机关单位管辖,更多的受农户个体经营影响。土地属性上，兵团属国有土地，土地承包期限较短、地块集中、缴纳地租;地方属集体土地，土地按人口数量平均分配、地块较多且分散、土地使用权将长期归属农户。水资源管理上，兵团根据上级统一规定分摊；地方根据当年具体情况，由村集体表决费用分摊方式，且多免费抽取地下水、湖泊水等。水费计量方式的不同，导致水资源利用方式的差异，如兵团滴灌节水水平比地方更完备也更具普遍性。开垦背景上，与地方相比，兵团耕地土壤类型中盐渍化土壤占比较大，可耕性强的壤土、黏土等土壤类型较少；而且兵团在土地开垦上以非草地类型(荒地)为主，占比为 $7 5 . 8 0 \\%$ ，比地方高$9 . 0 6 \\%$ ，兵团开垦条件更加艰苦，但由于兵团屯垦戍边的历史使命，其土地利用强度高于地方。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表71970s至2015年兵团、地方主要用地类型变化比较",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9c9399d41108636ec93359a8512d3983f7da42d1c7e53a56277bb1a96c8c869.jpg",
+        "table_caption": [
+            "Tab.7The comparisons of main land use type during 1970s -2015 "
+        ],
+        "table_footnote": [
+            "注： $\\mathrm { \\Delta R _ { s } }$ 为土地利用净变化速度; $\\mathrm { { P _ { s } } }$ 为单一LULC 类型变化的趋势与状态指数。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">年份</td><td colspan=\"2\">耕地</td><td colspan=\"2\">建设用地</td></tr><tr><td>兵团</td><td>地方</td><td>兵团</td><td>地方</td></tr><tr><td rowspan=\"2\">1970s -1990s</td><td>Rg</td><td>-0.4</td><td>0.07</td><td>0.57</td><td>1.31</td></tr><tr><td>P</td><td>-0.3</td><td>0.05</td><td>0.32</td><td>0.64</td></tr><tr><td rowspan=\"2\">1990s -2000</td><td>R</td><td>1</td><td>1.2</td><td>0.7</td><td>0.6</td></tr><tr><td>P</td><td>0.8</td><td>0.9</td><td>1</td><td>1</td></tr><tr><td rowspan=\"2\">2000-2005</td><td>R</td><td>3.7</td><td>1.4</td><td>1</td><td>1.3</td></tr><tr><td>P</td><td>1</td><td>0.9</td><td>1</td><td>1</td></tr><tr><td rowspan=\"2\">2005-2010</td><td>R</td><td>2.8</td><td>2.1</td><td>0.6</td><td>1.1</td></tr><tr><td>P</td><td>1</td><td>1</td><td>1</td><td>0.6</td></tr><tr><td rowspan=\"2\">2010-2015</td><td>Rg</td><td>1.5</td><td>1.1</td><td>3.5</td><td>3.6</td></tr><tr><td>P</td><td>1</td><td>0.7</td><td>1</td><td>1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "20 世纪70一90 年代，兵团耕地趋势及状态指数为-0.32，表明耕地类型处于“落势”，面积减少，净减少速度为0.44。这是由于1975年兵团建制撤销，人口大量流失，生产力发展水平低，水土开发几乎处于停滞状态。虽然1981年建制恢复，但由于前期粗放的土地开发，灌排等水利设施不完善等，使生态退化土壤次生盐渍化加剧,耕地自然流失情况严重。地方上，耕地趋势及状态指数为0.05，处于“涨势”，速度为0.07。顺应1978年改革开放政策，人口大量流入地方，耕地面积大幅增加，同时地方由原来的土地集体所有制转变为家庭联产承包责任制，集体土地的所有权与使用权分离，使得原有耕地自然流失较多，因而耕地增加总量不大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "20世纪90年代到2000年，兵团、地方耕地趋势及状态指数分别为0.83、0.92，耕地类型处于“涨势”，面积增加，增加速度分别为0.98、1.2。兵团土地利用由上一时期的负值转变为正值。这是由于“黑字环流”等各项国家开发资金及地方国营农牧场扭亏措施等，增强了农业发展的后劲，农业生产和物质装备水平不断提高，使兵团和地方土地利用状况发生显著变化，耕地及建设用地面积大幅提升。兵团在1993年提出“奋起二次创业，再造兵团辉煌”，人口大量回流，实行大农场统一规模化经营管理体制，包括统一播种、推广先进技术等，农业用地实现大规模开发。地方上，土地归集体所有，分散化自主经营模式下沿用原有的低效、粗放的土地开发方式,虽然也实现了耕地横向扩张,但在土地利用强度等方面兵团逐步赶超地方。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2000一2015年，兵团和地方耕地、建设用地均处于“涨势”,兵团耕地扩张呈现先加速后减速的趋势,地方呈持续加速趋势;建设用地上，兵团呈先减速后加速扩张趋势，地方呈持续减速扩张趋势。2000一2005年，随着1998年国家鼓励大规模开荒、1999 年西部大开发和改革开放的不断深化,兵团和地方耕地面积迅速增加。兵团实行大农场规模化经营管理体制,由传统的水源、土质定开发,向水土恶劣的地区扩展延伸的转变,实现了第二次大规模耕地扩张。地方实行家庭自主经营等土地利用模式,一定程度上限制了其土地扩张速度。这一时期,兵团水土开发迅速增强，地方土地利用明显低于兵团。2005年自治区代表大会指出盲目的扩大耕地面积不仅给本来就严重不足的水资源增加负担,也给生态环境以严峻考验,水土开发应转向以内涵挖潜、深度开发为主,即以挖潜、节流为主,适度开发和收复弃耕地、改造中低产田相结合。在此背景下,2005—2010 年,兵团由于统一规划、集中管理,其政策执行力比地方分散管理模式下强,因此,兵团耕地横向扩张速度有所减缓，而地方增加速度减缓不显著。2010—2015 年,兵团与地方在耕地扩张速度较上一时期均有所减缓,造成这一结果的原因在于高标准农田项目等政策，使得耕地扩张形式向内涵式挖掘和外延式扩张并举的方向发展。建设用地上，由于兵团 2012 年推进城镇化、新型工业化建设,建设用地面积显著增加,建设用地变化速度提升至3.54。不同的历史发展阶段和政策调控体制下，土地属性等完全不同的情况下,演绎出的土地管理模式具有显著差异，对应区域在不同历史发展时期表现出不同的土地利用状态。兵团实行的是统一播种、灌溉、施肥和统一推广学习先进技术等的规模化大农场经营管理模式[13],地方实行的是家庭承包、租赁等小规模自主经营的土地利用模式。使得地方和兵团在人与地的结合方式、农业组织形式、水资源管理及使用方式、农业直接投入要素、土地规模程度、市场经济发展水平等方面表现出明显的差异，从而形成地方和兵团两种典型的人为驱动的土地利用格局。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文利用20世纪70年代到2015年近40年6期新疆土地利用数据集，计算了新疆玛纳斯流域内兵团和地方各项土地利用指数，对比分析两种经营管理模式下土地利用变化差异。结果表明：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）20世纪70—90年代兵团土地利用低于地方;20世纪90年代到2015年兵团土地利用显著强于地方，分别对应兵团与地方政策变化关键时期。兵团和地方土地利用变化差异主要体现在耕地、建设用地上，兵团耕地面积变化更为显著，地方建设用地变化更为显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）不同于地方小规模自主经营模式，地块规模有限，破碎度较高；兵团实行大规模统一管理的土地利用模式，土地整合频率较高，地块不断集中，景观格局趋于简单。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）在不同的历史发展阶段和政策调控体制下，土地属性、水资源管理方式等完全不同的情况下，演绎出的土地管理模式具有显著差异，使得对应区域在不同历史发展时期表现出不同的土地利用状态。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "两种典型土地利用变化差异性研究对促进土地合理利用及区域可持续发展具有指导作用。新疆兵团和地方在未来土地利用开发过程中应相互借鉴发展过程中值得推广的部分。兵团借鉴地方：放宽约束管理体制，给予自主经营权，增强生产积极性；降低地租成本及水费价格，减轻职工负担。地方借鉴兵团：加大土地整改力度，将分散化、细碎化地块进行集中，实施规模化生产；鼓励实施节水滴灌措施，以节约水资源，保护生态环境;促进土地流转使得地块更为集中便于大规模机械作业",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]PengJ,Xu YQ,Cai YL,et al.The role of policies in land use/ cover change since the 197Os in ecologically fragile karst areas of Southwest China:A case study on the Maotiaohe watershed[J]. Environmental Science& Policy,2011,14(4）:408-418.   \n[2] Turner BL,Skole D,Sanderson S,et al.Land -use and land - cover change:science/research plan[M].Stockholm:International Geosphere- Biosphere Programme,1995.   \n[3] 刘纪远，匡文慧，张增祥，等.20世纪80 年代末以来中国土地 利用变化的基本特征与空间格局[J].地理学报,2014,69（1)： 3-14.[Liu Jiyuan,Kuang Wenhui,Zhang Zengxiang,et al. Spatiotemporal characteristics,patterns and causes of land use changes in China since the late 198Os[J].Acta Geographica Sinica,2014, 69(1):3-14.]   \n[4]刘芳,闫慧敏,刘纪远,等.21世纪初中国土地利用强度的空间 分布格局[J].地理学报，2016，71（7)：1130-1143.〔LiuFang,Yan Huimin,Liu Jiyuan,etal. Spatial patern of land use intensity in China in 2Ooo[J].Acta Geographica Sinica,2016,71 (7):1 130 -1 143.] [5］姚远,丁建丽,张芳,等.土地利用变化的人文驱动因子对新疆 生态系统服务价值的影响[J].水土保持通报,2013,33（5）：   \n298-304.[Yao Yuan,Ding Jianli,Zhang Fang,et al.Impact of human driving factors for land use change on ecosystem service values in Xinjiang wei autonomous region[J]. Bulletin of Soil and Water Conservation,2013,33（5）:298-304.] [6]Turner B L,Lambin EF,Reenberg A. The emergence of land change science for global environmental change and sustainability [J].Proceedings of the National Academy of Sciences,2007,104 (52) :20 666 -20 671. [7］宋文杰,张清,刘莎莎,等.基于LUCC 的干旱区人为干扰与生 态安全分析——以天山北坡经济带绿洲为例[J].干旱区研 究,2018，（1）:235-242.[Song Wenjie,Zhang Qing,Liu Shasha,et al. LUCC - based human disturbance and ecological security in arid area:A case study in the economic zone on northern slope of the Tianshan Mountains[J].Arid Zone Research,2018,35 (1) :235 -242.] [8]罗格平,张百平.干旱区可持续土地利用模式分析——以天山 北坡为例[J].地理学报,2006,61（11):1160-1170.[Luo Geping,Zhang Baiping. Sustainable land use models for arid lands : A case study of the northern Tianshan Mountain areas[J].Acta Geographica Sinica,2006,61(11）:1 160-1170.] [9]陈曦.中国干旱区土地利用与土地覆被变化[M].北京：科学 出版社,2008:409 -423.[Chen Xi.Land useand land cover change in arid regions of China[M]. Beijing:Science Press,2008:   \n409 -423.] [10］张飞,塔西甫拉提·特依拜,丁建丽,等.干旱区绿洲土地利 用/覆被及景观格局变化特征——以新疆精河县为例[J].生 态学报,2009,29(3）:1251-1263.[Zhang Fei,Tashpolat Tiyip,Ding JianLi,et al. The changeof landuse/cover and characteristics of land scape pattern in arid areas oasis: A case study of Jinghe County,Xinjiang Province[J].Acta Ecologica Sinica,2009,29 (3) :1 251 -1 263.] [11］巩杰,钱彩云,钱大文.1977—2013 年疏勒河中下游土地利用 变化与环境响应[J].干旱区研究,2017,34（4)：775－781 [Gong Jie,Qian Caiyun,Qian Dawen.Land use change and response of environment in the middle- lower reaches of the shule river basin during the period of 1977-2013[J].Arid Zone Research,2017,34(4) :775 -781. ] [12]Yan H,LiuF,Liu J,etal.Status of land use intensity in China and its impacts on land carrying capacity[J]. Journal of Geographical Sciences,2017,27(4) :387 -402. [13］张琪,罗格平,李龙辉,等.基于土地利用/覆被变化表征的现 代绿洲演变过程——以天山北坡三工河流域为例[J].地理学 报,2016,71(7）:1157-1171.[Zhang Qi,Luo Geping,Li Longhui,et al.Modern oasis evolution analysis based on land -use and land - cover change: A case study in Sangong Rive Basin on the northern slope of Tianshan Mountains[J].Acta Geographica Sinica,2016,71(7):1 157 -1171.] [14］陈平星.新疆兵团土地管理系统建设的研究[J].中国西部科 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "技,2012,11(6):72-73.[Chen PingXing.Research of land management system in Xinjiang Corps[J].Science and Technology in Western China,2012,11(6):72-73.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15]谢志辉.新疆兵团行政管理体制改革探析[J].中国农垦，2010,(2）:32-34.[Xie Zhihui.An analysis of the administrativesystem reform of the Xinjiang Corps[J].China State Farms,2010,(2):32-34.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16]齐子鉴.兵团行政管理体制演变与改革[J].兵团党校学报， 2011(4）:24-27.[Qi Zijian.The evolution and reform of the administration system of the Corps[J].Journal of the Party School, 2011(4) :24-27.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17]吴娜琳，胡晓江,乔家君.不同体制下农户农田生产活动差异 分析—新疆地方村庄与兵团连队的对比[J].资源科学， 2012,34(8):1 469-1 476.[Wu Nalin,Hu Xiaojiang,Qiao Jia jun.Production activity differences of farmland among rural householdsunder different administrative systems:Comparative analysis between local villages in Xinjiang and Xinjiang production and construction Corps[J].Resources Science,2012,34(8）:1 469- 1 476.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18]Luo GP,Zhou CH,Chen X,etal.A methodology of characterizing status and trend of land changes in oases:A case study of Sangong River watershed,Xinjiang,China[J]. Journal of Environmental Management,2008,88（4）:775-783. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19]冯异星，罗格平，周德成，等.近50a土地利用变化对干旱区典 型流域景观格局的影响一—以新疆玛纳斯河流域为例[J].生 态学报,2010,30（16）：4295-4 305．［FengYixing，Luo Geping,Zhou Decheng,et al.Effects of land use change on landscape pattern of a typical arid watershed in therecent 5O years:A casestudy on Manas river watershedin Xinjiang[J].Acta Ecologica Sinica,2010,30(16):4 295-4 305.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20]郭建国.景观生态学：格局、过程、尺度与等级[M].北京：高等 教育出版社,2007:17-170.[Wu Jianguo.Landscape Ecology: Patterns,Processes,Scalesand Grades[M].Beijing:Higher Education Press,2007:17-170] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Study of Two Typical Land Use Model in Manas River Basin ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "HEKe1,2,WUShixin1 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(Laboratory ofLUCC and global change,Xinjiang Institute ofEcology and Geography, Chinese Academy of Science,Xinjiang 83oo11,China; University of Chinese Academy of Sciences,Beijing 1Ooo49,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Xinjiang has two basic management modes,“farm management mode”developmented by Xinjiang Production and Construction Gorps and“local mode”foremd by local goverments.The comparison and analysis of the differences between the two types of two typical land use changes is of great significance to the understanding of the impact ofdiferent human activities on land use.This paper takes the Manasi River Basin in Xinjiangasthe research area,the corps and the local areas as the research object.Using the land use data set of Manas River Basin is constructed.In this study,we investigated the different between farm management mode and local mode on land use change pattern and landscape patern by using land use index and Landscape pattern index.The results are as follows : $\\textcircled{1}$ The land-use process are some differences in different modes.The difference of the land use change of the corps and the local land is mainly reflected in the cultivatedand theconstruction type.The change of arable land in the Corps is more significant,and the change of local construction land is more significant. $\\textcircled{2}$ BINGTUANisdifferent from the local area.The Corps carryout large-scale unified management of land use mode,with higher land consolidation frequency,land constantlyconcentratedand landscape pattern tends to be simple.The local model of small scale independent operation is carried out,the scaleof land block is limitedand the degree of breakage is high. $\\textcircled{3}$ compared with the local communities,there are significant diffrences in land use change degree and landscape pattern.The difference is mainly due to the diffrence between the corps and the local land management mode.The comparative analysis of the diferences in land use change between the corps and the local government plays an important role in the rational use of land and the sustainable development of the region. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:：land use model；management model；comparative analysis；landscape patern；Manas River Basin ",
+        "page_idx": 8
+    }
+]

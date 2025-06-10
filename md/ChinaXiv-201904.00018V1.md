@@ -1,0 +1,238 @@
+# 利用稀疏语义结合双层深度卷积神经网络的敏感图像检测方法
+
+如先姑力·阿布都热西提‘，亚森·艾则孜1，孙国梓²(1．新疆警察学院 信息安全工程系，乌鲁木齐 830013;2.南京邮电大学 计算机技术研究所，南京 210003)
+
+摘要：互联网技术的飞速发展导致敏感内容图像由原先基本隐蔽的内容交换变为海量的数据共享，传统基于图像特征提取的敏感内容检测方法不再适用。针对上述难点，提出基于稀疏语义和双层深度卷积神经网络相结合的敏感内容检测方法。上层网络首先进行训练样本的预处理，并通过构造图像的稀疏语义表示作为神经网络的输入，而下层网络则进一步考虑第三方管控机制（如政府代理等)，提出针对特定群体的敏感内容图像检测方法。与现有常用敏感内容图像检测方法相比，提出的检测方法可有效降低训练样本数量，且检测精度比传统图像检测方法（如基于视觉词袋方法等）提升 $7 \%$ 以上。
+
+关键词：敏感图像内容检测；双层卷积神经网络；深度学习算法；稀疏语义表示；视觉词袋；皮肤检测器中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2018.11.0851
+
+Sensitive image detection method based on deep neural network and sparse semantics
+
+Ruxianguli:Abudurexitil, Yasen·Aizezil†, Sun Guozi ² (1.Dept.ofInformation SecurityEngineering,Xinjiang PoliceCollge,Urumqi 830ol1,China;2.InstituteofComputer Technology,Nanjing University of Posts& Telecommunications,Nanjing 21ooo3,China)
+
+Abstract:Withtherapid developmentofInternet technology,sensitivecontentimages havechanged frombasicconcealed content exchange to mass data sharing.The traditional method of sensitive content detection based on image feature extraction is no longer applicable.Toovercome these dificulties,this paper proposes a sensitive content detection method based on sparse semantics and double-layer deep convolution neural network.In this method,the upper network preprocesses the training samples and constructs sparse semantic representationof the image as the input of the neural network,while the lower network further considers the third-party control mechanism (such as government agents）and proposes a sensitive content image detection method for specific groups.Compared with the existing image detection methods forsensitivecontent,the proposed methodcan efectivelyreduce thenumberoftraining samples,andthedetection accuracy is more than $7 \%$ higher than that of traditional image detection methods (such as visual word bag method) .
+
+Keywords: sensitive image detection; double-layer artificial neural network;deep learning algorithm; sparsesemantic representation; visual word bag; skin detector.
+
+# 0 引言
+
+近年来，随着社交互联网络的兴起与发展，新兴的通信和计算机技术的进步极大地促进了世界范围内媒体数据的传播。然而，这些技术的发展也使得人类能够更方便地接触到具有敏感内容的图像信息。尤其对于特定人群而言，这些敏感内容的图像将对其成长发展造成严重的、不可逆的误导。自20世纪90年代中期以来，敏感内容图像在生成、传播与存储等环节已发生了巨大的变化，从原先基本隐蔽的内容交换演变为大规模的海量数据共享。因此，针对互联网中存在的海量敏感图像内容进行准确甄别和检测具有十分重大的研究意义。
+
+近年来，国内外众多科研人员提出了敏感图像内容检测算法。例如，文献[1]利用深度可分离卷积神经网络和MobileNet模型，配合GPU并行计算架构建立了对敏感图像具有较高准确甄别度的识别模型,但所提方法难以有效甄别看似无害、隐蔽程度高的敏感图像。文献[2]提出一种以数据为导向的基于深度卷积神经网络（convolutionneuralnetwork,CNN）来获取图像特征的敏感图像检测方法，使用批量随机梯度下降算法训练卷积神经网络以获取图像特征，但批量梯度下降算法的训练精度与训练速度间的折中选取依赖于人为经验设定，且难以保证获取全局最优解。文献[3]提出一种利用基于支持向量机(supportvectormachine,SVM)的敏感图像快速过滤算法，采用混合肤色模型实现裸露皮肤区域快速检测，从而提取人脸位置、形状和图像背景等特征,但SVM算法难以适用于样本数量较多情形，即对计算机内存与运算时间提出较高要求。类似关于敏感内容图像检测的相关工作参见文献[4\~7]。此外，上述文献并未考虑政府管控背景下的敏感内容检测技术，即无法对敏感内容图像进行人为的干预检测。
+
+针对上述问题，本文提出一种基于稀疏语义的双层深度卷积神经网络敏感内容图像检测方法。其中，上层采用一般性的训练样本对人工神经网络进行训练，实现非敏感、特定人群以及疑似无害三类图像的初步分类；下层通过引入适当的政府代理机制实现专门的针对特定人群敏感内容图像检测的适当调整。实际算例表明，本文提出的敏感内容图像检测方法相比现有敏感内容图像检测方案可更加有效地减少训练样本数量，同时降低检测误差。而所提出的人工干预机制，可实现政府代理人（如执法机构，专业部门等)的灵活控制。
+
+# 1 图像的稀疏语义表示
+
+为便于后续神经网络的训练以及最终将图像分类为敏感内容图像以及非敏感内容图像，本文首先将图像特征进行稀疏化表示。对于包含 $k$ 个图像特征的集合
+
+$$
+F = \{ f _ { 1 } , f _ { 2 } , . . . , f _ { k } \}
+$$
+
+假定由第 $i ( i { = } 1 , \ 2 )$ 类训练图像生成的码本为
+
+$$
+A _ { i } = \left[ w _ { i , 1 } , w _ { i , 2 } , . . . , w _ { i , c _ { 1 } } \right] \in \Omega ^ { 1 2 8 ^ { \circ } C _ { 1 } }
+$$
+
+其中： $C _ { 1 }$ 为第 $f$ 个图像特征类码本的单词数目，对于样本图像 $y _ { 0 } \in \Omega ^ { 1 2 8 ^ { * } C _ { 1 } }$ ，其可表示为 $A _ { i }$ 中码本的线性近似表示，即
+
+$$
+y _ { 0 } \approx \sum _ { j = 1 } ^ { C _ { 1 } } a _ { i , j } w _ { i , j } = A _ { i } a _ { i }
+$$
+
+其中： $a _ { i } = \left[ a _ { i , 1 } , a _ { i , 2 } , . . . , a _ { i , C _ { 1 } } \right] ^ { \mathrm { T } } \in \Omega ^ { C _ { 1 } }$ 。更一般地，对于 $K$ 类图像，则有 $A { = } [ A _ { 1 } , A _ { 2 } , . . . , A _ { K } ]$ ，而 $y _ { 0 }$ 线性表示为
+
+$$
+\scriptstyle { y _ { 0 } = A _ { a } }
+$$
+
+其中： $a { = } [ a _ { 1 } , a _ { 2 } , . . . , a _ { K } ]$ ， $\mathbf { \Delta } _ { a }$ 是 $C _ { 1 }$ 维的稀疏解向量，为满足下式的最优解：
+
+$$
+\hat { a } = \arg \operatorname* { m i n } \left\| y - A a \right\| _ { 2 }
+$$
+
+其中： $L _ { 0 }$ 范数 $\Vert 2$ 用于度量解向量 $\boldsymbol { a }$ 中非零元素的个数。当解向量 $\mathbf { \Delta } _ { a }$ 足够稀疏时，采用特征码本的最优近似线性表示即为求解 $a$ 的最小 $l _ { 1 }$ 范数。因此可以转换为如下优化问题：
+
+$$
+\left\{ \begin{array} { l l } { \mathbf { O P } : \ \operatorname* { m i n } \left\| \boldsymbol { a } \right\| _ { 1 } } \\ { s . t . \ : \ \hat { \boldsymbol { a } } = \arg \ \operatorname* { m i n } \left\| y - A \boldsymbol { a } \right\| _ { 2 } ^ { 2 } } \end{array} \right.
+$$
+
+根据拉格朗日定理，优化问题式(6)可进一步通过优化求解如下的目标函数：
+
+$$
+E ( a ; \lambda ) = \left\| y - A a \right\| _ { 2 } ^ { 2 } + \lambda \left\| a \right\| _ { 1 }
+$$
+
+其中，参数 $\lambda { > } 0$ 是逼近项和稀疏项之间的平衡因子。
+
+基于稀疏语义表示的物理意义为，当向量a的非零系数值反映图像样本与构建的图像特征码本的相关性。相关性越强，采用该类码本对图像特征进行描述效果越好，即重构误差式(8)越小；反之则钩虫误差越大。
+
+$$
+\varepsilon _ { 1 } { = } \sum _ { k } \left\| y - y _ { 0 } \right\| _ { 2 } ^ { 2 }
+$$
+
+# 2 利用深度CNN的敏感内容图像检测方法
+
+# 2.1问题分析
+
+传统图像识别算法通过提取颜色、形状、纹理以及其他人工描述项的图像特征来区分图像之间的细微差别，但应用此类方法筛选无害和非敏感内容是极其困难的。一种简便的方法是通过检测因特网下载的数据量大小与相关服务进行标记，这也是近几年深度学习理论在计算机视觉领域研究大放异彩的重要原因。然而针对特定敏感群体（如敏感人）的敏感内容图像的识别与检测，不仅需要关注图像的检测分类，还需要对图像内容进行更严格的控制与甄别，这也是目前面向特定群体的基于深度学习敏感内容图像检测难点所在。
+
+针对上述实际问题提出如下解决思路：基于深度学习基本算法架构，但槟弃从零开始训练数据样本的传统方式，神经网络中各神经元节点的权重系数采用来源于源问题的侧面数据进行初始化，随后使用训练后（即权重系数调整后）的样本回代至目标求解问题，从而提升敏感内容图像间不同细微差别的检测精度。遵循该思路，本文提出一种基于深度卷积神经网络的分层图像检测方案。其中，上层为权重系数确定环节，即利用深度卷积神经网络对一般图像进行分类检测，初步确定神经网络各神经元节点权重；下层引入政府代理人控制机制，针对特定人群敏感内容图像检测问题人为地对权重系数进行微调，并再度进行神经网络的训练。本文所提方法的一个显而易见的优点为：由于上层伸进网络已专门针对网络权重进行了初始化故，下层所需训练样本数量更为精简。
+
+# 2.2双层深度卷积神经网络架构
+
+提出的双层深度CNN基本架构如图1所示。其中，第一层网络为源问题求解网络，其基本目标（即源任务）为对图像进行合理的分类。一般来说，图像检测源任务需将图像分类为涵盖家宠、家庭用品、食物、交通工具等在内的1000中日常类别中。本文所提算法结构包含一个初始化模块，9个处理模块，2个辅助分类器和一个最终分类器。图2则显示了每个模块的技术细节。各模块的主要功能解释如下：
+
+初始化模块主要通过卷积、池化、局部响应归一化等操作对输入的原始图像进行处理，本文中采用 $7 \times 7$ 卷积内核对原始图像进行解析，而后逐步采用卷积、规范化和数据池化操作进行数据量化加工。图像初始化操作完成后得到的数据通过7个核心的特征学习模块进行学习与训练，每个模块都可看成一个小型神经网络，可实现图像分类源任务中特定图像特征与图像属性的检测。
+
+除了7个特征学习模块之外，本文另外在第3和第6个特征学习模块后设置了两个辅助分类器以便通过网络放大梯度信号，实现早期特征数据的突出显示。与特征学习模块类似，这两个辅助分类器同样也是一个小的卷积网络。此外，本文中辅助分类器包括一个 softmax 分类决策层和一个数据缩减层，通过平均池与 $5 \times 5$ 内核。需要说明的是，辅助分类器仅在训练期间使用，而在测试期间则会移除。
+
+最终分类器的基本功能是分类。在一般性的源问题中，最终分类器包含一个数据缩减层，通过内核的平均池、全连接化和具有softmax损失的线性层，实现1000种图像类型的辨识。然而考虑到本文中的两个目标问题（即非敏感内容和特定人群敏感内容图像检测)，本文将最终分类器采用径向基函数（radialbasisfunction，RBF）内核的双向非线性SVM进行设计，其原因在于，当执行针对特定群体的敏感内容图像检测时，使用该分类器具有更高的检测辨识率。
+
+![](images/ac94c9c68682ab1e9907cdc00997c81e542f533671ab4a55602e61c53a853bd7.jpg)  
+图1对象分类源问题的所选架构概述  
+Fig.1Overview of selected architecture for object classification problem
+
+![](images/26ac83b3a6742f899aadcbb81dcf50cfd387a426a89fe9e69b770e763b3301af.jpg)  
+图2组成所选架构不同模块的详细信息  
+Fig.2Details of the different modules of the selected architecture
+
+# 2.3上层源问题网络训练
+
+针对源问题的神经网络训练样本大约需要120万幅包含1000种不同种类的图像。此过程中采用带动量（设为0.9)的异步随机梯度下降优化算法以及固定学习速率（每隔8个学习周期使学习速率下降 $4 \%$ )。源问题网络训练阶段，使用两个辅助分类器对每幅图像的观测信息损失量乘以权重系数0.3后附加到最终分类器的观测信息损失量中。为收集更多的训练样本，采用旋转、镜像和裁剪但不包括缩放、光度畸变等操作对初始池进行动态扩充。此外，本文中采用多项式学习速率衰减策略来代替阶跃变化的学习速率衰减策略，从而达到4倍甚至更快的训练速度。
+
+上层神经网络的训练步骤为：对于一组给定的训练输入样本，所有的图像均被首先采用保持纵横比的方式重新调整大小，且所有输入样本图像的大小大于本文所设定的输入阈值（ $2 2 4 \times 2 2 4$ 像素)；随后，图像被进一步裁剪至特定卷积网络所需的形状。值得一提的是，对输入样本图像的预处理过程无论是对于源问题实现图像的基本分类以及针对特定群体的图像检测分类都是完全相同的。
+
+# 2.4迁移学习与针对目标问题的调整策略
+
+当经过训练的神经网络可对1000种目标类别中的日常图像进行准确分类后，本文进一步提出针对目标检测问题的学习权重进行微调，其目的是通过使用相同的网络架构进行针对特定群体的敏感图像检测。本文中下层目标本文求解网络的神经元权重并非从头开始训练来得到，而是采用两路softmax分类器（即输出非敏感图像或特定人群敏感内容），并对初始权重进行微调，并将标记为非敏感或特定人群敏感的系列图像作为输入进行反向传播。此外，两个辅助分类器中同样采用两路softmax分类函数。
+
+当重新调整权重后的网络能够准确进行非敏感内容图像的检测时（即网络收敛时)，最后的分类函数采用带RBF内核的 SVM分类器进行代替。此项操作使得深度学习神经网络具有专门针对非敏感内容图像检测的权重，并可使神经网络工作于非敏感内容图像分类的特征提取器，而 SVM分类器则在这些特征之上进行特定问题求解模型的学习。由于本文的最终目标值对特定人群敏感图像进行检测，故可将非敏感内容图像检测作为神经网络工作可靠性的测试实例，通过输入特定人群敏感图像和非特定人群敏感图像实例，进行图像特征量的提取以及特定人群敏感图像检测的SVM分类器训练。具体训练步骤如下：
+
+a)给定一个包含特定人群敏感内容和非特定人群敏感内容的图像集合，使用训练后的神经网络提取其图像特征并使用这些示例图像进行非线性SVM分类器的训练。为训练SVM分类器，本文在可用的训练集中进行5次交叉验证策略，并采用网格化搜索方式以寻找最佳分类参数 $C \in \{ 2 ^ { c } \colon c \in [ - 5 ,$ （2$^  - 3 , - 1 , . . . , 1 5 ] \}$ ）以及 $\gamma \in \{ 2 ^ { i } ; i \in [ 1 5 , 1 3 , . . . , 3 ] \}$ 。最终获得的第一组SVM分类器参数为 $\gamma { = } 0 . 0 0 7 8 1 2 5$ 以及 $C { = } 8 . 0$ 。该检测网络可称为初级检测器，可检测非敏感内容图像，还在某种程度上检测特定人群敏感内容图像，但此时的神经网络仍不具备最终的针对敏感群体的敏感内容图像的检测内容。
+
+b)在将初始针对图片分类的神经网络调整为敏感内容分类检测的神经网络后，本文重点关注将神经网络进一步微调至具备针对敏感群体的敏感内容图像检测,为此提出两种解决途径。对于第一种解决途径，从受过对象分类训练的网络开始，对其学习的权重进行微调，接收一系列标记为敏感图像和非敏感图像内容，并将使用的图像作为输入反向传播。与前述内容一致，当网络训练收敛得到的权重可实现针对目标问题（即特定人群敏感内容图像检测）的检测是，将最后一层的分类器替换为具有RBF内核的SVM分类器。本文称此时的第二层神经网络为第一类特定人群敏感内容图像检测器（称为方案1)。这是由于此时针对目标的特定人群敏感内容图像检测是通过从源问题直接调整过来的（图像种类分类→特定人群敏感内容图像检测）。
+
+对于第二种解决方案，本文从网络微调到非敏感内容检测问题开始，并对其权重进行微调，接收一系列标记为SEIC和非SEIC内容的图像，并再次使用反向传播。与前述内容一致，当网络训练收敛得到的权重可实现针对目标问题（即特定人群敏感内容图像检测）的检测是，将最后一层的分类器替换为具有RBF内核的SVM分类器。本文称此时的第二层神经网络为第二类特定人群敏感内容图像检测器（称为方案2)。这是由于本文使用了两个步骤进行权重的调整（图像种类分类 $$ 非敏感内容检测→特定人群敏感内容图像检测)。
+
+对于给定的针对特定人群敏感内容图像或非特定人群敏感内容图像集合，本文使用方案1或方案2中的训练后的神经网络进行图像特征的提取，并采用这些图像实例进行非线性SVM分类器的训练。对于训练过程，本文同样采用可用的数据集进行5次交叉验证，并采用网格化搜索方式以寻找最佳分类参数 $C \in \{ 2 ^ { c } \colon c \in [ - 5 , - 3 , - 1 , . . . , 1 5 ] \}$ ）以及 $\gamma \in \{ 2 ^ { i } \colon i$ $\in [ 1 5 , 1 3 , . . . , 3 ] \}$ 。最终计算得到的第一组SVM分类器参数
+
+为 $\gamma { = } 0 . 0 0 7 8 1 2 5$ 以及 $C { = } 0 . 5$ 。
+
+# 2.5样本数据的扩充
+
+即便在对神经网络权重进行微调而不是重新开始训练，同样需要大量的样本数据。因此，针对本文所提双层人工神经网络，本文提出如下解决方案以实现在权重系数重新调整时的样本数据扩充。其中，由于用于微调的数据集很少包含实际负面的例子，故而初始训练中进一步增强了非敏感特定人群内容具体是指非敏感图片。因此，与从原始图像生成额外图像（如旋转、镜像或是调整对比度等）不同，本文所使用的数据集采用来自Microsoft公共对象数据集中的20000个图像，其中包含16000个共计91个常见类别。对于第一层源问题求解，本文不进行数据扩充；而对于第二层目标问题的求解，本文进行有样本数据扩充以及无样本数据扩充的两组实验。
+
+# 3 图像分类实验参数设置
+
+# 3.1 数据集
+
+为验证本文所提图像分类检测算法的有效性，本文选用Pornography-2k数据集[8]为实验对象进行分析。其中包括近$1 4 0 \mathrm { { h } }$ 的1000个含敏感内容和1000个不含敏感内容的视频，视频长度从6s到 $3 3 ~ \mathrm { m i n }$ 不等。本文进一步将原视频分解为图像帧，从而得到共计58971张图像，其中33723张图像包含敏感图像内容，即敏感图像和非敏感图像内容的比例分别为 $57 \%$ 和 $43 \%$ 。图3示出了所选数据集的部分示例帧。共计依据上节所述算法步骤，本文中将数据集分为训练集（含33646个图像）、验证集（含5938个图像）和测试集（含19387个图像）三种类型。
+
+对于敏感内容图像的分类检测，首先使用训练集对卷积神经网络进行预训练，从而得到卷积神经网络中的各项关键参数。随后使用验证数据集对上述参数进行优化调整。最后利用测试集进行算法有效性验证与分析。其中，本文采用标准的随机 $5 \times 2$ 交叉验证机制，通过进行随机拆分数据集的方式进行算法有效性的评估。
+
+# 3.2分类指标
+
+采用Pornography $2 \mathrm { { k } }$ 数据集的默认图像分类度量值，即归一化度量ACC和 $F _ { 2 }$ 度量。其中，ACC表征正确分类图像的百分比，而 $F _ { 2 }$ 度量则指的是准确率（precision）与召回率（recall）间的加权调和平均值，如式（9）所示，其中 $\scriptstyle { \beta = 2 }$ 。
+
+$$
+F _ { \beta } = ( 1 + \beta ^ { 2 } ) { \times } \frac { \mathrm { p r e c i s i o n \times r e c a l l } } { \beta ^ { 2 } \times \mathrm { p r e c i s i o n + r e c a l l } }
+$$
+
+![](images/1fea5e1ff50d13b4ce7c8b889b76a64ddffa283ac965bde71a7f4c98a46dd205.jpg)  
+图3Pornography $\cdot 2 \mathrm { \Delta k }$ 数据集的示例帧 Fig.3Example frame of Pornography $\cdot 2 \mathrm { \Delta k }$ dataset
+
+# 3.3取证工具
+
+为了评估所提方案的分类性能，选择依赖于可视内容的取证工具包括NuDetective[9]、MediaDetective[l0]和SnitchPlus[1l]。NuDetective工具是一种随时可用于研究目的的工具，可用于检测敏感图像内容，而MediaDetective工具和SnitchPlus 工具都属于商业解决方案，其可使检测图像敏感内容相对集中，以上所有工具均以皮肤检测器为基础从而识别敏感内容图像。
+
+此外，对于MediaDetective工具和SnitchPlus工具，图像文件会根据其对敏感图像内容的可疑程度（即概率）进行评级。如果图像的返回概率等于或大于 $50 \%$ ，会将该图像标记为敏感图像。而NuDetective工具则会为图像分配二进制标签：正（即图像是敏感图像)或负（即图像是非敏感图像）。
+
+MediaDetective工具和SnitchPlus工具有四种预定义的执行模式，主要取决于皮肤探测器的严谨程度，在本次实验中，将会选择最严格的执行模式，同时对 NuDetective 工具采用默认设置。
+
+# 3.4皮肤检测器
+
+当前，人们已经提出了多种方法来检测敏感图像内容，但人类皮肤检测技术[12]，尤其对于基于颜色的检测技术，在识别的简单性和准确性的提高上仍然具备挑战性。现有方法主要通过定义RGB颜色空间中的皮肤区域，从而提出皮肤分类。皮肤分类模型可大致分为遵循以下三个准则：
+
+准则1:
+
+$$
+[ ( R > 9 5 ) \land ( G > 4 0 ) \land ( B > 2 0 ) ] \land
+$$
+
+准则2：
+
+$$
+[ \operatorname* { m a x } ( R , G , B ) - \operatorname* { m i n } ( R , G , B ) > 1 5 ] \wedge
+$$
+
+准则3：
+
+$$
+[ | R - G | > 1 5 \land ( R > G ) \land ( R > B ) ]
+$$
+
+其中： $R$ 、 $G$ 和 $B$ 表示RGB颜色空间中的像素值，其值范围为 $0 { \sim } 2 5 5$ 。为方便比较，本文选择了一种被广泛使用并且易于实施的皮肤检测器，如果图像中的皮肤像素百分比等于或大于 $13 \%$ ，则将图像分类为敏感图像，以此在训练集中执行交叉验证，以选择最佳阈值。
+
+# 3.5视觉词袋
+
+在引入深度学习技术之前，视觉词袋（bagofvisualwords,BoVW）[13]建模方法是最常用的描述图像内容的方法，它将图像表征为通过量化局部描述符的空间。
+
+本文对两种经典的BOVW方法（即硬编码方法和平均池化方法）进行评估。首先将图像样本进行预处理，得到最大不超过10万像素的数据集，随后采用步长分别为4、6、8、11和16像素生成的 $2 4 \times 2 4$ 、 $3 2 \times 3 2$ 、 $4 8 \times 4 8$ 、 $6 8 \times 6 8$ 和96$\times 9 6$ 像素网格进行图像局部特征量（本文使用加速稳健特征（speeded-uprobustfeatures,SURF）描述符）的提取，并采用主成分分析（principal componentanalysis）方法将SURF的维数降低到32维。
+
+视觉词库通过采用基于欧几里德距离定义的K-means聚类工具，从超过100万个随机抽样的PCA描述符中进行学习，并从中提取出2048个视觉词，而分类器则采用SVM分类器。默认情况下，本文使用带RBF内核的非线性SVM分类器，并采用网格化搜索方式以寻找最佳分类参数 $C \in \{ 2 ^ { c } \colon c \in [ - 5 ,$ （24号$^  - 3 , - 1 , . . . , 1 5 ] \}$ ）以及 $\gamma \in \{ 2 ^ { i } ; i \in [ 1 5 , 1 3 , . . . , 3 ] \}$ 。最终计算得到的SVM分类器参数为 $\gamma { = } 0 . 0 0 7 8 1 2 5$ 以及 $C { = } 3 2$ 。
+
+# 4 实验与结果讨论
+
+为了验证所提方法在敏感图像检测效果方面的优异性和有效性，将通过设计实验与当前流行的其他检测方法、取证工具和商业软件进行比较，从而根据检测敏感图像内容的实验结果进行分析。本文基于Maltab2014a软件进行所提相关算法的编写，且计算机配置为：操作系统Windows10，内存2GB，硬盘256GB，CPU型号为I5-3230M（ $2 . 6 \ : \mathrm { G H z }$ ，双核)，GPU 型号为 Nvidia GeForce GT 740M(2 GB)。
+
+# 4.1非敏感内容检测结果
+
+首先利用Pornography-2k 数据集（共计 257522帧）对不同的非敏感内容图像检测性能进行分析。本文选用文献[14]所提的检测方法与本文所提方法进行对比。表1给出了两种方法下的ACC度量指标和 $F _ { 2 }$ 度量指标，可以看出，本文所提方法对图像的检测精度优于文献[14]检测方法。而在计算资源方法，本文所提方法同样更具经济性，文献[14]采用16个GPU集群进行神经网络的训练，而本文则仅采用单个GPU。此外，虽然两个网络在实际非敏感内容检测方面具有相似的检测性能，但本文所提方法在拦截敏感内容图像的检测精度比文献[14]高 $3 . 5 \%$ 。
+
+表1敏感内容检测结果  
+
+<html><body><table><tr><td colspan="5">Table1 Sensitive content detection results</td></tr><tr><td>比较方法</td><td>TPR</td><td>TNR</td><td>F</td><td>/% ACC</td></tr><tr><td>文献[14]方法</td><td>94.5</td><td>82.3</td><td>94.1</td><td>88.4</td></tr><tr><td>提出的方法</td><td>94.8</td><td>88.2</td><td>94.8</td><td>91.5</td></tr></table></body></html>
+
+TPR表示真正值率；TNR表示真负值率；ACC表示精确度； $F _ { 2 }$ 表示 $F _ { 2 }$ 测量值
+
+# 4.2特定人群敏感图像检测
+
+进一步考虑本文的最终目标，即敏感内容图像检测。为对比说明本文方法的优越性，采用表2中所示的常用方法作为对比加以说明。如表2所示，本文采用的基于皮肤检测器的系统在性能上相比较与其他系统有了相当大的改善，对特定人群敏感内容的检测精度有了较大提升。
+
+针对非敏感内容的图像分类性能，与BoVW 和文献[14]中雅虎公司开发算法相比，其ACC指标和 $F _ { 2 }$ 指标分别提升了 $7 . 7 \%$ 和 $6 . 5 \%$ ，而针对特定人群敏感内容的图像分类性能，本文所提分类算法较之于文献[14]，其ACC指标和 $F _ { 2 }$ 指标则分别提升了 $8 . 6 \%$ 和 $7 . 0 \%$ 。
+
+表2敏感图像内容检测结果  
+Table 2 Results of sensitive image content detection $1 \%$   
+
+<html><body><table><tr><td>比较方法</td><td>TPR</td><td>TNR</td><td>F2</td><td>ACC</td></tr><tr><td>BoVW[15]</td><td>69.9</td><td>66.6</td><td>71.1</td><td>68.3</td></tr><tr><td>文献[14]</td><td>80.1</td><td>74.9</td><td>80.7</td><td>77.5</td></tr><tr><td>非敏感内容分类器</td><td>83.0</td><td>77.8</td><td>83.4</td><td>80.4</td></tr><tr><td>特定人群敏感内容分类器</td><td>87.2</td><td>85.0</td><td>87.7</td><td>86.1</td></tr></table></body></html>
+
+图4示出了不同分类器图像检测误差率直方图，本文所提特定人群敏感内容检测方法与基于皮肤检测方法相比，其误差率由 $4 6 . 9 \%$ 降低至 $3 . 9 \%$ ，误差率减少了 $70 . 4 \%$ ；而与基于BoVW的方法相比，误差率则降低了 $56 . 2 \%$ ，从而表明，基于BoVW技术的图像检测精度比皮肤分类器检测精度要高，而本文基于深度卷积神经网络的检测精度则可进一步降低图像误检率。此外，从表2和图4中也可知，本文所提的针对特定人群敏感内容的检测方法可进一步提升针对非敏感内容检测的神经网络检测精度。
+
+![](images/8c9c124daedac22aa7d9ad5894a0b3095f42024ba7391e9fce0b77b9d895dd31.jpg)  
+图4各探测器误差降低率 Fig.4Error reduction rate of detectors
+
+# 5 结束语
+
+深度卷积神经网络进行图像分类虽具有较高的检测精度，但前期针对神经网络的训练需要大量的原始样本数据制约了其在敏感内容图像中的应用。针对这一问题，本文提出了一个基于稀疏语义与深度卷积神经网络相结合的解决方案，并提出双层神经网络算法进行目标问题求解时神经元权重系数的优化求解。仿真算例结果表明，本文所提方法在检测精度上比常规算法具有较大提升，针对特定人群敏感内容图像的检测性能由于常规基于视觉词袋以及基于皮肤分类的检测方法。
+
+# 参考文献：
+
+[1]邢艳芳，卓文鑫，段红秀．基于MobileNet的敏感图像识别系统设计 [J]．电视技术,2018,42(7):53-56.(Xing Yanfeng,Zhuo Wenxin,Duan Hongxiu.Design of sensitive image recognition system based on MobileNet [J].Television Technology,2018,42(7):53-56.)   
+[2]余明扬，羊鹏，王一军．基于卷积神经网络的色情图像检测[J].计 算机应用与软件，2018,35(1):232-236.(Yu Mingyang，Yang Peng, Wang Yijun.Pornographic image detection based on convolution neural network [J].Computer Applications and Software,2018,35(1): 232-236.)   
+[3] 周建政，陈法叶，姚金良．一种基于SVM的网络不良图像过滤方法 [J]．计算机应用与软件，2012,29(5):251-253.(Zhou Jianzheng,Chen Faye,Yao Jinliang.A network bad image filtering method based on SVM[J]. Computer application and software,2012,29(5): 251-253.)   
+[4]王景中，周靖.基于比例特征的网络不良图像过滤算法研究[J].计 算机工程与科学,2016,38(3):514-519.(Wang Jingzhong,Zhou Jing. Research on network bad image filtering algorithm based on proportional feature [J].Computer Engineering and Science，2016, 38(3): 514-519.)   
+[5]Bissias G,Levine B,Liberatore M,et al. Characterization of contact offenders and child exploitation material trafficking on five peer-to-peer networks.[J].Child Abuse & Neglect,2015,52:185-199.   
+[6]刘兴旺，王江晴，徐科．一种融合 AutoEncoder与CNN 的混合算法 用于图像特征提取[J].计算机应用研究，2017,34(12):3839-3843. (Liu Xingwang,Wang Jiangqing,Xu Ke.A hybrid algorithm combining AutoEncoder and CNN for image feature extraction [J].Application Research of Computers,2017,34(12): 3839-3843.)   
+[7]胡长胜，詹曙，吴从中．基于深度特征学习的图像超分辨率重建[J]. 自动化学报,2017,43(5):814-821.(Hu Changsheng,Zhan Shu,Wu Zhongzhong. Image super-resolution reconstruction based on depth feature learning [J]. Journal of Automation,2017,43(5): 814-821.)   
+[8]贾旭，孙福明，李豪杰，等．具有普适性的改进非负矩阵分解图像特 征提取方法[J].计算机应用，2018.38(1):233-237.(Jia Xu，Sun Fuming，Li Haojie,etc.Universal improved non-negative matrix decomposition image featureextraction method [J]. Computer applications,2018,38(1):233-237.)   
+[9]任晓芳，秦健勇，杨杰，等．基于能量模型的LS-TSVM在人体动作 识别中的应用[J].计算机应用研究,2016，33(2)：598-601.(Ren Xiaofang，Qin Jianyong，Yang Jie,et al.Application of LS-TSVM based on energy model in human motion recognition [J].Application Research of Computers,2016,33(2):598-601.)   
+[10] Perez M,Avila S,Moreira D,et al.Video pornography detection through deep learning techniques and motion information[J]. Neurocomputing,2016,230 (C):279-293.   
+[11] Kanthan S,Graham JA,Azarchi L.Media detectives: bridging the relationship among empathy, laugh tracks,and gender in childhood [J]. Journal of Media Literacy Education,2016,8(2):35-53.   
+[12] Niezgoda S,Way TP.SNITCH:a software tool for detecting cut and paste plagiarism[J].ACM SIGCSE Bulletin,2006,38(1):51-55.   
+[13]陈小雪，尉永清，任敏，等．基于萤火虫优化的加权K-means 算法 [J]．计算机应用研究，2018，35(2):466-470.(Chen Xiaoxue，Wei Yongqing，Ren Min，et al.Weighted K-means algorithm based on firefly optimization [J].Application Research of Computers,2018, 35(2): 466-470.)   
+[14]Mahadeokar J,Pesavento G.Open sourcing a deep learning solution for detecting nsfw images[EB/OL].(2016-09-30). https://noise.getoto.net/2016/09/30/open-sourcing-a-deep-learning-solut ion-for-detecting-nsfw-images/.   
+[15]王茜，陈一民，丁友东.复杂环境中基于视觉词袋模型的车辆再识别 算法[J]．计算机应用，2018，38(5):1299-1303.(WangQi,Chen Yimin,Ding Youdong.Vehicle recognition algorithms based on visual Word bag model in complex environment [J].Computer Applications, 2018,38(5):1299-1303.)

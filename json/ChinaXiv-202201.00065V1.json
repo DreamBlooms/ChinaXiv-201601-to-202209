@@ -1,0 +1,285 @@
+[
+    {
+        "type": "text",
+        "text": "Anisotropy flows in Pb-Pb collisions at LHC energies from parton scatterings with heavy quark trigger\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hai Wangl and Jin-Hui Chenl,† 1 Key Laboratory of Nuclear Physics and Ion-beam Application (MOE), InstituteofModernPhysics,FudanUniversity，Shanghai2Oo433,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "By implementing an aditional heavy quark-antiquark pair production trigger in a multiphase transport (AMPT) model, we study the efect on anisotropy flows of identified particles with afocus on charged particles and quarkonium ( $J / \\Psi$ and $\\boldsymbol { { \\mathit { T } } }$ ).A systematic increase in the collision rate for active partons in the AMPT model with such an implementation has been observed.It leads to a slight increase of identified particles anisotropy flows as a function of transverse momentum $( p _ { T } )$ and rapidity, and gives a better description of the experimental data of elliptic flow toward larger $p _ { T }$ . Our approach provides an efficient way to study the heavy quark dynamics in the AMPT model at LHC energies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Heavy-ion collision; Quark-Gluon Plasma; Quarkonium; Collective flow ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In nuclear-nucleus collisions at the Relativistic Heavy Ion Collider (RHIC) and Large Hadron Collider (LHC),a system of color deconfinement, known as Quark-Gluon Plasma (QGP),is expected to be produced [1,2]. QGP is an almost perfect fluid in the sense that its shear viscosity to entropy density ratio is close to the minimum value [3,4]. Because the volume and lifetime of the QGP may be much larger and longer than those given by the confinement scale $( \\approx 1 / \\Lambda _ { \\mathrm { Q C D } } )$ ,it is expected that the collective flow of partons should arise and have observable consequences that provide information on the dynamics in the QGP[5]. Studies on the anisotropic flow of particle production have contributed significantlyto thecharacterizationof the systemcreatedat RHIC and LHC [5]. Using a general Fourier series decomposition of the azimuthal distribution of the emitted particles, ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } N } { \\mathrm { d } \\varphi } \\propto 1 + 2 \\sum _ { n = 1 } ^ { \\infty } v _ { n } \\cos [ n ( \\varphi - \\Psi _ { n } ) ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "anisotropic flow is quantified using coefficients $\\boldsymbol { v } _ { n }$ and the corresponding symmetry planes $\\Psi _ { n }$ [6],where $\\varphi$ represents the azimuthal angle of the emitted particles in the momentum space.Systematic measurements of the correlations and fluctuations of $\\boldsymbol { v } _ { n }$ coefficients and $\\Psi _ { n }$ have been performed in Refs.[7-13]. Comprehensive comparisons with theoretical model calculations provide critical information on the event average initial density distribution in the nuclear overlap re gion, as well as its connection to QGP dynamics [14-19]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Charm and bottom quarks are important probes for the QGP. They were mainly produced in the initial state of the hard-scattering process prior to QGP formation and survived throughout the evolution stage of the QGP. Quarkonia are bound states of heavy flavor quark-antiquark pairs,which are believed to be suppressed because of the color screening effect in the deconfined interior of the interaction region [2O]. They offer a complementary way to study the interaction of the heavy flavor with the medium and,thus,independently shed light on the properties of QGP[21-23]. Dozens of measurements in this direction have been carried out,and rich physical information has been delivered[24-31],with a clear future direction [21]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To study the characteristics of the QGP and its evolution toward chemical and thermal equilibrium,itis necessary to derive transport equations for quarks and gluons when they are in equilibrium and pre-equilibrium[32]. There have been several studies on deriving relativistic abelian and non-abelian transport and constraint equations for the relativistic gauge covariant Wigner operator for color particles interacting via $\\operatorname { S U } ( N )$ gauge fields. This indicates that viscous hydrodynamic models can describe the transverse momentum spectra oflight-flavor hadrons and distribution in the azimuthal angle for low $p _ { \\mathrm { T } }$ [16,33]. On the other hand, transport models have been applied to study the evolution of QGP medium [34]. Owing to its relatively small cross section,a large event sample is required to study charm or even bottom quark transport in the QGP within hydrodynamics calculations or transport model simulations.In this study,we implement an additional heavy quark-antiquark pair production trigger in a multiphase transport(AMPT) model to study the dynamics of charm and bottom quarks ina dense light quark soup.This significantly improves the charm or bottom quark simulation efficiency, and it will be closer to the dataatLHC energies because of a large charm quark production cross section [21]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "II.TRANSPORTMODELSOFHEAVYFLAVOR ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We employed the AMPT model with the string melting version (v2.265) to simulate the collective motion of heavy quarkonium in $\\mathrm { P b \\mathrm { - } P b }$ collisions atLHC energies.The AMPT model is a hybrid model consisting of fluctuating initial conditions,parton elastic scattering，quark hadronization,and hadronic interaction [34]. It has been used extensively to describe the dynamics of heavy-ion collisions at RHIC and LHC energies in some recent publications[35-42].For a detailed description of the AMPT model, please refer to Ref.[34] and Ref.[43] for a summary of recent developments. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the AMPT model, the initial production of heavy quarks is handled using the HIJING two-component model [44]. It includes pair productions $( q + \\bar { q }  \\bar { Q ^ { } } + \\bar { Q } , g + g  Q +$ $\\bar { Q }$ ）and gluon splitting $( g \\to Q + \\bar { Q } )$ with a cross section in perturbative quantum chromodynamics (QCD）at leading order: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\sigma ^ { Q \\bar { Q } } } { \\mathrm { d } p _ { T } ^ { 2 } \\mathrm { d } y _ { 1 } \\mathrm { d } y _ { 2 } } { = } K \\sum _ { a , b } x _ { 1 } f _ { a } ( x _ { 1 } , \\mu _ { \\mathrm { F } } ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here, $y _ { 1 }$ and $y _ { 2 }$ are the rapidities of the two produced partons, the $K$ factor aims to account for higher-order corrections of heavy quark production, $a$ and $b$ refer to the types of interacting partons in the initial state, $x$ denotes the nucleon momentum fraction taken by the interaction parton, $\\mu _ { \\mathrm { { F } } }$ represents the factorization scale, $f _ { a }$ is the parton distribution function of parton type $a$ in a nucleon, and $\\sigma ^ { a b  Q \\bar { Q } }$ is the cross section for parton types $a$ and $b$ to produce the heavy quark pair [44]. Because the cross section of heavy quark production,especially for the bottom quark,is several orders of magnitude smaller than that of light quarks in heavy-ion collisions at LHC energies,it calls for a trigger for heavy quark production to increase the simulation efficiency. The algorithm was originally developed by Wangand Gyulassy[44] and was extended to study the bottom quark dynamics in the QGP in this study.Wereferto the detailsinRef.[44] andRef.[45]and do not repeat them here. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The final state parton interactions can be described by the equations of motion for the quark and gluon Wigner operators[46,47],which are closely connected with the classical distribution function. For example, the relativistic gauge covariant Wigner operator for spin- $\\textstyle { \\frac { 1 } { 2 } }$ particles in coordinate and momentum space [46]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { W } \\left( x , p \\right) = \\int \\frac { \\mathrm { d } ^ { 4 } y } { \\left( 2 \\pi \\right) ^ { 4 } } e ^ { - i { p \\cdot y } } \\bar { \\psi } \\left( x \\right) e ^ { \\frac { 1 } { 2 } { y \\cdot D _ { x } ^ { \\dagger } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $D ^ { \\mu } \\equiv \\partial ^ { \\mu } + i g A ^ { \\mu }$ is the covariant derivative, and $\\hat { W }$ is a matrix in spinor ( $\\mathrm { 4 \\times 4 }$ components) as well as in the color space ( $N \\times N$ components). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "By using the properties of the link operators,one can derive the quantum transport equation for the QCD Wigner operator[46,47].UndersemiclassicalandAbeliandominance approximations,in the weak-field limit, the equations of motion become a set of equations that resemble classical transport equations [48]. This motivated the study of the final state interaction by solving the Boltzmann equations for quarks and gluons.If only two-body interactions are considered, the Boltzmann equations can be reduced to the following: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ^ { \\mu } \\partial _ { \\mu } f ( { \\pmb x } , { \\pmb p } , t ) \\propto \\int \\sigma f ( { \\pmb x } _ { 1 } , { \\pmb p } _ { 1 } , t ) f ( { \\pmb x } _ { 2 } , { \\pmb p } _ { 2 } , t ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $f ( { \\pmb x } , { \\pmb p } , t )$ represents the distribution function of the parton at time $t$ in the phase space,and $\\sigma$ is the cross section for the two-body scattering of partons.Zhang's parton cascade(ZPC) model was developed to study the final-state parton interactions,which solved the Boltzmann equations for partons using the cascade method [48]. In this model, two partons scatter when their closest distance is less than $\\dot { \\sqrt { \\sigma / \\pi } }$ . The scattering angle is determined by the differential parton-parton scattering cross section. Because the cascade prescription for solving the semiclassical transport equation does not assume any particular form of the phase space distribution,it can be used to study systems far from local thermalequilibrium,anditautomaticallytakesintoaccount the finite mean free path effect [49]. The current study focuses on heavy quark dynamics atLHC energies,where the bottom quark may be far from thermalization and the charm quark may be close to thermalization [27,28, 31]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "III. RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To follow the parton scattering history in the AMPT model, we define $N _ { \\mathrm { s c a t } }$ . as the number of two-body elastic scatterings suffered by a parton. The $N _ { \\mathrm { s c a t } }$ distribution of the active partons $\\mathrm { \\prime } N _ { \\mathrm { s c a t . } } > 0 )$ is shown in Fig.1]. The distributions from the AMPT model with an enhanced heavy quark trigger are flatter than those in the normal AMPTcalculation, which suggests a larger scattering possibility for partons with enhanced heavy quark triggers in the event. The effectis rather small for the charm quark scenario and more significant for the bottom quark scenario. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 also shows the approximate average transverse radial velocity $\\langle \\beta _ { \\perp } \\rangle \\equiv \\langle \\hat { \\bf { r } } _ { \\perp } \\cdot \\hat { \\bf { p } } _ { \\perp } \\rangle$ of freeze-out partons with different flavor in the AMPT model as a function of $N _ { \\mathrm { s c a t . } }$ ， where $\\hat { \\mathbf { r } } _ { \\perp }$ and $\\hat { \\mathbf { p } } _ { \\perp }$ are the transverse radial position and momentum unit vectors. The $\\beta _ { \\perp }$ is not exactly zero at $N _ { \\mathrm { s c a t . } } = 0$ because partons can form only after a finite formation time over which the displacement of a parton depends on its momentum [34]. One sees that $\\beta _ { \\perp }$ of heavy quarks are larger in magnitude and almost independent of $N _ { \\mathrm { s c a t . } }$ ,whereas it is smaller in magnitude and drops for light quarks as $N _ { \\mathrm { s c a t } }$ increases.This is understood because heavy quarks are formed earlier,and they are more likely to inherit the direction of mother partons,which will give them larger $\\langle \\beta _ { \\perp } \\rangle$ . Compared with light quarks,it is harder to push the heavy quarks away from their original trajectory, their $\\langle \\beta _ { \\perp } \\rangle$ are independent of $N _ { \\mathrm { s c a t . } }$ ． As the mid-rapidity hadron density of a $\\mathrm { P b \\mathrm { - } P b }$ collision at $\\sqrt { s _ { \\mathrm { N N } } } = 5 . 0 2$ TeV reaches as high as a few thousand, depending on the collision centrality [5O], triggering on an additional heavy quark-antiquark pair production has a negligible effect on the hadron density, but may affect the evolution dynamics significantly. We use these trigger events to study the properties of QGP matter created in $\\mathsf { P b \\mathrm { - } P b }$ collisions at LHC energies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 presents $v _ { 2 }$ ， $v _ { 3 }$ of a charged hadron in midcentral $\\mathrm { P b \\mathrm { - } P b }$ collisions at $\\sqrt { s _ { \\mathrm { N N } } } = 5 . 0 2$ TeV from AMPT model. To do a fair comparison with experimental data [51], the results are calculated using the two-particle correlation method [52]. The result from the reaction plane method,as described inEq.(1),has beenchecked and is found to be consistent with Fig.2.Overall, the AMPT calculations with the normal,enhanced heavy quark trigger scenario reproduce the experimental data reasonably well.Larger elliptic flowis seen in the enhanced heavy quark trigger scenario. The enhancement is approximately $5 \\%$ and $p _ { \\mathrm { T } }$ independent in AMPT with bottom quark trigger (cf. the bottom panel of Fig. 2). Including the discussion in Fig.1 where the AMPT model with enhanced bottom quark-antiquark pair production presents a larger scattering possibility for active quarks,which tends to generate larger elliptic flow and is seemingly closer to $v _ { 2 }$ data as $p _ { T }$ increases. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/31597e4dac2feb7ffb080e1abccb6def69874a4425f8fd3325c85330b7564b9a.jpg",
+        "img_caption": [
+            "Fig.1.AMPT simulations of:(a) normalized parton scattering distributions of active quarks;(b)mean transverse velocity of freezeout quarks in $\\mathrm { \\ P b { \\mathrm { - } P b } }$ collisions at $\\sqrt { s _ { \\mathrm { N N } } } = 5 . 0 2 \\ \\mathrm { T e V }$ and $5 \\% - 6 0 \\%$ centrality,where normal,w/ c-trig.,and w/b-trig.represent normal AMPT,normal AMPT with triggering an additional charm quarkantiquark pair production,and normal AMPT with triggering an additional bottom quark-antiquark pair production,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 highlights the $v _ { 2 } ( p _ { \\mathrm { T } } )$ of quarkonia in middle and forward rapidity of $\\mathrm { P b \\mathrm { - } P b }$ collisions at $\\sqrt { s _ { \\mathrm { N N } } } = 5 . 0 2 \\ \\mathrm { T e V } .$ The uncertainties in calculations are determined by statistics in different centrality and different rapidity bins. Our results are consistent with the experimental data considering current uncertainties. Overall,AMPT simulations on $v _ { 2 }$ of $\\boldsymbol { { \\mathit { T } } }$ are smallerthan those of $J / \\Psi$ .One should note that in the current version of the AMPT calculation,regeneration of $J / \\Psi$ or dissociation of $\\boldsymbol { { \\mathit { T } } }$ are missing, only continued two-body elastic scattering is involved,which seems to generate the finite $v _ { 2 }$ of quarkonia. The magnitude difference between $\\boldsymbol { { \\mathit { T } } }$ and $J / \\Psi$ may be due to the mass of different quarks associated with each calculation.We have learned thatitisalso one of the key parameters in hydrodynamics calculations [16, 33]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b9f965e0c9e40bf39f8bc064033b4e862576090534b22fc9f138e0b8dd8a5bd.jpg",
+        "img_caption": [
+            "Fig.2.Charged particles elliptic flow $( v _ { 2 } )$ and triangular flow $\\left( v _ { 3 } \\right)$ in mid-central $\\mathrm { \\ P b { \\mathrm { - } P b } }$ collisions at $\\sqrt { s _ { \\mathrm { N N } } } ~ = ~ 5 . 0 2 ~ \\mathrm { T e V }$ from the AMPT model with normal,enhanced heavy quark production trigger settings.The filled points represent experimental data for comparison [51]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e4e7a4b32f86768c96721c702e16ae43dd4ef3755ae0f40957c7a000568e02f.jpg",
+        "img_caption": [
+            "Fig.3.Heavy flavor quarkonia $v _ { 2 } ( p _ { T } )$ of mid-rapidity and forward rapidity in $\\mathrm { \\ P b { \\mathrm { - } P b } }$ collisions at $\\sqrt { s _ { \\mathrm { N N } } } = 5 . 0 2 \\ \\mathrm { T e V }$ from the AMPT model with enhanced heavy quark-antiquark pair trigger settings. The centralities were chosen to be the same as those in the experimental measurement [31, 53]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7320200c4a42b4c7568337970ba44db318a6403c632312ba5b1067b2240970fd.jpg",
+        "img_caption": [
+            "Fig.4．AMPT model simulations on hadron $v _ { 2 } ( \\eta )$ in $\\mathrm { P b \\mathrm { - } P b }$ collisions at $\\sqrt { s _ { \\mathrm { N N } } } = 2 . 7 6$ and $5 . 0 2 \\ \\mathrm { T e V } .$ .The centralities and $p _ { \\mathrm { T } }$ bins were chosen to be the same as the experimental data [31,54].Different model configurations were applied in the charge hadron calculation,whereas only the heavy quark-antiquark pair trigger settings were used for studying $J / \\Psi$ and $\\boldsymbol { { \\mathit { T } } }$ ： ",
+            "Fig.5．AMPT model calculations on hadron $v _ { 1 } ( \\eta )$ in $\\mathrm { \\ P b { \\mathrm { - } P b } }$ collisions at $\\sqrt { s _ { \\mathrm { N N } } } = 5 . 0 2 \\mathrm { T e V } .$ The charged hadron result is scaled by a factor of 1O for comparison with the experimental data [55]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To study this further,we examined the differential rapidity(pseudorapidity）dependence on $v _ { 2 }$ ，as shown in Fig.4. Because $v _ { 2 } ( \\eta )$ data for a charged hadron in $\\mathrm { P b \\mathrm { - } P b }$ collisions at $\\sqrt { s _ { N N } } = 5 . 0 2 \\mathrm { T e V }$ has not yet been published,we chose the data [54] at $\\sqrt { s _ { \\mathrm { N N } } } = 2 . 7 6 \\ \\mathrm { T e V }$ for comparison． Thus, the AMPT calculation for the charged hadron is performed on $\\sqrt { s _ { \\mathrm { N N } } } = 2 . 7 6 \\mathrm { T e V }$ accordingly. Our calculations with normal or enhanced heavy quark-antiquark pair production scenarios describe the data fairly well. Although the uncertainties presented in the measurement do not allow us to distinguish between different scenarios,the difference in the calculations is of a few per cent. The value of $\\textit { T } v _ { 2 }$ is positive and at a maximum at mid-rapidity,and close to zero at higher rapidity. The calculation appears to agree with the data at forward rapidity [31]. The value of $J / \\Psi \\ v _ { 2 }$ is larger than $\\boldsymbol { { \\mathit { T } } }$ and exhibits similar rapidity dependence.However, it underpredicts the data at forward rapidity. This deviation may originate from the missing dissociation and regeneration mechanisms for heavy quarkonium in the AMPT.Further studies are required to implement these effects in the AMPT model. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The enhanced heavy quark-antiquark pair production event can also be applied to study the direct flow $( v _ { 1 } )$ of quarkonium.This represents a new probe for studying the strong electromagnetic field effect of hot QCD matter via $v _ { 1 }$ measurement, particularly on the difference in $v _ { 1 } ( \\eta )$ between the particle and its antiparticle [56-58]. Measurements of the open charm meson $v _ { 1 } ( \\eta )$ show a difference in the slopes of $D ^ { 0 }$ and $\\bar { D ^ { 0 } }$ ，but with a different sign from RHIC to LHC[55,59, 6O]. The origin of this physics is still debated. Because the electromagnetic field effect has not been implemented in the AMPT model,we consider the $v _ { 1 } ( \\eta )$ of $J / \\Psi$ and $\\boldsymbol { { \\mathit { T } } }$ instead of the $v _ { 1 }$ difference between the particle and antiparticle in our current framework.In this aspect,we used the coordinate system of the model with the $x$ -axis along the impact parameter direction $( \\vec { b } )$ of each event in the transverse plane,with the center of the projective and target nuclei at the transverse coordinates $( b / 2 , 0 )$ and $( - b / 2 , 0 )$ . The direction of the projectile momentum specifies the $z$ -axis;consequently, the total angular momentum of the system is along the $\\boldsymbol { - y }$ direction.Figure 5 shows our results for $J / \\Psi$ and $\\boldsymbol { { \\mathit { T } } }$ together with the charged hadron in $\\mathrm { P b \\mathrm { - } P b }$ collisions at $\\sqrt { s _ { \\mathrm { N N } } } ~ = ~ 5 . 0 2 ~ \\mathrm { T e }$ V. It can be seen that quarkonia present an order of magnitude larger $v _ { 1 } ( \\eta )$ than charged hadrons, presumably because of the early formation and larger mass. In comparison with the data [55], the $v _ { 1 } ( \\eta )$ of the charged hadron from the AMPT model is on the correct sign but an order of magnitude lower. Because the dynamics that generates $v _ { 1 }$ is quite complicated, it may depend on the equation of state,mean-field potentials, particle scattering,shadowing from spectator nucleons,and tilt of the hot dense QCD matter in the $x { - } z$ plane [58]. Our results rely on two-body parton elastic scattering,and naive quark hadronization can be understood.Future studies with more realistic dynamics are of interest. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "quarkonium dynamics with relatively small event samples. It describes the charged particle, $J / \\Psi$ ，and $\\textit { r } _ { v _ { 2 } }$ reasonably well.Future efforts are required to include more realistic dynamics in the AMPT model,such as the dissociation and regeneration of heavy quarkonium production at LHC energies. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IV.SUMMARY ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussions with Dr.Hui Li are gratefully acknowledged. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In summary,we have implemented an additional heavy flavor quark-antiquark pair production trigger in the AMPT model to study their dynamics in hot and dense media created in high-energy heavy-ion collisions.In this study,we have focused on the heavy flavor quarkonium anisotropy flows in $\\mathrm { \\ P b { - } P b }$ collisions at LHC energies.The new implementation presents a systematic increase in the flow coefficients as a function of $p _ { \\mathrm { T } }$ and $\\eta$ in comparison with the result from the normal AMPT model and provides an efficient way to study ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AUTHORCONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All authors contributed to the study conception and design.Material preparation, data collection and analysis were performed by Hai Wang and Jinhui Chen. The first draft of the manuscript was written by Hai Wang and Jin-Hui Chen,and all authors commented on previous versions of the manuscript.All authors read and approved the final manuscript. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]K.Yagi,T.Hatsuda,Y.Miake,Quark-gluon plasma:From big bang to little bang.Camb.Univ.Press.ISBN -10: 0521561086,.   \n[2] J.Chen，D.Keane, Y.G. Ma, et al.， Antinuclei in Heavy-Ion Collisions.Phys.Rept. 760,1-39(2018). doi:10.1016/j.physrep.2018.07.002   \n[3] P.Kovtun， D.T.Son, A.O.Starinets, Viscosityin strongly interacting quantum field theories from black hole physics. Phys. Rev.Lett 94,111601(2005). doi:10.1103/PhysRevLett.94.111601   \n[4] N.Demir, S.A.Bass,Shear-Viscosity to Entropy-Density Ratio of a Relativistic Hadron Gas.Phys.Rev.Lett.102,172302 (2009). doi:10.1103/PhysRevLett.102.172302   \n[5]U.Heinz,R. Snellings,Collective flow and viscosity in relativistic heavy-ion collisions.Ann. Rev.Nucl.Part.Sci.63, 123-151 (2013). doi:10.1146/annurev-nucl-102212-170540   \n[6] S.A. Voloshin,A.M.Poskanzer,R. Snellings,Collective phenomena in non-central nuclear collisions.Landolt-Bornstein 23,293-333 (2010). doi:10.1007/978-3-642-01539-7_10   \n[7]C．Adler，Z.Ahammed,C.Allgower，et al.，Elliptic flow from two and four particle correlations in $\\mathbf { A u + A u }$ collisions at $\\mathrm { s } ( \\mathrm { N N } ) ^ { * * } ( 1 / 2 ) = 1 3 0 \\mathrm { - G e V }$ Phys.Rev.C 66,034904 (2002). doi:10.1103/PhysRevC.66.034904   \n[8]B.Alver,B.B.Back,M.D.o.Baker,Importance of correlations and fluctuations on the initial source eccentricity in highenergy nucleus-nucleus collisions.Phys.Rev.C 77,O14906 (2008). doi:10.1103/PhysRevC.77.014906   \n[9]B.I. Abelev,M.M.Aggarwal,Z. Ahammed,et al., Centrality dependence ofcharged hadron and strange hadron elliptic flow from $\\mathrm { s ( N N ) } ^ { * * } ( 1 / 2 ) = 2 0 0 { \\cdot } ($ GeVAu $^ +$ Au collisions.Phys.Rev. C 77, 054901 (2008). doi:10.1103/PhysRevC.77.054901   \n10] S.Afanasiev, C.Aidala,N.N.o.Ajitanand, Systematic Studies of Elliptic Flow Measurements in $\\mathbf { A u + A u }$ Collisions at $\\mathrm { s } ^ { * * } ( 1 / 2 ) \\ = \\ 2 0 0 \\mathrm { - G e V }$ .Phys.Rev.C 80,024909 (2009). doi:10.1103/PhysRevC.80.024909   \n[11]S.Chatrchyan,V.Khachatryan，A.M.Sirunyan,et al.,Measurement of the elliptic anisotropy of charged particles produced in PbPb collisions at $\\sqrt { s } _ { N N } { = } 2 . 7 6$ TeV. Phys. Rev. C 87, 014902 (2013). doi:10.1103/PhysRevC.87.014902   \n[12]G.Aad,B.Abbott,J.Abdallah,etal.,Measurement of eventplane correlations in $\\sqrt { s _ { N N } } = 2 . 7 6$ TeVlead-lead collisions with the ATLAS detector.Phys.Rev.C 90, 024905 (2014). doi:10.1103/PhysRevC.90.024905   \n[13] S．Acharya,F.Acosta,D.o.Adamova,Energy dependence and fluctuations of anisotropic flow in Pb-Pb collisions at $\\begin{array} { r l r } { \\sqrt { s _ { \\mathrm { N N } } } } & { { } = } & { 5 . 0 2 } \\end{array}$ and 2.76 TeV.JHEP 07，103 (2018). doi:10.1007/JHEP07(2018)103   \n[14]K.Dusling，W.Li，B.Schenke，Novel collective phenomena in high-energy proton-proton and proton-nucleus collisions.Int.J.Mod．Phys.E 25，1630002 (2016). doi:10.1142/S0218301316300022   \n[15]J.L.Nagle,W.A.Zajc,Small System Collectivity in Relativistic Hadronic and Nuclear Collisions.Ann.Rev.Nucl.Part. Sci. 68, 211-235 (2018). doi:10.1146/annurev-nucl-101916- 123209   \n[16] C.Shen,L.Yan,Recent development of hydrodynamic modeling in heavy-ion collisions.Nucl. Sci. Tech.31,122 (2020). doi:10.1007/s41365-020-00829-z   \n[17] S.Wu, C. Shen,H. Song,Dynamical exploring the QCD matter at finite temperatures and densities-a short review.Chin.Phys. Lett.38,081201 (2021). doi:10.1088/0256-307X/38/8/081201   \n[18] Z.Han，B.Chen，Y.Liu,Critical temperature of deconfinement in a constrained space using a bag model at vanishing baryon density. Chin.Phys.Lett.37,112501 (2020). doi:10.1088/0256-307X/37/11/112501   \n[19] R.H. Fang,R.D.Dong,D.F.Hou,et al., Thermodynamics of the system of massive Dirac fermions in a uniform magnetic field. Chin. Phys.Lett.38,091201 (2021).doi:10.1088/0256- 307X/38/9/091201   \n[20] T. Matsui，H. Satz, $J / \\psi$ Suppression by Quark-Gluon Plasma Formation． Phys.Lett.B 178,416-422 (1986). doi:10.1016/0370-2693(86)91404-8   \n[21] N. Brambilla, S. Eidelman,B.Heltsley, et al., Heavy Quarkonium:Progress,Puzzles,and Opportunities.Eur.Phys.J.C 71, 1534 (2011). doi:10.1140/epjc/s10052-010-1534-9   \n[22] Z.B. Tang,W.M. Zha, Y.F. Zhang,An experimental review of open heavy flavor and quarkonium production at RHIC. Nucl. Sci. Tech. 31, 81 (2020). doi:10.1007/s41365-020-00785-8   \n[23] J. Zhao,K. Zhou, S.Chen, et al.,Heavy flavors under extreme conditions in high energy nuclear collisions.Prog.Part. Nucl. Phys.114,103801 (2020). doi:10.1016/j.ppnp.2020.103801   \n[24] A.Adare,S.Afanasiev,C.Aidala,et al., $J / \\psi$ Production vs Centrality, Transverse Momentum,and Rapidity in $\\mathbf { A u + A u }$ Collisions at $\\sqrt { s _ { N N } } = 2 0 0 \\mathrm { G e V } .$ Phys. Rev. Lett.98, 232301 (2007). doi:10.1103/PhysRevLett.98.232301   \n[25] R. Aaij,B. Adeva,M. Adinolfi,et al., Study of $\\Upsilon$ production and cold nuclear matter effects in $p { \\mathsf { P b } }$ collisions at $\\sqrt { s _ { N N } } { = } 5$ TeV. JHEP 07, 094 (2014). doi:10.1007/JHEP07(2014)094   \n[26] L.Adamczyk,J.K.Adkins,G. Agakishiev, et al., Energy dependence of $J / \\psi$ production in $\\mathbf { A u + A u }$ collisions at $\\sqrt { s _ { N N } } =$ 39,62.4 and $2 0 0 \\ { \\mathrm { G e V } }$ .Phys.Lett.B 771,13-20 (2017). doi:10.1016/j.physletb.2017.04.078   \n[27] V. Khachatryan, et al.， Suppressionof $\\Upsilon ( 1 S ) , \\Upsilon ( 2 S )$ （20 and $\\Upsilon ( 3 S )$ productioninPbPbcollisionsat $\\sqrt { s _ { \\mathrm { N N } } }$ $\\begin{array} { r l } { = } & { { } 2 . 7 6 } \\end{array}$ TeV.Phys.Lett.B 770,357-379 (2017). doi:10.1016/j.physletb.2017.04.031   \n[28] M. Aaboud, G. Aad,B.Abbott et al., Prompt and non-prompt $J / \\psi$ and $\\psi ( \\mathrm { 2 S } )$ suppression at high transverse momentum in 5.02 TeV $\\mathrm { P b + P b }$ collisions with the ATLAS experiment. Eur. Phys. J. C 78,762 (2018). doi:10.1140/epjc/s10052-018-6219- 9   \n[29] M. Aaboud,A.G.,B.Abbott, et al.,Measurement of quarkonium production in proton-lead and proton-proton collisions at $5 . 0 2 \\mathrm { T e V }$ with the ATLAS detector. Eur. Phys. J. C78,171 (2018). doi:10.1140/epjc/s10052-018-5624-4   \n[30] J.Adam，et al.，Measurement of inclusive $J / \\psi$ suppression in $\\mathbf { A u + A u }$ collisions at $\\sqrt { s _ { N N } } = 2 0 0$ GeV through the dimuon channel at STAR. Phys. Lett. B 797,134917 (2019). doi:10.1016/j.physletb.2019.134917   \n[31] S. Acharya, D. Adamova, S.P. Adhya, et al., Measurement of Y(1S)elliptic flow at forward rapidity in Pb-Pb collisions at $\\sqrt { s _ { \\mathrm { N N } } } ~ = ~ 5 . 0 2 ~ \\mathrm { T e V }$ .Phys.Rev.Lett.123,192301 (2019). doi:10.1103/PhysRevLett.123.192301   \n[32] B.I. Abelev,etal., Observation of an Antimater Hypernucleus. Sci. 328, 58-62 (2010). doi:10.1126/science.1183980   \n[33] B.Schenke,S.Jeon,C.Gale, $( 3 + 1 ) \\mathrm { { D } }$ hydrodynamic simulation of relativistic heavy-ion collisions.Phys.Rev. C 82, 014903 (2010). doi:10.1103/PhysRevC.82.014903   \n[34] Z.W. Lin,C.M.Ko,B.A.Li, et al.,A Multi-phase transport model for relativistic heavy ion colisions. Phys.Rev.C 72, 064901 (2005). doi:10.1103/PhysRevC.72.064901   \n[35] C. Zhang, Z.W. Lin, Left-right splitting of elliptic flow due to directed flow in heavy ion collisions. .arXiv:2109.04987   \n[36] D. Shen, J. Chen,Z.W.Lin,The effect of hadronic scatterings on the measurement of vector meson spin alignments in heavy-ion collisions.Chin.Phys.C 45,054002 (2021). doi:10.1088/1674-1137/abe763   \n[37] L. Zheng,G.H. Zhang,Y.F. Liu,et al.， Investigating high energy proton proton collisions with a multi-phase transport model approach based on PYTHIA8 initial conditions. Eur. Phys. J. C 81, 755 (2021). doi:10.1140/epjc/s10052-021- 09527-5   \n[38] C.Z. Wang, W.Y. Wu, Q.Y. Shou, et al., Interpreting the chargedependent flow and constraining the chiral magnetic wave with event shape engineering.Phys.Lett.B 820,136580 (2021). doi:10.1016/j.physletb.2021.136580   \n[39] H. Wang,J. Chen, Study on open charm hadron production and angular correlation in high-energy nuclear collisions.Nucl. Sci. Tech. 32,2 (2021). doi:10.1007/s41365-020-00839-x   \n[40] X.L. Zhao,G.L. Ma, Y.G. Ma, et al., Validation and improvement of the ZPC parton cascade inside a box.Phys.Rev. C102, 024904 (2020). doi:10.1103/PhysRevC.102.024904   \n[41] T. Shao,J. Chen,C.M.Ko,et al.,Enhanced production of strange baryons in high-energy nuclear collisions from a multiphase transport model. Phys.Rev.C 102,014906 (2020). doi:10.1103/PhysRevC.102.014906   \n[42] C. Zhang,L. Zheng,F. Liu, et al.,Update of a multiphase transport model with modern parton distribution functions and nuclear shadowing.Phys.Rev.C 99,064906 (2019). doi:10.1103/PhysRevC.99.064906   \n[43] Z.W.Lin,L. Zheng,Further developments of a multi-phase transport model for relativistic nuclear collisions.Nucl. Sci. Tech.32,113(2021). doi:10.1007/s41365-021-00944-5   \n[44] X.N. Wang,M. Gyulassy, HIJING: A Monte Carlo model for multiple jet production in p p, p A and A A collisions. Phys. Rev. D 44,3501-3516(1991). doi:10.1103/PhysRevD.44.3501   \n[45] H.Wang,J. Chen, Y.G. Ma,et al., Charm hadron azimuthal angular correlations in $\\mathrm { \\ a u + }$ au collisions at sqrts $\\phantom { } ; \\phantom { } _ { N } N = 2 0 0$ gev from parton scatterings. Nucl. Sci. Tech.30,185 (2019). doi:https://doi.0rg/10.1007/s41365-019-0706-z   \n[46] H.T. Elze,M. Gyulassy,D. Vasak,Transport Equations for the QCD Quark Wigner Operator. Nucl. Phys. B 276,706-728 (1986). doi:10.1016/0550-3213(86)90072-6   \n[47] H.T.Elze,M.Gyulassy,D.Vasak,Transport Equations for the QCD Gluon Wigner Operator. Phys.Lett. B 177, 402-408 (1986). doi:10.1016/0370-2693(86)90778-1   \n[48] B.Zhang,ZPC 1.O.1: A Parton cascade for ultrarelativistic heavy ion collisions. Comput.Phys. Commun.109,193-206 (1998). doi:10.1016/S0010-4655(98)00010-1   \n[49] B. Zhang,M. Gyulassy, C.M. Ko, Elliptic flow from a parton cascade.Phys.Lett.B 455,45-48 (1999). doi:10.1016/S0370- 2693(99)00456-6   \n[50] J. Adam, D. Adamova, M.M. Aggarwal, et al., Centrality dependence of the charged-particle multiplicity density at midrapidity in Pb-Pb collisions at $\\sqrt { s _ { \\mathrm { N N } } } = 5 . 0 2$ TeV. Phys. Rev. Lett. 116,222302 (2016). doi:10.1103/PhysRevLett.116.222302   \n[51] J. Adam, D. Adamová, M.M. Aggarwal, etal., Anisotropic flow of charged particles in $\\mathrm { P b \\mathrm { - } P b }$ collisions at $\\sqrt { s _ { \\mathrm { N N } } } = 5 . 0 2 1$ TeV.Phys.Rev. Lett.116,132302 (2016). doi:10.1103/PhysRevLett.116.132302   \n[52] L.Y. Zhang, J.H. Chen, Z.W. Lin, et al., Two-particle angular correlations in $p p$ and $p { \\mathrm { - } } \\mathrm { P b }$ collisions at energies available at the CERN Large Hadron Collider from a multiphase transport model. Phys.Rev.C 98,034912 (2018). doi:10.1103/PhysRevC.98.034912   \n[53] S. Acharya, S.Acharya, D.Adamova, et al., $\\mathbf { J } / \\psi$ elliptic and triangular flow in Pb-Pb colisions at $\\sqrt { s _ { \\mathrm { N N } } } = 5 . 0 2$ TeV. JHEP 10, 141 (2020). doi:10.1007/JHEP10(2020)141   \n[54] J.Adam， et al.， Pseudorapidity dependence ofthe anisotropic flow of charged particles in $\\mathrm { P b \\mathrm { - } P b }$ collisions at $\\sqrt { s _ { \\mathrm { N N } } } = 2 . 7 6 ~ ^ { \\prime }$ TeV.Phys. Lett.B 762,376-388 (2016). doi:10.1016/j.physletb.2016.07.017   \n[55] S.Acharya,D. Adamova,A.Adler,et al.，Probing the effects of strong electromagnetic fields with charge-dependent directed flow in $\\mathrm { P b \\mathrm { - } P b }$ collisions at the LHC. Phys.Rev. Lett. 125,022301 (2020). doi:10.1103/PhysRevLett.125.022301   \n[56] S.K.Das,S.Plumari,S.Chatterjee,et al.,Directed Flow of Charm Quarks as a Witness of the Initial Strong Magnetic Field inUltra-Relativistic Heavy Ion Collisions.Phys.Lett.B 768, 260-264 (2017). doi:10.1016/j.physletb.2017.02.046   \n[57]U.Girsoy，D.Kharzeev，E.Marcus,et al.，Chargedependent Flow Induced by Magnetic and Electric Fields in Heavy Ion Collisions.Phys.Rev.C 98,055201 (2018). doi:10.1103/PhysRevC.98.055201   \n[58]S.Chatterjee,P.Bozek,Large directed flow of open charm mesons probes the three dimensional distribution of matter in heavy ion collisions.Phys.Rev.Lett.120,192301 (2018). doi:10.1103/PhysRevLett.120.192301   \n[59]J. Adam， et al., First Observation ofthe Directed Flow of $D ^ { 0 }$ and $\\overline { { D ^ { 0 } } }$ in $\\mathbf { A u + A u }$ Collisionsat $\\sqrt { s _ { \\mathrm { N N } } }$ $\\begin{array} { r l } { = } &  { } 2 0 0 \\end{array}$ GeV.Phys.Rev.Lett. 123，162301 (2019). doi:10.1103/PhysRevLett.123.162301   \n[60] A.M. Sirunyan, et al.,Measurement of prompt $\\mathrm { D } ^ { 0 }$ and ${ \\overline { { \\mathrm { D } } } } ^ { 0 }$ meson azimuthal anisotropy and search for strong electric fields in PbPb collisions at $\\sqrt { s _ { \\mathrm { N N } } } = 5 . 0 2$ TeV. Phys. Lett. B 816, 136253 (2021). doi:10.1016/j.physletb.2021.136253 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

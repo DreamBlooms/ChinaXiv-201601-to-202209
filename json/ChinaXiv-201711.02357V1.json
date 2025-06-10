@@ -1,0 +1,422 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.160824 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈鸽，汤春纯，李祖胜，黄运湘，曾希柏，文炯，高雪，张骞．不同施肥措施对洞庭湖区旱地肥力及作物产量的影响[J]. 中国生态农业学报,2017,25(5):689-697 Chen G,TangCC,LiZ S,Huang YX, Zeng X B,WenJ, Gao X, ZhangQ.Influence of diffrent fertilization modesonsoil fertility and crop yield in Dongting Lakeupland areas[J]. Chinese Journal ofEco-Agriculture,2017,25(5): 689-697 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "不同施肥措施对洞庭湖区旱地肥力及作物产量的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "东鸽²，汤春纯¹，李祖胜1，黄运湘²，曾希柏\\*\\*，文炯¹，高雪4，张骞²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.湖南省岳阳市农业科学研究所/农业部岳阳农业环境科学观测实验站岳阳414000;2.湖南农业大学资源环境学院长沙41000;3．中国农业科学院农业环境与可持续发展研究所北京100081;4.西藏自治区农牧科学院拉萨850002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：应用长期定位试验方法，研究了洞庭湖区非粮食作物棉花-油菜轮作下，农民习惯施肥(TF)、配方施肥(NPK)及有机肥和化肥不同配比模式[有机肥来源氮占配方肥总氮量的 $5 0 \\% ( 5 0 \\% \\mathrm { O M } )$ 、 $3 0 \\% ( 3 0 \\% \\mathrm { O M } )$ 和$1 0 \\% ( 1 0 \\% \\mathrm { O M } ) \\dot { }$ 的作物产量和土壤养分的变化，以期为相应作物种植制度下的合理施肥提供参考。研究结果表明：在本试验施肥量及有机无机肥配比下，有机肥和化肥配施显著提高了棉花和油菜的产量，且以 $5 0 \\% \\mathrm { O M }$ 处理产量最高，各处理产量的顺序为 $5 0 \\% \\mathrm { O M } { > } 3 0 \\% \\mathrm { O M } { > } 1 0 \\% \\mathrm { O M } { > } \\mathrm { N P K } { > } \\mathrm { T F } { > } \\mathrm { C K } ($ 不施肥对照)；当有机氮施用量占总氮量的 $50 \\%$ 时 $( 5 0 \\% \\mathrm { O M }$ 处理)，棉花和油菜产量分别比NPK处理高 $2 4 . 5 2 \\% . 2 9 . 5 7 \\%$ ，比习惯施肥(TF)处理分别高 $4 6 . 0 3 \\%$ 和 $4 9 . 0 7 \\%$ 。同时，施用有机肥各处理作物产量的年际变化均不到 $20 \\%$ ，明显小于NPK、TF和CK处理，即施用有机肥不仅能促进旱地作物高产，同时也能保证其稳产。有机肥与化肥配施能增加土壤有机质、全氮、碱解氮和速效钾含量，且以 $5 0 \\% \\mathrm { O M }$ 处理效果最好，与试验前比较的增加幅度分别达 $5 7 . 5 \\%$ 、 $3 8 . 2 \\%$ 、$6 5 . 1 \\%$ 和 $4 8 . 1 \\%$ ；土壤有效磷含量有随施入磷素量的增加而增加趋势；而CK处理土壤有机质和养分含量则均呈逐年下降的趋势。各处理土壤有机质和养分含量(Y随试验年限 $( X )$ 的变化均可用方程式 $Y = a X + b$ 来表示。在洞庭湖区肥力较高的旱地土壤中，合理的有机肥和化肥施用比例对保障非粮作物高产稳产和耕地地力提升尤为重要，且本试验条件下当有机肥来源氮占总施氮量的 $50 \\%$ 时能获得最佳效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：棉花-油菜轮作；长期定位试验；有机肥和化肥配比；作物产量；土壤肥力中图分类号：S147.2;S153.6 文献标识码：A 文章编号:1671-3990(2017)05-0689-09",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Influence of different fertilization modes on soil fertility and crop yield in Dongting Lake upland areas ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Ge1,2, TANG Chunchun],LI Zusheng1, HUANG Yunxiang², ZENG Xibai3\\* WEN Jiong1,GAO Xue4, ZHANG Qian ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.InstituteofYueyangAgriculturalSciences/Experimental StationofYueyangAgriculturalEnvironment,MinistryofAgriculture, Yueyang4140oo,China;2.CollegeofResourcesandEnvironment,HunanAgricultural University,Changsha410oo,China; 3.Institute ofEnvironment and Sustainable Agricultural Development, Chinese Academyof Agricultural Sciences,Beijing 100081,China; 4.Tibet Academy of Agricultural and Animal Husbandry, Lhasa 85oo02,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: An experiment was conducted under coton-rapeseed croprotation system in upland areas of Dongting Lake to determinetheeffectof different fertilization modesonsoilfertilityand cropyield.Thetreatmentsintheexperiment included nonefertilization(ontrol),onventionalfertilzation(F),formulafertilzation(NPK)anddiferentcombinationsofcheical and organic fertilizers ( $1 0 \\% \\mathrm { O M }$ $3 0 \\% \\mathrm { O M }$ and $5 0 \\% \\mathrm { O M }$ ,in which $10 \\%$ ， $30 \\%$ and $50 \\%$ of total $\\mathrm { ~ N ~ }$ was from organic fertilizer). Theresults indicatedthatcombined inorganicandorganicfertilizerapplicationgreatlyimprovedyieldsofcotonandrapeseed, with the highest yield under $5 0 \\% \\mathrm { O M }$ treatment. The order of yields from high to low was: $5 0 \\% \\mathrm { O M }$ ， $3 0 \\% \\mathrm { O M }$ ， $1 0 \\% \\mathrm { O M }$ ,NPK, TP and CK.The yields of cotton and rapeseed under $5 0 \\% \\mathrm { O M }$ were respectively $2 4 . 5 2 \\%$ and $2 9 . 5 7 \\%$ higher than those under TP and also $4 6 . 0 3 \\%$ and $4 9 . 0 7 \\%$ higher than those under NPK.The inter-annual variation in crop yields under organic fertilizer treatments was less than $20 \\%$ , which was obviously lower than those under TP, NPK and control. Organic fertilizer application not only improved crop yield, but also supported stable production. $5 0 \\% \\mathrm { O M }$ treatment increased soil organic matter, total N, alkali-hydrolyzable N and quick-acting K respectively by $5 7 . 5 \\%$ ， $3 8 . 2 \\%$ $6 5 . 1 \\%$ and $4 8 . 1 \\%$ over those before the experiment. Soil available $\\mathrm { ~ \\bf ~ P ~ }$ increased with increasing application of $\\mathrm { \\bf ~ P }$ fertilizer. However, soil organic matter and nutrient content decreased in control treatment. The linear equation $( y = \\mathbf { a } x + \\mathbf { b }$ ） well fitted the changes in soil organic matter and nutrient $( \\nu )$ with time $( x )$ .Reasonable application of organic plus inorganic fertilizers had significant potential to improve crop yield and soil fertility in upland soils in Dongting Lake area. The $5 0 \\% \\mathrm { O M }$ treatment showed the best effects under the experimental conditions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Cotton-rapeseedrotation;Long-termstaticexperiment;Organicpusinorganicfertilization;Cropyield;Soilertlity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "科学施肥是作物高产稳产和培肥土壤的重要保障，也是提高养分资源利用效率、促进农产品安全生产的重要前提[1-6]。长期定位试验因具有时间的长期性和气候的代表性，且其信息量较丰富等，能较系统揭示土壤肥力的演变、预测土壤的承载能力等，因而是土壤学相关研究中最经典的方法之一[1-3]。近年来，许多研究者报道了长期施用有机肥、化肥、有机无机肥配施等对土壤的培肥作用[7-10]，并认为长期施用化肥将可能导致耕地质量下降[11-12]，单施有机肥尽管能提高土壤有机质和养分含量、但因养分供应缓慢等诸多原因致使作物产量较低，有机无机肥配合施用则既能培肥土壤又能使作物高产稳产[13-16],这些研究结果为作物合理施肥和耕地质量培育等提供了有效支撑。但是，由于不同地区土壤气候条件及耕作栽培水平各异，因而在总施肥量、有机无机肥施用比例等方面也存在较大差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "尽管棉花(Gossypium spp.)和油菜(Brassica campestris)是我国南方地区最重要的经济作物之一，且棉花-油菜轮作也是洞庭湖平原等亚热带地区较典型的种植制度，但受诸多原因的影响，已有研究大多为水稻(Oryza sativa)-油菜、水稻-小麦(Triticumaestivum)、水稻-水稻或小麦-玉米(Zeamays)等以粮食作物生产为前提[17-18]，对以经济作物如棉花、油菜等为前提种植制度下的研究较少。基于此，笔者从2008年开始，在湖南省农业厅等的支持下，依托农业部岳阳农业环境科学观测实验站开展了棉花-油菜轮作模式下长期不同施肥配比下土壤肥力与作物产量变化的定位试验，探讨洞庭湖平原区种植面积最大、种植历史最长的2种典型旱地经济作物棉花和油菜轮作条件下，土壤有机质和氮磷钾等的变化及其对作物产量的影响，旨在为洞庭湖区旱地肥力提升、作物高产稳产提供相应支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验点自然条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定位监测试验点位于湖南省岳阳市的农业部岳阳农业环境科学观测实验站，为湖南省耕地质量监测点，地理坐标为： $1 1 3 ^ { \\circ } 5 ^ { \\prime } 1 5 ^ { \\prime \\prime } \\mathrm { E }$ ， $2 9 ^ { \\circ } 1 6 ^ { \\prime } 0 ^ { \\prime \\prime } \\mathrm { N }$ ，海拔高度约为 $4 0 \\ \\mathrm { m } ,$ 。监测点地处长江中游亚热带地区，年平均温度 $1 7 . 0 \\mathrm { ~ \\textdegree C }$ ，年平均降雨量 $1 ~ 4 0 0 ~ \\mathrm { \\ m m }$ ，全年日照时数 $1 ~ 7 2 2 { \\sim } 1 ~ 8 1 6 ~ \\mathrm { ~ h ~ }$ ，气候温暖温润，光照充足，雨量适宜。该地区旱地农作物主要类型为油菜、棉花和玉米，近年来棉花种植面积尽管有所减少，但仍占有较大比例。监测点土壤为洞庭湖沉积物发育的潮泥土，土壤质地为黏壤， $\\mathsf { p H } ~ 5 . 7$ ，有机质$1 9 . 3 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，全氮 $1 . 3 6 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，碱解氮 $1 1 9 . 6 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ 有效磷 $1 8 . 6 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ，速效钾 $5 8 . 3 9 \\mathrm { m g } \\mathrm { \\cdot k g } ^ { - 1 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据洞庭湖平原区旱地主要种植制度等情况，长期定位试验种植作物确定为所在地区种植历史悠久、且种植面积最大的两种旱地作物棉花和油菜，并采用一年两熟的方式，即春季种植棉花、秋季种植油菜。试验所用作物品种：油菜为‘湘油16 号',棉花为‘湘杂棉3号'，种子由岳阳市农业科学研究所提供。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按照湖南省农业厅要求并参考当地旱地的施肥习惯等，本试验设6个处理： $\\textcircled { 1 } \\mathrm { C K }$ (不施肥)； $\\textcircled{2} 1 0 \\% 0 \\mathrm { { M } }$ 0 $10 \\%$ 有机肥 $^ +$ 化肥)； $\\textcircled { 3 } 3 0 \\% \\mathrm { O M } ( 3 0 \\%$ 有机肥 $^ +$ 化肥)；$\\textcircled { 4 } 5 0 \\% \\mathrm { O M } ( 5 0 \\%$ 有机肥 $\\cdot ^ { + }$ 化肥)； $\\textcircled{5}$ 习惯施肥(TF)； $\\textcircled{6}$ 配方施肥(NPK)。试验各小区面积均为 $8 ~ \\mathrm { m } \\times 5 ~ \\mathrm { m }$ ，不设重复，小区间用水泥埂分隔。各处理施肥为：习惯施肥按照所在地区农民的习惯施肥用量，配方施肥、有机肥与化肥不同配施比例各处理均按照配方施肥方法确定氮磷钾养分施用量，且除习惯施肥和CK处理外各处理施用的养分量相等。有机肥与化肥不同施用比例处理系根据配方施肥处理的氮肥施用量，按照相应的比例折算成有机肥的施用量，并扣除有机肥中磷钾的量。各处理的养分施用量如表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/65c2cba27f32cf11cd70f2b88ceb612187740c9cf1a26c9baed63663286eafd0.jpg",
+        "table_caption": [
+            "表1试验各处理的养分施用量",
+            "Table 1Nutrient application rates in different treatments ",
+            "kg·hm-2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">作物 Crop</td><td rowspan=\"2\">处理 Treatment</td><td rowspan=\"2\"></td><td colspan=\"4\">有机肥养分量 Organic fertilizer</td><td colspan=\"3\">化肥养分量 Chemical fertilizer</td></tr><tr><td>实物量 Fertilizer</td><td>N</td><td>P</td><td>K</td><td>N</td><td>P</td><td>K</td></tr><tr><td>棉花 Cotton</td><td>CK</td><td>不施肥 No fertilization</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td rowspan=\"10\">油菜</td><td>10%OM</td><td>有机肥来源氮占配方肥总氮量的10% 10% of total Nis from organic fertilizer</td><td>843.00</td><td>42.00</td><td>10.50</td><td>7.50</td><td>378.00</td><td>94.50</td><td>237.00</td></tr><tr><td>30%OM</td><td>有机肥来源氮占配方肥总氮量的30% 30% of total N is from organic fertilizer</td><td>2 530.50</td><td>126.00</td><td>30.00</td><td>21.00</td><td>294.00</td><td>75.00</td><td>223.50</td></tr><tr><td>50%OM</td><td>有机肥来源氮占配方肥总氮量的50% 50% of total Nis from organic fertilizer</td><td>4 216.50</td><td>210.00</td><td>49.50</td><td>34.50</td><td>210.00</td><td>55.50</td><td>210.00</td></tr><tr><td>TF</td><td>习惯施肥 Conventional fertilization</td><td>1 252.50</td><td>63.00</td><td>15.00</td><td>10.50</td><td>249.00</td><td>27.00</td><td>75.00</td></tr><tr><td>NPK</td><td>配方施肥 Chemical fertilization</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>420.00</td><td>105.00</td><td>244.50</td></tr><tr><td>CK</td><td>不施肥No fertilization</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>10%OM</td><td>有机肥来源氮占配方肥总氮量的10% 10% of total N is from organic fertilizer</td><td>147.00</td><td>7.35</td><td>1.65</td><td>1.20</td><td>66.15</td><td>16.35</td><td>55.80</td></tr><tr><td>30%OM</td><td>有机肥来源氮占配方肥总氮量的30% 30% of total N is from organic fertilizer</td><td>441.00</td><td>22.05</td><td>5.10</td><td>3.60</td><td>51.45</td><td>12.90</td><td>53.40</td></tr><tr><td>50%OM</td><td>有机肥来源氮占配方肥总氮量的50% 50% of total N is from organic fertilizer</td><td>735.00</td><td>36.75</td><td>8.55</td><td>6.00</td><td>36.75</td><td>9.45</td><td>51.00</td></tr><tr><td>TF</td><td>习惯施肥 Conventional fertilization</td><td>700.50</td><td>34.50</td><td>7.50</td><td>6.00</td><td>36.00</td><td>21.00</td><td>40.50</td></tr><tr><td>NPK</td><td></td><td>配方施肥 Chemical fertilization</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>73.50</td><td>18.00</td><td>57.00</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各处理所用肥料的种类为：有机肥用菜饼，氮肥为尿素、磷肥为过磷酸钙、钾肥为氯化钾。不同作物养分的基、追肥施用比例参照当地习惯进行，油菜中有机肥和磷肥的全部、氮素的 $2 5 \\%$ 和钾素的$50 \\%$ 作为基肥施用，并在整地时一同施入土壤中，其余部分则作为追肥兑水施用到作物根部附近；棉花同样按照有机肥和磷肥的全部、氮素的 $2 5 \\%$ 和钾素的 $50 \\%$ 作为基肥施用，并在整地时一同施入土壤中，其余部分则作为花铃肥兑水施用到作物根部附近。作物生长期间的田间管理与当地普通大田一致。两种作物的育苗与移栽时间分别为：棉花于每年4月中旬育苗，5月中旬移栽，10月下旬收获；油菜于每年9月下旬育苗，11月初移栽，翌年5月初收获。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 取样和分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每年每季作物成熟后各处理单收，取样考种测定相应经济产量。于每年棉花收获后，在每个小区随机选取5个取样点，采集 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 耕层土样，风干，分别过 $1 \\mathrm { m m }$ 和 $0 . 2 5 ~ \\mathrm { m m }$ 筛，用于测定土壤有机质和养分含量等理化性质。土壤有机质含量用重铬酸钾容量法，全氮用凯氏法，碱解氮用扩散法，速效磷用Olsen法，速效钾用 $\\mathrm { 1 \\ m o l { \\cdot } L ^ { - 1 } N H _ { 4 } O A c }$ 浸提-火焰光度法[19]分别测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据统计与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用MicrosoftExcel处理数据和作图，用SPSS17.0 软件进行统计分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同施肥处理作物产量变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2为不同施肥处理下油菜和棉花产量变化。由表中可知， $1 0 \\% \\mathrm { O M }$ 、 $3 0 \\% \\mathrm { O M }$ 、 $5 0 \\% \\mathrm { O M }$ 处理的棉花多年平均产量分别是 NPK 处理的 $1 1 4 . 1 \\%$ /$1 1 2 . 9 \\% . 1 2 4 . 5 \\%$ ，分别是TF处理的 $1 3 3 . 9 \\% . 1 3 2 . 4 \\%$ $1 4 6 . 0 \\%$ ，分别是CK处理的 $4 7 5 . 9 \\% . 4 7 0 . 6 \\% . 5 1 9 . 2 \\%$ NPK处理是TF处理的 $1 1 7 . 3 \\%$ ,NPK和TF处理分别是CK处理的 $41 6 . 9 \\%$ 和 $3 5 5 . 5 \\text{‰}$ 不施肥处理棉花产量明显低于其他施肥处理，虽年际间有波动，但总体呈下降趋势，从2008年到2012年降幅达 $4 8 . 3 \\text{‰}$ 所有施肥处理棉花产量都呈增加趋势，其中NPK处理棉花产量前两年增长较快，随着试验的延长，其产量增长停滞并呈下降趋势。施用有机肥处理中，$5 0 \\% \\mathrm { O M }$ 处理 2012 年较 2008 年增加了 $7 3 . 2 \\%$ $3 0 \\% \\mathrm { O M }$ 处理则增加了 $60 . 7 \\%$ ， $1 0 \\% \\mathrm { O M }$ 处理增加了$56 . 2 \\%$ ，增加均快于TF的 $45 . 6 \\%$ 。施用有机肥处理不仅保持了较高的棉花产量，而且棉花产量年际间的变异系数也较低，说明有机肥与化肥配施能使棉花高产稳产，其中以 $5 0 \\% \\mathrm { O M }$ 处理为最佳施肥模式。TF处理产量仅高于CK处理而低于其他施肥处理，说明当地TF模式肥料结构和施肥量有待改善，经济效益不高。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b35da05620ff71e6938b7fb08849f37290536028bf0e2a6232e63c8c38cddc4.jpg",
+        "table_caption": [
+            "表2不同施肥处理油菜和棉花产量年际间的变化 [able 2Variations ofcoton and rapeseed yields under diferent fertilization treatments in different ye "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">作物 Crop</td><td rowspan=\"2\">处理 Treatment</td><td colspan=\"6\">产量Yield (kg·hm-2)</td><td rowspan=\"2\">变异系数 CV (%)</td></tr><tr><td>2008</td><td>2009</td><td>2010</td><td>2011</td><td>2012</td><td>均值 Mean</td></tr><tr><td>棉花 Cotton</td><td>CK</td><td>531.0</td><td>450.0</td><td>270.0</td><td>360.0</td><td>274.5</td><td>377.1</td><td>30.0</td></tr><tr><td rowspan=\"10\"></td><td>10%OM</td><td>1 312.5</td><td>1 750.5</td><td>2 017.5</td><td>1 842.0</td><td>2 050.5</td><td>1 794.6</td><td>16.5</td></tr><tr><td>30%OM</td><td>1323.0</td><td>1 645.5</td><td>2 095.5</td><td>1 683.0</td><td>2 125.5</td><td>1 774.5</td><td>19.0</td></tr><tr><td>50%OM</td><td>1 342.5</td><td>1 999.5</td><td>2 227.5</td><td>1 894.5</td><td>2 325.0</td><td>1 957.8</td><td>19.6</td></tr><tr><td>TF</td><td>945.0</td><td>1 150.5</td><td>1 750.5</td><td>1 482.0</td><td>1 375.5</td><td>1340.7</td><td>23.0</td></tr><tr><td>NPK</td><td>978.0</td><td>1 453.5</td><td>1875.0</td><td>1 879.5</td><td>1 675.5</td><td>1 572.3</td><td>23.9</td></tr><tr><td>CK</td><td>642.0</td><td>543.0</td><td>420.0</td><td>304.5</td><td>303.0</td><td>442.5</td><td>33.7</td></tr><tr><td>10%OM</td><td>1 650.0</td><td>1 594.5</td><td>1 155.0</td><td>1 387.5</td><td>1 639.5</td><td>1 485.3</td><td>14.3</td></tr><tr><td>30%OM</td><td>1 635.0</td><td>1 486.5</td><td>1005.0</td><td>1 375.5</td><td>1 693.5</td><td>1 439.1</td><td>19.0</td></tr><tr><td>50%OM</td><td>1 642.5</td><td>1 599.0</td><td>1 096.5</td><td>1 393.5</td><td>1 767.0</td><td>1 499.7</td><td>17.5</td></tr><tr><td>TF</td><td>1 425.0</td><td>1 224.0</td><td>724.5</td><td>787.5</td><td>870.0</td><td>1006.2</td><td>30.2</td></tr><tr><td></td><td>NPK</td><td>1488.0</td><td>1 452.0</td><td>769.5</td><td>1000.5</td><td>1 077.0</td><td>1 157.4</td><td>26.5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表2可知，试验期间各处理油菜产量高低顺序依次为： $5 0 \\% \\mathrm { O M } { > } 1 0 \\% \\mathrm { O M } { > } 3 0 \\% \\mathrm { O M } { > } \\mathrm { N P K } { > } \\mathrm { T F } { > }$ $\\mathrm { C K } _ { \\circ }$ $1 0 \\% \\mathrm { O M }$ 、 $3 0 \\% \\mathrm { O M }$ 、 $5 0 \\% \\mathrm { O M }$ 处理的油菜产量分别是NPK处理的 $12 8 . 3 \\%$ 、 $12 4 . 3 \\%$ 、 $12 9 . 6 \\%$ ，TF的 $1 4 7 . 6 \\%$ 、 $143 . 0 \\%$ 、 $1 4 9 . 0 \\%$ ，CK处理的 $3 3 5 . 7 \\% .$ $32 5 . 2 \\%$ / $3 3 8 . 9 \\%$ ,NPK处理是TF处理的 $1 1 5 . 0 \\%$ ，而NPK和TF处理分别是CK处理的 $2 6 1 . 6 \\%$ 和 $2 2 7 . 4 \\text{‰}$ （204号无肥区的油菜产量呈逐年下降趋势，施肥处理在2008—2010 年间呈下降趋势，2010—2012年间呈上升趋势，年际间差异变化较大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2的结果还显示，历年无肥区产量均明显低于施肥处理，说明施肥对作物增产的重要作用。NPK肥与TF处理棉花和油菜产量差异均较小，且都高于无肥区低于有机肥与化肥配施处理，在有机肥与化肥配施模式中，本试验条件下以 $5 0 \\% \\mathrm { O M }$ 处理为产量最高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 不同施肥处理土壤有机质和全氮含量变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1为土壤有机质含量变化。由图中可知，有机肥与化肥配施处理及TF处理的土壤有机质含量呈上升趋势，NPK处理总体呈先升后降趋势，CK处理总体呈下降趋势；土壤有机质含量随有机肥施入量的增加而增高，各施肥处理的有机质含量均值高低依次为： $5 0 \\% \\mathrm { O M } { > } 3 0 \\% \\mathrm { O M } { > } \\mathrm { T F } { > } 1 0 \\% \\mathrm { O M } { > } \\mathrm { N P K }$ ，表明施肥模式不同对土壤有机质含量有很大影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e52f21a1de9b373643e3ae931c2d04159e6b24497a9cb7fd706d44c6cc86fa9.jpg",
+        "img_caption": [
+            "图12008—2012年不同施肥处理土壤有机质含量的变化",
+            "Fig.1Variations of organic matter contents in soils under different fertilization treatments from 2oo8 to 2012 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2012年土壤有机质含量与2008年比较，无肥区降低了 $0 . 4 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，下降 $2 . 1 \\%$ ，呈缓慢下降。分析认为，油菜-棉花轮作及作物根茬残留在一定程度上能改善土壤结构、培肥土壤，使土壤有机质保持在一定水平。NPK处理尽管未施有机肥，但由于有一定量根茎叶等有机物回归土壤，土壤有机质含量略有上升，2012年较2008年增加 $2 . 2 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，增加了 $1 1 . 4 \\text{‰}$ 有机肥与化肥配施处理有机质增加明显，到2012年，$5 0 \\% \\mathrm { O M }$ 、 $3 0 \\% \\mathrm { O M }$ 、TF和 $1 0 \\% \\mathrm { O M }$ 处理有机质分别增加了 $1 1 . 1 ~ \\mathrm { g } \\mathrm { \\cdot k g } ^ { - 1 }$ 、 $9 . 8 \\ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 、 $6 . 6 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ 、 $6 . 4 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，增幅分别为 $5 7 . 5 \\%$ 、 $50 . 8 \\%$ 、 $34 . 2 \\%$ 、 $3 3 . 2 \\%$ 。根据图中相关数据，可以求出不同处理下土壤有机质含量$( \\nu )$ 随施肥年限 $( x )$ 变化的关系分别为： $1 0 \\% \\mathrm { O M }$ 处理$y { = } 1 . 5 0 x { + } 1 8 . 5 8$ $( R ^ { 2 } { = } 0 . 8 5 1 ~ 4 _ { , }$ ）， $3 0 \\% \\mathrm { O M }$ 处理 $y { = } 2 . 1 4 x +$ 18.74 $\\scriptstyle ( R ^ { 2 } = 0 . 8 6 4 \\ 9$ ), $5 0 \\% \\mathrm { O M }$ 处理 $y { = } 2 . 4 2 x { + } 1 8 . 9 6$ $( R ^ { 2 } =$ 0.8401)，表明土壤有机质增幅大小与有机肥施用量高低呈正比。TF 处理 $y { = } 1 . 4 6 x { + } 1 8 . 8 2$ $( R ^ { 2 } { = } 0 . 8 5 5 ~ 4 )$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NPK处理和CK则没有显著相关性。根据前述相互关系，可以求出各处理土壤有机质年均增加量分别为$1 0 \\% \\mathrm { O M }$ 处理 $1 . 5 0 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 、 $3 0 \\% \\mathrm { O M }$ 处理 $2 . 1 4 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 、$5 0 \\% \\mathrm { O M }$ 处理 $2 . 4 2 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 、TF处理 $1 . 4 6 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，即各处理土壤有机质年均增加量随有机肥施用比例的提高呈增加的趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2为不同处理下土壤全氮含量变化。2008—2012年各处理全氮含量均值大小依次为： $5 0 \\% \\mathrm { O M } >$ $3 0 \\% \\mathrm { O M } { > } \\mathrm { T F } { > } 1 0 \\% \\mathrm { O M } { > } \\mathrm { N P K } { > } \\mathrm { C K }$ ， $5 0 \\% \\mathrm { O M }$ 处理的全氮含量均值分别高出 $1 0 \\% \\mathrm { O M }$ 、NPK和CK处理$1 4 . 2 9 \\%$ 、 $2 2 . 2 2 \\%$ 和 $2 5 . 7 1 \\%$ ， $3 0 \\% \\mathrm { O M }$ 处理分别高出NPK和CK处理 $1 8 . 0 6 \\%$ 和 $21 . 4 3 \\text{‰}$ 到2012年，无肥区全氮含量降低 $0 . 0 9 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，下降 $6 . 6 \\%$ ，这可能与无肥区生物产量低，收获量少和自然补给氮素不足有关。NPK处理的全氮含量5年后仅增加 $0 . 0 5 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，呈稳定状态。 $5 0 \\% \\mathrm { O M }$ 、 $3 0 \\% \\mathrm { O M }$ 、 $1 0 \\% \\mathrm { O M }$ 处理5年内分别增加 $0 . 5 2 ~ \\mathrm { g } \\mathrm { \\cdot k g } ^ { - 1 }$ / $0 . 4 8 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 和 $0 . 1 8 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，增幅分别为 $3 8 . 2 \\%$ 、 $3 5 . 3 \\%$ 、 $1 3 . 2 \\%$ ，表明有机肥施用量增多，土壤全氮含量相应提高。对相关结果进行相关性分析，发现 $3 0 \\% \\mathrm { O M }$ 处理下土壤全氮含量 $( \\nu )$ 与试验年限 $( x )$ 变化可用方程式表示为： $y { = } 0 . 1 1 x { + } 1 . 3 7$ （204号 $( R ^ { 2 } { = } 0 . 6 6 0 ~ 7 )$ ，通过该方程式计算，该处理下土壤全氮含量年均每年增加量为 $0 . 1 1 ~ \\mathrm { g } \\mathrm { \\cdot k g } ^ { - 1 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c4b8233c535fb6b3c92da6bd7c419b95b729120e97dfb0bc7111f5d6f12bf25.jpg",
+        "img_caption": [
+            "图2 2008—2012年不同施肥处理土壤全氮含量的变化Fig.2 Variations of total nitrogen contents in soils under dif-ferent fertilizationtreatments from 20o8 to 2012"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图1和图2可知，有机质的含量与全氮呈现高度的一致性。连续5年来，不同处理之间土壤有机质的变化与全氮表现出相同的趋势，土壤全氮含量随着有机肥施用量的增加而上升，等量施肥条件下，施用有机肥处理的土壤全氮含量明显高于NPK和不施肥处理。不施肥处理土壤有机质和全氮基本保持在较低的水平，呈缓慢下降趋势。本试验原土壤C/N值为8.2试验5年后TF处理的土壤C/N值为10.2，有机肥与化肥配施处理( $5 0 \\% \\mathrm { O M }$ ！ $3 0 \\% \\mathrm { O M }$ /$1 0 \\% \\mathrm { O M }$ 均值)的土壤C/N 值为 9.4，NPK处理土壤",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C/N 值为8.8，不施肥处理土壤C/N值为8.6。结合各处理土壤有机质和全氮含量的变化，尽管不同处理土壤C/N 值略有提高，但相互之间差异较小，但也说明，有机肥与化肥配施比NPK能更明显补充土壤有机质，提高土壤对作物的供肥能力，同时又可通过调节土壤与肥料养分的释放强度与速率，使作物在整个生育阶段得到均衡的矿质营养。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 不同施肥处理土壤速效养分含量变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "氮是土壤中最活跃的营养元素之一，碱解氮含量的高低在一定程度上可以反映出土壤氮素供应强度的大小[5]。从图3可以看出，CK 处理的土壤碱解氮含量呈下降趋势，5年内降低了 $8 . 0 \\%$ ，施肥处理均有不同程度的上升。2008一2010 年NPK处理土壤碱解氮含量上升最快，增幅为 $3 9 . 2 \\%$ ，有机肥与化肥配施处理则增长较为缓慢；2011年后，NPK处理的土壤碱解氮含量增长减缓，有机肥与化肥配施处理则快速上升；到2012年，有机肥与化肥配施( $10 \\%$ OM、 $3 0 \\% \\mathrm { O M }$ 、 $5 0 \\% \\mathrm { O M } )$ 处理土壤碱解氮含量增加$6 1 . 2 { \\sim } 7 7 . 9 \\ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ，增幅为 $5 1 . 2 \\% { \\sim } 6 5 . 1 \\%$ ; NPK处理提高了 $5 9 . 7 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ，增幅为 $4 9 . 9 \\%$ ；TF 处理量增加了 $4 4 . 4 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ，增幅为 $3 7 . 1 \\% _ { \\textmd c }$ ，试验5年后有机肥与化肥配施处理土壤碱解氮含量增幅最大，NPK其次，TF增幅在施肥处理中增幅最小，无肥区处理呈逐渐降低的变化趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/04cf2cac00889e84270391e4f889f16198783e1d422c29020757cfe51182cebc.jpg",
+        "img_caption": [
+            "图32008—2012年不同施肥处理土壤碱解氮含量的变化",
+            "Fig.3Variations of alkali-hydrolyzable nitrogen contents in soilsunder different fertilization treatments from 2oo8 to 2012 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对图中的不同施肥年限 $( x )$ 与土壤碱解氮含量 $( \\nu )$ 做回归分析可知， $1 0 \\% \\mathrm { O M }$ 处理为： $y = 1 6 . 2 8 x + 9 9 . 6 2$ $( R ^ { 2 } { = } 0 . 9 7 6 ~ 5 )$ ，表明 $1 0 \\% \\mathrm { O M }$ 处理碱解氮年均增加量为 $1 6 . 2 8 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ ：， $3 0 \\% \\mathrm { O M }$ 处理为 $y = 1 8 . 7 8 x + 9 7 . 9 4$ （20（24号 $\\scriptstyle ( R ^ { 2 } = 0 . 9 7 9 9 )$ )，年均增加量为 $1 8 . 7 8 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ： $5 0 \\% \\mathrm { O M }$ 处理为： $y { = } 2 1 . 3 1 x { + } 9 7 . 9 3$ ? $\\scriptstyle ( R ^ { 2 } = 0 . 9 6 3 \\ 3$ )，年均增加量为 $2 1 . 3 1 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ ；TF处理为： $y { = } 1 2 . 0 8 x { + } 1 0 4 . 4 8$ （20$\\scriptstyle ( R ^ { 2 } = 0 . 9 7 1 \\ 8$ )，年均增加量为 $1 2 . 0 8 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ ； NPK 处理为： $y = 1 5 . 6 5 x + 1 0 9 . 6 3$ 1 $\\scriptstyle ( R ^ { 2 } = 0 . 9 1 4 \\ 0 )$ ，年均增加量为$1 5 . 6 5 ~ \\mathrm { \\ m g ^ { \\cdot } k g ^ { - 1 } }$ 。无肥区处理回归方程的相关系数 $R ^ { 2 }$ 值低于方程可信度值 $\\phantom { - } 0 . 6 5 8 \\ : 0$ 。这表明，有机肥与化肥配施处理土壤碱解氮年均增加量大于NPK处理大于TF 处理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "磷素在土壤中迁移能力较弱，在土壤中容易富集。由图4可知，CK处理的土壤有效磷含量呈逐年下降趋势，从2008年的 $1 8 . 6 5 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ 下降到2012年的 $6 . 3 \\ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ，降幅达 $6 6 . 2 \\%$ 。施肥处理的土壤有效磷含量呈平缓上升。试验前4年，NPK处理有效磷含量是施肥处理的最大值，第5年低于 $5 0 \\% \\mathrm { O M }$ 处理。施用化肥在短时期内能较快速地增加土壤有效磷含量，但随着试验的持续，其和有机肥与化肥配施之间的差距逐渐缩小并被超赶。土壤有效磷含量因施入磷肥量的增加而增加， $1 0 \\% \\mathrm { O M }$ 、 $3 0 \\% \\mathrm { O M }$ 1$5 0 \\% \\mathrm { O M }$ 和TF处理土壤有效磷增长趋势基本相似，相互之间差异微小。对图中的施肥年限 $( x )$ 与土壤有效磷含量 $( \\nu )$ 做回归分析可知, $1 0 \\% \\mathrm { O M }$ 处理为： $\\scriptstyle { y = 0 . 9 4 x + }$ 18.07 $\\left( R ^ { 2 } { = } 0 . 8 4 7 \\ 6 \\right)$ ，其年均增加量为 $0 . 9 4 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ $3 0 \\% \\mathrm { O M }$ 处理为： $y { = } 1 . 1 0 x { + } 1 7 . 5 4$ 1 $( R ^ { 2 } { = } 0 . 8 8 0 \\ 7 )$ ，年均增加量为 $1 . 1 0 \\mathrm { m g ^ { . } k g ^ { - 1 } }$ · $5 0 \\% \\mathrm { O M }$ 处理: $y { = } 1 . 5 3 x { + } 1 6 . 7 8$ （204号 $\\scriptstyle ( R ^ { 2 } = 0 . 8 7 9 \\ 1 _ { . }$ )，年均增加量为 $1 . 5 3 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ; TF处理为：$y { = } 1 0 . 7 0 x { + } 1 7 . 2 0$ 1 $\\scriptstyle ( R ^ { 2 } = 0 . 6 3 5 \\ 0 )$ )，相关系数不高；NPK处理为： $y { = } 1 . 2 3 x { + } 1 8 . 2 1$ ? $scriptstyle ( R ^ { 2 } = 0 . 7 3 3 5 )$ )，年均增加量为$1 . 2 3 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ; CK处理为: $y { = } { - } 2 . 9 9 x { + } 2 0 . 9 8$ 0 $\\scriptstyle ( R ^ { 2 } = 0 . 9 8 7 2 )$ ），年均减少量为 $2 . 9 9 \\ \\mathrm { \\ m g { \\cdot } k g ^ { - 1 } }$ 。通过以上分析可知，土壤有效磷年际间每年的增加量 $5 0 \\% \\mathrm { O M }$ 处理 $: > \\mathrm { N P K }$ 处理 $! { > } 3 0 \\% \\mathrm { O M }$ 处理 $\\mathrm { \\lvert { > } 1 0 \\% O M }$ 处理，而无肥区逐年下降。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0da3714752f844b414d48aa0e1629f0e6e3528ab39b262a3fcfaed3045614f33.jpg",
+        "img_caption": [
+            "图42008—2012年不同施肥处理土壤有效磷含量的变化",
+            "Fig.4Variations of available phosphorus contents in soils under different fertilization treatments from 2oo8 to 2012 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图5表示不同处理下土壤速效钾含量变化。从图中可知，CK处理的土壤速效钾含量降低，5年内下降了 $1 5 . 9 \\%$ ，施肥处理的土壤速效钾含量均呈不同程度的上升。5年内 $5 0 \\% \\mathrm { O M }$ 、 $3 0 \\% \\mathrm { O M }$ 、 $1 0 \\% \\mathrm { O M }$ 和",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TF 处理土壤速效钾平均分别提高了 $1 7 . 8 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 、$1 5 . 7 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 、 $1 5 . 4 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 和 $1 1 . 6 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ,NPK 处理提高了 $1 5 . 3 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ，各施肥处理间增幅差异不大，以 $5 0 \\% \\mathrm { O M }$ 处理最高、增幅为 $4 8 . 1 \\text{‰}$ 对图中各处理土壤速效钾含量 $( \\nu )$ 随试验年限 $( x )$ 的变化进行回归分析， $1 0 \\% \\mathrm { O M }$ 处理为: $y = 7 . 0 2 x + 5 2 . 7 2$ 1 $( R ^ { 2 } { = } 0 . 8 8 0 \\ 7 )$ ），速效钾年均增加量为 $7 . 0 2 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ · $3 0 \\% \\mathrm { O M }$ 处理为：$y { = } 6 . 9 5 x { + } 5 3 . 2 2$ $( R ^ { 2 } { = } 0 . 9 1 8 2 )$ ，求得速效钾年均增加量为 $6 . 9 5 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ ： $5 0 \\% \\mathrm { O M }$ 处理为： $y = 7 . 4 6 x + 5 3 . 8 3$ （204号 $\\scriptstyle ( R ^ { 2 } = 0 . 9 1 0 5 )$ ，速效钾年均增加量为 $7 . 4 6 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ； TF处理为： $y = 4 . 6 6 x + 5 6 . 0 1$ 1 $\\scriptstyle ( R ^ { 2 } = 0 . 9 8 0 \\ 2$ )，速效钾年均增加量为 $4 . 6 6 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ ；NPK 处理为： $y { = } 5 . 9 6 x { + } 5 5 . 8 0$ $( R ^ { 2 } { = } 0 . 8 1 8 \\ 7 )$ ，可求得速效钾的年均增加量为5.96$\\mathrm { m g \\cdot k g ^ { - 1 } }$ 。通过以上回归方程分析可知，土壤速效钾年均增加量 $5 0 \\% \\mathrm { O M }$ 处理 ${ > } 1 0 \\% \\mathrm { O M }$ 处理 ${ . > } 3 0 \\% \\mathrm { O M }$ 处理 $! { > } \\mathrm { N P K }$ 处理，无肥区逐年下降。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/dac19ced0d00839360b413edad9f472f169aa1b5d49ec5359746e7eabe5d23a4.jpg",
+        "img_caption": [
+            "图52008—2012年不同施肥土壤速效钾含量的变化Fig.5Variations of available potassium contents in soils un-der different fertilization treatments from 2oo8 to 2012"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 施肥对旱地非粮食作物产量的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "作物产量是土壤肥力、气候条件及人为管理措施等因素的综合表现[20]，而施肥则是保证作物高产稳产的重要措施。已有长期定位试验结果表明，不论有机物料或化学肥料，对作物都具有良好的增产效果，且两者的增产效果不相上下；长期施用化肥能使禾谷类作物持续高产[21]，而有机肥和化肥长期配合施用更是作物稳产高产的可持续施肥模式[22]。本试验表明，尽管施肥均能在一定程度上提高棉花和油菜的产量，但不同施肥处理间差异较大，且在本试验条件下均以 $50 \\%$ 有机肥处理最高， $1 0 \\% \\mathrm { O M }$ 处理又高于 $3 0 \\% \\mathrm { O M }$ 处理，这说明油菜和棉花产量并非随有机肥比例增加而增加。同时，TF由于没有考虑土壤本身的养分供应状况和作物对养分的需要，因而在所有施肥处理中产量最低。显然，这种结果与以稻田种植制度为主的研究中[20-23]作物产量随有机肥施用比例增加而增加的趋势并非完全一致，且各施肥处理间平均产量的差异，特别是TF和NPK间的差异达到 $1 5 \\%$ 以上，同样大于以稻田为主的种植制度。这种结果说明，在洞庭湖区以棉花、油菜为主的种植制度下，农民对作物施肥的重视程度和合理性远低于稻田为主的种植制度，作物对施肥的响应较大，合理施肥对作物产量的增产量也较大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从本试验中不同处理作物产量的年际变化看，CK处理棉花产量到第5年时较初始年降低了 $4 8 . 3 \\%$ $5 0 \\% \\mathrm { O M }$ 、 $3 0 \\% \\mathrm { O M }$ 、 $1 0 \\% \\mathrm { O M }$ 和TF处理则分别增加$7 3 . 2 \\%$ 、 $60 . 7 \\%$ 、 $56 . 2 \\%$ 和 $45 . 6 \\%$ ，且施用有机肥的各处理棉花产量年际间的变异系数较小；NPK处理棉花产量前两年增长较快，但随着试验的延长，其产量增长停滞并呈下降趋势。CK处理油菜产量到第5年时降幅为 $5 2 . 8 \\%$ ；2008—2010年有机肥与化肥配施3个处理油菜产量降幅为 $3 0 . 0 \\% { \\sim } 3 8 . 5 \\%$ ，NPK 和TF处理降幅分别为 $4 8 . 3 \\%$ 和 $4 9 . 2 \\%$ ；2010—2012年有机肥与化肥配施3个处理油菜产量增幅为 $4 1 . 9 \\% \\sim$ $6 8 . 5 \\%$ ，NPK处理增幅为 $4 0 . 0 \\%$ ，TF则为 $20 . 1 \\%$ 。油菜和棉花产量的这种年际变化，在一定程度上是受天气的影响所致，如2010年试验点在油菜生长中后期遇低温阴雨天气，使油菜荚不能正常发育，导致单产降低；2011年试验点较往年降水提前、降水强度大，导致棉花8月中旬开始发生烂铃和蕾铃脱落，平均剥烂铃在 $3 5 0 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 以上，是5年来单株成铃数最低的年份。上述棉花和油菜产量的年际变化呈现出两个特点：1)在同等气候影响下，无论是每年单产、还是作物增产幅度比较，均为有机肥与化肥配施高于NPK、又高于TF，以CK 处理最低；2)在 TF或 NPK处理下，不同年际间棉花油菜产量的变化幅度远大于以稻田为主耕作制下的作物产量变化。这种结果说明，有机肥和化肥配合施用在对棉花、油菜具有良好增产效果前提下，也使作物产量的稳定性有了更大的提高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 施肥对旱地土壤有机质和养分含量的影响 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "长期施用有机肥和化肥对土壤有机质的影响，因土壤类型、肥料种类和作物轮作方式等而异，有研究表明[24-25]，长期不施肥导致土壤有机质含量下降。施用化肥在促进作物生长和提高产量的同时，也增加了存留在土壤中的根茬量，因而也可一定程度上提高土壤有机质含量。施用有机肥可提高土壤有机质含量或使其保持在较高水平。对南方亚热带地区而言，根据相关长期定位试验结果[15,21,24]，常规施肥量下双季稻田的有机质含量维持在 $3 0 { \\sim } 3 6 ~ \\mathrm { g { \\cdot } k g ^ { - 1 } }$ ，水旱轮作下则维持在 $2 5 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 。而根据本试验的结果，TF时土壤有机质保持在 $2 3 . 2 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 、NPK处理保持在 $2 1 . 7 \\ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 、有机肥与化肥配施处理亦仅 $2 4 . 9 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 左右，总体看低于双季稻和水旱轮作，说明耕地的水分状况对有机质含量具有较重要的影响。不同有机无机肥施用比例比较，很显然以有机肥施用比例较高，即用量较大时土壤有机质的增加速度较快，说明有机肥的投入能在一定程度上促进土壤有机质的提升，且其提升速度与有机肥投入量密切相关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据本研究的结果，连续5年不施肥处理土壤全氮含量下降，说明在试验所处农田生态条件下，依靠自然途径输入的氮素很难补充作物所吸收带走的氮量[26-28]。NPK处理土壤全氮含量比试验前增加了 $3 . 7 \\%$ ,TF处理土壤全氮含量比试验前增加了 $8 . 1 \\%$ 有机肥与化肥配施处理土壤全氮 $5 0 \\% \\mathrm { O M }$ / $3 0 \\% \\mathrm { O M }$ $1 0 \\% \\mathrm { O M }$ 均值)比试验前增加了 $2 8 . 9 \\%$ ，尽管不同处理间差异较大，但至少说明本试验设计的氮素投入是基本合理的，且这种结果与相关研究是一致的[26-28]。与单施化肥相比，施用有机肥提高土壤氮素的效果更加明显，再次证明有机肥与化肥配施能促进土壤氮素的积累，对提高土壤肥力具有积极的作用。本研究中，CK处理土壤碱解氮、有效磷、速效钾含量均不同程度下降，而各施肥处理的相应含量均有不同程度的上升，进一步说明了施肥对提高土壤养分含量的重要性。由于化肥氮在土壤中很快转化为NH4和 NO3，并可能导致氨挥发和硝酸盐淋失[26,29],因此，化肥氮在土壤中的存留较少，而有机氮因矿化缓慢等原因，在土壤中更易存留[28-29]。此外，本试验中不同施肥处理下土壤速效氮磷钾含量的变化，其增加幅度均远小于在同等条件下以稻田为主耕作制度下的增加量，可能与旱作条件下土壤养分有效性较低、旱作对养分的需要量更大等有关，但相关趋势及机理尚待进一步研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1)施肥能显著提高油菜和棉花产量，其中有机肥与化肥配施下的棉花和油菜的产量高于NPK和TF处理，且以 $5 0 \\% \\mathrm { O M }$ 处理的产量最高，不施肥处理的油菜和棉花产量逐年下降。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2)有机肥与化肥配施能提高土壤有机质、全氮、速效钾和碱解氮的含量，且亦以 $5 0 \\% \\mathrm { O M }$ 处理的效果最好，土壤有效磷含量与磷素的投入量呈正相关而不施肥处理则土壤养分含量均呈下降趋势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3)根据本试验结果，洞庭湖区现有农业生产条件下棉花和油菜轮作时，采用有机肥与化肥配合施用能获得较好的效果，建议有机肥的施用量为总养分量的 $50 \\%$ 左右。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References   \n[1］沈善敏．长期土壤肥力试验的科学价值[J]．植物营养与肥 料学报,1995,1(1):1-9 Shen $\\mathrm { ~ \\bf ~ S ~ M ~ }$ . The scientific value of long-term soil fertility experiment[J]. Plant Nutrition and Fertilizer Science,1995,1(1): 1-9   \n[2] 孙波，朱兆良，牛栋．农田长期生态过程的长期试验研究 进展与展望[J]．土壤,2007,39(6):849-854 Sun B, Zhu Z L,Niu D.Long-term experimental research on long-term ecological processes in agro-ecosystems: A review[J]. Soils,2007,39(6): 849-854   \n[3] Galantini J,Rosell R.Long-term fertilization effects on soil organic matter quality and dynamics under different production systems in semiarid Pampean soils[J]. Soil and Tillage Research,2006,87(1): 72-79   \n[4] Yang S M,LiF M,Suo DR,et al. Effect of long-term fertilization on soil productivity and nitrate accumulation in Gansu oasis[J].Agricultural Sciences in China, 20o6,5(1): 57-67   \n[5]徐祖祥．长期不同施肥对作物产量和土壤肥力的影响[J]. 浙江农业科学,2007(4):439-441 $\\mathtt { X u } \\ Z \\ \\mathrm { X }$ .Effects of long-term different fertilizer or manure application on crop yield and soil fertility[J].Journal of Zhejiang Agricultural Science,2007(4): 439-441   \n[6] 张奇春，王光火．长期不同施肥下杂交稻与常规稻的产量 与土壤养分平衡[J]．植物营养与肥料学报，2006，12(3): 340-345 Zhang Q C,Wang G H. Yield of inbred rice and hybrid rice and soil nutrient balance under long-term fertilization[J]. Plant Nutrition and Fertilizer Science,2006,12(3): 340-345   \n[7]唐继伟，林治安，许建新，等．有机肥与无机肥在提高土壤 肥力中的作用[J].中国土壤与肥料,2006(3):44-47 Tang J W,Lin Z A,Xu JX,et al. Effect of organic manure and chemical fertilizer on soil nutrient[J].Soil and Fertilizer Sciences in China,2006(3): 44-47   \n[8]沈宏，曹志洪．长期施肥对不同农田生态系统土壤有效碳 库及碳素有效率的影响[J]．热带亚热带土壤科学，1998, 7(1): 1-5 Shen H,Cao Z H. Effect of long-term fertilization on soil available carbon pool and available ratio of soil carbon under different agroecosystems[J]. Tropical and Subtropical Soil Science,1998,7(1): 1-5   \n[9] Saleque M A,Abedin M J, Bhuiyan N I, et al. Long-term effects of inorganic and organic fertilizer sources on yield and nutrient accumulation of lowland rice[J]. Field Crops Research,2004,86(1): 53-65   \n[10] Ragasits I, Debreczeni K,Berecz K. Effect of long-term fertilisation on grain yield,yield components and quality parameters of winter wheat[J].Acta Agronomica Hungarica, 2000,48(2): 155-163 Sun H D,Zhu P, Liu S H,et al. The monitoring research of influence on fertility of black soil and crop yield by using organic and inorganic fertilizers[J]. Plant Nutrition and Fertilizer Science,2002,8(S1): 110-116   \n[12]汪建飞，邢素芝．农田土壤施用化肥的负效应及其防治对 策[J]．农业环境保护,1998,17(1):40-43 Wang JF, Xing S Z.Negative effects of application chemical fertilizerson farmland and the control measures[J]. Agro-Environmental Protection,1998,17(1): 40-43   \n[13]林治安，赵秉强，袁亮，等．长期定位施肥对土壤养分与作 物产量的影响[J]．中国农业科学,2009,42(8):2809-2819 Lin Z A,Zhao B Q, Yuan L,et al. Effects of organic manure and fertilizers long-term located application on soil fertility and crop yield[J]. Scientia Agricultura Sinica,20o9,42(8): 2809-2819   \n[14]石孝均，毛知耘，赵秉强，等．稻草还田对紫色水稻土肥力 及水稻产量影响的定位试验研究[J]．植物营养与肥料学报, 2002, 8(S1): 16-20 Shi X J,Mao Z Y, Zhao B Q,et al. On-site experimental study on the effects of rice straw returning on the fertility of pur plish paddy soil and rice yields[J].Plant Nutrition and Fertilizer Science,2002,8(S1): 16-20   \n[15]王胜佳，陈义，李实烨．多熟制稻田土壤有机质平衡的定 位研究[J].土壤学报,2002,39(1):9-15 Wang S J, Chen Y,Li S Y. Balance of soil organic matter in a long-term triple cropping system in paddy fields[J]. Acta Pedologica Sinica,2002,39(1): 9-15   \n[16]刘英，王允青，张祥明，等．种植紫云英对土壤肥力和水稻 产量的影响[J].安徽农学通报,2007,13(1):98-99 Liu Y,Wang Y Q, Zhang X M,et al. Effect of Chinese milk vetch planting on soil fertility and rice yield[J]. Anhui Agricultural Science Bulletin,2007,13(1): 98-99   \n[17]王开峰，王凯荣，彭娜，等．长期有机物循环下红壤稻田的 产量趋势及其原因初探[J]．农业环境科学学报,2007,26(2): 743-747 Wang KF,Wang KR,Peng N,et al. Yield trends and reasons for their change in red-soil rice field with long-term organic matter circling[J]. Journal of Agro-Environment Science, 2007,26(2): 743-747   \n[18]李慧，马常宝，鲁剑巍，等．中国不同区域油菜氮磷钾肥增 产效果[J]．中国农业科学,2013,46(9):1837-1847 Li H,Ma C B, Lu JW, et al. Increasing effect of N,P and K fertilizer on rapeseed in different regions of China[J]. Scientia Agricultura Sinica,2013,46(9): 1837-1847   \n[19]鲁如坤．土壤农业化学分析方法[M]．北京：中国农业科技 出版社,2000 Lu R K.Analytical Methods of Soil Agricultural Chemistry[M]. Beijing: Agricultural Science and Technology Press, 2000   \n[20]孙永健，杨志远，孙园园，等．成都平原两熟区水氮管理模 式与磷钾肥配施对杂交稻冈优725产量及品质的影响[J]. 植物营养与肥料学报,2014,20(1):17-18 Sun Y J,Yang Z Y, Sun Y Y,et al. Effects of water-nitrogen management patterns and phosphorus and potassium fertilizer combined application on grain yield and quality of hybrid rice Gangyou 725 in rapeseed (wheat)-rice planting area of Chengdu plain[J].Plant Nutrition and Fertilizer Science,2014, 20(1): 17-18   \n[21]张国荣，李菊梅，徐明岗，等．长期不同施肥对水稻产量及 土壤肥力的影响[J].中国农业科学,2009,42(2):543-551 Zhang GR,LiJM,Xu MG,et al.Effects of chemical fertilizer and organic manure on rice yield and soil fertility[J]. Scientia Agricultura Sinica,2009,42(2):543-551   \n[22]廖育林，郑圣先，聂军，等．长期施用化肥和稻草对红壤水 稻土肥力和生产力持续性的影响[J]．中国农业科学，2009, 42(10): 3541-3550 Liao YL, Zheng S X,Nie J,et al. Effects of long-term application of fertilizer and rice straw on soil fertility and sustainability of a reddish paddy soil productivity[J].Scientia Agricultura Sinica,2009,42(10):3541-3550   \n[23]黄欠如，胡峰，李辉信，等．红壤性水稻土施肥的产量效应 及与气候、地力的关系[J].土壤学报,2006,43(6):926-933 Huang QR,Hu F,Li HX,et al. Crop yield response to fertilization and its relations with climate and soil fertility in red paddy soil[J].Acta Pedologica Sinica,2006,43(6):926-933   \n[24]黄晶，高菊生，张杨珠，等．长期不同施肥下水稻产量及土 壤有机质和氮素养分的变化特征[J]．应用生态学报，2013, 24(7):1889-1894 Huang J,Gao JS,Zhang Y Z,et al. Change characteristics of rice yield and soil organic matter and nitrogen contents under various long-term fertilization regimes[J].Chinese Journal of Applied Ecology,2013,24(7):1889-1894 [25]吴乐知，蔡祖聪．基于长期试验资料对中国农田表土有机 碳含量变化的估算[J]．生态环境,2007,16(6):1768-1774 WuL Z,Cai Z C.Estimation of the change of topsoil organic carbon of croplands in China based on long-term experimental data[J].Ecology and Environment,2007,16(6):1768-1774 [26]王娜娜，黄庆海，徐明岗，等．长期不同施肥条件下红壤性 水稻土双季稻氮肥回收率的变化特征[J]．植物营养与肥料 学报,2013,19(2):297-303 Wang N N,Huang Q H,Xu M G,et al.The inter-annual characteristics of nitrogen recovery efficiency of double cropping rice system on paddy soil under long-term fertilization[J].Plant Nutrition and Fertilizer Science,2O13,19(2):   \n297-303 [27]蔡泽江，孙楠，王伯仁，等．长期施肥对红壤pH、作物产量 及氮、磷、钾养分吸收的影响[J]．植物营养与肥料学报,   \n2011,17(1): 71-78 Cai ZJ, Sun N,Wang BR,et al.Effects of long-term fertilization on pH of red soil,crop yields and uptakes of nitrogen, phosphorous and potassium[J].Plant Nutrition and Fertilizer Science,2011,17(1): 71-78 [28]沈善敏．氮肥在中国农业发展中的贡献和农业中氮的损失[J]. 土壤学报,2002,39(增刊):12-25 Shen S M.Contribution of nitrogen fertilizer to the development of agriculture and its loss in China[J].Acta Pedologica Sinica,2002,39(S1): 12-25 [29]RichterJ,Roelcke M.The N-cycle as determined by intensive agriculture - Examples from central Europe and China[J]. Nutrient Cycling in Agroecosystems,2000,57(1): 33-46 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,239 @@
+吴桐，闫毅，李永成，等．太阳闪烁下深空信道建模与电波传播特性分析[J]．电波科学学报,2015,30（3）：417-422.doi：10.13443/.cjors.2014060701WUTong，YANYi,Yongcheng，etal.DepspacecanelodelingandteanalysisofwavepropagationevomentcharacteristicsudersolarscintilationJ].ChineseJourmalofRadio Science,215,03):47-422.(inChinese)．doi:1013443/j.jors.2014060701
+
+# 太阳闪烁下深空信道建模与电波传播特性分析
+
+吴桐1,2,3 闫　毅²李永成」王春梅²姚秀娟²李　雪²（1.电子信息系统复杂电磁环境效应国家重点实验室，河南洛阳471003；2.中国科学院空间科学与应用研究中心，北京100190；3．中国科学院大学，北京100049）
+
+摘要当深空通信路径距太阳较近时，受太阳闪烁等电磁活动的影响，无线电波会受到严重干扰，导致传输误码率增高甚至通信中断.为了保持飞行器与地面或飞行器之间的正常通信，对深空信道传输特性进行研究.包括信号的幅度统计特性、信道的相干时间和相干带宽、太阳闪烁相对于地面多径及电离层闪烁的主要区别等，并建立了太阳闪烁下的深空信道模型，提出了一种选择进入非频率选择性慢衰落信道时间最久的信号带宽选择方法.仿真结果表明：在不同日张角特别是较小日张角下，使用该方法选出的信号带宽比使用其他信号带宽拥有更低的误码率.
+
+关键词 相干带宽；相干时间；衰落信道；信号带宽；太阳闪烁中图分类号 TN927 文献标志码 A 文章编号 1005-0388(2015)03-0417-06
+
+# Deep space channel modeling and the analysis of wave propagation environment characteristics under solar scintillation
+
+WU Tong1,2,3 YAN Yi1,2 LI Yongcheng' WANG Chunmei² YAO Xiujuan² LI Xue² (1.The State Key Lab.ofComplex Electromagnetic Enuironment Effects on Electronics and Information System，Luoyang Henan 47loo3，China; 2.Center for Space Science and Applied Research ，Chinese Academy of Sciences，Beijing 100l90，China; 3.University of Chinese Academy of Sciences，Beijing looo49，China)
+
+Abstract Abstract For deep space communication paths close to the sun causing solar scintillation of radio waves and increasing bit error rate（BER），the approach of choosing the signal bandwidth in the non-frequency selective and slow fading channel with maximum time was proposed. The deep space communication channel model was built based on Rician fading channel model. The statistical characteristics of the amplitude, the coherence time and the coherence bandwidth of the channel were used. The difference among solar scintillation，mobile multipath and ionosphere scintillation was compared.Based on the change of the coherence time and coherence bandwidth with solar $\mathrm { e ^ { - } }$ longation angle， the time-selective and frequency-selective characters were determined.
+
+Simulation results show that at different little solar elongation angle，especially the small one，the BER of the signal bandwidth chosen by the proposed approach is better than the BER of other signal bandwidth.
+
+Key wordscoherence bandwidth；coherence time； fading channel; signal bandwidth;solar scintillation
+
+# 引言
+
+深空探测器受到太阳闪烁的影响会导致通信误码率增高甚至通信中断，进而导致数据传输或测控通信失败.因此，对于有可能飞到太阳背面的探测器，使探测器、太阳、地球近似形成一条直线（即经历太阳“上合"过程)的深空探测任务，需要对太阳闪烁影响下的通信链路的效应进行研究.
+
+从20世纪70年代开始，美国国家航空航天局(National Aeronautics and Space Administration,NASA)在一系列深空探测活动中研究太阳闪烁下的深空通信链路性能，依靠许多探测器聚合时的实验[1-5]，获得了大量观测数据.Feria[6等人根据遥测数据统计特性并结合太阳探测器轨道的几何模型建立了无线电信号幅度起伏的模型，研究了弱太阳闪烁对通信链路的影响，主要考虑了闪烁指数和信道衰落持续时间，但未考虑时延扩展和频谱扩展.Morabit利用Cassini号的实测数据证实了Feria的统计模型的正确性，又分析了Cassini号获得的频谱扩展和相位闪烁数据，通过对比探测器实测数据、X光观测数据以及理论模型数据，证实了三者的一致性，但也未将频谱扩展等参数引入模型中.国内在这方面研究较为薄弱.由于电离层闪烁与太阳闪烁具有一定的相似性，所以参考电离层信道的建模有助于对太阳闪烁下的深空信道进行建模.Wongt-rairat[9等人建立了平坦电离层闪烁的衰落模型，考虑了幅度统计特性和频谱扩展，但未考虑时延扩展.薛永华[10]等人利用互相关函数建立了电离层信道模型，但其目的是为了雷达探测而不是数据传输，因此，未提出有效的降低误码率的方法.由于时延扩展和频谱扩展对通信系统的影响较为重要，因此，我们建立了同时考虑时延扩展和频谱扩展的太阳闪烁下深空通信信道模型，分析了信道的相干带宽和相干时间，依据日张角的变化提出了深空信号带宽的选择方法.
+
+# 深空通信信道建模
+
+太阳连续发出的太阳风和偶尔发生的日冕物质抛射等太阳事件，均是太阳粒子辐射影响电波传播的因素.这类行星际环境物质处于等离子体态，会使单频电磁波信号产生幅度闪烁、频谱扩展、相位闪烁等现象[4,11]，对有一定带宽的电磁波还产生时延扩展等现象.
+
+一般用闪烁指数来表示幅度闪烁的强弱.闪烁指数可以利用文献2中公式(8)进行计算.值得说明的是，虽然闪烁指数是利用弱闪烁近似方法推导得出的，但其在强太阳闪烁情况下依然与观测结果非常符合[12].再根据闪烁指数与Rician分布中的Rician因子的关系[13]，可以将深空信道电波传播的模型用Rician信道表示.
+
+若设调制后的发送信号为
+
+$$
+s ( t ) = \mathrm { R e } \bigl [ x ( t ) \mathrm { e } ^ { \mathrm { j } ( 2 \pi f t + \phi ) } \bigr ] .
+$$
+
+则在有时延扩展和频谱扩展、并考虑加性噪声与干扰的信道中，有视距分量的接收信号的一般表达式为
+
+$$
+\begin{array} { l } { { \displaystyle r ( t ) = \mathrm { R e } \Big [ \sum _ { i = 0 } ^ { N ( t ) } \alpha _ { i } ( t ) x ( t - \tau _ { i } ( t ) ) \mathrm { e } ^ { \mathrm { i } ( 2 \pi f t + \phi - 2 \pi f \tau _ { i } + 2 \pi f _ { \mathrm { D } } t ) } \Big ] + } } \\ { { \displaystyle n ( t ) + J \left( t \right) } } \\ { { = \mathrm { R e } \Big [ \sum _ { i = 0 } ^ { N ( t ) } \alpha _ { i } ( t , f _ { \mathrm { D } i } ) { x } ( t - \tau _ { i } ( t ) ) \cdot } } \\ { { \displaystyle \mathrm { e } ^ { \mathrm { i } ( 2 \pi f t - 2 \pi f \tau _ { i } + \phi ) } } ] ^ { + } = { n ( t ) } + J \left( t \right) , } \end{array} \qquad \mathrm { ( 2 ) }
+$$
+
+式中： $n ( t )$ 为噪声； $J \left( t \right)$ 为干扰； $x ( t )$ 为信号复包络； $f$ 为载波频率； $N ( t )$ 表示 $\mathbf { \Psi } _ { t }$ 时刻时有 $N \left( t \right)$ 条传输路径； $\alpha _ { i } ( t )$ 表示第 $i$ 条路径 $\mathbf { \Psi } _ { t }$ 时刻时的幅度衰减系数； $\tau _ { i } \left( t \right)$ 表示第 $i$ 条路径 $t$ 时刻时的延时； $\phi$ 为载波的初始相位； $f _ { \mathrm { D } i }$ 表示第 $i$ 条路径中由太阳风随机介质运动引起的频移，与频谱扩展有关.上式中第O条路径为接收信号的视距分量，并且 $a _ { i } ( t , f _ { \mathrm { D } i } ) =$ $\alpha _ { i } \left( t \right) \mathrm { e } ^ { \mathrm { j } 2 \pi f _ { \mathrm { D } i } t } .$
+
+因此，定义信道的闪烁影响因子为
+
+$$
+a _ { \mathrm { s c } } ( t ) = \sum _ { i = 0 } ^ { N ( t ) } a _ { i } ( t , f _ { \mathrm { D } i } ) \delta ( t - \tau _ { i } ( t ) ) .
+$$
+
+则闪烁影响因子 $a _ { \mathrm { s c } } \left( t \right)$ 的包络 $R = \mid a _ { \mathrm { s c } } ( t ) \mid$ 的概率密度函数满足Rician分布的概率密度函数，而加性噪声因子 $n ( t ) + J ( t )$ 的包络应满足高斯分布.
+
+经过以上分析和推导，太阳闪烁下的深空通信
+
+模型可以用图1表示，其表达式为
+
+$$
+r ( t ) = a _ { \mathrm { s c } } ( t ) \star s ( t ) + n ( t ) + J ( t ) .
+$$
+
+其中， $\ast$ 表示卷积运算.
+
+实际上，在信道模型中对传输影响较大的两个重要参数是 $f _ { \mathrm { D } i }$ 和 $\tau _ { i } \left( t \right)$ ，分别对应下文中的相干时间和相干带宽.
+
+![](images/c2d54cec4da471ff68d4182cc56b97c1c802c740694854e900a752d895b529a5.jpg)  
+图1 信道模型
+
+# 2 深空通信信号带宽的确定
+
+# 2.1 相干时间
+
+随机介质中电波传播的相干时间是利用时变单频电磁波的互相干函数，也即时变单频二阶矩的抛物线方程导出的[3.相干时间表示两个瞬时时刻信道的冲激响应处于强相关时的最大时间间隔.其物理意义在于，当时间间隔小于相干时间时，信道的特性基本上是相同的.
+
+靠近太阳传播的单频电磁波的频谱扩展为[3
+
+$$
+B = 0 . \ 5 4 2 ( c _ { \mathrm { n 0 } } k ) ^ { 6 / 5 } ( a _ { 1 } R ) ^ { 3 / 5 } v ,
+$$
+
+式中： $a _ { 1 } = 0 , \ 8 5$ ，为常数； $k$ 为电磁波的波数； $R$ 如图2所示，表示与太阳中心的距离，图中 $\alpha$ 为日张角(Solar Elongation Angle).
+
+![](images/1923eafb16d245794ab15bdd4cdc3c2ebee59560cea76c0e99beef1e6b2ead4b.jpg)  
+图2 几何模型
+
+传播路径上离太阳中心最近的点（ClosestApproachPoint）的结构常数 $c _ { \mathrm { n 0 } }$ 的表达式为[3]
+
+$$
+c _ { \mathrm { n 0 } } \approx \frac { 5 5 . 5 9 \sigma _ { \mathrm { n e } } } { f ^ { 2 } L _ { \mathrm { 0 } } ^ { 1 / 3 } } ,
+$$
+
+式中： $\sigma _ { \mathrm { n e } }$ 为传播路径上离太阳中心最近的点的电子密度的均方值，它正比于该点的太阳风电子密度$N _ { \mathrm { e } } ( R ) \colon L _ { \mathrm { 0 } }$ 为太阳风湍流结构外尺度.
+
+行星际空间的平均太阳风速度 $\boldsymbol { v }$ 是与太阳距离
+
+的函数，其表达式为[14]
+
+$$
+v ( R ) = K _ { \circ } / ( N _ { \mathrm { e } } ( R ) \bullet R ^ { 2 } ) ,
+$$
+
+式中， $K _ { \mathrm { o } }$ 为常数，其他参数如前文中定义.太阳风电子密度 $N _ { \mathrm { e } } ( R )$ 有很多模型，可根据太阳的周期，从文献[15提供的模型中选择其一.由于文献[14]未给出 $K _ { \mathrm { 0 } }$ 的取值，这里再给出一种 $K _ { \mathrm { 0 } }$ 的确定方法：从文献[16中查阅地球附近 $R = 1 \mathrm { A U }$ 处）实时的太阳风速度，代入式（7）便可求得常数 $K _ { \mathrm { 0 } }$ ，从而得到太阳系行星际空间任意点太阳风速度 $ { \boldsymbol { v } } ( R )$ 的精确表达式.
+
+则信道的相干时间约等于频谱扩展 $B$ 的倒数：
+
+$$
+T _ { \mathrm { c o h } } \approx 1 / B = 1 . \ 8 4 5 ( c _ { \mathrm { n 0 } } k ) ^ { - 6 / 5 } ( a _ { 1 } R ) ^ { - 3 / 5 } v ^ { - 1 } .
+$$
+
+由式（6）和式（8）可以看出行星际介质中传播的电磁波的相干时间随电磁波频率增加而增加，同时也与太阳风速度、太阳风湍流结构的外尺度和电子密度有关.
+
+注意到相干时间随电磁波频率增加而增加，这与陆地移动通信中，相干时间随电磁波频率增加而减小不相同，说明在等离子体中的散射与陆地移动通信中的散射有本质区别.因为在等离子体中，随着电磁波频率的增加，电磁波穿透等离子体的能力也增加，散射效应减弱，从接收端来看，等离子体介质产生的等效散射面减少，从而频谱扩展减小，相干时间增加.电离层中的等离子体与太阳附近行星际的等离子体具有类似的闪烁现象[9,17-18]，但电离层中的等离子体的运动速度较小，大约在 $0 . \ 2 \ \mathrm { k m / s }$ 的量级[19]，而太阳附近直到地球附近的太阳风，速度达$2 0 ~ \mathrm { k m / s }$ 到 $5 0 0 ~ \mathrm { k m / s ^ { [ 1 6 ] } }$ ,出现太阳事件时甚至能达到 $1 \ 0 0 0 \ \mathrm { k m / s }$ 以上.因此太阳附近行星际的等离子体运动引起的时间选择性相对于近地电离层闪烁影响要严重得多.
+
+# 2.2 相干带宽
+
+随机介质中电波传播的相干带宽是利用非时变双频互相干函数，也即非时变双频二阶矩的抛物线方程推导出的[17,20].相干带宽表示信道在两个频率处的频率响应保持强相关时的最大频差.其物理意义在于，频率间隔大于相干带宽的两个正弦波受到信道的影响不同.
+
+相干带宽由 $\mathrm { X u } ^ { [ 1 7 ] }$ 给出，用来描述电离层的不规则性为
+
+$$
+f _ { \mathrm { c o h } } ^ { \prime } = - \frac { 6 } { \lambda } \bullet \frac { A _ { 0 } } { \sigma _ { \phi } ^ { 2 } A _ { 2 } } \bullet \frac { z \omega } { ( 3 z L - 2 L ^ { 2 } ) } ,
+$$
+
+式（9）中参数定义详见文献17」.
+
+将相干带宽应用于太阳附近的不规则等离子体，则需假设接收端与发射端均处于不规则体内部.可令式（9）中 $z = L$ ，则可得太阳附近的不规则等离子体的相干带宽表达式：
+
+$$
+f _ { \mathrm { c o h } } = - \frac { 6 } { \lambda } \frac { A _ { 0 } } { \sigma _ { \phi } ^ { 2 } A _ { 2 } } \frac { \omega } { L } ,
+$$
+
+式中： $\omega$ 为电磁波角频率； $L$ 如图2所示；电磁波在介质中的波长 $\lambda = 2 \pi / k$ ；相位起伏的方差 $\sigma _ { \phi } ^ { 2 } = $ LkA。,等离子体波数kp= ωp/c,等离子体角频率$\omega _ { \mathrm { p } }$ 约为
+
+$$
+\omega _ { \mathrm { p } } ^ { 2 } \approx \frac { \mathrm { e } ^ { 2 } N _ { \mathrm { e } } ( R ) } { m \varepsilon _ { \mathrm { 0 } } } ,
+$$
+
+式中： $e$ 和 $\mathbf { \Sigma } _ { m }$ 分别为电子的电荷和质量； $\pmb { \varepsilon } _ { 0 }$ 为真空中介电常数.该角频率表示只有电磁波的角频率 $\omega$ 大于 $\omega _ { \mathrm { { p } } }$ 时，电磁波才能在等离子体中传播，否则将引起全反射或强烈衰减.并且，
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle A _ { 0 } = ( 2 \pi l _ { 0 } / \kappa _ { 0 } ) ^ { 1 / 2 } \sigma _ { \xi } ^ { 2 } \frac { K _ { ( p - 2 ) / 2 } ( \kappa _ { 0 } l _ { 0 } ) } { K _ { ( p - 3 ) / 2 } ( \kappa _ { 0 } l _ { 0 } ) } } \\ { \displaystyle A _ { 2 } = - ( \pi \kappa _ { 0 } / l _ { 0 } ) ^ { 1 / 2 } \sigma _ { \xi } ^ { 2 } \frac { K _ { ( p - 4 ) / 2 } ( \kappa _ { 0 } l _ { 0 } ) } { K _ { ( p - 3 ) / 2 } ( \kappa _ { 0 } l _ { 0 } ) } } \end{array} \right. ,
+$$
+
+式中： $K$ 为虚宗量Hankel函数； $l _ { 0 }$ 为太阳风湍流结构内尺度； $\kappa _ { \mathrm { 0 } } = 1 / L _ { \mathrm { 0 } }$ ；电子密度起伏方差 $\sigma _ { \xi } ^ { 2 } = \langle \hat { \xi } ^ { 2 } \rangle$ $\leqslant 1 , \xi = N _ { \mathrm { e } } - \langle N _ { \mathrm { e } } \rangle / \langle N _ { \mathrm { e } } \rangle , \boldsymbol { p }$ 为谱指数，当 $\rho = 1 1 / 3$ 时，谱为Kolmogorov 谱，其他为 Shkarosfsky 谱.
+
+由式（10）可以看出随机介质中的相关带宽随着电磁波中心频率 $\omega$ 的增大而增大，同时也与太阳风湍流结构的内尺度、外尺度和电子密度有关.
+
+# 2.3 信号带宽的确定
+
+相干时间和相干带宽决定信道的时间选择性和频率选择性.若设传输信号带宽为 $W$ ，则若要求深空信道表现出非频率选择性慢衰落特征， $W$ 应满足
+
+$$
+T _ { \mathrm { c o h } } ^ { - 1 } \ll W \ll f _ { \mathrm { c o h } } .
+$$
+
+而深空信道的相干时间 $T _ { \mathrm { c o h } }$ 和相干带宽 $f _ { \mathrm { c o h } }$ 由式（8）和式（10）确定，再根据图2中的几何关系可知相干时间和相干带宽在其他参数一定时，仅与日张角 $\alpha$ 有一定的函数关系.
+
+若假设在深空通信中只能使用一种信号带宽，则当日张角由大减小时，选取落在非频率选择性慢衰落区域中最久的带宽作为信号带宽 $W$ ，误码率性能应为最优的.
+
+按照这样的思路，首先限定 $N _ { \mathrm { e } } \left( R \right) \mathcal { . } \sigma _ { \mathrm { n e } } \mathcal { . } K _ { \circ } \mathcal { . } v ,$ （20$f , L _ { 0 } \ , l _ { 0 } \ , \sigma _ { \xi } ^ { 2 } \ , L$ 等参数，然后求解关于日张角 $\alpha$ 的方程为
+
+$$
+f _ { \mathrm { c o h } } ( \boldsymbol { \alpha } ) = 1 / T _ { \mathrm { c o h } } ( \boldsymbol { \alpha } ) .
+$$
+
+采用数值计算的方法可以解出式（14）确定的日张角 $\alpha _ { \mathrm { m i n } }$ ，然后代入等式左边或右边得到信号带宽为
+
+$$
+\begin{array} { r } { W = f ( \alpha _ { \mathrm { m i n } } ) . } \end{array}
+$$
+
+则式（15）确定的信号带宽 $W$ 即为会经历较小日张角的探测器在只能使用一种信号带宽下达到最优误码率的信号带宽.
+
+查阅文献，取太阳风电子密度模型 $N _ { \mathrm { e } } ( R )$ 为文献[15]提出的模型，电子密度的均方值 $\sigma _ { \mathrm { n e } }$ 与 $N _ { \mathrm { e } } ( R )$ 的比例为 $^ { [ 1 2 ] } 0 . \ 2 7 5$ ，地球附近的太阳风速度 $\boldsymbol { v } ( 1 \$ AU）为 $[ 1 6 ] 5 0 9 . \mathrm { ~ 8 ~ k m / s ~ }$ ,并根据式（7）求出 $K _ { \mathrm { 0 } }$ ，太阳风湍流结构外尺度为 $^ { [ 2 1 ] } L _ { 0 } = 1 0 ^ { 6 } \mathrm { k m }$ ，太阳风湍流结构内尺度为 $^ { [ 2 2 ] } l _ { 0 } = 1 0 ^ { 2 } \ \mathrm { k m }$ ，电子密度起伏方差 $\sigma _ { \xi } =$ 0.5，探测器到传播路径上离太阳中心最近的点 $L _ { 2 }$ $= 1 . \ 2 \ \mathrm { A U }$ ,电磁波频率 $f = 8 . 4 ~ \mathrm { G H z }$ ,则将以上参数代入等式（8）、（10）、（14）可求得 $\alpha _ { \mathrm { m i n } } \approx 0 . \ 3 ^ { \circ }$ ，再代入式（15）时得到信号带宽 $W \approx 4 0 \ \mathrm { H z }$ ，即在8.4$G \mathrm { H } z$ 下当深空探测器的日张角改变时，选取 $4 0 ~ \mathrm { H z }$ 作为信号带宽可以在日张角 $\alpha > 0 . \ 3 ^ { \circ }$ 时，均使通信信道呈现出非频率选择性慢衰落，且该日张角为最小值，信道呈现非频率选择性慢衰落的时间最长.
+
+# 3模型仿真与信号带宽选择分析
+
+根据国际电信联盟(ITU)对深空地球站的频段划分规定[23]，选取下行的X波段 $8 . ~ 4 ~ \mathrm { G H z }$ 和Ka波段 $3 2 ~ \mathrm { G H z }$ 的两个频率代入式(8)和式(10)进行解析计算，做出信号带宽关于日张角的曲线图，如图3所示，参数选取与2.3节中一致.电磁波中心频率为$8 . ~ 4 ~ \mathrm { G H z }$ 时(图3中虚线)的相干带宽与相干时间的倒数将平面分为四部分，每一部分代表了一种特性的衰落信道，如图3中黑色框所示.由图3可以看出，非频率选择性慢衰落信道在 $3 2 ~ \mathrm { G H z }$ 时，比8.4$\mathrm { G H z }$ 的面积大，因此电磁波中心频率越高则选取的信号带宽落入非频率选择性慢衰落信道的概率也越大.同时，我们可以从图3中得出式(15)确定的信号带宽选择方法的物理意义，即信号带宽为 $f _ { \mathrm { c o h } }$ 和$T _ { \mathrm { c o h } } ^ { - 1 }$ 曲线交点对应的带宽.
+
+当电磁波中心频率为 $8 . ~ 4 ~ \mathrm { G H z }$ 时，选取式（15）所对应的频率（约 $4 0 ~ \mathrm { H z }$ 作为信号带宽能使得落入非频率选择性慢衰落区域中最久，因此在图4中，我们选 $4 0 ~ \mathrm { H z }$ 作为信号带宽进行不同日张角下的误码率计算，同时，选取 $1 0 ~ \mathrm { H z }$ 和 $4 0 0 ~ \mathrm { H z }$ 作为对照，信噪比为 $1 2 ~ \mathrm { d B }$ ，调制方式为DBPSK，其他参数与2.3节中一致.由图4可以看出，当日张角 $\alpha { < } 0 . \mathrm { ~ 4 ~ } ^ { \circ }$ 时，选取$4 0 ~ \mathrm { H z }$ 的误码率明显好于选取 $4 0 0 ~ \mathrm { H z }$ ,这是由于40$\mathrm { H } z$ 的信号带宽进入非频率选择性慢衰落区域更早，虽然 $4 0 0 ~ \mathrm { H z }$ 提前进入慢衰落，但其仍处于频率选择性衰落下，码间干扰较大，BER降低不明显；但随着日张角增加，相干带宽迅速增加，码间干扰降低，因此 $4 0 0 ~ \mathrm { H z }$ 的BER下降较快，甚至超过了 $4 0 ~ \mathrm { H z }$ 的BER性能.当 $0 . \ 4 ^ { \circ } < \alpha < 1 . \ 2 ^ { \circ }$ 时， $4 0 ~ \mathrm { H z }$ 的误码率迅速接近 $4 0 0 ~ \mathrm { H z }$ ,并且均好于 $1 0 ~ \mathrm { { H z } }$ 的误码率性能.当 $\alpha { > } 1 . \ 2 ^ { \circ }$ 时，三种信号带宽的误码率基本一致，为非频率选择性慢衰落信道，并且随着闪烁由强变弱，视距信号逐渐增强，误码率也逐渐降低.
+
+![](images/b491fc694f2de3db3845d2a79212f8120b47e5295475dd9b7ac884fc7fc07a5b.jpg)  
+图3信号带宽与日张角
+
+![](images/89b6edcb494640cdde46c65365e72656de98c138aaf0253e897231ad95ed07b3.jpg)  
+图4不同日张角与误码率 $( \mathbf { 8 . 4 G H z } ^ { \prime }$ 1
+
+由图5看出，电磁波频率为 $3 2 ~ \mathrm { G H z }$ 时，选取式(15)对应的频率（约 $4 0 ~ \mathrm { H z }$ 作为信号带宽在较小日张角范围内的误码率均比 $1 0 ~ \mathrm { { H z } }$ 和 $4 0 0 ~ \mathrm { H z }$ 好.同样，随着闪烁由强变弱，视距信号逐渐增强，误码率也逐渐降低.调制方式也为DBPSK，信噪比 $1 2 ~ \mathrm { d B }$
+
+从图4和图5综合来看，按照满足式(15)的相干带宽和相干时间来确定信号带宽可以降低通信误码率，从而减小了太阳闪烁带来的影响，提高了通信的可靠性.
+
+![](images/758dae059ab9f45fd95b30fdd122c1fc9f2c0bcde99614457bfc22ca99ced2c4.jpg)  
+图5不同日张角与误码率 $3 2 \ \mathbf { G H z } ^ { \prime }$
+
+# 4结论
+
+通过对太阳闪烁影响下的电磁波传播的相干时间和相干带宽的分析，结合Rician衰落信道模型，建立的深空通信信道模型的完整性进一步提高，再利用信道相干时间和相干带宽的计算，确定了深空信道的频率选择性和时间选择性，给出的利用相干时间和相干带宽选择信号带宽的方法，降低了通信误码率，提高了通信的可靠性，为以后开展对太阳或太阳系行星等深空探测活动的测控通信带宽选择技术提供了参考.
+
+# 参考文献
+
+[1] BOKULICRS，MOORE WV.Near Earth Asteroid Rendezvous（NEAR） spacecraft solar conjunction experiment[J]. Journal of Spacecraft and Rockets, 1999，36(1)：87-91.   
+[2] WOO R.Radial dependence of solar wind properties deduced from HELIOS $1 / 2$ and Pioneer $1 0 / 1 1$ radio scattering observations[J].The Astrophysical Jour nal,1978，219：727-739.   
+[3] WOOR，YANG FC，ISHIMARU A.Structure of density fluctuations near the sun deduced from Pioneer-6 spectral broadening measurements [J].The Astrophysical Journal,1976，210：593-602.   
+[4] MORABITODD，SHAMBAYATIS，FINLEYS，et al. The Cassini May 2ooo solar conjunction [J]. IEEE Transactions on Antennas and Propagation, 2003，51(2)：201-219.   
+[5] BOKULICRS，FLAHERTYMKE，JENSENJR, et al.The NEAR spacecraft RF telecommunications system [J]. Johns Hopkins APL Technical Digest, 1998，19(2)：213.   
+[6] FERIAY，BELONGIEM，MCPHEETERST，etal. Solar scintillation effects on telecommunication links at Ka-band and X-band [J].The Telecommunications and Data Acquisition Progress Report,1997，129：1- 11.   
+[7] MORABITO D D. Solar corona-induced fluctuations on spacecraft signal amplitude observed during solar superior conjunctions of the Cassini spacecraft [J]. Radio Science，2007，42（3)． doi:10.1029/ 2005RS003425.   
+[8］MORABITO D D. Spectral broadening and phase scintillation measurements using interplanetary space craft radio links during the peak of solar cycle 23 [J]. Radio Science，2009，44（6)． doi:10.1029/ 2008RS004002.   
+[9] WONGTRAIRAT W,SUPNITHI P. Statistical modeling of ionospheric scintillation for system modeling [J/OL]. 2004[2014-04-06]. htp://www.kmitl. ac. th/ $\sim$ satcom/publication/paperISEA2o04. pdf   
+[10]薛永华，柴勇,刘宁波，等．天波雷达电离层信道 建模［J]．电波科学学报，2013，28(5)：862-868. XUE Yonghua，CHAI Yong，LIU Ningbo，et al. Sky-wave OTHR ionospheric channel modeling [J]. Chinese Journal of Radio Science，2013，28(5）： 862- 868.(in Chinese)   
+[11]HO C M,SUEM K，BEDROSSIAN A，et al. Scintillation effects on radio wave propagation through so lar corona [C]//Proceedings of the XXVIIth URSI General Assembly，Maastricht,URSI,2002.   
+[12]MORABITO D. Solar Corona Amplitude Scintilation Modeling And Comparison to Measurements at $\mathrm { X ^ { - } }$ band and Ka-band [J]. IPN Progress Report 42-153. Pasadena: Jet Propulsion Laboratory,2003：153.   
+[13]SHAFT P D. On the relationship between scintillation index and Rician fading [J]. IEEE Transactions on Communications，1974，22(5)：731-732.   
+[14]BERMAN A L. Solar wind turbulence models evalua ted via observations of Doppler RMS phase fluctuation and spectral broadening in the inner corona [J]. The Deep Space Network，1978，44：197-202.   
+[15]LEBLANC Y,DULKG A,BOUGERET J. Tracing the electron density from the corona to 1AU [J]. Solar Physics，1998(183)：165-180.   
+[16]空间环境预报中心数据[EB/OL].SEPC．[2014-06- 07]http://www.sepc. ac.cn/.   
+[17］XU Zhengwen，WU Jian，WU Zhensen. Second-or der statistics of radio wave propagation through the structured ionosphere [J].Journal of Atmospheric and Solar-terrestrial Physics，2004，66（11）： 971- 980.   
+「1］王国军 中建蚪程征佳笔海南地区中离尼等离
+
+#
+
+子体泡的多仪器同时观测［J]．电波科学学报，2014，29(1):66-71.  
+WANG Guojun，SHI Jiankui,CHENG Zhengwei，etal.Ionospheric plasma bubbles simultaneously ob-served by multi-instruments in Hainan region [J].Chinese Journal of Radio Science，20l4，29（1）：66-71.(in Chinese)  
+[19]蔚娜,焦培南，杨龙泉,等．运动着的电离层不均匀体的观测研究［J]．电波科学学报，2013，29（2）：372-377.WEI Na，JIAO Peinan，YANGLongquan，etal.Observation research on moving ionospheric irregularities[J].Chinese Journal of Radio Science，2O13，29（2）：372-377.(in Chinese)  
+[20] YEHKC，LIU C H. An investigation of temporalmoments of stochastic waves [J]. Radio Science,1977，12(5):671-680.  
+[21] ISHIMARU A. Wave Propagation and Scattering inRandom Media[M].New York：IEEEPress and Ox-ford University Press，1997.  
+[22]SPANGLER SR,GWINN C R. Evidence for an in-ner scale to the density turbulence in the interstellarmedium[J].The Astrophysical Journal,199o，353：L29-L32.  
+[23]ITU-R.SA.10l4-2. Telecommunication Requirements for Manned and Unmanned Deep-space Research[S].Geneva:ITU，2011.
+
+# 作者简介
+
+吴桐( $( 1 9 9 0 - )$ ，男，陕西人，中国科学院大学博士研究生，研究方向为通信技术、地球与空间探测等.
+
+闫毅（1982一），男，河南人，中国科学院空间科学与应用研究中心副研究员，研究方向为通信与电子系统设计、信号与信息处理等.
+
+李永成（1979一），男，辽宁人，电子信息系统复杂电磁环境效应国家重点实验室工程师，研究方向为各种复杂电磁环境效应下的电子信息系统等.
+
+王春梅( $1 9 6 5 - )$ ,女，北京人,中国科学院空间科学与应用研究中心研究员，硕士生导师，研究方向为深空任务自动测试技术等.

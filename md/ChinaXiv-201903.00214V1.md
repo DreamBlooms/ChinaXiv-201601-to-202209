@@ -1,0 +1,155 @@
+# 广西部分地区野生茶树遗传关系EST-SSR标记分析
+
+黄寿辉，温立香"，彭静茹，张芬，檀业维，龙凌云，毛立彦(广西亚热带作物研究所，南宁530001)
+
+摘要：为了明确广西野生茶树种质资源的遗传背景，从而为广西野生茶树种质资源科学保护和合理利用提供理论依据。从广西宁明县、金秀县、苍梧县收集到14份地方野生茶树种质资源，以17个国家级茶树良种作参照，采用EST-SSR分子标记技术，研究广西这三个地方野生茶树与国家级茶树良种间的亲缘关系及广西地方茶树自身遗传多样性。实验结果显示：15对EST-SSR引物共检测到68个等位基因，平均每个引物可扩增出4.53个，其中多态性位点为60个，多态性比率达 $8 8 . 2 \%$ 。平均观测杂合度、平均期望杂合度、平均Shannon 信息指数分别为0.42、0.55和0.97。PIC值在0.23-0.74之间，平均为0.52，多态性较好。遗传相似系数在0.53-0.9之间，平均值为0.71，31份供试材料在遗传相似系数为0.71分为5组群， $76 \%$ 参照品种聚在A 组群，而广西本地的野生茶树资源则主要分布在B、C、D、E组群。利用该研究中的四对核心引物即可将31份供试材料全部区分开，挑选其中10个多态性较好的等位位点进行编码，构建31份供试种质的DNA分子指纹图谱。研究表明广西野生茶树资源与国家级茶树良种间遗传差异较大，亲缘关系较远，遗传基础宽，多样性非常丰富，可作为茶树育种的亲本或开展茶树功能基因研究的材料。
+
+关键词：野生茶树，种质资源，EST-SSR，遗传多样性，DNA分子指纹图谱，广西中图分类号：S571.1 文献标示码：A
+
+# Genetic relationship analysis of wild tea tree germplasm resources in part of Guangxi based on EST-SSR markers
+
+HUANG Shouhui, WEN Lixiang",PENG Jingru, ZHANG Fen, TAN Yewei, LONG Lingyun, MAO Liyan (Guangxi Subtropical Crops Research Institute,Nanning 530oO1,China)
+
+Abstract: It is aimed to clarify the genetic background of wild tea tree germplasm resources in Guangxi, so as to provide a theoretical basis for the scientific protection and rational utilization of wild tea tree germplasm resources in Guangxi. Fourteen local wild tea tree germplasm resources have been collected from Ningming County, Jinxiu County and Cangwu County, Guangxi. Taking 17 state-level tea cultivars as reference,and adopting EST-SSR molecular marker technology, the research focus on the genetic relationship between these wild tea trees and the state-level tea cultivars in three places of Guangxi and the genetic diversity of local tea trees in Guangxi. The experiment results showed that a total of 68 alleles were detected in 15 pairs of SSR primers,and each primer could amplify 4.53 by average，of which polymorphic site were 6O,and the polymorphicratio was $8 8 . 2 \%$ .The average observed heterozygosity， average expected heterozygosity,and average Shannon information index were O.42, O.55,and O.97 respectively. The PIC value was between O.23-0.74 with an average of O.52,and the polymorphism is good. The genetic similarity coefficient is between O.53 and O.9, with an average value of 0.71. The test materials are divided into 5 groups at genetic similarity coefficient of 0.71. $76 \%$ of the reference varieties were clustered in group A, while the local wild tea tree resources in Guangxi are mainly distributed in B,C,D,E groups.By using the four pairs of core primers in this study,31 test materials can be completely distinguished.Ten allelic sites with good polymorphisms were selected for coding,and 31 DNA fingerprints of the tested germplasm were constructed.The study has shown that there is great genetic difference between the wild tea trees in Guangxi and the state-level tea cultivars. The wild tea tree resources in Guangxi has distant genetic relationship, wide genetic basis and rich diversity,and can be used as the parent for tea tree breeding or materials for studying tea tree functional genes.
+
+Key words: wild tea tree, germplasm resources, EST-SSR，genetic diversity, DNA molecular fingerprint spectrum, Guangxi
+
+茶树种质资源是开展茶树种质创新、新品种选育、功能基因挖掘等研究的的物质基础和基本条件，种质资源丰富与否与新品种选育成功率有着紧密的联系（周萌等，2013）。研究表明，茶树起源于我国云南、四川、贵州交界地区（虞富莲，1986），而广西与贵州、云南、四川接壤，是茶树次生起源地（覃秀菊等，2006），常年水热资源丰富，自然条件优越，孕育着丰富的野生、半野生茶树种质资源。经过长期自然选择和自身进化，广西各地野生茶树资源在表型、农艺性状、内含物含量上具有丰富的差异性（覃秀菊等，2006）。但对于广西野生茶树种质资源的研究多数仅限于调查、收集和简单分布地理位置和形态的描述，对于其遗传特性的研究鲜见报道。
+
+用于茶树种质资源遗传分析与评价的方法主要有形态学标记法、生化标记法和DNA分子标记法三种，由于形态学标记法过多依赖鉴定者的经验，且鉴定结果易受生产方式和环境影响（刘本英，2009），故其鉴定的可靠程度不高。而生化标记法由于受限于蛋白质种类偏少，因此其检测位点较少，多态性不够丰富，不能有效区分亲缘关系非常密切的茶树资源（乔婷婷，2010）。DNA分子标记直接反映基因组DNA水平遗传变异，多态性丰富、准确性高、重复性好，且不随发育时期而变化，不受环境影响，鉴于此，DNA分了标记技术已被广泛应用在包括茶树在内的各类作物种质资源遗传分析和鉴定上（姚明哲，2009）。目前应用于茶树遗传分析的分子标记主要有：RAPD、AFLP、ISSR 和EST-SSR 标记（王丽鸳等，2004）、（姚明哲和陈亮，2003）、（梁慧玲和梁月荣，2003），其中EST-SSR 相对其他标记具有等位点多、共显性、重复性好、多态性高、数量丰富等优势（Powelletal.,1996），且可直接从EST数据库中筛选获得 SSR，开发成本相对较低（Varshney et al.,2005），另外EST-SSR 序列为基因组的表达序列，其差异性直接反映出基因表达的差异（Saha et äal.,2005）、（Gao etal.,2004）。EST-SSR应用于茶树遗传分析屡见报道：如金基强等（2007）首次基于EST-SSR引物对浙江、福建等地的优良茶树品种资源进行了分析，结果充分说明EST-SSR标记可有效分析茶树种质资源，能真实反映不同品种间的遗传差异；刘振等（2008）利用EST-SSR标记对60份中国西南茶区的茶树资源进行了遗传多样性和亲缘关系分析，研究结果表明EST-SSR标记非常适用于茶树遗传多样性和亲缘关系的研究，同时结果也显示我国西南茶区的茶树种质资源多样性非常丰富，值得深入开发研究。姚明哲等（2009）通过EST-SSR标记对45份江北茶区的茶树初级核心种质的遗传多样性和遗传结构分析，提出可进一步对初级核心种质进行筛选，选择更有遗传代表性的资源，构建江北茶区的核心种质，从而提高江北茶区优异资源发掘和利用的效率。陈熙等（2016）基于EST-SSR分子标记对陕西茶树资源遗传多样性进行分析，指出陕西茶树种质资源遗传多样性处于较高水平，从群体种选育良种是可行的。
+
+利用DNA分子标记技术开展广西野生茶树资源的遗传多样性和亲缘关系分析，可充分认识广西野生茶树种质资源的遗传特性，对广西茶树资源的分子鉴定、品种遗传改良、种质保护、核心种质的构建、重要农艺性状基因定位以及分子标记辅助育种都具有重要的参考价值和理论指导意义。该研究利用EST-SSR技术对广西部分野生茶树资源进行遗传特性研究，旨在揭示广西野生茶树种质资源的遗传基础，为今后核心种质资源收集利用提供理论支撑。
+
+# 1材料与方法
+
+# 1.1材料
+
+供试的31份茶树种质资源（表1），14份取自分布在广西金秀、宁明、六堡镇的野生茶，另外17份为国家级优良品种。于2018年春季采摘一芽二叶新梢，液氮迅速冷冻，然后置于一 $7 0 \ \mathrm { ^ { \circ } C }$ 冰箱中保存备用。
+
+表1供试材料的名称及原产地  
+Table 1 Name and origin of teaaccessions used in this study   
+
+<html><body><table><tr><td colspan="4"></td></tr><tr><td>种质名称</td><td>原产地</td><td>种质名称</td><td>原产地</td></tr><tr><td>Germplasm</td><td>Origin</td><td>Germplasm</td><td>Origin</td></tr><tr><td>宁明1号</td><td>广西宁明县</td><td>桂香18号</td><td>广西桂林</td></tr><tr><td>Ningming 1</td><td>Ningming, Guangxi</td><td>Guixiang 18</td><td>Guilin, Guangxi</td></tr><tr><td>宁明2号</td><td>广西宁明县</td><td>云南大叶种</td><td>云南勐库</td></tr><tr><td>Ningming 2</td><td>Ningming, Guangxi</td><td>Yunnandayezhong</td><td>Mengku, Yunnan</td></tr><tr><td>宁明3号</td><td>广西宁明县</td><td>碧香早</td><td>湖南长沙</td></tr><tr><td>Ningming 3</td><td>Ningming, Guangxi</td><td>Bixiangzao</td><td>Changsha, Hunan</td></tr><tr><td>宁明4号</td><td>广西宁明县</td><td>福鼎大毫</td><td>福建福鼎</td></tr><tr><td>Ningming 4</td><td>Ningming, Guangxi</td><td>Fudingdahao</td><td>Fuding, Fujian</td></tr><tr><td>宁明5号</td><td>广西宁明县</td><td>尧山秀丽</td><td>广西桂林</td></tr><tr><td>Ningming 5</td><td>Ningming, Guangxi</td><td>Yaoshanxiuli</td><td>Guilin, Guangxi</td></tr><tr><td>金秀1号</td><td>广西金秀县</td><td>金牡丹</td><td>福建福州</td></tr><tr><td> Jinxiu 1</td><td> Jinxiu, Guangxi</td><td> Jinmudan</td><td>Fuzhou, Fujian</td></tr><tr><td>金秀2号</td><td>广西金秀县</td><td>白叶1号</td><td>福建安吉</td></tr><tr><td> Jinxiu 2</td><td>Jinxiu, Guangxi</td><td>Baiye 1</td><td>Anji, Fujian</td></tr><tr><td>金秀3号</td><td>广西金秀县</td><td>梅占</td><td>福建安溪</td></tr><tr><td>Jinxiu 3</td><td>Jinxiu, Guangxi</td><td>Meizhan</td><td>Anxi, Fujian</td></tr><tr><td>金秀4号</td><td>广西金秀县</td><td>金观音</td><td>福建福州</td></tr><tr><td>Jinxiu 4</td><td>Jinxiu, Guangxi</td><td> Jinguanyin</td><td>Fuzhou, Fujian</td></tr><tr><td>金秀5号</td><td>广西金秀县</td><td>黄观音</td><td>福建福州</td></tr><tr><td>Jinxiu 5</td><td> Jinxiu, Guangxi</td><td>Huangguanyin</td><td>Fuzhou, Fujian</td></tr><tr><td>六堡1号</td><td>广西六堡镇</td><td>黄玫瑰</td><td>福建福州</td></tr><tr><td>Liubao 1</td><td>Liubao, Guangxi</td><td>Huangmeigui</td><td>Fuzhou, Fujian</td></tr><tr><td>六堡2号</td><td>广西六堡镇</td><td>黄金芽</td><td>浙江安吉</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>Liubao2</td><td>Liubao, Guangxi</td><td>Huangjinya</td><td>Anji, Zhejiang</td></tr><tr><td>六堡3号</td><td>广西六堡镇</td><td>黄金叶</td><td>浙江安吉</td></tr><tr><td>Liubao3</td><td>Liubao, Guangxi</td><td>Huangjinye</td><td>Anji, Zhejiang</td></tr><tr><td>六堡4号</td><td>广西六堡镇</td><td>湘波绿</td><td>湖南长沙</td></tr><tr><td>Liubao4</td><td>Liubao, Guangxi</td><td>Xiangbolv</td><td>Changsha, Hunan</td></tr><tr><td>桂绿1号</td><td>广西桂林</td><td>玉麒麟</td><td>福建武夷山</td></tr><tr><td>Guilv 1</td><td>Guilin, Guangxi</td><td>Yuqilin</td><td>Wuyishan, Fujian</td></tr><tr><td>紫鹃</td><td>云南勐海</td><td></td><td></td></tr><tr><td>Zijuan</td><td>Menghai, Yunnan</td><td></td><td></td></tr></table></body></html>
+
+# 1.2DNA提取
+
+采用改进的CTAB法（陈盛相，2009）提取茶叶DNA，使用分光光度计和 $1 \%$ 琼脂糖凝胶电泳检测DNA的质量和浓度。然后稀释DNA原液至 $5 0 \mathrm { n g } \bullet \mathrm { \mu L } ^ { - 1 }$ ，于 ${ } _ { - 2 0 \mathrm { ~ \textdegree C } }$ 保存备用。
+
+# 1.3EST-SSR标记
+
+参照姚明哲（2009）报道的EST-SSR标记，经过材料筛选，选出15对多态性高、带型清晰的引物，引物信息如表2所示，委托华大基因科技有限公司合成。
+
+表215对EST-SSR引物的序列信息  
+Table2Information of fifteen EST-SSR markers   
+
+<html><body><table><tr><td>引物</td><td colspan="2">引物序列 Primer sequence（5'-→3')</td><td colspan="2">退火温度</td><td rowspan="2">片段大小 Size of product （bp）</td></tr><tr><td>Primer</td><td>正向 Forward</td><td>反向 Reverse</td><td colspan="2">Annealing temperature（℃）</td></tr><tr><td>T6</td><td>GTCAAGAAAGCTCAAGGC</td><td colspan="2">AAGACCCATACAAAAGATACT</td><td>52</td><td>150~170</td></tr><tr><td>T8</td><td>TCNNNTCACGGTTNNGT</td><td colspan="2">AAATGCNNNNGGTTCT</td><td>56</td><td>150~200</td></tr><tr><td>T12</td><td>ATCCACCGTATGATGCT</td><td colspan="2">TGTCTTGTGACCAAATTGAC</td><td>49</td><td>150~160</td></tr><tr><td>T13</td><td>ATGANNAGCAANNGAACG</td><td colspan="2">GGACTNNNAACTCGNNCT</td><td>58</td><td>200~230</td></tr><tr><td>T21</td><td>CCACCGTTGATTCTACTTT</td><td colspan="2">GATGGGCTTGTCTTCGTC</td><td>53</td><td>110~170</td></tr><tr><td>T185</td><td>ATCNNCAGATNNTGGC</td><td colspan="2">GGNNTTGTGGTCNNGGT</td><td>58</td><td>210~250</td></tr><tr><td>T228</td><td>GAATCAGTGAATAAAGCGTGTA</td><td colspan="2">TGAAGTGGCGGCGGAAGA</td><td>51</td><td>160~180</td></tr><tr><td>T395</td><td>TTCAGGCACCTCACAA</td><td colspan="2">AAGTAACCCGAAACAT</td><td>52</td><td>230~250</td></tr><tr><td>T588</td><td>TGACAGCAGAACAACAT</td><td colspan="2">ACTGAACCCAACACCACA</td><td>53</td><td>100~160</td></tr><tr><td>T641</td><td>CAAGCAATACATACACACA</td><td colspan="2">AACAGAGCATACCCAGAAG</td><td>50</td><td>180~210</td></tr><tr><td>T663</td><td>CTCTTGATTGGTGCCTTTA</td><td colspan="2">TTGGTAGCCTCTTCTTTTG</td><td>43</td><td>230~260</td></tr><tr><td></td><td></td><td colspan="2"></td><td></td><td></td></tr><tr><td>T685</td><td>TAGGGTTTTAGTTTCAG</td><td colspan="2">AACATCCTTGCCTCGTC</td><td>58</td><td>100~115</td></tr></table></body></html>
+
+# 1.4PCR扩增及产物检测
+
+按（表3）配制EST-SSR反应体系，进行PCR扩增；PCR扩增各个循环参数： $9 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 预变性5min, $9 4 ~ \mathrm { ^ { \circ } C }$ 变性 $1 \mathrm { m i n }$ ，对应温度退火30s（各引物退火温度见表2）， $7 2 \ \mathrm { { ^ \circ C } }$ 延伸 $2 \mathrm { m i n }$ ，35个循环，然后 $7 2 \ \mathrm { { ^ \circ C } }$ 延伸 $5 \mathrm { m i n }$ ， $4 ~ \mathrm { { ^ \circ C } }$ 保存。参照黄寿辉（2013）方法进行PCR产物聚丙烯酰胺凝胶检测、银染显色和拍照记录。
+
+表3EST-SSR 标记检测的PCR反应体系Table 3PCR cocktail for EST-SSR marker examination  
+
+<html><body><table><tr><td>成分 Component</td><td>体积 Volume (μL)</td></tr><tr><td>DNA (25 ng·uL-1)</td><td>2</td></tr><tr><td>primer (50 μm·mol-1)</td><td>0.5</td></tr><tr><td>dNTPs(10 mm*mol-1)</td><td>0.2</td></tr><tr><td>Mg2+ (25 mm·mol-1)</td><td>0.8</td></tr><tr><td>Taq (5 U·μL)</td><td>0.1</td></tr><tr><td>Buffer (10x)</td><td>1</td></tr><tr><td>ddH2O</td><td>5.4</td></tr><tr><td>Total</td><td>10</td></tr></table></body></html>
+
+# 1.5数据统计与分析
+
+每对 SSR引物检测一个位点，每一条多态性条带视为一个等位变异，采用人工读带的方法，将电泳图上清晰的条带记为“1”，同一位置无带或不易分辨的弱带计为“0”，建立“0-1"原始数据矩阵。使用软件Popgene32（Yeh et al.,1999）统计每个引物在31材料中扩增的等位基因数（Na），观测杂合度（ $. H o$ ）、期望杂合度（ $. H e .$ ），Shannon信息指数（I）。根据公式： $P I C { = } 1 { - } \sum$ 1 $( P i )$ 2计算每个引物的多态性信息量（PIC），其中 $P i$ 是带有第 $i$ 个等位基因群体的比例。根据公式： $D I C E { = } 2 a /$ ( $2 a { + } b { + } c .$ ）计算品种间的DICE 遗传相似性系数，其中 $\mathbf { \Delta } _ { a }$ 为品种 $i$ 与品种 $j$ 共有带型数目， $b$ 为品种 $i$ 特有带型数目， $\mathbf { \Psi } _ { c }$ 为品种 $j$ 特有带型数目。用 NTSYS-pc2.1（Rohlf，2000）软件进行品种间多态性和相似系数分析，通过非加权配对算术平均法(UPUMA)进行聚类分析，建立亲缘关系树状图。结合供试材料的形态学特征，对聚类分析结果进行分析讨论。
+
+# 2.结果与分析
+
+# 2.1EST-SSR扩增结果及多态性分析
+
+利用15对EST-SSR引物对31份实验材料进行多态性检测，部分引物扩增结果见图1。如表4所示，共检测到68个等位位点。扩出等位位点数最多的引物为T395和T588，分别可以扩出6个等位位点，其次是T6、T8、T185、T685、T802、T1110，均可扩出5个，T12、
+
+T21、T228、T641、T687可扩出4个，T663、T113为3个，T13 扩出的等位位点最少，为2个，平均每个引物可扩出的等位位点数为4.47个。在扩增到的68个等位基因中有14个特异等位基因，主要分布在宁明2号、宁明4号、六堡1号和金秀5号中，这表明，这几个种质在某些位点与其他种质有着很大差异，是研究等位基因功能差异的良好材料。对于整个群体而言，群体的观测杂合度 $( H o )$ 变化范围为0.18（T113） ${ \sim } 0 . 6 3$ （T1110），平均为0.42；期望杂合度 $( H e )$ 的变化范围为0.23（T113） ${ \sim } 0 . 7 4$ （T588），平均为0.55。Shannon信息指数（I）变幅在 $0 . 3 5 { \sim } 1 . 5 3$ 之间，平均0.97。多态性信息含量（PIC值）是衡量引物扩增位点多态性的重要指标。当 $P I C 5 0 . 5$ 时，表明扩增位点具高度多态性， $0 . 2 5 { < } P I C { < } 0 . 5$ 时，为中度多态性， $P I C { < } 0 . 2 5$ 时为低度多态性（Botsteinetal，1980）。该研究选用的15个引物的PIC值在 $0 . 2 3 \mathrm { \sim } 0 . 7 4$ 之间，平均为0.52，标记T13（ $P I C { = } 0 . 2 3$ ）为低度多态位点，4个标记T687（ $P I C { = } 0 . 4 3 \$ ）、T663（ $P I C { = } 0 . 2 8$ ）、T21（ ${ \cdot } P I C { = } 0 . 2 1$ ）、T641（ $P I C { = } 0 . 2 6$ ）为中度多态位点，其它10个为高度多态位点，PIC 值变化范围为 $0 . 5 1 { \sim } 0 . 7 4 \$ ，表明所选用EST-SSR引物在茶树上具有较高水平的扩增位点多态性，不同EST-SSR位点的多态性有明显差异，同时也说明广西野生茶树与国家级茶树良种间遗传差异大，具有较高的遗传多样性。
+
+表4EST-SSR引物扩增结果及多态性信息  
+Table4 Results and the polymorphism information of SSR primers   
+
+<html><body><table><tr><td>引物</td><td>等位位点数</td><td>观测杂合度</td><td>期望杂合度</td><td>多态性信息含量</td><td>Shannon 信息指数</td></tr><tr><td>Primer</td><td>Allele</td><td>Ho</td><td>He</td><td>PIC</td><td>I</td></tr><tr><td>T395</td><td>6</td><td>0.43</td><td>0.67</td><td>0.74</td><td>1.37</td></tr><tr><td>T687</td><td>4</td><td>0.34</td><td>0.52</td><td>0.43</td><td>0.98</td></tr><tr><td>T185</td><td>5</td><td>0.25</td><td>0.47</td><td>0.57</td><td>0.93</td></tr><tr><td>T588</td><td>6</td><td>0.48</td><td>0.74</td><td>0.64</td><td>1.53</td></tr><tr><td>T663</td><td>3</td><td>0.28</td><td>0.41</td><td>0.28</td><td>0.71</td></tr><tr><td>T1110</td><td>5</td><td>0.63</td><td>0.67</td><td>0.59</td><td>1.27</td></tr><tr><td>T228</td><td>4</td><td>0.53</td><td>0.61</td><td>0.53</td><td>0.73</td></tr><tr><td>T685</td><td>5</td><td>0.47</td><td>0.67</td><td>0.60</td><td>1.15</td></tr><tr><td>T13</td><td>2</td><td>0.18</td><td>0.23</td><td>0.23</td><td>0.35</td></tr><tr><td>T8</td><td>5</td><td>0.34</td><td>0.46</td><td>0.59</td><td>0.69</td></tr><tr><td>T21</td><td>4</td><td>0.47</td><td>0.54</td><td>0.41</td><td>0.88</td></tr><tr><td>T12</td><td>4</td><td>0.28</td><td>0.49</td><td>0.51</td><td>0.89</td></tr><tr><td>T6</td><td>5</td><td>0.49</td><td>0.59</td><td>0.64</td><td>1.11</td></tr><tr><td>T641</td><td>4</td><td>0.44</td><td>0.50</td><td>0.46</td><td>0.91</td></tr><tr><td>T802</td><td>5</td><td>0.42</td><td>0.63</td><td>0.65</td><td>1.09</td></tr><tr><td>平均 Mean</td><td>4.47</td><td>0.40</td><td>0.55</td><td>0.52</td><td>0.97</td></tr></table></body></html>
+
+注：第一个泳道为Maker，其余泳道为不同样品，为1-31号。
+
+![](images/95e46a24f9e25eecc96417f7bc8827b31b96baed3b62626e815348afde07beb3.jpg)  
+图1引物T8对31份茶树种质材料的EST-SSR扩增电泳图
+
+Note:First lane is the marker, others are materials No.1-31.
+
+Fig.1 EST-SSR amplification electrophoresis results of 31 tea tree germplasms by the primer T8
+
+# 2.231份供试种质的亲缘关系
+
+根据31份供试茶树种质资源扩出的68个EST-SSR位点的谱带数据组成原始矩阵，计算所有种质之间的遗传相似性系数，绘制亲缘关系聚类图（图2），结果表明供试种质间的遗传相似系数为 $0 . 5 3 \sim \ 0 . 9 0$ ，平均为0.71，当遗传相似系数等于0.82时， $70 \%$ 种质已经完全分开，其中金秀1号和金秀3号的遗传相似系数最高，达到0.90，宁明2号与湘波绿最低，仅为0.38，表明广西野生茶树种质资源间经长期的自然选择后，与当前推广的国家级良种间存在较大的遗传差异，而广西野生资源之间既表现一定的遗传相似性，也存在着丰富的遗传差异。从系统树发现，31份供试材料分类比较零散，没有很明显的大群组，在相似系数为0.71左右分为5组群：A、B、C、D和E，其中A组群包含19份材料，占到所有供试的 $61 \%$ .分别是：黄金芽、黄金叶、玉麒麟、六堡2号、梅占、金观音、黄观音、福鼎大毫、黄玫瑰、桂香18号、六堡3号、六堡4号、尧山秀丽、桂绿1号、云南大叶种、金秀1号、金秀3号、金秀5号；B组群有金秀2号、金秀4号、碧香早、湘波绿；C组群也有6个材料，分别是：白玉1号、紫鹃、六堡1号、六堡5号、宁明1号、宁明3号；D和E组群分别都只有1份材料，分别是宁明4号和宁明2号。以相似系数0.78为阈值，A组群又可分为7个亚群，B组群细分为3个亚群，C组群则分为4个亚群。从整个亲缘关系图来看，大部分资源按照相同地域来源聚在了一起，如A3亚组群中来自浙江安吉的黄金叶和黄金芽，来自广西桂林的A4亚组群桂绿1号和尧山秀丽，来自湖南长沙的B3亚组群碧香早和湘波绿，还有A6亚组群金秀1号和金秀3号，C3亚组群宁明1号和宁明3号，两份材料彼此间的遗传相关系数相对较小，说明较近的地理关系表现出较近的亲缘关系；A1组群中，金牡丹、金观音、黄观音均由铁观音与黄金桂杂交而得，而黄玫瑰又是由黄金桂与黄观音回交一个世代获得，显然他们之间的遗传相似系数相对要高，聚到了一起也是情理之中；另外C2亚组群中的紫鹃和六堡1号，两者虽然不是来自同一地区，但两份材料均为紫芽材料，也聚到了同一个分支上，较相近的形态学特征也表现出较近的亲缘关系，说明该研究所选用的引物可以对供试材料的遗传差异性进行比较客观科学的分析。
+
+![](images/078123d8af90b15efa13173a6b45ccdcdbc382d0769401b0b7fe72a1a738d183.jpg)  
+图2基于EST-SSR标记的31份供试材料的UPGAM聚类图
+
+Fig.2 Dendrogram obtained using UPGMA based on SSR marker for 31 tea germplasms
+
+# 2.3供试种质的DNA指纹图谱
+
+该研究中，使用15对EST-SSR引物其中的T8、T21、T588、T1110共4对引物即可鉴定供试的31份种质，基于这4对引物对每份茶树资源的等位基因带型，挑选其中的10个位点进行组合编码，构建了31份供试种质的的DNA分子指纹图谱（图3），并获得10位数DNA分子身份证编码（表5）。结果表明，每份材料都对应一个唯一的身份证编码，这4对EST-SSR引物可作为鉴别茶树品种的参考引物。
+
+注：黑色表示等位基因存在，白色表示缺失。
+
+![](images/47e82fcf938acb276f1ddbd05091e0a2cc7e99901e3f7b57215ad78c412dbfb3.jpg)  
+图331份供试茶树种质的DNA分子指纹图谱
+
+Note:The black represents the allele,white represents absence.
+
+Fig.3 DNA molecular fingerprinting of 31 test tea tree germplasms 表531份供试茶树种质的DNA分子指纹图谱编码
+
+Table 5 Code of DNA molecular fingerprinting for 31 test tea tree germplasms
+
+<html><body><table><tr><td>种质名称</td><td>DNA分子指纹图谱编码</td><td>种质名称</td><td>DNA分子指纹图谱编码</td></tr><tr><td>Germplasm</td><td>Code of DNA fingerprints</td><td>Germplasm</td><td>Code of DNA fingerprints</td></tr><tr><td>宁明1号Ningming 1</td><td>0011010100</td><td>桂香18 号Guixiang 18</td><td>0000001100</td></tr><tr><td>宁明2号Ningming 2</td><td>1011110001</td><td>云南大叶种 Yunnandayezhong</td><td>1001111100</td></tr><tr><td>宁明3号Ningming 3</td><td>0000110000</td><td>碧香早Bixiangzao</td><td>1100001011</td></tr><tr><td>宁明4号Ningming 4</td><td>1010111000</td><td>福鼎大毫Fudingdahao</td><td>0011011010</td></tr><tr><td>宁明5号Ningming 5</td><td>0010001000</td><td>尧山秀丽 Yaoshanxiuli</td><td>1001001001</td></tr><tr><td>金秀1号Jinxiu 1</td><td>1110010011</td><td>金牡丹Jinmudan</td><td>0011011000</td></tr><tr><td>金秀2号Jinxiu 2</td><td>1011111010</td><td>白叶1号Baiye 1</td><td>0011010000</td></tr></table></body></html>
+
+<html><body><table><tr><td>金秀3号Jinxiu3</td><td>0110011011</td><td>梅占Meizhan</td><td>1001001000</td></tr><tr><td>金秀4号Jinxiu4</td><td>0001010111</td><td>金观音Jinguanyin</td><td>0000101010</td></tr><tr><td>金秀5号Jinxiu5</td><td>1011100001</td><td>黄观音Huangguanyin</td><td>1011011001</td></tr><tr><td>六堡1号Liubao 1</td><td>1000100001</td><td>黄玫瑰 Huangmeigui</td><td>0101100001</td></tr><tr><td>六堡2号Liubao2</td><td>1100010000</td><td>黄金芽Huangjinya</td><td>0110010100</td></tr><tr><td>六堡3号Liubao3</td><td>1010001001</td><td>黄金叶 Huangjinye</td><td>0101100100</td></tr><tr><td>六堡4号Liubao4</td><td>1100010101</td><td>湘波绿Xiangbolv</td><td>1100000001</td></tr><tr><td>桂绿1号Guilv 1</td><td>0001001101</td><td>玉麒麟Yuqilin</td><td>0011111000</td></tr><tr><td>紫鹃 Zijuan</td><td>0011101000</td><td></td><td></td></tr></table></body></html>
+
+# 3.讨论与结论
+
+# 3.1EST-SSR标记的多态性丰富，能对供试材料的遗传多样性进行客观分析
+
+随着分子生物学、生物信息学、基因组学的快速发展，可供用于植物遗传研究的分子标记种类越来越丰富，除了传统的RAPD、AFLP、ISSR、EST-SSR，近年来又出现了STS、SNP等分子标记，但茶树作为异花授粉的多倍体木本植物，基因组相对比较复杂，DNA分子标记在茶树遗传研究起步较晚，目前多数标记在茶树上的研究基本处在初步阶段。本研究用15对EST-SSR引物对14份广西野生茶树资源和17份国内优良茶树品种进行了遗传多样性和亲缘关系的分析。15对EST-SSR引物各项数据均处于理想的范围，说明所筛选获得的标记多态性较好。聚类图中，相同来源、相同亲本、相同形态特性的材料均聚到了一起，说明选用的引物能对材料的等位位点进行有效扩增，真实客观反映出供试材料的遗传多样性。白玉1号、紫鹃和六堡1号表现出按叶色优先聚类的趋势，说明叶色的多样性是分子标记遗传多样性表现形式的一个方面，但这些EST-SSR标记是否与茶树叶色相关联还需要进一步研究。该研究中用四个引物即可将供试31种质全部分开，经过计算机处理，形成了每个种质唯一的分子身份证编码，说明所用引物等位位点非常丰富，具有很强的茶树品种鉴别能力，这套引物可用于构建茶树品种分子指纹图谱或作为茶树品种的鉴定的参考引物。
+
+# 3.2广西野生茶树资源遗传多样性丰富
+
+聚类结果中，大部分资源能够按照相同的地理来源或相似的形态学特性聚在同一类群，但也有部分材料例外，体现了茶树复杂的亲缘关系。亲缘关系图中，供试的17份国家级良种中有13份都聚在A组群，占到总数的 $7 6 \%$ ，而广西本地的野生茶树资源则分布在B、C、D、E组群，说明广西野生茶树资源与国家级茶树良种遗传差异较大。另外，广西本地的野生茶树中，来自同一地区的材料间或者来自不同地区的材料间，除了金秀1号和金秀3号遗传相似系数达到0.9外，其他两两之间的遗传相似系数均小于0.81，宁明2号和宁明4号甚至在相似系数为0.53和0.64时便单独聚成一类，可见广西野生茶树资源的遗传多样性非常丰富。这主要得益于广西作为茶树亚起源中心，自北向南分为中亚热带、南亚热带、北热带3个气候带，多样的气候环境也就孕育了多样性十分丰富的野生茶树资源，又由于广西多山地，阻隔了各茶区之间的基因自然交流，这就使各个茶区形成了一个个相对独立的资源库。
+
+# 3.3广西野生茶树种质资源遗传多样性的利用和保护
+
+广西野生茶树种质资源丰富，以往限于人力和技术，很多资源并未得到很好的挖掘，基于广西本地茶树资源选育出的茶树良种少之又少，随着人们对种质资源认识的不断深入和研究分析手段的不断丰富，广西野生茶树资源正逐步引起重视并被加以研究利用。利用分子标记技术对广西野生茶树资源进行遗传多样性分析，揭示育种材料之间的亲缘关系。在农艺性状优良的前提下，将亲缘关系远的材料进行杂交，可望获得遗传基础丰富、变异类型多甚至超亲的杂交后代。从该研究结果来看，材料宁明2号和宁明4号在遗传相似系数分别等于0.53和0.63时单独聚类，说明它们与其他供试材料间的遗传差异较大，分别选择宁明2号或者宁明4号与国家级良种进行杂交育种，如：金牡丹（宁明2号与金牡丹遗传相似系数为0.57）、湘波绿（宁明2号与湘波绿遗传相似系数为0.58）、碧香早（宁明2号与碧香早遗传相似系数为0.55），都有望获得具有优良性状的杂交后代。可见遗传多样性分析可以为亲本配置提供依据，使所做的育种工作更加有针对性，提高优良品系选育的效率。遗传多样性分析在种质保护中同样具有重要价值，在开展收集种质资源工作时，人们往往通过肉眼观察，根据形态学特性、农艺性状来筛选种质，但对于一些形态特性相似种质会难以做出选择，从而会错过一些携带优异基因的种质材料，另外仅从形态学往往会过高估计（Bushakra etal，1999），收集到重复材料，在实际收集工作中造成人力、物力、财力的浪费。收集前先对野生材料进行系统的遗传多样性分析，然后根据分析结果筛选收集种质，从而以最少数量的遗传资源最大限度地保存整个资源群体的遗传多样性，起到事半功倍的效果。
+
+随着茶树基因组测序工作完成，茶树分子标记数量和种类将有大幅度增加，结合广西野生茶树资源丰富的优势，今后重点对我区野生茶树资源的遗传特性进行分析、鉴定，挖掘茶树功能基因并进行QTL定位，开展茶树遗传图谱绘制等，在为我区乃全国茶树育种工作不断提供新的种质材料的同时，可极大促进茶树分子标记辅助育种的进一步发展。
+
+# 参考文献：
+
+BOTSTEIN D, WHITE RL, SKOLNICK M, et al.,1980. Construction of a genetic linkage map inman using restriction fragment length polymorphisms[J]. Amer J Human Genet, 32: 314-331.BUSHAKRA JM, HODGES SA, COOPER JB, et al.,1999. The extent of clonality and geneticdiversity in the Santa Cruz Island ironwood Lyonothamnus floribundus[J]. Molec Ecol,8:  
+471-475.CHEN SX, 2OO9. A preliminary study on screening special tea plant germplasm resources withhigh cafeine and SSR markers related to high caffeine[D]. Chengdu: Sichuan AgricultureUniversity:1-36.[陈盛相，2009．高咖啡碱含量的茶树特异种质资源筛选及 SSR 标记初步研究[D]．成都：四川农业大学：1-36.]CHEN X,LI J, ZHANG Y, et al., 2O16. Genetic diversity analysis of tea in Shaanxi Provincebased on EST-SSR[J].J Sichuan Agric Univ,34(3): 322-327.[陈熙,李佼，张羽，等,2016.基于EST-SSR 的陕西茶树资源遗传多样性分析[J]．四川农业大学学报，34（3）：322-327.]Gao LF, JING, HUO NX, et al., 2O04. One hundred and one new microsatellite loci derived fromEST-SSR in bread wheat[J]. Theor Appl Genet, 108: 392-1400.HUANG SH,2O13. Primary study on authenticity and purity detection of rapeseed hybridsusing SSR markers[D]. Wuhan: Huazhong Agricultural University:1-48.[黄寿辉,  
+2013．油菜杂交种真实性和纯度 SSR 标记检测初步研究[D]．武汉：华中农业大学：  
+1-48.]JIN JQ, CUI HR, GONG XC, et al., 2007. Studies on tea plants germplasms using EST-SSRmarker[J].Heletitas,29(1):103-108.[金基强，崔海瑞，龚晓春，等，2007．用 EST-SSR 标记对茶树种质资源的研究[J]．遗传，29（1）：103-108.]  
+LIANG HL,LIANG YR, 2O03. The principle and application of plant molecular marker and theof in genetics and breeding of tea[J].Tea,29(4):191-194.[梁慧玲，梁月荣，2003．植物分子标记技术原理及其在茶树育种中的应用[J]．茶叶，29(4)：191-194．]  
+LIU BY, 2009. Application studies of EST-SSR and ISSR markers in tea germplasms fromyunnan[D]. Beijing: Chinese Academy of Agricultural Sciences:1-97.［刘 本英，2009．EST-SSR 和 ISSR 分子标记在云南茶树资源中的应用研究[D]．北京：中国农业科学院：1-97．]  
+LIU BY，WANG LY, ZHOU J, et al., 2O08. Fingerprinting construction and genetic diversityanalysis of Yunnan Dayezhong tea germplasm resources by ISSR markers[J]. Journal of PlantGenetic Resources,(9):458-464.[刘本英，王丽鸳，周健，等，2008．云南大叶种茶树种质资源 ISSR指纹图谱构建及遗传多样性分析[J]．植物遗传资源学报，（9）：458-464．]  
+LIU Z, WANG XC, ZHAO LP, et al., 2008. Genetic diversity and relationship analysis of teagermplasms originatedfrom south western China based on EST-SSR[J]. Molecular PlantBreeding,6(1):100-110.[刘振，王新超，赵丽萍，等，2008．基于 EST-SSR 的西南茶区茶树资源遗传多样性和亲缘关系分析[J]．分子植物育种，6（1）：100-110．]  
+POWELL W,MACHRAY GC, PROVAN J, 1996.Polymorphism revealedby simple sequencerepeats[J]. Trends Plant Sci,1(7) :215-222.  
+QIAO TT,2010. Genetic diversity of tea and association analysis of phenotypic traits with ESTSSR markers[D]. Beijing: Chinese Academy of Agricultural Sciences: 1-57.[乔婷婷，2010．茶树资源遗传多样性及其表型性状关联 EST SSR 位点的初步鉴定[D]．北京：中国农业科学院：1-57.]  
+QIN XJ，CHEN XQ，CHEN CF,et al.， 2006. A review of the germplasm resources ofcharacteristic tea trees in Guangxi [J]. Chin Countryside Well-off Technol, (1O):37-38,[覃秀菊，陈新强，陈春芬，等，2006．广西特性茶树种质资源综述[J]．中国农村小康科技，（10）：37-38，45.]  
+ROHLF FJ, 20O0. NTSYS-pc numerical taxonomy and multivariate analysis system version 2.1[OL]. New York: pplied Biostatistics Inc.http://www.exetersoftware.com/cat/ntsyspc/ntsyspc.html.  
+SAHA MC，MIAN MA，EUJAYLL，et al.， 2004. Tall fescue EST-SSR markers withtransferability across several grass species[J]. TheoreticalAppl Genet, 1O9: 783-791.  
+VARSHNEY RK, GRANER A, SORRELLS ME, 2005. Genic microsatellite markers in plants:features and applications[J]. Trends in Biotechnol, 23(1): 48-55.  
+WANG LY，CHENG H， ZHOU J，2004. Advances on DNA molecular markers andgene-engineering in tea plants[J].JTea Sci,24(1):12-17.[王丽鸳，成浩，周健，2004．茶树DNA 分子标记及基因工程研究进展[J]．茶叶科学，24（1）：12-17．]
+
+YAO MZ, CHEN L,2OO3.The application of molecular marker in genetics and breeding of tea[J].BiotechnolBul,(5):27-30.[姚明哲，陈亮，2003．分子标记在茶树遗传育种上的应用[J].生物技术通报，（5）：27-30．]
+
+YAO MZ,2O09. Studies on genetic diversity and structure of tea ermnlasm in China based on ISSR and EST SSR markers[D]. Hangzhou: Zhejiang University: 1-90.[姚明哲，2009．利用 ISSR 和EST-SSR标记研究中国茶树资源的遗传多样性和遗传结构[D]．杭州：浙江大学： 1-90.]
+
+YEHFC,YANG RC， BOYLE T， 1999. POPGENE: Microsoft window-based freeware for population genetic analysis, version 1.31[OL]. Edmonton, Canada: University of Alberta. http://sites.ualberta.ca/\~fveh/popgene.html.
+
+YI FL,1986.An analysis on the origin and origin cener of tea trees[J]. JTea Sci, 6(1): 1-8.[虞富莲，1986．论茶树原产地和起源中心[J]．茶叶科学，6（1）：1-8．]
+
+ZHOU M,LI YY, SUN XM, et al.,2013. Genetic diversity assessment of ancient tea plants in yunnan province of china revealed by EST-SSR markers [J]. Acta Agric Boreal-Sin, (28): 91-96. [周萌，李友勇，孙雪梅，等,2013.基于EST-SSR标记的云南大茶树遗传多样性分析[J].华 北农学报，（28）：91-96．]

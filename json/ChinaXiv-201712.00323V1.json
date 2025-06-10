@@ -1,0 +1,363 @@
+[
+    {
+        "type": "text",
+        "text": "Effectsof long-term cultivation practicesand nitrogen fertilization rates on carbon stock in a calcareous soil on the Chinese Loess Plateau ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CAI Miao1,2,CHEN Zhujun1\\*,ZHOU Jianbin1,HAN Jichang², SHI Qianyun ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Natural Resources and Environment, Northwest A&F University, Yangling 712100,China;   \n2 Shaanxi Provincial Land Engineering Construction Group,Xi'an 710o75,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Soil organic carbon (SOC) and soil inorganic carbon (SIC) are important C pools in the Loess Plateau of Northwest China, however, variations of SOC and SIC stocks under different cultivation practices and nitrogen $\\mathrm { ( N ) }$ fertilization rates are not clear in this area.A long-term field experiment started in June 2O03 was conducted to investigate the SOC and SIC stocks in a calcareous soil of the Chinese Loess Plateau under four cultivation practices,i.e.,falow (FA),conventional cultivation (CC),straw mulch (SM),and plastic film-mulched ridge and straw-mulched furrow (RF),in combination with three N fertilization rates,i.e., 0 (N0),120 (N120),and 240 (N240) $\\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ .Results indicate that the crop straw addition treatments (SM and RF) increased the contents of soil microbial biomass C (SMBC) and SOC, and the SOC stock increased by $1 0 . 1 \\% - 1 3 . 3 \\%$ at the upper $2 0 \\ \\mathrm { c m }$ soil depth in comparison to the 8-year fallow (FA） treatment. Meanwhile, SIC stock significantly increased by $1 \\%$ at the entire tested soil depth range $( 0 { - } 1 0 0 ~ \\mathrm { c m } )$ under all crop cultivation practices in comparison to that of soil exposed to the long-term fallow treatment, particularly at the upper $6 0 ~ \\mathrm { c m }$ soil depth.Furthermore,moderate $\\mathrm { \\Delta N }$ fertilizer application ( $( 1 2 0 \\mathrm { ~ k g ~ N / h m } ^ { 2 } )$ increased SOC stock at the upper $4 0 \\ \\mathrm { c m }$ soil depth,whereas SIC stock decreased as the $\\mathrm { \\Delta N }$ fertilization rate increased.We conclude that the combined application of crop organic residues and moderate $\\mathrm { \\Delta N }$ fertilization rate could facilitate the sequestrations of SOC and SIC in the calcareous soil. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: calcareous soil; cultivation practices; N application rate; soil C stock; Loess Plateau ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Soil contains approximately $7 5 \\%$ of the terrestrial carbon (C) pool in forms of soil organic carbon (SOC) and soil inorganic carbon (SIC). The changes of soil C stock may have significant effects on the global C budget and atmospheric $\\mathrm { C O } _ { 2 }$ mitigation (Lal, 20O4). Increasing the soil C pool by $1 ~ \\mathrm { P g }$ is equivalent to reducing the atmospheric $\\mathrm { C O } _ { 2 }$ concentration by $0 . 4 7 ~ \\mathrm { p p m }$ ，and vice versa (Lal, 2007). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Globally, the estimated SOC stock ranges from 1200 to $1 6 0 0 ~ \\mathrm { P g }$ at the top $1 \\mathrm { ~ m ~ }$ soil depth, which contains more than twice the quantity of C contained in vegetation or the atmosphere (Eswaran et al.,1993; Sombroek et al.,1993; Batjes,1996). However, SIC is the dominant form of C in arid and semi-arid areas that cover one-third of the Earth's land surface.Estimation of the global SIC pool at the top $1 \\mathrm { m }$ soil depth varies widely from 695 to $1 7 3 8 \\mathrm { P g }$ (Batjes 1996; Zhang et al.,2O15) and the uncertainty requires for further investigation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil and crop managements such as tillage,mulching,and fertilization can significantly alter above-and below-ground crop biomass production， thereby altering C accumulation in soil (Gwenzi et al.,2008; Liang et al., 2012; Li et al.,2013). For example, mulching with crop organic residues has numerous beneficial influences on soil characteristics (Sainju et al.,2Oo5; Lal,2007), while removing crop residues from fields reduces C input and accumulation (Lemke et al., 2010). Additionally， plastic film mulch is widely used to conserve soil moisture and maintain temperature in rain-fed farmland. However, film mulching has been shown to decrease SOC stock by accelerating soil C mineralization (Song et al.,2OO2).Meanwhile,the efect of N fertilization on SOC pool has also been widely studied.N fertilizer application increases SOC stock, but the increase occurs only when crop organic residues are returned back to the field (Alvarez, 2005). The influence of $\\mathbf { N }$ addition on SOC sequestration is controversial, i.e., the controversies range from positive effects (Regmi et al.，2002） to litte influence (Khan et al.，2007)，and even to negative impacts (Korner and Arnone, 1992). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In contrast to SOC, SIC is often thought to be much more stable and less sensitive to agricultural practices， but there is a growing recognition that agricultural practices can fundamentally alter the inorganic C cycle in soil (Mikhailova and Post,2Oo6; Chang et al., 2012; Hurisso et al.，2O13).The total loss of SIC in China caused by extensive human activities has been estimated to be approximately $1 . 6 \\mathrm { P g } \\mathrm { C }$ ； and the most significant SIC loss was observed in the expansive areas of cultivated soil in the eastern part of northern China,where dry farmland and irrigated paddy fields are dominant. In contrast, the SIC stock has increased by approximately $10 \\%$ in irrigated areas in northwestern China (Wu et al., 2OO9). It was reported that SIC stock can change at a rate similar to or greater than SOC stock (Sanderman, 2Ol2). However, the processes underlying SIC accumulation and loss are different from those underlying SOC and were seldom investigated. Therefore, the effect of human activity on the SIC pool may be worth further study. SOC and SIC are also important C pools in the Loess Plateau of Northwest China. Significant erosion has resulted in extensive removal of SOC;and the density and stock of SIC in the Loess Plateau soil are approximately 2.2 and 2.1 times greater, respectively, than those of SOC (Tan et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The southern Loess Plateau is one of the birthplaces of Chinese agriculture. Carbonized grain discovered in Banpo Village, Xi'an City has been shown to be 56OO to 6O8O years old (Gong et al., 1999).Farmers in this region have been using fertilizer containing loess mixed with manure to improve soil fertility for millennia,forming an anthropogenic surface layer designated as Lou soil (Terric Anthrosols） over the zonal soil (Cinnamon soil) layer (Zhu,1964） and increasing the contents of SOC and SIC in topsoil (Dong et al.,2O13). The amount of N fertilizer in agriculture in China has increased rapidly over the past 3O years (Cui et al.,2O13),resulting in a series of environmental problems， including soil acidification， groundwater pollution， widespread eutrophication,and emisson of nitrous oxides (Khan et al.,2Oo7; Ju et al.,2OO9; Guo et al.,2010; Zhang et al.,2O13). Similar situations also prevail in northern China, including the Loess Plateau. In northern China, soil $\\mathrm { \\ p H }$ under cereals and cash crops decreased by O.27 and O.58, respectively, from the 198Os to the 200Os (Guo et al.，2010),which may have affected SIC stabilization. However, studies on the effects of long-term N application on SIC stock in calcareous soils are rather scarce.Therefore,the objective of this study was to determine the effects of cultivation practices and $\\mathbf { N }$ fertilization rates on SOC and SIC stocks in a calcareous soil of the Chinese Loess Plateau. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A long-term crop rotation experiment was initiated in June 2OO3 at Northwest A&F University, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Yangling，Shaanxi Province on the southern edge of the Loess Plateau,China $( 3 4 ^ { \\circ } 1 7 ^ { \\prime } 5 6 ^ { \\prime \\prime } \\mathrm { N } _ { \\cdot }$ $1 0 8 ^ { \\circ } 0 4 ^ { \\prime } 0 7 ^ { \\prime \\prime } \\mathrm { E } )$ . The experimental site has a temperate,semi-humid climate with an elevation of $5 2 3 \\mathrm { ~ m ~ }$ ,an annual mean temperature of $1 3 ^ { \\circ } \\mathrm { C }$ ，an annual potential evaporation of $1 4 0 0 \\mathrm { m m }$ ,and an annual precipitation of $6 0 0 { - } 6 5 0 ~ \\mathrm { m m }$ ，with approximately $60 \\%$ of precipitation occurring between July and September. The calcareous, clay,loamy soil at the site is known locally as “Lou soil\" and is classified as Terric Anthrosol in the World Reference Base (WRB) for Soil Resources.The main chemical properties of the surface soil $\\left( 0 { - } 2 0 \\ \\mathrm { c m } \\right)$ prior to planting in 2003 were: pH,8.25; organic （ ${ \\therefore 8 . 8 3 \\ \\mathrm { g / k g } }$ ；total $\\mathrm { N } , \\ 0 . 6 7 \\ \\mathrm { g / k g }$ ；Olsen-P (phosphorus)， $1 7 . 2 ~ \\mathrm { m g / k g }$ and $\\mathrm { N H _ { 4 } O A c { - } K }$ (potassium), $1 6 9 . 4 ~ \\mathrm { m g / k g }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study was conducted in a completely randomized split-block design. The three main treatments were (1） conventional cultivation (CC)，(2） straw mulch (SM)，and (3） plastic film-mulched ridge and straw-mulched furrow (RF). The sub-plot treatments were three N fertilization rates: 0 (NO),120 (N120),and 240 (N240) kg N/hm2. Each treatment was replicated four times. One fallow (FA) plot was included in the experiment for a control. The plot size was $4 . 0 \\ \\mathrm { m } { \\times } 4 . 5 \\ \\mathrm { m }$ . A cropping rotation system comprising winter wheat (Triticum aestivum L.） and summer maize (Zea maysL.) was used. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The CC treatment was not covered with straw or plastic film mulch. Wheat subjected to the CC treatment received $4 0 ~ \\mathrm { m m }$ of flood irrigation in winter. Maize was irrigated at the early growing stage after planting to promote plant growth. The amount of irrigation water varied each year (from O to $6 0 ~ \\mathrm { m m }$ , depending on the amount of rainfal. During the reproductive stages,maize was completely dependent on rainfall to meet its water requirements. For plants subjected to the SM and RF treatments, wheat was not irrigated, whereas maize was irrigated with one-half the rate of the maize subjected to the CC treatment. The SM treatment was mulched with 4500 $\\mathrm { k g / h m } ^ { 2 }$ air-dried crop residues. Wheat straw was used to mulch both wheat and maize plants from 2003 to 2OO7. Since 2OO8,wheat crop was mulched with the maize residue, whereas the maize crop was mulched with the wheat straw. Residues were cut into pieces (approximately $5 \\ \\mathrm { c m }$ in length) and applied 6O days after seedling emergence. The RF treatment consisted of alternating ridges ( $3 0 \\ \\mathrm { c m }$ wide and $1 5 \\ \\mathrm { c m }$ high） and furrows（ $3 0 \\ \\mathrm { c m }$ wide);and the furrows were mulched with $2 2 5 0 \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ air-dried crop residues. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Wheat was sown in preceding October and harvested in succeeding June. N was applied as urea 0 $4 6 \\%$ N),whereas $\\mathrm { \\bf P }$ fertilizer $( 8 0 \\mathrm { k g } \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } / \\mathrm { h m } ^ { 2 } )$ was applied as superphosphate.In this study, no K fertilizer was applied. All fertilizers were spread uniformly across the soil surface,and then ploughed into the upper $1 5 \\ \\mathrm { c m }$ soil depth before wheat was sown. Maize was planted by hand immediately after the wheat harvest (without tilling the soil),and harvested in October. One-third of the added N fertilizer was applied at the seedling stage, whereas the remaining two-thirds were applied at the booting stage. A hoe was used to incorporate the N fertilizer into the soil near the seedlings. No P fertilizer was applied to soil in which maize was growing. Weeds were controlled with herbicides and removed by hand periodically (Zhou et al., 2011). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Soil sampling ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "After the maize was harvest in October 2O11, soil samples were collected with $2 0 \\mathrm { - c m }$ intervals to a depth of $1 0 0 \\mathrm { c m }$ with a soil auger ( $5 \\mathrm { c m }$ in diameter). One core was collected from each plot in the CC, SM,and RF treatments, while four cores were collected from the FA plot as replicates. Coarse roots were removed from each soil sample. The subsamples were stored at $4 ^ { \\circ } \\mathrm { C }$ for the determinations of soil microbial biomass C(SMBC)and soluble organic C (SSOC). The residual soil samples were air-dried and then passed through a $0 . 1 5 \\mathrm { - m m }$ sieve. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 Analytical methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The gravimetric soil water content was determined by drying soil at $1 0 5 ^ { \\circ } \\mathrm { C }$ for $1 2 \\mathrm { h }$ .SOC content was determined by the potassium dichromate wet oxidation method (Walkley and Black,1934). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil carbonate content was determined using a Chitick apparatus (Dreimanis,1962). In the study region, soil carbonates were dominated by $\\mathrm { C a C O } _ { 3 }$ ；therefore,a factor of O.12,the ratio of the atomic mass of C to the molar mass of $\\mathrm { C a C O } _ { 3 }$ ，was used to convert soil $\\mathbf { C a C O } _ { 3 }$ to soil inorganic C (Yang et al.，2O12). SMBC content was determined by the chloroform fumigation extraction method (Vance et al.,1987). Fumigated and non-fumigated fresh soil samples were extracted with $0 . 5 \\ \\mathrm { m o l / L }$ （20号 ${ \\mathrm { K } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ and shaken at $2 2 0 ~ \\mathrm { r p m }$ for $3 0 ~ \\mathrm { m i n }$ . Aliquots from the non-fumigated filtrates were used to determine SSOC. Soil $\\mathrm { p H }$ value was determined in a soil:water suspension (1:1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil C stock $( T _ { S C } , \\mathbf { M g } / \\mathbf { h m } ^ { 2 } )$ at the $0 { \\mathrm { - } } 1 0 0 \\ \\mathrm { c m }$ soil depth was calculated by the following equation: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { S C } = { \\sum _ { i = 1 } ^ { n } } \\frac { S C _ { i } \\times B _ { i } \\times D _ { i } } { 1 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $S C _ { i }$ is the SOC or SIC content of the $i ^ { \\mathrm { t h } }$ layer $( \\mathrm { g } / \\mathrm { k g } ) ; B _ { i } .$ ,the soil bulk density of the $i ^ { \\mathrm { t h } }$ layer $( \\mathrm { g } / \\mathrm { c m } ^ { 3 } )$ ： $D _ { i }$ ,the thickness of the $i ^ { \\mathrm { t h } }$ layer (cm) (e.g., $2 0 \\mathrm { c m } )$ ： $1 0 ^ { - 1 }$ is the correction factor $( \\mathrm { m } ^ { 2 } / \\mathrm { h m } ^ { 2 } )$ · and $n$ is the number of soil layers.The soil bulk densities at the O-20,2O-40,40-60,60-80,and $8 0 { - } 1 0 0 \\ \\mathrm { c m }$ soil depth were 1.34,1.57,1.57,1.52, and $1 . 5 0 \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ ,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Two factors,cultivation practice and $\\mathbf { N }$ fertilizer rate,were analyzed together using split-plot experimental ANOVA. Differences in means were compared by the Duncan test at $P { < } 0 . 0 5$ level. All statistical analyses were conducted with SAS version 8.1 for Windows. According to the ANOVA results,there was no significant interactive effect between cultivation practice and $\\mathsf { N }$ fertilization rate in each treatment; therefore,the interactive effects of these two factors on soil $\\mathrm { p H }$ SMBC and SSOC, SOC and SIC content were not analyzed or discussed in this study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Soil pH ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The highest $\\mathsf { p H }$ value was occurred at the $4 0 { \\mathrm { - } } 6 0 \\ \\mathrm { c m }$ depth while the lowest $\\mathrm { \\ p H }$ value was observed at the $0 { - } 2 0 ~ \\mathrm { c m }$ soil depth (Fig.1). Soil pH values did not vary significantly among the CC， SM,and RF treatments，whereas the FA treatment significantly decreased soil $\\mathrm { \\ p H }$ in comparison to that of soil subjected to the CC treatment at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ soil depth.Over the $0 { \\mathrm { - } } 1 0 0 \\ \\mathrm { c m }$ depth,the lowest $\\mathrm { p H }$ value was found in the soil subjected to the N24O treatment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b81d324f3ccda767722676e99102ceab38d6e91fe075b8f5446b62505dcbc86.jpg",
+        "img_caption": [
+            "Fig.1Soil $\\mathrm { \\ p H }$ values under different cultivation practices (a) and N fertilization rates (b).FA,fallow; CC, conventional cultivation; SM,straw mulch; RF,plastic film-mulched ridge and straw-mulched furrow; No,0 kg $\\mathrm { N } / \\mathrm { h m } ^ { 2 }$ ; N120, $1 2 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ ; N240, $2 4 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ .Bars indicate standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2Soil microbial biomass C (SMBC) and soil soluble organic C (SSOC) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The contents of SMBC and SSOC decreased with soil depth (Fig.2). The SMBC content at the $ { 0 - 6 0 }  { \\mathrm { c m } }$ depth under the SM and RF treatments was significantly higher than that of the FA soil. SMBC content did not significantly differ among the soil samples subjected to the CC, SM, and RF treatments,with the exception of the $0 { - } 2 0 ~ \\mathrm { c m }$ depth.The SSOC content of soil samples subjected to the CC， SM,and RF treatments was greater than that of the FA soil. The N fertilization rates showed no distinct effect on the content of SMBC or SSOC at the $0 { \\mathrm { - } } 6 0 \\ \\mathrm { c m }$ soil depth.A significant positive correlation was found between the SMBC and SSOC （204号 $\\scriptstyle ( y = 0 . 1 7 6 x + 0 . 0 6 4$ ， $P { < } 0 . 0 1$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea84613cbb3be614f9d66ced5ffb9f091aea40f8e15a7fd657581391c277b73a.jpg",
+        "img_caption": [
+            "Fig.2Soil microbial biomass C(SMBC)and soil soluble organic C(SSOC) contents under diffrent cultivation practices (a,b) and $\\mathbf { N }$ fertilization rates (c,d).FA,fallow;CC,conventional cultivation; SM, straw mulch; RF, plastic film-mulched ridge and straw-mulched furrow; N $\\ S 0 , \\ 0 \\ \\mathrm { k g } \\ \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ ；N120, $1 2 0 \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ ； N240, $2 4 0 ~ \\mathrm { k g }$ $\\mathrm { N } / \\mathrm { h m } ^ { 2 }$ .Bars indicate standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 SOC and SIC stocks ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 3a showed that about $50 \\%$ of SOC stock was accumulated in the upper $4 0 \\mathrm { c m }$ depth.At the $0 { - } 2 0 ~ \\mathrm { c m }$ depth，SOC stock increased by $3 . 4 \\%$ ， $1 3 . 3 \\%$ ，and $1 0 . 1 \\%$ ，respectively，in the soil samples subjected to the CC, SM, and RF treatments, in comparison to that of the FA soil. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Similar to the SOC stock, the SIC stock at the $\\textstyle 0 - 4 0 \\ \\mathrm { c m }$ depth accounted for $7 5 . 9 \\% - 7 8 . 8 \\%$ of total SIC stock (Fig. 3b). Average SIC stock significantly increased by $7 . 6 \\% - 9 . 9 \\%$ at the $\\textstyle 0 - 2 0 \\mathrm { c m }$ depth, $1 9 . 1 \\% - 2 4 . 6 \\%$ at the $2 0 { - } 4 0 ~ \\mathrm { c m }$ depth,and $3 8 . 2 \\% - 3 9 . 6 \\%$ at the $4 0 { \\mathrm { - } } 6 0 ~ \\mathrm { c m }$ depth at the soil samples subjected to the CC, SM,and RF treatments,respectively, in comparison to that of the FA soil. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The SOC stocks at the $0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ depth subjected to different $\\mathbf { N }$ application rates were in the following decreasing order: N120 ( $( 8 6 . 3 \\ \\mathrm { M g / h m ^ { 2 } } ) { > } \\mathrm { N O }$ $8 5 . 3 ~ \\mathrm { M g / h m ^ { 2 } } ) { > } \\mathrm { { N } } 2 4 0$ $\\langle 8 4 . 3 ~ \\mathrm { M g / h m ^ { 2 } } \\rangle$ (Fig. 3c). On the contrary, SIC stock decreased as the rate of $\\mathrm { \\bf N }$ addition increased (Fig. 3d). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At the $0 { \\mathrm { - } } 1 0 0 \\ \\mathrm { c m }$ depth, SOC stocks ranged from 83.7 to $8 5 . 8 ~ \\mathrm { M g / h m } ^ { 2 }$ ,and did not significantly differ among the fallow and the tested cultivation treatments. SIC stocks ranged from 58.8 to 70.0 $\\mathbf { M g } / \\mathbf { h m } ^ { 2 }$ among the soil samples. SIC stock was significantly increased by $1 8 . 7 \\%$ in the soil samples subjected to the crop cultivation treatments in comparison to that of the FA soil (Fig. 4a). $\\mathbf { N }$ fertilization rates did not affect SOC, SIC,or total carbon(TC) stock for the entire $0 { - } 1 0 0 ~ \\mathrm { c m }$ soil depth (Fig. 4b). SOC content accounted for $5 4 . 3 \\% - 5 9 . 0 \\%$ of TC within the $0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ soil depth,whereas SIC content accounted for $4 1 . 0 \\% - 4 5 . 7 \\%$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/10cc8f8d0eb1775014abb08877804bbf8dda078f86e5260e0f1e9e39648e649f.jpg",
+        "img_caption": [
+            "Fig.3Stocks of soil organic carbon (SOC)and soil inorganic carbon (SIC) under different cultivation practices (a,b) and $\\mathbf { N }$ fertilization rates (c,d).FA,fallow; CC,conventional cultivation;SM,straw mulch;RF,plastic film-mulched ridge and straw-mulched furrow;NO, $0 \\mathrm { \\ k g \\ N / h m ^ { 2 } }$ ；N120, $1 2 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ ；N240, $2 4 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ Bars indicate standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/af3c55f6db682b2d5ab44bb85f1eec8d70fce3a382dd5c09227266e02b6e8e6d.jpg",
+        "img_caption": [
+            "Fig.4Stocks of soil organic C (SOC),soil inorganic C(SIC),and total C( $\\scriptstyle \\mathrm { T C = S O C + S I C }$ for the entire 0-100 cm soil depth under different cultivation practices (a) and $\\mathrm { \\bf N }$ fertilization rates (b).FA,fallow;CC,conventional cultivation; SM,straw mulch; RF, plastic film-mulched ridge and straw-mulched furrow; NO, $0 \\ \\mathrm { k g \\ N / h m ^ { 2 } }$ ；N120, $1 2 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ ; N240, $2 4 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ . Bars indicate standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1 Effects of cultivation practices on soil C stocks ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "These findings of this study are in agreement with previous reports that SOC stock is primarily improved in the upper 15 or $3 0 \\ \\mathrm { c m }$ soil layer by management practices, such as crop rotation, N fertilization,and conservation tilage，whereas SOC accumulation in the subsoil is unafected (Chen et al.,2O09; Hernandez-Ramirez et al.,2O09).As shown in Figures 3a and 4a,conventional crop cultivation treatment slightly increased the SOC stock of treated soil in comparison to that of the long-term fallow soil, especially at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth, because more than $60 \\%$ of the crop root biomass was distributed in the upper $2 0 \\ \\mathrm { c m }$ depth (Pausch et al.,2O13a)； in addition,more crop organic residue was left in the field as stubbles under crop cultivation treatment. Generally speaking, organic residue is the main source of soil organic C accumulation (Sainju et al.,1998). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Labile C exuded from roots could stimulate the decomposition of recalcitrant soil organic materials (i.e., a priming effect), which would counteract the positive effects of roots with respect to SOC sequestration (Prescott, 2010; Pausch et al., 2013b). Consequently, no distinct difference was found in SOC stock when the soil samples subjected to the FA and CC treatments were compared. In contrast, straw mulch significantly increased SOC stock at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth in comparison to that of the fallow soil and soil subjected to conventional practices. Similar effects of crop residues return on SOC sequestration have also been reported in other long-term experiments (Rasmussen et al.,1980; Lemke et al.,2010; Ghimire et al.,2012; Smith et al.,2012). For example,crop organic residues removal reduced by $13 \\%$ cumulative C input from straw and roots over a 50-year experiment (Lemke et al., 2O1O). Therefore, maintenance of crop residue on farmland is an effective way to maintain and improve soil organic matter input. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Under the RF treatment, plastic film on the ridge catches rainfall and directs runoff to the furrow where the crop plants are sown. Thus, plastic film mulching maximizes water efficiency while reducing soil evaporation and increasing soil temperature;and these advantages have led to a widespread use of plastic film mulching in Northwest China during the past 15 years (Li and Gong,20O2; Wang et al.,2O05). However, some researchers have reported that SOC content was decreased by plastic film mulching, particularly in the topsoil layer.As we know,under plastic film mulching，soil temperature and moisture content were significantly increased,which accelerated the organic carbon decomposition (Li et al., 2OO7; Bu et al.， 201O). In this study, plastic film mulching improved SOC stock by $6 . 3 \\%$ at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth in comparison to that of the soil subjected to conventional crop planting methods. In our opinion， there are two explanations for the increase in SOC stock observed in this study.First,for the soil subjected to plastic film mulching,crop straw was returned to the furrows during each crop season at a rate of $2 2 5 0 ~ \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ ， serving as an important source of soil organic matter. Second,wheat and maize yields were increased by plastic film mulching (Li et al.,2OO7; Bu et al.,2O1O; Zhou et al., 2011), resulting in higher above- and below-ground biomass,which in turn increased the soil organic matter. These results suggest that the combination of plastic film-mulched ridge and straw-mulched furrow could increase crop yield and conserve or increase SOC stock. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study, more than $70 \\%$ of SIC was distributed in the uppermost $4 0 \\mathrm { c m }$ soil depth (Fig. 3b). In comparison to the SIC stock in the fallow soil, SIC stock at the $0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ depth significantly increased by $1 8 . 7 \\%$ in the soil subjected to crop cultivation treatments. Especially, SIC stock was significantly increased at the upper $6 0 \\ \\mathrm { c m }$ soil depth.These results are in accordance with previous reports (Entry et al.,2004; Wang et al., 2013). For example, monocropping or rotation of different crops increased SIC stock by $20 \\% - 2 6 \\%$ in comparison to that of the soil left fallow for 23 years (Li et al., 2010). SIC consist of two major components, i.e., lithogenic inorganic carbon (LIC）and pedogenic inorganic carbon (PIC). The LIC is inherited carbonate from soil parent material,such as limestone,marl,and loess,while the PIC is formed through dissolution and precipitation of carbonate parent material with no accompanying change in SIC stock (Schlesinger, 1985). In loess,the carbonate is redistributed during pedogenic processes at the levels of soil aggregates,soil profiles,or landscapes，while formation of pedogenic inorganic carbonates is dependent on precipitation and dissolution of carbonates in soil, which is governed by the $\\mathrm { C O } _ { 2 ^ { - } } \\mathrm { H } _ { 2 } \\mathrm { O } { - } \\mathrm { C a C O } _ { 3 }$ balance (Gocke et al.，2O12；Sanderman 2O12). Two explanations are offered for the observed increase in SIC stock induced by crop cultivation. First, bicarbonate ions were formed from active biological respiration (including root respiration and microbial respiration) when crop cultivation occurred. Carbonate precipitation would act generally as a net sink for $\\mathbf { C O } _ { 2 }$ (Schlesinger, 1982） through reaction of $\\mathrm { S O C {  } C O _ { 2 } ( g ) {  } C O _ { 2 } ( a q ) {  } H C O _ { 3 } \\overline { { \\cdot } } ( a q ) }$ $ \\mathrm { C a C O _ { 3 } ( s ) }$ . In the arid and semi-arid areas, $5 \\% - 1 0 \\%$ of pedogenic carbonates are derived from $\\mathbf { C O } _ { 2 }$ released by decomposition of organic matter (Capo and Chadwick,1999). And the $\\mathrm { C O } _ { 2 }$ in soil resulting from the microbial and root respiration is the main factor controlling the dissolution or primary carbonates and formation of secondary carbonates (Kuzyakov et al.,2Oo6). Second, irigation contributes to C sequestration in those arid and semi-arid areas (Entry et al.,2004). In this study, irrigation was applied to the crop cultivation plots during every crop season, but it was never applied to the fallow plot. Soil $\\mathrm { C O } _ { 2 }$ produced from plant biomass and microbial activity as a result of irrigation could act as an important source for carbonate exchange.However, $\\mathrm { C a } ^ { 2 + }$ and dissolved $\\mathrm { H C O } _ { 3 } ^ { - }$ and $\\mathrm { C O } _ { 3 } { } ^ { 2 - }$ in irrigation water, as well as the high $\\mathrm { p H }$ of such water, increase the rate of carbonate re-crystallization. What's more， the application of chemical fertilizer superphosphate to the crop cultivation plots facilitated the formation of carbonate.A previous study showed that soil carbonate content was increased by $2 7 \\%$ after 4O years of irrigation in comparison to that of non-irrigated soil (Magaritz and Amiel,1981). Another study showed that irrigation improved SIC stock slightly in loess soil in northwestern China （ $10 \\%$ increase at the upper $0 { - } 3 0 ~ \\mathrm { c m }$ depth) (Zhang et al., 2015). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2 Effects ofN fertilizer rates on soil C stocks ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The SOC stock at the $0 { \\mathrm { - } } 1 0 0 \\ \\mathrm { c m }$ depth did not significantly differ in the soils subjected to different N application rates (Fig. 4b), being consistent with other studies (Barber, 1979; Neff et al., 2002; Holeplass et al.,2OO4). However, N addition either had a limited effect on SOC stock or increased SOC stock in cropland soils in North America (Christopher and Lal, 2OO7). The maintenance and improvement of SOC stock are related to the crop residues amount returned to the field, while residue amount is directly related to the $\\mathbf { N }$ application.N fertilizer significantly accelerated the decomposition of light soil C fractions while further stabilizing soil C compounds in heavier, mineral-associated fractions.However, no significantly detectable change in the total soil C bulk was observed (Neff et al.，2OO2).In tropical regions, $\\mathbf { N }$ fertilizer resulted in no additional C sequestration;while in temperate regions, it appeared to increase net C sequestration (Alvarez, 2005). In this study, total SOC stock within the $0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ soil depth was greatest under the 120 $\\mathrm { k g } \\ \\mathrm { N } / \\mathrm { h } \\mathrm { m } ^ { 2 }$ treatment $( 8 6 . 3 ~ \\mathrm { M g / h m ^ { 2 } } )$ , followedby the $0 \\mathrm { ~ k g ~ N / h m } ^ { 2 }$ treatment $( 8 5 . 3 ~ \\mathrm { M g / h m ^ { 2 } } )$ ，while the soil subjected to $2 4 0 \\ \\mathrm { k g } \\ \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ contained the least SOC $( 8 4 . 3 ~ \\mathrm { M g / h m ^ { 2 } } )$ ）(Fig.3c).However, their differences were not significant. Thus,we suggested that $\\mathbf { N }$ fertilizer application in agricultural ecosystems should be adequate, but not excessive, in order to maximize the economic profitability of crop production and ecological safety, while minimizing the negative effect of $\\mathrm { \\bf N }$ （204 on SOC accumulation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SIC stock showed a decreasing trend as the amount of $\\mathbf { N }$ increased (Fig. 4b). In irrigated calcareous desert soil,18 years of fertilization with manure and chemical fertilizers reduced SIC stock at the $0 { - } 3 0 ~ \\mathrm { c m }$ depth in a wheat-maize system (Zeng et al., 2Oo8). The decreasing trend in SIC stock was in accordance with the decrease in soil $\\mathrm { \\ p H }$ caused by the application of $\\mathbf { N }$ .The lowest $\\mathsf { p H }$ value in the present study was measured in the soil subjected to $2 4 0 \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ demonstrating soil acidification driven by $\\mathbf { N }$ fertilization (Fig.1b).Although agricultural fields in northern China are resistant to acidification because of the relatively higher $\\mathrm { C a C O } _ { 3 }$ content in soil （ $( 5 \\%$ to $1 0 \\%$ )，these fields were significantly acidified under the cereals and cash crops (pH decreases by 0.27 and 0.58,respectively)(Guo et al.,201O). Previous research has found that approximately $5 0 0 \\ \\mathrm { k g } \\ \\mathrm { C a C O } _ { 3 } / \\mathrm { h m } ^ { 2 }$ was required to neutralize for each $5 0 ~ \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ of the added ammonium- $\\mathbf { \\nabla \\cdot N }$ (Blake and Goulding 2OO2). Soil alkalization process is accompanied by carbonate dissolution and release of $\\mathbf { C O } _ { 2 }$ into the atmosphere.Therefore,the development of an optimal $\\mathbf { N }$ management strategy has become an urgent requirement for the sustainable agriculture and C sequestration. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Compared with a long-term fallow soil and the soil subjected to conventional crop cultivation, we found that soil subjected to organic residue return showed an increase in SOC stock of $10 \\%$ at the upper $2 0 \\ \\mathrm { c m }$ depth,as well as increased content of soil labile C (SMBC and SSOC). Crop cultivation practices (CC,SM,and RF) also increased SIC stock by $19 \\%$ in comparison to the fallow soil for the entire $1 0 0 ~ \\mathrm { c m }$ soil depth; and this increase in SIC stock might be attributed to the exchange and/or formation of pedogenic carbonates due to organic mater decomposition. In comparison to soil not fertilized with $\\mathbf { N }$ ，soil fertilized with 12O and $2 4 0 \\ \\mathrm { k g } \\ \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ showed no significant changes in SOC stock or SIC stock within the $1 0 0 ~ \\mathrm { c m }$ soil profile. However, the reduction in soil $\\mathsf { p H }$ for the entire $1 0 0 ~ \\mathrm { c m }$ profile under the $2 4 0 \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ treatment implied that more attention should be paid to the effect of excessive $\\mathbf { N }$ addition on soil acidification and inorganic C stock loss.We conclude that the combination of crop residue return and appropriate $\\mathbf { N }$ fertilization could enhance SOC sequestration and SIC stabilization in the calcareous soil of the Chinese Loess Plateau. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the National Natural Science Foundation of China (41671295)and the National Technology R&D Pillar Program in the $1 2 ^ { \\mathrm { t h } }$ Five Year Plan of China (2012BAD15B04). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AlvarezR.2Oo5.Areviewof nitrogen fertilizerand conservation tilageefectsonsoilorganiccarbon storage.SoilUse Management,21(1):38-52.   \nBarber S A.1979.Corn residue management and soil organic mater. Agronomy Journal,71(4): 625-627.   \nBatjes NH.1996.Totalcarbon and nitrogen in the soils of the world.European Journal of Soil Science,47(2):151-163.   \nBlake L,Goulding K W T.20o2.Effects of atmospheric deposition,soil $\\mathrm { \\ p H }$ and acidification on heavy metal contents in soils and vegetationofsemi-natural ecosystems atRothamsted Experimental Station,UK.Plantand Soil,24(2):235-251.   \nBuYS,Shao HL,Wang JC,et al.20l0.Dynamicsof soilcarbon and nitrogen in plowed layerof springcor and spring wheat fields mulched with straw and plastic film. Chinese Journal of Eco-Agriculture,18(2):322-326.(in Chinese)   \nCapo RC,Chadwick OA.1999.Sources of strontium and calcium in desert soiland calcrete.Earth and Planetary Science Letters,170(1-2): 61-72.   \nChangRY,FuBJ,LiuGHetal.Ol2.heeffctsofforestationonsoilorganicandinorganiccarbon:Acasestudyof the Loess Plateau of China.Catena,95:145-152.   \nChenHQ,HouRX,GongYS,etal.29.Effectsof11yearsofconservation illageonsoilorganic materfractions in wheat monoculture in Loess Plateau of China. Soil and Tillage Research,1O6(1): 85-94.   \nChristopher SF,LalR.2Oo7.Nitrogen management affectscarbonsequestrationinNorthAmericancroplandsoils.Critical Reviews in Plant Sciences,26(l): 45-64.   \nCui SH,ShiYL,GroffmanPM,etalOl3.Centenial-scaleanalysisof thecreationandfateofreactive nitrogen inChina (1910-2010).Proceedings of the National Academy of Sciences ofthe United States of America,110(6): 2052-2057.   \nDong YJ,Cai M, ZhouJB.2O13.The stocksand characteristicsof organicand inorganiccarbon inLou soil in Yangling, Shaanxi.Journalof Northwest A&F University (Natural Science Edition),41(2):150-158.(in Chinese)   \nDreimanis A.1962.Quantitativegasometric determinationof calcite and dolomite byusing Chitick apparatus.Journalof Sedimentary Research,32(3): 520-529.   \nEntryJA,SojkaRE,ShewmakerGE.2Oo4.Irigationincreases inorganiccarboninagricultural soils.Environmental Management, 33(S1): S309-S317.   \nEswaranH,VandenbergE,ReichP.1993.Organiccarbon insoilsofthe world.SoilScience SocietyofAmericaJournal,57(1): 192-194.   \nGhimire R,Adhikari KR, Chen $Z \\thinspace S$ ,et al.2012. Soil organic carbon sequestration as affected by tillage,crop residue, and nitrogen application in rice-wheat rotation system.Paddy and Water Environment,1O(2): 95-102.   \nGocke M,PustovoytovK,Kuzyakov Y.2O12.Pedogeniccarbonate formation:Recrystallzation versus migration—Process rates and periods assessed by $^ { 1 4 } \\mathrm { C }$ labeling.Global Biogeochemical Cycles,26(1):GB1018.   \nGong ZT, Zhang G L,Luo GB.1999.Diversity of anthrosols in China.Pedosphere,9(3):193-204.   \nGuo JH,LiuXJ,Zhang Y,etal.2O10.SignificantacidificationinmajorChinesecroplands.Science,327(5968):1008-1010.   \nGwenziW,GotosaJ,ChakanetsaS,etal.o8.Effectsof tllagesystemsonsoilorganiccarbondynamics,structuralstability and crop yields inirrgated wheat (Triticum estivumL.)-cottn(Gossypium hirsutumL.)rotation insem-arid Zimbabwe. Nutrient Cycling in Agroecosystems,83: 211.   \nHernandez-Ramirez G,Brouder $ { s u }$ ，Smith D R,et al.2Oo9.Carbon and nitrogen dynamicsin an eastern Corn Belt soil: Nitrogen source and rotation. Soil Science Society of America Journal,73(1): 128-137.   \nHoleplass H,Singh BR,LalR.2O04.Carbonsequestration insoil aggregatesunder diferentcroprotationsandnitrogen fertilization in an inceptisol in southeastern Norway. Nutrient Cycling in Agroecosystems,7O(2): 167-177. wheat-fallow production in the central High Plains,USA.Agriculture,Ecosystems &Environment,181: 179-187.   \nJu XT,XingGX,ChenXP,etal.2O9.Reducing environmentalrisk byimprovingNmanagement inintensive Chinese agricultural systems.Proceedingsofthe National Academyof Sciencesofthe United StatesofAmerica,106(9):3041-3046.   \nKorner C,Arnone JA.1992.Responses toelevated carbon dioxide inartificial tropical ecosystems.Science,257(5077): 1672-1675.   \nKhanSA,MulvaneyRL,ElsworthTR,etal.7.ThemythofnitrogenfertilzationforsoilcarbonsequestrationJoualof Environmental Quality, 36(6):1821-1832.   \nLal R.2004. Soil carbon sequestration to mitigate climate change. Geoderma,123(1-2): 1-22.   \nLal R.2007.Carbon managementinagriculturalsoils.Mitigationand Adaptation Strategies forGlobal Change,12(2):0-322.   \nLemkeRL,VandenBygaartAJ,CampbellCA,etal.20l0.Cropresidueremoval andfertilizerN:Effectsonsoilorganic carboninalong-term croprotation experimentonaUdic BorollAgriculture,Ecosystems &Environment,135(1-2):42-51.   \nLi S X,Wang Z H,Li S Q,et al.2013.Efect of plastic sheet mulch,wheat straw mulch,and maize growth on water loss by evaporation in dryland areas of China.Agricultural Water Management,116: 39-49.   \nLi X H,Wang ZH,Hao MD,et al.2010.Evaluationonsoil carbon contents under different cropping systemsondryland in Loess Plateau.Transactions of the Chinese Society of Agricultural Engineering,26: 325-330.(in Chinese)   \nLi XY,GongJD.2Oo.Effectsof dierentridge:furrowratiosandsupplemental irigationoncropproductioninidgeand furrow rainfall harvesting system with mulches. Agricultural Water Management, 54(2): 243-254.   \nLi YS,WuLH,ZhaoLM,etal.2oo7.Influenceof continuousplasticfilm mulching onyield,wateruseeficiencyand soil properties of rice fields under non-flooding condition. Soil and Tillage Research,93(2): 370-378.   \nLiang Q,Chen H Q,Gong $\\mathrm { ~ Y ~ s ~ }$ ,et al.2O12.Effects of 15 years of manure and inorganic fertilizers on soil organic carbon fraction ina wheat-maize system in the North China Plain.Nutrient Cycling in Agroecosystems,92(1):21-33.   \nMagaritzM,AmielAJ.1981.Influenceof intensivecutivationandrigationonsoilpropertiesintheJordan Vallysrael: Recrystallization of carbonate minerals. Soil Science Society of America Journal,45(6):1201-1205.   \nMikhailovaEA,Post CJ.2Oo6.Efectsof landuseonsoil inorganiccarbon stocks intheRussanChernozem.Journalof Environmental Quality, 35(4): 1384-1388.   \nNeffJC,TownsendAR,Gleixner G,etal.2Oo2.Variableefectsofnitrogen additionsonthestabilityand turnoverof soil carbon.Nature,419(6910): 915-917.   \nPausch J, Tian J,Riederer M,et al.2013a. Estimation of rhizodeposition at field scale: upscaling of a $^ { 1 4 } \\mathrm { C }$ labeling study. Plant and Soil,364(1-2): 273-285.   \nPausch J,ZhuB,Kuzyakov Y,etal.2013b.Plant inter-speciesefectsonrhizosphere primingofsoilorganicmater decomposition. Soil Biology and Biochemistry,57: 91-99.   \nPrescottCE.20lo.Litter decomposition: whatcontrols it and how canwe alteritto sequester more carbon in forest soils? Biogeochemistry,101(1-3):133-149.   \nRasmussen PE,Allmaras RR,Rohde CR,etal.1980.Cropresidueinfluencesonsoilcarbon andnitrogen inawheat-fallow system. Soil Science Society of America Journal, 44(3): 596-600.   \nRegmi AP,LadaJK,Pathak H,etal.2O02.Yieldandsoilfertilitytrends inaO-yearrice-rice-wheat experimentinNepal. Soil Science Society of America Journal, 66(3): 857-867.   \nSainju UM,Singh BP,WhiteheadWF1998.Covercroproot distributionand its efects onsoil nitrogen cycling.Agronomy Journal, 90(4): 511-518.   \nSainju UM, Whitehead WF,Singh BP.2Oo5.Carbon accumulation incotton,sorghum,andunderlyingsoil asinfluenced by tillage,cover crops,and nitrogen fertilization.Plant and Soil,273(1-2): 219-234.   \nSanderman J.2Ol2.Can management induce changes in the carbonate system drive soil carbon sequestration?Areview with particular focus on Australia.Agriculture,Ecosystems & Environment,155: 70-77.   \nSchlesingerWH.1982.Carbonstorage in thecalicheof arid soils:acase study fromArizona.SoilScience,133(4):247-255.   \nSchlesingerWH.1985.The formationofcaliche insoilsof the Mojave Desert,California.GeochimicaEt CosmochimicaActa, 49(1): 57-66.   \nSmith WN,Grant B B,CampbellCA,etal.2O12.Cropresidue removal effectsonsoil carbon: measuredand inter-model comparisons.Agriculture,Ecosystems and Environment,161:27-38.   \nSombroek WG,NachtergaeleFO,HebelA.1993.Amounts,dynamicsandsequesteringofcarbon in tropicalandsubtropical soils. Ambio,22(7): 417-426.   \nSong QH,LiFM,Jun W,et al.2Oo2.Effectof various mulching durationswith plastic filmonsoil microbial qantityand plantnutrientsofspring wheat field insemi-arid Loess Plateauof China.Acta Ecologica Sinica,2(12):2125-2132.(in ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Chinese) ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Tan WF,ZhangR,CaoH,etal.2O14.Soil inorganiccarbonstockunderdiferentsoiltypesandlandusesontheLoessPlateau region of China.Catena,121: 22-30.   \nVanceED,BrookesPC,Jenkinson DS.1987.Anextraction method for measuring soil microbialbiomassC.Soil Biologyand Biochemistry,19(6): 703-707.   \nWalkleyA,BlackIA.1934.Anexaminationof theDegtjareffmethodfordeterminingsoilorganic mater,anda proposed modification of the chromic acid titration method. Soil Science,37(1):29-38.   \nWangXL,LiF,JiaY,etal.o.Icreasingotatoieldsithditioalwaterandicreasedsoiltmperature.Agiclual Water Management,78(3):181-194.   \nWang ZP,Han XGChang SX,etal.20l3.Soilorganicand inorganiccarbon contentsunder various landusesacrossa transect of continental steppes in Inner Mongolia. Catena,1O9:11O-117.   \nWu HB,GuoZT,GaoQ,etal.2Oo9.Distributionofsoilinorganiccarbonstorageanditschanges duetoagriculturallanduse activity in China.Agriculture,Ecosystems & Environment,129(4): 413-421.   \nYangYH,FangJY,JiCJ,etal.ol2.Widespreaddecreases intopsoilinorganicarbonstocksacross China'sassands during 1980s-2000s.Global Change Biology,18(12): 3672-3680.   \nZengJ,GuoTW,BaoXG,etal.Oo8.Eectsofsoilorganiccarbonandsoilinorganiccarbonunderlong-termfertilation. Soil and Fertilizer Sciences,(2):11-14.(in Chinese)   \nZhangF,WangXJ,GuoTW,etal.2O15.SoilorganicandinorganiccarbonintheloessprofilesofLanzhouarea: implications of deep soils.Catena,126:68-74.   \nZhang WF,DouZX,HeP,etal.2Ol3.Newtechnologiesreduce greenousegasemisionsfromnitrogenousfertilizernChina. Proceedings of the National Academy of Sciences of the United States of America,110(21): 8375-8380.   \nZhouJB,Wang CY,Zhang H,et al.2Ol1.Effectof water saving management practicesand nitrogenfertilizerrateoncrop yieldand wateruse eficiency ina winter wheat-summer maizecropping system.Field Crops Research,122(2):157-163.   \nZhu X M.1964.Lou Soil.Beijing: Chinese Agriculture Press,4-9.(in Chinese) ",
+        "page_idx": 10
+    }
+]

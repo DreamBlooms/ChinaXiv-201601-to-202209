@@ -1,0 +1,201 @@
+益生菌发酵苹果渣对断奶仔猪生长性能、血清生化指标和粪便菌群的影响高印」王国军1 来航线² 杨雨鑫1\*
+
+（1.西北农林科技大学动物科技学院，杨凌712100；2.西北农林科技大学资源环境学院，杨
+
+凌 712100)
+
+摘要：本试验旨在研究益生菌发酵苹果渣对早期断奶仔猪生长性能、血清生化指标和粪便微生物菌群的影响。选择平均体重（ $5 . 8 7 { \scriptstyle \pm 0 . 1 0 } ^ { }$ ） $\mathbf { k g }$ 断奶仔猪120头，随机分为5组（每组设3个重复，每个重复8头猪)：负对照组饲喂基础饲粮(不含抗生素)，正对照组在基础饲粮中添加 $0 . 1 \%$ 的混合型抗生素，试验组分别饲喂在基础饲粮中添加 $4 \%$ 、 $6 \%$ 、 $8 \%$ 益生菌发酵苹果渣的试验饲粮。试验期 $3 5 \mathrm { d }$ 。结果表明：与负对照组相比，饲粮添加抗生素和 $6 \%$ 益生菌发酵苹果渣均显著提高断奶仔猪平均日采食量和平均日增重（ $. P { < } 0 . 0 5 )$ ，显著降低料重比、粪便中大肠杆菌数量和腹泻率 $( P { < } 0 . 0 5 )$ ；添加抗生素和 $6 \%$ 益生菌发酵苹果渣可以显著降低血清中尿素氮和总胆固醇的含量（ $( P { < } 0 . 0 5 )$ ，显著提高生长激素、胰岛素、三碘甲状腺原氨酸和甲状腺素含量（ $. P { < } 0 . 0 5 )$ 。随着益生菌发酵苹果渣添加量的增加，生长性能、腹泻率、粪便大肠杆菌数量以及血清中尿素氮、总胆固醇和激素指标呈现二次变化趋势( $( P { < } 0 . 0 5 )$ ，当添加量为 $6 \%$ 时效果最好。与正对照组相比，添加益生菌发酵苹果渣能极显著增加粪便中菌群总数（ $_ { _ { P < 0 . 0 1 } }$ ，而对其他各项指标均无显著影响（ $. P { > } 0 . 0 5$ )。由此可见，添加 $6 \%$ 益生菌发酵苹果渣能提高断奶仔猪的生长性能，调节肠道微生态平衡，降低粪便中大肠杆菌数量和腹泻率，提高血清中内分泌激素含量，降低尿素氮和胆固醇含量。
+
+关键词：益生菌发酵苹果渣；断奶仔猪；生长性能；血清生化指标；粪便菌群中图分类号：S816.6 文献标识码：A 文章编号：1006-267X(2016)00-0000-00
+
+2014年我国的苹果种植面积和产量分别达到了235.53万 $\scriptstyle \ln \ m ^ { 2 }$ 和3915万t[]，其中有 $2 5 \%$ 用于生产浓缩苹果汁、果醋等副产品，仅浓缩苹果汁产渣量已达120万t[2]。研究发现，苹果渣中含有丰富的营养成分、维生素和苹果酸，有利于微生物的直接吸收和利用，可作为家畜的饲料在畜禽中使用，但作为动物饲料，其蛋白质含量偏低，影响了其他成分的利用[3-5]。因此需采用特定工艺，通过微生物发酵提高苹果渣中蛋白质含量，将苹果渣转化为营养丰富的微生物蛋白质饲料，这是解决苹果渣出路的重要途径之一。另有研究指出，在苹果渣发酵生产饲料蛋白质过程中，不仅提高了果渣发酵产物的蛋白质含量，还产生大量生物酶、活性肽、游离氨基酸等对动物营养具有重要作用的活性成分[6-8]。在一些研究中发现，通过发酵产品及其发酵过程中的代谢产物，可改善仔猪的生长性能、肠道健康，并可替代饲料中抗生素的使用[9-10]。因此，本试验拟用发酵苹果渣饲喂家畜，观察其对断奶仔猪生长性能、血清生化指标和粪便菌群的影响，以为其在家畜生产中应用提供参考依据。
+
+# 1材料与方法
+
+# 1.1试验动物及试验设计
+
+本试验在陕西省兴平市鑫亥畜牧养殖有限责任公司鑫亥生猪良种繁育场进行，试验共进行38d（预试期3d，正试期 $3 5 { \mathrm { d } } )$ ，预试期饲喂基础饲粮，即不含抗生素和益生菌发酵苹果渣，其组成及营养水平见表1。试验选取120头初始体重为（ $5 . 8 7 { \pm } 0 . 1 0 \$ ） $\mathbf { k g }$ 的（ $2 1 { \pm } 1$ ）日龄断奶“杜 $\times$ 长x大"三元杂交仔猪，按单因子随机区组设计随机分成5组，每组3个重复，每个重复8头仔猪。试验分组情况如下：负对照（NC）组，饲喂基础饲粮；正对照（PC）组，在基础饲粮中添加 $0 . 1 \%$ 的硫酸粘杆菌素、杆菌肽锌、金霉素混合型抗生素；试验I、ⅡI、IⅢ组，分别在基础饲粮中添加 $4 \%$ 、 $6 \%$ 、 $8 \%$ 益生菌发酵苹果渣。
+
+# 1.2益生菌发酵苹果渣的制备
+
+# 1.2.1 发酵原料
+
+固态发酵培养基，由果渣：油渣：尿素 $= 1 7 { : } 2 { : } 1$ 组成，灭菌后基质含水量为 $60 \%$ ；菌剂主要包括黑曲霉、安琪酵母、乳酸杆菌和芽孢杆菌。
+
+# 1.2.2 发酵过程
+
+将黑曲霉斜面菌种接入装有麸皮培养基的组培瓶中， $3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 培养5d后，以 $2 \%$ 接种量接入装有麸皮培养基的塑料盘， $3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 培养 $1 0 \mathrm { d }$ ，然后和安琪酵母一起接种到固态发酵培养基中进行固态发酵，烘干后按一定比例加入乳酸杆菌和芽孢杆菌掺混制成成品。
+
+# 1.2.3 发酵苹果渣成分
+
+风干苹果渣添加油渣辅料后，经复菌发酵剂发酵，可明显提高饲料中蛋白质含量，同时添加了能改善动物肠道菌群的乳酸菌和芽胞菌，使果渣改良为具有提供饲料蛋白质和益生作用的生物活性蛋白质饲料。其营养成分如下：安琪酵母、乳酸杆菌和芽孢杆菌的含量分别为$1 . 4 \times 1 0 ^ { 4 }$ 、 $5 . 5 { \times } 1 0 ^ { 7 }$ 和 $8 . 7 { \times } 1 0 ^ { 5 } \mathrm { C F U / g }$ ；饲料中粗蛋白质、总能、多肽和游离氨基酸的含量分别为 $2 9 . 2 9 \%$ 、17.47 MJ/kg、 $4 . 0 4 \%$ 、 $0 . 0 7 \%$ ；蛋白质酶、纤维素酶和果胶酶活性分别为114.06、793.08和 $1 9 8 . 0 3 \mathrm { U }$ 。
+
+1.3 试验饲粮及饲养管理
+
+试验饲粮参照NRC（2012）配制，各组饲粮组成及营养水平见表1。试验前对猪舍进行彻底地消毒，并对试验仔猪进行统一驱虫及接种疫苗。饲养期间在每天的07：30、14:30、21：30 进行饲喂，自由采食和饮水。每天准确记录给料量和剩料量，以计算平均日采食量。
+
+表1试验饲粮组成及营养水平(风干基础)  
+Table 1The composition and nutrient levels of experimental diets (air-dry basis)   
+
+<html><body><table><tr><td>项目Items</td><td colspan="5">组别Groups</td></tr><tr><td></td><td>NC</td><td>PC</td><td>1</td><td>II</td><td>ⅢI</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="6">原料 Ingredients</td></tr><tr><td>玉米Corm</td><td>60.21</td><td>60.11</td><td>60.77</td><td>57.70</td><td>56.89</td></tr><tr><td>玉米蛋白质粉 Corn gluten meal</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>小麦次粉 Wheat short</td><td>15.00</td><td>15.00</td><td>10.41</td><td>15.00</td><td>15.00</td></tr><tr><td>麸皮 Wheat bran</td><td></td><td></td><td>1.77</td><td></td><td></td></tr><tr><td>高蛋白质豆粕 High protein soybean meal</td><td>16.00</td><td>16.00</td><td>14.09</td><td>9.02</td><td>3.62</td></tr><tr><td>益生菌发酵苹果渣Probiotic fermented apple</td><td></td><td></td><td>4.00</td><td>6.00</td><td>8.00</td></tr><tr><td>pomace</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>鱼粉(秘鲁)Fish meal (Peru)</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>发酵豆粕 Fermented soybean meal</td><td>0.40</td><td>0.40 1.29</td><td></td><td>2.86</td><td>6.48</td></tr><tr><td>石粉 Limestone powder 磷酸氢钙CaHPO4</td><td>1.29</td><td></td><td>1.29</td><td>1.29</td><td>1.29</td></tr><tr><td>氯化钠 NaCl</td><td>0.31</td><td>0.31 0.35</td><td>0.35</td><td>0.35</td><td>0.37</td></tr><tr><td>碳酸氢钠 NaHCO3</td><td>0.35</td><td>0.02</td><td>0.35</td><td>0.35</td><td>0.34</td></tr><tr><td>沸石粉 Zeolite powder</td><td>0.02</td><td>0.20</td><td>0.01</td><td>0.01</td><td>0.02</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.20</td><td></td><td>0.62</td><td>0.99</td><td>1.48</td></tr><tr><td></td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl</td><td>0.46</td><td>0.46</td><td>0.52</td><td>0.56</td><td>0.60</td></tr><tr><td>DL-蛋氨酸 DL-Met L-苏氨酸 L-Thr</td><td>0.04</td><td>0.04</td><td>0.06</td><td>0.07</td><td>0.09</td></tr><tr><td>L-色氨酸 L-Try</td><td>0.10</td><td>0.10</td><td>0.13</td><td>0.16</td><td>0.18</td></tr><tr><td></td><td>0.02</td><td>0.02</td><td>0.03</td><td>0.04</td><td>0.04</td></tr><tr><td>抗生素 Antibiotic</td><td></td><td>0.10</td><td></td><td></td><td></td></tr><tr><td>植酸酶 Phytase</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td></tr><tr><td>香味剂 Flavor</td><td>0.04</td><td>0.04</td><td>0.04</td><td>0.04</td><td>0.04</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>消化能 DE/（MJ/kg）</td><td>14.00</td><td>14.00</td><td>14.00</td><td>14.00</td><td>14.00</td></tr><tr><td>粗蛋白质 CP</td><td>18.00</td><td>18.00</td><td>18.00</td><td>18.00</td><td>18.00</td></tr><tr><td>钙Ca</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td></tr><tr><td>总磷TP</td><td>0.43</td><td>0.43</td><td>0.41</td><td>0.41</td><td>0.41</td></tr><tr><td>总赖氨酸 Total Lys</td><td>1.14</td><td>1.14</td><td>1.16</td><td>1.16</td><td>1.16</td></tr><tr><td>可消化赖氨酸 Digestible Lys</td><td>1.04</td><td>1.04</td><td>1.04</td><td>1.04</td><td>1.04</td></tr><tr><td>蛋氨酸 Met</td><td>0.31</td><td>0.31</td><td>0.33</td><td>0.33</td><td>0.34</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.57</td><td>0.57</td><td>0.57</td><td>0.57</td><td>0.57</td></tr><tr><td>苏氨酸Thr</td><td>0.64</td><td>0.64</td><td>0.64</td><td>0.64</td><td>0.64</td></tr><tr><td>色氨酸Try</td><td>0.18</td><td>0.18</td><td>0.18</td><td>0.18</td><td>0.18</td></tr></table></body></html>
+
+1 预混料为每千克饲粮提供 Premix provided the follwing per kg of diets：VA 12 000 IU，VD3 2 400 IU,VE 30 IU, $\mathrm { V K } _ { 3 } 3 . 2 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 . 4 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 8 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 4 \mathrm { m g }$ ， $\mathbf { V B } _ { 1 2 } \ 3 2 \ \mathrm { ~ \textmu ~ g ~ }$ ，叶酸 folic acid $1 . 3 2 \mathrm { m g }$ ，生物素biotin $1 2 4 ~ { \mu \mathrm { g } }$ ，烟酰胺nicotinamide $3 4 ~ \mathrm { m g }$ ，泛酸 pantothenic acid $2 0 \mathrm { m g }$ ， $\mathrm { C u 1 8 0 ~ m g }$ ,Fe $1 0 0 \mathrm { m g }$ ， $\mathrm { Z n ~ 1 0 0 ~ m g }$ $\mathrm { M n } 5 . 2 \mathrm { m g }$ ，Se $0 . 4 8 ~ \mathrm { m g }$ ， $\mathrm { ~ I 0 . 2 6 ~ m g }$ ，Met $0 . 3 2 { \mathrm { g } }$ 。
+
+2’计算值 Calculated values。
+
+# 1.4样品的采集与处理
+
+# 1.4.1 粪样的采集
+
+在试验期第7、14、21、28和35天，每日饲喂前分别从每个重复随机选取3头试验仔猪，采集新鲜粪样混匀后取 $1 0 \mathrm { g }$ 放入 $1 0 ~ \mathrm { m L }$ 灭菌好的离心管中，加入甘油置于一80℃冰箱保存，用于粪便微生物菌群的测定。
+
+# 1.4.2 血样的采集及血清的制备
+
+分别于试验的第21天和第35天时从每组的每个重复随机选取1头猪，前腔静脉采血$1 0 ~ \mathrm { m L }$ ，倾斜放置 $3 0 ~ \mathrm { m i n }$ ， $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 5 ~ \mathrm { m i n }$ ，收集血清， $- 2 0 \ \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 低温冷藏，用于血清生化指标的测定。
+
+# 1.5 测定指标与方法
+
+# 1.5.1 生长性能
+
+分别于试验开始、第21天和第35天空腹称重，根据初重和末重计算平均日增重。每天记录各组的采食量，计算平均日采食量和料重比。每天16：30观察仔猪粪便情况，记录腹泻头数，计算腹泻率。
+
+腹泻率 $( \% ) = [$ 总腹泻次数/（总头数 $\times$ 试验天数）] $\times 1 0 0$ 。
+
+# 1.5.2 血清生化指标
+
+血清生化指标：葡萄糖（GLU）、尿素氮（UN）、总蛋白（TP）、白蛋白（ALB）、甘油三酯（TG）和总胆固醇（TC）含量采用试剂盒法测定；血清激素指标：生长激素（GH)、胰岛素(INS）、三碘甲状腺原氨酸( ${ \bf \ddot { T } } _ { 3 }$ )和甲状腺素 $\mathrm { ( T _ { 4 } ) }$ )含量采用酶联免疫吸附测定（ELISA）试剂盒进行测定。试剂盒均购自南京建成生物工程研究所。
+
+# 1.5.3 粪便微生物菌群
+
+采用平板稀释法对粪便样品中的菌群总数和大肠杆菌进行计数。
+
+菌群总数：根据样品批次不同，选择 $1 0 ^ { - 4 } { \sim } 1 0 ^ { - 6 }$ 连续稀释度的3个样品匀液，分别吸取$1 \mathrm { m L }$ 于无菌平皿内，每个稀释度做2个平皿。同时，分别吸取 $1 \mathrm { m L }$ 空白稀释液加入2个无菌平皿内作空白对照，并及时将 $1 5 { \sim } 2 0 \ \mathrm { \ m L }$ 冷却至 $4 6 ~ \mathrm { { ^ \circ C } }$ 的平板计数琼脂培养基[放置于$( 4 6 { \pm } 1 )$ ） $\mathrm { { } ^ { \circ } C }$ 恒温水浴箱中保温]倾注平皿，并转动平皿使其混合均匀。待琼脂凝固后，将平板翻转， $( 3 7 \pm 1 )$ ） $\mathrm { { } ^ { \circ } C }$ 培养 $( 4 8 { \pm } 2 )$ h。菌落计数以CFU表示。每个稀释度的菌落数采用2个平板的平均值，平均值乘以相应稀释倍数作为每克样品中菌落总数结果。
+
+大肠杆菌：选择 $1 0 ^ { - 4 } { \sim } 1 0 ^ { - 6 }$ 连续稀释度的3个样品匀液，每个稀释度接种3管月桂基硫酸盐胰蛋白陈(LST）肉汤，每管接种 $1 \mathrm { m L }$ ，（ $3 7 { \pm } 1$ ） $\mathrm { { } ^ { \circ } C }$ 培养（ $2 4 \pm 2$ ）h，观察倒管内是否有气泡产生，（ $2 4 \pm 2$ ）h产气者进行复发酵试验，如未产气则继续培养至（ $4 8 { \pm } 2$ ）h，产气者进行复发酵试验。未产气者为大肠菌群阴性。用接种环从产气的LST 肉汤管中分别取培养物1环，移种于煌绿乳糖胆盐肉汤（BGLB）管中，（ $3 6 { \pm } 1$ ） $\mathrm { { } ^ { \circ } C }$ 培养（ $4 8 { \pm } 2$ ）h，观察产气情况。产气者，计为大肠菌群阳性管。按确证的大肠菌群LST 阳性管数，检索最可能数（MPN）表，报告每克样品中大肠菌群的MPN值。
+
+# 1.6 数据处理
+
+采用 SPSS17.0 统计软件进行单因素方差分析（one-way ANOVA)，并用Duncan 氏法进行多重比较。利用 $t$ 检验，比较PC 组与添加 $4 \%$ 、 $6 \%$ 、 $8 \%$ 益生菌发酵苹果渣组的差异。线性和二次检验饲粮中随着益生菌发酵苹果渣添加量的增加对仔猪各项测定指标的影响。以$P { < } 0 . 0 5$ 为差异显著性判断标准，以 $P { < } 0 . 0 1$ 为差异极显著判断标准。
+
+# 2结果与分析
+
+# 2.1添加益生菌发酵苹果渣对断奶仔猪生长性能的影响
+
+由表2可知，各组之间初始重无显著差异（ $( P { > } 0 . 0 5 )$ ；与NC组和I组相比，其他组末重显著提高（ $_ { _ { P < 0 . 0 5 ) } }$ ；Ⅱ组平均日增重较NC 组、I组和III组分别极显著提高了 $4 . 9 0 \%$ 、$2 . 4 4 \%$ 和 $4 . 8 4 \%$ （ $P { < } 0 . 0 1 \$ )，PC组显著高于NC组和III组（ $( P { < } 0 . 0 5 )$ ；与NC组相比，II组平均日采食量极显著提高了 $2 . 4 5 \% ( P { < } 0 . 0 1 ) , \mathbf { P }$ C组和I组平均日采食量也显著提高 $( P { < } 0 . 0 5 )$ ：PC 组和II组料重比极显著低于NC组和II组（ $. P { < } 0 . 0 1 \ \cdot$ )。与PC组相比，饲粮中添加益生菌发酵苹果渣对试验全期的料重比有提高的趋势（ $scriptstyle \cdot P = 0 . 0 7 7 .$ )。随着饲粮中添加益生菌发酵苹果渣比例的增加，仔猪的平均日增重、平均日采食量和料重比呈现二次变化趋势（ $P { < } 0 . 0 5 )$ ，其中 $6 \%$ 添加组效果最好。
+
+表2益生菌发酵苹果渣对断奶仔猪生长性能的影响  
+Table 2Effects of probiotic fermented apple pomace on growth performance of weaned piglets   
+
+<html><body><table><tr><td rowspan="3">项目Items</td><td colspan="6">组别Groups</td><td rowspan="2"></td><td colspan="3">P值P-value</td></tr><tr><td rowspan="2">NC</td><td rowspan="2">PC</td><td rowspan="2">I</td><td rowspan="2"></td><td rowspan="2">I</td><td rowspan="2">IⅢI</td><td rowspan="2">SEM PC vs. AP*</td><td colspan="2">NC vs. AP*</td></tr><tr><td>线性 Linear</td><td>二次 Quadratic</td></tr><tr><td>初始重 Initial weight/kg</td><td>5.78</td><td>5.79</td><td>5.79</td><td>5.78</td><td>5.79</td><td>0.01</td><td>0.924</td><td>0.969</td><td>0.797</td></tr><tr><td>末重 Final weight/kg</td><td>16.46Cc</td><td>16.88ABa</td><td>16.72Bb</td><td>16.98Aa</td><td>16.47Cc</td><td>0.06</td><td>0.289</td><td>0.278</td><td>0.001</td></tr><tr><td>平均日增重 ADG/g</td><td>305.05Cc</td><td>316.97ABab</td><td>312.40Bb</td><td>320.01Aa</td><td>305.25Cc</td><td>1.71</td><td>0.293</td><td>0.285</td><td>0.001</td></tr><tr><td>平均日采食量 ADFIg</td><td>445.02Bb</td><td>451.25ABa</td><td>451.36ABa</td><td>455.91Aa</td><td>445.58Bb</td><td>1.21</td><td>0.921</td><td>0.365</td><td>0.001</td></tr><tr><td>料重比F/G</td><td>1.46Aa</td><td>1.42Bb</td><td>1.44ABab</td><td>1.42Bb</td><td>1.46Aa</td><td>0.01</td><td>0.077</td><td>0.589</td><td>0.008</td></tr></table></body></html>
+
+同行数据肩标相同小写字母或无字母表示差异不显著（ $P { > } 0 . 0 5 )$ ，肩标不同小写字母表示差异显著$_ { . { P < 0 . 0 5 } }$ )，肩标不同大写字母表示差异极显著（ $_ { \scriptstyle P < 0 . 0 1 { \dot { \ } } }$ 。下表同。
+
+In the same row,values with the same smalleter or no letter superscripts mean no significant difference （204号 $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，and with different capital letter superscripts mean extremely significant difference $( P { < } 0 . 0 1 )$ ). The same as below.
+
+$^ { * } \mathrm { A P }$ ：益生菌发酵苹果渣组，下同。AP mean probiotic fermented apple pomace groups,the same as below.
+
+# 2.2添加益生菌发酵苹果渣对断奶仔猪腹泻率的影响
+
+由表3可知，试验1\~21d,PC 组、I组和Ⅱ组较I组的腹泻率分别显著下降了 $1 7 . 9 8 \%$ 、$1 3 . 4 7 \%$ 和 $1 5 . 7 3 \% ( P { < } 0 . 0 5 )$ ，PC组比NC组显著下降了 $1 5 . 1 1 \%$ （ $P { < } 0 . 0 5 )$ ，I组和 $\mathrm { I I }$ 组与NC组相比分别下降了 $1 0 . 4 5 \%$ 和 $1 4 . 2 9 \%$ （ $. P { > } 0 . 0 5 \$ )。试验 $2 2 { \sim } 3 5 \mathrm { d }$ ，NC 组和III组较PC组和ⅡI组显著升高（ $P { < } 0 . 0 5 \mathrm { : }$ ，同时，I组较NC 组显著下降（ $\scriptstyle \cdot - P < 0 . 0 5 .$ )。可见，无论前期还是后期，腹泻率随着益生菌发酵苹果渣添加量的增加都是先下降后升高，呈现二次变化趋势( $( P { < } 0 . 0 5 )$ ，且 $6 \%$ 添加组腹泻率最低。
+
+Table 3Effects of probiotic fermented apple pomace on diarrhea rate of weaned piglets   
+
+<html><body><table><tr><td rowspan="3">项目Items</td><td colspan="5">组别Groups</td><td rowspan="3"></td><td colspan="4">P值P-value</td></tr><tr><td rowspan="2">NC</td><td rowspan="2">PC</td><td rowspan="2">1</td><td rowspan="2">I</td><td rowspan="2">III</td><td rowspan="2">SEM</td><td rowspan="2">PC vs. AP</td><td colspan="2">NC vs. AP 二次</td></tr><tr><td>线性 Linear</td><td>Quadratic</td></tr><tr><td>1~21d</td><td>18.86ab</td><td>16.01°</td><td>16.89bc</td><td>16.45bc</td><td>19.52a</td><td>0.47</td><td>0.191</td><td>0.673</td><td>0.012</td></tr><tr><td>22~35 d</td><td>11.46a</td><td>7.99℃</td><td>8.68bc</td><td>7.64c</td><td>10.42ab</td><td>0.48</td><td>0.399</td><td>0.189</td><td>0.003</td></tr></table></body></html>
+
+2.3添加益生菌发酵苹果渣对断奶仔猪血清生化指标的影响
+
+由表4可知，各组血清 TP、ALB、GLU 和TG含量差异均不显著 $( P 5 0 . 0 5 )$ ，但Ⅱ组和PC 组血清TP和ALB含量较NC 组均有明显上升。在UN含量方面，与NC 组相比，试验21dPC组和ⅡI组分别下降了 $3 4 . 6 7 \%$ 和 $3 8 . 2 1 \%$ （ $_ { _ { P < 0 . 0 5 ) } }$ ，试验 $3 5 \mathrm { ~ d ~ P C }$ 组和Ⅱ组分别下降了 $1 5 . 9 4 \%$ 和 $1 6 . 5 2 \%$ ( $( P { < } 0 . 0 5 )$ ；在TC含量方面，与NC 组相比，PC 组、I组和ⅡI组均呈下降趋势，且差异显著（ $. P { < } 0 . 0 5 )$ )。随着益生菌发酵苹果渣添加量的增加，血清UN和TC含量呈现二次变化趋势（ $( P { < } 0 . 0 5 )$ ，且试验21d血清TC含量呈线性降低（ $_ { \tiny { P = 0 . 0 1 1 } }$ 。与PC组相比，益生菌发酵苹果渣组各血清生化指标均无显著变化（ $( P { > } 0 . 0 5 )$ 。结果表明，在饲粮中添加 $6 \%$ 益生菌发酵苹果渣可以明显升高血清中 TP 和ALB 含量，显著降低UN 和 TC 含量。
+
+表3益生菌发酵苹果渣对断奶仔猪腹泻率的影响  
+表4益生菌发酵苹果渣对断奶仔猪血清生化指标的影响  
+Table 4Effects of probiotic fermented apple pomace on serum biochemical indicators of weaned piglets   
+
+<html><body><table><tr><td></td><td colspan="5">组别Groups</td><td></td><td colspan="3">P值P-value</td></tr><tr><td>项目Items</td><td>NC</td><td>PC</td><td></td><td>Ⅱ</td><td>Ⅲ</td><td>SEM</td><td>PC vs. AP</td><td colspan="2">NC vs. AP</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>线性 Linear</td><td>二次 Quadratic</td></tr><tr><td>21d</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总蛋白 TP/(g/L)</td><td>53.13</td><td>58.50</td><td>54.27</td><td>58.43</td><td>53.80</td><td>0.93</td><td>0.284</td><td>0.483</td><td>0.163</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>27.20</td><td>29.17</td><td>27.23</td><td>29.60</td><td>27.10</td><td>0.54</td><td>0.262</td><td>0.729</td><td>0.354</td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td>4.24a</td><td>2.77b</td><td>3.93ab</td><td>2.62b</td><td>4.40a</td><td>0.25</td><td>0.266</td><td>0.649</td><td>0.026</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>5.11</td><td>5.47</td><td>5.28</td><td>5.50</td><td>5.16</td><td>0.09</td><td>0.403</td><td>0.696</td><td>0.232</td></tr><tr><td>总胆固醇 TC/(nmol/L)</td><td>1.79a</td><td>1.49b</td><td>1.54b</td><td>1.33b</td><td>1.48b</td><td>0.05</td><td>0.202</td><td>0.011</td><td>0.032</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.30</td><td>0.37</td><td>0.34</td><td>0.36</td><td>0.31</td><td>0.01</td><td>0.636</td><td>0.750</td><td>0.165</td></tr><tr><td>35 d</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总蛋白 TP/(g/L)</td><td>53.03</td><td>58.60</td><td>54.90</td><td>58.90</td><td>54.60</td><td>0.92</td><td>0.267</td><td>0.329</td><td>0.138</td></tr></table></body></html>
+
+<html><body><table><tr><td>白蛋白 ALB/(g/L)</td><td>27.57</td><td>28.83</td><td>27.37</td><td>29.13</td><td>27.13</td><td>0.40</td><td>0.391</td><td>0.911</td><td>0.351</td></tr><tr><td>尿素氮UN/(mmol/L)</td><td>3.45a</td><td>2.90bc</td><td>3.15abc</td><td>2.88c</td><td>3.32ab</td><td>0.08</td><td>0.239</td><td>0.318</td><td>0.030</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>5.08</td><td>5.41</td><td>5.18</td><td>5.52</td><td>5.12</td><td>0.10</td><td>0.541</td><td>0.680</td><td>0.341</td></tr><tr><td>总胆固醇 TC/(nmol/L)</td><td>1.63a</td><td>1.31b</td><td>1.36b</td><td>1.31b</td><td>1.43ab</td><td>0.04</td><td>0.476</td><td>0.053</td><td>0.016</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.33</td><td>0.38</td><td>0.36</td><td>0.38</td><td>0.33</td><td>0.01</td><td>0.402</td><td>0.726</td><td>0.041</td></tr></table></body></html>
+
+2.4添加益生菌发酵苹果渣对断奶仔猪血清激素指标的影响
+
+由表5可知，与NC 组和II组相比，PC 组和ⅡI组血清GH、INS、 ${ { \mathrm { T } } _ { 3 } }$ 和 $\mathrm { T } _ { 4 }$ 含量都显著升高（ $P { < } 0 . 0 5 )$ ，其中PC组和ⅡI组血清GH含量升高达到极显著水平（ $_ { _ { P < 0 . 0 1 } }$ )。随着益生菌发酵苹果渣添加量的增加，试验21d血清 INS、 ${ \bf T } _ { 3 }$ 、 $ { \mathrm { ~ T ~ } } _ { 4 }$ 含量均呈现先上升后降低的二次趋势（ $P { < } 0 . 0 5 )$ ，血清GH含量有二次变化趋势（ $\scriptstyle P = 0 . 0 5 9 .$ ；试验 $3 5 \mathrm { ~ d ~ }$ 血清 GH、INS、 ${ \bf T } _ { 3 }$ 含量呈现先上升后降低的二次趋势（ $_ { . } P { < } 0 . 0 5 )$ 。结果表明，饲粮添加 $6 \%$ 益生菌发酵苹果渣对断奶仔猪血清GH、INS、 ${ \mathrm { T } } _ { 3 }$ 和 $\mathrm { T } _ { 4 }$ 含量的影响最为明显。
+
+表5益生菌发酵苹果渣对断奶仔猪血清激素指标的影响  
+Table 5Effects of probiotic fermented apple pomace on serum hormone indicators of weaned piglets   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td><td rowspan="2">SEM</td><td colspan="3">P值P-value</td></tr><tr><td>NC</td><td>PC</td><td>I</td><td>I</td><td>Ⅲ</td><td>PC vs.AP</td><td>NC vs. AP 线性</td><td>二次</td></tr><tr><td>21d</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Linear</td><td>Quadratic</td></tr><tr><td>生长激素 GH/(ng/mL)</td><td>2.26b</td><td>2.73a</td><td>2.36ab</td><td>2.75a</td><td>2.25b</td><td>0.08</td><td>0.172</td><td>0.557</td><td>0.059</td></tr><tr><td>胰岛素 INS/(uIU/mL)</td><td>32.83b</td><td>39.28a</td><td>35.36ab</td><td>39.25a</td><td>32.62b</td><td>0.97</td><td>0.156</td><td>0.663</td><td>0.021</td></tr><tr><td>三碘甲状腺原氨酸</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T3/(ng/mL)</td><td>1.31b</td><td>1.79a</td><td>1.44ab</td><td>1.75a</td><td>1.32b</td><td>0.07</td><td>0.108</td><td>0.527</td><td>0.044</td></tr><tr><td>甲状腺素 T4/(ng/mL)</td><td>35.38b</td><td>42.58a</td><td>37.67ab</td><td>42.67a</td><td>35.16b</td><td>1.15</td><td>0.165</td><td>0.638</td><td>0.040</td></tr><tr><td>35 d</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>生长激素 GH/(ng/mL)</td><td>2.41Bb</td><td>2.81Aa</td><td>2.59ABab</td><td>2.83Aa</td><td>2.41Bb</td><td>0.06</td><td>0.184</td><td>0.550</td><td>0.006</td></tr><tr><td>胰岛素 INS/(μIU/mL)</td><td>34.45b</td><td>41.50a</td><td>37.64ab</td><td>41.62a</td><td>34.41b</td><td>1.09</td><td>0.216</td><td>0.658</td><td>0.025</td></tr><tr><td>三碘甲状腺原氨酸</td><td>1.46b</td><td>1.74a</td><td>1.55ab</td><td>1.76a</td><td>1.45b</td><td>0.04</td><td>0.189</td><td>0.629</td><td>0.020</td></tr><tr><td>T3/(ng/mL) 甲状腺素 T4/(ng/mL)</td><td>38.47b</td><td>43.56a</td><td>38.27b</td><td>43.60a</td><td>37.97b</td><td>0.88</td><td>0.106</td><td>0.585</td><td>0.108</td></tr></table></body></html>
+
+2.5添加益生菌发酵苹果渣对断奶仔猪粪便微生物的影响
+
+由表6可知，在整个饲养阶段，PC组总菌数均显著低于NC 组和益生菌发酵苹果渣组（ $_ { _ { P < 0 . 0 5 } ) }$ ，益生菌发酵苹果渣组较NC组呈明显上升趋势，但差异不显著（ $( P { > } 0 . 0 5 )$ 。在大肠杆菌方面，与NC 组和II组相比，第7天PC 组和Ⅱ组极显著降低 $( P { < } 0 . 0 1 )$ ，第14和21天显著降低 $( P { < } 0 . 0 5 )$ ;第28和35天，与NC组相比,PC组、I组和ⅡI组均显著降低( $( P { < } 0 . 0 5 )$ ，IⅢ组也明显下降，但差异不显著（ $\scriptstyle \cdot > 0 . 0 5 .$ )。随着益生菌发酵苹果渣添加量的增加，大肠杆菌呈现显著的二次变化趋势（ $_ { \cdot } P { < } 0 . 0 5$ )。PC组与益生菌发酵苹果渣组相比，菌群总数极显著下降 $( P { < } 0 . 0 1 )$ 。结果表明，在仔猪断奶饲粮中添加益生菌发酵苹果渣可以明显地提高菌群总数，降低大肠杆菌数，其中以 $6 \%$ 添加量效果最佳。
+
+表6益生菌发酵苹果渣对断奶仔猪粪便微生物的影响  
+Table 6Effects of probiotic fermented apple residue on fecal microorganism of weaned piglets   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td><td rowspan="2">SEM</td><td colspan="3">P值P-value</td></tr><tr><td>NC</td><td>PC</td><td>I</td><td>I</td><td>III</td><td>PC vs. AP</td><td>NC vs.AP 线性</td><td>二次</td></tr><tr><td>7d</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Linear</td><td>Quadratic</td></tr><tr><td>菌群总数 Total</td><td>6.94a</td><td>6.17b</td><td>7.03a</td><td>7.03a</td><td>7.21a</td><td>0.12</td><td>0.001</td><td>0.185</td><td>0.724</td></tr><tr><td>bacteria/[lg(CFU/g)]</td><td></td><td>4.33Bb</td><td>5.29ABa</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>大肠杆菌 E.coli/(MPN/g)</td><td>5.67Aa</td><td></td><td></td><td>4.48Bb</td><td>5.74Aa</td><td>0.18</td><td>0.058</td><td>0.529</td><td>0.005</td></tr><tr><td>14d 菌群总数</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total bacteria/[lg(CFU/g)]</td><td>6.93a</td><td>6.29b</td><td>7.06a</td><td>7.05a</td><td>7.17a</td><td>0.10</td><td>0.001</td><td>0.265</td><td>0.971</td></tr><tr><td>大肠杆菌 E.coli/(MPN/g)</td><td>5.27a</td><td>4.23b</td><td>4.81ab</td><td>4.08b</td><td>5.15a</td><td>0.16</td><td>0.261</td><td>0.426</td><td>0.028</td></tr><tr><td>21d 菌群总数 Total</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>bacteria/[lg(CFU/g)]</td><td>6.99a</td><td>6.29b</td><td>7.04a</td><td>7.05a</td><td>7.13a</td><td>0.11</td><td>0.002</td><td>0.531</td><td>0.901</td></tr><tr><td>大肠杆菌 E.coli/(MPN/g)</td><td>5.12a</td><td>4.10b</td><td>4.53ab</td><td>4.07b</td><td>4.93a</td><td>0.14</td><td>0.218</td><td>0.320</td><td>0.011</td></tr><tr><td>28d</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>菌群总数 Total</td><td>7.04a</td><td>6.47b</td><td>7.06a</td><td>7.10a</td><td>7.12a</td><td>0.08</td><td>0.002</td><td>0.594</td><td>0.989</td></tr><tr><td>bacteria/[lg(CFU/g)]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>大肠杆菌 E.coli/(MPN/g)</td><td>5.03a</td><td>4.04b</td><td>4.13b</td><td>4.00b</td><td>4.67ab</td><td>0.14</td><td>0.478</td><td>0.267</td><td>0.008</td></tr><tr><td>35 d</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>菌群总数 Total</td><td>6.99a</td><td>6.39b</td><td>7.01a</td><td>7.05a</td><td>7.09a</td><td>0.09</td><td>0.003</td><td>0.645</td><td>0.923</td></tr><tr><td>bacteria/[lg(CFU/g)]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>大肠杆菌 E.coli/(MPN/g)</td><td>4.81a</td><td>4.11b</td><td>4.13b</td><td>4.08b</td><td>4.68ab</td><td>0.11</td><td>0.496</td><td>0.606</td><td>0.007</td></tr></table></body></html>
+
+# 3讨论
+
+3.1添加益生菌发酵苹果渣对断奶仔猪生长性能的影响
+
+仔猪断奶后容易出现采食量下降、免疫力降低、生长停滞和腹泻等一系列的“早期断奶应激综合征”，严重影响早期断奶仔猪的成活率和养猪业的经济效益。本试验中添加的益生菌发酵苹果渣是由新鲜果渣通过由酵母菌、乳酸菌和芽孢杆菌组成的混合型微生态制剂固态发酵制得。益生菌发酵苹果渣中除了含有大量活菌，还有益生菌代谢产生的蛋白质酶、淀粉酶和纤维素酶以及活性肽和游离氨基酸，可以提高仔猪的消化能力和饲料利用率，进而提高生长性能。此外，芽孢杆菌和酵母菌等好氧菌的代谢为肠道乳酸菌的繁殖提供良好的厌氧环境从而产生大量乳酸，抑制致病性大肠杆菌的大量繁殖：一方面使肠道pH降低，改善肠道微生态平衡，提高消化能力[1-12]，提高动物的免疫力，降低发病率和腹泻率；另一方面，可以改善饲粮的适口性，提高动物采食量。
+
+从本试验结果来看，并非益生菌发酵苹果渣的添加比例越高，断奶仔猪的生长性能越好，存在一个最佳添加量的问题。在综合平均日增重、平均日采食量、料重比和腹泻率指标基础上，添加 $6 \%$ 益生菌发酵苹果渣和PC 组效果最好，可以显著提高仔猪平均日增重和平均日采食量，降低料重比和腹泻率，提高生长性能。吴红翔等[13]研究表明，用 $3 \%$ 苹果渣发酵饲料代替基础饲粮饲喂鹑，能够改善鹑蛋品质，提高生产性能。Garcia等[14]研究发现，在饲粮中添加益生菌能明显改善断奶仔猪生长性能，提高饲料转化率，减少腹泻的发生，提高养殖效益。这都与本试验的结果基本一致。
+
+# 3.2添加益生菌发酵苹果渣对断奶仔猪血清生化指标的影响
+
+仔猪血清生化指标可综合反映机体的新陈代谢状况。比如血清中TP和UN含量能够准确反映动物机体对蛋白质的代谢吸收情况和饲粮中氨基酸的平衡状况[15-16]。本试验中各组血清TP和ALB含量均无显著变化，但添加 $6 \%$ 益生菌发酵苹果渣可以显著降低血清UN含量，表明益生菌发酵苹果渣可以增加机体氮沉积量，有利于蛋白质合成，促进生长发育，这可能与益生菌发酵苹果渣中的活性肽和游离氨基酸含量密切相关。曾李等[17研究表明，渣类饲料通过益生菌发酵后能够显著提高饲粮中小肽、寡肽和游离氨基酸的含量，从而提高饲粮中蛋白质利用率，有利于提高动物生长性能。
+
+血脂和脂蛋白含量反映了机体在稳态下的代谢调节，特别是脂肪酸在脂肪组织和肝脏之间循环的基本调节[18]。血清中 TG 和TC 含量可反映脂肪在动物机体的代谢状况。本试验各组间血清TG含量没有显著变化，但当益生菌发酵苹果渣添加量达到 $6 \%$ 时，血清TC含量较 NC 组显著降低，表明在饲粮中添加一定比例的益生菌发酵苹果渣能提高机体对脂肪的利用能力，从而为蛋白质的合成提供能量，促进机体的生长发育，进而提高仔猪的生长性能。
+
+# 3.3添加益生菌发酵苹果渣对断奶仔猪血清激素水平的影响
+
+“下丘脑－垂体－靶器官"轴上GH、INS 和甲状腺激素等激素对动物生长起重要的调节作用[19]。GH处于生长轴的中心环节，其主要生理作用是促进蛋白质沉积和骨骼生长，具体表现为通过胰岛素样生长因子(IGF)促进氨基酸进入细胞，加强 DNA、RNA 的合成进而促进蛋白质合成，促进机体呈正氮平衡。对于仔猪来说，GH是提高蛋白质沉积的主要生理因子。INS 是调控机体糖代谢的主要激素，能够促进组织细胞对葡萄糖的摄取和利用，加速糖原合成，还能够促进细胞对氨基酸的摄取、抑制蛋白质分解和糖原异生，利于细胞的生长[19]。同时,INS还可与GH协同促进机体的生长发育。甲状腺激素对蛋白质的合成具有重要作用，并且可通过调节糖类和脂肪的代谢来促进器官和组织的分化。 ${ \bf T } _ { 3 }$ 是甲状腺激素在动物体内发挥生理作用的主要部分，主要通过调控垂体中GH基因的表达和GH的合成以及调节 INS水平来促进蛋白质的合成，影响动物的生长发育。
+
+本试验结果表明，在断奶仔猪饲粮中添加 $6 \%$ 益生菌发酵苹果渣可使体内与生长有关的内源激素(GH、INS 和甲状腺激素)含量有显著性升高，从而促进生长。王书凤等[20]研究发现，在饲粮中添加组合抗生素可显著提高内源激素（GH、ISN 和 ${ \bf T } _ { 3 }$ ）含量；卢昱屹等[21]研究发现，在仔猪饲粮中添加 $10 \%$ 和 $20 \%$ 的发酵豆粕可以显著提高血清中GH含量，促进生长，降低料重比。以上研究结果都与本试验一致。
+
+3.4添加益生菌发酵苹果渣对断奶仔猪粪便微生物的影响
+
+断奶应激的主要表现之一是仔猪肠道微生物菌群之间比例失调，使肠道优势菌群发生更替,致使大肠杆菌、沙门氏菌等一些致病菌或者条件致病菌大量繁殖，打破肠道微生态平衡，排放内毒素或产生其他毒副作用，从而引起机体消化机能紊乱，导致动物生长性能下降。有研究发现，在仔猪断奶阶段应用以乳酸菌为主的单一或者复合益生菌能够干预并纠正肠道微生态体系失衡现象，从而保证其良好生长性能发挥[11,22]。Dong 等[23]研究表明，为断奶仔猪饲喂益生菌可以显著降低粪便中大肠杆菌的数量，提高生长性能和免疫力。本试验研究表明，在断奶仔猪饲粮中添加 $6 \%$ 益生菌发酵苹果渣能够显著降低粪便中大肠杆菌数量，对病原菌具有较好的抑菌效果，说明在饲粮中添加适宜水平的益生菌发酵苹果渣产生了与抗生素相似的结果，从而降低腹泻率，提高生长性能。
+
+4结论
+
+$\textcircled{1}$ 饲粮添加益生菌发酵苹果渣可显著提高断奶仔猪平均日增重和平均日采食量，显著降低料重比。  
+$\textcircled{2}$ 饲粮添加益生菌发酵苹果渣可显著降低断奶仔猪粪便中大肠杆菌数量，降低腹泻率。  
+$\textcircled{3}$ 断奶仔猪饲粮中益生菌发酵苹果渣较为适宜的添加量为 $6 \%$ 。
+
+# 参考文献：
+
+[1]赵玉山.我国苹果市场新特点及2015年产销预测[J].果农之友,2015(8):3-4,31.  
+[2]王永涛,廖小军.苹果加工副产物综合利用问题亟待解决[J].农业工程技术：农产品加工业,2014(10):33.  
+[3]GAZALLI H,MALIK A H,SOFI A H,et al.Nutritional value and physiological effect ofapple pomace[J].International Journal of Food Nutrition and Safety,2O14,5(1):11-15.  
+[4]张凯,路佩瑶,宋献艺,等.苹果渣作为饲料资源的研究与应用进展[J].饲料研究,2015(15):5-7,49.  
+[5]邵丽玮,赵国先,冯志华,等.苹果渣作为饲料资源开发利用的研究[J].饲料广角,2015(18):41-44.  
+[6]SUN Z T,TIAN L M,LIU C,et al.Bioconversion of apple pomace into a multienzymebio-feed by two mixed strains of Aspergillus niger in solid state fermentation[J].Electronic Journalof Biotechnology,2009,12(1):2-3.  
+[7]张高波.发酵苹果渣生产活性蛋白饲料研究[D].硕士学位论文.杨凌:西北农林科技大学,2014:39.  
+[8]陈姣姣.苹果渣发酵饲料不同形态蛋白质、氨基酸及酶活性影响研究[D].硕士学位论文.杨凌：西北农林科技大学，2014:67.
+
+[9] STRUBE M L,RAVN H C.INGERSLEV H C,et al.In situ prebiotics for weaning piglets:in
+
+vitroproduction and fermentation of potato galacto-rhamnogalacturonan[J].Appliedand Environmental Microbiology,2015,81(5):1668-1678.   
+[10]BRENES A,VIVEROS A,CHAMORRO S,et al.Use of polyphenol-rich grape by-products in monogastric nutrition.A review[J].Animal Feed Science and Technology,2016,211:1-17. [11]LIU H,JI H F,ZHANG D Y,et al.Effects of Lactobacillus brevis preparation on growth performance,fecalmicrofloraandserumprofileinweanedpigs[J].Livestock Science,2015,178:251-254.   
+[12]许镨文,李元晓,庞有志.液体发酵饲料对断奶仔猪肠道健康的影响[J].动物营养学 报,2011,23(12):2105-2108.   
+[13]吴红翔,藩东福,谌南辉,等.苹果渣发酵饲料及中草药对鹌鹑蛋品质的影响[J].饲料工 业,2013,34(1):56-59.   
+[14]GARCIA K E,DE SOUZA T C R,LANDIN G M,et al.Microbial fermentation patterns,diarrhea incidence,and performance in weaned piglets fed a low protein diet supplemented with probiotics[J].Food and Nutrition Sciences,2014,5(18):1776-1786.   
+[15] ZHOU H,WANG C Z,YE J Z,et al.Effects of dietary supplementation of fermented Ginkgo biloba L.residues on growth performance,nutrient digestibility,serum biochemical parameters and immune function in weaned piglets[J].Animal Science Journal,2015,86(8):790-799.   
+[16]杨玉芬,许道光,王长康,等.不同含量的发酵豆粕对仔猪生长性能和血液指标的影响[J]. 江西农业大学学报,2014,36(3):619-625.   
+[17]曾李,习欠云,张庆宇,等.酱油渣发酵工艺及蛋白质含量变化研究[J].动物营养学 报,2015,27(8):2628-2636.   
+[18]邹思湘.动物生物化学[M].4版.北京:中国农业出版社,2005:162-177.   
+[19]欧阳五庆.动物生理学[M].北京:科学出版社,2006:323-327.   
+[20]王书凤,龚月生.不同抗生素组合对哺乳仔猪内分泌的调控作用及血液生化指标的影响 [J].安徽农业科学,2014,42(21):7037-7040.   
+[21]卢昱屹,吴先华,陈玉龙,等.不同水平及形态发酵豆粕日粮对断奶仔猪生长性能、血清激 素指标和粪中有害菌群的影响[J].饲料研究,2015(17):40-43,46.   
+[22]MISHRA D K,VERMA A K,AGARWAL N,et al.Effect of dietary supplementation of probiotics on growth performance,nutrients digestibility and faecal microbiology in weaned piglets[J].Animal Nutrition and Feed Technology,2014,14(2):283-290.   
+[23]DONG X L,ZHANG N F,ZHOU M,et al.Efects of dietary probiotics on growth performance,faecal microbiota and serum profiles in weaned piglets[J].Animal Production Science,2013,54(5):616-621.
+
+Probiotic Fermented Apple Pomace Affects Growth Performance, Serum Biochemical Indicators andFecal Microbial Flora ofWeaned Piglets GAO Yin1WANG Guojun1LAI Hangxian² YANG Yuxin1\*
+
+(1. College of Animal Science and Technology, Northwest A & F University, Yangling 712100, China; 2. College of Natural Resources and Environment, Northwest A & $F$ University, Yangling 712100, China)
+
+Abstract: This study was conducted to evaluate the effects of probiotic fermented apple pomace on growth performance, serum biochemical indicators and fecal microbial flora of weaned piglets. A total of 12O weaned piglets with an average initial body weight of $( 5 . 8 7 { \pm } 0 . 1 0 ) \mathrm { k g }$ were randomly assigned to 5 groups with 3 replicates per group and 8 pigs per replicate. Pigs were alloted to 5 diets, including a basal diet (without antibiotic, negative control group),a basal diet $+ 0 . 1 \%$ hybrid antibiotics (positive control group） and three experimental diets supplemented with probiotic fermented apple pomace at the level of $4 \%$ ， $6 \%$ and $8 \%$ in the basal diet,respectively. The experiment lasted for $3 5 \mathrm { ~ d ~ }$ Results showed that, compared with negative control group,antibiotic and $6 \%$ probiotic fermented apple pomace supplementation got higher average daily gain and average daily feed intake ( $( P { < } 0 . 0 5 )$ , but lower feed/gain, fecal $E .$ .coli population and diarrhea rate （20 $( P { < } 0 . 0 5 )$ . Antibiotic and $6 \%$ probiotic fermented apple pomace supplementation also significantly decreased serum urea nitrogen and total cholesterol contents $( P { < } 0 . 0 5 )$ ，while significantly increased growth hormone,insulin, triiodothyronine and thyroxine contents $( P { < } 0 . 0 5 )$ . With the increasing of probiotic fermented apple pomace supplemental level, growth performance, diarrhea rate, fecal $E$ .coli population, serum urea nitrogen, total cholesterol and hormone indices showed a quadratic effect changes $( P { < } 0 . 0 5 )$ ，with $6 \%$ probiotic fermented apple pomace supplementation got the best effect. Compared with positive control group， probiotic fermented apple pomace supplementation extremely significantly increased the total number of fecal bacteria $( P { < } 0 . 0 1 )$ . It is concluded that dietary supplementation of $6 \%$ probiotic fermented apple pomace can improve growth performance and serum endocrine hormones,regulate intestinal flora balance,and reduce fecal $E .$ . coli population, diarrhea rate,serum urea nitrogen and cholesterol of weaned piglets.
+
+Key words: probiotic fermented apple pomace; weaned piglet; growth performance； serum biochemical indicators; fecal microbial flora

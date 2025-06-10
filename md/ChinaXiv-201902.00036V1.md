@@ -1,0 +1,74 @@
+# FOXF1、ETV1在胃肠间质瘤中研究进展
+
+刘东，朱长真，康维明，于健春中国医学科学院北京协和医学院北京协和医院基本外科 北京 100730通信作者：康维明电话：010-69152215，E-mail：kangweiming@163.com【摘要】胃肠间质瘤（Gastrointestinal stromal tumors，GISTs）是消化道最常见间叶组织肿瘤，起源于Cajal细胞（Interstitial cellsofCajal, ICc）或其同源干细胞，大部分发生与KIT或PDGFRA基因突变有关。其发病率、靶向治疗耐药率及术后复发率逐年升高，极大影响患者预后，GISTs 治疗面临瓶颈，寻找新治疗方法已成为当前GISTs研究热点。ETV1是转录因子ETS家族成员，可刺激KIT基因转录，KIT蛋白通过MEK-MAPK信号通路增强 ETV1表达。ETV1和KIT正反馈协同调节导致ICC/GISTs细胞内信号通路持续激活，从而促进肿瘤增殖。FOXF1在GISTs 中特异性高表达，可能是KIT和ETV1上游调节因子，促进ICC/GISTs 谱系特有基因表达，FOXF1、ETV1 可能为GISTs 治疗提供新思路、新方向。本文就 FOXF1、ETV1基因表达与GISTs关系现状及最新进展做一综述。
+
+【关键词】胃肠道间质瘤；GISTs;ETV1；FOX基因家族；FOXF1；
+
+胃肠间质瘤(Gastrointestinal stromal tumors,GISTs)是胃肠道最常见间叶组织肿瘤，起源于消化道肌层Cajal细胞（Interstitial cells of Cajal，ICCs）或同源干细胞[1]，可发生于胃肠道任何部位，大多数在胃（ $7 0 \%$ ）和小肠（ $1 0 \% { - } 2 5 \% )$ [2]，少数在直肠、食管及结肠[3]。发病率约 $1 { - } 2 / 1 0$ 万，约占胃肠道肿瘤 $1 - 3 \%$ ，胃肠道肉瘤 $80 \%$ [4]，近年来呈明显上升趋势「5]。GISTs生长缓慢、症状隐匿，早期诊断极为困难，误诊率高达 $9 1 . 7 \%$ [6]。临床表现多样、无特异性。上述因素导致肿瘤发现时即为中晚期，直接影响治疗效果及预后。另外，GISTs对传统放化疗不敏感。手术完整切除是唯一可能治愈的方法，但术后仍有 $4 0 \% - 8 0 \% \mathrm { G I S T s }$ 患者出现复发、转移，平均时间为 $1 9 \sim 2 5$ 月， $8 0 \%$ 发生在术后2年之内[7]。
+
+大部分GISTs发生与KIT和/或PDGFRA基因功能性突变有关[8-10]。酪氨酸激酶受体抑制剂(Tyrosine kinase inhibitors,TKI)使GISTs治疗取得革命性进展，但仍有14%GISTs原发耐药[11]。另外，由于两基因存在多位点和/或二次突变,导致靶向治疗耐药率及复发率逐年升高，复发和耐药是影响疗效的关键因素。研究发现，术后服用Imatinib的GISTs患者中位无进展生存期约2年，两年之内继发耐药率 $4 0 \mathrm { ~ - ~ } 5 0 \%$ 。Sunitinib 对Imatinib耐药病例疾病控制率仅 $6 5 \%$ ( $7 \%$ 有效， $5 8 \%$ 疾病无进展)，且持续时间短，易耐药[12]。Regorafenib、sorafenib等均对一线、二线耐药GISTs效果尚不确切且副作用大[13]。GISTs治疗面临瓶颈，寻找新的治疗方法成为当前GISTs治疗研究热点。
+
+# 1．GISTs与ETV1表达
+
+KIT基因编码ⅢI型酪氨酸激酶家族跨膜受体。正常情况下，c-kit蛋白必须与配体——干细胞因子(stem cellfactors,SCF)结合，发生自身磷酸化，激活有丝分裂活化蛋白激酶和磷脂酰肌醇3激酶，进而激发激酶磷酸化链式反应，促进细胞增殖。c-kit基因突变后，活化不再受配体限制，表现为持续、自动磷酸化，使c-kit信号转导系统病态增强，促使细胞增殖并抑制凋亡，最终导致肿瘤形成[1415]。
+
+ETS(E-twenty six）转录家族有30多个成员，是目前最大的信号依赖转录调控因子家族之一。这些信号分子拥有由85个氨基酸组成的特异DNA结合区，可与靶基因启动区（一般为富含嘌呤序列GGAA/T）结合，调控靶基因转录，参与肿瘤发生、演进[6-]E(rasocatoas-elatedprotein81)于p1.2,是ETS家族PEA3亚科转录因子。ETV1可结合的靶基因很多，通过调节靶基因的表达,在调控肿瘤细胞增殖、分化、迁移中起重要作用。研究表明，ETV1在肿瘤组织中如前列腺癌、黑色素瘤、乳腺癌中表达量较正常组织高得多[18-22]。
+
+ETV1在GISTs肿瘤组织及GISTs细胞株中均呈高水平表达，且显著高于其他肿瘤。GISTs细胞株中，ETV1对靶基因作用由复杂的调控网络调节，其中，Ras/Raf/MAPK信号通路是调控ETV1主要通路［23-25]。GISTs患者中联合使用Imatinib与MEK抑制剂，GISTs生长将受到明显抑制。研究发现[26]，ETV1表达与KIT基因转录呈正反馈循环：ETV1可刺激KIT基因转录，KIT蛋白促进ETV1表达，且增强ETV1稳定性，减缓降解。ICC转变为GISTs过程就是KIT基因与ETV1协调配合实现的，即KIT基因功能性突变和ETV1变化同步、协调进行才导致GISTs发生[2]。阻断ETV1基因后,细胞分裂减少、凋亡增加,这表明ETV1对GISTs发生、发展起至关重要作用。另有研究表明［28]，ETV1对于野生型GISTs尚有辅助诊断的作用,且ETV1表达可能作为GISTs 患者根治术后3年无病生存率预后评估指标。
+
+综上所述，ETV1可能与GISTs发生、发展相关，但能否将ETV1作为耐药性GISTs治疗新靶点、ETV1可否作为评估GISTs恶性程度、预测肿瘤进展的指标仍有待临床、基础进一步研究。深入探索ETV1在GISTs发生、发展中可能的作用机制，将为GIST诊疗提供更多思路。
+
+# 2．GISTs与FOXF1表达
+
+FOX基因家族(Fork head box family）属于叉头基因 (fork head)，在分子结构上有一个明显叉头 DNA 结合区[29]。目前19 个亚族,50个成员，功能涉及胚胎发育、细胞周期调控、糖类/脂类代谢、免疫调节、衰老等多种生物过程。FOX 家族基因在人体内主要发挥转录因子的作用，调控多种靶基因的表达，与肿瘤发展、侵袭、转移密切相关[30]。FOXF1基因是FOX 基因家族中一员，位于人类染色体 16q24.1,编码 FOXF1转录因子。FOXF1能够抑制肿瘤细胞增殖、转移，FOXF1失活会促进肿瘤进展，表现出抑瘤效应[31]。研究表明[32]，在所有入组的GISTs 组织中，无论KIT/PDGFRA 突变状况如何，FOXF1表达均为阳性。这说明FOXF1可能在GISTs中普遍表达。但在其他肉瘤中很少观察到 FOXF1表达。即 FOXF1在GISTs 中普遍表达，且具有相对特异性。因此FOXF1可能成为GISTs 敏感的、具有一定特异性的新标志物。
+
+# 3.FOXF1可能位于ETV1上游
+
+研究发现[32]，FOXF1 似乎是 ETV1上游调节因子。FOXF1主要结合位点是增强子，推测FOXF1可能是通过与增强子结合后调控KIT、ETV1表达，进而调节GISTs 生长的。FOXF1下调不仅导致ICC/GISTs 谱系基因转录减少，而且 ETV1表达也呈下降趋势。用Imatinib 抑制KIT及其下游MAPK通路信号传导，或MEK162（MEK 抑制剂）对 MAPK信号通路进行短期抑制后，均可导致ETV1蛋白降解。上述通路重新激活后，ETV1蛋白水平也相应地恢复[3-34]。整个过程中，FOXF1蛋白表达水平无显著波动。即FOXF1直接影响 ETV1表达，但ETV1变化并未对FOXF1造成任何影响。这些发现表明,FOXF1可能位于GISTs 生长信号分子ETV1上游，调控ETV1的表达。但FOXF1在GISTs 中表达的意义、与GISTs病例临床病理特征相关性、是否可以作为GISTs 治疗新方向，目前尚无相关研究进行探究。
+
+综上所述，FOXF1、ETV1、KIT三者在GISTs生长调控中的作用可以表述为：FOXF1位于信号通路的最上游，正向调控 ETV1表达。ETV1调控KIT表达，且两者形成正反馈环。这表明，FOXF1、ETV1很有可能是GISTs药物治疗的新靶点，为处于治疗瓶颈中的GISTs 患者带来了新的希望。但如何以FOXF1、ETV1为靶点开发治疗GISTs药物，尤其是多重耐药GISTs，仍需更大样本、设计更加完善的临床、基础研究进一步探索。
+
+# 参考文献：
+
+1．崔宁宜,王勇,吕珂.小肠淋巴瘤和小肠间质瘤的超声征象及鉴别诊断[J]．协和 医学杂志,2016,7(5):342-346.   
+2． Fletcher CD, Berman JJ, Corless C, Gorstein F, Lasota J,Longley BJ, Mietinen M, O'Leary TJ, Remoti H,Rubin BP, Shmookler B, Sobin LH, Weiss SW. Diagnosis of gastrointestinal stromal tumors: A consensus approach. Hum Pathol 2OO2; 33: 459-465.   
+3．Dematteo RP, Ballman KV, Antonescu CR,Maki RG, Pisters PW, Demetri GD, Blackstein ME,Blanke CD,von Mehren M, Brennan MF,Patel S,McCarter MD, Polikoff JA, Tan BR, Owzar K; American College of Surgeons Oncology Group (ACOSOG) Intergroup Adjuvant GIST Study Team. Adjuvant imatinib mesylate after resection of localised, primary gastrointestinal stromal tumour: a randomised, double-blind, placebo-controlled trial.Lancet 2009; 373: 1097-1104.   
+4．Mietinen M,Monihan JM, Sarlomorikala M,et al. Gastrointestinal stromal tumors/smooth muscle tumors (GISTs) primary in the omentum and mesentery: clinicopathologic and immunohistochemical study of 26 cases.[J]. American Journal of Surgical Pathology, 1999, 23(9):1109-1118.   
+5. Sarlomorikala M, Kovatich A J, Barusevicius A, et al. CD117: a sensitive marker for gastrointestinal stromal tumors that is more specific than CD34.[J]. Mod Pathol, 1998, 11(8):728.   
+6．邓志勇,李海,张阳等.胃肠道间质瘤误诊12 例临床病理特征分析[J].中国误诊学杂志, 2006,6(13):2547-2548.   
+7. Chang-Zhen, Dong, Wei-Ming, et al. Ghrelin and gastrointestinal stromal tumors[J]. World Journal of Gastroenterology, 2017, 23(10):1758-1763.   
+8． Heinrich Mc ， corless cL。Duensi"g A，et a1 . PDGFRA activating mutations i"gastmintestinal stromal tumor[J].science.2003,299 (10) : 708 . 710 .   
+9.Miettinen M, Sobin L H,Lasota J. Gastrointestinal stromal tumors of the stomach: a clinicopathologic,immunohistochemical,and molecular genetic study of 1765 cases with long-term follow-up.[J]. American Journal of Surgical Pathology, 2005, 29(10):1373-1381.   
+10.Miettinen M,Makhlouf H, Sobin L H, et al. Gastrointestinal stromal tumors of the jejunum and ileum: a clinicopathologic,immunohistochemical, and molecular genetic study of 9O6 cases before imatinib with long-term follow-up[J]. American Journal of Surgical Pathol0gy, 2006, 30(4):477-489.   
+11. Vadakara J, von Mehren M. Gastrointestinal stromal tumors: management of metastatic disease and emerging therapies. Hematol Oncol Clin North Am 2013; 27: 905-920.   
+12. Gramza AW, Corless CL, Heinrich MC. Resistance to Tyrosine Kinase Inhibitors in Gastrointestinal Stromal Tumors. Clin Cancer Res 2009; 15: 7510-7518.   
+13. Demetri GD, van Oosterom AT, Garrett CR, Blackstein ME, Shah MH, Verweij J, McArthur G, Judson IR, Heinrich MC, Morgan JA, Desai J, Fletcher CD, George S, Bello CL, Huang X, Baum CM, Casali PG. Efficacy and safety of sunitinib in patients with advanced gastrointestinal stromal tumour after failure of imatinib: a randomised controlled trial. Lancet 2006; 368: 1329-1338.   
+14. Hirota S, Isozaki K, Moriyama Y,Hashimoto K, Nishida T, Ishiguro S, Kawano K, Hanada M, Kurata A, Takeda M, Muhammad Tunio G, Matsuzawa Y, Kanakura Y, Shinomura Y, Kitamura Y. Gain-of-function mutations of c-kit in human gastrointestinal stromal tumors. Science 1998; 279: 577-580.   
+15.Hirota S, Ohashi A,Nishida T,et al. Gain-of-function mutations of platelet-derived growth factor receptor alpha gene in gastrointestinal stromal tumors.[J]. Gastroenterology, 2003, 125(3):660-667.   
+16.Kurpios N A,Macneil L, Shepherd TG,et al. The Pea3 Ets transcription factorregulates differentiation of multipotent progenitor cells during mammary gland development[J]. Developmental Biology, 2009,325(1):0-121.   
+17. De L Y,Baert JL, Chotteaulelievre A, et al. The Ets transcription factors of the PEA3 group: transcriptional regulators in metastasis.[J]. BBA - Reviews on Cancer, 2006,1766(1):79-87.   
+18. Ordóiez, José Luis, Osuna D , HerreroMartin, David, et al. Advances in Ewing's sarcoma research: Where are we now and what lies ahead?[J]. Cancer Research, 2OO9, 69(18):7140-50.   
+19. Jane-Valbuena J,Widlund HR ,Perner S , et al. An Oncogenic Role for ETV1 in Melanoma[J]. Cancer Research,2010, 70(5):2075-2084.   
+20. Baker R , Kent C V, Silbermann R A,et al. Pea3 transcription factors and wntl-induced
+
+mouse mammary neoplasia.[J].Plos One,2010, 5(1):e8854..
+
+21. Vageli D,Ioannou MG,Koukoulis G K .Transcriptional activation of hTERT in breast carcinomas by the Her2-ER81-related pathway[J]. Oncology Research,2009,17(9):413-423.
+
+22. Oh S , Shin S ,Janknecht R .ETV1, 4 and 5: An oncogenic subfamily of ETS transcription factors[J]. Biochimica et Biophysica Acta, 2012,1826(1):1-12.   
+23. Jane-Valbuena J, Widlund HR,Perner S ,et al.An Oncogenic Role for ETV1 in Melanoma[J]. Cancer Research, 2010, 70(5):2075-2084.   
+24. Dwyer J,He LI,Dakang X U ,et al. Transcriptional Regulation of Telomerase Activity[J]. Annals of the New York Academy of Sciences,2010,1114(1):36-47.   
+25. Goueli B S , Janknecht R .Upregulation of the Catalytic Telomerase Subunit by the Transcription Factor ER81 and Oncogenic HER2/Neu, Ras, or Raf[J]. Molecular & Cellular Biology,2004,24(1):25.   
+26. Combined Inhibition of MAP Kinase and KIT Signaling Synergistically Destabilizes ETV1 and Suppresses GIST Tumor Growth[J]. Cancer Discovery, 2015, 5(3):304-315.   
+27. Chi P ,Chen Y , Zhang L,et al. ETV1 is a lineage survival factor that cooperates with KIT in gastrointestinal stromal tumours[J]. Nature,2010, 467(7317):849-853.   
+28.殷舞，农涛，黄顺荣,etal．胃肠间质瘤中ETV1的表达及意义[J]．广东医学,2017,   
+38(9):1358-1362.   
+29. Golson ML , Kaestner K H .Fox transcription factors: From development to disease[J]. Development, 2016,143(24):4558-4570.   
+30.Lam E WF, Brosens JJ, Gomes A R, et al. Forkhead box proteins: tuning forks for transcriptional harmony[J]. Nature Reviews Cancer, 2013,13(7):482.   
+31. Wei HJ,Lo W C, Nickoloff JA ,et al. FOXF1 mediates mesenchymal stem cell fusion-induced reprogramming of lung cancer cells[J]. Oncotarget, 2014, 5(19):9514-29.   
+32. Ran L, Chen Y, Sher J,et al. FOXF1 defines the core-regulatory circuitry in gastrointestinal stromal tumor (GIST)[J]. Cancer Discovery, 2018, 8(2):234.   
+33. Szafranski P, Dharmadhikari A V, Wambach JA ,et al. Two deletions overlapping a distant\r, FOXFI\r, enhancer unravel the role of lncRNA\r, LINCO1O8Ir, in etiology of alveolar capillary dysplasia with misalignment of pulmonary veins[J]. American Journal of
+
+Medical GeneticsPartA,2014,164(8):2013-2019.
+
+34. Tang C M,Lee TE, Syed S A, et al. Hedgehog pathway dysregulation contributes to the pathogenesis of human gastrointestinal stromal tumors via GLI-mediated activation of KIT expression[J]. Oncotarget, 2016, 7(48):78226-78241.

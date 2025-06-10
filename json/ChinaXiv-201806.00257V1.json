@@ -1,0 +1,339 @@
+[
+    {
+        "type": "text",
+        "text": "重组蛋白下游连续纯化技术的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵伟 李敬达 刘庆平\\*\\*（辽宁省糖脂代谢重点实验室，大连大学生命科学与技术学院，大连116622）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：重组蛋白质的纯化一直是限制其生产的瓶颈环节，传统纯化工艺以批次模式为主，普遍存在成本高，处理效率及回收率低等问题。近年来，随着连续离心，过滤，层析技术的开发和应用，有效克服了传统工艺的缺陷。主要以下游纯化工艺为主线，对工业大规模纯化过程中所涉及的连续技术的特点及应用进行了归纳分析。最后，对纯化工艺中的核心技术——层析，以及未来重组蛋白质的纯化技术进行了展望，旨在为重组蛋白质生产工艺的优化提供新的理论依据和指导思想。重组蛋白质的纯化一直是限制其生产的瓶颈环节，传统纯化工艺以批次模式为主，普遍存在成本高，处理效率及回收率低等问题。近年来，随着连续离心，过滤，层析技术的开发和应用，有效克服了传统工艺的缺陷。主要以下游纯化工艺为主线，对工业大规模纯化过程中所涉及的连续技术的特点及应用进行了归纳分析。最后，对纯化工艺中的核心技术——层析，以及未来重组蛋白质的纯化技术进行了展望，旨在为重组蛋白质生产工艺的优化提供新的理论依据和指导思想。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词： 连续技术；工业生产；蛋白纯化；层析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号 Q819",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Development of Downstream Continuous Purification Technology of RecombinantProtein ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAO WeilLI Jing-da²LIU Qing-ping1.\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Key Laboratory of Lipid Metabolism inLiaoning Province，College ofLife Science and Technology，Dalian ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "University，Dalian 116622) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Purification of recombinant proteins has always been a bottleneck limiting its production. The traditional purification process is mostly batch based mode,which has the problems of high cost， low processing efficiency and low recovery. Recently，with the development and application of continuous centrifugation， filtration, chromatography， and technologies,they have effectively overcome the defects of traditional processes. In this paper, we are based on downstream purification processes，and conducted a summary analysis of the characteristics and applications of the continuous technology related to the large-scale industrial purification process. Finally, the core technology in the purification process - chromatography,and the prospects for the future technology of recombinant proteins purification are prospected, It is aimed at providing new theoretical evidences and guidance for optimization of biopharmaceutical production process. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: continuoustechnology; industrialproduction;protein purification; chromatography ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着生物技术和发酵工程的快速发展，越来越多的重组蛋白质被开发和应用，截至2012年3月22日，TargetDB数据库记载约有202,005 种基因被成功克隆，其中有128,852个已成功表达，47,784个成功纯化[1]。目前，重组蛋白质的主要获取方式是利用细菌、真菌和动物细胞表达系统发酵生产[2]，该过程可分为上游表达，下游纯化两个阶段[3]。通过发酵工艺生产蛋白质，其下游纯化常面临产物体积过大、杂质种类多、离子浓度高等问题[4-5]。传统的批次模式纯化工艺需要使用大型设备，消耗大量的介质和缓冲液，成本较高[。连续离心、过滤、层析等技术的开发实现了生物制品生产的上下游集成，降低了生产成本，提高了生产效率[7]。本文以工业规模的蛋白质下游纯化工艺为基础，总结了工艺中常用的连续技术的特点及应用，并对层析技术及未来蛋白质纯化技术进行了展望，旨在为重组蛋白质生产工艺的优化及相关领域的研究提供参考和理论基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 重组蛋白的初级回收工艺",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1连续离心和连续过滤技术在重组蛋白质初级回收工艺中的应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "产物初级回收是纯化工艺的第一步，目的是对产物浓缩和色谱前处理，主要涉及离心和过滤技术。传统的工业生产中所使用的离心机体型庞大且多以批次模式运行存在诸多缺陷，首先是设备制造及运行成本较高，而且它们所能达到的转速有限，无法达到现代纯化工艺对高分辨率纯化的要求，其次是批次模式导致产物回收率和处理效率较低[8]。如何降低成本提高处理效率及回收率是离心技术发展的关键。膜堵塞和膜污染一直是限制过滤技术发展的关键因素，但连续过滤技术和一些如硅藻土，多孔助滤剂和离子带电树脂粘合剂等助滤剂的开发有效改善了膜过滤技术的缺陷[9-10]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.1连续离心技术 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "管式离心机和碟式离心机是近几年新开发的连续离心设备，管式离心机结构简单、离心力大、可达到较大转速，具有较高分辨率，在运行时，物料从底端进入管内，轻相从顶端排出，重相从管壁的出口排出实现连续分离。碟式离心机又称分离板式离心机，在运行时，物料从中心口进入，由转子底部的液孔进入分离板外径时进入分离板间隙，离心力将重相沉降并从底部喷口出喷出，轻相从转子上部排出，实现连续分离。对比以上两种离心机，管式离心机设备成本较低，分辨率高，但沉降面积小，处理效率相对较低，而碟式离心机的离心转子上有许多等间隔的碟形分离板，可增大沉降面积，提高处理效率，但是其结构复杂分辨率",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "较低。",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 连续过滤技术",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如上所述，连续离心机的开发有效兑服了传统批次离心机的缺陷，但是对于工业生产的使用人们还是偏向于使用连续过滤技术，对比连续离心技术，连续过滤技术的在线过程控制和连续处理能力要普遍优于离心机。目前工业生产中使用较为广泛的连续过滤技术有：基于旋转过滤技术开发的内部自旋过滤（Intermalspin filter，ISF）器，它由两个同心圆筒组成，利用被滤膜覆盖的内筒旋转提供向心力来实现连续的分离回收[1]。Pollock 等人[12]将 ISF 与 $1 0 0 0 \\mathrm { L }$ 和 $2 0 0 0 \\mathrm { L }$ 规模的动物细胞培养生物反应器集成，实现了低成本，高回收率的连续生产；但它也有操作条件不稳定，高剪切力,处理效率低等缺点[13]；切向流过滤（Tangentialflow filtration，TFF）是一种单次泵通模式运行过滤系统，生物反应器内容物通过流动泵连续加载到TFF装置，部分渗余物直接返回生物反应器用于后续处理。该系统具有设置难度低,产物变性和被污染风险小等优点，但其系统剪切力较高，因此 TFF常用于色谱前处理，如对酵母、大肠杆菌等稳定性较高的发酵产物的初级浓缩[14]；交替切向流过滤（Altermating tangential flow filtration，AFT）是利用中空纤维膜，以交替循环模式对细胞和细胞分泌物进行外部连续分离回收的膜过滤技术。ATF系统中液体的流动由隔膜泵来驱动，然后利用压力、排气循环和连接到滤液出口的滚动泵抽出滤液实现固液分离，不但消除了TFF系统中由蠕动泵引起的细胞损伤，还降低了纤维膜堵塞的风险[15]。且该系统可以一直连续运行数周，是灌注生物反应器最理想的集成[16]。Bosco 等人[17]对比了ISF 和ATF与 $2 5 \\mathrm { L }$ 生物反应器集成的生产情况，结果显示，使用ATF系统的反应器能获得更高的细胞密度，且灌注速率是ISF 系统的两倍，产物总体积比ISF 系统高出",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$50 \\text{‰}$ ；但缺点是设备成本较高,操作条件苛刻，普遍推广存在一定挑战。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "无论是离心还是过滤技术都只是单纯的分离技术，Femmer等人[18]开发了原位膜搅拌分离器，该反应器能在不同搅拌速度和通气条件下与生物反应器集成，在其内部同时进行生产和分离，这种模式下微生物的生长环境较为稳定，对保护产物活性及宿主表达非常有利，从而极大的提高了产品的生产率和质量，这种生产方式展现出了巨大的前景，随着其发展或许有望代替目前传统的重组蛋白质生产技术。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除以上方法外，如磁分离[19]，声学系统分离[20]等已相继被报道过，虽然效果不太理想，但为开辟新的技术奠定了基础。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2 包涵体处理的优化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在工业生产中对包涵体处理是比较常见的，这类错误折叠的不溶性聚集体在功能上是无活性的，需要完全溶解后进行正确的重折叠使其恢复生物活性[21]。包涵体的处理过程不但成本较高而且对产物活性影响较大，因此优化包涵体的处理对降低生物制品的生产成本极为关键。对包涵体的优化可从上游生产和下游纯化两方面出发，上游优化主要是构建融合蛋白表达，特别是聚合肽类标签的开发，如类弹性蛋白多肽（Elastin-like peptides,ELPs）、淀粉结合域（Starch-bindingdomain SBD）、FATT(Flag-Acidic-Target Tag，FATT)等，它们可与靶蛋白或肽融合，诱导其形成活性聚集体（在表达期间或之后)，通过简单的初级回收后，利用内含肽自切割或多肽标签相变可逆的性质将靶蛋白或肽释放，无需色谱柱处理，只需简单的离心回收便可获得纯度 $( > 9 0 \\%$ ）的目的蛋白[22\\~23]。虽然，基于这些标签的纯化策略达不到像传统柱层析那样的产品纯度和回收率，但它们可减少包涵体处理步骤及后续的色谱柱操作，极大的降低生产成本[24]；下游优化可从细胞破碎出发，现在工业生产中被广泛使用的细胞破碎方法为高压均质化破碎法，它的破碎动力由气蚀、高压降、排出阀冲击力组成，这种混合动力可极大提高破碎率，降低对蛋白质活性影响[25]；其次，传统的包涵体溶解方法是用尿素或者盐酸胍等增溶剂溶解，但这些强增溶剂容易降低蛋白活性和回收率，并造成环境污染。目前，高pH缓冲液，洗涤剂，正丙醇，三氟乙醇等温和增溶剂被开发，有效改善了传统增溶剂的缺陷[26]。XingmeiQi等人[27]报道了冷冻-融解的纯物理方法溶解包涵体，该方法可避免环境污染且无杂质引入，减少了后续除杂步骤，但其可能使蛋白质降解；经典稀释法是工业生产中常用的包涵体重折叠法，该方法能将溶液稀释到很高的稀释度，但需要大批量大型重折叠容器长时间混合，因此成本较高、操作灵活性低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "近几年，研究者们开发了如流式填充柱反应器，分隔盘的膜管反应器，连续矩阵辅助重折叠器等一系列蛋白质重折叠反应器，一定程度改善了经典折叠法的一些缺陷，但这些反应器都只是针对一个工艺步骤进行优化[28]。对此，Siqi Pan等人[29]开发了一种连续管式反应系统，如图1示它将溶解、重折叠、标签去除几个步骤整合到一个管式反应器中。相比分批处理，该系统的生产率（ $\\mathrm { m g / l / h }$ 和mg/h）分别是它的2倍和1.5倍,而且该工艺可连续稳定工作20 小时以上，是较为理想的包涵体处理技术。但目前该系统步骤之间衔接，在线过程控制及检测还面临诸多挑战。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/408c6ddccc336a8fb77dd95992218138fe84ece0ee0043bd6fcfa7f177385769.jpg",
+        "img_caption": [
+            "图1：连续重折叠系统示意图",
+            "Figure 1: Schematic of continuous refolding system "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2 色谱法在产物捕获及精纯工艺中的应用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "蛋白产物完成初级回收后，需要进一步捕获和精纯。捕获是一个捕获靶分子并系统的去除杂质的粗提过程，精纯是基于捕获过程进一步捕获靶分子并去除特定的如DNA，内毒素，可溶性聚集体和/或电荷变体等杂质的精纯过程。如对产物纯度要求较高往往需要将捕获和精纯联用，例如，使用蛋白A柱层析来纯化单克隆抗体（monoclonalantibody，mAb）后需要再一次精纯去除浸出的蛋白A（假定蛋白A用于初始捕获）[30]。柱层析仍然是生物制品捕获和精纯的主要方法，但在实际生产中使用传统层析会面临两个问题:(1)系统缺陷：常规柱层析以批次模式运行，缓冲液和介质的利用率低。其次，受柱压影响，层析柱体积无法扩大，蛋白类产物易失活且处理效率及回收率低；（2）生产体系缺陷：通常蛋白类分子的生产都会伴随多种杂质出现，其中一些杂质与靶分子具有相似的吸附性质，在过柱分离容易与产物相互重叠，造成产物的纯度和产量相互制约，增加纯化难度和成本[lo]。对此，人们开发了如连续环状层析（Continuous annularchromatography，CAC)，径向流层析（Radial flow chromatography，RFC)，膨胀床吸附层析（Expansion bed adsorption chromatography，EBA），多层逆流溶剂梯度层析（Multi-layer countercurrent solvent gradient chromatography，MSCGP），周期性逆流动层析（Periodic counter-current chromatography，PCC）、连续逆流切向层析（Continuous countercurrent tangential chromatography，CCTC）、模拟移动床层析（Simulated moving bed,SMB)等连续多柱层析来克服传统层析的缺陷 [31]。接下来将对PCC、CCTC、SMB系统进行详细阐述。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.1 周期性逆流动层析 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PCC是由GEHealthcare开发，用来连续捕获蛋白质的方法。如图2a所示为3柱PCC，所有的吸附柱串联连接形成吸附列。物料从第一列开始加载，当第一列饱和时，所有列根据流向切换其位置，物料加载位置变为第二列，然后对第一列单独进行洗涤，洗脱，再生和平衡操作（洗脱液连续加载到第三列，进一步捕获第一列未结合的目的蛋白)，平衡后的第一列通过位置切换变成第三列，整个过程以此方式循环运行[13]。与常规（单柱）层析相比，PCC 的树脂容量和利用率更高但缓冲液的消耗更低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于其工作原理，PCC系统的设计必须确保蛋白质加载时间大于或等于第一列洗脱和再生的时间。因此，在PCC系统中具有最小加载柱数[32]:",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN { \\geq } 1 + \\frac { \\mathrm { t _ { r e c o v e r y } } } { \\mathrm { t _ { R } } } ~ ( \\mathrm { \\frac { c } { q } ~ } ) ~\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其中C 是进料中的产物浓度， $\\mathsf { q }$ 是树脂的结合能力，trecovery是单柱回收和再生所需的时间，tR是产品结合所需的停留时间。Mahajan等人[33]开发了3柱周期性逆流层析（Three columns periodic counter-current chromatography，3C-PCC）工艺，对比常规蛋白A批次处理，PCC系统的处理效率提高了 $60 \\%$ ，缓冲液和介质消耗量降低了 $60 \\%$ 。其次，GirardV[34]等人将PCC系统与批次处理对比发现在相同条件下PCC系统最高可降低 $7 5 \\%$ 的介质消耗，这也意味着缓冲液消耗也减少，有效降低了工艺成本。基于其原理PCC多柱层析常应用于mAb 的初始捕获，当使用PCC处理高滴度产品时，其捕获柱的加载时间会急剧缩短，需要大量的色谱柱进行回收和再生[35]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "这些多柱系统能以延长处理时间来提供连续分离，但整个过程是周期性的，并不能提供真正的稳态运行。特别是，洗脱产物的浓度在整个过程中循环变化，随着最终产物被洗脱，从洗脱开始时的高浓度降至最终的极低浓度，这对于在线流程控制非常困难，并且还可能增加后续处理的难度[36]。此外，在这些系统中产物的结合和停留时间较长，这可能导致蛋白质变性和/或聚集而对产品质量造成负面影响。因此，这类多柱层析要普遍应用于工业生产仍需要进一步优化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2 连续逆流切向层析 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "连续逆流切向层析系统由Chromatan公司开发，如图2b所示（3列CCTC体系)，层析柱由多个独立模块代替，每个独立模块由一个或多个阶段组成，每个阶段包括相互连接的切向流过滤器和静态混合器，静态混合器控制物料停留时间，中空纤维膜保留大的树脂颗粒，同时让所有溶解的物质，包括蛋白质和缓冲剂组分通过膜进入渗透物。系统运行时物料与浆液形式的色谱树脂混合，按一定顺序通过每个模块，每个模块对树脂进行类似的操作（结合，洗涤，洗脱，再生和平衡)。在结合，洗涤，洗脱和再生步骤中使用的缓冲液在每个步骤内以多级配置与树脂浆液逆向流动，实现高回收率和高纯度回收，同时降低缓冲液消耗[37]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于其工作原理CCTC 的除杂率和产物收率由渗透物（ $\\cdot \\mathbf { q } _ { \\mathrm { p } }$ ）与进料（qF）流量的比率，中空纤维模块中的转化率以及洗涤和洗脱步骤中的阶段数决定。预测，产品收率如下[38]:",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN = \\frac { \\mathrm { a } ( \\mathrm { a } ^ { \\mathrm { N } } - 1 ) } { \\mathrm { a } ^ { \\mathrm { N } + 1 } - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha = \\frac { ( { } ^ { \\mathrm { q _ { P } } } / \\mathrm { q _ { F } } ) } { 1 - \\phi ( 1 - \\epsilon ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\varphi$ 是浆料中固体（树脂）的体积分数， $\\epsilon$ 是树脂颗粒中的空隙体积。对于 $\\alpha$ 产品收率从1阶段洗脱的 $7 5 \\%$ 增加到2阶段的 $92 \\%$ ，到3阶段的产率从 $98 \\%$ 。增加阶段的数量可减少洗涤和洗脱步骤中的缓冲液消耗。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "之前CCTC应用限于从澄清的细胞培养物中初始捕获单克隆抗体（mAb)，利用CCTC从CCF（Cell culture fluid，CCF）中初步捕获mAb 其生产率高达75 g/L树脂/小时，是批次色谱柱的 $5 { \\sim } 1 0$ 倍[39]。但最新研究发现，DuttaAK 等人[40]利用CCTC系统对蛋白A操作后的抗体进行精纯，将CCTC用于捕获后抗体纯化步骤。在蛋白质A操作之后，使用具有两种不同粒度的混合模式阳离子交换－疏水作用层析树脂来减少宿主细胞蛋白质(HCP),浸出的蛋白质A,DNA和来自mAb 流的聚集体。最终结果显示其生产率高达 $1 0 1 \\mathrm { ~ g ~ / ~ L ~ }$ 树脂/小时，比批次处理高了10 倍，随后他们在（pH4\\~4.5）内对洗脱 $\\mathsf { p H }$ 进行优化，使产量增加了5%。最后还将实验结果进行了放大设计，预测了 $5 0 0 \\mathrm { { L } }$ 和 $2 , 0 0 0 \\mathrm { L }$ 批次的简洁型CCTC 流动路径。DuttaAK等人[41还利用CCTC成功从澄清的细胞培养液中初始捕获和纯化了两种单克隆抗体，其产品质量与用填充柱蛋白A层析法得到的相似，滴度分别为（ $\\geqslant 0 . 6 7 \\mathrm { g } / \\mathrm { L }$ ）和（ $\\mathopen { } \\mathclose \\bgroup \\left( \\leq 6 . 9 \\mathrm { g } / \\mathrm { L } \\aftergroup \\egroup \\right)$ ：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对比PCC系统CCTC是真正的连续处理，无需在系统启动后切换任何阀门，同时减少了对填充柱的装柱，清洁，验证和存储等步骤。在整个处理过程中洗脱产物的浓度保持恒定 （ $\\mathopen { } \\mathclose \\bgroup \\left. \\leq 0 . 1 \\mathrm { g } / \\mathrm { L } \\aftergroup \\egroup \\right.$ )，而且操作压力低于35kPa，因此可以使用具有低交联密度的 $1 0 \\mathrm { m m }$ 小粒径树脂，利用这些小颗粒的快速传质速率提高整体生产率。CCTC系统提供了稳定运行的，但是目前该系统存在系统设置复杂，设备成本高，动力学和热力学关系复杂等缺陷限制了该系统的广泛使用。而且该模式对于混合模式树脂的应用存在一定局限性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3 模拟移动床层析 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SMB系统是利用差示色谱来连续（循环）分离二元混合物，SMB系统使用多个填充柱，以模拟逆流（但没有固相运动）的方式定期切换进料、流动相、回收端口，以此来增加两相之间的传质推动力[42]。如图2c所示为典型的4列配置，系统运行时，物料（产品和杂质的二元混合物）被加载到右上角的第1列。两种组分都随着柱子迁移，然后从柱子出口处的端口开始回收结合力较弱的物质（此时为产品)，与此同时，在第2列和第3列之间可添加额外的流动相，从第3列中回收结合力较强的成分。随着大部分产物随第1列迁移，进料位置，流动相位和回收端口顺时针旋转（与流动方向相同）以此来模拟固相的逆流运动，这种运行模式可极大的降低缓冲液的消耗，同时增加树脂的利用率，有效降低工艺成本。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SMB 技术是在20世纪50年代后期开发的主要用于蛋白质脱盐，病毒纯化，核苷纯化和融合蛋白重折叠[43]。工业上主要用于石化和制糖行业的大规模分离。目前，它还被应用于制药工业中手性药物及其对映体的分离[44]。Martinez 等人[45]利用以亲和层析为基础的SMB系统对单链抗体可变区片段（scFv）进行纯化，结果显示相比批次处理SMB的产量提高了 $9 \\%$ ，生产率提高了11倍。为了提高系统处理效率及回收率，在操作过程可将部分产物重新混入进料进行回填操作[46]。GSW Jr等人[47]设计了一种快速驻波用来优化其操作参数（流量和端口切换时间)，使其过程性能（如解吸剂使用量和产量）保持最佳状态。SMB为多柱串联模式对二元以上的混合物具有较好的分离效果，但其串联模式使得产物的纯度和回收率之间容易形成制衡，其次，柱与柱之间的条件容易相互影响增加对分离难度。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4aa70f1313a0bd6c9612d84ebb241c6e4dfb5469117e68fc0d126cb02865a7a.jpg",
+        "img_caption": [
+            "图2：连续色谱工作流程图[9]",
+            "Figure 2: Flow chart of continuous chromatography "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上，连续多柱层析具有诸多优势，在许多行业中将批处理转化为连续处理已经取得成功，但其在生物制剂生产中的应用目前相对慎重[48]。主要原因是从批量生产转向连续生产过程中的监管要求的不确定性导致。其次，对比批次处理，从经济角度来看连续处理的优势明显，它能在更短的加工时间内提高生产率，同时降低总成本，减少设备占地面积并保证产品质量。但是，连续处理的操作和过程控制复杂，而且连续系统的初始设备成本及维护成本较高，普遍适用性较低，通常只针对特定的产物有较好分离纯化效果。因此连续技术的广泛应用仍面临巨",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "大挑战。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3 展望 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "连续技术可有效降低生物制品的下游纯化成本，提高生产效率。未来想进一步降低生物药物的开发成本，可在连续模式的基础上对下游纯化工艺中的核心技术\"层析\"进一步优化或者开发新型技术。对层析法的优化，人们可利用组合化学和噬菌体展示技术开发廉价及稳定性高的介质配体；或者基于大分子水凝胶技术开发具有内部配体附着的可利用靶分子的多种性质来摄取靶分子的混合介质；其次可利用廉价的纳米纤维和复合材料来代替树脂进行蛋白质纯化[49];或者用磁性颗粒来替代亲和基质进行吸附。目前，高性能切向流过滤（High-performancetangentialflowfiltration，HPTFF）和膜层析技术在分离纯化方面展现出了巨大的潜力，尽管膜色谱还无法像传统的基于树脂的色谱方法一样竞争性的结合小分子溶质，但未来人们可以设想，把蛋白质A模拟物或其他靶蛋白的亲和配体偶联到膜上实现单步精分。还可假设，通过改进膜的流动特性来特异性分离靶蛋白，若实现这些改变，将提高膜色谱的性能并获得更高的蛋白质纯化效价，促进重组蛋白质生产行业的发展[50]。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] Walsh G. Biopharmaceutical benchmarks 2010.[J].Nature Biotechnology,2014,32(10):992-998.   \n[2] Legastelois I,Buffin S,PeubezI,etal.Non-conventional expression systems for the productionof vacineproteinsand immunotherapeutic molecules[J].Hum Vaccin Immunother,2016,13(4):947-961.   \n[3] Gronemeyer P,DitzR,Strube J.Trends in UpstreamandDownstreamProcessDevelopment forAntibodyManufacturing[J]. Bioengineering,2014,1(4):188-212.   \n[4] 崔超，呼延霆，尹大川．重组标签蛋白在蛋白质纯化中的研究进展[J]．现代生物医学进展,2014,14(32):6372-6378. CUICao，HUYan-Ting，YNGDa-Chuan.Research progressofrecombinanttagged proteins inprotein purification[J].Progres in Modern Biomedicine,2014,14(32):6372-6378.   \n[5] KosobokovaEN,Skrypnik KA,KosorukovVS.Overviewoffusiontags forrecombinant proteins[J].Biochemistry,2016, 81(3):187-200.   \n[6] Fields C,LiP,OMahonyJJ,etal.Advances inafinityligand-functionalizednanomaterials foriomagneticseparatio[J]. Biotechnology& Bioengineering,2016,113(1):11-25.   \n[7] RathoreAS,Agarwal H,SharmaAK,etal.Continuous processing forproductionofbiopharmaceuticals[J].Preparative Biochemistry & Biotechnology,2015,45(8):836-849.   \n[8] RathoreASKapoorG.Applicatioofprocessanalytical technologyfordownstreampurificatioofotherapeutics[J].Joualof Chemical Technology & Biotechnology,2015,90(2):228-236.   \n[9] ZydneyAL.Continuous downstream processing for high value biological products:AReview[J]. Biotechnology&   \n[10]BuyelJF,GruchowHM,FischerR.DepthFilters ContainingDiatomiteAchieveMoreEficientParticleRetentionthanFilters Solely Containing Celllose Fibers[J]. Frontiers in Plant Science,2015,6:1134-1139.   \n[11]FigueredocarderoA,MartinezE,ChicoE,etal.Rotatingcylindricalfiltersusedinperfusioncultures: CFDsimulatiosnd experiments.[J].Biotechnology Progress,2015,30(5):1093-1102.   \n[12]PollockJHoSVaridS.Fed-batchdprfusionltureprocesss:ooic,ometal,adpatioalsibit under uncertainty.[J].Biotechnology & Bioengineering,2013,110(1):206-219.   \n[13]ValleCreauFFrseeraLGabeRetaAn-edforhductiooligofsflal cell perfusion cultures[J]. Journal of Biotechnology,2007,130(3):265-273.   \n[14]ClinckeMF,MollerydC,ZhangY,etal. VeryHighDensityofCHOCellsinPerfusionbyATForTFFin WAVEBioreactor Part I.Effect of the Cell Density on the Process[J].Biotechnology Progress,2013,29(3):754-767.   \n[15]KellyW,ScullyJ,ZhangDetalUnderstandingandmodelingalteatingtangentialflowfiltrationfoperfusionclure[J]. Biotechnology Progress,2014,30(6):1291-1300.   \n[16]KellyW,ScullyJ,ZhangD,etal.Understandingandmodelingalteatingtangentialflowfiltrationfrperfusioncellure[J] Biotechnology Progress,2014,30(6):1291-1300.   \n[17]BoscoM,iletCuroLetal.leatigflowratiosleativetintealspiflerbsedpefusiss: Impact on productivity and product quality[J]. Biotechnology Progress,2017,33(4):1010-1014.   \n[18]FemmerT,Carstensen F,WessingM.Amembrane stirerforproduct recoveryandsubstrate feeing.[J]. Biotechnology& Bioengineering,2015,112(2):331-338.   \n[19]Ferandes CSDos SROttengyS,etal.AfitinsforprotinpuriicationbafitymagneticfisingJ].Joualof Chromatography A,2016,1457(Jul 29):50-58.   \n[20]KilburnDG,ClarkeDJ,CoakleyWT,etal.Enhancedsedimentationofmammaliancelsfollowingacousticagati[J]. Biotechnology& Bioengineering,1989,34(4):559-562.   \n[21]WingfieldPT,PalmerI,LiangSM.Foldingand Purificationof Insoluble(InclusionBody)Proteins fromEscherichiacoli[M]. Current Protocols in Protein Science.John Wiley& Sons,Inc.2014:6（5） :1-30.   \n[22]Lei X,Wei W,ZhouB,etal.Streaminedproteinexpresioandpurificationusingclevableself-aggegatingtags[J].icobal Cell Factories,10,1(2011-06-02),2011,10(1):10-42.   \n[23]Lin Z,ZhaoQ,XingL,etal.Aggregating tags forcolumn-free proteinpurification[J].BiotechnologyJoural,215, 10(12):1877-1886.   \n[24]YadavDK,YadavN,YadavS,etal.Anisightintofusiontechnologyadingeicientrecombinantproteinprouctionfor functional proteomics.[J].Archives of Biochemistry & Biophysics,2016,612:57-77.   \n[25]Spelateel,donKelatiooogallctiaoatealisios)roctealels.Jol Cell Factories,2010,9(1):1-16.   \n[26]VaibhavU,AnupamS,DivyaJ,etal.Recoveryofbioactiveproteinfrombacterial inclusionbodiesusing trifluoroethaolas solubilizationagent:[J].Microbial Cell Factories,2016,15(1):100-106.   \n[27]QiX,SunYXiongS.Asinglefree-thawigcleforighlyficentsobilizatiooficlusionbdprotesanditsoing into bioactive form[J].MicrobialCellFactories,2015,14(1):24-29   \n[28]EggeneichB,WilliM,WurDJ,etal.Productiostrategiesforctivehme-ontainingperoxidasesfroE.cousion bodies -a review:[J]. Biotechnology Reports,2016,10(C):75-83.   \n[29]PanS,elgrJgberAetategaedtiuusoutiooingdgolofusproisfroio bodies in atubular reactor.[J].Journal of Biotechnology,2014,185:39-50.   \n[30]KelleyB.IndustrializationofAbproductiontechnology:the bioprocessng industryatacrosroads.[J].Mabs,009, 1(5):443-452.   \n[31]GhoshP,VahedipourK,LinM,etal.ZonalRateModelforAxialandRadialFlowMembraneChromatography.PartI:Knowledge TransferAcross Operating Conditions and Scales[J].Biotechnology & Bioengineering,2013,110(4):1129-1141.   \n[32]GodaatR,rowerK,JainS,etal.Periodicounter-currentchromatography--dsigandoperatialconsideratiosfor integrated and continuous purification of proteins.[J]. Biotechnology Journal,2012,7(12):1496-1508.   \n[33]SteinebachF,Mullr-SpathT,MorbidelliM.Continuouscounter-currnt chromatographforcaptureandpolishingsteps in biopharmaceutical production[J].Biotechnology Journal,2016,11(9):1126-1141.   \n[34]Girard V, Hilbold NJ, $\\operatorname { N g } \\mathbf { C } \\operatorname { K }$ etalLargealemoloalnibdypurifationbontiosomatogaphyfrorss design to scale-up[J].Journal ofBiotechnology,2015,213(10):65-73   \n[35]Angarita M,Muler-SpathT,BaurD,etal.Twin-column CaptureSMB:anovelcyclic processforproteinAafinit chromatography[J].Journal of ChromatographyA,2015,1389:85-95.   \n[36]MahajanE,GeorgeA,WolkB.Improingaiityromatogaphyesinefciencyusingse-tiuouscromatoghJ]. Journal of Chromatography A,2012,1227(5):154-162.   \n[37]DutaAKTanJ,apdenskyB,etal.Perfacetizationoontiosoutercenttagentialhomatgafor antibody capture[J].Biotechnology Progress,2016,32(2):430-439.   \n[38]ShinkazhOKananiD,Barth,etal.Countercurenttangentialchromatogaphforlarge-saleproteinpuriatiJ]. Biotechnology & Bioengineering,2011,108(3):582.   \n[39]DutaAK,TranT,NapadenskB,etal.PurificationofmonoclonalantibodiesfroclarifiedcellulturefuidusingoteinA capture continuous countercurrent tangentialchromatography[J]. JournalofBiotechnology,2015,213:54-64.   \n[40]DutaAK,FedorenkD,TaJ,etal.Continuouscountercurrnttangentialchomatographyforixedmodepostaptre operations in monoclonal antibody purification.[J]. Journal of Chromatography A,2o17.1511:37-44.   \n[41]DutaAK,TranT,apadenskyB,etal.PurificationofmonoclonalantibodiesfomclarifdcellculturefuidusingroteA capture ontinuous countercurrent tangential chromatography[J].Journal of Biotechnology,2015,213:54-64.   \n[42]RajendranA,Paredes G,MazzotiM.Simulated movingbedchromatographyfortheseparationof enantiomers.[J].Jouralof Chromatography A,2009,1216(4):709.   \n[43]Mun S,WangNL.Improvementofthe performancesofatandemsimulatedmoving bedchromatographybycontrolingthe yield levelofa key productofthe firstsimulated movingbedunit.[J].JournalofChromatographyA,2017,1488:104-112.   \n[44]RajendranA,Paredes G,MazotiM.Simulated movingbedchromatographyfortheseparationofenantiomers[J].Joualof Chromatography A,2009,1216(4):709.   \n[45]Martinez Cristancho CA,Seidel-Morgenstern A.Purificationofsingle-chainantibody fragments exploiting pH-gradients in simulated moving hed chromatnoranhv[Il Inurnal nf Chromatnoranhv A 2016 1434(fah19):29-38 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

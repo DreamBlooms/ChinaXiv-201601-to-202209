@@ -1,0 +1,128 @@
+# 机器人胰腺手术1010例经验与教训
+
+刘荣,赵国栋,唐文博,张柯迪,赵之明,高元兴,胡明根,李成刚,谭向龙,张 煊中国人民解放军总医肝胆外二科，北京100853
+
+摘要：目的 通过单一手术团队大样本量机器人胰腺手术(RPS)深人论证手术安全性、可行性及优越性。方法 2011年11月 $\sim$ 2017年9月解放军总医院刘荣手术团队共完成1010例RPS,前瞻性收集、回顾性分析相关临床资料。手术主要采用第三代达芬奇机器人手术系统完成。结果全组手术中机器人胰十二指肠切除术417例、远端胰腺切除术428例、中段胰腺切除60例、胰腺肿瘤剜除术53例、Applyby3例、其他手术49例（包括创新性机器人后腹腔镜4例,肿瘤剜除联合主胰管架桥修复4例、单孔机器人胰腺肿瘤剜除术1例和中段胰腺切除联合端端对吻胰腺重建术2例)。中位手术时间 $2 1 0 \operatorname* { m i n } ( 3 0 { \sim } 7 2 0 \operatorname* { m i n } )$ ，中位术中出血量$8 0 ~ \mathrm { m L } ( 1 0 { \sim } 2 0 0 0 ~ \mathrm { m L } )$ ，中转率 $4 . 0 6 \% ( 4 1 / 1 0 1 0 )$ ，输血率 $6 . 7 \% ( 6 8 / 1 0 1 0 )$ ,术后住院时间 $1 0 . 8 7 { \scriptstyle \pm 6 . 7 0 \mathrm { ~ d ~ } }$ ,Clavien-Dindo IⅢ级以上并发症发生率 $8 . 0 \% ( 8 1 / 1 0 1 0 )$ 、B级以上胰瘘发生率 $9 . 2 1 \% \left( 9 3 / 1 0 1 0 \right) , 3 0 \mathrm { ~ d ~ }$ 死亡率 $0 . 6 9 \% ( 7 / 1 0 1 0 ) \hphantom { . } 9 0 \mathrm { ~ d }$ 死亡率 $1 . 3 1 \% ( 1 2 / 9 3 4 )$ 。RPS比例由2012年 $10 . 4 4 \%$ 升至2017年 $72 . 0 6 \%$ 。结论本研究为目前全球最大宗RPS病例组报道，临床实践表明随着经验的积累和方法的优化，RPS能够得以发展快速，并逐渐取代开腹和腹腔镜手术,成为胰腺手术首选术式。经过学习曲线后,包括胰十二指肠切除术、Appleby在内的所有RPS安全、可行，早期开展RPS时应借鉴成熟经验以减少并发症发生。
+
+关键词：机器人手术；微创手术；胰腺；远端胰腺切除；胰十二指肠切除术
+
+# A single-team experience with robotic pancreatic surgery in 1010 cases
+
+LIU Rong，ZHAO Guodong，TANG Wenbo,ZHANGKedi，ZHAO Zhiming，GAO Yuanxing，HU Minggen,LIChengang，TAN   
+Xianglong,ZHANGXuan   
+Second DepartmentofHepatobiliary Surgery, General Hospital ofPLA,Beijing100853,China
+
+Abstract:Objective To asessthe safetyand advantages of robotic pancreaticsurgery (RPS)based on the single-team experiencewith1010cases.Methods Theclinical dataof1010cases of RPS performed byasingle teamfrom November,2011 to September,2O17inourhospitalwerecolected prospectivelyandanalyzed.Inmostofcases thesurgeries were performed usingthethird-generationda Vinciroboticsurgicalsystem.ResultsThe1010casesreceivingRPS included417casesofrobotic pancreatoduoenectoy(D)48esofboticdistalcreatectoy60sesofoboticntalcreatectos of robotic pancreatic tumor enucleation,3casesof Applebyprocedure,and 49 cases of other operations(including 4cases of inovativeroboticretroperitoneallaparoscopicsurgery4casesofroboticpancreatic tumor enucleationcombined withmain pancreaticductbridging repair,1caseofsingle incisionroboticpancreatictumor enucleation,and2cases ofroboticcentral pancreatectomy combined with end-to-end anastomosis reconstruction). The median operative time was $2 1 0 \mathrm { m i n }$ (30-720 min) with a median intraoperative blood loss of $8 0 ~ \mathrm { m L }$ 0 $\mathrm { \cdot 1 0 - 2 0 0 0 ~ m L }$ ),aconversionrateof $4 . 0 6 \%$ (41/1010), a blood transfusion rate of $6 . 7 \%$ (68/1010), a mean post-operative stay of $1 0 . 8 7 \pm 6 . 7 0$ days，a complication rate (beyond grade II according to Clavien-Dindo scoring system) of $8 . 0 \%$ (81/1010), and a pancreatic fistula rate (beyond) grade B of $9 . 2 1 \%$ (93/1010). The mortality rate of the patients was $0 . 6 9 \%$ (7/1010) in 30 days and $1 . 3 1 \%$ (12//934) in 90 days. The application of RPS in total pancreatectomy increased steadily from the rate of $1 0 . 4 4 \%$ in 2012 to $7 2 . 0 6 \%$ in 2017. Conclusion This represents to our knowledge the world largest series of robotic pancreatic resections.RPS is expected to graduall replace open procedure and laparoscopicprocedure tobecometheprimarychoiceofapproachforpancreatectomy.Afterthelearing curve,RPSprocedure including distal pancreatectomy，robotic Appleby procedure and other operationscan be safely performed,and the experiences from other centers can be beneficial to reduce severe complications in the early stage of learning.
+
+Keywords: robotic surgery; minimall invasive surgery; pancreas; distal pancreatectomy; pancreaticoduodenectomy
+
+21世纪是微创外科的世纪，其中腹腔镜和机器人手术是微创外科最主要的内容，然而腹腔镜手术固有缺陷限制了其在精细操作和复杂重建手术中的应用，当涉及血管重建时更需要极为高超的手术技巧和熟练默契的手术团队才能完成[1-3]。机器人手术系统的出现部分克服腹腔镜手术缺点，它具有精细稳定的操作、自动过滤手的颤抖、7个自由度操作手臂和3D高清稳定放大和眼手协同的手术视野等优势[,46。这些优势使得机器人在操作精细、空间狭小、重建复杂和涉及血管操作的手术中优势凸显，部分术式已成“金标准"术式，例如前列腺癌根治、子宫切除术[8等，机器人手术正在逐渐取代腹腔镜手术成为腹部外科未来的主流手术方式。
+
+胰腺位置深，周围毗邻复杂，紧贴大血管，恶性肿瘤易周围浸润，术中需精细解剖、复杂而牢靠的消化道重建和必备的血管修复技术，机器人下操作有优势，但较长的学习曲线和较高的手术风险制约了机器人胰腺手术(RPS)的推广应用，参考Zureikat提出的80例机器人胰十二指肠切除术(RPD)和40例机器人远端胰腺切除术(RDP)["的学习曲线标准，绝大多数单位仍在开展早期,未过学习曲线,临床实践中存在较高的并发症和一定的死亡率。2013年10月匹兹堡医学中心的Zureikat[曾在《Annalsof Surgery》发表过250 例RPS病例组报道,研究结果初步证实RPS的安全性和可行性，但由于分术式讨论过程中各组样本量有限，临床数据多来自学习曲线内病例,机器人手术的优越性体现欠明显。笔者现通过单一手术团队1010例手术，也是迄今为止全球最大宗RPS病例组报道，介绍中国医疗条件下RPS开展情况，总结经验和教训,进一步论证手术安全性、可行性及其优越性。
+
+# 1资料和方法
+
+全部病例共1010例，均来自于中国人民解放军总医院刘荣手术团队，常规术者1人，床旁助手1人，器械护士1\~2人。病例资料前瞻性收集，回顾性总结分析。所有患者术前签署知情同意书。其中2011年11月\~2015年2月间使用第2代达芬奇机器人手术系统S型号，1个手术日/周，2015年2月\~2017年9月间主要采用第3代达芬奇机器人手术系统Si-HD型号(团队专用)，S型号不定时使用，使用频率低于1个手术日/周。术后并发症参考标准Clavien-Dindo分类i，术后胰瘘参考2016年国际胰瘘研究小组诊断标准分级[12]。因RPS主要为近两年完成，远期预后随访暂未总结分析。
+
+统计学分析使用SPSS20.0软件，正态分布计量资料采用均数 $\cdot \pm$ 标准差，非正态分布计量资料采用中位数(范围)表示，计数资料采用例数(百分比)的方法表示。
+
+# 2结果
+
+# 2.1手术组成
+
+1010例手术中Si型号机器人完成894例，S型号机器人完成116例，共完成RPD417例、RDP428例、中段胰腺切除术60例、胰腺肿瘤剜除术53例、Appleby术3例、其他手术49例，全组中还包括创新性机器人后腹腔镜(RRP)4例,肿瘤剜除联合主胰管架桥修复(R-mpd-BR)4例、单孔机器人胰腺肿瘤剜除术1例和中段胰腺切除联合端端对吻重建术(Rend-to-endPAR)2例。
+
+# 2.2 一般临床病理资料
+
+年龄 $5 3 . 9 9 \pm 1 4 . 0 4$ 岁（13\~87岁），男/女:486/524,BMI $2 2 . 7 { \pm } 4 . 7 ( 1 4 . 5 { \sim } 4 0 . 2 )$ ,既往上腹部手术史 $1 1 . 5 \%$ (116/1010)。术后病理提示恶性疾病516例，良性494例,其中胰腺导管腺癌321例，胆管中下段癌、十二指肠腺癌及壶腹周围癌195例，神经内分泌肿瘤102例(G2以上25例，G2以下77例)，浆液性囊腺瘤60例，粘液性囊腺瘤102例(良性92例，恶性10例)，实性假乳头状瘤91例，导管内乳头状粘液腺瘤28例，其他111例。
+
+# 2.3手术安全性(表1)
+
+全组30d死亡率 $0 . 6 9 \%$ (7/1010），90d死亡率$1 . 3 1 \% ( 1 2 / 9 1 6 )$ ;RPD组 $3 0 \mathrm { d }$ 死亡率 $0 . 9 6 \% ( 4 / 4 1 7 ) ,$ 90d死亡率 $1 . 6 1 \% \left( 6 / 3 7 3 \right)$ ;RDP组30d死亡率 $0 . 2 3 \% ( 1 /$ 428)，90d死亡率 $0 . 5 \% ( 2 / 3 9 8 )$ 。全组Clavien-Dindo II级以上并发症发生率 $8 . 0 \% ( 8 1 / 1 0 1 0 )$ ,RPD组 $1 3 . 2 \%$ (55/417)，RDP组 $5 . 8 \% ( 2 5 / 3 7 3 )$ 。全组胰瘘发生率 $4 4 . 1 6 \%$ (446/1010)，其中生化瘘 $\mathrm { ( B L ) } 3 4 . 9 5 \% \mathrm { ( 3 5 3 / 1 0 1 0 }$ ，占胰瘘的 $7 9 . 1 5 \%$ )，B级以上胰瘘 $9 . 2 1 \% ( 9 3 / 1 0 1 0$ ，占胰瘘的$20 . 8 5 \%$ ）;RPD组胰瘘发生率 $50 . 3 6 \%$ (210/417），$\mathrm { { B L } 4 1 . 0 1 \% ( 1 7 1 / 4 1 7 . }$ ，占胰瘘的 $8 1 . 4 3 \%$ )，B级以上胰瘘$9 . 3 5 \% \big ( 3 9 / 4 1 7$ ，占胰瘘的 $1 8 . 5 7 \%$ ;RDP组胰瘘 $4 3 . 2 2 \%$ (185/428),其中BL $3 5 . 5 1 \% ( 1 5 2 / 4 2 8 .$ 占胰瘘的 $8 2 . 1 6 \%$ ），B级以上胰瘘 $7 . 7 1 \% ( 3 3 / 4 2 8$ ，占胰瘘的 $1 7 . 8 4 \%$ 。
+
+全组中位术中出血量 $8 0 ~ \mathrm { m L } ( 1 0 { \sim } 2 0 0 0 ~ \mathrm { m L } )$ ,其中RPD组中位出血量 $1 0 0 \mathrm { m L } ( 2 0 { \sim } 2 0 0 0 \mathrm { m L } )$ ,RDP组中位出血量 $5 0 ~ \mathrm { m L } \left( 2 0 { \sim } 1 8 0 0 ~ \mathrm { m L } \right)$ ；总的输血率 $6 . 7 \%$ (68/1010)，RPD组 $8 . 6 \% \big ( 3 6 / 4 1 7 \big )$ ,RDP组 $4 . 2 \% \big ( 1 8 / 4 2 8 \big )$ ·全组二次手术 $2 . 6 7 \% ( 2 7 / 1 0 1 0 )$ RPD组 $3 . 8 4 \% ( 1 6 / 4 1 7 )$ ，RDP $1 . 6 4 \% ( 7 / 4 2 8 )$ O
+
+# 2.4手术可行性和肿瘤根治性(表2)
+
+总体全组中位手术时间 $2 1 0 \operatorname* { m i n } ( 3 0 { \sim } 7 2 0 \ \operatorname* { m i n } )$ RPD组中位手术时间 $3 0 0 \ \operatorname* { m i n } ( 1 2 0 { \sim } 7 2 0 \ \operatorname* { m i n } )$ ,RDP组中位手术时间 $1 7 0 \ \operatorname* { m i n } { ( 3 0 { \sim } 3 4 0 \ \operatorname* { m i n } ) }$ ；全组中转率$4 . 0 6 \%$ （41/1010），RPD组 $4 . 5 6 \%$ （19/417）， $\mathrm { R D P 2 . 8 \% }$ (12/428);
+
+全组中恶性肿瘤切缘阳性率 $\mathrm { R } 1 \% 3 . 4 6 \% ( 1 7 / 4 9 2 )$ RPD组 $3 . 4 4 \% ( 1 1 / 3 2 0 )$ ,RDP组 $2 . 0 9 \% ( 5 / 1 3 9 )$ ；全组中恶性肿瘤中位淋巴结清扫数量14.1±8.3(4\~31),RPD组$1 4 . 9 { \pm } 6 . 7$ (4\~31),RDP组 $1 1 . 6 { \pm } 9 . 6 ( 6 { \sim } 2 8 ) ,$ □
+
+# 2.5刘荣团队机器人、腹腔镜和开腹手术历年完成情况和比例(图1)
+
+RPS手术完成量和所占比例逐年递增，2017年( $1 \sim$ 9月）已完成441例，手术比例由2012年 $1 0 . 4 4 \%$ 升至2017年 $7 2 . 0 6 \%$ ,现远超开腹 $2 5 . 8 2 \%$ 和腹腔镜 $2 . 1 2 \%$ (2017年)。
+
+# 3讨论
+
+新术式的推广需要高级别循证医学证据支持，但实际临床工作中前瞻性随机对照研究难实施2，医患主观能动性、手术人员的流动性、地区医疗政策和病人的经济能力等均影响着随机对照研究的顺利开展，因此在中国现阶段医疗环境下，大样本病例组报道同样意义深刻。2013年匹兹堡医学中心Zureikat率先完成RPS250例，其中RPD132例，RDP83例，中段胰腺切除13例,宛除术10例,全胰切除5例,Appleby术4例,Frey术3例，前瞻性收集的数据提示30d内死亡率和90d死亡率分别为 $0 . 8 \%$ 和 $2 . 0 \%$ ,ClavienⅢ和IV级并发症分别为
+
+表1刘荣团队机器人胰腺手术安全性相关指标 lab.1 Metrics of safety of robotic pancreatic surgeries in Liu Rong's surgical team   
+
+<html><body><table><tr><td>Variable</td><td>Entire cohort (n=1010)</td><td>Whipple (n=417)</td><td>Distal (n=428)</td></tr><tr><td>Mortality,n (%)</td><td></td><td></td><td></td></tr><tr><td>30d</td><td>7 (0.69%)</td><td>4 (0.96%)</td><td>1 (0.23%)</td></tr><tr><td>90 d</td><td>12 (1.31%)</td><td>6 (1.61%)</td><td>2 (0.5%)</td></tr><tr><td>Clavien-Dindo grade III-V,n (%)</td><td>81 (8.0%)</td><td>55 (13.2%)</td><td>25 (5.8%)</td></tr><tr><td>Pancreatic fistulab, n (%)</td><td>353 (24.95%)</td><td>210 (50.36%)</td><td>185 (43.22%)</td></tr><tr><td>BL</td><td>238 (23.56%)</td><td>171 (41.01%)</td><td>152 (82.16%)</td></tr><tr><td>B,C</td><td>93 (9.21%)</td><td>39 (9.35%)</td><td>33(7.71%)</td></tr><tr><td>Blood loss,median,mL (range)</td><td>80(10-2000)</td><td>100(20-2000)</td><td>50(20-1800)</td></tr><tr><td>Transfusion,n (%)</td><td>68 (6.7%)</td><td>36 (8.6%)</td><td>18 (4.2%)</td></tr><tr><td>Reoperation,n (%)</td><td>27 (2.67%)</td><td>16 (3.84%)</td><td>7 (1.64%)</td></tr></table></body></html>
+
+"Reference to the Clavien-Dindo classification[11.Reference to the International Study Groupon Pancreatic Fistula (ISGPF) criteria[12].
+
+表2刘荣团队机器人胰腺手术可行性和肿瘤根治相关性指标 Tab.2Metrics offeasibility and oncologicloutcomes following robotic pancreatic surgeries in Liu Rong's surgical team   
+
+<html><body><table><tr><td>Variable</td><td>Entire cohort (n=1010)</td><td>Whipple (n=417)</td><td>Distal (n=428)</td></tr><tr><td>Feasibility</td><td></td><td></td><td></td></tr><tr><td>Operative time, min, median, N (range)</td><td>210 (30-720)</td><td>300 (120-720)</td><td>170(30-340)</td></tr><tr><td>Conversion,N (%)</td><td>41 (4.96%)</td><td>19 (4.56%)</td><td>12 (2.8%)</td></tr><tr><td></td><td>Entire cohort (n=492)</td><td>Whipple (n=320)</td><td>Distal (n=139)</td></tr><tr><td>Oncological outcomes</td><td></td><td></td><td></td></tr><tr><td>Microscopically positive (R1) margins,N(R1%)</td><td>17 (3.46%)</td><td>11(3.44%)</td><td>5 (2.09%)</td></tr><tr><td>Harvested lymph node,mean±SD (range)</td><td>14.1±8.3 (4-31)</td><td>14.9±6.7 (4-31)</td><td>11.6±9.6 (6-28)</td></tr></table></body></html>
+
+![](images/9c6d769f4e65a7e13532f022a1beb9d88860a23114811b91ef5635a55cd4680f.jpg)  
+图12011-2017间刘荣手术团队开腹、腹腔镜和机器人胰腺手术完成情况  
+Fig.1Utilization ofthethreeavailable operative technologies (open,laparoscopic and robotic）in Liu Rong's Surgical team from 2011-2017.
+
+$14 \%$ 和 $6 \%$ ,C级胰瘘发生率 $4 \%$ （参考2006年国际胰瘘研究小组术后胰瘘分级标准)，RPD和RDP手术时间分别 $5 2 9 { \pm } 1 0 3 ~ \mathrm { m i n }$ 和 $2 5 7 { \pm } 9 3 \mathrm { \ m i n }$ ,该研究初步证实了机器人在胰腺各个术式中的安全性和可行性，笔者通过涵盖更多术式的大宗样本量RPS病例组报道，进一步证实了机器人手术在胰腺各个常规术式、创新术式的安全性和可行性，及手术优越性。
+
+新术式推广应用过程中安全性至关重要，死亡率是关键指标，本组30d死亡率 $0 . 6 9 \% , 9 0 \mathrm { ~ d ~ }$ 死亡率 $1 . 3 1 \%$ 低于Zureikat报道的 $0 . 8 \%$ 和 $2 . 0 \%$ ，考虑与后组中恶性疾病比例高，样本量小有关(近一半的手术在学习曲线内完成)。笔者RPD组和RDP组死亡率均控制较好，已等同或优于开腹手术[13-16]。RPD绝大多数死亡率病例发生在应用早期,主要因术中动脉处理不当术后早期出血和术后胰瘘继发性腹腔出血有关。早期开展时建议多采用缝扎处理血管，动脉夹和能量器械使用需要一定的技巧，原位钳夹和离断很关键。Appleby手术为难度最高的胰腺手术之一，术中需要扩大范围多脏器切除、淋巴结清扫，并切除受侵腹腔干，机器人下报道罕见[]。
+
+笔者3例机器人Appleby术中均为一期手术,1例切缘阳性，术后2月后因进食不加和肿瘤因素造成多脏器功能衰竭死亡，1例于术后1.5月后出现胃部巨大溃疡，保守治愈，1年随访无复发，另一例术后7月肿瘤复发。机器人下Appleby术技术可行,患者短期预后尚可，无严重并发症发生，但应注意适应证和手术时机严格把握。国外现多采用分步手术，先化疗，之后进行肝总动脉提前栓塞,最后才行手术[17]
+
+胰瘘是RPS最常见的并发症，与术后死亡率和手术安全性直接相关。全组B级以上胰瘘发生率 $9 . 2 1 \%$ 与别组的报道相近[1,6.9-10,15],但由于胰瘘评价标准不同，各组间可比性不强。笔者胰肠吻合操作在缝合方法、缝合线选择和胰腺支撑管放置方式方面历经多次优化，现阶段主要采用联合主胰管外置的 $1 { + } 2$ 或1+1胰肠吻合方法[18-19],通过简化的胰管对粘膜代替传统的精细吻合操作，并二次加固，操作方法简单安全高效。参考2006年术后胰瘘诊断标准的话，笔者近200例RPD胰瘘B级以上发生率已低至 $4 . 5 \%$ ,显著低于文献报道的数据[9,20-21]、开腹[22-24]和腹腔镜手术[25-26]。RDP术后降低胰瘘发生率的关键在于胰腺断端主胰管处理得当，如为直线切割闭合器离断,一般主胰管会被多层闭合，不会发生严重胰瘘,如为能量器械离断，建议术中找到主胰管给予精细缝扎，或在主胰管附近行U型对拢缝合关闭主胰管断端，总体来说，RDP术后胰瘘报道发生率各家相近。除术后避免严重胰瘘的关键在于谨防主胰管损伤，尤其当病变已造成主胰管推移改变时，对于主胰管损伤，笔者创新性采用R-mpd-BR和Rend-to-endPAR的方法代替了指南中推荐的胰腺节段性切除或胰肠吻合方法，4例R-mpd-BR和2例胰腺中段切除联合Rend-to-endPAR后患者均顺利拔除腹腔引流管，手术安全有效，为胰腺良性疾病的外科治疗提供了新的理念和方法，有望改变整个胰腺良性疾病的外科策略。其他与手术安全性相关的输血率、二次手术率等也都等同或优于开腹手术,各大样本量报道相近[15,22-28]。
+
+手术时间反应手术效率。RPS早期开展时手术时间较长，通过经验的积累和方法的改进，RPS时间可显著减少[9,20],但多数研究认为机器人手术时间要长于开腹手术。笔者早期开展时RPD平均手术时间高达 $3 8 7 \mathrm { m i n } ^ { [ 2 9 ] }$ ，现平均手术时间已降至 $2 0 0 \mathrm { m i n }$ 左右，完全可媲美开腹手术[30-32]。本组手术时间显著低于别组报道[9,20],考虑与手术方法、团队和手术时间计算方法有关。笔者通过2015年8月迄今的410例连续病例总结出一套成熟的RPD技术方法[9,如模式化5孔布孔法联合Trocar inTrocar技术、水平Y型可切除性评估、前-后-上-下"程序性切除 $\cdot 1 { + } 2$ 或1+1胰肠吻合[18]结肠系膜LR孔应用[33]等，对于提高手术效率、手术安全性和肿瘤根治性均有所帮助。因各家病理检查水平和细致程度不同，在淋巴结清扫数量和肿瘤切缘方面无法横向对比，从同一医院开腹数据看，机器人在恶性肿瘤根治性指标方面现已等同开腹。机器人手术的创伤小、对机体免疫损伤轻、术后恢复快，可让后续化疗时间提前，因此有理由相信，机器人组手术的远期预后应优于开腹[，目前现有的循证医学证据也基本支持此观点[34-38]
+
+笔者一并列出2011\~2017年7年间本团队机器人、腹腔镜和开腹胰腺手术完成数量的对比图，最初开腹手术量较为稳定，随着胰腺病区床位增加，手术量同比上升，机器人在2015年前增幅较缓，与腹腔镜手术比例相近，2015年2月团队专用机器人装机后RPS数量开始快速上升，并"挤占"开腹手术和腹腔镜手术，2017年1\~9月间RPS比例占胰腺所有手术的 $7 2 . 0 6 \%$ ,远超同期开腹 $2 5 . 8 2 \%$ ,腹腔镜手术更是萎缩殆尽，机器人手术已成为胰腺几乎所有术式的首选术式。匹兹堡大学医学中心在2012年机器人胰腺手术量已超过开腹手术[1]
+
+超强度的机器人手术操作所带来的职业危害同样需引起关注。长时间对着3D双目显示屏伏案工作，对于视力、腰椎、胸椎、颈椎和手腕关节均有负面影响，年轻医生培训模式也应适应性改变，机器人相关费用还较为昂贵，此外，血管重建技术在机器人下如何安全完成，也需要新的技术方法的建立和血管专用器械的研发。在中国，机器人的应用受到一定限制，首先机器人相关费用尚未纳入医疗保险，机器人购买审批方面也有严格的配额制度，已购置机器人在机器人使用方面也有倾向性，多应用于可以快速收回成本的泌尿外科和妇产科应用，种种因素制约着RPS的发展。以笔者自身经验看，相信随着机器人手术系统的普及、相关费用的下降和更多成熟经验的借鉴，RPS势必推广开来，成为胰腺外科的主流术式，“金标准"术式。
+
+本研究通过大样本量临床实践表明，随着经验的积累和方法的优化，RPS能够得以发展快速，并逐渐取代开腹和腹腔镜手术，成为胰腺手术首选术式。经过学习曲线后,包括RPD、Appleby在内的所有RPS安全、可行，早期开展RPS时应借鉴成熟经验以减少并发症发生。
+
+# 参考文献：
+
+[1］Zureikat AH,Moser AJ,Boone BA,et al.25O robotic pancreatic resections safety and feasibility[J].Ann Surg,2013,258(4): 554-62.   
+[2]Barkun JS,Aronson JK,Feldman LS,et al.Evaluation and stages of surgical innovations[J].Lancet,2009,374(9695):1089-96.   
+[3]Gagner M,Palermo M.Laparoscopic whipple procedure: review of the literature[J].JHepatobiliary Pancreat Surg,2009,16(6): 726-30.   
+[4]Sohn W, Lee HJ,Ahlering TE.Robotic surgery: review of prostate and bladder cancer[J].Cancer J,2013,19(2):133-9.   
+[5]Orady M,Hrynewych A,Nawfal AK,et al. Comparison of roboticassisted hysterectomy to other minimally invasive approaches [J]. JSLS,2012,16(4): 542-8.   
+[6]Memeo R, Sangiuolo F,de Blasi V, et al. Robotic pancreaticoduodenectomy and distal pancreatectomy: State of the art[J]. J Visc Surg, 2016,153(5): 353-9.   
+[7] Close A，Robertson C，Rushton S,et al. Comparative costeffectivenessofrobot-assistedandstandardlaparoscopic prostatectomy as alternatives to open radical prostatectomy for treatment of men with localised prostate cancer:ahealth technology assessment from the perspective of the UK National health service[J].Eur Urol,2013,64(3): 361-9.   
+[8]Wright JD,Ananth CV, Lewin SN,et al. Robotically assisted vs laparoscopic hysterectomy among women with benign gynecologic disease[J]. JAMA,2013,309(7): 689-98.   
+[9] Boone BA, Zenati M,Hogg ME,et al. Assessment of quality outcomes for robotic pancreaticoduodenectomy identification of the learning curve[J]. JAMA Surg,2015,150(5): 416-22.   
+[10] Shakir M,Polanco PM,etal.The learning curve for robotic distal pancreatectomy:an analysis of outcomes of the first 100 consecutive cases at a high-volume pancreatic centre [J].HPB (Oxford),2015,17(7): 580-6.   
+[11]Dindo D,Demartines N, Clavien PA.Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey[J].Ann Surg,2004,240(2): 205-13.   
+[12]Bassi C,Marchegiani G,Dervenis C,et al. The 2016 update of the International Study Group(ISGPS)definition and grading of postoperativepancreatic fistula: 11 Years after[J]. Surgery,2017,161(3): 584-91.   
+[13] Winter JM, Brennan MF, Tang LH, et al. Survival after resection of pancreatic adenocarcinoma: Results from a single institution over three decades[J].Ann Surg Oncol,2012,19(1): 169-75.   
+[14]Venkat R,Puhan MA,Schulick RD,et al. Predicting the risk ofperioperative mortality in patients undergoing pancreaticoduodenectomy a novel scoring system[J].Arch Surg,2011,146(11): 1277-84.   
+[15]Zureikat AH,Postlewait LM,Liu Y,etal.A multi-institutional comparison of perioperative outcomesof robotic and open pancreaticoduodenectomy[J].Ann Surg,2016,264(4): 640-9.   
+[16]Kornaropoulos M,MorisD,Beal EW,et al.Total robotic pancreaticoduodenectomy: a systematic review of the literature[J]. Surg Endosc,2017,31(11): 4382-92.   
+[17] Gong HB,Ma RR, Gong J, et al. Distal pancreatectomy with En bloc celiac axis resection for locally advanced pancreatic cancer a systematic review and Meta-analysis [J].Medicine (Baltimore), 2016,95(10): e3061.   
+[18]刘荣,赵国栋,尹注增.机器人下LR式 $1 { + } 2$ 胰肠吻合方法的理论 和技巧：附104 例病例报道[J].中华腔镜外科杂志:电子版, 2017,10(1): 7-9.   
+[19]刘 荣,赵国栋.LR式机器人胰十二指肠切除术手术方法建立和 技术优化[J].中华腔镜外科杂志:电子版,2016,9(4):193-5.   
+[20]NapoliN,aufmaEF,MenoaF,etal.Idicatio,thqe, and results of robotic pancreatoduodenectomy [J]. Updates Surg, 2016, 68(3): 295-305.   
+[21]Napoli N, Kauffmann EF,Palmeri M,etal. The learning curve in robotic pancreaticoduodenectomy[J].Dig Surg,2016,33(4):299- 307.   
+[22]Gebauer F,Kloth K,Tachezy M,et al. Options and limitations in applying the fistula clasification by the international study group for pancreatic fistula[J].Ann Surg,2012,256(1):130-8.   
+[23]Addeo P,Delpero JR,Paye F,et al.Pancreatic fistula after a pancreaticoduodenectomy for ductal adenocarcinoma and its association with morbidity:a multicentre study of the French Surgical Association[J].HPB(Oxford),2014,16(1): 46-55.   
+[24]Dong X, Zhang B,Kang MX,et al.Analysis of pancreatic fistula according to the International Study Group on Pancreatic Fistula classificationschemefor294patientswhounderwent pancreaticoduodenectomy in a single center[J].Pancreas,2011,40 (2): 222-8.   
+[25]Deoliveira ML,Winter JM, Schafer MA,et al.Assessment of complications after pancreatic surgery - A novel grading system applied to 633 patients undergoing pancreaticoduodenectomy [J]. Ann Surg,2006,244(6): 931-9.   
+[26] Stauffer JA,Rosales-Velderrain A, Goldberg RF,et al. Comparison ofopen with laparoscopic distal pancreatectomy:a single institution's transitionovera 7-year period[J].HPB (Oxford), 2013,15(2): 149-55.   
+[27] Kendrick ML. Laparoscopic and robotic resection for pancreatic cancer[J]. Cancer J,2012,18(6): 571-6.   
+[28]Daouadi M, Zureikat AH, Zenati MS,et al. Robot-assisted minimally invasive distalpancreatectomy is superior tothe laparoscopictechnique[J]. Ann Surg,2013,257(1): 128-32.   
+[29]Liu R, Zhang T, Zhao ZM,et al. The surgical outcomes of robotassisted laparoscopic pancreaticoduodenectomy versus laparoscopicpancreaticoduodenectomy forperiampullary neoplasms: a comparative study of a single center[J]. Surg Endosc, 2017,31(6): 2380-6.   
+[30]Fernandez-del Castillo C,Morales-Oyarvide VA,Wargo JA,et al. Evolution of the whipple procedure at the Massachusetts general hospital[J]. Surgery,2012,152(3,1): S56-63.   
+[31]Winter JM, Cameron JL,campbell KA,et al.1423 pancreaticoduodenectomies for pancreatic Cancer:A single-institution experience [J].J Gastrointest Surg,2006,10(9): 1199-210; discussion 1210-1.   
+[32]Traverso LW, Shinchi H,Low DE.Useful benchmarks to evaluate outcomes after esophagectomy and pancreaticoduodenectomy[J] Am J Surg,2004,187(5): 604-8.   
+[33]刘 荣,尹注增,赵国栋,等.横结肠系膜L孔在机器人胰十二指肠 切除术中的应用[J].中华腔镜外科杂志:电子版,2017,10(1):11- 3.   
+[34]Lai EC, Yang GP, Tang CN. Robot-assisted laparoscopic pancreaticoduodenectomy versus open pancreaticoduodenectomy - A comparative study[J]. Int J Surg,2012,10(9): 475-9.   
+[35]Chalikonda S,Aguilar-Saavedra JR,Walsh RM.Laparoscopic robotic-assisted pancreaticoduodenectomy: a case-matched comparison with open resection[J].Surg Endosc,2012,26(9): 2397-402.   
+[36]Buchs NC,Addeo P, Bianco FM, et al. Robotic versus open pancreaticoduodenectomy: a comparative study at a single institution[J]. World J Surg,2011,35(12): 2739-46.   
+[37]Lee SY, Allen PJ, Sadot E,et al. Distal pancreatectomy: a sin-gle institution's experience in open,laparoscopic,and robotic approaches[J].JAm Coll Surg,2015,220(1): 18-27.   
+[38]Kang MJ, Jang JY, Lee KB,et al. Long-term prospective cohort study of patients undergoing pancreatectomy for intraductal papillary mucinous neoplasm of the pancreas implications for postoperative surveillance[J].Ann Surg,2014,260(2): 356-63.

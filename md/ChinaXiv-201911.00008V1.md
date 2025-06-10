@@ -1,0 +1,297 @@
+# “一”人代言的魅力：品牌代言人数如何影响消费者的品牌态度"
+
+冉雅璇」刘佳妮」 张逸石²卫海英(1中南财经政法大学工商管理学院，湖北430073；2武汉理工大学管理学院，湖北430070)(3暨南大学管理学院，广州510632)
+
+摘要有的品牌仅邀请一位名人代言，而有的品牌由多位名人代言，那么一人代言还是多人代言会更有效？为了回答该问题，研究基于形象转移视角和单人积极偏差，深入探究了品牌代言人数因素(一位代言人vs.多位代言人)对品牌态度的影响机制和边界条件。研究发现：相比品牌多人代言，品牌单人代言使消费者的品牌态度更高。原因在于消费者与一位(vs.多位)品牌代言人的自我一品牌联结更紧密，进而促进品牌态度。该品牌代言人效应仅局限于象征型产品，而对于非身份象征型产品，品牌单人代言(vs.品牌多人代言)对品牌态度无显著差异。此外，当多位品牌代言人为一个团体时，品牌代言人数效应将被逆转，即品牌多人代言(vs.品牌单人代言)对品牌态度的影响更高。
+
+关键词 品牌代言；人数；自我一品牌联结；形象转移视角；单人积极偏差分类号 B849:F713.55
+
+“一个成功的品牌代言，应该是既有助于产品与代言人的交流，也有助于代言人与消费者的交流。”
+
+UnderArmour公司创始人KevinPlank
+
+# 1问题提出
+
+名人代言是一种“物超所值”的品牌宣传战略(Elberse&Verleun,2012)。许多企业不惜重金邀请、宣传和推广名人代言，代言人费用甚至占营销费用的一半以上。在现今的名人代言实例中，品牌为了增强影响力和扩大消费群体，越来越倾向于采用两位或两位以上名人同时代言的策略，即品牌多名人代言(multiple celebrity endorsers)。例如，劳力士的代言人曾经高达 42人，百事可乐 2004年度代言人共有蔡依林等六位名人。然而，可口可乐 2014年放弃全明星代言大阵容，仅选择了金秀贤一人代言。那么，一位代言人还是多位代言人更好？与广泛存在的品牌多名人代言现象不相称的是，学界对该现象尚缺乏足够的关注。
+
+迄今为止，品牌名人代言研究主要集中于单名人代言，其中既包括一位名人代言一个品牌情境，也包括一位名人代言多个品牌情境。在单名人代言单品牌的前提下，学者们考察了代言人特征(黄敏学,姚舜禹,刘茂红,2018)、代言人和品牌的形象匹配(van derVeen& Song,2014)、代言人和消费者的匹配(Choi & Rifon,2012)、消费者特征(Petty,Cacioppo,& Schumann,1983)等因素对消费者的影响。近年来，学者们逐渐将视线投向一位名人代言多个品牌的现象，探讨了其有效性及溢出效应(Chen,Chang,Besherat,& Baack,2013)。然而，与以上丰富的品牌单名人代言研究相反，仅有零星几项研究涉及到品牌多名人代言(Rice,Kelting,&Lutz,2012;Thomas&Fowler,2015;Handriana&Wisandiko,2017)，这与极为常见的品牌多名人代言的现象极不相称。此外，这些仅有的涉及品牌代言人数研究的结论并不一致。品牌代言人数如何影响消费者品牌态度？其作用机理是什么？这些重要的问题也尚待解答。因此，本研究拟针对上述问题，探讨品牌代言人数对消费者态度的机制与边界。
+
+# 1.1品牌代言人数
+
+品牌代言人是“通过在品牌宣传活动中进行陈述，或以行为来表现品牌形象和特征的人”(Elberse& Verleun,2012)，是消费者与品牌建立关系的关键载体(Ilicic&Webster,2013)。对于如何选择恰当的品牌代言人这一问题，学界主要呈现了两种观点：匹配假说(Match-UpHypothesis)和信源吸引力模型(Source Attractiveness Model)。前者强调品牌代言人和品牌的匹配性(Lafferty,Goldsmith,& Newell,2002)，后者关注代言人的吸引力因素(Ilicic&Webster,2013)。然而这些观点囿于“品牌代言人为一人”的前提，无法回答品牌代言人数因素(一人vs.多人)对代言效果的具体作用。
+
+此外，在仅有的涉及品牌多人代言的研究中，对品牌代言人数因素的探讨也存在不足。首先，品牌代言人数这一因素对品牌态度的直接作用及其内部机制还处于黑箱之中。例如，Rice等(2012)分析了品牌代言人数、形象一致性和涉入度三种因素的混合作用，Saleem(2007)和Handriana 和Wisandiko(2017)同时操纵了品牌代言人数和涉入度，均未检验品牌代言人数的直接影响机理。第二，现有研究主要基于信息重复性的视角，即多位代言人比一位代言人能提供重复的信息，该研究视角既与广告播放重复(不论一位代言人还是多位代言人)的现实相悖，还忽略了人们在感知一人和多人时的关键差异。已有大量心理学研究证实，人数(一人vs.多人)会引起印象形成速度(Hamilton & Sherman,1996; Susskind,Maurer,Thakkar,Hamilton,& Sherman,1999)、分享意愿(Barasch & Berger,2014)以及人际态度(Small,Loewenstein,& Slovic,2007)等方面的差异。另外，有关“一位代言人还是多位代言人更好”的问题，现有研究结论仍存在不一致。一类研究认为，当消费者涉入度低时，多人代言比单人代言更优。例如，Handriana 和Wisandiko(2017)与 Saleem(2007)指出，在消费者低涉入度(即对产品不熟悉)的情况下，多位代言人比一位代言人能带来更加积极的广告评价，而在消费者高涉入度的情况下则没有显著差异；类似地，Rice,Kelting 和 Lutz(2012)发现，仅当消费者涉入度较低时，多人代言(vs.单人代言)的广告评价更高。然而，另一类研究结论却与上述结论相反。例如 Thomas 和Fowler(2015)发现，对于低涉入度产品，单人代言反而比多人代言的广告评价更加积极。本研究针对以上问题，在现有“一人”对“多人”研究的基础上深入探究品牌代言人数的有效性，剖析品牌代言人数对消费者品牌态度的影响机制。
+
+# 1.2品牌代言人数与品牌态度
+
+品牌代言情境为同时出现于其中的品牌和代言人建立了高度的相关性。诸多品牌代言的研究从形象转移(Image Transference)视角指出，消费者会自动形成品牌特征和代言人特征的联想网络。一方面，消费者会凭借品牌线索形成对代言人的特征评价，如当品牌犯错时，其代言人往往会被认为更加不可信(Louie&Obermiller,2002)；另一方面，消费者也会根据代言人特质推断品牌特征，如年老代言人会使品牌看上去更有“历史感”(Huber,Meyer,Vogel,Weihrauch,& Hamprecht,2013)。由此可见，品牌特征和代言人特征可以相互转移并影响。在品牌代言人情境中，名人的形象会自然转移到品牌身上(Miller&Allen,2012)。就品牌代言人数而言，当品牌由一人代言时，消费者会认为品牌拥有“一人”的特质，而当品牌由多人代言时，消费者会感知品牌拥有“多人”的特质。
+
+一人特质和多人特质究竟有何感知上的差异?单人积极偏差(Person-Positivity Bias)是解释个体面对“一人vs.多人”的心理差异的经典效应，指出个体对一人的评价会比对多人的评价更加积极(Sears,1983)。单人积极偏差理论的提出者 Sears(1983)认为，“人格性(Personhood)"是人们对一个或多个对象反应差异的关键。人格性这一概念原属哲学范畴，是描述作为个人存在状态的变量。一个由多个人所组成的群体往往被看作一个抽象的实体，其存在状态更接近一个物体而非一个人，因此一人具有高人格性而多人具有低人格性。一些有关道德行为的研究也佐证了该观点。Critcher和Dunning(2013)发现，人们会推断多人的道德行为是基于规范或压力，而一人的道德行为是基于自我道德意识，可见一人比多人更加自主、更加接近“个人存在”的感知状态。因此，人格性程度的不同会导致态度的差异。相比低人格性的“它”（如被视为某件物品或某个组织的存在)，人们对高人格性的“他/她”(如被视为一个具体的人的存在)的评价往往会更高，也会认为更相似、更亲近，更倾向于采用启发式加工(Sears,1983;Iyengar et al,2013;Critcher&Dunning,2014)。例如在消费者与企业互动情境，销售员采用高人格性的单人称代词(即“我”)比低人格性的多人称代词(即“我们”)会使得顾客满意和重购意愿更高(Packard,Moore,&McFerran,2018)。综上，由于(1)代言人数象征的人格性会转移到品牌身上，且(2)一人比多人的人格性更高，我们提出，品牌单人代言比品牌多人代言更能提升消费者的品牌态度。
+
+假设1：相比品牌多人代言，品牌单人代言使消费者的品牌态度更高。
+
+品牌代言人的关键作用在于展现品牌身份，从而有助于消费者与品牌建立关系，即自我一品牌联结(self-brand connection)(Park,MacInnis,Priester,Eisingerich,& Iacobucci,2010;Escalas,2004)。我们提出，自我一品牌联结是解释品牌代言人数与品牌态度关系的关键路径，且消费者与品牌单人代言(vs.品牌多人代言)的自我一品牌联结更高。一方面，相比于代表“多人”的品牌，代表“一人”的品牌被认为更加稳定且唯一，进而更容易与消费者建立联结。研究表明，个体更容易与一个人而非多个人建立关系(Wilis & Todorov,2006; Susskind,Maurer,Thakkar,Hamilton,& Sherman,1999)，也更容易与一个人进行沟通(Barasch&Berger,2014)，甚至更容易原谅一个人(vs.多个人)(Newheiser,Sawaoka,& Dovidio,2012)。正如本文开篇引用 Kevin Plank所言“成功的品牌代言…应该有助于代言人与普通消费者的交流”，一位代言人比多位代言人更容易与消费者建立交流桥梁。另一方面，由于“一人”比“多人”更加凸显人格性，并且人们更愿意与高人格性对象建立亲密联系(lyengar etal.,2013)，所以人们与一人代言品牌的联结程度高于与多人代言品牌。诸多拟人化研究也表明，消费者与拟人化品牌的关系更加亲密(Zhou,Kim,&Wang,2019)，而拟人化可提升人格性程度。因此，一人代言品牌(vs.多人代言品牌)能增强消费者与品牌的自我一品牌联结。
+
+自我一品牌联结是消费者将品牌纳入自我概念的程度(Escalas,2004)，可以正向促进消费者对品牌的态度。大量品牌研究已经发现，自我一品牌联结可以唤起积极情感、提升品牌认同(Park et al.,2010)，甚至在品牌犯错时提供保护机制(Cheng,White,& Chaplin,2012)。因此我们认为，自我一品牌联结中介品牌代言人数对品牌态度的影响，且消费者与单个品牌代言人(vs.多个品牌代言人)的自我一品牌联结程度更高，进而对单人代言(vs.多人代言)的品牌态度更加积极。我们提出假设：
+
+假设2：自我一品牌联结中介品牌代言人数(一人Vs.多人)对消费者的品牌态度的影响。
+
+由于品牌代言人数效应的逻辑依赖于(1)消费者将感知代言人特质转移为对品牌特征的评价以及(2)消费者倾向于与象征“一人”身份的品牌建立情感联结，我们指出假设1和假设2的成立仅局限于身份象征型产品(identity-signaling product)，即具有身份表征意义的产品(Otterbring,Ringler,Sirianni,&Gustagsson,2018)。其一，身份象征型产品会强化代言人和品牌之间的联想性(Otterbring et al.,2018; Gao,Winterich,& Zhang,2016)，从而使消费者更容易依据代言人数(一人vs.多人)线索去推断品牌的特征，即依赖形象转移路径去产生品牌态度。其二，身份象征型产品具有排他性、优越性和独特性等属性(Halevy,Chou,Cohen,&Livingston,2011)，消费者更倾向于将之作为自我概念的一部分，从而建立自我一品牌联结(Park et al.,2010)。据此我们认为，品牌单人代言(vs.品牌多人代言)的优势仅存在于身份象征型产品；对于非身份象征型产品，消费者则不会或较少通过品牌代言人与品牌建立联结，品牌代言人数对自我一品牌联结的作用会被弱化。我们提出假设：
+
+假设3：身份象征型产品(vs.非身份象征型产品)调节品牌代言人数对自我一品牌联结的影响。具体而言，当产品属于非身份象征型产品时，品牌代言人数(单人Vs.多人)对自我一品牌联结的影响将会被弱化。
+
+# 1.3边界条件
+
+何时品牌多人代言优于品牌单人代言呢？我们提出，当多位品牌代言人是(或者被描述成)一个团体时，消费者对品牌多人代言的品牌态度比品牌单人代言时更高。根据格式塔(Gestalt)理论，人们倾向于将一个画面中的各个部分看作一个整体(Kohler,1970)，从而加工更加快速、积极。在营销情境中，消费者也会基于格式塔心理去处理品牌的营销信息和产品信息(Park,Jaworski,&MacInnis,1986;Cunha,Forehand,&Angle,2015)。当外部线索表明多位品牌代言人为一个不可分割的团体时，格式塔心理会使消费者将多位品牌代言人看作“一个”整体(whole)，从而当作一个具有完整人格性的对象处理(Weaver,Garcia,& Schwarz,2012)。依据形象转移视角，消费者会认为这样的“一个”团体代言的品牌同样拥有“一人”的特质，并认为此时团体型多人代言与一人代言类似。
+
+虽然团体型多人代言与一人代言象征的品牌形象均为“一个”，但是团体型多人代言更加凸显完整性和不可分割性的线索，这些线索可以提升代言对象的人格性程度。有关整体偏差(Bias for the Whole)的研究指出，消费者倾向于维护完整性，难以容忍完整性受到破坏(Mishra,Mishra,&Nayakankuppam,2006)。相较于有缺陷的对象，完整对象的拟人性程度也更高(White,Lin,Dahl,&Ritchie,2016)。在单个对象被视为一个不完整的对象时，人们对于表达完整意义的多个对象往往比单个对象表现更积极、更正面的态度。因此，相较于团体中的某一位代言人，消费者会更加偏好于一个完整的代言人团体。值得指出的是，这种现象同样在产品组合中得到体现，即当多个产品的组合被视为一个完整的整体时，该组合(vs.单个产品)能提升消费者偏好(Shaddy&Fishbach,2016;Evers,Inbar,& Zeelenberg,2014)，这种现象被称为组合匹配效应(set-fit effect)。综上，由于(1)团体型多人代言与一人代言均能反映品牌拥有“一个”身份，且(2)团体型多人代言比一人代言的人格性更高，所以相比一人代言和非团体型多人代言，团体型多人代言能强化品牌与消费者之间的价值—一自我一品牌联结，进而提升品牌态度。我们提出假设：
+
+假设4：当多位品牌代言人为一个团体时，消费者对品牌多人代言的品牌态度高于品牌单人代言。
+
+# 1.4当前研究
+
+本研究首先开展了一项预实验以验证代言人数效应的假设前提，即当品牌由一人代言时，消费者会认为品牌拥有“一人”的特质，而当品牌由多人代言时，消费者会感知品牌拥有“多人”的特质。随后，我们将开展4个实验验证研究假设。其中，实验一检验品牌代言人数对品牌态度的影响以及自我一品牌联结的中介作用；实验二通过测量被试与品牌之间已有的自我一品牌联结，采用机制型调节(moderation-of-process approach; Spencer,Zanna,& Fong,2005)的方法再次验证自我一品牌联结的机理；实验三检验了品牌代言人数的局限条件；实验四最后验证了团体型多人品牌代言的边界条件。
+
+# 2 预实验
+
+# 2.1实验设计与流程
+
+预实验的目的为了验证本研究的假设前提，即品牌代言人数会影响到消费者对品牌特征推断。实验采用4(服装[五人代言]，化妆品[两人代言]，珠宝[单人代言]，手表[单人代言])的组内设计。为避免已有品牌认知，四个品牌均采用了虚拟品牌，其中服装品牌名为TP Shop，化妆品名为CaringMore，珠宝品牌名为J.Estina，手表品牌名为TeWise。
+
+53名在校本科生 $( M _ { \mathrm { a g e } } { = } 2 0 . 3 2$ 岁， $S D { = } 1 . 2 5 )$ 参与了此次实验。被试首先被告知“以下为服装品牌 TP Shop 的最新宣传照”，并观看了包含五位代言人的宣传照。然后，被试依次评价了“TP Shop 品牌风格很专一”、“TP Shop 品牌风格很多元”、“TP Shop 品牌可以适合某一类人”、“TP Shop 品牌可以适合很多不同的人”（ $\mathrm { 1 = }$ “非常不同意”， $\ 7 =$ “非常同意”），并评价“如果TP Shop品牌拥有人格，TA是”（ $\mathrm { 1 = }$ “可以代表一个人的身份特质”， $\ 7 =$ “可以代表多个人的身份特质”)。为了排除品牌和代言人的影响，被试还对代言人熟悉度和品牌熟悉度均进行了评价( $1 =$ “非常陌生”， $\ 7 =$ “非常熟悉”）。由于本实验为组内设计，被试继续对化妆品牌Caring More、珠宝品牌J.Estina 和手表品牌 TeWise 依次进行了评价，流程和问项与服装品牌TP Shop 相同。最后，被试报告了人口基本信息且猜测实验目的。
+
+# 2.3实验结果
+
+所有被试都未猜出实验目的。描述性数据结果见表1。为了对比风格专一性和风格多元性、适合某一类人和适合不同的人的得分差异，我们采用配对样本t检验。结果显示，对于多人代言的品牌，被试认为的风格更加多元化(TP Shop: $t ( 5 2 ) = 4 . 0 9$ $p { < } 0 . 0 0 1$ ; Caring More: $t ( 5 2 ) = 1 1 . 9 0$ $p { < } 0 . 0 0 1 \$ )且更加适合不同的人(TP Shop: $t ( 5 2 ) { = } 6 . 8 4$ $p { < } 0 . 0 0 1$ ; Caring More: $t ( 5 2 ) = 2 . 3 0$ $\scriptstyle { p = 0 . 0 2 6 } )$ ，而单人代言的品牌被认为更加风格更加专一化(J.Estina: $t ( 5 2 ) { = } 4 . 1 2$ $p { < } 0 . 0 0 1$ ; TeWise: $t ( 5 2 ) { = } 5 . 5 6$ $p { < } 0 . 0 0 1 \$ )且更加适合某一类人(J.Estina: $t ( 5 2 ) = 1 0 . 9 9$ $p { < } 0 . 0 0 1$ ; TeWise: $t ( 5 2 ) { = } 1 0 . 3 8 , p { < } 0 . 0 0 1 )$ 。此外，以“4”为对比值的单样本t检验表明，多人代言品牌被认为更加代表多个人的身份特质(TP Shop: $t ( 5 2 ) { = } 5 . 8 0$ $p { < } 0 . 0 0 1$ ; Caring More: $t ( 5 2 ) = 1 0 . 2 7$ $\scriptstyle { p < 0 . 0 0 1 }$ ，单人代言品牌则被认为更加代表一个人的身份特质(J.Estina: $t ( 5 2 ) = - 2 . 7 8$ $\scriptstyle { p = 0 . 0 0 8 }$ ; TeWise: $t ( 5 2 ) { = } { - } 8 . 6 9 , p { < } 0 . 0 0 1 )$ 。将品牌熟悉度和代言人熟悉度作为协变量，以上对比结果不会发生改变。因此，预实验支持了代言人数的形象转移观点，即当品牌由一(多)个人代言时，品牌会被认为拥有“一人”（“多人”)的身份。
+
+表1预实验描述性数据结果  
+
+<html><body><table><tr><td>品牌</td><td>风格专一性</td><td>风格多元性</td><td>适合某一类人</td><td>适合不同的人</td><td>代表人格数量</td></tr><tr><td>TP Shop(五人)</td><td>3.75 (1.25)</td><td>5.00 (1.33)</td><td>4.13 (1.29)</td><td>5.68 (0.94)</td><td>4.96 (1.21)</td></tr><tr><td>Caring More(两人)</td><td>5.13 (0.92)</td><td>2.83 (1.07)</td><td>4.42 (1.35)</td><td>5.02 (1.19)</td><td>5.32 (0.95)</td></tr><tr><td>J.Estina(单人)</td><td>4.66 (1.37)</td><td>3.45 (1.31)</td><td>5.13 (1.08)</td><td>3.79 (1.36)</td><td>3.53 (1.23)</td></tr><tr><td>TeWise(单人)</td><td>5.66 (1.04)</td><td>2.75 (1.16)</td><td>5.96 (1.00)</td><td>3.15 (1.34)</td><td>2.47 (1.28)</td></tr></table></body></html>
+
+# 3 实验一
+
+# 3.1实验设计
+
+实验一旨在检验品牌代言人数对消费者的品牌态度的影响(假设1)和自我一品牌联结的中介作用(假设2)。为了弥补以往研究设计的不足，实验一还包括两点设计：第一，为了避免Rice 等(2012)和Thomas 和Fowler(2015)研究中的简单暴露效应，本实验的品牌多人代言组采用了三位代言人在一则广告同时出现的设计；第二，Handriana 和Wisandiko(2017)研究中的品牌单人代言仅选择了品牌多人代言中的一位代言人，难以排除特定代言人自身特质的影响，因此本实验设计了三个品牌单人代言组，包括了品牌多人代言中的每一位代言人。
+
+实验采用单因素4水平(品牌代言人数：一人Avs.一人Bvs.一人Cvs.三人)组间设计，其中品牌单人代言有一位女性(包括A、B、C三人)，而品牌多人代言有三位女性。为了控制消费者原有的消费者一企业关系、企业熟悉度和代言人性别等干扰变量的影响，本研究的实验操纵采用虚拟的女性服装企业“Classy Katti”和虚拟的代言人宣传照(如图1所示)，宣传照中包含企业logo 和名称。为了保证被试对产品有一定的初始购买可能性，且由于虚拟企业为女性服装，本次实验招募对象仅限于女性。210名在校大学生参与本次实验，排除2名男性被试，剩余 208 名女性被试。采用G\*Power 3.1计算样本量的 power 值(Faul,Erdfelder,Buchner,&Lang,2009)，选择单因素方差分析，当组数为4、效应量(f)为0.4、显著性水平为0.05时，样本量为208的power值为0.99，超过基本水平0.80。
+
+![](images/49238732a0ac71f096bd2ab477d0337c93c8ac8869a6fbc3d9bdefe9484b80d3.jpg)
+
+![](images/085d529a7718466ab458085789b411bd065738c92e0ca90096619cc5413ec6f0.jpg)  
+图1实验一实验材料"
+
+# 3.2预实验
+
+预实验是一个课堂实验，共94名本科学生 $( M _ { \mathrm { a g e } } { = } 2 0 . 9 7$ 岁， $S D { = } 1 . 0 4 )$ 参与。预实验是3(代言人A vs.代言人Bvs.代言人C)的组内设计，旨在验证被试对品牌代言人与普通人的评价差异。被试首先观看代言人图片，然后评价“假设你对一名普通人的喜爱程度为0，你对图中人物的喜爱程度是” $\scriptstyle ( - 3 =$ “非常不喜欢”， $0 =$ “与对普通人态度无差异”， $3 \mathrm { = }$ “非常喜欢”）和“你对图中人物的熟悉程度是”（ $1 =$ “非常不熟悉”， $\ 7 =$ “非常熟悉”），最后汇报年龄和性别。以0为检验值的单样本t检验显示，被试对代言人A(M代言人 $_ \mathrm { \ A } { = } 1 . 6 5$ ， $S D { = } 1 . 0 9$ ；$t ( 9 3 ) { = } 1 4 . 7 4$ ， $\scriptstyle { p < 0 . 0 0 1 }$ ）、代言人B $M$ 代言人 $_ \mathrm { B } { = } 1 . 4 7$ ， $S D { = } 0 . 9 5$ ； $t ( 9 3 ) { = } 1 5 . 0 3$ ， $p { < } 0 . 0 0 1 \rangle$ ）、代言人C(M代言人 $\mathrm { c } ^ { = 1 . 6 2 }$ ， $S D { = } 1 . 3 1$ ； $t ( 9 3 ) { = } 1 1 . 9 5$ ， $p { < } 0 . 0 0 1$ )的喜爱程度显著高于普通人。并且，一系列配对 $\mathrm { ~  ~ { ~ t ~ } ~ }$ 检验结果表明，被试对A、B、C三人的喜爱程度和熟悉程度均无显著差异$_ { ( t s < 1 . 4 3 }$ ， $\mathrm { \Sigma } ^ { p s > 0 . 1 6 ) }$ 。
+
+# 3.3实验流程
+
+被试被随机分配到4个实验组中，首先阅读实验引导语。为了隐藏实验真实目的，引导语将问卷介绍为“女性服装广告市场调查”。随后，被试将阅读一段ClassyKatti企业的介绍：“Classy Kati成立于1995年，专门针对女性市场推出高质量的国际时装系列，包括优雅知性的都市时装和休闲便装等。”被试接下来观看了Classy Kati的夏季宣传照，并依次汇报了品牌态度( $\mathrm { 1 = }$ “非常差/非常不喜欢/非常负面”， $\ 7 =$ “非常好/非常喜欢/非常积极”； $\scriptstyle { a = 0 . 9 4 } )$ ）品牌选择（“如果我需要购买女装，我对ClassyKatti会是”， $1 { = }$ 选择， $2 { = }$ 拒绝， $3 { = }$ 不确定)自我一品牌联结( $1 =$ “我感觉与ClassyKatti 很疏远/ClassyKatti与我非常不接近”， $\ 7 =$ “我感觉与Classy Katti 很亲密/Classy Katti与我非常接近”； $\scriptstyle { r = 0 . 8 5 }$ ， $p { < } 0 . 0 0 1$ ；Park, Eisingerich,&Park,2013)。为了排除代言人和品牌的可能影响，被试评价了对ClassyKati的熟悉程度（ $1 =$ “非常陌生”， $\ 7 =$ “非常熟悉”)和知名程度( $1 =$ “非常不知名”， $\ 7 =$ “非常知名”)以及对代言人的喜爱程度( $1 =$ “非常不喜欢”， $\ 7 =$ “非常喜欢”)和知名程度( $1 =$ “非常不知名”，$\scriptstyle 7 =$ “非常知名”），以及代言人和品牌的形象匹配程度( $1 =$ “非常不匹配”， $\ 7 =$ “非常匹配”）。实验结束后，被试回忆了广告中有几位女性，然后报告了人口基本信息且猜测实验目的。
+
+# 3.4实验结果
+
+操纵检验。所有被试都未猜出本实验目的。在剔除7位未通过注意力问项的被试数据后，得到201份有效数据，被试的平均年龄为22.67岁 $( S D { = } 2 . 7 7 )$ 。作为品牌代言人数的操纵检验，三人代言组中有 $9 6 . 4 2 \% ( 5 4 / 5 6 )$ 被试回忆正确，一人代言组中有 $9 7 . 2 4 \% ( 1 4 1 / 1 4 5 )$ 被试回忆正确两组被试的回忆准确率无显著差异 $( \chi ^ { 2 } ( 1 ) ^ { = } 0 . 0 9 , p { = } 0 . 7 6 1 )$ 。该结果既表明品牌代言人数的操纵成功，也说明两组被试的涉入度无差异。
+
+主效应。以品牌态度为因变量，单因素方差分析的结果发现品牌代言人数的主效应显著（204号 $( F ( 3 , \ 1 9 7 ) = 3 . 3 9$ ， $_ { p = 0 . 0 1 9 }$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } { = } 0 . 0 5 )$ 。组间对比显示，品牌三人代言组的被试 $( M \equiv \wedge$ $\scriptstyle = 4 . 4 9$ ， $S D { = } 1 . 5 3 \$ )对Classy Katti品牌的评价均显著低于品牌一人A代言组 $( M - \Lambda$ $_ { \mathrm { A } } { = } 5 . 0 9$ ， $S D { = } 1 . 1 3$ ； $F ( 1 , \ 1 9 7 ) { = } 5 . 0 8$ ， $\scriptstyle { p = 0 . 0 2 6 }$ ， $\mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } \mathrm { = } 0 . 0 5 )$ 、品牌一人B代言组 $( M - \lambda$ $_ \mathrm { B } { = } 5 . 1 1$ ， $S D { = } 1 . 1 7$ ； $F ( 1 , \ 1 9 7 ) { = } 5 . 0 0$ ， $\scriptstyle { p = 0 . 0 2 8 }$ ， $\mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } \mathrm { = } 0 . 0 5 )$ 和品牌一人C代言组 $( M - \lambda$ $\mathrm { c } ^ { = 5 . 2 1 }$ ， $S D { = } 1 . 2 5$ ; $F ( 1 , 1 9 7 ) { = } 6 . 6 3$ ， $\scriptstyle { p = 0 . 0 1 1 }$ ， ${ \boldsymbol \eta _ { \mathrm { p } } } ^ { 2 } \mathrm { = } 0 . 0 6 )$ ，且三个品牌单人代言组之间无显著差异 ${ \mathrm { \overleftarrow } } F { \mathrm { \bf s } } { \mathrm { < } } 0 . 2 6$ ， $p s { > } 0 . 6 0 7 )$ 。该结果表明，品牌单人代言对消费者品牌态度的影响显著高于品牌多人代言，假设1得到支持。
+
+对于品牌选择( $1 =$ 选择， $2 =$ 拒绝， $3 \mathrm { = }$ 不确定)，一人代言组 $( 6 1 . 3 8 \%$ 选择， $1 1 . 7 2 \%$ 拒绝，$2 6 . 9 0 \%$ 不确定)与三人代言组 $4 2 . 8 6 \%$ 选择， $12 . 5 \%$ 拒绝， $44 . 6 4 \%$ 不确定)的概率分布呈显著差异$( \chi ^ { 2 } ( 2 ) ^ { = } 6 . 4 8 , p { = } 0 . 0 3 9 )$ 。将品牌选择重新编码为类似于连续变量的分值( $3 \mathrm { = }$ 选择， $2 { = }$ 不确定， $1 =$ 拒绝)，独立样本t检验表明一人代言组的得分边缘显著性高于三人代言组 $( t ( 1 9 9 ) { = } 1 . 7 7$ $\scriptstyle { p = 0 . 0 7 9 } )$ 。该结果从品牌选择的角度再次支持了假设1。
+
+中介分析。接下来，本研究采用Preacher 和Hayes(2008)的中介分析模型(Model4，Bootstrapping1000次)，对假设2提出的自我一品牌联结的中介作用进行了检验，如图2所示。将品牌代言人数转为虚拟变量( $- 1 =$ 三人， $1 { = } \cdot$ 一人)，结果发现，自我一品牌联结在品牌代言人数(单人vs.多人)对品牌态度的影响中的中介路径显著(非直接路径效应 $= 0 . 2 6$ $S E { = } 0 . 0 8$ ， $9 5 \%$ CI: [0.1034,0.4179])，支持假设2。
+
+![](images/3b620ee70ee1eb3aae5c02fd8fe4166d4f4c7ae3ded93ca4670f3003410dbd09.jpg)  
+图2Bootstrapping 中介分析1
+
+控制因素。四组被试的品牌熟悉度、品牌知名度、代言人喜爱程度、代言人知名度均无显著差异 $( F \mathrm { { s } } { < } 1 . 4 4 \$ ， $p { > } 0 . 2 3 1 )$ ，四组被试认为代言人和品牌的匹配程度也无差异 $( F ( 3 ,$
+
+稿件编号：xb19-058
+
+197) $\scriptstyle 1 = 0 . 3 3$ ， $\scriptstyle { p = 0 . 8 0 4 }$ ， $\mathfrak { n } _ { \mathfrak { p } } ^ { 2 } { = } 0 . 0 1 \mathfrak { r }$ ，将这五个控制变量作为协变量也不会改变品牌代言人数对品牌态度的主效应结果 $( F ( 3 , 1 9 2 ) = 8 . 2 1$ ， $p { < } 0 . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } { = } 0 . 1 1 )$ 。
+
+实验小结。实验一验证了假设1和假设2，即消费者面对一位品牌代言人比面对多位品牌代言人产生的自我一品牌联结更高，从而带来更强的品牌态度。然而，实验一有所不足：第一，代言人和被试仅限女性；第二，虽然我们排除了一位品牌代言人的个体差异的影响，但是未排除多位品牌代言人可能带来的感知多样性的作用。因此，实验二将一方面弥补以上两点不足，改善实验设计，另一方面通过操作先验自我一品牌联结，进一步证实品牌代言人数效应的内部机制。
+
+# 4实验二
+
+# 4.1实验设计
+
+实验二的目的在于通过测量被试的先验自我一品牌联结，即消费者与品牌已有的联结状态，试图采用调节的方法再次验证自我一品牌联结的中介作用，并排除其他可能的替代性解释。实验二在设计上主要包括以下改动：(1)与实验一不同，实验二采用的多人代言广告为多位代言人在不同广告出现；(2)实验材料同时包括男女品牌代言人，具体见图3；(3)被试包括男性和女性；(4)单人代言组中重复呈现同一位代言人广告四次，而多人代言组中呈现不同代言人广告四次，从而抵消重复暴露效应；(5)采用真实品牌 Baume&Mercier'。因此，实验二为单因素5水平(品牌代言人数：单女Avs.单女Bvs.单男Avs.单男Bvs.四人)被试间设计，249名在校本科生参与本次实验。选择G\*Power 3.1的单因素方差分析，当组数为5、效应量(f)为0.4、显著性水平为0.05时，样本量为249的p0wer值为0.99，超过基本水平0.80。
+
+![](images/5b1975eb8f4fe21131d2227ba0e051049ca3bcea9e6f608f5621cfe0294e3eb7.jpg)  
+图3实验二实验材料
+
+# 4.2实验流程
+
+被试被告知参与一个“手表广告评价调查”的实验中，随后被随机分配到5个实验组中，流程如图4。所有被试首先阅读一段Baume＆Mercier的品牌介绍，介绍页呈现时间为10秒，并被要求随后观看几张产品宣传照。在四个单人代言组中，被试观看四张相同的广告；在四人代言组中，被试观看四张不同的广告。广告呈现时间限定为3秒，每个广告之间暂停1秒，并文字提示下一页继续观看 Baume＆Mercier广告。然后，被试对品牌态度、先验自我一品牌联结进行了评价。品牌态度测量问项与实验一相同 $( \scriptstyle { a = 0 . 9 2 } )$ ；由于自我一品牌联结反应了自我在品牌中的彰显程度("me-ness in the brand"；Park et al.,2013)，所以先验自我—品牌联结测量采用 Aron 等(1992)提出的自我与他人包含程度量表(Inclusion of Other in the Self)。接着，被试回答是否认识代言人(如果认识并填写代言人名字)、对代言人的熟悉程度( $1 =$ “非常陌生”，$\ 7 =$ “非常熟悉”），以及对Baume&Mercier产品的感知多样化( $1 =$ “非常单一”， $\ 7 =$ “非常多样”)和感知质量( $\mathrm { 1 = }$ “非常差”， $\ 7 =$ “非常好”）。实验结束后，被试汇报了人口基本信息，并被询问了实验目的。
+
+![](images/f4628d8ea3d418ee4c14e5dc7333dee9eef96ed841c14e534d5372d53642c972.jpg)  
+图4实验二流程示意图
+
+# 4.3实验结果
+
+主效应。首先，没有被试猜出实验的直接目的。然后剔除4位未通过注意力问项的被试数据，剩下245份有效数据 $62 \%$ 女性)，平均年龄为21.29 岁 $( S D { = } 2 . 6 1 )$ 。以品牌态度为因变量的单因素方差分析显示，品牌代言人数的主效应显著 $( F ( 4 , 2 4 0 ) { = } 3 . 5 4 \$ ， $\scriptstyle { p = 0 . 0 0 8 }$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } \mathrm { = } 0 . 0 6 )$ 。具体而言，相比于四人代言 $( M _ { \mathrm { ~ \tiny ~ \mathscr ~ { ~ \mathscr ~ } ~ \wedge ~ } } = 3 . 9 5$ ， $S D { = } 1 . 5 7 \rangle$ ，单女A( $M$ 单女 $_ \mathrm { A } { = } 4 . 9 6$ ， $S D { = } 1 . 0 0$ ； $F ( 1 ,$ （204号240)=13.45， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } \mathrm { = } 0 . 1 3 )$ 、单女B(M单女 $\scriptstyle \mathrm { \mathtt { B } } ^ { = 4 . 6 7 }$ ， $S D { = } 1 . 4 7$ ； $F ( 1 ,$ （204号$2 4 0 ) { = } 5 . 3 3$ ， $\scriptstyle { p = 0 . 0 2 3 }$ ， $\mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } \mathrm { = } 0 . 0 5 )$ 、单男A(M单男 $_ \mathrm { \ A } { = } 4 . 5 6$ ， $S D { = } 1 . 0 9$ ； $F ( 1 ,$
+
+240) $\scriptstyle = 4 . 8 6$ ， $\scriptstyle { p = 0 . 0 3 0 }$ ， $\mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } \mathrm { = } 0 . 0 5 )$ 、单男B(M单男 $\mathrm { \Phi } _ { \mathrm { B } } { = } 4 . 8 0$ ， $S D { = } 1 . 6 7$ ；F(1, $2 4 0 ) { = } 6 . 8 1$ ， $\scriptstyle { p = 0 . 0 1 0 }$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } { = } 0 . 0 7 )$ 代言宣传引起的品牌态度均更高。
+
+调节分析。为了检验先验自我—品牌联结的调节作用，我们将品牌代言人数(单人vs.四人)编码为虚拟变量(单人代言 $\scriptstyle - 1$ ，四人代言 ${ \boldsymbol { \mathbf { \mathit { \sigma } } } } = 2 { \boldsymbol { \mathbf { \mathit { \varepsilon } } } }$ )。以品牌态度为因变量，品牌代言人数、先验自我一品牌联结以及两者的交互项为自变量的回归分析显示：模型显著！ $( \mathrm { R } ^ { 2 } { = } 0 . 1 9$ ， $F ( 3 ,$ （204号241) $\scriptstyle 1 = 1 8 . 9 4$ ， $p { < } 0 . 0 0 1 )$ ，品牌代言人数 $( \beta \mathrm { - } 2 . 5 2 , t \mathrm { - } 5 . 5 2 , p \mathrm { < } 0 . 0 0 1 )$ 、先验自我一品牌联结 $( \beta = .$ $0 . 4 0 , t ^ { - - 2 . 6 9 , p = 0 . 0 0 8 ) }$ 及两者交互作用 $( \beta { = } 0 . 5 2 , t { = } 4 . 4 5 , p { < } 0 . 0 0 1 )$ 均显著，见图5。我们使用简单斜率分析(simple slope analysis)，进一步检验在不同的先验自我一品牌联结水平 $( \mathrm { M e a n } \pm 1 \ S D )$ 下代言者人数的作用差异：对于高先验自我一品牌联结 $( M { = } 5 . 4 4 )$ 的被试，单人代言与四人代言产生的品牌态度无显著差异 $( \beta { = } 0 . 2 8 , t { = } 0 . 2 6 , p { = } 0 . 7 9 8 )$ ；而对于低先验自我一品牌联结 $( M { = } 1 . 8 4 )$ 的被试，单人代言比四人代言的品牌态度更高 $( \beta = - 1 . 5 7 , t = - 2 . 3 1 , p = 0 . 0 2 2 )$ 。以上结果说明，品牌代言人效应仅发生在消费者与品牌的已有情感联结较低的情况。
+
+![](images/c0a95379a63c699d8ab4767d8806e58047cf89d15f76b557872697d2be1ed798.jpg)  
+图5品牌代言人数与先验自我一品牌联结的交互作用
+
+替代性解释和控制因素。品牌代言人数对感知质量的主效应不显著 $( F ( 1 ,$ $2 4 0 ) { = } 1 . 0 6$ ， $\scriptstyle { p = 0 . 3 7 6 }$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } { = } 0 . 0 2 )$ ，但对感知产品多样性存在边缘性显著差异 $( F ( 1 ,$ $2 4 0 ) { = } 2 . 1 8$ ， $\scriptstyle { p = 0 . 0 7 2 }$ ， ${ \mathfrak { n } } _ { \mathfrak { p } } ^ { ~ 2 } { = } 0 . 0 4 )$ ，且四人代言广告比另外四个单人代言广告的感知产品多样性均更高 $( F \mathrm { s } { > } 2 . 8 1 , p { < } 0 . 0 9 7 )$ 。但是，感知产品多样性并不中介代言人数( $1 { = }$ 单人代言， $2 { = }$ 多人代言)对品牌态度的影响(非直接路径效应 $\scriptstyle \mathtt { . - 0 . 0 2 }$ 0 $S E { = } 0 . 0 6$ 0 $9 5 \%$ CI: [-0.0278,0.2926])；将感知多样性作为协变量进行以品牌态度为因变量的单因素协方差分析，效应结果未发生改变 $( F ( 4 ,$ $2 3 9 ) { = } 4 . 4 4$ ， $\scriptstyle { p = 0 . 0 0 2 }$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } { = } 0 . 0 7 )$ 。并且，五组被试对代言人的熟悉程度无显著性差异，也不对结果造成影响。此外，四个单人代言组之间的品牌态度无显著差异 $( p \mathbf { s } { > } 0 . 1 1 )$ ，不同代言人性别也不会引起品牌态度的差异 $( t ( 1 9 8 ) = 0 . 6 3 , p = 0 . 5 3 2 )$ ，被试性别与代言人性别的交互作用也不显著 $( F ( 1 , 1 9 6 ) { = } 0 . 7 0 , p { = } 0 . 4 0 4 )$
+
+实验小结。实验二既重复验证了单人代言比多人代言的优势，还弥补了实验一在样本选择、实验材料和实验设计方面的不足。此外，实验测量了被试的先验自我一品牌联结，分析其调节品牌代言人数的作用——即当先验自我—品牌联结高时，品牌代言人数效应消失。该结果表明了自我一品牌联结在品牌代言人数效应中的关键作用，进一步佐证了自我一品牌联结的解释机制。
+
+# 5实验三
+
+# 5.1实验设计
+
+实验三旨在分析品牌代言人数效应成立的前提条件，即仅针对于身份象征型，一人代言比多人代言更有效。本实验采用真实品牌(比速汽车)和真实代言人(一位代言人：黄晓明；三位代言人：黄晓明、许巍、吉克隽逸)；其中身份象征型广告词为“至尊所行，唯有比速”，非身份象征型广告词为“随性所行，唯有比速”。实验材料见图6所示。该实验为2(品牌代言人数：单人vs.多人） $\scriptstyle 1 \times 2 ($ 产品类型：身份象征型vs.非身份象征型)组间因子设计161名在校本科生参与本次实验。选择G\*Power3.1的双因素方差分析，当组数为4、自由度为1、效应量(j)为0.25、显著性水平为0.05时，样本量为161的power值为0.88，超过基本水平0.80。
+
+![](images/29f1f09db9a49b1c1b6688e4c6993639af46d58f80492f797066c7368dbf7e27.jpg)  
+图6实验三实验材料
+
+# 5.2实验流程
+
+被试被随机分配到4个实验组中，观看一则比速汽车广告。然后被试评价品牌态度$( \alpha { = } 0 . 9 1 )$ 和自我一品牌联结 $( r = 0 . 5 7 , p { < } 0 . 0 0 1 )$ ，测量问项与实验一一致。为了检验操纵是否成功，被试回答了产品的身份象征感知（“比速汽车能象征消费者的身份”； $1 =$ “非常不同意”，
+
+$\ 7 =$ “非常同意”)。并且，为了控制被试对真实品牌和真实代言人偏好的差异，本实验测量了被试对品牌的熟悉程度( $1 =$ “非常不熟悉”， $\ 7 =$ “非常熟悉”)和对代言人的喜爱程度( $1 =$ “非常不喜欢”， $\ 7 =$ “非常喜欢”）。被试最后汇报了人口统计学信息并猜测了实验目的。
+
+# 5.3实验结果
+
+操纵检验。所有被试都没猜出实验目的。3名被试未通过注意力问项，其数据在后续分析中被删去，剩下158份有效数据 $( 5 8 . 2 2 \%$ 女性)，平均年龄为20.91岁 $( S D { = } 3 . 4 0 )$ 。以身份象征感知为因变量的2(产品类型：身份象征型vs.非身份象征型)t检验表明，被试认为“至尊所行，唯有比速”广告 $( M { = } 4 . 5 4$ ， $S D { = } 1 . 2 8 )$ 的身份象征感知比“随性所行，唯有比速”广告$( M { = } 3 . 7 1$ ， $S D { = } 0 . 9 6 \ )$ 更高 $( t ( 1 5 6 ) { = } 4 . 6 1$ ， $p { < } 0 . 0 0 1 \dot { } \$ )。并且，2(品牌代言人数） $) \times 2 ($ 产品类型)对身份象征感知的双因素方差仅表明了产品类型的主效应显著 $( F ( 1 , 1 5 4 ) { = } 2 1 . 0 6$ ， $p { < } 0 . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } { = } 0 . 1 2 )$ ，品牌代言人数 $( F ( 1 , 1 5 4 ) { < } 1$ ， $p { = } 0 . 5 7 )$ 及其两者交互作用 $( F ( 1 , 1 5 4 ) { < } 1$ ， $\scriptstyle { p = 0 . 6 8 } )$ 都不显著，由此说明自变量(品牌代言人数)不会对调节变量(身份象征型产品)造成影响。以上分析产品类型的实验操纵成功。
+
+主效应。品牌态度作为因变量，2(品牌代言人数) $^ { 1 \times 2 ( }$ 产品类型)的双因素方差分析显示：品牌代言人数的主效应 $( F ( 1 , \ 1 5 4 ) = 5 . 9 9$ ， $_ { p = 0 . 0 1 6 }$ ， ${ \mathfrak { n } } _ { \mathfrak { p } } ^ { ~ 2 } { = } 0 . 0 4 )$ 和两者的交互作用 $( F ( 1 ,$ $1 5 4 ) { = } 4 . 2 4$ ， $\scriptstyle { p = 0 . 0 4 1 }$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } { = } 0 . 0 3 )$ 均显著，产品类型的主效应不显著 $( F ( 1 , 1 5 4 ) { < } 1$ ， $_ { p = 0 . 5 5 ) }$ 。进一步的组间对比表明，对于身份象征型广告，一人代言比三人代言的品牌态度更高( $\mathbf { \bar { \xi } } M$ 身份象征-单人$\mathtt { \Pi } = 4 . 6 5$ ， $S D { = } 1 . 0 7$ VS. $M$ 身份象征-三人 $_ { , = 3 . 8 8 }$ ， $S D { = } 1 . 2 4$ ； $F ( 1 , 1 5 4 ) { = } 8 . 7 2$ ， $\scriptstyle { p = 0 . 0 0 4 }$ ， ${ \mathfrak { n } } _ { \mathfrak { p } } ^ { ~ 2 } { = } 0 . 1 0 )$ ，而对于非身份象征型广告，一人代言与三人代言之间无显著差异 $M$ 非身份象征-单 $\scriptstyle 1 = 4 . 4 0$ ， $S D { = } 0 . 8 4$ vs. $M$ 非身份象征-三 $\scriptstyle \lambda = 4 . 3 3$ ， $S D { = } 1 . 1 3$ ； $F ( 1 , 1 5 4 ) { \ < } 1$ ， $\scriptstyle { p = 0 . 7 7 }$ ）
+
+中介分析。将品牌代言人数( $0 = \cdot$ 一人， $1 { = }$ 三人)和产品类型( $0 =$ 非身份象征型， $1 =$ 身份象征型)标记为虚拟变量，被调节的中介分析模型(Model 8,Bootstrapping 1000 次；Preacher &Hayes,2008)的结果表明自我一品牌联结的间接效应显著(非直接路径效应 $\scriptstyle : = - 0 . 5 7$ ${ \cal S } E { = } 0 . 2 9$ $9 5 \%$ $C I \colon [ - 1 . 1 5 1 9 , - 0 . 0 4 5 9 ] )$ 。当产品为非身份象征型时，自我一品牌联结的中介作用不显著(非直接路径效应 $\scriptstyle : = 0 . 0 3$ $S E { = } 0 . 1 8$ $9 5 \%$ CI:[-0.3643,0.3360])；而当产品为身份象征型，自我—品牌联结的中介作用显著(非直接路径效应 $= - 0 . 5 5$ ${ S E = } 0 . 2 3$ ， $9 5 \%$ CI:[-0.9845,-0.1223])。该结果进一步说明，身份象征产品能让消费者与产品建立情感联结，是品牌代言人数发挥作用的基础条件。最后，2(品牌代言人数 $\scriptstyle 1 \times 2 ($ 产品类型)对品牌熟悉度和代言人喜爱度均无任何效应（20 $( F \mathrm { s } { < } 1 . 3 0 \$ ， $p { > } 0 . 2 6 )$ ；将两个变量作为协变量，品牌态度作为因变量的2(品牌代言人数) $_ { 1 \times 2 0 }$ 产品类型)协方差分析仍存在效应(品牌代言人数主效应， $F ( 1 , 1 5 2 ) { = } 6 . 2 8$ ， $_ { p = 0 . 0 1 3 }$ ， $\mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } \mathrm { = } 0 . 0 4$ ；交互效应， $F ( 1 , 1 5 2 ) { = } 4 . 2 5$ ， $\scriptstyle { p = 0 . 0 4 1 }$ ， ${ \mathfrak { n } } _ { \mathfrak { p } } ^ { ~ 2 } { = } 0 . 0 3 )$ 。
+
+稿件编号：xb19-058
+
+实验小结。本实验探讨了品牌代言人数效应成立的前提条件，即一位品牌代言人比多位品牌代言人更有效的情况仅适用于身份象征型产品。消费者更容易与身份象征型产品建立情感联结，在这种情况下品牌单人代言(vs.品牌多人代言)带来的高自我一品牌联结更加凸显，对品牌态度的影响也更明显，假设3得到验证。由此，身份象征型产品的边界作用从侧面再次证实了自我一品牌联结的解释机制。
+
+# 6实验四
+
+# 6.1实验设计
+
+实验四目的在于：(1)检验多位代言人的团体因素在品牌代言人数效应中的作用；(2)与前两个实验使用代言人图片的方式不同，本实验采用文字的方式展现代言人人数。该实验为3(品牌代言：单人代言vs.团体型多人代言vs.非团体型多人代言)组间因子设计，103 名在校本科生参与本次实验。选择G\*Power3.1的单因素方差分析，当组数为3、效应量(j)为0.4、显著性水平为0.05时，样本量为102(102是最接近103的3的倍数)的p0wer值为0.95，超过基本水平0.80。
+
+# 6.2实验流程
+
+被试被随机分配到3个实验组中，首先观看一则华露洗发水的产品广告。接着，被试被告知品牌代言的相关信息。单人代言组和团体型多人代言组的被试均阅读到：“HERO是一个新兴说唱组合，由Hara、Edd、Rebecca、Osbom 组成，由一首《YES》成名曲获得 2018年年度新人组合奖。”接着，单人代言组被试被告知“近来，华露洗发水邀请HERO组合中的Hara担任其品牌代言人”；团体型多人代言组被试则被告知“近来，华露洗发水邀请HERO组合担任其品牌代言人”。非团体型多人代言则被告知“Hara、Edd、Rebecca、Osbom 是四名新兴的说唱歌手，四人均获得 2018年年度新人提名奖。近来，华露洗发水邀请四人共同担任其品牌代言人。”接着，被试对品牌态度 $( a { = } 0 . 9 3 )$ 、自我一品牌联结 $( r = 0 . 8 5 , p { < } 0 . 0 0 1 )$ 进行了评价。两个变量的测量与实验一一致。为了检验团体性，仅两个多人代言组的被试评价了其感知团体性0 $1 =$ “非常不像一个团体”， $\ 7 =$ “非常像一个团体”)。为了排除平均效应'的影响，本实验测量了被试对代言人的知名度的评价( $\mathrm { 1 = }$ “非常不知名”， $\scriptstyle 7 =$ “非常知名”）。最后，被试汇报了基本人口统计信息，并猜测了实验目的。
+
+# 6.3实验结果
+
+操纵检验。有1名被试提到实验可能与代言人的团体信息相关，7名被试未通过注意力问项，2名被试漏填问项(其中1名为拒绝汇报性别信息)，这些被试数据在后续分析中被删去，剩下93份有效数据 $4 6 . 2 4 \%$ 女性)，被试的平均年龄为19.59 岁 $( S D { = } 4 . 8 0 )$ 。首先，以感知团体性为因变量，2(团体型多人代言vs.非团体型多人代言)的单因素方差分析表明“HERO是一个新兴说唱组合”的介绍使得四位代言人更像一个团体( $\mathbf { \Psi } _ { M }$ 团体型多人 $\mathord { \cdot } ^ { = 4 . 5 5 }$ ， $S D { = } 1 . 4 1$ vs. $M$ 非团体型多人$\scriptstyle = 2 . 4 7$ ， $S D { = } 1 { . } 2 0$ ; $F ( 1 , 5 9 ) { = } 3 8 . 5 4 \$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { n } _ { \mathrm { p } } ^ { 2 } { = } 0 . 4 0 )$ ，实验材料操纵成功。
+
+主效应。然后，以3(品牌代言：单人代言vs.团体型多人代言vs.非团体型多人代言)为自变量、品牌态度为因变量的单因素方差分析结果表明主效应显著（ $F ( 2 ,$ $9 0 ) { = } 1 2 . 5 4$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { n } _ { \mathrm { p } } ^ { 2 } \mathrm { = } 0 . 2 2 ) \$ 。组间对比显示，品牌团体型多人代言( $M$ 团体型多人$_ { = 5 . 5 8 }$ ， $S D { = } 0 . 9 1 \rangle$ 引起的品牌态度得分高于品牌单人代言( $\mathbf { \Psi } _ { M }$ 非群体型多人 $\mathord { \langle } \mathord { - } 4 . 0 6$ ， $S D { = } 1 . 4 6 )$ （团体型多人vs.单人， $F ( 1 , 9 0 ) { = } 7 . 7 1 \$ ， $p { < } 0 . 0 1$ ， ${ \mathfrak { n } } _ { \mathfrak { p } } ^ { 2 } { = } 0 . 1 1 )$ 和品牌非团体型多人代言 $( M _ { ☉ } ) _ { \cdot } = 4 . 8 5$ ， $S D { = } 1 . 1 5$ （团体型多人vs.非团体型多人， $F ( 1 , 9 0 ) { = } 2 4 . 1 4$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } \mathrm { = } 0 . 2 9 )$ ，而品牌单人代言引起的品牌态度高于非团体型多人 $( F ( 1 , 9 0 ) { = } 5 . 8 0$ ， $\scriptstyle { p = 0 . 0 1 9 }$ ， ${ \boldsymbol \eta _ { \mathrm { p } } } ^ { 2 } { = } 0 . 0 9 )$ 。
+
+中介分析。由于自变量为三水平分类变量，我们将团体型多人代言组作为参照组(团体型多人代言组 $\scriptstyle = 0$ )，单人代言组和非团体型多人代言组为哑变量，采用Hayes 和Preacher(2014)的中介分析模型(Model4,Boostrapping 5000 次)验证自我一品牌联结的中介效应。结果发现，自我一品牌联结在两组中的间接效应显著(团体型多人代言组vs.单人代言组：非直接路径效应$= - 0 . 6 5$ ， $S E { = } 0 . 2 2$ ， $9 5 \%$ CI:[-1.1203,-0.2546]；团体型多人代言组vs.非团体型多人代言组：非直接路径效应 $\scriptstyle  = - 0 . 8 0$ 0 $S E { = } 0 . 2 4$ $9 5 \%$ CI:[-1.2915,-0.3615])，由此进一步证实了自我—品牌联结的中介作用。另外，代言人的整体感知知名度无显著差异 $( F ( 2 , 9 0 ) { = } 1 . 5 3$ ， $\scriptstyle { p = 0 . 2 2 ) }$ ，且不改变已有结果。
+
+实验小结。实验四一方面通过文字描述的方式再次验证了本研究结论，另一方面发现了代言人数效应的逆转情况—一当多位代言人为一个群体时，品牌多人代言比品牌单人代言更有效，假设4得到验证。原因在于人们倾向于保护一个群体的完整性，当完整性被破坏时(如群体中的一个人代言)，人们的评价会更低。
+
+# 7讨论
+
+本研究验证了品牌代言人数(一人vs.多人)因素对消费者品牌态度的影响，及其心理机制和边界条件。本研究共进行了四个层层递进的实验，通过更换企业背景、多人广告类型、代言人展示方式、代言人性别和被试性别等设计，揭示了品牌代言人数效应。本研究发现品牌单个代言人比品牌多个代言人引起的消费者品牌态度更高，消费者和品牌的自我一品牌联结是主要机制，该效应仅局限于身份象征型产品，且多位代言人的群体形象会逆转主效应。研究结论不仅丰富了现有理论文献，也为营销代言实践提供了有益参考。
+
+# 7.1理论意义
+
+首先，本研究关注到品牌代言人数(单人vs.多人)因素，既推进了品牌代言方面文献，也拓宽了人数研究的范畴。一方面，现有品牌代言研究集中于品牌单人代言情境(Bartz,Molchanov,& Stork,2013)，仅少量研究将视线投向品牌代言人数——即单个品牌有多个代言人的情况。本研究专注于品牌代言人数因素，试图拓宽学者们对于品牌代言有效性因素的考虑范围，从而启发未来研究在考察“企业如何邀请代言人”这一问题上，将“代言人数”作为重要的前因变量纳入理论框架的整体考虑中。另一方面，本研究将观察对象的数量(一人vs.多人)具体到品牌代言情境，推进了人数研究。在心理学领域，已有大量研究发现观察对象的数量(一人vs.多人)会系统性地影响人们对该对象的评价(Hamilton & Sherman,1996; Susskind et al.,1999)，进而衍生出一些著名的发现，如个人—群体断点(individual-group discontinuity)(Insko,Schopler,Hoyle,Dardis,& Al,1990; Schopler & Insko,1992)、可识别受害者效应(identifiable victim effect)(Small,Loewenstein,& Slovic,2007; Slovic,2007)。近年研究逐渐从具体研究背景扩充该类研究，如众筹(Galak et al.,2011)、送礼(Steffel& Le Boeuf,2014)和信息分享(Barasch & Berger,2014)。本研究顺应人数研究文献，补充研究背景和研究思路。
+
+其次，本研究探讨了品牌代言人数对消费者品牌态度的作用效应，进一步完善了品牌代言人数效应的已有结论。有限的几篇品牌代言人数研究(Rice etal.,2012;Handriana&Wisandiko,2017;Saleem,2007;Thomas,2015)存在结论不一致，本研究试图统一已有研究结论，指出产品类型(身份象征型vs.非身份象征型)和多位代言人的形式(团体vs.非团体)会直接影响一位品牌代言人还是多位品牌代言人更优。仅对于身份象征型产品，消费者对一位代言人会比对多位代言人品牌态度更高。并且，当多位代言人被介绍为一个团体时，多位代言人比一位代言人更能提升品牌态度。
+
+最后，本研究提出自我一品牌联结的解释机制，丰富了自我一品牌联结相关文献。消费者与品牌的关系一直是一个经典研究领域，如何强化品牌关系是学界和业界持续关注的问题。现有研究提出了自我一品牌联结的影响因素，主要包括消费者个体因素(如自我价值感)和社会影响因素(如代际沟通、分享方式)(Chaplin& John,2005;Shen& Sengupta,2018)。本研究从企业因素角度发现，品牌代言人数可以影响消费者的自我一品牌联结，且一位代言人比多位代言人更容易与消费者建立交流桥梁。可见，本研究结论拓宽了自我一品牌联结前因研究范畴。
+
+# 7.2实践启示
+
+本研究结论为企业有效实施品牌代言人战略提供了实践依据。首先，企业在进行品牌代言人战略前，应充分考虑代言人数因素，达到品牌收益最大化的目的。本研究结果表明，一般情况下企业选择一位品牌代言人优于多位品牌代言人，更能提升品牌态度。其原因在于，一位品牌代言人比多位品牌代言人更能提升消费者与品牌的情感联结，能为品牌定位战略提供切入点。其次，一位品牌代言人更优的情况仅适用于身份象征型产品，如手表、服饰、汽车等。诸多实践案例也表明，奢侈品牌倾向于采取品牌单人代言策略。例如，奢侈品牌迪奥(Dior)邀请杨颖作为其中国区代言人。此外，奢侈品牌也有邀请多位品牌代言人的情况，如劳力士(Rolex)品牌的代言人曾经一度高达42人。本研究结果显示，当多位品牌代言人被描述为一个团体时，品牌多人代言策略可以优于品牌单人代言策略。企业可以邀请一个团体，如游戏王者荣耀邀请五月天代言、游戏海岛奇兵邀请快乐家族(包括何炅、谢娜、李维嘉、吴昕和杜海涛五人)代言，或者将多位品牌代言人宣传为一个团体，如百事可乐将其代言人统称为“百事家族”，甚至可以通过外部线索将多位品牌代言人“包装”为一个整体，如劳力士邀请的42位品牌代言人均为运动员、德芙巧克力在广告中将代言人杨颖和李易峰“组CP”}。因此，当企业拟邀请多位名人作为品牌代言人时，应考虑多位品牌代言人之间的匹配性。总体来讲，企业应全面分析产品特性和目标人群(如高身份需求型消费者)，针对性地考虑品牌代言人。
+
+# 7.3研究局限与展望
+
+本研究也存在一定的局限性，有待后续研究的进一步完善与探讨。第一，本研究聚焦的品牌代言人均为真实名人，未涉及到虚拟品牌代言人情况，如M&M豆的黄豆子和红豆子。由于品牌代言人数效应的关键机制——自我—品牌联结是一种人际关系，因此品牌代言人数效应能否同样适用到虚拟品牌代言人情境，还有待于进一步探究。第二，实验2中发现代言人数对感知多样性有一定作用，未来研究可以进一步探讨代言人数对产品感知多样性的影响。第三，实验4仅对比了具有团体身份的单人代言和团体型多人代言的差异，未来研究可以直接测量单人代言和团体型多人代言的区别效应。第四，本研究旨在揭示品牌代言人数对消费者品牌态度的作用，而已有研究表明品牌代言会影响到消费者对代言人的感知和评价(Ilicic＆Webster,2013)。那么品牌代言人数会影响消费者对代言人的感知身份吗？会影响消费者对代言人其他代言广告的评价吗？这些有趣问题有待于未来研究关注。最后，本研究聚焦于揭示品牌代言人数因素的主效应，仅提出了产品类型和多位代言人形式的边界条件，然而品牌代言情境的其他诸多因素对本研究结果可能造成影响。在此，本研究对群体因素的可能作用做出展望，希望为后续研究起到启发作用。我们推测以下两类群体因素可能影响品牌代言人数效应。其一，对于具有集体标签的群体型产品，此时多位代言人与品牌的形象更一致，由此多人代言可能比一人代言更优。其二，当环境形成明显的群体压力和社会规范时，多人代言象征的社会舆论可能会促进消费者的偏好。未来研究可以针对这两类因素对品牌代言人数效应进行拓展。除此之外，品牌关系类型(如交换型关系vs.伙伴型关系)、消费者价值观(独立型vs.互依型)等都可能对品牌代言人数效应造成一定影响，未来研究可以探讨这些因素和品牌代言人数的交互作用。
+
+# 参考文献
+
+Aron,A., Aron, E.N.,& Smolan, D.(1992). Inclusion of other in the self scale and the structure of interpersonal closeness. Journal of Personality and Social Psychology, 63(4), 596-612.   
+Barasch,A.& Berger, J. (2O14). Broadcasting and narrowcasting: How audience size affects what people share. Journal of Marketing Research,51(3), 286-299.   
+Bartz, S., Molchanov,A.,& Stork, P.A. (2013). When a celebrity endorser is disgraced: A twentyfive-year event study. Marketing Letters, 24(2),131-141.   
+Chaplin,L.& John,D.R. (2Oo5). The development of self-brand connections in children and adolescents. Journal of Consumer Research, 32(1),119-129.   
+Chen,A. C.H., Chang,R. Y. H., Besherat, A.,& Baack, D.W. (2013). Who benefits from multiple brand celebrity endorsements? An experimental investigation. Psychology & Marketing, 30(10), 850-860.   
+Cheng,S. Y. Y.， White,T. B.，& Lan, N. C. (2012). The effects of self-brand connections on responses to brand failure: A new look at the consumer-brand relationship. Journal of Consumer Psychology, 22(2),280-288.   
+Choi, S. M. & Rifon, N. J. (2012). It is a match: The impact of congruence between celebrity image and consumer ideal self on endorsement effectiveness. Psychology & Marketing,29(9), 639-650.   
+Critcher, C.R.& Dunning,D. (2013). Predicting persons’ versus a person's goodness: Behavioral forecasts diverge for individuals versus populations. Journal of Personality and Social Psychology, 104(1),28-44.   
+Critcher, C.R.& Dunning,D. (2014). Thinking about others versus another: Three reasons judgments about collctives and individuals differ. Social and Personality Psychology Compass,8(12), 687-698.   
+Cunha,M.,Forehand,M.R.,& Angle, J. W. (2015). Riding coatails: When co-branding helps versus hurts less-known brands. Journal of Consumer Research, 41(5),1284-1300.   
+Elberse，A.& Verleun, J. (2012). The economic value of celebrity endorsements. Journal of Advertising Research, 52(2), 149-165.   
+Escalas,J. E. (2oo4). Narrative processing: Building consumer connections to brands. Journal of Consumer Psychology,14,168-179.   
+Escalas,J. E.& Bettman, J. R. (2017). Connecting with celebrities: How consumers appropriate celebrity meanings for a sense of belonging. Journal of Advertising, 46(2), 297-308.   
+Evers,E.R., Inbar, Y.,& Zeelenberg M. (2014). Set-fit effects in choice. Journal of Experimental Psychology: General, 143(2), 504-509   
+Faul,F., Erdfelder, E., Buchner, A.,& Lang,A. G. (2oo9). Statistical power analyses using $\mathbf { G } ^ { * }$ Power 3.1: Tests for correlation and regression analyses. Behavior Research Methods,41(4),1149- 1160.   
+Galak, J., Small, D. A., & Stephen, A. T. (2011). Micro-finance decision making: A field study of prosocial lending. Journal of Marketing Research, 48(Special Issue), S130-S137.   
+Gao,H.，Winterich,K. P.，& Zhang,Y. (2016).All that gliters is not gold: How others’ status influences the effect of power distance belief on status consumption. Journal of Consumer Reserach, 43(2),265-281.   
+Handriana, T.& Wisandiko, W. R. (2O17). Consumer atitudes toward advertisement and brand, based on the number of endorsers and product involvement: An experimental study. Gadjah Mada International Journal of Business, 19(3),289-306.   
+Hamilton, D. L. & Sherman, S. J. (1996). Perceiving persons and groups. Psychological Review, 103(2), 336-355.   
+Halevy,N., Chou, E.Y., Cohen, T.R.,& Livingston, R. W. (2011). Status conferral in intergroup social dilemmas: Behavioral antecedents and consequences of prestige and dominance. Journal of Personality & Social Psychology， 102(2), 351-366.   
+Hayes，A. F.& Preacher，K. J. (2014). Statistical mediation analysis with a multicategorical independent variable. British Journal of Mathematical and Statistical Psychology， 67(3), 451- 470.   
+Hsu, C. K.,& McDonald, D. (2002). An examination on multiple celebrity endorsers in advertising. Journal of Product & Brand Management, 11(1),19-29.   
+Huang,M.， Yao，S.，& Liu，M. (2018). Self-enhancing or self-deprecating: How can celebrity endorsement enhance the marketing efectiveness of advertisements in social media. Acta Psychologica Sinica, 50(8), 907-919.   
+[黄敏学,姚舜禹,刘茂红.(2018).自强还是自嘲?名人代言如何提升社会化媒体广告的营销效果. 心理学报,50(8),907-919.]   
+Huber，F.，Meyer，F.，Vogel， J.，Weihrauch，A.，& Hamprecht， J. (2013). Endorser age and stereotypes: Consequences on brand age. Journal of Business Research, 66, 207-215.   
+Ilicic,J. & Webster, C. M. (2013). Celebrity co-branding partners as irrelevant brand information in advertisements. Journal of Business Research, 66(7),941-947.   
+Insko, C.A., Schopler,J., Hoyle,R. H., Dardis, G. J.,& Al,E..(1990). Individual-group discontinuity as a function of fear and greed. Journal of Personality and Social Psychology, 58(1), 68-79.   
+Iyengar, S.， Jackman, S.， Messing， S.,， Valentino, N.， Aalberg, T.,，Duch，R.，...& Kobayashi， T. (2013). Do attitudes about immigration predict willingness to admit individual immigrants? A cross-national test of the person-positivity bias. Public Opinion Quarterly, 77(3), 641-665.   
+Janiszewski, C. (1993). Preattntive mere exposure effects. Journal of Consumer Research,20(3), 376-392.   
+Kohler, W. (1970). Gestalt Psychology: An Introduction to New Concepts in Modern Psychology. New York: Liveright Publishing Corporation.   
+Lafferty,B.A., Goldsmith,R.E.,& Newel, S.J. (2002). The dual credibility model: The influence of corporate and endorser credibility on attudes and purchase intentions. Journal of Marketing Theory & Practice, 10(3), 1-12.   
+Louie,T.A.& Obermiler，C. (2002). Consumer response to a firm's endorser (dis)association decisions. Journal of Advertising, 31(4), 41-52.   
+McCracken, G. (1989). Who is the celebrity endorser? Cultural foundations of the endorsement process. Journal of Consumer Research, 16(3), 310-321.   
+Miller,F. M.& Alen, C.T. (2012). How does celebrity meaning transfer? Investigating the process of meaning transfer with celebrity affiliates and mature brands. Journal of Consumer Psychology, 22(3), 443-452.   
+Mishra,H.， Mishra,A.,& Nayakankuppam, D. (20o6). Money: A bias for the whole. Journal of Consumer Research, 32(4), 541-549.   
+Newheiser,A. K., Sawaoka, T.,& Dovidio, J.F. (2012). Why do we punish groups? High entitativity promotes moral suspicion. Journal of Experimental Social Psychology, 48(4), 931-936.   
+Niculescu, M.， Payne, C.R.，& Krishnan，V. (2013). One-to-one and one-to-many relationship marketing: Toward a theoretical framework. Journal of Business-to-Business Marketing, 20(2), 51-64.   
+Otterbring,T.,Ringler, C., Sirianni, N.J.,& Gustagsson, A. (2018). The Abercrombie & Fitch effct: The impact of physical dominance on male customers’ status-signaling consumption. Journal of Marketing Research, 55(1), 69-79.   
+Packard, G., Moore, S. G., & McFerran, B. (2018). (Im) happy to help (you): The impact of personal pronoun use in customer-firm interactions. Journal of Marketing Research,55(4), 541-555.   
+Palmatier, R.W., Scheer,L. K., Houston, M.B., Evans, K.R.,& Gopalakrishna, S. (2007). Use of relationship marketingprogramsin building customer-salesperson and customer-firm relationships: Differential influences on financial outcomes. International Journal of Research in Marketing,24(3),210-223.   
+Park, C.W., Eisingerich,A. B.,& Park,J. W. (2013). Attachment-aversion (aa) model of customerbrand relationships. Journal of Consumer Psychology, 23(2), 229-248.
+
+稿件编号：xb19-058
+
+Park, C. W., Jaworski, B. J.,& Maclnnis, D.J. (1986). Strategic brand concept-image management. Journal of Marketing, 50(4),135-145.   
+Park, C. W., MacInnis,D.J.,Priester,J.,Eisingerich,A.B.,& Iacobucci,D. (2010). Brand attachment and brand attitude strength: Conceptual and empirical differentiation of two critical brand equity drivers. Journal of Marketing, 74, 1-17.   
+Petty,R. E., Cacioppo, J. T.,& Schumann, D. (1983). Central and peripheral routes to advertising effectiveness: The moderating role of involvement. Journal of Consumer Research, 10(2),135- 146.   
+Preacher, K. J. & Hayes，A. F. (2008). Asymptotic and resampling strategies for assesing and comparing indirect effects in multiple mediator models. Behavior Research Methods, 40(3), 879- 891.   
+Rice,D. H., Kelting, K., & Lutz, R. J. (2012). Multiple endorsers and multiple endorsements: The influence of message repetition, source congruence and involvement on brand attitudes. Journal of Consumer Psychology,22(2), 249-259.   
+Schopler, J.& Insko, C.A. (1992). The discontinuity effect in interpersonal and intergroup relations: generality and mediation. European Review of Social Psychology, 3(1), 121-151.   
+Sears,D. O. (1983). The person-positivity bias. Journal of Personality & Social Psychology， 44(2), 233-250.   
+Shaddy,F.& Fishbach,A. (2016). Seler beware: How bundling affects valuation. Journal of Marketing Research, 54(5), 737-751.   
+Shen,H. & Sengupta, J. (2018). Word of mouth versus word of mouse: Speaking about a brand connects you to it more than writing does. Journal of Consumer Research, 45(3),595-614.   
+Slovic,P. (2010). “If I look at the mass I will never act": Psychic numbingpsychic numbing and genocidegenocide. Social Science Electronic Publishing, 2(April), 79-95.   
+Small,D. A.， Loewenstein, G.，& Slovic, P. (2007). Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims. Organizational Behavior and Human Decision Processes,102(2), 143-153.   
+Spencer, S.J., Zanna, M.P.,& Fong, G.T. (2Oo5). Establishing a causal chain: Why experiments are often more effective than mediational analyses in examining psychological processes. Journal of Personality and Social Psychology, 89(6), 845-851.   
+Steffel,M.& Le Boeuf,R. A. (2014). Overindividuation in gift giving: Shopping for multiple recipients leads givers to choose unique but less preferred gifts. Journal of Consumer Research, 40(6), 1167-1180.   
+Susskind,J.，Maurer,K.，Thakkar，V.，Hamilton,D.L.，& Sherman,J.W.(1999).Perceiving individuals and groups: Expectancies, dispositional inferences, and causal atributions. Journal of Personality and Social Psychology, 76(2), 181-191.
+
+稿件编号：xb19-058
+
+Thomas,V.L.& Fowler, K.(2015). More isn't always better: Exploring the influence of familiarity when using multiple celebrity endorsers. Journal of Promotion Management, 21(2),208-223.   
+Um，N.(2008). Exploring the effects of single vs.multiple products and multiple celebrity endorsements.Journal ofManagement and Social Sciences, 4, 104-114.   
+van der Veen, R.& Song,H. (2O14). Impact of the perceived image of celebrity endorsers on tourists' intentions to visit. Journal of Travel Research, 53(2),211-224.   
+White,K.,Lin, L., Dahl, D. W.,& Ritchie,R.J. (2016). When do consumers avoid imperfections? Superficial packaging damage as a contamination cue. Journal of Marketing Research, 53(1), 110-123.   
+Willis，J. & Todorov,A. (2010). Making up your mind after a 100ms exposure to a face. Psychological Science, 17(7), 592-598.   
+Zhou,X., Kim, S.,& Wang, L. (2019). Money helps when money feels: Money anthropomorphism increases charitable giving. Journal of Consumer Research, 45(5), 953-972.
+
+# The magic of one person: The effect of the number of endorsers on brand attitude
+
+RAN Yaxuan '; LIU Jiani '; ZHANG Yishi ²; WEI Haiying ( School of Business Administration, Zhongnan UniversityofEconomicsand Law,Wuhan 43o073,China) 0 $^ 2$ School of Management,Wuhan University of Technology，Wuhan 43oo70,China) ( School of Management,Jinan University, Guangzhou 510632, China)
+
+# Abstract
+
+The use of celebrity endorsements in advertising is quietly pervasive. One brand can be endorsed by either one celebrity or multiple celebrities. Notably, it is more and more common nowadays that a single brand harnesses multiple celebrity endorsers in its advertisement to potentially attract more consumers. Literature on consumer psychology has mainly studied the context of a single celebrity endorsing a single brand，suggesting that source characteristics, such as familiarity， expertise, trustworthiness and attractiveness of the endorser, can affect consumer response and atitudes. A growing of recent studies have investigated the context of a single celebrity endorsing multiple brands, while surprisingly very few studies have examined whether one brand should be endorsed by either one person or multiple people. In the current research, we extend the extent literature by examining how consumer respond to celebrity advertising endorsed by either one person or multiple people.
+
+Consumers can build their relationship with a brand through the celebrity endorsers.In this vein, the number of endorsers (one celebrity versus multiple celebrities) can influence consumer attitudes via their felings of connecting with the brand. Based on the image transference perspective, the celebrity's traits could be transferred to the brand's perceived traits.Thus,when a brand is endorsed by one person (multiple people),this brand is perceived to hold one identity (multiple identities).
+
+According to person-positivity bias,we postulate that one endorser (versus multiple endorsers） can enhance consumers’connected feelings with the brand, then in turn increase consumers’positive brand atitude.And this effect is only constraint for status-signaling products.Although the main hypothesis seems straightforward, there are constraints on its applicability. If the associations between the number of endorsers and self-brand connection are atenuated,the effect of the number of endorsers on brand attitude should be suppressed. That is,when multiple endorsers look like a whole (e.g.,a team)， the main effect would be reversed, such that multiple endorsers with wholeness characteristics elicit higher brand attitude than one endorser.
+
+One pilot study and four studies were conducted to examine our hypotheses. Pilot study $( \mathrm { N } = 5 3 )$ ） examined that the basic hypothesis of trait transference,such that the brand endorsed by one person (multiple people) would be perceived to hold one identity (multiple identities). Experiment 1 $( \Nu =$ 199) investigated the main efect and the mediating role of self-brand connection. Experiment 2 $( \Nu =$ 245） used a moderation-of-process approach to further validate the mediation of self-brand connection. Experiment 3（ $\mathrm { ~  ~ N ~ } = \mathrm { ~  ~ 1 5 8 ~ }$ ） examined that the effect is constraint when the product is characterized as status-signaling,while targeting and eliminating possible alternative explanations. Experiment 4 $( \mathrm { N } = 9 2 ^ { \cdot }$ ） identified the moderating effect of when multiple endorsers look like a whole and provide replication of the main effect. To document a robust effect, we varied the context of advertising and the endorsers across four studies.
+
+Our investigation suggests that consumer facing a brand endorsed by one celebrity have greater brand atitude than those facing a brand endorsed by multiple celebrities.Specifically, compared to multiple endorsers,one endorser can enhance consumers’ feeling of connecting with the brand, which in turn increase brand attudes. For non-status-signaling products,the relative diference between one endorser and multiple endorsers would be attnuated. At the same time,there are qualifications on these effects.When multiple endorsers are a whole,the superior of one endorser would be reversed. These findings offer novel insights on endorsing, number of people,and self-brand connection, while suggesting that companies must carefully consider the number of celebrities in the wake of considering the appropriate endorsement.
+
+Key words brand endorsement； number of people; self-brand connection; image transference perspective; person-positivity bias

@@ -1,0 +1,177 @@
+# DOI:10.5846/stxb201604220758
+
+赵兰凤,张新明，程根,张丽娟,刘小锋,李华兴.生物炭对菜园土壤微生物功能多样性的影响.生态学报,2017,37（14);4754-4762.ZhaoLF,aXGagXictsoactoalesteabedecSinica,2017,37(14):4754-4762.
+
+# 生物炭对菜园土壤微生物功能多样性的影响
+
+赵兰凤1,张新明1，程 根¹,张丽娟²，刘小锋¹，李华兴1，\*
+
+1华南农业大学资源环境学院，广州510642  
+2环境保护部华南环境科学研究所健康中心，广州510655
+
+摘要：研究生物炭的施用及其与不同肥料混施对菜园土壤中微生物群落功能多样性的影响,为农业废弃物的合理利用和菜园土优化培肥提供科学依据和理论指导。以清远市连州县代表性菜园土（属肥熟旱耕人为土)为研究对象,通过盆栽试验,利用BIOLOG方法对10个施肥处理（对照CK( $0 \%$ 生物碳 $^ +$ 无肥） $\mathrm { T 1 }$ （ $0 \%$ 生物碳 $+ 0 . 1 \%$ 商品有机肥）T2( $0 . 1 \%$ 生物碳 $^ +$ 无肥） $\cdot ^ { \mathrm { T 3 } }$ （ $0 . 2 5 \%$ 生物碳 $^ +$ 无肥）、T4( $0 . 5 \%$ 生物碳 $^ +$ 无肥）、T5（ $1 \%$ 生物碳 $^ +$ 无肥）、T6 $( 1 0 0 ( \mathrm { ~ N ~ } ) + 3 0 ( \mathrm { ~ P ~ } _ { 2 } \mathrm { O } _ { 5 } ) + 7 5 ( \mathrm { ~ K ~ } _ { 2 } \mathrm { O } ) \mathrm { m g } / \mathrm { k g }$ 干土）、T7（ $0 . 1 \%$ 生物碳 $+ 0 . 1 \%$ 商品有机肥）、T8( $0 . 1 \%$ 生物碳 $+ 1 0 0 \left( \mathrm { ~ N ~ } \right) + 0 \left( \mathrm { ~ P ~ } _ { 2 } \mathrm { O } _ { 5 } \right) + 7 5 \left( \mathrm { ~ K } _ { 2 } \mathrm { O } \right) \mathrm { m g } / \mathrm { k g }$ 干土）、T9( $0 . 1 \%$ 生物碳 $+ 1 0 0 \big ( \mathrm { N } \big ) + 3 0$ $( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) + 7 5 ( \mathrm { K } _ { 2 } \mathrm { O } ) \mathrm { m g / k g }$ 干土）、T10( $0 . 1 \%$ 生物碳 $+ 0 . 1 \%$ 商品有机肥 $+ 1 0 0 ( \mathrm { ~ N ~ } ) + 0 ( \mathrm { ~ P } _ { 2 } \mathrm { O } _ { 5 } ) + 7 5 ( \mathrm { ~ K } _ { 2 } \mathrm { O } ) \mathrm { m g } / \mathrm { k g }$ 干土))的土壤微生物群落功能多样性进行分析。结果表明：(1)T1和T3 处理比其它处理显著提高土壤微生物对碳源的利用率( $( P < 0 . 0 5 )$ ,但生物炭施用量增加会降低平均颜色变化率(AWCD值）; $( 2 ) \mathrm { T } 1$ 处理可以显著提高土壤微生物的群落物种均匀度（Mclntosh 指数），而T3 处理显著提高土壤微生物的物种丰富度和均匀度(Shanon 和 Mclntosh指数);（3)T1和T3 处理对聚合物类、碳水化合物类、羧酸类、氨基酸类和酚类碳源利用率最高;(4)添加化肥处理中磷肥的施用可以提高土壤微生物活性,增加土壤微生物碳源利用能力,而氮肥和钾肥的添加显著降低了土壤微生物的碳源利用能力；(5)主成分分析表明， $^ { \mathrm { T 1 } , \mathrm { T 2 } }$ 和T3处理的微生物碳代谢功能群结构相似;单施有机肥或适量生物炭对土壤微生物群落结构的影响较混合施用更为显著;化学磷肥的添加及在施用化肥的基础上配施适量生物炭改变了土壤微生物对碳源种类的利用。
+
+关键词：菜园土；生物炭;微生物群落；功能多样性；Biolog 法
+
+# Effects of biochar on microbial functional diversity of vegetable garden soil
+
+ZHAO Lanfeng' ， ZHANG Xinming'，CHENG $\mathrm { G e n } ^ { 1 }$ ，ZHANG Lijuan²，LIU Xiaofeng'，LI Huaxing'
+
+1 Colege of Natural Resources and Environment，South China Agricultural University，Guangzhou 510642,China   
+2CenterforEotalelesechSoutinaiuteofEoetalSciecs，MinstfEoetalProtetiou 510655，China D
+
+Abstract:Biochar canbe efectivelyusedtoreducethereleaseof grenhouse gases and fulfilltheconsequences of carbon sinks.It canalsobeusedtorestoredegraded soiland improvethestructureof soilmicrobial communitiesandenhancetheir functions.This study investigated theeffctsof diferentbiochar doses and thecombinedapplicationof biochar with other fertilizersonsoil microbial functional diversity，which would provideascientificbasisandtheoretical guidanceforthe rationaluseof agricultural wasteandoptimal managementof soil fertilityin vegetablegardens.In thepresent study，the representativevegetable garden soil（Fimi-Orthic Anthrosols）was sampled from Lianzhou County，Qingyuan City.Pot experiments were conducted for 40 days in the laboratory.Ten treatments were performed as follows : CK( $0 \%$ biochar $+ \ 0 \%$ fertilizer），T1（ $0 \%$ biochar $+ \ 0 . 1 \%$ commercial organic manure），T2（ $0 . 1 \%$ biochar $+ \ 0 \%$ fertilizer），T3（ $0 . 2 5 \%$ biochar $+ \ 0 \%$ fertilizer），T4（ $0 . 5 \%$ biochar $+ \ 0 \%$ fertilizer），T5（ $1 . 0 \%$ biochar $+ \ 0 \%$ fertilizer），T6( $1 0 0 \mathrm { \left( ~ N \right) } ~ + ~ 3 0 \mathrm { \Omega }$ $( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) \ + 7 5 ( \mathrm { K } _ { 2 } \mathrm { O } ) \ \mathrm { m g } / \mathrm { k g }$ oven-dried soil），T7（ $0 . 1 \%$ biochar $+ 0 . 1 \%$ commercial organic manure），T8（ $0 . 1 \%$ biochar （204 $\ : + \ : 1 0 0 ( \mathrm { N } ) \ : + \ : 0 ( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) \ : + \ : 7 5 ( \mathrm { K } _ { 2 } \mathrm { O } ) \ : \mathrm { m g } / \mathrm { k g } \ :$ oven-dried soil），T9（ $0 . 1 \%$ biochar $+ ~ 1 0 0 ( \mathrm { { N } ) ~ + ~ 3 0 ( \mathrm { { P } } _ { 2 } \mathrm { { O } } _ { 5 } ) ~ + ~ 7 5 ( \mathrm { { K } } _ { 2 } \mathrm { { O } ) ~ \mathrm { { m g } } / } }$ $\mathrm { k g }$ oven-dried soil），and T10（ $0 . 1 \%$ biochar $+ \ 0 . 1 \%$ commercial organic manure $+ ~ 1 0 0 ( \mathrm { N } ) ~ + ~ 0 ( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) ~ + ~ 7 5 ( \mathrm { K } _ { 2 } \mathrm { O } ) ~ \mathrm { m g } \nonumber$ $\mathrm { k g }$ oven-driedsoil），withthreereplicates each.Soil microbialfunctional diversityofthe harvestedsoil samples wasanalyzed using theBiolog method.Significantvariations insoil microbial functional diversitywere shown in the treatmentswith different biochar doses.First，the T1（ $0 . 1 \%$ organic manure）and T3（ $0 . 2 5 \%$ biochar） treatments significantly increased soil microbial utilization of carbon substrates more than the other treatments ( $\scriptstyle P < 0 . 0 5 .$ ），but further increases of biochar （ $> 0 . 2 5 \%$ ）reduced average well color development（AWCD).Second，both T1and T3 treatments had significantly higher species richness（McIntosh index），andonly the Tl treatment had higher evennessof communityspecies（Shannon index） than theother treatments.Moreover，TlandT3hadthe highestutilizationofpolymers，carbohydrates，carboxylicacids, aminoacids，and phenols.Forthechemical fertilizer treatments，soil microbialactivityandmicrobialutilizationofcarbon substrates were increasedbyphosphatefertilizer，butweresignificantlyreducedbynitrogenandpotassium fertilizers. Furthermore,aprincipal componentanalysisshowed that there were similar soil microbial communityfunctional structures in the treatments of T1,T2( $0 . 1 \%$ biochar），and T3.A single application of organic manure or biochar had stronger ffects onthe soil microbial communitystructures than thecombined application；however，phosphate fertilizerandthecombined applicationof biocharandchemical fertilizersalsochanged thesoil microbial utilizationofcarbonsubstrates.Thisstudy indicatesthatitis necesary to ascertain thetreatment doses ofbiocharand standardizetheir criteria to promote biochar applicationat large scalesandin diffrent fields.However,the biochar hadsome negativeefectsontheeco-environment. Therefore，the biochar sourcesand amountof biochar doses shouldbe studied todetermine the negative efectsonsoil，to prevent these in future treatments for optimal results.
+
+Key Words:vegetable garden soil； biochar;microbial community； functional diversity；Biolog method
+
+生物炭是在完全或部分缺氧条件下，以及相对较低的温度( $\mathrm { : \leqslant } 7 0 0 \mathrm { ^ { \circ } C }$ )下经热解炭化产生的一种含碳量极丰富的物质,具有高度稳定性和一定的吸附能力[1-2]。生物炭技术的应用,不仅可以大大减少二氧化碳等温室气体的排放,实现固碳减排,而且在土壤改良和修复方面有许多优良的特性,可改变土壤生物群落结构和数量[3-5]。研究表明,生物炭的施用可以降低土壤酸度和有毒元素对植物的毒性[67];生物炭对养分元素的保持和提高,对土壤酸度的改善,对微生物的物理保护以及对有毒物质的吸附都利于增加土壤微生物量[8];稻壳生物炭提高了平邑甜茶土壤微生物群落功能多样性[9];单施生物炭和配施氮肥均可提高灰漠土和风沙土微生物群落的丰富度[10];生物炭显著增加了土壤三大类微生物类群的数量[11];小麦秸秆炭中 K 量占 $2 1 \%$ 、P占$1 . 5 \%$ 、N占 $0 . 6 4 \%$ ,还有多种微量元素,这些元素都能不同程度的促进土壤细菌的生长[12-13];施用生物炭会改变土壤中微生物群落结构、种类和土壤酶活性[14-15]。近年来伴随着可再生能源的不断减少,生物炭在土壤中的应用受到人们的广泛关注。众所周知,土壤微生物是土壤碳库中最为活跃的组分,对环境的变化最为敏感，其对生物炭施用的响应比其他有机质更快,从土壤微生物的变化情况来反馈生物炭对土壤生态系统的作用,是研究生物炭施用益处和风险的途径之一。也有报道称生物炭对土壤改良的影响随土壤类型及作物种类而有所变化[16]。由于生物炭偏碱性,在酸性土壤上有较好的改良效果,被认为可能是未来有效的秸秆处理方式和改良酸性土壤质量的重要途径[17]。因此,本研究对生物炭在华南酸性红壤上的施用剂量及生物炭、有机肥和无机肥配合施用效果进行研究,以期阐述生物炭的健康培育引起菜园土壤微生物多样性变化的规律,力求为生物炭改良农田土壤微生态环境的应用提供理论依据,从生态系统的角度客观评价施用生物炭产生的环境效应，从而增强生物炭应用的科学性、广泛性和有效性。
+
+http://www.ecologica.cn
+
+# 1材料与方法
+
+1.1供试土壤、生物碳和肥料
+
+供试土壤取自清远市连州县的代表性菜园土,属肥熟旱耕人为土,供试土壤主要化学肥力性状： $\mathrm { p H } 6 . 1 3$ ，有机质 $2 8 . 1 2 ~ \mathrm { g / k g }$ ,碱解氮 $1 3 9 . 9 ~ \mathrm { m g / k g }$ ,有效磷 $3 8 . 7 ~ \mathrm { m g / k g }$ ,速效钾 $2 1 4 . 0 ~ \mathrm { m g / k g }$ ,交换性钙 $4 0 6 7 . 9 ~ \mathrm { m g / k g }$ ，交换性镁 $3 0 4 . 5 0 ~ \mathrm { m g / k g }$ 。
+
+生物炭的成分含量分别为：有机碳 $3 7 2 . 4 0 ~ \mathrm { g / k g }$ ,全氮 $7 . 0 9 ~ \mathrm { g / k g }$ ,全磷 $( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) 2 . 2 3 \mathrm { \ g / k g }$ ,全钾(KO)45.03$\mathbf { g } / \mathrm { k g } , \mathrm { p H }$ 值 $1 0 . 0 9$ 。
+
+商品有机肥的成分含量分别为：有机碳 $1 9 . 4 8 ~ \mathrm { g / k g }$ 全氮 $1 2 . 1 1 \ \mathrm { g / k g }$ ，全磷( ${ \bf P } _ { 2 } 0 _ { 5 }$ )12.69g/kg,全钾（ $\mathrm { ~ K } _ { 2 } \mathrm { O }$ ）$1 2 . 4 3 ~ \mathrm { g / k g , p H }$ 值7.83。
+
+化肥为尿素( $( \mathrm { N } , 4 6 \%$ ）、过磷酸钙( ${ \bf P } _ { 2 } 0 _ { 5 }$ ， $12 \%$ )和氯化钾( $\mathrm { K } _ { 2 } \mathrm { O }$ ， $6 0 \%$ ）。
+
+# 1.2 试验设计
+
+本文具体实验设计方案见表1。
+
+表1试验设计方案  
+Table 1 Experimental design   
+
+<html><body><table><tr><td>处理 Treatment</td><td>生物炭 Biochar/%</td><td>有机肥 Organic fertilizer/%</td><td>N/ P205/ （mg/kg干土） （mg/kg干土）</td><td>K0/ (mg/kg干土）</td></tr><tr><td>CK</td><td></td><td>ec</td><td></td><td></td></tr><tr><td>T1</td><td></td><td>0.10</td><td></td><td></td></tr><tr><td>T2</td><td>0.10</td><td></td><td></td><td></td></tr><tr><td>T3</td><td>0.25</td><td></td><td></td><td></td></tr><tr><td>T4</td><td>0.50</td><td></td><td></td><td></td></tr><tr><td>T5</td><td>1.00</td><td></td><td>100</td><td></td></tr><tr><td>T6</td><td></td><td></td><td>30</td><td>75</td></tr><tr><td>T7</td><td>0.10</td><td>0.10</td><td></td><td></td></tr><tr><td>T8</td><td>0.10</td><td></td><td>100</td><td>75</td></tr><tr><td>T9</td><td>0.10</td><td></td><td>100 30</td><td>75</td></tr><tr><td>T10</td><td>0.10</td><td>0.10</td><td>100</td><td>75</td></tr></table></body></html>
+
+每盆土量(风干重)1kg,供试作物为空心菜,重复3次。测定样品是收获空心菜后的土壤鲜样。
+
+1.3样品采集及测定方法
+
+# 1.3.1 样品采集
+
+将土壤样品混合均匀后 $4 ^ { \circ } \mathrm { C }$ 保存，进行微生物Biolog 碳源利用测定。
+
+# 1.3.2 测定方法
+
+土壤细菌功能多样性分析采用 Biolog Eco 微平板法,具体操作以及多样性指数计算参见文献[18-19]。选取培养时间为 $^ { 7 2 \mathrm { ~ h ~ } }$ 的 $\mathrm { \Omega _ { 0 D _ { 5 9 0 } _ { n m } } }$ 计算微生物群落功能多样性指数和微生物利用碳源底物能力,并进行微生物群落功能主成分分析,采用Excel2003 和DPS14.10 统计软件处理数据。
+
+# 2结果分析
+
+# 2.1不同处理菜园土壤平均颜色变化率
+
+平均颜色变化率(AWCD)表征微生物群落碳源利用率,反映了土壤微生物代谢活性[20],其值越高,土壤中微生物群落代谢活性也就越高,不同生物炭添加量土壤平均颜色变化率见图1和图2。由图1可知,AWCD随培养时间延长而逐渐升高。从培养处于稳定期的72—120h来看,各处理土壤AWCD顺序为 ${ \mathrm { T } } 1 { > } { \mathrm { T } } 3 { > } { \mathrm { T } } 2 { > }$ $\mathrm { T } 5 { > } \mathrm { T } 4 { > } \mathrm { C K }$ 处理。不同处理的土壤AWCD值在整个培养时间内均以CK处理对单一碳源的利用能力最弱,表明有机肥和生物炭的施用明显提高了土壤微生物代谢活性。T1、T2和T3的3个处理无显著差异,T4 和 T5高于CK,明显低于T1、T2和T3,表明施用适量生物炭和有机肥可以显著提高土壤微生物碳源利用能力,并非生物炭施用量越高效果越好。
+
+由图2可知,随着培养时间的延长,微生物利用碳源量呈逐渐增加的趋势。在培养72—120h内,各处理土壤AWCD 顺序均为 $\mathrm { T 6 { > } T 7 { > } T 9 { > } T 8 { > } T 1 0 }$ 处理。T6、T7 和 T9 的3个处理差异不显著,T6、T7和 T9 显著高于T8 和T10,T8显著高于T10。表明施用3种化肥,有机肥和生物炭配施及生物炭和3种化肥配施比生物炭和氮钾肥配施更能显著提高土壤微生物活性,生物炭、有机肥和氮钾肥配施效果最差。T8 处理的AWCD 值低于T9 处理,可以看出磷肥的添加可以提高 Biolog微孔板上碳源的利用能力。T8处理的AWCD值高于T10 处理,表明生物炭与化肥混合施用,有机肥的添加反而降低了土壤微生物代谢活性。 >
+
+![](images/21d0c68bb1c5b1da2d3fd446699b335f5f5e69610cef18cefa796385a3339dbe.jpg)  
+图1不同生物炭添加量土壤平均颜色变化率 Fig.1Variation in AWCD of soil bacterial community over time with different applying rate of biochar
+
+![](images/245a6e297b4d966e0f900d5a24693fbb99a43b9db2288560102ef59d67ca5f3a.jpg)  
+图2生物炭配合不同化肥用量土壤平均颜色变化率 Fig.2Variation in AWCD of soil bacterial community over time with biochar and different applying rate of chemical fertilizer
+
+# 2.2不同处理菜园土AWCD和多样性指数比较
+
+根据不同处理碳源利用情况,综合考虑其变化趋势,选取光密度趋于稳定,且不同处理之间有较好分形的$^ { 7 2 \mathrm { ~ h ~ } }$ 的 AWCD值进行土壤微生物群落代谢多样性的分析（表2）。
+
+表2不同处理菜园土微生物群落功能AWCD值和多样性指数比较  
+
+<html><body><table><tr><td colspan="5">Table 2 AWCDand diversity indexes of vegetable soil microbial community in different treatment</td></tr><tr><td>处理 ● Treatment</td><td>平均颜色变化率 AWCD</td><td>丰富度指数 Shannon index(H)</td><td>优势度指数 Simpson index(D)</td><td>均匀度指数 Mclntosh index(U)</td></tr><tr><td>CK</td><td>1.12±0.07f</td><td>3.2±0.04b</td><td>46.53±1.33abc</td><td>8.87±0.58e</td></tr><tr><td>T1</td><td>1.88±0.03a</td><td>3.28±0.06ab</td><td>50.47±2.24a</td><td>13.32±0.39a</td></tr><tr><td>T2</td><td>1.79±0.05ab</td><td>3.27±0.05ab</td><td>47.82±1.33ab</td><td>12.41±0.29abc</td></tr><tr><td>T3</td><td>1.86±0.03a</td><td>3.35±0a</td><td>49.9±0.6ab</td><td>12.63±0.2ab</td></tr><tr><td>T4</td><td>1.45±0.06d</td><td>3.24±0.03ab</td><td>46.65±1.98abc</td><td>10.91±0.56cd</td></tr><tr><td>T5</td><td>1.54±0.03cd</td><td>3.2±0.04ab</td><td>42.28±1.4c</td><td>10.91±0.52cd</td></tr><tr><td>T6</td><td>1.74±0.01ab</td><td>3.21±0.1ab</td><td>48.67±1.2ab</td><td>11.94±0.24abc</td></tr><tr><td>T7</td><td>1.64±0.03bc</td><td>3.28±0.01ab</td><td>46.69±0.63abc</td><td>11.64±0.22bc</td></tr><tr><td>T8</td><td>1.29±0.01e</td><td>3.25±0.06ab</td><td>45.13±1.71bc</td><td>9.88±0.37de</td></tr><tr><td>T9</td><td>1.64±0.12bc</td><td>3.27±0.02ab</td><td>46.75±1.56abc</td><td>11.66±0.67bc</td></tr><tr><td>T10</td><td>1.04±0.06f</td><td>3.16±0.03b</td><td>47.36±1.33ab</td><td>8.76±0.96e</td></tr></table></body></html>
+
+表中数值为5个样本的平均值 $\pm$ 标准误，同列数据不同处理凡是有一个相同小写字母者，表示无显著差异( $P { > } 0 . 0 5$ ,Duncan's 法)
+
+从表2可以看出,T2、T3、T4 和T5 处理的AWCD值均显著高于CK 处理,表明生物炭的施用能显著提高土壤中微生物活性;T1和T3 处理AWCD 值最高,CK 和 T1O 处理AWCD 值最低,表明施用 $0 . 1 \%$ 的有机肥和$0 . 2 5 \%$ 的生物炭对提高土壤微生物活性最显著,生物炭施用量增加会降低土壤微生物对碳源的利用,磷肥的添加可以显著增加土壤微生物对碳源的利用。T6 和T9 处理AWCD 值差异不显著,表明施用3种化肥的基础上添加 $0 . 1 \%$ 生物炭对土壤微生物代谢活性影响差异不显著;T8 处理的AWCD 值显著高于T1O 处理,表明生物炭、氮肥和钾肥混施的基础上再添加有机肥,会显著降低土壤微生物活性。T7处理的AWCD 值显著高于T10 处理,表明生物炭和有机肥混施再添加氮肥和钾肥显著降低了土壤微生物活性;T9 处理的AWCD 值显著高于 T8 处理,表明磷肥的添加可以显著增加土壤中微生物活性;T1处理的 AWCD 值显著高于T7处理,T2 和T7 处理差异不显著,表明有机肥单施比有机肥和生物炭混施更显著提高土壤微生物活性。
+
+T3 处理AWCD 值和 Shannon 多样性指数显著高于CK 和T1O 处理,表明单施 $0 . 2 5 \%$ 生物炭增加了土壤微生物代谢活性和利用 Biolog 微平板上碳源的微生物种类。T1和T3 处理的 Simpson 指数最高,T1 处理显著高于 T5 和T8 处理,与其它处理差异不显著,表明 $0 . 1 \%$ 有机肥处理显著提高土壤物种优势度。T1处理的Mclntosh 指数显著高于CK、T4、T5、T7、T8、T9、T1O 处理,表明 $0 . 1 \%$ 有机肥处理的群落物种均匀度最高。以上结果表明,T1 处理和 T3 处理的 Shannon 多样性指数、Simpson 指数和 Mclntosh 指数差异不显著,均可提高土壤微生物对碳源的利用,促进了土壤微生物区系向健康的方向转变。
+
+# 2.3不同处理菜园土微生物利用碳源作为底物的能力
+
+Biolog Eco微平板上含有31种碳源,根据碳源官能团不同将其分为6类:其中聚合物类4种,碳水化合物类10种,羧酸类7种,氨基酸类6种,胺类2种,酚类2种。各处理土壤微生物群落对6类碳源的相对利用率见表3。
+
+表3菜园土微生物利用碳源底物能力比较  
+Table 3Comparison of carbon substrate utilization by vegetable soil microbial community in different regions   
+
+<html><body><table><tr><td colspan="4">Coparsonror</td><td colspan="3">utnzationbyVegetaole sonheroblarconmantydnerentTeglons</td></tr><tr><td>处理 Treatment</td><td>聚合物类 Polymer</td><td>碳水化合物类 Carbohydrate</td><td>羧酸类 RCOOH</td><td>胺类 Propylamine</td><td>氨基酸类 Amino acid</td><td>酚类 Phenothiazine</td></tr><tr><td></td><td></td><td>1.32±0.18c</td><td>1.14±0.07f</td><td>0.48±0.1def</td><td>1.43±0.02de</td><td>0.59±0.02e</td></tr><tr><td>CK</td><td>0.78±0.01f</td><td>1.96±0.01a</td><td></td><td>0.71±0.1bcd</td><td>2.22±0.03a</td><td>1.49±0.1a</td></tr><tr><td>T1</td><td>1.84±0.1ab</td><td></td><td>1.83±0.05a</td><td>0.81±0.15bc</td><td>1.99±0.09abc</td><td></td></tr><tr><td>T2</td><td>1.15±0.06de</td><td>1.82±0.05ab 1.94±0.04a</td><td>1.8±0.04ab</td><td>0.67±0.06bcd</td><td></td><td>1.47±0.12a</td></tr><tr><td>T3 T4</td><td>2.03±0.1a 1.15±0.11de</td><td>1.75±0.07ab</td><td>1.83±0.07a 1.67±0.05abc</td><td>0.97±0.11ab</td><td>2.12±0.14ab 2.03±0.04abc</td><td>1.44±0.14ab</td></tr><tr><td>T5</td><td>1.32±0.14cd</td><td>1.66±0.12b</td><td>1.54±0.01cd</td><td>0.2±0.04f</td><td>1.54±0.07d</td><td>1.05±0.08c 1.23±0.03abc</td></tr><tr><td>T6</td><td>1.59±0.09bc</td><td>1.78±0.05ab</td><td>1.61±0.04c</td><td>1.16±0.08a</td><td></td><td></td></tr><tr><td>T7</td><td>1.37±0.08cd</td><td>1.87±0.02ab</td><td>1.63±0.04bc</td><td>0.68±0.09bcd</td><td>2.00±0.04abc</td><td>1.42±0.1ab</td></tr><tr><td>T8</td><td>1.07±0.15def</td><td>1.82±0.09ab</td><td>1.26±0.06ef</td><td>0.56±0.12cde</td><td>1.81±0.13c</td><td>1.3±0.09abc</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1.46±0.06de</td><td>1.13±0.14bc</td></tr><tr><td>T9 T10</td><td>1.66±0.05b 0.93±0.03ef</td><td>1.97±0.05a 1.06±0.08d</td><td>1.39±0.03de 1.17±0.11f</td><td>1.22±0.1a 0.29±0.09ef</td><td>1.9±0.15bc 1.23±0.05e</td><td>1.01±0.07cd 0.74±0.04de</td></tr></table></body></html>
+
+表中数值为5个样本的平均值 $\pm$ 标准误,同列数据不同区域凡是有一个相同小写字母者,表示无显著差异( $P { > } 0 . 0 5$ ,Duncan's 法)
+
+由表3可以看出,T1和T3 处理对聚合物类、碳水化合物类、羧酸类、氨基酸类和酚类利用率最高,且T1和T3对碳源的利用较相似，表明施用 $0 . 1 \%$ 的有机肥和 $0 . 2 5 \%$ 的生物炭可以显著提高土壤微生物对碳源的利用能力,且土壤微生物代谢功能类群相似。生物炭施用剂量研究显示,T3 处理对聚合物类、碳水化合物类、羧酸类、氨基酸类和酚类的利用率高于T2、T4和T5 处理,且对各种碳源的利用均以T5 处理最低,表明适量生物炭的施用可以增加土壤微生物对碳源的利用能力。添加化肥处理中,T9处理土壤微生物利用碳源能力显著高于T8 处理,显著提高土壤微生物对聚合物类、胺类和氨基酸类碳源的利用,表明磷肥的施用可以提高土壤微生物活性。T2处理的羧酸类、酚类和氨基酸类碳源显著高于T8 处理,表明氮肥和钾肥的添加显著降低了土壤微生物的碳源利用能力。
+
+http ://www.ecologica.cn
+
+进一步分析发现,T1和T3施肥处理最利于以碳水化合物类和羧酸类物质为碳源的微生物生长,T9 和T6施肥处理最利于以胺类物质为碳源的微生物生长。T6处理对羧酸类和酚类碳源的利用显著高于T9 处理,表明在施用化肥的基础上配施适量生物炭显著降低了微生物对羧酸类和酚类碳源的利用。T7处理是T1和 T2处理的混合施用,T7处理对聚合物类、羧酸类和氨基酸类碳源的利用显著低于T1处理,T7处理对各类碳源的利用与T2处理差异不显著,T1和T3处理差异不显著，表明单施 $0 . 1 \%$ 的有机肥和 $0 . 2 5 \%$ 的生物炭更有利于微生物对碳源的利用。
+
+# 2.4不同处理菜园土微生物群落功能主成分分析
+
+应用主成分分析是根据各种碳源的因子权重值，可清晰地看出各处理在碳源利用上的具体差异，评价引起各处理间土壤微生物群落差异的主要碳源[21]。通过主成分分析可以在降维后的主元向量空间中，用点的位置直观地反映出不同土壤微生物群落功能多样性变化[22]。前10个主成分占总变异的 $100 \%$ ,包含了全部的变异信息。根据提取的主成分个数一般要求累计方差贡献率达到 $8 5 \%$ 的原则，共提取了5个主成分，累计贡献率达 $8 5 . 5 3 \%$ 。其中第1主成分(PC1)的方差贡献率为 $4 8 . 7 2 \%$ ,第2主成分(PC2)为 $1 1 . 7 1 \%$ 。第3-5主成分贡献率均较小，分别为 $1 0 . 5 0 \% \cdot 8 . 1 0 \% \cdot 6 . 5 1 \%$ 。选取前2个主成分进行分析，以PC1为横轴，PC2为纵轴,以不同处理在2个主成分上的得分值为坐标作图来表征微生物群落碳源代谢特征（见图3）。
+
+![](images/3d89919f682ce3bb0d4fe5cfdd4915c6a29ce9ddc36f87aee41effda94005b78.jpg)  
+图3不同施肥处理对菜园土微生物群落功能主成分分析Fig.3Analysis of main content of vegetable soil microbial groupunder different fertilizer treatment
+
+主成分分析解释了不同处理土壤微生物碳源利用是否存在差异[23]。由图3可以看出,各处理间的碳源利用得分差异明显,各象限均有分布。位于同一象限的各处理在第1、2主成分得分值离散较小,没有显著性差异,说明这些处理土壤的微生物碳代谢功能群结构相似;位于不同象限各处理的在第1、2主成分得分值差异较大,说明不同处理土壤微生物碳代谢功能群结构存在较大差异。T1、T2 和T3 处理位于第1象限,表明T1、T2 和T3处理的微生物对碳源的利用方式比较接近。T7和T9处理位于第4象限,表明T7和T9 处理受PC1上的主要碳源影响较大,PC2 上的碳源是其与T1、T2和T3 处理区分的敏感碳源。CK、T6 和T10 位于第2象限,T4、T5和T8处理位于第3象限。T1和T2位于同一象限,与T7不同象限,表明单施有机肥或生物炭与混合施用对土壤微生物碳代谢功能群结构的影响有较大差异。T8 和T10 处理位于不同的象限,T8的AWCD 值显著高于T10,表明生物炭与氮钾肥混合施用基础上添加有机肥显著改变了微生物群落结构,得出同样结论,生物炭与有机肥单独施用效果优于混合施用。T6和T9 处理位于不同的象限,反映出不同处理的土壤微生物群落结构特征产生了明显差异,表明在施用化肥的基础上配施适量生物炭改变了土壤微生物对碳源种类的选择与利用。T8和T9 处理位于不同象限,T9 处理的AWCD 值和碳源利用率均显著高于T8 处理，表明化学磷肥的施用增加了土壤微生物对碳源的利用。
+
+# 3结论与讨论
+
+土壤微生物多样性指数反映了土壤生物群落中物种的丰度及其各类型间的分布,多样性指数越高,说明土壤中微生物多样性越丰富,且土壤微生态系统越复杂,功能越稳定[24-25]。本研究结果显示,生物炭和有机肥的施用均可提高土壤微生物活性,增加AWCD值。T1和T3 处理的AWCD值、物种丰富度指数、均匀度指数、优势度指数均高于其它处理,表明施用 $0 . 1 \%$ 的有机肥和 $0 . 2 5 \%$ 的生物炭对土壤微生物活性的增加效果最显著,且二者效果相似。Doan 等[26]在施用化学肥料和生物有机肥的土壤中添加生物炭,发现土壤细菌数量、群落结构多样性(Shannon)指数和丰富度指数均显著增加。姚玲丹等[2]归纳了生物炭对土壤中不同类型微生物的影响机理,主要集中在生物炭的吸附作用和生物炭作为营养物质这两个方面。生物炭成为微生物栖息地的主要原因在于炭表面含有的功能基团可以通过专性吸附作用有效吸附包括溶解性有机碳在内的易矿化有机碳和 $\mathrm { N H } _ { 4 } ^ { + }$ ,这为微生物提供了丰富的食物来源,进而增加微生物的丰度[27]。
+
+除 T5 处理的胺类碳源外,不同用量生物炭处理的土壤微生物对单一碳源利用和代谢活性均高于对照,0.$2 5 \%$ 的生物炭处理的 BIOLOG-ECO微平板中颜色变化孔数最多,说明其土壤微生物群落中利用微孔板孔中不同单一碳底物种类增加,表明其微生物活性最高,土壤微生物活性高,土壤生态系统稳定性和缓冲容量大，功能增强,因而土壤对外来胁迫所引起的生态系统波动的恢复能力就会提高[28]。在一定范围内,随着生物炭施用量的增加,土壤微生物的数量和活性都显著提高[29-30]。已有一些研究表明,生物炭可以提高土壤微生物繁殖能力,但尚不明确其机理为何[31]。Muhammad 等[32]对红壤的研究则表明,猪粪炭和果皮炭等主要通过增加土壤pH、DOC 和碳氮养分元素含量,改变微生物群落结构。同时,采用 $^ { 1 3 } \mathrm { C }$ 或 $^ { 1 4 } \mathrm { C }$ 标记生物炭的手段,Maestrini等[33]发现，经 $1 5 8 \mathrm { ~ d ~ }$ 培养后,仅有 $0 . 4 \%$ 的生物炭组分进入微生物体;即使培养20个月,也只有 $1 . 5 \%$ 的生物炭成分在微生物体中被鉴定[34]。因此,生物炭的添加可能主要是通过对诸如土壤养分含量和化学性质（pH,CEC)等的改变[32],间接作用于土壤微生物群落组成,此过程往往与试验条件、生物炭自身性质、土壤质地及肥力水平等密切相关,其相互联系和内在机制还需要进一步探讨。
+
+表征微生物活性的AWCD 值和微生物功能多样性指数仅能反映土壤微生物的总体变化情况,并不能反映微生物群落代谢的详细信息。微生物对不同碳源的利用可以反映微生物的代谢功能类群[35]。本研究显示,T1和T3 处理对聚合物类、碳水化合物类、羧酸类、氨基酸类和酚类利用率最高,随着生物炭施用量的增加,显著降低了土壤微生物对聚合物类碳源的利用。Dempster等[36]发现高量生物炭施用则降低了土壤微生物量,与本研究结果相似。而陈心想等[1]研究表明,生物炭显著增加了土壤三大类微生物类群的数量,其增幅随用量的增加而增大。土壤微生物活性和对碳源的利用并未随生物炭施用量增加而增加,可能的原因是生物炭中也含有一些对微生物有害的物质,如乙烯[37]、高盐类物质[38]、重金属[39]、多环芳烃和二嘎英等污染物[40]等能够抑制其生长[41]。另一方面,添加生物炭能促进某些微生物种群生长,同时另一些微生物种群受到抑制,导致微生物群落组成发生变化[42],也可能降低微生物多样性[43]。因生物炭的组分及结构特异性,不同微生物群落对添加生物炭的响应往往不同,微生物群落结构的改变程度主要受生物炭性质、添加量及土壤类型的影响。不同生物炭施加量,土壤微生物群落发生不同变化,适宜的生物炭量对土壤微生物起着重要作用,一定程度上决定了土壤修复效果。并且,生物炭本身对土壤微生物存在“抑制浓度”,过量生物炭可能对微生物产生毒性。因此,应该明确生物炭施用剂量,建立生物炭标准使用方法,有助于生物炭的规模化应用,充分发挥生物炭优势，规避风险。
+
+本研究中,常规化肥与适量生物炭混合施用显著降低了微生物对羧酸类和酚类碳源的利用,原因可能是酚类物质是一类主要的化感物质,生物炭的添加通过改变根际土壤理化性质降低了植物根系对有毒有害化感物质的分泌,也可能是生物炭吸附了部分酚类物质,因此,降低了以酚类为碳源的微生物活性。磷肥对土壤微生物利用碳源能力影响较大,磷肥的添加可以显著提高土壤微生物对聚合物类、氨基酸类和胺类碳源的利用，而氮和钾肥的施用显著降低了土壤微生物对羧酸类、酚类和氨基酸类碳源的利用,不利于土壤微生态系统的稳定。有研究表明,有效养分比例不合适,无论是过高还是过低都会对土壤微生物产生不利影响[44]。在生物炭存在的情况下,微杆菌科、间孢囊菌生长速度增加,从而影响了无机磷的生物利用率[45]。Tiessn 等[46]认为,长期耕作土壤中大部分可矿化有机P已被消耗,以至于有机P矿化与有机P的形成速率相当。因此,作物及微生物生长显著受外源P素施用影响,P素是微生物生长的限制因素[47]。生物炭在土壤中稳定性高、分解速度慢,从长期效应来说,生物炭配施氮磷钾肥更有利于提高土壤微生物群落多样性[48]。
+
+有机肥与生物炭混合施用结果表明,混合施用对碳源的利用能力显著低于有机肥单独施用,而有机肥单独施用对土壤微生物类群的作用与 $0 . 2 5 \%$ 的生物炭处理相似,从养分的角度来讲,有机肥弥补了生物炭养分低的缺点,而生物炭则赋予有机肥养分缓释性能的互补和协同作用[49]。从微生态角度看,这可能是由于有机肥和生物炭中微生物群落结构相似,混合施用可能导致一些微生物群体迅速增殖成为竞争优势群落,引起群落组成和结构的变化,不利于保护土壤有益微生物。陈伟等研究表明,盆栽试验中施用 $10 \%$ 有机肥 $+ 3 \%$ 生物炭处理下微生物对碳源的利用能力优于 $1 0 \%$ 有机肥 $+ 6 \%$ 生物炭处理,表明有机肥与生物炭混合施用需要合适的配比，本研究可能有机肥与生物炭配比没有达到最优，因此效果不明显。与此同时,生物炭研究进程中发现的负面影响却不能忽视,生物炭对环境并不是完全友好无害的,怎样正确使用生物炭(合适的炭类型,适宜的剂量,科学的施用方法等)以减轻其对土壤的负面影响是值得关注的问题。
+
+# 参考文献（References）：
+
+[1］宋延静，龚骏.施用生物质炭对土壤生态系统功能的影响.鲁东大学学报：自然科学版，2010,26(4）：361-365.  
+［2］姚玲丹，程广焕，王丽晓，陈环宇，楼莉萍.施用生物炭对土壤微生物的影响.环境化学，2015，34（4)：697-704.  
+3]PetJilrlieo，2000，89(2):231-242.  
+[4］林初夏，龙新宪，童晓立，徐颂军，章家恩.广东大宝山矿区生态环境退化现状及治理途径探讨.生态科学，2003，22（3)：205-208.  
+［5］白中科，付梅臣，赵中秋.论矿区土壤环境问题.生态环境，2006，15(5)：1122-1125.  
+[6］袁金华，徐仁扣.稻壳制备的生物质炭对红壤和黄棕壤酸度的改良效果.生态与农村环境学报，2010，26(5）：472-476.  
+［7］周建斌，邓丛静，陈金林，张齐生．棉秆炭对镉污染土壤的修复效果.生态环境，2008，17（5）：1857-1860.  
+[8]LeJlli,sJ,sell,Hcady,roweaetsootoloost2011,43(9)：1812-1836.  
+[9］陈伟，周波，束怀瑞.生物炭和有机肥处理对平邑甜茶根系和土壤微生物群落功能多样性的影响.中国农业科学，2013，46（18）：3850-3856.  
+[10］顾美英，徐万里，唐光木，葛春辉，马海刚.生物炭对灰漠土和风沙土土壤微生物多样性及与氮素相关微生物功能的影响.新疆农业科学，2014，51(5):926-934.  
+[11］陈心想，耿增超，王森，赵宏飞.施用生物炭后塿土土壤微生物及酶活性变化特征.农业环境科学学报，2014，33（4）：751-758.  
+12]YangYGsoiiyrlateailofad，2003,51(17): 5047-5051.  
+[13]YangYShengGYEnhancedpestidesotionyilsontainingparticulatematerfrocropesiduebusEnviromentalSciene&Technology，2003，37（16）：3635-3639.  
+[14]KoltonM，HarelYM,PasteakZ,GrberER，EladY，CtrynE.Impactofocharaplicationtosoilontherot-asociaedbacterialcommunitystructureoffullydevelopedgrenhousepepprplants.AppliedandEnvironmentalMicrobioogy，2O11，77（14）：4924-4930.  
+15]a-isludge and sewage sludge biocharto soil.Biology and Fertilityof Soils,2012,48(5): 511-517.  
+[16]Van Z L,Kimber S,Mor is S,Chan KY,DownieA，Rust J,Joseph S,Cowie A.Efects of biochar from slow pyrolysis of papermill wasteonagronomic performance and soil fertility.Plant and Soil,2010,327(1/2)：235-246.  
+[17］陈温福，张伟明，孟军.农用生物炭研究进展与前景.中国农业科学，2013，46(16)：3324-3333.  
+18]GlLdceesocarbon-source utilization.Applied and Environmental Microbiology，1991,57(8）：2351-2359.  
+[19] BuyerJS,KaufanDD.cobialdiversityinthehreofcogonderoetioalandlow-iutsstesApldSlolog，1997, 5(1) : 21-27.20 王晓玥，蒋璃霁，隋跃宇，孙波.田间条件下小麦和玉米秸秆腐解过程中微生物群落的变化——BIOLOG 分析.土壤学报，2012,49(5)：1003- 1011.  
+[21］张云伟，徐智，汤利，李艳红，宋建群，殷红慧.生物有机肥对烤烟黑胫病及根际微生物代谢功能多样性的影响.中国烟草学报，2014，20(5): 59-65,72-72.  
+[22］张瑞福，沈其荣.抑病型土壤的微生物区系特征及调控.南京农业大学学报，2012，35(5)：125-132.  
+[23]KonopaAOlver，urFseofabsubstratetiatoaesiviontalndolcalcobolbEcology，1998,35(2):103-115.  
+[24]Rutgersvan'VrlatIM，WindB，oshumaL，reueAMRaidehodfoessngpolltion-indudcomunittoleranceincontaminated soil. Environmental Toxicology and Chemistry，1998,17（11）： 2210-2213.3355-3361.  
+[26]DoanT,ouvierC,etareYouvierHen-es-TureaneauJ,mball,VanguyBuqeuecealomanure,compost，ercompostandocaramendmentsobacterialandviralcomuitisinsoilndadacentaquaticsstesAlidSoilEcology，2014,73: 78-86.  
+[27]AmelotNraberER,VerheijenFGA,DeNeveSInteractiosbetwenbiochrtabilityndsologanismseviandesarchsEuropean Journal of Soil Science，2013,64(4）：379-390.  
+28]OFatathmpaofotccaldceiyocteuil/BC,CampbellCD,Watson CA,eds.Sustainable ManagementofSoilOrganic Mater.Wallngford;CABIPublishing，2Ool;37-376.  
+[29]RobertsoFbagtfsgarcaeestoseecfolabondrogeustralaallResearch,2007,45(1）：13-23.  
+[30]SteinerC,TeixeiraWG,LhanJNehlsT,deMacedoJLV,umWEH,ZechW.Lngtermefectsofmaure，chacoalndmineralfertlzationoorodutanfetilityoalyweatherdentralAmazoupladsil.lantandil,O91/2）：9.  
+[31]SteinerC,raG,a,ZechoblespotacaedetsofhglathdlsadAmazokrthiCentralAmazona-prelinaryresults//GlaserB，WoodsWIedsAmazoianDarkEarths：ExploraiosinSpaceadTme.BerliHeidelbergSpringer，2004：195-212.  
+[32]Muhammad N,Dai ZM, Xiao K C,Meng J,Brookes PC,Liu XM,Wang HZ,WuJJ, Xu JM. Changes ir icrobial community structure dueto biocharsgeneratedfrodferentfedstocksadtheirelatioipsithsoilchemicalpropertes.Geodera，O14，226-27:2-78.  
+33]Maestri,aieidtienSye-eedgeaascabdnitrogen mineralization in atemperate forest soil. Soil Biologyand Biochemistry,2014,69：291-301.  
+[34]Kuzbioucbosdotilobalby $^ { 1 4 } \mathrm { C }$ labeling.Soil Biology and Biochemistry,2009,41（2）： 210-219.  
+[35］张红，吕家珑，曹莹菲，徐温新.不同植物秸秆腐解特性与土壤微生物功能多样性研究.土壤学报，2014,51(4)：743-752.  
+[36] Dempster D N,Gleeson D B,Solaiman Z M，Jones D L,Murphy I Decreased soil microbial biomassand nitrogen mineralisation withEucalyptus biochar addition to a coarse textured soil.Plant and Soil,2012,354(1/2): 311-324.  
+[37]SpokasKA，akerJeicoskyDCEylene:potetileforbocaramendenimpactsPlantandSoil,1(/2）：4-4.  
+[38] KillamK，estKalsrsotroloftraceautsiretoigesolilpddalMicrobiology，1984,47(2）: 301-306.  
+[39]KilK,restoKVsulayoaltiofssspseidcdaealdepoisadil,1983,72(1): 39-48.  
+[40］唐行灿，张民.生物炭修复污染土壤的研究进展.环境科学导刊，2014，33(1)：17-26.  
+[41] WarnockDD,umyD,BdeBajorJLaJillgC.Ifuencsf-rbaceousicharonrbuscularycoalfuglabundances inrotsandsoils：resultsfromgrowth-chamberandfieldexperiments.ApliedSoilEcology，2010,46(3）：450-456.  
+[42]TongH,Hu,LiFB,LiCCnMJihareesteicobalndcaltrasfoatiofpetachloooliddlilBiology and Biochemistry，2014，70：142-150.  
+43]SpeaFdngGpactslbitftgeytopasofoegdattedtoxicity to the fungal community. Chemosphere，2013,91(11): 1525-1533.  
+[44] 黎宁,李华兴，朱凤娇，刘远金，邝培锐.莱园土壤微生物生态特征与土壤理化性质的关系.应用生态学报，2006,17（2)：285-290.  
+[45] 丁艳丽，刘杰，王莹莹.生物炭对农田土壤微生物生态的影响研究进展.应用生态学报，2013，24(11)：3311-3317.TiesenH,teartJeulitsotsdeatiooosidAgronomy Journal，1982，74(5）：831-835.  
+[47]RaiesiF,ataeracespalilts（uitrarade）ndflrespiration,biomass and enzyme activities in a calcareous soil.Pedobiologia,2006,50(5）：413-425.  
+[48]ChanKVaZetenL,MeszarosI,oeA,JosephAgroicvusofgreasteharassolamentAustralalfSoil Research，2007，45（8）:629-634.  
+[49］张斌，刘晓雨，潘根兴，郑聚锋，池忠志，李恋卿，张旭辉，郑金伟.施用生物质炭后稻田土壤性质、水稻产量和痕量温室气体排放的变化.中国农业科学，2012，45（23）：4844-4853.

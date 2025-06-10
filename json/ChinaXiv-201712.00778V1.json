@@ -1,0 +1,220 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "困难气道危险因素Logistic回归分析及身高甲颏距离比最佳临界点",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "靳皓,陈萍重庆医科大学附属第一医院麻醉科，重庆400016",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 根据常用气道评估指标探究困难气道的危险因素。方法 选择300例拟行气管插管全麻的患者，术前测量身高、甲颜距离、颈部后仰度、张口度、改良Mallampati分级等气道评估指标。以困难插管评分 $> 5$ 分为困难气管插管,结合困难面罩通气共同定义困难气道。通过logistic回归分析评估各项指标与困难气道相关性，并通过ROC曲线计算受试人群身高甲颏距离比最佳临界点。结果 共8项相关因素按相对危险度估计值(OR)由大到小依次为：身高甲颏距离比3.58(1.95\\~8.46）、改良Mallampati分级3.34(1.82\\~7.14）、体质量指数3.07(1.64\\~6.69）、病史2.79(1.28\\~5.25）、颈围2.15(1.04\\~4.37)、颈部后仰度1.98(0.96\\~3.89）、下颌支长度 $1 . 4 6 ( 0 . 6 7 { \\sim } 3 . 0 4 )$ 、张口度 $1 . 0 1 ( 0 . 4 9 { \\sim } 2 . 5 4 )$ ;身高甲颏距离比最佳临界点为22.8。结论与困难气道相关的评估指标为：身高甲颏距离比、改良Mallampati分级、体质量指数、病史、颈围、颈后仰度、下颌支长度、张口度。身高甲颏距离比是困难气道危险因素，具有较高的评估效能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：困难气道；身高甲颜距离比；危险因素",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Logistic regression analysis of the risk factors for difficult airway and the cut-off value of height-to-thyromental distance ratio ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIN Hao,CHEN Ping Departmentofnesthesiology,irstAfiliatedHospitalofongingedicalniersityhongqingo6,ina Abstract: ObjectiveToanalyzetheriskfactorsfor dificultairway inlaryngoscopyand mask ventilation.Methods Atotal of 300 patients receiving general anesthesia with tracheal intubation were examined preoperatively for height, thyromental and sternomentaldistance (TMD),rangeofneck movement,inter-incisordistance,and modifiedMallmpati class.Intubation Difficult Score wasused toidentifyadificultlaryngoscopy.Dificultairway was definedas eitherdificult laryngoscopyor dificult mask ventilation.The association between theairwaycharacteristics and dificult airway was analyzedby logistic regression analysis，and thecut-offvaluesforthe height-to-TMDratio was determinedby theROC curve.Results and Conclusion Eight airway characteristics were identified to contribute to a dificult airway, including (OR $[ 9 5 \\%$ CI]） the height-to-TMDatio (.58[195-8.46]),modifedMalmpati cla (.34[1827.14]),M(.07[164-6.69]),historyofapvou dificult airway (2.79[128-5.25]),athick neck (2.15[1.04-4.37l),rangeof neck movement (1.98[0.96-3.89]),sternomentaland angulus mandibulae distance (1.46[0.67-3.04]),and inter-incisor distance (1.01[0.49-2.54).Theoptimal cut-offvalue forthe height-to-TMD ratio was 22.8 for predicting a difficult airway. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: difficult airway; ratio of height to thyromental distance; risk factors ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在临床工作中，未预料的困难气道并不少见，加大了气道管理的难度，且可能引发组织缺氧、心跳骤停等严重并发症。我们常规运用张口度、下颌支长度、头颈活动度、BMI等参数来评估气道，然而上述参数并未能准确预估肥胖病人的声门显露程度，同样也不能够准确评估发生插管困难的概率[1];在使用Glidescope可视喉镜辅助插管时，单凭Mallampati分级不能有效评估发生困难气道的风险[2]。常规运用的气道评估指标是否能够准确评估困难气道发生概率？本研究将通过logistic回归分析和相对危险度估计探究常用气道评估指标与发生困难气道的相关性，引进身高甲颜距离比的概念并划分其最佳临界点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1对象与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "择期行全麻气管插管手术的病人300例，男168例，女132例,年龄18\\~65岁，体质量40\\~99kg,ASA1\\~3级。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2术前评估指标",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2.1一般资料 (1)病史：困难气道史、打鼾或睡眠呼吸暂停综合征史、气道手术史、头颈部放疗史等，上述病史均提示可能出现困难气道；(2)体质量指数：体质量与身高平方的比值，正常范围 $1 8 . 5 { \\sim } 2 3 . 9 , { \\geqslant } 2 6$ 肥胖，常导致面罩通气困难或困难插管。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 测量指标 (1)颈围：经颈后第7颈椎上缘、前面喉结下方所测量的围度， ${ \\geqslant } 4 2 \\ \\mathrm { c m }$ 插管困难可能性大；(2)颈长：下颌骨颏突和胸骨切迹上缘间的距离， $< 1 3 . 5 ~ \\mathrm { c m }$ 颈短，可能气管插管困难；(3)颈部后仰度：头部从中立位到最大限度上扬所形成的角度,正常人 ${ > } 9 0 ^ { \\circ }$ ${ < } 3 0 ^ { \\circ }$ 通常难以观察到声门的任何部分导致插管失败；(4)身高甲颏距离比：身高与头伸展位时甲状软骨切迹至下颚尖端距离的比值，具有种族依赖性，尚需根据不同的研究对象划分最佳临界点，比值大于最佳临界点预测困难气道；(5)下颌支长度：下颌角至颏突间的距离，其测值若 $< 9 \\mathrm { c m }$ 则困难插管发生率高;(6)张口度：最大张口时上下门齿间距,正常值 ${ \\geqslant } 3 . 5 \\mathrm { c m }$ $< 3 . 5 ~ \\mathrm { c m }$ 可能置入喉镜困难；(7)改良Mallampati分级：患者坐位正对麻醉医师，用力张口伸舌至最大限度，根据看到的咽部结构进行分级。I级：可见软腭,咽聘弓，悬雍垂；Ⅱ级：可见软腭，咽腭弓，悬雍垂部分被舌体遮挡;IⅢ级：仅可见软聘;V级：软腭不可见。Mallampati分级达ⅢI、IV级时困难插管的可能性较大;(8)齿列咬合：上下颌闭合时上下齿列的相互位置关系，现代人大都属于前齿部的上颌齿列在下颌齿列之前的剪式咬合；另与此相反的有退后咬合和上颚的门齿倾斜覆于下颚门齿之上的斜盖咬合都是少数。上、下颚的门齿不一致的钳状咬合在古人类是常见的。还有病态的间离咬合等。除剪式咬合以外的齿列咬合形式均可造成面罩通气、气管插管困难;(9)颞颌关节活动度：嘱患者将下切牙前伸至超出上切牙，正常情况下牙列可突出至上牙列之前或与之平齐，若下牙列不能达到与上牙列平齐，则可能开放气道困难或声门显露不佳。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3麻醉诱导与插管",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人室后开放静脉通路，常规连续监测心电图、心率、血压、脉搏血氧饱和度和呼气末二氧化碳分压。诱导前吸纯氧 $4 \\mathrm { L } / \\mathrm { m i n } 3 \\mathrm { m i n }$ 。静脉注射力月西 $0 . 1 \\mathrm { \\ m g / k g }$ ，舒芬太尼 $0 . 5 ~ { \\mu \\mathrm { g / k g } }$ ，丙泊酚 $2 \\mathrm { m g / k g }$ ,维库溴铵 $0 . 1 2 \\mathrm { m g / k g }$ 麻醉诱导。插管前用喉镜评估气道(CormackLehane分级)，插管后连接呼吸机行机械通气，并监测二氧化碳压力波形并结合双肺听诊以确定插管成功与否。备口咽通气道于困难面罩通气时紧急开放气道，备Glidescope视频喉镜用于解决困难插管，如果可视化技术仍未成功辅助插管，采取纤维支气管镜导引的方式气管插管。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4困难气道标准的设定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "困难气道：具有5年以上临床麻醉经验的麻醉科医师在面罩通气或气管插管时遇到困难的一种临床情况，包括困难面罩通气和困难气管插管。1.4.1困难面罩通气有经验的麻醉科医师在无他人帮助情况下，经过多次或超过1min的努力，仍不能获得有效的面罩通气。1.4.2困难气管插管以0分为基础出现以下任一情况加1分，累计得总分即为困难插管评分：插管次数 ${ \\bf > } 1$ ，操作人数 ${ > } 1$ ,CormackLehane分级III、IV级，增大上提镜柄力量，压迫环状软骨，换用其他辅助插管技术,声带内收。困难插管评分 ${ \\cdot > } 5$ 分为困难气管插管。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5 统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与困难插管可能相关的因素，进行Logistic回归分析和相对危险度的估计，Logistic回归分析各变量的设定见表1;其中X6：身高/甲频距离为常数变量项，对X6项通过ROC曲线确定其最佳临界点。采用SPSS21.0统计软件进行分析， $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7b634027e0450e4baad2adb7ff9a37397ac0ceb2cdd5645ede5fd9886f7acbb.jpg",
+        "table_caption": [
+            "表1Logistic回归分析的各项变量赋值 Tab.1 Score assignment for the risk factors in logistic regression analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Variable</td><td colspan=\"2\">Evaluation</td></tr><tr><td>0</td><td>1</td></tr><tr><td>X1: History of difficult airway</td><td>No</td><td>Yes</td></tr><tr><td>X2: BMI (kg/m²)</td><td><26</td><td>≥26</td></tr><tr><td>X3: Neck circumference (cm)</td><td><42</td><td>≥42</td></tr><tr><td>X4: Neck length (cm)</td><td>≥13.5</td><td><13.5</td></tr><tr><td>X5:Range of neck movement ()</td><td>≥30</td><td><30</td></tr><tr><td>X6: Ratio of height and TMD</td><td></td><td>-</td></tr><tr><td>X7: Sternomental and angulus mandibulae distance (cm)</td><td>≥9</td><td><9</td></tr><tr><td>X8:Inter-incisor distance (cm)</td><td>≥3.5</td><td><3.5</td></tr><tr><td>X9:Modified Mallampati class</td><td>Ior II</td><td>II or IV</td></tr><tr><td>X10: Occlusion</td><td>Normal scissor bite</td><td>Malocclusion</td></tr><tr><td>X11:Range of temporomandibular movement</td><td>Normal</td><td>Abnomal</td></tr><tr><td>Y: Difficult airway</td><td>No</td><td>Yes</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各项指标预测困难气道的灵敏度、特异性、阳性预测值及阴性预测值见表2。Logistic回归分析结果示，与困难气道有相关性的评估指标共计8项(表2)，其相对危险度估计值(OR)与 $9 5 \\%$ 可信区间 $( 9 5 \\% C \\mathrm { I } )$ 按OR由大到小依次为：身高甲颜距离比(3.58,1.95\\~8.46)，改良",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mallammpati分级（3.34,1.82\\~7.14)，BMI(3.07，1.64\\~6.69)，病史(2.79,1.28\\~5.25),颈围(2.15,1.04\\~4.37)，颈部后仰度(1.98,0.96\\~3.89)，下颌支长度(1.46,0.67\\~3.04)，张口度(1.01,0.49\\~2.54)。身高甲频距离比最佳临界点为22.8。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a9bb901a1c8acd81c321cf58778167059a06f65542b2f0e1da3b5c0bfbc6dbba.jpg",
+        "table_caption": [
+            "表2各指标灵敏度、特异性、阳性预测值及阴性预测值 Tab.2 Sensitivity,specificitypositive and negative predictive values ofeach factor for predictinga dificult airway "
+        ],
+        "table_footnote": [
+            "E:Sensitivity; SP:Specificity; PPV: Positive predictive value; NPV: Negative predictive value "
+        ],
+        "table_body": "<html><body><table><tr><td>Variable</td><td>SE(%)</td><td>SP (%)</td><td>PPV (%)</td><td>NPV (%)</td></tr><tr><td>History of difficult airway</td><td>55.56</td><td>58.24</td><td>11.63</td><td>92.44</td></tr><tr><td>BMI</td><td>51.85</td><td>64.84</td><td>11.67</td><td>93.16</td></tr><tr><td>Neck circumference</td><td>44.44</td><td>76.92</td><td>16.00</td><td>93.33</td></tr><tr><td>Neck length</td><td>40.74</td><td>68.50</td><td>11.34</td><td>92.12</td></tr><tr><td>Range of neck movement</td><td>3.70</td><td>97.44</td><td>12.50</td><td>91.10</td></tr><tr><td>Sternomental and angulus mandibulae distance</td><td>22.22</td><td>86.45</td><td>13.95</td><td>91.83</td></tr><tr><td>Inter-incisor distance</td><td>7.41</td><td>95.97</td><td>15.38</td><td>91.29</td></tr><tr><td>Modified Mallampati class</td><td>48.15</td><td>74.73</td><td>15.85</td><td>93.58</td></tr><tr><td>Occlusion</td><td>18.52</td><td>73.99</td><td>6.58</td><td>90.18</td></tr><tr><td>Range of temporomandibular movement</td><td>11.11</td><td>71.43</td><td>3.70</td><td>89.04</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "困难插管的发生率在非洲西部人群为 $3 . 4 \\%$ ，伊朗$2 3 . 1 \\%$ ,人口大国中国和克什米尔分别为 $8 . 2 \\%$ 和 $3 . 3 \\%$ ·困难面罩通气的发生率为 $0 . 0 7 \\% { \\sim } 5 \\%$ ,未预料的困难气道发生率为 $0 . 0 0 1 \\% { \\sim } 0 . 2 \\% ^ { [ 3 ] }$ 。本研究困难插管共27例,其中1例合并困难面罩通气，1例为未预料的困难气道，与上述研究结果相近。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究通过对各项气道评估指标进行Logistic回归分析，得出与困难气道可能相关的因素为：身高甲颏距离比、改良Mallampati分级、体质量指数、病史、颈围、颈后仰度、下颌支长度、张口度;其中前四项因素相关性较高。改良Mallampati分级是目前应用最为广泛的气道评估指标之一，本研究中其敏感性为 $4 8 . 1 5 \\%$ ，与文献报道相近[46;Safavi等通过测绘ROC曲线发现其评估效能远低于身高甲颇距离比。改良Mallampati分级更适用于预测困难面罩通气的发生，而不是预测困难气管插管8,研究发现其仍需联合多个气道评估指标方可提高预测困难气道的准确性[9。与困难气道相关的病史包括头颈部放疗史、气道手术史、打鼾或睡眠呼吸暂停综合征等。在口腔颌面外科和耳鼻喉科困难气道的发生主要与肿瘤引起的上呼吸道解剖学改变相关。鼾症多见于男性，体质量指数大并导致睡眠呼吸暂停综合征是其与困难气道相关的原因；有研究表明在女性患者体质量指数与困难气道的相关性并不及男性患者显著[10],这与肥胖与鼾症具有相关性，而鼾症在男性多发有关。颈短粗可能发生困难气道，本研究中颈围敏感性为$4 4 . 4 4 \\%$ ，特异度 $7 6 . 9 2 \\%$ ,与相关研究结果一致[4]。本研究中颈后仰度、下颌支长度及张口度相对危险度估计值均较低，其中又以张口度最低;Hilditch等也发现颈后仰度、下颌支长度、张口度作为单因素可靠性均差，有研究表明张口度准确度和可靠性是最差的[12],与本研究结果相近。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "身高甲颏距离比是一项优于甲颜距离的气道评估指标，在国外的研究开展不足15年，仅有少数几例研究划分出其最佳临界点，在国内几乎没有相关研究报导。该指标更充分地体现了患者的咽轴与喉轴所成角度而不是从颜突至甲状软骨上极的空间，其敏感性与甲颏距离相近,但特异性大于甲颏距离[13]。身高甲颏距离比即身高与头伸展位时甲状软骨切迹至下颚尖端距离的比值，与人群的身高、甲频距离及其比例均有关，根据身高甲颏距离比评估困难气道具有种族依赖性，不同人群需独立划分最佳临界点。其最佳临界点在白种人为25.0,伊朗为24.0,泰国为 $2 3 . 5 ^ { [ 1 4 - 1 5 ] }$ ;本研究中为22.8,结果与当地人口形态学特征有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究具有一定的局限性，研究对象为择期手术成年患者，不包括急诊、重症监护患者及新生儿，故研究结果不适用于上述人群;本研究未予记录围术期血流动力学变化，而有研究表明高血压亦与困难气道有一定相关性[6,尚有待进一步研究证实。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Hekiert AM,Mandel J,Mirza N.Laryngoscopies in the obese: predicting problems and optimizing visualization [J].Ann Otol Rhinol Laryngol, 2007,116: 312-6.   \n[2]Frerk CM,Lee G.Laryngoscopy: time to change our view[J]. Anaesthesia,2009,64:351-4.   \n[3]Gupta AK,Ommid M, Nengroo S,et al. Predictors of difficult intubation: Study in Kashmiri population[J].Br JMed Pract,2010, 3: 307-12.   \n[4]曾玲双,马晓阳,高 军.喉镜暴露困难的预测系统研究[J].临床麻醉 学杂志,2013,29(8):789-91.   \n[5]K Nasa V,S Kamath S.Risk factors assessment of the difficult intubation using intubation difficulty scale (IDS) J].J Clin Diagn Res,2014,8(7):GC01-3.   \n[6]胡云清,欧玉清,刘第海,等.多参数结合对困难气道预测的临床研究 [J].华西医学,2008(5):1003-4.   \n[7]Safavi M,Honarmand A,Zare N.A comparison of the ratio of patient'sheight to thyromental distance with the modified Mallampati and the upper lip bite test in predicting difficult laryngoscopy[J]. Saudi JAnaesth,2011,5(3): 258-63.   \n[8]Kheterpal S,Martin L,Shanks AM,et al.Prediction and outcomes of impossible mask ventilation:a review of 5o,ooo anesthetics[J]. Anesthesiology,2009,110(4): 891-7.   \n[9]Lundstrom LH,Vester-Andersen M,Moller AM,et al.Poor prognostic value of the modified Mallampati score: a meta-analysis involving 177 088 patients[J].Br JAnaesth,2011,107(5): 659-67.   \n[10]Heinrich S,Birkholz T,Irouschek A,et al. Incidences and predictors of difficult laryngoscopy in adult patients undergoing general anesthesia[J].JAnesth,2013,27(6): 815-21.   \n[11]Hilditch WG,Kopka A,Crawford JM,et al.Interobserver reliability between a nurse and anaesthetist of tests used for predicting difficult tracheal intubation[J].Anaesthesia,20O4,59(9): 881-4.   \n[12]胡胜红,李元海,陈珂,等.困难气道评估方法临床相关性的研究[J]. 临床麻醉学杂志,2009,25(5):447-8.   \n[13]Etezadi F,Ahangari A, Shokri H,et al. Thyromental height:a new clinical test for prediction of difficult laryngoscopy[J].Anesth Analg,2013,117(6): 1347-51.   \n[14]Farzi F,Mirmansouri A,Forghanparast K,et al.Difficult laryngoscopy;the predictive value of ratio of height to thyromental distance versus other common predictive tests of upper airway[J]. Prof MedJ,2012,19:6.   \n[15]Krobbuaban B,Diregpoke S,Kumkeaw S,et al. The predictive value of the height ratio and thyromental distance:Four predictive tests for difficult laryngoscopy[J].Anesth Analg，2Oo5,101(5): 1542-5.   \n[16]Prakash S,Kumar A,Bhandari S,et al.Difficult laryngoscopy and intubation in the Indian population: An assessment of anatomical and clinical risk factors[J].Indian JAnaesth,2013,57(6): 569-75. (编辑·吴锦雅） ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    }
+]

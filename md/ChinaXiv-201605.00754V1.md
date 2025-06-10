@@ -1,0 +1,227 @@
+# 临近闪烁分析技术在生命科学研究中的新进展
+
+张洪杰\*
+
+(中国科学院生物物理研究所，蛋白质科学技术平台，北京100101)
+
+摘要起源于放射免疫分析的临近闪烁分析法(scintilation proximit assy,SPA)是一种均相、灵敏、快速和简便的基于闪烁载体的分析平台．放射性标记分子和亲和标签分子的多样化和商业化，以及液闪计数器和液相操作等技术的发展，使得 SPA操作具有无需分离、被测目标分子易于固定和检测的优势．SPA已成为高通量检测的重要方法，广范应用于筛选药物靶点及先导化合物筛选、药物作用机理研究，以及病毒、肿瘤标志物等抗原的高通量检测：本文在简要介绍 SPA技术的原理及系统分析 SPA操作中环境、条件对测试结果影响的基础上，比较全面地介绍了SPA技术在生物学研究中的应用，尤其是在膜蛋白和细胞水平上的应用进展，介绍了应用实例，归纳了国内研究人员开展相关技术应用与技术创新的制约因素，给出了未来的发展趋势．基于SPA的生物学应用技术创新必然提升我们对细胞体系生物学的全面理解
+
+关键词临近闪烁分析法，非临近效应，猝灭效应，膜蛋白，细胞水平分析学科分类号 Q6-33
+
+DOI:10.16476/j.pibb.2015.0384
+
+起源于放射性免疫分析的临近闪烁分析技术(scintillationproximityassay，SPA)是自 2O 世纪70年代末逐步发展起来的一种检测β射线示踪的灵敏、快速、均相和简便的高通量分析平台[，在一个相当长的时期内该技术曾是国外大型制药企业进行高通量药物筛选的主要方法．虽然早期公开的报道寥寥无几，但是对该技术的需求促使SPA检测中的两个核心技术(闪烁体微球和高通量液闪检测仪)在工业部门得到快速发展．由于SPA操作过程中产生的放射性废物的处理问题，各国政府对放射性物质越来越严格的管理，以及替代技术的迅猛发展，SPA技术在高通量药物筛选方面的使用相对减少．但SPA技术的优势，使得近年来采用该技术进行高通量药物筛选的方法学研究报道逐渐增加．同时SPA技术的应用范围也在不断扩展．以NCBI文献数据库为主，通过主题词scitillationproximityassay搜索，获得相关文献393篇，剔除综述性文献(包括系列丛书中的实验方法文章)后，对每一篇文献摘要进行筛选，对于仅从摘要不能断定的，再参考正文，剔除和SPA技术无关的文章，共获得有效文献328篇，其年代分布自1979年至今(图1)．20 世纪90 年代初 SPA操作平台基本建成后，其应用研究一直处于较平稳、缓慢的发展状态．除高通量药物筛选外，该技术在受体-配体结合、放射免疫分析、酶分析、蛋白质相互作用、蛋白质-核酸相互作用等研究方面有着广泛的应用.近年来SPA技术又有了新进展，如在细胞上直接研究大分子的功能，用SPA技术研究细胞膜吞噬机制，以及采用细胞体系筛选作用于特定靶点的药物等．目前，缺乏对于SPA技术的系统性介绍.本文比较详细地介绍SPA技术的前沿新动态，以期国内的相关研究人员能够了解SPA技术的发展动态，在适当的条件下运用相关实验方法，推动科研工作的不断深入.
+
+# 1SPA技术的基本原理与方法
+
+SPA作为一种固体均相技术，其原理(图2)为：在测量体系中同时存在放射性标记的物质(授予体)、与放射性标记物相互作用的物质(接收体)，以及能够将授予体-接收体相互作用的复合物固定于
+
+25 20 ededo e 5 0 6L6I 8 8 S861 8 686I 166L £661 S66[ L66[ 666[ 1000 2000 2005 2007 6000 1101 1102 2105 9 9 1 Year
+
+![](images/8c254a414bae760041918d2aae28812cd92426e4bc005205692f2e8dcf5a1492.jpg)  
+Fig.1Distribution of SPA papers versus years图1SPA技术相关文献数量的年代分布  
+Fig.2Principle of scintillation proximity assay图2临近闪烁分析法原理
+
+含有闪烁剂的载体．弱 $\beta$ 粒子能量比较低，在溶液中释放的 $\beta$ 粒子仅能穿透极短的距离(对于 $^ 3 \mathrm { H }$ $1 \sim 8 ~ \mu \mathrm { m } )$ ，当授予体和接收体被同时固定在载体表面时，弱 $\beta$ 粒子所发射的射线能够达到载体内的闪烁体进行能量转移、激发闪烁剂发射光子并被检测器记录．相邻的载体间的距离大于弱 $\beta$ 粒子在溶液中的穿透距离，邻近载体上的闪烁剂不会被激发．若授予体没有固定在载体上， $\beta$ 粒子能量将会因距离关系不能传递给闪烁剂，从而发生自身湮灭．因此，游离的放射性标记分子不会影响检测，也无需离心、洗涤、过滤等物理分离过程，相对其他非均相分析技术，SPA分析过程更简便、更易于实现自动化，恰好满足高通量分析的要求．因不需分离，SPA技术还能够测定解离速度比较快的分子相互作用(分离法测定要求复合物解离速度必须足够慢)[7].
+
+选择恰当的放射性标记是做好SPA测量的一个重要方面．特别适合进行SPA测试的核素探针为 $^ 3 \mathrm { H }$ ，因为该核素释放的能量比较低， $\beta$ 粒子在溶液中穿透的距离小，即使使用较大的放射标记剂量，未结合到闪烁载体上的 $^ 3 \mathrm { H }$ 标记授予体所产生的放射信号本底仍然比较低．另一个合适的示踪核素为 $^ { 1 2 5 } \mathrm { I }$ ：虽然 $^ { 1 2 5 } \mathrm { I }$ 是 $\gamma$ 射线源，但它还能释放2个低能的俄歇电子，其在溶液中的穿透距离分别为$1 . 1 \ \mu \mathrm { m }$ 和 $1 8 ~ \mu \mathrm { m }$ ．能量较高的俄歇电子不仅能激发被固定有该核素的闪烁载体发光，还能激发与之相邻的闪烁载体发光，因而其检测效率较 $^ 3 \mathrm { H }$ 高.更高能量的 $\beta$ 粒子源核素，如 $^ { 3 5 } \mathrm { S }$ ， $^ { 1 4 } \mathrm { C }$ 和 $^ { 3 3 } \mathrm { P }$ ，因为其 $\beta$ 粒子在水溶液中的穿透距离更大(分别为58，66和 $1 2 6 ~ \mu \mathrm { m } )$ ，其在SPA检测中的应用受到一定的限制．主要原因是载体中的闪烁体俘获临近放射性核素释放的高能量 $\beta$ 粒子的效率降低、过度的临近相互作用以及游离放射探针产生的较强的背景信号(NPE)等因素.
+
+闪烁载体的制备技术是SPA分析平台的核心技术之一．闪烁载体的主要形式有微球和微板．商业化的SPA微球由含有闪烁剂(或本身可以激发产生光子)的微球核、表面可连接各种官能团的多羟基膜和可以特异性结合受体和酶等的亲和标签分子组成．聚乙烯甲苯微球(PVT)，由溶解并包埋了闪烁剂二苯基蒽的疏水聚合物固溶体以及外层包被的多羟基膜组成．多羟基膜不仅能够降低微球对环境中其他物质的非特异性吸附，还有助于避免微球表面的过度亲水．硅酸钇(YSi)微球是一种含有铈离子的无机材料， $\beta$ 射线能够激发微球中的离子空穴运动产生光子．两种微球表面都共价结合了不同的偶联分子，可以方便地固定各种受体、标签蛋白、细胞膜、生物素化分子等生化材料．PVT和YSi两种闪烁微球均在 $3 0 0 { \sim } 4 5 0 \mathrm { n m }$ 的蓝光区发光，恰好位于光电倍增管(PMT)检测窗口的最适区域．第一代SPA计数器就是基于PMT技术的光子检测，商业化的仪器主要有Micro- $\beta$ TriLux、Topcount 以及近年推出的综合了二者优势的Micro- $\cdot \mathsf { \{ { \beta } }  ^ { 2 }$ ．该类型的计数器，每个PMT管(或PMT 管对)一次只能读取一个孔，为了提高通量，仪器可以安装12组PMT同时测量，在此条件下读取96孔板至少需要$8 ~ \mathrm { m i n }$ ，384孔板需要 $3 2 \mathrm { m i n }$ ，对于1536孔板及以上时，由于孔密度大，读数时间变长，成为高通量筛选自动化的瓶颈，
+
+由于PMT检测波长范围处于黄光区，生物样品制备时经常会产生颜色猝灭，导致测量信号失真．虽然理论上通过测定发光效率能够弥补颜色猝灭以及其他猝灭因素的影响，实际操作中却存在着各种困难．为此开发了发红色荧光的聚乙烯微球(PS)和氧化钇微球(YOx)(发光区间为 $5 9 0 { \sim } 6 6 0 ~ \mathrm { n m } ,$ 一从而避开样品制备中的颜色猝灭区间．红色荧光的波长已经超出了PMT的监测窗口范围，但可被基于电荷耦合器成像板技术(CCD)解决．商业化的计数器有ViewLux和LEADSeeker．因为CCD通常需要低温环境，目前在一般实验室中使用的不多.
+
+在商业化的SPA闪烁载体中，除了细微颗粒的微球外，还研究开发出多种微球固定化的多孔测试板．微板的表面也包覆有不同的亲和标签分子.微板的优势包括：不存在分散问题、液相操作减少、易于样品的洗涤和自动化程度更高，等等，使得SPA技术能够在细胞水平研究生物分子的相互作用以及细胞的增殖，细胞膜的融合等重要过程，并可获得实时检测的信息，在生物学示踪研究方面取得了新进展．但它们也存在一些缺点，如检测信号比较低、不能通过增加载体量来增加信号等.
+
+# 2SPA测量中的条件优化
+
+成功的SPA检测始于细致的条件优化．SPA分析条件的优化在许多方面和传统的放射性示踪分析相似，所以寻找放射性授予体和接收体结合的条件，在SPA分析中也同样需要注意．例如在测定难溶于水的有机分子和其作用靶点的相互作用时，为了提高小分子的溶解性，在测量体系中会有一定浓度的DMSO，不论是SPA测量还是传统的分离法测量，该溶剂的浓度偏高时都会严重影响结果的可靠性8．此外，在SPA分析中还需要特别注意以下几个方面的条件优化.
+
+# 2.1考虑放射探针接受体在闪烁载体表面固定的空间位阻效应
+
+SPA分析中涉及到将一种材料，通常是非标记的放射示踪接收体(如生物大分子)，固定于载体上，因此需要考虑固定化对生物大分子的分子构象、空间位阻以及分子活性的影响，这就需要分析受体或酶等生物分子结构的特点，特别是分子中特殊的官能团或氨基酸残基，在此基础上选择合适的载体和亲和标签分子．Odagaki和Toyoshima[9-10在研究大鼠脑膜毒蕈胆碱能受体介导的 $\mathrm { G q }$ 激活机制中发现，固定细胞膜于包被有抗兔Ig(二抗)的 PVT微球表面时，多抗(一抗)的选择对测定分析的成功起着重要作用．在所选的16种抗 $\mathbf { G } \mathbf { \alpha } $ 不同亚型的兔源多抗时，只有 $\mathbf { s c } { - } 3 9 3$ 能够以恰当的方式将脑膜固定于PVT表面，并能理想地观测氨甲酰胆碱剂量变化对Gq结合 $[ ^ { 3 5 } \mathrm { S } ] \mathrm { G T P } \gamma \mathrm { S }$ 的变化，其他多抗虽然也能够起到固定 $\mathrm { G q }$ 的作用，但所测到的信噪比都比较小，没有研究价值.
+
+# 2.2 降低检测中的NPE效应
+
+SPA分析中还需要优化反应条件，降低检测中的NPE效应．优化条件中，选择合适的载体剂量对于筛选到合适的测量窗口很重要．Baker等在研究RNA甲基化反应的检测条件时发现，选择YSi载体剂量为 $\mathrm { 1 ~ m g / }$ 孔时，能够获得比较满意的信噪比 $\scriptstyle ( S / N \approx 4 )$ ，而载体量过低(如低于 $0 . 5 \mathrm { m g / }$ 孔）过高(如高于 $2 . 5 ~ \mathrm { m g / }$ 孔)都会降低信噪比(图3)．尤其值得注意的是，低剂量YSi时，提高载体用量主要提高检测信号的值，对于噪音信号的影响较小，■一■：指定剂量的闪烁微球与 $5 0 ~ \mu \mathrm { l }$ 酶促反应猝灭液混合并加水稀释至 $2 5 0 ~ \mu \mathrm { l }$ . $\bullet - \bullet$ ：指定剂量的闪烁微球与 $5 0 ~ \mu \mathrm { l }$ 酶促反应本底对照液混合并加水稀释至 $2 5 0 \mu \mathrm { l }$ 详细内容请参照文献[11].
+
+![](images/a3748b24b4a370c78ac19a79864e4e1b240fc42b199d5010709f475b4ad3ee84.jpg)  
+Fig.3Optimization of assay conditions versus YSi bead amounts[11]   
+图3闪烁微球YSi的使用量的优化[]
+
+而采用高剂量的YSi时，增加载体用量对检测信号几乎没有影响，但对噪音信号的放大效应显著．可见在选定的计量条件下，YSi微球剂量的适当范围还是比较窄的．选择释放低能粒子的核素对获得好的信噪比很重要． $^ { 1 4 } \mathrm { C }$ 、 $\mathrm { ^ { 3 3 } P }$ 和 $^ { 3 5 } \mathrm { S }$ 的衰变粒子能量高，其非临近效果明显，所以较少用于SPA中.但是 $^ { 3 5 } \mathrm { S }$ 在G蛋白偶联受体激活中测定 $\mathrm { { G T P } \gamma \mathrm { { s } } }$ 的变化应用较多， $\mathrm { ^ { 3 3 } P }$ 在磷酸化激酶，磷酸转移酶的酶活测定及抑制剂筛选方面应用较多，对这些长路径的同位素，可以加入丙三醇、蔗糖和氯化铯等试剂或者采用离心和沉降等操作手段减少非临近效果．Park 等[12]比较了 $\mathbf { C } \mathbf { s } \mathbf { C } \mathbf { l }$ 悬浮和沉淀两种方式对SPA测量信噪比的影响，含生物素(biotin)标签的多肽底物经磷酸激酶催化后将 $[ { } ^ { 3 3 } \mathrm { P } ] _ { \big \gamma } .$ -ATP中的放射性示踪 $\mathrm { ^ { 3 3 } P }$ 转移到多肽上，链霉亲和素(streptavidin)包被的SPA微球专一性地固定biotin-多肽，其中被固定的 $\mathrm { ^ { 3 3 } P }$ 可以将射线能量传递给闪烁微球，从而给出放射检测信号．在 $3 \mathrm { \ m o l / L } \mathrm { C s C l }$ 中悬浮 $9 0 \mathrm { m i n }$ 所得的信噪比为12.5，而离心沉降方法仅能达到10.3.
+
+# 2.3抑制检测体系中荧光性物质的影响
+
+组蛋白乙酰化转移酶催化底物乙酰化辅酶A，使另一底物组蛋白中的特定赖氨酸侧链乙酰化，参与表观遗传学过程．该酶功能的异常与多种疾病相关，是药物设计的一个重要靶点．Ngo 等[1]以[H]Ac-CoA为标记底物，采用SPA技术测定组蛋白乙酰化转移酶活力时发现，Ac-CoA的负电荷与组蛋白肽底物赖氨酸侧链的正电荷，能够通过静电作用形成强烈的非专一性作用，产生严重干扰SPA检测的NPE信号．加入适当浓度的盐酸胍、 $\mathrm { \Delta N a H C O _ { 3 } }$ ，十二烷基磺酸钠(SDS)可以有效破坏 Ac-CoA 与组蛋白多肽底物之间的结合，破坏底物和辅助因子之间的相互作用，可以得到可靠的SPA信号，并且适合高通量筛选.
+
+# 2.4降低检测体系的荧光猝灭效应
+
+降低测量体系中存在的水介质及颜色猝灭效应因素，对于SPA分析也很重要．将反应样品洗涤并干燥，能够提高检测信号的信噪比，这一点在使用闪烁微板时效果明显．Ung等[4新近发展了一种在肿瘤细胞中采用SPA技术高通量筛选人脂肪酸生物合成途径抑制剂的方法，其中对放射标记细胞的洗涤和干燥可以将检测信号的信噪比提高2倍.可见，系统摸索优化分析条件，对获得理想的实验数据具有重要作用.
+
+# 3SPA技术的应用
+
+可把 SPA应用分为基于分子水平和细胞水平的两大类．实时监测技术不论是在分子水平的测量方面还是细胞水平的测量方面，近年来都有显著的发展.
+
+# 3.1SPA技术在分子水平上的应用
+
+# 3.1.1 SPA技术是药物筛选中的金标准
+
+在分子水平上最主要的应用是采用SPA进行高通量筛药[14-16．在迄今为止已知的500 余个治疗药物靶点中，G蛋白偶联受体(GPCR)是一类重要的靶点，进入临床市场 $40 \%$ 的药物作用靶点是GPCR，所以其用于SPA高通量筛药的报道很多.SPA方法的优势是，商业化放射标记的配体多、检测干扰小、无需分离、可连续读数、可实时检测平衡反应和反应动力学[.I7．测量可供选择的闪烁载体的种类也比较多，如赖氨酸、WGA、亲和素、PEI包被，以及谷胱甘肽和金属离子螯合等亲和标签分子包被的微球和微板都已用于GPCR结合分析．目前采用SPA法分析的GPCR有5-HT受体[18-20]、乙酰胆碱受体9]、胰岛素受体[21-22]、多巴胺受体[23-24]等．药物靶酶的研究及抑制剂的筛选是SPA检测的另一重要领域，并已广泛应用于磷酸激酶、磷酸化酶、聚合酶、转移酶、水解酶[25-35]等的分析．根据酶的分析信号固定于载体的不同选择可分为SPA信号增加型(如放射性标记的生物素化产物)和SPA信号降低型(如放射性标记的生物素化底物)两种．除了生物素以外，也有使用抗体、DNA标记物、受体或其他特殊连接蛋白将酶的底物或产物固定于SPA载体表面.
+
+虽然非放射技术筛药技术目前使用更为广泛，但是近年来关于SPA筛药的方法学报道却在逐步增加，尤其是研究发现，在某些情况下，不同筛选方法所得结果之间的同一性并不高，使得筛选结果和筛选方法无关的假设[3受到了挑战．Takagi等[37]以Cdc7-Dbf4异二聚蛋白激酶为抗肿瘤药物靶点，比较了测量产物[P]-磷酸化多肽的 SPA直接方法和基于偶联反应测定磷酸化过程中另一底物ATP消耗产生冷光的间接方法(LUM)，通过筛选3519个化合物，以比较低的抑制率 $30 \%$ 作为标准，LUM法获得25个阳性化合物，SPA法却仅获得了Tannicacid和Gentianviolet2个阳性化合物，而且仅Tannicacid在LUM法中呈阳性结果．说明LUM法不仅有假阳性，同时还存在漏筛的问题.在酪氨酸激酶抑制剂筛选中，SPA方法与TR-FRET和FP方法的比较[38，以及在核受体拮抗剂筛选中，与AlphaScreenTM和TR-FRET方法的比较[39-40也说明筛选结果和筛选方法有着一定的关系．可见SPA法假阳性率和漏筛率都低，且尤其适合于反应速度比较慢的反应过程，如组蛋白脱甲基化酶等靶点抑制剂的筛选．各种酶耦联监测方法，由于副反应的长时间积累很有可能干扰真实信号的监测．因而SPA筛选法被认为是筛药方法中的金标准[25].
+
+# 3.1.2SPA法可用于分子间相互作用研究
+
+2012年前国内外对SPA高通量筛选技术做了多次详细的评述[4I-49]．SPA方法学报道也显示出该技术在生物学研究中的一些新应用能够克服经典的分离方法中的某些问题．首先，SPA技术可以通过非平衡态的测量获得平衡态的结合常数，解决某些具有慢解离特性的抑制剂筛选问题．对促性腺激素释放激素(GnRH)受体拮抗剂药物的研究发现，具有慢解离特性的拮抗剂比经典的竞争性结合拮抗剂具有更好的疗效．SPA提供了一种不需分离，通过实时测量非平衡结合量的方法，高通量筛选GnRH非肽类拮抗剂并获得稳态抑制常数的快速技术.Heise等采用WGA-PS闪烁微球和CCD影像技术成功筛选了78个化合物，通过比较 $3 0 \mathrm { m i n }$ 和 $1 0 \mathrm { { h } }$ 测得的表观平衡常数 $( K )$ 的比值 $( K _ { \mathrm { i 3 0 m i n } } / K _ { \mathrm { i 1 0 h } } )$ ，筛到5个化合物的比值超过6(占库化合物的 $10 \%$ )，并通过质量作用定律的方法确定出每一个化合物的解离速率常数．其次，绝大多数的SPA研究通过检测放射探针与闪烁微球上固定的探针接受体的结合信号，测定分子相互作用的大小，然而，Wang等[35.50却提出了一种相反的检测方法．他们利用人源脂肪酰胺水解酶(FAAH)抑制剂 $^ { 3 } \mathrm { H } \cdot$ -MAEA竞争结合FAAH，通过添加其他竞争性抑制剂取代$^ { 3 } \mathrm { H } \cdot$ -MAEA，并利用WGA-SPA微球捕获释放的$^ { 3 } \mathrm { H } \cdot$ -MAEA，获得荧光信号．与传统SPA法检测标记授予体结合到固定微球表面的接收体不同，该方法检测被微球抓获并被非标记MAEA置换出的放射标记体，而酶-放射性抑制剂所形成的复合物与微球结合力很弱，不干扰检测信号(图4)．这为我们研究分子相互作用提供了一个新思路．用传统的分离法测定受体与配体相互作用时，必须通过各种手段扣除体系的非特异性结合．非特异性结合的信号小于总信号的 $20 \%$ 时，比较容易获得理想的结果，占 $30 \%$ 左右时，通过条件优化，也能获得可信的数据，当非特异性结合的信号占总信号的$5 0 \%$ 以上时，通常得不到有价值的结果．Wang 等的研究显示，选择合适的标记与 SPA包被材料，使放射探针只有从游离于溶液中的放射性授予体-接受体复合物上被非标记化合物取代出来并被闪烁载体包被物高效吸附时，才能检测到放射信号．这就可以有效地降低乃至消除非特异性吸附的信号影响，为受体的研究提供了新方法．第三，SPA技术因为需要将放射性标记物固定到闪烁载体上才有可测信号，这就为复杂体系中专一性地研究其中的某一中间过程提供了技术基础．HIV 病毒在将其自身DNA整合到宿主基因组的过程中，涉及到病毒DNA的 $3 ^ { \prime }$ 剪切，DNA 链转移形成DNA 整合中间体，并被宿主细胞中的酶加工[等三个步骤．其中前两步均涉及到转酯化反应，并能通过体外模拟integrase-DNA复合物的研究，获得有关结构、作用机制方面的有价值的信息，为integrase 抑制剂的筛选、研发提供科学依据．除抑制 integrase 的$3 ^ { \prime }$ DNA剪切功能外，专一性抑制该酶的链转移活性是筛选HIV 药物的一个重要靶点．但是传统的研究方法都是在均相溶液中进行，再用凝胶分离进行定量分析[52]，因而很难避开 integrase 的 $3 ^ { \prime }$ DNA剪切活性而专一地研究其链转移反应．SPA技术通过将放射性标记的 $3 ^ { \prime }$ DNA底物直接固定到闪烁载体表面，而把 integrase 加入到溶液中进行反应，使它们在微球表面形成 $1 : 1$ 的复合物．这一体系可用于integrase与底物DNA的结合研究、酶活检测、配体和 integrase- $3 ^ { \prime }$ DNA)复合物的结合分析以及竞争性配体的高通量筛选．第四，SPA技术不仅适合松弛型结合的分子相互作用分析，而且更适合做紧密结合型的分子相互作用分析．目前有关研究生物大分子相互作用的物理方法比较多，其中表面等离子体共振(SPR)技术以及等温滴定量热(iTC)技术以其技术较新、不需特定探针而得到广泛的应用．SPR法测定分子结合常数需要分子的结合速度以及解离速度都在一个适于检测的范围内，太快或者太慢都不能得到可靠的结合速率常数和解 离速率常数，仪器的性能可提供解离常数低至$1 0 ^ { - 1 4 } \mathrm { m o l / L }$ 的亲和力测量，但在面对结合与解离过程比较复杂的非一级反应时，如何获得准确的结果，理论上仍比较困难，除非对反应的动力学机制非常清楚．对于iTC 技术而言，如果分子间结合常数特别强，测量时滴定剂和被滴定剂的浓度就必须足够低，才能获得有意义的热量信号．这取决于不同厂家仪器的灵敏度．iTC技术也比较适合解离常数在 $1 0 ^ { - 6 } \mathrm { \ m o l / L }$ 级的反应，极端条件下可低至
+
+![](images/d336d53d1159cab20727f7599f0c496efb117c7013269817a7d66bc685ba152a.jpg)  
+Fig.4SPA used in fatty acid amide hydrolase (FAAH) 图4人脂肪酰胺水解酶(FAAH)的 SPA分析
+
+$1 0 ^ { - 8 } \mathrm { m o l / L }$ 附近，对于 $1 0 ^ { - 9 } \mathrm { m o l / L }$ 及其以下的反应，较难得到理想的结果．另外，iTC滴定不适于反应比较慢的情况，也不适合比较复杂的多元反应体系．相反，SPA技术以其高灵敏度为特征，不仅能够测定非紧密结合型的分子解离常数，同时还能够很便利地测定紧密结合型的分子解离常数．Sun等[53研究了人源RRARg和其拮抗剂的结合，通过竞争性结合反应，测得了化合物B与RRARg的解离常数为 $( 2 . 3 { \pm } 0 . 2 ) \$ nmol/L．而且，SPA技术也比较容易测量分子结合的结合速度常数与解离速度常数[54].
+
+# 3.1.3SPA技术的高灵敏度为痕量物质的高通量分析提供了便捷
+
+放射性免疫分析具有灵敏、高效的特点，是当前临床检测技术中的一个重要方法．传统的免疫放射分析法(RIA)需要分离步骤，然而采用SPA载体后，由于无需分离步骤，使得临近闪烁免疫分析法(SPRIA)的误差减少，获得结果的精确性和重复性都得以提高，这使得免疫分析达到高通量和自动化，同时节约时间和简化操作．该技术的高灵敏特性为在超痕量物质(如DNA、RNA、蛋白质)的定量检测提供了方法学基础[55-58]．Oberlander等发展的 SPA法检测细胞中p53总蛋白的方法和商业化的ELISA法相当，具有快速、节省费用的优势.进一步优化检测条件，如生物素标记的单抗(而不是多抗)作为放射示踪物，有可能比已经商业化的方法更好．目前此方法广范用于阿昔洛韦[5、皮质素[60]和 ${ 5 { \mathrm { - } } \mathrm { H T } _ { 2 \mathrm { C } } } ^ { [ 6 }$ 等抗原的分析.
+
+SPA技术在病毒载量分析方面也显示出了优势．Simpson等发展了一种综合利用竞争性PCR(cPCR)和SPA方法定量乙肝病毒的方法．该方法采用放射性标记的核酸进行PCR，其产物采用SPA方法进行检测并与传统的定量PCR方法进行了比较．结果表明，两种方法在病毒载量的下限方面是一致的，而cPCR-SPA方法较传统方法具有更宽的线性范围，在从46个 ${ \mathrm { H B s A g + } }$ 阳性患者采取的79份血清样品中，采用cPCR-SPA方法测得67例 $( 8 5 \% )$ 阳性而采用GenosticsHBVDNA试剂盒检测到43例 $( 5 4 \% )$ 阳性，表明cPCR-SPA方法比商品化的HBVDNA试剂盒的检测结果更灵敏、漏检率更低.
+
+# 3.2SPA技术在细胞水平上的应用
+
+闪烁微板是SPA技术在细胞水平进行检测的主要载体，也是研究细胞膜生化信号的一个强有力的手段．由于生物大分子的结构，尤其是活性构象受环境的调节作用，SPA技术提供的生物大分子及细胞功能的活细胞检测，使得检测结果更能反应出生物大分子在体内的真实功能，对细胞膜的结构功能研究也是如此．但是，细胞内的生化过程，存在着如何清除未结合、未反应放射性标记物的困难.因而，SPA技术较少用于细胞内生化机制的检测和细胞水平的分子筛药工作[4].
+
+# 3.2.1SPA技术是研究膜蛋白、膜功能的有效方法
+
+膜蛋白的研究是目前结构生物学领域的一个重要方向．与非膜蛋白相比，膜蛋白的表达存在着许多困难．目前多是通过荧光蛋白标签的表达来进行高通量筛选，以获得高效表达条件．SPA技术通过检测膜蛋白与其膜外配体的相互作用，也可以实现对目标膜蛋白表达的高通量筛选，尤其重要的是该筛选还是直接对膜蛋白表达体的功能筛选[63-64]．人源白介素5(hIL-5)受体由 $\alpha$ 和 $\beta$ 亚基组成，可在昆虫细胞SF9中表达，采用WGA包被的闪烁载体固定细胞，并采用 $^ { 1 2 5 } \mathrm { I }$ 标记的IL-5测量配体与该受体结合的解离常数 $( 0 . 2 4 ~ \mathrm { n m o l / L } )$ ，结果与传统的过滤法一致[4]．对非膜蛋白也具备同样的高通量功能筛选作用[5．同时SPA技术通过降低细胞膜对放射性探针的非专一性吸附，为低丰度膜蛋白的功能分析提供了一种可尝试的途径[.
+
+利用SPA技术研究转运体蛋白的功能是近年来SPA技术发展的一个新方向．通过外源转运体蛋白细胞膜的重建，SPA检测技术能够方便、高通量地研究蛋白质的表达、转运体的功能、评估去污剂纯化蛋白的效果以及膜重建条件的优化[67-721]．同样的研究也可以在活细胞状态下进行．如果选择合适的条件，还能达到实时检测数据，获得转运结合常数 $K _ { \mathrm { m } }$ 值，并可对转运体抑制剂的性质进行评价，为转运功能和细胞动力学的关系提供研究基础[73],例如：对JAR细胞中Na+/CI依赖的神经递质转运体的活性的研究[4；在宿主细胞HEK293中，对外源离子通道 $\mathrm { G l u R 4 ^ { \left[ 7 5 \right] } }$ 、回肠和肝来源的 $\mathrm { \Delta N a ^ { + } }$ 依赖的胆汁酸共转运体[以及hOCT1、hOAT3和hOATP1B1转运体[的功能研究.
+
+Culliford[8等建立了一种不需闪烁微球的新型SPA检测技术，用于细胞水平的研究，尤其是细胞转运体蛋白功能的研究．它们合成了一系列能够被射线激发荧光的2,5-二苯基哑唑(PPO)衍生物，使其能够稳定吸收转运到细胞膜上，弱 $\beta$ 射线核素标记的物质一旦进入细胞就能够激发PPO闪烁剂发出荧光．利用此技术研究人员分析了HeLa细胞吞噬放射性标记的牛磺酸、甲硫氨酸等过程，得到比较好的结果．由于重组膜的性质和真实的细胞膜存在着不同，基于SPA技术的原位膜转运体的研究更能反应生物大分子的真实功能，
+
+利用膜蛋白的性质还可以对细胞的功能进行鉴定．细胞凋亡在机体维持内环境稳定方面起着重要的作用，细胞凋亡现象的鉴定是许多细胞生物学研究中的一个重要环节．McMurtrey 等[7建立了一个利用SPA技术鉴定细胞凋亡的方法，该方法使用放射性标记的AnnexV，通过检测AnnexV结合细胞外膜的放射性信号鉴定细胞凋亡，与荧光标记的AnnexV标记细胞经流式细胞分选所得的结果一致．Linde等[8o]利用 $^ { 3 3 } \mathrm { P }$ -dCTP标记，建立了基于核DNA碎片鉴定细胞凋亡的TUNEL-SPA方法．上述实验方法较对应的非同位素标记方法具有样品量小、实验过程中无须分离步骤、适合高通量样品的检测的特点，尤其是为凋亡细胞的动力学研究提供了一种直观、实时的检测手段.
+
+# 3.2.2SPA技术是研究膜融合的一个新手段
+
+内涵体脂质转运以及细胞膜融合机制的研究是SPA技术应用的另一个新领域．Nohturfft小组在这方面做了一系列的工作．他们采用 $2 . 5 ~ { \mu \mathrm { m } }$ 的YSi闪烁微球作为吞噬作用的诱导剂，以巨噬细胞为模型，发现 $[ ^ { 3 } \mathrm { H } ]$ 胆固醇的闪烁信号和培养基中含 $[ ^ { 3 } \mathrm { H } ]$ 胆固醇油酸酯的AcLDL的量呈正比．该放射信号来源于细胞的胞吞作用，抑制细胞的胞吞功能，本底以上的放射信号也被抑制，胞吞时间过程早期的放射信号数据反映了细胞吞噬动力学过程，而终态的数据反应了[H]胆固醇在细胞内膜的稳态分布.这一发现奠定了SPA法检测内涵体脂质转运的方法学基础8I，Nohturfft小组利用该技术开展了胆固醇调控元件结合蛋白的转录调控对胞吞诱导的细胞膜生源(biogenesis)研究[82]．在此基础上，该研究组利用YSi微球刺激巨噬细胞形成吞噬体，利用[H]油酸胆固醇标记巨噬细胞，通过梯度密度离心可以获得[H]标记的溶酶体．在适当条件下吞噬体和溶酶体混合，SPA技术结合传统的分析方法发现了吞噬体/溶酶体融合机制的新细节，在吞噬体和溶酶体对接之前存在着一个需要微丝和钙调素参与的将吞噬体和溶酶体粘连在一起的过程，并可用SPA方法定量表征钙调素抑制剂对吞噬体/溶酶体对接程度的响应，弥补了传统的荧光标志物法的荧光成像研究只能提供定性结果的不足[83-85].
+
+# 3.2.3SPA技术为在细胞水平上的分子筛药提供了新思路
+
+SPA技术在细胞水平的一个重要应用拓展，就是采用SPA技术进行细胞水平的分子筛药．传统的分子筛药具有作用靶点明确的优势，但是药物分子进入细胞内药靶的能力以及在此过程中被代谢从而改变分子结构的问题难以克服，需要细胞水平的二次筛选；而细胞筛药的缺点之一就是分子作用靶点不够明确，存在药物研发的靶向性及风险控制的不足．SPA在细胞水平的分子筛药能够综合双方的优势，克服各自的不足，为建立新的筛药模式提供了一个参考．Uvebrant等[8通过固定CD80，使用表达CD20 的CHO 细胞为材料，对OptiverseTM分子库初筛，获得了抑制CD20-CD80 相互识别的先导化合物，为SPA技术的细胞水平筛药提供了初步的尝试．而研究人员通过对人脂肪酸合成酶抑制剂的 SPA筛选技术的一系列研究，终于实现了在细胞上的分子筛药[14.87-88]．编码人源脂肪酸合成酶的 FASN 基因产物是一个 $2 7 0 \mathrm { k u }$ 的多功能均双体蛋白质，含有6种不同的酶活性功能，能够将乙酰辅酶A或丙二酸单酰辅酶A中的二碳前体转化到脂肪酸的疏水链中．脂肪酸合成酶活性的测定可以采用合成的最终产物进行检测，也可以采用中间产物的变化进行检测．检测方法可以使用荧光、紫外－可见光、化学发光等方法，也可以使用放射性同位素示踪方法．但在细胞上，只有测量放射性标记的脂肪酸合成产物的方法才是一个严格的标准方法[89-911．SPA检测技术可以克服细胞中来源广泛的荧光物质的影响以及水、颜色物质等的猝灭影响，使得该方法具有方法学上的高通量优势．Ung 等[14]选择脂肪酸合成酶高表达肿瘤细胞株HT-29、BT-474、SKBR3为分析对象，并采用正常肺成纤维细胞WI-38为对照，成功筛选了19个脂肪酸合成酶抑制剂．所获得的抑制浓度 $I C _ { 5 0 }$ 与体外测定的结果大多一致，个别抑制剂的 $I C _ { 5 0 }$ 值比体外测定结果高，说明这些分子的给药浓度和细胞内有效浓度之间存在着差别．上述结果表明了SPA技术用于细胞水平的分子筛药的可行性和有效性，为药物筛选提供了更丰富的信息.
+
+# 4展望
+
+过去驱动SPA技术发展的主要动力一直来自工业部门，主要是针对药物靶点的高通量筛选．国内研究人员也利用此技术开展过若干药物筛选工作，主要集中在中国科学院上海药物研究所[92-101].该技术近年来越来越多地用于基础研究中，逐步显示出其特有的优势．相比较而言，国内还没有该技术用于基础研究工作的报道．出现上述局面的原因主要有两个方面，一是即使在科研工作者的范围内，人们对正确、合理地使用放射性示踪技术也存在着认识误区，对于SPA技术更是如此．事实上相对于放射性示踪技术的整个领域而言，SPA技术可使用的放射性核素非常有限，主要集中在 $^ 3 \mathrm { H }$ ，$^ { 3 5 } \mathrm { S }$ 、 $\mathrm { ^ { 3 3 } P }$ 、 $^ { 1 4 } \mathrm { C }$ 、 $^ { 4 5 } \mathrm { { C a } }$ 、 $^ { 1 2 5 } \mathrm { I }$ 这几种核素上，除 $^ { 4 5 } \mathrm { C a }$ 和$^ { 1 2 5 } \mathrm { I }$ 伴有 $\beta$ 辐射外，其余4种纯 $\beta$ 辐射核素的射线能量均很弱．而使用量最大的 $^ 3 \mathrm { H }$ ，其辐射非常低，射线在空气中的最大飞行距离不超过 $1 \mathrm { c m }$ ，在水中不超过 $8 ~ \mu \mathrm { m }$ ，只要采取合理的安全防护措施，SPA操作是非常安全的．另一方面，SPA技术所用到的材料都非常昂贵，例如放射性标记物主要是美国的少数几家公司能够提供，使用的耗材，如闪烁微球，微球板目前只有PerkinElmer公司有售，虽然国内研究者也开展了SPA载体的相关技术研究[，但一直没有商品化．上述因素限制了该技术的广泛使用．通过宣传SPA技术，全面贯彻放射性操作的安全管理制度和安全防护设施的建设，积极开发SPA相关材料产品，降低操作成本，SPA技术发展的这两个瓶颈就能够被克服，其优势会更加充分地显示出来，并将在分子筛药、临床免疫分析以及在基础研究中得到更为广泛的应用.
+
+# 参考文献
+
+[1]Hart HE,Greenwald E B. Scintillation-proximity assay of antigen antibody binding kinetics: concise communication.J Nucl Med, 1979,20(10):1062-1065   
+[2]Hart HE,Greenwald E B.Scintillation proximity assay (SPA)--a newmethod of immunoassay.Direct and inhibition mode detection with human albumin and rabbit antihuman albumin.MolImmunol, 1979,16(4): 265-267   
+[3]Nelson N.A novel method for the detection of receptors and membrane proteins by scintillation proximity radioassay.Anal Biochem,1987,165(2):287-293   
+[4]Udenfriend S,Gerber L,Nelson N. Scintillation proximity assay: a sensitiveand continuousisotopicmethod formonitoring ligand/receptor and antigen/antibody interactions.Anal Biochem, 1987,161(2): 494-500   
+[5]Udenfriend S,Gerber LD,Brink L,et al. Scintillation proximity radioimmunoassay utilizing $^ { 1 2 5 } \mathrm { I }$ -labeledligands.Proc Natl Acad Sci USA,1985,82(24): 8672-8676   
+[6] Bosworth N, Towers P.Scintillation proximity assay.Nature,1989, 341(6238): 167-168   
+[7]Heise C E, Sullivan S K,Crowe PD. Scintillation proximity assay asahigh-throughput method to identify slowly dissociating nonpeptideligand binding to the GnRHreceptor.J Biomol Screen, 2007,12(2): 235-239   
+[8]Meregheti I, Cagnotto A,Mennini T. Dimethyl sulfoxide:an antagonist in scintillationproximityassay $[ ^ { 3 5 } \mathrm { S } ]$ GTPgammaS binding to rat 5-HT(6） receptor cloned in HEK-293 cells.J Neurosci Methods,2007,160(2): 251-255   
+[9]Odagaki Y,Toyoshima R.Muscarinic acetylcholine receptormediated activation of G(q) in rat brain membranes determined by guanosine-5'-O- (3-[S]thio)triphosphate $( [ ^ { 3 5 } \mathrm { S ] G T P \gamma S }$ ）binding using an anti-G protein scintillation proximity assay.J Neural Transm (Vienna),2012,119(5): 525-532   
+[10]Odagaki Y，Kinoshita M，Toyoshima R.Pharmacological characterization of M1 muscarinic acetylcholine receptor-mediated Gq activation in rat cerebral cortical and hippocampal membranes. Naunyn Schmiedebergs Arch Pharmacol,2013,386(11): 937-947   
+[11] BakerMR,Zarubica T,WrightHT,et $^ d$ .Scintillation proximity assay for measurement of RNA methylation.Nucleic Acids Res, 2009,37(4): e32.   
+[12] Park Y,Garyantes T,Cummings R T.Optimization of $\mathrm { ^ { 3 3 } P }$ （20 scintillation proximity assaysusing Cesium Chloride bead suspension.1997 TopCount Topics   
+[13] Ngo L,Wu J, Yang C,et al. Effective Quenchers are required to eliminate the interference of substrate: cofactor binding in the HAT scintillation proximity assy.Assy Drug Dev Technol,2015, 13(4): 210-220   
+[14] Ung T,Mason JL,Robinson RG,et al.A cellular assay for inhibitors of the fatty acid biosynthetic pathway using scintillating microplates. Assay Drug Dev Technol,2015,13(5): 285-292   
+[15]Hu Y,Guerrero E,Keniry M,et al.Identification of chemical compounds that inhibit the function of glutamyl-tRNAsynthetase from pseudomonas aeruginosa.J Biomol Screen，2015,20 (9): 1160-1170   
+[16] Halambage UD,Wong JP,Melancon B J,et al.Microplate-based assay for identifying small molecules that bind a specific intersubunit interfacewithin the assembled HIV-1 capsid. Antimicrob Agents Chemother,2015,59(9): 5190-5195   
+[17]Harndahl M,Rasmussen M，RoderG,et $^ { a l }$ Real-time, high-throughput measurements of peptide-MHC-I dissociation using a scintilation proximity assay.J Immunol Methods,2011, 374(1-2): 5-12   
+[18] Odagaki Y,Toyoshima R.Activation of Gq proteins coupled with 5-HT2 receptors in rat cerebral cortical membranes assessed by antibody-capture scintilation proximity assay/ $\scriptstyle [ { \mathrm { S } } ] { \mathrm { G T P } } \gamma \mathrm { S }$ binding. Pharmacology,2013,92(1-2): 2-10   
+[19]Rauly-Lestienne I, Lestienne F,Ailhaud MC,et al. Competitive interaction of 5-HT(1A) receptors with G-protein subtypes in CHO cells demonstrated by RNA interference.Cell Signal, 2O11,23(1): 58-64   
+[20]Johnson EN,Shi X,Cassaday J，et al．A 1，536-well $[ ^ { 3 5 } \mathrm { S } ]$ GTPgammaSscintillationproximitybindingassayfor ultra-high-throughput screening of an orphan galphai-coupled GPCR.Assay Drug Dev Technol,2008,6(3): 327-337   
+[21] Glendorf T, Stidsen C E,Norrman M,et $^ d$ Engineering of insulin receptor isoform-selective insulin analogues.PLoS One, 2011,6(5): e20288   
+[22] Wang X Y,Bergdahl K,Heijbel A,et $\boldsymbol { a l }$ .Analysis of in vitro interactions of protein tyrosine phosphatase 1B with insulin receptors.MolCellEndocrinol,2001,173(1-2):109-120   
+[23] Mannoury la Cour C,Vidal S,Pasteau V,et al.Dopamine D1 receptor coupling to Gs/olf and Gq in rat striatum and cortex: a scintillationproximity assay (SPA)/antibody-capture characterization of benzazepineagonists.Neuropharmacology, 2007,52(3): 1003-1014   
+[24] Cussac D,Pasteau V,Millan MJ.Characterisation of Gs activation bydopamine D1 receptors using anantibody capture assay: antagonist properties of clozapine.Eur J Pharmacol，2004, 485(1-3): 111-117   
+[25] Yu W,EramMS,Hajian T,et al.A scintillationproximityassay for histone demethylases. Anal Biochem,2014,463: 54-60   
+[26] Kashem MA，Wa C,Wolak JP,et al.A high-throughput scintillation proximity assay for sphingosine-1-phosphate lyase. Assay Drug Dev Technol,2014,12(5): 293-302   
+[27] Shapiro AB,Plant H,Walsh J,et al.Discovery of ATP-competitive inhibitors of tRNAIle lysidine synthetase (TilS)by high-throughput screening. JBiomol Screen,2014,19(8): 1137-1146   
+[28] Gros C,Chauvigné L, Poulet A,et al.Development of a universal radioactiveDNAmethyltransferaseinhibitiontestfor high-throughput screening and mechanistic studies.Nucleic Acids Res,2013,41(19): e185   
+[29] Kilgore J A,Du X,Melito L,et $\boldsymbol { a l }$ .Identification of DNMT1 selective antagonists using a novel scintilltion proximity assay. JBiol Chem,2013,288(27): 19673-19684   
+[30] Ibanez G,Shum D, Blum G,et al.A high throughput scintillation proximity imaging assay for protein methyltransferases.Comb Chem High Throughput Screen,2012,15(5): 359-371   
+[31] Tseng H M,Shum D,Bhinder B,et al.A high-throughput scintillation proximity-based assay for human DNA ligase IV. Assay Drug Dev Technol,2012,10(3): 235-249   
+[32]Tawa P,Falgueyret JP,Guiral S,et al.High-throughput scintillation proximity assay for stearoyl-CoA desaturase-1.J Biomol Screen,2011,16(5): 506-517   
+[33] Zhang J,Amin A G,Holemann A,et $\boldsymbol { a l }$ .Development of a plate-based scintillation proximity assay for the mycobacterial AftB enzyme involved in cell wall arabinan biosynthesis.Bioorg Med Chem,2010,18(19): 7121-7131   
+[34] Dhayalan A,Dimitrova E,Rathert P,et al.A continuous protein methyltransferase (G9a) assay for enzyme activity measurement and inhibitor screening.JBiomol Screen,2009,14(9): 1129-1133   
+[35] Wang Y,Jones P.A scintillation proximity assay for fatty acid amide hydrolase compatible with inhibitor screening.Methods Mol Biol,2009,572: 247-259   
+[36] von Ahsen O, Schmidt A,Klotz M,et al.Assay concordance between SPA and TR-FRET in high-throughput screening.J Biomol Screen,2006,11(6): 606-616   
+[37] Takagi T, Shum D,Parisi M,et al. Comparison of luminescence ADP production assay and radiometric scintilation proximity assay for Cdc7 kinase.Comb Chem High Throughput Screen,2011, 14(8): 669-687   
+[38] Sills M A，Weiss D，Pham Q，et al. Comparison of assay technologies for a tyrosine kinase assay generates differentresults in high throughput screening.JBiomol Screen,2002,7(3): 191-214   
+[39] Wu X,Glickman JF, Bowen B R,et al. Comparison of assay technologies for a nuclear receptorassay screen reveals differences in the sets of identified functional antagonists.J. Biomol Screen, 2003,8: 381-392   
+[40] Wu X, Sills M A, Zhang JH. Further comparison of primary hit identification by different assay technologies and effects of assay measurement variability.JBiomol Screen,2005,10: 581-589   
+[41]彭钢,刘白玲,王斌,等.临近闪烁分析法在高通量筛选中的 应用.化学进展,2012,24:1572-1582 Peng G,LiuB L,Wang B,et al.Prog Chem,2012,24: 1572-1582   
+[42]Raucy JL,Lasker JM.Current in vitro high throughput screening approaches to assss nuclear receptor activation. Curr Drug Metab, 2010, 11(9): 806-814   
+[43] Khawaja X,Dunlop J, Kowal D. Scintilation proximity assay in lead discovery.Expert Opin Drug Discov,2008,3(11): 1267-1280   
+[44] Glickman JF, Schmid A,Ferrand S. Assay scintilation proximity assays in high-throughput screening.Drug Dev Technol,2008, 6(3): 433-455   
+[45] Xie H.Activity assay of membrane transport proteins.Acta Biochim Biophys Sin (Shanghai),2008,40(4): 269-277   
+[46] Wu S,Liu B.Aplication of scintilaton proximity assay in drug discovery. BioDrugs,2005,19(6): 383-392   
+[47] Liu B,Li S,Hu J. Technological advances in high-throughput screening. Am J Pharmacogenomics, 2004,4(4): 263-276   
+[48] DeLapp N W. The antibody-capture $\mathrm { [ ^ { 3 5 } S ] G T P \gamma S }$ scintillation proximity assay: a powerful emerging technique for analysis of GPCR pharmacology. Trends Pharmacol Sci,2004,25(8): 400-401   
+[49] Cooper M A.Advances in membrane receptor screening and analysis. JMolRecognit, 2004,17(4): 286-315   
+[50] Wang Y, Xu J, Uveges A,etal.A novel scintilation proximity assay for fatty acid amide hydrolase compatible with inhibitor screening. Anal Biochem,2006,354(1): 35-42   
+[51] Craigie R.HIV Integrase,a brief overview from chemistry to therapeutics.JBiol Chem,2001,276: 23213-23216   
+[52] Craigie R,in Craig NL,Craige R,et al.Lambowitz (Eds),Mobile DNA I,ASM Press, Washington,DC,2002,pp.613-630   
+[53] Sun S,Almaden J,Carlson TJ,et al.Assay development and data analysis of receptor-ligand binding based on scintillation proximity assay. Metab Eng,2005,7(1): 38-44   
+[54] Anon. Characterisation of D-myo-['H]Inositol 1,4,5 Trisphosphate binding to purifies inositol trisphosphate receptors by scintillation proximity assay. Proximity News12，Amersham，Amersham Biosciences   
+[55] DanahayH,BroadleyKJ,McCabePJ,et al.A simple,rapid,and sensitive scintillation proximity assay for the determination of levelsof guinea-pig interleukin-5in bronchoalveolar lavage samples.PharmacolToxicol Methods,1997,37(3): 161-166   
+[56] Oberlander S,Xie T, Chandrachud U,et al. Scintillation proximity assay for total p53 protein as an alternative to ELISA.JImmunol Methods,2010,360(1-2): 173-177   
+[57] Gal S,Cook JR,Howells L. Scintillation proximity assay for DNA binding by human p53.Biotech.2006,41(3):303-308.http: // www.ncbi.nlm.nih.gov/pubmed/11161317 - comments   
+[58] Liu J,Feldman PA,Lippy JS,et al.A scintillation proximity assay for RNA detection. Anal Biochem,2001,289(2): 239-245   
+[59]TadepalliSM,QuinnRP. Scintillationproximity radioimmunoassay for the measurement of acyclovir.J Pharm Biomed Anal, 1996,15(2): 157-163   
+[60] Morineau G,Boudi A,Barka A,et al.Radioimmunoassay of cortisone in serum,urine,and saliva to assess the status of the cortisol-cortisone shutle. Clin Chem,1997,43(8 Pt 1): 1397-1407   
+[61] Newman-Tancredi A,Cussac D,Marini L,et al.Antibody capture assay reveals bell-shaped concentration-response isotherms for h5-HT(1A） receptor-mediated Gα (i3） activation: conformational selection by high-efficacy agonists,and relationship to trafficking of receptor signaling.MolPharmacol,2002,62(3): 590-601   
+[62] Simpson PR, Yu XH, Redza ZM,et al. Quantification of hepatitis Bvirus DNA using competitivePCR and a scintillation proximity assay.J Virol Methods,1997,69(1-2): 197-208   
+[63] Suman-Chauhan N,Carnell P,Franks R,et al.Expression and characterisation of human and rat CRF2alpha receptors.Eur J Pharmacol,1999,379(2-3): 219-227   
+[64] Zhang J,Wu P, Kuvelkar R,et al.A scintillation proximity assay for human interleukin-5 (hIL-5) high-affinity binding in insect cells coexpressing hIL-5 receptor $\propto$ and $\beta$ subunits.Anal Biochem, 1999,268(1): 134-142   
+[65] Savopoulos JW,Dowd S,Armour C,et al.Expression and purification of functional JNK2?2:perspectives on high-level production of recombinant MAP kinases.Protein Expr Purif, 2002, 24(1): 25-32   
+[66] Carrick T,Kowal D,Nawoschik S,et al.Development of a scintillation proximity assay binding method for the human 5-hydroxytryptamine 6 receptor using intact cells. Anal Biochem, 2008,381(1): 27-32   
+[67] Zehnpfennig B,Wiriyasermkul P,Carlson DA,et al.Interaction of （20 $ { \mathbf { \alpha } } \propto  { \mathbf { \beta } }$ -lipoicacid with the human Na+/multivitamin transporter (hSMVT). JBiol Chem,2015,290(26): 16372-16382   
+[68] Singh S K,Pal A. Biophysical approaches to the study of LeuT,a prokaryotic homolog of neurotransmitter sodium symporters. Methods Enzymol,2015,557: 167-198   
+[69] Nasr M L，Singh S K.Radioligand binding to nanodiscreconstituted membrane transporters assessed by the scintillation proximity assay. Biochemistry,2014,53(1): 4-6   
+[70]Quick M,Javitch JA.Monitoring the function of membrane transport proteins in detergent-solubilized form. Proc Natl Acad Sci USA,2007,104(9): 3603-3608   
+[71] Harder D,Fotiadis D.Measuring substrate binding and affinity of purified membrane transport proteins using the scintillation proximity assay. Nat Protoc,2012,7(9): 1569-1578   
+[72] Gray LR,Gu S X.Quick M,et al.Transport kinetics and selectivity ofHpUreI，theureachannel fromHelicobacterpylori. Biochemistry,2011,50(40): 8656-8663   
+[73] Lecat-Guillet N,Merer G,Lopez R,et al.A 96-well automated radioiodide uptake assay for sodium/iodide symporter inhibitors. Assay Drug Dev Technol,2007,5(4): 535-540   
+[74] Williams JB,Mallorga P J,Lemaire W,et al.Development of a scintillation proximity assay for analysis of Na+/Cl-dependent neurotransmiter transporter activity. Anal Biochem,2Oo3,321(1): 31-37   
+[75] Monastyrskaia K,Lundstrom K,Plahl D,et al. Effect of the umami peptides on the ligand binding and function of rat mGlu4a receptor might implicate this receptor in the monosodium glutamate taste transduction.Br JPharmacol,1999,128(5):1027-1034   
+[76] Bonge H,Hallen S,Fryklund J,et al.Cytostar-T scintillating microplate assay for measurement of sodium-dependent bile acid uptake in transfected HEK-293 cells.Anal Biochem,2000,282(1): 94-101   
+[77] Lohmann C,Gelius B,Danielsson J,et al. Scintillation proximity assay for measuring uptake by the human drug transporters hOCT1, hOAT3,and hOATP1B1. Anal Biochem, 2007,366(2): 117-125   
+[78] Culliford SJ,McCauleyP,Sutherland AJ,et al.A novel cell-based scintillation proximity assay for studying protein function and activity in vitro using membrane-soluble scintillants.Biochem Biophys Res Commun. 2002,296(4): 857-863   
+[79] McMurtrey A E,Graves RJ,Hooley J,et al.A novel 96-well scintillation proximity assay for the measurement of apoptosis. Cytotechnology,1999,31(3): 271-282   
+[80] Linde V,Flodgaard H, Kastrup JS,et al.Measurement of apoptosis bythe TUNEL method using scintillating microplates.Anal Biochem,2000,280(1): 186-188   
+[81] Stockinger W,Castoreno AB,Wang Y,et al.Real-time analysis of endosomal lipid transport by live cell scintillation proximity assay. JLipid Res.2004,45(11): 2151-2158   
+[82] Castoreno A B,Wang Y,Stockinger W,et al.Transcriptional regulation of phagocytosis-induced membrane biogenesis by sterol regulatory element binding proteins.Proc Natl Acad Sci USA, 2005,102(37): 13129-13134   
+[83] Stockinger W,Zhang S C，Trivedi V，et al.Differential requirements for actin polymerization,calmodulin,and $\mathrm { C a ^ { 2 + } }$ define distinct stages of lysosome/phagosome targeting.Mol Biol Cell, 2006,17(4): 1697-1710   
+[84] Trivedi V, Zhang SC,Stockinger W,et al.A cell-free scintillation proximity assay for studies on lysosome-to-phagosome targeting. Sci STKE,2007,2007(392): pl3   
+[85] Stockinger W,Nohturfft A.Studying phagocytosis by live-cell scintillationproximityassay.MethodsMol Biol，2008, 440: 147-155   
+[86] Uvebrant K,da GragaThrige D,Rosén A,et al.Discovery of selective small-molecule CD80 inhibitors.J Biomol Screen, 2007, 12(4): 464-472   
+[87] Bays NW,Hill A D,Kariv I. A simplified scintillation proximity assay for fatty acid synthesis activity: development and comparison with other FAS activity assays.JBiol Screen,2009,14(6): 636-642   
+[88] Weiss D,Glickman J. Characterization of fatty acid synthase activity using scintillation proximity. Assay Drug Dev Technol, 2003,1(1 Pt 2): 161-166   
+[89] YoshiiY,Furukawa T,OyamaN,et al.Fatty acid synthase isa key target in multiple essential tumor functions of prostate cancer: uptake of radiolabeled acetate as a predictor of the targeted therapy outcome.PLoS One,2013,8:e64570   
+[90] Zhan Y,Ginanni N,Tota MR,et al. Control of cell growth and survival by enzymes of the faty acid synthesis pathway in HCT-116 colon cancer cells.Clin Cancer Res,2008,14: 5735- 5742   
+[91] Pizer E S,Wood FD,Pasternack GR,et al.Fatty acid synthase [FAS]: a target for cytotoxic antimetabolites in HL6O promyelicytic leukemia cells.Cancer Res,1996,56: 745-751   
+[92] Li Y Y,Yu L F, Zhang L N,et al.Novel small-molecule AMPK activator orally exerts beneficial effects on diabetic db/db mice. Toxicol Appl Pharmacol,2013,273(2): 325-334   
+[93] Zhang LN,Xu L，Zhou HY，et al. Novel small-molecule AMP-activated protein kinase allosteric activator with beneficial effects in db/db mice.PLoS One,2013,8(8): e72092   
+[94] LiQY,Xu MK,Liu G,et al. Discovery of novel PDE10 inhibitors bya robust homogeneous screening assay.Acta Pharmacol Sin, 2013,34(8):1116-1120   
+[95] Wang Y J，Huang S L，Feng Y，et $\boldsymbol { a l }$ .Emodin，an 11β-hydroxysteroid dehydrogenase type 1 inhibitor，regulates adipocyte function in vitro and exerts anti-diabetic effect in ob/ob mice. Acta Pharmacol Sin,2012,33(9): 1195-1203   
+[96]ZhangX， ZhouY， Shen Y，etal．Derivativesof (phenylsulfonamido-methyl) nicotine and (phenylsulfonamido-methyl) thiazole as novel 11beta- hydroxysteroid dehydrogenase type 1 inhibitors:synthesisandbiologicalactivitiesinvitro. ActaPharmacol Sin,2009,30(9): 1344-1350   
+[97] Yan JH,LiQY,BoutinJA,et al.High-throughput screening of novel antagonists on melanin-concentrating hormone receptor-1. Acta Pharmacol Sin,2008,29(6): 752-758   
+[98] Meng T,Su HR,Binkert C,et al.Identification of non-peptidic neuromedin U receptor modulators by a robust homogeneous screening assay.Acta Pharmacol Sin,2008,29(4): 517-527   
+[99] Liu Q, Zhang YY,Lu HL,et al.Rhodanine derivatives as novel peroxisome proliferator-activated receptor gamma agonists.Acta Pharmacol Sin. 2007,28(12): 2033-2039   
+[100]Hui X, Gao J, Xie X,etal.Arobust homogeneousbinding asay for alpha4beta2 nicotinic acetylcholine receptor.ActaPharmacolSin. 2005,26(10): 1175-1180   
+[101]Wu B，Gao J，Wang M W.Development of a complex scintillationproximityassayforhigh-throughputscreeningof PPARgamma modulators．Acta Pharmacol Sin，2005,26 (3): 339-344   
+[102]Hou X，Liu B，Deng X,et al.Monodisperse polystyrene microspheres by dispersion copolymerization of styrene and other vinyl comonomers:characterization and protein adsorption properties.JBiomed Mater Res A,2007,83(2): 280-289
+
+# Progress of Scintillation Proximity Assay in Life Science
+
+ZHANG Hong-Jie\* (The Core Facilities,Institute of Biophysics,Chinese Academyof Sciences,Beijing 1Ool01,China)
+
+AbstractScintillation proximity assays (SPA)，developed from the original radioimmunoassay，isa homogeneous，sensitive,fast and simple scintilation bead-based assay platform.Due to the diversification of radio-labeled ligands and of affinity tags modified on the scintillation carrier's surface,as wellas the development of scintilation recorders and liquid handling technologies,SPA has been widely used as a high throughput method for lead compound screeningand biomarker detection.In this review,after a brief introduction of the principle and operation of SPA,a detailed advance of its applications in life sciences were outlined,especiallyon membrane proteins analysis and at the cell level analysis with detailed classical reports.Beyond that，the methods on increasing the ratios of signal/noise were also analyzed.The wide spread of SPA,especially of its innovations at the cellevel research willdefinitely promote our comprehensive understanding of cellular system biology.
+
+Key wordsscintilltion proximity assay(SPA), none proximity effect, quenching effect, membrane protein,cel   
+based assay   
+DOI: 10.16476/j.pibb.2015.0384

@@ -1,0 +1,422 @@
+[
+    {
+        "type": "text",
+        "text": "基于改进协同过滤算法的用户页面兴趣度预测研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋泊东，张立臣(广东工业大学计算机学院，广州 510006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在海量的数据中发现用户的兴趣度是电子商务领域实现针对性信息推送的一种重要方法。根据大数据稀疏性特征，把奇异值分解方法引入协作过滤算法中进行互联网站点用户的页面兴趣度的计算和验证，提出了一种基于改进协作过滤算法的用户页面兴趣度预测算法。该算法可通过在网络日志文件中，提取显性用户评分数据存在的“虚假评分”，发现用户页面兴趣度和其影响因素。MATLAB仿真结果显示：提出的基于改进协同过滤算法的用户页面兴趣度测量方法可有效克服海量数据的稀疏性，在预测准确性、测量速度方面都有很大提高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大数据；奇异值分解；页面兴趣度；协作过滤算法；数据稀疏性中图分类号：TP301.6 doi: 10.3969/j.issn.1001-3695.2018.04.0282",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Prediction of user page interest based on improved collaborative filtering algorithm ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Song Bodong, Zhang Lichen (Schoolof Computers Guangdong University of Technology,Guangzhou 51ooo6, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: discovering user interest degreein masive data is an important wayto implement information push.This paper proposes apage interest predictionalgorithmbasedonsingularvalue decompositionandcolaborative filtering.The algorithm canextractthe\"falsescore\"inthedominantuserscoredata,andfinduserpageinterestand influencefactors.Theresultsof MATLAB simulation show that thecollaborative filtering algorithmbased on singular value decomposition is accurate and efficient in predicting the interest degree of user pages under the unavoidable situation of massive data sparsity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: big data; singular value decomposition; page interest; collaborative filtering algorithm; data sparsity ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在海量数据中搜索发现用户兴趣度，是针对用户兴趣，实施提供个性化推荐的重要手段。目前，获取用户兴趣度（interestdegree，ID）的主要有显式反馈与隐式反馈两种方式。不论是采用哪种方式，均通过采集计算用户访问页面次数、访问时间及页面操作动作来反映用户兴趣度。如夏义国等人[建立了一种神经网络模型，通过拟合用户访问网站页面次数和时间，分析计算用户兴趣度。李峰等人[2建立一种基于隐式反馈的用户兴趣模型，通过分析用户的隐式反馈行为，计算、获取用户兴趣度。邢玲等人[3]构建了一种改进K-means 算法的用户兴趣度衰减因子测算模型，计算分析用户的兴趣度。尹春晖等人[4]提出了一种基于用户浏览行为的用户兴趣获取算法，该算法通过分析用户页面浏览时间、速度和滚动条操作动作来解释用户兴趣度。王微微等人[5提出了一种基于用户行为的兴趣度模型，分析用户的行为模式，结合用户的浏览内容，发现用户兴趣。于淼等人[提出了一种顽健的约束信息嵌入方法构建关系矩阵，降低了矩阵的稀疏性，进一步提高了算法的准确率。张艳梅等人[7提出的适应用户兴趣变化的社会化标签推荐算法，陈臣[8]构建的图书馆小数据读者个性化兴趣预测与发现模型，李昌兵等人[9]对Web 访问用户关联规则挖掘的研究，张朝恒等人[10]提出了基于社交网络信息的协同过滤推荐算法等关于页面兴趣度的算法研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "上述的这些方法虽然采用不同方法和不同角度对用户兴趣度采集、测量进行了研究，但大都缺乏对大数据稀疏性的考量，所得结论往往和实际情况有较大差异。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因此，本文在前人研究基础上，考虑了海量数据稀疏性对用户兴趣度测量可能产生的影响，提出了一种改进协同过滤算法的网站访问用户兴趣度预测模型。该模型可以通过提取网络日志文件中显性用户评分数据，通过计算行与列中的任意两项之间的差值来预测用户对页面兴趣度和影响因素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 网络用户页面兴趣度计算和矩阵表示",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1页面兴趣度的计算",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "用户页面兴趣度是用户对网络页面感兴趣的程度。通过分析用户访问页面大小、访问次数、浏览时间、拉动滚动条、页面保存等动作及页面发送字节数就可以揭示用户页面的兴趣度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如将用户 $i ( U _ { i } )$ 对页面 $j ( P _ { i } )$ 的兴趣度设为 $I n t e r e s t _ { i , j }$ ；将用户i对页面j的访问次数设为 ${ { n } _ { i j } }$ ；将用户i对页面j的平均浏览时间设为 $t _ { i , j }$ ；将页面j的大小设为 $\\cdot _ { s _ { b , j } }$ ；将页面大小 $\\cdot s _ { b , j }$ 对用户的浏览时间有影响的相关因素设为Ti,j= $\\begin{array} { r } { T _ { i , j } = \\frac { t _ { i , j } } { s _ { b , j } } } \\end{array}$ ；对页面兴趣度的次数影响因素设为 $N _ { i , j } = n _ { i , j }$ 。但由于难以衡量 $N _ { i , j }$ 和 $n _ { i , j }$ 哪个影响因素更为重要，本文采用主成分分析方法就可获取这两个指标的权重，页面兴趣度的计算公式和标准化处理公式如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { I n t e r e s t _ { i , j } = \\alpha \\times T _ { i , j } + b \\times N _ { i , j } = \\alpha \\times \\frac { t _ { i , j } } { s _ { b , j } } + b \\times n _ { i j } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { T _ { i , j } = \\frac { T _ { i , j } } { m a x ( T _ { i , j } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { T _ { i , j } = \\frac { N _ { i , j } } { m a x ( N _ { i , j } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2用户页面兴趣度矩阵表示",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将用户访问页面大小、访问次数、浏览时间、拉动滚动条、页面保存等动作及页面发送字节数进行前置处理后，转换为用户页面兴趣度VSM分析矩阵。本文采集回传的每一笔用户访问动作记录作为1份文件，并进行识别切割。形成不同的用户对不同页面的兴趣度VSM分析矩阵。如式（4）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { 0 } = \\left\\{ \\begin{array} { c c c } { i } & { \\times } & { j } \\\\ { m } & { \\times } & { n } \\\\ { \\vdots } & { \\vdots } & { \\vdots } \\end{array} \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $M _ { 0 }$ ：每个用户对不同页面的兴趣度；i：用户i;j：被访问页面次数； $\\mid m$ 表示用户的个数； $n$ 表示页面项的个数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在得到用户页面兴趣度矩阵后，就可以对该矩阵的信息和某用户对某页面访问的操作信息进行标准化处理，然后采用协同过滤的方法来预测该用户对其他页面的兴趣度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于奇异值分解的 Slope One 算法改进与实证分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1算法改进思想 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2005年，Lemire 等人[1]提出的Slope One 算法是通过计算群用户对一组项目的打分的平均差值的计算，来获得一个较合理的预测结果。黄义纯[12]提出的SlopeOne 推荐算法改进，相较于传统的协同过滤推荐算法，SlopeOne 算法综合考虑了同组项目评价过的其他用户的打分情况和目标用户对其它项目的打分情况，所以更为准确和高效。SlopeOne 算法算法的用户评分矩阵示例如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/77f5fde389b82fbd5266dbf86035f2584741d4cc22819b9ae3bf0ba36799b336.jpg",
+        "table_caption": [
+            "表1用户评分矩阵示例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>用户</td><td>对项目 X 的评分</td><td>对项目Y的评分</td></tr><tr><td>A</td><td>3</td><td>4</td></tr><tr><td>B</td><td>2</td><td>4</td></tr><tr><td>C</td><td>4</td><td>？</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1为一个根据用户A和B评分矩阵，预测用户C对项目X的打分示例。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SlopeOne 算法的思想是：平均值可以代替某两个未知个体之间的打分差异。如A与B对项目X和Y的评分平均偏差是（204号 $( ( 3 - 4 ) + ( 2 - 4 ) ) / 2 { = } - 1 . 5$ 。即对项X的打分一般比项Y的打分要高1.5。根据这种情况，采用Slopeone 算法就可以推测出用户C对项Y的打分是 $4 { + } 1 . 5 { = } 5 . 5$ 。根据上例，在已知用户评分矩阵的情况下，可以通过定义一个训练集 $x$ ，通过式（5）计算出项目 $i$ 和项目 $j$ 的平均差值 $D e v _ { j }$ i：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { D e v _ { j , i } = \\sum _ { u \\in S _ { j , i ( x ) } } \\frac { u _ { j } - u _ { i } } { c a r d ( s _ { j , i } ( x ) ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中； $S _ { j , i ( x ) }$ 为同时对项目i和j评价过的用户集合； $u _ { i }$ 为用户$\\mathrm { ~  ~ u ~ }$ 对项目i的评分； $u _ { j }$ 为用户 $\\mathrm { ~  ~ u ~ }$ 对项目j的评分；card $: ( s _ { j , i } ( \\boldsymbol { x } ) )$ 为同时对项目i和j评价过的用户个数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过式（5）计算 $D e v _ { j }$ ，i，就可以得到一个具有实时更新评分功能的对称矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当需要计算用户 $u$ 对项目 $j$ 的评价预测值 $P ( u ) _ { j }$ 时，通过训练集 $x$ 中用户 $\\mathbf { \\Omega } _ { u }$ 已评价过的所有项目的集合 $S ( u )$ 中与项目 $j$ 有平均偏差 $D e v _ { j }$ ，i的集合 $R _ { i }$ ，就可计算出用户的兴趣度。具体计算公式如式（6）和（7）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P ( u ) _ { j } = \\overline { { U } } + \\frac { 1 } { c a r d ( R _ { j } ) } { \\sum _ { i \\in R _ { j } } } { d e v _ { j , i } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { j } = \\left\\{ i \\big | i \\in S ( u ) , i \\neq c a r d ( S _ { j , i } ( x ) ) > 0 \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\overline { { U } }$ 为训练集中用户 $\\boldsymbol { u }$ 已评项目平均值； $c a r d ( R _ { j } )$ 为训练集x中用户u已评价过的与项目j数量的平均偏差devj，i。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每个网站中都有大量页面，兴趣不同的每个用户往往仅仅访问自己感兴趣的页面。这种情况导致整个页面兴趣度矩阵呈现出稀疏性，使得寻找相似用户较为困难。这种情况也导致SlopeOne 算法在计算较少用户关注的某个页面兴趣度数据时，无法预测新用户对该页面的兴趣度。因此，要解决这个问题，必须找出与用户页面兴趣度矩阵结构最相似的稠密矩阵做基础，进而采用SlopeOne 协同过滤方法，过滤掉矩阵稀疏度，才能推导出用户对页面的兴趣度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2算法改进 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "奇异值分解(singularvalue decomposition，SVD)是一种应用广泛的机器学习算法。李卫疆等人[13]提出了融合信任传播和奇异值分解的社会化推荐算法，该算法采用特征分解处理评分矩阵。可有效避免数据拟合现象，克服零评分用户对相似度计算中的稀疏性、不精确问题，具有良好的推荐性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文拟采用SVD 算法，首先将采集的数据构建一个 $\\eta \\times \\eta$ 阶矩阵R，并分解为 $R = T _ { 0 } S _ { 0 } D _ { 0 } , S _ { 0 } =$ （204号 $d i a g \\big ( \\delta _ { 1 } , \\delta _ { 2 , } \\cdots \\delta _ { r } \\big )$ ，计三个矩阵。其中，如果假设 $\\delta _ { 1 } \\geq$ $\\delta _ { 2 , } \\cdots \\delta _ { r } \\geq 0$ ，则 $T _ { 0 }$ 和 $| D _ { 0 }$ 即可分别构成 $m \\times r$ 和 $\\boldsymbol { r } \\times \\boldsymbol { r }$ 的正交矩阵，即 $( T _ { 0 } T _ { 0 } = I , D _ { 0 } D _ { 0 } = I )$ 。式中的 $\\mathrm { ~  ~ { ~ r ~ } ~ }$ 是矩阵R 的秩(r≤min（ m,n)），那么， $S _ { 0 }$ 则可以构成一个 $\\boldsymbol { r } \\times \\boldsymbol { r }$ 对角矩阵，将所有 $\\mathrm { ~  ~ { ~ r ~ } ~ }$ 值均设为大于0后，并按照大小降维排列后。就可以产生一个简化的近似矩阵。通常情况下，矩阵 $R = T _ { 0 } S _ { 0 } D _ { 0 } , T _ { 0 }$ ， $T _ { 0 }$ 、 $D _ { 0 }$ 和 $S _ { 0 }$ 都",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "必须为满秩，存在计算量大、运算复杂的缺陷。采用奇异值分解 $S _ { 0 }$ ，使之保留k个最大的奇异值，其他则用0来代替，就可得到含有 $\\mathrm { ~ k ~ }$ 个奇异值的矩阵 $( \\mathrm { k } \\times \\mathrm { r } )$ 。进一步删除 $S _ { 0 }$ 中值为0的行和列，就可得到对角矩阵S，同理，如果将矩阵 $T _ { 0 } , \\ D _ { 0 }$ 也采用降维方法简化为T和D,就可得到矩阵 $\\mathrm { \\Delta } R _ { k } = T S D , R _ { k } \\approx R ^ { [ 1 2 - 1 4 ] }$ 。进而采用协同过滤算法，对用户兴趣度矩阵R进行规范化处理后，这样可以得到矩阵R’。再用SVD 算法就可得到输出矩阵T、D和描述用户在k 维空间中的关系的 $T S ^ { 1 / 2 }$ （ $\\mathrm { m } \\times \\mathrm { k }$ ）的用户矩阵及兴趣度大小计算 $S ^ { \\frac { 1 } { 2 } } D$ （ $\\phantom { } \\cdot n \\times k$ ）项矩阵，引入协同过滤算法，计算 $T S ^ { 1 / 2 }$ （ $\\mathrm { m } \\times \\mathrm { k }$ ）和 $S ^ { \\frac { 1 } { 2 } } D$ （ ${ \\bf \\nabla } _ { n \\times k }$ ）就可得到用户页面兴趣度的大小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)推荐产生",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将采集的数据标准化后的数据矩阵作为实现奇异值分解的基础矩阵 $T _ { 0 } T _ { 0 } = I , D _ { 0 } D _ { 0 } = I$ ，然后采用向量空间方法计算 $T S ^ { 1 / 2 }$ 的相似度。得到用户页面兴趣度的最近邻和相应的推荐集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)兴趣度计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将矩阵 $T S ^ { 1 / 2 }$ 和 $S ^ { 1 / 2 } D$ 相乘，得到项内积，即可计算用户 $\\mathbf { \\Omega } _ { u }$ 对项 $i$ 的兴趣度。测算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( u , i ) = \\bar { u } + T S ^ { 1 / 2 } ( { \\mathrm { u } } ) \\times S ^ { 1 / 2 } { \\mathrm { D } } ^ { \\prime } { \\mathrm { \\Omega } } ( i )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\bar { u }$ 是用户 $u$ 对已评分项的平均评分。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过式（8）的计算，就可得到一个考虑新用户和新项目情况下无缺失值的用户评分矩阵，使用户的页面兴趣度矩阵形成$100 \\%$ 密集，解决数据测算的稀疏性问题。在此矩阵上就可以计算得到用户对站点其他页面的兴趣度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 实证分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1兴趣度和稀疏度计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文使用淘宝网(https://www.taobao.com)的网络日志2017年6月份的数据进行分析。数据经过清理后，按上面所述方法进行处理后得到的页面兴趣度的公式如（9）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { I \\mathrm { n t e r e s r } _ { i , j } = 0 . 7 0 7 1 \\times \\frac { t _ { i , j } } { s b _ { j } } + 0 . 8 5 6 1 \\times n _ { i , j } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "进而得出用户页面兴趣度矩阵 $. M _ { 0 }$ ，其中用户105人，页面168个。部分用户页面兴趣度矩阵见表2。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0806748ebcedcf7ee34a2751cb325cb6dd79fcc6f40460361f7e12203f28f20c.jpg",
+        "table_caption": [
+            "表2用户页面兴趣度矩阵 $M _ { 0 }$ （部分）"
+        ],
+        "table_footnote": [
+            "矩阵 $M _ { 0 }$ 的稀疏度为1- $\\cdot \\ { \\frac { 8 2 7 } { 1 0 5 \\times 1 6 8 } } = 0 . 9 4 6 8$ ，这虽然说明数据"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>P</td><td>P2</td><td>P</td><td>P4</td><td>P5</td><td>P6</td><td>P7</td><td>P8</td><td>P</td><td>P10</td></tr><tr><td>U1</td><td>0.307</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>U2</td><td>0.579</td><td></td><td>0.621</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.087</td></tr><tr><td>U3</td><td>0.261</td><td></td><td></td><td>0.634</td><td></td><td></td><td></td><td></td><td></td><td>0.426</td></tr><tr><td>U4</td><td>0.271</td><td>0.415</td><td></td><td>0.488</td><td>0.501</td><td></td><td>0.394</td><td>0.445</td><td></td><td></td></tr><tr><td>U5</td><td>0.277</td><td>1.432</td><td></td><td></td><td>0.33</td><td></td><td>0.445</td><td>0.595</td><td></td><td></td></tr><tr><td>U6</td><td>2.702</td><td>0.96</td><td>0.488</td><td>0.632</td><td>0.351</td><td>0.475</td><td>0.445</td><td>0.316</td><td>0.316</td><td>0.686</td></tr><tr><td>U7</td><td>0.314</td><td>0.402</td><td>0.43</td><td></td><td>0.565</td><td>0.370</td><td></td><td></td><td></td><td></td></tr><tr><td>U8</td><td>2.072</td><td>0.65</td><td></td><td>0.768</td><td>0.337</td><td>0.436</td><td>0.445</td><td></td><td>0.331</td><td></td></tr><tr><td>U9</td><td>0.902</td><td>0.946</td><td>1.141</td><td>0.786</td><td></td><td></td><td></td><td>0.608</td><td></td><td>0.4</td></tr><tr><td>U10</td><td>0.807</td><td></td><td></td><td>0.635</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "存在极大的稀疏性，但仍在可接受的网络数据特性范围内。矩阵 $M _ { 0 }$ 标准化后变为 $M _ { 1 0 }$ 。从图1可以看出，随着矩阵稀疏度的不断增大，平均绝对误差MAE的值也随之不断增大。MAE 的定义如下： $r _ { ( u , \\ i ) , \\ } r _ { ( \\hat { u } , \\ i ) }$ ，其中， $r _ { ( u , \\ i ) }$ 是对项目的预测评分，$r _ { \\left( \\widehat { u } , \\ i \\right) }$ 是用户对项目的实际评分，而 $M A E$ 的值即为 $N$ 个此类评分对差的平均值，平均绝对误差MAE的值测算公式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { M A E = \\frac { \\sum _ { u , i } \\left| \\boldsymbol { r } _ { ( u , i ) } - \\boldsymbol { r } _ { ( \\hat { u } , i ) } \\right| } { N } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果得到的MAE的值越小，则对用户评价的预测就越准确，预测质量就越高。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9876db12a6e5df6ae8550782c094d7a2a3ebe1d9db9aa2ac2f8cff3527c76e8b.jpg",
+        "img_caption": [
+            "图1不同的页面兴趣度矩阵稀疏度对推荐算法的预测准确性的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文通过MATLAB对奇异值矩阵 $M _ { 1 }$ 进行奇异值分解，使得 $M _ { 1 } = T \\times S \\times D , D I$ ，矩阵 $M _ { 1 }$ 是一个 $1 0 5 \\times 1 6 8$ 的矩阵，则通过奇异值分解得到的 $T$ 为 $1 0 5 \\times 1 0 5$ 阶矩阵，S为 $1 0 5 \\times 1 6 8$ 阶方阵，D为 $1 6 8 \\times 1 6 8$ 阶方阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.25-fold交叉验证 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5-fold交叉验证是一种为避免过度拟合而采用的边训练，边验证的机器学习算法。其原理是将训练数据随机分成 $\\mathbf { k }$ 分，训练k次，直至找出最优解。为比较改进算法的有效性，本研究采用 5-fold 交叉验证方法对传统 Slope One 算法和改进的Slope One 协同过滤算法（Slope One-after-SVD）进行比较，结果如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fdd0123b2441b1501052dbd9b89570e60715f976497da269c056d7ec979c054.jpg",
+        "img_caption": [
+            "图2Slope One 和 Slope One_After_SV算法"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在5-fold交叉验证下的预测准确性比较，计算其平均值可以得到如式（11）的结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { M A E _ { S l o p e o n e } } } = 0 . 5 5 1 , \\overline { { M A E _ { S l o p e o n e A f e r S V D } } } = 0 . 1 9 3\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过平均值的计算和实验结果也可以看出，在数据稀疏性难以避免情况下，本文提出的基于改进协同过滤算法（SlopeOne-After-SVD）较之传统的 Slope One 算法在准确性方面有较大提高。通过训练集3和验证集3可以发现，仿真曲线呈现了截然相反的特征。这说明在处理数据稀疏度方面更具平滑特征。可有效避免因稀疏度未知或估计不足导致的验证失败。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文根据大数据稀疏性特征，把奇异值分解方法引入协同过滤算法中进行互联网站点用户的页面兴趣度进行计算和验证。实验结果显示：在数据稀疏性难以避免情况下，本文提出的改进协同过滤算法的用户页面兴趣度预测方法，在不同的训练集、验证集上的预测准确性都有很大提高。但由于本文中的实验所采用的数据仅仅为一个特定的较小数据集，难以代表不同的和较大的数据集特性。因此，改进算法的适用性还需要在不同数据集、不同数据量下进行进一步验证。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]夏义国，刘友华．一种用户兴趣度计算与用户兴趣修正的改进方法[J]. 计算机应用与软件，2014,34(1):46-55.(Xia Yiguo,Liu Youhua.An improved method ofuser interest calculation and user interest correction [J]. Computer Applications and Software,2014,34(1): 46-55.)   \n[2]李峰，裴军，游之洋.基于隐式反馈的自适应用户兴趣模型[J].计算 机工程与应用，2008,44(9):76-79.(Li Feng,PeiJun,You Zhiyang. Adaptive user interest model based on implicit feedback [J].Computer Engineering and Application,2008,44(9): 76-79.)   \n[3]邢玲，宋章浩，马强．基于混合行为兴趣度的用户兴趣模型[J].计算 机应用研究,2016,33(3): 661-664,668.(Xing Ling,Song Zhanghao,Ma Qiang.User interest model based on mixed behavior interest [J].Application Research of Computers,2016,33 (3): 661-664,668.)   \n[4]尹春晖，邓伟．基于用户浏览行为分析的用户兴趣获取[J].计算机技 术与发展,2008,18(5):37-39.(Yin Chunhui,Deng Wei.User interest acquisition based on user browsing behavior analysis [J].Computer Technologyand Development,2008,18(5): 37-39.)   \n[5]王微微，夏秀峰，李晓明．一种基于用户行为的兴趣度模型[J].计算 机工程与应用,2012,48(8):148-151.(Wang Weiwei,Xia Xiufeng,Li Xiaoming.An interest model based on user behavior [J].Computer engineering and Application,2012,48 (8): 148-151. ) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[6] 于淼，杨武，王巍，等．面向微博的多实体稀疏关系数据联合聚类[J]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通信学报,2016,37(1):151-159.(Yu Miao,Yang Wu,Wang Wei,et al.For micro-blog,multi entity sparse relation data joint clustering [J]. Communication Journal,2016,37 (1): 151-159.)   \n[7]张艳梅，王璐．适应用户兴趣变化的社会化标签推荐算法研究[J].计 算机工程,2014,40 (11):318-321.(Zhang Yanmei,Wang Lu.A social tagging recommendation algorithm adapted to user interest changes [J]. Computer Engineering,2014,40 (11): 318-321.）   \n[8]陈臣．图书馆小数据读者个性化兴趣预测与发现模型的构建[J].图书 馆论坛，2017,37 (5):98-105.(Chen Chen.Library small data reader personalized interest prediction and discovery model construction [J]. Library Forum,2017,37(5): 98-105.)   \n[9]李昌兵，凌永亮，汪尔晶．基于兴趣度的 Web 访问用户关联规则挖掘 [J]．计算机工程与设计，2017,38(4):852-856.(Li Changbing,Ling Yongliang, Wang Erjing.Web access user association rule mining based on interest degree[J]. Computer Enginering and Design,2017,38 (4):852- 856.)   \n[10]张朝恒，何小卫，陈勇兵．基于社交网络信息的协同过滤推荐算法[J]. 计算机技术与发展,2017,27(12):28-34.(Zhang Zhaoheng,He Xiaowei, Chen Yongbing. Collaborative filtering recommendation algorithm based on social network information [J]. Computer Technology and Development, 2017,27 (12): 28-34.)   \n[11] Lemire D,Maclachlan A,Slope One predictors for online rating-based collaborativefiltering[J/OL].(2008-09-15）.https://arxiv. org/pdf/cs/0702144. pdf.   \n[12]黄义纯.Slope One 推荐算法改进 [J].现代计算机,2017,34(35):24-27. (Huang Yichun Slope One recommends algorithm to improve [J]. Modern Computer,2017,34 (35): 24-27.)   \n[13]李卫疆，齐静，余正涛，等．融合信任传播和奇异值分解的社会化推荐 算法[J].计算机工程,2017,43(8):236-242.(Li Weijiang,Qi Jing,Yu Zhengtao,et al.A social recommendation algorithm integrating trust propagation and singular value decomposition [J]. Computer Engineering 2017,43 (8): 236-242.) ",
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,303 @@
+[
+    {
+        "type": "text",
+        "text": "基于三极管的倍频器研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王凌云¹²，徐轻尘」，宋亮¹(1．中国科学院国家空间科学中心北京100190;2．中国科学院大学 北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：三极管倍频器是根据晶体三极管的非线性特性，得到输入信号的各次谐波，然后通过带通滤波器选出所需要的频率，从而实现输入信号的倍频。文中详细阐述了三极管倍频电路的设计，实现了对10MHz输入信号的四倍频，通过电路测试，结果证明输出信号的相噪没有明显恶化，在1MHz带宽内相噪优于 $\\mathrm { \\cdot 8 0 . 8 7 \\ d B c / H z }$ ，在 $1 0 0 \\mathrm { k H z }$ 内杂散抑制可达 $\\cdot 7 9 . 5 4 \\mathrm { d B c / H z }$ ，满足设计需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：三极管；倍频；非线性特性；相位噪声",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：TN771",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Research of Frequency Multiplier ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Based on Transistor ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Ling-yun1²， Xu Qing-chen1， Song Liang (1.National Space Science Center, Chinese Academy of Sciences,Beijing,lOol90, China; 2. University of Chinese Academy of Sciences, Beijing, 10o049, China ） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: According to the nonlinear characteristic of the transistor, the input signal's harmonic can be obtained at the output,and then with bandpass filter to select the required frequency，the transistor frequency multiplier can be achieved.A design of frequency quadrupler by transistor is discussed detailedly in the article.The system is tested,the experimental results demonstrate that the phase noise is better than $\\mathrm { 8 0 . 8 7 ~ d B c / H z }$ within 1 MHz bandwidth,and the spurious inhibition can reach $7 9 . 5 4 ~ \\mathrm { d B c / H z }$ within the $1 0 0 ~ \\mathrm { K H z }$ ， which meet the design requirements. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: transistor; frequency multiplier; nonlinear characteristic; phase noise ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "倍频器在通信、雷达和频率合成等技术中有很广泛的应用，它的主要作用是提供高稳定度的振荡源。早期的倍频器是由非线性变阻二极管实现，后来出现了变容二极管、阶跃管和双极晶体管（或场效应管）倍频器[1-2]。其中，二极管倍频器和三极管（或场效应器件）倍频器比较常用。一般情况下，当倍频次数较低时，可以用变容管、晶体三极管、场效应管等方法来实现。其中，变容管倍频电路简单、成本低，容易调整实现，但效率比较低；场效应管倍频电路较复杂，但电路稳定，倍频效率高且有增益。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文利用相对简单的三极管倍频和窄带滤波技术将频率为10MHz的高稳晶振信号倍频输出 40MHz相干时钟信号，在实现频率4倍频的情况下，输出信号的稳定度和相噪特性没有明显恶化，可应用于雷达接收机或无线电收发机的相干采样、频率合成等方面。文中详细叙述了三极管倍频器的设计原理和实现方法，并通过实验测试了其性能指标，满足相干采样时钟的使用要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2工作原理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "信号倍频的实现依赖于非线性电路，因为只有非线性电路才能产生新的频率分量，线性电路不会有新的频率分量产生。这种电路的非线性现象有电阻非线性和电抗非线性两种，都有很广泛的应用。倍频器的实现方法很多，主要有二极管、晶体三极管、场效应管和变容二极管等几种方式[3]，考虑到低倍频情况下，三极管倍频器电路简单，容易实现，且单向性、隔离性好，有增益的优点，采用晶体三极管来实现倍频，其伏安特性可以用（1）式的非线性函数来表示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni _ { b } = \\mathrm { f } ( u _ { b e } ) = \\sum _ { \\mathrm { n } = 0 } ^ { \\infty } \\sum _ { \\mathrm { m } = 0 } ^ { n } \\mathrm { a _ { n } C _ { n } ^ { m } } u _ { 1 } ^ { n - m } u _ { 2 } ^ { m }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $u _ { b e }$ 为三极管的输入电压。一般 $u _ { b e } = U _ { Q } + u _ { 1 } + u _ { 2 }$ ， $U _ { \\varrho }$ 为器件的静态工作点， $u _ { 1 }$ 和$u _ { 2 }$ 为输入电压。只考虑单一频率输入的情况，令 $u _ { 1 } = \\mathbf { U } _ { 1 } \\cos \\omega _ { 1 } t$ ， $u _ { 2 } = 0$ ，结合三角公式，上式可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni _ { b } = \\sum _ { \\mathrm { n } = 0 } ^ { \\infty } \\mathsf { b } _ { \\mathrm { n } } \\mathrm { U } _ { 1 } ^ { \\mathrm { n } } \\cos n \\omega _ { \\mathrm { i } } t\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过以上分析，可知当频率为 $\\omega _ { \\mathrm { { i } } }$ 的信号作用于三极管时，在输出端可以得到输入信号频率的基波分量和各次谐波分量 $\\mathtt { n } \\omega _ { 1 } ( \\mathtt { n } = 2 , 3 , \\dots )$ 。利用三极管非线性区的特性[4-8]，可以用来做信号的倍频，根据所需频率在输出端加一合适的带通滤波器，就可根据需要获得输入信号频率的倍频信号。电路原理图如下图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9ce4f1b8c6078c97fa30019440ce315959c19400da010baf5e1475a7db1b9e4.jpg",
+        "img_caption": [
+            "图1三极管倍频器的原理图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 The principle diagram of transistor frequency multiplier ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电路设计主要包括倍频电路和带通滤波器。倍频电路是将三极管偏置在饱和区，得到输入信号的各次谐波；带通滤波器来完成信号的选频。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3三极管倍频电路设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在不同的直流偏置状态下，晶体管有放大区、饱和区和截止区三种不同的工作状态[9-],利用非线性区的工作特性，本文将三极管的直流工作点偏置在饱和区[4,1-12]。临界饱和条件下电阻 $R _ { \\mathrm { 1 } }$ 、 $R _ { 2 }$ 的值[11-13]的计算方法如下。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "临界饱和状态下，集电结\"零\"偏，集电极和基极电流仍然满足 $I _ { c } = \\beta I _ { B }$ ，其中， $\\beta$ 为与三极管有关的常数，计算时取 $\\beta = 1 0 0$ 。在实际工作中，临界饱和条件可以表示为 $I _ { \\phantom { } _ { B } } \\times \\beta = { \\frac { V } { R } }$ $I _ { \\scriptscriptstyle B }$ 和 $I _ { c }$ 又可以分别表示为 $I _ { _ B } = \\frac { \\mathrm { \\Delta V _ { c c } { - U _ { b e o n } } } } { R _ { 1 } }$ Ve-Ubeon和Ic $I _ { c } = \\frac { \\mathrm { \\bf V } _ { \\mathrm { c c } } { \\mathrm { - } } { \\mathrm { \\bf U } } _ { \\mathrm { c e o } } } { R _ { 2 } }$ Ve-Uce。其中，Ubeon为发射结的导通电压，对于硅管一般取 $\\mathrm { U } _ { \\mathrm { b e o n } } = 0 . 7 \\mathrm { V }$ ， $\\mathbf { U } _ { \\mathrm { c e o } }$ 为饱和压降，对于硅管 $\\mathbf { U } _ { \\mathrm { c e o } }$ 一般为0.2-0.3V,这里取 $\\mathrm { U } _ { \\mathrm { c e o } } = 0 . 3 \\mathrm { V }$ ， $\\mathrm { v _ { c c } }$ 为12V 直流电压。本设计中选用的三极管型号为2SC2407，其相关参数如下表所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/da8c1455e190b0e571399fb2df4feb6f0ea9e7540d05dfa2a718294be307dc11.jpg",
+        "table_caption": [
+            "表12SC2407三极管的参数Tab1 The parameters of 2SC2407"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>型号</td><td>材料</td><td>最高电压</td><td>最大电流</td><td>最大功率</td><td>频率</td></tr><tr><td>2SC2407</td><td>SI-NPN</td><td>35V</td><td>0.15A</td><td>0.16W</td><td>500MHz</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为使晶体管达到深度饱和状态，实际值要大于上述计算值。图1中，电容 $C _ { 1 }$ 、 $C _ { 2 }$ 是耦合电容，取 $C _ { 1 } = 0 . 1 \\mu \\mathrm { F }$ ， $C _ { 2 } = 0 . 0 1 \\mu \\mathrm { F }$ 。取 $C _ { 3 } = 1 0 0 \\mu \\mathrm { F }$ ， $C _ { 4 } = 0 . 1 \\mu \\mathrm { F }$ ， $L _ { 1 } = 1 0 0 \\mu \\mathrm { H }$ 。$R _ { 1 } = 1 \\mathrm { k } \\Omega , R _ { 2 } = 1 0 0 \\mathrm { k } \\Omega ,$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4窄带滤波器电路",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了得到纯净的单一频率输出，需在输出端加带通滤波器[14-16]，要求中心频率为40MHz，带宽为 $2 \\mathrm { M } { \\sim } 3 \\mathrm { M H z }$ ，带外抑制要大于70dB。用ADS软件设计了五阶LC无源滤波器。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5系统测试及结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5.1输入信号测试 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入信号是恒温晶振（HJ5442M-5）产生的频率为10MHz的信号，测试结果如下图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Carrier Freq 10 MHz Signal Track Off DANLOff Trig Free  \nLog Plot 100.00%of 10 Avg  \nMarker 10.0000 kHz  \nCarrier Power 11.60dBm Atten 12.00 dB Mkr 4 10.0000 kHz  \nRef-70.00dBc/Hz -118.94 dBc/Hz  \n10.00 ?  \ndB/310 Hz Frequency Offset 1 MHz  \nMarker Trace Type X Axis Value  \n1234 2222 S po t Freq 1@ Hz -80.27 dB c/HzSpot Freq 99.9Hz -107.88 dB c /HzS pot Freq 1k Hz -115.75 dB c/HzSpot Freq 10k Hz -118.94 d B c / H z",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 The results of input signal's phase noise and spurious ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2倍频电路输出信号测试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将10MHz的信号输入倍频电路，测试三极管的输出信号，并测试了40MHz和80MHz两个倍频信号的相位噪声和杂散，测试结果如下图所示，并将以上测试结果总结为表格2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Ref 10dBm Atten 20 dB MKr1 3.00MHz Carrier Freq 40 MHz Signal Track OffDANL Off Trig Free   \nNogm 8 8 8 Marker 10.0000 Hz 100.00%of10Avg   \n10   \ndB/ Marker AC Coupled: unspecified below 20 MHz Cr-eroBcrH3.10 dBm Atten 4.00 dB Mkr 4 1110250BH 30.000000 MHz 10.00 G 4.87 dBm dB/ M 金   \nLgAv Hm   \nStart 0 Hz Stop 100.00 MHz   \nRes BW 910 KHz VBW 910 kHz Sweep 1 ms (601 pts)   \nMarker Trace Type X Axis Amplitude 10 Hz Frequency Offset 1 MHz 1234 999 Fr 4808 8 Marker Tece 国 -19:8 (1) Freq 80.00 MHz -17.38 dBm 4 1 11:/ ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/357b75f7736900be25a22db39804bffd74a293b138fa22becd788edcd7eaea41.jpg",
+        "table_caption": [
+            "表2相噪测试结果",
+            "Tab 2 The result of phase noise test "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>偏移频率/Hz</td><td>10M Hz</td><td>40MHz</td><td>80M Hz</td></tr><tr><td>10</td><td>-80.27 dBc/Hz</td><td>-80.87 dBc/Hz</td><td>-74.48 dBc/Hz</td></tr><tr><td>100</td><td>-107.88 dBc/Hz</td><td>-107.83 dBc/Hz</td><td>-99.88 dBc/Hz</td></tr><tr><td>1k</td><td>-115.75 dBc/Hz</td><td>-116.80 dBc/Hz</td><td>-109.33 dBc/Hz</td></tr><tr><td>10k</td><td>-118.94 dBc/Hz</td><td>-119.25 dBc/Hz</td><td>-111.65 dBc/Hz</td></tr><tr><td>100k</td><td>-125.76 dBc/Hz</td><td>-125.22 dBc/Hz</td><td>-116.36 dBc/Hz</td></tr><tr><td>1M</td><td>-146.16 dBc/Hz</td><td>-136.24 dBc/Hz</td><td>-117.04 dBc/Hz</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/17905a697001cca5cc6c7234857cc166d792318f13169e23f3718c12282b0228.jpg",
+        "table_caption": [
+            "表3杂散测试结果",
+            "Tab 3 The resultof spurious "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>载波频率/Hz</td><td colspan=\"2\">杂散</td></tr><tr><td>10M</td><td>-99.58dBc/Hz@115Hz</td><td></td></tr><tr><td rowspan=\"3\">40M</td><td>-79.54dBc/Hz@ 50.1Hz</td><td>-98.77dBc/Hz@ 134.5Hz</td></tr><tr><td>-98.31 dBc/Hz@150Hz</td><td>-109.27 dBc/Hz@65kHz</td></tr><tr><td>-64.79dBc/Hz@49.8Hz</td><td>-93.16dBc/Hz@134.5Hz</td></tr><tr><td rowspan=\"3\">80M</td><td>-83.36 dBc/Hz@149.5Hz</td><td>-97.35 dBc/Hz@ 251Hz</td></tr><tr><td>-98.78dBc/Hz@351Hz</td><td>-104.65 dBc/Hz@5.65kHz</td></tr><tr><td>-103.94 dBc/Hz@11.4kHz</td><td>-96.92dBc/Hz@64.6kHz</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表2和表3可以看出，和10MHz输入信号相比，40MHz输出信号的相噪没有明显恶化，在 $1 0 0 \\mathrm { k H z }$ 内杂散抑制可达 ${ \\cdot 7 9 . 5 4 \\mathrm { d B c / H z } }$ 。而 ${ 8 0 } \\mathrm { { M H z } }$ 信号的相噪恶化较为明显，在 $1 0 0 \\mathrm { k H z }$ 内杂散抑制仅为 ${ \\cdot 6 4 . 7 9 } \\mathrm { d B c / H z }$ ，并且和 $4 0 \\mathrm { { M H z } }$ 信号相比，杂散明显增多。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.3滤波器输出信号测试 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将测试点定为滤波器的输出，测试结果如下图6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mkr140.00 MHz   \nRef 0dBm Atten 10 dB -8.41 dBm   \nNorm 中   \nLog   \n10   \ndB/ Marker 40.000000 MHz -8.41 dBm 3 2 4   \nLgAv   \nCenter 40.00 MHz Span 40 MHz   \nRes BW 390 kHz VBW 390 kHz Sweep 1 ms (601 pts) Marker Trace Type X Axis Amplitude 1 （1） Freq 40.00 MHz -8.41dBm 2 (1) Freq 30.00 MHz −79.66 dBm 3 (1) Freq 50.00 MHz −77.70 dBm ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "比较滤波前后的两张图，图3和图5，可以看出，中心频率40MHz的衰减为11.5dB，30MHz信号的衰减为84.53dB，50MHz信号的衰减为78.13dB。测试结果证明该滤波器工作特性良好，能够完成所需选频任务，满足实验需求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6结论 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文设计了一种相对简单的三极管倍频电路，根据三极管倍频器的工作原理，介绍了三极管的偏置电路的设计，通过比较两个不同频率的相噪和杂散，证明三极管4倍频的良好特性。经过对系统性能进行测试，结果表明 $4 0 \\mathrm { { M H z } }$ 输出信号的相噪没有明显恶化，在 $1 0 0 \\mathrm { k H z }$ 内杂散抑制可达-79.54dBc/Hz，满足采样时钟的要求，可以应用于雷达接收机或无线电接收机。三极管倍频器具有倍频效率高，稳定性好，电路简单，成本低，容易调整实现等优点，有较高的实际应用价值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "作者简介",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "王凌云（1991—)，女，河北保定人，硕士研究生，研究方向：临近空间环境探测，单位：中国科学院国家空间科学中心，邮编：100190，Email: spwly10@163.com。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Yang Guang-yi, Wang Xue-di, Jin Wei-zheng etal, Varactor innovation and improvement of frequency modulation circuit experiment, Experiment Technology and Management, 2015, 32(7):41-45 杨光义,王雪迪,金伟正,等.变容二极管调频电路实验的创新与改进[J].实验技术与管理, 2015,32(7):41-45.   \n[2] ZHU Zhi-yong,WANG Ji-qin, The Development and Design of Microwave Frequency Multiplier, Guidance & Fuze,2003,24(3),46-50. 朱志勇，王积勤，微波倍频器的发展与设计[J]，制导与引信，2003，24(3)：46-50.   \n[3] Gao Shu-ting, Study on Frequency Multiplier, Semiconductor information,1998,35(4),33-35 高树廷，倍频器的研究[J]，半导体情报，1998，35(4):33-35.   \n[4] Li Xin, Working Condition and Application of Transistor, Science & Technology Information, 2014,(8):106 李新．三极管的工作状态及应用[J]．科技资讯,2014,(8):106.   \n[5] Wei Jia,Zhang Sha, The Application of Transistor, Guide to Business,2O13,(7): 284. 魏佳,张沙．三极管的应用[J]．企业导报,2013,(7):284.   \n[6] Wang Yan-jun,The discuss of Transistors analysis method, China Urban Economy, 2O10,(6): 8 王延军．三极管电路分析方法探讨[J]．中国城市经济,2010,(6):8.   \n[7] Sun Hui-li, The different applications of Transistors in different working conditions, Net Friend World,2013,(11): 18. 孙会丽．谈晶体三极管在不同工作状态下的应用[J]．网友世界,2013,(11):18.   \n[8] Zhang Yong,Analysis of Transistor amplifying circuit,Knowledge World,2O12,(8): 18-19. 章勇．对三极管基本放大电路原理的分析[J]．知识窗(教师版),2012,(8):18-19.   \n[9] Yan Yong,Luo Zhi-gang,Research and design of the circuit of transistor ,Electronic Test, 2013,9,47-49 晏勇，罗治刚，晶体三极管电路设计与探讨[J]，电子测试，2013,9,47-49.   \n[10] Pan Ping-zhong,The working principle of Transistor,Practical Electronics,2O10,63-67 潘平仲，三极管的工作原理[J]，电子制作，2010,63-67   \n[11] Tian Qing-hua, Judge of Working Conditions of Transistor,Practical Electronics,2Ol3,(4): 14. 田清华．三极管在电路中工作状态的判断[J]．电子制作,2013,(4):14.   \n[12] Zhang Qian,Du Jian-bin,Zhang Ya-ru, Biased circuit of Transistors,Science & Technology Information, 2014,(16): 89. 张倩,杜建宾,张亚如.三极管的偏置电路[J].科技资讯,2014,(16):89.   \n[13] Luo Zui-fen,A judgement method of transistor working status of Basic circuits with emitter resistors and bipolar, Electronics World,2012,(19): 58-59. 骆最芬．有射极电阻的基本电路中双极型晶体三极管工作状态的一种判断方法[J]．电 子世界,2012,(19): 58-59.   \n[14]   \n李庆利.70MHz窄带石英晶体滤波器的设计与实现[C]//会议/论文集缺失,[出版地不详]:[出   \n版者不详],2010：页码范围缺失.   \n[15] Liu Bao-ming,Cui Yu-ping,Pan Qing,Design of narrow-band filter based on operational amplifier, Electronic Design Engineering,, 2011,19(22): 91-93. 刘宝明,崔玉萍,潘青．基于运放的窄带滤波器设计[J]．电子设计工程,2011,19(22):91-93.   \n[16] Liu Yan-tao,Liu Yu-bei,Yin Wei, Introduction of design methods of LC f ilter and simulation of responding characteristics,Electronic Measurement Technology, 33(5): 17-21. 刘砚涛,刘玉蓓,尹伟.LC滤波器设计方法介绍及其仿真特性比较[J]．电子测量技术,2010, 33(5): 17-21. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,204 @@
+饲粮中添加卵黄抗体对断奶仔猪生长性能、血清生化指标、肠道形态及肠道微生物菌群的影响
+
+张文飞 1,2 刘苹苹 1,2 管武太 1,2\* 陈芳1邓跃林1（1.华南农业大学动物科学学院，广州510642；2.华南农业大学动物科学学院华农联佑饲用油脂研究中心，广州510642）
+
+摘要：本试验旨在研究饲粮中添加卵黄抗体对断奶仔猪生长性能、血清生化指标、肠道形态及肠道微生物菌群的影响。试验选取160头（ $2 5 { \pm } 1$ ）日龄“杜 $\times$ 长 $\times$ 大"断奶仔猪，分为4个组，每个组4个重复，每个重复10头猪。各组分别饲喂以下4种饲粮：基础饲粮（对照组）、基础饲粮 $+ 0 . 4 \mathrm { k g / t }$ 硫酸黏杆菌素（抗生素组）、基础饲粮 $+ 1 . 0 \mathrm { k g / t }$ 卵黄抗体（卵黄抗体组）、基础饲粮 $+ 0 . 2 \mathrm { k g / t }$ 硫酸黏杆菌素 $+ 0 . 5 \mathrm { k g / t }$ 卵黄抗体（联用组)。试验期共计 $2 8 \mathrm { d }$ 。结果表明：1）与对照组相比，卵黄抗体组显著提高了断奶仔猪平均日增重 $( P { < } 0 . 0 5 )$ ，显著降低了断奶仔猪料重比和腹泻率 $( P { < } 0 . 0 5 )$ ，断奶仔猪平均日采食量无显著差异（ $\cdot P { > } 0 . 0 5 ) .$ )。与抗生素组相比，卵黄抗体组断奶仔猪生长性能无显著差异 $( P { > } 0 . 0 5 )$ ，两者表现出相近的使用效果。2）与对照组相比，卵黄抗体组显著提高了断奶仔猪血清中总蛋白、白蛋白的含量( $P <$ 0.05)。3）与对照组相比，卵黄抗体组显著增加了断奶仔猪回肠绒毛高度和绒隐比 $( P { < } 0 . 0 5 )$ ，断奶仔猪十二指肠和空肠的绒毛高度、隐窝深度和绒隐比无显著差异 $( P { > } 0 . 0 5 )$ 。4）与对照组相比，卵黄抗体组显著降低了断奶仔猪回肠、盲肠中大肠杆菌数量 $( P { < } 0 . 0 5 )$ ，显著增加了断奶仔猪回肠、盲肠中的乳酸杆菌数量 $( P { < } 0 . 0 5 )$ 。综上所述，饲粮中添加卵黄抗体能显著改善断奶仔猪生长性能，增强仔猪免疫力，提高肠道健康水平，促进有益菌生长，与抗生素有相近的使用效果，是很有发展潜力的抗生素替代品之一。
+
+关键词：卵黄抗体；断奶仔猪；抗生素；生长性能；血清生化指标；肠道形态；肠道微生物中图分类号：S828 文献标识码： 文章编号：
+
+断奶仔猪由于具有消化机能发育不完善、胃肠道微生态平衡脆弱、免疫机能低下等消化生理特点，易诱发腹泻[]，而集约化生产中，仔猪大肠杆菌性腹泻发病率又占仔猪胃肠疾病的 $5 0 \%$ 以上[2]。由于大肠杆菌血清型复杂，耐药质粒的相互传递和扩散给预防和治疗工作带来很大困难[3]，给养猪业带来严重的经济损失。目前防治仔猪细菌性腹泻较有效的手段是应用抗生素，短期内有一定效果，但长期使用存在细菌产生耐药性、畜产品药物残留等问题，随着社会公众对食品安全的重视，寻找一种新的安全、有效的手段来控制仔猪腹泻已刻不容缓。
+
+卵黄抗体（immunoglobulinof yolk，IgY）是一种从免疫禽蛋中提取的针对特定抗原的抗体，也称卵黄免疫球蛋白[4-5]，其作用机理与初乳中母源抗体相类似[6]，不仅具有较强的耐酸、耐碱和抗酶解的作用，而且还具有制备简单、产量高、特异性强、无毒副作用、成本低等优点[7-9]，已广泛用于动物的疾病预防和治疗中，不仅可为机体提供被动保护，而且还具有营养补充作用，具有广阔的应用前景。卵黄抗体代替抗生素在动物生产中的应用已被广泛认可[10-13]，其不仅具有提高生长性能的效果，对动物肠道形态[14-15]和肠道微生物区系[16-18]也会产生积极的影响，是一种很有潜力的抗生素替代品[19]。但卵黄抗体作为饲料添加剂在断奶仔猪中的应用却鲜有报道，为此，本试验旨在研究饲粮中添加抗大肠杆菌卵黄抗体对断奶仔猪生长性能、血清生化指标、肠道形态及肠道微生物菌群的影响，为其在仔猪中的应用提供科学的依据和参考。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+本试验所使用高免卵黄抗体为抗大肠杆菌K88、K99、987P多价菌毛卵黄抗体粉，其效价分别为1：12800、1：12800、1：600。
+
+# 1.2 试验设计与饲养管理
+
+试验选取160头（ $2 5 { \pm } 1$ ）日龄“杜 $\times$ 长×大"断奶仔猪，根据体重、性别、健康状况等均衡分布原则分为4组，每组4个重复，每个重复10头猪。各组分别饲喂以下4种饲粮，基础饲粮（对照组）、基础饲粮 $+ 0 . 4 \mathrm { k g / t }$ 硫酸黏杆菌素（抗生素组）、基础饲粮 $+ 1 . 0 \mathrm { k g / t }$ 卵黄抗体（卵黄抗体组）、基础饲粮 $+ 0 . 2 \mathrm { k g / t }$ 硫酸黏杆菌素 $+ 0 . 5 \mathrm { k g / t }$ 卵黄抗体 (联用组)。
+
+饲养试验在广东长江食品集团汶村猪场进行。各试验组每天08:00、10:00、15:00、17:00饲喂，自由采食和饮水，日常管理及防疫按猪场常规程序进行。猪场实行规模化生产，其防疫及管理各项工作科学规范，且配套设施齐全，满足本试验的要求。
+
+# 1.3 试验饲粮
+
+试验饲粮为玉米-豆粕型基础饲粮，其各项营养指标均满足断奶仔猪的营养需求（NRC，2012)，基础饲粮组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1Composition and nutrient levels of the basal diet (air-dry basis)
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米Corm</td><td>60.00</td></tr><tr><td>豆粕 Soybean meal</td><td>20.50</td></tr><tr><td>鱼粉 Fish meal</td><td>5.00</td></tr><tr><td>低蛋白乳清粉 Low protein whey powder</td><td>5.00</td></tr><tr><td>代乳粉Milk replacer</td><td>4.50</td></tr><tr><td>豆油 Soybean oil</td><td>1.20</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.20</td></tr><tr><td>赖氨酸Lys</td><td>0.30</td></tr><tr><td>食盐 NaCl</td><td>0.30</td></tr><tr><td>石粉Limestone</td><td>1.00</td></tr><tr><td>预混料 Premixl)</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>13.81</td></tr><tr><td>粗蛋白质CP</td><td>19.80</td></tr><tr><td>钙Ca</td><td>1.00</td></tr><tr><td>总磷TP</td><td>0.90</td></tr><tr><td>有效磷 AP</td><td>0.60</td></tr><tr><td>赖氨酸Lys</td><td>1.20</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.70</td></tr><tr><td>苏氨酸 Thr</td><td>0.67</td></tr><tr><td>色氨酸Trp</td><td>0.19</td></tr></table></body></html>
+
+1 预混料为每千克饲料提供 The premix provided the following per kg of the diet:VA 9 750IU, $\mathrm { V D } _ { 3 } 3 0 0 0 \mathrm { I U }$ ，VE $2 2 . 5 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 3 . 7 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 \log$ ，烟酸nicotinicacid $3 0 \mathrm { m g }$ ，泛酸 pantothenic acid $1 5 ~ \mathrm { m g }$ ，叶酸folic acid $1 . 5 \mathrm { m g }$ ， $\mathrm { 5 e 0 . 1 5 m g }$ ， $\mathrm { C u } 5 \mathrm { m g }$ ，Fe 80mg， $\mathrm { Z n } 5 1 \mathrm { m g }$ ， $\mathrm { M n } 2 0 . 5 \mathrm { m g }$ ， $\mathrm { 1 0 . 1 4 ~ m g }$ 。
+
+2营养水平均为计算值。Nutrient levels were all calculated values.
+
+# 1.4样品采集与制备
+
+试验第 29天，每个重复1头，每组选取4头仔猪（体重接近窝平均个体重、公母各占1/5)，共屠宰16 头断奶仔猪。按常规方法进行采样，分别采集十二指肠、空肠、回肠、盲肠肠段各 $2 \mathrm { c m }$ 及内容物，并采集血液制备血清。
+
+# 1.4.1 血清样品
+
+试验第29天，每个重复选1头接近平均体重的断奶仔猪， $1 0 \mathrm { m L }$ 一次性注射器空腹前腔静脉采血 $8 ~ \mathrm { m L }$ ，迅速转移至 $1 0 ~ \mathrm { m L }$ 离心管中，室温下倾斜静置1h后， $3 0 0 0 \mathrm { r / m i n }$ 离心$1 5 \mathrm { m i n }$ ，分离血清， $- 2 0 \mathrm { ~ \textdegree C }$ 保存，待测血清生化指标。
+
+# 1.4.2 各肠段及肠道内容物样品
+
+分离各肠段，取十二指肠、空肠、回肠各肠段约 $2 \mathrm { c m }$ ，用生理盐水清洗后固定在 $4 \%$ 多聚甲醛中，-20℃保存。无菌条件下，将回肠、盲肠肠段两端分别结扎 $5 \mathrm { c m }$ ，用无菌剪刀剪开肠壁，将肠道内容物迅速放入无菌的离心管中，液氮速冻， $- 8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱保存备用。
+
+# 1.5指标测定及方法
+
+# 1.5.1 生长性能
+
+以重复为单位，在试验第1、29天，称取仔猪窝重，计算断奶仔猪平均日增重（ADG);记录采食量，计算断奶仔猪平均日采食量（ADFI)，计算试验阶段的料重比（F/G)，记算腹泻率。
+
+腹泻率 $( \% ) =$ [试验期内腹泻头数/(试验天数 $\times$ 试验头数)」 $\times 1 0 0$ 。
+
+# 1.5.2 血清生化指标
+
+血清溶菌酶活性及总蛋白、白蛋白、球蛋白含量测定试剂盒均购于南京建成生物工程研究所，操作按说明书进行。
+
+# 1.5.3 肠道形态
+
+肠道形态测定由北京吉普腾生物公司完成。将肠道样品进行石蜡包埋切片，苏木精-伊红染色，测定绒毛高度（VH）、隐窝深度（CD)，计算绒隐比（VH/CD)。
+
+# 1.5.4回肠、盲肠中微生物菌群数量的测定
+
+采用平板计数法检测回肠、盲肠中微生物菌群数量。在无菌操作台内称取 $1 . 0 \mathrm { g }$ 肠段内容物与 $9 \mathrm { m L }$ 灭菌生理盐水配制成1：10 稀释液，振荡 $3 { \sim } 5 \ \mathrm { m i n }$ ，用微量移液器准确吸取该稀释液 $1 \mathrm { m L }$ 至装有 $9 \mathrm { m L }$ 灭菌稀释液试管中，用涡旋振荡器振荡 $1 { \sim } 2 \operatorname* { m i n }$ ，配制成 $1 0 ^ { - 2 }$ 稀释液，再依次进行 $1 0 ^ { - 3 } { \sim } 1 0 ^ { - 7 }$ 稀释。将各肠段内容物的稀释液接种于相应的选择性培养基中(乳酸杆菌用乳酸细菌培养基，大肠杆菌用麦康凯培养基)。大肠杆菌在 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 有氧培养 $2 0 \mathrm { h }$ 乳酸杆菌在 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 有氧培养 $3 6 \mathrm { h }$ 。每个稀释梯度重复3次，最后取3次计数的平均值。肠道微生物的数量用 $\scriptstyle \log ( \mathrm { C F U } / \mathrm { g } )$ ，即每克肠道内容物中含菌落总数的对数表示[20]。
+
+# 1.6 数据处理及分析
+
+试验数据采用 SPSS17.0软件进行方差分析，采用Duncan氏法进行多重比较和差异显著性检验， $P { < } 0 . 0 5$ 表示差异显著，结果均以平均值±标准误（means±SE）表示。
+
+# 2结果与分析
+
+2.1饲粮中添加卵黄抗体对断奶仔猪生长性能的影响
+
+由表2可知，与对照组相比，卵黄抗体组断奶仔猪平均日增重显著提高 $( P { < } 0 . 0 5 )$ ，提高了 $2 9 . 4 6 \%$ ；断奶仔猪料重比显著降低 $( P { < } 0 . 0 5 )$ ，降低了 $2 3 . 7 6 \%$ ；断奶仔猪腹泻率显著降低 $( P { < } 0 . 0 5 )$ ，降低了 $2 . 8 7 \%$ 。与抗生素组相比，卵黄抗体组断奶仔猪平均日增重、平均日采食量、料重比、腹泻率均无显著差异( $P { > } 0 . 0 5 )$ ，两者表现出相近的使用效果。与对照组相比，联用组断奶仔猪平均日增重显著提高 $( P { < } 0 . 0 5 )$ ，提高了 $3 4 . 7 8 \%$ ；断奶仔猪料重比显著降低$( P { < } 0 . 0 5 )$ ，降低了 $2 1 . 2 8 \%$ ；断奶仔猪腹泻率显著降低 $( P { < } 0 . 0 5 )$ ，降低了 $2 . 4 8 \%$ 。与抗生素组相比，联用组断奶仔猪平均日增重、平均日采食量、料重比、腹泻率均无显著差异 $( P { > } 0 . 0 5 )$ 。
+
+Table 2 Effects of dietary supplementation of IgY on growth performance of weaned pigl   
+
+<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>抗生素组 Antibiotic group</td><td>卵黄抗体组 IgY group</td><td>联用组 Combine group</td></tr><tr><td>始重Initial weight/kg</td><td>8.12±0.72</td><td>8.15±0.72</td><td>8.17±0.72</td><td>8.19±0.72</td></tr><tr><td>末重 Final weight/kg</td><td>13.99±1.46</td><td>15.78±1.00</td><td>15.68±1.05</td><td>15.96±1.24</td></tr><tr><td>平均日增重 ADG/g</td><td>207±26b</td><td>272±10a</td><td>268±12a</td><td>279±19a</td></tr><tr><td>平均采食量 ADFI/g</td><td>408±36</td><td>429±18</td><td>414±15</td><td>445±34</td></tr><tr><td>料重比F/G</td><td>2.02±0.16a</td><td>1.58±0.05b</td><td>1.54±0.02b</td><td>1.59±0.02b</td></tr><tr><td>腹泻率Diarrhea rate/%</td><td>3.96±1.12a</td><td>1.04±0.22b</td><td>1.09±0.21b</td><td>1.48±0.45b</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，肩标相同字母或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference （2 $( P { < } 0 . 0 5 )$ , while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ The same as below.
+
+2.2饲粮中添加卵黄抗体对断奶仔猪血清生化指标的影响
+
+由表3可知，与对照组相比，卵黄抗体组断奶仔猪血清中总蛋白、白蛋白的含量显著提高 $( P { < } 0 . 0 5 )$ ，分别提高了 $5 . 4 8 \%$ 、 $1 4 . 3 3 \%$ ；血清中溶菌酶活性提高了 $2 0 . 5 9 \%$ ，但差异不显著 $( P { > } 0 . 0 5 )$ 。与抗生素组相比，卵黄抗体组断奶仔猪血清生化指标均无显著差异 $( P { > } 0 . 0 5 )$ ，两者表现出相近的使用效果。与对照组相比，联用组断奶仔猪血清中总蛋白、白蛋白含量显著提高 $\scriptstyle ( P < 0 . 0 5 )$ ，分别提高了 $4 . 7 7 \%$ 、 $9 . 4 9 \%$ 。与抗生素组相比，联用组断奶仔猪血清中溶菌酶活性提高了 $1 1 . 6 1 \%$ ，但差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+表2饲粮中添加卵黄抗体对断奶仔猪生长性能的影响  
+表3饲粮中添加卵黄抗体对断奶仔猪血清生化指标的影响  
+Table 3Effects of dietary supplementation of $\mathrm { I g Y }$ on serum biochemical parameters of weaned   
+
+<html><body><table><tr><td colspan="5">piglets</td></tr><tr><td>项目</td><td>对照组</td><td>抗生素组</td><td>卵黄抗体组</td><td>联用组</td></tr><tr><td>Items</td><td>Control group</td><td>Antibiotic group</td><td>IgY group</td><td>Combine group</td></tr><tr><td>总蛋白 TP/（g/L)</td><td>53.57±0.24b</td><td>56.33±0.22a</td><td>56.51±0.27a</td><td>56.13±0.23a</td></tr><tr><td>白蛋白 ALB/（g/L）</td><td>27.06±0.67c</td><td>31.25±0.11a</td><td>30.94±0.37ab</td><td>29.63±0.52b</td></tr></table></body></html>
+
+<html><body><table><tr><td>球蛋白 GLB/（g/L)</td><td>26.52±0.73</td><td>25.08±0.26</td><td>25.57±0.16</td><td>26.50±0.53</td></tr><tr><td>蛋白系数A/G</td><td>1.03±0.05c</td><td>1.25±0.01a</td><td>1.21±0.02ab</td><td>1.12±0.04bc</td></tr><tr><td>溶菌酶Lysozyme/(μg/mL)</td><td>7.72±0.52</td><td>7.66±0.31</td><td>9.31±0.52</td><td>8.55±0.72</td></tr></table></body></html>
+
+2.3饲粮中添加卵黄抗体对断奶仔猪肠道形态的影响
+
+由表4可知，与对照组相比，卵黄抗体组显著增加了断奶仔猪回肠绒毛高度和绒隐比( $P$ $< 0 . 0 5 )$ ，回肠绒毛高度提高了 $3 0 . 6 5 \%$ ，十二指肠和空肠的绒毛高度和隐窝深度无显著差异$( P { > } 0 . 0 5 )$ 。与抗生素组相比，卵黄抗体组断奶仔猪小肠肠道形态均无显著差异 $( P { > } 0 . 0 5 )$ 。与对照组相比，联用组显著增加了断奶仔猪回肠绒毛高度和绒隐比 $( P { < } 0 . 0 5 )$ ，回肠绒毛高度提高了 $2 9 . 3 2 \%$ 。
+
+表4饲粮中添加卵黄抗体对断奶仔猪肠道形态的影响  
+Table 4Effects of dietary supplementation of $\mathrm { I g Y }$ on intestinal morphology of weaned piglets   
+
+<html><body><table><tr><td>项目</td><td></td><td>对照组 Control group</td><td>抗生素组 Antibiotic group</td><td>6 卵黄抗体组 IgY group</td><td>联用组 Combine group</td></tr><tr><td>Items</td><td>十二指肠 Duodenum</td><td>374.65±15.22</td><td>409.43±21.41</td><td>379.16±15.15</td><td>365.85±19.04</td></tr><tr><td>绒毛高度</td><td>空肠Jejunum</td><td>367.72±23.72</td><td>382.34±23.11</td><td>361.79±23.96</td><td>370.05±23.71</td></tr><tr><td>VH/μm</td><td>回肠Ileum</td><td>300.45±9.30b</td><td>375.35±18.29a</td><td>392.54±14.06a</td><td>388.56±17.13a</td></tr><tr><td>隐窝深度</td><td>十二指肠 Duodenum</td><td>226.16±14.19</td><td>225.78±21.89</td><td>223.42±15.53</td><td>212.26±21.43</td></tr><tr><td>CD/μm</td><td>空肠 Jejunum</td><td>236.17±24.89</td><td>221.88±13.19</td><td>243.67±12.71</td><td>226.34±14.81</td></tr><tr><td></td><td>回肠Ileum</td><td>186.94±9.20</td><td>184.44±8.84</td><td>183.55±10.36</td><td>192.63±8.63</td></tr><tr><td></td><td>十二指肠 Duodenum</td><td>1.67±0.09</td><td>1.86±0.17</td><td>1.73±0.18</td><td>1.75±0.09</td></tr><tr><td>绒隐比</td><td>空肠 Jejunum</td><td></td><td></td><td></td><td></td></tr><tr><td>VH/CD</td><td></td><td>1.62±0.22</td><td>1.72±0.04</td><td>1.48±0.02</td><td>1.65±0.14</td></tr><tr><td></td><td>回肠Ileum</td><td>1.61±0.05b</td><td>2.05±0.15a</td><td>2.15±0.10a</td><td>2.03±0.13a</td></tr></table></body></html>
+
+2.4饲粮中添加卵黄抗体对断奶仔猪肠道微生物菌群的影响
+
+由表5可知，与对照组相比，卵黄抗体组断奶仔猪回肠、盲肠中大肠杆菌数量显著降低$( P { < } 0 . 0 5 )$ ，分别降低了 $5 . 9 1 \%$ 、 $1 3 . 6 4 \%$ ；回肠、盲肠中的乳酸杆菌数量显著增加 $( P { < } 0 . 0 5 )$ 分别增加了 $8 . 2 2 \%$ 、 $1 5 . 7 5 \%$ 。与抗生素组相比，卵黄抗体组断奶仔猪回肠乳酸杆菌数量显著增加 $( P { < } 0 . 0 5 )$ ，增加了 $2 . 9 0 \%$ 。与对照组相比，联用组断奶仔猪回肠、盲肠中大肠杆菌数量显著降低 $( P { < } 0 . 0 5 )$ ，分别降低了 $5 . 3 6 \%$ 、 $1 4 . 4 1 \%$ ；回肠、盲肠中的乳酸杆菌数量显著增加 $P$ $< 0 . 0 5 )$ ，分别增加了 $5 . 0 5 \%$ 、 $9 . 4 1 \%$ 。与抗生素组相比，联用组断奶仔猪回肠、盲肠中的大肠杆菌、乳酸杆菌数量无显著差异 $( P { > } 0 . 0 5 )$ 。
+
+表5饲粮中添加卵黄抗体对断奶仔猪肠道微生物菌群的影响  
+Table 5Effects of dietary supplementation of $\mathrm { I g Y }$ on intestinal microbial flora of weaned piglets lg(CFU/g)   
+
+<html><body><table><tr><td>项目 Items</td><td></td><td>对照组 Control group</td><td>抗生素组 Antibiotic group</td><td>卵黄抗体组 IgY group</td><td>联用组 Combine group</td></tr><tr><td rowspan="2">大肠杆菌 E. coli</td><td>回肠 Ileum</td><td>7.27±0.11a</td><td>6.62±0.10b</td><td>6.84±0.07b</td><td>6.88±0.07b</td></tr><tr><td>盲肠 Cecum</td><td>7.84±0.13a</td><td>6.72±0.12b</td><td>6.77±0.12b</td><td>6.74±0.11b</td></tr><tr><td>乳酸杆菌</td><td>回肠Ileum</td><td>8.51±0.05c</td><td>8.95±0.03b</td><td>9.21±0.02a</td><td>8.94±0.13b</td></tr><tr><td>Lactobacillus</td><td>盲肠 Cecum</td><td>8.82±0.16b</td><td>9.56±0.07a</td><td>10.21±0.23a</td><td>9.65±0.18a</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1饲粮中添加卵黄抗体对断奶仔猪生长性能的影响
+
+随着国内禁止抗生素步伐的加快，科研工作者正努力寻找一种能有效防治动物疾病而且绿色环保的生物制剂，卵黄抗体以其成本低、高效、安全等优点，得到了国内外学者的广泛关注。许国栋等[2I]制备了抗产肠毒素大肠埃希菌(ETEC)的F18和 K88融合蛋白卵黄抗体，并研究了卵黄抗体对断奶仔猪腹泻的预防及生长性能的影响，结果表明，在饲粮中添加卵黄抗体可提高仔猪的生长性能，显著降低仔猪腹泻率。高云英等[22将 ${ \mathrm { K } } 8 8 +$ 、K99和987P灭活后，等量混合免疫产蛋鸡，随后给仔猪口服卵黄抗体，预防保护试验达到 $90 \%$ 以上，攻毒保护试验达到 $9 8 \%$ ，该试验显示卵黄抗体在治疗上优于痢特灵和庆大霉素。Owusu-Asiedu等[23]研究发现，人工感染大肠杆菌后，不添加卵黄抗体组严重腹泻，并持续 $\mathrm { ~ 7 ~ d ~ }$ ，有 $3 3 \%$ 的死亡率，而添加卵黄抗体组只发生轻微腹泻。王吉谭等[14]研究表明，使用含有抗 ${ \mathrm { K } } 8 8 +$ 、K99和987P 的卵黄抗体粉饲喂断奶仔猪后，饲喂2周高免全蛋粉能显著提高仔猪平均日采食量、平均日增重和饲料转化率，能有效防治断奶仔猪腹泻，显著降低肠道中大肠杆菌数量。姜锦鹏等[24]使用脂肪组织细胞膜蛋白制得的卵黄抗体，在猪的生长前期饲喂添加卵黄抗体（75mg/kg)的饲粮,平均日增重提高了 $1 3 . 0 3 \%$ ，饲料报酬率提高了 $7 . 4 9 \%$ ，瘦肉率提高了 $1 0 . 3 0 \%$ 背膘厚下降了 $2 4 . 1 4 \%$ ，肾脏、肠系膜、皮下脂肪指数都下降，并可改善肉色。
+
+余冰等[25]研究了含胆囊收缩素（CCK）抗体的卵黄粉对断奶仔猪生长性能及养分消化率的影响，结果发现，与对照组相比，试验组仔猪血清中CCK含量下降，试验组平均日采食量提高了 $6 . 9 2 \%$ 、平均日增重增加了 $1 2 . 1 4 \%$ ，料重比降低了 $4 . 6 2 \%$ ，同时，随着含CCK抗体卵黄粉添加水平的增加，粗蛋白质消化率随其添加水平增加呈二次曲线变化。Yokoyama等[16]研究口服抗 ${ \mathrm { K } } 8 8 +$ 、K99 和987P的卵黄抗体对防制仔猪大肠杆菌性腹泻的影响，结果发现，口服后不仅降低了仔猪的腹泻率、死亡率，且有效预防了细菌和病毒引起的消化道疾病，同时提高了仔猪平均日增重。肖驰等[26]给初生仔猪口服抗猪大肠埃希氏菌卵黄抗体，7日龄仔猪腹泻率较对照组由 $47 . 7 \%$ 降至 $9 . 4 \%$ ，8\~12日龄仔猪腹泻率较对照组下降了 $9 . 5 \%$ 。大量资料表明，卵黄抗体作为饲料添加剂不仅可预防仔猪消化道疾病，且可提高早期断奶仔猪的生长性能[27]。陈鲁勇等[28]研究报道，选用 21日龄的早期断奶仔猪160 头，每组80 头，分别饲喂基础饲粮和基础饲粮 $+ 1 \ \mathrm { g / k g }$ 卵黄抗体粉，结果表明，试验组比对照组平均日增重提高，采食量提高，料重比下降，腹泻率下降。
+
+在本试验中，与对照组相比，饲粮中单独添加卵黄抗体或者与抗生素联用时都能显著提高平均日增重，显著降低料重比和腹泻率，结果与前人基本一致。与抗生素组相比，饲粮中添加卵黄抗体对断奶仔猪生长性能无显著差异，两者使用效果相近，表明在以后的生产中可以用卵黄抗体部分或全部替代抗生素。
+
+3.2饲粮中添加卵黄抗体对断奶仔猪血清生化指标的影响
+
+血清中的总蛋白、白蛋白、球蛋白含量可以反映机体的免疫机能状态。血清中的白蛋白参与机体组织蛋白的合成，是血液缓冲剂，它可以维持血管胶体渗透压，作为金属离子、脂肪酸、氨基酸和激素等的运输载体；血清中的球蛋白主要与机体免疫机能有关。血清中的白蛋白和球蛋白主要由肝脏合成，其含量反映了肝脏的功能状态和机体免疫机能。吴春燕等[29]研究报道，新生仔猪主动免疫能力缺乏，主要依靠母乳提供的免疫球蛋白进行被动免疫，直到 4\~5 周龄时，主动免疫才发挥作用。早期断奶仔猪由于被动免疫保护消失，主动免疫功能又不完善，所以抵抗力差，容易出现腹泻等疾病。
+
+溶菌酶广泛分布于动植物组织、体液与分泌液中，具有溶解细菌细胞、迅速清理黏膜及抗感染的功能，其主要来自嗜中性白细胞、单核细胞及吞噬细胞溶酶体中，能增强机体活性，与免疫球蛋白在功能上有着紧密联系，对仔猪腹泻具有防治作用[30]。
+
+本试验中，与对照组相比，饲粮中添加卵黄抗体能显著提高血清中总蛋白、白蛋白的含量，血清中溶菌酶活性提高了 $2 0 . 5 9 \%$ ，但差异不显著，与抗生素组相比，饲粮中添加卵黄抗体对断奶仔猪血清生化指标无显著差异。当抗生素与卵黄抗体联用时也能显著提高血清中总蛋白、白蛋白含量，与抗生素组无显著差异。这说明卵黄抗体能很好的增强仔猪免疫力，效果与抗生素接近。
+
+# 3.3饲粮中添加卵黄抗体对断奶仔猪小肠肠道形态的影响
+
+国内外大量研究证实，断奶对仔猪肠道形态产生严重影响。Hampson[31研究报道，在断奶后3\~8d，肠道绒毛长度下降了 $30 \% { \sim } 6 3 \%$ ，隐窝深度增加了 $76 \% { \sim } 1 8 0 \%$ 。任曼等[32]研究表明，仔猪断奶后，肠道完整性遭到破坏，肠道绒毛萎缩，隐窝深度增加，绒隐比降低。顾宪红等[33研究报道，肠道病原菌与小肠的互作是影响断奶后仔猪消化道结构和功能变化的主要因素之一。王吉谭等[14]研究表明，使用含有抗 ${ \mathrm { K } } 8 8 +$ 、K99 和987P 的卵黄抗体粉饲喂断奶仔猪后，饲喂2周高免全蛋粉能显著降低肠道中大肠杆菌数量，增加绒毛高度，降低隐窝深度，在获得与饲喂添加血浆蛋白粉饲粮相同的生长性能条件下，极大地降低了生产成本。Mahdavi等[15]研究发现，在将抗大肠杆菌 $\mathbf { O 7 8 } : \mathbf { K 8 0 }$ 卵黄抗体添加到饲料中饲喂雏鸡后，能够增加肠道绒毛的高度和隐窝深度，并能降低空肠中球状细胞和淋巴滤泡的数目。
+
+在本试验中，与对照组相比，饲粮中添加卵黄抗体能显著增加回肠绒毛高度和绒隐比，对十二指肠和空肠的绒毛高度和隐窝深度无显著影响，与抗生素组相比，两者无显著差异，但效果类似；当抗生素与卵黄抗体联用时也能显著增加回肠绒毛高度和绒隐比。这说明，饲料中添加抗生素、卵黄抗体对断奶仔猪的小肠黏膜形态均有明显的改善作用，其原因可能是因为它们明显抑制了致病性大肠杆菌的生长，减少了大肠杆菌内毒素的分泌，降低了内毒素对小肠绒毛的破坏。
+
+# 3.4饲粮中添加卵黄抗体对断奶仔猪肠道微生物菌群的影响
+
+微生物与动物机体及环境之间是一个相互依赖、相互制约的微生态体系，在微生态平衡状态下，动物肠道中的正常微生物菌群对肠道的结构和功能、对增强机体的免疫能力及抵抗疾病起着十分重要的作用。仔猪断奶是由母乳喂养为主转变为以饲粮喂养为主的过程，在此期间消化道内微生物区系易发生较大改变，从而导致仔猪腹泻。许多研究表明，断奶对仔猪肠道菌群有很大影响，主要表现为大肠杆菌数量的上升和乳酸杆菌数量的下降[34]。李冬虹等[7]制备了抗ETEC的卵黄抗体，并通过同位素标记大肠埃希菌证明了卵黄抗体对ETEC黏附具有良好的保护效果。胥桂华等[35]用仔猪大肠埃希菌病纯化冻干卵黄抗体处理ETEC的${ \mathrm { K } } 8 8 +$ 、K99和987P菌株感染新生仔猪，研究卵黄抗体对大肠埃希菌药理机制，结果表明卵黄抗体与ETEC菌毛相结合，改变了ETEC的细胞膜结构，阻止了ETEC在仔猪小肠内的定殖，妨碍了ETEC的正常代谢，最终实现了对仔猪大肠埃希菌病防治的目的，与Yokoyama等[16]和Jin等[18]的研究结果一致。
+
+卵黄抗体经过胃液和肠液的消化后，大部分完整的卵黄抗体黏附于肠道病原菌的菌毛和鞭毛上，使病原菌失去黏附肠黏膜上皮细胞的能力，阻碍病原菌运动、扩散或者直接结合到病原菌的细胞壁上，从而改变病原体的完整性，达到抑制肠道大肠杆菌的目的；小部分卵黄抗体在肠道消化酶作用下，降解为可结合片段，这些片段含有抗体末端的可变小肽(Fab)部分，这些小肽很容易被肠道吸收而进入血液，进入血液后能与特定的病原菌黏附因子结合，
+
+使病原菌不能黏附易感细胞而失去致病性[36]。
+
+本试验中，与对照组相比，饲粮中添加卵黄抗体能显著降低回肠、盲肠中大肠杆菌的数量，显著增加回肠、盲肠中的乳酸杆菌数量。与抗生素组相比，添加卵黄抗体能显著增加回肠乳酸杆菌数量，并且各组中，卵黄抗体组回肠、盲肠中乳酸杆菌数量最多，更有利于肠道有益菌群的生长和繁殖。当抗生素与卵黄抗体联用时也表现出很好的使用效果。
+
+# 4结论
+
+饲粮中添加抗大肠杆菌多价卵黄抗体能显著改善断奶仔猪生长性能，提高平均日增重，降低料重比和腹泻率，增强仔猪免疫力，提高肠道健康水平，促进有益菌生长，与抗生素有相近的使用效果，是一种很有应用前景的抗生素替代品。
+
+参考文献：
+
+[1] MOREIRA I,DE OLIVEIRA G C,FURLAN A C,et al.Utilization of pre-gelatinized corn meal on nursery phase piglet feeding.Digestibility and performance[J].Revista Brasileira de Zootecnia,2001,30(2):440-448.   
+[2]于力.动物传染病学[M].北京:中国农业出版社,1998:56-132.   
+[3]ETIENNE J,GERBAUD G,COURVALIN P,et al.Plasmid-mediated resistance to fosfomycin in Staphylococcus epidermidis[J].FEMS Microbiology Letters,1989,61(1/2):133-137.   
+[4]WILLIAMSJ.Serumproteinsand thelivetinsofhen's-eggyolk[J].Biochemical Journal,1962,83(2):346-355.   
+[5] LOEKEN M R,ROTH TF.Analysis of maternal IgG subpopulations which are transported into the chicken 0ocyte[J].Immunology,1983,49(1):21-28.   
+[6] 宋维平,徐福洲,王金洛,等.抗猪流行性腹泻病毒卵黄抗体治疗效果研究[J].华北农学 报,2003,18(1):114-115.   
+[7] DEVI C M,BAI M V,LAL A V,et al.An improved method for isolation of anti-viper venom antibodiesfromchickeneggyolk[J].JournalofBiochemicalandBiophysical Methods,2002,51(2):129-138.   
+[8] POLSON A,VON WECHMAR M B,VAN REGENMORTEL MH V.Isolation of viral IgY antibodies from yolks of immunized hens[J].Immunological Communications,1980,9(5):475-493.   
+[9] 张小莺,郑礼,SCHADER,等.免疫鸡产生IgY 抗体的技术[J].中国药理学通 报,2004,20(10):1102-1106.   
+[10]吴义龙,费荣梅.鸡卵黄抗体IgY研究进展[J].畜牧与兽医,2013,45(3):94-98.   
+[11] 张辉,崔焕忠,杨欢,等.卵黄抗体及其在疾病防制与饲料中的应用研究进展[J].中国畜牧兽 医,2014,41(5):124-127.   
+[12] 朱锦兰,李焕友,冯定远,等.卵黄抗体添加剂与金霉素对肉鸭生长性能的影响比较研究[J]. 中国畜牧杂志,2005,41(6):36-37,50.   
+[13] 韩水仲,田泽华,赵津子,等.卵黄抗体在饲料添加剂中的应用[J].中国饲料,2010(15):3-7.   
+[14] 王吉潭,李德发,龚利敏,等.高免全蛋粉对早期断奶仔猪生产性能、肠道组织形态的研究 [J].饲料研究,2004(5):1-6.   
+[15]MAHDAVI A H,RAHMANI H R,NILI N,et al.Efects of dietary egg yolk antibody powder
+
+on growth performance,intestinal Escherichia coli colonization,and immunocompetence ofchallenged broiler chicks[J].Poultry Science,2010,89(3):484-494.  
+[16] YOKOYAMA H,PERALTA R C,DIAZ R,et al.Passive protective effect of chicken egg yolkimmunoglobulins against experimental enterotoxigenic Escherichia coli infection in neonatalpiglets.[J].Infection and Immunity,1992,60(3):998-1007.  
+[17] 李冬虹,黄文静,卢玉葵,等.同位素标记检测卵黄抗体对大肠杆菌的黏附抑制作用[J].畜牧与兽医,2011,43(2):111-112.  
+[18] JIN L Z,BAIDOO S K,MARQUARDT R R,et al.In vitro inhibition of adhesion ofenterotoxigenic Escherichia coli K88 to piglet intestinal mucusby egg-yolkantibodies[J].FEMS Immunology & Medical Microbiology,1998,21(4):313-321.  
+[19] 崔焕忠,张辉,杨欢,等.卵黄抗体及其在动物疾病诊断与防治中应用的研究进展[J].黑龙江畜牧兽医:科技版,2014(15):60-62.  
+[20] 马鑫,马秋刚,计成,等.蛋氨酸羟基类似物和有机酸化剂对主要肠道病原菌体外抑菌效果的比较[J].动物营养学报,2008,20(2):238-241.  
+[21] 许国栋.日粮中添加卵黄抗体对断奶仔猪生长性能、腹泻及粪样菌群的影响[D].硕士学位论文.武汉:华中农业大学,2009.  
+[22] 高云英,赵发苗,张金良,等.鸡抗猪大肠杆菌高免卵黄抗体的研制与应用[J].畜牧兽医杂志,2003,22(1):6-8.  
+[23] OWUSU-ASIEDU A,NYACHOTI C M,BAIDOO S K,et al.Response of early-weaned pigsto an enterotoxigenic Escherichia coli (K88) challenge when fed diets containing spray-driedporcine plasma or pea protein isolate plus egg yolk antibody[J].Journal of AnimalScience,2003,81(7):1781-1789.  
+[24] 姜锦鹏.脂肪组织细胞膜蛋白卵黄抗体对猪脂肪沉积的调控及相关机理研究[D].博士学位论文.南京:南京农业大学,2006.  
+[25] 余冰,林晓钦,罗文丽,等.含胆囊收缩素抗体卵黄粉对断奶仔猪生产性能及养分消化率的影响[J].中国饲料,2009(1):19-21,25.  
+[26] 肖驰,周淑兰,涂志,等.鸡抗猪大肠埃希氏菌卵黄抗体的研制与应用[J].中国兽医科技,1998,28(4):21-23.  
+[27] 高岭,刘聚祥,杨娜娜.鸡卵黄抗体及其在养猪业中的应用研究进展[J].动物医学进展,2013,34(5):110-114.  
+[28] 陈鲁勇.鸡卵黄抗体对仔猪生长性能的影响[J].养猪,2010(6):13-14.  
+[29]吴春燕,陈代文,张克英.早期断奶仔猪肠黏膜免疫与氨基酸关系的研究[J].畜禽业,2002(1):26-28.  
+[30] 冷静,戴志明,杨国明.日粮中添加抗生素对断奶仔猪血清溶菌酶活性的影响[J].中国饲料,2004(2):19-20.  
+[31] HAMPSON D J.Alterations in piglet smallintestinal structure at weaning[J].Research inVeterinary Science,1986,40(1):32-40.  
+[32] 任曼,霍应峰,杨凤娟,等.仔猪断奶前后肠道形态和相关免疫蛋白基因表达的变化[J].动物营养学报,2014,26(3):614-619.  
+[33] 顾宪红.断奶仔猪小肠结构和功能的变化及其影响因素[J].中国饲料,1999(1):27-29.  
+[34] 朱伟云,姚文,毛胜勇.变性梯度凝胶电泳法研究断奶仔猪粪样细菌区系变化[J].微生物学报,2003,43(4):503-508.  
+[35] 胥桂华,苗玉和,张勇飞,等.大肠杆菌病纯化冻干卵黄抗体对大肠杆菌感染新生仔猪的治疗试验及药理机制研究[J].中国动物保健,2010(7):16-20.
+
+[36]孙钦伟.肠产毒素大肠杆菌高免蛋黄粉抗体的吸收及若干因子对其活性影响的初步研究[D]硕士学位论文.南京:南京农业大学,2003
+
+Effects of Dietary Supplementation of Immunoglobulin of Yolk on Growth Performance, Serum Biochemical Parameters, Intestinal Morphology and Microbial Flora of Weaned Piglets ZHANG Wenfei1.2LIU Pingping1.2GUAN Wutai1,2\*CHEN Fang1DENG Yuelin1   
+(1. College of Animal Science, South China Agricultural University, Guangzhou 510642, China; 2. Uncoil Feeding Oil &Fat Research Centre, College ofAnimal Science, South China Agricultural University, Guangzhou 510642, China)
+
+Abstract: This experiment was conducted to investigate the effects of dietary supplementation of immunoglobulin of yolk (IgY) on growth performance,serum biochemical parameters, intestinal morphology and microbial flora of weaned piglets. One hundred and sixty（ $2 5 { \pm } 1$ ）-day-old “Duroc×LandracexLarge Yorkshire” weaned piglets were assigned to 4 groups with 4 replicates per group and 1O pigs per replicate. Weaned piglets in the 4 groups were fed 4 diets as follows: basis diet (control group), basis diet $+ 0 . 4 ~ \mathrm { k g / t }$ colistin (antibiotic group), basis diet+1.O kg/t IgY (IgY group) and basis diet $\mathsf { \Omega } _ { \mathsf { \Gamma } } + 0 . 2 \mathrm { \ k g / t }$ colistin $+ 0 . 5 ~ \mathrm { k g / t }$ IgY(combine group),respectively. The experiment lasted for 28 days. The results showed as follows: 1) compared with the control group, the average daily gain of weaned piglets in $\mathrm { I g Y }$ group was significantly improved $( P { < } 0 . 0 5 )$ ，the ratio of feed to gain and diarrhea rate of weaned piglets were significantly decreased $( P { < } 0 . 0 5 )$ ,and there was no significant effects on average daily feed intake of weaned piglets $( P { > } 0 . 0 5 )$ ： Compared with the antibiotic group, $\mathrm { I g Y }$ group had no significant effect on growth performance of weaned piglets $( P { > } 0 . 0 5 )$ , and both showed similar results. 2) Compared with the control group, the contents of total protein and albumin in serum of weaned piglets in $\mathrm { I g Y }$ group were significantly improved $( P { < } 0 . 0 5 )$ . 3) Compared with the control group, the villus height and ratio of villus height to crypt depth（VH/CD）in ileum of weaned piglets in $\mathrm { I g Y }$ group were significantly improved $( P { < } 0 . 0 5 )$ , and there were no significant effects on villus height, crypt depth and VH/CD in duodenum and jejunum of weaned piglets $( P { > } 0 . 0 5 )$ . 4) Compared with the control group，the numbers of E.coli in ileum and cecum of weaned piglets in $\mathrm { I g Y }$ group were significantly decreased $( P { < } 0 . 0 5 )$ ,and the numbers of Lactobacilli in ileum and cecum of weaned piglets in $\mathrm { I g Y }$ group were significantly increased $( P { < } 0 . 0 5 )$ . In conclusion, dietary supplementation of $\mathrm { I g Y }$ can improve the growth performance of weaned piglets,enhance the immunity, improve gut health levels,and promote the growth of beneficial bacteria.It has the same effect of the use of antibiotics and is the most promising alternatives to antibiotics.
+
+Key words: immunoglobulin of yolk；weaned piglets；antibiotic； growth performance； serumbiochemical parameters; intestinal morphology; intestinal microbial

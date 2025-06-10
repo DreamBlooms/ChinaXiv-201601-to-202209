@@ -1,0 +1,573 @@
+[
+    {
+        "type": "text",
+        "text": "气候变暖背景下青海省春季干旱时空变化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘义花'，王振宇²，刘彩红'，朱宝文³（1．青海省气候中心,青海 西宁810001；2．青海省气象信息中心,青海 西宁810001;3．青海省气象干部培训学院,青海 西宁810001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于1961—2018年35个气象台站观测资料,分析了青海省农牧区无雨日数、干旱次数时空演变特征，结果表明： $\\textcircled{1}$ 1961—2018年青海省春季平均气温呈升高趋势、降水呈增多趋势,无雨日数空间差异明显,其中,东部农业区、牧业区无雨日数总体无明显变化趋势。 $\\textcircled{2}$ 近 $5 7 \\mathrm { ~ a ~ }$ ,东部农业区轻旱、中旱、特旱发生次数均无明显趋势性变化,仅重旱略有增加,进入21世纪以来,东部农业区轻旱、重旱发生次数呈增加趋势,农业区各等级干旱次数呈南多北少的空间分布。 $\\textcircled{3}$ 近 $5 7 \\mathrm { ~ a ~ }$ ,青海省主要牧业区出现干旱总次数及不同等级干旱次数均呈减少趋势。其中，轻旱减少最为明显，而牧业区各等级干旱次数呈北多南少的分布。 $\\textcircled{4}$ 青海省春季出现灾损的旱灾次数呈减少趋势,减少率为2.4次·（10a）-1。其中,东部农业区出现灾损的旱灾次数最多。 $\\textcircled{5}$ 近57a青海省牧业区干旱发生次数在1981年前后存在明显的突变现象,而东部农业区无明显的突变现象。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：气候变暖；干旱；气象干旱综合指数MCI；时空变化；青海省",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "气象干旱指某一时段内由于蒸散量和降水量的收支不平衡，水分支出大于水分收入而造成地表水分短缺的现象。干旱是对青海省农牧业生产影响较大的灾害之一，据1984—2007 年青海省灾情数据统计，冰雹、干旱灾害年均造成农业作物受灾面积 $4 0 0 ~ \\mathrm { k m } ^ { 2 }$ 以上。因此，对主要气象灾害的成因、发生发展规律及减灾新技术、综合减灾措施的研究,对今后青海省农业、畜牧业发展具有积极的意义。国内外针对气象干旱方面的研究颇多，主要指标有降水距平百分率、气象干旱综合指数MCI、相对湿润指数、土壤相对湿度等。王绍武等[1]研究了中国气候灾害变化。胡实等[2]、马柱国等[3]研究了北方干旱时空变化。王素萍等[4-10]利用不同干旱指标研究相关区域的干旱特征。李红梅等[11]研究了气象干旱监测指标在青海的适用性。汪青春等[12-14]研究了青海及东部农业区的干旱变化。刘义花等[15研究了青海省春小麦的干旱灾害风险与区划。而本文通过青海省农牧区无雨日数、干旱次数的变化以及实际出现灾损的旱灾时空变化分析，旨在厘清近57a来青海省春季干旱的时空演变，从而为青海省春季干旱监测、预警以及旱灾的影响评估和区划提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区域、资料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区域",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据青海省各地的生态功能差异，划分了青南牧区、环青海湖地区、东部农业区、柴达木盆地，因柴达木盆地为常年干旱区，故本文主要研究了东部农业区和青海省主要牧业区春季无雨日数及干旱次数演变。其中，东部农业区包括西宁、平安、互助、化隆、乐都、民和、湟中、贵德、尖扎、循化、同仁、湟源、大通13个地区。牧业区包括治多、杂多、玉树、囊谦、曲麻莱、称多、玛多、达日、玛沁、甘德、久治、班玛、兴海、泽库、河南、同德、共和、海晏、刚察、天峻、祁连及门源22个地区。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2 资料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "选取青海省1961—2018年35个气象站逐日降水、气温、最高气温、最低气温、日照时数、相对湿度、最小相对湿度等气象观测资料，为了保证资料的完整性，对个别站点的数据进行了插补。因MCI指数计算需前期150d资料，因此青海省春季MCI指数计算结果数据时段为1962—2018年3—5月，此外因前期干旱灾害数据缺失，本文出现灾损的旱灾数据收集时段为1990—2018年3—5月。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文所用气象干旱综合指数（MCI)[16]考虑了$6 0 \\mathrm { ~ d ~ }$ 内的有效降水和 $3 0 \\mathrm { ~ d ~ }$ 内蒸散的影响以及季尺度(90d)降水与近半年尺度(150d)降水的综合影响，因此，该指数适用于青海作物生长季气象干旱的监测和评估。气象干旱综合指数公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M C I } = k a \\times ( a \\times \\mathrm { S P I W } _ { \\mathrm { 6 0 } } + b \\times \\mathrm { M I } _ { 3 0 } + c \\times \\mathrm { S P I } _ { \\mathrm { 9 0 } } +\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\times \\mathrm { S P I } _ { 1 5 0 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { M I } _ { 3 0 }$ 表示近 $3 0 \\mathrm { ~ d ~ }$ 相对湿润指数; $\\mathrm { S P I } _ { 9 0 }$ 表示近$9 0 \\mathrm { ~ d ~ }$ 标准化降水指数； $\\mathrm { \\mathrm { S P I } } _ { 1 5 0 }$ 表示近150d标准化降水指数； $\\mathrm { S P I W } _ { 6 0 }$ 表示近 $6 0 \\mathrm { ~ d ~ }$ 标准化权重降水指数。其中， $a$ 为 $\\mathrm { S P I W } _ { 6 0 }$ 项的权重系数，北方及西部地区取$0 . 3 { \\ : } ; b$ 为 $\\begin{array} { r } { \\mathbf { M } \\mathbf { I } _ { 3 0 } } \\end{array}$ 项的权重系数，北方及西部地区取$0 . 5 { : } c$ 为 $\\mathrm { \\ S P I _ { 9 0 } }$ 项的权重系数,北方及西部地区取$0 . 3 { \\ : } ; d$ 为 $\\mathrm { \\ S P I _ { 1 5 0 } }$ 项的权重系数,北方及西部地区取$0 . 2 { \\ : } ; k a$ 为季节调节系数，根据不同季节各地主要农作物发育阶段对土壤水分的敏感程度确定，青海省春季 $k a$ 取值为1.0。气象干旱综合指数等级划分，其中无旱为 $\\mathrm { M C I } > - 0 . 5$ ，轻旱为 $- 1 . 0 < \\mathrm { M C I } \\leqslant$ -0.5,中旱为 $- 1 . 5 < \\mathrm { M C I } \\leqslant - 1 . 0$ ，重旱为 $- 2 . 0 <$ $\\mathrm { M C I } \\leqslant - 1 . 5$ ,特旱 $\\mathrm { M C I } \\leqslant - 2 . 0$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 气候背景 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1气温 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1961—2018年，青海省春季平均气温为 $3 . 2 ~ \\mathrm { ^ { \\circ } C }$ （图1a），总体呈升高趋势，升温率为 $0 . 3 \\mathrm { ~ \\textdegree C }$ ：（10a）-1。自1998年后升温尤为明显，1998—2018年平均气温较1961—1997年偏高 $1 . 1 ~ \\mathrm { { ^ { c } } }$ 。从平均气温变率空间分布来看（图1b），省内各地均以增温为主,增温幅度在 $0 . \\ 1 \\sim 1 . 4 ^ { \\mathrm { ~ \\circ ~ } } \\mathrm { ~ C ~ } \\cdot \\left( 1 0 \\mathrm { { a } } \\right) ^ { \\mathrm { ~ - ~ } 1 }$ ,其中同德、大通、互助是我省增温幅度最为明显的地区。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2降水呈增多趋势 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1961—2018年，青海省春季平均降水量为67.7$\\mathbf { m } \\mathbf { m }$ （图2a），总体呈增多趋势，增幅为 $2 . 8 \\ \\mathrm { { m m } }$ ：（10a）-」，其中2002 年以来增多尤为明显，2002—",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6.0 平均气温 90°E 93°E 96°E 99E 102°E(a) 1981—2010气温平均值 (b) N  \n5.0 线性平均气温 N88 令湖 A茫崖 大柴旦德令哈市天峻  \n4.0 AM 女 察 源兰N98 格尔木市 3 都兰 共和 乐都兴海 缩化治多 曲麻莱 泽  \n2.0 N 5 玛多 玛格尔木代管 称多达 魚  \n1.0 杂多 玉树NZ8 气温变率/[℃·(10a) 囊谦-0.1\\~0.2 10.3\\~0.5 0 3.25 6.5km年份 0.2\\~0.3 0.5\\~0.8",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9933d557e2c61a145ea24c6312b9b3f5cfa793e4c5ed26c83aecd7ebbbd15e80.jpg",
+        "img_caption": [
+            "图11961—2018年青海省春季平均气温年际变化及气温变率空间分布",
+            "Fig1.Inter-annual variation of spring temperatureand its distribution in Qinghai Province in1961-2018 ",
+            "图21961—2018年青海省春季降水年际变化及降水变率空间分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Inter-annual variation of spring precipitationand its distribution in Qinghai Province in 1961-2018 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2018 年平均降水量较1961—2001年偏多 $1 6 . 8 \\%$ 0从降水变率空间分布来看（图2b），民和、互助、刚察、大柴旦、冷湖降水呈减少趋势，减少幅度在$0 . 1 \\sim 0 . 5 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,其中民和为降水减少幅度最大的站点;青海省其他地区降水均呈增多趋势，增多幅度在 $0 . 1 \\sim 8 . 8 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ，青南牧区南部为青海省降水增多幅度最明显的地区，其中班玛为降水增多幅度最大的站点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 无雨日数时间变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1961—2018年青海省春季平均无雨日数为67d（图3a），其中3、4、5月平均无雨日数分别为 $2 5 \\mathrm { ~ d ~ }$ 、",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 3 \\mathrm { ~ d ~ } , 1 9 \\mathrm { ~ d ~ }$ （图3b），近58a来青海省春季平均无雨日数总体无明显趋势性变化，但存在阶段性变化，上世纪80一90年代无雨日数减少，2000 年以来，无雨日数略呈增加趋势。从空间变率分布来看（图3c），东部农业区及刚察、门源、河南等地无雨日数增加明显，而青南牧区及德令哈、都兰等地春季无雨日数呈减少趋势。总之，青海省无雨日数无明显变化趋势，但地域差异大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1961—2018年东部农业区无雨日数总体无明显趋势性变化（图4a）。20世纪60、70年代无雨日数分别为 $6 7 \\textup { d } . 6 9 \\textup { d } , 8 0 \\textup { } . 9 0$ 年代无雨日数均为 $6 7 \\mathrm { ~ d ~ }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d0230e00a05712288d84f3bf337267c1c67c222ac643ecdf67477f26808adcf.jpg",
+        "img_caption": [
+            "图31961—2018 年青海省春季无雨日数年际变化、各月无雨日数年际变化及春季无雨日数变率空间 Inter-annual variationofspring rainlessdays,each monthrainlessdaysanditsdistributionin QinghaiProvincein1961- ",
+            "图41961—2018年青海省春季农业区无雨日数年际变化及无雨日数空间分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "101°E 102°E 103E82 农业区无雨日数(a) 各年代平均 (b) N77 N 大通 A  \nP/日 72 AAMW 28 互助 567 湟源中 平安乐都  \n无 62 民和57 无雨日数d贵德 尖抢 化隆52 61\\~66 循化68\\~7272\\~76 同仁L年份 02040 80km 3",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Inter-annual variationof springrainless daysand itsdistribution ineasternagricultural region in1961-2018 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2000 年以来，无雨日数为70d,较1981—2010平均值偏多3d,无雨日数占春季日数的 $7 6 . 1 \\%$ 。从空间分布来看(图4b），贵德、循化多年平均无雨日数在 $7 2 \\sim 7 6 \\mathrm { ~ d ~ }$ ，尖扎、民和、乐都多年平均无雨日数在$6 8 \\sim 7 2 \\mathrm { ~ d ~ }$ ,其他地区在 $6 1 \\sim 6 8 \\mathrm { ~ d ~ }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1961一2018年青海省春季牧业区无雨日数总体无明显趋势性变化（图5a），但期内存在阶段性变化,20世纪60、70年代牧业区无雨日数均为 $6 2 \\mathrm { ~ d ~ }$ 80、90年代无雨日数均为 $5 9 \\mathrm { ~ d } , 2 0 0 0$ 年以来，无雨日数为61d,较1981—2010 年平均值减少1d,无雨日数占春季日数的 $6 6 . 3 \\%$ 。从空间分布来看（图5b)，刚察、共和、兴海、海晏、贵南等地多年平均无雨日数在 $6 6 \\sim 7 3 \\mathrm { ~ d ~ }$ ,祁连、五道梁、囊谦、杂多多年平均无雨日数在 $6 0 \\sim 6 6 \\mathrm { ~ d ~ }$ ,其他地区在 $4 5 \\sim 6 0 \\mathrm { ~ d ~ }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4945a850634867feb798afda45d5347a999c7c4b9043c876dbdce61029c8ea13.jpg",
+        "img_caption": [
+            "Fig.5Inter-annual variation of spring rainless daysand its distribution in pastoral region in 1961-2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fce7999d21652b94436f2e754fe141dae80a34e80656e9960d2c54d00c0e4b3.jpg",
+        "img_caption": [
+            "图51961—2018年青海省春季牧业区无雨日数年际变化及无雨日数空间分布",
+            "图61961—2018年青海省、农业区、牧业区无雨日数滑动 $\\mathbf { \\chi } _ { t }$ 检验值",
+            "Fig.6The sliding $t$ -test of spring rainless days in Qinghai plateau,eastern agricultural region and pastoral region from 1961 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1无雨日数异常分析对青海省、农业区及牧业区58a来春季无雨日数时间序列采取滑动的方法连续设置基准点，并确定基准点前后两个子序列的样本相同，即 $n _ { 1 } = n _ { 2 } = 1 5$ ，用滑动 $\\mathbf { \\chi } _ { t } ^ { }$ 检验计算1961—2018年青海省、农业区及牧业区春季无雨日数序列突变（图6），发现青海省、农业区近58a来春季无雨日数无明显的突变现象，牧业区春季无雨日数 $T$ 统计量最大值为3.6（1980年），最小值为-2.9（1998年），1979—1984年超过了置信度 $a =$ 0.01的显著性水平，表明青南牧区无雨日数在1980年前后存在明显突变现象。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3干旱次数时空分布特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据气象干旱综合监测指数的计算方法和等级划分标准，对青海省农牧区近57a来出现的干旱进行了统计分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1农业区干旱次数时空变化分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "21世纪以来农业区轻旱、重旱增加明显。从农业区干旱累计出现次数的时间变化来看（图7a），1962一2018年春季农业区干旱累计次数总体无明显变化趋势。20世纪60、70年代干旱出现次数分别为16、17次，80、90年代干旱出现次数分别为15、10次，自2000年以来，干旱平均出现次数为16次，较常年偏多3次。从农业区干旱分级来看（图7b），轻旱、中旱及特旱出现次数变化趋势不明显，重旱出现次数呈略增加趋势，增加率为0.14次·（10a）-，尤其是进入21世纪以来,农业区轻旱、重旱出现次数增多明显，增多率分别为4.9次·(10a) $^ { - 1 } \\cdot 1 . 1$ 次·（10a)-1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4035 （a）累计次数 2824 （b）等级 早 特早用直士 201612  \n10 8 8  \n5 4 8  \n0 08500年份 年份",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "农业区干旱发生次数南多北少。从农业区各等级干旱累计出现次数的空间分布来看，农业区各地轻旱累计出现次数在 $3 1 \\sim 7 2$ 次（图8a），其中同仁、尖扎、循化、贵德是出现轻旱次数较多的地区；中旱累计出现次数在 $1 3 \\sim 3 1$ 次（图8b），其中互助、同仁、湟中、乐都是中旱次数较多的地区；重旱累计出现次数在5\\~17次（图8c），其中循化、大通、乐都、西宁是重旱次数较多的地区;特旱累计出现次数在3\\~10次(图8d)，互助、化隆、尖扎、循化、贵德是特旱次数出现的最多区，尤其是进入21世纪以来，民和、尖扎、乐都、大通、循化是重旱及特旱发生次数较多的区域。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/042a11e61d7d65ca1f59ca06da3d2c4b4dc212c1c7a3c80ada13c93ad7a3efcb.jpg",
+        "img_caption": [
+            "图71962—2018年青海省春季农业区干旱出现次数年际变化及不同等级干旱出现次数变化",
+            "Fig.7 Inter-annual variation of spring drought days and diffrent scales of drought days in eastern agriculture region ",
+            "图81962—2018 年青海省农业区各级干旱累计出现次数空间分布 Fig.8The distribution of spring drought days in easteral agricultural region in 1962-2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2牧业区干旱次数时空变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "牧业区干旱发生次数总体减少。从牧业区干旱累计出现次数的时间变化来看（图9a），1962—2018年春季牧业区干旱出现次数呈减少趋势,减少率为1.7次·（10a）-'。其中 20 世纪60—70 年代干旱出现次数均为39次，80年代、90年代干旱出现次数均为28次，自2000 年以来，干旱平均出现次数为33次，较常年偏多3次。从牧业区干旱次数分级来看（图9b），不同等级的干旱次数均呈现减少趋势，减少幅度在 $0 . 1 \\sim 0 . 8$ 次·（10a）-之间，进入21世纪以来，干旱累计次数呈明显减少趋势，减少率为2.3 次·（10a）-1,其中轻旱、重旱、特旱减少率在$0 . 6 \\sim 0 . 9$ 次·（10a）-1。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/22bfd53c3a842aedb4bb122eda09d39fe857645c210a698c5eca84097995c8a4.jpg",
+        "img_caption": [
+            "图91962—2018年青海省春季牧业区干旱累计次数年际变化及不同等级干旱次数变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "牧业区干旱发生次数北多南少。从牧业区各等级干旱出现次数的空间分布来看，牧业区轻旱、中旱累计出现次数分别在 $1 5 \\sim 6 5$ 次和8\\~26次（图$1 0 \\mathrm { a } \\lrcorner 1 0 \\mathrm { b } \\rangle$ ,其中祁连、曲麻莱、野牛沟、天峻、门源、杂多、达日、河南是轻旱及中旱次数出现较多的地区；重旱累计次数在 $2 \\sim 1 6$ 次（图10c），囊谦、托勒、门源、大峻、玉树、玛多是重旱次数出现的最多区；特旱累计次数在1\\~8次(图10d），刚察、托勒、天峻、贵南、海晏是特旱出现的最多区。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b97b37f5cfdd88de7f1918d3e53a90622106792e76b4493e1c348040f37f6b8d.jpg",
+        "img_caption": [
+            "Fig.9Inter-annual variationofspringdroughtdaysand diferentscalesofdroughtdays inpastoralregionin1962-2018 ",
+            "图101962—2018 年青海省牧业区各级干旱累计发生次数空间分布Fig.10The distribution of spring drought days in pastoral region in 1962 -2018"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4春季旱灾影响变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1 时间变化特征",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过统计分析1990 年以来青海省春季出现灾损的旱灾[17]情况来看（图11）,近29a来出现旱灾次数总体呈减少趋势,减少率为2.4次· $\\left( \\ 1 0 \\mathrm { { a } } \\right) ^ { - 1 }$ 。20世纪90年代旱灾次数处于多发阶段，其中1995年4月玉树、河南、泽库、尖扎、同仁、海晏、贵德、化隆等19个县（市)发生了一次大范围旱灾，受灾人口约 $6 . 3 3 \\times 1 0 ^ { 5 }$ ,受灾面积约 $2 . 7 4 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 。但旱灾自2004 年开始减少，其中2013—2018 年出现灾损的旱灾次数仅1次。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "20 1912 295 6 5□ 2 3 1 21100 0 0 0 T 1 1 000000 血 1 1 山 山 山 山 上 血066I 7661 5661 36 8 000 2000 4000 9007 8 10 2307 4 16 800718 19 20 20 20 20 20年份",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2 空间分布特征",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "统计1990年以来青海省出现灾损的旱灾次数得出（图12），青海省各地旱灾次数在 $1 \\sim 1 0$ 次，其中贵德、互助、民和、共和、尖扎是我省旱灾出现次数的最多区，发生次数在4\\~10次，乐都、湟中、循化、",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "NO 90°E 93E 96°E 99°E 102°EN  \nN.88 冷湖 A茫崖 大柴旦德令哈市 天峻察常年十 旱区 海发直联  \nN.98 格尔木市 共和 乐都都兰兴海 南循化  \nN 治多 曲麻莱 2 玛多格尔木代管 称 德M 杂多 玉树 达日 信  \nNZ8 旱灾次数 囊谦1.0\\~2.1 3.0\\~5.312.1\\~3.0 5.3\\~10.0 一 J0 3.25 6.5km",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同仁、玉树、海晏、同德、兴海发生次数在2\\~3次，是我省旱灾的次多区；西宁、湟源、门源、玛沁、河南、泽库、刚察、化隆、大通、平安等地是我省旱灾的最少区，发生次数在0\\~1次。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5干旱异常分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对青海省57a来干旱时间序列采取滑动的方法连续设置基准点，并确定基准点前后两个子序列的样本相同，即 $n 1 = n 2 = 1 5$ ,用滑动t-检验计算1962—2018年青海省干旱序列突变。从图12可以看出，青海省东部农业区 $T$ 统计量最大值为2.4（1989年），最小值为-1.9（2002年），青海省牧业区 $T$ 统计量最大值为3.0（1981年），最小值为-1.4（1997年），其中牧业区1979—984年干旱次数超过了置信度 $a = 0 . 0 1$ 的显著性水平，表明近57a来青海省牧业区干旱次数在1981年前后存在明显的突变现象，而东部农业区无明显的突变现象。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f40fd9a04269dcfa3adc5cd733eab3049c20db71c3419a66928bf898ce1e5ed.jpg",
+        "img_caption": [
+            "图111990—2018 年青海省旱灾次数年际变化 Fig.11The variation of spring drought disasters times in Qinghai Province in 199O -2018 ",
+            "图12 1990—2018 年青海省旱灾发生次数空间分布 Fig.12 The distribution of spring drought disasters times in Qinghai Province in 199O-2018 ",
+            "图131962—2018年青海省农牧区干旱次数滑动 $\\mathbf { \\Psi } _ { t }$ 检验值 Fig.13The sliding t-test of drought days in farm and pastoral areas of Qinghai Province in 1962-2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6影响春季干旱的要素分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于气象要素之间存在着密切的相关性，因此分别计算了春季相关气象要素与干旱次数的相关系数及偏相关系数。从表1可以看出，影响春季干旱的主要气象要素是春季平均降水量，春旱次数与春季平均降水量成负相关关系，相关系数及偏相关系数均经过 $\\mathbf { \\chi } _ { t }$ 检验法检验，表明春季降水量偏多，春旱次数较少，反之亦然。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在1961—2018年青海省春季气温升温趋势明",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表1农业区(西宁)及牧业区(玉树)代表站气象要素与春旱次数的关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/58a481b32131ce926f937633a21ec634a7f94d6900220b7cd637160feca8129a.jpg",
+        "table_caption": [
+            "Tab.1The relation between meteorological elements and spring drought days "
+        ],
+        "table_footnote": [
+            "注：\\*\\*\\*表示0.001信度， $* *$ 表示0.01信度， $*$ 表示0.05信度。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">气象要素</td><td colspan=\"2\">农业区</td><td colspan=\"2\">牧业区</td></tr><tr><td>相关系数</td><td>偏相关 系数</td><td>相关系数</td><td>偏相关 系数</td></tr><tr><td>春季平均气温</td><td>-0.042</td><td>0.175</td><td>0.213</td><td>0.202</td></tr><tr><td>春季平均降水量</td><td></td><td>-0.549 ***-0.407 **</td><td></td><td>-0.469 *** -0.495***</td></tr><tr><td>春季平均日照时数</td><td>0.328 *</td><td>0.072</td><td>-0.164</td><td>-0.137</td></tr><tr><td>上年秋季平均降水量</td><td>-0.177</td><td>-0.217</td><td>0.131</td><td>0.033</td></tr><tr><td>春季平均风速</td><td>0.290 *</td><td>0.072</td><td>0.277 *</td><td>0.130</td></tr><tr><td>春季平均地表温度</td><td>-0.026</td><td>-0.216</td><td>0.032</td><td>-0.262</td></tr><tr><td>春季平均相对湿度</td><td>-0.352 *</td><td>-0.033</td><td>-0.299 *</td><td>-0.069</td></tr><tr><td>春季平均气压</td><td>0.197</td><td>-0.062</td><td>-0.239</td><td>-0.223</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "显 $[ 0 . 3 \\mathrm { ~ \\textdegree ~ { ~ } ~ } \\cdot \\mathrm { ~ ( ~ 1 0 a ~ ) ~ } ^ { \\mathrm { ~ - ~ 1 ~ } } ]$ 的大背景下，本文分析了青海省春季农牧区无雨日数、干旱次数时空变化，并采用t-检验法对农牧区干旱次数做了突变分析，主要结论如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）近57a来，青海省春季平均无雨日数总体无明显趋势性变化，但存在阶段性变化，20世纪80一90年代无雨日数减少，2000年以来，无雨日数略呈增加趋势，其中农业区无雨日数呈增多趋势，而牧业区无雨日数呈减少趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）1962—2018年春季农业区干旱累计次数总体无明显变化趋势，但21世纪以来农业区轻旱、重旱增加明显，且农业区干旱发生次数呈南多北少的分布趋势;牧业区干旱及不同等级干旱出现次数均呈减少趋势，且牧业区干旱发生次数呈北多南少的分布趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）1990年以来，青海省春季出现灾损的旱灾次数总体呈减少趋势，在旱灾的空间分布来看，东部农业区是旱灾的多发区。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）近57a来，青海省牧业区干旱次数在1981年前后存在明显的突变现象，而东部农业区无明显的突变现象。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（5）春季平均降水量、春季平均相对湿度均与干旱次数呈显著的负相关关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］王绍武,龚道溢,陈振华.近百年来中国的严重气候灾害[J]. 应用气象学报,1999,10（增刊）：46-52.［Wang Shaowu,Gong Daoyi,Chen Zhenhua.Serious climatic disasters of China during the past 1OO years[J].Quarterly Journal of Applied Meteorology， ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1999,10(Suppl.）:46 -52.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]胡实,莫兴国,林忠辉.未来气候情景下我国北方地区干旱时空变化趋势[J].干旱区地理,2015,38（2）：239-248.［HuShi,Mo Xingguo,Lin Zhonghui.Projections of spatial-temporal var-iationof droughtin North China[J].AridLand Geography,2015,38(2):239 -248.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3］马柱国,符淙斌.1951—2004 年中国北方干旱化的基本事实[J].科学通报，2006,51（20）:2429-2439.[MaZhuguo,FuCongbin.The basic facts of drying in north China during 1951—2004［J].Chinese Science Bulletin，2006,51（20）：2429-2439.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4］王素萍,王劲松,张强,等.几种干旱指标对西南和华南区域月 尺度干旱监测的适用性评价[J].高原气象，2015，34（6)：1616 -1624.[Wang Suping,Wang Jinsong,Zhang Qiang,et al.Applicability evaluationof drought indices inmonthly scale drought monitoring in Southwestern and Southern China[J],Plateau Meteorology,2015,34(6) :1616-1624.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5]成青燕,高晓清,林纾,等.基于MCI指标的甘肃省近50 年干 旱特征分析[J].干旱地区农业研究，2017，35（1)：211-218. [Cheng Qingyan,Gao Xiaoqing,Lin Shu,etal.Drought characteristics analysis of Gansu inrecent 5O yearsbased on meteorological drought composite index[J].Agricultural Research in the Arid Areas,2017,35(1):211-218.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6］冯冬蕾,程志刚,吴琼,等.基于MCI指数的东北地区1961— 2014 年气象干旱特征分析[J].干旱区资源与环境,2017,31 (10）:118-124.［Feng Donglei,Chen Zhigang,Wu Qiong,et al. Meteorological drought characteristics in Northeast China from 1961 to 2O14 based on the comprehensive monitoring index analysis[J].Journal of Arid Land Resources and Environment,2O17,31 (10):118-124.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[7］廖要明,张存杰.基于MCI的中国干旱时空分布及灾情变化特 征[J].气象,2017,43（11）:1402-1409.[Liao Yaoming,Zhang Cunjie.Spatio-temporal distribution characteristics and disaster change of drought in China based on meteorological drought composite index[J].Meteorological Monthly,2017,43（11）:1402- 1409.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8］杨玮,谢五三,王胜,等.气象干旱综合监测指数在安徽省的适 用性分析[J].气象科技,2018,46（5）:988-998.[YangWei, Xie Wusan,Wang Sheng,et al.Comparison of comprehensive meteorological drought index with other drought indices and its applicabilityin Anhui province[J].Meteorological Science and Technolo gy,2018,46(5) :988 -998.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[9］吴琼,赵春雨,王大钧,等.1951—2014 年辽宁省气象干旱时空特征分析[J].干旱区资源与环境，2016，30（3）：151-157.[Wu Qiong,Zhao Chunyu,Wang Dajun,et,al.Spatial and temporal characteristics of meteorological drought in Liaoning Provincefrom1951 to 2O14[J].Journal of Arid Land Resources and Envi-ronment,2016,30(3):151-157.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[10」穆佳，邱美娟，谷雨,等.5种干旱指数在吉林省农业干旱评估中的适用性[J].应用生态学报，2018，29（8）：2624－2632.［Mu",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Jia,Qiu Meijuan,Gu Yu,etal.Applicability of five drought indices for agricultural drought evaluation in Jilin Province,China[J].Chinese Journal of Applied Ecology,2018,29(8):2624-2632.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11］李红梅,李林,李万志，等.气象干旱监测指标在青海高原的适用性分析[J].干旱区研究,2018,35（1）：114-121.[LiHong-mei,LiLin,LiWanzhi,etal.Applicability of meteorological droughtindices in drought monitoring in the Qinghai plateau[J].Arid ZoneResearch,2018,35(1):114-121.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12］汪青春,李凤霞,刘宝康,等.近50a来青海干旱变化及其对气 候变暖的响应[J].干旱区研究,2015,32（1)：65-72.［Wang Qingchun,Li Fengxia,Liu Baokang,etal.Variation in drought and its response to climate warming in Qinghai plateau in recent 50 years[J].Arid Zone Research,2015,32（1） :65-72.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[13］唐敏，张勃，张耀宗，等.基于SPEI和 SPI指数的青海省东部农 业区春夏气象干旱特征的评估［J].自然资源学报，2017，32 (6）:1029-1O42.[Tang Min,Zhang Bo,Zhang Yaozong,et al. Assessment of spring and summer meteorological droughts based on SPEI and SPI in eastern agricultural region of Qinghai Province [J].Journal of Natural Resources,2017,32(6）:1029-1042.] [14］张调风,李林,刘宝康,等.基于 SPEI指数的近52 年青海省农 （牧)作物生长季干旱动态格局分析[J].生态学杂志，2014,33 (8）:2221-2227.［Zhang Tiaofeng,Li Lin,Liu Baokang,et al. Dynamic pattern of drought in crop（grass）growth season over Qinghai Province during last 52 years,based on standardized precipitation evapotranspiration index[J].Chinese Journal of Ecology,2014,33(8):2221-2227.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15］刘义花,李林,苏建军,等.青海省春小麦干旱灾害风险评估与 区划[J」.冰川冻土，2012，34(6)：1416-1423.[LiuYihua，Li Lin,Su Jianjun,et al.Risk division of pasture drought in Qinghai Province based on loss assessment[J]. Journal of Glaciology and Geocryology,2012,34(6）:1416-1423.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16］中国气象局.GB/T20481-2006气象干旱等级［S].北京：中国标准出版社，20O6.［China MeteorologicalBureau.GB/T2O481-2006Meteorological Drought Level［S].Beijing:China StandardPress,2006.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17］王莘.中国气象灾害大典(青海卷)[M].北京：气象出版社， 2007:56-78.[Wang Xin.China Meteorological Disasters(Qing hai)[M].Beijing:China Meteorology Press,2OO7:56-78.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Research on the variation characteristics of spring drought in the Qinghai Province under the background of climate warming ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LIU Yi-hua’，WANG Zhen-yu²，LIU Cai-hong1， ZHU Bao-wen³ (1. Climate Center of Qinghai,Xining 810001,Qinghai China; 2.Qinghai Meteorological Information Center,Xining 81ooo1,Qinghai China; 3.Qinghai Meteorological Administration training center,Xining 81ooo1,Qinghai,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Based onthe data obtained from 35 meteorological stations and the drought disaster events that occurred from 1961 to 2O18,this study analyzed the spring rainless and drought days in the Qinghai Province.The results showed that:(1）there was a significant increasing trend with respect to the temperature and precipitation, however,there was no obvious trend for the rainless days in the eastern agricultural region and the pastoral region. (2）There were no obvious trends for the light,middleand severe-drought times during the previous 57 years,however,a slightly increasing trend wasobserved forthe severe-drought times.In particular,the lightand severe-drought times have demonstrated an obviously increasing trend in theeasternagricultural region since the 2OOOs,and the spatial distributionof the diferent scales of drought has decreased from south to north.（3）A decreasing trend can beobserved with respect to the drought times and diferentscales inthe pastoral region,inparticular,there was an obvious decrease in the light-drought timesand the spatial distributionof the diffrent scalesofdrought times decreased from north to south.（4）The drought disasters exhibited a continually decreasing trend of 2.4occurrences per decade,and the highest trend was observed in the easternagricultural region.（5）There was a remarkable abrupt change in the drought times in1981 in the pastoral region of the Qinghai Province,however,no obvious change was observed in the eastern agricultural region. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:climate warming；drought；Meteorological drought composite index（MCI）；spatial and temporal variation；Qinghai Province ",
+        "page_idx": 8
+    }
+]

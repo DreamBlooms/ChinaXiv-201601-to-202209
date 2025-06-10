@@ -1,0 +1,205 @@
+# 考虑电动汽车的配电网无功优化
+
+赵彦锦　孟庆海陈　鹏 王进已(1.北方工业大学电气与控制工程学院北京1000412.北京电动车辆协同创新中心 北京100041)
+
+![](images/86f3d98615b6538a07c3ad7ffd2751ddf81c756ac002a174f8b984c68b3d26d3.jpg)
+
+赵彦锦男 1990年生，硕士研究生，研究方向为配电网运行优化。
+
+摘要：大规模电动汽车充电接入电网后，由于其充电时空的不确定性给配电网无功优化带来了新的挑战。本文研究了包含电动汽车的配电网无功优化模型，将配电网每个节点的充电功率、机端电压、调压器分接头档位及无功补偿装置的补偿容量作为控制变量，以最小化配电网的网络损耗为目标函数。首先，模拟仿真了电动汽车无序充电负荷；其次，建立了最小化配电网网络损耗的无功优化的数学模型；最后，基于配电网33节点模型，采用Matlab 验证了优化模型的有效性。结果表明，该优化模型可以有效地降低配电网网损、改善电压质量。
+
+关键词：电动汽车配电网无功优化蒙特卡洛 中图分类号：U469.72；TM72
+
+# Reactive Power Optimization for Distribution Network with the Electric Vehicle
+
+![](images/007e32025620fd930483870c4b183700291fc9e6c2eed483ad2645d2bb983ffe.jpg)
+
+孟庆海男 1971年生，研究员，博士，研究方向为电气安全，电力系统可靠性。
+
+Zhao Yanjin Meng Qinghai Chen PengWang Jinji (1.North China University of TechnologyBeijing100041 China 2.Collaborative Innovation Center of Electric Vehicles in BeijingBeijing100041 China)
+
+Abstract: After large-scale electric vehicle charging connected to the grid, due to the uncertainty of the charging time and space, new challenges to the reactive power optimization in the distribution network. Reactive power optimization model of distribution network including electric vehicle is studied in this paper, the power of chargingof each node,the terminal voltage,the position of the tap position and the compensation capacity of the reactive power compensation device are used as the control variables,the objective function is to minimize the network loss of distribution network. First, simulation of electric vehicle free charging load; Secondly, the paper established a mathematical model to minimize the loss of distribution network;Finally,based on the 33 node model of distribution network,using Matlab verifyoptimization model effectiveness. The results show that the optimization model can effectively reduce distribution network losses and improve voltage quality.
+
+Keywords: Electric vehicle, distribution network, reactive power optimization, Monte Carlo
+
+# 1 引言
+
+电动汽车作为我国新能源汽车战略的重要组成部分，在这几年中获得了较快的发展，政府对于新能源车购置提供丰厚的补贴及优惠政策，特别是一些一线城市更是通过放宽车牌号的申请来鼓励新能源汽车的发展，这极大地促进了我国新能源汽车的发展。据相关统计，2015年全年，我国纯电动汽车销售额高达24.75万辆，同比增长4.5倍。同时，大规模电动汽车接入电网会直接影响到配电网的潮流分布和节点电压水平，这对配电网无功优化结果会产生一定的影响[1]。
+
+文献[2-3]计及变压器分接头调整次数、无功补偿电容器开关动作次数等设备的运行成本，与配电网网损相结合，建立了配电网综合运行成本最小的无功优化模型。文献[4]研究了含有风电的配电网无功优化模型和算法，考虑了风力发电的随机性，分析了不同场景模式下风电参与无功调节的效果。文献[5]建立了一种含分布式电源的配电网动态无功优化模型，首先，电容器组根据预动作表动作，然后，对配电网中的DG无功出力进行优化，最后得出最优调度方案。文献[6]建立了含电动汽车充电站和风电的配电网多目标无功优化模型，选取了3个比较典型的时间段对模型进行了验证。
+
+本文采用蒙特卡洛模拟法对电动汽车自由充电负荷进行了仿真，论文建立了包含充电负荷的最小化配电网网损的无功优化模型。以IEEE33节点配电网结构为例，选取电动车自由充电负荷最大时段对配电网进行了无功优化，结果表明该模型可以有效地降低配电网网络损耗。
+
+# 2 电动汽车充电功率需求仿真
+
+论文以北汽E150电动汽车性能参数为例对所有电动汽车参数作了仿真参数假设。参数见表1。
+
+表1电动汽车仿真参数Tab.1Simulation parameters of electric vehicle  
+
+<html><body><table><tr><td>电池容量C/kW·h</td><td>充电功率P/kW</td><td>最大行驶里程dm/km</td></tr><tr><td>22.8</td><td>4</td><td>130</td></tr></table></body></html>
+
+# 2.1开始充电时刻和日行驶里程
+
+私家电动汽车主要用途是上下班、购物及其他日常活动，主要特点是一般在下班后返回家中，日行驶里程较短。根据美国交通部对全美家用车辆统计数据进行拟合可知，开始充电时刻 $T _ { \mathrm { c } }$ (h）和日行驶里程 $d$ ( $\mathrm { ^ { 1 } k m } ^ { \mathrm { ^ { \prime } k m } } .$ ）的概率密度函数分别满足正态分布和对数正太分布[8-10]。概率密度函数为
+
+$$
+f _ { \mathrm { T c } } = \frac { 1 } { \sigma _ { \mathrm { T c } } \sqrt { 2 \pi } } \exp \left[ - \frac { \left( T _ { \mathrm { c } } - \mu _ { \mathrm { T c } } \right) ^ { 2 } } { 2 \sigma _ { \mathrm { T c } } ^ { 2 } } \right]
+$$
+
+式中， $\mu _ { \mathrm { { T c } } } = 1 8 , \sigma _ { \mathrm { { T c } } } = 1 . 5$ 。
+
+$$
+f _ { \mathrm { d } } = \frac { 1 } { d \sigma _ { \mathrm { d } } \sqrt { 2 \pi } } \exp \left[ - \frac { \left( \ln d - \mu _ { \mathrm { d } } \right) ^ { 2 } } { 2 \sigma _ { \mathrm { d } } ^ { 2 } } \right]
+$$
+
+式中， $\mu _ { \mathrm { d } } = 3 . 2 1$ ; $\sigma _ { \mathrm { d } } = 0 . 2 7 4$ 。
+
+# 2.2电动汽车充电功率
+
+采用蒙特卡洛法抽取开始充电时刻（假设返回家时刻即为开始充电时刻)，采用式(3）可以计算出起始电池荷电状态
+
+$$
+\mathrm { S O C } = 1 - { \frac { d } { d _ { \mathrm { m } } } }
+$$
+
+根据初始电池荷电状态可以计算出充电所需时间为
+
+$$
+t = { \frac { ( 1 - { \mathrm { S O C } } ) C _ { n } } { P _ { n } } }
+$$
+
+那么单台电动汽车充电功率分布如下
+
+$$
+P _ { \mathrm { c } } = \left\{ \begin{array} { c c } { P _ { \mathrm { } } } & { T _ { \mathrm { c } } \leqslant t \leqslant T _ { \mathrm { c } } + t } \\ { 0 } & { \varprojlim \mathcal { H } } \end{array} \right.
+$$
+
+节点33配电网的总有功负荷是 $3 \ 7 1 5 \mathrm { k W }$ ，电动汽车渗透率按充电负荷需求与配电网总有功负荷比值来算，假设电动汽车渗透率为 $40 \%$ ，即该配电网大约有371辆车，采用蒙特卡洛法模拟所有电动汽车的充电功率需求，模拟次数设为10000次，仿真流程如图1所示。
+
+模拟得出的电动汽车充电功率需求如图2所示。
+
+# 3 配电网无功优化模型
+
+无功优化是在配电网结构、发电机容量以及负荷分布确定的情况下，通过改变机端电压、调整变压器分接头位置和投入电容器组数等方式来改变配电网的潮流分布，从而达到减小网损和改善电压质量的目的[1]。本文研究了包含电动汽车的配电网无功优化模型。
+
+![](images/ad7b1cfd73d912c55e938c223ca154b77cfb179663d4bc860e58a22cf6f4e64e.jpg)  
+图1Monte Carlo模拟充电负荷仿真流程图Fig.1Monte Carlo simulation of charge load simulationflow chart
+
+![](images/55b8794e4357da1b2f626081fbf8ab9c095a4b66ff17c4fc972a5ee927c09a00.jpg)  
+图2电动汽车充电负荷曲线
+
+本文假设配电网除了平衡节点1以外，其余节点都设有电动汽车充电桩，将配电网每个节点的充电功率、机端电压、调压器分接头档位及无功补偿装置的补偿容量作为控制变量，以最小化配电网的网络损耗为目标函数。设定系统电压基准值为$1 0 \mathrm { k V }$ ，容量基准值为 $1 0 \mathrm { M V \cdot A }$ ，节点1处配有一台发电机，一台调压变压器，节点18 处有一台风力发电机和一台并联电容无功电源。具体如图3所示。
+
+![](images/393df982d46ee07f36dea8bd8d16fb0197aa6034a99ec7b061fdea918f30fa8b.jpg)  
+Fig.2Electric vehicle charging load curve   
+图3接入电动车和补偿装置的配电网结构图  
+Fig.3Distribution network structure diagram of access to electric vehicles and compensating devices
+
+# 3.1 目标函数
+
+在有电动汽车接入的配电网中，除了传统的无功调节手段，还可以通过调节配电网每个节点的充电功率大小实现配电网的运行优化[1]。控制变量主要有：每个节点充电的功率、机端电压、调压器分接头档位和并联电容器无功补偿容量。本文建立的最小化配电网网损优化模型为
+
+$$
+\operatorname* { m i n } P _ { \mathrm { l o s s } } = \operatorname* { m i n } \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { n } \Bigl [ e _ { i } \left( G _ { i j } e _ { j } - B _ { i j } f _ { j } \right) + f _ { i } \left( G _ { i j } f _ { j } + B _ { i j } e _ { j } \right) \Bigr ]
+$$
+
+式中， $e _ { i }$ 为节点电压实部； $f _ { i }$ 为节点电压虚部； $G _ { i j }$   
+为导纳矩阵元素的实部； $B _ { i j }$ 为导纳矩阵元素的虚部。
+
+# 3.2约束条件
+
+（1）等式约束条件。等式约束条件主要为有功功率和无功功率的平衡。
+
+$$
+\left\{ \begin{array} { l } { { P _ { i } = \displaystyle \sum _ { j = 1 } ^ { n } \biggl [ e _ { i } \left( G _ { i j } e _ { j } - B _ { i j } f _ { j } \right) + f _ { i } \left( G _ { i j } f _ { j } + B _ { i j } e _ { j } \right) \biggr ] } } \\ { { \displaystyle Q _ { i } = \sum _ { j = 1 } ^ { n } \biggl [ f _ { i } \left( G _ { i j } e _ { j } - B _ { i j } f _ { j } \right) - e _ { i } \left( G _ { i j } f _ { j } + B _ { i j } e _ { j } \right) \biggr ] } } \end{array} \right.
+$$
+
+(2）不等式约束。不等式约束主要分为控制变量的不等式约束和状态变量的不等式约束，其中状态变量是各节点电压。具体的不等式约束表达式如下
+
+$$
+\begin{array} { r l } & { \left\lceil 0 \leqslant P _ { i } ^ { \mathrm { e v } } \leqslant P _ { \mathrm { m a x } } \right. } \\ & { \left. \begin{array} { r l } { U _ { \mathrm { m i n } } \leqslant U _ { \mathrm { g } } \leqslant U _ { \mathrm { m a x } } } \\ { T _ { \mathrm { m i n } } \leqslant T \leqslant T _ { \mathrm { m a x } } } \\ { Q _ { \mathrm { m i n } } \leqslant Q _ { \mathrm { c } } \leqslant Q _ { \mathrm { m a x } } } \end{array} \right. } \end{array}
+$$
+
+$$
+V _ { \mathrm { m i n } } \leqslant V _ { i } \leqslant V _ { \mathrm { m a x } }
+$$
+
+式中， $\boldsymbol { P } _ { i } ^ { \mathrm { e v } }$ 表示 $i$ 节点的充电功率； $U _ { \mathrm { g } }$ 为发电机机端电压； $T$ 为调压器分接头档位； $\varrho _ { \mathrm { c } }$ 为并联电容器无功补偿容量； $V _ { i }$ 为节点 $i$ 的电压， $i = 1 , 2 , 3 , \cdots , 3 3$ 。
+
+对于节点电压的约束，本文将其以惩罚函数的形式写入目标函数中。表达式如下
+
+$$
+\operatorname* { m i n } F = \operatorname* { m i n } P _ { \mathrm { l o s s } } + \lambda \big | \Delta V \big |
+$$
+
+$$
+\Delta V = \left\{ \begin{array} { c c } { V _ { i } - V _ { \mathrm { m a x } } } & { V _ { i } \geqslant V _ { \mathrm { m a x } } } \\ { 0 } & { V _ { \mathrm { m i n } } \leqslant V _ { i } < V _ { \mathrm { m a x } } } \\ { V _ { \mathrm { m i n } } - V _ { i } } & { V _ { i } < V _ { \mathrm { m i n } } } \end{array} \right.
+$$
+
+# 3.3模型求解
+
+配电网无功优化的本质是非线性混合整数规划问题，具有多状态、多约束条件等特征[12]。本文用遗传算法对优化模型进行了求解，具体步骤如下：
+
+（1）初始化。包括进化代数、群体规模和编码长度等。
+
+(2）创建初始种群。对配电网每个节点充电的功率、机端电压、调压器分接头档位和电容补偿器容量等控制变量采用二进制编码。(3）对种群进行选择、交叉、变异以及计算个体的适应度大小等操作。其中交叉概率为0.8，变异的概率为0.02。（4）更新种群。淘汰劣质个体保留优良个体，生成新的子种群。(5）重复步骤3～步骤4，直到满足迭代结束条件。
+
+在进行求解时，运用到了一些遗传算法中的“精英策略”的思想，对每次迭代过程中最优个体的基因不再进行变异操作。仿真流程如图4所示。
+
+![](images/939455b6c74593c842457766b101a8bd463ce5e8a4c05aebbd4cdc76afd98bfb.jpg)  
+图4遗传算法求解流程图  
+Fig.4Genetic algorithm solving flow chart
+
+# 3.4算例结果分析
+
+本文调压变压器含有9个可调节的档位，调节范围为 $0 . 9 \sim 1 . 1 \$ 。假设并联电容器的无功连续可调，容量为 $\pm { 0 . 5 } \mathrm { M v a r }$ ，风力发电机的励磁电抗 $x _ { \mathrm { m } }$ 为 $1 8 8 \Omega$ ，漏磁电抗 $x _ { \sigma }$ 为 $1 6 . 5 5 \Omega$ 。
+
+本文选取电动车充电负荷最大的时段对无功优化问题进行了研究。由图2可知，在晚上19：00时充电负荷最大，达到了 $7 3 5 . 4 5 \mathrm { k W }$ 。本文设定除平衡
+
+节点外，配电网其余节点的充电负荷是 $0 \sim 3 0 \mathrm { k W }$ 。  
+仿真收敛曲线如图5所示，优化结果见表2和表3。
+
+![](images/bfbf69c92de2ff77a5a37dd530cac2c1b2069d5f4ba43a8a727d8e3af2f7c894.jpg)  
+图5模型计算收敛曲线  
+Fig.5The model calculates the convergence curve
+
+# 表2优化前后控制变量以网损对比
+
+Tab.2Comparison of control variables and network loss before and after optimization   
+
+<html><body><table><tr><td>控制变量</td><td>Ug(pu)</td><td>T</td><td>Q.(pu)</td><td>网损(pu)</td></tr><tr><td>优化前参数</td><td>1.05</td><td>1</td><td>0</td><td>0.0258</td></tr><tr><td>优化后参数</td><td>1.048 4</td><td>1.025 0</td><td>0.0500</td><td>0.022 6</td></tr></table></body></html>
+
+# 表3优化后配电网各节点充电功率
+
+Tab.3 Optimized charging power of each node in distribution network   
+
+<html><body><table><tr><td>节点</td><td>优化后 节点 充电负荷/kW</td><td>优化后 充电负荷/kW</td><td>优化后 节点 充电负荷/kW</td></tr><tr><td>2</td><td>8</td><td>13 23</td><td>24</td></tr><tr><td>3</td><td>1</td><td>20</td><td>25</td></tr><tr><td>4</td><td>7</td><td>18</td><td>26</td></tr><tr><td>5</td><td>6</td><td>8</td><td>27</td></tr><tr><td>6</td><td>19</td><td>18</td><td>28</td></tr><tr><td>7</td><td>18</td><td>30</td><td>29</td></tr><tr><td>8</td><td>19</td><td>15</td><td>30</td></tr><tr><td>9</td><td>20</td><td>15</td><td>31</td></tr><tr><td>10</td><td>21</td><td>11</td><td>32 5</td></tr><tr><td>11</td><td>22</td><td>10</td><td>33 0</td></tr><tr><td>12</td><td>23</td><td>15</td><td></td></tr><tr><td>12</td><td></td><td>15</td><td></td></tr></table></body></html>
+
+由图5可以看出遗传算法在进化到30代时已经完全收敛，配电网网络损耗由初始时的0.0258降到了 $0 . 0 2 2 \ : 6$ 。
+
+由表3可以看出，节点32、节点33等越是靠近配电网末端的节点优化后的充电负荷越小，越是靠近配电网末端电压水平越低，通过优化使配电网末端节点充电负荷减小可以起到改善节点电压质量的效果。优化结果表明，节点18、节点17优化后充电功率较大，这是因为在节点18配有风力发电机和无功补偿装置，减小了从发电机输送的有功和无功功率，实现无功和有功就地平衡，从而减小线路损耗。
+
+图6给出了在19：00时配电网无功优化前后各节点电压水平的对比图，可以看出优化后配电网各节点电压有了明显改善。结果表明，本文的无功优化模型可以有效地改善配电网各节点电压质量，减小节点电压越限的概率，提高系统运行的稳定性。
+
+![](images/868ed6dc910236e25c00d254f4634f3d79f8aa00ab16e2fe0c450c1087c4711b.jpg)  
+图6优化前后各节点电压  
+Fig.6Node voltage before and after optimization
+
+# 4结论
+
+本文建立了一种包含电动汽车充电负荷的配电网无功优化模型，在考虑了传统的无功调节措施的基础上，本优化模型将配电网各节点充电功率、机端电压、调压器分接头位置及无功补偿装置的补偿容量作为控制变量，对配电网进行了无功优化。
+
+研究结果表明，本文所建立的包含电动汽车的配电网无功优化模型可以有效地减小配电网的网络损耗，改善各个节点的电压质量，对于提高配电网经济运行具有一定积极意义。论文对各节点充电负荷的优化比较粗糙，没有细化到每个充电桩的充电负荷的优化，还需要进一步细化研究。
+
+# 参考文献
+
+[1] 李梁，袁军，高一凡，等．计及电动汽车充电 站的配电网综合优化研究[J]．机电工程，2014, 31(11): 1474-1478. LiLiang,Yuan Jun, Gao Yifan,etal. Comprehensive optimization for distribution network with the electric vehicle charging station[J]. Journal of Mechanical&Electrical Engineering,2014,31(11): 1474-1478.
+
+[2] 陈树恒，党晓强，李兴源，等．考虑DG接入与设 备运行成本的配电网无功优化[J]．电力系统保护 与控制，2012(40)：36-41. Chen Shuheng, Dang Xiaoqiang, Li Xingyuan, et al. Reactive power optimization for distribution system with distribution generators considering device cost[J]. Power System Protection and Control, 2012(21): 36-41.   
+[3] Liu M B, Canizares C A, Huang W. Reactive power andvoltage control in distribution systems with limitedswitching operations[J]. IEEE Transactions on Power Systems, 2009,24(1): 427- 436.   
+[4] 李闯，陈民铀，付昂，等．含风电场的配电网无 功优化策略研究[J]．电力系统保护与控制，2013, 41(9): 100-105. Li Chuang, Chen Minyou,Fu Ang,et al. Reactive power optimization strategy in distribution network with wind farm[J]. Power System Protection and Control,2013,41(9): 100-105.   
+[5] 刘公博，颜文涛，张文斌，等．含分布式电源的 配电网动态无功优化调度方法[J]．电力系统自动 化，2015，39(15)：49-53. Liu Gongbo, Yan Wentao, Zhang Wenbin,et al. Optimization and dispatching method of dynamic reactive power in distribution network with distributed generators[J].Automation of Electric Power Systems,2015,39(15): 49-53.   
+[6] 杨万里．含分布式电源的配电网无功优化[D]．株 洲：湖南工业大学，2014.   
+[7] 宫鑫，林涛，苏秉华．插电式混合电动汽车充电 对配电网的影响[J]．电网技术，2012，36(11)： 30-35. Gong Xin,Lin Tao,Su Binghua,et al. Impact of plug-in hybrid electric vehicle charging on power distribution network[J]. Power System Technology, 2012,36(11): 30-35.   
+[8] Taylor M J, Alexander A. Evaluation of the impact of plug-in electric vehicle loading on distribution system operations[C]. IEEE Power &Energy Society General Meeting, Calgary,2009: 1-6.   
+[9] 田立亭，史双龙，贾卓．电动汽车充电功率需求 的统计学建模方法[J]．电网技术，2010，34(11)： 126-130.

@@ -1,0 +1,252 @@
+氧化应激与自噬1吴艳萍 王阳李雅丽 曹雪芳 李卫芬\*（浙江大学动物科学学院饲料科学研究所，教育部动物分子营养学重点实验室，杭州310058)
+
+摘要：自噬是细胞依赖溶酶体对蛋白质和细胞器进行降解的过程，能帮助细胞适应各种不良刺激，在维持细胞内环境稳态和实现自我更新中起着重要作用。氧化应激是机体氧化和抗氧化系统之间的稳态被破坏而造成的应激状态。大量研究表明，氧化应激中产生的活性氧能诱导自噬产生，而自噬能缓解氧化应激造成的损伤，从而保护细胞存活。本文主要对自噬的形成过程、氧化应激诱导自噬产生机制以及自噬缓解氧化应激的途径等进行综述，以期为畜牧生产中通过调控自噬缓解氧化应激提供理论依据。
+
+关键词：氧化应激；自噬；Atg；活性氧；氧化损伤中图分类号：Q26 文献标识码：A 文章编号：
+
+活性氧（reactive oxygen species,ROS）是生物体中的主要自由基，包括羟自由基(·OH)、超氧阴离子 $( \mathrm { O } _ { 2 } ^ { - } \cdot )$ 、过氧化氢 $\mathrm { ( H } _ { 2 } \mathrm { O } _ { 2 } )$ 及由此衍生的有机过氧化物自由基烷氧基（RO·）烷过氧基和（ROO·）等物质，其作为体内正常氧化还原反应的产物，参与杀菌、解毒及多种代谢途径的调节[Il。正常生理状态下，机体的抗氧化系统会及时清除 ROS，从而维持体内氧化与抗氧化平衡。但当机体处于不同应激原刺激或病原菌感染时，体内产生的ROS 水平高于细胞的抗氧化防御能力，氧化还原状态失衡。过量的ROS 存在于组织或细胞内，诱发氧化应激，导致氧化损伤，如DNA羟基化、蛋白质变性和组织损伤等。为阻止进一步的氧化损伤，生物体能激活一系列的防御应答，如提高体内抗氧化酶活性和启动溶酶体降解途径。此外，近年来大量研究证明，氧化应激中产生的 ROS 能诱导自噬发生[2]。自噬(autophagy)是广泛
+
+收稿日期：2016-03-21  
+基金项目：国家863计划项目（2013AA102800）；国家自然科学基金项目（31472128）  
+作者简介：吴艳萍（1991—），女，江西吉安人，博士研究生，从事益生菌与动物肠道健康  
+研究。E-mail: ypwu0902 $@$ 163.com  
+\*通信作者：李卫芬，教授，博士生导师，E-mail: wfli $@$ zju.edu.cn
+
+存在于真核细胞内的一种自食(self-eating)现象，通过降解细胞内长寿命蛋白质和受损伤细胞器，使细胞在应激条件下循环利用营养物质继续生存的细胞修复重要途径之一[3]。研究发现，自噬能清除氧化应激损伤的线粒体、内质网、过氧化物酶体及蛋白质，减缓细胞死亡；而当自噬过程被阻断时，将使毒性蛋白质聚集和线粒体功能损伤，从而进一步加剧氧化应激[4-6]。由此可见，氧化应激与自噬之间存在着密切联系。
+
+1自噬
+
+# 1.1 自噬的分类
+
+根据底物种类、转运方式和调控机制的不同，可将自噬分为大自噬、小自噬和分子伴侣介导的自噬[3]。大自噬指来源于内质网的双层膜将待降解物包裹形成自噬体后与溶酶体融合并降解其内容物的过程，通常所说的自噬即为大自噬。小自噬是指溶酶体的膜直接将包裹的物质降解。分子伴侣介导的自噬则是指胞质内的可溶蛋白质分子与分子伴侣结合后被转运到溶酶体腔中被降解的过程。长期以来，人们认为自噬对降解底物无选择性，但随着研究的深入，发现在特定情况下自噬会选择性降解某类大分子和细胞器，这类自噬叫选择性自噬，包括 Cvt途径(cytoplasm-to-vacuole transport，细胞质到液泡）、过氧化氢酶体自噬（pexophagy)、线粒体自噬(mitophagy)和内质网自噬(reticulophagy)等[7]。
+
+# 1.2自噬的形成与信号传导
+
+自噬过程分为诱导、囊泡核化和延伸、底物识别、自噬体形成、自噬体和溶酶体融合、底物降解6个阶段[3]。诸多因素诱导细胞发生自噬，如营养缺失、微生物感染、细胞损伤、蛋白质折叠错误或聚集和氧化应激等[8-9]。细胞在受到自噬信号诱导后，胞浆中形成“脂质样”的膜结构，称为自噬泡(phagophore)，自噬泡延伸，将待降解物包裹，形成密闭双层膜自噬体(autophogosome)，并与溶酶体融合形成自噬溶酶体(autophagolysosome)，从而将包裹的物质降解，生成的脂肪酸、氨基酸等物质可被运输到胞浆中被循环利用。在这个过程中，超过30个自噬相关基因(autophagy-related gene,Atg)发挥作用，并主要通过以下4个蛋白质复合体介导自噬形成[10]。
+
+# 1.2.1 ULK1复合体（ULK1-Atg101-FIP200-Atg13)
+
+ULK1（Atg1的同源物）复合体参与自噬诱导阶段，其主要受哺乳动物雷帕霉素靶蛋白（mTOR）和AMP 依赖的蛋白激酶（AMPK）信号调控。mTOR 是细胞内氨基酸、ATP 和激素的感受器，当细胞内营养充足时，mTOR 磷酸化Atg13，高度磷酸化的Atg13与ULK1的亲和力下降，使ULK1 激酶活力下降；而当细胞处于饥饿状态或遭受应激时，mTOR 活性受到抑制，Atg13去磷酸化，ULK1复合体被激活，并从细胞质中转移到内质网上诱导自噬泡膜形成[1]。AMPK是一个重要的自噬正向调节因子，一方面可直接抑制 mTOR 活性诱导自噬产生，另一方面磷酸化的AMPK可激活 TSC1-TSC2复合体，间接抑制mTOR 活性，从而诱导自噬[12]。此外，AMPK 还可直接与ULK1复合物结合，磷酸化ULK1，从而促进自噬膜的形成[13]。
+
+# 1.2.2III型磷脂酰肌醇3-激酶（PI3K）复合体（Beclin1-VPS34-Atg14）
+
+III型 PI3K复合体参与自噬泡成核阶段。III型PI3K的催化亚单位VPS34与Beclin1（Atg6的同源物）、Atg14 组成复合体，被ULK1复合体激活后，定位至内质网并生成PI3P，PI3P通过募集含有PI3P 结合域的效应分子如DFCP1（doubleFYVE-containing protein1）和 WIPI家族蛋白（WD-repeat domain protein interacting with phosphoinositides ）而介导形成自噬泡[14]。其中,Beclin1被认为是自噬形成的关键因子，除了能调节 VPS34（vacuolar protein-sorting 34）的脂肪激酶活性外，还是一种多功能蛋白，具有的BH3结构域，能与抗凋亡相关蛋白如Bcl-2、Bcl-xL 结合，而发挥调节自噬和凋亡的双重作用。Funderburk 等[15]发现抗凋亡蛋白Bcl-2与Beclin1结合，将抑制Beclin1和VPS34互作，导致自噬的抑制。
+
+# 1.2.3 Atg12-Atg5-Atg16 泛素化复合体
+
+Atg12-Atg5-Atgl6 泛素化复合体参与自噬泡延伸阶段。Atg12和Atg5在E1样酶 Atg7和 E2 样酶 Atg10 的作用下能通过共价键结合，两者通过与 Atg16 非共价键结合而成为Atg12-Atg5-Atg16复合体，转移到自噬泡上参与膜延伸。
+
+1.2.4LC3-II-PE泛素化复合体
+
+LC3-II-PE 泛素化复合体参与自噬泡延伸与自噬体形成。哺乳动物的微管相关蛋白1轻链3（LC3，Atg8的同源物）能被 Atg4 切割成可溶性的LC3-I，在 Atg7 和 E2 样酶 Atg3的作用下与磷脂酰乙醇胺(PE)结合后形成LC3-II-PE 参与自噬泡膜延伸，并且对称分布于自噬泡的内外膜上。当自噬体与溶酶体融合时，自噬体内的LC3-ⅡI便被溶酶体中的水解酶降解，因此LC3-II含量或 LC3-II与LC3-I比值的大小反映了自噬活性的强弱，是自噬的经典标记[16]。此外，在选择性自噬中，LC3-II-PE 能通过 P62(又称 SQSTM1，一种多功能泛素结合蛋白)将待降解物转移至自噬体腔中。P62 是连接LC3和泛素化待降解物的接头蛋白，能通过LIR结构域与LC3结合，并且其UBA结构域能与待降解物相互作用，三者结合后能靶向进入自噬体，最终被溶酶体降解[17]。P62 降解是自噬流发生的重要标志[16]。
+
+2ROS诱导自噬形成的机制
+
+ROS 是造成氧化应激的直接引物，约 $9 0 \%$ 的ROS来源于线粒体内膜呼吸链。线粒体呼吸链电子泄漏可产生超氧自由基，进而生成ROS。众多研究表明，氧化应激下，来源于线粒体的 ROS 是自噬的主要诱导者[2.4,18]。ROS 能通过介导自噬形成过程中的各个信号通路诱导自噬产生。
+
+在自噬诱导阶段中，ROS 能通过调控mTOR 而诱导自噬发生。mTOR 是一个关键的自噬负调节因子，其活性受多个信号通路如PI3K-丝氨酸/苏氨酸蛋白激酶（Akt）和AMPK 等调控。研究发现，过量的 ROS 可通过抑制 PI3K-Akt-mTOR 激活自噬[19]；在雄性荷兰猪离体心脏中灌流七氟烷，产生的ROS 能通过激活AMPK抑制mTOR信号通路诱导自噬产生[20]。而在自噬体形成过程中，ROS 主要通过抑制 Atg4 的活性调控自噬，ROS 使 Atg4 失活引起LC3-ⅡI堆积，使得自噬体增多。研究发现，在饥饿条件下，细胞产生大量的ROS，尤其是$\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ ，将 Atg4氧化后能抑制LC3ⅡI去脂化，从而保证自噬体延伸[2I]。并且，ROS 能促进待降解物质的泛素化，使待降解物与P62和LC3-II泛素化结合后定位于自噬体而被降解[22]。此外，ROS 还能通过丝裂原活化蛋白激酶（MAPK）信号通路调控自噬。MAPK 由一组以级联方式依次活化的Akt组成，对于细胞的增值、分化、应激适应及凋亡具有重要的作用，其主要包括c-Jun 氨基末端激酶(JNK)、p38 激酶和细胞外信号调节激酶(ERK)。研究发现，MAPK 能通过调节激活蛋白1（activator protein-1，AP-1）、叉头框转录因子O(forkheadbox transcription factor O，FoxO）、核因子-kB(nuclear factor-kappa B,NF-kB)等转录因子活性调控自噬相关基因表达而影响自噬，许多外源物质包括ROS能通过MAPK激活自噬产生[23]。试验证明,ROS 通过JNK信号通路诱导体外培养的小鼠间充质干细胞（MSCs)自噬产生[24];p38 信号通路参与ROS 激活的自噬体与溶酶体融合阶段 Atg7以及蛋白质泛素化过程中 E3酶的基因表达，并且这个过程依赖 FoxO 转录的激活[25]。而亚砷酸盐则能通过 ROS 激活细胞外调节蛋白激酶(extracelllar regulated protein kinases,ERK)1/2 途径诱导自噬产生[26]。
+
+# 3自噬缓解氧化应激的途径
+
+# 3.1清除受损蛋白质和细胞器，调控线粒体功能
+
+氧化应激下，线粒体ROS 稳态被打破，其过量堆积会造成膜脂质过氧化反应，引起细胞膜、线粒体膜和内质网膜等结构破坏，从而导致氧化损伤。研究表明，氧化应激导致的蛋白质和细胞器损伤，能诱导 Beclin1 从抗凋亡蛋白 Bcl-2上分离形成 Beclin1-VPS34-Atg14复合体，使得膜分离及自噬体成核，从而启动自噬清除受损部位[27]。
+
+持久严重的氧化应激将造成线粒体损伤，线粒体自噬是清除受损线粒体的主要途径，损伤的线粒体去极化并分解成碎片，通过线粒体自噬而清除。这个过程主要受PPEN蛋白激酶1（PINK1）和帕金森基因（Parkin）的调控。PINK1是一种定位于线粒体外膜的Akt，当线粒体跨膜电位低时处于稳定状态；而当线粒体去极化后，PINK1迅速感知并募集泛素化 E3酶Parkin将受损线粒体膜泛素化[28]，泛素化的线粒体膜被P62识别后通过LC3 定位至自噬体而降解。同时研究发现，线粒体自噬还能调控线粒体功能和 ROS 水平。用脂多糖(LPS)刺激心肌细胞造成的过度氧化应激，会产生大量受损线粒体，使得ROS 急剧生成，通过线粒体自噬途径能及时清除受损线粒体，维持ROS 在一个较低水平[29]。自噬功能失调将导致线粒体功能不正常，在饥饿情况下敲除酵母细胞自噬相关基因会加重ROS 的累积[30]。
+
+# 3.2参与DNA 损伤修复
+
+DNA 是ROS 攻击的重要靶分子之一，大量ROS 产生将引起DNA分子的碱基修饰和单/双链的断裂和位点突变等，从而导致DNA损伤[31]。DNA 损伤后将激活一系列的细胞反应，如DNA损伤修复。多种不同类型的蛋白介导DNA损伤修复，感知蛋白能迅速识别受损蛋白，而传递蛋白和效应蛋白则把信号从细胞核传至胞质中，从而启动应答，例如激活细胞周期系统，但当DNA严重损伤或无法修复时，细胞将面临死亡[32]。
+
+自噬是一种细胞存活机制，同时也是一种细胞死亡类型，因此当DNA损伤时，其对细胞的存活与死亡至关重要。试验证明，自噬能参与DNA损伤修复。当敲除自噬相关基因如Beclin1、抗紫外线相关基因（ultraviolet irradiation resistance-associated gene，UVRAG)、Atg5和 Atg7将导致 DNA 损伤累积[3-35]。同时研究发现，辐射引起的氧化应激下，抑制 ULK1复合体 FIP200(FAK-family interacting protein of $2 0 0 ~ \mathrm { k u }$ )将削弱DNA损伤修复，加速细胞死亡[36]。自噬可通过直接或间接的途径参与ROS 介导的DNA 损伤修复，但其启动机制目前尚待研究。在酵母细胞研究中发现，选择性自噬Cvt途径在参与DNA损伤修复中发挥直接作用,包括激活细胞周期G2/M阶段、促进脱氧核糖核苷三磷酸(dNTP)和DNA 合成等[37-38]。而在更高等的真核生物中，没有直接证据证明存在Cvt途径，自噬参与损伤修复主要是通过清除线粒体及毒害聚合物，从而从源头降低 ROS 水平和 DNA 损伤累积[39]。其中，介导自噬参与 DNA 损伤修复的分子有聚腺苷酸二磷酸核糖转移酶-1(PARP1)和共济失调毛细血管扩张症突变基因(ataxia-telangiectasia mutated gene，ATM)，两者通过激活 AMPK 和抑制mTOR 通路诱导自噬产生[40-41]。此外，作为 DNA 损伤修复的主要调控蛋白 P53，在 DNA损伤时能被迅速激活，而研究表明P53能调控诱导自噬产生的[PTEN（一个具有双特异性磷酸酶活性的抑癌基因）、TSC2、AMPK亚单位]以及自噬体形成的（ULK1、UVRAG、Atg2、Atg4、Atg7、Atg10 等）基因的表达[42]，从而介导自噬产生。
+
+3.3通过P62-Kelch 样环氧氯丙烷相关蛋白1（Keap1）-核转录因子红细胞系 2-p45 相关因子2（Nrf2）途径发挥抗氧化作用
+
+Keap1-Nrf2信号通路是细胞内重要的抗氧化信号通路之一。在正常生理条件下，Keapl与 Nrf2 结合，促进Nrf2 持续的泛素化后被蛋白酶体降解。当细胞受到刺激时，ROS 增加，氧化 Keap1上的半胱氨酸（Cys）残基，促进Nrf2从Keap1上解离，使Nrf2 进入细胞核。Nrf2入核后会与抗氧化反应元件（ARE）结合，促进抗氧化蛋白类和II相解毒酶等基因的转录，从而提高细胞抵抗氧化应激的能力[43]。研究表明，泛素化的 P62 能直接与 Keapl 相互作用，介导 Keapl通过自噬途径降解，使 Nrf2从Keap1上分离并稳定地在细胞核内积累[44；并且，由于 P62 的增强子上含 ARE，使得 P62 的蛋白质表达也能受Nrf2 调控[45]。因此，这 2条途径形成一个抗氧化反应的正反馈循环。试验发现，向仔猪体内灌喂或腹腔注射$1 0 \% \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ，7d后采样，仔猪空肠自噬水平显著升高，并且其极可能与Nrf2-Keap1信号通路的激活相关[46]。
+
+此外，由于抗氧化反应和自噬均是由氧化应激激活的降低ROS水平及清除氧化损伤的2种保护机制，而自噬与DNA损伤修复密切相关，这种现象尤其表现在ROS 造成的DNA损伤上[2]，一旦弄清其中的分子调控机制则能更加明确自噬介导的抗氧化反应。
+
+4抗氧化物通过自噬缓解氧化应激研究展望
+
+氧化应激在高度集约化现代养殖业中的危害已大量显现，氧化应激是动物众多疾病的重要诱因。研究发现，怀孕母猪在妊娠期和哺乳期易遭受氧化应激，导致产奶性能和繁殖性能下降[47]。而氧化应激也是引起“仔猪断奶应激综合征”的重要原因之一，氧化损伤导致仔猪生产性能降低，影响饲养效益[48]。此外，Hodgkinson 等[49]报道分泌初乳时期的奶牛处于氧化应激状态时牛乳腺组织中血管细胞间黏附分子-1（VCAM-1）的表达显著升高，氧化应激引起的急变期细胞因子的表达将增加炎症性组织损伤。在养殖过程中，由氧化应激导致的疾病主要有肠炎、脓血症、肺炎、心脏病、腹水症、围产期疾病、胎衣不下、乳房炎等[50-51],这些疾病已严重影响了畜牧业生产和经济效益。
+
+如何通过营养学调控缓解氧化应激已成为近年来的研究热点。大量研究表明，外源添加如微量元素、维生素和植物提取物等抗氧化物质能有效地缓解氧化应激。而近年来的研究发现，自噬在外源抗氧化物质缓解氧化应激中起重要作用。试验表明，血红素氧合酶-1(HO-1)的激动剂原卟啉钴能增强自噬，降低由LPS 诱导的大鼠肝脏氧化损伤[52]；在以拘束应激建立的氧化应激小鼠模型中，天然抗氧化剂白藜芦醇能上调线粒体自噬，从而缓解小鼠腹腔巨噬细胞氧化损伤[53]；而在小鼠的肝脏缺血再灌注引起的氧化应激模型中，添加维生素 D,则能通过调控自噬提高抗氧化能力，减缓氧化应激[54]。这些抗氧化物质大多通过调节自噬信号通路（P62-Keap1-Nrf2、PI3K-Akt-mTOR、AMPK等）和自噬基因的表达而诱导自噬产生，从而缓解氧化应激、降低细胞凋亡。例如，DHA除了能激活抗氧化酶外，还能提高 Nrf2、P62 和 Atg5的蛋白质表达激活自噬[55]；用 $5 { \sim } 2 0 \mu \mathrm { m o l / L }$ 的姜黄素预处理hy926 细胞4h后，再添加 $2 0 0 \ \mu \mathrm { m o l / L }$ 的 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 共培养发现，姜黄素能通过抑制PI3K-Akt-mTOR信号通路而激活自噬，保护细胞免受 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导的氧化损伤和减缓细胞凋亡[56]。此外，芹黄素和药草素可通过调控AMPK和Akt-mTOR 信号通路及 $B c l { - } 2$ 的表达激活自噬而保护细胞[57-58]。
+
+上述研究显示，外源添加抗氧化物质能调控细胞自噬，增强细胞的抗氧化功能，保护细胞免受氧化损伤和延缓细胞死亡，并且不同的抗氧化物质通过激活不同的自噬信号通路和自噬相关基因而缓解氧化应激。同时，研究发现自噬在维持畜禽健康中发挥着作用。早期断奶仔猪模型中，仔猪肝脏、脾脏和骨骼肌自噬水平显著升高，这对仔猪的营养平衡和细胞功能起着一定作用[59l；向荷斯坦断奶奶牛体内静脉注射不同浓度的谷氨酰胺，自噬水平随着谷氨酰胺浓度的升高而升高[60]；禽白血病J亚群病毒(ALV-J)感染鸡成纤维细胞系DF-1后，自噬功能受损，病毒大量复制，而用自噬激活剂雷帕霉素处理后，病毒复制降低，揭示了自噬功能在一定程度上有利于病毒清除[6]。因此，针对不同的外源抗氧化物质物质，系统地研究其对自噬及相关信号通路的影响，将为抗氧化物质缓解动物氧化应激的分子机理提供新的研究方向。
+
+5小结
+
+氧化应激是造成动物生产中经济损失的重要原因之一，近年来，人们不断探索如何从营养学角度缓解氧化应激的途径及调节机制。自噬理论的发展为氧化应激的研究提供了新的方向，氧化应激可激活自噬产生，而自噬可以清除氧化应激造成的损伤，延缓细胞死亡，维持细胞内稳态。如何通过调控自噬来缓解氧化应激将为抗氧化物质发挥其功能的机理研究提供新的思路。
+
+# 参考文献：
+
+[1] STEINBRENNER H,SIESH.Protectionagainstreactiveoxygenspecies by   
+selenoproteins[J].Biochimica et Biophysica Acta,2009,1790(11):1478-1485.   
+196 [2]FILOMENI G,DE ZIO D,CECCONI F.Oxidative stress and autophagy:the clash between   
+197 damage and metabolic needs[J].Cell Death and Differentiation,2015,22(3):377-388.   
+198 [3]CODOGNO P,MEIJER A J.Autophagy and signaling:their role in cell survival and cell   
+199 death[J].Cell Death and Differentiation,2005,12(Suppl.2):1509-1518.   
+200 [4] SCHERZ-SHOUVAL R,SHVETSE,ELAZAR Z.Oxidation asa post-translational   
+201 modification that regulates autophagy[J].Autophagy,2007,3(4):371-373.   
+202 [5] WU D F,CEDERBAUM A I.Inhibition of autophagy promotes CYP2E1-dependent toxicity   
+203 in HepG2 cells via elevated oxidative stressmitochondria dysfunction and activation of p38 and   
+204 JNK MAPK[J].Redox Biology,2013,1(1):552-565.   
+205 [6]WANG T,WANG Q W,SONG R L,et al.Autophagy plays a cytoprotective role during   
+206 cadmium-induced oxidative damage in primary neuronal cultures[J].Biological Trace Element   
+207 Research,2015,168(2):481-489.   
+208 [7] SVENNING S,JOHANSEN T.Selective autophagy[J].Biochemical Society,2013,55:79-92   
+209 [8] WILEMAN T.Autophagy as a defence against intracellular pathogens[J].Essays in   
+210 Biochemistry,2013,55:153-163.   
+211 [9] GREEN D R,LEVINE B.To be or not to be?How selective autophagy and cell death govern   
+212 cell fate[J].Cell,2014,157(1):65-75.   
+213 [10]YANG Z F,KLIONSKY D J.Eaten alive:a history of macroautophagy[J].Nature Cell   
+214 Biology,2010,12(9):814-822.   
+215 [11]PATTINGRE S,ESPERT L,BIARD-PIECHACZYK M,et al.Regulation of macroautophagy   
+216 by mTOR and Beclin1 complexes[J].Biochimie,2008,90(2):313-323.   
+217 [12]ALERS S,LOFFLER A S,WESSELBORG S,et al.Role of AMPK-mTOR-UIk1/2 in the   
+218 regulationofautophagy:crosstalk,shortcuts,andfeedbacks[J].MolecularandCellular   
+219 Biology,2012,32(1):2-11.   
+220 [13]KIM J,KUNDU M,VIOLLET B,et al.AMPK and mTOR regulate autophagy through direct   
+221 phosphorylation of Ulk1[J].Nature Cell Biology,2011,13(2):132-141.   
+222 [14] LEVINEB,MIZUSHIMA N,VIRGIN H W.Autophagyinimmunityand   
+223 inflammation[J].Nature,2011,469(7330):323-335.   
+224 [15]FUNDERBURK S F,WANG Q J,YUE Z Y.The Beclin 1-VPS34 complex-at the crossroads   
+225 of autophagy and beyond[J].Trends in Cell Biology,2010,20(6):355-362.   
+226 [16] MIZUSHIMA N,YOSHIMORI T,LEVINE B.Methods in mammalian autophagy   
+227 research[J].Cell,2010,140(3):313-326.   
+228 [17]MATSUMOTO G,WADA K,OKUNO M,et al.Serine 403 phosphorylation of p62/SQSTM1   
+229 regulates selectiveautophagic clearance ofubiquitinatedproteins[J].Molecular   
+230 Cell,2011,44(2):279-289.   
+231 [18]MI Y,XIAO C X,DU Q W,et al.Momordin Ic couples apoptosis with autophagy in human   
+232 hepatoblastoma cancer cels by reactive oxygen species (ROS)-mediated PI3K/Akt and MAPK   
+233 signaling pathways[J].Free Radical Biology and Medicine,2016,90:230-242.   
+234 [19]PORTAL-NUNEZ S,ESBRIT P,ALCARAZ M J,et al.Oxidative stress,autophagy,epigenetic   
+235 changes and regulation bymiRNAsaspotentialtherapeutictargets in   
+236 osteoarthritis[J].Biochemical Pharmacology,2015,108:1-10,   
+237 [20]SHIOMI M,MIYAMAE M,TAKEMURA G,et al.Sevoflurane induces cardioprotection   
+238 through reactive oxygen species-mediated upregulation of autophagy in isolated guinea pig   
+239 hearts[J].Journal of Anesthesia,2014,28(4):593-600.   
+240 [21]SCHERZ-SHOUVAL R,SHVETS E,FASS E.et al.Reactive oxygen species are essential for   
+241 autophagy andspecificallyregulatetheactivityofAtg4[J].TheEMBO   
+242 Journal,2007,26(7):1749-1760.   
+243 [22]LEE J,GIORDANO S,ZHANG JH.Autophagy,mitochondria and oxidative stress:cross-talk   
+244 and redox signalling[J].Biochemical Journal,2012,441(2):523-540.   
+245 [23] SUI X B,KONG N,YE L,et al.P38 and JNK MAPK pathways control the balance of   
+246 apoptosis and autophagyinresponsetochemotherapeuticagents[J].Cancer   
+247 Letters,2014,344(2):174-179.   
+248 [24]LIU G Y,JIANG X X,ZHU X,et al.ROS activates JNK-mediated autophagy to counteract   
+249 apoptosisinmousemesenchymalstemcelsinvitro[J].ActaPharmacologica   
+250 Sinica,2015,36(12):1473-1479.   
+251 [25]MCCLUNG J M,JUDGE A R,POWERS S K,et al.P38 MAPK links oxidative stress to   
+252 autophagy-related gene expression in cachectic muscle wasting[J].American Journal of   
+253 Physiology-Cell Physiology,2010,298(3):C542-C549.   
+254 [26]HUANG Y C,YU H S,CHAI C Y.Roles of oxidative stress and the ERK1/2,PTEN and   
+255 p70S6K signaling pathways in arsenite-induced autophagy[J].Toxicology   
+256 Letters,2015,239(3):172-181.   
+257 [27]MALAVIYA R,LASKIN J D,LASKIN D L.Oxidative stress-induced autophagy:role in   
+258 pulmonary toxicity[J].Toxicology and Applied Pharmacology,2014,275(2):145-151.   
+259 [28]MATSUDA N,SATO S,SHIBA K,et al.PINK1 stabilized by mitochondrial depolarization   
+260 recruits Parkin to damaged mitochondria and activates latent Parkin for mitophagy[J].The Journal   
+261 of Cell Biology,2010,189(2):211-221.   
+262 [29]YUAN H,PERRY C N,HUANG C.et al.LPS-induced autophagy is mediated by oxidative   
+263 signaling in cardiomyocytes and is associated with cytoprotection[J].American Journal of   
+264 Physiology:Heart and Circulatory Physiology,2009,296(2):H470-H479.   
+∠b5 [3U]KUKIHAKA Y,KANKl 1,AUKl Y,et al.Mitopnagy pIays an essenual roIe in reaucing   
+266 mitochondrial production of reactive oxygen species and mutation of mitochondrial DNA by   
+267 maintainingmitochondrialquantityandqualityinyeast[J].JournalofBiological   
+268 Chemistry,2012,287(5):3265-3272.   
+269 [31] COOKEMS,EVANSM D,DIZDAROGLUM,etal.OxidativeDNA   
+270 damage:mechanisms,mutation,and disease[J].The FASEB Journal,2003,17(1O):1195-1214.   
+271 [32]DE ZIO D,CIANFANELLI V,CECCONI F.New insights into the link between DNA   
+272 damage and apoptosis[J].Antioxidants & Redox Signaling,2013,19(6):559-571.   
+273 [33]NAGY P,KOVACS L,SANDOR G O,et al.Stem cel-specific endocytic degradation defects   
+274 lead to intestinal dysplasia in Drosophila[J].Disease Models &   
+275 Mechanisms,2016,doi:10.1242/dmm.023416.   
+276 [34]KARANTZA-WADSWORTH V,PATEL S,KRAVCHUK O,et al.Autophagy mitigates   
+277 metabolicstressandgenomedamageinmammarytumorigenesis[J].Genes&   
+278 Development,2007,21(13):1621-1635.   
+279 [35]TAKAMURA A,KOMATSU M,HARA T,et al.Autophagy-deficient mice develop multiple   
+280 liver tumors[J].Genes & Development,2011,25(8):795-800.   
+281 [36]BAE H,GUAN JL.Suppression of autophagy by FIP200 deletion impairs DNA damage   
+282 repair and increases cell death upon treatments with anticancer agents[J].Molecular Cancer   
+283 Research,2011,9(9):1232-1241.   
+284 [37]DOTIWALA F,EAPEN V V,HARRISON J C,et al.DNA damage checkpoint triggers   
+285 autophagy to regulate the initiation of anaphase[J].Proceedings of the National Academy of   
+286 Sciences of the United States of America,2013,110(1):E41-E49.   
+287 [38]DYAVAIAH M,ROONEY J P,CHITTUR S V,et al.Autophagy-dependent regulation of the   
+288 DNAdamageresponseproteinribonucleotidereductase1[J].MolecularCancer   
+289 Research,2011,9(4):462-475.   
+290 [39]MATHEW R,KARP C M,BEAUDOIN B,et al.Autophagy suppresses tumorigenesis   
+291 through elimination of p62[J].Cell,2009,137(6):1062-1075.   
+292 [40]RODRIGUEZ-VARGAS J M,RUIZ-MAGANA M J,RUIZ-RUIZ C.et al.ROS-induced   
+293 DNA damage and PARP-1 are required for optimal induction of starvation-induced   
+294 autophagy[J].Cell Research,2012,22(7):1181-1198.   
+295 [41]ALEXANDER A,CAI S L,KIM J,et al.ATM signals to TSC2 in the cytoplasm to regulate   
+296 mTORC1 in response to ROS[J].Proceedings of the National Academy of Sciences of the United   
+297 States of America,2010,107(9):4153-4158.   
+298 [42]FULLGRABE J,KLIONSKY D J,JOSEPH B.The return of the nucleus:transcriptional and   
+299 epigenetic control of autophagy[J].Nature Reviews Molecular Cell Biology,2O14,15(1):65-74.   
+300 [43]GALLORINI M,PETZEL C,BOLAY C,et al.Activation of the Nrf2-regulated antioxidant   
+301 cell response inhibitsHEMA-inducedoxidativestressandsupportscell   
+302 viability[J].Biomaterials,2015,56:114-128.   
+303 [44]YIN S S,CAO W S.Tol-like receptor signaling induces Nrf2 pathway activation through   
+304 p62-Triggered Keap1 degradation[J].Molecular and Cellular Biology,2015,35(15):2673-2683.   
+305 [45] JAIN A,LAMARK T,SJOTTEM E,et al.P62/SQSTM1 is a target gene for transcription   
+306 factor NRF2 and creates a positive feedback loop by inducing antioxidant response element-driven   
+307 gene transcription[J].Journal of Biological Chemistry,2010,285(29):22576-22591.   
+308 [46]YIN J,DUAN J L,CUI Z J,et al.Hydrogen peroxide-induced oxidative stress activates   
+309 NF-kB andNrf2/Keap1signalsandtriggersautophagyinpiglets[J].RSC   
+310 Advances,2015,5(20):15479-15486.   
+311 [47]BERCHIERI-RONCHI C B,KIM S W,ZHAO Y,et al.Oxidative stress status of highly   
+312 prolific sows during gestation and lactation[J].Animal,2011,5(11):1774-1779.   
+313 [48]WANG J J,CHEN L X,LI P,et al.Gene expression is altered in piglet smallintestine by   
+314 weaning and dietary glutamine supplementation[J].The Journal of   
+315 Nutrition,2008,138(6):1025-1032.   
+316 [49]HODGKINSON A J,CARPENTER E A,SMITH C S,et al.Adhesion molecule expression in   
+317 the bovine mammary gland[J].Veterinary Immunology and   
+318 Immunopathology,2007,115(3/4):205-215.   
+319 [50]黄权,苏琳.动物体内氧化应激与抗氧化剂应用研究进展[J].中国兽药杂   
+320 志,2013,47(5):66-69.   
+321 [51]李昊阳,钟荣珍,房义,等.动物氧化应激与免疫的研究进展[J].动物营养学   
+322 报,2014,26(11):3217-3221   
+323 [52]UNUMA K,AKI T,MATSUDA S,et al.Inducer of heme oxygenase-1 cobalt protoporphyrin   
+324 accelerates autophagy and suppresses oxidative damages during lipopolysaccharide treatment in   
+325 rat liver[J].Hepatology Research,2013,43(1):91-96.   
+326 [53] 刘方兰.白藜芦醇诱导线粒体自噬修复巨噬细胞氧化损伤[D].硕士学位论文.广州:暨南   
+327 大学,2013:13-21.   
+328 [54]YANG J H,CHEN Q,TIAN S Y,et al.The role of 1,25-dyhydroxyvitamin D3 in mouse liver   
+329 ischemia reperfusion injury:regulation of autophagy through activation of MEK/ERK signaling   
+330 and PTEN/PI3K/Akt/mTORC1signaling[J].AmericanJournalofTranslational   
+331 Research,2015,7(12):2630-2645.   
+332 [55]JOHANSON I,MONSEN V T,PETTERSEN K,et al.The marine n-3 PUFA DHA evokes   
+333 cytoprotection against oxidative stress and protein misfolding by inducing autophagy and NFE2L2   
+334 in human retinal pigment epithelial cels[J].Autophagy,2015,11(9):1636-1651.   
+335 [56]GUO S Y,LONG M Z,LI X Z,et al.Curcumin activates autophagy and attenuates oxidative   
+336 damage in EA.hy926cellsviatheAkt/mTORpathway[J]. MolecularMedicine   
+337 Reports,2016,13(3):2187-2193   
+338 [57]BRIDGEMAN B B,WANG P,YE B P,et al.Inhibition of mTOR by apigenin in   
+339 UVB-irradiated keratinocytes:a new implicationofskin cancerprevention[J].Cellular   
+340 Signalling,2016,28(5):460-468.   
+341 [58] LIU L Y,WU Y X,HUANG X L.Orientin protects myocardial cellsagainst   
+342 hypoxia-reoxygenation injurythroughinductionofautophagy[J].European Journalof   
+343 Pharmacology,2016,776:90-98.   
+344 [59]ZHANG S J,LI X,LI L,et al.Autophagy up-regulation by early weaning in the liver,spleen   
+345 and skeletal muscle of piglets[J].British Journal of Nutrition,2011,106(2):213-217.   
+346 [60]HU Z Y,SU H W,LI S L,et al.Efect of parenteral administration of glutamine on autophagy   
+347 of liver celland immune responses in weaned calves[J].Journal of Animal Physiology and Animal
+
+Nutrition,2013,97(6):1007-1014.   
+[61]LIU H X,CAO W S,LI Y H,et al.Subgroup J avian leukosis virus infection inhibits   
+autophagy in DF-1 cells[J].Virology Journal,2013,10:196 Oxidative Stress and Autophagy2 WU Yanping WANG Yang LI Yali CAO Xuefang LI Weifen\* (Key Laboratory of Molecular Animal Nutrition of Ministry of Education, Institute of Feed Science, College of Animal Science, Zhejiang University， Hangzhou 310o58, China)   
+Abstract: Autophagy is a lysosome-dependent process aimed at degrading proteins and damaged   
+organelles,in order to preserve celllar homeostasis and self-recycling in diverse conditions of   
+stress. Oxidative stress,is a stress status when the balance of oxidation and anti-oxidation system   
+breaks down，which subsequently cause cellular damage.A growing amount of evidence   
+demonstrate that reactive oxygen species (ROS) generated in oxidative stress is a main inducer of   
+autophagy, and autophagy, in turn,serves to reduce oxidative damage and enhances cel survival.   
+This article mainly described the process of autophagy, the mechanism of autophagy induction by   
+oxidative stress and the pathway of antioxidant function mediated by autophagy. We attempt to   
+provide a theoretical basis of attenuating oxidative stress in livestock production through   
+regulating autophagy.
+
+Key words: oxidative stress; autophagy; Atg;ROS; oxidative damage

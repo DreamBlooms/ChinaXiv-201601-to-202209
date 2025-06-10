@@ -1,0 +1,215 @@
+饲粮营养限制对羔羊肠道组织形态以及血清胰岛素样生长因子-1和胰高血糖素样-2浓度的影响
+
+祁敏丽」 刁其玉」 马铁伟² 柴建民」 王　波」 崔　凯」王 杰」张乃锋1\*（1.中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，北京100081；2.
+
+南京农业大学，南京 210000）
+
+摘要：本试验旨在研究饲粮营养限制对羔羊肠道组织形态及血清中胰岛素样生长因子-1（IGF-1）和胰高血糖素样-2（GLP-2）浓度的影响。选取64只17 日龄湖羊羔羊随机分为4组，饲喂不同营养水平的代乳品和开食料，分别为对照（CON）组、 $20 \%$ 蛋白质限制（PR)组、 $20 \%$ 能量限制（ER）组、 $20 \%$ 蛋白质 $+ 2 0 \%$ 能量限制（BR）组，每组4个重复，每重复4只羔羊，公母各占 $1 / 2$ 。于羔羊20 日龄、40 日龄和60 日龄采集血清用于测定IGF-1和GLP-2的浓度，40日龄和60 日龄时每组分别选取4只羔羊进行屠宰，屠宰后取十二指肠、空肠和回肠组织观察小肠组织形态结构。结果表明：1）PR组、ER组、BR组40 日龄小肠重量显著低于CON 组（P<0.05)，到60 日龄仅ER 组羔羊小肠重显著低于CON 组（P<0.05），小肠重量降低主要由于空肠重量的降低。2）PR组、ER组、BR组40 日龄十二指肠、空肠绒毛高度及60 日龄十二指肠绒毛高度显著低于CON 组（ $. P { < } 0 . 0 5 \$ )，ER 组、BR 组60日龄空肠绒毛高度显著低于CON 组（ $\scriptstyle \cdot P < 0 . 0 5 .$ )。3）BR组40日龄十二指肠绒毛高度/隐窝深度显著低于CON组（P<0.05)。4）ER组60 日龄血清GLP-2浓度显著低于其他3组（ $( P { < } 0 . 0 5 )$ ，4组间血清IGF-1浓度无显著差异（ $. P { > } 0 . 0 5 \$ )。综上所述，饲粮营养限制抑制了羔羊十二指肠、空肠组织形态发育，同时能量限制可降低血清GLP-2的浓度。
+
+关键词：羔羊；营养限制；组织形态；胰岛素样生长因子-1；胰高血糖素样-2
+
+中图分类号：S826
+
+小肠是反刍动物主要的吸收器官，其黏膜结构的正常发育是营养物质消化吸收和反刍动物正常生长发育的生理基础。肠道组织重量占机体体重 $5 \% \sim 7 \%$ ，却需要消耗个体所需营养物质的 $1 5 \% { \sim } 2 0 \% ^ { [ 1 ] }$ 。营养不足可导致肠道组织结构和功能发生程序化改变[2]。研究表明，能量、蛋白质 $40 \%$ 限制可降低羔羊小肠重量、限制黏膜发育[3]，妊娠期母羊 $40 \%$ 营养限制可降低后代羔羊小肠重量、绒毛高度[4-5]。而胰岛素样生长因子-1（IGF-1）是细胞增殖促进因子，胰高血糖素样-2(GLP-2)是肠上皮细胞特异性促进因子。研究表明，初乳或饲粮中添加 IGF-1或 GLP-2可促进新生反刍动物小肠组织形态发育[6-7]，营养限制可降低血清中IGF-1、GLP-2的浓度[3]及肠上皮细胞IGF-1、GLP-2 基因的表达量[7]，同时可限制小肠黏膜的发育。当前有关营养限制对羔羊肠道组织形态发育的影响报道较少且多以放牧（或放牧补饲）羔羊、妊娠母羊为研究对象。湖羊作为我国多胎绵羊品种之一，通常每胎可产2\~3羔，因此母乳难以满足待哺乳羔羊的营养需要；而0\~2月龄是羔羊出生后肠道发育的快速时期，鲜有报道营养限制对0\~2月龄羔羊肠道组织形态发育的影响。因此，本试验研究能量和蛋白质限制对0\~2月龄羔羊小肠组织形态以及血清IGF-1、GLP-2浓度的影响，以期补充饲粮营养限制对羔羊肠道发育的影响，为湖羊羔羊早期饲养管理提供理论支持。
+
+1材料与方法
+
+# 1.1 试验设计
+
+本试验采用随机试验设计，试验因素为整体饲粮（代乳品和开食料）中的营养水平。选取64只出生日期、初生重相近[ $( 2 . 5 { \pm } 0 . 2 \$ ）kg]、体况良好的(17±1)日龄纯种湖羊羔羊[体重（ $6 . 2 { \pm } 0 . 2 \$ ） $\mathbf { \left| k g \right] }$ ，随机分为4组，每组4个重复，每重复4只羔羊，公母各占1/2，每重复羔羊在1个栏位饲喂。其中，对照（CON）组饲喂基础饲粮，在CON 组饲粮基础上分别对代谢能进行 $20 \%$ 限制 (ER 组)，粗蛋白质进行 $20 \%$ 限制 (PR组)，或同时对代谢能和粗蛋白质进行 $20 \%$ 限制（BR组）。 $1 7 { \sim } 1 9$ 日龄为预试期，20 日龄进入正试期，直至羔羊60日龄。参照杨诗兴等[8]推荐的 $1 0 \mathrm { k g }$ 体重、平均日增重为 $3 0 0 ~ \mathrm { g }$ 的湖羊营养需要量设置CON组营养水平，并相应设置ER组、PR 组和BR 组营养水平。试验饲粮包括代乳品和开食料。以本实验室研究结果确定CON 组代乳品营养水平（代谢能 $2 0 \mathrm { M J / k g }$ ，粗蛋白质 $24 \%$ ）[9]，然后根据营养需要和代乳品营养水平确定开食料中的代谢能和粗蛋白质水平。羔羊代乳品由北京精准动物研究中心提供，其营养水平见表1。CON 组羔羊自由采食开食料，PR、ER、BR 组羔羊开食料饲喂量参照CON 组前1d采食量进行饲喂，保持所有试验组羔羊具有相近的采食量。开食料为颗粒饲粮（直径 $4 \ \mathrm { m m }$ ，长度 $1 0 \ \mathrm { m m }$ )，自行配制，开食料组成及营养水平见表2。
+
+表1代乳品营养水平(干物质基础)  
+Table1Nutrient levels of milk replacers (DM basis)   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="4">组别Groups</td></tr><tr><td>CON</td><td>PR</td><td>ER</td><td>BR</td></tr><tr><td>指标 Items 干物质 DM</td><td>94.35</td><td>94.51</td><td>93.33</td><td>93.48</td></tr><tr><td>粗蛋白质CP</td><td>24.21</td><td>19.13</td><td>24.45</td><td>19.26</td></tr></table></body></html>
+
+<html><body><table><tr><td>代谢能 ME/(MJ/kg)</td><td>14.83</td><td>14.77</td><td>12.55</td><td>12.55</td></tr><tr><td>粗脂肪 EE</td><td>20.58</td><td>20.78</td><td>11.06</td><td>10.92</td></tr><tr><td>粗灰分 Ash</td><td>4.99</td><td>4.84</td><td>4.81</td><td>4.88</td></tr><tr><td>钙Ca</td><td>0.95</td><td>0.95</td><td>0.95</td><td>0.95</td></tr><tr><td>总磷TP</td><td>0.68</td><td>0.68</td><td>0.68</td><td>0.68</td></tr></table></body></html>
+
+营养水平除代谢能外均为实测值。代谢能参照王桂秋[10]的试验结果及《肉羊饲养标准》(NY/T816-2004) l1l计算。Nutrient levels were measured values except ME. ME was calculated according to the results of WANG [10] and Feeding Standard of Sheep (NY/T 816-2004) [1].
+
+表2开食料组成及营养水平（干物质基础）  
+Table 2Composition and nutrient levels of starters (DM basis)   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td></tr><tr><td>CON</td><td>BR</td><td>ER</td><td>PR</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corm</td><td>53</td><td>62</td><td>25</td><td>38</td></tr><tr><td>豆粕 Soybean meal</td><td>27</td><td>14</td><td>27</td><td>16</td></tr><tr><td>稻壳粉 Powdered rice hulls</td><td>0</td><td>0</td><td>16</td><td>17</td></tr><tr><td>小麦麸Wheat bran</td><td>6</td><td>10</td><td>18</td><td>15</td></tr><tr><td>预混料 Premixl)</td><td>4</td><td>4</td><td>4</td><td>4</td></tr><tr><td>苜蓿草粉 Alfalfa meal</td><td>10</td><td>10</td><td>10</td><td>10</td></tr><tr><td>合计Total</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>营养水平 Nutrient levels²)</td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>86.59</td><td>86.50</td><td>87.35</td><td>87.25</td></tr><tr><td>粗蛋白质 CP</td><td>20.80</td><td>16.35</td><td>20.68</td><td>16.10</td></tr><tr><td>代谢能ME/(MJ/kg)</td><td>10.59</td><td>10.61</td><td>8.52</td><td>8.52</td></tr><tr><td>粗脂肪 EE</td><td>2.89</td><td>3.12</td><td>2.67</td><td>2.83</td></tr><tr><td>粗灰分 Ash</td><td>9.71</td><td>9.82</td><td>9.85</td><td>9.82</td></tr><tr><td>粗纤维CF</td><td>5.03</td><td>4.87</td><td>10.45</td><td>10.13</td></tr><tr><td>钙Ca</td><td>0.41</td><td>0.40</td><td>0.51</td><td>0.46</td></tr><tr><td>磷P</td><td>0.24</td><td>0.21</td><td>0.26</td><td>0.22</td></tr></table></body></html>
+
+1预混料为每千克开食料提供 The premix provided the folowing per kg of starters：VA12 000 IU，VD 2000 IU，VE 30 IU, $\mathrm { C u } 1 2 \mathrm { m g }$ ，Fe $6 4 ~ \mathrm { m g }$ ， $\mathrm { M n } 5 6 \mathrm { m g }$ ， $\mathrm { Z n 6 0 ~ m g }$ ， $\mathrm { ~ I ~ } 1 . 2 \ : \mathrm { m g }$ ，Se $0 . 4 ~ \mathrm { m g }$ ， $\mathrm { C o } 0 . 4 \ : \mathrm { m g }$ ，Ca $3 . 2 \ \mathrm { g }$ （204 $\mathrm { ~ P ~ l ~ } . 2 \mathrm { ~ g ~ }$ ，食盐NaCl $6 . 4 ~ \mathrm { g }$ 。
+
+2营养水平除代谢能外均为实测值。代谢能参照《中国饲料成分及营养价值表(2012)》及《肉羊饲养标 准》(NY/T 816-2004)[11]计算。Nutrient levels were measured values except ME. ME was calculated according to TablesofFeed Composition and Nutritive Values in China 2012 and Feeding Standard of Sheep (NY/T816-2004) [11].
+
+# 1.2 饲养管理
+
+试验羔羊17日龄之前随母哺乳，17日龄开始由随母哺乳逐渐过渡为饲喂代乳品，到 20日龄羔羊完全断掉母乳改为饲喂代乳品，在 21\~50 日龄和 51\~60 日龄期间，代乳品的饲喂量分别以羔羊体重的 $2 . 0 \%$ 和 $1 . 5 \%$ 为标准。21\~30日龄每日饲喂3次（08:00、12:00、18:00)，31\~60 日龄每日饲喂2次（09:00、18:00)。同时试验羔羊于17日龄开始补饲开食料。试验羔羊于试验前打好耳号，按照羊场日常程序进行免疫。羊舍为半开放式暖棚，通风良好，每隔半月带羊消毒1次（ $0 . 5 \%$ 百毒杀、 $0 . 1 \%$ 新洁尔灭)。
+
+1.3样品采集与测定方法
+
+# 1.3.1代乳粉及开食料采食量及营养水平
+
+准确称量并记录羔羊代乳品的采食量。开食料饲喂前准确记录羔羊的投料量和前1d的剩料量，计算羔羊采食量，并采集饲料样和剩料样。代谢能使用Parr-6400 氧弹量热仪测定；粗蛋白质含量采用KDY-9830全自动凯氏定氮仪测定；干物质、粗脂肪、粗灰分、粗纤维及钙、磷含量参考《饲料分析及饲料质量检测技术》[12]测定。
+
+# 1.3.2 肠道组织形态
+
+于羔羊40日龄和60 日龄时每重复选取健康、接近平均体重的1只羔羊进行屠宰，公母各占1/2。屠宰后迅速分离小肠各段，去除内容物洗净，称取各段肠道重量。从十二指肠、空肠、回肠中间部位取 $2 \mathrm { c m }$ ，组织固定液（ $40 \%$ 甲醛 $1 2 0 ~ \mathrm { m L } ,$ 蒸馏水 $8 8 0 ~ \mathrm { m L }$ ， $\mathrm { N a H _ { 2 } P O _ { 4 } \bullet H _ { 2 } O }$ 4g， $\mathrm { N a _ { 2 } H P O _ { 4 } } \ 1 3 \ \mathrm { g }$ ）中充分固定，常规酒精脱水后石蜡切片包埋，切片厚度 $6 ~ { \mu \mathrm { m } }$ 。经苏木精-伊红（HE）染色后在光镜下观察小肠的黏膜形态结构。采用 Image-Pro Express 图像分析处理系统，每个样品观察 3张不连续性切片，测量视野中最长的绒毛高度（villus height,V)、隐窝深度（cryptdepth，C)，每张切片中至少选取5个视野进行计量，测量后计算出平均值作为测定数据。
+
+# 1.3.3血清胰岛素样生长因子（IGF-1）和胰高血糖素样肽（GLP-2）浓度
+
+在羔羊20日龄、40 日龄和60日龄晨饲（09:00）前进行颈静脉采血，所采集血液置于含有二氧化硅的促凝管内，静置 $3 0 \mathrm { m i n }$ 后以离心力 $1 3 5 8 \times g$ 离心 $1 5 \mathrm { m i n }$ ，收集血清， $- 2 0 \mathrm { ~ \textdegree ~ }$ 保存待测。IGF-1和GLP-2浓度采用羊酶联免疫吸附测定（ELISA）试剂盒[卡迈舒（上海)有限公司]测定，严格按照说明书操作。
+
+# 1.4统计方法
+
+试验数据经过Excel处理后，采用 SAS8.1统计软件进行分析，使用ANOVA 模型进行统计分析，差异显著使用Duncan 氏法进行多重比较。所有数据均以 $P { < } 0 . 0 5$ 作为差异显著判断的标准。
+
+# 2结果与分析
+
+2.1饲粮营养限制对羔羊生长性能和采食量的影响
+
+从表3可以看出，PR组、ER 组和 BR 组羔羊21\~40 日龄和41\~60 日龄的平均日增重低于CON组（ $P { < } 0 . 0 5 \rangle$ 。各阶段，4组羔羊代乳品采食量一致，开食料采食量差异不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { , } }$ 。PR组羔羊代谢能采食量与CON 组差异不显著（ $\cdot P { > } 0 . 0 5 )$ ，ER组、BR 组显著低于CON组( $_ { , P < 0 . 0 5 ) }$ ，同时PR组、BR 组羔羊粗蛋白质采食量显著低于CON 组( $. P { < } 0 . 0 5 )$ ，ER 组与CON 组差异不显著（ $P { > } 0 . 0 5 )$ 。平均日增重和采食量结果符合试验设计要求。
+
+Table 3Efects of dietary nutrition restrictions on growth performance and feed intakes of lambs   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">日龄 Days of age</td><td colspan="4">组别 Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>CON</td><td>PR</td><td>ER</td><td>BR</td></tr><tr><td>平均日增重</td><td>21~40</td><td>163.80a</td><td>121.87b</td><td>150.26ab</td><td>118.62b</td><td>7.00</td><td>0.037 5</td></tr><tr><td>ADG/(g/d)</td><td>41~60</td><td>293.80a</td><td>251.23b</td><td>245.19b</td><td>218.47c</td><td>2.89</td><td><0.000 1</td></tr><tr><td></td><td>21~60</td><td>228.80a</td><td>186.56b</td><td>197.72b</td><td>168.55c</td><td>6.19</td><td><0.000 1</td></tr><tr><td>代乳品采食量 Milk</td><td>21~40</td><td>129.25</td><td>129.25</td><td>129.25</td><td>129.25</td><td></td><td></td></tr><tr><td>replacers intake/(g/d)</td><td>41~60</td><td>180.00</td><td>180.00</td><td>180.00</td><td>180.00</td><td></td><td></td></tr><tr><td></td><td>21~60</td><td>154.63</td><td>154.63</td><td>154.63</td><td>154.63</td><td></td><td></td></tr><tr><td rowspan="3">开食料采食量 Starter intake/(g/d)</td><td>21~40</td><td>159.25</td><td>160.50</td><td>160.76</td><td>169.25</td><td>6.92</td><td>0.677 4</td></tr><tr><td>41~60</td><td>492.67</td><td>484.01</td><td>505.20</td><td>479.78</td><td>5.58</td><td>0.391 9</td></tr><tr><td>21~60</td><td>325.96</td><td>322.26</td><td>337.22</td><td>320.26</td><td>3.36</td><td>0.314 8</td></tr><tr><td rowspan="3">代谢能采食量 ME intake/(MJ/kg)</td><td>21~40</td><td>36.03a</td><td>35.28a</td><td>30.64b</td><td>29.22b</td><td>0.79</td><td><0.000 1</td></tr><tr><td>41~60</td><td>80.19a</td><td>76.62a</td><td>66.69b</td><td>62.76b</td><td>1.88</td><td><0.000 1</td></tr><tr><td>21~60</td><td>57.57a</td><td>55.44a</td><td>48.23b</td><td>45.58b</td><td>1.32</td><td><0.000 1</td></tr><tr><td>粗蛋白采食量 CP</td><td>21~40</td><td>64.42a</td><td>49.68b</td><td>66.60a</td><td>49.46b</td><td>2.14</td><td><0.000 1</td></tr><tr><td rowspan="2">intake/(g/d)</td><td>41~60</td><td>148.65a</td><td>111.53b</td><td>151.07a</td><td>110.58b</td><td>5.08</td><td><0.000 1</td></tr><tr><td>21~60</td><td>106.38a</td><td>79.85b</td><td>107.80a</td><td>79.28b</td><td>3.61</td><td><0.000 1</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著（ $\scriptstyle \cdot < 0 . 0 5$ )。下表同。
+
+In the same row,values with different letter superscripts mean significant different $( P { < } 0 . 0 5 )$ .The same as below.
+
+2.2饲粮营养限制对羔羊肠道重量的影响
+
+从表4可以看出，PR组、ER 组和 BR 组羔羊40 日龄空肠、小肠重量显著低于CON 组L $_ { . P < 0 . 0 5 ) }$ ，十二指肠、回肠重量4组间无显著性差异（ $_ { , P > 0 . 0 5 ) }$ 。ER 组羔羊60日龄空肠、回肠和小肠重量显著低于CON 组、PR组、BR组（ $\scriptstyle P < 0 . 0 5 .$ ）
+
+表3饲粮营养限制对羔羊生长性能和采食量的影响  
+表4饲粮营养限制对羔羊小肠重量的影响  
+Table 4Effects of dietary nutrition restrictions on small intestine weight of lambs g   
+
+<html><body><table><tr><td>项目Items</td><td>组别Groups</td><td>SEM</td><td>P值</td></tr><tr><td></td><td>5</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>CON</td><td>PR</td><td>ER</td><td>BR</td><td></td><td>P-value</td></tr><tr><td>40日龄 40 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>十二指肠 Duodenum/</td><td>14.75</td><td>10.15</td><td>11.27</td><td>11.08</td><td>0.87</td><td>0.3056</td></tr><tr><td>空肠 Jejunum</td><td>406.16a</td><td>307.38b</td><td>267.99b</td><td>265.19b</td><td>18.72</td><td>0.0182</td></tr><tr><td>回肠Ileum</td><td>53.05</td><td>34.78</td><td>36.47</td><td>38.96</td><td>3.67</td><td>0.3722</td></tr><tr><td>小肠 Small intestine</td><td>484.51a</td><td>347.35b</td><td>321.57b</td><td>323.12b</td><td>23.37</td><td>0.0046</td></tr><tr><td>60 日龄 60 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>十二指肠 Duodenum</td><td>14.78</td><td>12.43</td><td>9.28</td><td>13.03</td><td>0.77</td><td>0.0693</td></tr><tr><td>空肠 Jejunum</td><td>504.19a</td><td>480.25a</td><td>390.11b</td><td>461.49a</td><td>19.58</td><td>0.0412</td></tr><tr><td>回肠Ileum</td><td>65.88a</td><td>53.96a</td><td>37.16b</td><td>59.77a</td><td>3.81</td><td>0.0422</td></tr><tr><td>小肠 Small intestine</td><td>598.08a</td><td>563.48a</td><td>441.65b</td><td>537.55a</td><td>22.80</td><td>0.0062</td></tr></table></body></html>
+
+2.3饲粮营养限制对羔羊肠道组织形态的影响
+
+从表5可以看出，PR组、ER组、BR组40日龄十二指肠、空肠绒毛高度及60日龄十二指肠绒毛高度显著低于CON 组（ $( P { < } 0 . 0 5 )$ ，ER组、BR组60日龄空肠绒毛高度显著低于CON组（ $_ { \cdot P < 0 . 0 5 ) }$ ，40日龄和60日龄回肠绒毛高度组间无显著性差异（ ${ \mathrm { ( } } P { \mathrm { > } } 0 . 0 5 { \mathrm { ) } }$ 。十二指肠隐窝深度在40日龄时4组间无显著性差异（ $( P { > } 0 . 0 5 )$ ，到60 日龄ER组、BR 组显著低于CON组（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )，同时BR组显著低于PR组（ $_ { . P < 0 . 0 5 ) }$ ）。
+
+PR 组、ER 组、BR 组空肠隐窝深度在2个日龄阶段均显著低于CON 组（ $( P { < } 0 . 0 5 )$ ，ER组、BR组40日龄回肠隐窝深度显著低于CON 组（ $\scriptstyle \cdot - 0 . 0 5$ )，PR组、ER组、BR组60日龄回肠隐窝深度显著低于CON 组（ $\scriptstyle \cdot { P < 0 . 0 5 }$ )。PR 组、BR 组、ER 组40 日龄十二指肠绒毛高度/隐窝深度(V/C)显著低于CON 组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )，其他各组40日龄、60日龄各肠道组织间无显著性差异（ $_ { . P > 0 . 0 5 ) }$ ）。
+
+表5饲粮营养限制对羔羊小肠组织形态的影响  
+Table 5Effects of dietary nutrition restrictions on morphology of small intestine of lambs   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2"></td><td colspan="4">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>CON</td><td>PR</td><td>ER</td><td>BR</td></tr><tr><td>40 日龄 40 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>绒毛高度</td><td>十二指肠 Duodenum</td><td>925.54a</td><td>616.58b</td><td>726.03b</td><td>682.05b</td><td>38.09</td><td>0.009 3</td></tr><tr><td>Villus height/um</td><td>空肠 Jejunum</td><td>603.46a</td><td>458.43b</td><td>479.60b</td><td>441.38b</td><td>21.52</td><td>0.013 9</td></tr><tr><td></td><td>回肠Ileum</td><td>350.31</td><td>312.95</td><td>316.01</td><td>345.33</td><td>15.53</td><td>0.8148</td></tr><tr><td>隐窝深度</td><td>十二指肠 Duodenum</td><td>298.42</td><td>299.21</td><td>281.04</td><td>258.85</td><td>11.97</td><td>0.672 1</td></tr><tr><td>Crypt depth/μm</td><td>空肠 Jejunum</td><td>281.27a</td><td>245.85b</td><td>204.83c</td><td>220.24bc</td><td>8.68</td><td>0.0013</td></tr><tr><td></td><td>回肠Ileum</td><td>267.86a</td><td>229.78ab</td><td>193.99b</td><td>178.72b</td><td>12.18</td><td>0.032 3</td></tr><tr><td rowspan="3">绒毛高度/隐窝深度 V/C</td><td>十二指肠 Duodenum</td><td>3.18a</td><td>2.29b</td><td>1.94b</td><td>2.53b</td><td>0.15</td><td>0.005 9</td></tr><tr><td>空肠 Jejunum</td><td>2.57</td><td>2.08</td><td>1.80</td><td>1.99</td><td>0.11</td><td>0.0878</td></tr><tr><td>回肠Ileum</td><td>1.57</td><td>1.67</td><td>1.38</td><td>1.81</td><td>0.07</td><td>0.2601</td></tr><tr><td>60 日龄 60 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>绒毛高度 Villus height/um</td><td>十二指肠 Duodenum</td><td>1032.40a</td><td>763.81b</td><td>660.51bc</td><td>569.02c</td><td>57.61</td><td>0.013 5</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="7">隐窝深度 Crypt depth/μm</td><td>空肠 Jejunum</td><td>624.20a</td><td>561.95b</td><td>552.72b</td><td>462.78b</td><td>21.43</td><td>0.043 9</td></tr><tr><td>回肠Ileum</td><td>267.98</td><td>233.13</td><td>227.59</td><td>225.38</td><td>12.43</td><td>0.647 1</td></tr><tr><td>十二指肠 Duodenum</td><td>332.63a</td><td>300.50ab</td><td>286.68bc</td><td>259.06c</td><td>8.90</td><td>0.009 0</td></tr><tr><td>空肠 Jejunum</td><td>300.11a</td><td>261.94b</td><td>227.38b</td><td>200.71b</td><td>13.19</td><td>0.032 3</td></tr><tr><td>回肠Ileum</td><td>267.86a</td><td>229.78b</td><td>193.99b</td><td>178.72b</td><td>12.42</td><td>0.032 3</td></tr><tr><td>十二指肠 Duodenum</td><td>3.17</td><td>2.55</td><td>2.19</td><td>2.49</td><td>0.14</td><td>0.082 0</td></tr><tr><td>空肠 Jejunum 回肠Ileum</td><td>2.49 1.43</td><td>2.18 1.57</td><td>2.46 1.79</td><td>1.90 1.60</td><td>0.11 0.08</td><td>0.212 3 0.563 1</td></tr></table></body></html>
+
+128 羔羊空肠绒毛形态见图1。CON 组羔羊空肠绒毛外形纤细呈现指状，发育良好，PR 组   
+129 羔羊空肠绒毛出现黏连，形状不规则，而 ER组、BR 组空肠绒毛上皮脱落严重，形状不规   
+130 则。
+
+a:CON组（40日龄)；b：PR组（40日龄)；c：ER组（40日龄)；d:BR组（40日龄)；e：CON且（60 日龄)；f:PR组(60 日龄)；g：ER组(60日龄)；h:BR组(60日龄)。
+
+a: CON group (40 days of age)； b: PR group (40 days ofage)； c: ER group (40 days of age);d:BR group (40 days ofage)； e: CON group (60 days ofage)； f: PR group (60 days ofage)； g:ER group （60 days of age)； h: BR group （60 days ofage）.
+
+![](images/6fa37134db3758509ea7cf0499a4f0d9fb807197428e932630cd9f6b50ecbd44.jpg)  
+图1羔羊空肠绒毛形态  
+Fig.1Villas morphology of jejunum of lambs $( 4 0 \times )$ （204号
+
+2.4饲粮营养限制对羔羊血清IGF-1、GLP-2浓度的影响
+
+从表6可以看出，4组羔羊血清IGF-1浓度差异不显著（ $. P { > } 0 . 0 5 \$ )。4组羔羊20日龄和40日龄血清GLP-2浓度差异不显著（ $\scriptstyle P > 0 . 0 5 .$ )，ER组60日龄血清GLP-2 浓度显著低于其他3组（ $. P { < } 0 . 0 5$ )。血清中IGF-1和GLP-2 浓度随日龄增长显著降低（ $. P { < } 0 . 0 5 )$ 。
+
+表6饲粮营养限制对湖羊羔羊血清IGF-1和GLP-2浓度的影响
+
+Table 6Efects of dietary nutrition restrictions on concentrations ofIGF-1 and GLP-2 in serum of lambs
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>CON</td><td>PR</td><td>ER</td><td>BR</td></tr><tr><td>胰岛素样生长因子-1IGF-1/(ng/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>20日龄 20 days of age</td><td>7.66</td><td>7.65</td><td>7.27</td><td>7.64</td><td>0.28</td><td>0.913 0</td></tr><tr><td>40日龄 40 days of age</td><td>6.92</td><td>6.88</td><td>6.97</td><td>6.82</td><td>0.27</td><td>0.849 9</td></tr><tr><td>60 日龄 60 days of age</td><td>6.30</td><td>4.76</td><td>5.04</td><td>5.28</td><td>0.21</td><td>0.118 7</td></tr><tr><td>P值P-value</td><td><0.000 1</td><td><0.000 1</td><td><0.000 1</td><td><0.000 1</td><td></td><td></td></tr><tr><td>胰高血糖素样-2 GLP-2/(pg/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>20日龄 20 days of age</td><td>349.01</td><td>347.33</td><td>352.07</td><td>357.94</td><td>3.81</td><td>0.540 6</td></tr><tr><td>40 日龄 40 days of age</td><td>306.25</td><td>306.03</td><td>304.90</td><td>297.00</td><td>4.39</td><td>0.602 3</td></tr><tr><td>60 日龄 60 days of age</td><td>229.07a</td><td>230.88a</td><td>186.64b</td><td>226.14a</td><td>8.90</td><td>0.014 2</td></tr><tr><td>P值 P-value</td><td><0.000 1</td><td><0.000 1</td><td><0.000 1</td><td><0.000 1</td><td></td><td></td></tr></table></body></html>
+
+146 3讨论
+
+# 3.1饲粮营养限制对羔羊肠道重量的影响
+
+小肠重量每增加 $\mathrm { ~ 1 ~ g ~ }$ 就会使动物维持需要增加 $2 9 0 { \sim } 3 5 0 \ \mathrm { g } / \mathrm { d } ^ { [ 1 3 ] }$ ，当羔羊营养需要尤其是能量得不到满足时，机体减少内脏器官维持需要用于生长。本试验 BR 组降低了40 日龄羔羊小肠重量，尤其是空肠重；但是60 日龄羔羊小肠重量低于CON 组，差异不显著。营养限制对小肠重量结果不一致的原因，可能是由于随着羔羊体重增加用于维持的营养物质增加，剩余的营养物质致使小肠增重不显著。Li等[14]研究表明， $40 \%$ 的蛋白质限制、 $20 \%$ 的能量限制不会降低断奶羔羊小肠重量。不同的试验研究结果不一致可能是由于对照组羔羊营养水平设置不一致导致限制组营养水平不同，如本研究中相对于平均日增重 $3 0 0 \ \mathrm { g / d }$ ，而Li等[14]研究中相对于平均日增重 $1 4 5 \mathrm { \ g / d }$ 。降低反刍动物饲粮的能量水平，降低了植物蛋白质转化为瘤胃微生物蛋白质的效率，而高蛋白质植物饲粮含有抗营养因子易引起肠道损伤[15-17]。所以ER 组小肠重量始终低于CON组，60 日龄时显著低于BR组。王波等[18]研究中与本试验进行相同的饲养管理，采食 $8 0 . 5 8 ~ \mathrm { g / d }$ 蛋白质的羔羊小肠重量显著低于采食 $1 1 7 . 8 2 \mathrm { g / d }$ ，与本试验PR 组研究结果不一致。王波等[18研究中，羔羊具有不同水平的采食量，而本试验中羔羊具有相同的采食量，因此，更加有力地证明了本试验中进行蛋白质限制不会引起小肠重量的改变。因此，相对于限制蛋白质，限饲能量更能够降低羔羊小肠重量，引起肠道损伤。
+
+# 3.2饲粮营养限制对羔羊肠道组织形态发育的影响
+
+绒毛高度是细胞增殖的结果，绒毛高度增加可增加肠道吸收面积。研究表明，限制 $40 \%$ 满足母羊正常需要的营养水平显著降低了母羊肠道绒毛高度、限制了后代羔羊肠道发育[19];在放牧条件下增加补饲可以提高断奶特牛的小肠绒毛高度，促进肠道发育[20]。本试验在满足羔羊平均日增重 $3 0 0 \mathrm { g / d }$ 基础上进行 $20 \%$ 能量和蛋白质同时限制显著降低了羔羊十二指肠、空肠的绒毛高度，与 Sun 等[21]有一致的结果。但是 Sun 等[21]研究中，蛋白质或能量限制对肠道绒毛高度无显著影响，与本试验结果不一致。出现结果不一致的原因，一方面可能是肠道组织形态发育受代谢类型的影响[22]，与羔羊品种有关；另一方面可能与瘤胃发育程度有关，Sun 等[21研究中瘤胃已发育成熟，本试验中羔羊瘤胃处于非反刍向反刍的过渡阶段，部分饲粮对肠道有直接刺激作用。蛋白质限制、能量限制降低肠道绒毛高度，主要是限制了小肠细胞的肥大和增殖，降低饲粮能量或蛋白质水平可以降低小肠组织钠，钾-ATP 酶的活性[23-24]。钠，钾-ATP 酶是主动跨膜转运钠钾离子的载体蛋白，其活性的升高可以促进正常细胞的肥大和增殖。
+
+隐窝内的未分化细胞是肠腺和绒毛上皮细胞的再生来源，未分化细胞的数量及所在位置的深浅对于保持肠绒毛的完整形态和正常进机能有重要作用。Li等[14]报道对断奶羔羊进行营养限制降低了羔羊空肠隐窝深度。本试验中营养限制组羔羊小肠各段隐窝深度低于CON组，以BR 组空肠段隐窝深度最低，这与Reed 等[4]报道限制母羊妊娠期间营养水平可以显著降低出生羔羊空肠隐窝细胞面积和总蛋白质的合成有一致的结果。当肠道黏膜受到损伤时表现为绒毛变短，隐窝深度增加。本研究中可以发现，绒毛高度、隐窝深度有一致的变化，因此可以推测本试验中隐窝深度增加并不是由于细胞增殖引起，可能是由于细胞增殖，细胞数量增多引起，但是这需要进一步研究。Montanholi等[25]认为，降低饲料转化率可以降低隐窝内细胞的数量。本研究中羔羊具有相近的采食量，且PR组、ER 组、BR 组羔羊饲料转化率低于CON 组，以BR 组最低，隐窝深度也以BR 组最低。但是 Sun等[21报道对3月龄断奶羔羊进行 $4 8 \mathrm { d }$ 的 $40 \%$ 营养限制（相对于平均日增重 $1 5 0 \ \mathrm { g / d } ^ { \cdot }$ ）不会降低肠道隐窝深度，与本试验结果不一致，可能是由羊只品种、日龄、试验饲料原料以及饲养管理不同引起。V/C综合反映小肠的功能状态，比值下降表示消化吸收功能下降，常伴随腹泻的发生，比值上升表示消化吸收功能增强，腹泻率降低。本试验BR 组羔羊空肠V/C 最低，观察发现BR 组羔羊更容易发生腹泻。
+
+# 3.3饲粮营养限制对羔羊血清IGF-1浓度的影响
+
+IGF-1在反刍动物的体液内广泛存在，它能促进机体、器官、组织的生长发育。研究表明，蛋白质和能量都会影响血清中IGF-1的浓度。闫云峰等[26]报道了饲粮蛋白质水平( $1 5 \%$ 、$1 8 \%$ 、 $21 \%$ ）与血清IGF-1存在正相关，与Pell等[27]报道有一致结果。但是 Sun 等[2]报道能量限制、蛋白质限制不会降低断奶羔羊血清中IGF-1浓度，但是能量和蛋白质同时限制可显著降低血清中IGF-1浓度。本试验中营养限制降低了20日龄、40 日龄、60 日龄羔羊血清IGF-1浓度，差异不显著。饲粮营养不足的情况下，机体为了适应外界环境造成的影响，通过内分泌激素的分泌来调节动物的生长，主要是通过抑制生长抑素的分泌，增加生长激素的分泌，进而可以提高IGF-1的浓度。但是当营养限制严重时会降低肝脏生长激素受体（GHR）的表达，降低了IGF-1的分泌。本试验以及 Sun 等[]试验中，能量限制组或蛋白质限制组中饲粮营养限制后的水平处于营养不足的情况，但是又不足引起肝脏GHR表达的降低，但同时进行能量和蛋白质限制可能会引起肝脏GHR 基因表达量降低[28]。因此，营养限制不能引起羔羊血清中 IGF-1 浓度的降低。Lu 等[29]报道研究表明，IGF-1 参与上皮细胞增殖的过程。本试验中营养限制降低了羔羊肠道绒毛高度、隐窝深度，但是血清中IGF-1浓度无显著性差异，可能是由于IGF-1并不是唯一促进肠道组织形态发育的激素。
+
+3.4饲粮营养限制对羔羊血清GLP-2浓度的影响
+
+IGF-1对维持肠道发育起重要作用，但并非是肠上皮细胞特异的，而GLP-2是肠上皮细胞特异性促进因子。研究表明，要维持GLP-2的正常分泌水平，胃肠道摄入的营养物质至少要占总摄入营养物质的 $4 0 \% [ 3 0 - 3 1 ]$ 。本试验中 ER 组羔羊 60 日龄血清GLP-2 浓度显著低于CON 组，但是40日龄时差异不显著。与王纯刚[32在仔猪上的研究报道一致，饲粮短时间的改变对血清GLP-2浓度变化轻微，Gorka 等[3]研究表明，长期（29 d）保持较高浓度的采食量可增加血清中GLP-2 的浓度。因此，短时间能量限制不会显著降低羔羊血清GLP-2 的浓度。在大鼠[34]上研究可得GLP-2 激素可以促进肠道黏膜损伤的修复，Jin等[35]认为断奶仔猪肠道绒毛高度与血清中GLP-2 的浓度高度相关。观察肠道绒毛形态并结合肠道重量发现，ER 组肠道绒毛脱落现象严重，绒毛较短，同时ER组羔羊小肠重量低于显著低于CON 组，可以肯定羔羊小肠的发育与GLP-2浓度有关。本试验中营养限制抑制了肠道组织形态发育，但是仅ER 组羔羊60 日龄血清中GLP-2 浓度低于CON 组。因此，需要进一步研究营养限制对血清中GLP-2浓度的影响或对GLP-2基因表达量的影响，尤其是蛋白质限制。
+
+4结论
+
+$\textcircled{1}$ 营养限制降低了40日龄羔羊小肠重量，抑制了十二指肠、空肠组织形态的发育，以   
+能量限制抑制最为严重。 $\textcircled{2}$ 能量限制降低了羔羊60 日龄血清GLP-2浓度，对血清IGF-1浓度无显著影响。   
+参考文献:   
+[1] WEBSTER A JF.Energy costs of digestion and metabolism in the gut[M]//RUCKEBUSCH Y,THIVEND P. Digestive physiology and metabolism in ruminants,Netherlands:Springer,1980.   
+[2] SUN Z H,HE Z X,ZHANG QL,et al.Effects of protein and/or energy restriction for six weeks
+
+on antioxidation capacity of plasma and gastrointestinal epithelial tissues of weaned kids[J].Livestock Science,2012,149(3):232-241.
+
+[3] MEYER A M,REED J J,NEVILLE T L,et al.Effects of nutritional plane and selenium supply during gestation on visceral organ mass and indices of intestinal growth and vascularity in primiparousewesat parturition and during early lactation[J].Journal of Animal Science,2012,90(8):2733-2749.   
+[4] REED J J,WARD M A,VONNAHME K A,et al.Effects of selenium supply and dietary restriction on maternal and fetal body weight,visceral organ mass and celllarity estimates,andjejunalvascularityinpregnantewelambs[J].JournalofAnimal Science,2007,85(10):2721-2733.   
+[5] TAYLOR-EDWARDS C C,BURRIN D G,MATTHEWS J C,et al.Expresson of mRNA for proglucagon and glucagon-like peptide-2 (GLP-2） receptor in the ruminant gastrointestinal tract and the influence of energy intake[J].Domestic Animal Endocrinology,2010,39(3):181- 193.   
+[6] TAYLOR-EDWARDS C C,BURRIN D G,HOLST J J,et al.Glucagon-like peptide-2 (GLP-2) increases smal intestinal blood flow and mucosal growth in ruminating calves[J].Journal of Dairy Science,2011,94(2):888-898.   
+[7] YUNUSOVA R D,NEVILLE T L,VONNAHME K A,et al.Impacts of maternal selenium supply and nutritional plane on visceral tissues and intestinal biology in 180-day-old offspring in sheep[J].Journal of Animal Science,2013,91(5):2229-2242.   
+[8] 杨诗兴,彭大惠,张文远,等.湖羊能量与蛋白质需要量的研究[J].中国农业科 学,1988,21(2):73-80.   
+[9]屠焰,刁其玉,岳喜新.一种 0\~3 月龄羔羊的代乳品及其制备方法:中国,102894218A [P].2013-01-30.   
+[10]王桂秋.营养水平对羔羊物质消化的影响及羔羊早期断奶时间的研究[D].硕士学位论文. 北京:中国农业科学院,2005.   
+[11]中华人民共和国农业部.NY/T816-2004 肉羊饲养标准[S].北京:中国农业出版社,2004.   
+[12] 张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003.   
+[13] CANT JP,MCBRIDE B W,CROOM W J.The regulation of intestinal metabolism and its impact on whole animal energetics[J].Journal of Animal Science,1996,74(10):2541-
+
+2553.
+
+[14] LI D B,LIU X G,ZHANG C Z,et al.Effects of nutrient restriction followed by realimentation on growth,visceral organ mass,celllarity,and jejunal morphology in lambs[J].Livestock Science,2015,173:24-31.
+
+[15]NELSOND L,COX M M.Lehninger:principlesof biochemistry[M].4th ed.New York:W.H.Freeman,2005.
+
+[16] MILLER B G,NEWBY T J,STOKES C R,et al.The importance of dietary antigen in the cause of postweaning diarrhea in pigs[J].American Journal of Veterinary Research,1984,45(9):1730-1773.
+
+[17] EARLY R J,MAHGOUB O,LU C D.Energy and protein utilization for maintenance and growth in Omani ram lambs in hot climates.I1.Composition of tissue growth and nitrogen metabolism[J].Journal of Agricultural Science,2001,136(6):461-470.
+
+[18]王波,柴建民,王海超,等.蛋白质水平对湖羊双胞胎公羔生长发育及肉品质的影响[J].动物营养学报,2015,27(9):2724-2735.
+
+[19]CATON J S,REED J J,AITKEN R P,et al.Effects of maternal nutrition and stage of gestation on bodyweight,visceralorganmass,andindicesofjejunal cellularity,proliferation,and vascularity in pregnant ewe lambs[J].Journal of Animal Science,2008,87(1):222-235.
+
+[20] AZIM A,KHAN A G,ANJUM M I,et al.Effect of milk replacer and early weaning diets on growth performance of buffalo calves during weaning period[J].Pakistan Veterinary Journal,2011,31(1):23-26.
+
+[21] SUN Z H,HE Z X,ZHANG Q L,et al.Effects of energy and protein restriction,followed by nutritional recovery on morphological development of the gastrointestinal tract of weaned kids[J].Journal of Animal Science,2013,91(9):4336-4344.
+
+[22] ZITNAN R,VOIGT J, KUHLA S,et al.Morphology of small intestinal mucosa and intestinal weight change with metabolic type of catle[J].Veterinarni Medicina,2008,53(10):525-532.   
+[23] WANG Y J,HOLLIGAN S,SALIM H,et al.Effect of dietary crude protein level on visceral organ mass,cellularity,and the protein expression of ATP synthase, $\mathrm { { N a ^ { + } / K ^ { + } } }$ ATPase,proliferating cell nuclear antigen and ubiquitinin feedlot steers[J].Canadian Journal of Animal Science,2009,89(4):493-501.
+
+[24] MCLEOD K R,BALDWIN R L.Effects of diet forage:concentrate ratio and metabolizable energy intake on visceral organ growth and in vitro oxidative capacity of gut tissues in sheep[J].Journal of Animal Science,2000,78(3):760-770.
+
+[25] MONTANHOLI Y,FONTOURA A,SWANSON K,et al.Small intestine histomorphometry of beef cattle with divergent feed efficiency[J].Acta Veterinaria Scandinavica,2O13,55(1):9.
+
+[26] 闫云峰,杨华,杨永林,等.日粮不同蛋白质水平对绵羊IGF-1 和GH分泌及基因表达的影响[J].畜牧兽医学报,2015,46(1):85-95.
+
+[27] PELL JM,SAUNDERS J C,GILMOUR R S.Differential regulation of transcription initiation from insulin-like growth factor-I (IGF-I) leader exons and of tissue IGF-I expression in response to changedgrowth hormone and nutritional status in sheep[J].Endocrinology,1993,132(4):1797-1807.
+
+[28] 张庆丽.早期能量与蛋白限制饲养对1月龄断奶羔羊胃肠道发育的影响[D].硕士学位论文.杨凌:西北农林科技大学,2010
+
+[29]LU J,ZHAO H,XU J,et al.Elevated cyclin D1 expression is governed by plasma IGF-1 through Ras/Raf/MEK/ERK pathway in rumen epithelium of goats supplying a high metabolizable energy diet[J].JournalofAnimalPhysiologyandAnimal Nutrition,2013,97(6):1170-1178.
+
+[30] BURRIN B,STOLL B, JIANG R H,et al.Minimal enteral nutrient requirements for intestinal growth in neonatal piglets:how much is enough?[J].American Journal of Clinical Nutrition,2000,71(6):1603-1610.
+
+[3 1] BURRIN D,GUAN X F,STOLL B,et al.Glucagon-like peptide 2:a key link between nutrition and intestinal adaptation in neonates?[J].Journal of Nutrition,2003,133(11):3712-3716.
+
+32]王纯刚.鱼粉与丁酸钠对断奶仔猪生长、肠道发育和胰高血糖素样肽-2 的影响[D].硕士学位论文.雅安：四川农业大学，2009
+
+[33] GORKA P,KOWALSKI Z M,PIETRZAK P,et al.Effect of method of delivery of sodium butyrate on rumen development in newborncalves[J].Journal of Dairy Science,2011,94(11):5578-5588.
+
+[34]吴杰,齐珂珂,徐子伟,等.猪胰高血糖素样肽-2(pGLP-2)微球的制备及其对结肠炎小鼠肠道损伤修复的研究[J].农业生物技术学报,2014,22(2):150-157.
+
+[35] JIN L,REYNOLDS L P,REDMER D A,et al.Effects of dietary fiber on intestinal growth,cell
+
+proliferation,and morphology in growing pigs[J].Journal of Animal Science,1994,72(9):2270-2278. Effects of Dietary Nutrition Restrictions on Intestinal Morphology and Serum Insulin-Like Growth Factor-1 and Glucagon-Like Peptide-2 Concentrations of Lambs   
+QI Minli1DIAO Qiyu1MA Tiewei² CHAI Jianmin1WANG Bo1 CUIKai1 WANG Jie1 ZHANG Naifengl\*   
+(1. Feed Research Institute of Chinese Academy of Agricultural Sciences, Key Laboratory of Feed Biotechnology of the Ministry of Agriculture, Beijing 100081, China; 2. Nanjing Agricultural University, Nanjing 210000, China)
+
+Abstract: The aim of this study was to assess the effects of dietary nutrition restrictions on intestinal morphology and serum insulin-like growth factor-1 （IGF-1） and glucagon-like peptide-2 （GLP-2） concentrations of lambs. Sixty-four 17-day-old $H u$ lambs were randomly divided into four groups with four replicates per group and four lambs per replicate (half male and half female)， including control (CON） group, $20 \%$ of protein restriction (PR group), $20 \%$ of energy restriction (ER group), and $20 \%$ of energy $+ 2 0 \%$ of protein restriction (BR group). Serum sample was colected at 20， 40 and 60 days of age to determine serum concentrations of GLP-2 and IGF-1. Four lambs of each group were slaughtered at 40 and 60 days of age, respectively, to observer morphological structure of duodenum, jejunum and ileum. The results showed as follows: 1） the weight of small intestine was significantly reduced in PR,ER and BR groups compared with CON group（ $\scriptstyle P < 0 . 0 5 .$ ）,and the reduce of which due to the decline of jejunum weight. 2) villus height of duodenum and jejunum at 40 days of age, and of duodenum at 6O days of age in PR, ER and BR groups was significantly lower than that of CON group( $\scriptstyle { \overrightarrow { P } } < 0 . 0 5 $ ）,villus height of jejunum at 60 days of age in ER and BR groups was significantly lower than that of CON group （ $. P { < } 0 . 0 5 )$ ）. 3) Villus height/crypt depth (V/C) of duodenum at 40 days of age in BR group was significantly reduced compared with CON group（ $\scriptstyle P < 0 . 0 5 .$ ）. 4) Serum concentrations of GLP -2 was significantly reduced in ER group compared with the other groups at 6O days of age （ $\scriptstyle . { P < 0 . 0 5 } .$ ）, but serum IGF-1 concentration was not significantly difered in 4 groups( $_ { . P > 0 . 0 5 ) }$ ： In conclusion, dietary nutrition restrictions reduce morphological development of duodenum and jejunum, and energy restriction reduces serum concentration of GLP-2 in lambs.
+
+Key words: lamb; nutrition restriction; morphology; insulin-like growth factor-1; glucagon-like 347 peptide-2

@@ -1,0 +1,129 @@
+# CN 53-1189/P ISSN 1672-7673
+
+# 基于WEB的MUSER远程监控数据可视化展现方法
+
+周鑫磊，王锋}²，卫守林¹，梅盈，柳翠寅1
+
+1.昆明理工大学云南省计算机技术应用重点实验室，云南 昆明 650500；2.中国科学院云南天文台，云南 昆明 650011)
+
+摘要：天文远程监控是天文研究的重要组成部分。为及时发现由于天气原因、电磁干扰、天线故障等导致的异常数据，提高数据处理的可靠性，我国明安图频谱射电日像仪迫切需要实现实时观测状态的远程监控。提出了一种基于WEBSOCKET技术的远程监控数据的可视化展现方法，并以观测过程中功率图和频谱图的实时展现为例进行了验证。实验表明，方法可满足实时监控数据可视化展现需求，并且改变了传统的现场监控模式，打破了地域限制，具有可靠性高、实时性好和扩充性广等诸多优点，提高了工作效率和设备利用率，对其它远程监控数据可视化展现系统有一定的参考价值。
+
+关键词：远程实时监控；WebSocket；可视化中图分类号：TP3 文献标识码：A 文章编号：1672-7673(2017)02-0236-07
+
+为了推动太阳射电观测技术的发展，由我国天文学家提出明安图射电频谱日像仪（MingantuUltrawide SpEctral Radioheliograph，MUSER，原名为中国频谱射电日像仪，CSRH），可以在厘米-分米波段上对太阳同时进行高空间、高时间和高频率分辨率观测，以更好地研究太阳的动力学性质[1]。明安图射电频谱日像仪是国家天文台明安图观测站的重要组成部分，分为两个综合孔径阵列。第1期MUSER-I低频阵 $\left( 0 . 4 { \sim } 2 \mathrm { G H z } \right)$ 由40面 $4 . 5 \mathrm { m }$ 天线组成，在64个频率上成像；第2期MUSER-Ⅱ高频阵（204 $\left( 2 \sim 1 5 ~ \mathrm { G H z } \right)$ 由60面 $2 \mathrm { m }$ 天线组成，在528个频率上成像。
+
+目前，明安图射电频谱日像仪硬件建设已基本完成，进人实际观测阶段。天文学家通过现场操控观测设备进行观测数据采集、处理和分析。显然，每次观测都需要亲临现场人为操作观测设备，这对天文观测不利。因此，实现远程自动化观测成为当前的重点工作之一。通过远程自动化观测，不需要亲临现场就能进行天文观测，既提高了科研效率又节约了观测成本，对天文观测技术的发展有利。实现远程自动化观测，远程实时观测数据的获取和可视化展现是前提保证。因此，研究如何实现远程实时监控数据可视化展现对于远程实时观测数据的获取和可视化展现具有现实意义，对于实现自动化观测具有重大意义。
+
+# 1天文远程监控可视化现状
+
+传统的网络应用信息交互过程以超文本传输协议（HyperText Transfer Protocol，HTTP）为基础，客户端通过浏览器发出请求，服务器端接收和审核完请求后进行处理并返回结果信息至客户端浏览器，客户端浏览器再将结果信息呈现。该方法实时性较低，已经不能满足数据密集型时代的高速率天文观测数据的需求，保持客户端和服务器端实时快速的信息同步是当前天文观测的关键。
+
+目前，在天文领域，为了实现远程实时通讯，基本采用轮询技术。轮询是在特定的时间间隔（如1秒)，由浏览器对服务器发出请求，后由服务器返回最新的数据给客户端浏览器[2]。这种传统的请求模式具有明显的缺点：浏览器需要不断向服务器发出请求，然而HTTP请求的头部较长，因此会占用较大的带宽。
+
+比较新的实现轮询效果的技术是Comet技术，它一定程度上模拟双向通信，但效率较低，并需要服务器有较好的支持，这种技术虽然可达到全双工通信，但依然需要发出请求，浪费了大量时间和网络吞吐量，加重了服务器端的负担，严重影响了网络远程通讯的实时性。
+
+面对这种状况，WebSocket协议的出现使天文望远镜监控数据远程实时可视化变成可能[3]。WebSocket协议是HTML5定义的一种新的协议，它实现了浏览器与服务器全双工通信①。相比于传统的轮询和Comet技术，WebSocket协议实现服务器和浏览器的全双工通信时，浏览器和服务器只需要做一次握手动作，然后，浏览器和服务器之间建立一条快速通道，两者之间可直接进行数据互相传送。Websocket 协议实现的简单高效的通讯机制打破了传统基于HTTP 请求的通讯模式，使得服务器端可以主动推送数据给浏览器端，保持了服务器端和浏览器端之间信息的同步。同时，Websocket 协议在实现服务器和浏览器建立连接过程的通信头部相比于传统的 HTTP 请求占用资源很少，一般只有2 Bytes 左右，节约了带宽资源。显然，WebSocket 协议实现的全双工通讯机制以及其高效、实时的通讯性能为天文望远镜远程实时监控数据的可视化提供了有力的技术支持[4]
+
+# 2 远程监控数据可视化的实现
+
+# 2.1远程监控数据可视化需求
+
+明安图射电频谱日像仪的远程监控总体框架如图1，由数字接收机接收的数据经过相关预处理后一部分送入高性能分布式集群进行后期成图与太阳活动分析，另一部分则用于观测系统实时监控原始数据。在观测过程中，观测数据通常受多种因素(例如电磁干扰、大气等)的影响。此外，天线跟踪精度故障、馈源故障、通道差错、系统增益等数据接收设备故障也导致观测数据的异常。因此，一种高效实时的远程数据监控系统是数据处理过程中对异常数据标记的重要依据，是后期数据分析可靠性的重要保障。
+
+![](images/965cd25e2e19ecb43eec8342c59c42ea56f1efcdad7894be2e7ceab7aa0144cd.jpg)  
+图1明安图射电频谱日像仪远程监控总体框架图  
+Fig.1System framework diagram of the MUSERRemote Monitor
+
+根据观测要求，在一定的间隔时间内（如低频阵间隔为5s，高频阵为 $1 \mathrm { m i n }$ )对低频阵64个频率的观测数据以及高频528个频率的观测数据进行实时可视化。前期工作实现了观测数据的现场可视化，基于QT的现场观测数据可视化多屏显示原型系统已投入使用[5]。在现场的数据可视化通过数据接收服务器将数据发送到数据监控服务器，通过可视化处理后在显示屏上显示。显然，现场的数据可视化显示不利于观测数据的远程可视化监控。为了有效地对观测数据进行远程实时监控，需要设计一个基于网络的远程数据可视化系统[6]，由数据处理系统定时处理完成的数据通过网络发送到网络可视化服务器，通过可视化网络服务器将数据进行可视化处理，客户机通过网络浏览器进行观测数据远程可视化[7]。
+
+# 2.2 可视化网络服务器设计实现
+
+为实现网络服务器端和浏览器端通过WebSocket协议进行全双工通信，网络服务器端和浏览器端都必须支持WebSocket 协议。就目前而言，主流的浏览器均支持WebSocket协议，因此只需在网络服务器端实现对WebSocket协议的支持。
+
+# 2.2.1 网络框架选择
+
+在当前众多的网络框架中，选型 CherryPy 框架作为可视化服务器端的框架技术支持。CherryPy是一个基于Python 的面向对象的 HTTP 框架，通过将统一资源定位符映射到Python 可调用对象（Python callable)完成 HTTP 请求②。CherryPy框架简单易用，但不支持WebSocket 协议，通过引入ws4py库③实现CherryPy 框架对WebSocket协议的支持。
+
+ws4py 是一个基于Python 编程实现了WebSocket协议的库，它向用户网络程序提供了一个高层次封装且简单的接口，用户的应用程序只需要继承WebSocket父类，根据应用程序的需求重写received_message（self，message）方法来实现网络应用程序对WebSocket协议的支持。
+
+# 2.2.2网络服务器实现
+
+Websocket服务器类关系如图2。在实现Websocket协议时，ws4py提供了一个实现握手协议的接□WebSocket 抽象类。Websocket 类提供了两个虚函数 send（）和 received_message（），使得实现网络应用程序自定义业务逻辑非常简单。具体实现时，定义WebSocketHandle 类继承实现WebSocket类，根据网络业务逻辑需求重写 send(）和 recived_message()方法。
+
+![](images/3f0004273e86869af6b99891060b9fab98dd639d1c9633663800dcc276e58803.jpg)  
+图2Websocket服务器类图  
+Fig.2Calss diagram of Websocket Server
+
+为将 ws4py 库集成到CherryPy 框架，需要实现 CherryPy高层次封装的抽象类 SimplePlugin 类和 Bus 类。
+
+SimplePlugin类：CherryPy框架注册插件的抽象接口；
+
+Bus 类：CherryPy框架内置的一个Pubsub 总线，整个框架运行时管理建立在单个总线实例之上。
+
+为使CherryPy 框架支持WebSocket 协议需实现WebscoketPlugin 类和 Engine类。WebscoketPlugin类继承实现了SimplePlugin类，同时定义了支持Websocket协议的接口，这使得用户自定义实现WebSocket协议成为可能。Engine类继承实现了Bus类，为了和总线协作，Engine类提供了3个总线应用程序编程接口，总线应用程序编程接口函数声明如下：
+
+<html><body><table><tr><td>cherrypy. engine.publish(channel，* args)</td></tr><tr><td>cherrypy.engine.subscribe(channel,callable)</td></tr><tr><td></td></tr><tr><td>cherrypy.engine.unsubscribe(channel，callable)</td></tr></table></body></html>
+
+将 $\mathrm { \ w s 4 p y }$ 库集成到CherryPy 框架时，首先需要建立基于ws4py库的WebsocketHandle 实例，然后建立基于WebSocketPlugin 插件的 ImageDisplayPlugin 插件实例，将 WebsocketHandle 实例以插件的形式注册到 CherryPy实例总线 Engine上。ImageDisplayPlugin 插件实例定义了处理每个请求的业务逻辑的msgbroadcast()方法，该方法处理完每个请求的业务逻辑后，将请求的消息转发出去，msgbroadcast（）方法通过注册到CherryPy实例总线Engine调用。
+
+# 2.2.3 监控数据远程可视化过程
+
+在明安图射电频谱日像仪中，远程可视化框架实现观测数据远程监控过程如图3。浏览器向网络服务器发送请求，服务器与浏览器通过WebSocket协议建立握手连接后，网络服务器通过数据采集接口获取数据采集服务器的观测数据进行可视化处理，网络服务器将处理后的可视化数据通过WebSocket协议发送至浏览器进行可视化显示。
+
+![](images/44ac95ea0ee87fff1bec732508187a76ed2d6ef4bae0bdef47d62d6684cefa3e.jpg)  
+图3明安图射电频谱日像仪可视化处理流程图Fig.3MUSER Visualization Process Diagram
+
+# 2.3 监控数据的可视化
+
+为了实现天线自相关和互相关数据的远程实时可视化，本文设计并实现了自相关图和互相关图的远程可视化原型系统，通过远程网络实时显示自相关和互相关数据。同时，为了能多维度分析天线的好坏，设计实现了天线自相关数据频谱图形显示方式，通过监控可见度数据的自相关频谱数据，并通过网络浏览器实时显示自相关数据，以便直观地显示各个天线数据的接收状态。
+
+自相关频谱图结构设计如图4， $X$ 轴表示数据帧数，Y轴表示功率值。根据设计的结构以及相关计算方法通过QtGui库绘画类对象QImag 和QPixmap 绘制出自相关频谱如图5。自相关频谱图中每一个通道的功率值用一种颜色表示，一张图中的16条曲线表示一个天线16个通道的功率值。根据每个天线各通道的频率值可以直观地判断天线的状态信息，正常天线16个通道频率幅值变化均匀，而异常天线频率幅值变化幅度很大或者幅值为0。
+
+![](images/ff92db30e544e77be5e45e30c5a235a1b068f05a8d3cc6ad9c217a33df1f32d6.jpg)  
+图4自相关频谱图结构示意图Fig.4The Structure Diagram of Auto CorrelationFrequency Spectrum Diagram
+
+![](images/45e98b06ec34bbf5aa9874d7611236060ac09f198b4b02076cd9fd887ac7f5c6.jpg)  
+图5自相关频谱图
+
+# 2.4监控数据的网络可视化显示
+
+在客户端浏览器输入统一资源定位符地址，连接到可视化网络服务器，显示自相关和互相关数据如图6、图7，显示自相关频谱图如图8。网络服务器实时处理数据采集系统发送的源数据并进行可视化成像，满足明安图射电频谱日像仪监控数据实时可视化的需求。
+
+![](images/fe9c8a7271a8f42f6866f33dda1a587f00dfc1dc5f17c4956a678ae84d0412ee.jpg)  
+图6互相关数据网络可视化显示  
+Fig.6WEB Visualization of Cross-Correlation Data
+
+![](images/c17f4ef4803414c6cd979cff95cccb9c13268beba358a61564ec6e9115bab22c.jpg)  
+Fig.5The Frequency Spectrum Diagram of Auto Correlation Data   
+图7自相关数据网络可视化显示Fig.7WEB Visualization of Auto-Correlation Data
+
+采用实时技术实现MUSER-I观测数据远程可视化显示能在1.5s左右将一帧可见度数据进行可视化计算，并绘制成40张自相关频谱图（每张成图约为0.0375s)，远远小于明安图射电频谱日像仪数据处理系统每5秒发送一帧数据的时间间隔，满足数据监视系统远程实时可视化的要求。同时，在局域网下每一帧数据生成的16张自相关、互相关以及40张自相关频谱图通过Websocket协议从网络服务器发送到客户端浏览器进行显示仅需要0.5s左右，而在广域网下约为2.8s左右，能满足监控数据远程可视化实时性的要求。此外，明安图射电频谱日像仪的观测数据可以在台式机和笔记本电脑上通过网络浏览器实时显示，方便观测人员随时随地对数据进行分析和判断，这显然对于观测数据远程实时监控是有利的。
+
+![](images/6d485e8123c90c9e35b87df365d22ff9051ca8f056a8b6580d4e8b30f4192fae.jpg)  
+2期  
+图8自相关频谱数据网络可视化显示  
+Fig.8WEB Visualization of Auto-Correlation Frequency Spectrum Data
+
+# 3结论
+
+本文详细描述了基于网络技术对明安图频谱射电日像仪获得的观测数据远程监控可视化的方法。实验表明，使用网络技术能实时快速地绘制可见度数据的相关图以及自相关频谱图，并能直观地通过网络页面显示。同时，基于网络的远程监控数据可视化显示效率较高，绘制一帧可见度数据16张自相关图、16张互相关图以及40张自相关频谱图像并在网络页面显示只需要4.3s左右，能够满足远程监控系统实时性要求，系统原型已经在明安图观测站投入运行，取得了良好的应用效果。
+
+此外，基于网络的开发过程较为简单，完成的代码可以跨平台，并得到同样的显示效果，同时也打破了地域对实时监控数据处理分析的限制，有利于实时发现异常观测状态并及时发现观测目标活动，为最大限度地提高科学产出提供了保障。同时，为望远镜的实时监控以及大型天线阵列的状态监控提供参考。
+
+# 参考文献：
+
+[1] 颜毅华，张坚，陈志军，等.关于太阳厘米-分米波段频谱日像仪研究进展［J].天文研究与技术—国家天文台台刊，2006，3(2)：91-98.Yan Yihua，Zhang Jian，Chen Zhijun，et al. Progress on Chinese solar radioheliograph in cm-dmwavebands [J]. Astronomical Research & Technology———Publications of National AstronomicalObservatories of China，2006，3(2）:91-98.  
+[2] 温照松，易仁伟，姚寒冰.基于WebSocket的实时Web 应用解决方案［J]．电脑知识与技术，2012，8(16):3826-3828.Weng Zhaosong，Yi Renwei，Yao Hanbing.WebSocket based real time Web application solution[J].Computer Knowledge and Technology，2012，8(16）:3826-3828.  
+[3] 卫守林，曹子皇，王锋，等.基于WebSocket的RTS2 Web 控制研究［J]．天文研究与技术国家天文台台刊，2014，11(4)：404-409.Wei Shoulin，Cao Zihuang，Wang Feng，et al. A study of web control of an RTS2 system basedon the WebSocket ［J]．Astronomical Research & Technology———Publications of NationalAstronomical Observatories of China，2014，11（4）：404-409.  
+[4] Wessels A,Purvis M，Jackson J,et al.Remote data visualization through websockets [C]//Information Technology:New Generations （ITNG）,2011 Eighth International Conference.2011:1050-1051.  
+[5] 周鑫磊，王威，王锋，等.基于QT的MUSER观测数据多屏图形化实时显示的设计与实现[J]．天文研究与技术，2015，12(4)：503-509.Zhou Xinlei，Wang Wei，Wang Feng，et al. Design and implementation of a multi-monitordisplay systembased on QT for NAOC MUSER observations [J].Astronomical Research &Technology，2015，12（4）：503-509.  
+[6] 韩伟杰，张文，李晓梅.基于网格的Web可视化系统设计与实现［J].计算机程，2006，32(23):218-220.Han Weijie，Zhang Wen，Li Xiaomei. Design and implementation of Web-based visualizationsystem based on grid ［J].Computer Engineering，2006，32(23）:218-220.  
+[7] 张文，李晓梅.基于Web的可视化研究与实现［J].计算机工程与科学，2002，24(3)：25-27.Zhang Wen，Li Xiaomei. Research and implementation of Web-based visualization [J].ComputerEngineering & Science，2002，24(3）:25-27.
+
+# Visualization Display Method for MUSER Remote Monitoring Data Based on WEB Technology
+
+Zhou Xinlei $^ { 1 }$ ， Wang Feng $^ { 1 , 2 }$ ，Wei Shoulin，Mei Ying',Liu Cuiyin' (1.KeyLaboratoryofApplicationsofComputerTechnologyoftheYunnan Province,UniversityofScienceand TechnologyofKunming, Kunming 6505O,China；2.YunanObservatories，ChineseAcademyofSiences，Kunming 65ol1,China,Email：wf@cnlab.et)
+
+Abstract：Astronomical remote monitoring is an important part of astronomical research.To detect the distortion data caused by weather condition，electromagnetic interference and antenna malfunction in time and improve the reliability of data processng，it is the urgent demand for MUSER（Mingantu Ultrawide Spectral Radio Heliograph，the original name is Chinese Spectral Radio Heliograph—CSRH）to realize the remote monitoring of the state of real time observation.In this paper，we present a visualization method for MUSER remote monitoring data which is based on WebSocket technology.And we use power and spectrum data in realtime visualization display as an example to validate.The experimental results show that proposed method can meet the requirements of real-time observation monitoring of MUSER.It changes the traditional local monitor mode,breaks the region limitation and has series of advantages such as real-time response，maneuverability and extensibility.At the same times，the proposed method improves the eficiency and equipment utilization. And there is a certain reference value to other remote monitoring and data visualization systems.
+
+Key words:Remote real-time monitoring；WebSocket；Visualization

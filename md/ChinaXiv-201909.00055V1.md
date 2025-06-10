@@ -1,0 +1,163 @@
+# AM真菌对红花生长及其有效成分的影响
+
+赵祥¹，曾广萍¹，杨盼¹，翟亚萍¹，张霞¹，刘红玲²(1．石河子大学生命科学学院,新疆 石河子832000；2．成都师范学院,四川 成都611130)
+
+摘要：丛枝菌根(Arbuscular mycorhizas,AM)真菌是土壤生态系统中广泛分布的优秀微生物资源,是具有重要经济价值的药用植物。本文基于人工培育条件下对中药材红花（Carthamus tinctorius）分别进行摩西球囊霉（Glomusmoseae）根内球囊霉（Glomus intraradices）和混合菌（G.moseae,Glomus etunicatum,Glomus microagregatum,Glomuscaledonium,Glomus cladoideum 和G.intraradices）3种AM真菌接种处理,并以接种等量灭活菌种作为对照组处理。采用高效液相色谱法测定不同采摘时期红花绒中羟基红花黄色素A和山奈素含量的变化。结果表明：与对照组相比,AM 真菌接种处理显著促进了红花生物量的积累,且AM 真菌混合接种效果显著高于AM真菌单接种;在次生代谢产物合成方面,AM真菌接种处理以及不同采摘期的红花中羟基红花黄色素A和山奈素的含量差异不显著。表明AM真菌虽能促进红花的生长,但不影响羟基红花黄色素A和山奈素的合成。
+
+关键词：AM真菌；菌根侵染率；土壤孢子密度；次生代谢产物
+
+红花（Carthamustinctorius）是集药用、食用、染料、油料和饲料于一体的珍贵植物资源[1-2],作为传统中药材，以其卓越的药用和经济价值受到市场的欢迎。新疆得天独厚的地理环境和气候条件适合药用植物的生长和品质的提升，目前红花在新疆广泛种植,已成为当地农民增收的主要支柱产业[3]。羟基红花黄色素A和山奈素为红花中的主要活性成分[4],其在药理方面具有增强免疫力、缓解动脉硬化、抑制白血病、肺癌、乳腺癌[5-6]等功效,常作为鉴定红花质量品质的标准。
+
+近年来，关于AM真菌与药用植物的关系一直是关注的热点，丛枝菌根（Arbuscularmycorrhiza,AM)真菌作为陆地土壤中广泛分布的一类有益菌，AM真菌通过根内菌丝与宿主植物体形成营养上的互利共生关系,在促进植物生长[7-9]、提高抗逆性[] 改良土壤结构[1]等方面的作用效果显著,且AM真菌本身无毒无味，被誉为“生物肥料”。对于药用植物红花而言，红花的质量和产量对其入药至关重要，如何提高红花产量和有效药用成分含量一直是重要的研究课题。本文以不同采摘花期的红花以及不同种类AM真菌接种作为切入点，通过高效液相色谱法检测红花绒中羟基红花黄色素A和山奈素含量的变化，旨在系统了解AM真菌对红花生长和有效药用成分含量的影响，探讨不同采摘时期有效药用成分含量的变化，从而为促进红花农业生产提供重要的理论依据
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区位于新疆天山北麓中段，准噶尔盆地南缘试验田，地理坐标为 $8 5 ^ { \circ } 5 9 ^ { \prime } 4 4 ^ { \prime \prime } \mathrm { E }$ $4 4 ^ { \circ } 1 9 ^ { \prime } 3 4 ^ { \prime \prime } \mathrm { N }$ ，海拔 $4 0 4 { \mathrm { ~ m } }$ 。该区气候干燥、年降雨量 $1 2 5 \sim 2 0 8 ~ \mathrm { m m }$ 、年平均气温 $6 . 9 ~ \mathrm { ^ { \circ } C }$ ,以农业种植为主，属大陆性干旱气候。试验区土壤概况： $\mathrm { p H } 7 . 9$ 、含水率 $9 . 1 5 \%$ 、全氮 $0 . 5 5 \textrm { g } \cdot \textrm { k g } ^ { - 1 }$ 、全磷 $0 . 2 6 \mathrm { ~ g ~ } \cdot \mathrm { ~ k g ~ } ^ { - 1 }$ 、全钾31.29$\mathbf { g } \cdot \mathbf { \mathrm { k g } } ^ { - 1 }$ 、碱解氮 $3 3 . 8 3 ~ \mathrm { { \ m g } ~ \cdot ~ \mathrm { { k g } } ^ { - 1 } }$ 、有效磷24.29$\mathbf { m g \cdot \ k g ^ { - 1 } }$ 、速效钾 $5 2 6 . 0 6 ~ \mathrm { m g } \cdot \mathrm { k g } ^ { - 1 }$ 、有机质28.0$\mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 }$ 。
+
+# 1.2 供试植物及菌种
+
+供试红花种子，品种为“裕民无刺”，产地新疆石河子市。供试AM真菌菌种：摩西球囊霉（Glomusmosseae）和根内球囊霉（Glomusintraradices）由青岛刘润进试验室提供，混合菌种（G.mosseae，Glomusetunicatum,Glomus microagregatum,Glomus caledoni-um,Glomus cladoideum 和G.intraradices）由“Symbiom”公司提供。
+
+# 1.3 试验设计
+
+接种试验共设置4个处理组，分别为接种摩西球囊霉（M1）、根内球囊霉（M2）、混合菌种（M3）和对照组（CK）。M1和M2为单接种处理组，平均每盆穴施菌种 $1 0 \ \mathrm { g } , \mathrm { M } 3$ 为混合接种处理，平均每盆穴施菌种 $\boldsymbol { 5 } \mathrm { \textrm { g } }$ （约8500接种势单位），CK处理分别添加同等质量的灭菌菌种。每个处理设10个重复。
+
+# 1.4播种、接种与管理
+
+采用 $1 7 \ \mathrm { c m } \times 1 1 \ \mathrm { c m } \times 1 5 \ \mathrm { c m }$ （盆口直径 $\times$ 盆底直径 $\times$ 高)规格的塑料盆种植，盆经过 $0 . 2 \%$ 高锰酸钾浸泡过夜备用。试验前将土壤混合（沙子：土壤:蛭石 $\mathbf { \tau } = 1 \colon 1 \colon 1 \ \cdot$ )分装，经 $1 2 1 ~ \mathrm { { ^ { \circ } C } }$ 高压灭菌 $2 \textup { h }$ ，自然冷却后再次灭菌 $^ { 2 \mathrm { ~ h ~ } }$ 。挑选大小一致且饱满的种子，经 $10 \%$ （质量分数）的 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 浸泡 $1 0 ~ \mathrm { m i n }$ ,使用无菌水冲洗5遍，将种子浸泡在少量无菌水中过夜。
+
+播种与接种同步进行，每盆装入 $4 ~ \mathrm { k g }$ 混合灭菌土，菌种均匀撒在种子下约 $2 \ \mathrm { c m }$ 处，每盆穴播红花种子10粒，待幼苗生长7d后间苗，每盆留下4株长势一致且粗壮的幼苗。盆栽前期 $6 0 \mathrm { ~ d ~ }$ 使用智能光照培养箱进行培养，培养箱设置为白天( $^ { 2 8 } \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ } , 1 6$ $\mathbf { h }$ ,光照强度为最大光强的 $8 0 \%$ ），夜晚( $^ { \prime } 2 3 \ \mathrm { ^ { \circ } C } \ , 8 \ \mathrm { h }$ 黑暗）。盆栽后期 $6 0 \sim 7 5 \mathrm { ~ d ~ }$ 转移到室内培养，白天$2 5 \sim 3 3 ~ \mathrm { ^ circ C }$ ,夜晚 $2 0 \sim 2 5 ~ \mathrm { ^ { \circ } C }$ 。红花在培养75d后，检测红花幼苗根系侵染状况，并记录菌根侵染率和土壤孢子密度，将培育的红花移栽到田间继续生长，采用"田"字布置[12],行距 $4 0 \ \mathrm { c m }$ ,株距 $2 0 \ \mathrm { c m } , 4$ 个区域相隔 $1 \mathrm { ~ m ~ }$ ,分别移栽CK处理、单接种M1、单接种M2和混合接种M3的幼苗。
+
+生长期内定期浇灌无菌水和Hoagland营养液，采用称重法将土壤湿度控制在田间持水量的 $6 5 \%$ \~$7 5 \%$ ,营养液与无菌水以 $1 : 1 0 0$ 的比例混合，相隔$7 \mathrm { ~ d ~ }$ 施加1次。Hoagland 营养液主要成分为[3]，大量营养元素： $4 \mathrm { \bf ~ m m o l ~ \cdot ~ L ^ { - 1 } ~ C a } \left( \mathrm { \bf ~ N O } _ { 3 } \right) _ { 2 } \mathrm { \bf ~ \cdot ~ } 4 \mathrm { H } _ { 2 } \mathrm { O } _ { 4 } ,$ （24号$2 \ \mathrm { m m o l } \cdot \mathrm { L } ^ { - 1 } \ \mathrm { M g S O } _ { 4 } \cdot 7 \mathrm { H } _ { 2 } \mathrm { O } _ { 2 } , 6 \ \mathrm { m m o l } \cdot \mathrm { L } ^ { - 1 } \ \mathrm { K N O } _ { 3 }$ $0 . 5 7 \ \mathrm { m m o l } \cdot \mathrm { L } ^ { - 1 } \ \mathrm { N H } _ { 4 } \mathrm { C l }$ ；微量营养元素： $4 2 \mathrm { \ } \mu \mathrm { m o l }$ ：$\mathrm { L ^ { - 1 } \ H _ { 3 } B O _ { 3 } , 9 \Sigma \~ \mu m o l \cdot \ L ^ { - 1 } \ M n S O _ { 4 } \cdot \ H _ { 2 } O , 1 \Sigma \ \mu m o l } .$ ，$[ \mathrm {  ~ \bar { ~ } { ~ } ^ { - 1 } ~ \ Z n S O _ { 4 } ~ \cdot ~ \ 7 H _ { 2 } O , 0 . ~ 1 ~ \Sigma ~ \mu \mathrm { m o l } ~ \cdot ~ L ^ { - 1 } ~ \ N a _ { 2 } M o O _ { 4 } }$ ：$2 \mathrm { H _ { 2 } O , 0 . \ 3 \ \mu m o l \ \cdot \ L ^ { - 1 } \ C u S O _ { 4 } \cdot 5 H _ { 2 } O }$ ；铁盐：0.1$\mu \mathrm { m o l } \cdot \mathrm { ~ L } ^ { - 1 }$ FeEDTA。
+
+# 1.5 测定参数与方法
+
+1.5.1生物量、侵染率和孢子密度测定红花幼苗移栽后，每隔2周分别取不同处理组长势一致的红花幼苗5株，将地上部分沿地表剪下，分别收获红花地上部分和根系， $1 0 5 \mathrm { ~ \textdegree C }$ 杀青 $3 0 ~ \mathrm { m i n }$ 后， $6 0 ~ \mathrm { { ^ { \circ } C } }$ 烘干至恒重，测定地上部分和根系生物量；收获各处理组红花初花期（1\~4d）、盛花期（5\~7d）、衰落期$\mathrm { ( > 8 ~ d ) }$ 花部，杀青烘干备用，分别取3个时期相同数目的红花烘干花朵混合称重。
+
+从根的不同部位随机取细根（直径 $< 1 \ \mathrm { m m }$ 剪成 $0 . 5 \sim 1 . 0 ~ \mathrm { c m }$ 的小段放入试管,加入 $10 \%$ KOH,$9 0 ~ \mathrm { ^ { \circ } C }$ 水浴加热 $2 0 \ \mathrm { m i n }$ ,轻轻冲洗根系4次;加入$0 . 0 5 \%$ 乳酸酚翠盘蓝染液（石炭酸 $3 0 0 \mathrm { ~ g ~ }$ 、乳酸250$\mathrm { m L }$ 、甘油 $2 5 0 ~ \mathrm { m L }$ 、蒸馏水 $3 0 0 ~ \mathrm { m L }$ 、Trypan blue 0.5g)，放入 $9 0 \ \mathrm { { ^ circ C } }$ 水浴加热 $2 0 ~ \mathrm { m i n }$ ,用水分色后镜检。根系侵染率采用根段频率常规法测定(14]。孢子密度采用湿筛—倾注—蔗糖离心法[14]对土壤中孢子进行分离，离心后的蔗糖溶液经滤纸过滤，使用解剖镜计数滤纸上新鲜有活力的孢子。孢子密度计为每10g干土中的孢子数[15]
+
+# 1.5.2红花绒中羟基红花黄色素 A和山佘素含童
+
+羟基红花黄色素A 测定[16]。对照品溶液:精密称取羟基红花黄色素A对照品适量，加体积分数 $2 5 \%$ 甲醇溶液制成质量浓度为 $0 . 2 \ \mathrm { g \cdot L ^ { - 1 } }$ 的对照溶液备用。供试溶液：精密称取红花绒样品（过 $3 5 5 ~ { \mu \mathrm { m } }$ 筛） $0 . 4 \mathrm { ~ g ~ }$ ，添加 $5 0 \mathrm { \ m L } 2 5 \%$ 甲醇超声萃取 $4 0 \ \mathrm { m i n }$ （冷），补足减少的质量后过滤。色谱柱条件：AgilestC18柱 $\langle 4 . 6 \ \mathrm { m m } \times 2 5 0 \ \mathrm { m m } ,$ 5AM);流动相:甲醇：乙腈： $0 . 7 \%$ 磷酸水溶液(26:2:72）;检测波长 $4 0 3 \ \mathrm { n m }$ 流速 $1 . 0 \ \mathrm { m L } \cdot \mathrm { m i n } ^ { - 1 }$ ;柱温 $3 0 \ \mathrm { { ^ { c } } }$ ;进样量 $2 0 ~ \mu \mathrm { L }$ 。
+
+山奈素测定[17]。对照品溶液:精密称取山奈素对照品适量，加甲醇制成每 $1 \ \mathrm { m L }$ 含 $9 ~ \mu \mathrm { g }$ 的对照溶液。供试溶液：精密称取红花绒样品（过 $3 5 5 ~ { \mu \mathrm { m } }$ 筛） $0 . 5 \mathrm { ~ g ~ }$ ,精密加入甲醇 $2 5 ~ \mathrm { m L }$ ,称定质量，加热回流 $3 0 ~ \mathrm { m i n }$ 放冷，补足质量后过滤。精密量取续滤液$1 5 ~ \mathrm { m L }$ ,加入 $5 ~ \mathrm { m L }$ 体积分数 $4 0 . 5 \%$ 盐酸溶液，摇匀，置水浴加热 $3 0 ~ \mathrm { m i n }$ ,冷却后用甲醇定容至 $2 5 ~ \mathrm { m L }$ ，摇匀过滤。色谱柱条件：AgilestC18柱( $\cdot 4 . 6 \ \mathrm { m m } \times 2 5 0$ $\mathbf { m } \mathbf { m }$ ,5AM）；流动相：甲醇：0. $4 \%$ 磷酸水溶液（20 $( 5 2 \colon 4 8 )$ ;检测波长： $3 6 0 \ \mathrm { n m }$ ;流速 $1 . 0 \ \mathrm { m L } \cdot \mathrm { m i n } ^ { - 1 }$ ;柱温 $3 5 ~ \mathrm { { ^ { \circ } C } }$ ;进样量 $1 0 ~ \mu \mathrm { L }$ 。测定时分别精密吸取对照品溶液和供试品溶液，注入高效液相色谱仪，分别测定红花绒中羟基红花黄色素A和山奈素含量。
+
+# 1.6 数据处理
+
+使用SPSS19.0进行数据处理和方差分析，通过MicrosoftExcel2010进行统计分析和作图。
+
+# 2 结果与分析
+
+# 2.1 接种效应分析
+
+红花菌根侵染率的测定主要分为盆栽和大田生长两个时期，移栽前需对盆栽的红花AM真菌接种状况进行检测，以确保AM真菌是否侵染、有无杂菌污染确保后续试验能顺利进行。结果如图1所示，M1、M2、M3接种处理的红花根系中均表现出良好的侵染状况（图1b，1c,1d），侵染率分别为 $47 \%$ 、$3 6 \%$ 和 $4 9 \%$ ，而CK处理的红花须根中没有发现丛枝菌根（图1a）。此外，对土壤中孢子数量检测发现，AM接种处理组土壤中均检测到AM真菌孢子的存在，CK处理的红花土壤中没有发现孢子，表明红花盆栽阶段没有外来AM真菌的干扰，可进一步使用。
+
+大田生长阶段共进行了3次红花菌根侵染率和土壤孢子密度测定，分别在红花移栽2周(89d）、移栽4周(103d）移栽6周(117d)。各处理红花菌根侵染率测定结果如图2所示，75d的CK处理仍然处于盆栽状态，没有受到AM真菌的侵染;在红花移栽后的6周内，检测到CK处理有AM真菌侵染，且侵染率随时间逐渐增加；不同接种处理组的红花根系侵染率均表现出先降低后升高的趋势。此外，不同接种处理组之间的侵染率存在差异，总体表现为：混合接种 $\mathbf { M } 3 >$ 单接种 $\mathbf { M } \mathbf { 1 } >$ 单接种 $\mathbf { M } 2 > \mathbf { C K }$ ，混合接种效果优于单接种，M1的接种效果优于M2。
+
+各处理组土壤中孢子密度的测定结果显示，在红花移栽6周内检测出CK处理土壤中真菌孢子的存在，孢子密度随生长时间逐渐增多；不同接种处理注：小写字母表示同一时期不同处理之间红花菌根侵染率和土壤孢子密度在 $P < 0 . 0 5$ 水平上差异显著。
+
+![](images/3b20a239312be05a0ec1faa70ad0018e349319979813f79c5bdee752de8793a2.jpg)  
+Fig.1Detection of infection rate of Carthamus tinctorius roots before transplanting
+
+![](images/d7e59a3e81bd6fb3ba2513e8d44064924433e34459721c22679c4d79bcec1b62.jpg)  
+图1移栽前红花根系侵染率检测  
+图2红花菌根侵染率和土壤孢子密度  
+Fig.2Mycorrhizal infection rate and soil spore density of Carthamus tinctorius
+
+红花土壤中的孢子密度同样呈现先降低后逐渐升高的趋势。混合接种的土壤孢子密度显著高于单接种，而M1与M2的接种效果仅在移栽后第4周(103d)呈显著性差异( $\textstyle P < 0 . 0 5 )$ 。
+
+# 2.2AM真菌对红花生物量影响
+
+通过单因素方差分析发现，与CK处理相比，AM真菌可以显著促进红花地上部分与地下根部生物量的积累( $\textstyle P < 0 . 0 5 )$ （图3）。AM真菌混合接种与单接种对红花生物量的促进效果不同，例如在移栽后第6周(117d)，与CK处理相比，经过 ${ \bf M } 1 \ 、 { \bf M } 2$ 、M3真菌接种处理后，地上部分干重分别增加了$32 \%$ ， $9 5 \%$ 和 $194 \%$ ，地下根部干重分别增加了
+
+$1 6 8 \%$ ， $1 8 8 \%$ 和 $239 \%$ ,混合接种处理对红花生物量的促进作用显著大于单接种处理。此外，M1与 M2单接种对红花生长的促进效果也存在差异，对于红花地上部分而言，在移栽后第6周，M2对红花生长的促进作用显著高于M $1 ( P < 0 . 0 5 )$ ;对于红花地下根部而言，移栽后M2对红花的促进效果高于M1，但差异不显著( $( P > 0 . 0 5 )$ 0
+
+相关性分析发现，红花地上部分和地下根部生物量与菌根侵染率均呈现正相关关系，相关性分别达到显著( $\ P < 0 . \ 0 5 )$ 和极显著水平( $P < 0 . 0 1$ ）（图4a,4b);对于土壤中的孢子而言，在移栽2周(89 d)后，红花地上部分和地下根部生物量与土壤中的孢
+
+![](images/e5af3ac2915620faf6c1387a9107a4874281842f839883ad7f5f801f92c80660.jpg)  
+Fig.3Dry weights of aboveground parts and underground roots of Carthamus tinctorius
+
+![](images/39e20622ab9a3efc1f67a9bc5846c29d29a5d6fc31f052f31e82d57e8326fcec.jpg)  
+图3红花地上部分与地下根部干重  
+图4红花生物量与菌根侵染率和孢子密度的相关性
+
+Fig.4Correlations between Carthamus tinctorius biomass and mycorrhizal infection rate and spore density子密度均表现出极显著正相关关系( $\ P < 0 . 0 1 )$ （图4c，4d)。表明AM真菌的侵染效果显著影响着红花地上部分以及地下根部的生物量积累。
+
+进一步分析AM真菌接种对红花具有药用价值的花部生物量的影响。各处理组分别取红花初花期、盛花期和衰落期相同数目的红花花朵，烘干后混合称重，对各处理组花朵生物量进行比较分析。结果如表1所示，与CK处理相比，进行M1、M2和M3接种处理后，红花花朵生物量显著升高，分别增加了$4 8 \% . 5 9 \%$ 和 $182 \%$ 。表明接种AM真菌对具有药用价值的红花花部的生长有显著的促进作用，促进效果表现为： $\mathbf { M } 3 > \mathbf { M } 2 > \mathbf { M } 1 > \mathbf { C K } .$ □
+
+# 2.3AM真菌对红花羟基红花黄色素A 和山奈素产量的影响
+
+分别在红花初花期、盛花期及衰落期，检测CK处理与AM真菌接种处理组红花绒中羟基红花黄色素A和山奈素的含量。结果如图5所示，羟基红花黄色素A和山奈素的含量有相似的变化趋势，在不同采摘时期内的羟基红花黄色素A和山奈素的含量均只有较小幅度的变化,差异不显著( $\textstyle P > 0 . 0 5 )$ ;且与CK处理相比，不同AM真菌接种处理后，在整个开花期内羟基红花黄色素A和山奈素的含量均差异不显著( $P > 0 . 0 5 )$ （表1）。表明红花中羟基红花黄色素A和山奈素的合成不受AM真菌和采摘花期的影响。
+
+# 表1AM真菌对红花花部干重、羟基红花黄色素 A和山奈素产量的影响
+
+Tab.1Effect of AM fungi on yield of dry weight, hydroxysafflor yellowA and Kaempferolin C.tinctorius   
+
+<html><body><table><tr><td>接种 处理</td><td>花部干重 /g</td><td>羟基红花黄色素 A含量均值/%</td><td>山奈素含量 均值/%</td></tr><tr><td>CK</td><td>6.318 ±0.14d</td><td>2.393 ±0.11a</td><td>0.089 7±0.010a</td></tr><tr><td>M1</td><td>9.323 ±0.19c</td><td>2.443 ±0.18a</td><td>0.0863 ±0.010a</td></tr><tr><td>M2</td><td>10.049 ±0.22b</td><td>2.516 ±0.19a</td><td>0.0890±0.009a</td></tr><tr><td>M3</td><td>17.819 ±0.45a</td><td>2.389 ±0.16a</td><td>0.0860±0.011a</td></tr></table></body></html>
+
+注：不同小写字母表示在0.05水平下具有差异。
+
+□CK M1 □M2 ZM3   
+%V 3025 aaaa a a 0.12 a aaaa aaaa aaaa 二 2015 8 0.08 188 AY W .5 AI 中 %/ 1.0 山 0.04   
+羟 0.5 0.02 自 M 88888 自 N 三 0 8 0 初花期 盛花期衰落期 平均 初花期 盛花期衰落期 平均 花期 花期
+
+AandKaempferol in C.tinctorius
+
+# 3讨论与结论
+
+AM真菌能够促进药用植物生物量的积累，郭巧生等[18]通过对半夏接种AM真菌发现,半夏块茎产量和繁殖系数显著升高;郭兰萍等[19]的研究发现,苍术对 AM依赖性达到 $2 4 5 \%$ ;Yang等[20]研究发现接种了AM真菌的苍术在生长发育时期的根、茎、叶生物量有明显的提高。本研究发现，3种类型的AM真菌接种对红花地上部分、地下根部和具有药用价值的花部的生物量积累均有显著的促进作用。不同的AM真菌对红花表现不同： $\mathbf { M } 3 > \mathbf { M } 2 >$ $\mathrm { M } 1 > \mathrm { C K }$ ，混合菌种具有显著的接种优势，推测可能是因为对红花混合接种后弥补了单一菌种在空间上的不足，且混合接种具有更强的环境适应性，有利于菌根共生体系的形成。
+
+植物在长期的进化适应过程中，逐渐形成了一些适应环境的生理生态功能[21],其中根据生长需要生产各种类型的次生代谢产物是药用植物的主要特征[22]。AM真菌作为土壤生态系统中广泛分布的优秀微生物资源，能够直接或间接影响植物次生代谢过程，引起药用植物次生代谢产物含量的变化[23-24]。本研究通过高效液相色谱法测定红花中羟基红花黄色素A和山奈素含量的变化，分析采摘花期和AM真菌接种对红花次生代谢产物的影响。结果发现，红花绒中羟基红花黄色素A和山奈素的含量不受采摘花期和AM真菌接种的影响。有研究表明，AM真菌侵染植物根系后引起植物次生代谢产物分泌量的变化，是植物对AM真菌侵染活动做出的一种防御性响应，用来维持微生态系统的平衡[25-26]。因此,推测羟基红花黄色素A以及山奈素不是红花中对AM真菌起防御作用的次生代谢产物，接种AM真菌并不能促进其合成。
+
+此外,赵昕等[27]、于洋等[28]、Zubek 等[29]均发现，植物次生代谢产物含量的变化与AM真菌种类有关，不同的AM真菌对次生代谢产物的影响不同。有研究表明，植物次生代谢产物的含量也与植物生长环境有直接的关系，一定的环境压力能促使植物次生代谢产物含量的提高[30-32]。然而,AM真菌接种形成的菌根共生体能显著提高根系对土壤水分和养分的吸收以及提高植物对干旱环境的耐受性等，在一定程度上能改善植物根际的环境胁迫[33-34) 。因此，红花中羟基红花黄色素A和山奈素含量的变化也可能受到AM真菌种类和红花生长环境改变的影响，对此还需进一步研究认证。
+
+本研究中对AM真菌接种效应分析发现，移栽后CK处理红花中检测到丛枝菌根结构和AM真菌孢子，表明AM真菌在自然环境中广泛存在。接种处理组中M3 混合菌种的侵染率和土壤中孢子密度均显著高于单接种，说明混合菌种能更好的与红花根系形成菌根共生体结构，有较好的环境适应性。研究还发现，红花在移栽大田环境后，菌根侵染率和土壤中的孢子密度均表现出先降低后逐渐升高的趋势，推测这是红花在移栽到大田环境后经历的一个驯化过程，为适应环境变化所致。
+
+虽然AM真菌接种能显著促进红花生物量的积累，且混合接种对红花生长的促进效果优于单接种处理，但不影响红花中羟基红花黄色素A以及山奈素的合成。综上所述，基于AM真菌分布广泛、适应性强且能形成庞大菌丝网络系统等特性[35],能够很好地应用于药用植物的增产增收。而关于AM真菌对药用植物次生代谢产物的影响，依然存在许多不确定因素，目前关于AM真菌对植物次生代谢机理的研究尚浅，还有待于深入研究。
+
+# 参考文献（References）:
+
+[1]梁慧珍,董薇,余永亮,等.国内外红花种质资源研究进展[J].安徽农业科学,2015,43（16）:71-74.[Liang Huizhen,Dong
+
+Wei,Yu Yongliang，et al.Advances in studies on safflower (Carthamus tinctorius L.）at home and abroad[J].Journal of Anhui Agricultural Sciences,2015,43（16）:71-74.] [2]孙嘉磊,覃瑞,邢永忠,等.基于测序技术的红花基因组学研究 进展[J].分子植物育种,2018,16（18）：5934-5939.［Sun Jialei,Qin Rui,Xing Yongzhong,et al.Research progress of safflower genomics based on sequencing technology[J]. Molecular Plant Breeding,2018,16(18）:5 934-5 939.] [3]Motamedi M,Karimmojeni H,SiniFG.Evaluation of allelopathic potential of safflower genotype(Carthamus tinctorius L.)[J].Journal of Plant Protection Research,2016,56(4）:364-367. [4]扈晓佳,殷莎,袁婷婷,等.红花的化学成分及其药理活性研究 进展[J].药学实践杂志,2013,31(3）:161-168.[Hu Xiaojia, Yin Sha,Yuan Tingting,et al. Chemical constituentsand pharmacological activities of Carthamus tinctorius L.[J].Journal of Pharmaceutical Practice,2013,31(3）:161-168.] [5］沈冰冰,张松,朱启仁,等.羟基红花黄色素A减轻大鼠心肌细 胞缺氧/复氧损伤[J].基础医学与临床,2018,28（4）：480-   
+484.[Shen Bingbing,Zhang Song,Zhu Qiren,et al.Hydroxysafflor yellow A reduces anoxia/reoxygenation-induced injury inrat cardiomyocytes[J]. Basic & Clinical Medicine,2018,28（4）:480 -   
+484.] [6]Kim S H,Hwang K A,Choi K C. Treatment with kaempferol suppresses breast cancer cell growth caused by estrogenand triclosan in cellular and xenograft breast cancer models[J].The Journal of Nutritional Biochemistry,2016,28:70 -82. [7］王英男,陶爽,华晓雨,等.盐碱胁迫下AM真菌对羊草生长及 生理代谢的影响[J].生态学报,2018,38（6):2 187－2 194. [Wang Yingnan,Tao Shuang,Hua Xiaoyu,et al.Efcts of arbuscular mycorrhizal fungi on the growth and physiological metabolism of Leymus chinensis under salt-alkali stress[J].Acta Ecologica Sinica,2018,38(6) :2 187 -2 194.] [8］刘兆娜,郭绍霞,李伟.AM真菌对百合生长和生理特性的影响 [J].草业学报,2017,26(11）:85-93.[Liu Zhaona,Guo Shaoxia,LiWei.Effectofarbuscularmycorhizalfungiongrowthand physiological characteristics of Lilium brownii[J].Acta Prataculturae Sinica,2017,26(11):85-93.] [9]吴楠,张静,王玥,等.积雪和丛枝菌根真菌网络对尖喙牛儿 苗幼苗生长的影响[J].干旱区研究,2018,35（3）：624-632. [Wu Nan,Zhang Jing,Wang Yue,et al. Eects of snow cover and arbuscular mycorrhizal fungi network on the seedling growth of Erodium oxyrrhynchum[J].Arid Zone Research,2018,35(3）:624 -   
+632.] [10]Estrada B,Aroca R,MaathuisFJM,et al.Arbuscular mycorrhizal fungi native from a Mediterranean saline area enhance maize tolerance to salinity through improved ion homeostasis[J]. Plant,Cell and Environment,2013,36(10）:1 771-1 782. [11］叶佳舒,李涛,胡亚军,等.干旱条件下AM真菌对植物生长和 土壤水稳定性团聚体的影响[J].生态学报,2013,33（4）：   
+1 080 -1 O88.[Ye Jiashu,Li Tao,Hu Yajun,et al. Influences of AM fungi on plant growth and water-stable soil aggregates under drought stresses[J].Acta Ecologica Sinica,2013,33(4）:1 080 -   
+1088.]   
+〔12］曾广萍,张霞,刘红玲,等.盐胁迫下 AM真菌对红花耐盐性的 影响[J].植物生理学报,2011,47（11）:1069-1074.[Zeng Guangping,Zhang Xia,Liu Hongling,etal.Effect of AM fungi on salt tolerance of Carthamus tinctorius L.under salt stress[J].Plant Physiology Jourmal,2011,47(11）:1 069-1 074.]   
+[13）Hoagland DR,Arnon DI. The water culture methodforgrowing plants without soil[J].California Agricultural Experimerit Station Bulletin,1938,347（1） :1 -39.   
+[14]刘润进,陈应龙.菌根学[M].北京：科学出版社,2007.[Liu Ruijin,，ChenYinglong.MycorrhizologyM].Beijing：cience Press,2007.]   
+[15］峥嵘,白淑兰,李龙,等.不同季节土庄绣线菊根围丛枝菌根真 菌群落差异性研究[J].干旱区研究,2017,34（5）：1049- 1 055.[Zheng Rong,Bai Shulan,Li Long,et al.Seasonal variation of arbuscular mycorrhizal fungal communities in rhizosphere of Spiraea pubescens[J].Arid Zone Research,2017,34（5）:1 049 1 055.]   
+[16]丁丽丽,段陈平,李芳,等.红花不同采收期及不同部位中羟基 红花黄色素A及山奈素的含量变化[J].沈阳药科大学学报, 2015,32(1）:65-69.[Ding Lili,Duan Chenping,Li Fang,et al. The determination of hydroxysafflor yellow A and kaempferol in Carthamus tinctorrius L.by different collecting time and parts[J]. Journal of Shenyang PharmaceuticalUniversity,2O15,32（1）:65 69.]   
+[17]苏英英,卢新义,孙宝平,等.中国药典 2010 年版红花质量标 准中山柰素含量测定方法的探讨[J].中国医院药学杂志， 2015,35(15):1 427-1 430.[Su Yingying,Lu Xinyi,Sun Baoping,etal.Investigation onanalytical method of kaempferol in Carthamus tinctorius L.in Chinese Pharmacopoeia (2O10 Edition) [J].Chinese Journal ofHospital Pharmacy,2015,35（15）: 1 427 -1 430.]   
+[18］郭巧生,程俐陶,刘作易.丛枝菌根真菌对半夏产量及化学成 分的影响[J].中国中药杂志,2010,35（3）:333-338.[Guo Qiaosheng,Cheng Litao,Liu Zuoyi. Study on influence of arbuscular mycorrhizal fungi Pinelia ternata yieldand chemical composition[J]. China Journal of Chinese Materia Medica,2010,35（3）： 333 -338. ]   
+[19］郭兰萍,汪洪钢,黄璐琦,等.泡囊丛枝菌根(AM)对苍术生长 发育及挥发油成分的影响[J].中国中药杂志,2006,31（18）： 1 491-1 495.[Guo Lanping,Wang Honggang,Huang Luqi,et al. Effects of arbuscular mycorrhizae on growth and essential oil of Atractylodes lancea[J].China Journalof Chinese Materia Medica, 2006,31(18) :1 491 -1 495.]   
+[20）Yang T,Dai CC.Interactionsof twoendophytic fungi colnizing Atractylodes lancea and effects on the host's essential oils[J].Acta Ecologica Sinica,2013,33(2）:87-93.   
+[21]刘珮,马慧,智颖飙,等.9种典型荒漠植物生态化学计量学特 征分析[J].干旱区研究,2018,35（1）:207-216.[Liu Pei,Ma Hui,Zhi Yingbiao,etal.Ecological stoichiometric diffrences of nine typical eremophyte species[J].Arid Zone Research,2018,35 (1):207-216.]   
+[22]阎秀峰,王洋,李一蒙.植物次生代谢及其与环境的关系［J]. 生态学报,2007,26（6）:2 554-2 560.[Yan Xiufeng，Wang Yang,Li Yimeng.Plant secondary metabolism and its response to environment[J].Acta Ecologica Sinica,2007,26（6）:2 554 - 2 560.]   
+[23]Yadav K，Aggarwal A，Singh N. Arbuscular mycorrhizal fungi （AMF）induced acclimatization,growth enhancement and colchicine content of micropropagated Gloriosa superba L. plantlets[J]. Industrial Crops and Products,2013,45:88 -93.   
+[24］杨敏,张杰,张德全,等.丛枝菌根真菌对掌叶大黄产量及次生 代谢产物的影响[J].中国试验方剂学杂志,2018,24（10）： 51 -55.[Yang Min,Zhang Jie,Zhang Dequan,et al.Effect of arbuscular mycorrhizal on yield and secondary metabolites of Rheum palmatum[J].Chinese Journal of Experimental Traditional Medical Formulae,2018,24（10）:51-55.]   
+[25]Vierheilig H,Lerat S,Piché Y.Systemic inhibition of arbuscular mycorrhiza development by root exudates of cucumber plants colonized by Glomus mosseae[J].Mycorrhiza,2003,13(3）:167-170.   
+[26]Vierheilig H,Garcia-Garrido JM,Wyss U.Systemic suppression of mycorrhizal colonization of barley rootsalready colonized by AM fungi[J].Soil Biologyand Biochemistry,2000,32(5）:589-595.   
+[27］赵昕,王博文,阎秀峰.丛枝菌根对喜树幼苗喜树碱含量的影 响[J].生态学报,2006,26(4）:1057-1062.[Zhao Xin,Wang Bowen,Yan Xiufeng.Effect of arbuscular mycorrhiza on camptothecin content in Camptotheca acuminata seedlings[J]. Acta Ecolgica Sinica,2006,26(4):1 057-1 062.]   
+[28］于洋,于涛,王洋,等.接种时期对丛枝菌根喜树幼苗喜树碱含 量的影响[J].植物生态学报,2010,3（6）:687-694.[Yu Yang,Yu Tao,Wang Yang,etal.Efect of inoculation time on camptothecin content in arbuscular mycorrhizal Camptotheca acuminate seedlings[J]. Chinese Journal of Plant Ecology,2010,3 (6):687 -694.]   
+[29]Zubek S,Mielcarek S,Turnau K. Hypericin and pseudohypericin concentrations of a valuable medicinal plant Hypericum perforatum L.are enhanced by arbuscular mycorrhizal fungi[J].Mycorrhiza, 2011,22(2) :149 -152.   
+[30］赵则海,于景华,杨逢建,等.人为扰动对乌拉尔甘草不同部位 甘草酸与总黄酮含量的影响[J].生态学报,2004,24（12）： 2 800 -2 803.[Zhao Zehai,Yu Jinghua,Yang Fengjian,et al. Influences of artificial disturbance degrees on the contents of Glycyrhizic acid and flavonoids in different partsof Glycyrrhiza uralensis [J].Acta Ecologica Sinica,2004,24(12）:2 800 -2 803.]   
+[31］刘金荣,赵文斌,王航宇,等.不同生长期栽培甘草的产量及有 效成分分析比较[J].上海中医药杂志,2004,38（11）：56-58. [Liu Jinrong,Zhao Wenbin,Wang Hangyu,et al. Output of cultivated Glycyrrhizia indifferent growth stages andanalytical comparison of its active ingredients[J].Shanghai Journal of Traditional Chinese Medicine,2004,38(11） :56 -58.]   
+[32]Yan XF,Wu S X,Wang Y,et al.Soil nutrient factors related to salidroside production of Rhodiola sachalinensis distributed in Chang Bai Mountain[J].Environmental and Experimental Botany, 2004,52(3) :267 -276.   
+[33］刘燕,徐志才,唐立松.叶圈微生物的群落结构与生态功能研 究进展[J].干旱区研究,2018,35(2）：340-345.[LiuYan,Xu Zhicai,Tang Lisong. Research progress ofcommunity structure and
+
+ecological dunctions of phyllosphere microorganisms[J].Arid Zone Research,2018,35(2):340-345.] [34]Liu HL,Tan Y,Nell M,etal.Arbuscular mycorrhizal fungal colonization of Glycyrrhiza glabra roots enhances plant biomass,phosphorus uptake and concentration of root secondary metabolites[J]. Journal of Arid Land,2014,6(2):186-194.
+
+[35]贺学礼，杨欢，杨莹莹，等.沙棘AM真菌孢子形态结构及其生 态适应性[J].干旱区研究,2013,30（1）:96-100.[HeXueli, Yang Huan,Yang Yingying,et al. Morphological structure and ecological adaptability of arbuscular mycorrhizal fungi in the rhizosphere of Hippophae rhamnoides[J].Arid ZoneResearch,2013,30 (1):96-100.]
+
+# Effects of Arbuscular Mycorrhizal Fungi on Growth and Active Constituents of Carthamus tinctorius
+
+ZHAO Xiang1， ZENG Guang-ping'， YANG Pan'， ZHAI Ya-ping1， ZHANG Xia $^ { 1 }$ ，LIU Hong-ling²(1. CollegeofLifeSciences,hihezi University,Shihezi 8320o,Xinjiang,China;2.Chengdu Normal University,Chengdu 611130,Sichuan,China)
+
+Abstract：Arbuscular mycorrhizas（AM）fungi is widely distributed excellent microbial resources insoil ecosystems and it is oftenused inmedicinal plants with important economic value.Inthis study，Carthamus tinctorius was inoculated with different AM fungi: Glomus moseae，Glomus intraradices and Mixed AM fungi（G.mosseae，G.etunicatum，G.microagregatum，G.caledonium，G.cladoideum and G.intraradices），respectively and inoculated with the same amount of inactivated bacteria as the control group.The inoculation efect of AM fungi was identified by measuring the infection rate and spore density，and the content of HSYA and kaempferol in $C$ . tinctorius velvet was determined byhigh performance liquid chromatography at diferent picking stages.The purposes of this study were to investigate the effects of AM fungi on the growth and active constituents of $C$ . tinctorius，and to analyze the effects of different flowering stages on HSYAand kaempferol soas to providean important theoretical basis for promotingagricultural production of $C$ . tinctorius in Xinjiang.We measured the content of hydroxysaflor yellow A and Kaempferol in $C$ . tinctorius velvet by the high performance liquid chromatography method at diferent picking stages.The results showed hat AM fungi could significantly promote the accumulation of aboveground parts，underground roots and floral biomass of $C$ . tinctorius.In terms of the synthesis of secondary metabolites，there was no significant diference in the content of hydroxysaflor yellow A and Kaempferol in $C$ .tinctorius under different AM fungi treatments and different growth stages.
+
+Key words:arbuscular mycorrhizas fungi；mycorrhizal infection rate；soil spore density；secondary metabolite

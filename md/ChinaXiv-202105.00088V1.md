@@ -1,0 +1,152 @@
+# 甘肃祁连山国家自然保护区植物群落分布格局及其与环境因子的关系
+
+苏军德1\*，赵晓冏²，李国霞¹（1.甘肃有色冶金职业技术学院，甘肃 金昌 737100；2.甘肃省生态环境科学设计研究院，兰州 730000;3.中国科学院，西北生态环境资源研究院，兰州730000）
+
+摘要：植物群落分布格局是环境因子和人类活动共同作用的结果，尤其是海拔梯度被认为是植物群落分布格局的决定性因子，为探求甘肃祁连山国家自然保护区植物群落分布格局与环境因子的关系及其驱动机制，该文在野外调查的基础上，运用数量分类和DCCA排序等方法，探讨了研究区内植物群落特征及其与环境因子的关系。结果表明：（1）88块样方共记录物种85种，隶属30科 56属，TWINSPAN分类将其分为9个植物群落；（2）9个植物群落在DCCA排序图上聚集分布，呈现出较好的环境梯度，其中海拔对植物群落分布格局影响最大，其次为降水、温度、坡度、坡向和土壤腐殖质；（3）影响植物群落空间分布格局的变量中，环境因子解释了群落分布格局的 $2 5 . 2 4 \%$ ，空间因子解释了群落分布格局的 $1 3 . 2 1 \%$ ，空间因子和环境因子交叉作用对群落分布格局的解释率占 $9 . 0 3 \%$ ，群落分布格局未被空间因子和环境因子解释部分占 $5 2 . 5 2 \%$ ，这部分主要反映了人类活动对研究区植物群落分布格局的影响。该文的研究成果对区域内植被的生态恢复和生物多样性的稳定维持具有重要的意义。
+
+关键词：植物群落，祁连山国家自然保护区，分布格局，DCCA，海拔中图分类号： 文献标识码：A 文章编号：
+
+# Distribution pattern of plant community and its relationship with environmental factors in Qilian Mountains National Nature Reserve of Gansu Province
+
+SU Jundel\*， ZHAO Xiaojiong2,3， LI Guoxial (1. Gansu Vocational & Technical College ofNonferrous Metallurgy, Gansu Province, Jinchang 737100, China;2.Gansu Academy ofEcological Environment Design and Research,LanZhou 7300,China； 3.Chinese Academy of Sciences, Nourthwest Institute ofEco-Environment and Resources,LanZhou 733000, China)
+
+Abstract: The distribution patern of plant community is the result ofthe interaction of environmental factors and human activities,especially the elevation gradient is considered as the decisive factorof the distribution pattern of plant community. In order to explore the relationship between plant community distribution pattern and environmental factors and its driving mechanism in Qilian Mountains National Nature Reserve of Gansu Province, this study used quantitative clasification and DCCA sequencing methods to discuss the characteristics of plant communityand its relationship with environmental factors inthe study area on the basis offield investigation.The results were as follows: (1) There were 85 species of seed plants belonging to 30 families and 56 genera in Qilian Mountains National Nature Reserve of Gansu Province,including twelve species of Gramineae,nine species of Compositae, eight species of leguminous family, six species of Rosaceae and five species of Chenopodiaceae, accounting for $1 4 . 1 1 \%$ ， $10 . 5 9 \%$ ， $9 . 4 1 \%$ ， $7 . 0 6 \%$ and $5 . 8 8 \%$ of total species,respectively. TWINSPAN can be clasified into nine plant communities; (2) Nine plant communities were clustered and distributed on the DCCA sequencing diagram,showing a good environmental gradient. Altitude had a great influence on the distribution patrn of plant communities,folowed by precipitation, temperature,slope, slope direction and soil humus; (3) Influence plant community spatial distribution patern of the variable, environmental factors explain $2 5 . 2 4 \%$ of the community distribution pattern, spatial factors explain $1 3 . 2 1 \%$ of the community distribution pattern, space factor and environment factor interactions to explain community distribution pattrn of the rate of $9 . 0 3 \%$ community distribution pattern has not been accounted for $5 2 . 5 2 \%$ of space factor and environment factor section, this part mainly reflects the human activity influence on plant community distribution patern in the study area. The research results ofthis paper are of great significance to the ecological restoration of vegetation and the stable maintenance of biodiversity in the region.
+
+Key words:plant community,Qilian Mountains National Nature Reserve of Gansu Province,distribution pattern, DCCA，altitude
+
+植被空间分布作为衡量森林生态系统结构和功能的重要指标（唐志红等，2020），受海拔、温度、降水等众多环境因子的影响（王金兰等，2019），能够很好的反映物种组成和群落的结构特征（张建贵等，2019）。但近年来，随着全球气候变暖和人类活动的加剧，植被群落面临着诸如生长不良、功能衰退、稳定性变差等问题，严重影响着森林生态系统的生态效益及区域经济的协调发展，同时也受到了全社会和科学界的高度关注。李金等（2020）运用植物多样性指数及冗余分析，深入分析了阿勒泰小克兰河上游植物的垂直分布格局；单元琪等（2020）通过实地植物样方调查，发现海拔是影响三江平原七星河流域湿地植物多样性的重要因素；刘梦婷等（2019）研究表明，森林采伐对新疆天山云杉林群落分布格局具有十分重要的影响。由此可见，研究植物群落的分布格局及其与环境因子的关系，对深入了解物种的演化趋势、生态系统的功能发挥以及物种分布的驱动机制都有十分重要的意义。
+
+甘肃祁连山国家自然保护区地理位置特殊，具有独特而典型的自然生态系统和生物区系，因其物种丰富（李艳龙等，2020），成为我国生物多样性保护的优先区域，也是西北地区重要的生物物种资源库和野生动物迁徙的重要廊道（丁文广，2019），在维护我国西北生态安全和促进区域社会经济发展方面起着十分重要的作用。近年来，众多学者对区域内生物多样性（温娅丽和张虎，2002）、植被NDVI（苏军德和李国霞，2019）、森林生态效益（汪有奎等，2013）等方面进行了研究，但都基于遥感数据，关于甘肃祁连山自然保护区植物群落分布及其与环境因子关系的研究还鲜有报道。本研究以甘肃祁连山国家自然保护区北坡上的植物群落为研究对象，通过实地样方调查并结合双向指示种分析法，深入分析了区域内植被群落空间分布格局与其环境因子的关系，以期探索区域内植被群落空间分布的驱动机制，同时也为区域内植被的生态恢复和生物多样性的稳定维持奠定一定的理论基础。
+
+# 1材料与方法
+
+1.1 研究区概况研究区位于甘肃省祁连山国家自然保护区境内，地处 $3 8 ^ { \circ } 1 5 ^ { \prime } \mathrm { ~ N ~ }$ 、 $9 9 ^ { \circ } 3 0 ^ { \prime }$ E（图1），由于远离海洋，长期受西风影响，具有大陆性高寒半湿润山地气候特征（陈童尧等，2020）。年均气温 $6 ~ \mathrm { ^ { \circ } C }$ ，年均降水量约为 $5 5 0 \mathrm { m m }$ ，集中分布在5一9月，年蒸发量为 $1 2 3 4 . 2 \mathrm { m m }$ ，无霜期为 $1 1 0 \mathrm { d }$ 。区域植被主要分布在 $1 5 0 0 { \sim } 3 7 0 0 \mathrm { m }$ 之间，具有明显的垂直梯带性和阴阳破差异，主要有青海云杉林、灌木林和少量的祁连圆柏、桦木和山杨林。草原有草甸草原、荒漠草原和高寒草原，区域内植被生长良好，森林覆盖率达$2 8 . 8 \%$ （宋伟宏等，2019）。土壤以山地森林灰褐土、草原栗钙土、亚高山灌丛草甸土为主。
+
+![](images/c98920d2c2c2fa695c61160b6e85fa7aa1a9a94b1e69170b38572343dab9775f.jpg)  
+图1采样点位置图  
+Fig. 1 Location map of sampling points
+
+1.2 样方的布设与调查以垂直高度 $1 0 0 \mathrm { m }$ 为间隔，于2017年8月在研究区内不同生境和不同植被群落处设置 $3 0 \mathrm { m } \times 3 0 \mathrm { m }$ 的样地，共计88块，每块样地中随机布设1个 $1 5 \mathrm { m } \times 1 5 \mathrm { m }$ 的乔木大样方，在乔木样方内再沿对角线布设3个 $5 \mathrm { m } \times 5 \mathrm { m }$ 的灌木样方和随机布设 $1 \mathrm { m } \times 1 \mathrm { m }$ 的草本样方，统计样方内乔木和灌木的株高、胸径、株数以及草本植物的多度和盖度，同时详细记录每个样方的海拔、坡度、坡向、土壤腐殖质厚度等环境因子，气温和降水数据采用寺大隆气象站（海拔 $2 6 0 0 \mathrm { m }$ ）观测值。共调查乔木样方88个，灌木样方264个，草本样方337个。
+
+1.3数据分析以重要值（ $\scriptstyle { \mathrm { I V } } =$ 相对频度 $+$ 相对多度 $\cdot +$ 相对显著度或相对盖度）（张世雄等，2020）为样方物种信息，结合海拔、气温、降水、坡度等环境因子，运用软件WINTWIN 2.3完成双向指示种（two-wayindicator species analysis,TWINSPAN）（王国宏和杨利民，2001）分析，将88个样方划分成不同植被群落。并在此基础上，利用运用软件CANOCO5.0完成样方物种信息的除趋势典范对应分析（detrended canonicalcorrespondence analysis，DCCA）（潘婷婷等，2020）和环境-空间变量分离分析。
+
+# 2结果与分析
+
+# 2.1典型样地植物群落物种组成
+
+本文共调查样地88块，记录种子植物85种，隶属30科 56属，其中禾本科12种、菊科9种、豆科 8种、蔷薇科6种、藜科5种，分别占物种总数的 $1 4 . 1 1 \%$ 、 $1 0 . 5 9 \%$ 、 $9 . 4 1 \%$ 、 $7 . 0 6 \%$ 和 $5 . 8 8 \%$ 。植被群落由乔木层、灌木层和草本层组成，其中乔木层5种，灌木层13种，草本层67种。群落不同层片物种重要值表明（表1），在甘肃祁连山国家自然保护区乔木层优势种有祁连圆柏、青海云杉、红桦、山杨和白桦，灌木层优势种有鬼箭锦鸡儿、狭叶锦鸡儿、金露梅、白刺、红砂、盐爪爪、合头草和蒙古，草本层优势种有小甘菊、冰草、芨芨草、牛筋草、甘肃萱草、甘青蒿、垂穗披碱草、小花凤毛菊、早熟禾和针茅。
+
+# 表1甘肃祁连山国家自然保护区植被优势种及重要值
+
+Table 1Quantitative characteristics of dominant species in National Nature Reserve of Qilian Mountains C   
+
+<html><body><table><tr><td colspan="5">Gansu Province</td></tr><tr><td>种名</td><td>科名</td><td>属名</td><td>生活型</td><td>重要值</td></tr><tr><td>Species</td><td>Family</td><td>Genus</td><td>Life form</td><td>Important value</td></tr><tr><td>祁连圆柏 Sabinachinensis</td><td>柏科Cupressaceae</td><td>圆柏属 Sabina</td><td>乔木 Arbor</td><td>201.43</td></tr><tr><td>青海云杉 Picea crassifolia</td><td>松科Pinaceae</td><td>云杉属Picea</td><td>乔木 Arbor</td><td>230.21</td></tr><tr><td>山杨 Populus daviviana</td><td>杨柳科 Salicaceae</td><td>杨属Populus</td><td>乔木 Arbor</td><td>87.43</td></tr><tr><td>红桦Betula albosinensis</td><td>桦木科Betulaceae</td><td>桦木属Betula</td><td>乔木 Arbor</td><td>90.12</td></tr><tr><td>白桦Betula platyphylla</td><td>桦木科 Betulaceae</td><td>桦木属Betula</td><td>乔木 Arbor</td><td>82.13</td></tr><tr><td>狭叶锦鸡儿 Caragana stenophylla</td><td>豆科 Leguminosae</td><td>锦鸡儿属 Caragana</td><td>灌木 Shrub</td><td>103.44</td></tr><tr><td>怪柳 Tamarix chinensis</td><td>怪柳科 Tamaricaceae</td><td>怪柳属Tamarix</td><td>灌木 Shrub</td><td>43.23</td></tr><tr><td>鬼箭锦鸡儿 Caragana jubata</td><td>豆科 Leguminosae</td><td>锦鸡儿属 Caragana</td><td>灌木 Shrub</td><td>110.76</td></tr><tr><td>山生柳 Salix oritrepha</td><td>杨柳科 Salicaceae</td><td>柳属Salix</td><td>灌木 Shrub</td><td>56.27</td></tr><tr><td>金露梅Potentilla fruticosa</td><td>蔷薇科 Rosaceae</td><td>委陵菜属Potentilla</td><td>灌木 Shrub</td><td>98.51</td></tr><tr><td>银露梅Potentilla glabra</td><td>蔷薇科Rosaceae</td><td>委陵菜属Potentilla</td><td>灌木 Shrub</td><td>72.61</td></tr><tr><td>白刺Nitraria tangutorum</td><td>蒺藜科Zygophyllaceae</td><td>白刺属Nitraria</td><td>灌木 Shrub</td><td>89.31</td></tr><tr><td>红砂 Reaumuria songarica</td><td>怪柳科Tamaricaceae</td><td>红砂属Reaumuria</td><td>灌木 Shrub</td><td>80.10</td></tr><tr><td>盐爪爪Kalidium foliatum</td><td>藜科 Chenopodiaceae</td><td>盐爪爪属Kalidium</td><td>灌木 Shrub</td><td>74.87</td></tr><tr><td>蒙古获 Caryopteris mongholica</td><td>马鞭草科 Verbenaceae</td><td>获属 Caryopteris</td><td>灌木 Shrub</td><td>65.32</td></tr><tr><td>驼绒藜 Ceratoides latens</td><td>藜科 Chenopodiaceae</td><td>驼绒藜属 Ceratoides</td><td>灌木 Shrub</td><td>40.19</td></tr><tr><td>甘蒙锦鸡儿 Caragana opulens</td><td>豆科Leguminosae</td><td>锦鸡儿属Caragana</td><td>灌木 Shrub</td><td>55.34</td></tr><tr><td>合头草 Sympegma regeli</td><td>藜科 Chenopodiaceae</td><td>合头草属 Sympegma</td><td>灌木 Shrub</td><td>67.89</td></tr><tr><td>小甘菊 Cancrinia discoidea</td><td>菊科 Compositae</td><td>小甘菊属 Cancrinia</td><td>两年生草本</td><td>110.35</td></tr><tr><td rowspan="2">冰草Agropyron cristatum</td><td></td><td></td><td>Biennial herb 多年生草本</td><td>95.38</td></tr><tr><td>禾本科 Poaceae</td><td>冰草属Agropyron</td><td>Perennial herb</td><td></td></tr><tr><td>芨芨草Achnatherum splendens</td><td>禾本科 Poaceae</td><td>芨芨草属</td><td>多年生草本</td><td>89.38</td></tr><tr><td rowspan="2">牛筋草Eleusine indica</td><td></td><td>Achnatherum</td><td>Perennial herb</td><td></td></tr><tr><td>禾本科 Poaceae</td><td>穆属Coracana</td><td>一年生草本</td><td>94.76</td></tr><tr><td rowspan="2"></td><td></td><td></td><td>Annual herb</td><td></td></tr><tr><td>茄科 Solanaceae</td><td>茄属Solanum</td><td>一年生草本</td><td>45.67</td></tr><tr><td>黄花刺茄 Solanum rostratum</td><td></td><td></td><td>Annual herb</td><td></td></tr><tr><td>早熟禾Poa annua</td><td>禾本科 Poaceae</td><td>早熟禾属Poa Linn.</td><td>一年生草本</td><td>90.24</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td>Annual herb</td><td></td></tr><tr><td>针茅Stipa capillata</td><td>禾本科 Poaceae</td><td>针茅属Stipa</td><td>多年生草本 Perennial herb</td><td>67.89</td></tr><tr><td>高原毛茛 Ranunculaceae</td><td></td><td></td><td>多年生草本</td><td>56.87</td></tr><tr><td></td><td>毛茛科 Ranunculaceae</td><td>毛茛属Ranunculus</td><td>Perennial herb</td><td></td></tr><tr><td>小花风毛菊 Saussurea parviflora</td><td></td><td></td><td>多年生草本</td><td>89.12</td></tr><tr><td></td><td>菊科 Compositae</td><td>风毛菊属 Saussurea</td><td>Perennial herb</td><td></td></tr><tr><td></td><td></td><td></td><td>多年生草本</td><td>96.31</td></tr><tr><td>甘肃萱草 Carex kansuensis</td><td>莎草科 Cyperaceae</td><td>萱草属 Hemerocallis</td><td>Perennial herb</td><td></td></tr><tr><td></td><td></td><td></td><td>多年生草本</td><td>90.17</td></tr><tr><td>甘青蒿Artemisia tangutica</td><td>菊科 Compositae</td><td>蒿属Artemisia</td><td>Perennial herb</td><td></td></tr><tr><td></td><td></td><td></td><td>多年生草本</td><td>89.88</td></tr><tr><td>垂穗披碱草 Elymus nutans</td><td>禾本科 Poaceae</td><td>披碱草属 Elymusspp</td><td>Perennial herb</td><td></td></tr><tr><td>醉马草Achnatherum inebrians</td><td></td><td>芨芨草属</td><td>多年生草本</td><td>54.65</td></tr><tr><td></td><td>禾本科 Poaceae</td><td>Achnatherum</td><td>Perennial herb</td><td></td></tr><tr><td>冷水花Pilea notata</td><td></td><td>冷水花属 Pilea</td><td>多年生草本</td><td>42.17</td></tr><tr><td></td><td>荨麻科Urticaceae</td><td>Lindl</td><td>Perennial herb</td><td></td></tr><tr><td>东方草莓Fragaria orientalis</td><td></td><td></td><td>多年生草本</td><td>39.85</td></tr><tr><td></td><td>蔷薇科Rosaceae</td><td>草莓属Fragaria</td><td>Perennial herb</td><td></td></tr><tr><td>藓生马先蒿Pedicularismuscicola</td><td>玄参科</td><td>马先蒿属</td><td>多年生草本</td><td>40.08</td></tr><tr><td></td><td>Scrophulariaceae</td><td>Pedicularis</td><td>Perennial herb</td><td></td></tr><tr><td>裂叶独活 Heracleum millefolium</td><td></td><td></td><td>多年生草本</td><td>41.01</td></tr><tr><td></td><td>伞形科 Apiaceae</td><td>独活属 Heracleum</td><td>Perennial herb</td><td></td></tr><tr><td>白莲蒿Artemisia sacrorum</td><td></td><td></td><td>多年生草本</td><td>37.52</td></tr><tr><td>Ledeb</td><td>菊科 Compositae</td><td>蒿属Artemisia</td><td>Perennial herb</td><td></td></tr></table></body></html>
+
+# 2.2植被群落分类
+
+TWINSPAN 是将样方与物种进行双向聚类，以二歧式的方式对群落类型进行分割划分。依据《中国植被》的分类原则，以重要值为依据，对甘肃祁连山自然保护区88个样方进行TWINSPAN分类，并根据群落生境的指示种和优势种进行命名，结果将88个样方划分为9个群落类型（图2）。
+
+群丛I：祁连圆柏 $+$ 鬼箭锦鸡儿 $\cdot ^ { + }$ 甘肃萱草，由乔木层、灌木层和草本层构成，乔木层以祁连圆柏为主，郁闭度为 $0 . 2 7 { \sim } 0 . 5 2$ ，灌木层主要有鬼箭锦鸡儿和金露梅，草本层有甘肃萱草、甘青蒿等，分布于海拔 $3 0 5 0 \sim$ $3 3 0 0 \mathrm { m }$ 之间，包括样方34、43、62、66、67、68、70、71、73、74、75、80、83、84、85、86、87，伴有青海云杉、金露梅、小叶金露梅、早熟禾、裂叶独活、针茅、蒲公英、藓生马先蒿、小米草、肉果草、龙胆等，草本植物盖度为 $82 \%$ 。
+
+群丛ⅡI：鬼箭锦鸡儿 $^ +$ 山生柳 $^ +$ 青藏蓼，由灌木层和草本层构成，灌木层主要以鬼箭锦鸡儿和山生柳为主，草本层主要有青藏蓼、珠芽蓼等，分布于海拔 $3 ~ 1 9 0 { \sim } 3 ~ 7 0 0 \mathrm { m }$ 之间，包括样方61、63、64、65、69、72、76，伴有青海杜鹃、甘肃萱草、高原毛茛、垂穗披碱草、早熟禾、火绒草等，草本植物盖度为 $78 \%$ 。
+
+群丛III：银露梅 $\vdots$ 狭叶锦鸡儿 $. +$ 甘肃萱草，由灌木层和草本层构成，灌木层主要以银露梅和狭叶锦鸡儿为主，草本层主要有甘肃萱草、垂穗披碱草等，分布于海拔 $2 3 5 0 { \sim } 2 6 0 0 \mathrm { m }$ 之间，包括样方25、29、32、37、39、44、55、56、59、77、78、79、88，伴有高头乌、凤毛菊、针茅、早熟禾、唐松草、甘肃萱草、裂叶独活、甘肃马先蒿、双花堇菜，草本植物盖度为 $8 5 \%$ 。
+
+群丛IV：青海云杉 $. +$ 金露梅 $\vdots$ 垂穗披碱草，由乔木层、灌木层和草本层构成，乔木层主要以青海云杉为主，郁闭度为0.43-0.67，灌木层有金露梅等，草本层主要有垂穗披碱草、冰草等，分布于海拔2450\~2950$\mathbf { m }$ 之间，包括样方30、31、35、40、45、47、48、49、51、53、57、58、60、81、82，伴有蒲公英、车前、针茅、早熟禾、湿地繁缕，草本层植物盖度为 $72 \%$ 。
+
+群丛V：蒙古获 $\cdot +$ 狭叶锦鸡儿 $. +$ 甘肃马先蒿，由灌木层和草本层构成，灌木层主要有蒙古获和狭叶锦鸡儿，草本层主要有甘肃马先蒿，分布于海拔 $2 \ 3 6 0 { \sim } 2 \ 7 5 0 \ \mathrm { m }$ 之间，包括样方26、27、28、33、36、38、41、42、46、50、52、54，伴有金露梅、冰草、红花蔷薇、早熟禾、堇菜、唐松草、凤毛菊、裂叶独活、高头乌，草本层植物盖度为 $67 \%$ 。
+
+群丛VI：狭叶锦鸡儿 $+$ 甘蒙锦鸡儿 $. +$ 冰草，由灌木层和草本层构成，灌木层主要以狭叶锦鸡儿和甘蒙锦鸡儿为主，草本层主要有冰草，分布于海拔 $2 \ 3 0 0 { \sim } 2 \ 3 6 0 \ \mathrm { m }$ 之间，包括样方5、6、14、21、22、23、24,伴有甘肃马先蒿、双花堇菜、唐松草、裂叶独活、拉拉藤，草本植物盖度为 $58 \%$ 。
+
+群丛VII：红砂 $\cdot + \cdot$ 合头草 $+$ 芨芨草，由灌木层和草本层构成，灌木层主要有红砂和合头草，草本层以芨芨草为主，分布于海拔 $1 5 5 0 { \sim } 1 7 3 0 \mathrm { m }$ 之间，包括样方2、3、9、10、17，伴有旱柳、沙棘、披碱草、冰草、早熟禾、狼毒花，草本植物盖度为 $64 \%$
+
+群丛：盐爪爪 $^ +$ 红砂 $+$ 牛筋草，由灌木层和草本层构成，灌木层主要有盐爪爪和红砂，草本层以牛筋草为主，分布于海拔 $1 \ 5 0 0 { \sim } 1 \ 8 0 0 \ \mathrm { m }$ 之间，包括样方11、12、13、15、16、20，伴有沙棘、芨芨草、白莲蒿、冰草、狼毒花、早熟禾，草本植物盖度为 $70 \%$ 。
+
+群丛IX：白刺 $+$ 怪柳 $+$ 冰草，由灌木层和草本层构成，灌木层主要有白刺和怪柳，草本层以冰草为主，分布于海拔 $1 \ 5 0 0 { \sim } 1 \ 7 0 0 \ \mathrm { m }$ 之间，包括样方1、4、7、8、18、19，伴有旱柳、狼毒花、牛筋草、早熟禾、白莲蒿，草本植物盖度为 $68 \%$ 。
+
+![](images/19eac99799458e6cc728003fc8e5a5ae135adc8012e98fde3dc28039526684eb.jpg)  
+图2样方TWINSPAN分类树状图
+
+N.样方数，Eig.特征值。   
+N.Number of samples; Eig.Eigenvalue.
+
+Fig. 2Dendrogram with the Two-way indicator species analysis for the plant communities
+
+# 2.3植被群落的DCCA排序分析
+
+2.3.1环境因子与DCCA排序轴的相关性
+
+甘肃祁连山自然保护区植被群落DCCA排序结果表明（表2），前四个排序轴对物种和环境关系的解释量累计为 $89 . 7 5 \%$ ，其中第一轴为 $6 4 . 2 1 \%$ ，这说明第一轴在对群落与环境关系的解释中占主导地位。蒙特卡洛检验（Du etal.,2020）也同样表明，前四个排序轴所反映的环境因子与物种呈显著相关（ $P { < } 0 . 0 1$ ），其中第一轴蒙特卡洛检验结果为： $F { = } 1 1 . 8 7 5$ ， $\scriptstyle P = 0 . 0 0 1$ 。
+
+各环境因子与第一轴呈显著相关关系，相关性大小表现为：海拔 $>$ 年均降水 $>$ 年均温度 $>$ 坡度 $>$ 土壤腐殖质 $>$ 坡位 $>$ 坡向，表明第一轴主要反映了由海拔变化引起的水热生态环境、地形及土壤因子的变化。海拔、年均降水、坡度和年均温度与第二轴呈显著相关关系，相关性大小表现为年均温度 $>$ 年均降水 $>$ 坡度 $>$ 海拔，表明第二轴主要反映了温度的梯度变化（表2）。
+
+表2甘肃祁连山自然保护区环境因子DCCA排序轴的相关性  
+'able 2Correlations of environmental variables with the first four axes of DCCA as well as eigenvalues in National Nature Reserve of Qilian Mountains of Gansu Province ( $^ { * * } P { < } 0 . 0 1$ ， $^ { * } P { < } 0 . 0 5 \$ ）   
+
+<html><body><table><tr><td rowspan="2">环境因子 Environmental factor</td><td colspan="4">排序轴 Axis</td></tr><tr><td>第一轴 AX I</td><td>第二轴 AX II</td><td>第三轴 AX III</td><td>第四轴 AX IV</td></tr><tr><td>海拔 Altitude</td><td>0.875 4**</td><td>0.3721**</td><td>0.281 2</td><td>0.142 3</td></tr><tr><td>年均降水 Mean precipitation</td><td>0.742 9**</td><td>0.5985**</td><td>0.120 1</td><td>0.098 4</td></tr><tr><td>坡度 Slop gradient</td><td>0.465 8**</td><td>0.372 5*</td><td>0.601 2**</td><td>0.245 8</td></tr><tr><td>年均温度 Mean temperature</td><td>-0.481 2**</td><td>-0.798 7**</td><td>0.297 0</td><td>0.120 3</td></tr><tr><td>坡向 Slop aspect</td><td>0.357 8*</td><td>-0.031 2</td><td>-0.153 4</td><td>-0.217 2</td></tr><tr><td>坡位Location</td><td>-0.410 2*</td><td>-0.132 4</td><td>0.023 1</td><td>0.018 7</td></tr><tr><td>土壤腐殖质 Soil humus</td><td>0.423 1**</td><td>-0.231 6*</td><td>-0.1731</td><td>-0.062 3</td></tr><tr><td>特征值Eigenvalues</td><td>0.962</td><td>0.643</td><td>0.471</td><td>0.371</td></tr><tr><td>物种-环境因子相关性</td><td></td><td></td><td></td><td></td></tr><tr><td>Species-environmental factor correlation</td><td>0.957</td><td>0.884</td><td>0.701</td><td>0.629</td></tr><tr><td>物种数据累计百分比方差 Cumulative percentage variance of</td><td>25.14</td><td>31.08</td><td>32.27</td><td>33.51</td></tr><tr><td>species data 物种-环境关系的累计百分比方差 Cumulative percentage variance of</td><td>64.21</td><td>78.34</td><td>84.58</td><td>89.75</td></tr></table></body></html>
+
+# 2.3.2植被群落样方与环境因子的DCCA排序
+
+甘肃祁连山自然保护区植被群落DCCA分析结果表明（表2），前四个排序轴的特征值分别为0.962、0.643、0.471和0.371，由于第一排序轴和第二排序轴特征值相对较高，反映了重要的生态意义，因此采用前两个排序轴数据作群落样方与环境因子DCCA二维排序图（图3），结果显示，88个样方被分为9个群落类型，且在DCCA二维排序图中聚集分布，反映了海拔-水-热的梯度变化。群丛IX到群丛I沿第一排序轴从左到右交叉分布，海拔从 $1 5 0 0 \mathrm { m }$ 到 $3 7 0 0 \mathrm { m }$ ，依次出现了红砂、盐爪爪、白刺、狭叶锦鸡儿、金露梅、青海云杉、祁连圆柏、鬼箭锦鸡儿等生态习性各异的植被系列，刻画了海拔的梯度变化。群丛VI到群丛I沿第二排序轴从下往上交叉分布，体现了温度的梯度变化。
+
+样方与环境因子的DCCA二维排序图直观的展现了样方群落与环境因子的相互关系（图3），DCCA第一轴反映海拔的梯度变化，从左往右海拔依次升高，第二轴反映温度的梯度变化，从下往上温度依次升高。群落VII（红砂 $^ +$ 合头草 $^ +$ 芨芨草）、群落VⅢ（盐爪爪 $. +$ 红砂 $^ +$ 牛筋草）、群落IX（白刺 $+$ 怪柳 $+ .$ 冰草）属旱生荒漠群丛，分布在海拔相对较低、温度较高的区域，但在第二轴上并未产生明显的分化。群落Ⅰ（祁连圆柏 $+$ 鬼箭锦鸡儿 $\cdot ^ { + }$ 甘肃萱草）受海拔、坡度和降水的影响较大，分布在海拔较高、坡度较陡、降水较多的区域。群落III（银露梅 $+$ 狭叶锦鸡儿 $. +$ 甘肃萱草）受制于坡向和海拔的影响，主要分布在海拔相对较低，土壤腐殖质较厚的区域。群落IV（青海云杉 $. + .$ 金露梅 $+$ 垂穗披碱草）的限制因子是海拔和温度，主要分布在海拔相对较低，生境干旱、土壤腐殖质较厚的区域。群落V（蒙古获 $^ +$ 狭叶锦鸡儿 $\cdot ^ { + }$ 甘肃马先蒿）主要分布在海拔较高、坡度陡峭、土壤腐殖质较薄的区域。群落ⅡI（鬼箭锦鸡儿 $\cdot ^ { + }$ 山生柳 $+$ 青藏蓼）分布在高海拔的冷湿区域。
+
+![](images/d0becf6a03ba7d906cd866e5bca955e44111b9973a4a506491b495678d644232.jpg)  
+图3甘肃祁连山自然保护区群落样方与环境因子的DCCA二维排序
+
+ALTI.海拔；GRAD.坡度；ASEP.坡向；PREC.年均降水；TEMP.年均温度；HUMU.土壤腐殖质。   
+ALTI.Altitude；GRAD.Slopgradient；ASEP.Slopaspect；PREC.Meanprecipiation；TEMP.Meantemperature；HUMU.Soilumu.
+
+Fig.3Two-dimensional scater plotof DCCA ordination for woody plant communities and environment factors in National Nature Reserve of Qilian Mountains of Gansu Province
+
+2.3.3影响群落分布格局环境因子的定量分析
+
+DCCA 分析结果表明，海拔、降水、温度、坡度、坡向、土壤腐殖质共同影响着研究区群落物种的分布格局，依据 Borcard等（1992）的方法论，对影响甘肃祁连山自然保护区群落分布格局的环境空间变量做定量分离，结果显示，环境因子对群落分布格局的解释率占 $2 5 . 2 4 \%$ ，空间因子对群落分布格局解释率占$1 3 . 2 1 \%$ ，空间因子和环境因子交叉作用对群落分布格局的解释率占 $9 . 0 3 \%$ ，群落分布格局未被空间因子和环境因子解释部分占 $5 2 . 5 2 \%$ 。
+
+# 3讨论
+
+物种组成是反映植物群落结构变化的重要因子（Andrietal.，2020），甘肃祁连山国家自然保护区因其丰富的植物多样性，在维护我国西部生态安全方面起着重要的作用。本研究调查的88个样方中，发现种子植物85种，隶属30科56属。禾本科、菊科和豆科的物种在研究区内占主要优势，这与唐志红对祁连山东段植物群落特征研究结果较为一致。研究区共发现乔木5种，主要以青海云杉为主，且有绝对优势，主要分布在中海拔的半阴坡和半阳坡，在高海拔的阳坡有少量祁连圆柏分布，在峡谷地带分布有少量的红桦和白桦，山杨在河谷地段成斑状分布。由于乔木层物种在甘肃祁连山国家自然保护区北坡分布较少（张超，2020），加之其个体生长缓慢，植被组成相对稳定（蒋友严等，2017），而灌木层和草本层植被物种多样性和丰富度却随着乔木层植被的演替而不断变化（张永虎，2010）。灌木作为甘肃祁连山自然保护区北坡的主要植物类群，从低海拔到高海拔都有分布，共有13种，占植物种类的 $1 5 . 2 9 \%$ 。
+
+植物群落的空间分布是海拔及众多环境因子共同作用的结果，但近年来，海拔被认为是植物群落空间分布的决定性因素。刘梦婷等认为天山云杉群落的空间分布的主导因子是海拔；高辉等研究表明由海拔梯度引起的湿度和土壤含氮量是决定色季拉山物种多样性及其空间分布的重要因素；潘婷婷等也发现海拔是南京北部郊野森林群落结构和植物生长的限制因子。本研究TWINSPAN分析划分的9个群落类型，随海拔梯度的升高，依次出现了超旱生荒漠类型（群落VII、VI、IX）、山地旱生类型（群落V、VI）、山地中生类型（群落II、IⅣ）、山地湿生类型（群落I）、山地高寒类型（群落ⅡI），体现了甘肃祁连山国家自然保护区植被群落的垂直梯带性分布特征。易玉媛和王红义（2013）的研究也同样表明，祁连山北坡植被群落随着海拔的升高，依次呈现出荒漠草原植被、干性灌丛草原植被、山地森林草原植被、亚高山灌丛草甸植被、高山寒漠草甸植被的分布格局。由此可见，海拔是影响祁连山自然保护区北坡植被群落空间分布最重要的环境因子，决定着不同地理气候带群落尺度上植被的空间分布。
+
+在区域及较大尺度上，降水和温度是影响物种多样性和植被分布的重要因素（刘冠成等，2018），而在景观及小尺度上，环境因子则主要决定植被的空间分布（刘春艳等，2017）。蒙特卡洛检验结果显示，所有排序轴都通过统计检验（ $\scriptstyle { \cal F } = 2 . 5 3 1$ ， $P { < } 0 . 0 0 1 \$ ），这说明所选环境因子均对研究区植被群落空间分布具有重要影响。甘肃祁连山国家自然保护区物种多样性和植被群落分布在区域尺度上主要受降水和温度的影响，随着海拔的升高，降水增多，温度降低（陈银萍等，2013），以 $4 2 0 ~ \mathrm { m m }$ 降水量为界，研究区植被形成了不同的演替格局。而在景观尺度上，地形及土壤腐殖质是植被群落空间分布的驱动因子，随着海拔的升高，土壤盐分减小，有机质及全氮含量增加（张蕊等，2014），且在不同坡度和坡向土壤肥力又有差异（贾鹏丽等，2020），南坡及坡度较缓的区域土壤肥力较高，草本及灌木主要分布在西南坡和西北坡，乔木则主要分布在北坡。由此可见，由海拔主导的水热及地形土壤因素是影响研究区植被群落分布格局的重要环境因子（Xinetal.，2020）。值得一提的是，研究区群落分布格局的环境空间变量定量分离结果显示，群落分布格局未被空间因子和环境因子解释部分占 $5 2 . 5 2 \%$ ，这说明除环境因子外，人类活动（如砍伐、放牧）对区域内植被群落的空间分布也有一定的影响（修丽娜，2014）。因此，加大对研究区现有森林资源的保护和宣传教育，对甘肃祁连山国家自然保护区生态恢复和重建具有十分重要的意义。
+
+# 4结论
+
+（1）甘肃祁连山国家自然保护区植被群落包括种子植物85种，隶属30科56属，其中禾本科12种、菊科9种、豆科8种、蔷薇科6种、藜科5种，分别占物种总数的 $1 4 . 1 1 \%$ 、 $10 . 5 9 \%$ 、 $9 . 4 1 \%$ 、 $7 . 0 6 \%$ 和 $5 . 8 8 \%$ 。（2）甘肃祁连山国家自然保护区植被群落包括9个群丛类型：既祁连圆柏 $+$ 鬼箭锦鸡儿 $. +$ 甘肃萱草、鬼箭锦鸡儿 $\cdot ^ { + }$ 山生柳 $+$ 青藏蓼、银露梅 $+$ 狭叶锦鸡儿 $. +$ 甘肃萱草、青海云杉 $. +$ 金露梅 $\vdots +$ 垂穗披碱草、蒙古获 $\cdot +$ 狭叶锦鸡儿 $\cdot ^ { + }$ 甘肃马先蒿、狭叶锦鸡儿 $. +$ 甘蒙锦鸡儿 $+$ 冰草、红砂 $+$ 合头草 $^ +$ 芨芨草、盐爪爪 $. +$ 红砂 $^ +$ 牛筋草、白刺 $+$ 怪柳 $+$ 冰草。（3）海拔是影响甘肃祁连山自然保护区植被群落分布格局的主要因素，其次为降水、温度、坡向、坡度和土壤腐殖质。（4）影响植物群落空间分布格局的变量中，环境因子解释了群落分布格局的 $2 5 . 2 4 \%$ ，空间因子解释了群落分布格局的 $1 3 . 2 1 \%$ ，空间因子和环境因子交叉作用对群落分布格局的解释率占 $9 . 0 3 \%$ ，群落分布格局未被空间因子和环境因子解释部分占 $5 2 . 5 2 \%$ 。
+
+# 参考文献：
+
+ANDRI C. VAN AARDT, DARYL CODRON,ETTIENNE J. THERON, et al.,2020. Plant community structure and possible vegetation changes after drought on a granite catena in the Kruger National Park[J]. S Africa, 62(2): el-e11.   
+BORCARD D.，P.LEGENDRE,P. DRAPEAU,1992. Partialing out the spatial component of ecological variation[J]. Ecology,15(73): 1045-1055.   
+SHAN YQ, YAO YL, ZHANG XX,et al.,2020.Study on wetland plant diversity and its influencing factors in the Qixiang River Basin of Sanjiang Plain[J].Acta Ecol Sin,40(5): 1629-1636.[单元琪，姚允龙，张欣欣，等， 2020．三江平原七星河流域湿地植物多样性及影响因素[J]．生态学报，40(5)：1629-1636.]   
+CHEN TY,JIAYF,WANGJN,etal.,2O20. Current situation and functionofsoil conservation inNational Nature Reserves in the Qilian Mountains based on InVEST Model[J].Arid Zone Res,37(1):150-159.[陈童尧，贾燕 锋，王佳楠，等，2020.基于InVEST 模型的祁连山国家级自然保护区土壤保持现状与功能[J].干旱区 研究，37(1):150-159.]   
+DU BJ,LIU CY, YANG JX,et al.,2020. Abutment pressure distribution pattern and size optimization of coal pillr under repeated mining: A case study[J]. Arab JGeosci, 13(23):1261.   
+DING WG, 2019. Inovative research on ecological environment protection system and mechanism in Qilian Mountain Nature Reserve of Gansu Province[D].Lanzhou: Lanzhou University: 23-25.[丁文广,2019.甘肃 祁连山自然保护区生态环境保护体制机制创新研究[D].兰州：兰州大学：23-25.]   
+JIAPL,Li M,FENGHY,et al.,2O20.Soil microbial diversityof black soil under diferent land use paterns in northeast China[J].Trans Chin Soc Agric Eng,36(20):171-178.[贾鹏丽，冯海艳，李淼，等，2020．东北 黑土区不同土地利用方式下农田土壤微生物多样性[J]．农业工程学报，36(20)：171-178.]   
+JIANG YY,DU WT, HUANG J, et al., 2017. Analysis of vegetation changes in the Qilian Mountains during 2000-2015[J].JGlac Geo,39(5):1130-1136.[蒋友严，杜文涛，黄进，等，2017.2000-2015年祁连山植 被变化分析[J]．冰川冻土，39(5)：1130-1136.]   
+LIU CY, ZHU KW,LIUJP,2017.Evolution and predication of landcover and biodiversity function in Chongqing section of Three Gorges Reservoir Area[J].Trans Chin Soc Agric Eng,33(19): 258-267.[刘春艳，朱康文， 刘吉平，2017.三峡库区重庆段土地覆盖和生物多样性功能演化及预测[J]．农业工程学报，33(19)： 258-267.]   
+LIU GC,HUANG YX, WANG QG,et al.,2018.Effects of environment factors on plant species diversity research progres[J].Chin Agric Sci Bul,34(13):83-89.[刘冠成，黄雅曦，王庆贵，等，2018．环境因子对植物 物种多样性的影响研究进展[J]．中国农学通报，34(13)：83-89.]   
+LIU MT, WANG ZX, WANG YP, et al., 2019. Plant communities pattern of Picea tianschanica forest and their interrelations with environmental factors in Tianshan Area[J].Sci Silv Sin Res,32(6): 90-98.[刘梦婷，王振 锡，王雅佩，等，2019．新疆天山云杉林群落分布格局及环境解释[J]．林业科学研究，32(6)：90-98.]   
+LI J,XU HL, ZHAO XF,et al., 2020. Vertical distributionand environment analysis of plant communities in upper reaches of Crane River in Aletai[J].Adm Technol Environ Monit, $3 2 ( 4 ) : 1 0 - 1 4 + 4 2 .$ ［李金，徐海量， 赵新风，等，2020.阿勒泰小克兰河上游植物群落的垂直分布格局及环境分析[J].环境监测管理与技 术，32(4): $1 0 { - } 1 4 { + } 4 2 . ]$ （   
+LI YL,WANG ZP, LIU HT,et al.， 2020. Impact assssment of road engineering on biodiversity in Qilian Mountain National Nature Reserve of Gansu Province[J]. Protect For Sci Technol, 2(8): 44-47.[李艳龙，王 作鹏，刘海涛，等，2020.道路工程对甘肃祁连山国家级自然保护区生物多样性影响评价[J]．防护林 科技，2(8):44-47.]   
+CHEN YP, YU F, YANG ZJ, et al., 2013. Size structure and dynamic of the Picea crassifolia populations on eastern Qilian Mountains [J].Guhaia,33(2): 236-241.[陈银萍，于飞，杨宗娟，等，2013．东祁连山青海 云杉种群大小结构及其动态研究[J]．广西植物，33(2)：236-241.]   
+SU JD,LI GX,2019.Spatial and temporal variation characteristics of vegetation NDVI in Qilian Mountains based on GIS.Mine Surv[J],47(4):33-38.[苏军德，李国霞，2019.基于GIS 的祁连山区植被 NDVI时 空变化特征研究[J]．矿山测量，47(4)：33-38.]   
+SONG WH, WANG LN, ZHANG JL,2019. Temporal and spatial changes in response to climate in graslands of the Qilian Mountain National Nature Reserve[J].Pratac Sci,36(9): 2233-2249.[宋伟宏，王莉娜，张金龙， 2019．甘肃祁连山自然保护区草地时空变化及其对气候的响应[J]．草业科学，36(9)：2233-2249.]   
+PAN TT, CHEN L, YANG GD,et al., 2020. Communities species diversity and environment interpretation of Suberban Forest in Northern Nanjing[J].JNanjing For Univ(Nat Sci Ed),(10):1-17.[潘婷婷，陈林，杨国 栋,等,2020.南京北部郊野森林群落物种多样性及其环境解释[J/OL].南京林业大学学报(自然科学版)， (10): 1-17.]   
+TANG ZH, YU QS,LIU HJ,et al.,2020.Characteristics of alpine vegetation community and its relationship to topographic climate factors in the eastern Qilian Mountain[J].Acta Ecol Sin,40(1): 223-232.[唐志红，尉秋 实，刘虎俊，等，2020．祁连山东段高寒植被群落特征及其与地形气候因子关系研究[J]．生态学报， 40(1): 223-232.]   
+WEN YL,ZHANG H,2002.Plant diversity and distribution in The North Slope of Qilian Mountains[J]. J Gansu For Sci Technol,(1):37-39.[温娅丽，张虎，2002．祁连山(北坡)植物多样性及其分布特点[J]．甘肃林业 科技，(1)：37-39.]   
+WANG JL, CAO WX, ZHANG DG, et al.， 2019. Structure and species diversity of alpine Rhododendron shrub-herb community and its response to altitude gradients in eastern Qilian Mountains[J]. Grassl Turf, 39(5):1-9.[王金兰，曹文侠，张德罡，等，2019．东祁连山高寒杜鹃灌丛群落结构和物种多样性对海 拔梯度的响应[J]．草原与草坪，39(5)：1-9.]   
+WANG GH, YANG LM,2001. Gradient analysis environment interpretation of woody plant communities the middle section of the northern slopes of Qilian Mountain, Gansu, China[J].Acta Phytoecol Sin,1(6): 733-740.[王国宏，杨利民，2001．祁连山北坡中段森林植被梯度分析及环境解释[J]．植物生态学报， 1(6): 733-740.]   
+WANG YK,GUO SX，WANG J,et al.， 2013. Estimation of forest ecosystem service value in the Qilian Mountains National Nature Reserve in Gansu of China[J]. JDesert Res,33(6): 1905-1911.[汪有奎,郭生祥, 汪杰，等，2013．甘肃祁连山国家级自然保护区森林生态系统服务价值评估[J]．中国沙漠，33(6): 1905-1911.]   
+XIN G,PENG Y,MA XH, et al.,2020. Design of distillation reactor with novel catalysts distribution pattern for n-amyl acetate synthesis in industrial scale[J]. Fuel, 280:1-8.   
+XIU LN,2014. Spatio-temporal distribution characteristics of potential natural vegetation in China based on CSCS Model[D].Lanzhou: Lanzhou University:3-18.[修丽娜，2014．基于 CSCS 模型的中国潜在自然植 被时空分布特征研究[D]．兰州：兰州大学：3-18.]   
+YI YY,WANG HY.2013. Vertical distribution of vegetation communities on the north slope of Qilian Mountains. Prot Forest Sci Technol[J],10:6-9.[易玉媛，王红义，2013．祁连山北坡植被群落垂直分布特征[J]．防护 林科技，10：6-9.]   
+ZHANG C.2O20. Investigation and analysis of biodiversity and natural ecosystem in Qilian Mountain National Nature Reserve[J].For Sci Technol Inf,52(3):12-14.[张超，2020．祁连山国家公园生物多样性和自然生 态系统的特征调查分析[J]．林业科技情报,52(3)：12-14.]   
+ZHANG JG, WANG LD, YAO T, et al.,2019. Plant community structure and species diversity diferences in alpine grassland in the Qilian Mountains with different levels of degradation[J]. Acta Agr Sin, 28(5): 15-25. [张建贵，王理德，姚拓，等，2019.祁连山高寒草地不同退化程度植物群落结构与物种多样性研究[J]. 草业学报，28(5)：15-25.]   
+ZHANG R, CAO JJ, GUO RY,et al.,2014.Effect of converting cultivated land to forest-grassandon soil carbon, nitrogen and phosphoras in sub-alpine grassland region of north slope of Qilian Mountains[J]. Eco Environ Sci,23(6):938-944.[张蕊，曹静娟，郭瑞英，等，2014．祁连山北坡亚高山草地退耕还林草混合植被 对土壤碳氮磷的影响[J]．生态环境学报，23(6)：938-944.]   
+ZHANG SX, QIN RM, YANG XY, et al., 2020. Pattrns of species diversity in herbaceous communities an
+
+different altitude gradientsand their relationships with environment factors in the Luliang Mountanis in Shanxi Province,China[J].Guihaia,40(12):1860-1868.[张世雄，秦瑞敏，杨晓艳，等，2020．山西吕梁 山草本群落物种多样性的海拔梯度格局及与环境因子的关系[J]．广西植物，40(12):1860-1868.] ZHANG YH,2010. Vegetation distribution and succesion in the eastern part of Qilian Mountains[J].Yellow River,32(8):94-95.[张永虎，2010．祁连山东段植被分布特征及演替规律[J]．人民黄河，32(8)：94-95.]

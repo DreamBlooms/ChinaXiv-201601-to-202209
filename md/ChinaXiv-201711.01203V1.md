@@ -1,0 +1,154 @@
+# 面向院系的高校毕业生图书馆记忆系统
+
+李峰　李书宁　于静(北京师范大学图书馆 北京 100875)
+
+摘要：【目的】基于读者利用图书馆的数据，面向特定院系，设计与开发展示毕业生利用图书馆情况的个性化记忆系统。【应用背景】高校图书馆毕业季活动不断推陈出新，读者数据挖掘成为创新服务模式的有效手段。【方法】利用来自图书馆不同系统的读者数据搭建数据库，采用JSP 技术开发平台，结合HTML5、CSS、jQuery 等技术进行前台展示。【结果】毕业生可通过系统浏览与打印图书馆的数据，包括到馆记录、借阅历史清单、图书馆座位使用信息、研究间预约情况等。【结论】该系统释放图书馆基础数据的价值，为毕业生提供人文关怀。
+
+关键词：数据挖掘 图书馆记忆毕业季活动读者服务分类号：G250.7
+
+# 1引言
+
+近年来，为了给即将离校的毕业生提供人文关怀，高校图书馆的毕业季活动相继开展，各种活动形式不断推陈出新，以读者数据挖掘为基础的创意网站成为毕业季活动的一大特色。如2013年厦门大学图书馆"圖·时光"创意网站[1]、2013 年华东师范大学图书馆的纪念册系统一“校园记忆之图书馆生活"[2]、2014 年暨南大学图书馆的"暨念·我的图书馆时光"网站[3]、2015年上海交通大学图书馆的《印·迹》纪念册活动[4]。这些网站或系统为全校毕业生提供进馆情况、阅读记录等数据的呈现服务。笔者在中国知网分别以“毕业季活动"和"读者数据挖掘"为主题进行检索，通过对检索结果的筛选和分析发现：目前图书馆对毕业生数据的挖掘和呈现都是面向全体毕业生，文案和图片的设计缺乏服务对象的个性化定制;相关文章多以活动的整体介绍为主，包括界面设计、数据融合、实践效果等方面，对于系统的技术实现过程鲜有详细描述。
+
+北京师范大学图书馆自2013年起开展"致那些书香为伴的BNU年华"毕业季主题系列活动，2015年6月针对院系的个性化需求，与院系学生管理部门合作，为教育学部毕业生量身定制，推出自建系统“致未来教育家—教育学部毕业生图书馆记忆"[5]，该系统整合来自图书馆集成管理系统、门禁系统、座位管理系统、研究间预约系统的数据，并将数据穿插于学部学生自己精心设计的文案和手绘图中，以流畅的表现形式展现了一幅珍贵的图书馆记忆画卷，系统从开发测试到使用只用了不到两周的时间。本文从系统开发的角度介绍该系统快速、便捷的开发流程，以期为高校图书馆建设类似系统提供借鉴
+
+# 2系统设计与实现
+
+# 2.1 问题的提出
+
+作为校园内人流最为聚集的区域之一，图书馆承载了“学霸们”、“爱书人们"很多的美好大学记忆，在即将离校的时刻，很多学生都想保留一份记录自己从新生人学到毕业离校期间利用图书馆情况的"图书馆记忆”。“致未来教育家—教育学部毕业生图书馆记忆"就是教育学部学生们对图书馆提出的个性化服务需求。为此，图书馆需要自行开发系统整合他们利用图书馆的多方数据，实现数据呈现。由于这些数据来自不同引进系统，如果引进系统提供数据接口，可以通过WebService等技术调用数据，如果引进系统不提供数据接口，需要设计和构建毕业生记忆数据库，将不同系统导出的数据进行处理后导入，再编写程序实现数据的读取。前台界面设计决定着数据呈现效果，良好的视觉体验会给毕业生带来温馨与感动，解决这一问题的思路是把握当下展示类网站设计的流行趋势，采用HTML5、CSS 和 jQuery 等技术，实现响应式、幽灵按钮、大图背景、滚动主导点击等效果。
+
+# 2.2 系统设计思路
+
+根据系统实现的目标，笔者按流程将系统开发分为两个部分。
+
+(1）数据准备阶段。系统对于数据的访问主要有两种方式：实时从各系统获得；将数据事先准备在某一个数据库表中。由于毕业生的数据分散在各个系统中，而这些系统开放程度有很大的不同，有的提供接口给第三方系统调用，如图书馆集成管理系统，但大部分系统并不提供接口，从各系统获取实时数据比较困难；而且，毕业生被终止借阅权限后，需要展示的相当一部分毕业生数据实际上都变成了静态数据，而且也有相当一部分数据是通过分组合并计算等方式获得，事先准备好数据也能提高整个系统的运行效率，因此需要构建一个毕业生记忆数据库存储相关数据作为系统后台支撑。其中，由于借阅历史记录数据量比较大，不适宜存放在数据库的某一字段里，图书馆集成管理系统本身又有接口支持，因此这一数据采用从集成管理系统实时获取的形式。
+
+(2）毕业生图书馆记忆系统程序设计阶段。读者利用图书馆的数据涉及个人隐私，未经读者同意，不宜公开展示，因此系统包含读者认证模块，毕业生通过图书馆账号认证成功才可以访问系统。数据查询与呈现是系统开发的重点，系统从后台数据库中抽取与毕业生账号相匹配的记录，传递给前台界面，这部分通过JSP程序实现。前台展示通过HTML5和CSS 布局文案、图片，并由jQuery实现滑动翻页的动态效果。
+
+# 2.3 系统实现
+
+按照上述设计思路，毕业生图书馆记忆系统以毕业生记忆数据库为后台支撑，通过前台界面实现具体功能。系统框架如图1所示。
+
+# (1）数据库设计
+
+根据前期学部学生提出的需求，笔者对图书馆各系统数据进行调研和分析，最终确定毕业生记忆数据库存储的数据，如表1所示。
+
+图书馆集成 图书馆毕业  
+管理系统 生记忆系统毕业生认证  
+门禁系统 模块  
+座算理 数整据 毕数 数据查询 图书馆集成研究间 数据呈现  
+预约系统 模块  
+其他系统 数据打印 数据分享
+
+表1毕业生记忆数据库数据情况汇总  
+
+<html><body><table><tr><td>来源</td><td>具体数据</td></tr><tr><td>图书馆集成 管理系统</td><td>借阅总册数；借阅的第一本书及借阅时间</td></tr><tr><td>门禁系统</td><td>第一次入馆时间；总入馆次数</td></tr><tr><td>座位管理</td><td>第一次选座的座位号、所在地点及选座时间；最</td></tr><tr><td>系统</td><td>常用的座位号、所在地点及次数</td></tr><tr><td>研究间</td><td>使用的第一个研究间号及使用时间；使用研究间</td></tr><tr><td>预约系统</td><td>的总次数；最常用的研究间号及次数</td></tr><tr><td>院系提供</td><td>学历；院系与专业；导师姓名</td></tr></table></body></html>
+
+在数据准备阶段，笔者以院系提供的毕业生信息为蓝本，将毕业生信息Excel表单和以毕业生学号为关键字查询各系统所获得的数据分别导出的Excel表单，借助Excel相关函数和宏命令将多个表格不同标识字段的内容按照前文数据库需要的字段汇总、计算、整理到同一个表单中，并对数据格式进行预处理，保存成MySQL支持的CSV格式；创建毕业生记忆数据库，本系统采用MySQL数据库，将所有数据存入一张数据库表中；数据导人。为了避免中文乱码，用NotePad $^ { + + }$ 编辑器修改CSV文件编码为UTF-8无BOM格式，再执行导入操作。
+
+(2）毕业生认证模块
+
+为了保护毕业生的隐私，本系统设计认证模块，登录账号和密码与读者在图书馆集成管理系统的查询账号一致。北京师范大学图书馆的集成管理系统引进的是ExLibris公司的Aleph500，它提供X-Server接口给第三方系统调用。系统通过JSP的Request对象接收读者输入的账号密码，同时利用Java 的HttpClient发送请求到X-Server。具体流程如图2所示。
+
+# (3）数据查询模块
+
+读者认证成功之后，本系统根据毕业生的ID号在本地数据库进行查询，获取该毕业生利用图书馆的相关数据。读者的借阅历史记录是通过AlephX-Server的loan_history接口直接从图书馆集成管理系统查询,处理流程如图3所示：
+
+![](images/e97a8be84a4c3fa9680d12ba03a0873e5d74116acb4c501a5077b560d3f583b3.jpg)  
+图2读者认证流程  
+图3获取借阅历史记录流程
+
+构造获取借阅历史  
+记录的URL  
+通过HttpClient发送请求到X-Server的loan_history接口  
+1  
+利用JDOM解析返回的XML文件  
+抽取相关字段  
+存储在自建类Book（List类型）中  
+利用JSTL循环输出Book的相关字段
+
+X-Server接口返回的数据格式为XML，本系统利用JDOM解析，抽取相关字段，具体实现的Java代码实例如下:
+
+public class UseJDOMParseXMLloanhistory{   
+List<Book> bb $\ O =$ new ArrayList<Book>(); public UseJDOMParseXMLloanhistory{   
+}； public List<Book> MyUseJDOMParseXMLloanhistory(String xmlStr){ /实例化一个解析器对象 SAXBuilder builder $\ c =$ new SAXBuilder(); try{ StringReader $\mathbf { s r } =$ new StringReader(xmlStr); InputSource is $\ c =$ new InputSource(sr); Document read_doc $\ O =$ builder.build(is); $/ /$ 得到根元素 Element stu $\ O =$ read_doc.getRootElement();   
+String root $\ c =$ stu.getName();   
+Stringsname $\left. = \right.$ stu.getChildText("bor-name");   
+//得到loan-item元素的列表   
+List<Element> list $\ O =$ stu.getChildren("loan-item");   
+//遍历loan-item元素列表   
+for $\mathbf { i n t } \ \mathrm { i } = 0 ; \mathrm { i } < \mathrm { l i s t . s i z e } ( ) ; \mathrm { i } + + ) \ \left\{ \begin{array} { l l } { \begin{array} { r l r } \end{array} } \end{array} \right.$ $/ /$ 获得并显示所有子元素 Element e $\ O =$ (Element) list.get(i); String due_date $= \ell$ e.getChildText ("due-date"); String z13_title $\ O =$ e.getChildText( $" z 1 3$ -title"); String zl3_call_no $\ O =$ e.getChildText ("call-no"); Book book $\ O =$ new Book(z13_call_no, zl3_title,due_date,sname); /丨存储到Book中 bb.add(book);
+
+(4）数据呈现模块
+
+内容上，主要是文案和图片的设计，图书馆邀请教育学部的毕业生全程参与，从师范生的角度设计文案并手绘相关图片。文案以"致未来教育家"为主题,分成三个章节：人师·师范、回忆图书馆、不忘初心，用文艺的笔触描述出毕业生从入学到毕业的图书馆记忆，传递图书馆对于未来从事教育工作的同学们的深深祝福。图片方面，采用手绘的形式，将北京师范大学、教育学部以及图书馆的特色元素融入其中：木铎、英东教学楼、书架、自助借还书机、自习座位界面上，为了达到最佳的视觉表现效果，使浏览者有一个流畅的视觉体验，本系统只包含两个页面，登录页面和数据展示页。技术实现方式主要有两种，一种是Flash；另一种是HTML $. + \cdot$ CSS+JavaScript。方式一的动感效果好，但需要插件支持，且加载慢、兼容性较差,方式二的内容和表现形式分离，加载快、无需插件。本系统采用第二种方式，数据展示页面是由13个片断组成，每一个片断中的图片和文字利用HTML5的<section>标签封装，片断之间的衔接通过jQuery实现,在页面中导人jQuery 框架jquery.min.js 和 jQuery 轻量级图库插件 jquery.poptrox.min.js，用户只需滚动鼠标或者点击翻页按钮即可实现向下和向上的翻页效果。另外，在响应式布局上用到了轻量级前端框架 Skel.js。HTML5+jQuery+CSS既可以表现类似Flash的动画效果，又可以构建出响应式网页，使浏览者通过手机、平板、PC机多种设备访问均可以获得良好的使用体验。前台界面如图4所示。
+
+![](images/6c21a5182acff14d5bcae3df1530de2a5617a08b6b9d9c53c31c40bca8f9e6f7.jpg)  
+图4前台界面截图
+
+(5）数据分享模块
+
+新媒体环境下，社交网站已经无处不在。通过分享功能不仅可以扩大宣传范围，提高活动影响力，还为毕业生将图书馆记忆保存到自己的社交平台中提供便利。毕业生自愿选择将该系统的网页分享到个人微博、QQ空间、人人网等社交网站。数据分享模块通过免费的社会化分享工具bSharel实现，它提供自定义功能，可以根据分享页面的特点设置分享按钮的功能、样式及弹出平台的顺序。
+
+# (6)数据打印模块
+
+本系统以提供毕业生利用图书馆情况的在线展示为主，同时也提供了数据打印功能，毕业生可以从系统中下载图书馆记忆模板，该模板共包含14 个页面,第一页为封面，其余13个页面与系统中的13个记忆片段相对应。技术实现上利用Java程序将数据直接输出到 PDF 模板中，PDF 的生成采用 Flying-Sauser+FreeMarker框架,Flying-Sauser[能解析HTML和CSS,并生成PDF格式，前提是需要编写FreeMaker[8模板,生成HTML，描述出PDF的样式。
+
+# 3应用效果与评价
+
+# 3.1 应用效果
+
+本系统于2015年6月初上线，在北京师范大学图书馆2015年毕业季活动网站推出，并通过院系学生管理部门、分馆馆员向教育学部的毕业生宣传推广，在毕业生中引起了很好的反响，受到他们的喜爱。从网站统计看，教育学部本硕博毕业生约560人，在6月1号至6月30号期间，总浏览次数(pv)1122次，独立访客(uv)553人,6月8日单日最高独立访客为270人，基本上所有毕业生都利用系统生成并打印了自己的图书馆记忆。
+
+# 3.2 系统特点
+
+与其他高校图书馆的相关服务系统相比，本系统具有如下特点：
+
+(1）面向特定院系毕业生，满足个性化需求。从前期文案、手绘设计到后期宣传推广，都与院系紧密合作。文案上紧紧抓住教育学部毕业生的教育家情怀，手绘上选择与教育学部相关的元素，整个页面的呈现契合了师范生的情感诉求。这种面向特定院系毕业生的服务更新颖、更贴心、更容易引起共鸣，服务效果也更好。
+
+(2）采用便捷快速的开发技术。本系统利用两周左右的时间开发完成，一方面依赖于JSP在动态Web方面的优势，它易于上手，利用HTML和Java的基础知识即可完成开发；另一方面，前台界面采用HTML+CSS+JavaScript框架，在开发时间上少于制作复杂的Flash动画。
+
+(3）系统实现了页面自适应。考虑到面向多终端设备的多屏服务已经成为流行趋势，大学生利用手机上网已经成为主导，本系统采用HTML5技术实现了网页的自适应。
+
+# 4结语
+
+“致未来教育家—教育学部毕业生图书馆记忆系统"从设计到开发，处处着眼于细节，将图书馆读者数据的服务创新与特定院系毕业生的情感需求紧密结合，既能释放图书馆基础数据的价值，又可以为读者提供贴心的个性化服务，从情感上拉近图书馆与读者的距离。下一步笔者将充分利用这一系统的建设经验，推广到其他院系毕业生，推出"致未来文学家”“致未来艺术家…"等主题的特色毕业生图书馆记忆系统，打造图书馆个性化、人性化、细致服务的新亮点。
+
+# 参考文献：
+
+[1]龚晓婷，陈俊杰，林霞，等.读者数据的挖掘与创意呈现-以"圖·时光"为例[J]．大学图书馆学报，2013，31(6):92-96.
+
+(Gong Xiaoting,Chen Junjie,Lin Xia,etal.Data Mining and Creative Website Design for Readers:Take“Library Time” for Example[J]. Journal of Academic Libraries,2013,31(6):   
+92-96.) [2] 张毅．高校图书馆毕业季服务的创新模式[J].图书馆建设,   
+2015(2): 81-84． (Zhang Yi. Innovation Mode of the Graduation Season Service in the University Library [J]. Library Development, 2015(2): 81-84.) [3] 都兰，肖丽萍，李宾．基于数据平台的图书馆毕业季服务 实践研究——以暨南大学图书馆为例[J]．图书情报工作,   
+2015,59(22):79-83.(Du Lan,Xiao Liping,Li Bin.Research on the Graduation Season Service in the Academic Library Based on Data Platform:A Case Study of Jinan University Library [J].Library and Information Service,2015,59(22):   
+79-83.) [4] 图书馆 2015 毕业季活动开始啦！[EB/OL].[2015-06-17]. http://www.lib.sjtu.edu.cn/index.php?m $\circleddash$ content&c $\mathrel { \mathop : } =$ index&a $\ c =$ show&catid=212&id $= 1 0 5 7$ .(The 2015 Library Graduation Season [EB/OL].[2015-06-17].http://www.lib.sjtu.edu.cn/ index.php?m=content& $\mathrm { c } =$ index&a=show&catid=212&id=1057.) [5] 致未来教育家—教育学部毕业生图书馆记忆[EB/OL]. [2015-05-29]. http://219.224.28.20: 8080/LoanHistory/byj_ index.jsp.(To Future Educators-Library Memory of the Graduate in Faculty of Education.[EB/OL]. [2015-05-29]. http://219.224.28.20:8080/LoanHistory/byj_index.jsp.)   
+[6] bShare [EB/OL].[2015-05-20].http://www.bshare.cn/.   
+[7] Flying-Saucer [EB/OL]. [2015-12-20]. https://code.google. com/p/flying-saucer/.   
+[8] FreeMaker [EB/OL].[2015-12-20].http://freemarker.incubator. apache.org/.
+
+# 作者贡献声明：
+
+李峰：程序设计与开发，论文起草;  
+李书宁：采集、整理数据，论文修订;  
+于静：负责联系院系，策划文案与手绘，论文修订。
+
+# 利益冲突声明：
+
+所有作者声明不存在利益冲突关系。
+
+# 支撑数据：
+
+支撑数据[1]见期刊网络版http://www.infotech.ac.cn；支撑数据[2]由作者自存储,E-mail:lif@lib.bnu.edu.cn。[1]李峰，李书宁，于静.byjdata.xls.毕业生数据库字段.[2]李峰，李书宁，于静.byjdata.war.程序代码.
+
+收稿日期:2016-01-25  
+收修改稿日期:2016-03-25
+
+# A Department Oriented Library Usage Data System for Graduates
+
+LiFeng Li Shu'ning Yu Jing (Beijing Normal University Library, Beijing 10o875, China)
+
+Abstract: [Objective] This paper designs and implements apersonalized library usage data management system for the graduates based on their schools or departments.[Context] This new system helps the university launch new services for the graduating students.[Methods] We created a database to manage users’data from diferent library departments. The public portal of this database was developed with JSP,HTML5,CSS and jQuery.[Results] The graduates could browse and print the records of their library visits,the circulation history,the seating records,booking details of the study rooms,etc.[Conclusions]This system shows the value of library data,and provides humanistic care to the graduates.
+
+Keywords: Data miningLibrary memory Graduation season activitiesReader services

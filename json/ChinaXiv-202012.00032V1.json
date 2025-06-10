@@ -1,0 +1,398 @@
+[
+    {
+        "type": "text",
+        "text": "唐古特白刺抗旱优良家系早期选择研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李珍，李毅，苏世平，种培芳，李佩佩(甘肃农业大学林学院，甘肃 兰州730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为选择抗旱优良的唐古特白刺家系,本实验于2015、2016年和2018年分别对来自兰州和武威试验点的31个唐古特白刺家系进行可溶性糖(SS）、可溶性蛋白(SP)游离脯氨酸( $\\scriptstyle \\mathrm { \\mathrm { P r o } } )$ 、过氧化氢酶(CAT）过氧化物酶(POD）、超氧化物歧化酶(SOD)以及叶绿素(Chl)含量测定，运用主成分分析法和隶属函数法对家系抗旱性进行综合评价选择出抗旱优良家系并进行对比分析。结果表明：运用2种综合评价方法结果重合率在 $8 0 \\%$ 以上，以 $2 0 \\%$ 入选率选择抗旱优良家系,2试验点的j3-9、jc-8、w3-15、w3-12等4个家系在2015年、2016年均入选,在2018年抗旱性明显优于其他家系，入选家系在不同年份不同试验点的抗旱性表现一致，说明唐古特白刺抗旱优良家系在不同生理阶段不同环境下抗旱性表现稳定，对其进行早期选择具有可靠性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：唐古特白刺(Nitraria tangutorum)；优良家系；抗旱；早期选择；综合评价",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐古特白刺（Nitraria tangutorum）属于蒺藜科（Zygophyllaceae），白刺属（NitrariaL.），超旱生灌木，又名唐古特泡泡刺，酸胖。它是我国特有种，分布于西藏东北部、甘肃、青海、新疆、内蒙古西部、宁夏西部、陕西北部的湖盆地区和风沙沿线，具有抗旱、抗寒、抗风沙、耐盐碱、抗热、耐贫瘠等生态适应特性，对防治土壤荒漠化和盐碱化具有重要意义，是西北地区重要的固沙植物。自20世纪80年代以来，许多研究者对唐古特白刺的研究多集中在组织培养[1-2]、遗传多样性[3]、化学成分[4-5]、生理生态学[6-8]、形态解剖学[9-10]等方面,有关唐古特白刺抗旱优良家系选择研究报道较少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "家系选择是林木遗传改良的重要手段之一[1-12]。大量研究表明，早期进行的家系间和家系内的筛选是可靠的[13-16]。早期选择是林木未达到经济成熟期前的选择，对于缩短育种周期加速育种世代具有重要作用。研究发现，林木在苗期的某些生理生化指标与苗木成熟期指标之间存在关联性，在对林木进行早期选择时可利用生理生化指标作为选择依据。种培芳等在4个地理种群唐古特白刺的抗旱性系统评价中发现，可溶性糖(SS）、过氧化氢酶（CAT）、游离脯氨酸（ $\\scriptstyle \\mathrm { \\mathrm { P r o } } ,$ 和超氧化物歧化酶(SOD)等指标对唐古特白刺的抗旱适应性相关度较高，能够较好地反映其抗旱性。刘芳等\"8在不同灌木品种抗旱性机理研究中发现叶绿素含量对灌木品种抗旱性有较大影响。本实验选择SS、可溶性蛋白（SP）、Pro、叶绿素（Chl）、CAT、过氧化物酶（POD）、SOD等10个与抗旱性相关度较高的指标进行测定，利用隶属函数法和主成分分析法，对2个试验点中的31个唐古特白刺家系的抗旱性进行综合分析对比，进行优良家系早期选择及综合评价，以期为唐古特白刺抗旱育种材料的选育和推广提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐古特白刺家系试验林选择环境差异较大的甘肃省武威市凉州区羊下坝镇 $( 3 8 ^ { \\circ } 2 4 ^ { \\prime } \\mathrm { N } , 1 0 3 ^ { \\circ } 9 ^ { \\prime } \\mathrm { E } )$ 和甘肃省兰州市新区中川镇倒水塘村( $3 6 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { N }$ P$1 0 3 ^ { \\circ } 3 7 ^ { \\prime } \\mathrm { E }$ )，分别位于地处河西走廊北部和黄土高原的西北部，海拔分别为 $1 3 7 8 \\mathrm { ~ m ~ }$ 和 $1 9 4 7 . 2 \\mathrm { ~ m ~ }$ ,年降水量分别为 $1 1 3 . 2 \\ \\mathrm { m m }$ 和 $3 2 8 ~ \\mathrm { m m }$ ，年蒸发量分别为",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$2 6 0 4 . 3 ~ \\mathrm { m m }$ 和 $1 8 8 0 ~ \\mathrm { m m }$ ,年均气温分别为 $6 . 9 ~ \\mathrm { ^ { \\circ } C }$ 和$9 . 6 ~ \\mathrm { \\mathcal { C } } ~ , 1$ 月平均气温分别为 $- 9 . 9 2 \\mathrm { ~ } \\mathrm { } ^ { \\circ } \\mathrm { C }$ 和 $- 6 . 9 \\mathrm { ~ \\mathcal ~ C ~ } , 7$ 月平均气温为 $2 4 . 9 4 ~ \\mathrm { ^ { \\circ } C }$ 和 $2 2 . 2 ~ \\mathrm { \\textdegree C }$ ,属于典型的温带大陆性荒漠气候和温带半干旱大陆性气候，土壤均为碱性砂壤，各试点土壤水分来源均以自然降水为主。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2实验材料与田间设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2011年11月分别在甘肃酒泉、张掖、兰州、武威唐古特白刺天然分布区的8个群落中(表1)，选择长势良好无病虫害的多个单株作为母株，采集种子进行分装编号。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2012年1月把采集好的种子进行种子穴盘育苗，并按其亲本选择地进行系统编号。2013年4月，土壤解冻以及土层温度大于 $5 \\mathrm { { ^ \\circ C } }$ 时分别移栽至各试验点。移栽时采用随机区组设计，株行距 $0 . 5 \\mathrm { m } \\times 1 . 5$ m,重复3次，每家系重复3株。移栽后灌水，待苗木成活后，适时除草，后期管理以常规方法为主。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3测定指标与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2015年8月中旬和2016年8月中旬分别在武威和兰州的唐古特白刺家系试验林中将保存的31个家系作为实验材料。2018年8月中旬，依据前期实验选择出抗旱性优良、中等、较差的家系各4个作为实验材料。每个家系选取3个单株，采集每个单株直立茎中部的叶片，立即放入液氮中保鲜，带回实验室后进行生理生化指标的测定，测定时每个单株重复3次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可溶性糖(SS)含量采用蒽酮比色法测定，可溶性蛋白(SP)含量采用考马斯亮蓝G-250染色法测定，游离脯氨酸( $\\scriptstyle \\left. \\mathrm { P r o } \\right.$ 含量采用磺基水杨酸提取法测定，叶绿素(Chl)相关指标采用丙酮比色法测定，过氧化氢酶(CAT)活性采用紫外线吸收法，过氧化物酶(POD)采用愈创木酚法测定，超氧化物歧化酶(SOD)采用氮蓝四唑法测定[19-21]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2统计分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1主成分分析法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "主成分分析[22-24]是一种常用的数据分析方法，其目的是将数据降维以排除众多信息共存中相互重叠的信息。本研究对唐古特白刺的SS、SP、Pro等10个生理指标进行了主成分分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2隶属函数法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用隶属函数法[25-26]对不同家系唐古特白刺的抗旱性进行综合评价。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1不同家系唐古特白刺的各项抗旱指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "两个试验点中不同唐古特白刺家系的10项生理指标各不相同，以2018年为例(表2)，兰州试点中家系gl-34POD、SOD含量最高，家系j3-9CAT含量最高，家系jc-8Pro含量最高，家系jc-5SS含量最高；武威试点中家系gl-35POD含量最高，家系gl-14SOD含量最高，家系 $\\mathrm { l s m } { - } 1 7 \\mathrm { C A T }$ 含量最高，家系$\\mathrm { j } 3 \\mathrm { - } 9 \\mathrm { P r o }$ 含量最高，家系w3-12SS含量最高；两试验点中家系gl-35SP含量均为最高。不同实验点、不同年份各家系的指标也存在差异和变化。若用单一指标来评价各家系唐古特白刺的抗旱性得到的结果各不相同，各指标之间的关系复杂，不同指标的重要性也不相同，因此,需要进行综合分析评价。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2各年份优良家系筛选及对比",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2.1主成分分析法本团队的前期研究数据显示[27],兰州试点2015年的贡献率分别为 $5 4 . 3 \\%$ 、$1 5 . 8 \\%$ 、 $1 1 . 4 \\%$ ；武威试点2015年的贡献率分别为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1采样地概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce60fdb6e63c4c0651c7405664339e86f58c8af228ae3896adb88c0615e2dc82.jpg",
+        "table_caption": [
+            "Tab.1 General status "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>家系编号</td><td>采样地</td><td>海拔/m</td><td>纬度(N)</td><td>经度(E)</td></tr><tr><td>j3-8 j3-16 j3-7 j3-20 j3-6j3-9</td><td>酒泉金塔</td><td>1359</td><td>98°45'834\"</td><td>39°52'950\"</td></tr><tr><td>jc-22 jc-8 jc-2 jc-5</td><td>酒泉瓜州槽沿子</td><td>1313</td><td>96°04'908\"</td><td>40°47'886\"</td></tr><tr><td>gl-34 gl-35 gl-5 gl-27 gl-14</td><td>张掖甘州龙渠</td><td>1702</td><td>100°12'261\"</td><td>38°48'580\"</td></tr><tr><td>zl-22 zl-19 zl-27 zl-23 zl-24</td><td>张掖临泽</td><td>1397</td><td>99°57'270\"</td><td>39°14'329\"</td></tr><tr><td>zglsm-17 zglsm-28</td><td>张掖甘州老寺庙</td><td>1530</td><td>100°92'750\"</td><td>38°53'345\"</td></tr><tr><td>1-2 1-4</td><td>兰州九州台</td><td>2067</td><td>103°46'69\"</td><td></td></tr><tr><td>w3-12 w3-1 w3-15</td><td>武威民勤沙井子</td><td>1386</td><td>102°55'989\"</td><td>38°31'729\"</td></tr><tr><td>w2-5 w2-10 w2-20 w2-25</td><td>武威民勤小坝口</td><td>1384</td><td>102°56'413\"</td><td>38°33'790\" 38°31'729\"</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/481ad0ecc2893f9258c67b301cd10e55b272e2975c66bd9b89bcf1c4398d1450.jpg",
+        "table_caption": [
+            "李珍等：唐古特白刺抗旱优良家系早期选择研究",
+            "",
+            "nrerrrnrnlrnrn 2 1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">试验点</td><td rowspan=\"2\">家系</td><td>过氧化氢酶</td><td>超氧化物歧化酶</td><td>过氧化物酶</td><td>可溶性蛋白</td><td>脯氨酸</td><td>可溶性糖</td><td>叶绿a</td><td>叶绿素b</td><td>叶绿（b)</td><td rowspan=\"2\">叶绿素(a/b) Chl (a/b)</td></tr><tr><td>/(μg:g FM)</td><td>/(μg:g1FM)</td><td>/(μg:g1 FM)</td><td>/(mg:g1 FM)</td><td>(μg:g1 FM)</td><td>/(mg:g1 FM)</td><td>/(μg:g1 FM)</td><td>/(μg:g1 FM)</td><td>(μg:g−1 FM)</td></tr><tr><td rowspan=\"10\">兰州</td><td>j3-9</td><td>19.2262</td><td>362.9428</td><td>13.4859</td><td>4.8881</td><td>300.6811</td><td>120.7858</td><td>328.2591</td><td>85.4336</td><td>412.1637</td><td>3.1173</td></tr><tr><td>1-4</td><td>18.1046</td><td>353.7994</td><td>9.2225</td><td>5.4123</td><td>279.6724</td><td>123.9632</td><td>255.0924</td><td>64.9478</td><td>320.0402</td><td>4.0793</td></tr><tr><td>w3-12</td><td>16.1467</td><td>369.6473</td><td>5.4206</td><td>5.5755</td><td>357.4415</td><td>114.0397</td><td>303.5815</td><td>98.0394</td><td>401.6209</td><td>3.6649</td></tr><tr><td>jc-8</td><td>10.8868</td><td>520.0822</td><td>10.7678</td><td>5.7628</td><td>474.9129</td><td>128.4967</td><td>414.7360</td><td>121.9529</td><td>536.6889</td><td>4.4988</td></tr><tr><td>1-2</td><td>28.3521</td><td>159.1514</td><td>8.8207</td><td>6.3501</td><td>295.1814</td><td>116.3424</td><td>354.3122</td><td>64.9749</td><td>419.2871</td><td>2.4418</td></tr><tr><td>w3-1</td><td>12.4019</td><td>306.3407</td><td>2.7676</td><td>4.5736</td><td>297.1237</td><td>135.3147</td><td>277.0568</td><td>91.5247</td><td>368.5815</td><td>3.0513</td></tr><tr><td>w2-5</td><td>18.3651</td><td>489.1207</td><td>5.1791</td><td>4.8693</td><td>164.3421</td><td>134.3400</td><td>191.9464</td><td>66.8775</td><td>258.8238</td><td>2.8583</td></tr><tr><td>gl-34</td><td>37.5476</td><td>813.5458</td><td>7.3920</td><td>6.2826</td><td>302.5911</td><td>108.8476</td><td>233.5303</td><td>109.0400</td><td>342.5702</td><td></td></tr><tr><td>gl-35</td><td>21.8240</td><td>323.9726</td><td>6.0027</td><td>6.8597</td><td>237.0588</td><td>99.6438</td><td>303.2441</td><td>67.6152</td><td>370.8594</td><td>5.5983 9.9379</td></tr><tr><td>jc-5</td><td>14.8405</td><td>505.9945</td><td>3.1144</td><td>4.3847</td><td>360.8784</td><td>153.6996</td><td>227.3176</td><td>79.4334</td><td>306.7510</td><td>3.0367</td></tr><tr><td></td><td></td><td>11.5496</td><td>388.6581</td><td>4.4253</td><td>5.5875</td><td>353.2575</td><td>97.9591</td><td>275.0245</td><td>81.0602</td><td>356.0847</td><td>3.7639</td></tr><tr><td rowspan=\"10\">武威</td><td>jc-2 w3-15</td><td>25.6061</td><td>538.0971</td><td>3.2407</td><td>5.5617</td><td>332.7460</td><td>123.8426</td><td>417.4399</td><td>149.6113</td><td>567.0512</td><td>2.7928</td></tr><tr><td>w3-12</td><td>11.6484</td><td>1008.4051</td><td>12.4799</td><td>5.9237</td><td>177.1295</td><td>157.6150</td><td>276.3766</td><td>87.4438</td><td>363.8204</td><td></td></tr><tr><td>jc-8</td><td>15.7155</td><td>688.2579</td><td>10.3499</td><td>5.1861</td><td>267.8862</td><td>95.7739</td><td>278.5246</td><td>88.6674</td><td>367.1920</td><td>3.0183</td></tr><tr><td>j3-9</td><td>13.7167</td><td>619.1161</td><td>13.1127</td><td>4.7921</td><td>469.3797</td><td>124.5346</td><td>269.0934</td><td>65.2188</td><td></td><td>3.2736</td></tr><tr><td>w3-15</td><td>10.4735</td><td>418.8243</td><td>10.9831</td><td>4.8690</td><td>113.2052</td><td>130.6111</td><td>221.8581</td><td>59.9107</td><td>334.3123</td><td>7.3342</td></tr><tr><td>zl-23</td><td>12.7526</td><td>931.8535</td><td>9.1108</td><td>5.4958</td><td>406.4131</td><td>111.0487</td><td>308.4214</td><td>88.3109</td><td>281.7688 396.7323</td><td>4.3334</td></tr><tr><td>jc-5</td><td>15.5278</td><td>989.7825</td><td>3.6517</td><td>5.9907</td><td>253.5152</td><td>52.2252</td><td>316.7901</td><td>115.3511</td><td></td><td>3.6909</td></tr><tr><td>lsm-28</td><td>12.7435</td><td>219.3767</td><td>11.8617</td><td>6.7637</td><td>268.6094</td><td>159.0135</td><td>325.6432</td><td>101.3245</td><td>432.1412 426.9677</td><td>2.7740</td></tr><tr><td>lsm-17</td><td>15.2918</td><td>280.2729</td><td>14.9125</td><td>5.9896</td><td>224.9699</td><td>136.4055</td><td>202.6401</td><td>40.6631</td><td>243.3032</td><td>3.1655</td></tr><tr><td>gl-35</td><td>34.6948</td><td>667.7002</td><td>8.7297</td><td>7.1809</td><td>339.2955</td><td>100.9154</td><td>428.0559</td><td>154.2019</td><td>582.2578</td><td>4.2065</td></tr><tr><td></td><td></td><td>7.1967</td><td>1346.2099</td><td>13.4808</td><td>5.5909</td><td>96.6803</td><td>121.3465</td><td>185.2325</td><td>67.5045</td><td>252.7370</td><td>2.7810</td></tr><tr><td>gl-14 jc-2</td><td></td><td>23.8340</td><td>1316.0067</td><td>5.9203</td><td>4.2894</td><td>518.1508</td><td>112.7847</td><td>376.1170</td><td>143.3811</td><td>519.4980</td><td>2.7120</td></tr><tr><td>j-3-20</td><td>13.9527</td><td></td><td>1065.3554</td><td>7.3099</td><td>4.4829</td><td>186.0563</td><td>114.9051</td><td>398.2911</td><td>119.8730</td><td>518.1641</td><td>2.6234 3.3819</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$5 3 . 4 \\% . 2 0 . 4 \\% . 9 . 5 \\%$ 。由表3\\~4可知，兰州试点2016年的贡献率分别为 $3 7 . 9 \\% . 2 2 . 7 \\% . 1 2 . 6 \\% ; 2 0 1 8$ 年的贡献率分别为 $3 2 . 6 \\% , 2 8 . 0 \\% , 1 7 . 5 \\%$ 。武威试点2016年的贡献率分别为 $4 1 . 5 \\% , 1 7 . 3 \\% , 7 3 . 0 \\% ;$ 2018年的贡献率分别为 $4 9 . 1 \\% , 1 7 . 2 \\% , 1 5 . 3 \\%$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，在2015年、2016年和2018年兰州和武威试点的累计贡献率均超过 $7 0 \\%$ 。兰州试点3a累计贡献率分别为 $8 1 . 5 \\% . 7 2 . 9 \\%$ 和 $7 8 . 1 \\%$ 。武威试点3a累计贡献率分别为 $8 3 . 3 \\% . 7 2 . 9 \\% . 8 1 . 6 \\%$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "前期的研究数据还显示[27],兰州试点2015年排序前 $2 0 \\%$ 的家系从大到小为： $\\mathrm { w } 3 - 1 2 \\mathrm { \\cdot } \\mathrm { j c } { - } 8 \\mathrm { \\cdot } \\mathrm { j } 3 { - } 9 \\mathrm { \\cdot } \\mathrm { w } 3 -$ $1 5 . \\mathrm { j } 3 \\substack { - 8 . \\mathrm { z l } - 2 4 }$ ；武威试点2015年排序前 $2 0 \\%$ 的家系从大到小是： $\\mathrm { w } 3 - 1 5 , \\mathrm { j c } - 8 , \\mathrm { w } 3 - 1 2 , \\mathrm { j } 3 - 9 , \\mathrm { z } \\mathrm { l } - 2 3 , \\mathrm { j } 3 -$ 6。由表5\\~6可知，兰州试点2016年排序前 $2 0 \\%$ 的家系从大到小为 $: \\mathrm { j c } - 8 \\cdot \\mathrm { j } 3 - 1 6 \\ 、 \\mathrm { z l } - 2 4 \\ 、 \\mathrm { w } 3 - 1 5 \\ 、 \\mathrm { j } 3 - 9 \\nonumber$ w3-12。与2015年相比， $\\mathrm { , j c - 8 \\_ j 3 - 9 \\_ w } 3 - 1 5 \\_ w 3 - 1 2 \\_$ $\\mathrm { z l } { - } 2 4$ 等家系重复出现，且在2018年的排名分别为2、3、4、1、6。武威试点2016年排序前 $2 0 \\%$ 的家系从大到小是： $\\mathrm { j c } { - } 8 \\ \\mathrm { , w } 3 { - } 1 5 \\ \\mathrm { , j } 3 { - } 8 \\ \\mathrm { , w } 3 { - } 1 2 \\ \\mathrm { , j } 3 { - } 9 \\ \\mathrm { , z l } { - } 2 3 \\ \\mathrm { , }$ 与2015年相比， $\\mathrm { w } 3 { - } 1 5 \\mathrm { . } \\mathrm { j c } { - } 8 \\mathrm { . } \\mathrm { w } 3 { - } 1 2 \\mathrm { . } \\mathrm { j } 3 { - } 9 \\mathrm { . } \\mathrm { z } \\mathrm { l } { - } 2 3$ 等家系重复出现，且在2018年的排名分别为2、1、4、5、3。在不同年份不同试验点jc-8、j3-9、w3-15和 $\\mathrm { w } 3 - 1 2$ 的抗旱性表现均优于其他家系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f2a38d6f33633bf8cec44d1061c79893514eea3a48aa4bb2bd114652f2672f22.jpg",
+        "table_caption": [
+            "Tab.3Principal component analysis of drought indices of 31 Nitraria tangutorum families in "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标</td><td colspan=\"3\">兰州主成分载荷矩阵</td><td colspan=\"3\">武威主成分载荷矩阵</td></tr><tr><td>主成分1</td><td>主成分2</td><td>主成分3</td><td>主成分1</td><td>主成分2</td><td>主成分3</td></tr><tr><td>POD</td><td>0.643</td><td>0.24</td><td>-0.232</td><td>0.594</td><td>0.246</td><td>0.335</td></tr><tr><td>SOD</td><td>0.662</td><td>0.332</td><td>-0.232</td><td>0.692</td><td>0.51</td><td>0.086</td></tr><tr><td>CAT</td><td>-0.341</td><td>0.143</td><td>0.652</td><td>0.005</td><td>0.513</td><td>-0.411</td></tr><tr><td>SP</td><td>0.478</td><td>0.663</td><td>-0.032</td><td>0.738</td><td>0.403</td><td>0.148</td></tr><tr><td>Pro</td><td>0.294</td><td>-0.744</td><td>-0.085</td><td>0.72</td><td>0.48</td><td>0.053</td></tr><tr><td>SS</td><td>0.082</td><td>0.855</td><td>-0.28</td><td>0.6</td><td>0.036</td><td>-0.182</td></tr><tr><td>Chl a</td><td>0.924</td><td>-0.109</td><td>0.316</td><td>0.816</td><td>-0.504</td><td>0.123</td></tr><tr><td>Chl b</td><td>0.858</td><td>-0.346</td><td>-0.037</td><td>0.731</td><td>-0.439</td><td>-0.48</td></tr><tr><td>Chl (a+b)</td><td>0.941</td><td>-0.17</td><td>0.242</td><td>0.837</td><td>-0.513</td><td>-0.072</td></tr><tr><td>Chl (a/b)</td><td>0.147</td><td>0.443</td><td>0.676</td><td>0.017</td><td>-0.199</td><td>0.901</td></tr><tr><td>特征值</td><td>3.787</td><td>2.268</td><td>1.235</td><td>4.154</td><td>1.727</td><td>1.409</td></tr><tr><td>贡献率/%</td><td>37.874</td><td>22.685</td><td>12.353</td><td>41.545</td><td>17.268</td><td>14.09</td></tr><tr><td>累积贡献率/%</td><td>37.874</td><td>60.559</td><td>72.913</td><td>41.545</td><td>58.813</td><td>72.903</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/20dc0e6ea1e9da895c9256177de23e63388b31f962461b83ad4c7a050693f88b.jpg",
+        "table_caption": [
+            "表32016年31个唐古特白刺家系抗旱指标主成分分析",
+            "表42018年31个唐古特白刺家系抗旱指标主成分分析",
+            "Tab.4Principal component analysis of drought indices of 31 Nitraria tangutorum families in 2018 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标</td><td colspan=\"3\">兰州主成分载荷矩阵</td><td colspan=\"3\">武威主成分载荷矩阵</td></tr><tr><td>主成分1</td><td>主成分2</td><td>主成分3</td><td>主成分1</td><td>主成分2</td><td>主成分3</td></tr><tr><td>POD</td><td>0.222</td><td>-0.484</td><td>0.709</td><td>0.763</td><td>0.453</td><td>0.125</td></tr><tr><td>SOD</td><td>0.073</td><td>0.383</td><td>0.809</td><td>0.395</td><td>-0.745</td><td>-0.152</td></tr><tr><td>CAT</td><td>0.382</td><td>-0.437</td><td>-0.301</td><td>-0.841</td><td>0.372</td><td>0.034</td></tr><tr><td>SP</td><td>0.538</td><td>-0.644</td><td>0.316</td><td>0.077</td><td>0.742</td><td>-0.514</td></tr><tr><td>Pro</td><td>0.607</td><td>0.529</td><td>-0.226</td><td>0.485</td><td>0.114</td><td>0.751</td></tr><tr><td>SS</td><td>-0.38</td><td>0.629</td><td>-0.229</td><td>-0.548</td><td>0.416</td><td>0.016</td></tr><tr><td>Chl a</td><td>0.92</td><td>0.115</td><td>-0.29</td><td>0.919</td><td>0.208</td><td>0.108</td></tr><tr><td>Chl b</td><td>0.675</td><td>0.607</td><td>0.358</td><td>0.973</td><td>0.075</td><td>-0.089</td></tr><tr><td>Chl (a+b)</td><td>0.928</td><td>0.27</td><td>-0.124</td><td>0.951</td><td>0.17</td><td>0.048</td></tr><tr><td>Chl (a/b)</td><td>0.31</td><td>-0.823</td><td>-0.265</td><td>-0.474</td><td>0.103</td><td>0.802</td></tr><tr><td>特征值</td><td>3.262</td><td>2.796</td><td>1.75</td><td>4.908</td><td>1.724</td><td>1.532</td></tr><tr><td>贡献率/%</td><td>32.62</td><td>27.964</td><td>17.504</td><td>49.082</td><td>17.242</td><td>15.321</td></tr><tr><td>累积贡献率/%</td><td>32.62</td><td>60.585</td><td>78.088</td><td>49.082</td><td>66.324</td><td>81.645</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同年份两试验点的入选家系不尽相同，这说明不同唐古特白刺家系对环境的适应能力不同。但其中， $\\mathrm { w } 3 - 1 2 \\cdot \\mathrm { j c } { - 8 \\cdot \\mathrm { j } 3 { - 9 \\cdot \\mathrm { w } 3 - 1 5 } }$ 等4个家系在不同年份不同试验点均为入选家系，说明这4个家系不仅抗旱表现优于其他家系，且对环境的适应性也高于其他家系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 隶属函数法以过氧化氢酶(CAT)、可溶性蛋白(SP）游离脯氨酸(Pro）、叶绿素(Chl)等10个抗旱指标作为唐古特白刺抗旱性的评价依据，计算各家系各个指标的平均隶属函数值，并进行抗旱适",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "应性综合评价。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以 $2 0 \\%$ 的入选率，根据前期试验数据显示[27]，兰州试点2015年入选家系为j3-8、j3-16、j3-9、jc-$8 、 \\mathrm { w } 3 – 1 5 、 \\mathrm { w } 3 – 1 2$ ，平均隶属函数值在0.91\\~0.68；武威试点2015年人选的家系为 $\\mathrm { j c } { - } 8 \\sqrt { 3 { - } 9 \\sqrt { - 3 5 \\sqrt { \\Omega } } \\sqrt { 3 - } }$ $1 5 . \\mathrm { w } 3 \\mathrm { - } 1 2 . \\mathrm { z l - } 2 3 .$ ，平均隶属函数值在 $0 . 8 5 \\mathrm { \\sim } 0 . 6 4$ 。由表7\\~8所示，兰州试点2016年入选家系为j3-8、j3-$9 \\cdot \\mathrm { j c } - 8 \\ 、 \\mathrm { z l } - 2 4 \\ 、 \\mathrm { w } 3 - 1 5 \\ 、 \\mathrm { w } 3 - 1 2$ ，平均隶属函数值在0.74\\~0.65;与2015年相比，重复入选的家系为j3-8、$\\mathrm { j } 3 \\mathrm { - } 9 \\cdot \\mathrm { j } \\mathrm { c } \\mathrm { - } 8 \\ 、 \\mathrm { w } 3 \\mathrm { - } 1 5 \\ 、 \\mathrm { w } 3 \\mathrm { - } 1 2$ ，在2018年的排名为4、5、1、2、3。武威试点2016年入选的家系为jc-8、j3-6、${ \\mathrm { j } } 3 - 9 { \\bf \\nabla } , { \\bf z } { \\mathrm { l } } - 2 3 { \\bf \\nabla } , { \\bf w } 3 - 1 2 { \\bf \\nabla } , { \\bf w } 3 - 1 5 { \\bf \\nabla } ,$ ，平均隶属函数值在0.77\\~0.62;与2015年相比，重复入选的家系为jc-8、j3-9、zl-23、w3-12、w3-15,在2018年的排名为1、3、6、4、2。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0eb80d17a998e4f462507549b150f2bf4667e83260ee1f586c0ccb8b3926fd96.jpg",
+        "table_caption": [
+            "lab.5 Comprehensive principalcomponent scores of drought indices of31 Nitraria tangutorumfamilies in 2( "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">兰州</td><td colspan=\"6\">武威</td></tr><tr><td>家系</td><td>主成分1 得分</td><td>主成分2 得分</td><td>主成分3 得分</td><td>综合得分</td><td>排序</td><td>家系</td><td>主成分1 得分</td><td>主成分2 得分</td><td>主成分3 得分</td><td>综合得分</td><td>排序</td></tr><tr><td>jc-8</td><td>9.89</td><td>-2.11</td><td>5.89</td><td>4.00</td><td>1</td><td>jc-8</td><td>9.89</td><td>-2.11</td><td>5.89</td><td>4.57</td><td>1</td></tr><tr><td>j3-16</td><td>8.13</td><td>-2.04</td><td>5.26</td><td>3.27</td><td>2</td><td>w3-15</td><td>8.13</td><td>-2.04</td><td>5.26</td><td>3.77</td><td>2</td></tr><tr><td>zl-24</td><td>7.86</td><td>-1.63</td><td>4.61</td><td>3.18</td><td>3</td><td>j3-8</td><td>7.86</td><td>-1.63</td><td>4.61</td><td>3.63</td><td>3</td></tr><tr><td>w3-15</td><td>7.86</td><td>-1.76</td><td>4.76</td><td>3.17</td><td>4</td><td>w3-12</td><td>7.86</td><td>-1.76</td><td>4.76</td><td>3.63</td><td>4</td></tr><tr><td>j3-9</td><td>7.78</td><td>-1.53</td><td>4.57</td><td>3.16</td><td>5</td><td>j3-9</td><td>7.78</td><td>-1.53</td><td>4.57</td><td>3.61</td><td>5</td></tr><tr><td>w3-12</td><td>7.74</td><td>-1.76</td><td>4.50</td><td>3.09</td><td>6</td><td>zl-23</td><td>7.74</td><td>-1.76</td><td>4.50</td><td>3.55</td><td>6</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/48a9b45c0c668bce5e277ef6581d343e03bee74b02fe22943d6fc5f2096294a3.jpg",
+        "table_caption": [
+            "表52016年31个唐古特白刺家系抗旱指标主成分综合得分",
+            "表62018年12个唐古特白刺家系抗旱指标主成分综合得分",
+            ".6Comprehensive principal component scores of drought indices of 12 Nitraria tangutorum families "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">兰州</td><td colspan=\"6\">武威</td></tr><tr><td>家系</td><td>主成分1 得分</td><td>主成分2 得分</td><td>主成分3 得分</td><td>综合得分</td><td>排序</td><td>家系</td><td>主成分1 得分</td><td>主成分2 得分</td><td>主成分3 得分</td><td>综合得分</td><td>排序</td></tr><tr><td>j3-9</td><td>2.82</td><td>0.60</td><td>-1.41</td><td>0.84</td><td>4</td><td>w3-12</td><td>2.82</td><td>0.60</td><td>-1.41</td><td>1.27</td><td>4</td></tr><tr><td>1-4</td><td>2.25</td><td>0.28</td><td>-1.13</td><td>0.62</td><td>9</td><td>jc-8</td><td>3.72</td><td>0.77</td><td>-1.97</td><td>1.66</td><td>1</td></tr><tr><td>w3-12</td><td>2.84</td><td>0.35</td><td>-1.54</td><td>0.76</td><td>6</td><td>j3-9</td><td>2.84</td><td>0.35</td><td>-1.54</td><td>1.22</td><td>5</td></tr><tr><td>jc-8</td><td>3.83</td><td>0.41</td><td>-2.09</td><td>1.00</td><td>2</td><td>w3-15</td><td>3.83</td><td>0.41</td><td>-2.09</td><td>1.63</td><td>2</td></tr><tr><td>1-2</td><td>2.82</td><td>1.01</td><td>-1.44</td><td>0.95</td><td>3</td><td>zl-23</td><td>2.82</td><td>1.01</td><td>-1.44</td><td>1.34</td><td>3</td></tr><tr><td>w3-1</td><td>2.50</td><td>0.50</td><td>-1.31</td><td>0.73</td><td>7</td><td>jc-5</td><td>2.50</td><td>0.50</td><td>-1.31</td><td>1.11</td><td>7</td></tr><tr><td>w2-5</td><td>1.70</td><td>0.05</td><td>-0.75</td><td>0.44</td><td>12</td><td>lsm-28</td><td>1.70</td><td>0.05</td><td>-0.75</td><td>0.73</td><td>12</td></tr><tr><td>gl-34</td><td>2.52</td><td>-0.58</td><td>-1.26</td><td>0.44</td><td>11</td><td>lsm-17</td><td>2.52</td><td>-0.58</td><td>-1.26</td><td>0.94</td><td>10</td></tr><tr><td>gl-35</td><td>2.49</td><td>0.60</td><td>-1.24</td><td>0.76</td><td>5</td><td>gl-35</td><td>2.49</td><td>0.60</td><td>-1.24</td><td>1.13</td><td>6</td></tr><tr><td>jc-5</td><td>2.30</td><td>-0.20</td><td>-1.21</td><td>0.48</td><td>10</td><td>gl-14</td><td>2.30</td><td>-0.20</td><td>-1.21</td><td>0.91</td><td>11</td></tr><tr><td>jc-2</td><td>2.61</td><td>0.13</td><td>-1.43</td><td>0.64</td><td>8</td><td>jc-2</td><td>2.61</td><td>0.13</td><td>-1.43</td><td>1.08</td><td>8</td></tr><tr><td>w3-15</td><td>3.72</td><td>0.77</td><td>-1.97</td><td>1.08</td><td>1</td><td>j-3-20</td><td>2.25</td><td>0.28</td><td>-1.13</td><td>0.98</td><td>9</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/edf5f7bd3c878229b3ff14e41159a5e6fc9425e585f19feff8c0f2468e2dc49c.jpg",
+        "table_caption": [
+            "表72016年31个唐古特白刺家系抗旱指标隶属函数值",
+            "Tab.7Subordinative function value of drought indices of 31 Nitraria tangutorum families in 2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"6\">兰州</td><td colspan=\"6\">武威</td></tr><tr><td>w3-15</td><td>j3-9</td><td>w3-12</td><td>j3-8</td><td>zl-24</td><td>jc-8</td><td>w3-15</td><td>w3-12</td><td>j3-6</td><td>j3-9</td><td>jc-8</td><td>zl-23</td></tr><tr><td>POD</td><td>0.96</td><td>0.87</td><td>0.87</td><td>0.92</td><td>0.95</td><td>0.85</td><td>1.00</td><td>0.89</td><td>0.94</td><td>0.79</td><td>0.91</td><td>0.78</td></tr><tr><td>SOD</td><td>1.00</td><td>0.67</td><td>0.47</td><td>0.53</td><td>0.77</td><td>0.54</td><td>0.92</td><td>1.00</td><td>0.70</td><td>0.75</td><td>0.92</td><td>0.63</td></tr><tr><td>CAT</td><td>0.23</td><td>0.38</td><td>0.50</td><td>0.30</td><td>0.52</td><td>0.84</td><td>0.67</td><td>1.00</td><td>0.20</td><td>0.27</td><td>0.63</td><td>0.44</td></tr><tr><td>SP</td><td>0.38</td><td>0.99</td><td>0.94</td><td>1.00</td><td>0.49</td><td>0.98</td><td>0.91</td><td>0.89</td><td>0.83</td><td>0.86</td><td>1.00</td><td>0.99</td></tr><tr><td>Pro</td><td>0.99</td><td>0.80</td><td>0.91</td><td>0.94</td><td>0.96</td><td>0.86</td><td>0.90</td><td>1.00</td><td>0.84</td><td>0.87</td><td>0.69</td><td>0.86</td></tr><tr><td>SS</td><td>0.26</td><td>0.87</td><td>0.95</td><td>0.60</td><td>0.33</td><td>0.79</td><td>1.00</td><td>0.58</td><td>0.19</td><td>0.62</td><td>0.56</td><td>0.83</td></tr><tr><td>Chl a</td><td>1.00</td><td>0.63</td><td>0.54</td><td>0.56</td><td>0.63</td><td>0.33</td><td>0.63</td><td>0.58</td><td>0.94</td><td>0.71</td><td>0.44</td><td>0.42</td></tr><tr><td>Chl b</td><td>0.93</td><td>0.54</td><td>0.43</td><td>0.49</td><td>0.55</td><td>0.24</td><td>0.51</td><td>0.41</td><td>0.50</td><td>0.67</td><td>0.24</td><td>0.35</td></tr><tr><td>Chl (a+b)</td><td>1.00</td><td>0.62</td><td>0.52</td><td>0.55</td><td>0.62</td><td>0.32</td><td>0.64</td><td>0.56</td><td>0.85</td><td>0.75</td><td>0.40</td><td>0.43</td></tr><tr><td>Chl (a/b)</td><td>0.67</td><td>0.69</td><td>0.75</td><td>0.69</td><td>0.70</td><td>0.72</td><td>0.54</td><td>0.56</td><td>0.80</td><td>0.51</td><td>0.76</td><td>0.49</td></tr><tr><td>平均隶属 函数值</td><td>0.74</td><td>0.71</td><td>0.69</td><td>0.66</td><td>0.65</td><td>0.65</td><td>0.77</td><td>0.75</td><td>0.68</td><td>0.68</td><td>0.65</td><td>0.62</td></tr><tr><td>排序</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "两试验点各家系的隶属函数值均在2015年、2016年和2018年逐年下降，这可能各指标应对环境所发生的调节反应有关，需要进一步的研究。但家系排名变化不大。其中，家系j3-9、jc-8、w3-15、w3-12在不同年份不同试验点均入选,即j3-9、jc-$8 \\phantom { + } \\mathrm { w } 3 \\mathrm { - } 1 5 \\phantom { \\rule { 0.3 em } { 0 ex } } \\mathrm { w } 3 \\mathrm { - } 1 2$ 等4个家系的抗旱性均优于其他家系，与主成分分析法结果相同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "抗旱性是植物长期在干旱的生态环境中形成的适应机制，植物的抗旱性是多个因素作用的结果。不同的植物有着不同的适应机制，同一植物不同家系间的抗旱性也存在区别。众多研究表明[28-30],使用单一指标评价植物的抗性都是不全面的。李春叶等[31认为，早期选择应该考虑多个形状的联合选择发展；刘代亿等5发现，云南松早晚树龄性状具有极显著相关性;胡文杰等[32]发现，对林木进行早期优良家系的选择能够获得品质更加稳定的家系。本研究发现,使用单一指标来评价唐古特白刺家系的抗旱性会出现不同结果。因此，为了全面评价唐古特白刺抗旱优良家系抗旱性及稳定性，通过运用主成分分析法和隶属函数法，对2015年、2016年和2018年武威、兰州试验点的31个唐古特白刺家系进行抗旱适应性综合评价及对比。结果表明：分别运用主成分分析法和隶属函数法以 $2 0 \\%$ 的入选率选择抗旱性优良的唐古特白刺家系重合率均在 $8 0 \\%$ 以上。同一年份武威和兰州试验点入选家系的重合率在 $6 6 \\%$ 以上，不同环境条件下表现出较高抗旱性的部分唐古特白刺家系重合但并不完全相同，说明唐古特白刺家系的抗旱性受环境影响，即唐古特白刺家系间对环境的适应性存在差异。众多研究[33-35]表明，外部环境对植物生理生化性质可以产生重要影响，植物为适应环境做出相应的变化，即生态适应。两试验点的不同入选家系对外适应外界环境的生态适应程度不同，这有利于筛选对干旱环境适应性更强的家系；同一试验点，不同年份间入选家系的重合率 $8 3 \\%$ 以上，唐古特白刺抗旱优良家系在相同环境不同生理阶段的抗旱性表现基本一致，说明唐古特白刺抗旱优良家系的抗旱性具有稳定性，即唐古特白刺抗旱优良家系的早期抗旱性与成熟期表现一致；两种综合评价结果均显示,在不同年份不同试验点 $\\mathrm { j } 3 \\mathrm { - } 9 \\mathrm { \\cdot } \\mathrm { j } \\mathrm { c } \\mathrm { - } 8 \\mathrm { \\ } \\mathrm { , w } 3 \\mathrm { - } 1 5 \\mathrm { \\cdot } \\mathrm { w } 3 \\mathrm { - }$ 12等4个家系的抗旱性表现明显优于其他家系，说明根据生理指标综合评价筛选出的唐古特白刺抗旱优良家系在不同生理阶段不同环境条件下表现出稳定的抗旱性。众多研究表明[36-37],林木的生理生化指标在其不同生理阶段存在关联性，可根据生理指标综合评价对唐古特白刺家系进行早期选择。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表82018年12个唐古特白刺家系抗旱指标隶属函数值"
+        ],
+        "table_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/12e42062f9ea6998b286335a82310dabf099e56f5d86624b764061ebeec8db94.jpg",
+        "table_caption": [
+            "Tab.8Subordinative function value of drought indices of12Nitraria tangutorumfamilies in 2018 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"11\">兰州</td></tr><tr><td>j3-9</td><td>zl-4</td><td>w3-12</td><td>jc-8</td><td>j3-8</td><td>w3-1</td><td>w2-5</td><td>gl-34</td><td>gl-35</td><td>jc-5</td><td>jc-2</td><td>w3-15</td></tr><tr><td>POD</td><td>0.31</td><td>0.27</td><td>1.00</td><td>0.00</td><td>0.66</td><td>0.06</td><td>0.28</td><td>0.20</td><td>0.41</td><td>0.15</td><td>0.02</td><td>0.55</td></tr><tr><td>SOD</td><td>0.31</td><td>0.30</td><td>1.00</td><td>0.55</td><td>0.00</td><td>0.22</td><td>0.50</td><td>0.32</td><td>0.25</td><td>0.53</td><td>0.35</td><td>0.58</td></tr><tr><td>CAT</td><td>1.00</td><td>0.60</td><td>0.43</td><td>0.75</td><td>0.56</td><td>0.00</td><td>0.22</td><td>0.25</td><td>0.30</td><td>0.03</td><td>0.15</td><td>0.04</td></tr><tr><td>SP</td><td>0.20</td><td>0.42</td><td>0.77</td><td>0.56</td><td>0.79</td><td>0.08</td><td>0.20</td><td>0.48</td><td>1.00</td><td>0.00</td><td>0.49</td><td>0.48</td></tr><tr><td>Pro</td><td>0.44</td><td>0.37</td><td>0.45</td><td>1.00</td><td>0.42</td><td>0.43</td><td>0.00</td><td>0.62</td><td>0.23</td><td>0.63</td><td>0.61</td><td>0.54</td></tr><tr><td>SS</td><td>0.41</td><td>0.47</td><td>0.20</td><td>0.55</td><td>0.33</td><td>0.67</td><td>0.65</td><td>0.29</td><td>0.03</td><td>1.00</td><td>0.00</td><td>0.46</td></tr><tr><td>Chl a</td><td>0.60</td><td>0.28</td><td>0.18</td><td>0.99</td><td>0.72</td><td>0.38</td><td>0.00</td><td>0.50</td><td>0.49</td><td>0.16</td><td>0.37</td><td>1.00</td></tr><tr><td>Chl b</td><td>0.24</td><td>0.00</td><td>0.52</td><td>0.67</td><td>0.00</td><td>0.31</td><td>0.02</td><td>0.39</td><td>0.03</td><td>0.17</td><td>0.19</td><td>1.00</td></tr><tr><td>Chl (a+b)</td><td>0.50</td><td>0.20</td><td>0.27</td><td>0.90</td><td>0.52</td><td>0.36</td><td>0.00</td><td>0.46</td><td>0.36</td><td>0.16</td><td>0.32</td><td>1.00</td></tr><tr><td>Chl (a/b)</td><td>0.86</td><td>0.13</td><td>0.29</td><td>0.18</td><td>1.00</td><td>0.03</td><td>0.01</td><td>0.09</td><td>0.74</td><td>0.03</td><td>0.10</td><td>0.00</td></tr><tr><td>平均隶属函数值</td><td>0.49</td><td>0.30</td><td>0.51</td><td>0.61</td><td>0.50</td><td>0.25</td><td>0.19</td><td>0.36</td><td>0.39</td><td>0.29</td><td>0.26</td><td>0.57</td></tr><tr><td>排序</td><td>5 8</td><td>3</td><td></td><td>1</td><td>4</td><td>11</td><td>12</td><td>7</td><td>6</td><td>9</td><td>10</td><td>2</td></tr><tr><td colspan=\"9\">武威</td><td colspan=\"2\"></td><td></td></tr><tr><td>POD</td><td>w3-12 0.20</td><td>jc-8 1.00</td><td>j3-9</td><td>w3-15</td><td>zl-23</td><td>jc-5</td><td>lsm-28</td><td>lsm-17</td><td>gl-35</td><td>gl-14</td><td>jc-2</td><td>j-3-20</td></tr><tr><td>SOD</td><td></td><td></td><td>0.24</td><td>0.61</td><td>0.20</td><td>0.30</td><td>0.16</td><td>0.29</td><td>0.31</td><td>0.00</td><td>0.12</td><td>0.25</td></tr><tr><td></td><td>0.00</td><td>0.40</td><td>0.35</td><td>0.97</td><td>0.63</td><td>0.68</td><td>0.70</td><td>0.05</td><td>0.42</td><td>1.00</td><td>0.18</td><td>0.75</td></tr><tr><td>CAT</td><td>0.73</td><td>0.45</td><td>0.84</td><td>0.20</td><td>0.48</td><td>0.00</td><td>0.78</td><td>1.00</td><td>0.59</td><td>0.87</td><td>0.65</td><td>0.32</td></tr><tr><td>SP</td><td>0.86</td><td>1.00</td><td>0.17</td><td>0.00</td><td>0.42</td><td>0.59</td><td>0.57</td><td>0.59</td><td>0.31</td><td>0.45</td><td>0.20</td><td>0.07</td></tr><tr><td>Pro</td><td>0.41</td><td>0.58</td><td>0.88</td><td>1.00</td><td>0.73</td><td>0.37</td><td>0.19</td><td>0.30</td><td>0.41</td><td>0.00</td><td>0.04</td><td>0.21</td></tr><tr><td>SS</td><td>1.00</td><td>0.46</td><td>0.68</td><td>0.57</td><td>0.55</td><td>0.00</td><td>0.99</td><td>0.79</td><td>0.41</td><td>0.65</td><td>0.73</td><td>0.59</td></tr><tr><td>Chl a</td><td>0.58</td><td>1.00</td><td>0.35</td><td>0.79</td><td>0.51</td><td>0.54</td><td>0.38</td><td>0.07</td><td>0.38</td><td>0.00</td><td>0.15</td><td>0.88</td></tr><tr><td>Chl b</td><td>0.53</td><td>1.00</td><td>0.22</td><td>0.90</td><td>0.42</td><td>0.66</td><td>0.41</td><td>0.00</td><td>0.42</td><td>0.24</td><td>0.17</td><td>0.70</td></tr><tr><td>Chl (a+b)</td><td>0.54</td><td>1.00</td><td>0.27</td><td>0.81</td><td>0.45</td><td>0.56</td><td>0.36</td><td>0.00</td><td>0.37</td><td>0.03</td><td>0.11</td><td>0.81</td></tr><tr><td>Chl (a/b)</td><td>0.12</td><td>0.03</td><td>1.00</td><td>0.00</td><td>0.23</td><td>0.03</td><td>0.08</td><td>0.34</td><td>0.14</td><td>0.02</td><td>0.36</td><td>0.16</td></tr><tr><td>平均隶属函数值</td><td>0.50</td><td>0.69</td><td>0.50</td><td>0.59</td><td>0.46</td><td>0.37</td><td>0.46</td><td>0.34</td><td>0.38</td><td>0.33</td><td>0.27</td><td>0.47</td></tr><tr><td>排序</td><td>4</td><td>1</td><td>3</td><td>2</td><td>6</td><td>9</td><td>7</td><td>10</td><td>8</td><td>11</td><td>12</td><td>5</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] 王尚德.唐古特白刺优株选择与组织培养研究[D].北京：北京 林业大学,2OO5.[Wang Shangde.The Plus Three Selection and Tissue Culture of Nitraria tangutorum Bobor[D]. Beijing: Beijing ForestryUniversity,2005.]   \n[2] 郭晔红,葡海明,武睿.唐古特白刺组织培养及其培养基筛选 研究[J].草业学报,2009,18(6):59-64.[Guo Yehong,Lin Haiming,Wu Rui.Research on tissue culture and medium of Nitraria tangutorum[J].Acta Prataculturae Sinica,2009,18(6): 59-64.]   \n[3] 张勇.白刺属植物分子系统学及遗传多样性研究[D].兰州：兰 州大学,2OO6.[Zhang Yong. Studies on Molecular Systematic and Genetic Diversity of Genus Nitraria L.[D].Lanzhou: Lanzhou University,2006.]   \n[4]李海涛,曹芳,张东梅.唐古特白刺果实的化学成分研究[J].华 西药学杂志,2018,33(3): 231-234.[Li Haitao,Cao Fang,Zhang Dongmei.Study on the chemical constituents from the Nitraria tangutorum[J]. West China Journal of Pharmaceutical Sciences, 2018,33(3): 231-234.]   \n[5] 李海涛,曹芳,张东梅.唐古特白刺叶化学成分的研究[J].中成 药,2018,40(7):1532-1535.[Li Haitao, Cao Fang, Zhang Dongmei. Chemical constituents from the leaves of Nitraria tangutorum [J].Chinese Traditional and Herbal Drugs,2018,4O(7):1532- 1535.]   \n[6] 种培芳,苏世平,高暝,等.4个地理种源白刺气体交换特性比 较[J].草业学报,2013,22(2):307-312.[Chong Peifang,Su Ship ing, Gao Ming,et al. Compariative analysis on gas exchange characteristics of four geographical provenances of Nitraria tanguto rum[J].Acta Prataculturae Sinica,2013,22(2): 307-312.]   \n[7] 闫永庆，高彦博,刘威,等.外源 $\\mathrm { C a } ^ { 2 + }$ 对盐胁迫下唐古特白刺光 合作用影响[J].东北农业大学学报,2016,47(4):57-64.[Yan Yongqing,Gao Yanbo,Liu Wei,etal.Effect of exogenous Ca²+ on photosynthesis of Nitraria tangutorum during salt stress[J]. Journal of Northeast Agricultural University,2016,47(4): 57-64.] [8]董雪,李永华,辛智鸣,等.唐古特白刺叶性状及叶片 $\\mathrm { 8 ^ { 1 3 } C , 8 ^ { 1 5 } N }$ 沿降水梯度的变化特征[J].生态学报,2019,39(10):3700-3709. [Dong Xue,Li Yonghua,Xin Zhiming,et al.Variation in leaf traits and leaf $\\ S ^ { 1 3 } \\mathrm { C }$ and $8 ^ { 1 5 } \\mathrm { { N } }$ content in Nitraria tangutorum precipitation gradient[J].Acta Ecologica Sinica,2019,39(10):3700-3709.] [9]白潇,李毅,苏世平,等.不同居群唐古特白刺叶片解剖特征对 生境的响应研究[J].西北植物学报,2013,33(10):1986-1993. [Bai Xiao,Li Yi,Su Shiping,et al. Response of leaf anatomical characteristics of Nitraria tangutorum Bobor.from diferent populations to habitats[J].Acta Botanica Boreali-Occidentalia Sinica,   \n2013,33(10): 1986-1993.] [10] 李林芝,邵麟惠,于应文,等.柴达木荒漠草原4种灌木叶片解 剖结构与其抗旱性的研究[J].草原与草坪,2009(3):20-23.[Li Linzhi,Shao Linhui,Yu Yingwen,et al.Study on leaf dissection structure and drought resistance of four shrubs growing in desert steppe in Tsaidam[J]. Grassland and Turf,2009(3): 20-23.] [11] 何浩,戴欢.林木早期选择理论与方法研究进展[J].农村经济与 科技,2012,23(3): 33-36.[He Hao,Dai Huan.Research progress in the heoryand method of forest early selection[J]. Rural Economy and Science,2012,23(3): 33-36.] [12]Lambeth C C. Juvenile-mature correlation inpinaceaeand implication for early selection[J]. ForestScience,1980,26: 571-580 [13] 杨秀艳,季孔庶.林木育种中的早期选择[J].世界林业研究,   \n2004(2): 6-8.[Yang Xiuyan,Ji Kongshu. Early selection of forest tree improvement[J]. World Forestry Research,2004(2): 6-8.] [14]赖猛.落叶松无性系遗传评价与早期选择研究[D].北京:中国 林业科学研究院,2014.[Lai Meng.Genotypic Evaluation and Early Selection of Larix Clones[D]. Bejing: Chinese Academy of Forestry,2014.] [15]刘代亿.云南松优良家系及优良个体早期选择研究[D].昆明: 西南林业大学,2009.[Liu Daiyi.A Study on Early Selection of Superior Families and Plus Individuals of Pinus yunnanensis[D]. Kunming: Southwest Forestry University,2009.] [16] 王军辉,顾万春,李斌,等.桤木优良种源/家系的选择研究- 生长的适应性和遗传稳定性分析[J].林业科学,2000(3):59-   \n66.[Wang Junhui,Gu Wanchun,Li Bin,et al. Study on selection of Alnus cremastogyne provenance/family: Analysis of growth adaptation and genetic stability[J]. Scientia Silvae Sinicae,20o0(3):59-   \n66.] [17] 种培芳,苏世平,高暝,李毅.4个地理种群唐古特白刺的抗旱 性系统评价[J].水土保持通报,2011,31(3):213-218.[Chong Peifang,Su Shiping,Gao Ming,et al.Systematic evaluation on drought resistance of Nitraria tangutorum from four geographical populations[J].Buletinof Soil and WaterConservation,2011,31 (3): 213-218.] [18] 刘芳,陈海玲,徐军,等.不同灌木品种抗旱性机理研究[J].中国 农学通报,2014,30(28):13-17.[Liu Fang, Chen Hailing,Xu Jun, et al. Comparison of drought resistance mechanism of five shurb[J]. Chinese Agricultural Science Bulletin,2014,30(28):13-17.]   \n[19] 郝再彬,苍晶,徐仲.植物生理实验[M].哈尔滨:哈尔滨大学出 版社,2004:101-108.[Hao Zaibin, Cang Jing,Xu Zhong.Plant Physiology Experiment[M]. Harbin: Harbin University Press,2004: 101-108.]   \n[20] 赵世杰,史国安,董新纯.植物生理实验指导[M].北京:中国农 业学技术出版社,2002: 45-48.[Zhao Shijie,Shi Guo'an, Dong Xinchun. Guide to Plant Physiology Experiments[M]. Beijing: China Agricultural Science and Technology Press,2OO2: 45-48.]   \n[21] 李合生.植物生理生物实验理论与技术[M].北京:高等教育出 版社,2001: 51-54.[Li Hesheng.The Theory and Technology of Plant Physiological Biology Experiment[M].Beijing:Higher Education Press,2001: 51-54.]   \n[22] 牟书靓,李玉发,牛海龙,等.基于主成分分析的花生种质资源 苗期抗旱性鉴定与筛选[J].吉林农业科学,2015,40(6):26-30, 69.[Mu Shuliang,Li Yufa,Niu Hailong,et al.Identification and evaluation of drought resistance of peanut germplasm resources at seed stage based on principal component analysis[J]. Journal of Northeast Agricultural Sciences,2015,40(6): 26-30,69.]   \n[23] 何海旺,武鹏,林茜,等.基于主成分分析的5份香蕉种质抗旱 性评价[J].种子,2017,36(6): 67-71.[Wang Haiwang,Wu Peng, Lin Qian,etal.Evauationofdroughtresistanceof5bnanageplasms basedon principal component analysis[J]. Seed,2017,36 (6): 67-71.]   \n[24] 李素,姜鸿明,宫德衬,等.48份冬小麦主要田间农艺性状的主 成分分析及抗旱性综合评价[J].山东农业科学,2014,46(7): 25-30.[Li Su,Jiang Hongming,Gong Dechen,et al. Principal component analysis of primary agronomic characters and comprehensive evaluation on drought resistance of 48 winter wheat cultivars[J]. Shandong Agricultural Sciences,2014, 46(7): 25-30.]   \n[25] 赵曼利,杜启兰,焦健,等.盐胁迫对不同品种油橄榄抗盐性生 理指标的影响[J.福建农林大学学报(自然科学版),2016,45 (1):19-25.[Zhao Manli,Du Qilan,Jiao Jian,et al.Physiological responseand salt resistance evaluation ofsix varietiesof Olea europaea under salt stress[J]. Journal of Fujian Agriculture and Forestry University(Natural Science Edition),2016,45(1):19-25.]   \n[26] 欧巧明,叶春雷,李进京,等.胡麻种质资源成株期抗旱性综合 评价及其指标筛选[J].干旱区研究,2017,34(5):1083-1092. [Ou Qiaoming, Ye Chunlei,Li Jinjing, et al. Comprehensive valuation and screening of drought resistance of flax germplasms[J]. Arid Zone Research,2017,34(5): 1083-1092.]   \n[27] 柴文敏,李毅,苏世平,等.唐古特白刺(Nitraria tangutorum)抗 旱优良家系的生理特性[J].中国沙漠,2017,37(6):1158-1170. [Chai Wenmin,Li Yi,Su Shiping,etal.Early selection of superior families with high drought-resistance in Nitraria tangutorum based on the physiological indices[J]. Journal of Desert Research, 2017, 37(6): 1158-1170. ]   \n[28] 种培芳,苏世平,李毅,等.4个地理种群红砂的抗旱性综合评 价[J].草业学报,2011,20(5):26-33.Chong Peifang,Su Shiping, Li Yi,et al. Comprehensive evaluation of drought resistance of $R e$ aumuria soongorica from four geographical populations[J]. Acta ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Prataculturae Sinica,2011,20(5): 26-33.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[29] 李爱平,王晓江,杨小玉,等.库布齐沙漠几种沙生灌木叶解剖 结构耐旱特征研究[J].中国沙漠,2010,30(6):1405-1410.[Li Aiping,Wang Xiaojiang,Yang Xiaoyu,etal.Evaluation of drought resistance capacity of desert shrubs in Hobq Desert based on characteristics of leaf anatomical structure[J]. Journal of Desert Research,2010,30(6): 1405-1410.]   \n[30] 赵晶怡,郭佳佳,樊保国.三种园林灌木抗性生理指标的测定及 综合评价[J].北方园艺,2012(16):42-45.[Zhao Jingyi,Guo Jiajia,Fan Baoguo.Determination and fuzzy synthetic evaluation of physiological index ofthree garden shrubs'stress-resistance[J].Northern Horticulture,2012(16): 42-45.]   \n[31]李春叶,周顺福.云南松优良家系的早期选择[J].绿色科技, 2016(19): 9-1O.[Li Chunye,Zhou Shunfu.Reseasrch on the early selection of fine pedigree of Pinus yunnanensis[J].Journal of Green Science and Technology,2016(19): 9-10.]   \n[32] 胡文杰,王晓荣,胡兴宜,等.枫香优良种源及家系早期选择[J]. 东北林业大学学报,2017,45(6):7-13.[Hu Wenjie,Wang Xiaorong,Hu Xingyi,et al.Early selection of fine families and individuals of Liquidambar formosana [J].Journal of Northeast Forestry University,2017,45(6):7-13.]   \n[33] 种培芳,李航逸,李毅.荒漠植物红砂根系对干旱胁迫的生理响 应[J].草业学报,2015,24(1):72-80.[Chong Peifang,Li Hangyi, Li Yi.Physiological responses of seedling roots of the desert plant ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Reaumuria soongoricato drought stress[J].Acta Prataculturae Sini",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ca,2015,24(1): 72-80.]   \n[34]李捷,崔永涛,柏延文,等.两种枸杞对干旱胁迫的生理响应及 抗旱性评价[J].甘肃农业大学学报,2019,54(5):79-87,99.[Li Jie,Cui Yongtao,Bai Yanwen,et al.Physiological response and drought resistance evaluation of two kinds wolfberries on drought stress[J]. Journal of Gansu Agricultural University,2O19,54(5): 79-87,99.]   \n[35] 刘金龙,王莹,许爱云,等.干旱胁迫下5种禾本科牧草幼苗期 的生理特性[J].草业科学,2018,35(5):1106-1115.[Liu Jinlong, Wang Ying,Xu Aiyun,et al.Study on physiological characteristics of five gramineous grass seedlings under drought stress[J]. Pratacultural Science,2018,35(5): 1106-1115.]   \n[36]余发新,周华,孙小艳,等.杂种马褂木几种生理生化指标的变 化规律及其早期选择[J].江西农业大学学报,2010,32(4):729- 734.[Yu Faxin, Zhou Hua,Sun Xiaoyan, et al. The changing rules of several physiological and biochemical indexes and early selection of Liriodendron hybrids[J].Acta Agriculturae Universitatis Jiangxiensis,2010,32(4): 729-734.]   \n[37]赵蓉，张存旭,张文辉.栓皮栎优树子代生理生化特性的研究 [J].西北林学院学报,2013,28(1):86-89.[Zhao Rong,Zhang Cunxu,Zhang Wenhui.Physiological and biochemical characteristics of Quercus variabilis in plus tree progeny[J].Journal of Northwest Forestry University,2013,28(1): 86-89.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Early selection of superior families with high drought resistance in Nitraria tangutorum ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LI Zhen， LI Yi， SU Shi-ping， CHONG Pei-fang， LI Pei-pei(CollegeofForestry, Gansu Agricultural University,Lanzhou 73oo70,Gansu,China)",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Inorderto choose a Nitraria tangutorum family with excellent drought-tolerance,in20l5,2016,and 2018,the contents of soluble sugar,soluble protein，proline,catalase,peroxidase，superoxide dismutase,and chlorophyllwere determinedin 31N.tangutorum families from two experimental sites (Lanzhou and Wuwei) with diffrent natural conditions,respectively.Two comprehensive evaluation methods (comprehensive evaluation and comparison by principal component analysis and membership function) were used to obtain two results,and more than $80 \\%$ of the two results were the same. If $20 \\%$ is used as the selection rate to select excellent drought-resistant families,four families, j3-9, jg $^ { - 8 }$ ，w3 $^ { - 1 5 }$ ，and w3 $- 1 2$ ， were selected in two consecutive years (2015 and 2016). Their drought resistance in 2O18 is significantly better than that of unselected families.The drought resistance of theselected families was consistent at different experimental points in diferent years,which indicates that the drought resistance of the fine families of $N .$ tangutorumis stable under different physiological conditions and in different environments and that the early selection of the fine families is reliable. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Nitraria tangutorum;superior families；drought tolerance;early selection； comprehensive evaluation ",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "type": "text",
+        "text": "PIK3CA and AKT2 mutations of gastric cancer in China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WEN-XIANG CHENG1, 2#, Taimei Zhou1, 3#, FU-HUA PI1, YONG MENG4, WILLIAM AU1, QING-YING ZHANG1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "# These authors contributed equally to this work. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Department of Preventive Medicine, Shantou University Medical College, Shantou 515041, China.   \n2. Translational Medicine R&D Center, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China 3.Department of Laboratory Medicine，Huaihua Medical College, Huaihua, Hunan 418000, China   \n4.Department of Surgery， the First Affiliated Hospital of Shantou University Medical College, Shantou, Guangdong 515041, China. \\* Correspondence to: Dr Qingying Zhang, Department of Preventive Medicine, Shantou University Medical College, 22# Xinling Road , Shantou 515041, P.R.China.   \nTel: (86754) 8890-0445   \nFax: (86754) 8855-7562   \nE-mail address: qyzhang $@$ stu.edu.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mutations in PI3K and/or AKT have been reported in a variety of cancers. This indicates that the two pathways interact to cause cancer. We have therefore investigated their roles in gastric cancer (GC) in China. In our study, exons 9,18 and 20 of PIK3CA gene and exons $6 { \\sim } 1 4$ of AKT2 gene were screened in 10 GC cell lines and 100 advanced primary GC together with matched normal tissues. Denaturing high performance liquid chromatography (DHPLC) and DNA sequencing were used to analyze the mutations in the two genes. Two point mutations in the PIK3CA gene were identified in 4 of 10 GC cell lines and in 4 of 100 GC primary tumors. Two polymorphisms in AKT2 were detected in 19 of 100 GC primary tumors. One point mutation in AKT2 was detected in 1 of 10 GC cell lines and 3 of 100 GC primary tumors, and no hot spot variation was detected. Our results indicate that PIK3CA and AKT2 mutations are found in GC,although not a common event, therefore they might still play an important role in mediating kinase activities towardsgastric carcinogenesis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PIK3CA; AKT2; gastric cancer; mutation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Gastric cancer (GC) represents one of the most frequent malignant diseases in the world. However, the incidence and mortality of GC vary enormously in different countries. In China, the 5-year survival rate is below $20 \\%$ and has remain unchanged in 20 years because most patients are presented at the advanced stage. Therefore, it is very critical to understand the mechanisms for GC which can be used for early diagnosis and improved therapy. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mutations in PIK3CA and AKT2 have been reported in GC and in other cancers .The protein encoded by the PIK3CA gene represents the catalytic subunit, which powers phosphatidylinositol 3-kinase. Akt, also known as protein kinase B, is one of the major downstream effectors of PI3K .Upon activation, Akt moves to the cytoplasm and nucleus, and phosphorylates a number of downstream effectors to regulate various cellular functions. Therefore, perturbation of the PI3K/Akt pathway can cause the development of cancer. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study, we screened both tumor tissues and matched normal tissues, and GC cell lines for gene mutations by denaturing high performance liquid chromatography (DHPLC) and sequencing. Specifically, we addressed point mutation in hot spots of PIK3CA,and the polymorphisms and somatic mutations in the AKT2 kinase domain. With our systematic approach, we have identified the novel mutations of PIK3CA and AKT2 genes in GC, which might be important to GC carcinogenesis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Materials and Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GC clinical specimens and GC cell lines ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "One hundred gastric carcinoma samples were collected in the Beijing Cancer Hospital, Beijing, China. All of the patients had undergone surgery with curative intent, and none of them had received preoperative adjuvant therapy. All tumors were histologically classified as stages III and IV according to the UICC TNM classification. Matched non-neoplastic normal samples were collected from the same gastric mucosa at around 5 cm away from the carcinoma tissues. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A panel of ten cell lines of GC was used as representing AGS, N87, MKN45, SNU-1, SNU-16, RF-1 obtained from American Type Culture Collection (ATCC), BGC823, MGC803, SGC7901 and PAMC82 established in China. The cel lines were cultured in Dulbecco's modified Eagle's medium (DMEM) with $10 \\%$ FBS (Hyclone). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DNA isolation and PCR ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Genomic DNA was extracted from frozen pathologic and normal tissue pairs through the standard phenol/chloroform and ethanol precipitation-extraction procedure. PCR amplification was performed in $2 5 \\mu \\mathrm { L }$ volume containing $1 0 0 \\mathrm { n g }$ genomic DNA, $1 0 0 \\mu \\mathrm { M }$ each of dNTPs,2mM $\\mathrm { M g C l } _ { 2 }$ 0 $2 . 5 \\mu \\mathrm { L }$ PCR buffer, $1 \\mu \\mathrm { M }$ each of forward and reverse primers and 1.5 units of Pfu DNA polymerase (Promega, US). Thirty cycles of PCR were performed with the following parameters: $9 5 ^ { \\circ } \\mathrm { C }$ for 40s, 40s at an annealing temperature appropriate for each primer pair and $7 2 ^ { \\circ } \\mathrm { C }$ for 80s, followed by 10min extension at $7 2 ^ { \\circ } \\mathrm { C }$ . Oligonucleotide primers to amplify the segments of PIK3CA corresponding to exon 9, 18, 20 and AKT2 exon6 ${ \\sim } 1 4$ are listed in Table 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DHPLC analysis and DNA sequencing ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Before analysis by DHPLC, all amplified fragments were heated to $9 5 ^ { \\circ } \\mathrm { C }$ for 3 min followed by slow cooling to $4 5 ^ { \\circ } \\mathrm { C }$ over $5 0 \\mathrm { m i n }$ to form a mixture of hetero and homoduplex molecules. The melting temperature and optimal gradient for each fragment can be obtained with WAVEMAKER 4.0 software with some empirical optimization.Aliquots of ${ 5 \\mu \\mathrm { L } }$ PCR products were automatically loaded on the DNASep column and eluted on a linear acetonitrile gradient in a O.1M triethylamine acetate buffer $\\mathrm { ( p H } 7 . 0 )$ ）with a constant flow rate of $0 . 9 \\mathrm { m L / m i n }$ . Elution of DNA from the column was detected by absorbance at $2 6 0 \\mathrm { n m }$ . After detection of the abnormal elution peak in DHPLC analysis, the PCR products were purified by $4 . 0 \\%$ polyacrylamide gels, and sequenced using forward/reverse primers with an ABI377 DNA automated sequencer (Perkin-Elmer, US). The sequencing to confirm the mutations were repeated three times. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We selected and screened 3 exons of the PIK3CA gene (exon 9, 18, 20), in which nucleotide variations were frequently reported in many kinds of tumors. We screened 110 gastric cancers (1Oo clinical specimens and 1O cell lines) for mutations of PIK3CA. Summaries of the PIK3CA mutational status are shown in Table 2 and Fig.1. A1634C transition was detected in gastric cancer cell line AGS and in one primary tumor. Such mutation is known to cause codon 545 to change from Glu $$ Ala. A273oG transition was detected in 3 gastric cancer cell lines and in 3 primary tumors, which are not known to cause amino acid changes. The PIK3CA mutation frequency in the 1OO primary gastric cancers is $4 . 0 \\%$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We selected and screened 9 exons of the AKT2 gene (exon $6 \\mathord { \\sim } 1 4$ ),within which is the kinase domain. A polymorphic locus in codon 150 Asn $$ Ser of the AKT2 gene was detected with the wild type A/A frequency of $98 \\%$ (98/100), and mutation type G/G frequency of $2 \\%$ (2/100). A polymorphic locus in intron 48877 was also detected with the wild type A/A frequency of $83 \\%$ (83/100), and homozygote type A/G frequency of $1 7 \\%$ (17/100). A point mutation $\\mathrm { \\bf G {  } } \\mathrm { \\bf C }$ in intron 43377 was detected in 1 gastric cell line and 3 primary tumor $3 \\%$ (3/100) (Table 3, Fig.2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Many cancers contain PIK3CA mutations and the majority of them are within exon 9, 18,and 2O .In our study, we focused to detect alteration in these same 3 exons. Three advanced GC tissue sample and 4 of 10 GC cell lines harbored the PIK3CA hot spot mutations. In addition, two point mutations were found in the AKT2 gene. The incidence of these PIK3CA and AKT2 mutations are at the low end of frequencies (2- $1 1 \\%$ ) that were reported in the literature. Since these mutations are located in the kinase domain, an important functional area, our data confirm that these mutations contribute to the pathogenesis of gastric cancers, In addition, the similar mechanisms for induction of gastric cancer may exist in Chinese as in other populations. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There are two significant features regarding the PI3K and AKT genes.First, mutations in PI3K/AKT can cause extensive cellular disturbances. For example, proteins that crosstalk with PI3K/AKT signaling pathway include K-RAS, EGFR, ERBB2,and BRAF which are frequently mutated in human cancers. Second, protein kinase mutations, either gain or loss of function mutations,are important not only in cancer development, but also in cancer therapies. An impressive example of recent cancer therapies is the used of kinase inhibitors such as imatinib (Gleevec) and ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "gefitinib (Iressa) to target mutated kinases that play a dominant role in cancer progression . Thus, our study adds knowledge to the field of gastric carcinogenesis and therapy. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table I ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Primer sequences and PCR conditions for the AKT2 and PIK3CA genes ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a09532360f543c0a3219c2d9171b815ec433a24d0cb798cfbed0b6ff0b7430f8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Gene</td><td>Exons</td><td>Primer</td><td>Squence(5'-→3')</td><td>Sipe</td><td>T</td></tr><tr><td>AKT2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Exon6</td><td>F</td><td>AGC CGT TTG GCA ACA GTG TCT</td><td>350</td><td>60.0</td></tr><tr><td></td><td></td><td>R</td><td> AAA TAA GCC CAC AGC AGC AGA</td><td></td><td></td></tr><tr><td></td><td>Exon7</td><td>F</td><td>GCC ACT GAT GAT CCT CGT CTG</td><td>324</td><td>58.5</td></tr><tr><td></td><td></td><td>R</td><td>GGG CTC TCT CTC TGA GCT CTG</td><td></td><td></td></tr><tr><td></td><td>Exon8</td><td>F</td><td>AGC AGA GCC CTC CTC CCT CC</td><td>216</td><td>61.0</td></tr><tr><td></td><td></td><td>R</td><td>CCT CCA CCC TTC CAT CTC AC</td><td></td><td></td></tr><tr><td></td><td>Exon9</td><td>F</td><td>GCC TTG ATT GGT CCC TCT AGC</td><td>340</td><td>61.5</td></tr><tr><td></td><td></td><td>R</td><td>CCA ACT TCC CCA GTG TGA GT</td><td></td><td></td></tr><tr><td></td><td>Exon10</td><td>F</td><td>GGC ATG GGA GGG TTG ATG TC</td><td>320</td><td>59.6</td></tr><tr><td></td><td></td><td>R</td><td>TGG GCTGGA AAC ACA CAG GT</td><td></td><td></td></tr><tr><td></td><td>Exon11</td><td>F</td><td>CAG CCC TCA TTT CTC CTC CA</td><td>355</td><td>61.2</td></tr><tr><td></td><td></td><td>R</td><td>CGA CAC ACT GCG ACC CTA CA</td><td></td><td></td></tr><tr><td></td><td>Exon12-13</td><td>F</td><td>CTG CTC CGA AAG CCC GTC T</td><td>388</td><td>61.0</td></tr><tr><td></td><td></td><td>R</td><td>CAG GCA CTC ACA GCG GTC AG</td><td></td><td></td></tr><tr><td></td><td>Exon14</td><td>F</td><td>GCC TTT CCT GTC CTG TCC TG</td><td>233</td><td>61.0</td></tr><tr><td></td><td></td><td>R</td><td>CGA GCG TGC GTC CTC TGC G</td><td></td><td></td></tr><tr><td>PIK3CA</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Exon9</td><td>F</td><td>TTG CTT TTT CTG TAA ATC ATC TGT G</td><td>321</td><td>59.0</td></tr><tr><td></td><td></td><td>R</td><td>CTG CTT TAT TTA TTC CAA TAG GTA TG</td><td></td><td></td></tr><tr><td></td><td>Exon18</td><td>F</td><td> TCC TTA TTC GTT GTC AGT GAT TG</td><td>348</td><td>54.0</td></tr><tr><td></td><td></td><td>R</td><td>CAG CTT TCA AAA ATA AGA AAT TAT G</td><td></td><td></td></tr><tr><td></td><td>Exon20</td><td>F</td><td>GGA ATG CCA GAA CTA CAA TC</td><td>252</td><td>62.0</td></tr><tr><td></td><td></td><td>R</td><td>TTT GCC TGC TGA GAG TTA TT</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table II ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mutations of PIK3CA in GC cell lines and gastric tumors ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4ca6c5e2549b6b81b53ebf65c464d923bbd121474ac01f64b5212002cf10978.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Exon</td><td>Nucleotide</td><td>Gene type</td><td>Amino acid</td><td>Cell lines</td><td>Primary tumor</td></tr><tr><td>9</td><td>A1634C</td><td>A/C</td><td>E545A</td><td>1/10(10%)</td><td>0/100(0%)</td></tr><tr><td>18</td><td>A2730G</td><td>A/G</td><td> synonymous</td><td>3/10(30%)</td><td>3/100(3.0%)</td></tr><tr><td>20</td><td>No</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table III ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Mutations and polymorphisms of AKT2 in GC cell lines and gastric tumors ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/31094200c37916ddc5e0ef0ad2a4d6c4d0b5c7ebc724b9d91524f9d4ac30c0c6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Exon/Intron</td><td>Nucleotide</td><td>Gene type</td><td>Amino acid</td><td>Cell lines</td><td>Primary tumors</td></tr><tr><td>Exon6</td><td>A652G</td><td>G/G</td><td>N150S</td><td>0/10(0%)</td><td>2/100(2%)</td></tr><tr><td>Intron5</td><td>G43377C</td><td>G/C</td><td></td><td>1/10(10%)</td><td>3/100(3%)</td></tr><tr><td>Intron9</td><td>A48877G</td><td>G/G</td><td></td><td>0/10(0%)</td><td>17/100(17%)</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/175a8c374e72198feac02dcc1df6d1e42ebfc33b0af54da8b8978ffa4a0c1de1.jpg",
+        "img_caption": [
+            "Figure 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ff19683e569ccbd7d6e3d1484a8eb049fdd2bc1125a0c1dbb427d87fcb09e58.jpg",
+        "img_caption": [
+            "Figure 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 1. Genotype, DHPLC graph and chromatogram of PIK3CA gene. (A) Mutation in PIK3CA 1634 in exon9, single peak pattern of homozygote 1634 A/A genotype, three peak pattern of homozygote 1634 A/C. (B) Mutation in PIK3CA 2730 in exon18, single peak pattern of homozygote 2730 A/A genotype, three peak pattern of homozygote $2 7 3 0 A / G$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/00569b31411a3d8e0c95f64ab4590624401c9df2bcea4a01c1be41daa6644e57.jpg",
+        "img_caption": [
+            "Figure 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/47361e49515241fbee3a4d92d9193d783099fa3c66ce451b0c5a80a0d7f78648.jpg",
+        "img_caption": [
+            "Figure 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8008c6bace49e01e222896e5ccaa09ea90408b90a9f67f143f41fd4a9737180.jpg",
+        "img_caption": [
+            "Figure 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure 2. Genotype, DHPLC graph and chromatogram of AKT2 gene. (A) Genotype of AKT2 1625 polymorphsim in exon6, single peak pattern of homozygote 652 A/A genotype, double peak pattern of homozygote 652 G/G. (B) Mutation in AKT2 43377 in intron6, single peak pattern of homozygote 43377 A/A genotype, double peak pattern of homozygote 43377 C/G. (C) Genotype of AKT2 48877 polymorphsim in intron6, double peak pattern of homozygote 48877 A/A genotype (first peak higher than second)， double peak pattern of homozygote 48877 G/G genotype(first peak lower than second). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by Grant from State Key Basic Research Program, No. 2004 CB518708 and National Bio-Tech 86-3, No. 2001AA233061 and No. 2002- BA711A11. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interest statement ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We declare that we do not have a direct financial relation with the commercial identity mentioned in our paper. And we have no financial and personal relationships with other people or organizations that can inappropriately influence our work; there is no professional or other personal interest of any kind in any software, product, service and/or company that could be construed as influencing the position presented in the manuscript. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "1. Parkin, D.M., Bray, F., Ferlay, J.,and Pisani, P. (2005). Global cancer statistics, 2002. CA Cancer JClin 55, 74-108.   \n2. Soung, Y.H., Lee, J.W., Nam, S.W., Lee, J.Y., Yoo, N.J., and Lee, S.H. (2006). Mutational analysis of AKT1, AKT2 and AKT3 genes in common human carcinomas. Oncology 70, 285-289.   \n3. Velho, S., Oliveira, C., Ferreira, A., Ferreira, A.C., Suriano, G., Schwartz, S., Jr., Duval, A., Carneiro, F., Machado, J.C., Hamelin, R., et al. (2005). The prevalence of PIK3CA mutations in gastric and colon cancer. Eur JCancer 41,   \n1649-1654.   \n4. Samuels, Y., Wang, Z., Bardelli, A., Silliman, N., Ptak, J., Szabo, S., Yan, H., Gazdar, A., Powell, S.M., Riggins, G.J., et al. (2004). High frequency of mutations of the PIK3CA gene in human cancers. Science 304, 554.   \n5. Nicholson, K.M., and Anderson, N.G. (2002). The protein kinase B/Akt signalling pathway in human malignancy. Cell Signal 14, 381-395.   \n6. Datta, S.R., Brunet, A., and Greenberg, M.E. (1999). Cellular survival: a play in three Akts. Genes Dev 13, 2905-2927.   \n7. Li, V.S., Wong, C.W., Chan, T.L., Chan, A.S., Zhao, W., Chu, K.M., So, S., Chen, X., Yuen, S.T., and Leung, S.Y. (2005). Mutations of PIK3CA in gastric adenocarcinoma. BMC Cancer 5,29.   \n8. Kozaki, K., Imoto, I., Pimkhaokham, A., Hasegawa, S., Tsuda, H., Omura, K., and Inazawa, J. (2oo6). PIK3CA mutation is an oncogenic aberration at advanced stages of oral squamous cell carcinoma. Cancer Sci 97, 1351-1358.   \n9. Gallia, G.L., Rand, V., Siu, I.M., Eberhart, C.G., James, C.D., Marie, S.K., Oba-Shinjo, S.M., Carlotti, C.G., Caballero, O.L., Simpson, A.J., et al. (2006). PIK3CA gene mutations in pediatric and adult glioblastoma multiforme. Mol Cancer Res 4, 709-714.   \n10. Mamane, Y., Petroulakis, E.,LeBacquer, O., and Sonenberg, N. (2006). mTOR, translation initiation and cancer. Oncogene 25, 6416-6422.   \n11. Gao,N., Flynn, D.C., Zhang, Z., Zhong, X.S., Walker, V.,Liu, K.J., Shi, X., and Jiang, B.H. (20o4). G1 cell cycle progression and the expression of G1 cyclins are regulated by PI3K/AKT/mTOR/p70S6K1 signaling in human ovarian cancer cells. Am JPhysiol Cell Physiol 287, C281-291.   \n12. Parsons, R. (2OO4). Human cancer, PTEN and the PI-3 kinase pathway. Semin Cell Dev Biol 15, 171-176.   \n13. Velasco, A., Bussaglia, E., Pallares, J., Dolcet, X., Llobet, D., Encinas, M., Llecha, N., Palacios, J., Prat, J.,and Matias-Guiu, X. (2006). PIK3CA gene mutations in endometrial carcinoma: correlation with PTEN and K-RAS alterations.Hum Pathol 37, 1465-1472.   \n14. Santarpia, L., El-Naggar, A.K., Cote, G.J., Myers, J.N., and Sherman, S.I. (2008). Phosphatidylinositol 3-kinase/akt and ras/raf-mitogen-activated protein kinase pathway mutations in anaplastic thyroid cancer. J Clin Endocrinol Metab 93, 278-284.   \n15. Degenhardt, Y.Y., Wooster, R., McCombie, R.W., Lucito, R., and Powers, S. (2008). High-content analysis of cancer genome DNA alterations. Curr Opin Genet Dev 18, 68-72.   \n16. Ocana, A., Serrano, R., Calero, R., and Pandiella, A. (2oo9). Novel tyrosine kinase inhibitors in the treatment of cancer. Curr Drug Targets 10, 575-576. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

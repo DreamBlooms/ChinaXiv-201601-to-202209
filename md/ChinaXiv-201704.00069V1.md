@@ -1,0 +1,154 @@
+# CTAB micelles assisted rGO-AgNP hybrids for SERS detection of polycyclic aromatic hydrocarbons
+
+Meng Jiang, Zhijiang Qian, Xufeng Zhou, Xing Xin, Jinghua Wu, Chao Chen, Gongjun Zhang, Gaojie Xu and Yuchuan Cheng\*
+
+Astructure of hexadecyl trimethyl ammonium bromide (CTAB)micelle-assisted reduced graphene Oxide-Ag nanoparticle (rGO-AgNP) hybrids is designed and fabricated for SERS detection of nonpolar polycyclic aromatic hydrocarbons (PAHs),in which CTAB micelles act as the host material to capture PAH molecules.This method provides stable aqueous suspensions of functionalized graphene with an alkyl chain,since the rGO-AgNP hybrids do not need to be pre-modified by CTAB.The result shows that the CTAB-assisted rGO-AgNP substrate has excellent SERS performance toward PAHs and ideal stability under continuous laser radiation.With further optimization,the detection limits of pyrene and perylene were $1 0 ^ { - 6 } ~ { \ m } ~ { \ m }$ and $1 0 ^ { - 7 }$ M,respectively. Two different PAH molecules could be detected simultaneously by their characteristic peaks.
+
+# Introduction
+
+Surface-enhanced Raman scattering (SERs) is a very powerful tool for chemical and biological analysis,and has aroused extensive research attention.1-4 When an analyte is absorbed on noble metallic nanostructures,SERS offers several orders of magnitude enhancement in Raman signal intensity of the analyte.The enhancement factoris cruciallydependent on the magnitude of the localized electromagnetic field originating from the excited localized surface plasmon within the metallic nanostructures,which can reach a high value of ${ 1 0 ^ { 6 } } – { 1 0 } ^ { 8 }$ 5,6This allows single-molecule detection using SERs.7-9 Considering the limited influence of water and the narrow bandwidth of the Raman peaks,the SERS technique is suited especially for the direct detection of multicomponent mixtures in water.10,11
+
+Graphene,a monolayer composed of $\mathsf { s p } ^ { 2 }$ -hybridizedcarbon atoms,1² is widely used in the energy,electronic and biology fields due to its unique physical and chemical properties.13-15 Owing to its two-dimensional (2D) planar structure, graphene has been utilized as a building block for preparing nanocomposites. Several investigations of organic-molecule-decorated graphene and inorganic-nanoparticle-decorated graphene composites were reported.16-20 Among them, graphene-metal hybrids used asa new type of SERS substrate have attracted increasing interest.21-23 Because of the large surface area and interaction with the target molecules,graphene sheets play a role in gathering the analyte molecules.Graphene sheetsact asa holderwhich makes metal nanoparticles (NPs) aggregate, thus generating more hot-spots.24 Therefore,graphene-metal hybrids exhibited a more sensitive response to organics such as folic acid,crystal violet,amaranth, and chrysoidin.25-28 Nonetheless, there are few reports on SERS detection of non-polar polycyclic aromatic hydrocarbons (PAHs) by graphene-metal nanoparticle hybrids.Although graphene enriches PAHs via $\pi { - } \pi$ interaction,the poor affinity between PAHs and metal NPs prevents them approaching,which results inlow SERS activity.Metal surface hydrophobization makes it possible to catch PAHs that are close to metal NPs.Du et al.29 and Jones et al.30 used thiol-modified $\mathrm { F e } _ { 3 } { \bf O } _ { 4 } @ \mathrm { A g N P s }$ and an Ag film as SERS substrates for PAH detection,respectively.However, when alkyl groups are grafted on the metal NPs,the resultant graphene-NP hybrids can no longer be re-dispersed in water or ethanol because they become more hydrophobic. On the contrary, the graphene-NP hybrids float on the surface of water or ethanol. Hence,the application of graphene-metal hybrids for the detection of PAHs is still a challenge.
+
+Here，we prepared graphene-AgNP (rGO-AgNP) hybrids through one-pot reduction of silver nitrate and graphene oxide (GO)by trisodium citrate.With the aid of hexadecyl trimethyl ammonium bromide (CTAB),the resultant rGO-AgNP hybrids wereused asactive SERS substrates for theultrasensitiveand label-free detection of PAHs in water.CTAB micelles anchored the PAH molecules on the rGO-AgNP sheets.On the basis of the strong SERS enhancement and enrichment toward PAHs,a low detection limit was achieved.The SERS signal possesses temporal stabilityunder continuous laser radiation as well asa good resolution.Scheme 1 illustrates the proposed fabrication of rGO-AgNP hybrids and the detection procedure.
+
+![](images/e7f6c99cdf35bc8feef283d07f0d830bb36707ee61cc2899a1c57a47d4df5ba5.jpg)  
+Scheme1 The protocol for the fabrication of rGO-AgNP hybrids and their application in SERS detection of PAHs.
+
+# Experimental
+
+# Materials
+
+Silver nitrate $\left( { \bf A g N O } _ { 3 } , \right.$ AR),trisodium citrate $\mathrm { \big ( N a _ { 3 } C _ { 6 } H _ { 5 } O _ { 7 } { \cdot } 2 H _ { 2 } O , }$ AR), CTAB $\mathbf { \tilde { C } _ { 1 9 } H _ { 4 2 } N B r }$ ,AR),and ethanol (AR) were purchased from Sinopharm Chemical Reagent Co.，Ltd. (Shanghai，China). Pyrene $\mathrm { ( C _ { 1 6 } H _ { 1 0 } ; }$ ,AR)and perylene $\left( \mathbf { C } _ { 2 0 } \mathbf { H } _ { 1 2 } , \mathbf { A R } \right)$ ,were purchased from Aladdin Reagent Co.,Ltd.(Shanghai,China). The GO sample was provided by the Liu Zhaoping group (Ningbo Institute of Material Technology and Engineering,CAS).All chemicals were used as-received without further purification. The water used throughout all experiments was deionized (DI) water from a Millipore-Q purification system (Millipore,USA) of resistivity $1 8 . 2 ~ \mathrm { M } \Omega$ cm.
+
+# Synthesis of rGO-AgNP hybrids
+
+The rGO-AgNP hybrids were prepared based on a modified one-pot method.31 In a typical experiment, $2 0 ~ \mathrm { m L }$ of ${ \bf A g N O } _ { 3 }$ solution $( 1 . 7 0 \mathrm { \ m g \ m L ^ { - 1 } } )$ ， $1 ~ \mathrm { m L }$ of graphene oxide aqueous suspension $( 1 \mathrm { m g } \mathrm { m L } ^ { - 1 } )$ and $6 0 ~ \mathrm { m L }$ of DI water were mixed and heated rapidly to $9 0 ~ ^ { \circ } \mathbf { C }$ in a water bath. Subsequently, $2 0 ~ \mathrm { m L }$ of trisodium citrate solution $\left( 1 0 \mathrm { \ m g \ m L ^ { - 1 } } \right) ,$ ）was added under vigorous stirring. The resulting mixture was held at $9 0 ~ ^ { \circ } \mathbf { C }$ for $2 4 \mathrm { h }$ .After several washing and centrifugation steps,the resulting rGO-AgNP hybrids were re-dispersed in water $\left( \mathrm { A g } , 1 . 0 8 \mathrm { \ m g } \mathrm { \ m L } ^ { - 1 } \right)$ ！
+
+# Samplepreparation forSERsdetection
+
+The aqueous solutions of PAHs were prepared in concentration ranges from $1 0 ^ { - 7 } \textbf { M }$ to $1 0 ^ { - 4 }$ M. $0 . 1 ~ \mathrm { \ m L }$ of CTAB aqueous solution $\left( 2 { \mathrm { ~ m g ~ m L } } ^ { - 1 } \right) ,$ ,which were mixed with $0 . 9 \ \mathrm { m L }$ of PAHs solution under vigorous stirring,followed by injection of $0 . 1 \mathrm { m L }$ of an rGO-AgNP hybrid suspension.After sonication for $3 0 \mathrm { m i n }$ $1 0 ~ \mu \mathrm { L }$ of the resulting mixture was dropped on a cleaned glass slide,dried at ambient temperature,and measured by Raman spectrometry.
+
+# Characterization
+
+X-Ray photoelectron spectroscopy (XPs) measurement was performed on an AXIs ULTRA DLD (Shimadzu, Japan) multifunctional X-rayphotoelectron spectroscope with Mg or Al Kα X-rayradiation as the X-ray source for excitation.Transmission electron microscope (TEM) measurements were performed on a Tecnai F2o TEM (FEI,USA) with an accelerating voltage of $2 0 0  { \mathrm { ~ \textrm ~ { ~ ~ } ~ } }  { \mathrm { k V } } .$ UV-visible absorption spectra were obtained on a Lambda 95o spectro photometer (Perkin Elmer,American).XRD data were measured onaD8 advance X-raydiffractometer (Bruker,Germany)with a Cu $\mathbf { K } \mathsf {  { \alpha } }$ X-ray radiation source.SERS spectra were collected with a Renishaw inVia model confocal microscopy Raman spectrometer (Renishaw,UK).A $5 3 2 ~ \mathrm { n m }$ laserwas used for SERS excitation. To obtain comparable spectra, the test conditions of laser power and exposure time were all the same.
+
+# Results and discussion
+
+# Characterization of the rGO-AgNP hybrids
+
+Fig.1 presents the XRD patterns of GO and rGO-AgNP hybrids. The sharp peak at $2 \theta = 1 1 . 2 ^ { \circ }$ on the curve of GO was assigned to the (001） reflection of GO.3² After reduction with trisodium citrate,four diffraction peaks corresponding to the (111),(200), (220)，and (311) crystalline planes of silver (JCPDS O4-0783) presented at $2 \theta \ : = \ : 3 8 . 2 ^ { \circ }$ ， $4 4 . 3 ^ { \circ }$ ， $6 4 . 5 ^ { \circ }$ ，and $7 7 . 3 ^ { \circ }$ ，respectively, which confirmed the existence of metallic Ag.In comparison with GO,the absence of the peak of GO(oo1) on the pattern of rGO-AgNP hybrids indicated that the regular stacks of GO were destroyed,which was caused by the insertion of AgNPs into layers of G sheets.33,34
+
+The UV-Vis spectra of GO and rGO-AgNP hybrid suspensions are shown in Fig.2.The formation of rGO-AgNP hybrids was further confirmed by UV-Vis measurement. The UV-Vis spectrum of the GO suspension exhibited a maximum absorption peak at $2 2 7 \mathrm { n m }$ ,which was attributed to $\pi { - } \pi ^ { * }$ transitions of aromatic $\scriptstyle { \mathrm { c = c } }$ bonds. This peak red shifted to $2 5 7 ~ \mathrm { n m }$ in the spectrum of rGO-AgNP hybrids, confirming the restoration of $\pi$ conjugation during the reduction procedure.A relatively narrow new peak appeared at $4 0 9 \mathrm { n m }$ ,which was due to the packed AgNPs on the surface of the G sheet. The above result indicated the formation of rGO-AgNP hybrids.
+
+To verify the transformation from GO to G，the corresponding XPS spectra of the GO sheets and the rGO-AgNP hybrids were carried out.As shown in Fig.3A, three component peaks corresponding to carbon atoms in different chemical environments were distinguished.These peaks at $2 8 4 . 6 \ \mathrm { ~ e V } _ { ; }$
+
+![](images/878d80c206a81339ae9e980669445b611d248f227ac9d5c32a4f93796e914766.jpg)  
+Fig.1XRD patterns of the GO (l) and rGO-AgNP (Il) hybrids
+
+![](images/165a6876a6dffc8ac96847a4f3dcb5eef0278f6f6bacd9d914b8d2c8eb213dff.jpg)  
+Fig.2UV-Vis absorption spectra of aqueous dispersions of the GO sheets and rGO-AgNP hybrids.
+
+![](images/0b96355e8c7c401be2ee003b3572d9c20d03d47dbd0728143eac2ed7387dbc2f.jpg)  
+Fig.3C1s XPS spectra of the GO (A) and G-AgNP hybrids (B).
+
+![](images/644539ab1a5d846710f579c85f9fbe2a4f57f47b0790fbcb233faea9786c3d14.jpg)  
+Fig.4TEM images of the rGO-AgNP hybrids at different magnifications.
+
+$2 8 6 . 8 \ \mathrm { e V }$ ，and $2 8 8 . 1 \ \mathrm { e V }$ originated from C-C, $\mathbf { C } { \mathrm { - } } \mathbf { O }$ ，and $\scriptstyle \mathbf { C } = \mathbf { O }$ bonds,respectively.35 Compared with GO,the peak intensities of $\mathbf { C } { \mathrm { - } } \mathbf { O }$ and $\scriptstyle \mathbf { C } = \mathbf { O }$ bonds decreased obviously relative to that of the $\mathbf { C } { \mathrm { - } } \mathbf { C }$ bond in the C1s XPS spectrum of rGO-AgNP,which indicated that most of the oxygen containing functional groups had been removed after reduction.
+
+The morphology of rGO-AgNP hybrids was investigated by TEM.Fig.4showstherepresentative TEMimages of thehybrid at different magnifications.It is seen clearly that the almost transparent graphene sheet was decorated with a large amount of silver nanoparticles.From the overlap of silver nanoparticles it was inferred that the nanoparticles were loaded onto both sides of the G sheet. The higher magnification image (Fig.4B) shows that the silver nanoparticles are almost all in a roughly spherical morphology with an average diameter of about $2 0 ~ \mathrm { { n m } }$ ：
+
+# EffectofCTAB
+
+To confirm the effect of CTAB,a contrast experiment was performed Fig.5 shows the SERS spectra of pyrene on the rGO-AgNP hybrids substrate with CTAB and without CTAB.When CTAB was applied, a series of primary vibration bands were observed in the SERS spectrum of pyrene on the rGO-AgNPhybrids,which was confirmed according to a reported work.36 The bands at $4 0 8 ~ \mathrm { c m } ^ { - 1 }$ and 591 $\mathrm { c m } ^ { - 1 }$ were assigned to the skeletal stretching vibration mode,and the band at $1 0 6 4 ~ \mathrm { c m } ^ { - 1 }$ was attributed to the $\mathbf { C } { \mathrm { - } } \mathbf { H }$ in-plane bending mode.The band at $1 2 3 9 ~ \mathrm { c m } ^ { - 1 }$ originated from the C-C stretching and $\mathbf { C } { \mathrm { - } } \mathbf { H }$ in-plane bending modes. The band at $1 4 0 5 ~ \mathrm { c m } ^ { - 1 }$ was assigned to the C-C stretching coupled with ring breathing modes.The bands at $1 5 9 3 \mathrm { c m } ^ { - 1 }$ and $1 6 2 7 \mathrm { c m } ^ { - 1 }$ were attributed to the C-C stretching mode.In the absence of CTAB,no characteristic band of pyrene on the rGO-AgNP hybrids was found.
+
+![](images/38d6dea75a5da91a79a594b8d2c3956097b02ed85e3360ef18ddb56b1b568e7d.jpg)  
+Fig.5Raman spectrum of solid pyrene (blue),solid CTAB (green) and SERS spectra of pyrene $( 1 0 ^ { - 4 } M )$ on the rGO-AgNP hybrids substrate with CTAB (red),and without CTAB (black).
+
+The above results indicate that CTAB plays a role in the detection of pyrene.CTAB is a kind of cationic surfactant with a long alkyl chain,which formsmicelles in the waterand solubilizes the hydrophobic molecules.The hydrophobic pyrene molecules are enclosed by the micelles consisting of CTAB.The micelles adsorb to the surface of the rGO-AgNP hybrid due to electrostatic adsorption. Thisstep is similar to the self-assembly ofa thiolate-aliphatic monolayer on noble metal nanoparticles.The difference is that several processes of surface modification, enrichment and bringing analyte molecules close to the plasmonic electric field were combined into one step in our work.This method makes it possible to obtain stable aqueous suspensions of functionalized graphene with alkyl chains.
+
+# Optimization of the SERS substrate
+
+The amount of CTAB was optimized to achieve a stronger Raman signal of the analyte molecule with fewer disturbing signals from CTAB.As shown in Fig.6,the Raman intensity of perylene increased with the increase of the concentration of CTAB （20 $\left( 0 . 0 0 2 \mathrm { - } 0 . 5 ~ \mathrm { \ m g ~ } \mathrm { \ m L } ^ { - 1 } \right)$ .When the concentration of CTAB was lower than $0 . 0 0 2 \ \mathrm { m g \ m L ^ { - 1 } }$ , no peak of pyrene was observed in the spectrum. If the concentration of CTAB was over $0 . 5 \mathrm { m g } \mathrm { m L } ^ { - 1 }$ the characteristic peaks of CTAB became stronger and interfered with the signal of the target molecules.Based on an overall consideration of these factors,the optimal concentration of CTAB was $0 . 2 ~ \mathrm { m g } ~ \mathrm { m L } ^ { - 1 }$ ：
+
+![](images/61881b275ba5253d25f26413e97c629066e839f86c3c8114ab2c5372591d2150.jpg)  
+Fig.6SERS spectra of pyrene $( 1 0 ^ { - 4 } \ M )$ obtained on rGO-AgNP hybrids with different contents of CTAB.
+
+![](images/4c7e479c4beff9006d55bf482b1ae1cb3fe0e4372adff166bcd23c08cbfaff82.jpg)  
+Fig.7Raman spectrum of pyrene and the SERS spectra of different concentrations of pyrene on the rGO-AgNP hybrid substrate (A),Raman spectrum of perylene and SERS spectra of different concentrations of perylene on the rGO-AgNP hybrid substrate (B).
+
+# SERSdetectionofPAHs
+
+The SERS spectra of pyrene with different concentrations are shown in Fig.7A.As observed, the intensity of bands decreased as the concentration of pyrene decreased.When the concentration of pyrene was below $1 0 ^ { - 6 } \textbf { M }$ ，its characteristic bands were hardly recognized.
+
+Asshown in Fig.7B,the SERS spectra of perylene exhibited five major peaks at $5 4 8 ~ \mathrm { c m } ^ { - 1 }$ (C-C-C bending), $9 7 8 ~ \mathrm { c m } ^ { - 1 }$ (C-C stretching), $1 2 9 8 \mathrm { c m } ^ { - 1 }$ (C-C stretching), $1 3 7 4 \mathrm { c m } ^ { - 1 }$ (C-C stretching), $1 5 6 7 ~ \mathrm { c m } ^ { - 1 }$ (C-C stretching)，respectively.7 Raman spectra of the solid perylene are also presented for comparison.The detection limit of perylene was $1 0 ^ { - 7 } { \bf M } .$ Generally speaking, our strategy was more sensitive in detecting perylene than pyrene.
+
+The identification of a complex system that contains both perylene and pyrene wasalso performed.Fig.8 shows the SERS spectra obtained from a mixture of $1 0 ^ { - 5 } \mathrm { ~ M ~ }$ pyrene and $1 0 ^ { - 5 } { \bf \delta M }$ perylene (black), $1 0 ^ { - 6 } \textbf { M }$ pyrene and ${ { 1 0 } ^ { - 6 } }$ M perylene (red),
+
+![](images/d46e97f8f1056b7e25391e57eff19603bf00b1bfbd4d9457eab83d5312929282.jpg)  
+Fig.8SERS spectra obtained from the mixture of $1 0 ^ { - 5 } ~  \ m$ pyrene and $1 0 ^ { - 5 } ~  \ m$ perylene (black), $1 0 ^ { - 6 } ~ M$ pyrene and $1 0 ^ { - 6 } ~ { \cal M }$ perylene (red), $4 \times 1 0 ^ { - 7 } M$ pyrene and $4 \times 1 0 ^ { - 7 } \mathsf { M }$ perylene (blue) on rGO-AgNP hybrids substrate.The peaks marked with a "star"are assigned to PYR and the peaks marked witha "rhombus"are assigned to PER.
+
+$4 \times 1 0 ^ { - 7 } \mathrm { M }$ pyrene and $4 \times 1 0 ^ { - 7 } \mathrm { M }$ perylene (blue) on the rGOAgNP hybrid substrate.The peaks marked with a“star”are assigned to PYR and the peaks marked witha“rhombus"are assigned to PER.The main peaks of individual PAHs were clearly observed and distinguished.The signal of perylene was much stronger than that of pyrene at the same concentration,because the method was more sensitive with perylene. The strong peaks of perylene won't overlap the weak peaks of pyrene and their detection limit was almost the same as the single component detection result,indicating that competitive adsorption between PAHs could be ignored in our work.
+
+# StabilityofSERSspectra
+
+Stable signalsare significant to obtainaccurateanalytical results.In orderto inspect the temporal stability of the substrate,the SERS spectra of perylene on rGO-AgNP were collected under continuous laser irradiation in air for $^ \textrm { \scriptsize 1 h }$ 、The spectra were recorded every $4 ~ \mathrm { m i n }$ at the same point of the rGO-AgNP hybrids.As shown in Fig.9, there is no obvious change in intensity and overall shape of the Raman bands during the laser irradiation.The relative standard deviation of the intensity of the band at $1 5 6 7 ~ \mathrm { c m } ^ { - 1 }$ is $7 . 0 \%$ ,which shows that the substrate possessed good stability under long time laser exposure.
+
+![](images/7cf080b228c22762d103558ce138f85ea224e6039eb2f0e7f427a90b48d66f95.jpg)  
+Fig.9The stability of the rGO-AgNP hybrid substrate probed with perylene $( 1 0 ^ { - 6 } \ M )$ under continuous laser irradiation.
+
+# Conclusions
+
+This work provides a method to detect PAHs with CTAB-assisted rGO-AgNPhybrids asa SERS substrate.CTAB micellesacted as the host material to capture PAHs molecules by means of hydrophobic interaction,and were adsorbed to the surface of rGO-AgNP hybrids, which increased theaffinitybetweenPAHsmoleculesand the SERS substrate.After the optimization of the components of the substrate,the detection limits of pyrene and perylene were $1 0 ^ { - 6 } \mathbf { M }$ and $1 0 ^ { - 7 } \mathrm { ~ M ~ }$ ，respectively.The stability test result shows little signal reduction under long time laser exposure,which indicated the good stability of our substrate.
+
+# Conflicts of interest
+
+The authors declare no competing financial interest.
+
+# Acknowledgements
+
+This research is funded by the National Natural Science Foundation of China (Grant 21003145，11374311)，the Zhejiang Provincial National Science Foundation (LY14B070012)， the Ningbo Natural Science Foundation (2013A610136),Ningbo Municipality (2009B21oo5） and the Ningbo Natural Science Foundation (2013A610136,2012610121).
+
+# Notes and references
+
+1 A.Barhoumi and N.J.Halas,J.Am. Chem. Soc.,2010,132, 12792-12793.   
+2 X. Qian, X.-H. Peng, D. O. Ansari, Q. Yin-Goen, G. Z. Chen, D.M.Shin,L. Yang,A.N.Young,M.D.Wang and S. Nie, Nat.Biotechnol.,2007,26,83-90.   
+3F.Casadio,M.Leona,J.R.Lombardi andR.Van Duyne,Acc. Chem. Res.,2010,43,782-791.   
+4 J. F.Li, Y. F. Huang, Y. Ding, Z. L. Yang, S. B.Li, X. S. Zhou, F. R. Fan,W. Zhang, Z. Y. Zhou, Y. WuDe, B. Ren, Z. L. Wang and Z.Q.Tian,Nature,2010,464,392-395.   
+5K.Katrin，K.Harald,I.Irving，R.D.Ramachandra and S.F.Michael,J.Phys.:Condens.Matter,2002,14,R597.   
+6C.L.Haynes,A.D.McFarland and R.P.V.Duyne,Anal. Chem.,2005,77,338A-346A.   
+7S.Nie and S.R.Emory,Science,1997,275,1102-1106.   
+8J.Qi,P.Motwani,M.Gheewala,C.Brennan,J.C.Wolfe and W.-C.Shih,Nanoscale,2013,5,4105-4109.   
+9 F．Zhao，J.Zeng，M.M.Parvez Arnob，P.Sun，J.Qi, P.Motwani, M. Gheewala,C.-H. Li,A. Paterson,U. Strych, B.Raja,R.C.Willson,J.C.Wolfe,T.R.Lee and W.-C.Shih, Nanoscale,2014,6,8199-8207.   
+10 S.He,K.-K. Liu, S. Su, J. Yan, X. Mao,D. Wang, Y.He,L.-J. Li,S.Song and C.Fan,Anal. Chem.,2012,84,4622-4627.   
+11H. Yuan,Y.Liu,A.M.Fales,Y.L.Li,J.Liu and T.Vo-Dinh, Anal.Chem.,2013,85,208-212.   
+12 K.S. Novoselov，A.K.Geim，S.V.Morozov，D. Jiang, Y. Zhang, S.V.Dubonos,I.V.Grigorieva and A.A. Firsov, Science,2004,306,666-669.   
+13A.B.Bourlinos,D.Gournis,D.Petridis,T.Szabó,A.Szeri andI.Dékany,Langmuir,2003,19,6050-6055.   
+14Y.Zhang,Y.-W.Tan,H.L. Stormer andP.Kim,Nature,2005,   
+438,201-204.   
+15 A.K.Geim, Science,2009,324,1530-1534.   
+16 Y. Xu,L. Zhao,H. Bai, W.Hong, C.Li and G. Shi,J. Am. Chem. S0c.,2009,131,13490-13497.   
+17 H.Yang,Q. Zhang,C. Shan,F.Li,D. Han and L. Niu, Langmuir,2010,26,6708-6712.   
+18 N.I. Kovtyukhova，Y. Wang，R.Lv，M. Terrones，V.H. Crespi and T.E.Mallouk,J.Am.Chem.Soc.，2013，135,   
+8372-8381.   
+19 A. Cao, Z. Liu, S. Chu, M. Wu, Z. Ye, Z. Cai, Y. Chang, S. Wang,Q. Gong and Y. Liu,Adv. Mater.,2010,22,103-106.   
+20 J.Heinl,M. Schneider and P.W.Brouwer,Phys.Rev.B: Condens.MatterMater.Phys.,2013,87,245426.   
+21 S.Sun,Z. Zhang and P.Wu,ACS Appl. Mater. Interfaces,   
+2013,5,5085-5090.   
+22S.Heeg,R.Fernandez-Garcia,A.Oikonomou,F.Schedin, R.Narula,S.A.Maier,A.VijayaraghavanandS.Reich,Nano Lett.,2013,13,301-308.   
+23 Z. Liu,C.Hu, S.Li,W. Zhang and Z.Guo,Anal. Chem.,2012, 84,10338-10344.   
+24 Z.Qian, Y. Cheng,X. Zhou,J. Wu and G. Xu,J. Colloid Interface Sci.,2013,397,103-107.   
+25W.Ren,Y.Fang andE.Wang,ACS Nano,2011,5,6425-6433.   
+26 T.Xue,X. Cui,J. Chen,C.Liu,Q. Wang，H.Wang and W. Zheng,ACS Appl. Mater.Interfaces,2013,5,2096-2103.   
+27 X.Liu,L. Cao,W. Song,K.Ai and L. Lu,ACS Appl. Mater. Interfaces,2011,3,2944-2952.   
+28 Y. Xie, Y.Li,L. Niu,H. Wang,H. Qian and W. Yao, Talanta, 2012,100,32-37.   
+29J.Du and C. Jing,J. Phys. Chem. C,2011,115,17829-17835.   
+30 C. Jones,K. Bantz and C.Haynes,Anal. Bioanal. Chem., 2009,394,303-311.   
+31 S.Sun and P.Wu，Phys. Chem. Chem. Phys.，2011，13, 21116-21120.   
+32 C. Xu and X. Wang, Small, 2009,5,2212-2217.   
+33 D.Cai and M. Song,J. Mater. Chem.,2007,17,3678-3680.   
+34C.Xu,X.Wu,J. Zhu and X.Wang,Carbon,2008,46,386-389.   
+35S.Stankovich，D.A.Dikin，R.D.Piner，K.A.Kohlhaas, A.Kleinhammes,Y. Jia, Y.Wu, S.T.Nguyen and R. S. Ruoff, Carbon,2007,45,1558-1565.   
+36I.López-Tocon, J.C. Otero,J.F.Arenas,J.V.Garcia-Ramos and S.Sanchez-Cortes,Anal. Chem.,2011,83,2518-2525.   
+37 H.Shinohara,Y.Yamakita and K.Ohno,J. Mol. Struct., 1998,442,221-234.

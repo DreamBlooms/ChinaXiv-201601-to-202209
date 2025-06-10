@@ -1,0 +1,120 @@
+# 基础研究
+
+# 槲皮素对内毒素性心肌损伤的保护作用及机制
+
+李 坚',张 剑²,董欣敏³,邓华菲',阳 帆1  
+1湘南学院基础医学部,湖南 郴州423000；内蒙古医科大学附属医院，内蒙古 呼和浩特 0100;内蒙古医科  
+大学附属人民医院，内蒙 古呼和浩特010000
+
+摘要：目的 观察槲皮素对内毒素心肌损伤心肌的保护作用。方法C57BL/6J小鼠随机分为阴性对照组、槲皮素对照组、内毒素血症组以及槲皮素干预组。阴性对照组给予等体积生理盐水腹腔注射,槲皮素干预组大鼠食用含按槲皮素的鼠饲料（ $\mathrm { 1 0 0 ~ m g / k g }$ )。内毒素组小鼠腹腔注射LPS( $1 0 \mathrm { m g / k g } )$ 诱导内毒素血症模型。槲皮素干预组大鼠先食用含槲皮素( $1 0 0 \mathrm { m g / k g } ,$ 0的饲料7d后，腹腔注射LPS( $1 0 \mathrm { m g / k g }$ )。6h后超声心动仪测定小鼠心功能;Westernblot法检测小鼠心肌组织Bax、Bcl-2、NOS和eNOS表达水平,以及血清中NO含量。同时，记录小鼠5d生存率,并描绘生存曲线。结果 槲皮素预处理后，与内毒素组相比,小鼠心肌功能显著得到了改善;内毒素组小鼠心肌组织中iNOS蛋白水平增高,eNOS水平降低。而经槲皮素干预后,iNOS蛋白表达量明显降低,eNOS表达水平增高;LPS处理后,Bax显著增高,Bcl-2轻微降低。槲皮素干预后,Bax降至对照组水平，Bax/Bcl-2比值降低;内毒素组小鼠血清NO水平增高近3.5倍。槲皮素处理后,NO含量明显降低 $( P { < } 0 . 0 5 )$ ;内毒素组5d后小鼠生存率为 $10 \%$ ,而槲皮素干预组生存率达 $4 5 \% ( P { < } 0 . 0 5 )$ 。结论 槲皮素可减轻LPS 所致的小鼠心功能不全，改善生存率。关键词：槲皮素；内毒素；心肌损伤
+
+# Quercetin protects against lipopolysaccharide-induced cardiac injury in mice
+
+LI Jian,ZHANGJian,NGXinmin,DENGHuafeil,YANGan Deprtmentsicccoceoedl MedicalUsityti;le'ssalftedtgicalityt
+
+Abstract: ObjectiveToevaluate theprotective efectofquercetin against lipopolysaccharide (LPS)-induced cardiacinjuryin mice.Methods C57BL/6Jmice wererandomizedinto4groups toreceiveintraperitoneal injectionofsaline (negative control)or LPS $( 2 0 ~ \mathrm { m g / k g } )$ , or fed with quercetin $( 1 0 0 ~ \mathrm { m g / k g }$ for 7 days) with or without subsequent LPS injection (quercetin $+ \mathrm { L P S }$ group and quercetincontrol group,respectively).Six hour after LPS injection, the mice were tested for cardiac function withan echocardiograph,andtheproteinexpressionsofBax,Bcl-2,iNOS,andeNOSinthemyocardium were evaluated ithWeste bloting; serum NOconcentration was also measured.The survivalofthe mice within 5days afterLPSinjection wasecorded todraw the survival curve. Results Quercetin pretreatment significantly improved the cardiac functionof LPS-challnged mice $( P { < } 0 . 0 5 ) .$ ，and attenuated LPS-induced increment in myocardial iNOS expression and decrement in eNOS level. LPS significantlyincreased the myocardial Bax expressionand slightlydecreasedBcl-2 expression；quercetin pretreatment decreased Baxexpressiontothecontrollevelandsignificantlylowered Bax/Bcl-2ratioascompared withtheLPS group.Serum NOlevel wassignificantlyincreasedbynearly2.5folds inLPS-challnged mice,butwas markedlydecreased withquercetin pretreatment $( P { < } 0 . 0 5 )$ . The 5-day survival rate of LPS-treated mice was $1 0 \%$ ，which was increased to $4 5 \%$ in quercetinpretreated mice $( P { < } 0 . 0 5 )$ . Conclusion Quercetin can alleviate LPS-induced cardiac dysfunctions in mice to increase their survival rate following LPS challenge.
+
+Key words: quercetin; endotoxin; cardiac injury
+
+内毒素血症及其所导致的感染性休克是临床上最常见的危重病,心脏是最常受累器官之一[。一氧化氮(NO)广泛参与了感染性休克等过程，如细胞间的信号传递，包括血管舒缩、炎症反应以及神经传递等生理过程。其在心血管系统疾病中的作用日益受到重视[2-3]。在某些病理条件下，NO能够与各种超氧阴离子反应生成活性氮类(如ONOO-)。感染性休克条件下，活性氮的大量产生可导致硝化应激的发生，后者可引起DNA的不可逆性损伤，以及低密度脂蛋白氧化和酪氨酸硝基化等改变[4]。ONOO-也可导致线粒体内ATP的生成减少及通透性增加，从而降低其膜电位，导致细胞凋亡级联损伤5。硝化应激可贯穿感染性休克的整过阶段，尤其是在休克发生的早期。因此,通过药物干预活性氮的产生，降低其介导的硝化应激的反应程度，可能降低内毒素血症所致的感染性休克心肌损伤的严重程度。槲皮素是一种广泛存在于自然界的黄酮化合物，具有良好的抗炎、抗氧化、抗粘附的作用[。研究显示槲皮素可明显提高内毒素所致的病理损伤[7-8],然而其是否对内毒素感染休克引起的心肌损伤有保护作用尚未见报道。本研究拟通过腹腔注射LPS诱导内毒素心肌损伤模型，观察槲皮素处理后，能否改善小鼠的心功能和生存率。并进一步观察小鼠心肌组织硝化应激水平，从而为槲皮素在内毒素血症所致心肌损伤的治疗提供实验依据。
+
+# 1材料与方法
+
+# 1.1主要实验试剂与仪器
+
+槲皮素购自Sigma公司(Q4951),8\~10周龄的SPF级雄性C57BL/6J小鼠购自湘南学院实验动物中心。Trizol试剂为大连宝生物生工生物公司产品。NO检测试剂盒购自南京建成生物工程研究所。抗诱导型NO合成酶(inducible nitric oxide synthase,iNOS）、内皮型NO合成酶(endothelial nitric oxide synthase,eNOS）抗体、抗硝基酪氨酸多克隆抗体为Santa Cruz产品。抗B淋巴细胞瘤-2基因(B-cell lymphoma-2,Bcl-2)、Bcl-2相关X蛋白(Bcl-2AssociatedXProtein,Bax)抗体购自CellSignaling。蛋白酶抑制剂购自Roche。辣根过氧化物酶标记羊抗兔多克隆抗体购自北京中杉金桥生物技术有限公司。主要实验仪器：酶标仪(iMark,BIO-RAD）,离心机(5418,Eppendorf）,半干转印仪(Trans-Blot,Bio-Rad),垂直电泳仪(Mini-PROTEAN,Bio-Rad)
+
+# 1.2小鼠内毒素模型的建立与实验分组
+
+上述8\~10周龄C57BL/6J小鼠，分成阴性对照组、单纯槲皮素对照组、内素素血症组以及槲皮素干预组(每组15\~25只)。阴性对照组给予等体积生理盐水腹腔注射，单纯槲皮素对照组大鼠按体质量食用含按槲皮素的鼠饲料( $1 0 0 ~ \mathrm { { m g / k g } }$ )7d,期间自由饮食、饮水。内毒素组小鼠腹腔注射LPS( $\mathrm { 1 0 ~ m g / k g } \mathrm { \dot { \Omega } }$ 诱导内毒素血症。槲皮素干预组将槲皮素均匀混合于鼠饲料中(含量$1 0 0 \mathrm { m g / k g } ,$ ,给药7d后，腹腔注射LPS( $1 0 \mathrm { m g / k g ) }$ 0
+
+# 1.3小鼠心功能测定
+
+利用超声心动图评价LPS和(或)处理后的心功能。计算公式：射血分数 $\mathrm { E F \% }$ )=[舒张末期左室容积(EDV)/舒张末期左室容积(ESV)-1] $| \times 1 0 0 \%$ $\mathrm { F S \% }$ =[1-收缩末期左室内径(LVDs)舒张末期左室内径(LVDd) $] \times 1 0 0 \%$ 。
+
+# 1.4蛋白表达测定(Western blot)
+
+将小鼠心肌组织用刀片切碎，加入含ProteinaseCocktail的组织裂解液充分裂解， $. 4 \mathrm { ~ \textcircled { C } } 1 2 0 0 0 \mathrm { ~ r p m }$ 离心$1 0 ~ \mathrm { m i n }$ ,上清即为细胞总蛋白。获取 $1 0 0 ~ \mu \mathrm { g }$ 蛋白用于SDS-PAGE。分离的总蛋白或核蛋白随后转印至PVDF膜上(Millipore),并利用含 $5 \%$ 脱脂牛奶的TBST封闭1h，随后加入一抗抗体 $4 \mathrm { { ^ { \circ } C } }$ 孵育过夜。多次洗涤之后，加入HRP标记的二抗孵育膜 $\boldsymbol { 1 } \mathbf { h } _ { \mathrm { o } }$ ECL发光、显影。
+
+# $1 . 5 ~ \mathrm { N O }$ 测定
+
+NO测量根据GriessReagent原理进行。按照试剂盒提供的方案分别设立空白管、标准管和测定管，分别加入 $0 . 1 \ \mathrm { m L \ d d H _ { 2 } O , 1 0 0 \ \mu m o l / L }$ 标准应用液以及待测样本。随后3管均加入 $0 . 2 ~ \mathrm { m L }$ 试剂1和试剂2(试剂盒提供)。混匀， $3 7 ^ { \circ } \mathrm { C }$ 准确水浴 $6 0 ~ \mathrm { { m i n } }$ 后，加入试剂3、试剂4。混匀 $3 0 ~ \mathrm { s }$ ，室温静置 $1 0 \operatorname* { m i n } , 3 5 0 0 { \sim } 4 0 0 0 \ \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ,取上清 $0 . 5 ~ \mathrm { m L }$ ，加入 $0 . 6 ~ \mathrm { m L }$ 显色剂，室温静置 $1 0 \mathrm { m i n } , 5 5 0 \mathrm { n m }$ 波长测定吸光度。
+
+# 1.6统计学分析
+
+获得数据均以均数±标准差表示，应用SPSS10.0软件，均数间比较采用单因素方差分析(one wayANOVA),两组间生存率比较采用log-rank检验。 $P <$ 0.05表示差异具有统计学意义。
+
+# 2结果
+
+2.1槲皮素对内毒素血症小鼠心功能的影响
+
+与生理盐水以及槲皮素对照组相比，LPS注射后，小鼠的 $\mathrm { E F \% }$ ） $F S \%$ 、SV和CO有显著变化;槲皮素预处理后与LPS组小鼠相比 $\mathrm { E F } \% \mathrm { , F S \% , S V }$ 和CO分别提高降低或增高至（ $4 1 . 0 8 { \pm } 6 . 3 4 ) \%$ （ $2 0 . 5 5 { \scriptstyle \pm 3 . 7 8 ) \% }$ 、（ $1 9 . 5 7 \pm$ $2 . 7 4 )  { \mu \mathrm { L } }$ 和 $( 8 . 3 4 { \pm } 2 . 2 4 ) \mathrm { m L / m i n } ( P { < } 0 . 0 5$ ，表1)。
+
+# 2.2 槲皮素对内毒素血症小鼠生存率的影响
+
+LPS建模5d后，20只小鼠仅存活2只，生存率为$10 \%$ ,而槲皮素干预组20只小鼠5d后存活9只，生存率达 $45 \%$ 。两组的生存率比较，差异具有统计学意义( $P <$ 0.05,图1)。
+
+# 2.3槲皮素干预对内毒素血症小鼠心肌细胞凋亡相关蛋白表达的影响
+
+建模6h后，心肌细胞凋亡相关蛋白Bax和Bcl-2的表达见图2所示。生理盐水和单纯槲皮素处理组Bax和Bcl-2呈一定水平表达。LPS处理后，Bax显著增高，Bcl-2轻微降低。槲皮素干预后，Bax降至对照组水平,Bax/Bcl-2比值与LPS组相比,差异具有统计学意义$( P { < } 0 . 0 5 )$ 。
+
+# 2.4槲皮素对NO合成酶表达的影响
+
+单纯给予生理盐水或槲皮素处理的对照组小鼠诱导型NO合成酶(iNOS)蛋白表达水平极低。LPS处理后，心肌组织中iNOS蛋白水平显著增高。而经槲皮素干预后，iNOS蛋白表达量明显降低。相比之下，内皮型NO合成酶(eNOS)在对照组呈一定程度表达，而LPS处理后表达量降低。槲皮素处理后，eNOS蛋白表达水平增高。此外，iNOS和eNOS的mRNA表达情况也与蛋白表达类似(图3B)。
+
+表1槲皮素对内毒素血症小鼠心功能的影响Tab.1 Effect of quercetin on cardiac function in LPS-challenged mice $( n { = } 8 )$ （20  
+
+<html><body><table><tr><td></td><td>Control group</td><td>Quercetin group</td><td>LPS group</td><td>LPS+ Quercetin</td></tr><tr><td>LVDs (mm)</td><td>2.41±0.17</td><td>2.36±0.28</td><td>3.17±0.19*</td><td>2.88±0.36</td></tr><tr><td>LVDd (mm)</td><td>3.64±0.13</td><td>3.72±0.20</td><td>3.29±0.31</td><td>3.64±0.24</td></tr><tr><td>EF%</td><td>62.81±4.72</td><td>61.12±5.28</td><td>25.18±5.67*</td><td>41.08±6.34#</td></tr><tr><td>FS%</td><td>33.21±3.08</td><td>33.91±5.27</td><td>10.81±3.64*</td><td>20.55±3.78#</td></tr><tr><td>SV (uL)</td><td>31.88±5.69</td><td>33.37±4.43</td><td>11.81±3.07**</td><td>19.57±2.74#</td></tr><tr><td>CO (mL/min)</td><td>16.75±2.27</td><td>17.46±2.78</td><td>5.15±1.88*</td><td>8.34±2.24*</td></tr><tr><td>HR (min)</td><td>445.61±40.15</td><td>468.24±38.75</td><td>345.18±29.52*</td><td>371.08±46.91#</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ $^ { * * } P { < } 0 . 0 1$ us control group; $^ { \# } P { < } 0 . 0 5$ vs LPS group.
+
+![](images/c334e7e3b50b840c901cedb2a05a0e2b703ffeba0c46bc9c6b987040080a81c6.jpg)  
+图1槲皮素干预对内毒素血症小鼠生存率的影响 Fig.1 Effect of quercetin on the survival of LPS-challenged mice.
+
+![](images/a48c44d8e3e080ba0b04cfd867c501ff75b28307288d868ac44b0f8063b01e91.jpg)  
+图2槲皮素对内毒素血症小鼠心肌细胞凋亡相关蛋白 表达的影响 Fig.2 Effect of quercetin on expression of apoptosisassociated protein in LPS-challenged mice.
+
+# 2.5槲皮素对NO生成的影响
+
+与对照组相比，LPS组血清NO的含量增高近3.5倍。槲皮素处理后，NO含量显著降低(图4)。
+
+# 3讨论
+
+![](images/a33d5b072190589f0cbe0ada521784fb3d464fc47247f4ce59063b88ff1b1d07.jpg)  
+图3槲皮素干预对内毒素血症小鼠NOS表达的影响 Fig.3Effect of quercetin on NOS expression in LPSchallenged mice.
+
+临床和动物实验证实，槲皮素对多种因素导致的组织病理损伤具有保护作用,包括改善心衰状况,改善脂质和糖代谢，同时也具有抗高血压和抗心率失常等效果。既然如此，那么槲皮素对内毒素性休克是否也具有保护作用？在本研究当中，我们从3个方面证实了这一假说。首先，采用内毒素腹腔注射复制了内毒素休克小鼠模型，通过给予槲皮素干预，探讨了槲皮素对心脏功能的影响。本研究采用的是超声心动图检测心脏功能。结果显示，LPS处理后，小鼠主要表现为左室收缩功能下降，与临床感染性休克患者表现一致。槲皮素处理后，小鼠心功能得到了一定的改善。通过持续观察小鼠的存活率，结果显示内毒素组小鼠最终仅存活2只，而槲皮素干预后存活率达 $45 \%$ 。这表明槲皮素通过改善心脏功能，从而改善了小鼠的生存率
+
+![](images/58eccc0a771ce4b0e3e6852356585ecfe21abfcf7c7b6000b5f7b2d2c2adde12.jpg)  
+图4槲皮素对LPS处理小鼠NO产生的影响Fig.4Effect of quercetin on NO production inLPS-challenged mice. $^ { * } P { < } 0 . 0 5$ Us control and quercetingroups; $^ { \sharp } P { < } 0 . 0 5$ Us LPS group.
+
+其次，我们对心肌组织中NOS的表达状况以及NO的水平也进行了观察。NO合成的底物是L-精氨酸，在NO合成酶(NOS)的作用下,生成NO和胍氨酸。内毒素血症所产生的NO可激活平滑肌细胞内的可溶性鸟苷酸,诱导细胞内产生大量cGMP[。cGMP对血管平滑肌细胞具有舒张作用,并能增加血管、细胞通透性，同时也影响血管对其他活性物质的敏感性，进一步降低血压,加重休克的发生[10]。抑制iNOS的表达或活性可提高休克生存率[11],且iNOS基因敲除小鼠内毒素处理后,可明显抑制低血压的发生[12]。除此之外,NO也能导致硝化应激的发生。主要表现为生物大分子如DNA、蛋白的硝化损伤，以及脂质过氧化、线粒体功能改变和细胞凋亡[13]。在感染性休克死亡的患者当中,心肌、冠状动脉内皮细胞等部位均存在大量硝基酪氨酸[14]。动物实验也证实，内毒素休克动物中也有明显硝化应激的发生[15]。本研究结果显示，LPS作用以后,心肌组织中eNOS表达明显降低，而iNOS表达明显升高。同时，NO产生也显著高于对照组,同时伴有硝基化蛋白的异常增加。给予槲皮素干预后，iNOSmRNA和蛋白水平明显低于内毒素组,同时,eNOS表达水平有所增高，eNOS/iNOS比值增高,最终减少了NO的生成和心脏硝化应激的程度。国内学者张弛等采用盲肠结扎穿刺法制备脓毒症大鼠模型，通过槲皮素干预后，结果也显示槲皮素能有效降低心肌组织iNOS的表达及NO浓度，最终减轻脓毒症心肌损伤[6。以上结果表明槲皮素可能对于各种不同原因引起的感染性休克均具有一定的改善作用，其机制可能与抑制NO的生成和硝化反应的发生有关。
+
+Bcl-2是凋亡发生过程中线粒体途径中的关键调节因素。Bcl-2蛋白稳定线粒体膜上通透性转换孔，从而抑制凋亡的发生。而Bax蛋白在凋亡因素诱导下发生构象改变，并从细胞质转移到线粒体膜上，与Bcl-2形成异二聚体而促进通透性转换孔的开启而启动凋亡发生[17-18]。本研究结果显示,内毒素组中Bax蛋白表达量明显高于对照组，同时Bcl-2水平也有所降低。槲皮素干预后，Bax表达降低，Bcl-2增高，Bax/Bcl-2比值降低。这表明槲皮素可能通过影响心肌细胞凋亡，最终改善内毒素血症大鼠的生存率。
+
+总之，本研究证实槲皮素可抑制内毒素诱导的iNOS表达，从而减少NO的合成，由此可能减弱了硝化应激反应所致的心肌细胞损伤，最终改善大鼠的生存率。另一方面，槲皮素也可改善促凋亡分子Bax和凋亡抑制分子Bcl-2的比例，从而抑制心肌细胞凋亡的发生，从而减轻了内源性活性氮介导的心功能不全。槲皮素是一种黄酮类化合物，经消化道给药后，部分是以原形吸收，而另一部分是经过胃肠道微生物菌群或酶转化为异鼠李素或怪柳素等其他黄酮类物质后进入血液[19]。槲皮素在体内对酪氨酸蛋白激酶活性具有抑制作用，而异鼠李素可显著促进细胞色素P450超家族CYP3A4的转录，并对去甲肾上腺素诱导血管平滑肌细胞增殖具有抑制作用[20]。因此究竟是槲皮素的何种活性成分下调硝化应激反应，仍有待进一步研究。
+
+# 参考文献：
+
+[1]Kritselis I,Tzanetakou V,Adamis G,et al.The level of endotoxemia in sepsis varies in relation to the underlying infection: Impact on final outcome[J]. Immunol Lett, 2013,152(2): 167-72.   
+[2] Xiang LX,Peng B,Dong WR,et al. Lipopolysaccharide induces apoptosis in Carassius auratus lymphocytes，a possible role in pathogenesis of bacterial infection in fish[J].Dev Comp Immunol, 2008,32(8): 992-1001.   
+[3]Pils MC,Pisano F,Fasnacht N,et al. Monocytes/macrophages and/ or neutrophils are the target of IL-1O in the LPS endotoxemia model [J].Eur JImmunol,2010,40(2): 443-8.   
+[4]As B,CA.Is there no treatment for severe sepsis?[J]. Libyan J Med,2008,3(1): 34-8.   
+[5]Goldring CE,Reveneau S,Chantome A,et al. Heat shock enhances transcriptional activation of the murine-inducible nitric oxide synthase gene[J].FASEB J,2000,14(15): 2393-5.   
+[6]Cai X,Fang Z,Dou J,et al.Bioavailability of quercetin: problems and promises[J]. Curr Med Chem,2013,20(20): 2572-82.   
+[7]黄 亮,季宪飞,曹春水,等.槲皮素对内毒素急性肺损伤的保护作用 [J].中华急诊医学杂志,2004,13(2):85-7.   
+[8]孙 利,冯 坤,王小平,等.槲皮素、松萝酸对伴放线放线杆菌产生内毒 素的抑制作用研究[J].生物医学工程学进展,2012,33(1):9-12.   
+[9]Costa A, Galdino G,Romero T, et al. Ang-(1-7)activates the NO/ cGMP and ATP-sensitive $\mathrm { K ^ { + } }$ channels pathway to induce peripheral antinociception in rats[J]. Nitric Oxide,2014,37: 11-6.   
+[10] Keteler M,Ceto C,Kirdorf M,et al. Nitric oxide in sepsissyndrome:potential treatment of septic shock by nitric oxide synthase antagonists[J]. Kidney Int Suppl,1998,64: S27-30.   
+[11]Abdin AA,Soliman NA, Saied EM. Effect of propranolol on IL-10, visfatin，Hsp7O,iNOS,TLR2,and survivin in amelioration of tumor progression and survival in Solid Ehrlich Carcinoma-bearing mice[J]. Pharmacol Rep,2014,66(6): 1114-21.   
+[12]Mao K, Chen S, Chen M,et al. Nitric oxide suppresses NLRP3 inflammasome activation and protects against LPS-induced septic shock[J].Cell Res,2013,23(2): 201-12.   
+[13]Tunctan B,Korkmaz B,Sari AN,et al. Contribution of iNOS/sGC/ PKG pathway, COX-2, CYP4A1,and gp91(phox) to the protective effect of 5,14-HEDGE,a 20-HETE mimetic,against vasodilation, hypotension,tachycardia,and inflammation in a rat model of septic shock[J]. Nitric Oxide,2013,33:18-41.   
+[14]Tatsumi T,Akashi K, Keira N,et al. Cytokine-induced nitric oxide inhibits mitochondrial energy production and induces myocardial dysfunction in endotoxin-treated rat hearts[J].JMol Cell Cardiol, 2004,37(3): 775-84.   
+[15]Doursout MF,Oguchi T,Fischer UM,et al.Distribution of NOS isoforms in a porcine endotoxin shock model[J].Shock,2008,29 (6):692-702.   
+[16]张弛,黄靓,屈顺林,等.槲皮素抑制诱导型一氧化氮合酶减轻脓毒 症大鼠的心肌损伤[J].中国药理学通报,2011,27(11):1586-9.   
+[17]Di Villa Bianca Rd,Sorrentino R,Mitidieri E,et al.Recombinant human erythropoietin prevents lipopolysaccharide-induced vascular hyporeactivity in the rat[J]. Shock,2009,31(5):529-34.   
+[18]Chagnon F,Metz CN,Bucala R,et al.Endotoxin-induced myocardial dysfunction: effects of macrophage migration inhibitory factor neutralization[J].Circ Res,2005,96(1O):1095-102.   
+[19] Zeng Y,Qi L,Li S,et al.A metabonomic analysis of the effect of quercetin on toxicity induced by chronic exposure to low-level dichlorvos in rat plasma[J].Mol Biosyst,2014,10(1O):2643-53.   
+[20]Gohlke A,Ingelmann CJ,Nüirnberg G,et al.Bioavailability of quercetin from its aglycone and its glucorhamnoside rutin in lactating dairy cows after intraduodenal administration[J].J Dairy Sci,2013,96(4):2303-13.
+
+（编辑：吴锦雅）

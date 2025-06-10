@@ -1,0 +1,202 @@
+# DOI:10.5846/stxb201609201887
+
+宋文琛，同小娟，李俊，张劲松.三源区分土壤呼吸组分研究.生态学报,2017,37(22)：7387-7396.SongWC,TongXiJagJesosoueartigofslspaioctaEolicaca2）6
+
+# 三源区分土壤呼吸组分研究
+
+宋文琛1，同小娟1，\*，李 俊²，张劲松³
+
+1北京林业大学林学院，北京100083  
+2 中国科学院地理科学与资源研究所 陆地水循环及地表过程重点实验室，北京100101  
+3中国林业科学研究院林业研究所 国家林业局林木培育重点实验室，北京100091
+
+摘要：三源区分土壤呼吸组分是指将土壤呼吸区分为纯根呼吸、根际微生物呼吸和土壤有机质呼吸3个部分。土壤有机质呼吸、纯根呼吸和根际微生物呼吸是3种不同的生物学过程,这3种呼吸对环境变化具有不同的响应机制。区分土壤呼吸中由根系引起的自养和异养呼吸组分的研究对定量评价陆地生态系统碳平衡具有重要的意义。论述了三源区分土壤呼吸组分的意义、方法和应用,分析了不同条件下土壤呼吸组分区分的研究结果。实验室纯根和根际微生物呼吸占根源呼吸比重约为 $45 \%$ 和$5 5 \%$ ;野外条件下约为 $6 0 \%$ 和 $4 0 \%$ 。最后对本研究未来的发展方向进行了展望。
+
+关键词：土壤呼吸;根呼吸;根际微生物呼吸；三源区分土壤呼吸组分
+
+# Studies on three-source partitioning of soil respiration
+
+SONG Wenchen’， TONG Xiaojuan1,\*，LI $\mathrm { J u n } ^ { 2 }$ ， ZHANG Jinsong³
+
+1 College of Forestry，Beijing Forestry University，Beijing 10o083,China   
+2KeyLaboratofeceddocsfacuoehef Sciences，Beijing 100101,China   
+3KeyLbodfestoeefsf 100091，China
+
+Abstract：Partitioning soil respiration intothreecomponents（rootrespiration，rhizomicrobialrespiration，and basal respiration）iscalled“three-sourcepartitioning of soilrespiration”.Thesecomponentsare three differentbiological processes，andtheirresponsestoenvironmentchangearediferent.Therefore,itisimportantandsignificanttopartionsoil respirationintoautotrophicand heterotrophicrespiration to evaluate terrestrial ecosystemcarbonbalance quantitatively. Although there hasbeen ageneralunderstanding of autotrophicandheterotrophicrespirationafected by environment factors，themechanismsunderlying theirroleintherhizosphereand their ecological significancearestillnot fully comprehended.To determine the mechanismsof therhizospheresystem response to environmental change，rhizosphere respirationshould be partitioned intorotrespirationandrhizomicrobialrespiration.Inthe present study，we discussed the significance，methods，andaplicationsof thre-sourcepartitioning of soilrespiration，andsummarizedtheresultsunder diffrent conditions.Methodsof thre-source partitioning of soil respiration include physical excised method（suchas the root excised method）， isotopic tracer continuous labeling（ such as $^ { 1 3 } \mathrm { C }$ natural abundance），and isotopic tracer pulse labeling （such as $^ { 1 4 } \mathrm { C }$ pulse labeling).The isotopic tracer pulse labeling method is more accurate than the other methods ; however，itcannotbeuilized in field studiesand isexpensive toundertake.The physical excised method ischeaperand requires nocomplexcalculation；however，it greatlydisturbs thesoilandroots，which casts doubtsontherelevanceof the results.The isotopic tracer continuous labeling method hasadvantages for in situ measurements，accurate tracing，and causes almost no disturbance.However,this methodcan beutilized onlyunder specialconditions（such as whenthe plant organicsare fromC3andthebasal soilorganic materarefromC4）andfurther studyisrequired toimprove itsappicability. Therefore,itisdificulttopartitionsoilrespirationintothethreecomponentsunderfieldconditions.Theexcisedrootsand trenching method and $^ { 1 3 } \mathrm { C }$ natural abundance method can be utilized in field studies，especially in forest ecosystems. The resultsshowed thattheproportionofrootrespirationand theproportionof rhizomicrobialrespiration torhizosphere respiration was approximately $45 \%$ and $5 5 \%$ ，respectively，under laboratory conditions，and approximately $6 0 \%$ and $4 0 \%$ ！ respectively,underfieldconditions.Rootrespiration,rhizomicrobialrespiration,andbasalrespirationvaried with climate, depth，soil nutrition，andother environmental factors.Decompositionof rhizorganisms，whichcausesrhizomicrobial respiration，hasthepotentialtoinfluencegreatlybasalrespiration.Thevariationof thethreecomponentsreflecttheturover rateof soil carbon，andafect the acquisition ofcompetitionand symbiosis byplantsand microorganisms，thus maintaining nutrient balance among the various componentsof an ecosystem.The conventional thre-sourcepartitioning methods might producegreatuncertaintybyignoring theroot-microbialsystem proceses inthe soil.These proceses include theadaptation of soil microbes，rhizospherepriming efects，nutrientpartitioning，etc.Rhizomicrobialrespiration isanimportantpartof soilrespiration in plantationsand cannotbe ignored.Three-source partitioningof soilrespirationisausefulapproach to quantitatively evaluate forest underground $\mathrm { C O } _ { 2 }$ flux as the global climate changes. The outlooks of the present study on the three-source partitioning of soil respiration were also discussed and clarified.
+
+Key Words:soil respiration；root respiration；rhizomicrobial respiration；three-source partitioning of soil respiration
+
+大气中二氧化碳等温室气体升高所引起的温室效应是多年来生态学研究的热点[1-2],全球每年约有超过$1 2 0 \mathrm { P g ~ C }$ 通过光合作用从大气中被固定[1]。其中约一半以植物呼吸的形式又释放回大气,剩下的另一半以凋落物的形式进入土壤,再以土壤呼吸的形式释放到大气中,由此循环于陆地生态系统与大气之间[1,3]。作为全球碳循环重要一环的土壤呼吸,一旦产生微小变动,就能对全球碳循环产生显著影响[1,4]。其中,根际的植物-土壤作用过程调控着全球陆地生态系统近一半的碳释放量[5-6],，并且陆地生态系统的多个物质循环过程都受其影响[1,7]。因此,区分由根系引发的土壤呼吸组分也成为研究全球变化的重要领域[1]。
+
+土壤有机质的分解主要受土壤有机碳含量、土温和土壤含水率等环境因子控制[1-2,8]。因此,土壤呼吸通常被分成"根呼吸"（自养呼吸组分)和"土壤有机质呼吸”（异养呼吸组分)两部分[1]。然而,土壤存在着被称为"微生物热点”（microbial hotspots）的微生物活跃度异常高于其他区域的地方[9]。随着对各个微生物热点的深入研究,人们发现土壤激发效应是影响土壤有机质分解的重要因素,其在各种不同类型的生态系统中都普遍存在[10]。土壤激发效应(soil priming effect)是指由各种有机物质添加等处理所引起的土壤有机质释放和固定平衡的强烈改变,主要表现为有机质碳释放速率的突然变化[1,10]。根系附近 $3 ~ \mathrm { m m }$ 内(也就是根际)是激发效应最主要的发生部位[5,10],而根系附近的微生物热点则可以扩展至根附近 $1 0 \ \mathrm { m m } ^ { [ 9 ] }$ 。尽管当前对激发效应的研究已取得一定的进展,但是对激发效应的生态学重要功能依然缺乏足够的了解[1,I]。在这种背景下,Kuzyakov[12]将土壤呼吸组分分为5个部分,即:根呼吸、根际微生物呼吸、枯落物分解、激发的土壤有机质 $\mathrm { C O } _ { 2 } ^ { \prime }$ 释放和土壤有机质呼吸[1]。这五部分中最主要的3个组分是根呼吸、根际微生物呼吸和土壤有机质呼吸[1,13]。传统意义上的“根呼吸”应当被称为“根源呼吸”（rhizosphere respiration）,它还可以进一步区分为（纯)根呼吸(root respiration）和根际微生物呼吸(rhizomicrobial respiration）两部分[1,12]。根呼吸和根际微生物呼吸都是由根系引发的自养呼吸,均发生在根际;土壤有机质呼吸则是由微生物分解土壤有机质产生的异养呼吸[1,14]。这种区分的意义主要体现在6个方面[1],即土壤和植物中的碳平衡的评估;对有机物质中根际土壤微生物量的评估;对腐殖质的完全统计;区分自养微生物和异养微生物;研究根际激发效应的机制;生态系统碳循环的模型[1,14]。区分根源呼吸最主要的意义就是纠正因忽略根际激发效应而引起的误差,而区分根际激发效应的自养和异养组分则是更重要而且有难度的问题[1,15]。本文结合文献资料,综合论述三源区分土壤呼吸组分的意义、方法和应用,为今后土壤碳循环研究提供参考。
+
+# 1三源区分土壤呼吸组分的意义
+
+总土壤呼吸区分成植物根(源)呼吸和土壤有机质呼吸的意义主要有以下几个方面。首先,根源呼吸分解的是植物输送到地下的光合产物,不应当被计入土壤微生物分解有机质所释放的 $\mathrm { C O } _ { 2 }$ ,由此土壤中碳固定可用;净土壤碳增量 $\mathbf { \sigma } = \mathbf { \sigma }$ 凋落物输入量-（土壤呼吸-根源呼吸)来表示[1-2,16]。若不能精确区分出根源呼吸,则会影响土壤碳固定量的估算,进一步影响土壤碳源或碳汇的估算[1-2]。其次,通常在计算碳素周转率时以土壤有机质分解的二氧化碳量衡量土壤有机质分解量[1]。如果不对所测得土壤呼吸进行区分,势必影响计算[1,6-17]。最后,根源呼吸基本属自养呼吸,土壤有机质呼吸属于异养呼吸,两者对各种环境变化的响应存在一定的区别[1]。因此,在估算土壤碳存储潜力及模型模拟时则必须对两者加以区分[1,18]。
+
+在是否应当区分根源呼吸的问题上,目前还存在着一定争议[1,15]。根源呼吸实际上是把植物通过光合作用吸收二氧化碳所转化的有机碳再转化为二氧化碳,把植物固定的能量再释放出去[1]。这一过程对大气碳平衡没有实质性的影响[1,19]。正因为(纯)根呼吸和根际微生物呼吸同属自养呼吸,所以很多研究者并不认为有必要将两者区分开[1,15]。但若不对以上两者进行区分,通常会令研究者忽略根际微生物的呼吸作用,也就是根际异养微生物分解植物光合产物所造成自养呼吸的作用,从而造成了研究的不准确[1,20]。尽管根际微生物呼吸和激发的土壤有机质 $\mathrm { C O } _ { 2 }$ 释放都发生在根际，且都由异养微生物受根系激发而产生，但根际微生物呼吸属于自养呼吸,激发的土壤有机质 $\mathrm { C O } _ { 2 }$ 释放则来自于根际微生物分泌胞外酶分解土壤有机质而产生，属于异养呼吸,应当被归类于土壤有机质呼吸[12.21]。实际上,根际微生物产生的 $\mathrm { C O } _ { 2 }$ 一部分来自自养呼吸，一部分来自异养呼吸[1]。利用根际物质和利用土壤有机质的土壤微生物并没有明显界限,它们会随营养状况不同而转化[1,22]。不区分根源呼吸组分不利于了解土壤碳循环过程,造成对根际激发效应的忽略,使得生态学模型的精度下降、不确定性增高[14]。本文认为出现这种争议的主要原因是研究对象和尺度的不同。对于大尺度景观或全球生态学的研究,人们只关心自养和异养组分的贡献,而不关心土壤有机碳的迁移过程和机理,因此,并不需要区分根源呼吸组分[23]。但对于土壤基础研究,人们更关心土壤有机碳的迁移过程和机理以了解碳从根到土壤再到释放的过程。因此,对这类研究来说,很有必要区分根源呼吸[9]。
+
+一些模型模拟研究认为,随着全地球大气二氧化碳浓度和温度升高,植物生物量和土壤有机碳库中的碳(C)蓄积量也随之提高[24],同时也会增加根际分泌物和(地表)凋落物向土壤的输入量[25-26],土壤有机质受到激发而分解加速，从而对大气二氧化碳浓度和气温升高产生促进作用[1,10,27-28]。然而,Kuzyakov 和Larionova[20]指出激发效应可以促进以根际微生物为主异养生物的自养呼吸[1]。Yuan等[29]认为微生物自养呼吸是造成碳失汇的重要原因[1]。事实上,激发效应究竟能否影响所研究的土壤碳释放的估计也存在着争议[1,30-31]。因此,综合估计土壤呼吸各组分的贡献对改进陆地生态系统碳循环模型,准确评估全球变化对陆地生态系统具有深远的影响[1]。
+
+# 2区分根源呼吸和土壤有机质呼吸的方法
+
+区分根源呼吸和土壤有机质呼吸的方法主要有根分离法、间接模拟法、同位素长期标记和同位素短期标记（表1）[12,32-33]。在这些区分方法中,最精准的是 $^ { 1 4 } \mathrm { C }$ 动态标记法,它甚至可以精准研究土壤呼吸不同组分动态变化[34-35]。最常用的方法是简单方便的壕沟法,其原理是在地块四周挖沟切断根系和真菌菌丝,并埋设物理薄板阻隔根系生长，隔离地块内外土壤呼吸差值即根源呼吸[33」。然而,不同方法区分出的土壤呼吸差异很大,这造成了很强的不确定性[36]。鉴于同位素标记法通常更为准确,在既有条件用同位素法和又能用非同位素法时,应当选择更精确的同位素标记法[35]。
+
+表1区分根源呼吸和土壤有机质呼吸方法的比较  
+Table1Comparison of separation methods of rhizosphere respiration and basal respiration   
+
+<html><body><table><tr><td>方法Method</td><td>原理Principle</td><td>优点 Advantages</td><td>缺点 Disadvantages</td></tr><tr><td>根分离法</td><td>将根呼吸和土壤有机质呼吸分别测定，土壤呼吸视为两 者之和;或对比有根呼吸和无根呼吸地块，根呼吸视为</td><td>原理简单，成本低，</td><td>扰动大、结果不准确、</td></tr><tr><td>Root excised method 间接模拟法</td><td>两者之差</td><td>适宜各种生态系统 方法简单易行、成</td><td>费人工 精确度不高,不适于精</td></tr><tr><td>Indirect Modeling</td><td>用生态学模型推断出土壤呼吸各组分 用自然(比如C3、C4光合途径)或人为（比如上世纪核</td><td>本低</td><td>确研究 存在同位素分馏问题，</td></tr><tr><td>同位素长期标记 Isotopic tracer continuous labeling</td><td>弹爆炸制造的14C)过程导致的长期均匀的同位素标记 区分土壤呼吸各组分</td><td>省人工,精确度 较高</td><td>只适用于特定条件下， 成本较高</td></tr><tr><td>同位素短期标记 Isotopic tracer pulse labeling</td><td>人工添加同位素标记并根据其丰度变异计算土壤呼吸 各组分</td><td>结果精准,适合实验成本高,不适用于野外 室控制试验</td><td>和长期观测</td></tr></table></body></html>
+
+# 3区分纯根呼吸和根际微生物呼吸的方法
+
+# 3.1 非同位素法
+
+与同位素法相比,非同位素法很难区分纯根呼吸和根际微生物呼吸[1,37]。于是研究者总结非同位素方法的优缺点,把各种方法综合起来,用以分离纯根呼吸和根际微生物呼吸。如,Kelting等[38]将离体根法和壕沟法结合起来,该研究基于两个假设：1)离体根法中，切除根后迅速测定(一般认为 $^ { 2 \mathrm { ~ h ~ } }$ 之内)不会影响根呼吸速率;2)壕沟法中,样地内的死根不影响土壤呼吸的测定[1]。两个实验同时进行:1)离体根法中,将根分离出来后迅速测定根呼吸速率,认为测定结果就是纯根呼吸速率;2)壕沟法中,在样地周围挖一圈壕沟,切断根并阻止外根进入[1]。经常对样地表层进行清理,避免新根生长。待碳释放稳定后(残留根完全分解后)测定此时土壤呼吸[1]。原土壤呼吸减去此时测定的土壤呼吸就是“根呼吸”,以这个结果作为根源呼吸值（即纯根呼吸速率与根际微生物呼吸速率之和)[1]。两者之差即为根际微生物呼吸速率[1]。Chen 等[37]用类似的原理在实验室条件下用离体根法结合移除根法分别区分了黑麦草（Lolium perenneL.）和辐射松（Pinus radiata D.Don)的根源呼吸[1]。Craine 等[40]通过对叶片遮阴处理,发现土壤呼吸的下降量相当于纯根呼吸量[1]。由此再结合空白对照组的呼吸速率即可区分出根际微生物呼吸[1]。Larionova等［41]将成分综合法和移除根法结合起来[1]。方法是;1)先将根分离出来在实验室里培养(培养基质最好是砂或溶液),再测定根呼吸速率,认为该值为纯根呼吸速率;2)用移除根法实验测定“根呼吸"速率值,以该值作为纯根呼吸速率与根际微生物呼吸速率之和;3两者之差即为根际微生物呼吸速率[1]。Barba等[42]设计了3种PVC管：第一种保留所有根与菌丝;第二种保留菌丝但没有根;第三种既没有根也没有菌丝,通过对比3种PVC 管的土壤呼吸值来判定土壤呼吸3种组分的呼吸值。
+
+# 3.2 （20 $^ { 1 4 } \mathrm { C }$ 脉冲标记法
+
+14C 脉冲标记法是指对植物进行 $^ { 1 4 } \mathrm { C }$ 标记后,追踪 $^ { 1 4 } \mathrm { C O } _ { 2 }$ 在土壤中的释放,通过研究植物碳的瞬时动态变化,进而区分纯根呼吸和根际微生物呼吸的方法[1]。它可以分为 $^ { 1 4 } \mathrm { C }$ 稀释法、模拟根际分泌物法、根际分泌物洗脱法和 $^ { 1 4 } \mathrm { C O } _ { 2 }$ 动态法[1,37]
+
+14C 稀释法是指将未标记的葡萄糖注入到生长有 $^ { 1 4 } \mathrm { C }$ 标记植物的土壤中[1]。由于根际微生物不光利用根际分泌物,还利用葡萄糖,这等于稀释了有 $^ { 1 4 } \mathrm { C }$ 标记的根际分泌物。利用稀释 $^ { 1 4 } \mathrm { C }$ 所造成的同位素标记变化,就可估算出纯根呼吸[1]。该法基于几个假设,即添加含 $^ { 1 4 } \mathrm { C }$ 标记的葡萄糖只对根际分泌物起稀释作用而对植物生理、分泌物分解,根际微生物活性等不产生其他影响[1]。假定稀释作用与葡萄糖添加量成正比[43],得出方程[1,3]：
+
+$$
+f ^ { 1 4 } \mathrm { C O } _ { 2 } = ( 1 0 0 - R R ) \exp \mathrm { ~ ( ~ - ~ } k [ \mathrm { G l u } ] + R R )
+$$
+
+式中 $\mathcal { I } ^ { \mathrm { d } 4 } \mathrm { C O } _ { 2 }$ 为葡萄糖稀释后 $^ { 1 4 } \mathrm { C O } _ { 2 }$ 的放出量与未添加葡萄糖时 $^ { 1 4 } \mathrm { C O } _ { 2 }$ 放出量的百分比, $R R$ 为纯根呼吸, $\mathrm { \ G l u }$ 为
+
+加入的葡萄糖量， $k$ 为稀释 $^ { 1 4 } \mathrm { C }$ 的比例[1]。需要注意的是,添加含 $^ { 1 4 } \mathrm { C }$ 葡萄糖不仅对纯根呼吸有影响,而且对微生物呼吸也有影响[4],假设不准确严重影响了实验精度[1]。
+
+模拟根际分泌物法假设土壤微生物释放的碳与土壤碳释放总量之比恒定,则可分两组实验：一组,向土壤中添加有 $^ { 1 4 } \mathrm { C }$ 标记的模拟分泌物,而植物不标记;另一组,用 $^ { 1 4 } \mathrm { C }$ 标记土壤上生长的植物,而不标记土壤[1]。由此,得出如下方程[37]：
+
+$$
+^ { 1 4 } \mathrm { C \_ M \ R _ { \mathrm { R Z D } } / ^ { 1 4 } C \_ S o i l _ { \mathrm { R Z D } } = ^ { 1 4 } C \_ M \ R _ { \mathrm { P l a n t } } / ^ { 1 4 } C \_ S o i l _ { \mathrm { P l a n t } } }
+$$
+
+式中， ${ } ^ { 1 4 } \mathrm { C } _ { - } \mathrm { M R } _ { \mathrm { R Z D } }$ 和 $^ { 1 4 } \mathrm { C } \_ { \mathrm { M R } _ { \mathrm { p l a n t } } }$ 表示土壤微生物分解释放的 $^ { 1 4 } \mathrm { C }$ $^ { 1 4 } \mathrm { C } \_ \mathrm { S o i l _ { R Z D } }$ 与 $^ { 1 4 } \mathrm { C } \_ \mathrm { S o i l _ { P l a n t } }$ 表示存留在土壤中的（20 $^ { 1 4 } \mathrm { C } ^ { [ 1 ] }$ 。该法实际上存在一个潜在假设,即:土壤微生物对根际 $^ { 1 4 } \mathrm { C }$ 标记物的吸收与无根土壤是相同的[]。然而,该假设并不精确，从而与实际值不符[,37]。 >。
+
+根际分泌物洗脱法的操作是：先进行 $^ { 1 4 } \mathrm { C }$ 标记,然后同时进行两样操作,一方面用持续的气流将纯根呼吸释放的 $\mathrm { C O } _ { 2 }$ 吹出并收集;另一方面用持续的水流将根周围的分泌物等物质一齐冲出并收集,最后对所收集物质进行分析检验[1]。需要注意的是,取样时间的选定是一个重点和难点[1]。Kuzyakov[37]发现,吹出的 $^ { 1 4 } \mathrm { C }$ 峰值出现在标记后第12小时，而冲出的分泌物等物质的 $^ { 1 4 } \mathrm { C }$ 峰值分别出现在洗涤后第5小时和第20—24小时[1]。根际分泌物洗脱法的最大优点在于它直接分离了两种呼吸,而不需要方程推算[]。但是它的缺点也很多：(1)洗涤并不完全;(2)洗涤并不均匀;(3)破坏原来根系环境[1]。这些缺点很容易造成根呼吸的 $^ { 1 4 } \mathrm { C }$ 计算偏高而根际微生物的 $^ { 1 4 } \mathrm { C }$ 计算偏低[1,37]。
+
+$^ { 1 4 } \mathrm { C O } _ { 2 }$ 动态法主要利用的是根际微生物相对于纯根呼吸在碳释放方面的延迟[1]。也就是说在最初标定时 $^ { 1 4 } \mathrm { C O } _ { 2 }$ 基本来自纯根呼吸,而大约2至5天时根际微生物呼吸才有所反映[1]。这是因为第二个过程还包括几个阶段：(1)分泌物从根向根际的释放；（2）微生物对分泌物的消耗；（3）微生物分解的分泌物释放（204 $^ { 1 4 } \mathrm { C O } _ { 2 } ^ { [ 1 , 1 4 ] }$ 。这些过程的耗时使得根际微生物呼吸的响应有所延迟[1]。将 $^ { 1 4 } \mathrm { C O } _ { 2 }$ 流区分至土壤呼吸各组分依照的是根际碳通量的动态模型(包括适当标记后的根呼吸率和根分泌物分解率)[1，45]。这些模型参量需符合土壤 $^ { 1 4 } \mathrm { C O } _ { 2 }$ 释放的经验数据[1]。获取数据后,采用区分模型模拟纯根呼吸和微生物呼吸的动态过程,进而确定出二者之间的比值。研究表明, $^ { 1 4 } \mathrm { C O } _ { 2 }$ 动态法精度高,可以作为区分纯根呼吸和根际微生物呼吸的标准验证方法[1,46]。
+
+# 3.3自然 $^ { 1 3 } \mathrm { C }$ 丰度法
+
+自然 $^ { 1 3 } \mathrm { C }$ 丰度法正是利用了根系、土壤、凋落物具有不同的 $\delta ^ { 1 3 } \mathrm { C }$ 值,据此差别估计各来源的贡献率[1]。通常的做法是,将 $\mathrm { C } _ { 3 }$ 植物种植在原生长 $\mathrm { C } _ { 4 }$ 植物的土壤上（或 $\mathrm { C } _ { 4 }$ 植物种植在原生长 $\mathrm { C } _ { 3 }$ 植物的土壤上)[1]。原理是 $\mathbf { C } _ { 3 }$ 和 $\mathrm { C } _ { 4 }$ 植物土壤具有不同的 $\delta ^ { 1 3 } \mathrm { C }$ 值, $\mathrm { C } _ { 3 }$ 植物 $\delta ^ { 1 3 } \mathrm { C }$ 约为 $- 2 4 \% c \sim - 2 9 \% c ,$ $\mathrm { C } _ { 4 }$ 植物约为 $- 1 2 \% c \sim - 1 4 \% c$ ,两者大约相差 $1 4 \% o ^ { [ 1 , 4 7 ] }$ 。基于此,根据二元混合模型(Linear two components mixing model）根源呼吸占土壤总呼吸的比重 $( f _ { \mathrm { r } } )$ 可以用下式表示：
+
+$$
+f _ { r } = ( \delta ^ { 1 3 } \mathrm { C _ { g } } - \delta ^ { 1 3 } \mathrm { C _ { m } } ) / ( \delta ^ { 1 3 } \mathrm { C _ { p } } - \delta ^ { 1 3 } \mathrm { C _ { m } } )
+$$
+
+式中， $\delta ^ { 1 3 } \mathrm { C _ { g } }$ 是土壤 $\mathrm { C O } _ { 2 }$ 的 $\delta ^ { 1 3 } \mathrm { C }$ 值； $\delta ^ { 1 3 } \mathrm { C } _ { \mathrm { p } }$ 是现生长植物呼出的 $\delta ^ { 1 3 } \mathrm { C }$ 值； $\delta ^ { 1 3 } \mathrm { C _ { m } }$ 是土壤有机物分解呼出的8³C值
+
+在上述方法的基础上,Kuzyakov[48]结合微生物生物量的区分方法,建立了进一步区分纯根呼吸和根际微生物呼吸的方法。该法基于两个假设：(1)纯根呼吸的 $\delta ^ { 1 3 } \mathrm { C }$ 与根系组织的 $\delta ^ { 1 3 } \mathrm { C }$ 差异不大;(2)微生物呼吸的$\mathfrak { d } ^ { 1 3 } \mathrm { C }$ 与微生物生物量 $\delta ^ { 1 3 } \mathrm { C }$ 相关联[1,13]。计算步骤为：第一步与稳定同位素法一致,区分根源呼吸和土壤有机质分解呼吸;第二步区分微生物生物量;第三、第四步利用两个假设推导计算得出结论[1,48]。
+
+以将 $\mathrm { C } _ { 4 }$ 植物种在原本生长 $\mathrm { C } _ { 3 }$ 植物的土壤上为例(相反也可以)[1]。理论上,根据此方法只需测量四个参量就能计算出结果[1]。Kuzyakov[48]依据以上步骤推得计算公式：
+
+$$
+\mathrm { R R } = \frac { \big ( { \delta } ^ { \mathrm { C O _ { 2 } } } - { \delta } ^ { \mathrm { M 0 } } \big ) \ \cdot \ \big ( { \delta } _ { 3 } ^ { \mathrm { S O M } } - { \delta } _ { 4 } ^ { \mathrm { R h i z } } \big ) } { \big ( \delta _ { 4 } ^ { \mathrm { R h i z } } - { \delta } ^ { \mathrm { M 0 } } \big ) \ \cdot \ \big ( { \delta } _ { 3 } ^ { \mathrm { S O M } } - { \delta } ^ { \mathrm { C O _ { 2 } } } \big ) }
+$$
+
+$$
+\mathrm { R M R } = \frac { \left( \begin{array} { l l } { { \ S _ { 3 } ^ { \mathrm { S O M } } - \widehat { \mathbf { \sigma } } \mathbf { \delta } ^ { \mathrm { M 0 } } } } \end{array} \right) \ \cdot \ \left( \begin{array} { l } { { \ S _ { 4 } ^ { \mathrm { S O M } } - \widehat { \mathbf { \sigma } } \mathbf { \delta } ^ { \mathrm { C O } _ { 2 } } } } \end{array} \right) } { \left( \begin{array} { l } { { \widehat { \mathbf { \sigma } } \mathbf { \delta } _ { 4 } ^ { \mathrm { R h i z } } - \widehat { \mathbf { \sigma } } \mathbf { \delta } ^ { \mathrm { M 0 } } } } \end{array} \right) \ \cdot \ \left( \begin{array} { l } { { \widehat { \mathbf { \sigma } } \mathbf { \delta } _ { 3 } ^ { \mathrm { S O M } } - \widehat { \mathbf { \sigma } } \mathbf { \delta } ^ { \mathrm { C O } _ { 2 } } } } \end{array} \right) }
+$$
+
+式中,RR表示纯根呼吸所占根源呼吸比重;RMR表示根际微生物呼吸所占根源呼吸比重； ${ \mathfrak { F } } ^ { \mathrm { c o } 2 }$ 表示土壤总呼吸的 $\boldsymbol { \mathfrak { \delta } } ^ { 1 3 } \mathrm { C }$ 值； ${ \hat { \bf 8 } } _ { 3 } ^ { \mathrm { \tiny ~ S O M } }$ 表示曾生长 $\mathbf { C } _ { 3 }$ 植物土壤有机质分解的 $\delta ^ { 1 3 } \mathrm { C }$ 值； ${ \mathfrak { S } } _ { 4 } ^ { \mathrm { \tiny \mathrm { \ R h i z } } }$ 表示 $\mathrm { C } _ { 4 }$ 植物根源呼吸的 $\boldsymbol { \mathfrak { \delta } } ^ { 1 3 } \mathrm { C }$ 值； ${ \mathfrak { F } } ^ { \mathrm { M 0 } }$ 表示土壤微生物生物量 $\boldsymbol { \mathfrak { \delta } } ^ { 1 3 } \mathrm { C }$ 值[1]。
+
+Werth 等[49]则认为,根际微生物活性过低会导致实验失败。实验室条件下分解土壤有机质的微生物活性很弱,使得土壤有机质分解时出现 $\delta ^ { 1 3 } \mathrm { C }$ 的分馏,在这种情况下上述前提假设(2)不成立，所以得出的结论会严重高估纯根呼吸而严重低估微生物呼吸[1]。Werth 和 Kuzyakov[13]在考虑分馏影响后,在种植玉米（Zeamays L.)的农田成功将这个方法应用于野外研究[1]。若条件允许,也可以通过添加适量 $^ { 1 3 } \mathrm { { C } }$ 标记提高精度[50-51]。宋文琛等[52]、Song等[53]和 Tome等[54]将自然 $^ { 1 3 } \mathrm { C }$ 丰度法原理用于区分人工林根源呼吸组分,并认为该方法适用于森林生态系统。自然 $^ { 1 3 } \mathrm { C }$ 丰度法目前还处于探索阶段,还需要进一步的完善[1,52-53,55]。
+
+# 4三源区分土壤呼吸组分的应用
+
+# 4.1根源呼吸对土壤有机质呼吸的影响
+
+根际微生物呼吸部分是根际激发效应所产生的自养呼吸,而根际激发效应同时还会增加土壤有机质呼吸的强度[1]。因此,区分出根际微生物呼吸并研究其大小和变化有助于精确衡量根际激发效应的作用[10.50]。Kerre 等[51]通过添加不同物质,利用 $^ { 1 3 } \mathrm { C }$ 丰度法原理不仅得出根际激发效应强度随时间变化,而且得出生物炭添加引起的土壤有机质呼吸增强程度随时间变化。Tian等[5]通过用同位素法三源区分土壤呼吸组分,发现低粒径土壤、更多的有机物添加会刺激土壤有机质的分解。研究结果表明,在植物-微生物系统中,土壤有机质的分解主要与土壤氮的有效性有关[21.7-58]。由于植物与土壤微生物存在激烈的竞争,根际往往成为氮受限的区域[22]。在氮受限的环境中，植物会将较多的光合产物投资到地下,促进微生物的生长和活性,加速土壤有机质分解释放无机氮,以获取所需的氮和其他养分[21,26,59]。因此,土壤氮含量的增加会抑制根际微生物呼吸,进而抑制土壤有机质呼吸强度[60-61]。另外,在温度、水分等发生变化时,植物-微生物系统会适时调整利用有机物的策略,造成根际微生物呼吸和土壤有机质呼吸的弹性变化[42,52.54]。
+
+# 4.2野外条件下三源区分土壤呼吸组分的应用
+
+由于在野外条件下三源区分土壤呼吸组分难度较大,所以相对于传统的二源区分，三源区分土壤呼吸组分的研究相对较少[1]。在野外条件下,农田和人工林的根呼吸、根际微生物呼吸和土壤有机质呼吸占总呼吸比重在生长季不同时期具有明显的变化[1,13.52,54]。在农田、人工林植物生长较旺盛的时期,根际微生物呼吸占根源呼吸的 $3 5 \% - 4 5 \% ^ { [ 1 ] }$ 。在生长季末期,人工林根际微生物占根源呼吸比重则超过 $7 0 \% ^ { [ 1 3 , 5 2 - 5 3 ] }$ 。这种现象可能是树木根际微生物比农田活跃造成的[52],也可能是与生长季末期根际微生物不活跃导致 $^ { 1 3 } \mathrm { C }$ 分馏值改变而造成的误差有关[13,52]。
+
+农田和森林土壤的环境条件可以影响纯根呼吸、根际微生物呼吸和土壤有机质呼吸的动态变化[1]。Barba 等[42]发现干旱会抑制森林土壤根际微生物呼吸和土壤有机质呼吸,进而使总呼吸下降。Tian 等[56]通过三源区分土壤呼吸组分,发现土壤粒径越小越有利于玉米根际有机质分解,进而促进土壤有机质呼吸。Song 等[53]发现根际微生物呼吸占土壤呼吸比重在40- ${ \cdot } 5 0 \ \mathrm { c m }$ 处基本保持着 $20 \%$ 左右的贡献,而在其他区间的贡献平均只有 $10 \%$ ,而纯根呼吸占土壤呼吸比重则在 $\leqslant 5 0 ~ \mathrm { c m }$ 土深时变化不大,大约为 $10 \%$ 的贡献,但在>$5 0 ~ \mathrm { c m }$ 土深时则有大幅增加的趋势。另外,传统方法通常忽略了激发效应、以及根际微生物呼吸的影响,不能反映土壤深度变化对土壤呼吸的影响,因而很可能大大低估了华北人工林土壤的自养呼吸强度[53]。在苹果园的研究表明纯根呼吸和根际微生物呼吸分别占总呼吸的 $12 \%$ 和 $1 1 \%$ ,两者大体相当,因此,根际微生物呼
+
+吸不可忽略[54] C
+
+# 5 不同研究的比较
+
+由表2可见,不同方法纯根呼吸所占根源呼吸比重为 $23 \% - 8 1 \%$ ,根际微生物呼吸则占 $1 7 \% - 7 7 \%$ 。Sapronov 等[46 通过对成分综合法、去除根法和 $^ { 1 4 } \mathrm { C O } _ { 2 }$ 脉冲标记法的对比分析得出：土壤及根际微生物所占总呼吸的 $1 8 \% - 5 0 \%$ ;纯根呼吸占总呼吸的 $8 \% - 3 2 \%$ ;根际微生物所释放的碳占了土壤微生物总呼吸的 $5 0 \%$ 1$8 0 \%$ 。研究结果的差异主要来自于实验所采用的方法以及土壤有机物的含量[1,46]。目前,大部分的实验还只是停留在室内实验水平上,实验材料以草本植物为主（表1)[1]。通过分析他人研究成果,Werth 和Kuzyakov[13]指出实验室条件下草本植物的纯根和根际微生物呼吸各占根源呼吸的 $5 0 \%$ ;野外条件下草本植物的纯根和根际微生物呼吸占根源呼吸比重分别为 $56 \%$ 和 $4 4 \% ^ { [ 1 ] }$ 。然而,有研究认为野外条件下纯根和根际微生物呼吸占根源呼吸比重与植物物种的关系并不明显[52]。通过对比不同方法的实验效果,在实验室条件下 $^ { 1 4 } \mathrm { C O } _ { 2 }$ 动态法表现出其他区分方法难以企及的精确度,可以作为标准方法[37,46]。在野外标准条件下,无论用什么方法所得到的纯根和根际微生物呼吸占根源呼吸比重均为 $6 0 \%$ (纯根呼吸)和 $40 \%$ （根际微生物呼吸)（表2)[1]。综合考虑方法的可靠性、试验条件、研究结论等,在实验室条件下,纯根和根际微生物呼吸占根源呼吸比重在标准状况下约为 $45 \%$ (纯根呼吸)和 $5 5 \%$ （根际微生物呼吸);野外条件下,通常两者约占根源呼吸的 $6 0 \%$ (纯根呼吸)和 $4 0 \%$ （根际微生物呼吸)（表2）[1]。
+
+表2不同研究区分纯根呼吸和根际微生物呼吸的比较[1,52  
+Table 2Separation of root and rhizomicrobial respiration in different studies   
+
+<html><body><table><tr><td>植物种类</td><td>研究条件</td><td>区分方法</td><td>fRMR</td><td>fRR</td><td>参考文献</td></tr><tr><td>辐射松Pinups radiata D.Don</td><td>实验室</td><td>离体根法+移除根法</td><td>31-55</td><td>45-69</td><td>[39]</td></tr><tr><td>黑麦草 Lolium perenne L</td><td>实验室</td><td>离体根法+移除根法</td><td>35-51</td><td>49-65</td><td></td></tr><tr><td>玉米 Zea mays L</td><td>实验室</td><td>成分综合法+移除根法</td><td>40</td><td>60</td><td>[41]</td></tr><tr><td>春大麦 Hordeum vulgare L</td><td>实验室</td><td>成分综合法+移除根法</td><td>39</td><td>61</td><td></td></tr><tr><td>荞麦Fagopyrum esculentum L</td><td>实验室</td><td>成分综合法+移除根法</td><td>77</td><td>23</td><td></td></tr><tr><td>黑麦草 Lolium perenne L</td><td>实验室</td><td>14C稀释法</td><td>63</td><td>37</td><td>[37]</td></tr><tr><td>黑麦草 Lolium perenne L</td><td>实验室 /WV</td><td>模拟分泌物法</td><td>17-29</td><td>71-83</td><td></td></tr><tr><td>黑麦草 Lolium perenne L</td><td>实验室</td><td>14CO动态法</td><td>55</td><td>45</td><td></td></tr><tr><td>黑麦草 Lolium perenne L</td><td>实验室</td><td>根际分泌物洗脱法</td><td>19</td><td>81</td><td></td></tr><tr><td>玉米 Zea mays L</td><td>实验室</td><td>14CO动态法+成分综合法</td><td>56</td><td>44</td><td>[46]</td></tr><tr><td>玉米 Zea mays L</td><td>实验室</td><td>14CO动态法+成分综合法</td><td>56</td><td>44</td><td></td></tr><tr><td>玉米 Zea mays L</td><td>实验室</td><td>13C标记法</td><td>35-55</td><td>45-65</td><td>[52]</td></tr><tr><td>玉米 Zea mays L</td><td>野外</td><td>自然1C丰度法</td><td>36</td><td>64</td><td>[13]</td></tr><tr><td>小须芒草 Schizachyrium scoparium（Michx.）Nash</td><td>野外</td><td>离体根法+遮荫法</td><td>52</td><td>48</td><td>[40]</td></tr><tr><td>美国红橡木 Quercus rubra L</td><td>野外</td><td>离体根法+壕沟法</td><td>38</td><td>62</td><td>[38]</td></tr><tr><td>刺槐 Robinia pseudoacacia L</td><td>野外</td><td>自然13C丰度法</td><td>57</td><td>43</td><td>[52]</td></tr><tr><td>刺槐 Robinia pseudoacacia L</td><td>野外</td><td>自然1C丰度法</td><td>48</td><td>52</td><td></td></tr><tr><td>刺槐 Robinia pseudoacacia L</td><td>野外</td><td>自然1C丰度法</td><td>73</td><td>27</td><td></td></tr><tr><td>刺槐 Robinia pseudoacacia L</td><td>野外</td><td>自然1C丰度法</td><td>39</td><td>61</td><td>[53]</td></tr><tr><td>苹果 Malus pumila Mill.</td><td>野外</td><td>自然1C丰度法</td><td>49</td><td>51</td><td>[54]</td></tr></table></body></html>
+
+$f _ { \mathrm { R M R } }$ 代表根际微生物呼吸占根源呼吸比重 $\scriptstyle : f _ { \mathrm { R R } }$ 代表纯根呼吸占根源呼吸比重
+
+# 6结论与展望
+
+目前,在三源区分土壤呼吸组分的研究领域内,多数研究都局限在实验室条件下,而对此项研究最需要的生态学方面(尤其是全球变化生态学)却难以将土壤学的研究成果应用于野外实践[1]。应用同位素法区分纯根和根际微生物呼吸可以解决扰动生境的问题,做到原位测量[1,62]。但是,大部分同位素区分方法都需要人为同位素标记,这种脉冲标记不但昂贵而且标记的时空尺度很小,对于森林生态系统基本不起作用[1,63]。由此可见,同位素法区分野外木本植物根源呼吸组分一直是本领域的重点和难点[1]。
+
+未来三源区分土壤呼吸组分的研究可以有以下几个方面的应用：(1)研究根际激发效应过程中的碳平衡与养分平衡,综合评价根际过程中植物和微生物各自的收支[1]。尽管植物和微生物有相似的养分需求,但两者的限制因子还是存在一定的差异,前者更多地受养分限制,后者则主要受碳和能源的限制[1,37]。只有将根系和微生物的效应区分开来才能定量评价植物—土壤系统的碳收支状况[1]。（2)探明根际来源的碳在土壤中的去向[1]。引发根际激发效应的这部分碳并没有完全被微生物分解释放到大气中,有一部分碳还是残留在土壤中[64],而这部分碳在土壤中的去向至关重要[1,21]。（3)研究根际激发效应的微生物学机制[]。究竟有多少微生物参与了根际激发效应？有关研究目前依然缺乏充分的实验数据[1]。（4)土壤有机质分解对温度的敏感性是预测陆地生态系统碳循环对全球变暖影响的关键环节,但目前的研究尚未达成一致的认识[1,30-31]。根际效应的敏感性在全球变化背景下有重要地位[5],需要大量研究去破解其内在的机制,为生态系统过程模型的精确模拟预测提供基础[1]。（5)森林生态系统是最大、最稳定的陆地碳汇,对全球碳平衡有举足轻重的作用[65]。然而,野外区分木本植物根源呼吸组分无论从方法上还是应用上都存在一些未克服的问题[1]。因此,该方向是未来三源区分土壤呼吸研究的重点[,53]。
+
+# 参考文献（References）：
+
+［1］宋文琛.自然 $^ { 1 3 } \mathrm { C }$ 丰度法区分刺槐人工林土壤呼吸三组分的研究[D].北京：北京林业大学，2015.  
+[2］刘佳，同小娟，张劲松，孟平，李俊，郑宁．太阳辐射对黄河小浪底人工混交林净生态系统碳交换的影响.生态学报，2014，34（8)：2118-2127.  
+[3]LeQuereC,PetersGP,AdreR,BodenTA,iaisP,FrdingsteinP,HoghtonRA,MarlandG,riartyR,ichS,s,etA,ArvanitisA,BakkerDCE,BoppL,CanadellJG,ChiniLP,DneySC,HarperA,HarisI,HouseJI,JainA K,JonesSD,KatoE,KeelingRF,Goldewijk K,KortzingerA,KovenC,LefevreN,MaignanF,OmarA，OnoT,Park G H,PfeilB,PoulterB,RaupachMR,RegnierP,RodenbeckC，SaitoS,SchwingerJ，SegschneiderJ，StockerB,TilbrokB，VanHeuven SMAC，ViovyN，WankhofR,Wiltshire A， Zaehle S,Yue C.Global carbon budget 2013.Earth System Science Data,2014,6(7): 235-263.  
+[4]Atarashi-Andoh M,Koarashi J,Ishizuka S,Hirai K. Seasonal patterns and control factors of CO $_ 2$ effluxes from surface litter,soil organic carbon,and rot-derived carbon estimated using radiocarbon signatures.AgriculturalandForest Meteorology，2012，152：149-158.  
+[5]ChengWXartonWJ,Gzalez-MeerA,PhillpsR，AsaoS,ickleGG,rostekE,JastroJDSthesisdmdeligspectiveof rhizosphere priming.New Phytologist,2014,201(1）:31-44.  
+[6]HopkinsF，Gonzalez-MelerMA，FowerCE,LychDJ,CzimczikC，TangJW,SubkeJA.Ecosystem-leveconrolsonospherespiration.New Phytologist，2013,199(2）：339-351.  
+[7]ChapinFS,MatsonPAVitousekP.PrinciplesofeestrilEcosystemEology2ndedNewYork：SpringerPrss，12.  
+[8]KzyaelJK,aevofdntftgsst)1485-1498.  
+[9] Kuzyakov Y，Blagodatskaya E V.Microbial hotspots and hot moments in soil：Concept $\&$ review.Soil Biology and Biochemistry，2015，83：184-199.  
+[10] KuzyakovYrimgectsinteractiosetweelivingandeadoganice.oilologndocestry,4（9）6-.  
+[11] BlagodatskayaEVuoctiosiililvoftoilod2013,67:192-211.  
+[12] Kuzyakov Y. Sources of CO $^ 2$ efflux from soil and review of partitioning methods.Soil Biologyand Biochemistry,2006,38(3）：425-48.  
+[13]Werth M,Kuzyakov Y. Three-source partitioning of CO $^ 2$ efflux from maize field soil by $^ { 1 3 } \mathrm { C }$ natural abundance. Journal of Plant Nutrition and SoilScience，2009，172(4):487-499.  
+[14]Kuzyakov Y V，Larionova A A.Contribution of rhizomicrobial and root respiration to the CO $^ 2$ emission from soil（A Review）.Eurasian SoilScience，2006，39(7)：753-764.  
+[16]HnsondadrteC,AdresJAeparatigdlatrtiostlespro：vieofsobservations.Biogeochemistry，2000,48（1）：115-146.  
+17]Adeoatporocdds:326-347.  
+[18]LiP,YangYHangYVaratiosoftadhterotroicespratioalogeviontagaintsiCiaforestsJoualfantEcology，2013,6(5）：358-367.  
+[19]Högberg P,Buchmann N,Read D J. Comments on Yakov Kuzyakov's review‘Sources of $\mathrm { C O } _ { 2 }$ efflux from soil and review of partitioning methods';[Soil Biology& Biochemistry 38,425-448].Soil Biology and Biochemistry,2006,38（9）：2997-2998.  
+20]uzoteotcorganisms in soil. Journal of Plant Nutrition and Soil Science,2005，168(4）：503-520.  
+[21］孙悦，徐兴良，Kuzyakov Y.根际激发效应的发生机制及其生态重要性.植物生态学报，2014，38（1）：62-75.  
+22Kuzuetsdodlst198(3) : 656-669.  
+[23]XuM,Shang H.Contributionof soilrespiration tothegobalcarbonequation.JournalofPlantPhysiology，2016,03：16-28.  
+[24]Gerber S,Joos F,Prentice IC.Sensitivity of a dynamic global vegetation andatmos $\mathrm { C O } _ { 2 } ^ { - }$ .（ lobal Change Biology，2004，10(8):1223-1239.  
+[25]MacdoaldCA，AndersonC，BardgettRD，SinghBK.Rolefntrogenincbonmitgtioniforestcosystes.CurentOpiioniEnvironmental Sustainability，2011,3(5）：303-310.  
+[26]PiliiACdtEcedeatduicabacstiifrse $^ 2$ （204号fumigation.Ecology Leters，2011,14(2）：187-194.  
+[27]SayerJ，HeardMS,GrantHK,MarthewsTR,TaerEVJ.SoilcarbonreleaseehancedbyincreaseropicalforestliterfallatueClimate Change，2011,1(6)：304-307.  
+[28]Bengtson P，Barker J，Grayston S J.Evidence of a strong upling root exudation，C and N availability，and stimulated SOMdecomposition caused by rhizosphere priming efects.Ecologyand Evolution，2012,2（8）：1843-1852.  
+[29]YuanHZ,GeCOellAG,iantforltotoineseestratfaboEnvironmental Microbiology，2012，78（7）：2328-2336  
+30Vongeabeaesiflaeoodil2009,46(1): 1-15.  
+[31]ConantRT,RyanMG,AgrenGI,BirgeHE,DavidsonEA,EliasonPE,EvansSE,FreySD,GiardinaCP,HopkinsFM,HyvnenR,Kirschbaum MUF,avalleJMLefldJ,ParonWJ,SteigJM,WallnstenMD,WeterstedtJAM,raford.mpaureandsoilorganicmaterecoositatessysisfetowedgdaardlobalCangeolog1）44.  
+[32］王兵，姜艳，郭浩，赵广东，白秀兰.土壤呼吸及其三个生物学过程研究.土壤通报，2011,42(2)：483-490.  
+[33］陈敏鹏，夏旭，李银坤，梅旭荣．土壤呼吸组分分离技术研究进展.生态学报，2013,33（22）：7067-7077.  
+[34]Remus R,Huve K,Po nn J,Augustin J.Determining the timepoint when $^ { 1 4 } \mathrm { C }$ tracer accurately reflect photosynthate use in the plant-soilsystem. Plant and Soil，2016,408(1-2): 457-474.  
+[35]Remus R, Augustin J. Dynamic linking of $^ { 1 4 } \mathrm { C }$ partitioning with shoot growth allws a precise determination of plant-derived C input to soil.Plantand Soil,2016,408(1-2) : 493-513.  
+[36]CarboneMS，ichardsoAD,ChenM,DavidsonEA，HughsH,avaeKE，HingerDY.Constrainedpartiogfatropcdheterotrophicrespirationreducesmodeluncertintiesofforestecosystemcarbonfluxesbutnotstocks.JouralofGeophysicalResearchBiogeosciences，2016，121(9）:2476-2492.  
+37]KuzaatilofafiillofBiochemistry，2002，34（11）：1621-1631.  
+Keidaltsoils.Soil Biology and Biochemistry，1998,30(7）：961-968.  
+[39]ChenCdL,XuZH,Dvis,erlRRot,oseadofreespatiolsdergrassddtEuropean Journal of Soil Science,2006,57(1）：58-66.  
+[40]Craine JM,Wedin D A,Chapin F S.Predominance of ecophysiological controls on soil CO $^ 2$ flux in a Minnesota grassand.Plant and Soil,1999,207(1) : 77-86.  
+[41]LarionovaAA,SapronovDV,de GerenyuL,KuznetsovaLG,KudeyarovVN.Contributionof plantrootrespirationtothe $\mathrm { C O } _ { 2 }$ emission from soil.Eurasian Soil Science，2006，39（10）：1127-1135.  
+42]Brbsosecondary succession. Oecologia，2016，182（1）：27-41.  
+[43]ChengWX,ZhangQ，ColemanDC，CarollCR，HofmanCA.IsavalablecarbonlimitingmicrobialrespirationinthezosphreSoilBiology and Biochemistry，1996,28（10-11)：1283-1288.  
+[44]KuzyakYgtostsofsespatdacacopoiSd33(14):1915-1925.  
+[45]Kuzyakov Y,Domanski G. Model for rhizodeposition and CO efflux from plantedsoilanditsvalidation by $^ { 1 4 } \mathrm { C }$ pulse labelling of ryegrass.Plant and$^ 2$ Soil,2002,239(1) :87-102.  
+[46]SaproVKuakoYVeparatioofrotadrobialespratiooarisooftheemesEurasianSlee（)775-784.  
+[47]O'Leary M H. Carbon isotopes in photosynthesis. Bioscience,1988,38(5）: 328-336.  
+[48]Kuzyakov Y.Theoretical background for partioning of root and rhizomicrobial respiration by $\mathfrak { F } ^ { 1 3 } \mathrm { C }$ of microbial biomass.European Journal of SoilBiology,2005,41(1-2):1-9.  
+[49]Werth M,Subbotina I，Kuzyakov Y.Three-source partitioning of $\mathrm { C O } _ { 2 }$ effux from soil planted with maize by13C natural abundance fails due toinactive microbial biomass.Soil Biology and Biochemistry，2006,38(9）：2772-2781  
+[0Blagodatsocaltecby cellulose.Soil Biology and Biochemistry，2014，74：39-49.  
+[51]KereBaoeartofbofulsttebiochar in soil: A $^ { 1 3 } \mathrm { C }$ study.Science of Total Environment,2016,547: 30-38．  
+[52］宋文琛,同小娟，张劲松，孟平,李俊.用自然 $^ { 1 3 } \mathrm { C }$ 丰度法区分人工林根源呼吸的原理与应用.中国水土保持科学，2015，13(4)：37-43.  
+[53]Song W C,Tong XJ, Zhang JS, Meng P. Thre-source partitioning of soil respiration by ${ } ^ { 1 3 } \mathrm { C }$ natural abundance anditsvariation with soil depth ina plantation. Journal of Forestry Research,2016,27(3）：533-540.  
+[54]TomeE,VturaZteli,agaLo,gliadeliFalilrespiration in an apple orchard.Applied Soil Ecology，2016,101：165-173.  
+[55]Werth M,Kuzyakov Y. $^ { 1 3 } \mathrm { C }$ fractionation attheroot-microrganisms-soil interface：Areviewandoutlook for partitioning studies.Soil BiologyandBiochemistry，2010,42（9）：1372-1384.  
+[56]TanJhdatsaEegteedseevetprgesoustudy.Soil Biology and Biochemistry,2016,97:199-210.  
+[57]DijstrlledallE,nJsppnrpsetitsinobl，.  
+[58]SlivanBW，HartSC.EaluatiofmehanissontrolinepriingofoilarbnalongaubstrateaegradientSoiloldBiochemistry，2013，58:293-301.  
+[59]Burns RG,DeForest ] L,Marxsen J，Sinsabaugh RL，Stromberger ME，Wallenstein MD，Weintraub MN，Zoppini A. Soil enzymes in achanging environment：current knowledge and future directions.Soil Biologyand Biochemistry，2013,58：216-234.  
+[60]SpohnM,thEcs,obenD,anekW,her.Slolbuseedosoerfertilization experiment in a temperate grassand.Soil Biology and Biochemistry，2016,97:168-175.  
+[61]ZangHnguzvYertlireasslcasiihsreASlo,108: 47-53.52 耿元波，史晶晶.碳同位素在草地土壤呼吸区分中的应用.中国农业科学，2012，45（17)：3541-3550.魏书精，罗碧珍，魏书威，孙龙，文正敏，胡海清.森林生态系统土壤呼吸测定方法研究进展.生态环境学报，2014，23（3）：504-514.  
+[64]Qiao N,Schaefer D,BlagodatskayaE,Zou X M,Xu XL,Kuzyakov Y.Labile carbon retention compensates for $\mathrm { C O } _ { 2 }$ released by priming in forestsoils.Global Change Biology，2014，20(6）：1943-1954.  
+[65]PanYD,BirdseyRA,FangJY,HoughtonR,KaupiPE,urz WA,PilisOL,ShvidenkoA,LewisSL,CandellJG,CiaisP,JacksonPB,Pacala SW,MGureAD,PiaoSL,RautiainenA,itchS,HayesD.Alargeandpersistentcarbosinkintheworld'sfrestsiece,2011,333(6045）: 988-993.

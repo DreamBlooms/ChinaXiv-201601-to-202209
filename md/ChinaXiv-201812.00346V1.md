@@ -1,0 +1,228 @@
+1 共轭亚油酸对开产蛋鸡生产性能、蛋品质、蛋黄硬度和蛋黄脂肪酸组成的影响
+
+2 王生辉1,²　史兆国1\*王　晶²张海军² 齐广海² 武书庚2\*张　涛
+
+（1．甘肃农业大学动物科学技术学院，兰州 730070；2．中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，生物饲料开发国家工程研究中心，北京 100081；3．赢创德固赛（中国）投资有限公司，北京 100026)
+
+摘要：本试验旨在研究饲粮添加共轭亚油酸（CLA）对开产蛋鸡生产性能、蛋品质、蛋黄硬度和蛋黄脂肪酸组成的影响。采用单因素随机试验设计，选用产蛋率、体重相近的18周龄海兰褐蛋鸡 630只，随机分为7组，每组6个重复，每个重复15只鸡，分别饲喂添加0、 $1 \%$ 、 $2 \%$ 、 $3 \%$ 、 $4 \%$ 、 $5 \%$ 和 $6 \%$ CLA 的试验饲粮，预试期1周，正试期8周。结果表明：1）饲粮CLA添加水平 $\leqslant 2 \%$ 时，对蛋鸡的生产性能、蛋品质无显著影响 （ $P { > } 0 . 0 5 )$ 。与对照组相比，饲粮添加 $2 \% \sim 4 \%$ CLA可增加蛋壳厚度（ $_ { . P > 0 . 0 5 ) }$ ；饲粮CLA添加水平 $\geq 3 \%$ 时，产蛋率显著降低（ $\scriptstyle P < 0 . 0 5 { \mathrm { , } }$ ，蛋黄硬度显著增加（ $\textstyle P { \ < } 0 . 0 5 )$ ；饲粮CLA添加水平 $\geq 4 \%$ 时，平均日采食量和腹脂率显著降低（ $\scriptstyle P < 0 . 0 5 ,$ ；饲粮CLA添加水平 $\geq 5 \%$ 时，料蛋比显著升高（ $\cdot P { < } 0 . 0 5 \$ ，蛋黄比例显著降低 （ $\cdot P { < } 0 . 0 5 \$ 。2） $1 \%$ 、 $2 \%$ CLA 添加组蛋黄中C16:0、C18:0 和饱和脂肪酸（SFA）含量显著低于其他组 （ $\scriptstyle \cdot < 0 . 0 5 ,$ )。与对照组相比，饲粮CLA添加水平 $\geq 4 \%$ 时，蛋黄中C16:0、C18:0 和 SFA含量显著增加（ $\scriptstyle P < 0 . 0 5 .$ )，C16:1、C18:1、单不饱和脂肪酸（MUFA）和多不饱和脂肪酸（PUFA）含量显著降低（ $\cdot < 0 . 0 5 \$ )。蛋黄中CLA含量随饲粮CLA 添加水平的增加呈显著二次升高（ $\cdot P { < } 0 . 0 1 \cdot$ ），c9,t11-CLA的富集量是 $t 1 0 , c 1 2 { \mathrm { - C L A } }$ 的1.47倍。综上，饲粮添加 $2 \%$ CLA，可以改善蛋壳质量，降低蛋黄中 SFA含量，蛋黄中可富集一定量的CLA，且不影响蛋鸡的生产性能和蛋品质。
+
+关键词：共轭亚油酸；开产蛋鸡；生产性能；蛋黄硬度；蛋黄脂肪酸组成中图分类号：S831.5
+
+收稿日期：2017-12-26  
+基金项目：国家蛋鸡产业技术体系（CARS-40-K12)；家禽产业技术体系北京市创新团队（CARS-PSTP)  
+作者简介：王生辉（1992—），男，甘肃古浪人，硕士研究生，从事家禽营养与饲料科学研究。E-mail:  
+saytoujours@163.com  
+\*通信作者：史兆国，教授，硕士生导师，E-mail:shizhaoguo@gsau.edu.cn；武书庚，研究员，博士生导师，  
+E-mail: wushugeng@caas.cn
+
+共轭亚油酸（conjugated linoleic acid，CLA）是亚油酸（LA）同分异构体的总称，LA的第9和12位有2个双键，均为顺式构型；CLA的双键位于8、10，9、11，10、12或11、13号碳原子，且有顺反异构，种类较多，天然CLA多为 $^ { c 9 , t 1 1 }$ -CLA 和 $^ { t 1 0 , c 1 2 }$ -CLA。CLA最早发现于烤炙牛肉，常见于反刍动物的肉、奶产品，是瘤胃微生物氢化LA 为硬脂酸过程的中间产物[。作为功能性脂肪酸，CLA 具有抗突变[2]、抑制癌症[3]、减少体脂肪、抗ⅡI型糖尿病[4]、预防动脉粥样硬化、抗高血压[3]、抗氧化[5]、增强免疫功能[]、利于骨骼健康[7等生理功能。鸡蛋是优质的动物源蛋白质，蛋黄能较好的富集有益脂肪酸，通过饲喂蛋鸡富含CLA 的饲粮，能较好的在蛋黄富集CLA。生产CLA鸡蛋，可平衡人类膳食，改善人类健康，提高鸡蛋附加值。Ahn等[8最早做了有关蛋鸡饲粮中添加CLA的研究，之后有关蛋鸡和CLA 的研究也有不少，但关于饲粮添加CLA对开产蛋鸡有效性和安全性的研究不多。本试验旨在研究饲粮添加 $1 \% \sim 6 \%$ 的 CLA 对开产蛋鸡生产性能、蛋品质、蛋壳质量、蛋黄硬度和蛋黄脂肪酸组成的影响，为其在开产蛋鸡饲粮中的应用提供科学依据。
+
+1材料与方法
+
+1.1试验材料CLA 购自青岛澳海生物有限公司，纯度为 $8 1 . 4 \%$ ，其中含c9,t11-CLA $3 8 . 7 \%$ ， $^ { t 1 0 , c 1 2 }$ -CLA $3 8 . 6 \%$ ，其他CLA异构体 $4 . 1 \%$ （数据来自青岛澳海生物有限公司游离脂肪酸型CLA分析报告单）。
+
+# 1.2 试验设计
+
+选用体况良好，产蛋率、体重相近的18周龄海兰褐蛋鸡630只，随机分为7组，每组6个重复，每个重复15只鸡，各组间初始体重无显著差异（ $\scriptstyle \cdot > 0 . 0 5 .$ )。对照组添加玉米油，试验组用CLA油等重量替换玉米油，分别添加 $1 . 2 3 \%$ 、 $2 . 4 6 \%$ 、 $3 . 6 9 \%$ 、 $4 . 9 1 \%$ 、 $6 . 1 4 \%$ 和 $7 . 3 7 \%$ CLA 油，使CLA的实际添加水平分别为$1 \%$ 、 $2 \%$ 、 $3 \%$ 、 $4 \%$ 、 $5 \%$ 和 $6 \%$ 。
+
+1.3 饲养管理
+
+参照 NRC（2004）和我国《鸡饲养标准》（NY/T33—2004)，结合《2015版海兰褐商品代蛋鸡饲养管理手册》配制玉米-豆粕型粉状基础饲粮，基础饲粮组成及营养水平见表1。试验鸡采用3层立体笼养( $4 7 \mathrm { c m }$ $\times 3 7 \mathrm { c m } \times 4 7 \mathrm { c m } \times$ ，每笼3只，蛋鸡自由采食和饮水，自然光照加人工补光 $\mathrm { \Omega } ^ { \prime } 1 6 \mathrm { h } / \mathrm { d } , 2 0 \mathrm { l x } \mathrm { i }$ ，相对湿度为 $5 0 \% \sim$ $60 \%$ ，自然通风结合纵向负压通风；每天清粪2次，每周带鸡消毒1次，常规防疫和免疫。预试期1周（所有试验组预试期饲粮均为对照组饲粮)，正试期8周。
+
+# 1.4测定指标与方法
+
+1.4.1 生产性能
+
+试验期间，以重复为单位，每天统计产蛋量和产蛋重，每周结算耗料量，计算平均日采食量、产蛋率、平均蛋重和料蛋比。
+
+# 1.4.2 腹脂率
+
+试验第8周末，每重复选取1只接近平均体重的蛋鸡，称重，颈静脉放血、屠宰，取腹脂称重，计算腹脂率。
+
+1.4.3 蛋品质
+
+试验第8周末，每重复随机取3枚蛋，测定蛋品质。采用 SONOA蛋品质自动分析仪（EggAnalyzer TM，Orka Technology Ltd.）测定鸡蛋浓蛋白高度、哈氏单位和蛋黄颜色；蛋壳强度分析仪（EggForce Reader，Orka TechnologyLtd.）测定蛋壳强度；蛋壳厚度测定仪（Egg Index Reader，Fujihira Industry Co.,Ltd.）测定蛋壳厚度。电子天平称量蛋重，分蛋器分离蛋黄并称重，计算蛋黄比例。混匀蛋黄， $- 2 0 ^ { \circ } \mathrm { C }$ 保存，真空冻干(72h)，称重，计算蛋黄含水量，粉碎过40目筛 $4 ^ { \circ } \mathrm { C }$ 保存。
+
+# 1.4.4 蛋黄硬度
+
+试验第8周末，每重复随机取6枚蛋，分为2组， $4 ^ { \circ } \mathrm { C }$ 分别储存7和14d,煮熟鸡蛋，分离蛋黄，TMS-PRO型食品物性分析仪（美国 Food Technology Corporation）测定熟蛋黄硬度。
+
+# 1.4.5 蛋黄脂肪酸含量
+
+称取蛋黄冻干粉（ $9 0 \pm 1 0 \$ ）mg至 $1 5 ~ \mathrm { m L }$ 螺口试管，依次加入 $1 \mathrm { m L }$ 正己烷， $1 ~ \mathrm { m L }$ 内标液（ $1 \ \mathrm { m g / m L }$ 十一烷酸甲酯-正己烷溶液)， $4 ~ \mathrm { m L }$ 甲醇:乙酰氯（体积比为10:1）混合液；混匀， $8 0 ~ ^ { \circ } \mathrm { C }$ 水浴（甲酯化） $3 \mathrm { h }$ 冷却至室温，加入 $5 \mathrm { m L 7 \% }$ 碳酸钾溶液，涡旋混匀， $4 0 0 0 / \mathrm { { m i n } }$ 离心 $1 0 \mathrm { m i n }$ ，取上层有机相 $1 \mathrm { m L }$ 用于分析。使用GC-450气相色谱仪(天美科学仪器有限公司),采用Agilent HP-88 色谱柱( $\langle 1 0 0 \mathrm { m } \times 0 . 2 5 \mathrm { m m } \times 0 . 2 0 \mu \mathrm { m } \rangle$ 。进样器温度 $2 6 0 ^ { \circ } \mathrm { C }$ ，检测器温度 $2 7 0 ^ { \circ } \mathrm { C }$ ，氮气作为载气，分流比为1：50。温度设定为 $1 0 0 ^ { \circ } \mathrm { C }$ ，保持 $5 \mathrm { m i n }$ 之后 $5 \mathrm { { ^ { \circ } C / m i n } }$ 增加直至 $2 4 0 ^ { \circ } \mathrm { C }$ ，保持 $3 0 \mathrm { m i n }$ 。进样量 $1 . 0 ~ \mu \mathrm { L }$ 。以正己烷为清洗液，进样前后各清洗3次。
+
+# 1.5 数据统计分析
+
+数据采用 SPSS19.0进行单因素方差分析（one-way ANOVA)，Duncan 氏法进行多重比较， $P { < } 0 . 0 5$ 为差异显著性标准，结果以“平均值±标准差”表示。
+
+# 2结果与分析
+
+2.1饲粮添加CLA对开产蛋鸡生产性能的影响
+
+由表2可知，饲粮添加CLA对开产蛋鸡的平均日采食量、产蛋率、料蛋比、平均蛋重和腹脂率均有显著影响 （ $\scriptstyle \cdot < 0 . 0 5 ,$ )。随饲粮CLA添加水平的增加，平均日采食量 $\left( \gamma = - 1 . 5 1 9 6 x + 9 5 . 4 5 6 \right.$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } =$ 0.965）、产蛋率 $\left( { { y } = - 0 . 0 2 7 9 x + 0 . 7 5 6 4 } \right)$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } { = } 0 . 9 5 5$ ）和腹脂率线性降低 $\left( { { y = - 0 . 2 2 9 3 x + 2 . 8 7 5 } } \right.$ $P { < } 0 . 0 1$ ， $R ^ { 2 } { = } 0 . 9 3 4 \rangle$ )，料蛋比线性升高 $( y = 0 . 0 6 0 7 x + 2 . 2 4 0 7$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } { = } 0 . 7 1 7 \$ )；根据平均蛋重与饲粮CLA添加水平之间的回归方程 $\left( y = - 0 . 1 4 1 ~ 2 x ^ { 2 } + 0 . 3 9 2 ~ 1 x + 5 5 . 6 8 2 \right.$ ， $P { = } 0 . 0 1 7$ ， $R ^ { 2 } { = } 0 . 8 4 0 \rangle$ ，计算得出饲粮 CLA 添加水平 $= 1 . 3 8 \%$ 时，平均蛋重（ $5 5 . 9 5 \mathrm { ~ g ~ }$ ）最重。与对照组相比，饲粮CLA添加水平 $\leqslant 2 \%$ 时，对蛋鸡的生产性能无显著影响（ $\vert { P > } 0 . 0 5 )$ ；饲粮CLA 添加水平 $\geq 3 \%$ 时，产蛋率显著降低（ $P { < } 0 . 0 5 )$ ；饲粮CLA 添加水平 $\geq 4 \%$ 时，平均日采食量和腹脂率显著降低（ $\cdot P { < } 0 . 0 5 )$ ；饲粮CLA 添加水平 $\geq 5 \%$ 时，料蛋比显著升高( $\cdot P { < } 0 . 0 5 )$ ，平均蛋重显著降低（ $( P { < } 0 . 0 5 )$ )；饲粮添加CLA对蛋鸡的体增重无显著影响 ${ \mathrm { ( } } P { > } 0 . 0 5 { \mathrm { ) } }$ 。结果提示，饲粮添加CLA 影响蛋鸡的生产性能，且有剂量依赖效应，添加 $1 \%$ 和 $2 \%$ CLA 对蛋鸡的生产性能无显著影响；CLA添加水平≥3%则影响产蛋率、平均日采食量和料蛋比，降低腹脂率。
+
+2.2饲粮添加CLA对开产蛋鸡蛋品质的影响
+
+由表3可知， $2 \% . 3 \%$ 和 $4 \%$ CLA 添加组开产蛋鸡的蛋壳厚度显著大于 $1 \%$ 和 $5 \%$ CLA添加组( $\scriptstyle ( P < 0 . 0 5 )$ ，$4 \%$ CLA 添加组的蛋壳厚度显著大于对照组（ $\scriptstyle P < 0 . 0 5 )$ ；根据蛋壳厚度与饲粮CLA添加水平之间的回归方程 $\left( y = - 0 . 0 0 1 9 x ^ { 2 } + 0 . 0 1 6 6 x + 0 . 4 0 0 8 \right.$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } { = } 0 . 4 5 6 \$ )，计算得出饲粮CLA添加水平 $= 4 . 3 7 \%$ 时，蛋壳最厚（ $0 . 4 3 7 1 \mathrm { m m }$ 。 $2 \%$ 、 $3 \%$ 和 $4 \%$ CLA 添加组的蛋壳强度与其他组相比有升高趋势，但差异不显著（ $\scriptstyle \cdot { \cal P } > 0 . 0 5 .$ ）。饲粮CLA 添加水平 $\geq 2 \%$ 时，蛋黄比例有下降趋势， $5 \%$ 和 $6 \%$ CLA 添加组显著低于对照组、 $1 \%$ 和 $2 \%$ CLA 添加组（ $\cdot P { < } 0 . 0 5 \dot { , }$ )，根据蛋黄比例与饲粮CLA 添加水平之间的回归方程 $\left( y = - 0 . 0 6 8 9 x ^ { 2 } + 0 . 0 3 4 \right.$ $6 x + 2 3 . 4 9 1$ ， $P { = } 0 . 0 6 9$ ， $R ^ { 2 } { = } 0 . 8 4 7 \cdot$ )，计算得出饲粮CLA添加水平 $= 0 . 2 5 \%$ 时，蛋黄比例（ $2 3 . 5 0 \%$ ）最大。饲粮添加CLA对鸡蛋蛋白高度、蛋黄颜色、哈氏单位和蛋黄含水量无显著影响（ $. P { > } 0 . 0 5$ )。结果提示，饲粮添加 $0 . 2 5 \% { \sim } 4 . 3 7 \%$ CLA 可改善蛋壳品质，影响蛋黄比例，不影响其他蛋品质指标。
+
+2.3 饲粮添加CLA对开产蛋鸡蛋黄硬度的影响
+
+由表3可知，随饲粮CLA添加水平的增加，蛋黄硬度（7d: $y = 0 . 2 7 7 5 x + 2 . 2 9 1 8$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } { = } 0 . 9 4 2$ $1 4 { \mathrm { ~ d ~ } }$ ： $y = 0 . 2 5 1 \ 4 x + 2 . 5 2 4 \ 3$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } { = } 0 . 7 9 6$ ）线性增加（ $\cdot < 0 . 0 1$ )。鸡蛋 $4 ^ { \circ } \mathrm { C }$ 保存7d后，与对照组相比， $3 \%$ 、 $4 \%$ CLA添加组的蛋黄硬度显著增加（ $\cdot P { < } 0 . 0 5 )$ ; $5 \%$ CLA 添加组的蛋黄硬度显著高于对照组、 $1 \%$ 和 $2 \%$ CLA 添加组（ $\scriptstyle P < 0 . 0 5 )$ ； $6 \%$ CLA 添加组的蛋黄硬度显著高于其他组（ $\cdot P { < } 0 . 0 5 \$ )。鸡蛋 $4 ^ { \circ } \mathrm { C }$ 保存 $\boldsymbol { 1 4 \mathrm { d } }$ 后， $3 \%$ 、 $4 \%$ 和 $5 \%$ CLA 添加组的蛋黄硬度显著高于对照组、 $1 \%$ 和 $2 \%$ CLA添加组（ $( P { < } 0 . 0 5 )$ ， $6 \%$ CLA添加组的蛋黄硬度显著高于其他组（ $\scriptstyle P < 0 . 0 5 )$ 。随鸡蛋储存时间的延长，蛋黄硬度有升高趋势。结果提示，随饲粮CLA 添加水平和储存时间的增加，蛋黄硬度增加；饲粮CLA 添加水平 $\leqslant 2 \%$ 时，对蛋黄硬度无显著影响；饲粮CLA 添加水平 $\geq 3 \%$ 时，蛋黄硬度显著增加。
+
+2.4饲粮添加CLA对开产蛋鸡蛋黄脂肪酸含量的影响由表4可知，随饲粮CLA添加水平的增加，蛋黄中C16:1、C18:1、C18:2、C20:4、单不饱和脂肪酸（monounsaturated fatty acid，MUFA）、多不饱和脂肪酸（polysaturated fatt acid，PUFA）和非共轭亚油酸多不饱和脂肪酸（Non-CLAPUFA）含量显著降低（ $\cdot P { < } 0 . 0 1 \$ ，C14:0、C20:0 和C21:0含量显著增加（ $P$ ${ < } 0 . 0 1 \dot { ) }$ ； $1 \%$ 和 $2 \%$ CLA 添加组的C16:0、C18:0 和饱和脂肪酸（saturated fatty acid，SFA）含量显著低于其他组（ $\scriptstyle P < 0 . 0 5 ,$ ； $1 \%$ 和 $2 \%$ CLA 添加组的C17:0 含量显著低于 $3 \%$ 、 $4 \%$ 、 $5 \%$ 和 $6 \%$ CLA 添加组（ $P <$ 0.05)，与对照组相比有降低趋势。根据回归方程（C16:0： $y = 0 . 7 9 6 8 x ^ { 2 } - 1 . 9 3 3 2 x + 5 9 . 1 5 1$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 }$ $= 0 . 6 3 4$ ； C18:0: $y = 0 . 6 4 0 \ 7 x ^ { 2 } - 1 . 8 1 6 \ 4 x + 1 5 . 0 1 3$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } { = } 0 . 9 0 3$ ； SFA: $y = 1 . 9 6 4 4 x ^ { 2 } - 4 . 7 0 6 8 x +$ 77.42, $P { < } 0 . 0 1$ ， $R ^ { 2 } { = } 0 . 9 0 2 \rangle$ ，饲粮CLA添加水平分别为 $1 . 2 1 \%$ 、 $1 . 4 2 \%$ 和 $1 . 2 0 \%$ 时，蛋黄中C16:0、C18:0和 SFA含量最低（分别为57.98、13.73和 $7 4 . 6 0 \ : \mathrm { m g / g } )$ ；根据 MUFA的回归方程 $\left( y = 2 . 1 9 6 4 x ^ { 2 } - 1 6 . 9 3 8 x \right.$ $+ 5 9 . 3 8 1$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } { = } 0 . 8 7 3$ )，饲粮CLA 添加水平为 $3 . 8 6 \%$ 时，蛋黄中MUFA含量最低（ $\cdot 2 6 . 7 3 \mathrm { m g / g } )$ 。蛋黄中 $_ { c 9 , t 1 1 - C \mathrm { L A } }$ $\left( y = 0 . 4 3 4 4 x ^ { 2 } - 0 . 3 1 2 5 x + 0 . 5 8 3 1 \right.$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } { = } 0 . 9 9 4$ ）、t10,c12-CLA $\stackrel { \prime } { \cdot } y = 0 . 2 9 2 \ 5 x ^ { 2 }$ $- 0 . 1 8 7 5 x + 0 . 4 0 1 4$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } = 0 . 9 7 4$ ）和CLA含量 $\left( { { y = 0 . 7 2 7 4 } { x ^ { 2 } } - 0 . 5 0 2 9 { x } + 0 . 9 8 5 5 } \right.$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 }$ （204号$= 0 . 9 9 0 )$ 随饲粮CLA添加水平的增加呈显著二次升高( $( P { < } 0 . 0 1 )$ ，且 $_ { c 9 , t 1 1 }$ -CLA的富集量大于 $^ { t 1 0 , c 1 2 }$ -CLA。由表5可知，随饲粮CLA 添加水平的增加，蛋中MUFA、PUFA和Non-CLA PUFA含量显著降低（ $P$   
+${ < } 0 . 0 1 \dot  \$ ），c9,t11-CLA $\left( y = 2 . 2 2 5 ~ 4 x ^ { 2 } - 0 . 0 0 8 ~ 2 x + 3 . 2 4 9 ~ 3 \right.$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } { = } 0 . 9 9 5$ ）、 $^ { t 1 0 , c 1 2 }$ -CLA $\stackrel { \prime } { y } = 1 . 4 7 6 ~ 8 x ^ { 2 }$   
+$+ 0 . 2 6 3 9 x + 2 . 1 7 1 4$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } { = } 0 . 9 7 2$ ）和CLA含量 $( y = 3 . 7 0 2 5 x ^ { 2 } + 0 . 2 5 3 9 x + 5 . 4 2 5 7$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } =$   
+0.990）呈显著二次升高（ $P { < } 0 . 0 1$ 。 $1 \%$ 和 $2 \%$ CLA 添加组的 SFA含量显著低于其他组（ $\scriptstyle \cdot < 0 . 0 5 .$ )。根据回  
+归方程 $( y = 8 . 3 8 5 x ^ { 2 } - 2 0 . 9 5 9 x + 5 1 6 . 2 9$ ， $P { < } 0 . 0 1$ ， $R ^ { 2 } = 0 . 7 8 5$ )，饲粮CLA 添加水平为 $1 . 2 5 \%$ 时，每枚蛋中  
+SFA含量最低（ $5 0 8 . 4 3 ~ \mathrm { m g } { \mathrm { , } }$ ；根据回归方程， $6 \%$ CLA 添加组的每枚蛋中 $^ { \scriptstyle } c 9 , t 1 1$ -CLA、 $^ { t 1 0 , c 1 2 }$ -CLA 和 CLA  
+含量最高可达到83.31、56.92 和 $1 4 0 . 2 4 ~ \mathrm { m g }$ 。结果提示，饲粮添加 $1 \% { \sim } 2 \%$ CLA 可以降低蛋黄中的 SFA 含量，  
+且蛋黄中可富集一定量的CLA。
+
+3讨论
+
+3.1饲粮添加CLA对开产蛋鸡生产性能的影响
+
+鸡蛋营养丰富，是人们从日常饮食中获得优质蛋白质和脂类的重要来源之一，CLA具有多种生理功能，将其与蛋鸡结合，在不给蛋鸡产生负面影响的同时，将CLA高效富集在鸡蛋中，提高其附加值、平衡人类膳食，改善人类健康，有深远的意义。
+
+本试验表明，饲粮添加 $1 \% \sim 2 \%$ CLA对开产蛋鸡的平均日采食量、产蛋率、料蛋比、平均蛋重、蛋黄比例和腹脂率均无显著影响，但随饲粮CLA 添加水平的增加，平均日采食量、产蛋率、平均蛋重、蛋黄比重线性降低，与 Shang 等的结果一致。饲粮CLA 添加水平、蛋鸡品种和周龄对平均日采食量、产蛋率、料蛋比和平均蛋重都有较大影响，研究表明，饲粮添加 $0 . 5 \%$ 和 $1 . 0 \%$ CLA 可改善海兰白蛋鸡的生产性能，产蛋率、蛋重和采食量均有所上升，而 $2 . 0 \%$ CLA 添加组则相反[10]；饲粮添加 $5 \%$ CLA 显著影响 26 周龄白莱航蛋鸡的平均蛋重和蛋黄重，对体增重和采食量则无显著影响，但饲粮添加 $5 \%$ CLA显著降低62周龄白莱航蛋鸡的采食量，对产蛋率、平均蛋重、蛋黄重和体增重无显著影响[]。本试验中平均蛋重降低和料蛋比增加可能是因为饲粮CLA 添加水平 $\geq 3 \%$ 引起平均日采食量和产蛋率降低所致。本试验表明，饲粮添加CLA对蛋鸡的体增重无显著影响，但腹脂率随饲粮CLA添加水平的增加而线性降低，可能与CLA 降低生长激素含量，下调过氧化物酶体增殖物激活受体γ表达量，抑制前脂肪细胞的分化有关[12l；或因CLA 激活过氧化物酶体增殖物激活受体，诱导肝脏、肌肉和褐色脂肪组织中过氧化物酶体增殖物激活受体 $\mathfrak { a }$ 调控肉碱棕榈酰转移酶、酰基辅酶 A氧化酶、解偶联蛋白等的表达，增加了脂肪酸β氧化[4]；其中，t10,c12-CLA减少脂肪的作用更为明显[13]。
+
+# 3.2饲粮添加CLA对开产蛋鸡蛋品质的影响
+
+本研究结果表明，饲粮添加CLA对鸡蛋的蛋白高度、蛋黄颜色、哈氏单位、蛋壳强度和蛋黄含水量无显著影响，与课题组的前期研究结果一致[5]。 $2 \% \sim 4 \%$ CLA 添加组的蛋壳厚度大于其他组，蛋壳强度也有增加趋势，可能是CLA 提高血清 $\mathrm { C a } ^ { 2 + }$ 、 $\mathbf { P } ^ { 5 + }$ 含量及碱性磷酸酶活性，增加血清雌二醇含量，促使蛋壳腺对钙、磷的分泌与沉积增加[10]，或者是CLA 调节促生长因子和胰岛素样生长因子结合蛋白-3的水平影响肠道钙的吸收[14]。
+
+# 3.3饲粮添加CLA对开产蛋鸡蛋黄硬度的影响
+
+鸡蛋煮熟后蛋黄酥软程度往往是消费者购买时要考虑的重要因素，本研究表明，富含CLA的熟蛋黄硬度显著增加，弹性更大且难以破碎，随着储存时间的延长该效果更为明显，与已有研究结果一致[.9,15]。熟蛋黄硬度的增加可能与蛋黄内 $\mathrm { \Delta N a ^ { + } }$ 、 $\mathrm { K } ^ { + }$ 和 $\mathrm { M g ^ { 2 + } }$ 离子浓度升高、 $\mathrm { C a } ^ { 2 + }$ 离子浓度降低、蛋黄pH升高以及蛋黄含水量的变化有关[10.16]；也认为CLA 可能影响了蛋黄膜的通透性，Shinn 等[17]研究富含CLA 的鸡蛋蛋黄膜
+
+（vitelline membrane，VM）发现，鸡蛋VM中C18:0含量显著增加，C16:1、C18:1含量显著降低，认为是CLA 抑制了硬脂酰辅酶 A去饱和酶-1（stearoyl-coenzyme Adesaturase-1，SCD-1）活性，从而阻止了VM中C18:0 转换为C18:1，进而影响了细胞膜的通透性，导致蛋黄内外产生变化，熟蛋黄硬度增加。本试验研究发现，随饲粮CLA 添加水平的增加，蛋黄中 SFA含量显著增加，MUFA含量显著降低，蛋黄硬度显著增加，与前人研究结果一致[5,16]，认为蛋黄硬度的变化是因为CLA增加了蛋黄中 SFA 含量，减少了MUFA含量。目前认为影响蛋黄硬度的原因是CLA影响蛋黄脂肪酸组成，改变了蛋黄含水量和pH，改变了蛋黄膜的通透性，影响蛋黄和蛋清中离子浓度的变化。
+
+3.4饲粮添加CLA对开产蛋鸡蛋黄脂肪酸组成的影响
+
+饲粮CLA 添加水平 $\geq 4 \%$ 时显著增加蛋黄中的 SFA（C14:0、C16:0、C17:0、C18:0）含量，显著降低MUFA（C16:1、C18:1）含量，这与前人研究结果[5.9,15]一致，不同的是 $1 \%$ 、 $2 \%$ CLA 添加组蛋黄中C16:0、C18:0、SFA含量未增加，反而有下降的趋势，该结果与其他试验结果的差异，可能是因为本试验选用玉米油作为对照组，而其他试验选用豆油作为对照组。玉米油中C16:0 含量低于豆油，C18:2 含量高于豆油，使得蛋鸡对脂肪酸的代谢与其他试验产生差异；与Qi等[5]（56 周龄海兰褐蛋鸡）研究结果的差异可能是由于本试验选用18 周龄海兰褐蛋鸡，脂肪酸的代谢旺盛，添加低剂量CLA未显著影响蛋黄中 SFA含量。Aydin等[18]研究表明， $0 . 5 \%$ CLA与 $10 \%$ 橄榄油复合饲喂蛋鸡，蛋黄中C16:0 和 SFA 含量与对照组相比有降低趋势，表明CLA与富含不饱和脂肪酸的植物油混合添加可以缓减CLA 对蛋黄脂肪酸组成的影响。研究认为，蛋鸡饲粮添加CLA增加蛋黄中C16:0、C18:0 含量的原因是CLA抑制了肝脏中 SCD-1的活性，SCD-1与还原型辅酶ⅡI、细胞色素b5 还原酶、细胞色素b5共同作用于C16:0和C18:0，在其碳链中引入1个双键，形成 C16:1与C18:1[19]，所以导致 SFA 含量增加而MUFA含量减少。研究表明，饲粮添加CLA显著降低蛋鸡肝脏 SCD-1活性和mRNA 表达量[20]，因此蛋黄中 SFA含量升高而 MUFA 含量降低。本试验中，蛋黄中c9,t11-CLA、t10,c12-CLA、CLA含量随饲粮CLA添加水平的增加显著升高，此外，CLA的2种同分异构体在蛋黄中的富集量也不同,c9,t11-CLA的富集量大于 $t 1 0 , c 1 2 { \mathrm { - C L A } }$ ，高达1.47倍，与前人研究结果一致[5,9,21],其原因可能是 $t 1 0 , c 1 2 { \mathrm { - C L A } }$ 在机体中更易被代谢或参与发挥其他生理功能而损耗。
+
+关于CLA在鸡蛋中富集量的报道差异较大，饲粮添加 $5 \%$ CLA 可使每枚鸡蛋含 $3 1 0 { \sim } 3 6 5 ~ \mathrm { m g C L A ^ { [ 1 1 ] } }$ 甚至饲粮添加 $2 \%$ CLA，就能达到 $4 0 0 \mathrm { m g / }$ 枚CLA[22]。与上述结果不同，本试验中，饲粮添加 $2 \%$ CLA，每枚蛋可富含 $2 1 . 2 8 \ : \mathrm { m g } \ : \mathrm { C L A }$ ，饲粮添加 $5 \%$ CLA 可使鸡蛋含 $8 9 . 9 7 \mathrm { m g / }$ 枚CLA，可能与蛋鸡品种、周龄、饲养环境有关。CLA不同异构体在蛋黄中的富集量有别，c9,tl1-CLA 沉积量高于 $t 1 0 , c 1 2 \mathrm { - C L A } ^ { [ 9 , 1 5 ] }$ ，与本试验结果一致。Shang 等[9]（矮小型褐壳蛋鸡，豆油+CLA油）认为饲粮CLA 添加水平 $\geqslant 5 . 0 \%$ 时，蛋黄中CLA含量并未受显著影响，表明CLA不会在鸡蛋中无限富集，与本试验（海兰褐壳蛋鸡，玉米油 $+ \mathrm { C L A }$ 油）结果不同，本试验结果表明，鸡蛋中CLA含量与饲粮CLA 添加水平呈二次曲线关系，饲粮添加 $1 \% \sim 6 \%$ CLA,鸡蛋中CLA 含量一直增加，未出现最大富集值，可能是蛋鸡品种的差异及饲粮油脂组成不同所导致。
+
+4结论
+
+$\textcircled{1}$ 饲粮添加CLA 影响蛋鸡的生产性能，且有剂量依赖效应， $1 \%$ 和 $2 \%$ CLA 对蛋鸡的生产性能无显著影响；饲粮CLA 添加水平 $\geq 3 \%$ 时则影响产蛋率、平均日采食量和料蛋比，降低腹脂率。  
+$\textcircled{2}$ 饲粮添加 $0 . 2 5 \% { \sim } 4 . 3 7 \%$ CLA 可改善蛋壳品质，影响蛋黄比例，对其他蛋品质指标无显著影响。  
+$\textcircled{3}$ 随饲粮CLA 添加水平和储存时间的增加，蛋黄硬度增加；饲粮CLA 添加水平 $\leqslant 2 \%$ 时，对蛋黄硬度无显著影响，饲粮CLA添加水平 $\geq 3 \%$ 时，显著增加蛋黄硬度。  
+$\textcircled{4}$ （20号 饲粮添加 $1 \% \sim 2 \%$ CLA 可以降低蛋黄中 SFA含量，且蛋黄中可富集一定量的CLA。
+
+项目Items 含量Content  
+原料Ingredients  
+玉米Corn 42.83  
+豆粕 Soybean meal 23.50  
+棉籽蛋白 Cottonseed protein 5.00  
+小麦麸 Wheat bran 9.00  
+玉米油 Corn oil 7.37  
+石粉Limestone 9.00  
+磷酸氢钙 $\mathrm { C a H P O _ { 4 } }$ 0.90  
+食盐 NaCl 0.30  
+DL-蛋氨酸DL-Met 0.10  
+预混料 Premixl 1.95  
+乙氧基喹啉 Ethoxyquin 0.05  
+合计 Total 100.00  
+营养水平 Nutrients levels2)  
+代谢能ME/( $\mathrm { \Delta \cdot { M J / k g } }$ ） 12.19  
+粗蛋白质 CP 17.83  
+钙Ca 3.45  
+有效磷 AP 0.29  
+赖氨酸Lys 0.92  
+蛋氨酸Met 0.38  
+蛋氨酸 $^ +$ 半胱氨酸Met+Cys 0.71
+
+1预混料为每千克饲粮提供 Premix provided the following per kg of the diet: VA12 500IU，VD34125IU，VE15 IU，VK $2 \ : \mathrm { m g }$ ，硫胺素thiamine $1 \mathrm { m g }$ ，核黄素riboflavin $8 . 5 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 1 \mathrm { m g }$ ，烟酸niacin $3 2 . 5 \mathrm { m g }$ ，吡哆醇 pyridoxine $8 \ : \mathrm { m g }$ ，生物素 biotin $0 . 5 ~ \mathrm { m g }$ ，叶酸 folic acid $1 . 2 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$
+
+Mn $6 5 ~ \mathrm { m g }$ ， $\mathrm { ~ I ~ l ~ m g ~ }$ ，Fe $6 0 ~ \mathrm { m g }$ ， $\mathrm { C u } 8 \mathrm { m g }$ ， $Z n 6 6 { \mathrm { m g } }$ ，胆碱choline $1 0 0 0 \mathrm { m g }$ ，植酸酶 phytase $3 0 0 ~ \mathrm { { m g } }$ ，蒙脱石 montmorillonite $1 0 0 0 \mathrm { m g }$ ，酵母培养物 yeast culture 10
+
+2)营养水平为计算值。Nutrients levels were calculated values.
+
+表2饲粮添加CLA对开产蛋鸡生产性能的影响  
+  
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="7">饲根（ A添加水一 Asupplementallevel/%</td><td rowspan="2">SEM</td><td colspan="3">P-值P-value</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>ANOVA</td><td>一次 Liner</td><td>二次 Quadratic</td></tr><tr><td>平均日采食量 ADFI/g</td><td>95.06±3.29a</td><td>93.41±2.58ab</td><td>93.12±1.97ab</td><td>91.21±4.40abc</td><td>89.77±3.42bc</td><td>88.33±1.97cd</td><td>85.38±5.05d</td><td>0.69</td><td><0.01</td><td><0.01</td><td>0.381</td></tr><tr><td>产蛋率 LR/%</td><td>75.53±5.02a</td><td>72.77±5.67ab</td><td>70.02±4.70abc</td><td>64.60±9.42bcd</td><td>65.99±7.90bcd</td><td>62.95±5.74cd</td><td>57.97±6.54d</td><td>1.30</td><td><0.01</td><td><0.01</td><td>0.967</td></tr><tr><td>料蛋比F/E</td><td>2.23±0.08c</td><td>2.29±0.17c</td><td>2.42±0.16abc</td><td>2.49±0.33abc</td><td>2.31±0.29bc</td><td>2.58±0.12ab</td><td>2.64±0.29a</td><td>0.04</td><td>0.027</td><td><0.01</td><td>0.842</td></tr><tr><td>平均蛋重 AEW/g</td><td>55.78±1.63a</td><td>56.03±1.53a</td><td>55.12±1.29a</td><td>56.23±1.13a</td><td>55.31±0.35a</td><td>53.60±1.47b</td><td>53.09±1.08b</td><td>0.25</td><td><0.01</td><td><0.01</td><td>0.017</td></tr><tr><td>初始体重 IBW/g</td><td>1 721.50±60.51</td><td>1 693.67±32.39</td><td>1 681.60±37.77</td><td>1 711.00±35.58</td><td>1 696.35±23.12</td><td>1 688.89±8.55</td><td>1 689.87±38.48</td><td>5.63</td><td>0.528</td><td>0.270</td><td>0.562</td></tr><tr><td>体增重 BWG/g</td><td>58.99±63.72</td><td>85.72±28.83</td><td>92.90±61.04</td><td>53.95±59.49</td><td>59.37±75.82</td><td>47.44±47.03</td><td>52.54±38.93</td><td>8.32</td><td>0.727</td><td>0.288</td><td>0.584</td></tr><tr><td>腹脂率 AFR/%</td><td>2.69±0.56ab</td><td>2.84±0.49a</td><td>2.44±0.42bc</td><td>2.25±0.30bc</td><td>1.84±0.68cd</td><td>1.82±0.22cd</td><td>1.43±0.31d</td><td>0.10</td><td><0.01</td><td><0.01</td><td>0.461</td></tr></table></body></html>
+
+Table 2Effects of dietary CLA on performance of primiparous laying hens   
+表3饲粮添加CLA对开产蛋鸡蛋品质和蛋黄硬度的影响  
+Table 3 Effects of dietary CLA on egg quality and yolk firmness of primiparous laying hens   
+
+<html><body><table><tr><td></td><td>饲粮 CLA 添加水平 Dietary CLA supplemental level/%</td><td></td><td></td><td></td><td></td><td></td><td colspan="3">P值 P-value</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>SE</td><td></td><td>一次二次</td><td></td></tr><tr><td>0 1</td><td></td><td>3</td><td>4</td><td>5</td><td>6</td><td>M</td><td>ANOV</td><td>Line</td><td>Ouiadr</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著 （ $\scriptstyle { \left. { \begin{array} { l } { P < 0 . 0 5 } \end{array} } \right. }$ ，相同或无字母表示差异不显著（ $\cdot P { > } 0 . 0 5 )$ 。下表同。In the same row, values with different small letter superscripts mean significant difference( $\cdot P { < } 0 . 0 5 \dot  $ ，while with the same or no lettr superscripts mean no significantdifference( $P { > } 0 . 0 5 \$ ）.The same as below.
+
+项目Items
+
+表4饲粮添加CLA对开产蛋鸡蛋黄脂肪酸含量的影响（干物质基础）  
+
+<html><body><table><tr><td>蛋壳厚度 ET/mm</td><td>0.42±0.03bc</td><td>0.42±0.03c</td><td>0.44±0.02ab</td><td>0.44±0.02ab</td><td>0.45±0.02a</td><td>0.42±0.03c</td><td>0.43±0.02abc</td><td>0.00</td><td><0.01</td><td>0.214</td><td><0.01</td></tr><tr><td>蛋壳强度 ES/（N/m²）</td><td>33.48±7.06</td><td>33.21±6.00</td><td>34.30±6.74</td><td>34.96±6.24</td><td>35.99±5.30</td><td>33.29±7.87</td><td>33.82±5.25</td><td>0.58</td><td>0.875</td><td>0.739</td><td>0.339</td></tr><tr><td>蛋白高度 AH/mm</td><td>6.79±0.60</td><td>6.00±0.91</td><td>6.15±0.70</td><td>6.55±0.92</td><td>6.04±0.53</td><td>6.11±0.60</td><td>6.21±0.48</td><td>0.11</td><td>0.407</td><td>0.305</td><td>0.409</td></tr><tr><td>蛋黄颜色 YC</td><td>4.83±0.69</td><td>4.50±0.28</td><td>4.89±0.34</td><td>4.67±0.56</td><td>4.83±0.46</td><td>4.83±0.72</td><td>4.67±0.30</td><td>0.08</td><td>0.839</td><td>0.920</td><td>0.862</td></tr><tr><td>哈氏单位 HU</td><td>82.31±2.20</td><td>77.28±6.68</td><td>76.92±4.14</td><td>80.43±7.07</td><td>77.52±4.76</td><td>79.51±4.35</td><td>79.72±3.05</td><td>0.78</td><td>0.537</td><td>0.815</td><td>0.213</td></tr><tr><td>蛋黄比例 YP/%</td><td>23.13±0.97ab</td><td>23.87±0.94a</td><td>23.69±0.98a</td><td>22.60±0.55bc</td><td>22.49±0.51bed</td><td>21.61±0.77cd</td><td>21.50±0.60d</td><td>0.18</td><td><0.01</td><td><0.01</td><td>0.069</td></tr><tr><td>蛋黄含水量 YWC/%</td><td>48.77±0.53</td><td>48.70±0.23</td><td>48.76±0.33</td><td>48.87±0.17</td><td>48.72±0.34</td><td>48.82±0.31</td><td>49.19±0.51</td><td>0.06</td><td>0.303</td><td>0.08</td><td>0.175</td></tr><tr><td>蛋黄硬度 YF/N (7 d)</td><td>2.40±0.27e</td><td>2.53±0.32de</td><td>2.90±0.33cde</td><td>3.08±0.50bc</td><td>3.19±0.52bc</td><td>3.57±0.50b</td><td>4.20±0.57a</td><td>0.11</td><td><0.01</td><td><0.01</td><td>0.156</td></tr><tr><td>蛋黄硬度 YF/N (14 d)</td><td>2.73±0.28c</td><td>2.66±0.33c</td><td>2.73±0.26c</td><td>3.52±0.56b</td><td>3.64±0.54b</td><td>3.37±0.54b</td><td>4.30±0.71a</td><td>0.11</td><td><0.01</td><td><0.01</td><td>0.279</td></tr></table></body></html>
+
+Table 4Effects of dietary CLA on fatty acids contents of egg yolk of primiparous laying hens（DM basis） mg/g   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="8">饲粮 CLA 添加水平 Dietary CLA supplemental level/%</td><td rowspan="2"></td><td colspan="2">P值 P-value</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>SEM ANOVA</td><td>一次 Liner</td><td>二次 Quadratic</td></tr><tr><td>C14:0</td><td>0.95±0.39b</td><td>0.99±0.30b</td><td>1.11±0.33ab</td><td>1.35±0.26ab</td><td>1.35±0.23ab</td><td>1.43±0.23a</td><td>1.43±0.30a</td><td>0.05</td><td>0.031</td><td><0.01</td><td>0.465</td></tr><tr><td>C16:0</td><td>62.76±3.85c</td><td>55.83±4.55d</td><td>50.42±3.12d</td><td>63.21±7.00c</td><td>66.88±4.16bc</td><td>72.14±4.17ab</td><td>74.73±5.45a</td><td>1.44</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>C16:1</td><td>2.21±0.42a</td><td>1.01±0.22b</td><td>1.14±0.15b</td><td>1.10±0.25b</td><td>0.92±0.87b</td><td>0.87±0.29b</td><td>1.00±0.13b</td><td>0.07</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>C17:0</td><td>0.41±0.08bc</td><td>0.30±0.04c</td><td>0.29±0.06c</td><td>0.52±0.01ab</td><td>0.51±0.04b</td><td>0.65±0.10a</td><td>0.91±0.19a</td><td>0.04</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>C18:0</td><td>16.62±1.17c</td><td>12.10±1.84d</td><td>12.19±0.80d</td><td>15.74±1.39c</td><td>20.55±2.11b</td><td>21.67±2.61b</td><td>26.38±2.25a</td><td>0.83</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>C18:1</td><td>61.66±4.94a</td><td>36.02±9.62b</td><td>27.53±1.44c</td><td>29.37±3.13bc</td><td>31.35±7.36bc</td><td>29.65±5.93bc</td><td>32.97±6.06bc</td><td>1.89</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>C18:2</td><td>64.68±4.83a</td><td>46.84±9.03b</td><td>39.78±1.88b</td><td>40.46±3.25b</td><td>40.08±5.85b</td><td>28.02±6.67c</td><td>29.47±5.01c</td><td>1.95</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>c9,t11-CLA</td><td>0.21±0.04f</td><td>1.18±0.27e</td><td>1.78±0.13e</td><td>3.83±0.29d</td><td>5.80±0.63c</td><td>9.55±0.62b</td><td>14.70±0.95a</td><td>0.78</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>t10,c12-CLA</td><td>0.15±0.03f</td><td>0.65±0.19f</td><td>1.40±0.35e</td><td>2.84±0.34d</td><td>4.34±0.46c</td><td>5.63±0.30b</td><td>10.48±1.19a</td><td>0.54</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>C20:0</td><td>0.67±0.13e</td><td>1.39±0.35de</td><td>1.68±0.50d</td><td>3.35±0.63c</td><td>5.61±0.98b</td><td>4.75±0.64b</td><td>9.80±1.11a</td><td>0.48</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>C21:0</td><td>0.64±0.24e</td><td>0.63±0.16e</td><td>1.00±0.19de</td><td>1.36±0.37cd</td><td>1.71±0.42bc</td><td>1.83±0.35b</td><td>4.08±0.56a</td><td>0.19</td><td><0.01</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+表5饲粮CLA对开产蛋鸡蛋中脂肪酸含量的影响   
+
+<html><body><table><tr><td>C20:4</td><td>3.48±0.32a</td><td>2.19±0.26b</td><td>1.55±0.25c</td><td>1.36±0.11c</td><td>1.28±0.26c</td><td>1.31±0.32c</td><td>1.38±0.24c</td><td>0.12</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>SFA</td><td>82.05±4.55c</td><td>71.23±4.52d</td><td>66.67±3.25d</td><td>85.52±8.11c</td><td>96.60±5.27b</td><td>102.46±5.92b</td><td>117.33±6.45a</td><td>2.78</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>MUFA</td><td>63.87±5.09a</td><td>40.09±5.89b</td><td>28.67±1.57c</td><td>30.47±3.27c</td><td>32.27±7.516</td><td>30.51±6.09c</td><td>33.97±6.17bc</td><td>1.91</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>PUFA</td><td>68.32±4.81a</td><td>50.78±9.50bc</td><td>44.52±1.96c</td><td>48.65±3.66bc</td><td>51.87±6.63bc</td><td>44.67±7.21c</td><td>56.32±7.34b</td><td>1.50</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>Non-CLA PUFA</td><td>67.96±4.82a</td><td>48.95±9.38b</td><td>41.33±1.81b</td><td>41.98±3.47b</td><td>41.73±6.40b</td><td>29.50±6.92c</td><td>31.15±5.44c</td><td>2.04</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>CLA</td><td>0.36±0.06g</td><td>1.83±0.45f</td><td>3.18±0.46e</td><td>6.66±0.51d</td><td>10.14±1.08c</td><td>15.18±0.54b</td><td>25.18±2.14a</td><td>1.32</td><td><0.01</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+Table 5Efects of dietary CLA on fatty acids contents ofegg yolk of primiparous laying hens(mg/egg）   
+项目Items  
+饲粮CLA 添加水平 Dietary CLA supplemental level/%   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">0</td><td rowspan="2">1</td><td rowspan="2">2</td><td rowspan="2">3</td><td rowspan="2">4</td><td rowspan="2">5</td><td rowspan="2">6</td><td rowspan="2">SEM</td><td rowspan="2">ANOVA</td><td colspan="2">一次</td></tr><tr><td>Liner</td><td>二次 Quadratic</td></tr><tr><td>c9,t11-CLA</td><td>1.40±0.24f</td><td>8.07±1.87e</td><td>11.91±0.86e</td><td>24.88±1.86d</td><td>36.99±4.01c</td><td>56.60±3.68b</td><td>85.23±5.52a</td><td>4.49</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>t10,c12-CLA</td><td>1.00±0.17f</td><td>4.48±1.33f</td><td>9.36±2.35e</td><td>18.43±2.23d</td><td>27.70±2.95c</td><td>33.37±1.75b</td><td>60.79±6.88a</td><td>3.12</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>CLA</td><td>2.40±0.40g</td><td>12.56±3.09f</td><td>21.28±3.06e</td><td>43.30±3.31d</td><td>64.70±6.87c</td><td>89.97±3.20b</td><td>146.03±12.38a</td><td>7.59</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>SFA</td><td>542.35±30.10c</td><td>488.7±31.05d</td><td>446.12±21.75d</td><td>555.68±52.70c</td><td>616.21±33.61b</td><td>607.41±35.09b</td><td>680.46±37.40a</td><td>12.86</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>MUFA</td><td>422.17±33.63a</td><td>275.08±40.41b</td><td>191.83±10.47c</td><td>197.97±21.22c</td><td>205.85±47.91c</td><td>180.90±36.15c</td><td>197.00±35.77c</td><td>13.24</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>PUFA</td><td>451.57±31.79a</td><td>348.38±65.21b</td><td>297.85±13.08bc</td><td>316.10±23.81bc</td><td>330.86±42.29b</td><td>264.84±42.76</td><td>326.66±45.28b</td><td>10.24</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>Non-CLA PUFA</td><td>449.17±31.86a</td><td>335.82±64.34b</td><td>276.58±64.34c</td><td>272.80±22.55bc</td><td>266.16±40.79c</td><td>174.87±41.01d</td><td>180.63±31.56d</td><td>14.71</td><td><0.01</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+# 参考文献:
+
+[1] CHIN S F,LIU W,STORKSON J M,et al.Dietary sources of conjugated dienoic isomers of linoleic acid,a newly recognized class of anticarcinogens[J].Journal of Food Composition and Analysis,1992,5(3):185-197.
+
+[2] PARIZA M W,PARK Y,COOK M E.The biologically active isomers of conjugated linoleic acid[J].Progress in Lipid Research,2001,40(4):283-298.
+
+[3] BHATTACHARYA A,BANU J,RAHMAN M,et al.Biological effects of conjugated linoleic acids in health and disease[J].The Journal of Nutritional Biochemistry,2006,17(12):789-810.
+
+[4]KOBA K,YANAGITA T.Health benefits of conjugated linoleic acid (CLA)[J].Obesity Research & Clinical Practice,2014,8(6):e525-e532.
+
+[5] QI X L,WU S G,ZHANG H J,et al.Effects of dietary conjugated linoleic acids on lipid metabolismandantioxidantcapacityinlayinghens[J].ArchivesofAnimal Nutriti0n,2011,65(5):354-365.
+
+[6]LONG F Y,YANG X,GUO Y M,et al.Conjugated linoleic acidsalleviate the immunosuppression of peripheral blood T lymphocytes in broiler chickens exposed to cyclosporin A[J].Poultry Science,2012,91(10):2431-2437.
+
+[7] KIM J,PARK Y,LEE S H,et al.trans-10,cis-12 Conjugated linoleic acid promotes bone formationbyinhibitingadipogenesisbyperoxisomeproliferatoractivated receptor- $\gamma$ dependent mechanisms and by directly enhancing osteoblastogenesis from bone marrow mesenchymal stem cells[J].The Journal of Nutritional Biochemistry,2013,24(4):672-679.
+
+[8] AHN D U,SELL JL,JO C,et al.Effect of dietary conjugated linoleic acid on the quality characteristics of chicken eggs during refrigerated storage[J].Poultry Science,1999,78(6):922-928.
+
+[9] SHANG X G,WANG F L,LI D F,et al.Effects of dietary conjugated linoleic acid on the productivity of laying hensand egg quality during refrigerated storage[J].Poultry Science,2004,83(10):1688-1695.
+
+[10] 刘雪兰,石天虹,井庆川,等.共轭亚油酸对蛋鸡生产性能、蛋壳质量和血清生化指标的影响[J].动物营养学报,2012,24(5):926-932.
+
+[11] CHAMRUSPOLLERT M,SELL JL.Transfer of dietary conjugated linoleic acid to egg yolks of chickens[J].Poultry Science,1999,78(8):1138-1150.
+
+[12] ROYAN M,MENG G Y,OTHMAN F,et al.Effects of conjugated linoleic acid,fish oil and soybean oil on PPARs( $\overset { \cdot } { \mathtt { a } }$ & γ)mRNA expression in broiler chickens and their relation to body fat deposits[J].International Journal of Molecular Sciences,2011,12(12):8581-8595.
+
+[13] WANG Y M,NAGAO K,INOUE N,et al.Isomer-specific anti-obese and hypolipidemic properties of conjugated linoleic acid in obese OLETF rats[J].Bioscience,Biotechnology,and Biochemistry,2006,70(2):355-362.
+
+[14] KELLY O,CUSACK S,JEWELL C,et al.The effect of polyunsaturated fatty acids,including conjugated linoleic acid,on calcium absorption and bone metabolism and composition in young growing rats[J].British Journal of Nutrition,2003,90(4):743-750.
+
+[15] WATKINS B A,FENG S L,STROM A K,et al.Conjugated linoleic acids alter the fatty acid composition and physical properties of egg yolk and albumen[J].Journal of Agricultural and Food Chemistry,2003,51(23):6870-6876.
+
+[16] CHERIAN G,TRABER M G,GOEGER M P,et al.Conjugated linoleic acid and fish oil in laying hen diets:effects on egg fatty acids,thiobarbituric acid reactive substances,and tocopherols during storage[J].Poultry Science,2007,86(5):953-958.
+
+[17] SHINN S E,LIYANAGE R,LAY J O,Jr.,et al.Isolation and characterization of chicken yolk vitelline membrane lipids using eggs enriched with conjugated linoleic acid[J].Lipids,2016,51(6):769-779.
+
+[18] AYDIN R,PARIZA M W,COOK M E.Olive oil prevents the adverse eects of dietary conjugated linoleic acid on chick hatchabilityand egg quality[J].The Journal of Nutriti0n,2001,131(3):800-806.
+
+[19] NTAMBI J M,MIYAZAKI M.Recent insights into stearoyl-CoA desaturase-1[J].Current Opinion in Lipidology,2003,14(3):255-261.
+
+[20] SHANG X G,WANG F L,LI D F,et al.Effect of dietary conjugated linoleic acid on the fatty acid composition of egg yolk,plasma and liver as well as hepatic stearoyl-coenzyme A desaturase activity and gene expression in laying hens[J].Poultry Science,2005,84(12):1886-1892.
+
+[21] KIM JH,HWANGBO J,CHOI N J,et al.Effect of dietary supplementation with conjugated linoleic acid,with oleic,linoleic,or linolenic acid,on egg quality characteristics and fat accumulation in the egg yolk[J].Poultry Science,2007,86(6):1180-1186.
+
+[22] SCHAFER K,MANNER K,SAGREDOS A,et al.Incorporation of dietary linoleic and conjugated linoleic acids and related effects on eggs of laying hens[J].Lipids,2001,36(11):1217-1222.
+
+Effects of Conjugated Linoleic Acid on Performance, Egg Quality, Yolk Firmness and Yolk Fatty Acid Composition of Primiparous Laying Hens
+
+WANG Shenghui1,2SHI Zhaoguo1\* WANG Jing² ZHANG Haijun²QI Guanghai²WU Shugeng2\*ZHANG Tao3
+
+(1. College of Animal Science and Technology, Gansu Agricultural University, Lanzhou 730070, China; 2. Key Laboratory of Feed Biotechnology of Ministry of Agriculture, National Engineering Research Center of Biological Feed, Feed Research Institute, Chinese Academy ofAgricultural Sciences, Beijing 100081, China; 3. Evonik Degussa Co., Ltd., Beijing 100026, China)
+
+Abstract: This experiment was conducted to study the effects of dietary conjugated linoleic acid (CLA) on performance, egg quality, yolk firmness and yolk fatty acid composition of primiparous laying hens. Six hundred and thirty 18-week-old Hy-Line brown laying hens with similar body weight and laying rate were randomly divided into 7 groups with 6 replicates per group and 15 hens per replicate by single factor randomized test design.Laying hens were fed the experimental diets contained 0, $1 \%$ ， $2 \%$ $3 \%$ ， $4 \%$ ， $5 \%$ and $6 \%$ CLA, respectively. The adaptation period lasted forl week and the formal period lasted for 8 weeks.The results showed as follows: 1） the performance and egg quality of laying hens in $1 \%$ and $2 \%$ CLA groups were no significant differences （ $\vert P > 0 . 0 5$ ）. Compared with control group, eggshell thickness in $2 \%$ 0 $3 \%$ and $4 \%$ CLA groups was significantly increased ( $_ { P > 0 . 0 5 }$ ）,laying rate in $3 \%$ 0 $4 \%$ $5 \%$ and $6 \%$ CLA groups was significantly decreased and yolk firmness was significantly increased( $P { < } 0 . 0 5$ ）,average daily feed intake and abdominal fat rate in $4 \%$ $5 \%$ and $6 \%$ groups were significantly decreased ( $P <$ 0.05）,the ratio of feed to egg in $5 \%$ and $6 \%$ CLA groups was significantly increased and yolk percentage was significantly decreased（ $P < 0 . 0 5$ ）.2）The contents of C16:0,C18:0 and saturated fatty acid (SFA) in yolk in $1 \%$ and $2 \%$ CLA groups were significantly lower than those in the other groups（ $P { < } 0 . 0 5$ ）.Compared with control group， the contents of C16:0, C18:0 and SFA in yolk in $4 \%$ 0 $5 \%$ and $6 \%$ groups were significantly increased( $\textstyle P { \ < } 0 . 0 5 $ ）,and the contents of C16:1, C18:1, monounsaturated fatty acid (MUFA) and polyunsaturated fatty acid (PUFA) were significantly decreased( $P { < } 0 . 0 5$ ）. The content of CLA in yolk was quadratically significantly increasedwith the increase of CLA supplemental level（ $P < 0 . 0 1$ ）．The enrichment of c9,t11-CLA in yolk was 1.47 times of $^ { t 1 0 , c 1 2 }$ -CLA. It is concluded that diet supplemented with （204号 $2 \%$ CLA can improve the quality of eggshell, decrease the content of SFA in yolk and a certain amount of CLA can be enriched in yolk,and has no effects on performance and egg quality of laying hens.
+
+Key words: conjugated linoleic acid; primiparous laying hens; performance; yolk firmness; yolk fatty acid composition

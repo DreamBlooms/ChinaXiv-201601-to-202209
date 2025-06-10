@@ -1,0 +1,145 @@
+# 梭梭射线组织特征与非结构性碳水化合物含量的关系
+
+周朝彬1,²，王梦瑶²，龚伟（1．四川农业大学林学院,生态林业工程省级重点实验室,四川 成都611130;2．石河子大学农学院,新疆 石河子832000)
+
+摘要：目前，木质部射线组织与非结构性碳水化合物(NSC)含量之间的关系还存在不一致的结论。本文以古尔班通古特沙漠地区优势种梭梭（Haloxylon ammodendron）为供试材料,测定了3种生态类型梭梭木质部射线组织特征、NSC 及其组分含量等。结果表明：砾石生态类型的梭梭木射线密度、射线比量、NSC 及其组分含量最大,土质生态类型刚好相反。射线比量与NSC( $P < 0 . 0 1 \$ )和淀粉含量( $\textstyle P < 0 . 0 5$ )呈显著正相关，射线细胞壁厚度与NSC含量呈显著负相关( $\textstyle P < 0 . 0 1 { \dot { } }$ )。这些结果表明,梭梭在较恶劣的条件下通过降低射线细胞壁厚度、增加射线比量和NSC 来适应恶劣环境。
+
+关键词：梭梭；射线比量；细胞壁厚度；淀粉；可溶性糖；非结构性碳水化合物(NSC)；古尔班通古特沙漠
+
+非结构性碳水化合物（non-structural carbohy-drates，NSC）（即可溶性糖与淀粉的总和）是过剩树木碳水化合物在植物体内的暂时或长期储存，为树木提供能量供应物质1和必需的临时溶质库（运输、代谢和渗透等需求物），其浓度和含量的大小与植物整体的碳供应状况密切相关[2]，体现树木阶段性碳生产和消耗间平衡，表征树木生长和存活能力以及对逆境的适应性[3]。而且,NSC 为植物不同代谢过程提供能量,最终影响植物的生长和存亡(4)因而，研究NSC对于理解植物生长动态及其对环境的适应性具有重要意义。
+
+梭梭（Haloxylonammodendron）为苋科（Amaran-thaceae)梭梭属植物，是古尔班通古特沙漠植被的优势种。由于其对高温、干旱和盐碱的高度适应性，梭梭作为主要树种用于中国西北、蒙古南部戈壁等沙漠地区的植被恢复[5-7]。在古尔班通古特沙漠中，梭梭所处的土壤环境可分为砾石、沙土、土质等生态类型[8]。前期研究发现,由于精河的砾石类型不利于梭梭根系深扎，以及该地区的降水比石河子和蔡家湖少，因而精河的环境条件恶劣，梭梭植株矮小;蔡家湖的土质类型条件较好，梭梭生长更为高大。大量研究表明，干旱胁迫不利于植物碳同化和碳储存（即非结构性碳水化合物，包括淀粉和可溶性糖)[9-10]。另外一些研究则指出,在干旱胁迫下，植物体内非结构性碳水化合物的合成会增加，以抵御干旱(11-13]。在更恶劣的环境条件下（精河）,梭梭是否会采用能量储存策略（在木质部储存NSC）来提高对恶劣环境的适应性，目前尚不清楚。
+
+通常，NSC储存在薄壁组织中，射线组织是NSC的主要储存场所之一。已有的研究中，关于NSC 与射线比量的关系存在截然不同的结论：Johnson等[14]得出,射线组织与 NSC 含量成正比;Plavcová等[15]认为,木质部薄壁组织比量最高的木棉,淀粉积累反而最少。在古尔班通古特沙漠中，假设在更干旱的精河地区梭梭通过储存更多的 NSC,以提高其对恶劣环境的适应性，那么，梭梭的射线组织有什么特征，尚未见有关报道。
+
+本研究以梭梭为供试植物，通过测量不同生态类型的梭梭木射线组织特征和NSC含量，分析不同生态类型梭梭射线组织特征，探索NSC与木质部射线组织之间的关系，以期为梭梭对恶劣环境适应性研究提供参考。
+
+# 1材料和方法
+
+# 1.1 样地设置
+
+样地处于古尔班通古特沙漠，该地区夏季炎热干燥，冬季寒冷，属典型的温带大陆性荒漠气候，样地气象特征及梭梭生长状况见表1。样地选择于受人类活动干扰少的精河( $8 2 ^ { \circ } 5 3 ^ { \prime } 3 5 ^ { \prime \prime } \mathrm { E }$ $4 4 ^ { \circ } 3 6 ^ { \prime } 1 0 ^ { \prime \prime } \mathrm { N } ^ { \prime }$ ）、石河子（ $8 6 ^ { \circ } 1 4 ^ { \prime } 4 4 ^ { \prime \prime } \mathrm { E }$ $4 5 ^ { \circ } 0 0 ^ { \prime } 3 4 ^ { \prime \prime } \mathrm { N }$ ）、蔡家湖$( 8 7 ^ { \circ } 2 5 ^ { \prime } 1 ^ { \prime \prime } \mathrm { E } , 4 4 ^ { \circ } 3 9 ^ { \prime } 1 0 ^ { \prime \prime } \mathrm { N } )$ 附近沙漠。
+
+每样地选择外观完好、无明显损伤、有代表性的样树5株，截取3\~5个直径约 $1 \ \mathrm { c m }$ 、长度约 $1 5 \ \mathrm { c m }$ 的枝条，用于木质部解剖结构和NSC及其组分分析。将用作NSC及其组分分析的材料进行杀青（ $^ { 1 0 5 \mathrm { ~ ‰ ~ } }$ )处理，使其体内酶变性失活，再将杀青处理的材料于 $8 0 ~ \mathrm { { ^ { \circ } C } }$ 烘干至重量恒定，粉碎，获得每个类型的梭梭样品约 $1 0 \mathrm { ~ g ~ }$ ,制成分析样品
+
+表1不同生态类型的气候条件和梭梭生长特性  
+Tab.1 The climate conditions and the growth of Haloxylon ammodendron in different ecotypes   
+
+<html><body><table><tr><td></td><td>土壤 类型</td><td>平均树高 /m</td><td>基地平均 直径/cm</td><td>平均冠幅 /m²</td><td>最风 /(m·s-1)</td><td>年均 温/℃</td><td>7月 /C</td><td>/C</td><td>年平均 度/%</td><td>平照 /h</td><td>年隆</td></tr><tr><td>精河</td><td>砾石</td><td>1.23 ±0.46b</td><td>3.99 ±0.23b</td><td>2.16±0.19b</td><td>5.39</td><td>8.42</td><td>33.31</td><td>-19.4</td><td>61.84</td><td>2 515.7</td><td>/mm 111.2</td></tr><tr><td>石河子</td><td>沙土</td><td>1.70 ±0.35a</td><td>5.69 ±0.18a</td><td>2.94 ±0.17a</td><td>5.61</td><td>8.09</td><td>32.73</td><td>-20.88</td><td>63.55</td><td>2 769.4</td><td>225.3</td></tr><tr><td>蔡家湖</td><td>土质</td><td>1.77 ±0.41a</td><td>6.08 ±0.23a</td><td>3.22 ±0.15a</td><td>6.25</td><td>6.69</td><td>34.03</td><td>- 24.26</td><td>61.61</td><td>2 834.8</td><td>153.8</td></tr></table></body></html>
+
+注：气象数据来自中国气象数据网(1990—2008年）,不同字母表示同一指标不同生态类型间差异显著( $\textstyle P < 0 . 0 5 ,$ 。
+
+# 1.2木质部解剖结构测量
+
+切片：将木材样品切成火柴棍大小的小木块，长度约 $0 . 5 \ \mathrm { c m }$ ,预实验发现水煮、甘油、硝酸浸泡等常规软化方法不能对梭梭木质部软化，因此材料不需软化、脱水，直接石蜡包埋。采用滑走切片机（MI-CROMHM430，德国）切取横、弦、径3个切面（图1），弦切面和径切面厚度为 $4 . 5 \sim 5 . 5 ~ \mu \mathrm { m }$ ,横切面切片厚度为 $9 \sim 1 1 ~ \mu \mathrm { m }$ 。切片脱水后用番红和苏木精染色，在光学显微镜下观察，参照IAWA（国际木材解剖学家协会)委员会的推荐标准进行解剖结构描
+
+![](images/bdc591a63957867ebe16261f5110cccfffe99e267b4184bfd06d2d68720320b5.jpg)  
+图1梭梭木质部射线组织解剖结构 Fig.1Anatomical structure of ray tissue in xylem ofHaloxylon ammodendron
+
+述[16] 。
+
+测量：所有切片采用数码相机（Nikon4500)拍照后，利用WinCell木细胞图像分析系统进行测量。测量射线高度、射线宽度、射线细胞壁厚度、射线比量以及射线密度。所有指标50次重复。通过统计弦切面 $1 \ \mathrm { m m } ^ { 2 }$ 视野内射线条数得到射线密度;点计数法测定组织比量。射线细胞壁厚度为单个细胞壁上随机3次测定的平均值，随机测量50个细胞。
+
+# 1.3NSC及其组分测量
+
+可溶性糖和淀粉含量的测定均采用蒽酮比色法[17],两者含量之和为 NSC。
+
+# 1.4 数据分析
+
+采用SPSS19.0软件进行数据分析。Duncan法多重比较分析不同生态类型间射线组织特征（射线高度、射线宽度、射线细胞壁厚度、射线比量和射线密度）、NSC及其组分之间的差异显著性，采用Pearson双侧检验进行射线组织特征、NSC、淀粉和可溶性糖之间相关性分析。采用主成分分析，通过降维将多指标简化为少量综合指标，提取主成分后，将主成分得分做散点图，研究不同生态类型梭梭木质部解剖结构特征、NSC及其组分的可能组合
+
+# 2结果与分析
+
+# 2.1梭梭射线组织特征比较
+
+多重比较分析表明，不同生态类型梭梭射线组织特征(除了射线宽度)差异显著(图2）。砾石生态类型梭梭射线高度和细胞壁厚度显著低于其他2种生态类型( $\textstyle P < 0 . 0 5 { \mathrm { . } }$ ),3种生态类型梭梭射线宽度差异不显著( $P > 0 . 0 5$ )。3种生态类型中，土质生态类型梭梭细胞壁厚达 $3 . 1 5 ~ \mu \mathrm { m }$ ,显著高于其他两种生态类型( $\textstyle P < 0 . 0 5 )$ 。砾石生态类型的射线密度和射线比量最高( $\textstyle P < 0 . 0 5 ,$ ，射线密度分别是沙土和土质生态类型的2.85倍和6.73倍。射线比量分别是沙土和土质生态类型的1.45倍和1.92倍。
+
+# 2.2梭梭木质部NSC、淀粉和可溶性糖的含量
+
+在不同生态类型中，砾石的梭梭木质部NSC含量最高，达 $5 . 8 7 \%$ ,其次是沙土，为 $4 . 8 4 \%$ ，最小是土质，仅 $3 . 5 5 \%$ ,3种生态类型梭梭木质部NSC含量之间的差异达显著水平( $P < 0 . 0 5 )$ 。梭梭淀粉含量最高的是砾石，最低的是土质，土质生态类型的梭梭淀粉含量与其余两个类型之间的差异显著( $P <$ 0.05），而砾石与沙土之间的梭梭淀粉含量差异不显著( $\scriptstyle P > 0 . 0 5 )$ ；可溶性糖含量最高的也是砾石生态类型，达 $1 . \ 8 7 \%$ ，分别比土质和沙土显著高$3 9 . 5 5 \%$ 和 $7 0 . 0 \%$ （ $\ P < 0 . 0 5 ,$ ，沙土和土质生态类型间的梭梭可溶性糖含量差异不显著( $\cdot P { > } 0 . 0 5$ ，图3）。
+
+# 2.3梭梭NSC及其组分与射线组织特征的主成分分析
+
+主成分分析结果展示了不同生态类型梭梭木质部贮藏养分的分类特征（图4a）。PC1轴划分了砾石(得分为正)和沙土以及土质(得分为负)的木质部养分特征，PC2轴划分了沙土（得分为正)和土质以及砾石(得分为负)的木质部养分特征。
+
+180 (a) a 23(b) w/直 3.2(c) a T @a 8um/ 21 a 3.1 a 7b %喜影  
+140 彩 19 abC a b b  
+射120 17 a 2.9 bC 4射  
+100 15 2.8 0 3砾石 沙土 土质 砾石沙土 土质 砾石沙土 土质 砾石 沙土 土质 砾石沙土 土质
+
+![](images/055f69be50b82dcfb8db0bb485d15a7e5477cca6e04cbfbb5e80b49626b7024e.jpg)  
+Fig.2Difference of ray tissue features of $H .$ ammodendron in different ecotypes   
+图3不同生态类型梭梭木质部养分特征
+
+![](images/83a860bb36906d1d989a4183a1946054f69417596921da233ff54ac94b19877a.jpg)  
+图2不同生态类型梭梭射线解剖结构特征  
+Fig.3The nutrients in xylem of $H .$ ammodendron in different ecotypes   
+图4梭梭木质部射线解剖特征和木质部养分的主成分分析
+
+Fig.4Principal component analysis of the ray anatomical features and nutrients in xylem of $H _ { ☉ }$ ，ammodendr
+
+表2梭梭木射线组织特征相关性  
+Tab.2Correlations between the ray tissue features and the nutrients in xylem of H.ammodendron   
+
+<html><body><table><tr><td></td><td>NSC</td><td>射线高度</td><td>射线宽度</td><td>射线细胞壁厚</td><td>射线密度</td><td>射线比量</td></tr><tr><td>淀粉</td><td>0.87 **</td><td>-0.18</td><td>-0.15</td><td>-0.55 **</td><td>0.71**</td><td>0.45 *</td></tr><tr><td>可溶性糖</td><td>0.57 **</td><td>-0.45 *</td><td>-0.24</td><td>-0.67 **</td><td>0.62 **</td><td>0.35</td></tr><tr><td>NSC</td><td></td><td></td><td>-0.16</td><td>-0.75 **</td><td>0.88**</td><td>0.60 **</td></tr><tr><td>射线高度</td><td></td><td></td><td>0.58 **</td><td>0.31</td><td>-0.59 **</td><td>-0.21</td></tr><tr><td>射线细胞壁厚度</td><td></td><td></td><td></td><td></td><td>-0.71**</td><td>-0.26</td></tr><tr><td>射线密度</td><td></td><td></td><td></td><td></td><td></td><td>0.47 *</td></tr></table></body></html>
+
+注：\*表示在0.05水平显著，\*\*表示在0.01水平显著。
+
+部分梭梭射线组织特征和木质部养分特征的PCA分析结果很好区分了生态类型（图4b）：射线密度、射线比量和NSC对应PC1正值梯度。细胞壁厚度、射线高度和射线宽度对应PC1负值梯度。射线宽度、射线高度和淀粉对应PC2正值梯度，可溶性糖和细胞壁厚度对应PC2负值梯度。
+
+# 2.4梭梭NSC、淀粉和可溶性糖的含量与射线组织特征的相关性
+
+对不同生态类型梭梭的射线组织特征、木质部NSC、淀粉和可溶性糖间进行相关分析表明：梭梭木质部射线组织结构之间的相关性，只有射线高度与射线宽度、射线密度与射线高度和细胞壁厚度以及射线比量和射线密度间有显著相关关系。非结构性碳水化合物之间，NSC与淀粉和可溶性糖之间相关性显著。非结构性碳水化合物与解剖结构之间，细胞壁厚度与NSC及其组分、射线密度与NSC及其组分之间具有显著相关关系，射线比量与NSC和淀粉之间显著相关(表2）。
+
+# 3讨论
+
+本文研究了不同生态类型梭梭木射线组织特征与非结构性碳水化合物及其组分之间的关系。非结构性碳水化合物在植物体内起着重要的作用，其作为植物代谢的能量供应和储存物质，影响植物的存亡。射线组织作为NSC的主要贮存场所之一，二者之间的关系目前尚未有明确结论。一般认为，射线组织越大其储存能力越大，如被子植物木质部的NSC含量高于针叶树，是因为被子植物木质部的薄壁组织(射线薄壁组织和轴向薄壁组织之和）比量高于针叶树(14]。相反,在欧洲云杉（针叶树种）、槭树（温带散孔材树种）、榄仁树（热带旱季落叶树种）、夏栎(温带环孔材树种）、锈叶榕（热带常绿树种)和木棉(热带旱季落叶树种)共6个物种中，木棉淀粉积累最少，但是木质部薄壁组织比量最高，这是因为射线组织不总是被 NSC 填满[15]。因此,NSC与射线组织之间的关系取决于树体内NSC的合成和利用。本研究显示梭梭射线比量在砾石生态类型为 $7 . 0 6 \%$ ,在土质生态类型中仅有 $3 . 6 9 \%$ （图2）。由此可以看出，梭梭木射线比量远少于一般被子植物的射线比量（范围为 $10 \% \sim 2 0 \%$ ）[15]。梭梭 NSC含量最高为砾石生态类型 $( 5 . 8 7 \%$ )，最低为土质生态类型 $( 3 . 5 5 \%$ ）（图3），属于温带树种正常水平[2],但低于热带和亚热带树种[3,18-19]。这可能因为梭梭生长受水分、温度和盐分影响[20-21],在荒漠环境中，由于土壤养分缺乏、干旱盐碱胁迫严重，以及夏季的极端高温胁迫等逆境限制了荒漠植物光合同化过程，同时需要分配大量碳水化合物用于构建根系,以增加土壤养分和水分摄取等[22],总体而言NSC含量较低。本文中梭梭木射线比量与NSC含量显著正相关(表2），表明射线组织比量越大，其提供给NSC的储藏空间越大，有利于木质部储存更多的NSC。
+
+主成分分析结果表明，砾石生态类型的PC1值最大(图4)，降水最少（表1），对应的射线密度、射线比量和NSC值高，射线细胞壁厚度低。表明降水越少，木质部养分、水分贮存和传导有效性越高；土质生态类型的射线组织与NSC及其组分特征和砾石生态类型相反。NSC与射线密度和射线比量呈显著正相关也证明了这一点（表2）。
+
+一般说来，增加射线大小必然会降低木质部力学支撑性能[23]。然而,砾石生态类型却未增加射线细胞壁厚度，其厚度显著低于其他生态类型（图2）。射线细胞包括薄壁结构和厚壁结构两种类型[24]，仅少部分物种射线为厚壁结构。例如，Symbolanthusmacranthus的射线细胞为厚壁结构，厚度为2.5$\mu \mathrm { m } ^ { [ 2 5 ] }$ 。作为古尔班通古特沙漠植被的优势种,尽管梭梭射线细胞壁厚度没有随降水的减少而增加，但3种生态类型中，梭梭射线细胞壁均为厚壁结构，其细胞壁厚度超过 $2 . 9 1 ~ \mu \mathrm { m }$ ,推测梭梭采取增加射线细胞壁厚度来增加木质部力学支撑性能，从而提高射线水分贮存和径向运输的安全性。
+
+本次研究是在古尔班通古特沙漠南缘的精河、石河子、蔡家湖3个地区，由于地上总生物量的差异[26],并且通过气象数据的显示（精河地区砾石生态类型的降水量最少）（表1），可知精河砾石生态类型的环境条件最差，蔡家湖土质生态类型条件最好。环境条件的差异会使植物作出相应的适应机制。笔者的研究表明，梭梭木质部采取增加射线比量和NSC含量来应对不利的环境条件。本文的研究结果对于深入理解梭梭对恶劣环境适应具有重要意义。
+
+# 参考文献（References）：
+
+[1]Koch K E.Carbohydrate-modulated gene expression in plants[J]. Anual Review of Plant Physiologyand Plant Molecular Biology, 1996,47:509 - 540.   
+[2]于丽敏,王传宽,王兴昌.三种温带树种非结构性碳水化合物 的分配[J].植物生态学报,2011,35（12）：1245－1 255.[Yu Limin,Wang Chuankuan,Wang Xingchang.Allocation of nonstructural carbohydrates for three temperate tree species in Northeast China[J].Chinese Journal of Plant Ecology,2011,35(12）:1 245 - 1 255.]   
+[3]Wuirth MK,Pelaez-Riedl S,Wright S J,et al.Non-structural carbohydrate pools in a tropical forest[J].Oecologia,2005,143（1）:11 -24.   
+[4]Palacio S,Hoch G,Sala A,et al.Does carbon storage limit tree growth?[J].New Phytologist,2014,201:1 096-1100.   
+[5]Huang Z Y,Zhang X S,Zheng G H,et al.Influence of light,temperature,salinity and storage on seed germination of Haloxylonammodendron[J]. Journal of Arid Environments,2003,55:453- 464.   
+[6]Sheng Y,Zheng W,Pei K,et al. Genetic variation within and among populations of a dominant desert tree Haloxylon ammodendron(Amaranthaceae）in China[J].Annals of Botany,2005,96: 245 -252.   
+[7]von Wehrden H,Wesche K,Miehe G.Plant communities of the southern Mongolian Gobi[J].Phytocoenologia,2009,39:331- 376.   
+〔8］中国科学院新疆综合考察队，中国科学院植物研究所主编.新 疆植被及其利用[M].北京：科学出版社,1978.[XinjiangComprehensive Investigation Team of Chinese Academy of Sciences,Institute of Botany,the Chinese Academy of Sciences.The Vegetation and Its Utilization in Xinjiang[M].Beijing:Science Press,1978.]   
+[9]Atkin O K,Macherel D.The crucial role of plant mitochondria in orchestrating drought tolerance[J].Annals of Botany,2Oo9,103： 581-597.   
+[10]Chaves M M.Effects of water deficits on carbon assimilation[J].
+
+Journal of Experimental Botany,1991,42(1):1-16.
+
+[11］江志坚,黄小平,张景平.环境胁迫对海草非结构性碳水化合 物储存和转移的影响[J].生态学报,2012,32（19):6 242 6 250.[Jiang Zhijian,Huang Xiaoping,Zhang Jingping.Effectof environmental stress on non-structural carbohydrates reserves and transfer in seagrasses[J].Acta Ecologica Sinica,2012,32（19）： 6 242 -6 250.]   
+[12］郑云普,王贺新,娄鑫,等.木本植物非结构性碳水化合物变化 及其影响因子研究进展[J].应用生态学报，2014,25（4）： 1 188 -1196.[Zheng Yunpu,Wang Hexin,Lou Xin,et al. Changes of non-structural carbohydrates and its impact factors in trees : A review[J].Chinese Journal of Applied Ecology,2014,25（4）: 1 188 -1196.]   
+[13］王林龙,李清河,徐军,等.不同种源油蒿形态与生理特征对干 旱胁迫的响应[J].林业科学,2015,51（2）:37－43.[Wang Linlong,Li Qinghe,Xu Jun,etal.Morphology and physiology char acteristic responses of diferent provenances of Artemisia ordosica to drought stress[J]. Scientia Silvae Sinicae,2015,51（2）: 37 - 43.]   
+[14]Johnson D M,McCulloh KA,Woodruff D R,et al.Hydraulic safety margins and embolism reversal in stems and leaves:Why are conifers andangiospermssodifferentJ].PantScience,012,95:48 -53.   
+[15]Plavcová L,Jansen S.The role of xylem parenchyma in the storage and utilization of nonstructural carbohydrates（Chapter 8）[C]// Hacke U G.Functional and Ecological Xylem Anatomy.Cham： Springer,2015.   
+[16]IAWA Committee.IAWA list of microscopic features for softwood identification[J].IAWA Journal,2004,25:1-70.   
+[17］高俊凤.植物生理学实验指导[M].北京:高等教育出版社， 2006.[Gao Junfeng.Experimental Guidance of Plant Physiology [M].Beijing:Higher Education Press,2006.]   
+[18］赵镭,杨海波,王达力,等.浙江天童常见种幼苗的光合特性及 非结构性碳水化合物储存[J].华东师范大学学报,2011（4）： 35 -44.[Zhao Lei,Yang Haibo,Wang Dali,et al. Seedlings photosynthesis traits and non-structural carbohydrate storage of common species in Tiantong National Forest Park,Zhejiang Province [J]. Journal of East China Normal University:Natural Science Edition,2011(4) :35 -44.]   
+[19］欧阳明,杨清培,祁红艳,等.亚热带落叶与常绿园林树种非结 构性碳水化合物的季节动态比较[J].南京林业大学学报（自 然科学版）,2014,38（2）:105-110.[Ou Yangming,Yang Qingpei,Qi Hongyan,et al.A comparison of seasonal dynamics of nonstructuralcarbohydrates fordeciduousandevergreen landscape trees in subtropical region,China[J]. Journal of Nanjing Forestry University(Natural Science Edition）,2014,38(2）:105-110.]   
+[20］郭京衡,李尝君,曾凡江,等.2 种荒漠植物根系生物量分布与 土壤水分、养分的关系[J].干旱区研究，2016,33（1）：166- 171.[Guo Jingheng,Li Changjun,Zeng Fanjiang,et al.Relationship between root biomass distribution and soil moisture,nutrient for two desert plant species[J].Arid Zone Research,2016,33 (1) :166 -171. ]   
+[21]蒋菊芳,王润元,陈雷,等.不同气候年型对荒漠植物生长的影 响[J].干旱区研究,2017,34（3）:524-530.[Jiang Jufang， WangRunyuan,ChenLei,etal.Growth of desert plants in different climate years[J].Arid Zone Research,2017,34(3）:524-530.]   
+[22]Xu GQ,McDowell NG,Li Y.A possible link between life and death of a xeric tree in desert[J]. Journal of Plant Physiology, 2016,194:35 -44.   
+[23]Rahman M,Fujiwara S,Kanagawa Y.Variations in volume and dimensions of rays and their effect on wood properties of teak[J]. Wood and Fiber Science,2005,37(3）:497-504.   
+[24]Carlquist S J.Comparative wood anatomy:Systematic,ecological, and evolutionary aspects of dicotyledon wood[M].2nd.Berlin:
+
+Springer,2001.
+
+[25]Carlquist S,Grant JR.Wood anatomy of Gentianaceae,tribe Helieae,inrelation to ecology,habit,systematics,and sample diameter [J].Brittonia,2005,57(3）:276-291.   
+[26]宋于洋，李荣,罗惠文，等.古尔班通古特沙漠三种生境下梭梭 种群的生殖分配特征[J].生态学杂志,2012,31（4)：837- 843.[Song Yuyang,Li Rong,Luo Huiwen,et al.Reproductive allocation characteristics of Haloxylon ammodendron populations in three habitats of Gurbantunggut Desert[J].Chinese Journal of Ecology,2012,31(4) :837-843.]
+
+# Relationship between Ray Tissue Features and Non-structural Carbohydrates in Xylem of Haloxylon ammodendron
+
+ZHOU Chao-bin1²，WANG Meng-yao²，GONG Wei (1.Sichuan Provincial Key Laboratoryof EcologicalForestryEngineering,Colegeof Forestry，Sichuan Agricultural University， Chengdu 611130,Sichuan,China； 2. College of Agriculture， Shihezi University，Shihezi 8320oo， Xinjiang,China)
+
+Abstract：There arecurrntly the inconsistent conclusions about the relationship between ray tissue and nonstructural carbohydrate（NSC）content in xylem.Inthis experiment，Haloxylona mmodendron，adominant species in the Gurbantunggut Desert,was takenas the test material，,theray tissue，NSC，soluble sugar and starch in ecotypes of gravel soil（distributed in Jinghe），sandy soil（distributed in Shihezi）and loam（distributed in Caijiahu) were determined，and the corelations between therayanatomical features and NSC as well as itscomponents were analyzed. The results showed that the ray proportion of $H .$ .ammodendron varied in a range of $3 . 6 9 \% - 7 . 0 6 \%$ ，and that of NSC was in a range of $3 . 5 5 \% - 5 . 8 7 \%$ in the three ecotypes. The values were lower compared with those of tropical and subtropical tree species. This may be caused by the limited photosynthetic process of $H$ ammodendron due to the lack of soil nutrients，severe drought and salinity stress indesert environment.The precipitation in gravel soil was the lowest，which was characterized bythe highest valuesof ray density，ray proportion，NSC and itscomponents，and was in agreement with the lowest values ofray height and wall thickness of ray cell.However, the values of ray density,ray proportion，NSC and its components in sandy soil were thelowest.Theray proportion was positively correlated with NSC ( $P < 0 . 0 1 )$ and starch ( $\textstyle P < 0 . 0 5 ,$ ），but the wall thickness of ray cell was negatively correlated with NSC ( $P < 0 . 0 1 \$ )significantly. These results indicated that $H$ .ammodendron improved the xylem nutrients，water storage and transportation efficiency to cope with the severe conditions byreducing the wall thickness of raycell，increasing ray proportionand NSC.The resultsof this paper were of great significance to understanding the adaptation of the plant to the arid desert regions.
+
+Key words:Haloxylona mmodendron；ray proportion；wall thickness of ray cell； starch； soluble sugar； non-structural carbohydrate ；Gurbantunggut Desert

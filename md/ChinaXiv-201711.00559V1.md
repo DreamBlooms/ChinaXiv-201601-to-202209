@@ -1,0 +1,272 @@
+薛艳锋」郝力壮1\*刘书杰1\*柴沙驼」张晓卫」 赵索南²
+
+3 （1.省部共建三江源生态与高原农牧业国家重点实验室，青海省高原放牧家畜动物营养与饲料科  
+4 学重点实验室，青海高原牦牛研究中心，青海大学畜牧兽医科学院，西宁 810016；2.海北州畜牧  
+5 兽医科学研究所，海晏 810200）  
+6摘要：为了探究耗牛饲粮中微量元素铜的适宜含量，本试验以甘氨酸铜作为添加形式，以牦牛  
+7 饲粮为底物进行体外瘤胃发酵，底物铜含量分别为5.0、10.0、15.0、20.0、 $2 5 . 0 \mathrm { m g / k g }$ ，共发酵42  
+8 h。测定发酵后的产气量、瘤胃发酵指标及消化酶活力。结果表明：当底物铜含量为 $1 5 . 0 \mathrm { m g / k g }$   
+9 时，干物质消化率（DMD)，微生物蛋白质（MCP）、丙酸、异丁酸、丁酸、异戊酸、戊酸、总挥  
+10 发性脂肪酸浓度，脂肪酶（LPS）、胰蛋白酶（TYS）、纤维素酶（CLS）活力均达到最大值，分  
+11 别为 $6 3 . 8 5 8 \%$ 、 $4 . 2 8 9 \ : \mathrm { g / L }$ 、24.475 mmol/L、 $0 . 4 7 0 \mathrm { m m o l / L }$ 、8.977 mmol/L、 $1 . 1 5 9 \mathrm { m m o l / L }$ 、1.607  
+12 mmol/L、 $8 1 . 5 8 3 \ \mathrm { m m o l / L }$ 、 $0 . 5 0 4 \mathrm { U / m L }$ 、 ${ 8 4 . 1 6 7 \mathrm { U } } / { \mathrm { m L } }$ 、 $7 9 . 9 5 6 \mathrm { U } / \mathrm { m L }$ ，乙酸/丙酸最低2.045；当铜  
+13 含量为 $1 0 . 0 \mathrm { m g / k g }$ 时，MCP、乙酸浓度达到最大值，分别为 $ { 4 . 2 8 9 ~ \mathrm { g / L } }$ 、 $5 1 . 0 7 5 \ \mathrm { m m o l / L }$ ，且其他指  
+14 标也都处于较高水平。综合得出，在体外条件下，牦牛饲粮推荐铜含量为 $1 0 . 0 { \sim } 1 5 . 0 \ \mathrm { m g / k g } .$ 0
+
+关键词：耗牛；甘氨酸铜；体外产气技术；消化酶活力；挥发性脂肪酸中图分类号： 文献标识码： 文章编码
+
+7 牦牛作为环境条件极其恶劣（寒、旱、缺氧、强辐射）的青藏高原地区优势畜种，是当地牧  
+8 民生存的物质基础和经济支柱[1-2]。但耗牛面临着寒冷的冬季和漫长的枯草期，不仅冬季掉膘严重，  
+9 而且冻死、饿死的现象也屡见不鲜，严重制约着耗牛产业的发展，因此深入研究耗牛营养、制定  
+.0 饲养标准、合理补饲势在必行。关于耗牛能量[3和蛋白质[4营养方面已经有一定研究基础，但耗牛  
+1 微量元素营养方面的研究基本上处于完全空白状态。1
+
+铜是动物机体所必需的微量元素之一[5]，参与造血和髓蛋白的合成[6-7]，促进骨和胶原的形成[8]，参与被毛色素沉积，增强机体免疫力[9-10]，促进家畜生长[1-12]。基础饲粮中铜往往处于缺乏状态，但添加过量又会影响耗牛消化代谢、生长繁殖和生产性能，甚至影响耗牛机体的健康状况。杨凤指出动物饲粮中的微量元素铜、锰、碘、铁、锌处于临界缺乏状态，而实际生产中大多数以预混料的形式向动物饲粮中添加过量的微量元素复合物来满足动物的需求，这样虽然弥补了动物饲粮中微量元素的缺乏，起到了一定的积极作用，但却不能最大程度地发挥动物的生长性能。
+
+杨红建[13]推荐肉牛饲粮中铜的添加量为 $1 0 \mathrm { m g / k g }$ 。Perry 等[14]认为在较低的钼水平下，奶牛对铜的需要量为 $\mathrm { 1 0 { \sim } 2 0 ~ m g / k g }$ 。马长星[15]报道，体重在 $3 0 0 { \sim } 6 5 0 \mathrm { k g }$ 、妊娠 $2 5 0 \mathrm { d }$ 的青年母牛铜需要量为 $1 2 { \sim } 1 6 \ \mathrm { m g / k g }$ 。因此本试验以甘氨酸铜作为微量元素铜的添加形式，采用体外产气技术研究铜含量为 $5 . 0 { \sim } 2 5 . 0 \ \mathrm { m g / k g }$ 时对人工瘤胃发酵的影响，旨在筛选牦牛饲粮中微量元素铜的最适含量，
+
+为完善牦牛饲养标准和科学补饲提供参考。
+
+1 材料与方法
+
+# 1.1 试验动物与饲养管理
+
+本试验选择3头健康、体况接近、装有永久性瘤胃瘘管的成年阉耗牛作为瘤胃液供体动物。试验饲粮包括精料和粗料（燕麦青干草)，精粗比6:4，单头饲喂，每日2次（08:00、18:00)，自由饮水。饲喂15d之后，清晨空腹采集瘤胃液。
+
+# 1.2 体外产气的试验方法
+
+清晨空腹采集3头牛的瘤胃液，混匀之后4层纱布过滤，参考Menke 等[16的方法配制人工瘤胃发酵液，通入二氧化碳达到厌氧状态，使用自动分液器分装到装有 $2 0 0 ~ \mathrm { { m g } }$ 底物的培养管中（每管 $3 0 ~ \mathrm { m L }$ )，转入（ $3 9 . 0 { \pm } 0 . 5 ^ { \cdot }$ ） $^ { \circ } \mathrm { C }$ 的人工瘤胃培养箱中进行培养，当培养至2、4、6、8、12、16、20、24、30、36、 $4 8 \mathrm { ~ h ~ }$ 各时间点时，取出培养管，快速读取活塞所处的刻度值（mL）并记录。发酵 $4 8 \mathrm { h }$ 结束后，将培养管转移到冰水浴中终止发酵。同时设定无发酵底物的空白管。现场测定发酵液 $\mathrm { \ p H }$ 和氨态氮（ $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N } \dot { }$ ）浓度，备份发酵液，冷冻保存，用于测定消化酶活力，微生物蛋白质（MCP）、挥发性脂肪酸（VFA）浓度，收集发酵残渣， $1 0 5 ^ { \circ } \mathrm { C }$ 烘干 $1 2 { \sim } 2 4 \mathrm { h }$ ，测定干物质消化率（DMD）。
+
+# 1.3 试验设计
+
+参考肉牛饲养标准（NY/T815-2004）和《耗牛营养研究论文集》[2]，按照 $1 5 0 \mathrm { k g }$ 耗牛日增重$5 0 0 \ \mathrm { g }$ 设计牦牛基础饲粮的精料配方，以燕麦青干草作为粗料，精粗比6:4配制发酵底物。本试验采用单因素试验设计，共5个处理，每个处理设3个重复。首先通过原子吸收分光光度计测定发酵底物中铜的含量为 $4 . 3 9 5 \mathrm { m g / k g }$ ，然后在5个处理的发酵底物中以甘氨酸铜（含铜量 $20 \%$ ）的形式分别添加0.605、5.605、10.605、15.605、 $2 0 . 6 0 5 ~ \mathrm { m g / k g }$ 的铜，从而使5个处理中铜的总含量分别达到5.0、10.0、15.0、20.0、 $2 5 . 0 \mathrm { m g / k g }$ 。采用体外发酵技术研究不同铜含量对牦牛瘤胃发酵的影响。
+
+1.4 测定指标与方法
+
+1.4.1 铜含量
+
+铜含量参考GB/T13885-2003[17]，使用北京普析 TAS-990 AFG 型原子吸收分光光度计，采用火焰法测定。本试验所做出的铜含量标准曲线拟和公式为：
+
+2 Abs=0.100 30Conc+0.000 46667（ $\scriptstyle \longmapsto 0 . 9 9 9 9$ ， $\scriptstyle n = 4$ ）
+
+式中：Conc为铜含量（ $\mu \mathrm { g / m L }$ )，Abs为吸光度值，波长为 $3 2 4 . 8 \mathrm { n m }$ 。
+
+1.4.2产气量、产气速率和DMD 根据各时间点记录的产气量计算总产气量、甲烷产量和产气速率。
+
+总产气量（mL） $\mathbf { \sigma } = \mathbf { \sigma }$ 试验管总产气量-空白管总产气量;
+
+甲烷产量（mL） $\mathbf { \sigma } = \mathbf { \sigma }$ 总产气量 $\times$ 甲烷所占百分比;
+
+产气速率（mL/h） $\ c =$ 阶段产气量/时间间隔。
+
+DMD（%） $\ O =$ {[样本干物质（DM）重-残渣DM重 $^ +$ 空白管DM重]/样本DM重 $\} \times 1 0 0$ 。
+
+1.4.3 pH和 $\mathrm { N H } _ { 3 }$ -N、MCP浓度pH采用HANNAHI221型台式酸度计测定。
+
+$\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度采用冯宗慈等[18]改进的比色法测定；本试验所作出的 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度标准曲线拟和公式为：
+
+$$
+Y = 0 . 0 4 3 1 X + 0 . 0 2 4 1 ( r = 0 . 9 9 5 , ~ n = 5 ) _ { \circ }
+$$
+
+式中：Y为 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度（ $\mathrm { \ m g / d L }$ ， $X$ 为吸光度值，波长为 $6 2 5 . 0 \mathrm { n m }$ 。
+
+MCP浓度测定采用南京建成生物工程研究所提供的试剂盒进行测定。
+
+测定原理：蛋白质分子中的肽键（—CONH—）能与碱性铜溶液作用，发生双缩脲反应，形成紫色复合物，因此可以测定显色反应后溶液的吸光度值（波长为 $5 4 0 \ \mathrm { n m }$ )，计算溶液中蛋白质的浓度。
+
+双缩脲试剂的配制：将试剂1中的粉剂加超纯水稀释到 $1 0 0 ~ \mathrm { { \ m L } }$ ，试剂2中的粉剂加超纯水稀释到 $2 0 0 ~ \mathrm { m L }$ ，然后将稀释后的试剂1、试剂2按照1:2的比例配成双缩脲试剂， $4 ~ ^ { \circ } \mathrm { C }$ 保存。操作方法：准确吸取发酵液 $0 . 2 0 \mathrm { m L }$ ，加入 $0 . 8 0 \mathrm { m L }$ 的生理盐水，冰水浴条件下机械匀浆，制成 $20 \%$ 的匀浆液，在 $2 5 0 0 \mathrm { r / m i n }$ 的条件下离心 $1 0 \mathrm { m i n }$ ，取上清液 ${ 5 0 \mu \mathrm { L } }$ 进行测定；具体操作步骤见表1。使用TU-1810紫外可见分光光度计（提前预热 $3 0 ~ \mathrm { m i n }$ ）在波长 $5 4 0 \ \mathrm { n m }$ 处测定各管吸光度值，比色皿光径 $1 \mathrm { c m }$ ，超纯水调零。
+
+表1双缩脲反应操作流程  
+Table 1Operating steps of biuret reaction mL   
+
+<html><body><table><tr><td>操作步骤</td><td>空白管</td><td>标准管</td><td>测定管</td></tr><tr><td>Operating steps</td><td>Blank tube</td><td>Standard tube</td><td>Determination tube</td></tr><tr><td>超纯水 Ultrapure water 56.3g/L的蛋白质标准品56.3g/L</td><td>0.05</td><td></td><td></td></tr><tr><td>standard protein</td><td></td><td>0.05</td><td></td></tr><tr><td>待测样本 Sample for measurement</td><td></td><td></td><td>0.05</td></tr><tr><td>双缩脲试剂Biuret regent</td><td>2.50</td><td>2.50</td><td>2.50</td></tr><tr><td>混匀之后，37℃水浴10 min，流水冷却 Ater mixed,water bath at 37℃ for10 min，</td><td></td><td></td><td>cooling with lotic water</td></tr></table></body></html>
+
+$\mathrm { M C P ( g / L ) } { = } ( A _ { \mathrm { m } } { - } A _ { \mathrm { K } } ) / ( A _ { \mathrm { s } } { - } A _ { \mathrm { k } } ) { \times } C _ { \mathrm { k } } { \times } w _ { \mathrm { c } }$
+
+式中： $\scriptstyle A _ { \mathrm { m } }$ 为测定管吸光度值； $A _ { \mathrm { K } }$ 为空白管吸光度值； $A _ { \mathrm { s } }$ 为标准管吸光度值； $C _ { \mathrm { { k } } }$ 为蛋白质标准品浓度 $5 6 . 3 ~ \mathrm { g / L }$ ； $w$ 为稀释倍数。
+
+# 1.4.4 VFA浓度
+
+VFA 浓度测定参考相关文献[19-20],对样品进行前处理。发酵瘤胃液经4层纱布过滤后,取 $5 \mathrm { m L }$ 于干净的离心管中， $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取上清液 $2 { \mathrm { m L } }$ 于 Tube 管中，准确加入 $0 . 2 { \mathrm { m L } }$ 、 $2 5 \%$ 的偏磷酸溶液，混匀之后，静置 $1 0 \mathrm { m i n }$ 充分反应后，在 $1 2 0 0 0 \mathrm { r / m i n }$ 、 $4 ^ { \circ } \mathrm { C }$ 的条件下离心 $1 0 \mathrm { m i n }$ ，转移上清到新的Tube 管中， $- 8 0 { } ^ { \circ } \mathrm { C } .$ 冻存，备用。
+
+VFA 的测定方法：用岛津2014气相色谱仪分析。测定条件：FID检测器，色谱柱为毛细管柱中 $3 0 \mathrm { m } { \times } 0 . 3 2 \mathrm { m m } { \times } 0 . 5 \mathrm { ~ } \mathrm { ~ } \mu \mathrm { m } )$ ；色谱柱升温程序，初始 $6 0 ~ ^ { \circ } \mathrm { C }$ ，以 $1 0 \ \mathrm { { ^ circ C / m i n } }$ 升温至 $1 2 0 ^ { \circ } \mathrm { C }$ ，保留 $2 \mathrm { m i n }$ 以 $1 5 \mathrm { ^ { \circ } C / m i n }$ 升温至 $1 8 0 ^ { \circ } \mathrm { C }$ ，保留 $5 \mathrm { m i n }$ ；汽化温度 $2 5 0 ^ { \circ } \mathrm { C }$ ；检测温度 $2 5 0 ^ { \circ } \mathrm { C }$ ；进样量： $1 ~ \mu \mathrm { L }$ ，载气为高纯氮气（ $9 9 . 9 9 ~ \%$ )，压力 $0 . 7 \mathrm { M P a }$ ，检测器氢气压力 $0 . 4 \mathrm { M P a }$ ，空气压力 $0 . 4 \mathrm { M P a }$ ，毛细管柱压力 $0 . 6 { \sim } 0 . 8 \mathrm { M P a }$ ，分流比40。得到标准曲线见表2。
+
+Table 2Standard curve for VFA concentration calculation   
+
+<html><body><table><tr><td>项目Items</td><td>标准曲线 Standard curve</td><td>r</td></tr><tr><td>乙酸ACE</td><td>Y=5 786.42X+2 033.80</td><td>0.999</td></tr><tr><td>丙酸PRO</td><td>Y=10 963.30X+8 405.98</td><td>0.999</td></tr><tr><td>异丁酸ISOB</td><td>Y=27 051.50X+2 576.41</td><td>0.998</td></tr><tr><td>丁酸BUTY</td><td>Y=16 064.80X+8 525.77</td><td>0.998</td></tr><tr><td>异戊酸ISOV</td><td>Y=25 745.30X+3 052.60</td><td>0.997</td></tr><tr><td>戊酸VAL</td><td>Y=22 200.90X+4 885.26</td><td>0.997</td></tr></table></body></html>
+
+标准曲线中：Y为进样的峰面积； $X$ 为组分浓度（mmol/L）。 In standard curves:Y was peak area of the sample; $X$ was the concentration of the fraction（mmol/L）.
+
+# 102 1.4.5 消化酶活力
+
+淀粉酶（AMS）、脂肪酶（LPS）、胰蛋白酶（TYS）、纤维素酶（CLS）活力测定采用南京建成生物工程研究所提供的试剂盒进行测定。活力单位定义：每毫升含酶溶液在 $3 7 ^ { \circ } \mathrm { C }$ 下与底物作用$3 0 \mathrm { m i n }$ ，水解 $1 0 \mathrm { m g }$ 淀粉定义为1个AMS 活力单位;每毫升含酶溶液在 $3 7 ^ { \circ } \mathrm { C }$ 下与底物作用 $1 \mathrm { m i n }$ ，每消耗 $1 \mu \mathrm { m o l }$ 底物为1个LPS 活力单位；每毫升含酶溶液在 $3 7 ^ { \circ } \mathrm { C } .$ ， $\mathrm { p H } { = } 8 . 0$ 的条件下，每分钟使反应体系的吸光度值（波长为 $2 5 3 { \mathrm { n m } } .$ ）变化0.003即为1个TYS 活力单位；每毫升含酶溶液每分钟催化产生 $1 \mu \ g$ 葡萄糖定义为1个CLS 活力单位。
+
+# 1.5 统计分析
+
+试验数据采用 SAS 9.0 软件的 ANOVA 程序进行单因素方差分析，Duncan 氏法进行多重比较， $P { < } 0 . 0 5$ 为差异显著，各组试验数据以“平均值 $\pm$ 标准差”表示。
+
+# 2 结果与分析
+
+# 2.1产气量、产气速率和DMD
+
+114 从表3中可以看出，以甘氨酸铜作为添加剂时，随着铜含量的升高，瘤胃发酵总产气量呈现  
+115 出先上升后达到稳定的趋势，铜含量在 $1 0 . 0 { \sim } 2 0 . 0 \ \mathrm { m g / k g }$ 时，总产气量处于稳定状态，在 $7 5 . 0 \mathrm { m L }$   
+116 左右波动，只有铜含量达到 $2 5 . 0 \mathrm { m g / k g }$ 时的总产气量显著高于铜含量为 $5 . 0 \mathrm { m g / k g }$ 时 $( P { < } 0 . 0 5 )$ ，  
+117 其他各组之间总产气量差异均不显著（ $. P { > } 0 . 0 5 \$ ）。随着铜含量的升高，甲烷产量呈现先上升后下  
+118 降的趋势，在铜含量为 $1 0 . 0 \mathrm { m g / k g }$ 时达到最大值 $1 0 . 5 4 \mathrm { m L }$ ，显著高于铜含量为 $5 . 0 , 2 0 . 0 , 2 5 . 0 \mathrm { m g / k g }$   
+119 时（ $_ { . } P { < } 0 . 0 5 )$ ，但与铜含量为 $1 5 . 0 \mathrm { m g / k g }$ 时的甲烷产量 $1 0 . 4 2 \mathrm { m L }$ 之间差异不显著（ $. P { > } 0 . 0 5 )$ 。随着  
+120 铜含量的升高，DMD出现先上升后下降的趋势，当铜的含量为 $1 5 . 0 \mathrm { m g / k g }$ 时，DMD 达到最大值  
+121 $6 3 . 8 5 8 \%$ ，并且显著高于铜含量为5.0和 $2 5 . 0 \mathrm { m g / k g }$ 时（ $_ { . } P { < } 0 . 0 5$ ）。
+
+表2VFA浓度计算标准曲线  
+表3底物铜含量对体外瘤胃发酵产气量和DMD的影响  
+ible 3Effects of copper content of substrate on gas production and DMD of in vitro rumen ferment   
+
+<html><body><table><tr><td rowspan="3">项目Items</td><td colspan="5">铜含量Copper content/（mg/kg)</td><td rowspan="3">P值 P-value</td></tr><tr><td>5.0</td><td>10.0</td><td>15.0</td><td>20.0</td><td>25.0</td></tr><tr><td>总产气量 Total gas production(mL)</td><td>67.0±11.7a</td><td>75.2±2.8ab</td><td>74.8±3.3ab</td><td>75.0±5.6ab</td><td>79.8±4.5b</td><td>0.259</td></tr></table></body></html>
+
+<html><body><table><tr><td>甲烷产量 Methane production(mL)</td><td>7.08±1.87a</td><td>10.54±2.77b</td><td>10.42±1.99b</td><td>6.90±2.60a</td><td>6.78±2.86a</td><td>0.015</td></tr><tr><td>干物质消化率 DMD/%</td><td>45.821±6.831a</td><td>50.638±6.309ab</td><td>63.858±12.627b</td><td>52.677±0.837ab</td><td>46.279±7.599a</td><td>0.097</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著（ $P { < } 0 . 0 5 \rangle$ ，相同字母表示差异不显著（ $. P { > } 0 . 0 5$ )。下表同。
+
+In the same row,values with different letter superscripts mean significant difference ( $_ { ( P < 0 . 0 5 ) }$ ），while with the same letter superscripts mean no significant different ( ${ \mathrm { \ P } } { > } 0 . 0 5$ ）.The same as below.
+
+从图1中可以看出，随着发酵时间的延长，5组的产气速率都出现先上升后下降的趋势，最后产气速率趋近于0，在 $5 \mathrm { \sim } 9 \mathrm { h }$ 之间产气速率达到最大值，呈现单峰形状。
+
+![](images/dabab33084d158cd9664e4e8490e8262372ac7dbf10a756e28625f1a7edafd35.jpg)  
+图1底物铜含量对体外瘤胃发酵产气速率的影响  
+Fig.1Efects of copper content of substrate on gas production rate of in vitro rumen fermentation
+
+# 2.2pH和 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 、MCP 浓度
+
+从表4中可以看出，以甘氨酸铜作为添加剂时，随着铜含量的升高，体外发酵后pH呈现先上升后下降的趋势，铜含量在 $1 0 . 0 { \sim } 1 5 . 0 \mathrm { m g / k g }$ 时， $\mathsf { p H }$ 达到稳定趋势，并且显著高于铜含量为5.0$\mathrm { m g / k g }$ 时（ $. P { < } 0 . 0 5 .$ ）。各组体外发酵后 $\mathsf { p H }$ 处于 $6 . 7 1 \sim 7 . 1 6$ 之间，都属于牦牛瘤胃液 $\mathrm { \ p H }$ 正常范围之内。随着铜含量的升高，体外发酵后的 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度出现先稳定后降低的趋势，当铜的含量在$5 . 0 { \sim } 1 5 . 0 \ \mathrm { m g / k g }$ 时 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度处于稳定居高的状态，都在 $1 0 . 0 0 \mathrm { m g / d L }$ 之上，当铜的含量在 $2 0 . 0 \sim$ $2 5 . 0 ~ \mathrm { m g / k g }$ 时 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度略低，在 $1 0 . 0 0 ~ \mathrm { m g / d L }$ 之下。铜含量为 $5 . 0 ~ \mathrm { m g / k g }$ 时 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度显著高于铜含量为20.0 和 $2 5 . 0 ~ \mathrm { m g / k g }$ 时（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。随着铜含量的升高，体外发酵后MCP浓度出现先升高后降低的趋势，在铜含量为 $1 0 . 0 { \sim } 1 5 . 0 ~ \mathrm { m g / k g }$ 时达到稳定状态，都为 $4 . 2 8 9 ~ \mathrm { g / L }$ ，显著高于铜含量为 $5 . 0 \mathrm { m g / k g }$ 时的MCP浓度（ $P { < } 0 . 0 5$ ）。
+
+表4底物铜含量对体外瘤胃发酵pH和 $\mathrm { N H } _ { 3 - \mathrm { N } }$ 、MCP浓度的影响Table 4Efects ofcopper content ofsubstrate onpH,NH3-Nand MCPconcentrations of invitro rumen fermentation  
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="5">铜含量Copper content/（mg/kg)</td><td rowspan="2">P值 P-value</td></tr><tr><td>5.0</td><td>10.0</td><td>15.0</td><td>20.0</td><td>25.0</td></tr><tr><td>项目Items pH</td><td>6.71±0.36a</td><td>7.16±0.03b</td><td>7.11±0.15b</td><td>6.97±0.14ab</td><td>7.03±0.10ab</td><td>0.103</td></tr><tr><td>氨氮 NH3-N/(mg/dL)</td><td>11.40±0.40a</td><td>10.31±0.80ab</td><td>10.55±0.61ab</td><td>9.53±0.36b</td><td>9.74±0.81b</td><td>0.030</td></tr><tr><td>微生物蛋白质 MCP/(g/L)</td><td>1.949±0.551a</td><td>4.289±0.551b</td><td>4.289±0.551b</td><td>3.059±0.551b</td><td>3.119±2.206ab</td><td>0.022</td></tr></table></body></html>
+
+从表5中可以看出，以甘氨酸铜作为添加剂时，随着铜含量的升高，发酵后乙酸、丙酸、异丁酸、丁酸、异戊酸、戊酸、总挥发性脂肪酸(TVFA)的浓度都出现先上升后下降的趋势。乙酸的浓度在铜含量为 $1 0 . 0 \mathrm { m g / k g }$ 的时候达到最大值 $5 1 . 0 7 5 \ \mathrm { m m o l / L }$ ；丙酸、异丁酸、丁酸、异戊酸、戊酸、TVFA 的浓度都在铜含量为 $1 5 . 0 \mathrm { m g / k g }$ 的时候达到最大值，分别为24.475、0.470、8.977、1.159、1.607、81.583mmol/L。乙酸/丙酸出现先下降后上升的趋势，在铜含量为 $1 5 . 0 ~ \mathrm { m g / k g }$ 的时候达到最小值 2.045。当铜含量为 $1 0 . 0 \mathrm { m g / k g }$ 时,体外发酵后乙酸浓度显著高于铜含量为 5.0 和 $2 5 . 0 \mathrm { m g / k g }$ 时（ $_ { . } P { < } 0 . 0 5 )$ ）；当铜含量为 $1 5 . 0 \mathrm { m g / k g }$ 时，体外发酵后丙酸浓度显著高于其他所有组（ $\cdot P { < } 0 . 0 5 )$ ），铜含量为 $1 0 . 0 \mathrm { m g / k g }$ 时，体外发酵后丙酸浓度显著高于铜含量为5.0 和 $2 5 . 0 \mathrm { m g / k g }$ 时 $( P { < } 0 . 0 5 )$ ;当铜含量为10.0 和 $1 5 . 0 \mathrm { m g / k g }$ 时，体外发酵后异丁酸浓度差异不显著（ $. P { > } 0 . 0 5$ ），但显著高于其他各组（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ）；当铜含量为10.0和 $1 5 . 0 \mathrm { m g / k g }$ 时，体外发酵后丁酸浓度都显著高于其他各组（ $P { < } 0 . 0 5$ ），且这2组之间差异显著（ $P { < } 0 . 0 5 \$ ）；当铜含量为10.0和 $1 5 . 0 \mathrm { m g / k g }$ 时，体外发酵后异戊酸浓度都显著高于其他各组（ $. P { < } 0 . 0 5 \$ ），这2组之间差异不显著（ $( P { > } 0 . 0 5 )$ ）；当铜含量为10.0和 $1 5 . 0 ~ \mathrm { m g / k g }$ 时，体外发酵后戊酸浓度都显著高于其他各组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ），且这2组之间差异显著（ $P { < } 0 . 0 5$ ）；当铜含量为10.0和 $1 5 . 0 \ \mathrm { m g / k g }$ 时，体外发酵后TVFA 浓度都显著高于铜含量为5.0和 $2 5 . 0 \ \mathrm { m g / k g }$ 时（ $. P { < } 0 . 0 5 \$ ），这2组之间差异不显著（ $. P { > } 0 . 0 5 \$ ）；当铜含量为 $1 5 . 0 ~ \mathrm { m g / k g }$ 时，体外发酵后乙酸/丙酸显著低于铜含量为5.0、10.0、 $2 0 . 0 \mathrm { m g / k g }$ 时（ $. P { < } 0 . 0 5$ ）。
+
+表5底物铜含量对体外瘤胃发酵VFA浓度的影响  
+Table 5Effects of copper content of substrate on VFA concentrations of $\dot { \iota } n$ vitro rumen fermentation   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">铜含量 Copper content/（mg/kg)</td><td rowspan="2">P值 P-value</td></tr><tr><td>5.0</td><td>10.0</td><td>15.0</td><td>20.0</td><td>25.0</td></tr><tr><td>乙酸 ACE/(mmol/L)</td><td>37.569±5.541a</td><td>51.075±8.148c</td><td>44.895±1.268abc</td><td>47.270±3.415bc</td><td>39.176±0.854ab</td><td>0.023</td></tr><tr><td>丙酸PRO/(mmol/L)</td><td>14.409±2.021a</td><td>19.679±2.947b</td><td>24.475±1.228c</td><td>16.926±4.612ab</td><td>15.321±0.177a</td><td>0.001</td></tr><tr><td>异丁酸 ISOB/(mmol/L)</td><td>0.273±0.065a</td><td>0.389±0.099b</td><td>0.470±0.222b</td><td>0.272±0.050a</td><td>0.258±0.013a</td><td>0.003</td></tr><tr><td>丁酸BUTY/(mmol/L)</td><td>4.190±0.702a</td><td>5.722±0.984b</td><td>8.977±1.570c</td><td>4.500±1.105a</td><td>4.152±0.205a</td><td><0.001</td></tr><tr><td>异戊酸 ISOV/(mmol/L)</td><td>0.733±0.160a</td><td>1.006±0.234b</td><td>1.159±0.546b</td><td>0.737±0.084a</td><td>0.739±0.049a</td><td>0.006</td></tr><tr><td>戊酸 VAL/(mmol/L)</td><td>0.359±0.083a</td><td>0.512±0.124b</td><td>1.607±0.243c</td><td>0.358±0.073a</td><td>0.342±0.008a</td><td><0.001</td></tr><tr><td>总挥发性脂肪酸 TVFA/(mmol/L)</td><td>57.531±8.557a</td><td>78.383±12.444b</td><td>81.583±4.765b</td><td>70.062±9.341ab</td><td>60.022±1.117a</td><td>0.008</td></tr><tr><td>乙酸/丙酸 A/P</td><td>2.606±0.018a</td><td>2.594±0.078a</td><td>2.045±0.196b</td><td>2.872±0.581a</td><td>2.557±0.026ab</td><td>0.029</td></tr></table></body></html>
+
+# 2.4消化酶活力
+
+从表6中可以看出，随着铜含量升高，体外发酵后AMS 活力出现先保持较高水平后下降再上升的趋势，LPS、TYS 和CLS 活力都出现先升高后降低的趋势。AMS 活力在铜含量为 $5 . 0 \mathrm { m g / k g }$ 时达到最大值 $0 . 5 3 1 \mathrm { U / m L }$ ，但与铜含量为 $1 0 . 0 , \ 2 5 . 0 \mathrm { m g / k g }$ 时差异不显著 $( P { > } 0 . 0 5 )$ ，这3组的显著高于其他2组（ $\cdot P { < } 0 . 0 5 \$ ；当铜含量为 $1 5 . 0 \ \mathrm { m g / k g }$ 时，LPS 活力达到最大值 $0 . 5 0 4 \ \mathrm { U / m L }$ ，显著高于其他所有组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）；当铜含量为 $1 5 . 0 ~ \mathrm { m g / k g }$ 时，TYS 活力达到最大值 $\mathrm { 8 4 . 1 6 7 ~ U / m L }$ ，显著高于铜含量为 $5 . 0 , \ 2 0 . 0 , \ 2 5 . 0 \ \mathrm { m g / k g }$ 时（ $( P { < } 0 . 0 5 )$ ，但与铜含量为 $1 0 . 0 \ \mathrm { m g / k g }$ 时差异不显著0 $( P { > } 0 . 0 5 )$ ；当铜含量为 $1 5 . 0 \mathrm { m g / k g }$ 时,CLS 活力达到最大值 $7 9 . 9 5 6 \mathrm { U } / \mathrm { m L }$ ,与铜含量为 $2 5 . 0 \mathrm { m g / k g }$ 时差异不显著，且这2组都显著高于铜含量为 $5 . 0 \mathrm { m g / k g }$ 时（ $_ { . } { P } { < } 0 . 0 5 )$ 。
+
+表6底物铜含量对体外瘤胃发酵消化酶活力的影响  
+Table 6Efects of copper content of substrate on digestive enzyme activities of in vitro rumen fermentation U/mL   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">铜含量 Copper content/ （mg/kg)</td><td rowspan="2">P值 P-value</td></tr><tr><td>5.0</td><td>10.0</td><td>15.0</td><td>20.0</td><td>25.0</td></tr><tr><td>淀粉酶AMS</td><td>0.531±0.116a</td><td>0.478±0.114a</td><td>0.229±0.037b</td><td>0.242±0.119b</td><td>0.465±0.071a</td><td>0.006</td></tr><tr><td>脂肪酶LPS</td><td>0.419±0.015a</td><td>0.470±0.015b</td><td>0.504±0.015c</td><td>0.462±0.026b</td><td>0.462±0.000b</td><td>0.001</td></tr><tr><td>胰蛋白酶TYS</td><td>32.713±8.099a</td><td>79.491±8.099cd</td><td>84.167±14.028d</td><td>60.787±8.099b</td><td>65.463±8.099bc</td><td><0.001</td></tr><tr><td>纤维素酶CLS</td><td>54.463±4.014a</td><td>74.162±2.007ab</td><td>79.956±9.198b</td><td>73.004±21.710ab</td><td>77.639±11.175b</td><td>0.144</td></tr></table></body></html>
+
+174 3讨论
+
+瘤胃气体发酵产物主要包括二氧化碳、甲烷、氢气、VFA等[2I]，来源于饲粮中有机物质的降解，总产气量的多少反映饲粮的降解程度[22]，产气量越高，表明饲粮发酵越充分，为机体提供的能量越多，越有利于动物的生长。本试验中总产气量和甲烷产量随着底物铜含量的升高而增加，由此可见，添加甘氨酸铜有利于瘤胃发酵。产气速率出现先上升后下降的单峰趋势，这是由于发酵初期，发酵底物中的可溶性糖等成分易于被微生物所利用，迅速产生气体，随着发酵时间的延长，可发酵成分越来越少，产气速率也慢慢降低，最终趋近于0。pH是瘤胃发酵的综合反映，受发酵底物类型、有机酸沉淀等各种因素的影响[23]，只有当 $\mathsf { p H }$ 处于正常范围之内，才能够保证瘤胃发酵、饲料降解的正常进行。本试验不同铜含量下体外发酵后的 $\mathsf { p H }$ 都在反刍动物瘤胃液pH正常范围 $5 . 6 { \sim } 7 . 5$ 之内。
+
+184 DMD 直接反映饲粮在瘤胃中的降解程度，本试验中，随着铜含量的提高，DMD先增大后减  
+185 小，在铜含量为 $1 5 . 0 ~ \mathrm { m g / k g }$ 的时候达到最大值 $6 3 . 8 5 8 \%$ ，由此可见铜含量 $1 5 . 0 ~ \mathrm { m g / k g }$ 最有利于饲  
+186 料的降解。这与瘤胃消化道酶活力的测定结果基本吻合，其中LPS、TYS 和CLS3种消化酶的活  
+187 力都在铜含量为 $1 5 . 0 \ \mathrm { m g / k g }$ 的时候达到最大值。只有AMS的活力出现了先降低后升高的趋势，  
+188 并且DMD 在铜含量为 $1 0 . 0 \ \mathrm { m g / k g }$ 的时候也处于较高水平。因此从瘤胃消化酶活力和DMD 的角  
+189 度看，当铜的含量在 $1 0 . 0 { \sim } 1 5 . 0 \ \mathrm { m g / k g }$ 的时候，最有利于饲粮的降解。本试验中所测定的耗牛瘤  
+190 胃消化酶活力与张海涛等[24]测定的犊牛瘤胃内AMS 活力 $0 . 2 9 { \sim } 1 . 7 4 \mathrm { U } / \mathrm { m L }$ 、刘彩娟等[25]测定的奶  
+191 牛瘤胃中CLS 活力 $7 1 . 4 3 { \sim } 9 9 . 0 5 \ \mathrm { U / m L }$ 、Moharrery 等[26]测定的奶牛十二指肠中AMS 活力 $0 . 7 0 \sim$   
+192 $3 1 . 9 9 \mathrm { U / m L }$ 、LPS 活力 $0 . 1 5 { \sim } 0 . 8 1 \mathrm { U } / \mathrm { m L }$ 都基本上处于同一水平；只有 TYS 活力远高于 Moharrery  
+193 等[26]测定的奶牛十二指肠中 TYS 活力 $5 . 5 5 { \sim } 1 1 . 4 2 \ \mathrm { U / m L }$ 、王杰[27测定的羊瘤胃中 TYS 活力  
+194 $1 8 . 0 9 { \sim } 2 4 . 5 6 ~ \mathrm { U / m L }$ ，而达到 $3 2 . 7 1 3 { \sim } 8 4 . 1 6 7 \ \mathrm { U / m L }$ 。Goodrich等[28]给瘤胃液中添加不同含量的铜  
+195 进行体外培养的试验表明，铜对纤维素的降解有很大的促进作用。Saxena等[29]的研究也表明，饲  
+196 粮中添加铜可以促进瘤胃微生物对纤维素的降解作用，而本试验中添加铜也显著提高了牦牛瘤胃  
+197 体外发酵后CLS活力，这将对瘤胃微生物降解纤维素起到积极的作用。
+
+$\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 来源于饲粮中蛋白质的降解，主要用于微生物合成 $\mathbf { M C P } ^ { [ 3 0 ] }$ ，在瘤胃中基本处于动态平衡。本试验中5组的 $\mathrm { \Delta N H _ { 3 }  – N }$ 浓度都处于正常范围 $0 . 3 5 { \sim } 2 9 . 0 ~ \mathrm { m g / d L } ^ { [ 3 1 . 3 2 ] }$ 之内，并且随着铜含量的提高， $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度出现降低的趋势，但当铜含量在 $1 0 . 0 { \sim } 1 5 . 0 ~ \mathrm { m g / k g }$ 的时候， $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度还处于整体较高值。MCP提供了反刍动物机体 $4 0 \% \sim 6 0 \%$ 的蛋白质需要量，随着铜含量的提高，MCP浓度出现先升高后降低的趋势，且在铜含量为 $1 0 . 0 { \sim } 1 5 . 0 \ \mathrm { m g / k g }$ 的时候达到最大值。由此可见，铜含量为 $1 0 . 0 { \sim } 1 5 . 0 \ \mathrm { m g / k g }$ 的时候，最有利于 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 和MCP的形成。当铜含量较低的时候，可能是由于微生物合成MCP的能力较弱，从而使MCP浓度处于较低水平，并且也导致 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 转化成MCP的反应受到抑制，从而使 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度处于较高的水平。
+
+VFA 是反刍动物重要的能量物质，提供了反刍动物 $6 0 \% \sim 8 0 \%$ 的消化能[33-34]。本试验中丙酸、异丁酸、丁酸、异戊酸、戊酸、TVFA 的浓度都在铜含量为 $1 5 . 0 \ \mathrm { m g / k g }$ 的时候达到最大值，乙酸的浓度在铜含量为 $1 0 . 0 \mathrm { m g / k g }$ 的时候达到最大值。同时，对于反刍动物来说，动物机体所需要的能量主要来源于肝脏组织糖异生作用产生的葡萄糖，而丙酸是糖异生作用的重要前体物质，是一种高效酸，乙酸/丙酸越低，表明丙酸所占比例也越大，越利于反刍动物的生长，本试验中乙酸/丙酸的比例在铜含量为 $1 5 . 0 ~ \mathrm { m g / k g }$ 的时候达到最低值。由此可见，铜含量为 $1 0 . 0 { \sim } 1 5 . 0 ~ \mathrm { m g / k g }$ 的时候，最有利于能量物质的生成，最有利于牦牛的生长。
+
+# 4结论
+
+综上所述，体外条件下，对于生长期牦牛，若以甘氨酸铜作为铜元素的添加形式，牦牛饲粮铜含量在 $1 0 . 0 { \sim } 1 5 . 0 \ \mathrm { m g / k g }$ 时，有利于瘤胃发酵和饲粮降解。而本试验牦牛饲粮中的微量元素铜的基础含量只有 $4 . 3 9 5 ~ \mathrm { m g / k g }$ ，远低于牦牛对铜的需要量 $1 0 . 0 { \sim } 1 5 . 0 ~ \mathrm { m g / k g }$ ，处于极度缺乏状态，必须额外补充微量元素铜，才能更大限度地改善牦牛瘤胃发酵，提高生长性能。
+
+[1]WIENER G,HAN JL,LONGR J.The yak[M] $3 ^ { \mathrm { n d } }$ ed.Bangkok:RAP Publication,2003:1-18.[2] 胡令浩.牦牛营养研究论文集[M].西宁:青海人民出版社,1997.[3] 韩兴泰,胡令浩,谢敖云,等.粗饲条件下生长牦牛能量代谢的估测[J].青海畜牧兽医杂  
+222 志,1992,22(2):21-22.  
+223 [4]薛白,柴沙驼,刘书杰.生长期牦牛蛋白质需要量的研究[J].青海畜牧兽医杂志,1994,24(4):1-4.  
+224 [5] 刘宗平.现代动物营养代谢病学[M].北京:化学工业出版社,2003:132-142.  
+225 [6]杨凤.动物营养学[M].2版.北京:中国农业出版社,2003:116-117.  
+226 [7] 袁施彬,何平,陈代文.微量元素铜的营养生理功能和促生长机制[J].饲料工业,2004,25(7):23-26.  
+227 [8] 郭宝林.不同饲料铜源对绵羊铜代谢及纤维素降解影响的研究[D].博士学位论文.北京:中国农  
+228 业大学,2004.  
+229 [9]杨文正,章世元,林在光,等.动物矿物质营养[M].北京:中国农业出版社,1996:6-9.  
+230 [10] 吴建设,呙于明.微量元素铜的营养与免疫研究进展[J].国外畜牧科技,1999,26(1):5-9.  
+231 [11] 李文立,黄新成.微量元素添加剂对牛育肥效果试验报告[J].莱阳农学院学
+
+232 报,1994,11(4):313-315.   
+233 [12]杨正德.不同铜添加水平对肉牛铜代谢及肥育性能的影响[J].中国畜牧杂志,2000,36(3):14-16.   
+234 [13]杨红建.肉牛微量元素铜的营养[J].饲料研究,1999(8):1-3.   
+235 [14]PERRY J M,ZHAO Y,MARLETTA M A,et al. $\mathrm { C u } ^ { 2 + }$ and $Z \mathrm { n } ^ { 2 + }$ inhibit nitric-oxide synthase through   
+236 an interaction withthereductasedomain[J].TheJournalofBiological   
+237 Chemistry,2000,275(19):14070-14076.   
+238 [15]马长星.奶牛对微量元素铜的营养需要研究[J].畜牧兽医科技信息,2010(11):43.   
+239 [16]MENKE K H,RAAB L,SALEWSKI A,et al.The Estimation of the digestibility and metabolizable   
+240 energy content of ruminant feedingstuffs from the gas production when they are incubated with rumen   
+241 liquor in vitro[J].Journal of Agriculture Science,1979,93(1):217-222.   
+242 [17]中华人民共和国国家质量监督检验检疫总局.GB/T13885-2003 动物饲料中钙、铜、铁、镁、   
+243 锰、钾、钠和锌含量的测定 原子吸收光谱法[S].北京:中国标准出版社,2004.   
+244 [18]冯宗慈,高民.通过比色测定瘤胃液氨氮含量方法的改进[J].畜牧与饲料科学,2010,31(6/7):37.   
+245 [19]曹庆云,周武艺,朱贵钊,等.气相色谱测定羊瘤胃液中挥发性脂肪酸方法研究[J].中国饲   
+246 料,2006(24):26-28.   
+247 [20]王加启.反刍动物营养学研究方法[M].北京:现代教育出版社,2011:139-141.   
+248 [21]MENKE K H,STEINGASS H.Estimation of the energetic feed value obtained from chemical   
+249 analysisandinvitrogasproductionusingrumenfluid[J].AnimalResearchand   
+250 Development,1988,28:7-55.   
+251 [22]哈斯花.体外发酵产气技术在饲料营养价值评定中的作用[J].当代畜禽养殖业,2013(1):15-19.   
+252 [23] 高天爽,孙海霞,谢小来,等.日粮中高梁替代玉米对绵羊瘤胃发酵的影响[J].黑龙江畜牧兽   
+253 医,2014(9):7-10.   
+254 [24]张海涛,王加启,卜登攀,等.纳豆枯草芽孢杆菌对犊牛断奶前后瘤胃发酵和酶活的影响[J].中国   
+255 畜牧兽医,2009,36(12):5-11.   
+256 [25]刘彩娟,孙满吉,孙金艳,等.饲粮中添加复合益生菌对奶牛瘤胃发酵及纤维素酶活的影响[J].动   
+257 物营养学报,2011,23(5):821-827.   
+258 [26]MOHARRERY A,BRASK M,WEISBJERG MR.The effect of different physical forms of   
+259 rapeseed as a fat supplement on the activity of some enzymes in the duodenal chyme of dairy   
+260 cows[J].Journal of Animal and Feed Sciences,2014,23(4):293-298.   
+261 [27]王杰.小尾寒羊、滩羊生长性能及其主要消化生理参数的比较[D].硕士学位论文.杨凌:西北农   
+262 林科技大学,2008.   
+263 [28]GOODRICH R D,TILLMAN A D.Effcts of sulfur and nitrogen sources and copper levels on the   
+264 metabolism of certain minerals by sheep[J].Journal of Animal Science,1966,25(2):484-491.   
+265 [29]SAXENA K K,RANJHAN S K.A note on the effect of cobalt and copper supplementation on in   
+266 vivo celllose digestion by nylon-bag technique in Hariana calves[J].Indian Journal of Animal   
+267 Science,1978,48:833-835.   
+268 [30] LENG R A,NOLAN J Y.Nitrogen metabolism in the rumen[J].Journal ofDairy   
+269 Science,1984,67(5):1072-1089.   
+270 [31]SLYTER L L.Monensin and dichloroacetamide influences on methane and volatile Fatty Acid   
+271 production by rumen bacteria in vitro[J].Applied and Environmental Microbiology,1979,37(2):283-288.   
+272 [32]COLEMAN G S,SANDFORD D C.The uptake and utilization of bacteria,amino acids and nucleic   
+273 acidcomponentsbytherumenciliateEudiplodiniummaggi[J].JournalofApplied   
+274 Bacteriol0gy,1979,47(3):409-419.   
+275 [33] GRAY GM.Starch digestion and absorption in nonruminants[J].The Journal of   
+276 Nutrition,1992,122(1):172-177.   
+277 [34]赵国琦,贾亚红,陈小连,等.不同 NDF/NFE 比的日粮对山羊瘤胃发酵参数影响的研究[J].中国   
+278 畜牧杂志,2006,42(13):29-33.   
+279 Effects of Dietary Copper Content on Rumen Fermentation of Yaks in Vitro   
+280 XUE Yanfeng1HAO Lizhuang1\* LIU Shujiel\* CHAI ShatuolZHANG Xiaowei1ZHAO   
+281 Suonan2   
+282 (1. State Key Laboratory of Plateau Ecology and Agriculture, Key Laboratory of Plateau Grazing   
+283 Animal Nutrition and Feed Science of Qinghai Province, Qinghai Plateau Yak Research Center,   
+284 Qinghai Academy of Science and Veterinary Medicine of Qinghai University, Xining 810016, China; 2.   
+285 Academy of Science and Veterinary Medicine of Haibei Prefecture, Haiyan 8102O0, China)   
+286 Abstract: To find an optimal content of copper in diet for yaks,cupric glycinate was used as additive,   
+287 and diet for yaks was used as a substrate for in vitro rumen fermentation in the present study. Copper   
+288 contents in substrates were designed as 5.0,10.0,15.0,20.0,25.0 mg/kg,respectively. The fermentation   
+289 lasted for $4 2 \mathrm { h }$ . After fermentation, gas production, rumen fermentation parameters and digestive enzyme   
+290 activities were measured. The results showed as follows: when the content of copper in substrate was   
+291 $1 5 . 0 \mathrm { m g / k g }$ ,dry matter digestibility (DMD), the concentrations of microbial protein (MCP), propionic   
+292 acid,isobutyric acid,butyric acid,isovaloric acid,valeric acid and total volatile fatyacids,as wellas the   
+293 activities of lipidase,trypsinase , cellulase reached the highest, which were $6 3 . 8 5 8 \%$ $4 . 2 8 9 \ : \mathrm { g / L }$ ,24.475   
+294 mmol/L, 0.470 mmol/L, 8.977 mmol/L,1.159 mmol/L,1.607 mmol/L,81.583 mmol/L, $0 . 5 0 4 \mathrm { U / m L }$ ，   
+295 （20 ${ 8 4 . 1 6 7 \mathrm { U } } / { \mathrm { m L } }$ and $7 9 . 9 5 6 \mathrm { U } / \mathrm { m L }$ , respectively; when the content of copper in substrate was $1 0 . 0 \mathrm { m g / k g }$   
+296 acetic acid and propionic acid reached the lowest, as 2.045; when the content of copper was $1 0 . 0 \mathrm { m g / k g }$   
+297 MCP and acetic acid concentrations reached the highest, which were $4 . 2 8 9 \ : \mathrm { g / L }$ and $5 1 . 0 7 5 \ \mathrm { m m o l / L }$ ，   
+298 respectively,and the values of other indexes were also on high levels.Therefore,under in vitro   
+299 conditions,the copper content recommended in yak's diet is between 10.0 and $1 5 . 0 \mathrm { m g / k g }$   
+300 Key words: yak; cupric glycinate; in vitro gas production technique; digestive enzyme activity; volatile   
+301 fatty acid

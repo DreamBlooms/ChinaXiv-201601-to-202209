@@ -1,0 +1,200 @@
+齐　博」武书庚 $^ 1$ 王晶 $^ 1$ 齐广海」张海军1\*阎桂玲²王旭²董延²（1.中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，生物饲料开发国家工程研究中心，北京 100081；2.赢创德固赛（中国）投资有限公司，北京 100026)摘要：本试验旨在研究枯草芽孢杆菌（Bacillus subtilis）对肉仔鸡生长性能、屠宰性能、肠道形态和菌群数量的影响。试验选取健康、体重相近的1日龄爱拔益加（AA）肉仔鸡公雏320只，随机分为4个组，每组8个重复，每个重复10只。对照组饲喂基础饲粮，试验组在基础饲粮中分别添加 $5 0 0 \mathrm { m g / k g }$ 枯草芽孢杆菌（Bacillus subtilis,BS 组）、 $2 0 \mathrm { m g / k g }$ 硫酸黏杆菌素(Colistin sulfate,CS组)和 $5 0 0 \mathrm { m g / k g }$ 枯草芽孢杆菌 $+ 1 0 \mathrm { m g / k g }$ 硫酸黏杆菌素( $\mathbf { \Delta B S + C S }$ 组）。结果表明：1)与对照组相比，BS组、CS 组能显著提高42 日龄肉仔鸡体重( $. P { < } 0 . 0 5 )$ ，提高后期（22\~42 日龄）平均日增重，显著降低后期和全期（1\~42 日龄）料重比（ $. P { < } 0 . 0 5 )$ ；BS+CS组未对各试验阶段肉仔鸡的生长性能产生显著影响（ $. P { > } 0 . 0 5$ ）。2）各试验组肉仔鸡的屠宰性能未见显著变化（ $. P { > } 0 . 0 5$ ）。3）与对照组相比，BS组可显著提高肉仔鸡十二指肠绒毛高度和十二指肠绒毛高度/隐窝深度 ( $. P { < } 0 . 0 5 \$ ）；4）与对照组相比，BS 组、CS 组、 $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组均能显著提高肉仔鸡42日龄时盲肠乳酸杆菌数量（ $P { < } 0 . 0 5$ ），BS组和 $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组可显著提高42日龄时盲肠中乳酸菌/大肠杆菌（ $P { < } 0 . 0 5$ ）。可见，枯草芽孢杆菌可改善肉仔鸡肠道形态，增加肠道中乳酸杆菌数量，促进肉仔鸡生长。综合考虑以上因素，枯草芽孢杆菌效果
+
+收稿日期：2015-12-17
+
+基金项目：家禽产业技术体系北京市创新团队（CARS-PSTP)
+
+作者简介：齐博(1991一)，男，陕西西安人，硕士研究生，从事单胃动物营养研究。E-mail:qibohuhu $@$ 163.com
+
+\*通信作者：张海军，副研究员，硕士生导师，E-mail:fowlfeed $@$ 163.com优于硫酸黏杆菌素，但联合使用效果不佳。
+
+关键词：枯草芽孢杆菌；硫酸黏杆菌素；生长性能；肠道形态；微生物区系
+
+中图分类号：S831；S816.7
+
+抗生素在现代畜禽养殖业的发展中扮演了极其重要的角色，为畜禽生长带来了巨大的经济效益，同时也具有较大的风险。随着抗生素的长期使用，菌株的耐药性也随之增强，对畜禽健康和生态环境造成了严重的影响[]。目前，许多国家已经规定在动物饲粮中禁止抗生素促生长剂的使用。因此，寻找抗生素替代物对维持畜禽健康生长和生态环境稳定具有重要的意义。枯草芽孢杆菌（Bacillus subtilis）是一种绿色、无污染的好氧性益生菌，具有耐压、抗酸碱等性能，通过胃酸后进入肠道，在肠道内能够以孢子形式迅速萌芽繁殖，能消耗掉肠道内大量的氧，抑制肠道有害菌并促进有益菌的增殖，改善饲料效率和肠道黏膜结构，对防治疾病产生、促进动物生长具有积极作用。已有研究表明，肉仔鸡饲粮中添加芽孢杆菌替代抗生素使用，可以达到促进生长发育，提高饲料效率的效果[2]。新型饲料添加剂的研制是近年来动物营养研究的热点之一。已有研究表明，肉仔鸡饲粮中添加 $0 . 1 \%$ 枯草芽孢杆菌能提高肉仔鸡平均日增重（ADG），降低料重比（F/G），促进肉仔鸡生长发育[3]； $0 . 3 \%$ 枯草芽孢杆菌能减少肉鸡肠道内大肠杆菌的数量，提高双歧杆菌的数量，保持肠道微生物区系平衡，维持机体健康[4]； $5 0 0 \mathrm { m g / k g }$ 的枯草芽孢杆菌能提高黄羽肉鸡十二指肠和空肠绒毛高度，降低隐窝深度，促进小肠消化吸收功能[5]。由于饲料中抗生素的限用和禁用是我国畜牧业发展的大趋势，而芽孢杆菌作为益生菌的独特功效已被广泛关注，但目前有关芽孢杆菌替代抗生素及联合使用的研究还不充分。因此，本试验旨在研究枯草芽孢杆菌替代抗生素以及联合使用对肉仔鸡生长性能、肠道形态、菌群数量的影响，为后期芽孢杆菌在肉仔鸡中的研究和应用提供理论依据和参考。
+
+# 1材料和方法
+
+# 1.1试验材料
+
+枯草芽孢杆菌制剂：枯草芽孢杆菌（DSM17299）活菌数为 $1 . 6 { \times } 1 0 ^ { 9 }$ CFU/g，微生物饲料添加剂，由赢创德固赛（中国）投资有限公司提供。硫酸黏杆菌素预混剂：有效成分含量 $10 \%$ （抗敌素），购自江西天佳动物药业有限公司。1.2试验动物和试验设计试验选取健康、体重相近的1日龄爱拔益加（AA）肉仔鸡公雏320只，随机分为4个组，每组8个重复，每个重复10只鸡。对照组饲喂基础饲粮，试验组在基础饲粮中分别添加 $5 0 0 \mathrm { m g / k g }$ 枯草芽孢杆菌（BS组）、 $2 0 \mathrm { m g / k g }$ 硫酸黏杆菌素（CS组）和 $5 0 0 \mathrm { m g / k g }$ 枯草芽孢杆菌 $+ 1 0 \mathrm { m g / k g }$ 硫酸黏杆菌素 ( $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组），试验设计见表1。采用4层立体网上养殖，试验期6周。
+
+# 表1试验设计
+
+Table1Experimental design组别 枯草芽孢杆菌
+
+Groups Bacillus subtilis/(CFU/g)
+
+对照组 Control group  
+枯草芽孢杆菌组 BS group 8.0×105硫酸黏杆菌素组 CS group  
+枯草芽孢杆菌 $+$ 硫酸黏杆菌素组 $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ group 8.0×105
+
+# 1.3试验饲粮
+
+试验采用单因素随机设计，基础饲粮参照NRC(1994)和鸡的饲养标准(NY/T33—2004)，结合《AA肉仔鸡饲养手册》配制。基础饲粮组成及营养水平见表2。
+
+表2基础饲粮组成及营养水平 (风干基础)
+
+Table 2Composition and nutrient levels of basal diets (air-dry basis)   
+
+<html><body><table><tr><td colspan="4">项目Items</td></tr><tr><td></td><td>1~21 日龄 1to 21 days of age</td><td>22~42日龄 22 to 42 days 0</td><td></td></tr><tr><td>玉米Corn</td><td>56.78</td><td></td><td>59.81</td></tr><tr><td>豆粕 Soybean meal</td><td>31.16</td><td></td><td>26.14</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>3.00</td><td></td><td>4.00</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>2.00</td><td></td><td>2.50</td></tr><tr><td>豆油 Vegetable oil</td><td>2.95</td><td></td><td>3.90</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>1.81</td><td></td><td>1.51</td></tr><tr><td>石粉 Limestone</td><td>1.28</td><td></td><td>1.21</td></tr><tr><td>食盐 NaCl</td><td>0.35</td><td></td><td>0.35</td></tr><tr><td>DL-蛋氨酸 DL-Met</td><td>0.21</td><td></td><td>0.12</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCI</td><td>0.14</td><td></td><td>0.14</td></tr><tr><td>维生素预混料 Vitamin premix1) 矿物质预混料 Mineral premix2)</td><td>0.02</td><td></td><td>0.02</td></tr><tr><td></td><td>0.20</td><td></td><td>0.20</td></tr><tr><td>氯化胆碱 Choline chloride (50%)</td><td>0.10</td><td></td><td>0.10</td></tr><tr><td>合计Total</td><td>100.00</td><td></td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td><td></td></tr><tr><td>代谢能 ME(MJ/kg)</td><td>12.34</td><td></td><td>12.75</td></tr><tr><td>粗蛋白质CP</td><td>20.50 （20.65)</td><td></td><td>19.00 (19.22)</td></tr><tr><td>钙Ca</td><td>1.00 (0.96)</td><td></td><td>0.90 （0.88)</td></tr><tr><td>总磷TP</td><td>0.71 (0.73)</td><td></td><td>0.65 (0.61)</td></tr><tr><td>有效磷 AP</td><td>0.45</td><td></td><td>0.40</td></tr><tr><td>赖氨酸Lys</td><td>1.10 (1.14)</td><td></td><td>1.00 （1.06)</td></tr><tr><td>蛋氨酸 Met</td><td>0.49 (0.51)</td><td></td><td>0.39 （0.43)</td></tr></table></body></html>
+
+1)维生素预混料为每千克饲粮提供Vitamin premix provided the following per $\mathrm { k g }$ of diets : VA 12 500 IU，VD32 500 IU, $\mathrm { V K } _ { 3 } 2 . 6 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 6 \mathrm { m g }$ ， $\mathbf { V B } _ { 1 2 } 0 . 0 2 5 \mathrm { m g }$ ，VE 30 IU。 2)矿物质预混料为每千克饲粮提供Mineral premix provided the following per $\mathrm { k g }$ of diets: Cu 8 mg, Zn 75 mg, Fe $8 0 ~ \mathrm { m g }$ , Mn 100 mg, Se 0.15 mg, $\mathrm { ~ I 0 . 3 5 m g }$ ，生物素 biotin $0 . 0 3 2 5 \mathrm { m g }$ 叶酸 folic acid $1 . 2 5 \mathrm { m g }$ ，泛酸 pantothenic acid $1 2 \mathrm { m g }$ ，烟酸 nicotinic acid $5 0 \mathrm { m g }$ 。 3)营养水平括号内为实测值，其余为计算值。Nutrition levels in the parentheses were measured values,while the others were calculated values.
+
+# 1.4饲养管理
+
+试验过程中，严格按照饲养管理规程操作，常规操作程序免疫接种，保持试验场地和鸡舍清洁卫生，正常消毒；试验鸡舍通风良好，饲料不受潮、不结块、无霉变，不添加任何其他的抗生素和促生长剂；饮水水质良好、无污染；试验用雏鸡健壮。自由采食、饮水。每天08:30、14:30分别记录鸡舍温度和湿度，定时清扫卫生。
+
+# 1.5 测定指标及方法
+
+# 1.5.1 生长性能
+
+分别于21和42日龄，以重复为单位，空腹称重鸡只，计算平均体重、平均日增重；试验期间以重复为单位，记录耗料量，计算试验前期、后期、全期的平均日采食量（ADFI）、料重比；每天记录死亡鸡只数，计算死亡率。
+
+# 1.5.2 屠宰性能
+
+于42日龄，每重复随机选取1只体重接近该重复平均值的肉仔鸡，颈静脉放血屠宰，分离得胸肌、腿肌和腹脂并称重，按照全国家禽育种委员会的“家禽生长性能计算方法”计算屠宰率、胸肌率、腿肌率和腹脂率。
+
+# 1.5.3 肠道形态
+
+于42 日龄，每重复随机选取1只体重接近该重复平均值的肉仔鸡，进行屠宰，剥离出十二指肠和空肠，各自截取中段约 $3 \mathrm { c m }$ 的肠道组织，用冰冷的生理盐水缓缓冲洗干净，浸入pH为7.4的福尔马林溶液，4℃冰箱保存，以备制作石蜡切片。将保存的肠道样本制作成石蜡切片，具体操作参照李慧的方法，采用甲苯胺蓝法染色。在光学显微镜下观察，每个切片随机抽取5个非连续性视野，每个视野统计3组数据，绒毛长度是指绒毛顶端到绒毛基部的长度，隐窝深度是指肠腺底部到两绒毛之间基部开口处的距离。
+
+# 1.5.4 菌群数量
+
+# 1.5.4.1肠道内容物的采集和稀释
+
+21和42日龄时，分别从每个试验组中随机选取8只鸡，肌肉注射戊巴比妥酸钠麻醉后迅速解剖，截取盲肠末端 $2 \mathrm { c m }$ 肠段，液氮保存。将样品从液氮中取出，在无菌操作室内用稀释液进行 $1 0 ^ { - 4 } { \sim } 1 0 ^ { - 6 }$ 倍稀释，小型振荡器充分混匀。
+
+# 1.5.4.2 滴种
+
+用微型移液枪用微型移液器吸取 $1 0 ~ \mathrm { m L }$ 经稀释后的样品，滴入培养基（大肠杆菌：伊红美蓝琼脂培养基；乳酸杆菌：乳酸杆菌选择性培养基）的相应梯度，每个样品3个重复，每个重复选择3个稀释度（大肠杆菌选 $1 0 ^ { - 3 }$ 、 $1 0 ^ { - 4 }$ 、 $1 0 ^ { - 5 }$ ；乳酸杆菌选 $1 0 ^ { - 4 }$ 、 $1 0 ^ { - 5 }$ 、 $1 0 ^ { - 6 }$ ）。滴种后的平血用灭菌曲玻棒小心推匀。
+
+# 1.5.4.3 培养
+
+大肠杆菌在 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 人工气候箱中有氧培养 $2 4 \mathrm { h }$ ；乳酸杆菌在 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 人工气候箱中厌氧培养 $4 8 \mathrm { h }$ 。
+
+# 1.5.4.4 菌落计数
+
+将培养后的平皿选择合适的浓度梯度(以长 $1 0 { \sim } 2 0$ 个菌落为宜),根据菌落可数性原则，即1个细菌产生1个菌落，对2种微生物进行平板菌落计数。
+
+# 1.6 试验数据统计分析
+
+先进行方差分析，再进行 $F$ 检验和Duncan氏多重比较， $P { < } 0 . 0 5$ 为差异显著。
+
+2结果
+
+2.1枯草芽孢杆菌对肉仔鸡生长性能的影响表3所示为枯草芽孢杆菌对肉仔鸡生长性能的影响。由表3可知，与对照组相比，BS  
+组、CS 组、 $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组均未对前期（1\~21日龄）肉仔鸡的生长性能产生显著影响（ $( P { > } 0 . 0 5 )$ ；  
+与对照组相比，BS 组、CS组、 $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组提高了肉仔鸡42日龄时的体重，其中BS组、CS  
+组与对照组差异显著（ $P { < } 0 . 0 5$ ），分别提高了 $3 . 5 5 \%$ 、 $4 . 3 0 \%$ ；BS 组、CS 组、 $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组提  
+高了后期（22\~42日龄）肉仔鸡的平均日增重，其中CS组与对照组差异显著（ $\scriptstyle P < 0 . 0 5 .$ ），  
+提高了 $7 . 2 5 \%$ ;BS 组、CS 组显著降低了后期和全期(1\~42日龄)肉仔鸡的料重比( $. P { < } 0 . 0 5 )$ ，  
+但 $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组对后期和全期肉仔鸡的料重比无显著影响（ $P { > } 0 . 0 5$ ）；BS组降低了前期、后期  
+和全期肉仔鸡的平均日采食量，但差异不显著（ $. P { > } 0 . 0 5$ ）。结果表明，与对照组相比，BS 组、CS 组能显著提高42日龄肉仔鸡体重（ $. P { < } 0 . 0 5$ ），  
+提高后期肉仔鸡平均日增重，显著降低后期和全期肉仔鸡料重比（ $P { < } 0 . 0 5$ ）； $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组对  
+各试验阶段肉仔鸡的生长性能无显著影响（ $P { > } 0 . 0 5$ ）；BS组、CS组、 $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组对各试验  
+阶段肉仔鸡的死亡率未见显著影响（ $. P { > } 0 . 0 5 \$ ）。研究提示，枯草芽孢杆菌或硫酸黏杆菌素能促进肉仔鸡后期生长发育，但两者之间没有  
+协同作用。
+
+# 表3枯草芽孢杆菌对肉仔鸡生长性能的影响
+
+<html><body><table><tr><td colspan="3"></td><td rowspan="2">枯草芽孢杆菌+</td></tr><tr><td>对照组</td><td>枯草芽孢杆菌组</td><td>硫酸黏杆菌素组</td></tr><tr><td>Control group</td><td>BS group</td><td>CS group</td><td>硫酸黏杆菌素组</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>BS+CS group</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="6">1~21 日龄1 to 21 days of age</td></tr><tr><td>体重BW/g</td><td>815.45±41.50</td><td>805.42±46.90</td><td>811.11±36.80</td><td>803.37±45.71</td><td>0.970</td></tr><tr><td>平均日增重 ADG/g</td><td>35.23±2.80</td><td>34.58±3.05</td><td>34.72±1.81</td><td>35.63±2.23</td><td>0.784</td></tr><tr><td>平均日采食量 ADFI/g</td><td>49.78±4.11</td><td>47.61±3.20</td><td>48.40±2.62</td><td>49.92±2.87</td><td>0.261</td></tr><tr><td>料重比F/G</td><td>1.41±0.06</td><td>1.39±0.06</td><td>1.40±0.03</td><td>1.40±0.06</td><td>0.570</td></tr><tr><td>死亡率 Mortality</td><td>1.04±2.95</td><td>0.00±0.00</td><td>1.04±2.95</td><td>0.00±0.00</td><td>0.314</td></tr><tr><td>rate/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="6">22~42 日龄 22 to 42 days of age</td></tr><tr><td>体重BW/g</td><td>2 262.42±65.46b</td><td>2 342.76±78.01a</td><td>2 359.72±71.92a</td><td>2 314.60±44.50ab</td><td>0.036</td></tr><tr><td>平均日增重 ADG/g</td><td>69.20±3.75b</td><td>73.47±2.92ab</td><td>74.22±3.25a</td><td>72.16±2.83ab</td><td>0.048</td></tr><tr><td>平均日采食量 ADFI/g</td><td>148.78±13.34</td><td>146.07±9.08</td><td>146.92±18.71</td><td>153.90±16.12</td><td>0.915</td></tr><tr><td>料重比F/G</td><td>2.14±0.12a</td><td>1.99±0.07b</td><td>1.98±0.10b</td><td>2.17±0.17a</td><td>0.006</td></tr><tr><td>死亡率Mortality</td><td>5.21±6.20</td><td>6.25±5.89</td><td>5.20±4.31</td><td>7.29±5.34</td><td>0.314</td></tr><tr><td>rate/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1~42 日龄 1to 42 days</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="6">of age</td></tr><tr><td>平均日增重 ADG/g</td><td>52.42±4.54</td><td>52.86±3.03</td><td>52.95±2.15</td><td>52.53±3.07</td><td>0.845</td></tr><tr><td>平均日采食量 ADFI/g</td><td>99.65±7.68</td><td>96.81±4.73</td><td>97.64±4.69</td><td>101.90±4.13</td><td>0.673</td></tr><tr><td>料重比F/G</td><td>1.90±0.04a</td><td>1.82±0.04b</td><td>1.84±0.05b</td><td>1.94±0.05a</td><td>0.005</td></tr><tr><td>死亡率Mortality</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>rate/%</td><td>6.25±7.39</td><td>6.25±5.89</td><td>6.25±3.86</td><td>7.29±5.34</td><td>0.983</td></tr></table></body></html>
+
+同行数据肩标不同小写字母者表示差异显著（ $P { < } 0 . 0 5$ ）。下表同。
+
+In the same row, values with different smal letter superscripts mean significant difference   
+$( P { < } 0 . 0 5 )$ .The same asbelow.   
+2.2枯草芽孢杆菌对肉仔鸡屠宰性能的影响 表4所示为枯草芽孢杆菌对肉仔鸡屠宰性能的影响。由表4可知，与对照组相比，BS   
+组、CS组、 $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组均未对肉仔鸡的屠宰率、胸肌率、腿肌率、腹脂率产生显著影响( $P { > } 0 . 0 5 )$ 。
+
+# 表4枯草芽孢杆菌对肉仔鸡屠宰性能的影响
+
+Table 4Effects of Bacillus subtilis on slaughter performance of broilers $\%$   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照组</td><td>枯草芽孢杆菌组</td><td>硫酸黏杆菌素组</td><td>枯草芽孢杆菌+硫 酸黏杆菌素组</td></tr><tr><td></td><td>Control group</td><td>BS group</td><td>CS group</td><td>BS+CS group</td><td></td></tr><tr><td>屠宰率</td><td>73.30±1.29</td><td>73.14±1.81</td><td>75.51±1.37</td><td>73.61±1.55</td><td>0.748</td></tr><tr><td>Dressing percentage</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>胸肌率</td><td>24.74±1.53</td><td>25.09±1.99</td><td>27.17±1.62</td><td>25.53±1.18</td><td>0.126</td></tr><tr><td>Breast muscle rate</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>腿肌率</td><td>21.86±1.14</td><td>22.24±0.79</td><td>22.09±1.02</td><td>21.92±0.71</td><td>0.811</td></tr><tr><td>Leg muscle rate</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>腹脂率</td><td></td><td></td><td></td><td></td><td>0.606</td></tr><tr><td>Abdominal fat rate</td><td>1.77±0.32</td><td>1.60±0.27</td><td>2.02±0.45</td><td>1.74±0.56</td><td></td></tr></table></body></html>
+
+# 132 2.3枯草芽孢杆菌对肉仔鸡肠道形态的影响
+
+表5所示为枯草芽孢杆菌对肉仔鸡肠道形态的影响，图1为十二指肠切片图谱。由表5可知，十二指肠形态方面，与对照组相比，BS 组肉仔鸡十二指肠绒毛高度提高了 $4 0 . 9 8 \%$ （ $P { < } 0 . 0 5$ ）； $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组十二指肠隐窝深度有增加的趋势（ $\scriptstyle P = 0 . 0 9 4$ ），BS组和CS组对十二指肠隐窝深度未见显著影响（ $. P { > } 0 . 0 5$ ）；BS 组十二指肠绒毛高度/隐窝深度提高了 $3 6 . 9 7 \%$ （ $P { < } 0 . 0 5$ ）。空肠形态方面，与对照组相比，BS组有提高空肠绒毛高度的趋势（ $\scriptstyle \cdot { \cal P } = 0 . 0 5 1$ ），CS组和 $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组未见对空肠隐窝深度、绒毛高度、绒毛高度/隐窝深度产生显著影响（ $. P { > } 0 . 0 5$ ）。研究提示，枯草芽孢杆菌可提高42日龄肉仔鸡十二指肠和空肠绒毛高度，能改善肠道形态，增强肠道的消化吸收功能，与硫酸黏杆菌素联合使用时没有协同作用。
+
+# 表5枯草芽孢杆菌对肉仔鸡肠道形态的影响
+
+Table 5Effects of Bacillus subtilis on intestinal morphology of broilers   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td><td rowspan="2">P值</td></tr><tr><td>对照组</td><td>枯草芽孢杆菌组</td><td>硫酸黏杆菌素组</td><td>枯草芽孢杆菌+</td></tr><tr><td rowspan="2"></td><td>Control group</td><td>BS group</td><td>CS group</td><td>硫酸黏杆菌素组</td><td>P-value</td></tr><tr><td></td><td></td><td></td><td>BS+CS group</td><td></td></tr><tr><td>绒毛高度</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>610.87±83.52b</td><td>861.19±122.73a</td><td>605.71±79.78b</td><td>693.60±145.04b</td><td><0.001</td></tr><tr><td>Villous height/um</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>隐窝深度</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>十二指肠</td><td>124.36±17.41</td><td>130.30±19.95</td><td>123.67±17.40</td><td>144.25±18.78</td><td>0.096</td></tr><tr><td></td><td>Crypt depth/um</td><td></td><td></td><td></td><td></td></tr><tr><td>Duodenum</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>绒毛高度/隐窝深</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>度 Villous height 4.95±0.74b</td><td>6.78±1.51a</td><td>4.93±0.56b</td><td>4.92±1.21b</td><td>0.003</td></tr><tr><td>/ crypt depth</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>绒毛高度</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>空肠</td><td>594.53±148.12</td><td>722.27±105.33</td><td>598.32±154.42</td><td>652.62±126.93</td><td>0.051</td></tr><tr><td>Villous height/um</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> Jejunum</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>隐窝深度</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>106.23±13.40</td><td>132.60±16.24</td><td>126.65±27.40</td><td>121.66±14.21</td><td>0.220</td></tr><tr><td>Crypt depth/um</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+![](images/b7c81c4d3de265008d039dd37a2ad7c4789e20d6f76654539d303b8470d72503.jpg)  
+图1十二指肠切片图谱  
+Fig.1Slice atlases of duodenum $( 4 0 \times )$
+
+2.4枯草芽孢杆菌对肉仔鸡盲肠菌群数量的影响
+
+表6所示为枯草芽孢杆菌对肉仔鸡盲肠菌群数量的影响。由表6可知，21日龄时，与  
+对照组相比，CS 组肉仔鸡盲肠中乳酸杆菌数量提高了 $5 . 7 6 \%$ ( $\scriptstyle P = 0 . 0 8 5$ ），BS 组盲肠中乳  
+酸杆菌/大肠杆菌提高了 $1 0 . 5 8 \%$ ( $\scriptstyle P = 0 . 0 9 1$ ）；42日龄时，与对照组相比，BS 组、CS组、  
+$\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组均能显著提高肉仔鸡盲肠中乳酸杆菌的数量（ $. P { < } 0 . 0 5$ ），未见大肠杆菌数量有显  
+著变化（ $P { > } 0 . 0 5$ ）；BS组、 $\mathbf { B } \mathbf { S } { + } \mathbf { C } \mathbf { S }$ 组可显著提高盲肠中乳酸杆菌/大肠杆菌 ( $. P { < } 0 . 0 5 \$ ），分  
+别提高了 $9 . 4 5 \%$ 和 $8 . 6 6 \%$ 。结果表明，枯草芽孢杆菌可提高肉仔鸡42日龄时盲肠中乳酸杆菌数量和乳酸杆菌/大肠  
+杆菌（ $P { < } 0 . 0 5$ ），硫酸黏杆菌素、枯草芽孢杆菌与硫酸黏杆菌素联合使用均可提高肉仔鸡  
+42日龄时盲肠乳酸杆菌数量（ $P { < } 0 . 0 5$ ），而枯草芽孢杆菌与硫酸黏杆菌素联合使用尚可提  
+高乳酸菌/大肠杆菌（ $P { < } 0 . 0 5$ ）。研究提示，枯草芽孢杆菌或硫酸黏杆菌素都可提高肠道中乳酸杆菌数，促进肉仔鸡生长。
+
+Table 6Effects of Bacillus subtilis on cecum bacterial enumeration of broilers   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">日龄 Days of age</td><td colspan="4">组别 Groups</td><td rowspan="2">P值</td></tr><tr><td>对照组</td><td>枯草芽孢杆菌</td><td>硫酸黏杆菌素</td><td>枯草芽孢杆菌+ 硫酸黏杆菌素组</td></tr><tr><td></td><td></td><td>Control group</td><td>组 BS group</td><td>组 CS group</td><td>BS+CS group</td><td></td></tr><tr><td>大肠杆菌</td><td>21</td><td>8.28±0.44</td><td>7.76±0.59</td><td>8.15±0.60</td><td>7.58±0.35</td><td>0.223</td></tr><tr><td>Escherichia coli 乳酸杆菌</td><td>42 21</td><td>8.55±0.20 6.08±0.23</td><td>8.87±0.11 6.10±0.21</td><td>8.81±0.31 6.43±0.24</td><td>8.58±0.41 6.38±0.31</td><td>0.311</td></tr><tr><td>Lactobacillus</td><td>42</td><td></td><td></td><td></td><td></td><td>0.085</td></tr><tr><td></td><td></td><td>7.73±0.57b</td><td>8.50±0.24a</td><td>8.51±0.14a</td><td>8.83±0.31a</td><td>0.005</td></tr><tr><td>乳酸杆菌/大肠杆菌</td><td>21</td><td>1.04±0.06</td><td>1.15±0.06</td><td>1.08±0.06</td><td>1.13±0.06</td><td>0.091</td></tr><tr><td>Lactobacillusl</td><td>42</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Escherichia coli</td><td></td><td>1.27±0.06b</td><td>1.39±0.06a</td><td>1.32±0.06ab</td><td>1.38±0.03a</td><td>0.007</td></tr></table></body></html>
+
+161 3讨论
+
+# 3.1枯草芽孢杆菌对肉仔鸡生长性能的影响
+
+国内外许多报道表明，枯草芽孢杆菌能提高肉仔鸡的体增重和饲料转化率，提高生长性能。有研究发现， $0 . 1 \%$ 枯草芽孢杆菌可提高肉仔鸡1\~6周龄平均日增重，降低料重比[3]。肉仔鸡饲粮中添加枯草芽孢杆菌，能提高1\~3 周龄平均日增重，降低料重比[7]。本试验研究表明，肉仔鸡饲粮中添加枯草芽孢杆菌能提高肉仔鸡42日龄体重，降低后期和全期料重比，这与 Molnar 等[8研究结果相似。这可能与消化道、肠道发育成熟需要一定的时间有关。枯草芽孢杆菌能促进肉仔鸡生长发育，改善饲料效率，可能是因为枯草芽孢杆菌进入消化道后能产生多种消化酶，提高营养物质的吸收[9]。
+
+3.2枯草芽孢杆菌对肉仔鸡屠宰性能的影响
+
+目前，国内外关于枯草芽孢杆菌对肉仔鸡屠宰性能的研究较少。屠宰性能是反应肉仔鸡胴体品质的重要指标之一。研究表明，饲粮中添加 $5 0 0 \mathrm { m g / k g }$ 的枯草芽孢杆菌能显著提高肉仔鸡 35日龄的屠宰率，对屠宰性能其他指标没有显著影响[10]； $1 \%$ 的枯草芽孢杆菌能提高丝羽乌骨鸡的胸肌质量[1；但本试验发现，枯草芽孢杆菌未对肉仔鸡屠宰性能产生影响，这与 Molnar 等8研究结果相一致。可见，关于枯草芽孢杆菌对肉仔鸡屠宰性能的影响尚无定论，有待进一步研究。
+
+# 3.3枯草芽孢杆菌对肉仔鸡肠道形态的影响
+
+绒毛高度和隐窝深度分别是反映小肠消化吸收功能和细胞发育成熟率的主要指标，当绒毛高度增加时，与肠道中食糜的接触面积也会相应的增加，则会增强小肠的消化吸收功能；机体消化道发育成熟时，隐窝上皮细胞作用就会减弱，隐窝深度变浅[12-13]；绒毛高度与隐窝深度比值升高，表明小肠消化吸收功能增强，肠黏膜结构改善。有研究表明， $5 0 0 \mathrm { m g / k g }$ 枯草芽孢杆菌能显著提高42 日龄肉仔鸡十二指肠绒毛高度和绒毛高度/隐窝深度，降低隐窝深度[14]；枯草芽孢杆菌与寡糖和酶制剂合用可提高黄羽肉鸡十二指肠和空肠绒毛高度，提高了绒毛高度/隐窝深度[5]；本试验研究发现，枯草芽孢杆菌能提高肉仔鸡十二指肠绒毛高度/隐窝深度，提高十二指肠绒毛高度，这与忤天培等[5研究结果相一致。本试验表明，枯草芽孢杆菌可增强小肠的消化吸收功能，进而促进动物生长。
+
+# 3.4枯草芽孢杆菌对肉仔鸡盲肠菌群数量的影响
+
+动物肠道内主要依靠有益菌（乳酸杆菌、双歧杆菌等）维持微生物区系平衡，在饲养管理中不可避免的会引起肠道中有害菌群(大肠杆菌、沙门杆菌等)的繁殖，有害菌繁殖过度，则会破坏微生物区系平衡，给机体带来肠道疾病，严重时可致死亡。枯草芽孢杆菌是需氧型细菌，进入消化道后能迅速消耗氧气，促进乳酸杆菌等厌氧性有益菌的繁殖，抑制大肠杆菌等需氧性有害菌的增殖[15]。此外，枯草芽孢杆菌能产生具有生物活性的抗菌物质（脂肽类、肽类等），对病原菌具有抑制作用[16]。研究表明，枯草芽孢杆菌能显著降低肉仔鸡肠道中大肠杆菌数，提高乳酸的含量； $0 . 1 \%$ 的枯草芽孢杆菌能显著提高1\~6周龄肉仔鸡肠道乳酸菌含量，降低大肠杆菌含量[3；本试验研究发现，枯草芽孢杆菌能提高肉仔鸡42日龄时盲肠乳酸杆菌数量和乳酸杆菌/大肠杆菌，这与孙瑞锋等[17]研究结果相似，可能与枯草芽孢杆菌在肠道内发挥作用具有时间效应有关。
+
+# 3.5枯草芽孢杆菌与硫酸黏杆菌素联合使用效果
+
+在养殖业中，益生菌与抗生素的配伍兼容性一直是人们关注的话题。本试验表明，枯草芽孢杆菌和硫酸黏杆菌素之间对于肉仔鸡的促生长方面无协同作用。原因可能有：1）硫酸黏杆菌素与枯草芽孢杆菌相互影响；硫酸黏杆菌素可能降低枯草芽孢杆菌在肠道的存活率，此外枯草芽孢杆菌产生的多种代谢产物可能会对硫酸黏杆菌素的抑菌谱、抑菌强度、抑菌作用时间产生影响;2)枯草芽孢杆菌和硫酸黏杆菌素联合使用可能会对某些肠道菌产生影响;硫酸黏杆菌素是由多个氨基酸连接而成的黏杆菌素，能够与病原菌细胞游离的磷酸结合，增大细胞膜的通透性，从而具有杀菌作用，促进生长[18]，枯草芽孢杆菌在肠道中能产生磷脂类和氨基酸类[15]，当两者联合使用时，可能会对肠道内有益菌产生竞争性抑制作用。由于两者合用会导致各自代谢的变化和肠道菌群的差异，从而对生长性能造成影响。
+
+4结论
+
+$\textcircled{1}$ 枯草芽孢杆菌和硫酸黏杆菌素均能促进肉仔鸡后期生长发育，改善饲料效率，综合考虑对肠道形态和盲肠菌群的影响，枯草芽孢杆菌效果优于硫酸黏杆菌素，但联合使用效果不佳。  
+$\textcircled{2}$ 枯草芽孢杆菌能提高肉仔鸡十二指肠和空肠绒毛高度，提高小肠消化吸收能力；$\textcircled{3}$ 枯草芽孢杆菌可增加肉仔鸡盲肠中乳酸杆菌数量，维持微生物区系平衡，促进肉仔鸡生长。
+
+参考文献：
+
+）[1]陈一资,胡滨.动物性食品中兽药残留的危害及其原因分析[J].食品与生物技术学
+
+报,2009,28(2):162-166.
+
+[2]罗正,张得玉,孙业贵,等.益生菌替代肉鸡饲料中促生长抗生素的田间试验[J].饲料工业,2014,35(13):22-24.
+
+[3]易中华,胥传来,计成,等.果寡糖和枯草芽孢杆菌对肉鸡肠道菌群数量及生长性能的影响 [J].中国畜牧杂志,2005,41(12):11-14.   
+[4]SEN S,INGALE S L,KIM Y W,et al.Effect of supplementation of Bacillus subtilis LS 1-2 to broiler dietson growth performance,nutrientretention,caecal microbiology and small intestinal morphology[J].Research in Veterinary Science,2011,93(1):264-268.   
+[5]忤天培,夏中生,黄建烨,等.饲粮添加果寡糖、NSP 酶和枯草芽孢杆菌对黄羽肉鸡肠道形 态和微生物菌群的影响[C]//中国畜牧兽医学会动物营养学分会第十一次全国动物营养 学术研讨会论文集.北京:中国畜牧兽医学会动物营养学分会,2012.   
+[6]李慧.病理组织石蜡切片制作体会及常见问题解析[J].临床与实验病理学杂 志,2014,30(7):811-812.   
+[7]郝生宏,董晓芳,佟建明,等.耐制粒枯草芽孢杆菌对肉仔鸡生长性能、血清生化指标及粪 便大肠杆菌的影响[J].中国畜牧杂志,2010,46(19):54-56.   
+[8]MOLNAR A K,PODMANICZKY B,KURTI P,et al.Effect of different concentrations of Bacillus subtilis on growth performance,carcasequality,gutmicroflora and immune response of broiler chickens[J].British Poultry Science,2011,52(6):658-665.   
+[9]ZIAEI-NEJAD S,REZAEI MH,TAKAMI B A,et al.The effect of Bacillus spp.bacteria used as probiotics on digestive enzyme activity,survival and growth in the Indian white shrimp Fenneropenaeus indicus[J].Aquaculture,2006,252(2/3/4):516-524.   
+[10]崔宇,刘文举,田颖,等.枯草芽孢杆菌对 AA+肉鸡生长性能、屠宰性能及经济效益的影响 [J].饲料研究,2014(23):5-8.   
+[11]张爱武,鞠贵春,薛军.饲用微生物菌种对丝羽乌骨鸡的影响[J].饲料研究,2012(1):27-29.   
+[12]WINZELL M S,SVENSSON H,ARNER P,et al.The expression of hormone-sensitive lipase in clonal $\beta$ -cellsand rat isletsisinduced bylong-term exposure to high glucose[J].Diabetes,2001,50(10):2225-2230.   
+[13]李勇,蔡辉益,刘国华,等.地塞米松对肉仔鸡空肠二糖酶活性及黏膜形态的影响[J].畜牧 兽医学报,2008,39(1):48-52.   
+[14]崔宇.枯草芽孢杆菌对 AA+肉鸡生长性能及脾脏IL-2mRNA表达量的影响[D].硕士学位 论文.长春:吉林大学,2015.   
+[15]ABDELQADER A,AL-FATAFTAH A R,DAS G.Efects of dietary Bacillus subtilis and inulin supplementation onperformance,egg shell quality,intestinal morphologyand microflora composition of laying hens in the late phase of production[J].Animal Feed Science and Technology,2013,179(1/2/3/4):103-111.   
+[16]都海明.抗菌脂肽对 AA 肉鸡生长性能、养分代谢及抗氧化机能的影响[D].硕士学位论 文.南京:南京农业大学,2009.   
+[17]孙瑞锋,步长英,李同树.菊糖和枯草芽孢杆菌对肉鸡肠道菌群数量及排泄物氨气散发量 的影响[J].华北农学报,2008,23(增刊):252-256.   
+[18]杨海峰.硫酸抗敌素研究进展及应用现状[J].兽药与饲料添加剂,2008,13(3):9-11. Effects of Bacillus subtilis on Growth Performance, Intestinal Morphology and Bacterial Enumeration of Broilers QI BolWU Shugeng1WANG Jing1QIGuanghailZHANG Haijunl\* YAN Guiling2 WANG Xu² DONG Yan² (1. Feed Research Institute, Chinese Academy of Agricultural Sciences, Laboratory of Feed Biotechnology of Ministry of Agriculture, National Engineering Research Center of Biological Feed, Beijing 100081, China; 2. Evonik Degussa (China) Co., Ltd., Beijing 100026, China) Abstract: This study was conducted to investigate the effects of Bacillus subtilis on growth performance, slaughter performance, intestinal morphology and bacterial enumeration of broilers. A total of 32O one-day-old healthy male Arbor Acres broilers with similar weight were randomly allotted into 4 groups with 8 replicates per group and 10 broilers per replicate. Chickens in control group were fed a basal diet, and those in experimental groups were fedbasal diets supplemented with $5 0 0 ~ \mathrm { m g / k g }$ Bacillus subtilis (BS group), $2 0 ~ \mathrm { m g / k g }$ Colistin sulfate (CS group)，and 500 mg/kg Bacillus subtilis $+ 1 0 \mathrm { \ m g / k g }$ Colistin sulfate ( $\mathrm { B S + C S }$ group)，respectively. The results showed as follows: 1) compared with control group, average body weight of broilers in BS and Cs groups was significantly increased at 42 days of age ( $( P { < } 0 . 0 5 )$ , average daily gain of broilers in BS and CS groups was increased during 22 to 42 days of age, and the ratio of feed to gain of broilers in BS and CS groups was significantly decreased during 22 to 42 days of age and 1 to 42 days of age $( P { < } 0 . 0 5 )$ .The growth performance of broilers in ${ \mathrm { B S } } { \mathrm { + C S } }$ group had no significantly differences during every experiment period $( P { > } 0 . 0 5 )$ . 2) There were no significant differences in slaughter performance of broilers amongall groups ( $( P { > } 0 . 0 5 )$ . 3) Compared with control group, the villus height and the ratio of vilus height to crypt depth in duodenum of broilers in BS group were significantly increased $( P { < } 0 . 0 5 )$ . 4） Compared with control group， Lactobacillus enumeration in cecum of broilers in BS, CS and ${ \mathrm { B S } } { \mathrm { + C S } }$ groups was significantly increased at 42 days of age ( $( P { < } 0 . 0 5 ) \$ .The ratio of Lactobacillus to Escherichia coliin cecum of broilers in BS and ${ \mathsf { B S } } { \mathsf { + C S } }$ groups was significantly increased at 42 days of age $( P { < } 0 . 0 5 )$ . Therefore, Bacillus subtilis can improve the intestinal morphology, increase Lactobacillus enumeration in cecum and promote the growth performance of broilers.In conclusion, the effect of Bacillus subtilis is better than that of Colistin sulfate,but the effect of combination of Bacillus subtilis and Colistin sulfate is not good.   
+Key words: Bacillus subtilis; Colistin sulfate; growth performance; intestinal morphology; bacterial communities

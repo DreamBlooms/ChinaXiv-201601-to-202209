@@ -1,0 +1,196 @@
+1 营养因子对非反刍动物肠道黏膜免疫的调控作用
+
+2 梁　静」聂存喜1\*张文举1\*寇莎莎 2
+
+3 （石河子大学动物科技学院，石河子832000）
+
+4摘要：肠道具有将肠腔内容物与机体内环境隔离的功能，防止致病性抗原（肠腔内细菌、  
+5 有毒物质、食物抗原等）侵入黏膜下层组织，从而维持机体内环境的相对稳定。这一过程中  
+6 黏膜防御体系起到了至关重要的作用。本文主要就肠道黏膜免疫系统组成结构、分类、主要免疫因子以及营养因子对肠道黏膜免疫的调控作用进行综述，旨在为营养素和非营养素对非反刍动物肠道免疫机能及其免疫调节作用机制提供参考。
+
+关键词：非反刍动物；肠道黏膜；免疫因子；免疫机制；营养因子中图分类号：S852.2 文献标识码：A 文章编号:
+
+黏膜直接接触外界，是免疫系统的第一道防线，承担着复杂的免疫任务，既要对有益共生微生物及食物耐受，又要对病原微生物入侵产生免疫。随着生物技术、分子生物学等的发展，黏膜免疫才重新被重视并迅速发展起来 $^ { [ } 1 ^ { ] }$ 。黏膜免疫是指机体与外界相通的腔道黏膜表面的免疫，该系统主要由胃肠道、呼吸道、泌尿生殖道的黏膜及某些外分泌腺（如唾液腺、泪腺等）黏膜相关的淋巴组织组成。这些与外界相通的腔道黏膜是机体与外界相隔的最大屏障，也是病原体侵入机体的重要通道,因此黏膜免疫在机体免疫方面有着极其重要的地位[2]。黏膜免疫系统通过模式识别分子（PRRs）识别病原相关分子模式（PAMPs）产生免疫应答，清除病原，维持机体平衡。肠道黏膜中淋巴细胞迁移和细胞因子失衡可能主要涉及炎症性肠病的发病机理，包括肠过敏和克罗恩氏病。因饲粮成分与肠道黏膜的免疫功能密切相关，故关注饲粮控制对炎症性肠病治疗具有重要意义 $^ { [ 3 ] }$ 。有研究指出，豌豆中含有的抗营养因子（anti-nutritional factors，ANF）会增加肉鸡肠上皮T细胞的数量，从而引起空肠的黏膜免疫反应。含有ANF 的豆类间接影响肠道免疫系统，通过引起寡糖或非淀粉多糖发酵的增加而导致肠道微生物群落组成发生变化[4]。本文主要就肠道黏膜免疫系统组成结构、分类、主要免疫因子以及营养因子对肠道黏膜免疫的调控作用进行综述，旨在为营养素和非营养素对非反刍动物肠道免疫机能及其免疫调节作用机制提供参考。
+
+# 1肠道黏膜免疫系统组成结构
+
+肠道黏膜免疫是机体防止感染的首道防线 $[ 5 ]$ 。当肠道黏膜受到外界因素影响时，其免疫功能减弱，外来病原如细菌、病毒等易于侵入，导致机体消化不良、腹泻，甚至危及生命。肠道是消化食物、吸收营养物质的主要场所，同时肠道黏膜也是病原入侵的重要门户。黏膜免疫是宿主在长期进化中不断与病原作斗争形成的保护机制[3]。肠道黏膜免疫系统是一种高度特异性的免疫系统，依据功能及分布特点，可将黏膜免疫系统的免疫细胞分成2个部分：一是肠道相关淋巴组织（gut associated lymphoid tissue，GALT），是免疫细胞的活化诱导部位；二是弥散免疫细胞，是免疫反应发生的效应部位。GALT 主要包含微褶皱细胞（micro-fold cell，M细胞）、派伊尔氏结（peyer's patch，PP)等。弥散免疫细胞主要包含肠上皮细胞（intestinal epithelialcell，IEC）、上皮内淋巴细胞（intraepithelial lymphocyte，IEL）和黏膜固有层淋巴细胞（lamina proprial lymphocyte，LPL）等[3,6]。
+
+# 2肠道黏膜免疫分类
+
+肠道黏膜免疫屏障是迄今为止动物和人类最重要的屏障之一[7]。肠道黏膜免疫主要是在抗原刺激下产生的局部免疫反应，中和抗原物质，以避免机体本身受到损伤。在功能上，肠道黏膜屏障是通过黏液层、肠细胞和紧密连接的协作防御病原体入侵的第1自然线[8]。肠道黏膜免疫分为先天性免疫和适应性免疫。先天性免疫主要由先天性免疫细胞执行。适应性免疫主要通过肠道免疫细胞聚集区，即皮尔氏小体三级淋巴组织执行。
+
+# 2.1 肠道黏膜先天性免疫
+
+# 2.1.1 肠道黏膜上皮细胞
+
+肠道黏膜上皮细胞除了构成天然机械屏障外，还通过PRRs识别病原及其分泌的毒素产生先天性免疫应答，加强对病原微生物的杀伤和清除作用。Toll样受体（tol-like receptors，TLRs）与 NOD 样受体（NOD-like receptors，NLRs）在黏膜上皮细胞免疫应答中起重要作用[3]。
+
+# 2.1.2单核吞噬细胞和树突状细胞（DC)
+
+单核吞噬细胞和DC通过血液循环移至肠道黏膜，可分泌大量抗炎性细胞因子白细胞介素（IL）-10，抑制免疫应答，起免疫稳定作用。肠道黏膜中的DC以表达整合素 $\mathrm { C D } _ { 1 0 3 }$ 为特定标志。 $\mathrm { C D } _ { 1 0 3 } { } ^ { + } \mathrm { D C }$ 在黏膜中不断捕获由杯状细胞转运的抗原，分泌IL-10 和转化生长因子 $\cdot \beta$ (TGF- $\cdot \beta$ ），并迁移至肠系膜集合淋巴结（mesenteric lymphnodes，MLN），活化MLN的初始 T细胞，使其成为调节性T细胞（Treg）[3]。
+
+# 2.1.3 先天性淋巴细胞（innate lymphoid cells，ILC）
+
+ILC 是由淋巴前体细胞分化形成的，与常规淋巴细胞不同的是，该细胞不含有基因重组产生的抗原受体。ILC 可分为3个亚群：1）ILC-I表达转录因子T-bet，主要分泌干扰素-γ(IFN-γ)和肿瘤坏死因子 $\mathbf { \sigma } \cdot \mathbf { a }$ (TNF-α);2)ILC-II表达 GATA 结合蛋白 3（GATA-binding protein3，GATA3），主要分泌IL-5和IL-13；3）ILC-III表达维甲酸孤儿核受体 $\gamma \mathrm { { t } }$ （retinoid-relatedorphan receptor，RORyt），主要分泌 IL-17 和 IL-22［3]。
+
+# 2.2 肠道黏膜适应性免疫
+
+黏膜适应性免疫主要发生于黏膜相关淋巴组织（mucosal associated lymphoid tissue,MALT），包括皮尔氏小体、扁桃体等。皮尔氏小体属于肠道黏膜的三级淋巴组织，是一个能完整执行免疫应答的功能性场所，聚集着执行适应性免疫的 $\mathrm { C D 4 ^ { + } T }$ 细胞、 $\mathrm { C D _ { 8 } ^ { + } T }$ 细胞、B 细胞、DC 和巨噬细胞等。肠道中的抗原主要通过M细胞转运传递至MALT，激活B 细胞，引发体液免疫应答，同时也可被DC 捕获后，活化相应的T细胞。活化的T细胞还可迅速转移至MLN，引起更强烈的免疫应答 $^ { [ 3 ] }$ 。固有层中的大量 $\mathrm { C D 4 } ^ { + }$ T 细胞分泌细胞因子,下调免疫反应，同时致敏后转移的B细胞在固有层中同型转换为免疫球蛋白A（IgA），IgA产生后被释放到浆膜细胞外侧，与黏膜上皮细胞分泌片段结合，从而形成分泌型免疫球蛋白A（secreted immunoglobulinA，sIgA）复合物，最终分泌于黏膜或浆膜表面，发挥免疫效应。肠上皮细胞与适应性免疫细胞之间存在相互串扰，串扰可能在肠道黏膜免疫中起重要作用[9]。  
+3肠道黏膜免疫的主要因子  
+3.1sIgA主导肠道黏膜免疫功能的正常发挥  
+作为机体的第1道免疫屏障，黏膜免疫在机体免疫系统中具有特殊地位[10]。肠道黏膜屏障能防止肠腔内有害物质穿过肠道黏膜进入体内其他组织器官和血液循环，而以 sIgA 为主的体液免疫是肠道黏膜屏障中的重要部分，是肠道黏膜免疫屏障的主要免疫球蛋白，具有强化肠道免疫屏障、阻止肠道病原体入侵等生物学功能，为病菌在肠道黏膜黏附和定植的重要防御前线[1-12]。sIgA 是由2个或更多IgA 单体聚合而成，一般由2个IgA单体、1条J链和1条分泌片（secretorycomponent，SC）构成。  
+微生物引起感染的先决条件是黏附在黏膜组织上，因而抑制微生物黏附是黏膜免疫最主要的保护功能之一。sIgA可阻止病原微生物黏附于黏膜上皮细胞表面，其作用机制可能是：1）sIgA 使病原微生物发生凝集，从而丧失活动能力而不能黏附于黏膜上皮细胞；2）sIgA与微生物结合后，阻断微生物表面的特异结合位点，从而丧失黏附能力；3）sIgA与病原微生物抗原结合成复合物，从而刺激消化道等黏膜的杯状细胞分泌大量黏液，“冲洗"黏膜上皮，达到阻止微生物黏附的作用。sIgA可有效中和黏膜上皮内的细菌、病毒、毒素和酶等有害物质，捕捉黏膜内层病原体，形成免疫复合物排出。黏膜局部特异性存在 sIgA，使黏膜暴露于外界可溶性抗原后可以减少相应抗原的吸收，同时对不相关的抗原无影响。sIgA可增强乳杆褐质及乳过氧化物酶系统对几种黏膜病原体的抗菌作用，可通过黏膜淋巴组织增强抗体依赖性细胞的功能，并能武装腔中淋巴细胞，从而提高直接杀菌能力，分泌液中的抗菌物质如乳铁传递蛋白、溶菌酶等有协同作用。sIgA抗体可结合M细胞，并经过M细胞运输至黏膜淋巴组织，该运输过程可使sIgA或 sIgA抗原复合物与淋巴细胞或抗原呈现细胞反应，露出 sIgA 结合位点2,13-14」。
+
+# 3.2 细胞因子对肠道黏膜免疫屏障的关键性调节作用
+
+肠道黏膜免疫屏障可产生多种细胞因子，包括淋巴因子、趋化因子、生长因子（GF）、TNF、IL、IFN等。细胞因子种类繁多，所表现的不同调节作用与其本身浓度、微环境等密切相关，近年来研究较多的细胞因子有IL-6、IL-10、IL-12、IL-17、IFN-γ、TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 等。
+
+肠道黏膜免疫部位的免疫应答以辅助性T细胞（Thelper cell，Th）2为主，定居在固有层的 $\mathrm { C D } _ { 4 } { } ^ { + }$ Th2 可分泌多种 Th2 细胞因子，如 TGF- $\cdot \beta$ 、IL-4、IL-5、IL-6 和 IL-10。DC 捕获病原后分泌TGF- $\beta$ ，TGF- $\beta$ 具有多向性，不仅可以诱导初始 $\mathrm { C D ^ { 4 + } T }$ 细胞形成iTreg，抑制免疫应答，还可以与IL-6共同作用，促使初始 $\mathrm { C D 4 ^ { + } T }$ 细胞分化成Th17细胞，分泌IL-17A和IL-22，产生炎症反应。IL-4可激活静止期的B细胞，故在诱导局部及全身抗体应答中均起关键作用；而 IL-5 和 IL-6 则主要在黏膜部位发挥特殊作用。IL-6在促进肠道和呼吸道 IgA应答方面起重要作用。IL-10是细胞毒性T细胞（CTL）分化因子和B细胞活化因子，抑制巨噬细胞分泌 TNF、IL-1、IL-6 和趋化因子，抑制巨噬细胞对T 细胞的辅助作用，使T细胞增殖能力和CTL杀伤能力下降，抑制细胞介导的免疫应答，相对增强体液免疫应答。IL-4、IL-5、IL-6可协同诱导B细胞分化成分泌IgA的浆细胞，通过分泌片段的介导进入黏膜表面，中和抗原物质，起到清除外来抗原保护机体的作用[2-3,13,15]。IL-12 是异二聚体复合物，由α（P35）和β（P40）亚单位组成，具有活化自然杀伤（NK）细胞产生IFN-γ的作用，是重要的促炎性反应细胞因子，也是先天性免疫应答和适应性免疫应答的关键调控分子，主要作用于靶细胞受体后通过酪氨酸激酶（Jak）/信号转导和转录激活因子（STAT）信号转导途径发挥作用。IL-17通过与靶细胞膜受体IL-17R 结合发挥生物学作用。因为IL-17受体在体内多种细胞中广泛表达，所以IL-17作用于多种细胞，具有多向性。IL-17可诱导成纤维细胞和上皮细胞分泌促炎性细胞因子和趋化因子，招募中性粒细胞浸润，抵抗病原感染，同时 IL-17也会参与多种自身免疫性疾病的发生和发展[2]。IFN-γ是由活化的T细胞和NK细胞产生的，可通过刺激抗原提呈细胞表达主要组织相容性复合体 $\mathrm { I I }$ （major histocompatibility class II,MHCII）类分子，促进 $\mathrm { C D ^ { 4 + } }$ 细胞活化。TNF-α为促炎因子，主要由活化的巨噬细胞产生，通过与相应受体TNF-R1或TNF-R2结合引起细胞凋亡和细胞因子释放从而发挥其生物学作用[3]。
+
+# 4营养因子对肠道黏膜免疫的调节作用
+
+肠道黏膜免疫屏障受到不同营养因子的影响，肠道黏膜免疫的维持需要肠腔中营养物质的滋养。某些底物如谷氨酰胺（glutamine，Gln）、精氨酸、短链脂肪酸（short-chain fatty acids，SCFAs）、核苷酸等均对肠道黏膜免疫起到重要的调控作用。
+
+# 4.1 Gln
+
+Gln 是动物体内含量最丰富的氨基酸之一，为条件性必需氨基酸，可作为反映动物机体免疫功能强弱的一个重要指标[16]，GIn 可减轻急性重症胰腺炎肠道黏膜屏障功能损伤，抑制炎症反应的激活[17]。Gln 是肠道黏膜上皮细胞和淋巴细胞的重要能量供体，是肠道上皮细胞的一种主要的能量底物 $[ 1 8 ]$ 。Gln 也可作为嘌呤、嘧啶的合成前体，对免疫细胞的增殖有重要作用。当机体受到外伤、感染、疲劳等严重应激时，肠道黏膜上皮细胞内的Gln 很快耗竭；当肠道缺乏食物、消化液等刺激或缺乏GIn时，肠道黏膜萎缩，绒毛变稀、变短甚至脱落，隐窝变浅，肠道黏膜通透性增加，肠道免疫功能受到损害。GIn 可提高动物的生产性能，同时具有维护肠道黏膜屏障等重要功能 $^ { [ } 1 9 ^ { ] }$ 。有研究表明，补充Gln可有效保护晚期胃癌患者的围手术期化疗的肠道黏膜屏障功能，对提高晚期胃癌患者基质金属蛋白酶-2（MMP-2）和基质金属蛋白酶-9（MMP-9）活性、增强免疫功能、降低发病率等具有显著的临床应用价值[20]。补充丙氨酸（Ala）-GIn 可增加高原训练大鼠肠道组织中IL-4、TGF $\beta$ 含量以及多聚免疫球蛋白受体（poly-immunoglobulin receptors，PIGR）、J链的mRNA 表达量，促进 sIgA 的合成与分泌，减缓高原训练引起的肠道体液免疫功能损伤 $^ { [ } 2 1 ^ { ] }$ 。Dong 等[22]研究发现，饲粮中添加 $0 . 8 \%$ Gln 可显著改善蛋鸡十二指肠和输卵管的发育，并显著提高产蛋率。Gln可为快速分裂细胞如肠道黏膜上皮细胞和活化的淋巴细胞等提供能源，也可在促进受损伤肠道的修复以及维持正常的局部免疫功能中发挥其他氨基酸不可替代的作用[23]。从肉仔鸡空肠分离出淋巴细胞，所得细胞悬液中加入GIn 培养 $2 4 \mathrm { h }$ ，结果表明Gln 可显著改善淋巴细胞增殖；当Gln 浓度超过 $5 0 ~ \mu \mathrm { g / m L }$ 后，其对肉仔鸡肠道淋巴细胞增殖的抑制效果最为显著，有利于维持免疫系统的平衡状态，且对丙二醛（MDA）含量和过氧化氢酶（CAT）活性有显著的改善作用，有利于动物机体的抗氧化[24]。
+
+# 4.2精氨酸
+
+动物体内有生理作用的精氨酸为 $L .$ -精氨酸，精氨酸参与多种生物活性物质如肌酸、多胺、一氧化氮（NO）、GIn、嘧啶等的合成，并可影响多种内分泌激素的释放。精氨酸及其代谢产物（如NO、多胺）在免疫防御、免疫调节等方面发挥着重要作用。精氨酸可通过增加肠道组织NO的合成，改善局部血流灌注，减少肠道黏膜的脂质过氧化损伤，并有效刺激固有层中派尔淋巴结内免疫细胞的增生，促进肠道IgA的分泌 $^ { [ } 2 5 ^ { ] }$ 。精氨酸对于仔猪是一种必需氨基酸。有研究表明，精氨酸可增加断奶仔猪回肠中IgA分泌细胞 $\mathrm { C D _ { 8 } ^ { + } }$ 和 $\mathrm { C D _ { 4 } ^ { + } T }$ 细胞的数量，可防止由脂多糖（LPS）攻击引起的肥大细胞数量的升高，可保护和增强肠道黏膜免疫屏障功能并维持断奶仔猪的肠道完整性[26]。精氨酸与维生素E能协同增加肉鸡细胞免疫和体液免疫机能，提高肉鸡的抗病力。Gao 等 $^ { [ } 2 7 ^ { ] }$ 研究表明，喂食精氨酸溶液后，肉鸡空肠诱导型一氧化氮合酶(iNOS)活性,IL-2、IL-4 和 sIgA 含量均显著增加，肠道黏膜中 TLR-2、TLR-4、iNOS的mRNA表达量以及iNOS的蛋白质丰度均提高。胚胎注射 $L$ -精氨酸可改善孵化后肉鸡的小肠发育和屏障功能，这可能与激活哺乳动物雷帕霉素靶蛋白（mammalian
+
+# targetofrapamycin，mTOR）途径有关[28」。
+
+# 4.3 SCFAs
+
+SCFAs 是含有2\~5个碳原子的有机酸，主要由肠道中的细菌对寡糖、多糖、肽、蛋白质和糖蛋白的发酵作用所产生。SCFAs作为肠道菌群的主要代谢产物，在调节肠上皮细胞和肠道黏膜组织内各种免疫细胞上发挥一定的功能，同时参与固有免疫应答和适应性免疫应答，缓解炎症反应，抑制肿瘤细胞的增殖，维持肠道黏膜的稳态。SCFAs可通过影响肠上皮细胞和肠道黏膜组织内不同免疫细胞的功能，识别TLRs，活化G蛋白偶联受体（Gprotein-coupled receptors，GPCRs），抑制组蛋白去乙酰酶（histone deacetylase，HDAC）活性等参与肠道疾病的发生发展 $^ { [ } 2 9 ^ { ] }$ 。大肠中的细菌发酵可产生 SCFAs，其中 SCFAs 中的丁酸是肠道组织细胞首选的可氧化燃料[30]。研究表明，乙酸盐和丙酸盐可显著降低黏膜细胞旁通透性和跨上皮净流体通量，同时增加黏膜碳酸氢盐的分泌[31]。 ${ \mathfrak { n } } { - } 3$ 和 $\mathrm { n } { - } 6$ 多不饱和脂肪酸（polyunsaturated fatty acid，PUFA）可减少γ-变形杆菌的过度增殖，同时促进生长拟杆菌属的增殖；n-3PUFA比n-6PUFA 在改善小鼠失血性休克复苏（hemorrhagic shockresuscitation，HSR）后回肠组织溶菌酶活性上具有优势。PUFA特别是n-3PUFA可部分改善HSR 后小鼠肠道黏膜的先天性免疫[32]。醋酸盐可抑制半胱氨酸天冬氨酸蛋白酶（cysteinylaspartate specific proteinase，caspase）-3 活性和B 细胞淋巴瘤相关蛋白（Bcl-2 associated Xprotein，BAX）表达，有利于细胞存活，这可能与上调胃黏膜系统的关键防御因子黏蛋白（MUC）5AC 有关。乙酸在乙醇诱导的胃损伤中有保护胃的作用，其通过协同的多径时延作用介导，包括抑制胃氧化、炎症和细胞凋亡以及促进MUC5AC表达[33]。随着肠调节性T细胞数量和肠腔 IgA产生的增加，小肠上皮细胞中视网膜脱氢酶1（retinaldehydedehydrogenase 1，RALDH1）表达量与肠系膜淋巴结DC 中维生素A转换酶活性相关。膳食纤维的消耗可改变小肠中产 SCFAs 微生物的结构和 SCFAs 的组成 $^ { [ } 3 4 ^ { ] }$ 。虽然 SCFAs 有利于肠道黏膜免疫，但其在肠道菌群的构成和功能中发挥的具体作用与肠道菌群和肠道黏膜免疫相关疾病之间的关系，还需进一步深入研究。
+
+# 4.4核苷酸
+
+核苷酸是一类由嘌呤碱或嘧啶碱、核糖或脱氧核糖以及磷酸3种物质组成的化合物，具有多种重要的生物学功能，如合成遗传物质、传递细胞信号、参与能量代谢、作为辅酶等。
+
+核苷酸参与能量的转移，是核酸合成的前体 $^ { [ } 3 5 ^ { ] }$ ，参与体内一系列生理调节过程，具有促进生长和肠道发育、改善免疫机能等生理作用，是一种半必需营养物质［36]。饲粮中的核苷酸可通过核苷酸载体的调节作用促进健康动物肠道的正常发育，调节细胞增殖与凋亡的平衡，维持其正常水平的免疫机能。与补救合成相比，从头合成核苷酸需要消耗大量能量和底物。在快速生长、疾病、创伤或应激状态下，饲粮中补充核苷酸可促进免疫系统发育，维持肠道健康，节省能量[37]；也可通过核苷酸载体的调节作用保护肠道，促进其损伤后修复，并调节其免疫机能 $^ { [ } 3 8 ^ { ] }$ 。有研究表明，猪饲粮中补充核苷酸可显著降低饲料转化率，增加十二指肠绒毛高度、空肠乳糖酶和麦芽糖酶活性及外周血白细胞数，改善血清IgA 和 IL-1β含量以及回肠 TLR-9、TLR-4 和 Toll 样蛋白相互作用蛋白（toll-interacting protein，Tollp）的 mRNA表达量，同时显著增加回肠紧密连接蛋白（Claudin-1和 ZO-1）的 mRNA 表达量[39]。CpG寡脱氧核苷酸（CpG oligodeoxynucleotides，CpG ODN）可显著增加 LPS 刺激细胞中的IL-12、TNF-α和 TLR-9 的 mRNA表达量，并增强核转录因子. $\cdot \kappa \mathrm { B }$ (NF- $\cdot \kappa \mathbf { B }$ ）的信号活化[40]。此外，核苷酸也被广泛用作水产养殖中的免疫增强剂。在虾饲料中添加核苷酸，可显著降低对虾血清超氧化物歧化酶（superoxide dismutase，SOD）、iNOS 和溶菌酶活性 $^ { [ } 4 1 ^ { ] }$ 。然而核苷酸对动物肠道（肠细胞、基因等）的作用机制，动物在不同发育阶段外源核苷酸的需要量、最大耐受量及其量效关系等问题均需深入研究。
+
+# 4.5 益生菌
+
+肠道微生态系统参与肠道黏膜免疫系统的发育，促进肠道黏膜分泌合成sIgA，并与肠道黏膜免疫细胞相互调节，维持肠道稳态，其对炎症性肠病、肠易激综合征、过敏性疾病等疾患的发生发展发挥着重要作用[42-43]。肠道微生物与人体健康密切相关，全身 $70 \% { \sim } 8 0 \%$ 的免疫细胞分布在GALT中「44]。免疫抑制可以促进移植微生物群的植入[45]，这说明肠道微生物的类群影响肠道黏膜的免疫系统。将从泡菜中分离的植物乳杆菌NCU116口服给予环磷酰胺处理的小鼠，发现可改善小鼠的肠道绒毛高度和隐窝深度、黏蛋白表达、杯状细胞数量及结肠微生物群多样性，同时可提高肠道 SCFAs水平，降低结肠粪便中氨含量[46]。乳杆菌属、双歧杆菌属、芽孢杆菌属和其他微生物均可调节肠道环境，抑制或杀灭胃肠道病原体，改善肠道微生态平衡，调节肠道黏膜免疫，维持肠道屏障功能。其作用的相关机制包括产生杀菌物质，以抵抗胃肠道病原体和其他有害微生物；通过与病原微生物竞争肠上皮细胞表面和黏蛋白结合位点，同时激活免疫系统 $[ 4 7 ]$ 。有研究指出，罗伊氏乳杆菌生物膜分泌的因子可通过LPS 激活的单核细胞来抑制人TNF的产生，同时，罗伊氏乳杆菌生物膜可分泌罗伊氏菌素（抗菌甘油衍生物）[48]。口服给予小鼠干酪乳杆菌CRL431，通过细胞标记物CD-206或 TLR-2受体增加，发现其主要激活T细胞参与较少的与先天性免疫反应有关的肠道免疫系统（如巨噬细胞和DC）来稳定肠道内稳态[49]。这表明乳杆菌可改善免疫反应而不引发特异性T细胞依赖性IgA应答。而在另一项研究中，副干酪乳酸可增强PP 中 $\mathrm { C D 4 } ^ { + }$ 调节性T细胞和DC 的相互作用，增强 $\mathrm { C D 4 } ^ { + }$ T 细胞和B细胞增殖，并且增加 $\mu _ { - 1 \beta }$ 、IL-10、IL-12、IFN-γ、TNF-α等细胞因子的mRNA表达量[50]。益生菌免疫调节成分由多种效应分子组成，包括表面层蛋白、细胞壁多糖、黏附素、磷壁酸和热休克蛋白，其他免疫调节成分已被忽略或仍有待确定。尽管体外研究已经确定了重要的候选效应分子[如延伸因子Tu（elongationfactor Tu，EF-Tu）]，但仍然需要确定益生菌对体内黏膜免疫的干预机制。同时作为基线“健康"条件的因素可能会根据年龄、性别、品种、饲粮和多种外界环境因素有所不同。虽然对某些参数（白细胞、细胞因子）有了一些了解，但是包括定量"正常"范围的免疫生物标志物的基线参数仍有待确定。
+
+# 4.6维生素
+
+维生素A（vitaminA，VA）作为人体重要的微量营养素，除维持正常视觉外，还可促进人体生长发育、上皮组织增殖分化；可作为一种重要的免疫调节剂，在感染性疾病中发挥重要作用，其缺乏时可降低细胞免疫和体液免疫机能[51-52]。有报道指出，VA缺乏可显著降低鱼的生长性能，增加肠炎发病率，降低肠固有体液免疫反应并加重肠道炎症[53]。近端肠、中端肠和远端肠中的不同免疫反应部分由 NF- $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ 标准信号传导途径和p38有丝分裂原激活蛋白激酶（MAPK）信号通路介导。VA还可通过上调鱼类肠道、机体和鳃核因子E2相关因子2（nuclear factor-E2-related factor2，Nrf2）/kelch 样ECH相关蛋白1（kelch-likeepichlorohydrin-associated proteinl,Keapl）信号途径，上调铜锌超氧化物歧化酶（Cu-ZnSOD）等抗氧化酶的基因表达并提高酶活力，提高非酶性抗氧化物质谷胱甘肽（GSH）和VA含量，提高自由基清除能力，降低活性氧（ROS）含量，从而降低氧化损伤；同时可能通过增强雷帕霉素靶蛋白（target of rapamycin，TOR）信号途径下调 caspase-8 和 caspase-9 的 mRNA 表达量，从而下调caspase-3（而不通过caspase-7）的mRNA表达量，抑制肠道、机体和鳃细
+
+，胞凋亡，维持鱼类肠道、机体、鳃细胞结构的完整性「54]。维生素D（vitaminD，VD）是一种在紫外线辐射刺激下主要在人体皮肤中合成的激素。VD 在调节钙、磷平衡中的作用已较为清楚，其能平衡钙、磷的吸收和储存，具有防治佝偻病的作用。除了在骨代谢中的内分泌作用外，VD还具有显著的免疫调节作用。VD 对免疫系统的影响包括提高单核/巨噬细胞的杀微生物能力和缓减T淋巴细胞产生的炎性细胞因子  
+：的下调[55]。VD 通过增强控制黏膜通透性和减少促炎性细胞因子（如IL-8）的细胞间连接，起到维持肠道黏膜屏障完整性的作用。此外，VD受体介导的信号转导已被证明可抑制炎症诱导的肠上皮细胞凋亡，维持足够的VD 水平对健康肠道微生物群的发育是必不可少的[56]。VD 可通过上调大鼠肠道上皮紧密连接蛋白的表达来抑制坏死性小肠结肠炎（NEC）的发生发展［57]。有研究表明，1,25-二羟维生素 ${ \bf D } _ { 3 }$ 对肠道微生物群和基质成纤维细胞具有调节作  
+）用「58]，同时还具有抑制肿瘤、调节免疫、防治肥胖等功能[59-61]。烟酸（vitamin ${ \bf B } _ { 5 }$ ，nicotinic acid）也称尼克酸，具有扩张末梢血管、保持皮肤和消化器官功能正常的作用，主要通过烟酰胺腺嘌呤二核苷酸（nicotinamide adenine dinucleotide,NAD）和烟酰胺腺嘌呤二核苷酸磷酸（nicotinamide adenine dinucleotide phosphate，NADP)参与碳水化合物、脂类和蛋白质的代谢，尤其在体内功能代谢反应中发挥重要功能。烟酸以  
+：辅酶形式参与鱼类体内 200多种脱氢酶的反应，对鱼类消化器官的正常功能起重要作用。有研究指出，烟酸缺乏可降低草鱼肠道溶菌酶、酸性磷酸酶（ACP）活性及补体3（C3）含量，下调肝脏中抗菌肽2（LEAP-2）、肝细胞生长因子、IL-10、TGF-β1、kBα/IkBα抑制剂、TNF-α、IL-1β、IFN-γ2、IL-8、核因子κBP65、IkB 激酶 $\mathfrak { a }$ （IKKα）、IκB 激酶β（IKKβ）和IκB激酶γ（IKKγ）的mRNA表达量[62]。
+
+4.7 矿物质
+
+适量的矿物质对机体具有保护作用，过量时会对机体产生毒性，适当减少矿物质的添加量，可提高其在肠道中的吸收率，释放肝脏中富集的部分矿物质[63]。但当微量元素缺乏时，可导致动物生产性能下降，降低免疫应答{64]。硒（selenium，Se）可参与谷胱甘肽过氧化物酶（GSH-Px）组成，参与体内抗氧化作用，对体内氢或脂形成的过氧化物有较强的还原作用，保护细胞膜结构完整和功能正常，具有保护心血管功能、增强免疫机能和削弱重金属毒性的作用[14]。张大为[65]研究指出，不同水平的 Se 和维生素E可提高免疫应激固始鸡的血清和肝脏抗氧化能力，显著降低过氧化物含量，显著改善机体的免疫应激状况，提高机体抗氧化能力，同时降低肠道NO含量和iNOS 活性，对肠道起积极保护作用。锌（zinc，Zn）是脂类、碳水化合物、DNA、RNA以及蛋白质合成及分解的重要营养物质，Zn有抵抗疾病、促进伤口愈合和维持上皮完整性等重要作用。有研究表明，Zn可通过激活GPCR39上调蛋白激酶 $\mathrm { ~ C ~ } \xi$ （protein kinase C ＆，PKC $\xi$ ）信号分子，促进紧密连接蛋白ZO-1和钙黏素的蛋白表达；此外，Zn 还可通过磷脂酰肌醇 3-激酶（phosphatidylinositol-3-kinase，PI3K）/蛋白激酶B（Akt）/mTOR 通路促进细胞分化和细胞间连接蛋白ZO-1的mRNA表达量，增强肠道屏障功能，从而改善Caco-2单层上皮细胞完整性[66]。
+
+# 4.8 多糖和寡糖
+
+多糖广泛存在于动物细胞膜、植物和微生物细胞壁中，具有许多重要的生物活性，如参与细胞骨架的构成，也是多种内源性生物活性分子的组成成分。多糖作为一种免疫促进和调节剂，具有抗菌、抗肿瘤、抗氧化和抗病毒等生物学活性「67-68]。有研究指出，从韩国的柿子醋中提取的粗多糖（KPV-0）对肠上皮Caco-2细胞没有细胞毒性，且在体外共培养系统中可以通过Caco-2 细胞单层转运,同时显著增加PP 细胞IgA 的产生，并引发 TGF-β1和 IL-6含量的升高；体内口服结果表明，KPV-0可显著增加肠液和粪便中的IgA含量[69。未发酵玉屏风多糖（UYP）和发酵玉屏风多糖（FYP）均显著促进断奶獭兔的生长和增强免疫活性，改善肠道菌群平衡，维持肠道屏障结构和功能的完整性；同时FYP可增加肠道菌群多样性和纤维素分解菌的丰度，减少链球菌和肠球菌属的丰度；在胃肠道中，特别是前端，FYP通过上调空肠和回肠中的紧密连接蛋白、聚合免疫球蛋白受体、三叶因子和表皮生长因子的mRNA 表达量来维持肠道屏障的完整性和功能「70]。从黑根霉发酵液中提取的胞外多糖（EPS1-1）可以增强免疫抑制小鼠的免疫力，可抵抗人造胃中的水解；口服 EPS1-1可调节肠道微生物菌群并且增加大肠癌小鼠粪便中的 SCFAs 含量，可增加结肠绒毛高度、绒毛高度/隐窝深度及酸性黏液分泌杯状细胞的数量[71]。猴头菌多糖（HEP）可显著改善雏番鸭的肠道形态结构和相关指标，抑制呼肠孤病毒（MDRV）感染引起的肠道黏膜上皮淋巴细胞、杯状细胞和肥大细胞的降低，显著增加 sIgA、IFN-γ和IL-4 的分泌，增强肠道黏膜免疫功能[72]。
+
+寡糖又称低聚糖或寡聚糖，根据生物学功能可将其分为功能性寡糖和普通寡糖。功能性寡糖具有特殊的生物学功能，不能被人和动物的肠道吸收，也不能被肠道大部分有害菌利用，只能被肠道有益菌如双歧杆菌、乳酸杆菌等发酵利用，从而促进其生长增殖，是有益于肠道健康的一类寡糖。饲粮中补充海藻酸低聚糖（ALGO）可显著提高断奶仔猪的血清 IL-10、免疫球蛋白G（IgG）和IgA含量，SOD、CAT 活性和总抗氧化能力（T-AOC），增加肠道中双歧杆菌和乳杆菌的数量，同时减少总细菌和大肠杆菌的数量；ALGO 可显著增加小肠的sIgA 含量、绒毛高度和二糖酶（乳糖酶和蔗糖酶）活性，同时上调紧密连接蛋白 ZO-1的mRNA表达量[73]。饲粮中补充甘露寡糖可显著增加试验最后2周断奶仔猪的淋巴细胞亚群比例（除 $\mathrm { C D _ { 8 } ^ { + } T }$ 细胞外），同时显著降低整个试验期的 $\mathrm { C D } _ { 4 5 } { } ^ { + }$ 、 $\mathrm { C D 4 } ^ { + }$ 和 $\mathrm { C D _ { 8 } ^ { + } T }$ 细胞比例;试验第35天，空肠中的总细菌负荷降低，回肠PP 滤泡间和滤泡区域中的初始T细胞（ $\mathrm { C D } _ { 4 5 }$ RA+T）的数量增加 $[ 7 4 ]$ 。
+
+5小结
+
+肠道黏膜免疫是机体防止感染的重要防线，同时也是宿主与外界环境间建立和维持稳态平衡的重要门户。随着科学研究的不断深入，采取靶向有效措施以期改善肠道黏膜免疫防御效果，加强肠道黏膜免疫屏障功能是营养学和免疫学等交叉领域的研究重点。目前，对参与肠道微生物调控的特定营养素和参与免疫调节的特定共生细菌，还需进一步深入研究来揭示肠道微生物免疫和营养调节在动物肠道中相互作用的潜在机制，以期更科学的为营养素和非营养素对动物肠道免疫机能及其免疫调节作用机制提供理论依据。
+
+# 参考文献：
+
+[1] TIWARI S,AGRAWAL G P,VYAS S P.Molecular basis of the mucosal immune system:from fundamental concepts to advances in liposome-based vaccines[J].Nanomedicine,2010,5(10):1617-1640.   
+[2] 呙于明.动物免疫营养[M].北京:科学出版社,2011.   
+[3] 郑世军.动物分子免疫学[M].北京:中国农业出版社,2015.   
+[4] ROHE I,GOBEL T W,GOODARZI B F,et al.Effect of feeding soybean meal and differently processedpeasonthegutmucosal immunesystemofbroilers[J].Poultry Science,2017,96(7):2064-2073.
+
+[5]刘小艺,吕昌龙.黄连素对肠道黏膜免疫功能的调节作用[J].微生物学免疫学进展
+
+,2017,45(4):76-80.
+
+6]周光炎.免疫学原理[M].上海:上海科学技术文献出版社,2007.
+
+[7]周加义,高春起,严会超,等.热应激对畜禽肠道黏膜屏障功能影响及其损伤修复研究进展 [J].饲料工业,2017,38(17):24-29.   
+[8] MA N,GUO P T,ZHANG J,et al.Nutrients mediate intestinal bacteria-mucosal immune crosstalk[J].Frontiers in Immunology,2018,9:5.   
+[9] LU J T,XU A T,SHEN J,et al.Crosstalk between intestinal epithelial cell and adaptive immune cell in intestinal mucosal immunity[J].Journal of Gastroenterologyand Hepatology,2017,32(5):975-980.   
+[10]李欣,岳冬辉,毕岩.sIgA 在黏膜免疫中的作用[J].河南中医,2015,35(12):3212-3214.   
+[11]张丽芝.肠黏膜屏障与粪 sIgA及其在相关疾病中的研究进展[J].国际儿科学杂志 ,2017,44(3):170-173.   
+[12] ITO H,TAKEMURA N,SONOYAMA K,et al.Degree of polymerization of inulin-type fructansdifferentially afectsnumber oflactic acid bacteria,intestinal immune functions,and immunoglobulin a secretion in the rat cecum[J].Journal of Agricultural and Food Chemistry,2011,59(10):5771778.   
+[13]韩文瑜,雷连成.高级动物免疫学[M].北京:科学出版社,2016.   
+[14]杨汉春.动物免疫学[M].北京:中国农业大学出版社,2003.   
+[15]崔志中,崔保安.兽医免疫学[M].北京:中国农业出版社,2004.   
+[16] XIE Y L,MA C Y,GUAN X.Effect of free and peptide-bound glutamine supplementation and preparation[J].Agro Food Industry Hi Tech,2010,21(2):50-52.   
+[17]杨成,文静,夏敏,等.谷氨酰胺营养支持对急性重症胰腺炎患者肠黏膜屏障功能及炎症 反应程度的影响[J].海南医学院学报,2017,23(14):1896-1899.   
+[18] REEDSPJ,BURRIND G.Glutamineandthebowel[J].Journalof Nutrition,2001,131(Suppl.1):2505S-2508S.   
+[19]LI Y,CHEN Y,ZHANG J,et al.Protective effect of glutamine-enriched early enteral nutrition on intestinal mucosal barrier injury after liver transplantation in rats[J].The American
+
+Journal of Surgery,2010,199(1):35-42.
+
+[20]WANG J,LI Y F,QI Y L.Effect of glutamine-enriched nutritional support on intestinal mucosal barrier function,MMP-2,MMP-9 and immune function in patients with advanced gastric cancer during perioperative chemotherapy[J].Oncology Letters,2017,14(3):3606-3610.   
+[21] 金其贯,武倩倩,金爱娜.丙氨酰谷氨酰胺对高原训练大鼠肠道体液免疫功能调节作用的 研究[C]//第四届(2016)全国运动生理与生物化学学术会议—一运动·体质·健康论文 摘要汇编.无锡:中国体育科学学会运动生理与生物化学分会,2016.   
+[22]DONG X Y,YANG C F,TANG S Q,et al.Effect and mechanism of glutamine on productive performance and egg quality of laying hens[J].Asian-Australasian Journal of Animal Sciences,2010,23(8):1049-1056.   
+[23]VAN DER SCHOOR S R D,SCHIERBEEK H,BET P M,et al.Majority of dietary glutamine is utilized in first pass in preterm infants[J].Pediatric Research,2010,67(2):194-199.   
+[24]高泽.Gln 对肉鸡黏膜屏障的调控作用研究[J].湖北畜牧兽医,2015,36(9):37-38.   
+[25]FAN J,MENG Q Y,GUO G H,et al.Effcts of early enteral nutrition supplemented with arginineonintestinal mucosal immunityinseverelyburnedmice[J].Clinical Nutrition,2010,29(1):124-130.   
+[26]ZHU HL,LIU Y L,XIE X L,et al.Effect of $L$ -arginine on intestinal mucosal immune barrier functioninweanedpigsafterEscherichiacoliLPSchallenge[J].Innate Immunity,2013,19(3):242-252.   
+[27]GAO T,ZHAO M M,ZHANG L,et al.Effects of in ovo feeding of $L$ -arginine on the development of lymphoid organs and small intestinal immune barrier function in posthatch broilers[J].Animal Feed Science and Technology,2017,225:8-19.   
+[28]TIAN G,ZHAO M M,ZHANG L,et al.In ovo feeding of $L$ -arginine regulates intestinal barrier functionsofposthatchbroilersbyactivatingthemTORsignaling pathway[J].Journal of the Science of Food and Agriculture,2018,98(4):1416-1425.   
+[29]林日添,吴维,刘占举.短链脂肪酸对肠黏膜稳态免疫调节作用的研究进展[J].免疫学杂 志,2017,33(10):900-904.   
+[30]卢忆,张晓阳,马艳莉,等.丁酸的生理功能研究进展[J].中国食物与营养 ,2013,19(2):59-62.   
+[31]WAN S W W,SJOBLOM M.Short-chain fatty acids augment rat duodenal mucosal barrier function[J].Experimental Physiology,2017,102(7):791-803.   
+[32]FENG T,GAO X J,LI Z,et al.Effects of n-3 PUFAs on intestinal mucosa innate immunity and intestinal microbiota in mice after hemorrhagic shock resuscitation[J].Nutrients,2016,8(10):609-624.   
+[33] LIU J M,WANG J D,SHI Y L,et al.Short chain fatty acid acetate protects against ethanol-induced acute gastric mucosal lesion in mice[J].Biological and Pharmaceutical Bulletin,2017,40(9):1439-1446.   
+[34] GOVERSE G,MOLENAAR R,MACIA L,et al.Diet-derived short chain fatty acids stimulate intestinal epithelial cells to induce mucosal tolerogenic dendritic cells[J].The Journal of Immunology,2017,198(5):2172-2181.   
+[35]杨建松,曾雨雷,黄鑫.外源核苷酸在动物养殖中的应用[J].饲料研究,2014(23):37-39.   
+[36] 张蕉南.酵母核苷酸在水产动物上的研究进展与应用前景[J].饲料工业 ,2016,37(14):28-31.   
+[37]MATEOCD,STEIN HH.核苷酸对幼龄动物肠道发育和免疫功能的影响[J].饲料工业 ,2014,35(16):58-64.   
+[38] 杨小萍,王康宁.外源核苷酸及其转运载体对肠道营养的影响[J].饲料工业 ,2006,27(21):15-18.   
+[39]CHE L Q,HU L,LIU Y,et al.Dietary nucleotides supplementation improves the intestinal development and immune function of neonates with intra-uterine growth restriction in a pig model[J].PLoS One,2016,11(6):e0157314.   
+[40] GAO K,WANG C,LIU L,et al.Immunomodulation and signaling mechanism of Lactobacillus rhamnosus GG and its components on porcine intestinal epithelial cells
+
+stimulated bylipopolysaccharide[J].JournalofMicrobiology,Immunology and
+
+Infection,2017,50(5):700-713.   
+[41] GUO J P,GUO B Y,ZHANG H L,et al.Effects of nucleotides ongrowth performance,immune response,disease resistance and intestinal morphology in shrimp Litopenaeusvannameifedwithalow fishmealdiet[J].Aquaculture International,2016,24(4):1007-1023.   
+[42]洪南,湛先保.肠道微生态系统与肠黏膜免疫关系研究进展[J].医学研究生学报 ,2014,27(4):444-446.   
+[43]李黎.肠道微生态与婴幼儿免疫[J].中国临床医生,2014,42(8):17-19.   
+[44]张和平,霍冬雪.婴儿肠道菌群研究现状[J].中国食品学报,2013,13(7):1-6.   
+[45]STEINERT A,RADULOVIC K,NIESS J.Gastro-intestinal tract:the leading role of mucosal immunity[J].Swiss Medical Weekly,2016,146:w14293.   
+[46] XIE J H,FAN S T,NIE S P,et al.Lactobacillus plantarum NCU116 attenuates cyclophosphamide-induced intestinal mucosal injury,metabolism and intestinal microbiota disorders in mice[J].Food & Function,2016,7(3):15841592.   
+[47]YANG F J,HOU C L,ZENG X F,et al.The use of lactic acid bacteria as a probiotic in swine diets[J].Pathogens,2015,4(1):34-45.   
+[48] JONESS E,VERSALOVIC J.Probiotic Lactobacillus reuteri biofilms produce antimicrobial and anti-inflammatory factors[J].BMC Microbiology,2009,9(1):35.   
+[49]GALDEANO C M,PERDIGON G.The probiotic bacterium Lactobacillus casei induces activation of the gut mucosal immune system through innate immunity[J].Clinical and Vaccine Immunology,2006,13(2):219-226.   
+[50]TSAI Y T,CHENG P C,LIAO J W,et al.Effect of the administration of Lactobacillus paracaseisubsp.paracaseiNTU101onPeyer'spatch-mediatedmucosal immunity[J].International Immunopharmacology,2010,10(7):791-798.   
+[51]许丽文.维生素 A在畜禽生产中的应用[J].饲料博览,2017(6):22-25.   
+[52]杨春,杨晓光.中国人群维生素 A 的影响因素[J].医学综述,2016,22(7):1249-1252.   
+[53] ZHANG L,FENG L,JIANG W D,et al.Vitamin A deficiency suppresses fish immune function with differences in different intestinal segments:the role of transcriptional factor NF-kB and p38 mitogen-activated protein kinase signaling pathways[J].British Journal of Nutrition,2017,117(1):67-82.   
+[54]张丽.维生素A对生长中期草鱼生产性能、肠道、机体和鳃健康以及肌肉品质的作用 及作用机制[D].硕士学位论文.雅安:四川农业大学,2016.   
+[55] ISHIKAWA L L W,COLAVITE P M,DE CAMPOS FRAGA-SILVA T F,et al.Vitamin D deficiencyandrheumatoidarthritis[J].ClinicalReviewsinAllergy & Immunol0gy,2017,52(3):373-388.   
+[56]KANHERE M,CHASSAING B,GEWIRTZ A T,et al.Role of vitamin D on gut microbiota incysticfibrosis[J].TheJournalofSteroidBiochemistryandMolecular Biology,2018,175:82-87.   
+[57]石永言,富建华,姚丽,等.维生素D调节坏死性小肠结肠炎新生大鼠肠道上皮occludin蛋 白表达的研究[J].中国小儿急救医学,2017,24(1):60-64.   
+[58] BARBACHANO A,FERNANDEZ-BARRAL A,FERRER-MAYORGA G,et al.The endocrinevitaminDsysteminthegut[J].Molecularand Cellular Endocrinology,2016,453:79-87.   
+[59] CHRISTAKOS S,DELUCA H F.Minireview:vitamin D:is there a role in extraskeletal health?[J].Endocrinology,2011,152(8):2930-2936.   
+[60]张珍,刘春燕,邵加庆.维生素D与胰岛素抵抗[J].医学研究生学报,2013,26(5):528-531.   
+[61]祁晓平,黎介寿.维生素D作为开环甾体激素的研究进展[J].医学研究生学报 ,2013,26(7):748-750.   
+[62]FENG L,LI S Q,JIANG W D,et al.Deficiency of dietary niacin impaired intestinal mucosal immune function via regulating intestinal NF-kB,Nrf2 and MLCK signaling pathways in young grasscarp(Ctenopharyngodonidella)[J].Fish&Shellfish Immunology,2016,49:177-193.   
+[63]文超越,李勇,邢伟刚,等.饲粮减少矿物元素对育肥猪生长性能、肉品质、血清生化指标 以及骨骼肌矿物元素含量的影响[J].动物营养学报,2017,29(2):597-604.
+
+[64]THOMAZ M C,WATANABE P H,PASCOAL L A,et al.Inorganic and organic trace mineral supplementationinweanlingpigdiets[J].AnaisdaAcademiaBrasileira de Ciencias,2015,87(2):1071-1081.
+
+[65]张大为.饲粮添加VE 和硒对固始鸡生长、免疫和抗氧化机能的影响[D].硕士学位论文.郑州:河南农业大学,2013.
+
+邵玉新.锌营养对肉鸡肠黏膜及Caco-2细胞肠上皮屏障功能的作用及机制[D].博士学 位论文.北京:中国农业大学,2017.   
+COSTA L S,FIDELIS G P,CORDEIRO S L,et al.Biological activities of sulfated polysaccharides from tropical seaweeds.[J]. Biomedicine & Pharmacotherapy,2010,64(1):21-28.   
+YIN H,WANG Y,WANG Y,et al.Purification, characterization and immuno-modulating properties of polysaccharides isolated from Flammulina velutipes mycelium[J].American Journal of Chinese Medicine,2010,38(1):191-204.   
+MIN Y L,KIM H,SHIN K S.In vitro and in vivo effects of polysaccharides isolated from Korean persimmon vinegar on intestinal immunity[J].Journal of the Korean Society for Applied Biological Chemistry,2015,58(6):867-876.   
+SUN H,NI X Q,SONG X,et al.Fermented Yupingfeng polysaccharides enhance immunity byimproving the foregut microflora and intestinal barrier in weaningrex rabbits[J].Applied Microbiology and Biotechnology,2016,100(18):8105-8120.   
+YU Z D,SONG G,LIU J,et al.Beneficial effects of extracellular polysaccharide from Rhizopus nigricans on the intestinal immunity of colorectal cancer mice[J].International Journal of Biological Macromolecules,2018,115:718-726.   
+WU Y J,JIANG H H,ZHU E P,et al.Hericium erinaceus polysaccharide facilitates restoration of injured intestinal mucosal immunity in Muscovy duck reovirus-infected Muscovy ducklings[J].International Journal of Biological Macromolecules,2017,107:1151-1161.
+
+[73] WAN J,JIANG F,XU Q S,et al.Alginic acid oligosaccharide accelerates weaned pig growth through regulating antioxidant capacity,immunity and intestinal development[J].RSC
+
+Advances,2016,6(90):87026-87035. [74] VALPOTIC H,SAMARDZIJA M,TERZIC S,et al.Effect of mannan oligosaccharide supplementation on blood and intestinal immune cells,bacteria numbers and performance in weaned pigs[J].Acta Veterinaria Brno,2016,85(3):267-276. Regulation of Nutrition Factors on Intestinal Mucosal Immunity of Non-ruminant Animals LIANG Jing1NIE Cunxil\*ZHANG Wenjul\* KOU Shasha² (College ofAnimal Science and Technology, Shihezi University, Shihezi 8320oo, China) Abstract: The intestine has the function of isolating the contents of the intestine from environment in the body to prevent pathogenic antigens (intestinal bacteria, toxic substances,food antigens, etc.) from invading submucosal tissues, thereby maintaining the relative stability of environment in the body.The mucosa defense system plays a crucial role in this process. This review focused on the intestinal mucosal immune system composition， classification, major immune factors,and the immunomodulatory effects of nutrition factors on intestinal mucosal immunity, aiming to provide reference for the intestinal immune function and immune regulation mechanism of nutrient and non-nutrients on non-ruminant animals.
+
+Key words: non-ruminant; intestinal mucosa; immune factors； immune mechanism； nutritionfactors

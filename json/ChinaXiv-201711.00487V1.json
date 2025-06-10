@@ -1,0 +1,356 @@
+[
+    {
+        "type": "text",
+        "text": "肖英平1,2 陈安国²代兵 陈镜刚 $^ 1$ 李开锋²杨华1\\*（1.浙江农业科学院农产品质量标准研究所，杭州310021；2.浙江大学动物科学学院，杭州310058；3.浙江农林大学动物科技学院，杭州311300)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究仔猪早期断奶过程中血浆氨基酸代谢谱的动态变化。选取8头 21日龄“杜 $\\times$ 长 $\\times$ 大”断奶仔猪，在断奶后0、1、3、5、7、10、15、30d采集血液样本用于氨基酸分析。结果表明，仔猪血浆精氨酸、瓜氨酸和鸟氨酸含量在断奶后1～5d内显著下降（ $P { < } 0 . 0 5 \\mathrm { : }$ )，在断奶后 $\\hphantom { - } 7 \\sim 3 0 \\mathrm { d }$ 上升。亮氨酸、脯氨酸、酪氨酸和牛磺酸含量在断奶后1～3d内显著下降（ $P { < } 0 . 0 5 )$ ，然后上升。异亮氨酸、赖氨酸、甘氨酸和丝氨酸含量在断奶后5d显著低于其他时间点的含量（ $. P { < } 0 . 0 5 )$ 。组氨酸、苯丙氨酸、氨酸、天冬氨酸、半胱氨酸含量在断奶后10d最低。谷氨酸含量在断奶后0、1和 $1 0 \\mathrm { ~ d ~ }$ 显著低于其他时间段含量（ $P { < } 0 . 0 5 \\mathrm { ) }$ )。总氨基酸含量在断奶后 $1 { \\sim } 5 \\mathrm { d }$ 逐渐降低（ $_ { _ { P < 0 . 0 5 } ) }$ ，断奶后7d起升高并至断奶后30d无显著变化（ $. P { > } 0 . 0 5 )$ 。主成分分析显示，随着断奶后时间的延长，仔猪血浆氨基酸代谢谱与断奶后0d的代谢谱差异逐渐变大，然后逐渐向断奶后0d代谢谱位置靠拢，并趋于稳定，其中断后 $3 { \\sim } 5 \\mathrm { ~ d ~ }$ 血浆氨基酸代谢谱变化幅度最大。偏最小二乘法判别分析模型表明，谷氨酸在NRC（1998）饲养标准下区分断奶后各时间点血浆代谢谱最重要的氨基酸。由此可见，仔猪在早期断奶阶段机体的蛋白质或者氨基酸代谢发生明显变化，且在断奶后3～5d变化幅度最为显著。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：仔猪；早期断奶；血浆；氨基酸；代谢谱中图分类号：S852.2；S828",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "早期断奶仔猪由于受环境、心理及营养应激等因素影响，常常会表现出一系列的不良症状，如厌食或拒食、生长迟滞、消化机能紊乱、腹泻水肿、饲料利用率低等现象，这对仔猪机体代谢产生严重影响。氨基酸作为体内蛋白质代谢及其他物质代谢的产物，对动物体生长、维持和健康等重要代谢通路起着调控作用[1]。血液中由各种氨基酸及其含量组成的氨基酸谱，即氨基酸模式，蕴涵着反映机体代谢和功能状态的重要生物化学信息。然而，受数据分析技术的限制，血浆氨基酸模式蕴涵的生物学信息不能被充分利用，其分析应用也长期停留在简单的Fischer物质的量比值或支链氨基酸和酪氨酸物质的量比值上。代谢组学作为系统生物学一个新的分支，通过定量测定生物样品的小分子代谢物来进行研究，在营养分析、疾病诊断等方面发挥着越来越重要的作用[-2]。代谢组学研究技术基于对代谢产物变化的指纹图谱分析和数学模型的建立，寻找与该生理过程紧密相关的生物标志物，为饲粮中营养组分作用效果研究提供了新的思路[3]。血浆氨基酸作为代谢网络中重要的代谢物，反映着机体组织蛋白质代谢和能量代谢的状况。本试验的目的是采用代谢组学方法对仔猪早期断奶过程中血浆氨基酸代谢谱进行系统研究，探讨其动态变化规律和筛选出重要的氨基酸。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验动物选择4头产第3胎的经产母猪，每头母猪哺乳10头“杜 $\\times$ 长 $\\times$ 大(DurocxLandracexLarge  \nYorkshire strain）”仔猪。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在 21日龄时将仔猪作断奶处理，选择8头体重一致的健康仔猪（公母各占1/2）用于试验，分别来自于4头母猪。试验仔猪单独饲养，参照Flynn 等[4的方法分别用于断奶后0、1、3、5、7、10、15、30d测定体重和采集血液样本。试验过程中仔猪饲养在环境可控的保育室中，温度为（ $2 5 { \\pm } 2$ ） $\\mathrm { { } ^ { \\circ } C }$ ，相对湿度为 $6 5 \\% \\sim 7 5 \\%$ ，持续光照。试验期间自由饮水和采食，试验饲粮由浙江国茂饲料有限公司提供，基础饲粮参考 NRC（1998）断奶仔猪营养需要标准配制，其组成及营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平 (饲喂基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0cae07749cb262cf69075877a26845f6ed4716c9565b747f606b50b84c66f323.jpg",
+        "table_caption": [
+            "Table 1 Composition and nutrient levels of basal diet (as-fed basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels</td><td>含量Content</td></tr><tr><td>玉米Corn</td><td>58.00</td><td>粗蛋白质 Crude protein</td><td>20.26</td></tr><tr><td>豆粕 Soybean meal</td><td>22.50</td><td>消化能Digestible energy/(MJ/kg)</td><td>14.17</td></tr><tr><td>膨化大豆 Extruded soybean</td><td>7.00</td><td>总钙Total calcium</td><td>0.81</td></tr><tr><td>鱼粉 Fish meal</td><td>4.00</td><td>总磷 Total phosphorus</td><td>0.66</td></tr><tr><td>豆油 Soybean oil</td><td>2.30</td><td>有效磷 Available phosphorus</td><td>0.49</td></tr><tr><td>乳清粉Whey powder</td><td>2.50</td><td>赖氨酸Lysine</td><td>1.26</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.25</td><td>蛋氨酸+半胱氨酸Methionine+cysteine</td><td>0.67</td></tr><tr><td>石粉 Limestone</td><td>0.65</td><td>苏氨酸Threoine</td><td>0.82</td></tr><tr><td>食盐 NaCl</td><td>0.20</td><td></td><td></td></tr><tr><td>赖氨酸盐酸盐 Lysine hydrochloride</td><td>0.25</td><td></td><td></td></tr><tr><td>沸石粉 Zeolite</td><td>0.35</td><td></td><td></td></tr><tr><td>预混料 Premix</td><td>1.00</td><td></td><td></td></tr><tr><td>合计 Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "预混料可为每千克饲料提供 The premix provides the following per $\\mathrm { k g }$ of diet:Cu $2 0 0 ~ \\mathrm { { m g } }$ Fe $2 4 0 ~ \\mathrm { m g }$ ，Mn 40 mg， $\\mathrm { Z n } 1 0 0 0 \\mathrm { m g }$ ， $\\mathrm { C o } 0 . 5 \\ : \\mathrm { m g }$ ， $\\mathrm { ~ I 0 . 4 ~ m g }$ ，Se $0 . 3 5 \\mathrm { m g }$ ，VA 17 500IU，VD3 385 IU，VE 70 IU，VK $3 . 3 6 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 3 . 4 3 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 8 . 7 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 5 . 1 5 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 4 \\ : \\mathrm { m g }$ ，泛酸 pantothenate $1 7 . 1 5 \\mathrm { m g }$ ，烟酸 nicotinic acid $3 6 ~ \\mathrm { m g }$ ，叶酸 folic acid $1 . 7 0 \\mathrm { m g }$ ，生物素biotin（204号 $0 . 2 6 \\mathrm { m g }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 血清样品的采集和保存 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在断奶后0、1、3、5、7、10、15和30d仔猪哺乳或饲喂 $8 \\mathrm { h }$ 后，分别从前腔静脉采集血液样本（ $\\mathrm { 4 ~ m L }$ )，于 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 下 $3 ~ 0 0 0 ~ \\mathrm { r / m i n }$ 离心 $1 0 ~ \\mathrm { m i n }$ 得到血清，保存在 $- 2 0 \\mathrm { ~ \\textdegree C }$ 用于氨基酸分析[3]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4血浆游离氨基酸含量测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取 $1 \\mathrm { m L }$ 血清加入 $2 . 5 \\mathrm { \\ m L 7 } . 5 \\%$ 的三氯乙酸漩涡混匀， $1 2 0 0 0 \\mathrm { r / m i n }$ 离心 $1 5 \\mathrm { m i n }$ $( 4 ~ \\mathrm { ^ { \\circ } C } )$ ，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上清液用于氨基酸分析（离子交换氨基酸分析仪，HitachiL-8900 Auto-Analyzer，Tokyo,Japan）。每个样本进样量为 $2 0 ~ \\mu \\mathrm { L }$ ，分析周期为 $1 5 0 \\ \\mathrm { m i n }$ 。柱平衡时间为 $3 5 ~ \\mathrm { m i n }$ ，检测波长$5 7 0 \\mathrm { n m }$ ，其中脯氨酸为 $4 4 0 \\mathrm { n m } ^ { \\left[ 5 \\right] }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仔猪体重和血浆氨基酸含量采用 SPSS 16.0 软件进行单因素方差分析（one-wayANOVA）和LSD多重比较，数据采用平均值 $\\cdot \\pm ^ { \\cdot }$ 标准误（mean±SEM）。将这20 种氨基酸的数据导入到 SIMCA-P（Version12.0）软件。首先采用非监督的主成分分析（principal component analysis，PCA）方法观察断奶后不同时间点样品聚焦、离散及变化趋势。为了进一步区分仔猪断奶后不同时间点氨基酸代谢的差异，采用有监督的偏最小二乘判别分析（partial least-squares discrimnant analysis，PLS-DA）筛选使不同时间点血浆样本发生聚集或离散的主要差异变量，从而找到使断奶后不同时间点氨基酸代谢谱发生变化最相关的氨基酸。以断奶后的时间点（天数）为Y矩阵，以氨基酸含量为X矩阵进行PLS-DA建模，然后采用正交偏最小方差判别分析（orthogonal partial least-square discriminant analysis,O-PLS-DA）对筛选出的重要差异变量进行验证[6]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 断奶仔猪体重",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仔猪在断奶后 $1 { \\sim } 3 \\mathrm { d }$ ，体重变化较小；在断奶后5d始，仔猪体重逐渐增大，至断奶后30d仔猪体重为 $1 4 . 7 5 \\mathrm { k g }$ （表2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/314fdea689c54731fe947e9bb97a26b390180ff805cad34c5d086c26a0b6e643.jpg",
+        "table_caption": [
+            "表2仔猪断奶后的体重变化",
+            "Table 2 Changes of body weight in piglets post-weaning "
+        ],
+        "table_footnote": [
+            "80 同行数据肩注不同字母表示差异显著（ $P { < } 0 . 0 5 \\$ )。下表同。 81 In the same row,values with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ．The same as below. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Item</td><td colspan=\"8\">断奶后天数 Days post-weaning/d</td><td rowspan=\"2\">SEM</td></tr><tr><td>0</td><td>1</td><td>3</td><td>5</td><td>7</td><td>10</td><td>15</td><td>30</td></tr><tr><td>体重Body weight</td><td>7.04f</td><td>6.96f</td><td>7.14ef</td><td>7.58e</td><td>8.11d</td><td>8.86c</td><td>10.23b</td><td>14.75a</td><td>0.21</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2断奶仔猪血浆氨基酸含量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，血浆精氨酸与其直接的前体物质瓜氨酸和鸟氨酸含量在断奶后 $1 \\sim 5 \\mathrm { ~ d ~ }$ 内显著下降（ $P { < } 0 . 0 5 \\mathrm { : }$ ，在断奶后 $\\phantom { - } 7 \\sim 3 0$ d上升。亮氨酸、脯氨酸、酪氨酸和牛磺酸含量在断奶后 $1 \\sim 3 { \\mathrm { d } }$ 内显著下降（ $. P { < } 0 . 0 5 )$ ，然后上升。异亮氨酸、赖氨酸、甘氨酸和丝氨酸含量在断奶后5d显著低于其他时间点的含量（ $. P { < } 0 . 0 5 \\$ )，然后在断奶后 $\\hphantom { - } 7 \\sim 3 0 \\mathrm { d }$ 上升。蛋氨酸含量在断奶后 $0 { \\sim } 3 { \\mathrm { ~ d ~ } }$ 内变化较小（ $. P { > } 0 . 0 5 \\rangle$ ，在断奶后5d，其含量分别比断奶后0、1和3d增加了 $4 1 . 6 1 \\%$ ( $P { < } 0 . 0 5 \\$ ）、 $4 3 . 5 1 \\%$ ( $P { < } 0 . 0 5$ ）和 $4 1 . 1 1 \\%$ ( $P { < } 0 . 0 5 )$ ，之后其含量保持稳定。血浆苏氨酸含量在断奶后 $3 \\mathrm { d }$ 比断奶后0和1d分别增加了 $3 1 . 6 7 \\% ( P { < } 0 . 0 5 )$ 和 $7 9 . 0 6 \\% ( P { < } 0 . 0 5 )$ ，断奶后 $1 0 \\mathrm { d }$ 含量达到最大值，在断奶后15 和 $3 0 \\mathrm { d }$ 其含量显著降低。谷氨酸（由于在氨基酸分析仪中该2种氨基酸不能分开，实际包括谷氨酸 $^ { \\circ } +$ 谷氨酰胺）含量在断奶后0、1和10d显著低于其他时间点含量（ $. P { < } 0 . 0 5 \\$ )。丙氨酸含量在断奶后1d显著降低（ $P { < } 0 . 0 5 \\$ )，断奶后$3 \\mathord { \\sim } 1 0 \\mathrm { d }$ 升高，在断奶后 $1 5 \\sim 3 0 \\mathrm { d }$ 降低。总氨基酸含量在断奶后0d显著高于断奶后各时间点总氨基酸含量（ $. P { < } 0 . 0 5 \\ '$ )，从断奶后1d始至断奶后5d，总氨基酸含量逐渐降低，断奶后7d起升高并至断奶后 $3 0 \\mathrm { d }$ 无显著变化 （ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/27ffbe7241bea61335f5c0d34c53c0419ce464c78c6108a7565f25f4427bad9a.jpg",
+        "table_caption": [
+            "表3断奶仔猪血浆氨基酸含量",
+            "Table 3Plasma contents of amino acids in weaned pigs ",
+            "μmol/L "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td colspan=\"8\">断奶后天数 Days post-weaning/d</td><td rowspan=\"2\">SEM</td></tr><tr><td>0</td><td>1</td><td>3</td><td>5</td><td>7</td><td>10</td><td>15</td><td>30</td></tr><tr><td>必需氨基酸 Essential AA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>精氨酸Arg</td><td>232.25b</td><td>204.22bc</td><td>146.81d</td><td>156.66d</td><td>167.901cd</td><td>186.55c</td><td>268.19a</td><td>286.61a</td><td>9.05</td></tr><tr><td>组氨酸His</td><td>115.88a</td><td>89.86b</td><td>83.98b</td><td>87.01b</td><td>79.65b</td><td>61.73c</td><td>85.49b</td><td>83.73b</td><td>3.77</td></tr><tr><td>异亮氨酸Ile</td><td>163.31b</td><td>210.01a</td><td>107.38℃</td><td>112.71c</td><td>160.66b</td><td>149.11b</td><td>155.85b</td><td>152.01b</td><td>6.29</td></tr><tr><td>亮氨酸 Leu</td><td>232.64ab</td><td>248.43a</td><td>178.10c</td><td>208.74b</td><td>238.63a</td><td>239.79a</td><td>241.35a</td><td>245.93a</td><td>8.91</td></tr><tr><td>赖氨酸 Lys</td><td>435.74a</td><td>290.78c</td><td>286.67c</td><td>169.05d</td><td>239.94c</td><td>388.37b</td><td>368.71b</td><td>365.42b</td><td>11.46</td></tr><tr><td>蛋氨酸 Met</td><td>78.56b</td><td>77.52b</td><td>78.84b</td><td>111.25a</td><td>102.57a</td><td>111.48a</td><td>100.15a</td><td>103.07a</td><td>4.17</td></tr><tr><td>苯基丙氨酸 Phe</td><td>125.55a</td><td>129.14a</td><td>103.92b</td><td>103.95b</td><td>107.53b</td><td>93.94b</td><td>119.69ab</td><td>119.02ab</td><td>4.77</td></tr><tr><td>苏氨酸Thr</td><td>197.16</td><td>161.15ed</td><td>288.56b</td><td>264.51b</td><td>237.32b</td><td>387.89a</td><td>136.94d</td><td>150.63cd</td><td>11.99</td></tr><tr><td>氨酸Val</td><td>200.79b</td><td>237.20a</td><td>127.92d</td><td>103.84e</td><td>106.15e</td><td>98.17e</td><td>163.71c</td><td>153.28c</td><td>5.83</td></tr><tr><td colspan=\"2\">非必需氨基酸 Nonessential AA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丙氨酸 Ala</td><td>960.09a</td><td>618.76c</td><td>804.82b</td><td>796.47b</td><td>793.39b</td><td>808.92b</td><td>643.95c</td><td>625.58c</td><td>31.09</td></tr><tr><td>天冬氨酸Asp</td><td>72.63a</td><td>58.93b</td><td>65.32ab</td><td>63.68ab</td><td>62.91ab</td><td>47.29c</td><td>63.42ab</td><td>61.34b</td><td>3.58</td></tr><tr><td>半胱氨酸Cys</td><td>149.82a</td><td>133.16a</td><td>55.30bc</td><td>55.85bc</td><td>63.86b</td><td>41.35℃</td><td>47.74c</td><td>64.15b</td><td>5.14</td></tr><tr><td>谷氨酸Glu</td><td>660.48b</td><td>544.90c</td><td>815.17a</td><td>798.49a</td><td>713.38b</td><td>506.32c</td><td>783.30a</td><td>737.83ab</td><td>24.96</td></tr><tr><td>甘氨酸Gly</td><td>1 166.91a</td><td>1 102.75a</td><td>945.26b</td><td>881.13b</td><td>1 096.10a</td><td>1 142.96a</td><td>1 086.72a</td><td>1 121.49a</td><td>43.80</td></tr><tr><td>脯氨酸 Pro</td><td>581.69a</td><td>208.70d</td><td>207.78d</td><td>251.80c</td><td>276.94bc</td><td>307.53b</td><td>290.46b</td><td>308.80b</td><td>17.35</td></tr><tr><td>丝氨酸 Ser</td><td>303.10a</td><td>205.74b</td><td>177.43bc</td><td>168.58c</td><td>201.50b</td><td>202.49b</td><td>194.67b</td><td>211.04b</td><td>8.31</td></tr><tr><td>酪氨酸Tyr</td><td>155.47a</td><td>104.65d</td><td>67.71e</td><td>99.47d</td><td>117.71cd</td><td>117.25cd</td><td>122.20bc</td><td>135.68b</td><td>4.72</td></tr><tr><td>其他氨基酸 Other AA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>瓜氨酸Cit</td><td>130.06a</td><td>106.41b</td><td>71.54d</td><td>64.84d</td><td>72.53d</td><td>87.86c</td><td>84.79c</td><td>84.97℃</td><td>3.98</td></tr><tr><td>鸟氨酸Om</td><td>170.90a</td><td>125.77b</td><td>105.07℃</td><td>93.60d</td><td>126.94b</td><td>110.58c</td><td>127.58b</td><td>154.68a</td><td>5.59</td></tr><tr><td>牛磺酸 Tau</td><td>125.13b</td><td>118.99b</td><td>62.23d</td><td>95.04c</td><td>131.74ab</td><td>120.18b</td><td>129.61b</td><td>139.07a</td><td>3.97</td></tr><tr><td>总氨基酸Total AA</td><td>6 282.71a</td><td>5 014.95cd</td><td>4 819.09d</td><td>4 624.94d</td><td>5 137.67bc</td><td>5 335.48b</td><td>5 245.65bc</td><td>5 368.12b</td><td>104.65</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了使多样品的分析结果更加直观和可视化，且具有统计学意义，本研究首先采用了非监督的PCA的方法，对仔猪血浆样本进行分组处理。由PCA得分图（图1）可见，断奶后0d 血浆样本与其余各个时间点样本显著分开（PCA 得分图上的任一点表示一个对应的样本)，断奶后1d与断奶后15和30d聚类在一起；断奶后3d与断奶后5d聚集，且与断奶后0d差异最大；断奶后7和10d与其他个时间点的样本分开。PCA分析结果反映出，仔猪断奶后血浆氨基酸表现出较大的动态变化，断奶后15d开始趋于稳定。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "断奶后OdOd after weaning（do） 断奶后1d1dafter weaning（d1)   \n\\*断奶后3d3dafter weaning（d3） □断奶后5d5dafter weaning（d5） 断奶后7d7d after weaning（d7） $\\blacktriangle$ 断奶后 $1 0 \\mathrm { d } 1 0 \\mathrm { d }$ after weaning （d10)   \n。断奶后15 d15 dafter weaning（d15） △断奶后 $3 0 \\mathrm { d } 3 0 \\mathrm { d }$ after weaning（d30） ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fd35442b7510842dbe58d7a3a13b16c93ee8e71868f1825cdb728719edd1727.jpg",
+        "img_caption": [
+            "图1不同时间点氨基酸代谢谱PCA得分图",
+            "Fig.1PCA score plot of AA metabolic profiling at different time points "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "载荷图中的变量反映了对不同时间点样品判别的贡献率及变量之间的相关程度，离原点越远，对分组的贡献越大。由图2中可见谷氨酸、苏氨酸、脯氨酸、瓜氨酸位于较远处，说明其对不同时间点样品判别的贡献率较大，被这2个主成分解释得越充分。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/983c00634423b8419c17912aa1a41a06bce991c3411adf1826597dbfd17ceae2.jpg",
+        "img_caption": [
+            "图2不同时间点氨基酸代谢谱PCA载荷图",
+            "Fig.2PCA loading plot of AA metabolic profiling at different time points "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，本试验利用这20种氨基酸含量的平均值，通过PCA模型描绘了断奶仔猪血浆氨基酸代谢谱随时间变化的趋势图（图3和图4)。2个图明显地揭示了血浆氨基酸在断奶后一段时间内从较大的变化幅度到趋于稳定的变化规律。从断奶后1d始与断奶后0d不同；断奶后3和5d变化幅度最大，偏离其余的各个时间点样品；断奶后7d代谢谱的空间位点开始逐渐向断奶后1d靠拢，断奶后30d代谢谱的空间位点已靠近于断奶后1d，距断奶后0d的位置较近。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/fac754ee18f4825f535fc298331f730f76d149f5a0598153a1536b78d03694ae.jpg",
+        "img_caption": [
+            "图3 断奶仔猪氨基酸代谢模式平均值随时间变化的PCA2D-轨迹图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a60842adeff6347a3f73f69db5194aa1fe5e395395bc072d76a857aaedfd6933.jpg",
+        "img_caption": [
+            "Fig. 3Corresponding PCA 2D-trajectory of AA means at different time points by a metabolic ",
+            "图4断奶仔猪氨基酸代谢模式平均值随时间变化的PCA3D轨迹图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Corresponding PCA 3D-trajectory of AA means at different time points by a metabolic ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "profiling approach in weaned piglets ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4 偏最小二乘法判别分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PLS-DA是基于PCA模型的一种有监督的分析方法，用于建立类别间的数学模型，使各类样品间达到最大的分离，并利用建立的多参数模型对未知的样本进行预测。在本试验中，为了进一步研究早期断奶对仔猪血浆氨基酸代谢谱的影响，采用PLS-DA方法对断奶后不同时间点血浆样本重新建模，以找到伴随模型贡献较大的氨基酸，有利于从氨基酸代谢物角度就断奶应激对仔猪蛋白质和氨基酸代谢影响机制做深入的理解。PLS-DA模型中变量投影重要性（variable importance in the project，VIP）值能够反映 X变量和Y之间的相关性，用来选择重要的代谢物。通常VIP值大于1与Y之间有较好的相关性。图5显示，在氨基酸代谢谱 PLS-DA 模型中，谷氨酸 $^ +$ 谷氨酰胺、甘氨酸、丙氨酸、脯氨酸、赖氨酸和苏氨酸的VIP值大于1，即为较重要的氨基酸，其中谷氨酸的VIP 值最大，为1.74。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6da621c93ba0c82f1c6539432e0b42d28d78f02f5aeabdacbfd1e4d452e944f.jpg",
+        "img_caption": [
+            "图5各氨基酸的变量投影重要性",
+            "Fig. 5The VIP value of each amino acid in PLS-DA project "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5 正交偏最小方差判别分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "正交偏最小方差得分图从另一角度反应了PLS-DA模型中的重要变量，离原点越远的变量，其重要性越大。从图6可发现，可见谷氨酸 $+$ 谷氨酰胺、甘氨酸、丙氨酸、脯氨酸与赖氨酸位于离远点的较远处。与VIP值排序图的结果相符合。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6f9849ff0c16922abf077a9a409766f1674628b469c6b3d6dcd538f828b5c5f.jpg",
+        "img_caption": [
+            "图6正交偏最小方差得分图",
+            "Fig. 6Orthogonal partial least square score plot "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "氨基酸是构成蛋白质的基本组分，也是生命活动中的一类重要物质，在体内通过一系列生化代谢途径转化为糖类或者脂类，并合成多种重要的生物活性物质，如激素、酶、核酸、多胺及神经递质等。正常机体内游离氨基酸水平是相对稳定的，体内不能合成的必需氨基酸主要从食物摄入，而体内可以合成的非必需氨基酸由合成、释放、利用等因素调节[7]。氨基酸的失衡通常会导致机体正常生长代谢受阻，甚至引起病理学改变。构成哺乳动物有机体的氨基酸有 20 多种，形成一个系统的氨基酸代谢库。氨基酸代谢库是由外源性氨基酸和内源性氨基酸组成，分别为由胃肠道消化吸收的氨基酸与体内蛋白质降解或重新合成的氨基酸，参与体内多种代谢。以游离氨基酸总量计算，肌肉中氨基酸占氨基酸代谢库的 $5 0 \\% \\sim 8 0 \\%$ 肝脏占 $10 \\%$ ，肾脏约占 $4 \\%$ ，血液约占 $1 \\% \\sim 6 \\%$ 。虽然血液中氨基酸含量不高，但代谢速度快，对氨基酸池中各种氨基酸运输和交换起着重要作用，其含量在正常情况下可保持恒定水平。血浆氨基酸含量不仅受生长阶段、饲粮（食谱）及环境因素的影响，同时也受蛋白质的消化、吸收、合成与分解，糖原异生与氧化分解，氨基酸转运等多种因素的影响，但通过一定的代谢调节机制，使其含量保持相对恒定，构成一定比例，简称为氨基酸谱。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "尽管氨基酸组成通常保持相对恒定，血浆、乳汁等生理体液的氨基酸含量在不同的阶段可发生相应的动态变化。Flynn 等[4发现，哺乳仔猪从出生后3d到14d血浆精氨酸及其直接前体物质瓜氨酸和鸟氨酸含量逐渐下降；谷氨酰胺含量在出生后7d内连续下降；与出生后1和3d比较，出生后14 和21d支链氨基酸、缬氨酸和丙氨酸明显降低。在哺乳期的1至21d内，猪乳汁中游离谷氨酰胺含量由 $0 . 1 \\ \\mathrm { m m o l / L }$ 增加到4mmol/L[8]，与之对应的是哺乳母猪肌肉内谷氨酰胺含量下降了 $5 0 \\%$ 以上[9]。本试验对仔猪早期断奶后血浆氨基酸动态变化进行了系统的研究，结果发现21日龄断奶仔猪在断奶后 $3 { \\sim } 7$ d氨基酸含量与断奶后0d相比较，变化幅度较大，大部分氨基酸含量呈下降的趋势；从断奶后 $1 0 { \\sim } 3 0$ d开始，血浆中游离氨基酸含量开始维持相对稳定且较高的水平。血浆总氨基酸含量在断奶后5d最低，分别为断奶后0d的 $7 3 . 6 1 \\%$ 和断奶后 $3 0 \\mathrm { d }$ 的 $8 6 . 1 6 \\%$ 。断奶通常伴随着仔猪生存环境、食物类型与摄入模式的剧烈变化[10]，断奶后仔猪摄取富含氮化合物的全价配合饲料，而易于消化吸收的脂肪、蛋白质和碳水化合物含量较少，基本无游离氨基酸[1-12]。食物结构的变化导致仔猪断奶后肠道结构发生较大变化，采食量、营养物质的消化吸收能力急剧下降[13]。Pié 等[14研究发现仔猪在断奶后的 $2 4 \\mathrm { ~ h ~ }$ 内仅采食 11 g饲粮；近端小肠的绒毛周长在断奶后 $2 4 \\mathrm { ~ h ~ }$ 下降了 $2 9 \\%$ ，在随后的8d内无显著变化；中端和远端小肠的绒毛周长在断奶后1d和2d均显著性地降低了 $\\sim 1 6 \\%$ ；近端小肠蔗糖酶活力在断奶后1d下降了 $8 5 \\%$ ,远端小肠蔗糖酶活力在断奶后2d与断奶后1d比较，下降了 $30 \\%$ ：小肠白细胞介素-1β（ $I L { \\cdot } 1 \\beta )$ ）、白细胞介素-6（IL-6）和肿瘤坏死因子-β（TNF-β）mRNA水平升高。这反映了仔猪断奶后从小肠中吸收的氨基酸含量迅速减少，从而进入血液中的氨基酸含量降低，在一定程度上解释了断奶后 $3 { \\sim } 7$ d 氨基酸含量降低的原因。随着断奶后时间的延长，仔猪适应了新的生长环境和固态饲粮，同时其胃肠道进一步发育，消化酶活力增高，在断奶后2个星期，肠道消化酶活力恢复到断奶前的水平[15-16]。在本研究中，自断奶后10d始，仔猪血浆氨基酸含量逐渐恢复到正常水平，原因可能是仔猪胃肠道功能恢复，消化吸收饲粮营养物质的能力增强，经过肠道上皮细胞进入血液的氨基酸含量增多，使得血浆游",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "谷氨酰胺对机体蛋白质合成与降解、胞外基质合成、糖原生成、脂质代谢、细胞增殖与调亡、氧化还原潜能、呼吸爆发、胰岛素分泌和抵抗等生理活动均有直接或者间接的影响[7.17]。本试验发现，断奶后仔猪血浆谷氨酸和谷氨酰胺含量表现为下降 $$ 上升 $$ 下降 $$ 上升趋势。断奶后1d仔猪血浆谷氨酸和谷氨酰胺含量显著降低，比断奶后0d下降了 $1 7 . 5 0 \\%$ 。谷氨酰胺是母猪乳中含量最丰富的游离氨基酸[8]，在断奶后，仔猪无乳汁的摄入，同时在断奶后1d体内肌肉等组织分解产生谷氨酰胺作用较弱，因此出现血浆中谷氨酰胺含量下降现象。断奶后 $3 { \\sim } 5 \\mathrm { d }$ ，由于连续较长时间的低采食量和低消化吸收率，外界摄入的氨基酸含量降低，仔猪体内肌肉蛋白质加速分解以满足机体对氨基酸代谢的需要，因此大量谷氨酰胺和丙氨酸释放进入血液中[18]，使得断奶后3和5d血浆谷氨酸和谷氨酰胺总含量分别比断奶当天上升了 $2 3 . 4 2 \\%$ 和 $2 0 . 9 0 \\%$ ，丙氨酸含量也有了不同程度的升高。从营养学角度来讲，肌肉蛋白质分解加速，必须氨基酸在肌肉中的利用率下降[18]，所以断奶后3～5d，赖氨酸含量也相应地降低。断奶后 $7 \\mathord { \\sim } 1 0 \\mathrm { d }$ ，谷氨酸和谷氨酰胺含量开始下降，在断奶后10d其含量与断奶当天比较下降了 $2 3 . 3 4 \\%$ 。可能是由于肌肉中谷氨酰胺已大量消耗，而仔猪消化吸收而来的谷氨酰胺仍然较少，导致血浆谷氨酸和谷氨酰胺含量降低。断奶14d后，仔猪的肠道结构发育得到了较大的完善，消化吸收能力增强[16]，从肠道吸收大量的氨基酸，保证了氨基酸池中各氨基酸的平衡。所以在断奶后 $1 5 { \\sim } 3 0 \\mathrm { d }$ ，谷氨酸和谷氨酰胺总含量上升至较高水平，为断奶当天的 $1 . 1 2 { \\sim } 1 . 1 9$ 倍。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "仔猪在早期断奶后血浆氨基酸代谢谱处于动态变化中，总氨基酸含量在断奶当天显著高于断奶后各时间段总氨基酸含量，在断奶后 $1 \\sim 5 \\mathrm { d }$ ，总氨基酸含量逐渐降低，断奶后7d起升高并至断奶后30d无显著变化。主成分分析得分图显示，随着断奶后时间的延长，血浆氨基酸代谢谱先远离断奶后0d的代谢谱，然后逐渐向断奶后0d代谢谱位置靠拢，并趋于稳定，其中断后 $3 { \\sim } 5$ d血浆氨基酸代谢谱变化幅度最大。谷氨酸为在本偏最小二乘法判别分析模型中区分仔猪在NRC（1998）饲养标准下断奶后各时间点血浆代谢谱最重要的氨基酸。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1] XIAO Y P,WU T X,HONG Q H,et al.Response to weaning and dietary $L$ -glutamine supplementation:metabolomicanalysisinpigletsbygaschromatography/mass spectrometry[J].Journal of Zhejiang University Science B,2012,13(7):567-578.   \n[2] GROMSKI P S,MUHAMADALI H,ELLIS D I,et al.A tutorial review:metabolomics and partial least squares-discriminant analysis-a marriage of convenience or a shotgun wedding[J].Analytical Chimica Acta,2015,879:10-23.   \n[3] XIAO Y P,WU T X,SUN J M,et al.Response to dietary $L$ -glutamine supplementation in weaned piglets:a serum metabolomic comparison and hepatic metabolic regulation analysis[J].Journal of Animal Science,2012,90(12):4421-4430.   \n[4] FLYNN N E,KNABE D A,MALLICK B K,et al.Postnatal changes of plasma amino acids in suckling pigs[J].Journal of Animal Science,2000,78(9):2369-2375.   \n[5] KONG X F,Yin Y L,He Q H,et al.Dietary supplementation with Chinese herbal powder enhances ileal digestibilities and serum concentrations of amino acids in young pigs[J].Amino Acids,2009,37(4):573-582.   \n[6] TRYGG J,HOLMES E,LUNDSTEDT T.Chemometrics in metabonomics[J].Journal of Proteome Research,2007,6(2):469-479.   \n[7] WU G Y.Amino acids:metabolism,functions,and nutrition[J].Amino Acids,20o9,37(1):1-17.   \n[8] WU G,KNABE D A.Free and protein-bound amino acids in sow's colostrum and milk[J].The Journal of Nutrition,1994,124(3):415-424. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[9] CLOWES E J,AHERNE F X,BARACOS V E.Skeletal muscle protein mobilization during the progressionoflactation[J].AmericanJournal JournalofPhysiologyEndocrinology and Metabolism,2004,288(3):E564-E572. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[10] DIVIDICH J L,SEVE B.Effects of underfeeding during the weaning period on growth,metabolism,andhormonaladjustmentsinthepiglet[J].DomesticAnimal Endocrinol0gy,2000,19(2):63-74.   \n[11] GU X,LI D.Fat nutrition and metabolism in piglets:a review[J].Animal Feed Science and Technol0gy,2003,109(1/2/3/4):151-170.   \n[12] PETROVIC V,NOVOTNY J,HISIRA V,et al.The impact of suckling and post-weaning period on blood chemistry of piglets[J].Acta Veterinaria Brno,2009,78(3):365-371.   \n[13] GU X,LI D,SHE R.Efect of weaning on small intestinal structure and function in the piglet[J].Archives of Animal Nutrition,2002,56(4):275-286.   \n[14] PIE S,LALLES J P,BLAZY F,et al. Weaning is asociated with an upregulation of expression ofinflammatorycytokinesintheintestineofpiglets[J].TheJournal of Nutrition,2004,134(3):641-647.   \n[15] MONTAGNE L,BOUDRY G,FAVIER C,et al.Main intestinal markers associated with the changes in gut architecture and function in piglets after weaning[J].British Journal of Nutrition,2007,97(1):45-57.   \n[16] BARSZCZ M,SKOMIAL J.The development of the small intestine of piglets-chosen aspects[J].Journal of Animal and Feed Sciences,2011,20(1):3-15.   \n[17] JEWELL J L,KIM Y C,RUSSWLL R C,et al.Differential regulation of mTORC1 by leucine and glutamine[J].Science,2015,347(6218):194-198   \n[18]GUAY F,TROTTIER N L.Muscle growth and plasma concentrations of amino ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "acids,insulin-like growth factor- I ,and insulin in growing pigs fed reduced-protein diets[J].Journal of Animal Science,2006,84(11):301O-3019. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The time-course of plasma amino acid (AA) following response to early weaning was investigated over a 3O d period in weaned piglets using AA analyzer. Eight 21-day-old “DurocxLandracexLarge Yorkshire” weaned piglets were selected and their blood samples were collected on days 0,1,3,5,7,10,15,and 30 post-weaning. The results showed as folows: plasma contents of arginine and its immediate precursors (citrulline and ornithine） decreased $( P { < } 0 . 0 5 )$ （20 from days O to 5 post-weaning,and increased from days 7 to 30 post-weaning. Plasma contents of leucine,proline,tyrosine and taurine decreased $( P { < } 0 . 0 5 )$ on days 1 and 3 post-weaning,and increased to the level of day O post-weaning on day 30. Plasma contents of isoleucine,lysine, glycine and serine were lowest on day 5 post-weaning; plasma contents of histidine, phenylalanine, valine，aspartic acid,cysteine were lowest on day 1O post-weaning，which then increased thereafter. Plasma content of glutamic acid was relatively higher $( P { < } 0 . 0 5 )$ from days 3 to 5,and days 15 to 3O than that on days O and 1 post-weaning. Total AA content was relatively higher （号 $( P { < } 0 . 0 5 )$ on day O than those from days 1 to 3O post-weaning,and it decreased from days 1 to 5, then increased on day 7 and keep constant thereafter. In score plot of principal component analysis, the profiles of AA were gradually away from the profile of AA on day O post-weaning, and then were closed to that,and tended to be stable. On days 3 and 5 post-weaning,the profiles of AA were robustly altered. The pattern of partial least-square discriminant analysis demonstrated that glutamic acid played the most important role in differentiating the profiles of AA at different time points post-weaning. It is concluded that early weaning changed the metabolism of protein and amino acid in the body of piglets, especially on days 3 and 5 post-weaning. Key words: piglets; early weaning; plasma; amino acid; metabolic profiles ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

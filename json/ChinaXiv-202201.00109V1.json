@@ -1,0 +1,504 @@
+[
+    {
+        "type": "text",
+        "text": "塔里木河下游河段耗水特征与输水方式演变研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周龙¹²，杨鹏年¹²，王永鹏¹²，艾力西尔·库尔班³，王光焰4(1.新疆农业大学水利与土木工程学院,新疆乌鲁木齐830052；2.新疆水利工程安全与水灾害防治重点实验室,新疆 乌鲁木齐830052；3.中国科学院新疆生态与地理研究所,新疆 乌鲁木齐830011;4.新疆塔里木河流域干流管理局,新疆 库尔勒841000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：采用水量平衡法、实地勘查和遥感影像数据相结合的方式,阐述了生态输水后河道输水方式变化对河床渗透性能演变、不同输水方式下水环境响应特征;分析了输水后塔里木河下游河道的耗水率和河床透水性规律以及生态闸后近自然漫溢下的MNDWI变化特征。结果表明：(1)持续输水河道的波涌灌效应会增强,减少对地下水补给量;(2）以库木吐格为代表的生态闸后的随机化输水,缺乏合理调控，形成了常流水河段，导致部分区域地下水位过高,潜水蒸发量增加；（3）以博孜库勒为代表的近自然方式下的沟汉漫溢对该区域地下水位及植被恢复起到了重要作用,但随着输水沟汊的固化与积水面的形成,出现由旱区植被向以芦苇为代表的湿地植被景观演化的现象，导致水面蒸发量增加;(4）缺乏调控下的生态闸与近自然方式下输水均产生了一定面积的水域和湿地植被。对地处干旱的塔里木河流域来说，应遵循河流伦理的要求,通过人工干预下的调控输水,采用汉河轮渗与漫溢相结合的输水方式,不仅可提高下泄水量的利用效率,进一步扩大生态修复区域，而且可实现对不同恢复目标区水量耗散的调控，达到植被恢复面积的最大化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：汊河输水；植被耗水；生态闸调控；塔里木河下游 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "塔里木河水系长期以来具有不可替代的生态服务功能，维系着整个塔里木盆地自然和人工生态系统的水资源保障[1]。受人类活动影响，截止2000年时，塔里木河下游(以下简称\"塔河\")河道断流近30a，下游生态环境恶化，胡杨林及灌木林大量死亡、荒漠化加剧[2]。为挽救下游生态环境，国务院于2000年批复《塔里木河流域综合治理工程》，其目的是通过生态输水抬升地下水位恢复该流域天然植被，进而促进下游生态环境的修复和重建。截至2020年12月底，已连续向塔河下游进行了21次生态输水，累计输水 $8 4 . 4 5 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ,年均下泄水量 $4 . 2 2 \\times$ $1 0 ^ { 8 } \\mathrm m ^ { 3 }$ ,超过预期 $3 . 5 0 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 输水目标，重现了下游尾闾生态环境[3-5],产生了一定的环境与社会效应。从生态输水情况来看，2000—2020年下泄水量变化不一，最大输水量为2017年 $1 2 . 1 5 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，最小为2014年，仅为 $0 . 0 7 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ,2008年则无水下泄。由于上游气候变化下各源流出山口径流量以及节水农业、滴灌等高效节水灌溉方法的实施影响着下游来水量的丰枯变化[6-7],使得各年度输水量的变化较大，地下水位波动明显，塑造了下游特定的水文生态环境。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在塔河下游多年间歇性输水过程中，众多学者对其生态输水特征和生态价值进行了分析研究。邓铭江等8分析了对塔里木河下游生态输水方式的转变对下游天然植被的响应和恢复情况。王珊珊等基于时间轨迹的方法，研究生态输水后塔河下游土地利用覆被变化，主要发生在河道两岸的河水漫溢区;邹珊等[\"]分析了塔河下游区域地表永久水体呈现增加趋势，下游输水量直接影响着季节性水体面积及地表永久水体面积。作为生态修复典型研究区,很多学者针对生态修复效应[1]、生态风险[12]、生态输水策略[13]等方面进行了整体研究分析，但在不同输水方式下缺乏对输水效率、漫溢控制及生态调控方面的研究有待于进一步深化。基于此，本文结合下游生态输水资料及Landsat系列数据，利用MNDVI水体变化过程和漫溢分布，分析生态输水后生态闸控制输水与近自然漫溢输水的生态环境变化及演变规律，为生态输水的效益评估提供研究基础，为下一阶段生态输水及生态修复提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况及资料整备",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "塔里木河干流大致可分为上、中、下游3段。研究区位于塔里木河下游，海拔在 $8 0 1 . 5 { \\sim } 8 4 6 . 2 \\ \\mathrm { m }$ 之间，以大西海子水库为起点，末端是阿拉干；自大西海子水库以下分为两支，南侧一支是老塔里木河（简称\"老塔河”),北侧一支为其文阔尔河(简称\"其河\")，两河呈大致平行状并在阿拉干处交汇，形成了沟塘相连的河岸带漫溢区(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区地处塔克拉玛干沙漠与库姆塔格沙漠之间，降水稀少，年均降水量在 $1 7 . 0 { \\sim } 4 2 . 0 ~ \\mathrm { m m }$ 之间；年均蒸发量高达 $2 5 0 0 { \\sim } 3 0 0 0 \\mathrm { m m }$ ,属于典型的温带大陆性暖温带荒漠干旱气候，是我国最干旱的地区之一。塔河下游属冲积细土平原,主要为河湖相细砂和粉细砂以及风沙土，水文地质结构简单，含水层具有多层结构，按其埋藏条件可分为潜水含水层和层间无压含水层，上部潜水地下水与河流联系密切，存在相互补给的关系，受下部粉土夹层的阻水作用，潜水与下部层间无压水水力联系较弱。其中，其文阔尔河的河床相主要是由早期孔雀河冲刷带来的细颗粒组成的，地层岩性主要以粉土为主，夹有薄层粉砂，河床较稳定；老塔里木河位于其河以南的塔克拉玛干沙漠边缘，在沙漠北扩与河流的相互作用下，河床多由风沙土等冲积物组成，河床易冲刷改道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2资料整备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1生态输水量及地下水监测数据研究中所采用的水文断面流量与地下水埋深数据均由塔里木河流域管理局提供(表1）。包括：（1）2000—2020年生态输水量；(2）2001—2017年大西海子、英苏、阿拉干、依干不及麻、台特玛湖地表水监测断面数据；(3）2001—2020年英苏、喀尔达依、博孜库勒及阿拉干逐月地下水埋深数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2影像数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "获取的LandsatTM、ETM $+$ 和OLI遥感影像，来源于美国地质调查局(USGS)官方网站(http://glovis.usgs.gov)下载的2001—2020年遥感影像。覆盖本文研究区域的影像有1景，总计影像为19张，其中Landsat5TM为7张、Landsat $7 ~ \\mathrm { E T M + }$ 为6张、Land-",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "10.00000.00 87°50'0\"E 87°55'0\"E 40.0000 4.0.0000 9.0.0-0  \n87°30'0\"E 88°0'0\"E库木吐格  \n三十四团  \n20.000 木 大西海丹永库 阿克东生态闸 昆阿斯特生态闸 其文阔尔河 10.0000 库木吐格生态闸买买提托赫提生态闸老塔里木河 妹 萨吐尔生态闸 10.8800 0 2.5 km  \n图例  \n生态闸 X  \nN.0.00 地下水监测断面 N.0.000% 00 87°5000\"E 875510150WE 44.4040 4.0.0-0010.40  \n水文监测断面  \n其河、老塔河  \n三十四团 依干布及麻 博孜库勒  \n台特玛湖  \n水体 库尔干生态闸 地下水监测断面  \n3.0.0030 《 大海子 台特玛湖 库尔干 3.0.303M  \n0 20km0 5kmL  \n87°30'0\"E 88°0'0\"E88°0'0\"E 88°15'0\"E",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e6a88e1e046b9039ef9ff04080a980bf47712c9b16091469d8362e616a69b71.jpg",
+        "table_caption": [
+            "表1塔里木河下游生态输水情况",
+            "Tab.1 Ecological water transport in the lower reaches of the Tarim River "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>输水方式</td><td>输水时间</td><td>输水量/10m</td><td>水头到达</td></tr><tr><td>第一次输水</td><td>单河道输水</td><td>2000年5—7月</td><td>9923</td><td>喀尔达依</td></tr><tr><td>第二次输水</td><td>单河道输水</td><td>2000年11月—2001年2月</td><td>22655</td><td>阿拉干</td></tr><tr><td>第三次第一阶段</td><td>双河道输水</td><td>2001年4—7月</td><td>18433</td><td>依干布及麻</td></tr><tr><td>第三次第二阶段</td><td>双河道输水</td><td>2001年9—11月</td><td>19790</td><td>台特玛湖</td></tr><tr><td>第四次输水</td><td>双河道输水</td><td>2002年7—11月</td><td>33129</td><td>台特玛湖</td></tr><tr><td>第五次第一阶段</td><td>单河道输水</td><td>2003年3—7月</td><td>34028</td><td>台特玛湖</td></tr><tr><td>第五次第二阶段</td><td>双河道输水</td><td>2003年8—11月</td><td>27997</td><td>台特玛湖</td></tr><tr><td>第六次输水</td><td>单河道输水</td><td>2004年4—6月</td><td>10527</td><td>台特玛湖</td></tr><tr><td>第七次第一阶段</td><td>单河道输水</td><td>2005年4—6月</td><td>5236</td><td>阿拉干</td></tr><tr><td>第七次第二阶段</td><td>单河道输水</td><td>2005年8—11月</td><td>22997</td><td>台特玛湖</td></tr><tr><td>第八次输水</td><td>双河道、生态闸输水</td><td>2006年9—11月</td><td>20098</td><td>库尔干</td></tr><tr><td>第九次输水</td><td>单河道、生态闸输水</td><td>2007年9—10月</td><td>1411</td><td>喀尔达依</td></tr><tr><td>第十次输水</td><td>单河道、生态闸输水</td><td>2009年11—12月</td><td>1027</td><td>喀尔达依</td></tr><tr><td>第十一次输水</td><td>单河道、生态闸输水</td><td>2010年6—11月</td><td>38952</td><td>台特玛湖</td></tr><tr><td>第十二次输水</td><td>双河道、生态闸及汊河输水</td><td>2011年4—11月</td><td>85211</td><td>台特玛湖</td></tr><tr><td>第十三次输水</td><td>双河道、生态闸及汉河输水</td><td>2012年4—11月</td><td>66716</td><td>台特玛湖</td></tr><tr><td>第十四次输水</td><td>双河道、生态闸及汊河输水</td><td>2013年4—10月</td><td>48800</td><td>台特玛湖</td></tr><tr><td>十五次输水</td><td>双河道、生态闸及汊河输水</td><td>2014年6月</td><td>727</td><td>大西海子以下172 km</td></tr><tr><td>十六次输水</td><td>双河道、生态闸及汊河输水</td><td>2015年8—11月</td><td>46128</td><td>台特玛湖</td></tr><tr><td>十七次输水</td><td>双河道、生态闸及汉河输水</td><td>2016年8—10月</td><td>67611</td><td>台特玛湖</td></tr><tr><td>十八次输水</td><td>双河道、生态闸及汊河输水</td><td>2017年4月—2018年1月</td><td>121461</td><td>台特玛湖</td></tr><tr><td>十九次输水</td><td>双河道、生态闸及汊河输水</td><td>2018年4—11月</td><td>70006</td><td>台特玛湖</td></tr><tr><td>二十次输水</td><td>双河道、生态闸及汊河输水</td><td>2019年8—12月</td><td>46482</td><td>台特玛湖</td></tr><tr><td>二十一次输水</td><td>双河道、生态闸及汊河输水</td><td>2020年9—11月</td><td>27934</td><td>台特玛湖</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "sat8OIL为6张，时间分别2001月10月15日、2002年10月18日、2003年6月7日、2004年10月31日、2005年10月2日、2006年11月6日、2007年10月16、2009年12月24日、2010年10月16日、2011年10月15日、2012年10月29日、2013年10月24日、2014年7月15日、2015年10月22日、2016年10月16日、2017年10月27日、2018年10月27日、2019年10月25日、2020年9月25日。其中，Landsat7影像存在条带，通过ENVI5.3去除条带，且对每期的遥感影像数据进行辐射定标，大气校正。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于塔河下游河道监测数据分析与实地调查，明确了单位河长耗水率指标及其不同输水方式下的耗水率，并以此为基础，深入分析了河道的耗水特征与河床透水性的内在演变规律，为下游河道水流演进及输水策略的优化提供了数据参考。同时，本研究还利用遥感影像技术解译其河生态闸输水、老塔河自然漫溢下水体的空间分布，并结合输水资料与地下水埋深数据，阐明了不同分水方式下的输水特征与影响因素，为下游生态系统的保护和科学管理奠定了理论基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1单位河长耗水率及流量损失率分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "河流在沿途中的水量损失，通过蒸发以及渗流的方式补给土壤水、地下水。流量的沿程损失即为河道的耗水过程，河道耗水量受河道过流量、河道几何形状、河床土壤岩性及周边植被生长状况等因素。利用布设至河道各监测断面的数据分析，基于水量平衡原理，分析不同河段的耗水率特征。故用以下关系式表达：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\mathrm { ~ } W = \\mathbb { W } _ { 1 } - \\mathbb { W } _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk = \\Delta \\ W / S\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta = k / L\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\textstyle \\left. W _ { 1 } \\right.$ 为河道上断面的来水量; $\\textstyle \\ W _ { _ 2 }$ 为河道下断面的流出量； $\\Delta \\mathcal { W }$ 为监测断面间的区间耗水量；S为监测断面的区间来水量； $L$ 为两断面间的河道长度； $k$ 为区间耗水率； $\\eta$ 为单位河长耗水率。此外,将公式中的 $W$ 设为断面流量，则可依据上述公式计算得到单位河长的流量损失率（8）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2地表水体提取 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究区范围内的遥感影像，解译出的水体指数（NDWI)，受生长在水面附近的植被信息影响较大，特征不明显。因此，在水体提取中，采用改进归一化差异水体指数（MNDWI），利用水体在不同波段上与其他地物之间的光谱差异来进行水体提取[14],减小分类的误差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算公式如下所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { M N D W I } = ( \\rho _ { \\mathrm { - c r e e n } } - \\rho _ { \\mathrm { - s w I R } ) } / ( \\rho _ { \\mathrm { - G r e e n } } + \\rho _ { \\mathrm { - s w I R } } )$ (4)式中： $\\rho _ { - \\mathrm { G r e e n } }$ 绿光波段 $( 0 . 5 2 { \\sim } 0 . 6 0 ~ \\mu \\mathrm { m }$ )和 $\\rho _ { \\mathrm { - s w I R } }$ 短波红外波段 $( 1 . 5 5 { \\sim } 1 . 7 5 ~ \\mu \\mathrm { m }$ )。像素值范围-1\\~1,在0\\~1之间说明该像素可以被作为水体[15]。通过得到研究区域水体面积，运用统计软件对输水数据、水体面积以及地下水埋深数据统计分析并进行Pear-son相关性分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1生态输水历程与河床渗透性演变规律 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.1生态输水历程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）下游生态输水根据上游来水情况分为2个时间段：第一阶段为应急输水阶段。2000一2004年利用开都河水量连续偏丰、博斯腾湖水位持续上升的时机，通过孔雀河向下游实施生态应急性输水4次，起到了疏通其文阔尔河和老塔里木河的作用，水流最终汇入了台特玛湖。第二阶段为常态化输水阶段，2006—2010年开都河进入平、枯水年，博斯腾湖水位下降，生态调水减少；2010一2020年塔河干游来水充沛，输往下游水量增多，逐渐形成以干流生态输水为主的常态化输水。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）根据表1可知，塔里木河下游主要依靠塔里木河干流输水，占总输水量的 $8 4 . 2 \\%$ ,博斯腾湖输水占总输水量 $1 5 . 8 \\%$ 。经由大西海子水库泄水，通过人为调控输水时间、流量及配水方式，以提高水资源利用效率。受上游地表来水不稳定影响，2008年无水下泄，2009年、2014年输水量较低，输水时间受上游影响较大，下游河道过水时间主要集中在每年4—6月、8—11月[16],间歇性特征显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）塔河下游生态输水，采用的输水方式： $\\textcircled{1}$ 单河道输水：利用其河或老塔河输水至台特玛湖;$\\textcircled{2}$ 双河道输水：上游来水经过大西海子水库调蓄，通过其河和老塔河下游输水至台特玛湖; $\\textcircled{3}$ 汊河输水：在主河道输水过程中，利用河道两岸自然汊河，流入至两岸的较远处，扩大植被受水范围； $\\textcircled{4}$ 局部面状漫溢：主要是通过修建生态闸及节制闸，进一步延伸输水河道的漫溢范围，人为调控区间内水量消耗，扩大植被修复范围；通过雍高水位，增强地下水的侧向补给，抬升地下水位，改善两岸植被长势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "塔里木河下游形成了以双河道输水、汊河及面状输水相结合的常态化输水。生态闸是塔河下游水资源调配途径,其目的是向河道外的生态区输水，维持区域内天然植被的生长、扩大生态修复范围及提高水资源利用效率；面状输水以自然漫溢的方式，主要由于输水流量过大超过河道过流能力，沿河道两岸向外扩散漫溢；其次通过输水河道下沟汊将水输送至地势较低区域，扩大输水影响范围。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.2河床渗透性能演变规律分析通过对前17次输水各河段的区间耗水率(k)和单位河长耗水率$( \\eta )$ 的分析表明(图2、图3)：（1）从沿程分布来看，扣除漫溢分流影响，各次输水区间损失率沿程基本呈逐段增加趋势，越往下游，河段过水次数与过水流量递减，河道水量耗散程度也越大。（2）从逐次输水情况看，随着输水次数的增加，各区间单位河长耗水率 $( \\eta )$ 均呈逐次降低的趋势。表明河岸带土壤水和地下水逐渐得到恢复，相应水量损失率亦逐次减小并趋于稳定。(3）结合输水方式与河段区间耗水、单位河长耗水率等说明，在线状输水情况下，地下水很快进入顶托渗流状态， $\\eta$ 值迅速衰减。输水实践表明，水流到达台特玛湖的时间逐渐缩短，若不进行分流，将会有过多的水进入湖泊，产生大量低效的水面蒸发损失。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在间歇性输水的条件下，河水入渗机理类似于波涌式灌[17-18],前期输水会在河床表面形成由粉粒构成的致密土层，尽管这层土很薄(常小于 $1 \\mathrm { c m } .$ ），但却有较强的阻水作用，显著减少了河水入渗，同时增加了水头行进速度。这也是目前塔河下游输水中，水头到达台特玛湖所需时间缩短的主要原因。连续输水会降低单位河长耗水率,减缓了对地下水补给。利用沿河生态闸与沟汊的组合输水方",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "·大西海子-英苏·英苏-阿拉干·老塔里木河·阿拉干-依干布及麻·依干布及麻-台特玛湖100%/ 860 LudduddLudt4200不 好 好 水 份 段 好 价 水 不彩 一次输水 顺 第三次第- 二次输 第三次 冷 第 第四次车 S 第五次第- 湘 第五次 诊 顺 S 晚 第七次第- 饮 第七次 S 顺 際 缘 晚 保 顺 ? X 五次 新 × X 七次",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5eedf9051698bb53f135b2a2f15c0fdbd4fd1e98877472f68d9f4b903f46e870.jpg",
+        "img_caption": [
+            "图2各河段区间耗水率（）",
+            "Fig.2 Water consumption rate $( k )$ in each section of the river ",
+            "图3历次输水各河段单位河长耗水率变化",
+            "Fig.3 Changes in water consumption rate per unit river length for each section of water delivery "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式便成为合理的选择。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2生态闸后沟汊的控制输水",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其河目前共设置了6座生态闸，通过生态闸后分水形成漫溢区，补给地下水。由于生态闸进水口的调节功能有限，闸后的分水量主要受主河道水位的制约，闸后进水量不受控制和监测，形成了近乎随机化的输水方式。本文以库木吐格生态闸为例，通过解译2000—2020年水体(MNDWI)面积变化，建立了生态输水量最大年份(2017年)水体面积与流量之间关系的变化说明生态闸下半随机化输水特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "库木吐格生态闸后地表水体与植被在漫溢区内呈现出位置互换的特征(图4、图5)。整体上，水体主要汇集在距生态闸口 $1 0 \\mathrm { k m }$ 以外的下游区域，部分汇水区位于生态闸附近及部分地势低的洼地。2001—2005年，在生态闸未建成前，主要通过河道附近沟汉分水至地势较低区域，处于自然分水的状态;2006年该闸建成;2007—2009年，上游下泄水量减少，闸后未过水；在2010一2020年的连续输水中该闸发挥了作用，闸后逐渐形成固定输水通道，过水区域基本保持不变。结合相关性分析，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2017年逐月库木吐格闸后水体面积与流量(大西海子站下泄)关系为强相关(图6)，相关系数为0.61;当水库下泄流量低于 $1 5 ~ \\mathrm { m ^ { 3 } \\cdot s ^ { - 1 } }$ 左右，生态闸无法过水；随着过水时间增加，水体变化逐渐趋于稳定。库木吐格生态闸后漫溢面积的变化与输水过程密切相关，经历了显著增加（2006年） $$ 降低（2007—2009年） $$ 小幅增加（2010—2014年） $$ 显著增加(2015—2017年） $$ 基本不变(2018年至今)的过程，最终水流汇集地势低洼区域，漫溢后的积水区逐渐固定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其河的生态闸由于其调控功能的缺失，导致闸后分水不受控制，类似于天然汊河的功能，完全受主河道水位的影响。这种生态闸后输水方式对维系河畔植被起到了重要作用，但也逐渐形成了固定的积水区及地下水浅埋区，导致水面蒸发量与潜水蒸发量增加，水资源的利用效率降低。这在极端干旱的下游是有违河流生态伦理的，因此，在特定时期对水量耗散方式的调控是必要的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3近自然方式下的漫溢输水",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "老塔里木河河床多由风沙土等冲积物组成，河床易冲刷改道，故在老塔河上未修建生态闸，水量",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b018879d9629e833828d9402ac170b41de7f943d8c5af0cfcd60bc35102907cc.jpg",
+        "img_caption": [
+            "图4库木吐格生态闸后地表水体与其他覆被类型分布变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Changes in the distribution of surface waterbodies and other cover types behind the Kumtuge ecological gate消耗仍以自然漫溢的方式为主。根据输水资料显示老塔河共输水12次，水量的消耗经河道两侧自然沟汊及洪水漫溢。自然沟汊及洪水漫溢受制于主河道过流量及水位影响，形成近自然方式下的输水。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd9412ed09ba7d43fea5990e50897db78015b7cb40b0f64491176f223b3df9b3.jpg",
+        "img_caption": [
+            "图52001—2020年库木吐格生态闸水体面积变化与生态输水量(a)、生态输水持续时间(b)的关系 Fig.5Relationshipbetweenthechangeof waterbodyareaofthe Kumtugeecologicalgatefrom200lto2O20and theamountof ecological water conveyance (a) and the duration of ecological water conveyance (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以博孜库勒作为典型研究区，通过遥感监测2010—2020年博孜库勒区域水体(MNDWI)变化趋势(图7)。整体上，水体面积主要分布在河道两侧地势较低区域及自然沟汊延伸的地带，其中2011—",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2013年，水面分布范围多集中在河道附近，过水区大体一致;2014年，塔河干流来水量减小，老塔河无水下泄，仅有零散洼地的积水区；2015—2020年，博孜库勒区域在2017年水体面积达到最大 $6 0 . 0 3 \\mathrm { ~ k m } ^ { 2 }$ 最远输水至河道外 $5 \\mathrm { k m }$ 区域，后期输水水面变化基本保持不变。结合输水量数据得到图8,水体面积的增加与输水量相关系数为0.87，与生态放水持续时间的相关系数达0.45;根据监测井数据显示，漫溢面积与地下水埋深的变化(图9)显示，2010—2014",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(s.u)/ 3025 20 下流量 ill 185 12   \n15 9   \n10 6   \n5 3   \n0 0   \n1 2 3 4 5 6789101112   \n月份 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "年是漫溢范围的快速扩张期，地下水整体水位平均抬升 $4 . 5 4 \\mathrm { ~ m ~ }$ ,越靠近河岸处输水响应越明显;2015—2017年，来水量逐年增加，漫溢范围达到最大值，地下水埋深平均上升 $1 . 4 8 \\mathrm { ~ m ~ }$ ,受地形影响漫溢区域逐渐向下游迁移;2018—2019年，水体面积增长速率减缓，后期埋深维持在 $1 { \\sim } 3 \\mathrm { m }$ 。总的来说，近自然方式下漫溢，受生态输水影响较大，漫溢区域逐渐趋于稳定。长期过水使漫溢区下地下水补给速率呈下降趋势，导致洼地积水，无效蒸散增加，生态用水结构不合理。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随着老塔河生态输水量的增加，漫溢区域逐步由原有的自然沟汊漫溢扩大至大流量漫溢，同样呈现出与其河相似的现象，即漫溢区固化与积水面长期存在。水流的随机性与水资源的利用效率在降低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f162a16b8975304e8da322b6df0f6bf5e4579b42f114931ebcd0490eb15ce7f.jpg",
+        "img_caption": [
+            "图62017年库木吐格生态闸逐月水体面积与下泄流量关系",
+            "Fig.6Relationship between the water body area and the discharge flow month to month of the Kumtuge ecological gate in 2017 ",
+            "图7老塔里木河博孜库勒区域地表水体与其他覆被类型分布变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "人为活动导致的水资源空间分配失衡是前期塔里木河下游生态急剧退化的主因[19]。本文利用塔河下游20a来的生态输水数据，分析了河段耗水空间分布特征与输水方式的转变趋势，通过水文监测及水体遥感解译，探讨了不同河段下典型区多年水体变化与输水方式演变关系，一方面体现了输水方式改变带来的地下水位与植被恢复范围的扩大趋势[20]；另一方面揭示了现阶段两河之间水资源耗散方式的演变的阶段性特征。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "塔河下游累计生态输水21次，受上游来水影响及人为因素，形成了独具特色的间歇性输水。经过4种输水方式的实践表明：在间歇性输水的作用下水流对河床底质的自然分选会产生类似“波涌灌效应”21],导致河床透水性的降低。其文阔尔河的细颗粒含量较高，易产生粉土淤积层。即便是其河生态闸后的自然沟，经过长期间歇输水后，“波涌灌效应\"同样存在，表现为淹没区域内水深增加22，河水",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.7Distribution change of surface water and other cover types in the Bozkule region of the old Tarim River与地下水的交换能力逐渐降低。博孜库勒所在的老塔河，河床质地多为粉砂，“波涌灌效应\"较弱，河水与地下水的交换能力保持较好。但长期输水后，随着河岸带地下水调蓄空间的减少，地下水位上升速率加快，潜水蒸发量加大。在2021年1月的实地调查中，下游两河及其文库尔湖等漫溢区内积水成冰的现象较为普遍。此时距输水结束已有61d，地下水位确已恢复到了较高的程度。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e6908ad086e224e3215ce1ebc705146868ff1ba9b95a55fbc99ebc1b75e7104.jpg",
+        "img_caption": [
+            "Fig.8Relationship between water area and waterdelivery volume (a)and water delivery duration (b)in Bozkule regior "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/46e09eedf6127c114b3e5f6b946de5db34e0a34a3f47d7610076e350993548cb.jpg",
+        "img_caption": [
+            "图8博孜库勒区域水体面积与输水量(a)输水持续时间(b)关系",
+            "图9博孜库勒区域水体面积与地下水埋深之间的关系",
+            "Fig.9Relationship between water area and groundwater depth in Bozkule region "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "现有的输水实践表明：随着时间的推移，连续且固定输水对河岸带地下水的补给量逐渐降低，潜水蒸发量不断增加。在后续研究中，应进一步加强对漫溢后形成的湿地、植被响应及生物多样性等方面开展监测，从符合河流生态伦理的角度开展水量耗散方式的研究，以便更好地对塔里木河下游生态输水与植被恢复进行科学的调控与管理",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）截止2020年末，塔河下游共进行21次生态输水，在上游来水影响、输水策略调整的双重作用下以及出于恢复台特玛湖生物多样性考量，输水方式由单河道输水 $$ 双河道输水 $$ 单双河道、生态闸输水 $$ 双河道、生态闸、沟汊输水的转变。塔里木河下游长期生态输水导致河床表面淤积，河水转化为地下水的速率逐渐降低，持续的输水会降低河水的转化效率。输水方式的转变看似是人为的主动调整，实则是河岸带地下水位恢复与河床透水性演变内在规律作用的结果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）其文阔尔河主要以生态闸的方式进行调控，闸后输水影响范围与河道来水过程密切相关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作为其河上主要生态闸之一的库木吐格生态闸，漫溢区域经历了快速扩张一降低一小幅增加一显著增加一基本不变的过程，逐渐形成固定输水通道，且长时间输水下漫溢面积增加趋势变缓，而表现为水深的增加；生态闸后随机化的输水，导致部分区域地下水位过高，潜水蒸发量增加，水资源利用效率降低，因此对河道水量耗散方式的调控研究是必要的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3）现阶段老塔里木河以近自然方式进行汉河输水和漫溢，这与老塔河下游河床底坡比降较大，床质以粉砂为主的特征有关。博孜库勒是老塔河上形成的主要漫溢区之一，随着输水的持续进行，漫溢区逐渐固化，形成以芦苇为主的覆盖度较高植被，尽管这也是河流的自然属性，但过大的水面同样会导致无效的蒸发量加大。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(4）由于输水中存在的“波涌灌效应\"及地下水位上升后产生的顶托作用，使得间歇性输水河道地下水补给量减少、单位河长耗水率降低与无效蒸发增大。因此，适时进行人为干预下的调控输水，通过对不同河段恢复目标与策略的设定，充分利用双河道、沟汊轮渗与定期漫溢的组合方式扩大受水区间，调控地下水位处于合理埋深，提高近自然调控输水方式下水资源利用效率，达到下游植被恢复面积的最大化，以便更好地诠释干旱区河流伦理的内涵。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]樊自立,艾里西尔·库尔班,徐海量,等.塔里木河的变迁与罗布 泊的演化[M].第四纪研究,2009,29(2):232-240.[Fan Zili Alishir Kurban,XuHailiang,etal.Changes of TarimRiverand evolution of Lop NUR[J]. Quaternaru Sciences,2009,29(2): 232-240.]   \n[2]郭宏伟,徐海量,凌红波,等.塔里木河流域人工与天然绿洲转 化过程与适宜比例初探[J].土壤通报，2017,48(3):532-539. [Guo Hongwei,Xu Hailiang,Ling Hongbo,et al.A preliminary study on the transformation process and suitable ratio between artificial and natural oasis in the Tarim River Basin[J]. Soil Bulletin, 2017,48(3): 532-539.]   \n[3]陈亚宁,吾买尔江·吾布力,艾克热木·阿布拉,等.塔里木河下 游近20a输水的生态效益监测分析[J].干旱区地理,2021,44 (3):605-611.[Chen Yaning，Wumaierjiang Wuburi,Ekhermu Abula,et al.Monitoring and analysis of ecological benefits of water conveyance in the lower reaches of Tarim River in recent 20 years[J].Arid Land Geography,2021, 44(3): 605-611.]   \n[4]李丽君,张小清,陈长清,等.近20a塔里木河下游输水对生态 环境的影响[J].干旱区地理,2018,41(2):238-247.[Li Lijun, Zhang Xiaoqing, Chen Changqing,et al. Ecological efects of water conveyance on the lower reachesof Tarim River in recent twenty years[J]. Arid Land Geography,2018,41(2): 238-247.]   \n[5]李玉朋,陈亚宁,叶朝霞,等.塔里木河下游输水20a的生态响 应[J].干旱区地理,2021,44(3): 700-707.[Li Yupeng,Chen Yaning,Ye Zhaoxia,et al.Ecological responses of ecological water conveyance in the lower reaches of Tarim River for 2O years [J]. Arid Land Geography,2021, 44(3): 700-707.]   \n[6]Li W, Huang F,Shi F,et al. Human and climatic drivers of land and water use from 1997 to 2019 in Tarim River basin, China[J]. International Soil and Water Conservation Research,2021,9(4): 532-543.   \n[7]Huang Y,Ma Y,Liu T,et al. Climate change impacts on extreme flows under IPCC RCP Scenarios in the mountainous Kaidu watershed,TarimRiverBsin[J].ustaiability,(5):0   \n[8]邓铭江,杨鹏年,周海鹰,等.塔里木河下游水量转化特征及其 生态输水策略[J].干旱区研究,2017,34(4):717-726.[Deng Mingjiang,Yang Pengnian, Zhou Haiying,et al. Water conversion characteristics and ecological water transportation strategies in the lower reaches of the Tarim River[J].Arid Zone Research,2017,34 (4): 717-726.]   \n[9]王珊珊,王金林,周可法,等.塔里木河下游土地利用/覆被变化 对生态输水的响应[J].水资源保护,2021,37(2):69-74.[Wang Shanshan, Wang Jinlin, Zhou Kefa, et al.The response of land use/ cover change to ecological water transport in the lower reaches of the Tarim River[J].Water Resources Conservation,2021,37(2): 69-74.]   \n[10] 邹珊,吉力力·阿不都外力,黄文静,等.塔里木河下游生态输水 对地表水体面积变化的影响[J].干旱区地理,2021,44(3):681- 690.[Zou Shan,Jilili Abuduwaili, Huang Wenjing,et al.Effects of ecological water transport on surface water area change in the lower reaches of Tarim River[J].Arid Land Geography,2021,44(3): 681-690.]   \n[11] 雍正,赵成义,施枫芝,等.近20a塔里木河干流区地下水埋深 变化特征及其生态效应研究[J].水土保持学报,2020,34(3): 182-189.[Yong Zheng, Zhao Chengyi,Shi Fengzhi, et al. Study on the characteristics of groundwater depth change and its ecological effects in the mainstream of the Tarim River in the past 2O years [J]. Journal of Soil and Water Conservation,2020,34(3):182-189.]   \n[12] 沈海岑,薛联青.基于土地利用变化的塔里木河下游区近20 a 景观生态风险研究[J].中国农村水利水电,2020(11):77-82. [Shen Haicen, Xue Lianqing. Study on landscape ecological risk in the lower reaches of Tarim River in recent 2O years based on land use change[J]. China Rural Water and Hydropower,2020 (11): 77-82.]   \n[13] 邓铭江,周海鹰,徐海量,等.塔里木河下游生态输水与生态调 度研究[J].中国科学(技术科学),2016,46(8):864-876.[Deng Mingjiang,Zhou Haiying,Xu Hailiang,et al. Ecological water transport and ecological regulation in the lower reaches of the Tarim River[J]. Science Sinica (Technologica),2016,46(8): 864- 876.]   \n[14] 苏龙飞,李振轩,高飞,等.遥感影像水体提取研究综述[J].国土 资源遥感,2021,33(1): 9-19.[Su Longfei,Li Zhenxuan,Gao Fei, et al.A review of remote sensing image water extraction[J]. Remote Sensing for Land and Resources 2021,33(1): 9-19.]   \n[15]XuB D,Li J,Park Taejin,et al. Improving leaf area index retrieval over heterogeneous surface mixed with water[J]. Remote Sensing of Environment,2020,240:111700.   \n[16]叶茂,徐海量,任铭.塔里木河下游生态输水的合理时间初探 [J].干旱区研究,2012,29(5):907-912.[Ye Mao,Xu Hailiang, Ren Ming.A preliminary study on the reasonable time of ecological water transportation in the lower reaches of the Tarim River[J]. Arid Zone Research,2012,29(5): 907-912.]   \n[17]丛振涛,周海鹰,雷志栋,等.塔里木河下游输水过程的分析与 模拟[J].水科学进展,2003,14(3):276-279.[Cong Zhentao, Zhou Haiying,Lei Zhidong,et al.Analysis and simulation of water conveyance process in the lower reaches of Tarim River[J].Advances in Water Science,2003,14(3): 276-279.]   \n[18]王文焰,张建丰,汪志荣,等.波涌灌溉条件下土壤致密层的形 成及其对入渗特性的影响[J].水利学报,1996,27(7):75-81. [WangWenyan,Zhang Jianfeng,Wang Zhirong,etal.The formation of soil dense layer under surge irrigation and its effect on infiltration characteristics[J].Journal of Hydraulic Engineering,1996, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "27(7): 75-81.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[19]陈永金,李卫红,陈亚宁,等.塔里木河流域综合治理的生态效 应[J].中国环境科学,2007,27(1):24-28.[Chen Yongjin,LiWeihong,Chen Yaning,et al.Ecological effects of comprehensive management in Tarim River Basin[J]. China Environmental Science,2007,27(1): 24-28.]   \n[20] 杨鹏年,张胜江,董新光.塔里木河干流下游生态输水后水量转 化特征[J].干旱区研究,2007,24(2):174-178.[Yang Pengnian, Zhang Shengjiang,Dong Xinguang. Characteristics of water transferafter ecological water transport in the lower reaches of Tarim River[J]. Arid Zone Research,2007,24(2): 174-178.]   \n[21]傅渝亮,费良军,聂卫波,等.波涌灌间歇入渗饱和-非饱和土 壤水分运动数值模拟及试验[J].农业工程学报,2015,31(2): 66-71.[Fu Yuliang,Fei Liangjun,Nie Weibo,et al.Numerical simulation and experiment on saturated-unsaturated soil water movement in intermittent infiltration of surge irrigation[J]. Transactions of the Chinese Society of Agricultural Engineering,2O15,31 (2): 66-71.]   \n[22] 陈曦,黄粤,钱静,等.干旱区内陆河漫溢型生态用水调控的模 拟分析——以塔里木河干流灿木里克生态区为例[J].中国科 学:地球科学,2006,36(增刊2):1-8.[Chen Xi,Huang Yue,Qian Jing,et al. Simulation and analysis of the regulation of ecological water use in the inland river overflow in arid area:A case study of the Tarim River Basin[J]. Scientia Sinica(Terrae),2OO6,36(Suppl.2): 1-8.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Characteristics of water consumption and the evolution of water delivery methods in thelower reach of the Tarim River ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Long'2，YANG Pengnian1，WANG Yongpeng'2, Alishir Kurban³, WANG Guangyan4 (1. College of Water Conservancy and Civil Engineering, Xinjiang Agricultural University,Urumqi 830052, Xinjiang, China; 2.Xinjiang Key Laboratory of Water Conservancy Engineering Safetyand Water Disaster   \nPrevention,Urumqi830o52,Xinjiang, China;3.Xinjiang Institute of Ecology and Geography,Chinese Academyof   \nSciences, Urumqi 83O011, Xinjiang, China; 4. Xinjiang Tarim River Basin Mainstream Management Bureau, Korla 841000, Xinjiang, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The water consumption rate of the lower reaches of the Tarim River and the water permeability of the riverbedafter water transfer were analyzed in this study,and the Modified Normalized Difference Moisture Index (MNDWI) change characteristics under the near-natural overflow behind the ecological gate were revealed.The results were as follows. (1) Continuous water delivery reduced the water consumption rate per unit river length and reduced the replenishment of soil water and groundwater. (2）Randomized water delivery behind the ecological gate represented by Kumtuge lacked orderly regulation and formed a constant river flow section; this led to excessively high groundwater levels in some areas and increased the ineffectiveness of evaporation. (3) Ditch overflow under nearnatural conditions represented by Bozkule played an important role in the groundwater level and vegetation restoration in the area,but the solidification of ditches and formation of low-lying water areas tended to facilitate evolution of vegetation in dry areas into a single type of water-loving vegetation; this increased ineffective evaporation and luxury transpiration. (4) The ecological gate lacking regulation as wellas the control and near-natural water delivery produced excessive surface water and wetland vegetation,which is in conflict with river ethics for the arid Tarim River Basin. Adjusting and regulating water delivery with manual intervention,i.e.,using a combination of infiltration and flooding via a river wheel,should be considered the main method of water delivery in the future.This will not only improve the utilization eficiency of the discharged water and further expand the ecological restoration area but also facilitate the regulation and control of water disspation in diferent restoration target areas,which would maximize the vegetation in these restoration areas. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Keywords: ditch river water delivery；vegetation water consumption； ecological gate regulation；the lower reachesof the Tarim River ",
+        "page_idx": 10
+    }
+]

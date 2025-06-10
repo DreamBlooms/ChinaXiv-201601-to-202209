@@ -1,0 +1,453 @@
+[
+    {
+        "type": "text",
+        "text": "Distribution of soil aggregates and organic carbon in deep soil under long-term conservation tillage with residual retention in dryland ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Bisheng, GAO Lili, YU Weishui, WEI Xueqin,LI Jing,LI Shengping, SONG Xiaojun, LIANG Guopeng, CAI Dianxiong, WU Xueping ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "InstituteofAgriculturalResourcesandRegionalPlanning,ChineseAcademyofAgriculturalSciences,Beijing0o8,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To ascertain the efects of long-term conservation tillage and residue retention on soil organic carbon (SOC) content and aggregate distribution in a deep soil ${ \\sqrt { 2 0 } }$ -cm depth) in a dryland environment, this paper analyzed the SOC and aggregate distribution in soil,and the aggregate-associated organic carbon (OC) and SOC physical fractions. Conservation tillage (reduced tilage with residue incorporated (RT) and no-tillage with residue mulch (NT)) significantly increased SOC sequestration and soil aggregation in deep soil compared with conventional tilage with residue removal (CT). Compared with CT,RT significantly increased the proportion of small macroaggregates by $23 \\% { - } 8 1 \\%$ in the $1 0 { - } 8 0 \\mathrm { c m }$ layer, and the OC content in small macroaggregates by $1 \\% - 5 8 \\%$ in the $\\mathrm { 0 - 8 0 ~ c m }$ layer. RT significantly increased (by $2 4 \\% - 9 0 \\%$ the OC content in mineral-SOC within small macroaggregates in the $ { 0 - 6 0 } ~ \\mathrm { c m }$ layer, while there was a $23 \\text{‰}$ $80 \\%$ increase in the $\\ : 0 { - } 4 0 ~ \\mathrm { c m }$ layer with NT. These results indicated that: (1) conservation tillge treatments are beneficial for soil aggregation and SOC sequestration in a deep soil in a dryland environment; and (2) the SOC in mineral-associated OC plays important roles in soil aggregation and SOC sequestration. In conclusion, RT with NT is recommended as an agricultural management tool in dryland soils because of its role in improving soil aggregation and SOC sequestration. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: long-term tillage; residue retention; soil aggregates; SOC; deep soil; dryland ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: WANGBisheng,GAOLili,YUWeishui,WEI Xueqin,LIJing,LIShengping,SONG Xiaojun,LIANG Guopeng,CAI Dianxiong,WUXueping.2019.Distributionofsoilaggegatesandorganiccarbon indeepsoilunderlong-termconservation tillgewithresidualretentionindryland.JouralofAridLand,(2):241-254.htps://doiorg/10.0/s40-09-0094-6 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Soil organic carbon (SOC) is of great importance for soil quality (Plaza-Bonilla et al.,2013; Yang et al.,2014; Yu et al., 2O15; Yazdanpanah et al., 2016) and the sustainable development of the environment (Benbi et al.， 2016; Ou et al.， 2016). It is important to ensure the long-term sustainability of SOC in agro-ecosystems to maintain soil fertility (Liang et al.， 2014). Soil aggregates are linked with SOC stabilization and their formation is considered to be crucial for SOC sequestration (Tisdall and Oades,1982; Balesdent et al., 2000). According to Tisdall and Oades (1982), soil aggregates can be divided into macroaggregates $( > 2 5 0 \\mu \\mathrm { m } )$ and microaggregates $( < 2 5 0 ~ \\mu \\mathrm { m } )$ ． Cambardella and Elliot (1993） further classified the aggregates as large macroaggregates $( > 2 0 0 0 ~ \\mu \\mathrm { m } )$ ， small macroaggregates $( 2 0 0 0 { - } 2 5 0 ~ \\mu \\mathrm { m } )$ ,microaggregates (250-53 $\\mu \\mathrm { m } )$ ,and the silt+clay fraction $( < 5 3 ~ \\mu \\mathrm { m } )$ . Soil aggregates can reduce SOC mineralization through physical protection by limiting the contact between organic carbon (OC) and microorganisms (Balabane and Plante, 2004; Sui et al., 2012). The distribution and stability of aggregates are important indicators of the physical quality of a soil (Shrestha et al.,2007; Zhu et al.,2017). However, soil aggregate formation can be modified by agricultural practices, such as tillage and fertilizer application (Ma et al., 2007; Abiven et al.,2009; Wang et al., 2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conventional tillage practices induce the disruption of soil aggregates due to soil disturbance by plowing and removing crop residues from the field, as has been reported widely (Zotarelli et al., 2007; Andruschkewitsch et al., 2014). The disruption of soil aggregates results in enhanced SOC decomposition and transformation rates (Beare et al.,1994; Zotareli et al., 2007). Some studies have reported that conservation tillage can improve SOC stabilization (Gao et al., 2015; Nath and Lal，2017). Compared with conventional tillage，which can accelerate the regeneration of macroaggregates, conservation tillage can yield a greater macroaggregate content and sequester more SOC in agricultural land (Freibauer et al.,2004; AlvaroFuentes et al., 2008). However, most studies of the effects of tillage and straw retention on soil aggregates have focused on plowing depth $( 0 { - } 2 0 \\mathrm { c m } )$ (Huang et al., 2010; Gao et al., 2015; Liu et al.,2015), while deep soil degradation is becoming a serious limitation to crop yield and soil quality (Hartmann et al.,2Oo8). Accordingly, it is necessary to conduct studies of deep soil (Hou et al.,2013; Andruschkewitsch et al.,2014; Zhu et al., 2017). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dryland farming occurs across a large region in the northern China, which accounts for approximately $5 5 \\%$ of all arable land in China. In this region, water shortages and large seasonal and annual variations in rainfallead to regular soil drought and erosion, which are the main limits on crop yield and are aggravated by frequent tillage and residue removal (Wang et al., 2011). Studies have shown that conservation tillage combined with residue retention is an effective measure to enhance soil aggregation and reduce the effects of drought and soil erosion (Wang et al., 2006; Wang et al.,2O11). This study analyzed the soil aggregate distribution and aggregateassociated OC and SOC physical fractions to understand the effect of conservation tilage and residue retention on physical aggregate fractionation in a deep soil in dryland agriculture. The objectives of the study were to ascertain the effects of long-term conservation tillage and residue retention on: (1） aggregate distribution and stability in the vertical direction in soil; and (2) variations in aggregate-associated and subfraction-associated OC in a deep soil in a dryland environment. It was hypothesized that: (1） compared to conventional tillge, conservation tillage would yield more SOC and stable macroaggregates in the deep soil layer in a dryland environment in China; (2） conservation tillage would result in more SOC in soil macroaggregates than conventional tillage; and (3） mineral-associated OC (mSOC） was the main form of SOC accumulated in dryland soils in China. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Study site ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experiment was conducted at the Dryland Farming Experimental Station in Shouyang, Shanxi Province,China.The experimental site $( 3 7 ^ { \\circ } \\mathrm { N } \\mathrm { - } 3 8 ^ { \\circ } \\mathrm { N }$ $1 1 2 ^ { \\circ } \\mathrm { E } { - } 1 1 3 ^ { \\circ } \\mathrm { E }$ $1 1 0 0 \\mathrm { m }$ a.s.l.) has a continental monsoon climate,with a mean annual precipitation of $4 6 2 ~ \\mathrm { m m }$ over the last 2O years.The mean daily temperature in the warmest month (July) is $2 8 . 2 ^ { \\circ } \\mathrm { C }$ ,while it is $- 1 1 . 4 ^ { \\circ } \\mathrm { C }$ in the coldest month (January). Mean annual potential evaporation is $1 7 0 0 { - } 1 8 0 0 ~ \\mathrm { m m }$ ,and the annual frost-free period is around 130 days. The main crop grown in the area is continuous spring maize, accounting for more than $50 \\%$ of the planted area. The sandy loam cinnamon soil of the experimental site has been classified as a Calcaric-Fluvic Cambisol (Wang et al.,2011). Table 1 shows the basic physical and chemical properties of the soil layers in 2003. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design and sampling ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A long-term tilage and residue retention experiment was established in 2O03,using a randomized complete block design with three replicates.Each plot was $5 \\ \\mathrm { m } { \\times } 5 \\ \\mathrm { m }$ . Three treatments were applied: (1) conventional tillage with crop residue removed after harvesting, plowed twice to about $2 5 \\ \\mathrm { c m }$ depth on 3 October and 28 April,and fertilizer applied on 28 April; (2) reduced tillage with residue incorporated after harvesting, plowing once to about $2 5 \\mathrm { c m }$ depth,and fertilizer applied on 3 October; and (3) no-tilage with whole maize mulch left in field after harvesting in October and sowing and fertilizing with a no-til planter on 28 April in the next year. Each plot had nitrogen (N) and phosphorus $( \\mathrm { P } )$ applied at a rate of $1 0 5 \\mathrm { ~ k g } \\mathrm { ~ N } / \\mathrm { h m } ^ { 2 }$ and $1 0 5 \\mathrm { k g } \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } / \\mathrm { h m } ^ { 2 }$ ,respectively, through urea and calcium superphosphate. Locally preferred maize varieties were planted at a seed rate of $3 0 ~ \\mathrm { k g / h m } ^ { 2 }$ . The line and planting spacings were 6O and $3 0 \\ \\mathrm { c m }$ ,respectively.Maize was seeded on 28 April and harvested on 3 October every year during the experimental period. After the harvesting in 2016,14 years after the field experiment began, three soil samples were collected from each plot using a steel soil sampler,and carefully mixed to form a subsample.The fresh soil was immediately taken to the laboratory, air-dried to a constant weight (approximately $2 . 3 \\%$ , mass water content), and then separated manually along the natural cracks of fracture to obtain aggregate sizes ${ < } 6 ~ \\mathrm { m m }$ ： Visible plant residues and stones were removed with tweezers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f26cf70aa27eb9c7102ee8ba0c2db1167aef8f5141ec1bd866c52459ab39853.jpg",
+        "table_caption": [
+            "Table 1 Soil physical and chemical properties in a $1 0 0 \\mathrm { - c m }$ soil profile "
+        ],
+        "table_footnote": [
+            "Note: N, nitrogen; P,phosphorus;K,potassium; SOC,soil organic carbon; NA,not applicable. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Soil layer (cm)</td><td colspan=\"4\">Soil particle size distribution (%)</td><td colspan=\"3\">Available soil nutrient (mg/kg)</td><td rowspan=\"2\">SOC (g/kg)</td></tr><tr><td>>0.200 mm</td><td>0.020-0.200 mm</td><td>0.002-0.020 mm</td><td><0.002 mm</td><td>N</td><td>P</td><td>K</td></tr><tr><td>0-10</td><td>5.7</td><td>52.9</td><td>35.7</td><td>5.8</td><td>58</td><td>8.3</td><td>96</td><td>26.4</td></tr><tr><td>10-20</td><td>7.9</td><td>51.8</td><td>34.6</td><td>5.8</td><td>52</td><td>6.9</td><td>93</td><td>25.0</td></tr><tr><td>20-40</td><td>4.8</td><td>55.9</td><td>33.7</td><td>5.7</td><td>53</td><td>3.1</td><td>87</td><td>20.9</td></tr><tr><td>40-60</td><td>7.0</td><td>52.9</td><td>34.9</td><td>5.2</td><td>40</td><td>1.1</td><td>79</td><td>NA</td></tr><tr><td>60-80</td><td>1.8</td><td>55.5</td><td>37.4</td><td>5.2</td><td>48</td><td>1.4</td><td>73</td><td>NA</td></tr><tr><td>80-100</td><td>0.0</td><td>59.5</td><td>35.7</td><td>4.9</td><td>64</td><td>2.7</td><td>75</td><td>NA</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Analysis of soil aggregates and OC fractions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil samples passed through a $6 \\mathrm { - m m }$ sieve were used to physically fractionate the soil aggregates by wet sieving (Elliott, 1986; Li et al., 2016).Briefly, $\\boldsymbol { 1 0 0 } \\ \\mathrm { g }$ soil was placed in a $2 \\mathrm { - m m }$ sieve and immersed in deionized water for $5 \\mathrm { { m i n } }$ . Then, the $2 { \\cdot } \\mathrm { m m }$ sieve was manually moved through a 3- cm vertical distance 5O times in $2 \\ \\mathrm { m i n }$ . The soil samples remaining on the $2 \\mathrm { - m m }$ sieve were collected. The suspension and soil that passed through the $2 \\mathrm { - m m }$ sieve were washed through a 250- $\\mu \\mathrm { m }$ sieve. These steps were repeated to obtain soils that were classfied as 2000-250, 250-53,and $< 5 3 ~ \\mu \\mathrm { m }$ , and all classified aggregates were oven-dried at $6 5 ^ { \\circ } \\mathrm { C }$ . Part of the soil aggregate samples was ground to $< 0 . 1 4 9 \\ \\mathrm { m m }$ size with a mortar and pestle and acidified with hydrochloric acid (1 $\\mathrm { m o l / L }$ ） for the determination of OC content, and the rest of the aggregate sample was used for further fractionation according to a modification of the method described by Six et al. (1998). Soil subsamples that were classified as $2 0 0 0 { - } 2 5 0 ~ \\mu \\mathrm { m }$ were separated into free-light OC (fLOC), particulate OC (POC), and mSOC. Five-gram soil aggregate samples were submerged in a sodium iodide(NaI） solution( $3 5 ~ \\mathrm { m L }$ ， $1 . 8 5 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 } ,$ ina $5 0 ~ \\mathrm { m L }$ graduated centrifuge tube. The tube was slowly shaken for ten strokes to mix the suspended subsample. A few more strokes were applied to suspend the sample.Another $1 0 ~ \\mathrm { m L }$ NaI was needed to wash the samples remaining in the tube. All tubes were placed in a vacuum environment at $- 1 3 8 \\ \\mathrm { k P a }$ for $1 0 ~ \\mathrm { { m i n } }$ and equilibrated for 20 min, then centrifuged at $3 4 0 0 ~ \\mathrm { r / m i n }$ for $6 0 ~ \\mathrm { { m i n } }$ at $2 5 ^ { \\circ } \\mathrm { C }$ . The supernatant was filtered through a $0 . 4 5 \\mathrm { - } \\mu \\mathrm { m }$ membrane. The floating material remaining on the membrane was the fLOC, which was thoroughly washed with deionized water to wipe out NaI. The heavier soil sample was washed twice with $5 0 ~ \\mathrm { m L }$ deionized water and dispersed in $5 ~ \\mathrm { g / L }$ sodium hexametaphosphate (HMP) and shaken for $1 8 \\mathrm { h }$ on a reciprocating shaker. The dispersed heavy samples were passed through 250- and $5 3 \\mathrm { - } \\mu \\mathrm { m }$ sieves to obtain coarse POC (cPOC, ${ > } 2 5 0 ~ \\mu \\mathrm { m } ,$ ， fine POC (fPOC, $2 5 0 { - } 5 3 ~ \\mu \\mathrm { m } )$ ,and $\\mathrm { m S O C }$ （20 $( < 5 3 ~ \\mu \\mathrm { m } )$ . The samples were acidified with hydrochloric acid $( 1 ~ \\mathrm { m o l / L } )$ and dried at $6 5 ^ { \\circ } \\mathrm { C }$ ， then ground $( < 0 . 1 4 9 \\ \\mathrm { m m } )$ ）with a mortar and pestle for the measurement of OC content. The SOC was determined by dry combustion with an elemental analyzer (Vario Macro C/N,Elementar, Germany). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The mean weight diameter (MWD, mm) and geometric mean diameter (GMD, mm) are indices of aggregate stability (Eqs.1 and 2). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { M W D } = \\sum _ { i = 1 } ^ { 4 } \\left( X _ { i } \\times M _ { i } \\right) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G M D } = \\mathrm { e } ^ { \\Sigma ( W _ { i } \\times \\ln X _ { i } ) / \\Sigma W _ { i } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $X _ { i }$ is the mean diameter of the $i ^ { \\mathrm { t h } }$ size fraction (mm), $M _ { i }$ is the proportion of the $i ^ { \\mathrm { t h } }$ size fraction in the whole soil $( \\% )$ ,and $W _ { i }$ is the weight of the aggregates of size $i \\left( \\mathbf { g } \\right)$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The carbon content in the soil aggregate fractions were calculated as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { c o n t e n t - a g g r e g a t e } } = C _ { \\mathrm { c o n - a g g r e g a t e } } \\times M _ { \\mathrm { a g g r e g a t e } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { \\bullet }$ content-aggregteis the OC content in soil $\\mathrm { ( g ~ C / k g }$ Soil)，Ccon-aggegate is the OC content in aggregates $\\mathrm { ( g C / k g }$ aggregate), and $M _ { \\mathrm { a } }$ ggregate is the aggregate mass ratio of soil $\\mathrm { ( k g / k g }$ soil). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The carbon content of the subfractions within the small macroaggregates was calculated as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { c o n t e n t - s u b } } = C _ { \\mathrm { c o n - s u b } } \\times M _ { \\mathrm { s u b } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { \\mathrm { c o n t e n t - s u b } }$ is the subfraction OC content in small macroaggregates $\\mathrm { ( g \\ C / k g }$ aggregate), $C _ { \\mathrm { c o n } } .$ sub is the subfraction carbon content( $\\mathbf { \\tau } _ { \\mathrm { \\tiny  g  C / k g  } }$ subfraction), and $M _ { \\mathrm { s u b } }$ is the subfraction mass ratio of small macroaggregates $\\mathrm { ( k g / k g }$ aggregate). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A statistical analysis was conducted using SAS 9.2 (Institute Inc., Cary, USA),and the Sigmaplot 12.5 (Systat Software,Inc., San Jose California, USA) software was used for graphics. The general linear model procedure was used to perform an analysis of variance (ANOVA). A regression analysis was performed to assess the relationships between SOC， the mass proportion of macroaggregates,and the ratio of macroaggregates to microaggregates. The results were presented as mean±standard error（SE) $\\scriptstyle ( n = 3 )$ . Mean values were compared using the least significant difference at the $5 \\%$ level. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 SOC content ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The SOC contents in all treatments displayed a decreasing trend from topsoil $( 0 { - } 1 0 ~ \\mathrm { c m } )$ to deep soil $( 8 0 - 1 0 0 ~ \\mathrm { c m } )$ .RT resulted in the highest SOC content in all layers except the $8 0 { - } 1 0 0 ~ \\mathrm { c m }$ layer. Compared with the CT treatment,RT significantly increased SOC contents in the O-10,10-20, $2 0 -$ 40,40-60,and $6 0 { - } 8 0 ~ \\mathrm { c m }$ layers,with values of $59 \\%$ ， $28 \\%$ $2 9 \\%$ ， $7 7 \\%$ , and $24 \\%$ , respectively. NT significantly increased SOC contents in the O-10,10-20, 20-40,and $4 0 { - } 6 0 ~ \\mathrm { c m }$ layers,with values of $20 \\%$ ， $1 9 \\%$ ， $3 \\%$ ,and $23 \\%$ , respectively (Fig. 1). There was no significant difference in the SOC content between RT and CT in the $8 0 { - } 1 0 0 ~ \\mathrm { c m }$ layer. In the deep soil of the 6O-80 and $8 0 { - } 1 0 0 ~ \\mathrm { c m }$ layers, the SOC content in NT soil was significantly lower than that in CT soil. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 Soil aggregate distribution ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Microaggregates accounted for the majority of the aggregates $( 4 8 \\% - 8 2 \\% )$ for all treatments in each soil layer, followed by small macroaggregates $( 5 \\% - 4 0 \\% )$ (Fig. 2). The silt+clay fraction accounted for $9 \\% - 1 3 \\%$ and the large macroaggregates accounted for $0 \\% { - } 1 0 \\%$ . In the 0-10 and $1 0 { - } 2 0 ~ \\mathrm { c m }$ layers, the NT treatment produced the highest proportion of large and small macroaggregates, with mean values of $6 \\%$ and $3 3 \\%$ ，respectively， whereas the proportion of large and small macroaggregates under CT was $0 \\%$ and $21 \\%$ , respectively. The positive effects of the RT and NT treatments were mainly concentrated on the smal macroaggregates. Compared with CT, the mass proportions of small macroaggregates were higher in the $1 0 { - } 1 0 0 ~ \\mathrm { c m }$ layer, accounting for $1 1 \\text{‰}$ $3 6 \\%$ under RT and $7 \\% - 4 0 \\%$ in all layers under NT. Except for some individual values, CT soil had the highest proportion of the microaggregate and silt+clay fractions. There was a significant correlation between the mass proportions of macroaggregates $( > 2 5 0 ~ \\mu \\mathrm { m }$ $R ^ { 2 } { = } 0 . 5 1 1 2$ ， $\\scriptstyle P < 0 . 0 1 { \\\\mathrm { ~ . ~ } }$ and the ratio of macroaggregates to microaggregates ( $( < 2 5 0 ~ \\mu \\mathrm { m }$ $R ^ { 2 } { = } 0 . 6 2 8 9$ ， $\\textstyle P { \\ < } 0 . 0 1$ ）with SOC content (Fig. 3). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2838ffd05e290919b763a7cd5b8f1243bf28620e353d12d55f750902ffd0b12d.jpg",
+        "img_caption": [
+            "Fig.1Soil organic carbon (SOC) content under conventional tillage with residue removal (CT),reduced tillage with residue incorporated (RT),and no-tilage with residue mulch (NT).Error bars represent the standard errorsof means $\\scriptstyle ( n = 3 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9be467b95191c49a2b0d3785d386cfbeba8fc849b1738e399fdb8ccddb5caadb.jpg",
+        "img_caption": [
+            "Fig.2Soil water-stable aggregatedistribution in thevertical direction under CT,RTandNT,respectively.Eror bars represent the standard errors of means $\\scriptstyle ( n = 3 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There was a significant difference in MWD for the O-4O and $6 0 { - } 8 0 ~ \\mathrm { c m }$ soil layers between NT and CT,with higher values for NT(Table 2).In the $0 { - } 2 0 ~ \\mathrm { c m }$ layers, there was no significant difference betweenRT and CT,but in deeper layers $( 2 0 - 8 0 \\ \\mathrm { c m } )$ the MWDof the RT treatment was significantly increased compared with CT. In the $8 0 { - } 1 0 0 \\ \\mathrm { c m }$ layer, there was no significant difference between CT, RT and NT.The GMD displayed the same trend as the MWD (Table 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/28b58dad7d52fbe6fcaf09493dc2f25c46428f2f0a108a3717e6f0e67eaf0be9.jpg",
+        "img_caption": [
+            "Fig.3Relationships between soil organic carbon (SOC),mass proportion of macroaggregates,and ratio of macroaggregates to microaggregates "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1965f09f3b46cbd7cccac7b9731718ca0183eedb9e2a79fc2a92552e91acaa6.jpg",
+        "table_caption": [
+            "Table 2Mean weight diameter (MWD) and geometric mean diameter (GMD)of soil water-stable aggregates and theratio of fine particulate organic carbon to coarse particulate organic carbon (fPOC/cPOC) within small macroaggregates under conventional tillage with residue removal (CT),reduced tillage with residue incorporated (RT),and no-tillage with residue mulch (NT). "
+        ],
+        "table_footnote": [
+            "Note:Means±SE.Diferent lowercase leters indicate significant diferences between treatments in the same soil depth $( P { < } 0 . 0 5 )$ # "
+        ],
+        "table_body": "<html><body><table><tr><td>Soil depth (cm)</td><td>Treatment</td><td>MWD (mm)</td><td>GMD (mm)</td><td>fPOC/cPOC</td></tr><tr><td>0-10</td><td>CT</td><td>0.36±0.03b</td><td>0.20±0.01b</td><td>0.29±0.02c</td></tr><tr><td rowspan=\"4\"></td><td>RT</td><td>0.36±0.01b</td><td>0.20±0.00b</td><td>0.35±0.02b</td></tr><tr><td>NT</td><td>0.55±0.01a</td><td>0.28±0.01a</td><td>0.63±0.03a</td></tr><tr><td>CT</td><td>0.32±0.03b</td><td>0.18±0.02b</td><td>0.19±0.04b</td></tr><tr><td>RT</td><td>0.39±0.04b</td><td>0.21±0.02b</td><td>0.34±0.04a</td></tr><tr><td rowspan=\"3\">20-40</td><td>NT</td><td>0.78±0.12a</td><td>0.32±0.03a</td><td>0.41±0.02a</td></tr><tr><td>CT</td><td>0.44±0.03b</td><td>0.22±0.03b</td><td>0.35±0.03b</td></tr><tr><td>RT</td><td>0.50±0.03a</td><td>0.26±0.02ab</td><td>0.61±0.04a</td></tr><tr><td rowspan=\"3\">40-60</td><td>NT</td><td>0.54±0.03a</td><td>0.28±0.02a</td><td>0.56±0.04a</td></tr><tr><td>CT</td><td>0.34±0.01b</td><td>0.19±0.00b</td><td>0.43±0.03b</td></tr><tr><td>RT</td><td>0.51±0.05a</td><td>0.27±0.02a</td><td>0.56±0.05a</td></tr><tr><td rowspan=\"3\">60-80</td><td>NT</td><td>0.34±0.03b</td><td>0.19±0.01b</td><td>0.45±0.01b</td></tr><tr><td>CT</td><td>0.22±0.01b</td><td>0.15±0.01b</td><td>0.28±0.06c</td></tr><tr><td>RT</td><td>0.29±0.02a</td><td>0.17±0.00a</td><td>0.42±0.06b</td></tr><tr><td rowspan=\"4\">80-100</td><td>NT</td><td>0.29±0.03a</td><td>0.17±0.01a</td><td>0.79±0.01a</td></tr><tr><td>CT</td><td>0.21±0.03a</td><td>0.15±0.01a</td><td>0.18±0.02b</td></tr><tr><td>RT</td><td>0.24±0.03a</td><td>0.16±0.01a</td><td>0.32±0.05a</td></tr><tr><td>NT</td><td>0.23±0.04a</td><td>0.15±0.02a</td><td>0.31±0.04a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 OC in soil aggregates ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Among the different aggregates, the highest OC contents were found in the small macroaggregates in the $0 { - } 6 0 ~ \\mathrm { c m }$ layer, with a range of $3 7 { - } 8 8 ~ \\mathrm { g } \\mathrm { C } / \\mathrm { k g }$ aggregate, which was significantly higher than that of the large macroaggregates, microaggregates,and the silt+clay fraction (Fig. 4). Compared with CT, the NT treatment significantly increased the OC contents in the upper $1 0 \\mathrm { - c m }$ layer in the large macroaggregates，microaggregates，and the silt+clay fraction by $31 \\%$ ， $30 \\%$ ，and $3 6 \\%$ ， respectively (Fig. 4). In the $1 0 { - } 1 0 0 ~ \\mathrm { c m }$ layer, OC contents under NT decreased compared with those under CT,except for the silt+clay fraction in the $4 0 { \\mathrm { - } } 6 0 \\ { \\mathrm { c m } }$ layer. The RT treatment increased OC contents in the small macroaggregates mainly from the $0 { - } 1 0 ~ \\mathrm { c m }$ to the $6 0 { - } 8 0 ~ \\mathrm { c m }$ layers, with a $1 \\% - 5 8 \\%$ improvement compared to CT. In the large macroaggregates,RT significantly increased OC contents in the O-10 and $4 0 { \\mathrm { - } } 6 0 ~ \\mathrm { c m }$ soil layers by $58 \\%$ and $51 \\%$ ,respectively. In the silt+clay fraction,RT significantly increased OC contents in the 10-20,20-40,and $4 0 { \\mathrm { - } } 6 0 \\ \\mathrm { c m }$ layers by $31 \\%$ $34 \\%$ , and $52 \\%$ , respectively. The differences in OC contents in microaggregates between the RT and CT treatments were only significant in the $4 0 { \\mathrm { - } } 6 0 ~ { \\mathrm { c m } }$ layer. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When the OC content in aggregates was transformed by adding $\\mathrm { ~ 1 ~ g ~ C ~ / k g ~ }$ aggregate throughout the bulk soil, a different result for the OC content in aggregates (unit of $\\bf g _ { \\tau } C / k g$ soil) was observed (Fig. 5). After this transformation， NT significantly increased the OC content in large macroaggregates down to a soil depth of $2 0 ~ \\mathrm { c m }$ soil and in small macroaggregates down to a soil depth of $4 0 \\ \\mathrm { c m }$ compared with CT.There was a significant effect of RT on the OC content in small macroaggregates, which was $2 7 \\% - 1 2 9 \\%$ higher than that in CT soil from the O-10 to $8 0 { - } 1 0 0 ~ \\mathrm { c m }$ layers. Differences in the OC content in microaggregates and the silt+clay fraction between the RT and CT treatments were not significant at any depth, except for the $4 0 { \\mathrm { - } } 6 0 ~ { \\mathrm { c m } }$ layer. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/41fdb525e6553e693896c69665191e9f72ab3eb819bd325dd67f41996a0e9556.jpg",
+        "img_caption": [
+            "Fig.4Aggregate-associated organic carbon(OC) content under CT,RTand NT.Error bars represent the standard errors of means $\\scriptstyle ( n = 3 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4Aggregate subfraction distribution and associated OC contents ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Within the smal macroaggregates the subfractions were dominated by the $< 5 3 ~ \\mu \\mathrm { m }$ fraction, which accounted for $6 1 \\% - 8 8 \\%$ of the total. NT significantly increased the $< 5 3 ~ \\mu \\mathrm { m }$ fraction in the O-10, 10-20,40-60,60-80,and $8 0 { - } 1 0 0 ~ \\mathrm { c m }$ layers,which was $20 \\%$ ， $20 \\%$ ， $5 \\%$ ， $1 1 \\%$ ,and $5 \\%$ higher than in CT soil. In all soil layers, the mass proportions of the $< 5 3 ~ \\mu \\mathrm { m }$ fraction in RT soil were higher than in CT soil, but not significantly (Fig. 6a). The NT and RT treatments had no significant influence on the 2000-250 and $2 5 0 { \\mathrm { - } } 5 3 ~ { \\mu \\mathrm { m } }$ fractions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Compared to the CT treatment, the OC content in cPOC was significantly increased by RT only in the $0 { - } 1 0 \\mathrm { c m }$ layer (Fig. 6b). Compared with the CT treatment, RT significantly increased the OC content in fPOC and $\\mathrm { m S O C }$ in the $ { 0 - 6 0 } ~ \\mathrm { c m }$ layers,with improvements of $3 7 \\% - 9 9 \\%$ and $24 \\text{‰}$ $90 \\%$ , respectively. The NT treatment significantly increased the OC content in fPOC and $\\mathrm { \\ m S O C }$ in the $\\textstyle 0 - 4 0 \\ \\mathrm { c m }$ layers,with improvements of $3 8 \\% { - } 1 0 5 \\%$ and $23 \\% - 8 0 \\%$ ,respectively. However, the OC content in the subfractions under RT and NT was lower than that under CT in the $6 0 { - } 1 0 0 ~ \\mathrm { c m }$ layers,except for fPOC under RT in the $6 0 { - } 8 0 ~ \\mathrm { c m }$ layer. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f72d7b59b55c2283f497711d0080be8b7517643bc299011dded968013e4bbe21.jpg",
+        "img_caption": [
+            "Fig.5Organic carbon content of aggregates in soil underCT,RTand NT.Error bars represent the standard errors of means $\\scriptstyle ( n = 3 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1Impact of tillage and residue retention on SOC ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Compared with CT soil, the SOC contents of RT and NT soils significantly increased from the topsoil down to depths of 80 and $6 0 \\ \\mathrm { c m }$ ,respectively (Fig.1), suggesting that the positive effect of conservation tillage on SOC exists not only in the plowed layer $( 0 { - } 2 0 \\mathrm { c m } )$ ,but also in the deep soil layers.There are two possble reasons for the difference in SOC contents between conventional and conservation tillge. First， conventional tillge increases soil disturbance， promotes fragmentation of macroaggregates, and reduces the stability of aggregates without organic supplements; thus, accelerating the mineralization of SOC (Six et al., 2002; Hou et al., 2013; Andruschkewitsch et al.,2014). Second, conservation tilage involves returning the residue back to the field， which can directly increase the SOC content,accelerate the formation of macroaggregates, and reinforce their stability (Six et al., 2O04; Blanco-canqui and Lal, 2007; Gao et al.,2015;Liu et al., 2015; Jiang et al.,2017). The soil under conservation tillage was less disturbed than under CT and therefore conservation tillage created a suitable environment for microorganism activity and diversity with regard to the soil pore-size distribution, temperature and water capacity (Young et al., 200o; Six et al., 2004; Wang et al., 2017). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b52f6cac40b61d760c567e52c7d5fdd8d1d4942b57b52c20fd76848b6e873754.jpg",
+        "img_caption": [
+            "Fig. 6Aggregate subfraction distribution and associated organic carbon (OC) contents in small macroaggregates under CT,RT and NT,respectively.cPOC,coarse particulate OC (POC)； fPOC,fine POC; mSOC, mineralassociated OC.Error bars represent the standard errors of means $\\scriptstyle ( n = 3 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2Impact of tillage and residue retention on soil aggregate formation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The literature suggests that soil structure has a major effect on the soil environment and quality, which frequently results in the stability of soil aggregates (Oades et al.,1984; Six et al., 2000a; Bronick and Lal,2005; Zhao et al.,2017). Soil aggregate formation is affected by many factors,of which tillage practice and residue retention are among the most vital.This study demonstrated that conservation tillage and residue retention significantly increased the amount of macroaggregates in the surface layer $( 0 { - } 2 0 ~ \\mathrm { c m } )$ ，which was consistent with the results of many previous studies (Golchin et al.,1994; Bossuyt et al.,2002; Andruschkewitsch et al.,2014; Liu et al.,2015).The main reason for the significant difference in macroaggregate mass proportion between conventional and conservation tilage is that moldboard plowing has a negative effect on macroaggregate maintenance. Conservation tillage treatments with crop residue addition provide energy for biological activity in soil; thus,aiding macroaggregate formation (Lal,1995; Liu et al., 2015). Furthermore,this study showed that the distribution of soil aggregates had a close relationship with SOC,i.e., the mass percentage of macroaggregates increased with SOC content (Fig. 3). This was in line with the results of Jiang et al. (2O17), who reported that organic matter played a critical role in soil aggregate formation. The main reason for this phenomenon was the ability of SOC to function as a binding agent. On the one hand, SOC provides nutrients and energy for microorganisms and crops,thereby resulting in more excretion, which produces binding agents for aggregates. On the other hand, SOC directly encouraged aggregation by binding soil mineral particles that could then form soil aggregates. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Aregular phenomenon related to soil aggregate distribution, which has rarely been reported, was detected in the deeper soil layers (down to $1 0 0 \\mathrm { c m } \\dot { } ,$ )in this study (Ma et al., 2007; Hou et al., 2013; Andruschkewitsch et al.,2014).The results revealed that in the 20-40,40-60, 60-80,and 80-100 cm layers, conservation tillage still increased the mass percentage of small macroaggregates compared to CT. These results confirmed the first hypothesis proposed in this study,i.e.， that conservation tilage could develop more stable macroaggregates in deep soil layers in dryland China.The root distribution, tillage method,and soil structure, especially the pore-size distribution and interconnection, need to be considered to describe this phenomenon. Mengel and Barber(1974) determined that the top $7 5 \\ \\mathrm { c m }$ of soil is physically suitable for root growth, but that the maize root system has the genetic potential to develop and extend deeper than $1 0 0 \\mathrm { c m }$ (Hartmann et al.,2008). The deepest layer where conservation tillage affected the aggregate distribution in the current study was precisely in line with these previous studies (Fig. 2). The root system on one hand can change the soil structure, but on the other hand can produce residues and exudates that are critical bonding materials for soil aggregation and provide an energy source for soil microorganisms (Six et al., 2000a; Zheng et al.,2015; Li et al.,2016). Moreover, conservation tillage has beneficial impacts on hydrologic properties, the water infiltration rate, and soil structure (Nath and Lal, 2Ol7), which promotes plant growth and produces more roots than conventional tillge. CT involved two plowings, RT had one plowing, and NT had none. Reduced tillge enhances aggregate stability and produces less compaction, which benefits nutrient exchange between soil levels (Hou et al., 2013). For this reason， RT and NT both showed significant increases in the amount of small macroaggregates compared with CT. Another important factor is the soil pore structure. As reported by Gao et al. (2Ol7), there are many more connected pores in a conservation tillage soil than in a conventional tillage soil, which are crucial for maintaining oxygen content and water movement. The connections between pores in soil enable the delivery of organic nutrition from the upper layer to the deep soil, accelerating aggregate formation. Aggregate formation models assume an approximate formation rate of macroaggregates under NT and CT because the input of residues is practically identical in these two tillage treatments (Six et al., 200ob; Zotareli L et al.,2007). Similarly, in the present study, similar formation rates of macroaggregate were assumed under NT, RT and CT.In models,the ratio of fPOC to cPOC can be used as a relative measurement of macroaggregate turnover. A high ratio of fPOC to cPOC means a slow turnover of macroaggregates (Six et al., 200ob; Zotarelli L et al.,2007). In this study, it was found that the ratios of fPOC to cPOC in small macroaggregates under RT and NT were higher than under CT in all layers. The ratio was almost twice as large as in CT(Table 2) (except for RT in the $0 { - } 1 0 ~ \\mathrm { c m }$ layer and RT and NT in the $4 0 { \\mathrm { - } } 6 0 \\ \\mathrm { c m }$ layer)，meaning that the macroaggregate turnover in RT and NT was approximately twice as slow as in CT. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3Impact of tillage and residue retention on OC in soil aggregates ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The results of this study imply that there are significant differences in the aggregate-associated carbon fractions under CT, RT and NT. In small macroaggregates, the highest OC content was observed under the RT treatment and was significantly increased from the $0 { \\mathrm { - } } 1 0 ~ { \\mathrm { c m } }$ to the 60-80 cm layers compared with that under CT. Due to the application of straw in the field,aggregate formation under RTcan be more efficient and stable than under CT(Table 2).Fresh organic material could be successfully occluded within small macroaggregates (Oortset al.， 2007; Andruschkewitsch et al.，2013）and reduced tillage times,resulted in less disruption of small macroaggregates and a good pore structure under RT and leading to greater OC accumulation (Andruschkewitsch et al.,2014; Gao et al.,2015; Gao et al.,2017). NT significantly increased the OC content in large macroaggregates $( > 2 0 0 0 ~ \\mu \\mathrm { m } )$ in the $0 { - } 1 0 ~ \\mathrm { c m }$ soil layer,and the large macroaggregates were more stable compared with CT,as demonstrated by the higher MWD and GWD (Table 2). These results were in line with the second hypothesis proposed here, i.e., that conservation tillage would result in more SOC being present in macroaggregates. However, NT resulted in the lowest OC content in small macroaggregates for all soil layers except the $0 { - } 1 0 ~ \\mathrm { c m }$ layer. Although straw was left in the NT field, the straw was unbroken, with no tillage treatment, which could have led to less residue decomposition and more transportation between soil layers (Six et al.,2000a; Ayoubi et al.,2012). This could have led to OC accumulation in the surface layer under NT. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The OC content in small macroaggregates under NT was significantly increased compared with that under CT in the $0 { - } 4 0 ~ \\mathrm { c m }$ layers. One reasonable explanation for this result is the higher mass proportion of small macroaggregates under NT than under CT (Fig. 2). RT significantly increased the OC content in small macroaggregates at depths of $0 { - } 1 0 0 ~ \\mathrm { c m }$ compared with CT.In addition to the reduced tillage times under RT,chopping the straw that was mixed into the soil also explained this result. Crop residues directly increased the SOC in aggregates and created a good soil structure for nutrition leaching.In addition, they also played a critical role in binding particles together and offering energy and nutrients for microorganisms,which in turn produced excreta to serve as nucleation sites for aggregates (Andruschkewitsch et al.,2014; Wang et al., 2017). Furthermore, the environmental conditions in this dryland agricultural region should be taken into consideration. Low mean precipitation and high evaporation affect the decomposition rate of exogenous material. These factors led to decomposed organic materials being accumulated in microaggregates and rarely in the silt+clay fraction. In contrast, most OC accumulated in macroaggregates (Zhao et al., 2013; Jiang et al., 2017). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.4Impact of tillage on OC in soil aggregate subfractions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As described in the aggregate formation model proposed by Six et al. (2ooob) and the density fractionation method (Six et al., 1998), macroaggregates are formed around fresh residues, which become cPOC. The decomposition and release of cPOC then generates fPOC. The mSOC is separated from the aggregates with a size ${ > } 5 3 ~ { \\mu \\mathrm { m } }$ . Crop residue can lead to macroaggregate formation because it provides a carbon source for microbes,and microbial activity can generate binding agents for aggregates. The results presented here show that the $< 5 3 ~ \\mu \\mathrm { m }$ fraction in small macroaggregates was highest under RT and was higher under RT and NT than under CT (Fig. 6a). Moreover, RT and NT significantly increased the OC content in fPOC and mSOC down to a depth of $6 0 ~ \\mathrm { c m }$ (Fig. 6b). These results are consistent with the theory presented above and with the third hypothesis presented here, that $\\mathrm { \\ m S O C }$ is the main way to accumulate SOC in dryland soil. These results were in line with those of Li et al. (2Ol6), who conducted an incubation experiment by adding $^ { 1 3 } \\mathrm { C }$ -labeled maize straw residue to carborundum tubes containing soil and found that the OC content derived from residual carbon increased with incubation time and was mainly distributed in the mSOC fraction. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Long-term conservation tillage with residue retention increased SOC contents in deep soil. A significant effect of RT was sustained down to the $6 0 { - } 8 0 ~ \\mathrm { c m }$ layer, while that of NT was sustained down to the $4 0 { - } 6 0 ~ \\mathrm { c m }$ layer. This implies that conservation tillage can increase the SOC content in deep soil compared with CT. The RT treatment significantly increased the amount of small macroaggregates in the layers from 10 to $1 0 0 \\mathrm { c m }$ ,and the number of small macroaggregates in the $0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ layers under NT was higher than under CT. In addition, the MWD and GMD under conservation tillage were higher than under CT at a soil depth of $\\scriptstyle 0 - 8 0 \\ \\mathrm { c m }$ ,which suggested a more stable aggregation with conservation tilage, not only in surface soil, but also in deep soil. RT significantly increased aggregate-associated OC contents in small macroaggregates at a depth of $\\scriptstyle 0 - 8 0 \\ { \\mathrm { c m } }$ compared with CT. The proportion of the $< 5 3 ~ \\mu \\mathrm { m }$ fraction in small macroaggregates and the OC content in fPOC and mSOC were significantly higher under both RT and NT down to a depth of $6 0 \\ \\mathrm { c m }$ . In conclusion, conservation tillage with residue retention improved soil quality by accelerating soil aggregation and SOC sequestration. This agricultural management practice is recommended in dryland soil because of its role in improving soil aggregation and SOC sequestration, which will significantly increase or maintain the maize yield (Fig. 7). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c95b96fc3296d2f6994521ddc6da01a7924e561130202beaea68d8bc3590076.jpg",
+        "img_caption": [
+            "Fig.7Maize yield under CT,RT and NT.Error bars represent the standard error of means $\\scriptstyle ( n = 3 )$ .Different lowercase letters indicate significant differences among the treatments $_ { ( P < 0 . 0 5 ) }$ · "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was supported jointly by the National Key Research and Development Program of China (2018YFD0200408，2016YFD0300804)，the Science and Technology Project (2015BAD22B03)，the Basic Scientific Research Business Expenses of the Chinese Academy of Agricultural Sciences (1610132018024). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abiven S,Menasseri S,Chenu C.O09.Theeectsoforganic inputsovertimeonsoilaggregate stability-Aliteratureanalysis. Soil Biology and Biochemistry,41(1): 1-12.   \nAlvaroFuentesJ,ArreJL,Catero-MartinezC,etal.O08.Aggregatebreakdownduringtillageina Mediterraneanloyoil. Soil and Tillage Research,101(1-2): 62-68.   \nAndruschkewitschR,GeisserD,KochHJ,etal.13.Effectsoftillageoncontentsofrganiccarbon,itrogen,teable aggregates and light fraction for four different long-term trials.Geoderma,192:368-377.   \nAndruschkewitschR,KochHJLudwigB.2014.Effectoflong-terillagetreatmentsonthetemporaldyamicsofater-table aggregates and on macro-aggregate turnover at three German sites.Geoderma,217-218:57-64.   \nAyoubi S,KarcheganiPM,MosaddeghiMR,etal.O12.Soilaggregationandorganiccarbonasafectedbytopographyand land use change in western Iran. Soil and Tillage Research,l21:18-26.   \nBalabane M,PlanteA.2o04.Aggregationandcarbon storage insiltysoil using physical fractionation techniques.European Journal of Soil Science,55(2): 415-427.   \nBalesdent J,Chenu C,Balabane M.2Ooo.Relationshipofsoilorganic matterdynamics tophysicalprotectioandtilage.Soil and Tillage Research, 53(3-4): 215-230.   \nBeare MH,HendrixPF,Cabrera ML,etal.994.Aggregate-protectedandunprotectedorganicmaterpools inconvetionaland no-tillage soils. Soil Science Society of America Journal, 58(3):787-795.   \nBenbiDK,SinghP,ToorAS,etal.2016.Manureandfertilizerapplicationeectsonaggregateandmineral-assocatedrganic carboninaloamy soil under rice-wheat System.Communications in Soil Science and Plant Analysis,47(15):1828-1844.   \nBlanco-Canqui H,LalR.7.Regionalassessmentofsoilcompactionandstructural propertiesundern-tllagefarig.Sil Science Society of America Journal,71(6):1770-1778.   \nBossuyt H,SixJ,HendrixPF.Aggregate-protectedcarboninno-tilageandconventionaltillageagroecosstemsuing carbon-14 labeled plant residue.Soil Science Society of America Journal, 66(6):1965-1973.   \nBronick C J,Lal R.2005.Soil structure and management: a review. Geoderma,124(1-2): 3-22.   \nCambardella CA,EllotET.1993.Carbonand nitrogen distribution inaggregatesfromcultivatedandnative grassandsoils. of America Journal, 50(3): 627-633.   \nFreibauerA,RounsevellA,SmithP,etal.2O4.Carbonsquestrationintheagriculturalsoilsofrope.Geodera(1): 1-23.   \nGao W,Zhou T,RenT.20l5.Conversionfrom Conventional tonotillagealters thermal stabilityoforganic matter nsoil aggregates. Soil Science Society of America Journal,79(2): 585-594.   \nGaoL,BeckerE,LiangG,etal.7.Effectofierentillagesstmsonaggegatestructureandinnerdistrbutionofgaic carbon. Geoderma,288: 97-104.   \nGolchin A,OadesJM,kjemstadJO,etal.1994.Soilstructureandcarboncycling.AustralianJoualofSoilResearch,(5): 1043-1068.   \nHartman C,Poss R,NobleAD,etal.208.Subsoilimprovementinatropicalcoarsetexturedsoil:effectofdeep-ipingand slotting. Soil and Tillage Research,99(2): 245-53.   \nHouX,LiR,JaZtal.3.ctofrottioalilageoilggegatesanicaboadrogenithatea area of China.Pedosphere,23(4): 542-548.   \nHuang S,SunY,RuiW,etal.2O10.Log-termeffctofo-tillageonsoilorganiccarbonfractinsinontiuous maizeoing system of northeast China.Pedosphere,20(3): 285-292.   \nJiang M,Wang X,LisuiY,etal.217.Variationofsoilaggregatioandintra-aggregatecarbonbylong-terfertilzationith aggregate formation in a grey desert soil. Catena,l49: 437-445.   \nLal R.1995.Therole ofresidues management insustainable agricultural systems.Journal of Sustainable Agriculture,5(4): 51- 78.   \nLi S,Gu X,Zhuang J,etal.216.Distributionandstorageofcropresiduecarboninaggregatesanditscontributiontorganic carbon of soil with low fertility. Soil and Tillage Research,155:199-206.   \nLiangCH,YinY,Chen Q.2014.Dynamicsof soil organiccarbon fractionsand aggregates in vegetable cropping systems. Pedosphere,24(5): 605-612.   \nLiu S,Yan C,He W,etal.2015.Efectsof diferenttillage practicesonsoil water-stable aggregationandorganiccarbon distribution in dryland farming in northern China.Acta Ecologica Sinica,35(4): 65-69.   \nMa Q,Yu WT,Zhao SH,etal.2O07.Relationshipbetweenwater-stableaggregatesandnutrients iblack soilsfterrelamation. Pedosphere,17(4): 538-544.   \nMengelD,Barber S.1974.Developmentand distributionof thecorn rootsystem under field conditions.Agronomy Journal, 66(3): 341-344.   \nNath AJ,LalR.2017.Efectsof tilage practicesandlanduse managementonsoil aggegates andsoilorganiccarboninthe north Appalachian region, USA.Pedosphere,27(1):172-176.   \nOades JM.1984.Soil organic matter and structural stability:mechanisms and implications for management.Plant and Soil, 76(1-3): 319-337.   \nOorts K,BossuytHabrecheJ,etal.27.Carboandnitrogenstocksinelatiotorganic materfrctios,ggregatioad pore sizedistribution inno-tillgeand conventional illage in northernFrance.European JournalofSoil Science,58(1):248 259.   \nOuH,Liu X,ChenQ,etal.l6.Water-stableggregatesndaoiatedcarboninasubropicalricesoiludervarbletilge. Revista Brasileira de Ciencia do Solo,40:1-13.   \nPlaza-BonillaD,Alvaro-FuentesJ,Cantero-MartiezC.20l3.Soilaggregatestabilityasaffectedbyfertiizationtypender semiarid no-tillage conditions.Soil Science Society of America Journal,77(1): 284-292.   \nShrestha B,SinghB,SitaulaB,etal.2o7.Soilaggregate-andparticle-associatedorganiccarbonunderdiferentlandusesin Nepal. Soil Science Society of America Journal, 71(4): 1194-1203.   \nSixJ,EllottE,ustianK,etal99.Aggegtioadoilaicateacclatiiniatddtivgrasadils. Soil Science Society of America Journal, 62(5): 1367-1377.   \nSix J,ElliotE,Paustian K.ooa.Soil macroaggregate turnover and microaggregate formation $\\therefore$ a mechanism for c sequestration under no-tillage agriculture.Soil Biology and Biochemistry,32(14):2099-2103.   \nSix J,ElliottE,Paustian K.2Oob.Soil structureandsoilorganic maer:II.Anormalized stabilityindex and theectof mineralogy. Soil Science Society of America,64(3): 1042-1049.   \nSix J,ConantRT,PaulEA,etal.2Oo2.Stabilization mechanismsofsoilorganic mater: implicationsforC-saturationofsoils. Plant and Soil, 241(2): 155-176.   \nSix J,BossutHgeta.Astorysaotene(crogeate,lotadlic matter dynamics. Soil and Tillage Research,79(1):7-31.   \nSuiY,Jiao X,LiuX,etal.Ol2.Water-stableaggregatesandtheirorganicarbodistributionfterfiveyearsofchemical fertilizerand manure treatmentsoneroded farmlandofChinese Molisols.CanadianJournalofSoilScience,92(3):551-557.   \nTisdallJ,OadesJ982.Organic materandwaterstableaggregates insoils.EuropeanJouralofSoilScience,(2):14-163.   \nWang S,LiT,ZhengZ2017.Distributionofmicrobialbiomassandactivityithinsoilaggegatesasaectedbyteaplantation age. Catena,153:1-8.   \nWang W,Chen W,WangK,etal.20l1.Effectsoflong-termfertilizationonthedistributionofcarbon,ntrogenandphosphorus in water-stable aggregates in paddy soil.Agricultural Sciences in China,10(12):1932-1940.   \nWangX,OenemaO,HogmoedW,etal.o.Duststormerosionanditsimpactonsilcarbonandnitrogenlossesiorth China. Catena,66(3):221-227.   \nWang X,DaiK,ZhangD,etal.20l1.Dryland maizeyieldsand wateruse eficiencyinresponsetotilage/cropstubbleand nutrient management practices in China.Field Crops Research,120(1): 47-57.   \nYang Z,ZhengS,NieJ,etal.2014.Efectsoflong-termwinterplantedgrenmanureondistributionandstorageoforganic carbonandnitrogenin water-stableaggregatesofreddishpaddysoilunderadouble-ricecroppingsystem.JouralofIntegrative Agriculture,13(8): 1772-1781.   \nYazdanpanahN,MahmoodabadiM,CerdaA.2016.Theimpactoforganicamendmentsonsoilhydrology,structureandmicrobial respiration in semiarid lands.Geoderma,266:58-65.   \nYoungIM,RitzK.2ooo.Tilage,habitatspaceand functionofsoilmicrobes.SoilandTillageResearch,53(3-4):201-213.   \nYu W,LiG,WangB.0l5.Componentcharacteristicsofsoillabileandecalcitrantcarbonunderlongterdiferentertiation systems in eastern China.Plant Nutrition and Fertilizer Science,21(3): 675-683.   \nZhao J,Chen S,HuR,etal.2Ol7.Aggegatestabilityandsizedistributionofredsoilsunderdiferentlandusesintegrally regulated by soil organic matter,and iron and aluminum oxides.Soil and Tillge Research,167: 73-79.   \nZhao Z,ZhaoC,YanY,etal.Ol3.Interpretingthedependenceofsoilresprationonsoiltemperatureandmoisture inaoasis cotton field, Central Asia.Agriculture,Ecosystems & Environment,168(11):46-52.   \nZhengL,WuW,WeiY,etal.2O15.Effectsofstrawreturandregionalfactorsonspatio-temporalvariabilityofsoilorganic matter in a high-yielding area of northern China. Soil and Tillage Research,145:78-86.   \nZhu G,Shangguan Z,DengL.217.Soilaggregate stabilityandaggregate-associatedarbonandnitrogen innaturalrstoation grassland and Chinese red pine plantation on the Loess Plateau.Catena,149:253-260.   \nZotareiL,Alves B,UquagaS,etal.2Oo.Impactofillagendootationonlightfrctioandintraaggregatesilnic matter in two Oxisols. Soil and Tillage Research,95(1-2):196-206. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

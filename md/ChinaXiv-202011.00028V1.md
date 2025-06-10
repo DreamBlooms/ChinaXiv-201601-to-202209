@@ -1,0 +1,254 @@
+# 工作嵌入的影响结果及其理论解释1
+
+吴论文」杨付」田薏欣² 裴玉蓉
+
+(西南财经大学工商管理学院，成都 611130)(中国人民大学劳动人事学院，北京 100872)
+
+(成都师范学院，成都 611130)
+
+摘 要 近年来，工作嵌入（Job embeddedness）作为解释员工离职和留职的新视角，逐渐受到理论界与实务界的广泛关注和探讨。根据内容分析法（Content analysis），系统梳理了国内外176篇工作嵌入相关文献，分别从研究视角、内容分析和发展方向三个方面评述工作嵌入的影响结果。基于此，总结出六种理论视角：资源保存理论、社会资本理论、计划行为理论、工作-角色依附理论、未来时间透视视角和传染过程视角。以内容分析的方式呈现关于工作嵌入研究的发展趋势和不同视角下工作嵌入影响结果的具体研究情况。未来研究应进一步构建团队工作嵌入理论模型、聚焦跨文化比较下工作嵌入的溢出效应、关注工作嵌入的双刃剑效应以及突出子维度差异化作用。
+
+关键词工作嵌入，影响结果，理论视角，内容分析
+
+1引言
+
+针对组织管理备受关注的离职问题，学者们先后从工作态度入手，围绕离职原因做出了很多努力。然而，传统离职模型（态度变量等）的解释力度相对有限，未能有效揭示员工离职的内在机理。直到工作嵌入理论的明确提出，深入阐释阻止个体离开工作的各种力量集合(Mitchellet al.,2001)。作为近年来在离职研究领域中使用频率颇高和研究较深的理论，工作嵌入不仅突破了传统离职模型视角，而且在一定程度上代表了离职研究的发展方向，也被认为是解释个体行为和态度更为有效的理论，因而得到广泛研究(杨春江，刘丹，毛承成,2019;Linder, 2019)。
+
+大量研究表明，工作嵌入作为一种积极的工作状态，能有效提高员工工作投入(Tabak&Hendy,2016),改善工作绩效(Lee & Huang,2019; Tian et al.,2016)，降低离职意愿(Afsar, et al,2018;Hussin,&Deery,2017)以及促进组织公民行为(Kapil&Rastogi,2018)。鉴于工作嵌入对于组织管理的重要作用，学者们从不同角度对已有文献进行了回顾和凝练。例如，Ghosh和 Gurunathan(2012)针对 2001-2011期间的研究成果，概括了工作嵌入的前因、中介、效果以及调节机制；Zhang,Fried 和 Griffeth(2012)比较了工作嵌入不同测量方式的差异以及在不同文化下的权变作用。这些评述在一定程度上总结了工作嵌入的研究现状。然而，遗憾的是，已有研究仍缺乏关于工作嵌入影响结果理论基础和逻辑解释的系统性和针对性分析，加之近年来研究趋势扩大，现有评述对工作嵌入新进展覆盖有限，以至未能有效阐释多层次工作嵌入作用机制的关键路径、工作嵌入单维度的预测效果以及跨文化比较下工作嵌入溢出效应等问题。
+
+基于上述问题，根据内容分析法(Gardner etal.,2011；吴论文，杨付,2019)，我们围绕国内外176篇中英文工作嵌入相关文献进行梳理，主要从以下三个方面进行分析和阐释：首先，我们试图通过对工作嵌入相关文献的系统回顾和内容分析，以期提供关于工作嵌入影响结果研究的整体发展趋势和现状。其次，基于国内外研究进展，本文紧密围绕工作嵌入影响结果的核心问题，根据不同理论基础进一步阐释工作嵌入影响结果的作用过程。最后，结合研究现状和前文分析，本文探索性提出了关于工作嵌入影响结果的未来研究建议。通过以上工作，以期为未来研究提供发展方向和重要启示。
+
+# 2 文献搜索与筛选
+
+# 2.1识别（Identification）
+
+总体而言，本研究文献回顾过程受PRISMA 声明指导(Moher etal.,2010)。文献检索仅限于语言为（中文和英文）以及发表时间在1993 年到 2020年之间的文章，1993年被选为起点年限是因为 Gubrium 和 Holstein(1993)首次提出了 organizational embeddedness 概念。中文检索主要是基于中国知网、万方数据库和维普中文科技期刊数据库，以“工作嵌入”、“组织嵌入”、“职业嵌入”为检索词；英文检索主要基于Web of Science、ProQuest、EBSCO和JSTOR，以“jobembeddedness”、“organizational embeddedness”、“organizationembeddedness”、“occupational embeddedness"为检索词。上述初步检索（Initial search）获得英文文献653 篇，中文文献1180 篇。
+
+# 2.2筛选（Screening）
+
+基于初步检索获得的中英文文献，剔除不同数据库中英文重复文献 235篇，中文重复文献 738篇；通过阅读标题和摘要，剔除不符合要求的英文文献128篇，中文文献96篇。筛选得到英文文献 290 篇，中文文献346 篇。
+
+# 2.3合格（Eligibility）
+
+本研究使用了一系列保留和剔除标准，旨在检查题目、摘要和全文文章的适用性，具体包括：（1）根据Gardner 等(2011)在内容分析法中的观点，剔除中英文会议论文和学位论文文章；（2）为了更准确回顾具有更高影响力的管理学和应用心理学期刊文献，中文文献仅筛选《中国学术期刊影响因子年报》（2019 年）心理学影响因子前五以及管理学影响因子前十五的期刊文献；（3）本研究聚焦于管理学和心理学研究，以工作嵌入为核心研究的该领域文献被保留。至于那些虽然包含了上述搜索过程所使用的关键词，但是内容与本领域研究无相关性的被剔除。通过以上步骤，英文文献剩余149篇，中文文献剩余 24 篇。
+
+# 2.4保留（Inclusion）
+
+通过阅读已筛选文章的参考文献，人工搜索获取3篇英文文献(Johnson et al.,2010;Mitchell& Lee,2001;Wijayanto& Kismono,2004)。最终，共计176 篇全文文献（英文152篇，中文24 篇）被保留。上述系统文献搜索流程，如图1所示：
+
+![](images/2fbcda2005f41701c0572932c43d2f91461556f55856afafdd0d28210c3724c2.jpg)  
+图1文献系统搜索流程注：截止日期为2020年5月26日
+
+3内容分析
+
+内容分析法是一种基于定性研究的量化分析方法，通过将文字表示的非数量化资料转化成数量表示资料以弥补定性研究的不足(Harwood&Garry,2003)。本研究试图通过“内容分析法”系统梳理176 篇工作嵌入相关文献，以客观、量化信息呈现关于工作嵌入研究者所属国家、对应研究领域以及研究样本区域发展情况（表1），进一步地，通过比较不同年份关于不同理论视角下工作嵌入影响结果的研究分布情况（表2），对比理论基础差异下工作嵌入的作用机制，摘选不同理论基础下引用率靠前的文献进行介绍（表3），从而为实证研究提出一些有效建议。
+
+表1作者所在国家、研究领域及样本国家分布  
+
+<html><body><table><tr><td rowspan="2">作者数量</td><td colspan="5">时间</td><td rowspan="2"></td></tr><tr><td>2012及 以前</td><td>2013-2014</td><td>2015-2016</td><td>2017-2018</td><td>2019及 合计 以后</td></tr><tr><td>所在国家</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>美国</td><td>83</td><td>11</td><td>24</td><td>22</td><td>16</td><td>156</td></tr><tr><td>中国</td><td>20</td><td>9</td><td>14</td><td>12</td><td>31</td><td>86</td></tr><tr><td>澳大利亚</td><td>5</td><td>6</td><td>11</td><td>15</td><td>1</td><td>38</td></tr><tr><td>土耳其</td><td>8</td><td>4</td><td>6</td><td>6</td><td>4</td><td>28</td></tr><tr><td>中国香港</td><td>10</td><td>3</td><td>2</td><td>1</td><td>2</td><td>18</td></tr><tr><td>南非</td><td>1</td><td>3</td><td>5</td><td>3</td><td>2</td><td>14</td></tr><tr><td>英国</td><td>3</td><td>0</td><td>2</td><td>3</td><td>0</td><td>8</td></tr><tr><td>德国</td><td>0</td><td>1</td><td>4</td><td>2</td><td>1</td><td>8</td></tr><tr><td>印度</td><td>0</td><td>0</td><td>3</td><td>1</td><td>3</td><td>7</td></tr><tr><td>日本</td><td>1</td><td>1</td><td>1</td><td>2</td><td>0</td><td>5</td></tr><tr><td>葡萄牙</td><td>0</td><td>0</td><td>4</td><td>1</td><td>0</td><td>5</td></tr><tr><td>泰国</td><td>0</td><td>0</td><td>3</td><td>1</td><td>0</td><td>4</td></tr><tr><td>以色列</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>3</td></tr><tr><td>中国台湾</td><td>0</td><td>1</td><td>2</td><td>0</td><td>2</td><td>5</td></tr><tr><td>中国澳门</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td></tr><tr><td>其他</td><td>4</td><td>3</td><td>9</td><td>22</td><td>11</td><td>49</td></tr><tr><td>合计</td><td>139</td><td>43</td><td>90</td><td>91</td><td>74</td><td>437</td></tr><tr><td>研究领域</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>管理</td><td>95</td><td>34</td><td>67</td><td>47</td><td>56</td><td>299</td></tr><tr><td>心理学</td><td>18</td><td>6</td><td>14</td><td>9</td><td>5</td><td>52</td></tr><tr><td>商业</td><td>19</td><td>2</td><td>2</td><td>5</td><td>8</td><td>36</td></tr><tr><td>社会学</td><td>8</td><td>0</td><td>0</td><td>2</td><td>0</td><td>10</td></tr><tr><td>教育</td><td>1</td><td>1</td><td>3</td><td>2</td><td>1</td><td>8</td></tr><tr><td>其他</td><td>17</td><td>3</td><td>11</td><td>23</td><td>16</td><td>70</td></tr><tr><td>样本国家</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>美国</td><td>18</td><td>8</td><td>5</td><td>8</td><td>9</td><td>48</td></tr><tr><td>中国</td><td>8</td><td>2</td><td>7</td><td>7</td><td>15</td><td>39</td></tr><tr><td>南非</td><td>0</td><td>1</td><td>4</td><td>3</td><td>2</td><td>10</td></tr><tr><td>印度</td><td>1</td><td>1</td><td>3</td><td>2</td><td>0</td><td>7</td></tr><tr><td>土耳其</td><td>0</td><td>1</td><td>3</td><td>3</td><td>0</td><td>7</td></tr><tr><td>伊朗</td><td>2</td><td>1</td><td>0</td><td>2</td><td>3</td><td>8</td></tr><tr><td>泰国</td><td>0</td><td>1</td><td>3</td><td>1</td><td>0</td><td>5</td></tr><tr><td>日本</td><td>0</td><td>1</td><td>2</td><td>1</td><td>0</td><td>4</td></tr><tr><td>中国台湾</td><td>0</td><td>1</td><td>2</td><td>0</td><td>0</td><td>3</td></tr><tr><td>中国澳门</td><td>1</td><td>0</td><td>0</td><td>0</td><td>2</td><td>3</td></tr><tr><td>英国</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>2</td></tr><tr><td>其他</td><td>7</td><td>1</td><td>1</td><td>6</td><td>10</td><td>25</td></tr><tr><td>合计</td><td>38</td><td>18</td><td>30</td><td>34</td><td>41</td><td>161</td></tr></table></body></html>
+
+注：作者根据相关资料整理所得
+
+鉴于本文重点关注工作嵌入影响结果的理论解释，由此我们最终梳理的文献主要是围绕工作嵌入的影响结果。其中，涉及工作嵌入影响结果研究的英文文献为46篇，中文文献为8篇。进一步地，关于资源保存理论中英文文献22篇，计划行为理论和社会资本理论中英文文献各4篇，工作-角色依附理论和传染过程视角中英文文献各3篇，未来时间透视视角理论中英文文献2篇。具体详见表2。
+
+表2不同理论基础的工作嵌入影响结果  
+
+<html><body><table><tr><td rowspan="2">理论基础</td><td colspan="6">时间</td></tr><tr><td>2012及 以前</td><td>2013-2014</td><td>2015-2016</td><td>2017-2018</td><td>2019及 以后</td><td>合计</td></tr><tr><td>资源保存理论</td><td>1</td><td>2</td><td>8</td><td>8</td><td>3</td><td>22</td></tr><tr><td>计划行为理论</td><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td><td>4</td></tr><tr><td>社会资本理论</td><td>3(1)</td><td>1</td><td>0</td><td>0</td><td>0</td><td>4</td></tr><tr><td>工作-角色依附理论</td><td>2</td><td>0</td><td>1(1)</td><td>0</td><td>0</td><td>3</td></tr><tr><td>传染过程理论</td><td>1</td><td>1</td><td>0</td><td>1</td><td>0</td><td>3</td></tr><tr><td>未来时间透视理论</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>2</td></tr></table></body></html>
+
+注：表格数字为该年份中英文文献总量，括号内数字为该年份中文文献数量；作者根据相关资料整理所得
+
+# 4 理论视角
+
+# 4.1资源保存理论
+
+根据资源保存理论（Conservation of resources theory），人们总是努力获取、培育和保护其认为宝贵的资源，无论是资源潜在或实际的损失，都将引起个体的紧张和压力(Hobfoll,1989;Hobfoll etal.,2018)。其中，工作嵌入的联结维度和匹配维度属于工具性资源（Instrumental resources），分别代表关系资源和归属资源，牺牲维度代表资源损失(Hobfoll etal.,2018)。因此，高程度的工作嵌入是一种资源丰富的状态(Mitchell et al.,2001; Coetzer et al,2019)，它凭借有形或无形的资源汇聚成个体与组织的联系网络(Mosakowski,1993)。在资源保存理论视角下，工作嵌入的影响结果主要从四个方面展开。第一是工作态度。已有研究发现员工工作嵌入不仅提高了员工的工作投入(Tabak&Hendy,2016)，而且能降低他们的离职意愿(Cheng& Yi,2014; Coetzer et al.,2019; Dechawatanapaisal,2018)。这是因为，工作嵌入程度越高，社会联系资源（Socialties）、角色特定技能资源（Job skills）等将越高，有助于资源投资增值过程的有效实施(Long et al.,2019; Tabak& Hendy,2016)，并且这些现有资源很难在新的组织中重新建立，因而员工不会愿意冒着损失已有资源的风险，轻易离开当前组织(Cheng& Yi,2014; Coetzer et al.,2019; Dechawatanapaisal,2018)。第二是工作绩效。拥有丰富资源的员工在面对工作挑战时通常表现出更强的自信和积极的工作态度，他们通过社会关系来获取更多额外的工作信息和支持资源，以提升关键技能储备和问题解决能力，从而改善工作绩效(Tian et al.,2016;Cheng& Yi,2014)。第三是工作压力。员工的工作嵌入对于工作压力具有显著的缓冲作用，随着员工的工作嵌入程度加强，他所拥有的工作资源储备能够有效应对工作压力或工作超载带来的潜在工作需求（Work demands）损耗(Cheng,Yi,&Chang,2016)。第四是工作行为。高工作嵌入的员工具有广泛而深入的社交网络、组织发展匹配的特定技能以及较强的工作动力，他们表现出更多的组织公民行为(Kapil,&Rastogi,2018; Kiazad et al.,2015)、创新行为(Ampofo et al.,2018; Coetzer et al.,2018；刘宗华 等,2018;Ng,&Feldman,2010)，而且降低其反生产力行为(Kiazad etal.,2015)。基于资源保存理论核心观点，具有充裕工具性资源的个体倾向于不断投入自身资源以获取更多资源(Hobfoll et al.,2018)。值得一提的是，由于工具性资源确保了高工作嵌入员工组织公民行为或创新行为的有效实施(Ampofo et al.,2018; Coetzer et al.,2018; Kapil & Rastogi,2018; Kiazad et al.,2015),这不仅有助于向同事分享创新构想、传递积极称职的良好形象，还能够以此获得更多额外有价值的资源(如加薪、福利、工作保障、晋升和领导支持)(Halbesleben et al.,2014)，最终形成良性循环。
+
+# 4.2计划行为理论
+
+计划行为理论（Planned behavior theory）指出，行为意向（Behavioral intention）是预测和解释个体行为最直接的因素，主要受行为态度和主观规范的影响(Ajzen,1991)。根据计划行为理论，我们分别从离职行为和主动工作行为两个方面来理解工作嵌入的作用机制。一方面，员工的离职行为并非一时冲动，而是受多种因素影响后的综合行为。研究表明，员工离职意愿与工作嵌入负相关，并且离职意愿中介了工作嵌入与离职行为间的关系。(Dechawatanapaisal,2017; Peltokorpi et al.,2015)。具体来说，相较于高工作嵌入员工而言，低工作嵌入反映了个体价值观与职业目标、组织文化契合程度更低，组织内外连接更少，且辞职造成的成本也越低(Ferreira et al.,2017; Mitchell et al.,2001)。因而，变更工作所需对抗的物质和情感损失，将不会成为产生离职意愿的阻碍(Zhang et al.,2012)。不仅如此，员工提前回国作为跨国组织外派员工离职的一种特殊形式也会受到离职意愿影响(Hom et al.,2012)。Meuer 等(2019)指出，低工作嵌入的外派员工更容易受到文化与环境差异的强烈冲击，加剧在国外工作的不适应性，萌生提前回国的离职意愿，进一步地，这种离职意愿将驱使其解除雇佣关系，实施离职行为。另一方面，高工作嵌入意味着个体与工作之间的高度匹配以及社会网络的密切关系，实际上就是一种积极工作态度的标志，促使个体具有强烈的责任感和意愿去实施主动工作行为(Jia etal.,2020)。
+
+# 4.3社会资本理论
+
+社会资本理论（Socialcapitaltheory）指出，社会资本是个体通过社会互动关系，从社会关系网络中获取的资源总和(Nahapiet&Ghoshal,1998)。目前，有学者将社会资本理论的研究延伸到创业领域，探究社会资本对于创业实施以及创业绩效的重要作用(Mai& Zheng,2013)。相较于低工作嵌入员工，高工作嵌入员工在原行业积累的工作经验、关键行业知识以及社交网络资本，能够为其识别创业信息、发现市场需求、挖掘创业机会提供有力保障(Ardichvili etal.,2003；买忆媛 等,2009)。进一步地，当这些员工开展同行业创业活动时，能够更好利用其在原职业中积累的社会资本，如客户、技术、市场资源和行业管理规范等，这有助于他们以更高效的方式运用财务资本、人力资本和运营资本等，从而提高资金使用效率，降低运营成本，获得竞争优势，实现创业成功(Mai& Zheng,2013；张鹏，邓然，张立琨,2015)。然而，创业者先前的工作经验与创业周期的关系可能受“工作嵌入”因素的“消极影响”(买忆媛，辜雪娜,2011)。这是因为，只有当创业的收益明显大于创业者从事原工作的机会成本时，他才会有更强的创业动力开展创业活动，在面对高创业风险与转换成本时，高工作嵌入者在原行业中积累的社会资本以及特定职业工作技能的局限，都将阻碍其创业活动的推进进度，致使创业周期跨度拉长(Janasz& Sullivan,2004；买忆媛，辜雪娜,2011)。因此，创业者若想顺利推进企业的初创和成长，需巩固“雇员”的综合管理能力(买忆媛，辜雪娜,2011)，均衡岗位技能，加强对市场环境的适应能力以及对社会资本的整合运用能力。
+
+# 4.4工作-角色依附理论
+
+工作-角色依附理论（Work-role attachment theory）表明，个体对工作的投入程度会增加他们对工作角色的依恋连接，加强组织依附感，由此抗拒如退休、转业等离开当前组织的行为(Adams et al.,2002; Carter & Cook,1995;Wang et al.,2019)。为了降低人力资源需求的匹配风险，避免由于具有丰富经验或关键技能的老员工退休所带来的人力资本流失问题，研究工作嵌入对退休行为的影响机制显得格外重要。根据工作-角色依附理论，工作嵌入主要从两个方面来阻碍退休行为(Bamberger& Bacharach,2014; Smith et al.,2011)。第一，就高工作嵌入个体本身而言，长期以来，他们与组织之间形成的高度匹配和情感纽带，很难在其他地方得以复制。退休意味着脱离朝夕相处的组织和熟悉的同事，承受角色转变所带来的挑战，并且可能会遭遇因此产生的不适应情绪和社会孤独感，这对于习惯以工作为中心的高工作嵌入个体来说是难以接受的(Smith etal.,2011)。第二，就组织而言，组织设置的分段退休（Phasedretirement）、任务挑战（Jobchallenge）以及第二职业生涯培训（Second-career）模式将有效促进老员工的工作嵌入程度提升，使得他们觉得工作灵活性更强、工作更有意义以及更能适应组织发展，进而拒绝退休选择(Helman etal.,2008)。特别的，当高工作嵌入军人面对部队转业变动时，出于军人的特殊情感、特定技能局限性以及转业成本考虑，他们会倾向于继续留在部队(Smith etal.,2011)。
+
+# 4.5未来时间透视理论
+
+未来时间透视（Future time perspective）是指个体对未来目标的预期，是一种员工对组织未来发展的期望，主要表现为有价值的未来目标对当前计划的激励作用(Seijts,1998)。随着员工工作嵌入程度提升，他们会产生将自己视为核心组织成员的强烈责任感，并通过类似建言等方式来主动参与企业管理，努力提高公司绩效(段锦云，凌斌,2011)。在未来时间透视视角下，员工工作嵌入与建言行为正相关(Ng&Feldman,2013)，并且学习目标导向(Learninggoals orientation）在员工工作嵌入与建言行为间起着中介作用(Ng&Lucianetti,2018)，这种作用机制可以从两个方面来理解。一方面，为了不断改善组织运行效率，促进组织长远发展，高工作嵌入员工出于对组织流程的熟悉以及在社交网络中的有利位置(Ng&Feldman,2007)，他们将采取切实可行的建言方式来展示自身价值，从而巩固组织地位，确保他们当前的工作回报能够持续到未来(Ng&Feldman,2013a)。另一方面，基于未来时间透视视角，高工作嵌入员工认为他们的未来将与组织未来紧密相连，只有组织蓬勃发展才能为他们提供更多职业资源(Halbesleben&Wheeler,2008)。因此，他们将有更有动力积极制定学习目标，将建言视为扩充自身知识的重要机会和有效途径(Rusk&Rothbaum,2010)，不断提高工作技能和知识以适应组织进步(Ng& Lucianeti,2018)。
+
+# 4.6传染过程视角
+
+传染过程模型主要包括离职传染模型（Turnover contagion model）和嵌入传染模型（Embeddedness contagion model）。社会比较理论的核心在于个体倾向于与他人比较，并使用他人的观点和行为信息来评估自己，以维持稳定和准确的自我评价(Festinger,1954)。基于此，Felps 等(2009)提出了离职传染模型，即“离职”如同疾病传染一样，将不断传递、相互传染。研究发现，同事的求职行为在同事工作嵌入与离职间起着中介作用，在工作嵌入程度较低的环境中，随着个体目睹同事求职行为的概率增加以及彼此交互影响，将诱发员工的离职打算(Felps et al.,2009)。此外，社会信息加工理论认为，个体的态度和行为依赖于对所处社会环境信息的解读(Pfeffer,1978)，不同的社会暗示将指导其采取对应的态度或行为。基于上述理论观点，主管的工作嵌入将为员工提供重要信号和“传染”线索，表明组织具有令人钦佩的品质，以吸引优秀人才存在较高的组织情感依附(Ng&Feldman,2013a)。作为追随者，他们在不断观察-交流-判断过程中逐渐相信公司有能力帮助其实现目标，进而增强组织信任，提高工作嵌入，并努力为这种雇佣关系投入更多的时间和精力，最终形成积极的“嵌入传染”过程(Ng& Feldman,2013a; Schoorman,& Davis,2007)。
+
+工作嵌入影响结果的主要理论视角、研究者以及研究结果，详见表3。
+
+表3工作嵌入影响结果的研究理论视角  
+
+<html><body><table><tr><td>理论视角</td><td>理论基础</td><td>研究者</td><td>自变量</td><td>中介变量 结果变量</td><td>引用次数</td></tr><tr><td rowspan="7">资源保存理论</td><td>人们总是努力获取、培育和保护其认为宝贵的资源，无论 是资源潜在或实际的损失，都将引起个体的紧张和压力 (Hobfoll, 1989; Hobfoll et al., 2018)</td><td>Harris et al., 2011</td><td>工作嵌入</td><td>工作满意度、离职意 愿、实际离职率</td><td>92</td></tr><tr><td></td><td>Kiazad et al., 2015</td><td>工作嵌入</td><td>离职、组织公民行为、</td><td>51</td></tr><tr><td>Ng&Feldman,2014</td><td></td><td>工作嵌入</td><td>反生产行为 工作动力，社交网络</td><td>25</td></tr><tr><td>Tian et al., 2016</td><td></td><td>工作嵌入</td><td>行为</td><td></td></tr><tr><td>Thakur & Bhatnagar, 2017</td><td>工作嵌入</td><td></td><td>工作绩效 留职意愿</td><td>23 11</td></tr><tr><td>Cheng,2014</td><td>工作嵌入</td><td></td><td>销售绩效、离职</td><td>13</td></tr><tr><td>Ghosh, 2017</td><td>工作嵌入</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>亲组织非伦理行为</td><td>11</td></tr><tr><td></td><td></td><td>Ampofo et al., 2017</td><td>工作嵌入</td><td>生活满意度</td><td>9</td></tr><tr><td></td><td></td><td>Ghosh et al., 2017</td><td>工作嵌入</td><td>角色绩效</td><td>8</td></tr><tr><td></td><td></td><td>Greene et al., 2018</td><td>工作嵌入</td><td>任务绩效、关系绩效</td><td>4</td></tr><tr><td>计划行为理论 行为意向是预测和解释个体行为最直接的因素，主要受行</td><td></td><td>Jiang et al., 2012</td><td>工作嵌入</td><td>离职意愿 离职行为</td><td>139</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2"></td><td>为态度和主观规范的影响(Ajzen,1991)。</td><td>Peltokorpi et al., 2015</td><td>工作嵌入</td><td>离职意愿</td><td>离职行为</td><td>35</td></tr><tr><td>社会资本理论个体通过社会互动关系，从社会关系网络中获取的资源总买忆媛，辜雪娜, 和(Nahapiet & Ghoshal,1998)。</td><td>2011</td><td>工作嵌入</td><td></td><td>创业活动的集中性和 时间跨度</td><td>39</td></tr><tr><td rowspan="3">工作-角色依附理论</td><td></td><td>Mai & Zheng, 2013</td><td>工作嵌入</td><td></td><td>实施创业、创业绩效</td><td>5</td></tr><tr><td>个体对工作的投入程度会增加他们对工作角色的依恋连 接，加强组织依附感，由此抗拒如退休、转业等离开当前</td><td>Smith et al., 2011</td><td>工作嵌入</td><td></td><td>退休</td><td>32</td></tr><tr><td>组织的行为(Carter & Cook,1995; Adams et al.,2002; Wang et al.,2019)</td><td>Bamberger & Bacharach, 2014</td><td>工作嵌入</td><td></td><td>退休</td><td>7</td></tr><tr><td>传染过程视角</td><td>离职传染模型和嵌入传染模型。</td><td>Felps et al., 2009</td><td>工作嵌入 感知主管工作嵌</td><td>目睹同事的 求职行为</td><td>离职行为</td><td>223</td></tr><tr><td rowspan="3">的激励作用。</td><td>未来时间透视理论 个体对未来目标的预期，是一种员工对组织未来发展的期 Ng&Feldman,2013a</td><td>Ng & Feldman,2013a</td><td>入</td><td>组织信任</td><td>员工工作嵌入</td><td>55</td></tr><tr><td>望(Seijts,1998)，主要表现为有价值的未来目标对当前计划,</td><td></td><td>工作嵌入</td><td></td><td>建言行为</td><td>55</td></tr><tr><td></td><td>Ng &Lucianetti, 2018</td><td>工作嵌入</td><td>学习目标导 向</td><td>建言行为</td><td>4</td></tr></table></body></html>
+
+注：表中梳理内容为引用频次不低于3次的文献（引用频次截止日期为2020年5月26日），其中，英文文献引用频次数据来源于Web ofScience；中文文献引用频次数据来源于中国知网(CNKI)；作者根据相关资料整理所得
+
+# 5 理论思路
+
+结合内容分析和视角探究可以发现，不同理论视角观点明确，但各有侧重，且解释范畴存在明显差异，那么以上六种理论视角的逻辑解释思路是怎样的呢？究竟哪种理论视角对于解释工作嵌入影响结果的作用机制适用性更强呢？
+
+总的来说，第一，资源保存理论认为，无论是资源潜在或实际的损失，都将导致个体的紧张和压力(Hobfoll,1989)。该理论主要是从资源流动的角度分析工作嵌入对态度和行为的作用机制。当高工作嵌入员工面对不同工作需求时，一方面，他们所拥有的关键资源有助于缓解工作压力；另一方面，他们也会通过类似于提高工作投入和实施创新行为的方式，积极投资资源来获取更多有用资源。该理论不仅可以解释个体应对工作需求时的资源运用，而且对于自身资源投资行为具有一定预测力。因此，相比其他理论视角，资源保存理论视角能够更全面的揭示个体工作嵌入的作用机制。第二，传染过程视角侧重强调社会环境因素对个体态度和行为的影响，包括个体与社会环境之间的“交互过程”。基于离职传染模型观点，在低工作嵌入程度的环境中，“离职”如同疾病传染，将诱发员工离职打算(Felps et al.,2009)。相反，根据社会信息加工理论，个体的态度和行为依赖于对所处社会环境信息的解读(Pfeffer,1978)，进而采取对应的态度或行为。主管工作嵌入作为重要信号和“传染”线索，将促进员工工作嵌入程度提升，为此投入更多工作时间和精力，最终形成积极的“嵌入传染”过程。第三，在计划行为理论视角下，行为意向是预测和解释个体行为的最好方式(Ajzen,1991)。简单来说，个体是否离职主要取决于有无离职意愿，高工作嵌入个体与组织的高度匹配，加上高昂的离职成本将阻碍离职意愿产生。第四，未来时间透视理论和工作-角色依附理论突出了员工对组织的期望或依恋关系，这种期望或依恋关系将激励他们留在当前组织，做出更多有利组织的行为，进而促进组织发展和巩固自身位置。第五，社会资本理论为探究社会资本积累对于创业过程的有效性和局限性提供了一个思路。高工作嵌入员工在原行业积累的社会资本有助于创业过程的有效实施，然而，这些社会资本也会在一定程度延缓其创业决策和创业进度。
+
+尽管以上理论视角为工作嵌入的作用机制提供了较为全面的解释，然而，现有研究仅从单一理论基础入手，相对缺乏关于整合理论视角的探讨，使得理论的解释力受到一定局限。因此，未来研究可以进一步探索工作嵌入整合理论以增强理论基础的适用性。例如，杨付等(2012)以交易成本理论和领导成员交换理论的整合理论视角出发，为解决员工职业发展过程中“边界困境”问题提供了有力支撑(杨付 等,2012)。
+
+此外，为了更全面理解工作嵌入的作用机制，我们建议未来研究还可以基于社会学习理论和“过犹不及”视角来探讨工作嵌入的影响结果。具体来说，社会学习理论(Social learmingtheory)认为，人的复杂行为不仅来自直接经验，也可以通过观察、学习和模仿示范者的方式习得(Bandura,1977)，这显然有助于“成员-成员”工作嵌入传导的有效实施。同时，Grant和 Schwartz(2011)强调，即使是那些被视作“积极”的变量，当其积极作用到达临界点后将产生“过犹不及”效应（Too-much-of-a-good-thing effect）。这种观点也为未来研究提供了一种重要思路，工作嵌入一定是有益的吗？从这两种理论视角出发，我们将在“未来展望”部分进一步分析工作嵌入的作用机制。
+
+# 6未来展望
+
+工作嵌入主要是从员工为什么留职的角度来解释员工的离职行为，被看作是留职力量的高阶集合，这对于回答“员工为什么留职”和“员工为什么离职”提供了一个全新且更为系统的视角。通过对工作嵌入相关文献的系统性回顾与梳理，我们从研究方法、内容分析和研究视角三个主要方面加以分析，旨在呈现国内外学术界关于这一主题的研究现状和发展情况。尽管已有关于工作嵌入的研究已取得一定成果，但该领域仍处于发展阶段，有不少问题尚待进一步探讨和解决。基于上述梳理以及前瞻趋势，我们根据不同理论基础和视角，从构建团队模型、跨文化比较下的溢出效应、双刃剑效应理论机制和子维度作用机制四个方面提出以下研究展望。同时，为了更全面呈现工作嵌入影响结果的研究进展、理论视角以及未来发展方向，我们总结出工作嵌入影响结果的研究整合模型（见图2）。
+
+图2工作嵌入影响结果的研究整合模型  
+![](images/1a7a062793b483001394e58321e92159de20df8896243f28a8f53174a6df9a0c.jpg)  
+注：作者根据相关资料整理所得
+
+# 6.1构建团队工作嵌入模型：基于平行与垂直的传导路径视角
+
+实际工作中，组织任务通常是以团队为基础工作单元，通过相互协作的方式共同完成(Lawler&Finegold,2000)。团队中的工作态度、情绪、行为等具有一定的人际传导性(王桢,2012)。然而，回顾关于工作嵌入影响结果的研究发现，鲜有探讨团队层面工作嵌入的作用机制。因此，我们认为可以基于不同理论基础，探讨工作嵌入“成员-成员”平行传导路径和“领导-下属”垂直传导路径，从而更全面分析工作嵌入的团队有效性问题。
+
+由于高层级构造具有集体或集合的性质，能够通过较低层级结构积累形成(Kozlowski&Klein,2000)。因此，我们认为关于个体层面的工作嵌入作用机制可以通过“成员-成员”平行传导的方式上升到团队层面，进而提升团队效能，主要包括以下三种作用过程。首先，根据资源保存理论(Hobfoll,1989)，当高工作嵌入个体拥有的工作资源超过工作需求时，他们会将额外的工作资源投资到团队工作中，表现出更多的角色外行为，比如提供社会支持、工作反馈、主动指导等(Halbesleben et al.,2009)。这些人际帮助行为将为其他团队成员提供重要的工作资源(王桢,2012)，促进其他成员工作嵌入提升。其次，基于社会传染理论，高工作嵌入员工通过明确的、有意识的互动“传染过程”，将工作嵌入的期望传导给其他成员，使得同事产生对团体工作嵌入规范的共同理解，从而使形成工作嵌入的“调谐”（Tune in）形式(Felps et al.,2009)。例如，高工作嵌入员工具有的积极情绪，能够显著影响关系密切同事间的共情感知，促进工作嵌入的有效传导。最后，按照社会学习理论观点(Bandura,1977),在高工作嵌入核心员工的积极影响下，成员将自觉模仿其态度与行为典范，主动分享相互对工作嵌入的认知，进而加强工作嵌入程度。综上所述，团队工作嵌入是团队持续、积极的工作状态，当团队工作嵌入水平较高时，将具有充足资源，有助于促进团队成员合作效率提升，进而实现团队目标。
+
+领导工作嵌入又将通过何种方式来影响团队氛围，团队成员间的互动关系能否促进团队合作绩效呢？社会信息加工理论认为(Pfeffer,1978)，领导者作为组织资源的控制者和环境信息的重要来源，担负着整个团队工作任务的使命，是团队工作信息的关键输入条件，将会显著影响员工的工作态度、行为和绩效(杨付 等,2012；隋杨 等,2012)。因此，基于社会信息加工理论，我们可以通过“领导-下属”垂直传导路径来探讨领导工作嵌入对团队氛围的有效性，进一步的，探讨这种团队氛围如何影响员工的态度和行为。具体来说，高工作嵌入领导在与下属互动过程中展示的积极信息，将为员工提供关于组织可信度的社会线索，有助于增强员工的组织信任，培育良好的团队信任氛围。进一步地，当团队信任氛围较高时，不仅可以提升团队共享信任感知和整体满意度，还能促使团队成员表现出较高的团队工作效率和团队合作绩效。因而，未来研究应进一步探索“成员-成员”和“领导-下属”的作用路径，深入考察特质因素与情境因素等边界条件对传导机制的影响，力图全面揭示工作嵌入团队层面的理论模型及其有效性。
+
+# 6.2聚焦跨文化比较下的溢出效应：基于资源保存理论
+
+“工作家庭两不误”一直是职场人士所追求的理想状态，然而，实际上工作与家庭之间往往是很难平衡的，工作和家庭角色存在某些方面的矛盾压力。因此，我们认为有必要加强工作嵌入向家庭领域溢出效应的研究，并通过跨文化比较，进一步探究不同文化背景下工作嵌入溢出效应的共性与差异。
+
+溢出效应（Spillover effect）是指个体在一个领域中的角色感受跨领域转移过程中的影响作用(Ferguson,2012)。基于此，工作领域的高程度嵌入带来的工作-家庭冲突体验可能传递到家庭领域，进而损害家庭生活幸福(Ng&Feldman,2013b；严瑜，王轶鸣,2016)。具体而言，基于资源保存理论(Hobfol,1989)，与低工作嵌入员工相比，高工作嵌入员工具有的广泛社会联系和熟练工作技能促使其更有动力保护已有资源，并花费大量时间与精力来获取更多资源和福利(Ng&Feldman,2013b)。然而，个体的时间和精力终究是有限的，高工作嵌入员工在工作领域投入过多资源以获得丰厚工作回报的方式，显然会导致家庭领域资源的分配不均(高中华，赵晨,2014)。随着工作领域角色投入增加，势必会挤压家庭领域的边界，造成工作-家庭冲突(Ng&Feldman,2013b；王永丽，卢海陵,2018)。进一步地，工作-家庭冲突作为一种剥夺资源的压力体验，将损耗个体的精神和情感资源，随着这种冲突效应持续增加，可能溢出到家庭领域，影响婚姻生活满意度。然而，上述溢出效应在跨文化比较下的情况如何，值得进一步探讨验证。中国是一个典型的集体主义国家，其社会道德规范认为家庭集体利益大于个人利益(Yang& Zhang,2003)。相反，西方则是典型的个人主义导向，他们工作的目的是为了自身职业发展。在儒家文化以及高权力距离思想的影响下，中国员工更可能把工作视为实现家庭责任的手段而非最终目的，当面临工作需求时会表现出更多的容忍(毛畅果，郭磊,2020)。而西方员工则不太注重层级结构，他们会根据自身喜好来决定家庭与工作的资源分配，对工作需求更加敏感、容忍度更低(金家飞 等,2014)。综上所述，相对西方员工而言，中国员工更注重家庭集体利益，对工作需求表现出更强容忍时，高工作嵌入带来的工作需求对工作-家庭冲突的影响就会降低，进而溢出到家庭领域的损害相对较弱。因此，第一，基于边界理论，未来研究有必要进一步探究溢出效应的边界条件，如中西方文化差异影响，组织支持、家庭支持是否会缓解消极影响；第二，未来研究可以基于资源保存理论，丰富工作嵌入对不同领域的溢出效应机制，如工作嵌入对社区嵌入、社交领域溢出效应的作用。
+
+# 6.3 关注工作嵌入的双刃剑效应：基于“过犹不及”视角
+
+组织情境中，那些有益组织的行为在过多实施之后，也可能会产生消极作用(Pierce&Aguinis,2013；严瑜，张倩,2014)。鉴于工作嵌入在组织管理中的重要作用，聚焦“过犹不及”视角能够更全面且辩证的了解工作嵌入理论，进而揭示其负面效应带来的潜在成本。基于此，未来研究可以从三个方面来探讨工作嵌入的“过犹不及”效应。
+
+第一，实施不道德亲组织行为（Unethical pro-organizational behavior）。根据资源保存理论，工作嵌入是一种员工具有丰富情感依恋资源和强烈组织认同感的状态(Halbesleben&Wheeler,2008)。为了避免这些资源遭到损失，他们可能会采取一些超出道德规范却似乎有益组织发展的不道德亲组织行为来“积极应对”（Proactive coping）(Ghosh,2017)。例如，销售人员为达到销售目标夸大产品特点的行为。第二，降低工作资本的积累动力。Forret 和Dougherty(2004)强调长期的工作经验将抑制工作中的社交行为（Socializing behavior），随着高工作嵌入员工建立起广泛的社会关系网络后，他们可能会降低开发新社会关系的兴趣，以致社会资本积累速度减弱(Ng&Feldman,2010)。同时，当员工与组织的匹配程度较高时，他们可能会“安于现状”，从而投入更少的时间和精力去提升知识与技能储备(Ng&Feldman,2010)。第三，加剧恶劣情境的负面效应。当遭遇辱虐管理（Abusive supervision）情境施加的“推走”力量（Push-to-leave）时，高工作嵌入力量将个体“拉回”（Pull-to-stay），致使那些有想法离开当前工作的员工感知到阻碍(Mitchell et al.,2001)。例如，具有组织特定技能的高工作嵌入员工会因为很难找到同等待遇的替代岗位而默默忍受辱虐管理。但是，这种持续的被困局面和忍受过程，势必会使得员工不堪重负，导致身体健康受损，甚至实施越轨行为等消极方式来应对这种失控(Allen etal.,2016)。因而，未来研究应加强对工作嵌入双刃剑效应探索，更加全面系统地了解其积极面和阴暗面的理论机制，并进一步回答工作嵌入为何会产生负面影响的问题，以便为组织管理者提供启示，避免工作嵌入带来的不利后果。
+
+6.4 突出工作嵌入子维度差异化作用：基于优势维度与交叉效应视角
+
+目前，关于工作嵌入理论的研究主要是从总体结构出发来探讨维度的累计效应（Aggregate effect），相对缺乏对其不同维度作用机制的区分。实际上，在工作嵌入作用过程中，不同维度将表现出相对重要性的维度效应差异。同时，维度之间还会发生相互作用，产生交叉效应。因此，分析工作嵌入不同维度的差异更有助于理解和预测其独特效应，未来研究有必要从优势维度效应和交叉效应来进一步探讨工作嵌入子维度作用机制。
+
+关于工作嵌入优势维度视角的分析可以从三个方面入手。首先，相比工作嵌入的其他维度，员工与组织的良好匹配能够显著预测生活满意度和降低离职意愿。Nabi 和Ghulam(2003)强调，从事低技能工作员工的生活满意度较低。并且，根据命运理论(Destiny theory)，与自身价值观和工作技能相匹配的职业是很有限的(Burnette&Pollack,2013)。这种难得的工作匹配使得员工的工作技能和知识储备得到有效发挥，从而更加珍惜当前工作机会，具有较高的生活满意度。进一步地，员工与组织的匹配程度越高，他们感知到的工作环境愉悦感和工作价值越强，对实现组织目标的自身能力越有信心，他们将不会轻易离开组织。其次，牺牲维度可以通过激励员工努力提升工作表现来达到现有雇佣关系的期望状态或以此积累更多收益(Hom et al.,2012)。例如，高牺牲维度的员工往往希望所在组织蓬勃发展，从而增强当前工作的稳定性和未来价值(Ghosh etal.,2017)。因此，他们会不断提升工作表现，以适应工作需求和组织发展，降低因表现不佳导致的解雇风险，避免成为“不情愿的离开者”（Reluctantleavers）。最后，联结维度对于创业效能感的优势效应。联结维度侧重强调个体所拥有广泛而深入的社会网络(Mitchell et al.,2001)。随着社会网络规模和强度增加，人际交换就愈加频繁，个体获取市场资源和创业关键信息更为容易。同时，与其他创业者的接触将影响创业感知和情境类比，使得个体对于创业活动更加熟悉、更有信心，从而提升个体创业效能感(吴晓波 等,2014)。
+
+在探讨工作嵌入子维度交叉效应时，可以从强化交叉效应和弱化交叉效应两个视角来考虑。根据优势维度和交叉效应分析，我们认为联结维度或匹配维度与牺牲维度的交叉作用，对于提升工作表现存在加强效应。具体而言，当高牺牲维度员工拥有良好人际关系时，能够从关系网络中及时获得工作资源、信息与合作支持，这使得他们更有动力积极表现。类似地，当高牺牲维度员工拥有良好组织匹配时，他们对工作任务的深入理解以及扎实的工作知识与技能，确保了任务有效开展。然而，Bambacas 和Kulik(2013)指出，过于宽广的联结网络将削弱牺牲感知。这是因为，膨胀的社会网络增加了识别外部机会和实现个人目标的范围和成功率，个体能够从社会网络中找到更有价值的替代岗位，从而弥补离开当前组织的损失(Bambacas& Kulik,2013)。因此，未来研究应进一步区分工作嵌入子维度的优势效应，找出不同子维度对应最强预测方面，同时，厘清子维度交叉效应的边界条件，分析不同维度强化或弱化效应的背后机理。
+
+当今企业之间的竞争，实质上是人才的竞争，核心人才流失已成为制约企业发展的关键因素。通过梳理发现，近年来学者们以工作嵌入为切入点，紧密围绕“促使员工留在组织”和“员工为什么离职”的问题取得了显著进展，这为探究员工流动问题提供了重要思路和启示。同时，已有关于工作嵌入的研究成果对于组织可持续发展具有借鉴意义，有助于管理者构建关于工作嵌入的人才管理策略，从而将工作嵌入理念转化为促进组织绩效和个人价值的双赢途径。基于此，本研究试图通过文献梳理和分析，系统总结工作嵌入的影响结果及其理论解释，以期清晰展现工作嵌入的发展脉络并为未来研究提供一定思路。
+
+# 参考文献
+
+段锦云，凌斌.(2011).中国背景下员工建言行为结构及中庸思维对其的影响．心理学报,43(10),1185-1197.   
+高中华，赵晨.(2014).工作家庭两不误为何这么难？基于工作家庭边界理论的探讨．心理学报,(4), 552-568.   
+金家飞，徐姗，王艳霞.(2014).角色压力、工作家庭冲突和心理抑郁的中美比较—社会支持的调节作用.心 理学报,(8),1144-1160.   
+刘宗华，李燕萍，郑馨怡.(2018).工作嵌入对员工创新行为的影响：内部人身份感知和主管支持的作用．中 国人力资源开发 .35(7),148-158.   
+买忆媛，辜雪娜.(2011).工作经验一定有助于创业过程吗：基于工作内嵌入的分析．南开管理评论,(2), 146-151.   
+买忆媛，周嵩安，梅琳.(2009).工作嵌入对科技型员工离职创业活动的影响．南开管理评论,(2),69-76.   
+毛畅果，郭磊.(2020).组织管理研究中的权力距离倾向:内涵、测量与影响．中国人力资源开发,(1),21-34.   
+隋杨，王辉，岳旖旎,Fred Luthans.(2012).变革型领导对员工绩效和满意度的影响：心理资本的中介作用及. 心理学报,44(9),1217-1230.   
+王永丽，卢海陵.(2018).工作嵌入、工作家庭平衡与家庭内关系—基于员工及其配偶配对的视角．管理评论， 30(11),132-142.   
+王桢.(2012)．团队内工作投入的人际传导机制．心理科学进展,20(10),1531-1537.   
+吴论文，杨付.(2019).政治技能的影响结果及其理论解释．心理科学进展,(12),2109-2121.   
+吴晓波，张超群，王莹.(2014).社会网络、创业效能感与创业意向的关系研究．科研管理,35(2),104-110.   
+严瑜，王轶鸣.(2016).工作场所无礼行为的溢出和交叉效应：超越职场范围的负性作用机制．心理科学进展， (12), 1934–1945.   
+严瑜，张倩.(2014)."过犹不及"—组织公民行为消极面的解读与探析．心理科学进展,22(5),834-844.   
+杨春江，刘丹，毛承成.(2019).中国情境下的工作嵌入：构念内涵、维度和量表开发．管理工程学报,33(1), 127-138.   
+杨付，王桢，张丽华.(2012).员工职业发展过程中的"边界困境”：是机制的原因，还是人的原因？管理世界， (11), 89-109.   
+张鹏，邓然，张立琨.(2015).企业家社会资本与创业绩效关系研究．科研管理,(8),124-132.   
+Adams,G.A.,Prescher,J.,eehr,T.A.,&Lepisto,L.(o2).Applying work-roleattchmenttheory totirment decision-making. The International Journal of Aging and Human Development, 54(2),125-137.   
+Afsar,B.,Shahjehan,A.,& Shah,S.I. (2O18).Frontline employees' high-performance work practices,trust in supervisor, job-embeddedness and turnover intentions in hospitality industry. International Journal of Contemporary Hospitality Management, 30(3),1436-1452.   
+Allen,D. G.,Peltokorpi, V.,& Rubenstein,A.L. (2016).When "embedded" means "stuck": Moderating effects of job embeddednes in adverse work environments. Journal of Applied Psychology,101(12),1670-1686.   
+Ampofo,E. T., Coetzer,A.,，& Poisat, P. (2017).Relationships between job embeddedness and employees' life satisfaction. Employee Relations, 39(7),951-966.   
+Ampofo,E.T.,Coetzer,A.,& Paul,P.(2018).Extending the job embeddedness-life satisfaction relationship: An exploratory investigation. Journal of Organizational Effectiveness-People and Performance， 5(3), 236-258.   
+Ajzen,I. (1991).The theoryof plannedbehavior.OrganizationalBehavior and HumanDecision Processes,50(2), 179-211.   
+Ardichvili，A.，Cardozo,R.，& Ray，S.(2o03).A theory of entrepreneurial opportunity identification and development. Journal of Business Venturing,18(1),105-123.   
+Bambacas, M.,& Kulik, C.T. (2O13).Job embeddedness in China: How HR practices impact turnover intentions. International Journal of Human Resource Management, 24(10),1933-1952.   
+Bamberger, P.A.,& Bacharach,S.B.(2014).Predicting retirement upon eligibility: An embeddedness perspective. Human Resource Management, 53(1),1-22.   
+Bandura,A. (1977). Social learning theory. Englewood Cliffs, NJ: Prentice Hall.   
+Burnette,J.L.，& Pollack,J.M.(2013).Implicit theories of work and job fit: implications for job and life satisfaction. Basic & Applied Social Psychology,35(4),360 - 372.   
+Carter,M. & Cook,K. (1995). Adaptation to retirement: Role changes and psychological resources. Career Development Quarterly, 44(1), 67-82.   
+Cheng,C.-Y. (2014).A longitudinal study of newcomer job embeddednessand sales outcomes for life insurance salespersons. Journal of Business Research, 67(7),1430-1438.   
+Cheng,C.-Y.,& Chang, J.-N. (2O15). Does network building improve sales performance?The stabilizing role of job embeddedness. Journal ofOrganizational Effectiveness-People and Performance,2(2),110-133.   
+Coetzer,A.,Inma, C.,Poisat,P.,Redmond,J.,& Standing, C. (2018). Jobembeddednessand employee enactment of innovation-related work behaviors.International Journal of Manpower, 39(2),222-239.
+
+Coetzer,A.,Inma,C.,Poisat,P.,Redmond,J.,& Standing,C. (20l9).Does job embeddednesspredict turnover intentions in SMEs? International Journal of Productivity and Performance Management, 68(2), 340-361.
+
+Dechawatanapaisal, D. (2O17).The mediating role of organizational mbeddednesson the relationship between quality of work life and turnover: Perspectives from healthcare professionals. International Journal of Manpower, 38(5),696-711.   
+Dechawatanapaisal， D. (2018). Examining the relationships between HR practices， organizational job embeddedness, job satisfaction，and quit intention: Evidence from Thai accountants. Asia-Pacific Journal of Business Administration,10(2-3),130-148.   
+Felps,W.,Mitchel,T.R.,Hekman,D.R.,Lee,T.W., Holtom,B.C.,& Harman, W.S.(2009). Turnovercontagion: How coworkers’ job embeddedness and job search behaviors influence quitting. Academy of Management Journal, 52(3), 545-561.   
+Ferguson, M. (20l2). You cannot leave it at the ofice: Spilover and crossover of coworker incivility.Journal of Organizational Behavior, 33(4), 571-588.   
+Festinger,L.A. (1954). A theory of social comparison processes.Human Relations, 7(2),117-140.   
+Ferreira,A.I., Martinez, L.F.,Lamelas,J.P.,& Rodrigues,R. I. (2017). Mediation of job embeddednessand satisfaction in the relationship between task characteristics and turnover a multilevel study in Portuguese hotels. International Journal of Contemporary Hospitality Management, 29(1),248-267.   
+Forret,M.L.& Dougherty,T. W. (2004), Networking behaviors and career outcomes: Differences for men and women? Journal of Organizational Behavior, 25(3),419-437.   
+Gardner, W.L. Cogliser, C.C., Davis,K. M.& Dickens,M. P. (2011). Authentic leadership: A review of the literature and research agenda. Leadership Quarterly, 22(6),1120-1145.   
+Ghosh,D., Sekiguchi, T.,& Gurunathan,L. (2O17). Organizational embeddedness as a mediator between justice and in-role performance. Journal of Business Research,75,130-137.   
+Ghosh,D., & Gurunathan, L. (2014). Job embeddednes: A ten-year literature review and proposed guidelines. Global Business Review, 16(5), 856-866.   
+Ghosh,S.K. (2O17). The direct and interactive effects of job insecurity and job embeddedness on unethical pro-organizational behavior: An empirical examination. Personnel Review, 46(6),1182-1198.   
+Grant, A. M., & Schwartz,B. (2011). Too much of a good thing: The chalenge and opportunity of the inverted U. Perspectives on Psychological Science, 6(1), 61-76.   
+Greene, J., Mero,N.,& Werner,S. (2018).The negative effects of job embeddednesson performance. Journal of Managerial Psychology, 33(1), 58-73.   
+Gubrium, J.F.,& Holstein,J.A.(1993).Family discourse,organizational embeddedness,and local enactment. Journal ofFamily Issues,14(1), 66-81.   
+Halbesleben, J. R.B., Neveu, J.P.,Paustian-Underdahl, S.C.& Westman, M. (2014).Geting to the“COR": Understanding the role of resources in conservation of resources theory, Journal of Management, 40(5), 1334–1364.   
+Halbesleben, J.R.B., Harvey,J.& Bolino,M. C.(20o9).Too engaged? A conservation of resources view of the relationship between work engagement and work interference with family. Journal of Applied Psychology, 94(6),1452-1465.   
+Halbesleben, J.R.B.,& Wheeler,A.R. (2008).The relative roles of engagement and embeddednessin predicting job performance and intention to leave. Work & Stress, 22(3),242-256.   
+Harris,K.J., Wheeler,A.R.,& Kacmar,K.M. (20l1).The mediating role of organizational job embeddednessin the LMX-outcomes relationships. Leadership Quarterly, 22(2),271-281.   
+Harwood,T., G.,& Garry,T.(2003).An overview of content analysis. Marketing Review,3(4),479-498.   
+Helman,R., Copeland, C.， Vanderhei,J.,，& Salisbury,D.(2008).Ebri 2008 recent retirees survey: Reportof findings. Ebri Issue Brief,(319),3-22.   
+Hobfoll, & Stevan, E. (1989). Conservation of resources: A new attempt at conceptualizing stress. American Psychologist, 44(3), 513-524.   
+Hobfoll,S.E.,Halbesleben,J.,Neveu,J.P.&Westman,. (20l8).Conservationofresources intheorganizational context: The reality of resources and their consequences.Annual Review of Organizational Psychology and Organizational Behavior, 5(1),103-128.   
+Hom,P.W.,Mitchel,T.R.,Lee,T. W.,& Griffeth,R.W. (2012).Reviewing employee turnover: Focusing on proximal withdrawal states and an expanded criterion. Psychological Bulletin, 138(5),831-858.   
+Hussain,T.,& Deery,S. (20l7). Whydo self-initiated expatriates quit their jobs: The role of job embeddedness and shocks in explaining turnover intentions. International Business Review, 27(1),281-288.   
+Janasz, S. C.D.,& Sulivan, S.E. (2004). Multiple mentoring in academe: Developing the professorial network. Journal ofVocational Behavior, 64(2),263-283.
+
+Jia,J.,Yan,J.,Jahanshahi,A.A.,Lin,W.,& Bhattacharjee,A.(202O).What makes employees more proactive? Roles of job embeddednes, the perceived strength of the HRM system and empowering leadership. Asia Pacific Journal of Human Resources,58(1),107-127.
+
+Jiang,K.,Liu,D.,McKay,P.F.,Lee,T.W.,& Mitchel, T.R. (2012).When and how is job embeddedness predictive of turnover? A meta-analytic investigation. Journal of Applied Psychology,97(5),1077-1096.   
+Johnson,A.E.,Sachau,D.A.&Englert,D.(2o10).Organizational and ocupational embeddednessoffederal law enforcement personnel. Journal of Police & Criminal Psychology, 25(2),75-89.   
+Kapil,K.，& Rastogi,R. (2O18).Promoting organizational citizenship behaviour: The roles of leader-member exchange and organizational job embeddedness. South Asian Journal of Human Resource Management, 5(1), 56-75.   
+Kiazad,K., Holtom, B. C.， Hom, P. W.，& Newman,A. (2015). Job embeddednes: A multifoci theoretical extension. Journal of Applied Psychology, 100(3), 641-659.   
+Kozlowski, S.W.J.& Klein,K.J. (20o0).A multilevel approach to theory and research in organizations: Contextual， temporal, and emergent processes. Multilevel Theory， Research and Methodsin Organizations: Foundations,Extensions, and New Directions,3-90.   
+Lawler,E.E.& Finegold,D. (2ooo). Individualizing the organization: Past,present,and future. Organizational Dynamics, 29(1), 1-15.   
+Lee,C.-J.,& Huang, S.Y. B. (2019). Can ethical leadership hinder sales performance? A limited resource perspective of job embeddedness. Chinese Management Studies,13(4), 985-1002.   
+Linder, C. (2019). Expatriates' motivations for going abroad $\because$ The role of organisational embeddedness for career satisfaction and job effort. Employee Relations,41(3),552-570.   
+Long, Z.,Chuanhao,F.,Yulin,D.,Chak Fu,L.,Enhua,H.,& Lingyun,W. (2O19).Exploring the interpersonal determinants of job embeddedness and voluntary turnover: A conservation of resources perspective. Human Resource Management Journal, 29(3), 413-432.   
+Mai,Y.,& Zheng,Y.(2013). How on-the-Job embeddedness influences new venture creation and growth. Journal ofSmall Business Management, 51(4), 508-524.   
+Meuer,J.,Troster,C.,Angstmann,M.,Backes-Geller,U.,&Pull,K. (2o19).Embeddednessand therepatriation intention of assigned and self-initiated expatriates. European Management Journal, 37(6),784-793   
+Mitchell,T.R.,Holtom,B.C.,Lee,T. W., Sablynski, C.J.,& Erez, M. (2001).Why people stay: Using job embeddedness to predict voluntary turnover. The Academy of Management Journal, 44(6),1102-1121.   
+Mitchell T.R.，& Lee T.W.,(20o1). The unfolding model of voluntary turnoverand job embeddedness: Foundations for a comprehensive theory of atachment? Research in Organizational Behavior, 23(3), 189-246.   
+Moher,D.,Liberati,A.,Tetzlaf,J.,& Altman,D.G. (20lo).Preferrd reporting itemsforsystematic reviews and meta-analyses:The PRISMA statement. International Journal of Surgery, 8(5),336-341.   
+Mosakowski, E. (1993). A resource-based perspective on the dynamic strategy-performance relationship: An empirical examination of the focus and diffrentiation strategies in entrepreneurial firms. Journal of Management, 19(4), 819-839.   
+Nabi,& Ghulam, R. (2003). Graduate employment and underemployment: Opportunity for skilluse and career experiences amongst recent business graduates. Education Training, 45(7),371-382.   
+Nahapiet,J.&Ghoshal,S.(1998).Socialcapital, intellctualcapital,and theorganizational advantage.Acdemy ofManagement Review, 23(2),242-266.   
+Ng T.W.H.,& Feldman, D. C.(2007). Organizational embeddedness and occupational embeddedness across career stages. Journal of Vocational Behavior,70(2),336-351.   
+Ng,T.W.H.,&Feldman,D.C.(2010).The impact of job embeddedness on innovation-related behaviors. Human Resource Management, 49(6), 1067-1087.   
+Ng,T. W. H.,& Feldman,D. C.(2013a). Changes in perceived supervisor embeddedness: Eects on employees' embeddedness,organizational trust,and voice behavior. Personnel Psychology, 66(3),645-685.   
+Ng,T.W. H.,& Feldman,D.C. (2013b). The effects of organisational embeddedness on insomnia. Applied Psychology-an International Review-Psychologie Appliquee-Revue Internationale, 62(2),330-357.   
+Ng,T. W. H.,& Feldman, D. C. (2014). Community embeddednessand work outcomes: The mediating role of organizational embeddedness. Human Relations, 67(1),71-103.   
+Ng,T.W. H. & Lucianeti, L. (2018). Are embedded employees active or passive? The roles of learning goal orientation and preferences for wide task boundaries and job mobility in the embeddedness-voice link Human Resource Management, 57(5),1251-1269.   
+Peltokorpi,V.,Allen,D.G.,&Froese,F. (2015).Organizational embeddedness,turnover intentions,and voluntary turnover: The moderating efects of employee demographic characteristics and value orientations. Journal of Organizational Behavior, 36(2),292-312.   
+Pfeffer,S.J. (1978).A social information processing approach to job atitudes and task design. Administrative Science Quarterly, 23(2),224-253.   
+Pierce,J.R.，& Aguinis，H. (2013).The too-much-of-a-good-thing efect in management.Journalof Management, 39(2),313-338.   
+Rusk,N.，& Rothbaum, F. (2010). From stress to learning: Attachment theory meets goal orientation theory. Review of General Psychology,14(1),31-43.   
+Schoorman,F.D.,Mayer,R. C.,& Davis,J. H. (2oo7).An integrative model oforganizational trust: Past,present, and future. The Academy of Management Review, 32(2),344-354.   
+Seijts & Gerard,H. (1998).The importance of future time perspective in theories of work motivation. The Journal of Psychology, 132(2), 154-168.   
+Smith,D.R.,Holtom, B.C.,& Mitchel,T.R. (2011).Enhancing precision in the prediction of voluntary turnover and retirement. Journal of Vocational Behavior, 79(1),290-302.   
+Tabak,F.,& Hendy,N.T. (2016). Work engagement: Trust as a mediator of the impact of organizational job embeddedness and perceived organizational support. Organization Management Journal,13(1),21-31.   
+Thakur,S.J.,& Bhatnagar,J. (2O17).Mediator analysis of job embeddedness: Relationship between work - life balance practices and turnover intentions. Employee Relations, 39(5), 718 - 731.   
+Tian,A.W.， Cordery, J.,& Gamble, J. (2016). Staying and performing: How human resource management practices increase job embeddedness and performance. Personnel Review, 45(5), 947-968.   
+Wang,Q.,Liao,Y.& Burns, G.N. (2019).General, work-specific,and work-role conscientiousness measures in predicting work criteria: A comparative perspective. Applied Psychology, doi: 10.1111/apps.12234. (in Press).   
+Wijayanto,B.R.,& Kismono,G. (2o04).The efect of job embeddedness on organizational citizenship behavior. Gadjah Mada International Journal of Business, 6(3),335-354.   
+Zhang,M., Fried, D.D.,，& Grifeth,R. W. (2012). A review of job embeddedness: Conceptual, measurement issues,and directions for future research. Human Resource Management Review, 22(3),220-231.
+
+# Job embeddedness: Consequences and theoretical explanation
+
+WU Lunwenl; YANG $\mathrm { F u ^ { 1 } }$ ; TIAN Yixin²; PEI Yurong3
+
+(lSchool of Business Administration, Southwestern University ofFinance and Economics, Chengdu 61l130, China) (School ofLabor and Human Resources, Renmin University of China, Beijing 100872, China) (Chengdu Normal University, Chengdu 611130, China)
+
+Abstract: In recent years, as a novel perspective to explain employee voluntary turnover and retention， job embeddedness has received largely considerable attention from scholars and practitioners.According to content analysis, l76 papers from databases of domestic and foreign were reviewed,and then a comprehensive review about the consequences of job embeddedness was conducted based on theoretical perspectives，content analysis，and future directions. Accordingly, six theoretical explanations were summarized, including conservation of resources theory,social capital theory, planned behavior theory,work-role attachment theory,future time perspective,and contagion process model. Using content analysis, the research tendency of job embeddedness and its consequences with multi-perspective were displayed. Future research should make further efforts to propose a theoretic model on team job embeddedness, focus on the spillover effect under cross-culture comparison, highlight the double-edged sword efect, and emphasize the differentiation effects of its sub-dimensions.
+
+Key words: job embeddedness, consequences, theoretical perspectives, content analysis

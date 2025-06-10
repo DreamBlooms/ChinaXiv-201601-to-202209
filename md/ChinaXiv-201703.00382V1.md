@@ -1,0 +1,124 @@
+# \*中国湖泊微生物组研究
+
+![](images/24e4caff53d54282e7c5688b15a3c2f44d9ca34cbaeae0e91891836951fc427f.jpg)
+
+# 吴庆龙 江和龙
+
+中国科学院南京地理与湖泊研究所南京210008摘要我国湖泊数量大、分布广、类型多，被认为是世界上湖泊生态类型最为丰富的国家之一。多样化的湖泊环境孕育了丰富的微生物多样性和资源，但迄今人们对其结构和功能尚知之甚少。通过大规模的湖泊微生物组分析和比较基因组研究，可揭示我国湖泊微生物多样性的分布规律、形成机理和维持机制，阐明典型湖泊微生物功能基因的组成，探索极端环境条件下湖泊微生物的适应机制，发现新的微生物功能和代谢途径，并通过比较不同环境条件下驱动地球元素循环的微生物功能基因组、环境转录组成和蛋白组，揭示微生物驱动湖泊生态系统中关键元素循环的过程、机制及其环境调控机理。这些研究结果的获得，将不仅有助于深入了解湖泊生态系统结构与功能，促进地球科学与生物学间的交叉与融合，推动学科持续发展，而且将为我国湖泊微生物资源的保护与可持续利用及湖泊生态环境的治理与保护提供科技支撑。
+
+关键词湖泊，生态环境，微生物，微生物组，科学计划DOI 10.16418/j.issn.1000-3045.2017.03.008
+
+湖泊是重要的生态系统类型，是由湖盆、湖水及水中包含的各类物质所组成的自然综合体。湖泊生态系统是指以湖泊为一个地理单元所组成的生态系统，在自然界的各种内外营力长期相互作用下形成，并处于不断演变过程之中。作为地球表层系统的一个单元，湖泊在地球的各个区域均有分布，因此其在地貌、水文物理、气候气象、化学组成、生物群落组成等多方面，显示出丰富多彩的类型，孕育出高度多样化的湖泊生态系统类型[]。湖泊具有明显的边界，是一个相对独立和完整的生态系统，主要包括环境和生物两个大的亚系统，且彼此不可分割、相互有机联系和相互作用。
+
+作为地球表层系统的一个重要组成部分，湖泊又具有其开放性的一面，是陆地水圈的重要组成部分，参与自然界的水分循环和物质循环。因此，湖泊不仅具有供水、调蓄洪水、调节气候、渔业、旅游等功能，还在维持区域生态系统平衡和保育生物多样性等方面发挥着重要作用，具有很高的生态系统服务价值，是支撑经济和社会发展的重要资源之一[1]。
+
+湖泊是地球表层系统中各个圈层相互作用的联结点，在流域尺度上的各类物质最终汇集在湖泊中，并发生各类物理、化学和生物学作用，这些作用（或者过程）不仅对湖泊自身的环境具有显著作用，而且对区域的环境生态产生重要影响。微生物是驱动湖泊等水体地球元素循环和生态系统运行的关键，微生物组研究对揭示其结构与功能至关重要，并有望取得重要科技突破。
+
+# 1湖泊微生物组研究意义重大
+
+# 1.1微生物是驱动湖泊等水体地球元素循环和生态系统运行的关键
+
+微生物是湖泊等水生态系统的重要组成部分，是水体生态系统绝大部分元素物质循环的主要驱动者，是深入了解生态系统结构与功能的关键[2]，对微生物介导元素循环过程的研究也促进了许多重大的科学发现。
+
+例如，通过对微生物铁还原过程的研究，发现了微生物可以通过胞外电子传递实现固态金属氧化物的还原[3],进而表明微生物可以通过胞外电子传递至外置的固态电极，并在此基础上发展了微生物燃料电池技术[4]。铁还原微生物能产生具有金属导体性质的丝状纳米线[5]，这些丝状纳米可以传递电子，通过与沉积物中无机金属物质和腐殖质结合组成电子长距离传递通道[6-8]。沉积物中微生物于是就利用这些介质有序组成电子传递网络，将自身新陈代谢产生的电子进行长距离电子传递形成生物电流。沉积物中的微生物可通过这种生物电流，将空间分隔的氧化和还原反应过程同步协同进行，从而远距离地高效参与沉积物中的元素循环和污染物分解转化过程，进而为利用微生物的胞外电子传递以系统调控水体元素的生物地球化学过程和污染物质的分解转化，提供科学依据和理论基础[9]
+
+另外，还有研究表明互营微生物还可通过鞭毛进行分子信号传递[10]，互营微生物之间还可能发生基因水平转移，这在地球微生物的进化过程中可能起了极为重要的作用。
+
+这些发现丰富了关于微生物在湖泊等水体地球元素循环中关键驱动作用的认识，推动了地球科学与生物学之间的交叉与融合，促进了相关学科领域的发展，发展了基于微生物的污染物削减和强化降解技术。
+
+# 1.2微生物组研究对揭示湖泊等水体结构与功能至关重要，并有望取得重要科技突破
+
+尽管近年来的水域环境微生物研究取得了不少重要发现，但由于研究方法和手段缺乏，湖泊中的微生物长期以来被作为“黑箱”看待，总体上对湖泊微生物多样性、结构及其功能的了解极其有限，直到21世纪初，科学家才基本认定湖泊中的微生物有其独特的区系和组成[]。但迄今，据最保守估计， $9 5 \%$ 以上的湖泊微生物还不能在实验室培养，其生理生化、遗传代谢、生态功能尚属未知[2]。例如，在21世纪初就发现的氨氧化古菌类群广泛地分布于湖泊、河流等沉积物中，迄今却仅获得了几株培养菌种[13]。另外，在实验室条件下分离获得的微生物与湖泊原位微生物的组成相去甚远。由于绝大多数的湖泊微生物不能够被分离和培养，因此如何通过新技术的运用，揭示其结构与功能，成为了湖泊微生物学研究的关键。
+
+微生物组学技术是在不培养微生物的条件下研究环境中微生物结构与功能的重要手段，微生物组是指一个特定环境中的微生物及其全部遗传信息的总和，对一个特定环境中的微生物的所有遗传信息（基因）进行测序分析，不仅可以了解微生物群落结构，还可以预测微生物功能基因组成和代谢潜力，并有助于发现新的微生物基因和代谢途径，促进对环境中物质转换与循环的深刻认识[4]。2004年，Venter等人[15]通过微生物组研究，发现在Sargasso 海域中存在的新基因数目超过当时国际基因数据库中基因数的总和，其后该研究组利用微生物组研究，在海洋等系统中取得了一系列的重要发现。
+
+近10年来高通量测序技术的不断发展和测序成本的持续下降，也为利用微生物组学技术研究湖泊微生物的结构与功能提供了巨大支撑。例如，在我国西藏地区的湖泊微生物多样性调查中，基于原核微生物的16SrRNA基因测序获得的细菌多样性极其丰富，但其中 $30 \%$ 左右的序列不能在数据库中找到相应的分类地位，其功能更是无从得知[16]。目前世界范围内的湖泊微生物宏基因组学研究极少，仅在南极地区的一些低温盐湖中开展了相关研究，在嗜冷及嗜盐古菌的生物地理学、微生物物种的同域分化机制、低温高盐环境条件下的微生物参与元素（碳、氮、硫）代谢的机理方面获得了一些重要进展[7-19]
+
+总体上来说，目前对湖泊微生物组的了解极其有限，远远落后于海洋微生物组、人体微生物组研究，对涉及到的湖泊微生物新物种及新代谢途径只是湖泊微生物可利用资源的冰山一角，对于微生物驱动湖泊地球元素生物化学循环的认识十分有限。显然，揭示湖泊微生物组及其在湖泊地球元素循环中的作用奥秘，将是湖泊科学在很长一段时间内面临的巨大挑战，同时也是有望取得科学突破的重要领域之一。
+
+# 2中国湖泊微生物组研究现状与对策
+
+相对于陆地、海洋等生态系统，湖泊是一个边界条件相对明确的生态系统，生态系统的结构相对稳定，不同湖泊之间由于地理隔离而具有相对的环境特异性。我国湖泊数量众多（图1），其中面积大于 $1 . 0 \mathrm { k m } ^ { 2 }$ 的自然湖泊2693个，分布在28个省级行政区，总面积达 $8 1 4 1 4 . 6 \mathrm { k m } ^ { 2 }$ ，约占国土总面积的 $0 . 9 \% ^ { [ 2 0 ] }$
+
+我国湖泊在形态、分布区域、环境异质性、化学组成、污染程度、生物群落结构等方面具有巨大的多样性。例如，盐度分布从 $0 . 1 \%$ 到约 $40 \%$ ； $\mathfrak { p H }$ 分布从2到13；作为湖泊水体初级生产力重要指标的叶绿素a的浓度分布从近乎0到几千 $\mu \mathrm { g / L }$ ；湖泊的海拔分布从我国的东海之滨到青藏高原海拔 $6 0 0 0 \mathrm { m }$ 左右的冰川遗迹（图1）。因此，中国被认为是世界范围内湖泊类型最复杂和最多样化的国家[20]。这些极高的湖泊环境异质性极有可能对微生物的进化和分化产生影响，形成高度多样化的微生物组成和功能，其中的许多功能极有可能是新的或者未知的，因此开展中国湖泊微生物组研究具有鲜明的地域特色，有望取得重要的科学发现和突破。
+
+![](images/22cbe5d21c05e37246dd00074e38e84352f5dbca171506dad12baf24cdf56925.jpg)  
+图1中国湖泊及湖区分布图
+
+# 2.1科学目标
+
+中国湖泊微生物组研究的总体科学目标是全面阐明我国湖泊微生物多样性的分布规律、形成机理和维持机制，了解我国湖泊微生物功能基因的分布特征，揭示特殊环境下（高盐、低温、强辐射、极端污染等）湖泊微生物的适应机制，发现一批新的微生物功能和代谢新途径，并通过比较不同环境条件下湖泊碳、氮、磷等元素循环特征和基因组、转录组及蛋白组数据，结合湖泊环境特征，揭示湖泊环境因子变化对微生物驱动湖泊碳、氮、磷等元素循环的影响及其机理。
+
+此外，人口的快速增长、人类活动的增强和经济的快速发展导致湖泊生态系统面临水质污染、生态退化，水体黑臭现象频发等，已严重制约了我国经济社会的可持续发展。湖泊污染治理和退化湖泊生态系统修复、恢复与保护成为我国经济社会可持续发展和生态文明建设的重要议题。微生物是污染物质分解与转化的主要推动者，因此基于湖泊微生物组研究，必须在深入了解湖泊微生物组结构与功能及其对湖泊污染的响应与反馈机制的基础上，从微生物的角度出发，探索新的湖泊水质和生态改善技术，这将成为中国湖泊微生物组研究的另外一个重要科学目标。
+
+# 2.2前沿科学问题及未来主要研究内容建议
+
+# 2.2.1中国湖泊微生物多样性分布规律及其形成机制
+
+根据我国湖泊分布、成因、水环境、资源赋存和水文特征，结合西高东低的大地貌特征和南湿北干的气候条件，重点关注我国五大湖区（图1）的湖泊微生物多样性及其分布规律。重点运用高通量测序和组学技术，调查研究典型湖泊微生物的多样性、群落结构、分布规律。重点分析环境过滤机制与随机性过程在湖泊微生物群落构建过程中的相对作用，揭示我国湖泊微生物多样
+
+性的形成与维持机制。
+
+在揭示湖泊微生物多样性分布规律的基础上，依据湖泊微生物结构组成差异和环境因子及其存在的梯度，运用微生物宏基因组学等技术开展典型湖泊微生物的功能基因组成和微生物功能多样性研究，分析沿环境梯度的微生物组差异，尤其是了解在湖泊生态系统中的核心微生物组以及沿着环境因子梯度而变化的变异微生物组，并重点分析这些功能基因组成变化与环境因子变化之间的内在关系。
+
+# 2.2.2微生物适应极端湖泊环境的机制与新代谢途径
+
+我国的部分湖泊，尤其是青藏高原的湖泊，其环境条件极端，例如极端高盐、低温、低pH、强辐射、极端污染等，这些生境中的微生物具有独特的环境适应和生长代谢机制，蕴含着探索微生物代谢多样性发生和演化的线索。
+
+借助微生物组学技术，有望深入了解特殊湖泊环境中微生物群落形成及其与环境互作的机制，揭示关键功能微生物（或微生物群落）特殊能量代谢以及驱动有机物合成与碳、氮、硫元素循环的分子机制，探索微生物适应极端湖泊环境条件的生理生态与遗传学机理。并在此基础上，发现新的微生物功能基因或代谢途径，促进湖泊微生物资源的开发利用。
+
+# 2.2.3微生物驱动湖泊主要元素循环的过程、机制及其环境调控机理
+
+湖泊是地球表层系统碳、氮等物质循环的主要场所，微生物是驱动湖泊碳、氮等元素循环的关键，通过对我国湖泊微生物功能基因组成与分布特征的研究，分析与碳、氮等元素代谢有关的功能基因的分布、丰度及其与环境因子变化之间的关系。借助基因芯片、基因组、转录组、蛋白组和生态模拟等技术，阐明微生物介导的湖泊中碳、氮等元素的生物地球化学过程及其耦合机制、生态效应。揭示典型湖泊等生境微生物群落形成及其与环境互作的机制，发现驱动湖泊碳、氮等元素转化与循环的微生物代谢新机制，深人了解微生物驱动湖泊生态系统中关键元素循环的过程、机制及其环境调控机理。
+
+# 2.2.4极端污染水体的微生物代谢机制与水质改善技术
+
+随着湖泊污染加剧和富营养化日趋严重，湖泊等水体及其沉积物中富集了大量的有机及氮、硫物质，在微生物分解作用下极易造成环境缺氧，随之生成大量金属硫化物和含硫氨基酸等致黑、致臭前驱物，促使水体和沉积物变黑发臭，进而导致水体“黑臭现象”，这成为我国面临的重大水环境问题。
+
+微生物是驱动水体黑臭现象发生的关键，通过微生物组研究，将有助于揭示黑臭水体与沉积物中微生物代谢网络及黑臭物质分解转化的关键微生物途径，阐明强化胞外电子传递条件下黑臭水体与沉积物中微生物代谢网络结构的响应特征，发展基于微生物群落代谢途径调控的黑臭水体与沉积物的生物高效修复技术。
+
+# 3结语
+
+最早的国际微生物组研究是人类微生物组计划，2005年在法国由中、美、法、英、德等国的科学家召开了第一次协调会，此后的人类微生物组计划在世界发达国家和中国相继开展，竞争日趋激烈。2010年，美国启动了地球微生物计划，旨在通过收集全球不同生境的微生物样品，在研究方法统一和标准化的基础上，开展微生物全基因组测序，了解微生物结构与功能，揭示微生物与地球环境协同演化的机制。2016年5月，美国白宫宣布启动美国的微生物组研究计划，并把这一计划提升到与当年阿波罗登月计划同等重要的层次。目前在国际上，各类微生物组研究计划陆续推出，各国都希望尽早获得相关的基因信息和资源，抢占先机，因此竞争日趋激烈。显而易见，在这样的背景下，结合我国的湖泊地域特色和环境特点开展我国的湖泊微生物组研究，不仅重要，而且正当其时！
+
+基于本文的论述，认为我国湖泊微生物组研究将有望取得以下重要科学发现与突破：全面深人了解湖泊微生物多样性的分布规律、形成机理和维持机制；在全面认识湖泊微生物功能的基础上，揭示特殊环境下湖泊微生物的适应机制；通过深度测序，发现一批新的微生物功能和代谢新途径；揭示湖泊主要元素循环的微生物驱动机制，发展基于湖泊微生物组的湖泊水质改善技术和对策。
+
+# 参考文献
+
+1Wetzel R G.Limnology: lake and river ecosystems. Salt Lake City: Academic Press, 2001.   
+2Azam.The ecological role of water-column microbes in the sea. Mar. Ecol. Prog. Ser.,1983,10: 257-263.   
+3 Nielsen L P. Electric currents couple spatially separated biogeochemical processes in marine sediment. Nature, 2010, 463: 1071-1074   
+4 Chaudhuri S K,Lovley D R.Electricity generation by direct oxidation of glucose in mediatorless microbial fuel cells.Nat. Biotechnol.,2003,21: 1229-1232.   
+5Malvankar N S. Tunable metallic-like conductivity in microbial nanowire networks,Nat. Nanotechnol.,2011,6: 573-579.   
+6 Malvankar N S, King G M, Lovley D R. Centimeter-long electron transport in marine sediments via conductive minerals. ISME J.,2015,9: 527-531.   
+7 Pfeffer C. Filamentous bacteria transport electrons over centimeter distances.Nature,2012,491(7423): 218-221.   
+8 Schauer R. Succession of cable bacteria and electric currents in marine sediment. ISME J.,2014,8: 1314-1322.   
+9Marzocchi U.Electric coupling between distant nitrate reduction and sulfide oxidation in marine sediment.ISME J.,2014,8: 1682-1690.   
+10 Shimoyama T. Flagellum mediates symbiosis. Science, 2009, 323(5921): 1574.   
+11 Newton R J.A guide to the natural history of freshwater lake bacteria.Microbiol. Mol.Biol. Rev.,2011,75:14-49.
+
+12Zwart G.Typical freshwater bacteria:an analysis of available 16S rRNA gene sequences from plankton of lakes and rivers. Aquat.Microb.Ecol.,2002,28:141-155.
+
+13 Konneke M.Isolation of an autotrophic ammonia-oxidizing marine archaeon.Nature,2005,437:543-546.
+
+14Ghai R.Key roles for freshwater Actinobacteria revealed by deep metagenomic sequencing.Mol. Ecol.,2014,23:6073- 6090.
+
+15 Craig VJ.Environmental genome shotgun sequencing of the Sargasso Sea. Science,2004,304:66-74.
+
+16Xing P.Low taxa richness of bacterioplankton in high-altitude
+
+lakes of the Eastern Tibetan Plateau combined with unusual predominance of Bacteroidetes and Synechococcus.Appl. Environ.Microb.,2009, 75: 7017-7025. 17Lauro F M.An integrative study of a meromictic lake ecosystem in Antarctica.ISME J.,2011,5: 879-895. 18Yau S.Virophage control ofAntarctic algal host-virus dynamics. PNAS,2011,108:6163-6168. 19 Yau S.Metagenomic insights into strategies of carbon conservation and unusual sulfur biogeochemistry in a hypersaline Antarctic lake.ISME J.,2013,7: 1944-1961. 20 王苏民.窦鸿身.中国湖泊志.北京:科学出版社1998
+
+# China Lake Microbiome Project
+
+Wu QinglongJiang Helong
+
+（Nanjing Institute of Geography&Limnology,Chinese Academy of Sciences,Nanjing 210o08, China）
+
+AbstractLakeisoneofthemostimportantecosystemsontheEarth.Lakesarevitalforsustainabledevelopmentofeconomyandociety notonlybecauselakescanprovdeimporatresouesieaterresouesqaticproductsadtourismsutalsoatlkesplayeyoles inflodigololaeiioteiollalbi plentyoflakecoveringveryroadevronmentalgradentsacrosdiferentaraoftsotinent.Chiaisrgardedasoneofteoutris withthehigestdiversityoflakecotpes.Microbesarkeycmponentofaeecosystesandarevitalforutrientcylingndcoste functioning.TheigenvironmentalheterogeneityacrossChineselakeswillmaintainaveryhighmicrobialdiversityandrichmicrobial resources.However,eowlitlebouttedvesiandunctioaltficrobstatdwellintesedverseCneselaks,arallue tothelowculturabilityandthemethodologicalimitationsofcultivationandisolationoflakemicrobes.Largescaleculture-indepdent microbiome investigationsandmasivecomparativemetagenomiccombined withtanscriptomicstudieswillenhanceourunderstandingon thepatesofvesitdstrbutiofobsineselassellseesmsndfthsepats.Itisotd thathemicrobalfuctioalpotetialsndcobaldaptatiotoetreekevirontsillbexplodindepthfrottafe scalecultureidepedeicrobiotictuiespartiulaeilleabletoscoerobialetabolicptasductiosto alargeextend,icheucialfoexploitatiooficrobialesourcesfrolake.Wewillalsocovrteprocess,issad environmentalcontrolofnutrntcyclingdrivenbymicrobes inlakes.Thesescientificchievementswillenableabeterunderstandingf thestructureandfunctioalityoflakecostesndwillealsoelpfulfrprotectiofmicobialdiversityndsustaiableepio ofmicrobialresourcesFurtheore,frotemicrobalperspeties,ayfndoresolutiosfortetigationoflepltiadte restoration of lake ecosystems through enhanced microbiome studies.
+
+Keywordslake,eco-environment, microbes,microbiome,project
+
+吴庆龙中科院南京地理与湖泊所研究员，中国科学院大学岗位教授，中国海洋湖沼学会湖泊专业委员会主任，中国生态学学会淡水生态专业委员会副主任，国际海洋与湖沼科学学会多样性委员会委员。主要研究领域包括：湖沼学、微生物生态学、湖泊生态环境的保护与恢复等。E-mail: qlwu@niglas.ac.cn
+
+WuQinglongAseniorscientistatNanjingIstuteofGeographyandLimology,ChineseAcademyofSciencesandaguestProfessor atUniversityofChineseAcademyofSciences.HeisalsotheheadoftheDivisionoflakeBiologyandEcologyHehasbeeneducatedat NanjingUiversityUversityofesecadeofiences,ndalzbrgUivestyitjorsoviometalologyrater ecologyandmicrobialology.HedorkedatAustranAcademyofiencsadatioalUiversityofingaporefoafearsbefe hemovedacktoChnainteyear7.Hisainresearchareaisicrobialeologyinaquaticcosystesadhisexperiencesfalintohe fieldsncludigmicrobafodbsdeirteractiosinladwaters,vesitydeolgfobsndwatespator interactionsamongaquaticmicro-organisms,andisolatioandcharacterizationofaquaticbacteria.Hehaspublishedmorethan6peer reviewedpapersinjouals.HealsoseresassociateeitorsoreditoralmembersforafewjoualsicludingApldandEnviotal MicrobiologyCcrobiologyLimologyndFrotierincrologyHaawardedteutstadingYoungientistotial Science Foundation of China in the year 20l2.E-mail: qlwu@niglas.ac.cn

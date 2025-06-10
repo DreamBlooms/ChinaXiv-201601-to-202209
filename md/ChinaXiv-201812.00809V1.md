@@ -1,0 +1,159 @@
+不同实验室间单胃动物仿生消化系统消化条件与酶水解物能值测定再现性的研究！
+
+高庆涛」张虎」　赵　峰1\*王钰明」杜青之²邓耀辉²（1.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193；2.湖南中本智能科技发展有限公司，长沙 410013)
+
+摘要：本试验旨在探讨单胃动物仿生消化系统（SDS-2）消化条件及测定结果在不同实验室间的再现性。采用单因素完全随机设计，共4个实验室处理。将玉米、大豆粕粉碎过60目筛后，分发至4个实验室。每个实验室选用1台 SDS-2，每台 SDS-2设定2个仿生消化组测定其缓冲液流速、消化液流速、清洗液流速。通过温度传感器分别测定酶促反应室、缓冲液控温室、消化液储存室温度的变化曲线，通过电磁传感器测定混合频率的变化曲线。根据 SDS-2操作技术规程，测定玉米及大豆粕的酶水解物能值。结果表明：1）不同实验室间小肠和大肠消化液流速有显著性差异（ $. P { < } 0 . 0 5 )$ )，但其胃、小肠、大肠缓冲液流速及清洗液流速无显著性差异 （ $P { > } 0 . 0 5 )$ 。实验室内同一台 SDS-2的2个仿生消化组间的胃、小肠、大肠缓冲液流速和清洗液流速均有显著性差异（ $\scriptstyle \cdot < 0 . 0 5$ )。2）4个实验室中，虽然开机后仿生消化系统的起始混合频率以及酶促反应室、缓冲液控温室、消化液储存室的起始温度不同，但在运行 $6 0 \mathrm { m i n }$ 后消化条件均达到一致。3）玉米干物质消化率和酶水解物能值的实验室内、实验室间变异系数以及总变异系数均不超过 $1 . 2 3 \%$ ，且实验室间无显著性差异（ $P { > } 0 . 0 5 )$ 。大豆粕干物质消化率的实验室内、实验室间变异系数以及总变异系数分别为 $1 . 3 0 \%$ 、 $2 . 2 3 \%$ 和 $2 . 5 2 \%$ ，酶水解物能值对应变异系数分别为$0 . 8 9 \%$ 、 $1 . 4 3 \%$ 和 $1 . 6 4 \%$ ，且实验室间有显著性差异（ $_ { \cdot P < 0 . 0 1 \rangle }$ 。由此可见，实验室间 SDS-2小肠液、大肠液流速的差异并不导致饲料酶水解物能值测定结果的差异。各实验室 SDS-2开机运行 $6 0 \mathrm { m i n }$ 以上可以达到一致的消化条件。实验室间玉米酶水解物能值测定的再现性高于大豆粕，2个饲料酶水解物能值的实验室总变异系数都可控制在 $1 . 6 4 \%$ 以内，具有满意的再现性，达到定量分析要求。
+
+关键词：仿生消化；消化条件；酶水解物能值；再现性中图分类号：S816.17
+
+国家标准GB/T6379.1—2004规定测量方法与结果的准确度包括重复性和再现性2个方面[1]。在同一实验室，由同一操作员使用相同的设备和测试方法进行独立检测的精密度称为重复性；而在不同的实验室，由不同的操作员使用不同的设备，按相同的方法进行独立检测的精密度称为再现性，它们是确定方法是否可行的重要依据。Bourdillon 等[2]建立的欧洲肉鸡饲粮代谢能值测定方法中，4个饲粮的氮校正表观代谢能（ $\mathrm { A M E } _ { \mathrm { n } }$ ）值在7个实验室间的平均变异系数为 $2 . 9 2 \%$ 。Carabano 等[3]采用Boisen等[4]的方法体外模拟家兔的消化过程，获得8个样品4个实验室间干物质消化率（DMD）的平均变异系数为3.24%。这表明，实验室间测定饲料养分生物学效价的再现性变异相对较大。对于动物营养学国家重点实验室开发的单胃动物仿生消化系统（SDS-2）测试结果的重复性，李辉等[5]采用第1代单胃动物仿生消化系统（SDS-1）在同一实验室内测鸭饲料酶水解物能值（EHGE）的批内与批间变异系数均不超过1.40%。赵峰等采用第2代单胃动物仿生消化系统（SDS-2）测定4种鸡饲料原料EHGE的批内与批间变异系数均不高于 $1 . 6 4 \%$ 。由此可见，SDS-2重复性是满意的。然而，在不同实验室间，试验环境条件并非完全一致，其测试结果的再现性需要进一步佐证。为此，本研究通过比较4个实验室间 SDS-2模拟猪消化过程中的缓冲液流速、消化液流速、清洗液流速和开机后温度、混合频率变化曲线等消化条件以及 EHGE 测定的再现性，探讨 SDS-2在不同实验室间测试结果的再现性能否达到定量分析的要求。
+
+# 1材料与方法
+
+1.1 饲料原料
+
+采集玉米、大豆粕各 $2 . 5 \mathrm { k g }$ ，用万能粉碎机粉碎后过60目方形筛孔。样品采用抽真空充氮避光包装，普通条件运输至各实验室，并于实验室内 ${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C }$ 保存备用。玉米、大豆粕的概略养分与总能值见表1。
+
+# 表1玉米、大豆粕的概略养分与总能值(干物质基础)
+
+Table 1Proximate nutrients and gross energy value in corn and soybean meal (DM basis)   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="6">养分含量 Nutrient contents</td></tr><tr><td>干物质</td><td>粗蛋白质 Crude</td><td>粗纤维 Crude</td><td>粗脂肪 Ether</td><td>粗灰分</td><td>总能 Gross</td></tr><tr><td></td><td>Dry matter/%</td><td>protein/%</td><td>fiber/%</td><td>extract/%</td><td>Crude ash/%</td><td>energy/(MJ/kg)</td></tr><tr><td>玉米Corn</td><td>89.28</td><td>9.18</td><td>2.31</td><td>4.93</td><td>1.45</td><td>18.67</td></tr><tr><td>大豆粕 Soybean meal</td><td>89.49</td><td>45.50</td><td>5.93</td><td>2.38</td><td>6.73</td><td>19.70</td></tr></table></body></html>
+
+# 1.2 试验设计
+
+所有实验室 SDS-2均按照生长猪仿生消化过程的消化参数设置9]，且保持一致。根据 SDS-2 的设计原理[7-8]，对实验室间仪器内2组仿生消化管路的缓冲液流速、清洗液流速、消化液流速的差异采用嵌套设计，其中一级处理因素为实验室，共设4个，每个实验室1台 SDS-2，二级处理因素为 SDS-2内2个仿生消化组，每个处理进行3次重复测定。对 SDS-2酶促反应室、缓冲液控温室、消化液储存室的温度通过温度传感器检测，混合频率通过电磁传感器测定。实验室间饲料的DMD 和 EHGE 的差异，采用完全随机设计，每个处理5个重复，每个重复1根消化管。
+
+# 1.3仿生消化中消化条件的测定
+
+缓冲液流速的测定：在SDS-2的1号蠕动泵转速设置为 $6 0 ~ \mathrm { r / m i n }$ 时，泵转动 $2 ~ \mathrm { m i n }$ 后通过量筒计量第1个和第2个组仿生消化组管路泵入去离子水的体积，每组重复测定3次。
+
+清洗液流速的测定：在SDS-2的2号蠕动泵转速设置为 $1 8 0 ~ \mathrm { r / m i n }$ 时，泵转动 $2 \mathrm { m i n }$ 后通过量筒计量第1个和第2个仿生消化组管路泵入去离子水的体积，每组重复测定3次。
+
+消化液流速的测定：1）模拟小肠液注入流速，用移液器往1\~10号加液管中加入2mL 去离子水，开启3号蠕动泵，用秒表记录液体完全泵入模拟消化器的时间，重复测定3次。2）模拟大肠液注入流速，用移液器往11\~20 号加液管中加入 $2 \mathrm { m L }$ 去离子水，开启4号蠕动泵，用秒表记录液体完全泵入模拟消化器的时间，重复测定3次。
+
+温度与混合频率的监测：由温度传感器、电磁传感器通过 SDS-2控制软件采集仿生消化过程中酶促反应室、缓冲液控温室、消化液储存室的温度变化曲线及摇床混合频率的变化曲线。
+
+# 1.4 饲料EHGE 的测定
+
+猪模拟消化液试剂盒由中国农业科学院北京畜牧兽医研究所动物营养学国家重点实验室提供，采用低温运输。实验室4℃保存备用。模拟消化液消化酶活性及仿生消化测定饲料DMD 和EHGE的方法参考《单胃动物仿生消化系统操作手册》（第2版）[9]。
+
+# 1.5 数据处理
+
+根据单因素完全随机设计原理，用 SAS9.0的MEANS 模块对基本统计量进行分析，根据嵌套设计原理，用ANOVA 模块对流速进行方差分析。用GLM模块对各处理下饲料原料的DMD 和EHGE 进行方差分析，平均值通过Duncan氏法进行多重比较；实验室内变异系数、实验室间变异系数及总变异系数参照蒋红卫等[10]方法计算。数据计算公式及统计模型如下：
+
+$$
+\mathbb { D } \mathbb { M } \mathbb { D } ( \% ) = \frac { M _ { 1 } - M _ { 2 } } { M _ { 1 } } \times 1 0 0 ;
+$$
+
+$$
+\mathrm { E H G E } ( \mathrm { k J / k g } ) = \frac { E _ { 1 } - E _ { 2 } } { M _ { 1 } } ;
+$$
+
+总变异系数 $\mathrm { ( C V } _ { t o t a l }$ ${ \bf \Psi } _ { o t a l } , { \bf \Psi } _ { o f } ^ { 0 } ) { \bf \Psi } = \sqrt [ 2 ] { \frac { \sum _ { i = 1 } ^ { G } \sum _ { j = 1 } ^ { N _ { I } } \frac { 1 } { N } ( Y _ { i j } - { \bar { Y } } ) ^ { 2 } } { { \bar { Y } } ^ { 2 } } } \circ$
+
+嵌套设计统计模型为：
+
+$$
+\mathrm { Y _ { i j k } = \mu + L _ { i } + B ( L ) _ { i j } + \varepsilon _ { i j k _ { \circ } } }
+$$
+
+单因素方差分析统计模型为：
+
+$$
+Y _ { i j } = \mu + \operatorname { L i } + \varepsilon _ { i j \circ }
+$$
+
+式中： $M _ { 1 }$ 为上样干物质量； $M _ { 2 }$ 为未消化残渣干物质量； $E _ { 1 }$ 为上样总能量； $E _ { 2 }$ 为未消化残渣总能量;$\overline { { Y } } _ { i }$ 为第 $i$ 个实验室的均值； $L$ 为实验室效应； $B$ 为实验室内 SDS-2 的2 组仿生消化效应； $\boldsymbol { \varepsilon }$ 为误差；Y为样本总平均值； $G$ 为实验室个数； $N$ 为样本总数； $N _ { i }$ 为第 $i$ 个实验室的样本数。
+
+# 2结果与分析
+
+# 2.1不同实验室间SDS-2 消化条件实测值的再现性
+
+由表2可见，在 SDS-2控制参数的测定中，实验室间胃、小肠、大肠缓冲液流速以及清洗液流速无显著性差异（ $\scriptstyle P > 0 . 0 5 .$ )，但仿生消化组间的胃、小肠、大肠缓冲液流速及清洗液流速有显著性差异（ $_ { \scriptstyle P < 0 . 0 1 }$ )。其中实验室2、3和4在2个仿生消化组的胃缓冲液流速上有显著性差异（ $\scriptstyle \cdot { P < 0 . 0 5 } )$ ，相差$1 6 { \sim } 1 8 \ \mathrm { m L / m i n }$ ；实验室3和4在2个仿生消化组的小肠和大肠缓冲液流速上有显著性差异（ $_ { . P < 0 . 0 5 ) }$ ，相差 $1 2 { \sim } 1 8 ~ \mathrm { m L / m i n }$ ；实验室1、2和4在2个仿生消化组的清洗液流速上有显著差异（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ，相差$3 { \sim } 3 5 ~ \mathrm { m L / m i n }$ 。实验室间小肠和大肠消化液流速有显著性差异（ $\scriptstyle \cdot < 0 . 0 5 .$ )，其中实验室1和4的小肠和大肠消化液流速均显著高于实验室2和3（ $P { < } 0 . 0 5$ )。2个仿生消化组间的小肠消化液流速有显著性差异中 $\scriptstyle \cdot { P < 0 . 0 5 } )$ ，而大肠消化液流速无显著性差异（ $P { > } 0 . 0 5 )$ 。
+
+# 表24个实验室间 SDS-2 消化条件实测值的差异
+
+Table 2Differences in determined values of digestion condition of SDS-2 among 4 laboratories mL/min
+
+<html><body><table><tr><td>实验室</td><td>仿生消化组 Group of</td><td colspan="3">缓冲液流速 Flow velocity of buffer solution</td><td colspan="2">消化液流速 Flow velocity of digestive fluid</td><td>清洗液流速 Flow velocity</td></tr><tr><td>Laboratory</td><td>simulated digestion</td><td>胃 Stomach</td><td>小肠 Small</td><td>大肠 Large</td><td>小肠 Small</td><td>大肠 Large</td><td>of washing solution</td></tr><tr><td>1</td><td>1</td><td>131.50±1.32</td><td>140.00±0.01</td><td>133.33±1.44</td><td>2.21±0.17</td><td>2.24±0.06</td><td>425.00±0.01b</td></tr><tr><td></td><td>2</td><td>135.00±0.01</td><td>137.50±0.02</td><td>133.83±1.26</td><td>2.31±0.13</td><td>2.29±0.05</td><td>460.00±0.01a</td></tr><tr><td>2</td><td>1</td><td>130.16±1.61b</td><td>141.63±7.63</td><td>151.67±1.44</td><td>1.77±0.28</td><td>2.07±0.14</td><td>475.33±1.53b</td></tr><tr><td></td><td>2</td><td>146.00±0.86a</td><td>151.50±1.32</td><td>150.50±0.87</td><td>1.97±0.11</td><td>2.09±0.07</td><td>499.00±1.00a</td></tr><tr><td>3</td><td>1</td><td>138.33±1.44b</td><td>136.33±1.26b</td><td>134.67±2.02b</td><td>1.97±0.10</td><td>2.01±0.20</td><td>439.33±0.58</td></tr><tr><td></td><td>2</td><td>155.66±0.58a</td><td>154.23±1.04a</td><td>152.17±0.58a</td><td>1.84±0.23</td><td>1.97±0.09</td><td>436.00±1.00</td></tr><tr><td>4</td><td>1</td><td>152.33±0.29a</td><td>152.76±0.29a</td><td>15317±0.58a</td><td>2.37±0.12</td><td>2.27±0.18</td><td>464.33±13.65a</td></tr><tr><td></td><td>2</td><td>136.33±1.26b</td><td>141.33±0.76b</td><td>140.50±0.50b</td><td>2.25±0.05</td><td>2.25±0.11</td><td>424.66±4.16b</td></tr><tr><td>平均值 Mean</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1</td><td>133.33</td><td>138.83</td><td>133.58</td><td>2.26a</td><td>2.27a</td><td>442.50</td></tr><tr><td>实验室</td><td>2</td><td>138.08</td><td>146.63</td><td>151.08</td><td>1.87b</td><td>2.08b</td><td>487.17</td></tr><tr><td>Laboratory</td><td>3</td><td>146.99</td><td>145.33</td><td>143.42</td><td>1.91b</td><td>1.99b</td><td>437.67</td></tr><tr><td></td><td>4</td><td>144.33</td><td>147.08</td><td>146.83</td><td>2.31a</td><td>2.26a</td><td>444.50</td></tr><tr><td colspan="2">方差来源 Source of variance</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>实验室 Laboratory</td><td>0.58</td><td>0.74</td><td>0.27</td><td>0.03</td><td><0.01</td><td>0.20</td></tr><tr><td>P值</td><td>仿生消化组</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P-value</td><td>Group of simulated</td><td><0.01</td><td><0.01</td><td><0.01</td><td><0.01</td><td>0.67</td><td><0.01</td></tr></table></body></html>
+
+4个实验室 SDS-2开机后仿生消化的混合频率及酶促反应室、缓冲液控温室、消化液储存室温度的变化曲线如图1。由图1-a可见，实验室3的初始混合频率最低（ $7 9 \mathrm { r / m i n } \mathrm { . }$ )，实验室1的初始混合频率最高（ $1 3 5 ~ \mathrm { r / m i n } ^ { \cdot }$ )，实验室2和4的初始混合频率居中（平均为 $1 0 8 ~ \mathrm { r / m i n } \mathrm { \Omega }$ ；开机 $6 \mathrm { m i n }$ 以后，4个实验室的混合频率均能达到预设的 $1 8 0 ~ \mathrm { r / m i n }$ ，并维持这一混合频率。由图1-b可见，实验室3的缓冲液控温室初始温度最低（ $2 0 . 9 \ \mathrm { ~ \textbar { ~ C ~ } ~ }$ ，实验室1的缓冲液控温室初始温度最高（ $3 9 . 1 ~ \mathrm { ~ \textbar { ~ C ~ } { ~ } }$ ，实验室2和4的缓冲液控温室初始温度居中（ $2 8 . 0 { \sim } 2 9 . 1 \ \mathrm { ~ \textdegree ~ }$ ；开机 $6 0 \mathrm { m i n }$ 后，4个实验室的缓冲液控温室温度均趋于设定值（39.0℃）。由图1-c可见，实验室3的酶促反应室初始温度最低（ $1 9 . 0 \mathrm { ~ \textdegree ~ }$ ，实验室1的酶促反应室初始温度最高（ $3 8 . 1 ~ \mathrm { ~ \textdegree ~ }$ )，实验室2和4的酶促反应室初始温度居中（ $2 8 . 8 { \sim } 2 9 . 8 \ \mathrm { ~ \textdegree ~ }$ ；开机后 $2 4 \sim$ 36 min，4个实验室的酶促反应室的温度均趋于设定值（ $3 9 . 0 \mathrm { ~ \textdegree ~ }$ )。实验室3在开机后 $4 2 { \sim } 4 8 \ \mathrm { m i n }$ 因酶促反应室的操作门打开温度从39.0℃急剧下降至 $3 1 . 0 \mathrm { ~ \textdegree ~ }$ ，关闭操作门后在开机 $6 0 \mathrm { m i n }$ 后再次趋于设定值。由图1-d可见，实验室1的消化液储存室初始温度最低（ $8 . 9 ~ \mathrm { ~ ^ { \circ ~ } C ~ }$ )，实验室2和4的消化液储存室初始温度最高（ $2 8 . 2 { \sim } 2 9 . 6$ ℃)，实验室3的消化液储存室初始温度居中（ $1 7 . 9 \mathrm { ~ \textdegree ~ }$ ，开机 $1 2 \mathrm { m i n }$ 后，4个实验室的消化液储存室温度在 $3 . 9 { \sim } 1 1 . 4 \mathrm { ~ \normalfont ~ \textdegree ~ }$ 内变化。
+
+![](images/44c67c8b64d165fc3fdef6367655e58d7cce14178544377d8d54fb4cd44b19b0.jpg)
+
+![](images/ab0e22d48116341097f044a21643eab322f3e22d69773d45f6e375f3d366da45.jpg)  
+图1 4个实验室间SDS-2消化条件实测值的变化曲线  
+Fig.1Curve of determined values of digestion condition of SDS-2 among 4 laboratories
+
+2.2实验室间 SDS-2 测定饲料DMD 和EHGE 的再现性
+
+由表3可见，在玉米的仿生消化中，4个实验室间的DMD 和 EHGE 均没有显著性差异（ $P { > } 0 . 0 5 )$ ，分别介于 $7 8 . 0 3 \% { \sim } 7 8 . 6 9 \%$ 和15.43\~15.63MJ/kg。玉米DMD 的实验室内、实验室间变异系数及总变异系数均低于 $1 . 2 3 \%$ 。玉米EHGE的实验室内、实验室间变异系数及总变异系数均低于 $0 . 9 9 \%$ 。
+
+在大豆粕的仿生消化中，4个实验室间的DMD 和EHGE均有显著性差异（ $P { < } 0 . 0 1 \ )$ ，分别介于$5 8 . 3 6 \% { \sim } 6 1 . 5 8 \%$ 和 $1 3 . 1 4 { \sim } 1 3 . 6 2 \ \mathrm { M J / k g }$ 。大豆粕DMD 的实验室内、实验室间变异系数及总变异系数分别为 $1 . 3 0 \%$ 、 $2 . 2 3 \%$ 和 $2 . 5 2 \%$ 。大豆粕EHGE的实验室内、实验室间变异系数及总变异系数分别为 $0 . 8 9 \%$ 、$1 . 4 3 \%$ 和 $1 . 6 4 \%$ 。
+
+表34个实验室间玉米和大豆粕DMD和EHGE测定值的差异   
+Table 3Diferences of determined values on DMD and EHGE of corn or soybean meal among 4 laboratories   
+
+<html><body><table><tr><td>项目</td><td colspan="2">玉米Corm</td><td colspan="2">大豆粕 Soybean meal</td></tr><tr><td></td><td>干物质消化率</td><td>酶水解物能值</td><td>干物质消化率</td><td>酶水解物能值</td></tr><tr><td>Items</td><td>DMD/%</td><td>EHGE/(MJ/kg)</td><td>DMD/%</td><td>EHGE/(MJ/kg)</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="5">实验室</td></tr><tr><td colspan="5">Laboratory</td></tr><tr><td>1</td><td>78.62±1.66</td><td>15.63±0.26</td><td>61.58±0.33a</td><td>13.34±0.06b</td></tr><tr><td>2</td><td>78.73±0.39</td><td>15.45±0.06</td><td>58.36±0.27c</td><td>13.18±0.10c</td></tr><tr><td>3</td><td>78.03±0.71</td><td>15.50±0.12</td><td>61.47±1.30a</td><td>13.62±0.18a</td></tr><tr><td>4</td><td>78.69±1.11</td><td>15.43±0.17</td><td>59.63±0.76b</td><td>13.14±0.11c</td></tr><tr><td colspan="5">统计量 Statistics</td></tr><tr><td>平均值</td><td>78.51</td><td>15.49</td><td>60.26</td><td>13.32</td></tr><tr><td>Mean</td><td></td><td></td><td></td><td></td></tr><tr><td>极差Range 变异系数 CV/%</td><td>0.70</td><td>0.20</td><td>2.22</td><td>0.48</td></tr><tr><td colspan="5"></td></tr><tr><td>实验室内 Intra-laboratory</td><td>1.23</td><td>0.99</td><td>1.30</td><td>0.89</td></tr><tr><td colspan="5"></td></tr><tr><td>实验室间</td><td>0.38</td><td>0.44</td><td>2.23</td><td>1.43</td></tr><tr><td>Inter-laboratory</td><td></td><td></td><td></td><td></td></tr><tr><td>总和 Total</td><td>1.15</td><td>0.98</td><td>2.52</td><td>1.64</td></tr><tr><td>P值P-value</td><td>0.64</td><td>0.35</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1SDS-2 消化条件的控制及变异因素
+
+在体外模拟消化中，消化条件将直接影响模拟消化的程度及其与体内消化的相关性[1]。然而，在传统的以三角瓶为反应器的模拟消化液中，不同研究者在同种动物体外消化条件的设置上并不统一[12]。即使是自动化程度高的体外消化系统在使用上也鲜见关于设定消化条件与实际消化条件是否吻合方面的报道[13]。本试验中，所有实验室的 SDS-2在消化条件参数的设置上是一致的，但仿生消化实测的消化条件与设置的消化条件的接近程度受参与控制过程的电器元件自身控制精度的影响。根据国家标准GB/T 6379.1—2004[1关于测定再现性的定义，不同实验室间的 SDS-2在设置的消化条件参数一致的前提下，仿生消化实测的消化条件上也是有变异的，从而影响到再现性的程度。从 SDS-2的设计原理看，同一台 SDS-2的2组仿生消化组中，缓冲液、模拟小肠液及模拟大肠液泵入模拟消化器分别由蠕动泵1、3、4提供动力，每次清洗需要的去离子水由2号蠕动泵定量泵取[7]（表4)。2组仿生消化组都是通过同轴同步的双泵头为溶液的泵入提供动力，因此，脉冲流量主要受泵管磨损程度及管路阻力的影响。本研究组前期试验结果表明，当新泵管装入泵头（6滚轮）在 $6 0 ~ \mathrm { r / m i n }$ 下运行 $1 8 0 \mathrm { h }$ 后，流速从 $1 6 0 ~ \mathrm { { m L / m i n } }$ 降至 $1 4 0 ~ \mathrm { m L / m i n }$ ，并趋于稳定。这一现象与蠕动泵是通过泵头滚轮脉冲挤压泵管提供泵入动力的原理有关。新泵管挤压空间较大，脉冲流量也相对较大；当泵管经泵头挤压一段时间后，空间变小并趋于稳定，因此脉冲流量也相应地变小并趋于稳定。此外，进入模拟消化器循环的胃、小肠、大肠缓冲液是由3 组（每组2个）电磁阀的开关来控制的，管道的长短与电磁阀触点挤压会影响到液体流动的阻力。本试验中，缓冲液的流速在 $1 3 0 { \sim } 1 5 6 ~ \mathrm { m L / m i n }$ 间变化，实验室间在缓冲液的平均流速上无显著差异，而在同一台仪器的2组仿生消化组间有显著差异。这表明，实验室间 SDS-2 在缓冲液流速上总体一致，但在2 组仿生消化组间存在差异。从单胃动物仿生消化的原理看，饲料与消化液在透析代内，缓冲液在透析袋外通过蠕动泵泵入循环，当缓冲液循环速度大大超过透析袋内外物质交换的速度时，缓冲液流速的差异将不会导致透析袋内物质带走及消化产物对仿生消化抑制程度的差异，同时由于上样量与缓冲液的比例为 $5 \small { \sim } 1 0 \ \mathrm { g } \colon 1 \ 0 0 0 \ \mathrm { m L }$ ，缓冲液流速的差异不会引起缓冲液中水解产物浓度的差异。在本试验的 SDS-2中，缓冲液 $7 { \sim } 8 \mathrm { m i n }$ 循环1次，2组仿生消化组缓冲液流速的差异约需要 $5 0 \mathrm { m i n }$ 才引起缓冲液循环相差1次，而透析袋内外物质交换的速度约 $4 0 \mathrm { m i n }$ 。因此，本试验条件下缓冲液流速的差异将不会导致消化率的差异。在消化液流速中，实验室间存在显著差异。根据单胃动物仿生消化的原理，每根模拟消化器泵入的模拟小肠消化液、模拟大肠消化液均为 $2 \mathrm { m L }$ ，为了把所有消化液完全泵入模拟消化器中，对10 通道的蠕动泵（3、4号)，以通道的最低流速作为消化液泵入速度，从而保证 $2 { \mathrm { m L } }$ 消化液能完全泵入模拟消化器，从而消除流速差异对仿生消化的影响。仿生消化后，清洗水解产物所用去离子水的体积与上样量比例为 $3 0 0 ~ \mathrm { m L }$ ： $\mathsf { 1 } \sim \mathsf { 2 } \ \mathsf { g }$ ，累计清洗4次。若同一台 SDS-2中2个仿生消化组的清洗液流速相差 $4 0 ~ \mathrm { m L / m i n }$ ，则泵取 $1 ~ 5 0 0 ~ \mathrm { m L }$ 去离子水后体积相差 $1 5 0 ~ \mathrm { m L }$ 以内，折算到每根消化管相差 $3 0 ~ \mathrm { m L }$ 。按照每根消化管上样量 $2 { \mathrm { ~ g ~ } }$ ，DMD为 $7 5 \%$ 计算，则共计通过清洗液带出的物质为 $ { 1 . 5 \mathrm { g } }$ 。由于采用逐级清洗，则理论上2组仿生消化组未清洗出的消化物质量相差量为： $1 . 5 { \times } ( 2 0 / 3 5 0 ) ^ { 4 } { - } 1 . 5 { \times } ( 2 0 / 3 2 0 ) ^ { 4 } { < } 0 . 0 0 0 \ 1 \ \mathrm { g } \circ$ （204号由此可见，在清洗液总体积相对样品量大很多时，通过4次逐级清洗后，即使清洗液泵入体积每次相差$10 \%$ ，但未清洗出物质的差异可以忽略不计。李辉等[5]的试验结果证明了同一台 SDS-2中，2个仿生消化组对同一样品的消化率无显著性差异，这表明 SDS-2在当前设计及电器元件条件下的溶液流速变异不会引起EHGE 测定值的差异。
+
+表4SDS-2 溶液泵入所用蠕动泵的参数  
+Table 4Parameters of peristalsis pump for pumping solution in SDS-2   
+
+<html><body><table><tr><td>项目Items</td><td>溶液 Solution</td><td>蠕动泵编号 Number of</td><td>蠕动泵泵头 型号 Pump head model of</td><td>蠕动泵转速 Rotation rate of peristalsis</td><td>泵管尺寸 Size of pump tubing/mm</td></tr><tr><td rowspan="4">仿生消化组1</td><td>缓冲液 Buffer solution</td><td>1</td><td>兰格 YZ1515x</td><td>60</td><td>4.8×8</td></tr><tr><td>清洗液 Washing solution</td><td>2</td><td>兰格 YZ1515x</td><td>180</td><td>4.8x8</td></tr><tr><td>模拟小肠液 Simulated</td><td>3</td><td>兰格DG-12</td><td>15</td><td>2×4</td></tr><tr><td>模拟大肠液 Simulated</td><td>4</td><td>兰格DG-12</td><td>15</td><td>2×4</td></tr><tr><td></td><td>缓冲液 Buffer solution</td><td>1</td><td>兰格 YZ1515x</td><td>60</td><td>4.8×8</td></tr><tr><td>仿生消化组2</td><td>清洗液 Washing solution</td><td>2</td><td>兰格 YZ1515x</td><td>180</td><td>4.8x8</td></tr><tr><td>Simulated digestion group 2</td><td>模拟小肠液 Simulated Small intestinal fluid</td><td>3</td><td>兰格DG-12</td><td>15</td><td>2×4</td></tr><tr><td></td><td>模拟大肠液 Simulated large intestinal fluid</td><td>4</td><td>兰格 DG-12</td><td>15</td><td>2×4</td></tr></table></body></html>
+
+实验室间 SDS-2的初始混合频率有所差异，这是由于电机的实际电容量有所差异，导致电机加电
+
+启动时转速不同。加电运行6min后，各实验室的混合频率能达到设定要求。实验室间酶促反应室、缓冲液控温室及消化液储存室的初始温度相差较大，除实验室1属于 SDS-2 刚运行1个消化周期，紧接着开展本试验外，其他3个实验室都是 SDS-2未经开机运行开展的本试验。因此，实验室1在酶促反应室、缓冲液控温室及消化液储存室都与设定参数很接近。而其他3个实验室的初始温度条件都接近自身的实验室温度条件。缓冲液控温室达到设定温度所需要的时间比酶促反应室及消化液储存室达到设定温度的时间长，这是因为水的热容量比空气的热容量大。虽然各实验室的环境温度相差较大，但经过60 min运行后，温度条件都能达到设定要求。因此，SDS-2的开机预热时间设为 $6 0 ~ \mathrm { { m i n } }$ ，可以排除实验室间环境温度对仿生消化的影响。
+
+# 3.2 SDS-2测定饲料原料DMD和EHGE的再现性
+
+在仿生消化方法中，尽管不同实验室间的模拟消化参数、消化过程的控制都一致，且最大限度地减少了人为操作引起的干扰，但在实际测定中不同实验室间在试验用水规格、氧弹计测定总能值、操作人员熟练程度等方面均有差异。在同一实验室条件下，赵峰等的试验结果表明，鸡仿生消化法测定玉米、小麦、棉籽粕的DMD 和 EHGE 的批内、批间变异系数及总变异系数均不超过 $1 . 0 0 \%$ 。Carabano 等[3]采用三角瓶体外模拟消化法在4个实验室测定兔饲粮DMD 的实验室内变异系数为 $1 . 7 3 \%$ ，实验室间的变异系数为 $3 . 2 4 \%$ 。Bourdillon 等[2测定欧洲7个实验室间鸡饲粮的干物质含量、总能、氮含量及鸡表观代谢能的变异系数分别为 $1 . 2 7 \%$ 、 $1 . 2 9 \%$ 、 $4 . 3 9 \%$ 和 $2 . 9 2 \%$ 。Getachew 等[14]采用产气法测定7个实验室间 $2 4 \mathrm { h }$ 产气量的变异系数为 $7 . 8 8 \%$ 。本试验仿生消化法测定玉米的DMD、EHGE 的实验室内、实验室间变异系数均在 $1 . 2 3 \%$ 以内，且实验室间无显著性差异。大豆粕的DMD、EHGE 的实验室内、实验室间变异系数均在 $2 . 2 3 \%$ 以内，实验室间在DMD与EHGE上有显著差异，且DMD 的极差、变异系数比能量消化率的相应值大。这可能与各实验室在仿生消化过程中清洗产物时所用的水不一致有关（实验室通常使用2类试验用水：市售桶装纯净水、膜过滤去离子水)。此外，在仿生消化方法中，大豆粕上样量为 $\mathrm { ~ 1 ~ g ~ }$ ，而玉米上样量为 $2 { \mathrm { g } }$ ，从数据的计算上也使得大豆粕的测定值误差比玉米高1倍，从而也增加了实验室间的差异。尽管如此，与前述方法相比，本仿生消化方法在实验室间的再现性更好。
+
+# 4结论
+
+$\textcircled{1}$ 虽然实验室间 SDS-2在消化液流速有显著差异，但不会引起饲料原料 EHGE 测定结果的差异。4个实验室间SDS-2开机运行 $6 0 \mathrm { m i n }$ 后混合频率及酶促反应室、缓冲液控温室、消化液储存室的温度均达到一致。
+
+$\textcircled{2}$ 实验室间玉米EHGE的再现性高于大豆粕,2个饲料原料EHGE的总变异系数都可控制在 $1 . 6 4 \%$ 以内，具有满意的再现性。
+
+# 参考文献：
+
+[1] 中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T6379.1-2004 测定方法与结果的准确性(正确度与精密度)第1部分:总则与定义[S].北京:中国标准出版社,2005.
+
+[2] BOURDILLON A,CARRE B,CONAN L,et al.European reference method for the in vivo determination of metabolisable energy with adult cockerels:reproducibility,effect of food intake and comparison with individual laboratory methods[J].British Poultry Science,1990,31(3):557-565.
+
+[3] CARABANO R,NICODEMUS N,GARCIA J,et al.In vitro analysis,an accurate tool to estimate dry matter digestibility in rabbits.Intra-and inter-laboratory variability[J].World Rabbit Science,2008,16(4):195-203.
+
+[4] BOISEN S,FERNAndez JA.Prediction of the apparent ileal digestibility of protein and amino acids in fedstuffsand feed mixturesfor pigsby in vitro analyses[J].Animal Feed Scienceand Technology,1995,51(1/2):29-43.
+
+[5]李辉,赵峰,计峰,等.仿生消化系统测定鸭饲料原料代谢能的重复性与精密度检验[J].动物营养学 报,2010,22(6):1709-1716.
+
+[6] 赵峰,李辉,张宏福.仿生消化系统测定玉米和大豆粕酶水解物能值影响因素的研究[J].动物营养学报,2012,24(5):870-876.
+
+[7]王钰明,赵峰,张虎,等.仿生消化法评定猪饲料营养价值的研究进展[J].动物营养学报,2016,28(5):1324-1331.
+
+[8] 赵峰,张宏福,张子仪.单胃动物仿生消化系统操作手册[M].北京:中国农业科学院,2009.  
+[9] 赵峰,张宏福,张子仪.单胃动物仿生消化系统操作手册[M].2版.北京:中国农业科学院,2011.  
+[10]蒋红卫,夏结来.基于样本变异系数的组间与组内变异统计量[C]//中国卫生统计学术交流大会论文集。武汉:中国卫生信息学会,2006:1-7.
+
+[11] BOISEN S,EGGUM B O.Critical evaluation of in vitro methods for estimating digestibility in simple-stomach animals[J].Nutrition Research Reviews,1991,4(1):141-162.
+
+[12]赵峰.用酶法评定鸭饲料代谢能的方法学研究[D].博士学位论文.北京:中国农业科学院,2006:35-47.
+
+[13]MEUNIER JP,MANZANILLA E G,ANGUITA M,et al.Evaluation of a dynamic in vitro model to simulate the porcine ileal digestion of diets differing in carbohydrate composition[J].Journal of Animal Science,2008,86(5):1156-1163.
+
+[14] GETACHEW G,CROVETTO G M,FONDEVILA M,et al.Laboratory variation of $2 4 \mathrm { ~ h ~ }$ in vitro gas production and estimated metabolizable energy values of ruminant feeds[J].Animal Feed Science and Technol0gy,2002,102(1/2/3/4):169-180.
+
+Laboratory Reproducibility of Digestion Condition and Enzymatic Hydrolysate Gross Energy in Simulated Digestion System for Monogastric Animals²
+
+GAO QingtaolZHANG $\mathrm { H u ^ { 1 } }$ ZHAO Feng1\* WANG Yuming1DU Qingzhi²DENG Yaohui² (1. State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Science,Beijing 100193,China; 2. Hunan Zhongben Intelligent Technology Development Co, Ltd., Changsha 410205, China)
+
+Abstract: This study was conducted to test the laboratory reproducibility of digestion condition and determination result in simulated digestion system (SDS-2） for monogastric animals.A single factor completely randomized design was adapted with 4 laboratory treatments. Corn and soybean meal were ground then passed a 6O-mesh and delivered to the 4 laboratories.In each laboratory,one SDS-2 was selected to measure the flow velocities of buffer solution,digestive fluid and washing solution.Variation curves of the temperature in enzymatic reaction room, buffer solution controlled room and digestive fluid storage room were measured by temperature sensors, variation curves of the mixing frequency was measured by electromagnetic sensor. The enzymatic hydrolysate gross energy (EHGE) of corn and soybean meal was determined according to the manual of SDS-2.The results showed as folows:1） there were significant differences on the flow velocity of digestive fluid in smallintestine and large intestine among different laboratories $( P { < } 0 . 0 5 )$ ,however, no significant diferences were observed on the flow velocities of buffer solution in stomach,smallintestine and large intestine and washing solution among different laboratories $( P { > } 0 . 0 5 )$ . There were significant diferences on the flow velocities of buffer solution in stomach,smallintestine and large intestine and washing solution in 2 simulated digestion groups in the same SDS-2 ( $_ { ( P < 0 . 0 5 ) }$ . 2） In 4 laboratories,despite different initial mixing frequency and initial temperature in enzymatic reaction room,bufer solution controlld room, digestive fluid storage room, the consistent digestion condition was observed after the SDS-2 performed for 60 min.3)In thecorn,the intra-laboratory,inter-laboratoryand total coefficient of variation (CV)were al less than $1 . 2 3 \%$ for dry matter digestibility (DMD） and EHGE，and no difference was observed across the laboratories $( P { > } 0 . 0 5 )$ . In the soybean meal, the intra-laboratory, inter-laboratory and total CV were $1 . 3 0 \%$ $2 . 2 3 \%$ and $2 . 5 2 \%$ for DMD and $0 . 8 9 \%$ ， $1 . 4 3 \%$ and $1 . 6 4 \%$ for EHGE,and significant difference was observed across the laboratories（ $P { < } 0 . 0 1$ ）.In conclusion, the difference in the flow velocity of small intestinal fluid and large intestinal fluid doesn't lead to the diffrence in EHGE determination result across the laboratories. Among 4 laboratories,the consistent digestion condition can be attained after the SDS-2 performed for $6 0 ~ \mathrm { { m i n } }$ The reproducibility of EHGE in corn across laboratories is beter than that in soybean meal. The total CV of EHGE of 2 feedstuffs across laboratories is less than $1 . 6 4 \%$ , indicating the reproducibility is satisfactory. Key words: simulated digestion; digestion condition; enzymatic hydrolysate gross energy; reproducibility

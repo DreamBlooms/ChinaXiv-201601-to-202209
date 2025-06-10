@@ -1,0 +1,251 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RNA干扰抑制CD59对非小细胞肺癌GLC-P细胞株增殖的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴伟东',刘丹²,侯文进²,易永盛²,王跃军¹,林苇嘉1  \n1广州市红十字会医院//暨南大学第四附属医院心胸外科,广东广州 510220;暨南大学第一临床医学院,广东  \n广州510630",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的运用RNAi技术抑制CD59基因的表达，观察其对非小细胞肺癌细胞株GLC-P增值、凋亡的影响。方法 合成可抑制CD59基因的片段，并运用RNA干扰技术,构建重组质粒，通过脂质体转染法将重组质粒转染至非小细胞肺癌细胞株GLC-P，并筛选出稳定表达细胞后，采用PCR、MTT、ELISA法检测该稳定表达细胞株的增值、凋亡所受到的影响。结果十扰后的GLC-P细胞株中CD59mRNA表达量较未干扰组显著降低（ $( P { < } 0 . 0 5 )$ ，同时MTT、ELISA实验检测显示肺癌GLC-P细胞增殖能力降低,可诱导肺癌细胞的凋亡。结论肺癌患者肿瘤细胞中存在CD59高表达，抑制CD59基因表达的同时可抑制GLC-P细胞的增殖能力并诱导细胞凋亡，为非小细胞肺癌的靶向治疗提供了新靶点、新思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：RNA干扰;CD59;非小细胞肺癌;GLC-P;增殖;凋亡 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of RNA interference of CD59 gene on proliferation of non-small cell lung cancer cell line GLC-P in vitro ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WUWeidong',LIUDan²,HOUWenjin²,YI Yongsheng²,WANGYuejun1,LINWeijial   \nDepartmentofCadthocicrgeryangzouedCosHospitalFourthflatedHitalofianiesityango   \nChina; ²First Clinical Medical College,Jinan University,Guangzhou 51o63o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveToinvestigatetheefectofCD59 gene inhibitionmediatedbyRNA interferenceontheprolferationand apoptosis ofnon-smallcllungcancer (NSCLC)GLC-Pcels invitro.Methods RecombinantplasmidsforRNA interferenceof CD59 gene wereconstructed and transfected into GLC-Pcells via lipofectamine 2000.The stably transfected cells were examined with real-timeRT-PCR,MTTassyandenzyme-linked immunosorbent assay toinvestigate thechanges incel proliferation andapoptosis.Results Compared with the control cels，thecells transfected with CD59-siRNA showed significantly decreased expression levels of CD59 mRNA $_ { ( P < 0 . 0 5 ) }$ and significantly inhibited cell proliferation. Conclusions CD59 gene is highly expressd inNSCLCandRNAinterference-mediated CD59 silencing canstronglyinhibit theproliferation and induce apoptosis in GLC-Pcels, which shed light on a potentially new target for targeted gene therapyof NSCLC. Key words: RNA interference; CD59; non-small cel lung cancer; GLC-P cells; proliferation; apoptosis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肺癌是目前人类死亡最常见的恶性肿瘤之一，近几年来，随着诊疗手段的提高与多样，虽有效延长了患者的生存期,但其发病率仍逐渐呈上升趋势,死亡率也仍高居首位。国际癌症研究署(IARC)相关报道显示：全球每年约有120万新增的肺癌病例，有110万人每年死于肺癌，其中非小细胞肺癌(NSCLC)占绝大多数，约$8 5 \\% ^ { [ 1 ] }$ 。因此提高肺癌的治疗手段显得尤为重要，目前肺癌除了常规的治疗手段外，基因靶向治疗近几年来持续成为研究热点。补体调节蛋白在促进补体免疫攻击肿瘤细胞中有至关重要的作用。许多研究发现肿瘤细胞表面常高表达一种或多种补体调节蛋白，这些补体调节蛋白可能帮助肿瘤逃避有效的免疫攻击[2]。CD59分子是补体调节蛋白家族成员之一，其本质是糖基磷脂酞肌醇蛋白，具有重要的免疫功能。国内外许多文献有报道在胃肠道癌、卵巢癌、前列腺癌、宫颈癌等发现有CD59的高表达，提示CD59与肿瘤的恶性生长有密切联系[3-5]。Ajona等在NSCLC中实验发现肺癌细胞比正常的肺组织细胞均高表达CD59。本研究旨在利用RNA干扰技术构建重组质粒抑制CD59分子的表达，探讨CD59分子与NSCLC细胞株GLC-P增殖、调亡的相关性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1主要实验试剂与相关仪器",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GLC-P细胞株,RPMI1640培养基， $1 0 \\%$ 小牛血清， 恒温培养箱，PSUPER质粒，质粒提取试剂盒，总RNA 提取试剂盒,限制性内切酶及DNA连接酶,lipofectine ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2000,高速低温离心机,PCR引物，酶联免疫检测仪，电泳仪（Bio-RadPowerPAC20O），荧光定量PCR仪（CFX96），凝胶成像系（GelDoc2000），CellDeathDetectionELISA试剂盒。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1细胞培养将肺癌GLC-P细胞株置于含有 $10 \\%$ 小牛血清的RPMI1640培养基中,并置于 $3 7 ~ \\mathrm { ^ { \\circ } C } \\setminus { 5 \\% } \\mathrm { C O } _ { 2 }$ ，饱和湿度细胞培养箱恒温培养，备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2重组载体的构建及筛选鉴定本实验以PSUPER质粒为载体，该质粒有BgI和Hind两个酶切位点，双酶切后与设计好的干扰CD59基因的寡核苷酸链进行连接，形成重组质粒，再利用酶切鉴定是否连接成功，筛选出稳定表达的重组质粒，即PSUPER-SiCD59(siRNA-CD59)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3转染GLC-P细胞将肺癌细胞GLC-P按细胞浓度 $5 { \\times } 1 0 ^ { 5 } .$ 个孔接种于标准6孔板中，加入RPMI1640培养基,待板中细胞生长至 $70 \\% { \\sim } 8 0 \\%$ 融合后，根据脂质体Lipofectamine $^ { \\mathrm { T M } } 2 0 0 0$ 操作方法，将PSUPER-siRNA-CD59质粒转染到GLC-P细胞中，同时用空质粒转染GLC-P细胞作为对照组，未做任何处理的细胞作为正常对照组。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4RT-PCR测定细胞中CD59mRNA的表达水平按TRIzol试剂盒分别提取细胞系GLC-P正常细胞组，siRNA-CD59细胞组及空质粒组的总RNA，分别各取1μg RNA逆转录为cDNA,再取 $2 ~ \\mu \\mathrm { L }$ cDNA以CD59的扩增引物进行PCR扩增，扩增上游引物为：3-AACCCAATCCTGTCAACA-5，下 游 引 物：3-AAGAAGACGACCACTGAG-5，扩增条件： $9 4 ~ \\mathrm { ^ { \\circ } C }$ 预变性 $3 \\ \\operatorname* { m i n } , 9 4 \\ \\mathrm { { c } } \\ 3 0 \\ \\mathrm { { s } } , 5 6 \\ \\mathrm { { c } } \\ 1 \\ \\operatorname* { m i n } , 7 2 \\ \\mathrm { { c } } \\ $ 延伸 $1 ~ \\mathrm { m i n }$ ，共30个循环，末次延伸 $8 \\mathrm { m i n }$ 。另以GAPDH为内参，扩增结束后，取 $2 0 ~ \\mu \\mathrm { L }$ 扩增产物在含 $0 . 5 ~ \\mu \\mathrm { g / m L }$ 溴乙锭的$1 . 5 \\%$ 琼脂糖凝胶上进行电泳，凝胶成像后并做灰度分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.5MTT比色法检测干扰组对GLC-P细胞的影响分别收集处于对数生长期细胞系GLC-P的正常细胞组、siRNA-CD59细胞组及空质粒组细胞，吸管吹打成单细胞悬液后分别接种于96孔板中，每孔 ${ 8 0 \\mu \\mathrm { L } }$ 细胞悬液，细胞培养3\\~4d后，每孔加MTT溶液( $\\mathrm { \\langle 5 \\ m g / m L }$ 用PBS配） $1 8 ~ \\mu \\mathrm { L }$ ,继续孵育 $4 \\mathrm { h }$ ，终止培养后 $1 4 0 0 ~ \\mathrm { r / m i n }$ 离心$1 0 ~ \\mathrm { { m i n } _ { \\circ } }$ 小心吸弃培养上清液,并在每孔中加入 $1 0 0 ~ \\mu \\mathrm { L }$ DMSO,振荡 $1 5 ~ \\mathrm { m i n }$ 后使结晶融解，选择 $4 5 0 ~ \\mathrm { n m }$ 波长，在酶联免疫仪上测定各孔光吸收值，记录并分析结果。1.2.6ELISA法检测各组GLC-P细胞凋亡情况分别收集相同时间点(培养 $7 2 \\mathrm { { h } }$ 细胞系GLC-P的正常细胞组、siRNA-CD59细胞组及空质粒组细胞，分别用胰蛋白酶消化，PBS缓冲液洗涤， $1 5 0 0 ~ \\mathrm { r / m i n }$ 离心 $5 \\mathrm { m i n }$ ，取沉淀并稀释成细胞悬液，取含 $1 \\times 1 0 ^ { 4 }$ 个细胞的细胞悬液，$1 5 0 0 \\mathrm { r / \\mathrm { m i n } }$ 离心 $5 \\mathrm { m i n }$ ，弃上清液，向沉淀中加入 $2 0 0 { \\mu \\mathrm { L } }$ 细胞裂解液，在室温( $1 5 { \\sim } 2 5 \\ \\mathrm { ^ { \\circ } C } \\ )$ 孵育 $3 0 \\mathrm { m i n }$ 后， $1 3 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ ,取上清为样品。在ELISA反应板内，每孔加入 $2 0 { \\mu \\mathrm { L } }$ 待测样品和 ${ 8 0 \\mu \\mathrm { L } }$ 新鲜配制的免疫反应混合物（含抗组蛋白抗体和抗DNA抗体)，以 $3 0 0 ~ \\mathrm { r / m i n }$ 振荡 $1 . 5 \\mathrm { h }$ ，再用缓冲液洗涤3次，加 $1 0 0 ~ \\mu \\mathrm { L }$ 底物溶液，以$2 0 0 ~ \\mathrm { r / m i n }$ 振荡 $5 \\mathrm { m i n }$ 。用酶标仪在 $4 0 5 ~ \\mathrm { n m }$ 处对样品进行检测，空白对照在 $4 9 0 \\mathrm { n m }$ 处进行检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3统计学分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所得数据均用均数 $\\cdot \\pm$ 标准差表示，运用SPSS13.0统计分析软件，组间比较采用方差分析，两两比较用SNK法， $P { < } 0 . 0 5$ 认为差异具有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1PCR结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RT-PCR检测结果表明，siRNA-CD59组、正常组及空质粒组GLC-P细胞中 $\\mathrm { C D 5 9 \\ m R N A }$ 的相对表达量分别为 $0 . 1 9 6 { \\pm } 0 . 0 3 4 , 0 . 5 2 5 { \\pm } 0 . 0 3 1$ 和 $0 . 5 1 8 { \\pm } 0 . 0 3 1$ ，按 $\\mathbf { { \\boldsymbol { a } } = }$ 0.05水准，siRNA-CD59组较正常组和空质粒组CD59mRNA表达量显著下调 $\\scriptstyle P = 0 . 0 0 < 0 . 0 5 )$ ，差异具有统计学意义;同时，未受干扰的正常组与空质粒组相对比，CD59mRNA表达量无明显差异（ $( P { > } 0 . 0 5 )$ ，差异无统计学意义。结果可以得出：CD59基因经外来RNA干扰后，CD59mRNA的表达受到明显抑制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2MTT比色法检测经RNA干扰后对GLC-P细胞增殖的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MTT检测结果表明，siRNA-CD59组较正常组和空质粒组细胞增殖能力明显降低（ $\\scriptstyle \\phantom { + } ( P < 0 . 0 5$ ，表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3ELISA法检测各组GLC-P细胞凋亡情况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用CellDeathDetectionELISAPLUS检测试剂盒检测不同组GLC-P细胞调亡程度，从本实验可以看出相对于正常组和空质粒组，干扰组明显诱导了GLC-P细胞的凋亡(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近些年来，越来越多的研究表明补体调节蛋白作为补体系统中重要的一部分，在肿瘤的发生发展过程中起着至关重要的作用，其机制可能与诱导肿瘤细胞逃避机体的免疫防御及免疫攻击有关[9]。至今，不少实验研究逐渐开始将肿瘤的治疗方向转向补体，认为补体可以作为一个新的药物靶点、突破口[10]。更多研究也表明：补体促进肿瘤细胞增殖及恶性转移的一个很大原因就是因为它可能分泌了某种有利于促进肿瘤细胞生存生长的生长因子[],阻断肿瘤相关性补体调节系统中的某些信号通路从而抑制补体调节蛋白的表达，将有利于抑制肿瘤细胞的增殖及恶性转移。目前美国FDA已经逐渐批准了一批以肿瘤疫苗、肿瘤单克隆抗体的新型药物，这些药物就是针对某些补体作为新靶点[12-13]",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/3cab9d60fe0063f93ce3aec5ffebdeb4cfbaeb24c0821630a5c9d91b51f49dfc.jpg",
+        "table_caption": [
+            "表1MTT法检测各组细胞不同时间点吸光度数值 Tab.1 MTT assay of the cells at different time points in the 3 groups (absorbance value). "
+        ],
+        "table_footnote": [
+            "Inhibition rate=(1-absorbance of siRNACD59 group/absorbance of Normal group) $\\times 1 0 0 \\%$ # $^ { * } P { < } 0 . 0 5$ us normal group. "
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>24 h</td><td>48h</td><td>72 h</td><td>96 h</td></tr><tr><td>siRNA-CD59</td><td>0.210±0.015*</td><td>0.258±0.014*</td><td>0.341±0.026*</td><td>0.365±0.022*</td></tr><tr><td>Normal</td><td>0.225±0.029</td><td>0.332±0.021</td><td>0.582±0.033</td><td>0.682±0.021</td></tr><tr><td>Empty plasmid</td><td>0.220±0.011</td><td>0.322±0.029</td><td>0.574±0.028</td><td>0.663±0.014</td></tr><tr><td>Inhibition rate</td><td>6.7%</td><td>22.3%</td><td>41.4%</td><td>46.5%</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/287eb08ba176d14262c1f2ba193de9c05238add35eba79bcb5080870af443210.jpg",
+        "img_caption": [
+            "图1ELISA法分别检测3组GLC-P细胞的调亡情况 Fig.1 ELISA for detecting cell apoptosis in the 3 groups. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前已有大量文献报道，CD59作为一个多功能的补体蛋白，可作为肿瘤干细胞的生物标记物[1415],其在许多种肿瘤中都有高表达，提示CD59的高表达可能参了机体对肿瘤的免疫应答，并促进了肿瘤细胞的增殖及转移。CD59的表达调控主要表现在基因转录及翻译水平，基因转录调控的失调在某种程度上可抑制肿瘤相关基因的表达，因此对基因转录水平的干预可影响肿瘤增殖及恶性转化[，而小片段RNA分子通过RNA干扰技术可特异性地与机体内源性基因相结合，可起到对目的基因的沉默作用,具有高效性及高特异性[17-19],siRNA的干扰对肿瘤细胞的增殖及凋亡发挥着重要的作用[20]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究旨在利用RNA干扰技术将外源小片段干扰基因导人非小细胞肺癌GLC-P细胞中，通过下调CD59mRNA的表达，运用RT-PCR、MTT比色法及ELISA法来观察其对GLC-P细胞的增值、凋亡的影响，以进一步研究CD59在NSCLC发生发展中的作用及机制。实验结果表明：经RNA干扰的siRNA-CD59组GLC-P细胞中CD59mRNA的相对表达量为 $0 . 1 9 6 { \\scriptstyle \\pm 0 . 0 3 4 }$ ，而正常组和空质粒组CD59mRNA的相对表达量分别为$0 . 5 2 5 { \\scriptstyle \\pm 0 . 0 3 1 }$ 和 $0 . 5 1 8 { \\scriptstyle \\pm 0 . 0 3 1 }$ ，可见干扰组CD59mRNA的相对表达量明显降低 $( P { < } 0 . 0 5 )$ ，说明CD59-siRNA能够在基因转录水平抑制目的基因CD59的表达，同时，MTT实验亦发现低表达CD59的siRNA-CD59组GLC-P细胞的增殖能力也受到明显抑制 $( P { < } 0 . 0 5 )$ ，在不同时间点各组细胞吸光度均有所减低，差异最明显的位于 $7 2 \\mathrm { { h } }$ 和 $9 6 \\mathrm { h }$ ，干扰组细胞增殖能力较正常组分别降低$4 1 . 4 \\%$ 和 $4 6 . 5 \\%$ ，抑制效应最明显，而正常组与空质粒组间无明显差异（ $( P { > } 0 . 0 5 )$ ,结果说明CD59基因的沉默可抑制NSCLCGLC-P细胞的增殖。利用CellDeathDetectionELISAPLUS检测试剂盒检测不同组GLC-P细胞调亡程度，实验结果得出经RNA干扰的siRNA-CD59组的 $\\mathrm { \\bf D } _ { 4 0 5 }$ 读数是0.85，正常细胞组及空质粒组 $\\mathrm { \\bf D } _ { 4 0 5 }$ 读数分别是0.51和0.54，可以得出干扰组引起细胞的凋亡程度分别是正常组和空质粒组凋亡程度的1.66倍和1.57倍，有明显差异（ $( P { < } 0 . 0 5 )$ ，提示干扰组明显诱导了GLC-P细胞的凋亡。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本实验主要研究了CD59的表达对体外培养的人NSCLC细胞株GLC-P的体外增殖及凋亡的影响，成功地应用RNA干扰技术，以质粒为载体，,通过重组质粒导入外源性干扰基因介导CD59基因沉默，发现CD59基因的沉默可以有效抑制NSCLC细胞株GLC-P的增殖并诱导肿瘤细胞凋亡，其机制可能与CD59的低表达有关，说明CD59的高表达促进了NSCLE细胞的增殖及恶性转移，因此抑制CD59的表达可以有效抑制肿瘤细胞的生长。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本实验利用RNA干扰技术抑制CD59基因的表达，达到了抑制NSCLCGLC-P细胞增殖的目的，更近一步证实了CD59在NSCLC细胞增殖及恶性转化过程中的作用，也为针对CD59的基因靶向治疗提供了进一步的实验依据。随着RNA干扰技术的广泛应用以及基因治疗的深入研究，靶向CD59基因对NSCLC的治疗具有广阔的临床的应用前景，会越来越多的应用到临床实践中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1]Siegel R,Naishadham D,Jemal A.Cancer statistics[J].JAMA, ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2013,310(9): 982.   \n[2]Gorter A，Meri S.Immune evasion of tumor cells using membrane-bound complement regulatory proteins [J]. Immunol Today,1999,20(12): 576-82.   \n[3] Chen S,Caragine T, Cheung NK,et al. CD59 expressed on a tumor cell surface modulaes decay-accelerating factor expressing and enhances tumor growth in a rat model of human neuroblastoma[J]. Cancer Res,2000,60(11):3013-8.   \n[4]Morgan BP,Olavesen MG,Watts MJ.Presence of a membrane attack complex inhibiting protein on the human epithelial cell line HeLa[J].Biochem Soc Trans,1990,18(4): 673-4.   \n[5]Murray KP,Mathure S,Kaul R,et al. Expression of complement regulatory proteins-CD 35,CD 46,CD 55,and CD 59-in benign and malignant endometrial tissue[J].Gynecol Oncol,20oo,76(2): 176-82.   \n[6]Ajona D,Hsu YF, Corrales L,et al. Down-regulation of human complement factor H sensitizes non-small cell lung cancer cells to complement attack and reduces in vivo tumor growth[J].JImmunol, 2007,178: 5991-8.   \n[7]Tarr AW,Urbanowicz RA,Ball JK.The role of humoral innate immunity in hepatitis C virus infection[J].Viruses,2012,4(1): 1-27.   \n[8]Shen Y,Yin R,Deng X,et al.Increased expression of CD55 correlateswithtumorprogression andpoorprognosisin nasopharyngeal carcinoma[J].Clin Invest Med,2012,35(1): E34.   \n[9]Varela JC,Atkinson C,Woolson R,et al. Upregulated expression of complement inhibitory proteins on bladder cancer cellsand anti-MUC1 antibody immune selection[J]. Int J Cancer,2O08,123 (6): 1357-63.   \n[10]Kolev M,Towner L，Donev R.Complement incancer immunotherapy[J].Arch Immunol,2011,59(6): 407-19.   \n[11]Candido J,Hagemann T.Cancer-related inflammation[J].J Clin Immunol,2013,33(Suppl 1): 79-84.   \n[12] Loghi MP,Harrs CL,Morgan BP,et al. Holding Tcells in check: a new role for complement regulators?[J]. Trends Immunol,2006,27 (2): 102-8.   \n[13]Glassman PM,Balthasar JP.Mechanistic considerations for the use of monoclonal antibodies for cancer therapy[J].Cancer Biol Med, 2014,11(1): 20-33.   \n[14] Zhu J,Nie S,Wu J,et al.Target proteomic profiling of frozen pancreatic $\\mathrm { C D } 2 4 ^ { + }$ adenocarcinoma tissues by immuno-laser capture microdissection and nano-LC-MS/Ms[J].JProteome Res,2013,12 (6): 2791-804.   \n[15] Gemei M,Di Noto R,Mirabeli P,et al. Cytometri profiling of CD133 +cells in human colon carcinoma cell lines identifies a common core phentype and cell type-specific mosaics[J]. Int JBiol Markers,2013,28(3): 267-73.   \n[16]Gerondakis S, Siebenlist U.Roles of the NF-kappa B pathway in lymphocyte development and function [J].Cold Spring Harb Perspect Biol,2010,2(5):a000182.   \n[17] Wohlbold L,Van Der Kuip H,Miething C,et al.Inhibition of bcr-abl gene expression by small interfering RNA sensitizes for imatinib mesylate (STI571)[J].Blood,2003,102(6): 2236-9.   \n[18]Bernstein E,Caudy AA,Hammond SM,et al.Role fora bidentate ribonuclease in the initiation step of RNA interference[J].Nature, 2001,409(6818): 363-6.   \n[19]Agami R.RNAi and related mechanisms and their potential use for therapy[J].Curr Opin Chem Biol,2002,6(6): 829-34.   \n[20]Miao GY,Lu QM, Zhang XL.Down regulation of survivin by RNAi inhibits growth of human gastric carcinoma cells[J].World J Gastroenterol,2007,13(8): 1170-4. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（编辑：黄开颜）",
+        "page_idx": 3
+    }
+]

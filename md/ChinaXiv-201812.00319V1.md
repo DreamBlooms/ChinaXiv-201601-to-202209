@@ -1,0 +1,133 @@
+鹅肝脏脂肪变性和鹅肥肝形成的分子保护机制研究进展柳序1,2 郭松长, 刘耀文1,2 曲湘勇 1,2\*
+
+（1．湖南农业大学动物科学技术学院，长沙 410128；2.湖南畜禽安全生产协同创新中心，长沙 410128）摘要：鹅肥肝与鱼子酱、松露被西方人誉为世界三大美食，其所富含的不饱和脂肪酸、亚油酸、卵磷脂等对软化血管、降低血脂、预防心脑血管疾病的发生具有重要保健作用。本文主要综述鹅肝脏脂肪变性及鹅肥肝形成的分子保护机制，为鹅肥肝性状分子选育提供理论依据，也为研究人类的非酒精性脂肪肝疾病提供重要参考。
+
+关键词：鹅肥肝；肝脏脂肪变性；保护机制中图分类号：S835 文献标识码： 文章编号：
+
+在自然环境下，一些野生鱼类在洄游前和鸟类在迁徙前，为了满足长途跋涉的能量储备需求，会在短期内大量进食，使多余脂肪沉积在肝脏而形成脂肪肝；长途迁徙后，肝脏中脂肪被消耗并恢复到正常形态，且整个过程是可逆的，不会出现肝硬化或坏死现象[]。鹅和鸭等水禽作为鸟类的后代，也具备这一特性，并且在畜牧业被广泛用于食品性脂肪肝（鹅肥肝或鸭肥肝）的生产[2]。而近年来人类由于脂肪代谢紊乱所造成的疾病持续上升，其中，非酒精性脂肪肝疾病（non-alcoholic fatty liver disease，NAFLD）的高发病率使其成为近 20 年来威胁世界人类健康最严重的疾病之一[3]。有研究发现，填饲鹅血清中酶活性与患有NAFLD的人类或哺乳动物血清中酶活性相似，但不同的是鹅肝脏发生严重脂肪变性后不会产生明显的病理症状，表明鹅肝脏与人类或哺乳动物肝脏脂肪沉积机理有着相似性，又有其特殊性[4]。因此，本文以鹅肝脏脂肪变性为切入点，主要综述鹅肝脏脂肪变性及鹅肥肝形成的分子保护机制，为我国肥肝鹅遗传育种工作提供理论依据，也为研究人类或哺乳动物NAFLD 提供理论参考。
+
+# 1鹅肝脏脂肪变性的机理
+
+目前关于鹅肥肝形成机理的研究主要集中在"一次打击”阶段，即葡萄糖过量摄入到单纯性脂肪肝形成阶段，这也是哺乳动物NAFLD 的发病基础。其主要机理是：鹅在填饲高能饲料后，肝脏中合成脂肪酸原料（葡萄糖）大量增加，生成的甘油三酯含量远超过载脂蛋白的运输能力，并且生成的脂肪酸远超过通过β-氧化降解的脂肪酸，造成脂肪在肝脏中大量积累，使肝细胞增大并增殖，形成比正常肝脏重 $5 { \sim } 1 0$ 倍的脂肪肝[5]。因此，人们普遍认为鹅肥肝的形成主要是由于脂肪合成、脂蛋白转运以及脂肪酸β-氧化三者之间的正常生理平衡遭到破坏[]。这一过程与内质网应激(endoplasmic reticulum stress，ERS)、胰岛素抵抗(insulinresistance，IR)和肝细胞生长与增殖等密切相关[7-8]。研究发现，IR在NAFLD 的发生过程中发挥着重要作用，而 ERS 能有效的促进IR发生，造成脂肪在肝脏中异常沉积形成脂肪肝[9]。Geng 等[10]探讨鹅肥肝的形成机理，发现填饲能引起IR的发生，填饲组鹅肝脏中内质网应激标记基因葡萄糖调节蛋白78（glucose regulated protein 78，Grp78）和 X-盒结合蛋白1（X-boxbinding protein1，Xbp1）的mRNA水平下调，脂肪酸去饱和酶基因家族（Fads）中Fads1、Fads2和Fads6的mRNA水平上调，表明在填饲过程中鹅肝脏并没有发生ERS，这种现象可能是由于Fads1、Fads2和Fads6的mRNA上调作用，但填饲可以诱导IR和脂肪肝，并且是ERS 非依赖性的，说明鹅可能存在其他机制诱导IR 和脂肪肝的发生。哺乳动物脂肪以饱和脂肪酸(saturated fatty acid,SFA)为主，而鹅肝脏中脂肪主要是不饱和脂肪酸(unsaturatedfatty acid，USFA），有研究发现 SFA会诱导 ERS 和 IR，USFA会抑制 SFA 的诱导作用[1],这是鹅与哺乳动物肝脏脂肪沉积“一次打击"阶段主要区别之一，由此可推断，ERS 抑制在鹅肥肝形成过程中可能具有一定的保护作用[12]。鹅在短期内填饲，其肝脏急剧增大，说明鹅肝脏细胞具有很强的生长和增殖能力。Wei等[13]用不同浓度的葡萄糖（0、5、25、35mmol/L）对鹅原代肝细胞进行 $4 8 \mathrm { h }$ 体外培养后发现，葡萄糖组鹅肝细胞中DNA含量、细胞周期的增殖指数（proliferous index，PI）、细胞周期蛋白D（CyclinD）和细胞周期蛋白依靠性激酶抑制剂p21蛋白含量和mRNA表达量都增加，说明葡萄糖可能是通过激活CyclinD家族和p21蛋白来促进鹅原代肝细胞的生长和增殖[14]。并且，低浓度葡萄糖（0和5mmol/L）对肝细胞增殖影响不明显，高浓度葡萄糖（25 和30mmol/L）能显著促进肝细胞增殖，由此可见，鹅原代肝细胞对葡萄糖具有较强的耐受性。有研究发现，一定浓度的胰岛素也能促进肝细胞的生长，并且能协同葡萄糖提高肝细胞活性，但胰岛素浓度过高会导致肝细胞产生IR，使肝细胞对胰岛素的敏感性降低从而抑制肝细胞的生长[15-16]。
+
+近年来，随着分子生物学技术的发展，通过寻找与肝脏脂肪代谢密切相关的基因来研究鹅肥肝形成的机理也取得了一定的进展。Lu等[7采用第2代高通量测序技术首次发布了家鹅全基因组数据，从基因组层面初步发现瘦素（leptin，lep）基因缺失可能是鹅肥肝形成的重要原因。Zhu等[18]用抑制性消减杂交试验筛选鹅正常与填饲情况下肥肝中差异表达基因，发现硬脂酰辅酶A脱饱和酶1（stearoylCoA desaturease1，SCD1）基因表达水平显著上升，可能是通过固醇调节元件结合蛋白1c（sterolregulatoryelemen-tbindingprotein-1c,
+
+SREBP-1c）的调控来促进肝脏的脂肪合成。Osman 等[19]用60d朗德鹅填饲19d后发现，填饲鹅肝脏中线粒体相关基因表达水平显著上升，而这一研究结论与在患有NAFLD 的哺乳动物肝脏中正好相反，可能原因是 SFA会增加细胞的氧化应激、凋亡和线粒体功能障碍，而USFA可以抑制 SFA 诱导的这些副作用。为了进一步研究鹅肥肝的形成机理，Chen 等[20]通过小RNA(microRNA，miRNA)测序筛选正常组和填饲组鹅肥肝中差异表达miRNA，发现鹅肥肝中 aan-miR-222 和 aan-miR-203a 表达上调，aan-miR-30d、aan-miR-125b- $. 5 p$ 和aan-miR-146a- $. 5 p$ 表达下调，这些miRNA可能是鹅肥肝形成过程中的关键调控因子。Zhang等[21研究发现，miR-122 在鹅肝脏中表达量非常高，填饲后miR-122表达下调，醛缩酶 B（aldolase B，ALDOB）和M2-型丙酮酸激酶2（M2 isoformof pyruvate kinase，PKM2）基因也下调，miR-122与ALDOB 和PKM2之间存在显著的调控作用，推测 ALDOB和PKM2可能是miR-122的靶基因。将鹅肥肝形成相关miRNA及其靶基因结合在一起，形成一个网络整体，又从一个全新的层面对鹅肥肝形成机理进行研究。一个基因的表达受其他基因的影响，而这个基因又影响着其他基因的表达，这种相互影响相互制约的关系构成了复杂的基因表达网络调控，因此，关于鹅肥肝形成的分子机理还有待进一步研究，这不仅有利于畜牧业食品型肥肝的生产，也为人类NAFLD的治疗提供了新思路。
+
+# 2鹅肥肝形成的分子保护机制
+
+在哺乳动物 NAFLD 形成过程中，氧化应激和脂质过氧化是NAFLD 受到"二次打击"或者"多重打击"后进一步发展的2个重要因素，也是单纯性脂肪肝发展为非酒精性脂肪肝炎（nonalcoholic steatohepatitis，NASH）甚至是肝硬化和肝癌的关键步骤[22]。而鹅肝在受到“一次打击"形成单纯性脂肪肝后并没有明显的病理损伤，说明鹅肝脏在耐受单纯的肝脏脂肪化方面存在其特殊机制。
+
+# 2.1脂联素（adiponectin，ADQ）及脂联素受体对鹅肥肝形成的保护作用
+
+脂联素是由脂肪组织分泌的一种细胞因子，脂联素受体包含脂联素受体1和 2（adiponectin receptor1and 2，Adiporl/2）2种亚型，脂联素及其受体在肝组织（或肝细胞）中具有抗炎、胰岛素增敏和抗凋亡作用[23-24]。炎症反应是人类和哺乳动物从脂肪变性发展为脂肪性肝炎的关键步骤，大量研究表明，在患有NAFLD的人类或哺乳动物肝脏中炎症标记基因肿瘤坏死因子 $\mathbf { \sigma } \cdot \mathbf { a }$ （tumor necrosis factor-α，TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ ）mRNA表达水平显著上升，肝脏中Adipor1/2及血液和腹部脂肪组织中脂联素水平显著下降[25]。而在肥肝鹅上的研究恰好相反，Geng 等[26]对70 日龄朗德公鹅进行为期 $1 9 \mathrm { d }$ 填饲后发现，填饲组鹅肝脏中炎症相关基因mRNA 表达水平显著下降，Adiporl/2 mRNA 表达水平显著上升，且Adipor2 mRNA 表达水平显著高于Adiporl，Adipor2蛋白含量也显著增加，这与Ramachandran 等[27]的研究结果相一致。除此之外，有研究发现，Adiporl/2在肝脏中大量表达可阻断由 SFA诱导的炎症反应[28-29]。由此可见，鹅在填饲后并没有明显的病理损伤，可能原因是脂联素与脂联素受体结合后，能有效地激活神经酰胺酶分解神经酰胺。神经酰胺作为促炎信号神经鞘脂类可促进抗炎因子的分泌，进而对鹅肥肝的形成起到保护作用。炎症反应和ERS一样，都会促进体内发生IR。在鹅肥肝形成过程中，炎症反应受到抑制也进一步说明鹅在肝脏脂肪沉积过程中得到了保护。 $\mathrm { \Delta X u }$ 等[30]用8\~10 周龄的ob/ob 老鼠建模后发现，外源性脂联素降低肝肿大，消耗脂肪的积累，降低肝脏TNF- $\cdot \alpha$ mRNA的表达及血浆丙氨酸转氨酶活性。综上所述，脂联素受体作为鹅肥肝形成过程中的保护成分，能有效的防止鹅肝脏受到“二次打击”，因此，推测脂联素在治疗人类和哺乳动物的NAFLD中也具有重要作用，其可成为NAFLD 的潜在新型治疗方法。
+
+# 2.2抑制补体系统对鹅肥肝形成的保护作用
+
+补体系统是指存在于人和动物血清或体液中的补体固有成分、补体调节蛋白和补体受体，其中 $8 0 \% { \sim } 9 0 \%$ 在肝脏中合成。在正常生理条件下，多数补体成分以非活化形式存在，当宿主进行防御和炎症应答时，各补体蛋白被激活[31]。在人和鼠中的研究发现，脂肪肝的形成会导致补体固有成分的表达显著增加，而敲除或抑制补体基因表达则可有效抑制脂肪肝的形成[32]。在鹅肥肝上的研究发现，补体系统发生了普遍抑制，这与在患有NAFLD 的哺乳动物肝脏中的表达恰好相反。Liu等[3]通过对65日龄朗德鹅进行为期19 d填饲后发现，填饲组鹅肝脏中补体标记基因补体3（C3）、补体4（C4）和补体5（C5）mRNA表达水平显著下降，并且与肠道中乳酸杆菌数量呈负相关。为了进一步探讨乳酸菌与补体成分之间的关系，用5和8mmol/L的乳酸处理鹅原代肝细胞，结果显示，乳酸组鹅肝细胞中补体标记基因C5mRNA 和蛋白的表达水平显著下降，与之相关的炎症因子TNF-αmRNA表达水平也显著下降。因此，可以推断乳酸菌的代谢产物乳酸是通过抑制C5 的表达进而抑制补体系统的表达，在鹅肥肝的形成过程中起到了保护作用。乳酸菌的保护作用在哺乳动物的NAFLD 中有相似的研究结论[34-35]。刘龙等[36]对 70 日龄朗德公鹅进行为期19 d填饲后发现，填饲组鹅肝脏中补体受体1（complement receptor1，CR1）mRNA 表达水平显著上升，这是目前为止在鹅肥肝所有差异表达补体基因中筛选的唯一上调的补体基因。为了进一步验证这一结果，用不同浓度的葡萄糖（25、50、100 mmol/L）、胰岛素（25、50、100 mmol/L）、棕榈酸（0.25、0.50 mmol/L）和油酸（0.125、0.250、0.500mmol/L）处理鹅原代肝细胞，结果发现油酸和25 mmol/L 葡萄糖可以显著诱导CR1的表达，而胰岛素处理无显著效果， $0 . 5 0 \mathrm { m m o l / L }$ 棕榈酸处理还有一定的抑制作用，因此，可以推断在鹅肥肝形成过程中补体受体基因CR1表达上调可能原因是油酸和葡萄糖水平升高导致的。目前，关于补体系统在鹅肥肝形成中的作用和机制研究还较少，进一步研究可为哺乳动物NAFLD的治疗提供新方法。
+
+# 2.3肠道微生物对鹅肥肝形成的保护作用
+
+肝脏和胃肠道在解剖和功能上有着密切联系，共同组成消化系统整体。自1998 年Marshall提出"肠-肝轴"学说以来，肝肠互作关系已成为当今疾病方面的研究热点[37]。人和动物肠道内定植有大量微生物，有研究发现，哺乳动物NAFLD的发生与肠道菌群密切相关[38-39]。杨林辉等[40]通过对NASH患者肠道菌群的研究发现，NASH患者中肠道菌群菌种多样性无明显变化，但是双歧杆菌和乳杆菌数量明显减少，肠杆菌和肠球菌数量明显增加，这与 Nielsen 等[41]和Cotillard 等[42]的研究结果相一致。由此可见，肠道菌群失衡和有益菌减少可能是造成NAFLD 的主要原因。鹅肥肝作为NAFLD 的特殊模型，可增大 $5 { \sim } 1 0$ 倍而不发生明显的病理症状，近年来，有研究证实肠道微生物在鹅肥肝形成过程中具有保护作用。刘龙等[43]对 70 日龄朗德鹅进行为期19d填饲后发现，与对照组相比，填饲组在属水平上空肠和盲肠菌群丰度都显著增加，乳酸菌的含量也显著增加。Guo 等[44]研究发现，乳酸菌发酵产物在一定程度上能够抑制胆固醇合成酶的作用，进而抑制血液中胆固醇水平，除此之外，肠道有益菌还能通过干扰胆盐的循环促进粪便中胆固醇排泄[45],这从另一方面可以抑制 NASH发生。短链脂肪酸（short-chain fatty acids，SCFA）是肠道微生物的主要代谢产物，在填饲鹅血清中 SCFA主要是丁酸，且丁酸含量与对照组相比显著增加[33]，因此，初步推断丁酸可能是鹅肥肝形成过程中的保护成分。
+
+# 3小结与展望
+
+鹅肥肝富含USFA、亚油酸和卵磷脂等，在降低血脂、软化血管、延缓衰老和预防心脑血管疾病等方面具有重要保健功效。目前，随着生物学技术的不断发展，关于鹅肥肝形成机理的研究从生理水平发展到基因组和转录组水平，取得了较大进步。但由于鹅肥肝的形成是一个相对复杂的过程，当前对关键基因之间相互作用的研究几乎空白，因此，关于肝脏脂肪变性的分子机理还有待深入研究。近年来，随着人们生活水平的不断提高，生活方式和饮食结构的不断变化，人类NAFLD 的发生率显著上升，现已发展为威胁人类健康的三大肝病之一。鹅肥肝的形成与哺乳动物NAFLD 的发生有着相似性和特殊性，因此，可作为一种新型动物模型用来研究非酒精性脂肪肝的形成机制及预防措施，为治疗人类或哺乳动物的NAFLD提供重要参考和借鉴。
+
+参考文献：
+
+[1] DAVAIL S,GUY G,ANDRE J,et al.Metabolism in two breeds of geese with moderate or largeoverfeedinginduced liver-steatosis[J].ComparativeBiochemistryandPhysiology A-molecular & Integrative Physiology,2000,126(1):91-99.
+
+[2] KAROUSA M M,MAHMOUD E A,ELIETHY S M,et al.Effect of forced-feeding on the growth performance and liver quality of egyptian geese[J].Benha Veterinary Medical Journal,2013,24(1):254-260.
+
+[3] FRANCQUE S,DER GRAAFF D V,KWANTEN W J,et al.Non-alcoholic fatty liver disease and cardiovascularrisk:pathophysiologicalmechanismsandimplications[J].Journalof Hepatology,2016,65(2):425-443.
+
+[4] HERMIER D,SALICHON M R,GUY G,et al.Differential channelling of liver lipids in relation to susceptibility to hepatic steatosis in the goose[J].Poultry Science,1999,78(10):1398-1406.
+
+[5] HERMIER D,ROUSSELOTPAILLEY D,PERESSON R,et al.Influence of orotic acid and estrogen on hepatic lipid storage and secretion in thegoose susceptible toliver steatosis[J].Biochimica et Biophysica Acta,1994,1211(1):97-106.
+
+[6] HERMIER D,SAADOUN A,SALICHON M R,et al.Plasma lipoproteins and liver lipids in two breeds of geese with different susceptibility to hepatic steatosis: changes induced by development and force-feeding[J].Lipids,1991,26(5):331-339.
+
+[7] GENG T,HU W,BROADWATER M H,et al.Fatty acids differentially regulate insulin resistance through endoplasm reticulum stress-mediated induction of tribbles homologue 3:a potential link between dietary fat composition and the pathophysiological outcomesof obesity[J].Diabetologia,2013,56(9):2078-2087.
+
+[8] LIU D,HAN C,WAN H,et al.Effects of inhibiting PI3K-Akt-mTOR pathway on lipid metabolism homeostasis in goose primary hepatocytes[J].Animal,2016,10(8):1319-1327.
+
+[9] UTZSCHNEIDER K M,KAHN S E.The role of insulin resistance in nonalcoholic fatty liver disease[J].The Journal of Clinical Endocrinology and Metabolism,2006,91(12):4753-4761.
+
+[10] GENG T,XIA L,LI F,et al.The role of endoplasmic reticulum stress and insulin resistance in the occurrence of goose fatty liver[J].Biochemical and Biophysical Research Communications,2015,465(1):83-87.
+
+[11]WEI Y,WANG D,TOPCZEWSKI F,et al.Saturated fatty acids induce endoplasmic reticulum stressand apoptosisindependently of ceramide in liver cells[J].American Journal of Physiology-endocrinology and Metabolism,2006,291(2).
+
+[12] GENG T,ZHAO X,XIA L,et al.Supplementing dietary sugar promotes endoplasmic reticulum stress-independent insulin resistance and fatty liver in goose[J].Biochemical and
+
+Biophysical Research Communications,2016,476(4):665-669.
+
+[13] WEI S,HAN C,HE F,et al.Inhibition of PI3K-Akt-mTOR signal pathway dismissed the stimulation of glucose on goose liver cel growth[J].Journal of Animal Physiology and Animal Nutrition,2017,101(5):e133-e143.
+
+[14] HAN C C,WE S H,HE F,et al.Glucose-induced lipid deposition in goose primary hepatocytes is dependent on the PI3K-Akt-mTOR signaling pathway[J].Archives of Biological Sciences,2016,68(4):853-861.
+
+[15] WITTEVEEN M,BROWN M R,DOWNS C T,et al.Does sugar content matter? Blood plasma glucose levels in an occasional and a specialist avian nectarivore[J].Comparative Biochemistry and Physiology A-molecular & Integrative Physiology,2014:40-44.
+
+[16]HAN C C,WEI S H,SONG Q,et al.Insulin stimulates goose liver cell growth by activating PI3K-AKT-mTOR signal pathway[J].Cellular Physiology and Biochemistry,2016,38(2):558-570.
+
+[17]LU L,CHEN Y,WANG Z,et al.The goose genome sequence leads to insights into the evolution of waterfowl and susceptibility to fatty liver[J].Genome Biology,2015,16(1):89-89.
+
+[18]ZHU L H,MENG H,DUAN X J,et al.Gene expression profile in the liver tissue of geese after overfeeding[J].Poultry Science,2011,90(1):107-117.
+
+[19]OSMAN R H,SHAO D,LIU L,et al.Expression of mitochondria-related genes is elevated in overfeeding-induced goose fattyliver[J].ComparativeBiochemistryandPhysiology B,2016:30-37.
+
+[20]CHEN F,ZHANG H,LI J,et al.Identification of differentially expressed miRNAs in the fatty liver of Landes goose (Anser anser)[J].Scientific Reports,2017,7(1):16296.
+
+[21] ZHANG J,WANG Q,ZHAO X,et al.MicroRNA-122 targets genes related to goose fatty liver[J/OL].Poultry Science, （ 2017-1-7 ） [2017-11-12],https://www.researchgate.net/publication/321234780
+
+[22]TILG H, MOSCHEN A R.Evolution of inflammation in nonalcoholic fatty liver disease: the multiple parallel hits hypothesis[J].Hepatology,2010,52(5):1836-1846.
+
+[23] WANG Y,WANG X,LAU W B,et al.Adiponectin inhibits tumor necrosis factor-α-induced vascularinflammatoryresponseviacaveolin-mediated ceramidaserecruitment and activation[J].Circulation Research,2014,114(5):792-805.
+
+[24]ARITA Y.Reprint of “paradoxical decrease of an adipose-specific protein, adiponectin, in obesity"[J].Biochemical and Biophysical Research Communications,2012,425(3):560-564.
+
+[25]ALAAEDDINE N,SIDAOUI J,HILAL G,et al.TNF- $\mathbf { \alpha } _ { \cdot \mathbf { a } }$ messenger ribonucleic acid (mRNA) in patients with nonalcoholic steatohepatitis[J].European Cytokine Network,2012,23(3):107-111.
+
+[26] GENG T,YANG B,LI F,et al.Identification of protective components that prevent the exacerbation of goose fatty liver: characterization， expression and regulation of adiponectin receptors[J].Comparative Biochemistry and Physiology B,2016:32-38.
+
+[27]RAMACHANDRAN R,OC N-GROVE OM,METZGER SL.Molecular cloning and tissue expression of chicken adipor 1 and adipor 2 complementary deoxyribonucleic acids[J].Domestic Animal Endocrinology,2007,33(1):19-31.
+
+[28] SCHWARTZ E A,ZHANG W,KARNIK S K,et al.Nutrient modification of the innate immune response a novel mechanism by which saturated faty acids greatly amplify monocyte inflammation[J].Arteriosclerosis,Thrombosis and Vascular Biology,2010,30(4):802-808.
+
+[29] HOLLAND W L,MILLER R A,WANG Z V,et al.Receptor-mediated activation of ceramidase activity initiates the pleiotropic actions of adiponectin[J].Nature Medicine,2011,17(1):55-63.
+
+[30] XU A,WANG Y,KESHAW H,et al.The fat-derived hormone adiponectin alleviates alcoholic and nonalcoholic fatty liver diseases in mice[J].Journal of Clinical Investigation,2003,112(1):91-100.
+
+[31]PHIELER J,GARCIAMARTIN R,LAMBRIS JD,et al.The role of the complement system in metabolic organs and metabolic diseases[J].Seminars in Immunology,2013,25(1): 47-53.
+
+[32] PRITCHARD M T,MCMULLEN MR,STAVITSKY AB,et al.Differential contributions of C3,C5,and decay-accelerating factor to ethanol-induced fatty liver in mice[J].Gastroenterology,2007,132(3):1117-1126.
+
+[33]LIU L,ZHAO X,WANG Q,et al.Prosteatotic and protective components in a unique model of fatty liver: gut microbiota and suppressed complement system[J].Scientific Reports,2016,6(1).
+
+[34] RITZE Y,BARDOS G,CLAUS A,et al.Lactobacillus rhamnosus GG protects against non-alcoholic fatty liver disease in mice[J].PLOS ONE,2014,9(1).
+
+[35] KELISHADI R,FARAJIAN S,MIRLOHI M,et al.Probiotics as a novel treatment for non-alcoholic fatty liver disease；a systematic review on the current evidences[J].Hepatitis Monthly,2013,13(4):1-8.
+
+[36]刘龙,王倩,许程,等.鹅肥肝形成中补体受体1基因的表达和调控研究[J].中国家禽,2016,38(24):5-10.
+
+[37]MIURA K,OHNISHI H.Role of gut microbiota and Toll-like receptors in nonalcoholic fatty liver disease[J].World Journal of Gastroenterology,2014,20(23):7381-7391.
+
+[38] SZABO G.Gut-liver axis in alcoholic liver disease[J].Gastroenterology,2015,148(1):30-36.
+
+[39]ARONWISNEWSKY J,GABORIT B,DUTOUR A,et al.Gut microbiota and non-alcoholic fatty liver disease: new insights[J].Clinical Microbiology and Infection,2013,19(4):338-348.
+
+[40]杨林辉,蔡俊,陈东风.非酒精性脂肪性肝炎患者肠道菌群的变化及意义[J].临床肝胆病杂志,2012,28(2):124-126.
+
+[41] NIELSEN T,QIN J,PRIFTI E,et al.Richness of human gut microbiome correlates with metabolic markers[J].Nature,2013,500(7464):541-546.
+
+[42] COTILLARD A,KENNEDY S,KONG L C,et al.Dietary intervention impact on gut microbial gene richness[J].Nature,2013,500(7464):585-588.
+
+[43]刘龙,龚晗,杨彪,等.鹅肥肝形成中肠道生理指标、菌群及代谢物的变化[J].扬州大学学报(农业与生命科学版),2016,37(4):37-42.
+
+[44]GUO Z,LIU X,ZHANG Q,et al.Influence of consumption of probiotics on the plasma lipid profile:Ameta-analysisofrandomisedcontrolledtrials[J].NutritionMetabolismand Cardiovascular Diseases,2011,21(11):844-850.
+
+[45] ARSLAN N.Obesity， fatty liver disease and intestinal microbiota[J].World Journal of Gastroenterology,2014,20(44):16452-16463.
+
+Research Progress of Molecular Protective Mechanism of Hepatic Steatosis and Foie Gras Formation
+
+LIU $\mathrm { X u } ^ { 1 , 2 }$ （ GUO Songchang1,2 LIU Yaowen1,2QU Xiangyong1,2\* (1. College of Animal Science and Technology, Hunan Agricultural University, Changsha 410128, China; 2. Hunan Co-Innovation Center of Animal Production Safety, Changsha 410128, China) Abstract: Foie gras,caviar and truffe are known as the top three of life's greatest delicacies called by the Westerners. The main components of foie gras,such as unsaturated fatty acid,linoleic acid, lecithin, play an important role in softening blood vessels, reducing blood lipid and preventing cardiovascular and cerebrovascular diseases.In this paper, the process involving hepatic steatosis and the molecular protective mechanism of foie gras formation are briefly reviewed. We aim at summarizing the theoretical progress on the molecular breeding of foie gras traits,and providing valuable reference for studies on nonalcoholic fatty liver disease of human.

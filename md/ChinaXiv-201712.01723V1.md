@@ -1,0 +1,200 @@
+# 基于土地适宜性和固碳需求的紫云英种植布局研究：以福建省浦城县为例
+
+曹孟锦;周碧青;张黎明;邱龙霞;陈容;邢世和(1.福建农林大学资源与环境学院福州 350002;2.土壤生态系统健康与调控福建省高校重点实验室福州350002)
+
+摘要：藏碳于土是减少温室气体排放的重要途径，紫云英等绿肥回田能显著促进土壤有机碳积累，且培肥地力，但至今有关其种植布局的研究极少结合用地适宜性和固碳培肥现实需求性进行探讨。本文以福建省浦城县为研究区，借助GIS 与修正的加权指数、动态聚类等数学模型集成技术，在基于 $1 : 5$ 万比例尺的区域紫云英用地适宜性评价和耕层土壤碳密度分析的基础上，以适宜性和耕层土壤有机碳密度为指标，遵循最适宜生长和耕层土壤碳密度较低的耕地优先安排为种植用地的原则，将研究区紫云英优化种植区划分为优先、次优先和一般种植区。结果表明，研究区 $8 1 . 8 2 \%$ 的耕地不同程度地适宜种植紫云英，耕层有机碳密度介于 $2 . 5 0 { \sim } 5 . 7 4 \ \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ ，空间差异较为明显。经优化布局的研究区紫云英用地面积占耕地总面积的 $5 9 . 7 2 \%$ 以优先种植区和次优先种植区占优势，分别占研究区紫云英优化布局用地总面积的 $2 5 . 7 2 \%$ 和 $5 0 . 3 4 \%$ ；其中耕地土壤固碳培肥需求较为强烈的莲塘、水北、古楼、永兴和忠信等乡镇可作为紫云英重点种植区，富岭、仙阳、石陂和九牧等乡镇可作为紫云英种植的后备种植区。基于土地适宜性和固碳需求，择优选取紫云英适宜种植区域，对于其高效种植利用、区域耕地土壤有机质提升计划的科学实施以及耕地质量的有效提高具有重要指导意义。
+
+关键词：紫云英；固碳；适宜性；土壤有机碳密度；数学模型集成；优化布局
+
+中图分类号：S315
+
+# Optimal arrangement of milk vetch plantation based on land suitability and carbon sequestration in croplands: A case study of Pucheng County, Fujian Province\*
+
+CAO Mengjin, ZHOU Biqing, ZHANG Liming, QIU Longxia, CHEN Rong, XING Shihe\*\* (1.Collegeofodticdstrsityo;Usitb Ecosystem Health and Regulation in Fujian,Fuzhou 35ooO2, China)
+
+Abstract:Soilcarbonsequestration is an important waytoreduce greenhouse gas emissions.Milkvetch andother green manures importantly impact annual variations of $\mathrm { C O } _ { 2 }$ concentration in the atmosphere by promoting soil organic carbon accumulation and improvingcroplandsoilfertility.However,researchontheoptimalarrangementofmilkvetchplantationhadto-datebeenhardly integrated withthesuitabilitycroplandsforilkvetchplantationandrealisticneedforsoilcarbonsequestration.Thisstudyaied to arrange milk vetch in the most suitable areas and fix as much $\mathrm { C O } _ { 2 }$ as possible.Thus the suitability of milk vetch plantations in croplandswas evaluatedbyanalyzingsoilorganiccarbondensity(SOCD)incroplandsbasedonthe1:5OooOscaledatabaseofland use/soil paterinPucheng CountyFujianProvince.Theoptimalarrangementofilkvetchplantations inPucheng was doneusing anintegrative method in GISenvironment.Then themodificatory weighted indexsummethodanddynamicclusteringanalysis were usedforbothlandsuitabilityandSOCDbydividingthe indexbasedonthe principleofandsuitabilityformilkvetch plantationand carbonsequestrationnedsofcroplands.Theprioritysub-priorityandgeneral plantationareasofmilkvetch inPucheng were optimallyarrangedbasedontheprinciplesofpreferentialarrangementofcoplandswithlowtopsoilSOCDandhighsuitabilityfor milk vetch growth.The results showed that $8 1 . 8 2 \%$ of the croplands in the study area had various suitability of milk vetch plantation. Theanualtotalyieldoffreshmilkvetch,annualcarbonsequestrationandcutivatedandareaofmilkvetchwererespectively657 $0 5 6 . 6 5 \mathrm { ~ t } , 2 9 9 0 0 . 7 4 \mathrm { ~ t ~ }$ and $2 3 6 7 7 . 7 2 \mathrm { h m } ^ { 2 }$ . If milk vetch was planted in all the cultivated lands in the study area, the application rate of green manure was $2 7 . 7 5 \ \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ per year. The range of SOCD in the study area was $2 . 5 0 { - } 5 . 7 4 ~ \mathrm { k g { \cdot } m ^ { - 2 } }$ ,differing sharply in space. On the basis of total cropland in Pucheng County, optimal area arrangement for milk vetch plantation was $5 9 . 7 2 \%$ ,of which priority and sub-priority regions dominantly accounted for $2 5 . 7 2 \%$ and $5 0 . 3 4 \%$ ,respectively. Priority region was mainly distributed in the basin area,sub-priority region distributed in the $2 0 0 { - } 4 0 0 ~ \mathrm { m }$ altitude range with gentle slope terraces,while general region was located in $2 5 0 { - } 8 0 0 ~ \mathrm { m }$ altitude range on slope teraces.The towns (including Liantang,Shuibei,Gulou,Yongxing and Zhongxin),which most nededsoilcarbonsequestration,wereplannedaskeydevelopingareas.Thentowns (e.g.,Fuling,Xianyang,ShipiandJiumu)were plannedasreserveareas formilkvetchplantation.Testudyprovidedtheneeded guidefortheeficientplantingandutilizationof milkvetch.Thisshowed the need to increasescientificimplementationof soilorganic mater programsandthecontinuous improvementoffarmlandqualitybypreferentiallyselecting suitableareas formilkvetch planting basedonland suitabilityand carbon sequestration needs of croplands.
+
+Keywords:Milkvetch;Carbonsequestration;Suitability;Soilorganiccarbondensity;Integrationof mathematic models;Optimal arrangement
+
+土壤有机碳(SOC)是陆地生态系统中最大的碳库，其微小变化可对大气圈中 $\mathrm { C O } _ { 2 }$ 浓度产生巨大的影响;另外，其碳"源/汇"作用受耕作和施肥等人类活动的影响较为强烈，且具有一定的可调控性。紫云英(Astragalus sinicus L.)属豆科植物，是一种优质绿肥作物，其地上部、地下部的碳蓄积量分别为1 799.6$ { \mathrm { k g } } { \cdot }  { \mathrm { h m } } ^ { - 2 }$ 和 $2 9 2 . 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 [ 1 ] }$ 。种植紫云英翻压回田不仅能培肥地力、提高农产品产量和品质[2-3]，还能通过显著增加和更新土壤有机碳[4-5]，促进土壤固碳，减少温室气体排放。为解决耕地质量和农产品品质下降等问题，国家农业部和财政部于2006年启动了土壤有机质提升项目，鼓励农民种植紫云英等绿肥回田[。2015年农业部制定《到 2020年化肥使用量零增长行动方案》，提出到 2020年实现"一控两减三基本"的目标，故兼顾紫云英种植的适宜性和耕地固碳的需求性，合理规划、种植和利用这些绿肥，是一项促进土壤有机质提升、增加土壤固碳、减少化肥施用和保护农田生态环境的有效技术措施[7]。
+
+国内外有关紫云英方面的研究主要聚焦于其回田对土壤有机质、结构性、氮磷钾养分、微生物和酶活性以及肥力状况等的影响[8-12]，少数学者开展了区域紫云英等绿肥种植用地宏观区划研究。如，中国农业科学院1981年完成了《中国绿肥区划》，根据土壤肥力及自然、社会经济等条件，将全国绿肥种植划为9个一级区、47个二级区[13]。肖道庸[14]基于江西省现实情况提出冬季绿肥布局的初步设想，将全省划分为4个绿肥种植区。周志明[15]考虑未来耕地、园地的消长，预测了2020年北京平谷区仅园地引入绿肥和耕地、园地均引入绿肥2种情景下的绿肥空间分布。这些研究为我国及区域紫云英等绿肥种植的宏观区划提供了科学依据。但由于以往研究未考虑紫云英用地适宜性和耕地固碳培肥现实需求性等因素，难于为新形势下土壤有机质提升、化肥减量化和耕地质量提高等“国家战略"实施提供有效的基础依据。为此，本研究以我国最早的商品粮基地县—一福建省浦城县的耕地为研究对象，基于适宜性和固碳需求的用地优化布局理念，利用1：5万比例尺耕地利用现状-土壤类型数据库、耕地地力评价和测土配方施肥等资料，借助GIS 与数学模型集成技术，开展区域紫云英用地优化种植研究，探讨用地适宜性和耕地土壤碳密度对其用地优化布局的影响，旨在提高区域紫云英种植空间优化布局的科学性，以满足新形势下农业可持续发展和农田生态环境建设的新要求。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区浦城县位于福建省最北端、闽浙赣三省交界处，处于 $1 1 8 ^ { \circ } 1 1 ^ { \prime } { \sim } 1 1 8 ^ { \circ } 4 9 ^ { \prime } \mathrm { E }$ 、 $2 7 ^ { \circ } 3 2 ^ { \prime } { \sim } 2 8 ^ { \circ } 2 2 ^ { \prime } \mathrm { N } .$ ，是全国最早的商品粮基地县(图1).浦城县土地总面积 $3 3 8 3 \mathrm { k m } ^ { 2 }$ ，耕地总面积 $3 3 6 1 9 . 4 1 \mathrm { h m } ^ { 2 }$ ，占全县土地总面积的 $9 . 9 4 \%$ 。浦城县属中亚热带季风湿润气候区，由于丘陵、山地和盆地兼具的复杂地形地貌，致使县域内区域性小气候差异较明显，全县年均降水量 $1 ~ 1 0 0 { \sim } 2 ~ 4 0 0 ~ \mathrm { m m }$ ，年均蒸发量 $1 \ 3 1 3 . 2 \ \mathrm { m m }$ ，年均温 $1 7 . 4 \mathrm { ~ \textdegree C }$ ，年日照时数 $1 8 9 3 . 5 \mathrm { h }$ ，年无霜期 $2 5 4 \mathrm { d }$ 。根据《福建省土壤分类系统》，全县耕地土壤分为3个土类、7个亚类、13 个土属和 32个土种，其中以水稻土占绝对优势，占全县耕地总面积的 $9 8 . 1 8 \%$ 。
+
+# 1.2 基础数据
+
+本研究采用的基础数据来自福建省农业厅 2008 年浦城县耕地地力评价和测土配方施肥调查相关成果数据库，比例尺为 $1 : 5$ 万，具体包括: $\textcircled{1}$ 浦城县耕地利用现状-土壤类型数据库; $\textcircled{2}$ 浦城县耕地土壤有机质、pH、有效磷、速效钾、坡度、坡向、质地、耕层厚度、容重、障碍层位置、排涝能力和灌溉条件数据库； $\textcircled{3}$ 浦城县紫云英发芽期(9月中旬—10月中旬)、幼苗期(10月中旬—12月中旬)、越冬期(12月—翌年2月)和开花期(翌年3一4月)日平均温度数据库。
+
+![](images/69497ea8d2ec9ff57990c7b253a343a5f0a0a3089224e372c37af19b62d93832.jpg)  
+图1研究区地理位置示意图  
+Fig.1Geographic location of the study area
+
+# 1.3紫云英用地适宜性评价
+
+根据用地适宜性评价因子选择应遵循的主导性、差异性、针对性、定量性和现实性等原则[16]，考虑紫云英正常生长发育对立地条件的一般要求[16-20]，联系浦城县自然条件的空间差异，采用专家经验法确定紫云英用地适宜性评价因子体系及其各评价因子的理想值、上限值、下限值、极限值等(表1)。以耕地土种类型图斑(6368个)为评价单元，利用上述收集的相关因子属性数据库，建立研究区评价单元紫云英用地适宜性评价因子空间属性数据库。另外，借助 SPSS 软件对各评价因子的隶属度进行模型拟合，建立紫云英各评价因子的隶属函数经验模型(表1)[21，并采用专家经验法确定概念型评价因子的隶属度经验值(表 2)，利用隶属函数模型或隶属度经验值进行各评价因子属性数据的标准化。建立紫云英用地适宜性(目标层)、构成要素(准则层)和评价因子(指标层)之间层次关系，采用特尔菲法建立准则层对目标层以及指标层对准则层的比较矩阵，借助农业部耕地地力评价软件的层次分析法(AHP)模块运算，并通过一致性检验( $\scriptstyle 0 \leqslant \mathbf { C R } \leqslant$ 0.02，均小于0.1)，获得各评价因子的权重值[22]。采用修正的加权指数和模型[18]计算各评价单元的综合质量指数以确定其适宜性等级，计算公式为：
+
+$\begin{array} { r } { Y = \left\{ \begin{array} { l l } { \sum b _ { j } \times B _ { j } } \\ { 0 \quad ( \left\{ \underline { { \mathcal { F } } } \right\} } \end{array} \right. } \end{array}$ (评价因子指标均未超过极限指标)一评价因子指标超过其极限指标)
+
+式中: $Y$ 为评价单元的综合质量指数， $b _ { j }$ 为评价因子的权重， $B _ { j }$ 为评价因子的隶属度。以各评价单元的综合质量指数作累积频率曲线图，根据累积频率曲线的拐点将研究区紫云英用地适宜性划分为4个等级： $\scriptstyle Y = 0$ 为不适宜, $Y { < } 0 . 6 8$ 为一般适宜，Y介于0.68\~0.77为中度适宜, $Y { > } 0 . 7 7$ 为高度适宜。
+
+# 1.4适宜用地耕层土壤碳密度和紫云英固碳量计算
+
+# 1.4.1 适宜用地耕层土壤碳密度计算
+
+从研究区紫云英用地适宜性评价成果数据库提取出适宜用地单元的土壤有机质、耕层厚度、容重等空间数据库，采用公式(2)[23]计算适宜用地单元的耕层土壤碳密度(soil organic carbon density，SOCD, $\mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 } ,$ ），建立研究区紫云英适宜用地单元耕层土壤碳密度空间数据库:
+
+$$
+\mathrm { S O C D } { = } 0 . 5 8 O _ { i } { \times } D _ { i } { \times } H _ { i } / 1 0 0
+$$
+
+式中：0.58为有机质含量还原为有机碳含量的Bemmelen折算系数; $O _ { i }$ 为土壤有机质含量 $( \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } )$ ： $D _ { i }$ 为土壤容重 $( \mathrm { g } \cdot \mathrm { c m } ^ { - 3 } )$ ： $H _ { i }$ 为土层厚度(cm)，本研究耕地耕层土壤 $H _ { i }$ 统一取 $2 0 \mathrm { c m }$ 。
+
+表1研究区紫云英用地适宜性评价因子指标体系、隶属函数和权重值  
+Table1Index system,type offunction and weight of suitability evaluation of milk vetch plantation in the study are:   
+
+<html><body><table><tr><td>评价因子 Factor</td><td>评价指标 Index</td><td>理想值 Standard index</td><td>上限值 Upper limiting value</td><td>下限值 limiting</td><td>极限值 Extreme value</td><td>隶属函数类型 Type of membership function</td><td>隶属函数模型 Model of membership function</td><td>隶属函数 拟合度 R square</td><td>因子权 Weight 重</td></tr><tr><td>地形条件 Topographical</td><td>坡度 Slope()</td><td>6</td><td>25</td><td>value</td><td>≥25</td><td>戒下型 Lower limit type</td><td>y=1/[1+0.012 51x(x-6)]</td><td>0.948</td><td>0.0269</td></tr><tr><td>factor</td><td>坡向 Aspect</td><td>平地、阳坡 Flat, sunny</td><td></td><td></td><td></td><td>概念型 Conceptualtype</td><td></td><td></td><td>0.0427</td></tr><tr><td>气候条件 Climatic</td><td>发芽期日均温 Daily average temperature at germination stage (C）</td><td>slope 20</td><td>35</td><td>5</td><td>W35or ≤5</td><td>峰型Ridge type</td><td>y=1/[1+0.025 547×(x-20)²]</td><td>0.949</td><td>0.076 5</td></tr><tr><td>factor</td><td>幼苗期日均温 Daily average temperature at seedling stage (℃)</td><td>15</td><td></td><td>5</td><td></td><td>戒上型 Upper limit type</td><td>y=1/[1+0.086 188x(x-15)]</td><td>0.98</td><td>0.0703</td></tr><tr><td></td><td>开花期日均温 Daily average temperature at flowering stage (℃C)</td><td>15</td><td></td><td>10</td><td>一</td><td>戒上型 Upper limit type</td><td>y=1/[1+0.334 923x(x-15)]</td><td>0.979</td><td>0.0401</td></tr><tr><td></td><td>越冬期日均温1)</td><td></td><td></td><td></td><td>≤-19</td><td></td><td></td><td></td><td></td></tr><tr><td>土壤条件</td><td>Daily average temperature at wintering stage (℃C) pH</td><td></td><td></td><td></td><td></td><td>峰型 Ridge type</td><td></td><td></td><td>0.044 8</td></tr><tr><td>Topsoil factor</td><td>有效磷 Effective phosphorus (mg·kg-1)</td><td>6 25</td><td>8.5</td><td>4</td><td>W8.5or ≤4</td><td>戒上型 Upper limit type</td><td>y=1/[1+0.738 956x(x-6)²]</td><td>0.898 0.964</td><td>0.0727</td></tr><tr><td></td><td>速效钾Available potassium (mg·kg-1)</td><td>120</td><td></td><td>12 80</td><td></td><td>戒上型 Upper limit type</td><td>y=1/[1+0.036 589x(x-25)] y=1/[1+0.002 615x(x-120)]</td><td>0.945</td><td>0.111 8</td></tr><tr><td></td><td></td><td>砂质壤土至黏 质壤土</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>质地 Soil texture</td><td>Sandy loam to clay loam</td><td></td><td></td><td>多砾质Gravel</td><td>概念型 Conceptualtype</td><td></td><td></td><td>0.039 9</td></tr><tr><td></td><td>耕层厚度 Thickness of plow layer (cm)</td><td>20</td><td></td><td>5</td><td></td><td>戒上型 Upper limit type 戒上型 Upper limit type</td><td>y=1/[1+0.021 2x(x-20)]</td><td>0.957</td><td>0.129 1</td></tr><tr><td>灌排条件</td><td>障碍层位置 Barrier location (cm)</td><td>60</td><td></td><td>10</td><td></td><td></td><td>y=1/[1+0.001 9x(x-60)²]</td><td>0.965</td><td>0.0258</td></tr><tr><td>Irrigation and</td><td>排涝能力 Drainage energy</td><td>强Strong</td><td></td><td></td><td>无No</td><td>概念型 Conceptual type</td><td></td><td></td><td>0.182 4</td></tr><tr><td>drainage</td><td>灌溉条件 Irrigation conditions</td><td>强 Strong</td><td>一</td><td>一</td><td></td><td>概念型 Conceptual type</td><td></td><td></td><td>0.1368</td></tr></table></body></html>
+
+越
+
+表2研究区紫云英用地适宜性概念型评价因子隶属度经验值  
+
+<html><body><table><tr><td>坡向 Slope direction</td><td>经验值 Experience value</td><td>质地 Soil texture</td><td>经验值 Experience value</td><td>灌溉条件 Irrigation condition</td><td>经验值 Experience value</td><td>排涝能力 Drainage capacity</td><td>经验值 Experience value</td></tr><tr><td>平地Flat (<0°)</td><td>1.00</td><td>砂质壤土、壤土、粉砂质壤土 Sandy loam, loam, silty loam</td><td>1.00</td><td>很好 Very good</td><td>1.00</td><td>强 Strong</td><td>1.00</td></tr><tr><td>阳坡 Sunny slope (135°~225°)</td><td>0.95</td><td>黏壤土、砂质黏壤土、粉砂质黏壤土 Clay loam,sandy clay loam,silty clay loam</td><td>0.90</td><td>好 Good</td><td>0.80</td><td>中 Average</td><td>0.60</td></tr><tr><td>半阳坡 Semi-sunny (90°~135、225~270°)</td><td>0.75</td><td>砂质黏土 Sandy clay</td><td>0.70</td><td>一般 Average</td><td>0.60</td><td>弱 Poor</td><td>0.20</td></tr><tr><td>半阴坡 Semi-shady (45°~90°、270~315°)</td><td>0.50</td><td>壤质黏土、粉砂质黏土 Loam clay, silty clay</td><td>0.50</td><td>较差 Poor</td><td>0.40</td><td>无 No</td><td>0</td></tr><tr><td>阴坡 Shady slope (0°~45°、315°~360°)</td><td>0.30</td><td>黏土、壤质砂土 Clay,loamy sand</td><td>0.30</td><td>差 Worse</td><td>0.20</td><td>1</td><td>一</td></tr><tr><td></td><td></td><td>砂土、重黏土 Sand, heavy clay</td><td>0.10</td><td>很差 Worst</td><td>0.05</td><td></td><td></td></tr></table></body></html>
+
+# 1.4.2适宜用地紫云英固碳量估算
+
+以浦城县紫云英用地适宜性评价结果为依据，分别在高度、中度和一般适宜区各设立10个面积为1$\mathrm { m } { \times } 1 \mathrm { m }$ 的调查样区，于盛花期实地收获测定植株产量。借助数学模型对调查样区紫云英产量 $( X , \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } )$ 与相应适宜性单元的综合质量指数(Y)的关系进行拟合，确定最佳拟合模型为：
+
+$$
+Y { = } 0 . 2 3 7 7 \ln ( X ) { - } 1 . 1 2 1 8 ( R ^ { 2 } { = } 0 . 9 8 4 )
+$$
+
+利用该最佳拟合模型和研究区紫云英用地适宜性评价数据库，计算并建立耕地适宜单元的紫云英产量数据库。
+
+采用烘干法和 $\mathrm { K } _ { 2 } \mathrm { C r } _ { 2 } \mathrm { O } _ { 7 }$ 容量法[分析测定调查样区紫云英植株的含水率和含碳率分别为 $8 9 . 3 \%$ 和425.3$\mathbf { g } { \cdot } \mathbf { k } \mathbf { g } ^ { - 1 }$ ，则可利用研究区耕地适宜单元的紫云英产量数据库和式(4)计算适宜用地单元的紫云英固碳量:
+
+$$
+C _ { \mathrm { C F } } { = } X { \times } a { \times } ( 1 0 0 \% { - } 8 9 . 3 \% ) { \times } 4 2 5 . 3 / 1 0 ^ { 6 }
+$$
+
+式中: $C _ { \mathrm { C F } }$ (carbon fixationcapacity)表示各适宜单元紫云英固碳量(t), $X$ 表示各适宜单元紫云英产量 $( \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } ) .$ ），$a$ 表示各适宜单元面积 $( \mathrm { h } \mathrm { m } ^ { 2 } )$ L
+
+# 1.5紫云英种植用地优化布局
+
+土壤有机质提升计划的实施旨在增加耕地土壤固碳和培肥地力，故紫云英高效种植与利用必须以实现高产和尽可能多地增加土壤固碳为目标，因此在区域紫云英种植用地优化布局上应该兼顾其用地适宜性和耕地土壤固碳培肥需求性，按照区域耕地适宜种植的等别以及耕地SOCD的高低先后进行布局。适宜性等级越高的耕地，其立地条件适宜于紫云英生长发育和产量的提高[24]，故应将高度和中度适宜的耕地优先布局紫云英的种植；另外，耕地 SOCD 越低，耕地培肥的需求性越高，耕地固碳潜力越大，故中、低 SOCD 的耕地也应优先布局紫云英的种植。因此，本研究基于上述适宜性和固碳需求，以用地适宜性和耕层 SOCD为紫云英优化种植指标，遵循最适宜生长和耕层 SOCD较低的耕地优先安排为种植用地的原则，经排列组合建立研究区种植用地优化布局划分指标(表3)，将研究区优化种植区划分为优先、次优先和一般种植区。为了便于优化布局指标的排列组合，参照国内外其他研究成果[25]，采用动态聚类分析模型将研究区耕层SOCD划分为低密度区 $( 2 . 5 0 1 { \sim } 3 . 7 2 0 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 } )$ 、中密度区 $( 3 . 7 2 1 { \sim } 4 . 3 1 2 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 } )$ 和高密度区 $( 4 . 3 1 3 { \sim } 5 . 7 3 9 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 } )$ 。
+
+表3研究区紫云英种植用地优化布局划分指标  
+Table 3Optimizing arrangement indexes of milk vetch plantation in the study area   
+
+<html><body><table><tr><td rowspan="2">类型区 Type</td><td colspan="2">划分指标Index</td></tr><tr><td>适宜性</td><td>碳密度水平</td></tr><tr><td></td><td>Suitability</td><td>Soil organic carbon density</td></tr><tr><td>优先种植区</td><td>高度适宜Higher</td><td>中、低Medium,low</td></tr></table></body></html>
+
+中国生态农业学报2017  
+
+<html><body><table><tr><td>Priority planting area</td><td>中度适宜 Middle</td><td>低Low</td></tr><tr><td>次优先种植区</td><td>中度适宜 Middle</td><td>中 Medium</td></tr><tr><td>Sub-priority planting area</td><td>一般适宜 Common</td><td>低Low</td></tr><tr><td>一般种植区</td><td>一般适宜Common</td><td>中 Medium</td></tr><tr><td>General planting area</td><td></td><td></td></tr></table></body></html>
+
+# 2 结果与分析
+
+# 2.1紫云英用地适宜性及其产量与固碳量分析
+
+紫云英用地的适宜性评价结果表明(表4和图2)，浦城县适宜种植的耕地总面积为 $2 7 5 0 5 . 7 5 \mathrm { h m } ^ { 2 }$ ，占全县耕地总面积的 $8 1 . 8 2 \%$ ，其中高度、中度和一般适宜种植用地面积分别占全县适宜用地总面积的 $1 1 . 6 4 \%$ ，$4 9 . 7 2 \%$ 和 $3 8 . 6 4 \%$ ，说明研究区多数耕地适宜种植紫云英但总体质量一般，以中度和一般适宜用地占优势。
+
+全县紫云英高度适宜用地面积 $3 2 0 0 . 7 3 \mathrm { h m } ^ { 2 }$ ，主要分布于西部的永兴和古楼、中部的莲塘和管厝、东南部的水北等乡镇。该区紫云英发芽期、幼苗期和开花期的日均气温分别为 $2 2 . 6 4 ~ \mathrm { ^ { \circ } C }$ 、 $1 4 . 8 8 ~ \mathrm { ^ { \circ } C }$ 和 $1 4 . 6 5 ~ \mathrm { ^ \circ C }$ ，均接近其相应生育期的理想值(分别为 $2 0 ~ \mathrm { ^ { \circ } C } \cdot 1 5 ~ \mathrm { ^ { \circ } C }$ 和 $1 5 \ \mathrm { ^ \circ C }$ )[20,26]；另外，该区坡度均值为 $4 . 1 8 ^ { \circ }$ ，地势平坦，土壤灌排条件良好，近 $70 \%$ 的适宜耕地分布于阳坡、半阳坡和平地，为其生长发育提供了良好的光、温、水条件。紫云英生长发育对磷、钾需求量大[19-21,26]，而该区土壤速效钾和有效磷均值分别为 $7 1 . 4 1 ~ \mathrm { m g { \cdot k g ^ { - 1 } } }$ 和$2 1 . 3 7 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，土壤磷、钾素较丰富；紫云英在疏松、肥沃的砂质壤土至黏质壤土生长最好[26]。该区土壤质地也以砂质黏壤土和砂质壤土为主，耕层深厚，厚度均值为 $2 0 . 9 2 \mathrm { c m }$ ，障碍层平均埋深 $9 3 . 5 2 \mathrm { c m }$ ，土壤剖面状况理想，为其生长发育提供理想的土壤环境条件。故该区耕地紫云英产量和固碳量较高，单位面积耕地紫云英产量和固碳量分别介于 $0 { \sim } 7 1 . 5 0 \ \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $\mathrm { 0 { \sim } 3 . 2 5 t { \cdot } h \mathrm { m } ^ { - 2 } }$ ，均值分别高达 $3 1 . 0 1 \ \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $1 . 4 1 ~ \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ 。
+
+全县紫云英中度适宜用地面积 $1 3 6 7 5 . 9 8 \mathrm { h m } ^ { 2 }$ ，主要分布于中部的莲塘、永兴和临江，西南部的石陂，东部的富岭，东北部的忠信等乡镇。该区耕地紫云英产量和固碳量中等，单位面积耕地紫云英产量和固碳量分别介于 $0 { \sim } 4 2 . 8 9 \ \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $0 { \sim } 1 . 9 5 \ \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ ，均值分别达 $2 7 . 8 3 \ \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $1 . 2 7 \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ 。
+
+全县紫云英一般适宜用地面积 $1 0 6 2 9 . 0 3 \mathrm { h m } ^ { 2 }$ ，主要分布于中部的仙阳和莲塘、西南部的石陂、东部的富岭、东北部的忠信等乡镇，该区热量相对不足，紫云英发芽期、幼苗期和开花期的日均温仅分别为$1 9 . 9 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 、 $1 3 . 9 4 ~ ^ { \circ } \mathrm { C }$ 和 $1 3 . 9 9 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，坡度较大(均值为 $1 0 . 0 4 ^ { \circ } ,$ ，耕地土壤有效钾、磷含量相对不足，均值仅分别为 $5 3 . 2 1 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 和 $1 1 . 9 8 \ \mathrm { m g { \cdot } k g ^ { - 1 } }$ ，耕层稍薄(均值仅 $1 5 . 5 3 \mathrm { c m } \mathrm { , }$ ，灌溉条件较差。故该区耕地紫云英产量和固碳量相对较低，单位面积耕地紫云英产量和固碳量分别介于 $0 { \sim } 2 9 . 3 2 ~ \mathrm { t } \mathrm { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $\mathrm { 0 { \sim } 1 . 3 3 \ t { \cdot } h m ^ { - 2 } }$ ，均值仅分别为$1 8 . 5 0 \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $0 . 8 4 \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ 。
+
+表4研究区紫云英用地适宜性面积、紫云英鲜草产量及固碳量  
+Table 4Suitability area, milk vetch yield and carbon fixation capacity of milk vetch plantation in the study area   
+
+<html><body><table><tr><td rowspan="2">乡镇 Town</td><td rowspan="2">高度适宜面积 Higher suitability Middle suitability area (hm²)</td><td rowspan="2">中度适宜面积 area (hm2)</td><td rowspan="2">一般适宜面积 Common suitability area (hm2)</td><td rowspan="2">Milk vetch</td><td rowspan="2">紫云英产量 单位面积紫云英产量 Milkvetch yield per</td><td rowspan="2">固碳量 C sequestration (t)</td><td rowspan="2">单位面积固碳量 C sequestration per area (t·hm-2)</td></tr><tr><td>yield (t) area (t·hm-2)</td></tr><tr><td>万安Wan'an</td><td>40.52</td><td>575.09</td><td>354.23</td><td>30 041.95</td><td>22.51</td><td>1 367.12</td><td>1.02</td></tr><tr><td>临江 Linjiang</td><td>56.64</td><td>1 009.79</td><td>403.10</td><td>33 798.44</td><td>15.68</td><td>1 538.07</td><td>0.71</td></tr><tr><td>九牧Jiumu</td><td>45.34</td><td>400.53</td><td>690.79</td><td>25 996.08</td><td>19.68</td><td>1 183.01</td><td>0.90</td></tr><tr><td>仙阳 Xianyang</td><td>307.04</td><td>983.18</td><td>1 111.96</td><td>58 570.39</td><td>19.18</td><td>2 665.37</td><td>0.87</td></tr><tr><td>南浦 Nanpu</td><td>110.53</td><td>33.59</td><td>48.55</td><td>7 204.26</td><td>29.25</td><td>327.85</td><td>1.33</td></tr><tr><td>古楼Gulou</td><td>338.60</td><td>310.98</td><td>334.08</td><td>35 085.52</td><td>34.57</td><td>1 596.64</td><td>1.57</td></tr><tr><td>官路Guanlu</td><td>29.90</td><td>452.51</td><td>652.24</td><td>32 212.79</td><td>26.69</td><td>1 465.91</td><td>1.21</td></tr><tr><td>富岭Fuling</td><td>175.44</td><td>1 769.73</td><td>900.70</td><td>62 155.44</td><td>16.88</td><td>2 828.51</td><td>0.77</td></tr><tr><td>山下 Shanxia</td><td>105.85</td><td>236.41</td><td>322.18</td><td>6 582.30</td><td>7.65</td><td>299.54</td><td>0.35</td></tr><tr><td>忠信 Zhongxin</td><td>201.15</td><td>1 158.30</td><td>927.59</td><td>62 003.42</td><td>24.68</td><td>2 821.60</td><td>1.12</td></tr><tr><td>枫溪Fengxi</td><td>3.55</td><td>53.42</td><td>302.44</td><td>2 852.49</td><td>7.20</td><td>129.81</td><td>0.33</td></tr><tr><td>水北 Shuibei</td><td>595.68</td><td>653.72</td><td>529.41</td><td>45 675.19</td><td>19.28</td><td>2 078.55</td><td>0.88</td></tr><tr><td>永兴 Yongxing</td><td>376.02</td><td>1 099.24</td><td>698.47</td><td>52 657.45</td><td>20.02</td><td>2 396.29</td><td>0.91</td></tr></table></body></html>
+
+中国生态农业学报2017  
+
+<html><body><table><tr><td>河滨Hebin</td><td>53.86</td><td>55.64</td><td>65.60</td><td>6 845.79</td><td>31.14</td><td>311.53</td><td>1.42</td></tr><tr><td>濠村 Haocun</td><td>19.58</td><td>491.26</td><td>266.67</td><td>26 170.75</td><td>32.25</td><td>1 190.96</td><td>1.47</td></tr><tr><td>盘亭Panting</td><td>16.22</td><td>444.35</td><td>451.71</td><td>27 310.76</td><td>27.90</td><td>1 242.83</td><td>1.27</td></tr><tr><td>石陂 Shipi</td><td>77.24</td><td>1 842.06</td><td>1102.09</td><td>40 917.38</td><td>10.72</td><td>1 862.03</td><td>0.49</td></tr><tr><td>管厝Guancuo</td><td>323.75</td><td>954.20</td><td>607.87</td><td>24 655.29</td><td>11.29</td><td>1 121.99</td><td>0.51</td></tr><tr><td>莲塘Liantang</td><td>323.83</td><td>1 151.98</td><td>859.34</td><td>76 320.94</td><td>27.06</td><td>3 473.14</td><td>1.23</td></tr></table></body></html>
+
+![](images/a6f7ab6be111a8b6d4e1c970e5975ef3c41de244f62a2a9aefa0f2ad007a50a4.jpg)  
+图2研究区紫云英适宜用地分布  
+Fig.2The suitability distribution of milk vetch plantation in the study area
+
+# 2.2紫云英适宜用地土壤碳密度分析
+
+表5和图3结果表明，浦城县紫云英适宜用地耕层SOCD变化于 $2 . 5 0 { \sim } 5 . 7 4 ~ \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ ，SOCD面积加权平均值为 $4 . 0 2 \ \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ ，呈现出较强的空间变异性。从不同乡镇来看，耕层 SOCD 面积加权平均值较高的主要有山下、石陂、管厝、枫溪、临江和富岭等乡镇，其 SOCD均值介于 $4 . 1 3 { \sim } 4 . 4 4 \ \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ ，为全县耕层SOCD均值的 $1 0 2 . 1 0 \% { \sim } 1 0 9 . 8 5 \%$ ；盘亭、河滨、古楼、官路、濠村和莲塘等乡镇的SOCD较低，均值介于 $3 . 4 6 { \sim } 3 . 7 0$ $\mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ ，仅为全县 SOCD 均值的 $8 5 . 6 4 \% { \sim } 9 1 . 5 6 \%$ 。可见，研究区紫云英适宜用地耕层 SOCD呈现西南和东部高，西北部、东南部和中间低的空间变化规律，究其原因主要是由于区域地形地貌海拔差异所致的热量条件、人为耕作利用及培肥等差异对耕地土壤有机质分解和积累作用综合作用的结果。总体来看，研究区西南部、中部、中北部SOCD较高的耕地主要分布在海拔 $2 0 0 { \sim } 4 5 0 \mathrm { m }$ 的河谷盆地和河谷两侧，多数土壤为潴育型水稻土，土壤较肥沃，且距离村庄越近的土壤，开垦利用悠久，土壤熟化度较高，土壤有机质含量也丰富。枫溪、管厝和富岭等海拔相对较高区域耕地的有机碳密度也较高，主要是因为这些地区热量条件相对较差, $\geqslant 1 0 ^ { \circ } \mathrm { C }$ 积温介于 $4 ~ 7 1 6 . 8 1 { \sim } 4 ~ 9 1 6 . 5 2 ~ ^ { \circ } \mathrm { C }$ ，导致土壤微生物活动及有机质矿化作用较弱，故土壤有机质含量相对较高。土壤有机碳密度较低的乡镇地势较为低平，分布海拔相对较低，热量资源相对丰富，易于土壤微生物活动和有机质的矿化作用，有机质含量较低。
+
+从乡镇内部来看，各乡镇耕地耕层 SOCD空间分布变幅差异也较大，这主要与不同乡镇的地形起伏和交通通达状况差异所致的镇域范围内热量和有机肥投入量差异，进而导致土壤有机质分解和积累作用差异等密切相关。南浦、万安、山下、九牧和管厝等乡镇地势较平坦，海拔空间差异不大，镇域范围内热量空间分布较均匀，导致其境内耕地土壤有机质分解和积累作用差异不明显；且境内交通发达，便于有机肥的运输和投入，故这些乡镇耕地 SOCD 的空间变异较小(CV 均小于 $8 \%$ )；石陂、莲塘、永兴、水北和官路等乡镇海拔变化较大，镇域范围内热量垂直分布存在较明显差异，从而导致其境内土壤有机质分解和积累作用差异较明显；此外，镇域范围内区域间交通通达状况存在明显差异，海拔较高区域有机肥运输不便，从而影响这些区域耕地有机肥的投入量，致使境内耕地 SOCD 空间变异较大(CV均大于 $10 \%$ ）
+
+表5研究区紫云英适宜用地土壤有机碳密度  
+able 5Soil organic carbon density of suitability cropland for milk vetch plantation in the study are:   
+
+<html><body><table><tr><td rowspan="2">乡镇 Town</td><td colspan="3">土壤有机碳密度 Soil organic carbon density</td><td rowspan="2">乡镇 Town</td><td colspan="3">土壤有机碳密度 Soil organic carbon density</td></tr><tr><td>变幅 Range (kg·m-2)</td><td>均值 Mean (kg·m-2)</td><td>变异系数 C.V. (%)</td><td>变幅 Range (kg·m-2)</td><td>均值 Mean (kg·m-2)</td><td>变异系数 C.V. (%)</td></tr><tr><td>万安Wan'an</td><td>3.28~4.56</td><td>3.87±0.27</td><td>7.10</td><td>枫溪Fengxi</td><td>3.64~5.09</td><td>4.30±0.38</td><td>8.81</td></tr><tr><td>临江Linjiang</td><td>3.13~5.13</td><td>4.18±0.39</td><td>9.35</td><td>水北 Shuibei</td><td>3.28~5.00</td><td>4.04±0.42</td><td>10.38</td></tr><tr><td>九牧 Jiumu</td><td>3.43~5.25</td><td>4.05±0.29</td><td>7.26</td><td>永兴 Yongxing</td><td>2.65~4.93</td><td>3.99±0.46</td><td>11.47</td></tr><tr><td>仙阳 Xianyang</td><td>2.73~5.18</td><td>4.06±0.38</td><td>9.28</td><td>河滨Hebin</td><td>2.74~3.98</td><td>3.51±0.29</td><td>8.38</td></tr><tr><td>南浦 Nanpu</td><td>3.53~4.40</td><td>3.96±0.20</td><td>5.08</td><td>濠村 Haocun</td><td>2.93~4.31</td><td>3.70±0.33</td><td>9.03</td></tr><tr><td>古楼 Gulou</td><td>2.91~4.50</td><td>3.63±0.36</td><td>9.99</td><td>盘亭 Panting</td><td>2.69~4.20</td><td>3.46±0.29</td><td>8.51</td></tr><tr><td>官路Guanlu</td><td>2.78~4.45</td><td>3.63±0.37</td><td>10.15</td><td>石陂 Shipi</td><td>2.57~5.74</td><td>4.41±0.54</td><td>12.25</td></tr><tr><td>富岭 Fuling</td><td>2.79~5.35</td><td>4.13±0.40</td><td>9.61</td><td>管厝Guancuo</td><td>3.47~5.05</td><td>4.37±0.33</td><td>7.61</td></tr><tr><td>山下 Shanxia</td><td>3.77~5.10</td><td>4.44±0.32</td><td>7.22</td><td>莲塘 Liantang</td><td>2.50~4.66</td><td>3.70±0.43</td><td>11.64</td></tr><tr><td>忠信 Zhongxin</td><td>2.65~5.03</td><td>3.93±0.38</td><td>9.77</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+![](images/947f5777fa8fd65b02fcad103295059d8347ed0dd0f53d3a4ddd15955810c7ab.jpg)  
+图3研究区紫云英适宜用地土壤有机碳密度分布
+
+Fig.3Soil organic carbon density distribution of suitability cropland for milk vetch plantation in the study area
+
+# 2.3紫云英用地优化布局分析
+
+经优化布局的研究区紫云英用地总面积为 $2 0 0 7 9 . 0 6 \mathrm { h m } ^ { 2 }$ (表6和图4)，其中优先种植区、次优先种植区和一般种植区面积分别为 $5 1 6 5 . 2 3 \ \mathrm { h m } ^ { 2 }$ 、 $1 0 \ 1 0 8 . 3 8 \ \mathrm { h m } ^ { 2 }$ 和 $4 \ 8 0 5 . 4 5 \ \mathrm { h m } ^ { 2 }$ ，分别占优化布局用地总面积的$2 5 . 7 2 \%$ 、 $5 0 . 3 4 \%$ 和 $2 3 . 9 3 \%$ 。可见，浦城县紫云英优化布局用地类型区以优先和次优先种植区占优势。
+
+从紫云英用地优化布局类型区分析，优先种植区主要分布于莲塘、水北、古楼、永兴和忠信等乡镇的盆地区，合计面积 $2 \ 7 5 2 . 5 8 \ \mathrm { h m } ^ { 2 }$ ，分别占全县优化布局用地总面积和优先种植区用地总面积的 $1 3 . 7 1 \%$ 和$5 3 . 2 9 \%$ ，该种植区地势平坦，交通便利，耕地综合质量指数均值为0.757，立地条件高度适宜于紫云英种植，SOCD处于低水平和中水平的耕地面积分别占该类型区耕地总面积的 $6 9 . 8 6 \%$ 和 $3 0 . 1 4 \%$ ，土壤固碳潜力高。紫云英次优先种植区主要分布于莲塘、富岭、忠信、仙阳、石陂和永兴等乡镇海拔 $2 0 0 { \sim } 4 0 0 ~ \mathrm { m }$ 的缓坡地梯田，合计面积 $5 \ 8 1 2 . 2 0 \ \mathrm { h m } ^ { 2 }$ 。分别占全县优化布局用地总面积和次优先种植区用地总面积的 $2 8 . 9 5 \%$ 和$5 7 . 5 0 \%$ ，该种植区耕地综合质量指数均值0.696，气候、地形条件和土壤理化性质较适宜于紫云英生长发育，SOCD处于低、中水平的耕地面积分别占该类型区耕地总面积的 $3 4 . 7 8 \%$ 和 $6 5 . 2 2 \%$ ，土壤固碳潜力较高。紫云英一般种植区主要分布于仙阳、富岭、九牧、忠信、石陂和莲塘等乡镇海拔 $2 5 0 { \sim } 8 0 0 ~ \mathrm { m }$ 的坡地梯田，合计面积 $2 6 7 3 . 2 4 \ : \mathrm { h m } ^ { 2 }$ 。分别占全县优化布局用地总面积和一般种植区用地总面积的 $1 3 . 3 1 \%$ 和 $5 5 . 6 3 \%$ ，该种植区耕地分布零星，海拔起伏较大，交通条件较差，耕地综合质量指数均值仅0.628，自然环境对紫云英的适宜程度相对较低，耕地SOCD相对较高，均处于中水平。
+
+表6研究区紫云英用地优化布局面积  
+Table 6Optimizing arrangement area of milk vetch plantation in the study area （204号 $\mathrm { h m } ^ { 2 }$   
+
+<html><body><table><tr><td rowspan="2">乡镇 Town</td><td colspan="3">优化布局类型区面积 Optimizingarrangement area</td><td rowspan="2">乡镇 Town</td><td colspan="3">优化布局类型区面积 Optimizing arrangement area</td></tr><tr><td>优先种植区 Priority planting area</td><td>次优先种植区 Sub-priority planting area</td><td>一般种植区 General planting area</td><td>优先种植区 Priority planting area</td><td>次优先种植区 Sub-priority planting area</td><td>一般种植区 General planting area</td></tr><tr><td>万安Wan'an</td><td>235.83</td><td>442.06</td><td>243.39</td><td>枫溪Fengxi</td><td></td><td>32.48</td><td>107.31</td></tr><tr><td>临江 Linjiang</td><td>147.29</td><td>617.99</td><td>224.12</td><td>水北 Shuibei</td><td>540.72</td><td>508.88</td><td>228.35</td></tr><tr><td>九牧Jiumu</td><td>45.76</td><td>397.12</td><td>469.23</td><td>永兴 Yongxing</td><td>462.25</td><td>798.42</td><td>288.01</td></tr><tr><td>仙阳 Xianyang</td><td>317.49</td><td>906.75</td><td>572.54</td><td>河滨Hebin</td><td>97.83</td><td>75.78</td><td>1.48</td></tr><tr><td>南浦 Nanpu</td><td>109.55</td><td>36.48</td><td>43.63</td><td>濠村 Haocun</td><td>178.94</td><td>484.45</td><td>110.79</td></tr><tr><td>古楼 Gulou</td><td>493.78</td><td>305.24</td><td>156.25</td><td>盘亭Panting</td><td>399.59</td><td>453.67</td><td>59.02</td></tr><tr><td>官路Guanlu</td><td>278.67</td><td>569.16</td><td>266.23</td><td>石陂 Shipi</td><td>128.95</td><td>824.88</td><td>376.45</td></tr><tr><td>富岭 Fuling</td><td>275.63</td><td>1 113.00</td><td>513.14</td><td>管厝Guancuo</td><td>181.74</td><td>282.87</td><td>286.79</td></tr><tr><td>山下 Shanxia</td><td>15.37</td><td>90.00</td><td>116.83</td><td>莲塘Liantang</td><td>840.09</td><td>1 122.05</td><td>298.58</td></tr><tr><td>忠信Zhongxin</td><td>415.74</td><td>1 047.11</td><td>443.32</td><td>一</td><td></td><td></td><td>一</td></tr></table></body></html>
+
+![](images/a3a15b73d5614d074d66a7044328e01b47fd48d54cc255c18c0f847a264ad34e.jpg)  
+图4研究区紫云英用地优化布局  
+Fig.4Optimizing arrangement map of milk vetch plantation in the study area
+
+# 3讨论
+
+# 3.1用地适宜性对紫云英优化种植的影响
+
+现代土宜理论认为农作物生长发育对土地生态条件的要求因作物类型而异，不同区域耕地的生态条件不同，适宜种植的农作物类型也各异[24]。作物优化种植的目的是根据不同区域的自然特点、社会经济条件和当前生产水平，综合考虑各个时期各项耗地作物和养地作物的发展需要，将其配置到最适宜的种植区域、种植季节和耕作制度中，以充分发挥耕地用养结合的增产潜力[27]。实施耕地土壤有机质提升计划的目的是尽可能增加有机碳的投入，进而提高土壤有机质含量和提升地力，为此，必须尽可能地提高紫云英产量。大量研究表明，区域立地条件的不同，直接影响紫云英产量[16-20]，进而影响其固碳量和种植利用的综合效益。本研究结果表明(表4)，研究区紫云英产量和固碳量与用地适宜性密切相关，高度、中度和一般适宜用地的单位面积产量均值分别达 $3 1 . 0 1 \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 } , 2 7 . 8 3 \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $1 8 . 5 0 \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ ，单位面积固碳量均值分别达1.41$\mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ 、 $1 . 2 7 \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $0 . 8 4 \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ ，表明用地适宜性越高的耕地，越有利于其生长发育和产量的提高，固碳量也越高，从而为耕地有机质含量和地力的提升提供更多的有机碳输入。因此，用地适宜性程度的高低必然成为区域紫云英种植用地优化布局的关键影响因素之一，在用地优化布局上应优先安排适宜性高的耕地进行种植。从用地优化布局结果来看，研究区紫云英优先种植区中高度和中度适宜的耕地面积分别占该区总面积的 $4 0 . 1 7 \%$ 和 $5 9 . 8 3 \%$ ，通过冬种紫云英回田，估计每年可为该区耕地有机质含量和地力的提升分别提供97939.17t和115 250.40t的紫云英鲜草,4456.93t和5244.71t的固碳量；紫云英次优先种植区中度适宜的耕地面积占该区总面积的 $6 5 . 2 2 \%$ ，通过冬种紫云英回田，估计每年可为该区耕地有机质含量和地力提升分别提供 $2 4 5 6 3 6 . 7 1 \mathrm { ~ t ~ }$ 的紫云英鲜草和 $1 1 1 7 8 . 2 1 \mathrm { t }$ 的固碳量，从而显著增加研究区耕地有机碳的输入。我国幅员辽阔，耕地资源分布广泛，区域之间耕地资源的立地条件差异极其明显，必然对紫云英的生长发育及其产量高低产生显著影响，因此，根据其生长习性及其对立地条件的要求，择优选取适宜种植的区域，对于紫云英的高效种植利用以及耕地土壤有机质提升计划的科学实施具有积极的指导意义。
+
+# 3.2土壤碳密度对紫云英优化种植的影响
+
+紫云英作为纯天然生物有机肥料，能有效改善土壤理化性状，特别是在肥力低下的土壤上利用效果显著[28]。大量研究表明，耕地土壤肥力高低与土壤有机质含量或有机碳密度关系密切[4,9-10]。紫云英优化种植的另一目标是尽可能多地固定大气中的 $\mathrm { C O } _ { 2 }$ ，通过紫云英回田增加土壤固碳，从而培肥地力。显然，有机碳匮乏、肥力低下的耕地更需要有机碳的输入，且具有巨大的固碳空间和潜力来增加土壤有机碳含量。因此以固碳培肥为目的的紫云英种植应优先针对区域SOCD较低的耕地，即SOCD的高低必然成为影响紫云英用地优化布局的另一关键影响因素。
+
+有机碳的投入量高低显著影响土壤碳平衡，大量研究表明紫云英适宜压青量为 22.5\~30.0（ $\cdot \mathrm { h m } ^ { - 2 [ 4 , 2 6 ] }$ 。全国绿肥试验网在17个省区的 22个试点进行定位试验，结果表明一般平均每年压入绿肥鲜草 $2 2 . 5 { \sim } 3 0 . 0 \$ $\mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ ，土壤有机质比不压绿肥的休闲地增加 $1 { \sim } 2 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 [ 2 6 ] }$ ，据此推算，假设研究区平均每年压入绿肥鲜草$2 7 . 7 5 \ \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ ，则土壤有机质年均可增加 $1 . 5 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，土壤有机碳年均增加 $0 . 8 7 ~ \mathrm { g { \cdot k g ^ { - 1 } } }$ 。从本研究的用地优化布局结果来看，浦城县紫云英优先、次优先和一般种植区耕地耕层 SOCD 均值分别为 $3 . 5 9 \mathrm { \ k g { \cdot } m ^ { - 2 } }$ 、3.79$\mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ 和 $3 . 9 9 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ ，有机碳平均含量分别为 $1 5 . 4 2 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $1 6 . 3 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 和 $1 7 . 1 9 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ,SOCD 处于中、低水平的耕地分别占优先种植区总面积的 $3 0 . 1 4 \%$ 和 $6 9 . 8 6 \%$ ，次优先种植区总面积的 $6 5 . 2 2 \%$ 和 $3 4 . 7 8 \%$ ，表明耕地 SOCD水平越低，越应优先布局种植紫云英，土壤固碳效应也越明显。若将全县优化布局区的耕地全部种植紫云英，并全部用于还田，按年均 $0 . 8 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 的增加幅度计算，若要实现耕地土壤有机碳含量达到全县平均水平 $( 1 7 . 3 9 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } )$ 的目标，优先、次优先和一般种植区分别需种植并压青紫云英2\~3a(2.27a)、1\~2a(1.20 a)和 $1 \mathrm { a } ( 0 . 2 3 \mathrm { a } )$ 。可见，通过冬种紫云英回田，碳密度最低的优先种植区耕地土壤固碳作用最大，能最大程度上通过种植紫云英实现耕地土壤有机碳含量的提高，次优先种植区次之，而碳密度相对较高的一般种植区耕地土壤固碳作用不太明显。
+
+# 4结论
+
+浦城县多数耕地均适宜于种植紫云英，适宜用地面积占耕地总面积的 $8 1 . 8 2 \%$ ，但总体适宜程度一般，以中度和一般适宜用地占优势。若将研究区耕地全部种植紫云英，年鲜草总产量可达 $6 5 7 \ 0 5 6 . 6 5 \ \mathrm { t } ,$ 年总固碳量可达 $2 9 9 0 0 . 7 4 \mathrm { t }$ ，若以年压入绿肥鲜草 $2 7 . 7 5 \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ 计，可为 $2 3 6 7 7 . 7 2 \mathrm { h m } ^ { 2 }$ 耕地的有机质和地力提升提供有机碳源，固碳效应较为显著。研究区耕地耕层 SOCD 变化于 $2 . 5 0 { \sim } 5 . 7 4 \ \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ ，全县范围内耕地耕层SOCD 的空间变异性较为明显。研究区紫云英用地优化布局以优先种植区和次优先种植区占优势，合计占紫云英优化布局总用地面积的 $7 6 . 0 7 \%$ ，其中优先种植区主要分布于盆地区，次优先种植区主要分布于海拔$2 0 0 { \sim } 4 0 0 \mathrm { m }$ 的缓坡地梯田，一般种植区主要分布于海拔 $2 5 0 { \sim } 8 0 0 \mathrm { m }$ 的坡地梯田。基于适宜性和固碳需求，择优选取紫云英适宜种植区域，对于其高效种植利用、区域耕地土壤有机质提升计划的科学实施以及耕地质量的有效提高皆具有重要指导意义。
+
+# 参考文献 References
+
+[1]王丽宏，胡跃高，杨光立，等．南方冬季覆盖作物的碳蓄积及其对水稻产量的影响[J]．生态环境,2006,15(3):616-619 WANGLH,HUYG,YANG GL,et al.Carbonfixation by winter cover crops in South China andthe effcts of WCConrice yields[J].Ecology and Environment,2006,15(3): 616-619   
+[2]颜志雷，方宇，陈济琛，等．连年翻压紫云英对稻田土壤养分和微生物学特性的影响[J]．植物营养与肥料学报，2014, 20(5): 1150-1160 YAN ZL,FANG Y,CHENJC,et al.Efect of tuing over Chinese milk vetch (Astragalus sinicus L.)on soil nutrients and microbial properties in paddy fields[J].Plant Nutritionand Fertilizer Science,2014,2O(5):1150-1160   
+[3]刘春增，常单娜，李本银，等．种植翻压紫云英配施化肥对稻田土壤活性有机碳氮的影响[J].土壤学报，2016,54(3): 657-669 LIU C Z,CHANGDN,LIB Y,et al.Effectsof planting and incorporation ofChinese milk vetchcoupled withapplicationof chemical fertilizer on active organiccarbon and nitrogen in paddy soil[J].Acta Pedologica Sinica,2016,54(3): 657-669   
+[4]张达斌，姚鹏伟，李婧，等．豆科绿肥及施氮量对旱地麦田土壤主要肥力性状的影响[J].生态学报，2013,3(7): 2272- 2281 ZHANG D B,YAOPW,LIJ,et al.Efects of two years’incorporationof leguminous greenmanureonsoil propertiesofa wheat field in dryland conditions[J].Acta Ecologica Sinica,2013,33(7): 2272-2281   
+[5]HIMMELBAUER ML,VATEVA VLOZANOVAL,etal.Site efectsonrootcharacteristics and soil protectioncapabilityof two cover crops grown in South Bulgaria[J].Journal of Hydrology and Hydromechanics,2013,61(1): 30-38   
+[6]朱立志，邱君，微赛．我国土壤有机质提升的现状分析与对策建议[J].中国人口·资源与环境,2013,23(S1):159-162 ZHU LZ,QIUJ, WEIS.Analysis and suggestions onpresent situationof soil organic materimprovement in China[J]. China   
+[7]李思义，唐红琴，何铁光，等．绿肥作物紫云英研究进展[J]．热带农业科学,2016,36(11):27-32 LI Z Y,TANG HQ,HETG,etal.Research progressofChinese milkvetch (Astragalus sinicus)[J]. Chinese Joualof Tropical Agriculture,2016,36(11): 27-32   
+[8]林新坚，王飞，何春梅．紫云英理论与实践[M]．北京：中国农业科技出版社,2014:38-39 LIN XJ,WANGF,HECM.Theoryand PracticeofChinese Milk Vetch[M].Beijing: China Agriculture TechnologyPres, 2014: 38-39   
+[9]宋莉，韩上，鲁剑巍，等．油菜秸秆、紫云英绿肥及其不同比例配施还田的腐解及养分释放规律研究[J].中国土壤与肥 料,2015,(3): 100-104 SONGL,HAN S,LUJW,et al.Studyoncharacteristicsof decomposingand nutrientsreleasingof diferent proportional mixture ofrape straw and Chinese milk vetch in ricefield[J]. Soiland Fertilizer Sciences in China,2O15,(3):100-104   
+[10] 刘春增，刘小粉，李本银，等．紫云英配施不同用量化肥对土壤养分、团聚性及水稻产量的影响[J].土壤通报，2013, 44(2): 409-413 LIU C Z,LIU XF,LIBY,etalEectsofapplying Chinese milk vetch with diffrentamounts ofchemical fertilizeronsoil nutrients,aggregation and rice yield[J]. Chinese Journal of Soil Science,2013, 44(2): 409-413   
+[11]PEOPLES M B，BROCKWELL J， HERRIDGE D F,etal.Thecontributionsof nitrogen-fixing crop legumes tothe productivity of agricultural systems[J]. Symbiosis,2009,48(1/3): 1-17   
+[12]KOLAWOLEGO.Efectsofleguminous plant residues andNPKfertilizerapplicationon theperformanceofyam(Dioscorea rotundata‘c.v.'ewuru) in south-western Nigeria[J]. Archives of Agronomy and Soil Science,2013,59(3): 423-434   
+[13]中国农业科学院．全国种植业区划系列成果[J]．农业区划,1985,(6):21-22 Chinese Academyof Agricultural Sciences.Series ofresults of nationwide division of planting industry[J]. Chinese Jourmalof Agricultural Resources and Regional Planning,1985,(6): 21-22   
+[14]肖道庸．江西冬绿肥的合理布局和高产栽培[J]．江西农业科技,1981,(9):7-9 XIAODY. Reasonable distribution and high-yielding cultivationof winter green manure in Jiangxi[J]. Jiangxi Agricultural Science & Technology,1981,(9): 7-9   
+[15] 周志明．绿肥种植利用效益评价和空间发展预测研究[D].北京：中国农业大学,2016 ZHOU ZM. Benefit assessment and spatial prediction of green manuring[D]. Beijing: China Agricultural University,2016   
+[16]邢世和．土地资源与利用规划[M]．厦门：厦门大学出版社,2000:77-106 XING S H.Land Resources and Utilization Planning[M]. Xiamen: Xiamen University Press,20oo: 77-106   
+[17] 王飞，邢世和.GIS 支持下的福建省烤烟适宜地综合评价及其利用对策[J]．土壤,2008,40(2):299-305 WANGF,XING S H.GIS-based integrated suitabilityevaluationandutilization strategies of landresources for flue-cured tobacco production in Fujian[J]. Soils,2008,40(2): 299-305   
+[18] 邢世和．福建耕地资源[M]．厦门：厦门大学出版社,2003:1-19 XING S H. Cropland Resources in Fujian[M]. Xiamen: Xiamen University Press, 2O03: 1-19   
+[19] 江苏省苏州地区农业科学研究所．紫云英[M]．北京：农业出版社,1979:7-41 Institute of Agricultural Sciences inSuzhou,Jiangsu Province.Chinese Milk VetchM].Beijing: Agriculture Pres,1979:7-41   
+[20] 焦彬．绿肥[M]．北京：农业出版社,1985:60 JIAO B. Green Manure[M]. Beijing: Agriculture Press,1985: 60   
+[21] AHAMED TR N,RAO K G,MURTHY JS P. GISbased fuzzy membership model for crop-landsuitabilityanalysis[J]. Agricultural Systems,2000, 63(2): 75-95   
+[22] 高蓓，卫海燕，郭彦龙，等．基于层次分析法和GIS 的秦岭地区魔芋潜在分布研究[J].生态学报，2015,35(21):7108- 7116 GAO B,WEIHY,GUOYL,etal.Potential distributionofAmorphophallus rivieri inthe Qinling Mountains basedonanalytic hierarchy process and geographic information system[J]. Acta Ecologica Sinica,2015,35(21): 7108-7116   
+[23]KIRSCHBAUMM UF.Willchanges insoil organiccarbon act as a positive or negative feedbackon global warming?[J]. Biogeochemistry,2000,48(1): 21-51   
+[24] 林培，孙丹峰．试论现代土宜科学与地区名优农产品开发[J]．中国农业大学学报,2002,17(1):33-39 LINP,SUNDF.On land suitabilityscienceanddevelopment of native agro-specialities[J]. Journal of China Agricultural University,2002,17(1): 33-39   
+[25] 许信旺，潘根兴，汪艳林，等．中国农田耕层土壤有机碳变化特征及控制因素[J].地理研究,2009,28(3):601-612 XU X W,PANG X, WANG YL,et al. Researchof changing characteristics and control factors offarmland topsoil organic carbon in China[J]. Geographical Research,2009,28(3): 601-612   
+[26] 林多胡，顾荣申．中国紫云英[M]．福州：福建科学技术出版社,2000:21-306 LIN DH,GUR S.Milk Vetch in China[M].Fuzhou: Fujian Science and Technology Publishing House,2000: 21-306   
+[27] 黄不凡，梅方权．黄淮海地区豆科作物合理布局与经济效益初步分析[J]．农业技术经济,1983,(8):15-18 HUANG BF,MEIFQ.Analysis of reasonable distribution and economic benefit leguminous crops in Huang-Huai-Hai region[J]. Journal of Agrotechnical Economics,1983,(8):15-18   
+[28]SAMARAJEEWA K BDP,TAKATSUGUH,SHINYAO.Efectof Chinese milk vetch (Astragalus sinicus L.）asacovercrop on weed control, growthandyieldof wheatunderdiferent tilage systems[J].Plant Production Science,2Oo5,8(1):79-85

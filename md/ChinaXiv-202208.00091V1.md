@@ -1,0 +1,157 @@
+# RLP-C、AIP与青年初发急性心肌梗死相关性研究
+
+邓毅凡』'²，朱米雪』3，刘娟1'²，聂日1²，何胜虎1，张晶1\* 10.12114/j.issn.1007-9572.2022.0564
+
+基金项目：1、2021年江苏省研究生科研与实践创新项目（编号：SJCX21-1647）。
+
+2、江苏省卫生健康委科研课题（编号：Z2018032）。3、扬州市重点研发（社会发展）项目（编号：YZ2020103）。
+
+1.225001 江苏省扬州市 扬州大学临床医学院/江苏省苏北人民医院心血管内科 ；2.225001江苏省扬州市 扬州大学医学院；3.225001 江苏省扬州市 大连医科大学扬州临床学院\* 通讯作者：张晶，副主任医师；E-mail：zhangjingyjs@163.com
+
+# Clinical study on the predictive effects of RLP-C and AIP on incipient acute myocardial infarction in young people
+
+DENG Yifan $^ { I , 2 }$ , ZHU Mixue， LIU Juan $^ { I , 2 }$ ,NIE Ril,2,，HE Shenghu², ZHANG Jing2#   
+1.Clinical Medical College， Yangzhou University， Northern Jiangsu People's Hospital ofJiangsu   
+Province，Yangzhou225001，China   
+2.Medical Collge of Yangzhou University， Yangzhou22500l，China   
+3.The Yangzhou School of Clinical Medicine of Dalian Medical University， Yangzhou225001,   
+China   
+\*corresponding author : ZHANG Jing ； Associate chief physician ； E-mail :   
+zhangjingyjs@ 163.com
+
+摘要：背景血脂代谢异常是急性心肌梗死（AMI）发生发展的重要危险因素，但在一些血脂正常的人群中，仍有AMI的发生。残粒脂蛋白胆固醇（RLP-C）、血浆致动脉粥样硬化指数（AIP）作为非常规血脂指标，与AMI之间的研究尚少，同时对于青年AMI患者致病作用关系不明确。目的 探讨RLP-C、AIP 与青年初发急性心肌梗死相关性。方法 选取江苏省苏北人民医院2014年11月-2021年11月初诊住院并行冠脉造影且年龄位于18-45岁者共1201人，其中将急性心肌梗死者共627人作为研究组，非急性心肌梗死者574人为对照组。统计两组患者一般资料以及甘油三酯（TG）、总胆固醇（TC）、高密度脂蛋白（HDL-C）、低密度脂蛋白（LDL-C）等指标，根据公式计算出RLP-C和 AIP，进行统计分析。并将所有研究者依据年龄中位数37岁分为两组， ${ > } 3 7$ 岁为A组， $\leqslant 3 7$ 岁为B组，分析不同年龄阶段罹患急性心肌梗死的危险因
+
+素。结果 研究组RLP-C、AIP水平明显高于对照组（ $\scriptstyle \cdot < 0 . 0 5 .$ ）；多因素Logistic 相关分析显示吸烟、TC、RPL-C、AIP均为青年罹患急性心肌梗死发生的独立危险因素，HDL-C为急性心肌梗死的独立保护因素（ $\cdot P { < } 0 . 0 5 .$ ）。在RLP-C、AIP预测正常人群罹患急性心肌梗死ROC 曲线中，RLP-C 约登指数为0.547，ROC曲线下面积为0.851（ $9 5 \% C I 0 . 8 3 – 0 . 8 7 3$ ， $P { < } 0 . 0 0 I$ ）敏感性 $84 . 8 \%$ 特异性为 $6 9 . 9 \%$ ；AIP约登指数为0.544，ROC曲线下面积为0.813（ $9 5 \%$ CI0.789-0.837， $\scriptstyle P < 0 . 0 0 I$ ）敏感性 $8 5 . 2 \%$ ，特异性为 $6 6 \%$ ；两项指标联合约登指数为0.587，ROC曲线下面积为0.861（ $9 5 \% C I 0 . 8 4 0  – 0 . 8 8 2$ ， $P { < } 0 . 0 0 I$ ）敏感性$8 3 . 1 \%$ ，特异性为 $7 5 . 6 \%$ 。根据年龄分层之后，AIP、RLP-C仍为两组不同年龄段青年患者罹患急性心肌梗死的独立危险因素，HDL-C为不同年龄段罹患急性心肌梗死的独立保护因素。结论：RLP-C、AIP是青年人群初发急性心肌梗死的独立危险因素，随着年龄的增大，两项指标预测价值逐渐增大；并且和传统血脂指标相比，两项指标及其联合指标对青年急性心肌梗死更具有临床预测价值。
+
+【关键词】青年；急性心肌梗死；残粒脂蛋白-胆固醇；血浆致动脉粥样硬化指数；冠状动脉粥样硬化；
+
+Abstract Background Abnormal lipid metabolism is an important risk factor for the occurrence and development of acute myocardial infarction (AMI),but the occurrence of AMI is still common in some patients with normal blood lipid.There are few studies on the relationship between residual lipoprotein cholesterol (RLP-C） and plasma atherogenic index (AIP） as unconventional lipid indexes and AMI,and the relationship between the pathogenesis of AMI in young patients is not clear. Objective To investigate the correlation between RLP-C, AIP and young patients with initial acute myocardial infarction.Methods A total of 120l patients aged 18-45 years old who were newly hospitalized and underwent coronary angiography from November 2014 to November 2021 in North Jiangsu People's Hospital were selected, including 627 patients with acute myocardial infarction as the study group and 574 patients without acute myocardial infarction as the control group. General information and triglyceride (TG), total cholesterol (TC), high density lipoprotein (HDL-C), low density lipoprotein (LDL-C) and other indicators of patients in the two groups were collcted. RPL-C and AIP were calculated according to the formula for statistical analysis. All te researchers were divided into two groups according to the median age of 37 years, ${ > } 3 7$ years old was group A, and $\leq 3 7$ years old was group B,and the risk factors of acute myocardial infarction at different ages were analyzed. Results The levels of RLP-C and AIP in the study group were significantly higher than those in the control group $( \mathrm { P } { < } 0 . 0 5 )$ . Multivariate Logistic correlation analysis showed that smoking,TC,RPL-C and AIP were independent risk factors for acute myocardial infarction in young people $( \mathrm { P } { < } 0 . 0 5 )$ , and HDL-C was independent protective factor for acute myocardial infarction. In the ROC curve of RLP-C and AIP to predict the incidence of acute myocardial infarction in the normal population, the RLP-C Yorden index was O.547,the area under the ROC curve was 0.851(95%C1 0.83-0.873, $P { < } 0 . 0 0 I$ ）, the sensitivity was $8 4 . 8 \%$ , the specificity was $6 9 . 9 \%$ . AIP Yorden index was 0.544,area under ROC curve was 0.813 ( $9 5 \%$ CI 0.789-0.837, $P { < } 0 . 0 0 I$ ），sensitivity was $8 5 . 2 \%$ ， specificity was $6 6 \%$ . The combined Yuden index of the two indexes was 0.587, the area under ROC curve was 0.861 ( $9 5 \% C \mathrm { I }$ 0.840-0.882, $\scriptstyle P < 0 . 0 0 I$ ).The sensitivity was $8 3 . 1 \%$ ,and the specificity was $7 5 . 6 \%$ . After stratification according to age,AIP and RLP-C were still independent risk factors for ACUTE myocardial infarction in the two groups of young patients of diferent ages，while HDL-C was independent protective factor for acute myocardial infarction in different ages. Conclusion RLP-C and AIP are independent risk factors for initial acute myocardial infarction in young people, and their predictive value increases with age. In addition, compared with the traditional lipid indexes, the two indexes and their combined indexes have more clinical predictive value for young people with acute myocardial infarction.
+
+Key wordsYouth ; Acute myocardial infarction ; Residual lipoprotein-cholesterol ; atherogenic index of plasma ; atherosclerosis of coronary artery
+
+急性心肌梗死（AMI）是由冠状动脉急性闭塞导致心肌急性缺血坏死，多由冠脉粥样硬化（AS）进展所导致。随着生活节奏、饮食方式的改变，其发病逐渐年轻化[1]。据统计，近10 年的急性心肌梗死患者中，年轻人（ ${ < } 4 5$ 岁）比例占据到 $32 \%$ ，然而这一数据在21世纪初期仅有 $20 \%$ 左右[2]。血脂代谢异被公认为是AS 重要的致病因素，控制常见的血脂指标如总胆固醇、低密度脂蛋白等已作为急性心肌梗死高危人群的有效防治手段[3]。近些年来，更多的非传统血脂指标如残粒样脂蛋白-胆固醇（RLP-C）、血浆致动脉粥样硬化指数（AIP）、小而密低密度脂蛋白胆固醇（sd-LDL）等被发现可能与 AS 密切相关[4-5]。为进一步明确上述非传统血脂指标与青年急性心肌梗死的关系，本研究回顾性分析了RLP-C、AIP对青年初发急性心梗发生的预测作用及效应，现报道如下。
+
+# 1.资料与方法
+
+# 1.1研究对象
+
+选取江苏省苏北人民医院心内科于2014年11月-2021年11月拟诊冠心病入院并行冠状动脉造影且年龄位于18-45 岁患者共1201人，其中将诊断为急性心肌梗死共627人纳入研究组，排除急性心肌梗死患者共574人作为对照组（包括非冠心病者270人，冠心病患者304人）。又依据研究者年龄中位数，将其划分为A组（38-45岁）和B组（18-37岁）。
+
+纳入标准：（1）年龄18-45岁。（2）初诊为AMI患者，诊断符合中华医学会心血管病学分会制定的指南。（3）均已完善冠脉造影术，其中冠心病诊断造影提示任意冠状动脉或其主要分支狭窄程度 $\geq 5 0 \%$ 。（4）平素未服用抗凝、抗血小板等冠心病二级预防药物。
+
+排除标准：（1）入院前已服用他汀类、贝特类等影响血脂药物。（2）存在冠脉肌桥、冠脉痉挛等非阻塞性急性心肌梗死。（3）陈旧性心肌梗死、冠脉旁路移植术史、冠脉介入治疗史，以及合并心脏瓣膜病、风湿性心脏病、扩张型心肌病、肥厚性心肌病等其他器质性心脏病。（4）合并恶性心律失常、严重心肺功能不全、肝肾功能不全、肿瘤、结缔组织病、血液疾病、外伤、结核等。（5）患者情绪、精神障碍，存在抑郁者无法配合研究进展。
+
+# 1.2研究方法
+
+通过医院病例系统，收集所有研究者入院时一般资料（个人史、家族史、既往史）、总胆固醇（TC）、甘油三酯（TG）、低密度脂蛋白胆固醇（LDL-C）、高密度脂蛋白胆固醇（HDL-C）。根据公式RLP- $\quad . \mathrm { C } =$ TC-HDL-C-LDL-C； $\mathbf { A I P } =$ log（TG/HDL-C）计算RLP-C、AIP水平。上述指标均为入院后急诊PCI治疗时间窗内首次检验结果。
+
+# 1.3统计学方法
+
+使用SPSS25.0进行统计分析。连续变量以均数 $\cdot \pm { }$ 标准差，分类变量以比率或比例表示，并使用卡方检验进行比较。采用Kolmogorov-Smirnov 检验连续变量的正态性，非正态分布选择U 检验进行比较。将连续变量转换为二分类变量后，采用多因素Logistic回归分析比较各项血脂指标及危险因素对不同人群初发急性心肌梗死的预测作用，计算OR值以及 $9 5 \%$ 置信区间；绘制受试者工作特征曲线（ROC），根据约登指数确定AIP、RLP-C及两者联合指标预测不同青年人群初发急性心机梗死的最佳临界值。 $P { < } 0 . 0 5$ 认为差异具有统计学意义。
+
+# 2.结果
+
+2.1两组患者一般资料以及血脂检验结果对比。
+
+研究组患者男性比例、吸烟史、高血压史、TG、TC、HDL-C、LDL-C、RLP-C、AIP水平分别高于对照组（ $\scriptstyle P < 0 . 0 5 .$ ），两组患者年龄、酗酒史、糖尿病史比较差异无统计学意义（ $. P { > } 0 . 0 5 )$ ），见表1。
+
+# 表1两组一般资料以及血脂水平比较
+
+Table 1 Comparison of general data and lipid levels between the two groups   
+
+<html><body><table><tr><td colspan="2"></td><td>例 （%），x±s，M(P25，P</td><td></td><td></td></tr><tr><td>对照组 (574例)</td><td>研究组 (627例)</td><td>z/x²</td><td></td><td>P</td></tr><tr><td>年龄 37</td><td>37</td><td>-0.471</td><td></td><td>0.638</td></tr><tr><td>(33，41) 性别（男) 362 (63.07)</td><td>(33.25，41)</td><td></td><td></td><td></td></tr><tr><td></td><td>468 (74.64)</td><td>18.807</td><td></td><td><0.001</td></tr><tr><td>吸烟史 218 (37.98)</td><td>404(64.43)</td><td>83.996</td><td></td><td><0.001</td></tr><tr><td>酗酒史 114 (19.86)</td><td>153 (24.40)</td><td>3.575</td><td></td><td>0.059</td></tr><tr><td>高血压 232 (40.42)</td><td>299(47.69)</td><td>6.42</td><td></td><td>0.011</td></tr><tr><td>糖尿病 108(18.82)</td><td>138 (22.01)</td><td>1.877</td><td></td><td>0.171</td></tr><tr><td>BMI</td><td>24.62 24.05 (21.62，27.91) (21.59，27.4)</td><td>-1.224</td><td></td><td>0.221</td></tr><tr><td>TG (mmol/l)</td><td>1.28 (1.02， 1.9)</td><td>1.945 (1.43，2.92)</td><td>-13.083</td><td><0.001</td></tr><tr><td>TC (mmol/1)</td><td>4.1 (3.55，4.75)</td><td>4.5 (3.81，5.34)</td><td>-7.098</td><td><0.001</td></tr><tr><td>HDL-C (mmol/1)</td><td>1.2</td><td>0.85</td><td>-21.306</td><td><0.001</td></tr><tr><td>LDL-C</td><td>(1，1.4) 2.4</td><td>(0.73，1) 2.69</td><td>-5.293</td><td><0.001</td></tr></table></body></html>
+
+<html><body><table><tr><td>(mmol/l)</td><td>(1.95，2.93)</td><td>(2.11，3.36)</td><td></td><td></td></tr><tr><td>RLP-C</td><td>0.4</td><td>0.85</td><td>-21.044</td><td><0.001</td></tr><tr><td>(mmol/1)</td><td>(0.24， 0.59)</td><td>(0.63，1.2)</td><td></td><td></td></tr><tr><td>AIP</td><td>-0.08</td><td>0.36</td><td>-18.746</td><td><0.001</td></tr><tr><td></td><td>(0.038, 0.21)</td><td>(0.20, 0.56)</td><td></td><td></td></tr></table></body></html>
+
+2.2青年人群罹患急性心肌梗死相关性分析。
+
+2.2.1青年人群罹患急性心肌梗死的多因素回归分析。
+
+将性别、高血压史、吸烟史、TG、TC、HDL-C、LDL-C、RLP-C、AIP纳入单因素回归分析中，上述指标均为青年罹患急性心肌梗死危险因素；矫正单因素中 $P { < } 0 . I$ 的指标纳入多因素回归分析中，结果示吸烟史、TC、RLP-C、AIP 为冠脉正常青年罹患急性心肌梗死的独立危险因素，且RLP-C、AIP较TC对青年急性心肌梗死相关性更明显；HDL-C为急性心肌梗死独立保护因素，见表2。
+
+# 表2青年人群罹患急性心肌梗死的多因素Logisitic回归分析
+
+Table 2 Multivariate Logisitic regression analysis of acute myocardial infarction in young adults   
+
+<html><body><table><tr><td>参数</td><td colspan="5">单因素Logsitic 回归分析</td><td colspan="5">多因素Logsitic 回归分析</td></tr><tr><td></td><td></td><td>SE</td><td>Wald x² 值</td><td>p</td><td>OR 95%CI</td><td>β</td><td>SE</td><td>Wald x值</td><td>p</td><td>OR 95%CI</td></tr><tr><td>性别</td><td>0.545</td><td>0.126</td><td>18.641</td><td><0.001</td><td>1.724 (1.346, 2.207)</td><td colspan="5"></td></tr><tr><td>高血压</td><td></td><td>0.2960.117</td><td>6.408</td><td>0.011</td><td>1.344 (1.069, 1.689)</td><td colspan="5"></td></tr><tr><td>吸烟史</td><td>1.085</td><td>0.12</td><td>81.955</td><td><0.001</td><td>2.958</td><td>0.932</td><td>0.169</td><td>30.453</td><td><0.001</td><td>2.541</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td>(2.339, 3.742)</td><td></td><td></td><td></td><td></td><td>(1.824- 3.538)</td></tr><tr><td>TG （mmol/l)</td><td></td><td>1.3420.123</td><td>119.309</td><td><0.001</td><td>3.826 (3.007, 4.868)</td><td colspan="5"></td></tr><tr><td>TC （mmol/l)</td><td>1.101</td><td>0.153</td><td>51.725</td><td><0.001</td><td>3.009 (2.228, 4.062)</td><td>1.025</td><td>0.35</td><td>8.593</td><td>0.003</td><td>2.787 (1.405- 5.531)</td></tr><tr><td>HDL-C (mmol/1)</td><td>3.670</td><td>0.303</td><td>146.345</td><td><0.001</td><td>0.025 (0.014, 0.046)</td><td>3.024</td><td>0.329</td><td>84.39</td><td><0.001</td><td>0.049 (0.025, 0.093)</td></tr><tr><td>LDL-C （mmol/l)</td><td>0.79</td><td>0.155</td><td>26.153</td><td><0.001</td><td>2.204 (1.628, 2.983)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>RLP-C (mmol/1)</td><td></td><td>2.2400.138</td><td>262.122</td><td><0.001</td><td>9.389 (7.159, 12.313)</td><td>1.331</td><td>0.182</td><td>53.293</td><td><0.001</td><td>3.786 (2.648, 5.413)</td></tr><tr><td>AIP</td><td></td><td>2.1350.132</td><td>260.196|<0.001</td><td></td><td>8.458 (6.525, 10.963)</td><td>1.232</td><td>0.248</td><td>24.592<0.001</td><td></td><td>3.427 (2.106, 5.576)</td></tr></table></body></html>
+
+$2 . 2 . 2 \mathrm { R O C }$ 曲线分析RLP-C、AIP及联合指标对青年人群罹患急性心肌梗死的预测价值。
+
+根据ROC曲线计算RLP-C 敏感性 $8 4 . 8 \%$ 特异性为 $69 . 9 \%$ 。AIP 敏感性$8 5 . 2 \%$ ，特异性为 $6 6 \%$ 。RLP-C、AIP联合后敏感性 $8 3 . 1 \%$ ，特异性为 $7 5 . 6 \%$ 见图1、表3。
+
+图1RLP-C、AIP及联合指标对青年人群罹患急性心肌梗死预测的ROC曲线图 Figure 1 ROC curve of RLP-C and AIP for predicting acute myocardial infarction in young people with normal coronary arterie
+
+![](images/70df327a69b6c226d0249ea308b3edecd0e1e4cc207da2e3b0c15169450fc9ff.jpg)
+
+表3AIP、RLP-C 及联合预测下AUC、敏感性、特异性对比 Table 3Comparison of AUC, sensitivity and specificity under AIP, RLP-C and combined prediction.   
+
+<html><body><table><tr><td>参数</td><td>约登指数</td><td>AUC</td><td>95%CI</td><td>敏感性</td><td>特异性</td><td>P</td></tr><tr><td>RLP-C</td><td>0.547</td><td>0.851</td><td>0.83-0.873</td><td>84.8%</td><td>69.9%</td><td><0.001</td></tr><tr><td>AIP</td><td>0.544</td><td>0.813</td><td>0.789-</td><td>85.2%</td><td>66%</td><td><0.001</td></tr><tr><td rowspan="3">联合预测</td><td rowspan="3">0.587</td><td rowspan="3">0.861</td><td>0.837</td><td></td><td></td><td></td></tr><tr><td>0.840-</td><td>83.1%</td><td>75.6%</td><td><0.001</td></tr><tr><td>0.882</td><td></td><td></td><td></td></tr></table></body></html>
+
+2.3不同年龄分组的青年人群罹患急性心肌梗死危险因素分析
+
+2.3.1不同年龄分组一般资料及血脂水平、AIP、RLP-C对比。
+
+在A、B两个年龄段中，研究组 TG、TC、LDL-C、RLP-C、AIP 均明显高于对照组，HDL-C 明显低于对照组（ $. P { < } 0 . 0 5 )$ ）。在两个年龄段研究组对比，A组TG、RLP-C、AIP高于B组研究组，HDL-C低于B组研究组（ $. P { < } 0 . 0 5 )$ ，其余均无统计学差异，见表4。
+
+# 表4A、B两组患者一般资料及血脂水平对比
+
+Table 4 Comparison of general data and blood lipid levels between group A and group B
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td colspan="5">A组</td><td colspan="5">B组</td><td colspan="2">A、B研究 组对比</td></tr><tr><td></td><td>对照组 (266)</td><td>研究组 (312)</td><td>z/x2</td><td>P</td><td>对照组 (308)</td><td>研究组 (315)</td><td>z/x2</td><td></td><td>P</td><td>z/X2</td><td>P</td></tr><tr><td>年龄</td><td>42 (40，44)</td><td>41 (39，</td><td>-0.865</td><td>0.38 7</td><td>34 (31，36)</td><td>33.5 (32，36)</td><td></td><td>1 0.501</td><td>0.616</td><td></td><td></td></tr><tr><td>性别</td><td>168</td><td>43.75) 226</td><td>5.696</td><td>0.01</td><td>194</td><td></td><td>242</td><td>14.19</td><td><0.00</td><td>1.596</td><td>0.207</td></tr><tr><td>（男） 吸烟史</td><td>(63.16)</td><td>(72.44)</td><td></td><td>></td><td></td><td>(63.00)</td><td>(76.83)</td><td>7</td><td>1</td><td></td><td></td></tr><tr><td>A160</td><td>102 (38.35)</td><td>196 (62.82)</td><td>34.43 7</td><td><0.0 01</td><td>(37.66)</td><td>116</td><td>208 (66.03)</td><td>50.21 5</td><td><0.00 1</td><td>0.705</td><td>0.401</td></tr><tr><td>00:80 酗酒史</td><td>(25.05)</td><td>(23.30)</td><td>0.455</td><td>0.5</td><td></td><td>(1583)</td><td>(25.40)</td><td>3.893</td><td>0.048</td><td>0.34</td><td>0.56</td></tr><tr><td>高血压</td><td>111</td><td>152</td><td>2.828</td><td>0.09</td><td></td><td>121</td><td>147</td><td>3.461</td><td>0.063</td><td>0.264</td><td>0.607</td></tr><tr><td>糖尿病</td><td>(41.73)</td><td>(48.72)</td><td></td><td>3</td><td></td><td>(39.29)</td><td>(46.67)</td><td></td><td></td><td></td><td></td></tr><tr><td>AiXeU</td><td>49</td><td>73</td><td>2.135</td><td>0.14</td><td></td><td>59</td><td>65</td><td>0.214</td><td>0.644</td><td>0.697</td><td>0.404</td></tr><tr><td>BMI</td><td>(18.5)</td><td>(23.40)</td><td></td><td>4</td><td></td><td>(19.16)</td><td>(20.63)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>24.75,</td><td>23.34,</td><td>-2.2</td><td>0㎡8</td><td></td><td></td><td></td><td></td><td>0.164</td><td></td><td>0.389</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>24.6</td><td>(246,</td><td>1.391</td><td></td><td>0.861</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>27.74)</td><td>26.58)</td><td></td><td></td><td></td><td>27.93)</td><td>26.71)</td><td></td><td></td><td></td><td></td></tr><tr><td>TG</td><td></td><td></td><td>-8.809</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>（mmol/l</td><td>1.31</td><td>2.1</td><td></td><td><0.0</td><td></td><td>1.23</td><td>1.85</td><td>-</td><td><0.00</td><td>1</td><td>0.001</td></tr><tr><td></td><td></td><td>(1.58,</td><td></td><td>01</td><td></td><td>(1.0,</td><td>(1.335，</td><td>9.596</td><td>1</td><td>3.344</td><td></td></tr><tr><td>）</td><td>(1.05，2)</td><td>3.09)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TC</td><td></td><td></td><td></td><td></td><td></td><td>1.77)</td><td>2.61)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>4.57</td><td></td><td></td><td></td><td>4.04</td><td>4.50</td><td></td><td></td><td></td><td></td></tr><tr><td>( mmol/l</td><td>4.14</td><td>(3.85,</td><td>-4.581</td><td><0.0</td><td></td><td></td><td>(3.74,</td><td></td><td><0.00</td><td></td><td>0.472</td></tr><tr><td>）</td><td>(3.6，4.73)</td><td></td><td></td><td>01</td><td></td><td>(3.53,</td><td></td><td>5.403</td><td>1</td><td>0.719</td><td></td></tr><tr><td></td><td></td><td>5.41)</td><td></td><td></td><td></td><td>4.75)</td><td>5.28)</td><td></td><td></td><td></td><td></td></tr><tr><td>HDL-C</td><td></td><td>0.83</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td><0.0</td><td></td><td>1.2</td><td>0.88</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1.29</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><0.00</td><td></td><td></td></tr><tr><td>（mmol/l</td><td></td><td>(0.72，</td><td>15.66</td><td></td><td></td><td></td><td>(0.75,</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>(1，1.4)</td><td></td><td></td><td></td><td></td><td>(1.03,</td><td></td><td>14.43</td><td></td><td></td><td>0.003</td></tr><tr><td></td><td></td><td></td><td></td><td>01</td><td></td><td></td><td></td><td></td><td>1</td><td>2.965</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></table></body></html>
+
+<html><body><table><tr><td>LDL-C ( mmol/l ）</td><td>2.46 (1.97，2.92)</td><td>2.61 (2.0, 3.24)</td><td>-2.222</td><td>0.02 6</td><td>2.35 (1.93, 3.005)</td><td>2.76 (2.17, 3.42)</td><td>-5.22</td><td><0.00 1</td><td>1.943</td><td>0.052</td></tr><tr><td>RLP-C (mg/dL ）</td><td>0.42 (0.24，0.6)</td><td>0.92 (0.67, 1.37)</td><td>15.49 6</td><td><0.0 01</td><td>0.39 (0.22, 0.57)</td><td>0.78 (0.59, 1.05)</td><td>14.23 2</td><td><0.00 1</td><td>5.078</td><td><0.00 1</td></tr><tr><td>AIP</td><td>0.08 (-0.102, 0.259)</td><td>0.41 (0.25, 0.59）</td><td>12.93 5</td><td><0.0 01</td><td>0.010 (-0.08, 0.163)</td><td>0.33 (0.16, 0.51)</td><td>- 13.57 3</td><td><0.00 1</td><td>-3.96</td><td><0.00 1</td></tr></table></body></html>
+
+2.3.2不同年龄段青年患者罹患急性心肌梗死的多因素回归分析
+
+采用多元Logisitic 回归分析发现，在各年龄段中，RLP-C、AIP均为青年患者罹患急性心肌梗死的独立危险因素，HDL-C为不同年龄段罹患急性心肌梗死的独立保护因素，且RLP-C、AIP在A组中相关性更为密切，见表5。
+
+表5不同年龄段青年罹患急性心肌梗死的多因素Logisitic 回归分析 Table 5 Multivariate Logisitic regression analysis of acute myocardial infarction in young people of different ages
+
+<html><body><table><tr><td>参数</td><td colspan="5">A组</td><td colspan="5">B组</td></tr><tr><td></td><td>β</td><td>SE</td><td>Wald x值</td><td>P</td><td>OR 95%CI</td><td>β</td><td>SE</td><td>Wald x值</td><td>P</td><td>OR 95%CI</td></tr><tr><td>HDL-C</td><td>-3.755</td><td>0.571</td><td>43.213</td><td><0.001</td><td>0.023 (0.008, 0.072)</td><td>-2.524</td><td>0.410</td><td>37.952</td><td><0.001</td><td>0.08 (0.036, 0.179)</td></tr><tr><td>RLP-C</td><td>1.76</td><td>0.286</td><td>37.926</td><td><0.001</td><td>5.813 (3.32， 10.177)</td><td>1.204</td><td>0.254</td><td>22.478</td><td><0.001</td><td>3.333 (2.026, 5.482)</td></tr></table></body></html>
+
+<html><body><table><tr><td>AIP</td><td>2.110</td><td></td><td>0.456|21.379<0.001</td><td></td><td>8.248 (3.372,</td><td>0.708</td><td>0.327</td><td>4.697</td><td>0.03</td><td>2.031</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>20.173)</td><td></td><td></td><td></td><td></td><td>(1.07, 3.854)</td></tr></table></body></html>
+
+# 3.讨论
+
+本研究结果显示，在校准了性别、高血压、吸烟史等危险因素后，RLP-C、AIP 为青年初发AMI的独立危险因素，HDL-C为独立保护因素；进一步区分年龄段后，发现RLP-C、AIP 和37-45 岁患者发生 AMI的相关性高于18-37 岁患者，并且在非心梗组中，37-45 岁年龄段RLP-C水平高于18-37岁。因此可以得出 RLP-C、AIP 相较于传统血脂指标，对青年AMI患者危险性更大，且对于冠脉正常的青年人群也具有一定风险，是预测急性心肌梗死发生的强有力指标。
+
+RLP-C 是富含胆固醇的颗粒，是乳糜微粒（CM）、极低密度脂蛋白（VLDL）被脂蛋白脂肪酶（LPL）水解后，转变为富含甘油三脂、胆固醇、胆固醇酯和载脂蛋白E（apoE)的小颗粒。在实际的临床应用中，由于RLP-C 检测方法不同，顾检测标准难以统一划定，因此没有大规模应用于临床中。而国内现采用较多的为VerboA计算公式，即V（RLP-C） $\mathbf { \Lambda } = \mathbf { V }$ （TC）-V（HDL-C）-V（LDL-C)[7]。相较于LDL-C 的致病能力，RLP-C 也较强，尽管其体积较大，但仍然能通过多种方式穿透冠脉内皮，形成泡沫细胞，并且在此过程中，因其TG含量为LDL的近40倍，能与单核细胞上的糖白聚体广泛识别结合，以至于它能够跳过氧化、乙酰化，更易形成泡沫细胞[8-9]。同时，RLP-C 中的CM残体存在与Ox-LDL 高度同源的溶血磷脂酰胆碱，可以诱导单核细胞趋化蛋白-1表达，调控血管平滑肌细胞早期反应因子-1（Egr-1），从而影响冠脉内皮功能[10]。
+
+血浆致动脉粥样硬化指数（AIP）是Dobiasova提出用来衡量sd-LDL的概念，通过TC 与 HDL-C 比值的对数进行计算，其值与 sd-LDL 的半径大小呈反比，能够快捷有效地反映 sd-LDL[1]。sd-LDL 颗粒被定义为平均直径 $< 2 5 . 5 \mathrm { n m }$ 的LDL，其特殊的理化性质导致其促动脉粥样硬化的能力[12]。例如，其更小的尺寸增加了穿透动脉壁的能力，被LDL 受体识别的能力下降，导致血浆半衰期增加[13]。除此之外，由于 sd-LDL 抗氧化较弱，易发生质变，如氧化、脱硫烯酰化和糖基化[14]，一方面，氧化后的 sd-LDL 增加颗粒对内膜蛋白多糖的亲和力，被巨噬细胞优先摄取，形成泡沫细胞[15-16]。另一方面则可抑制内皮依赖性血管舒张，促进内皮功能舒缩功能障碍，降低对于炎症因子的屏障作用[17]，在最新的研究中，同样证明 AIP 是早发冠心病的独立危险因素，对于青年人群冠脉病变具有一定的预测作用[18]。
+
+HDL-C一直被视为是心血管系统的保护因素，HDL-C每升高 $\mathrm { { 1 m g / m l } }$ ，对应的心血管风险能够降低 $3 \%$ 。其能够通过促进胆固醇转运的逆向化，促进胆固醇的排泄，对于冠状动脉有着抑炎、抗氧化等作用[19-20]。既往的研究发现，一些能够提高HDL含量的药物（如烟酸、胆固醇酯类转移蛋白抑制剂等）均可不同程度降低剩余心血管风险[21]。在本研究中同样得出了HDL-C 为青年初发心肌梗死保护因素的结论。在对照组不同年龄的对比中可以发现，38-45 岁的患者 AIP、RLP-C水平高于18-37岁患者，但增高的幅度不大，其中可能冠脉正常人群中较高水平的HDL-C起到了一定的保护作用，需进一步探索研究。
+
+综上所述，RLP-C、AIP作为青年AMI的独立危险因素，可以作为青年患者AMI发生的预测指标，提示心血管内科医生在关注常规血脂指标的同时，也需注意 RLP-C、AIP 等非常规指标，可能为青年AMI的防治提供新的药物作用靶点。当然，本研究作为回顾性研究，样本量还不够大，且研究过程中存在一定的选择偏倚，需要更大样本的前瞻性研究进一步完善佐证。
+
+# 作者贡献：
+
+邓毅凡进行研究的构思、设计、可行性分析以及文章撰写；朱米雪、刘娟、聂日进行数据的收集、整理与统计学分析；何胜虎、张晶对文章进行修改；张晶负责文章的质量控制及审校，对文章整体负责，监督管理。  
+本文为回顾性研究，无任何利益冲突。
+
+# 参考文献
+
+[1]Gulati R，Behfar A，Narula J，et al. Acute Myocardial Infarction in Young Individuals[J]. Mayo Clin Proc, 2020, 95(1): 136-156. DOI:10.1016/j.may0cp.2019.05.001.   
+[2]Arora S, Stouffer GA, Kucharska-Newton AM, et al. Twenty Year Trends and Sex Differencesin Young Adults Hospitalized With Acute Myocardial Infarction[J]. Circulation, 2019, 139(8): 1047-1056. DOI:10.1161/CIRCULATIONAHA.118.037137. [3]Boudoulas KD，Triposciadis F，Geleris P， et al. Coronary Atherosclerosis: Pathophysiologic Basis for Diagnosis and Management[J].Prog Cardiovasc Di， 2016, 58(6): 676-692. DO1:10.1016/j.pcad.2016.04.003.   
+[4]Cao YX, Zhang HW, Jin JL, et al. Prognostic utility of triglyceride-rich lipoproteinrelated markers in patients with coronary artery disease[J]. J Lipid Res, 2020, 61(9): 1254-1262.DOI:10.1194/jlr.RA120000746.   
+[5]程小兵,罗娟娟,陈燕,等.小而密低密度脂蛋白胆固醇及其与低密度脂蛋白胆固 醇之比、同型半胱氨酸对颈动脉粥样硬化的影响[J]实用医学杂 志,2020,36(19):2684-2689.DO1:10.3969/j.issn.1006-5725.2020.19.015.   
+CHENG XB, LUO JJ, CEHN Y, et al. Association of small dense low -density lipoprotein cholesterols ， sdLDL-C/LDL-C ratio and homocysteine with carotid atherosclerotic plaque[J].The Journal of Practical Medicine,2020, 36(19): 2684-2689. DOI:10.3969/j.issn.1006-5725.2020.19.015.   
+[6]Nakajima K， Tanaka A. Postprandial remnant lipoproteins as targets for the prevention of atherosclerosis[J]. Curr Opin Endocrinol Diabetes Obes,2018, 25(2): 108-117. DOI:10.1097/MED.0000000000000393.   
+[7]Nakajima K, Tanaka A. Atherogenic postprandial remnant lipoproteins; VLDL remnants as a causal factor in atherosclerosis[J]. Clin Chim Acta, 2018, 478: 200-215. DOI:10.1016/j.cca.2017.12.039.   
+[8]NordestgaardBG.Triglyceride-RichLipoproteinsandAtherosclerotic Cardiovascular Disease:New InsightsFrom Epidemiology， Genetics， and Biology[J]. Circ Res, 2016, 118(4): 547-563. DOI:10.1161/CIRCRESAHA.115.306249.   
+[9]Martin SS,Faridi KF, Joshi PH, et al. Remnant Lipoprotein Cholesterol and Mortality AfterAcuteMyocardial Infarction:FurtherEvidencefora Hypercholesterolemia Paradox From the TRIUMPH Registry[J]. Clin Cardiol, 2015, 38(11): 660-667.DOI:10.1002/clc.22470.   
+[10]Chin J,Mori TA,Adams LA，et al. Association between remnant lipoprotein cholesterol levels and non-alcoholic fatty liver disease in adolescents[J]. JHEP Rep, 2020,2(6): 100150. DO1: 10.1016/j.jhepr.2020.100150.   
+[11]Fernandez-Macias JC, Ochoa-Martinez AC, Varela-Silva JA,et al. Atherogenic Index of Plasma: Novel Predictive Biomarker for Cardiovascular Ilnesses[J].Arch Med Res ,2019, 50(5): 285-294. DO1: 10.1016/j.arcmed.2019.08.009   
+[12]Kanonidou C. Small dense low-density lipoprotein: Analytical review[J]. Clin Chim Acta, 2021, 520: 172-178. DOI: 10.1016/j.cca.2021.06.012   
+[13]Kokubo Y, Watanabe M， Higashiyama A， et al. Smal-Dense Low-Density Lipoprotein Cholesterol: A Subclinical Marker for the Primary Prevention of Coronary HeartDisease[J].JAtherosclerThromb，2020，27(7):641-643.DOI: 10.5551/jat.ED134.   
+[14]Santos HO, Earnest CP, Tinsley GM, et al. Small dense low-density lipoproteincholesterol (sdLDL-C): Analysis, effects on cardiovascular endpoints and dietary strategies[J]. Prog Cardiovasc Dis,2020,63(4):503-509.DOI: 10.1016/j.pcad.2020.04.009.   
+[15]Wu J, Shi YH, Niu DM,,et al. Association among retinol-binding protein 4, small dense LDL cholesterol and oxidized LDL levels in dyslipidemia subjects[J]. Clin Biochem.2012,45(9):619-622.DO1: 10.1016/j.clinbiochem.2012.02.022.   
+[16]Krychtiuk KA, Kastl SP, Pfaffenberger S, et al. Association of small dense LDL serum levels and circulating monocyte subsets in stable coronary artery disease[J]. PLoS One,2015,10(4): e0123367. DOI: 10.1371/journal.pone.0123367. [17]Liu F， Wang Z, Cao X, et al. Relationship between small dense low-density lipoprotein cholesterol with carotid plaque in Chinese individuals with abnormal carotid artery intima-media thickness[J]. BMC Cardiovasc Disord. 2021, 21(1): 216. DOI: 10.1186/s12872-021-02023-4.   
+[18]杨晓,谢勇,徐日新,等.血浆致动脉硬化指数对早发冠心病的预测作用[J].临床 心血管病杂志,2020,36(11):1000-1003.DOI:10.13201/j.issn.1001-1439.2020.11.007. YANG X, XIE Y, XU R X, et al. The value of atherogenic index of plasma in predicting premature coronary artery disease[J].Journal of Clinical Cardiology, 2020, 36(11): 1000-1003.DOI:10.13201/j.issn.1001-1439.2020.11.007.   
+[19]Jackson AO， Meng J， Tang H,et al. High-density lipoprotein-mediated cardioprotection in heart failure[J].Heart Fail Rev, 2021， 26(4): 767-780. DOI:10.1007/s10741-020-09916-0.   
+[20]Jia C，Anderson JLC，Gruppen EG，et al. High-Density Lipoprotein AntiInflammatoryCapacityandIncidentCardiovascularEvents[J].Circulation. 2021,143(20):1935-1945.DOI:10.1161/CIRCULATIONAHA.120.050808.   
+[21]孔嵌蚺,覃数,张冬颖.升高高密度脂蛋白胆固醇在心血管剩余风险管理中的研 究进展[J].实用医学杂志， 2013， 29(23):3951-3953.DOI:10.3969/j.issn.1006- 5725.2013.23.062.   
+KONG QR，QIN S， ZHANG DY， Research progress of elevated high density lipoprotein cholesterol in cardiovascular residual risk management[J]. The Journal of Practical Medicine, 2013，29(23):3951-3953.DOI:10.3969/j.issn.1006- 5725.2013.23.062.

@@ -1,0 +1,703 @@
+[
+    {
+        "type": "text",
+        "text": "Particle Shape Effects on Subvisible Particle Sizing Measurements ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RICHARD E.CAVICCH,’ MICHAELJ.CARRIER,1 JOSHUA B.COHEN,‘ SHIR BOGER,'CHRISTOPHER B.MONTGOMERY,' ZHISHANGHU,²DEANC.RIPPLE1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bioprocess Measurements Group,National Institute of Standards and Technology,Gaithersburg, Maryland Center for Computational and Systems Biology,Institute of Biophysics Chinese Academyof Sciences,Beijing, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 12 May 2014; revised 2 October 2014; accepted 21 October 2014 ublishedonline1December 2014in Wiley Online Library (wileyonlinelibrary.com).DOI10.1002Ijps.24263 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: Particle analysis tools for the subvisible $( < 1 0 0 \\mu \\mathrm { m } )$ size range,such aslight obscuration,flow imaging (Fl),and electricalsensing Zone(ESZ)ftprouesultsatotgitaositeigenragreemetenaractergpolte spheresofdiferentsizes.Toincludetheefectofshapeincomparisonstudies,wehaveusedthemethodsofphotolithographytocreate rodsanddisks.Altoughtherodsarehighlymonodisperse,theinstrumentsproducebroadenedpeaksandreportmeansizeparameters thatarediferentfordiferentistruments.WehavefbricatedamicrofluidicdevicethatsiultaneouslyperformsESZandFlmeasremnts oneachparticletoelucidatethecausesofdiscrepanciesandbroadening.AlignmentoftherodswithflowcausesanoversizingbyFl andundersizingbyESZ.Flalsooversizesrodsbecauseofteincorectdgedefinitionthatresultsfromdifractionandimperfectfocus. Wepresentanimprovedcoretionagorithmforthisefectatreducesdiscrepanciesforod-shapedparticles.Tumblingofparticlesis observed inthemicrofluidicESZ/Flandresults inparticleoversizingandbreadthofsizedistributionforthemonodisperserods. $\\circledcirc$ 2014 Wiley Periodicals,Inc.and the American Pharmacists Association JPharm Sci 104:971-987,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keyords:electricalsensingone;flowimaging;imageanalysis;lightobcuration;lightscatering(static);microscopy;particlesing ohysical characterization ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sizing and counting of subvisible particles in therapeutic pro tein formulations is an increasingly important measurement task.The possibility of enhanced immune response ascribed to protein aggregates has been reviewed,1 potentially leading to reduced efficacy or safety risks.A number of techniques for characterizing particle size and quantity are being investigated for this problem,including light obscuration (LO),flow imaging(FI),and electrical sensing zone (ESZ).Frequently these techniques report results that are in disagreement with one another2-4 unless the source of bias is identified and corrected for. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Data from these instruments are commonly presented in the formofhistogramsof numberofparticles versusasize dimension of the particle,typically reported as an equivalent spherical diameter(ESD) or equivalent circular diameter (ECD). The ESD is the diameter of a sphere that would produce a similar signal on the same instrument.An analogous definition applies for the ECD.Demeule et al.² compared the total particle count from an aged humanized $\\mathbf { I g G 1 }$ antibody for particles greater than a given size using LO,FI,and ESZ. They found that when the given size is $1 0 ~ { \\mu \\mathrm { m } }$ ,the techniques gave similar results, whereas when the size is $2 . 7 5 ~ { \\mu \\mathrm { m } }$ ,the three techniques gave counts that varied in the order from least to greatest: $\\mathrm { L O } ~ <$ $\\mathrm { F I } < \\mathrm { E S Z }$ .It was suggested that the low optical contrast of the particles was responsible for the results.This was investigated furtherby Zolls etal.,5who varied the indexof refraction of the solution containing protein particles.It was found that formulations with increased index of refraction led to an underestimation of the particle count when measured using LO or FI.The recommendation was to consider using orthogonal test methods that do not require optical contrast.These effects were confirmed in studies by Werk et al.4 where particles including polystyrene and glass beads as well as a new pseudoproteinparticle standardwereusedinformulations of different color, viscosity, density, and refractive index.Translucent particles produced undersizing and lower counts,especially in LO measurements.For simple geometries,mathematical relations between different diameter definitions has been given by Jennings and Parslow. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The ESZ method,or“Coulter Principle,”is a size measurement technique that records the resistance change whena particle in a conductive liquid transits a small orifice that separates two chambers.For protein analysis,the technique has the advantages of being unaffected by particle transparency, linear over a wide range of concentration,and operative over a wide size range $( 0 . 4 ~ { \\mu \\mathrm { m } }$ to ${ \\bf \\tau } > 1 0 0 ~ \\mu \\bf { m }$ ，although in a given measurement with fixed orifice the range covers a factor of 30). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Aggregated proteins often have an elongated，fibrous shape,7,8 and the response of particle counting and sizing instruments to non-spherical shapes has not been addressed extensively.Lloyd used alarge-scale model of anESZ orifice with particles made of modeling clay to illustrate the effect of shape. He found that for a fixed shape,particles of different sizes produced resistance changes proportional to the volume,but that the proportionality constant was different for different shapes. For cylinders with diameter/length ratios of 1 and 7,the signalsdifferedby a factor of 3.44.Kachello also useda model orifice to compare the effects of the orientation of ellipsoids and discsas theypass through the orifice.He also performed measurements on blood cells ina custom ESZ system.He observed electrical pulse signals with three peaks,which was attributed to a rotation of the cell when passing through the orifice.Ferreira et al.11 compared sieved (for size selection) beads,crushed glass,and mica with ESZ,light scattering,and sedimentation measurements.Although the size distributions for ESZ and sedimentation were similar for the various particle types, the light scattering method reported substantially larger average particle diameter for the crushed glass and mica samples. Shekunov et al.1² characterized particles of silica, zinc oxide, salmeterol xinafoate,and acetaminophen,each with a characteristic shape using time-of flight,light scattering,and ESZ instruments and found significant differences between the techniques for nonspherical shapes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6d34cffe782350b296f02f48714bad6963aeed90290faa42338ac962e0e27e4.jpg",
+        "img_caption": [
+            "Figure1.Schematicrepresentationoffabricationproces.(a)Coat waferwithreleaselayerandSU-8,(b)pre-exposurebakeat $9 5 ^ { \\circ } \\mathrm { C }$ for $2 \\mathrm { m i n }$ (c) expose wafer to UV light through mask to crosslink exposed SU-8,(d) post-exposure bake at $9 5 ^ { \\circ } \\mathrm { C }$ for $2 . 5 \\ \\mathrm { m i n }$ ,(e) dissolve unexposed SU-8, and (f) dissolve release layer which releases particles into solvent. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the interest of resolving differences in size and concentration reported by different orthogonal size characterization methods and also with a motivation to improve measurements where possible,we have investigated the effect of particle shape on the measurements from these instruments.We have microfabricated particles of custom shapes as potential shape reference particles.Rods and disks were fabricated with the goal ofaccentuating the effectsof particle shape,rather than to mimic the distributions present in a given sample of protein aggregates.Using finite element computation software,we have built models oforifices typical of commercial ESZ instruments and particles of defined size and shape.The models produce time-dependent trajectories for the flow and simulate electrical pulse signals that the ESZ instrument would produce.The results from all instruments indicated that particle shape has asignificant influence on the reported size parameter. To investigate the effects in further detail,amicrofluidic device was constructed that allowed for simultaneousmeasurement of the ESZ signal and collection of an associated optical image when the device was mounted in a microscope.Strobe photography was used to observe particle trajectories and their influence on the electrical signal. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENT ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Particles of customized shape and size were fabricated using photolithographyas schematically illustrated in Figure 1.An epoxy-based negative photoresist SU-8(MicroChem Corporation,Newton, MA)13 was deposited by spinning it over a thin release layer onto a silicon wafer. The thickness of the SU-8 depended on both the spin speed and formulation.For example, to produce a $2 . 5 ~ { \\mu \\mathrm { m } }$ thick layer, SU-8 2002 was used at a spin speed of 180O revolutions per minute.The SU-8 was exposed to ultraviolet light through a mask and baked to selectively polymerize the particles.Unexposed SU-8 wasremoved ina solution of developer.Figure 2 shows an optical micrograph of a portionof the waferat this stage.Thewafer was then separated into $1 . 5 \\times 1 . 5 \\mathrm { c m ^ { 2 } }$ die,each containing a group of particles. The die were then placed in conical bottomed vials filled with photoresist remover. The remover dissolved the release layer and the the particles were now suspended in solution.The silicon die was removed and the vial of suspended particles was then placed in a styrofoam container overnight to suppress temperature gradients and resulting convection currents.The released particles settled to the bottom of the cone and formed a pellet. Once settled, the solvent was removed by gently pipetting out nearlyallof the liquid and replacingit withultrapure deionized water. Solvent exchange was performed three times to remove the solvent. If the particles were to be used in an ESZ device, Isoton II electrolyte solution(Beckman Coulter, Inc.,Danvers Massachusetts) was added in the last exchange instead of water. To keep microbes from growing in the vials,sodium azide wasadded at amass fraction of $0 . 0 5 \\%$ .Nominal concentrations were 10o0 particles/mL.SU-8 is hydrophobic with a contact angle of 80.14 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Particles were imaged and sized using a Zeiss NVision 40 field emission scanning electron microscope (SEM) detecting secondary emission electrons.Rod-shaped particles of nearly square cross section (referred to as rods hereafter) were dispersed onto an SEM substrate,as shown in Figure 3 for rods of nominal length $4 0 ~ { \\mu \\mathrm { m } }$ . Images (a) and (b) were imaged at $4 5 ^ { \\circ }$ angle with respect to the substrate.Dispersed rods were either resting parallel to the orientation in which they were fabricated as in Figure 3a or resting ona side,at a right angle to the fabrication orientation as in Figure 3b.Thus,fora given rod it was possible to measure either the thickness or width along with the length.Images were collected from14 particles of each size using a top view as in Figures 3c and 3d. Particle dimensions were averaged and are presented in Table 1. The particle dimensions were used to calculate an ECD.To calculate the expected ECD for FI,it was assumed that the imaged rod would present asarectangle with one dimension as the length of the rod l and the second dimensiona width that would depend on the rotation of the rod about the rod's long axis.This dimension could range from the thickness of the rod to the square root of the sum of the squares of the thickness $t$ and width $w$ of the rod.The average ECD was obtained by integrating over all possible rotations about the rod's long axis.The dimensions in Table 1 for the nominal $3 0 ~ { \\mu \\mathrm { m } }$ rods account for the significant rounding of the ends of the rod.In addition to the rods,a set of disks was made with $4 9 . 6 ~ { \\mu \\mathrm { m } }$ diameter, and $3 . 6 ~ \\mu \\mathrm { m }$ thickness. The disks were used for measurements in the microfluidic ESZ device. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b58bb07e04f5a44839bf5204e8a2d1c35c1b7207e3716451a94de7fadb7090a.jpg",
+        "img_caption": [
+            "Figure 2. Optical image of a portion of a wafer with SU-8 rods. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To compare the instrument performance on spherical particles,a set of samples were made using Aperture Instrument CC Calibrator beads added to Isoton II electrolyte so lution.These samples have diameters traceable to NIST SRM 1960.Polystyrene beads of nominal diameter (and concentration)of $5 ~ { \\mu \\mathrm { m } }$ (20,000 per mL), $1 0 ~ { \\mu \\mathrm { m } }$ (10,000 per mL), $2 0 ~ { \\mu \\mathrm { m } }$ (10,000 per mL),and $4 0 \\mu \\mathrm { m }$ (7000 per mL) were used. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Electrical sensing zone measurements were performed usingboth our microfluidic device and a commercial ESZ instrument.The commercial instrument was a Beckmann-Coulter multisizer 4 using a $7 0 ~ { \\mu \\mathrm { m } }$ diameter orifice.The instrument analyzed a volume of $1 ~ \\mathrm { m L }$ for each run at a flow rate of $2 1 \\mu \\mathrm { L } / \\mathrm { s }$ .Three measurements were made for each condition. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The microfluidic ESZ chip consisted of a microchannel with four Au electrodes.The electrodes were deposited on a glass slide and consisted of a ${ 1 0 0 } \\mathrm { n m }$ indium tin oxide adhesion layer and $2 0 0 ~ \\mathrm { n m }$ thick Au patterned by photolithography.The microchannel was formed in polydimethylsiloxane(PDMS) (Sylgard 184;Dow Corning) by a process illustrated in Figure 4. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SU-8 2050 (MicroChem Corporation） was spun to a thickness of $6 0 ~  { \\mu \\mathrm { m } }$ and patterned into the reverse of the microchannels and access ports.This produced a reusable master mold which can be used to create many PDMS devices.Figure 4a shows a section of the SU-8 structure over which PDMS was poured to create the microchannel.Figure 4b shows an optical image of the microchannel master. The PDMS base and curing agent mixture (ratio 1O:1by weight) was poured over the mastertoathickness of $3 \\mathrm { m m }$ and cured at $8 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { h } }$ as shown in Figure 4c.The cured PDMS was peeled from the master (Fig.4d),and cut into individual devices (Fig. 4e). The PDMS was then treated with an oxygen plasma to chemically activate the surface prior to bonding.The activated PDMS was aligned with electrodes (Fig.4f) on the glass slide and pressed to bond to the glass slide $( \\mathrm { F i g . 4 g } )$ .The final step was an overnight bake at $8 0 ^ { \\circ } \\mathrm { C }$ .Figure 5 shows three images of the completed device at different magnifications. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The fabricated ESZ chip was mounted in a fluorescence/optical microscope (Fig.6a).The microscope was outfitted with a Basler scA1390-17fm CCD camera and with a $4 7 0 \\ \\mathrm { n m }$ light emitting diode(LED)(Luxeon-Star LXML-PB01-O030) as alight source.Avoltage (typically 8-16 V) was applied between the outer electrodes (shown in Fig.5b).The voltage between the innerelectrodeswasmeasured withanIthaco12O1differential pre-amplifer. The output signal was further amplified with an operational amplifier in a custom electronic circuit.This signal was measured using a National Instruments PCIe-6361 card.Image acquisition,data acquisition,and data analysis were under computer control using LabVIEW together with the LabVIEW Vision Development Module.Flow was established using a syringe pump,which was operated at $4 0 ~ \\mu \\mathrm { L / s }$ in the measurements reported in this paper.The microchannel featuredanESZbetween the two inner electrodes,where the channel width was reduced.When a particle entered this zone, the electrical signal triggered the exposure of the cameras.The timing sequence is indicatedin Figure 6b.A controlled delay with microsecond resolution was used to trigger the flash of the LED which lasts typically $5 \\mu \\mathrm { s } .$ .The camera produced an image which was correlated with the electrical signal.Both camera images and electrical signals were stored for each particle an alyzed.By use of multiple flashes during a single exposure, a strobe-like image was obtained of the particle's trajectory through the microchannel. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7457d29b29ccd30f2d5279dcd2d9db2ad7645d4fa73903e7699ec7da3eef0897.jpg",
+        "img_caption": [
+            "Figure 3.Measurement ofrod dimensions.Rods were dispersedontoa SEM substrate;shown here arerods ofnominallength $4 0 ~ { \\mu \\mathrm { m } }$ . Images (a)and (b) are imaged at $4 5 ^ { \\circ }$ angle with respect to the substrate.Dispersed rods were either resting parallel to the orientation in which they werefabricatedasin(a)restingoside,atightagletoteabcationorentatio).(candd)aretopieiagsfeodin(a) with dimensions indicated. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6de87797fdc407309015cb78345cddb0dd8f9e10faa5ca5282618c8cabe68e6e.jpg",
+        "table_caption": [
+            "Table 1. Dimensions of Microfabricated Rods Measured using Scanning Electron Microscopy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>NominalLength (μm)</td><td>Length (μm)</td><td>Width (μm)</td><td>Thickness (μm)</td></tr><tr><td>30</td><td>31.6 ± 0.3</td><td>6.6 ± 0.2</td><td>4.5 ± 0.2</td></tr><tr><td>40</td><td>41.4 ± 0.2</td><td>2.80 ± 0.07</td><td>2.57 ± 0.02</td></tr><tr><td>50</td><td>51.14 ± 0.2</td><td>3.43±0.04</td><td>2.57 ±0.02</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Light obscuration measurements were made with a PAMAS SVSS-C (Partikelmess- und Analysesysteme GmbH, Rutesheim,Germany） equipped with an HCB-LD-25/25 sensor. Three measurements of a volume of $0 . 3 \\mathrm { m L }$ of each sample were performed with a pre-run volume of $0 . 5 \\mathrm { m L }$ at a fixed fill rate,emptying rate,and rinse rate of $1 0 \\ \\mathrm { m L / m i n }$ .A test was made with $5 0 \\mu \\mathrm { m }$ rods at a flow rate of $2 5 \\mathrm { m L / m i n }$ to test for any affect offlowrate on the size distribution,but the distributions were similar. The mean particle concentration per milliliter was reportedby the system.Sampleswere measured in triplicates andmeanandstandarddeviationwerecalculated. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Flow imaging measurements were made using two instruments.Instrument A was a DPA-4200 (ProteinSimple, Santa Clara,California) with an SP3 setup.Samples were analyzed withasamplevolume of $0 . 5 ~ \\mathrm { m L }$ (analyzed volume $0 . 4 4 ~ \\mathrm { m L }$ or $84 \\%$ sampling efficiency)and a pre-run volume of $0 . 2 ~ \\mathrm { m L }$ ata flow rate of $0 . 1 ~ \\mathrm { m L / m i n }$ .Particle parameters were calculated using the MFI view application software version 1.3.Image data files were stored as PNG files.Instrument B was a FlowCAM(Fluid Imaging Technologies Inc.,Yarmouth,Maine) with a $1 0 0 \\mu \\mathrm { m }$ flow cell and a $1 0 \\times$ microscope objective.The camera operated in auto image mode at15 frames per second,with an efficiency of $1 0 . 8 \\%$ .Image data files were stored as TIF files. Three samples were measured for each particle type. Comparison of the use of these two instruments has been discussed by Wilson and Manning.15 Upon completion of a run,images of particles that were rods were selected using the software filter tools or manual selection for further analysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b62a563db69ffa942e4f545ddef05de7f55bb1ec8aa42382425525d722668fc.jpg",
+        "img_caption": [
+            "Figure4.MicrofuidicESZchifbricationsteps:(a)CreatemasterfroSU-8onasiliconwafer(b)microscoeimageofSU-8mastershowing restrctiontecenterftehael,(c)oerwaferwit,(dremoeDlaye,()cutoutidividalPDSmicrofdicaels (f) fabricate gold electrodes on a glass slide,and $( \\mathbf { g } )$ attach PDMS microfluidic channels to electrode slide and the device is completed. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0edf361bcf7fb3b33aaf0d113e702f6258c687a0c3042f951ef66a07159d11d6.jpg",
+        "img_caption": [
+            "Figure5.MicrofudicESZchip.(a)Viewofchiithwiresoctingelectrodes.(b)Zoomedimage（madefromstitchngtogetertrepotos takennotiacrosesoirtsfdttoftt),toectresfalgoatte circles)adthairfltrodsforeasugtdereialagacstostrictiintmicroael.curtrodtical micrograph showing the constriction and electrodes on either side. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/16dd633f9855cf0b4033a77faf7a48439316a1afe70fcc7028f60ed1d7ef0217.jpg",
+        "img_caption": [
+            "igure6.(a)ShematicrepresentationofmicrofuidicESZmeasurement.(b)SequencefroperationoftheESZchiptoacquirepulssina ind images of a particle in the sensing zone. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Instrument A sets a threshold for determining which pixels are part of a particle.It then sums the number of pixels and converts to an area.An equivalent diameter that is equal to the diameter of a circle with the same areais calculated.To account for the finite optical resolution of the instrument,which isa consequence of optical diffraction,a constant value is subtracted to produce the reported ECD.Instrument B allows the user to set a threshold for how different a pixel brightness is from a calibration image collected at the beginning of a run. The threshold difference can be either positive (light),negative (dark),ora combinationof thresholds forlight and dark. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Finite element calculations modeling ESZ were performed using COMSOL Multiphysics with the AC/DC Module.Figure 7 shows an example of an orifice separating two chambers of much larger volume with the inclusion of a rod-shaped particle in the orifice.The conductivity of the particle was set equal to zero,while the conductivity of the environment was set to the value of Isoton II,the saline solution used in our ESZ instrument.The orifice had dimensions of $7 0 ~ { \\mu \\mathrm { m } }$ diameter, $7 7 ~ { \\mu \\mathrm { m } }$ length.The orifice was modeled as opening into a cylinder on eitherside of diameter $2 5 0 ~ { \\mu \\mathrm { m } }$ and length $5 0 0 ~ { \\mu \\mathrm { m } }$ .The resistance between opposite faces was calculated with the particle located at different positions along the axis running through the center of the orifice.Modelswere obtained for rods of the same dimensions as used in experiments and for spheres of equal volume.Calculations were made forrod orientation with respect to the flow axis at $0 ^ { \\circ }$ ， $4 5 ^ { \\circ }$ ,and $9 0 ^ { \\circ }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NOMENCLATURE ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Particle measurement instruments infer particle diameter from measured particle properties. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Electrical sensing zone measurements nominally measure the volume of liquid displaced by a particle and report the diameter as the ESD ofa sphere of the same volume.LO measures the amount of light scattered from a particle and reports the particle diameteras the particle of a polystyrene latex sphere with the same scattering strength.For irregular particles such as protein aggregates,neither the ESZ nor the LO diameter definitions are directly related to the dimensions of the periphery of the particle.The volume of the rods measured in this work can also be inferred from SEM measurements of length, width,and thickness,and weuseESD to denote thediameter ofasphere of the same volume as the volume inferred from the SEM measurements. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Flow imaging infers particle diameter from the projected area of particles as captured by electronic optical images.InstrumentAreportsanECD equal to thediameterofacircle that has the same area as the projected area of the particle,after filling any holes in the particle.Instrument B reports diameter asAreaBasedDiameter(ABD,eitherwithorwithout flling of holes),or as average of the feret diameter over 36 angles.Instrument B refers to the feret-based diameteras an ESD,but to avoid confusion with the use of ESD to describe the volumebased diameters,we use the termaverage feret diameter(AFD) in this paper. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Summaryof ResultsforParticle Sizeand Count ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 2 shows a comparison of results from polystyrene calibrator beads prepared in IsotonII electrolyte.The diameter reported for the FI methods isan ECD,whereas the diameter reported for ESZ is an ESD. There is agreement within ten percent on the number and size of the beads between the different methods,except for the $5 ~ { \\mu \\mathrm { m } }$ beadwhere Instrument B reports alarger ECD than the othermethods.In the measurementsin Table2,flow instrumentBwas set witha threshold for dark pixels only (instrument parameter 15).The results for the microfabricated rods of nominal length 30,40, $5 0 ~ { \\mu \\mathrm { m } }$ are summarized in Table 3.This table also includes the length (reported by Instrument A) and maximum feret diameter and AFD (reported by Instrument B).For each set of collected datausing Instrument B, the images were processed using a threshold based on dark pixels only(instrument parameter 12), and light and dark pixels (instrument parameters 8and12,respectively).Calculated values of these parameters based on the SEM measurements are also included.These calculations assume the axis of the rodis in the plane of the flow cellbut with a rotational average of the width and thickness dimensions.The calculated AFD begins with a rectangle of dimensions equal to the length and rotational average of the width and thickness. From this,the feret dimension is calculated for 36 uniformly spacedangles (separated by $5 ^ { \\circ }$ )andanaverageistakenof the results. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d565cb16bba9efe19415d7d54ff4290033627202f6e8ab06cc0a2291f9f04922.jpg",
+        "img_caption": [
+            "Figure 7.COMSOL model of orifce with rod aligned with flow direction. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c3609853836b8fb1b8b1e8c7f334e62a0db39c8994ece877e9dcbe6b5b14afc1.jpg",
+        "table_caption": [
+            "Table 2.Measured Particle Parameters for Different Instruments for Polystyrene Beads "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Nominal Dimension</td><td colspan=\"2\">ESZ (Multisizer)</td><td colspan=\"2\">FI Instrument A</td><td colspan=\"2\">FIInstrument B</td><td colspan=\"2\">LO</td></tr><tr><td>d (μm)</td><td>d (μm)</td><td>N(mL-1)</td><td>d (μm)</td><td>N (mL-1)</td><td>d (μm)</td><td>N(mL-1)</td><td>d (μm)</td><td>N (mL-1)</td></tr><tr><td>5</td><td>5.27</td><td>18,672</td><td>5.20</td><td>20,893</td><td>6.45</td><td>20,039</td><td>5.50</td><td>19,345</td></tr><tr><td>10</td><td>10.6</td><td>9468</td><td>10.0</td><td>10,337</td><td>10.9</td><td>9433</td><td>10.0</td><td>10,514</td></tr><tr><td>20</td><td>20.2</td><td>10,320</td><td>18.9</td><td>10,063</td><td>21.0</td><td>9930</td><td>19.0</td><td>10,282</td></tr><tr><td>40</td><td>40.1</td><td>6288</td><td>38.1</td><td>7358</td><td>40.4</td><td>7343</td><td>37.5</td><td>6809</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/80d528b0b58119a088b196d81eff2f7ef92f530764c95dddcb8bd4c66346afd1.jpg",
+        "table_caption": [
+            "Table 3.Measured Particle Parameters for Different Instruments for 30,40,and $5 0 \\mu \\mathrm { m }$ Rods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Method</td><td>Length (μm)</td><td>Maximum Feret Diameter (μm)</td><td>ECD (or ABD) (μm²)</td><td>Mean Feret Diameter (μm)</td><td>ESD (μm)</td><td>Volume (μm³)</td><td>Aspect Ratio</td></tr><tr><td>SEM</td><td>31.6</td><td>32.4</td><td>16.2</td><td>15.0</td><td>11.9</td><td>896</td><td>0.22</td></tr><tr><td>LO</td><td></td><td></td><td>9.9</td><td></td><td></td><td></td><td></td></tr><tr><td>FIInstrument A FI Instrument B</td><td>27.7</td><td>34.9</td><td>17.3 22.5</td><td>26.3</td><td></td><td></td><td>0.4 0.4</td></tr><tr><td>FI Instrument B,</td><td></td><td>33.6</td><td>16.7</td><td>22.8</td><td></td><td></td><td>0.26</td></tr><tr><td>(dark threshold only)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ESZ (Multizsizer)</td><td></td><td></td><td></td><td></td><td>11.7</td><td>838</td><td></td></tr><tr><td>SEM</td><td>41.4</td><td>41.6</td><td>13.4</td><td>10.28</td><td>8.3</td><td>298</td><td>0.082</td></tr><tr><td>LO</td><td></td><td></td><td>6.45 17.9</td><td></td><td></td><td></td><td></td></tr><tr><td>FI Instrument A FI Instrument B</td><td>37.7</td><td></td><td>21.34</td><td></td><td></td><td></td><td>0.22</td></tr><tr><td>FI Instrument B,</td><td></td><td>43.85 41.40</td><td>15.24</td><td>31.17 27.82</td><td></td><td></td><td>0.24 0.14</td></tr><tr><td>(dark threshold</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>only) ESZ (multisizer)</td><td></td><td></td><td></td><td></td><td>7.65</td><td>234</td><td></td></tr><tr><td>SEM</td><td>51.1</td><td>51.2</td><td>15.93</td><td>11.75</td><td>9.6</td><td>459</td><td>0.073</td></tr><tr><td>LO</td><td></td><td></td><td>7.4</td><td></td><td></td><td></td><td></td></tr><tr><td>FI Instrument A</td><td>47.7</td><td></td><td>20.1</td><td></td><td></td><td></td><td>0.19</td></tr><tr><td>FI Instrument B</td><td></td><td>53.7</td><td>25.3</td><td>37.8</td><td></td><td></td><td>0.22</td></tr><tr><td>FI Instrument B,</td><td></td><td>41.40</td><td>15.24</td><td>27.82</td><td></td><td></td><td>0.14</td></tr><tr><td>(dark threshold</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>only) ESZ (multisizer)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>8.68</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Electrical Sensing Zone ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 8 shows histograms from ESZ measurements on microfabricated rods.The red arrow in the figure corresponds to the ESD that would be calculated from the SEM-measured dimensions of the rods.Compared with the more elongated 40 and $5 0 ~ { \\mu \\mathrm { m } }$ rods,the wider $3 0 ~ { \\mu \\mathrm { m } }$ rods resulted in a broader distribution of size,with amean size that exceeded the actual ESD.By contrast the 40 and $5 0 ~ { \\mu \\mathrm { m } }$ rodsproduced anarrower size distribution whose mean size was below the actual ESD. The histograms consistently showed two peaks which may result from different preferred orientations of the rods passing through the orifice.Figure 9a shows a COMSOL calculation of the resistance change obtained for a $7 0 ~ { \\mu \\mathrm { m } }$ orifice when a rod of the same dimensions as the $4 0 ~ { \\mu \\mathrm { m } }$ rod used in the experiments passes through three different orientations,and also an equivalent volume sphere of diameter $8 . 3 0 ~ \\mu \\mathrm { m }$ .When the rod passes through with its long axis parallel to the direction of flow, the electrical signal's amplitude is reduced by $30 \\%$ compared with the signal produced by an equivalent volume sphere.A reduction in signal by this amount would convert to an instrument reporteddiameterof $7 . 3 5 \\mu \\mathrm { m }$ .Thus,ifallof the rodspass through with theiraxis aligned,with the flow direction,the instrument would report an ESD that is $1 \\mu \\mathrm { m }$ less than the actual ESD of the particle.A particle traveling at $4 5 ^ { \\circ }$ with respect to the flow contributes a signal that would yield an ESD equal to the particle's actual ESDFigure 9b shows the effect of size for afixed rod shape.For the calculation in this figure,all dimensions of the $4 0 ~ { \\mu \\mathrm { m } }$ rod were scaledby the same scaling factor $\\alpha$ ，with $\\alpha = 1$ representing the case of the $4 0 ~ { \\mu \\mathrm { m } }$ rod.Results are shown for $0 ^ { \\circ }$ ， $4 5 ^ { \\circ }$ ,and $9 0 ^ { \\circ }$ . It is evident from the log-log plot that differences in signal amplitude for the three orientations scalebyfactors that are independent oftherod size.Mapsof the current densityforarod at $0 ^ { \\circ }$ and $9 0 ^ { \\circ }$ are shown in Figure 10 for the three orthogonal planes that intersect the center of the orifice.For the $4 0 ~ { \\mu \\mathrm { m } }$ rods,the measured median value of $7 . 6 5 ~ { \\mu \\mathrm { m } }$ (Table 3) is generally consistent with most particles aligning with the flow direction.Figure 10 shows COMSOL calculations of the current density map for $0 ^ { \\circ }$ (aligned with flow) (Fig.10a) and $9 0 ^ { \\circ }$ (perpendicular to the flow)(Fig.10b).This illustrates the effectsofreduced pathways forelectricalcurrent when the rod is perpendicular to the flow direction giving rise to ahigher electrical resistance. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa84ebcf77b5c84d8870d9048d6403bdc800ba24140da36c73a291b803cdabd9.jpg",
+        "img_caption": [
+            "Figure 8.Electrical sensing zone data from rods of dimensions (a) $3 1 . 6 \\times 6 . 6 \\times 4 . 5 ~ { \\mu \\mathrm { m } } ^ { 3 }$ (b) $4 1 \\times 2 . 8 \\times 2 . 6 ~ { \\mu \\mathrm { m } } ^ { 3 }$ ,and (c) $5 1 \\times 3 . 4 \\times 2 . 6 ~ \\mu \\mathrm { m } ^ { 3 }$ Red arrow indicates equivalent spherical diameter based on dimensions of the rods measured in an SEM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The microfluidic ESZ chip was used to perform simultaneous measurements ofFI andESZ and furtherelucidate the effects observed in the commercial instrument.For the results presented here, the system was run in strobe mode,with multiple flashes of the LED equally spaced in time for each exposure of a particle.An example is shown in Figure 11 where the spacing between flashes was $3 0 0 \\mu \\mathbf { s }$ In Figure 1la,a $2 0 \\mu \\mathrm { m }$ polystyrene bead travels down the center of the microchannel,whereas in Figure 11b,a $2 0 ~ { \\mu \\mathrm { m } }$ bead travels along the edge of the microchannel. The corresponding signals are shown below each micrograph.The particle takes longer to travel along the edge through the active zone due to the parabolic velocity profile of flow in a channel.This is apparent in the optical images,where the there is a closer spacing of the appearances of the particle in the edge trajectory image(Fig.11b) compared with the center trajectory image (Fig.1la).Correlated with this imaging observation,the electrical pulse signal is also wider for the edge trajectory particle.In addition,the particle flowing along the edge has a distinctive pulse shape,with maxima occurring as the particle enters and exits the sensing zone.This pulse shape was typical of all particles traveling close to the edge.The microfluidic ESZ device was modeled in COMSOL with the results shown in Figure 12.The peak shapes for center and edge trajectories are similar to those observed experimentally. These results are consistent with and elucidate the work of Berge et al.16 who assumed parabolic flow velocity,used the pulsewidth to compute a radial position for particles in a $5 7 0 ~  { \\mu \\mathrm { m } }$ long pore,and then associated an increase in pulse amplitude with radial offset. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f0e619380cc0972913b547935f2b2a88873854ff4ddc60eb5c9b11508c62470.jpg",
+        "img_caption": [
+            "Figure 9. (a) Model of resistance change versus position for sphere diameter $8 . 3 ~ { \\mu \\mathrm { m } }$ (dashed red line); rod with dimensions $4 1 \\times 2 . 8 \\times$ $2 . 6 ~ { \\mu \\mathrm { m } } ^ { 3 }$ aligned with orifice axis (solid black line);and a rod of the same dimensions at an angle of $4 5 ^ { \\circ }$ with respect to the orifice axis (dotted blue line),and an identical rod at an angle of $9 0 ^ { \\circ }$ with respect to the orifice axis (dashed green line).The sphere of diameter $8 . 3 ~ \\mu \\mathrm { m }$ has the same volume as the rod.For all cases, the particle is flowing through the center of the orifice.The total resistance of the modeled structure in absence of a particle was $2 2 . 4 6 { \\mathrm { ~ k } } \\Omega$ .(b)Effect of particle size for fixed shape scaled by a parameter $\\alpha$ in all three dimensions. $\\alpha = 1$ corresponds to a $4 1 \\times 2 . 8 \\times 2 . 6 ~ \\mu \\mathrm { m } ^ { 3 }$ rod.Model of resistance change versus $\\alpha$ is plotted for three different orientations of the rod withrespect to the orifice axis. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Example images from the $3 0 \\mu \\mathrm { m }$ rod and $5 0 \\mu \\mathrm { m }$ disc flowing through the ESZ are shown in Figures 13 and14.In Figure 13a, the rod appears to pass with its long axis aligned with the flow,whereas in Figure 13b,the particle changes orientation or“tumbles”through the ESZ.Tumbling of rods occurs when the rod is located in a region of fluid shear,and has been previously observed for small rods flowing in a $2 . 5 \\mathrm { m m }$ channel at speeds 10oo times slower than in the present experiments.17 The timing of the maximum signal in Figure 13b corresponds to the fourth image of the particle in Figure 13b where the particle is observed to have the greatest rotation from on-axis flow of the five images superimposed by the strobe photograph. Comparing the signals in Figures 13a and 13b,it is clear that the on-axis flow results in a smaller signal,about 1/2 the signal from the signal at the moment of perpendicular orientation in Figure 13b.This is very similar to the COMSOL calculation in Figure 9a for parallel and perpendicular orientations. The correlation of the moment of maximum tumbling and maximum electrical signal is even more dramatic for the case of the disk in Figure 14.The superposition of a narrower peak over a broader peak was typical of the vast majority of tumbling events observed and indeed serves as clear evidence of tumbling. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The likelihood of tumbling depended on the aspect ratio of the particle.Figure 15 shows a comparison of histograms from $3 0 \\mu \\mathrm { m }$ (Fig. 15a) and $4 0 \\mu \\mathrm { m }$ rods (Fig.15b).Resistance change was strongly correlated with whether or not the rods tumbled as shownby the fraction of rods tumbling in each size bin indicatedby the solid red circles.The $4 0 ~ { \\mu \\mathrm { m } }$ rods because of their longer shape (Table 1) had a stronger tendency to align with the flow than the $3 0 ~ { \\mu \\mathrm { m } }$ rods.This resulted in a narrower distribution of measured resistance changes compared to the $3 0 \\mu \\mathrm { m }$ rods which have a larger width to length ratio.The arrows in the figure represent the resistance change that would be measured by a sphere of an equivalent volume to the rod.Note that the tumblingflowof the shorterandwider $3 0 \\mu \\mathrm { m }$ rodsproduced resistance changes that are larger than the equivalent sphere. These results are in agreement with the results observed with the commercial instrument(Fig.8) and indicate that particle shape influences tumbling probability and this in turn influences the signal amplitude and size reported by ESZ.It was found that the flowrate in the microchannelwhen varied from 30 to $8 0 ~ \\mu \\mathrm { L / s }$ had little effect on the histograms or fraction of particles observedto tumble. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d702853dec47b1f02950a69ff3c787debbb843231264faf251fa283bb85218c.jpg",
+        "img_caption": [
+            "Figure10.COMOLmapofcuentamplitudeforarodpassingtroughtecenteroftheorifceforwithterodis()paralltteaisof theorificeand()perpediculartoteaxisofteorifce.Threorthogoalplnespassngtroughtecenteroftheorfearesownforach orientation of the rod. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c2b202b19f20fc42738f74b3965c9c73d62f22b4bf6e165599dee01a335bac0.jpg",
+        "img_caption": [
+            "Figure 11. Images and signal from $2 0 ~ { \\mu \\mathrm { m } }$ diameter bead traveling down (a) the center of the sensing zone of the microfluidic ESZ chip, and (b)alongtheloweredgeoftesensingzoe.Flowisfrolefttoightinteimage.Redtrianglesingraphindcatethetimesoftedioefash with an interval of $3 1 0 ~ \\mu \\mathrm { s }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Light Obscuration ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Light obscuration results are shown in Figure 14 for the $4 0 \\mu \\mathrm { m }$ rods.The histogram also showed two peaks. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Providedthat the refractive indexof aparticle exceeds that ofthematrixliquidbyat least $\\approx 0 . 2$ and the smallest dimension of aparticle is muchlarger than the wavelength of light, the amount of scattered light depends only on the projected area of the particle.18 The rods studied here meet these criteria: the refractive index of SU-8 $_ { ( \\approx 1 . 6 ) }$ is O.27 higher than water, and the rod width of $2 . 7 ~ \\mu \\mathrm { m }$ substantially exceeds the wavelength of light in the watermedium $( 0 . 5 0 \\mu \\mathrm { m } )$ .An exact calculation of scattering from a tumbling square rod with dimensions much greater than the wavelength of light is very difficult.However, calculations of the light scattering of spheres,19 randomly oriented spheroids,20 and of finite-length cylinders oriented perpendicular to the incident $\\mathrm { { l i g h t ^ { 2 1 } } }$ confirmed that deviations of true scattering cross sections from the asymptotic limit produce shifts in reported diameter of $\\approx - 1 0 \\%$ .In the limit of large particles with high refractive index,LO is a measure of the projected area of the particle,and not the particle volume, and the LO results can be interpreted by simply considering the variation in projected area of the rods as a function of the orientation of the rods with respect to the incident light beam. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3d238e3b04e133e515c3b034492b9397ccd67f5a4bf0e46c142899429498d2b.jpg",
+        "img_caption": [
+            "Figure 12. (a) COMSOL model of microchannel with $2 0 \\mu \\mathrm { m }$ diameter bead in center of the sensing zone.(b)Model ofresistance change versus position for sphere diameter $2 0 ~ { \\mu \\mathrm { m } }$ flowing down the center of the microchannel (solid black line) and flowing down the right side of the microchannel,offset by $3 7 ~ { \\mu \\mathrm { m } }$ from the center (dotted red line).The total resistance of the modeled structure in absence of a particle was $4 6 . 0 5 \\mathrm { k } \\Omega$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The maximum projected area corresponds to a rod that is aligned with the flow and with the axial rotation of the rod chosen to maximize the apparent width ofthe rod.The projected area is then $\\left( t ^ { 2 } + w ^ { 2 } \\right) ^ { 1 / 2 }$ and the ECD for the $4 0 \\mu \\mathrm { m }$ rods is 14.2 $\\mu \\mathrm { m }$ . For rods that are tumbling, the average projected area canbe obtained simply from a theorem that states that the projected area ofarandomly oriented,convexparticle is $1 / 4$ of the surface area of the particle.For $l \\gg w$ ， $l \\gg t$ the surface area of the rods is approximately $2 ( w + t ) l$ . Thus,the average projectedareais $( w + t ) l / 2$ , giving an ECD of $1 1 . 9 \\mu \\mathrm { m }$ .Applying theapproximate $- 1 0 \\%$ correction,we obtain $1 2 . 8 ~ { \\mu \\mathrm { m } }$ as the calculated maximum ECD and ${ \\approx } 1 1 \\ \\mu \\mathrm { m }$ as the calculated ECD for tumbling rods.The latter is indicated by a red arrow in Figure 16. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The minimum projected area corresponds to a rod that is aligned in the same direction as the laserbeam,withanarea of $w ^ { 2 }$ and an ECD for the $4 0 \\mu \\mathrm { m }$ rods of only $3 . 0 \\mu \\mathrm { m }$ . Only a small fraction of possible orientations can produce projected areas this small.Based on this observation and the observation that the average ECD for tumbling particles is only slightly smaller than the maximum ECD,we would expect the particle size distribution to be strongly asymmetric with a peak much closer to the maximum observed diameter than near the minimum diameter. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The observed particle size distribution，as shown in Figure 16,only partially conforms to these expectations. The measured distribution ranges from 2 to $1 0 \\mu \\mathrm { m }$ ,inapproximate agreement to the expected range from 3 to $1 2 . 8 ~ { \\mu \\mathrm { m } }$ ,but the measured distribution has two pronounced peaks near 5 and $8 . 5 ~ { \\mu \\mathrm { m } }$ instead of the expected single peak near $1 1 ~ { \\mu \\mathrm { m } }$ . The measured average ECD of $6 . 4 ~ { \\mu \\mathrm { m } }$ differs significantly from the expected average of $1 1 \\ \\mu \\mathrm { m }$ for randomly oriented rods or $1 2 . 8 ~ { \\mu \\mathrm { m } }$ for flow-aligned rods. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The significant undersizing implies that the rods are not scatteringasmuchlight away from thedetectorasaPSLbead of the same ECD.We have identified two possible causes of reduced light scattering. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "First,if the rods are aligned in the flow field and the rod length exceeds the thickness of the illuminated volume in the flow cell,only part of the rod length will be illuminated at any point in time.As a result, the total scattering will be approximately proportional to the fraction of the rod that is illuminated.The PAMASLO counter that wasused has a verylow coincidence error (the error in count caused by two particles simultaneously residing in the illuminated zone). The manufacturer states that the instrument has a $7 . 8 \\%$ coincidence error at a particle concentration of $1 2 0 , 0 0 0 ~ \\mathrm { m L ^ { - 1 } }$ . If one particle is detected in the illuminated zone, the probability of a second particle being detected maybe obtained from the Poisson distribution.By adjusting the volume of the illuminated zone to give a $7 . 8 \\%$ coincidence error, the estimated volume is $6 9 0 , 0 0 0 ~ \\mu \\mathrm { m } ^ { 3 }$ .Assuming that the flow cell has a cross section of $2 5 0 \\times 2 5 0 ~ \\mu \\mathrm { m } ^ { 2 }$ ,slightly larger than the $2 0 0 ~ { \\mu \\mathrm { m } }$ maximum detectable particle diameter, the thickness of the illuminated volume would be ${ \\approx } 1 1 ~ \\mu \\mathrm { m }$ . An aligned rod would then scattera fraction $( 1 1 ~ \\mu \\mathrm { m } ) / ( 4 1 . 4 ~ \\mu \\mathrm { m } ) = 0 . 2 7$ of the light that a bead of the same ESD scatters.(This scaling assumes that the bead diameter does not exceed the thickness of the illuminated zone,which is valid in the present case).In a size region where the extinction efficiency factor doesnot varyrapidly with diameter,indicated diameter scales as the square root of the total scatteredlight.The expectedECD forapartiallyilluminated,aligned rod is thus $\\approx ( 0 . 2 7 ) ^ { 1 / 2 } ( 1 2 . 8 ~ \\mu \\mathrm { m } ) = 6 . 6 ~ \\mu \\mathrm { m }$ ,which isclose to the observed average ECD.It is plausible that the measured peaknear $5 \\mu \\mathrm { m }$ corresponds to partiallyilluminated, aligned rods,and the peak near $8 . 5 \\mu \\mathrm { m }$ corresponds to tumbling rods that are more fully illuminated. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A second possible explanation for the data is that the diffraction of light from a thin rod aligned with the flow field is largely in a plane perpendicular to the rod axis.If a LO instrument is built with a detector aperture of the same narrow shape as the beam illuminating the flow cell, then this fan-shaped scattering will match the detector aperture very well.The result would be that less light would be scattered away from the detector than a spherical bead,which scatters light in a cone-shaped pattern.However, we have no direct knowledge of the use of rectangular detector apertures in the PAMAS instrument. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d5e79c4209693aa3b2ae34fd39c26fa71d86a2ed754fbf35252be2ddc99bfc9.jpg",
+        "img_caption": [
+            "Figure 13. Images and signal from(a) non-tumbling and (b)tumbling rod of dimensions $3 2 \\times 6 . 6 \\times 4 . 5 \\mu \\mathrm { m } ^ { 3 }$ in the microfluidic ESZ chip.Flow is fromleft toright inthe image.Red triangles in graph indicate the times ofthe diode fash withan intervalof $3 0 0 ~ \\mu \\mathrm { s }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/6643e66276482dbd6c0873b1abd0b64a83e0bffdd52607b6d4095f7af0482033.jpg",
+        "img_caption": [
+            "Figure 14. Images and signal from (a) non-tumbling and (b) tumbling $5 0 ~ { \\mu \\mathrm { m } }$ diameter, $5 ~ { \\mu \\mathrm { m } }$ thick disc in the microfluidic ESZ chip.Flow is romleft to right in the image.Red triangles in graph indicate the times of the diode fash with interval of $4 4 0 ~ { \\mu \\mathrm { s } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/438f5bc53e844ed1dba40f26132d28704f5351a9a12e218cd052f205bceb17a7.jpg",
+        "img_caption": [
+            "Figure 16. Light obscuration data from $4 0 ~ { \\mu \\mathrm { m } }$ rods.Red arrow indicates equivalent circular diameter based on dimensions of the rods measured inan SEM averagedoverall orientations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Because the details of the light source,detector, flow cell, and optics geometry are all proprietary,a quantitative model of these effects is not possible.A full elucidation of these effects would additionally require building a combined LO and brightfield imaging system that could measure light scattering and particle orientation simultaneously. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Flow Imaging ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/64578b8bbed1df93e0af4ca9c0ee6817e07b222cb4694a9ac5eeaa79136d5605.jpg",
+        "img_caption": [
+            "Figure 15.Histogram of measured resistance changes for rods of dimensions (a) $3 1 . 6 \\times 6 . 6 \\times 4 . 5 ~ { \\mu \\mathrm { m } } ^ { 3 }$ ，(b) $4 1 \\times 2 . 8 \\times 2 . 6 ~ { \\mu \\mathrm { m } } ^ { 3 }$ ,in the microfluidic ESZ chip.Solid red circles associated with the right axis indicate the fraction of rods in each histogram bin that were tumbling. The red arrow indicates the resistance change that would be obtained from an equivalent spherical diameter based on dimensions of the rods. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure 17 shows images of the $4 0 ~ { \\mu \\mathrm { m } }$ rods obtained by the FI instruments.It is evident that in both instruments there was a strong tendency for the rods to align with the direction of the flow. This tendency was even stronger for the $5 0 ~ { \\mu \\mathrm { m } }$ rods, while about a third of the less elongated $3 0 ~ { \\mu \\mathrm { m } }$ rods were noticeably rotated with respect to the flow.Also apparent in the figure are the variation in image sharpness resulting fromrods passing through the cell at different depths relative to the focal plane.Figure 18 shows ahistogram of the reported ECD measured by Instrument A for the $4 0 ~ { \\mu \\mathrm { m } }$ rods.The red arrow in the figure corresponds to an ECD calculated from the SEM dimensions.The instrument oversizes particles,yieldinga value that is $12 8 \\%$ of the SEMECD value for aligned rods.Oversizing of particles was also observed for Instrument B,especially when run with threshold settings for both dark and light pixels which is the commonly used mode for protein aggregate imaging.From Table 3,it also shouldbe noted the substantial increase in aspect ratio reported by the instruments in comparison with the SEM dimensions. Protein aggregate particles maybe more elongated than isoftenassumed on thebasis of FI measurements. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The overestimation of ECD for elongated objects arises from the increasing importance of diffraction effects for these particles.Figure 19 illustrates this point.Figure 19a shows the full field view captured by Instrument A with a rod present just right of center. The inset shows a zoom of the particle, whereas Figure 19b zooms even further so that individual pixelsare evident.To define the boundaries of the particle,the software identifies pixels that differ from the background by a threshold amount.The total number of these pixels,combined with the known pixel size,determines the area of the particle. The equivalent diameterofa circle with this areais calculated, andafixedadditional distanceis subtracted fromthis value to produce a reported ECD that produces a good agreement for spherical particlesbetween the measured value and the actual calibrated diameterof the spheres.It is evident,comparing the defined boundary in Figure 19b with the SEM image of a rod produced in the same fabrication(Fig.19c),that errors related to the diffraction effect extend along the length of the particle. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/1245a5818241a05afcd7c5d99e50a1f892bc94ab1ba68f8fff12320b261afa5f.jpg",
+        "img_caption": [
+            "Figure17.Selection ofimages of $4 0 \\mu \\mathrm { m }$ rods obtained from(a) Instrument Aand (b) Instrument B.Flow direction is vertical. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Thus the error related to diffraction effects comprises a larger fraction of the total area for a rod than for a circular shape. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Rather than subtract a fixed length parameter from the ECD derived from the imaged particle's area $A$ ，an alternative scheme would be to subtract a correction area based on the perimeter of the particle and then compute the ECD.An estimate for the areal correction is ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta A = \\frac { \\delta D } { 2 } \\left( \\frac { P _ { \\mathrm { a } } + P _ { \\mathrm { m } } } { 2 } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta D / 2$ is the width of the apparent diffraction edge beyond the actual edge of the particle,and $P _ { \\mathrm { { a } } }$ and $P _ { \\mathrm { { m } } }$ are the actual and measured values of the perimeter.An estimate for $P _ { \\mathrm { { a } } }$ is ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { a } } = P _ { \\mathrm { m } } \\left( 1 - { \\frac { \\delta D } { D _ { \\mathrm { m } } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where $D _ { \\mathrm { m } } = 2 ( A / \\pi ) ^ { 1 / 2 }$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The resulting ECD $D _ { \\mathrm { a } }$ is then ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { \\mathrm { a } } = D _ { \\mathrm { m } } \\left[ 1 - \\frac { \\delta D P _ { \\mathrm { m } } } { 4 A } \\left( 2 - \\frac { \\delta D } { D _ { \\mathrm { m } } } \\right) \\right] ^ { 1 / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "For a circle this approximation returns the expected $D _ { \\mathrm { a } } =$ ${ D } _ { \\mathrm { m } } - \\delta { D } _ { \\mathrm { \\ell } }$ The results of comparing the SEM dimensions of the 30,40,and $5 0 \\mu \\mathrm { m }$ rods,the ECD from Instrument A(with corrections using the subtraction of a fixed $\\delta D$ from the diameter) and the result from using Eq.(3) are presented in Table 4. To obtain the results using Eq.(3),we used measurements of $A$ and $P _ { \\mathrm { { m } } }$ from Instrument A. $\\delta D$ wasdeterminedfromaseries of measurements of spheres of different sizes using Instrument A and performing a plot of ECD versus $D _ { \\mathrm { m } }$ .This yields a straight line. The value of $D _ { \\mathrm { m } }$ on extrapolating to $\\mathrm { E C D } = 0$ is $\\delta D$ , which had the value $\\delta D = 6 . 7 ~ \\mu \\mathrm { m }$ .For the $3 0 ~ { \\mu \\mathrm { m } }$ rods,imaged rods rotated out of the plane of the image were excluded so that the calculations could be compared to the SEM dimensions. The value of ECD reported by Instrument A differs from the expected value based on SEM dimensions by $10 \\% { - } 3 4 \\%$ .Application of the perimeter-based algorithm produces results that differ by only $5 \\%$ or less for the studied rods. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/340d2e0a3290424d0643b57fd8de4741ff08bd056d36d96d592c27ec6f3ce237.jpg",
+        "img_caption": [
+            "Figure 18. Flow microscopy data from $4 0 ~ { \\mu \\mathrm { m } }$ rods.Red arrow indicates equivalent circular diameter based on dimensions of the rods measuredina SEM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/946bc80465eb909f030390cf17a135ae7382feb0897da1793d3772f1a2849cb0.jpg",
+        "img_caption": [
+            "Figure 19.(a) Image showing complete field of view from flow microscopy tool A and inset showing a zoomed-in image of a rod. (b)Further zoomedin image from(a) showing pixilation.Superimposed is an outline corresponding to the pixel area that is assigned to the rod. (c) SEM image of a microfabricated rod of the same dimensions as in (a)and(b)and at the same magnification. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/894b28fe821e450f0fbd30e304321b8428aa39ea117873b45a3e7e4cab40510c.jpg",
+        "table_caption": [
+            "Table4.ECDinMicrometers Basedon SEM,FI withDiameter Correction (as Reported Instrument A),and FI withAreal Correction Based on Equation (3),for Rods of Dimensions $3 1 . 6 \\times 6 . 6 \\times 4 . 5$ $4 1 \\times$ $2 . 8 \\times 2 . 6$ ,and $5 1 \\times 3 . 4 \\times 2 . 6 ~ \\mu \\mathrm { m } ^ { 3 }$ （20 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Method</td><td>30 μm Rod</td><td>40 μm Rod</td><td>50 μm Rod</td></tr><tr><td>SEM</td><td>16.2</td><td>13.4</td><td>15.9</td></tr><tr><td>FI(diameter correction)</td><td>17.9</td><td>17.9</td><td>20.1</td></tr><tr><td>FI(areal correction)</td><td>15.4</td><td>13.1</td><td>14.6</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Defining the correction parameter as $\\delta D _ { \\mathrm { c o r } }$ as ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta D _ { \\mathrm { c o r } } = D _ { \\mathrm { m } } - D _ { \\mathrm { m } } \\left[ 1 - \\frac { \\delta D P _ { \\mathrm { m } } } { 4 A } \\left( 2 - \\frac { \\delta D } { D _ { \\mathrm { m } } } \\right) \\right] ^ { 1 / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Anexample ofcalculated $\\delta D _ { \\mathrm { c o r } }$ forrodswith different imaged aspect ratio as a function of ECD is shown in Figure 20.The calculation assumes $\\delta D = 6 . 7 \\mu \\mathrm { m }$ ,whichasnoted above yields $\\delta D _ { \\mathrm { c o r } } = 6 . 7 \\mu \\mathrm { m }$ foracircle.It is evident that $\\delta D _ { \\mathrm { c o r } }$ increases as the shape becomes elongated (lower aspect ratio),accounting for the increased error due to the increased fraction of particle areathat is close to an edge. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The selection of thresholding parameters can have a significant effect on size as indicatedby the difference in values reported by Instrument B when the threshold is based on dark pixels only versus dark and light pixels.The diffractionof light creates apparent light and dark concentric edges around the perimeters of the particles.For extended rod-shaped particles, with one of the dimensions on the scale of a few microns or less, this can become significant in the calculation of the area-based diameter. Imaging of protein particles is typically performed with thresholding set to both light and dark pixels. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSIONANDCONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Particle shape can have a significant influence on the size parameter that different instruments will report.This can also result inparticle count differences.If,forexample,itisdesired to report the number of particles with dimension greater than $2 \\mu \\mathrm { m }$ ,ifdifferent instruments provideadifferent size measurement for the same particle,these instruments will effectively have different thresholds for the count totals.It is important to carefully consider the factors that come into the size evaluation that an instrument makes fora particle. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Instruments are generally configured to report an equivalent diameter,which for ESZ is the diameter ofa sphere that has the same volume as the measured particle,forLO is the diam eter of polystyrene sphere with the same optical cross section as the measured particle,and for FI techniques is the diam eter of a circle which has the same area as the photographed particle.When measuring monodisperse polystyrene beads, the fourinstruments using these different measurement methods agreed within $10 \\%$ on count and reported size parameter. The only exception was FI Instrument Bwhich oversized the $5 \\mu \\mathrm { m }$ beadby $21 \\%$ ： ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/3582afc27f019e7889264113cc6909b0a7cec9883d25575bd36a3a75f13e6441.jpg",
+        "img_caption": [
+            "igure0.CoreiontoesubractedfroECDfoctanglesapeswihimagedaspctriosSbolsepresntteaspectatiosuedto enerate data points acording to:circle0.15,plus 0.3,triangle0.45,squareO.6,diamond0.8,and flled circle1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Using microfabricated, monodisperse rods as test particles revealed significant differences in the reported size parameters. Elongated rods,corresponding to fbers,tend to align with the flow. In the ESZ instrument, this produced a reduction in signal compared to an equivalent size sphere,as the particle cuts across fewer electric field lines.COMSOL calculations confirm the effect.For the $4 0 \\mu \\mathrm { m }$ rod, this constituted a $30 \\%$ reduction in signal compared with a sphere,and because signal is proportionalto thecubeof thediameter,a $12 \\%$ reductioninreported ESD.Tumbling of the particles acts in the opposite direction, producing signals as large as or larger than the signal that would be produced by an equivalent sphere. The propensity to tumble is sensitive to the aspect ratio of the particle,with elongated particleslesslikelyto tumble.Propensityto tumble wasinsensitive to flowrate,as the flowratesusedanddimensionsof the device produce laminar flow. Tumblingis induced byshear forces present when elongated objects interact with the flow field established by the microchannel geometry at the constriction. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "For the fabricated rods used in this study,FI measurements gave a measured ECD that exceeded the volumetric ESD predicted from the knownrod geometrybya factor of ${ \\approx } 2$ . It was observed that rods tendto alignwith the flow. This results in anequivalent diameter measurement that is larger than the equivalent diameter of a sphere with the same particle volume.Thus,for a given elongated particle that aligns in the flow, FI instruments will report a larger diameter than volumemeasuringinstruments.Compounding this effect is the diffraction effect associated with the boundary of small elongated particles.Unless an instrument is operated in a mode that minimizes diffraction errors,the addedwidth producedby the interferencewill producealarger errorin the area thanisnormally corrected for with spherical particles.A new algorithm correction based on the use of the measured perimeter of a particlereduced this effect.Diffractionand focus effectsalso cause the reported aspect ratio to be as much as double the actual aspect ratio of rods,suggesting that actual protein aggregates imaged by these instruments may have an aspect ratio that is smaller than reported by the instrument. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "For LO, the range of diameters reported agreed reasonably well with expectations for tumbling particles.However, the average particle diameter was approximately $3 0 \\% { - } 5 0 \\%$ smaller than expected from a geometrical analysis of either aligned orrandomly tumbling particles.Study of the geometry of the particle illumination and detection of scattered light provides plausible reasons for this undersizing,but a detailed explanationis hamperedby the lack ofknowledge of the exact optical arrangementinsidethe sensorheads. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Further study is needed to better understand the effects observed here and their relationship to measurements on protein aggregates.For the LO results,comparison of response for instruments with different thicknesses of the illumination zone and capture of the full scattering signal may help to understand why the instrument reports diameters smaller than expected. It would be desirable to learn how irregular particles (such as protein aggregates） tumble.For the case of ESZ,instrumental analysis of signal shape may be used to deduce if an event represents a particle which has tumbled.In addition to shape effects,particle porosity may be important for protein particles.If the electrolyte penetrates interconnected pores,there will be a decrease the electrical signal of a particle compared toanonporous particle of similar external dimension.Future work using the microfluidic ESZ/FI will examine this possibility.Ultimately the differences in size distribution produced by orthogonal methods may be useful indicators of particle properties that are in addition to size and count. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Fabrication of the SU-8 rods and microfluidic structures was carried out at the NIST Center for Nanoscale Science and Technology (CNST).We thank Dan Berdovich of Micro ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Measurement Laboratories for helpful suggestions and insights on LO counters. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1.Rosenberg AS. 20o6.Effects of protein aggregates:An immunologic perspective.AAPSJ8(3):E501-E507.   \n2.DemeuleB,Messick S,Shire SJ,LiuJ.2O10.Characterization of particles in protein solutions:Reaching the limits of current technologies. AAPSJ12(4):708-715.   \n3.Barnard JG,Rhyner MN,CarpenterJF.2012.Critical evaluation and guidance for using the coulter method for counting subvisible particles in protein solutions.JPharm Sci 101(1):140-153.   \n4.Werk T,Volkin DB,Mahler HC.2014.Effect of solution properties on the counting and sizing of subvisible particle standards as measured by light obscuration and digital imaging methods.Eur J Pharm Sci 53:95-108.   \n5.Zolls S,Gregoritza M, Tantipolphan R,Wiggenhorn M,Winter G, Friess W,Hawe A.2013.How subvisible particles become invisiblerelevance of the refractive index forprotein particle analysis.JPharm Sci 102(5):1434-1446.   \n6.Jennings BR,Parslow K.1988.Particle-size measurement—The equivalent spherical diameter.ProcR Soc Lond AMat 419(1856):137- 149.   \n7. Sharma DK, King D, Oma P, Merchant C.2010. Micro-flow imaging: Flow microscopy applied to sub-visible particulate analysis in protein formulations.AAPSJ12(3):455-464.   \n8.Joubert MK,Luo QZ,Nashed-SamuelY,WypychJ,Narhi LO.2011. Classification and characterization of therapeutic antibody aggregates. J Biol Chem 286(28):25118-25133.   \n9.Lloyd P,Response of the electrical sensing zone method to nonspherical particles Particle Size Analysis,Loughborough,England John Wiley & Sons,1981,pp 199-208. 10.Kachel V.1979.Electrical resistance pulse sizing (Coulter sizing). In Flow cytometry and sorting;Melamed MR,Mullaney PF,Mendelsohn ML,Eds.New York: John Wiley & Sons,Inc.,pp 61-104.   \n11.Ferreira PJ,Rasteiro MG,Figueiredo MM.1993.Influence of shape on particle size analysis.Part Sci Technol11:199-206.   \n12.Shekunov BY,Chattopadhyay P,Tong HHY,Chow AHL.2007.Particle size analysis in pharmaceutics:Principles,methods and applications.Pharm Res Dordr 24(2):203-227.   \n13.Certain commercial instruments are identified to adequately specify the experimental procedure.In no case does such identification imply endorsement by the National Institute of Standards and Technology.   \n14.Tao SL,Popat KC,Norman JJ,Desai TA.20o8.Surface modification of SU-8 for enhanced biofunctionality and nonfouling properties. Langmuir 24(6):2631-2636.   \n15.Wilson GA,Manning MC.2013.Flow imaging: Moving toward best practices for subvisible particle quantitation in protein products.J Pharm Sci 102(3):1133-1134.   \n16.Berge LI, Jossang T,Feder J.199o. Off-axis response for particles passing through long apertures in coulter-type counters.Meas Sci Technol1(6):471-474.   \n17.Einarsson J,Johansson A,Mahato SK,Mishra YN,Angilella JR, Hanstorp D,Mehlig B.2013.Periodic and aperiodic tumbling of microrods advected in a microchannel flow.Acta Mech 224(1O):2281- 2289.   \n18.Knollenberg RG,Gallant RC.February, 199o.International Conference on Particle Detection,Metrology and Control,pp Arlington,Va USA 154-182.   \n19.Bohren CF,Huffman DR.1998.Absorption and scattering of light by small particles: Wiley Science.Weinheim, Germany   \n20.Chen TW.1995. Effective sphere for spheroid in light-scattering. Opt Commun 114(3-4):199-202.   \n21.vande Hulst HC.1957.Light scattering: By small particles.New York: John Wiley& Sons. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

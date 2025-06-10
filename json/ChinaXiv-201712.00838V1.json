@@ -1,0 +1,226 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "血清胱抑素C与血压水平的关系912例报告",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈海霞',王铁兵²,杨 邱³,唐曙明』1深圳市人民医院检验科，深圳市光明新区疾病与控制中心检验科,深圳市人民医院内科,广东 深圳 518109摘要：目的探讨血清胱抑素C(CysC)与血压水平的关系。方法采用横断面研究方法，从体检人群中随机抽查912例作为研究对象,通过问卷调查及查询体检结果获取一般资料，运用Pearson和多元逐步回归分析血清CysC与血压水平的关系。结果血清CysC水平在正常血压组、高血压前期组及高血压组三组间比较,差别具有统计学差异( $P { < } 0 . 0 5 )$ ;Pearson相关分析显示：无论性别,血清CysC水平与收缩压(SBP)舒张压(DBP)、平均动脉压(MAP)、体重指数(BMI)、总胆固醇(TC）、甘油三酯(TG）、低密度脂蛋白胆固醇(LDL-C)尿酸(UA）、尿素(BUN)正相关( $_ { ( P < 0 . 0 5 ) }$ ；以MAP、SBP及DBP为因变量，以血压水平影响因素为自变量的多元逐步回归分析中结果显示：血清CysC对SBP和MAP影响最大（ $( P { < } 0 . 0 5 )$ ，对DBP影响不显著 $( P { > } 0 . 0 5 )$ 。结论血清CysC水平对SBP和MAP的影响显著，可以作为预警高血压病的生物标志物。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：胱抑素C;高血压;血压 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correlation of serum cystatin C with blood pressure: a cross-sectional study of 912 subjects ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Haixia’,WANG Tiebing², YANG Qiu3,TANG Shuming   \nDepartmentofcalbatfeldiele'sialnat   \nClinicalLaboratory,Guangmingistrict Center ofiseaseControl,Shenzhen 518109,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To study the association betweenserumcystatin Cleveland blood pressure.Methods Weconducted a cross-sectional study of 912 subjects randomly sampled from a cohort visiting for routine physical examinations.The epidemiological data were obtainedusing questionnaires and from the database of physical examination results.Pearson analysis and multiple stepwiseregressonanalysis wereused toanalyze the relationshipbetween blood pressure andcystatin C.Results Thelevels of serum cystatin Cdifered significantlyamong the normotensive,prehypertensive,and hypertensive subjects $_ { ( P < 0 . 0 5 ) }$ . Pearson analysis revealed that regardless of gender, serum cystatin C was positively correlated with SBP, DBP, MAP, BMI, TC, TG, LDL-C, UA and BUN $( P { < } 0 . 0 5 )$ . With MAP, SBP and DBP as dependent variables, multiple stepwise regression analysis of thefactorsaecting blood pressure indicated that cystatin Chad the strongest efecton SBPand MAP $_ { ( P < 0 . 0 5 ) }$ but did not significantly affect DBP $( P { > } 0 . 0 5 )$ . Conclusion Serum cystatin C level is significantly correlated with SBP and MAP and can be used as a biomarker for alert of hypertension. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: cystatin $C ;$ hypertension; blood pressure ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胱抑素C(CysC)是一种内源性半胱氨酸蛋白酶抑制剂，属于2型半胱氨酸蛋白酶抑制剂超家族，存在于所有类型细胞中。既往研究认为，血清CysC是评价肾功能损伤的一项敏感指标[-2],优于血清肌酐的肾小球滤过率[3-4]。最近研究发现它还可能作为一些肾脏外疾病的标志，如CysC浓度的增加与心血管事件有很强的独立相关性[57]，可能与心血管疾病的发生与发展有关。目前国内鲜少关于血清CysC水平与血压关系的研究，本文将对血清CysC与血压水平之间的关系作一探讨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1对象与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 对象",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "采用回顾性分析法，选择我院体检中心2013年1月\\~2013年12月的体检人群为研究对象，通过随机抽样的方式，查询病史及抽血检查生化各项指标。研究对象采集标准：高血压诊断标准参照2004年美国国家高血压教育计划(NHBPEP)协作委员会建议的诊断标准;同时排除各种继发性高血压、糖尿病、内分泌代谢性疾病、风湿性疾病、近期感染、妊娠和哺乳期妇女、近半年内服用避孕药、酗酒以及恶性肿瘤等患者。符合条件并进入本研究者912例，其中男502例 $( 5 5 . 0 \\% )$ ，女410例（204号 $( 4 5 . 0 \\%$ ),年龄中位数50.2岁，其中正常血压组360例，高血压前期组269例，高血压组283例；所有受试者均通过电话，邮件以及短信等方式实施了知情告知。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1制定统一的调查表格采集研究对象的流行病学资料调查内容包括:性别、年龄、身高、体质量、文化程度、吸烟、饮酒史、既往病史、家族史，体质量指数(BMI)=体质量/身高。采用贝克曼DXC600全自动生化分析仪检测血清CysC、总胆固醇(TC)、甘油三脂(TG)高密度脂蛋白胆固醇(HDL-C)低密度脂蛋白胆固醇(LDL-C)空腹血糖(Glu）肌酐( $\\mathrm { ( c r ) }$ 和尿素(BUN)各项生化指标。1.2.2研究对象分组依据及平均动脉压计算根据美国预防、检测、评估与治疗高血压全国联合委员会第七次报告(JNC7)预防和治疗高血压的新指南来进行高血压分组；脉压(PP) $\\scriptstyle = 1$ 收缩压(SBP)-舒张压(DBP);平均动脉压（MAP) $\\begin{array} { r } { { \\bf \\Pi } = \\overdot { \\bf { \\Pi } } } \\end{array}$ DBP $^ +$ 1/3PP",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3统计学方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计量资料采用均值±标准差表示，两组均数间比较采用t检验;计数资料用百分率表示，采用卡方检验；组间比较采用FriedmanM检验;采用pearson相关分析和多元逐步回归分析CysC与血压水平相关性。所有统计分析用SPSS17.0软件进行， $. P { < } 0 . 0 5$ 差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1正常血压组、高血压前期组及高血压组的临床资料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三组之间两两比较，年龄、高血压家族史、BMI、TC、LDL-C、LDL-H、TG、UA和CysC水平组间差别均有统计学意义（ $( P { < } 0 . 0 5 )$ ；而性别、吸烟、饮酒、糖尿病家族史、心率、Glu、Cr和BUN差异无统计学意义（ $P >$ 0.05)。分别与正常组、高血压前期组比较，高血压组教育水平差异有统计学意义( $_ { ( P < 0 . 0 5 ) }$ ,正常血压组与高血压前期组间教育水平无明显差异( $\\scriptstyle \\mathrm { \\mathit { P } > 0 . 0 5 }$ ，表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2血清CysC与血压水平之间的关系",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依据血清CysC水平,使用四分位法将入选对象分为4组：Cys $\\mathrm { C { \\leqslant } 1 . 0 1 , 1 . 0 1 { \\sim } 1 . 3 4 , 1 . 3 4 { \\sim } 1 . 6 7 , { \\geqslant } 1 . 6 7 ~ m g / L _ { \\circ } }$ 组间比较采用Friedman $\\mathbf { M }$ 检验，结果显示：4组之间，年龄、SBP、DBP、MAP、BMI、TG、HDL-C、LDL-C、BUN、Cr及UA差异有统计学意义 $( P { < } 0 . 0 5 )$ ，而性别、心率、PP及Glu差异无统计学意义( $\\scriptstyle \\mathrm { \\overrightarrow { P } > 0 . 0 5 }$ ，表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3血清CysC与血压水平影响因素的Pearson相关分析",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用Pearson相关分析示血清CysC水平与SBP、DBP、MAP、PP、BMI、TG、TC、HDL-C、LDL-C、Cr、UA及BUN的相关性,结果显示,不论男女，血清CysC水平与SBP、DBP、MAP、BMI、TC、TG、LDL-C、UA 和BUN正相关(表3）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4血清CysC与血压水平的多元逐步回归分析分别以MAP、SBP及DBP为因变量，以年龄、性别、",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/846b6104786bba58ceaf724bc1d5c05cf0d06f09dcf16bc158f0268e215351a1.jpg",
+        "table_caption": [
+            "表1正常血压组、高血压前期组及高血压组的临床资料 Tab.1 Clinical data of the subjects in normotensive, prehypertensive and hypertensive groups (Mean±SD) "
+        ],
+        "table_footnote": [
+            "（204号 $^ { \\mathrm { a } } P { < } 0 . 0 5$ us normotensive group; $^ { \\mathrm { { b } } } P { < } 0 . 0 5$ vs prehypertensive group. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Normal blood pressure</td><td>Prehypertension</td><td>Hypertension</td></tr><tr><td>Number (male/female)</td><td>360 (182/178)</td><td>269 (151/118)</td><td>283 (169/114)</td></tr><tr><td>Smoking (%)</td><td>41.67</td><td>43.49</td><td>42.40</td></tr><tr><td>Drinking (%)</td><td>21.11</td><td>23.42</td><td>19.79</td></tr><tr><td>Education (%)</td><td>24.72</td><td>27.88</td><td>60.07b</td></tr><tr><td>Family history of diabetes (%)</td><td>18.61</td><td>18.96</td><td>21.20</td></tr><tr><td>Family history of hypertension (%)</td><td>34.60</td><td>24.30a</td><td>47.90ab</td></tr><tr><td>Age (year)</td><td>43.65±10.50</td><td>51.01±12.91a</td><td>59.13±10.75ab</td></tr><tr><td>BMI (kg/m²)</td><td>23.16±3.72</td><td>24.80±4.45a</td><td>26.11±4.16ab</td></tr><tr><td>HR (beats/min)</td><td>76.22±11.50</td><td>74.32±10.75</td><td>79.56±10.74</td></tr><tr><td>DBP (mmHg)</td><td>67.98±5.30</td><td>83.05±6.99</td><td>96.12±7.01</td></tr><tr><td>SBP (mmHg)</td><td>118.92±7.02</td><td>131.41±7.00</td><td>150.26±8.82</td></tr><tr><td>Cys C (mg/L)</td><td>0.99±0.33</td><td>1.17±0.35a</td><td>1.43±0.84ab</td></tr><tr><td>Glu (mmol/L)</td><td>5.16±1.42</td><td>5.32±1.98</td><td>5.43±1.70</td></tr><tr><td>TG (mmol/L)</td><td>1.17±0.80</td><td>1.65±1.32a</td><td>1.83±1.14ab</td></tr><tr><td>TC (mmol/L)</td><td>4.20±0.90</td><td>4.66±1.11a</td><td>5.48±1.13ab</td></tr><tr><td>HDL-C (mmol/L)</td><td>1.49±0.31</td><td>1.18±0.26a</td><td>1.08±0.27ab</td></tr><tr><td>LDL-C (mmol/L)</td><td>2.38±0.72</td><td>2.62±0.77a</td><td>2.99±0.99ab</td></tr><tr><td>Cr (μmol/L)</td><td>75.14±19.11</td><td>80.51±19.83</td><td>79.90±19.56</td></tr><tr><td>BUN (mmol/L)</td><td>5.46±1.63</td><td>5.40±1.64</td><td>5.68±2.05</td></tr><tr><td>UA (μmol/L)</td><td>298.72±97.32</td><td>319.05±100.02a</td><td>326.57±99.62ab</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/686e2b353d325062c4a5ae994deaafe3dc607c4650a00fdde787fbb8e851db6a.jpg",
+        "table_caption": [
+            "表2CysC与血压水平的关系 Tab.2 Relationship between cystatin C and blood pressure (Mean±SD) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"4\">Cys C (mg/L)</td><td rowspan=\"2\">P</td></tr><tr><td>≤1.01</td><td>1.01~1.34</td><td>1.34~1.67</td><td>≥1.67</td></tr><tr><td>Gender (male/female)</td><td>234 (134/100)</td><td>225 (120/105)</td><td>219 (123/96)</td><td>234 (125/109)</td><td>0.973</td></tr><tr><td>Age (year)</td><td>40.95±12.26</td><td>46.72±11.90</td><td>51.91±11.12</td><td>58.02±12.24</td><td>0.001</td></tr><tr><td>HR (beat/min)</td><td>74.46±12.01</td><td>75.16±10.89</td><td>74.77±11.65</td><td>77.82±12.49</td><td>0.078</td></tr><tr><td>BMI (kg/m²)</td><td>21.01±2.98</td><td>24.12±3.13</td><td>25.45±3.98</td><td>28.76±4.43</td><td>0.000</td></tr><tr><td>DBP (mmHg)</td><td>74.14±5.11</td><td>78.01±6.32</td><td>79.89±6.13</td><td>84.01±5.11</td><td>0.000</td></tr><tr><td>SBP (mmHg)</td><td>119.12±7.90</td><td>124.56±8.09</td><td>130.04±8.12</td><td>135.02±8.89</td><td>0.000</td></tr><tr><td>MPA (mmHg)</td><td>83.99±6.56</td><td>86.87±6.96</td><td>89.00±6.12</td><td>92.46±7.86</td><td>0.000</td></tr><tr><td>Pulse pressure (mmHg)</td><td>47.23±6.94</td><td>48.01±5.92</td><td>48.88±6.56</td><td>48.02±6.36</td><td>0.832</td></tr><tr><td>Glu (mmol/L)</td><td>5.08±1.62</td><td>5.24±1.37</td><td>5.20±1.56</td><td>5.18±1.23</td><td>0.612</td></tr><tr><td>TG (mmol/L)</td><td>1.49±1.14</td><td>1.62±1.08</td><td>1.64±1.94</td><td>1.78±1.32</td><td>0.000</td></tr><tr><td>TC (mmol/L)</td><td>4.60±1.11</td><td>4.75±1.30</td><td>5.08±1.24</td><td>5.26±1.04</td><td>0.000</td></tr><tr><td>HDL-C (mmol/L)</td><td>1.57±0.50</td><td>1.35±0.45</td><td>1.20±0.20</td><td>1.11±0.19</td><td>0.000</td></tr><tr><td>LDL-C (mmol/L)</td><td>2.28±0.96</td><td>2.43±0.63</td><td>2.65±0.77</td><td>2.98±0.87</td><td>0.001</td></tr><tr><td>Cr (μmol/L)</td><td>74.99±17.07</td><td>76.56±17.01</td><td>78.23±16.41</td><td>79.56±17.99</td><td>0.020</td></tr><tr><td>BUN (mmol/L)</td><td>5.00±1.36</td><td>5.15±1.62</td><td>5.40±1.69</td><td>5.55±1.61</td><td>0.000</td></tr><tr><td>UA (μmol/L)</td><td>291.14±81.32</td><td>305.06±83.42</td><td>320.52±78.43</td><td>345.91±91.06</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0b23da5e0f2417e7f2a6e126283169bfcd22f57fdccbb381201f72467eb20cc.jpg",
+        "table_caption": [
+            "表3CysC与血压水平影响因素的相关分析 Tab.3Pearson analysis of cystatin C and the factors affecting blood pressure "
+        ],
+        "table_footnote": [
+            "$^ { \\mathrm { a } } P { < } 0 . 0 1$ $^ { \\mathrm { b } } P { < } 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>Number</td><td>DBP</td><td>SBP</td><td>MAP</td><td>BMI</td><td>TC</td><td>TG</td><td>LDL-C</td><td>BUN</td><td>UA</td></tr><tr><td>Male</td><td>502</td><td>0.800a</td><td>0.554a</td><td>0.776</td><td>0.769a</td><td>0.845a</td><td>0.555a</td><td>0.813a</td><td>0.246a</td><td>0.108b</td></tr><tr><td>Female</td><td>410</td><td>0.879a</td><td>0.476a</td><td>0.684a</td><td>0.873</td><td>0.865a</td><td>0.660a</td><td>0.855a</td><td>-0.432a</td><td>-0.359a</td></tr><tr><td>Total</td><td>912</td><td>0.556a</td><td>0.801a</td><td>0.715a</td><td>0.792a</td><td>0.839a</td><td>0.581a</td><td>0.817a</td><td>0.241a</td><td>-0.118a</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BMI、TC、LDL-C、HDL-C、Cr、UA、Glu和CysC为自变量进行多元逐步回归分析显示：(1)以SBP为因变量逐步回归分析中，血清CysC可以独立影响SBP(Beta $\\ c =$ 0.791, $\\scriptstyle P = 0 . 0 0 1 .$ )，且对SBP影响作用最大，其次为 $\\mathrm { C r }$ TC、LDL、TG、HDL等;(2)以MAP为因变量逐步回归分析中，血清CysC可以独立影响MAP(Beta=0.710,P=0.000),且对MAP影响作用最大,其次为HDL、UA、Cr、PP、BUN、TC等;(3)以DBP为因变量逐步回归分析中，血清LDL-C对DBP 影响最大(Beta $\\scriptstyle 1 = 0 . 5 9 2$ . $P =$ 0.000),而血清CysC对DBP影响作用最小，未独立影响D $\\mathsf { B P } ( \\mathrm { B e t a } { = } 0 . 1 4 4 , P { = } 0 . 2 1 0 )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高血压病是目前世界上患病率高、危害重、严重影响生活质量的疾病之一，是心脑血管病最主要的危险因素,脑卒中、心力衰竭及慢性肾脏病是其主要并发症[-10]近年我国成人高血压的患病率呈明显上升趋势，根据2011年中国疾病预防控制中心发布的报告显示：截至2010年我国高血压患者至少有2亿。因此，高血压的病因研究具有重要意义，可为高血压病的防治和早期治疗心脑血管疾病提供重要的思路和发挥积极作用[]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cys C相对分子质量为13000,含有120个氨基酸残基,是半胱氨酸蛋白酶抑制剂超家族中的成员之一，表达于所有的有核细胞。目前，CysC作为反映肾小球滤过率的指标已基本得到确定[12-14],而新近的研究发现,它还可能与心血管疾病的发生与发展有关5，其机制为CysC的缺失以及蛋白水解酶与其抑制剂在血管壁的失平衡对动脉完整性破坏和重塑起重要作用，进而影响血压水平。本次实验在正常血压组、高血压前期组及高血压组CysC水平的比较中发现血清CysC水平与血压水平正相关,验证了血清CysC水平对血压水平的影响；使用四分位法对CysC水平分组，组间比较的FriedmanM检验显示：血清CysC水平与SBP、DBP、MAP、BMI、TC、TG、LDL-C、UA和BUN正相关,而且这种相关性与性别无关，因此血清CysC水平完全可以列为影响血压水平的有效参考指标。多元逐步回归分析显示血清CysC水平与血压水平独立相关，其中血清CysC水平对SBP和MAP的变化作用更为明显，是影响血压水平的独立风险因素;在考虑其他因素包括年龄、性别、BMI、TC、LDL-C、HDL-C、Cr、UA和Glu时,血清CysC水平对血压水平(SBP和MAP)影响作用仍然最大。因此初步判断：对体检人群而言，血清中CysC水平与血压水平正相关，而且是SBP和MAP的独立影响因素，完全可以作为预警高血压病的有效生物标志物之一;这一结论与Watanabe等[16发现血清CysC水平与SBP、尿白蛋白分泌率、左心室心肌重量指数和 $2 4 \\mathrm { h }$ 平均血压相关的研究成果大体一致。除此之外，还有文献报道称高血压患者的微量白蛋白值尚正常时，血清CysC水平已明显升高[17]。所以,通过测定血清Cys C水平还可对原发性高血压病人靶器官损害程度作出评估，因此它不仅可以作为影响血压水平的重要参数，还可以对高血压的预后评估及临床治疗有一定的指导意义[5]。虽然血清中CysC水平与血压水平正相关,相对其他高危因素更为敏感有效，但是也有它的不足，它并非对所有血压水平因素都有显著性关联，如DBP;多元逐步回归分析显示血清中CysC水平对DBP无独立相关性，影响作用也相对低下，原因还需进一步研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，血清CysC与高血压病关系密切，相对于其他高血压高危因素而言，其是预防高血压病的有效的生物标志之一。早期密切关注并干预血清CysC的水平，对于控制高血压，早期治疗心脑血管疾病，可提供新的思路和发挥积极作用；但是本次研究局限于体检人群，人群覆盖面偏窄，缺乏其他人群的流行病学调查数据;因此对于血清CysC这一参数运用临床来防治高血压病，还需大样本量和多人群的进一步分析研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Hu Y,Liu F, Shen J,et al.Association between serum cystatin C and diabetic peripheral neuropathy:a cross-sectional study of a Chinese type 2 diabetic population [J].Eur J Endocrinol,2014,171(5): 641-8.   \n[2]Wang X,Che M,Xie B,et al．Preoperative serum cystatin C combined with dipstick proteinuria predicts acute kidney injury after cardiac surgery[J].Ren Fail,2014,36(10):1497-503.   \n[3］黎晓磊,梁 敏,杨小兵.不同胱抑素方程对我国慢性肾脏病患者的适 用性评估[J].南方医科大学学报,2010,30(3):575-8.   \n[4]Dinic M,Maillard N,Thibaudin D,et al.Serum cystatin C is a determinant of central pressure augmentation index measured by oscillometric method in renal transplant recipients [J].BMC Nephrol,2014,15(1): 196-202.   \n[5]Fenster BE,Lasalvia L, Schroeder JD,et al. Cystatin C: a potential biomarker forpulmonaryarterial hypertension [J].Respirology, 2014,19(4): 583-9.   \n[6]Meng L,Yang Y,Qi LT,et al.Elevated serum cystatin C is an Independent predictor of cardiovascular events in People with relatively normal renal function[J].JNephrol,2012,25(3): 426-30.   \n[7]Yamashita H,Nishino T,Obata Y,et al.Association between cystatin C and arteriosclerosis in the absence of chronic kidney disease[J].JAtheroscler Thromb,2013,20(6): 548-56.   \n[8]Kadziela J,Prejbisz A,Michalowska I,etal.Relationship between hemodynamic parameters of renal artery stenosis and the changes of kidney function after renal artery stenting in patients with hypertension and preserved renal function[J].Blood Press,2015,24 (1): 30-4.   \n[9]Monsouvanh A，Proungvitaya T,Limpaiboon T,et al. Serum cathepsin B to cystatin C ratio as a potential marker for the diagnosis of cholangiocarcinoma[J].Asian Pac J Cancer Prev, 2014,15(21): 9511-5.   \n[10]Xiang D, Zhang H,Bai J,et al. Clinical application of neutrophil gelatinase-associated lipocalin in the revised chronic kidney disease classification[J]. Int JClin Exp Pathol,2014,7(10): 7172-81.   \n[11]Moura Rdo S, Vasconcelos DF,Freitas E,et al. Cystatin C, CRP, log TG/HDLc and metabolic syndrome are associated with micro albuminuria in hypertension[J].Arq Bras Cardiol,2014,102(1): 54-9.   \n[12]Pérez-Calvo JI, Sánchez-Marteles M,Ruiz-Ruiz FJ,et al.Differential prognostic utility of NTproBNP and Cystatin C in patients with acute exacerbation of chronic pulmonary disease[J].JRSM Short Rep,2010,1(5): 44-52.   \n[13]Wu VC, Kuo CC, Wang SM,et al. Primary aldosteronism: changes in cystatin C-based kidney filtration,proteinuria,and renal duplex indices with treatment[J]. JHypertens, 2011, 29(9): 1778-86.   \n[14] Wallbach M, Lehnig LY, Schroer C,et al. Impact of baroreflex activation therapy on renal function-a pilot study[J].Am JNephrol, 2014, 40(4): 371-80.   \n[15]Otsuka T, Kato K, Kachi Y, et al. Serum cystatin C,creatinine-based estimated glomerular filtration rate,and the risk of incident hypertension in middle-aged men[J].Am JHypertens,2014,27(4): 596-602.   \n[16]Watanabe S,Okura T,Liu J,et al. Serum cystatin C level is a marker of end-organ damage in patients with essential hypertension [J].Hypertens Res,2003,26(11): 895-9.   \n[17]沈恒山,高 纯,沈红石,等.血清胱抑素C、超敏C反应蛋白和尿微量 白蛋白对高血压患者早期肾功能损伤的诊断价值[J].山东医药, 2012,52(1): 57-8. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(编辑：经媛)",
+        "page_idx": 3
+    }
+]

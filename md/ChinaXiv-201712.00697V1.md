@@ -1,0 +1,124 @@
+# 技术方法
+
+# 两种方法建立的睾丸癌顺铂耐药细胞株的比较
+
+李贝贝，董淑英，樊宗兵，吴小祥，巫剑峰，童旭辉蚌埠医学院药学系药理学教研室，安徽 蚌埠 233030摘要：目的 浓度递增法与大剂量冲击法分别诱导两种小鼠睾丸癌I-10顺铂耐药细胞株，比较两种细胞株之间形态差异,并检测耐药相关蛋白MDR1及P-gp的表达水平。方法 采用浓度递增法诱导耐药细胞株I-10/DDPi,大剂量冲击法的诱导耐药细胞株I-10/DDPh;显微镜下观察细胞形态改变;MTT法分别检测耐药指数,绘制生长曲线;Westem blot检测耐药相关蛋白MDR1及P-gp的表达;Transwell法检测细胞侵袭能力的变化。结果正常睾丸癌I-10细胞及两种方法建立的相应耐药株均为贴壁生长，形态饱满，大体呈梭形，上皮样,细胞大小大致相同;I-10/DDP细胞大小不同,形态不规则,细胞表面有细长微绒毛类似触角,分散排列。耐药株I-10/DDPi及I-10/DDPh对顺铂的耐药指数分别为3.924和3.099,耐药细胞系的倍增时间较正常I-10细胞延长。耐药细胞中耐药相关蛋白MDR1及P-gp表达显著高于正常I-10细胞,其中I-10/DDPi增加更为明显。耐药细胞株侵袭力增强,其中I-10/DDPh增加更为明显。结论 采用两种方法均可成功建立的耐顺铂辜丸癌细胞株，且大剂量冲击法建立的耐顺铂细胞株I-10/DDPh更接近于临床中的肿瘤耐药细胞。
+
+关键词：睾丸癌;顺铂;耐药
+
+# Comparison of cisplatin-resistant testicular cancer cell lines established by two methods
+
+LI Beibei,DONG Shuying,FAN Zongbing,WUXiaoxiang,WU Jianfeng,TONGXuhui DepartmentofPharmacology,Facultyofharmacy,BengbuMedical College,Bengbu 233o30,China
+
+Abstract:ObjectiveTocompare thebiological behaviorsof twodrug-resistant testicularcancercellinesestablished by diferent methods.Methods Drug-resistance was induced in testicularcancercellines exposureof thecels to increasing concentrationsoforahigh doseof cisplatin (I-10/DDPiandI-10/DDPhcell lines，respectively).Themorphological characteristicsofthetwocellines wereobservedmicroscopically.Theresistance indexofthecellswasdetermined withMTT assay,and thecellgowth curves weredrawn.hecellularexpressionofresistance-asociated proteins DR1andP-gpwas detectedbyWesternbloting.ThecellinvasionabilitywasassessdwithTranswellassay.ResultsNormal testicularcancercll lineI-10andthetworesistantcellinesallshowedanadherent growthpatte.ComparedwithI-10cels,I-0/DDPcells exhibited slightlyheterogenouscellsizes，irrgularshapes,the presenceof microvili tentaclesonthecellsurfaceanda scatered arrangement.The cisplatinresistance indexof I-10/DDPi and I-10/DDPh celswere 3.924and 3.099,respectively. Compared with I-10, the drug-resistantcelines showed extended doubling time with increased expressonsof MDR1 and P-gp and increased cell invasiveness，which was especially obvious in I-10/DDPi cells. Conclusion Both increasingdose exposureand high-dose exposure tocisplatincaninduce cisplatinresistance intesticularcancercels,and theresistantcels established by the latter method better mimics clinical drug-resistant tumor cells.
+
+Key words: testicular cancer; cisplatin; drug resistance
+
+睾丸癌是20\~34岁青壮年男性最常见的癌症[1。目前临床治疗多以手术切除，放射治疗及化疗3种方式为主，金属铂类化合物在睾丸癌化疗中占有重要地位[2]。统计数据表明，在我国所有的化疗方案中有 $70 \% { \sim } 8 0 \%$ 以铂为主或有铂类药物参加配伍，同时金属铂类药物也成为当前抗肿瘤药物最为活跃的研究开发领域之一[3]
+
+收稿日期:2015-08-19
+
+基金项目：安徽高校自然科学研究项目(KJ2015A180)；蚌埠医学院校级自然科学基金重点项目(BYKY1407ZD);蚌埠医学院研究生科研创新计划项目(Byycxz1420,Byycx1553);高校优秀青年人才支持计划重点项目(gxyqZD2016158)作者简介：李贝贝，硕士研究生，E-mail:18949346662 $@$ 163.com通信作者：童旭辉,博士，副教授,E-mail:bbmctxh $@$ 126.com
+
+顺铂是目前临床应用最广泛的化疗药物之一，用以治疗各种不同类型的癌症，尤其是卵巢癌和睾丸癌[4]。然而肿瘤对顺铂产生耐药性及不良反应(肾毒性和神经毒性等)的发生，严重限制了它的临床应用[5]。
+
+体外建立肿瘤细胞耐药模型是研究肿瘤多药耐药(multidrug resistance,MDR）的重要手段[。常用方法主要有：浓度递增法和大剂量药物冲击法。建立模型的评价方法主要有以下两种：耐药倍数的检测;耐药相关蛋白的检测。常用作检测指标的耐药相关蛋白主要有P-糖蛋白(P-gp)多药耐药蛋白1(MDR1)。MDR发生的机制十分复杂，其中，多药耐药基因MDR编码的P-糖蛋白高表达是耐药的主要机制[8]。P-gp是一种相对分子质量为170000、具有能量依赖性"药泵"功能的跨膜糖蛋白，在人体内主要由MDR1产生。研究表明P-gp转运蛋白能够使化疗药物穿过人体血辜屏(blood-testis barrier,BTB)[9-1o],增加抗肿瘤药物的泵出，进而降低药物疗效，这可能与睾丸癌治疗中发生的耐药有关。目前国内外缺乏小鼠睾丸肿瘤间质细胞I-10顺铂耐药细胞模型，在实验中我们分别采用这两种方法来诱导睾丸癌顺铂耐药细胞株，比较两种睾丸癌耐药株的生物学特性，并初步探索耐药相关蛋白的表达水平，为临床化疗用药提供理论依据,并为下一步的逆转耐药提供基础。
+
+# 1 材料与方法
+
+# 1.1细胞与细胞培养
+
+小鼠辜丸肿瘤间质细胞I-10购自美国ATCC公司，培养于高糖F12培养液，含有 $1 5 \% \mathrm { ( V / V ) }$ 马血清 $. 2 . 5 \%$ (V/V)胎牛血清， $1 0 0 ~ \mathrm { U / m L }$ 青霉素， $1 0 0 ~ \mathrm { U / m L }$ 链霉素。细胞置于 $3 7 \ \mathrm { ^ { \circ } C }$ 含体积分数 $5 \%$ $\mathrm { C O } _ { 2 }$ 以及饱和湿度的细胞培养箱中培养。细胞常规培养于培养瓶中， $0 . 2 5 \%$ 胰蛋白酶溶液消化传代，1周传代2\~3次。
+
+# 1.2主要试剂
+
+F12培养基、胰蛋白酶、马血清均购自Gibco公司;胎牛血清购于杭州四季青公司；四甲基偶氮唑蓝(MTT)、二甲基亚砜(DMSO）、顺铂均购自Sigma-Aldrich公司;多药耐药蛋白1(MDR1)、P糖蛋白(P-gp)均购自Abcam公司;GAPDH、二抗均购自proteintech公司；BCA蛋白浓度测定试剂盒购于Bio-Rad公司；ECL发光试剂盒购于millipore公司；其他常用试剂均为国产分析级。
+
+# 1.3采用两种方法建立I-10耐顺铂细胞株
+
+1.3.1浓度递增法取对数生长期的细胞,将培养液换为含有 $2 ~ \mathrm { \mu m o l / L }$ 顺铂的培养液，培养 $2 4 \mathrm { h }$ 后换为新鲜正常培养液继续培养。当细胞密度达到 $80 \%$ 左右时进行细胞传代，细胞培养正常贴壁后于对数期继续加药，直到细胞在此浓度稳定传代。如此反复换药，依次增加顺铂浓度持续诱导细胞，直到顺铂终浓度达到 $2 6 \mu \mathrm { m o l } / \mathrm { L } _ { \rho }$ ，用此浓度递增法(increasingconcentration)诱导成功的细胞命名为I-10/DDPi,最终将细胞维持在$2 6 \mathrm { \textmu m o l { } L }$ 浓度进行培养以保持其耐药性。在细胞诱导耐药的培养过程中，2\~3d更换1次细胞培养液，细胞维持在 $3 7 ~ \mathrm { ^ { \circ } C } \setminus { 5 \% } \mathrm { C O } _ { 2 }$ 饱和湿度环境培养。
+
+1.3.2大剂量冲击法细胞处于对数生长期时，将培养液换为含有 $2 6 ~ \mathrm { \textmu m o l / L }$ 顺铂的培养液,冲击培养 $2 4 \mathrm { ~ h ~ }$ 后，倒掉含有药物的培养液，换为新鲜正常培养液继续培养，直到存活的细胞重新恢复正常增殖，当细胞密度达到 $80 \%$ 左右时进行细胞传代，传代后继续用此浓度按大剂量冲击(high-dose)诱导培养，最终获得能在$2 6 ~ \mathrm { \textmu m o l / L }$ 浓度顺铂中稳定传代的耐药细胞株命名为$\mathrm { I { - } 1 0 / D D P h }$ 。将细胞维持在 $2 6 ~ \mathrm { \mu m o l / L }$ 浓度进行培养以保持其耐药性。在细胞诱导耐药的培养过程中，每 $2 { \sim } 3 \mathrm { ~ d ~ }$ 更换1次培养液,细胞维持在 $3 7 \%$ （204号 $\mathrm { C O } _ { 2 }$ 饱和湿度环境下进行培养。
+
+# 1.4细胞培养形态学观察
+
+待两株细胞可以稳定传代后，取对数生长期细胞在培养瓶中进行培养，待细胞克隆覆盖率达 $80 \%$ 左右时在倒置显微镜下观察正常和耐药细胞I-10/DDPh及耐药细胞I-10/DDPi的细胞形态并拍照。
+
+# 1.5MTT法-检测细胞存活率
+
+取对数生长期的细胞，用 $3 ~ \mathrm { m L }$ 的 $0 . 2 5 \%$ 胰酶消化后，至细胞变圆，将胰酶倒出，加入培养液终止消化，并用巴氏吸管轻轻吹打至单细胞悬液。按 $5 { \times } 1 0 ^ { 3 } / \mathrm { m L }$ 的密度将实验细胞用F12培养基接种到96孔板，每孔$2 0 0 { \mu \mathrm { L } }$ ,细胞贴壁生长 $2 4 \mathrm { h }$ 后，弃去培养液，加入8种浓度 $( 0 , 2 , 4 , 8 , 1 6 , 3 2 , 6 4 , 1 2 8 \mathrm { \ : \mu m o l / L ) }$ 的含顺铂完全培养液各 $2 0 0 ~ \mu \mathrm { L }$ ,每组药物浓度设5个复孔。置于 $3 7 \ \mathrm { ^ { \circ } C }$ 、$5 \%$ （20 $\mathrm { C O } _ { 2 }$ 培养箱中培养， $2 4 \mathrm { ~ h ~ }$ 后，每孔加入 $5 ~ \mathrm { m g / m L }$ MTT $1 0 \mu \mathrm { L }$ ，继续孵育。4h后小心缓慢地吸去上清液，每孔加入 $1 5 0 ~ \mu \mathrm { L }$ DMSO,并放置 $3 7 ~ \mathrm { { ^ { \circ } C } }$ 烘箱中孵育 $3 0 ~ \mathrm { m i n }$ 后,于微量震荡器上轻轻震荡 $8 \mathrm { m i n }$ ,使形成的结晶完全溶解。以空白对照组比色校正，在酶联免疫检测仪上测定各孔的A值，波长设为 $5 7 0 \ \mathrm { n m }$ ,根据公式计算细胞的存活率。
+
+细胞存活率(survivingfraction) $\ O =$ A药物处理组-A校正组 $\times 1 0 0 \%$ A对照组-A校正组
+
+# 1.6WesternBlot检测细胞内的耐药相关蛋白的表达
+
+收集不同浓度顺铂诱导的细胞，加入细胞裂解液冰上裂解 $3 0 \mathrm { m i n }$ ，收集细胞蛋白样品，用BCA蛋白定量法测各组蛋白浓度，用细胞裂解液将各组蛋白稀释至相同浓度，与 $2 \times$ 上样缓冲液按1:1混合， $1 0 0 \mathrm { { ^ { \circ } C } }$ 煮沸 $5 \mathrm { m i n }$ 使蛋白变性,每组取蛋白 $2 0 \mu \mathrm { g } , 1 0 \%$ SDS-PAGE电泳 $( 7 0 \mathrm { v }$ $3 0 \operatorname* { m i n } ; 1 0 0 \mathrm { V } , 9 0 \operatorname* { m i n } )$ ；转膜 $( 5 0 \mathrm { V } , 1 5 0 \mathrm { m i n } )$ ；脱脂牛奶室温封闭 $^ { 2 \mathrm { ~ h ~ } }$ ，一抗 $1 : 2 0 0 0$ 稀释， $4 \mathrm { { ^ \circ C } }$ 孵育过夜；TPBS洗涤3次，每次 $1 5 ~ \mathrm { m i n }$ ;ECL发光试剂盒暗室发光、显影、定影。Bio-Rad凝胶成像系统采集图像，并用imageJ软件对目的条带灰度扫描进行定量分析，实验重复3次。
+
+# 1.7Transwell法比较细胞的侵袭能力[1
+
+Transwell小室购自美国Costar公司，Matrigel胶购于美国BD公司。在Transwell小室的内室铺上提前稀释好的(稀释比为1:9)Matrigel胶 $5 0 ~ \mu \mathrm { L }$ ，置于 $3 7 ~ \mathrm { ^ { \circ } C }$ 培养箱中凝固， $3 0 \mathrm { m i n }$ 后待用。取对数生长期细胞,消化，离心，用无血清培养液稀释细胞，使成均匀的单细胞混悬液。细胞计数后，用无血清培养液稀释使细胞密度为$2 \times 1 0 ^ { 5 }$ cells/mL。待Matrigel胶凝为胶状时,在Transwell小室的内室加入 $2 0 0 ~ \mu \mathrm { L }$ 的细胞混悬液,外室加入 ${ 8 0 0 \mu \mathrm { L } }$ 含血清正常培养液，放入 $3 7 \ \%$ （20 $\mathrm { C O } _ { 2 }$ 细胞培养箱中继续培养。 $4 8 \mathrm { ~ h ~ }$ 后终止培养，弃去外室的培养液，用 $4 \%$ 的多聚甲醛固定细胞约 $1 5 \ \mathrm { m i n } , 0 . 1 \%$ 的结晶紫常温染色 $3 0 \mathrm { m i n }$ ,弃去内室液体,用已被 $0 . 1 \%$ 结晶紫润湿的棉签轻轻擦拭内室未侵袭细胞，放入24孔板中置于显微镜下拍照。用imageJ软件对侵袭穿过Transwell小室的细胞数扫描进行定量分析并换算成百分比，实验重复3次。
+
+# 1.8 统计学分析
+
+实验结果使用SPSSstatistics17.0软件进行分析，数据资料以均数 $\cdot \pm$ 标准差表示，两组之间计量资料比较采用t检验，统计图表采用SigmaPlot10.0绘制， $P { < } 0 . 0 5$
+
+为差异有统计学意义。
+
+# 2结果
+
+# 2.1耐药细胞的形态学变化
+
+如图1所示正常睾丸癌I-10细胞及两种方法建立的相应耐药株，均为贴壁生长。正常辜丸癌I-10细胞A形态饱满，大体呈梭形，上皮样，细胞大小大致相同，细胞间相互连接，密集成片。I-10/DDPh睾丸癌细胞B大小不同，形态不规则，轮廓不清，胞浆内有透明颗粒(红色箭头标示)。I-10/DDPi睾丸癌细胞C大小亦不同，形态更不规则，细胞核偶有融合现象，胞浆内亦有透明颗粒，分散排列。两种耐药细胞与正常细胞相比：细胞密度略有降低，表明两种耐药细胞生长速度减慢
+
+![](images/5c0f8f9f8a566b77b0322a4f04d207d0e671d48ba2be99cd3d372f63f2628a7d.jpg)  
+图1倒置显微镜观察细胞形态 Fig.1 Cell morphology observed under an inverted microscope.A: Original magnification: $\times 4 0 0 ;$ B:Original magnification: $\times 1 0 0$
+
+# 2.2耐药细胞对顺铂的耐药指数
+
+用SPSS软件计算半数抑制率(halfmaximalinhibitory concentration, $\mathrm { I C } _ { 5 0 . }$ 值，根据 $\mathrm { I C } _ { 5 0 }$ 值计算出耐药指数(resistance index,RI), $\mathrm { R I } = \stackrel { \cdot } { \mathrm { R I } } =$ 耐药细胞系的 $\mathrm { I C } _ { 5 0 } /$ 亲代细胞系的 $\mathrm { I C } _ { 5 0 } , \mathrm { R I } > 3$ 则认为耐药细胞系的耐药性符合耐药株的要求。图2结果表明：正常睾丸癌I-10细胞的 $\mathrm { I C } _ { 5 0 }$ 为 $2 1 . 4 5 \mu \mathrm { m o l / L } , \mathrm { I - 1 0 / D D P h }$ 细胞的 $\mathrm { I C } _ { 5 0 }$ 为 $6 6 . 5 6 \mu \mathrm { m o l } / \mathrm { L }$ I-10/DDPi细胞的 $\mathrm { I C } _ { 5 0 }$ 为 $8 4 . 1 7 ~ \mu \mathrm { m o l / L }$ ，根据公式计算出I-10/DDPh细胞的耐药指数RI为3.10,I-10/DDPi细胞的耐药指数RI为3.92。两株耐药细胞的耐药指数均大于3,符合耐药株建立要求。
+
+# 2.3Westernblot检测细胞内耐药相关蛋白的表达
+
+图3结果表明：与I-10细胞相比，耐药I-10/DDPi,I-10/DDPh细胞的MDR1、P-gp表达量明显增加，而两种耐药细胞株相比较，I-10/DDPi增加更为明显$( P { < } 0 . 0 5 )$ 。
+
+# 2.4Transwell法比较细胞的侵袭能力
+
+图4结果表明：与正常辜丸癌I-10细胞相比，I-10/DDPi,I-10/DDPh耐药细胞的侵袭力增高 $( P { < } 0 . 0 5 )$ ，而两种耐药细胞株相比较，大剂量冲击法诱导的耐药细胞I-10/DDPh侵袭力增高更明显。
+
+![](images/90c1a082a027e45cffddc18392a2eeae7c4ad29fa3c8f1e1003c18bf085bb6b2.jpg)
+
+![](images/e6a64d1cfbe384cac3a16bb57d5df4bfd05036b61105c56e33b63aa4dbe6cd49.jpg)  
+图2耐药细胞株的存活率 Fig.2 Survival rate of drug-resistant cell lines.A: I-1O/DDPh;B: I-1O/DDPi.
+
+# 3讨论
+
+肿瘤细胞对化疗药物产生耐药是目前导致临床化疗失败的主要原因,成为目前阻碍肿瘤治疗的绊脚石[12]因此，探索睾丸癌产生耐药的原因以及如何改善肿瘤细胞对化疗药物耐药成为目前研究的热点和难点。肿瘤细胞耐药的产生是一个复杂的过程，它的机制广泛牵涉到药物代谢学、病理学、生理学等多个学科，这就决定了肿瘤细胞对化疗药物产生耐药的机制是复杂的，因此体外建立化疗药物耐药细胞株仍然是研究肿瘤细胞耐药机制的重要方法。
+
+目前已知的体外建立耐药细胞株的方法主要有以下儿种：大剂量药物冲击法、药物浓度递增法、药物浓度递增与大剂量药物冲击相结合法、转基因结合药物筛选法。其中药物浓度递增法和大剂量药物冲击法成为临床建立肿瘤细胞化疗耐药模型的常用方法[13]。这两种方法各有优缺点：药物浓度递增法的优点在于诱导耐药细胞的药物剂量循序渐进，细胞培养的外环境逐渐改变，细胞较易耐受，状态较好,缺点在于诱导耐药过程耗时很长，且其化疗药物的作用方式与临床上化疗药物大剂量短疗程的化疗原则存在一定的差异；大剂量药物冲击法的诱导的优点是与临床上大剂量化疗药物冲击的治疗方式相接近，但是缺点在于大剂量药物冲击法的药物浓度很高，细胞培养由于外环境骤变，细胞可能难以耐受，细胞状态较难控制，且耐药性能不稳定。利用药物浓度递增法和大剂量药物冲击法建立的两种耐药细胞株在细胞形态和生物学特性上都有很大的差别，属于不同的细胞亚系[14]。
+
+在本实验的研究中我们采用药物浓度递增法、大剂量药物冲击法这两种方法建立两株睾丸癌耐顺铂细胞株，并分别命名为I-10/DDPi和I-10/DDPh。我们通过研究发现，I-10/DDPi和I-10/DDPh两株耐药细胞在形态上存在着明显的差异。浓度递增法诱导建立的耐药细胞株I-1O/DDPi比大剂量冲击法诱导的耐药细胞株I-10/DDPh的耐药指数高，且倍增时间长，表明I-10/DDPi增殖能力较低。通过对细胞耐药性的研究可以发现,I-10/DDPi细胞MDR1和P-gp在蛋白水平的表达均高于I-10/DDPh，这可能是导致其耐药倍数更高的原因之一。采用Transwell上室底部铺Matrigel基质胶制备的体外重组基底膜侵袭模型，结果显示耐药细胞的侵袭性明显增强，这也可以解释在临床中耐药细胞容易发生远处转移，可能与耐药细胞的侵袭性增强有关。
+
+药物大剂量冲击法建立耐药细胞株的方法与临床化疗治疗的给药方法相似[15]。在临床治疗给药中，为了最大减轻化疗药物的毒副作用，最常用的治疗方式就是大剂量短程给药[15]。通过比较两种方法建立的相应耐药株的生物学特性及耐药相关蛋白表达的变化，得到的实验结果提示药物大剂量冲击法建立的耐药模型更接近临床化疗耐药的实际情况，为后续逆转肿瘤细胞耐药的研究提供基础。
+
+# 参考文献：
+
+[1]郝宗耀,叶元平,刘明,等.152例睾丸肿瘤的临床诊治分析[J].现代
+
+泌尿生殖肿瘤杂志,2013,5(3):139-42.   
+[2]Mendoza J, Martinez J,Hernandez C,et al. Association between ERCC1 and XPA expression and polymorphisms and the response to cisplatin in testicular germ cell tumours［J].Br JCancer, 2013, 109(1): 68-75.   
+[3］张建忠,柯樱,沈佳琳.铂类抗肿瘤药物的研发进展及市场情况[J]. 上海医药,2013,35(23):52-9.   
+[4]Tong X,Dong S,Yu M,et al. Role of heteromeric gap junctions in the cytotoxicity of cisplatin[J].Toxicology,2013,310: 53-60.   
+[5]Sakaeda T, Kadoyama K, Okuno Y.Adverse event profiles of Platinum agents:data mining of the public version of the FDA adverseevent reporting system，AERS,and reproducibility of clinical observations[J]. Int JMed Sci,2011,8(6): 487-91.   
+[6]Liu Z,Qiu M,Tang QL，et al.Establishment and biological characteristics of oxaliplatin-resistant human colon cancer cell lines [J].Chin JCancer,2010,29(7): 661-7.   
+[7］张 峰,岑 娟.肿瘤多药耐药模型的建立与评价方法[J].药物评价研 究,2013(5):377-81.   
+[8］张浩轩,孙小锦,孙一鸣,等.氯喹逆转人鼻咽癌细胞HNE1/DDP的耐 药作用[J].南方医科大学学报,2015,35(5):687-91.   
+[9]Hoque MT,Kis O,De Rosa MF,et al. Raltegravir permeability across blood-tissue barriers and the potential role of drug efflux transporters[J].Antimicrob Agents Chemother, 2015(59): 2572-82.   
+[10]Dankers AC,Roelofs MJ,Piersma AH,et al. Endocrine disruptors differentially target ATP-Binding cassette transporters in the Blood-Testis barrier and affect leydig cell testosterone secretion in vitro[J].Toxicol Sci,2013,136(2): 382-91.   
+[11] Kim KS,Yao L,Lee YC,et al. Hyul-Tong-Ryung suppresses PMA-induced MMP-9 expression by inhibiting AP-1-mediated gene expression via ERK1/2 signaling pathway in MCF-7 human breast cancer cels[J]. Immunopharmacol Immunotoxicol, 2010,32 (4): 600-6.   
+[12]Park DJ, Stoehlmacher J, Zhang W,et al. Thymidylate synthase gene polymorphism predicts response to capecitabine in advanced colorectal cancer[J]. Int JColorectal Dis,2002,17(1): 46-9.   
+[13]延冰,刘国勤,姜永胜,等.高剂量法诱导胃癌铂类耐药细胞株的建立 及其生物学特性[J].山东大学学报:医学版,2014,49(4):49-52,57.   
+[14]Ruzzo A,Graziano F,Kawakami K,et al.Pharmacogenetic profiling and clinical outcome of patients with advanced gastric cancer treated with palliative chemotherapy[J].J Clin Oncol, 2006, 24(12): 1883-91.   
+[15]Zhou W,Gurubhagavatula S,Liu G,et al.Excision repair cross-complementation group 1 polymorphism predicts overall survival in advanced non-small cell lung cancer patients treated with platinum-based chemotherapy[J]. Clin Cancer Res,2004,10 (15): 4939-43.   
+[16]Agrawal V, Brown BN,Beattie AJ,et al. Evidence of innervation following extracellular matrix scaffold-mediated remodelling of muscular tissues[J]. JTissue Eng Regen Med,2009,3(8): 590-600.
+
+（编辑：吴锦雅）

@@ -1,0 +1,529 @@
+[
+    {
+        "type": "text",
+        "text": "One-loop QCD Corrections to Top Quark Decay into a Neutralino and Light Stop ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chong Sheng Li $^ { 1 }$ , Robert J. Oakes $^ 2$ and Jin Min Yang $^ 3$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Physics and Astronomy, Northwestern University, Evanston， Illinois 60208 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We calculate the one-loop QCD corrections to $t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { j } ^ { 0 }$ using dimensional reduction scheme,including QCD and supersymmetric QCD corrections. The analytic expressions for the corrections to the decay width are given，which can easily be extended to $t  \\tilde { \\chi } _ { j } ^ { + } \\tilde { b } _ { i }$ . The numerical results show that the correction amounts to more than a $1 0 \\%$ reduction in the partial width relative to the tree level result.We also compare the corrections in the no-mixing stop case with those in the mixing stop case. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS number: 14.80Dq; 12.38Bx; 14.80.Gt ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The top quark has been dicovered by the CDF and DO Collaborations at the Fermilab Tevatron[1]. In the Standard Model $t  W ^ { + } + b$ is the dominante decay mode. Beyond the SM, in addition to the top decay into possible charged Higgs bosons plus bottom，a potentially important decay channel of the top quark is the supersymmetric decay into a lighter stop plus a neutralino,which has been extensively discussed at tree level[2]. It is generally expected that the lighter of the two stops is significantly lighter than the other squarks because the large top quark Yukawa coupling drives the diagonal stop masses to small alues and enhances the of-diagonal mixing of left-handed and right-handed stops, so the present squark mass limits would not apply to the lighter stop. The best current lower bound on the stop mass is 55GeV and comes from LEP, operating at $\\sqrt { s } = 1 3 0 - 1 4 0$ GeV[3]. The DO experiments at the Tevatron have excluded the existence of a stop lighter than 100 GeV,albeit under certain assumptions[4]. Since the lightest neutralino is the lightest supersymmetric particle the decay $t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { 1 } ^ { 0 }$ could occur in a reasonably large volume of the parameter space with a sizeable branching ratio[2]. The one-loop radiative corrections to both $t  W ^ { + } b$ and $t  H ^ { + } b$ have been calculated [5,6] but the radiative corrections to $t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { j } ^ { 0 }$ and $t  \\tilde { \\chi } _ { j } ^ { + } \\tilde { b } _ { 1 }$ have so far not been calculated. In this paper we present the calculation of the one-loop $O ( \\alpha _ { s } )$ corrections to the top quark decay into the lightest stop plus a neutralino, including both QCD and supersymmetric QCD contributions. Our results can be generalized straightforwardly to the decay $t \\longrightarrow \\tilde { \\chi } _ { j } ^ { + } \\tilde { b } _ { 1 }$ ，where $\\tilde { b } _ { 1 }$ is a light sbottom. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Tree-level ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to make this paper self-contained we first present the relevant interaction Lagrangians of the Minimal Supersymmetric Standard Model (MSSM) and the tree-level decay rates for $t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { j } ^ { 0 }$ . The interactions of top and stop with neutralinos and gluinos are given by the Lagrangians[7] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } _ { t \\tilde { t } _ { i } \\tilde { \\chi } _ { j } ^ { 0 } } = - \\sqrt { 2 } \\bar { t } ( L _ { i j } P _ { L } + R _ { i j } P _ { R } ) \\tilde { \\chi } _ { j } ^ { 0 } \\tilde { t } _ { i } + h . c . ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } _ { t \\tilde { t } _ { i } \\tilde { g } } = - g _ { s } T ^ { a } \\overline { { { t } } } ( a _ { i } - b _ { i } \\gamma _ { 5 } ) \\tilde { g } _ { a } \\tilde { t } _ { i } + h . c . ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { r c l } { a _ { 1 } } & { = } & { { \\cfrac { 1 } { \\sqrt { 2 } } } { \\mathrm { ( c o s ~ } } \\theta - \\sin \\theta { \\mathrm { ) } } , } & { a _ { 2 } = - { \\cfrac { 1 } { \\sqrt { 2 } } } { \\mathrm { ( c o s ~ } } \\theta + \\sin \\theta { \\mathrm { ) } } , } \\\\ { b _ { 1 } } & { = } & { - { \\cfrac { 1 } { \\sqrt { 2 } } } { \\mathrm { ( c o s ~ } } \\theta + \\sin \\theta { \\mathrm { ) } } , } & { b _ { 2 } = { \\cfrac { 1 } { \\sqrt { 2 } } } { \\mathrm { ( s i n ~ } } \\theta - \\cos \\theta { \\mathrm { ) } } , } \\\\ { L _ { 1 j } } & { = } & { A _ { j } \\cos \\theta - C _ { j } \\sin \\theta , } & { L _ { 2 j } = - A _ { j } \\sin \\theta - C _ { j } \\cos \\theta , } \\\\ { R _ { 1 j } } & { = } & { B _ { j } \\cos \\theta - D _ { j } \\sin \\theta , } & { R _ { 2 j } = - B _ { j } \\sin \\theta - D _ { j } \\cos \\theta } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { A _ { j } } } & { { = } } & { { D _ { j } ^ { * } = { \\displaystyle \\frac { g m _ { t } N _ { j 4 } ^ { * } } { 2 m _ { W } \\sin \\beta } } , B _ { j } = C _ { j } ^ { * } + { \\displaystyle \\frac { g N _ { j 2 } ^ { \\prime } } { 2 C _ { W } } } , } } \\\\ { { C _ { j } } } & { { = } } & { { \\displaystyle \\frac { 2 } { 3 } e N _ { j 1 } ^ { \\prime * } - \\frac { 2 } { 3 } \\frac { g S _ { W } ^ { 2 } } { C _ { W } } N _ { j 2 } ^ { \\prime * } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { j 1 } ^ { \\prime } = N _ { j 1 } C _ { W } + N _ { j 2 } S _ { W } , N _ { j 2 } ^ { \\prime } = - N _ { j 1 } S _ { W } + N _ { j 2 } C _ { W } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here $S _ { W } \\equiv \\sin \\theta _ { W } , C _ { W } \\equiv \\cos \\theta _ { W }$ ， $P _ { L , R } \\equiv \\frac { _ 1 } { ^ 2 } ( 1 \\mp \\gamma _ { 5 } )$ ，and $N _ { i j }$ are the elements of the $4 \\times 4$ （20 matrix $N$ defined in Ref.[7],which can be calculated numerically. $T ^ { a } = \\lambda ^ { a } / 2$ are the GellMann matrices and $\\theta$ is the mixing angle between left- and right-handed stops which are related to the mass eigenstates $\\tilde { t } _ { i }$ in Eqs.(1） and (2) by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { l } { { \\tilde { t } _ { 1 } } } \\\\ { { \\tilde { t } _ { 2 } } } \\end{array} \\right) = \\left( \\begin{array} { l l } { { \\cos \\theta } } & { { \\sin \\theta } } \\\\ { { - \\sin \\theta } } & { { \\cos \\theta } } \\end{array} \\right) \\left( \\begin{array} { l } { { \\tilde { t } _ { L } } } \\\\ { { \\tilde { t } _ { R } } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This rotation matrix, Eq. (1O), diagonalizes the stop mass matrix[8] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { \\tilde { t } } ^ { 2 } = \\left( \\begin{array} { c c } { { M _ { \\tilde { t } _ { L } } ^ { 2 } + m _ { t } ^ { 2 } + 0 . 3 5 \\cos ( 2 \\beta ) M _ { Z } ^ { 2 } } } & { { - m _ { t } ( A _ { t } + \\mu \\cot \\beta ) } } \\\\ { { - m _ { t } ( A _ { t } + \\mu \\cot \\beta ) } } & { { M _ { \\tilde { t } _ { R } } ^ { 2 } + m _ { t } ^ { 2 } + 0 . 1 6 \\cos ( 2 \\beta ) M _ { Z } ^ { 2 } } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $M _ { \\tilde { t } _ { L } } ^ { 2 } , M _ { \\tilde { t } _ { R } } ^ { 2 }$ are the soft SUSY-breaking mass terms for left- and right-handed stops, $\\mu$ （20 is the supersymmetric Higgs mass parameter in the superpotential, $A _ { t }$ is the trilinear soft SUSY-breaking parameter, and $\\tan \\beta = v _ { 2 } / v _ { 1 }$ is the ratio of the vacuum expectation values of the two Higgs doublets. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The tree-level Feynman diagram for the decay $t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { j } ^ { 0 }$ is shown in Fig.1(a),and the tree-level partial decay width is given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\Gamma _ { 0 } } } & { { = } } & { { \\displaystyle { \\frac { 1 } { 1 6 \\pi m _ { t } ^ { 3 } } } \\lambda ^ { 1 / 2 } ( m _ { t } ^ { 2 } , m _ { \\tilde { \\chi } _ { j } ^ { 0 } } ^ { 2 } , m _ { \\tilde { t } _ { 1 } } ^ { 2 } ) \\left[ ( | L _ { 1 j } | ^ { 2 } + | R _ { 1 j } | ^ { 2 } ) ( m _ { t } ^ { 2 } + m _ { \\tilde { \\chi } _ { j } ^ { 0 } } ^ { 2 } - m _ { \\tilde { t } _ { 1 } } ^ { 2 } ) \\right. } } \\\\ { { } } & { { } } & { { \\left. + 4 R e ( L _ { 1 j } ^ { * } R _ { 1 j } ) m _ { t } m _ { \\tilde { \\chi } _ { j } ^ { 0 } } \\right] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda ( x , y , z ) = ( x - y - z ) ^ { 2 } - 4 y z$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Virtual corrections ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since the conventional dimensional regularization violates supersymmetry, in our calculation we will use dimensional reduction technique[9], which preserves supersymmetry, for regularization of the ultraviolet divergences in the virtual loop corrections, although there is only a small difference between the both schemes to first order in the QCD and weak couplings. In fact, in dimensional reduction scheme,at the one-loop level the $\\epsilon$ -scalars convert the dimensional regularization result to the result which would be obtained by simply performing the numerator algebra in four dimensions[9]. To regulate the infrared divergences associated with soft and collinear gluon emission we will give the gluon a small finite mass （204号 $\\lambda$ which is legitimate for our purposes since the non-Abelian nature of QCD does not show up in this order. We will also adopt the on-shell renormalization scheme[10] in which the coupling constant and the physical masses are chosen to be the renormalized parameters. The finite parts of the counterterms are then fixed by the renormalization conditions that the quark and the squark propagators have poles at their physical masses. For the QCD and SUSY-QCD corrections to the decay $t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { j } ^ { 0 }$ ， which we are considering, only the top quark mass and the stop mixing angle in the bare coupling need to be renormalized. By introducing appropriate counterterms the renormalized amplitude can be expressed as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { r e n } = - i \\sqrt { 2 } \\bar { u } ( \\tilde { \\chi } _ { j } ^ { 0 } ) ( a P _ { R } + b P _ { L } ) u ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { a } } & { { = } } & { { L _ { 1 j } ^ { * } + \\delta L _ { 1 j } ^ { * } + L _ { 1 j } ^ { * } ( \\frac { 1 } { 2 } \\delta Z _ { t } ^ { R } + \\frac { 1 } { 2 } \\delta Z _ { 1 1 } ) + L _ { 2 j } ^ { * } \\delta Z _ { 1 2 } + \\Lambda _ { R } ^ { Q C D } + \\Lambda _ { R } ^ { S U S Y - Q C D } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { b } } & { { = } } & { { R _ { 1 j } ^ { * } + \\delta R _ { 1 j } ^ { * } + R _ { 1 j } ^ { * } ( \\frac { 1 } { 2 } \\delta Z _ { t } ^ { L } + \\frac { 1 } { 2 } \\delta Z _ { 1 1 } ) + R _ { 2 j } ^ { * } \\delta Z _ { 1 2 } + \\Lambda _ { L } ^ { Q C D } + \\Lambda _ { L } ^ { S U S Y - Q C D } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\Lambda _ { L , R } ^ { Q C D }$ and $\\Lambda _ { L , R } ^ { S U S Y - Q C D }$ e expressions for which will be given below. $\\delta L _ { 1 j } ^ { * }$ and $\\delta R _ { 1 j } ^ { * }$ are the shifts from the bare couplings to renormalized couplings and ,as mentioned above,can be found by renormalizing the top quark mass and the stop mixing angle: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\delta L _ { 1 j } ^ { * } } } & { { = } } & { { L _ { 2 j } ^ { * } \\delta \\theta + L _ { 1 j } ^ { * ( m _ { t } ) } \\displaystyle \\frac { \\delta m _ { t } } { m _ { t } } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\delta R _ { 1 j } ^ { * } } } & { { = } } & { { R _ { 2 j } ^ { * } \\delta \\theta + R _ { 1 j } ^ { * ( m _ { t } ) } \\displaystyle \\frac { \\delta m _ { t } } { m _ { t } } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { L _ { 1 j } ^ { * ( m _ { t } ) } } } & { { = } } & { { A _ { j } ^ { * } \\cos { \\theta } , ~ R _ { 1 j } ^ { * ( m _ { t } ) } = - D _ { j } ^ { * } \\sin { \\theta } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The counterterms and the renormalization constants in Eqs.(14)-(17) are defined by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { m _ { t } ^ { 0 } } } & { { = } } & { { m _ { t } + \\delta m _ { t } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\theta ^ { 0 } } } & { { = } } & { { \\theta + \\delta \\theta , } } \\\\ { { } } & { { } } & { { } } \\\\ { { t ^ { 0 } } } & { { = } } & { { Z _ { t } ^ { 1 / 2 } t = ( 1 + \\delta Z _ { t } ^ { L } P _ { L } + \\delta Z _ { t } ^ { R } P _ { R } ) ^ { 1 / 2 } t , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { t } _ { 1 } ^ { 0 } = ( 1 + \\delta Z _ { 1 1 } ) ^ { 1 / 2 } \\tilde { t } _ { 1 } + \\delta Z _ { 1 2 } \\tilde { t } _ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Calculating the self-energy diagrams for the top quark in Figs. 1(b) and $2 ( \\mathrm { a } )$ we obtain ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\displaystyle \\frac { \\delta m _ { t } } { m _ { t } } } } & { { = } } & { { \\displaystyle \\frac { \\alpha _ { s } C _ { F } } { 4 \\pi } \\left[ - 2 \\Delta + 4 F _ { 0 } ^ { ( t t g ) } - 2 F _ { 1 } ^ { ( t t g ) } - \\frac { m _ { \\tilde { g } } } { m _ { t } } \\alpha _ { i i } F _ { 0 } ^ { ( t \\tilde { g } \\tilde { t } _ { i } ) } - \\sigma _ { i i } F _ { 1 } ^ { ( t \\tilde { g } \\tilde { t } _ { i } ) } \\right] , } } \\\\ { { \\delta Z _ { t } ^ { L } } } & { { = } } & { { \\displaystyle \\frac { \\alpha _ { s } C _ { F } } { 4 \\pi } \\left[ - 2 \\Delta + 2 F _ { 1 } ^ { ( t t g ) } + m _ { t } ^ { 2 } ( 4 G _ { 1 } ^ { ( t t g ) } - 8 G _ { 0 } ^ { ( t t g ) } ) + \\left( \\sigma _ { i i } - \\lambda _ { i i } \\right) F _ { 1 } ^ { ( t \\tilde { g } \\tilde { t } _ { i } ) } \\right. } } \\\\ { { } } & { { } } & { { \\displaystyle \\left. + 2 m _ { t } ^ { 2 } \\sigma _ { i i } G _ { 1 } ^ { ( t \\tilde { g } \\tilde { t } _ { i } ) } + 2 m _ { t } m _ { \\tilde { g } } \\alpha _ { i i } G _ { 0 } ^ { ( t \\tilde { g } \\tilde { t } _ { i } ) } \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\delta Z _ { t } ^ { R } } } & { { = } } & { { \\displaystyle \\frac { \\alpha _ { s } C _ { F } } { 4 \\pi } \\left[ - 2 \\Delta + 2 F _ { 1 } ^ { ( t t g ) } + m _ { t } ^ { 2 } ( 4 G _ { 1 } ^ { ( t t g ) } - 8 G _ { 0 } ^ { ( t t g ) } ) + ( \\sigma _ { i i } + \\lambda _ { i i } ) F _ { 1 } ^ { ( t \\bar { g } \\tilde { t } _ { i } ) } \\right. } } \\\\ { { } } & { { } } & { { \\left. + 2 m _ { t } ^ { 2 } \\sigma _ { i i } G _ { 1 } ^ { ( t \\bar { g } \\tilde { t } _ { i } ) } + 2 m _ { t } m _ { \\bar { g } } \\alpha _ { i i } G _ { 0 } ^ { ( t \\bar { g } \\tilde { t } _ { i } ) } \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where the sum over $i ( = 1 , 2 )$ is implied,and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\sigma _ { i j } } } & { { = } } & { { a _ { i } a _ { j } + b _ { i } b _ { j } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\alpha _ { i j } } } & { { = } } & { { a _ { i } a _ { j } - b _ { i } b _ { j } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\lambda _ { i j } } } & { { = } } & { { a _ { i } b _ { j } + a _ { j } b _ { i } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { { \\cal F } _ { n } ^ { ( i j k ) } } } & { { = } } & { { \\displaystyle \\int _ { 0 } ^ { 1 } d y y ^ { n } \\log \\left[ \\frac { m _ { i } ^ { 2 } y ( y - 1 ) + m _ { j } ^ { 2 } ( 1 - y ) + m _ { k } ^ { 2 } y } { \\mu ^ { 2 } } \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { n } ^ { ( i j k ) } = - \\int _ { 0 } ^ { 1 } d y \\frac { y ^ { n + 1 } ( 1 - y ) } { m _ { i } ^ { 2 } y ( y - 1 ) + m _ { j } ^ { 2 } ( 1 - y ) + m _ { k } ^ { 2 } y } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Here, $\\begin{array} { r } { \\Delta \\equiv \\frac { 1 } { \\epsilon } - \\gamma _ { E } + \\log 4 \\pi } \\end{array}$ with $\\gamma _ { E }$ being the Euler constant and $D = 4 - 2 \\epsilon$ is the space-time dimension. The color factor $C _ { F } = 4 / 3$ for $S U ( 3 )$ and $\\mu$ is the ’t Hooft mass parameter in the dimensional regularization scheme. Similarly, from Fig. 1(c),2(b) and $2 ( \\mathrm { d } )$ , one finds, for the stop, ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\delta Z _ { 1 1 } } } & { { = } } & { { \\displaystyle \\frac { \\alpha _ { s } C _ { F } } { 4 \\pi } \\left[ - F _ { 0 } ^ { ( \\tilde { t } _ { 1 } \\tilde { t } _ { 1 } g ) } - 2 F _ { 1 } ^ { ( \\tilde { t } _ { 1 } \\tilde { t } _ { 1 } g ) } - 2 m _ { \\tilde { t } _ { 1 } } ^ { 2 } ( G _ { 0 } ^ { ( \\tilde { t } _ { 1 } \\tilde { t } _ { 1 } g ) } + G _ { 1 } ^ { ( \\tilde { t } _ { 1 } \\tilde { t } _ { 1 } g ) } ) \\right. } } \\\\ { { } } & { { } } & { { \\left. + 4 [ F _ { 1 } ^ { ( \\tilde { t } _ { 1 } t \\tilde { g } ) } + m _ { \\tilde { t } _ { 1 } } ^ { 2 } G _ { 1 } ^ { ( \\tilde { t } _ { 1 } t \\tilde { g } ) } - m _ { t } ^ { 2 } G _ { 0 } ^ { ( \\tilde { t } _ { 1 } t \\tilde { g } ) } \\left. + m _ { t } m _ { \\tilde { g } } \\sin ( 2 \\theta ) G _ { 0 } ^ { ( \\tilde { t } _ { 1 } t \\tilde { g } ) } \\right] , \\right. } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\begin{array} { l } { { \\delta Z _ { 1 2 } } } \\end{array} = \\displaystyle { \\frac { \\alpha _ { s } C _ { F } } { 4 \\pi } } \\cos ( 2 \\theta ) \\{ ( \\frac { 4 m _ { t } m _ { \\tilde { g } } } { m _ { \\tilde { t } _ { 2 } } ^ { 2 } - m _ { \\tilde { t } _ { 1 } } ^ { 2 } } + \\sin ( 2 \\theta ) ) \\Delta    \\\\ { { \\displaystyle ~ + \\frac { 1 } { m _ { \\tilde { t } _ { 1 } } ^ { 2 } - m _ { \\tilde { t } _ { 2 } } ^ { 2 } } [ \\sin ( 2 \\theta ) ( \\bar { A } _ { 0 } ( m _ { \\tilde { t } _ { 1 } } ) - \\bar { A } _ { 0 } ( m _ { \\tilde { t } _ { 2 } } ) ) + 4 m _ { t } m _ { \\tilde { g } } F _ { 0 } ^ { ( \\tilde { t } _ { 1 } t \\tilde { g } ) } ] \\} } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { A } _ { 0 } ( m ) = m ^ { 2 } \\left[ 1 - \\log ( \\frac { m ^ { 2 } } { \\mu ^ { 2 } } ) \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We have fixed the wave function renormalization constants and the top quark mass counterterm by the on mass-shell renormalization scheme condition. The mixing angle counterterm is fixed by the requirement that $\\delta \\theta$ exactly cancel the remainder of the sum of all the ultraviolet(UV) divergent terms in the square of the renormalized ampltude, insuring the UV finiteness of the physical observables. From this requirement we found that the mixing angle counterterm simply is the negative of the counterterm $\\delta Z _ { 1 2 }$ ; that is, ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta \\theta = - \\delta Z _ { 1 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This condition insures that allthe ultraviolet divergences will cancel in the virtual corrections to the decay width, as will be seen below,and is in agreement with Ref.[11]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The calculations of the irreducible vertex corrections from Fig. 1(d) and 2(c) results in ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l l } { { \\Lambda ^ { Q C D } } } & { { = } } & { { \\Lambda _ { L } ^ { Q C D } P _ { L } + \\Lambda _ { R } ^ { Q C D } P _ { R } } } \\\\ { { } } & { { = } } & { { { \\displaystyle { \\frac { \\alpha _ { s } C _ { F } } { 4 \\pi } } \\left\\{ ( L _ { 1 j } ^ { * } P _ { R } + R _ { 1 j } ^ { * } P _ { L } ) [ \\Delta + 4 \\bar { C } _ { 2 4 } \\quad \\right.}  } }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { + m _ { t } ^ { 2 } ( 2 C _ { 0 } + 2 C _ { 1 1 } - C _ { 1 2 } + C _ { 2 1 } - C _ { 2 3 } ) + m _ { \\tilde { t } _ { 1 } } ^ { 2 } ( 2 C _ { 0 } + 2 C _ { 1 1 } } } \\\\ { { + C _ { 1 2 } + C _ { 2 3 } ) - m _ { \\tilde { \\chi } _ { j } ^ { 0 } } ^ { 2 } ( 2 C _ { 0 } + 2 C _ { 1 1 } - C _ { 1 2 } - C _ { 2 2 } + C _ { 2 3 } ) ] } } \\\\ { { + 2 ( L _ { 1 j } ^ { * } P _ { L } + R _ { 1 j } ^ { * } P _ { R } ) m _ { t } m _ { \\tilde { \\chi } _ { j } ^ { 0 } } ( C _ { 1 1 } - C _ { 1 2 } ) \\Big \\} ( - p , k _ { 1 } , \\lambda , m _ { t } , m _ { \\tilde { t } _ { 1 } } ) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\langle \\mathbf { \\hat { y } } \\cdot \\mathbf { x } \\rangle = } & { \\ : - \\ : \\Delta _ { x } ^ { \\mathrm { a c } , \\mathrm { c v } , \\mathrm { e x d } } \\ : \\ : \\mathcal { F } _ { \\hat { F } _ { 1 } } ^ { \\dagger } \\otimes \\ : \\ : \\Delta _ { x } ^ { \\mathrm { a c } , \\mathrm { c v } , \\mathrm { e x d } } \\ : \\ : \\mathcal { F } _ { \\hat { F } _ { 1 } } ^ { \\dagger } } \\\\ & { = \\ : \\ : \\Delta _ { x } ^ { \\mathrm { a c } , \\mathrm { c v } , \\mathrm { f } } \\ : ( | ( \\mathbf { E } _ { x } - \\mathbf { E } _ { x } ) \\cdot ( \\mathbf { E } _ { y } - \\mathbf { E } _ { \\hat { F } _ { 1 } } ) \\cdot ( \\mathbf { E } _ { y } + \\mathbf { E } _ { \\hat { F } _ { 1 } } ) | ^ { 2 } ) , } \\\\ & { \\ : \\ : \\ : \\ : \\ : \\ : \\ : \\ : \\ : \\ : } \\\\ &  \\ : \\ : \\ : \\ : ( \\begin{array} { l l l } { R _ { 2 } } & { \\bar { y } _ { 2 } , \\mathrm { e x d } \\ : \\ : \\mathcal { P } _ { 1 } } & { R _ { 2 } \\ : \\mathrm { i n } \\ : 2 \\ : R _ { 1 } / \\ : R _ { 1 } / \\ : \\Delta _ { x } } \\\\ { \\ : ( \\Delta _ { x } ^ { \\mathrm { a c } , \\mathrm { i n } } ) \\ : ( \\mathbf { E } _ { x } + \\mathbf { w } _ { 1 } ^ { \\mathrm { c d } , \\mathrm { c v } , \\mathrm { e x d } } ) \\ : \\ : R _ { 1 } \\ : \\ : \\ : \\ : \\ : \\ : \\ :  } \\\\ { \\ :  ( \\mathbf { S } _ { x } ^ { \\mathrm { a c } , \\mathrm { i n } } ) \\ : ( \\mathbf { E } _ { x } + \\mathbf { w } _ { 1 } ^ { \\mathrm { c d } , \\mathrm { c v } , \\mathrm { e x d } } ) \\ : \\ : ( \\mathbf { E } _ { x } + \\mathbf { E } _ { \\hat { F } _ { 1 } } ) \\cdot ( \\mathbf { E } _ { x } ) \\ : ( \\mathbf { E } _ { x } + \\mathbf { E } _ { \\hat { F } _ { 1 } } ) \\ : ( \\mathbf { E } _ { y } + \\mathbf { E } _ { \\hat { F } _ { 1 } } ) \\ : ( \\mathbf { E } _ { x } ) | ^ { 2 } } \\\\ &  \\ : \\ : \\ : +  ( \\mathbf { S } _ { x } ^ { \\mathrm { a c } , \\mathrm { c v } , \\mathrm { i n } } &  \\ : ( \\mathbf { S } _ { x } ) \\ : ( \\mathbf { E } _ { y } + \\mathbf { E } _ { \\hat { F } _ { 1 } } ) \\ : ( \\mathbf { E } _ { x } ) \\ : ( \\mathbf { E } _ { y } + \\mathbf { B } _ { x } ^  \\mathrm { a c } , \\mathrm { c v } \\end{array} \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "respectively, where the sum over $i ( = 1 , 2 )$ is implied.In Eqs.(35) and (36) ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l c l c l } { { S _ { j i } ^ { ( 1 ) } } } & { { = } } & { { ( \\alpha _ { 1 i } + \\beta _ { 1 i } ) R _ { i j } , } } & { { S _ { j i } ^ { ( 2 ) } = ( \\alpha _ { 1 i } - \\beta _ { 1 i } ) L _ { i j } , } } \\\\ { { S _ { j i } ^ { ( 3 ) } } } & { { = } } & { { ( \\alpha _ { 1 i } + \\beta _ { 1 i } ) L _ { i j } , } } & { { S _ { j i } ^ { ( 4 ) } = ( \\alpha _ { 1 i } - \\beta _ { 1 i } ) R _ { i j } , } } \\\\ { { S _ { j i } ^ { ( 5 ) } } } & { { = } } & { { ( \\sigma _ { 1 i } - \\lambda _ { 1 i } ) L _ { i j } , } } & { { S _ { j i } ^ { ( 6 ) } = ( \\sigma _ { 1 i } + \\lambda _ { 1 i } ) R _ { i j } } } \\\\ { { S _ { i j } ^ { ( 7 ) } } } & { { = } } & { { ( \\sigma _ { 1 i } + \\lambda _ { 1 i } ) L _ { i j } , } } & { { S _ { j i } ^ { ( 8 ) } = ( \\sigma _ { 1 i } - \\lambda _ { 1 i } ) R _ { i j } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { i j } = a _ { i } b _ { j } - b _ { i } a _ { j }$ ，and $C _ { 0 }$ ， $C _ { i j }$ are the three-point Feynman integrals given in the appendices of Ref. [12]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The virtual correction to the decay rate is then ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\star } } & { { = } } & { { \\displaystyle \\frac { 1 } { 1 6 \\pi m _ { t } ^ { 3 } } \\lambda ^ { 1 / 2 } ( m _ { t } ^ { 2 } , m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } } ^ { 2 } , m _ { \\tilde { t } _ { 1 } } ^ { 2 } ) R e \\left\\{ 2 ( m _ { t } ^ { 2 } + m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } } ^ { 2 } - m _ { \\tilde { t } _ { 1 } } ^ { 2 } ) \\left[ ( L _ { 1 j } L _ { 2 j } ^ { * } + R _ { 1 j } R _ { 2 j } ^ { * } ) ( \\delta \\theta - m _ { t } ^ { 2 } ) \\right. \\right. } } \\\\ { { } } & { { } } & { { \\displaystyle \\left. \\left. + ( L _ { 1 j } L _ { 1 j } ^ { * ( m _ { t } ) } + R _ { 1 j } R _ { 1 j } ^ { * ( m _ { t } ) } ) \\frac { \\delta m _ { t } } { m _ { t } } + ( | L _ { 1 j } | ^ { 2 } + | R _ { 1 j } | ^ { 2 } ) ( \\frac { 1 } { 2 } \\delta Z _ { 1 1 } + \\delta _ { 0 } ^ { Q C D } ) \\right. \\right. } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\displaystyle } & { + \\frac { 1 } { 2 } \\big ( | L _ { 1 j } | ^ { 2 } \\delta Z _ { t } ^ { R } + | R _ { 1 j } | ^ { 2 } \\delta Z _ { t } ^ { L } \\big ) + \\big ( L _ { 1 j } S _ { j } ^ { ( 1 ) } + R _ { 1 j } S _ { j } ^ { ( 2 ) } \\big ) \\delta _ { 0 } ^ { S U S Y - Q C D } + L _ { 1 j } \\delta _ { 1 } + R _ { 1 j } \\delta _ { 2 } \\Big ] } & \\\\ { \\displaystyle } & { + 4 m _ { t } m _ { \\tilde { X } _ { j } ^ { 0 } } \\bigg [ \\big ( L _ { 1 j } R _ { 2 j } ^ { * } + R _ { 1 j } L _ { 2 j } ^ { * } \\big ) \\big ( \\delta \\theta + \\delta Z _ { 1 2 } \\big ) + \\big ( L _ { 1 j } R _ { 1 j } ^ { * ( m _ { t } ) } + R _ { 1 j } L _ { 1 j } ^ { * ( m _ { t } ) } \\big ) \\frac { \\delta m _ { t } } { m _ { t } } } & \\\\ { \\displaystyle } & { + \\big ( L _ { 1 j } R _ { 1 j } ^ { * } + R _ { 1 j } L _ { 1 j } ^ { * } \\big ) \\big ( \\frac { 1 } { 2 } \\delta Z _ { 1 1 } + \\delta _ { 0 } ^ { Q C D } \\big ) + \\frac { 1 } { 2 } \\big ( L _ { 1 j } R _ { 1 j } ^ { * } \\delta Z _ { t } ^ { L } + R _ { 1 j } L _ { 1 j } ^ { * } \\delta Z _ { t } ^ { R } \\big ) } & \\\\ { \\displaystyle } & { + \\big ( L _ { 1 j } S _ { j } ^ { ( 2 ) } + R _ { 1 j } S _ { j } ^ { ( 1 ) } \\big ) \\delta _ { 0 } ^ { S U S Y - Q C D } + L _ { 1 j } \\delta _ { 2 } + R _ { 1 j } \\delta _ { 1 } \\Big ] \\Big \\} , } & { \\quad } & { { \\mathrm { ( . } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta _ { 0 } ^ { Q C D }$ and $\\delta _ { 0 } ^ { S U S Y - Q C D }$ are the UV divergent partsof the QCDandSUSY-QCD vertex corrections, respectively. These are given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { 0 } ^ { Q C D } = \\delta _ { 0 } ^ { S U S Y - Q C D } = \\frac { \\alpha _ { s } C _ { F } } { 4 \\pi } \\Delta ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and δ1, δ1,S(1) and $S _ { j } ^ { ( 2 ) }$ are defined to be",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\delta _ { 1 } } } & { { = } } & { { ( \\Lambda _ { R } ^ { Q C D } + \\Lambda _ { R } ^ { S U S Y - Q C D } ) _ { \\mathrm { f i n i t e } } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\delta _ { 2 } } } & { { = } } & { { ( \\Lambda _ { L } ^ { Q C D } + \\Lambda _ { L } ^ { S U S Y - Q C D } ) _ { \\mathrm { f i n i t e } } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { S _ { j } ^ { ( 1 ) } } } & { { = } } & { { - R _ { 2 j } - R _ { 2 j } \\cos 2 \\theta - R _ { 1 j } \\sin 2 \\theta , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { S _ { j } ^ { ( 2 ) } } } & { { = } } & { { L _ { 2 j } - L _ { 2 j } \\cos 2 \\theta - L _ { 1 j } \\sin 2 \\theta . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We have checked analytically that allthe ultraviolet divergences indeed cancel in the virtual corrections to the decay width, but the infrared divergent terms presist. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Real corrections ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As is well known[13], to cancel the infrared divergences in the virtual corrections one needs to include real gluon emission, namely, $t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { j } ^ { 0 } g$ , as shown in Figs.1(e,f). As above, we will regulate the infrared divergences associated with the soft and collinear real gluon emission by the same finite small gluon mass $\\lambda$ . In the calculation of the corrections due to real gluon emisson to the partial width, it was necessary to perform the integration over the three-body phase space. After tedious but straightfoward calculations we obtained ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l c l } { { \\mathrm { : } \\Gamma _ { r e a l } } } & { { = } } & { { \\frac { \\alpha _ { s } C _ { F } } { 4 \\pi } \\frac { 1 } { 2 \\pi m _ { t } } \\Big \\{ ( | L _ { 1 j } | ^ { 2 } + | R _ { 1 j } | ^ { 2 } ) [ I + I _ { 0 } ^ { 1 } - 2 ( m _ { t } ^ { 4 } - ( m _ { \\tilde { \\chi } _ { j } ^ { 0 } } ^ { 2 } - m _ { \\tilde { \\ell } _ { 1 } } ^ { 2 } ) ^ { 2 } ) I _ { 0 1 } } } \\\\ { { } } & { { } } & { { + 2 ( m _ { \\tilde { \\ell } _ { 1 } } ^ { 2 } - m _ { t } ^ { 2 } - m _ { \\tilde { \\chi } _ { j } ^ { 0 } } ^ { 2 } ) ( I _ { 0 } + I _ { 1 } + m _ { t } ^ { 2 } I _ { 0 0 } + m _ { \\tilde { \\ell } _ { 1 } } ^ { 2 } I _ { 1 1 } ) \\Big \\} } } \\\\ { { } } & { { } } & { { + 8 m _ { t } m _ { \\tilde { \\chi } _ { j } ^ { 0 } } R e ( L _ { 1 j } ^ { * } R _ { 1 j } ) [ ( m _ { \\tilde { \\chi } _ { j } ^ { 0 } } ^ { 2 } - m _ { t } ^ { 2 } - m _ { \\tilde { \\ell } _ { 1 } } ^ { 2 } ) I _ { 0 1 } - m _ { \\tilde { \\ell } _ { 1 } } ^ { 2 } I _ { 1 1 } - m _ { t } ^ { 2 } I _ { 0 0 } - I _ { 0 } - m _ { t } ^ { 2 } I _ { 0 0 } ] . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Here we adopt the notation of Ref.[14] where the definition of the functions $I _ { i } , I _ { i j } ( m _ { t } , m _ { \\tilde { t } _ { 1 } } , m _ { \\tilde { \\chi } _ { j } ^ { 0 } } )$ （204号 can be found. We also have checked numerically that the infrared divergences in $\\delta \\Gamma _ { r e a l }$ and （204号 $\\delta \\Gamma _ { v i r t }$ do indeed cancel. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.Numerical results and discussions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the following we give the numerical results for $t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { 1 } ^ { 0 }$ ，where $\\tilde { \\chi } _ { 1 } ^ { 0 }$ is the lightest neutralino. In our numerical calculation we fixed $M \\ = \\ 2 0 0$ GeV, $\\mu ~ = ~ - 1 0 0$ GeV and we used the relation $\\begin{array} { r } { M ^ { \\prime } = \\frac { 5 } { 3 } \\frac { g ^ { \\prime 2 } } { g ^ { 2 } } M } \\end{array}$ [7] to fix $M ^ { \\prime }$ .For the parameters in stop sector we assumed $M _ { \\tilde { t } _ { R } } = M _ { \\tilde { t } _ { L } }$ and took the combination $A _ { t } + \\mu \\cot \\beta$ to be one parameter. Note that $( A _ { t } + \\mu \\cot \\beta ) = 0$ corresponds to the case of no mixing in the stop mass matrix, Eq.(11). There are then three free parameters in the stop sector and we chose $m _ { \\tilde { t } _ { 1 } } , \\tan \\beta$ ，and $( A _ { t } + \\mu \\cot \\beta )$ as the three independent parameters. Other input parameters are （204 $m _ { Z } = 9 1 . 1 8 8 G e V$ ：， $\\alpha _ { e m } = 1 / 1 2 8 . 8$ ，and $G _ { F } = 1 . 1 6 6 3 7 2 \\times 1 0 ^ { - 5 } ( G e V ) ^ { - 2 }$ .The $W$ mass was determined from [15] ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { W } ^ { 2 } ( 1 - \\frac { m _ { W } ^ { 2 } } { M _ { Z } ^ { 2 } } ) = \\frac { \\pi \\alpha } { \\sqrt { 2 } G _ { F } } \\frac { 1 } { 1 - \\Delta r } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where,for a heavy top, $\\Delta r$ is given by [16] ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta r \\sim - \\frac { \\alpha N _ { C } c _ { W } ^ { 2 } m _ { t } ^ { 2 } } { 1 6 \\pi ^ { 2 } s _ { W } ^ { 4 } m _ { W } ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the relative correction to the decay rate $\\delta \\Gamma / \\Gamma _ { 0 }$ ， $\\Gamma _ { 0 }$ being the tree-level rate,as a function of the lighter stop mass assuming $m _ { \\tilde { g } } = 5 0 0 0$ GeV and $\\tan \\beta = 1 1$ .The solid curve in Fig.3 corresponds to $A _ { t } + \\mu \\cot \\beta = 0$ ， the no-mixing case,while the dotted curve corresponds to $A _ { t } + \\mu \\cot \\beta = 1 0 0 \\mathrm { G e V }$ ，a mixing case. Note that in Fig.3 the lightest neutralino mass is $m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } ~ = ~ 6 8$ GeV. It is clear that the correction in the mixing case is larger than in the no-mixing case and can reach -20% for $m _ { \\tilde { t } _ { 1 } } = 1 0 0$ GeV. Figure 4 shows the dependence of the relative correction to the decay width on the value of gluino mass for $m _ { \\tilde { t } _ { 1 } } = 5 0$ GeV. Other parameter values are the same as in Fig.3. For the solid curve $m _ { \\tilde { t } _ { 1 } } = 5 0$ GeV and $m _ { \\tilde { t } _ { 2 } } = 6 4$ GeV and there are two peaks at $m _ { \\tilde { g } } = 1 1 2$ GeV and $m _ { \\tilde { g } } = 1 2 6$ （204 GeV due to the fact that $m _ { t } = 1 7 6$ GeV and the threshod for open top decay into gluino and stop is crossed in these regions. For the dashed curve $m _ { \\tilde { t } _ { 1 } } = 5 0$ GeV and $m _ { \\tilde { t } _ { 2 } } = 1 9 4$ （20 GeV and there is only one peak at $m _ { \\tilde { g } } = 1 2 6$ GeV. When the gluino mass is heavier than 200 GeV the correction in the mixing case is larger than in the no-mixing case and both corrections increase with gluino mass. Decoupling effects do not occur here, in contrast to the virtual SUSY corections to the decay and production processes in the SM. In Figure 5 we present the dependence of the relative correction to the decay width on the value of $\\tan \\beta$ （204号 assuming $m _ { \\tilde { g } } = 5 0 0$ GeV, $m _ { \\tilde { t } _ { 1 } } = 5 0$ GeV and $A _ { t } + \\mu \\cot \\beta = 1 0 0$ GeV.Only in the region where $\\tan \\beta < 2$ is the correction to the decay width very sensitive to the value of $\\tan \\beta$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, we have shown that the one-loop QCD and SUSY-QCD corrections to （204 $t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { j } ^ { 0 }$ can exceed -1O% of the tree level partial width in both the no-mixing and the mixing case of stop masses, and these corrections are not sensitive to $\\tan \\beta$ for $\\tan \\beta > 2$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note added: While preparing this manuscript the preprint of A.Djouadi， W.Hollik and C.Junger (hep-ph/9605340) appeared where the QCD correction to the process $t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { j } ^ { 0 }$ is also calculated. But Eq.(14) of their original paper were not correct. Very recently, in their revised version this mistake has been corrected by them. We thank W.Majerotto for useful communication. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This work was supported in part by the U.S. Department of Energy, Division of High Energy Physics, under Grant No. DE-FG02-91-ER4086. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] CDF Collaboration, Phys.Rev.Lett. 74, 2626(1995); D0 Collaboration, Phys.Rev.Lett. 74, 2632(1995).   \n[2] For a review see: W.Bernreuther et al., in $e ^ { + } e ^ { - }$ Collisions at 50o GeV: The Physics Potential, P.Zerwas (Ed.), DESY 92-123A(1992), Vol.I, p.255; R.M.Barnett, R.Cruz, J.F.Gunion and B.Hubbard, Phys.Rev.D47(1993)1048; K.Hidaka, Y.Kizukuri and T.Kon, Phys.Lett.B278(1992)155; H.Baer, M.Drees, R.Godbole, J.F.Gunion and X.Tata, Phy.Rev.D44(1991)725; M.Dree and D.P.Roy, Phys.Lett.B269(1991)155; R.M.Godbole and D.P.Roy, Phys.Rev.D43(1991)3640; V.Barger and R.J.N.Phillips, Phys.Rev.D44(1990)884; H.Baer and X.Tata, Phys.Lett.B167(1986)241; F.Borzumati and N.Polonsky, Report TMU-T31-87/95, hep-ph/9602433.   \n[3] L.Rolandi (ALEPH), H.Dijkstra (DELPHI), D.Strickland (L3), G.Wilson (OPAL), Joint Seminar on the First Results of LEP1.5, CERN, December 12, 1995; ALEPH Coll., CERN-PPE/96-10, Jan. 1996; L3 Coll., H.Nowak and A.Sopczak, L3 Note 1887, Jan. 1996; Opal Coll., S.Asai and S.Komamiya, OPAL Physics Note PN-205, Feb.1996.   \n[4] The D0 Collaboration, FERMILAB-Conf-95/186-E, proc. of the 10th Topical Workshop on Proton-Antiproton Collider Physics, FNAL(1995).   \n[5] J.Jezabek and J.H.Kuhn, Nucl.Phys.B314(1989)1; C.S.Li, R.J.Oakes and T.C.Yuan, phys.Rev.D43(1991)3759; G.Eilam,R.R.Mendel, R.Migneron, A.Soni, Phys.Rev.Lett.66(1991)3105; C.P.Yuan and T.C.Yuan, Phys.Rev.D44(1991)3603; J.Liu and Y.P.Yao, Int.J.Mod.Phys.A6(1991)4925; C. S. Li, Jin Min Yang and B. Q. Hu, Phys Rev. D48(1993) 5425; J.M.Yang and C.S.Li, Phys.Lett.B320(1994)117.   \n[6] C.S.Li, T.C.Yuan, Phys.Rev.D42(1990)3088； idid. 47(1993)2156(E); C.S.Li, Y.S.Wei and J.M.Yang, Phys.Lett.B285(1992)137; C.S.Li, B.Q.Hu and J.M.Yang, Phys.ReV.D47(1993)2865; J.Liu and Y.P.Yao, Phys.ReV.D46(1992)5196; A.Czarnecki and S.Davison, Phys.ReV.D48(1993)4183; J.Guasch, R.A.Jimenez and J.Sola, Phys.Lett.B360(1995)47.   \n[7] H. E. Haber and G. L. Kane, Phys. Rep. 117(1985)75; J. F. Gunion and H. E. Haber, Nucl. Phys. B272(1986)1.   \n[8] J.Ellis and S.Rudaz, Phys.Lett.B128, 248 (1983) A.Bouquet, J.Kaplan and C.Savoy, Nucl.Phys.B262, 299 (1985).   \n[9] W. Siegel, Phys.Lett.B84(1979)193; D.M.Capper, D.R.T. Jones, P.van Nieuwenhuizen, Nucl. Phys. B167(1980)479; S. Martin and M.Vaugh, Phys. Lett. B318(1993)331.   \n[10] A. Sirlin, Phys. Rev. D22(1980)971; W.J. Marciano and A. Sirlin, ibid. 22(1980)2695; 31,(1985)213(E); A. Sirlin and W.J. Marciano, Nucl.Phys.B189(1981)442; K.I.Aoki et al., Prog.Theor.Phys.Suppl. 73(1982)1.   \n[11] H.Eberl,A.Bartl and W. Majerotto,UWThPh-1996-6, hep-ph/9603206.   \n[12] G. Passarino and M. Veltman, Nucl. Phys. B160(1979)151.   \n[13] T.Kinosita, J.Math.Phys.3(1962)650; T.D.Lee and M.Nauenberg, Phys.Rev.133, B1549(1964).   \n[14] A.Denner and T.Sack, Z.Phys.C46(1990)653; A.Denner, Fortschr.Phys.41(1993)4.   \n[15] A. Sirlin, Phys.Rev. D22, 971 (1980); W. J.Marciano and A. Sirlin, Phys. Rev. D22, 2695 (1980); (E) D31, 213 (1985) A. Sirlin and W. J. Marciano, Nucl. Phys. B189, 442 (1981); M. Bohm, W. Holik and H. Spiesberger,Fortschr.Phys. 34, 687 (1986).   \n[16l W .I Marciano and 7. Parsa. Anni1 Rev. Nucl Sci 36(1986)171 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Figure Captions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Feynman diagrams for the tree-level process $t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { j } ^ { 0 }$ and the QCD corrections. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Feynman diagrams for the SUSY-QCD corrections. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 The relative correction $\\delta \\Gamma / \\Gamma _ { 0 }$ to the decay rate as a function of the lighter stop mass assuming $m _ { \\tilde { g } } = 5 0 0 \\mathrm { G e }$ Vand $\\tan \\beta = 1 1$ . The solid and dotted curves correspond to $A _ { t } + \\mu \\cot \\beta = 0$ (no mixing) and $A _ { t } + \\mu \\cot \\beta = 1 0 0 \\mathrm { G e V } \\mathrm { \\ ( m i x i n g \\ }$ )，respectively. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 The relative correction $\\delta \\Gamma / \\Gamma _ { 0 }$ to the decay rate as a function of the gluino mass assuming $m _ { \\tilde { t } _ { 1 } } = 5 0 \\mathrm { G e V }$ and $\\tan \\beta = 1 1$ . The solid and dotted curves correspond to $A _ { t } +$ $\\mu \\cot \\beta = 0$ (no mixing) and $A _ { t } + \\mu \\cot \\beta = 1 0 0 \\mathrm { G e V } \\mathrm { \\ ( m i x i n g }$ )，respectively. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 The relative correction $\\delta \\Gamma / \\Gamma _ { 0 }$ to the decay rate as a function of $\\tan \\beta$ assuming $m _ { \\tilde { g } } = 5 0 0 \\mathrm { G e V }$ ， $m _ { \\tilde { t } _ { 1 } } = 5 0$ GeV and $A _ { t } + \\mu \\cot \\beta = 1 0 0 \\mathrm { G e V }$ ： ",
+        "page_idx": 12
+    }
+]

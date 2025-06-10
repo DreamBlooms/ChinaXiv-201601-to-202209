@@ -1,0 +1,306 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经MHCⅡ通路的屋尘螨1类变应原T细胞表位融合肽疫苗载体 的构建与表达 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵蓓蓓'，姜玉新²，刁吉东'，李 娜}，陆 维³,李朝品皖南医学院'医学寄生虫学教研室，生理学教研室，弋矶山医院呼吸内科,安徽 芜湖 241002摘要：目的 构建经MHCⅡ通路的屋尘螨1类变应原Derp1的T细胞表位肽疫苗重组载体。方法 分别合成TAT、IhC和含编码Der p1的3段T细胞表位的融合核苷酸序列,用特异性引物PCR扩增相应的基因片段,分别用相应的双酶切后,用T4DNA连接酶连接形成TAT-IhC-Der $p$ 1-3T融合基因，并插入至原核表达载体 $\\mathrm { p E T - } 2 8 \\mathrm { a } ( + )$ 中，构建重组原核表达载体pET-28a$( + )$ -TAT-IhC-Derp $_ { I - 3 T , B a m \\mathrm { ~ H ~ I ~ } }$ 和XhoI进行双酶切和测序鉴定。重组载体转化大肠杆菌E.coli BL21(DE3)菌株,IPTG诱导后,经SDS-PAGE电泳分析和Wester blot验证,纯化TAT-IhC-Derp1-3T蛋白后进行IgE结合试验。结果双酶切和测序结果表明,成功构建了pET-28a-TAT-IhC-Derp1-3T重组原核表达载体;SDS-PAGE电泳分析显示TAT-IhC-Derp1-3T可诱导表达；Westemn blot检测表明该融合蛋白纯化成功;IgE结合试验表明TAT-IhC-Derp1-3T结合屋尘螨过敏病人血清IgE的能力强于Der p1变应原( $\\scriptstyle P < 0 . 0 0 1 { \\mathrm { , } }$ 。结论成功构建了可表达经MHC通路的编码Derp1的3段T细胞表位的重组pET-28a-TAT-IhC-Der$p$ 1-3T载体,纯化的TAT-IhC-Derp1-3T具有较强的IgE结合能力,从而为后续经MHC通路的特异性免疫治疗奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：屋尘螨;融合肽疫苗；1类变应原;原核表达;T细胞表位;IgE结合试验 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Construction of a vector encoding T-cell epitopes of Dermatophagoides pteronyssinus major allergen group 1 as a vaccine delivered by MHC class I1 pathway ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAOebei,JANGYuxin,AOJdong,LINa,Wei,LIon   \nDepartmentoficalsioepmntofepatmntofspatoiceasptalicl   \nCollege,Wuhu241002,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveTconstructavectorencodingT-cellpitopes of major allrgen group1ofDermatophagoidespteronysinus as a vaccine delivered byMHCclassIIpathway.Methods Thenucleotidesequences of the 3 target genes weresynthesized, including TAT, ICand therecombinant fragment of Der p1 encoding 3 T-cellepitopes. After amplification of the 3target fragments byPCRanddigestion withcorespondingrestrictionendonucleases,therecombinant geneTAT-IC-Derp-3Twas ligated using $\\mathrm { T _ { 4 } }$ DNA ligase and inserted into the prokaryotic expression vector $\\mathtt { p E T 2 8 a ( + ) }$ to construct the recombinant plasmid pET-28a $( + )$ -TAT-IhC-Der p 1-3T, which was confirmed by digestion with restriction endonucleases and sequencing. Therecombinantvectorwastransformed intoE.coli strain BL21(DE3)and inducedwith IPTG,andthe induced protein TAT-IhC-Der p1-3T was detectedby SDS-PAGE. After purification,therecombinant protein wasconfirmed by Western bloting and its allrgenicity tested using IgE-binding assay. Results Therecombinant plasmid pET-28a-TAT-IhC-Der $\\textit { p } \\boldsymbol { 1 }  – 3 T$ was sucesfully constructed as confirmed byrestriction endonuclease digestion and sequencingand the expresionof the recombinantproteinTAT-IC-Derp1-3TwasinducedinE.coli.Westerblotingverifiedsucessfullpurificationofthetarget protein,which showedastronger IgE-binding abilitythan Derp1.Conclusion We sucessfullyconstructedarecombinant expression vector pET-28a-TAT-IhC-Der $p$ 1-3T expressing a T-cell epitope vaccine delivered by MHC I pathway with strong IgE-binding ability which provides a basis for further study on specific immunotherapy via MHC clas I pathway. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Dermatophagoides pteronysinus; fused peptidevaccine; major group1 allergen; prokaryotic expresson;Tcell epitope; IgE-binding assay ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "过敏性哮喘是以可逆性气道阻塞、支气管炎症以及黏液分泌过多等主要临床特征的I型变态反应疾病[1-2]。屋尘螨是诱发过敏性哮喘的重要变应原，约 $80 \\%$ 的过敏性哮喘患者对屋尘螨1类变应原Derp1结合呈阳性[3-6]特异性免疫治疗(specific immunotherapy,SIT)是惟一可长时间持续缓解过敏症状的病因疗法[7-10]。合适的T细胞反应刺激对脱敏及变应原特异性IgE的减少或抑制是必不可少的[11-13]。如用Feld1变应原中的人T细胞表位肽进行SIT改变了T细胞对这些肽段的反应[14]。变应原经抗原提呈细胞(APC)摄取并被其溶酶体内的蛋白水解酶水解产生抗原肽段。来自内质网并受恒定链(invariantchain，Ii)保护的主要组织相容性复合体I(MHCII)进入溶酶体后，Ii被水解，MHCⅡI分子与肽段形成复合物并提呈给 $\\mathrm { C D 4 ^ { + } }$ T细胞[15。通过MHCⅡ提呈通路增强抗原提呈是治疗过敏性疾病的潜在方法[16]研究证明，构建并原核表达MHCI-肽的融合蛋白，可促进肽段的有效提呈[17]。TAT序列长11个氨基酸（GYGRKKRRQRRR)，来自人免疫缺陷病毒(HIV），其功能是将胞外蛋白转到胞内[18]；而IhC是人溶酶体中Ii的前110个氨基酸短肽，可靶定蛋白到内涵体/溶酶体内[19-20]。以TAT-IhC-抗原构建融合蛋白作为疫苗可有效缓解哮喘患者症状[16]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文拟将TAT、IhC和Derp1的3段T细胞表位序列采用分子生物学方法形成融合基因，并命名为TAT-IhC-Der p $1 { - } 3 \\mathrm { T } ,$ 。构建原核表达载体 $\\mathrm { p E T } 2 8 \\mathrm { a } ( + )$ -TAT-IhC-Derp1-3T后进行异丙基- $\\cdot \\beta$ -D-硫代半乳糖苷(IPTG)诱导表达并纯化,IgE结合试验检测该融合蛋白的变应原性，为后期经MHCⅡ提呈通路的屋尘螨高效变应原疫苗制备和临床应用奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1菌株和质粒 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大肠杆菌E.coliDH- $. 5 \\alpha$ 、BL21(DE3)感受态细胞、pET-28a载体为本实验室保存。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2引物设计及合成",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据GenBank公布的TAT（GenBankNo:NP_057853.1)、IhC(1\\~110AA)(GenBankNo:K01144.1)和ProDerp1(GenBankNo:NP_11695.1)的核苷酸序列分别设计引物并引入相应的酶切位点。TAT(编码11个AA)上游引物:5'-GATCTTACGGTCGTAAAAAGCGTCGCCAGCGTCGCCGTGGATCCACTAGT-3(BamH1),下游引物：5'-TCGAGACTAGTGGATCCACGGCGACGCTGGCGACGCTTTTTACGACCGTA-3'（Xho I）;IhC(1\\~110AA)上游引物： $5 ^ { \\prime }$ -GAAGATCTATGGATGACCAGCGCGACC- $3 ^ { \\prime } ( B g l \\parallel )$ ,下游引物：5'-AAACTAGTGGATCCCCCCTGGGGCAGGGCTCC-3'（Hind III）;ProDerp1中已报道的3个T细胞表位对应的核苷酸序列的位置分别为118\\~146、175\\~196、206\\~264，将这3段T细胞表位对应的核苷酸直接合成为一条完整的核苷酸序列,其长度共 $3 2 4 ~ \\mathrm { b p }$ ,并命名为Derp1-3T),扩增所需的特异引物如下，上游引物：5'-TTAGGATCCCGAACTGTCACTCCCATTCGT-3'（BamHI）;下游引物：5'-AGCCTCGAGTTGGTAACCATTATCGCG TTG-3(Xh1），引物及融合基因片段由生工生物工程(上海)股份有限公司合成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3主要试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DL2000DNA Marker和 $\\mathrm { \\Delta T _ { 4 } }$ DNA连接酶购自TAKARA；SK2072即用PCR扩增试剂盒（Taq）、SanPrep柱式DNA胶回收试剂盒、SanPrep柱式PCR产物纯化试剂盒、50bpDNAladder、蛋白Marker、限制性内切酶BamHI酶、XhoI酶、BglI酶、HindⅢ酶、DAB显色液、ECL曝光试剂盒、硝酸纤维素膜、BCA蛋白定量试剂盒、BSA标准品、考马斯亮蓝、IPTG、卡那霉素、TMB显色液均购自生工生物工程(上海)股份有限公司， $\\mathrm { N i ^ { 2 + } }$ -NTA亲和层析树脂和层析柱购自Novagen,HRP-羊抗兔IgG和HRP标记的羊抗人IgE二抗购自Sigma。抗Derp1抗体为本实验室自制。16份对屋尘螨过敏的病人血清为本实验室保存。其他试剂为国产分析纯。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4主要仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ABI2720型PCR仪(美国Application Biosystem);高速冷冻离心机(美国Beckman);DNA水平电泳仪(美国Bio-Rad);BayGene垂直电泳仪(北京百晶);G:Box凝胶电泳成像分析系统(英国SYNGENE)；BioTek?Lex800ELISA读板机(美国)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 p $\\mathrm { E T 2 8 a ( + ) }$ -TAT-IhC-Derp1-3T重组载体的构建将TAT特异性引物 $9 5 ~ \\mathrm { ^ { \\circ } C }$ 变性 $. 5 5 ^ { \\circ } \\mathrm { C }$ 退火，形成含黏性末端的双链;用BamHI和XhoI双酶切 $\\mathrm { p E T 2 8 a ( + ) }$ 原核表达载体,其反应体系(总体积 $8 0 ~ \\mu \\mathrm { l }$ ） $1 0 \\times$ Tango buffer$8 ~ \\mu 1 \\mathrm { , } B a m \\mathrm { H } \\mathrm { ~ I ~ }$ 酶 $2 \\mu \\mathrm { l } \\sqrt { h o \\mathrm { ~ I ~ } }$ 酶 $2 \\ \\mu 1 . \\ p \\mathrm { E T } 2 8 \\mathrm { a } ( + )$ 质粒 $2 4 ~ \\mu \\mathrm { l }$ 、$\\mathrm { d d H } _ { 2 } \\mathrm { O } ~ 4 4 ~ \\mu 1 , 3 7 ~ \\mathrm { ^ { \\circ } C }$ 酶切 $^ { 3 \\mathrm { ~ h ~ } }$ ，回收酶切产物；用 $\\mathrm { T } _ { 4 }$ DNA连接酶( $1 6 ^ { \\circ } \\mathrm { C } , 3 \\mathrm { h } )$ 将TAT连至 $\\mathrm { p E T 2 8 a ( + ) }$ 形成pET28a$( + )$ -TAT载体。IhC特异性引物进行PCR扩增IhC基因(1\\~110AA)片段：反应条件： $9 4 ^ { \\circ } \\mathrm { C } ~ 4 ~ \\mathrm { m i n } , 9 4 ^ { \\circ } \\mathrm { C } ~ 3 0 ~ \\mathrm { s } ,$ （24$5 5 ~ \\mathrm { ^ { q } C } ~ 3 0 ~ \\mathrm { s } \\mathrm { , } 7 2 ~ \\mathrm { ^ { q } C } ~ 3 0 ~ \\mathrm { s } \\mathrm { , } 3 5$ 个循环， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $1 0 \\mathrm { m i n }$ ，试剂盒纯化PCR产物。BglⅡI和HindI分别双酶切pET28a$( + )$ -TAT和IhC(1\\~110AA），酶切体系及酶切条件同上。回收酶切产物，用T4DNA连接酶将IhC连接至$\\mathrm { p E T } 2 8 \\mathrm { a } ( + )$ -TAT形成pET $2 8 \\mathrm { a } ( + )$ -TAT-IhC载体，连接反应体系及连接条件同上。用特异性引物扩增Der p1-3T片段后,用将BamHI和XhoI分别双酶切pET28a$( + )$ -TAT-IhC质粒和Derp1-3T片段，反应体系及反应条件同上。回收酶切产物,用 $\\mathrm { T } _ { 4 }$ DNA连接酶将Derp1-3T连接至pF $\\exists \\mathrm { T } 2 8 \\mathrm { a } ( + )$ -TAT-IhC,形成 $\\phantom { + } 9 \\mathrm { E T } 2 8 \\mathrm { a } ( + )$ -TAT-IhC-Derp1-3T载体，连接反应体系及连接条件同上。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5.2重组质粒 $\\mathrm { p E T } 2 8 \\mathrm { a } ( + )$ -TAT-IhC-Derp1-3T的鉴定酶切体系(总体积 $8 0 ~ \\mu \\mathrm { l } .$ ： $1 0 \\times$ Tango buffer ${ 8 \\mu \\mathrm { l } }$ 、BamHI酶 $2 \\ \\mu 1 , X h o \\ \\mathrm { ~ I ~ }$ 酶 $2 \\ \\mu 1 , \\mathrm { p E T } { - 2 8 } \\mathrm { a } ( + )$ -TAT-IhC-Derp1-3T重组质粒 $2 4 \\mu 1 . \\mathrm { d d H } _ { 2 } \\mathrm { O } 4 4 \\mu 1 , 3 7 \\ \\mathrm { \\% }$ 酶切 $3 \\mathrm { ~ h ~ }$ 酶切产物行琼脂糖凝胶电泳，阳性克隆送生工生物工程(上海)股份有限公司测序确认。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5.3重组蛋白TAT-IhC-Der $\\mathrm { ~ p ~ } 1 { - } 3 \\mathrm { T }$ 的诱导表达 将pET- $2 8 \\mathrm { a } ( + )$ -TAT-IhC-Derp1-3T重组质粒转至大肠杆菌E.coli BL21(DE3)感受态细胞,铺板于含 $1 0 0 ~ \\mathrm { { m g / L } }$ Kana\\*的LB固体培养基。挑单菌落接种于含 $1 0 0 ~ \\mathrm { { m g / L } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Kana+的LB液体培养基中， $3 7 \\mathrm { ~ \\textdegree ~ { ~ } 2 0 0 ~ r / m i n }$ 培养过夜，按 $1 { : } 5 0$ 的比例接种并扩大培养至 $\\mathrm { \\Delta D _ { 6 0 0 } }$ 约为0.6，加IPTG(终浓度 $1 \\mathrm { m m o l / L }$ ,为最佳诱导浓度）， $2 0 0 \\mathrm { r / m i n }$ 诱导培养 $4 { \\sim } 5 \\mathrm { h }$ 后，取 $1 . 5 \\mathrm { m l }$ 菌液， $. 4 \\mathrm { ~ ‰ ~ }$ 离心 $5 \\mathrm { m i n }$ 弃上清。加 $2 \\times$ 蛋白上样缓冲液 $1 0 0 \\mu \\mathrm { l }$ 充分混匀，煮沸$1 0 \\mathrm { m i n }$ 后，取 $2 0 \\mu \\mathrm { l }$ 进行 $1 2 . 5 \\%$ SDS-PAGE电泳,考马斯亮蓝染色观察并拍照。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.4 重组蛋白TAT-IhC-Derp1-3T的纯化 按照1.5.3的步骤对含 $\\mathrm { p E T - } 2 8 \\mathrm { a } ( + )$ -TAT-IhC-Derp1-3T重组质粒的 $E$ .coliBL21(DE3)菌株进行大规模培养，收集菌体沉淀后，用 $\\mathrm { N i ^ { 2 + } } .$ -NTA树脂分离纯化TAT-IhC-Derp1-3T重组蛋白，操作按说明书进行。SDS-PAGE电泳检测蛋白纯度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.5重组蛋白TAT-IhC-Derp1-3T的鉴定 用BCA蛋白测定试剂盒和BSA标准品测定蛋白浓度，操作步骤按说明书进行。蛋白定量后，取 $1 0 ~ \\mu \\ g$ 总蛋白经 $1 2 . 5 \\%$ SDS-PAGE凝胶分离并转至硝酸纤维素膜上，膜用 $1 \\%$ BSA 的 TBST（50 mmol/L Tris, $\\mathrm { p H } ~ 7 . 5$ ； 150 mmol/L$\\mathrm { { N a C l } }$ $0 . 1 \\%$ Tween-20)室温封闭 $2 \\mathrm { h }$ 。用Derp1抗体(1:500稀释） $1 4 ~ \\mathrm { ^ { \\circ } C }$ 孵育过夜，TBST洗膜3次（ $1 0 \\mathrm { m i n } / \\langle \\mathcal { k } \\rangle$ OHRP-羊抗兔 $\\mathrm { I g G } ( 1 : 5 0 0 0$ 稀释)二抗 $3 7 ^ { \\circ } \\mathrm { C }$ 孵育 $4 0 ~ \\mathrm { m i n }$ TBST洗膜3次（ $( 1 0 \\mathrm { m i n } / \\hbar )$ 。ECL曝光。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.6ELISA法测定TAT-IhC-Derp1-3T的IgE结合试验按照参考文献的方法进行。简述如下：用Derp1中 ${ \\mathrm { 5 0 0 ~ n g } }$ 孔)包被96孔板， $4 \\mathrm { { ^ { \\circ } C } }$ 过夜。用TBST漂洗孔板5次 $( 1 0 0 \\mu \\mathrm { l } / \\vec { \\mathrm { f } } \\mathrm { L } )$ 。用含 $1 \\%$ BSA的TBST( $1 5 0 ~ \\mu \\mathrm { l } /$ 孔） $3 7 \\ \\mathrm { { ^ { \\circ } C } }$ 封闭 $\\mathrm { ~ 1 ~ h ~ } _ { \\mathfrak { c } }$ 按 $1 { : } 8$ 的稀释比例加入病人血清， $3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育$\\boldsymbol { 1 } \\mathbf { h } _ { \\mathrm { o } }$ TBST漂洗孔板5次。用TBST按 $1 : 1 0 0 0$ 的比例稀释HRP标记的羊抗人IgE并加入到96孔板 $, 3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育 $\\mathrm { 2 \\ h _ { \\circ } }$ TBST漂洗孔板5次。加入TMB底物 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 反应 $2 0 ~ \\mathrm { { m i n } }$ O立即加入终止液 ${ \\mathrm { 5 0 } } \\mu \\mathrm { l / \\ddagger L }$ )终止反应。 $\\mathbf { A } _ { 4 5 0 \\mathrm { n m } }$ 读值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 重组质粒 $\\mathrm { p E T } 2 8 \\mathrm { a } ( + ) \\cdot$ -TAT-IhC-Derp1-3T的鉴定将重组质粒 $\\phantom { + } 9 \\mathrm { E T } 2 8 \\mathrm { a } ( + )$ -TAT-IhC-Derp1-3T用BamHI和XhoI双酶切后，电泳结果显示：其酶切产物获得的目的基因条带约为 $8 0 0 ~ \\mathrm { b p }$ 左右(图1),表明重组质粒构建成功。经测序分析及NCBI-BLAST比对结果与TAT-IhC-Der $p$ 1-3T基因编码序列一致，其准确大小为687 bp",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2重组蛋白TAT-IhC-Derp1-3T的表达",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为检测TAT-IhC-Derp1-3T是否可诱导表达,我们将重组载体 $\\mathrm { p E T } 2 8 \\mathrm { a } ( + )$ -TAT-IhC-Derp1-3T转染大肠杆菌E.coliBL21(DE3)感受态细胞，用最佳诱导终浓度为1mmol/L的IPTG诱导后，经SDS-PAGE检测结果表明：可明显见到TAT-IhC-Derp1-3T蛋白条带(图2),说明TAT-IhC-Derp1-3T诱导表达成功,其相对分子质量约为28000,与理论值相符。经 $\\mathrm { N i ^ { 2 + } } .$ -NTA树脂分离纯化后，可见单一条带(图2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1cad42ba8b74ea148bb947ffb051721e658df5bc309cf95be1d7ddaee84784a.jpg",
+        "img_caption": [
+            "图1重组质粒 $\\mathrm { p E T } 2 8 \\mathrm { a } ( + )$ -TAT-IhC-Derp1-3T的酶 切分析 Fig.1 Digestion of the recombinant plasmid pET28a $( + ) \\ /$ -TAT-IhC-Der $p$ 1-3T with BamHI and Xho I.M: DNA Marker; 1:Products of $\\mathtt { p E T 2 8 a ( + ) }$ -TAT-IhC-Der $p \\ 1 – 3 T$ digestedby BamHIand Xho I; 2:Recombinant plasmidofpET28a $( +$ )-TAT-IhC-Der $p$ 1-3T；3: Products of $\\mathrm { p E T } 2 8 \\mathrm { a } ( + )$ digested by BamHI and Xho I. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/529321e051219ad7dda5f1ed0c7a3161997ace4d9a09c237c3db8f62ece46957.jpg",
+        "img_caption": [
+            "图2重组蛋白TAT-IhC-Derp1-3T的表达检测 Fig.2 Detection of recombinant protein TAT-IhC-Der p 1-3T expressed in E.coli strain BL21 (DE3).M: Protein marker;1:Purified recombinant protein TAT-IhC-Derp 1-3T;2:Total protein of E.coli strain BL21(DE3) without IPTG induction; 3:Total protein of E.coli strain BL21 (DE3) induced by $1 \\mathrm { m m o l / L }$ IPTG. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3重组TAT-IhC-Derp1-3T蛋白的Western blot检测为确定纯化后的目的条带是否为重组蛋白TAT-IhC-Derp1-3T,以Derp1多克隆抗体为一抗进行Westernblot检测。结果表明：未经IPTG诱导的大肠杆菌BL21(DE3)对照组未出现条带,而纯化的TAT-IhC-Der p1-3T重组蛋白则出现一条明显的条带(图3)，其大小与SDS-PAGE 电泳检测条带相符,这说明TAT-IhC-Der p1-3T重组蛋白成功纯化，可用于后续试验",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/27d183c9f1e2e72a74e4e12fb920df4a26ae62c0a62b4523cf4851774a907a27.jpg",
+        "img_caption": [
+            "图3纯化的TAT-IhC-Derp1-3T的Western blot检测 Fig.3Western blotting of purified TAT-IhC-Der p 1-3T.1: Total protein of E.coli strain BL21 (DE3) without IPTG induction; 2: Purified recombinant protein TAT-IhC-Der p 1-3T. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4TAT-IhC-Derp1-3T的IgE结合试验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为检测原核表达的TAT-IhC-Derp1-3T重组蛋白与16份对屋尘螨致敏的病人血清IgE的结合能力，用Derp1和TAT-IhC-Derp1-3T包被了96孔板后，ELISA法检测结果表明：TAT-IhC-Derp1-3T结合IgE的能力（ $1 . 3 5 { \\pm } 0 . 3 3 )$ 明显高于Der p $1 ( 0 . 8 0 { \\pm } 0 . 1 9 )$ （ $_ { ( P < 0 . 0 0 1 }$ ，图4)。这说明TAT-IhC-Derp1-3T具有较好的变应原性。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a312f5e76c42d6071fef041b1e0098ae674e7ae734e210a732cba7f8435a1cd5.jpg",
+        "img_caption": [
+            "图4TAT-IhC-Derp1-3T的IgE结合试验 Fig.4 IgE-binding assay of TAT-IhC-Derp 1-3T expressed in E.coli strain BL21 (DE3). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "有效降低变应原特异性IgE抗体水平，从而阻断I型超敏反应的发生[22]。其不仅可降低变应性致敏,也可降低治疗后哮喘的发病率23。用保留T细胞表位而改变B细胞表位的重组花粉变应原Betv1进行SIT，可减少变应原特异性IgE的产生，阻止变应原和IgE结合和/或刺激机体诱导抗原特异性T细胞失能[24]。这提示，发展低变应原性(减少B细胞表位）高免疫原性(增加T细胞表位)的SIT疫苗最佳策略[25]。Prickett等[26]用Arah1变应原的 $\\mathrm { C D 4 ^ { + } }$ T细胞表位肽刺激花生过敏性患者的外周血单个粒细胞试验证实其有效性。Mackenzie等用鸡卵清蛋白中的优势T细胞表位肽进行SIT结果表明，该肽段可有效降低变应原特异性IgE和嗜酸性粒细胞增多[27]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "外源抗原被APCs摄取、降解，与MHCI形成复合物提呈给 $\\mathrm { C D 4 ^ { + } }$ T细胞识别并被激活，从而产生抗原特异性的免疫应答。经MHCⅡ提呈通路提呈抗原以提高其提呈效率进行SIT其效果已被证实[6。若能借用MHCⅡ提呈通路提呈含多个T细胞表位肽的融合抗原可有效提高SIT的效果。Wambre等28用肽-MHCⅡ四聚体的间接体内治疗发现，过敏性患者体内的 $\\mathrm { C D 4 ^ { + } T }$ 细胞是以免疫优势层级的方式识别变应原中的表位，并具有明显的依赖于表位识别的功能表达谱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "鉴于TAT和IhC各自的功能以及T细胞表位在SIT中的作用，本研究构建了表达融合变应原TAT-IhC-Derp 1-3T的重组原核表达载体pET-28a-TAT-IhC-Der p$1 { - } 3 \\mathrm { T } _ { \\mathrm { { ( } } }$ 。经IPTG诱导并进行SDS-PAGE分析表明，该融合变应原可高效表达；Westernblot分析发现该变应原已纯化成功。IgE结合试验显示，结果发现融合变应原TAT-IhC-Derp1-3T结合IgE的能力要优于Derp1,但该结果与以往结果报道的不一致。Karamloo等[29构建了蜂毒嵌合蛋白，该蛋白含变应原 ${ \\mathrm { A p i } } { \\mathrm { ~ m ~ } } 1 { \\mathrm { , A p i } } { \\mathrm { ~ m ~ } } 2$ 和Apim3的T细胞表位,并删除了其B细胞表位。该嵌合蛋白与IgE的结合试验表明，与天然变应原相比，其明显降低与IgE的结合。本研究获得的 TAT-IhC-Der p1-3T其结合变应原的能力增强的原因可能是Derp1变应原中的T细胞表位和B细胞表位之间相互重叠[30],经重组后，可能形成了新的B细胞构象表位或线性表位。但其具体机制尚不清楚。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "总之，我们成功获得了具有转位于胞内、溶酶体定位以及增强的T细胞表位肽等特点的融合蛋白，为后续可用于屋尘螨过敏的哮喘患者进行SIT的疫苗开发和临床诊断奠定了基础。下一步将研究该融合变应原疫苗的特异性免疫治疗效果及其详细机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SIT是唯一可改变变态反应性疾病进程的病因疗法[2.21],可诱导机体产生变应原特异性IgG1和IgG4,并",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Rolland-Debord C,Lair D,Roussey-Bihouee T,et al．Block copolymer/DNA vaccination induces a strong Allergen-Specific local response in a mouse model of house dust mite asthma[J]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PLoS One,2014, 9(1): e85976.   \n[2]Fujita H,Soyka MB,Akdis M,et al.Mechanisms of allergenspecific immunotherapy[J]. Clin Transl Allergy,2012,2(1): 1-8.   \n[3]Cole Johnson C,Ownby DR,Havstad SL,et al.Family history,dust mite exposure in early childhood,and risk for pediatric atopy and asthma[J]. JAllergy Clin Immunol,2004,114(1): 105-10.   \n[4]Chruszcz M,Pomes A,Glesner J,et al.Molecular determinants for antibody binding on group 1 house dust mite allergens[J].JBiol Chem,2012,287(10): 7388-98.   \n[5]Mcelveen JE,Clark MR,Smith SJ,et al.Primary sequence and molecular model of the variable region of a mouse monoclonal anti-Der p1 antibody showing a similar epitope specificity as human IgE[J]. Clin Exp Allergy,1998,28(11): 1427-34.   \n[6]Barraza-Vilarreal A,Hernandez-Cadena L,Moreno-Macias H, et al. Trends in the prevalence of asthma and other alergic diseases in schoolchildren from Cuernavaca, Mexico[J]. Allergy Asthma Proc, 2007, 28(3): 368-74.   \n[7]Akdis M,Akdis CA.Therapeutic manipulation of immune tolerance in allergic disease[J].Nat Rev Drug Discov,2009,8(8): 645-60.   \n[8]Larche M,Akdis CA,Valenta R. Immunological mechanisms of allergen-specific immunotherapy［J].Nat Rev Immunol,2006,6 (10): 761-71.   \n[9]Valenta R.The future of antigen-specific immunotherapy of allergy [J]. Nat Rev Immunol,2002,2(6): 446-53.   \n[10]ValentaR,FerreiraF,Focke-TejklM,etal.Fromallergengenes to allergy vaccines[J].Annu Rev Immunol,2010,28: 211-41.   \n[11] Sabatos-Peyton CA，Verhagen J，Wraith DC.Antigen-specific immunotherapy of autoimmune and allergic diseases[J]. Curr Opin Immunol,2010,22(5): 609-15.   \n[12]Rolland JM, Gardner LM, O'hehir RE.Functional regulatory Tcells and allergen immunotherapy[J].Curr Opin Allergy Clin Immunol, 2010,10(6): 559-66.   \n[13]Fujita H,Soyka MB,Akdis M,et al. Mechanisms of alergenspecific immunotherapy[J].J Allergy Clin Immunol, 2012,2(1): 1-8.   \n[14]Campbell JD,Buckland KF, Mcmillan SJ,et al. Peptide immunotherapyinallergicasthmageneratesIL-1O-dependent immunological tolerance associated with linked epitope suppression [J].JExp Med,2009,206(7): 1535-47.   \n[15] Germain RN. MHC-dependent antigen processing and peptide presentation:providing ligands for T lymphocyte activation[J]. Cell, 1994, 76(2): 287-99.   \n[16]Crameri R,Fluckiger S,Daigle I,et al.Design,engineeringand in vitro evaluation of MHC class-II targeting allergy vaccines [J]. Allergy,2007,62(2): 197-206.   \n[17]Sanderson S,Frauwirth K,Shastri N. Expression of endogenous peptide-major histocompatibility complex class II complexes derived from invariant chain-antigen fusion proteins［J]. Proc Natl Acad Sci USA,1995,92(16): 7217-21.   \n[18]Lindsay MA.Peptide-mediated cell delivery:application in protein target validation[J]. Curr Opin Pharmacol, 2002,2(5): 587-94.   \n[19] Scott D,Addey C,Ellis P, et al.Dendritic cells permit identification of genes encoding MHC class II-restricted epitopes of transplantation antigens[J].Immunity,20oo,12(6): 711-20.   \n[20] Wang RF, Wang X,Atwood AC,et al. Cloning genes encoding MHC class I-restricted antigens: mutated CDC27 as a tumor antigen[J]. Science,1999,284(5418): 1351-4.   \n[21]Alvaro M， Sancha J，Laramona H,et al.Allergen-specific immunotherapy:Updateon immunological mechanisms[J]. Allergol Immunopathol (Madr),2013,41(4): 265-7.   \n[22]Shim JY, Kim BS,Cho SH, et al. Allergen-specific conventional immunotherapy decreases immunoglobulin E-mediated basophil histamine releasability[J]. Clin Exp Allergy,2003,33(1): 52-7.   \n[23]Moller C,Dreborg S,Ferdousi HA,et al. Pollen immunotherapy reduces the development of asthma in children with seasonal rhinoconjunctivitis (the PAT-study)[J].J Allergy Clin Immunol, 2002,109(2): 251-6.   \n[24]Winkler B,Baier K, Wagner S,et al. Mucosal tolerance as therapy of type I allergy: intranasal application of recombinant Bet v 1, the major birch pollen allergen,leads to the suppression of allergic immune responses and airway inflammation in sensitized mice[J]. Clin Exp Allergy,2002,32(1): 30-6.   \n[25]Fujita H, Soyka MB,Akdis M,et al. Mechanisms of allergenspecific immunotherapy [J].Chem Immunol Allergy，2012,2(1): 1-8.   \n[26]Prickett SR,Voskamp AL,Phan T,et al. Ara h $1 { \\mathrm { ~ C D 4 ~ } } ^ { + } \\mathrm { T }$ cell epitope-based peptides:candidates for a peanut allergy therapeutic [J]. Clin Exp Allergy,2013,43(6): 684-97.   \n[27]Mackenzie KJ,Fitch PM, Leech MD,et al. Combination peptide immunotherapy based on T-cell epitope mapping reduces allergenspecific IgE and eosinophilia in allergic airway inflammation[J]. Immunology,2013,138(3): 258-68.   \n[28]Wambre E, Delong JH, James EA,et al. Specific immunotherapy modifies allergen-specific $\\mathrm { C D 4 ( + ) }$ T-cell responses in an epitopedependent manner[J].JAllergy Clin Immunol,2014,133(3): 872.   \n[29]Karamloo F, Schmid-Grendelmeier P,Kussebi F,et al. Prevention of allergy by a recombinant multi-allergen vaccine with reduced IgE binding and preserved Tcellepitopes[J].Eur J Immunol,2005,35 (11): 3268-76.   \n[30]de Halleux S,Stura E,Vanderelst L,et al. Three-dimensional structure and IgE-binding properties of mature fully active Der p 1, a clinically relevant major allergen[J].JAllergy Clin Immunol, 2006,117(3): 571-6. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(编辑：孙昌朋)",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,414 @@
+[
+    {
+        "type": "text",
+        "text": "张然1,2　郑 琛² 闫晓刚」 梁 浩」 杨华明1\\*（1.吉林省农业科学院畜牧科学分院，公主岭136100；2.甘肃农业大学动物科学技术学院，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "兰州 730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验采用体外产气法研究在体外培养液中添加牛至油对绵羊瘤胃发酵特性和甲烷产量的影响。采用单因素完全随机试验设计，各组在培养液中分别添加0(对照)100、200、300 和 $4 0 0 \\mathrm { m g / L }$ 牛至油，每组5个重复。发酵 $1 2 \\mathrm { h }$ 后，测定总产气量、甲烷产量及培养液 $\\mathfrak { p H }$ ，总氮、氨氮、尿素氮、蛋白氮浓度及挥发性脂肪酸浓度和比例。结果表明：1）培养液中添加100、200、300 和 $4 0 0 ~ \\mathrm { { m g / L } }$ 牛至油均显著升高了培养液pH ( $_ { . { P < 0 . 0 5 } }$ ）；高添加水平（300、 $4 0 0 \\mathrm { m g / L }$ ）的牛至油显著降低了培养液总挥发性脂肪酸浓度和丙酸比例（ $\\cdot P { < } 0 . 0 5$ ），显著升高了培养液乙酸比例和乙酸/丙酸（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ ），抑制了瘤胃发酵。2）与对照组相比，除 $1 0 0 \\mathrm { m g / L }$ 牛至油组外，其余各试验组培养液氨氮浓度均显著降低（ $\\cdot P { < } 0 . 0 5$ ）。3）高添加水平（300、 $4 0 0 \\mathrm { { m g / L } }$ ）的牛至油在显著降低甲烷产量的同时也显著降低了总产气量（ $\\scriptstyle \\cdot < 0 . 0 5$ ）。由此可知，牛至油能调控瘤胃发酵和降低甲烷产量，但过高添加水平对瘤胃发酵有抑制作用，体外条件下最适添加水平为$2 0 0 \\mathrm { m g / L }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：牛至油；体外产气法；发酵特性；甲烷产量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S816.7",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牛至油（oregano essentialoil，OEO）是从植物牛至的叶和花中提取的一种挥发性植物油，含有30多种抗菌性的化合物，其活性成分主要为香芹酚（carvacrol，又称香荆介酚，化学名为2-甲基-5-异丙基苯酚）和百里酚（thymol，又称麝香草酚，化学名为5-甲基-2-异",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2018-01-29  \n基金项目：吉林省国际科技合作项目（20160414042GH）；吉林省农业科技创新工程项目（CXGC2017JQ003）  \n作者简介：张然（1993-），女，甘肃白银人，硕士研究生，研究方向为动物营养与饲料  \n科学。E-mail: 875217459@qq.com  \n\\*通信作者：杨华明，研究员，E-mail：yhmjl@163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "丙基苯酚）[Il，是我国农业部批准使用的抗菌促生长添加剂。目前国内外已有较多的研究发现,在反刍动物饲粮中添加牛至油可调控瘤胃发酵，能降低瘤胃内甲烷排放[2]和氨氮浓度[3-4],提高动物生产性能[5]。随着全球变暖日益加剧，温室效应气体（二氧化碳、甲烷和氧化亚氮）减排越来越受到人们的广泛关注，就单一气体而言，甲烷具有大气寿命较长的特性，增温潜力大约是二氧化碳的25 倍[6]。瘤胃内 $82 \\%$ 的甲烷是通过甲烷短杆菌利用瘤胃中的代谢氢还原二氧化碳生成，但甲烷不被动物机体利用而通过暖气排出体外[7]，因而生甲烷过程伴随着较大的能量损失。牛至油作为饲料添加剂可控制温室效应气体排放，减少动物体内能量损失，提高饲料利用率。因此，深入研究牛至油在动物生产中的应用具有重要意义。综上，本试验通过体外产气法研究不同牛至油添加水平对瘤胃发酵特性和甲烷产量的影响，旨在获取牛至油的最适添加水平，为牛至油在反刍动物养殖中的应用提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料牛至油购自济南上达生物工程有限公司，纯度为 $90 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验动物与饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "提供瘤胃液的动物为4只装有永久瘤胃瘘管的新疆细毛羊与杜泊羊杂交的4周岁公绵羊，体重为（ $4 0 . 8 3 { \\scriptstyle \\pm 4 . 1 1 }$ ）kg，参照《肉羊饲养标准》（NY/T816-2004）推荐的营养需要配制基础饲粮，精粗比为30:70，其组成及营养水平见表1。每天于07:00 和17:00 等量饲喂2次，先粗后精，自由饮水。在采集瘤胃液进行体外产气试验之前先预饲 $1 0 \\mathrm { d }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/d7c72be0a55a1d1dd17b15d98b17c99c91080d926db2ef16f872e66722489a43.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平(风干基础) ",
+            "Table 1Composition and nutrient levels of the basal diet (air-dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>羊草 Chinese wildrye</td><td>44.26</td></tr><tr><td>苜蓿干草 Alfalfa hay</td><td>22.95</td></tr><tr><td>玉米Corn</td><td>3.26</td></tr><tr><td>小麦麸Wheat bran</td><td>10.19</td></tr><tr><td>大豆粕 Soybeanmeal</td><td>3.80</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>3.28</td></tr><tr><td>米糠粕 Rice bran meal</td><td>6.56</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>2.87</td></tr><tr><td>玉米干酒糟及其可溶物 Corn DDGS</td><td>1.31</td></tr><tr><td>石粉Limestone</td><td>0.72</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/959c0d96cbb92ca2f53c2436a8e36e936063d9040e060b71c963fbcce73fddf4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>食盐 NaCl 0.50</td></tr><tr><td>预混料Premix1) 0.30</td></tr><tr><td>合计 Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>干物质DM 86.80</td></tr><tr><td>消化能 DE/(MJ/kg) 12.55</td></tr><tr><td>粗蛋白质CP 11.39</td></tr><tr><td>粗脂肪 EE 2.80</td></tr><tr><td>粗灰分 Ash 7.72</td></tr><tr><td>中性洗涤纤维 NDF 53.36</td></tr><tr><td>酸性洗涤纤维ADF 31.13</td></tr><tr><td>钙Ca 0.74</td></tr><tr><td>磷P 0.22</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$1 ^ { \\circ }$ 预混料为每千克饲粮提供 The premix provided the following per kg of the diets：Fe $3 8 ~ \\mathrm { m g }$ ， $\\mathrm { Z n 4 4 m g }$ Cu 15 mg， $\\mathrm { ~ I ~ } 0 . 5 \\mathrm { ~ m g }$ ， $\\mathrm { M n } 5 0 \\mathrm { m g }$ ，Se $0 . 3 ~ \\mathrm { m g }$ ， $\\mathrm { C o } 0 . 0 5 \\ : \\mathrm { m g }$ ，VA 354 IU，VD 94.4 IU，VE $1 . 0 6 \\mathrm { m g }$ 。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2’消化能为实测值,其余为计算值。DE was a measured value,while the others were calculated values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本试验采用单因素完全随机试验设计，体外发酵系统有6个发酵罐（每个发酵罐的有效容积为 $2 0 0 ~ \\mathrm { m L }$ ），其中1个发酵罐设为空白对照组（不添加发酵底物和牛至油，用于发酵罐中产气量的校正），其余5个发酵罐添加培养液 $. +$ 发酵底物 $^ +$ 牛至油，牛至油在培养液中的浓度分别设为0（对照）、100、200、300 和 $4 0 0 \\mathrm { m g / L }$ ，发酵 $1 2 \\mathrm { h }$ ，试验连续进行5d,即每个添加水平设置5个重复。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4体外产气试验",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 装置",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "体外产气试验装置为吉林农业科学院畜牧科学分院自主研制的\"六通路瞬时发酵微量产气全自动记录装置与软件系统”，型号为Qtfxy-6。该装置主体由恒温厌氧发酵系统和数据采集系统组成，恒温厌氧发酵系统的6个白钢发酵罐外连有2根乳胶管，一根连接氮气罐，在发酵过程中，氮气以一定流速不断进入发酵罐以保证厌氧环境，另一根连接到数据采集系统，将发酵过程中产生的气体送至数据采集仪器，利用甲烷（德国 Semsorseurope 公司）、二氧化碳（德国 Semsorseurope 公司）、氧气（美国AMI公司）和氢气（英国CITY公司）浓度传感器对气体进行检测。数据采集仪器每间隔 $1 \\mathrm { m i n }$ 依次（ $\\lfloor 1 { \\sim } 6 )$ ）单独采集各发酵罐内气体数据，每 $6 \\mathrm { m i n }$ 循环1次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 缓冲液的制备 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "厌氧人工瘤胃缓冲液按Menke 等[8]方法配制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 瘤胃液的采集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验当日晨饲前，利用负压原理从4只瘘管羊瘤胃内不同部位采集足量瘤胃液，厌氧无菌条件下搅拌后经4层纱布分离固体和液体部分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.4 试验过程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "培养液为 $1 5 0 ~ \\mathrm { m L }$ ，由1:2的瘤胃液和缓冲液组成。培养底物取样 $2 { \\mathrm { g } }$ ，由精粗比为30:70的饲粮组成。牛至油的添加方式：分别称取0、150、300、450 和 $6 0 0 \\mathrm { m g }$ 牛至油溶于 $1 0 \\mathrm { m L }$ 无水乙醇，配成0、15、30、45 和 $6 0 ~ \\mathrm { { m g / m L } }$ ，取 $1 \\mathrm { m L }$ 加入相应的培养液，使培养液浓度依次达到0、100、200、300 和 $4 0 0 \\mathrm { m g / L }$ ，空白对照组也加入 $1 ~ \\mathrm { m L }$ 无水乙醇。水浴摇床温度 $3 9 \\mathrm { ~ \\ ^ ~ C ~ }$ ，转速为 $8 0 ~ \\mathrm { r / m i n }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.5 样品采集",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于发酵罐培养 $1 2 \\mathrm { h }$ 后立即测定 $\\mathfrak { p H }$ ，然后采集培养液于-20℃冷冻保存，以测定总氮、氨氮、尿素氮和挥发性脂肪酸浓度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 测定指标及测定方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "pH：用酸度计（pHS-3C，上海雷磁仪器厂）测定。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "挥发性脂肪酸浓度：用气相色谱仪（6890N,Agilent,美国)测定。色谱柱为HP19091N-213型毛细管柱（Agilent，美国）。色谱条件:进样口温度 $2 2 0 \\mathrm { ~ \\textdegree ~ }$ ，氮气流量 $2 . 0 \\ : \\mathrm { m L / m i n }$ ，分流比为 $4 0 : 1$ ，进样量 $0 . 6 ~ \\mu \\mathrm { L }$ ，程序升温模式（120℃3min然后以 $1 0 \\ \\mathrm { ^ { \\circ } C / m i n }$ 升至 $1 8 0 \\mathrm { ~ \\textdegree ~ }$ ，保持1min），火焰氢离子检测器（FID）温度 $2 5 0 \\mathrm { ~ \\textdegree C }$ ，FID空气、氢气和氮气流量分别为45、40、45 mL/min。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "总氮浓度:用凯氏定氮法测定[9]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "氨氮浓度：按冯宗慈等[10]改进的比色法测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "尿素氮浓度：用二乙酰—肟法测定，试剂盒购自南京建成生物工程研究所。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "蛋白氮浓度计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "蛋白氮（mg/dL） $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 总氮（ $\\mathrm { \\ m g / d L }$ ）-氨氮（ $\\mathrm { m g / d L }$ ）-尿素氮（ $\\mathrm { m g / d L }$ ）。总产气量和甲烷产量：由数据分析仪采集并被实时记录。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6数据统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据采用 SPSS19.0 软件的 one-way ANOVE 法进行方差分析,差异显著时,采用 Turkey法（方差齐）或Tamhane 法（方差不齐）进行多重比较，以 $P { < } 0 . 0 5$ 作为差异显著的判断标准。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1培养液pH及挥发性脂肪酸浓度和比例",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，与对照组相比，各试验组培养液的 $\\mathsf { p H }$ 分别提高了的 $2 . 6 \\%$ 、 $5 . 6 \\%$ 、 $7 . 2 \\%$ 和 $6 . 8 \\%$ ，均显著地高于对照组（ $P { < } 0 . 0 5$ ）。300、 $4 0 0 \\mathrm { m g / L }$ 组与其余组相比，培养液总挥发性脂肪酸浓度和丙酸比例均显著降低（ $P { < } 0 . 0 5$ ），培养液乙酸比例和乙酸/丙酸显著增加1 $\\scriptstyle \\cdot P < 0 . 0 5 .$ )。培养液丁酸和其他酸的比例变化是一致的， $2 0 0 \\mathrm { m g / L }$ 组显著高于对照组( $. P { < } 0 . 0 5 )$ ，$4 0 0 \\mathrm { m g / L }$ 组显著低于对照组（ $\\scriptstyle P < 0 . 0 5 .$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2牛至油对体外发酵培养液 $\\mathsf { p H }$ 及挥发性脂肪酸浓度和比例的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7e781806362d77e5a9787b489df064c0e6199f7a6020bb38592524a72addae94.jpg",
+        "table_caption": [
+            "Table 2Effects of oregano oil on $\\mathsf { p H }$ and volatile fatty acid concentrations and proportions in culture medium of in vitro fermentation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标 Indexes</td><td colspan=\"5\">牛至油添加水平 Oregano oil supplemental level/（mg/L）</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>0</td><td>100</td><td>200</td><td>300</td><td>400</td></tr><tr><td>pH</td><td>6.66</td><td>6.83b</td><td>7.03a</td><td>7.14a</td><td>7.11a</td><td>0.20</td><td><0.001</td></tr><tr><td>总挥发性脂肪酸 TVFA/(mmol/L)</td><td>53.76a</td><td>52.15a</td><td>50.14a</td><td>42.17b</td><td>34.67℃</td><td>1.58</td><td><0.001</td></tr><tr><td>乙酸 Acetate/%</td><td>72.13c</td><td>71.50℃</td><td>70.67c</td><td>74.84b</td><td>77.37a</td><td>0.53</td><td><0.001</td></tr><tr><td>丙酸 Propionate/%</td><td>14.84a</td><td>14.57a</td><td>14.35a</td><td>11.68b</td><td>11.14b</td><td>0.33</td><td><0.001</td></tr><tr><td>丁酸Butyrate/%</td><td>10.55b</td><td>11.29ab</td><td>11.77a</td><td>10.87b</td><td>9.62c</td><td>0.85</td><td><0.001</td></tr><tr><td>其他酸 Others/%</td><td>2.48b</td><td>2.64b</td><td>3.20a</td><td>2.61b</td><td>1.87℃</td><td>0.10</td><td><0.001</td></tr><tr><td>乙酸/丙酸 Acetate/propionate</td><td>4.86b</td><td>4.91b</td><td>4.93b</td><td>6.43a</td><td>6.96a</td><td>0.19</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同小写字母表示差异显著（ $_ { . } { \\cal P } { < } 0 . 0 5$ ）。下表同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Values in the same row with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 培养液氮浓度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，与对照组相比，培养液氨氮浓度除 $1 0 0 \\mathrm { m g / L }$ 组外其余各试验组都显著降低（ $\\scriptstyle \\cdot { P < 0 . 0 5 } .$ ）。 $3 0 0 \\mathrm { m g / L }$ 组培养液总氮浓度显著高于100 和 $4 0 0 \\mathrm { m g / L }$ 组（ $\\cdot P { < } 0 . 0 5 \\$ ），与其余各组差异不显著（ $P { > } 0 . 0 5$ ）。各试验组培养液尿素氮浓度跟对照组相比差异不显著1 $( P { > } 0 . 0 5 )$ ， $4 0 0 \\mathrm { m g / L }$ 组显著高于 $2 0 0 \\mathrm { m g / L }$ 组（ $\\cdot - 0 . 0 5$ ）。 $3 0 0 \\mathrm { m g / L }$ 组培养液蛋白氮浓度",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "110 显著高于 $4 0 0 \\mathrm { m g / L }$ 组（ $\\cdot - 0 . 0 5$ ），其余各组间差异均不显著（ $P { > } 0 . 0 5 \\$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3牛至油对体外发酵培养液氮浓度的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5c1f3280cff1ce957bf4ebd3a31ee3f754f8859ce6628cefd4877212b44b9fc.jpg",
+        "table_caption": [
+            "Table 3Effects of oregano oil on nitrogen concentration in culture medium of in vitro fermentation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标 Indexes</td><td colspan=\"5\">牛至油添加水平 Oregano oil supplement levels/（mg/L）</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>0</td><td>100</td><td>200</td><td>300</td><td>400</td></tr><tr><td>总氮Total nitrogen</td><td>41.90ab</td><td>38.54b</td><td>41.98ab</td><td>50.44a</td><td>33.01b</td><td>1.57</td><td>0.005</td></tr><tr><td>氨氮 Ammonia nitrogen</td><td>11.50a</td><td>10.37ab</td><td>9.09b</td><td>9.99b</td><td>9.16b</td><td>0.27</td><td>0.006</td></tr><tr><td>尿素氮Urinary nitrogen</td><td>0.72ab</td><td>0.74ab</td><td>0.65b</td><td>0.77ab</td><td>1.05a</td><td>0.04</td><td>0.028</td></tr><tr><td>蛋白氮 Protein nitrogen</td><td>29.97ab</td><td>27.96ab</td><td>32.16ab</td><td>38.92a</td><td>21.23b</td><td>1.61</td><td>0.015</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "114 2.3总产气量和甲烷产量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，总产气量和甲烷产量的变化是一致的，即与对照组相比，300 和 $4 0 0 \\mathrm { m g / L }$ 组总产气量和甲烷产量显著降低（ $\\cdot - 0 . 0 5$ ），其余各组间均没有显著差异（ $P { > } 0 . 0 5$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c01d8b24ba92a3f7ca0343df9e95e57b809aed2189f14f1969c01f20015fba18.jpg",
+        "table_caption": [
+            "mg/dL ",
+            "表4牛至油对体外发酵总产气量和甲烷产量的影响",
+            "Table 4Effects of oregano oil on gas production and methane production of in vitro fermentation mL/g "
+        ],
+        "table_footnote": [
+            "119 不同时间点各组甲烷产量的动态变化如图1所示。在各时间点，对照组甲烷产量均为最高，120 300和 $4 0 0 \\mathrm { m g / L }$ 组大幅低于对照组。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标 Indexes</td><td colspan=\"5\">牛至油添加水平 Oregano oil supplement levels/（mg/L）</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>0</td><td>100</td><td>200</td><td>300</td><td>400</td></tr><tr><td>总产气量 Total gas production</td><td>146.24a</td><td>145.46a</td><td>135.39a</td><td>115.03b</td><td>88.69c</td><td>4.61</td><td><0.001</td></tr><tr><td>甲烷产量 Methane production</td><td>62.18a</td><td>64.86a</td><td>61.87a</td><td>50.98b</td><td>41.26c</td><td>1.96</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0eec494be2d6676b335e3f15cb9ce14227e9147871758d9ba80716d25fc15ffb.jpg",
+        "img_caption": [
+            "图1牛至油对体外发酵甲烷产量的影响",
+            "Fig.1Effects of oregano oil on methane production of in vitro culture of in vitro fermentation "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1牛至油对体外发酵培养液pH及挥发性脂肪酸浓度和比例的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "瘤胃液pH是判断反刍动物瘤胃是否酸中毒的主要指标，而挥发性脂肪酸和乳酸浓度是导致瘤胃液pH变化的主要因素[1]。本试验中，各试验组培养液的pH在 $6 . 6 3 \\sim 7 . 1 7$ ，均显著高于对照组，在有利于瘤胃微生物生长、发育及发酵的 $\\mathfrak { p H }$ 范围（ $5 . 5 \\sim 7 . 5$ ）内[12]，说明牛至油能提高体外培养液的pH。徐方华[13]利用瘤胃体外批次培养方法，以精粗比为 60:40的饲粮为底物，研究不同添加水平（0、27、53、 $8 0 ~ \\mathrm { m g / d L }$ ）牛至油对黄牛瘤胃发酵特性，结果表明，各牛至油添加组与对照组相比，提高了培养液 $\\mathfrak { p H }$ 且 $\\mathfrak { p H }$ 与添加水平成正比。Evans等[14]研究表明，麝香草酚抑制与瘤胃能量代谢相关的牛链球菌和反刍兽新月单胞菌的生长，2 种菌降低了乳酸浓度。乳酸是一种强酸，解离系数（pKa，3.9）低于挥发性脂肪酸的解离系数（4.8），对瘤胃液pH的贡献率是挥发性脂肪酸的近10倍[15-16]，从而降低瘤胃内有机酸的积累，使瘤胃液pH升高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "挥发性脂肪酸是瘤胃微生物发酵的终产物，是供应反刍动物能量代谢的主要形式[17],因此认为会降低总挥发性脂肪酸浓度的任何牛至油添加水平对反刍动物都是不利的。本试验中高添加水平 $( 3 0 0 , 4 0 0 \\mathrm { m g / L } )$ 的牛至油显著降低了总挥发性脂肪酸浓度（分别降低了 $2 1 . 6 \\%$ ，$3 5 . 5 \\%$ ）和丙酸比例（分别降低了 $2 1 . 3 \\%$ 、 $2 4 . 9 \\%$ ），并显著增加了乙酸比例（分别增加了3.8%、 $7 . 3 \\%$ ）和乙酸/丙酸（分别增加了 $32 . 3 \\%$ 、 $4 3 . 2 \\%$ ），说明添加牛至油浓度在 $3 0 0 \\mathrm { m g / L }$ 以上时抑制了瘤胃发酵和微生物的活性。林波等[18]用体外法研究了牛至油及其主要成分香芹酚对体外瘤胃发酵的影响，在培养液中添加0、50、200、500 和 $7 5 0 \\mathrm { m g / L }$ 牛至油，发现总挥发性脂肪酸浓度随牛至油添加水平的增加而降低，且高添加水平 $( 5 0 0 , ~ 7 5 0 \\mathrm { { m g / L } }$ ）的牛至油时瘤胃发酵过程受到抑制，这种影响归因于细胞膜完整性的丧失和葡萄糖摄取量的降低[14]。Castillejos 等[19]在研究不同植物油在不同浓度水平（5、50、500、 $5 0 0 0 \\mathrm { m g / L }$ ）下对体外发酵培养液发酵产物浓度的影响中发现，与对照组相比，培养液中添加 ${ 5 0 0 } \\mathrm { m g / L }$ 百里酚，能显著降低总挥发性脂肪酸浓度、丙酸比例和显著升高pH、乙酸比例和乙酸/丙酸，而低添加水平（5、 $5 0 \\mathrm { m g / L }$ ）下对以上指标均没有显著性影响。Patra 等[20-21]试验表明，体外培养液中添加牛至油会减少瘤胃原虫、细菌和主要纤维素分解菌（产琥珀酸丝状杆菌、黄化瘤胃球菌和白色瘤胃球菌）的数量，且与牛至油的添加水平呈线性关系。本试验中总挥发性脂肪酸浓度随牛至油添加水平的增加而降低，但存在剂量效应，可能是因为高添加水平的牛至油抑制了瘤胃内纤维素分解菌和原虫对纤维类饲料的降解，引起总挥发性脂肪酸浓度降低。但也有研究表明，培养液中添加植物油对总挥发性脂肪酸浓度没有影响[22-23]或增加总挥发性脂肪酸浓度[24-25]。分析原因可能是因为植物精油的添加水平和主要成分的化学结构决定了其作用效果。植物精油对单个挥发性脂肪酸的作用是不一样的。有研究报道，植物精油选择性抑制瘤胃内菌群，高添加水平的牛至油促进了革兰氏阳性菌（乙酸的生产者）的产生，并抑制了革兰氏阴性菌（丙酸的生产者）的生成，使乙酸比例增加，丙酸比例降低，从而也升高了乙酸/丙酸[14]。本试验结果与上述研究结果一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2牛至油对体外发酵培养液氮浓度的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本试验中各试验组总氮、尿素氮和蛋白氮浓度与对照组相比，差异均不显著，氨氮浓度在 $8 . 8 1 { \\sim } 1 2 . 6 4 ~ \\mathrm { m g / d L }$ ，在瘤胃内氨氮浓度的变化范围（ $8 5 { \\sim } 3 0 0 ~ \\mathrm { m g / L }$ ）内[26]。与对照组相比，添加100、200、300 和 $4 0 0 \\mathrm { m g / L }$ 的牛至油使氨氮浓度分别降低 $9 . 8 \\%$ 、 $2 1 . 0 \\%$ 、 $1 3 . 1 \\%$ 和$20 . 3 \\%$ ，添加 $1 0 0 \\mathrm { m g / L }$ 以上的牛至油时才能显著降低培养液的氨氮浓度。本试验与白乌日汗[27]结果相一致，体外培养液中分别添加不同浓度（0、45、450 和 $4 5 0 0 \\mathrm { m g / L }$ ）的牛至油和麝香草酚时，在培养 $2 4 \\mathrm { h }$ 后发现当牛至油浓度为 $4 5 \\mathrm { m g / L }$ 时试验组与对照组没有显著差异，而其余各试验组均显著低于对照组，添加麝香草酚的各试验组均显著低于对照组。本试验与Castillejos 等[19]、Cobellis 等[2]结果类似。植物精油降低培养液氨氮浓度的原因有：植物精油能够抑制瘤胃超级产氨菌（如斯蒂克兰德氏梭菌、厌氧消化链球菌）的生长，降低脱氨酶活性，导致氨基酸脱氨基作用降低[28-29]；原虫是瘤胃内氨氮的净产生微生物，通过抑制原虫数量降低瘤胃内氨氮浓度[30]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3牛至油对体外发酵总产气量和甲烷产量的影响 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "总产气量是反映饲料可发酵程度及瘤胃微生物活性的重要指标[31。反刍动物瘤胃内合成甲烷的主要途径是氢气还原二氧化碳形成甲烷，其次是乙酸、甲酸和丁酸等挥发性脂肪酸合成甲烷[12]，因此任何一种影响甲烷形成途径的因素都会导致甲烷产量的变化。本试验结果表明，添加牛至油时，总产气量随添加浓度的增加而降低，且高添加水平（300、 $4 0 0 \\mathrm { m g / L }$ ）下显著降低了总产气量，抑制了瘤胃的发酵。同样，只有高添加水平（300、 $4 0 0 \\mathrm { m g / L }$ ）的牛至油才会显著降低甲烷产量。Evans 等[14]的试验表明，在体外瘤胃培养过程中，当麝香草酚的添加水平分别为50、100 和 $2 0 0 \\mathrm { m g / L }$ 时均没有影响甲烷产量，而添加水平为 $4 0 0 \\mathrm { m g / L }$ 时显著降低了甲烷产量。Chaudhary 等[32]报道，添加 $4 5 0 ~ \\mathrm { m g / L }$ 的百里香油和牛至油能显著降低体外发酵甲烷产量（分别降低了 $6 8 . 8 \\%$ 、 $82 . 5 \\%$ ），而50和 $1 5 0 \\mathrm { m g / L }$ 的添加水平对甲烷产量没有显著影响。Gunal等[33]、Macheboeuf等[34]的研究结果也与本试验结果一致，这可能是因为瘤胃微生物对低添加水平的植物精油产生耐受性，导致植物精油对甲烷产量影响不显著。Wang 等[35]体内试验表明，添加 $0 . 2 5 ~ \\mathrm { g / d }$ 的牛至油混合物能降低绵羊的甲烷产量。有学者认为，植物精油通过直接抑制产甲烷菌的活性或间接减少与产甲烷菌共生的原虫数量来降低瘤胃内的甲烷产量[20-21,36]。也有理论认为，瘤胃内丙酸比例和甲烷产量之间存在负相关，因为丙酸是氢的受体，在形成过程中可利用合成甲烷所需要的氢，导致甲烷产量降低[12]。本试验结果未显示出这种变化，具体原因还需进一步剖析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 高添加水平（300、 $4 0 0 \\mathrm { m g / L }$ ）的牛至油在显著降低甲烷产量的同时也显著降低了总 产气量和总挥发性脂肪酸浓度，抑制瘤胃发酵，对反刍动物营养是不利的，而添加 $2 0 0 \\mathrm { m g / L }$ 牛至油对总产气量和总挥发性脂肪酸浓度没有显著影响，但显著降低了氨氮浓度。   \n$\\textcircled{2}$ 综合各项指标得出，体外条件下最适添加水平为 $2 0 0 \\mathrm { m g / L }$ 。   \n参考文献：   \n[1] 张勇,王萌,李方方,等.三丁酸甘油酯和牛至油对断奶仔猪生长性能、血清生化指标和营 养物质表观消化率的影响[J].动物营养学报,2016,28(9):2786-2794.   \n[2] COBELLIS G,PETROZZI A,FORTE C,et al.Evaluation of the effects of mitigation on methane and ammonia production by using Origanum vulgare L. and Rosmarinus officinalis L. essential oils on in vitro rumen fermentation systems[J].Sustainability,2015,7(9):12856-12869. [3] BUSQUET M,CALSAMIGLIA S,FERRET A,et al.Plant extracts affect in vitro rumen microbial fermentation.[J].Journal of Dairy Science,2006,89(2):761-771.   \n[4]谢仲权,牛树琦.天然植物饲料添加剂生产技术与质量标准[M].北京:中国农业科技出版 社,2004:3-4.   \n[5]张善芝.日粮添加牛至油对夏季肉牛生长性能的影响[J].畜牧与兽医,2011,43(7):39-41. [6] ZHOU Y Y,MAO H L,JIANG F,et al.Inhibition of rumen methanogenesis by tea saponins   \nwith reference to fermentation patern and microbial communities in Hu sheep[J].Animal Feed   \nScience and Technology,2011,166-167:93 - 100.   \n[7]周怿,刁其玉.反刍动物瘤胃甲烷气体生成的调控[J].草食家畜,2008(4):21-24.   \n[8]MENKE K H,STEINGASS H.Estimation of the energetic feed value obtained from chemical analysisand in vitrogasproduction using rumen fluid[J].Animal Research and Development,1988,28:7-55.   \n[9]杨胜.饲料分析及饲料质量检测技术[M].北京:北京农业大学出版社,1993.   \n[10]冯宗慈,高民.通过比色测定瘤胃液氨氮含量方法的改进[J].内蒙古畜牧科 学,2010(4):40-41.   \n[11]OWENS F N,SECRIST D S,HILL W J,et al.Acidosis in cattle:a review[J]Jourmal of Animal Science,1998,76(1):275-286.   \n[12]郝正里,刘世民,孟宪政.反刍动物营养学[M].兰州:甘肃民族出版社,2000:3-4.   \n[13]徐方华.牛至油及主要成分对瘤胃发酵特性和甲烷产量影响的研究[D].硕士学位论文.   \n延吉:延边大学,2014:15 - 17.   \n[14]EVANS JD,MARTIN S A.Efects of thymol on ruminal microorganisms[J].Current Microbiology,2000,41(5):336-340.   \n[15]ENEMARK J M D,JORGENSEN R J,ST ENEMARK P.Rumen acidosis with special emphasis on diagnostic aspects of subclinical rumen acidosis:a review[J].Veterinarija Ir Zootechnika,2002,20(42):16-29.   \n[16]邬宇航,刘大程,胡红莲,等.亚急性瘤胃酸中毒对瘤胃发酵和瘤胃微生物区系影响的研 究进展[J].中国畜牧杂志,2013,49(19):86-90.   \n[17]VAN SOEST P J.Nutritional ecology of the ruminant[M].Ithaca:Cornell University Press,1994.   \n[18]林波,纪苗苗,梁权,等.肉桂油和牛至油及其主要成分对体外瘤胃发酵和甲烷产生的影 响[J].中国兽医学报,2011,31(2):279-282,287.   \n[19]CASTILLEJOS L,CALSAMIGLIA S,FERRET A.Effect of essential oil active compounds on rumen microbial fermentation and nutrient flow in in vitro systems[J].Journal of Dairy ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Science,2006,89(7):2649-2658. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[20] PATRA A K,YU Z T.Effects of essential oils on methane production and fermentation by,and abundance and diversity of,rumen microbial populations[J].Applied and Environmental Microbiology,2012,78(12):4271-4280.   \n[21]PATRA A K,YU Z T.Essential oils affect populations of some rumen bacteria in vitro as revealed by microarray (RumenBactArray) analysis[J].Frontiers in Microbiology,2015,6:297.   \n[22]BEAUCHEMIN K A,MCGINN S M.Methane emissions from beef cattle:effects of fumaric acid,essential oil,and canola oil[J].Journal of Animal Science,2006,84(6):1489-1496.   \n[23]CHAVES A V,HE ML,YANG W Z,et al.Effects of essential oils on proteolytic,deaminative and methanogenic activities of mixed ruminal bacteria[J].Canadian Journal of Animal Science,2008,88(1):117-122.   \n[24] CASTILLEJOS L,CALSAMIGLIA S,FERRET A,et al.Effects of a specific blend of essential oil compounds and the type of diet on rumen microbial fermentation and nutrient flow from a continuous culture system[J].Animal Feed Science and Technology,2005,119(1/2):29-41.   \n[25]CHAVES A V,STANFORD K,GIBSON L L,et al.Effects of carvacrol and cinnamaldehyde onintake,rumen fermentation,growth performance,and carcass characteristics of growing lambs[J].Animal Feed Science and Technology,2008,145(1/2/3/4):396-408.   \n[26]周安国,陈代文.动物营养学[M].3版.北京:中国农业出版社,2010:40.   \n[27]白乌日汗.植物精油及其他活性成分对奶牛瘤胃发酵功能影响的研究[D].硕士学位论 文.呼和浩特:内蒙古农业大学,2009:36- 37.   \n[28]FLYTHE M D.The antimicrobial effcts of hops (Humulus lupulus L.) on ruminal hyper ammonia-producing bacteria[J].Letters in Applied Microbiology,2009,48(6):712-717.   \n[29]BENCHAAR C,CALSAMIGLIA S,CHAVES A V,et al.A review of plant-derived essential oils in ruminant nutritionand production[J].AnimalFeed Science and Technology,2008,145(1/2/3/4):209-228.   \n[30] MCINTOSH F M,WILLIAMS P,LOSA R,et al.Effects of essential oils on ruminal ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "microorganisms and their protein metabolism[J].Applied and Environmental Microbiology,2003,69(8):5011-5014. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[31]CLARK J H,KLUSMEYER T H,CAMERON M R.Microbial protein synthesis and flows ofnitrogenfractionstotheduodenumofdairycows[J].JournalofDairy Science,1992,75(8):2304-2323.   \n[32]CHAUDHARY P P,GOEL N,BAKER G,et al.Influence of essential oils supplementation on rumen fermentationprofile and ruminal microbial population invitro[J].Journal of Science,2016,1(4):25-34.   \n[33]GUNAL M,PINSKI B,ABUGHAZALEH A A.Evaluating the effects of essential oils on methane production and fermentation under in vitro conditions[J].Italian Journal of Animal Science,2017,16(3):500-506.   \n[34]MACHEBOEUF D,MORGAVI D P,PAPON Y,et al.Dose-response effects of essential oils on in vitro fermentation activity of the rumen microbial population.[J].Animal Feed Science and Technol0gy,2008,145(1/2/3/4):335-350.   \n[35]WANG C J,WANG S P,ZHOU H.Influences of flavomycin,ropadiar,and saponin on nutrient digestibility,rumen fermentation,and methane emission from sheep[J].Animal Feed Science and Technology,2009,148(2/3/4):157-166.   \n[36]CIESLAK A,SZUMACHER-STRABEL M,STOCHMAL A,et al.Plant components with specific activities against rumen methanogens[J].Animal,2013,7(Suppl.2):253-265. Effects of Oregano Oil on Ruminal Fermentation Characteristics and Methane Production of Sheep by Gas Production Technique in Vitro ZHANG Ran1,2² ZHENG Chen² YAN Xiaogang1 LIANG Haol YANG Huaming1\\* (1. Branch Academy ofAnimal Science, Jilin Academy of Agricultural Sciences, Gongzhuling 136100, China; 2. Colege of Animal Science and Technology, Gansu Agriculture University, Lanzhou 730070, China)   \nAbstract: This study aimed to explore the effects of oregano oil on ruminal fermentation characteristics and methane production of sheep by gas production technique in vitro. A single-factor experimental design was used. Oregano oil was added in culture medium for different groups at levels of0（control）,100,200,300 and $4 0 0 ~ \\mathrm { { m g / L } }$ , respectively. Each group had 5 replicates.After fermented for $1 2 \\mathrm { h }$ ,methane production, total gas production, as well as pH, concentrations of total nitrogen， ammonia nitrogen， urea nitrogen and protein nitrogen， and concentrations and proportions of volatile fatty acids in culture medium were measured. The results showed as follows: 1) the addition of oregano oil at levels of 100, 20o,300 and $4 0 0 ~ \\mathrm { { m g / L } }$ all significantly increased culture medium pH ( $\\scriptstyle ( P < 0 . 0 5 )$ ; the addition of high levels (300 and 400 $\\mathrm { m g / L } )$ of oregano oil significantly decreased the concentration of total volatile fatty acids and the proportion of propionate $( P { < } 0 . 0 5 )$ ， and significantly increased the proportion of acetate and the ratio of acetate to propionate in culture medium ( $( P { < } 0 . 0 5 )$ . 2) Compared with control group, the concentration of ammonia nitrogen was significantly decreased in experimental groups except 100 $\\mathrm { m g / L }$ oregano oil group $( P { < } 0 . 0 5 )$ . 3) the addition of high levels (300 and $4 0 0 ~ \\mathrm { { m g / L } }$ ）of oregano oil significantly decreased methane production and total gas production $( P { < } 0 . 0 5 )$ . In conclusion, oregano oil can regulate ruminal fermentation and reduce methane production, but the over-high addition level had inhibination effects on ruminal fermentation,and the optimum adding level is $2 0 0 \\mathrm { m g / L }$ under in vitro conditions.   \nKey words: oregano oil; gas production technique in vitro; fermentation characteristic; methane yield ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

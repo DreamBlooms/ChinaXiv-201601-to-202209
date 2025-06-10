@@ -1,0 +1,174 @@
+# 不同土壤水分条件下沙生怪柳（Tamarixtaklamakanensis)的生理生化特征及适应性
+
+苏志豪¹，周晓兵¹，姜小龙²，王留强³，公延明¹，康晓珊1  
+(1.中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2.中南林业科技大学林木遗传育种实验室,湖南长沙410004；3.中国林业科学研究院林业研究所林木遗传育种国家重点实验室，北京100091)
+
+摘要：沙生怪柳(Tamarix taklamakanensis)是我国特有种,是塔里木盆地流动沙丘上最抗旱树种,对固沙造林和荒漠化防治起到非常重要的作用。通过测定沙生怪柳种群在3种不同生境(沙漠公路绿化带、河床砾质荒漠、流动沙丘)的叶片含水量、叶绿素含量、抗氧化酶活性及渗透调节物质含量,探讨了沙生怪柳在不同生境下的生理生化特征及对荒漠极端干旱环境的适应机制。结果表明：随着土壤干旱程度的加剧,沙生怪柳叶片相对含水量逐渐下降;超氧化物歧化酶(SOD)活性、过氧化物酶(POD)活性、总抗氧化能力(T-AOC)逐渐升高;过氧化氢酶(CAT)与硝酸还原酶(NR)活性逐渐降低;种群叶片内可溶性蛋白呈上升趋势。在最为干旱的流动沙丘,种群叶片叶绿素a含量、可溶性糖含量最高。在干旱胁迫条件下,沙生怪柳种群主要通过增高SOD活性、POD活性、总抗氧化能力及降低过氧化氢酶(CAT）、硝酸还原酶(NR)含量以维持活性氧代谢平衡;同时,通过大量积累渗透调节物质可溶性糖、可溶性蛋白、丙二醛以维持高渗透调节能力抵御干旱环境胁迫。
+
+关键词：沙生怪柳；抗氧化酶活性；渗透调节物质；生态适应性
+
+荒漠化是我国干旱、半干旱地区面临的最严重的问题，荒漠化面积已达国土总面积的近三分之一[1]。荒漠区降水量极少,气温高,辐射强,植被主要由超旱生的小乔木、灌木和半灌木或者旱生的肉质植物构成[2]。由于长期生活在极端干旱的严酷环境下，这些荒漠植物逐渐形成适应干旱的生理生化调节特征，在逆境下存活、繁衍，在脆弱荒漠区的生态稳定中发挥着不可替代的作用[2-5]。干旱胁迫引起植物活性氧的产生与清除失去平衡，同时，植物体渗透调节物质开始积累，细胞质渗透势进行调节[7],抗氧化系统酶促物质活性增强，有效清除活性氧，避免或减缓对活性氧的伤害，进行保护系统调节[8]。干旱胁迫下,植物具有的保护体系、渗透调节功能和其他一些机制在维持内环境的稳定性方面有重要作用，是植物在长期进化过程中演化出的适应干旱环境的机制与策略[3]
+
+沙生怪柳（Tamarixtaklamakanensis）又名塔克拉玛干怪柳，生于远离河床和湖盆的流动沙丘上，主要分布于新疆塔里木盆地塔克拉玛干沙漠和田河、克里雅河、塔里木河、安迪尔河流域中下游的沙丘间，为我国特有物种[9]。此种强喜光,耐盐碱,耐空气干旱与沙表高温，比此属其他种更耐沙埋和干旱，对我国荒漠化防治意义重大，同时作为塔克拉玛干沙漠腹地荒漠群落的建群种,沙生怪柳对当地生态系统稳定及生态环境保护有着不可替代的作用[10]。目前关于沙生怪柳的研究集中于种群生态[1]、群落生态[12]、分布格局[13]、引种繁育等方面[4],关于其耐旱生理研究仅涉及到利用水势确定其在怪柳属的抗旱性排序[15],在水分参数特征、抗氧化系统等方面的研究未见报道。本研究选择了不同水分条件生境下的沙生怪柳，测定其叶片在不同生境下的生理生化指标，探讨沙生怪柳对不同土壤水分条件下生理生态的响应及植物内部的调节机制，为沙生怪柳耐旱机理的研究提供依据，同时也为荒漠植被的保护、恢复和重建提供参考依据。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+研究区位于塔里木盆地内部塔克拉玛干沙漠，气候类型属于典型的大陆性气候，四季云量少，晴天多，日照时间长，光热充足，太阳辐射的总量为 $6 \sim$ $6 . 5 ~ \mathrm { G J } \cdot \mathrm { m } ^ { - 2 }$ 。年均气温为 $1 0 { \sim } 1 2 ~ \mathrm { ^ circ C }$ ,气温年变化不大，1月份平均气温为 $- 5 \mathrm { { \sim } } 1 0 ~ \mathrm { { \sc C } } , 7$ 月份平均温度为$2 4 { \sim } 2 7 ~ \mathrm { ^ circ C }$ 。塔克拉玛干沙漠四周被高山环绕,远离海洋，气流难以到达，降水稀少，年降水量约为 $1 5 \sim$ $6 0 ~ \mathrm { m m }$ ，降水空间分布不平衡，在沙漠北部和西部的边缘地区降水量较多，南部和东部边缘地区降水较少，蒸发量大,年平均蒸发量在 $2 5 0 0 ~ \mathrm { m m }$ 左右，沙漠腹地蒸发量最大，平均蒸发量超过 $3 5 0 0 ~ \mathrm { { m m } }$ 。沙漠地区年平均风速约为 $1 . 5 { \sim } 2 . 8 ~ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ ,大风集中在春夏两季,风速较高,在 $2 . 0 { \sim } 3 . 5 \ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ 之间[16-17]
+
+试验选择塔里木盆地北缘沙漠公路绿化带、塔中河床砾质荒漠、塔中流动沙丘三种不同生境的沙生怪柳种群进行研究。塔克拉玛干沙漠公路两侧除了人工种植的一些植被如梭梭、怪柳、沙拐枣和芦苇之外，其他地区多为流动沙丘，植物少，种类单一，结构简单，覆盖度不高。
+
+# 1.2研究方法
+
+根据野外观察，5一7月为沙生怪柳生长旺期。2019年6月下旬，在塔里木盆地选取种群，采集实验样品(叶片）。每个种群选取约15株沙生怪柳，为保证所选植株树龄大致一致，选取树木要求生长发育良好,形态大小基本一致。叶片采样统一在植株中部约同一位置，重复3次。每株沙生怪柳采集叶片均匀混合，在液氮罐中冷冻保鲜。
+
+1.2.1土壤含水量的测定在每个种群采集土壤样本，测定各种群土壤样本含水量，样本量为3个重复，土壤深度为 $0 { \sim } 6 0 ~ \mathrm { c m }$ 。在沙生柽柳植株根系附近取土样，土层深度为 $0 { \sim } 2 0 \ 、 2 0 { \sim } 4 0 \ 、 4 0 { \sim } 6 0 \ \mathrm { c m }$ 。利用烘干称重法测定各种群土壤含水量。采取土样在烘箱烘干至恒重，烘干温度为 $1 0 5 ~ \mathrm { ^ { \circ } C }$ ,根据烘干前后差值计算土壤含水量。
+
+1.2.2叶片相对含水量的测定取样叶片首先称取鲜重(FW),然后将叶片浸泡在蒸馏水中，浸泡 $2 4 \mathrm { h }$ ，称取叶片饱和重(SW），最后在烘箱用 $7 0 \ \mathrm { { ^ { \circ } C } }$ 恒温烘干叶片，称取叶片干质量 $( D W )$ 。计算取样叶片的相对含水量 $( R W C )$ ,计算公式如下：
+
+$$
+R W C ( \% ) = [ ( F W - D W ) / ( S W - D W ) ] { \times } 1 0 0
+$$
+
+实验进行3次重复，取均值为该种群取样叶片的相对含水量。
+
+1.2.3叶片叶绿素含量的测定利用乙醇浸提法测定沙生怪柳植物叶片叶绿素含量。称取叶片 $0 . 2 \ \mathrm { g }$ 放入研钵，加入少许石英砂、 $\mathrm { . c a c 0 _ { 3 } . 9 5 \% }$ 乙醇一起研磨，然后过滤杂质，最后用 $9 5 \%$ 乙醇定容到25$\mathrm { m L }$ ,利用分光光度计在波长 $4 7 0 ~ \mathrm { n m } \setminus 6 4 9 ~ \mathrm { n m } \setminus 6 6 5$ $ { \mathrm { n m } }$ 处分别测定吸光度，利用以下公式计算叶绿素含量[18]，实验进行3次重复。
+
+叶绿素a $( \mathbf { m } \mathbf { g } \cdot \mathbf { g } ^ { - 1 }$ 鲜重 $) = 0 . 1 \times ( 1 3 . 9 5 \times \mathrm { D } 6 6 5 - 6 . 8 8 \times$ D649)
+
+叶绿素 $\mathbf { b } \left( \mathbf { m } \mathbf { g } \cdot \mathbf { g } ^ { - 1 } \right.$ 鲜重） $^ { } = 0 . 1 \times ( 2 4 . 9 6 \times \mathrm { D } 6 4 9 -$ $7 . 3 2 \times \mathrm { { D 6 6 5 } }$ ））
+
+叶绿素总含量（ $\mathrm { { ( \underbrace { m g } _ { \mathrm { { } } } \cdot \mathrm { { g } ^ { - 1 } } } }$ 鲜重） $= 0 . 1 \times ( 1 8 . 0 8 \times$ ${ \mathrm { D 6 4 9 + 6 . 6 3 \times D 6 6 5 } } )$
+
+1.2.4叶片生理生化指标的测定选取的叶片生理生化指标包括过氧化物酶(POD)活性、超氧化物歧化酶(SOD)活性、过氧化氢酶(CAT)、总抗氧化能力、丙二醛(MDA)含量、硝酸还原酶活性、可溶性糖含量、可溶性蛋白含量和游离脯氨酸含量。各指标测定方法如下：过氧化物酶(POD)活性采用愈创木酚法[19测定；超氧化物歧化酶(SOD)活性采用NBT光化学还原法[2o测定；过氧化氢酶(CAT)活性采用 $\mathrm { K M n O 4 }$ 法测定；总抗氧化能力采用铁离子还原法2测定;丙二醛(MDA)含量采用硫代巴比妥酸显色法23测定；硝酸还原酶活性采用离体法24测定；可溶性糖含量采用蒽酮硫酸水合热法25测定；可溶性蛋白含量采用考马斯亮蓝比色法[2测定；游离脯氨酸含量采用酸性芘三酮法[测定，实验进行3次重复。
+
+# 1.3数据处理
+
+不同土壤水分条件下沙生怪柳叶片的生理生化指标的对比研究，在SPSS软件中应用多元均值比较法分析计算。
+
+# 2结果与分析
+
+# 2.1土壤与叶片相对含水量
+
+由表1可知，塔里木盆地北缘沙漠公路绿化带沙生怪柳种群生境土壤含水量最高，其次为塔中河床砾质荒漠种群，塔中流动沙丘种群土壤含水量最低。沙漠公路绿化带种群土壤含水量与塔中河床砾质荒漠种群、塔中流动沙丘种群之间差异显著$( P { < } 0 . 0 5 )$ ),塔中河床砾质荒漠种群土壤含水量与塔中流动沙丘种群之间差异不显著。塔里木盆地北缘沙漠公路绿化带种群沙生怪柳叶片含水量最高，其次为塔中河床砾质荒漠种群，塔中流动沙丘种群最低(表1)。沙漠公路绿化带种群叶片相对含水量与河床砾质荒漠种群之间差异不显著，与流动沙丘种群之间差异显著 $( P { < } 0 . 0 5 )$ ；;河床砾质荒漠种群叶片相对含水量与流动沙丘种群之间差异显著( $P <$ 0.05)。从表1可以看出，随着土壤干旱的加剧，沙生怪柳叶片相对含水量逐渐减少。
+
+表1不同生境沙生怪柳种群的土壤含水量与叶片相对含水量  
+Tab.1Soilmoisture contentand leaf watercontentofTamarix taklamakanensis populations indiferent habitat   
+
+<html><body><table><tr><td rowspan="2">生境</td><td rowspan="2">平均值</td><td colspan="3">土壤深度/cm</td><td rowspan="2">叶片相对含水量</td></tr><tr><td>0~20</td><td>20~40</td><td>40~60</td></tr><tr><td>沙漠公路绿化带</td><td>25.0±8.4a</td><td>10.3±3.4a</td><td>35.7±18.1a</td><td>29.0±18.5a</td><td>59.4±1.3a</td></tr><tr><td>河床砾质荒漠</td><td>8.2±1.0b</td><td>9.3±0.9a</td><td>10.3±1.2a</td><td>5.0±1.2a</td><td>58.8±1.2a</td></tr><tr><td>流动沙丘</td><td>4.4±1.0b</td><td>3.7±2.0a</td><td>4.0±2.3a</td><td>5.7±1.5a</td><td>52.5±1.1b</td></tr></table></body></html>
+
+注：表中数值为含水量百分比平均数 $\underline { : } \underline { { + } }$ 标准误（ $\scriptstyle { \bar { n } } = 3$ ；不同小写字母表示差异性显著， $P { < } 0 . 0 5 _ { \circ }$ 。下同。
+
+# 2.2叶片的叶绿素含量
+
+不同生境沙生怪柳种群叶绿素a含量为 $0 . 3 2 \sim$ $0 . 3 8 ~ \mathrm { m g \cdot g ^ { - 1 } }$ ,叶绿素b含量为 $0 . 1 6 { \sim } 0 . 2 0 ~ \mathrm { m g \cdot g ^ { - 1 } }$ ，总叶绿素含量为 $0 . 4 8 { \sim } 0 . 5 8 ~ \mathrm { m g \cdot g ^ { - 1 } }$ 。随着土壤含水量的降低,河床砾质荒漠种群叶片叶绿素a、b含量均有所下降，差异显著;流动沙丘种群叶绿素a含量略微增高，差异不显著，叶绿素b含量下降，差异显著;随着土壤含水量的降低，河床砾质荒漠种群叶片总叶绿素含量有所下降，差异显著；流动沙丘种群叶片
+
+0.70 □叶绿素a☑叶绿素b■总叶绿素0.60 a a(o:u)/ 中0.50 b 中0.40 a a+ b 10.30a0.20 C b0.100.00沙漠公路绿化带 河床砾质荒漠流动沙丘总叶绿素含量略有下降，差异不明显(图2)。
+
+# 2.3叶片抗氧化酶活性及总抗氧化能力
+
+沙漠公路绿化带种群总抗氧化能力最低，为$6 6 3 9 . 4 2 \ \mathrm { U } \cdot \mathbf { g } ^ { - 1 }$ ;河床砾质荒漠种群总抗氧化能力居中，为 $7 1 2 2 . 1 1 \ \mathrm { U \cdot g ^ { - 1 } }$ ;土壤干旱程度最高的流动沙丘种群，总抗氧化能力最高，为 $7 7 8 0 . 7 2 \mathrm { U } \cdot \mathbf { g } ^ { - 1 }$ ,种群间总抗氧化能力差异显著( $( P { < } 0 . 0 5 )$ )。随着土壤干旱程度加剧，总抗氧化能力呈升高趋势，生活在较干旱土壤条件的种群，具有较高总抗氧化能力（图2）。沙漠公路绿化带种群POD活性最低,为2.82U·g"'，土壤十旱程度最高的流动沙丘种群，叶片的POD活性最高,为 $5 . 5 2 \mathrm { U } \cdot \mathbf { g } ^ { - 1 }$ ,随着土壤干旱程度增加,沙生怪柳种群叶片POD活性逐渐增加，3种不同水分条件下叶片POD活性差异性显著（图） $2 \mathrm { a } , P { < } 0 . 0 5 \mathrm { ) }$ ；沙漠公路绿化带种群 SOD活性最低,为 $9 0 0 . 3 5 ~ \mathrm { U \cdot g ^ { - 1 } }$ ，土壤十旱程度最高的流动沙丘种群，叶片的SOD活性最高,为 $9 7 1 . 7 4 ~ \mathrm { U } \cdot \mathrm { g } ^ { - 1 }$ ,随着土壤干旱程度增加,沙生怪柳种群叶片SOD活性逐渐增加，但3种不同水分条件下叶片SOD活性没有显著差异（图 $\ 2 \mathrm { b } , P >$ 0.05);随着土壤干旱程度增加，沙生怪柳种群叶片CAT活性逐渐降低（图 $2 \mathrm { c }$ )，沙漠公路绿化带种群沙生怪柳叶片的CAT活性较高，与河床砾质荒漠、流动沙丘种群相比，有显著差异 $( P { < } 0 . 0 5 )$ O
+
+# 2.4叶片渗透调节物质与丙二醛含量
+
+砾质荒漠种群的叶片可溶性糖含量最低，为$2 0 . 3 4 ~ \mu \mathrm { g } \cdot \mathrm { g } ^ { - 1 }$ ,沙漠公路绿化带种群的叶片可溶性糖含量居中，为 $2 1 . 4 2 ~ \mu \mathrm { g } \cdot \mathrm { g } ^ { - 1 }$ ,两者差异不明显(图3);土壤干旱程度最高的流动沙丘种群叶片可溶性糖含量最高,为 $2 5 . 4 0 ~ \mu \mathrm { g } \cdot \mathrm { g } ^ { - 1 }$ ,与沙漠公路绿化带、砾质荒漠种群间差异显著(图3： $_ { 1 , P < 0 . 0 5 } )$ 。沙生怪柳种群叶片的可溶性蛋白随着土壤干旱程度的加剧呈现出升高趋势(图3b)，流动沙丘种群叶片可溶性蛋白含量最高，为 $2 0 0 . 0 6 \ \mathrm { m g \cdot g ^ { - 1 } }$ ,沙漠公路绿化带种群叶片可溶性蛋白含量最低,为 $1 3 0 . 6 8 \mathrm { m g \cdot g ^ { - 1 } }$ ;种群间
+
+![](images/b6ecc7a1f703c18f0d9fc921adf08c9f6d315491998efad349a3972e42214993.jpg)  
+图2不同生境沙生怪柳叶片抗氧化酶活性及总抗氧化能力
+
+Fig.2LeafantioxidantenzymaticactivityndtotalantioxidantcapacityofTamarixtaklamakanensisunderdiferentwatercoditions
+
+![](images/44714b8b3a4bbfbc387b27b06b953a5e997a65fa128b9d7e5f25cb90aab6e0dd.jpg)  
+图3不同生境沙生怪柳叶片渗透调节物质与丙二醛含量
+
+Fig.3Leaf osmotic adjustment solute and MDAcontentof Tamarix taklamakanensis under diferent water conditic可溶性蛋白含量差异显著 $( P { < } 0 . 0 5 )$ 。不同生境沙生怪柳种群叶片的脯氨酸含量随着土壤干旱程度的加剧呈现出下降的趋势（图3c）。沙漠公路绿化带种群的叶片脯氨酸含量最高，为 $8 2 . 4 4 ~ \mu \mathrm { g } \cdot \mathrm { g } ^ { - 1 }$ ，流动沙丘种群的叶片脯氨酸含量最低,为 $7 5 . 7 0 ~ \mu \mathrm { g } \cdot \mathrm { g } ^ { - 1 }$ 砾质荒漠种群的叶片脯氨酸含量居中,为 $8 2 . 3 8 ~ \mu \mathrm { g }$ $\mathbf { g } ^ { - 1 }$ ，种群间脯氨酸含量差异不显著 $( P { > } 0 . 0 5 )$ 。不同生境沙生怪柳种群叶片MDA含量差异显著( $P <$ 0.05），流动沙丘种群叶片MDA含量最高，为63.83$\mathrm { n m o l } \cdot \mathrm { g } ^ { - 1 }$ ,沙漠公路绿化带种群MDA含量居中，为
+
+$4 4 . 0 6 \mathrm { n m o l \cdot g ^ { - 1 } }$ ;河床砾质荒漠种群叶片MDA含量最低,为 $3 2 . 2 3 ~ \mathrm { n m o l \cdot g ^ { - 1 } }$ 。
+
+# 2.5叶片硝酸还原酶活性
+
+不同生境沙生怪柳种群叶片的硝酸还原酶随着土壤干旱程度的加剧，活性有所降低(图4)。沙漠公路绿化带种群叶片硝酸还原酶活性最高，为$0 . 0 9 ~ { \mu \mathrm { m o l } } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm { g } ^ { - 1 }$ ，流动沙丘种群叶片硝酸还原酶活性居中,为 $0 . 0 8 ~ { \mu \mathrm { m o l } } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm { g } ^ { - 1 }$ ,河床砾质荒漠种群叶片硝酸还原酶活性最低，为 $0 . 0 7 ~ { \mu \mathrm { m o l } } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm { g } ^ { - 1 }$ ，种群间硝酸还原酶活性差异显著 $( P { < } 0 . 0 5 \$ ）。
+
+0.12a b  
+0.08  
+0.06  
+0.04  
+0.02  
+0.00沙漠公路绿化带 河床砾质荒漠 流动沙丘
+
+# 3讨论
+
+水分是植物赖以生存的必要条件之一，长时期的干旱或者短时间的水分亏缺都可能对植物生长发育各个发育阶段产生不良影响，影响各种生理代谢过程，如呼吸代谢、光合作用、各种酶的活性和有机物质的转化、运输、积累等[28]。沙生怪柳生于塔里木盆地腹地塔克拉玛干沙漠,由于种群生境条件不尽相同,各生境土壤干旱程度不同。本研究选取塔里木盆地北缘沙漠公路绿化带、塔克拉玛干沙漠中部河床砾质荒漠、塔克拉玛干沙漠中部流动沙丘三个土壤水分条件不同的种群，研究沙生怪柳种群生理指标对干旱胁迫的敏感性。傅瑞树2在不同干旱程度下对苏铁(Cycas revoluta)耐旱生理特性的研究表明，随着干旱胁迫的加剧，苏铁叶片含水量下降幅度增大;王孟本等[30对柠条的耐旱生理特性的研究表明，土壤干旱程度高，柠条的含水量也较低，两者呈密切正相关。本研究发现,在土壤干旱程度高的沙生怪柳种群，叶片相对含水量较低。生境土壤水分条件对植物叶片含水量有显著的影响[1。塔里木盆地北缘沙漠公路绿化带,由于有人工滴灌，使得土壤湿度较高，因而沙生怪柳也具有相对较高的叶片含水量 $( 5 9 . 4 \% )$ )。由于塔中最为干旱,流动沙丘种群的土壤干旱程度最高,严重干旱使得沙生怪柳根系难以获得充足地下水，导致叶片相对含水量较低 $( 5 2 . 5 \%$ )。土壤干旱程度也会影响叶片叶绿素含量,进而影响植物的光合作用、呼吸代谢等生理过程[32]。一些荒漠植物,如红砂,在中度干旱胁迫下叶片叶绿素含量会升高[4.33]。研究发现,在土壤最为干旱的流动沙丘沙生怪柳种群,植物叶片叶绿素a含量最高,推测在较重的土壤干旱胁迫下，沙生怪柳提高叶片叶绿素a含量，增强光合
+
+作用，应对干旱胁迫。
+
+干旱条件下,植物体细胞会产生大量的氧自由基，导致膜脂过氧化水平增高，丙二醛(MDA)含量增加,从而膜脂成份改变,膜结构和功能改变,从而引起一系列生理代谢的变化[34。MDA含量高低可用来表示脂质过氧化的程度。本研究中随着土壤干旱程度增加，塔中砾质荒漠种群MDA含量未见增高，但塔中流动沙漠种群沙生怪柳叶片MDA含量比盆地北缘沙漠公路绿化带种群显著增高，表明严重的干旱胁迫对沙生怪柳叶片膜系统造成伤害。植物体内酶促主要物质为超氧化物歧化酶(SOD）、过氧化氢酶(CAT)、过氧化物酶(POD)。这些酶促物质能在植物体受到干早胁迫时活性增强，抑制丙二醛的积累，清除膜系统过量的活性氧，保护膜结构和功能，维持活性氧的代谢平衡，因而植物体内保护酶活性显著影响植物的抗逆性[35]。韩蕊莲等[36]发现沙棘(Hippophaerhamnoides)在重度干旱胁迫下,超氧化物歧化酶、过氧化氢酶、过氧化物酶活性在胁迫初期随胁迫时间的延长而上升。周紫娟等[3]发现随着土壤干旱程度的加剧,红砂(Reaumuriasoongorica)种群超氧化物歧化酶(SOD）、过氧化物酶(POD)活性也升高，表明这两种酶促物质对维持红砂活性氧代谢平衡起到至关重要的作用。本研究发现,土壤干旱胁迫程度增加,沙生怪柳叶片总抗氧化能力、超氧化物歧化酶(SOD）、过氧化物酶(POD)活性呈上升趋势,表明沙生怪柳在极端干旱环境中为了维持体内活性氧代谢的平衡，酶促物质超氧化物歧化酶(SOD）、过氧化物酶(POD)起着关键的作用。沙生怪柳叶片中CAT活性随着土壤干旱胁迫的加剧而下降，表明干旱胁迫的加剧可能使CAT部分降解，从而清除 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 的能力降低37。硝酸还原酶(NR)是一种参与氮素代谢的氧化还原酶，也对植物的抗旱性有一定影响,干旱胁迫能使叶片硝酸还原酶活性迅速降低[38]。本研究发现,随着土壤干旱胁迫加剧,沙生怪柳叶片硝酸还原酶活性显著下降，与土壤干旱程度呈显著负相关。干旱胁迫下，沙生怪柳根系对硝态氮的吸收和转运受到限制，酶蛋白合成受阻，可能导致其活性降低39。
+
+植物受到干旱胁迫时，为了增强保水能力，在体细胞内大量积累渗透调节物质，以调节稳定体内的渗透压平衡，来抵御或减轻干旱的损伤，使植物能够忍耐失水所带来的负面影响。在长期进化中，抗旱性植物渗透调节能力是适应干旱胁迫的策略，也是适应干旱胁迫环境的重要生理基础[40]。植物在遭受干早胁迫时通常积累的渗透调节有机物质主要有脯氨酸、可溶性糖和可溶性蛋白等，它们对植物渗透调节能力以及抵御干早胁迫起重要的作用。植物体内大量积聚可溶性糖，可以降低植物体细胞渗透势，维持植物在干旱胁迫下正常生长所需水分,提高其抗逆性[41],同时，植物体内大量积聚可溶性蛋白，来提高植物适应干旱胁迫的能力[42]。脯氨酸大量积累对植物的渗透调节起着重要作用[43]。徐世健等[44]发现蒙古沙冬青(Ammopiptanthus mongoli-cus)大量积累脯氨酸、可溶性糖，调节渗透应对干旱胁迫。杨九艳等[34]发现随着干旱胁迫程度增加，狭叶锦鸡儿大量积累脯氨酸和可溶性蛋白，维持一定的含水量和膨压，维持细胞正常的代谢。本研究中，随着土壤干旱程度的加剧,沙生怪柳种群叶片内可溶性蛋白呈上升趋势，塔中流动沙丘种群叶片可溶性糖含量显著高于盆地北缘沙漠公路绿化带种群与塔中砾质荒漠种群，表明干旱胁迫下，沙生怪柳通过大量积累渗透调节物质来降低细胞渗透势，增强其吸水能力。沙生怪柳在不同生境，体内渗透调节物质含量有明显差异，表明沙生怪柳在应对不同程度的干旱胁迫时，自身有较强的调节适应能力。
+
+尽管植物内部决定了其生理特性，外部环境制约植物体内部的生理生化反应。为了适应外部环境的种种变化，植物随时调整着自身的代谢活动，在变化的环境中保持最佳的生活状态。在极端干旱的生长环境中，荒漠植物自动调整其内部的生理反应，进化出长期适应干旱环境的调节机制，与外界干旱胁迫条件相适应[45]。综上所述,在干旱胁迫条件下，沙生怪柳种群主要通过增高SOD活性、POD活性、总抗氧化能力，降低过氧化氢酶含量以维持活性氧代谢平衡；同时，通过大量积累渗透调节物质可溶性糖、可溶性蛋白、丙二醛以维持高的渗透调节能力。沙生怪柳种群通过自身生理调控能力来适应干旱的环境，抵御干旱环境胁迫。
+
+# 4结论
+
+通过对沙生怪柳种群在不同土壤水分条件生境(沙漠公路绿化带、河床砾质荒漠、流动沙丘)生理生化指标分析，得出以下结论：
+
+在干旱胁迫条件下，沙生怪柳种群主要通过增高SOD活性、POD活性、总抗氧化能力及降低过氧化氢酶(CAT）、硝酸还原酶(NR)含量以维持活性氧代谢平衡；同时，通过大量积累渗透调节物质可溶性糖、可溶性蛋白、丙二醛以维持高渗透调节能力抵御干旱环境胁迫。
+
+# 参考文献(References）：
+
+[1]屠志方,李梦先,孙涛.第五次全国荒漠化和沙化监测结果及分 析[J].林业资源管理,2016,45(1):1-13.[Tu Zhifang,Li Mengxian, Sun Tao.The status and trend analysis of desertification and sandification[J]. Forest Resources Management, 2016,45(1): 1- 13.]   
+[2]黄海霞,王刚,陈年来.荒漠灌木逆境适应性研究进展[J].中国 沙漠,2010,30(5):1060-1067.[Huang Haixia, Wang Gang, Chen Nianlai.Advances of studies on adaptation of desert shrubs to environment stress[J]. Journal of Desert Research,2010,30(5):1060- 1067.]   
+[3]周紫鹃,苏培玺,解婷婷,等.不同生境下红砂(Reaumuria soongorica)的生理生化特征及适应性[J].中国沙漠,2014,34(4): 1007-1014.[Zhou Zijuan,Su Peixi, Xie Tingting,et al. The physiological and biochemical characteristics and environmental adaptability of Reaumuria soongorica in different habitats[J].Journal of Desert Research,2014,34(4): 1007-1014.]   
+[4]周海燕.荒漠沙生植物生理生态学研究与展望[J].植物学通报, 2001,18(6): 643-648.[Zhou Haiyan.Current status and perspective of ecophysiological researches in psammophytes[J]. Chinese Bulletin of Botany,2001,18(6): 643- 648.]   
+[5]Larcher W.Physiological Plant Ecology[M]. Berlin: Springer Verlag,1980,302-303.   
+[6]习金根,郑金龙,易克贤.干旱胁迫对剑麻幼苗生理生化的影响 [J].中国麻业科学,2012,34(5):216-219.[Xi Jingen,Zheng Jinlong,Yi Kexian.Effect of drought stress on physiology and biochemistry of sisal seedling[J]. Plant Fiber Sciences in China, 2012, 34(5): 216-219.]   
+[7]Wang S M, Wan C G, Wang YR. The characteristics of Na $^ +$ $\mathrm { K } ^ { + }$ （204 and free praline distribution in several drought-resistant plants of the Alxa Desert,China[J]. Journal of Arid Environments,2004, 56: 525-539.   
+[8]Hsieh TH, Lee JT, Yang PT,et al. Heterology expression of the Arabidopsis C-repeat/Dehydration response element binding factor 1 gene confers elevated tolerance to chilling and oxidative stresses in transgenic tomato[J].Plant Physiology，2012,129:1086- 1094.   
+[9]李锡文.中国植物志[M].北京:科学出版社,1990:159.[Li Xiwen.Flora of China[M]. Beijing: Science Press,199O:159.]   
+[10]刘铭庭.新疆怪柳属植物研究及推广应用[J].中国沙漠,1996, 16(4): 428-429.[Liu Mingting. Tamarix L.and its extending in the desert region of Xinjiang[J]. Journal of Desert Research,1996, 16(4): 428-429. ]   
+[11] 袁宏波,张锦春,褚建民,等.库姆塔格沙漠典型植物种群年龄 结构特[J].西北植物学报,2011,31(11): 2304-2309.[Yuan Hongbo, Zhang Jinchun,Chu Jianmin,et al.Characteristics of the age plant populations structures of three typical in Kumtag Desert[J]. Acta Botanica Boreali-Occidentalia Sinica,2011,31(11):2304- 2309.]   
+[12] 何兴东,高玉葆,任安芝.风沙干扰在濒危植物沙生怪柳群落形 成演变过程中的作用[J].植物学报,2003,45(11):1285-1290. [He Xingdong,Gao Yubao,Ren Anzhi.Role of wind-sand disturbance in the formation and development of Tamarix taklamakanensiscommunity[J].Chinese Bulletin of Botany,20o3,45(11): 1285-1290.]   
+[13] 苏志豪,潘伯荣,卓立,等.未来气候变化对特有物种沙生怪柳 分布格局的影响及其保护启示[J].干旱区研究,2018,35(1): 150-155.[Su Zhihao,Pan Borong,Zhuo Li,etal.Impactof future climate change on distribution pattern of Tamarix taklamakanensis and its conservation revelation[J].Arid Zone Research,2018, 35(1): 150-155.]   
+[14]尹林克.中亚荒漠生态系统中的关键种——怪柳(Tamarix chinensis)[J].干旱区研究,1995,12(3):43-47.[Yin Linke.Tamarix chinensis: The keyston species of desert ecosystem[J].Arid Zone Research,1995,12(3): 43-47.]   
+[15]蒋进,高海峰.怪柳属植物抗旱性排序研究[J].干旱区研究, 1992,9(4): 41-45.JiangJin,GaoHaifeng.A studyon droghtre sistant ordination of Tamarix chinensis[J].Arid Zone Research, 1992, 9(4): 41-45.]   
+[16]彭艳梅.塔克拉玛干沙漠塔中地区大气浊度特征分析及影响研 究[D].乌鲁木齐:新疆大学,2013.[Peng Yanmei.Analysis on Atmospheric Turbidity Characteristics and its Impact in Tazhong of TaklimakanDesert[D]. Urumqi: Xinjiang University2013.]   
+[17] 幕文玲.塔克拉玛干沙漠人工绿地与自然沙面辐射平衡日变化 对比研究[D].乌鲁木齐:新疆师范大学,2017.[Mu Wenling. Comparison and Research on the Daily Variation of Land Surface Radiation Balance in Artificial Vegetation and Nature Desert in Taklimakan Desert[D]. Urumqi: Xinjiang Normal University,2017.]   
+[18] 李合生.植物生理生化实验原理和技术[M].北京:高等教育出 版社,2000: 130-132.[Li Hesheng.Principles and Techniques of PlantPhysiologicalandBiochemicalExperiments[M].Beijing: Higher Education Press,2000: 130-132.]   
+[19]Rao M V,Paliyath C,Ormrod D P.Ultraviolet-b and ozone-induced biochemical changes in antioxidant enzymes of Arabidovsis thaliana[J].Plant Physiology,1996,110: 125-136.   
+[20] Giannopolitis C, Ries N. Superoxide dismutases I. Occurrence in higher plants[J].PlantPhysiology,1977,59:309-314.   
+[21]Aravind P,Prasad M N V. Zinc alleviates cadmium-induced oxidative stress in Ceratophyllum demersum L.: A freefloating fresh water macrophyte[J].Plant Physiology and Biochemistry,2003,41: 391-397.   
+[22]Katalinic V, Milos M, Kulisic T,et al.Screening of 7O medicinal plant extracts for antioxidant capacityand total phenols[J].Food Chemistry,2006, 94(4): 550-557.   
+[23]中国科学院上海植物生理研究所,上海市植物生理学会.现代 植物生理学实验指南[M].北京:科学出版社,1999:305-306. [Shanghai Institute of Plant Physiology,Chinese Academy of Sciences,Shanghai Plant Physiology Society.A Guide to Modern Plant Physiology Experiments[M].Beijing: Science Press,1999: 305-306.]   
+[24] 李合生,孙群,赵世杰.植物生理生化实验原理及技术[M].北 京：高等教育出版社,2000:125-127.[Li Hesheng,Sun Qun, Zhao Shijie.Principles and Techniques of Plant Physiological and Biochemical Experiments[M]. Beijing:Higher Education Press, 2000: 125-127.]   
+[25]上海植物生理学会.植物生理学手册[M].北京:科学技术出版 社,1985.[Shanghai Plant Physiology Society.Plant Physiology Manual[M].Beijing:Science and Technology of China Press, 1985.]   
+[26] 白宝璋,汤学军.植物生理学测试技术[M].北京:中国科技出版 社,1993:156-157.[Bai Baozhang,Tang Xuejun. Testing Techniques of Plant Physiology[M]. Beijing: China Science and Technology Press,1993: 156-157.]   
+[27] 张志良.植物生理学试验指导[M].北京:高等教育出版社, 1991.[Zhang Zhiliang.Guide to Plant Physiology Experiments [M].Beijing: Higher Education Press,1991.]   
+[28] 刘祖棋,张石城.植物抗性生理学[M].北京:中国农业出版社, 1994.[Liu Zhuqi, Zhang Shicheng.Plant Resistance Physiology [M]. Beijing: China Agriculture Press,1994.]   
+[29] 傅瑞树.苏铁耐旱、抗寒及光合生理特性研究[J].武夷科学, 2001,17(1): 44-50.[Fu Ruishu. Study on physiological characters of drought resistance,cold resistance and photosynthesis of Cycas revoluta[J]. Wuyi Science Journal,2001,17(1): 44-50.]   
+[30] 王孟本,李洪建,柴宝峰.柠条(Caragana korshinskii)的水分生理 生态学特征[J].植物生态学报,1996,20(6):494-501.[Wang Mengben,Li Hongjian,Chai Baofeng.Water ecophysiological characteristics of Caragana korshinskii[J].Acta Phytoecologica Sinica,1996,20(6): 494-501.]   
+[31] 马剑英,周邦才,夏敦胜,等.荒漠植物红砂叶绿素和脯氨酸累 积与环境因子的相关分析[J].西北植物学报,2007,27(4):769- 775.[Ma Jianying, Zhou Bangcai, Xia Dunsheng,et al.Relationships between environmental factors and chlorophyll,proline cu mulationin desert plant Reaumuria soongorica[J].Acta Botanica Boreali-Occidentalia Sinica,2007,27(4): 769-775.]   
+[32]Faria T, Silverio D,Breia E,et al. Differences in the response of carbon assimilation to summer stress(water deficits,high light and temperature) in four Mediterranean tree species[J].Physiologia Plantarum,1998,102: 419-428.   
+[33] 刘玉冰,张腾国,李新荣,等.红砂(Reaumuria soongorica)忍耐极 度干旱的保护机制:叶片脱落和茎中蔗糖累积[J].中国科学: 生命科学,2006,36(4):328-333.[Liu Yubing, Zhang Tengguo, Li Xinrong,et al.Protective mechanisms against extreme drought of Reaumuria soongorica: Leaf shedding and sucrose accumulation in stems[J]. Scientia Sinica(Vitae),2006,36(4): 328-333.]   
+[34] 杨九艳,杨劫,杨明博,等.不同生境狭叶锦鸡儿对干旱胁迫的 生态适应机理研究[J].西北植物学报,2009,29(12):2476- 2482.[Yang Jiuyan, Yang Jie, Yang Mingbo,et al. Mechanisms of ecological adaptation of Caragana stenophylla to drought stress in different habitats[J].Acta Botanica Boreali-Occidentalia Sinica, 2009,29(12): 2476 -2482.]   
+[35]Sun Y R,Zhu JJ,Kang H Z. Effects of soil water condition on membrane lipid peroxidation and protective enzyme activities of Pinussylvestris var.mongolica seedlings[J]. Chinese Journal of Ecology,2008,27(5): 729-734.   
+[36] 韩蕊莲,李丽霞,梁宗锁,等.干旱胁迫下沙棘膜脂过氧化保护 体系研究[J].西北林学院学报,2002,17(4):1-5.[Han Ruilian, Li Lixia,Liang Zongsuo,et al. Seabuckthorn membrane-lipid peroxidation system under drought stress[J]. Journal of Northwest Forestry University,2002,17(4): 1-5.]   
+[37]Feierabend J,Schaan C,Fertwig B.Photoincativation of catalase occursunder both high and low temperature stress conditions and accompanies photoinhibition of photosystem II[J].Plant Physiology,1992,100: 1554-1561.   
+[38]Smirnoff N,Winslow M D, Stewart UR.Nitrate reductase activity inleaves of barley (Hordeum vulgare) and durum wheat (Tricitum durum) during field and rapidly applied water deficits[J]. Journal of Experimental Botany,1985,36:1200-1208.   
+[39] 周海燕.中国东北科尔沁沙地两种建群植物的抗旱机理[J].植 物研究,2002,22(1):51-55.[Zhou Haiyan.Drought-resistant mechanism of two edificatos in horqin sandy land of Northeast China[J]. Bulletin of Botanical Research,2002,22(1): 51-55.]   
+[40] Cai K Z, Wu X Z,Luo S M. Effects of water stress on osmolytes at different growth stages in rice leaves and roots [J]. Journal of Plant Ecology,2008,32(2): 491-500.   
+[41]王霞,侯平,尹林克,等.水分胁迫对怪柳植物可溶性物质的影 响[J].干旱区研究,1999,16(2):1-10.[Wang Xia,Hou Ping,Yin Linke,et al.Effect of soluble substance of Tamarix under soil-water stress slowly[J].Arid Zone Research,1999,16(2): 1-10.]   
+[42] 张明生,谢波,谈锋,等.甘薯可溶性蛋白、叶绿素及ATP含量 变化与品种抗旱性关系的研究[J].中国农业科学,2003,36(1): 13-16.[Zhang Mingsheng,Xie Bo,Tan Feng,et al.Relationship among soluble protein, Chlorophyll and ATP in sweet potato under water stress with drought resistance[J]. Scientia Agricultura Sinica,2003,36(1): 13-16.]   
+[43]石松利.不同生境四合木生理生态适应机制及濒危机理研究 [D].呼和浩特:内蒙古大学,2009.[Shi Songli. Studies on Ecophysiological Adaptation Mechanism and Endangering Mechanism of Tetraena mongolica Maxim.in Different Habitats[D]. Hohhot: Inner Mongolia University,2009.]   
+[44]徐世健,安黎哲,冯虎元,等.两种沙生植物抗旱生理指标的比 较研究[J].西北植物学报,2000,20(2): 224-228.[Xu Shijian, An Lizhe,Feng Huyuan, et al. Comparative study on drought-resistance indexes of two desert plants[J].Acta Botanica Boreali-Occidentalia Sinica,2000,20(2): 224-228.]   
+[45] 祖元刚,张文辉,阎秀峰,等.1999.濒危植物裂叶沙参保护生物 学[M].北京:科学出版社,1999.[Zhu Yuangang,Zhang Wenhui, Yan Xiufeng,et al. Conservation Biology of the Endangered Plant Adenophora Lobophylla[M]. Beijing: Science Press,1999.]
+
+# Physiological and biochemical characteristics and adaptability of Tamarix taklamakanensis in different ecological habitats in the Tarim Basin
+
+SU Zhihao'， ZHOU Xiaobing'， JIANG Xiaolong²， WANG Liuqiang', GONG Yanming'，KANG Xiaoshan1   
+(1.State KeyLaboratoryof DesertandOasis Ecology,Xinjiang Instituteof Ecologyand Geography,Chinese Academy of Sciences,Urumqi 830011,Xinjiang, China; 2.LaboratoryofForestry Genetics,Central South Universityof   
+Forestry and Technology,Changsha 410o04,Hunan,China; 3.State Key Laboratoryof Tree Genetics and Breeding, Research Institute of Forestry, Chinese Academy of Forestry, Beijing 1Ooo91, China)
+
+Abstract: Tamarix taklamakanensis is a tree endemic to China and it is the most drought-resistant species in drifting sand dunes within the Tarim Basin.It plays an important role in sand fixation and desert prevention. We selected populations in three different habitats (green belt near the desert road,gravelly desert in riverbed,and drift sand dunes)to quantify the water status,chlorophyllcontents,antioxidant enzyme activities,and osmotic adjustment substances contents.We evaluated the species’physiological and biochemical characteristics in different habitatsand itsadaptive mechanisms to deal with extreme drought conditions.In soilswith low moisture content, superoxide dismutase (SOD) activities, peroxidase (POD) activities, total antioxidant capacity, and soluble protein contents increased, whereas catalase (CAT) and nitrate reductase (NR) activities decreased.In the driest drift sand dune habitat,the population had highest chlorophyll a and soluble sugar contents.Under drought stress,T. taklamakanensis increased SOD and POD activitiesand total antioxidant capacity,while it decreased CAT and NR activities to maintain the metabolic balance of reactive oxygen. It increased soluble protein,soluble sugar,and malondialdehyde to maintain high osmotic adjustment ability for resisting drought environments.
+
+Keywords: Tamarix taklamakanensis; antioxidant enzyme activities; osmotic adjustment substances; ecological adaptability

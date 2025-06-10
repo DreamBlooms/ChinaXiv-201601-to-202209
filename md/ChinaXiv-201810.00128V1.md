@@ -1,0 +1,230 @@
+# 陕北能源开发区产业同构化对比研究与趋势预测
+
+夏四友ʰ，文琦²，赵媛,，宋永永4，杜毅贤²，乔利娜²（1南京师范大学地理科学学院,江苏南京210023；2宁夏大学资源环境学院,宁夏银川 750021；3南京师范大学金陵女子学院,江苏南京210097；4 陕西师范大学地理科学与旅游学院,陕西西安710119）
+
+摘要：正确认识区域产业同构状况及演变趋势,对于制定科学的经济发展政策，尤其是产业发展政策具有较为重要的现实意义。以陕北能源开发区一榆林市为研究对象，根据1995—2015年三次产业数据分析了榆林市产业结构模式,通过产业结构相似系数测度了榆林市产业同构，并从横向与纵向两个维度对产业同构进行对比分析，另采用 $R / S$ 分析法，对未来产业同构的演变趋势进行预测。研究发现：(1)榆林市产业呈现典型的“二三一”产业结构模式,第二产业比重较大,成为推动全市经济发展的主导力量。(2)榆林市北六县和南六县内部产业结构趋同度属于较高层次，产业结构同质化现象十分严重;尤其以神木县—府谷县(0.9762)和佳县—清涧县(0.9675)最为突出，南六县与北六县绝大多数区县间产业同构度都低于0.9,产业趋同现象不明显。(3)榆林市南六县与北六县产业结构相似系数的 $H ( 1 9 9 5 { \mathrm { - } } 2 0 1 5 ) = 0 . 6 1 1 \ 2 > 0 . 5 \nonumber$ ,如果在原有条件下继续发展，榆林市未来产业同构化程度将有所强化，但存在周期性变化。研究认为在相似的能源条件、经济交流与联系日益紧密及经济发展水平不断接近的条件下,榆林市产业结构的趋同发展具有一定必然性,在未来制定促进经济发展的政策时应有一个清醒的认识。
+
+关键词：产业结构；同构化；相似系数; $\pmb { R } / s$ 分析法；榆林市中图分类号：F127 文献标识码：A 文章编号：
+
+当前，我国经济发展进入了新常态，国家推出了系列经济举措，创新宏观调控方式，为我国和世界经济带来了新的机遇，能源开发区也迎来了前所未有的契机。加快调整产业结构、转变经济发展方式、推进产业结构的优化升级成为促进能源开发区经济健康持续发展备受关注的新模式[1]。长期以来,以能源资源开发为主要特征的榆林市经济取得了飞跃式发展，经济总量显著上升。而在新时期，能源经济主导全市经济的发展模式矛盾日益凸显，能源工业为主导的重工业发展不仅致使产业结构单一[2],且造成产业结构的非正常趋同,即产业同构现象突出，严重制约了区域经济的转型升级和持续健康发展。因此对能源开发区产业结构转型升级过程中的趋同问题进行研究显得尤为必要与及时。
+
+产业结构趋同也被称为产业同构，通常是指产业结构在经济发展过程中表现出来的某种相似或共同倾向[3]。从1984 年世界银行中的中国经济考察团提出区域产业结构趋同化现象以来[4],该问题就成为国内众多学者及政府备受争议的问题。国内学者基于不同研究视角和方法，对我国是否存在产业同构这个问题进行了广泛研究。张卓颖[5]等对我国省际产业内贸易与产业结构同构进行研究，得出了我国制造业存在着一定的产业结构同构现象，但在空间上不均衡的结论。韦素琼等基于相似系数对福建与台湾产业同构度进行测算，发现福建与台湾产业同构现象显著，如果在原有条件下继续发展，未来三次产业同构化程度将继续加大。罗若愚等[7]对成渝地区产业结构趋同进行探析,指出该区域产业结构存在相当程度的趋同现象，虽然趋同程度存在递减趋势，但区域竞争格局下的相关政策仍为未来的产业过度竞争埋下隐患。也有学者认为，在特殊条件作用下形成的产业同构现象具有一定的必然性,不应过分夸大其带来的负面效应[8-11]。然而部分学者的研究结论与前两种结论大相径庭，他们认为，我国区域间产业同构现象并不显著。陈耀[12]对我国1980—1994 年我国各省产业同构度进行实证研究，发现各省工业结构相似系数呈下降趋势,工业结构趋同现象不严重。NAUGHTON[13]对1987年和2002年省际产业投入与产出进行实证考察，得出我国区域专业化分工水平上升明显，产业同构现象并不显著的结论;靖学青[14 对长三角15 个城市制造业结构分析后认为长三角地区的产业结构同构度并不高;蒋金荷[15]对我国高技术产业同构度进行测算，结果表明我国高技术产业的专业化水平上升明显，产业同构度呈下降态势
+
+已有研究为深入推进产业同构问题研究奠定了基础，但大多从国家、长三角、珠三角等经济发达地区展开研究。我国幅员辽阔，区域产业结构差异显著，对特殊典型区域如能源开发区产业同构研究亟待加强。已有研究多限于时间序列上产业同构纵向的比较，而对时间序列上产业同构横向比较及未来产业同构发展趋势进行预测还有待完善。基于此，本研究选择陕北能源开发区腹地的榆林市为研究区，定量分析了1995—2015年榆林市产业结构趋同程度，探讨了解决榆林市产业同构问题的可行性路径。研究结果可以为榆林市规避产业同构问题，促进产业结构转型升级，保障区域经济持续健康较快发展提供理论参考，同时对推动能源富集区“去产能、去库存、去杠杆、转方式、调结构”具有重要的理论和现实意义。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+榆林市位于陕西省最北部，是陕甘宁蒙晋五省（区)的交界地带，东隔黄河与山西省相望，南接本省延安市，西连宁夏和甘肃，北邻内蒙古鄂尔多斯市;辖1个市辖区、11个县（图1）。全市总面积为 $4 3 \ 5 7 8 \ \mathrm { k m } ^ { 2 }$ ，人口约 $3 6 4 . 5 \times 1 0 ^ { 4 }$ ,拥有丰富的煤炭、石油、天然气和岩盐气资源，因其矿产资源富集，被誉为“中国的科威特”。2015年，全市GDP$2 \ 4 9 1 . 8 9 \times 1 0 ^ { 8 }$ 元,第一产业产值 $1 4 3 . 6 9 \times 1 0 ^ { 8 }$ 元，第二产业产值 $1 \ 5 2 3 . 6 8 \times 1 0 ^ { 8 }$ 元,第三产业产值$8 2 4 . 5 2 \times 1 0 ^ { 8 }$ 元,分别占地区生产总值的 $6 \% 6 1 \%$ 和33%[16]  
+。
+
+![](images/aba333c1fdc25f4c1153370ca06815602afba4a133b2efc8f7f60c5b3229ff21.jpg)  
+图1榆林市行政区划图  
+Fig.1Map showing the administrative zones in Yulin City
+
+# 1.2 研究方法
+
+本研究主要采用产业结构相似系数和分形理论中的 $R / S$ 分析等研究方法对榆林市产业结构进行分析。其中，产业结构相似系数用来刻画各年份榆林市各区县产业结构同构度；R/S分析主要用来预测产业同构度未来发展趋势。
+
+1.2.1产业结构相似系数目前对产业结构同构测度有多种方法[17-20]。本研究借鉴李玉凤[21]提出的产业结构相似系数可以用来分析比较两个地区的产业结构的相似度，构建相似系数可以有效反映地区间产业结构相似程度，其测算公式为：
+
+$$
+S _ { i j } = \frac { \sum X _ { i n } \times X _ { j n } } { \sqrt { X _ { i n } ^ { 2 } \times X _ { j n } ^ { 2 } } }
+$$
+
+式中： $S _ { i j }$ 为产业结构相似系数( $0 \leqslant S _ { i j } \leqslant 1$ ）； $X _ { i n }$ 为 $n$ 产业在 $i$ 地区产业结构中的比重; $X _ { j n }$ 为 $n$ 产业在 $j$ 地区产业结构中的比重; $S _ { i j }$ 的取值范围为0到 ${ 1 , S _ { i j } }$ 越接近0，说明地区间产业结构相似度越低，产业结构差异越大；反之 $S _ { i j }$ 越接近于1，说明地区间产业结构相似度越高，产业结构差异越小。
+
+1. 2.2 $\pmb { R } / s$ 分析 $R / S$ 分析（Rescaled Range Anal-ysis)是HURST于1951年为了研究时间序列的统计特性而提出的重标级差分析法[22]。随后,MAN-DELBRO、SUGIHARA等学者将R/S分析方法引入到分形分析中[23-24],其中的 Hurst 指数,可以准确地反映出时间序列内分形特征的变化规律，并预测其发展趋势。本文在相似系数的基础上运用 $R / S$ 分析法对榆林市南北产业结构相似程度的发展趋势做进一步的研究,其基本的数学模型为[25]：
+
+假定一个时间序列，时间间隔 $t = 1 , 2 , 3 , \cdots$ ，将其分成A个长度为 $\mathbf { \chi } _ { t }$ 的等长子区间,则在每个子区间内有：
+
+$$
+X _ { t , n } = \sum _ { \mu = 1 } ^ { t } \left( x _ { \mu } - M _ { n } \right)
+$$
+
+式中： $x _ { \mu }$ 是第 $n$ 个区间的平均值; $M _ { n }$ 是第 $n$ 个区间的累积离差，则有累积极差和标准差：
+
+$$
+R = \operatorname* { m a x } ( X _ { \boldsymbol { t } , \boldsymbol { n } } ) - \operatorname* { m i n } ( X _ { \boldsymbol { t } , \boldsymbol { n } } )
+$$
+
+$$
+S = \sqrt { \frac { 1 } { n } \sum _ { j = 1 } ^ { n } \left( X _ { j } - X \right) ^ { 2 } }
+$$
+
+则定义重标极差 $R / S$ ,随时间的增加，二者的关系趋向于如下关系：
+
+$$
+R / S = { K _ { ( n ) } } ^ { H }
+$$
+
+式中： $K$ 为常数, $H$ 为Hurst指数，对上式两边取对数,得：
+
+$$
+\ln ( R / S ) = H \ln ( n ) + \ln ( K )
+$$
+
+因此，对 $\ln { \left( n \right) }$ 和 $\ln { ( R / S ) }$ 进行最小二乘法拟合，则 $H$ 指数即为斜率的估计值。
+
+Mandelbrot为了描述现在对未来的影响，引进了一个度量指标 $C$ ：
+
+$$
+C = 2 ^ { 2 H - 1 } - 1
+$$
+
+它用来表示时间序列相关性及趋势走向。所以，当 $C = 0$ 时,序列不相关；当 $C < 0$ 时,序列负相关；当 $C > 0$ 时，序列正相关。
+
+Hurst指数， $0 < H < 1$ ，可用来度量时间序列统计相关性的强弱。当 $H = 0 . 5$ 时，表明过去增量与未来增量不相关，即序列是随机的；当 $0 < H < 0 . 5$ 时，表明过去的增量与未来的增量呈负相关关系， $H$ 值越接近于0，这种时间序列就越具有比随机序列更强的变异性；当 $0 . \ 5 < H < 1$ 时，这是一个正相关的序列，即过去增量与未来增量呈正相关关系， $H$ 值越接近于1，这种时间序列的趋势性越强。
+
+$\boldsymbol { V } _ { n }$ 是最初用来检验Hurst稳定性，后用来估计循环周期长度的一个指标：
+
+$$
+V _ { n } = \left( R / S \right) _ { n } / \sqrt { n }
+$$
+
+本研究所有涉及的属性数据均来源于1995—2015年《榆林市统计年鉴》和各县区相对应年度的统计年鉴等，矢量图是通过ArcGIS10.0软件对榆林市行政区划图矢量化所得。需要说明的是，本研究的时限为1995—2015年，由于篇幅有限，部分图表仅显示1995、2000、2005、2010、2015年。为了方便比较榆林市产业同构度，将榆林市划分为北六县：榆阳区、神木县、府谷县、横山县、靖边县、定边县，南六县：绥德县、米脂县、佳县、吴堡县、清涧县、子洲县。
+
+# 2 结果分析
+
+# 2.1 榆林市南北六县三次产业产值及比重现状分析
+
+通过列举榆林市三次产业产值状况可以直观看出榆林市经济可持续发展状况，显示三次产业间比重关系与资源分配结构（表1、图2）。
+
+1995—2015年榆林市地区总产值呈现快速增长趋势,1995 年榆林市地区总产值为 $4 8 . 9 4 \times 1 0 ^ { 8 }$ 元，到2015年发展为 $2 \ 4 9 1 . 8 9 \times 1 0 ^ { 8 }$ 元，是1995年的50.92倍，年均增长率为 $1 . 5 4 \%$ 。表明榆林市在把握国家西部大开发战略，国家能源化工基地等政策机遇,充分发挥市域的能源、资源优势的基础上,推动了全市经济的快速发展。2015年三次产业产值较1995年分别增加 $1 2 8 . 1 2 \times 1 0 ^ { 8 }$ 元 $\ 、 1 5 0 9 . 0 5 \ \times$ ${ 1 0 } ^ { 8 }$ 元 ${ . 8 0 5 . 7 8 \times 1 0 ^ { 8 } }$ 元;三次产业产值的年增长率依次为 $- 0 . 5 4 \%$ $. 4 . 2 1 \%$ 、 $1 . 2 0 \%$ ,表明榆林市形成了以第二产业为核心的产业结构模式,产业结构仍处于由第二产业向第三产业转移阶段。从南北六县间的产值差异看，总体上榆林市北六县三次产业产值特征与全市较为相似。第二产业产值占据绝对优势,由1995 年的 $1 2 . 7 4 \times 1 0 ^ { 8 }$ 元上升至2015 年的$1 4 6 1 . 3 5 \times 1 0 ^ { 8 }$ 元,增幅较大。第三产业产值次之,21a间,年均增长率为 $1 . 3 4 \%$ ,第一产业产值最低,年均增长率为 $- 0 . 5 1 \%$ 。南六县产业产值情况与北六县不同，第三产业产值最高，对经济增长的贡献率较大，由1995年的 $3 . 6 8 \times 1 0 ^ { 8 }$ 元上升至2014年的$1 1 8 . 3 1 \times 1 0 ^ { 8 }$ 元,年均增长 $0 . 6 1 \%$ 。其次是第二产业,第一产业最低。值得注意的是,全市、北六县及南六县1995—2004 年三次产业产值在缓慢中呈现上升态势,2004年后，增长速度快，幅度较大。北六县三次产业产值较南六县高,全市中尤其是南六县三次产业产值关系存在波动现象,这主要是由产业结构调整的周期性变化导致。
+
+由图2可知，榆林市第二产业比重 $>$ 第三产业比重 $>$ 第一产业比重，表现为“二三一”产业结构模式，是典型的以第二产业为主导的产业结构。全市产业保持着以第二产业为主导，第一产业比重较小，服务业在波动中缓慢下降的基本产业格局。北六县与全市的产业结构模式基本类似，第二产业主导经济发展格局，第三产业在波动中缓慢下降，第一产业比重持续卜降。南六县产业结构模式与全市及北六县不同，产业结构模式由1995年的“一三二”演变为2000 年的“三一二”，2009 年以后基本呈现“三二一”的产业结构模式。
+
+表11995—2015年榆杯巾二次广业广值状况／ $\mathbf { 1 0 ^ { 8 } }$ 元Tab.1Outputs of tertiary industries in the Yulin City during 1995-2015／10°元  
+  
+
+<html><body><table><tr><td rowspan="2">年份</td><td colspan="3">全市</td><td colspan="3">北六县</td><td colspan="3">南六县</td><td rowspan="2">全市总 产值</td></tr><tr><td>产值 一产</td><td>产值 二产</td><td>产值 三产</td><td>产值 一产</td><td>产值 二产</td><td>产值 三产</td><td>产值 一产</td><td>产值 二产</td><td>产值 三产</td></tr><tr><td>1995</td><td>15.57</td><td>14.63</td><td>18.74</td><td>9.58</td><td>12.74</td><td>15.06</td><td>5.99</td><td>1.89</td><td>3.68</td><td>48.94</td></tr><tr><td>1996</td><td>23.91</td><td>20.59</td><td>16.27</td><td>13.28</td><td>18.50</td><td>12.44</td><td>10.63</td><td>2.09</td><td>3.83</td><td>60.77</td></tr><tr><td>1997</td><td>13.59</td><td>24.64</td><td>19.25</td><td>9.62</td><td>22.21</td><td>14.91</td><td>3.98</td><td>24.37</td><td>4.34</td><td>57.48</td></tr><tr><td>1998</td><td>16.74</td><td>23.38</td><td>24.15</td><td>11.80</td><td>20.80</td><td>18.53</td><td>4.94</td><td>2.58</td><td>5.62</td><td>64.27</td></tr><tr><td>1999</td><td>10.67</td><td>27.93</td><td>27.08</td><td>8.01</td><td>25.02</td><td>21.35</td><td>2.66</td><td>2.91</td><td>5.73</td><td>65.68</td></tr><tr><td>2000</td><td>15.08</td><td>35.70</td><td>31.61</td><td>10.04</td><td>31.97</td><td>25.28</td><td>5.04</td><td>3.73</td><td>6.33</td><td>82.39</td></tr><tr><td>2001</td><td>13.49</td><td>46.09</td><td>34.17</td><td>9.97</td><td>42.65</td><td>26.84</td><td>3.52</td><td>3.44</td><td>7.33</td><td>93.75</td></tr><tr><td>2002</td><td>18.87</td><td>62.06</td><td>38.66</td><td>12.86</td><td>58.78</td><td>30.87</td><td>6.01</td><td>3.28</td><td>7.79</td><td>119.59</td></tr><tr><td>2003</td><td>20.14</td><td>77.05</td><td>44.28</td><td>15.10</td><td>73.56</td><td>33.28</td><td>5.04</td><td>3.49</td><td>11.00</td><td>141.47</td></tr><tr><td>2004</td><td>25.22</td><td>113.39</td><td>48.96</td><td>17. 11</td><td>109.15</td><td>37.63</td><td>8.11</td><td>4.24</td><td>11.33</td><td>187.57</td></tr><tr><td>2005</td><td>27.70</td><td>200.57</td><td>92.90</td><td>19.85</td><td>196.55</td><td>73.62</td><td>7.85</td><td>4.02</td><td>19.28</td><td>321. 17</td></tr><tr><td>2006</td><td>35.62</td><td>300.93</td><td>106.62</td><td>22.18</td><td>295.98</td><td>84.86</td><td>13.44</td><td>4.95</td><td>21.76</td><td>443.17</td></tr><tr><td>2007</td><td>48.31</td><td>503.40</td><td>125.12</td><td>31.23</td><td>494.34</td><td>98.67</td><td>17.08</td><td>9.06</td><td>26.45</td><td>676.83</td></tr><tr><td>2008</td><td>66.12</td><td>794.43</td><td>151.87</td><td>42.37</td><td>778.71</td><td>119.17</td><td>23.75</td><td>15.72</td><td>32.7</td><td>1 012.42</td></tr><tr><td>2009</td><td>70.10</td><td>860.77</td><td>371.47</td><td>44.35</td><td>831.01</td><td>316.04</td><td>25.75</td><td>29.76</td><td>55.43</td><td>1 302.34</td></tr><tr><td>2010</td><td>92.16</td><td>1 205.78</td><td>458.73</td><td>59.34</td><td>1 166.54</td><td>390.15</td><td>32.82</td><td>39.24</td><td>68.58</td><td>1 756.67</td></tr><tr><td>2011</td><td>111.91</td><td>1 629.68</td><td>553.49</td><td>72.49</td><td>1 582.02</td><td>468.31</td><td>39.42</td><td>47. 66</td><td>85.18</td><td>2 295.08</td></tr><tr><td>2012</td><td>125.87</td><td>2 027.88</td><td>618.24</td><td>80.16</td><td>1 966.41</td><td>521.21</td><td>45.71</td><td>61.47</td><td>97.03</td><td>2 771.99</td></tr><tr><td>2013</td><td>139.67</td><td>1 985.40</td><td>718.19</td><td>90.19</td><td>1919.41</td><td>596.66</td><td>49.48</td><td>65.99</td><td>121.53</td><td>2 843.26</td></tr><tr><td>2014</td><td>145.01</td><td>1 966.81</td><td>811.77</td><td>94.18</td><td>1 900.14</td><td>699.77</td><td>50.83</td><td>66.67</td><td>112.00</td><td>2 923.59</td></tr><tr><td>2015</td><td>143.69</td><td>1 523.68</td><td>824.52</td><td>93.95</td><td>1 461.35</td><td>705.94</td><td>48.57</td><td>61.70</td><td>118.31</td><td>2 491.89</td></tr></table></body></html>
+
+从发展趋势看，全市第一产业比重呈现下降态势。到2015年比重仅占 $0 . 0 6 \%$ ,比重偏低;第二产业比重持续稳步增长，2000年后比重已超过 $5 0 \%$ ，到2015年达 $61 \%$ 。第一产业比重下降幅度和第二产业上升幅度进行对比可以发现,工业化进程较快,极大改善了全市经济状况。第一产业比重下降了$2 6 \%$ ;第二产业比重上升了 $3 1 \%$ ，说明非农经济规模持续扩大，经济整体水平不断提高。然而，在产业结构优化升级方面，全市产业结构层次比较低，向第三产业转移的水平低，依赖于资源密集型产业的粗放型增长方式已不适应新常态经济背景下能源富集
+
+区经济发展的需要。
+
+# 2.2榆林市产业同构分析
+
+为了使本研究更具条理性，本文将从榆林市北六县范围内、南六县范围内、南北六县之间对榆林市产业同构进行科学分析。
+
+2.2.1北六县产业同构分析基于产业同构系数对榆林市北六县产业同构度进行测算，结果如图3所示，根据联合国工业组织的研究结论，两地区间的产业结构相似系数大于0.9，即认为产业结构趋同。通过分析1995—2015 年榆林市北六县产业结构相似系数均值可以发现，除榆阳区一靖边县的产业同构度低于0.9以外，其他各区县间产业同构度均高于0.9，表明榆林市北六县间存在严重的产业同构现象，内部竞争激烈,尤其是神木县一府谷县的平均产业同构度高达0.9762，产业趋同趋势最为明显。神木县与府谷县同为陕北能源化工基地的中心城市，其经济发展的主要引擎是以能源、化工及冶金为代表的第二产业，1995年后资源能源的大规模开发促进了该两县能源工业企业的崛起，第二产业占比都超过 $40 \%$ ,尤其是2011年府谷县第二产业比重高达 $8 8 \%$ ,相似的产业体系导致神木县一府谷县的产业同构度居于区域最高位。1995年榆林市北六县间产业结构相似系数在0.9以上的有6组，低于0.9的有9组。到2015年，榆林市北六县间产业结构相似系数全部处于0.9以上的高位，其中榆阳一横山、神木一府谷、神木一靖边、府谷一靖边、府谷—定边、靖边一定边产业同构度均超过0.99，产业结构相似度极高，基本处于雷同状态，表明随着社会经济的发展,榆林市北六县间产业同构问题愈来愈严重。这些地区间地理位置相近，交通信息较发达，资源优势突出，工业化程度较高，第二产业对经济增长贡献率高，导致这些区县间产业结构高度趋同。
+
+值得注意的是，榆阳区一靖边县的产业同构度为0.8821,在21a均值中居于最低，这主要由两个原因导致：一是两区县产业发展方向的差异化。榆阳区是榆林市的中心城市，第三产业发展速度较快；2015年第三产业产值在全市生产总值中占比是$3 8 . 8 3 \%$ ,居于北六县最高值，而靖边县第二产业较为发达,2015 年第二产业产值高达 $1 6 7 . 8 0 \times 1 0 ^ { 8 }$ 元，占全市生产总值的 $6 6 . 1 5 \%$ ，两区县产业结构差异较大。其次两区县在地理空间跨度较大，一定程度上也削弱了其产业同构度。榆林市北六县产业同构度呈现一定波动性，表明北六县产业结构调整存在周期波动性。目前榆林市北六县经济发展的主要动力为重化工业，在能源富集区调结构、转方式、促增长的经济大背景下，要想解决解决产业同构带来的弊病,榆林市北六县不仅要加强对三次产业内部各行业的调整，避免不必要竞争，还应该大力发展服务业，提高第三产业在地区生产总值中的比重，为经济的进一步发展提供充足的持续性动力。此外还应该优化产业布局，进一步提升产业竞争力实现各区县的差异化发展。
+
+2.2.2南六县产业同构分析如表2所示，总体上，1995—2015年榆林市南六县间产业同构度偏高，纵观1995—2015年榆林市南六县产业同构系数平均值可以发现,产业同构系数均处于0.9以上的高位，表明榆林市南部六县产业同构趋势显著。为了更好的揭示榆林市南部六县产业同构的特征，本研究从静态与动态两个维度进行分析。
+
+(1）2015年(静态分析)榆林市南部六县产业同构现象严重，除绥德县一吴堡县、绥德县一子洲县外，其他各县间产业同构系数均大于0.9，其中佳县一清涧县以0.990的产业同构系数居于南部六县首位，产业同构现象及其严重，基本处于雷同状态。吴堡县一子洲县以0.9880的产业同构系数紧跟其后，位居第二；米脂县一吴堡县排名第三。究其原因，发现高度接近的产值比重及发展进程是佳县一清涧县产业结构高度趋同的主要原因，2015年佳县(清涧县)第一、二、三产业产值在全市生产总值中的比重分别为27. $6 6 \%$ 、26. $84 \%$ 和45. $5 0 \%$ （ $2 9 . 8 7 \%$ （204号 $, 2 5 . 9 2 \%$ 和 $4 4 . 2 1 \%$ ),产业产值比重极其接近，其次，近年来以农家乐为代表的生态农业旅游业成为佳县与清涧县新的经济增长点，发展路径较为相似。而绥德县—子洲县以0.8166的产业同构度位居区域最低，这主要是产业发展方向的差异化导致。近年来，绥德县借助独特的条件，发展特色经济，大力发展旅游业及特色产品加工业，以服务业为代表的第三产业如雨后春笋般成长起来，产业结构不断优化,2015年，其第三产业比重高达 $7 0 . 8 6 \%$ ，基本是子洲县 $( 3 8 . 4 \%$ )的两倍。而子洲县2015年第二产业占比 $39 \%$ （绥德县为 $1 1 . 7 9 \%$ ）,三产产业产值的较大差异导致该两县产业结构的趋异发展。
+
+(2）通过21a发展(动态分析），榆林市南六县间除绥德县一米脂县、绥德县一清涧县、佳县一清涧县外，其他县之间产业同构度处于缓慢下降态势，但是变化幅度特别小,都大于0.9。如1995年米脂一子洲产业同构系数为0.9913,2015年下降为0.9615，吴堡县一清涧县的产业同构系数由1995年的0.9963下降至2015年的0.9426等。虽然近年来南部六县大力发展特色农业和旅游等服务业使得产业结构向好的方向发展，但较北六县相比，南六县依旧是国家级连片特困地区吕梁山片区的重要组成部分，经济发展水平整体偏低，农业依旧占了较大比重，受特殊资源、区位环境的限制及相近发展路径和地域空间的影响，其产业结构高度趋同的现状并未改变。
+
+榆林市南六县经济发展较为落后，处于工业化初期阶段，缺乏支柱产业，经济发展缺乏持续力。尤其是清涧县 $( 2 9 . 8 6 \%$ )和佳县( $2 7 . 6 6 \%$ )第一产业产值严重高于全市平均水平， $( 1 3 . 5 \%$ ），仍以传统的农业经济为主。榆林市南六县要解决产业同构及经济发展水平低等问题，要注重优化借助独特的资源，发展特殊经济，避免恶性竞争，逐步实现经济的差异化发展。此外还应该积极培育支柱产业，榆林市南部六县虽然第三产业比重较高，但对优势产业的培育力度不够，因此要积极培育和引进支柱产业，形成独具特色的产业结构，促进产业结构向高层次转化，为经济的持续发展提供后备力量。再者要构建区域协调发展战略，加强与区域中心城市的合作交流，优化投资环境，为优势资源和外资的注入打好基础，以便更好地承接北部六县的产业转移。
+
+表21995—2015 年榆林市南六县产业结构相似系数  
+Tab.2Similar coefficient of the southern six counties in Yulin City during 1995—2015   
+
+<html><body><table><tr><td>相似系数</td><td>1995年</td><td>2000年</td><td>2005年</td><td>2010年</td><td>2015年</td><td>21a均值</td></tr><tr><td>绥德县一米脂县</td><td>0.905 5</td><td>0.953 9</td><td>0.991 3</td><td>0.984 5</td><td>0.928 2</td><td>0.954 8</td></tr><tr><td>绥德县一佳县</td><td>0.932 4</td><td>0.956 1</td><td>0.946 9</td><td>0.867 4</td><td>0.912 3</td><td>0.914 3</td></tr><tr><td>绥德县一吴堡县</td><td>0.8451</td><td>0.920 9</td><td>0.992 7</td><td>0.898 0</td><td>0.849 7</td><td>0.932 3</td></tr><tr><td>绥德县一清涧县</td><td>0.798 9</td><td>0.955 5</td><td>0.933 2</td><td>0.889 1</td><td>0.902 6</td><td>0.911 4</td></tr><tr><td>绥德县一子洲县</td><td>0.849 5</td><td>0.986 0</td><td>0.9761</td><td>0.873 0</td><td>0.816 6</td><td>0.923 5</td></tr><tr><td>米脂县一佳县</td><td>0.997 7</td><td>0.998 3</td><td>0.926 6</td><td>0.901 3</td><td>0.967 3</td><td>0.926 6</td></tr><tr><td>米脂县一吴堡县</td><td>0.991 1</td><td>0.878 5</td><td>0.997 1</td><td>0.959 1</td><td>0.984 4</td><td>0.955 1</td></tr><tr><td>米脂县一清涧县</td><td>0.976 0</td><td>0.988 6</td><td>0.947 2</td><td>0.895 7</td><td>0.954 9</td><td>0.927 4</td></tr><tr><td>米脂县—子洲县</td><td>0.991 3</td><td>0.952 6</td><td>0.969 6</td><td>0.931 5</td><td>0.961 5</td><td>0.960 3</td></tr><tr><td>佳 县一吴堡县</td><td>0.980 3</td><td>0.858 3</td><td>0.909 5</td><td>0.937 5</td><td>0.954 2</td><td>0.906 8</td></tr><tr><td>佳 县一清涧县</td><td>0.960 0</td><td>0.995 7</td><td>0.966 3</td><td>0.987 7</td><td>0.999 0</td><td>0.967 5</td></tr><tr><td>佳县—子洲县</td><td>0.9812</td><td>0.963 5</td><td>0.989 7</td><td>0.978 2</td><td>0.968 3</td><td>0.953 7</td></tr><tr><td>吴堡县一清涧县</td><td>0.996 3</td><td>0.823 4</td><td>0.920 9</td><td>0.893 9</td><td>0.942 6</td><td>0.914 7</td></tr><tr><td>吴堡县一子洲县</td><td>0.999 8</td><td>0.844 9</td><td>0.955 4</td><td>0.986 7</td><td>0.988 0</td><td>0.953 6</td></tr><tr><td>清涧县—子洲县</td><td>0.995 9</td><td>0.975 9</td><td>0.982 5</td><td>0.940 6</td><td>0.963 3</td><td>0.960 1</td></tr></table></body></html>
+
+2.2.3南北六县间产业同构分析由图4可知，1995一2015年榆林市北六县与南六县间产业同构现象不显著。从21a均值来看，榆林市南北六县各区县间产业结构相似系数均在0.90以下，表明整体上榆林市南北六县间产业结构的差异显著,甚至不存在产业同构现象。但从具体年份来看，少数区县间存在产业同构现象。1995年南北六县间产业同构度大于0.9的有榆阳区一绥德县、神木县一绥德县、横山县一米脂县、横山县一佳县、横山县一吴堡县、横山县一清涧县、横山县一子洲县、靖边县一米脂县、靖边县一佳县、靖边县一吴堡县、靖边县一清涧县、靖边县一子洲县、定边县一米脂县、定边县一佳县、定边县一吴堡县、定边县一清涧县、定边县一子洲县，约占总数的 $47 \%$ 。产业结构相似系数最高达0.9736（定边县—米脂县），最低为0.5122（府谷县一清涧县），跨度达0.4614,产业发展不平衡。
+
+2005年除榆阳区一米脂县外，产业结构相似系数均低于0.9，最高为榆阳区—吴堡县（0.8869），最低为0.1849（靖边县—佳县），跨度达0.7020,表明10a来产业结构得到优化调整，产业同构度大幅度下降，但最大值与最小值的差异扩大化表明南北六县间产业发展不平衡现象加剧。2010年绝大多数区县间产业同构度开始上升，但除榆阳区一吴堡县、榆阳区一清涧县外，其他区县间的产业同构系数都在0.9以下。2015年除榆阳区一米脂县、榆阳区—吴堡县、榆阳区一子洲县、神木县一吴堡县、府谷县一吴堡县、横山县一吴堡县、横山县一子洲县外，产业结构相似系数均低于0.9，并与2010年相比，$8 3 . 3 3 \%$ 的区县间产业结构相似系数又出现回升，说明随着经济的发展和政府产业政策的调整，榆林市南北六县间产业发展方向出现趋同态势。
+
+综上可得,榆林市南六县与北六县间产业结构互补性较强，随着经济的发展，榆林市南北六县间产业同构度呈现下降态势,处于全市产业趋同度的较低水平，但在下降过程中存在明显的波动现象，表明榆林市南北六县间产业结构调整的周期性变化。总体而言，1995—2015 年榆林市南北六县间产业同构现象不显著，这主要是由南北六县资源能源、区位环境、产业发展方向的差异及较大地理空间跨度等众多因素作用的结果。需要注意几个特殊的时间点，
+
+![](images/49f13b2c0b3a3189a45f95a3b1ee1e5f3c5d5b7cb636a4922418c3ab2af3c59a.jpg)  
+Fig.2Changes trend of proportions of tertiary industries in the Yulin City during 1995—2015
+
+![](images/afeaf5f98d8b8aade4ea5073404015a10b4c5e4acb4c1eea2103219375fc5f8d.jpg)  
+图21995—2015年榆林市三次产业结构变化趋势
+
+Tab.3Changes of the similar coefficient of the northern six counties in Yulin City during 1995—2015
+
+![](images/445bde9e108e027c222d3de0cf3cbd2fd303ba4d52e835db5cf19b5a6b1ea2d1.jpg)  
+图31995—2015年榆林市北六县产业结构相似系数变化  
+图41995一2015 年榆林市南北六县间三次产业结构相似系数变化
+
+Fig.4Changes of the similar coeficient between the southern six counties and the northern countie:
+
+in Yulin City during 1995—2015
+
+1998年榆阳区一吴堡县产业同构系数达0.9970,居于最高，这主要是三次产业产值比重的高度雷同所导致。1998 年榆阳区(吴堡县)第一、二、三产业产值在全市生产总值中的比重分别为 $23 \%$ ） $3 9 \%$ 、和 $3 8 \%$ （ $2 5 \% . 3 5 \%$ 、和 $40 \%$ )产业产值比重极其接近。2007年靖边一佳县产业同构系数低至0.1141，居于最低，产业发展方向的差异化及较大的地理跨度是其居于全市最低的原因。靖边县是典型的重化工业城市，2007年，靖边县第二产业产值比重在全市中高达 $91 \%$ ,而第一产业产值 $( 3 \% )$ 、三产业产值$( 6 \%$ )比重不足 $10 \%$ ,经济发展基本依靠第二产业推动，而绥德县则与靖边县相反，第二产业仅占$10 \%$ ,第一产业产值( $30 \%$ )和第三产业产值( $60 \%$ ）高达 $90 \%$ ,产业结构差异显著。
+
+榆林市南北六县间产值结构差距明显，经济发展水平参差不齐，不仅要继续保持产业结构的差异化发展，同时还应该发挥南六县与北六县的比较优势，积极引导相互之间的合作，实现资源的整合与优化配置。此外还需共建全市发展平台，促进资金、技术，人力资源等各种生产要素的流动，加快产业优化升级进程,促进产业协调、持续发展，借此来带动全市产业结构优化升级。
+
+# 2.3榆林市产业同构化趋势预测
+
+利用产业同构系数对1995—2015年榆林市北六县、南六县产业结构同构度进行测算，按照 $R / S$ 分析方法，对榆林市北六县与南六县间未来产业同构发展方向进行预测，结果见表3。
+
+从总体看，榆林市南六县与北六县产业结构相似系数的 $H ( 1 9 9 5 { - } 2 0 1 5$ 年） $= 0 . 6 1 1 2 > 0 . 5 , C > 0$ ，表 明在1995—2015年这一变化过程发展条件不变的前提下，榆林市在未来2016—2035年的产业同构化程度将与1995—2015年有相同的发展趋势，即南北六县的产业同构化程度呈现上升态势，说明在未来 $2 0 \mathrm { ~ a ~ }$ 榆林市南六县与北六县间产业结构的相似性增强，这可能会造成区域内资源配置效率降低，专业化分工水平下降，产业竞争激烈，进而阻碍经济的持续发展。但值得注意的是，未来榆林市南北六县间产业结构趋同趋势存在波动性，具体表现在当时带 $n$ 取3和4时， $H$ 值由0.6990下降到0.6603，表明2016—2017年榆林市南北六县间产业趋同趋势减弱。当 $n$ 取4\~9时, $H$ 值由0.6603上升到0.8216,表明 2017—2022 年榆林市南北六县间产业趋同趋势增强。当 $n$ 取 $9 \sim 1 9$ 时， $H$ 值由0.8216下降到0.7536，表明2022—2035 年榆林市南北六县间产业趋同趋势呈现下降态势。
+
+表3榆林市 $\pmb { R } / S$ 分析结果  
+Tab.3 Results of $\pmb { R } / s$ in Yulin City   
+
+<html><body><table><tr><td>n</td><td>R/S</td><td>H</td><td>V(H)</td><td>n R/S</td><td>H</td><td>V(H)</td></tr><tr><td>3</td><td>1.328 7</td><td>0.699 0</td><td>0.7671 12</td><td>4.2531</td><td>0.777 2</td><td>1.227 8</td></tr><tr><td>4</td><td>1.539 9</td><td>0.660 3</td><td>0.769 9</td><td>13 4.565 6</td><td>0.780 6</td><td>1.266 3</td></tr><tr><td>5</td><td>2.104 0</td><td>0.762 7</td><td>0.940 9</td><td>14 4.657 6</td><td>0.7663</td><td>1.244 8</td></tr><tr><td>6</td><td>2.602 8</td><td>0.8038</td><td>1.062 6</td><td>15 4.820 4</td><td>0.759 4</td><td>1.244 6</td></tr><tr><td>7</td><td>3.0400</td><td>0.820 0</td><td>1.149 0</td><td>16 4.8781</td><td>0.7460</td><td>1.219 5</td></tr><tr><td>8</td><td>3.394 6</td><td>0.820 4</td><td>1.200 2</td><td>17 5.154 7</td><td>0.749 5</td><td>1.250 2</td></tr><tr><td>9</td><td>3.749 2</td><td>0.8216</td><td>1.249 7</td><td>18 5.318 4</td><td>0.745 5</td><td>1.253 5</td></tr><tr><td>10</td><td>4.075 8</td><td>0.8203</td><td>1.288 9</td><td>19 5.670 9</td><td>0.753 6</td><td>1.301 0</td></tr><tr><td>11</td><td>4.378 9</td><td>0.817 6</td><td>1.320 3</td><td>20 4.171 6</td><td>0.611 2</td><td>0.9328</td></tr></table></body></html>
+
+另外，以 $\ln ( n )$ 为横坐标， $\ln ( R / S )$ 为纵坐标做榆林市南六县与北六县的双对数图，即 $R / S$ 分析图（图5），其拟合值 $R ^ { 2 } = 0 . 9 1 7 \ 9$ ,)表明回归分析的拟合效果好，预测精度较高。
+
+![](images/8ac0d8ff2e0b42b7b1a1c3b73f35a35cb4b58c1dc6f1135e63a35274305f98d3.jpg)  
+图51995—2015 年榆林市南北六县间产业结构相似系数的R/S分析图  
+Fig.5 $R / S$ of the similar coefficient between the south counties and the north counties in Yulin City during 1995—2015
+
+# 3结论与讨论
+
+# 3.1结论
+
+本研究以地处西部的陕北能源开发区一榆林市为例，基于三次产业数据，揭示了榆林市产业结构模式,采用产业结构相似系数对榆林市产业同构进行定量刻画，并对1995—2015年产业同构进行横向与纵向两个维度对比分析，在此基础上采用R/S分析法对2016—2035年榆林市产业同构演变趋势进行预测，初步得出以下结论。
+
+(1)榆林市第二产业比重 $>$ 第三产业比重 $>$ 第一产业比重，表现为“二三一”产业结构模式,是典型的以工业为增长点的产业结构。经济持续发展的主要动力来源于第二产业。从发展趋势看，榆林市第一产业比重呈现下降态势且比重偏低；第二产业比重持续稳步增长，比重严重超过全国平均水平；第三产业比重随着第二产业的发展呈现出波动态势。在产业结构优化升级方面，全市产业结构层次比较低，向第三产业转移的水平低。
+
+(2)整体上榆林市产业结构趋同现象明显。其中，北六县各县区间产业结构趋同现象比较严重，尤其是神木县一府谷县间平均产业同构度达0.9762，产业趋同趋势最为突出。在提倡差异化发展的同时，应该加强发展第三产业，为经济发展注人持续动力;南六县产业同构系数总体呈下降趋势，但产业趋同度依旧处于0.9以上的高位，应坚持培育和引进支柱产业建设与差异化发展并行的发展战略，大力发挥自身优势产业，积极发展特色经济，实现差异化发展，以此缩小南北差距和促进产业结构的优化升级。南北六县大部分区县间的产业结构趋同度现象不明显，产业结构相似系数总体上有大幅下降趋势，这与南北产业结构差异较大有关。南北六县间要继续保持产业结构的差异化发展，同时还要发挥各自比较优势，加强合作与交流，打造产业集群，促进生产要素的流动，借此来带动全市产业结构优化升级。
+
+(3)借助21a动态数据的 $R / S$ 分析表明：榆林市南六县与北六县产业结构相似系数的 $H ( 1 9 9 5 -$ $2 0 1 5 ) = 0 . 6 1 1 2 > 0 . 5 , C > 0$ ,表明榆林市在原有发展环境下，榆林市在未来2016—2035年的产业同构化程度将与1995—2015年有相同的发展趋势，即未来 $2 0 \mathrm { ~ a ~ }$ 榆林市南六县与北六县间产业结构的相似性增强。但值得注意的是，未来榆林市南北六县间产业结构趋同趋势存在波动性。
+
+# 3.2讨论
+
+(1)榆林市产业同构现象的出现具有一定的必然性与合理性。榆林市是典型的能源资源富集区，相似的资源优势，经济交流与联系日益紧密，经济发展水平的不断接近都导致了各区县产业同构化现象的出现。榆林市北六县在全市范围里经济发展水平高且接近，南六县经济发展水平较低，在北六县与南六县内部产业同构度都比较高，而南六县与北六县经济发展水平良莠不齐，产业同构度低。产业同构度与经济发展水平接近程度呈现一定的相关关系，即经济发展水平接近的地区产业同构现象明显，这与已有的研究所得结论相一致[26]
+
+(2)学术界对于能源开发区产业同构的研究，目前还处于初级阶段，对于能源开发区特有的产业同构评价指标体系还未形成统一的标准。同时鉴于陕北能源开发区数据统计规范及详细等问题，不能获得更详细的统计数据，本研究没有从各产业内部行业部门去考察陕北能源开发区产业同构问题。就更深入、更细部的产业同构问题而言，仍需进一步充实和完善，结合区域地理区位因素、自然与人文因素等进行深入地探讨。
+
+(3)随着陕北能源开发区能源经济与资源产业的进一步发展，未来陕北能源开发区产业同构不断加强，基于对自身经济发展的考量，榆林市在未来制定促进经济发展的政策，特别是产业发展政策应有一个清醒的认识,在发展过程中要积极发挥自身的能源优势，壮大主导产业，培育新兴产业和新的经济增长点，尽量规避产业同构带来的弊病，最终达到促进积极健康、持续快速发展的目的。
+
+# 参考文献(References）
+
+[1］夏四友,文琦,赵媛,等.陕西省榆林市能源效率与经济发展水 平时空耦合分析[J].地域研究与开发，2017，36(6)：34-38. [XIA Siyou,WEN Qi,ZHAO Yuan,et al. Spatio-temporal coupling analysis of energy efficiency and economic development in Yulin City,Shaanxi Province[J].Areal Research and Development, 2017,36(6) :34 -38.]
+
+［2］夏四友,文琦,熊欢.基于DEA的能源富集区经济发展效率实 证研究——以陕西省榆林市为例[J].地域研究与开发,2016， 35(5）:47-52.[XIA Siyou,WENQi,XIONGHuan.Comprehensive evaluation on efficiency of economic development in resource richarea:A case study of Yulin City in Shaanxi Province[J].Areal Research and Development,2016,35(5）:47 -52.]
+
+[3]刘杰.山东省西部产业结构趋同研究[J].经济地理,2013,33(9）：1O1 -1O6.［LIU Jie.Industrial structure convergence inwestern regions of Shandong Province[J].Economic Geography,2013,33(9):101-106.]
+
+[4］世界银行1984年经济考察团.中国：长期发展的问题和方案 主报告［M].北京：中国财经出版社，1985.［Theworldbank's economic research group in 1984.China：Long term development issues and programs[M].Beijing:China Financial Press,1985]
+
+[5］张卓颖，石敏俊.中国省区间产业内贸易与产业结构同构分析[J].地理学报,2011,66(6）:732-740.[ZHANG Zhuoying,SHIMinjun.Intra-industrial trade and interregional structural isomor-
+
+phism of manufacturing industry based on China-IRIO[J].Acta Grographica Sinica,2011,66(6） :732-740.]   
+[6]韦素琼,陈艳华,耿静嬛.基于相似系数和R/S分析方法的闽 台产业同构性［J].地理研究,2013,29（3）：491-499.［WEI Suqiong,CHEN Yanhua,GEN Jinghuan.Empirical study on industrial isomorphism comparing Fujian and Taiwan Provinces by the similar coefficient and R/S[J]. Geographical Research,2013,29 (3):491-499.]   
+[7］罗若愚,赵洁.成渝地区产业结构趋同探析与政策选择[J].地 域研究与开发,2013,32(5）:41-45.[LUO Ruoyu,ZHAO Jie. Analysis on the convergence of industrial structure in ChengduChongqing economic zone and its policy options[J].Areal Research and Development,2013,32(5）:41-45.]   
+[8］鲍华俊,徐青,王德全.长江三角洲地区制造业同构与经济效 益的关系［J].经济论坛,2004,23;20－21.［BAOHuajun,XU Qing,WANG Dequan. The convergence of industrial structures and economic efficiency in the Yangtze River Delta[J].Economic Tribune,2004,23:20 -21.]   
+[9]王志华,陈圻.长三角省际贸易强度与制造业同构的关系分析 [J].产业经济研究,2007,26（1）:45－50.[WANG Zhihua, CHEN Qi. Trade intensity and convergence of Yangtze River Delta' s industry structure[J]. Industrial Economics Research,2007,26 (1) :45-50.]   
+[10］朱同丹.长三角产业同构之我见[J].长三角发展论坛,2003, (12）:11-12.[ZHU Tongdan.The opinion of Yangtze River Delta's industry convergence[J].Yangtze River Delta's Development Forum,2003,（12):11-12.]   
+[11］王书芳.地区产业结构趋同的两种价值判断及其界定标准 [J].中南财经大学学报,1997,（3）:40-45.[WANG Shufang. Two value judgmentsand definition criterion for regional industrial convergence[J].Journal of Zhongnan University of Economics and Law,1997,(3):40-45.]   
+[12］陈耀.产业结构趋同的度量及合意与非合意性[J].中国工业 经济,1998,（4）:37-43.[CHEN Yao.Measurementof industry structure convergence and its desired and undesired[J].China Industrial Economy,1998,（4）:37 -43.]   
+[13］NAUGHTON B.How much can regional integration do to unify China's markets?[M]//HOPE Nicholas,YANG Dennis,LI Mu Yang.How Far across the River? Chinese Reform at the Millennium. Stanford:Stanford University Press,2003:204-232.   
+[14］靖学青.长三角地区制造业结构趋同分析［J].改革,2004, (2）:48-51.[JING Xueqing.Research on convergence of industrial structures in the Yangtze River Delta[J].Reform,2004,（2）： 48 -51.]   
+[15］蒋金荷.我国高技术产业同构性与集聚的实证分析[J].数量 经济技术经济研究,2005,（12）:91-97.[JIANG Jinhe.Empirical analysis on industrial isomorphism and aggomeration of high tech industry in China[J].The Journal of Quantitative & Technical Economics,2005,（12）:91-97.]   
+[16］榆林市统计局.榆林年鉴 2014［R].榆林:榆林统计出版社， 2014.[Yulin Statistical Bureau.Yulin statistical yearbook(2014) [R].Yulin:Yulin Statistics Press,2014.]   
+[17］关爱萍.产业同构测度的方法[J].统计与决策,2007，（19）：32 -34.［GUAN Aiping.Measurement method of industrial isomorphism[J].Statistics & Decision,2007,（19）:32 -34.]   
+[18］孙东琪,朱传耿,周婷.苏、鲁产业结构比较分析[J].经济地 理,2010,30(11）:1847-1853.[SUN Dongqi,ZHU Chuangen, ZHOU Ting.Comparative study on the industrial structure of Jiangsu Province and Shandong Province[J]. Economic Geography, 2010,30(11) :1847 -1853.]   
+[19］陆大道.中国区域发展的理论与实践[M].北京:科学出版社, 2003.［LU Dadao.Theory and practice of regional development in China[M]. Beijing:Science Press,2003.]   
+[20］苏东水.产业经济学［M].北京：高等教育出版社,2000.［SU Dongshui.Industrial economics[M].Beijing:Higher Education Press,2000.]   
+[21］李玉凤.黑龙江省产业结构优化及仿真［M].北京：中国农业 出版社,2010.［LI Yufeng.Industrial structure optimization and simulation in Heilongjiang Province[M].Beijing:China Agriculture Press,2010.]   
+[22]HURST H E. The long-term storage capacityof reservoirs[J]. Transactions of the American Society of Civil Engineer,1951, (116):770-808.   
+[23]MANDELBRO B.New methods in statistical economics[J].Journal of Policitcal Economy,1963,（71）:421-440.   
+[24]SUGIHARA G,MAY R M.Application of fractals in ecology[J]. Trend Ecology Evolution,1990,（5）:79 -80.   
+[25］谢和平.分形应用中的数学基础与方法［M].北京：科学出版 社,1999.[XIE Heping.Mathematical basis and method of fractal application[M]. Beijing:Science Press,1999.]   
+[26］陈建军.长江三角洲地区的产业同构及产业定位[J].中国工 业经济,2004,（2）:19-26.[CHEN Jianjun.Study on same structure and position of industry in Delta Area of Changjiang River [J]. China Industrial Economy,2004,（2）:19 -26.]
+
+# A comparative study of industrial isomorphism and trend forecast in energy exploitation area of northern Shaanxi Province
+
+XIA Si-you1，WEN Qi²， ZHAO Yuan1,3， SONG Yong-yong4，DU Yi-xian²， QIAO Li-na² (1School of Geography Science,Nanjing Normal University,Nanjing 210o23,Jiangsu,China ; 2School of Resources and Environment,Ningxia University,Yinchuan 75oo21,Ningxia,China; 3Jinling College,Nanjing Normal University,Nanjing 210097,Jiangsu,China; 4School of Geography and Tourism,Shaanxi Normal University,Xi'an 710119,Shaanxi,China)
+
+Abstract：Acorrect understanding of the situation and evolution trendof regional industrial isomorphism is of great practical significance to formulatescientific economic development policies,especially industrial development policies.Taking Yulin City,the energy exploitation area of northern Shaanxi Province,China,as the source of samples inthe study area,the industrial structure model wasanalyzed firstly with the thre industrydata duringthe time period from1995 to 2O15.Then theindustrial isomorphism was measured bythe similarity coeffcientof industrial structure,and compared from both the horizontal and vertical dimensions.Besides,the R/Sanalysis wasadopted to forecastthe evolution trendof the industrial isomorphism in Yulin City.Theresults have revealed as follows：（1) The industrial structure in Yulin City presented a typical mode of“the secondary $>$ the tertiary $>$ the primary”, which means the secondary industryconstitutes alarge portion,and has become the leading force in driving the economic development.（2）The industrial isomorphism in northern Yulin（covering six counties）is at a high-level. So is it in southern Yulin（covering another six counties）.Especiallythe similaritycoeffcient is O.9762 between Shenmu County and Fugu County,and O.967 5between Jiaxian and Qingjian County.The majorityof the similarity coefficients between six counties inthe north and the other six counties inthe south are less than O.9,indicating a less obvious industrial isomorphism.（3）The similarcoefficientof the industrial structures between the six counties in the north as a whole and the six counties in the south as a whole is O.611 2 $( { \bf \sigma } > 0 . 5 )$ ）,which indicated that if the industries continue to be developed withoutchange under the circumstances,the level of industrial isomorphism will kep increased inaperiodical variation.The study suggests thatthe industrial isomorphism in YulinCity has its own inevitability because of the similarity in the resources and tight connection inthe economic development among the counties and people there should realize it in seting up future policies to promote regional economic development. Key words：industrial structure；industrial isomorphism；the similar coeficient；R/S analysis；Yulin City

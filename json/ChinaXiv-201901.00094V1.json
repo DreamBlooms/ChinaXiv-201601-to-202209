@@ -1,0 +1,357 @@
+[
+    {
+        "type": "text",
+        "text": "ECMWF高分辨率模式对陕西2017年7月高温预报的检验及订正",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王丹'，王建鹏²，娄盼星²，戴昌明²(1陕西省气象服务中心,陕西西安710014；2 陕西省气象台,陕西西安710014)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：2017年7月陕西累计出现 $2 6 \\textup { d }$ 日最高气温 $\\geqslant 3 5 ~ \\mathrm { ~ \\geqslant C ~ }$ 的高温天气，其中 $1 4 \\mathrm { ~ d ~ }$ 日最高气温突破$4 0 \\ \\% \\ , 7$ 月 $7 \\sim 1 4$ 日和17\\~27日出现2次区域性持续高温天气。利用陕西99个国家站的最高气温逐时观测和ECMWF高分辨率模式的定时最高气温预报资料，检验ECMWF高分辨率模式对2017年7月陕西极端高温天气的预报能力和一元线性回归方法对气温预报的订正能力。结果表明： $1 4 4 \\mathrm { ~ h ~ }$ 之前模式较好地预报出了陕西2次区域性持续高温天气，但是高温日数的预报值在陕西大部分地区较观测值偏少，漏报了陕南大部分地区的高温日，与 $1 4 : 0 0 \\sim 1 7 : 0 0$ 时段最高气温的预报值在陕西大部分地区较观测值偏低，其中陕南地区的预报平均绝对误差明显大于其他地区有关。一元线性回归方法对 $1 6 8 \\mathrm { ~ h ~ }$ 之前的最高气温预报为正订正效果，订正后陕西大部分地区最高气温的预报准确率上升，平均绝对误差减小，日最高气温 $\\geqslant 3 5 ~ \\mathrm { ~ \\mathscr ~ { ~ C ~ } ~ }$ 或 $\\geqslant 4 0 \\ { } ^ { \\circ } { \\mathrm { C } }$ 的高温预报较订正前更接近实况。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高温天气；ECMWF高分辨率模式；检验与订正；陕西文章编号： 1000 -6060(2019)01-0038-09(0038\\~0046)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ECMWF是世界上具有较高预报水平的全球数值模式，随着20世纪90年代以来卫星、雷达等非常规观测资料的不断补充，ECMWF不断完善同化方案以及质量控制方法和偏差校正等，使得再分析结果呈阶梯式的上升[1]。对模式预报结果进行检验是改进模式预报系统，指导用户使用模式产品的重要环节[2-10]。龚伟伟等[11]对 ECMWF、JMA 和 GFS等数值模式资料的地面气温、相对湿度和风速在中国区域的实用性进行比较，发现对于地面气温和地面相对湿度，ECMWF比JMA和GFS更接近实际观测。张峰等[12]对T639、ECMWF及日本数值模式的中期预报产品进行分析和检验，发现ECMWF模式对亚洲中高纬度环流形势的调整和演变的预报效果优于其它模式。涂小萍等[13]利用ECMWF对2004—2008年西北太平洋和南海所有编号热带气旋进行路径预报，发现ECMWF客观预报效果优于中央气象台效果差的主观预报。肖红茹等[14]对 T639 和",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ECMWF细网格模式 $9 6 \\mathrm { ~ h ~ }$ 降水预报进行检验对比，发现ECMWF模式对不同系统降水的预报效果都优于 T639。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近几十年，许多业务预报单位成功运用MOS方法,改进了数值模式预报效果。熊世为等[15]基于ECMWF细网格模式输出产品，以一种优化的BP-MOS模型预测1\\~7d日最高和最低气温，不仅较好地预测了变温幅度，对气温极值的预测效果也比较理想。罗菊英等[16]参考客观数值模式产品、上级业务部门指导产品相结合的综合MOS预报方法，建立地方气温MOS预报模型，有效提高了预报准确率。余晖等[17]采用逐步回归方法建立热带气旋强度预报误差的统计预估模型，比模式直接输出的热带气旋强度预报有显著改进。李佰平等[18]利用4种方法对ECMWF地面气温预报进行订正，发现在短期预报中用一元线性回归方法要优于多元集合预报订正方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ECMWF高分辨率模式的水平分辨率已经达到$0 . 1 2 5 ^ { \\circ } \\times 0 . 1 2 5 ^ { \\circ }$ ,为当前精细化气象预报业务提供了有力支撑，同时也亟需对该模式的预报性能进行评估。2017年7月，陕西出现了历史罕见的极端高温天气，具有持续时间长、强度大、范围广的特点。本文将评估ECMWF高分辨率模式对2017年7月陕西极端高温天气的预报能力，并在此基础上，检验一元线性回归方法对模式气温预报的订正能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 资料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 资料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究资料包括：(1)2017年5月27日\\~7月31日陕西99个国家站的逐时最高气温观测资料；（2)2017年5月27日\\~7月31日每日08：00和20：00起报的ECMWF高分辨率模式的过去 $^ 3 \\mathrm { ~ h ~ }$ 和过去6h中 $2 \\mathrm { ~ m ~ }$ 定时最高气温预报，预报时效为 $3 \\sim 1 4 4 \\mathrm { ~ h ~ }$ 逐 $^ 3 \\mathrm { ~ h ~ }$ 分段(过去 $^ 3 \\mathrm { ~ h ~ }$ 预报） $. 1 5 0 \\sim 2 4 0 \\mathrm { ~ h ~ }$ 逐 $6 \\textup { h }$ 分段（过去 $6 \\textup { h }$ 预报），共计64个预报时次，空间分辨率为 $0 . 1 2 5 ^ { \\circ } \\times 0 . 1 2 5 ^ { \\circ }$ 。日最高气温预报值取08：00和20：00起报的逐 $2 4 \\mathrm { ~ h ~ }$ 时效内定时最高气温预报的最高值，对应的日最高气温观测值取09：00～次日08：00时段和21：00～次日20：00时段逐时最高气温观测的最高值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1检验方法通过双线性插值方法将最高气温格点预报值插值到站点，并对气温观测数据进行预处理，使其与模式的预报时段相匹配。用到的检验方法和公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\cdot f _ { i }$ 是第 $i$ 站(次)的预报值; $o _ { i }$ 是第 $\\mathbf { \\chi } _ { i }$ 站(次)的观测值； $N$ 是预报的总站(次)数; $N _ { r }$ 是 $\\left| f _ { i } - o _ { i } \\right| \\leqslant 2$ $\\mathrm { { ^ \\circ C } }$ 或者 $\\left| f _ { i } - o _ { i } \\right| \\leqslant 1 \\mathrm { ~ \\% }$ 的预报站(次)数。本文的检验时间为2017年7月1～31日，检验区域为陕西省99 个国家站。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2订正方法采用一元线性回归方法对气温预报进行订正，在训练期(预报时间前35d)逐站、逐预报时效建立定时最高气温的一元线性回归方程，公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i , j } = a _ { i , j } x _ { i , j } + b _ { i , j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $i = 1 , 2 , \\cdots , 9 9 ; j = 1 , 2 , \\cdots 6 4 ; x _ { i , j } .$ 和 $y _ { i , j }$ 分别为第$i$ 站第 $j$ 预报时次的模式预报值和订正值, $a _ { i , j }$ 和 $b _ { i , j }$ 分别为第 $i$ 站第 $j$ 预报时次的回归系数和常数项。本文采用第 $i$ 站第 $j$ 预报时次的预报值和观测值，通过最小二乘法计算 $a _ { i , j }$ 和 $b _ { i , j }$ ，建立 $9 9 \\times 6 4$ 个方程对各站各预报时次的最高气温进行订正，每日更新两次（08:00和20:00）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2检验及订正结果分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 高温天气实况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2017年7月，陕西分别于7月7～14日和7月$1 7 \\sim 2 7$ 日2次出现区域性持续高温天气（图1a），累计出现26d日最高气温 $\\geqslant 3 5 \\mathrm { ~ \\% ~ }$ 的高温天气,其中$1 4 \\mathrm { ~ d ~ }$ 日最高气温突破 $4 0 \\ \\mathrm { { ^ circ C } }$ 。从区域分布来看（图${ 1 } \\mathrm { b } \\vphantom { 1 } \\cdot { 1 } \\mathrm { c } \\vphantom { 1 } )$ ，除太白站和华山站外,其他各站均出现不同程度的高温，其中，关中大部、陕南中部和陕北东部部分地区的高温强度较大，日最高气温 $\\geqslant 3 5 ~ \\mathrm { ~ \\mathscr ~ { ~ C ~ } ~ }$ 的高温日达到 $1 5 \\sim 2 4 \\mathrm { ~ d ~ }$ ,并且出现了日最高气温 $\\geqslant 4 0$ $\\mathcal { \\mathrm { C } }$ 的高温日。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 定时最高气温预报 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从定时最高气温预报的检验结果来看（08：00起报的见图2，20：00起报的图略），一天中，陕西地区的日最高气温多出现在 $1 4 : 0 0 \\sim 1 7 : 0 0$ ,模式预报的定时最高气温的日变化特征与观测一致（图2a），二者的相关系数为0.91,通过了置信度为 $9 9 \\%$ 的统计显著性检验。模式对定时最高气温的预报能力有明显的日变化特征，从图 $ { 2 \\mathrm { b } }  { \\sim } 2  { \\mathrm { d } }$ 来看，在 $1 4 : 0 0 \\sim$ 次日01：00的预报准确率(绝对误差）低于（大于）其他时段,其中 $1 4 : 0 0 \\sim 1 7 : 0 0$ 的预报准确率（绝对误差)高于(小于) $1 8 : 0 0 \\sim$ 次日01：00。随着预报时效的增加，一元线性回归方法对定时最高气温预报的订正能力波浪式降低，在 $1 6 8 \\mathrm { ~ h ~ }$ 之前为正订正效果， $1 6 8 \\mathrm { ~ h ~ }$ 之后为负订正效果，在 $1 4 : 0 0 \\sim$ 次日01：00时段的订正能力优于其他时段。订正后，定时最高气温预报值与观测值的相关系数从订正前的0.91提高到 $0 . 9 9 , 1 6 8 \\mathrm { ~ h ~ }$ 之前定时最高气温预报误差 $\\leqslant 1$ $\\mathcal { \\mathrm { C } }$ 和 $\\leqslant 2 \\mathrm { ~ \\% ~ }$ 的准确率分别从订正前的 $12 \\% \\sim 3 7 \\%$ 和$2 1 \\% \\sim 5 1 \\%$ 提高到 $12 6 \\% \\sim 6 4 \\%$ 和 $4 4 \\% \\sim 8 2 \\%$ ，平均绝对误差从订正前的 $1 . 7 \\sim 3 . 8 \\mathrm { ~ \\textdegree C }$ 减小到 $1 . 2 \\sim$ $2 . 7 ~ \\mathrm { ^ { \\circ } C }$ ,平均误差较订正前更接近零值，从订正前的$- 3 . 1 \\sim 2 . 9 \\mathrm { ~ \\textdegree C }$ 变为 $- 1 . 1 \\sim 0 . 5 \\mathrm { ~ \\textdegree C }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc8cc3f9d9cc4823280564f063cb4c427d1da427927c06b59f3ebdfeb9445b97.jpg",
+        "img_caption": [
+            "图12017年7月陕西省日最高气温 $\\geqslant 3 5$ （20 $\\mathcal { \\mathrm { C } }$ 和 $\\geqslant 4 0 ~ \\mathrm { \\mathcal { C } }$ 高温站数的逐日变化(a)和高温日数的区域分布 ${ ( \\mathbf { b } , \\mathbf { c } ) }$ Fig.1Dailyvariationof hot weatherstations（a）andspatialdistributionofhotweatherdays（b,c）whosedailymaximumairtemperature is above $3 5 ~ \\mathrm { { ^ { \\circ } C } }$ or $4 0 \\ \\mathrm { { ^ \\circ C } }$ in Shaanxi Province in July 2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/26ea06bdb0b8d7232595964f9917acd35d133224c51e77ac4c1efb8b78ecb89e.jpg",
+        "img_caption": [
+            "图208:00起报的陕西省定时最高气温订正前、后预报值与观测值对比(a)和准确率(b)、平均绝对误差(c）、平均误差(d)随预报时效的变化",
+            "Fig.2Variation withforecast timeoffixedtime maximumair temperature fromobservationandforecast（a）,andaccuracy（b). average absoluteeror（c）,averageeror（d）of maximumairtemperature predictionbeforeandaftercorrectionfromO8:O BST in Shaanxi Province "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 日最高气温预报",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从日最高气温预报的检验结果来看（08：00起报的见图3，20：00起报的图略），区域平均上，日最高气温预报的平均误差为负值，即预报值小于观测值，与日最高气温多出现在 $1 4 : 0 0 \\sim 1 7 : 0 0$ ,该时段定时最高气温预报的平均误差为负值的研究结论一致(图2d)。一元线性回归方法对 $1 6 8 \\mathrm { ~ h ~ }$ 之前的日最高气温预报为明显的正订正效果，例如，订正后，08：00起报的 $^ { 1 6 8 \\mathrm { ~ h ~ } }$ 之前日最高气温预报误差 $\\leqslant 1$ $\\mathcal { \\mathrm { C } }$ 和 $\\leqslant 2 \\mathrm { ~ \\% ~ }$ 的准确率分别从订正前的 $2 1 \\% \\sim 2 8 \\%$ 和$4 0 \\% \\sim 4 8 \\%$ 提高到 $2 4 \\% \\sim 5 0 \\%$ 和 $4 9 \\% \\sim 8 0 \\%$ ，平均绝对误差从订正前的 $2 . 5 \\sim 3 . 2 ~ \\mathrm { ^ { \\circ } C }$ 减小到 $1 . 3 \\sim 2 . 6$ $\\mathcal { \\mathrm { C } }$ ，平均误差较订正前更接近零值，从订正前的$- 1 . 9 \\sim - 0 . 7 \\ \\mathrm { { ‰ } }$ 变为 $0 \\sim 0 . 5 \\mathrm { ~ \\textdegree C }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "逐站对日最高气温预报进行检验，结果表明，日最高气温预报的准确率(平均绝对误差)在关中、陕北和陕南地区依次降低（增大），陕西大部分地区的日最高气温预报值小于观测值，预报值大于观测值的站仅分布在陕北和关中的部分地区；订正后，陕西大部分地区日最高气温预报的平均绝对误差减小，准确率升高，预报准确率在陕南地区的提高幅度最大，陕北、关中大部分地区的日最高气温预报值大于观测值，陕南大部分地区的预报值仍然小于观测值。以08：00起报的 $^ { 4 8 \\mathrm { ~ h ~ } }$ 预报为例,订正前（图 $4 \\mathrm { a } \\sim$ 4d)，陕西大部分地区的平均误差为负值，陕北、关中大部分地区的平均绝对误差在 $0 \\sim 4 ~ \\mathrm { { ^ { c } C } }$ 之间,预报误差 $\\leqslant 1 \\mathrm { ~ \\% ~ }$ 和 $\\leqslant 2 \\mathrm { ~ \\% ~ }$ 的准确率分别在 $10 \\% \\sim 6 0 \\%$ 和$2 5 \\% \\sim 8 5 \\%$ 之间,陕南大部分地区的平均绝对误差在 $4 \\sim 6 ~ \\mathrm { { ‰ } }$ 之间，预报误差 $\\leqslant 1 \\mathrm { ~ \\% ~ }$ 和 $\\leqslant 2 \\mathrm { ~ \\% ~ }$ 的准确率分别低于 $10 \\%$ 和 $2 5 \\%$ ；订正后（图 $4 \\mathrm { e } \\sim 4 \\mathrm { h }$ )，陕北、关中大部分地区的平均误差转为正值，陕西大部分地区平均绝对误差减小，准确率提高，其中陕南地区的准确率提高幅度最大，陕南大部分地区预报误差$\\leqslant 1 \\mathrm { ~ \\% ~ }$ 和 $\\leqslant 2 \\mathrm { ~ \\% ~ }$ 的准确率分别提高了 $20 \\%$ 和 $4 0 \\%$ 以上，平均绝对误差减小了 $2 \\sim 4 ~ \\mathrm { { ^ { c } C } }$ ,例如,凤县、佛坪和留坝等站08：00起报的日最高气温预报误差 $\\leqslant 1$ $\\mathbf { \\mathcal { C } } \\left( \\mathbf { \\mathfrak { \\leq } } 2 \\mathrm { \\ } ^ { \\circ } \\mathbf { \\mathcal { C } } \\mathrm { \\ } \\right)$ )的准确率从 $\\leqslant 3 \\% ( \\leqslant 3 \\% )$ 提高至 $2 6 \\%$ $\\sim 5 2 \\%$ （ $5 5 \\% \\sim 8 5 \\%$ ）,平均绝对误差从 $> 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 减小至 $1 \\sim 3 \\mathrm { ~ } \\mathrm { { \\mathcal { C } } }$ 。另外，订正后日最高气温在陕北、关中部分地区的预报准确率较订正前降低，而这些地区订正前的预报准确率都较高，例如，宜君站08：00 起报的日最高气温预报误差 $\\leqslant 1 \\mathrm { ~ \\% ~ }$ 和 $\\leqslant 2 \\mathrm { ~ \\% ~ }$ 的准确率分别从 $6 0 \\%$ 和 $8 3 \\%$ 降低到 $45 \\%$ 和 $7 7 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从以上分析来看，一元线性回归方法改善了模式对最高气温预报的系统偏差，提高了预报准确率，并且订正能力与模式在该站的预报水平有明显的负相关关系，对陕南地区准确率较低的站有明显的正订正效果，对关中、陕北地区部分准确率较高的站为负订正效果。取08：00和20：00起报的99个国家站 $2 4 0 \\mathrm { ~ h ~ }$ 内逐 $2 4 \\mathrm { ~ h ~ }$ 日最高气温预报误差 $\\leqslant 2 \\mathrm { ~ \\% ~ }$ 的准确率作为统计样本，样本量为 $2 \\times 9 9 \\times 1 0$ ,订正前准确率与订正后准确率提高幅度的相关系数为-0.64,通过了置信度为 $9 9 \\%$ 的统计显著性检验。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3de131edf7259ec0bd7acc49e5b166476daced1a532307799f8ba1127b18f5c.jpg",
+        "img_caption": [
+            "图308:00 起报的陕西省日最高气温预报订正前、后的平均误差(a)、平均绝对误差(b)和准确率(c)随预报时效的变化Fig.3Variationwithforecasttimeofaverageerror（a），averageabsoluteerror（b），auracy（c）beforeandaftercorectionofdaily maximum air temperature forecasted from O8 :OO BST in Shaanxi Province"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f26daa0fc8b420d02d344b48e60db766343cd5fc23a3871f50e087a940e1f16.jpg",
+        "img_caption": [
+            "图408:00起报的 $^ { 4 8 \\mathrm { ~ h ~ } }$ 日最高气温预报订正前、后的平均误差(a、e)、平均绝对误差 $\\left( \\mathbf { b } , \\mathbf { f } \\right)$ 、预报误差 $\\leqslant 1 \\mathrm { ~ \\mathcal { C } ~ } ( \\mathrm { ~ c ~ } , \\mathbf { g } )$ 和 ${ \\leqslant } 2 { \\mathrm { ~ \\% ~ } } ( { \\mathrm { ~ d } } , { \\mathrm { h } } )$ 准确率的区域分布( ${ \\mathrm { a } } \\sim { \\mathrm { d } } .$ 订正前; $\\mathrm { { e \\sim h } . }$ 订正后）",
+            "Fig.4Spatial distribution of average error $\\mathbf { \\Psi } ( \\mathbf { a } , \\mathbf { e } )$ ,average absolute error（b,f）,accuracy with absolute error less than $1 \\mathrm { ~ \\mathcal { C } ~ } \\left( \\mathrm { ~ c ~ } , \\underline { { \\mathbf { g } } } \\right)$ and $2 \\ \\mathrm { { ^ circ C } }$ $^ { \\mathrm { ~ ( ~ d , h ~ ) ~ } }$ of daily maximum air temperature before and after correction in the forecast time of 48 hours.（a-d.before correction ; $\\mathrm { ~ e ~ - h ~ }$ ：after correction） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 高温预报 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从模式对日最高气温 $\\geqslant 3 5 ~ \\mathrm { ~ \\mathscr ~ { ~ C ~ } ~ }$ 或 $\\geqslant 4 0 \\ { } ^ { \\circ } { \\mathrm { C } }$ 的高温预报检验结果（图略)来看， $^ { 1 4 4 \\mathrm { ~ h ~ } }$ 之前模式较好地预报出了2017年7月7\\~14日和7月17\\~27日的2次区域性持续高温天气，以及陕北、关中大部分地区的高温日，但是漏报了陕南大部分地区的高温日。2017年7月，模式预报的陕西大部分地区的高温日数较观测值偏少，订正后高温日数的预报值较订正前更接近观测值，其中陕北、关中地区日最高气温≥$3 5 ~ \\mathrm { { ^ { \\circ } C } }$ 高温日数的预报值较观测值偏多，陕南地区日最高气温 $\\geqslant 3 5 ~ \\mathrm { { ‰ } }$ 高温日数的预报值较观测值偏少。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以08：00起报的 $^ { 4 8 \\mathrm { ~ h ~ } }$ 预报为例，逐日、逐站检验2017年7月 $1 \\sim 3 1$ 日模式的高温预报及订正结果。逐日检验来看（图5），模式预报的高温站数的逐日分布趋势与观测一致，预报值在订正前较观测值偏少，订正后更接近观测，其中，日最高气温 $\\geqslant 3 5$ $\\mathcal { \\mathrm { C } }$ 高温站数较观测略偏多、 $\\geq 4 0 \\ \\mathrm { ~ \\% ~ }$ 高温站数较观测偏少。逐站检验来看(图6)，订正前，高温日数的预报值在陕西大部分地区较观测值偏少，仅在关中部分地区较观测值偏多，漏报了陕南大部分地区日最高气温 $\\geqslant 3 5 ~ \\mathrm { ~ \\mathscr ~ { ~ C ~ } ~ }$ 的高温日、陕北北部和陕南中部日最高气温 $\\geqslant 4 0 ~ \\mathrm { { ‰ } }$ 的高温日；订正后，陕西大部分地区高温日数的预报值较订正前更接近观测值，日最高气温 $\\geqslant 3 5 ~ \\mathrm { ~ \\mathscr ~ { ~ C ~ } ~ }$ 高温日数的预报值在陕北、关中大部分地区较观测值偏多、在陕南大部分地区较观测值偏少，日最高气温 $\\geqslant 4 0 ~ \\mathrm { { ‰ } }$ 高温日数的预报值在陕西大部分地区较观测值偏少。以上高温预报的检验结果与日最高气温预报吻合。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文利用2017年5月27日\\~7月31日陕西99个国家站的最高气温逐时观测和ECMWF高分辨率模式的定时最高气温预报资料，检验了ECM-WF高分辨率模式对2017年7月陕西极端高温天气的预报能力，以及一元线性回归方法对气温预报的订正能力，得出以下结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1） $^ { 1 4 4 \\mathrm { ~ h ~ } }$ 之前模式较好地预报出了2017年7月7\\~14日和7月 $1 7 \\sim 2 7$ 日的2次区域性持续高温天气，但是预报的高温站数（日数)较观测值偏少，与日最高气温多出现在 $1 4 : 0 0 \\sim 1 7 : 0 0$ ,该时段定时最高气温的预报值较观测值偏低有关。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/281f0b46b832b5a02ef8a600f6869b0137143817766efa1f3cad9725a87c23c1.jpg",
+        "img_caption": [
+            "图508：00起报的 $^ { 4 8 \\mathrm { ~ h ~ } }$ 日最高气温预报 $\\geqslant 3 5$ $\\mathcal { \\mathrm { C } }$ (a)和 $\\scriptstyle \\geqslant 4 0$ （20 $\\mathcal { \\mathrm { C } }$ (b)高温站数及其预报误差的逐日分布 Fig.5Daily variation of numberof hot weather station and its forecast eror in which daily maximum air temperature is above $3 5 ~ \\mathrm { { ^ { \\circ } C } }$ （a）and $4 0 \\ \\mathrm { { ^ \\circ C } }$ （b）in the forecast time of 48 hours "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/706e9d48f9f37296b4519cda1201b779fa443dde8046620abda03e0ff90710f7.jpg",
+        "img_caption": [
+            "图608:00起报的 $^ { 4 8 \\mathrm { ~ h ~ } }$ 预报订正前、后的日最高气温 $\\geqslant 3 5 ~ \\mathrm { \\textdegree C }$ 和 $\\geqslant 4 0 ~ \\mathrm { \\textdegree C }$ 高温日数 $( \\mathbf { \\nabla } a , \\mathbf { b } , \\mathbf { e } , \\mathbf { f } )$ 及其预报误差 $( \\mathbf { c } , \\mathbf { d } , \\mathbf { g } , \\mathbf { h } )$ 的区域分布( ${ \\mathrm { a \\sim d . } }$ 订正前； $\\mathrm { ~ e ~ } { \\sim } \\mathrm { h }$ 订正后）",
+            "Fig.6Spatial distribution of number of hot weather station(a,b,e,f）and its forecast error $( \\mathbf { c } , \\mathbf { d } , \\mathbf { g } , \\mathbf { h } )$ in which daily maximui air temperature is above $3 5 ~ \\mathrm { { ^ { \\circ } C } }$ or $4 0 \\ \\mathrm { { ^ \\circ C } }$ in the forecast time of 48 hours( $\\mathbf { a } \\sim \\mathbf { d }$ .before correction; $\\mathbf { e } \\sim \\mathbf { h }$ .after correction) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）模式对最高气温的预报能力有地域差异，预报准确率在关中、陕北和陕南地区依次降低，陕西大部分地区高温日数的预报值较观测值偏少，特别是漏报了陕南大部分地区的高温日，这与日最高气温的预报值在陕西大部分地区较观测值偏低，其中陕南地区的预报平均绝对误差明显大于其他地区有",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）随着预报时效的增加，一元线性回归方法对最高气温预报的订正能力波浪式降低， $^ { 1 6 8 \\mathrm { ~ h ~ } }$ 之前为正订正效果，在 $1 4 : 0 0 \\sim$ 次日01：00时段的订正能力优于其他时段，并且订正能力与模式在该站的预报水平有明显的负相关关系。订正后陕西大部分地区最高气温的预报准确率上升，平均绝对误差减小，平均误差较订正前更接近零值，日最高气温≥$3 5 ~ \\mathrm { { ^ { \\circ } C } }$ 或 $\\geqslant 4 0 \\mathrm { ~ \\mathcal ~ C ~ }$ 的高温预报较订正前更接近观测，其中 $\\geqslant 4 0 ~ \\mathrm { { ‰ } }$ 的高温日数(站数)预报值较观测值仍然偏少。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "另外，本文所得结论适用于2017年7月这一时期的气温预报，对于其他时期的预报需要作进一步研究以验证结论的普适性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］邓小花，翟盘茂,袁春红.国外几套再分析资料的对比与分析 [J].气象科技,2010,38(1）:1-8.[DENG Xiaohua,ZHAI Panmao,YUAN Chunhong.Comparative analysis of NCEP/NCAR, ECMWF and JMA reanalysis[J].Meteorological Science and Technology,2010,38（1）:1-8.]   \n[2]潘留杰,张宏芳，王建鹏.数值天气预报检验方法研究进展 [J].地球科学进展,2014,29（3）:327-335.[PAN Liujie, ZHANG Hongfang,WANG Jianpeng.Progress on verification methods of numerical weather prediction[J].Advances in Earth Science,2014,29(3):327 -335.]   \n[3］董全,金荣花,代刊,等.ECMWF集合预报和确定性预报对淮 河流域暴雨预报的对比分析[J].气象,2016,42(9)：1146- 1153.［DONG Quan,JIN Ronghua,DAI Kan,et al.Comparison between ECMWF ensemble and deterministic forecast for heavy rainfall in the Huaihe River Basin of China［J].Meteorological Monthly,2016,42(9):1146-1153.]   \n[4］王海燕,田刚,徐卫立,等.ECMWF 模式在长江上游流域调度 关键期的预报检验评估［J].干旱气象,2017,35（1)：142- 147.[WANGHaiyan,TIANGang,XUWeili,etal.Evaluation and inspection of ECMWF model forecast product during dispatch key periods in upper reaches of the Yangtze River Basin[J]. Journal of Arid Meteorology,2017,35(1):142-147.]   \n[5］潘留杰,张宏芳,陈小婷,等.ECMWF集合预报在中国中部地 区的降水概率预报性能评估[J].高原气象,2017，36（1)：138 -147.[PAN Liujie,ZHANG Hongfang,CHEN Xiaoting,et al. Evaluation of precipitation probability forecasts of ECMWF ensemble prediction system in central China[J].Plateau Meteorology,2017, 36(1) :138 -147.]   \n[6]潘留杰,张宏芳,朱伟军,等.ECMWF 模式对东北半球气象要 素场预报能力的检验[J].气候与环境研究,2013，18（1)：111 -123.［PAN Liujie,ZHANG Hongfang,ZHU Weijun,et al. Forecast performance verification of the ECMWF model over the North",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "east Hemisphere[J].Climatic and Environmental Research,2013, ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "18(1):111 -123.]   \n[7]周昆,郝元甲,姚晨,等.6种数值模式在安徽区域天气预报中 的检验[J].气象科学,2010,30（6）:801－805.[ZHOU Kun, HAO Yuanjia,YAO Chen,et al.The verification of six numerical models for weather forecast in Anhui Province[J].Journal of the Meteorological Sciences,2010,30(6）:801-805.]   \n[8］王丹,高红燕,马磊,等.SCMOC 温度精细化指导预报在陕西 区域的质量检验[J].气象科技,2014,42（5）：839－846. [WANG Dan,GAO Hongyan,MA Lei,et al. Quality test of refined guidance SCMOC temperature prediction in Shaanxi Province[J]. Meteorological Science and Technology，2014,42（5）：839 846.]   \n[9]PINSON P,HAGEDORN R.Verification of the ECMWF ensemble forecasts of wind speed against observations[J].Meteorological Applications,2012,19(4） :484 -500.   \n[10]WANG Y,QIAN H,SONG JJ,et al.Verification of the T213 global spectral model of China National Meteorology Center over the East-Asia area[J]. Journal of Geophysical Researh Atmospheres, 2008,113（D10110）:1- 7.   \n[11］龚伟伟,师春香,张涛,等.中国区域多种数值模式资料的地面 气象要素评估[J].气候与环境研究,2015,20(1）:53-62. [GONG Weiwei,SHI Chunxiang,ZHANG Tao,et al. Evaluation of surface meteorological elements from several numerical models in China[J].Climatic and Environmental Research,2015,20(1）:53 -62.]   \n[12］张峰.2015年9\\~11月 T639、ECMWF及日本模式中期预报性 能检验[J].气象,2016,42（2）:246-253.[ZHANG Feng.Performance verification of medium-range forecast by T639 and ECMWF and Japan models from September to November[J].Meteorological Monthly,2016,42(2）:246 -253.]   \n[13］涂小萍,姚日升.ECMWF 数值产品在热带气旋(TC)路径预报 中的应用分析[J].热带气象学报,2010,26(6）：759－764. [TU Xiaoping,YAO Risheng.Analysis on ECMWF NWP products in TC track forecasting[J].Journal of Tropical Meteorology,2010, 26(6):759 -764.]   \n[14］肖红茹,王灿伟,周秋雪,等.T639、ECMWF 细网格模式对 2012 年5\\~8月四川盆地降水预报的天气学检验[J].高原山 地气象研究,2013,33（1）:80-85.[XIAO Hongru,WANG Canwei,ZHOU Qiuxue,et al. Synoptic meteorology verification of precipitation forecast for T639 ECMWF fine grid models from May to August 2O12 in Sichuan Basin[J].Plateau and Mountain Meteorology Research,2013,33(1) :80 -85.]   \n[15］熊世为,郁凌华,胡姗姗,等.基于 ECMWF 细网格产品的一种 优化 BP-MOS 气温预报方法[J].干旱气象,2017,35（4）:668 -673.[XIONG Shiwei,YU Linghua,HU Shanshan,et al.An optimized BP-MOS temperature forecast method based on the finemesh products of ECMWF[J]. Journal of Arid Meteorology,2017, 35(4) :668 -673. ]   \n[16］罗菊英,周建山,闫永财.基于数值预报及上级指导产品的本 地气温M0S预报方法.气象科技,2014,42（3）：443－450. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[LUOJuying,ZHOU Jianshan,YAN Yongcai.Local temperature MOS forecast method based on numerical forecast products and superior guidance[J].Meteorological Science and Technology,2014, 42(3):443-450.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17］余晖，陈国民，万日金.数值模式的热带气旋强度预报订正及 其集成应用[J].气象学报,2015,73（4）：667-678.［YUHui, CHEN Guomin，WAN Rijin.A multi-model consensus forecast technique for tropical cyclone intensity based on model output cali",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "bration[J].Acta Meteorological Sinica,2015,73（4） :667-678.] [18］李佰平，智协飞.ECWRF模式地面气温预报的四种误差订正 方法的比较研究[J].气象,2012,38（8）:897-902.［LI Baiping,ZHI Xiefei.Comparative study of four correction schemes of the ECMWF surface temperature forecasts[J].Meteorological Monthly,2012,38（8):897-902.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Evaluation and correction of high temperature weather forecast in Shaanxi Province in July 2017 using ECMWF high-resolution model ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "WANG Dan’， WANG Jian-peng²，LOU Pan-xing²，DAI Chang-ming (1Shaanxi Meteorological Service Center,Xi'an 710014,Shaanxi,China; 2Shaanxi Meteorological Observatory,Xi'an 710014,Shaanxi,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：There were 26 days of high temperature when the daily maximum air temperature（MAT）was above $3 5 ~ \\mathrm { { ^ { \\circ } C } }$ in Shaanxi Province,China in July2017,and out of the26 days there were 14 days with the MATbeing even above $4 0 ~ \\mathrm { { ^ circ C } }$ .The continuous hot weather in this region in the month occurred twice during the periods from July $7 ^ { \\mathrm { t h } }$ （204号 to $1 4 ^ { \\mathrm { t h } }$ and from July $1 7 ^ { \\mathrm { t h } }$ to $2 7 ^ { \\mathrm { t h } }$ respectively. Based on hourly observation of MAT at 99 stations in Shaanxi Province reported by CMA（Chinese Meteorological Administration）and fixed time forecastof ECMWF（European Centerfor Medium Weather Forecasting）high-resolution model,the performance of ECMWF model forthe hot weather forecast and temperature correction by linear regresion method were evaluated.The evaluation methods included average error,average absolute error and accuracy with absolute error less than $1 \\ \\mathrm { { ^ { \\circ } C } }$ and $2 \\ \\mathrm { { ^ circ C } }$ . The results showed an obvious regional difference in forecast ability of the model,whose accuracy of the $M A T$ is higher in Guanzhong and lower in Southern Shaanxi.The regionalcontinuous hot weather could have been beter forecastedby the model duringthe forecast time of 144 hours,but the numberof hot weather days predicted was lessthan the observation days in mostareas of Shaanxi Province,and it failedto forecast the hot weatherdays in most areas of southern Shaanxi. This was because that the values of MAT from prediction were less than the observation in most areas of Shaanxi, and the MAE（mean absolute error）in southern Shaanxi was more than that in other areas of Shaanxi from14:00 to 17:00 BST.Withthe extensionof forecasthours,thecapabilityof the linearregression method tocorrectair emperature was decreased in wave mode.The linear regression method had positive function to correct air temperature during the forecast time of 168 hours,which is beter between 14:0O PMandO1:OO AM the next day than that in any other times,and there was asignificant negative corelation relationship between thecorrectionabilityof the method and forecast ability of the model.The linear regresson method could increase the accuracy and decrease the $M A E$ of MAT. The $M E$ （mean error） of MAT was closer to zero,and the hot weather forecast with a daily MAT being above $3 5 \\ \\mathrm { { ^ \\circ C } }$ 0r $4 0 \\ \\mathrm { { ^ \\circ C } }$ was closer to the observation after correction. The research provides a rational reference for hot weather forecasts from ECMWF model in summer,and it is noted further studies during other time periods are needed to verify the universality of the conclusion as this study was focused on the period of July 2017. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key Words:hot weather day；ECMWF high-resolution model；evaluation and correction；Shaanxi Province ",
+        "page_idx": 8
+    }
+]

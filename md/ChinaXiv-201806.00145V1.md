@@ -1,0 +1,155 @@
+# 移植肾动脉狭窄的临床危险因素和保护因素
+
+刘燕娜,于立新，邓文锋,李凯群,刘如敏,叶桂荣,符芳翔,李江涛,苗芸南方医科大学南方医院器官移植科，广州广东510515
+
+摘要：目的 分析影响移植肾动脉狭窄的相关因素。方法 回顾性分析26例移植肾动脉狭窄(TRAS)患者(TRAS组)的临床资料,与40例同期肾移植非TRAS患者(非TRAS同期组)对照;TRAS组患者中的14例患者(TRAS同供组),其同一供肾的另一位受者（未发生TRAS),组成巢式对照(非TRAS同供组)。结果与非TRAS同期组比,TRAS组急性排斥反应发生率更高( $P =$ 0.004),供肾热缺血时间更长( $_ { \scriptstyle { P = 0 . 0 1 5 } }$ ）、受者移植后5个月高密度脂蛋白胆固醇(HDL-C)水平更低( $scriptstyle \overbrace { P = 0 . 0 0 9 }$ );Logistic回归结果表明，AR $( P { = } 0 . 0 0 7 )$ ）、热缺血时间延长( $P { = } 0 . 0 4 6 )$ 为TRAS危险因素，高HDL-C水平（ $\scriptstyle P = 0 . 0 2 2 ,$ 为保护因素；近年来，越来越多的TRAS患者能够得到早期诊断,移植至TRAS确诊时间逐年缩短,TRAS确诊时eGFR呈上升趋势。结论 除外科手术因素外，急性排斥反应、热缺血时间延长是TRAS发生的危险因素,而高HDL-C水平为保护因素;超声技术对TRAS诊断水平的提高是近年来TRAS得到早期诊断的主要原因。
+
+关键词：移植肾动脉狭窄；急性排斥反应;热缺血时间；高密度脂蛋白胆固醇
+
+# A high level of high-density lipoprotein cholesterol is a protective factor against transplant renal artery stenosis
+
+LIU Yanna,Yixin,DENGWenfeng,Kaiqun,Iumin,YGurong,FFangxiang,LJangtao,Aun DepartmentofOrganransplantation,anangHospital,outhernedicalUniersityGuangzhou5o15,ina
+
+Abstract: ObjectiveTo investigate the factors aociatedwiththe ocurrenceof transplant renal artery stenosis (TRAS). Methods Aretrospective analysis was conducted in 26 recipients who developed TRASand 40concurent renal recipients without TRAS.We also conducted a nested case-control study in14 patients with TRAS (TRAS-SD group)and another 14 nonTRAS recipients who received the alograft from the samedonor (non-TRAS-SD group). Results Compared with those in the concurrent recipients without TRAS,acute rejection (AR) occurred at a significantly higher incidence $( P { = } 0 . 0 0 4 )$ and the warm ischemia time (WIT) was significantly longer $_ { ( P = 0 . 0 1 5 ) }$ and the level of high-density lipoprotein cholesterol (HDL-C) significantly lower $( P { = } 0 . 0 0 9 )$ in the recipients with TRAS. Logistic regression analysis suggested that AR $( P { = } 0 . 0 0 7 )$ and prolonged WIT $\scriptstyle ( P = 0 . 0 4 6 )$ were risk factors of TRAS while HDL-C $( P { = } 0 . 0 2 2 )$ was the protective factor against TRAS. In recent years earlydiagnosisofTRAShadben madeinincreasingcases,theintervalfromtransplantationtoTRASdiagnosisbecame shortenedsteadilyandtherecipientstendedtoavehigherestimatedglomerularfiltrationateatthetimeofTRAdiagosis. Conclusion Apart from the surgical technique,AR and prolonged WITare alsorisk factors ofTRAS whileahigh HDL-C level is the protective factor against TRAS.The improvement of the diagnostic acuracy by ultrasound is the primary factor contributing to the increased rate of early TRAS diagnosis in recent years.
+
+Keywords:Transplantrenal arterystenosis; acuterejection; warm ischemia time; high-density lipoproteincholesterol
+
+移植肾动脉狭窄(TRAS)是最常见的肾移植术后血管并发症，占移植后血管并发症的 $7 5 \% ^ { [ 1 - 2 ] }$ ,是移植物丢失和移植失败的重要原因之一。TRAS常发生于移植后3月 ${ \sim } 2$ 年，不同中心报道发病率为 $1 \% \sim 2 3 \%$ ，差异较大的原因可能与各中心确诊标准、检查水平等差异有关[3-4]。国外文献报道TRAS的危险因素有肾功能延迟恢复(DGF）、排斥反应、动脉粥样硬化、巨细胞病毒(CMV)感染等[5-8]。TRAS在早期发病时,往往无狭窄的相关表现，因此失去早期诊断的机会；逐步发展至顽固性高血压、移植肾功能不全,甚至移植肾功能丧失[3,9]。探究移植肾动脉狭窄的相关因素，可以在发病前对存在危险因素的患者进行有效预防，加强随访，提高早期诊断率；另一方面，对TRAS受者早期积极进行干预，维护移植肾功能,减少其他并发症的发生[1]。目前,尽管国外已有相当研究报道过TRAS的相关危险因素，但保护因素未见文献报道；国内对TRAS的危险和保护因素的报道少，已有研究存在样本量小的局限，且近几年未有更新报道。因此，探讨TRAS的危险和保护因素，对受者移植肾动脉早期诊断和治疗，保护移植肾功能具有重要意义。本研究回顾性分析了南方医科大学南方医院
+
+2003年11月 ${ \sim } 2 0 1 4$ 年12月在本院行肾移植的26例TRAS患者。
+
+# 1 资料和方法
+
+# 1.1研究对象
+
+80例患者，其中26例为TRAS患者(TRAS组)，和40例年龄相近(年龄差 $\ L { \leqslant } 5$ )并于同期接受肾移植且非TRAS患者作为对照（非TRAS同期组），14例为与
+
+TRAS组患者供肾来自同一供者的且坚持随访的非TRAS受者，并与对应的26例TRAS患者中的14例形成巢式对照，分别为TRAS同供组和非TRAS同供组(图1)。收集上述80例受者的人口统计资料、临床资料、随访资料。DGF定义为移植后1周内需要血液透析;CMV感染诊断标准为血清CMV-DNA定量 $\mathrm { > }$ 500 copies/mL
+
+![](images/7bd9c3bc5c4b1262c2c26b6d9d5e900bc0f1a56ddc0d7e9b8c29d0dca71034a8.jpg)  
+图1研究设计示意图Fig.1 Schematic diagram of the study.
+
+# 1.2 TRAS诊断
+
+患者出现不明原因的肌酐进行性或反复升高( $\mathrm { > }$ $20 \%$ ),伴或不伴顽固性高血压、尿量减少即进行超声检查，超声图像提示移植肾动脉可疑狭窄则可初步诊断TRAS,收缩期峰值血流速度 ${ \mathrm { > } } 2 0 0 ~ { \mathrm { c m / s } }$ 则进一步支持TRAS诊断，再进行数字减影造影(DSA)，确诊为TRAS（图2）。
+
+# 1.3 估算肾小球滤过率
+
+估算肾小球滤过率(eGFR)利用国人改良MDRD公式计算eGFR：eGFR( $\mathrm { m L } \cdot \mathrm { m i n } ^ { - 1 }$ ： $1 . 7 3 \mathrm { \ m } ^ { \cdot 2 } ) { = } 1 8 6 \times$ $\mathrm { S c r ^ { - 1 . 1 5 4 } ( m g / d l ) } { \times } \mathrm { a g e } ^ { - 0 . 2 0 3 } { \times } 0 . 7 4 2 ^ { \circ }$ （女性） $\left. \vert \times 1 . 2 3 3 \right.$ 。
+
+# 1.4 统计分析
+
+采用SPSS19.0软件，正态分布计量资料用均数 $\ni \cdot 2 = 1 0 ^ { \circ }$ 标准差表示；计数资料以率表示；正态分布独立样本间比较用两独立样本t检验，非正态分布独立样本间比较用Mann-WhitneyU检验；构成比的比较用 $\chi ^ { 2 }$ 检验或fisher's精确检验;用二分类Logistic回归分析TRAS危险因素和保护因素，变量的纳入标准为单变量分析中$P { < } 0 . 2$ ；统计检验均采用双侧检验， $P { < } 0 . 0 5$ 认为差异有统
+
+计学意义。
+
+# 2结果
+
+# 2.1 受者基本资料
+
+80例受者平均年龄为40.61岁，均为尸肾供肾肾移植受者，均为首次肾移植;所有受者均无合并其他血管疾病。术前中位透析时间9.75月 $\left( 0 { \sim } 9 2 . 0 0 \right)$ ；术后中位随访时间为33.09月(0.30\~193.43)。原发病、术前透析方式和术后长期免疫抑制方案总结如表1。
+
+各组受者人口学资料如表2、3所示，TRAS组和的年龄、性别、体质量指数(BMI)术前透析时间和冷缺血时间差异均无统计学意义（ ${ \it P } { > } 0 . 0 5 )$ ,热缺血时间差异有统计学意义（ $_ { \scriptstyle P = 0 . 0 1 5 }$ )。TRAS组术后AR发生率高于非TRAS同期组 $\scriptstyle ( P = 0 . 0 0 4 )$ 。TRAS同供组和非TRAS同供组上述各项指标差异均无统计学意义，但前者AR发生率也高于后者( $\scriptstyle P = 0 . 0 7 7$ 。
+
+# 2.2TRAS患者血脂水平和狭窄发生相关性
+
+TRAS组和TRAS同供组移植至TRAS诊断时间如图3所示，大部分TRAS患者的狭窄发生时间约为移植术后5月，因此对应记录非TRAS患者移植术后5月血酯水平。TRAS组移植术后5月高密度脂蛋白胆固醇(HDL-C)水平低于非TRAS同期组且差异具有统计学意义 $scriptstyle { \overbrace { P { = } 0 . 0 0 9 } }$ ),其余指标差异均无统计学意义(图4);而在TRAS同供组和非TRAS同供组比较中，对照组极低密度脂蛋白胆固醇水平(VLDL-C)较低，尽管差异有统计学意义（ $\scriptstyle P = 0 . 0 2 2 ,$ ，但两组VLDL-C水平在正常范围内，因此现实意义不大，其他指标差异均无显著性意义(图5)。
+
+![](images/d6adb7bb9812dde30f0234a527ef56479bed9bf67570f8c5bfbe485267f4418a.jpg)  
+图2TRAS超声检查图像(箭头示狭窄部位) Fig.2 Ultrasound scan and digital subtraction angiography (DSA) for transplant renal artery stenosis (TRAS) (arrows show site of stenosis). A:Two-dimensional ultrasound image of TRAS;B:Color Doppler ultrasound image of TRAS;C:Power Doppler ultrasound image of TRAS; D: DSA of TRAS.
+
+# 2.3TRAS危险因素和保护因素
+
+TRAS组和非TRAS同期组二元logistic回归分析结果表4所示。危险因素的纳入标准为单因素分析中$P { < } 0 . 2$ 的因素，结果表明AR $\mathrm { \mathrm { O R } } { = } 3 1 . 3 8 4 , P { = } 0 . 0 0 7 )$ 、热缺血时间 $\mathrm { ( O R { = } 2 . 1 3 6 , } P { = } 0 . 0 4 6 \mathrm { ) }$ 为TRAS的危险因素，HDL-C为保护因素 $\mathrm { \prime } \mathrm { O R } { = } 0 . 0 9 0 , P { = } 0 . 0 2 2 \mathrm { \ ) }$ 。
+
+2.4移植至TRAS确诊时间和确诊时平均eGFR变化趋势
+
+绘制26例TRAS患者移植-TRAS确诊时间的散点图和对应的线性趋势以及确诊TRAS时平均eGFR水平折线图。随着年份增加，肾移植-TRAS确诊时间缩短，而确诊时平均eGFR呈升高趋势(图6)。
+
+# 3讨论
+
+# 3.1TRAS危险因素和保护因素分析
+
+外科手术因素如供肾修整过程中对血管的牵拉或插管灌注等均有可能损伤内膜，继而发生TRAS,因此，外科手术操作不当为TRAS危险因素之一，但因缺乏量化标准，故未归入本研究危险因素分析中。
+
+本研究中无论是和同时期移植受者还是和同一供者肾受者比较，TRAS患者移植术后AR发生率均高于非TRAS患者，其中TRAS组和非TRAS同期组间差异有显著性意义 $\scriptstyle ( P = 0 . 0 0 4 )$ ,而TRAS同供组和非TRAS同供组间差异无显著性意义 $scriptstyle \overbrace { P { = } 0 . 0 7 7 }$ )，原因可能是第二组对照样本量小( $\scriptstyle { \overbrace { n { = } 1 4 } } )$ ，较难得出有统计学意义的结果。Logistic回归分析也发现AR为TRAS危险因素（2 $\mathrm { ( O R { = } } 3 1 . 3 8 4 , P { = } 0 . 0 0 7 \mathrm { ) }$ ,以往也有类似结论报道[12-13],当AR发生时，血管内皮上细胞粘附分子(ICAM-1)和血管细胞粘附分子(VCAM-1)表达增强[4],这些因子的过高表达使白细胞的迁移和对血管内皮细胞的粘附增强，通过炎性反应导致血管壁增厚，从而导致微血管和大血管损伤并由此导致TRAS。
+
+此外，热缺血时间延长也是TRAS发生的危险因素。相比非TRAS同期组，TRAS组患者热缺血时间更长且差异有显著性意义( $\scriptstyle \overbrace { P = 0 . 0 2 1 }$ )，多因素回归分析结果也显示，热缺血时间延长为TRAS发生的危险因素（204 $\left( \mathrm { O R } { = } 2 . 1 3 6 , P { = } 0 . 0 4 6 \right)$ 热缺血时间延长意味着肾缺血再灌注损伤加重。缺血再灌注损伤和氧自由基产生相关，活性氧能通过介导血管收缩和诱导炎症反应直接与间接调节肾血流动力学，炎症反应导致内皮损伤、修复与疤痕形成，因此可能进一步引起TRAS。氧化应激参与肾血管疾病的发病机理越来越被人们所认可[15]。因此移植中应尽可能缩短热缺血时间，以降低TRAS发生风险。
+
+表180例受者原发病、术前透析方式和术后长期免疫抑制方案 情况 Tab.1 Cause of disease,type of dialysis before transplantation and immunosuppressive regimen of 80 recipients included in the study   
+
+<html><body><table><tr><td>Item</td><td>Cases</td><td>%</td></tr><tr><td>Cause of disease</td><td></td><td></td></tr><tr><td>Glomerulonephritis</td><td>30</td><td>37.5</td></tr><tr><td>Hypertensivenephropathy</td><td>13</td><td>16.3</td></tr><tr><td>Polycystic kidney disease</td><td>13</td><td>16.3</td></tr><tr><td>IgA nephropathy</td><td>11</td><td>13.8</td></tr><tr><td>Diabetic nephropathy</td><td>2</td><td>2.5</td></tr><tr><td>Lupus nephritis</td><td>1</td><td>1.3</td></tr><tr><td>Nephrolithiasis</td><td>1</td><td>1.3</td></tr><tr><td>Interstitial nephritis</td><td>1</td><td>1.3</td></tr><tr><td>Atherosclerotic nephropathy</td><td>1</td><td>1.3</td></tr><tr><td>Unknown</td><td>7</td><td>8.8</td></tr><tr><td>Pre-transplant dialysis</td><td></td><td></td></tr><tr><td>Hemodialysis,</td><td>63</td><td>78.8</td></tr><tr><td>Peritoneal dialysis</td><td>13</td><td>16.3</td></tr><tr><td>Peritoneal dialysis change to hemodialysis</td><td>1</td><td>1.3</td></tr><tr><td>None</td><td>3</td><td>3.8</td></tr><tr><td>Post transplant Immunosuppressive regimen</td><td></td><td></td></tr><tr><td>Tac+MMF+Pred</td><td>66</td><td>82.5</td></tr><tr><td>Tac+EC-MPS+Pred</td><td>9</td><td>11.3</td></tr><tr><td>CsA+MMF+Pred</td><td>4</td><td>5.0</td></tr><tr><td>CsA+MMF+Pred change to Tac+MMF+Pred</td><td>1</td><td>1.3</td></tr></table></body></html>
+
+Tac:Tacrolimus;MMF:Mycophenolate Mofetil; Pred:Prednisone;ECMPS:Enteric-coated mycophenolate sodium; CsA: Cyclosporine.
+
+Logistic回归分析还发现HLD-C水平升高为TRAS保护因素 $\mathrm { \prime } \mathrm { O R } { = } 0 . 0 9 0 , P { = } 0 . 0 2 2 )$ ,单因素分析中TRAS患者和非TRAS同期患者相比，前者HDL-C水平低于后者且差异有显著性意义( $scriptstyle P = 0 . 0 0 9 ,$ )。近年有可靠的数据表明低HDL-C水平和肾低eGRF显著相关[16];Becker等曾在研究中提出HDL-C能降低TRAS或假性TRAS发生风险[17]。动物实验表明HDL能抑制主动脉壁脂纹形成和胆固醇沉积，还能使已发生粥样硬化性病变的动脉壁脂纹和胆固醇沉积退化[18-19];apoA-I Milano是HDL主要的蛋白组成成分--apoA-I的变异型,动物实验和临床试验结果均表明重组型apoA—IMilano/磷脂分子具有防止动脉粥样硬化或减少动脉粥样硬化斑块体积20-21的作用。HDL抗动脉粥样硬化的分子机制主要有：1、促使粥样斑块内充满脂质的巨噬源性泡沫细胞中的胆固醇外流，最终转运至肝脏进行代谢清除22；2、HDL直接作用于血管内皮细胞,刺激NO产生，NO发挥抗炎、抗凝和抗栓塞作用23];3、LDL及其氧化产物在内膜下的积累是动脉粥样硬化形成的重要步骤，而HDL是脂质氧化产物的主要转运载体[24],且HDL包含抗氧化酶能减少脂质氧化物的产生[25]。因此，HDL-C水平降低是动脉粥样硬化发生的主要危险因素，而发生在晚期的TRAS,如移植术后数年发生，通常系移植肾动脉或邻近的同侧髂动脉发生动脉粥样硬化性疾病[25，因此HDL-C水平升高可减少TRAS发生风险。另外，本研究中TRAS同供组的HDL水平高于非TRAS同供组，但差异无显著性意义( $\scriptstyle P = 0 . 1 6 7 ,$ ),可能原因为且样本量小 $\scriptstyle ( n = 1 4 )$ 或其他相关因素，如供肾因素，冷、热缺血时间等更占诱发TRAS的主导。因为血脂水平是可控因素，应该加强早期预防，将移植受者血脂水平控制在正常范围，可能可以延缓狭窄事件发生。
+
+# 3.2移植-TRAS确诊时间和确诊时平均eGFR变化趋势
+
+本研究发现随着年份推移，越来越多的TRAS患者能够得到早期诊断，肾移植-TRAS确诊时间逐年缩短，而患者确诊TRAS时平均eGFR呈升高趋势，即确诊时间提前和确诊时患者肾功能水平提高是TRAS的新特点。分析其原因为：1、超声诊断水平的提高，彩色多普勒超声和能量多普勒能直观地提示TRAS,使得TRAS早期诊断率提高[26.27];2、移植医生的意识提高，患者出现不明原因的肌酐进行性或反复性升高即进行超声检查，将超声检查作为常规检查项目，使得部分无症状性TRAS患者确诊，提高了TRAS的检查率;3、超声检查由于其无创性且无肾毒性，易被患者接受，是TRAS的检查率提高的另一重要原因。由于TRAS的诊断率提高和确诊时间提前，因此临床上大部分患者确诊TRAS时移植肾功能并未发生严重损害，由图6可见确诊TRAS时eGFR总体呈逐渐升高趋势，患者得到早期诊断与确诊TRAS时肾功能水平提高二者是相互关联的。
+
+综上，本研究认为AR和热缺血时间延长是TRAS的危险因素，而高HDL-C水平是保护因素；TRAS诊断率提高和确诊时间提前是TRAS的新特点。此外，尽管已有相当文献提出TRAS的发病原因和发生机制，但不同中心得出的结论不尽相同，TRAS的发生机制仍有待深人探究，相关的假设也有待进一步考究和证实。
+
+# 参考文献：
+
+[1]Bruno S. Transplant renal artery stenosis [J].JAm Soc Nephrol, 2004,15: 134-41.   
+[2]Tafur-Soto JD,White CJ.Renal artery stenosis [J].Cardiol Clin, 2015,33(1): 59-73.   
+[3]Braga AF,Catto RC,Dalio MB,et al.Endovascular approach to transplant renal artery stenosis [J].Ann Transplant,2015,24(20): 698-706.   
+[4]Biederman DM,Fischman AM,Titano JJ,et al.Tailoring the endovascular management of transplant renal artery stenosis [J]. Am J Transplant,2015,15(4):1039-49.   
+[5]Wang L,Liu B,Yan J,et al. Interventional Therapy for transplant renal artery stenosis is safe and effective in preserving allograft Function and Improving Hypertension ［J].Vasc Endovascular Surg,2017, 51(1): 4-11.   
+[6]Ghirardo G,De Franceschi M, Vidal E,et al. Transplant renal artery stenosis in children:risk factors and outcome after endovascular treatment [J].Pediatr Nephrol,2014,29(3): 461-7.   
+[7]Hedegard W, Saad WE,Davies MG.Management of vascular and nonvascular complications after renal transplantation ［J]．Tech Vasc Interv Radiol,2009,12(4): 240-62.   
+[8]Humar A,Uknis M,Papaluis V,Gillingham K,Matas A.Is there an association between cytomegalovirus and renal artery stenosis in kidney transplant recipients[J]? Transplantation,2ooo,69(suppl): 1171-2.   
+[9]Da Silva RG,Lima VC,Amorim JE et al: Angioplasty with stent is the preferred therapy for posttransplant renal artery stenosis [J]. Transplant Proc,2002,34(2): 514-5.   
+[10]Mueller-PeltzerK,Rübenthaler J, Fischereder M, et al. The diagnostic value of contrast-enhanced ultrasound (CEUS)as a new technique forimaging of vascular complications in renal transplants compared to standard imaging modalities ［J].Clin Hemorheol Microcirc,2017,67(3-4),407-13.   
+[11]Ma YC, Zuo L,Chen JH,et al. Modified glomerular filtration rate estimating equation for Chinese patients with chronic kidney disease[J].JAm Soc Nephrol,2006,17: 2937-44.   
+[12]Fernández-Najera JE,Beltran S,Aparicio M,etal.Transplant renal artery stenosis:association with acute vascular rejection [J]. Transpl Proc,2006,38:2404-5.   
+[13]Audard V,Matignon M,Hemery F,et al.Risk factors and long-term outcome of transplant artery stenosis in adult recipients after treatment by percutaneous transluminal angioplasty［J].Am J Transplant, 2006,6: 95-9.   
+[14] Kloda K,Domanski L,Pawlik A,etal.Effect of the ICAM1 and VCAMl gene polymorphisms on delayed graft function and acute kidneyallograft rejection[J].Ann Transplant, 2010,15(4):15-20.   
+[15]Mengal V, Silva PH,Tiradentes RV,etal.Aliskiren and l-arginine treatments restore depressed baroreflex sensitivity and decrease oxidative stress in renovascular hypertension rats［J].Hypertens Res,2016,39(11): 769-76.   
+[16]Bowe B,Xie Y,Xian H, et al.Low levels of high-density lipoprotein cholesterol increase the risk of incident kidney disease and its progression [J].Kidney Int,2016,89(4): 886-96.   
+[17]Becker BN, Odorico JS,Becker YT,et al.Peripheral vascular disease and renal transplant artery stenosis:a reappraisal of transplant renovascular disease[J].Clin Transpalnt,1999,13:349-55.   
+[18]Badimon JJ,Badimon L,Fuster V.Regression of atherosclerotic lesions by high density lipoprotein plasma fraction in the
+
+表2TRAS组和非TRAS同期组患者基本情况的比较 Tab.2 Clinical characteristics of patients in TRAS group and non TRAS-SP group   
+
+<html><body><table><tr><td>Item</td><td>TRAS group (n=26)</td><td>Non TRAS-SP group (n=40)</td><td>P</td></tr><tr><td>Age (year)</td><td>40.62±12.56</td><td>40.88±11.00</td><td>0.930</td></tr><tr><td>Gender [n (%)]</td><td></td><td></td><td>0.446</td></tr><tr><td>Male</td><td>18 (69.2)</td><td>24 (60.0)</td><td></td></tr><tr><td>Female</td><td>8 (30.8)</td><td>16 (40.0)</td><td></td></tr><tr><td>Body mass index (kg/m²)</td><td>20.59±2.91</td><td>21.75±4.24</td><td>0.325</td></tr><tr><td>Duration of dialysis (month)</td><td>18.33±24.17</td><td>12.08±12.83</td><td>0.234</td></tr><tr><td>Cold ischemia time (h)</td><td>12.19±4.02</td><td>10.93±2.82</td><td>0.180</td></tr><tr><td>Warm ischemia time (min)</td><td>4.58±0.90</td><td>4.00±1.00</td><td>0.015</td></tr><tr><td>Type of transplant artery anastomosis</td><td></td><td></td><td>0.215</td></tr><tr><td>End-to-end anastomosis [n (%)]</td><td>2 (7.7)</td><td>9 (22.7)</td><td></td></tr><tr><td>End-to-side anastomosis [n (%)]</td><td>24 (92.3)</td><td>31 (77.5)</td><td></td></tr><tr><td>Post-transplant</td><td></td><td></td><td></td></tr><tr><td>Diabetes [n (%)]</td><td>4 (15.4)</td><td>8(20.0)</td><td>0.882</td></tr><tr><td>Hypertension [n (%)]</td><td>11(42.3)</td><td>13 (32.5)</td><td>0.418</td></tr><tr><td>Cytomegalovirus infection [n (%)]</td><td>1 (3.8)</td><td>1 (2.5)</td><td>1.000</td></tr><tr><td>Acute rejection [n (%)]</td><td>8 (30.8)</td><td>1 (2.5)</td><td>0.004</td></tr><tr><td>Chronic rejection [n (%)]</td><td>1 (3.8)</td><td>1 (2.5)</td><td>1.000</td></tr><tr><td>Delayed graft function [n (%)]</td><td>3 (11.5)</td><td>2 (5.0)</td><td>0.375</td></tr></table></body></html>
+
+表3TRAS同供组和非TRAS同供组患者基本情况的比较 Tab.3 Clinical characteristics of patients in TRAS-SD group and non TRAS-SD grour   
+
+<html><body><table><tr><td>Item</td><td>TRAS-SD group (n=14)</td><td>Non TRAS-SD group (n=14)</td><td>P</td></tr><tr><td>Age (year)</td><td>42.64±14.74</td><td>39.86±12.61</td><td>0.610</td></tr><tr><td>Gender [n (%)]</td><td></td><td></td><td>0.678</td></tr><tr><td>Male</td><td>11 (78.6)</td><td>9 (64.3)</td><td></td></tr><tr><td>Female</td><td>3 (21.4)</td><td>5 (35.7)</td><td></td></tr><tr><td>Body mass index (kg/m²)</td><td>19.97±2.77</td><td>20.57±2.62</td><td>0.597</td></tr><tr><td>Duration of dialysis (month)</td><td>20.38±24.50</td><td>11.64±10.75</td><td>0.238</td></tr><tr><td>Cold ischemia time (hour)</td><td>12.29±3.07</td><td>11.79±3.04</td><td>0.752</td></tr><tr><td>Warm ischemia time (min)</td><td>4.36±1.08</td><td>4.29±0.99</td><td>0.800</td></tr><tr><td>Type of transplant artery anastomosis</td><td></td><td></td><td>0.481</td></tr><tr><td>End-to-end anastomosis [n (%)]</td><td>0</td><td>2 (14.3)</td><td></td></tr><tr><td>End-to-side anastomosis [n (%)]</td><td>14 (100.0)</td><td>12 (85.7)</td><td></td></tr><tr><td>Post-transplant</td><td></td><td></td><td></td></tr><tr><td>Diabetes [n (%)]</td><td>4 (28.6)</td><td>4 (28.6)</td><td>1.000</td></tr><tr><td>Hypertension [n (%)]</td><td>6 (42.9)</td><td>4 (28.6)</td><td>0.695</td></tr><tr><td>Cytomegalovirus infection [n (%)]</td><td>1(7.1)</td><td>1(7.1)</td><td>1.000</td></tr><tr><td>Acute rejection [n (%)]</td><td>6 (42.9)</td><td>1(7.1)</td><td>0.077</td></tr><tr><td>Chronic rejection [n (%)]</td><td>0</td><td>1(7.1)</td><td>1.000</td></tr><tr><td>Delayed graft function [n (%)]</td><td>2 (14.3)</td><td>0</td><td>0.481</td></tr></table></body></html>
+
+![](images/d955a998beb2d7b6d51bc8009120019a99d58f88b9a1e7d69702ab06e83c2c95.jpg)  
+图3TRAS组和TRAS-SD组确诊时间分布 Fig.3 Time interval from transplantation to TRAS diagnosis in TRAS group and TRAS-SD group.
+
+![](images/1c03d330d1936e46bf27b565a2b4fe3319a13c56ec9cd51bbe53332093bdfab9.jpg)  
+图4TRAS组和非TRAST同期组移植术后第5个月血酯水平  
+Fig.4 Serumlipids 5months after transplantation in TRAS groupand non-TRAS-SP group.A: Comparison of the levels of cholesterol (CHOL)；B:Comparison of the levelsof triglyceride (TG)；C:Comparisonof the levelsof high-density lipoproteincholesterol (HDL-C)；D:Comparisonof the levelsof low-density lipoproteincholesterol (LDL-C)；E: Comparison of the levels of very low-density lipoprotein cholesterol (VLDL-C).
+
+![](images/5862d60bb102951e50cb8a362b08d46c52199b2c3d266d644374adde0f463823.jpg)  
+图5TRAS同供组和非TRAST同供组移植术后第5个月血酯水平 Fig.5 Serum lipids5monthsafter transplantation inTRAS-SDgroupand non-TRAS-SDgroup.A:Comparisonof thelevelsof cholesterol(CHOL);B:Comparisonofthelevelsof triglyceride(TG); C:Comparisonof the levelsofhigh-densitylipoprotein cholesterol (HDL-C);D:Comparisonof thelevelsof low-densitylipoproteincholesterol (LDL-C);E:Comparisonof thelevels of very low-density lipoprotein cholesterol (VLDL-C).
+
+![](images/77124ee0732b26b4ed1ccf2293abdca9652f9fd0223bdd825bed4ed237d3869e.jpg)  
+图626例TRAS患者移植-确诊时间和确诊时eGFR随年份变化趋势图
+
+Fig.6 Scatter plot and its linear fitting of the time interval from transplant to TRAS diagnosis andline chart of the mean eGFR at the time of TRAS diagnosis in 26 TRAS patients.
+
+cholesterol-fed rabbit[J].JClin Invest, 1990,85:1234-41.
+
+[19]Badimon JJ,Badimon L,Galvez A,et al.High density lipoprotein plasma fractions inhibit aortic fatty streaks in cholesterol-fed rabbits [J].Lab Invest,1989,60:455-61.   
+[20] Ibanez B,Vilahur G,Cimmino G,et al.Rapid change in plaque size,composition,and molecular footprint after recombinant apolipoprotein A-I Milano (ETC-216) administration: magnetic resonanceimagingstudyin anexperimental modelof atherosclerosis[J].JAm Coll Cardiol,2008,51(11): 1104-9.   
+[21] Ibanez B,Giannarelli C,Cimmino G,et al.Recombinant HDL (Milano） exerts greater anti-inflammatory and plaque stabilizing properties than HDL(wild-type)[J].Atherosclerosis,2012,220(1): 72-7.
+
+表4TRAS危险因素和保护因素 Tab.4 Risk and protective factors of TRAS based on binary logistic regression analysis   
+
+<html><body><table><tr><td>Factor</td><td>OR (95% CI)</td><td>P</td></tr><tr><td>Cold ischemia time (hour)</td><td>0.909 (0.742-1.114)</td><td>0.359</td></tr><tr><td>Warm ischemia time (min)</td><td>2.136 (1.015-4.494)</td><td>0.046</td></tr><tr><td>HDL-C (mmol/L)</td><td>0.090 (0.012-0.703)</td><td>0.022</td></tr><tr><td>Acute rejection</td><td>31.384 (2.556-385.333)</td><td>0.007</td></tr></table></body></html>
+
+HDL-C:High-density lipoprotein cholesterol.
+
+[22]Rader DJ.Molecular regulation of HDL metabolism and function: implications for novel therapies [J].J Clin Invest,2006,116:3090- 100.
+
+[23]Besler C,Luscher TF,Landmesser U.Molecular mechanisms of vasculareffectsofhigh-density lipoprotein:alterationsin cardiovascular disease [J].Embo Mol Med,2012,4: 251-68.   
+[24]Proudfoot JM,Barden AE,Loke WM,et al.HDL is the major lipoprotein carrier of plasma F2-isoprostanes ［J].JLip Res,2009, 50:716-22.   
+[25]Safian RD.Transplant renal artery stenosis:what lessons should we learn[J]? Catheter Cardio Interv,2011,77: 294-5.   
+[26]Granata A, Clementi S,Londrino F,et al.Renal transplant vascular complications: the role of Doppler ultrasound ［J].J Ultrasound, 2014,18(2): 101-7.   
+[27]Fananapazir G,McGahan JP,Corwin MT,et al. Screening for transplantrenalarterystenosis:ultrasound-basedstenosis probability stratification [J].AJR Am JRoentgenol, 2017,209(5): 1064-73.

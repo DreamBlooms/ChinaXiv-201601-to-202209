@@ -1,0 +1,165 @@
+# 基于一种改进Inception的脱机手写汉字识别
+
+陈站，邱卫根，张立臣(广东工业大学 计算机学院，广州市 510000)
+
+摘要：由于字形的复杂多变，脱机手写汉字的识别一直是模式识别的难题，深度卷积神经网络的发展为其提供了一种直接有效的解决方案。研究基于inceptions 结构神经网络的脱机手写汉字识别,提出了一种inception 结构的改进方法，它具有结构更加简单、网络深度扩展更加容易、需要的训练参数量更少。该方法在数据集CISIA-HWDB1.1 上进行了实验验证，采用随机梯度下降优化算法，模型达到了 $9 6 . 9 5 \%$ 的平均准确率。实验结果表明，使用改进的inception 结构在图像分类上具有更好的鲁棒性，更容易扩展到其他应用领域。
+
+关键词：脱机手写汉字；卷积神经网络；inception 中图分类号：TP391.43 doi:10.19734/j.issn.1001-3695.2018.09.0784
+
+Offline handwritten Chinese character recognition based on improved inception
+
+Chen Zhan, Qiu Weigen, Zhang Lichen (School ofComputers Guangdong University of Technology,Guangzhou 51oo06, China)
+
+Abstract: Duetothecomplexityand varietyofglyphs,ofline handwriten Chinese characterrecognition has always beena difcultproblemof paternrecognition.Thedevelopmentof deepconvolutional neuralnetworksprovidesadirectand efective solution tothis problem.This paper studiedofline handwritten Chinesecharacterrecognitionbasedon Inceptions neural network.It proposedanimproved Inceptionstructure,which took theadvantages of simpler structure,easiernetwork depth expansion and less training parameters.The method used the proposed structure to verifiy on dataset CISIA-HWDB1.1. The model achieved an average accuracy of $9 6 . 9 5 \%$ ,by using stochastic gradient descent optimization algorithm.Experimental result shows that the improved Inception structure has beter generalization performance and robustness in image classification,and can be easily extended to other applications.
+
+Key words: offline handwritten Chinese characters; convolutional neural network; inception
+
+# 0 引言
+
+自20世纪80 年代以来，手写汉字识别(handwrittenchinese character recognition,HCCR）一直是模式识别的一个重要研究领域，也是该研究的难点之一[I]。手写汉字识别的主要困难在于汉字类别数量大、字体结构复杂、字形变化多、书写风格多样，特别是大量相似汉字的存在，使得它们之间的差别极其细微，例如，“已-己"口-口""泪-汨-汨"等，这些高度相似的字符给计算机自动识别带来极大挑战[2]。
+
+经过多年来研究人员的不懈努力，HCCR取得了极大进展。文献[3]中使用鉴别特征提取方法（discriminativefeaturelearning，DFE）和鉴别学习二次判决函数（discriminativelearningquadratic discriminantfunction，DLQDF）分类器，在脱机手写体汉字数据集CASIA-HWDB的几个不同子集上，取得的最好识别率分别是 $9 4 . 2 0 \%$ （DB1.0）、 $9 2 . 0 8 \%$ (DB1.1)和 $9 2 . 7 2 \%$ (ICDAR 2013 Competition DB)。
+
+近年来，深度学习逐渐获得了学术界及工业界的广泛重视，在计算机视觉及图像识别领域得到了极其成功的应用，也给手写汉字识别难题带来了新的活力和一些极其有效的解决方法。典型的深度学习结构包括：深度置信网络(DBN)、S层叠自动编码机(SAE)、卷积神经网络(CNN)、回归神经网络(RNN)等。近几年，深度卷积神经网络的研究在图像分类上取得了一系列的突破性的进展[4-9],成为了解决脱机手写汉字识别问题重要工具。文献[10,11]研究基于CNN的HCCR方法，在CASIA-HWDB1.0和CASIA-HWDB1.1上都取得不错的结果。CNN网络结构复杂，全连接层的优化需要庞大的训练数据和计算量。更高的准确率意味着更大的CNN网络的深度。同时为了抵消其中必然出现的梯度消失和梯度爆炸的负面影响，网络需要有更复杂的结构。
+
+文献[8,12\~14]提出了一种 Inception 结构，并应用于HCCR。Inception 结构有更小的参数量和更好的鲁棒性。但是，Inception 仍然结构复杂，难以叠加很深的网络深度[9]。本文提出了一种基于改进Inception 结构的CNN 网络，为了叙述方便，本文暂称之为Joint-Net。Joint-Net不仅具备了Inception泛化性能好、参数量小的优点。它在从内部加深网络，提升网络性能的同时，不会产生梯度消失和梯度爆炸的现象。本文的实验表明，它不仅具有比较高的平均准确率，而且容易扩展到其他应用领域。
+
+# 1 相关工作
+
+Inception 首次提出于GoogleNet中[8]，2014 年Imagenet竞赛上，22层的GoogleNet取得了冠军，在ImageNet数据集上Top5错误率达到 $6 . 6 7 \%$ 。文献[13]提出了Inception 的第二个版本，加入了BN（batch normalization，BN）层，使得模型在ImageNet数据集上错误率降低为 $4 . 9 \%$ 。文献[12]提出了Inception 的第三个版本，Inception v3中， $\mathbf { n } \times \mathbf { n }$ 的卷积核被拆分成 $\mathbf { n } \times \mathbf { l }$ 和 $1 \times \mathbf { n }$ 两种卷积核，降低网络参数量的同时，提升了网络的识别效果，在ImageNet数据集上的Top5错误率降低为 $3 . 5 \%$ 。文献[14]结合了ResNet[9]网络结构并丰富了Inception结构，在ImageNet数据集上实现了 $3 . 0 8 \%$ 的Top5错误率。Inception的提出与改进大大提升了深度CNN网络的识别性能。
+
+Inception结构的成功，得益于大量使用 $1 \times 1$ 的卷积核和多层次的特征传输。典型的Inception结构如图1所示。图1Inception 结构中， $1 \times 1$ 的卷积核在仅仅增加很小计算量和参数量的情况下，能够增加网络的深度，并改变特征数量，起到升维或者降维的作用。另外，Inception结构包含了深度为5，3，2，1卷积层堆叠的子网络，深度为5的子网络大幅增加了网络的深度，而深度为1的子网络让特征能更快到达下一个Inception 结构，缓解了网络深度增大引起的梯度消失和梯度爆炸现象。不同深度的子网络提供了不同层次的特征，这提升了网络对尺度的泛化性能。
+
+![](images/2f316c2e74a49679373d2a48318a9b246f60ec9fd57d1e5794d08e70381d4bbb.jpg)  
+图1复杂的 Inception 结构Fig.1 Complex Inception structure
+
+Inception结构复杂不利于堆叠很深的网络，而在梯度消失和梯度爆炸现象未发生时，更深的网络往往有更好的表现[9,15-17]。本文对 Inception 结构进行简化改进，同时保留了Inception的优点，使得网络深度的拓展更加容易，同时能提升网络表现。基于改进的Inception 结构，本文提出Joint-Net网络。Joint-Net大量使用改进的Inception 结构堆叠网络深度，并去除了最后的全连接层，提升了网络的识别性能的同时，避免了网络的参数量随类别数大幅增加的情况。
+
+# 2 Joint-Net网络结构
+
+# 2.1改进的 Inception 结构
+
+如图2所示，（a）中Unit结构由 $1 \times 3$ 卷积核和 $3 { \times } 1$ 卷积核的卷积层组成，两个卷积的输出按通道拼接一起作为Unit的输出。Unit结构用于取代 $3 { \times } 3$ 卷积核的卷积层，以便于保留Inception结构较小参数量的优点。图2（b）就是改进后的Inception 结构。设Unit的个数为N，一方面，（b）结构中包含了深度为 $\Nu , \Nu { - } 1 , \ldots , 1$ 的子网络，保留了Inception对尺度的适应性。另一方面，对于每一个Unit，都有来自Base的输入和到下一层的直接输出，这种结构能有效避免梯度消失和梯度爆炸现象，因此，在理想情况下，（b）结构的深度是可以非常深的。最后，（b）所有Unit的输出按通道拼接后作为 $1 \times 1$ 卷积核的输入，和Inception 结构一样利用了 $1 \times 1$ 卷积核的优点。
+
+![](images/e7ea2de4240a1365ef08c8626f59c65b8549e693550e1f221a762a8e65a5dc7b.jpg)  
+图2改进的 Inception 结构Fig.2Improved Inception structure
+
+图2（b)中，除了第一个Unit的输入是来自Base之外，每个Unit结构的输入都是Base和上一个Unit结构按通道拼接的结果。除了最后一个Unit的输出仅仅直接传向 $1 \times 1$ 卷积层之外，每一个Unit 结构的输出都复制一份传给下一个Unit结构。改进的 Inception 结构保留了Inception 的优点，增强了网络对尺度的适应性，并使叠加网络深度变得十分方便。
+
+# 2.2全卷积的分类模块
+
+深度卷积神经的输出层采用独热码（Onehotcode）对类别进行编码。设分类类别数是 $\mathrm { ~ \bf ~ N ~ }$ ，类别标签是 $\mathfrak { n }$ ，则对应的编码为
+
+$$
+\mathbf { A } = ( 0 , 0 , \cdots , 0 , 1 , 0 , \cdots , 0 )
+$$
+
+其中：
+
+$$
+A _ { i } = { \left\{ \begin{array} { l l } { 1 , } & { i = n } \\ { 0 , } & { i \neq n } \end{array} \right. }
+$$
+
+由于输出层采用独热码的编码方式，输出层的人工神经元个数和类别数相同，这导致每层全连接层参数量的空间复杂度是 ${ \mathrm { O } } ( n ^ { 2 } )$ 。例如，考虑一级常用汉字3755个类别，全连接层输入神经元和输出神经元数都是3755个，每个参数占用4B空间，则输出层全连接层占用107MB以上的空间。而实际应用中，网络可能需要多层全连接层提升识别效果，每层全连接层的参数量也会更大。
+
+本文使用卷积层代替全连接层进行分类。以（特征图个数，特征图高，特征图宽）表示特征图的形状，分类类别数为n，设最后一层卷积层特征图的形状是 $( \mathbf { C } , \mathbf { H } , \mathbf { W } )$ ，则全连接层表示的分类层参数个数为
+
+$$
+P _ { f c } = 2 \mathrm { n C H W }
+$$
+
+而采用卷积层作为分类层，要求卷积层的输出特征图形状为 $( \mathrm { c } , \mathrm { h } , \mathrm { w } )$ ，其中，调整c以使 $\mathbf { n } = \mathbf { c h w }$ 。则以卷积层作为分类层的参数个数为
+
+$$
+P _ { c o n \nu } = 2 n
+$$
+
+所以，一层全连接层构成分类层的参数量是卷积层构成的分类层的CHW倍。
+
+由单层卷积层取代全连接构成输出层会导致网络的识别性能有所下降，而Joint-Net对卷积层进行多层卷积层组合调整，使得采用卷积层作为输出层时，分类性能能够达到与使用全连接层同样的效果。
+
+# 2.3Joint-Net网络搭建
+
+改进的Inception结构在搭建网络的时候十分方便。只需要多个改进的Inception 结构直接叠加即可完成网络的主体部分。如图3所示， $1 \times 1$ 卷积核的卷积层在网络结构上起衔接作用，本文称之为关节（joint)。在Inception 内部做池化处理是不方便的，所以在joint中加入了可选择的池化层，当需要进行池化时，在joint中进行池化。
+
+为使网络模型能有更好的表现，本文将BN层和Relu层加入了unit和joint，并将maxpool层加入到joint模块。同时，由于全部使用 $1 \times 3$ 和 $3 { \times } 1$ 的卷积核组合代替 $3 { \times } 3$ 卷积核的效果并不好，在加入 $3 { \times } 3$ 卷积核后，效果优异，所以卷积核增加了 $3 { \times } 3$ 的选择，方便灵活调整网络，提高网络性能。详细的unit和joint设计如图4所示。
+
+![](images/c98d47423eb162d540eaef319a95df8e61c44829939b15ddff00b6fedd4f77f7.jpg)  
+图3Joint-Net结构
+
+![](images/439ff2e5b2a17303cfefa7cb5ca17ec4a516721e77a0151236a279c37c7752ee.jpg)  
+Fig.3Joint-Net structure
+
+# 3 实验
+
+为验证Joint-Net模型在脱机手写汉字识别上的有效性，本文实验选取了较为大型的CASIA-HWDB1.1数据集。脱机手写汉字集CASIAHWDB1.1包括了3755个GB2312-80 一级常用汉字。其中，训练集由240人手写，测试集由60人手写，共计1121749个样本，属于大规模模式识别样本集。本文将数据集中的所有图片缩小为 $3 2 \times 3 2$ 进行识别实验。
+
+本文所有实验均采用Pytorch0.4在Windows1064位系统上编写及运行代码，实验硬件环境均为CPUINTERi76700K4.0GHZ，RAMDDR48G，GPUGTX10808G。
+
+为了验证Joint-Net的性能，本文在CASIAHWDB1.1上做了大量重复实验。实验采用相同的网络结构，共叠加了7个改进的Inception 结构，8个关节，和1个卷积层。网络结构如表1所示，其中Units 表示相应的Inception\*中的Unit部分，Conv\*层表示带Dropout层的卷积层，用作分类。
+
+本文采用的训练策略为：
+
+a）训练轮数为60;b）批大小为128；c）学习率调整策略：初始学习率 $\mathrm { l r } = 0 . 1$ ，20轮衰减为0.02，40轮衰减为0.004，50轮衰减为0.0008；
+
+d）权重衰减weightdecay $= 0 . 0 0 0 5$ e）梯度下降：nesterov 加速的 sgd 算法，momentum 为0.9。
+
+在训练时对样本进行了数据增强，包括边界填充4个0像素，随机剪切为 $3 2 \times 3 2$ 大小，随机水平翻转，归一化。
+
+表1网络结构  
+Table1 Network structure   
+
+<html><body><table><tr><td colspan="5">Unit数量 卷积核大小 输入通道/Unit 输出通道/Unit 池化层</td></tr><tr><td>JointO</td><td>1</td><td>1x1</td><td>1or 3 32</td><td></td></tr><tr><td>Units1</td><td>6</td><td>3x3</td><td>32 32</td><td></td></tr><tr><td>Joint1</td><td>1</td><td>1x1</td><td>64</td><td>MaxPool</td></tr><tr><td>Unis2</td><td>6</td><td>3x3</td><td>64</td><td>-</td></tr><tr><td>Joint2</td><td>1</td><td>1x1</td><td>96</td><td></td></tr><tr><td>Units3</td><td>6</td><td>3x3</td><td>96</td><td></td></tr><tr><td>Joint3</td><td>1</td><td>96 1x1</td><td>128</td><td>MaxPool</td></tr><tr><td>Units4</td><td>6</td><td>3x3</td><td>96 128 128</td><td></td></tr><tr><td>Joint4</td><td>1</td><td>1x1 128</td><td>160</td><td>-</td></tr><tr><td>Units5</td><td>6</td><td>3x3 160</td><td>160</td><td></td></tr><tr><td>Joint5</td><td>1</td><td>1x1 160</td><td>192</td><td>MaxPool</td></tr><tr><td>Units6</td><td>6</td><td>3x3 192</td><td>192</td><td></td></tr><tr><td>Joint6</td><td>1</td><td>1x1</td><td>192 224</td><td></td></tr><tr><td>Units7</td><td>6</td><td>3x3</td><td>224 224</td><td></td></tr><tr><td>Joint7</td><td>1</td><td>1x1</td><td>224 512</td><td>MaxPool</td></tr><tr><td>Conv*</td><td>1</td><td>1x1</td><td>512 N/(2x2)</td><td>-</td></tr></table></body></html>
+
+图5展示了Joint-Net在CASIAHWDB1.1训练集和测试集上的训练情况。在图5中，Joint-Net在CASIAHWDB1.1的训练集上进行训练，在CASIAHWDB1.1测试集上进行测试。可以看出，在每次学习率衰减时，准确率都有明显的提高，最终网络收敛。实验结果与其他网络模型结果的对比如表 2所示，其中，带“\*”的表示文献没有单独在CASIAHWDB1.1数据集上进行训练，本文复现实验取得的结果。
+
+![](images/f85f50e4c70f7f6bfa9344dcc29d7f3e862b8ae4dff7d1a9dc1ab9e844bc42b0.jpg)  
+图4Unit与 Joint 的详细结构Fig.4Detailed structure of Unit and Joint  
+图5Joint-Net网络模型准确率变化过程  
+Fig.5Joint-Net network model accuracy rate change process
+
+由于去除了全连接层，尽管Joint-Net网络有更深的卷积层数，样本集的类别多达3755个，模型的参数量仍然很小，而且参数量不会随类别的增加迅速增大。同时模型有更好的鲁棒性和泛化能力，在CASIAHWDB1.1数据集上比文献[10,11]的结果有显著的提升。
+
+为验证Joint-Net的实用性，本文将Joint-Net网络应用于汉字字幕提取系统，达到了很高的识别率，表明Joint-Net适宜在实际系统上取得应用。汉字字幕提取模型图6所示。
+
+图6中，先由预训练好的Joint-Net 模型对带有汉字字幕的图片进行处理，得到包含3756个类别得分（包含1个背景类别和3755个常用汉字类别)。由于不关注字幕的位置，仅提取字幕信息，所以没有进行坐标回归。图6中，为说明Infer的过程，记Class scores 为张量X，Class map 为张量Y,maxpool是尺寸为 $3 { \times } 3$ ，步幅为1的最大池化操作，argmax为求取像素点最大值所在通道的操作，则Infer过程为
+
+$$
+X ^ { * } = m a x p o o l ( X )
+$$
+
+$$
+\mathbf { Y } = \operatorname { a r g m a x } \left( \operatorname { r e l u } \left( \mathbf { X } - X ^ { * } \right) \right)
+$$
+
+由于图6中Infer操作对类别得分取的是局部的最大值，相当于进行了多次投票得出的类别，准确率比单一汉字识别要高。但是由于对每个像素为中心的 $5 { \times } 5$ 的区域都进行分类，速度有所降低。采用图6的模型，在200张包含汉字的实际视频截取视频帧中的测试中，召回率(recal1)达到了 $9 8 . 9 \%$ 准确率（accuracy）为 $9 8 . 4 \%$ ，速度为14张/s。
+
+表2Joint-Net 模型在CASIAHWDB1.1上的
+
+![](images/9ce78058a16b0bf740e33e1cc99d18c4c1ad47da034ad18f7b16fdde42d77aa7.jpg)  
+图6使用Joint-Net的汉字字幕提取系统模型 Fig.6Using the Chinese character subtitle extraction system model of Joint-Net
+
+# 4 结束语
+
+实验结果显示，Joint-Net在包含3755个类别的脱机手写汉字集CASIAHWDB1.1上达到了公开报告的单模型的最佳成绩。这表明Joint-Net是一种学习能力强大且鲁棒性和泛化能力优异的卷积神经网络结构。其独特的单元层和关节，能有效的增加网络的深度，并提升网络的鲁棒性和泛化能力，使网络更容易的达到更好的结果。实验中，在实际汉字字幕提取系统中的成功应用表明Joint-Net模型具有一定的实用价值。由于Joint-Net结构简单的特性，能够很容易的将网络模型压缩算法[1}{8]应用到模型中，这将是对Joint-Net进一步研究的方向。
+
+# 参考文献：
+
+[1]赵继印，郑蕊蕊，吴宝春，等．脱机手写体汉字识别综述[J]．电子 学报,2010,38(2):405-415.(Zhao Jiyin,Zheng Ruirui,Wu Baochun, et al.A review of offline handwriten Chinese character recognition [J]. Acta Electronica Sinica,2010,38(2):405-415.)   
+[2]金连文，钟卓耀，杨钊，等．深度学习在手写汉字识别中的应用综述 [J]．自动化学报，2016,42(8):1125-1141.(Jin Lianwen，Zhong Zhuoyao，Yang Zhao，et al.Applications of deep Learning for handwritten Chinese character recognition:a review [J].Acta Automatica Sinica,2016,42(8):1125-1141.)   
+[3]Liu Chenglin，Yin Fei,Wang Dahan，et al.Online and offline handwritten Chinese character recognition: benchmarking on new databases [J].Patern Recognition,2013,46 (1): 155-162.   
+[4]LeCun Y,Boser B,Denker J S,et al.Backpropagation applied to handwritten zip code recognition [J]. Neural computation,1989,1 (4): 541-551.   
+[5]LeCun Y,Bottou L, Bengio Y,et al. Gradient-based learning applied to document recognition [J]. Proceedings of the IEEE,1998,86 (11): 2278-2324.   
+[6]Simonyan K, Zisserman A.Very deep convolutional networks for large-scale image recognition [EB/OL].(2015-04-10). https://arxiv.org/abs/1409.1556.   
+[7]Krizhevsky A,Sutskever I, Hinton G E. Imagenet classifica-tion with deep convolutional neural networks [C]// Advancesin Neural Information Processing Systems.2012:1097-1105.   
+[8]Szegedy C，Liu Wei,Jia Yangqing，et al.Going deeper with convolutions [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition. Washington DC:IEEE Computer Society,2015: 1-9.   
+[9] He Kaiming,Zhang Xiangyu,Ren Shaoqing,et al. Deep residual learning for image recognition [C]// Proc of the IEEE Conference on Computer Vision and Pattern Recognition. Washington DC:IEEE Computer Society,2016:770-778.   
+[10] Zhang Xuyao,Bengio Y,Liu Chenglin. Online and offline handwritten Chinese character recognition:a comprehend-sive study and new benchmark [J].Pattern Recognition,2017,61: 348-360.   
+[11] Xiao Xuefeng, Jin Lianwen,Yang Yafeng,et al. Building fast and compact convolutional neural networks for ofline handwritten Chinese character recognition [J].Pattern Recognition,2017,72: 72-81.   
+[12] Szegedy C，Vanhoucke V,Ioffe S,et al.Rethinking the Inception architecture for computer Vision [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition．Washington DC:IEEE Computer Society,2016: 2818-2826.   
+[13] Ioffe S,Szegedy C.Batch normalization: accelerating deep network training by reducing internal covariate shift [C]//Proc ofInternational Conference on Machine Learning.2015: 448-456.   
+[14] Szegedy C,Ioffe S, Vanhoucke V,etal. Inception-v4,Inception-ResNet and the impact of residual connectionson learning [EB/OL]. (2016-08-23).https://arxiv.org/abs/1602.07261.   
+[15] Srivastava R K,Greff K,Schmidhuber J. Highway networks [J].arXiv preprint arXiv:1505.00387,2015.   
+[16] Srivastava R K,Greff K, Schmidhuber J. Training Very deep networks [C]//Advances in Neural Information Processing Systems. 2015: 2377-2385.   
+[17] Huang Gao,Liu Zhuang, Van Der Maaten L,et al. Densely connected convolutional networks [Cl// Proc of IEEE Conference on Computer Vision and Pattern Recognition．Washington DC:IEEE Computer Society, 2017.   
+[18] Hu Jie,Shen Li,Albanie S,et al. Squeeze-and-excitation networks [EB/OL]. (2018-10-25). https://rxiv.org/pdf/1709.01507.pdf.

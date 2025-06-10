@@ -1,0 +1,108 @@
+# FAM135B与赖氨酸乙酰转移酶在维吾尔族食管鳞状细胞癌中的表达
+
+刘 江',朱君玲²,张亚历',白 杨'  
+1南方医科大学南方医院 消化内科,广东广州 510515;新疆喀什地区第一人民医院病理科，新疆 喀什  
+844000
+
+摘要：目的探讨序列相似家族135成员B(FAM135B)与赖氨酸乙酰转移酶(KAT5)在维吾尔族食管鳞状细胞癌(ESCC)中的表达规律。方法使用罗氏全自动免疫组化仪检测40对维吾尔族ESCC及其癌旁组织中FAM135B与KAT5的表达情况，分析两种蛋白间表达的相关性及与临床特征的相关性。结果 维吾尔族ESCC标本中FAM135B、KAT5表达分别占 $9 2 . 5 0 \% \big ( 3 7 / 4 0 \big )$ /$1 5 . 0 0 \% ( 6 / 4 0 )$ ;癌组织中FAM135B表达强阳性者所占比例高于癌旁组织 $[ 4 5 . 0 0 \% ( 1 8 / 4 0 )$ vs $2 2 . 5 0 \% ( 9 / 4 0 )$ ， $\chi ^ { 2 } { = } 4 . 5 2 8 , P { = }$ 0.033];癌组织中KAT5表达阴性者所占比例与癌旁组织差异无统计学意义 $8 5 . 0 0 \% ( 3 4 / 4 0 )$ vs $8 7 . 5 0 \% \big ( 3 5 / 4 0 \big )$ ? $\scriptstyle \chi ^ { 2 } = 0 . 1 0 5 , P =$ 0.745];ESCC与其配对癌旁组织FAM135B强阳性表达具有良好正相关性(Kendall相关系数 $= 0 . 7 0 7 , P { < } 0 . 0 0 1$ )；癌组织的FAM135B强阳性表达与其KAT5表达具有显著负相关性(Kendall相关系数 $= - 0 . 9 4 6 , P { < } 0 . 0 0 1 \$ ;FAM135B与KAT5表达与ESCC患者性别、年龄、肿瘤部位、分化程度、浸润深度、淋巴结转移及临床分期均无明显相关性 $( P { > } 0 . 0 5 )$ 。结论FAM135B强阳性表达可能是维吾尔族ESCC发生的重要分子基础，且该分子可能通过KAT5的负性表达发挥作用。
+
+关键词：FAM135B;赖氨酸乙酰转移酶;维吾尔族;食管鳞状细胞癌
+
+# Expression pattern of FAM135B and K (lysine) acetyltransferase 5 in esophageal squamous cell carcinoma in Uygur patients
+
+LIU Jiang', ZHU Junling²,ZHANG Yali',BAI Yang   
+Departmentofefallio;t   
+KashiFirstPeople'sHospital,Kashi844O0,China
+
+Abstract: ObjectiveToexplore theexpresionofthefamilywithsequencesimilarity135memberB(FAM135B)andK(lysine) acetyltransferase 5 (KAT5) inesophageal squamous cellcarcinoma (ESCC) in Uygur patients.Methods The expresion of FAM135B and KAT5 in ESCC tissues and paired adjacent tissues from 40 Uygur patients were detected using Roche BenchmarkXT.ThecorrelationofFAM135BandKAT5andtheircorrelationwiththecinicopathologicalcharacteristicsofthe patients were analyzed. Results The positivity rates of FAM135B and KAT5 in ESCC tissues were $9 2 . 5 0 \%$ (37/40) and $1 5 . 0 0 \% ( 6 /$ 40)in these patients,respectively.The ESCCtissesshowed asignificantlyhigherrateof trongFAM135Bexpressionhanthe adjacent tissues $4 5 . 0 0 \%$ (18/40) vs $2 2 . 5 0 \%$ (9/40); $\chi ^ { 2 } { = } 4 . 5 2 8 ,$ $\scriptstyle P = 0 . 0 3 3$ l,but the rates of negative KAT5 expression was similar between ESCC and adjacent tissues $[ 8 5 . 0 0 \%$ (34/40) vs $8 7 . 5 0 \%$ (35/40); $\chi ^ { 2 } { = } 0 . 1 0 5 ,$ $\scriptstyle P = 0 . 7 4 5$ ]. Strong expressions of FAM135B in ESCC tissues and the paired adjacent tissues were well correlated (Kendall's coeficient $= 0 . 7 0 7$ ， $P { < } 0 . 0 0 1$ ). In ESCC tissues,a strong expressionofFAM35BshowedasignificantnegativecorrelationwithKAT5expression (Kendal'scoeficient-0946, $P <$ 0.001). NeitherFAM35BnorKAT5expression wasasociated withthepatients'gender,age,tumorsite,tumordierentiation, invasion, lymph node metastasis and clinical stage (all $P { > } 0 . 0 5 \mathrm { \cdot }$ ). Conclusion A strong expression of FAM135B may be an important molecular basis for the occurrence of ESCC in Uygur patients and plays its role by negatively regulating the expression of KAT5.
+
+Keywords: FAM135B; KAT5; uigur; esophageal squamous cell carcinoma
+
+食管癌在亚洲国家高发[，大约 $70 \%$ 来自中国，其中 $90 \%$ 以上病理类型为食管鳞状细胞癌(ESCC)[2]。由于仍缺乏有效治疗方法[3-4，中晚期患者5年生存率多不及 $2 0 \% ^ { [ 5 ] }$ 。因此,积极寻找ESCC发生发展的关键分子，对揭示ESCC发病机制及靶点药物的研发都将具有重要意义[67]。目前有关ESCC的研究多以汉族人为对象[8-9]，但是在我国新疆西南部的喀什地区， $9 2 . 1 6 \%$ 为维吾尔族人群，ESCC同样是其高发病]，所以对该地区维吾尔族人群ESCC相关分子标志物的寻找也十分必要
+
+序列相似家族135成员 $\mathrm { B } ( F A M I 3 5 B )$ 作为首次发现与汉族人ESCC相关的基因，结果显示FAM135B突变对ESCC细胞具有显著的促增殖、迁移及侵袭作用，并与汉族人ESCC不良预后显著正相关[12]。在蛋白水平上，有研究显示 $F A M I 3 5 B$ 编码蛋白FAM135B可与赖氨酸乙酰转移酶(KAT5)相互作用[13],其中后者作为一种肿瘤抑制因子已被广泛认可[14-15],
+
+目前在维吾尔族人群ESCC中，有关FAM135B与
+
+KAT5的表达意义及相关性研究还未见报道。因此，本研究拟进行初步探讨，希望对明确这两种蛋白在维吾尔族ESCC中的作用有所帮助。
+
+# 1资料和方法
+
+# 1.1 临床资料
+
+选取新疆喀什地区第一人民医院2015年经外科手术切除维吾尔族患者的ESCC及其配对癌旁组织存档蜡块各40例，患者临床资料完整，术前均未接受过放疗、化疗等相关治疗。其中患者年龄 $6 2 . 3 { \pm } 7 . 5 \$ 岁；男28例，女12例；高分化8例，中分化5例，低分化27例；位于胸上段6例，胸中段19例，胸下段15例；肿瘤浸润深度T2者9例，T3者29例，T4者2例;淋巴结转移23例，未转移17例;临床I期2例，Ⅱ期19例，Ⅲ期19例。
+
+# 1.2主要仪器与试剂
+
+德国徕卡LeicaRM2245轮转式切片机;MoticBA400显微镜；罗氏全自动免疫组化仪RocheBenchmarkXT;兔抗人FAM135B多克隆抗体购自Sigma;兔抗人KAT5多克隆抗体购自Abcam公司。
+
+# 1.3方法
+
+使用RocheBenchmarkXT全自动免疫组化染色仪，按既定程度进行免疫组化染色，包括烤片；缓冲液ReactionBuffer清洗切片；专用试剂EZprep对切片脱蜡； $3 \% \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 孵育切片；修复液CCI进行修复，独立温控的切片加热板升温至设定温度；脂溶性试剂LCS形成膜覆盖在切片上,防止试剂蒸发;加样器进行加样 $1 0 0 { \mu \mathrm { L } }$ 一抗，切片加热板升温到设定温度;加样器加入二抗，切片加热板升温到设定温度；加入DAB染色；苏木素复染后返蓝;梯度酒精脱水，最终二甲苯透明后封片。
+
+# 1.4免疫组化结果判断
+
+采用40倍视野找到着色密集区，然后于100倍视野下观察计数。评分标准为细胞着色范围计分( $0 \%$ 着色细胞 $1 \% 1 \% { \sim } 2 4 \%$ 着色细胞 $= 1 ; 2 5 \% { \sim } 4 9 \%$ 着色细胞 $\circleddash$ $2 ; 5 0 \% { \sim } 7 4 \%$ 着色细胞 $= 3 ; 7 5 \% { \sim } 1 0 0 \%$ 着色细胞 $\scriptstyle \{ = 4 \atop  \sum ( 0 $ )与细胞着色程度计分之积(不着色 $_ { \therefore = 0 }$ ;浅黄色 $_ { : = 1 }$ ;橘黄色 $_ { \cdot = 2 }$ 棕褐色 ${ } _ { ; = 3 }$ ),最终得分：0分为阴性(-)；1\~4分为弱阳性$( + ) { , } 5 { \sim } 8$ 分为阳性 $( + + )$ ;9\~12分为强阳性 $( + + + )$ O
+
+# 1.5统计学方法
+
+采用统计学软件SPSS20.0进行数据分析，计量资料之间比较采用 $\chi ^ { 2 }$ 检验，双变量相关性分析采用Spearman相关性分析， $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1维吾尔族食管鳞癌及其癌旁组织中FAM135B与KAT5的表达
+
+维吾尔族ESCC标本中FAM135B表达占 $9 2 . 5 0 \%$ (37/40)，癌旁组织中表达占 $8 7 . 5 0 \% \big ( 3 5 / 4 0 \big )$ ，其中ESCC的FAM135B强阳性表达所占比例高于癌旁组织[ $4 5 . 0 0 \% ( 1 8 / 4 0 )$ V $\mathrm { { _ { S } } \ 2 2 . 5 0 \% ( 9 / 4 0 ) }$ 1 $\chi ^ { 2 } { = } 4 . 5 2 8 , P { = } 0 . 0 3 3 .$ ;在18例强阳性表达FAM135B的ESCC标本中，其配对癌旁组织FAM135B强阳性表达者6例，ESCC与其配对癌旁组织FAM135B强阳性表达具有良好正相关性(Kendall相关系数 $= 0 . 7 0 7 , P { < } 0 . 0 0 1 \rangle$ ；维吾尔族ESCC标本中KAT5表达占 $1 5 . 0 0 \% ( 6 / 4 0 )$ ,癌旁组织中表达占$1 2 . 5 0 \% ( 5 / 4 0 )$ ，其中ESCC的KAT5阴性表达所占比例与癌旁组织差异无统计学意义 $\left[ 8 5 . 0 0 \% \left( 3 4 / 4 0 \right) \nu _ { S } \right.$ $8 7 . 5 0 \% \big ( 3 5 / 4 0 \big )$ ? $\chi ^ { 2 } { = } 0 . 1 0 5 , P { = } 0 . 7 4 5 ]$ ；在18例强阳性表达FAM135B的ESCC标本中，其KAT5阴性表达者17例，ESCC的FAM135B强阳性表达与KAT5表达具有显著负相关性(Kendall相关系数=-0.946， $P { < } 0 . 0 0 1$ ，表1,图1)。
+
+表1食管鳞癌及其癌旁组织中FAM135B与KAT5表达强度 Tab.1Level of FAM135B andKAT5 expression in ESCC and adjacent tissues   
+
+<html><body><table><tr><td></td><td>ESCC</td><td>Para-cancer</td></tr><tr><td>FAM135B</td><td></td><td></td></tr><tr><td>(-)</td><td>7.50% (3/40)</td><td>12.50% (5/40)</td></tr><tr><td>(+)</td><td>37.50%(15/40)</td><td>45.00%(18/40)</td></tr><tr><td>(++)</td><td>10.00% (4/40)</td><td>20.00% (8/40)</td></tr><tr><td>(+++)</td><td>45.00%(18/40)</td><td>22.50% (9/40)</td></tr><tr><td>KAT5</td><td></td><td></td></tr><tr><td>(-)</td><td>85.00% (34/40)</td><td>87.50% (35/40)</td></tr><tr><td>(+)</td><td>12.50% (5/40)</td><td>32.50% (3/40)</td></tr><tr><td>(++)</td><td>0</td><td>0</td></tr><tr><td>(+++)</td><td>2.50%(1/40)</td><td>5.00% (2/40)</td></tr></table></body></html>
+
+# 2.2维吾尔族食管鳞癌FAM135B、KAT5表达与临床特征相关性
+
+FAM135B、KAT5表达与维吾尔族食管鳞癌7种临床特征的相关性分析详见表2，结果示FAM135B强阳性表达与患者性别、年龄、肿瘤部位、分化程度、浸润深度、淋巴结转移及临床分期均无明显相关性( ${ \mathrm { \ P } } { > } 0 . 0 5 { \mathrm { \ } }$ ;KAT5阴性表达与上述7种因素无明显相关性 $( P { > } 0 . 0 5 ) \$ ）
+
+# 3讨论
+
+FAM135B定位于染色体8q24.23，既往研究发现该基因的突变是人群肺外结核易感及自闭症发生的一个因素[17-18],而其与肿瘤的发生发展关系尚不清楚。直到Song等[12]以汉族人群ESCC肿瘤标本为研究对象,首次提出FAM135B与驱动ESCC的发生发展相关，但也有研究提示该基因的突变主要在ESCC进程的晚期发挥作用[19]。本研究则从蛋白水平研究,发现维吾尔族人群
+
+![](images/9fdd6a1bd86a90ccc8e30a9dcb52fe1ed0822a52886f96698a43e92206f42284.jpg)  
+图1维吾尔族食管鳞癌及癌旁组织FAM135B、KAT5免疫组化 Fig.1Immunohistochemicalresultsof FAM135BandKAT5inESCCandadjacent tisuesofthepatients.A:HEstainingof the adjacent tisue;B:HEstainingof ESCC tissue; C:FAM135Bpositivecontrol (glioma); D:Weak expressonofFAM35B in the adjacentissue;EModerateexpresionofFAM3Bintheadjacenttisse;F:StrongexpessnofAM35Bintheadjacenttisse; G:Weak expressionofFAM135B in ESCC;H: Moderate expressionof FAM135B inESCC;I: Strong expressionofFAM135Bin ESCC;J:NegativeexpessofK5inteadacetisse;K:rongexpressoofKA5inthetissue;L:Negativeexpsoof KAT5 in ESCC; M: Strong expression of KAT5 in ESCC; N: KAT5 positive control (breast cancer).
+
+ESCC组织与癌旁组织中均高表达FAM135B，表达率分别为 $9 2 . 5 0 \%$ (37/40)、 $8 7 . 5 0 \%$ (35/40），且ESCC的FAM135B强阳性表达所占比例高于癌旁组织；另ESCC与其配对癌旁组织FAM135B强阳性表达具有良好正相关性(Kendall相关系数 $= 0 . 7 0 7 , P { < } 0 . 0 0 1 \rangle$ ；但是FAM135B的强阳性表达与维吾尔族ESCC患者的性别、年龄、肿瘤部位、分化程度、浸润深度、淋巴结转移及临床分期均无明显相关性。至于KAT5在ESCC中的表达，有研究发现新疆哈萨克族及汉族ESCC患者肿瘤组织中KAT5mRNA的表达率为 $9 7 . 5 \%$ ，高于正常组织中的表达（ $_ { ( P < 0 . 0 5 ) }$ ，但蛋白水平上，KAT5在癌组织、癌旁及正常组织中的表达差异无统计学意义[20]。本研究则显示KAT5蛋白在ESCC组织及癌旁组织多为阴性表达，其两组差异无统计学意义。此外，KAT5的阴性表达与维吾尔族ESCC患者的性别、年龄、肿瘤部位、分化程度、浸润深度、淋巴结转移及临床分期均无明显相关性 $( P { > } 0 . 0 5 )$ 。但分析FAM135B与KAT5表达的相关性发现，ESCC中FAM135B的强阳性表达与其KAT5表达具有显著负相关性(Kendall相关系数 $\scriptstyle : = - 0 . 9 4 6 , P <$ 0.001)。
+
+表2维吾尔族食管鳞癌FAM135B、KAT5表达与临床特征相关性 Tab.2FAM135B and KAT5 expressons in relation to clinicopathologic features of the Uygur patients with ESCC   
+
+<html><body><table><tr><td>Variable</td><td>n</td><td>FAM135B (+++)</td><td>x</td><td>P</td><td>KAT5 (-)</td><td>x</td><td>P</td></tr><tr><td>Gender</td><td></td><td></td><td>1.231</td><td>0.267</td><td></td><td>0.084</td><td>0.772</td></tr><tr><td>Male</td><td>28</td><td>11</td><td></td><td></td><td>23</td><td></td><td></td></tr><tr><td>Female</td><td>12</td><td>7</td><td></td><td></td><td>11</td><td></td><td></td></tr><tr><td>Age (year)</td><td></td><td></td><td>0.519</td><td>0.471</td><td></td><td></td><td></td></tr><tr><td><60</td><td>15</td><td>5</td><td></td><td></td><td>13</td><td>0.000</td><td>1.000</td></tr><tr><td>≥60</td><td>25</td><td>13</td><td></td><td></td><td>21</td><td></td><td></td></tr><tr><td>Position</td><td></td><td></td><td>0.093</td><td>0.760</td><td></td><td>0.471</td><td>0.493</td></tr><tr><td>Upper and middle thoracic</td><td>25</td><td>12</td><td></td><td></td><td>20</td><td></td><td></td></tr><tr><td>Lower thoracic</td><td>15</td><td>6</td><td></td><td></td><td>14</td><td></td><td></td></tr><tr><td>Differentiation</td><td></td><td></td><td>0.866</td><td>0.352</td><td></td><td>0.270</td><td>0.603</td></tr><tr><td>Moderate and high</td><td>13</td><td>3</td><td></td><td></td><td>10</td><td></td><td></td></tr><tr><td>Low</td><td>27</td><td>15</td><td></td><td></td><td>24</td><td></td><td></td></tr><tr><td>Invasion</td><td></td><td></td><td>0.189</td><td>0.744</td><td></td><td>0.000</td><td>1.000</td></tr><tr><td>T2</td><td>9</td><td>5</td><td></td><td></td><td>8</td><td></td><td></td></tr><tr><td>T3+T4</td><td>31</td><td>13</td><td></td><td></td><td>26</td><td></td><td></td></tr><tr><td>Lymph node metastasis</td><td></td><td></td><td>0.019</td><td>0.890</td><td></td><td>3.372</td><td>0.066</td></tr><tr><td>Yes</td><td>23</td><td>10</td><td></td><td></td><td>17</td><td></td><td></td></tr><tr><td>No</td><td>17</td><td>8</td><td></td><td></td><td>17</td><td></td><td></td></tr><tr><td>Clinical stage</td><td></td><td></td><td>0.372</td><td>0.542</td><td></td><td>2.141</td><td>0.143</td></tr><tr><td>I+II</td><td>21</td><td>11</td><td></td><td></td><td>20</td><td></td><td></td></tr><tr><td>IⅢI</td><td>19</td><td>7</td><td></td><td></td><td>14</td><td></td><td></td></tr></table></body></html>
+
+综上，本研究基于前人全基因测序获取的ESCC驱动基因 $F A M I 3 5 B$ ，首次从蛋白水平探究其在维吾尔族ESCC发生发展中的作用，并初步研究了FAM135B与KAT5在该肿瘤中的相互作用。结果提示FAM135B强阳性表达可能是维吾尔族ESCC发生的重要分子基础，且该分子可能通过KAT5的负性表达发挥作用。结合前面提及的FAM135B在汉族ESCC的相关研究，本研究结果反映维吾尔族ESCC的发病机制与汉族存在共性。Liu等则发现由人乳头瘤病毒感染引起的食管鳞状上皮癌变机制上，汉族与维吾尔族人群也十分相似。但其他研究同样显示汉族与维吾尔族ESCC的一些生物标志物存在差异，其中与ESCC分期及预后相关的血管内皮生长因子及内皮细胞抑制因子，在汉族患者血清中的水平显著高于维吾尔族患者 $( P { < } 0 . 0 5 ) ^ { [ 2 2 ] }$ 。此外，与ESCC易感相关的着色性干皮病D组基因，在汉族与维吾尔族ESCC发生风险上却起到完全相反的预测作用[23-24]。这些维吾尔族ESCC发生发展的特异性更突出了其分子机制研究的必要性。
+
+本研究也存在一定缺陷，首先选取患者多为ESCC中晚期，对于FAM135B与KAT5在早期ESCC,甚至是在食管上皮内瘤变中的表达情况未探究。有研究证实ESCC及其癌前病变存在相似的基因突变，对两个阶段相同标志物的识别,将有益于高风险ESCC人群的识别[25]本研究样本量较小,其研究结果有待进一步研究证实。
+
+# 参考文献：
+
+[1]Mir MM,Dar NA.Esophageal Cancer in Kashmir (India):an enigma for researchers[J].Int JHealth Sci,2009,3(1): 71-85.   
+[2] Xu Y, Yu X, Chen Q,et al. Neoadjuvant versus adjuvant treatment: which one is better for resectable esophageal squamous cell carcinoma[J]? World J Surg Oncol,2012,10(173): 173.   
+[3]Tachimori Y,Nagai Y,Kanamori N,et al.Pattern of lymph node metastases of esophageal squamous cell carcinoma based on the anatomical lymphatic drainage system[J].Dis Esophagus,2011,24 (1): 33-8.   
+[4]LiB,Chen H, Xiang J,et al. Pattern of lymphatic spread in thoracic esophageal squamouscell carcinoma:A single-institution experience[J].J Thorac Cardiovasc Surg,2012,144(4): 778-85; discussion 785-6.   
+[5] Zeng H, Zheng R,Guo Y,et al. Cancer survival in China,2003- 2005:a population-based study[J].Int J Cancer,2015,136(8):1921- 30.   
+[6]Luzzatto L. Somatic mutations in Cancer development[J].Environ Health,2011,10(Suppl 1): S12.   
+[7]Vogelstein B，Papadopoulos N，Velculescu VE，et al.Cancer genome landscapes[J]. Science,2013,339(6127): 1546-58.   
+[8]陈志国,张朋,黄 静,等.2005年和2010年食管癌高/低发区慢性食 管炎与食管癌流行特征对比分析[J].河南大学学报:医学版,2012, 31(3): 219-22.   
+[9］宋国慧,孟凡书,白文龙,等.磁县食管癌高发区高危人群食管癌前病 变状态及病变分析[J].中国肿瘤临床,2014,41(19):1259-63.   
+[10]陈洁君,周余春,刘红建,等.江苏省泰兴市2003-2010年食管癌发病 趋势分析[J].复旦学报:医学版,2014,41(1):22-6.   
+[11]秦鑫添,张璟文,李玉齐,等.新疆喀什地区7578例恶性肿瘤构成分析 [J].中国肿瘤临床,2013,40(24):1544-7.   
+[12] Song Y,Li L,Ou Y,et al. Identification of genomic alterations in oesophageal squamous cell cancer[J].Nature,2014,509(7498): 91- 5.   
+[13] Stelzl U,Worm U,Lalowski M,et al.A human protein-protein interaction network:a resource for annotating the proteome [J]. Cell,2005,122(6): 957-68.   
+[14]张 赫,张士猛,周平坤.乙酰基转移酶Tip60(KAT5)的功能研究进展 [J].生物化学与生物物理进展,2015,42(1):25-31.   
+[15] Takino T,Nakada M,Li Z,et al.Tip6O regulates MT1-MMP transcription and invasion of glioblastoma cells through NF-kB pathway[J].Clin Exp Metastasis,2016,33(1): 45-52.   
+[16] Subbaiah VK,Zhang Y,Rajagopalan D,et al.E3 ligase EDD1/ UBR5 is utilized by the HPV E6 oncogene to destabilize tumor suppressor TIP60[J].Oncogene,2016,35(16): 2062-74.   
+[17] Oki NO,Motsinger-Reif AA,Antas PR,et al. Novel human genetic variantsassociated with extrapulmonary tuberculosis:a pilot genome wide association study[J].BMC Res Notes,2011,4(28): 28.   
+[18]Tsang KM, Croen LA, Torres AR,et al.A genome-wide survey of transgenerational genetic effects in autism[J].PLoS One,2013,8 (10): e76978.   
+[19]Hao JJ,Lin DC,Dinh HQ,et al. Spatial intratumoral heterogeneity and temporal clonal evolution in esophageal squamous cell carcinoma[J].Nat Genet,2016,48(12): 1500-7.   
+[20]孙 伟,马秀敏,丁剑冰,等.PDCD5,MDM2,Tip60和P53在食管鳞 状细胞癌者中的表达及其相关性[J].基础医学与临床,2011,31(8): 847-51.   
+[21]Liu T,Liu Q,Liang M,et al.Viral load of HPV16/18 in esophageal squamous cell carcinoma in three ethnic groups living in Xinjiang Autonomous Region,China[J].Mol Biol Rep,2013,40(2):2045- 52.   
+[22] Zhang L,Sun J, Zhang JQ,et al.Expression and significance of molecular biomarkers in esophageal carcinoma in different nationalities patients in Xinjiang[J].Genet Mol Res,2014,13(3): 5413-25.   
+[23]Huang CG,Liu T,Lv GD,et al.Analysis of XPD genetic polymorphisms of esophageal squamous cell carcinoma in a population of Yili Prefecture,in Xinjiang, China[J]. Mol Biol Rep, 2012,39(1): 709-14.   
+[24]Ma WJ,Lv GD, Zheng ST,et al. DNA polymorphism and risk of esophageal squamous cell carcinoma in a population of North Xinjiang,China[J].World JGastroenterol,2010,16(5): 641-7.   
+[25]Liu X, Zhang M, Ying S,et al. Genetic alterations in esophageal tissues from squamous dysplasia to carcinoma［J]. Gastroenterology, 2017,153(1): 166-77.

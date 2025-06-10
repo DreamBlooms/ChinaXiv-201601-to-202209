@@ -1,0 +1,236 @@
+肉用绵羊常用粗饲料有效能值的预测与方程的建立赵明明1² 杨开伦¹ 马　涛² 马俊南²毛建红² 赵江波² 邓凯东刁其玉 1,2\*
+
+3 （1.新疆农业大学动物科学学院，乌鲁木齐 830052；2.中国农业科学院饲料研究所，农业  
+4 部饲料生物技术重点实验室，北京100081；3.金陵科技学院动物科学与技术学院，南京  
+5 210038)  
+6 摘要:本试验旨在应用套算法分析肉用绵羊常用10种粗饲料的概略养分含量对其有效能值  
+7 及消化率的影响，基于概略养分含量建立粗饲料代谢能(ME)及营养物质消化率的预测模型。  
+8 采用消化代谢试验和呼吸代谢试验结合套算法测定10种常用粗饲料的营养物质消化率、消  
+9 化能（DE）及ME，在分析各种原料概略养分含量、消化率、DE和ME 的基础上，筛选出  
+10 最佳预测因子并建立有效能值预测方程。结果表明：单一粗饲料各营养物质消化率、有效能  
+11 值存在显著性差异（ $P { < } 0 . 0 5 )$ 。单一粗饲料干物质（DM）、有机物（OM）、总能（GE）、粗  
+12 蛋白质（CP）、中性洗涤纤维（NDF）的消化率与其DM、OM、GE、CP 含量均呈极显著正  
+13 相关（ $_ { \scriptstyle P < 0 . 0 1 { \dot { \ } } }$ )，与其NDF、酸性洗涤纤维（ADF）含量呈极显著负相关（ $_ { \scriptstyle P < 0 . 0 1 { \dot { \ } } }$ 。DE和  
+14 ME 与其 DM、OM、GE、CP 含量均呈极显著正相关（ ${ \scriptstyle P < 0 . 0 1 }$ )，而与其 NDF 和 ADF 含量  
+15 呈极显著负相关（ ${ \cdot } P { < } 0 . 0 1$ )。综合得出，可以通过概略养分预测粗饲料营养物质消化率，能  
+16 量消化率（ED）的预测方程为：ED（ $\%$ ）  
+17 =99.013+9.588GE+0.157CP-0.457ADF-1.981OM-0.213NDF（ $R ^ { 2 } { = } 0 . 9 7 4$ ， $\scriptstyle n = 6 0$ ， $P { < } 0 . 0 1 { \overset { . } { _ { . } } }$ )。可以  
+18 通过概略养分预测粗饲料有效能值,随着预测因子的增加，方程精确性有所提高，ME 的预测  
+19 方程为：ME（MJ/kg）=-6.943-0.101NDF+0.704GE-0.101ADF+0.138OM+0.032CP( $R ^ { 2 } { = } 0 . 9 9 4$ ，  
+20 （204 $n { = } 6 0$ ， $P { < } 0 . 0 1 \$ )。  
+21 关键词：代谢能；肉用绵羊；粗饲料；预测方程  
+22 中图分类号：S826  
+23 我国反刍动物粗饲料种类繁多，来源广泛。但其营养价值差异很大，为了提高饲料的利  
+24 用率，优化饲粮配方，降低饲养成本，充分发挥反刍动物理想的生产性能，饲粮的营养价值  
+25 进行科学准确的评定是非常必要的。而饲粮的营养价值评定是指测定饲粮中的概略养分含量  
+26 并评价这些营养物质被动物本身消化吸收的效率及对动物的营养效果。但由于反刍动物自身
+
+特殊的瘤胃结构与饲粮种类的多样性使得单个饲粮的消化率和有效能值的评定异常困难。目前，尽管肉羊的的饲养发展很快，但有关肉羊的营养研究却远远赶不上生产发展的需要，我国目前还没有比较科学、完善的肉羊粗饲料原料数据库。代谢能(ME)是欧、美、澳各国普遍采用的能量评价指标，但开展饲料ME 的评价费时费力，对每一种粗饲料ME一一测定也不现实，因此通过动物消化代谢和呼吸代谢试验准确测定粗饲料的相关营养参数，建立一套快速、准确、简便的评价ME 预测模型是非常有必要的。本团队在前期对反刍动物粗饲料ME 有一定的研究，赵明明[发现在采用直接法与套算法测定单一粗饲料ME时无显著性差异，并得出套算法测定羊草ME 时最佳的替代比例为 $20 \%$ 。NRC（2012）[2]对饲料原料能值的进一步修订说明了能值在动物饲粮配制中的重要性，国内外学者在饲料 ME 的间接预测（算）以及直接测定方面进行了大量的研究，然而多集中于单胃动物能值的预测。桓宗锦[3采用套算法测定了肉鸡玉米和豆粕的净能并以营养物质或 ME 建立了预测模型；李婷婷[4]采用强饲法利用蛋种公鸡完成了对玉米干酒糟及其可溶物（DDGS）营养价值的快速预测，通过化学成分建立ME 预测方程；刘德稳[5]、Huang 等[]通过套算法测定猪常用的饲粮原料概略养分含量，并建立原料ME 的预测方程。而在反刍动物领域，大多采用体外法、半体内法通过营养物质的体外消化率、 $2 4 \mathrm { ~ h ~ }$ 产气量（ $\mathrm { G P } _ { 2 4 \mathrm { h } }$ ）以及不同化学成分建立原料ME 的预测模型[7]。陶春卫8利用粗饲料的化学成分以及康奈尔净碳水化合物一净蛋白质体系（CNCPS）指标，与体外法结合建立了粗饲料ME 预测模型，并运用套算法体内实测 ME验证模型准确性，表明模型能够运用于实践；何亭漪[9建立了通过营养成分分析、半体内法、体外产气法评定单一粗饲料 ME 的回归公式；刘洁[]采用体内法对配合饲粮的 ME 做了实测，并建立了配合饲粮中营养成分为预测因子的 ME 预测模型，所得结果对于配合饲粮中ME 的预测具有客观性和实用性。现有的采用体内法实测ME，建立的这些配合饲粮的有效能值的预测模型未必适用于单一的饲料原料，因此有必要对粗饲料ME 预测及对其预测模型进行探究。本试验以我国常用的10种粗饲料为试验材料，以体重为 $4 5 . 0 \mathrm { k g }$ 的杂交肉用羯羊为试验动物，采用消化代谢和呼吸代谢结合套算法实测各种饲粮概略养分含量和不同营养物质的体内消化率并计算10 种原料的 ME。目的在于建立粗饲料有效能值预测模型，以达到快速、简单且有效预测粗饲料的消化率、消化能（DE）和 ME 的目的。这对建立我国肉用绵羊原料营养价值体系，合理利用饲料资源都具有十分重要的意义。1材料与方法
+
+1.1试验动物及试验设计动物消化代谢试验和呼吸代谢试验于中国农业科学院南口中试基地进行。样品分析试验在中国农业科学院饲料研究所家畜营养与饲料研究室进行。试验选用初始重为( $( 4 5 . 0 \pm 1 . 9 6 ) \$ kg 的体况良好的杜泊 $\times$ 小尾寒羊F1代18月龄杂交肉用羯羊66只，分为11个处理，每个处理6个重复，每个重复1只羊，每个处理单独圈养于不锈钢羊栏（ $3 . 2 ~ \mathrm { m } \times 0 . 8 ~ \mathrm { m }$ ）中。
+
+1.2 试验原料、饲粮及配制
+
+# 1.2.1 试验原料
+
+试验所用原料采集信息见表1。
+
+# 表1原料信息
+
+Table1 Feedstock information   
+
+<html><body><table><tr><td>样品名称</td><td>英文名称</td><td>来源</td><td>品种</td><td>收获时间</td></tr><tr><td>Sample name</td><td>English name</td><td>Source</td><td>Variety</td><td>Harvest time</td></tr><tr><td>稻秸RS</td><td>rice straw</td><td>天津宝坻</td><td>华粳74</td><td>完熟期</td></tr><tr><td>全株青贮玉米 WPCS</td><td>whole-plant corn silage</td><td>北京密云</td><td>郑单958</td><td>蜡熟期</td></tr><tr><td>玉米秸秆青贮 CSS</td><td>corn stalk silage</td><td>北京大兴</td><td>农华816</td><td>蜡熟期</td></tr><tr><td>玉米秸秆CS</td><td>corn stalks</td><td>北京大兴</td><td></td><td>收获期</td></tr><tr><td>黄豆秸 SS</td><td>soybean straw</td><td>山东济宁嘉祥</td><td>中黄13</td><td>收获期</td></tr><tr><td>小麦秸秆WS</td><td>wheat straw</td><td>山东济宁嘉祥</td><td>济麦22</td><td>收获期</td></tr><tr><td>地瓜秧 SPV</td><td>sweet potato vine</td><td>北京大兴</td><td>206</td><td>收获期</td></tr><tr><td>苜蓿 AH</td><td>alfalfa hay</td><td>美国加州</td><td></td><td>孕蕾末期</td></tr><tr><td>花生秧 PV</td><td>peanut vine</td><td>山东济宁嘉祥</td><td>豫花9326</td><td>收获期</td></tr><tr><td>羊草LC</td><td>Leymuschinesis</td><td>吉林大安</td><td></td><td>孕穗至开花初期</td></tr></table></body></html>
+
+# 1.2.2 试验饲粮及配制
+
+参照 $\mathbf { N R C } ( 2 0 0 7 ) ^ { [ 1 1 ] } 4 0 { \sim } 5 0 \mathrm { k g }$ 成年肉用公羊1.3倍维持需要饲喂标准配制基础饲粮(BD)和10种试验饲粮，试验饲粮分别由10种原料以 $20 \%$ 的比例替代基础饲粮组成,即羊草(LC)、苜蓿（AH)、全株玉米青贮（WPCS）、玉米秸秆青贮（CSC)、地瓜秧（SPV）、花生秧（PV）、玉米秸秆（CS）、豆秸（SS）、小麦秸秆（WS）、稻秸（RS）分别替代 $20 \%$ 基础饲粮。饲粮组成及营养水平见表2。
+
+表2饲粮组成及营养水平 (干物质基础)  
+Table 2Composition and nutrient levels of diets (DM basis) 9   
+
+<html><body><table><tr><td rowspan="5">项目Items</td><td colspan="11">饲粮Diets</td></tr><tr><td>基础饲</td><td>全株玉</td><td>苜蓿</td><td>玉米秸</td><td>地瓜秧</td><td>豆秸</td><td>小麦秸</td><td>玉米秸</td><td>稻草秸</td><td>花生秧</td><td>羊草</td></tr><tr><td>粮</td><td>米青贮</td><td>AH</td><td>秆</td><td>SPV</td><td>SS</td><td>秆</td><td>青贮</td><td>秆</td><td>PV</td><td>LC</td></tr><tr><td>BD</td><td>WPCS</td><td></td><td>CS</td><td></td><td></td><td>WS</td><td>CSC</td><td>RS</td><td></td><td></td></tr><tr><td>原料Ingredients</td><td>19.50</td><td>19.50</td><td>19.50</td><td>19.50</td><td>19.50</td><td>19.50</td><td>19.50</td><td>19.50</td><td>19.50</td><td>19.50</td></tr><tr><td>玉米Corm</td><td>28.54</td><td>22.83</td><td>22.83</td><td>22.83</td><td>22.83</td><td>22.83</td><td>22.83</td><td>22.83</td><td>22.83</td><td>22.83</td><td>22.83</td></tr><tr><td>豆粕 Soybean meal</td><td>18.24</td><td>14.59</td><td>14.59</td><td>14.59</td><td>14.59</td><td>14.59</td><td>14.59</td><td>14.59</td><td>14.59</td><td>14.59</td><td>14.59</td></tr><tr><td>羊草LC</td><td>50.68</td><td>40.54</td><td>40.54</td><td>40.54</td><td>40.54</td><td>40.54</td><td>40.54</td><td>40.54</td><td>40.54</td><td>40.54</td><td>40.54</td></tr></table></body></html>
+
+<html><body><table><tr><td>磷酸氢钙 CaHPO4</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>石粉CaCO3</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td></tr><tr><td>食盐 NaCl</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>预混料 Premix1)</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>92.58</td><td>90.72</td><td>92.13</td><td>88.96</td><td>89.90</td><td>89.04</td><td>89.54</td><td>90.82</td><td>92.53</td><td>92.25</td><td>92.65</td></tr><tr><td>有机物OM</td><td>92.78</td><td>91.77</td><td>91.80</td><td>91.96</td><td>91.08</td><td>91.21</td><td>91.18</td><td>90.95</td><td>91.27</td><td>91.08</td><td>92.72</td></tr><tr><td>总能GE</td><td>17.75</td><td>17.49</td><td>17.96</td><td>17.64</td><td>18.03</td><td>17.44</td><td>17.40</td><td>17.45</td><td>17.34</td><td>17.27</td><td>17.83</td></tr><tr><td>粗蛋白质CP</td><td>14.87</td><td>12.51</td><td>14.69</td><td>13.53</td><td>14.05</td><td>13.13</td><td>12.35</td><td>12.33</td><td>12.56</td><td>12.79</td><td>12.74</td></tr><tr><td>中性洗涤纤维 NDF</td><td>45.17</td><td>47.77</td><td>44.99</td><td>50.84</td><td>48.93</td><td>51.45</td><td>48.29</td><td>48.39</td><td>47.82</td><td>48.47</td><td>46.82</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>23.49</td><td>26.99</td><td>26.45</td><td>26.30</td><td>25.83</td><td>27.02</td><td>27.21</td><td>25.17</td><td>23.75</td><td>27.23</td><td>29.50</td></tr><tr><td>粗脂肪 EE</td><td>2.04</td><td>1.73</td><td>2.36</td><td>1.72</td><td>1.92</td><td>1.38</td><td>1.89</td><td>2.18</td><td>1.68</td><td>2.27</td><td>2.31</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of diets: $\mathrm { C u \ 1 6 . 0 \ m g }$ ，Fe $6 0 . 0 \mathrm { m g }$ Mn 40.0 mg, $Z n 7 0 . 0 \mathrm { m g }$ ， $\mathrm { ~ I 0 . 8 0 ~ m g }$ ，Se $0 . 3 0 \mathrm { m g }$ ， $\mathrm { C o } 0 . 3 0 \mathrm { m g }$ ，VA 12 000 IU，VD 5 000 IU，VE $5 0 . 0 \mathrm { m g }$ 。 2’实测值 Measured values。
+
+# 1.3 试验方法及操作
+
+试验期 $1 9 \mathrm { d }$ ，分为预试期 $1 0 \mathrm { d }$ ，正试期9d，其中前3d为呼吸代谢试验，后6d为消化代谢试验。
+
+# 1.3.1 消化代谢试验
+
+在预试期前通过饲喂基础饲粮确定日增重为 $0 \mathrm { g / d }$ 的维持需要采食量，试验羊采用限饲的方法（每种饲粮 $1 \ 2 0 0 \ \mathrm { g / d } )$ ，每天08：00、18:00各喂 $6 0 0 ~ \mathrm { g }$ 饲粮，全天自由饮水。消化代谢试验采用由中国农业科学院饲料研究所设计并制作的代谢笼，含有能将粪便与尿液自动分离的装置，采用全收粪尿法收集粪、尿。每天晨饲前先将代谢笼隔粪板上、漏斗里的羊粪捡拾干净，在将收粪袋取下并换新以便第2天样品的收集。将收粪袋中羊毛等杂物捡出，称量并记录每只羊排粪量，按每天排粪量的 $10 \%$ 取样，将每只羊6d的粪样混合冷冻保存。在试验结束时，将收集的每只羊粪混合后置于 $6 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 烘箱中 $4 8 \mathrm { h }$ ，回潮 $4 8 \mathrm { { h } }$ 后称重用于计算初水份含量[1，在将粪样粉碎过40 目网筛制成分析样品，以备分析检测。用盛有 $1 0 0 \mathrm { m L } 1 0 \%$ ${ \mathrm { H } } _ { 2 } { \mathrm { S O } } _ { 4 }$ 的塑料桶收集尿液，稀释至5L（防止贮存中有尿酸沉淀)，对稀释尿液充分混合，用纱布过滤后每天取样 $2 0 ~ \mathrm { m L }$ ，将每只羊6d的尿样混合后于 $- 2 0 \mathrm { ~ \textdegree ~ }$ 冰箱保存。
+
+# 1.3.2 呼吸代谢试验
+
+呼吸代谢试验由密闭呼吸箱连接 Sable开路式循环气体测定装置、LGR气体分析仪（购于美国 SABLE SYSTEMS INTERNATIONAL 公司，产于North Las Vegas）和配套的计算机程序共同完成。此系统原理是通过红外型甲烷分析仪（LGR）检测进出密闭呼吸箱的甲烷浓度，以及一定时间内流通呼吸箱的气体体积，从而计算出该时间内动物的甲烷实际排放量、二氧化碳排放量、氧气消耗量。此系统连接6个密闭呼吸箱，可以同时对6只动物的呼吸状态连续不间断地进行测定和记录。试验期间将试验羊分11批次移入密闭呼吸箱，每批次测定同一处理的6只试验羊，进入此密闭呼吸箱后适应 $2 4 \mathrm { ~ h ~ }$ ，测定随后 $^ { 4 8 \mathrm { ~ h ~ } }$ 的甲烷排放量用于计算饲粮ME。
+
+1.4 测定指标和方法
+
+# 1.4.1 营养物质消化率
+
+饲粮、原料和粪样中的干物质（DM)、粗蛋白质（CP）、粗脂肪（EE）、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）、粗灰分（ash）、有机物（OM）和总能（GE)，以及原料中钙（Ca）和（P）含量测定依据《饲料分析及饲料质量检测技术》[12]。
+
+1.4.2 ME
+
+尿能（UE)：取5块定量滤纸分别测定能值，计算出滤纸的平均能值。将 $1 0 ~ \mathrm { m L }$ 尿液分多次滴在滤纸上， $6 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 烘干后于Parr6400 氧弹式量热仪中测定，得到滤纸和尿液的总能。
+
+$\mathrm { { U E } = }$ 滴加尿液的滤纸能值一滤纸能值；甲烷能（ $\mathrm { C H } _ { 4 }$ -E，MJ) $\mathbf { \Sigma } = \mathbf { \Sigma }$ 甲烷排放量（L）×39.54/1000[13];$\mathbf { M E = G E } .$ 粪能（FE） $- \mathrm { U E - C H } _ { 4 } -$ E。
+
+# 1.5 计算公式
+
+饲粮及原料养分消化率计算方法参照Adeola[14的公式：  
+饲粮养分消化率 $( \% ) =$ （食入的养分含量-粪中该养分含量）/食入的养分含量；原料养分消化率 $( \% ) = [$ 饲粮养分消化率-（1-X) $\times$ 基础饲粮中该养分消化率]/X。式中： $X$ 为待测原料替代基础饲粮比例 $( \% )$ 。  
+套算法测定原料能值的计算参照刘德稳[5]、陶春卫[8]的公式：  
+能值（MJ/kg）=[试验饲粮能值-（1-X） $\times$ 基础饲粮能值]/X。
+
+式中： $X$ 为待测原料替代基础饲粮比例；能值可为DE、ME。
+
+# 1.6 统计分析
+
+试验数据采用Excel进行初步处理后，采用SAS9.2统计软件中的Correlate 过程对10种粗饲料的概略养分含量、营养物质消化率、能值等进行相关分析，用Regression过程进行回归分析，建立预测方程。
+
+2结果
+
+# 2.1 粗饲料营养水平
+
+Table 3 Common nutrient contents of roughages (DM basis)   
+
+<html><body><table><tr><td>项目Items</td><td>全株玉 米青贮</td><td>苜蓿 AH</td><td>玉米秸 秆</td><td>地瓜秧 SPV</td><td>豆秸 SS</td><td>小麦秸 秆</td><td>玉米秸 杆青贮</td><td>稻草秸 杆</td><td>花生秧 PV</td><td>羊草 LC</td></tr><tr><td>干物质 DM</td><td>WPCS 91.39</td><td>92.55</td><td>CS 90.63</td><td>91.78</td><td>89.85</td><td>WS 90.46</td><td>CSC 91.47</td><td>RS 91.00</td><td>90.05</td><td>91.40</td></tr><tr><td>有机物OM</td><td>91.03</td><td>91.61</td><td>89.18</td><td>90.36</td><td>89.10</td><td>88.44</td><td>89.04</td><td>88.93</td><td>89.31</td><td>89.69</td></tr><tr><td>总能 GE/(MJ/kg)</td><td>17.49</td><td>17.84</td><td>16.56</td><td>17.42</td><td>16.50</td><td>16.09</td><td>16.70</td><td>16.54</td><td>16.71</td><td>16.84</td></tr><tr><td>粗蛋白质CP</td><td>8.79</td><td>17.85</td><td>6.77</td><td>14.42</td><td>5.42</td><td>4.48</td><td>7.92</td><td>5.98</td><td>8.18</td><td>8.26</td></tr><tr><td>中性洗涤纤维 NDF</td><td>63.90</td><td>55.00</td><td>76.73</td><td>57.09</td><td>73.90</td><td>77.39</td><td>71.53</td><td>75.28</td><td>60.14</td><td>64.41</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>39.11</td><td>34.35</td><td>46.97</td><td>39.49</td><td>52.78</td><td>44.92</td><td>42.17</td><td>46.13</td><td>42.93</td><td>42.31</td></tr><tr><td>粗脂肪 EE</td><td>2.81</td><td>2.45</td><td>1.71</td><td>1.81</td><td>1.44</td><td>2.01</td><td>2.15</td><td>1.31</td><td>2.04</td><td>1.91</td></tr><tr><td>钙Ca</td><td>0.45</td><td>1.49</td><td>0.55</td><td>1.42</td><td>0.45</td><td>0.18</td><td>0.31</td><td>0.08</td><td>0.98</td><td>0.46</td></tr><tr><td>磷P</td><td>0.24</td><td>0.31</td><td>0.12</td><td>0.15</td><td>0.11</td><td>0.06</td><td>0.10</td><td>0.06</td><td>0.32</td><td>0.19</td></tr></table></body></html>
+
+实测值 Measured values。
+
+# 2.2粗饲料的营养物质消化率及能值
+
+通过消化代谢试验、呼吸代谢试验实测饲粮各营养物质消化率以及FE、UE、 $\mathrm { C H } _ { 4 }$ -E、DE、ME，结合经典套算法公式得到10种原料营养物质消化率和DE及ME（表4）。10 种粗饲料营养物质消化率、DE 和ME 存在显著性差异（ $P { < } 0 . 0 5 \mathrm { { ) } }$ ）
+
+表3粗饲料概略养分含量(干物质基础)  
+表4粗饲料的营养物质消化率及能值(干物质基础)  
+Table 4Digestibility and energy values of nutrients of roughages（DM basis ）   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">消化率Digestibility/%</td><td colspan="2">能值 Energy values/ (MJ/kg)</td></tr><tr><td>干物质</td><td>有机物</td><td>粗蛋白</td><td>总能</td><td>中性洗涤</td><td>消化能</td><td>代谢能</td></tr><tr><td>玉米秸秆 CS</td><td>DM 43.47ab</td><td>OM 44.13d</td><td>质CP 47.06cd</td><td>GE 44.69bc</td><td>纤维NDF 35.30cd</td><td>DE 5.77ed</td><td>ME 4.96f</td></tr><tr><td>羊草LC</td><td>48.26bcd</td><td>51.85bc</td><td>51.90bed</td><td>47.57bc</td><td>46.52ab</td><td>8.70c</td><td>7.02cd</td></tr><tr><td>全株玉米青贮 WPCS</td><td>52.40ab</td><td>49.62bcd</td><td>54.24bc</td><td>57.46a</td><td>49.21a</td><td>8.45c</td><td>7.29bc</td></tr><tr><td>玉米秸青贮 CSC</td><td>45.57bcd</td><td>43.28d</td><td>43.63cd</td><td>50.37b</td><td>44.596abc</td><td>6.77d</td><td>5.91ed</td></tr><tr><td>苜蓿 AH</td><td>58.35a</td><td>61.31a</td><td>68.83a</td><td>63.52a</td><td>51.04a</td><td>11.71a</td><td>9.77a</td></tr><tr><td>地瓜秧 SPV</td><td>51.12abc</td><td>55.43ab</td><td>63.02ab</td><td>59.52a</td><td>45.42abc</td><td>10.09b</td><td>8.41b</td></tr><tr><td>豆秸 SS</td><td>46.92bcd</td><td>49.49bcd</td><td>43.23cd</td><td>42.46c</td><td>40.80abcd</td><td>4.82e</td><td>4.15f</td></tr><tr><td>花生秧 PV</td><td>56.28a</td><td>56.81ab</td><td>59.82ab</td><td>50.63b</td><td>47.71ab</td><td>8.36c</td><td>6.89cd</td></tr><tr><td>小麦秸秆 WS</td><td>43.73cd</td><td>49.62bcd</td><td>47.74cd</td><td>42.19c</td><td>32.96d</td><td>4.93e</td><td>4.13f</td></tr><tr><td>稻草秸秆 RS</td><td>42.61d</td><td>46.03cd</td><td>41.31d</td><td>41.20c</td><td>37.32bed</td><td>6.08d</td><td>5.08ef</td></tr><tr><td>标准误 SEM</td><td>1.010</td><td>0.996</td><td>1.596</td><td>1.172</td><td>1.239</td><td>0.303</td><td>0.252</td></tr><tr><td>P值 P-value</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.003</td><td><0.001</td><td><0.001</td></tr></table></body></html>
+
+同列数据肩标不同字母表示差异显著（ $P { < } 0 . 0 5$ )，无字母或字母相同表示差异不显著（ $P { > } 0 . 0 5$ )。下表
+
+同。
+
+Values in the same column with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference（ $P { > } 0 . 0 5$ ）.The same as below.
+
+# 2.3粗饲料概略养分含量与消化率的相关关系
+
+粗饲料概略养分含量与消化率的相关性分析结果见表5。粗饲料中DM、OM、CP、GE、NDF 消化率与DM、OM、CP、NDF、ADF含量均达到显著或极显著相关 $. P { < } 0 . 0 5$ 或 ${ \cal P } { < } 0 . 0 1$ )，与 EE含量无显著相关性（ $( P { > } 0 . 0 5 )$ 。
+
+Table 5Correlation coefficient between common nutrient contents and nutrient digestibility of roughages   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">消化率Digestibility</td></tr><tr><td>干物质</td><td>有机物</td><td>粗蛋白质</td><td>总能</td><td>中性洗涤纤维</td></tr><tr><td></td><td>DM</td><td>OM</td><td>CP</td><td>GE</td><td>NDF</td></tr><tr><td>干物质DM</td><td>0.390*</td><td>0.382*</td><td>0.553*</td><td>0.762**</td><td>0.548*</td></tr><tr><td>有机物OM</td><td>0.586*</td><td>0.572*</td><td>0.596*</td><td>0.703**</td><td>0.784**</td></tr><tr><td>总能GE</td><td>0.748**</td><td>0.676**</td><td>0.750**</td><td>0.932**</td><td>0.820**</td></tr><tr><td>粗蛋白质CP</td><td>0.728**</td><td>0.721**</td><td>0.866**</td><td>0.887**</td><td>0.672**</td></tr><tr><td>中性洗涤纤维 NDF</td><td>-0.872**</td><td>-0.852**</td><td>-0.913**</td><td>-0.823**</td><td>-0.815**</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>-0.686**</td><td>-0.645**</td><td>-0.793**</td><td>-0.883**</td><td>-0.699**</td></tr><tr><td>粗脂肪 EE</td><td>0.026</td><td>0.108</td><td>0.006</td><td>-0.018</td><td>0.039</td></tr></table></body></html>
+
+\*表示显著相关（ $_ { . } { \cal P } { < } 0 . 0 5$ )，\*\*表示极显著相关（ $_ { . } { \cal P } { < } 0 . 0 1$ )。表7同。
+
+\*meant significant correlation（ $_ { _ { P < 0 . 0 5 } ) }$ ，\*\* meant significant correlation（ $P { < } 0 . 0 1 \ \cdot$ ）.Thesame as Table7.
+
+为进一步通过概略养分含量来预测粗饲料营养物质消化率，根据相关性的分析结果，将粗饲料概略养分分别与DM、OM、GE、CP、NDF 的消化率进行回归分析。建立概略养分含量预测粗饲料消化率的方程（表6)，可以看出NDF是干物质消化率（DMD）、有机物消化率（OMD）、蛋白质消化率（CPD）、能量消化率（ED）、中性洗涤纤维消化率（NDFD）的预测方程中的重要因素，还可以看出多元预测方程式的决定系数（ $R ^ { 2 }$ ）较高，ED的五元方程式， $R ^ { 2 }$ 达到0.974。
+
+表5粗饲料概略养分含量与消化率的相关关系  
+表6概略养分含量（%）预测粗饲料营养物质消化率（%）的方程  
+Table 6Prediction equations for nutrient digestibility $( \%$ ）using common nutrient contents $( \% )$ ）of roughage   
+
+<html><body><table><tr><td>项目 Items</td><td>预测方程 Prediction equation</td><td>决定 系数 R²</td><td>P值 P-value</td></tr><tr><td>干物质消</td><td>DMD=87.906-0.573NDF</td><td>0.760</td><td><0.001</td></tr><tr><td>化率</td><td>DMD=37.773-0.451NDF+2.477GE</td><td>0.787</td><td><0.001</td></tr><tr><td>DMD</td><td>DMD=28.237-0.644NDF+4.140GE-0.626CP</td><td>0.833</td><td><0.001</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>有机物消</td><td>OMD=91.324-0.590NDF</td><td>0.725</td><td><0.001</td></tr><tr><td>化率</td><td>OMD=96.464-0.132CP-0.648NDF</td><td>0.728</td><td><0.001</td></tr><tr><td>OMD 粗蛋白质</td><td>CPD=121.043-1.012NDF</td><td>0.834</td><td><0.001</td></tr><tr><td>消化率</td><td>CPD=96.559-0.734NDF+0.636CP</td><td>0.853</td><td><0.001</td></tr><tr><td>CPD</td><td></td><td>0.873</td><td><0.001</td></tr><tr><td></td><td>CPD=101.551+0.252CP-0.699NDF+0.733GE-0.380ADF ED=-98.799+8.426GE+0.735CP</td><td>0.924</td><td><0.001</td></tr><tr><td>能量消化</td><td></td><td>0.974</td><td></td></tr><tr><td>率ED</td><td>ED=99.013+9.588GE+0.157CP-0.457ADF-1.981OM-0.213NDF</td><td>0.973</td><td><0.001</td></tr><tr><td></td><td>ED=104.933+9.986GE-0.482ADF-2.060OM-0.258NDF</td><td></td><td><0.001</td></tr><tr><td>中性洗涤</td><td>NDFD=-144.113-0.389NDF+2.375OM</td><td>0.771</td><td><0.001</td></tr><tr><td>纤维消化 率NDFD</td><td>NDFD=-110.266+1.308OM-0.318NDF+3.395GE NDFD=-37.883+8.141GE-0.688NDF-1.112CP</td><td>0.800 0.878</td><td><0.001 <0.001</td></tr></table></body></html>
+
+2.4粗饲料DE和ME与概略养分含量的相关关系
+
+粗饲料DE 和ME与概略养分含量的相关性分析结果见表7。粗饲料DE 和ME与DMOM、GE、CP含量均达到极显著正相关（ $_ { . } P { < } 0 . 0 1 \$ ，与NDF、ADF含量达到极显著负相关（ $P { < } 0 . 0 1 \$ )，而与EE含量无显著相关性（ $( P { > } 0 . 0 5 )$ 。
+
+Table 7Correlation coefficient between DE or ME（ $\mathrm { \langle M J / k g \rangle }$ ）and common nutrient contents $( \% )$ of roughages   
+
+<html><body><table><tr><td>项目Items</td><td>干物质</td><td>有机物</td><td>总能</td><td>粗蛋白质</td><td>中性洗涤</td><td>酸性洗涤</td><td>粗脂肪</td><td>消化能</td><td>代谢能</td></tr><tr><td>■</td><td>DM</td><td>OM</td><td>GE</td><td>CP</td><td>纤维 NDF</td><td>纤维ADF</td><td>EE</td><td>DE</td><td>ME</td></tr><tr><td>干物质DM</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>有机物OM</td><td>0.770**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总能GE</td><td>0.762** 0.801**</td><td>0.816** 0.667**</td><td>1 0.802**</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质CP 中性洗涤纤维 NDF</td><td>-0.567**</td><td>-0.66**</td><td>-0.709**</td><td>-0.873**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>酸性洗涤纤维ADF</td><td>-0.853**</td><td>-0.715**</td><td>-0.801**</td><td>-0.769**</td><td>0.729**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>粗脂肪EE</td><td>-0.205</td><td>0.134</td><td>0.126</td><td>-0.207</td><td>0.088</td><td>0.200</td><td>1</td><td></td><td></td></tr><tr><td>消化能DE</td><td>0.766**</td><td>0.813**</td><td>0.860**</td><td>0.913**</td><td>-0.940**</td><td>-0.886**</td><td>0.112</td><td>1</td><td></td></tr><tr><td>代谢能ME</td><td>0.778**</td><td>0.806**</td><td>0.886**</td><td>0.918**</td><td>-0.927**</td><td>-0.897**</td><td>0.114</td><td>0.997**</td><td>1</td></tr></table></body></html>
+
+根据本试验10 种粗饲料能值与其概略养分含量进行逐步回归分析，建立常见10 种粗饲料能值预测方程见表8。从方程式可见，单用NDF预测DE 和ME 的预测方程 $R ^ { 2 }$ 均达到0.85以上。多元回归方程式的预测值更接近于实测值。
+
+表7粗饲料DE和ME（ $\mathbf { M J } / \mathbf { k g }$ ）与概略养分含量 $( \% )$ 的相关关系  
+表8概略养分含量 $( \% )$ 预测粗饲料DE 和 $\mathbf { M E ( M J / k g ) }$ 的方程  
+Table 8Prediction equations for DE and ME $( \mathrm { M J / k g } )$ using common nutrient contents $( \% )$ of roughages $\scriptstyle \overbrace { n = 6 0 }$ 0   
+
+<html><body><table><tr><td>项目Items</td><td>预测方程Prediction equation</td><td>决定 系数 R²</td><td>P值 P value</td></tr><tr><td rowspan="2">消化能DE</td><td>DE=25.106-0.257NDF</td><td>0.883</td><td><0.001</td></tr><tr><td>DE=16.960-0.165NDF+0.212CP</td><td>0.919</td><td><0.001</td></tr></table></body></html>
+
+DE=-42.614+0.634OM+0.170CP-0.123NDF 0.839 <0.001  
+DE $\scriptstyle = .$ -13.202-0.139NDF-0.121ADF+0.314OM+0.407GE+0.38CP 0.993 <0.001  
+ME=20.450-0.206NDF 0.859 <0.001  
+ME=-33.840-0.156NDF+0.565OM 0.926 <0.001  
+代谢能 ME ME=-31.002-0.097NDF+0.474OM+0.154CP 0.953 <0.001  
+ME=-6.943-0.101NDF+0.704GE-0.101ADF+0.138OM+0.032CP 0.994 <0.001  
+ME=0.221+0.812DE 0.994 <0.001  
+165 将本试验得到的ME与概略养分含量相关关系的三元方程  
+166 ME=-31.002-0.097NDF+0.474OM+0.154CP 和五元方程  
+167 ME=-6.943-0.101NDF+0.704GE-0.101ADF+0.138OM+0.032CP与本试验条件下依托套算法所  
+168 得的ME 进行比较，结果见表9。可以看出，由ME的三元方程得出的玉米秸秆、羊草、全  
+169 株玉米青贮、玉米秸秆青贮、苜蓿、地瓜秧、豆秸、花生秧、小麦秸秆、稻草秸秆的 ME  
+170 预测值与套算法测定值之间偏差分别为- $. 1 . 8 5 \%$ 、 $- 7 . 3 4 \%$ 、 $0 . 1 4 \%$ 、 $- 7 . 8 5 \%$ 、 $0 . 7 1 \%$ 、 $1 . 1 8 \%$ 、  
+171 $1 5 . 3 1 \%$ 、 $- 1 . 9 2 \%$ 、 $- 0 . 7 3 \%$ 、 $- 6 . 5 0 \%$ ，而采用五元预测方程得到的ME与套算法测定值之间偏  
+172 差分别为 $. 4 . 4 2 \%$ 、 $- 3 . 5 4 \%$ 、 $6 . 6 6 \%$ 、 $- 0 . 6 8 \%$ 、 $0 . 4 1 \%$ 、 $1 . 0 6 \%$ 、 $4 . 6 0 \%$ 、 $1 . 5 7 \%$ 、 $5 . 7 1 \%$ 、 $- 3 . 6 7 \%$ 。  
+173 与套算法测定值之间偏差，五元ME 预测方程除个别略高于三元ME预测方程外，偏差整体  
+174 较低，预测值更接近于套算法测定值。
+
+表9粗饲料ME预测值与套算值的比较  
+Table 9Comparison between predicted value and substitution value of ME   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">套算值 Substitution value/(MJ/kg)</td><td colspan="2">三元方程 Three elements equation</td><td colspan="2">五元方程 Five elements equation</td></tr><tr><td>预测值 Predicted</td><td>与套算值偏差 Deviation with</td><td>预测值 Predicted</td><td>与套算值偏差 Deviation with</td></tr><tr><td>玉米秸秆 CS</td><td>4.96</td><td>value/(MJ/kg) 4.87</td><td>substitution value/% -1.85</td><td>value/(MJ/kg) 4.75</td><td>substitution value/% -4.42</td></tr><tr><td>羊草LC</td><td>7.02</td><td>6.54</td><td>-7.34</td><td>6.78</td><td>-3.54</td></tr><tr><td>全株玉米青贮WPCS</td><td>7.29</td><td>7.30</td><td>0.14</td><td>7.81</td><td>6.66</td></tr><tr><td>玉米秸秆青贮CSC</td><td>5.91</td><td>5.48</td><td>-7.85</td><td>5.87</td><td>-0.68</td></tr><tr><td>苜蓿AH</td><td>9.77</td><td>9.84</td><td>0.71</td><td>9.81</td><td>0.41</td></tr><tr><td>地瓜秧 SPV</td><td>8.41</td><td>8.51</td><td>1.18</td><td>8.50</td><td>1.06</td></tr><tr><td>豆秸 SS</td><td>4.15</td><td>4.90</td><td>15.31</td><td>4.35</td><td>4.60</td></tr><tr><td>花生秧 PV</td><td>6.89</td><td>6.76</td><td>-1.92</td><td>7.00</td><td>1.57</td></tr><tr><td>小麦秸秆 WS</td><td>4.13</td><td>4.10</td><td>-0.73</td><td>4.38</td><td>5.71</td></tr><tr><td>稻草秸秆 RS</td><td>5.08</td><td>4.77</td><td>-6.50</td><td>4.90</td><td>-3.67</td></tr></table></body></html>
+
+177 3讨论
+
+# 3.1粗饲料消化率与概略养分含量的关系
+
+饲粮中各营养物质的消化率是评定其营养价值的重要参数，影响消化率的因素很多，主要是动物、饲粮组成、饲粮的加工调制、饲养水平等。任何一种粗饲料的消化率与利用率均是动物与饲料因素相互作用的结果[15]。分析本试验条件，除了基础饲粮中替代的部分，其他部分均可视为一致，因此消化率的差异的主要原因是原料概略养分的不同造成的：比如CP 含量，苜蓿和地瓜秧中的含量较高，其CP 消化率显著地高于其他几种低质的作物秸秆;本试验结果证实NDF 含量影响营养物质的消化率，饲粮中随着 NDF 含量增加，其OMD下降[16]，可能的原因是纤维水平的提高，使蛋白质在消化道中的排空速度也在加快，这无疑也降低了其被酶作用的时间以及被肠道吸收的几率。就饲料因素而言，不同品种饲料，或同种饲料不同产地、不同收获期、不同加工处理等均会导致消化率出现较大的差异[7]。已有研究表明，消化率与饲粮营养物质含量之间存在着显著的回归关系[18-21]。而 Menke 等[22]早在1979 年提出人工瘤胃产气法，表明样品 $\mathrm { G P } _ { 2 4 \mathrm { ~ h ~ } }$ 与体内消化率测定值之间呈正相关关系，刘洁[10]采用精粗比不同的11种饲粮得到饲粮有机物体外消化率（IVOMD）与 $\mathrm { G P } _ { 2 4 \mathrm { h } }$ 的关系为： $\mathrm { I V O M D } { = } 8 . 8 0 3 { + } 1 . 1 9 7 \mathrm { G P } _ { 2 4 }$ h（ $R ^ { 2 } { = } 0 . 8 9 4$ ）；与NDF含量的预测模型为：IVOMD=88.578-0.734NDF（ $R ^ { 2 } { = } 0 . 9 2 1$ ）；本试验中得到OMD预测模型为OMD=91.324-0.590NDF（ $R ^ { 2 } { = } 0 . 7 2 5$ )。本试验中 $\mathrm { D M D { = } 8 7 . 9 0 6 { \ - } 0 . 5 3 7 N D F }$ （ $R ^ { 2 } { = } 0 . 7 6 0 \dot { }$ 。而前人建立起主要以体外法(产气法)测定的参数(产气量、消化率)为预测因子的模型[23]，使用体外法所得的参数，由于试验方法本身就无法保证跟瘤胃真实内环境一致，所以方程的精准性可质疑。另外鲜有的以体内法实测有效能值建立的这些配合饲粮有效能值预测模型，未必适于生产配合饲粮的原料。因此本试验中依托套算法，分析了原料中营养物质消化率与其含量的相关关系，发现各营养物质消化率与概略养分含量相关性较强的3个因子分别是：DMD为原料中 NDF、CP、GE 含量，OMD 为NDF、CP、GE 含量，CPD 为NDF、CP、ADF含量，GED 为GE、CP、ADF 含量，NDFD为GE、NDF、OM。各营养物质消化率与其 DM、OM、CP、GE 含量成极显著正相关关系，而与NDF、ADF 成极显著负相关关系。
+
+# 3.2粗饲料能值与概略养分含量的关系
+
+动物为能而食，评定粗饲料的有效能值费时费力是一个复杂困难的过程，由于每一种原料所含营养物质含量的差异，导致其有效能值不同，而对于肉羊来说，由于其采食的粗饲料种类多样化和胃肠道特殊的结构，使得反刍动物粗饲料有效能值评定较于单胃动物来说更为复杂，而目前普遍采用的利用饲粮中养分含量预测饲粮有效能值这一方法，由于构建模型选用的预测因子的合理性保证了预测模型的客观性和可靠性，因此这一方法较为有效快捷，适用于实际生产中[24-26]。对于单一粗饲料有效能值的预测多是采用体外参数与营养物质含量建立的预测模型[7]。何亭漪[9利用体外产气测定粗饲料的产气量，预测其DOM 和 ME。孙献忠[27应用两级离体法测定了粗饲料的DE、ME，表明原料中营养物质含量与DE、ME 存在明显的相关性，利用组合效应指数校正的原料能值预测方程比配合饲粮的预测方程的准确性高。陶春卫[8研究表明，ME 来评定粗饲料的价值结果与概略养分评定和IVDMD 评定并不相同，可能由于ME 受到GE 和IVDMD2方面的影响，以致不同粗饲料的GE、IVDMD与 ME 并不是同步变化的。De Boever 等[28]发现ADF 含量与体内OMD有关。本试验条件下根据套算法的原则配制试验饲粮，借助 Sable 密闭呼吸箱式循环气体代谢系统，测定10 种肉羊常用粗饲料的ME。本试验结果除了羊草、首蓿、花生秧比袁翠林等[29]采用两级离体消化法估算所得的原料的DE 和 ME 高外，其余均较低。在营养价值评定中，体内法直接测定，真实可靠，是校准其他方法结果的唯一方法，本试验采用的是体内法，能够真实反映饲料在动物体内的参加消化代谢的过程。试验中通过物质消化代谢试验和气体代谢，客观地测定出概略养分含量和能量的消化与代谢，得到实际测定的能量值。在反刍动物方面利用体内法建立的能量预测模型研究较少，近年来刘洁等[23]通过测定11种不同精粗比饲粮营养物质消化率和有效能值，并进行有效能值与概略养分含量的线性回归分析，建立了配合饲粮ME 的预测模型，预测方程为：ME（MJ/kg）=50.245-0.136NDF-0.394OM-0.012CP( $R ^ { 2 } { = } 0 . 9 0 1 \$ )。Noblet等[30]研究表明，饲粮所建立的预测方程并不适用于单一原料。本试验中建立的ME 预测五元方程式：ME（MJ/kg）=-6.943-0.101NDF+0.704GE-0.101ADF+0.138OM+0.032CP， $R ^ { 2 }$ 达到0.994，足以说明这一预测模型的可靠性；与ME 相关性最高的预测因子亦为 NDF，预测方程为：ME（MJ/kg）=20.450-0.206NDF( $R ^ { 2 } { = } 0 . 8 5 9 )$ 。另建了用 DE 预测 ME 的预测方程,$\scriptstyle \mathbf { M E = } 0 . 2 2 1 + 0 . 8 1 2$ DE $R ^ { 2 } { = } 0 . 9 9 4$ ）不难看出方程常数项较小，可认为DE 转化为ME 的效率约是0.81，而与NRC（2007）[1中 $\scriptstyle \mathrm { M E = } 0 . 8 2 \mathrm { D E }$ 相比较，虽然DE 前面的系数有所偏差，但加上常数，其结果与0.82DE十分接近。通过与 NRC 的比较，侧面验证了本试验所建立预测方程的客观准确性。
+
+4结论
+
+$\textcircled{1}$ 可以通过概略养分预测粗饲料营养物质消化率，ED的预测方程为：  
+ED(%)=99.013+9.588GE+0.157CP-0.457ADF-1.981OM-0.213NDF( $R ^ { 2 } { = } 0 . 9 7 4$ ， $\scriptstyle n = 6 0$ A $P { < } 0 . 0 1$ ）。$\textcircled{2}$ 可以通过概略养分预测粗饲料有效能值。随着预测因子的增加，方程精确性有所提  
+高， ME 的预测方程为：ME (MJ/kg L  
+=-6.943-0.101NDF+0.704GE-0.101ADF+0.138OM+0.032CP（ $R ^ { 2 } { = } 0 . 9 9 4$ ， $\scriptstyle n = 6 0$ ， $P { < } 0 . 0 1$ ）。  
+参考文献:  
+[1]赵明明,杨开伦,邓凯东,等.直接法与替代法测定羊草对肉用绵羊代谢能的比较研究[J].动物营养学报,2016,28(2):436-443.  
+[2]NRC.Nutrient requirementsofswine[S].11th ed.Washington,D.C.:National AcademyPress,2012.  
+[3] 桓宗锦.肉鸡玉米和豆粕净能的测定及其预测模型的建立[D].硕士学位论文.雅安:四川农业大学,2009.  
+[4] 李婷婷.玉米 DDGS 营养价值预测模型研究[D].硕士学位论文.北京:中国农业科学院,2013.  
+[5] 刘德稳.生长猪常用七种饲料原料净能预测方程[D].博士学位论文.北京:中国农业大学,2014.  
+[6] HUANG Q,SHI C X,SU Y B,et al.Prediction of the digestible and metabolizable energycontent of wheat miling by-products for growing pigs from chemical composition[J].Animal FeedScience and Technology,2014,196:107-116.  
+[7]张吉鹃.粗饲料消化率及其代谢能转化效率的研究进展[J].浙江畜牧兽医,2004(2):6-8.[8]陶春卫.反刍动物常用粗饲料营养价值评定及其有效能值预测模型的建立[D].硕士学位论文.大庆:黑龙江八一农垦大学,2009.  
+[9] 何亭漪.不同粗饲料在绵羊瘤胃和体外降解规律的研究及代谢能数学预测模型的建立[D].硕士学位论文.呼和浩特:内蒙古农业大学,2013.  
+[10]刘洁.肉用绵羊饲料代谢能与代谢蛋白质预测模型的研究[D].博士学位论文.北京:中国农业科学院,2012.  
+[11] NRC.Nutrient requirementsof small ruminants:sheep,goats,cervids,and newworldcamelids[S].Washington,D.C.:National Academy Press,2007.  
+[12] 张丽英.饲料分析及饲料质量检测技术[M].北京:中国农业大学出版社,2010.  
+[13] 杨嘉实,冯仰廉.畜禽能量代谢[M].北京:中国农业出版社,2004.  
+[14] ADEOLA O.Digestion and balance techniques in pigs[M]/LEWIS A J,SOUTHERN LL.Swine nutrition.2nd ed.Washington,D.C.:CRC Press,2001:903-916.  
+[15]张吉鹃,邹庆华,包赛娜.反刍动物饲料间消化道层次的组合效应及其调控[J].饲料与畜牧,2009(4):26-30.  
+[16]杨凤.动物营养学[M].北京:中国农业出版社,2000.  
+[17]邓卫东,席冬梅,毛华明.云南省反刍家畜主要饲料营养价值评价[J].黄牛杂志,2002,28(1):23-27.
+
+[18] ADESOGAN A T,OWEN E,GIVENS D I.Prediction of the in vivo digestibility of whole crop wheat from in vitro digestibility,chemical composition,in situ rumen degradability,in vitro gas productionandnearinfrared reflectancespectroscopy[J].Animal Feed Scienceand Technol0gy,1998,74(3):259-272.
+
+[19] NOUSIAINEN J,RINNE M,HELLAMAKI M,et al.Prediction of the digestibility of primary growth and regrowth grass silages from chemical composition,pepsin-celllase solubility and indigestible cell wall content[J].Animal Feed Science and Technology,2003,110(1/2/3/4):61-74. [20] AMMAR H,LOPEZ S,GONZALEZ J S,et al.Seasonal variations in the chemical composition and in vitro digestibility of some Spanish leguminous shrub species[J].Animal Feed Science and Technology,2004,115(3/4):327-340.   
+[21] OWENS F N,SAPIENZA D A,HASSEN A T.Effect of nutrient composition of feeds on digestibilityoforganicmattrbycattle:areview[J].JournalofAnimal Science,2010,88(Suppl.13):E151-E169.   
+[22] MENKE K H,RAABA L,SALEWSKI A,et al.The estimation of the digestibility and metabolizable energy content of ruminant feedingstuffs from the gas production when they are incubated with rumen liquor in vitro[J].The Journal of Agricultural Science,1979,93(1):217-222. [23] 刘洁,刁其玉,赵一广,等.肉用绵羊饲料养分消化率和有效能预测模型的研究[J].畜牧兽医 学报,2012,43(8):1230-1238.   
+[24] THERIEZ M,CASTRILLO C,VILLETTE Y.Influence of metabolizable energy content of the diet and of feeding level on lamb performances II.Utilization of metabolizable energy for growth and fatening[J].Livestock Production Science,1982,9(4):487-500.   
+[25] DEAVILLE E R,HUMPHRIES D J,GIVENS D 1.Whole crop cereals:2.Prediction of apparent digestibility and energy value from in vitro digestion techniques and near infrared reflectance spectroscopy and of chemical composition by near infrared reflectance spectroscopy[J].Animal Feed Science and Technology,2009,149(1/2):114-124.   
+[26] LOSADA B,GARCIA-REBOLLAR P,ALVAREZ C.et al.The prediction of apparent metabolisable energy content of oil seeds and oil seed by-products for poultry from its chemical components,in vitro analysis or near-infrared reflectance spectroscopy[J].Animal Feed Science and Technology,2010,160(1/2):62-72.
+
+[27] 孙献忠.羊常用饲草的能量价值评定及其组合效应研究[D].硕士学位论文.北京:中国农
+
+业科学院,2007.   
+[28] DE BOEVER JL,COTTYN B G,DE BRABANDER D L,et al.Prediction of the feeding value of maize silages by chemical parameters,in vitro digestibility and NIRS[J].Animal Feed Science and Technology,1997,66(1/2/3/4):211-222.   
+[29] 袁翠林,于子洋,王文丹,等.豆秸、花生秧和青贮玉米秸间的组合效应研究[J].动物营养学 报,2015,27(2):647-654.   
+[30] NOBLET J,PEREZ JM.Prediction of digestibility of nutrients and energy values of pig diets from chemical analysis[J].Journal of Animal Science,1993,71(12):3389-3398   
+Prediction and Equation of Effective Energy Values of Common Roughages for Muton Sheep ZHAO Mingming1,2 YANG KailunlMA Tao² MA Junnan² MAO Jianhong² ZHAO Jiangbo²DENG Kaidong³DIAO Qiyu1.2\*   
+(1. College of Animal Science, Xinjiang Agricultural University, Urumqi 830o52, China; 2. Feed Research Institute, Chinese Academy of Agricultural Sciences, Key Laboratory of Feed Biotechnology of the Ministry of Agriculture, Beijing 10o081, China; 3. College of Animal Science, Jinling Institute of Technology, Nanjing 210038, China)   
+Abstract: This study aimed to investigate the effects of common nutrient contents determined by on effective energy values and digestibility of 10 roughages commonly used for mutton sheep,and develop prediction equations for metabolizable energy（ME） and nutrient digestibility based on common nutrient contents.Nutrients digestibility，digestible energy（DE） and ME of 10 roughages were measured in digestion and metabolism trial and gas metabolism trial using substitution method. The optimal prediction paramteters were selected and equations for effective energy values were established based on the results of common nutrient contents and digestibility, DE and ME. The results showed as follows: there weresignificant diferences of nutrient digestibility and effective energy values among the 1O roughages $( P { < } 0 . 0 5 )$ . Digestibility of dry matter (DM), organic matter (OM), gross energy (GE), crude protein (CP) and neutral detergent fiber (NDF) were positively related to contents of DM, OM, GE and CP $( P { < } 0 . 0 1 )$ ), but negatively related to contents of NDF and acid detergent fiber (ADF) $( P { < } 0 . 0 1 )$ . DE and ME had positive relationship with contents of DM, OM, GE and CP $( P { < } 0 . 0 1 )$ ，but were negatively related to contents of NDF and ADF ( $\scriptstyle ( P < 0 . 0 1 )$ ). These results indicate that the nutrient digestibility could be
+
+predicted based on common nutrient contents,and the equation for energy digestibility (ED) is as follows: ED(%)=99.013+9.588GE+0.157CP-0.457ADF-1.981OM-0.213NDF( $R ^ { 2 } { = } 0 . 9 7 4$ ， $n { = } 6 0$ $P { < } 0 . 0 1 \$ ). The effective energy values can be predicted based on common nutrient contents,with the increase of predictor number, prediction equation accuracy improves,and the equation for ME is as follows: ME(MJ/kg) $\scriptstyle 1 = .$ -6.943-0.101NDF+0.704GE-0.101ADF+0.138OM+0.032CP( $R ^ { 2 } { = } 0 . 9 9 4$ （20 $\scriptstyle \mathrm { n = 6 0 }$ $P { < } 0 . 0 1$ ） Key words: metabolizable energy; mutton sheep; roughage; prediction equation

@@ -1,0 +1,255 @@
+# 厌恶情绪与自杀行为的关系
+
+肖婷炜」董洁」梁飞」王福顺」李洋²(1.四川师范大学脑与心理科学研究院，四川成都，610066)
+
+(2.南京市森林警察学院心理学系，江苏南京，210023)
+
+摘要自杀导致人类死亡的人数与日俱增，然而自杀的心理机制却并不清楚。最近研究发现，厌恶情绪是导致自杀的主要情绪因素，个体因为自身厌恶而走向自杀。厌恶情绪是一种对自己和他人排泄物等反感的基本情绪，促进个体远离毒性和疾病，从而产生"免疫行为”。许多心理问题来自于对周围人或事物的厌恶，有自杀行为的个体对自身极其厌恶，说明他们的厌恶情绪出现了问题。如同躯体免疫攻击自身一样，自身厌恶是自杀意念的关键因素，早年创伤是其根源，生活压力和精神疾病参与其中。厌恶诱发自杀意念的神经基础与 HPA 轴和五羟色胺系统有关。未来研究可利用神经影像和电生理等神经科学技术，检验自杀行为的神经机制，探讨厌恶情绪影响自杀行为的心理和神经机制。
+
+关键词厌恶情绪，死亡本能，基本情绪，抑郁，自杀行为
+
+# 1引言
+
+自杀是全世界死亡和残疾的主要原因之一，据统计，全球每年约有 70.3万人死于自杀。事故死亡是人类死亡的主要原因，而自杀死亡事件占事故死亡事件的三分之一(WHO,2021)。自杀是年轻人死亡的主要原因，这严重危害到人类社会的生命安全和心理健康。
+
+自杀行为(suicidal behavior)包括自杀意念(suicidal ideation)、自杀企图(suicidal attempt)和自杀(suicide)。自杀意念是指有严重的自杀想法，准备进行一种致命的、自我导向的、潜在的伤害性行为，意图死亡，但没有具体计划；自杀企图是想自杀、考虑自杀，或计划自杀，其意图是希望通过伤害身体而获得关注，但不一定会造成实际伤害(Klonsky et al.,2016)；而自杀是指实施自我导向的伤害行为并造成死亡。一般来说，自杀与绝望、冲动和抑郁症相关(Lutz et al.,2017;Ypsilanti et al.,2019)，许多研究也都认为自杀的主要原因是抑郁症；然而抑郁情绪是持续性的低落与悲伤心境，会表现出萎靡不振，很难产生自杀企图。根据弗洛伊德攻击本能和死亡本能(death instinct)的理论(Freud,1920; Pedder,1992)，自杀是一种本能，是一种自我导向的攻击性行为，是一种强烈的冲动或内部驱动力从而导致自杀的实施。那么，影响自杀行为的主要心理机制是什么呢？
+
+厌恶(disgust)是Ekman 提出的六种基本情绪中研究最少的一种情绪，但是，近来越来越多的研究发现，厌恶情绪在我们的生活中以及许多心理疾病中起到非常重要的作用。最近研究发现，许多心理问题是由患者对周围人和环境的厌恶情绪引起，而且厌恶情绪也与自杀有关(Hu et al.,2021; Schienle et al.,2020)。厌恶是一种对令人恶心、反感的事物的情绪反应(Ekman,1992)，也是一种行为防御机制，可以通过促进远离和避免变质的食物或其他污染物来抵御潜在的疾病、病毒和污染(Oaten et al.,2018)。厌恶情绪包括原始厌恶和道德厌恶，前者是对机体排泄物（大小便、呕吐物、溃烂等)的味觉、嗅觉或视觉发生作用的核心厌恶(coredisgust)；后者为对违背社会伦理道德的性行为等的反感。道德厌恶(moral disgust)是厌恶的高级形式，表现为与他人交互产生的社会厌恶(socialdisgust)。这就意味着，厌恶不仅对摄食行为有批评作用，对人际交往也有批评作用(Vicario et al.,2017; Stevenson et al.,2019)。以往研究发现，社会排斥和厌恶情绪是自杀行为的核心(Courtet&Olie,2019)，而且厌恶情绪导致的负面人际关系和关系冲突又会增加自身厌恶(Till et al.,2017; Caceda et al.,2020)。那么作为对社会交往有决定作用的厌恶情绪，在诱发自杀行为中的作用如何呢?
+
+本文对近年来的厌恶情绪影响自杀行为的研究以及厌恶情绪和自杀行为的神经基础研究进行系统归纳，并联系弗洛伊德的"死亡本能"探讨厌恶情绪对自杀行为的影响。希望借助近年来的实证研究论证该理论观点，并通过厌恶情绪诱发自杀行为的心理机制试图为弗洛伊德的"死亡本能"理论提供支持；并提出厌恶（死本能）和喜悦（生本能）的效价模型，为基本情绪与自杀关系的研究提供新颖的视角。
+
+# 2自杀行为理论
+
+国内外有关自杀行为的研究颇多，并提出了一些假说(相关综述见杜睿，江光荣,2015)，比如自杀的人际关系理论、自杀行为的动机-意志整合模型、自杀的三阶段理论等。这些假说大多是建立在意念-行动框架(ideation-to-action framework)上，该框架把自杀意念和自杀企图分开为两个发展阶段，认为它们有着截然不同的情绪原因和预测因子。但是自杀意念和自杀企图都和厌恶情绪有关。
+
+# 2.1自杀的人际关系理论
+
+Joiner(2005)提出了自杀的人际关系理论(Interpersonal Theory of Suicide,ITS)(Joiner et al.,
+
+2016)。该理论认为累赘感和未满足的归属感是自杀意念的主要原因。累赘感(perceivedburdensomeness)指视自己为他人的负担，其维度包括责任感知和自我厌恶等(Van Orden et al.,2010)。未满足的归属感(thwarted belongingness)指与社会群体的疏远感和恶化的联系，其维度包括孤独和缺乏关怀，体现为自我报告的孤独感、朋友较少、独居、家庭不完整、社交退缩和家庭冲突(Van Orden etal.,2010)。该理论假设，当累赘感和未满足的归属感出现时，自我厌恶情绪增强，自杀意念就会出现；在具备自杀能力的条件下，排除了死亡畏惧，产生致命的自杀行为(见图 1a)。
+
+后来，Becker及其同事(2020)检验了自杀的人际关系理论中的负担感、归属感和死亡无畏之间的三方交互作用，结果与理论假设一致：低水平归属感和高水平负担感及死亡无畏呈正相关。此外，未满足的归属感和累赘感诱发的极度厌恶情绪会增加自杀意念。Chu等人(2013)结合自杀的人际关系理论，提出对生活的厌恶可能会导致累赘感和未满足的归属感，且二者都与自杀欲望有关(Joiner et al.,2005; Van Orden et al.,2010)。Wong 等人(2020)基于自杀的人际心理理论，根据自残的想法和行为(self-injurious thoughts and behaviors)将自杀风险分为三类：低自杀想法且无企图、中度自杀意念以及严重自杀想法和高水平的自残行为。综上所述，未满足的归属感和累赘感所诱发的自我厌恶，能够诱发自杀欲望，是产生自杀意念的重要原因。
+
+# 2.2自杀的动机-意志整合模型
+
+O'Connor 和Kirtley(2018)提出了动机-意志整合模型(IntegratedMotivational-VolitionalModelof Suicidal Behavior,IMV)，将自杀行为分为三个阶段：前动机阶段、动机阶段和意志阶段。(1)前动机阶段包括厌恶情绪诱发出自杀意念；首先是挫败或厌恶情绪发展为受困，然后受困萌生自杀意念。(2)动机阶段，该阶段是自杀意念和意图的成熟阶段，动机调节因子与厌恶的人际关系相互作用是该阶段的重要特点；(3)意志阶段，自杀意念转变为自杀企图/自杀死亡；该阶段是自杀实施阶段，意志调节因子在其中起到重要作用，包括对死亡的无畏和增加的身体疼痛耐受性(O'Connor& Kirtley,2018; Li et al.,2021)(见图1b)。该理论以素质-压力模型为基础，认为某些素质(Diatheses，包括生物或基因的易感因素，以及认知脆弱性因素所导致的个体差异特征)和压力(包括环境及负性生活事件)是自杀的主要风险因素。
+
+该理论得到了一些实验的验证，比如Li等人(2021)检验中国青少年的IMV，发现挫败与受困显著相关，挫败、未满足的归属感和累赘感均与自杀意念显著相关，自杀意念与自杀企图显著相关。然而没有发现对疼痛的耐受性和对死亡的无畏与自杀企图之间的相关性，这一点与前人研究结果相一致(Ren et al.,2019)。国外研究也验证了IMV 模型动机阶段的这一结果(Lucht et al.,2020; Rasmussen et al.,2019)。由此可见，生物或基因的易损因素和认知脆弱性导致个体的厌恶敏感性提高，对于来自负性生活事件和环境的压力感到更加的挫败和厌恶，以及对人际关系失去信心，发展为受困状态，从而增加自杀风险。
+
+# 2.3自杀的三阶段理论
+
+Klonsky 及其同事(2016)提出了自杀的三阶段理论(Three-Step Theory of Suicide,3ST),这是一个最新的自杀理论。类似于动机-意志整合模型，该理论也将自杀行为分为三步：第一步，当自身厌恶达到一定程度时会导致痛苦(pain)和绝望(hopelessness)，痛苦（尤其是心理痛苦）和绝望交互作用产生自杀意念；第二步，当自身厌恶波及社会联结（即，与能让人活下去的目标感和意义感的社会联结，包括人、工作、角色、兴趣等）时，对这些联结产生厌恶，自杀意念强烈；第三步，在具备自杀能力的情况下，强烈自杀意念会得到实施而自杀(杨丽等,2018)(见图1c)。
+
+后来，Klonsky与May(2015)利用美国成人样本的横断面研究验证了三阶段理论，结果表明自杀意念是由厌恶导致的痛苦和绝望交互作用产生的，而自杀能力可以通过自杀意念而诱发自杀。Yang 等人(2019)检验了中国大学生样本，也发现了心理痛苦(psychological pain)和绝望在预测自杀意念方面具有相互作用，为中国背景下预防自杀的有效性提供了初步证据。另外，Oaten 等人(2015)也发现，厌恶会导致痛苦敏感性的增加；类似地，英国大学生样本的研究结果与上述一致(Dhingra et al.,2019)。而且，精神病患者的实验结果也证实了自杀三阶段理论(Tsai et al.,2021)。总之，三阶段理论具有强有力的数据支持，而厌恶情绪主要是在理论中的第一步起作用，极度的厌恶会产生痛苦和绝望。
+
+# 2.4 小结
+
+综上所述，自身厌恶是自杀意念形成的关键因素。具体来说，由于个体感受到负担和压力，从而感觉挫败和自我厌恶，最后达到绝望（极度自我厌恶），产生自杀意念；在具备自杀能力（如对死亡的无畏、对疼痛的耐受性等）的条件下，转变为自杀企图；最后自杀行为就发生了。
+
+![](images/eee94d2a56a1b79858a7140d5bb36c4868be9b318564fa41f343b1102c0a34c1.jpg)  
+图1自身厌恶作用在自杀行为理论中的图示：a.自杀的人际理论；b.动机-意志整合模型；c.自杀的三步理论
+
+# 3厌恶情绪对自杀意念的诱发
+
+厌恶情绪能够诱发自杀意念。Hom及其同事(2019)对美国大学生调查发现，对他人的厌恶、对周围环境的厌恶，是自杀意念的主要原因。Schienle 等人(2020)发现厌恶情绪与社会支持呈负相关，与逃避应对呈正相关，而逃避应对又与自杀呈正相关。反过来，有自杀意念的个体表现出较高的厌恶情绪和自我憎恨，而且主动的自杀意念比被动的自杀意念表现出更高的厌恶情绪和自我憎恨(Szanto etal.,1996)。厌恶情绪可能是自杀意念的主要原因，那么厌恶情绪是如何诱发自杀意念的呢？
+
+从进化的角度来说，厌恶情绪是抵御疾病、病毒和污染的基本情绪，具有远离毒性和疾病的作用。厌恶情绪的原始刺激物是自身的排泄物（如屎尿、呕吐物等）。厌恶情绪通过调节人的许多行为，起到清理排泄物、保持卫生健康的作用。我们认为，如果厌恶情绪泛化，不能把自身和厌恶物分开，就如同自身免疫，会导致心理问题(Curtis,2011; Cox et al., 2020),比如饮食障碍等(Anderson et al.,2021;Ozkan et al.,2021)。有人提出行为免疫系统(behavioural immune system)这个概念来描述这个现象，认为该系统是检测体内病原体，然后动员免疫、杀死或以其他方式消除这些致病性入侵者的生理反应(Schaller,2011; Schaller et al.,2015),具有行为反应性(reactive)。那么，作为"行为免疫"的厌恶情绪如何诱发自杀意念的呢?
+
+# 3.1早年创伤是厌恶情绪诱发自杀意念的根源
+
+最近研究显示，厌恶情绪诱发自杀意念可以追本溯源到童年心理创伤。童年创伤是影响自杀自伤的早期经验因素(胡诗琪，乔冬冬,2021)，而童年创伤往往伴随着厌恶情绪(Dyer etal.,2015)，早年创伤事件构成的自我厌恶会介导精神疾病的发生(Simpson et al.,2020)，例如神经性厌食症(anorexia nervosa,AN)，以厌恶诱导的回避为机制解释 AN 患者持续和过度的食物限制(Glashouwer,&de Jong,2021)，这说明自我厌恶情绪可能萌芽于个体早期，比如来自于扶养人的抛弃等巨大心理创伤，这些情绪会影响成人的自杀意念，通过自杀理论的三种路径，再发展到自杀企图和自杀。
+
+# 3.2生活压力参与厌恶情绪诱发自杀意念
+
+研究发现，生活压力诱发的厌恶情绪也是自杀意念形成的影响因素。由于生活压力导致的绝望(杜睿，江光荣,2015; Klonsky et al.,2016; Wolfe et al.,2019)、心理痛苦(Courtet & Olié,2019)、焦虑(Klonsky et al.,2016)、抑郁(钱淑红 等,2020; Lutz et al.s,2017)、失眠(Akram et al.,2019;Hom et al.,2019)和冲动性(冯岩，唐秋萍,2013;Lazuras et al.,2018)等因素会诱发厌恶情绪，从而导致自杀意念。研究证明，自我厌恶和自卑(self-contempt)与核心抑郁症状（即绝望和不足感）最为密切(Zahn etal.,2015)，自我厌恶和自卑都能预测自杀行为。Ypsilanti等人(2018)研究发现，与正常睡眠者相比，失眠者自我厌恶的得分较高，焦虑和抑郁水平也增加。Ypsilanti 等人(2019)还证明了自我厌恶在孤独和抑郁症状之间起着重要作用，他们认为自我厌恶代表了一种情感机制，使孤独感发展为抑郁症状。至于冲动性，则是影响自杀实施的一个人格特质因素，高冲动个体具有更强的攻击性，更容易习得自杀能力，且致死性更高(冯岩，唐秋萍,2013)。不仅如此，冲动性对自我厌恶也有直接影响，冲动性高的人容易产生后悔情绪，因而产生自我厌恶(Lazuras er al.,2018)。
+
+此外，目前文献认为生活压力诱发的行为异常，包括饮食失调、人际敏感、社交焦虑、精神质、强迫症等心理问题与厌恶情绪存在一定相关(Chesney et al.,2014; Ile et al., 2014;Chu et al.,2015; Aristotelidou et al.,2021)，也可能这些心理问题来自于对自己和周围人的厌恶情绪(Aristotelidou et al.,2021; Christensen & Lewis,2021)。根据自杀的人际关系理论及其相关研究，对他人和对自己的厌恶会造成心理负担、情绪和功能失调(Powell et al.,2013)，因此产生自杀意念和自杀行为。
+
+# 3.3精神疾病参与厌恶情绪与自杀意念的关系
+
+厌恶情绪还能增强精神障碍与自杀意念的关系，例如，Chu等人(2015)发现，在高水平的自我和环境厌恶情绪中，厌恶情绪加强了饮食障碍(eatingdisorder)与自杀意念的关系。此外，对厌恶情绪的认知也能够增强自杀企图。Richard-Devantoy 及其同事(2013)研究表明，明确的厌恶认知可能与自杀的易感性有关。反过来，自杀企图的次数也会对厌恶认知产生负面影响。与自杀相关的所有精神疾病中，双相情感障碍的自杀率最高，大约是一般人群的
+
+20-30 倍(Miller＆ Black,2020)，Iakimova 等人(2016)发现具有自杀企图史的双相情感障碍患者表现出厌恶识别能力下降，反应时间延长，这与前人研究结果相一致(Demirel etal.,2014)。这可能是因为:有自杀意念的人对周围厌恶事物的厌恶情绪下降，反而对自身厌恶水平增加。的确如此，高强度的自我厌恶被证明是精神疾病最相关的自杀风险预测因子(Schienle etal.,2020)。例如，林琳等人(2019)基于ITS 的研究发现，高强度厌恶情绪能够正向预测自杀风险。Brake 等人(2017)检验了自我厌恶作为创伤后应激障碍(posttraumatic stress disorder,PTSD)症状与自杀风险之间的假定机制，结果发现PTSD症状的自我厌恶程度与自杀风险呈正相关，包括对自己行为的厌恶和对他人的厌恶。Hu等人(2021)拍摄了130名大学生向自杀企图者提出自杀预防建议的视频，并分析其微表情，结果发现，对自杀企图者给予意见时表现出的厌恶情绪强度和厌恶表情，可以预测自杀企图者自杀的风险。
+
+总之，自身厌恶会增强自杀意念，同时也会增强心理疾病和其他精神障碍的自杀风险，比如，急性自杀性情感障碍(acute suicidal affective disturbance,ASAD)的主要症状就有累赘感、对他人和自我的厌恶等(Rogers et al.,2019)，这从另一个角度证明了自杀行为与厌恶情绪的关系，也支持了自杀的人际关系理论。
+
+# 3.4厌恶情绪和自杀行为的精神分析解析
+
+1920 年，弗洛伊德在其后期名作《超越唯乐原则》提出一个即使现在看来仍令人十分惊异的假设，这便是“死亡本能"理论。在此之前，尽管弗洛伊德的生本能（性本能）理论和唯乐原则假设已经足够惊世骇俗，而“死亡本能"理论涉及的则是一个貌似难以接受的难题。弗洛伊德(1920)认为人存在两种原始的本能，一个是生本能(life instinct)，也叫性本能，一个是死亡本能(death instinct)，也叫自我本能。死亡本能是一种具有初级攻击性(primaryaggression)的死亡驱力(death drive)。
+
+虽然弗洛伊德从没有把死亡本能理论发展得像求生本能理论那样完整，但这一理论仍然是他理论中的一个重要部分。弗洛伊德认为生本能必定和死本能同行，而且为死本能服务。弗洛伊德引用叔本华(Schopenchauer)的话来说：“所有生命的目标都是死亡”。我们认为生本能和死亡本能就像情绪坐标轴的横轴（效价），右侧代表生理需要、代表生本能；左侧代表代表厌恶情绪(图2)。厌恶情绪可以根据厌恶的方向分为两种：对自我的厌恶和对他人的厌恶，这与前人的理论和研究一致(Akram et al.,2019;Clarke et al.,2019; Chu et al.,2013)对自我的厌恶还可以细分为：对自身的厌恶和对自己行为的厌恶(Brake et al.,2017)，对他人的厌恶可以延申为对世界的厌恶(Homet al.,2019)。厌恶情绪也是一种具有进化适应性的生理过程，因此从某种程度上来说也是一种本能。
+
+同样，弗洛伊德认为死本能就是一种攻击驱力，这一点和厌恶情绪类似，目的就是驱逐令人讨厌的事物 (Akram et al.,2019; Clarke et al.,2019; Lazuras et al.,2018; Brake et al.,2017;Ille et al.,2014)。厌恶情绪具有距离原则：对自己距离近的厌恶就会越大；和自己相似相近的厌恶大；比如人对同类的大小便比对小鱼的大小便更为厌恶。由此可得，厌恶情绪和死亡本能的作用一样，死亡本能会表现出侵犯或者自毁，当它指向外部时，会导致对他人的攻击、仇恨、谋杀等；当指向个人自身内部时，会出现自毁现象，如自虐、自残，甚至自杀。因此，弗洛伊德认为死亡本能是具有破坏性的行为，残酷、自杀、谋杀以及攻击都是死亡本能驱使的，死亡本能的终极目的是走向死亡，因为那里才有真正的平静。只有在死亡——这个最后的休息时刻，个人才有希望完全解除紧张和挣扎。平常所谓的攻击驱力，可以说就是死亡本能的衍生物。
+
+厌恶情绪诱发攻击行为，目的是杀死令人讨厌的事物(Chu et al.,2013)。如果这个攻击的对象是自己，也就是死亡本能。厌恶情绪最原始的刺激物是自身的排泄物（比如大小便、呕吐物)，其次是同类或近似物种的排泄物；然后是对这些排泄物的厌恶泛化（generalization)，比如（马桶）的或者类似的东西（呕吐物类似的），最后引申为所有让人不舒服的东西（比如丑的、噪音的）。我们认为，厌恶情绪起始于对自身排泄物的厌恶，过度泛化会导致对自身的厌恶，从而导致自杀。由此可知，厌恶作为一种基本情绪，具有进化的适应性，但是当厌恶情绪指向自己本身时，尤其是在人际关系不良、低归属感、高负担感和对死亡无畏的情况下，进化的适应性倒向"劣汰"法则，与死本能的最终目的相符。弗洛伊德的死本能也叫攻击本能、破坏本能，是一种与生俱来的，要摧毁秩序、回到前生命状态的冲动。弗洛伊德之后，巴塔耶、拉康、德勒兹、波德里亚、齐泽克等人都曾对“死亡本能"理论进行过各自的开掘与发扬，足见其在后世影响之深，可是都没有能够清楚解释死亡本能的原因。我们认为厌恶情绪对自杀行为的诱发可能与细胞免疫反应类似，如同"自身免疫"攻击自身一样，指向自己本身的厌恶情绪会攻击自己，成为一种自我伤害行为。
+
+![](images/018a9e790f402145804629dfabd73d8b1edef778a959944ffe5d0882260ae6be.jpg)
+
+# 4厌恶情绪诱发自杀意念的神经证据
+
+诱发自身厌恶的情绪可能会受到早年不良应激、当今心理问题和精神问题的影响，这些不良应激可以导致前扣带回和杏仁核等脑区以及五羟色胺系统发育不良(Gu et al.,2016; Guet al.,2018;Gu etal.,2019)，从而容易诱发自身厌恶情绪从而导致自杀意念。
+
+# 4.1HPA轴系统
+
+下丘脑-垂体-肾上腺(hypothalamic-pituitary-adrenal gland,HPA)轴的兴奋可以促进应激激素皮质醇和肾上腺素的释放。皮质醇(cortisol)是一种类固醇激素，是为应对压力而分泌，促进唤醒和注意力(Turecki,2014)。因此 HPA 轴诱发皮质醇和交感神经兴奋释放肾上腺素是一种应激反应。早期生活逆境动物模型表明，早期生活的压力事件以及压力引起的情绪唤醒，可能导致皮质醇分泌亢进和焦虑情绪的发展(Wanner et al.,2012; Turecki,2014;Liang et al,2021)。大量研究表明皮质醇过多会增强自杀行为，比如Jokinen 和Nordstrom(2009)采用的地塞米松抑制试验(dexamethasone suppression test)研究发现自杀者的血清皮质醇水平显著高于无自杀企图者，这表明HPA轴活动过度会提高自杀行为，结合厌恶情绪对压力和痛苦的影响，HPA轴分泌的皮质醇应该是厌恶情绪诱发自杀意念中起到非常重要作用的神经递质。
+
+# 4.2五羟色胺系统
+
+五羟色胺(5-hydroxytryptamine,5-HT)系统异常是抑郁症病人的最主要病因。儿童时期的不良应激可能是这种异常的主要原因，从而决定了成年后的应激反应模式，包括自杀。抑郁、冲动性攻击和自杀均可能来自于五羟色胺系统异常，包括眶前额叶皮质(orbital refrontalcortex)和前扣带(anterior cingulate)等脑区(Mann,2013)。其中原因可能是五羟色胺系统的功能障碍，从而诱发自杀或厌恶情绪基础(Arango et al.,2002)。在成年人中，前额叶皮质(PFC)的 5-HT 能神经元活性降低，被认为是容易自杀的关键神经生物学特征(Picouto et al.,2015;Van Heeringen&Mann,2014)。无数实验证明，增强五羟色胺可以治疗抑郁症和对抗自杀(Paul& Lowry,2013; Schmaal et al.,2020; Belujon & Grace, 2014; Hahn et al.,2014)；但是根据 Ren等人(2018)对大鼠释放五羟色胺的功能研究，五羟色胺可能有镇静和促睡眠的作用。
+
+# 4.3 血清素
+
+血清素和五羟色胺是同一个物质，前者在外周，后者在中枢。血清素(serotonin)最早是从血清中发现的，广泛存在于哺乳动物组织中。根据自杀-压力素质模型，血清素功能障碍可以被假设为自杀行为的稳定特征标记(Pfeffer,2001)。血清素水平低都与成人自杀行为有关(Chatzittofis etal.,2013)。外周血细胞和血小板已被用作中枢五羟色胺神经活动的神经探针，以及作为确定抑郁情绪和自杀意图的方法。低血小板与抑郁症、精神病和创伤后应激障碍成年患者的自杀行为有关(Kovacic etal.,2008)，这与之前自杀患者血小板中 5-HT2A 受体数量高于非自杀患者和对照组的发现一致(Pandey etal.,1995)。人体内 $9 5 \%$ 的血清素是由消化道分泌的，其主要功能是导致胃肠道痊挛，从而产生恶心呕吐的厌恶行为。由此可知，血清素和厌恶情绪也密不可分。
+
+# 4.4催产素
+
+催产素(Oxytocin)是一种在分娩、哺乳和依恋中起作用的神经肽(Parris et al.,2018)，由下丘脑视上核(supraoptic nucleus)、室旁核(paraventricular nucleus)和内侧视前核(medialpreoptic nucleus)的神经元产生的，神经元投射到大脑的各个部位(Jahangard et al.,2020; Mitreet al.,2016)。催产素可以降低对威胁性社会刺激的厌恶反应和社会回避(张霞 等,2021)，且女性比男性更明显(Ille et al.,2016; Lazuras et al.,2018; Kavaliers et al.,2019)。岛叶皮层通过催产素受体的活动介导对社会情感刺激的趋近和回避(Rogers-Carter et al.,2018)，因此，催产素水平过高，可能与正面的人际关系有关(Parris et al.,2018)。Massey 等人(2016)发现，较高的催产素浓度与孕妇较低的抑郁症症状相关，而与男性更明显的抑郁症症状相关。然而，Chu 等人(2020)却发现社会排斥导致的催产素减少，与过去的自杀企图有关，与目前的抑郁症症状无关，这与前人研究一致(Parris etal.,2018)。另外研究发现催产素浓度/水平与自杀意念有关，比如 Jahangard 等人(2020)研究发现，与健康对照组相比，自杀未遂者的血清催产素浓度明显较低；在整个样本中，自杀意念得分越高，血清中催产素浓度越低。Lebowitz及其同事(2018)检验原发性焦虑障碍青少年的唾液催产素水平发现，高催产素水平青少年的同伴负面社会互动和自杀意念之间的联系更强。
+
+综上所述，血清素和催产素不仅会影响自杀意念，而且也影响厌恶情绪的加工和表达(Vicario et al.,2017; Kavaliers et al.,2019)。自杀意念的神经机制包括 HPA 轴与五羟色胺神经递质系统，相关脑区有：前额叶皮层(prefrontal cortex,PFC)、前扣带回皮层(anterior cingulatecortex,ACC)、杏仁核(amygdala)、海马(hippocampus)、中缝核(nucleus raphe)、蓝斑(locuscoeruleus,LC)和眶额叶皮层。同时，厌恶加工的主要脑区有脑岛(insula)和基底神经节(basal ganglia)，相关脑区还有前扣带回和杏仁核(黄好 等,2010)。因此，二者重叠的脑区前扣带回和杏仁核等 -可能是厌恶情绪影响自杀行为的脑区，HPA 轴与五羟色胺神经递质系统则在影响自杀行为的过程中起到对厌恶的应激反应作用。
+
+# 5总结与展望
+
+# 5.1从基本情绪的角度探讨厌恶与悲伤的关系
+
+作为六种基本情绪之一的厌恶情绪，一直以来少受人关注，最新研究发现，许多心理问题都可能来自于对周围人或事物的厌恶(Aristotelidou et al.,2021; Christensen&Lewis,2021)。这个厌恶情绪发生的机制可能就是弗洛伊德的死亡本能，会引起一种指向某些黑暗的、具有破坏性的行为，诱发他杀或者自杀的行为。与抑郁和自杀行为有关的基本情绪中，不仅有厌恶，还有悲伤。悲伤(sadness)是一种常见的情感，会影响身心悲伤有时也可以被描述为一种心理痛苦，伴随着额外的孤独、痛苦、抑郁、焦虑、悲伤。厌恶同样具有适应功能，然而自我厌恶是一种病理表现，也会伴随着心理痛苦。由此看来，Ekman 提出的六种基本情绪中，悲伤和厌恶可能是同一种基本情绪的演化。
+
+此外，心理学家通常认为抑郁与悲伤有关，Power和Dalgleish (2008)假设自我厌恶和悲伤结合可能产生典型的抑郁现象，后续得到相关研究的验证(Overton et al.,2008)，厌恶情绪诱导的回避可能导致持续的负面身体评价(Spreckelsen etal.,2018)，负面评价会让人感受到失败和挫折以及悲伤等负面情绪，负面情绪与自杀意念和自杀企图呈正相关(Zhang et al,2017)。当社交出现不适应的时候，人就可能会对自我或他人/世界感到厌恶，并出现悲伤的情绪，两者结合产生抑郁，通过自我厌恶到自杀意念、再到自杀企图的途径，最后实施自杀。
+
+# 5.2从死亡本能的角度探讨厌恶诱发自杀的机制
+
+死亡本能和死亡驱力由弗洛伊德提出的驱力二元论，包括(在超越快乐原则的时候)生命驱力(life drive,Eros)和死亡驱力(death drive,Thanatos)。它们类似于情绪效价坐标的两个极端：生本能和厌恶本能。厌恶情绪诱发的攻击行为可能就是死亡本能的一个体现(O'Connor,2016)。弗洛伊德提出的第一个原则是快乐原则，它解释了我们的心身生活的动力学，也就体现了情绪效价的右侧坐标。弗洛伊德提出的死亡本能可能代表情绪坐标的左侧，是厌恶情绪的极致，它体现了人对自己和世界的厌恶和逃避。弗洛伊德认为人死亡的目的是从有机生命回归无机状态，他认为死亡是解脱，即死亡驱力代表个体对连贯性和真理的渴望的现实原则的起源。弗洛伊德死亡本能经常成功地将自我推向死亡。这就好比一个完美主义者，通过清洁自己的污秽，从而使自己达到完美。这表明，越是追求完美的人，越有可能因为不完美而产生自我厌恶的情绪，并被蕴含自我毁灭力量的死亡本能所摧毁。因此，自我厌恶可能激发超我的死亡本能(自我毁灭的欲望)，从而导致自杀，那么在这一过程中，是否存在一种神经机制产生
+
+死亡本能的动力也是一个值得研究的问题。
+
+# 5.3研究展望
+
+厌恶情绪的分类有多种，不同类型的厌恶情绪都会增加自杀行为和自杀风险，并且伴随失眠、焦虑、抑郁以及其他精神障碍症状，其心理机制可能与自杀行为的理论相符合：由于先天易感性，个体感受到负担和压力，感觉挫败和痛苦，从而产生自我厌恶，最后达到绝望，在具备自杀能力的条件下，就很有可能实施自杀。根据自杀行为的神经机制和厌恶情绪的相关脑区进行推测，前扣带回和杏仁核等脑区以及HPA轴与五羟色胺神经递质系统很有可能是厌恶情绪影响自杀行为的神经机制的一部分。
+
+目前的自杀研究还存在一些局限性。首先，目前大多数研究尚局限于横断面设计，无法比较时间因素，因此，未来研究可以采用纵向设计和前瞻性研究，验证以往的路径分析等模型结果，比如追踪自杀企图者的厌恶情绪水平和自杀意念以及自杀企图程度的变化，这可能有助于理解从自杀意念到自杀企图的过程。其次，由于大多数研究局限于问卷相关性研究，未来的研究设计也应该尝试整合心理学和脑科学等多个领域，通过神经影像和电生理技术，检验自杀行为的神经机制，并探索厌恶情绪影响自杀行为的神经机制。
+
+# 参考文献
+
+杜睿，江光荣.(2015).自杀行为：影响因素、理论模型及研究展望．心理科学进展,23(8),1437-1452.   
+冯岩，唐秋萍.(2013).冲动性与自杀行为关系的研究进展．国际精神病学杂志,40(01),35-38.   
+胡诗琪，乔冬冬.(2021).童年创伤与非自杀性自伤相关性的研究现状．精神医学杂志,33(5),397-400.   
+黄好，罗禹，冯廷勇，李红.(2010)．厌恶加工的神经基础．心理科学进展,18(09),1449-1457.   
+李升伟，凯瑟琳·奥福德.(2020)．自杀行为的神经生物学．世界科学,2020(06),20-23.   
+林琳，何海平，刘羽，杨洋，莫娟婵，王晨旭，刘拓.(2019).负性情绪对自杀危险的影响：自伤行为的中介作用. 黑龙江高教研究,37(05),83-87.   
+钱淑红，张克峰，段一鑫.(2020).大学生非自杀性自我伤害与冲动性和抑郁症状的关系．中国心理卫生杂志， 34(11), 945-949.   
+杨丽，陈欣，安莉.(2018).意念-行为框架下的自杀三阶段理论．中国临床心理学杂志,026(001),94-99.   
+张霞，雷怡，王福顺.(2021).催产素、孕激素和雌激素对厌恶加工的影响及其神经生理机制．心理科学进展, 30(1),85-97.   
+Akram,U.,Ypsilanti,A.,Drabble,J.,&Lazuras,L. (2019).Theroleofphysicaland behavioral self-disgust inrelation to insomnia and suicidal ideation.Journal of Clinical Slep Medicine: JCSM: Oficial Publication ofthe American Academy of Sleep Medicine, 15(3), 525-527.   
+Anderson,L.M.,Berg,H.,Brown,T.A.,Menzel,J.,&Reily,E.E.(2021). The role of disgust in eating disorders. Current Psychiatry Reports, 23(2), 4.   
+Arango,V.,Underwood,M.D.,&Man,J.J.(o2).Serotoninbraincircuits involved inmajordepressionandsuicide. Progress in Brain Research, 136, 443-453.   
+Arias,J.A., Willams,C.,Raghvani,R.,Aghajani,M.,Baez,S.,Belzung,C.,..Kemp,A.H. (202O).The neuroscience of sadnes: A multidisciplinary synthesis and collaborative review. Neuroscience and Biobehavioral Reviews,11, 199-228.   
+Aristotelidou, V.,Tsatali, M.,Overton,P. G.,& Vivas,A.B.(2021).Autonomic factors do notunderlie the elevated self-disgust levels in Parkinson's disease.PloSone,16(9),e0256144. https://doi.org/10.1371/journal.pone.0256144   
+Becker,S.P.,Foster,J.A.,& Luebbe,A.M. (2020).A testof the interpersonal theoryof suicide incollege students. Journal of Affective Disorders, 260, 73-76.   
+Belujon，P.，Grace，A.A.(2014).Restoring mood balance in depresson:Ketamine reversesdeficit in dopamine-dependent synaptic plasticity. Biological Psychiatry, 76(12), 927-36.   
+Brake,C.A.,Rojas,S.M.,Badour,C.L.,Duton, C.E.,&Feldner,M.T.(2O17).Self-disgust as a potential mechanism underlying the association between PTSD and suicide risk. Journal of Anxiety Disorders, 47, 1-9.   
+Caceda,R.,James,G.A.,Stowe,Z.N.,Delgado,P.L.,Kordsmeier,N.,&Kilts,C.D.(202O).The neural corelatesof low social integration as a risk factor for suicide. European Archives of Psychiatry and Clinical Neuroscience, 270(5), 619-631.   
+Chatzitofis,A.,Nordstrom,P.,Helstrom,C.,Arver,S.,Asberg,M.,&Jokinen,J. (2013).CSF5-HAA,cortisoland DHEAS levels in suicide attempters. European Neuropsychopharmacology: The Journal of the European College of Neuropsychopharmacology, 23(10), 1280-1287.   
+Chesney,E., Goodwin, G.M.,& Fazel, S.(2014).Risks of al-cause and suicide mortality in mental disorders: a meta-review. World Psychiatry $\therefore$ Official Journal of the World Psychiatric Association (WPA), 13(2), 153-160.   
+Christensen,R.E.,& Lewis, M. (2021). The development of disgust and its relationship to adolescent psychosocial functioning. ChildPsychiatryand Human Development. Advance online publication. https://doi.0rg/10.1007/s10578-021-01208-4   
+Chu, C.,Bodel,L.P.,Ribeiro,J.D.,& Joiner, T.E. (2015).Eating disorder symptoms and suicidal ideation: The moderating role of disgust. European Eating Disorders Review $\therefore$ The Journal of the Eating Disorders Association, 23(6), 545-552.   
+Chu, C.,Buchman-Schmit,J.M.,Michaels,M.S.,Ribeiro,J.D.,&Joiner,T.(2013). Discussing disgust: Theroleof disgust with life in suicide. International Journal of Cognitive Therapy, 6(3),235-247.   
+Chu, C.,Hammock,E.,&Joiner,T.E. (2020).Unextracted plasma oxytocin levels decrease following in-laboratory social exclusion in young adults with a suicide atempt history. Journal ofPsychiatric Research,121,173-181.   
+Clarke,A.,Simpson,J.,& Varese,F. (20l9).Asystematicreviewof theclinical utilityof theconceptof self-disgust. Clinical Psychology & Psychotherapy, 26(1),10-134.   
+Courtet,P.,& Olie,E.(2019).La douleur sociale au centre desconduites suicidaires [Social pain atthe core of suicidal behavior]. L'Encephale, 45(Suppl. 1), S7-S12.   
+Cox,R.C., Jessup,S. C.,Luber,M.J.,& Olatunji, B.O.(2020). Pre-pandemic disgust proneness predicts increased coronavirus anxiety and safety behaviors: Evidence for a diathesis-stress model.Journal of Anxiety Disorders,76, 102315.   
+Curtis V.(2011). Why disgust maters.Philosophical Transactions of the Royal Society ofLondon. Series B,Biological sciences,366(1583), 3478-3490.   
+Demirel,H.,Yesilbas,D.,Ozver,I.,Yuksek,E.,Sahin,F.,Aliustaoglu,S.,&Emul,M.(O14).Psychopathyandfacial emotionrecognition ability in patients with bipolar afective disorder with or without delinquent behaviors. Comprehensive Psychiatry, 55(3), 542-546.   
+Dhingra,K.,Klonsky,E.D.,&Tapola, V. (2019).An empirical testof thethree-steptheory ofsuicidein U.K.university students. Suicide & Life-Threatening Behavior, 49(2),478-487.   
+Dyer,A.S.,Feldmann,R.E.,Jr,& Borgmann,E. (2015).Body-related emotions in postraumatic stress disorder following childhood sexual abuse. Journal of Child Sexual Abuse, 24(6), 627-640.   
+Ekman, P. (1992).An arugment for basic emotions. Cognitive and Emotion, 6(3-4),169-200.   
+Freud, S. (1920). Beyond the pleasure principle (Standard Edition 19). Vienna, London: Hogarth Press.   
+Gillespie W.H. (1971).Aggression and instinct theory.The International Journal of Psycho-Analysis,52(2),55-160.   
+Glashouwer,K.A.,&deJong,P.J. (2021).The revolting body self-disgust as a key factor inanorexia nervosa. Current Opinion in Psychology, 41, 78-83.   
+Gu, S., Jing,L.,Li,Y., Huang, J. H.,& Wang,F. (2018). Stress induced hormone and neuromodulator changes in menopausal depressive rats. Frontiers in Psychiatry, 9, 253.   
+Gu,S.,Wang,F., Cao, C., Wu,E.,Tang,Y.Y.,& Huang, J. H. (2019). An integrative way for studying neuralbasis of basic emotions with fMRI. Frontiers in Neuroscience,13, 628.   
+Gu,S.,Wang, W., Wang,F.,& Huang, J. H. (2016). Neuromodulator and emotion biomarker for stressinduced mental disorders. Neural Plasticity, 2016,2609128   
+Gunnell,D.,Appleby,L.,rensman,E.,Hawton,K.,John,A.,Kapur,N...COVID-19 Suicide Prevention Research Collaboration (2020). Suicide risk and prevention during the COVID-19 pandemic. The Lancet Psychiatry, 7(6), 468-471.   
+Hahn,A.,Haeusler,D.,Kraus,C.,Hoflich,A.S.,Kranz,G.S.,Baldinger,P.,..Lanzenberger,R.(2O14). Ateuated serotonin transporter association between dorsal raphe and ventral striatum in major depression. Human Brain Mapping, 35(8),3857-3866.   
+Hom,M. A.，Stanley,I. H., Chu,C.,Sanabria, M. M., Christensen,K.,Albury,E.A.，..Joiner,T.E.(2019).A longitudinal study of psychological factors as mediators of the relationship between insomnia symptoms and suicidal ideation among young adults. Journal of Clinical Sleep Medicine $\cdot$ JCSM $\therefore$ Official Publication of the American Academy of Sleep Medicine, 15(1), 55-63.   
+Hu, C.S.,Ji,J.,Huang,J.,Feng, Z., Xie,D.,Li,M.，..Wei,Z. (2021). Wiser reasoning and less disgust have the potential to better achieve suicide prevention. Crisis, 42(3),202-209.   
+Iakimova,G.，Moriano,C.，Farruggio,L.,& Jover,F.(2016). Socio-demographicand clinical correlates of facial expression recognition disorder in the euthymic phase of Bipolar patients. Canadian Journal of Psychiatry. Revue Canadienne de Psychiatrie, 61(10), 633-642.   
+Ie,R.,Schoggl, H., Kapfhammer, H.P.,Arendasy, M., Sommer, M.,& Schienle,A. (2014). Self-disgust in mental disorders-symptom-related or disorder-specific. Comprehensive Psychiatry, 55(4), 938-943.   
+Ille,R.,，Wolf,A.,Tomazic,P. V.,& Schienle,A. (2017). Hyposmia and disgust: Gender-specific effects. Chemical Senses, 42(6), 493-497.   
+Jahangard,L.,Shayganfard,M.,Ghiasi,F.,Salehi,I.,Haghighi,M.,Ahmadpanah,M...Brand,S.(2O20).Serum oxytocin concentrations in current and recent suicide survivors are lower than in healthy controls. Journal of Psychiatric Research, 128,75-82.   
+Joiner,T.E.,Hom,M.A.,Hagan,C.R.,& Silva, C. (2016).Suicide as a derangement ofthe self-sacrificial aspectof eusociality. Psychological review, 123(3),235-254.   
+Joiner,T.E.,Jr,Brown,J.S.,& Wingate,L.R.(2Oo5).The psychology and neurobiologyofsuicidal behavior.Annual Review of Psychology, 56,287-314.   
+Jokinen,J.，& Nordstrom,P. (2o09).HPAaxis hyperactivityand atempted suicide in young adult mood disorder inpatients. Journal of Affective Disorders, 116(1-2),117-120.   
+Jokinen,J.,Ouda,J.,& Nordstrom,P. (2010).Noradrenergic functionand HPAaxis dysregulationin sicidalbehaviour. Psychoneuroendocrinology, 35(10), 1536-1542.   
+Kato,T.A.,& Kanba,S.(2013).Are microglia minding us?Digging up the unconscious mind-brain relationship from a neuropsychoanalytic approach. Frontiers in Human Neuroscience, 7, 13.   
+Kavaliers, M.,Ossnkopp,K.P.,& Choleris,E. (2019).Social neuroscience of disgust. Genes, Brain,and Behavior; 18(1), e12508. htps://doi.org/10.111/gbb.12508   
+Klonsky,E. D.,& May, A. M. (2015). The three-step theory (3ST): A new theory of suicide rooted in the "ideation-to-action” framework. International Journal of Cognitive Therapy, 8(2), 114-129.   
+Klonsky,E.D., May,A. M.,& Safer,B.Y. (2016).Suicide,suicide atempts,and suicidal ideation. Annual Review of Clinical Psychology， 12, 307-330.   
+Kovacic,Z,Hengsberg,N.,Pivac,N.,Nedic,G.,&Borovecki,A. (208).Plateletserotoninconcentrationandsuicidal behavior in combat related postraumatic stress disorder. Progressin Neuro-Psychopharmacology & Biological Psychiatry, 32(2), 544-551.   
+Koyama T.(1998).A possble neurophysiological basis for psychological pain. Medical Hypotheses, 51(5),439-440.   
+Lazuras,L.,Ypsilianti,A.,Powell,P.,&Overton,P.G.. (O18).Therolesofimpulsivityself-regulation and emotion regulation in the experience of self-disgust. Motivation and Emotion, 43(2),145-158.   
+Lebowitz,E.R., Blumberg,H.P.,& Silverman, W. K. (2018). Negative peer social interactions and oxytocin levels linked to suicidal ideation in anxious youth. Journal of Afective Disorders, 245, 806-811.   
+Lerner, J. S.,Dahl,R.E.,Hariri,A.R.,& Taylor,S.E. (2O7).Facial expressions of emotionreveal neuroendocrine and cardiovascular stress responses. Biological Psychiatry, 61(2),253-260.   
+Li, X.,Ren,Y., Zhang,X., Zhou,J.,Su,B.,Liu,S.，. You,J. (221).Testing the integrated motivational-volitional model of suicidal behavior in Chinese adolescents. Archives of Suicide Research: Offcial Journal of the International Academy for Suicide Research, 25(3), 373-389.   
+Liang,F., Xu, Q.,Jiang,M.,Feng,R., Jiang,S., Yuan,B.,. Huang,J. H. (2021).Emotion induced monoamine neuromodulator release afects functional neurological disorders.Frontiers in Celland Developmental Biology， 9, 633048.   
+Lucht,L.,Hler,I,Forkmann,T.,Teismann,T.,Schonfelder,A.,ath,D.,..Glaesmer,H. (202).Validatioof the motivational phase of the integrated motivational-volitional model of suicidal behavior in a German high-risk sample. Journal of Affective Disorders, 274, 871-879.   
+Lutz,P.E.,Mechawar,N.,& Turecki, G. (O17). Neuropathologyof suicide: Recent findings and future directions. Molecular Psychiatry, 22(10),1395-1412.   
+Mann J. J. (2013). The serotonergic system in mood disorders and suicidal behaviour. Philosophical Transactions of the Royal Society ofLondon. Series B, Biological sciences, 368(1615),20120537.   
+Massey,S. H., Backes, K. A., & Schuete, S.A. (2016). Plasma oxytocin concentration and depressive symptoms: A review of current evidence and directions for future research. Depression and Anxiety, 33(4),316-322.   
+McQuaid,R. J.，McInnis, O. A.，Matheson,K.，& Anisman, H. (2016). Oxytocin and social sensitivity: Gene polymorphisms in relation to depressive symptoms and suicidal ideation. Frontiers in Human Neuroscience, 10. 358.   
+Miller, J. N.,& Black,D. W. (2020).Bipolar disorder and suicide: Areview. Current Psychiatry Reports, 22(2), 6.   
+Mitre M,MarlinBJ,Schiavo JK,Morina E,Norden SE,HackettTA,..FroemkeRC. (2016).Adistributed network for social cognition enriched for oxytocin receptors. The Journal of Neuroscience $\cdot$ The Official Journal of the Society for Neuroscience, 36(8), 2517-2535.   
+Oaten,M. J.,Stevenson,R.J,& Case,T.I. (2015). The effct of disgust on pain sensitivity. Physiology & Behavior, 138,107-112.   
+Oaten,M.,Stevenson,R.J.,Willams,M.A.,Rich,A.N.,Butko,M.,& Case,T.I. (2018). Moral violations and the experience of disgust and anger. Frontiers in Behavioral Neuroscience, 12, 179.   
+O'Connor B. (2016).Freud on the death drive as existence without tension. Psychoanalytic Review,103(3), 423-443.   
+O'Connor，R.C.，& Kirtley，O.J.(2018).The integrated motivational-volitional model of suicidal behaviour. Philosophical Transactions oftheRoyal Society ofLondon. Series B,Biological sciences,373(1754),20170268.   
+Overton,P.G.,Markland,F.E.,Taggart,H.S.,Bagshaw,G.L.,& Simpson,J. (2008).Self-disgust mediates the relationship between dysfunctional cognitions and depressive symptomatology. Emotion (Washington,D.C.)，8(3), 379-385.   
+Ozkan,i.,Taylan,S.,Adibelli,D.,& Yilmaz,F.T. (2021). Investigationoftherelationship between nursing students' disgust sensitivity and caring behaviours. Nurse Education in Practice, 54,103090.   
+Pandey,G.N.,Pandey,S.C.,Dwivedi,Y.,harma,R.P.,Janicak,P.G.,&Davis,J.M. (1995).Plateletserotoin-2A receptors: A potential biological marker for suicidal behavior. The American Journal of Psychiatry， 152(6), 850-855.   
+Parris,M.S., Grunebaum,M.F., Galfalvy,H.C.,Andronikashvili,A.,Burke,A.K., Yin,H.,..Mann,J.J.(2018). Attempted suicide and oxytocin-related gene polymorphisms. Journal ofAffective Disorders, 238, 62-68.   
+Paul,E.D.，& Lowry, C.A. (2013).Functional topography of serotonergic systems supports the Deakin/Graeff hypothesis of anxiety and aective disorders. Journal of Psychopharmacology (Oxford, England)，27(12), 1090-1106.   
+Pedder J. (1992). Psychoanalytic views of aggression: Some theoretical problems.The British Journal of Medical Psychology, 65(Pt 2), 95-106.   
+Pffer C.R. (20o1). Diagnosis of childhood and adolescent suicidal behavior: unmet needs for suicide prevention. Biological Psychiatry, 49(12),1055-1061.   
+Picouto,M.D.,Vilar,F.,& Braquehais,M.D.(2015).Theroleof serotonin inadolescent suicide: Theoretical, methodological,and clinical concerns.International Journal ofAdolescent Medicine and Health,27(2),129-133.   
+Powell,P. A., Simpson,J.,& Overton, P. G. (2013). When disgust leads to dysphoria: Athree-wave longitudinal study assessing the temporal relationship between self-disgust and depressive symptoms. Cognition & Emotion, 27(5), 900-913.   
+Powell,P.A.,Overton,P. G.,& Simpson,J. (2014).The revolting self: Aninterpretative phenomenologicalanalysis of the experience of self-disgust in females with depresive symptoms.Journal of Clinical Psychology， 70(6), 562-578.   
+Power,M.,& Dalgleish,T.(2008). Cognition and emotion: From order to disorder (2nd ed.). Hove, UK: Psychology Press.   
+Rasmussen,S., Cramer,R.J.,McFadden,C.,Haile, C.R.,Sime,V.L.,& Wilsey, C.N. (2019).Sexual orientation and the integrated motivational-volitional model of suicidal behavior: Results from a cross-sectional study of young adults in the United Kingdom. Archives of Suicide Research: Offcial Journal of the International Academy for Suicide Research, 25(3),439-457.   
+Ren,J.,Friedmann,D.,Xiong,J.,Liu, C.D.,Ferguson,B.R.,Weerakody,T...uo,L. (218). Anatomicallydeined and functionally distinct dorsal raphe serotonin sub-systems. Cell, 175(2), 472-487.   
+Ren,Y.,You,J.,Zhang, X.,Huang,J.,Conner,B.T.,Sun,R., Xu,S.,& Lin,M.P. (2019).Diferentiating suicide attempters from suicide ideators: The role of capability for suicide. Archives of Suicide Research: Offcial Journal of the International Academy for Suicide Research, 23(1), 64-81.   
+Richard-Devantoy,S.,Guilaume,S.,Olie,E.,Courtet,P.,&Jolant,F.(2Ol3).Altered explicitrecognitionoffacial disgust associated with predisposition to suicidal behavior but not depression. Journal of Affective Disorders, 150(2), 590-593.   
+Rogers,M.L.,Hom, M.A.,& Joiner,T.E. (2019).Diferentiating acute suicidal afective disturbance (ASAD) from anxiety and depression symptoms: A network analysis. Journal of Afective Disorders, 250,333-340.   
+Rogers-Carter MMet al. (2018). Insular cortex mediates approach and avoidance responses to social afective stimuli. Nature Neuroscience, 21(3), 404-414.   
+Risch,N., Oexle,N.，Thornicroft, G.， Keller,J.， Waller,C.， Germann,I.，,.. Zahn,R. (2019). Self-contempt asa predictor of suicidality: Alongitudinal study. The Journal ofNervous and Mental Disease, 207(12),1056-1057.   
+Schaller M. (2011). The behavioural immune system and the psychology of human sociality. Philosophical Transactions of the Royal Society ofLondon. Series B, Biological Sciences, 366(1583), 3418-3426.   
+Schaller,M.，Murray,D.R.，& Bangerter,A.(2015).Implications of the behavioural immune system for social behaviour and human health in the modern world. Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences, 370(1669),20140105.   
+Schienle,A.,Schwab,D.,Hofler,C.,& Freudenthaler, H.H. (2020). Self-disgust and itsrelationship with lifetime suicidal ideation and behavior. Crisis, 41(5), 344-350.   
+Schmaal,L.,vanHarmelen,A.L.,，Chatzi,V.,Lippard,E.,Toenders,Y.J.,Averil,L.A.,Blumberg,H.P.(2). Imaging suicidal thoughts and behaviors: A comprehensive review of 2 decades of neuroimaging studies. Molecular Psychiatry, 25(2), 408-427.   
+Simpson,J.,Helliwell,B., Varese,F.,&Powell,P. (2020).Self-disgust mediates therelationshipbetweenchildhood adversities and psychosis. The British Journal of Clinical Psychology, 59(2),260-275.   
+Spreckelsen,P.V.,Glashouwer,K.A.，Bennik,E.C.，Wessel,I,&de Jong,P.J.(2018).Negative body image: Relationships with heightened disgust propensity，disgust sensitivity,and self-directed disgust. PloS One,13(6), e0198532. https://oi.org/10.1371/journal.pone.0198532   
+Stevenson,R.J,Case,T..,Oaten,M.J.,Staford,L,&aluja,S.(19).Aproximalperspectiveondisgusmoton Review, 11(3),209-225.   
+Suzuki,H.,Ohgidani,M.,Kuwano,N., Chrétien,F.,Lorin de la Grandmaison,G.,Onaya,M.,..Kato,T.A.(2019). Suicide and microglia: Recent findings and future perspectives based on human studies. Frontiers in Celular Neuroscience, 13, 31.   
+Szanto,K.,Reynolds,C.F,Frank,E.,Stack,J.,Fasiczka,A.L,Millr,.,..Kupfer,D.J. (1996).Suicide inelderly depressed patients: Is active vs. passive suicidal ideation a clinically valid distinction?. The American Journal of Geriatric Psychiatry $\therefore$ Official Journal of the American Association for Geriatric Psychiatry, 4(3), 197-207.   
+Till,B.,Tran,U.S.,&Niederkrotenthaler,T.(017). Relationshipsatisfaction and risk factors forsuicide.Crisis,38(1), 7-16.   
+Tsai,M.,Lari,H.,Saff,S.,& Klonsky,E.D. (2021). Examining the three-steptheory (3ST)ofsuicide ina prospective study of adult psychiatric inpatients. Behavior Therapy, 52(3), 673-685.   
+Turecki G. (2014). The molecular bases of the suicidal brain. Nature Reviews. Neuroscience,15(12),802-816.   
+Van Heeringen, K.,& Mann,J.J.(20l4).The neurobiology ofsuicide. TheLancet Psychiatry,1(1),63-72.   
+Van Orden,K.A.Wite,T.K.,Cukrowicz,K.C.,Braithwaite,S.R.,Selby,E.A.,&Joiner Jr,T.E.(2010).The interpersonal theory of suicide.Psychological Review, 117(2),575-600.   
+Velkof,E.A.,Forrst,L.N.,Dod,D.R.,&Smith,A.R. (216).Ican stomach that!Fearlessnessaboutdeath predicts attenuated facial electromyography activity in response to death-related images. Suicide & Life-Threatening Behavior, 46(3),313-322.   
+Vicario,C.M.,Rafal,R.D.,Martino,D.,&Avenanti,A. (20l7).Core,social and moral disgust are bounded: Areview on behavioral and neural bases ofrepugnance in clinical disorders. Neuroscience and Biobehavioral Reviews， 80, 185-200.   
+Wanner,B.,Vitaro,F.,Tremblay,R.E.,&Turecki,G. (2Ol2).Childhood trajectoriesofanxiousnessand disruptiveness explain the association between early-life adversity and attempted suicide. Psychological Medicine, 42(11), 2373-2382.   
+WHO. (2021). Suicide worldwide in 2019: Global health estimates. Geneva: World Health Organization.   
+Wolfe,K.L.， Nakonezny，P.A.，Owen, V.J.,Rial, K.V.， Moorehead,A., Kennard,B.D.,& Emslie,G.J. (2019). Hopelessness as a predictor of suicide ideation in depressed male and female adolescent youth. Suicide and Life-Threatening Behavior, 49(1), 253-263.   
+Yang, L.,Liu,X., Chen,W.,& Li,L. (2019).Atest of the thre-step theory of suicide among Chinese people: A study based on the ideation-to-action framework. Archives of Suicide Research: Offcial Journal of the International Academy for Suicide Research, 23(4), 648-661.   
+Ypsilanti,A.,Lazuras,L.,Powell,P.,& Overton,P.(2019） Self-disgust asa potential mechanism explaining the association between loneliness and depression. Journal of Affective Disorders,243,108-115.   
+Ypsilanti, A.,Lazuras,L., Robson,A.,& Akram, U. (2018). Anxiety and depresion mediate the relationship between self-disgust and insomnia disorder. Sleep Health, 4(4), 349-351.   
+Zahn,R.,Lythe,K.E.,Gethin,J.A.,Green,S.,Deakin,J.F., Young,A.H.,& Moll,J. (2015). The roleof self-blame and worthlessness in the psychopathology of major depressive disorder. Journal of Afective Disorders，186, 337-341.   
+Zhang,X.,Ren, Y., You,J.,Huang, C.,Jiang, Y.,& Lin,M.P.,etal. (2017). Distinguishing pathways from negative emotions to suicide ideation and to suicide attempt: The diferential mediating effects of nonsuicidal self-injury. Journal of Abnormal Child Psychology， 45(8),1609-1619.
+
+# The relationship between disgust and suicidal behavior
+
+XIAO Tingwei1, DONG Jie1, LIANG Fei1, WANG Fushun1, LI Yang² (1.Institute of Brain and Psychological Science,Sichuan Normal University,Chengdu 61Oo66,China)
+
+(2.Department of Psychology,Nanjing Forest Police College,Nanjing,Jiangsu,210023)
+
+Abstract: The death number caused by suicide is increasing, but the psychological mechanism of suicide is not clear. Recent studies have found that disgust might be the major emotional factor leading to suicide, or the reason for people to commit suicide is due to self-disgust. Disgust is a kind of basic emotion that is induced by excreta from oneself or other people. Disgust works to keep the individual away from toxicity and disease, which can be called "immune behavior". Recently, it is found that many psychological problems are resulted from the disgust reactions to surrounding people or environment. Some studies have shown that individuals who commit suicide are very disgustful for themselves, indicating that their disgust emotion is problematic. Just as somatic autoimmunity atacks itself, disgust might lead to attacking behaviors against oneself or suicide. Self-disgust is the key factor of suicidal ideation, and early trauma is the root cause. Life stress and mental illness are involved in that disgust induced suicidal ideation. The neural basis of suicide induced by disgust is related to HPA axis and serotonin system. Future studies might apply neuroscience technologies, such as neuroimaging and electrophysiology, to examine the neural mechanism of suicidal behavior,and to explore the psychological and neural mechanisms of disgust affecting suicidal behaviors.
+
+Key word: disgust, death instinct, basic emotions, depression, suicidal behavior

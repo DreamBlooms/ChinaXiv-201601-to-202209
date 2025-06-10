@@ -1,0 +1,170 @@
+# 员工对企业社会责任的差异化反应：基于归因理论的阐释
+
+颜爱民1，李亚丽1，谢菊兰1\*，李莹1(1中南大学商学院，长沙410083）
+
+摘要企业社会责任归因是指个体对企业践行社会责任背后的动机进行主观推理和判断的过程与结果，也是影响企业社会责任发挥积极作用的关键因素。通过梳理以往研究，从个体、领导及组织三个层面总结了影响员工企业社会责任归因的因素，同时从社会交换和组织认同视角深入剖析企业社会责任归因对员工态度和行为的影响及作用机理。未来研究可以进一步明晰不同企业社会责任归因的独特影响因素与作用效果，基于归因理论探索企业社会责任归因的形成机制，同时研究多种因素对企业社会责任归因的影响，考察归因对企业社会责任公平启发机制的影响，并基于中国情境开展本土化研究。
+
+关键词 企业社会责任；归因理论；组织信任；组织认同
+
+# Differential responses of employees to corporate social responsibility: An interpretation based on attribution theory
+
+YAN Aimin'，LI Yali¹，XIE Julan，LI Yingl (School of Business，Central South University，Changsha 410083, China)
+
+Abstract: Corporate social responsibility (CSR) attributions refer to the processthrough which individuals make subjective judgmentsregardinga company’ s motivations for implementing CSR practices. CSR attributions are crucial for CSR practices to have their intended positive effects. We review the literature on CSR attributions in order to summarize the individual， leadership, and organizational factors influencing CSR attributions. In addition， from the perspectives of social exchange and social identity theories， the influence mechanisms of CSR attributions on employee attitudes and behaviors are discussed. We provide suggestions for future research including:(1） Clarify the unique antecedentsand outcomesofdifferent corporatesocial responsibility attributions；(2） Draw on attribution theory to explore the mechanisms through which CSR attributions are formed;(3） Explore how multiple factors influence CSR attributions at the same time; (4) Investigate how attributions influence CSR fairness heuristics; (5) Conduct localized research on CSR attributions in the Chinese context.
+
+Key words: Corporate social responsibility; Attribution theory; Organizational trust;Organizational identification
+
+21世纪以来，经济全球化进程快速加剧，其负面影响也日趋严重，企业社会责任已成为备受全社会关注的重要议题。早期对企业社会责任的研究多从宏观层面聚焦于企业社会责任对企业财务成果和非财务成果的影响[1,2.3]。近年来，越来越多的学者开始将研究焦点转向企业社会责任在员工层面的心理微观效应，逐步实现了由“宏观到微观”、由“外部利益相关者到内部员工”的转变。以往研究主要基于社会交换理论和组织认同理论探讨企业社会责任对员工的积极影响与作用机制[4,5]。基于社会交换理论的研究发现，组织践行社会责任可以使不同的利益相关者获益，有助于加强员工与雇主之间的互惠规范，提高员工的组织信任和组织支持感，进而促使员工产生更积极的态度与行为以回馈组织[5]。同时，基于组织认同理论的研究发现，组织积极践行企业社会责任有益于提高组织声望，从而增加员工的组织认同以满足其自我提升的需求，最终促使员工产生更为积极的态度和行为。然而，新近的研究发现企业社会责任并不总是能发挥积极作用。例如，有的研究发现企业社会责任可以促使员工产生更多的组织公民行为4，另外的研究却发现，企业社会责任与组织公民行为相关并不显著，甚至还可能会对员工的组织公民行为产生消极影响[7]。
+
+上述不一致的研究结果表明，社会交换理论和组织认同理论并不能全面地诠释企业社会责任在员工层面的微观效应。近年来，学者们开始尝试从归因视角来阐述员工对企业社会责任实践的差异化反应[8,9.10]。作为企业最重要的利益相关者之一，员工既是企业社会责任的重要实施者也是企业社会责任的受益者（即内部利益相关者）[1]。员工的企业社会责任归因会显著影响其对组织的态度和行为[910.12]，是企业社会责任实践能否在员工层面发挥积极效应的关键[13]。因此，研究员工的企业社会责任归因具有十分重要的理论和实践意义。尽管以往学者已围绕企业社会责任归因的前因与后效开展了一系列研究，并取得了丰硕的成果，却缺乏对现有研究发现的系统梳理。这在一定程度上制约了企业社会责任归因的管理实践与未来研究。
+
+基于上述分析，本研究拟对企业社会责任归因相关的研究进行系统地归纳、总结，以期帮助人们更好地理解员工对企业社会责任的差异化反应。根据已有文献资料，我们首先对中文文献进行检索，分别选择［“企业社会责任／社会责任／企业伦理／企业公民／企业社会绩效／慈善／可持续发展／绿色行为”十“归因／动机／动因” $+$ “员工”]为主要检索词，限定“主题”（包含标题、关键词和摘要）中包含全部检索词为条件，应用智能检索方法（主题词扩展）在中国知网、万方等主流数据库进行检索。在筛选出输入词组的同时，系统会自动筛选出相关的变形词组，共获得相关文献5篇。同时，分别选取[“Corporate Social Responsibility / Social Responsibility / EnterpriseEthics / Corporate Citizenship / Corporate Social Performance/Philanthropy / Sustanbility /Green Behavior” $+$ “Attribution /Motive/ Motivation /Reason” $+$ “Employee”]为主要检索词，同样限定“主题”中包含全部检索词为条件，使用智能检索方法在Web Of Science、EBSCOHOST等数据库中对英文文献进行检索，共检索到相关文献46篇。而后，采用“引文检索法”，对已筛选出的51篇论文的参考文献进行回溯、并追踪这些论文的被引情况，以获得更完备的文献资料。最后，对上述文献进行初步浏览，剔除与本研究主题无关的文献，最终获得中文目标文献3篇，英文目标文献24篇。基于上述文献，本文重点对企业社会责任归因的内涵、前因、后效与作用机制进行了系统梳理。
+
+# 1企业社会责任归因的内涵
+
+归因是指个体对他人或自己行为背后动机的推断过程，个体对特定行为背后原因的认知决定了其对该行为的反应[15]。此外，归因的形成依据是观察者可获得的行为信息而非客观事实。个体可根据影响自己或他人行为的因素来源(控制点)、稳定性及可控性做出内部或外部归因，以帮助自己更好地理解、预测和控制事件[15]。与此类似，企业社会责任归因是指个体对企业践行社会责任的背后动机进行主观推理和判断的过程与结论[16]。组织践行企业社会责任的真实动机与个体所做的归因并不完全相同，员工往往通过其归因来解读组织的真实动机。当员工认为企业实施社会责任是为了增加社会福祉时，他们可能做出内部归因；而当员工认为组织只是为自身谋利而践行社会责任时，他们更倾向于做出外部归因[7]。
+
+表1企业社会责任归因的维度类型  
+
+<html><body><table><tr><td>维度</td><td>维度内涵</td><td>代表性研究</td></tr><tr><td>利己-利他归因</td><td></td><td></td></tr><tr><td>利己归因</td><td>履行社会责任是为了提高企业效益</td><td>Ellen et.al.，2006；张 倩等，2015；马晨，周祖</td></tr><tr><td>利他归因</td><td>履行社会责任是为了提升社会福利</td><td>城，2015</td></tr><tr><td>价值观-利益相关者-战略-利己归因</td><td></td><td></td></tr><tr><td>价值观驱动的归因</td><td>履行社会责任符合企业的价值观</td><td></td></tr><tr><td>利益相关者驱动的 归因</td><td>履行社会责任是出于利益相关者的压力</td><td>Ellenet.al.，2006; Vlachos， Theotokis，&</td></tr><tr><td>战略驱动的归因</td><td>希望增加销售额或减少风险或损失</td><td>Panagopoulos， 2010</td></tr><tr><td>利己驱动的归因</td><td>希望利用这份事业而不是帮助成就事业</td><td></td></tr><tr><td>内-外部归因 (真诚-自我服务归因)</td><td></td><td></td></tr><tr><td>内部归因（真诚归 因）</td><td>履行企业社会责任是出于其仁慈价值观</td><td>Du，Bhattacharya，& Sen，2007；Vlachos</td></tr><tr><td>外部归因（自我服 务归因)</td><td>履行企业社会责任是为了获得回报或避 免惩罚</td><td>et.al.，2013</td></tr><tr><td>实质性-象征性归因</td><td></td><td></td></tr><tr><td>实质性归因</td><td>践行社会责任是为他人服务，以满足社 会需求</td><td>Donia et al.，2016</td></tr><tr><td>象征性归因</td><td>实施企业社会责任是为了提高声誉和利 润，满足战略需求</td><td></td></tr><tr><td>真实-不真实归因</td><td></td><td></td></tr><tr><td>真实的归因</td><td>在社会责任实践中塑造的形象与其真实身 份相一致</td><td>Mcshane & Cunningham,</td></tr><tr><td>不真实的归因</td><td>在社会责任实践中塑造的形象与其真实身</td><td>2012</td></tr><tr><td>其他</td><td>份不一致</td><td></td></tr><tr><td>慈善归因</td><td>员工认为公司是真正为有意义的事业作 出贡献</td><td>Raub，2017</td></tr><tr><td>公共关系动机归因</td><td>实践是为加强品牌和与外部利益相关者 关系</td><td>Gatignon-Turnau & Mignonac， 2015</td></tr></table></body></html>
+
+尽管目前对企业社会责任归因的划分方式有很多种（详见表1），却没有公认的、统一的划分标准。总体而言，现有探讨员工对企业社会责任归因的研究大部分是采用四维度或二维度的划分方式。其中 E1len 等(2006)[将企业社会责任归因划分为价值观驱动、利益相关者驱动、利己驱动以及战略驱动的归因四个维度，前两个维度也称为“企业社会责任利他归因”，后两个维度也称为“企业社会责任利己归因”。他们在此基础上开发企业社会责任归因四维量表，并得到广泛使用。Du 等(2007)20将企业社会责任归因划分为内部和外部归因两个维度，并对企业社会责任归因的四维量表进行改编，得到了“内-外部”企业社会责任归因二维量表。近年来，以Vlachos等(2013)为代表的研究者们开始逐渐将内部-外部企业社会责任归因应用到员工层面，并在此基础上开展了一系列研究[8,10,1,9]。值得提出的是，上述研究中，员工企业社会责任归因的维度划分依据多借鉴消费者对企业社会责任归因的研究。Donia 等(2016)[14首次以员工为样本，将企业社会责任归因划分为实质性和象征性两个维度，并开发了相应的量表。
+
+整体而言，不同的企业社会责任归因在内涵方面具有一致性，但各自的维度划分依据不同。首先，不同的企业社会责任归因在内涵上阐述的都是企业践行社会责任的初衷是为社会创造福祉还是为企业自身谋利。企业社会责任利他-利己归因是指企业践行社会责任是为了“做好事”还是为了提高企业效益[19]；内-外部企业社会责任归因是指企业践行社会责任是出于其仁慈价值观还是迫于利益相关者的压力[18]；而实质性-象征性企业社会责任归因是指企业践行社会责任是为了满足社会需求还是为了满足自身的战略需求[13]。利他归因、内部归因和实质性归因均反映了员工认为企业践行社会责任是为社会创造福祉，而利己归因、外部归因和象征性归因均代表着企业践行社会责任是为企业自身谋利。
+
+同时，不同维度的企业社会责任归因其提出依据并不相同。具体而言，企业社会责任利他-利己归因的提出依据是企业践行社会责任的利益取向[19]，如果企业履行社会责任是为了增加社会福利，就会做出利他归因；如果企业履行社会责任是为了提高企业效益，就会做出利己归因。内-外部企业社会责任归因的提出依据是企业履行社会责任的驱动力[18]。如果企业履行社会责任是出于内在动力（仁慈价值观)，就会做出内部归因；如果企业履行社会责任是出于外在压力（利益相关者），就会做出外部归因。实质性-象征性企业社会责任归因的提出依据是企业践行社会责任所满足的需求类型[14]。如果企业履行社会责任是为了满足社会需求，就会做出实质性归因；如果企业履行社会责任是为了满足自身战略需求，就会做出象征性归因。而真实-不真实企业社会责任归因的提出依据则是企业所塑造的外在形象在与真实身份相一致的程度[22]。尽管现有研究对企业社会责任归因的维度类型尚未达成一致，常常将多种维度类型交替使用[13]，但多数研究采用的是“内部-外部”来归纳员工对企业践行社会责任背后原因的认知[8,1,18,21,2]。将企业社会责任归因划分成“内部”归因和“外部”归因更契合归因理论的核心假设，理论依据更加夯实。并且可以帮助我们更好地理解企业社会责任归因的形成机制[17]。
+
+# 2企业社会责任归因的影响因素
+
+员工的企业社会责任归因受到多种因素的影响。现有研究已从“个体”、“领导”和“组织”三个方面对其影响因素进行了探索，详见表2。
+
+表2员工企业社会责任归因的影响因素  
+
+<html><body><table><tr><td colspan="2">个体因素</td><td rowspan="2">领导因素</td><td rowspan="2">组织因素</td></tr><tr><td>人口统计因素</td><td>个体心理因素</td></tr><tr><td>性别(Raub, 2017)</td><td>企业伦理态度(马晨, 周祖城，2015)</td><td>魅力型领导(Vlachos et al.，2013)</td><td>企业社会责任计划的资源 承诺持续性、企业社会责 任计划要素间的一致性、</td></tr><tr><td>年龄(Gatignon Turnau &</td><td>员工的情感投入、公 平感知(McShane &</td><td>领导者的情感投入</td><td>企业社会责任的嵌入程度</td></tr><tr><td>Mignonac， 2015; Donia et al.,</td><td>Cunningham， 2012)</td><td>(McShane & Cunningham， 2012)</td><td>(McShane & Cunningham, 2012)</td></tr><tr><td>2017) 组织任期</td><td>信任倾向(Donia et al.，2016)</td><td>领导者组织任期、领 导者归因（et al.,</td><td>组织的仁慈意图、目标承 诺、企业社会责任计划的</td></tr></table></body></html>
+
+# 2.1个体因素
+
+影响企业社会责任归因的个体因素主要包括人口统计学因素和个体心理因素。在人口统计学因素中，年龄、组织任期和性别均会影响企业社会责任归因[8,12,24]研究发现，任期越长越倾向于做出内部企业社会责任归因[1]。但对于年龄、性别因素而言，它们对企业社会责任归因的影响效果并不相同。有研究认为年长的人更容易做出内部企业社会责任归因9，但也有研究发现，年长的人更可能做出公共关系动机的归因（外部企业社会责任归因的一种）[24]。此外，现有关于性别影响员工企业社会责任归因的研究也未形成一致结论。有研究指出，男性比女性更可能做出仁慈归因[12]。同时，也有研究发现性别与员工的企业社会责任归因相关不显著[8.9]。然而，现有研究并未对上述的不一致结论的原因进行深入探讨。
+
+除了上述因素外，个体的情感投入、信任倾向和伦理态度等因素也会影响员工的企业社会责任归因[13,225]。多数研究同时探讨了各因素对内部和外部企业社会责任归因的影响。具体而言，研究表明员工的信任倾向和企业伦理态度均与内部企业社会责任归因正相关，而与外部企业社会责任归因负相关[13.25]。不仅如此，员工对企业社会责任实践的情感投入越多，其越有可能将企业践行社会责任视为组织自我的真实反映[22]。此研究还发现员工的公平感知越高，其做出真实型归因（与内部企业社会责任归因类似）的可能性越大，反之，则越可能做出不真实的判断。此外，也有个别研究者仅对内部企业社会责任归因进行了探讨。研究发现，自尊对内部企业社会责任归因具有正向的影响作用[2]。遗憾的是，现有研究仍然以案例研究或理论推导为主，并未对上述因素如何影响企业社会责任归因进行广泛的实证检验。
+
+# 2.2领导因素
+
+影响企业社会责任归因的领导因素主要包括领导风格、领导对企业社会责任的归因以及情感投入。领导的素质、认知等均可能影响下属的组织信念和行为。研究发现，员工的内部企业社会责任归因会受到多种因素的影响。具体而言，魅力型领导与员工的内部企业社会责任归因正相关[18]。一项以欧洲制造公司员工为样本的研究发现，企业社会责任归因存在涓滴效应，领导的内部（真诚型）企业社会责任归因会正向影响员工的内部（真诚型）企业社会责任归因。对于外部企业社会责任归因来说，目前研究仅发现领导的外部（真诚型）企业社会责任归因会对员工的外部（真诚型）企业社会责任归因产生正向影响[。并且这一关系还会受到组织任期的调节，领导的组织任期越高，两者的关系越强[]。此外，领导者对企业社会责任实践的情感投入会正向影响员工对企业社会责任计划真实性的判断[22]。整体而言，领导者因素是员工进行企业社会责任归因判断的重要线索，会影响员工对企业践行社会责任背后动机的认知。
+
+# 2.3组织因素
+
+与个人和领导因素不同，组织因素主要聚焦于探讨企业社会责任资源、践行过程以及组织的价值观对员工企业社会责任归因的影响。整体而言，企业社会责任资源投入越多，员工越容易做出内部企业社会责任归因，资源投入越少，越容易做出外部企业社会责任归因。例如，研究发现企业社会责任实践的目标越具体、承诺越高或实施与竞争对手越不同的企业社会责任计划，员工越倾向于做出内部企业社会责任归因，反之，员工就越倾向于做出外部企业社会责任归因[13]。不仅如此，组织所能提供的企业社会责任资源越多（持续的、切实的资源承诺）、企业社会责任计划各要素之间越一致，企业社会责任实践在组织中的嵌入程度越深（“处于企业核心”），员工就越容易做出真实型企业社会责任归因，否则员工就会质疑其真实性[22]。同时，该研究还发现，若组织的企业社会责任计划能与时俱进且在自身领域内/外发挥领导作用，员工会更有可能做出真实型企业社会责任归因。此外，也有研究指出，企业社会责任归因还会受到组织价值观的影响。当组织践行企业社会责任受其仁慈意图指导并且与其价值观一致，员工越倾向于做出内部企业社会责任归因[13]。员工的认知并非形成于社会真空中，其一举一动均会受到组织中各种因素的影响。虽然已有研究对组织因素如何影响企业社会责任归因进行了诸多探讨，但仍未能体现组织因素影响企业社会责任归因的全貌，公平氛围和伦理氛围也可能会影响员工对企业社会责任的归因。
+
+# 3企业社会责任归因对员工工作态度和行为的影响
+
+企业社会责任归因是近年来学者广泛关注的一个新话题，已有诸多研究探讨
+
+了企业社会责任归因的作用。接下来我们将从员工态度和行为两方面系统梳理企业社会责任归因的后效研究。具体内容详见表3。
+
+表3员工企业社会责任归因的后效  
+
+<html><body><table><tr><td>结果变量</td><td>代表性研究</td><td>研究发现</td><td>影响方式</td></tr><tr><td>忠诚倾向</td><td>Vlachos et al. (2010)</td><td>价值观驱动、战略驱动/利己驱动的归因 与忠诚倾向正/负相关；利益相关者驱动直接影响 的归因与忠诚倾向不相关</td><td></td></tr><tr><td>组织认同</td><td>McShane & Cunningham (2012)</td><td>真实/不真实型归因与组织认同正/负相关直接影响</td><td></td></tr><tr><td>工作态度</td><td>Donia et al. (2017)</td><td>实质性/象征性归因与工作态度正/负相关直接影响</td><td></td></tr><tr><td>情感承诺</td><td>Raub (2017)</td><td>仁慈归因与情感承诺正相关</td><td>直接影响</td></tr><tr><td>工作满意度</td><td>Vlachos et al. (2013)</td><td>内部/外部归因与工作满意度正/不相关直接影响</td><td></td></tr><tr><td></td><td>马晨，周祖城 (2015,2017)</td><td>企业社会责任利他/利己归因水平越高， 员工的企业社会责任感知与工作满意度间 调节作用 的正相关关系越强/不显著</td><td></td></tr><tr><td>态 度 情感承诺</td><td>马晨，周祖城 (2015，2017)</td><td>企业社会责任利他/利己归因水平越高， 员工的企业社会责任感知与情感承诺之间调节作用 的正相关关系越强/不显著</td><td></td></tr><tr><td></td><td>组织自豪感 张倩等(2015)</td><td>企业社会责任利他/利己归因水平越高， 员工的企业社会责任感知与组织自豪感之调节作用 间的正/负相关关系越强</td><td></td></tr><tr><td>组织信任</td><td>Roeck & Delobbe (2012)</td><td>企业社会责任利己归因水平越高，员工的 企业社会责任感知与组织信任之间的正相 调节作用</td><td></td></tr><tr><td>知</td><td>亲社会身份感Gatignon-Turnau</td><td>关关系越强 公共关系动机的归因会削弱企业对员工志 愿服务的支持与员工对企业亲社会身份认 调节作用</td><td></td></tr><tr><td></td><td>& Mignonac (2015)</td><td>知之间的正相关关系 内部/外部归因水平越高，员工的企业社</td><td></td></tr><tr><td>组织承诺</td><td></td><td>Le& Seo(2017）会责任感知与组织承诺之间的正相关关系 调节作用 越弱/不显著</td><td></td></tr><tr><td>员工联系</td><td>McShane & Cunningham(2012)</td><td>真实/不真实型归因与员工联系正/负相关 直接影响</td><td></td></tr><tr><td>效</td><td>角色内/外绩 Story & Neves (2015)</td><td>内部与外部归因都高时，才能促进角色内 /外绩效</td><td>直接影响</td></tr><tr><td>个人绩效 行</td><td>Donia et al. (2017)</td><td>实质性/象征性归因与个人绩效正/负相关 直接影响</td><td></td></tr><tr><td>为 员工拥护</td><td>Vlachos et al. (2017)</td><td>真诚型/自我服务型归因与员工拥护正/不 相关</td><td>直接影响</td></tr></table></body></html>
+
+<html><body><table><tr><td>行为承诺Raub(2017) 工作投入、创Chaudhary&</td><td></td><td>仁慈归因与行为承诺正相关</td><td>直接影响</td></tr><tr><td>造力</td><td>Akhouri (2018)</td><td>内部/外部归因与工作投入、创造力正/不 相关</td><td>直接影响</td></tr><tr><td>积极口碑</td><td>Vlachos et al. (2010)</td><td>价值观驱动、战略驱动和利益相关者驱动 /利己驱动的归因与积极口碑正/负相关</td><td>直接影响</td></tr><tr><td>工作场所越轨 Ahmad et</td><td></td><td>内部归因/外部归因与工作场所越轨行为</td><td>直接影响</td></tr><tr><td>行为</td><td>al. (2017)</td><td>正/负相关</td><td></td></tr><tr><td></td><td>组织公民行为 Le& Seo(2017)</td><td>内部/外部归因水平越高，员工的企业社 会责任感知与组织公民行为之间的正相关调节作用 关系越弱/不显著</td><td></td></tr></table></body></html>
+
+# 3.1对员工工作态度的影响
+
+# (1)企业社会责任归因对员工态度的直接影响
+
+员工的企业社会责任归因会对其工作态度产生影响。一般来讲，内部企业社会责任归因往往会产生积极作用，而外部企业社会责任归因则更可能产生消极影响。例如，内部企业社会责任归因可以通过提高人-组织匹配度促进员工产生积极态度（包括组织吸引力、组织认同、组织支持感、上级的信任、组织自豪感、工作满意度和工作意义等），而外部企业社会责任归因则会降低员工的积极态度[9]。只有当员工做出真实型企业社会责任归因时，才会促进组织认同[22]。此外，也有研究指出，员工的仁慈归因越高，其情感承诺也就越高[12]，这在一定程度上说明了内部企业社会责任归因的积极影响。但事实上，不同的企业社会责任归因可能会具有独特的作用效果。例如，有研究表明，员工的内部企业社会责任归因能够促进工作满意度，而外部企业社会责任归因与工作满意度相关不显著[18]。价值观驱动的企业社会责任归因（内部企业社会责任归因的一种）、战略驱动的企业社会责任归因（外部企业社会责任归因的一种）可通过组织信任提高员工的忠诚倾向，利益相关者驱动的企业社会责任归因（内部企业社会责任归因的一种）对忠诚倾向没有影响，而利己驱动的企业社会责任归因（外部企业社会责任归因的一种）会负向影响员工的忠诚倾向[27]。
+
+# (2)企业社会责任归因对员工的企业社会责任感知与其态度间的调节作用
+
+员工的企业社会责任归因不仅会对员工的态度产生直接影响，还会调节员工的企业社会责任感知与员工态度之间的关系[24,25.26]。一方面，外部企业社会责任归因会削弱企业社会责任感知对员工态度的积极影响。研究发现，公共关系动机的归因（外部企业社会责任归因的一种）会削弱企业对员工志愿服务的支持与员工对企业亲社会身份认知之间的正相关关系[24]。另一项研究表明，内部企业社会责任归因水平越高，企业社会责任感知与组织自豪感之间的正向关系越强，进而促使员工产生更强的组织认同；相反，员工的外部企业社会责任归因水平越高，二者的负相关关系越强，进而对员工的组织认同产生负向影响[16]。另一方面，也有研究发现，内部企业社会责任归因可以增强企业社会责任感知对员工态度的积极影响。具体而言，内部企业社会责任归因水平越高，企业社会责任感知与工作满意度/情感承诺的的正相关关系越强，而外部企业社会责任归因对两者之间关系的调节作用不显著[25,26]。De Roeck & Delobbe(2012)[28]也发现，内部企业社会责任归因水平越高，员工的企业社会责任感知与组织信任之间的正相关关系越强。值得提出的是，新近的研究发现，内部企业社会责任归因也可能存在消极的调节作用。例如，Lee&Seo（2017）29的研究表明内部企业社会责任归因会削弱员工的企业社会责任感知与组织承诺之间的正相关关系，而外部归因对两者之间的调节作用不显著。这在一定程度上说明，企业社会责任利他归因和利己归因是两个不同的构念，而非同一个变量的两端。
+
+综上，员工对企业社会责任的内部归因不仅可以促使员工产生积极的工作态度，同时也可以增强企业社会责任感知与员工积极工作态度之间的正相关关系。然而，外部企业社会责任归因对员工工作态度的影响并未形成一致结论，并且现有研究也并未明晰外部归因在何种情境下才能发挥积极效用。
+
+# 3.2对员工工作相关行为的影响
+
+以往研究发现，企业社会责任归因不仅会影响员工的态度，还会影响其行为[8,10.23]。一般而言，内部企业社会责任归因会对员工的工作行为产生积极影响，而外部企业社会责任归因多带来消极影响。例如：内部企业社会责任归因可改善员工的个人绩效（包括角色内绩效、组织公民行为和反生产行为），外部企业社会责任归因则相反，并且这一关系又会受企业社会责任重要性的调节[9。内部企业社会责任归因与员工工作场所越轨行为负相关，外部企业社会责任归因与工作场所越轨行为正相关[2]。只有在员工做出真实型企业社会责任归因时，才能促进员工联系(EmployeeConnections）[22]。价值观驱动和利益相关者驱动的企业社会责任归因（均属于内部企业社会责任归因）与员工的积极口碑正相关，而利己驱动的企业社会责任归因（外部企业社会责任归因的一种）与员工的积极口碑负相关[2]。此外，员工的仁慈归因（内部企业社会责任归因的一种）越高，其行为承诺也越高[12]。
+
+然而，外部企业社会责任归因也并非仅有消极作用。例如，研究发现作为一种外部企业社会责任归因，战略驱动的企业社会责任归因与员工的积极口碑正相关[7]。已有研究发现，员工的创造力和员工拥护均与内部企业社会责任归因正相关，但却与外部企业社会责任归因相关不显著[8.10]。个别研究还指出，内部企业社会责任归因会削弱员工的企业社会责任感知与组织公民行为之间的正相关关系，而外部归因对两者之间的调节作用不显著[29]。
+
+整体而言，企业社会责任归因对员工行为的影响尚未形成一致结论，并且大多数研究只探讨了内部企业社会责任归因的积极影响或/和外部企业社会责任归因的消极影响，忽视了内部企业社会责任归因可能带来消极影响以及外部企业社会责任归因也可能产生积极影响。此外，现有研究在考察企业社会责任归因影响员工的行为时多关注其直接影响，对其调节效应探讨较少，值得未来进一步研究。
+
+# 4企业社会责任归因影响员工工作态度和行为的作用机理
+
+众多研究表明，企业社会责任可通过促进员工的社会交换和组织认同进而积极影响其工作态度和行为[4,30]，本部分将对归因如何影响企业社会责任在员工层面的微观效应进行分析和阐述，以帮助管理者和研究者更为深入、系统地揭示企业社会责任归因发挥作用的过程。
+
+# 4.1 企业社会责任归因影响员工与组织的社会交换
+
+众多研究表明，企业社会责任可通过组织支持感、组织信任等促进员工与组织间的社会交换，从而使员工积极回报组织[4.30]。但事实上，人们对某一行为的态度不仅取决于行为本身，还取决于对这一行为的归因。研究发现，企业社会责任归因可通过满足员工的心理需求或增加组织信任促进社会交换的产生[7,29]。首先，当员工对组织践行企业社会责任做出真诚型归因时，更有可能满足员工的工具、关系和道义需求，使其感到有义务回馈组织以补偿组织履行企业社会责任所付出的成本。相反，如果员工认为组织从事企业社会责任活动别有用心，尽管是合法的，也不太可能满足其工具、关系或道义需求，进而降低他们的组织信任、工作意义[3]。所以，自我服务型企业社会责任归因无法促进员工自愿做出亲社会反应的社会交换，他们也不太可能以积极的行为回报组织[。整体而言，员工的企业社会责任内部归因往往会促进员工社会交换机制的产生，而企业社会责任外部归因则更多地发挥抑制作用。
+
+# 4.2 企业社会责任归因影响员工的组织认同
+
+在企业中，员工多利用其组织地位定义自我价值。积极承担社会责任的组织往往具有更高的声誉并且更受人尊重，更能增加员工的组织认同以满足其自我提升的需求。相关研究表明，外部企业社会责任可通过外部声望提高员工的组织认同，进而提高其组织忠诚，而内部企业社会责任则可通过内部尊重提高其组织认同，进而提高其人际帮助和个体努力4。真心为社会做贡献的组织更能让员工感到自豪和荣幸，增加员工的组织认同感，进而影响其工作绩效。研究发现，当员工做出内部企业社会责任归因时，更可能增强员工的自尊，导致更高的组织认同感，从而提高员工投入和创造力[10]。与此相对，当员工认为组织承担企业社会责任是为了自身利益，即做出外部企业社会责任归因时，就不太可能认同其组织，进而无法对工作投入和创造力等行为产生影响[10]。由此可见，内部归因可以加强员工企业社会责任感知对组织认同的积极影响，而外部归因则会削弱企业社会责任对组织认同的促进作用。
+
+员工的企业社会责任归因不是简单的“向左”或“向右”的判断，他们可能会同时做出多种归因。有学者发现，只有当员工同时做出较高的外部企业社会责任归因和较高的内部企业社会责任归因时，员工的角色内/外绩效才会显著提升[21]。整体而言，现有研究多围绕企业社会责任某一种特定的归因探讨其对员工社会交换机制与组织认同机制的影响，忽略了多种企业社会责任归因同时存在的情况。例如，当员工同时做出较高的企业社会责任内部归因和较高的企业社会责任外部归因时，将会对员工的社会交换机制和组织认同机制产生怎样的影响，依然值得商。
+
+# 5未来研究展望
+
+近年来，国内外学者越来越关注员工的企业社会责任归因，研究也逐步深入，但在其前因、后效以及作用机制方面还需进一步的分析和探讨。具体而言，未来研究可从以下几个方面展开。
+
+# 5.1明晰不同企业社会责任归因的独特影响因素与作用效果
+
+企业社会责任归因反映的是个体对企业践行社会责任背后动机的认知[19]，但是不同类型的企业社会责任归因的影响因素和作用效果可能并不相同。首先，基于不同划分标准的不同企业社会责任归因的影响因素与作用效果可能不同。例如，研究发现战略驱动的企业社会责任归因（利己归因的一种）可以通过组织信任提高员工的忠诚倾向[27，而外部企业社会责任归因更多地会对员工的态度和行为产生消极影响[10]。这提示，尽管现有研究多将企业社会责任利己归因与外部企业社会责任归因等同使用[14]，但是二者的后效并不完全相同。其次，即使是基于相同划分标准的不同企业社会责任归因，其影响因素和作用效果也可能不同。Vlachos等(2013)[20研究表明，魅力型领导对内部企业社会责任归因具有独特作用，即魅力型领导企业社会责任归因正相关，与外部企业社会责任归因相关并不显著。同时，也有研究发现，内部企业社会责任归因对工作投入和创造力具有正向促进作用，但外部企业社会责任归因对工作投入和创造力的影响并不显著[10]。这意味着基于相同划分标准的不同企业社会责任归因的作用效果并不相同。因此，未来研究需要进一步考察不同企业社会责任归因的独特影响因素与作用效果，不仅可以帮助人们更好地理解不同类型的企业社会责任归因之间的差别，也可以帮助企业针对性地制定企业社会责任归因干预策略。
+
+# 5.2基于归因理论探索企业社会责任归因的形成机制
+
+归因理论指出，个体可根据影响自己或他人行为的控制点（因素来源）、稳定性及可控性做出内部或外部归因[15]。与此类似，员工只有明确这三个条件才能对企业践行社会责任背后的动机做出准确归因。遗憾的是，目前的学者大多将企业社会责任归因视为一种评估结果，重点探讨了其前因、后果及作用机制[89，较少关注员工企业社会责任归因的产生过程。事实上，探讨企业社会责任归因的形成机制，不仅可以帮助组织优化企业社会责任计划，还可以通过加强内部沟通，帮助管理者更好地引导员工做出积极的归因。Donia 和Sirsly(2016）[13曾指出，当组织的企业社会责任实践被认为是由组织内部价值观驱动时（即源于内控因素），员工更倾向于做出实质性归因；而当其被视为是对外部压力的回应，并且“随波逐流”支持公共事业时（即源于外控因素），员工更倾向于做出象征性归因。而员工企业社会责任归因的差异也会进一步影响员工的工作表现。因此，未来研究不仅可以对上述理论分析进行实证检验，还可以进一步基于归因理论，探讨控制点、稳定性及可控性这三种条件的组合对企业社会责任归因的影响，明晰不同企业社会责任归因的形成条件。
+
+# 5.3同时探讨多种因素对企业社会责任归因的影响
+
+员工的企业社会责任归因受多种信息的共同影响。尽管现有研究已尝试从个体、领导、组织三个层面探讨归因的形成机制，但仍不够完善。研究发现，伦理型领导作为道德行为的实施主体，其模范作用可正确引导和激励员工的道德伦理态度和行为[32]，而伦理态度与员工的企业社会责任利他归因正相关、与利己归因负相关[25]。因此，除魅力型领导外，未来研究可以进一步探索伦理型领导对员工企业社会责任归因的影响。同时，由于个人的态度和行为是社会建构的，个人、领导及组织因素之间往往存在着错综复杂的交互关系。未来研究可以采用以变量为中心的方法进行考察，深入揭示多种因素对企业社会责任归因的交互影响与作用机制。然而，在现实生活中，员工并不是同质化的数据载体，而是存在不同的类型。为了揭示员工进行企业社会责任归因的心理全貌，未来研究还需进一步从“采用以人为中心的方法”视角探讨多种因素对企业社会责任归因的影响[33]。这种研究方法不仅可以进一步解释哪一类人更容易做出内部/外部企业社会责任归因，也可以深入考察哪种因素更具主导优势。
+
+# 5.4考察归因对企业社会责任的公平启发机制的影响
+
+以往研究大多探讨企业社会责任归因对员工社会交换和组织认同机制的影响[0.29]，而对其他作用机制的影响探讨不足。实际上，公平启发机制在员工对企业社会责任的反应和评价过程中发挥着重要作用[34]。个体对某一事件的归因是理解其如何形成公平感知的关键[35。员工可以通过企业社会责任实践观察组织对待其他利益相关者的态度，进而为自己提供信息，帮助其判断组织的公平[36]；而员工的组织公平感知在很大程度上又会影响员工的态度和行为[37。研究发现，真诚型企业社会责任归因可帮助员工满足道义需求，而自我服务型企业社会责任归因不太可能满足其工具、关系或道义需求。因此，真诚型企业社会责任归因似乎更容易促使员工产生组织公平感知。“平出于公，公出于道”，只有植根于企业道德观念的社会责任实践，才更有可能对员工的组织公平感知具有启发作用。所以，未来研究有必要考察归因对企业社会责任的公平启发机制的影响，减少消极的企业社会责任归因可能带来的不公平感，抑制潜在的负面情绪的产生。
+
+# 5.5基于中国情境开展企业社会责任归因的本土化研究
+
+现有企业社会责任归因的研究多以西方发达国家为研究背景，其研究发现能否推广至我国仍有待商榷。事实上，相比于发达国家的企业，我国组织可用于开展企业社会责任举措的资源相对更加紧张，企业社会责任实践也更加匮乏[38]。同时，个体对企业社会责任的认知也会受不同文化情景的影响。相对于个人主义文化而言，集体主义文化中的个体更加关注社区利益，更倾向看到企业践行社会责任的内在动机[39]，对企业的社会责任动机容易做出更多的利他归因[40]。因此，在我们国家，到底有哪些关键的因素会影响员工的企业社会责任归因仍有待进一步探讨。此外，现有关于企业社会责任归因的研究多是以西方员工为样本，探讨企业社会责任的影响因素、作用机制以及影响效果。未来研究可以进行跨文化研究，以考察不同文化背景下员工的企业社会责任归因特点，以及文化因素对企业社会责任归因的影响。立足于我国的社会文化特征开展有关企业社会责任归因的实证研究，不仅能进一步增加理论的普适性，也能为我国组织对企业社会责任在员工层面的微观效应进行科学、有效的管理提供理论依据。
+
+# 参考文献
+
+[1] Kim， K.， Kim， M.， & Qian， C. (2015)． Effects of corporate social responsibility on corporate financial performance:A competitive-action perspective. Journal of Management， 44(3)，1097-1118   
+[2] Wang，H.，Tong，L.，& Takeuchi，R. (2016).Corporate social responsibility: An overview and new research directions. Academy of Management Journal， 59(2), 534-544.   
+[3] El Akremi，A.，Gond，J.，Swaen，V.，De Roeck，K.，& Igalens，J.(2015)．How do employees perceive corporate responsibility? Development and validation of a multidimensional corporatestakeholderresponsibilityscale.Journalof Management， 44(2)，619-657. [4] Farooq，O.，Rupp，D. E.，& Farooq，M.(2017). The multiple pathways through whichinternal and external corporate social responsibilityinfluence organizational identification and multifoci outcomes: The moderating role of cultural and social orientations. Academy of Management Journal，60(3)， 954-985. [5]Gond，J.，El Akremi，A.，Swaen，V.，& Babu，N.(2017)． The psychological microfoundations of corporate social responsibility: A person-centric systematic review. Journal of Organizational Behavior， 38(2)， 225-246.   
+[6] Newman，A.，Nielsen，I.，& Miao，Q. (2015). The impact of employee perceptions of organizational corporate social responsibility practices on job performance and organizational citizenship behavior: Evidence from the Chinese private sector. The International Journal of Human Resource Management， 26(9)，1226-1242. [7]Lin，C. P.，Lyau，N. M.，Tsai，Y. H.，Chen，W. Y.，& Chiu，C.K.(2010). Modeling corporate citizenship and its relationship with organizational citizenship behaviors. Journal of Business Ethics， 95(3)，357-372.   
+[8] Vlachos，P. A.， Panagopoulos， N. G.， Bachrach，D. G.，& Morgeson，F． P. (2017). The effects of managerial and employee attributions for corporate social responsibility initiatives. Journal of Organizational Behavior， 38(7)，111-1129. [9] Donia，M. B. L.，Ronen， S.，Tetrault Sirsly，C. A.，& Bonaccio， S. (2017). CSR by any other name? The differential impact of substantive and symbolic CSR attributions on employee outcomes. Journal of Business Ethics，1，1-21.   
+[10] Chaudhary，R.，& Akhouri，A. (2018).Linking corporate social responsibility attributions and creativity: Modeling work engagement as a mediator. Journal of Cleaner Production，190，809-821.   
+[11］颜爱民，李歌． (2016)．企业社会责任对员工行为的跨层分析——外部荣誉感和组织 支持感的中介作用．管理评论，28(1)，121-129.   
+[12] Raub， S. (2017)． When employees walk the company talk: The importance of employee involvement in corporate philanthropy. Human Resource Management，56(5), 837-850.   
+[13] Donia，M. B. L.，& Sirsly， C. A. T. (2016)． Determinants and consequences of employee attributions of corporate social responsibility as substantive or symbolic. European Management Journal， 34(3)， 232-242.   
+[14] Donia，M. B.L.，Sirsly，C. T.，& Ronen，S. (2016)． Employee attributions of corporate social responsibility as substantive or symbolic: Validation of a measure.Applied Psychology，66(1)，103-142.   
+[15] Weiner， B. (1979). A theory of motivation for some classroom experiences. Journal of Educational Psychology， 71(1)，3-25. [16]张倩，何姝霖，时小贺． (2015)．企业社会责任对员工组织认同的影响——基于 CSR 归因调节的中介作用模型．管理评论，27(2)，111-119.   
+[17] Vlachos，P. A.，Epitropaki，O.，Panagopoulos，N.G.，& Rapp，A. A.(2013). Causal attributions and employee reactions to corporate social responsibility. Industrial and Organizational Psychology， 4(6)， 334-337.   
+[18]Vlachos，P. A.，Panagopoulos，N. G.，& Rapp，A. A.(2013)． Feeling good by doing good: Employee csr-induced attributions， job satisfaction,and the role of charismatic leadership. Journal of Business Ethics， 118(3)， 577-588.   
+[19]Ellen，P. S.，Webb，D．J.，& Mohr，L．A.(2006)．Building corporate associations: Consumer attributions for corporate socially responsible programs. Journal of the Academy of Marketing Science， 34(2)，147-157.   
+[20] Du， S.，Bhattacharya，C. B.，& Sen， S. (2007)． Reaping relational rewards from corporate social responsibility: The role of competitive positioning. International Journal of Research in Marketing， 24(3)， 224-241.   
+[21]Story， J.，& Neves， P. (2015). When corporate social responsibility (CSR) increases performance: Exploring the role of intrinsic and extrinsic csr attribution. Business Ethics: A European Review, 24(2)，111-124.   
+[22] Mcshane，L. (2012). To thine own self be true? Employees’ judgments of the authenticity of their organization’ s corporate social responsibility program. Journal of Business Ethics，108(1)，81-100.   
+[23] Ahmad，I， Shahzad，K.，& Zafar， M. A. (2017)． Impact of corporate social responsibility attributionson workplace deviance behaviors.Journalof Managerial Sciences，11(2)，157-172.   
+[24]Gatignon-Turnau， A. L.，& Mignonac， K.(2015).(Mis)Using employee volunteering for public relations: Implications for corporate volunteers' organizational commitment. Journal of Business Research， 68(1)，7-18.   
+[25］马晨，周祖城． (2015)．员工的企业伦理态度对 PCSR 与工作满意度和情感承诺关系 的影响研究．管理学报，12(11)，1671-1677.   
+[26]马晨，周祖城． (2017)．感知的企业社会责任对员工态度的影响:自尊的调节效应. 系统管理学报，26(2)，295-310.   
+[27] Vlachos，P. A.， Theotokis，A.，& Panagopoulos，N. G.(2010)． Sales force reactions to corporate social responsibility: Attributions, outcomes， and the mediating role of organizational trust. Industrial Marketing Management, 39(7), 1207-1218.   
+[28] Roeck，K. D.，& Delobbe，N. (20l2)．Do environmental CSR initiatives serve organizations’ legitimacy in the oil industry? Exploring employees’ reactions through organizational identification theory. Journal of Business Ethics,110(10), 397-412.   
+[29] Lee， S. Y.，& Seo，Y. W. (2017)．Corporate social responsibility motive attribution by service employees in the parcel logistics industry as a moderator between csr perception and organizational effectiveness. Sustainability， 9(355), 1-13.   
+[30] Rupp，D. E.，& Mallory， D. B. (2015)． Corporate social responsibility: psychological， person-centric， and progressing. Annual Review of Organizational Psychology & Organizational Behavior， 2(1)，211-236.   
+[31]Rupp，D. E.， Shao，R.， Thornton， M. A.，& Skarlicki，D. P.(2013). Applicants’ and employees' reactions to corporate social responsibility: The moderating effects of first-party justice perceptions and moral identity. Personnel Psychology，66(4)，895-933.   
+[32]Meda， A. K.(2005)． The social construction of ethical leadership (Unpublished doctorial dissertation)，Benedictine University， Illinois.   
+[33] Meyer，J.P.，Morin，A.J. S.，& Vandenberghe，C.(2015)．Dual commitment to organization and supervisor: a person-centered approach. Journal of Vocational Behavior，88， 56-72.   
+[34] Ali， M. A.，& Jung， H. J. (2016)． CSR and the workplace attitudes of irregular employees: The case of subcontracted workers in Korea. Business Ethics: A European Review， 2(26)，130-146.   
+[35] Martinko，M. J.，Douglas， S. C.，Ford，R. C.，& Gundlach，M. J. (2004). Dues paying: A theoretical explication and conceptual model. Journal of Management，30(1)，49-69.   
+[36] Aguilera，R. V.，Rupp，D. E.，Williams，C. A.，& Ganapathi，J.(2007). Putting the s back in corporate social responsibility: A multilevel theory of social change in organizations. Academy of Management Review, 32(3)，836-863. [37] Cropanzano，R.，Byrne，Z. S.，Bobocel，D. R.，& Rupp，D.E.（2001)． Selfenhancement biases， laboratory experiments， george wilhelm friedrich hegel，and the increasingly crowded world of organizational justice. Journal of Vocational Behavior，58(2)，260-272.   
+[38］晁罡，姜胜林，王磊． (2014)．发达国家与发展中国家企业社会责任实践比较研究. 软科学，28(6)，6-10.   
+[39] Hur，W. M.，& Kim，Y. (2017). How does culture improve consumer engagement in csr initiatives? The mediating role of motivational attributions: Cultural
+
+values and CSR. Corporate Social Responsibility and Environmental Management, 24(6)，620-633. [40] Choi，J.，Chang，Y.K.，Li，Y.J.，& Jang，M.G.(2016)．Doing good in another neighborhood: Attributions of CSR motives depend on corporate nationality and cultural orientation. Journal of International Marketing， 24(4)，82-102. (通讯作者：谢菊兰 E-mail: julia_xie@csu.edu.cn)
+
+作者贡献声明：  
+颜爱民：提出研究命题和研究思路  
+李亚丽：论文起草和修订  
+谢菊兰：提出研究命题和思路；论文最终版本修订

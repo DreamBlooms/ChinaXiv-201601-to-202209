@@ -1,0 +1,236 @@
+# 基于FAREAST模型的青海云杉中-幼龄林生物量碳沿海拔梯度分布特征
+
+王清涛1,2.3，赵传燕²，王小平，胡姗姗4，刘美艳}，史文宇¹，王晓雨'，单文荣1（1 河北工程大学园林与生态工程学院,河北 邯郸056038；2兰州大学草地农业生态系统国家重点实验室，甘肃 兰州730000；3中国气象局兰州干旱气象研究所/甘肃省干旱气候变化和减灾重点实验室，甘肃 兰州 730020；4 北京师范大学减灾与应急管理研究院，北京 100875)
+
+摘要：为预测未来青海云杉在不同海拔梯度上的分布范围，基于FAREAST模型，对祁连山西部、中部和东部3个站点的青海云衫(Piceacrassifolia)中-幼龄林（ $\left( 0 \sim 6 0 \mathrm { a } \right)$ 生物量碳的海拔分布特征进行模拟。结果表明：(1)在同一站点，青海云杉幼苗幼树生物量碳在中间海拔分布最多，集中在海拔 $2 8 0 0 \sim 3 ~ 1 0 0 ~ \mathrm { m }$ 之间，此范围以外，生物量碳随之减少。(2)不同站点比较，青海云杉幼苗幼树平均生物量碳在祁连山中部最高，达到 $2 7 . 4 8 \pm 5 . 5 1 \mathrm { t \cdot C \cdot h m } ^ { - 2 }$ ，其次为东部的 $2 4 . 5 6 \pm 3 . 5 0 \mathrm { t \cdot C \cdot h m } ^ { - 2 }$ 和西部的 $2 3 . 8 0 \pm 2 . 0 7 \mathrm { t } \cdot \mathrm { C } \cdot \mathrm { h m } ^ { - 2 } \mathrm { o } \left( 3 \right)$ 青海云杉幼苗幼树分布的海拔范围约在 $2 5 0 0 \sim 3 4 0 0 \mathrm { m }$ 之间，但不同站点间存在差异。模拟得出，祁连山区青海云杉幼苗幼树生物量碳分布存在最佳海拔区间$2 8 0 0 \sim 3 ~ 1 0 0 ~ \mathrm { m }$ ，高于或低于该区间时，青海云杉的生长和更新过程将会受到限制。祁连山中部青海云杉幼苗幼树生物量碳高于东部和西部，表明中部是青海云杉生长和潜在分布的最佳区域，导致东、西部区域更新较差的原因可能是由于东部受人类活动的影响更加频繁，而西部山区则可能更易受干旱胁迫的影响。
+
+关键词：祁连山区；青海云杉幼苗幼树；FAREAST模型；生物量碳；海拔分布特征
+
+# 文章编号：
+
+森林是重要的陆地生态系统类型，也是陆地上最大的碳库之一[1-3],在全球碳循环中起着重要的媒介作用[4]。研究显示，超过 $8 0 \%$ 的地上碳储量和$4 0 \%$ 的地下碳量固定在森林生态系统中[5-6]；因此，预测森林碳储量及其分布特征对研究 $\mathrm { C O } _ { 2 }$ 浓度增加导致的气候变化具有重要的实践意义[36]。通常情况下，森林碳储量以森林生物量的多少为衡量指标，将生物量转换和扩展因子（BCEF,biomasscon-versionand expansion factor)（IPCC,20O6)通过碳计量参数转换成森林碳储量[7-9],从而评估森林系统的固碳能力。此外，预测森林生物量碳和分析林木生物量的时空分布格局对制订森林更新抚育策略也
+
+具有重要的现实意义。
+
+FAREAST模型是一种被广泛应用于森林演替和碳储量预测的林窗模型[4.10-13]。该模型在KOPIDE模型[14]和NEWCOP模型[15]的基础上加以完善（如增加了土壤演替功能模块)并获得验证[]。KOPIDE模型模拟了长白山地区针阔叶混交林的演替特征，得出色木槭(Acermono)的林分蓄积量在原生演替第130 年时达到最大值,约为 $5 0 0 \ \mathrm { m } ^ { 3 } \cdot \mathrm { h m } ^ { - 2 [ 1 4 ] }$ 。NEW-COP模型模拟了小兴安岭地区不同森林类型的演替动态，得出成年云杉在海拔高度约 $8 0 0 \mathrm { ~ m ~ }$ 时其生物量可达约 $2 0 0 \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 \left[ 1 5 \right] }$ 。然而,上述两种模型仅模拟了我国东北地区的森林动态演替和碳储量特征[,16]，未曾在其它地区进行验证和应用。为了使林窗模型在更广大的地区得到应用，基于以上两种模型，YAN等[开发了适用于远东次大陆地区的森林演替及生物量碳分布预测模型，即FAREAST模型。该模型在欧亚次大陆尺度上进行了模拟，并获得良好的效果[4I]。最近,FAREAST模型又模拟了气候变化对新疆阿尔泰山森林乔木树种构成及碳量的影响[3，表明该模型同样适用于我国西北地区的森林演替及生物量碳分布模拟。
+
+祁连山区位于我国西北内陆，这里环境恶劣，生态脆弱。青海云杉(Piceacrassifolia)作为祁连山区的优势乔木树种在该地所发挥的固碳释氧、涵养水源、调节气候以及生物多样性维持等生态服务功能具有不可替代性[17-19]。然而近几十年来,由于土地资源不合理利用等因素，导致青海云杉林的面积处于萎缩状态[20-22]。因此,探讨该地区青海云杉林幼苗幼树生物量碳的分布特征可为青海云杉更新恢复提供参考。为此，本研究选取了位于祁连山西部、中部和东部的三个站点，应用FAREAST模型模拟祁连山青海云衫中-幼龄林 $\left( 0 \sim 6 0 ~ \mathrm { a } \right)$ 生物量碳沿海拔梯度的分布特征，探索以下三个内容：(1）随林龄的增长，青海云杉幼苗幼树生物量碳的变化特征如何？(2）在同一模拟站点上，随海拔梯度升高青海云杉幼苗幼树生物量碳的分布特征如何？（3）在不同模拟站点上，青海云杉幼苗幼树生物量碳的分布特征有何差异？研究结果将不仅有助于深人理解青海云杉在不同海拔梯度上的生物量碳分布特征，也为青海云杉种群的自然更新和人工恢复提供理论支撑。
+
+# 1材料和方法
+
+# 1.1 研究区概况
+
+祁连山国家级自然保护区位于我国西北内陆（图1)，在青海省与甘肃省之间，这里地形复杂，气候多变。植被呈现明显的带状分布，低海拔区为山地干草原带，随海拔升高转变为森林草原带和高山灌丛草甸带,最后是高山垫状植被带和山顶裸岩[23-24]。祁连山中部野牛沟国家气象站多年7月平均气温$9 . 4 7 ~ \mathrm { ^ { \circ } C }$ ,多年1月平均气温 $- 1 6 . 8 6 ^ { \circ } \mathrm { C }$ ,多年平均降水$4 3 7 \mathrm { m m } ^ { [ 1 9 ] }$ 。祁连山南北两坡地势具有明显的不对称性，南坡平缓，北坡陡峭，导致北坡主要分布着以喜阴湿为主的浓密的青海云杉(Picea crassifolia)林，而阳坡则为稀疏的祁连圆柏(Sabinaprzewalskii)林。土壤类型为高山草原土、森林灰褐土和灰钙土等[24]。
+
+![](images/bcc491174faa941e050004ea76ac3d1e47e30eefd7d9efd5cc2a51b98e7a0f41.jpg)  
+图1祁连山西、中、东部模拟站点和中部天涝池小流域内验证样地位置  
+Fig.1 Simulated stations in the west,middle and east of Qilian Mountains,respectively,and the location of Tianlaochi catchment with the plots for verifying the simulation accuracy in the middle of the Qilian Mountains
+
+# 1.2FAREAST模型介绍
+
+FAREAST模型通过模拟每个斑块上（约600$\mathbf { m } ^ { 2 }$ )每棵树的更新、生长和死亡过程来实现整个森林的碳储量模拟[]。该模型包含生态气候子模型、林冠子模型、生长子模型、更新子模型和死亡子模型共五个子模型[25-26],模型结构见图2。FAREAST模型输入的驱动参量包括气候参量和土壤参量，在这两种变量的驱动下，FAREAST模型能够在不断循环的运算中模拟斑块内树木的整个生长过程。
+
+生长子模型能够模拟出斑块内树木的胸径（树高 $1 3 0 \mathrm { c m }$ 处)和枝下高[27-28];树木胸径和枝下高可以通过FORSKA模型[28]和pipe模型[29]的计算获得。此外，树木的生长还受冠层结构对光能的利用、土壤贫瘠状况和环境温度的影响，这3个参数分别通过Lambert-Beer[30]定律、ZEILG模型[31]和环境温度高于 $5 \mathrm { { ^ \circ C } }$ 的有效积温[2]获得。更新子模型可以模拟物种幼苗库(幼苗数量 $\cdot \mathrm { m } ^ { - 2 }$ )的大小;通过计算该年份本地幼苗与人侵幼苗的数量之和，再减去自然死亡数，最终得到幼苗库中幼苗的数量。死亡子模型可
+
+# 干旱区地理
+
+![](images/87717eabf88282feb42d8d78a8d48f3b6fa3810a6fec6b931cad18c7f6cf57da.jpg)  
+图2FAREAST模型结构图Fig.2Structure of FAREAST model
+
+以计算出叶和细根的更替、树枝枯落物以及树木个体死亡3种参数，树木在每年死亡的概率大约为$0 . 3 6 8 ^ { [ 2 5 ] }$ 。生态气候子模型可以模拟出生物一气候、土壤湿度以及可利用的土壤养分。FAREAST模型应用30a月尺度气候数据计算日尺度温度和土壤含水量、土壤C、N含量以及可利用的土壤养分[32-33]
+
+# 1.3运行模型所需的生物和环境参量
+
+FAREAST模型可模拟北方森林的44个乔木树种，其中也包括本研究中所模拟的云杉属乔木树种。在本模型中，我们首先选取了祁连山中部天涝池站点的青海云杉林作为模拟对象，青海云杉初始生物参量见表1。
+
+FAREAST模型所需的环境参量包括土壤参量和气候参量。土壤物理参量包括田间持水量和永久性凋萎点，其中永久性凋萎点设置在土壤深度的$1 2 . 5 ~ \mathrm { c m }$ 处[]。此外,需要4个初始的土壤参量，分别为 $\mathrm { A } _ { 0 }$ 层和腐殖质层的 $\mathrm { ~ C ~ } ( \mathrm { t } \cdot \mathrm { C } \cdot \mathrm { h m } ^ { - 2 } )$ 和 $\mathrm { ~ N ~ } ( \mathrm { t } \cdot \mathrm { C } \cdot \mathrm { h m } ^ { - 2 } )$ 的含量(表2)。所需的气候参量为月均降水、月最大和最小平均气温。其中气候数据来自距离模拟站点最近的国家气象站 $\mathrm { ( h t t p { : } / / d a t a . c m a . c n / ) }$ 0
+
+# 1.4青海云杉树龄与生物量碳的转换
+
+青海云杉属高寒树种，生长缓慢，幼龄林阶段持续时间长。一般情况下，树龄为 $4 0 \mathrm { ~ a ~ }$ 左右的青海云杉方可进入生殖期，而在更高海拔的恶劣生境中进入生殖期的树龄约为 $6 0 { \mathrm { a } } ^ { [ 3 4 ] }$ 。因此, $0 \sim 6 0$ a树龄的青海云杉林分既包含了幼苗幼树，又包含了部分成年小树，共同构成了青海云杉中-幼龄林。为了建立树龄与生物量碳之间的关系，需首先构建树龄$( \boldsymbol { y } )$ 与胸径 $( \boldsymbol { x } )$ 间的关系模型[35]：
+
+$$
+y = - 0 . 0 1 7 9 x ^ { 2 } + 2 . 3 8 2 9 x + 4 0 . 2 4
+$$
+
+式中： $y$ 表示树龄(a)， $x$ 表示胸径( $( \mathrm { c m } )$ 。通过上述公式计算得出当青海云杉胸径约 $< 8 \ \mathrm { c m }$ 时，青海云杉树龄在 $0 \sim 6 0$ a之间。
+
+根据已测得样地内青海云杉树高和胸径并查看二元材积表[18.34]可得样地内每棵树木的材积，再结合样地面积和样地内树木株数可得每个样地的生物量[18],然后通过青海云杉生物量-碳转化系数，结合模拟结果来推算青海云杉生物碳量的海拔分布。青海云杉生物量一碳换算系数通常在 $0 . 4 4 \sim$ 0.55之间。有报道指出，青海云杉各器官（干、枝、叶、根)生物量一碳换算系数平均值为 $0 . 5 2 ^ { [ 1 8 , 3 6 ] }$ ，因此本研究采用0.52作为青海云杉生物量一碳的转化系数[18]
+
+# 1.5模拟方法
+
+模拟过程分两个阶段：第一阶段在祁连山中部天涝池小流域站点模拟 $0 . 0 5 \mathrm { h m } ^ { - 2 }$ 的样方200个，模拟年限为1000年(默认为裸地原生演替)。第二阶段以模拟年限为60a青海云杉幼苗幼树的生物量碳在祁连山区西、中和东部地区三个站点沿海拔梯度分布特征作为本文的模拟结果。
+
+西部站点为祁连山国家级自然保护区祁丰站点，驱动模型的气象数据为距离该站点最近的酒泉国家气象站(纬度 $3 9 . 4 6 ^ { \circ } \mathrm { N }$ ；经度 $9 8 . 2 9 ^ { \circ } \mathrm { E }$ ；海拔 $1 4 7 7 \mathrm { m }$ )，中部为天涝池站点，气象数据来自于野牛沟国家气象站(纬度 $3 8 . 2 5 ^ { \circ } \mathrm { N }$ ;经度 $9 8 . 3 5 ^ { \circ } \mathrm { E }$ ;海拔 $3 2 0 0 \mathrm { m }$ ；东部乌鞘岭站点，气象数据来自于乌鞘岭国家气象站(纬度 $3 7 . 1 2 ^ { \circ } \mathrm { N }$ ;经度 $1 0 2 . 5 2 ^ { \circ } \mathrm { E }$ ；海拔 $3 0 4 5 { \mathrm { ~ m } } .$ 图1，模拟年限均为 $0 \sim 6 0 \mathrm { ~ a ~ }$ 。
+
+# 1.6模型验证
+
+对祁连山中部天涝池站点内10个面积为$2 5 ~ \mathrm { m } { \times } 2 5 \mathrm { ~ m }$ 的样地(图1)内胸径 $\leqslant 8 \ \mathrm { c m }$ 的青海云杉每木检尺，计算单株树龄 $\leqslant 6 0$ a青海云杉生物量，公式如下[18]：
+
+8 31 N 0 JQN 3 0 Bugnod 0 m d 1 S u 1 opan! 0 yipap 6 n 2 d 2 1 1 00 E" 5 0 E 4 57 5 0 L 5 D 0 监 3 b 0 g 8 s B XPAH 3 B 60 AAate 350 种 科 邮 青 T   
+动 Trrr nialisgi rrrier rr lrrllrers gr saliaeee leirirrl 举   
+W014 221 A 8 20200 01010 2 0001000 606020 nsernrreenr 12070 101052 raee 5300 300 - 12 1427 xeu 1 ￥ 7qe 4 8 81 1 A0 11 0000 M uo] 4582 3粥2 站 靴 祁跃韩   
+： ()(）(·）
+
+$$
+y = 7 5 . 1 8 { \frac { n } { A } } + 4 5 1 . 9 { \frac { V } { A } }
+$$
+
+式中： $y$ 表示单株青海云杉生物量， $n$ 表示样地内树木株数， $A$ 表示样地面积， $V$ 表示材积(查二元材积表获得)；得到样地青海云杉树龄 ${ \leqslant } 6 0$ a的生物量碳 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 单株青海云杉生物量碳 $\times$ 株数 $\times$ 样地面积。最后将样地内的生物量碳与模拟结果进行回归，得到实测值与模拟值的线性关系 $( p < 0 . 0 1 )$ （图3）。
+
+# 2结果与分析
+
+# 2.1祁连山区不同站点青海云杉幼苗幼树生物量碳模拟
+
+从模拟结果看出，祁连山区西部祁丰站点青海云杉 $0 \sim 6 0$ 年幼苗幼树生物量碳随时间推移呈显著的线性正相关关系 $( p < 0 . 0 1 )$ (图4)。青海云杉幼苗幼树生物量碳分布的海拔范围为 $2 6 0 0 \sim 3 ~ 4 0 0 ~ \mathrm { m }$ 超出此范围不能模拟到青海云杉幼苗幼树生物量碳。其中，海拔 $3 0 0 0 \mathrm { m }$ 处的斜率最大，为0.60,生物量碳也最高，为 $3 4 . 1 4 \mathrm { t \cdot C \cdot h m } ^ { - 2 }$ ;而在海拔 $3 4 0 0 \mathrm { m }$ 时的斜率最小为0.19,生物量碳也最小，为 $1 1 . 9 \mathrm { t \cdot C }$ .$\mathrm { h m } ^ { - 2 }$ 。由以上结果可以看出青海云杉幼苗幼树生物量碳随海拔梯度升高呈先增加后降低的趋势，在较高和较低海拔地区都不适合青海云杉幼苗幼树的
+
+![](images/dd83edc3412309423fa4d9eee2ac4cf6d1389221254227a021096f64e7171a05.jpg)  
+图3实测生物量碳与模拟生物量碳间的关系 Fig.3Relationship of biomass carbon between the observationand simulation   
+图4模拟祁连山西部祁丰站点青海云杉幼苗幼树生物量碳
+
+40 40 40$y = - 1 . 7 5 \substack { + 0 . 2 7 x }$ $2 6 0 0 \mathrm { m }$ 50 海拔2700 8x 00 海拔2.870.50xR²=0.99 R²=0.99 R²=0.99p<0.001 p<0.001 e p<0.001tX5 5 50 0 05 1015202530354045 505560 5 1015202530354045505560 5 1015202530354045505560模拟时间/a 模拟时间／a 模拟时间/a  
+4052050 海280 4002050 0 00 400 3007p<0.001 p<0.001 p<0.0015 5 50 0 05 1015202530354045505560 51015202530354045505560 5 1015202530354045505560模拟时间/a 模拟时间/a 模拟时间/a  
+400 海拔3200m 40502250 海拔3300m 海拔3400m35y=1.90+.0.35x y=2.21+0.25x 30 y=2.26+0.19xp<0.001 p<0.001 25 p<0.0012015105 5 50 0 051015202530354045505560 5 1015202530354045505560 51015202530354045 505560模拟时间/a 模拟时间／a 模拟时间/a
+
+Fig.4Simulating thebiomasscarbonofPicea crasifoliaseedling-saplingsat Qifengsiteinthe westpartofQilian Mountains
+
+更新生长，中间海拔是青海云杉分布的最佳生境。
+
+祁连山中部天涝池站点模拟到青海云杉幼苗幼树分布范围为海拔 $2 5 0 0 \sim 3 4 0 0 \mathrm { m }$ （图5)；相对于西部祁丰站点，分布范围向低海拔延伸了 $1 0 0 \mathrm { m }$ 。类似的，模拟的青海云杉幼苗幼树在60a内的生物量碳随时间推迟呈显著的线性正相关关系 $( p < 0 . 0 1 )$ 其中最大斜率和最小斜率分别出现在海拔 $3 ~ 1 0 0 \mathrm { ~ m ~ }$ 处的0.63和海拔 $2 5 0 0 \mathrm { m }$ 处的 $0 . 2 9$ 。另外,最高生物量碳出现在海拔 $3 ~ 1 0 0 \mathrm { ~ m ~ }$ 处的 $3 7 . 4 9 \ \mathrm { t \cdot C \cdot h m ^ { - 2 } }$ ，最低生物量碳出现在海拔 $2 5 0 0 \mathrm { m }$ 处的 $1 9 . 2 7 \mathrm { t \cdot C \cdot h m } ^ { - 2 }$ 0
+
+在三个模拟站点中，东部乌鞘岭站点(图6)模拟到青海云杉幼苗幼树分布的海拔范围最小，为
+
+$2 \ 5 0 0 \sim 3 \ 3 0 0 \ \mathrm { m } ,$ 。与前面两个模拟站点一样，青海云杉幼苗幼树生物量碳与时间呈显著线性正相关关系 $( \boldsymbol { p } < 0 . 0 1 )$ 。值得注意的是,乌鞘岭站点模拟到的生物量碳分布上限和下限在三个站点中最低，分别是海拔 $3 0 0 0 \mathrm { m }$ 处的 $2 9 . 6 6 \mathrm { t \cdot C \cdot h m ^ { - 2 } }$ 和海拔 $3 4 0 0 \mathrm { m }$ 处的 $8 . 6 2 \mathrm { t } \cdot \mathrm { C } \cdot \mathrm { h m } ^ { - 2 }$ 。
+
+# 2.2祁连山西、中和东部青海云杉幼苗幼树第60a生物量碳比较
+
+在三个模拟站点，青海云杉幼苗幼树生物量碳与海拔高度存在显著的 $( p < 0 . 0 1 )$ 二次多项式关系：即在每个站点上，第60a青海云杉幼苗幼树生物量碳随海拔增加呈现先增加后减少的趋势 $( \boldsymbol { p } < 0 . 0 1 )$
+
+55 40505 海20 （204号 $y = 3 . 1 2 \substack { + 0 . 3 8 x }$ $2 7 0 0 \mathrm { m }$ p<0.001201510  
+5 5 5  
+x xx xx  
+0 0 0  
+51015202530354045505560 5 1015202530354045505560 5 1015202530354045505560模拟时间/a 模拟时间/a 模拟时间/a  
+0 海20x 43 海200 405 海 $3 0 0 0 \mathrm { m }$ p<0.001 p<0.001 p<0.001  
+5 5 5  
+0 如  
+5 1015202530354045505560 51015202530354045505560 5 1015202530354045505560模拟时间/a 模拟时间/a 模拟时间/a  
+4022000 海230 p<0.001 532 海 5 海2044X p<0.001生 10  
+5 5 5  
+0 0 0  
+5 1015202530354045505560 5 1015202530354045505560 5 1015202530354045505560模拟时间/a 模拟时间/a 模拟时间／a海拔3400m30 y=-0.48+0.41x25 009201510505 1015202530354045505560模拟时间/a
+
+Fig.5Simulating thebiomassofPicecrasifoliaseedling-saplingsatTianlaochisiteinthemiddlepartofQilianMountains
+
+405302250 海拔2.500037x 4053050 海2.240m9% 405305250 海拔.2.04XR²=0.99 R²=0.99 R²=0.99p<0.001 p<0.001 p<0.001  
+5 5 5  
+0 0 0  
+5 1015202530354045505560 5 1015202530354045505560 5 1015202530354045505560模拟时间/a 模拟时间/a 模拟时间／a  
+海拔2800m 25 海拔2900m 4052250 海拔3000m  
+y=0.41+0.46x y=0.78+0.50x y=0.04.0.52xp<0.001 p<0.001 p<0.001  
+5 5 5  
+0 0 0  
+51015202530354045505560 51015202530354045505560 5 1015202530354045505560模拟时间/a 模拟时间/a 模拟时间/a  
+40050 海拔3100m 4035 海拔3200m 40250 海拔3300m  
+y=0.29+0.46x 30 y=-0.04+0.43x y=0.41+0.13xR²=0.99 25 R²=0.99 R²=0.99  
+p<0.001 2015 p<0.001 p<0.00110  
+5 5 Px  
+0 0 0  
+51015202530354045505560 51015202530354045505560 51015202530354045505560模拟时间／a 模拟时间/a 模拟时间/a
+
+（图7)，3个站点的拟合优度依次为西部祁丰站、中部天涝池站和和东部乌鞘岭站。其中，中部天涝池站点的平均生物量碳最高,为 $2 7 . 4 8 \pm 5 . 5 1 \mathrm { t \cdot C \cdot h m ^ { - 2 } }$ ，其次为东部的乌鞘岭站的 $2 4 . 5 6 \pm 3 . 5 0 \mathrm { t \cdot C \cdot h m } ^ { - 2 }$ 和西部的祁丰站的 $2 3 . 8 0 \pm 2 . 0 7 \mathrm { t \cdot C \cdot h m ^ { - 2 } }$ （图7）。
+
+![](images/34e7d515e810569f257509fb791a77a18ec8dc96789dfc99ceafd9b803576864.jpg)  
+图6 模拟祁连山东部乌鞘岭站点青海云杉幼苗幼树生物量碳  
+ig.6Simulating thebiomasscarbonof Piceacrasifoliaseddling-saplingsat WushaolingsiteintheeastpartofQilian Mou   
+图7祁连山不同海拔梯度第60a青海云杉幼苗幼树生物量碳  
+Fig.7Biomass carbon of Picea crassifolia seedling-saplings within 6O years in the Qilian Mountains along altitude gradients
+
+# 3讨论
+
+# 3.1站点尺度青海云杉幼苗幼树生物量碳分布特征
+
+基于FAREAST模型对 $0 \sim 6 0$ a青海云杉幼苗幼树生物量碳进行模拟，发现该模型能够较为准确地模拟青海云杉幼苗幼树生物量碳沿海拔梯度的分布特征。结果显示，在同一个站点上青海云杉幼苗幼树生物量碳随海拔升高呈现先增大后减少的趋势，这与张立杰等人[38在祁连山中段西水林场的研究结果较为接近。然而不同的是，其研究认为在海拔高度为 $2 9 0 0 \mathrm { m }$ 时青海云杉分布最多，海拔高度$3 3 0 0 \mathrm { m }$ 时青海云杉分布最少；这与我们在祁连山中部天涝池站点模拟的青海云杉幼苗幼树生物量碳分布规律有差异，这种差异可能源自以下2个原因：（1）站点不同。张立杰等[38]人调查的是祁连山中部的西水林场,这里更靠近山系北部边缘，是浅山区;而天涝池站点位于深山区，无论地形特征还是气候模式，两个站点均存在很大差别，这种差异也决定了青海云杉幼苗幼树生物量碳分布的差别。（2）调查或模拟的青海云杉生长阶段不同。前者是以成年稳态青海云杉种群为调查对象[38-39],而本研究是模拟青海云杉幼苗幼树的生物量碳分布特征，这也是造成结果差异的一个重要原因。
+
+青海云杉喜阴湿，耐严寒，独特的生态习性决定了青海云杉种群分布在祁连山区的特定海拔高度[17.23]。本文得出当海拔高度为 $2 8 0 0 \sim 3 ~ 1 0 0 ~ \mathrm { m }$ 时，青海云杉幼苗幼树生物量碳最高，当海拔高度 $>$ $3 \ 4 0 0 \ \mathrm { m }$ 时，FAREAST模型无法模拟到青海云杉。青海云杉幼苗幼树这种受控于海拔和地形因子的分布特征，在本质上是受控于气候对地形的依赖。在西北山区，低海拔地区由于降水稀少可能会对青海云杉生长和更新产生干旱胁迫，造成更新缓慢;在高海拔地区虽然降水增加，但低温胁迫却是限制青海云杉更新与分布的主要环境变量[17.38]。因此,中等海拔地区由于其优越的水一热组合条件构成了青海云杉种群分布与更新的最佳生境[19.23]
+
+# 3.2景观尺度青海云杉幼苗幼树生物量碳分布特征
+
+从模拟结果来看，在裸地原生演替60a内，三个模拟站点都能够模拟到青海云杉幼苗幼树生物量碳，但这三个站点青海云杉幼苗幼树生物量碳所能达到海拔上限和下限不同。在3个站点中，中部天涝池站点模拟到的海拔范围最广，其原因可能是与青海云杉生长所需的生境相关[17-18]。天涝池站点地处深山区，高耸的山峰能够对西南暖湿气流产生巨大的抬升作用，形成大量降水[23];并且该站点土壤有机质丰富，透水性好[40]，良好的生境条件形成了天涝池站点成为模拟到青海云杉幼苗幼树生物量碳分布最广、最多的地区。祁连山西部祁丰站点模拟到的青海云杉幼苗幼树生物量碳最少，主要原因可能是这里更接近巴丹吉林沙漠，气候干旱、温差大，恶劣的气候条件严重影响了青海云杉生长与更新。祁连山东部乌鞘岭站点模拟到的生物量碳居中；其原因可能是该站点位于祁连山系的东部边缘，这里人类活动频繁，且20世纪60年代遭到严重砍伐，影响树木的生长和更新，是导致生物量碳偏低的一个重要原因[41]。综上所述,影响青海云杉幼苗幼树生物量碳分布的关键因素有两个：环境胁迫因素和人类干扰因素。只有深入了解物种的演替和分布对外界环境变化的响应策略[42-45],才能将理论融于实践，并为祁连山区青海云杉天然林更新和生态恢复提供理论和技术指导。
+
+# 4结论
+
+基于青海云杉的生物参量和环境参量，本研究应用FAREAST模型模拟了祁连山西部祁丰站、中部天涝池站和东部乌鞘岭站三个站点的青海云杉幼苗幼树( $\mathrm { \Delta } ( 0 \sim 6 0 \mathrm { \ a } )$ 生物量碳沿海拔梯度的空间分布特征，其结论如下：
+
+(1）在祁连山西部、中部和东部三个站点的任何一个海拔高度上(青海云杉生境范围内)模拟到$0 \sim 6 0$ a青海云杉幼苗幼树生物量碳随时间的推移均呈显著线性增加的趋势。在第 $6 0 \mathrm { ~ a ~ }$ ,中部天涝池站点平均生物量碳最高,达到 $2 7 . 4 8 \pm 5 . 5 1 \mathrm { t \cdot C \cdot h m ^ { - 2 } }$ ，其次为东部乌鞘岭站的 $2 4 . 5 6 \pm 3 . 5 0 \mathrm { t \cdot C \cdot h m } ^ { - 2 }$ 和西部祁丰站的 $2 3 . 8 0 \pm 2 . 0 7 \mathrm { t \cdot C \cdot h m ^ { - 2 } }$ 0
+
+(2）在每个模拟站点，青海云杉幼苗幼树生物量碳与海拔梯度之间均呈现二次多项式关系，即在每个站点青海云杉幼苗幼树生物量碳随海拔梯度的增加而增加，达到峰值后降低;这表明青海云杉的更新存在最佳海拔区间，在最佳海拔区间范围外，更新受到限制。
+
+(3）在祁连山西部、中部和东部模拟到青海云杉幼苗幼树生物量碳所能达到的海拔上限和下限不同。西部和中部站点幼苗幼树达到的最高海拔在 $3 4 0 0 \mathrm { m }$ 处，东部最高到海拔 $3 3 0 0 \mathrm { ~ m ~ }$ 处。西部幼苗幼树达到的最低海拔在 $2 6 0 0 \mathrm { m }$ 处、中部和东部最低海拔在 $2 5 0 0 \mathrm { m }$ 处。表明青海云杉幼苗幼树生物量碳的分布受到生境因子的限制，这与每个站点的气候变量、土壤变量、地形变量以及人类活动的影响等密切相关。
+
+致谢：兰州大学草地-农业生态系统国家重点实验室和甘肃省祁连山国家级自然保护区管理局寺大隆林场向阳台林站的工作人员对该研究提供了支持，表示感谢！另外，两位匿名审稿人对本文提出了非常有价值的建议，在此表示感谢！
+
+# 参考文献(References)
+
+[1] CAO M,WOODWARD FI.Net primary and ecosystem production
+
+# 干吴区地理
+
+and carbon stocks of terrestrial ecosystems and their responses to climate change[J]. Global Change Biology,1998,4: 185-198.   
+[2]FOSTER A C, SHUMAN J K,SHUGART H H, et al. Validation and application of a forest gap model to the southern Rocky Mountains[J]. Ecological Modeling,2017,351: 109-128.   
+[3]赵苗苗,赵娜,刘羽,等.森林碳计量方法研究进展[J].生态学 报,2019,39(11): 1-11. [ZHAO Miaomiao, ZHAO Na, LIU Yu,et al.An overview of forest carbon measurement methods[J].Acte Ecological Sinica,2019,39(11): 1-11.]   
+[4]ZHANG N N, SHUGART HH, YAN X D. Simulating the effects of climate changes on eastern eurasia forests[J]. Climatic Change, 2009, 95: 341-361.   
+[5]贺鹏,张会儒,雷相东,等.基于地统计学的森林地上生物量估 计[J].2013,林业科学,49(5):101-109.[HE Peng,ZHANG Huiru,LEI Xiangdong,et al.Estimation of forest above-ground biomassbased on geostatistics[J].ScientiaSilvae Sinicae,2013, 49 (5): 101-109.]   
+[6]丛俊霞,郑晓,朱教君,等.沙地樟子松天然林地上碳储量估算 及其空间分布特征[J].生态学杂志,2017,36(11):2997-3007. [CONG Junxia,ZHENG Xiao, ZHU Jiaojun,et al. Estimation and spatial distribution of aboveground carbon storage for natural Pinus sylvestris var. mongolica forests on sandy land[J]. Chinese Journal ofEcolgy2017,36():2997-007.]   
+[7]FANG JY, CHEN A P,PENG C H, et al. Changes in forest biomass carbon storage in China between 1949 and 1998[J]. Science, 2001,292(5525): 2320-2322.   
+[8]李海奎,赵鹏祥,雷渊才,等.基于森林清查资料的乔木林生物 量估算方法的比较[J].林业科学,2012,48(5):44-52.[LI Haikui, ZHAO Pengxiang,LEI Yuancai,et al. Comparison on estimation of wood biomass using forest inventory data[J]. Scientia Silvae Sinicae,2012,48(5): 44-52.]   
+[9]左舒翟,任引,王效科,等.中国杉木林生物量估算参数及其影 响因素[J].林业科学,2014,5(11): 1-12.[ ZUO Shuqu,ReN Yin, WANG Xiaoke, et al. Biomass estimation factors and their determinants of Cunninghamia lanceolata forests in China[J]. Scientia Silvae Sinicae,2014,5(11): 1-12.]   
+[10] 傅伯杰,赵文武,陈利顶.地理-生态过程研究的进展与展望[J]. 地理学报,2006,61(11): 1123-1131.[FU Bojie, ZHAO Wenwu, CHEN Liding.Progress and perspective of geogr-aphical-ecological processes[J].Acta Geographical Sinica,2006,61(11):1123- 1131.]   
+[11] YAN XD, SHUGART HH. FAREAST: A forest gap model to simulate dynamics and pattrns of eastern Eurasian forests[J]. Journal of Biogeography,2005,32: 1641-1658.   
+[12]FISCHER R,BOHN F,PAULA M D D,et al. Lessons learned from applying a forest gap model to understand ecosystem and carbon dynamics of complex tropical forests[J].Ecological Modeling, 2016, 326:124-133.   
+[13]HU S S, MA JY,SHUGARTHH, et al. Evaluating the impacts of slope aspect on forest dynamic succession in Northwest China based on FAREAST model[J]. Environmental Research Letters, 2018,13(3): 12-14.   
+[14]SHAO G F, SCHALL P, WEISHAMPEL JF. Dynamic simulations of mixed broadleaved Pinus koraiensis forests in the Changbaishan Biosphere Reserve of China[J]. Forest Ecology and Management, 1994, 70: 169-181.   
+[15] YAN X D,FU C B,SHUGART HH. Simulating the effect of climate change on Xiaoxing'an Mountain forests[J]. Chinese Journal of Plant Ecology,2000,24: 327-334.   
+[16] 延晓冬,赵士洞,于振良.中国东北森林生长演替模拟模型及其 在全球变化研究中的应用[J].植物生态学报,200,24(1):1-8. [YAN Xiaodong, ZHAO Shidong,YU Zhenliang. Modeling growth and succession of northeastern China forests and its applications global change studies[J].Acta Phytoecologica Sinica, 2000,24(1): 1-8.]   
+[17] ZHAO C Y, NAN Z R,CHENG G D,et al. GIS-assisted modeling of the spatial distribution of Qinghai spruce (Picea crasifolia) in the Qilian Mountains,northwestern China based on biophysical parameters[J]. Ecological Modeling,2006,191: 487-500.   
+[18] 彭守璋,赵传燕,郑祥霖,等.祁连山青海云杉林生物量和碳储 量空间分布特征[J].应用生态学报,2011,22(7):1689-1694. [PENG Shouzhang, ZHAO Chuanyan, ZHENG Xianglin, et al. Spatial distribution characteristics of the biomass and carbon storage of Qinghai spruce (Picea crassfolia forests in Qilian Mountains [J]. Chinese Journal of Applied Ecology,2011,22(7): 1689-1694.]   
+[19] WANGQ T, ZHAO C Y, GaAO C C, et al. Effects of environmental variables on seedling-sapling distribution of Qinghai spruce (Picea crassifolia)along altitudinal gradients[J].Forest Ecology and Management, 2017,384: 54-64.   
+[20] 郭锯,杨兰芳,李民轩.利用气象卫星资料研究祁连山区植被和 积雪变化[J].应用气象学报,2003,14(6):700-707.[GUO Ni, YANG Lanfang,LI Minxuan. Study of changes of vegetation and snow area in Qilian Mountains using meteorology satelite data[J]. Journal of Applied Meteorological Science,2003,14(6): 700-707.]   
+[21] 别强,赵传燕,强文丽,等.祁连山自然保护区青海云杉林近四 十年动态变化分析[J].干旱区资源与环境,2013,27(4):176- 180.[BIE Qiang, ZHAO Chuanyan,QIANG Wenli, et al. Dynamic change of Picea crassflia in Qilian Mountain in recent 4O years [J].Journal of Arid Land Resources and Environment, 2013,27 (4): 176-180.]   
+[22]PENG S Z, ZHAO C Y, XU Z L. Modeling stem volume growth of Qinghai spruce (Picea crassfolia Kom.) in Qilian Mountains of northwest China[J]. Scandinavian Journal of Forest Research, 2015, 30: 449-457.   
+[23] 赵传燕,别强,彭焕华.祁连山北坡青海云杉林生境特征分析 [J].地理学报,2010,65(1):113-121.[ZHAO Chuanyan,BIE Qiang,PENG Huanhua.Analysis of the niche space of Picea crassifolia on the northern slope of Qilian Mountains[J].Acta of Geographica Sinica, ∠UiU,oə(1): 113-121.」   
+[24] 李文娟,黄力平,赵传燕,等.黑河上游天涝池流域典型灌木生 态参数研究[J].干旱区地理,2018,41(5):175-181.[LI Wenjuan,HUANG Liping, ZHAO Chuanyan, et al. Ecological parameters of a typical shrub in Tiaolaochi catchment in the upper reach of Heihe River[J].Arid Land Geography,2018,41(5): 175-181.]   
+[25]SHUYGART H H.A theory of forest dynamics[M]. New York: Springer Press,1984: 20-89.   
+[26]BOTKIN D B.Forest dynamics: an ecological model[M]. Oxford: Oxford University Press,1993:145-201.   
+[27]BOTKIN D B,JAMES FJ, JAMES R W. Some ecological consequences of a computer model of forest growth[J]. Journal of Ecology,1972,60: 849-872.   
+[28] LEEMANS R, PRENTICE IC.FORSKA: A general forest succession[M].Uppsala: Model Institute of Ecological Botany Press, 1989: 1-70.   
+[29] SHINOZAKI K, YODA K,HOZUMI K,et al. A quantitative analysis of plant form-the pipe model theory.I. Basic analysis[J]. Japanese Journal of Ecology,1964,14: 97-105.   
+[30]BARTELINK HH. Radiation interception by forest trees:A simulation study on efects of stand density and foliage clustering on absorption and transmission[J].Ecological Modelling,1998,(105): 213-225.   
+[31]URBAN D L, BONAN G B,SMITH TM, et al. Spatial applications of gap models[J].Forest Ecology and Management,1991, (42): 95- 110.   
+[32]URBAN D L, SHUGART H H. Individual-based models of forest succession. Plant succession: theory and prediction[M]. London: Chapman and Hall Press,1992: 89-152.   
+[33]POST WM,PASTOR J. Linkages: An individual-based forest ecosystem model[J]. Climatic Change,1996,34: 253-261.   
+[34]刘兴聪.青海云杉[M].兰州:兰州大学出版社,1992:35-156. [LIU Xingcong.Picea crassifolia[M]. Lanzhou: Lanzhou University Press, 1992: 35-156.]   
+[35] 金铭,李毅,刘贤德,等.祁连山青海云杉林空间结构分析[J].干 旱区地理,2012,35(4):587-593.[JIN Ming,LIYi,LIU Xiande, et al. Spatial structure characteristic of Picea crassifolia in Qilian Mountains[J].Arid Land Geography,2012,35(4): 587-593.]
+
+[36] 王金叶,车克钧,将志荣.祁连山青海云杉林碳平衡研究[J].西
+
+北林学院学报,2000,15(1): 9-14.[WANG Jinye,CHE Kejun,JIANG Zhirong.A study on carbon balance of Picea crassifolia in QilianMountains[J].Journal of Northwest Forestry University, 2000,15(1): 9-14.]   
+[37] 李效雄,刘贤德,赵维俊.祁连山大野口流域青海云杉种群结构 和空间分布格局[J].干旱区地理,2012,35(6):960-967.[LI Xiaoxiong,LIU Xiande, ZHAO Weijun. Population structure and spatial distribution pattern of Picea crassifolia in Dayekou Basin of Qilian Mountains [J].Arid Land Geography,2012,35(6):960- 967.]   
+[38] 张立杰,蒋志荣.青海云杉种群分布格局沿海拔梯度分形特征 的变化[J].西北林学院学报,2006,21(2): 64-66.[ZHANG Ljie, JIANG Zhirong.Fractal properties of spatial patern of Picea crassifolia population at different altitudes[J].Journal of Northwest Forestry University,2006,21(2): 64-66.]   
+[39] 牛赞,刘明龙,马剑,等.祁连山大野口流域青海云杉林分结构 分析[J].中南林业科技大学学报,2014,34(11):23-28.[NIU Yun,LIU Minglong,MA Jian, et al.Analysis on stand structure of Picea crassifolia forest in Dayekou basin of Qilian Mountains[J]. Journal of Central South University of Forestryand Technology, 2014,34(11): 23-28.]   
+[40]WANG C, ZHAO C Y, XU Z L,et al. Effect of vegetation on soil water retention and storage in a semi-arid alpine forest catchment [J]. Journal of Arid Land,2013,5: 207-219.   
+[41] 刘晶,刘学录,侯莉敏.祁连山东段山地景观格局变化及其生态 脆弱性分析[J].干旱区地理,2012,35(5):795-805.[LIU Jing, LIU Xuelu,HOU Limin. Changes and ecological vulnerability of landscape patern in Eastern Qilian Mountain[J].Arid Land Geography,2012,35(5): 795-805.]   
+[42] GRIME JP. Plant strategies and vegetation processes[M]. Chichester: Wiley press.1979: 123-156.   
+[43]GRIME JP.Evidence for the existence of three primary strategies in plants and its relevance to ecological and evolutionary theory[J]. American Naturalist,1977,111: 1169-1194.   
+[44] SMITH T M.HUSTON M.A theory of the spatial and temporal dynamics of plant communities[J]. Vegetatio,1989,83: 49-69.   
+[45]SMITH T M, SHUGART HH,WOODWARD FI. Plant functional types: their relevance to ecosystem properties and global change [M]. Cambridge: Cambridge University Press,1996:78-105.
+
+# Simulating the biomass carbon distribution of young-and-middle aged Picea crassifolia forests based on FAREAST model along altitude gradients
+
+WANG Qing-tao123， ZHAO Chuan-yan²， WANG Xiao-ping²， HU Shan-shan4, LIU Mei-yan’， SHI Wen-yu'， WANG Xiao-yu'， SHAN Wen-rong' (1CollegeofLandscapeandEcologicalEngineering,Hebei UniversityofEngineering,HandanO56oo,Hebei,   
+China;2StateKeyLaboratoryofGrassandAgro-ecosystems,LanzhouUniversity,Lanzhou 73oo,Gansu,China;   
+3InstituteofAridMeteorologicalLanzhou,CMA,KeyLaboratoryofAridClimateChangeandReducingDisasterof Gansu Province,Lanzhou 73o020,Gansu,China,4Academy of Disaster Reduction and Emergency Management,BeijingNormal University,Beijing l0o875,China)
+
+Abstract:Picea crasifolia is a dominant tree species of the forests in northwestern China's Qilian Mountains, where it plays important roles in carbon cycling,carbon storage,and various ecosystem services such as water retention and sand fixation. However, the forest area of $P$ . crassifolia continues to shrink because of irresponsible usage of forest resources,which is resulting in reduced ecological service function.Thus,it is necessary to restore the $P$ .crasiflia forest area.Because of the loads of important information thatcanbe provided by the distribution of biomass carbon of $P$ . crassifolia seedlings and saplings along altitude gradients, it is crucial to understand the distribution of the region’s youngandmiddle-aged ( $0 - 6 0$ aged) $P$ . crassifolia forests to successfully implement restorationand conservation programs.In this study,anupdated forest gap model,FAREAST,isusedto simulate the distribution of biomass carbon of youngand middle-aged $P$ . crassifolia forests along altitude gradients in the western (Qifeng set),easter (Wushaoling set),and central (Tianlaochi set)Qilian Mountains.The FAREASTmodel is validated for these sets against survey data.The results of the study are as folows.(1)The biomasscarbon of $P$ crassifoliaseedlings andsaplings is greatest at medium altitude,i.e.,280o-310O ma.s.l.;however,biomass carbon decreases beyond this range.(2) The average biomass carbon of $P$ ，crassifolia seedlings and saplings reaches （204号 $2 7 . 4 8 \pm 5 . 5 1 \mathrm { { t } \cdot \mathrm { { C } \cdot { h m } ^ { - 2 } \mathrm { { i n } } } }$ the Tianlaochi set,followed by $2 4 . 5 6 \pm 3 . 5 0 \mathrm { ~ t ~ } \cdot \mathrm { ~ C ~ } \cdot \mathrm { { h m } ^ { - 2 } \mathrm { { i } } }$ n the Qifeng set and $2 3 . 8 0 \pm$ （204 $2 . 0 7 \ \mathrm { t } \cdot \mathrm { C } \cdot \mathrm { h m } ^ { - 2 } \mathrm { i n }$ the Wshaoling set.(3) The highest altitude for distribution of biomass carbon of $P$ . crassifolia seedlings and saplings across the Qilian Mountains is $3 , 4 0 0 \mathrm { ~ m ~ }$ a.s.l.and the lowest is $2 { , } 5 0 0 \ \mathrm { m }$ a.s.l.. The biomass carbon of $P$ ，crassifolia seedlings and saplings is higher in the central Qilian Mountains than in the eastern and western parts,which suggests that the central part is optimal for regeneration of $P$ .crassifolia.The results from the study show thatthe FAREAST forest gap model can be used to inform forest management and ecosystem services function in this region.
+
+Key Words: the Qilian Mountains； Pciea crasifolia seeding-saplings； FAREAST model;biomass carbon;altitude distribution characteristics.

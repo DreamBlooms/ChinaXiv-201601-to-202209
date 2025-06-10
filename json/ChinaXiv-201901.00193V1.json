@@ -1,0 +1,584 @@
+[
+    {
+        "type": "text",
+        "text": "基于聚类PSO-LSSVM模型的PAD维度预测",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡艳香，孙颖，张雪英，段淑斐(太原理工大学 信息与计算机学院，太原 030024)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对 PAD(pleasure：愉悦度、arousal：激活度、dominance：优势度)预测精度问题，提出将最小二乘支持向量机(least squares support vector machine,LSSVM)经粒子群优化(particle swarm optimization,PSO)算法优化再与情感聚类分析结合的聚类 PSO-LSSVM模型。对 TYUT2.0和柏林语音库的三种情感语音提取情感特征，基于特征与标注的P、A、D对三种单一情感分别建立各类情感维度PSO-LSSVM模型以及对三种情感建立混合情感维度PSO-LSSVM模型；然后利用混合情感维度 PSO-LSSVM模型预测P、A、D，并计算其与基本情感 PAD 的距离；最后将距离大于阈值的情感聚类为混合情感，将距离小于阈值的情感聚类为与其距离最近的情感，并利用对应情感的回归模型预测其P、A、D。研究显示，该模型对P、A、D的预测误差较 LSSVM和 PSO-LSSVM模型更小，且预测值与标注值的相关性更强，说明聚类PSO-LSSVM模型对P、A、D的预测更加可靠、准确。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：情感维度PAD；最小二乘支持向量机；粒子群优化算法；情感聚类分析 中图分类号：TN912.3 doi:10.19734/j.issn.1001-3695.2018.10.0735 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Forecast of pad dimensions using clustering pso-lssvm model ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hu Yanxiang, Sun Ying+, Zhang Xueying, Duan Shufei (College of Information&Computer,Taiyuan University ofTechnology,Taiyuan O30o24,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In view of the imprecision problem for PAD(Pleasure、Arousal、Dominance) prediction,this paper proposed clustering PSO-LSSVM model combineing Least Squares Support Vector Machine(LSSVM)optimized by Particle Swarm Optimization(PSO)and affective clustering analysis.Firstly，selecting three emotion speeches of TYUT2.0 emotional speech databaseand Berlin voice library，and extracting emotion features.Establishing Single emotional dimension PSO-LSSVM models for three single emotion and the mixed emotion dimension PSO-LSSVM model for three emotions based on emotion features and P,A and D values.The mothod used mixed emotion dimension PSO-LSSVM model to predict the P,Aand Dvalues of the test set,and calculated the distance between the predictive PADand the PADof the basic emotion.Finally clustering the emotion whose distance is greater than the threshold into mixed emotion，and clusterng the emotion whose distance is less than the threshold intothe nearest emotions,then using thecorresponding emotional dimensionregression model to predict itsP,AandD.Theresearch showed thatthe predictive errorofclustering PSO-LSSVMregresion model toP,Aand D wassmaller than thatofLSSVMand PSO-LSSVMmodel,andthecorrelation between the predicted value and the tagged value was stronger.So the clustering PSO-LSSVMregression model is more reliable and accurate in predicting P, A and D values. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: emotional dimensions pad;least squares support vector machine； particle swarm optimization algorithm: affective clustering analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "情感计算对于成熟的人工智能发展是不可或缺的，情感维度从情感的心理学属性对情感进行描述，在情感计算[1]方面具有重要意义。随着人机交互的智能化发展，离散情感已经难以满足生活化的自然情感识别，因此研究蕴涵情感信息的连续情感维度就显得尤为重要，鉴于情感维度难以实时监测的特点，决定了要通过建立数学模型来进行维度预测，而对数据进行模拟与拟合是进行有效预测的主要手段[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人工智能预测方法主要包括神经网络和支持向量机。但神经网络所需数据样本大，在小样本的情感语音中无法保证预测精度。支持向量机(support vector machines,SVM)[3]可有效解决小样本、非线性等复杂系统问题，但需要求解二次规划方程，计算复杂性较大。最小二乘支持向量机(least squaressupportvectormachine,LSSVM)[4]通过等式约束对SVM进行改进，同时参数选择优化方法即粒子群优化(particle swarmoptimization，PSO)算法[5]的引入使其建模过程中的参数选择更为客观。PSO-LSSVM算法目前主要应用于太阳能温室温度预测[、节流液速预测[7等方面，尚未见有资料将其应用于情感维度预测。但是不同情感的情感特征之间错综复杂的相互作用容易影响PSO-LSSVM回归模型对情感维度的预测精度，因此在该回归模型中引入情感聚类分析以降低不同情感情感特征之间的影响是必要的。本文提出根据PSO-LSSVM模型的初次预测结果与基本情感中心PAD的距离进行聚类处理，再采用PSO-LSSVM回归模型进行二次维度预测。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以PAD三维情感模型[8]为基础，首先提取情感语音的情感特征；然后分别采用三组回归模型：LSSVM回归模型、PSO-LSSVM 回归模型、聚类PSO-LSSVM 回归模型建立语音的情感特征(韵律特征、MFCC 特征和非线性特征)与人工标注P、A、D值的映射关系，实现对情感语句的P、A、D值预测；最后对三类回归模型的预测结果进行比较分析，实验结果表明聚类PSO-LSSVM回归模型对P、A、D值的预测精度更高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 PAD三维情感模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "日常生活中人类的情感比较微妙和复杂，如悲喜交加、喜极而泣等情感不完全属于某一基本情感类别，故提出情感的连续空间论[9来解决该问题。该理论认为人类的情感由空间的几个维度组成，该空间几乎可以涵盖人类所有的情感，不同情感可以实现连续、平稳地转变。连续情感模型中较为典型的是PAD三维情感模型，该模型由UCLA大学的MEHRABIAN开发[8]，采用语义差异评价方法将情感分为三个维度，分别为P代表愉悦度（pleasure-displeasure，表示个体情感状态的正负特性）A代表激活度（arousal-nonarousal，表示个体的神经生理激活程度)和D代表优势度（dominance-submissiveness，表示个体对情境和他人的控制状态）。PAD三维情感模型从P、A、D三个角度对情感进行描述，便于量化日常生活中连续、多样的情感。PAD三维情感模型如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddcaa008ec09b854856c7967002da34401a13563a73a6bcab5459ab767703722.jpg",
+        "img_caption": [
+            "图1PAD三维情感模型 Fig.1 PAD dimensions model "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 理论基础 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1最小二乘支持向量机理论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LSSVM 算法[4]的基础是支持向量机(supportvectormachine,SVM)。SVM将输入的数据通过非线性映射方式映射到高维特征空间，将问题转换为一个由不等式约束的二次规划问题，但其计算复杂度较大，故将最小二乘线性理论引入到SVM中进行改进，使得传统的二次规划问题转换为求解线性方程组问题，降低计算的复杂度。LSSVM算法基本原理是：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设定样本集：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ x _ { i } , y _ { i } \\} , i = 1 , 2 , \\cdots , n \\left\\{ \\begin{array} { l l } { { \\operatorname* { m i n } } } & { { f ( \\mathbf { C } , \\sigma ) } = \\displaystyle \\sum _ { i = 1 } ^ { \\mathrm { n } } ( y _ { i } - \\hat { y } ) ^ { 2 } \\medskip } \\\\ { s . t . } & { C \\in [ \\mathbf { C } _ { \\operatorname* { m i n } } , \\mathbf { C } _ { \\operatorname* { m a x } } ] , \\sigma \\in [ \\sigma _ { \\operatorname* { m i n } } , \\sigma _ { \\operatorname* { m a x } } ] } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $x _ { i } \\in R ^ { d }$ 为输入变量； $y _ { i } \\in R$ 为相应的输出； $n$ 为样本集的大小； $\\Phi ( \\mathbf { x } )$ 将低维样本映射到高维特征空间 $H$ ,构造最优决策函数 $y = \\pmb { \\omega } ^ { T } \\Phi ( \\mathbf { x } ) + b$ ( $w$ 是权向量， $b$ 是偏差)。对于外输入",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "的样本 $x$ ，有 $\\begin{array} { r } { | y - w ^ { T } \\Phi ( x ) - b | \\leq e _ { i } } \\end{array}$ ，则LSSVM的优化问题为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } J ( w , e ) = \\frac { 1 } { 2 } w ^ { T } w + \\frac { 1 } { 2 } C \\sum _ { i = 1 } ^ { n } { e _ { i } } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { s . t . \\quad } & { { } y _ { i } = w ^ { T } \\Phi ( x _ { i } ) + b + e _ { i } , ( i = 1 , 2 , \\cdots , n ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $c$ 为正则化参数； $e _ { i } \\in R$ 为误差变量。用Lagrange 法求解以上优化问题，转换为以下线性问题：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ 0 \\pmb { I } ^ { \\tau }  \\pmb { C } ] [ \\pmb { b } ] = [ \\begin{array} { l } { \\mathbf { 0 } } \\\\ { \\mathbf { y } } \\end{array} ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\pmb { I } = [ 1 , 1 , \\cdots , 1 ] ^ { r }$ 为 $\\mathbf { n }$ 个1组成的向量，为 $\\mathfrak { n }$ 阶单位矩阵；$\\pmb { y } = [ y _ { 1 } , y _ { 2 } , \\cdots , y _ { n } ] ^ { T }$ ； $\\pmb { a } = [ \\alpha _ { 1 } , \\alpha _ { 2 } , \\cdots , \\alpha _ { n } ] ^ { T }$ 为lagrange乘子向量； $\\kappa$ 为核函数矩阵， $K ( x _ { i } , x _ { j } ) = \\Phi ( x _ { i } ) ^ { T } \\Phi ( x _ { j } ) , i , j = 1 , 2 , \\cdots , n$ 。本文实验采用径向基(RBF)核函数， $\\boldsymbol { \\sigma }$ 是核函数宽度，RBF核函数为$K ( x , x _ { i } ) = \\exp ( { - \\frac { \\left\\| x - x _ { i } \\right\\| ^ { 2 } } { 2 \\sigma ^ { 2 } } } ) ~ ,$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最后得到LSSVM模型：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny ( x ) = \\sum _ { i = 1 } ^ { n } \\alpha _ { i } K ( x , x _ { i } ) + b\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在LSSVM 模型中， $x$ 表示模型输入， $y ( x )$ 表示模型输出，在本文研究中， $x$ 代表语音情感特征， $y ( x )$ 表示语音情感维度值。根据LSSVM的回归原理可知，有两类参数的选择是需要特别关注的，即正则化参数 $c$ 和核参数 $\\sigma$ 。为减少对两类参数主观选择的盲目性，本文采用粒子群优化的方法来选取LSSVM的正则化参数 $c$ 和核参数 $\\sigma$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2粒子群优化算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PSO算法[5]是一种基于群体智能的优化计算方法。该算法在对飞鸟集群行为观察的基础上，利用群体中的个体对信息的共享，实现整个群体从无序到有序的演化运动过程，从而得到最优解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PSO 算法中， $u _ { i } = ( u _ { i 1 } , u _ { i 2 } , \\cdots , u _ { i n } )$ 表示粒子 $i$ 的位置向量，$p _ { i } = ( p _ { i 1 } , p _ { i 2 } , \\cdots , p _ { i n } )$ 表示第 $i$ 个粒子经历过的最好位置，每个粒子的速度向量表示为 $\\nu _ { i } = ( \\nu _ { i 1 } , \\nu _ { i 2 } , \\cdots , \\nu _ { i n } )$ ，种群中所有粒子经历过的最好位置为 $p _ { g } = ( p _ { g 1 } , p _ { g 2 } , \\cdots , p _ { g n } )$ ，粒子 $i$ 的速度、位置更新公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left\\{ \\nu _ { i n } ^ { k + 1 } = w \\nu _ { i m } ^ { k } + c _ { 1 } r _ { 1 } ( p _ { i n } - u _ { i n } ^ { k } ) + c _ { 2 } r _ { 2 } ( p _ { g n } - u _ { i n } ^ { k } ) \\right. } \\\\ & { \\left. \\left\\{ u _ { i n } ^ { k + 1 } = u _ { i n } ^ { k } + \\nu _ { i n } ^ { k + 1 } \\right. \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $r _ { 1 }$ 和 $r _ { 2 }$ 是[0,1]之间的随机数； $w$ 是惯性权重，可以平衡算法的全局搜索能力以及局部搜索能力； $c _ { 1 }$ 和 $c _ { 2 }$ 分别是自我学习因子和社会学习因子。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3基于PSO 优化的LSSVM回归模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义目标函数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { \\displaystyle \\operatorname* { m i n } } & { \\displaystyle f ( \\mathbf { C } , \\sigma ) = \\sum _ { i = 1 } ^ { \\mathfrak { n } } ( y _ { i } - \\hat { y } ) ^ { 2 } } \\\\ { \\displaystyle s . t . } & { \\displaystyle C \\in [ \\mathbf { C _ { \\operatorname* { m i n } } } , \\mathbf { C _ { \\operatorname* { m a x } } } ] , \\sigma \\in [ \\sigma _ { \\operatorname* { m i n } } , \\sigma _ { \\operatorname* { m a x } } ] } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $y _ { i }$ 是第 $i$ 个情感样本的 $\\mathrm { ~ \\bf ~ P ~ }$ 、A、D维度标注值； $\\hat { \\boldsymbol { y } } _ { i }$ 是模型对样本的 $\\mathrm { ~ \\bf ~ P ~ }$ 、A、D预测输出值，可由式(3)计算得到。PSO 算法优化LSSVM模型的目标是通过一系列迭代算法搜索一组参数 $( C , \\sigma )$ ，使目标函数式(5)，即情感维度的主观标注值与模型对维度的客观预测值的误差达到最小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4情感聚类分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在语音情感聚类中，传统的聚类方法是在特征空间上进行聚类[10]，这种聚类结果产生的依据是语音信号，然而这样的聚类结果未必与情感相关。针对语音情感聚类问题，本文通过描述连续情感的情感维度进行聚类，即通过语音的初步PAD 预测值与基本情感中心PAD 值的距离进行情感聚类。其流程如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/68aee517303cb8ee7eec8f0c2e4d57a90639d7a016d967a62d26420b7630020b.jpg",
+        "img_caption": [
+            "Fig.2Flow chart of emotional clustering analysis "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "尽管聚类算法很多，如 $\\mathbf { k }$ -均值聚类、模糊聚类等，但都没有可以直接确定聚类阈值的方法。为了直观地确定聚类阈值，阈值的确定依据情感语音的PAD初步预测值与基本情感的欧氏距离[1]进行取值。欧氏距离计算表达式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { d i s t } ( Y , Z ) = \\sqrt { ( \\hat { y } _ { P } - z _ { P } ) ^ { 2 } + ( \\hat { y } _ { A } - z _ { A } ) ^ { 2 } + ( \\hat { y } _ { D } - z _ { D } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\hat { y } _ { P }$ 、 $\\hat { y } _ { A } ^ { \\phantom { \\dagger } }$ 、 $\\hat { y } _ { D }$ 分别为情感语音的 P、A、D 预测值; ${ \\cal Z } _ { P }$ 、ZA、ZD分别为基本情感的P、A、D值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "情感聚类分析将通过首次对语音的PAD预测值与基本情感中心的PAD值进行距离分析，根据距离与阈值的关系将语音区分为特定的单一情感和混合情感，在二次预测时将语音采用对应情感的PAD回归模型进行预测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5聚类PSO-LSSVM回归模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在情感语音样本中，情感本身之间的关联性使不同情感语音的情感特征之间也存在相关性，在预测P、A、D的过程中会影响回归模型的预测性能，因此提出将PSO-LSSVM与情感聚类分析相结合的回归方案。图3所示为本文提出的聚类PSO-LSSVM回归模型流程。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1905fc00352252f4ab4d5969e484153a056e8f8f8a54f09d737dec8e7a6c4e92.jpg",
+        "img_caption": [
+            "图2情感聚类分析流程",
+            "图3聚类PSO-LSSVM回归模型流程"
+        ],
+        "img_footnote": [
+            "Fig.3Flow chart of clustering PSO-LSSVM regression model "
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "具体如下：首先对情感语音提取情感特征，基于训练集的情感特征和标注P、A、D值建立两类回归模型，一类称为各类情感维度PSO-LSSVM回归模型，此模型由单种情感语音的情感特征与人工标注P、A、D值对PSO-LSSVM训练得到，一类称为混合情感维度PSO-LSSVM回归模型，此模型由多种情感语音的情感特征与人工标注P、A、D值对PSO-LSSVM训练得到；然后将测试集的语音情感特征作为混合情感维度PSO-LSSVM模型的输入变量预测得到PAD值，并计算其与基本情感的中心PAD之间的距离，基本情感的中心PAD由对各类情感的PAD标注结果进行模糊 $c$ 均值聚类得到，将距离大于阈值的情感聚类为混合情感，将距离小于阈值的情感聚类为与其距离最小的情感；最后将聚类为混合情感的语音情感特征作为混合情感维度PSO-LSSVM回归模型的输入变量，该模型与由训练集训练得到的混合情感维度PSO-LSSVM回归模型是同一个回归模型，而将聚类为某种特定情感的语音的情感特征作为由训练集训练得到的各类情感维度PSO-LSSVM模型中对应情感的模型输入变量预测其PAD值，该过程使得测试集的语音通过各自对应回归模型预测其PAD，降低了不同情感特征间的相关性对预测效果的影响。该回归模型由PSO优化的LSSVM与聚类分析相结合，不仅避免了回归过程参数选择的主观盲目性，而且降低了输入变量之间的相关性，可以对情感维度P、A、D实现更精确的预测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1实验流程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证聚类PSO-LSSVM回归模型在情感维度预测的有效性，设计了三组回归模型进行对比，即将LSSVM回归模型(模型一)、PSO-LSSVM 回归模型(模型二)、聚类PSO-LSSVM回归模型(模型三)的实验结果进行对比。实验流程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)对TYUT2.0数据库情感语音提取情感特征;b)基于提取的情感特征和人工标注的P、A、D值，利用三组回归模型(LSSVM，PSO-LSSVM，聚类PSO-LSSVM)预测测试集的情感维度P、A、D;c)对不同回归模型对P、A、D的预测结果与人工标注结果进行分析，选择更加合理有效的回归模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2实验数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1数据库",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "情感语音数据库是进行语音情感分析的重要前提。为了全面、客观地评价模型对P、A、D的预测能力，选用TYUT2.0中文情感语音数据库[12]和柏林德语情感语料库(EMO-DB)[13]中共有的情感类型：悲伤(52句)、愤怒(57句)和高兴(52句)作为实验样本，其中 $67 \\%$ 作为训练样本， $3 3 \\%$ 作为测试样本。数据库的情感语音用于提取特征，并将情感特征和每句语音对应的PAD值用于训练回归模型；根据每句语音的PAD预测值与基本情感的PAD进行聚类分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TYUT2.0情感语音公开数据库是通过截取广播剧的方式获得的一种摘引型情感数据库，并根据改进的PAD情感量表对该数据库的语音进行维度标注，得到每句语音对应的P、A、D值(可联系作者邮件获取)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "柏林情感语音库由10位演员对7种情感模拟得到。该数据库的语音录制要求演员通过回忆自身经历来完成情绪的表达，使得语音情感真实度高、使用度较广、代表性较强。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.2语音情感特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为对语音情感进行较完整的表征，并实现对P、A、D值更精确地预测，选取的特征如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e8de36ebe65b9beecfe029d83aa2463835f70f29d054337841da54af20aa8449.jpg",
+        "table_caption": [
+            "Table 1Emotional speech characteristics "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>特征 属性</td><td>特征名称</td></tr><tr><td>MFCC</td><td>MFCC前12阶的偏度、峰度、均值、方差、中值 语速</td></tr><tr><td>韵律 特征</td><td>平均过零率 能量及其1阶差分的最大值、最小值、均值 基频及其1阶差分的最大值、最小值、均值 第1共振峰及其1阶差分的最大值、最小值、均值、方差 第2共振峰及其1阶差分的最大值、最小值、均值、方差 第3共振峰及其1阶差分的最大值、最小值、均值、方差</td></tr><tr><td>非线性 特征</td><td>Hurst指数的最大值、最小值、均值、中值、方差 最小延迟时间的最大值、最小值、均值、中值、方差 关联维数的最大值、最小值、均值、中值、方差 Kolmogorov熵的最大值、最小值、均值、中值、方差 最大Lyapunov指数的均值、中值、方差</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如表1所示，本实验从两个角度选择特征，针对语音信号的短时平稳特性提取声学特征，即 MFCC 特征(60 维)和韵律特征(38维)，以及针对语音的混沌特征提取非线性特征[14](23 维)，将它们融合后，得到121维的特征集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3聚类分析结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "情感聚类分析的目的是提高对语音的PAD预测精度。为了保证情感聚类距离阈值的取值不受单一数据库的影响，通过对TYUT2.0数据库和柏林数据库两个数据库的语音PAD预测值与基本情感的PAD进行聚类分析统计，选择使聚类效果较好的聚类距离。根据情感聚类距离不同，不同聚类阈值区间内包含的情感语音数目如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/daf28f5ba717428f69f2853a90c1954582b7a46eff599a06d6764a32d2fd3ddd.jpg",
+        "table_caption": [
+            "表1语音情感特征",
+            "表2不同聚类阈值区间内的语音数目",
+            "Table 2Number of speech in different cluster thresholds "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>dist2</td><td>TYUT2.0数据库</td><td>柏林语音库</td></tr><tr><td>[0.0,0.3]</td><td>3</td><td>10</td></tr><tr><td>[0.3,0.6]</td><td>5</td><td>8</td></tr><tr><td>[0.6,0.9]</td><td>4</td><td>10</td></tr><tr><td>[0.9, 1.2]</td><td>4</td><td>5</td></tr><tr><td>[1.2, 1.5]</td><td>4</td><td>2</td></tr><tr><td>[1.5, 1.8]</td><td>3</td><td>2</td></tr><tr><td>[1.8, 2.1]</td><td>2</td><td>1</td></tr><tr><td>[2.1, 2.4]</td><td>4</td><td>3</td></tr><tr><td>[2.4, 2.7]</td><td>6</td><td>0</td></tr><tr><td>[2.7, 3.0]</td><td>1</td><td>0</td></tr><tr><td>.</td><td></td><td>.</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2中两个数据库在不同区间内的语音数目分布可以发现，当dist²分布于[0,1.8]内时，两类数据库的语音数目基本上保持一致；但当大于1.8时，语音分布数目发生起伏，甚至在柏林语音库中，没有相应的语音分布。因此，本文的聚类距离阈值取1.35。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将聚类 PSO-LSSVM 回归模型与 LSSVM 回归模型、PSO-LSSVM回归模型的预测结果相比较，根据预测值与标注值的数据分布以及实验性能指标来评价对P、A、D的预测能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4.1数据分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为更直观地比较三类回归模型的预测结果与标注值的数据分布，以对TYUT2.0数据库的预测结果为例，图4\\~6所示分别为回归模型对P、A、D维度的预测值与标注值的对比。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaa145e990b953c9cbe1534b2aed5e3283bc9673ca455a1351a5371838928141.jpg",
+        "img_caption": [
+            "图4TYUT2.0维度P的预测值与标注值对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bcc44d294b6b8040fe80831cb0c379d4acb94acb9eefcdac638543e643cd6f3.jpg",
+        "img_caption": [
+            "Fig.4Comparison of predictive values and tagged values of P in ",
+            "图5TYUT2.0维度A的预测值与标注值对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a19ce42d2e3f0389b8f1ff59a7b73df045c786bf0bb168e28cfe5fe1269eae58.jpg",
+        "img_caption": [
+            "Fig.5Comparison of predictive values and tagged values of i ",
+            "图6TYUT2.0维度D的预测值与标注值对比",
+            "Fig.6Comparison of predictive values and tagged values ofD i TYUT2.0 database "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图4可以看出，在悲伤和愤怒的语音中，模型二和模型三的预测值较相近，且相比模型一更贴近于标注的P值，而在高兴情感语音中，模型三的预测结果明显比其他两组模型更近于标注的P值分布；从图5可以看出，模型二和模型三预测结果的变化趋势相比模型一更贴近于标注A值的变化趋势，且模型三比模型二的预测值更接近于标注值、相对误差更小，可知相比于其他两组回归模型，模型三对每句语音的A值预测结果更为准确、稳定；从图6可以看出，模型三对三种情感情感维度D的预测结果更贴近于标注值，尤其在愤怒和高兴情感中，模型三预测结果离散度更接近于实际D值的离散度。说明模型三即聚类PSO-LSSVM回归模型的预测结果更接近于P、A、D标注值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4.2性能指标对比",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验性能指标使用平均绝对误差(MAE)及模型决定系数$\\left( \\begin{array} { l } { R ^ { 2 } } \\end{array} \\right)$ 作为模型的评价指标，再引入Pearson相关系数 $\\textit { \\textbf { ( r } }$ 0评价模型预测值与标注值的变化趋势。MAE越小越好， $R ^ { 2 }$ 和 $\\boldsymbol { r }$ 越接近1越好。其表达式分别为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM A E = \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } \\bigl | ( \\hat { y } _ { i } - y _ { i } ) \\bigr |\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } ( \\hat { y } _ { i } - \\mathbf { u } ) ^ { 2 } } { \\displaystyle \\sum _ { i = 1 } ^ { n } ( y _ { i } - \\mathbf { u } ) ^ { 2 } } , \\mathbf { u } = \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } y _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = { \\frac { \\displaystyle \\sum _ { i = i } ^ { n } ( \\mathbf { y } _ { i } - { \\overline { { \\mathbf { y } } } } ) ( { \\hat { \\mathbf { y } } } _ { i } - { \\overline { { \\hat { \\mathbf { y } } } } } ) } { \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { n } ( \\mathbf { y } _ { i } - { \\overline { { \\mathbf { y } } } } ) ^ { 2 } \\sum _ { i = 1 } ^ { n } ( { \\hat { \\mathbf { y } } } _ { i } - { \\overline { { \\hat { \\mathbf { y } } } } } ) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $n$ 为样本数； $y _ { i }$ 为实际标注值； $\\hat { y } _ { i }$ 为模型预测值。表3、4所示分别为TYUT2.0数据库和柏林语音库中三类回归模型对P、A、D预测的实验性能对比。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ee4fab49930689b0c007ae948251242a1c6bc90b2dbf520758a2e24f1266f48.jpg",
+        "table_caption": [
+            "Table 3Comparison of experimental performance indexes ir ",
+            "表4柏林语音库的实验性能指标对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">TYUT2.0 database</td></tr><tr><td>性能指标模型</td><td></td><td>P 模型 二</td><td>模型 三</td><td>模型</td><td>A 模型 二</td><td>模型</td><td>模型</td><td>D 模型</td><td>模型 三</td></tr><tr><td>Person相 关系数</td><td>0.44</td><td>0.51</td><td>0.63</td><td>0.68</td><td>0.69</td><td>三 0.75</td><td>0.59</td><td>0.62 二</td><td>0.74</td></tr><tr><td>模型决定</td><td>0.20</td><td>0.26</td><td>0.40</td><td>0.44</td><td>0.47</td><td>0.55</td><td>0.35</td><td>0.39</td><td>0.53</td></tr><tr><td>系数 MAE</td><td>0.95</td><td>0.89</td><td>0.71</td><td>0.45</td><td>0.42</td><td>0.36</td><td>0.80</td><td>0.76</td><td>0.58</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/74f3046b5622da6f67e723b007aa3f83a687f9ab890a5384955da25c154052c0.jpg",
+        "table_caption": [
+            "表3TYUT2.0数据库的实验性能指标对比",
+            "Table 4 Comparison of experimental performance indexes in "
+        ],
+        "table_footnote": [
+            "结合表3、4，可以得出："
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">EMO-DB</td></tr><tr><td>性能指标模型</td><td></td><td>P 模型 二</td><td>模型 三</td><td>模型</td><td>A 模型 二</td><td>模型 三</td><td>模型</td><td>D 模型 二</td><td>模型 三</td></tr><tr><td>Person 相 关系数</td><td>0.45</td><td>0.48</td><td>0.63</td><td>0.67</td><td>0.67</td><td>0.74</td><td>0.96</td><td>0.96</td><td>0.98</td></tr><tr><td>模型决定 系数</td><td>0.16</td><td>0.21</td><td>0.39</td><td>0.33</td><td>0.42</td><td>0.46</td><td>0.91</td><td>0.92</td><td>0.96</td></tr><tr><td>MAE</td><td>0.93</td><td>0.98</td><td>0.66</td><td>0.41</td><td>0.40</td><td>0.36</td><td>0.29</td><td>0.27</td><td>0.17</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)针对模型二与模型一对P、A、D维度的预测结果，从Person相关系数可以看出，在TYUT2.0数据库中模型二的相关系数相比模型一有一定程度的提高；从模型决定系数可以看出，在两类数据库中模型二的决定系数比模型一均有提高，说明模型二相比模型一对实验数据的拟合效果好；从MAE可以看出，在TYUT2.0数据库中，模型二的实验误差均有所减小，在柏林数据库中，对A、D的预测误差减小，但P的预测误差却增大。由此可知，模型二在对A、D维度的预测效果更稳定，说明PSO算法对LSSVM回归参数优化作用使预测效果有一定程度的改善。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)针对模型三与模型二对P、A、D维度的预测结果，从Person相关系数可以看出，模型三对两类数据库的预测相关系数均比模型二有一定提高，说明模型三的预测结果变化趋势更加相近于标注值的变化趋势；从模型决定系数可以看出，模型三比模型二对数据的拟合作用更好；从MAE可以看出，在两类数据库中模型三的实验误差均比比模型二的误差更小。由此可知，模型三较模型二对PAD维度的预测性能更优，验证了情感聚类分析可以通过降低特征间的相关性而提高预测精度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)针对三类模型对两类数据库的P、A、D维度预测结果，可以看出，在TYUT2.0数据库中，三类回归模型对A维度的预测效果优于P、D维度；在柏林语音库中，三类回归模型对D维度的预测效果优于P、A维度；这与数据库的建立方式不同有关，柏林语音库是基于表演而录制的语音库，而TYUT2.0是通过截取广播剧的方式获得。虽然两类数据库在情感表达方面各有侧重，使得预测效果有所差异，但模型三对P、A、D维度的预测始终有不同程度的改进，而且与文献[15]对P、A预测结果相比较，模型三在两类数据库中对P、A预测的决定系数分别高于文献中利用KNN对P、A维度预测模型的决定系数0.24和0.35。由此说明模型三的预测更优。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，模型三对情感维度P、A、D的预测性能不仅有较大幅度的提高，而且还适用于不同类型的情感数据库，说明聚类PSO-LSSVM模型对P、A、D的预测能力较强，且对数据的普适性好。分析其原因，PSO算法对LSSVM模型回归参数的优化避免了参数主观选择的盲目性，使得预测结果有一定程度的改善；情感聚类分析通过将情感进行初步聚类，降低了不同情感特征之间的关联性对预测精度的影响，使其对P、A、D 维度的预测性能得到改善；因此，聚类PSO-LSSVM回归模型的提出，不仅可以使回归过程更加客观，而且可以通过降低特征间的相关性，使该模型对P、A、D维度的预测更为准确。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为对情感从维度进行情感客观量化，本文提出了一种将PSO 优化LSSVM与聚类分析相结合的预测方法，即聚类PSO-LSSVM回归模型，将其用于情感维度P、A、D的预测，并与LSSVM、PSO-LSSVM两种回归模型的预测结果进行对比。实验结果表明，聚类PSO-LSSVM回归模型对情感维度P、A、D的预测效果更好，这是因为该回归模型融合了PSO算法、情感聚类分析的优点，即PSO算法对回归参数的优化有效避免了参数主观选择的盲目性；情感聚类分析对PSO-LSSVM初次预测结果进行处理降低了情感特征之间的关联性，进而实现了更准确、智能的P、A、D预测。该结果能够更精确地展现出语音的情感维度，下一步可以通过预测语音样本在PAD空间中的坐标点，根据情感语音在PAD 三维空间的分布分析其与基本情感在维度空间中的关系，深入解析任一语音情感状态的构成元素以及组成比例，为分析复杂情感的组成提供量化方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]卜湛，伍之昂，曹杰，等．在线评论情感计算与博弈预测[J]．电子 学报,2015,43(12):2530-2535.(Bu Zhan,Wu Zhiang,Cao Jie,et al. Affective computing and game theory based prediction for online reviews[J].Acta Electronica Sinica,2015,43(12):2530-2535.)   \n[2]李春祥，丁晓达，叶继红．基于混合蚁群和粒子群优化LSSVM的脉 动风速预测 [J].振动与冲击,2016,35(21):131-136.(Li Chunxiang, Ding Xiaoda,Ye Jihong.Fluctuating wind velocity forecasting based on LSSVM with hybrid ACO& PSO[J].Journal of Vibration and Shock, 2016,35 (21):131-136.)   \n[3]耿立艳．基于GRA与KPCA的LSSVM物流需求预测[J].交通运 输系统工程与信息,2015,15(1):137-142.(GengLiyan.Forecast of logistics demand using LSSVM combining GRA with KPCA [J]. Journal of Transportation Systems Engineering and Information Technology,2015,15 (1): 137-142.)   \n[4]Zhao P C,Liu B,Gao W,et al. Multiple kernel least square support vector machine model for prediction of cement clinker lime content [J]. CIESC Journal,2016,67 (6): 2480-2487.   \n[5]Zhao Y,Niu R,LingP,etal.Prediction of landslide deformation based on rough sets and particle swarm optimization-support vector machine [J].Journal of Central South University,2015,46 (6):2324-2332. [6]Yu H,Chen Y,Hassan S G,et al.Prediction of the temperature in a Chinese solar greenhouse based on LSSVM optimized by improved PSO[J].Computers & Electronics in Agriculture,2016,122:94-102 [7]GorjaeiRG,Songolzadeh R,Torkaman M,et al.A novel PSO-LSSVM model for predicting liquid rate of two phase flow through wellhead chokes [J]. Journal of Natural Gas Science & Engineering,2O15,24:   \n228-237. [8] 宋静，张雪英，孙颖，等．基于 PAD 情绪模型的情感语音识别[J]. 微电子学与计算机,2016,33(9):128-131.(Song Jing,Zhang Xueying, Sun Ying,et al. Emotional speech recognition based on PAD emotion model[J].Microelectronics & Computer,2016,33(9):128-131.) [9]王丽.V-A 空间连续维度情感预测方法研究[D].镇江：江苏大学,   \n2015.(Wang Li.Research on emotional prediction method of V-A spatial continuous dimension [D].Zhenjiang: Jiangsu University,2015.) [10]褚玉伟，罗晓博，屈珂，等.DBSCAN和K-Means混合聚类的牙齿特 征自动识别[J].计算机辅助设计与图形学学报，2018(7):   \n1276-1283.(Chu Yuwei,Luo Xiaobo,Qu Ke,et al.DBSCAN and K-means hybrid clustering based automatic dental feature detection [J]. Journal of Computer-Aided Design & Computer Graphics,2018(7):   \n1276-1283.) [11]谭飞刚，刘伟铭，黄玲，等．基于加权欧氏距离度量的目标再识别算 法[J]．华南理工大学学报：自然科学版，2015(9):88-94.（Tan Feigang,Liu Weiming,Huang Ling,et al.Object re-identification algorithm based on weighted euclidean distance metric [J]. Journal of South China University of Technology :Natural Science Edition,2015 (9): 88-94.)   \n[12]张雪英，张婷，孙颖，等．情感语音数据库优化及PAD 情感模型量 化标注[J]．太原理工大学学报，2017，48(3):469-474.(Zhang Xueying,Zhang Ting,Sun Ying,et al.Emotional speech database optimization and quantitative annotation based on PAD emotion model [J]．Journal of Taiyuan University of Technology，2017,48 (3): 469-474.)   \n[13]Burkhardt F,Paeschke A,Rolfes M,et al.A database of German emotional speech [C]//Proc of INTERSPEECH 2005-Eurospeech, European Conference on Speech Communication and Technology. Lisbon,Portugal:DBLP,2005:1517-1520.   \n[14]姚慧，孙颖，张雪英．情感语音的非线性动力学特征[J]．西安电子 科技大学学报,2016,43(5):167-172.(Yao Hui,Sun Ying,Zhang Xueying.Research on nonlinear dynamics features of emotional speech [J].Journal of Xidian University,2016,43 (5):167-172)   \n[15] Giannakopoulos T,Pikrakis A,Theodoridis S.A dimensional approach to emotion recognition of speech from movies [C]// Proc of IEEE International Conference on Acoustics,Speech and Signal Processing. 2009:65-68. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

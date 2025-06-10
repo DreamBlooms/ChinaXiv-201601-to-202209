@@ -1,0 +1,156 @@
+# 深度贫困地区易地扶贫搬迁产业发展模式及制约因素分析
+
+以新疆南疆三地州为例谢大伟，张诺，苏颖，于鸿飞（新疆交通职业技术学院，新疆乌鲁木齐831401)
+
+摘要：通过对南疆三地州7个易地扶贫搬迁安置点进行调研，定量分析了搬迁前后影响产业发展的主要生计资本变化情况，分析认为搬迁安置点具备了产业发展的基础和条件。移民搬迁后依托产业园区、设施农业、新开发土地、特色资源等发展优势产业,结合案例总结了6种产业发展模式，每种产业模式都有特色产业及发展条件。移民就业渠道少、土地流转比例低及适应新产业难成为制约后续产业的发展主要因素，为促进后续产业的发展，根据安置地情况，为移民提供更多就业渠道，提高搬迁移民的就业技能。
+
+关键词：易地扶贫搬迁；后续产业；制约因素；新疆
+
+# 文章编号：
+
+新时期我国精准扶贫战略已经由“攻坚克难期"进入到“巩固提升期”，易地扶贫搬迁任务已经由“搬得出"向“稳得住、有事做、能致富"转变，后续产业发展是实现"稳得住、能致富"的关键。实地调查表明，通过劳工输出、专业技能培训、招商引资等适合自身发展的方式，可有效提高搬迁地农民的收入和生活水平[]。从调研情况来看,不做科学论证,盲目开展搬迁、搬迁后产业选择错误等将会给当地居民带来很大困境[2]。因此,在后脱贫攻坚时代将产业发展和扩大就业作为搬迁移民工作的核心，重点分析不同安置方式下的产业发展模式3和不同模式下可能出现的问题,提高搬迁居民的满意度[4],以此完善后续产业发展对策[5-6]。本文基于新疆深度贫困地区实地调研数据及以往经验，研究易地扶贫搬迁后续产业发展相关问题，对于实现搬迁移民可持续发展具有重要意义。
+
+国外与易地扶贫搬迁相关的概念有生态移民、开发移民和环境移民等。生态移民概念于1970年代提出[，此后得到广泛研究和发展；联合国大学环境暨人类安全中心(UNU-EHS)重新定义了环境移民的概念，将其描述为由于环境压力而不得不离开原来居住地的人类行动[8]。研究表明，收入低下是贫困者能力不足的重要原因，是贫困产生的根源，并提供了具体的能力测试尺度[9]。目前,国内学者主要针生态移民、草原移民等后续产业发展进行了研究，其结果显示：(1)对生态移民的后续产业研究，认为生态移民后续产业发展主要存在缺乏龙头产业、没能持久性解决农民增收[0],且存在移民安置模式的不完善的问题"，要发展后续产业及增加移民的收人，必须发挥市场的作用，建立起区域互动机制、完善利益引导机制[13]。(2)对草原移民后续产业发展的研究，认为草原移民存在产业支撑能力不足、产业结构单一等方面的制约因素[14],以及后续产业发展面临饲草料地不足、饲草料种植收益低及劳动力转移难的困境[15]。要针对不同安置模式根据其自然资源禀赋因地制宜地进行后续产业发展[16]。(3)对移民后续产业发展模式的分类，主要由高效节水型农业、城郊型农业、特色农业等后续
+
+# 干旱区地理
+
+发展模式[7]，以及特色产业发展、移民新村建设发展及多方整合资金发展模式[18],多数学者认为要根据安置点资源禀赋选择合适的产业，并结合安置地的实际制定产业发展模式。现有的研究也主要集中在生态移民、草原移民后续产业发展问题的探讨，后续产业发展研究中鲜有与精准扶贫相结合的成果，而对搬迁移民后续产业发展的制约因素分析涉及较少。本文在梳理现有研究成果的基础上，结合南疆三地州精准扶贫的产业发展政策，对搬迁安置点后续产业发展模式进行分类，探寻每种产业发展模式的优劣势、制约因素及移民脱贫的效果，以期为易地扶贫搬迁后续产业发展提供理论支持和决策参考。
+
+# 1研究区概况
+
+南疆三地州包括和田地区、喀什地区与克孜勒苏柯尔克孜自治州(简称克州)，该区域位于塔克拉玛干沙漠西南端，依昆仑山而列，地域上呈集中连片分布，土地面积约 $4 4 1 \ 0 0 0 \ \mathrm { k m } ^ { 2 }$ 。其中，和田地区位于新疆最南端，南与喀喇昆仑山、藏北高原相接，北部深人塔克拉玛干沙漠的腹地，地貌以山地和戈壁荒漠为主，绿洲面积约占 $3 . 7 \%$ 。喀什地区处于昆仑山以东，塔克拉玛干沙漠西端，沙漠面积占全地区总面积的 $2 9 . 1 \%$ 。克孜勒苏柯尔克孜自治州位于北昆仑山与南天山交汇处，境内山地面积达 $9 0 \%$ 以上。南疆三地州共辖24个县，其中包括8个陆地边境县、5个牧业、半牧业县。截止2017年底，南疆三地州总人口共计 $7 . 7 9 3 1 \times 1 0 ^ { 6 }$ 人，其中少数民族占比$9 4 . 8 3 \%$ 。
+
+南疆三地州为集中连片特困地区，贫困人口集中、占比高，贫困人口占全疆的一半以上。2016-2019年南疆三地州完成了 $1 5 . 9 1 \times 1 0 ^ { 4 }$ 人搬迁任务，其中2016年、2017年完成了 $1 1 \times 1 0 ^ { 4 }$ 人的搬迁任务，2018-2019年易地扶贫搬迁规模较大，在2a内完成了9个县市、78个乡镇、848个村、11485户及48991人的易地搬迁，如表1所示。和田地区主要由和田市、墨玉县、皮山县等7个深度贫困县市、71个乡镇、809个村、7741户及33510人开展了搬迁。喀什地区2018年和2019年对叶城县4个乡镇10726人开展易地扶贫搬迁安置，克州主要对阿克陶县的3个乡镇、21个村、1139户、4755人进行易地扶贫搬迁安置。
+
+# 2数据来源及研究方法
+
+本文案例和数据来源于课题组在2019年10月份对南疆三地州7个易地扶贫搬迁安置点的调研，发放问卷190份，调查问卷不仅涵盖了移民家庭成员情况、家庭收入等被调查家庭的基本信息，而且涵盖了被调查家庭的生计资本信息，如耕地、草场、蔬菜拱棚、技能培训、参加社会组织等情况。调查主要采取调研员与移民访谈方式开展，同时课题组与当地发改、扶贫及建设部门多次访谈交流。针对每个样本安置点，采用参与式农村评估方法与工具，了解收集每个安置点的经济发展状况、生产活动和社区发展相关情况。所使用的参与式农村评估方法包括社区管理者集体访谈、问卷调查定量分析等。被调查的7个易地扶贫搬迁安置点的安置类别、移民户数、相关案例如表2所示。
+
+表1 2018—2019年南疆三地州各县市易地扶贫搬迁安置情况  
+Tab.1Settlement of relocated impoverished residents in different counties and cities in three prefectures in South Xinjiang from 2018 to 2019   
+
+<html><body><table><tr><td>地州</td><td>县市</td><td>乡镇/个</td><td>村/个</td><td>户数/户</td><td>人口/人</td><td>备注</td></tr><tr><td rowspan="7">和田地区</td><td>和田市</td><td>6</td><td>35</td><td>705</td><td>2 516</td><td>深度贫困县</td></tr><tr><td>墨玉县</td><td>12</td><td>182</td><td>1312</td><td>5 949</td><td>深度贫困县</td></tr><tr><td>皮山县</td><td>13</td><td>136</td><td>1790</td><td>7930</td><td>深度贫困县</td></tr><tr><td>于田县</td><td>13</td><td>101</td><td>997</td><td>4 576</td><td>深度贫困县</td></tr><tr><td>洛浦县</td><td>7</td><td>146</td><td>938</td><td>4 500</td><td>深度贫困县</td></tr><tr><td>和田县</td><td>12</td><td>120</td><td>520</td><td>2350</td><td>深度贫困县</td></tr><tr><td>策勒县</td><td>8</td><td>89</td><td>1 479</td><td>5 689</td><td>深度贫困县</td></tr><tr><td>喀什地区</td><td>叶城县</td><td>4</td><td>18</td><td>2 605</td><td>10 726</td><td>深度贫困县</td></tr><tr><td>克州</td><td>阿克陶县</td><td>3</td><td>21</td><td>1 139</td><td>4 755</td><td>深度贫困县</td></tr><tr><td>搬迁合计</td><td></td><td>78</td><td>848</td><td>11 485</td><td>48 991</td><td>深度贫困县</td></tr></table></body></html>
+
+资料来源：新疆自治区发展和改革委员会
+
+# 3易地扶贫搬迁产业发展基础及发展模式
+
+# 3.1产业发展的基础分析
+
+调研分析发现，搬迁后影响搬迁移民后续产业发展的主要生计资本呈现了不同程度的变化，如表3所示。文化水平、就业技能为移民发展产业的主要人力资本，人均受教育年限变化较小，参加技能培训的贫困户由搬迁前的 $1 5 \%$ 提高到 $8 5 \%$ ;土地是农民发展农业的主要自然资本，搬迁后人均耕地面积由 $1 1 3 . 3 9 \times 1 0 ^ { - 3 } \mathrm { h m } ^ { 2 }$ 提升到 $1 2 6 . 7 3 \times 1 0 ^ { - 3 } \mathrm { h m } ^ { 2 }$ ;政府在安置点为移民建设了蔬菜拱棚和养殖棚圈，为移民发展设施农业和养殖业的主要物资资本，搬迁后拥有蔬菜拱棚的农户比例由 $1 0 \%$ 提高到 $9 0 \%$ ，养殖棚圈的比例也由 $1 6 . 7 \%$ 提升到 $7 2 . 8 \%$ ；信贷资本是移民发展产业的主要金融资本，贷款难度有了较大下降，搬迁后移民贷款比例由 $1 3 . 2 \%$ 上升到 $3 6 . 8 \%$ ；参加合作组织、与周围居民交往情况是移民外出就业、发展产业的主要社会资本，参加合作社的比例由 $2 . 9 \%$ 提升到 $1 6 . 5 \%$ ，搬迁后的邻居交往出现了暂时性的减少。从影响移民产业发展的指标看出，搬迁后移民具备了较好的发展基础，为安置点根据其资源优势制定产业发展政策奠定了基础。
+
+# 3.2不同搬迁安置点产业发展模式及案例
+
+3.2.1农户+产业园 $+$ 农业模式部分安置点建设在产业园区附近或依托安置点建设卫星工厂，移民在产业园区或者卫星工厂从事纺织业、物流业等二三产业，如表4所示。该种产业发展模式能够很好的将产业园区、企业及搬迁农户三者有效结合，为园区企业解决用工的同时，又能帮助移民解决就业，实现农民向产业工人的转变。政府为鼓励产业园
+
+# 表2样本总体情况
+
+表3移民搬迁前后影响产业发展的主要指标变化情况  
+
+<html><body><table><tr><td>安置类别</td><td>移民户数</td><td>案例</td></tr><tr><td>依托县城或产业园区集中安置</td><td>158户</td><td>阿图什市松他克乡科然河安置点</td></tr><tr><td>依托设施农业、养殖棚圈集中安置</td><td>108户、797户</td><td>图什市阿湖乡阿尔赛小区安置点、阿克陶县昆仑佳苑安置点</td></tr><tr><td>开发土地新建移民新村安置</td><td>851户</td><td>克州阿克陶县丝路佳苑安置小区</td></tr><tr><td>依托口岸、旅游资源安置</td><td>220户</td><td>克州乌恰县吐尔尕特口岸安置点</td></tr><tr><td>依托门面房商业安置</td><td>201户</td><td>喀什地区疏勒县塔尕尔其乡和罕南力克镇安置点</td></tr></table></body></html>
+
+数据来源：2019年10月调研数据
+
+Tab.2 Overview of samples   
+
+<html><body><table><tr><td>指标</td><td>指标描述及定义</td><td>搬迁前均值</td><td>标准差</td><td>搬迁后均值</td><td>标准差</td></tr><tr><td>人均教育年限</td><td>家庭成员平均受教育年限(年)</td><td>5.212</td><td>3.561</td><td>5.212</td><td>3.561</td></tr><tr><td>技能培训</td><td>培训为1,否则为0</td><td>0.15</td><td>0.358</td><td>0.85</td><td>0.358</td></tr><tr><td>人均耕地面积</td><td>人均耕地面积(0.0 667 hm)</td><td>1.7</td><td>2.861</td><td>1.9</td><td>2.935</td></tr><tr><td>家庭草场面积</td><td>家庭草场面积(0.0667 hm)</td><td>1321</td><td>452.436</td><td>1 321</td><td>452.436</td></tr><tr><td>蔬菜拱棚情况</td><td>无为0，0~333.5m为1,333.5 ~667m之间为2.667㎡以上为3</td><td>0.1</td><td>0.05</td><td>0.919</td><td>0.296</td></tr><tr><td>养殖棚圈情况</td><td>有为1，无为0</td><td>0.167</td><td>0.373</td><td>0.728</td><td>0.435</td></tr><tr><td>信贷资本</td><td>“在银行有无贷款”“有无从亲朋好友借款"2个 指标合成</td><td>0.132</td><td>0.031</td><td>0.368</td><td>0.332</td></tr><tr><td>贷款的难度</td><td>容易为3,一般为2,较难为1</td><td>1.64</td><td>0.365</td><td>2.35</td><td>0.701</td></tr><tr><td>参加合作组织</td><td>参加为1,没参加为0</td><td>0.029</td><td>0.171</td><td>0.165</td><td>0.377</td></tr><tr><td>邻居交往情况</td><td>多为1,一般为2,较多为3</td><td>2.7</td><td>1.58</td><td>1.48</td><td>0.461</td></tr></table></body></html>
+
+资料来源：2019年10月调研数据整理
+
+# 干旱区地理
+
+表4南疆三地州易地扶贫搬迁产业发展常见模式  
+Tab.4Common patterns in industrial development following relocation of impoverished residents of Xingjiang   
+
+<html><body><table><tr><td rowspan="2">后续产业发展模式</td><td colspan="2">适合产业类型</td><td rowspan="2">适应搬迁模式</td></tr><tr><td>一二三产业</td><td>具体产业类型</td></tr><tr><td>农户+产业园+农业</td><td>第一、二、三产业</td><td>纺织服装业、农产品加工、物流业、电子产品组 装、小规模设施农业。</td><td>依托县城或者产业园区集中 安置。</td></tr><tr><td>专业合作社+基地+农户</td><td>第一、三产业</td><td>牛羊牲畜合作社、设施农业合作社、 家禽合作社、民族工艺品合作社。</td><td>依托城镇、中心村、设施农业 集中安置。</td></tr><tr><td>能人/大户+基地+农户</td><td>第一产业</td><td>牲畜饲草料、特色林果业、沙棘、中药材及蔬菜 产业。</td><td>依托县城、乡镇或新建移民新 村安置。</td></tr><tr><td>农户+特色资源+创业</td><td>第三产业</td><td>农家乐、牧家乐、少数民族文化展示、乡村、民宿、 □岸旅游、少数民族工艺品出售、新疆特产销售。</td><td>依托口岸、旅游景区安置，以 及其他安置点的门面房安置。</td></tr><tr><td>土地开发+农户+特色农业</td><td>第一、二产业</td><td>饲草料、特色林果业、沙棘及中药材产业，以及特 色农产品加工。</td><td>依托水草资源开发土地,新建 移民新村。</td></tr><tr><td>设施农业+基地+养殖业</td><td>第一、二、三产业</td><td>有机蔬菜、牛羊牲畜、家禽等产业，餐饮、商品服 务业及外出务工。</td><td>依托原设施农业安置，或新建 设施农业。</td></tr></table></body></html>
+
+资料来源：根据2019年10月调研资料整理
+
+区吸引更多移民就业，按照每人5000元的标准给予新增就业补贴，并按照企业从金融机构实际贷款金额给予 $2 \% \sim 4 \%$ 财政贴息。克州阿图什市松他克乡科然河大巴扎新建农贸市场进行安置，搬迁移民进人农贸市场从事物流、保洁等服务，每月人均新增收入达到2200元以上。为增加移民的收入途径，有条件的安置点为移民建设蔬菜拱棚，实现一二三产业的融合发展，如喀什巴楚县依托现代产业园建设安置点，并在安置点附近为移民规划建设牲畜棚圈、蔬菜大棚，并利用屋顶建设鸽子养殖设施，人均每月综合收入超过2900元。
+
+3.2.2 专业合作社 $^ +$ 基地 $^ +$ 农户模式移民安置后有了产业发展的物资资本，但移民普遍缺乏发展产业的资金和技术，尤其是面临农牧产品销售渠道少、销售难的问题。通过“农户 $^ +$ 基地 $^ +$ 合作社"模式整合移民在安置点的生计资源，以合作社为主导扩大移民种养殖规模，实现标准化种养殖及产品的统一销售。该模式受迁入地限制较少，不论在县城、集镇安置还是新建移民新村安置，都能采取合作社产业发展模式，且该模式能够整合移民的资源，解决移民缺乏生产技术及产品销售难的问题，也有利于在安置点开展标准化种养殖。为鼓励移民开展标准化合作养殖，政府按照牛羊出栏数给予养殖场 $^ { 8 \times }$ $1 0 ^ { 5 } { \sim } 1 5 { \times } 1 0 ^ { 4 }$ 元不等的补贴。克州阿克陶县丝路佳苑安置点由政府统一新建4个 $4 0 0 0 ~ \mathrm { m } ^ { 2 }$ 的标准化养殖小区，移民以牛羊人股的形式加入养殖合作社，在养殖小区内科学养殖，由企业统一收购牲畜。
+
+3.2.3能人/大户 $+$ 基地 $^ +$ 农户模式按照新疆易地扶贫搬迁政策，为移民保留迁出地耕地、草场等生产资料的承包权。一些经济实力较强的移民能够把其他农户的土地流转下来自己耕种，也可由外来种粮大户、能人或农业公司流转土地，实施农业的产业化经营，解放劳动力，促进移民向二三产业转移。通过土地流转及农业的产业化经营，土地也不再种植传统粮食作物，有能人或大户种植经济效益更好的特色林果、药材等经济作物，移民则可以帮助能人或农业公司管理土地。另外,实施农业产业化也有利于农业科技的推广应用，如果移民能够签订较长的土地流转合同，土地规模又比较大，能够提高农业公司或者种粮大户科技投人的积极性。为鼓励移民开展土地流转，新疆自治区对扶贫龙头企业或种植大户年度新增项目贷款按年利率 $3 \%$ 的标准给予财政贴息。
+
+3.2.4农户+特色资源+创业模式该种模式主要是依托旅游景区、口岸、门面房特色资源发展生产，利用景区或者口岸的资源和优势自主创业，发展第三产业。该模式能够将资源优势转变为生计优势，为移民提供生计新途径，尤其能发挥少数民族在民族餐饮、工艺品加工等方面的特长。为鼓励移民在安置点创业，根据创业带动贫困户的规模，政府给予致富带头人不超过 $1 \times 1 0 ^ { 5 }$ 元的创业贷款担保，并按照创业担保贷款相关规定给予财政贴息支持。克州乌恰县将易地扶贫搬迁安置点建设在吐尔尕特口岸，当地搬迁户主要利用口岸的基础设施、交通、物流等优势资源进行微创业，在口岸开设小商店、小作坊、小饭店、特色手工业及小修理厂，或从事物流运输服务等。另外，安置小区门面房只能出售或者出租给移民，租售价格普遍低于市场价格。在克州阿克陶县丝路佳苑小区为移民提供门面房86间，利用门面房开餐馆、商店及民族工艺品生产等，每间商铺每月增收1500元。
+
+3.2.5农户+土地开发 $\cdot ^ { + }$ 特色农业模式部分安置点通过水草开发为移民提供土地，安置土地将作为移民发展产业的基础。一些安置点直接将土地分给移民由其自主经营，也有安置点将土地直接流转给大型农业公司经营，移民享受土地流转收益，移民到农业公司务工增加收人，仍然不脱离第一产业。不论是移民自己种植还是由农业公司经营，土地都不再种植传统农作物，主要发展中药材、饲草料、林果业等特色农牧业。政府在移民安置初期为其提供了一定数量的土地，保证了搬迁移民的生计有效续接，不会出现移民在安置初期陷入生活无保障的困境。克州阿克陶县丝路佳苑安置小区开发1667$\mathrm { h m } ^ { 2 }$ 盐碱地， $6 6 7 \mathrm { ~ h m } ^ { 2 }$ 饲草料基地、 $. 4 0 0 \mathrm { h m } ^ { 2 }$ 林果基地、$3 3 3 { \mathrm { ~ h m } } ^ { 2 }$ 设施农业基地、 $1 2 0 \ \mathrm { h m } ^ { 2 }$ 牲畜养殖基地。丝路佳苑安置点对 $6 6 6 . 6 7 \mathrm { h m } ^ { 2 }$ 土地进行了流转，移民按照流转亩数，每年户均领取3000元左右的流转金。
+
+3.2.6农户 $^ +$ 设施农业 $+$ 基地 $+$ 养殖业模式依托安置地已有农业设施或新建蔬菜拱棚安置是南疆三地州易地扶贫搬迁最常见的扶贫方式，同时在安置地建设养殖棚圈，通过蔬菜拱棚和牲畜养殖增加移民收人，将设施农业及养殖业作为移民的主要收入来源。该种模式是将设施农业与养殖业、移民就业结合的综合产业发展模式，为移民发展设施农业及创业就业提供了条件。在安置初期移民主要依靠种植业和养殖业，在移民获得较好的就业技能及就业信息后，逐渐外出寻找就业机会，其收人来源也逐渐从第一产业向二三产业转移。由于搬迁人口数量多，不能确保所有移民都能分到蔬菜拱棚，通过技能培训为年轻移民提供更多的就业机会，实现“产业 $\cdot ^ { + }$ 就业"双保险。阿图什市阿尔赛小区搬迁安置点一共搬迁安置农户108户，建设94座设施农业大棚，98座牛羊圈，多数搬迁户都能分到蔬菜拱棚和养殖棚圈，未分到的移民依靠劳务输出及政府购买劳务维持生计，政府购买劳务主要是护林员、护边员、护草员及保安、协警等公益性岗位，年收入 $2 \times$ $1 0 ^ { 4 } \sim 3 { \times } 1 0 ^ { 4 }$ 元。
+
+# 4易地扶贫搬迁产业发展的制约因素分析
+
+# 4.1移民就业转移的主要制约因素
+
+通过产业园模式安置的移民，在产业园区没有足够数量就业岗位时，安置地政府在安置点建设卫星工厂为移民解决就业，但卫星工厂存在规模小、发展层次低、吸纳劳动力有限的问题，如表5所示。在实际调研中，我们发现移民在开展技能培训后，部分到园区解决了就业，部分通过政府购买劳务解决了就业，该部分移民脱离了贫困，然而，在个别安置点仍存在就业岗位不足、劳动力转移难的问题，少数移民在产业园区或卫星工厂找到了就业方向，但部分人仍然没有找到新的就业方向，如果长期不能解决就业，该部分移民在安置点可能会陷入新的生计困境。依托新开发土地安置的移民，因新开发土地一般离城镇较远，移民在安置点获取的就业信息及市场信息相应不足，就业的机会也就较少，少数民族群众思维、语言、习惯等阻碍劳动力转移，限制了移民外出就业的途径，部分移民可能在安置点沉淀。
+
+# 4.2移民开展土地经营的主要制约因素
+
+土地安置需要具备开发耕地的条件，并且要有一定规模的土地，如果不能在安置点为移民提供一定数量的土地，移民因需要管理农作物又不能进城务工，在土地的收益又不足以维持全家人的生计，特别是新开发土地质量差、流转困难的情况下，移民将会面临种植土地还是外出务工两难困境，部分移民可能回迁甚至再次陷入贫困。费孝通说：“从基层上看去，中国社会是乡土性的，土地的基本意义是泥土，乡下人离不开泥土，因为在乡下住，种地是最普通的谋生办法，而且我们的民族确实和泥土分不开”[19]。由于移民对土地较深的情怀,移民土地流转热情不高， $9 0 \%$ 以上的移民迁出地耕地仍然都是自己在种植，而且多数农户种植面积不超过$3 3 3 . 3 5 \times 1 0 ^ { - 3 } \mathrm { h m } ^ { 2 }$ ,碎片化严重，制约了农业的产业化及农业科技的推广应用。一些迁出地与安置房较远，不便于土地的管理，农户只能种植一些技术含量低、易于管理、收益较低的小麦、玉米及饲草料。
+
+# 干旱区地理
+
+表5不同产业模式的优势、发展条件及制约因素  
+Tab.5Advantages,development conditions and constraints of different industrial models   
+
+<html><body><table><tr><td>后续产业发展模式</td><td>优势分析</td><td>产业发展条件</td><td>制约发展的因素</td></tr><tr><td>农户+产业园+农业</td><td>①一二三产业融合发展 ②就近就业，方便生活</td><td>①必须有产业园区 ②需要少量的耕地</td><td>就业岗位不足，制约移民向二三产业的 转移</td></tr><tr><td>专业合作社+基地+农户</td><td>①养殖基地标准化养殖 ②产品统一销售</td><td>①种养殖大户带动 ②一定数量成员基础</td><td>缺乏行业带头人、合作层次低，以及缺乏 种养殖技术</td></tr><tr><td>能人/大户+基地+农户</td><td>①实施农业产业化经营 ②移民向二三产业转移</td><td>①迁出地有耕地 ②安置点分到土地</td><td>土地流转难、流转比例低，影响农业科技 推广</td></tr><tr><td>农户+特色资源+创业</td><td>①利用景区等特色资源 ②能发挥移民技术优势</td><td>①需要特色资源 ②有相应的技术</td><td>缺乏经商理念及创业技术，产业较窄，同 质化竞争</td></tr><tr><td>土地开发+农户+特色农业</td><td>①提供了生产的基础 ②有利于农业产业化</td><td>①具备开发耕地条件 ②有一定规模土地</td><td>就业信息及土地数量少或者土地质量差</td></tr><tr><td>设施农业+基地+养殖业+农户①提供拱棚和棚圈</td><td>②发展现代农业 ③产业发展和就业结合</td><td>①需要一定数量土地 ②产业发展依托蔬菜拱棚和养收益较低 殖棚圈</td><td>移民缺乏产业发展技术，产业发展困难，</td></tr></table></body></html>
+
+因耕地少、缺乏农机设备以及疏于管理，土地收益普遍不高，影响了移民的脱贫增收。
+
+# 4.3移民适应新产业发展的主要制约因素
+
+依靠设施农业和土地开发安置的农户虽然仍从事第一产业，但是在安置点从事的第一产业有别与传统第一产业，搬迁之前移民的耕地主要种植粮食作物，种植技术含量低、管理难度小，而在安置点发展的主要是设施农业及现代畜牧业，有较高的技术要求，移民面对新型产业发展，在技术和市场信息上都有诸多的不适应，有少数移民因缺乏发展产业的技术，只能放弃或中断产业发展。另外，安置地的合作社一般需要由种养殖大户或龙头企业带动，目前南疆三地州种养殖大户及龙头企业数量普遍较少，缺乏行业带头人，合作社的层次仍然比较低，且合作行业主要集中在第一产业，尤其是受传统思想及熟人社会的影响，移民思想上接受与陌生人的合作、适应环境的能力仍然不强。
+
+# 5结论
+
+(1)本研究基于实地调研法对南疆三地州易地扶贫搬迁开展研究，研究发现搬迁后移民的自然资本、物资资本、人力资本、社会资本都有所增加，社会资本出现了减少，总体来看，南疆三地州易地扶贫搬迁移民具备了一定的产业发展条件和基础。移民搬迁后主要由县城、小城镇及新建移民新村安置几种模式，其后续产业发展主要依托产业园区、设施农业、新开发土地、特色资源等制定产业发展策略。本文结合案例总结了南疆三地州的6种产业发展模式，每种产业模式都有其相应的特色产业及发展条件。
+
+(2)搬迁安置点主要围绕设施农业、工业园区、景区等特色资源发展生产，制定其相应的产业发展模式，且每种产业发展模式都有一定的发展条件及制约因素，产业发展中要着重了解其制约因素。依托产业园区安置必须有产业园区或卫星工厂，该模式主要面临就业岗位数量少、岗位不足的问题，能任/大户模式需要提供一定数量土地，主要是缺少行业带头人，合作层次低，依托设施农业安置主要存在设施农业数量不足及移民缺少适应新产业的相应技能，依托新开发土地安置需要具备水土开发的条件，主要存在土地数量少、土地流转比例低、就业信息少的难题。
+
+# 6启示
+
+(1)选择产业必选结合当地的实际，重点考虑其制约因素。在后续产业发展的模式的选择中，要根据当地资源禀赋、气候、已有产业基础以及市场特点，在搬迁安置地着重培育形成精品农业、绿色有机农业、现代服务业、乡村旅游等特色产业。同时，要着重考虑产业发展的优势、制约条件，如依靠产业园区发展产业的安置点要防正就业岗位不足造成移民在安置点的沉淀，有土安置防止安置土地面积较少、生计资本不足以维持移民生计的问题。
+
+(2)在产业发展中一定要注重产业发展的技能培训。缺乏技术成为制约不同产业模式的最主要因素，因此，应结合产业发展需求加大技能培训,产业园区移民主要开展产业工人的技能培训，发展设施农业和现代养殖业要加大种养殖技术培训，移民经商更是面对完全陌生的领域，政府必须给予更多的技能帮扶和指导，在南疆三地州的产业扶贫中要注重从物质帮扶向技术帮扶的转变。
+
+参考文献(References)   
+[1]孟向京.三江源生态移民选择性及对三江源生态移民效果影响 评析[J].人口与发展,2011,(4):2-8.[MENG Xiangjing.Analysis on characteristics of ecological migrants in Sanjiangyuan area in China and its efects on ecological migration project[J]. Opulation and Development,2011,(4): 2-8.]   
+[2]葛根高娃.关于内蒙古牧区生态移民政策的探讨——以锡林郭 勒盟苏尼特右旗生态移民为例[J].学习与探索,2006,(3):61- 64.[GE Gengaowa.Exploration on policies of ecomigration in pastoral areas of Inner Mongolia: A case study of ecomigration of Sonid Right Banner, Xilingol[J]. Magazine Office of Study and Exploration,2006,(3):61-64.]   
+[3]侯茂章,周璟.湖南省易地扶贫搬迁后续产业发展研究[J].经济 地理,2017,(8): 177-181.[HOU Maozhang,ZHOU Jing.The follow-up industry development of the poverty alleviation and relocation in Hunan Provinc[J]. Economic Geography,2O17,(8):177- 181.]   
+[4]王芳,栾福明,杨兆萍,等.新疆天山遗产地居民对生态移民的 感知及满意度研究[J].干旱区地理,2019,42(3):653-663. [WANG Fang,LU Fuming, YANG Zhaoping, et al. Residents 'perception and satisfaction on ecological migration in Xinjiang Tianshan heritage site[J].Arid Land Geography，2019,42(3): 653- 663.]   
+[5]张丽君,王菲.中国西部牧区生态移民后续发展对策探析[J].中 央民族大学学报(哲学社会科学版),2011,38(4):31-36. [ZHANG Lijun,WANG Fei.A probe into the developmental countermeasure after ecological migration in the western pasturing region of China[J]. Journal of Minzu University of China (Philosophy and Social Sciences Edition),201,38(4): 31-36.]   
+[6]ROSS S, WALL G. Evaluating ecotourism: The case of North Sulawesi,Indonesia[J]. Tourism Management,1999,20(6): 673-682.   
+[7]GOFFMAN.Ethan Environmental refugees: How many, how bad [J]. CSA Discovery Guides,2006,(7): 1-15.   
+[8]税伟,徐国伟,兰肖雄,等.生态移民国外研究进展[J].世界地理 研究,2012,(1):150-157.[SHUI Wei,XU Guowei,LAN Xiaoxiong,et al.A review of study on ecological migrant[J].World Regional Studies,2012, (1): 150-157.]
+
+[9] SEN.Amartya Poverty:An ordinal approach to measurement[J]. Econometrica,1976,(44):219-231.
+
+[10]何家理,马治虎,陈绪熬.秦巴山区退耕还林后续产业发展实证 研究- -基于陕、川、渝三省(市)后续产业现状调查[J].政 治经济学评论,2015,5(2):211-224.[HE Jiali,MA Zhihu, CHEN Xuao.Empirical study on follow-up industry development in Qinba mountain area after returning farmland to forest from the perspective of comparative advantage theory:Based on the investigation of the present condition of the follow-up industry in Shanxi, Sichuan,and Chongqing[J]. China Review of Political Economy, 2015,5(2): 211-224.]
+
+[11]骆桂花.三江源生态移民安置与后续产业发展的社会调查[J] 青海民族学院学报(社会科学版),2009,35(2):81-86.[LUO Guihua.Investigation on the Three Rivers Ecological resettlement and the industry's follow-up of development[J].Journal of Qinghai Nationalities University(Social Sciences),2009,35(2): 81-86.]
+
+[12] 赵宏利,陈修文,姜越.生态移民后续产业发展模式研究——以三江源国家级自然保护区为例[J].生态经济,2009,(7):105-108.[ZHAO Hongli,CHEN Xiuwen,JIANG Yue.Eco-industrialdevelopment model immigrants follow-up study: national nature re-serveas an example to Sanjiangyuan[J]. Ecological Economy,2009,(7): 105-108.]
+
+[13]任善英,朱广印.三江源生态移民后续产业发展机制研究[J].生 态经济,2012,(10):107-110.[REN Shanying,ZHU Guangyin. The follow-Up industry development mechanism of ecological migration in Three River Sources Area[J].Ecological Economy, 2012, (10): 107-110.]
+
+[14]李生.内蒙古草原生态移民的后续产业发展状况分析[J].黑龙 江民族丛刊,2014,(1):101-105.[LI Sheng.Analysis on the situ ation of subsequent industry development of Inner Mongolia grass+ land ecological immigration[J].Heilongjiang National Series, 2014,(1): 101-105.]
+
+[15]谢大伟.新疆牧民集中定居后面临的生活、生活新困境及完善 之路——基于"Y市L定居点"的调研[J].新疆社会科学,2018, (6):142-151.[XIE Dawei. Difficulties in production and life faced byherdsmen in Xinjiang after their centralized settlement and the solution: Based on research on L settlement point in Y city[J]. So cial sciences in Xinjiang, 2018,(6): 142-151.]
+
+[16]孔德帅,胡振通,焦金寿,等.不同类型牧区后续产业发展模式 研究—以甘肃省天祝县为例[J].农村经济，2014,(6):60-64. [KONG Deshuai,HU Zhentong,Jiao Jinshou,et al.Study on the development model of follow-up industry in different types of pastoral areas: Take Tianzhu County of Gansu Province as an example [J].Rural Economy,2014,(6): 60-64.]
+
+[17] 陈忠祥,陈亮.试论宁夏移民安置地后续发展模式[J].干旱区地 理,2008,31(6):960-963.[CHEN Zhongxiang,CHEN Liang. Further development mode of the resettlement areas for the migrants in Ningxia[J]. Arid Land Geography，20O8,31(6):960- 963.]
+
+# 干半区地理
+
+[18]张晓晨,黄莉,汪露露.云南省水工程库区和移民安置区发展模 式探讨[J].水力发电,2019,45(5):12-16.[ZHANG Xiaochen, Huangli,Wang Lulu.Discussion on development models of water project reservoir area and resettlement area in Yunnan Province
+
+[J].Water Power,2019,45(5):12-16.] [19]费孝通.乡土中国[M].北京:人民出版社,2008:1.[FEIXiaotong.The foundations of Chinese society[M].Beijing:People's Publishing House,2008:1.]
+
+# Industial development modes and restraining factors of severe poverty region after resident relocation for poverty alleviation: Cases of three prefectures in South Xinjiang
+
+XIE Da-wei, ZHANG Nuo, SU Ying，YUHong-fei (Xinjiang Vocation Technical CollegeofCommunication，Urmqi 831401,Xinjiang,China)
+
+Abstract:Through an investigationof sevensettlement sites forrelocated impoverishedresidents inKashgar,Kizilsu Kirghiz Autonomous Prefecture,and Khotan in the Xinjiang Uygur Autonomous Region,a quantitative analysis is madeon livelihood capital changes in migrants before and after relocation.Research shows that migrant livelihood capitals,which include natural,human,and material capital,increasedafterrelocation,whereas social capital decreased.Overall,relocated migrants in three prefectures in south Xinjiang acquired certain conditions and a basis for industrial development.After relocation they developed competitive industries,relyingon industrial parks,agriculture facilities,and the developmentof new land andfeatured resources.Based on the cases,the analysis concluded six modes of industrial development,each of involved one ortwo leading industries.At the same time,advantages,developmentconditions,and constraints of different modes of industrial development are analyzed.The study foundthat industrial development in setlement sites is mainlyconstrained bylimited employment oportunities for migrantsand alack of enthusiasm among migrants forland transfer.It is thus concluded that,toenable subsequent industrial development after relocation,competentauthorities should take advantage of local competitive resources based on the resource endowments of settement sites and determine appropriate modes for industrial development, constantly improve migrant working skills,and increase employment opportunities for migrants to prevent accumulation of migrants at settlement sites due to a lack of jobs and working skills.
+
+Key words: poverty alleviation and relocation; follow-up industry; Limiting factor; xinjiang

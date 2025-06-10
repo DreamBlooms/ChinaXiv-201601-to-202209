@@ -1,0 +1,490 @@
+[
+    {
+        "type": "text",
+        "text": "天山雪岭云杉个体生物量分配及其变化规律的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "罗庆辉,²，许仲林²，徐泽源},²，李路1,²，常亚鹏¹,2，徐昕亿1,2，宋昕妮1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1新疆大学资源与环境科学学院,新疆乌鲁木齐830046;2新疆大学资源与环境科学学院绿洲生态教育部重点实验室,新疆乌鲁木齐830046)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了探讨天山雪岭云杉林生物量在个体组织中的分配情况及其变化规律,在研究区进行了大量的野外测量，利用已有的雪岭云杉林估算方程，分析了天山雪岭云杉林生物量在各器官（干、枝、叶、皮、根)中的分配及其变化规律。结果表明：(1）研究区雪岭云杉林的平均生物量为388.74$\\mathbf { i } \\cdot \\mathbf { h } \\mathbf { m } ^ { - 2 }$ ，树木各器官中，干、枝、根、叶和皮分别占生物量的 $4 3 . 6 5 \\% . 2 8 . 6 0 \\% . 1 3 . 4 9 \\% . 1 1 . 0 8 \\%$ 和$3 . 1 8 \\%$ 。（2）各径级生物量所占百分比为： $3 3 . 5 3 \\%$ ( $4 0 \\sim 5 0 ~ \\mathrm { c m }$ ） $, 2 0 . 1 3 \\%$ （ $2 0 \\sim 3 0 ~ \\mathrm { c m }$ ） $, 1 9 . 5 9 \\%$ 0 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ ） $, 1 8 . 1 9 \\%$ （ $5 0 \\sim 6 0 ~ \\mathrm { c m }$ 和 $2 . 0 5 \\%$ （ $1 0 \\sim 2 0 ~ \\mathrm { c m } ~ ,$ )；树木生物量在不同树高中的分配表现为： $4 8 . 7 8 \\%$ 0 $2 0 \\sim 3 0 \\mathrm { ~ m ~ }$ ） $> 3 5 . 2 7 \\%$ （ $1 0 \\sim 2 0 \\mathrm { ~ m ~ }$ ） $> 1 4 . 7 0 \\%$ 0 $( 3 0 \\sim 4 0 ~ \\mathrm { m } ) > 1 . 2 5 \\%$ （ $0 \\sim 1 0 \\mathrm { ~ m } \\rangle$ ；地上和地下生物量的分配比例为： $8 7 . 5 4 \\%$ 和 $1 2 . 4 6 \\%$ ，分别为 $3 4 0 . 3 0 \\mathrm { ~ t ~ } \\cdot \\mathrm { ~ h m ~ } ^ { - 2 }$ 和 $4 8 . 4 4 \\mathrm { ~ t ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ 。（3）随海拔升高，天山雪岭云杉林生物量呈“单峰”变化，在海拔 $2 ~ 1 0 0 \\sim 2 ~ 4 0 0 ~ \\mathrm { ~ m ~ }$ 处达到最大值611.58$\\mathbf { t } \\cdot \\mathbf { h } \\mathbf { m } ^ { - 2 }$ ;干、皮生物量所占比例随海拔升高而减小,枝生物量逐渐增加,叶、根生物量呈先减小后增加的趋势；径级 $2 0 \\sim 3 0 ~ \\mathrm { c m } \\ : . 3 0 \\sim 4 0 ~ \\mathrm { c m }$ 和 $5 0 \\sim 6 0 ~ \\mathrm { c m }$ 的生物量随海拔升高均呈“单峰型”变化趋势，都在海拔 $2 ~ 1 0 0 \\sim 2 ~ 4 0 0 ~ \\mathrm { m }$ 处达到最大；雪岭云杉林不同树高生物量随海拔的升高呈现的趋势不同。天山雪岭云杉林生物量和年均降水量随经纬度的升高均呈降低变化，研究区林分生物量自西向东总体呈现逐渐降低的趋势；林分密度、海拔和降水共同决定了森林生物量的大小及其变化规律,海拔 $2 ~ 1 0 0 \\sim 2 ~ 4 0 0 ~ \\mathrm { m }$ 是本研究区雪岭云杉林生长的最适宜场所。结果可为雪岭云杉林生态系统的恢复和重建提供基础资料，对研究区进行综合管理与生态健康分析具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：雪岭云杉林；个体生物量；分配；器官；环境因子",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生物量是指一个有机体或群落在一定时间内积累的有机质总量，森林生物量通常以单位面积或单位时间积累的干物质量或能量来表示，是森林生产力的重要指标之一[1]。由于森林生态系统通过其生物量的积累和转化在调节全球碳平衡和养分循环方面的重要作用[2-4],近年来许多学者对森林生物量进行了研究[5-10]。干旱区山地森林生态系统乔木生物量的变化在生态系统的生产力、碳循环、营养元素格局及其在调节气候方面发挥了重要作用[11-14] ○",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆位于干旱半干旱气候区，由于气候变化和长期人类活动的影响，其陆地生态系统非常脆弱[15]。天山山系是亚洲最大的山系,长约2 500$\\mathrm { k m }$ ,宽约 $2 5 0 \\sim 3 0 0 ~ \\mathrm { k m }$ ,是中亚干旱区最大的山系之一,同时也是新疆重要的水源地[16]。天山雪岭云杉（Piceaschrenkiana）是第三纪森林植物中的子遗物种，是中亚和亚洲中部山地的特有种，在我国仅在新疆有分布，是新疆山地森林中分布最广、蓄积量最大、材质优良的主要用材树种[14]。它对天山的水源涵养、水土保持和林区生态系统的形成和维护起着重要的作用。张瑛山等[17]在1980 年已经对天山云杉林生物量进行了研究，提出了单株生物量的相对生长方程;罗天祥[18 估算了新疆部分林区天山云杉林的生物量和生产力;王燕等[19]分析了天山云杉林生物量和生产力的地理分布格局。然而，有关雪岭云杉林个体生物量的分配比例和影响因素的关键科学问题仍有待深入研究。本研究分析雪岭云杉林林分结构随海拔和经纬度的变化，得出云杉林生物量和各器官生物量随海拔和经纬度的变化规律，这将为天山云杉林恢复和保护以及准确估算区域云杉林生物量和碳储量提供科学依据，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "天山是横亘在欧亚大陆腹地的一条巨大山脉，在我国新疆境内长达 $1 ~ 7 6 0 ~ \\mathrm { k m }$ ，天山中山带海拔$1 ~ 6 0 0 \\sim 2 ~ 8 0 0 ~ \\mathrm { m }$ 之间分布有带状的雪岭云杉林[20]天山的植被分布具有明显的垂直带性，从低海拔到高海拔，依次为山地荒漠草原、山地草原、山前灌木、山地针叶林、亚高山灌丛草甸、高山草甸、高山垫状植被[21]。本研究选择海拔 $1 ~ 5 0 0 \\sim 2 ~ 8 0 0 ~ \\mathrm { ~ m ~ }$ 的山地针叶林(建群种为雪岭云杉林)为研究区，考查雪岭云杉林生物量积累的具体过程及影响因素。研究区属于温带大陆性气候，土壤是山地灰褐色森林土。主要地被植物有黑果小檗、红果小檗、忍冬、天山花楸、黑果荀子、蔷薇、绣线菊、老鹳草、天山雨衣草、羊角芹等[22]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 样地设置 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2018年7\\~8月在雪岭云杉分布的海拔范围内中 $\\left( 1 ~ 5 0 0 \\sim 2 ~ 8 0 0 ~ \\mathrm { m } \\right)$ )，在无病虫害、火灾影响的区域，沿海拔梯度，选取自然生长状况良好、具有代表性的林木，共设置78块样地；每个样地先确定一个中心点，用激光测距仪测出半径为 $1 0 \\mathrm { ~ m ~ }$ 的样圆，在样圆内的每株树底部插上写有标号的小旗，统计株数得到林分密度，每木检尺获得胸径( $\\mathrm { \\Phi } \\geqslant 1 0 \\ \\mathrm { c m }$ ），胸径按照 $1 0 \\ \\mathrm { c m }$ 分为不同的径级；用激光测高仪测量树高，树高按照 $1 0 \\mathrm { ~ m ~ }$ 分为不同的范围；记录样地的经度、纬度、海拔等数据(图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 生物量估算方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据已建立的天山云杉林生物量估算方程[23]先用每株树木的树高 $( H , \\mathrm { m } )$ 和胸径 $( D , { \\mathrm { c m } } )$ 计算出每株树木的树干 $( ~ W _ { \\mp } )$ ）、树皮( $\\big | \\big | _ { \\bigstar } \\big |$ ）、树枝( $\\mathbf { \\nabla } \\mathcal { W } _ { \\sharp _ { x } ^ { \\pm } }$ ）树叶（ $\\boldsymbol { W } _ { \\parallel \\parallel }$ )和树根( $\\langle W _ { \\sharp } \\rangle$ 生物量[式（1）\\~（5)]，然后将各器官生物量相加得到整株树木的生物量( $\\boldsymbol { W } _ { \\ u { T } }$ $\\mathbf { k g } )$ [式(6)]。样地内所有树木生物量累加则得到该样地的总生物量 $( \\mathbf { \\nabla } W , \\mathfrak { t } \\cdot \\mathrm { h m } ^ { - 2 } )$ [式（7）]。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\mathcal { F } } = \\ 0 . \\ 0 3 3 \\ 7 5 9 ( D ^ { 2 } H ) ^ { 0 . 9 0 7 8 8 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\scriptscriptstyle | \\ m | } = \\mathrm { ~ 0 . ~ 0 0 5 ~ 4 9 8 ( ~ } D ^ { 2 } H ) ^ { \\mathrm { ~ 0 . ~ 8 3 0 ~ 3 6 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\# \\# } = 0 . 0 1 9 ~ 8 1 4 ( { \\cal D } ^ { 2 } H ) ^ { 2 . 6 0 2 ~ 1 7 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\scriptscriptstyle \\parallel \\scriptscriptstyle + } = \\ 0 . \\ 0 2 7 \\ 6 4 8 ( \\ D ^ { 2 } H ) ^ { 2 . 2 5 2 \\ 9 4 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\# \\mathbb { R } } = \\ : 0 . 0 4 2 7 3 1 ( D ^ { 2 } H ) ^ { 2 . 1 8 7 1 4 4 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2553cfe5d214078a5fa435e6bc4b927fa59b3f4f5012c2b66638b6b39d5f8ec8.jpg",
+        "img_caption": [
+            "图1研究区雪岭云杉林采样点的空间分布",
+            "Fig.1Distribution of sampling points in the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { T } = \\ W _ { \\mp } \\ + \\ W _ { \\not \\downarrow \\downarrow } \\ + \\ W _ { \\not \\downarrow \\downarrow } \\ + \\ W _ { \\updownarrow \\uparrow } \\ + \\ W _ { \\not \\parallel \\downarrow }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW \\ = \\ 1 0 \\times \\ \\sum _ { i \\ = 1 } ^ { n } \\ W _ { T _ { i } } \\bigg / S\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究中的所有数据均进行了归一化处理，其中年均温度和年均降水量数据来自于Worldclim数据集[24];运用ArcGIS10.0软件提取各样地年均降水量和年均温度等环境因子。生物量计算、统计分析和制图运用Excel、Origin8.5和SPSS22.0等软件完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1天山雪岭云杉个体生物量的分配变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "森林生物量在各器官（样地内）中的分配表现为：树干生物量最多，占林分总生物量的 $4 3 . 6 5 \\%$ ;其次为树枝生物量，占 $2 8 . 6 0 \\%$ ;树根占 $1 3 . 4 9 \\%$ ；树叶占 $1 1 . 0 8 \\%$ ;树皮生物量最少，仅占 $3 . 1 8 \\%$ （图2a)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "森林生物量在不同树木径级中的分配表现符合“单峰”型变化趋势。在 $4 0 \\sim 5 0 ~ \\mathrm { { c m } }$ 中的百分比最大,为 $3 3 . 5 3 \\%$ ;其次为 $2 0 \\sim 3 0 ~ \\mathrm { c m }$ ，占 $2 0 . 1 3 \\%$ ;$3 0 \\sim 4 0 \\ \\mathrm { c m }$ 占 $1 9 . 5 9 \\%$ $5 0 \\sim 6 0 ~ \\mathrm { c m }$ 占 $1 8 . 1 9 \\%$ ；在$1 0 \\sim 2 0 ~ \\mathrm { c m }$ 中生物量所占百分比最少，仅为 $2 . 0 5 \\%$ （图2b）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "森林生物量在不同树高中的分配也符合“单峰”变化。在 $2 0 \\sim 3 0 \\mathrm { ~ m ~ }$ 中所占比例最高，为$4 8 . 7 8 \\%$ ;其次为 $1 0 \\sim 2 0 \\mathrm { ~ m ~ }$ ，占 $3 5 . 2 7 \\%$ $3 0 \\sim 4 0 \\mathrm { ~ m ~ }$ 占 $1 4 . 7 0 \\%$ ；在 $0 \\sim 1 0 \\mathrm { ~ m ~ }$ 中生物量所占百分比最低，仅为 $1 . 2 5 \\%$ （图2c）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "天山雪岭云杉地上生物量较多，占总生物量的$8 7 . 5 4 \\%$ ,地下生物量较少,仅占 $1 2 . 4 6 \\%$ （图2d）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2天山雪岭云杉林分结构随海拔的变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，天山雪岭云杉林平均树高为$1 9 . 3 4 \\sim 2 0 . 9 0 \\mathrm { ~ m ~ }$ ,平均胸径为 $3 3 . 4 2 \\sim 3 6 . 8 9 \\mathrm { ~ m ~ }$ ，林分密度为 $4 4 7 \\sim 4 6 2$ 株· $\\mathbf { h } \\mathbf { m } ^ { - 2 }$ ，胸高断面积为$3 . 1 4 \\sim 3 . 7 8 ~ \\mathrm { m } ^ { 2 } ~ \\cdot ~ \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区树木平均树高、平均胸径和胸高断面积随海拔升高均呈现递增趋势，在海拔 $1 \\ 5 0 0 \\sim 1 \\ 8 0 0 \\ \\mathrm { m }$ 处最小，分别为 $1 9 . 3 4 \\ : \\mathrm { ~ m ~ } , 3 3 . 4 2 \\ : \\mathrm { ~ c m }$ 和 $3 . 1 4 \\mathrm { ~ m } ^ { 2 }$ ：$\\mathrm { h m } ^ { - 2 }$ ;在海拔 $2 4 0 0 \\sim 2 8 0 0 \\mathrm { m }$ 处达到最大，分别为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：数据为平均值 $\\pm$ 标准误差， $n = 7 8$ ;图中各组间不同小写字母表示组间差异显著( $\\ P < 0 . 0 5 \\$ );相同小写字母表示组间差异不显著( $\\textstyle P > 0 . 0 5$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f94288ebe30cb4cd7e2bdfce4c504b854c7f2f673edafcbc369791f8b6a3ed44.jpg",
+        "img_caption": [
+            "图2天山雪岭云杉个体生物量的分配变化",
+            "Fig.2Distribution of individual biomass allocation in Picea schrenkiana forest "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f66a03325c52a942ba530f38bdc452864ac8fb53aeaefa260828b8c8374a495a.jpg",
+        "table_caption": [
+            "表1各海拔区段雪岭云杉林结构特征",
+            "Tab.1 Characteristics of Picea schrenkiana forests at different elevations "
+        ],
+        "table_footnote": [
+            "注：数据为平均值 $\\pm$ 标准误差， $n = 7 8$ ;同行不同小写字母表示不同海拔范围间的数值差异显著( $\\textstyle P < 0 . 0 5$ ）"
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td>1 500~1800 m</td><td>1800~2100 m</td><td>2 100~2 400 m</td><td>2 400~2 800 m</td></tr><tr><td>平均树高／m</td><td>19.34 ±6.62 b</td><td>19.37 ±6.78 b</td><td>20.26 ±6.80 a</td><td>20.90 ±6.78 a</td></tr><tr><td>平均胸径／cm</td><td>33.42 ±11.86 b</td><td>34.42 ±12.03 b</td><td>34.81 ±12.35 b</td><td>36.89 ±12.33 a</td></tr><tr><td>林分密度／Individual·hm-2</td><td>447 ± 152 b</td><td>457 ± 153 a</td><td>464 ±153 a</td><td>462 ± 155 a</td></tr><tr><td>胸高断面积／m·hm-2</td><td>3.14 ±2.32 b</td><td>3.32 ± 12.03 b</td><td>3.41 ±2.43 b</td><td>3.78 ±2.50 a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$2 0 . 9 0 \\ \\mathrm { m } \\cdot 3 6 . 8 9 \\ \\mathrm { c m }$ 和 $3 . 7 8 ~ \\mathrm { m } ^ { 2 } \\cdot \\mathrm { h } \\mathrm { m } ^ { - 2 }$ 。随海拔升高,林分密度呈“单峰”变化，最大值出现在海拔$2 ~ 1 0 0 \\sim 2 ~ 4 0 0 ~ \\mathrm { m }$ 处,为464 株· $\\mathrm { h m } ^ { - 2 }$ ,最小值出现在海拔 $1 \\ 5 0 0 \\sim 1 \\ 8 0 0 \\ \\mathrm { ~ m ~ }$ 处,为447株· $\\mathbf { h } \\mathbf { m } ^ { - 2 }$ (表1)。统计分析， $1 \\ 5 0 0 \\sim 1 \\ 8 0 0 \\ \\mathrm { m }$ 和 $1 \\ 8 0 0 \\sim 2 \\ 1 0 0 \\ \\mathrm { m }$ 处的平均树高差异不显著，差值为 $0 . \\ 0 3 \\ \\mathrm { ~ m ~ } , 2 1 0 0 \\ \\sim$ $2 ~ 4 0 0 ~ \\mathrm { m }$ 和 $2 \\ 4 0 0 \\sim 2 \\ 8 0 0 \\ \\mathrm { m }$ 处的平均树高差异不显著,差值为 $0 . 6 4 ~ \\mathrm { m } ; 2 ~ 4 0 0 \\sim 2 ~ 8 0 0 ~ \\mathrm { m }$ 处的平均胸径、胸高断面积均与其他海拔区段处的平均胸径和胸高断面积差异显著,其中 $2 \\ 4 0 0 \\sim 2 \\ 8 0 0 \\ \\mathrm { m }$ 处的平均胸径、胸高断面积和 $1 \\ 5 0 0 \\sim 1 \\ 8 0 0 \\ \\mathrm { m }$ 处的平均胸径、胸高断面积差异较大； $1 \\ 5 0 0 \\sim 1 \\ 8 0 0 \\ \\mathrm { m }$ 处的林分密度与其他海拔区段处的林分密度差异显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3天山雪岭云杉生物量随海拔的变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究区天山雪岭云杉林的生物量为388.74$\\mathbf { i } \\cdot \\mathbf { h } \\mathbf { m } ^ { - 2 }$ 。随海拔升高,天山雪岭云杉林生物量呈“单峰\"变化，最大值出现在海拔 $2 1 0 0 \\sim 2 4 0 0 \\mathrm { ~ m ~ }$ 处，为 $6 1 1 . 5 8 \\mathrm { ~ t ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ ;最小值出现在海拔 $1 \\ 5 0 0 \\sim$ $1 ~ 8 0 0 ~ \\mathrm { m }$ 处，为 $1 7 1 . 3 8 \\mathrm { ~ t ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ ;海拔 $2 ~ 1 0 0 \\sim 2 ~ 4 0 0 ~ \\mathrm { m }$ 处的生物量与其他海拔区段处的生物量差异显著（图3a）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随海拔升高，干、皮生物量的比例呈降低趋势，在海拔 $2 ~ 4 0 0 \\mathrm { ~ m ~ }$ 以下分别为 $4 3 . 6 2 \\% \\sim 4 4 . 6 8 \\%$ 和$3 . 1 6 \\% \\sim 3 . 3 4 \\%$ ,在海拔 $2 ~ 4 0 0 ~ \\mathrm { ~ m ~ }$ 以上达到最小为$3 9 . 1 0 \\%$ 和 $2 . 8 1 \\%$ ；枝生物量占树木各器官生物量的比例随海拔的升高而逐渐增加，在海拔 $2 ~ 4 0 0 \\sim$ $2 \\ 8 0 0 \\ \\mathrm { m }$ 处的比例 $( 3 2 . 0 7 \\%$ ),高于海拔 $2 ~ 4 0 0 \\mathrm { ~ m ~ }$ 以下枝生物量的比例 $( 2 7 . 2 0 \\% \\sim 2 8 . 7 0 \\%$ )；叶、根生物量所占的比例均随海拔升高呈现先减小后增加的变化趋势，在海拔 $2 ~ 1 0 0 \\sim 2 ~ 4 0 0 ~ \\mathrm { ~ m ~ }$ 处的最小值为$1 0 . 6 7 \\%$ 和 $1 2 . 9 1 \\%$ ,在海拔 $2 \\ 4 0 0 \\sim 2 \\ 8 0 0 \\ \\mathrm { m }$ 处的最大值为 $1 1 . 8 0 \\%$ 和 $1 4 . 2 2 \\%$ （图3b）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着海拔的升高，树木径级 $1 0 \\sim 2 0 ~ \\mathrm { c m }$ 和 $4 0 \\sim$ $5 0 ~ \\mathrm { c m }$ 的生物量变化规律都不明显。树木径级 $2 0 \\sim$ $3 0 ~ \\mathrm { c m } \\ 、 3 0 \\sim 4 0 ~ \\mathrm { c m }$ 和 $5 0 \\sim 6 0 \\ \\mathrm { c m }$ 的生物量随海拔升高均呈现先上升后下降的变化趋势，在海拔 $2 ~ 1 0 0 \\sim$ $2 ~ 4 0 0 ~ \\mathrm { m }$ 处达到最大值,分别为 $2 1 4 . 5 8 \\mathrm { ~ t ~ } \\cdot \\mathrm { ~ h m } ^ { - 2 }$ 、$4 7 4 . 0 0 \\mathrm { ~ t ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ 和 $1 ~ 4 7 6 . 9 0 \\mathrm { ~ t ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ 。就树木径级$2 0 \\sim 3 0 ~ \\mathrm { c m }$ 而言，各海拔区段处的生物量差异不显著;海拔 $1 \\ 5 0 0 \\sim 1 \\ 8 0 0 \\ \\mathrm { m }$ 处树木径级 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 的生物量与 $2 \\ 4 0 0 \\sim 2 \\ 8 0 0 \\ \\mathrm { m }$ 处的生物量差异不显著，但与其他海拔区段的生物量差异显著（图3c）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着海拔升高，树高范围 $0 \\sim 1 0 \\mathrm { ~ m ~ }$ 和 $3 0 \\sim 4 0 \\mathrm { ~ m ~ }$ 的生物量变化趋势不明显； $1 0 \\sim 2 0 \\mathrm { ~ m ~ }$ 的生物量随海拔升高呈增加海拔趋势，在 $2 \\ 4 0 0 \\sim 2 \\ 8 0 0 \\ \\mathrm { ~ m ~ }$ 处值为最大( $4 9 5 . 1 8 \\mathrm { ~ t ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ ）； $2 0 \\sim 3 0 \\mathrm { ~ m ~ }$ 的生物量随海拔升高呈现先上升后下降的变化趋势，在海拔 $2 ~ 1 0 0 \\sim$ $2 \\ 4 0 0 \\ \\mathrm { m }$ 处达到最大值,为 $7 6 1 . 6 2 \\mathrm { ~ t ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ ,在海拔$1 \\ 5 0 0 \\sim 1 \\ 8 0 0 \\ \\mathrm { m }$ 处达到最小值 $( 2 4 7 . 4 5 \\mathrm { ~ t ~ } \\cdot \\mathrm { ~ h m ~ } ^ { - 2 } )$ 。就树高范围 $1 0 \\sim 2 0 \\mathrm { ~ m ~ }$ 而言 $, 2 \\ 4 0 0 \\sim 2 \\ 8 0 0 \\ \\mathrm { m }$ 处的生物量与其他海拔区段的生物量差异显著;海拔$1 \\ 5 0 0 \\sim 1 \\ 8 0 0 \\ \\mathrm { m }$ 处树高范围 $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 的生物量与$2 \\ 4 0 0 \\sim 2 \\ 8 0 0 \\ \\mathrm { ~ m ~ }$ 处的生物量差异不显著，但与其他海拔区段的生物量差异显著（图3d）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4天山雪岭云杉生物量随经纬度的变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图 $4 a \\sim 4 b$ 看出，天山雪岭云杉林生物量在经向和纬向上的分布均有明显的规律性。由西南向东北，雪岭云杉林生物量总体呈逐渐降低的趋势。在纬向上，随着纬度的升高，生物量呈现相对下降的趋势，回归表明纬度的变化可以解释生物量的 $3 8 . 6 3 \\%$ （ $\\cdot P < 0 . 0 1 )$ ,生物量最大值出现在 $4 2 ^ { \\circ } \\sim 4 3 ^ { \\circ } \\mathrm { N }$ 区域的昭苏等地区。在经向上，生物量随着经度的升高呈降低趋势，回归表明经度的变化可以解释生物量的 $2 5 . 3 8 \\%$ （ $\\textstyle P < 0 . 0 1 { \\mathrm { ~ } }$ ),生物量最大值出现在 $8 0 ^ { \\circ } \\sim$ $8 2 ^ { \\circ } \\mathrm { E }$ 区域。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "年均降水量随着纬度升高的变化趋势不显著（图4c）。年均降水量随着经度的升高呈显著降低趋势，回归表明经度的变化可以解释年均降水量的$7 7 . 7 1 \\%$ （ $P < 0 . 0 1 \\$ )，最大值出现在 $8 0 ^ { \\circ } \\sim 8 2 ^ { \\circ } \\mathrm { E }$ 区域（图4d）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2717709bcd95f2c7ae181ba876d34b1cb2710ba99232cae6da33ab996e335b06.jpg",
+        "img_caption": [
+            "注：数据为平均值 $\\pm$ 标准误差， $n = 7 8$ ;不同小写字母表示不同海拔范围间的差异显著( $\\textstyle P < 0 . 0 5$ ）",
+            "图3天山雪岭云杉生物量随海拔的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a538e85060ce5d9357fb939b347a77e3d5d34f6b3a0c563525b8728b41dbab5.jpg",
+        "img_caption": [
+            "Fig.3Biomass ofPicea schrenkiana forest at different elevations ",
+            "图4天山雪岭云杉生物量和降水量随经纬度的变化",
+            "Fig.4Biomass and annual precipitation of Picea schrenkiana forest with latitude and longitude "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5天山雪岭云杉树木生长指标与环境因子的相关关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据对天山地区环境因素和林分生长指标的调查和观测数据，从相关系数（表2）可以得知，天山雪岭云杉林的平均胸径、林分密度和胸高断面积均与海拔呈显著正相关，生物量与海拔为极显著正相关;林分密度与年均温度呈正相关，平均树高、平均胸径、胸高断面积和生物量与年均温度呈负相关；平均胸径和生物量与年均降水量呈显著正相关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9918afe6a8f9a856c00aceb7475952eab532f7956d12830dfbf6f71a2305ef9b.jpg",
+        "table_caption": [
+            "表2云杉林树木生长指标与环境因子的相关系数",
+            "Tab.2Correlation coeficients between production indexes and ecological factors ofPicea schrenkiana forest "
+        ],
+        "table_footnote": [
+            "注： $*$ 表示 $P < 0 . 0 5$ 水平； $* *$ 表示 $P < 0 . 0 1$ 水平"
+        ],
+        "table_body": "<html><body><table><tr><td>环境因子</td><td>平均树高 /m</td><td>平均胸径 /cm</td><td>林分密度 ／Individual·hm-2</td><td>胸高断面积 /m²·hm-2</td><td>生物量 /t·hm-²</td></tr><tr><td>海拔／m</td><td>0.151</td><td>0.276 *</td><td>0.255 *</td><td>0.276 *</td><td>0.356 **</td></tr><tr><td>年均温度／℃</td><td>-0.151</td><td>-0.142</td><td>0.058</td><td>-0.124</td><td>-0.076</td></tr><tr><td>年均降水量／mm</td><td>-0.024</td><td>0.238 *</td><td>0.087</td><td>0.231</td><td>0.300 *</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究区天山雪岭云杉林的生物量平均值为$3 8 8 . 7 4 \\mathrm { ~ t ~ } \\cdot \\mathrm { ~ h m ~ } ^ { - 2 }$ ,高于青海云杉林平均值(128.61$\\mathbf { t } \\cdot \\mathbf { \\tau } \\mathrm { h m } ^ { - 2 }$ )[25]、祁连山哈溪林场（ $\\left( 1 3 2 . 9 0 \\mathrm { ~ t ~ } \\cdot \\right.$ （20$\\mathrm { h m } ^ { - 2 }$ )[26]、甘肃省肃南县( $2 8 2 . 5 4 \\mathrm { ~ t ~ } \\cdot \\mathrm { h m } ^ { - 2 ) [ 2 7 ] }$ 和全国平均值( $1 5 6 . 6 6 \\mathrm { ~ t ~ } \\cdot \\mathrm { ~ h m ~ } ^ { - 2 }$ )[28],这主要因为生境条件是影响森林生物量的重要因素。本研究区样地多布设在树木生长较好的深山中低海拔处，区内降水较多，可能导致雪岭云杉林的生物量较高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其结论如下：（1）天山雪岭云杉林生物量在各器官(样地内)中的分配关系为：干 $>$ 枝 $>$ 根 $>$ 叶 $>$ 皮，所占比例分别为 $4 3 . 6 5 \\%$ 、28. $60 \\%$ 、 $1 3 . 4 9 \\%$ 、$1 1 . 0 8 \\%$ 和 $3 . 1 8 \\%$ （图2a）。这与王燕等[29]的研究结果不同，这可能与他们的取样尺度(范围)有关；树干生物量占树木各器官生物量的 $4 3 . 6 5 \\%$ ，说明树干部分是天山雪岭云杉林生物量的主体；天山雪岭云杉林生物量在树木径级和树高中的分配均呈“单峰\"变化趋势,这与刘贵峰等[30]的研究结果一致，说明不同径级和树高的生物量与树木林分密度有密切关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）气温和降水是生境条件的主要体现，也是影响树木生长发育的主要因素，其中降水是干旱区植被生长、分布和恢复的限制性因素[31-34]。由于研究区海拔和经纬度的跨度较大，导致该区域气温和降水的空间差异性较大，从而使雪岭云杉林生物量在垂直尺度和区域尺度上存在很大差异。在天山雪岭云杉分布的低海拔区域，温度较高，降水较少，受十旱气候的影响，土壤蒸发较强，十旱度增加，不利于雪岭云杉林的生长，所以生物量较小。在中高海拔处，土壤厚度大，且养分含量丰富，温度和降水良好的组合更有利于生物量的增加[33]，所以在本研究区的海拔 $2 ~ 1 0 0 \\sim 2 ~ 4 0 0 ~ \\mathrm { m }$ 处生物量达到最大值（图3a)，该海拔区段是天山雪岭云杉生长的理想场所。在高海拔处，降水量虽然最多，但热量不足，寒冷多风,紫外线强烈,抑制了天山雪岭云杉的生长发育；高海拔处的冻土层会影响雪岭云杉林根部对水分的吸收和利用，所以高海拔处的生物量较少。树木各器官生物量所占的百分比随海拔的升高表现的变化各不相同;树木干、皮器官的生物量所占比例随海拔的升高而降低,与研究区气温的变化趋势一致,温度下降，空气稀薄，恶劣的气候环境使得树木干、皮器官的生长受到抑制；枝生物量的比例随海拔升高逐渐增加，与降水的变化趋势一致，因为雪岭云杉林根系从土壤中获取的水分和养分首先提供树枝的生长；叶和根生物量的所占比例随海拔升高呈先降低后升高的趋势，因为高海拔处的低温和强光照胁迫枝、叶和根的生长获取更多的光照和水分以适应寒冷的环境(图3b），说明不同器官生物量的分配与温度、降水具有密切的联系，雪岭云杉林通过适应外界环境使得各器官得到最大的生长[35]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）随着经纬度的升高，来自大西洋的水汽在西风环流作用下穿过西部山地的山口、河谷进入新疆，研究区降水量自西向东呈降低的趋势，导致天山雪岭云杉林生物量西部较高，中东部较低(图4)；在本研究区中降水占主导地位，年均温度随着经纬度的升高呈现的降低趋势不明显。林分密度随海拔的“单峰\"变化与雪岭云杉林生物量的海拔变化表现一致（表1和图3a），可见林分密度是导致森林生物量随海拔变化的主要因素；生物量与海拔呈极显著正相关，与年均降水量呈显著正相关(表2），说明此三者是研究区雪岭云杉林生物量的制约因子。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究较以往研究成果而言，研究区空间覆盖范围更广，获得了更为详尽的雪岭云杉林实测数据，探讨了天山雪岭云杉林个体生物量的分配及其空间变化规律，得出了影响雪岭云杉林生物量变化的制约因子；有关雪岭云杉林生物量对单一因子的响应研究较多，然而对于雪岭云杉林生物量与综合环境因子的全面分析仍然缺乏；森林生物量的形成与积累具有复杂的生理机制，不仅与气象因素有关，而且受到立地条件、地貌和土壤等因素的影响，天山雪岭云杉林生物量对于其他环境因子的响应有待进一步研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］冯仲科,罗旭,石丽萍.森林生物量研究的若干问题及完善途 径[J].世界林业研究,2005,18（3）:25－28.[FENG Zhongke, LUO $\\mathrm { X u }$ ,SHI Liping.Some problems and perfect approaches of research on forest biomass[J].World Forestry Research,2O05,18 (3):25 -28.]   \n[2] BROWN S,LUGO A E.The storage and production of organic matter in tropical forests and their role in the global carbon cycle[J]. Biotropica,1982,14(3):161-187.   \n[3] FIELD C B,KADUK J.The carbon balance of an old-growth forest:Building across approaches[J].Ecosystems,2004,7（5）: 525-533.   \n[4] CLARK D A.Sources or sinks? The responses of tropical forests to current and future climate and atmospheric composition[J].Philos Trans R Soc Lond B Biol Sci,2004,359(1443）:477 -491.   \n[5] HOSHIZAKI K,NIYAMA K,KIMURA K,et al.Temporal and spatial variation of forest biomass in relation to stand dynamics in a mature,lowland tropical rainforest,Malaysia[J].Ecological Research,2010,19(3):357-363.   \n[6] GARKOTI S C.Estimates of biomass and primary productivity in a high-altitude maple forest of the west central Himalayas[J].Ecological Research,2008,23(1） :41-49.   \n[7] ANGELIKA T,ERNSTDETLEF S.Carbon dynamics in successional and afforested spruce stands in Thuringia and the Alps[J]. Global Change Biology,2010,12(2）:325-342.   \n[8] MORTON NE,YAMAMOTO M. Tropical forests and global atmospheric change[J].Philos Trans R Soc Lond B Biol Sci,2O04,359 (1443） :549 -555.   \n[9]LEWIS S L,PHILLIPS O L,BAKER TR,et al.Concerted changes in tropical forest structure and dynamics：Evidence from 5O south ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "American long-term plots［J].Philosophical Transactions of the ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Royal SocietyofLondon,2004,359(1443）:421.   \n[10]CHAVE J,CONDIT R,LAO S,etal. Spatial and temporal variation of biomass in a tropical forest: Results from a large census plot in Panama[J]. Jourmal of Ecology,2003,91(2）:240-252.   \n[11]CHAVE J,RIERA B,DUBOIS M A. Estimation of biomass in a neotropical forest of French Guiana：Spatial and temporal variability [J]. Journal of Tropical Ecology,2001,17(1）:79 -96.   \n[12]PHILLIPS O L,GRACE J. Changes in the carbon balance of tropical forests:Evidence from long-term plots[J]. Science,1998,282 (5388) :439 -442.   \n[13]FAN S,GLOOR M,MAHLMAN J,et al.A large terrestrial carbon sink in north America implied by atmospheric and oceanic carbon dioxide data and models[J]. Science,1998,282（5388）: 442- 446.   \n[14］新疆森林编辑委员会.新疆森林［M].乌鲁木齐：新疆人民出 版社,1989.［Xinjiang Forestry Editorial Board.Xinjiang forest [M]. Urumqi: Xinjiang People's Publishing House,1989.]   \n[15]杨静,黄秉光,黄玫,等.近55a新疆净生态系统生产力对气候 变化的响应[J].干旱区地理，2017,40（5）：1054－1060. [YANG Jing,HUANG Bingguang,HUANG Mei,etal.Responses of net ecosystem productivity to climate change in Xinjiang in recent 55 years[J].Arid Land Geography,2017,40（5）: 1054- 1060.]   \n[16］王旭,张嘉伟,马禹,等.天山山脉强降水云宏微观物理属性的 空间分布特征［J].干旱区地理,2016,39(6)：1153-1161. [WANG $\\mathrm { X u }$ ,ZHANG Jiawei,MA Yu,et al.Spacial distribution of macro and micro physical properties of clouds during heavy rains over Tianshan Mountains[J].Arid Land Geography,2016,39（6）: 1153 - 1161. ]   \n[17］张瑛山,王学兰,周林生.雪岭云杉林生物量测定的初步研究 [J].新疆农业大学学报,1980,（3）:19-25.[ZHANG Yingshan,WANG Xuelan,ZHOU Linsheng. Preliminary study on biomass determination of Picea spruce forest[J]. Journal of Xinjiang Agricultural University,1980,（3）:19 -25.]   \n[18］罗天祥.中国主要森林类型生物生产力格局及其数学模型 [D].北京：中国科学院研究生院（国家计划委员会自然资源 综合考察委员会）,1996.［LUO Tianxiang.Bioproductivity patterns and mathematical models of main forest types in China[J]. Beijing:Graduate University of Chinese Academy of Sciences, 1996.]   \n[19］王燕,赵士洞.天山云杉林生物生产力的地理分布[J].植物生 态学报,2000,24（2）:186-190.[WANG Yan,ZHAO Shidong. Productvity pattern of Picea schrenkiana var.TianSchanica forest [J].Chinese Journal of Plant Ecology,2000,24(2）:186-190.]   \n[20］王慧杰,常顺利,张毓涛,等.天山雪岭云杉林土壤有机碳密度 空间分异及其与森林发育的关系[J].山地学报,2017,35（3）： 300 -307.[WANG Huijie,CHANG Shunli,ZHANG Yutao,et al. Spatial variation of the densityof SOC of Picea schrenkiana forest and relationships with forest development[J].Mountain Research, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2017,35(3):300-307.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[21］谢锦，常顺利，张毓涛，等.天山北坡植物土壤生态化学计量特征的垂直地带性[J].生态学报，2016，36（14）：4363-4372.[XIEJin，CHANGShunli,ZHANGYutao,etal.Plantand soil ec-ological stoichiometry with vertical zonality on the northern slope ofthe middle Tianshan Mountains[J].Acta Ecologica Sinica,2016,36(14) :4363-4372.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[22］阿米娜木·艾力,常顺利,张毓涛,等.天山云杉森林土壤有机碳沿海拔的分布规律及其影响因素[J].生态学报，2014，34(7）：1626-1634.[AILI Aminamu，CHANG Shunli，ZHANGYutao,etal.AltitudinaldistributionruleofPiceaschrenkianafor-est's soil organic carbon and its influencing factors[J].Acta Eco-logica Sinica,2014,34(7) :1626-1634.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23］刘广路.天山云杉生长规律与天山植物群落生产力研究[D]. 保定：河北农业大学,2006.［LIU Guanglu.The study on the growth rule ofPicea schrenkiana var.TianSchanica and the productivity of communities in TianShan[D].Baoding:Agricultural University of Hebei,2006.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[24]WALTARIE,SCHROEDERR,MCDONALDK,et al.Bioclimatic variables derived from remote sensing:Assessment and application for species distribution modelling[J].Methods in Ecology & Evolution,2015,5(10):1033-1042. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[25］张雷，于澎涛,王彦辉,等.祁连山北坡青海云杉中龄林生物量随海拔的变化［J].林业科学，2015，51（8）：1-7.［ZHANGLei,YUPengtao,WANGYanhui,etal.Biomasschangeof middleaged forest of Qinghai spruce along an altitudinal gradient on thenorth slope ofQilian Mountains[J].Scientia Silvae Sinicae,2015,51(8):1-7.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[26］刘兴聪.祁连山哈溪林场青海云杉林生物量的测定[J].甘肃 林业科技,1992,（1）:7-10.[LIU Xingcong.Biomass determination of Qinghai spruce forest in Haxi forest farm,Qilian Mountains [J].Journal of Gansu Forestry Science and Technology,1992, (1):7-10.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[27］敬文茂，刘贤德，赵维俊，等.祁连山典型林分生物量与净生产 力研究[J].甘肃农业大学学报，2011，46（6）：81-85.［JING Wenmao,LIU Xiande,ZHAOWeijun,etal. Study onbiomass and net productivity of typical forest stand in the Qilian Mountains[J]. Journal of Gansu Agricultural University,2011,46(6) :81-85.] [28］方精云，刘国华，徐嵩龄.我国森林植被的生物量和净生产量 [J].生态学报,1996,16（5）:497-508.［FANGJingyun，LIU Guohua,XU Chongling.Biomass and net production of forest vegetation in China[J].Acta Ecologica Sinica,1996,16（5）:497- 508.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[29］王燕,赵士洞.天山云杉林生物量和生产力的研究[J].应用生态学报,1999,10(4）:389-391.[WANG Yan,ZHAO Shidong.Biomass and net productivity of Picea schrenkiana var.Tianshanicaforest[J].Chinese Journal of Applied Ecology,1999,10（4）：389 -391.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[30］刘贵峰,刘玉平,郭仲军,等.天山云杉林生物量及其变化规律的研究［J].西北林学院学报，2013，28（5）：13-17.［LIUGuifeng,LIU Yuping,GUO Zhongjun,et al. Study of biomass of $P i$ 1ceaschrenkiana var.Tianshanica and its variation[J].Journal ofNorthwest Forestry University,2013,28(5):13-17.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[31]PRENTICEIC,CRAMER W,HARRISON SP,etal.Special paper:A global biome model based on plant physiology and dominance,soil properties and climate[J].Journal of Biogeography, 1992,19(2):117-134. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[32］勾晓华，陈发虎，杨梅学，等.祁连山中部地区树轮宽度年表特征随海拔高度的变化[J].生态学报，2004，24（1）：172-176.[GOUXiaohua,CHENFahu,YANGMeixue,etal.Analysis of thetree-ring width chronology of Qilian Mountainsatdifferent elevation[J].Acta Ecologica Sinica,2004,24(1）:172-176.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[33]NAMGAIL T,RAWATGS,MISHRA C,et al.Biomassand diversity of dry alpine plant communities along altitudinal gradients in the Himalayas[J].Journal of Plant Research,2012,125(1) :93- 101. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[34］王顺利，王荣新,敬文茂，等.祁连山干旱山地草地生物量对水分条件的响应[J].干旱区地理，2017，40（4）：772－779.[WANG Shunli,WANGRongxin,JINGWenmao,et al.Biomass ofgrassland and response to soil moisture on arid mountain land inthe Qilian Mountains[J].Arid Land Geography,2O17,40（4）：772 - 779.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[35］李霞，徐霞，龚容，等.沿气温梯度中国森林生物量分布特征[J].北京师范大学学报（自然科学版），2017，（4）：458-464.[LIXia,XUXia,GONGRong,etal.Distributioncharacteristics offorest biomass along the Chinese temperature gradient[J].JournalofBeijing Normal University（Natural Science Edition）,2017,(4):458-464.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Individual biomass allocation and its variation of Picea schrenkiana forests ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LUO Qing-hui1,2，XU Zhong-lin1,²，XU Ze-yuan1²，LI Lu12，CHANG Ya-peng1,2, XU Xin-yi1,2， SONG Xin-ni1,2   \n(1College of Resources and Environmental Sciences,Xinjiang University,Urumqi 830o46,Xinjiang,China;   \n2Key Laboratory of Oasis Ecology,Colege of Resource and Environmental Science,Xinjiang University, Urumqi 830046,Xinjiang,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The Tianshan Mountains arean important sourceof water in Xinjiang,China.The Picea schrenkiana forest is the dominant species of Xinjiang's mountain forests.This study takes $P$ .schrenkiana forest as the research object,and discusses the distribution and variation of the biomass of $P$ . schrenkiana forest in various organs (stems, branch,leaves,bark,roots）,which willprovidedata support for the integrated forest management inthe studyarea and be of great significance for the protection,restoration and development of $P$ .schrenkiana forest of the Tianshan Mountains.A total of 78 sampling plots with a radius of $1 0 \\mathrm { ~ m ~ }$ were set up from the elevation of $1 5 0 0 - 2 8 0 0 \\mathrm { ~ m }$ with P.schrenkiana(Schrenk's spruce)forest of Tianshan Mountains,and alltrees in the plots was measured.According to the established biomass estimation equations of $P$ ，schrenkiana forest,this study analyzed the distribution and variation of the biomass of $P$ 、schrenkiana forest in the Tianshan Mountains.The results show as follows:（1） The mean value of biomass of $P$ .schrenkiana forest in the study area was $3 8 8 . 7 4 \\mathrm { ~ t ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ ,and the stems,branches,roots, leaves and bark accounted for $4 3 . 6 5 \\%$ . $2 8 . 6 0 \\%$ ， $1 3 . 4 9 \\%$ ， $1 1 . 0 8 \\%$ and $3 . 1 8 \\%$ of the biomass,respectively. The proportion of stems is the largest,andthe proportion of bark is the smallest;the percentageof biomass in each diameter class is : $3 3 . 5 3 \\%$ ( $4 0 - 5 0 ~ \\mathrm { c m }$ ）， $2 0 . 1 3 \\%$ （ $2 0 - 3 0 ~ \\mathrm { c m }$ ), $1 9 . 5 9 \\%$ ( $3 0 - 4 0 ~ \\mathrm { c m }$ ), $1 8 . 1 9 \\%$ 0 $\\left( 5 0 - 6 0 \\ \\mathrm { c m } \\right)$ and $2 . 0 5 \\%$ ( $1 0 - 2 0 ~ \\mathrm { c m } ,$ ）;the proportion of tree biomass in different tree height scales is forming a descending order list as follows : $4 8 . 7 8 \\%$ for the height range from $2 0 \\mathrm { m }$ to $3 0 \\ \\mathrm { m } , 3 5 . 2 7 \\%$ for the height range from $1 0 \\mathrm { ~ m ~ }$ to $2 0 \\mathrm { ~ m ~ }$ ， $1 4 . 7 0 \\%$ for the height range from $3 0 \\mathrm { ~ m ~ }$ to $4 0 \\mathrm { ~ m ~ }$ and $1 . 2 5 \\%$ for the height range from $0 \\mathrm { ~ m ~ }$ to $1 0 \\mathrm { ~ m ~ }$ ； the distribution percentage of aboveground biomass and belowground biomass is : $8 7 . 5 4 \\%$ ? $3 4 0 . \\ 3 0 \\ \\mathrm { ~ t ~ } \\cdot \\ \\mathrm { h m } ^ { \\ - 2 }$ ）and $1 2 . 4 6 \\%$ （204号 （ $4 8 . 4 4 \\mathrm { ~ t ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ ），respectively. (2）There was a hump-shaped curve by which the biomass of $P$ ，schrenkiana forest reached its peak value of $6 1 1 . 5 8 \\mathrm { ~ t ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ at the elevation of $2 ~ 1 0 0 - 2 ~ 4 0 0 ~ \\mathrm { m }$ .The minimum value of biomass at （20 $1 ~ 5 0 0 - 1 ~ 8 0 0 ~ \\mathrm { m }$ was $1 7 1 . 3 8 \\mathrm { ~ t ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ ，and the value of biomass at $1 ~ 8 0 0 - 2 ~ 1 0 0 ~ \\mathrm { ~ m ~ }$ was $4 0 2 . 0 5 \\pm 2 9 1 . 5 8 \\mathrm { ~ t ~ } \\cdot$ （20 $\\mathrm { h m } ^ { - 2 }$ ,and the value of biomass at $2 \\ 4 0 0 - 2 \\ 8 0 0 \\ \\mathrm { ~ m ~ }$ was $3 6 9 . 9 7 \\pm 2 0 5 . 0 9 \\mathrm { ~ t ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ . The proportions of stems and bark biomass were decreased along with the increase of elevation,the biomassof branches was increased gradualy, and the biomass of leaves and roots was decreased first and then increased.The biomass of $P$ . schrenkiana with diameters being $2 0 - 3 0 ~ \\mathrm { c m } , 3 0 - 4 0 ~ \\mathrm { c m }$ and $5 0 \\mathrm { ~ - } 6 0 ~ \\mathrm { c m }$ displayed a hump-shaped curve with the increase of elevation,and reached its peak value at the elevation of $2 ~ 1 0 0 - 2 ~ 4 0 0 ~ \\mathrm { ~ m ~ }$ The biomass of $P$ .schrenkiana with a tree height of $1 0 - 2 0 \\mathrm { ~ m ~ }$ was gradually increased with the increase of elevation,and the biomass of $P$ .schrenkiana with a tree height of $2 0 \\mathrm { ~ - ~ } 3 0 \\mathrm { ~ m ~ }$ was increased first and then decreased,reaching a maximum value at the altitude of $2 ~ 1 0 0 - 2 ~ 4 0 0 ~ \\mathrm { m }$ .The biomass of the forest showed a decreasing trend from the west to the east in the study area. The forest density，elevationand precipitation jointlydetermined the size of forest biomass and its variation.The places at the elevation of $2 ~ 1 0 0 - 2 ~ 4 0 0 ~ \\mathrm { m }$ are the most suitable places for growing $P$ . schrenkiana forest in this study area. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:Picea schrenkiana forest； individual biomass；allocation； organs；environmental factors",
+        "page_idx": 8
+    }
+]

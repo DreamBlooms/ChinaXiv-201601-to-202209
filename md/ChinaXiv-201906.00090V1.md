@@ -1,0 +1,187 @@
+# Confirmation of Melastoma dendrisetosum (Melastomataceae) as a distinct species based on morphological and
+
+# micromorphological data
+
+WEN Zhenying, ZHOU Yuzhen,ZHAI Junwen, WU Shasha, LAN Siren, CHEN Jinliao,PENG Donghui\* (College ofLandscape Architecture,Fujian Agriculture and Forestry University,Fuzhou 350o02,China)
+
+Abstract: Melastoma dendrisetosum C. Chen (Melastomataceae) was first reported in 1983. Chen & Renner (2Oo7) merged it within M. sanguineum. In order to clarify the difference between the two and the taxonomic status of M. dendrisetosum,a field investigation, herbarium survey,and an examination of morphological and micromorphological characteristics was performed. M. dendrisetosum was confirmed as a distinct species, obviously different from M. sanguineum. This species is narrowly endemic and extremely endangered.The authors provide the latest morphological description of M. dendrisetosum, aiming to lay a foundation for the precise identification and future conservation of this species.
+
+Keywords: Melastoma dendrisetosum, distinct species, evidence,latest morphological description, Hainan
+
+CLC number: Q949 Document code: A
+
+# 基于形态与微形态分析确认枝毛野牡丹（野牡丹科）系一独
+
+# 立的种
+
+温振英，周育真，翟俊文，吴沙沙，兰思仁，陈进燎，彭东辉\*（福建农林大学园林学院，福州350002）
+
+摘要：枝毛野牡丹（Melastomadendrisetosum）属于野牡丹科野牡丹属，首次发表于1983年，而Flora ofChina（2007）则将其归入了毛苓（M.sanguineum)。为弄清二者的区别及枝毛野牡丹的分类地位，本文作者采用野生地实地考察、各大标本馆标本比较鉴定、引种地植株形态测定以及微形态扫描电镜观察，现已证实：枝毛野牡丹是明显区别于毛蕊的一个独立的植物种，该种自然分布区极其狭窄，正处于极度濒危的生存状态。作者根据自己多年的科研积累对枝毛野牡丹进行了最新的形态描述，旨在为正确识别、积极保护该物种奠定基础。关键词：枝毛野牡丹，独立物种，证据，最新形态描述，海南
+
+中图分类号：Q949 文献标识码：A
+
+# Introduction
+
+The genus Melastoma Linn. (Linnaeus,1753) (Melastomataceae) comprises approximately 100 species distributed from Southern Asia to the Northern part of Oceania and the Pacific Islands (Chen,1983,1984; Meyer, 2001),but only 22 species have been recognized in the Flora of China (Chen & Renner, 2007),and 31 new species in Borneo were published by Wong (Wong,2016); he believed that there are 8O-9O species in Melastoma.In fact, understanding of this genus is not detailed enough to ensure the exact number of species in it (Huang et al., 2O18),and there may thus be other new species yet to be discovered.
+
+Nine species and one variety in China were reported in the revision of the Chinese Melastoma in 1983 (Chen,1983), wherein the new species M. dendrisetosum was only reported to be distributed in Hainan and was similar to M. penicillatum. This treatment was followed by the same author in Flora Reipublicae Popularis Sinicae (Chen,1984).However, in Flora of China (Chen & Renner, 2OO7） Chen and Renner followed Meyer's (Meyer,2OOl） revision and recognized only five Chinese taxa and incorporated M. dendrisetosum and M. penicillatum into M. sanguineum. However, subsequent studies indicated that M. penicillatum was a distinct species from both morphological characteristics and molecular results (Chao et al.,2O14); Huang et al.'s research indicated that M. dendrisetosum was an independent species mainly based on from the difference in the indumentum of the hypanthium and the molecular results (2O18); however, there are other morphological diferences between the two，and the taxonomic status of M. dendrisetosum also needs to be further assessed from multiple perspectives.
+
+Leaves are one of the important vegetative organs of plants,and are also one of the important bases for plant species identification (Zeng et al.，2O17). In plant taxonomic studies，leaf characteristics are next only to the those of flowers and fruits (Wang et al.,2Ol2; Li et al.,2010; Yang et al.，2O16). The leaf epidermis of plants has certain genetic stability，and thus,the micromorphological characteristics of leaf epidermis are of important research value for interspecies or intergeneric classfication (Zeng et al., 2O17) and the microscopic morphological characteristics of leaves have been increasingly used in the study of modern plant taxonomy and in the classification and identification of difficult groups (Peng et al.,2O11; Xu et al. 2O13; Yang et al.,2O16). Epidermal hair is the most common appendage on plant leaves,and its distribution characteristics and morphological characteristics are important means of plant identification and taxonomic study (Baran & Zdemir, 2OO9; Wang et al., 2O15). Epidermal hair is confirmed as a classification feature with applied value for interspecies classification (Yang et al.,2O16). Stomata are the subsidiary structure of leaf epidermis and are evolved from epidermal cells during long-term development. The density of stomatal organs is also different among species,and can be used as the basis of species classification (Zeng et al., 2O17). The results of previous studies have proved that sporopollen is an important basis for plant classification (Shao & Fan,2O03). The morphological characteristics of flower pollens are controlled genetically and have strong stability and genetic conservatism, which are not easily affected by environmental factors.Pollen grain size, shape,and outer wall ornamentation can be used to study plant classification (Erdtman,1978; Xu, 2007).When the classical morphological method proves difficult to solve the problem of classification, study of pollen morphology and surface ornamentation often plays a very valuable role (Zhang & Zhou,1998; Zhang et al.,2001; Zhang,2004; Yan & Li, 2003a,b; Zhang et al., 2014; Hong et al., 2015; Li et al., 2017).
+
+Thus,in order to clarify the difference between M. dendrisetosum and M. sanguineum and the taxonomic and survival status of M. dendrisetosum, we made several botanical trips to Hainan. Along with morphological observation and comparative identification，micromorphological scanning electron microscopy was performed to evaluate the species status of M. dendrisetosum and to lay the foundation for its further protection and utilization.
+
+# 1 Materials and methods
+
+# 1.1Materials
+
+The morphological data of the species described here are based on living plants growing in the Diaoluo Mountain Nature Reserve and introduced from there to grow in Fujian Agriculture and Forestry University (FAFU),and specimens collcted in Diaoluo Mountain Nature Reserve, Hainan (Table 1) were deposited at major herbariums such as HITBC, IBK, IBSC,and KUN.
+
+Table1 Specimens,locality,and vouchers   
+
+<html><body><table><tr><td>Species</td><td>Locality</td><td>Voucher</td></tr><tr><td>Melastoma dendrisetosum</td><td>Diaoluo Mountain Nature Reserve,Hainan</td><td>Peng 201206</td></tr><tr><td>M.sanguineum</td><td>Diaoluo Mountain Nature Reserve,Hainan</td><td>Peng 201204</td></tr></table></body></html>
+
+# 1.2Methods
+
+1.2.1 Morphological observation and conservation status investigation
+
+Morphological observationThe morphological traits of M. dendrisetosum and M. sanguineum are based on living plants,growing in the wild or in the campus of FAFU. We selected 30 individuals of $M .$ dendrisetosum and M. sanguineum each that had grown in the wild, and 10 from the campus of FAFU and observed them with naked eyes; the whole plants or some organs were photographed with a digital camera (Canon H G 1O) and the specimens introduced in 1.1 were observed and compared carefully.
+
+Conservation status investigationSeveral scientific trips were made to the wild native places recorded in previous literature such as Luohui (currently Qionghai), Baoting, Wanning,and Lingshui to investigate the distribution of $M _ { ☉ }$ . dendrisetosum in the wild and its survival status.
+
+1.2.2 Micro-morphology observations by scanning electron microscope (SEM)
+
+Leaf stomata micro-morphology observation by SEM According to Guo's method (Guo, 2006),fresh mature leaves of M. dendrisetosum and M. sanguineum were cut separately into $5 \mathrm { m m }$ $\times 5 ~ \mathrm { m m }$ square blocks near the midrib; the blocks were quickly dipped in formal-aceto-alcohol (FAA) fixative solution for $2 \textrm { h }$ at room temperature, then stepwise dehydrated twice with $30 \%$ $5 0 \%$ $70 \%$ $8 5 \%$ $9 5 \%$ ,and $100 \%$ ethanol, each stage was dehydrated for $1 5 \mathrm { m i n }$ . The blocks were dried using the critical point drying method and were fixed on copper tables,coated with the JFC-120O ion sputter coater, and observed and photographed under the JSM-531OLV SEM.
+
+Feature description terminologies on stoma in this article are used with reference to Zhang & Zhuang (2004), Zhang et al. (2013) and Zeng et al. (2017).
+
+Pollen micro-morphology observation by SEM The anthers of long stamens of M. dendrisetosum and M. sanguineum were collcted, stored in a dust-free place,and naturally dried for $4 8 { \scriptstyle - 7 2 \ h }$ to collect the pollens. The pollens were bonded on copper tables using double-sided tape,coated with the JFC-12OO ion sputer coater, and observed and photographed under the JSM-531OLV SEM. Ten pollen grains of each of the two species were randomly selected to measure the length of the polar axis p and the equatorial axis e,respectively.
+
+Feature descriptions on pollen shape, size,and exine ornamentation in this article are in reference to Li et al. (2017).
+
+# 2 Results
+
+# 2.1 Obvious different morphological traits between M. dendrisetosum and M. sanguineum
+
+The obvious different morphological traits between M. dendrisetosum and M. sanguineum are shown in Fig.1 and Table 2.
+
+According to our investigation,a few traits such as plant height,oblique branchlets,and seed color are slightly similar between M. dendrisetosum and M. sanguineum,but rather obvious differences are present in many traits including the flower, fruit,stem,and leaf characteristics, especially the flower and fruit traits (Fig.1,Table 2). Moreover, the flowering time of the two species is also different, M. dendrisetosum blooms from March to April whereas M. sanguineum blooms throughout the year.
+
+![](images/74f85110963c821bde850de2cd7c8cbc3529e3114cd3ba02c7a56f938edd633e.jpg)  
+Note: A-C,G-I. M. dendrisetosum; D-F,J-L.M. sanguineum;A,D.Stem and petiole; B,E.Leaf; C,F,G,J. Opening flowers;H,K.Floweranatomy;I,L.Fruit.
+
+Fig.1 Photographs indicating the obvious difference in some main morphological traits between
+
+M.dendrisetosum and M. sanguineum
+
+Table 2 Comparison of the main morphological traits of M. dendrisetosum and M. sanguineum   
+
+<html><body><table><tr><td></td><td>Items</td><td>M.dendrisetosum</td><td>M. sanguineum</td></tr><tr><td rowspan="4">Stem</td><td>Color</td><td>Red purple</td><td>Green or red</td></tr><tr><td>Branch diameter</td><td>0.1-0.2 cm</td><td>0.5-0.6 cm</td></tr><tr><td>*Epidermal hair</td><td>White puberulous</td><td>Red purple and base-enlarged</td></tr><tr><td>Blade size</td><td>9-10 × 4-5 cm</td><td>spreading bristles 8-22 × 4-8 cm</td></tr><tr><td rowspan="4">Leaf</td><td>*Midvein</td><td>Sunken and with white coarse bristles</td><td>Sunken but with no bristles</td></tr><tr><td>*Blade epidermal</td><td>Rough and hairy</td><td>Shiny and hairless</td></tr><tr><td>hair *Blade margin</td><td></td><td></td></tr><tr><td>*Petiole</td><td>With bristly ciliate 0.4-0.7 cm length,</td><td>Entire 1.5-4 cm length,</td></tr><tr><td rowspan="8">Flower</td><td></td><td>with white sericeous puberulous</td><td>with purple spreading bristles</td></tr><tr><td>Flower diameter</td><td>4-6 cm</td><td>7.5-11.5 cm</td></tr><tr><td>*Petal Number</td><td>5</td><td>7</td></tr><tr><td>*Petal color</td><td>Both adaxially and abaxially rose-red</td><td>Adaxially pinkish,abaxially whitish</td></tr><tr><td>*Petal apex</td><td>Sharp-pointed and with a bunch of prickles</td><td>Emarginate</td></tr><tr><td>*Petal margin *Stamen Number</td><td>With shortly ciliate</td><td>Hairless 14 including 7 long stamens and 7</td></tr><tr><td></td><td>10 including 5 long stamens and 5 short stamens</td><td>short stamens</td></tr><tr><td>*Filament color</td><td>Pale yellow</td><td>Purple</td></tr><tr><td rowspan="8">Fruit</td><td>*Hypanthium</td><td>Epidermal with densely white</td><td>Epidermal with densely</td></tr><tr><td></td><td>basal-branching bristles</td><td>basal-enlarged purple red bristles</td></tr><tr><td>*Shape</td><td>Urceolate and truncated</td><td>Urceolate-turbinate</td></tr><tr><td>Size</td><td>Diameter 1.5-1.9 cm</td><td>Diameter 1.7-2.1 cm</td></tr><tr><td>*Epidermis</td><td>Green epidermal with densely white</td><td>Red purple epidermal with densely stiff often retroflexed and basally</td></tr><tr><td></td><td>basal-branching bristles</td><td>bulky trichomes</td></tr><tr><td>*Calyx tube mark on the top of fruit</td><td>Narrow and Circular</td><td>Wider and near hexagonal</td></tr><tr><td>*The top of the fruit</td><td>Near flat,with slightly sunken style mark in the center</td><td>Rounded protruded end of ovary, with obvious sunken near hexagonal</td></tr></table></body></html>
+
+Note:\*indicates the obvious different traits.The same below.
+
+# 2.2 Obviously different micro-morphological traits of stomata and pollen between M. dendrisetosum and M. sanguineum
+
+The obvious different micro-morphological traits of stomata and pollen between M. dendrisetosum and M. sanguineum are shown in Fig. 2 and the micro-morphological comparison of their stoma and pollen are shown in Table 3.
+
+Table 3 Comparison of stomata and pollen micro-morphology between M. dendrisetosum and M. sanguineum   
+
+<html><body><table><tr><td colspan="2">Items</td><td>M.dendrisetosum</td><td>M. sanguineum</td></tr><tr><td rowspan="10">Stoma</td><td>Shape of stomatal complex</td><td>L/W=1.52,</td><td>L/W=1.67,</td></tr><tr><td></td><td>elliptic</td><td>oblong elliptic</td></tr><tr><td>Sunken degree of stomatal *Opening degree</td><td>Larger</td><td>Lower</td></tr><tr><td>complexrelative to epidermal</td><td>Sunken but not obvious</td><td>Sunken obviously</td></tr><tr><td>cells *Stomatal outer arch cover</td><td></td><td></td></tr><tr><td>Ornamentation of</td><td>Narrow, obvious uplift Nearly smooth</td><td>Wide，slight uplift Nearly smooth</td></tr><tr><td>stomatal outer arch cover</td><td></td><td></td></tr><tr><td>*Inner margin of stomatal outer arch cover</td><td>Obvious thickening and sinuate</td><td>Slight thickening and sinuous</td></tr><tr><td>*Peripheral ornamentation</td><td>More slender and uplift wave</td><td>Less wider and smooth stripes</td></tr><tr><td>*Length of long axis</td><td>stripes 22.60 μm</td><td></td></tr><tr><td rowspan="6">Pollen</td><td>*Type</td><td>Middle pollen</td><td>33.01 μm</td></tr><tr><td>*Polar axis length (P）×</td><td>22.60 × 21.23 μm</td><td>Large pollen 33.01 × 10.96 μm</td></tr><tr><td>Equatorial axis length (E)</td><td></td><td></td></tr><tr><td>*Equator view</td><td>Long sphere with furrows</td><td>Ultra long sphere with furrows</td></tr><tr><td>*Polar view</td><td>Six-lobed circular with 6 slight</td><td>Six-lobed circular with 3 larger</td></tr><tr><td>*Exine ormamentation</td><td>furrows</td><td>furrows and 3 smaller ones alternately Densely covered with wormlike Densely and evenly covered with</td></tr></table></body></html>
+
+Vote: According the ratio of long/wide, elliptic. $1 . 3 5 < \mathrm { L } / \mathrm { W } < 1 . 5 5$ ； Oblong elliptic. $\mathrm { L } / \mathrm { W } > 1 . 5 5$ ; Widely ellipti L/W < 1.35 (Zeng et al., 2017).
+
+Although the micro-morphology of the stomata in M. dendrisetosum and M. sanguineum shows similar shape of the stomatal complex and ornamentation of the stomatal outer arch cover, obvious differences are observed in the opening degree,the sunken degree of stomatal complex relative to epidermal cells,stomatal outer arch cover and its inner margin,and the peripheral ornamentation of the stomatal complex (Fig. 2: A-D, Table 3).
+
+Although the micro-morphology of pollen of M. dendrisetosum and M. sanguineum is similar in the 6 germinating furrows,obvious diference are observed in some aspects such as pollen size (including length of the long axis and $\mathbf { P } \times \mathbf { E }$ ),equator and polar view,and exine ornamentation (Fig. 2: E-H, Table 3).
+
+![](images/367ee041fc2ba05fe4cf13eecdbe5fb03e859cc6fc46ddb0d8d7660cf6e12418.jpg)  
+Note: A,B.The stoma of M.dendrisetosum; C,D.The stomaof M.sanguineum;E,F.Pollen equatorialand polar view of M. dendrisetosum; G,H.Pollen equatorial and polar view of M. sanguineum.
+
+Fig. 2 Photographs demonstrating the micro-morphology of stomata and pollen from $M$
+
+dendrisetosum and M. sanguineum
+
+# 2.3 Conservation status of M. dendrisetosum
+
+M. dendrisetosum is only found in a valley of the Diaoluo Mountain National Nature Reserve in April 2O12, distributed at an altitude of 350-4OO meters,and is scattered with a total of less than 300 individuals at nearly 1OO kilometers from its type locality Luohui (currently Qionghai), Hainan, China (Fig.3).This entity is a shrub of 2 to 3 meters tall,and grows in slightly shaded places on forest margins,roadsides,or stream sides.The photographs of its habitat and branches are shown in Fig. 4. Other species found growing nearby this species include Sapium discolor, Mallotus japonicas,Passiflora foetida,and so on. In addition,although M. dendrisetosum and M. sanguineum were found to grow together in Diaoluo Mountain National Nature Reserve, the authors have not found any intermediate between them in the wild.
+
+![](images/818a3376ccc7278cdf74b0932f29d42f336f02389002e1060f017d883f9c5165.jpg)  
+Fig.3Location ofDiaoluo Mountain National Nature Reserve
+
+Note:Qionghai (previously knownas Luohui) is the type locality of M.dendrisetosum.
+
+![](images/70094e7b3d6a83fe96fde5bd0264b5edad5ac184aae42eac6c349b705d2ef1ae.jpg)  
+Fig.4Photographs indicating the habitat or branches of M. dendrisetosum
+
+Note：A,B.Wild habitat; C.Branches with many fruits and flowers; D.Branch only with leaves.
+
+# 3Discussion and Conclusion
+
+# 3.1Discussion
+
+# 3.1.1M.dendrisetosum is a distinct species
+
+Melastoma dendrisetosum was recognized as a distinct species when it was first published by Chen (Chen, 1983),but was incorporated into M. sanguineum by Meyer (Meyer, 2001) and the Flora of China (Chen & Renner, 2OO7),rather than being treated as an independent species. It is well known that the characteristics of flowers and fruits are important for plant classification. In this study,the authors carefully compared the main differences in some characteristics of the flower and fruit between M. dendrisetosum and M. sanguineum,and found some morphological traits unaffected by environmental change,such as the petal tip and the accessory hair on it, the number of petals and stamens,fruit type and color, the mark of calyx tube,and so on, which are obviously different. These differences in flower and fruit characteristics indicate that M.
+
+dendrisetosumis a species distinct from M. sanguineum.
+
+In this study, the authors found that M. dendrisetosum and M. sanguineum are obviously different in some leaf traits as the midvein,blade epidermal hair, blade margin,and petiole and some stoma traits such as stoma opening degree, stomatal outer arch cover, inner margin of stomatal outer arch cover, and stoma peripheral ornamentation.
+
+The present study indicated that M. dendrisetosum and M. sanguineum are obviously different in some pollen traits such as length of long axis,type, polar and equatorial axis length, and the equatorial and polar view.
+
+These observations strongly confirmed that M. dendrisetosum is a species significantly different from M. sanguineum in the epidermal hairs of leaves， stomata，and pollen micromorphology. In addition, a recent molecular level perspective also indicated that M. dendrisetosum should be considered a distinct species (Huang et al., 2018).
+
+# 3.1.2 M.dendrisetosum is an endangered species
+
+In April 2O12, the authors investigated the living condition of M. dendrisetosum and found that it is only sporadically distributed in a valley of the Diaoluo Mountain National Nature Reserve,at an altitude of $3 5 0 – 4 0 0 \mathrm { ~ m ~ }$ ，with a total of less than 3OO individuals at nearly 100 kilometers from its type locality, Luohui (currently Qionghai), Hainan, China. According to the IUCN Red Categories and Criteria (IUCN, 2OO1), M. dendrisetosum satisfies the criteria B1 (i.e., extent of occurrence, $1 0 0 \mathrm { k m } ^ { 2 } \mathrm { \Omega }$ ） and B2 (i.e., present only in one location and declining quality of habitat).Moreover,the author's previous research (Peng et al.，2O14） found that there is no self-compatible self-ollination and agamospermy in this species,and that the breeding system of M. dendrisetosum is a typical facultative inbred type with a relative reproductive success (RRS) of 0.035,which is perhaps one of the main reasons for its endangered status.
+
+Moreover, in 2016,Huang et al. (2O18) found that the habitat of M. dendrisetosum in the area was degraded further and that the number of mature individuals was declining,and they strongly believe that M. dendrisetosum would be categorized as ‘Critically Endangered'. Therefore, the habitat of the species should first be fully protected,and any destruction to it must be strictly prohibited; secondly， measures of habitat protection combined with introduction of propagation protection should be taken to expand the population.
+
+# 3.1.3 New morphological description of M. dendrisetosum should be prepared
+
+So far, the morphological description on M. dendrisetosum that can be found is still only from Chen (Chen,1984). In the past three decades,the morphological and micro-morphological characteristics of this species have been revealed in a stepwise manner, with continuous investigation and studies. Thus, it is necessary to supplement the original description and prepare a new description in order to facilitate the correct understanding and identification this species.
+
+# 3.2 Conclusion
+
+# 3.2.1 M.dendrisetosum is a distinct species in an endangered living status
+
+Morphological trait observation results showed that M. dendrisetosum is obviously different from $M .$ sanguineum in some traits of the flower, fruit, branch,and leaf as well as in the flowering date.Micro-morphological trait observation by SEM indicated some obvious diferences between
+
+M. dendrisetosum and M. sanguineum in the traits of stoma as well as pollen. Thus，M. dendrisetosum is a distinct species. Based on the resource investigations of the genus Melastoma, only one clump of M. dendrisetosum was found in Diaoluo National Nature Reserve, with less than 30O individuals left, indicating that this species is in a critically endangered living status and should be protected actively and carefully. Botanical trips to Hainan and our observations of this species at that location will facilitate a better understanding of this species，and help us to determine why it is restricted to such a small area.
+
+# 3.2.2 Redescription of M. dendrisetosum
+
+Melastoma dendrisetosum C. Chen in Journ. South China,Agri. Coll. 4 (1): 35, fig.1O-12,1983; C. Chen in Fl. Reip.Popul. Sin. 53(1) 168,1984.   
+Type: China, Hainan,Lohwei (Luohui),orient. Hainan Exp. 89 (ANT). Specimens cited: Hainan, Wenning,I Chung 4016 (IBSC); Hainan,Lingshui, C. Wang 36782 (IBSC); Hainan, Wannin, Z. X. Li 628676(IBSC); Hainan, Wannin, F. W. Xin 634549 (IBSC); Hainan, Wannin, F. W. Xin 634103 (IBSC); Hainan, Diaoluo Z. X. Li 522642 (IBSC); Hainan, Wannin, F. W. Xin 634549 (IBSC); Hainan,Wannin, Y. Zhong 316567 (IBSC); Hainan, Xinlong, 317381 (IBSC); Hainan, Jiaziling, 299256 (IBSC); Hainan, Baoting, S. Q. Chen 199964 (IBSC); Hainan,Linshui, Z. Huang 70921 (IBSC); Hainan, Diaoluo National Nature Reserve,D.H.Peng et al. 2O12O3 (FAFU); Hainan, Diaoluo National Nature Reserve,D.H. Peng et al. 2O1204 (FAFU) Hainan,Diaoluo National Nature Reserve,D.H. Peng et al. 201206 (FAFU).
+
+Shrub, $2 { - } 3 \mathrm { m }$ .Stems terete, densely long sericeous and puberulous with branches; leaf blade stiffly papery, lanceolate to oblong-lanceolate,apex acuminate, cuneate or obtuse at base, $4 . 5 { - } 8 . 5 \times 1 . 7 { - } 3$ （204号 cm,secondary veins 2 on each side of midvein,margin entire or densely shallow-denticulate, bristly ciliate,adaxially strigose,abaxially densely villous and puberulent. Inflorescence terminal, umbellate,very short, subcapitate,3-4 flowered, base with 2 foliaceous bracts,smaller than leaves; peduncle densely long sericeous and puberulous, ca. $0 . 2 \mathrm { c m }$ .Hypanthium densely white branching setae, ca. $1 \mathrm { { c m } }$ .Calyx lobes linear-triangular, ca. $0 . 6 \mathrm { c m }$ long,covered with branching setae, with a small lobe, ca. $0 . 2 \ \mathrm { c m }$ long between them. Petals rose red,rhombic-obovate,oblique above middle,ca. $2 . 5 \ \times \ 2 \ \mathrm { \ c m }$ ，with a bundle of bristles at apex,with shortly ciliate.Stamens heteromorphic, longer stamens ca. $3 . 6 \mathrm { c m }$ ，anthers ca. $2 . 4 ~ \mathrm { c m }$ ， purplish red, connectives extended at base,curved,bases with 2 tubercles,filaments slightly longer than extended connection; shorter stamens ca. $1 . 7 \ \mathrm { c m }$ ，anthers ca. $0 . 8 ~ \mathrm { c m }$ ，with connection not extended,bases with 2 tubercles. Ovary half-inferior, densely setose. Fruit urceolate when young， truncate,apex covered with bristles. Persistent hypanthium covered with branching bristles. Capsule diameter ca.1.5-1.9 cm. Flowering in March-April, and fruiting in May-August.
+
+Distribution and Habitat: M. dendrisetosum is only found in Diaoluo Mountain National Nature Reserve, Hainan, China. It grows in slightly shaded places on forest margins,roadsides, or stream sides between $3 5 0 – 4 0 0 \mathrm { ~ m ~ }$ ， and tends to grow in areas that receive 5 to 6 hours of sunlight a day. Other species found growing nearby this species include Sapium discolor, Mallotus japonicas, Passiflora foetida, etc.
+
+# Acknowledgments
+
+We appreciate Prof. Renner S. S., Ludwig Maximilians University Munich, Nymphenburg Botanical Garden, for her helpful suggestions. We also thank Prof. Song Xiqiang and Mr.Lin Weiguo for joining and supporting our field work，and Prof. Zhou Xiumei for her helpful comments and suggestions.
+
+# References
+
+BARAN P, ZDEMIR C， 2O09. Morphological and anatomical characteristics of Salviatchihatchefi endemic to Turkey[J]. Nord JBot, 27(5): 388-396.  
+CHAO LF, CHEN YY,WANG SQ, et al.， 2014. One species or two? Multilocus analysis ofnucleotidevariationofMelastomapenicilltumandMelastomasanguineum(Melastomataceae) in Hainan, China[J]. Biochem Syst Ecol, 55: 275-282.  
+CHEN C, 1983. On the genus Melastoma L. of Melastomataceae from China[J]. J S Chin AgricUniv,4(1):31-36.[陈介，1983．中国野牡丹科野牡丹属植物的研究[J]．华南农学院学报，4(1): 31-36.]  
+CHEN C,1984. Melastomataceae[M]. In: CHEN, C. (Ed.) Flora Reipublicae Popularis Sinicae.Beijing:Science Press,53(1):152-162.[陈介，1984．野牡丹科中国植物志（第53卷第1分册）[M]．北京：科学出版社：152-162．]  
+CHEN C, RENNER SS, 20O7. Melastomataceae./[MJWU ZY, RAWEN PH., HONG DY. (Eds.)Flora of China. Beijing: Science Press,13: 363-366.  
+ERDTMAN G,1978. Handbook of Palynology[M]. Research laboratory of palcophytology,research group of sporopollen, institute of botany, chinese academy of sciences translation.Beijing:Science Press: 238-242.[ErdtmanG．孢粉学手册[M]．中国科学院植物研究所古植物室孢粉组译，北京：科学出版社：238-242．]  
+GUO SZ, 2006. Scanning electron microscope technology and its application[M]. Xiamen:Xiamen University Press:74-96.[郭素枝，2006．扫描电镜技术及其应用[M]．厦门：厦门大学出版社：74-96．]  
+HONG X, WU HT, HE LP, et al.,2015. Pollen morphology of the Primulina (Gesneriaceae) fromsouth China and its taxonomic significance[J].Acta Hertic Sin,42(12): 2439-2454.[洪欣，吴昊天，何乐平，等，2015．报春苣苔属43种植物花粉形态及其分类学意义[J]．园艺学报，42(12): 2439-2454.]  
+HUANG GL，LIU Y，WU W，et al.， 2018. Multi-locus analyses indicate that Melastomadendrisetosum, an endemic and endangered shrub in Hainan,is a distinct species[J]. Syst Bot,43(1): 258-265.  
+IUCN. 2001. IUCN red list categories and criteria: version 3.1. Ed. 2[M]. Gland, Switzerland andCambridge, UK: IUCN.  
+LI JJ,ZHANG RQ，MA QH,et al.，2017. SEM observation on the pollen morphology inCorylus[J].JChin Electron Microsc Soc,36(4):404-413.[李京璟，张日清，马庆华，等,2017．榛属植物花粉形态扫描电镜观察[J]．电子显微学报，36(4)：404-413．]  
+LI XC, SUN BN, LIN ZC, et al., 2010. Epidermal anatomy of the genus Ilex and its taxonomicsignificance[J].JLanzhou Univ (Nat Sci Ed),46(4): 13-21.[李相传，孙柏年，林志成，等,2010.冬青属植物的叶表皮特征及其分类学意义[J].兰州大学学报(自然科学版),46(4):  
+13-21.]LINNAEUS C, 1753. Species plantarum[M]. Sweden: Laurentius Salvius: 389-391.MEYER K, 2001. Revision of the Southeast Asian genus Melastoma (Melastomataceae） [J].Blumea, 46: 351-398.PENG B, ZHOU YF, SHU P, et al.， 2011. Comparative observation on micro-morphologicalcharacters of leaf epidermis of Dioscorea bulbifera L. from different populations[J]. J PlantRes Environ,20(2):19-27.[彭斌，周义峰，舒璞，等，2011．黄独（Dioscorea bulbifera L.）不同居群叶表皮微形态特征的比较观察[J]．植物资源与环境学报，20(2)：19-27．]PENG DH, LAN SR，WU SS,2014. Pollination biology and breeding system of Melastomadendrisetosum[J].JFor Res,27(1):11-16.[彭东辉，兰思仁，吴沙沙，2014．中国特有种枝毛野牡丹传粉生物学及繁育系统研究[J]．林业科学研究，27(1)：11-16．]SHAO LX, FAN XP, 2O03. Observation on the pollen morphology of different genera and speciesof Rutaceae[J].JFruit Sci,20(2):146-148.[邵邻相，范晓萍，2003．几种芸香科植物花粉形态观察[J]．果树学报，20(2)：146-148．]WANG DC, YANG YP, CHEN JH, et al., 2012. Leaf epidermal microfeatures of 28 Salix speciesunder scanning electronic micro-scope and their taxonomical significances[J]. Plant DiversRes,34(5):430-442.[王东超，杨永平，陈家辉，等，2012．28种柳属植物的叶表皮微形态特征及其分类学意义[J]．植物分类与资源学报，34(5)：430-442．]WANG T, LIU SY, WANG L, et al., 2015.Leaf epidermal and epidermal hair micromorphology of  
+18 species (1 forma) Salvia species[J].Guihaia,35(2): 178-186.[王涛，刘世勇，王龙，等,  
+2015.18种(1变型）鼠尾草属植物叶表皮及表皮毛微形态特征研究[J].广西植物，35(2):  
+178-186.]WONG KM, 2016. The genus Melastoma in Borneo including 31 new species[M]. Sabah: NaturalHistory Publications: 1-184.XU YQ,CAI WZ, HU SF, et al.， 2013. Morphological variation of non-glandular hairs incultivated Epimedium sagittatum (Berberidaceae) populationsand implicationsfortaxonomy[J].Biodivers Sci,21(2):185-196.[徐艳琴，蔡婉珍，胡生福，等，2013．箭叶淫羊藿同质栽培居群非腺毛多样性及其分类学启示[J].生物多样性，21（2)：185-196.]XU WB,2O07. A preliminarily study on karst cave plants in Guangxi, China[D]. Guilin: GuangxiNormal University.[许为斌，2007．广西岩溶洞穴植物的初步研究[D]．桂林：广西师范大学．]YAN ZJ, LI ZY, 2O03a. Studies on pollen morphology of genus Didymocarpus (Gesneriaceae) inChina[J].Guizhou Sci,21(4):5-9.[严志坚，李振宇，2003a．中国苦苣苔科长蒴苣苔属花粉形态研究[J]．贵州科学，21(4)：5-9．]YAN ZJ,LI ZY, 2O03b. Polen morphology of genus Chirita (Gesneriaceae) in China and itssystematic significance[J].Guizhou Sci,21(3): 1-8.[严志坚，李振宇，2003b．中国苦苣苔科柱苣苔属花粉形态研究及其系统学意义[J]．贵州科学，21(3)：1-8.]YANG X, YANG ZL,MAI J, et al., 2016. Comparison of characteristics of leaf trichomes inHoupoea offcinalis and their taxonomical significances[J]. Guihaia, 36(11): 1335-1343.[杨旭，杨志玲，麦静，等，2016．厚朴居群叶表皮毛的显微特征差异及分类意义[J]．广西植物，36(11)：1335-1343．]ZENG N, ZHANG JR, CHANG ZY, 2017. Micromorphological characteristics of leaf epidemisand systematic significance of Rosa L. from China[J]. Guihaia,37(2): 169-185.[曾妮，张建茹，常朝阳，2017．中国蔷薇属植物叶表皮微形态特征及其系统学意义[J]．广西植物，37(2): 169-185.]  
+ZHANG H, ZHUANG XY,2004. Study on leaf epidermis of some plants of Theaceae[J]. J S ChinAgric Univ,25(3):87-93.[张浩，庄雪影，2004.山茶科部分属种叶表皮形态学研究[J].华南农业大学学报，25(3)：87-93．]  
+ZHANG MM，NUERMAIMAITI MM， WANG H,et al.， 2013. Leaf epidermal cellmicromorphology of sect Conostylae (Wolf) Yü et Li of Potentilla L[J]. Bull Bot Res, 33(1):7-17.[张曼曼，努尔买买提·莫明，王虹，等，2013．委陵菜属锥状花柱组植物叶表皮微形态特征的研究[J]．植物研究，33(1)：7-17．]  
+ZHANG S, GAO SP, ZHANG X, et al., 2014. Pollen morphology and its relationship to taxonomyof 13 species in the Impatiens (Balsaminaceae) from Ya'an of Sichuan, China[J]. Acta BotBoreal-Occident Sin,34(3): 502-508.[张硕，高素萍，张雪，等，2014．四川雅安地区13种凤仙花属植物花粉形态及其分类学意义[J]．西北植物学报，34(3)：502-508．]  
+ZHANG XP, ZHOU ZZ，1998. System evolution of pollen morphology (Polygonaceae） inChina[M].Hefei:University of Science & Technology China Press.[张小平，周忠泽,1998．中国蓼科花粉的系统演化[M]．合肥：中国科学技术大学出版社．]  
+ZHANG YM, PAN BR,YIN LK, 2001. Polln morphology of the Tamaricaceae from China andits taxonomic significance[J]. Acta Bot Boreal-Occident Sin,21(5): 857-864.[张元明，潘伯荣，尹林克，2001.中国怪柳科（Tamaricaceae）花粉形态研究及其分类意义的探讨[J].西北植物学报，21(5)：857-864．]  
+ZHANG YM,2O04. Cluster analysis on polen morphology of the Tamaricaceae China[J]. ActaBot Boreal-Occident Sin,24(9):1702-1707.[张元明，2004．中国怪柳科植物花粉形态特征聚类分析[J]．西北植物学报，24(9)：1702-1707．]

@@ -1,0 +1,637 @@
+[
+    {
+        "type": "text",
+        "text": "Land-use change to bioenergy: grassland to short rotation coppice willow has an improved carbon balance ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZOE M. HARRIS¹,GIORGIO ALBERTI1'²,MAUD VIGER¹, JOE R. JENKINS1, REBECCA ROW $\\mathrm { E } ^ { 3 }$ , NIALL P.MCNAMARA³ and GAIL TAYLOR1 1UnioersityofSuthampton,Southampton,SO7JUK,Uniersityofdine,ViadellScienze2063310Udine,taly 3Centre for Ecology $\\mathcal { E }$ Hydrology,Lancaster Enironment Centre,Library Aenue,Bailrigg,LancasterK ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The efect of a transition from grassland to second-generation (2G) bioenergy on soil carbon and greenhouse gas (GHG)balance is uncertain, with limited empirical data on which to validate landscape-scale models, sustainability criteria and energy policies.Here,we quantified soil carbon,soil GHG emissions and whole ecosystemcarbon balance for short rotation coppice (SRC) bioenergy willow and a paired grassland site，both planted at commercial scale.We quantified the carbon balance for a 2-year period and captured the ffcts of a commercial harvest in the SRC willow at the end of the first cycle.Soil fluxes of nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ and methane $\\mathrm { ( C H _ { 4 } ) }$ did not contribute significantly to the GHG balance of these land uses. Soil respiration was lower in SRC willow $( 9 1 2 \\pm 4 2 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { ~ y r ~ } ^ { - \\mathrm { { i } } } ;$ ）than in grassland $( 1 5 2 2 \\pm 3 9 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 } )$ .Net ecosystem exchange (NEE)reflected thiswith the grassland a net source of carbon with mean NEEof $1 1 9 \\pm { \\bar { 1 0 } } \\mathrm { g } \\mathrm { C } \\mathrm { m } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ and SRC willow a net sink, $- 6 2 0 \\pm 1 8 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ . When carbon removed from the ecosystem in harvested products was considered (Net Biome Productivity),SRC wilow remained a net sink （204号 $( 2 2 1 ^ { \\cdot } \\pm 6 6 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { ~ y r ~ } ^ { - 1 } )$ . Despite the SRC willow site being a net sink for carbon, soil carbon stocks $\\left( 0 { - } 3 0 \\ \\mathrm { c m } \\right)$ （ were higher under the grassand. There was a larger NEE and increase in ecosystem respiration in the SRC willow after harvest;however,the site stillremainedacarbon sink.Ourresults indicate thatonce established, significant carbon savings are likely in SRC willow compared with the minimally managed grassand at this site.Although these observed impacts may be site and management dependent, they provide evidence that land-use transition to 2G bioenergy has potential to provide a significant improvement on the ecosystem service of climate regulation relative to grassland systems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:carbonbalance,bioenergy,climateregulation,ecosystemservices,grassand,greenhousegas,soilcarbor ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 30August 2015;accepted 26 January 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dedicated second-generation (2G） nonfood feedstocks offer an opportunity to provide biomass for bioenergyderived heat, electricity and biofuels without competing with land for food (Dornburg et al.，201o; Stoof et al, 2015).However，evidence is still required to support this assertion, particularly with respect to soil properties (Kort et al.,1998),greenhouse gas (GHG) emissions (see refswithin Rowe et al.，2oo9)and a whole basket of associated ecosystem services (Holland et al.，2015). Although recent reports suggest that energy and food may be produced in a multifunctional landscape in a sustainable way (Manning et al.，2015;Souza et al., 2015),many of these positive effects are dependent on land management,vegetation type,and in particular, the land-use change (LUC) implemented when the bioenergy crop is planted (Milner et al.，2015).It is therefore important to consider how these crops will be placed within the landscape (Dauber et al.，201O) and the impacts of particular land-use transitions on ecosystem services,of which climate regulation is of outstanding importance (Anderson-Teixeira et al.,2012).In 2013, $5 1 \\times 1 0 ^ { 3 }$ ha $0 . 8 \\%$ total arable land) were used to grow bioenergy in the UK(DEFRA,2014)and,at the same time,it is estimated that there are still $3 . 5 \\times 1 0 ^ { 6 }$ ha of land currently available to grow bioenergy crops without impacting food production (Lovett et al.,2014),with estimated yields ranging from 6 to $1 2 \\mathrm { \\ t \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ for SRC willow (Hastings et al., 2014).Adoption of bioenergy will inevitablyresult in large scale LUC; therefore, it is important to consider which land classes are most suited to the conversion to minimize environmental damage and competition with food crops. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Land-use change, irrespective of crop type,may have many direct consequences on climate regulation,such as altered GHG emissions (IPCC,2007a),changes in soil carbon (Guo & Gifford,2002）as well as impacts on other ecosystem services and biodiversity (Sala et al., 2000).Additionally for bioenergy crops,the impacts of indirect land-use change (iLUC; Searchinger et al., 2008; Melillo et al., 2009; Finkbeiner,2014) and those of quantifying the counterfactual land use (DECC,2014; Mathewset al.， 2014） are increasingly recognized and considered in land-use conversions. St. Clair et al. (2008) found that former land use is the most important consideration determining whether a transition to 2G bioenergy will result in a net source or net sink of carbon. A number of studies and meta-analyses have suggested that，although dependant on site，LUC from arable cropping to 2G bioenergy is most likely to result in neutral or net increases in soil carbon (Dimitriou et al.,2012; Don et al.,2012; Harris et al.,2015; Qin et al., 2015)．Similarly，reductions in other GHG emissions have also been reported for LUC from arable to 2G bioenergy (Drewer et al.,2012; Gauder et al.,2012; Zona et al.,2013a; Palmer et al., 2014),a proportion of which is attributable to change in management and land-use intensity. However, there is much more uncertainty surrounding the effects of LUC from grassland to 2G bioenergy crops (Harris et al.，2015; Qin et al.，2015), partly reflecting the considerable variability that is found amongst grassland types with significant diferences in management which can dictate GHG balance (Soussana et al.， 2010). Although grasslands may be managed to encourage a carbon sink (defined here as an ecosystem in which the net gain of carbon is greater than the net loss; Smith,2014),other management practices such as fertilizeraddition and grazing may lead to large emissions of nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ and methane $\\mathrm { ( C H _ { 4 } ) }$ . Ciais et al.(2010） suggested that emissions of $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C H } _ { 4 }$ following management practices may offset approximately $7 0 – 8 0 \\%$ of the net carbon sink in European grasslands. This indicates that conversion to 2G bioenergy cropping may result in additional GHG savings.Moreover, Styles & Jones (2007) demonstrated that initial cultivation emissions associated with LUC from grassland to SRC willow could be offset by GHG emissions savings from replacing fossil fuel usage. The timescale for this‘payback'，as calculated from current research is uncertain,varying between O and 423 years depending on former land use,management and bioenergy crop cultivated (Fargione et al.， 2008; Don et al., 2012; Ter-Mikaelian et al.,2015). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Two limitations are apparent when considering much of the literature in current LUC and bioenergy research. The first is that many studies rely entirely on modelled datawith extremely limited orno validation (Cherubini et al.，20o9） and this is worrying，given that outputs from such models， often parameterized fornonbioenergy ‘exemplar' arable,grass and tree ideotypes, may be used to develop sustainability criteria and policyinstruments (Creutzig et al.，2012;Buchholz et al., 2014).Secondly，when empirical data have been captured for model validation,they have often been small research-scale plots of limited commercial relevance (e.g.Nikiema et al.,2012； Zatta et al.,2014).Additionally，there are methodological considerations which may affect the conclusions drawn about LUC,such as soil sampling depth (Dolan et al.，2006;Blanco-Canqui & Lal,20o8) and calculation of soil carbon stocks using a fixed depthmethod(Walter et al.,2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Given the need for empirical data,which is critical for LUC evaluation and model validation,here we present the results from a paired-site evaluation of LUC to bioenergy.The aim of this study was to quantify the impacts of a LUC at commercial scale from a grassland with limited management intervention,to that of SRC willow and to quantify the ecosystem GHG balance of this change 7 years after conversion.During 3 years of measurement, the SRC willow was harvested at commercial scale,and the impact of this activity on GHG balance and whole ecosystem carbon balance was also quantified. These findings will add to our understanding of the effects of LUC to bioenergy in temperate climates and contribute to the parameterization and testing of models to predict effect out to future climates. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The aim of this side-by-side comparison was to develop an intensive data set for all components of the ecosystem GHG balance froma commercial plantation over a period of 3 years, including bioenergy SRC harvest.Figure 1 outlines the different components which were measured to assess the ecosystem GHG balance.The experimental set-up was established in November 2011 and measurements continued through until December 2014 (see Fig. S1 for experimental timeline). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sitedescription andmanagement ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This study was conducted in the south of England $( 5 0 ^ { \\circ } 5 8 ^ { \\prime } \\mathrm { N } ,$ $0 ^ { \\circ } 2 7 ^ { \\prime } \\mathrm { W } )$ in an established SRC willow plantation $( 8 . 1 \\ \\mathrm { h a } )$ and permanent grassland with low inputs $( 7 . 4 \\ \\mathrm { h a } )$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mixed commercial genotypes of SRC willow were planted in June 2oo8 on a grassland field,previously defined as set-aside (2000-2007) at a density of 15 000 stems $\\mathrm { \\ h a } ^ { - 1 }$ in double rows withdistances of $0 . 7 5 \\mathrm { ~ m ~ }$ in the row and $1 . 4 \\mathrm { ~ m ~ }$ between therows (Forestry Commission,2002).Prior to planting,the site was ploughed to $0 . 2 5 \\mathrm { ~ m ~ }$ in September 2007 and treated with herbicide $( 1 . 6 ~ \\mathrm { k g } \\ \\mathrm { h a } ^ { - 1 }$ glyphosate）and insecticide $( 0 . 7 5 ~ \\mathrm { k g } \\ \\mathrm { h a } ^ { - 1 }$ chlorpyrifos).In April 2008,the site was power harrowed to $0 . 1 0 \\mathrm { ~ m ~ }$ depth and there was a further application of herbicide $( 1 . 6 ~ \\mathrm { k g } \\ \\mathrm { h a } ^ { - 1 }$ glyphosate in June 20o8).At pre-emergence the site was treated with herbicides $( 0 . 2 5 ~ \\mathrm { k g } \\ \\mathrm { h a } ^ { - 1 }$ isoxaben, $1 . 5 ~ \\mathrm { k g } \\ \\mathrm { h a } ^ { - 1 }$ （204号 pendimethalin) and insecticide $( 0 . 7 5 ~ \\mathrm { k g } \\ \\mathrm { h a } ^ { - 1 }$ chlorpyrifos).The ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b4d4a355d25e1e7a1904aabd9f377f45af362f7fdf5a64e85ef127dc828446f.jpg",
+        "img_caption": [
+            "Fig.1Measurements taken toestablish wholeecosystemgreenhousegas balance showingthemain flowsofcarbonthrough the ecosystem.Cropshowrepresetssortrotationcoppicewillowbutcclesappcabletonyvegetationtype.Reichsteinetal.(0) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SRC willow was cut back in March 20o9,further treated with herbicide $( 2 . 3 ~ \\mathrm { k g } ~ \\mathrm { h a } ^ { - 1 }$ aminotriazole) and then underwent a rotation of 5 years prior to harvest in April 2014. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The grassland site was enlisted in the set-aside scheme until 2004 and was maintained as low input grassland thereafter. The site was a mixed grassland including Lolium spp., Schedonorus spp.，Dactylis spp.and other cultivated species.There were no inputs to the site other than an addition of a total of $1 0 \\mathrm { ~ t ~ }$ of manganese lime across the site in April 2011. Management was variable year to year,with grazing by sheep once per year (2-4 weeks),or if this did not occur, the grass was mown to control grass height. During the experiment, the site was grazed for 2 weeks in 2012 and the grass was mowed in August/September in 2013 and 2014.Mowed grasswas left on the site. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mean annual rainfall at the sites is $7 9 4 ~ \\mathrm { m m } ,$ and mean annual temperature is $1 1 . 0 ^ { \\circ } \\mathrm { C }$ (1960-2010;Met Office,2015). The soil is the same at both sites,silt loam(Table 1) with a $\\mathrm { \\Delta p H }$ of 5.5.Root exploration depth was $0 . 3 0 \\mathrm { ~ m ~ }$ in grassland,with the majority of root biomass found in the top $0 . 1 5 \\mathrm { ~ m ~ }$ and SRC willow roots were found to ${ 1 \\ \\mathrm { m } } ,$ with the majority of biomass in the $0 . 5 0 { - } 1 . 0 0 \\ \\mathrm { m }$ horizon (Table S1).The dominant wind direction is from the southwest; therefore,eddy covariance towers were established in the north-easterly corner of the grassland and SRC willow in order to ensure enough fetch (Fig.2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc070dd8145fae41b511c885e3241b05785247125f5ef3f04656b145d6d97ad3.jpg",
+        "table_caption": [
+            "Table1 Soil texture for grassland,short rotation coppice willow and initial grassland site "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Site</td><td>Depth (cm)</td><td>Clay (%)</td><td>Silt (%)</td><td>Sand (%)</td><td>Soil type</td></tr><tr><td>SRC willow</td><td>0-15</td><td>7.38</td><td>59.44</td><td>33.19</td><td>Silt loam</td></tr><tr><td></td><td>15-30</td><td>6.93</td><td>60.06</td><td>33.02</td><td>Silt loam</td></tr><tr><td>Grass</td><td>0-15</td><td>5.54</td><td>65.27</td><td>29.19</td><td>Silt loam</td></tr><tr><td></td><td>15-30</td><td>14.06</td><td>62.79</td><td>23.15</td><td>Silt loam</td></tr><tr><td>Initial grassland</td><td>0-15</td><td>6.43</td><td>69.62</td><td>23.94</td><td>Silt loam</td></tr><tr><td></td><td>15-30</td><td>15.26</td><td>66.69</td><td>18.04</td><td>Silt loam</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Micrometeorological measurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A meteorological station was installed in SRC willow in August 2011 and in grassland in November 2011 (Fig.S1).Each station measured soil temperature and heat flux at three depths (5,10 and $1 5 \\ \\mathrm { c m }$ ：TCAV；Campbell Scientific，Logan，UT，USA; HFP01SC heat flux plates;Campbell Scientific)，soil water content using time-domain reflectometers (CS616;Campbell Scientific)，incoming photo flux density (SKP215 quantum sensor; Skye Instruments,Powys,UK),net radiation (NR-LITE; Kipp and Zonen,Delft,the Netherlands),air temperature and humidity (HMP155A;Vaisala,Vantaa,Finland).Additionally, precipitation (52203;Young,Traverse City,MI,USA) and wind speed and direction (O51o3-5;Young) were measured at the SRC willow site only.At both stations,variables were measured at $0 . 1 \\ \\mathrm { H z }$ and then collected and averaged half-hourly using a CR10o0 datalogger (Campbell Scientific).The 50-year (1960-201o) average monthly temperature and rainfall for the region were obtained from the UK Met Office (Met Office, 2015). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/14527188402d8e2cfe767ea813e405e96c8243a79b7d867e09e12954d111d1c9.jpg",
+        "img_caption": [
+            "Fig.2Sitemapsof grassandandshortrotationcoppicewillow,including windroseforeachsiteshowingapredominantsouth westerlywind.Blackcircleindicateslocationofeddycovariancetowerandmeteorologicalstation.Greycirclesindicateexperimental plots where soil greenhouse gas, litter fall litter decomposition measurement were taken. $1 0 0 \\mathrm { ~ m ~ }$ rule indicated for scale. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil GHGs fluxes ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Eight plots were established in random locations in the SRC willow and grassland in November 2011 to measure soil GHGs, soil chemistry,aboveground and belowground biomass,litter fall and litter decomposition (Fig. 2).Randomization took place within a few metres of field edges to avoid anyedge effects. Within these plots,soil $\\mathrm { C O } _ { 2 }$ efflux was measured at monthly intervals using a portable chamber (SRC-1; PP Systems,Amesbury,MA,USA) coupled with an IRGA(EMG-4;PP Systems). Every effort was made at each sampling date to avoid the inclusion of significant amounts of vegetation in the sampling chamber,since this would reflect both plant shoot as well as soil and root efflux.However,small amounts of shoot vegetationremainedinside thechamber,and therefore,soil $\\mathrm { C O } _ { 2 }$ flux maybe overestimated.Air temperature,soil temperature (stab probe;Testo,Alton,Hampshire,UK; $0 { \\mathrm { - } } 1 0 ~ { \\mathrm { c m } } ,$ ）and soil moisture (Theta probe;Delta-T,Burwell, Cambridge,UK; $0 { \\mathrm { - } } 6 \\ \\mathrm { c m }$ ） were also measured around the chamber at the time of sampling.As soil temperature is generally a good predictor of soil respiration,annual soil respiration was computed using an exponential function between monthly soil respiration data (SR) and continuous soil temperature data $( T _ { \\mathrm { s o i l } } )$ measured at each weather station (Raich & Schlesinger,1992;Raich et al., 2002): ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S R } = \\boldsymbol { a } \\times \\mathrm { e x p } ^ { \\boldsymbol { b } \\times T _ { \\mathrm { s o i l } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At each of the eight sampling locations, $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C H } _ { 4 }$ soil fluxes were measured using closed vented static chambers (Smith & Mullins,20oO) made of PVC base rings（ $8 \\ \\mathrm { c m }$ high with a diameter of $4 0 ~ \\mathrm { c m } ^ { \\cdot }$ ),inserted in the soil to $5 \\mathrm { c m }$ depth, and chamber lids $2 0 \\ \\mathrm { c m }$ high with a diameter of $4 0 ~ \\mathrm { c m } ^ { \\cdot }$ .To determine GHG fluxes,headspace gas $( 1 0 ~ \\mathrm { m l } )$ was sampled from a self-sealing septa in the chamber lid using gas-tight syr inges,at 0,15,30 and $5 0 ~ \\mathrm { m i n }$ afterclosure;it was immediately stored in pre-evacuated gas-tight vials $( 3 ~ \\mathrm { m l } ;$ Labco Ltd,Lampeter, Ceredigion,UK).Gas samples were analysed on a PerkinElmer Autosystem XL Gas Chromatograph (GC) fitted with a flame ionization detector for $\\mathrm { C H } _ { 4 }$ and an electron capture detector for $\\mathrm { N } _ { 2 } \\mathrm { O }$ 、All results were calibrated against certified gas standards (BOC,Guildford,UK; Case et al.,2014). $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C H } _ { 4 }$ fluxrates were determined by linear regression of the four sampling time points for each chamber and by applying a temperature and pressure correction (Holland et al.，1999). The analytical precision of the GC for standards at ambient concentration was approximately $2 \\%$ ，using two standard deviations asa measure of mean error. Sampling for soil GHG fluxes took place every month, from November 2011 until December 2014 (Fig.S1). Sampling of the grassland initially took place in a smaller grassland site from November 2011 until August 2012, when sampling was moved to another larger site (to accommodate eddy covariance equipment).Grassland sites were both sampled for GHG fluxes for the next 3 months to compare fluxes and there was no significant difference between the sites $( t _ { ( 4 ) } = - 0 . 0 6$ ， $P = 0 . 9 5 )$ .Non- $\\mathrm { . C O } _ { 2 }$ GHG fluxes were first converted into $\\mathrm { C O } _ { 2 }$ equivalents using the global warming potentials over a 100-year horizon of 298 for $\\mathrm { N } _ { 2 } \\mathrm { O }$ and 25 for $\\mathrm { C H } _ { 4 }$ and then to carbon equivalents using a conversion factors of 0.2727 (IPCC,2007b).Linear interpolation between measurements dates (i.e.trapezoidal integration) was used to compute annual cumulative GHG fluxes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Six (two per plot: one root excluded,one total respiration) automated soil chambers were also established in the SRC willow in February 2012 (Ventura et al.,2015).These chambers measured soil $\\mathrm { C O } _ { 2 }$ flux every ${ \\mathrm { ~ 4 ~ h , } }$ and three of the chambers were placed in root exclusion chambers to allow the partitioning of autotrophic and heterotrophic respiration.Data from automated chambers were used to validate periodic measurements. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Soil analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Soil carbon was measured at $0 { - } 3 0 ~ \\mathrm { c m }$ (15 cores）and to $1 \\mathrm { ~ m ~ }$ depth (three cores) in both grassland and SRC willow (and initial grassland).Samples were only taken once during the experiment in October 2012.Five plots were randomly selected in each field; from each of these plots,three within-plot soil cores were taken using a split-tube soil sampler (Eijkelkamp Agrisearch Equipment BV,Giesbeek，the Netherlands）with an inner diameter of $4 . 8 ~ \\mathrm { c m }$ to a depth of $3 0 \\ \\mathrm { c m }$ .This gavea total of 15 spatially nested samples per field,accounting for both field-scale (between sampling plots） and plot-scale (cores within plots） variability.One of the five sampling plots was randomly selected and threeadditional $1 \\mathrm { ~ m ~ }$ coreswere taken. In the case of both the $1 \\mathrm { ~ m ~ }$ and $0 { - } 3 0 ~ \\mathrm { c m }$ core,one core was taken from the centre of the plot,with two further cores taken at distances of 1 and $1 . 5 \\mathrm { ~ m ~ }$ in random compass directions from the centre.The $1 \\mathrm { ~ m ~ }$ cores were taken using a window sampler system with a $4 . 4 ~ \\mathrm { c m }$ cutting diameter (Eijkelkamp Agrisearch Equipment BV),allowing a full $1 \\mathrm { ~ m ~ }$ core to be extracted and subsequently transported in one section.If coring to the full depth was not possible, for example when large stones or bedrock were encountered, the precise depth of the cored hole was recorded (see Rowe et al.,2016,for full methods).Fresh soil was sieved to $2 ~ \\mathrm { m m }$ before being frozen at $- 8 0 ~ ^ { \\circ } C$ and subsequently freeze-dried for minimum of $2 4 \\mathrm { ~ h ~ }$ .A subsample of the freeze-dried soil $( 2 0 - 3 0 ~ \\mathrm { m l } )$ was milled to a fine powder in a ball mill (Planetary Mill; $F R I T S C H ,$ Idar-Oberstein,Germany). A $2 0 0 ~ \\mathrm { m g }$ subsample of the milled soil was used for the assessment of carbon concentration using an elemental analyser (Leco Truspec CN,Milan,Italy). Total soil carbon stock for the 0-30 and $0 { \\mathrm { - } } 1 0 0 ~ { \\mathrm { c m } }$ fractions was calculated on an equivalent soil mass basis (Keith et al.,2015). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Aboveground and belowground biomass and net primaryproduction(NPP) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Aboveground biomass.In SRC willow，aboveground biomass was estimated from the stem $\\because$ volume index (Pontallier et al., 1997）which was calculated for all shoots of 160 stumps distributed in eight plots using stem diameter ( $2 2 \\ \\mathrm { c m }$ from ground height; Rae et al.，2O04) and dominant stem height. Nondestructive sampling took place every year in winter during the experiment (Fig. S1).Destructive sampling of SRC willow was also conducted prior to commercial harvest in November 2013,to allow an estimation of actual biomass from stem $:$ volume index values.Alinear regression of stem:volume index against fresh weight allowed estimation of total dry weight $( \\mathrm { k g ~ t r e e } ^ { - 1 } )$ from trees which were nondestructively sampled.Total carbon contained in aboveground biomass was calculated by assuming that the amount of carbon contained in woody biomass was approximately $4 9 . 3 \\pm 1 . 2 \\%$ 0 $\\mathrm { \\mathop { m e a n } } \\pm \\mathrm { \\mathop { S D } } ) _ { \\mathrm { \\scriptscriptstyle ( } }$ calculated from an assessment of measured values in the literature for SRC(Fahmi et al.,2007;Bridgeman et al.,2008;Sannigrahi et al.,2010; Gudka,2012).Willow leaf litter was collected in trays during the months of litter fall,July-December, to quantifyleaf biomass.Leaf litterwas oven-dried at $8 0 ~ ^ { \\circ } C$ for $^ { 4 8 \\mathrm { ~ h , ~ } }$ weighed and extrapolated from trayto tonnesperhectare.Litter decomposition was measured over 2 years in SRC willow.Mesh bags $( 2 0 \\times 1 0 ~ \\mathrm { c m } ; 1 ~ \\mathrm { m }$ m aperture) each containing $\\mathrm { ~ 5 ~ g ~ }$ leaf litter (picked green leaves) were placed by each of the GHG chambers in November 2011. Bags were collected at several points postinsertion-2 weeks then 1,2,4,6,9,12,18 and 24 months.Leaf litterwas gently washed with distilled water, then dried at $8 5 ~ ^ { \\circ } C$ for $2 4 \\mathrm { ~ h ~ }$ before dry weight was recorded. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Aboveground biomass was estimated in the grassland from four randomized plots by cutting all biomass within a $5 0 \\times 5 0 ~ \\mathrm { c m }$ quadrat with hand shears flush to ground. Samples were taken twice during the experiment,in August 2013 and August 2014 prior to the mowing of the field.Samples were oven-dried at $8 0 ~ ^ { \\circ } C$ for $^ { 4 8 \\mathrm { ~ h , ~ } }$ weighed and extrapolated from quadrat to tonnes per hectare. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Belowground biomass.Belowground biomass in SRC willow was estimated using equations for aboveground stool and stem and belowground biomass found in Pacaldo et al. (2013a). Then，the ratio of belowground $\\because$ aboveground (i.e.aboveground stool $^ +$ stem) was calculated as O.99 for our site.In the grassland,belowground biomass was measured using $5 \\mathrm { c m }$ diameter auger and taken at three depths (O-10,10-20 and 20- $3 0 \\ \\mathrm { c m } { \\mathrm { . } }$ ）across four randomized plots.Roots were sieved consecutively through sieves of decreasing mesh size (3350,2000 and $5 0 0 ~ { \\mu \\mathrm { m } } )$ ，oven-dried at $8 5 ~ ^ { \\circ } C$ for $2 4 ~ \\mathrm { h } ,$ weighed and extrapolated from core to tonnes per hectare.Total biomass was calculated by summing total above ground biomass and belowground biomass; for SRC willow the aboveground components included stem,stool, branches and leaf biomass.Net primary production was calculated on an annual basis using two consecutive biomass measurement data sets (nondestructive for SRC willow and destructive biomass harvest for grassland).Standard error was calculated for all components of biomass,as well as for NPP. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Eddy covariance measurements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Eddy covariance towers were installed in SRC willow in April 2012 and in grassland in August 2012 to measure ecosystem $\\mathrm { C O } _ { 2 }$ fluxes.Each system consisted of an open path infrared gas analyser $( \\mathrm { L i } { - } 7 5 0 0 A _ { }$ ：Licor，Lincoln，NE，USA）and a sonic anemometer (Windmaster Pro;Gill,Hampshire，UK).Data were logged at $2 0 ~ \\mathrm { H z }$ to an industrial grade USB stick in the LiCor interface box.Instrument height was $2 . 5 \\mathrm { ~ m ~ }$ from the ground for the grassland site.For SRC willow，instrument height was $8 ~ \\mathrm { m }$ at the start of the experiment and extended as the crop grew to a maximum instrument height of $9 . 3 \\mathrm { ~ m ~ }$ in March 20l4.After harvest, the instrument height was reduced to $3 . 6 \\mathrm { ~ m ~ }$ aboveground level. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Eddy covariance data were processed using EddyPro (Licor) and averaged over $3 0 \\mathrm { - m i n }$ intervals. The applied methodology was based on the EuroFlux protocol (Aubinet et al., 20oo).Data were then elaborated and quality-checked using Stata IC 10 (StataCorp LP,College Station，TX,USA).Most of the data were discarded during nigh-time as the assumptions using for eddy covariance measurements (i.e.turbulence) were not fulfilled.Data were rejected when fluxes came from outside the flux footprint which was between $1 3 5 ^ { \\circ }$ and $2 6 2 ^ { \\circ }$ for SRC willow and $1 4 0 – 2 9 0 ^ { \\circ }$ for grassland.Data were also discarded during rain and fog.Energy balance closure at each site was estimated onlyusing measured data.Gapfilling to estimate Net Ecosystem Exchange (NEE)and flux partitioning into Ecosystem Respiration $( R _ { \\mathrm { e c o } } )$ and Gross Primary Production (GPP) were done according to the standard methodology used in Fluxnet (http://www.bgc-jena.mpg.de/\\~MDIwork/eddyproc/ ;Reichstein et al.,20o5).NEE uncertainty (i.e. standard deviation）was computed according to the FLUXNET methodology using the online software,whilst error terms were unable to be calculated for $R _ { \\mathrm { e c o } }$ and GPP as these are modelled terms. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Ecosystem GHGbalance ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A conceptual model was constructed to represent the whole system GHG balance for both grassland and SRC willow for two whole years during the measurement period,January 2013-December 2014 (Fig. S1,blue box).All gas flux data were expressed as $\\mathrm { g } \\mathrm { C } \\mathrm { m } ^ { - 2 } \\mathrm { y } \\mathrm { r } ^ { - 1 }$ and soil storage terms presented as standing stock $( \\mathrm { g } \\mathrm { ~ C ~ m } ^ { - 2 } )$ .The terminology used is as defined by Chapin et al.(2oo6); however,we assigned a positive sign to emissions of carbon to the atmosphere and a negative sign to an uptake of C by the ecosystem,as generally used in micrometeorology. Briefly，NEE was defined as the $\\mathrm { C O } _ { 2 }$ exchange between the ecosystem and the atmosphere, measured using the eddy covariance technique.Gross Primary Productivity was defined as the fixation of carbon by autotrophic organisms and Ecosystem Respiration $( R _ { \\mathrm { e c o } } )$ is the net respiration by both autotrophic and heterotrophic organisms in the ecosystem. Soil respiration is the sum of $\\mathrm { C O } _ { 2 }$ respired by roots (autotrophic respiration）and by microbes (heterotrophic respiration).Net Primary Production is the accumulation of biomass within the study system,measured used in litter fall and biomass estimates.Net Biome Production (NBP)describes the difference between Net Ecosystem Productivity (NEP，negative sign of NEE;Reichstein et al.,2012) and the carbon removed through harvest.The sign of NBP is opposite to measures described above,where negative indicates a release to the atmosphere and a positive value indicates an uptake by the ecosystem. NBP was only calculated for SRC willow where harvested biomass was removed from the system. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A basic $t$ -test was performed to detect any significant difference in soil carbon stocks at $0 { - } 3 0 ~ \\mathrm { c m }$ 1 $( n = 1 5 )$ and $0 { \\mathrm { - 1 0 0 ~ c m } }$ $( n = 3 )$ ）between land uses,using SigmaPlot 12.5.All statistical analyses for GHG and eddy data were conducted in the R programming environment (R version 3.1.3;R Core Team, 2015).GHG data were analysed using linear mixed models (Bates et al.，2014)where fixed effects were treatment，year, soil temperature and soil moisture.Air temperature and soil temperature exhibited collinearity so could not both be included in the model. Chamber number was used as a random factor to account for repeat sampling over time.Main effects were tested in addition to all second-order interactions.Analysis of $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C H } _ { 4 }$ reveals normality of residuals andhomoscedasticity；however，there was heteroscedasticity detected in the $\\mathrm { C O } _ { 2 }$ data；therefore,logtransformation was performed. Model selection wasperformed according to Crawley (2007） using AIC to construct the minimum adequate model (see Table S2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For eddy covariance data,a global model was constructed to assess the effects of land use and climate variables [fixed effects: treatment,photosynthetically active radiation (PAR), wind speed,rain,soil temperature,relative humidity (RH) and soil water content; random effect: datel on NEE using daily averaged data (see Table S3 for full model).There was collinearity between air temperature and soil temperature so only one was used in the model,likewise for soil water content at both depths. Data were then partitioned by site and two separatemodelswere constructed for eachdata set to seewhether the drivers of NEE differed between fields.The aim of this analysiswas to try to identify the drivers ofNEE to environmentalvariableswhichweremeasuredonsite. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Weatherpatterns ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Air temperature in 2012 were close to average values for the region. Spring of 2013 was cooler than average, whereas winter 2013 and spring of 2014 experienced higher than average temperatures (Fig. 3). The spring/ summer of 2012 and winter 2013 are notably wet years with above average rainfall for the region,whilst in contrast the spring and summer of 2O13 were drier than average (Fig. 3).Air temperature in 2013was cooler and much drier than both 2012 and 2014 with an average air temperature of $9 . 9 ~ ^ { \\circ } \\mathrm { C }$ and rainfall of $6 7 3 . 3 ~ \\mathrm { m m }$ .2012 was slightly cooler but wetter( $1 0 . 6 ~ ^ { \\circ } \\mathrm { C }$ and $1 3 1 8 ~ \\mathrm { m m } ,$ than 2014 which experienced an average temperature of $1 1 . 1 \\ ^ { \\circ } \\mathrm { C }$ and $1 0 2 3 ~ \\mathrm { { m m } }$ rainfall. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Netprimaryproduction ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Total aboveground biomass in SRC willow increased from the first measurement,March 2012，to the final measurement before the harvest, November 2013 (Fig.4a).Biomass was rapidly accumulated after the harvest in April 2014 with total aboveground woody biomass reaching $1 1 . 4 \\pm 1 . 1 \\mathrm { { \\ t h a } } ^ { - 1 }$ (mean ± SE; $n = 8 ^ { \\cdot }$ ） by the end of 2014.Leaf litter was similar for 2012 and 2013 with $5 . 6 \\pm 0 . 2$ and $5 . 8 \\pm 0 . 2 \\mathrm { { t h a } ^ { - 1 } \\mathrm { { y r } ^ { - 1 } , } }$ respectively.There wasa decrease in leaf litter fall after the harvest in 2014 with only $2 . 1 \\pm 0 . 2 \\mathrm { { \\ t h a } ^ { - 1 } \\ y r ^ { - 1 } }$ .The majority of SRC willow leaf litter decomposed within the first year，with only $1 7 \\%$ leaf litter remaining after 12 months and only $8 \\%$ remaining after 2 years (Fig. S2).Total grassland biomass was over double that in 2014 compared to 2013,for both aboveground and belowground biomass (Fig. 4b).Total biomass in 2013 was higher in SRC willow $( 9 6 . 2 \\pm 3 . 6 \\mathrm { ~ t ~ h a } ^ { - 1 }$ ： $n = 4 ,$ than grassland $( 8 . 7 \\pm 1 . 5 \\mathrm { { \\ t h a } } ^ { - 1 } ,$ ，and owing to the remainingbelowgroundbiomass,totalbiomass remained higher in SRC willow in 2O14 after harvest $( 6 9 . 8 \\pm 2 . 8 \\$ and $2 0 . 8 \\pm 1 . 6 \\mathrm { { \\ t h a } } ^ { - 1 }$ for SRC willow and grassland, respectively). There was a decrease in NPP in SRC willow from 2012 to 2013,which corresponds to year4and year5 of the rotation (Fig. 4c; $1 4 . 6 \\pm 2 . 1$ and $1 0 . 8 \\pm 2 . 4 \\mathrm { ~ t ~ C ~ h a } ^ { - 1 } \\mathrm { { y r } ^ { - 1 } }$ ，respectively). There was an increase in NPP postharvest to $1 2 . 4 \\overset { \\cdot } { \\pm } 0 . 8 \\mathrm { ~ t ~ C ~ h a ^ { - 1 } ~ y r ^ { - 1 } }$ (Fig. 4c).In $2 0 1 4 ,$ theNPPingrassland $( 4 . 9 \\pm 1 . 0 \\mathrm { ~ t ~ C ~ h a ^ { - 1 } ~ y r ^ { - 1 } } )$ was less than that of SRC willow, $1 2 . 4 \\pm 0 . 8 \\mathrm { ~ t ~ C ~ h a } ^ { - 1 } \\mathrm { { y r } ^ { - 1 } }$ (Fig. 4c). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e2cf43e754e579ab059c9df73e189104f896e5662dc56d8c939eb8ff622d8c2.jpg",
+        "img_caption": [
+            "Fig.3(a) Monthly mean values of air temperature $( ^ { \\circ } \\mathrm { C } )$ showing 50-year average (1960-2010; black line) and values measured by site meteorological station (grey line). (b) Sum of rainfall $( \\mathrm { m m } )$ for 50-year average (1960-201O; black line) and measured on site (grey line). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Soil respiration ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C O } _ { 2 }$ accounted for the majority of soil GHG flux, $c . 9 6 \\%$ and $c . 9 9 \\%$ for grassland and SRC willow,respectively. Mean soil respiration (2012-2014) was significantly higher in grassland $( 1 5 2 2 \\pm 3 9 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ ；mean $\\pm$ SE; $n = 8 ^ { \\cdot }$ than in SRC willow $( 9 1 2 \\pm 4 2 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ Fig. 5, Table S4, $P = 0 . 0 3 { \\mathrm { ; } }$ ). Year,soil temperature and soil moisture were all significant factors affecting soil respiration $( P < 0 . 0 0 1 \\$ ),aswell as second-order interactions for treatment and year $( P < 0 . 0 0 1 )$ ,treatment and soil temperature $( P < 0 . 0 0 1 ^ { \\cdot }$ )，and year and soil moisture $( P = 0 . 0 0 7 )$ . According to the continuous soil respiration measurements (also reported in Ventura et al.,2015),heterotrophic respiration accounted for $8 4 \\%$ of total soil respiration in the SRC willow. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Eddy flux measurements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the eddy covariance data，after quality control checks and footprint analysis the data remaining were $4 0 \\%$ for grassland and $3 7 \\%$ for SRC willow in 2013. In 2014, the remaining data for each site was $4 6 \\%$ and $20 \\%$ for grassland and SRC willow, respectively. The energy balance closure for the sites,based on measured data only, was a $7 3 \\%$ for grassland (Fig. 6a) and $7 7 \\%$ for SRC willow (Fig. 6b). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/aafb9db2c082358a6a80575bb4bbf7a89ee2612d04d8a9b3cfa9ca49da2ce601.jpg",
+        "img_caption": [
+            "Fig.4(a） Total biomass for short rotation coppice willow ? $ { \\mathrm { \\ h a } } ^ { - 1 }$ ；mean $\\pm \\ \\mathrm { S E }$ $n = 8 { \\mathrm { ; } }$ ）including measured stem (checkerboard hatching) and leaf biomass (diagonal hatching),and estimated root biomass (grey fill).(b) Grassland biomass from measured aboveground (checkerboard hatching）and belowground sampling (grey fill) $( \\mathrm { t } \\ \\mathrm { h a } ^ { - 1 }$ ;mean $\\pm \\ \\mathrm { S E } ,$ $n = 4 ,$ .(c)Net primary productivity for short rotation coppice willow (white bars)and grassland (black bars). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For grassland,the mean NEE over 2 years (2013- 2014) was $1 1 9 \\pm 1 0 ~ \\mathrm { g } \\mathrm { C } ~ \\mathrm { m } ^ { - 2 } ~ \\mathrm { y r } ^ { - 1 }$ (mean ± SD). In year one (2o13),the grassland was a net source of carbon, $2 4 6 \\pm 1 1 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 } ,$ ，whereas in year two (2014) it was a net sink, $- 9 \\pm 1 6 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { ~ y } \\mathrm { { r } } ^ { - 1 }$ . In year one, there was a small uptake of carbon during the growing season from June 2013 to the end of July 2013 (Fig.7a); however,in year two there isa more defined uptake period starting from March 2014.This early onset of carbon fixation could be attributed to the higher mean monthly temperature in January-March 2014 compared to 2013 (Fig. 3).SRC willow was a C sink for the 2-year duration of the experiment with a mean annual NEE of $- 6 2 0 \\pm 1 8 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ (Fig.7b).In the first year, which corresponded to the 4th year of growth,the site was a large sink of carbon $( - 9 0 1 \\pm 2 3 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 } )$ The NEE for the second year was smaller due to the harvest in April 2014 $( - 3 3 9 \\pm 2 7 \\textrm { g C m } ^ { - 2 } \\textrm { y r } ^ { - 1 } )$ .NEE was lower in the SRC willow than in grassland during the second year $( P < 0 . 0 0 1 )$ .Analysesofeddy covariance data also revealed that NEE in grassland and SRC willow were driven by different components (Table S3). In the grassland,PAR,year,soil (and air) temperature， windspeed andrainwerefactors affecting NEE，whilst in the SRC willow only PAR, year and soil water content were affecting NEE.Relative humidity was not found to be a factor affecting NEE at either site. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "There were also differences in $R _ { \\mathrm { e c o } }$ and GPP between grassland and SRC willow. $R _ { \\mathrm { e c o } }$ was $3 3 \\%$ higher in 2014 than in 2013 in grassland (1261 and $1 6 7 5 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { ~ y r ~ } ^ { - 1 }$ for year one and year two,respectively). $R _ { \\mathrm { e c o } }$ in SRC willow in year one was lower than both years in grassland at $9 7 1 \\mathrm { ~ g ~ C ~ m } ^ { - 2 } \\mathrm { ~ y r } ^ { - 1 }$ In 2014, $R _ { \\mathrm { e c o } }$ was larger than year one in SRC willow and both years in the grassland site at $1 9 7 1 \\ \\mathrm { g } \\mathrm { ~ C ~ m } ^ { - 2 } \\ \\mathrm { y r } ^ { - 1 }$ . Mean $R _ { \\mathrm { e c o } }$ over 2 years was similar for grassland and SRC willow，1468and $1 4 7 1 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 1 } \\mathrm { ~ y r ~ } ^ { - 1 } ,$ respectively. GPP in grassland was 1015 and $1 6 8 3 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { ~ y r ~ } ^ { - 1 }$ for year one and two, respectively. In SRC willow,GPP was higher than the grassland for both years at 1873 and $2 3 0 9 \\ \\mathrm { \\bar { g } } \\mathrm { C } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { y r } ^ { - 1 }$ for year one and year two,respectively. Over 2 years, mean GPP was higher in SRC willow than in grassland, 2091 and $1 3 4 9 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 } ,$ ,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Belowground carbon pools ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Soil carbon stocks (Table 2） were higher in the grassland than in the SRC willow for both the O-3O and $0 -$ $1 0 0 ~ \\mathrm { c m }$ profiles,but for the latter this effect was only significant to $P = 0 . 0 6 2$ ，despite a clear trend.For $0 -$ $3 0 \\ \\mathrm { c m } ,$ we found $6 3 . 4 \\pm 3 . 5 \\mathrm { ~ t ~ C ~ h a } ^ { - 1 }$ in grassland and $4 2 . 6 \\pm 1 . 8 \\mathrm { ~ t ~ C ~ h a } ^ { - 1 }$ inSRCwillow $( \\mathrm { m e a n } \\pm \\mathrm { S E } ,$ $t _ { ( 2 8 ) } = - 5 . 3 0 .$ $P < 0 . 0 0 1 _ { \\cdot }$ ).And for the $0 { \\mathrm { - 1 0 0 ~ c m } }$ profile, there was $1 0 7 . 6 \\pm 1 . 8$ and $7 7 . 3 \\pm 7 . 7 \\mathrm { ~ t ~ C ~ h a } ^ { - 1 }$ for grasslandandSRCwillow， respectively $( t _ { ( 4 ) } = - 3 . 8 4 ,$ $P = 0 . 0 6 2 \\mathrm { \\mathrm { ; } }$ . The grassland which was used initially for chamber measurements had a similar carbon stocks to grassland in the upper $3 0 \\ \\mathrm { c m }$ $( 6 1 . 2 \\pm 2 . 8 \\mathrm { ~ t ~ C ~ h a } ^ { - 1 } )$ ！ ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/da5d1e0c6989833f7d4f489ed926bbb68d6f65b7e8f8b109df7dd546ae24fdf2.jpg",
+        "img_caption": [
+            "Fig.5Soil $\\mathrm { C O } _ { 2 }$ flux $( \\mathrm { g } \\mathrm { C } \\mathrm { m } ^ { - 2 } \\mathrm { d } \\mathrm { a y } ^ { - 1 } )$ for short rotation coppice willow (a; white circles) and grassland (b; black circles) (mean $\\pm$ SE; $n = 8 ,$ .Periodic sampling events (circles) and modelled $\\mathrm { C O } _ { 2 }$ flux (black line; using soil temperature) are shown. Green line indicates 5th and 95th percentiles around the modelled values.Additionally,modelled $\\mathrm { C O } _ { 2 }$ data are regressed against measured $\\mathrm { C O } _ { 2 }$ data for both sites and the relationship shown on the graph as $R ^ { 2 }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "with slightly less carbon in the $1 0 0 ~ \\mathrm { c m }$ profile than the SRC willow $( 6 3 . 8 \\pm 4 . 1 \\mathrm { ~ t ~ C ~ h a } ^ { - 1 }$ Table 2). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Soil GHG fluxes ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C H } _ { 4 }$ were not important contributors to the whole GHG balance of these two particular sites, accounting for less than $4 \\%$ （ $3 . 4 \\%$ （204号 $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $0 . 4 \\%$ （204号 $\\mathrm { C H } _ { 4 } \\rangle$ for grassland and less than $1 \\%$ 0 $0 . 7 7 \\%$ （20 $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $0 . 0 7 \\%$ $\\mathrm { C H } _ { 4 } )$ for SRC willow.Mean $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes at both sites (2012-2014） were very low (within detection limit of equipment）withemissionsof $1 . 2 \\pm 0 . 3$ and $1 . 9 \\pm 0 . 6 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ for grassland and SRC willow, respectively (Fig. S3; $4 . 4 \\pm 1 . 1$ and $7 . 0 \\pm 2 . 2 \\mathrm { \\ g C O } _ { 2 } .$ eq $\\mathbf { \\bar { m } } ^ { - 2 } \\mathbf { y } \\mathbf { r } ^ { - 1 }$ for grass and SRC，respectively). There was no difference between $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes between the sites $( P = 0 . 8 1$ ；Table S5). $\\mathrm { N } _ { 2 } \\mathrm { O }$ flux was significantly affected by year across both sites $( P = 0 . 0 0 3 )$ ，aswell asan interaction between year and soil moisture $( P = 0 . 0 0 7 )$ ： $\\mathrm { C H } _ { 4 }$ was also very low at both sites; however,there was a difference between the siteswith an emission of $0 . 2 \\pm 0 . 2 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ （20 from grassland and uptake of $- 0 . 2 \\pm 0 . 1 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ in SRC willow （2 $( P = 0 . 0 0 3$ ；Table ${ \\cal S } 6 ,$ Fig. $S 4 ,$ ： $0 . 7 \\pm 0 . 7$ （ and $- 0 . 7 \\pm 0 . 4 \\textrm { g C O } _ { 2 } \\mathrm { - e q \\ m } ^ { - 2 } \\textrm { y r } ^ { - 1 }$ forgrassand SRC, respectively). For both sites，soil temperature significantlyaffected $\\mathrm { C H } _ { 4 }$ flux $( P < 0 . 0 0 1 \\$ ),aswell an interaction between soil moisture and soil temperature $( P = 0 . 0 2 )$ ） ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Conceptual model ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Data from January 2013 to December 2014 were summarized in a conceptual model to allow comparison of the grassland and SRC willow (Fig.8). This figure shows the movement of carbon through the ecosystem,highlighting major fluxes and stocks.The harvested carbon was expressed on annual basis (i.e. total harvested biomass was divided by the rotation length in the willow) and is shown, $4 4 5 \\pm 6 8$ and $3 9 9 \\pm 2 3 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ $( \\mathrm { m e a n } \\pm \\mathrm { S E } )$ for grassland and SRC willow，respectively.However,as the mowed grass was not removed from the site,NBP is equal to NEE.Thus,mean NBP (2013-2014) was $- 1 1 8 \\pm \\mathrm { { 1 0 ~ g ~ C ~ m } } ^ { - 2 } { \\mathrm { { y r } } } ^ { - 1 }$ for grassland and （204号 $2 2 1 \\pm 6 6 \\mathrm { g C m } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ for SRC willow （20 $( \\mathrm { m e a n } \\pm \\mathrm { S D } )$ ，which，despitetheremovalof $3 9 9 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ biomass from the SRC field,remained anet sink for carbon. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/867b69ec7619dcd03b38dbb58c8b7f99961e5afe2c75ad8970c8e41207e8e7c8.jpg",
+        "img_caption": [
+            "Fig.6Energy balance closure for grassland (a; black circles) and short rotation coppice willow $( \\boldsymbol { \\mathrm { b } } ;$ white circles) for 2013-2014,where $\\mathrm { H }$ is sensible heat flux,LE is latent heat flux,G is soil heat flux and $S _ { \\mathrm { { g } } }$ is soil heat storage. Strength of regression indicted on graph by $R ^ { 2 }$ value. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d60d6fe4b993d04f987c8d32823d23945a6e2aab31527838899b29e3cfe370be.jpg",
+        "img_caption": [
+            "Fig.7Net Ecosystem Exchange (NEE; $\\mathrm { g } \\mathrm { C } \\mathrm { m } ^ { - 2 } \\mathrm { d } \\mathrm { a y } ^ { - 1 } ,$ mean $\\pm$ SD) for grassland (a; black circles)and short rotation coppice willov (b; white circle) for 2013-2014.Harvest events at both sites are indicated by dashed arrows. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ImpactofharvestinSRCwillow ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The SRC willow was harvested in April 2014 which corresponded to year 5 of the first rotation.There was no detectable effect of the harvest on soil moisture or soil temperature in the SRC willow, compared to preharvest measurements.The effect of the harvest on the NEE can be seen in Fig.7b (dashed arrow indicated harvest date)，where NEE decreased prior to harvest and then quickly increased after harvest.The smaller NEE and increased $R _ { \\mathrm { e c o } }$ observed in SRC willow in 2014 compared to 2013 is likely attributable to the disturbance caused by the harvest.The site quickly became a net C sink again as there was a rapid re-sprout of willow stumps and understory vegetation. There was no notice able effect on soil $\\mathrm { C O } _ { 2 }$ and $\\mathrm { C H } _ { 4 }$ emissions as a result of the harvest. There was a large one-off emission of $\\mathrm { N } _ { 2 } \\mathrm { O }$ in June 2014,2 months postharvest，which may have arisen as a result of the harvesting process (Fig. S3b). ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/3c3d758fb5714e31b5010414522ca498037ac35a8b01ab1046a743f7e6bfc23a.jpg",
+        "table_caption": [
+            "Table 2 Soil carbon stocks $\\mathsf { ( t \\ C h a ^ { - 1 } ) } ,$ ）under grassland and short rotation coppice willow,calculated on an equivalent soil mass basis, for $0 { - } 3 0 ~ \\mathrm { c m }$ and $0 { \\mathrm { - 1 0 0 ~ c m } }$ .Initial grassland refers to site where static chamber measurements were taken prior to installation of eddy covariance monitoring equipment. Samples collected in October 2012. $n = 1 5$ for O-30 samples and $n = 3$ for $0 { \\mathrm { - } } 1 0 0 ~ { \\mathrm { c m } }$ samples "
+        ],
+        "table_footnote": [
+            "\\*Significance to 0.05 $( 5 \\% )$ and significance to 0.1 $( 1 0 \\% )$ 1 "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Grassland</td><td>SRC willow Initial grassland</td></tr><tr><td>Soil depth (cm)</td><td>Mean ± SE (t C ha-1)</td><td>Mean ± SE (t C ha-1)</td></tr><tr><td>0-30</td><td>63.4 ± 3.5 42.6 ± 1.8*</td><td>61.2 ± 2.8</td></tr><tr><td>0-100</td><td>107.6 ± 1.8 77.3 ± 7.7 (10%)</td><td>63.8 ± 4.1</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Understanding the consequences of LUC for ecosystem GHG balance is important if we are to tackle the impact of agricultural practices on global GHG emissions. This research addressed a critical- the provision of empirical GHG balance data from commercial-scale operations, where bioenergy has been deployed for a period of years.It has demonstrated that overa 2-year period (including the harvest operation in SRC willow),during a side-by-side commercial-scale comparison,an SRC willow field was a net sink for carbon,whilst the minimally managed grassland field was a net source for carbon. $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C H } _ { 4 }$ emissions were generally low for both sites,contributing little to the total GHG balance for these contrasting land-use types in southern England.Thus,we can conclude that 7 years postland-use transition,this SRC bioenergy crop had an improved GHG balance relative to the adjacent grassland.This suggests that not only did this LUC provide bioenergy asa net provisioning ecosystem service,but was also able to contribute to improved climate regulation through the generation of a net carbon sink relative to the original land use.In the area of bioenergy science, this is an important empirical finding and suggests that in temperate climates,wherereasonable land-use transitions are considered,bioenergy may add positively to the multifunctional landscape,as suggested recently by those such as Manning et al.(2o15) and Souza et al. (2015).These results coupled with the potential carbon and GHG savings made by replacing fossil fuels demonstrate the potential of bioenergy for climate change mitigation and improved energy security (Cannell,2003; Styles & Jones,2007). ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf45702a2e408bf24aebe46138e847570e0976a8e7a479b3a32465a5cc492961.jpg",
+        "img_caption": [
+            "Fig.8Annual grenhouse gas budget for grassand and short rotation coppice willowfor measurement period January 2013 to December 2014.All fluxes are in $\\operatorname { g C } \\ m ^ { - 2 } \\ y \\mathbf { r } ^ { - 1 }$ in square boxes and soil storage terms presented as standing stock $( \\mathrm { g } \\mathrm { m } ^ { - 2 } )$ in oval boxes.Measured values are presented as mean $\\pm \\ \\mathrm { S E } ,$ except for net ecosystem exchange (NEE)and Net Biome Production (NBP) where measured values are presented as mean $\\pm \\mathsf { S D }$ (see Materials and methods for details on uncertainty calculation for NEE).Note forallfluxesrtfroNativefdcaedtosdiiefiicatsstooe 1Harvest data have been annualized from the total biomass taken offthe field during coppicing at year 5. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Improved grasslands are important sources of terrestrial carbon storage,holding the second largest store after bogs，with approximately $2 7 4 \\times 1 0 ^ { 6 } \\mathrm { ~ t ~ C ~ }$ (Ostle et al.，20o9) andhere we hypothesized that LUC from grassland to SRC willow would lead to a significant reduction in GHG emissions as proposed in previous modelling studies in this temperate bioenergy system (Hillier et al.,2009;Hastings et al.，2014;Milner et al., 2015).In a UK context, conversion of semipermanent, permanent or managed grassland to bioenergy cropping systems represents one of the most significant potential land-use transitions，since grassland is a considerable part of the UK landscape $( 4 - 5 \\times 1 0 ^ { 6 }$ ha; DEFRA et al., 2007) and because management of grasslands can vary widely in the UK,particularly with respect to fertilizer input and grazing. This can have a dramatic effect on consequential GHG and carbon balance as a result of LUC.For the grassland studied here,we found that over a 2-year measurement period, grassland was a net source for carbon and SRC willow was a net sink.Even when considering the carbon removed from the system scaled on an annual basis in harvest biomass (NBP), the SRC willow site remained a sink for carbon. In this experiment,we observed high biomass yields for SRC willow, comparable to those found in some other studies (Laurent et al.,2015) but within the range reported by Allwright & Taylor (2016). To our knowledge, there has been only one previous limited study of eddy covariance measurements over SRC willow for bioenergy (Drewer et al.,2012),though much research attention has been focussed on SRC poplar.These studies have generally found that SRC poplar is a sink at the ecosystem level (Arevalo et al.，2011; Jassal et al.,2013; Sabbatini et al.,2015),even as soon as 2 years postestablishment of the crop (Verlinden et al.,2013). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "One question from our study is the relevance of the grassland considered here，since retention of cut grass on the surface,which resulted in no C exports from the system，could be considered uncommon with grazing and mowing for hay or silage much more likely as a management option (Smit et al.，20o8). Asa result, grasslandNBPwasequaltoNEE at $- 1 1 9 \\pm 1 0 \\textrm { g C m } ^ { - 1 } \\mathbf { y r } ^ { - 1 }$ at our site.Qun & Huizhi (2013） investigated similarly managed grassland with no exports of carbon and found that the site was similarlya netsource of carbon， with a NBPof $- 1 \\dot { 3 } 8 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ . Thus,we can conclude that management of the grazing and mowing regime might be central to the carbon balance of such a system and determine net source or sink status.We identified PAR and soil moisture to be the main climatic drivers of NEE in grassland and SRC willow，which has been found in other studies (Ruimy et al.，1995;Qun & Huizhi, 2013; Shao et al.,2015).In contrast, some studies haveidentifiedleafareaindex(LAI) to be themainbiophysical driver of NEE in SRC poplar (Broeckx et al., 2014;Zenone et al.，2015),but our data for willow do not support this.Data syntheses from a network of sites such as FLUXNET have already begun identifying driving factors of NEE,GPP and $R _ { \\mathrm { e c o } }$ over a number of biomes (Law et al.,2oo2),and as the amount of flux data from bioenergy crops increases,there is potential for synthesesin these biomes in future. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this experiment,we found that $\\mathrm { C O } _ { 2 }$ was the main contributor to soil GHG emissions in both sites，supporting the observations of Drewer et al. (2012)who also found $\\mathrm { C O } _ { 2 }$ to be the dominant soil GHG for SRC willow at a second UK site. In the SRC willow,we were able to observe the partitioning of soil $\\mathrm { C O } _ { 2 }$ flux which revealed that $8 4 \\%$ of total soil respiration was heterotrophic in origin (Ventura et al.，2015).Since heterotrophicrespirationcanvaryfrom $10 \\%$ to $9 0 \\%$ depending on vegetation type and time of year (Hanson et al.,2ooO),our data fall within this wide range.Future work at this site should measure autotrophic and heterotrophic respiration in grassland for a direct comparison and inference on the effects of LUC to bioenergy. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Grasslands can vary in both space and time for GHG emissions and carbon balance (Soussana et al.，2007; Imer et al.,2013),as found here where the grassland in this study was a net source of carbon in 2013 and a net sink in 2014,possibly attributable to the higher tempera tures observed in January-March 2014 compared to 2013.Grass begins growing when air temperature exceeds $5 ^ { \\circ } C$ (Robson et al.,1988),which was achieved earlier in 2014,providingan extended season for carbon fixation.This combination of increased temperature with an increase in winter rainfall (which resulted in increased soil moisture) could explain the higher aboveground biomass in grassland and consequently why the site was a net sink in 2014 (Pitt & Heady,1978). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "As well as large variability, there are also large uncertainties surrounding the overall GHG balanceof temperate grasslands (Janssens et al.,20o3).Within the literature, there are reports that grasslands are acting as both carbon sources and carbon sinks (Scurlock & Hall, 1998；Bellamy et al.，2005;Soussana et al.，2007;Ciais et al.，2010;Merbold et al.，2014;Schipper et al.，2014; Rutledge et al.,2015),with the balance tightly linked to management regime,including fertilizer application, rotation and grazing regime (Smith,2014),with changes in management causing grasslands to switch from a source to a sink (Merbold et al.,2014).Grassland management practices such as fertilization，grazing and mowing lead to large $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C H } _ { 4 }$ emissions which counterbalance this $\\mathrm { C O } _ { 2 }$ sink (Ciais et al.，2010;Imer et al.,2013). For our particular site, $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C H } _ { 4 }$ contributed little to GHG balance of either land use and both were present in small quantities.Interestingly, grassland was a net source of $\\mathrm { C H } _ { 4 } ,$ whereas SRC willow was a net sink,but the fluxes were small. SRC willow has been found to be a net sink for $\\mathrm { C H } _ { 4 }$ in other studies toa similar extent to that found here (Drewer et al., 2012;Kern et al.，2012).For both sites,there was an effect of soil moisture,and a significant interaction for soil moisture and soil temperature on $\\mathrm { C H } _ { 4 }$ fluxes,confirming a number of other studies in bioenergy crops (Drewer et al.，2012;Kern et al.，2012) and grasslands (Kammann et al.,2001;Imer et al.,2013).Future climate changesmayresultin theneed for fertilizer to maintain yields in SRC willow，which may lead to an altered GHG balance due to subsequent $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Here，we found that grassland had significantly higher soil carbon stocks than the SRC willow up to $3 0 \\ \\mathrm { c m }$ with a similar trend at $1 \\mathrm { ~ m ~ }$ depth. Sampling depth is a recurrent problem in studies which attempt to quantify soil carbon (Dolan et al.,20o6;Blanco-Canqui & Lal, 20o8) and it is essential that the whole profile issampled to draw robust conclusions (Harrison et al., 2011)．At this particular site，the higher soil carbon observed in grassland may be attributable to the amount of organic material left on the soil surface after mowing (Post & Kwon,2000) and may not be widely representative of much managed rotational grassland. In grassland,on average, $4 4 5 \\pm 4 8 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ of organic material was left on the soil surface after mowinghowever in SRC willow,annual litter fall reached a maximum of $2 9 2 \\pm 1 2 . 5 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ in 2013.There have been reports in the literature of both increased soil carbon under SRC compared to grassland (Zan et al., 2001;Arevalo et al.,20o9),as well as others which have found no significant difference (Grigal & Berguson, 1998;Walter et al.，2015).Walter et al. (2015),from a chronosequence of SRC sites,suggested that this transition results in a redistribution of carbon through the profile,despite total SOC stock not being significantly different. After 7 years postconversion，we may be beginning to see redistribution of C in the soil profile. We found that at the two grasslands sites $5 9 \\%$ and $9 6 \\%$ carbon was stored in the top $3 0 \\ \\mathrm { c m } ,$ whereas in SRC willow $5 4 \\%$ carbon was stored in the top $3 0 \\ \\mathrm { c m }$ of the whole $1 0 0 ~ \\mathrm { c m }$ profile.Whilst these differences are not large,the transition may still be at the early stages of C redistribution through the soil profile,though further data would be required to confirm this postulation. Chronosequence data also suggest that after initial conversion from grassland to SRC willow,there can be a loss of soil carbon for up to 5 years,which is followed byrecovery up to 19 years (Pacaldo et al.,2013b).Our site is only 7 years postconversion and therefore is likely still in the recovery phase with respect to soil carbon. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Onelimitation of this study is the lack of measured root biomass in the SRC willow system，which may haveresulted in an underestimation of the SRC willow sink postharvest.However,the calculated values in this study are in line with empirical findings recently publishedby Cunniff etal.(2o15);therefore,weareable to use these estimated with some confidence.This demonstrates one of the challenges of working in a commercial system where restrictions to experimental measurements are imposed by the commercial regime. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Capturing the effects of a commercial harvest on the soil and ecosystem GHG balance was important since harvesting is recognized as one of the most energy intensive stages of the SRC willow life cycle due to the large consumption of diesel fuel (Murphy et al.,2014) and relatively little is known about the effects on the GHG balance in SRC willow (Vanbeveren et al., 2015). From our study,we have shown that whilst there is an increase in $R _ { \\mathrm { e c o } } ,$ and subsequently NEE after the harvest,within3weeks ofharvest, the sitewasreturned to being a sink for carbon.The observed increase in NEE is comparable to that observed by Zenone et al. (2015) for the 2nd year postestablishment of an SRC poplar plantation; indicating the effect of disturbance on NEE. LCA findings have shown that whilst the harvest can increase emissions due to the harvest machinery，the carbon sink created by SRC willow is able to offset these emissions and result in a negative GHG balance (reported in the range of $- 1 3 8$ to $- 5 3 \\mathrm { ~ k g ~ C O } _ { 2 }$ eq. per odt biomass; Caputo et al.,2014).We also observed a oneoff peak in $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions,2 months postharvest, which was the largest emission,observed across both sites for the duration of the experiment.In contrast, other studieshaveobservedlittleeffectofharvest on $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions from SRC cultures(Zona et al.，2013b).It is possible that this emission arose as a result of increased soil exposure after harvest and increased rainfall in May and June 2014，relative to 2013.It is also possible that there was some compaction due to the harvest machinery which can cause a reduction in soil porosity, in turn resulting in increased $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions. Soil $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes are known to vary spatially and temporally and to arise quickly after changes in rainfall, temperature and management (Skiba & Smith, 2000). $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions, therefore, require more intense monitoring to be able to capture these emissions，since a single large emission can account for a large proportion of total $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes overa measurement period (Zona et al.,2013b). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,we have shown that LUC to SRC willow from grassland can result in reduced GHG emissions.In the minimally managed site studied here, where harvested grass remained on the field,we found that grassland was a net carbon source and SRC willow anet carbon sink,7 yearsafter land conversion.However，soil carbon stocks were likely still in recovery as soil C at the SRC site remained significantly lower than grassland,even after this amount of time postestablishment.Whilst grasslands have been shown to be highly variable, there is evidence that this LUC may result in climate mitigation advantages and may be considered a viable bioenergy option for the future. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank Andrew Ramsden and Richard Ramsden for allowingus to establish our experiment on their farm. We would also like to thank Mathew Tallis,Maud Viger, Caitriona Murray，Suzanne Milner，Billy Valdes，Alan Foy, EmilyClark(CEH) andmembersofTaylorlab fortheir technical assistance. This work was funded by Energy Technologies Institute (ETI)，Carbo-BioCrop(www.carbobiocrop.ac.uk;a NERC funded project;NE/H010742/1)，UKERC (funded as part of the flexible research fund of UKERC，NERC;NE/ H013237/1),MAGLUE (www.maglue.ac.uk;an EPSRC funded project; EP/M013200/1) and as part of the Seventh Framework For Research Programme of the EU,within the EUROCHAR project (N 265179). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Allwright MR, Taylor G (2016) Molecular breeding for improved second generation bioenergy crops.Trends in Plant Science,21,43-54.   \nAnderson-Teixeira KJ,SnyderPK,Twine TE,Cuadra SV,Costa MH,Delucia EH (2012) Climate-regulation services of natural and agricultural ecoregions of the Americas. Nature Climate Change,2,177-181.   \nArevalo CBM,Bhati JS,Chang SX, Sidders D (2009)Ecosystem carbon stocks and distribution under different land-uses in north central Alberta,Canada.Forest Ecology andManagement,257,1776-1785.   \nArevalo CBM, Bhatt JS, Chang SX,Sidders D (2011) Land use change effects on ecosystem carbon balance: from agricultural to hybrid poplar plantation. Agriculture,Ecoy $\\mathcal { E }$ Environment,141,42-49.   \nAubinet M,Grelle A, Ibrom A (2ooo) Estimates of the annual net carbonand water exchange of European forests: the EUROFLUX methodology.Adoances in Ecological Research,30,114-175.   \nBatesD,Maechler M,Bolker B,Walker S (2014) lme4: Linear mixed-effects models using Eigen and S4.R package version 1.1-7.Available at: http://CRAN.R-project.org/package=lme4 (accessed May 2015).   \nBellamy PH,LovelandPJ,Bradley RI,Lark RM,Kirk GJD (2005)Carbon losses from all soilsacrossEngland and Wales 1978-2003. Nature, 437,245-248.   \nBlanco-Canqui H,Lal R (2oo8) No-tillageand soil-profile carbon sequestration: an on-farmassessment.Soil Science Society ofAmerica Journal,27,693-701.   \nBridgeman TG,JonesJM,ShieldI, WilliamsPT (2o08) Torrefactionofreedcanary grass,wheat straw and willow to enhance solid fuel qualities and combustion properties.Fuel, 87,844-856.   \nBroeckx LS, Verlinden MS,Berhongaray G, Zona D,Fichot R, Ceulemans R (2014) The effect of a dry spring on seasonal carbon allocation and vegetation dynamics ina poplar bioenergyplantation. Global Change Biology Bioenergy,6,473-487.   \nBuchholz T,Prisley S,Marland G, Canham C, Sampson N (2014) Uncertainty in projecting GHG emissions frombioenergy.Nature ClimateChange,4,10451047.   \nCannell MGR (2003) Carbon sequestration and biomass energy offset: theoretical, potential and achievable capacities globally,in Europe and the UK. Biomass and Bioenergy,24,97-116.   \nCaputo J, Balogh S, Volk T,Johnson L,Puettmann M,Lippke B,Oneil E (2014) Incorporating uncertainty into a life cycle assessment (LCA) model of short-rotation willow biomass (Salix spp.) crops. BioEnergy Research,7,48–59.   \nCase SDC,McNamara NP,Reay DS,Whitaker J(2014) Can biochar reduce soil grenhouse gas emissions from a Miscanthus bioenergy crop? Global Change Biology Bioenergy,6,76-89.   \nChapin FS II, Woodwell GM,Randerson JT et al.(2006) Reconciling carbon-cycle concepts, terminology,and methods. Ecosystems,9,1041-1050.   \nCherubini F, Bird ND,Cowie A, Jungmeier G, Schlamadinger B,Woess-Gallasch S (2009)Energy-and greenhouse gas-based LCA of biofuel and bioenergy systems: key issues,ranges and recommendations.Resources,Conseroation and Recycling, 53, 434-447.   \nCiais P,Soussana JF, Vuichard N et al.(201o) The greenhouse gas balance of European grasslands. Biogeosciences Discussions,7,5997-6050.   \nCrawley MJ (2007) The R Book.Wiley Publishing,England.ISBN 13:978-0-470- 51024-7.   \nCreutzigF,PopAevnR,udererG,inJEdenofer0Rol top-down and bottom-up modelling on future bioenergy deployment. Nature Climate Change,2,320-327.   \nCunnif J,Purdy SJ,BarracloughTJPet al.(2015)High yielding biomassgenotypes of willow (Salix spp.) show differences in below ground biomass allocation. Biomass andioenergy,7.   \nDauber J,Jones MB,Stout JC(2010)The impact of biomasscropcultivationon temperatebiodivesityoblageoogeeg   \nDECC (2014)Life Cycle Impacts of BiomassElectricity in2020.Departmentof Energy & Climate Change, London; 24 July 2014. 154p URN 14D/243.   \nDEFRA (2014) Areaof Crops Grown for Bioenergy in England and theUK:2008-2013. Department for Environment, Food and Rural Affairs,York, UK.   \nDEFRA,SEERAD,DARD,DEPC (2007) Agriculture in the United Kingdom 2006.The Stationery Office, London.   \nDimitriou I, Mola-Yudego B,Aronsson P,Eriksson J (2012) Changes in organic carbon and trace elements in the soil of willow short-rotation coppice plantations. BioEnergy Research,5,563-572.   \nDolan MS, Clapp CE,Allmaras RR,Baker JM, Molina JAE (2006)Soil organic carbon and nitrogen in a Minnesota soil as related to tillage,residue and nitrogen management.SoilandTillageResearch,89,221-231.   \nDon A,Osborne B,Hastings A et al.(2012) Land-use change to bioenergy production in Europe: implications for the greenhouse gas balance and soil carbon. Global Change Biology Bioenergy,4,7-391.   \nDornburg V,Van Vuuren D,Van De Ven G et al. (201o) Bioenergy revisited: key factors in global potentials of bioenergy.Energy& Environmental Science,3,258-267.   \nDrewer J,Finch JW,Lloyd CR, Baggs EM,Skiba U (2012) How do soil emissions of $\\mathrm { N } _ { 2 } \\mathrm { O } ,$ （204 $\\mathrm { C H } _ { 4 }$ and $\\mathrm { C O } _ { 2 }$ from perennial bioenergy crops differ from arable annual crops?Global Change BiologyBioenergy,4,408419.   \nFahmiR,BridgwaterAV, Darvell LI, Jones JM,Yates N,Thain S,Donnison IS (2007) The effect of alkali metals on combustion and pyrolysis of Lolium and Festuca grasses,switchgrass and willow.Fuel,86,1560-1569.   \nFargione J,Hill J, Tilman D,Polasky S, HawthorneP (2o08) Land clearing and the biofuel carbon debt. Science,319,1235-1238.   \nFinkbeiner M(2014)Indirect landuse change-help beyond the hype? Biomass and Bioenergy,62,218-221.   \nForestry Commission (2002) PracticeNote:Establishment and Management of Short Rotation Coppice.FCPN7 (REVISED).Forestry Commission,Edinburgh.   \nGauder M, Buterbach-Bahl K,Graef-Honninger S,Claupein W,Wiegel R (2012) Soil-derived trace gas fluxes from different energy crops-results from a field experimentinSouthwestGermany.Global Change Biology Bioenergy,4,289-301.   \nGrigal DF, Berguson WE (1998)Soil carbon_changes associated with short-rotation systems.omssdioenergy4,7. uu Short Rotation Coppice (SRC)Willow for UK Power Stations.Unpublished,Doctor of Philosophy,The University of Leeds.   \nGuo LB,Gifford RM (2o02) Soil carbon stocks and land use change: a meta analysis. Global Change Biology,8,345360.   \nHanson PJ, Edwards NT,Garten CT,Andrews JA (2000) Separating root and soil microbial contributions to soil respiration: a review of methods and observations. Biogeochemistry,48,115-146.   \nHarris ZM,Spake R, Taylor G (2015) Land use change to bioenergy: a meta-analysis of soil carbon and GHG emissions.Biomass and Bioenergy,82,27-39.   \nHarrison RB, Footen PW, Strahm BD (2011) Deep soil horizons: contribution and importance to soil carbon pools and in assessing whole-ecosystem response to management and global change.Forest Science, 57,67-76.   \nHastings A,Tallis MJ, Casella E et al. (2014) The technical potential of Great Britain to produce ligno-cellulosic biomass for bioenergy in current and future climates. Global ChangeBiologyBoenergy,6,02.   \nHillier J,Whittaker C,Dailey G et al.(2009) Greenhouse gas emissions from four bioenergy crops in England and Wales: integrating spatial estimates of yield and soil carbon balance in lifecycle analyses.GCB Bioenergy,1,267-281.   \nHolland EA,Robertson GP,Greenberg J Grofman PM, Boone RD,Gosz JR (199) Soil $\\mathrm { C O } _ { 2 } .$ （2号 $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C H } _ { 4 }$ exchange.In: Standard Soil Methods for Long-Term Ecological Research (edsRobertson GP,Coleman DC,Bledsoe CS,SollinsP),pp.185-201. Oxford University press,Oxford, UK.   \nHolland RA,EigenbrodF,Muggeridge A,Brown G,Clarke D,Taylor G (2015)A synthesis of the ecosystem services impact of second generation bioenergy crop production.Renewable and Sustainable Energy Reviews,46,30-40.   \nImer D,Merbold L,Eugster W,Buchmann N(2013) Temporal and spatial variations of soil $\\mathrm { C O } _ { 2 }$ （204号 $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes at three differently managed grasslands.Biogeosciences,10,5931-5945.   \nIPCC (2007a) Fourth Assessment Report,Working Group III Report \"Mitigation of Climate Change\".Metz B,Davidson OR,Bosch PR, Dave R,Meyer LA (eds),Cambridge University Press,Cambridge, United Kingdomand New York,NY,USA.   \nIPCC (2007b) Climate Change 2007: Working Group I: The Physical Science Basis. Solomon S,Qin D,Manning M et al. (eds),Cambridge University Press,Cambridge, United Kingdom and New York,NY, USA.   \nJanssens IA，FreibauerA,Ciais P et al.(2003)Europe's terrestrial biosphere absorbs 7 to $12 \\%$ of European anthropogenic $\\mathrm { C O } _ { 2 }$ emissions. Science，300, 1538–1542.   \nJassl RS,Black TA,Arevalo C,Jones H, Bhatti JS,Sidders D(2013) Carbonsequstration and water use of a young hybrid poplar plantation in north-central Alberta. Biomass and Bioenergy,56,323-333.   \nKammann C,Grinhage L,Jager HJ, Wachinger $\\mathrm { G }$ (2001) Methane fluxes from diferentially managed grassland study plots: the important role of $\\mathrm { C H } _ { 4 }$ oxidation in grassland with a high potential for $\\mathrm { C H _ { 4 } }$ production. Environmental Polution,115, 261-273.   \nKeith AM,RoweRL,ParmarK,Perks MP,Mackie E,Dondini M,Mcnamara NP (2015) Implications of land-use change to Short Rotation Forestry in Great Britain for soil andbiomasscarbon.Global Change Biology Bioenergy,7,541-552.   \nKern J,Hellebrand H,Gommel M,Ammon C,Berg W (2012) Effects of climatic factors and soil management on the methane flux in soils from annual and perennial energy crops.Biologyand Fertility of Soils,48,1-8.   \nKort J, Collins M, Ditsch D (1998)A review of soil erosion potential associated with biomass crops.Biomass and Bioenergy,14,351-359.   \nLaurent A,Pelzer E,Loyce C,Makowski D (015) Ranking yields of energy crops: a meta-analysis using direct and indirect comparisons. Renewable and Sustainable Energy Reviews,46,41-50.   \nLaw BE,Falge E,Gu L et al. (2002) Environmental controls over carbon dioxide and water vapor exchangeof terestrial vegetation.Agriculturaland Forest Meteorology 113, 97–120.   \nLovett A,Sunnenberg G,Dockerty T(2014) The availability of land forperennial energy crops in Great Britain.Global Change Biology Bioenergy,6,99-107.   \nManning P,TaylorG,Hanley M (20l5) Bioenergy,food production and biodiversity -an unlikely alliance? Global Change Biology Bioenergy，7,570-576.   \nMathews R,SokkaLSoimakallioSetal. (2O14)Reviewofliteratureonbiogenicar bon and life cycle assessment of forest bioenergy.Final Task 1 report, DG ENER project,CarbonimpactsofbiomassconsumedintheEU ${ } ^ { 3 0 0 } \\mathrm { P P }$ ，   \nMelillo JM,ReillyJM,KicklighterDWetal. (2o09)Idirect emissions frombiofuels: how important? Science,326,1397-1399.   \nMerbold L,EugsterW,Stieger J, Zahniser M,Nelson D,Buchmann N (2014) Greenhouse gas budget $\\scriptstyle ( \\mathbf { C O } _ { 2 } ,$ （20 $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ of intensively managed grassland following restoration. Glohal Chanoe Binlnou. 20. 1913–1928.   \nMet UIce (∠Uiə) Cmate Sumaries Kegional vaiues. Avauadie at: nttp:// www.metofice.gov.uk/climate/uk/summaries/datasets (accessed 5 June 2015).   \nMilner S,HollandRA,LovetAetal.(0l5)Potential impactsonecosystemservices of land use transitions to second generation bioenergy crops in GB. Global Change BiologyBioenergy,,.   \nMurphy F, Devlin G,McdonnellK(2014) Energy requirementsand environmental impacts associated with the production of short rotation willow (Salix sp.) chip in Ireland.GlobalChangeBiologyBioenergy,6,7739.   \nNikiema P,Rothstein DE,Millr RO (2012) Initial greenhouse gas emissons and nitrogen leaching losses associated with converting pastureland to short-rotation woody bioenergy crops in northern Michigan, USA.Biomass and Bioenergy，39, 413-426.   \nOstle NJ, Levy PE,Evans CD et al. (209)UK land use and soil carbon sequestration. Land Use Policy,26S,S274–283.   \nPacaldo R, Volk T,Briggs R (2013a)Greenhouse gas potentials of shrub willow biomass crops based on below-and aboveground biomass inventory along a 19-year chronosequence.BioEnergy Research,6,62.   \nPacaldo RS,Volk TA,Briggs RD (2013b)No significant diferences in soil organic carbon contents along a chronosequence of shrub willow biomass crop fields. Biomass andienergy8,42.   \nPalmer MM,Forester JA,Rothstein DE,Mladenoff DJ (2014) Establishment phase greenhouse gas emissions in short rotation woody biomass plantations in the NorthenLetateUe   \nPitt MD,Heady HF (1978) Responses of annual vegetation to temperature and rainfall patterns in northern California.Ecology,59,336-50.   \nPontaller JY,Ceulemans R,Guittet J, MauF(1997) Linear and non-linear functions of volume index to estimate woody biomass in high density young poplar stands. Annals ofForest Science,54,35-45.   \nPost WM, Kwon KC(20o)Soil carbon sequestration and land-use change: processes and potential. Global Change Biology,6,317-327.   \nQin Z,Dunn JB,Kwon H,Mueller S,Wander MM (2015) Soil carbon sequestration and land use change associated with biofuel production: empirical evidence. Global Change Biology Bioenergy,8,66-80.   \nQun D,Huizhi L (2013) Seven years of carbon dioxide exchange over a degraded grassland and a cropland with maize ecosystems in a semiarid area of China. Agriculture,sem&omt   \nRCore Team (2O15)R:A Language and Environment for Statistical Computing.R Foundation for Statistical Computing,Vienna,Austria.Availableat: http://www.Rproject.org/.   \nRae AM,RobinsonKM, Street NR,Taylor G (004) Morphological and physiological traits influencing biomass productivity in short-rotation coppice poplar. Canadian JournalofForestResearch,34,488149.   \nRaich JW,Schlesinger WH (1992) The global carbon dioxide flux in soil respiration and its relationship to vegetation and climate. Tellus, 44B,81-99.   \nRaich JW,PotterCS,Bhagawati D (2o02) Interannual variability in global soil respiration,1980-94.Global Change Biology,8,0012.   \nReichstein M,Falge E,Baldocchi Det al.(2005)On theseparation of net ecosystem exchange into asimilation and ecosystem respiration: review and improved algorithm.GlobalCangeology,1,9.   \nReichstein M,Stoy PC,Desai AR,Richardson AD (2012) Partitioning of net fluxes.In: Eddy Cooaiance:A Practical Guide to Measurement and Data Analysis (eds Aubinet M,Vesala T,Papale D).Springer Atmospheric Sciences，Dordrecht,Netherlands.   \nRobson MJ,Ryle GJA,WoledgeJ(1988)The grassplant-its formand function.In: The Grass Crop (edsJones M,LazenbyA),pp.25-84.Springer,Dordrecht,Netherlands.   \nRowe RL, Street NR,Taylor G (2o09)Identifying potential environmental impactsof large-scale deployment of dedicated bioenergy crops in the UK.Renewable and SustainableEnergyReiews,,90   \nRowe ${ \\mathrm { R L } } ,$ Keith AM,Elias D, Dondini M,Smith P,Oxley J, McNamara NP (2016) Initial soil C and land use history determine soil C sequestration under perennial bioenergy crops. Global Change Biology Bioenergy,doi: 10.1111/gcbb.12311.   \nRuimy A,Jarvis PG, Baldocchi DD,Saugier B(1995) $\\mathrm { C O } _ { 2 }$ fluxes over plant canopies and solarradiation.A review.Adoances in Ecological Research,26,1-68.   \nRutledge S, Mudge PL, Campbell DI et al. (2015) Carbon balance of an intensively grazed temperate dairy pasture over four years.Agriculture, Ecosystems $\\mathcal { E }$ Environment, 206,10-20.   \nSabbatini S,Arriga N,Bertolini Tetal. (2015)Greenhouse gas balance of cropland conversiontobioenergypoplarshortrotationcoppice.BiogeosciencesDiscusios, 12, 8035–8084.   \nSala OE,ChapinFS II,Armesto JJ et al. (2oo)Global biodiversity scenariosfor the vear 2100.Science,287,1770–1774.   \nSannigrahi P,Ragauskas AJ, Tuskan GA (2010) Poplar as a feedstock for biofuels: a review of compositional characteristics.Biofuels,Bioproducts and Biorefining,4,209 226.   \nSchipper LA,Parfitt RL,Fraser S,Litler RA,Baisden WT,Ross $\\mathsf { C }$ (2014) Soil order and grazing management effects on changes in soil Cand N in New Zealand pastures.Agriculture,Ecoystems& nironment,84,67-75.   \nScurlock JMO,Hall DO (1998) The global carbon sink: a grassland perspective. Global Change Biology,4,229-233.   \nSearchinger T,Heimlich R,Houghton RA et al. (20o8) Use of U.S.croplands for biofuels increases greenhouse gases through emissions from land-use change. Science,319,1238–1240.   \nShao J, Zhou $\\scriptstyle \\mathbf { X } ,$ Luo Y et al.(2O15) Biotic and climatic controls on interannual variability in carbon fluxes across terrestrial ecosystems.Agricultural and Forest Meteorology,205, 11-22.   \nSkiba U,Smith KA (2ooo) Thecontrol of nitrous oxideemissions from agricultural and natural soils.Chemosphere-Global Change Science,2,379-386.   \nSmit HJ,Metzger MJ, Ewert F (2Oo8) Spatial distribution of grassland productivity and land use in Europe.Agricultural Systems,98,208-219.   \nSmith P (2014) Do grasslands act as a perpetual sink for carbon? Global Change Biology,20,2708-2711.   \nSmith KA,Mullins CE (eds) (20o0) Soil and Environmental Analysis:Physical Methods (2nd edn). CRC Press, New York.   \nSoussana JF,Allard V,Pilegaard K et al. (2oo7) Full accounting of the greenhouse gas $\\scriptstyle ( \\mathbf { C O } _ { 2 } ,$ $\\mathrm { N } _ { 2 } \\mathrm { O } ,$ $\\mathrm { C H } _ { 4 } )$ budget of nine European grassland sites.Agriculture,Ecosystems $\\mathcal { E }$ Environment, 121, 121-134.   \nSoussana JF,Tallec T, Blanfort V (2010) Mitigating the greenhouse gas balance of ruminant production systems through carbon sequestration in grasslands.Animal, 4, 334–350.   \nSouza GM,Victoria R,Joly C,Verdade L (eds) (2015).Bioenergy& Sustainability: Bridging the Gaps,Vol 72.SCOPE,Paris.ISBN 978-2-9545557-0-6.   \nSt.Clair S,HilierJSmith P(20o8)Estimating the pre-harvest greenhousegas costs of energy crop production. Biomassand Bioenergy,32,42-452.   \nStoof C,Richards B, WoodburyPet al. (2015) Untapped potential: opportunitiesand challenges for sustainable bioenergy production from marginal lands in the Northeast USA. BioEnergy Research,8,482-501.   \nStyles D,Jones MB (20o7)Energycrops in Ireland:quantifying the potential lifecycle greenhouse gas reductions of energy-crop electricity. Biomass and Bioenergy, 31, 759–772.   \nTer-Mikaelian MT,Colombo SJ,Lovekin D et al. (2015) Carbon debt repayment or carbon sequestration parity? Lessons from a forest bioenergy case study in Ontario, Canada. GCB Bioenergy,7,704-716.   \nVanbeveren SPP, Schweier J, Berhongaray G,Ceulemans R (2015) Operational short rotation woody crop plantations: manual or mechanised harvesting? Biomass and Bioenergy,72,8-18.   \nVentura M,Alberti G,Viger M et al.(2015)Biochar mineralization and priming effect on SOM decomposition in two European short rotation coppices.Global Change Biology Bioenergy,doi: 10.1111/gcbb.12219.   \nVerlinden MS,Broeckx LS, Zona D et al. (2013) Net ecosystem production and carbon balance of an SRC poplar plantation during its first rotation. Biomass and Bioenergy,56,412-422.   \nWalter K, Don A,Flessa H (2015) No general soil carbon sequestration under Central European short rotation coppices.Global Change Biology Bioenergy,doi: 10.1111/ gcbb.12177.   \nZan CS,Fyles JW,Girouard P, Samson RA (2o01) Carbon sequestration in perennial bioenergy,annual corn and uncultivated systems in southern Quebec.Agriculture, Ecosystems $\\mathcal { E }$ Enuironment,86,5-144.   \nZatta A,Clifton-Brown J,Robson P,Hastings A,Monti A (2014) Land use change from $\\subset { 3 }$ grassland to C4 Miscanthus: effects on soil carbon content and estimated mitigation benefit after six years.Global Change Biology Bioenergy,6,360- 370.   \nZenone T,Fischer M,Arriga N et al. (2015) Biophysical drivers of the carbon dioxide,water vapor,and energy exchanges of a short-rotation poplar coppice.Agricultural and Forest Meteorology,209-210,22-35.   \nZona DJ, Janssens IA,Aubinet M, Gioli B, Vicca S,Fichot R,Ceulemans R (2013a) Fluxes of the greenhouse gases $\\scriptstyle ( \\mathbf { C O } _ { 2 } ,$ （ $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O } ;$ above a short-rotation poplar plantation after conversion from agricultural land.Agricultural and Forest Meteorology,169,100-110.   \nZona D,Janssens IA,Gioli B,Jungkunst HF, Serrano MC,Ceulemans R (2013b) $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes of a bio-energy poplar plantation during a two years rotation period. Global Change Biology Bioenergy,5,536-547. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the onlineversionof thisarticle: ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Figure S1. Timeline of experimental measures taken in grassland $( \\mathsf { G } ,$ green) and SRC willow (W,brown).   \nFigure S2.Percentage mass loss from leaf litter decompositionin SRC willow over 24 months.   \nFigure S3. Soil $\\mathrm { N } _ { 2 } \\mathrm { O }$ flux $\\mathrm { ( m g \\ N _ { 2 } O \\ m ^ { - 2 } \\ d a y ^ { - 1 } ) }$ for (a) grassland,(b) SRC willow and (c) both sites where grassland is shown as black circles and SRC willow is white circles. Monthly sampling took place from eight chambers per field,standard error shown.   \nFigure S4. Soil $\\mathrm { C H } _ { 4 }$ flux $\\mathrm { ( m g ~ C H _ { 4 } ~ m ^ { - 2 } ~ d a y ^ { - 1 } ) }$ for (a) grassland,(b) SRC willow and (c) both sites where grassland is shown as black circles and SRC willow is white circles. Monthly sampling took place from eight chambers per field,standard error shown.   \nTable S1.Root and stone content of grassland, SRC willow and initial grassland. $n = 1 5$ for $0 { - } 3 0 ~ \\mathrm { c m }$ cores and $n = 3$ （20 for $0 { \\mathrm { - } } 1 0 0 ~ { \\mathrm { c m } }$ cores.   \nTable S2.Model selection: variables included in linear mixed models developed to explain variation in soil GHG flux.   \nTable S3.Output table of linear mixed models statistics on net ecosystem exchange data.   \nTable S4.Output table for minimum adequate model for soil $\\mathrm { C O } _ { 2 }$ flux.   \nTable S5.Output table for minimum adequate model for soil $\\mathrm { N } _ { 2 } \\mathrm { O }$ flux.   \nTable S6.Output table for minimum adequate model for soil $\\mathrm { C H } _ { 4 }$ flux. ",
+        "page_idx": 15
+    }
+]

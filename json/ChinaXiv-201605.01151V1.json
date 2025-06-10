@@ -1,0 +1,479 @@
+[
+    {
+        "type": "text",
+        "text": "Higgs pair production with SUSY QCD correction: revisited under current experimental constraints ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chengcheng Han $\\cdot ^ { 1 }$ ， Xuanting Ji $^ { 1 , 2 }$ ，Lei Wu $^ 3$ ， Peiwen Wu $^ { 1 }$ ， Jin Min Yang $^ { 1 }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（20 $^ { 1 }$ State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Academia Sinica， Beijing 100190, China （20 $^ 2$ Institute of Theoretical Physics， College of Applied Science, Beijing University of Technology， Beijing 100124， China （204 $^ 3$ ARC Centre of Excellence for Particle Physics at the Terascale, School of Physics， The University of Sydney， NSW 2006, Australia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We consider the current experimental constraints on the parameter space of the MSSM and NMSSM. Then in the allowed parameter space we examine the Higgs pair production at the 14 TeV LHC via $b b  h h$ （ $h$ is the 125 GeV SM-like Higg boson) with one-loop SUSY QCD correction and compare it with the production via $g g  h h$ . We obtain the following observations: (i） For the MSSM the production rate of $b b  h h$ can reach 5O fb and thus can be competitive with （204号 $g g  h h$ ，while for the NMSSM $b b  h h$ has a much smaller rate than $g g  h h$ due to the suppression of the $h b b$ coupling; (ii) The SUSY-QCD correction to $b b  h h$ is sizable,which can reach 45% for the MSSM and $1 5 \\%$ for the NMSSM within the $1 \\sigma$ region of the Higgs data; (ii) In the heavy SUSY limit (allsoft mass parameters become heavy), the SUSY effects decouple rather slowly from the Higgs pair production (especially the $g g  h h$ process)，which， for $M _ { \\mathrm { S U S Y } } = 5$ （204号 TeV and $m _ { A } < 1$ TeV,can enhance the production rate by a factor of 1.5 and 1.3 for the MSSM and NMSSM, respectively. So,the Higgs pair production may be helpful for unraveling the effects of heavy SUSY. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The discovery of a Higgs boson at around 125 GeV has been announced by the ATLAS and CMS collaborations [1]. Up to now, the measurements of the Higgs boson properties are in good agreement with the Standard Model (SM) predictions except for the enhanced diphoton rate $\\sigma / \\sigma _ { S M } = 1 . 6 5 _ { - 0 . 3 0 } ^ { + 0 . 3 4 }$ reported by the ATLAS collboration. The future precise measurements will further test the SM and allow for a probe for new physics like supersymmetry (SUSY) which is a promising framework to accommodate such a 125 GeV Higgs boson [2-6]. Therefore, the intensive studies of the Higgs productions and decays are very important and urgent. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Among the productions of the Higgs boson at the LHC, the pair production is a rare process but quite important since it can be used to measure the Higgs self-couplings [7]. On the experimental side, the discovery potential of Higgs pair signal at the LHC has been studied by analyzing the decay channels $h h  b b \\gamma \\gamma / b b \\mu ^ { + } \\mu ^ { - }$ [8]. Recently, the jet substructure technique was applied to the Higgs pair production in the boosted final states[9], such as $h h  b b \\tau ^ { + } \\tau ^ { - } / b b W ^ { + } W ^ { - }$ [10-12],which was found to be powerful in observing the events at the 14 TeV LHC with $6 0 0 ~ \\mathrm { f b ^ { - 1 } }$ integrated luminosity [12]. On the theoretical side, in the SM the main pair production mechanism is found to be the gluon fusion $g g  h h$ （204号 via heavy quark loops [13,14]. Numerous studies have also been performed for Higgs pair production in new physics models [15-22]. Note that although the bottom quark annilation （204号 $b b  h h$ has a much smaller rate than the gluon fusion process in the SM [23, 24], it can be significantly enhanced via the enlarged $h b b$ coupling in new physics models like the Minimal Supersymmetric Standard Model (MSSM) [25]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work, we revisit the Higgs pair production in SUSY for two reasons. One is that the sizable SUSY-QCD correction must be considered for $b b  h h$ ， which has been presented in the MSSM but not in the NMSSM [26,27]. The other is that the studies should be updated by using the latest experimental constraints including the recent LHC Higgs data, the LHCb $B _ { s } \\to \\mu ^ { + } \\mu ^ { - }$ data and the Planck dark matter relic density. It is also notable that the masses of the third generation sparticles involved in the SUSY-QCD correction to $b b  h h$ have been pushed up to a few hundred GeV by the LHC direct searches [28]. So the size of such a correction will be quite different from the previous results in the literature [25, 29]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In Section II we briefly review the Higgs sectors in the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MSSM and NMSSM and give a description of the analytic calculation of the SUSY-QCD correction. Then in Section III we present the numerical results of Higgs pair production at the LHC and discuss the SUSY-QCD residual efects in the heavy sparticle limit. Finally, we draw the conclusion in Section IV. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II.A DESCRIPTION OF MODELS AND ANALYTIC CALCULATIONS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the MSSM there are two complex Higgs doublets, $H _ { u }$ and $\\textstyle H _ { d }$ ， which give rise to five physical Higgs bosons: two CP-even $( h , H )$ ，one CP-odd（ $A$ ） and a charged pair ( $H ^ { \\pm }$ ） Due to the $\\mu$ term appearing in the superpotential, the MSSM suffers from the $\\mu$ -problem. Besides,in order to give a 125 GeV SM-like Higgs boson, large corrections to the Higgs mass from heavy stops is needed,which will lead to the little fine tuning problem . To overcome these diffculties， we can go beyond the MSSM. One alternative is the NMSSM, which introduces a singlet Higgs field. In the NMSSM the $\\mu$ term does not appear in the superpotential. Instead, it is generated when the singlet Higgs field develops a vev. Also, the SM-like Higgs boson gets an extra tree-level mass from the mixing with the singlet field and thus the stops are not necessarily heavy to push up the Higgs mass, which alleviates the little fine-tuning problem[30-32]. In the NMSSM the singlet Higgs field mixes with the other two doublet scalars. Then the Higgs sector contains seven Higgs bosons,i.e., compared with the five Higgs bosons in the MSSM, the NMSSM contains one more CP-even and one more CP-odd Higgs bosons. In the following $H _ { 1 , 2 }$ denote the real scalar components of $H _ { d , u }$ in the MSSM and $H _ { 1 , 2 , 3 }$ denote the real scalar components of ${ { H } _ { d , u , s } }$ in the NMSSM. $\\tan \\beta \\equiv v _ { u } / v _ { d }$ （204号 is also used in our paper (here $\\textstyle H _ { d }$ ， $H _ { u }$ and $H _ { s }$ are the down-type, up-type and singlet Higgs fields, respectively). One can get the mass eigenstates from the CP-even states: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { { \\mathrm { M S S M } : \\quad h _ { i } = U _ { i j } H _ { j } } } & { { } { ( i , j = 1 , 2 ) , } } \\\\ { { \\mathrm { N M S S M } : h _ { i } = V _ { i j } H _ { j } } } & { { } { ( i , j = 1 , 2 , 3 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { U _ { i 1 } ^ { 2 } + U _ { i 2 } ^ { 2 } = 1 , V _ { i 1 } ^ { 2 } + V _ { i 2 } ^ { 2 } + V _ { i 3 } ^ { 2 } = 1 } \\end{array}$ and the $h _ { i }$ is aligned by mass. The singlet contribution is reflected by the rotation matrix elements $V _ { i 3 }$ via the formula $h _ { S M } = V _ { h _ { S M } 1 } H _ { 1 } + V _ { h _ { S M } 2 } H _ { 2 } +$ （204号 $V _ { h _ { S M } 3 } H _ { 3 }$ (a large $V _ { h _ { S M } 3 }$ means that $h _ { S M }$ has a considerable singlet component). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In our calculations,we follow the simplified ACOT prescription to deal with the $b$ -quark mass [34-36]. By including the QCD and SUSY-QCD efects to the bottom Yukawa cou",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "plings，we can respectively obtain the effective $h _ { i } b b$ couplings in the MSSM [37-45] and NMSSM[46]: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l l } { { \\mathrm { M S S M : } } } & { { y _ { h _ { i } b b } \\displaystyle  \\frac { g m _ { b } ^ { \\overline { { { D R } } } } } { 2 M _ { W } } \\displaystyle \\frac { U _ { i 1 } } { \\cos \\beta } \\Delta _ { b i } ^ { M S S M } } } & { { ( i = 1 , 2 ) , } } \\\\ { { \\mathrm { N M S S M : } } } & { { y _ { h _ { i } b b } \\displaystyle  \\frac { g m _ { b } ^ { \\overline { { { D R } } } } } { 2 M _ { W } } \\displaystyle \\frac { V _ { i 1 } } { \\cos \\beta } \\Delta _ { b i } ^ { N M S S M } } } & { { ( i = 1 , 2 , 3 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\Delta _ { b i } ^ { M S S M } = \\frac { 1 } { 1 + \\Delta _ { b } ^ { 1 } } \\left( 1 + \\Delta _ { b } ^ { 1 } \\frac { U _ { i 2 } } { U _ { i 1 } \\tan \\beta } \\right) ~ ( i = 1 , 2 ) , } \\\\ { \\displaystyle \\Delta _ { b i } ^ { N M S S M } = \\frac { 1 } { 1 + \\Delta _ { b } ^ { 1 } } \\left[ 1 + \\Delta _ { b } ^ { 1 } \\left( \\frac { V _ { i 2 } } { V _ { i 1 } \\tan \\beta } + \\frac { V _ { i 3 } v _ { d } } { V _ { i 1 } v _ { s } } \\right) \\right] ( i = 1 , 2 , 3 ) , } \\\\ { \\displaystyle \\Delta _ { b } = \\frac { 2 \\alpha _ { s } } { 3 \\pi } m _ { \\bar { g } } \\mu \\tan \\beta I ( m _ { b _ { 1 } } ^ { 2 } , m _ { \\bar { b } _ { 2 } } ^ { 2 } , m _ { \\bar { g } } ^ { 2 } ) } \\\\ { \\displaystyle \\Delta _ { b } ^ { 2 } = - \\frac { 2 \\alpha _ { s } } { 3 \\pi } m _ { \\bar { g } } A _ { b } I ( m _ { \\bar { b } _ { 1 } } ^ { 2 } , m _ { \\bar { b } _ { 2 } } ^ { 2 } , m _ { \\bar { g } } ^ { 2 } ) , \\displaystyle \\Delta _ { b } ^ { 1 } = \\frac { \\Delta _ { b } } { 1 + \\Delta _ { b } ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Here it should be noted that due to the contribution of the singlet field to the effective potential, an additional correction term $\\Delta _ { b } ^ { 1 } \\frac { V _ { i 3 } v _ { d } } { V _ { i 1 } v _ { s } }$ appears in the NMSSM. The $v _ { d }$ and $\\boldsymbol { v } _ { s }$ are the VEVs of the Higgs fields $H _ { u }$ and $H _ { d }$ respectively. The auxiliary function $I$ is defined as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( a , b , c ) = - { \\frac { 1 } { ( a - b ) ( b - c ) ( c - a ) } } ( a b \\ln { \\frac { a } { b } } + b c \\ln { \\frac { b } { c } } + c a \\ln { \\frac { c } { a } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": ". The value of $m _ { b } ^ { \\overline { { D R } } }$ is related to the QCD $\\mathrm { \\overline { { M S } } }$ mass $m _ { b } ^ { \\mathrm { \\overline { { M S } } } }$ （20 (which is usually taken as an input parameter [47]） by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { b } ^ { \\overline { { { D R } } } } ( \\mu _ { R } ) = m _ { b } ^ { \\overline { { { M S } } } } ( \\mu _ { R } ) \\left[ 1 - { \\frac { \\alpha _ { s } } { 3 \\pi } } - { \\frac { \\alpha _ { s } ^ { 2 } } { 1 4 4 \\pi ^ { 2 } } } ( 7 3 - 3 n ) \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $n$ is the number of active quark favors and $m _ { b } ^ { \\overline { { { M S } } } } ( \\mu _ { R } )$ is taken as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { b } ^ { \\overline { { \\mathrm { M S } } } } ( \\mu _ { R } ) = \\left\\{ \\begin{array} { l l l } { { U _ { 6 } ( \\mu _ { R } , m _ { t } ) U _ { 5 } ( m _ { t } , \\overline { { { m } } } _ { b } ) \\overline { { { m } } } _ { b } ( \\overline { { { m } } } _ { b } ) } } & { { \\mathrm { f o r } } } & { { \\mu _ { R } > m _ { t } } } \\\\ { { U _ { 5 } ( \\mu _ { R } , \\overline { { { m } } } _ { b } ) \\overline { { { m } } } _ { b } ( \\overline { { { m } } } _ { b } ) } } & { { \\mathrm { f o r } } } & { { \\mu _ { R } \\leq m _ { t } . } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When $Q _ { 2 } > Q _ { 1 }$ , the evolution factor $U _ { n }$ reads ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { n } ( Q _ { 2 } , Q _ { 1 } ) = \\left( \\frac { \\alpha _ { s } ( Q _ { 2 } ) } { \\alpha _ { s } ( Q _ { 1 } ) } \\right) ^ { d _ { n } } \\left[ 1 + \\frac { \\alpha _ { s } ( Q _ { 1 } ) - \\alpha _ { s } ( Q _ { 2 } ) } { 4 \\pi } J _ { n } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { n } = \\frac { 1 2 } { 3 3 - 2 n } , J _ { n } = - \\frac { 8 9 8 2 - 5 0 4 n + 4 0 n ^ { 2 } } { 3 ( 3 3 - 2 n ) ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since the $\\Delta _ { b }$ -related corrections have already been included into the tree-level contribution,we need the following counter terms to subtract them to avoid double counting in the one-loop calculations [37] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { M S S M : } \\quad \\delta \\tilde { m } _ { b } ^ { h _ { i } } = m _ { b } ^ { \\overline { { D R } } } \\left( 1 - \\frac { U _ { i 2 } } { U _ { i 1 } \\tan \\beta } \\right) \\Delta _ { b } ^ { 1 } , \\quad ( i = 1 , 2 ) , } \\\\ & { \\mathrm { N M S S M : } \\quad \\delta \\tilde { m } _ { b } ^ { h _ { i } } = m _ { b } ^ { \\overline { { D R } } } \\left( 1 - \\frac { V _ { i 2 } } { V _ { i 1 } \\tan \\beta } - \\frac { V _ { i 3 } v _ { d } } { V _ { i 1 } v _ { s } } \\right) \\Delta _ { b } ^ { 1 } , \\quad ( i = 1 , 2 , 3 ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For SUSY-QCD corrections to $b b  h h$ ，the sbottoms and gluino are involved in the loops. The sbottom mass matrix is given by [48] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { \\tilde { b } } ^ { 2 } = \\left( \\begin{array} { c c } { { m _ { \\tilde { b } _ { L } } ^ { 2 } } } & { { m _ { b } X _ { b } ^ { \\dagger } } } \\\\ { { m _ { b } X _ { b } } } & { { m _ { \\tilde { b } _ { R } } ^ { 2 } } } \\end{array} \\right) ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { m _ { \\tilde { b } _ { L } } ^ { 2 } = m _ { \\tilde { Q } } ^ { 2 } + m _ { b } ^ { 2 } - m _ { Z } ^ { 2 } ( \\frac { 1 } { 2 } - \\frac { 1 } { 3 } \\sin ^ { 2 } \\theta _ { W } ) \\cos ( 2 \\beta ) , } } \\\\ { { } } & { { } } & { { m _ { \\tilde { b } _ { R } } ^ { 2 } = m _ { \\tilde { D } } ^ { 2 } + m _ { b } ^ { 2 } - \\frac { 1 } { 3 } m _ { Z } ^ { 2 } \\sin ^ { 2 } \\theta _ { W } \\cos ( 2 \\beta ) , } } \\\\ { { } } & { { } } & { { X _ { b } = A _ { b } - \\mu \\tan \\beta . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After diagonalizing Eq.(13)， we can obtain the sbottom masses $^ { \\prime \\prime } { } ^ { l \\tilde { l } _ { \\tilde { b } _ { 1 , 2 } } }$ and the mixing angle $\\theta _ { \\tilde { b } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { m _ { \\tilde { b } _ { 1 , 2 } } = \\displaystyle \\frac { 1 } { 2 } \\left[ m _ { \\tilde { b } _ { L } } ^ { 2 } + m _ { \\tilde { b } _ { R } } ^ { 2 } \\mp \\sqrt { \\left( m _ { \\tilde { b } _ { L } } ^ { 2 } - m _ { \\tilde { b } _ { R } } ^ { 2 } \\right) ^ { 2 } + 4 m _ { b } ^ { 2 } X _ { b } ^ { 2 } } \\right] , } } \\\\ { { \\tan 2 \\theta _ { \\tilde { b } } = \\displaystyle \\frac { 2 m _ { b } X _ { b } } { m _ { \\tilde { b } _ { L } } ^ { 2 } - m _ { \\tilde { b } _ { R } } ^ { 2 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Feynman diagrams for one-loop SUSY-QCD corrections to $b b  h h$ has been represented in [29]. To preserve supersymmetry， we adopt the dimension reduction method to regulate the UV divergences in the gluino and squark loops. Then we use the on-shell renormalization scheme to remove these UV divergences. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "III. NUMERICAL STUDIES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A． A scan of parameter space ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We use NMSSMTools [49] and LoopTools [50] to perform a random scan over the parameter space and loop calculations. For simplicity, we assume an universal parameter $M _ { L 3 }$ （204号 for the slepton sector and fix all irrelevant soft parameters for first two generation of the squark sector to be 1 TeV. We also set $M _ { D 3 } = M _ { U 3 }$ and $A _ { b } = A _ { t }$ for the third generation of the squarks. Besides, we impose the grand unification relation of the gaugino masses, （204号 $3 M _ { 1 } / 5 \\alpha _ { 1 } = M _ { 2 } / \\alpha _ { 2 } = M _ { 3 } / \\alpha _ { 3 }$ ，and treat $M _ { 1 }$ as an input parameter. The parameter ranges in our scan are: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a)For the MSSM ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { 1 \\leq \\tan \\beta \\leq 6 0 , \\ 1 0 0 \\ \\mathrm { G e V } \\leq \\ M _ { A } \\leq 1 \\ \\mathrm { T e V } , \\ 1 0 0 \\ \\mathrm { G e V } \\leq \\mu \\leq } \\\\ & { \\mathrm { 1 0 0 ~ G e V } \\leq M _ { Q 3 } , M _ { U 3 } \\leq 2 \\ \\mathrm { T e V } , 1 0 0 \\ \\mathrm { G e V } \\leq M _ { L 3 } \\leq 1 \\ \\mathrm { T e V } } \\\\ & { | A _ { t } | \\leq 5 \\ \\mathrm { T e V } , \\ 5 0 \\ \\mathrm { G e V } \\leq M _ { 1 } \\leq 5 0 0 \\ \\mathrm { G e V } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(b) For the NMSSM ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { 0 . 5 \\leq \\lambda \\leq 0 . 7 , \\ 0 . 1 \\leq \\kappa \\leq 0 . 5 1 , \\ \\vert A _ { \\kappa } \\vert \\leq 1 \\ \\mathrm { T e V } } \\\\ & { 1 \\leq \\tan \\beta \\leq 1 0 , \\ 1 0 0 \\ \\mathrm { G e V } \\leq \\mu \\leq 6 0 0 \\ \\mathrm { G e V } , \\ 1 0 0 \\ \\mathrm { G e V } \\leq M _ { A } \\leq 1 \\ \\mathrm { 1 } } \\\\ & { 1 0 0 \\ \\mathrm { G e V } \\leq M _ { Q 3 } , M _ { U 3 } \\leq 2 \\ \\mathrm { T e V } , 1 0 0 \\ \\mathrm { G e V } \\leq M _ { L 3 } \\leq 1 \\ \\mathrm { T e V } } \\\\ & { \\vert A _ { t } \\vert \\leq 5 \\ \\mathrm { T e V } , \\ 5 0 \\ \\mathrm { G e V } \\leq M _ { 1 } \\leq 5 0 0 \\ \\mathrm { G e V } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In our scan we consider the following experimental constraints: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(i) The bounds for Higgs boson from the LEP, Tevatron and LHC experiments and require the SM-like Higgs mass to be in the range of 123 GeV $< m _ { h } < 1 2 7$ GeV;Here we require the surviving samples to explain the observable at $2 \\sigma$ level which has an experimental central value. For the LEP and Tevatron limits, the upper or lower bounds are implemented in our scan. For the LHC Higgs search of $H / A  \\tau \\tau$ [51] and （204 $H ^ { \\pm } \\to \\tau \\nu _ { \\tau }$ [52], we require the samples to satisfy the upper limits. (ii） The constraints from the precision electroweak data [53] and favor physics at $2 \\sigma$ level; (iii) The dark matter relic density from Plank at $3 \\sigma$ level and the limit of direct detection from XENON100 [54]; (iv） The explanation of muon $g - 2$ at $2 \\sigma$ level [55]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C ggF 100%0% 0%87.5%17%78% 87.5%87.5%87.5%97% 17% （20 $0 \\%$ （2014 78% 0% 0% 0% 0% 100%0%77.8%20.9%0% 10%10%7.1%% 1%4.. 8%10% 1%100%100%% 1000700% 0% 0% 0%0.5% 0% 0% 0.5%0.5%0.5% 0% 0% 0% 0% 0% 0%100% 0% 0% 0% 0.6% 0% 0% 7 6 5 4 3 aee 2 1 0 -1 -2 -3 H+H6STTAA AAITAATTAC HAYATTA pwenun'siia /ppFrrtser Tiataen m ZAAILAZZ SWJ'ZZ wAAAAAAA ww/'sh'mt wWwwwSH.SS HA'SWO'MM wheraaamm BTTTITT H'SWC'qq H'sSHqq praelling JT5:1TA [TT+TISITTI1H 1 l/0'/1 FT'LSTT HA'SNC'21 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In our scan, for each experimental data which has a central value, we require the samples to agree with the experimental data at $2 \\sigma$ level,except for the dark matter relic density which is required to agree with the measured value at $3 \\sigma$ level (we made such a choice just in order to be consistent with the analysis in the literature). For the LEP and Tevatron direct search bounds on sparticle masses, we just require the samples to satisfy such bounds. For the LHC Higgs search of $H / A  \\tau \\tau$ and $H ^ { \\pm } \\to \\tau \\nu _ { \\tau }$ ， we require the samples to satisfy the upper limits. The scan ranges of the parameters are large, we keep the samples survived various experimental constraints as stated above. Besides, we further require gluino mass larger than 1 TeV to avoid multi-jets search on SUSY[56]. However, we did not impose other LHC direct limits on sparticles for the following reasons. First,we required the first and second generations of squarks to be 1 TeV and the gluino beyond 1 TeV. But the latest LHC search results gave more stringent constraints on such squark and gluino mass (the most stringent bound is for the CMSSM, which is $m _ { \\tilde { g } } > 1 . 7$ TeV in case of $m _ { \\tilde { g } } \\simeq m _ { \\tilde { q } }$ and $m _ { \\tilde { g } } > 1 . 1$ （204号 TeV in case of $m _ { \\tilde { q } } \\gg m _ { \\tilde { g } }$ ). Actually, our results are not sensitive to these masses. Second, the current LHC limit is about 500-600 GeV for stop and 400-600 GeV for sbottom[57]. However, such limits were obtained in some simplified model or by assuming a certain decay branching ratio to be 10o%. In our case the stop and sbottom decays are quite complicated, which will weaken the LHC limits. Further, for electroweak gauginos and sleptons, the current LHC limits will also be weakened in our case for the same reason. After that we also require surviving samples to avoid Landau singularity at GUT scale and we checked that all of our surviving samples satisfy $\\sqrt { \\lambda ^ { 2 } + \\kappa ^ { 2 } } < 0 . 7 5$ in NMSSM. We note that a large $\\tan \\beta$ exist in the surviving samples of the MSSM, this is because that a 125 GeV neutral Higgs mass is guaranteed by a large $A _ { t }$ (which provides $X _ { t } / M _ { s }$ close to $\\sqrt { 6 }$ ）even for $\\tan \\beta$ （204 as large as 40. As for the favor constraints, we projected our samples onto the $\\tan \\beta$ versus the charged Higgs mass plane and found that when $\\tan \\beta$ increases the charged Higgs mass grows dramatically (especially, for $\\tan \\beta$ close to 40, the charged Higgs mass is heavier than 700 GeV） and thus can satisfy the flavor constraints. For the samples surviving the above constraints (i)-(iv),we further perform a fit by using the available Higgs data at the LHC. We define the Higgs signal strength $\\mu _ { i }$ as ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { i } = \\frac { \\Sigma _ { p } \\sigma _ { p } \\epsilon _ { p } ^ { i } } { \\Sigma _ { p } \\sigma _ { p } ^ { S M } \\epsilon _ { p } ^ { i } } \\frac { \\mathrm { B r } _ { i } } { \\mathrm { B r } _ { i } ^ { S M } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $p$ is the Higgs boson production mode and $i$ stands for the measured channels by Tevatron， ATLAS and CMS collaborations. For each production mode $p$ ， its contribution to the channel $i$ can be determined by the selection efficiency $\\epsilon _ { p } ^ { i }$ [58]. We summarize all experimental signal strength $\\mu _ { i } ^ { e x p }$ with their $1 \\sigma$ error-bars and selection effciencies in Fig.1. We can see that most measurement results are consistent with the SM predictions. The CMS and ATLAS collaborations also reported their observations of the Higgs mass $M _ { h } ^ { e x p }$ （20 [59]: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { h } ^ { e x p } = \\left\\{ \\begin{array} { l } { 1 2 5 . 8 \\pm 0 . 5 \\pm 0 . 2 \\mathrm { ~ G e V ~ } ( \\mathrm { C M S ~ } Z Z ) , } \\\\ { 1 2 5 . 4 \\pm 0 . 5 \\pm 0 . 6 \\mathrm { ~ G e V ~ } ( \\mathrm { C M S ~ } \\gamma \\gamma ) , } \\\\ { 1 2 4 . 3 \\pm 0 . 6 \\pm 0 . 5 \\mathrm { ~ G e V ~ } ( \\mathrm { A T L A S ~ } Z Z ) , } \\\\ { 1 2 6 . 8 \\pm 0 . 2 \\pm 0 . 7 \\mathrm { ~ G e V ~ } ( \\mathrm { A T L A S ~ } \\gamma \\gamma ) . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We use the combined Higgs mass $M _ { h } ^ { e x p } = 1 2 5 . 6 6 \\pm 0 . 3 4$ GeV[60]. The $\\chi ^ { 2 }$ definition in our fit is ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ^ { 2 } = \\sum _ { i = 1 } ^ { 2 2 } \\frac { ( \\mu _ { i } - \\mu _ { i } ^ { e x p } ) ^ { 2 } } { \\sigma _ { i } ^ { 2 } } + \\frac { ( M _ { h } - M _ { h } ^ { e x p } ) ^ { 2 } } { \\sigma _ { M _ { h } } ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma _ { i }$ and $\\sigma _ { M _ { h } }$ only denote the experimental errors. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "B. The cross section of $b b  h h$ with SUSY-QCD correction ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We use CTEQ6L1 and CTEQ6m [61] for the leading order and SUSY-QCD calculation, respectively. The renormalization scale $\\mu _ { R }$ and factorization scale $\\mu _ { F }$ basically can vary between $M _ { h } / 2$ and $2 M _ { h }$ . In order to compare our results with [29] where $\\mu _ { R } = \\mu _ { F } = M _ { h } / 2$ （20 is assumed, we also made this assumption in our calculation. The input parameters of the SM are taken as [62] ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { m _ { b } = 4 . 7 \\mathrm { ~ G e V } , m _ { t } = 1 7 3 . 1 \\mathrm { ~ G e V } , m _ { Z } = 9 1 . 1 9 \\mathrm { ~ G e V } , } \\\\ & { \\sin ^ { 2 } \\theta _ { W } = 0 . 2 2 2 8 , \\alpha _ { s } ( m _ { t } ) = 0 . 1 0 3 3 , \\alpha = 1 / 1 2 8 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e72b528de908d869ed4437d6aeffb3d7d7df4f6b82cc6f52d59fa806acc9bf0d.jpg",
+        "img_caption": [
+            "FIG. 2: The scatter plot of the parameter space satisfying the experimental constraints (i-iv), showing the hadronic cross sections of the SM-like Higgs pair productions via $b b$ annihilation （with SUSY QCD correction） and $g g$ fusion versus $M _ { A }$ and $\\tan \\beta$ at the 14 TeV LHC in MSSM and NMSSM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 2, we display the parameter space satisfying the experimental constraints (i-iv), showing the cross sections of the SM-like Higgs pair productions via $b b$ annihilation (with SUSY QCD correction) and gg fusion versus $M _ { A }$ at the 14 TeV LHC in MSSM and NMSSM. In this paper we aim to investigate the property of the $b b  h h$ production by including the SUSY QCD corrections. For the $g g \\  \\ h h$ production， we only calculate its cross section at one-loop level, not including the SUSY QCD corrections due to its small relative correction[63] comparing the SUSY QCD correction on $b b  h h$ process. We used our own codes and combined them with Looptools to do our calculation. We checked our results with [27] and found good agreement. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We checked that our results agree with[29] for $b b  h h$ and with [26] for the gluon fusion process.We can see that due to the constraints from the LHC and B-physics, such as $H / A \\to \\tau ^ { + } \\tau ^ { - }$ [51] and $B _ { s } \\to \\mu ^ { + } \\mu ^ { - }$ [64], the values of $m _ { A }$ must be larger than about 300 GeV. In the MSSM the maximal cross section can still reach 50 fb at 14 TeV LHC, which can be competitive with $g g  h h$ . However，we also notice that the hadronic cross section proceeding through $b b  h h$ deceases when $m _ { A }$ or $\\tan \\beta$ becomes large. The reason can be understood as follows. On the one hand, for a moderate $m _ { A }$ , the dominant contribution to （204号 $b b  h h$ comes from the resonant production $b b  H  h h$ . With the increase of $M _ { A }$ ，the mass of $H$ gets heavy and then the production rate of $b b  h h$ is suppressed. Besides, the coupling of $h h H$ will approach to zero for a large $m _ { A }$ and also leads to the reduction of the cross section. On the other hand, for a small tan $\\beta$ ， $H$ has a large branching ratio into a pair of Higgses $h h$ [65], for a large $\\tan \\beta$ , the production rate of $b b  H$ can be enhanced but the branch ratio of $H  h h$ is highly suppressed. So the total production rate of $b b  h h$ will become small.The decoupling behavior of the cross section proceeding through $g g  h h$ can be understood with the following considerations: To predict a 125 Gev Higgs boson, a large （204号 $A _ { t }$ is required,which induces a sizable SUSY effect for the process $g g  h h$ . $M _ { A }$ affects the process $g g  h h$ mainly through the Higgs mass $m _ { h }$ . So when we require $m _ { h }$ in the range of 123-127 GeV, the process $g g  h h$ is not sensitive to $M _ { A }$ . Further, since $g g  h h$ （204 is dominated by the stop loops, the value of $\\tan \\beta$ affects this process through the coupling （204号 $h \\tilde { t _ { i } } \\tilde { t _ { j } }$ . Because this coupling is not sensitive to $\\tan \\beta$ for our surviving points, our results depend weakly on $\\tan \\beta$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In NMSSM the SM-like Higgs boson $h$ with mass around 125 GeV can be either $h _ { 1 }$ or $h _ { 2 }$ However, we focus on the $h = h _ { 2 }$ scenario that is more welcomed by the naturalness. From ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 we can see that the maximal cross section of $b b  h h$ can only reach about 4 fb, which is much smaller than $g g  h h$ . We find that the suppression of $b b  h h$ in NMSSM mainly has two reasons. One is that in NMSSM the $\\tan \\beta$ value is around 3-5 which is much smaller than in MSSM which is always larger than 10. So the $\\tan \\beta$ enhancement on $h _ { i } b b$ coupling is not significant in NMSSM. The other reason is the $h _ { 3 } h _ { 2 } h _ { 2 }$ coupling is suppressed for most surviving points (the main reason is the cancelation of different contributions). Besides, in the NMSSM the 125 GeV Higgs mass requires a small $\\tan \\beta$ and a large $\\lambda$ . So the cross section of $b b  h h$ can hardly enhanced by $\\tan \\beta$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/d461e81ff80847d3f9ae92679f550fb74d4095d8a8a6a88c73c909afb6b45a5b.jpg",
+        "img_caption": [
+            "FIG. 3: Same as Fig.2, but showing the relative SUSY-QCD correction for the $b b  h h$ in the MSSM. Here the samples satisfying the experimental constraints (i-iv) are further classified according to the Higgs data: within $1 \\sigma$ (red dots),outside $1 \\sigma$ but within $2 \\sigma$ (green triangles). "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To further investigate the infuence of the Higgs data in Fig.2 on the SUSY-QCD effect in $b b  h h$ , we define the relative SUSY-QCD correction $\\delta _ { S Q C D }$ as ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { S Q C D } = \\frac { \\sigma _ { S Q C D } - \\sigma _ { L O } } { \\sigma _ { L O } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In our calculation we use the $\\alpha _ { s } ^ { L O }$ for the LO cross-section and $\\alpha _ { s } ^ { N L O }$ for the NLO crosssections, respectively. In Fig. 3 we show the dependence of $\\delta _ { S Q C D }$ for the $b b  h h$ on the SUSY parameters $M _ { A }$ ， $\\tan \\beta$ , the lightest sbottom mass $\\textmu m _ { \\tilde { b } _ { 1 } }$ ） and gluino mass $( m _ { \\tilde { g } } )$ ）inthe MSSM.In this figure the samples satisfying the experimental constraints (i-iv) are further classified according to the Higgs data: We use the $\\chi ^ { 2 }$ and the degree of freedom to calculate the p-value for each point and plot the points whose p-values are larger than 0.045 ( $2 \\sigma$ ）and 0.318 (1 $\\sigma$ ). The degree of freedom is 15 [23(experimental observables)-8(free parameters)] for MSSM and 12 [23(experimental observables)-11(free parameters)] for NMSSM.From the upper panel we can see that a heavy $m _ { A }$ ( $>$ 400 GeV) and a moderate $\\tan \\beta$ ( $1 0 \\sim 4 0$ ）are favored by the Higgs data and the SUSY-QCD correction can maximally reach about 45% for the samples in $1 \\sigma$ range. Similar to Fig.2, $\\delta _ { S Q C D }$ decreases when $m _ { A }$ becomes heavy. From the lower panel we note that for heavy $m _ { \\tilde { b } _ { 1 } }$ and $m _ { \\tilde { g } }$ , the SUSY-QCD effects decouple slowly. This behavior is because that the SUSY-QCD corrections depend on the ratio of the SUSY parameters. For example, in the triangle diagrams, the SUSY-QCD correction to the vertex $h b b$ is proportional to $M _ { E W } ^ { 2 } / M _ { A } ^ { 2 }$ and $M _ { E W } ^ { 2 } / M _ { \\tilde { b } } ^ { 2 }$ [42,66]. So only when all the sparticles and $m _ { A }$ are heavy, the SUSY-QCD effect can completely decouple from the process of $b b  h h$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The relative SUSY-QCD corrections for the $b b  h h$ in the NMSSM are presented in Fig.4. It can be seen that the maximal SUSY-QCD correction can reach $1 5 \\%$ for the samples in $1 \\sigma$ range. From the upper panel we can see that $\\delta _ { S Q C D }$ becomes small with the increase of $\\lambda$ or $m _ { h _ { 3 } }$ . The reason is that with the increase of the $\\lambda$ ，the $m _ { h _ { 3 } }$ gets heavy and its contribution to the cross section becomes small. From the lower panel we see that, due to the residual effects of the sparticles, the SUSY-QCD corrections can still reach about 9% for heavy sbottom and gluino. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In Fig.5 we show the total cross section of the Higgs pair production at the 14 TeV LHC (via both $b b$ annihilation and $g y$ fusion) for the samples in the $1 \\sigma$ and $2 \\sigma$ ranges of the Higgs data. We can see that in the $1 \\sigma$ range the total cross section can be maximally enhanced by a factor of 2.7 and 2.2 in the MSSM and NMSSM, respectively. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Finally，, considering the null results of the direct search for sparticles at the LHC，we investigate the SUSY-QCD effect in Higgs pair production in the limit of heavy sparticles. For simplicity，we assume a common mass $M _ { S U S Y }$ for all relevant SUSY mass parameters: $M _ { S U S Y } = M _ { \\tilde { Q } } = M _ { \\tilde { D } } = A _ { t } = A _ { b } = M _ { \\tilde { g } } = M _ { \\mu }$ . In Fig.6wedisplaytheratiof $\\sigma _ { \\mathrm { S U S Y } } ^ { p p  h h } / \\sigma _ { \\mathrm { S M } } ^ { p p  h h }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0f9baf002db29593951d3e09a949598bbb421beec3309573aa9aa593e6de136.jpg",
+        "img_caption": [
+            "FIG.4: Same as Fig.3, but for the NMSSM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We can see that for $M _ { S U S Y } = 1$ TeV, the ratios will maximally reach 3 and 2 in the MSSM and NMSSM, respectively. When $M _ { S U S Y }$ goes up to 5 TeV, the enhancements become weak but can still reach 1.8 and 1.4 in the MSSM and NMSSM, respectively. So the efects of heavy sparticles decouple quite slowly from the Higgs pair production. We checked that the SUSY effects decouple quickly in $b b  h h$ but slowly in $g g  h h$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We considered the current experimental constraints on the parameter space of the MSSM and NMSSM. Then in the allowed parameter space we examined $b b  h h$ ( $h$ is the 125 GeV SM-like Higg boson) with one-loop SUSY QCD correction and compared it with $g g  h h$ We obtained the following observations: (i) For the MSSM the production rate of $b b  h h$ （202 (with one-loop SUSY QCD correction) can reach 50 fb and thus can be competitive with （204号 $g g  h h$ ， while for the NMSSM $b b  h h$ has a much smaller rate than $g g  h h$ due to the suppression of the $h b b$ coupling ; (ii) The SUSY-QCD correction to $b b  h h$ is sizable, which can reach $4 5 \\%$ for the MSSM and 15% for the NMSSM within the $1 \\sigma$ region of the Higgs data; (iii) In the heavy SUSY limit (all soft mass parameters become heavy)， the SUSY effects decouple rather slowly from the Higgs pair production, which, for $M _ { \\mathrm { S U S Y } } = 5$ （20 TeV and $m _ { A } < 1$ TeV, can enhance the production rate by a factor of 1.5 and 1.3 for the MSSM and NMSSM, respectively. Therefore, the Higgs pair production may be helpful for unraveling the effects of heavy SUSY. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f2edb46bc9cb7580859d381f9a3befa744835b35d8789ffded59dcdad10370a.jpg",
+        "img_caption": [
+            "FIG. 5: The total cross section of the Higgs pair production at the 14 TeV LHC via both $b b$ （204号 annihilation (include the SQCD correction） and $g g$ fusion (without the SQCD correction) in MSSM and NMSSM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab2de1e2bbce6225a7ab2d1c82d056d08b4275682549695f703f5e4fcc4f8ad3.jpg",
+        "img_caption": [
+            "FIG.6: The cross section of Higgs pair production via both $b \\bar { b }$ annihilation (include the SQCD correction）and $g g$ fusion (without the SQCD correction) in MSSM and NMSSM for heavy sparticle masses at 14 TeV LHC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We appreciate the helpful discussions with Junjie Cao, Ning Liu, Wenyu Wang and Yang Zhang. This work was supported in part by the ARC Centre of Excellence for Particle Physics at the Tera-scale,by the National Natural Science Foundation of China (NNSFC) under grant No. 10775039,11075045,11275245,10821504 and 11135003,by Ri-Xin Foundation of BJUT from China and by the Startup Foundation for Doctors of Henan Normal University under contract No.11112. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[4] R. Benbrik et al., Eur. Phys. J. C 72,2171 (2012). [5] M. Carena et al., JHEP 1203, 014 (2012); M. Carena et al.,arXiv:1302.7033 [hep-ph]. [6] J.Cao,et al.，Phys.Lett.B 710,665(2012)； JHEP 1203,086 (2012)；JHEP 1210,079 (2012)； JHEP 1309, 043 (2013). [7] A. Djouadi et al., Eur. Phys. J. C 10, 45 (1999). [8] U. Baur, T. Plehn and D.L. Rainwater, Phys. Rev. D 69, 053004 (2004). [9] J.M. Butterworth et al.,Phys.Rev.Lett. 100, 242001 (2008). [10] J. Baglio et al., JHEP 1304,151 (2013). [11] M. J. Dolan, C. Englert and M. Spannowsky, JHEP 1210,112 (2012)； Phys. Rev. D 87, 055002 (2013). [12] A. Papaefstathiou, L. Yang, J. Zurita, Phys.Rev. D 87, O11301 (2013). [13] D. A. Dicus, C. Kao and S. S. D. Willenbrock, Phys. Lett.B 203, 457 (1988). [14] S. Dawson, S. Dittmaier and M. Spira, Phys. Rev. D 58,115012 (1998); D. Y. Shao et al., arXiv:1301.1245 [hep-ph]; D. de Florian and J. Mazzitelli, Phys. Lett. B 724, 306 (2013); J. Grigo et al., arXiv:1305.7340 [hep-ph]. T. Plehn, M. Spira and P. M. Zerwas, Nucl. Phys. B 479,46 (1996) [Erratum-ibid. B 531,655 (1998)]. [15] H. Sun,Y.-J. Zhou and H. Chen, Eur.Phys. J. 72, 201l (2012)； H. Sun and Y.-J. Zhou, arXiv:1211.6201 [hep-ph]. [16] R.Grober and M. Muhlleitner, JHEP 1106, 020 (2011). [17] M. Gouzevitch et al., arXiv:1303.6636 [hep-ph]. [18] E. Asakawa et al., Phys. Rev. D 82,115002 (2010). [19] W. Ma, C. Yue and Y. Wang, Phys. Rev. D 79, 095010 (2009). [20] X.-F. Han, L. Wang and J. M. Yang, Nucl. Phys. B 825, 222 (2010); L. Wang and X. -F. Han, Phys. Lett.B 696,79 (2011). [21] M. Moretti et al., JHEP 1011, 097 (2010). [22] N. D. Christensen, T. Han and T. Li, Phys. Rev. D 86,074003 (2012). [23] F.Maltoni, Z. Sulivan and S.Willenbrock, Phys. Rev.D 67,093005 (2003); R. V. Harlander and W. B. Kilgore,Phys. Rev.D 68, 013001 (2003). [24] S. Dittmaier et al., JHEP 0703,114 (2007). [25] A.A. Barrientos Bendezu and B. A. Kniehl, Phys. Rev. D 64, 035006 (2001); [26] J. Cao et al., JHEP 1304,134 (2013). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[27] U. Ellwanger, arXiv:1306.5541 [hep-ph].   \n[28] ATLAS-CONF-2013-053; S. Chatrchyan et al.[CMS Collboration], arXiv:1303.2985 [hep-ex] [29] S. Dawson, C. Kao and Y. Wang, Phys. Rev. D 77, 113005 (2008);   \n[30] C. Brust et al., JHEP 1203,103 (2012).   \n[31] J.L. Feng and D. Sanford,Phys. Rev. D 86, 055015 (2012). B. C. Allanach and B. Gripaios JHEP 1205,062 (2012); S.Akula,et al., Phys. Lett. B 709,192 (2012); L. J. Hall, D.Pinner anc J. T.Ruderman, JHEP 1204, 131 (2012); H. Baer,et al., JHEP 1205,109 (2012). M. Papucci J. T. Ruderman and A. Weiler, JHEP 1209, 035 (2012).   \n[32] J. Cao et al., JHEP 1211, 039 (2012).   \n[33] J. Rosiek, hep-ph/9511250; F. Franke and H. Fraas, Int. J. Mod. Phys. A 12, 479 (1997). [34] M. A. Aivazis et al., Phys. Rev. D 50, 3102 (1994).   \n[35] J. C. Collins, Phys. Rev. D 58,094002 (1998).   \n[36] M. Kramer,F.I. Olness and D. E. Soper,Phys. Rev. D 62,096007 (2000).   \n[37] D. T. Nhung, W. Holik, L. D. Ninh, Phys. Rev. D 83, 075003 (2011).   \n[38] R. Enberg, R. Pasechnik, O. Stal, Phys. Rev. D 85, 075016 (2012).   \n[39] D. M. Pierce et al., Nucl. Phys. B 491,3 (1997).   \n[40] M. S. Carena et al., Nucl. Phys. B 577,88 (2000).   \n[41] M. S. Carena et al., Nucl. Phys. B 659,145 (2003).   \n[42] J. Guasch, P. Hafliger and M. Spira, Phys. Rev. D 68,115001 (2003).   \n[43] D. Noth and M. Spira, Phys. Rev. Lett.101,181801 (2008).   \n[44] D. Noth and M. Spira, JHEP 1106,084 (2011).   \n[45] L. Mihaila and C.Reisser, JHEP 1008,021 (2010).   \n[46] J. Baglio,R. Grober, M. Muhleitner, D. T. Nhung, H. Rzehak, M. Spira, J. Streicher anc K. Walz, arXiv:1312.4788 [hep-ph].   \n[47] E. Braaten and J. P. Leveille,Phys. Rev.D22, 715 (1980).   \n[48] J.F.Gunion and H. E. Harber,Nucl. Phys.B 272,1(1986).   \n[49] U.Ellwanger, J. F. Gunion and C. Hugonie, JHEP 0502(2005） O06; U. Ellwanger and C Hugonie, Comput. Phys. Commun. 175 (2006) 290; G. Belanger et al., JCAP 0509:001 (2005) [50] T. Hahn and M. Perez-Victoria, Comput. Phys. Commun. 118,153 (1999).   \n[51] CMS collaboration, CMS-PAS-HIG-12-050.   \n[52] ATLAS collaboration,ATLAS-CONF-2012-011.   \n[53] G.Altareli and R. Barbieri, Phys.Lett.B 253,161 (1991); M. E. Peskin, T. Takeuchi, Phys. Rev. D 46,381 (1992).   \n[54] E.Aprile et al., [XENON100 Collaboration], Phys.Rev. Lett.107,131302 (2011).   \n[55] M. Davier et al., Eur. Phys. J. C 66,1 (2010).   \n[56] ATLAS collaboration， ATLAS-CONF-2013-047； ATLAS-CONF-2013-062;ATLAS-CONF2013-089.   \n[57] ATLAS collaboration， ATLAS-CONF-2013-049; ATLAS-CONF-2013-065； ATLAS-CONF2013-037; ATLAS-CONF-2013-024; ATLAS-CONF-2013-007; arXiv:1308.2631.   \n[58] K. Cheung, J. S. Lee and P. -Y. Tseng,arXiv:1302.3794 [hep-ph].   \n[59] [CMS Collaboration]， Note CMS-PAS-HIG-13-005;[ATLAS Collaboration]， Note ATLASCONF-2013-014.   \n[60] P. P. Giardino, K. Kannike, I. Masina, M. Raidal and A. Strumia,arXiv:1303.3570 [hep-ph].   \n[61] J. Pumplin et al., JHEP 0207, O12 (2002).   \n[62] J. Beringer et al.,[Particle Data Group Collaboration],Phys.Rev. D 86, O10001 (2012).   \n[63] T.Plehn, M. Spira and P.M. Zerwas,Nucl. Phys.B479 (1996) 46,(E) B531 (1998) 655； S. Dawson, S. Dittmaier and M. Spira, Phys. Rev. D58 (1998) 115012.   \n[64] R.Aaij et al.,[LHCb Collaboration], Phys. Rev. Lett. 110,021801 (2013)   \n[65] M. J. Dolan, C. Englert and M. Spannowsky, Phys.Rev. D87,055002 (2013) [arXiv:1210.8166 [hep-ph]].   \n[66] H.E. Haber, et al., Phys. Rev. D 63,055004 (2001); G. Gao et al.,Phys.Rev. D 66, 015007 (2002); Phys. Rev. D71, 095005 (2005); J. Cao et al., Phys. Rev. D 68, 075012 (2003); N. Liu, et al.,JHEP 1301,161 (2013). W. Wang, Z. Xiong and J. M. Yang, Phys. Lett. B 680,167 (2009). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    }
+]

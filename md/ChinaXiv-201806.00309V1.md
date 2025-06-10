@@ -1,0 +1,179 @@
+# 甘蔗试管苗光合自养生根技术研究
+
+何为中1,2.3,4.5，范业赛1,2,3,4，刘丽敏1,2.3,4，刘红坚1,2,3,4，余坤兴1,2,3,4，翁梦苓1,2.3,4（1.广西农业科学院甘蔗研究所；2.广西甘蔗遗传改良重点实验室；3．农业部广西甘蔗生物技术与遗传改良重点实验室；4.中国农业科学院甘蔗研究中心，广西南宁，530007；5.广西糖业协同创新中心，广西南宁，530002)
+
+摘 要:研究甘蔗试管苗光合自养生根技术的目的是要简化甘蔗组织培养流程，降低生产成本。本试验中以甘蔗品种GT44和B9无根试管苗为试验材料，试管苗先经叶片喷施植物生长调节剂处理，然后炼苗 24h，接着处理后的试验苗移植于沙土混合栽培基质中，在日光温室条件下完成不定根的形成和生长过程；同时比较了无根试管苗和有根试管苗的移栽存活率和生长情况。试管苗生根率调查时间为试管苗移植后第3天开始至第10天结束，成活率的调查时间为试管苗移植后的第30天。结果表明经吲哚丁酸（IBA）和ABT2号生根粉处理的无根试管苗的移栽成活率分别高达 $9 6 . 3 \%$ 和 $9 7 . 7 \%$ ，接近传统生根试管苗的移栽成活率，并且其单株试管苗生根成本仅为传统生根方法的1/28。甘蔗品种GT44和B9试管苗首次出现可见根的时间都是发生在试管苗移栽后的第4天。试管苗根的再生可以在有菌的沙土基质栽培和日光温室条件完成，而不需要在无菌的MS 生根培养基和培养室进行生根；基因型和试管苗素质是影响甘蔗试管苗光合自养生根的关键因素；甘蔗试管苗光合自养生根技术比传统试管苗培养基生根技术拥有更多优势，并且操作简单、程序简化、生根率和成活率高、省工、节省能源、节省生产成本和效率高，能够替代传统的试管苗生根技术，应用于商业化生产。
+
+关键词:甘蔗试管苗，植物生长调节剂,叶片导入,沙土基质,光合自养生根中图分类号： 文献标识码：A 文章编号：
+
+# Photoautotrophic rooting of sugarcane microshoots
+
+HE Wei-Zhong1,2,3,4,5, FAN Ye-Geng1,2.3,4,LIU Li-Min1,2.3,4, LIU Hong-Jian $^ { 1 , 2 , 3 , 4 }$ ,YU Kun-Xing1,2.3,4, WENG Meng-Ling1,2,3,4
+
+(1. Sugarcane Research Institute of Guangxi Academy of Agricultural Sciences; 2. Guangxi Crop Genetic Improvement and Biotechnology Laboratory; 3.Key Laboratory of Sugarcane Biotechnology and Genetic Improvement (Guangxi), Ministry of Agriculture ; 4. Sugarcane Research Center, Chinese Academy of Agricultural Sciences; Nanning 53o0o7, China; 5.Collaborative Innovation Centre of the Sugarcane Industry, Nanning 530o02, China )
+
+Abstract:1 The purpose of researching sugarcane plantlet photosynthetic autotrophic rooting technology is to simplify the process of sugarcane tissue culture and reduce the production cost. In this experiment, the sugarcane variety GT 44 and B9 rootless test-tube seedlings were used as test materials. The test-tube seedlings were first treated with leaves and sprayed with plant growth regulator and then harvested for 24 hours. Then the treated test-seedlings were transplanted into mixed soil In the matrix, the adventitious root formation and growth process were completed under sunlight greenhouse conditions. Meanwhile, the survival rate and growth of transplanting without root and in vitro plantlets were compared. The rooting rate of test-tube plantlets was measured from the third day after test-tube plantlets transplantation to the end of the tenth day. The investigation of survival rate was on the 3Oth day after in vitro plantlet transplantation. The results showed that the survival rate of rootless test-tube seedlings treated with indole butyric acid (IBA) and ABT2 rooting powder was as high as $9 6 . 3 \%$ and $9 7 . 7 \%$ ,respectively, which was close to the survival rate of traditional rooting test-tube seedlings. Seedling rooting cost is only 1/28 of the traditional rooting method. The first time that the visible roots of sugarcane variety GT44 and B9 were appeared on the fourth day after transplanting of the in vitro plantlets.The regeneration of test-tube seedling roots can be done in the medium with sandy soil substrate and solar grenhouse without rooting in sterile MS rooting medium and culture room. The genotype and the quality of test-tube seedlings are the factors that affect photosynthetic autotrophic Root of the key factors； sugar cane plantlet photosynthetic autotrophic rooting technology than traditional root canal culture medium rooting technology has more advantages,and simple operation, the program is simplified, the rooting rate and survival rate, save labor, save energy and save production costs and High eficiency,can replace the traditional root canal seedling technology,used in commercial production. The results of this study are good in several experiment points and have good practical significance.
+
+Key words Sugarcane microshoots，plant regulator, leaf introduction, soil-sand substrate,photoautotrophic rooting
+
+甘蔗组织培养技术广泛应用于甘蔗新品种快速繁殖、脱毒健康种苗生产和转基因甘蔗研究等方面，目前该项技术已在国内外甘蔗生产区广泛使用，社会效益和经济效益十分显著。传统的植物组织培养技术包括四个阶段，即初代培养（培养物建立）、继代增殖、生根培养和移栽苗圃，前面三个阶段都在无菌的、人工控制环境的室内进行，且操作步骤繁琐、复杂、人工需求量大和成本高，导致植物试管苗生产成本居高不下。以生产甘蔗健康种苗为例，目前甘蔗健康种苗的售价一般为 $0 . 6 \sim 1 . 0$ 元/株,以每亩种植 $1 8 0 0 { \sim } 2 0 0 0$ 株计算,每亩种苗成本为 $1 \ 0 8 0 { \sim } 2 \ 0 0 0$ 元,为使用种茎种植成本的 $4 . 5 \sim 8 . 3 3$ 倍，蔗农生产成本高，且无利可图，难以接受，制约了甘蔗试管苗的普及种植。
+
+试管苗瓶外生根技术是近年研究成功的一项先进的组培生根技术，是植物试管苗简化生产技术的重要组成部分。该技术的主要特征是将植物组织培养过程中的组培继代增殖苗进行处理后在温室自养条件下直接进行自养生根，它的主要特点是将试管苗生根阶段中的生根和驯化结合起来，使传统的培养室条件下的异养生根转变为温室条件下的自养生根，省去了复杂的、成本极高的试管苗瓶内生根传统程序。该技术的应用不仅减少了一次无菌操作步骤，节约了培养室空间，又简化了健康种苗生产程序，降低了生产成本，提高了生产效率（Kim等，1998；徐振华等，2002；Almeida 等，2005；黄卓忠等，2007；付艳华等，2009；刘敏等，2010；严华兵等，2010；何为中等，2011)。有研究证实，试管苗瓶外生根可使试管苗的生产成本降低 $3 5 \% \sim 7 5 \%$ （徐振华等，2002；吴国智等，2010）。
+
+甘蔗试管苗光合自养生根技术是本课题组在甘蔗试管苗瓶外生根技术基础研制而来，它是将无根增殖试管苗喷施植物生长调节剂后，在日光温室环境下炼苗 $2 4 { \sim } 4 8 \mathrm { h }$ ，然后按常规方法种植于普通日光温室进行光合自养生根，采用该项技术后，甘蔗组织培养技术也由传统的四个步骤简化为三个步骤，即初代培养（培养物建立）、继代增殖和移栽苗圃生根生长，省去了培养室内生根这一环节，简化甘蔗试管苗生产程序，降低了生产成本 $50 \%$ 以上，对促进甘蔗健康种苗大规模生产应用有积极作用。
+
+# 1.材料与方法
+
+本试验所用甘蔗品种GT44和B9试管苗由广西农业科学院甘蔗研究所提供，是通过培养基 $\mathrm { M S } + 6 { \cdot } \mathrm { B A } + \mathrm { N A A }$ 连续多次继代培养而成。试验处理开始第一步是对完成继代培养的试管苗叶片喷施植物生长调节剂（ABT2号生根粉或者IBA)，植物生长调节剂浓度及处理方法采用刘红坚等（2015）和何为中（2015）报道的专利技术方法，接着在日光温室炼苗$2 4 \mathrm { ~ h ~ }$ ，炼苗过程中温室环境变化不受人工控制，湿度变化范围为 $6 0 \% \sim 7 0 \%$ ，温度范围为$2 0 \sim 4 0 ^ { \circ } \mathrm { C }$ 和光照强度范围为 $2 \ 0 0 0 { \sim } 4 \ 0 0 0 \ \mathrm { l x }$ 。处理好的试管苗经清水清洗后，将试管苗浸没于消毒液中 $1 0 \mathrm { { m i n s } }$ ，消毒液为500 倍（V/V）亮盾(先正达（中国）公司产品)溶液或$0 . 6 \%$ 的高锰酸钾溶液。消毒期间可翻动试管苗 $_ { 1 \sim 2 }$ 次，随后将试管苗种植于日光温室大棚，栽培基质为新鲜河沙与充分风化黄泥的混合物，混合比例为1：1(V/V),生根过程中温室环境变化不受人工控制，湿度变化范围为 $7 0 \% \sim 1 0 \%$ ，温度范围为 $2 0 { \sim } 4 0 ^ { \circ } \mathrm { C }$ 和光照强度范围为$2 0 0 0 \sim 1 5 0 0 0 \mathrm { l x }$ ，以散射光为主。
+
+# 1.1存活率比较试验
+
+光合自养生根技术和传统生根试管苗温室移栽存活率比较试验所用试管苗为甘蔗品种B9 试管苗，设计两个处理，即分别用ABT2号生根粉（北京艾比蒂生物科技有限公司产品）溶液（浓度为 $2 0 0 \mathrm { m g \cdot L ^ { - 1 } }$ ）和IBA $\mathrm { . 2 0 0 m g \bullet L ^ { - 1 } + 6 { \cdot } B A 1 0 m g \bullet L ^ { - 1 } }$ 混合物溶液喷施继代无根试管苗，植物生长调节剂浓度及处理方法采用（刘红坚等，2015）和（何为中，2015）报道的专利技术方法，然后在日光温室炼苗 $2 4 \mathrm { h }$ ；对照为生根试管苗，继代试管苗在生根培养基 $\mathrm { M S + N A A 1 0 \ m g \bullet \ L ^ { - 1 } + }$ 蔗糖 $5 0 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 上培养室培养 $1 5 { \mathrm { d } }$ 。无根和生根试管苗同时移栽于沙土栽培基质中，种植盆规格以6孔 $\times 9$ 孔。无根试管苗种植后一段时间内调查生根率和存活率。
+
+数据收集：试管苗存活率于移栽后 $3 0 \mathrm { d }$ 调查，处理和对照每个重复为一个种植盆，即6孔 $\times 9$ 孔，重复三次，统计存活植株穴数量，即每穴有1株以上存活植株计入存活统计。生根率调查从移栽后4d开始至移栽后10d止，每个品种每次取样10穴，调查不可分割个数量总数和生根个体数量。用微软 Excel2007进行数据统计分析，试管苗存活率（公式1）和生根率（公式2）计算如下：
+
+公式1:
+
+公式2:
+
+$$
+( \% ) = \frac { \boldsymbol { \underline { { \underline { { \phi } } } } } \boldsymbol { \mathrm { A } } \boldsymbol { \bar { k } } \boldsymbol { \mathcal { \bar { H } } } \boldsymbol { \mathcal { \bar { H } } } \boldsymbol { \mathcal { \bar { H } } } \boldsymbol { \mathcal { \bar { X } } } \boldsymbol { \mathcal { \bar { X } } } \boldsymbol { \Xi } }  \boldsymbol { \bar { \jmath } } \boldsymbol { \overline { { \overline { { \mathcal { H } } } } } \boldsymbol { \mathcal { \bar { L } } } \boldsymbol { \bar { \mathcal { H } } } \boldsymbol { \mathcal { \bar { H } } } \boldsymbol { \mathcal { H } } \boldsymbol { \mathcal { H } } \boldsymbol { \bar { \Xi } } \boldsymbol { \mathcal { X } } \boldsymbol { \Xi } } \times 1 0 0 \%
+$$
+
+1.2单株试管苗生根成本比较试验
+
+选择生长基本一致，每瓶苗数量大致相等（目测）的GT44增殖继代试管苗用于试验材料，其中99瓶进入传统生方法进行生根培养，培养 $1 5 { \mathrm { ~ d ~ } }$ 后练苗，然后种植日光温室；另120瓶进入光合自养技术生根流程，即继代试管苗在日光温室内开瓶盖，然后喷施生根诱导溶液，成份：ABT2号生根粉 $2 0 0 \mathrm { m g \cdot L - 1 + D }$ 脯氨酸 $6 0 ~ { \mathrm { m g } } \cdot { \mathrm { L } } ^ { - 1 } + 1$ 吐温 $0 . 2 \%$ ，炼苗 $2 4 \mathrm { h }$ ，清洗消毒后移栽于日光温室大棚中生根。试管苗种植基质均为沙土混合物，混合比例为 $1 { : } 1 ( \mathrm { v / v } )$ 移栽30d后统计存活植株数量,有1片以上(含1片)完全展开叶片的植株计入存活植株数量。
+
+# 2.结果与分析
+
+# 2.1生根试管苗与无根试管苗移栽存活率比较
+
+表1B9无根甘蔗试管苗和有根甘蔗试管苗移栽苗圃20天后存活率比较
+
+Table 1. Comparison between the survival of sugarcane cultivar B9 microshoots achieved with photoautotrophic rooting and a conventional rooting technique.   
+
+<html><body><table><tr><td>处理 Treatment</td><td>平均调查穴 数量（穴） Average number of investigation</td><td>平均存活数 量(穴) The average number of survival</td><td>平均数 标准误 差 SE</td><td>存活率 (%) Survival percentage (%)</td></tr><tr><td>喷施ABT药液无根试管苗 Rootless microshoots sprayed with ABT No.2 solution</td><td>holes (holes) 54</td><td>(holes) 52.0</td><td>0.585</td><td>96.3b</td></tr><tr><td>喷施IBA+6-BA药液无根试 管苗 Rootless microshoots sprayed with mixed solution of IBA</td><td>54</td><td>52.8</td><td>0.913</td><td>97.7ab</td></tr><tr><td>and 6-BA 有根试管苗 Rooted microshoots in culture room</td><td>54</td><td>53.8</td><td>0.380</td><td>99.6a</td></tr></table></body></html>
+
+注：表1中相同小写字母代表差异不显著（ $: \mathrm { p } { > } 0 . 0 5$ )，不同小写字母代表差异显著（ $\cdot \mathtt { p } ^ { \ll } 0 . 0 5 \$ ）°
+
+Note:The same small letters represent no significant difference ( $\mathsf { p } { > } 0 . 0 5$ ）and the different small letters represent significant lifference ( $\cdot \mathbf { p } { < } 0 . 0 5 )$ ：
+
+表1结果显示两个处理试管苗的存活率都很高，达到 $96 \%$ 以上，喷施 $\mathrm { I B A } { + } 6 { - } \mathrm { B A }$ 处理的存活率达到 $9 7 . 7 \%$ ，与有根试管苗的移栽存活率无显著差异（ $\textstyle P > 0 . 0 5 ,$ )。在传统的甘蔗试管苗生产工艺中，甘蔗试管苗都是经培养室生根培养诱导试管苗生根，然后再将生根试管苗移栽苗圃驯化；但甘蔗试管苗光合自养生根技术可使无根试管苗在普通日光温室移栽条件下诱导生根，无需配制生根培养基和创造无菌培养条件，存活率与有根试管苗的移栽存活率接近。
+
+2.2甘蔗试管苗光合自养生根过程生根率变化
+
+GT44和B9甘蔗试管苗移栽日光温室大棚后第3天调查没有发现试管苗出现可见根，第4天后即可观察到可见根出现，生根率达到 $30 \% { \sim } 4 0 \%$ ，至第8天后两个品种生根率接近$100 \%$ 。试验观察发现第一次出现可见根的时间品种间是有差异的，如GT49首先出现可见根的时间为移栽后第9天，生根率接近 $20 \%$ ；直到第20天生根率才达到 $100 \%$ ，虽然GT44、B9 和GT49生根快慢不同，但地上部分叶片转青和新叶生长是同步，没有发现肉眼观察到的差异。
+
+![](images/ce0f37b0c28f068905ab1bd00e302e1910b98eede1dfee39e95973ebad0c69bd.jpg)  
+图1甘蔗试管苗移栽温室生根后3至10天的生根率变化曲线 Fig.1 The changes of rooting percentage from day3 to day 10 after planting in soil-sand mixture in the greenhouse
+
+2.3甘蔗试管苗光合自养生根技术与传统的试管苗生根技术比较
+
+2.3.1采用甘蔗试管苗光合自养生根技术后简化了试管苗生产流程
+
+传统的甘蔗试管苗生产工艺流程由培养物建立、继代增殖、生根培养和苗圃驯化移栽等四个步骤组成，其中前三个步骤无菌培养室内进行，所有流程均要求无菌操作，苗圃驯化移栽在日光温室中进行。采用甘蔗试管苗光合自养生根技术后，新的甘蔗试管苗生产工艺流程由三个步骤组成（见图2），比传统的试管苗生产流程更简化。在传统的甘蔗试管苗生产工艺流程中，试管苗增殖继代和生根培养过程都在室内完成，都要求无菌操作，两个步骤竞争培养室和组织培养室内设施设备，因此试管苗增殖继代和生根培养工作有冲突，不可同时进行，制约了试管苗的增殖继代数量，从而影响试管苗生产数量；而在简化了的甘蔗试管苗生产工艺流程中，增殖继代培养和试管苗生根分别在培养室和日光温室中进行，增殖继代培养在封闭和无菌环境下进行，而试管苗生根在开放的、有菌的日光温室中进行，增殖继代培养和试管苗生根工作不会产生冲突,可同时进行，组织培养室内设施设备可全部用于甘蔗试管苗继代增殖,这一改变可大幅度增加试管苗继代次数和产量，理论上，甘蔗试管苗继代增殖工作不会被试管苗生根流程所打断，试管苗增殖继代时间大幅度延长，在不增加组织培养室和室内设施设备建设投入的情况下，试管苗生产量将会按增殖系数的几何级数增加。
+
+![](images/285cf94be61512968449bc26db7fb257c94abb4c36f7b894ea105f1f9afc55fc.jpg)  
+图2采用甘蔗试管苗光合自养生根技术后传统甘蔗试管苗生产工艺流程的变化 Fig.2 the change of conventional sugarcane tissue culture protocol from 4-step protocol to 3-step protocol with adoption of photoautotrophic rooting technique
+
+# 2.3.2甘蔗试管苗光合自养生根技术流程比传统的试管苗生根流程更简化
+
+在传统的甘蔗试管苗生根流程里，试管苗生根培养和操作流程都是在实验室或无菌培养室内完成，试管苗是放在有盛有生根培养基的培养容器中进行生根，生根环境特点是环境密闭，透气性差；光照强度弱（ $< 2 \ 0 0 0 \ \mathrm { l x } \ )$ ，恒温（ $3 0 ^ { \circ } \mathrm { C }$ ）和高湿度（RH达到 $100 \%$ )。而甘蔗试管苗光合自养技术操作步骤及要求环境与传统试管苗生根技术完全不同（见图3)，甘蔗试管苗光合自养生根技术操作步骤少，简单；操作环境为普通日光温室大棚，有菌开放,透气性好；光照强度高（ $> 2 \ 0 0 0 \ \mathrm { l x } )$ ，温度波动幅度大和湿度波动幅度处于 $70 \% { \sim } 1 0 0 \%$ ；生长素通过喷施叶片导入试管苗，生根基质为新鲜河沙与黄泥或充分氧化田园土的混合物，试管苗在生根期间内并不一直浸泡培养基和生长素溶液中。
+
+(Left: the conventional rooting culture protocol; Right: the photoautotrophic rooting protocol)
+
+![](images/8948d5aa8c73cf350d65c9d6e4327019620c9d9a0bda44dd9bdbd9060f4ae1a7.jpg)  
+图3传统的甘蔗试管苗生根操作程序与简化后的甘蔗试管苗光合 自养生根操作流程比较 Fig.3 Comparison between the conventional rooting culture protocol and the photoautotrophic rooting protocol
+
+2.3.3甘蔗试管苗光合自养生根技术与传统生根技术成本比较
+
+按图3所示两种试管苗生根技术工艺流程，分别选取99瓶GT44试管苗进行传统的异养培养生根和120瓶试管苗进行光合自养生根，移栽苗圃后统计结果见表2,并以表2计算结果平均每瓶存活植株数量和平均每孔存活植株数为基础分别计算了甘蔗试管苗光合自养生根方法和传统试管苗生根方法的单株试管苗成本,它们分别是0.00285元/株和0.0811元/株,甘蔗试管苗光合自养生根方法的单株试管苗生根成本仅为传统生根方法的1/28（见表3）。如果采用甘蔗试管苗光合自养生根技术,甘蔗试管苗单株成本可降低0.08395元/株。由于试管苗细小，又是丛生，数量统计难度，目测法选取试验材料有一定的误差，传统生根方法选取99瓶试管苗种植了511孔，而光合自养生根方法120瓶，只种植了459孔，误差也有可能是丛栽种植时分苗不均匀所致，虽然有这样的误差存在，但试验结果还能是充分说明甘蔗试管苗光合自养生根方法的单株试管苗生产成本远远低于传统的试管苗生根方法的单株成本。
+
+表2甘蔗试管苗光合自养生根方法与传统生根方法试管苗移栽试验结果 əle 2 Collected data for cost comparison test between photoautotrophic rooting and   
+表3两种甘蔗试管苗生根方法成本计算与比较  
+
+<html><body><table><tr><td>生根方 法 Rooting technique</td><td>数量量 (瓶) Tested quantit y (bottle</td><td>试验种植数存活数存活率 （孔） Planting quantity (hole)</td><td>量 （孔) Survival quantity (hole)</td><td>(%) Survival percentage (%)</td><td>存活植株 数量(株) Quantity of survival plants （plant）</td><td>平均每瓶存活 植株数量(株/ 瓶) Quantity of survival plants perbottle in average</td><td>平均每孔存活 植株数量（株/ 孔 Quantity of survival plants perholesin average</td></tr><tr><td>传统生 根方法 Tradition al rooting methods</td><td>99</td><td>511</td><td>503</td><td>98.0</td><td>2122</td><td>(bottle) 21.0</td><td>(hole) 4.0</td></tr><tr><td>光兌息 鑫星粮 方法 Photoaut otrophic rooting</td><td>120</td><td>459</td><td>428</td><td>93.0</td><td>1799</td><td>15.0</td><td>4.0</td></tr></table></body></html>
+
+conventional rooting culture protocol of sugarcane microshool   
+Table 3Unit cost comparison between the conventional rooting culture protocol and the   
+
+<html><body><table><tr><td colspan="5">photoautotrophic rooting of sugarcane microshoots</td></tr><tr><td>生根方法 Rooting technique</td><td>成本构成项目 Items</td><td>单株成本 (元/株) Unit cost (Yuan/plantlet)</td><td>备注 Remark</td></tr><tr><td rowspan="6">A传统生根方法 Traditional rooting methods B光合自养生根 方法</td><td>培养基成本 Medium costs 电力成本</td><td>0.0051 0.0204</td><td>参考刘红坚等（2013）计算结果。ReferenceLiu Hongjian (2013) calculation results. 参考刘红坚等（2013）计算结果。Reference Liu</td></tr><tr><td>Electricity costs 人工成本</td><td></td><td>Hongjian (2013) calculation results. 参考刘红坚等（2013）计算结果。ReferenceLiu</td></tr><tr><td>Labor cost 固定资产折旧</td><td>0.0281 0.0275</td><td>Hongjian (2013) calculation results. 每株组培苗固定资产折旧成本按0.05元计（邱</td></tr><tr><td>Depreciation of fixed assets</td><td></td><td>运亮等，2010)，试管苗生根过程费用占总费用 的35%~75%（徐振华等，2002）。The depreciation cost of fixed assets per plantlet is O.05 yuan (Qiu Yunliang et al., 2010). The cost of rooting process</td></tr><tr><td>合计 total 栽培基质</td><td>0.0811</td><td>of test tube plantlets accounts for 35%~75% of the total cost (Xu et al., 2002).</td></tr><tr><td>Cultivation Photoautotrophic substrate</td><td>0.0004</td><td>30 克/穴，河砂95元/m,河沙比重1.92 吨/立方， 每穴存活苗数量4株（见表2）30g／hole,river sand 95 yuan /m,river sand 1.92 tons /m³, the</td></tr><tr><td colspan="3">rooting 化学试剂 Chemical</td><td>number of surviving seedlings per hole was 4 (see Table 2) ABT2 号生根粉使用量为 200 mg·L-1,23元/克，</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">reagents</td><td rowspan="2">ABT2 rooting powder dosage of 200 mg·L-1, 23 yuan/g, spray bottle 7 mL.Each bottle survived 15 test tube seedlings (see Table 2). 人工计15天，每天80元，共计120元，管理 20个苗棚计，每棚可容纳408个9孔×6孔种植 盆，共8160个种植盆，共计440640 种植孔，每</td></tr><tr><td>人工成本 Labor cost</td><td>0.00007</td></tr><tr><td>水消耗Water consumption</td><td>0.00020</td><td>planting holes, the number of surviving seedlings per hole 4 strains (see Table 2). 314 毫升/株.15天，水价2.6元/m，每穴存活苗 数量4株（见表2)。314 mL/plant.15 days,water price 2.6 yuan / m³, the number of surviving seedlings per hole was 4 (see Table 2).</td></tr><tr><td>Depreciation of fixed assets</td><td>固定资产折旧 0.00008</td><td>造价为15元/平方米，折旧每年按10%，等于约 1.5元/平方米.年，一年成本按每15天分摊，则 为0.0617元/平方米。每穴4株（见表2)，则每 苗棚育苗88128株/棚/116m²,760 株/m²。Costof 15 yuan /m², depreciation of 1O % per annum, equal to about 1.5 yuan /m². Year, one year cost is apportioned every 15 days, then O.0617 yuan /m². Each hole was 4 (see Table 2), then each seedling</td></tr><tr><td rowspan="2">合计 total A与B之比The</td><td></td><td rowspan="2">nursery 88,128 plants / shed /116 m², 760 plants / m2.</td></tr><tr><td>0.00285 28.0</td></tr></table></body></html>
+
+2.3.4甘蔗试管苗光合自养生根方法与传统试管苗异养培养生根方法比较
+
+通过对甘蔗试管苗叶片喷施外源生长素和炼苗 $2 4 \mathrm { ~ h ~ }$ ，使外源生长素对试管苗产生持续生根诱导效果，启动试管苗不定根发育进程，在有菌的沙土栽培条件和一定光照、温度和湿度条件下完成不定根根原基发育和伸长，试管苗和根的生长质量均高于传统的无菌培养生根方法，苗圃移栽达存活率到 $96 \%$ 以上，与有根试管苗的移栽存活率无显著差异。甘蔗试管苗光合自养生根技术是一项新型的试管苗生根技术，与传统的培养基异养生根技术比(见表4)，具有显著优势，该技术操作简单、简化试管苗生产流程、投入大幅度减少和生产效率高，可完全替代传统试管苗生根技术。
+
+表4甘蔗试管苗光合自养生根技术与传统试管苗生根技术对比表  
+Table 4 Comparison between the properties of photoautotrophic rooting technique and   
+
+<html><body><table><tr><td colspan="3">conventional rooting culture technique</td></tr><tr><td>技术指标 Technical property</td><td>甘蔗试管苗光合自养生根技术 photoautotrophic rooting technique</td><td>传统甘蔗试管苗生根技术 conventional rooting culture technique</td></tr><tr><td>诱导生根方式 Rooting type</td><td>光合自养 photoautotrophic</td><td>异养 heterotrophic</td></tr><tr><td>生根场所 Facilities for</td><td>简单建筑物，日光温室 Sunlight greenhouse and simple</td><td>复杂建筑物，无菌培养室 Sterile culture room,</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">rooting 试管苗 生根 Microsh</td><td>construction 湿度：70%～100%；温度：20℃～40℃；</td><td>container and instruments in complicated building. 湿度：70%；温度：25～ 30℃；光照：～1000Lux。</td></tr><tr><td rowspan="4">oots rooting</td><td>环境参数 Environmental indexes for rooting</td><td>光照：3000～15000Lx。有菌，半自 然环境。 Relative humidity from 70 % to 100%,Temperature from 20℃ to 40℃ ; sunlight intensity from 3 00o Lx to 15 000 Lx. Nonsterile and semi-open environments.</td><td>无菌，完全人工控制。 Relative humidity from 70 % to 80 %; temperature from 25℃ to 30℃；light intensity at about 1 000 Lx. Sterile and</td></tr><tr><td>光合作用 Photosynthesis</td><td>强 strong</td><td>artificially-controlled environment. 弱 weak 浸没基部导入</td></tr><tr><td>植物生长调节 剂导入方法 Plant regulator introduction type 试管苗栽培基</td><td>喷施叶片导入 Leaf introduction through spraying. 河沙和黄泥或氧化充分田园土其混合</td><td>Microshoot base introduction through immersion. 无菌的MS 培养基+生长 素+蔗糖</td></tr><tr><td>质 Rooting culture medium 生根程序 Rooting protocol</td><td>物（1:1V/V) Mixture of fresh sand and fresh soil or fully-oxidized farm soil at volume ratio of 1 to 1. 简单，有菌操作。 Easy and nonsterile manipulation in</td><td>Sterile MS culture medium supplemented with auxin and sucrose. 复杂，且要求高，各个环 节都要求干净和无菌操 作。</td></tr><tr><td>能源和劳动力消耗</td><td>sunlight greenhouse.</td><td>低</td><td>Complicated and clean and sterile manipulation required for all steps in closed environment 高</td></tr><tr><td>甘蔗试管苗过程简化情况 Sugarcane tissue culture</td><td>Consumption of energy and labor</td><td>Low intensity. 减少生根培养，简化为三个阶段。</td><td>High instensity 四个阶段</td></tr><tr><td>protocol simplification 试管苗生产周期</td><td></td><td>The new protocol is simplified into 3-step protocol. 缩短10天/繁殖周期。</td><td>4-step protocol. 没有缩短</td></tr><tr><td>Sugarcane tissue culture cycle duration 生根培养占用培养室空间 Culture room use for rooting.</td><td></td><td>Shortened by about 10 days. 不占用，在不增加固定资产投资的情况 下，试管苗生产产能按增殖系数的几何 级数增加。</td><td>No shortage. 占用 Culture room is needed and rooting culture competes with shoot subculture for</td></tr><tr><td></td><td></td><td>Culture room is not needed and rooting culture does not compete with shoot subculture for tissue culture facilities and human resources so that the production capacity could be expanded in geometric progression of multiplication ratio without additional investment in building.</td><td>tissue culture facilities and human resources.</td></tr><tr><td>试管苗单株生根成本 Cost of per microshoot</td><td></td><td>试管苗单株生产成本为传统生根方法 的 1/28.Test tube plantlet production cost of the traditional method of rooting 1/28.</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>苗圃存活率</td><td>>96%</td><td>>99%</td></tr><tr><td>Survival percentage</td><td></td><td></td></tr></table></body></html>
+
+# 3.讨论
+
+3.1外源植物生长调节剂处理方法与不定根的发生发育
+
+本试验的独特之处是将外源植物生长调节剂溶液喷施甘蔗试管苗叶片和植株，然后在日光温室内炼苗 $2 4 \mathrm { ~ h ~ }$ ,接着种植日光温室内在光照和植物激素的共同作用下诱导不定根发生、根原基形成和伸长并突破表皮,而传统的植物试管苗生根方法是将外源植物生长调节剂预先加入到培养基中，培养消毒灭菌后，再接种试管苗于培养基上诱导生根；或者将植物试管苗先在一定浓度的植物生长调节剂（无菌）中浸泡或培养一段时间，然后转入无植物生长调节剂的培养基中进行培养（巩振辉和申书兴,2007;邱运亮等，2010)。在植物试管苗瓶外生根试验研究方面，一般采用植物苗基部浸泡或速蘸生长素溶液（林艳等，1998；黄卓忠等，2007；王雪娇等，2017)，他们报道的植物试管苗瓶外生根的最好生根率分别为切花月季试管苗 $72 \%$ 、罗汉果试管苗 $9 6 . 1 1 \%$ 和蓝梅试管苗 $7 5 \%$ 。目前甘蔗试管苗光合自养技术获得最好的试管苗生根率为 $100 \%$ 。外源生长素（如IBA）处理促进内源IAA的积累(Gonacalves et al.,2008；陈凌艳等，2011)，而高浓度IAA是启动植物不定根发生发育的关键因素(Gasparet al.，1992; De Klerk， 2002;Hou et al.， 2010)；林士杰等（2006）认为在不定根发生过程中，外源激素NAA的作用可能通过改变各种内源激素含量变化，从而使其达到动态平衡来间接诱导不定根的发生和分化。在甘蔗试管苗光合自养生根试验中，叶片喷施ABT2号生根粉处理比不喷施的对照提前5天出现第一批可见根，且根的数量多，这个结果也间接表明，外源生长素处理试管苗叶片后，内源生长素和碳水化合物加速向叶鞘基部区域运输，从而启动和加速了不定根的发生发育进程，而没有喷施的对照只有等叶片光形态建成完成后，叶片光合作用和合成内源生长素功能恢复正常后，叶鞘基部区域才有可能富积内源生长素和碳水化合物，才可能启动生根进程,因此根生长速度慢于喷施处理。
+
+De Klerk(2002)报道苹果试管苗微扦插不定根发生发育过程划分为三个阶段脱分化阶段(0-24小时)、诱导阶段（ $2 4 { \sim } 9 6 \mathrm { ~ h ~ }$ ）和分化阶段（96h后），在分化阶段根原基形成、伸长和突破表皮,在取得切段 $1 2 0 \mathrm { ~ h ~ }$ 后，根原基分生组织才形成，根突破表皮应该是5d以后。不同植物品种或基因型的不定根发生发育时间也是有差异的，Schwambach et al（20o8）将蓝桉树（Eucalyptus globulus $\times$ maidennii）的微枝扦插生根分为三个阶段，处理后 $0 { \sim } 5 \mathrm { d }$ 为诱导阶段， $5 { \sim } 1 5 \mathrm { d }$ 为根原基形成阶段和 $1 5 { \sim } 4 5 \mathrm { d }$ 为根原基伸长阶段。本试验结果表明，GT44和B9第一批根出现时间是移栽后第4天或者处理后第五天，生根率达到 $100 \%$ 的时间是移栽9天以后，由于试管苗单株间生理状态不一样，不定根发生发育也有先后；另外品种不同不定根发生发育情况也不一样，如GT49第一批根出现的时间是处理后第10天，生根率达到 $100 \%$ 的时间出现在处理后的21d。
+
+De Klerk(2002)研究结果表明根诱导到根原基形成前这个时期，生长素起促进作用，而根原基伸长阶段，生长素起抑制作用；徐振华等（2002）报道大量研究结果表明，根原基的启动和形成阶段生长素起着关键作用，而根原基的伸长和生长则可以在没有外源生长素的条件下实现。甘蔗试管苗光合自养生根通过植株喷施外源生长素启动不定根的发生发育，随着不定根发育进程的推进，外源生长素的效应也会逐渐衰减直至消失，而培养基异养生根时，试管苗生根完成前一直浸泡在含有生长素的培养基里，不利于根原基伸长和苗的生长，因此，甘蔗试管苗光合自养生根技术是一种更符合不定根发生发育规律的生根方法。
+
+# 3.2试管苗质量对甘蔗试管苗光合自养生根的影响
+
+甘蔗试管苗光合自养生根过程是试管苗由异养生长过渡到自养生长的过程，同时也是生长环境由从无菌过渡到有菌环境的过程，生长环境从恒温、恒湿、光照强度恒定和弱光照的人工环境过渡到环境温湿度和光照强度大幅度波动及高光照强度环境过程，甘蔗试管苗光合自养生根过程中胁迫因素很多，包括环境胁迫、生物胁迫、高浓度植物激素处理胁迫和营养缺乏胁迫，因此只有高素质试管苗才能抵抗各种胁迫而生存下来完成不定根的发生发育过程，甘蔗试管苗质量要求包括植株高度$4 { \sim } 6 \mathrm { c m }$ ，植株健壮和叶面积大、叶片青绿，特别是叶片质量和叶面积大小特别重要，因为喷施外源激素主要通过叶片发挥作用，另外植株生根和生长所需要的碳水化合物和内源生长素均来源于叶片。试管苗的植物学形态和生理状态受基因型影响，不同甘蔗品种试管苗的株高、叶片形态特征、叶片太小和植株的生理生化特征差别大，抗逆性也不一样，导致不同品种试管苗光合自养生根特征差异大，甘蔗品种桂糖44号和B9表现极易生根；桂糖32号和桂糖49号表现为易生根；而桂糖48号表现为难生根。徐振华等（2002）报道不同植物、不同基因型、不同幼化程度对不定根的发生发育有决定性的影响，并且认为多次继代，半木质化，叶片肥厚，茎秆粗壮的无根试管苗是获得较高生根率的保证。Thomas P(2000)报道，葡萄砧木插条的叶面积、质量和着生位置影响根的发生发育，带小叶的插条在诱导培养基上不定根出现迟，且根质量差，茎生长弱和芽早期萌发；而带大叶的插条相反，不定根发生早，根活力强。在甘蔗试管苗光合自养生根试验中，试管苗叶片多、大和青绿的容易生根，生根率高和存活率高，反之则难生根，生根率和存活率都低。王涛等(2007)报道香果树试管苗瓶外生根试验中，试管苗茎越粗，苗越壮，其生根效果越好，茎粗 ${ > } 0 . 1 5 \mathrm { c m }$ 时生根率达到 $8 1 . 6 \%$ ，平均单株生根6条，平均根长达到 $5 \mathrm { c m }$ 。
+
+3.3环境因素对甘蔗试管苗光合自养生根的影响
+
+# 3.3.1光照
+
+甘蔗试管苗光合自养生根过程中光照发挥了关键作用，光照强度一般控制在2$0 0 0 { \sim } 1 5 ~ 0 0 0 \mathrm { L x }$ ，长期弱光照和长期强光照不利于试管苗正常生长，会导致植株死亡率升高，最佳光照强度为 $5 ~ 0 0 0 { \sim } 8 ~ 0 0 0 ~ \mathrm { L x }$ ，并且以散射光为好，因此要求温室大棚四周围塑料薄膜避免阳光直接照射苗圃，遮阳网只盖天面，不盖温室四周，保证温室苗圃有较强的散射光。林艳等(1998)认为弱光及较强散射光对切花月季组培苗微插生根有利,生根过程应尽量避免强光直射,尤其是在温度较高的夏季更应该注意。甘蔗试管苗光合自养生根过程是试管苗从异养生长过渡到自养生长的过程，期间涉及根的再生与生长、叶片结构和功能正常化以及新叶和新芽的生长，这些任务的完成都需要光照和光合作用条件的改善才能完成。潘瑞炽(2014)认为单子叶植物叶片展开和根原基启动是受光敏色素控制的。甘蔗试管苗叶片是恒温、恒湿和异养的人工环境下生长发育而成，其叶片与大田生长植株叶片不一样，表现异常，没有功能气孔、表皮发育不正常和光合效率低等，试管苗温室移栽后，如果不采取遮光和保湿措施等，则试管苗根本不可能存活。植物试管苗移植到温室后叶片形态结构会发生一系列变化，以适应外界环境条件，这些变化包括叶片厚度逐渐增加、叶肉细胞分化成栅栏组织和海绵组织、气孔密度减小、气孔形状由圆形变成椭圆形等（Chandra,2010）。Rodriguez etal(2003)报道了甘蔗试管苗从培养室到温室驯化期间的生理指标变化结果，发现光合作用指标在移栽温室后逐步由异常过渡到正常，如光合作用最大值从室内培养时的 $0 . 5 1 \mu \mathrm { m o l } \mathrm { C O } _ { 2 } \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ 增加到驯化第14天的 $3 . 5 4 \ \mu \mathrm { m o l C O } _ { 2 } \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ ，而试管苗的蒸腾速率则室内培养时的 $0 . 9 7 \ \mathrm { m o l H } _ { 2 } \mathrm { O } \ \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ 降低到驯化第14天的0.66$\mathrm { m o l H _ { 2 } O \ m ^ { - 2 } s ^ { - 1 } }$ ,气孔功能正常后,表皮水分损失下降；并且认为只要环境条件满足要求，试管苗是能够实现自养代谢的。目前植物组织培养流程中大部分植物种类都是采用培养基异养生根方法，生根环境特点为弱光照（光照强度 $\leq 2 0 0 0 \mathrm { l x } )$ 、MS培养基供应养分和生长环境密闭、通透性差，致使试管苗光合作用弱和叶片发育异常。如果植物试管苗移栽至日光温室（光照强度:1000-80000lx,波长 $3 0 0 { - } 2 0 0 0 \mathrm { n m }$ ）后试管苗光合效率能大幅度提高和叶片通过光形态建成恢复正常结构和功能，试管苗获得自养代谢能力，那么植物试管苗都可实现光合自养生根，到时植物试管苗光合自养生根技术则可替代传统的异养生根技术，简化生根程序，降低生产成本，提高效率。
+
+# 3.3.2温度
+
+温度是影响甘蔗试管苗光合自养生根的最重要的环境因素之一，最适宜生根温度为 $2 8 { \sim } 3 0 ^ { \circ } \mathrm { C }$ ,平均气温低于 $2 0 ^ { \circ } \mathrm { C }$ 时，第一次出现根的时间延后到移栽后15d，且存活率下降，温度调节方式包括冬季盖塑料薄膜增加温度，增加光照，夏季盖遮网遮荫降低温度和光照强度。果树试管苗生根的温度范围一般在 $2 1 \sim 3 0 ^ { \circ } \mathrm { C }$ ,苹果无根试管苗的最佳生根温度为 $2 8 ^ { \circ } \mathrm { C }$ ,而在 $2 3 ^ { \circ } \mathrm { C }$ 和 $2 1 ^ { \circ } \mathrm { C }$ 生根率下降(李胜等,2003)。
+
+# 3.3.3湿度
+
+湿度对甘蔗试管苗光合自养生根也有重要影响，但是可以控制，湿度太低，试管苗容易脱水死亡；湿度太高病原微生物滋生导致试管苗染病死亡，降低存活率，因此，一般温室湿度控制在 $70 \% { \sim } 1 0 0 \%$ ，并在拱棚顶部开小孔通风透气，且每隔5天喷施土菌消溶液控制土传病害发生和蔓延。另外，温室苗圃排灌条件要好，既要保证水份供应，又要避免积水导致试管苗死亡，存活率下降。
+
+甘蔗试管苗光合自养生根技术是通过叶片喷施高浓度外源激素，诱导内源生长素合成，生长素通过极性运输在试管苗叶鞘基部富集，高浓度内源生长素刺激启动试管苗不定根的发生，在有菌环境条件下完成细胞分裂、根原基的形成和伸长过程；基因型和试管苗素质是影响甘蔗试管苗光合自养生根的关键因素；甘蔗试管苗光合自养生根技术比传统试管苗培养基生根技术拥有更多优势，并且操作简单、程序简化、生根率和成活率高、省工、节省能源、节省生产成本和效率高，能够替代传统的试管苗生根技术，应用于商业化生产。
+
+# 参考文献
+
+ALMEIDA R,GONCALVESS,ROMANO A,2005.In vitro micropropagationof endangered Rhododendron ponticumL.Subsp.Baeticum (Boissier& Reuter) Handel-Mazzeti[J].Biodivers Conserv,14:1O59-1069.  
+CHANDRA S,NDOAHR,KURV,etal00.Aimatzationof issuecturedplantlets:fromboatoryd[J]Biotechnol Lett.,(32):1199-1205.  
+CHENLY,ZHYHEG,etal,011.Sudyoododenonridum'sotingluredostetsagesJfFujian CollofForest,31（2)：131-135.[陈凌艳,郑宇,陈礼光,等，2011.西洋杜鹃组培苗生根培养及其内源激素含量变化的研究[J]．福建林学院学报，31（2)：131-135.]  
+DEKLERK GJ.2002.Rooting of microcuttings: theoryand practice[J].In Vitro CellDevelop Biol,38:415-422.  
+FUYH,LUJ,YANGHY,etal，O9.Studyontheexvitrorotingtechiqueoflily(limleucanthumBaker)microshoots.JofZhejiang Agri Sci.,(1):95-97.[付艳华，卢君，杨慧莹，等，2009.百合组培苗试管外生根技术研究[J].浙江农业科学，（1)：95-97.]  
+GASPART,KEVERSC,HAUMANJF,etal992.Practicalusesofperoxidaseactivityaspredictive markerofrotingpeforancef
+
+GONCALVESJC,DIOGOG,COELHOMT,2008.Quantitationofedogenous levelsofIAA,IAAspandIBAinmicro-propagated shoots of hybrid chestnut pre-treated with IBA.In Vitro Cell Develop Biol.,44(5):412-418.
+
+GONG ZH,SHENSX2007.PantTissue CultureM].Beijing:Chemcal Industry Pres:53-54.[巩振辉,申书兴,2007.组培养[M].北京：化学工业出版社：53-54.]  
+HE WZ,WAH,etal1.ectofreitrtoeexiigfaecroogadt.Jof Anhui Agri Sci.,39(4):2059-2060.[何为中，汪淼，刘红坚，等，2011赤霉素（GA3）处理对甘蔗试管苗瓶外生根的影响[J].安徽农业科学，39(4):2059-2060.]  
+HEWZ，2015/5/26.Thechemical formulaof treatment solutionand itsmatched methodtoimproverootingefficiencyofphotoautotrophic roting of sugarcane microshoots.China,patentcode:201510273010.7.[何为中,2015/5/26.提高甘试管苗光合自养生根效率的生长促进液及方法．中国，专利号:201510273010.7.]  
+HOU JW,GUOJWAG,Ectsofinvitroubltureoteigicalaracteristfdvenitoutfoiimicroshoots of Castanea mollissima cv.‘yanshanhong'.JofForest Res.,21(2):155-160.  
+HUANG ZZ,YANHB,SUGX.2007.Studiesontheinvitroandexvitroroting fortesttubesedlingsof Momordicagrosvenori.Southwest China Jof Agri Sci.,20(4):864-866.[黄卓忠，严华兵,苏国秀,2007.罗汉果试管苗瓶外生根研究[J].西南农业学报,20(4):864-866.]  
+KIM MS,KLOPFENSTEIN NB，CREGG BM,1998.In vitroand ex vitrorooting of micropropagated shoots using thre greenash(Fraxinus pennsylvanica) clones.New Forest,16:43-57.  
+LIS,YANGD,LIW,etal.Advacesofresearhonotinginvitroofplanttest-tubeplatle[J].JofGansuAgicUniv38(4):373-384.[李胜,杨德龙,李唯,等,2003.植物试管苗离体生根的研究进展[J].甘肃农业大学学报,38(4):373-384.]  
+LIN SJ，JIANGJ，FENGX，etalO06.Thesdyofadventitiousrotgenerationinleavesof issuecultureof(P.smoni.nigra) $\times \mathrm { P }$ 15ACLin therelationtoexogenoushormonesandendogenous hormones[J].Forest Sci&Technol,31(1):8-1.[林士杰,姜静,冯昕，等,2006．黑林1号杨组培叶片不定根的发生与内、外源激素关系的研究[J].林业科技，31（1)：8-11.]  
+LINY，XU ZH，GUOWZ，et al，1998.Investigationonthe keyfactors on microcuting rootingof Rosa Hybrida Hort cvmicroshots[J].JofHebeiForestry Sciences，（3)：16-17.[林艳，徐振华，郭伟珍，等，1998.切花月季组培苗微插生根主要功能因素的探讨[J].河北林业科技，（3)：16-17.]  
+LIU HJ,FANYG,HEWZ,etal013.Comparativestudyoninvitroandexvitrorotingcultureofsugarcanemicroshoots[J].JofGuangdong Agri Sci,(18):13-15.[刘红坚，范业赛，何为中，等,2013．甘蔗试管苗瓶内生根与瓶外生根培养方法比较研究[J].广东农业科学,(18):13-15.]  
+LIU HJ，HEWZ.2015/5/26.Thechemical formula of treatment solution andits matched method to improverotingeffcincyofphotoautotrophic roting ofsugarcane microshoots.China,patentcode:201510273074.7.[刘红坚,何为中.2015/5/26.提高甘蔗试管苗光合自养生根效率的生长促进液及方法．中国，专利号:201510273074.7.]  
+LIUM,SU Q，LIU JW，2010.Exvitro ro0oting of Populus $x$ euramericanna cv. Neva microshoots. Pl PhysioCommun,46(10):1050-1054.[刘敏，苏乔，刘纪文，2010.‘欧美杨107’组培苗瓶外生根[J]．植物生理学通讯，46（10)：1050-1054.]  
+PANRZ，2014.Plant physiology（7th version）[M].Beijing：High Education Press：256-264.[潘瑞炽，2014.植物生理学（第7版）[M].北京：高等教育出版社：256-264.]  
+QIU YL，DUAN PH,ZHAO H,2010.Plant Tisse CultureandMicropropagation technique.[M].Beijing:Chemical IndustryPress:110-11.[邱运亮，段鹏慧，赵华，2010.植物组织培养快繁技术，[M].北京：化学工业出版社：68-69;110-11.]  
+SCHWAMBACHJ，UEDELLCM,ALMIAMR,etal,008.AdventitiousrotingofEucalyptus globulusmaidenni muingsderived frommini-stumpsgrown insandbedandintermitentfloodingstrays：acomparativestudyJ].NewForest，36：261-271.  
+RODRIGUEAR,CIM,PINA D,et al,2003.Growthandphotosyntheticactivityduringaclimatizationof sugarcaneplantletscultivated in temporary immersion bioreactors[J]. In Vitro Cell Dev Biol-Plant,39:657-662.  
+THOMASP，2.Microcutingleaf area，weightandpositiononthestock shotinfluencerotvigour，shoot growthandincidenceofshoot tip necrosis in grape plantlets in vitro[J].Plant Cell Tissue Organ Cult，61（3)：189-198.  
+WANGT,WEIXL,AOM,7.eootingndtrasplantingtecholgfmenenryterysitestubsdig[J].JftAiand Bio,26(4):292-295.[王涛,韦小丽,廖明,2007.香果树试管苗内外生根与移栽技术[J].山地农业生物学报,26(4):292-295.]  
+WANGXJ,DAZG,GAOQS,etal,07SudyonExVitroRootingfBluebeybyutig[J].JoJngsuAgriSci45(4)2王雪娇，代志国，高庆生，等，2017.蓝梅组培苗瓶外扦插生根的研究[J].江苏农业科学，2017，45（4)：30-32.]  
+WUGZ,WANGYGY,etal1.mercialPructioncholgfssltureednginAntiuddSteps of Reducing the Cost.Tianjin Agri Sci，16（1)：123-126.吴国智，王勇，杨元，等，2010.红掌组培苗工厂化生产技术及降低成本措施[J]．天津农业科学，16（1)：123-126.  
+XUZH,WANX,IJC,eta.rgressfsdoexotingofplatcosots[J].griul8(4):振华，王学勇，李敬川，等，2002．试管苗瓶外生根的研究进展[J].中国农学通报，18(4):84-89.]  
+YANHB,FANGF,NGWQ,tal.IiradexvitrorotigulreofosorefdiPrneturkplatlets.agxiAgiSci.,2010，41（10)：1046-1048.[严华兵，方锋，董伟清，等，2010.山薯组培苗瓶内与瓶外生根技术研究[J].广西农业科学，41(10): 1046-1048.]

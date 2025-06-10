@@ -1,0 +1,191 @@
+# 儿童早期的母亲生活压力对其5岁行为问题的预测效应：链式中介分析
+
+郝叶芳」 王争艳董书阳² 刘斯漫 武萌³卢珊（首都师范大学心理学院，首都师范大学儿童发展研究中心，北京市“学习与认知”重点实验室，北京 100048)(乌特勒支大学社会与行为科学学院，荷兰乌特勒支 3584CS)(新乡医学院心理学院，新乡453003)
+
+摘 要 通过对107名幼儿及其母亲历时五年的五次追踪测量，考察了儿童早期（9月 ${ \sim } 3 8$ 月）母亲生活压力对5岁时儿童行为问题的预测效应及其作用机制。结果发现，在儿童早期，母亲生活压力具有相对的稳定性，但引起母亲生活压力的主要生活事件排序有所变化；儿童早期母亲生活压力对儿童行为问题的作用机制有两种方式：一方面表现为母亲生活压力对儿童5岁时的情绪症状和品行问题的直接效应；另一方面表现为通过减少母亲积极养育行为进一步影响儿童情绪症状和同伴问题的间接效应；此外，早期母亲生活压力还通过积极养育和儿童努力控制的链式中介作用对儿童过度活跃和亲社会行为产生影响。结论：母亲生活压力对儿童行为问题具有预测效应，这种效应的机制包括母亲生活压力的直接效应以及通过积极养育、努力控制的间接效应。
+
+关键词母亲生活压力；行为问题；积极养育；努力控制；学前儿童
+
+# 1问题提出
+
+有关人类早期发育的新研究显示，虽然胚胎/胎儿携带的基因序列可以勾勒出个体发展的框架，但在 $0 { \sim } 3$ 岁关键的早期发展阶段，环境会修饰和改变在这些框架内的具体发展过程。人类大脑应答并适应各种早期经历，从而支持语言、认知、情绪、社会性能力的获得与发展（Carrano,2014）。随着《柳叶刀》杂志的“发展中国家儿童早期发展（Early ChildDevelopment in Developing Countries)”系列专刊（Series1,2007; Series 2,2011）及最新《促进儿童早期发展：从科学力量到推广普及》（Advancing Early ChildhoodDevelopment:FromScience to Scale,Series3,2016）的发布，来自神经科学、心理学、儿科学及经济学等学科的学者们都在传递这样一个理念：良好的生命开端是确保未来可持续发展的基础（Black et al,2016; Britto et al., 2017)。
+
+相反，低质量的早期养育环境对儿童的发展有着消极的作用。过去一些学者重点探讨了家庭贫困（“硬环境"）对儿童发展的影响。他们认为家庭经济贫困通过两条途径影响儿童的成长（Evans＆Kim,2013)：第一条是影响养育者的投入。贫困的家庭不能为儿童提供拥有丰富认知刺激的环境，例如阅读互动的频率较低、缺少适宜年龄的玩具和教育性的电子材料;第二条是影响养育者的回应质量。低收入家庭伴随着更多的争吵，其养育者采用更严厉的教养方式（例如体罚)，而不是积极的回应性互动。但在21世纪的中国，随着改革开放的落实、脱贫政策的实施，家庭收入增长较快、物质供给逐渐丰足，同时激烈的社会竞争也骤然增长并由此带来了巨大的生活压力。此时生活压力有可能成为不同于经济贫困的影响儿童成长的“软环境”。Evans 和Kim（2013）认为相对于儿童，养育者更容易遭遇生活环境的压力性事件的影响。母亲是婴幼儿的主要养育者，如果母亲体验着高强度的生活压力，可能会给儿童塑造一种压力性成长环境，进而通过多种途径影响婴幼儿的认知、情绪和社会性等方面的发展，导致儿童后期行为问题的发生（Lake&Chan,2014）。
+
+母亲生活压力（matermallife event stress）是指母亲在日常生活中所经历和体验的压力性事件，例如夫妻感情不和、经济拮据、亲人重病、工作学习压力大、孩子难以照管等。养育者通常面临着两种压力体验：一是来自生活和工作环境中各种负性事件的压力，二是与承担养育职责、抚养下一代直接相关的压力，即养育压力（刘亚鹏，邓慧华，张光珍，梁宗保，陆祖宏，2015)。本研究中的母亲生活压力正是这两种压力体验的总和。虽然有研究者认为养育压力与儿童行为问题有着更紧密的联系（刘亚鹏 等，2015)，但也有研究者认为婚姻冲突或其他负性生活事件也会导致母亲养育压力的增加，并进一步影响儿童的行为问题（Anthony etal.,2005）。累积情境风险模型（cumulative risk model）认为风险因素并不是“各自为营”地对个体产生作用，而是多种风险因素彼此之间相互累积和关联，共同对个体产生消极的后果（刘旺，田丽丽，谈继红，2015)，例如低质量的婚姻关系、匮乏的社会支持系统、经济拮据会增加母亲的养育压力，母亲的养育压力也可能反过来降低婚姻的质量、增加对工作压力的感受性（Hibel,Mercado,& Trumbell,2012)。因此本研究认为综合考察母亲生活压力更符合Bronfenbrenner 生物生态系统理论（BioecologicalTheory），更具有生态学效度（Tudge etal.,2016)。先前的研究主要关注母亲的养育压力、相对忽视了其他环境因素（例如经济压力、工作压力、人际关系紧张等）给母亲带来的身心影响，因此本研究关注的第一个问题是在现代社会里引起母亲心理压力的主要生活事件有哪些。
+
+国内外大量的研究考察了母亲的养育压力对儿童行为问题的影响，并取得了相对一致的结果，即高养育压力与儿童行为问题正相关，然而少有研究关注母亲生活压力对儿童行为问题的预测效应。母亲生活压力来自各个负性生活事件的累积，每一件负性生活事件相当于一个风险因素，Ruttr（1979）最早发现风险因素的个数与儿童行为问题的严重性呈正相关。风险因素例如贫穷、养育冲突、养育者的心理问题和父母婚姻不和都会增加儿童对消极发展结果的易感性（Chronis etal.,2007)。来自生理心理学的研究表明多重负性体验会破坏儿童的生理系统：Hanson 等人（2015）研究了128名经历过养育忽视、身体虐待、低社会经济地位三种类型早期负性体验的儿童，通过与41名健康发展的儿童对照发现早期负性体验可能导致儿童的杏仁核和海马容量更小，而行为问题与更小的杏仁核和海马容量正相关。此外，已有研究发现母亲在孕期所体验到的生活压力与儿童气质困难性、行为问题相关，甚至对十年后追踪评估的儿童学业成就仍有消极影响（Lietal.,2013)。这类研究重点关注了母亲孕期经历的多种负性生活事件对儿童发展结果的预测效应，多从医学或生理学的角度进行了解释，但儿童早期是脑发育和语言、认知等多种能力发展的关键期（Black etal.,2016)，而尤其以学前期为行为问题的萌芽和发生阶段（吕勤，陈会昌，王莉，2003)，故本研究关注的第二个问题是儿童早期母亲的生活压力是否会对学前期儿童的行为问题具有预测效应。
+
+以往的研究表明，母亲生活压力对儿童行为问题产生的作用机制可能有两种途径：直接效应和间接效应。关于直接效应的实证研究集中于养育压力对儿童行为问题的直接影响（Anthony etal.,2005;Crmic,Gaze,&Hoffman,2005)。这可能是因为：一方面大部分研究中母亲养育压力和儿童行为问题都是基于母亲报告的，具有较高养育压力的母亲倾向于将儿童的行为评价为消极（Cmic etal.,2005)；另一方面作为母亲养育压力成分之一的“育儿愁苦”是一种消极情绪，儿童的情感安全会直接受到这种负性情绪氛围的影响，并导致行为问题的产生（刘亚鹏 等，2015)。而更具有生态学效度的母亲生活压力是否可以对儿童行为问题产生直接效应值得在本研究中进一步检验。间接效应的实证研究强调养育行为的中介作用，即母亲生活压力会损害母亲的积极养育行为、削弱儿童的积极适应，进而导致行为问题的发生。积极养育包括母亲对儿童的生理或情感需求很敏感，能给予恰当的回应并为儿童探索环境提供丰富的刺激，充当脚手架作用（Black&Aboud,2011)。积极养育通过养育者与儿童的互动直接影响儿童发展，其作用在于促进儿童对环境的积极适应、缓解消极发展、保护儿童远离各种身心问题（董书阳，梁熙，张莹，王争艳，2017)。积极养育对儿童的发展有着关键性的保护和促进作用，尤其是在儿童生命的早期（Britto etal.,2017; Singla,Kumbakumba,&Aboud,2015)。已有的研究表明：母亲生活压力越大，积极养育行为越少（Lee,2003; Tan,Camras,Deng,Zhang,&Lu,2012)。Lee（2003）通过对 605 对母婴对进行的干预研究发现，当母亲经历更多的负性生活事件时，母亲更倾向于使用回避型的应对策略；Tan等人（2012）通过对133名学前儿童及其家庭的研究发现，在一系列家庭压力（包括住房拥挤、婚姻不和、经济紧张和工作压力等方面）下的母亲倾向于形成放纵型和专制型的养育方式。同时Lee（2003）和Tan等人（2012）的研究都发现了缺少积极养育对儿童行为问题的消极影响。
+
+母亲生活压力的间接效应不仅表现为影响其自身的积极养育行为，也可能会表现为影响儿童努力控制（effortful control）的发展（Gartstein,Bridgett,Young,Panksepp,&Power,2013),进而影响儿童的行为问题。努力控制是指儿童抑制优势反应、同时执行劣势反应的能力。这是一个具有双重属性的概念，一方面，努力控制是一种气质特质，在一定程度上是以生物、神经、生理和基因为基础的；另一方面，在某种程度上，努力控制是亲子关系的产物，积极的亲子关系、安全型的依恋关系是儿童形成自我调节能力的关键性因素（Kochanska&Kim,2014)。已有的研究发现，压力性的实验环境会降低个体 Stroop 任务（努力控制的一种成分的测量方式)的成绩，因此研究者推断其他长期性的生活压力源也会危害到个体努力控制的发展（Gulley,Hankin,& Young,2015)。而努力控制是影响学前期情绪社会性发展和学业成就的重要变量（Allan&Lonigan,2011)，较高的努力控制能够促进儿童适应性行为的发展，减少行为问题的发生(Tiberio etal.,2016)。 $2 { \sim } 7$ 岁是儿童调节注意和情绪能力稳步提升的时期（Sawyer,Millerlewis,Searle,Sawyer,&Lynch,2015)，其中学前期是儿童努力控制快速发展的阶段，容易受到养育环境的影响，逐渐打上父母养育的烙印，积极的养育行为对学前期儿童努力控制的发展具有良好的促进作用（Spinrad et al.,2007;Chang,Olson,Sameroff,&Sexton,2011)，此时努力控制在养育行为和行为问题之间更可能发挥中介作用（Tiberio et al,2016; Chang et al., 2011）。
+
+综上，除了直接效应外，在母亲生活压力和儿童行为问题之间还可能存在两个中介变量：积极养育和努力控制。但先前的研究有以下两点不足：第一，大部分研究关注母亲养育压力与行为问题之间的作用机制，尚缺乏对现代社会中母亲高强度的生活压力的研究，母亲压力这一指标在以往研究中未得到充分关注；第二，先前的研究集中于探讨母亲压力、积极养育、努力控制和行为问题两者或三者之间的关系，缺乏在一个更完整的系统下探讨四者之间的作用机制。因此本研究关注的第三个问题是：母亲体验到的生活压力通过怎样的途径影响儿童的行为问题，是有直接效应、还是通过影响母亲的养育行为和儿童的努力控制间接影响儿童的行为问题（间接效应）？
+
+# 2 研究方法
+
+# 2.1 被试
+
+通过与妇幼保健院等合作，在北京市区招募6个月的健康婴儿及其家庭参与研究，当儿童9个月（T1）、14个月（T2）、25个月（T3）、38个月（T4）、61个月（T5）时再次参与研究。6个月时，总样本量为106对母婴对（57名女孩，49名男孩)，在随后的五次追踪过程共流失14人，总的流失率是 $1 3 . 2 \%$ 。在婴儿25个月、38个月、61个月时又分别加入
+
+7人、2人、6人，故总的被试量是107人，其中女孩57名（ $5 3 . 3 \%$ ，男孩50名（ $4 6 . 7 \%$ ）所有的被试至少参与了一个时间点的数据采集，对五个时间点的主要变量进行 Little's 完全随机缺失检验, $\chi ^ { 2 } = 1 9 9 . 4 6$ ， $p = 0 . 2 2$ ，表明所有主要变量的缺失由完全随机缺失造成。卡方检验结果显示，参加五次研究的被试与至少参加一个时间点研究的被试，在被试性别、父母受教育水平和收入水平上均无显著差异；在婴儿25、38和61个月时新加入的15人与在婴儿6个月时招募的106人在被试性别、父母受教育水平和收入水平上均无显著差异，因此可以作为同质性样本纳入本研究。
+
+T1时，被试的平均月龄为9.75个月（ $S D = 0 . 4 6 \$ ；T2时，被试的平均月龄是14.30个月（ $S D = 0 . 8 4 )$ ；T3时，被试的平均月龄是25.14个月（ $S D = 1 . 1 4 )$ ；T4时，被试的平均月龄是38.33个月（ $S D = 1 . 0 5 ,$ ；T5时，被试的平均年龄为61.08个月（ $S D = 0 . 7 2 \$ )。母亲的平均生育年龄为 $3 0 . 8 4 \pm 3 . 5 2 \$ 岁，母亲和父亲受教育水平的中位数均为大学，母亲收入水平的中位数为 $3 0 0 0 { \sim } 6 0 0 0$ 元，父亲收入水平的中位数为 $6 0 0 0 { \sim } 1 0 0 0 0$ 元。
+
+# 2.2研究工具
+
+2.2.1人口统计学变量调查表在 ${ \mathrm { T } } 1 { \sim } { \mathrm { T } } 5$ 时，由母亲填写《家庭基本信息调查表》，其中包括被试性别、月龄、母亲的生育年龄、父母的受教育水平、职业类型、收入水平等基本信息。2.2.2 母亲生活事件量表 改编自杨德森和张亚林（1990）编制的生活事件量表，由儿童的母亲在 $\mathrm { T 1 } \{ \sim \mathrm { T 4 } \$ 时报告，问卷主要反映母亲因生活事件引起的心理压力情况。量表包括夫妻感情不好、住房紧张、离婚、爱人离世、与爱人父母不和、孩子难以照管、生活规律发生重大变动、工作学习中压力大等14项每个母亲有可能遇到的生活事件，并需要母亲评价对应的事件的性质（好事、坏事、中性）、精神影响程度（无影响、轻度、中度、重度)。国外多使用多重负性生活事件的刺激强度总分来衡量母亲的生活压力（Lietal.,2013)，我国学者也采用负性生活事件的影响程度总分来代表个体承受的心理风险（刘旺 等，2015)。因此在本研究中，参考前人的方法，全部坏事精神影响程度之和定义为负性生活事件的累积刺激量，其值越大，代表母亲生活压力越高。在本追踪研究中，四个时间点的母亲生活压力量表内部一致性系数分别在 $0 . 8 8 { \sim } 0 . 9 2$ 之间。
+
+2.2.3 Alabama 教养问卷学前版（Alabama Parenting Questionnaire-Preschool Version）该问卷用于评估父母的养育行为（Clerkin,Marks,Policaro,&Halperin,2007)。T5 时由母亲填写，本研究采用了其中的积极养育维度，该维度包含12个条目，例如“当孩子某件事做得好时，您会拥抱或亲吻他/她”。每个条目5点计分（从1“从不”到5“经常")，各条目总分分数越高，积极养育水平越高。本研究中积极养育维度的内部一致性系数为0.80。
+
+2.2.4儿童行为问卷简版（Children's Behavior Questionnaire,CBQ-short version）该问卷由Putnam 和Rothbart（2006）编制，国内董光恒等翻译和修订，适用于测查 $3 { \sim } 7$ 岁儿童的气质，包括外倾性、消极情绪和努力控制3个维度。母亲在T5时根据儿童日常行为与题目描述之间的恰当程度进行7点评分，从“非常不恰当”到“非常恰当”，若各条目均分得分越高，则努力控制水平越高。本研究中努力控制的内部一致性系数为0.78。
+
+2.2.5儿童长处和困难问卷 (Strengths and Difficulties Questionnaire,SDQ) Goodman 编制修订（Goodman,2001）、我国学者寇建华、杜亚松和夏黎明（2005）首次引进使用，由母亲在T5时评价儿童的日常行为表现，共有25个题，每道题按3点评分，从“不符合”到“完全符合”。问卷包含整体困难和5个子维度，5个子维度分别为情绪症状、品行问题、过度活跃、同伴问题和亲社会行为。在本研究中，各条目与问卷总分的内部一致性系数为0.80，各子维度与问卷总分的内部一致性系数为0.63。
+
+# 2.3研究程序
+
+在五年的长期追踪过程中，在不同的时间点，研究共发放问卷五次，不同问卷其计分方式和应答方式各不相同。在 ${ \mathrm { T } } 1 { \sim } { \mathrm { T } } 4$ 时，母亲在家填写母亲生活压力量表。在T5时，母亲在家填写积极养育和儿童努力控制有关的问卷，在实验室填写行为问题有关的问卷。
+
+# 2.4数据处理
+
+采用 SPSS22.0 和Mplus7.4对数据进行分析。在使用Mplus 建模分析时缺失值采用全息最大似然估计（FullInformation Maximum Likelihood,FIML）进行处理，该方法的优点是能够使用所有观测变量的全部信息。
+
+# 3研究结果
+
+# 3.1共同方法偏差检验
+
+由于问卷均由母亲报告完成，因此首先使用Harman 单因素检验法检验共同方法偏差，因素分析结果并没有出现只抽取出的一个因子的情况，且第一个因子的方差贡献率仅为$12 . 7 9 \%$ ，表明本研究收集的数据不存在严重的共同方法偏差的问题。
+
+# 3.2母亲生活压力的来源统计
+
+在不同时期，负性生活事件对母亲造成的心理压力程度大小与其发生率的高低基本一致。在 $\mathrm { T } 1 \sim \mathrm { T } 4$ 时间点，发生率较高、并给母亲造成较高心理压力的生活事件主要有6项：“住房紧张”、“工作学习中压力大”“本人或亲人重病/重伤”、“与爱人父母不和”、“孩子难以照管”、“夫妻感情不好”。值得关注的是，T1时发生率最高的生活事件是“住房紧张”，T2、T3 时发生率最高的生活事件均是“工作学习中压力大”，而T4时“孩子难以照管”的发生率上升为第一、且对母亲造成的心理压力为第一，此时“夫妻感情不好”的发生率上升至和“与爱人父母不和”相同（第三)，但“夫妻感情不好”对母亲造成的心理压力高于“与爱人父母不和”。
+
+# 3.3母亲生活压力、积极养育和儿童努力控制、行为问题的相关分析
+
+五次测查的母亲生活压力、积极养育和儿童努力控制、行为问题的均值、标准差及相关分析见表1。结果发现，四个时间点的母亲生活压力之间呈显著正相关；积极养育与各时间点母亲生活压力呈显著或边缘显著负相关，努力控制与T3母亲生活压力呈边缘显著负相关；儿童情绪症状、品行问题、同伴问题与早期母亲生活压力呈显著或边缘显著正相关，过度活跃与 $\mathrm { T } 1 \sim \mathrm { T } 4$ 母亲生活压力相关不显著，但这四个维度都与积极养育、努力控制呈显著负相关；亲社会行为与T2母亲生活压力边缘显著负相关、与积极养育、努力控制呈显著正相关。
+
+经 $\mathbf { \Psi } _ { t }$ 检验显示，各结果变量均无显著的性别差异；相关分析显示，T5时测量的母亲受教育水平和过度活跃显著负相关， $r = - 0 . 3 3$ ， $p < 0 . 0 1$ ，和同伴问题上显著负相关， $r = - 0 . 2 3$ ，$p < 0 . 0 5$ ，和情绪症状、品行问题、亲社会行为相关不显著，故在后续构建模型的过程中控制母亲受教育水平对儿童过度活跃和同伴问题的影响。
+
+# 3.4母亲生活压力对儿童行为问题的直接效应和间接效应分析
+
+根据研究假设和表1的相关结果，将9-38个月四个点的母亲生活压力合成潜变量（合成潜变量能够有效控制测量误差)，得到儿童早期的母亲生活压力，将 T5 母亲受教育水平作为控制变量，通过模型比较构建早期母亲生活压力、积极养育、儿童努力控制、情绪症状、品行问题、过度活跃、同伴问题、亲社会行为之间链式中介模型。为了验证 T5 积极养育、努力控制和儿童行为问题之间的中介作用关系，参考Wu,Liang,Lu和Wang（2017）的分析方法，构建三种关系的理论模型，三个模型的相同点在于母亲生活压力均分别作用于积极养育、努力控制和行为问题，不同点在于：Model1中，积极养育 $$ 努力控制 $$ 行为问题；Model2中，行为问题 $$ 积极养育 $$ 努力控制；Model3中，行为问题 $$ 努力控制 $$ 积极养育。尽管三个模型的拟合指数均在可接受范围（ $\chi ^ { 2 }$ 检验显著性 $p \mathrm { s } > 0 . 0 5$ ，CFIs $> 0 . 9 0$ ，RMSEAs $\prec$ 0.08)，但采用 Satorra-Bentler校正的卡方差异检验进行模型比较发现（Model2vs.Model1和 Model 3 vs. Model 1)， $\Delta x ^ { 2 } 2 . 1 \left( 1 0 \right) = 2 8 . 6 5$ ， $\Delta \chi ^ { 2 } _ { 3 - 1 } ( 7 ) = 2 9 . 4 9$ ， $p \mathrm { s } < 0 . 0 5$ ，表明 Model1的拟合结果显著优于Model2和Model3，故本研究接受Model1的建模结果，其拟合指数为 $\chi ^ { 2 }$ （ $3 1 ) = 4 0 . 5 1$ ， $p = 0 . 1 2$ ，RMSEA $= 0 . 0 5$ ， $\mathrm { \Delta \cdot F I } = 0 . 9 5 , \mathrm { T L I } = 0 . 9 0 , \mathrm { S R M R } = 0 . 0 7 ,$ 0
+
+根据结构方程模型建模的节俭原则，删除Model1中不显著的路径，比较完整模型与修正模型发现， $\Delta \chi ^ { 2 } \left( 7 \right) = 1 1 . 9 6$ ， $p > 0 . 1 0$ ，即删除不显著的路径后的修正模型与原始模型之间无显著差异，且修正模型更为简洁，各项拟合指数基本达到要求 $\left( \chi ^ { 2 } \left( 3 8 \right) = 4 8 . 1 3 \right.$ ， $p =$ 0.13， $\mathrm { R M S E A } = 0 . 0 5$ ， $\mathrm { C F I } = 0 . 9 5$ ， $\mathrm { T L I } = 0 . 9 2$ ， $\operatorname { S R M R } = 0 . 0 8 \$ ，故报告图1所示的模型。
+
+模型结果显示：早期母亲生活压力可显著正向预测儿童品行问题( ${ \mathrm {  ~ \beta = 0 . 4 8 } }$ ， $p { < } 0 . 0 0 1 \$ ，同时边缘显著正向预测儿童情绪症状（ $\beta = 0 . 3 3$ ， $\scriptstyle p < 0 . 1 0 )$ ，显著负向预测母亲积极养育（ $\beta$ $= - 0 . 5 2$ ， $p < 0 . 0 1 )$ ；母亲积极养育可显著正向预测儿童努力控制（ $\beta = 0 . 4 2$ ， $p < 0 . 0 0 1 )$ ，边缘显著负向预测儿童情绪症状 $( \beta = - 0 . 2 5 , p < 0 . 1 0 )$ ，显著负向预测儿童同伴问题( $( \beta = - 0 . 4 2$ $p < 0 . 0 0 1 ,$ ；儿童努力控制显著负向预测过度活跃（ $\beta = - 0 . 4 4$ ， $p < 0 . 0 0 1$ )，显著正向预测亲社会行为（ $\beta = 0 . 3 5$ ， $p < 0 . 0 1$ ）°
+
+由于本研究样本量较小，根据研究者的推荐（温忠麟，叶宝娟，2014)，本文采用Bootstrapping（重复抽样 5000 次）的方法验证中介效应。模型中的直接效应包括两条路径：（1）母亲生活压力 $$ 儿童品行问题，效应值为0.48， $90 \%$ 置信区间为[0.22,0.66]；（2）母亲生活压力 $$ 儿童情绪症状，效应值为0.33， $90 \%$ 置信区间为[0.04,0.64]。
+
+中介效应检验结果如表2。结果表明，早期的母亲生活压力通过积极养育和努力控制两个中介变量产生四条显著的间接路径影响儿童行为问题：（1）母亲生活压力 $$ 母亲积极养育$$ 儿童情绪症状；（2）母亲生活压力 $$ 母亲积极养育 $$ 儿童同伴问题；（3）母亲生活压力 $$ 母亲积极养育 $$ 儿童努力控制 $$ 儿童过度活跃；（4）母亲生活压力 $$ 母亲积极养育 $$ 儿童努力控制 $$ 儿童亲社会行为。以上结果表明母亲积极养育对缓解早期生活压力对学前期儿童的情绪症状和同伴问题有间接作用，而母亲积极养育和儿童努力控制还进一步链式中介了母亲生活压力对儿童过度活跃和亲社会行为的作用。
+
+# 4讨论
+
+本研究通过对历时五年的追踪数据进行分析，发现现代城市母亲的生活压力具有相对稳定性，儿童早期的母亲生活压力对儿童行为问题的作用机制表现为直接效应和间接效应，对不同的行为问题（品行问题、情绪症状、过度活跃、同伴问题）和亲社会行为的作用路径不同。下面针对以上结果展开讨论。
+
+# 4.1儿童早期母亲生活压力的相对稳定性
+
+在此次历时五年的五次追踪测查中，本研究发现在儿童早期，母亲的生活压力呈现出相对稳定性，具体表现为以下因素会长期稳定地影响母亲感受到的生活压力：“住房紧张”“工作学习中压力大”“本人或亲人重病/重伤”“与爱人父母不和”“孩子难以照管”“夫妻感情不好”。从社会经济发展的角度来看，由生活成本高导致生活压力大是城市生活的显著特点。随着物价房价持续上涨和孩子的出生，住房紧张成为许多城市家庭面临的主要难题。从工作学习的角度来看，在互联网时代，信息技术更新迅速，迫使年轻的父母需要不断地学习深造，适应竞争日益激烈的工作环境。由中国妇女杂志社和华坤女性生活调查中心公布的《第12次中国城市女性生活质量调查报告（2016年度)》针对已婚女性的调查显示， $8 6 \%$ 以上的女性有工作压力，其中 $57 \%$ 以上的女性感到工作“压力大”，并且工作压力呈现城市与城市间的差异：生活在一线城市的母亲感到工作压力大的比例更高。从环境变化的角度来看，近几年来环境污染的影响日趋严重，对城市居民的生活质量和身体素质产生严峻的考验，老年人和婴幼儿都是空气污染暴露下的易感人群，发病反应快速，加剧了城市母亲的生活压力和心理焦虑。此外，从共同养育的角度来看，为了分担城市生活的经济压力，父母双方都参与工作，因此形成了一种普遍性的祖辈参与儿童日常看护的现象，由此引发的共同养育冲突会导致已婚女性与爱人父母关系更为紧张。从母亲的角色特点和儿童的发展特点来看，虽然有祖辈参与共同养育，但受中国传统文化的影响，母亲仍是婴幼儿的主要养育者，在参与职业工作的同时，还承担着养育婴幼儿的大部分日常事务，而婴幼儿时期是儿童自我意识发展的飞跃阶段、并出现第一个反抗期，因此“孩子难以照管”成为儿童早期的母亲生活压力主要方面之一。
+
+在本研究中，相对于 $9 \sim 2 5$ 个月，38个月时“孩子难以照管”、“夫妻感情不好”的发生率和对母亲造成的心理压力程度均上升，一种可能的解释是儿童3岁以后刚进入幼儿园，儿童和母亲都会产生分离焦虑，这两种分离焦虑相互影响，呈现出正相关的关系（Peleg
+
+Halaby,&Whaby,2006)，因此此时母亲报告更高的心理压力，Peleg 等人还发现职场妈妈的孩子在适应幼儿园方面有着更大的困难，由此造成母亲更大的生活压力。此外，儿童的出现是影响父母婚姻幸福感的一个风险因素，随着家庭成员的增加，夫妻都面临着更为紧张的经济压力以及更为繁重的家务，当孩子入园后，夫妻可能还会面临教育理念上的分歧，由此更可能导致夫妻关系不和（Tsang,Harvey,Duncan,& Sommer,2003)。迄今为止，国内尚没有针对儿童早期母亲生活事件的追踪研究，因此本文对儿童早期母亲生活压力的研究弥补了这方面的不足。
+
+# 4.2儿童早期母亲生活压力对其行为问题的直接效应
+
+本研究表明母亲生活压力越高，儿童越容易出现情绪症状和品行问题。首先，母亲经历的负性生活事件越多，影响自身心理健康水平的风险因素也越多，长期处于高度生活压力的母亲会产生更多的抑郁和焦虑情绪，营造出消极家庭氛围。而儿童与生活压力大的母亲长期相处，受其消极情绪氛围影响的时间较长，造成儿童长期处于高水平的应激状态。这种状态危害儿童的情感安全，使儿童产生焦虑、紧张等情绪症状，在不安全感的影响下，儿童的性格倾向于向胆小退缩（overcontrol）或者高攻击性（undercontrol）发展（申小娜，2008）。一项元分析研究发现相对于过度活跃等外显行为问题，儿童的情绪症状等内隐行为问题与母亲的风险因素相关更强（Connell&Goodman,2002)，因此更容易受到母亲生活压力直接的消极作用。本研究结果也支持了Chang,Shelleby,Cheong 和 Shaw（2012）的发现，通过对 310名学前儿童开展追踪研究，他们发现面临由贫困、住房紧张、父母感情不和、母亲抑郁等因素组成的较高累积风险因素时，负性情绪较高的儿童其情绪失调情况较为严重。另一方面，在生活压力大的家庭中，儿童正常合理的物质要求或情感需求得不到满足，心理容易陷入不安全及失落状态，从而引发偷盗、说谎等品行问题（孙灯利 等，2016)。
+
+# 4.3儿童早期母亲生活压力对其行为问题的间接效应
+
+在本研究中，早期母亲生活压力的间接效应首先表现在通过减少母亲的积极养育行为而增加儿童的情绪症状和同伴问题。当母亲经历更多的压力性生活事件时，母亲的抑郁水平有潜在增加的风险，此时较难激发母亲继续表现出积极养育行为 (Lee,2003)。生活压力较高的母亲，与积极养育有关的卷入程度较低、敏感性低，反而倾向于使用粗暴、严厉的方式教育孩子，而惩罚养育或者消极养育导致儿童行为问题的增加（Tanetal.,2012）。最近的一项对高风险家庭儿童的研究也发现，缺乏积极养育会增加儿童的焦虑、抑郁等情绪症状（Howell&Barrett-Becker,2016)。而对儿童同伴问题的保护作用来看，安全的亲子依恋关系是一个重要的因素。但当母亲生活压力较高时，焦虑抑郁的母亲没有足够的精力或耐心去满足和回应儿童的情感需求，积极养育行为减少，母亲的温暖回应和敏感性缺乏，威胁到了儿童安全型依恋关系的形成，不安全型依恋会让儿童难以建立信任的人际关系，导致儿童缺乏社交能力。郑信军和岑国桢（2006）认为处于消极养育情况下的儿童在同伴交往中缺乏主动性，他们较难成为受欢迎者，也更可能被同伴所拒绝。
+
+其次，早期母亲生活压力的间接效应也表现在通过减少积极养育而影响儿童自我调节能力的发展，导致儿童过度活跃的增加和亲社会行为的减少。积极养育能够引导儿童调节自己的负性情绪、促进儿童努力控制的发展（Chang,Shaw,Dishion,Gardner,&Wilson,2015)。一项针对 $3 { \sim } 3 . 5$ 岁幼儿的研究证明了这一点，即母亲的积极养育行为能够提高儿童的努力控制能力（Lengua,Honorado,& Bush,2007)，类似的，Shelleby 等人（2012）也发现，提高积极养育行为，能够显著提高儿童的行为控制能力。本研究的结果也支持了前人的这些发现。但是早期母亲生活压力作为风险因素，会损害母亲的积极养育行为，使儿童努力控制的发展受到影响，努力控制能力发展不良的儿童在遇到环境中的刺激时，不能有效抑制自己的冲动和调节自己的行为，常表现为注意力不集中、过度活跃的症状（Olson,Sameroff,Kerr,Lopez,&Wellman,20o5)。婴幼儿努力控制的发展与其大脑皮质抑制机能的逐渐完善成熟密不可分。然而，当婴幼儿长期处于较高的母亲生活压力氛围时，早期过多的负性体验会影响儿童大脑的发展，是否进而导致脑的抑制功能不足、引起过度活跃的行为也值得进一步的实证研究。此外，本研究还发现母亲生活压力对亲社会行为的作用路径只有积极养育 $$ 努力控制的路径显著。这一结果与Bae 和Lim(2012)对 $3 { \sim } 5$ 岁儿童的研究类似，即当同时考虑努力控制、积极养育的影响时，幼儿努力控制对亲社会行为具有更直接的正向预测作用，而积极养育则通过努力控制而影响儿童的亲社会行为，研究者解释为亲社会行为的发展需要幼儿先有更好的认知能力，而努力控制的发展能够帮助幼儿从关注自己转移到关注他人、产生共情。
+
+# 4.4研究的不足与意义
+
+本研究的创新点在于通过对婴幼儿时期母亲生活压力进行四次的追踪测查，探讨了母亲所经历的生活压力对儿童行为问题的预测效应，与只考虑母亲养育压力相比，本研究所考察的母亲压力更具有生态学效度。但本研究也存在几点不足：第一，被试样本量较小，且大多取自北京市区社会经济地位较高的家庭，将本研究结果推广到其他地区和其他社会经济地位的母亲群体时仍需谨慎。第二，由于追踪设计中人力物力等方面的原因，对中介变量和因变量的收集没有考虑到时间序列的问题，因此在进行因果推论时需慎重。第三，本研究没有考虑多个时间点的母亲生活压力对儿童发展的交互效应，在今后的研究需结合更多的分析方法，如一些纵向数据建模方法。第四，本研究的变量均采用问卷法测量，虽采用程序控制在一定程度上控制了共同方法偏差，但仍有可能受其影响，故未来的研究需采用实验任务与问卷相结合的方法来进一步验证本研究的结果。
+
+尽管存在以上不足，本研究仍然具有重要的实践意义：研究结果提示我们，在实施干预时，应该对危险因素（母亲生活压力）和保护因素（积极养育和努力控制）的作用予以同样的重视，即既要采取措施缓解母亲生活压力（例如改善夫妻婚姻质量、改善员工学习机会、减少工作压力、完善社会支持系统的建设等)，又要注意提高母亲积极养育的能力和技巧。特别值得注意的是，母亲生活压力可以直接造成儿童的品行问题，这需要引起全社会的关注，倡议推行关爱母亲行动，即关注儿童早期的发展，不仅要关注儿童个体本身，还要关注为儿童营造良好环境的母亲，母亲经历的生活环境和由此引起的心理环境也是影响儿童发展的重要因素。
+
+参考文献   
+Aan,N.P.,ga,C.).Egheoitortfutroledsaiodc and socioemotional indicators. Developmental Psychology,47(4),905-915.   
+AnthonyL.Go.Jaile,D,n..dsCer.).elatet stres, parenting behaviourand preschoolers'social competence and behaviour problems in theclasroom.Infant and Child Development,14(2),133-154.   
+Bae,Y.J.,&Li,J.(l2).Factsetigprehoolersposoialviradogtieprbloligability:fosigote parents'andpreschooler'sfortfulcontrol,andectionateparentingbhavior.KreanJournalofChildSudies,33(3),2.   
+Black,M.M.,&boud,F.E.(l1).esposiveingismbeddintoreticalfrmeworkofsposivepareting.Joualf Nutrition,141(3),490-494.   
+Black,M.M.,Walker,S.Ferald,L.CAdersenC.T.girolamoA.,uC.L,rantham-McGregorS.().Earl childhood development coming of age: science through the life course. Lancet,389(10064),77-90.   
+Brito,P.R.,Ly.JroulK,YusziA.K,aews.GVvada,T.,ua,Z.A.().rtricare:rog early childhood development. Lancet,389(10064),91-102.   
+Carrano,J.L.(4).Fomprenttdren: teintegenratioaltasiofdanageoualofen&overty9(1), 63-64.   
+Chronis,.M.ey,.,P.W.,Wils,.uma,.LKipp,H,.,atouz,P.J.().ateaep earlypositiveparentingpredictfutureconductproblems inyoungchildrenwithatention-deficit/hyperactivitydisorder.Developmental Psychology,43(1),7082.   
+Chang,H.,Shaw,D.S.,Dishion,.J,Gardner,F.,&Wso,M.N.(O15).Proactiveparentingandchidren'sefortfuotrol: mediatingrole of language and indirect intervention effects.Social Development, 24(1),206-223.   
+Chang,H.,hellbyE.Cong,J.W.,&awD..(2).umulativeisk,gativemotionalitydmotioeglatio predictorsofsocialcompetenceintrasitiontohool:amediatedmoderatiomodel.RevieofScialDevelopment,21(4)800   
+Chang,H.,Olson,S.L,Smerof,A.J,&Sexton,H.R. (2l1).Childfortfulcontrolamediatorofparentingpracticeson externalizingbehavior: evidenceforasex-differentiatedpathwayacrossthetransitionfromprescholtoschool.JournalofAnormal Child Psychology,39(1),71-81.   
+Clerkin,S..,ks,DJcaroK.Llpi,().setricproprisfebaareg preschool revision.Journal of Clinical Child &Adolescent Psychology,36(1),19-28.   
+Connell,A.M.,&Goodman,S.H. (2oo2).Theasociationbetweenpsychopathologyinfathers versus mothersandchldren's internalizingand externalizing behavior problems:ameta-analysis.Psychological Buletin,128(5),746-773.   
+Crnic,K.A.,Gaze,C,&Hma,C.(o).Cmulatieparentigstressarossthpresoolprd:elatios tatealpetig and child behaviour atage 5. Infant &Child Development,14(2),117-132.   
+Dong,S.H.,Liang,X,Zhang,Y.,& Wang,Z.Y.(01).Materalpositiveparentingbehaviorsandtodler'scomplance: predictiofrom materalsensitivityininfancyandbidirectionaleectsofautonomyencouragementintodlerhood.ActaPsychologicaSinica,49(4), 460-471.   
+[董书阳，梁熙，张莹，王争艳.(2017).母亲积极养育行为对儿童顺从行为的早期预测与双向作用:从婴儿到学步儿．心理学报， 49(4), 460–471.]   
+Evans,G.W,&i,P.().odpertyoicr,eulaiong.hidevepntspc), 43-48.   
+Gartstein,M.A.dge,D.J,Youg,akseJ,&oe.).Orginsofefulcorol: fand contributions.Infancy,18(2),149-183.   
+Goodman,R.(ool).Psychometricpropertiesof testrengthsddifcultisquestioaire.JoualoftheAmericaAcademyofChild & Adolescent Psychiatry,40(11),1337-1345.   
+Gulley,L.D.Hankin,B.L,&Young,J.F.(l).Riskfordepreioandaxietyinouth:theinteractionbetweennegative affectivity,ffortfulotrol,ndstressors.oualofnoal Childyhology,44(2),1.   
+Hanson,J.L,acewic,..uterer,.J,CayA.A,chaefer,..,&udolh,K.D.,DvidsonR.J.().Bio problems afterearlylife stress:contributionsof thehippocampusandamygdala.Biological Psychiatry,77(4),14323.   
+Hibel,L.C,adoE,&belJ..(2).etigtrssdogislileofwokigohoulf Family Psychology,26(5),738-746.   
+Howell,K.H,&ckE..6).eigtalcstaattgctsfsiie parenting and emotional expresson. Journal of Child and Family Studies,25(1),1-13.   
+Kochanska,G.&Kim,.(14).compexitplamongearent-childelationiprtfulcotrol,nditeald,ule compatible conduct in young children: evidence from two studies. Developmental Psychology,50(1),1-27.   
+Kou,J.H.,Du,Y.S.,&Xia,L.M.(O5).Reliabilityadvityofhdrenstregthanddfultisuestioaireinsaghao. Shanghai Archivesof Psychiatry,17(1),5-28.   
+[寇建华，杜亚松，夏黎明.(2005)．儿童长处和困难问卷(父母版)上海常模的信度和效度．上海精神医学，17(1),25-28.]   
+Lake,A.,&Chan,M. (2014).Putingscience into practiceforearlychilddevelopment.Lancet,385(9980),1816-1817.   
+Lee,K.(2003).tealgsiloeratoeeprondrssullifeees:tson'silpb in an interventionprogram.JournalofChildandFamilyStudies,12(4),425437.   
+Lengua,L.J.,oadoE,ush,N.(O.ontextualisdarentigasprdictorsoforfulotroldocialce in preschool children. Journal of Applied Developmental Psychology,28(1),40-55.   
+Li,J.,Robio,caE,JcbFoter,ekele,.V.).taersnti children's school achievement at age 10 years.Journal of Pediatrics,l62(3),483-489.   
+Liu,Y. P,Deng,H.H,ZhangG.iag,&u,ZH(5).Aoiatioetweepaentingrsahidioal problems: the mediation effect of parenting styles.Psychological Development and Education,31(3),319-326   
+[刘亚鹏，邓慧华，张光珍，梁宗保,陆祖宏.(2015).父母养育压力对儿童问题行为的影响:养育方式的中介作用．心理发展与教 育, 31(3), 319–326.]   
+Liu, W.,Tian,L.L,&Tan,J.H.(01).Cumulativecontextual skandsuicidalideationamong working women: adiated moderation model. Studies of Psychology and Behavior,12(3),397-403.   
+[刘旺，田丽丽，谈继红.(2015)．累积情境风险与职业女性自杀意念的关系:有中介的调节模型．心理与行为研究,12(3),397-403.]   
+Lv, Q., Chen,H.C.,& Wang,L.(2Oo3).Reviewof the studiesonchildrenbehavior problems and relatedfactors of parenting styles. Psychological Science,26(1),130-132.   
+[吕勤，陈会昌，王莉.(2003)．儿童问题行为及其相关父母教养因素研究综述．心理科学,26(1),130-132.]   
+Olson,S.L,mroff,.Ker.C..oz,N.L,&ellmanH..().evelomentalfoundatiosoextealing problems in young children: the role of effortful control.Development and Psychopathology,17(1),25-45.   
+Peleg,O.,Halaby,E,&Whaby,E.(o6).Therelationshipfmatealsparationanxietyanddierentiationofselftohldren's separation anxietyandadjustmenttokindergarten: astudyin Druze families.Journalof AnxietyDisorders,2O(8),973-995.   
+Putnam,S.P.,&Rothbart,.K.(6).DevelopmentofshoradveryshortfosofteCildren'sBehviorQuestioaire.Joualf Personality Assessment,87(1),-11.   
+Rutter,M. (1979). Protective factors in children's re onses to stress and disadvantage.Annals of the Academy of Medicine Singapore,8(3), 324-338.
+
+Sawyer,A.C.,Mlerlewis,L.R,earle,A.K.awr,M.G.&Lych,J.W.(5).reaterimprovementiearlysel-rglatio
+
+associated with fewer behavioral problems later in childhood? Developmental Psychology, 51(12),1740-1755. Sheleby,E.C,aw.eogJ,ang,HarderF.ison,T.J,on..).ehviolor toddlers: theinfluenceof thefamilycheck-up.JournalofClinical Child &AdolescentPsychology41(3),28-01. Shen,X.N.(Oo8).Thefamilyenvironmental influenceonchildrenbehavior.HenanJournalof Preventive Medicine,19(1),10-12. [申小娜.(2008).家庭环境对儿童行为问题的影响．河南预防医学杂志,19(1),10-12.] Singla,D.R,Kumbba,E,&od,F.E.5).ectofretigiteetdresatelpolgicaing andchilddevelopmentandgowthinuralUganda:acommunitybased,clusterrandoisedtrial.LancetGlobalHalth),4 469. Spinrad,L,hia andtoddlers'efortfulcontroltochildren'sdjustmentandsociacompetence.Developmental Pschology43(5),17186. Sun,D.L.,Zhao,Y.F.,Xian,D.X.,Wn,G..Yng,W.K,n,X.N,&Wu,C.A.(216).erelatioshibetweepreshoden behavior problems and family environment. Chinese Journal of School Health, 37(10),1576-1578. [孙灯利，赵雅芬，洗丹霞，温国明，杨伟康，尹晓娜，吴传安.(2016.学龄前儿童品行问题与家庭环境的关系.中国学校卫 生,37(10), 1576-1578.] Tan,T.X.,Camas,L.A.,eng,HZag,,&u,Z.().Fmilysrsreningstylesdbevialjusmntioo ageadopted chinese girls.Early Childhood Research Quarterly,27(1),128-136. Tiberio,..,Cpadi.KeD.,erand,ears,K.C,wn,L().Paetiadthedevelopeful control fromearlychildoodtoearlyadolescence:atrasactionaldevelopmental model.DevPsychopathol,28(3),7-85. Tsang,L.L.W.,Harvey,C.D.H.,Duncan,K.A,&Sommer,R.(2o3).Theefectsofchildren,dualearnerstatus,exole traditionalism,and marital structureon marital happiness overtime.JournalofFamily&Economic Issues,24(1),5-26. Tudge,J.R.H,ai,ero-Vgas,,oH.ingY,iJ,OBrien,L.(6).ilisseetea revaluationoftheusesofbronfenbrenner'sbioecologicaltheoryofhumandevelopment.JouralofFmilyTheory&Review,8(4),47 445. Wen,Z.L.,&Ye,BJ.(14).nalyssfmediatingeects: edevelopmentfosandmodels.AdancesinsycologicalScience, 22(5), 731-745. [温忠麟，叶宝娟.(2014).中介效应分析:方法和模型发展．心理科学进展,22(5),731-745.] WomenofChinaWomen'sLifeSurveyCenter.(2016).Thel2th SurveyonQualityofLifeofChinese Womenin Cies.Beijing,Chna: Author. [中国妇女杂志社，华坤女性生活调查中心.(2016)．第12次中国城市女性生活质量调查报告.北京.] Wu,M.,iang,XLu,S.,&Wang,Z.Y.(O7).Ifant motorandcognitiveabitisandsbsequntexeutivefunctio.Infantevir & Development, 49,204-213. Yang,D.S.,&Zhang,Y.L.(1990).Lifeeventscale.InD.S.Yang(Ed.),Behavioral medicine (p.285).Changsha,China: HunanNoa University. [杨德森，张亚林.(1990).生活事件量表．见 杨德森 (编)，行为医学(p.285）长沙：湖南师大出版社] Zheng,X.P.,&Cen,G.,(O6).Revieoftereseachsosocaldevelopmentofilyelateddadvantagedchdren.syolgical Science, 29(3), 747-751. [郑信军，岑国桢.(2006).家庭处境不利儿童的社会性发展研究述评．心理科学,29(3),747-751.]
+
+表1母亲生活压力、积极养育和儿童努力控制、行为问题的均值、标准差及相关分析  
+
+<html><body><table><tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr><tr><td>1</td><td>T1母亲生活压力</td><td>一</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td>T2 母亲生活压力</td><td>0.41**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>T3 母亲生活压力</td><td>0.46***</td><td>0.61***</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>T4 母亲生活压力</td><td>0.46**</td><td>0.44**</td><td>0.63***</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>T5积极养育</td><td>-0.28*</td><td>－0.49***</td><td>-0.44**</td><td>- 0.25+</td><td>一</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>T5 努力控制</td><td>-0.15</td><td>-0.19</td><td>- 0.25+</td><td>-0.13</td><td>0.41***</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>T5 情绪症状</td><td>0.27*</td><td>0.30*</td><td>0.33**</td><td>0.26+</td><td>-0.47****</td><td>- 0.22*</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td>T5品行问题</td><td>0.25+</td><td>0.39**</td><td>0.31*</td><td>0.27*</td><td>-0.34**</td><td>－0.30**</td><td>0.42****</td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>T5过度活跃</td><td>-0.17</td><td>-0.01</td><td>0.17</td><td>-0.06</td><td>- 0.27*</td><td>-0.51***</td><td>0.13</td><td>0.26*</td><td></td><td></td><td></td></tr><tr><td>10</td><td>T5 同伴问题</td><td>0.10</td><td>0.50***</td><td>0.33**</td><td>0.03</td><td>-0.46****</td><td>-0.35**</td><td>0.34**</td><td>0.29**</td><td>0.31**</td><td>一</td><td></td></tr><tr><td>11</td><td>T5亲社会行为</td><td>- 0.04</td><td>- 0.25+</td><td>-0.11</td><td>- 0.15</td><td>0.31**</td><td>0.37**</td><td>-0.36**</td><td>- 0.28*</td><td>- 0.20+</td><td>- 0.22+</td><td></td></tr><tr><td></td><td>均值M</td><td>1.70</td><td>1.70</td><td>1.12</td><td>1.34</td><td>51.13</td><td>5.42</td><td>1.77</td><td>1.95</td><td>4.61</td><td>1.91</td><td>7.09</td></tr><tr><td></td><td>标准差SD</td><td>2.34</td><td>2.92</td><td>2.51</td><td>2.28</td><td>5.57</td><td>0.56</td><td>1.81</td><td>1.21</td><td>2.50</td><td>1.73</td><td>1.89</td></tr></table></body></html>
+
+注： $^ { + } p < 0 . 1 0$ ， $^ { * } p < 0 . 0 5$ ， ${ } ^ { * * } p < 0 .$ ， $^ { * * * } p < 0 . 0 0 1$ 。下同
+
+表2母亲生活压力对儿童行为问题的影响路径分析表  
+
+<html><body><table><tr><td></td><td>90%置信区间</td><td>效应值</td></tr><tr><td>直接效应</td><td></td><td></td></tr><tr><td>母亲生活压力→品行问题</td><td>[0.22,0.66]</td><td>0.48</td></tr><tr><td>母亲生活压力→情绪症状</td><td>[0.04,0.64]</td><td>0.33</td></tr><tr><td>间接效应</td><td></td><td></td></tr><tr><td>母亲生活压力→积极养育→情绪症状</td><td>[0.03, 0.35]</td><td>0.13</td></tr><tr><td>母亲生活压力→积极养育→同伴问题</td><td>[0.08,0.40]</td><td>0.22</td></tr><tr><td>母亲生活压力→积极养育→努力控制→过度活跃</td><td>[0.03,0.20]</td><td>0.09</td></tr><tr><td>母亲生活压力→积极养育→努力控制→亲社会行为</td><td>[-0.18,-0.02]</td><td>-0.08</td></tr></table></body></html>
+
+![](images/2bb4e07c6198f2a85f9e303ed1584471d0f1523a38217974d7158dd193b9c42c.jpg)  
+图1早期母亲生活压力与儿童行为问题的链式中介模型 （删减不显著路径后的节俭模型）
+
+# The Predictive Effects of Maternal Life Event Stress in Early Childhood on 5-year-old Child Behavioral Problems: A Chained Mediation Model
+
+HAO Yefang1; WANG Zhengyan1; DONG Shuyang1,²; LIU Siman1; WU Meng1, 3; LU Shan1
+
+$^ { 1 }$ Department of Psychology,Center for Child Development,Learning and Cognitive Key Laboratory, Capital Normal University,Beijing 10oo48,China)   
+$^ { 2 }$ Faculty of Social and Behavioural Science,Utrecht University,Utrecht 3584CS,The Netherlands) 1 $^ { 3 }$ Department of Psychology, Xinxiang Medical University, Xinxiang 453o03,China)
+
+# Abstract
+
+As the primary caregiver, mothers have the most frequent interactions with children and display the most significant influence on children's development. If mothers experience intense life event stress,they may create a stressful environment for their children's early development. Living in such a developmental environment raises children's risk of behavior problems in later childhood. Regarding the predictive effects of maternal stress on child outcomes, two compensatory models are differentiated in previous research: one is the direct effect model, which emphasizes on the direct impact of parenting stress on children's maladjustment; and the other one is the indirect effect model, which focuses on the mediating roles of parenting practices and child self-regulation in the associations between parenting stress and child behavioral problems. However, in contemporary Chinese society,urban mothers face different sources of stress in their daily life.Maternal life event stress represents a more comprehensive and ecologically-validated assessment of maternal stress in the modern China, than maternal parenting stress assessed solely. It is still unclear that whether those models about parenting stress are applicable to maternal life event stress. Based on Bronfenbrenner's bioecological theory, we focused on the direct and indirect effects of maternal life event stress throughout infancy and toddlerhood on child behavioral problems at preschool in this longitudinal study. Three research questions were examined: 1) Which life events are the main stressors for urban mothers during their children's infancy and toddlerhood periods；2）Does maternal life event stress in these periods exert a long-term direct efect on preschoolers' behavioral problems; 3) Does maternal life event stress also impact preschoolers' behavioral problems through parenting practices and children's self-regulation?
+
+107 families (50 boys and 57 girls) were recruited from the local communities and child care clinics in urban areas of Beijing. During this five-year longitudinal study, questionnaires were distributed to the mothers at five waves of assessments.At 9,14,25,and 38 months,data on maternal life event stress were collected through maternal reports on the Life Event Scale.When children were 61 months, mothers rated children's behavioral problems and prosocial behaviors by the Strengths and Difficulties Questionnaire and child effortful control by the Children's Behavior Questionnaire，and reported their positive parenting practices on the Alabama Parenting Questionnaire.
+
+The results showed that the most frequent negative life events included housing shortage, stress from work and studying, family members being seriously ill or injured, problems with spouse's parents,difficulty with caring for the child,and low quality in marital relationship.Although the correlation coeficients between the maternal life event stress at the adjacent time points were moderate, the top ranked stressor varied slightly when children were at the different ages. At 9 months, housing shortage ranked the highest, whereas at 3 years old, difficulty with caring for the child ranked the highest, and the stress from low quality in marital relationship rose up.Furthermore, structural equation models showed that maternal life event stress across 9 to 38 months impacted children's behavioral problems at 6l months in two ways.First, there were direct negative effects of maternal life event stress on preschoolers' emotional symptoms and conduct problems.Second, the indirect efects included that the indirect effect of maternal life event stress on preschoolers' emotional symptoms and peer problems through maternal positive parenting practices, and the chained mediating effect through maternal positive parenting practices and then child effortful control between maternal life event stress and preschoolers’ hyperactivity problems and prosocial behaviors.
+
+This study indicated two underlying mechanisms of maternal life event stress throughout early development on preschoolers’ behavior problems， including the direct influence and indirect influence through positive parenting practices and child effortful control. These findings suggested that children's development was impeded in an early developmental environment where mothers were suffering from the stresses of intense negative life events, particularly for children's emotional regulation and behavioral conduct. Besides,the alternative indirect mechanism has also been found that positive parenting practices and child effortful control were disrupted by maternal life event stress,which,in turn, increased children's risks of attentional deficit symptoms and antisocial behaviors.The current study, thus, provided the empirical support for the non-negligible harm to children's adjustment from maternal life event stress in early childhood. Overall, maternal life event stress might increase the risk of behavior problems.This alerts us that it is necessary to identify the high-risk families in the community samples and conduct effective intervention as early as possible.
+
+Key words: maternal life event stress; behavior problem; positive parenting; effortful control; preschooler
+
+# 附录一：母亲生活事件量表
+
+下面是每个人都有可能遇到的生活事件，假如事件发生，究竟是好事还是坏事，可根据个人情况自行判断，这些事件可能对个人有精神上的影响(体验为紧张、压力、兴奋或苦恼)，影响的轻重程度和持续时间各不相同。请在最适合的答案上打上画√。（未发生的事件在未发生上画√，无需填写性质、精神影响程度、持续时间)。
+
+<html><body><table><tr><td rowspan="3"></td><td colspan="4">事件发生时间</td><td colspan="3">性质</td><td colspan="5">精神影响程度</td><td colspan="4">影响持续时间</td></tr><tr><td>0 未 发</td><td>1 一</td><td>2 一 年年</td><td>3 期</td><td>1 长好坏中</td><td>2</td><td>3</td><td>1 无 影</td><td>2</td><td>345 轻中重极</td><td></td><td></td><td>1 三半 月年</td><td>23 一 年</td><td>以</td><td>4 一 年</td></tr><tr><td></td><td>生</td><td>前</td><td>内</td><td>性</td><td></td><td>事事性</td><td></td><td>响</td><td>度</td><td>度</td><td>度</td><td>重</td><td>内</td><td>内</td><td>内</td><td>上</td></tr><tr><td>1.家庭增添新成员 2.夫妻感情不好</td><td>0</td><td>1 1</td><td>2 2</td><td>3 3</td><td>1 1</td><td>2 2</td><td>3 3</td><td>1</td><td>2 2</td><td>3 3</td><td>4 4</td><td>5 5</td><td>1 1</td><td>2 2</td><td>3</td><td>4</td></tr><tr><td>3.与爱人两地分居（因工作）</td><td>0</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>1 1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>1</td><td>2</td><td>3 3</td><td>4 4</td></tr><tr><td></td><td>0</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>4.住房紧张</td><td>0</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>5.离婚</td><td></td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td></td><td>2</td><td>3</td><td>4</td><td>5</td><td></td><td>2</td><td></td><td></td></tr><tr><td>6.爱人离世</td><td>0</td><td>1</td><td>2</td><td>3</td><td></td><td></td><td></td><td>1</td><td></td><td>3</td><td></td><td></td><td>1</td><td></td><td>3</td><td>4</td></tr><tr><td>7.与爱人父母不和</td><td>0</td><td>1</td><td></td><td></td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td></td><td>4</td><td>5</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>8.本人或亲人重病/重伤</td><td>0</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>9.亲人离世 10.孩子难以照管</td><td>0</td><td></td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>11.生活规律发生重大变动</td><td>0</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>12.待业、无工作</td><td>0</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>13.开始工作</td><td>0</td><td>1 1</td><td>2</td><td>3 3</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>1</td><td>2</td><td>3 3</td><td>4</td></tr><tr><td></td><td>0</td><td></td><td>2</td><td></td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>1</td><td>2</td><td></td><td>4</td></tr><tr><td>14.工作学习中压力大</td><td>0</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>1</td><td>2</td><td>3</td><td>4</td></tr></table></body></html>

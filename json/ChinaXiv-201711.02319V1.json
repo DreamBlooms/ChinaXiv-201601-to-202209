@@ -1,0 +1,181 @@
+[
+    {
+        "type": "text",
+        "text": "Puzzle of the $\\Lambda _ { c }$ spectrum ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qi-Fang Lu $^ 1$ \\* Yubing Dong1.2,† Xiang Liu3,4,‡ and Takayuki Matsuki $^ { 5 , 6 }$ s 1Institute of High Energy Physics,CAS,Beijing 100049,China 2Theoretical Physics Center for Science Facilities (TPCSF), CAS, China 3School of Physical Science and Technology, Lanzhou University, Lanzhou 73ooo0,China 4Research CenterforHadronandCSRPhysics,Lanzhou University&InstituteofModernPhysicsofCAS,Lanzhou73ooChina 5Tokyo Kasei University，1-18-1 Kaga,Itabashi,Tokyo 173-8602,Japan 6Theoretical Research Division,Nishina Center,RIKEN,Wako,Saitama 351-0198,Japan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There is a puzzle in the ${ \\Lambda } _ { c } ^ { + }$ family,i.e.,one member with $J ^ { P } = 3 / 2 ^ { + }$ is missing in a $L = 2$ multiplet which the heavy quark effective theory predicts,and $J ^ { P }$ 'sof $\\Lambda _ { c } ( 2 7 6 5 ) ^ { + }$ and $\\Lambda _ { c } ( 2 9 4 0 ) ^ { + }$ are unknown.Usinga light diquark picture to calculate baryon masses,we study possible assignments of two $\\Lambda _ { c }$ 's with unknown $J ^ { P }$ and the missing $\\Lambda _ { c } ^ { + }$ with $3 / 2 ^ { + }$ for $L = 2$ ,and we find the most probable possibility that the peak corresponding to $\\Lambda _ { c } ( 2 8 8 0 ) ^ { + }$ actually includes a missing member with spin $3 / 2 ^ { + }$ for $L = 2$ and that quantum numbers of $\\Lambda _ { c } ( 2 7 6 5 ) ^ { + }$ and $\\Lambda _ { c } ( 2 9 4 0 ) ^ { + }$ are $2 S ( 1 / 2 ^ { + } )$ and $2 P ( 1 / 2 ^ { - } )$ ,respectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction: In the former paper [1],we have pointed out that careful observation of the experimental spectra of heavylight mesons tells us that heavy-light mesons with the same angular momentum $L$ are almost degenerate and that mass differences within a heavy quark spin doublet and between doublets with the same $L$ are very small compared with a mass gap between different multiplets with different $L ,$ ，which is nearly equal to the value of the $\\Lambda _ { \\mathit { Q C D } } \\sim 3 0 0 \\mathrm { ~ M e V } .$ In Conclusions and Discussion of Ref. [1],we have also suggested that ${ \\Lambda } _ { c } ^ { + }$ baryons may have properties similar to heavy-light mesons. There have been a couple of papers which pursue the similar idea for light and vector mesons by Afonin and his collaborators [2,3],on which we do not discuss in this paper. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "According to PDG [4]，there are six ${ \\Lambda } _ { c } ^ { + }$ baryons observed by experiments,which are $\\Lambda _ { c } ( 2 2 8 6 ) ^ { + }$ ， $\\Lambda _ { c } ( 2 5 9 5 ) ^ { + }$ $\\Lambda _ { c } ( 2 6 2 5 ) ^ { + }$ ， $\\Lambda _ { c } ( 2 7 6 5 ) ^ { + }$ (or $\\Sigma _ { c } ( 2 7 6 5 ) ^ { + } )$ ， $\\Lambda _ { c } ( 2 8 8 0 ) ^ { + }$ ，and $\\Lambda _ { c } ( 2 9 4 0 ) ^ { + }$ ．Among these,the following heavy quark spin multiplets are identified; $\\Lambda _ { c } ( 2 2 8 6 )$ with $\\bar { J ^ { P } } = 1 / \\bar { 2 } ^ { + }$ for $L = 0$ $\\Lambda _ { c } ( 2 5 9 5 ) ^ { + }$ and $\\Lambda _ { c } ( 2 6 2 5 ) ^ { + }$ with $1 / 2 ^ { + }$ and ${ } ^ { 3 / 2 ^ { + } }$ for $L \\ = \\ 1$ respectively,and $\\Lambda _ { c } ( 2 8 8 0 ) ^ { + }$ with $5 / 2 ^ { + }$ for $L = 2$ .There is one member missing in the spin multiplet for $L = 2$ which has spin ${ } ^ { 3 / 2 ^ { + } }$ . Other than this missing particle,mass differences in the same multiplet, i.e.,with the same $L$ ，arevery small and gaps between the average masses of spin multiplets are all $\\sim 3 0 0 \\mathrm { M e V } ,$ which obeys the rule proposed in Ref.[1].Although these successful assignments,there still remains a puzzle in the ${ \\Lambda } _ { c } ^ { + }$ baryons,where the missing member for $L = 2$ is and what quantum numbers $J ^ { P }$ are for $\\Lambda _ { c } ( 2 7 6 5 ) ^ { + }$ and $\\Lambda _ { c } ( 2 9 4 0 ) ^ { + }$ . If we regard $\\Lambda _ { c } ( 2 9 4 0 ) ^ { + }$ as a missing member of $L = 2$ ,then this state must have spin-parity $3 / 2 ^ { + }$ ，which contradicts a common understanding that a state with smaller spin $3 / 2$ appears lower in mass than a state with larger spin $5 / 2$ .In addition, the strong and radiative decays of $\\Lambda _ { c } ( 2 9 4 0 )$ in a $D ^ { * } N$ molecular scenario have been analyzed in Refs. [5,6] which are against spin $3 / 2$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There is a pioneering work [7] which calculates baryon masses directly extending the method of Godfrey and Isgur [8].However,since thismethod is complicated,in thisarticle regardinga baryon asa heavy quark-light diquark system $( Q \\{ q q \\} )$ like in Ref.[9] and calculating its mass,we show that the above observation on $\\Lambda _ { c }$ holds,predict $J ^ { P }$ and spin assignments of $\\Lambda _ { c } ( 2 7 6 5 ) ^ { + }$ and $\\Lambda _ { c } ( 2 9 4 0 ) ^ { + }$ ,and propose a solution to a puzzle where the missing member for $L = 2$ is. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We adopt the method provided in Ref.[9] to calculate baryon masses whose prescription is given by:1) First we calculate diquark masses assuming the relativised quark model proposed by Godfrey and Isgur(GI) [8]. 2） Next,having a diquark mass calculated and regarding two light quarks as $3 ^ { * } \\in 3 \\times 3$ ，we again apply the GI model to a heavy quarklight diquark system to obtaina baryon mass. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This way of calculation places very tight conditions on parameters so that it is very difficult to reproduce physical masses as one can imagine.Hence,we also refer to the values of baryon masses where diquark masses are parameters to fit with experimental data [1O],and also refer to the values given in Refs. [7,9, 11]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RelativizedQuarkModelandDiquarkMasses:Tocalculate baryon masses,we adopt interactions propopsed by the relativized GI model whose Hamiltonian between quark and antiquark can be expressed as ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { H } = H _ { 0 } + \\tilde { V } ( \\vec { p } , \\vec { r } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { H _ { 0 } } & { = } & { ( p ^ { 2 } + m _ { 1 } ^ { 2 } ) ^ { 1 / 2 } + ( p ^ { 2 } + m _ { 2 } ^ { 2 } ) ^ { 1 / 2 } , } \\\\ { \\tilde { V } ( p , r ) } & { = } & { \\tilde { H } _ { 1 2 } ^ { c o n f } + \\tilde { H } _ { 1 2 } ^ { c o n t } + \\tilde { H } _ { 1 2 } ^ { t e n } + \\tilde { H } _ { 1 2 } ^ { s o } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here $\\tilde { H } _ { 1 2 } ^ { c o n f }$ includes the spin-independent inear confinement andCoulomb-likeinteraction $\\tilde { H } _ { 1 2 } ^ { c o n t } , \\tilde { H } _ { 1 2 } ^ { t e n }$ and $\\tilde { H } _ { 1 2 } ^ { s o }$ are the color contact,color tensor interactions,and spin-orbit term, respectively. Subindices1 and 2 denote quark $( 3 _ { \\mathrm { { c } } } )$ and antiquark $( 3 _ { \\mathrm { c } } ^ { * } )$ ,respectively. The symbol $^ { 6 6 } \\sim ~ ^ { , 9 }$ on top of the operator $\\tilde { H }$ means that we operate the relativized procedure on $H$ ，by which relativistic effects are taken into account. The explicit forms of those interactions and the details of therelativization procedure can be found in Refs.[7,8] for mesons and baryons,respectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To solve Eq. (1),we need values of parameters which are given in Table I provied by Refs.[7, 8]. Here $C _ { q q }$ is taken to be the same as $C _ { q \\bar { q } }$ in Ref.[8] up to the factor,an inner product of color matrices $\\left. { \\vec { F } _ { 1 } \\cdot \\vec { F } _ { 2 } } \\right.$ with $V _ { s t r i n g } ( \\vec { r } ) = C _ { q q }$ （or $C _ { q \\bar { q } } ) +$ br. $\\tilde { V }$ includes Gell-Man matrices whose expectation vlaues, $\\left. \\vec { F } _ { 1 } \\cdot \\vec { F } _ { 2 } \\right.$ are $4 / 3$ for $q \\bar { q }$ and $- 2 / 3$ for a diquark qq. In Table I, GI means parameters taken from Ref. [8] and CI from Ref. [7] which we adopt in this work to calculate diquark masses as well as heavy quark-diquark,i.e.,charmed baryon masses.In this work, $C _ { q \\bar { q } }$ is used for $C _ { Q d i }$ where $\\boldsymbol { Q }$ is a heavy quark and “di” expresses a diquark. The word“same”in the CI column in Table Imeans the same value as a GI parameter. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4250d007d40489286fec341840e9f6be26200af966a8aaca702fc2efc3a392a4.jpg",
+        "table_caption": [
+            "TABLE I: Values of parameters used in this work.GI means parameters taken from Ref.[8] and CI from Ref.[7]. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>GI</td><td>CI (Thiswork)</td></tr><tr><td>1(mu+md) (MeV)</td><td>220</td><td>same</td></tr><tr><td>ms (MeV)</td><td>419</td><td>same</td></tr><tr><td>mc (MeV)</td><td>1628</td><td>same</td></tr><tr><td>αs</td><td>0.60</td><td>same</td></tr><tr><td>AQCD (MeV)</td><td>200</td><td>same</td></tr><tr><td>Cqq (MeV)</td><td>一（-253)</td><td>same</td></tr><tr><td>Cq (MeV)</td><td>N/A</td><td>2 （(-253)</td></tr><tr><td>0o (GeV)</td><td>1.80</td><td>same</td></tr><tr><td>S</td><td>1,55</td><td>same</td></tr><tr><td>b (GeV²)</td><td>0.18</td><td>0.15</td></tr><tr><td>1 +Econt</td><td>2-0.168</td><td>same</td></tr><tr><td>+Etens</td><td>+0.025</td><td>-0.168</td></tr><tr><td>21-21-21-21- +Eso(v)</td><td>1+ 0.055</td><td>12</td></tr><tr><td>+ Eso(s)</td><td> + 0.055</td><td>+0.30</td></tr><tr><td>2 + ECoul</td><td>12</td><td>same</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The calculated diquark masses by using both parameter sets of GI and CI are listed in Table I.Although Ref.[7] includes the three body interaction,we neglect it to simplify the calculation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f48d14da183f64c6e51d8867af5af9e62fa41932364d94c8b2e3967e16614051.jpg",
+        "table_caption": [
+            "TABLE II: Masses of scalar and axial vector diquarks. $s$ and $A$ denote scalar and axial vector diquarks,respectively. The braces and brackets correspond to symmetric and antisymmetric quark contents in flavor, respectively. The units are in MeV. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Quark content</td><td>Diquark type</td><td>Mass (GI)</td><td>Mass (CI)</td></tr><tr><td>[u,d]</td><td>S</td><td>691</td><td>642</td></tr><tr><td>{u,d}</td><td>A</td><td>840</td><td>779</td></tr><tr><td>[u,s]</td><td>S</td><td>886</td><td>838</td></tr><tr><td>{u,s}</td><td>A</td><td>992</td><td>934</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Baryon masses:After obtaining diquark masses in Table II, we calculate baryon masses using Eq.(1) with both parameter sets of GI and CI.Although the mass values with the I parameter set is better than those of GI,we list both results in Table III as “Prediction (CI/GI)” together with experimental data and other results given by Refs. [7, 9-11]. Among these results,Refs.[9,1O] use heavy quark-diquark picture and Ref.[1O] uses the semi-relativistic quark potential model which should be compared with our results.Since Ref.[10] treats diquark masses as parameters,they obtain better fit with experimental data than ours. Our self-consistent calculation of the $\\Lambda _ { c }$ baryon masses gives a rather higher values compared with other models.Even though our calculated value $2 9 3 0 \\mathrm { M e V }$ is very close to $\\Lambda _ { c } ( 2 9 4 0 )$ , it is natural to consider that our values 293O and $2 9 1 9 \\mathrm { M e V }$ should forma multiplet for $L = 2$ .In this case,we find that mass difference betweeen members of a $L = 2$ multiplet is within ${ \\sim } 1 0 \\mathrm { M e V }$ including other models. Accordingly,we can see the similar tendency for all the models: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. $\\Lambda _ { c } ( 2 7 6 5 ) ^ { + }$ is identified as a $\\mid 2 S , 1 / 2 ^ { + } \\rangle$ state. 2. $\\Lambda _ { c } ( 2 9 4 0 ) ^ { + }$ is identified as a $\\mid 2 P , 1 / 2 ^ { - } \\rangle$ state. 3.The observed peak of the $\\Lambda _ { c } ( 2 8 8 0 ) ^ { + }$ assigned as $| ~ 1 D , 5 / 2 ^ { + } \\rangle$ actually includes a missing state $| 1 D , 3 / 2 ^ { + } \\rangle$ because their predicted masses listed in Table III are so close to each other,within $\\mathrm { \\sim 1 0 ~ M e V , }$ which could not be distinguished by experiments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Items 2 and 3 have been already pointed out by the paper of Ref.[1O].As for Item 3,experimental errors of the mass and width for $\\Lambda _ { c } ( 2 8 8 0 ) ^ { + }$ are so small, $2 8 8 1 . 5 0 \\pm 0 . 3 5$ and $5 . 8 \\pm 1 . 1$ given in Refs.[4,12,13],respectively, that one cannot imagine that there is a missing particle hidden in the same peak at $\\Lambda _ { c } ( 2 8 8 0 ) ^ { + }$ .However, there are theoretical uncertainties as one can see from Table II.References [7,11] give the same mass values for $| ~ 1 D , 5 / 2 ^ { + } \\rangle$ and ${ | \\ 1 D , 3 / 2 ^ { + } \\rangle }$ and Refs. [9,1O] including ours give masses within $\\sim 1 0$ $\\mathrm { M e V }$ so that considering theoretical errors,both states are most probably in one peak or it is very diffcult to separate two states from the peak at $2 8 8 0 \\mathrm { M e V } .$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conclusions and discussion: After many XYZ particles have been discovered, people have paid attention to these par ticles to solve a question how they can be explained,either molecular state,or tetra-quark state or just a kinematical effect [14-16]. Now setling most of the $X Y Z$ particles, people are now paying most of their energy to study heavy baryons, the cases that one or two or three quarks are heavy. To attack this problem is a bit hard compared with the XYZ particles because baryons consist of three quarks and it is very hard to solve a three-body problem.A diquark picture makes the problem easier to calculate their mass spectrum as well as their decay behaviors with a help of the ${ } ^ { 3 } \\dot { P } _ { 0 }$ model as the paper [17]. Also see the paper[1O] how to apply the method proposed by [17] to baryons. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After starting from the simple observation that many of the heavy-light mesons have degenerate masses within a heavy quark spin multiplet, we could extend the idea to baryons.The first example was the $\\Lambda _ { c }$ baryons.However, there is the puzzle in this spectrum that there is a missing member in a $L = 2$ heavy-quark spin multiplet. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this article,we have studied the ${ \\Lambda } _ { c } ^ { + }$ spectrum． To do so,we have calculated baryon masses taking a heavy quarkdiquark picture for baryons and have compared with other theoretical as well as experimental values.To take a diquark picture for two light quarks,we have tried to be self-consistent, i.e.,we have calculated diquark masses at first using the GI model with the $\\mathrm { C I }$ parameter set,and using those diquark masses,we have computed baryon masses.After observing the obtained values together with former theoretical values, we have concluded that $\\Lambda _ { c } ( 2 7 6 5 ) ^ { + }$ and $\\Lambda _ { c } ( 2 9 4 0 ) ^ { + }$ are identified as $\\mid 2 S , 1 / 2 ^ { + } \\rangle$ and $\\mid 2 P , 1 / 2 ^ { - } \\rangle$ states,respectively and that a missing member of the $L = 2$ heavy-quark spin multiplet is hidden in the peak around $\\Lambda _ { c } ( 2 8 8 0 ) ^ { + }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2588f22fbd548a65325b2cc281e613b7629853580ab24d4dfb4e0ab78501aee7.jpg",
+        "table_caption": [
+            "TABLE III: Predicted masses for the $\\Lambda _ { c } ^ { + }$ state of ours and other approaches in Refs.[7, 9-11] compared to experimental data [4] (in MeV). We adopt masses generated by the CI parameter set in this work. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">States</td><td colspan=\"7\">A+ baryons</td></tr><tr><td>PDG [4]</td><td>Prediction (CI)</td><td>Prediction (GI)</td><td>Ref.[10]</td><td>Ref.[9]</td><td>Ref. [7]</td><td>Ref. [11]</td></tr><tr><td>| 1S,1/2+></td><td>2286.86</td><td>2177</td><td>2267</td><td>2286</td><td>2286</td><td>2265</td><td>2268</td></tr><tr><td>|2S,1/2+></td><td>2766.6</td><td>2749</td><td>2891</td><td>2772</td><td>2769</td><td>2775</td><td>2791</td></tr><tr><td>|3S,1/2+></td><td></td><td>3160</td><td>3345</td><td>3116</td><td>3130</td><td>3170</td><td></td></tr><tr><td>|1P,1/2-></td><td>2592.3</td><td>2603</td><td>2736</td><td>2614</td><td>2598</td><td>2630</td><td>2625</td></tr><tr><td>|1P,3/2-></td><td>2628.1</td><td>2619</td><td>2739</td><td>2639</td><td>2627</td><td>2640</td><td>2636</td></tr><tr><td>|1D,3/2+></td><td></td><td>2930</td><td>3095</td><td>2843</td><td>2874</td><td>2910</td><td>2887</td></tr><tr><td>|1D,5/2+></td><td>2881.53</td><td>2919</td><td>3065</td><td>2851</td><td>2880</td><td>2910</td><td>2887</td></tr><tr><td>|2P,1/2-)</td><td>2939.3</td><td>3030</td><td>3204</td><td>2980</td><td>2983</td><td>3030</td><td>2816</td></tr><tr><td>[2P,3/2-)</td><td></td><td>3038</td><td>3203</td><td>3004</td><td>3005</td><td>3035</td><td>2830</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because our prediction on a missing member of the $L = 2$ heavy quark multiplet depends on accuracy of experiments, future careful measurements on the ${ \\Lambda } _ { c } ^ { + }$ spectrum by LHCb and the forthcoming BelleII is waited for to test our prediction. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This project is partly supported by the National Natural Science Foundation of China under Grant No. 11475192, as well as supported by the DFG and the NSFC through funds provided to the Sino-German CRC 11O Symmetries and the Emergence of Structure in QCD. This project is also partly supported by the National Natural Science Foundation of ChinaunderGrantNos.11305003,11222547,11175073, 11447604 andU1204115.T.Matsukiwishesto thank the institute of High Energy Physics,Beijing，where part of this workwas carried out. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1] T.Matsuki,Q.F.Lu, Y.Dong and T.Morii,“Approximate degeneracy of heavy-light mesons with the same $L$ ”Phys.Lett.B 758,274 (2016) [arXiv:1602.06545 [hep-ph]].   \n[2]S.S.Afonin,“Properties of new unflavored mesons below 2.4- GeV,”Phys.Rev. C76,015202(2007) [arXiv:0707.0824 [hepph]].   \n[3]S.S.Afonin and I.V.Pusenkov,“Note on universal description of heavy and light mesons,’Mod.Phys.Lett.A 29,1450193 (2014) [arXiv:1308.6540 [hep-ph]].   \n[4]K.A.Olive et al.[Particle Data Group Collaboration],’“Review ofParticle Physics,\" Chin.Phys.C38,090001 (2014).   \n[5]Y.Dong,A.Faessler,T.Gutsche and V.E.Lyubovitskij,Phys. Rev.D 81,014006(2010) doi:10.1103/PhysRevD.81.014006 [arXiv:0910.1204 [hep-ph]].   \n[6]Y.Dong，A.Faessler,T.Gutsche，S．Kumanoand V.E.Lyubovitskij，Phys.Rev.D 82，034035 (2010) doi:10.1103/PhysRevD.82.034035[arXiv:1006.4018 [hepph]].   \n[7]S.Capstick and N.Isgur,“Baryons in a Relativized Quark Model with Chromodynamics,\"Phys.Rev.D 34,2809 (1986).   \n[8]S.Godfrey and N.Isgur,“Mesons ina Relativized Quark Model with Chromodynamics,Phys.Rev.D 32,189(1985).   \n[9] D.Ebert，R.N. Faustov and V. O.Galkin,“Spectroscopy and Regge trajectories of heavy baryons in the relativistic quark-diquark picture,”Phys.Rev.D 84,O14025 (2011) [arXiv:1105.0583 [hep-ph]].   \n[10]B.Chen,K.W.Wei,X.Liu and T.Matsuki,‘Low-excited charm and charm-strange baryons revisited in the quarkdiquark picture,”arXiv:1609.07967 [hep-ph].   \n[11] W.Roberts and M.Pervin,“Heavy baryons in a quark model,\" Int.J.Mod.Phys.A 23,2817 (2008)[arXiv:0711.2492 [nuclth]].   \n[12]K.Abe et al.[Belle Collaboration],“Experimental constraints on the Spinand Parity of the $\\Lambda _ { c } ( 2 8 8 0 ) ^ { + }$ ”Phys.Rev.Lett.98, 262001 (2007) [hep-ex/0608043].   \n[13]B．Aubert et al.[BaBar Collaboration],“Observation of a charmed baryon decaying to $D ^ { 0 } p$ at a mass near $2 . 9 4 \\ : \\mathrm { G e V } / \\mathrm { c } ^ { 2 }$ ；， Phys.Rev.Lett.98,012001 (2007) [hep-ex/0603052].   \n[14] X.Liu, Chin. Sci.Bull. 59,3815 (2014)[arXiv:1312.7408 [hepph]].   \n[15]H.X. Chen, W. Chen,X.Liu and S.L. Zhu,Phys. Rept. 639,1 (2016) [arXiv:1601.02092 [hep-ph]].   \n[16]R．F. Lebed,R.E. Mitchell and E. S. Swanson, arXiv:1610.04528 [hep-ph].   \n[17] E.J.Eichten,C.T.Hill and C.Quigg,Phys.Rev. Lett.71,4116 (1993)[hep-ph/9308337]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    }
+]

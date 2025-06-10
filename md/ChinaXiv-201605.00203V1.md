@@ -1,0 +1,222 @@
+http://bhxb.buaa.edu.cn jbuaa@buaa.edu.cn DOI: 10.13700/j.bh.1001-5965.2014.0712
+
+# 航天员受银河宇宙线辐射的剂量计算
+
+张斌全，余庆龙，梁金宝，孙越强，杨垂柏，张坤毅(中国科学院 国家空间科学中心，北京100190)
+
+摘要：在近地空间(LEO)和深空探测中 航天员遭受的辐射风险主要来自于银河宇宙线(GCR)照射.银河宇宙线的辐射剂量是航天员辐射风险评价的基础.国际放射防护委员会(ICRP)于2013年提出了新的航天员空间辐射剂量估算方法，以更准确给出空间重离子辐射的剂量.基于此方法,开发了宇宙线粒子在物质中输运的蒙特卡罗程序,并在程序中实现用中国成年男性人体数字模型来仿真航天员.采用该程序计算了粒子( $Z = 1 \sim 9 2 )$ 各向同性照射航天员时器官的通量-器官剂量转换因数，并估算出航天员在近地轨道空间受银河宇宙线辐射的剂量.
+
+关键词：空间辐射；银河宇宙线(GCR)；航天员；辐射剂量；蒙特卡罗
+
+中图分类号：V520.6
+
+文献标识码：A 文章编号:1001-5965(2015)11-2044-08
+
+空间中的质子、电子、重离子、中子和X射线等辐射是威胁航天员健康和安全的环境要素.近20年国际和我国的载人航天事业均有了很大发展更多航天员参与空间活动航天员在空间停留的时间也更长接受越来越多的空间辐射照射.不同于以X射线、 $\gamma$ 射线和中子为主的地面辐射空间辐射含有高传能线密度(LET)的银河宇审线(GCR).银河宇宙线是指产生于太阳系外银河的高能带电粒子.银河宇宙线的成份包含约 $2 \%$ 电子和约 $9 8 \%$ 的原子序数 $1 \sim 9 2$ 的原子核原子核以质子（约 $87 \%$ ）和 $\alpha$ 粒子（约 $12 \%$ )为主重核仅占约 $1 \%$ .Cucinotta等[1]研究发现器官剂量当量的 $80 \%$ 以上来自于银河宇宙线;El-Jaby等[2]通过计算国际空间站上航天员的剂量，发现在 $2 \mathrm { c m }$ 铝屏蔽下银河宇宙线对航天员剂量当量的贡献为$8 5 \%$ 在 $1 0 \mathrm { c m }$ 铝屏蔽下的贡献为 $7 5 \%$ .因此,银河宇宙线辐射剂量的计算和监测是航天员空间辐射风险评估的重要工作.
+
+长期以来国际上对航天员辐射剂量估算主要依据国际放射防护委员会(ICRP)的第26号[3]和第60号[4]出版物航天员器官的剂量当量 $H _ { r }$ 等于器官吸收剂量 $D _ { \scriptscriptstyle { T } }$ 与辐射品质因数的乘积.辐射品质因数是反映不同辐射危害大小的量ICRP60号出版物把辐射品质因数认为是LET的函数
+
+然而研究表明，辐射品质因数不仅与辐射LET值有关还与粒子的类型、能量和辐射效应类型有关[5].对于LET值相同、类型不同的粒子,它们产生的辐射效应不同，以LET为函数的辐射品质因数不能准确反映辐射的生物学效应，
+
+2013年，ICRP发布了第123号出版物—《航天员空间辐射照射的评价》[6].该出版物在大量重离子生物学效应研究的基础上，提出了新的用于航天员辐射剂量计算的辐射品质因数.该因数不再仅是LET的函数，而是与辐射粒子原子序数、能量和辐射效应类型有关更真实反映粒子辐射的生物效应.有必要研究与ICRP
+
+123号出版物相适应的航天员辐射剂量监测评估方法.
+
+本文采用人体数字模型模拟航天员，通过蒙特卡罗程序仿真粒子在航天员体内的输运，结合ICRP123号出版物，计算出粒子通量-航天员剂量转换系数并由银河宇审线模型给出近地空间的宇宙线强度进一步计算出银河宇宙线对航天员的辐射剂量.
+
+# 1模型和方法
+
+# 1.1 人体数字模型
+
+由于不能对人体内的辐射剂量进行直接测量，人体组织或器官的辐射剂量一般通过体表测量或模拟计算的方式得到.尤其是近十多年来，各国先后开发了大量的人体数字模型把人体划分为大量的小体积单元（体素），通过核磁共振成像(MRI)、计算机断层扫描(CT)或切割断层图片可得到各体素所属的组织器官，结合粒子输运程序以研究人体受空间辐射的剂量[744].
+
+本工作中采用CNMAN人体数字模型[15].该模型基于第三军医大学采集的虚拟人数据集建立.数据集的标本来自身高 $1 7 0 \mathrm { c m }$ 体重 $6 5 ~ \mathrm { k g }$ 的成年男性.通过对标本的切割解剖，获取到1700多个解剖断面，对每个断面进行照相，分辨率达到630万像素.基于每一个断面的照片经图像处理后重新构建出人体三维数字模型.该人体数字模型把人体划分出29个组织器官每个组织器官由大量的体素组成，体素体积为 $0 . 1 6 \mathrm { m m } \times$ $0 . 1 6 \mathrm { m m } \times 1 . 0 \mathrm { m m }$ .CNMAN是专用于辐射剂量评估的人体数字模型在辐射防护领域的研究和应用中发挥作用[16-18].
+
+# 1.2 剂量计算方法
+
+航天员空间辐射剂量的计算大多采用模拟粒子输运的Geant4[19]、 $\mathrm { M C N P } ^ { [ 2 0 ] }$ 和Fluka[21]等通用蒙特卡罗软件.然而依据ICRP123号出版物需要对粒子在体内的输运全过程进行跟踪，针对每一能量的粒子计算其辐射品质因数，通用蒙特卡罗软件在此方面的应用存在困难.为此需开发新的航天员辐射剂量计算程序.
+
+航天员辐射剂量计算程序采用Fortran90语言编写.航天员组织器官的吸收剂量和剂量当量的计算过程如图1所示：通过随机抽样出粒子的位置和方向把粒子位置、方向、能量和原子序数等信息作为输入，计算粒子穿过人体数字模型各体素时的质量阻止本领和辐射品质因数，进一步得到粒子在各体素的沉积能量、吸收剂量和剂量当量最后对各组织或器官的所有体素的吸收剂量和剂量当量求和，得到组织或器官的吸收剂量和剂量当量.计算中源粒子随机抽样为各向同性照射，原子序数从1～92，能量覆盖1\~$2 0 0 0 0 \mathrm { M e V / n }$ 范围.
+
+![](images/ea090f366be092f5f9904fc89bda6ed8af6712f958294098a7a9566767db799d.jpg)  
+图1航天员器官剂量计算流程Fig.1Process to calculate astronauts’organ dose
+
+粒子的质量阻止本领是带电粒子穿过单位质量长度所损失的能量基于Bethe-Bloch理论编程计算得到.图2是程序计算结果实线与 SRIM[22]程序计算值虚线的比较，两者结果吻合.
+
+粒子在体素 $i$ 内的沉积能量 $\Delta E _ { i }$ （单位：MeV)为
+
+$$
+\Delta E _ { i } = \sum _ { j = 1 } ^ { n } S _ { j } \Delta x
+$$
+
+式中： $S _ { j }$ 为粒子的质量阻止本领，MeV/1 ${ \mathrm { \Omega } } _ { \mathrm { m g } } \cdot { \mathrm { \Omega } } _ { \mathrm { c m } } ^ { - 2 }$ )；假设粒子在体素内穿过的质量长度为 $\Delta d \mathrm { \ m g } \cdot \mathrm { c m } ^ { - 2 }$ 把其分为 $n$ 等份（本计算中 $n =$ 100） $\Delta x = \Delta d / n$
+
+体素 $i$ 的吸收剂量 $D _ { i }$ 等于沉积能量除以体素的质量：
+
+$$
+D _ { i } = \frac { \Delta E _ { i } } { m _ { i } }
+$$
+
+式中： $m _ { i }$ 为体素 $i$ 的质量.
+
+体素 $i$ 的剂量当量 $H _ { i }$ 为
+
+$$
+H _ { i } = D _ { i } \times Q _ { i }
+$$
+
+式中： $Q _ { i }$ 为入射到体素 $i$ 的粒子的辐射品质因数.依据ICRP123号出版物,空间粒子的辐射品质因数为粒子能量 $E$ 和原子序数 $Z$ 的函数，计算式为
+
+$$
+Q _ { i } = ( \ 1 \ - \ : P _ { z . \varepsilon } ) \ + 6 . \ 2 4 \times \Big ( \frac { \Sigma _ { 0 } } { \alpha _ { \gamma } L } \Big ) \times P _ { z . \varepsilon }
+$$
+
+式中： $P _ { Z , { \cal E } } = \big \{ 1 - \mathrm { e } ^ { [ - Z ^ { \ast } { } ^ { 2 } / ( { \hbar \beta } ) ] } \big \} ^ { m } \beta$ 为粒子速度与光速之比 $\boldsymbol { \mathcal { L } ^ { * } }$ 为有效原子序数; $L$ 为传能线密度;
+
+$\Sigma _ { 0 } \mathrm { ~ } m \mathrm { ~ } \mathcal { k }$ 和 $\alpha _ { \gamma }$ 为与辐射效应有关的参数.对于实体癌NASA推荐建议 $m = 3 \mathrm { ~ } , k = 5 5 0 ( \mathrm { ~ 1 ~ 0 0 0 ~ } , Z \leqslant$ 4)∑/α, =7000/6.24[23].
+
+![](images/2173f35993aac3ff096dd342d152f7783fc7335156042e35ff311bb75bc951f0.jpg)  
+图2不同粒子在水中的质量阻止本领
+
+根据ICRP123号出版物计算出 $^ { 1 } \mathrm { H } \cdot ^ { 4 } \mathrm { H e }$ 、12C、 $^ { 2 8 } \mathrm { S i }$ 、5Fe、 $^ { 9 1 } \mathrm { Z r }$ 、197Au和 $^ { 2 3 8 } \mathrm { U }$ 等粒子的辐射品质因数及其与ICRP60号出版物的品质因数比较如图3所示.ICRP60号出版物推荐的辐射品质因数随传能线密度 $L$ 变化在总体趋势上与ICRP123号出版物的一致然而在某些 $L$ 值两个出版物给出的辐射品质因数差别可达数倍.
+
+![](images/73d8e40f260102d77b174a469a424ba8ebc7ad4617418299c359aeef8ad55d27.jpg)  
+Fig.2Stopping powers of various particles in water   
+图3ICRP123与ICRP60出版物的辐射品质因数 Fig.3Radiation quality factor from ICRP 6O and ICRP123 publications
+
+器官 $T$ 的吸收剂量和剂量当量分别由组成该器官的所有体素的吸收剂量和剂量当量求和得到：
+
+$$
+\begin{array} { c } { { D _ { \scriptscriptstyle T } = \displaystyle \sum _ { i = 1 } ^ { k ^ { \prime } } D _ { i } } } \\ { { { \cal H } _ { \scriptscriptstyle T } = \displaystyle \sum _ { i = 1 } ^ { k ^ { \prime } } H _ { i } } } \end{array}
+$$
+
+式中： $k$ 为组成器官 $T$ 的体素数量
+
+最后把器官 $T$ 的吸收剂量和剂量当量除以源粒子的通量分别得到通量-吸收剂量转换因数和通量-剂量当量转换因数，
+
+# 1.3 银河宇审线模型
+
+为了得到近地轨道空间的银河宇宙线通量，以利用上述转换因数来评估航天员所受的银河宇宙线辐射剂量，采用了SPENVIS[24]程序中的CREME96银河宇审线模型.该模型给出太阳活动低年的银河宇宙线强度考虑了地磁作用.计算得到的国际空间站轨道（InternationalSpaceStationISS)（远地点 $3 6 5 \mathrm { k m }$ ,近地点 $3 4 5 \mathrm { k m }$ 倾角$5 2 ^ { \circ }$ )银河宇宙线 ${ } ^ { 1 } \mathrm { H } \cdot { } ^ { 4 } \mathrm { H e } \cdot { } ^ { 1 2 } \mathrm { C } \cdot { } ^ { 4 0 } \mathrm { A r } \cdot { } ^ { 5 6 } \mathrm { F e }$ 和 $^ { 2 3 8 } \mathrm { U }$ 等部分银河宇宙线粒子的微分能谱如图4所示，在$1 0 \mathrm { M e V / n }$ 能量之下的粒子主要是异常宇宙线 $\mathrm { , ^ { 1 } H }$ 粒子的通量比 $^ { 2 3 8 } \mathrm { U }$ 粒子通量高10个数量级.
+
+![](images/e8c1074b07a9bfd11a773d0fdc263ce73a6f380a4ce4d7141d4480a42cc45e83.jpg)  
+图4国际空间站轨道银河宇宙线粒子$\mathrm { \Omega ^ { \prime } \ ^ { 1 } H _ { \circ } } \mathrm { ^ { 4 } H e } \mathrm { \Omega ^ { \mathrm { 1 2 } } C _ { \circ } } ^ { 4 0 } \mathrm { A r } \mathrm { \Omega ^ { 5 6 } F e } \mathrm { \Omega ^ { \mathrm { 3 } } }$ 和 $^ { 2 3 8 } \mathrm { U }$ ）的能谱Fig.4Energy spectra of GCR particles（ $^ { 1 } \mathrm { H } ~ { } ^ { 4 } \mathrm { H e }$ （204 ${ } _ { \prime } ^ { 1 2 } \mathrm { C }$ 40 Ar Fe and $^ { 2 3 8 } \mathrm { U }$ ）in ISSorbit
+
+# 2结果与分析
+
+# 2.1 剂量转换因数
+
+计算程序运行在Windows7环境，处理器频率为 $1 . 6 \mathrm { G H z }$ ,内存为4.0GB.对于每一种原子序数 $1 \sim 9 2$ 的粒子，仿真计算 ${ { 1 0 } ^ { 5 } }$ 个粒子需要时间约 $3 2 \mathrm { h }$
+
+通过计算获得了人体在不同铝屏蔽厚度(0、$2 . 5 . 1 0 \mathrm { g } / \mathrm { c m } ^ { 2 } )$ 下受不同粒子照射时主要组织器官的通量-吸收剂量转换因数和通量-剂量当量转换因数.
+
+人体的肺和肝在 ${ } ^ { 1 } \mathrm { H } \cdot { } ^ { 4 } \mathrm { H e } \cdot { } ^ { 1 2 } \mathrm { C } \cdot { } ^ { 5 6 } \mathrm { F } \epsilon$ 和 $^ { 2 3 8 } \mathrm { U }$ 粒子照射下，其通量-吸收剂量转换因数和粒子通量-剂量当量转换因数分别见图5(a)和图5(b).从图5中看出器官在同一种粒子照射时其转换因数随粒子能量升高而增大，然后趋于一个常数值这是因为高能量的粒子在器官中的阻止本领趋于常数（见图2），它们在器官中的沉积能量差别不大.对于高能量如大于 $1 0 ^ { 3 } \ \mathrm { M e V / n }$ 的粒子通量-吸收剂量转换因数和通量-剂量当量转换因数随粒子原子序数增大而增大，
+
+2 肺   
+新 100 出   
+10-1   
+10-2   
+10-3   
+101 102 103 10 粒子能量/(MeVn1)   
+107   
+器 .pd）/ 0 1 开   
+00   
+101 田   
+10°   
+10-   
+10-2   
+101 102 103 104 粒子能量/(MeV·n-1) (a)通量-器官吸收量转换因数   
+10 肺   
+10-1 中   
+10-2   
+101 102 103 104 粒子能量/(MeV·n−1)   
+108   
+10 肝   
+10-1 中七   
+1020 102 103 104 粒子能量/(MeV·n-1) (b)通量-器官剂量当量转换因数 图5受 ${ } ^ { 1 } \mathrm { H . } ^ { 4 } \mathrm { H e . } ^ { 1 2 } \mathrm { C . } ^ { 5 6 } \mathrm { F } \epsilon$ 和
+
+屏蔽厚度主要影响低能量粒子通量-剂量转换因数，可使转换因数降低，对于高能量粒子$( > 1 0 ^ { 3 } ~ \mathrm { M e V / n } )$ 转换因数几乎不发生变化，屏蔽的影响可以忽略.
+
+![](images/5915efe4345de5dd69ea43df44d8198a000bb154c84f008bcc560fa5bf7df764.jpg)  
+图6不同屏蔽厚度下 $^ { 5 6 } \mathrm { F e }$ 粒子照射时的通量-器官吸收剂量转换因数和通量-器官剂量当量转换因数  
+Fig.6Fluence to organ absorbed dose conversion coefficients and organ dose equivalent conversion coefficients for exposure by 56Fe with various shielding thicknesses
+
+# 238U粒子照射时通量-器官吸收剂量转换因数和通量-器官剂量当量转换因数
+
+Fig.5Fluence to organ absorbed dose conversion coefficients and organ dose equivalent conversion coefficients for exposure by $\mathrm { ^ { 1 } H }$ - $^ 4 \mathrm { H e }$ 1 $^ { 1 2 } \mathrm { C }$ ,56Fe and $^ { 2 3 8 } \mathrm { U }$
+
+在不同屏蔽厚度下人体分别受 $^ { 5 6 } \mathrm { F e }$ 粒子照射时肺的通量-吸收剂量转换因数和通量-剂量当量转换因数分别见图6(a)和图6(b).可以看出，
+
+人体在 ${ } ^ { 1 } \mathrm { H } , { } ^ { 4 } \mathrm { H e } , { } ^ { 1 2 } \mathrm { C }$ 和Fe等粒子照射下，计算出肺、肝、甲状腺、皮肤和大脑的通量-吸收剂量转换因数、通量-剂量当量转换因数与ICRP123号出版物结果的比较分别见图7（a)和图7（b).从图中可看出，计算结果与ICRP结果有较好的一致性尤其是皮肤的转换因数与ICRP结果比较吻合，其他组织器官的有差别，最大可达数十倍随着粒子能量升高,这种差别减小.这主要是由于CNMAN人体模型与ICRP人体模型在器官的位置、体积、形状等方面存在差异造成的，计算方法的不同也会带来差别.
+
+# 2.2 近地轨道航天员的辐射剂量
+
+利用上述计算的通量-剂量转换因数和来自CREME96模型的银河宇宙线通量，可计算出近地国际空间站轨道航天员受银河宇宙线辐射照射的剂量率.一些组织器官在不同屏蔽厚度下的吸
+
+10 H粒子 1U He粒子0-0310 1020 1 X100 101 10 103 104 100 10 102 103 104粒了能量/(MeV·n−1) 粒了能量/(MeV·n−1)106 106105 C粒子 Fe粒104 北10 2 三10310 8 善 广A100 101 102 103 10 100 101 102 103 104粒子能量/(MeV·n−1) 粒子能量/(MeV·n−1)(a)通量-器官吸收剂量转换因数105 106H粒子 He粒子新 0102 中 103 P 皮大开甲10 102 号100 中 101 联10-1 2 100 都10-2 产 →状-RP 10−1大脑-ICRP10-3 10° 101 102 103 104 10-10 101 102 103 104粒能量/(MeV·n-1） 粒能量/(MeV·n−1)107 10812C粒子 5Fe粒子真乐有 0 1中1010 X -ICRPB 103 甲状腺-ICRP100 102 皮肤-ICRP中10−100 101 102 103 104 10100 101 102 103 104粒子能量/(MeV·n−1) 粒能量/(MeV·n−1)(b)通量-器官剂量当量转换因数
+
+收剂量率和剂量当量率分别如图8(a)和图8(b)所示.从结果发现航天员受银河宇宙线辐射时器官的剂量率不是随屏蔽厚度增加而降低，在 $5 \mathrm { g } / \$ $\mathrm { c m } ^ { 2 }$ 屏蔽厚度下接受银河宇宙线辐射的吸收剂量率要大于无屏蔽时的剂量率.这是由于屏蔽虽然阻止了部分粒子照射航天员，但同时使透过粒子的能量降低而低能量粒子在人体内的沉积能量增大，可导致吸收剂量增加.而 $5 \mathrm { g } / \mathrm { c m } ^ { 2 }$ 屏蔽时器官的剂量当量率与无屏蔽时剂量当量率接近，大于 $\cdot 2 \ \mathrm { g / c m } ^ { 2 }$ 屏蔽的剂量当量率.
+
+![](images/8aff7980d9212b18e0a5d8a0269453d7e08fdd020a775fde7ee0d578b1a47c21.jpg)  
+图8国际空间站轨道不同屏蔽厚度下航天员受银河宇宙线照射时的器官吸收剂量率和器官剂量当量率
+
+Fig.8Astronauts’organ absorbed dose rates and organ dose equivalent rates from exposure by GCR in ISS orbit with various shielding thicknesses
+
+航天员受银河宇宙线照射时宇宙线各粒子造成的皮肤吸收剂量率和皮肤剂量当量率分别见图9(a)和图9(b).由图可见吸收剂量率和剂量当量率主要来自于原子序数小于29的银河宇宙线粒子这些粒子对航天员剂量的贡献占银河宇审线总剂量的 $9 9 . 9 \%$ 以上.在这些粒子中,宇宙线 $\mathrm { ^ { 1 } H }$ 粒子造成的吸收剂量率最大，而最大剂量当量率来自于宇审线 $^ { 5 6 } \mathrm { F e }$ 粒子.
+
+![](images/e1429b005ab16e88aba87134a88be7c14da433b41eb877b09951a84cb7f354a2.jpg)  
+图9银河宇宙线不同粒子造成的皮肤吸收剂量率和皮肤剂量当量率  
+Fig.9Skin absorbed dose rates and skin dose equivalent rates from various particles of GCR   
+Fig.10Comparisons of the calculated astronauts’organ absorbed dose rates from exposure by GCR with those from PHITS simulation
+
+计算的航天员受银河宇宙线照射时器官的吸收剂量率与Puchalska等[14]用PHITS计算结果比较如图10，计算结果比Puchalska等的结果偏小$2 0 \% \sim 5 0 \%$ 这主要是因为本计算中不考虑银河宇宙线次级粒子辐射的影响，
+
+![](images/71f1cbc8035df1ccef50d6f3a35f3543ecdc6f1e990ee1bbb76e2e0399667db5.jpg)  
+图10计算的航天员受银河宇宙线照射的器官吸收剂量率与PHITS计算结果比较
+
+# 3结论
+
+1）根据ICRP123号出版物对航天员辐射剂量评价的建议采用中国人体数字模型和粒子输运程序获取了航天员受空间粒子( $Z = 1 \sim 9 2 { \mathrm { : } }$ 辐射时器官的通量-吸收剂量转换因数和通量-剂量当量转换因数.由于人体模型和计算程序的不同，获得的转换因数与ICRP123号出版物的差别可达数十倍.
+
+2）计算出航天员在国际空间站轨道受银河宇宙线照射时不同屏蔽厚度下器官的吸收剂量和剂量当量.器官的吸收剂量在 $4 0 ~ \mu \mathrm { G y / d }$ 左右剂量当量约 $2 0 0 \mu \mathrm { S v } / \mathrm { d }$ .宇宙线照射的剂量主要来自于原子序数小于29的粒子.随屏蔽厚度增加剂量并不是单调递减.
+
+# 参考文献（References)
+
+[1]CucinottaFA,Kim M-HY,WillinghamV,et al.Physical and biological organ dosimetry analysis for international space station astronauts[J].Radiation Research $2 0 0 8 , 1 7 0 ( 1 ) : 1 2 7 4 3 8$   
+[2]El-Jaby S ,TomiL,SihverL ,et al.Method for the prediction of the effective dose equivalent to the crew of the international space station[J].Advances in Space Research ,2O14 53(5)： 810-817.   
+[3]ICRP.Recommendations of the ICRP ICRP Publication 26[R]. New York:Pergamon Press 1977.   
+[4]ICRP.199O recommendations of the international commission on radiological protection ICRP Publication 6O[R].New York:Pergamon Press 1991.   
+[5]CucinottaFA ,Nikjoo H,Goodhead D T.Model for radial dependence of frequency distributions for energy imparted in nanometer volumes from hze particles[J].Radiation Research 2000, 153(4) :459-468.   
+[6]ICRP.Assessment of radiation exposure of astronauts in space , ICRPPublication 123[R].Amsterdam:Elsevier 2013.
+
+# [7]曾志李君利邱睿等.质子剂量微分谱预估空间辐射剂量[J].清华大学学报:自然科学版200646(3)：374-376.
+
+Zeng Z Li JL Qiu R et al.Dose assessment for space radiation using a proton differential dose spectrum[J].Journal of Tsinghua University:Science and Technology,2006,46(3):374-376(in Chinese) .
+
+[8]贾向红,许峰黄增信等.MonteCarlo方法在载人航天辐射安全性评价中的应用[J].清华大学学报：自然科学版，2007 47( S1):1045-047.JiaXHXuFHuangZX etal.Monte Carlo methodinestima-tingradiation safety for manned spaceflight[J]. Journal of Tsing-hua University:Science and Technology,2OO7 ,47(S1) :1045-1047(in Chinese).
+
+# [9]曾志李君利，贾向红，等.空间辐射剂量及屏蔽效应研究[J].清华大学学报：自然科学版200848(3)：391-394.
+
+Zeng Z,Li JL,Jia X H,et al.Radiation dose and shielding effects for space radiation[J]. Journal of Tsinghua University: Science and Technology 2008 48(3):391-394(in Chinese).   
+[10]Gustafsson K Sihver L,Mancusi D ,et al.Phits simulations of the matroshka experiment[J].Advances in Space Research, 2010 46(10):1266-272.   
+[11]SihverL Sato T ,Puchalska M,et al. Simulations of the matroshka experiment at the international space station using phits [J].Radiat Environ Biophys 2010 49(3):351-357.   
+[12]Slaba TCQuallsGD,Clowdsley M S,et al.Utilization of cam caf max and fax for space radiation analyses using hzetrn [J].Advances in Space Research 2010 45(7) :866-883.   
+[13]Sato T Endo A ,Sihver L ,et al.Dose estimation for astronauts using dose conversion coefficients calculated with the phits code and the icrp/icru adult reference computational phantoms [J]. Radiation Environmental Biophysics 2011 50(1) :115-123.   
+[14]Puchalska M Sihver L,Sato T,et al. Simulations of MATROSHKA experiment outside the ISS using PHITS [J].Advances in Space Research 2012 50(4):489-495.   
+[15] Zhang B Ma J,Liu L,et al. CNMAN:A Chinese adult male voxel phantom constructed from color photographs of a visible anatomical data set[J].Radiation Protection Dosimetry 2007, 124(2) : 130-136.   
+[16]LiJQiu R Zhang Z,et al. Organ dose conversion coeffcients for external photon irradiation using the chinese voxel phantom （cvp）[J].Radiation Protection Dosimetry ,2009,135（1): 33-42.   
+[17]Liu L Zeng Z Li J et al.Organ dose conversion coefficients on an icrp-based chinese adult male voxel model from idealized external photons exposures [J].Physics in Medicine and Biology， 2009 54(21) :6645-6673.   
+[18]Liu L Zeng Z,Li J,et al.An icrp-based chinese adult male voxel model and its absorbed dose for idealized photon exposures-the skeleton[J].Physics in Medicine and Biology 2009, 54(21) :6675-6690.   
+[19]Agostinelli S,Allison J,Amako K,et al.Geant4-a simulation toolkit [J].Nuclear Instruments and Methods in Physics Research Section A:Accelerators ,Spectrometers,Detectors and Associated Equipment 2003 506(3):250-303.   
+[20]Briesmeister JF.MCNP-A general Monte Carlo N-Particle transport code LA-l2625-M[R]. New Mexico: Los Alamos National Laboraroty Report,1997.   
+[21]Fasso A Ferrari A ,Ranft Jet al.Fluka: A multi-particle transportcode，SLAC-R-773[R]．Stanford:Stanford University 2005.   
+[22] Ziegler JF,Biersack JP.Litmark U.The stopping and range of ions in solids[M].New York: Pergamon Press ,1985:1-307.   
+[23]Cucinotta FA,Kim M-H Y,Chappell L J. Space radiation cancerrisk projectionsand uncertainties-201O，TP-2011- 216155[R]. Maryland: NASA 2011.   
+[24]Heynderickx D Quaghebeur B,Wera J et al.New radiation environment and effects models in esa’s space environment information system(spenvis)[J]. Space Weather ,2004,2(10): S10S03.
+
+# Calculation of the astronauts’ radiation dose from galactic cosmic ray
+
+ZHANG Binquan\*,YU Qinglong,LIANG Jinbao,SUN Yueqiang,YANG Chuibai ,ZHANG Shenyi (National Space Science Center,Chinese Academy of Sciences,Beijing 1Oo190,China)
+
+Abstract: Radiation risk of astronauts during the flight in low earth orbit (LEO) and deep space exploration is mainly from the exposure of galactic cosmic ray(GCR).The radiation dose from GCR is the basis for the assessment of astronauts’radiation risk．In 20l3,a new estimation method for the assessment of astronauts’radiation dose was presented by the International Commitee on Radiological Protection（ICRP）,so as to improve the assessment's accuracy of the radiation dose from heavy ions in space.Based on this method,a Monte Carlo program was developed for simulation of the particle transportation in materials and a voxel phantom of Chinese adult male was realized in this program to represent the astronaut.With this program,the fluence to dose conversion coefficients for the organs of astronauts were calculated forthe isotropic exposure by particles with the atomic number from 1 to 92.Theradiation dose to astronauts in LEO from GCR was also estimated.
+
+Key Words: space radiation; galactic cosmic ray（GCR)；astronaut; radiation dose; Monte Carlo

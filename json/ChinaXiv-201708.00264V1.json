@@ -1,0 +1,332 @@
+[
+    {
+        "type": "text",
+        "text": "Giant halo in relativistic and non-relativistic approaches ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "J. Terasaki $^ { 1 }$ ， S. Q. Zhang $^ { 1 , 2 }$ ， S. G. Zhou $^ { 2 , 3 }$ and J. Meng $^ { 1 - 3 }$ （204 $^ { 1 }$ School of Physics，Peking University， Beijing 100871， Chna $^ 2$ Institute of Theoretical Physics， Chinese Academy of Science, Beijing 10080, China （ $^ 3$ Center of Theoretical Nuclear Physics, National Laboratory of Heavy Ion Accelerator, Lanzhou 730oo0, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Dated: August 1, 2017) Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The phenomena of giant halo and halo of neutron-rich even-Ca isotopes are investigated and compared in the framework of the relativistic continuum Hartree-Bogoliubov (RCHB) and nonrelativistic Skyrme Hartree-Fock-Bogoliubov (HFB) calculations. With two parameter sets for each of the RCHB and the Skyrme HFB calculations,it is found that although halo phenomena exist for Ca isotopes near neutron drip line in both calculations, the halo of the Skyrme HFB calculations starts at a more neutron-rich nucleus than that of the RCHB calculations,and the RCHB calculations have larger neutron root-mean-square (rms) radii systematically in $N \\geq 4 0$ （204 than those of the Skyrme HFB calculations.The former difference comes from difference in shell structure. The reasons for the latter can be partly explained by the neutron $3 s _ { 1 / 2 }$ orbit，which causes more than $5 0 \\%$ of the difference among the four calculations for neutron rms radii at $^ { 6 6 }$ Ca. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 21.10.Dr, 21.10.Gv,21.60.Jz,27.40.+z,27.50.+e ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study of exotic nuclei with extreme $N / Z$ ratios has attracted worldwide attention since the first discovery of halo in $^ { 1 1 }$ Li [1]. Usually for exotic nuclei, their Fermi surfaces are very close to the continuum threshold, and the valence nucleons could be easily scattered to the continuum states due to the pairing correlations [2,3]. Thus, theories which can properly handle the pairing and continuum states are needed to describe the properties of exotic nuclei and to understand the interference of the continuum-energy states to bound many-body systems and effects of large neutron excess. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is well known that the BCS approximation for the pairing correlations suitable for stable nuclei cannot give correct wave functions near the drip lines, see e.g. [4]. Taking into account the pairing correlations by the Bogoliubov transformation, relativistic and/or non-relativistic mean field approaches have been extensively used to describe and predict halo phenomena in exotic nuclei. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The status of the studies of the halo using the relativistic continuum Hartree-Bogoliubov (RCHB) or the non-relativistic Hartree-Fock-Bogoliubov (HFB) method include: the predictions of halo in the Ne [5, 6], Na [6,7], Ca [8] and Zr [9] isotopes near the neutron drip line. More details can be found in recent review papers, e.g.,[10]. As there are more than two particles in the weakly bound or the positive-energy region in Ca and Zr isotopes near the neutron drip line,the halo phenomena for Ca and Zr are addressed as giant halo [8, 9]. The proton-magic nuclei from O and Pb nuclei are also systematically surveyed, and it is found that the halos signature in Zr is the clearest in Ref.[11]. There is no evidence for halo in Ni, Sn and Pb isotopic chains, similarly as in Ref. [12]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the non-relativistic HFB approaches, Skyrme calculations with the parameter set SLy4 predicts the halo in Sn and Ni [13]. It is also claimed that the pairing gaps have an effect to reduce the halo at the neutron drip line [13,14,15]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For comparison with the halos predicted in relativistic approaches [8, 9,11], it is necessary to investigate the Ca and Zr in non-relativistic approaches, which is very important but still missing in the literature. Therefore the present paper is dedicated to investigate the neutronrich even Ca isotopes up to the neutron drip line. The results from both relativistic and non-relativistic mean field approaches taking into account the pairing correlations by the Bogoliubov transformation will be presented and compared in detail. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The numerical details used in both calculations are explained in Sec. II, and then the neutron-number dependence of the energy and the rms radiis examined in Sec. III. The properties of single particles are discussed in Sec. IV in order to understand the halo structure.A brief summary is given in Section V. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. METHODOF CALCULATION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The detailed formulations of the RCHB method and the HFB method can be found respectively in Refs. [2，3] and [16,17]. Both calculations are based on the coordinate representation and use a box size 2O fm with the spherical symmetry assumed and a mesh size 0.1 fm. The quasiparticle states are obtained up to 120 MeV (165-190 radial wave functions in $^ { 6 6 }$ Ca), and all of these states are used for calculating potentials. The maximum angular momentum of the quasiparticles $j _ { \\mathrm { m a x } }$ is $\\textstyle { \\frac { 1 3 } { 2 } }$ (RCHB) and $\\textstyle { \\frac { 1 5 } { 2 } }$ (Skyrme HFB). The parameter sets NL-SH [18] and PK1 [19]（SkM $^ *$ [20] and SLy4 [21]） are used for the RCHB ( Skyrme HFB ） calculations. For the pairing part, a surface-type delta interaction [4, 9] is used with the density parameter $\\rho _ { 0 } = 0 . 1 5 2 \\ \\mathrm { f m ^ { - 3 } }$ and $0 . 1 6 0 ~ \\mathrm { f m ^ { - 3 } }$ for the RCHB and the Skyrme HFB calculations, respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f56b66ab59fad7edc04530eff1d0768fd700b4e809eb32cb29afbc3714d394b.jpg",
+        "img_caption": [
+            "FIG.1: Binding energy per nucleon $B / A$ of even $\\mathrm { C a }$ in RCHB calculations with NLSH and PK1 and the Skyrme HFB calculations with $\\mathrm { S k M ^ { * } }$ and SLy4 compared with the experimental data [23] at $N = 3 0$ and 32. For the details,see the text. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/421cf1e0ea6273a652d4c1c0265ff138c8b236956a24f05bb33d4275f4ea3d6c.jpg",
+        "img_caption": [
+            "FIG. 2:Two-neutron separation energy $S _ { 2 n }$ of even Ca in RCHB calculations with NLSH and PK1 and the Skyrme HFB calculations with $\\mathrm { S k M ^ { * } }$ and SLy4 compared with the experimental data [23]. Note that $S _ { 2 n }$ of SLy4 are very close to those of PK1 in $4 2 \\leq N \\leq 4 8$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The strength of the pairing interaction in mean-field calculations is normally determined so as to reproduce the pairing gaps obtained from odd-even mass diferences (see e.g. Ref. [22]). While for nuclei close to the neutron drip line, the pairing energy obtained using the Gogny interaction in the pairing channel is adopted to fix the strength of surfacetype delta pairing interaction due to the missing of experimental data. The $V _ { 0 }$ is $- 3 2 5$ MeV fm $\\cdot ^ { 3 }$ in the RCHB calculations,and that of the Skyrme HFB calculations is $- 3 6 5$ （204 $\\left( - 3 3 0 \\right)$ MeV fm $^ 3$ in the SLy4 (SkM $^ *$ ) calculations. The average pairing evergy of the PK1 and NL-SH calculaitons -8.2 MeV at $^ { 6 6 }$ Ca is used for determining the $V _ { 0 }$ of the Skyrme-HFB calculaitons. We checked that when $\\begin{array} { r } { j _ { \\mathrm { m a x } } = \\frac { 1 3 } { 2 } } \\end{array}$ was_used in the Skyrme HFB calculations, the rms radii did not change with the re-adjusted $V _ { 0 }$ from the pairing energy. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. NEUTRON-NUMBER DEPENDENCE OF THE HALO STRUCTURE ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figures 1 and 2 show the binding energy per nucleon $B / A$ and the two-neutron separation energy $S _ { 2 n }$ in RCHB calculations with NLSH and PK1 and the Skyrme HFB calculations with SkM $^ *$ and SLy4, respectively. The most important differences between these calculations are location of the two-neutron drip line and a shell gap at $N = 4 0$ .The RCHB calculations show the two-neutron drip line at $N = 5 0$ (PK1) or 52 (NL-SH),and the prediction of the Skyrme HFB calculations is $N = 4 6$ (SLy4) or 58 (SkM $^ *$ ). The RCHB and the SLy4 calculations have clear the shell gap at $N = 4 0$ (Fig. 2)，while the SkM $^ *$ calculation does not show at all. The SkM $^ *$ calculation has a small extra downward behavior of $S _ { 2 n }$ at $N = 5 0$ , however, it is too small to call a shell gap. Therefore, no new shell gap is predicted in $N > 4 0$ , in any of the calculations. The two RCHB calculations give the results rather close to each other both in $B / A$ and $S _ { 2 n }$ ，and the two Skyrme HFB calculations have a difference of 0.1-0.2 MeV in $B / A$ The $S _ { 2 n }$ of SLy4 is close to those of the SkM $^ *$ calculation in $3 4 \\leq N \\leq 4 0$ and then coincides with that of PK1 in $4 2 \\leq N \\leq 4 8$ . The experimental data are available up to $N = 3 2$ currently [23]. The RCHB calculations reproduce well the data of $B / A$ at $N = 3 0$ (8.550 MeV) and 32(8.396±0.013 MeV) and $S _ { 2 n }$ at $N = 3 2$ (9.081±0.699 MeV). For $S _ { 2 n }$ at $N = 3 0$ , the SLy4 calculation gives a value very close to the measured one (11.499±0.008 MeV). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/305a959b9fd582acd619e28b83261101c83cfcabf3cfdbe28b2aeee109c8dad0.jpg",
+        "img_caption": [
+            "FIG. 3: The neutron and proton rms radii $\\bar { r } _ { n }$ and $\\bar { r } _ { p }$ of even-Ca isotopes in RCHB calculations with NLSH and PK1 and the Skyrme HFB calculations with $\\mathrm { S k M ^ { * } }$ and SLy4 in the neutron-rich region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows systematics of the rms radii of neutrons $r _ { n }$ and protons $r _ { p }$ of even-Ca from $N = 3 0$ to the two-neutron drip lines. The increase in the curvature of $\\bar { r } _ { n }$ indicates the halo. (For attempts to define the criterion of halo or the halo size,see Refs.[7,13,24] and references therein.） For Ca, the number of nucleons in the positive-energy region $N _ { h }$ of $\\mathrm { 6 2 - 7 2 } \\mathrm { C a }$ is $0 . 6 -$ 2.2,of which average is 1.7, in the NL-SH calculation [8],and the corresponding value of the SkM $^ *$ calculation is always smaller than 0.5 (the average 0.27). As there are more than two nucleons in the weakly bound orbits and the positive-energy region for these nuclei and also halo phenomena in neighboring nuclei with incremental neutrons,the halo in Ca isotopes are refereed as giant halo,as in Refs. [8, 9]. The SkM $^ *$ calculation has the halo from $N = 5 2$ ， and the RCHB calculations show the gradual occurrence of the giant halo. Apparently, the starting nucleus of the halo of SkM $^ *$ corresponds to the extra lowering of the $S _ { 2 n }$ . The SLy4 calculation does not have the halo, because the particle-stable region ends at $N = 4 6$ . The large difference between $\\bar { r } _ { n }$ and $\\bar { r } _ { p }$ shown in Fig.3 is identified with neutron skin in the region with no halo. $\\bar { r } _ { n } - \\bar { r } _ { p }$ is displayed in Fig.4,in which the differences between the parameter sets are clear; the curve of SLy4 is parallel to that of SkM $^ *$ , and PK1 has a larger curvature than the other parameter sets in $N \\leq 5 0$ . An important aspect of the halo is how $\\bar { r } _ { n }$ changes when two more neutrons are added, thus it is worth showing the difference $\\bar { r } _ { n } ( N ) - \\bar { r } _ { n } ( N - 2 )$ (Fig. 5). When there is no halo, two additional neutrons increase $\\bar { r } _ { n }$ by 0.05 fm,and the increase rises to O.11 fm in the halo nuclei. In all of Figs.3-5,the difference in $r _ { n }$ is clear between the RCHB and the Skyrme HFB calculations. It is to be noted that $\\bar { r } _ { p }$ is not constant, reflecting the self-consistency of the neutrons and protons interaction. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/03541a5d510ebfafc99b006e9fa565028c3edda3406506e1e41363f8d01ea2cf.jpg",
+        "img_caption": [
+            "FIG. 4: The difference between neutron and proton rms radii $\\bar { r } _ { n } - \\bar { r } _ { p }$ in RCHB calculations with NLSH and PK1 and the Skyrme HFB calculations with $\\mathrm { S k M ^ { * } }$ and SLy4 for even-Ca isotopes with （204 $N \\geq 4 0$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/426e0e558bdcbf3e2c91e1e7d46fd651fc5c36ad4b3e6b086de120b54cd6dd50.jpg",
+        "img_caption": [
+            "FIG. 5: The difference of neutron rms radii between neighboring even-Ca isotopes with $N \\geq 4 0$ （20 （204 $\\bar { r } _ { n } ( N ) - \\bar { r } _ { n } ( N - 2 )$ in RCHB calculations with NLSH and PK1 and the Skyrme HFB calculations with $\\mathrm { S k M ^ { * } }$ and SLy4 in the neutron-rich region. The dashed line was obtained from $\\bar { r } _ { n } ( N ) =$ $1 . 1 3 9 N ^ { 1 / 3 }$ fm [8]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IV. SINGLE-PARTICLESTRUCTURE ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To understand the halo phenomena and the different predictions in RCHB and Skyrme HFB calculations, the nucleus $^ { 6 6 }$ Ca is taken as an example. Figure 6 depicts the single particle level $\\varepsilon _ { \\alpha } ^ { \\mathrm { c a n } }$ in RCHB calculations with NLSH and PK1 and the Skyrme HFB calculations with SkM $^ *$ and SLy4 for neutrons in $^ { 6 6 }$ Ca, i.e., the diagonal elements of the mean-field Hamiltonian in the canonical basis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/009160b809e395e25fc1d4d9a64b47ee64439a7f118eb4c008a04669abc7a2c0.jpg",
+        "img_caption": [
+            "FIG.6: The neutron single particle level $\\varepsilon _ { \\alpha } ^ { \\mathrm { c a n } }$ for $^ { 6 6 } \\mathrm { C a }$ in RCHB calculations with NLSH and PK1 and the Skyrme HFB calculations with SkM $^ *$ and SLy4. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The order of the levels is essentially the same for all the calculation. Furthermore the spectra for RCHB with PK1 and NL-SH are quite similar. However, the level $1 s _ { 1 / 2 }$ in SkM $^ *$ is apparently higher than those of the other parameter sets. From left to right, the shell gap become less apparent. The shell gaps at $N = 2$ ，8, 20,28,and 40 are clearly shown in the RCHB spectra, while the shell gaps of $N = 2 8$ and 40 do not appear in that of the SkM $^ *$ calculation (see also Fig. 2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It has been pointed out [8] that the neutron $3 s _ { 1 / 2 }$ level played an important role in the giant halo. Thus, comparison is made in Fig.7 for the rms radii of each single-particle orbit (canonical basis) $\\bar { r } _ { \\alpha }$ in RCHB calculations with NLSH and PK1 and the Skyrme HFB calculations with SkM $^ *$ and SLy4. The lines of $\\bar { r } _ { \\alpha }$ versus $\\varepsilon _ { \\alpha } ^ { \\mathrm { c a n } }$ are quite similar to each other except for the $1 s _ { 1 / 2 }$ and the region around $\\varepsilon ^ { \\mathrm { c a n } } = 0$ . This indicates the similarity of the potential wall except for the bottom of the potential wall. A magnification around $\\varepsilon ^ { \\mathrm { c a n } } = 0$ is displayed in Fig. 7b. The most significant difference is $3 s _ { 1 / 2 } \\colon \\bar { r } _ { 3 s 1 / 2 }$ of PK1 is more than 2 fm larger than that of SkM $^ *$ . These differences are clearer in Fig. 8 which illustrates $r _ { \\alpha }$ as radii of circles. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table I shows $\\varepsilon _ { \\alpha } ^ { \\mathrm { c a n } }$ ， $r _ { \\alpha }$ ， occupation probability $v _ { \\alpha } ^ { 2 }$ ，and $\\begin{array} { r } { \\frac { 2 } { N } v _ { \\alpha } ^ { 2 } \\bar { r } _ { \\alpha } } \\end{array}$ for the neutron $3 s _ { 1 / 2 }$ orbit, as well as $r _ { n }$ of $^ { 6 6 }$ Ca.Both $r _ { 3 s 1 / 2 }$ and $v _ { 3 s 1 / 2 } ^ { 2 }$ make $r _ { n }$ of PK1 the largest one.Since the contribution of the orbit to $\\bar { r } _ { n }$ is given by $\\frac { 2 } { N } v _ { 3 s 1 / 2 } ^ { 2 } \\bar { r } _ { 3 s 1 / 2 }$ , it is seen from Tab.Ithat $5 4 \\ \\%$ (0.082 fm) of the difference $\\bar { r } _ { n } ( \\mathrm { P K 1 } ) - \\bar { r } _ { n } ( \\mathrm { S k M ^ { * } } ) = 0 . 1 5 3$ fm comes from the neutron $3 s _ { 1 / 2 }$ .It is also noted that the higher energy does not necessarily mean the larger spatial distribution. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The difference in the neutron $3 s _ { 1 / 2 }$ orbit is shown also in Fig. 9 which illustrates the radial wave functions squared. The tail of PK1 has appreciably longer distribution than the others,and as a counter part, the amplitude of PK1 is smaller in the inner region. The number and locations of the nodes are the same for the four lines. The neutron density distributions have appreciable difference (Fig.10) in accordance with the behavior of Fig. 9. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 11 depicts central potentials. These are the summation of the scalar and the vector potentials in the RCHB calculation, and the summation of the $t _ { 0 }$ and $t _ { 3 }$ terms in the particlehole potential in the Skyrme HFB calculation, see Eq. (A.5a) of Ref. [16]. A significant difference is that the SkM $^ *$ calculation has smaller depth than the other calculations, as is anticipated from Fig.6,and another is a slight difference in the tail region (see the inset of Fig.11). It should be noted that the tails of the RCHB calculations have longer distributions than the Skyrme HFB calculations,and PK1 has the longest one. Figure 12 displays the pairing potential ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d8d0ecff9bd9c84d69e96eb62c0df44b0bc36f63ddc9e1b2b7e6e8882743b46.jpg",
+        "img_caption": [
+            "FIG.7: a) The rms radii of each neutron single-particle orbit in canonical basis $r _ { \\alpha }$ as functions of its single-particle energy $\\varepsilon _ { \\alpha } ^ { \\mathrm { c a n } }$ . b) Same as a) but for the region around $\\varepsilon ^ { \\mathrm { c a n } } = 0$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ab148ea5be2c71bb342ca6f0b63738f62e6030c876388c81a34730675f309dc.jpg",
+        "table_caption": [
+            "TABLE I: Properties ( $\\varepsilon _ { \\alpha } ^ { \\mathrm { c a n } }$ ， $r _ { \\alpha }$ , occupation probability $v _ { \\alpha } ^ { 2 }$ ，and $\\textstyle { \\frac { 2 } { N } } v _ { \\alpha } ^ { 2 } { \\bar { r } } _ { \\alpha } \\ )$ of the neutron $3 s _ { 1 / 2 }$ orbit and $\\bar { r } _ { n }$ of $^ { 6 6 } \\mathrm { C a }$ ： "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>s1/2 [MeV]</td><td>T3s1/2 [fm]</td><td>012</td><td>1/23s1/2 [fm]</td><td>Tm [fm]</td></tr><tr><td>PK1</td><td>0.133</td><td>8.144</td><td>0.239</td><td>0.0846</td><td>4.363</td></tr><tr><td>NL-SH</td><td>0.640</td><td>7.240</td><td>0.089</td><td>0.0280</td><td>4.314</td></tr><tr><td>SLy4</td><td>1.939</td><td>6.856</td><td>0.016</td><td>0.0043</td><td>4.205</td></tr><tr><td>SkM*</td><td>1.445</td><td>5.765</td><td>0.010</td><td>0.0025</td><td>4.210</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta _ { r } = \\frac { 1 } { 2 } V _ { 0 } \\left( 1 - \\frac { \\rho ( r ) } { \\rho _ { 0 } } \\right) \\tilde { \\rho } _ { n } ( r ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\rho ( r )$ is the total nuclear density, and $\\widetilde { \\rho } _ { n } ( \\boldsymbol { r } )$ is the pairing density [16] of neutron ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/18f4b0271ab1790037e48851f60c98f578241bb57a1c74d756cf6e85f6bb4da8.jpg",
+        "img_caption": [
+            "FIG. 8: The rms radii of each neutron single-particle orbit in canonical basis $r _ { \\alpha }$ in RCHB calculations with NLSH and PK1 and the Skyrme HFB calculations with SkM $^ *$ and SLy4 displayed as radii of circles. The proton one $r _ { p }$ (the blue center circle in the on-line version） is included for a comparison. The grade of color corresponds to the order of $r _ { \\alpha }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For the RCHB calculations, the $S = 1$ component of the pairing interaction is removed explicitly. Again, the line of PK1 has the longest tail, therefore, the large $r _ { 3 s 1 / 2 }$ of PK1 can be understood in terms of the tails of the central and the pairing potentials. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Finally, we mention the importance of the pairing correlations. It turned out that when the strength of the surface-type pairing interaction was determined so as to reproduce the neutron pairing gaps of 42,446.50Ca,1.0-1.9 MeV,obtained from the odd-even mass differences of the experimental data [23], the pairing energy of the SkM $^ *$ calculation was $- ( 3 5 - 3 9 )$ （20 MeV in $4 0 \\leq N \\leq 5 0$ , and the kink of $r _ { n }$ at $N = 5 0$ was completely smeared out (the circles in Fig.13). It is noted that the pairing energy is more than 3 times larger than the values of the RCHB calculations 8-9 MeV. On the other hand, the volume-type pairing interaction $V _ { 0 } \\delta ( \\pmb { r } - \\pmb { r } ^ { \\prime } )$ can reproduce the pairing energy of the RCHB calculation and the experimental pairing gaps simultaneously, and the $\\bar { r } _ { n }$ has the kink (the triangles in Fig. 13). Therefore, the kink is strongly influenced by the pairing interaction. (See also Refs. [13,14].) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "V. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this paper, the phenomena of the giant halo and halo of the neutron-rich even-Ca isotopes have been investigated and compared in the framework of the RCHB and the Skyrme HFB calculations. With the two parameter sets for each of the RCHB and the ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4b0ec8a512a1760ddd02a995aba104da1c053933a976aaee582b51d352c4ff6.jpg",
+        "img_caption": [
+            "FIG. 9: Radial wave function squared $| \\psi _ { r } | ^ { 2 }$ (canonical basis) of the neutron $3 s _ { 1 / 2 }$ of $^ { 6 6 }$ Ca.They are normalized as $\\begin{array} { r } { \\int d r | \\psi _ { r } | ^ { 2 } = 1 } \\end{array}$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d30ea5e024cfc7a108658231aa507abaae256a1dff08c23918139e6f106cd0f.jpg",
+        "img_caption": [
+            "FIG.10: Neutron density distribution of $^ { 6 6 } \\mathrm { C a }$ calculated with the four parameter sets. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Skyrme HFB calculations, it has been found that although the halo phenomena existed for Ca isotopes near the neutron drip line in both calculations,the halo of the Skyrme HFB calculations started at a more neutron-rich nucleus than that of the RCHB calculations, and the RCHB calculations had larger neutron rms radii systematically in $N \\geq 4 0$ than those of the Skyrme HFB calculations. The former difference comes from difference in the shell structure. The reasons for the latter can be partly explained by the neutron $3 s _ { 1 / 2 }$ orbit, which causes $5 0 \\%$ of the difference in the neutron rms radii among the four calculations at 66Ca. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work is partly supported by the National Natural Science Foundation of China under Grant Nos. 10221003,10435010,10475003,and 10575036, the Doctoral Program Foundation from the Ministry of Education in China,and the Knowledge Innovation Project of Chinese Academy of Sciences under contract Nos. KJCX2-SW-N02 and KJCX2-SW-N17. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbc728564c36b5e97e0be1fa9de57826f52ef67f7a0195d6afaa72aa688e28b1.jpg",
+        "img_caption": [
+            "FIG.11: Central potential of the neutrons of $^ { 6 6 } \\mathrm { C a }$ . Inserted is a magnification of the surface region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/500b81d73b9f48b7c40ea448541568f75d1cfba3fd011d29adde68923bb70382.jpg",
+        "img_caption": [
+            "FIG.12: Pairing potential of the neutrons of $^ { 6 6 } \\mathrm { C a }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8380e5ab849c036837f962a717dea52420673d327b1fd0db2e3e82394b4ffbe.jpg",
+        "img_caption": [
+            "FIG.13: $r _ { n }$ of the SkM $^ *$ calculations with three pairing interactions: the surface-type pairing with the strength determined from the pairing energy of the RCHB calculations (squares)， the surface-type with the strength determined from the pairing gaps (circles)，and the volume-type determined from the pairing gaps (triangles). The lines of the second and the third ones are very close to each other. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] I. Tanihata, H. Hamagaki, O. Hashimoto, Y. Shida, N. Yoshikawa,and K. Sugimoto, et al, Phys. Rev. Lett. 55, 2676 (1985). [2] J. Meng and P. Ring, Phys.Rev. Lett. 77, 3963 (1996).   \n[3]. J. Meng, Nucl. Phys.A 635,1(1998).   \n[4] J.Dobaczewski, W. Nazarewicz, T. Werner, J.Berger, C. Chinn,and J. Dechargé,Phys. Rev. C 53, 2809 (1996). [5] W.Poschl, D. Vretenar, G. A. Lalazissis, and P. Ring, Phys. Rev. Lett. 79,3841 (1997). [6] G. Lalazissis,D. Vretenar, W. Poschl, and P. Ring,Nucl. Phys. A 632,363 (1998). [7] J. Meng, I. Tanihata,and S. Yamaji, Phys. Lett. B 419,1 (1998). [8] J. Meng, H. Toki, J. Zeng, S. Zhang,and S.-G. Zhou, Phys. Rev. C 65, 041302 (2002). [9] J. Meng and P. Ring, Phys. Rev. Lett. 80, 460 (1998).   \n[10] J.Meng，H. Toki， S. Zhou, S. Zhang,W. Long, and L. Geng, nucl-th/0508020; Prog. Part. Nucl. Phys. in press.   \n[11] S. Zhang, J. Meng,and S.-G. Zhou, Science in China G 46, 632 (2003).   \n[12] P. Ring,G. Lalazissis,and D. Vretenar, Nucl. Phys.A 701, 503c (2002).   \n[13] S. Mizutori, J. Dobaczewski, G. Lalazissis, W. Nazarewicz, and P.-G. Reinhard,Phys. Rev C 61,044326 (2000).   \n[14] K. Bennaceur, J. Dobaczewski,and M. Ploszajczak,Phys.Lett. B 496,154 (2000).   \n[15] J. Dobaczawski, W. Nazarewicz, and P.-G. Reinhard, Nucl. Phys. A 693, 361 (2001).   \n[16] J. Dobaczewski, H. Flocard,and J. Treiner,Nucl. Phys.A 422,103(1984).   \n[17] K.Bennaceur and J. Dobaczewski, Comput. Phys. Commun. 168, 96 (2005).   \n[18] M. Sharma, M. Nagarajan,and P. Ring, Phys. Lett.B 312,377 (1993).   \n[19] W.Long, J. Meng, N. Giai, and S.-G. Zhou, Phys. Rev. C 69, 034319 (2004).   \n[20] J. Bartel, P. Quentin, M. Brack, C. Guet,and H.-B. Hakansson, Nucl. Phys. A 386,79 (1982).   \n[21] E. Chabanat，P. Bonche,P. Haensel, J. Meyer，and R. Schaeffer,Nucl.Phys. A 635,231 (1998).   \n[22] J. Dobaczewski, P. Magierski, W. Nazarewicz, W. Satula, and Z. Szymanski, Phys.Rev. C 63, 024308 (2001).   \n[23] G. Audi, A. Wapstra,and C. Thibault, Nucl. Phys A 729, 337 (2003).   \n[24] J. Chen, X. Cai, W. Shen, Y.Ma, Z. Ren,and H. Zhang, et al.,Eur.Phys. J. A 23,11 (2005). ",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,103 @@
+# 铜基廉价催化剂的火焰合成及甲烷催化特性研究
+
+梁成思1 王娜峰2 刘晨阳1 宗毅晨1 李水清姚 强1
+
+(1.清华大学热能工程系热科学与动力工程教育部重点实验室，北京100084;2．中国科学院工程过程工程研究所多相复杂系统国家重点实验室，北京100190)
+
+摘要本文基于预混滞止弱旋火焰系统，以溶于水或乙醇的廉价硝酸盐为前驱物，采用“一步”的雾化火焰方法来合成铜基催化剂纳米颗粒。采用 TEM、XRD 等分析了合成颗粒的形貌及物相态，进而考察了该催化剂在甲烷催化氧化反应中的催化活性。根据TEM结果，发现乙醇做溶剂时所合成的氧化铜颗粒具有颗粒直径小且结晶度较好的特点。实验结果表明， $1 0 \ \mathrm { n m }$ 氧化铜颗粒体现出良好的甲烷催化性能，但掺杂氧化铝后，铜基催化剂对甲烷的催化性能有所下降，其原因可归结为氧化铝对氧化铜的覆盖作用导致其有效比表面积降低。
+
+关键词火焰合成；铜基催化剂；甲烷催化氧化中图分类号：TK16 文献标识码：A 文章编号:0253-231X(2017)04-0881-04
+
+# Studies on Flame-synthesized Low-cost Cu-based Catalysts and the Catalytic Properties
+
+IANG Cheng-Si1 WANG Na-Feng² LIU Chen-YangYV ZONG Yi-Chen1LI Shui-Qing1 YAO Qiang (1.KeylaboratoryforThermal ScienceandPowerEnginegof MinistryofEducation,Departmentof TheralEngering TsinghuaUmversity， Beijing 100084; 2.Institute of Process Engieering, Chinese Academy of Sciences，Beijing 100190)
+
+AbstractOne-step spray flame Syhthesis, on the basis stagnation swirl burner, is developed to synthesize low-cost Cu-basedeabalysts. When preparing the solution, copper nitrate trihydrate and X   
+ethyl alcohol are used as preeursor and solvent, respectively. BET and XRD analyses are adopted to characterize the catllysts,and then the catalytic activity of methane oxidation is determined by a lab-scale fixed-bed micro-reactor. The TEM results indicate that (the copper oxide nanoparticles prepared with the ethyl alcohol solvent exhibit ultrafine diameter and good crystallinity，which are more suitable for the catalytic oxidation. Finally,10 nm CuO particles show good catalytic performance for methane, however the catalytic performance decreases after doping with alumina. It can be explained that the effective ratio of copper oxide declines because of the shingling effects caused by alumina.
+
+Key wordsflame synthesis; cu-based catalysts;methane catalytic oxidation
+
+# 0前言
+
+为提高天然气利用效率并解决传统高温燃烧方式所造成的环境污染问题，天然气催化燃烧技术及其相关催化剂的研究成为能源与催化领域的研究热点。目前，甲烷燃烧所用的催化剂大多为贵金属催化剂 (例如金，铂，钯等)[1-6]，而贵金属高昂的价格则在一定程度上限制了该类催化剂在工业上的大规模应用。因此，寻求适用于甲烷催化氧化的廉价金属氧化物催化剂成为新的关注点。铜与贵金属钯和金具有相似的电子结构，由此促使对CuO催化效果的相关研究。基于湿法化学合成对铜基催化剂的研究表明，氧化铜对甲烷和一氧化碳有一定的催化氧化作用[7]，且氧化铜与氧化铈、铁、镍等元素掺杂后，由于表面原子的相互作用，其化学催化与光催化效果会显著提升[8]。研究还发现，铜－铝元素形成的尖晶石型化合物在有机物光降解上显示出良好的性能[9]。
+
+火焰合成法具有生成颗粒直径小、粒径分布窄、化学活性高等优势，其易于大规模工业生产的优势更是决定了其在目前纳米材料合成应用领域中的重要地位。本文在实验室预混滞止弱旋火焰技术[的基础上，发展了“一步”的雾化火焰方法来合成铜基催化剂。采用TEM与XRD等对该催化剂的表面形貌、晶相进行分析，并在微型固定床上对其催化效果开展评估研究。
+
+# 1 实验系统
+
+# 1.1火焰合成系统
+
+本文的雾化火焰合成方法是基于弱旋流滞止燃烧器来发展的，该燃烧器需要四支气路供气，包括由甲烷 $( 2 . 0 ~ \mathrm { L } / \mathrm { m i n } )$ 、氧气 $( 6 . 6 ~ \mathrm { L } / \mathrm { m i n } )$ 和主流氮气$( 1 9 . 0 ~ \mathrm { L / m i n } )$ 组成的预混气体以及用于携带雾化液滴的载流氮气 $( 4 . 0 \ \mathrm { L } / \mathrm { m i n } ) ,$ 。具体实验装置如图1[6]所示。四支气路的气流在长圆筒式燃烧器中充分混合，并通过固定在燃烧器内的旋片。旋片的作用主要有两点，其一是使气体充分混合，其二是使预混气能够在贫燃条件下稳定燃烧。经过旋片后，预混气带上弱旋流，然后在燃烧器出口被点燃，形成推举火焰。在燃烧器出口下方处放置通有冷却水的滞止板，滞止板温度稳定在 $1 0 0 { \sim } 1 1 0 ^ { \circ } \mathrm { C }$ 。实验中滞业板放置在燃烧器出口约 $2 0 ~ \mathrm { m m }$ 处，滞止板距燃烧器出口过近，颗粒停留时间短，颗粒粒径过小面滞止板板距燃烧器出口过远，温度梯度不够大，颗粒停留时间过长，颗粒粒径会偏大。此外由于推举火焰的火焰面十分靠近滞止板，利用火焰面与滞止板之间较大温度梯度所产生的热泳力收集合成的纳米颗粒。采用热电偶对滞止旋流火焰场轴线温度分布进行测量，测温结果如图2所示。由图可知，距离燃烧器出口约 $1 3 ~ \mathrm { m m }$ 处出现温度最高值。
+
+![](images/8da41e05ce89a492b8af589f13831a2a5ea166e7c05dcdd7eda5805d69cc77a5.jpg)  
+图1弱旋流滞止燃烧器示意图Fig.1 Schematic of the stagnation swirl flame setup
+
+# 1.2前驱物制备
+
+选用常见的金属硝酸盐水合物为前驱物，尝试用无水乙醇、去离子水做溶剂，探究不同溶剂对铜基催化剂形态的影响以及掺杂对铜基催化剂性能的影响。使用的主要试剂有三水硝酸铜、九合硝酸铝、无水乙醇、去离子水等。由于硝酸盐在乙醇中的溶解度限制，对比实验时，所有工况中铜元素的摩尔浓度为 $0 . 1 \ \mathrm { m o l / L }$ ，掺杂用的铝元素的摩尔浓度按照负载数进行换算 (负载数为理论计算中合成的氧化铜占氧化铝的质量比)。
+
+![](images/541469f0b8a455119103918f77de28f909bfdfe42bf72ad3dbc62a02d429af61.jpg)  
+图2火焰场定点测温
+
+(Fig.2 Temperature profile along the burner centerlint
+
+# 1.3甲烷催化实验系统
+
+合成样品的催化活性评价在甲烷固定反应床中测定，其直径为 $1 2 \ \mathrm { m m }$ 、长度为 $7 5 0 0 \ \mathrm { m m }$ ，如图3所示。催化剂的用量为 $\mathrm { 3 0 ~ m g }$ 左右，用石英棉将其固定在中间位置。将测量温度的K型热电偶放置在固定床内，紧靠石英棉下方。反应气的组成为 $\mathrm { 9 0 \% N _ { 2 } / 8 \% O _ { 2 } / 2 \% C H _ { 4 } }$ ，气体流量为 $2 . 1 6 7 \times 1 0 ^ { - 3 }$ （204号$\mathrm { L } / \mathrm { m i n }$ ，升温速率为 $\mathrm { k K } { \cdot } \mathrm { m i n } ^ { - 1 }$ 。采用在线红外分析仪(XLZ-1090型分析入口及出口处 $\mathrm { C H } _ { 4 }$ 的浓度。 $\mathrm { C H } _ { 4 }$ 转换率由下式计算得到。．
+
+[6H4]conversion(%)=[CH4lin-[CH4lout t×100[CH4lin其中， $[ \mathrm { C H _ { 4 } } ] _ { \mathrm { i n } }$ 与 $\mathrm { [ C H _ { 4 } ] _ { o u t } }$ 分别为入口与出口处 $\mathrm { C H } _ { 4 }$ 的浓度。
+
+![](images/4a778d400d829cbfb224e4c6a0608144c90a3b43d810abc03f2d2d1a31f83716.jpg)  
+图3甲烷催化实验系统示意图Fig.3 Schematic of the fixed-bed reactor for methaneoxidation
+
+# 2结果与讨论
+
+# 2.1不同溶剂对单一颗粒形态的影响
+
+本实验比较了离子水和乙醇做溶剂条件下火焰合成氧化铜的颗粒形态。其TEM图像分别如图4(a)、(b)所示。颗粒直径约为 $1 0 ~ \mathrm { n m }$ ，由此判断其合成过程应该经过了气相。去离子水作溶剂时，氧化铜出现明显的烧结状态，整体呈现为烧结在一起的大颗粒。而用乙醇做溶剂时，呈现多个细小颗粒聚集的形态。分析其原因，由于水溶剂的沸点高，在蒸发过程中带走热量，因此其蒸发时间常数要远大于乙醇的情况。而本实验操作工况下，颗粒在火焰场的停留时间并不长，因此水溶剂下液滴的蒸发时间效果明显，液滴在蒸发过程中带走热量，对颗粒形貌影响较大。
+
+图4(c)、(d）是离子水和无水乙醇分别为溶剂时火焰合成氧化铝的颗粒形态。两种溶剂下合成的氧化铝均为大的空壳结构，由于溶剂的沸点小于硝酸盐的反应温度，随着液滴蒸发溶液逐渐发生饱和硝酸盐在液滴表面析出，升温反应后会形成空壳结构。TEM下统计不同直径范围的氧化铝颗粒数，呈现出双峰分布的特征[10]。
+
+# 2.2铜、铝掺杂情况下的颗粒形态
+
+图5是氧化铝掺杂量为20%的样品对比图，由图可知，掺杂条件下产物的颗粒形态类似于氧化铝单体。分析认为，无水乙醇为溶剂时，硝酸铜和硝酸铝可能具有相近的化学反应时间尺度，因此在合成过程中氧化铜和氧化铝同时经历了成核的过程，得
+
+![](images/cdfdf4bd121ca2c03b407d3d69436fa8718b1d3eb590df3fe083c7d14da8642d.jpg)
+
+![](images/c2ca0471b38937d814aac3b91704d14ac1ad19e830b3429bd796acf55589ea9e.jpg)  
+图4 不同溶剂下火焰合成的颗粒形态(a)去离子水 $\mathrm { ( C u O ) }$ (b)无水乙醇(CuO);(c)去离子水 $\left( \mathrm { { A l } _ { 2 } \mathrm { { O } _ { 3 } } } \right)$ ；(d)无水乙醇公 $\left( \mathrm { { A l } _ { 2 } \mathrm { { O } _ { 3 } } } \right)$ （2
+
+Fig.4 TEM images of flame-made nanoparticles using different solvents. (a) water (CuO);(b) ethanol (CuO); (c) water $\left( \mathrm { { A l } _ { 2 } \mathrm { { O } _ { 3 } } } \right)$ ；(d)ethanol $\left( \mathrm { { A l } _ { 2 } \mathrm { { O } _ { 3 } } } \right.$ ）
+
+到是铜和铝的混合物或者化合物颗粒，而非先后成核所形成的负载结构。同时，对掺杂颗粒中进行元素分析后发现，金属元素铜和铝同时出现在同一颗粒中，且在整个颗粒内呈均匀分布，其整体原子的比例也较为符合氧化铝和氧化铜的化学组成。
+
+![](images/39e19adfa1ca020991836e985bc3e5cd5c87abe86d97b9507a8d932d058fe123.jpg)  
+图5掺杂条件下形貌分析Fig.5 STEM images of flame-made CuO /Al2O3nanoparticles
+
+为了具体判断实验中铜、铝的掺杂结构是铜和铝的化合物还是氧化铜和氧化铝的混合物，在进行合成样品晶相分析前，首先对样品进行热处理，处理方式为 $8 0 0 ^ { \circ } \mathrm { C }$ 加热 $3 \mathrm { ~ h ~ }$ ，得到的峰型如图6所示。铜铝掺杂合成得到的结构主要成分是氧化铜和氧化铝的混合物，在合成过程中，氧化铜和氧化铝同时成核，因此铜、铝元素均匀分布在一个球体中。
+
+![](images/b020c03170c280a08ce1697f007bb63b961f91d9a58e9aa76adf9058567dd21e.jpg)  
+图6 热处理后掺杂合成样品的 XRD 图谱Fig.6 XRD characterization of synthesized dopednanoparticles
+
+# 2.3铜基催化剂对甲烷的催化氧化实验
+
+图7是甲烷转化率随温度的变化关系。CuO为催化剂时甲烷的最大转化率为 $3 4 \%$ ，明显高于单纯用 $\mathrm { { A l } _ { 2 } \mathrm { { O } _ { 3 } } }$ 时甲烷转化率。由图7可知，铝的掺入降低了铜基催化剂对甲烷的催化效率。结合 TEM图像可知，铝和铜的掺杂产物为直径 $2 0 ~ \mathrm { n m }$ 左右的球体，由XRD分析可知，该球形颗粒主要成分为氧化铜和氧化铝的混合物。由于氧化铝对氧化铜有部分掩盖的作用，相对于单相氧化铜样品；掺杂合成中氧化铜的有效比表面积会减小会使催化剂的整体催化性能下降。
+
+![](images/923067d0a378ac51495ded266d0da54864c46ed39a90cb1f70ca5eea42bbc603.jpg)  
+图7甲烷转化率随温度的变化关系 Fig.7Thecatalyticactivityofas-synthesizedcatalysts
+
+# 3结论
+
+本文采用一步雾化火焰法研究了合成后的廉价铜基催化剂的颗粒形态特征及其甲烷催化特性。结果表明，乙醇作溶剂时纳米颗粒结晶度比水做溶剂时更好。TEM和XRD分析显示火焰法所合成出的样品是氧化铜与三氧化二铝的混合颗粒。催化性能实验表明，氧化铜为催化剂时，温度达到 $6 0 0 ^ { \circ } \mathrm { C }$ 时甲烷转化率达到 $3 4 \%$ ，具有明显的催化效果。铝元素的掺入降低了甲烷的转化效率。这是因为由于氧化铝的掺入减小了氧化铜的有效比表面积，从而降低了掺杂样品的整体催化效果。
+
+# 参考文献
+
+[1]Gélin P,Primet M.Complete Oxidation of Methane at Low Temperature Over Noble Metal Based Catalysts:a Review [J].Applied Catalysis B: Environmental, 2002,39: 1-37   
+[2] JWang,H Chen,Z Hu,M Yao,YLi. A Review on the PdBased Three-Way Catalyst [J]. Catalysis Reviews,2014, 57(1): 79-144   
+[3] Choudhary T V, Banerjee S, Choudhary V R. Catalysts forCmbustion of Methane and Low Alkanes [J].Applied Catalysis A: General. 2002, 234: 1-23 4Qiuparu D,Lyubovsky M,Altman E,Pfefferle L D,Datye A.Catalytic Combustion of Methane Over Palladiumbased Catalysts [J]. Catalysis Reviews,2002,44(4):593- 649   
+[5] Zong Y,Li S,Niu F,et al. Direct Synthesis of Supported Palladium Catalysts for Methane Combustion by Stagnation Swirl Flame [J]. Proceedings of the Combustion Institute,2014,35(2):2249-2257   
+[6] 牛芳,李水清，宗毅晨等.新型纳米钯基催化剂的火焰合成 与催化点火[J].燃烧科学与技术,2014(6)：488-491 NIU Fang，LI Shuiqing，ZONG Yichen，et al.Nano Palladium-BasedCatalysts by Flame Synthesis and Catalytic Ignition [J]. Journal of Combustion Science and Technology 2014, 20(6): 488-491   
+[7]梁达文，白守礼，杨东，陈霭璠．(2005)．纳米 CuO/CeO2 制备、表征及对甲烷燃烧催化活性[J].北京化工大学学报. 2005,32(3): 73-76. LIANG Da-wen,BAI Shou-li,YANG Dong,CHEN Aifan.Preparation and Characterization of Nanosized $\mathrm { { C u O / C e O _ { 2 } } }$ and its Catalytic Activity for Methane Combustion [J].Journal of Beijing University of chemical Technology.2005,32(3): 73-76   
+[8]李俊峰.氧化铈基催化剂的制备及催化氧化性能的研究[D]. 上海：华东理工大学,2012 LI Junfeng.Synthesis and Catalytic Oxidation Performance of $\mathrm { C e O _ { 2 } }$ -based Catalysts [D]. Shanghai:East China University of Science and Technology, 2012   
+[9]骆凡，胡东红．尖晶石型 $\mathrm { M A l _ { 2 } O _ { 4 } }$ 粉体的制备及光催化性 能[J].泉州师范学院学报，2011,29(6)：45-49 LUO Fan,HU Donghong. Synthesis and Study on Photocatalytic Properties of Aluminate Spinel Powders [J]. Journal of Quanzhou Normal University, 2011,29(6): 45- 49   
+10] Strobel R,Pratsinis S E. Effect of Solvent Composition on Oxide Morphology During Flame Spray Pyrolysis of Metal Nitrates [J].Physical Chemistry Chemical Physics. 2011,13(20): 9246-9252

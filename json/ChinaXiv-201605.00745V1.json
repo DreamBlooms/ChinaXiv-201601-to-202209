@@ -1,0 +1,468 @@
+[
+    {
+        "type": "text",
+        "text": "FoxO1-mediated autophagy is required for NK cell development and innate immunity ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shuo Wangl\\*,Pengyan Xial\\*，Guanling Huang1,Pingping Zhu',Jing Liu',Buqing Yel,Ying Du1& Zusen Fan1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Natural killer (NK) cells exert a crucial role in early immune responses as a major innate effector component. However, the underlying mechanisms of NK cell development remain largely elusive. Here we show that robust autophagy appears in the stage of immature NK cells (iNKs),which is required for NK cell development.Autophagy defects result in damaged mitochondria and accumulation of reactive oxygen species (ROS) that leads to apoptosis of NK cells.Autophagy protects NK cell viability during development through removal of damaged mitochondria and intracellular ROS. Phosphorylated Forkhead box O (FoxO)1 is located to the cytoplasm of iNKs and interacts with Atg7,leading to induction of autophagy. FoxO1 deficiency or an inactive $\\mathsf { F o x O 1 } ^ { \\mathsf { A A A } }$ mutant abrogates autophagy initiation in iNKs and impairs NK cell development and viral clearance.Therefore we conclude that FoxO1-mediated autophagy is required for NK cell development and NK cell-induced innate immunity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "immunity,serve as the first line of defence against transformed tumours and virus-infected cells1,2.NK cells were recently defined as a part of the group 1 innate lymphoid cells according to their cytokine secretion pattern³.Cytokine secretion and granule-mediated cytotoxicity are the two major effector functions of NK cells,which are critical for early immune responses2,4 NK cells also play a pivotal role in orchestrating adaptive immunity5,6.Recent studies reported that NK cells obtain antigen specificity and develop into long-lived memory cells under antigen stimulation,displaying their adaptive features of NK cells6. Like leukocyte populations,NK cells derive from hematopoietic stem cells (HSCs) in the bone marrow (BM).Each step of NK cell development is finely regulated via signalling by various cytokines and transcription factors.Common lymphoid progenitors (CLPs） derived from multipotent progenitors can differentiate into NK progenitors (NKPs).NKPs express IL-15 receptor $\\beta$ chain(CD122) that allows them to respond to IL-15 (ref.7).Under IL-15 signalling,NKPs thereafter develop into immature NK (iNKs) and mature NK cells (mNKs)8. In addition, transcription factors are needed for NK cell specification.Id2 and Ets1,for example,promote NK cell lineage commitment.E4bp4 directs iNK to mNK transition9,10.Gata-3, Eomes,T-bet and TOX are required for the maturation of NK cells11-i4. However, it is unclear whether Forkhead box O(FoxO) family transcription factors play a role in NK cell development. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mammalian FoxO transcription factors,containing FoxO1, FoxO3,FoxO4 and FoxO6,are homologues of the Caenorhabditis elegans FoxO ortholog Dafl6 that is crucial for Dauer larval stage formation15. The Dauer larva, an alternative developmental stage of nematode worms,arrests development and allows survival in harsh conditions.Most FoxO members harbour an evolutionally conserved role in the modulation of nutrient sensing and stress responses.For instance,FoxO1 plays a critical role in cell cycle arrest, oxidative stress resistance and regulation of metabolism16. FoxO1 knockout mice exhibit vascular defects and die at E10.5 (ref.16).Moreover,FoxO1 is essential for the regulation of homing and survival of naive T cells15.FoxO1 deficiency in Treg cells_can switch their inhibitory functions to effector functions17. In addition, FoxO1 also regulates memory $\\mathrm { C D 8 ^ { + } }$ T-cell responses18. FoxO1 is also indispensable for early B-cell development and its peripheral functions19.Except for the transcriptional activity of FoxOl，cytosolic FoxO1 is able to induce autophagy in human cancer cells upon oxidative stress or serumstarvation20.Additionally， several previousstudies reported that another FoxO family member,FoxO3,is also involved in the autophagy induction in muscle cells²1.A recent study showed that FoxO3a triggers autophagy that is essential for the life-long maintenance of $\\mathrm { \\check { H } S C s } ^ { 2 2 }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Macroautophagy (hereafter referred to as autophagy） is an evolutionarily conserved process that degrades long-lived proteins and unwanted organelles_to recycle cellular components for survival and homoeostasis23.Autophagy participates in a variety of physiological processes,including lymphocyte development, embryonic development,cell reprogramming, tumour suppressionandmicrobialclearance24,25Moreover，autophagyis required for the maintenance of HSCs，T and B cells23. Recently,autophagy was shown to be required for plasma cell homoeostasisand humoral immunity26.During autophagy, autophagy-related genes,including Atg7,_Atg5 and Atg3,are required for autophagosome formation²7.However,whether autophagy is involved in NK cell development and effector functions are still unknown. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here we show that robust autophagy appears in iNKs and is required for NK cell development. Phosphorylated FoxO1 is located to the cytoplasm of iNKs and interacts with Atg7,which promotes autophagy induction.FoxO1 deficiency or an inactive FoxO1AAA mutant abolishes autophagy initiation in iNKs and impairs NK cell development and viral clearance. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Robust autophagy appears in iNKs. To examine whether autophagy occurs during NK cell development,we tested for autophagic activity in different stages of NK cells by using green fluorescent protein (GFP)-fused LC3 (GFP-LC3) transgenic mice, which have been used to monitor autophagic activity. Turnover of GFP-LC3fluorescence representsrobust autophagic flux28. We found that the GFP fluorescence signal was remarkably reduced in iNKs (Fig.la-c)，whereas the GFP signal was apparent in NKPs and mNKs.Four independent experiments obtained similar observations.Bafilomycin A1(BafA1） serves as an autolysosome inhibitor28.With BafA1 treatment, autophagic puncta significantly occurred in iNK cells,but not in NKPs and mNKs (Fig.la-c),indicating that autophagic flux is increased in iNKs.These data suggest that robust autophagy occurs in the stage of iNKs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LC3 conversion and p62 degradation are typical indicators of autophagy29.Consistently,we observed that obvious conversion of LC3-I to LC3-II appeared in iNKs (Fig.1d)，and p62,a substrate of autophagosomes,was almost hydrolysed in these cells.Upon BafA1 treatment, the degradation of LC3-II and p62 wereabrogated in iNKs,indicating enhanced autophagic flux in these cells.By contrast,conversion of LC3 and degradation of p62 did not appear in NKPs and mNKs.Additionally, the mRNA levels of LC3 and p62 did not apparently change in iNKs (Supplementary Fig. la).We noticed that NKp46 distributed in most iNKs and all mature NK cells,but not in NKPs (Supplementary Fig. 1b),consistent with a previous report30.Since an anti-NK1.1 antibody did not work for immunohistochemistry, we then used an anti-NKp46 antibody in place of anti-NK1.1 antibody to detect iNK and mature NK cell populations by immunohistochemistry.Consequently,we observed that iNKs displayed weak GFP-LC3 signals in BM sections (Fig. 1e), whereas mNKs showed strong GFP-LC3 fluorescence.We further analysed NK cell ultrastructures via immuno-eletron microscopy using anti-LC3 antibody.As expected, substantial LC3-positive autophagosome structures occurred in iNKs (Fig.1f),and over $8 0 \\%$ of iNKs displayed greater numbers of autophagosomes.By contrast， there were no overt LC3-positive autophagosome structures in NKPs or mNKs.Taken together，these results suggest that iNKs undergo robust autophagy during NK cell development. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Autophagy is required for NK cell development. To determine the function of autophagy in iNKs,we generated mice that lacked autophagic activity in iNKs by crossing $A t g 5 ^ { f l o x / f l o x }$ mice with mice expressing Cre recombinase driven by the NK cell-specific $\\mathrm { N K p } 4 6$ promoter $( N K p 4 6  – C r e ) ^ { 3 0 }$ . Given that the $\\mathrm { N K p } 4 6$ receptor isexpressed in the stages of iNKs and mNKs,Atg5 was successfully deleted in iNKs and mNKs in $A t g 5 ^ { f l o x / f l o x } ; N K p 4 6 -$ Cre mice (Fig.2a; Supplementary Fig.2a).We observed that littermate $A t g 5 ^ { f l o x / + } ; \\dot { N } \\dot { K } p 4 6  – C r e$ mice behaved similar to WT $A t g 5 ^ { + / + }$ mice.We therefore used $A t g 5 ^ { f l o x / + } ; N K p 4 6  – C r e$ mice as littermate controls. Notably， total lymphocyte numbersin $A t g 5 ^ { f l o x / f l o x }$ NKp46-Cre micewere comparable tothose of $A t g 5 ^ { f l o x / + }$ :NKp46-Cre control mice. Interestingly， weoserved that $A t g 5 ^ { f l o x / \\hslash o x } ; N K p 4 6  – C r e$ mice had dramatically lowered percentages of iNKs and mNKs both in the BM and spleen (Fig.2b)，indicating reduced numbers of iNKs and mNKs accordingly.By contrast,Cre expression alone did not impact NK cell development and restrictive expression of NKp46 ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f54557a0e7d7a806860b38a0c2c94900ad41d18bfd35ed6f781a54d33c9952ab.jpg",
+        "img_caption": [
+            "Figure1Robustautoaccusithsageoficels.（aotalBceloGFP-Ctransgeniciceeefushdfommosefursad stained with antibodies against lineage, CD122,NK1.1 and ${ \\mathsf { D } } \\times { \\mathsf { 5 } }$ .Different stages of $N { \\sf K }$ cells were isolated by flow cytometry.Purity of each NK population was confirmed by flow cytometry analysis.Cells were fixed or cultured with $2 0 { \\mathsf { n } } M$ Bafilomycin A1(BafA1) for $4 \\mathfrak { h }$ and visualized by confocal microscopy. NKP, $\\mathsf { L i n } ^ { - } \\mathsf { C D } 1 2 2 ^ { + } \\mathsf { N K } 1 . 1 ^ { - } \\mathsf { D } \\mathsf { X } 5 ^ { - }$ ； iNK, $\\mathsf { L i n } ^ { - } \\mathsf { C D } 1 2 2 ^ { + } \\mathsf { N K } 1 . 1 ^ { + } \\mathsf { D } \\mathsf { X } 5 ^ { - }$ mNK,L $\\mathsf { i n } ^ { - } \\mathsf { C D } 1 2 2 ^ { + } \\mathsf { N K } 1 . 1 ^ { + } \\mathsf { D } \\mathsf { X } 5 ^ { + }$ .Lineage cocktails (Lin) included CD3 (17A2), CD19 (1D3),TER-119 (TER-119),and Gr-1(RB6-8C5).Nuclei were stained with propidium iodide (PI).Scale bar, $5 \\mu \\mathrm { m }$ .Medians of fluorescence intensity (MFl) of each cell were calculated and shown as means $\\pm \\thinspace s . 0$ $^ { \\star \\star } P < 0 . 0 1$ （20 $( \\pmb { 6 } )$ .(c)NK cells from GFP-LC3 mice were treated as above,MFl was analysed by flow cytometry and shown as means $\\pm$ s.d. $^ { \\star \\star } P < 0 . 0 1$ .(d) $N { \\sf K }$ cells $( 1 \\times 1 0 ^ { 5 } )$ at three stages were isolated from wild-type(WT) mice and cultured with or without BafA1 for $4 h$ followed by immunobloting. Bands were quantified by Image Jand shown as means $\\pm$ s.d. $^ { \\star \\star } P < 0 . 0 1$ .(e) BM sections from femurs of GFP-LC3 mice were stained with antibodies against NKp46,DX5,and GFP.Scale bar, $2 0 \\mu \\mathrm { m }$ .White arrow head denotes iNK cells $( \\mathsf { N K p 4 6 ^ { + } D } \\mathsf { X } 5 ^ { - } )$ ; Red arrow head indicates mNK cells $( { \\mathsf { N K p 4 6 } } ^ { + } { \\mathsf { D } } { \\mathsf { X } } 5 ^ { + } ;$ .(f)NK cels of the indicated stages were stained with anti-LC3 antibodyand visualized by immunoelectronmicrooyagedfieldsodcolicgaelsdososiutoagososinsndgaulesinsaleba $2 0 0 \\mathsf { n m }$ Numberofautophagosomes percellfrom more than 5O cells of different NK stages was calculated and shown as means $\\pm \\thinspace s . 0$ .The percentage of autophagic cells in the indicated stages was shown as means± s.d. $( n > 1 0 0 )$ ： $^ { \\star \\star } P < 0 . 0 1$ .Data were repeated for three times with similar results.For c and d,a two-tailed unpaired Student's t-test was used; for $\\mathbf { f } ,$ a two-way analysis of variance post hoc Bonferroni test was used. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a -Cre -Cre b Atg5flox/+;NKp46-Cre Atg5flox/fox:NKp46-Cre Ag4GA 46 ;NKp4 flox x;NKp4 gehprdrni ag 10 10 59.2 104 104 13.3 525 05 fox 2.1 1030.5 103 茶 Atg5 10² 10² 10² 102   \nAtgn G22 100010 107 % K mK arrrrdrriliaeede 103 104 2.7 10 69.2 103 104 0.8 100 7.2 ongordig 43 \\* 1000 10² 10² 1 10² 1001010 10 10² 100 % 210 K mNK Lin NK1.1 Lin NK1.1   \nC d DAPI NKp46 B220 Merge   \nAtg5flox/+;NKp46-CreAtg5fxfox;NKp46-Cre hl/silrthtsth \\*\\* 47.3% 4.2% Atg5flox/+.   \nCD11b NKp46-Cre 0 0+ 10°10110²10104 10°10110²10104 e 67.2% 8.2% Atg5flox/lox. 46 Cre NKp46-Cre   \nNKp46 100 101102103104 10° 101 102103 104 e Atg5f(x/+;NKp46-CreAtg5x/fox;NKp46-Cre 58.1% 10110 0.8 国 6.3%   \nCD94 0 0 101 101 10°10110²10104 10°10110²10104 30.4 32.1 100100 101 102 103104 10010101102 103104 % NKp46+ CD19+ CD19 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Supplementary Fig. $^ { 2 \\mathrm { b } , \\mathrm { c } ) }$ .Moreover,several surface markers of iNKs and mNKs in $\\prime { A t g 5 ^ { f l o x / f l o x } } ; { N K p 4 6 - C r e }$ mice were remarkably reduced by flow cytometry analysis (Fig.2c),suggesting that Atg5 deficiency impaired the mature transition from NKPs to the stagesofiNKs andmNKs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We next stained NK and B cells in BM sections.Expectedly, the number of $\\mathrm { N K p } 4 6 ^ { + }$ cells was dramatically reduced in $A t g 5 ^ { f l o x / f l o x } ; N K p 4 6  – C \\dot { r } e$ mice compared with $A t g 5 ^ { \\hbar o x / + } ; N K p 4 6 -$ Cre mice (Fig.2d),whereas we did not detecta difference in the number of B cells.These results were further confirmed by flow cytometry analysis (Fig. 2e).The frequencies of other cell types，including HSCs,CLPs，myeloid cells in the BM were not significantly different in $\\dot { A } t g \\dot { 5 } ^ { f l o x / f l o x } ; N K p 4 6 - C 1$ re mice (Supplementary Fig. 3a).Atg3 and Atg7 are involved in autophagosome formation31.Expectedly， silencing of Atg3- or Atg7-impaired NK cell development (Supplementary Fig. $^ { 3 \\mathrm { b } , \\mathrm { c } } .$ ） These data indicate that autophagy is required for NK cell development. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Under stimulation of IL-15 in vitro,NKPs can develop to subsequent stages of iNKs and $\\mathrm { m N K } s ^ { 3 2 }$ .We isolated NKPs from $A t g 5 ^ { f l o x / f l o x } ; N K / p 4 6  – C r e$ mouse BM and cultured them with IL-15 in vitro. $A t g 5 ^ { f l o x / f l o x } ; N K p 4 6 \\mathrm { - } C r e \\mathrm { N K P s }$ failed to generate iNKs and mNKs (Fig. 3a), while $\\dot { ~ } A t g 5 ^ { { f l o x } / + }$ ;NKp46-Cre NKPs were able to induce formation of iNKs and mNKs.In addition,we found that $A t g 5 ^ { f l o x / f l o x } ; N K p 4 6  – C r e$ NKsabolished IFN- $\\cdot \\gamma$ production (Fig. 3b), whereas $\\dot { A } t g 5 ^ { f l o x / + } ; N K p 4 6  – C r e \\ N K s$ produced a large amount of $\\mathrm { I F N - } \\gamma$ ：Murine cytomegalovirus（MCMV） infection induces production of pro-inflammatory cytokines at an early phase that in turn stimulate NK cells to produce other antiviral cytokines for NK cell expansion and upregulation expression of activating receptors33.Thereby NK cells play a critical role in_the early control ofMCMV infection.We found that $A t g 5 ^ { f l o x / f l o x } ; N K p 4 6 - C r e$ NK cells produced much less IFN-y.upon MCMV stimulation compared with control $A t g 5 ^ { f l o x / + ^ { \\bullet } } ; N K p 4 6  – C r e$ NKs (Fig.3c).Thecytotoxicityand expansion” of $A t g 5 ^ { f l o x / f l o x } ; N K \\dot { p } 4 \\breve { 6 } - C r e$ NK cells were severely ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a Atg5floxi ;NKp46-Cre Atg5flox/flox ;NKp46-Cre Atg:NKp6-Ce b Atg54ox/+;NKp46-Cre Atg5tlox/flox X;NKp46-Cre 104 57.2 100 8.4 00 8000 100 100] 102 10 \\* xew y 80 41.2% 0 9.3% 10² o 40 101 孩 101 □ % 20 20 100 10 10² 1 104 10 780 % 0 NKP iNK mNK 1010101 102 103 10N0 101 102 10104 NK1.1   \nC d Atg5lx+:NKp46-Cre e f VAtgx/fox:NKp46-Cre ■Atg5ox/+, +;NKp46-Cre ●Atg5tlox/+;NKp46-Cre +MCMV O Atg5,x/fox;NKp46-Cre +MCMV ● Atg54fox/+;NKp46-Cre OAtg5 ox/tox,. X;NKp46-Cre 1agds br/nndo6n 8 \\*\\* Atg5ox/fox:. ;NKp46-Cre 80   \nTIiesr -in 60504030201 \\*\\* 1 (%)sispisss 60 30 40 6 4 量 40 10 20 2 乐 味 100 20 0 0 -0 8 □ 0 中 % E:T rati0 Day 0 24 6 .c1e x/flox; MCMV ++ 0 10 20 40 -Cre 46 Atg5ox NKpA ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "impaired (Fig. 3d,e). Importantly, $A t g 5 ^ { f l o x / f l o x }$ ;NKp46-Cre mice were more susceptible to MCMV infection (Fig. 3f).Finally,we further validated that autophagy was required for NK effector functions.We isolated NK cells from $A t g 5 ^ { f l o x / f l o x } ; N K p 4 6 \\ – C r e$ mice and $A t g 5 ^ { f l o x / + } ; N K p 4 6  – C r e$ mice and treated with IL-12 and IL-18 for $1 2 \\mathrm { h }$ .Atg5-deficient mNKs displayed impaired $\\mathrm { I F N } _ { - \\gamma }$ secretion and cytotoxicity (Supplementary Fig. 4a,b).Overall, autophagic activity is required for NK cell development and its effector functions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Autophagy protects NK cells against ROS-induced apoptosis. We next wanted to test the physiological role of autophagy in the progression of NK cell development. We noticed that many more apoptotic cells appeared in the BM of Atg5flox/flox;NKp46-Cre mice compared with $A t g 5 ^ { f l o x / + } ; N K p 4 6 -$ Cre control mice (Fig. 4a). Indeed, the number of AnnexinVpositive $\\mathrm { N K } 1 . 1 ^ { + }$ NK cells was dramatically increased in $\\stackrel { \\bullet } { A } t g 5 ^ { f l o x / f l o x } ; N K p 4 6 \\ – C r e$ miceaccordingto flow cytometry analysis (Fig. 4b). However, the other cell types we detected in the BM of $\\overline { { A t g 5 ^ { f l o x / f l o x } } } ; N K p 4 6 - C r \\epsilon$ mice did not exhibit overt dead cells (Fig. 4c). Additionally, $A t g 5 ^ { f l o x / f l o x } ; N K p 4 6  – C r e \\mathrm { N K }$ cells displayed high activation of caspase 3 and caspase 7 (Fig. 4d),whereas $_ { A t g 5 } / { l o x } / + _ { ; N K p 4 6 - C r e \\ N K }$ had basal levels. To further verify that NK cells underwent apoptosis in BM,we analysed apoptotic features of NK cells in BM sections. Consistently, most of $\\mathrm { N K p } 4 6 ^ { + }$ NK cells in $A t g 5 ^ { f l o x / f l o x } ; N K p 4 6 -$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cre mice exhibited high caspase 3 activation compared with those of $A t g 5 ^ { f l o x / + }$ ;NKp46-Cre mice (Fig. 4e). These results indicate that defective autophagy results in apoptosis of NK cells. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Autophagy contributes to clearance of damaged mitochondria and reactive oxygen species (ROS) during cell renovation34.Lack of autophagy causes damaged mitochondria and accumulation of ROS that leads to cell death.We observed that numbers of mitochondria were significantly reduced in iNKs and mNKs during NK cell maturationin $\\boldsymbol { A } t g 5 ^ { f l o x / + }$ ;NKp46-Cre mice (Fig. 4f).However,Atg5-deficient iNK cells displayed numerous damaged mitochondria (Fig. $ { \\mathbf { 4 g } } )$ ，whereas $A t g 5 ^ { \\hbar o x / + } ; N K p 4 6 - C r e$ iNK cells exhibited normal mitochondria.These data indicate a failure to clear damaged mitochondria in $A t g 5 ^ { f l o x / f l o x } ; N K p 4 6 \\ – C r e$ iNK cells.We then examined ROS levels at different stages of NK cell development in $A t g 5 ^ { f l o x / f l o x } ; N K p 4 6  – C r e$ mice and $A t g 5 ^ { f l o x / + } ; N K p 4 \\dot { 6 } - C r \\epsilon$ mice. As expected, ROS levels were much higher in $A t g 5 ^ { f l o x / f l o x } ; N K p 4 6 \\ – C r e$ iNKs and mNKs (Fig. $^ \\mathrm { 4 h , i }$ ) whereas NKPs had no obvious ROS accumulation.Additionally, the ROS scavenger Tiron could eradicate ROS accumulationin $A t g 5 ^ { f l o x / f l o x } ; N K p 4 6 \\ – C r e$ NKs(Fig.4j).Consequently,Tiron treatment dramatically reduced apoptosisof Atg5flox/fox:NKp46-Cre NKs (Fig.4k)，suggesting that ROS was the cause of apoptosis in $A t g 5 ^ { f l o x / f l o x } ; N K p \\mathcal { \\breve { A } } 6 \\mathrm { - } C r e \\mathrm { \\breve { N } K }$ cells. Taken together,these results suggest that autophagy is essential for clearance of damaged mitochondria and ROS of iNK cells during NK cell development. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NK cells undergo mTOR-independent autophagy. To explore the underlying pathway of autophagy in iNKs,we next analysed expression profiles of autophagy-related genes. We observed no significant change in the expression of the autophagy-related genes we checked in iNKs (Fig. 5a).We further detected the activation levels of these autophagy-related proteins by analysing their phosphorylation states.Inhibition of mammalian target of rapamycin (mTOR） activation can initiate autophagy. Intriguingly, mTOR was highly phosphorylated in iNKs compared with NKPs (Fig. 5b).S6K,4EBP and AKT are downstream substrates for mTOR35. Consequently, these mTOR substrates were also highly phosphorylated iniNKs (Fig.5b).TSC2isa downstreamsubstrate of AKT (ref.36).We found that TSC2 was also active in iNKs. However,the activation of AMPKαl and AMPKβ1 was unchanged in iNKs compared with NKPs (Fig. 5b). These results suggest that the mTOR pathwayis activated in iNKs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a PI FITC Merge b Atg5flox/+;:NKp46-Cre Atg5fox/fox:NKp46-Cre Atg5x/+Kp46-Cre 10 69.6 5.1 8.2 17.2 +1/:-1 1 % 0 100 4 V 100 101 10² 103 10410°101 10² 10104 Annexin V c(%) 100 T )sle peeg 60 40 20 6 Hsc cLP b My   \ne NKp46 Casp3 NKp46/Casp3 Merge Atg5flox/+, XA 1086420 NKp46-Cre Atg5 flox/tlox. NKp46-Cre   \nf g Atg5flox/+;NKp46-Cre Atg54ox/foX:NKp46-Cre h DCF-DA DIC Merge Atg5flox/+, NKp46-Cre   \noeuod tunoue 14208420 \\*★\\*\\* Atg51lox/flox. 0 NKp46-Cre NKP iNK mNK   \n1 Ln iNK mNK F nrlaerrnerern xergo 4.2% 60.8% 69.3% 00 % 10°10110²10104 F ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "mTOR exists in two distinct complexes，mTORC1 and mTORC2. mTORC1 phosphorylatesS6K at Thr389 and mTORC2 phosphorylates AKT at Ser473,which consequently initiate the phosphorylation of AKT at Thr3o8.Inhibition of mTORC1 can initiate autophagy.While mTORC2 is able to modulate mTORC1 via AKT phosphorylation35.Raptor is a major component of mTORC1,while Rictor is a main component of mTORC2. We next wanted to test whether mTOR was involved in the regulation of NK cell autophagy or development. We observed that mTORC1 (Raptor) and mTORC2 (Rictor) were highly expressed in NKPs (Supplementary Fig. 4c).We knocked down Raptor or Rictor in NKPs, respectively. Silencing of Raptor abrogated NK cell development (Fig. 5c). Moreover,GFP-LC3 signals remained at a high level in Raptor-silenced NK cells (Fig.5d)，suggesting that Raptor depletion failed to induce autophagy in NK cells.Similar results were obtained in Rictorsilenced NKPs (Fig.5e,f).These data indicate that the mTOR complexes are not implicated in the autophagy initiation, but they are involved in the progression of NK cell development. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rapamycin has been widely used as an inhibitor of $\\mathrm { m T O R } ^ { 3 7 }$ We added rapamycin to NKP culture media for an in vitro development assay.We observed that rapamycin treatment abolished NK cell development (Fig. 5g),rather than promoted apparent autophagy in iNKs (Fig.5h).Altogether,these results suggest that induction of autophagy required for NK cell development occurs independently of mTOR. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FoxO1 is highly phosphorylated in the cytoplasm of iNKs. Several studies have reported that FoxO family members can induce autophagy that is independent of mTOR signaling20,22. Given that iNKs undergo mTOR-independent autophagy，we then determined whether FoxO family members initiated autophagy in iNKs. Three FoxO family members,including FoxO1,FoxO3 and FoxO4,are expressed in the hematopoietic system38. Interestingly, we found that FoxO1 mRNA was highly transcribed in NKPs,iNKs and mNKs (Fig. 6a,b).However, FoxO3 mRNA level was very low in these NK cells (Fig. 6a,b),and FoxO4 was undetectable.Through immunoblotting, these three FoxOfamily memberswere highlyexpressed in LSKs $( \\mathrm { L i n ^ { - } S c a l ^ { + } c K i t ^ { + } }$ cells） (Fig. 6b)，which were used asa positive control. However，the protein level of FoxO1 was remarkably reduced in mNKs (Fig.6b).The proteasome inhibitor MG132 was able to block the degradation of FoxO1 and augmented ubiquitinated protein levels in mNKs (Fig. 6c). Similarly,a more specific proteasomal inhibitor epoxomicin also blocked the hydrolysis of FoxO1 in mNKs (Supplementary Fig. 4d). These observations suggest that FoxO1 is degraded in mNKs by the proteasome-dependent degradation pathway. We observed that FoxO1 mainly resided in the nuclei of NKPs (Fig. 6d).However，FoxO1 was mainly distributed in the cytoplasm of iNKs.By contrast,FoxO1 levels were extremely reduced in mNKs (Fig. 6d). These results were further validated bynuclearand cytosolic fractionation assays(Fig. 6e). Furthermore,phosphorylated FoxO1 levels were elevated in the cytoplasm of iNKs (Fig.6e). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FoxOl phosphorylation by AKT causes its translocation from thenucleustothecytosol39，leadingtotranscriptional inactivation of its target genes.FoxO1 activation can upregulate many target genes,including Il7rα,Bcl2 and Klf4 (ref.16), meanwhile,it also downregulates several repressed genes such as Tbx21, $C c r 7$ and Atg7 (refs 17,18).We observed that expression of genes upregulated by FoxO1 was significantly inhibited during the transition of NKPs to iNKs(Fig. 6f)，whereas expression of FoxOl-repressed genes was activated in this process.Additionally，FoxO1 was highly phosphorylated in iNKs(Fig. 6g)，while FoxOl phosphorylation was almost undetectable in mNKs. These observations were validated by immunoblotting (Fig. 6h).As expected，FoxO1 levelswere remarkably reduced in mNKs. More importantly，highly phosphorylated FoxO1 was localized in the cytoplasm of iNKs (Fig. 6i)，which was confirmed by nuclear and cytosolic fractionation assays (Fig.6e). In sum，we conclude that phosphorylated FoxO1 resides in the cytoplasm of iNKs (asopposed to the nucleus of NKPs). The differential expression of its target genes in iNKs relative to NKPs is consistent with a loss of FoxO1 transcriptional activity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FoxO1 deficiency or mutation abrogates NK cell development. To further confirm the role of FoxO1 in NK cell development, we generated mice with NK cell-specific knockout of Foxol gene by crossing $F o x o I ^ { f l o x / f l o x }$ mice with NKp46-Cre mice. FoxO1 was completely deleted in iNKs and mNKs (Fig.7a).We observed that FoxO1 deficiency impaired NK cell development (Fig. 7b), indicating that FoxOl plays a critical role in NK cell development. FoxO1 undergoes phosphorylation at three residues (Thr24,Ser256 and Ser319) by AKTl6.A mutant version of FoxO1,FoxOiAAA (residues Thr24， Ser256 and Ser319 are mutated to Ala） cannot be phosphorylated and remains in the nucleus,leading to its lasting activation of its target genes39 $\\mathrm { F o x O 1 ^ { A A A } }$ micewere generated byinsertionof FoxO1AAA mutant into Rosa26 locus_preceded bya loxPflanked ‘STOP' cassettel7. We generated $F o x O I ^ { A A A }$ -mutant mice $( F o x O I ^ { f l o x / f l o x } ; F o x O I ^ { A A A / + } ; N \\check { K } p 4 6  – C r e )$ thatlackedendogenous expression of WT FoxO1 in NK cells and expressed the $_ { F o x O I } ^ { \\cup } { } ^ { A A A }$ mutant geneunderthecontrolof $N K p 4 6$ promoter17. $F o x O I ^ { A A A }$ was expressed inthe NK celsofthese mce(ig.7a). Interestingly， the $\\mathrm { F o x O 1 ^ { A A A } }$ mutant also impaired NK cell development (Fig.7b).The mutant FoxO1 was restricted to nuclei ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a b IgG NKP iNK   \n( 65 1 108 10860 100860 4321 40 40 40 % 20 20 20 20 0 0 0 0 10°10110²10 104 10°10110²10104 10°10110²10²104 10°10110²10104 p-mTOR p-S6K p-4EBP p-AKT(Thr308) 0 100 100 180 60 60 60 60 % 40 20 40 20 40 20 40 20 01 01 0 0+ 10°10110²10104 10°10110²10104 10°10110²10104 10°10110²10104 p-AKT(Ser473) p-TSC2 p-AMPKα1 p-AMPKβ1   \nC d e f Y 公 MWkDa 0 ＊★ S MW \\*\\* Raptor Rictor β-Actin -45kDa β-Actin 170kDa 40 Ctrl shRaptor Ctrl shRictor 20 104 60.8 104 24.3 104 57.2 104 16.0 0   \n810 103 shaor 800 10 shRictor 10² 101 101 101 101 100 12.3 7.5 10 58.0 4.5 10016.2 7.0 100 160.7 5.1 10°10¹10²10 104 10°10110²10104 10°10110²10104 10°10110²10104 NK1.1 NK1.1   \ng h DAPI GFP-LC3 NK1.1 DX5 Merge F 8 \\*\\*   \n512 100 \\*L□ +IN-K5 7 seles 60 400 NKP 0 +IL-15+Rapa NKP iNK mNK 心 R apa JY L IL-15+ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "of iNKs (Fig. 7c)，while endogenous FoxO1 resided in the cytoplasm of iNKs in $F o x O I ^ { f l o x / \\ddagger o x }$ mice. Consequently, nuclear location of FoxOlAAA mutant abrogated autophagy induction in iNK cells(Fig. 7c-e).Notably，restoration of WT FoxO1 in $F o x O I ^ { \\mathit { f l o x } / \\mathit { f l o x } }$ NKp46-Cre mice rescued the autophagic activity of iNKs (Fig. $\\mathrm { 7 d , e }$ ),suggesting that FoxO1 is essential for autophagy initiation in iNKs. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The suppression of genes usually activated by FoxO1 in iNKs relative to NKPs was not affected in $F o x O I ^ { \\textit { \\textbf { f l o x } } / f l o x }$ ;NKp46-Cre mice compared with $F o x O I ^ { f l o x / f l o x }$ or $F o x O I ^ { \\mathit { f l o x } / \\mathit { f l o x } }$ NKp46-Cre rescued with WT FoxO1 (Supplementary Fig. 5a). Likewise the increased expression of genes usually repressed by FoxOl in iNKs relative to NKPs was unaffected in these genotypes. However,this differential expression of genes usually regulated by FoxO1，which we presume is due to a loss of FoxO1 nuclearlocalization in iNKs relative to NKPs was not seen in $F o x O l ^ { f l o x / f l o x } ; F o x O l ^ { A A A / + } ; \\lambda$ NKp46-Cre mice where FoxO1 is restricted to the nucleus (Supplementary Fig. 5a). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Similarly，FoxO1 deficiency resulted in the same defective autophagy phenotype in iNK cells as $\\mathrm { F o x O 1 ^ { A A A } }$ -mutant mice. Furthermore, FoxO1-deficient or FoxO1AAA-mutant NK cells exhibited high accumulation of ROS (Fig.7f),and elevated dead cells (Fig.7g). Overall, we conclude that FoxO1 is involved in the induction of autophagy during NK cell development. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To explore the effect of FoxO1 on anti-MCMV response,we used MCMV to infect FoxO1-deficient or $\\mathrm { F o x O 1 ^ { A A } } ^ { \\mathrm { a } }$ -mutant mice. We observed that $F o x O I ^ { - / - }$ or $F o x O I ^ { A A A }$ NK cells almost blocked $\\mathrm { I F N } { - \\gamma }$ production after MCMV infection (Fig. 7h), whereas $F o x O \\dot { I } ^ { f l o x / f l o x }$ mice generated large amounts of $\\mathrm { I F N - } \\gamma$ Moreover, $F o x O I ^ { - / - }$ or $F o x O I ^ { A A A }$ NK cells displayed impaired cytotoxicity (Fig.7i),and significantly reduced numbers in the periphery (Fig.7j).Finally,FoxO1-deficient or FoxO1AAA_ mutant mice were more susceptible to MCMV infection (Fig.7k). These data suggest that FoxO1-mediated autophagy is required for NK cell development and NK cell-mediated innate immunity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2e9de66e84ab420cd9c686b72fbd6a6b6e53230d7a17421dfa7ce39e942e636.jpg",
+        "img_caption": [
+            "Figure6FoxOishexpreedinecytps.(asextractedfroecaedagsofcllodbsa RelativemRNAexpressonofNKsaoraliedtothatfCLsDatarerepresentativeoftreeindepedentexperimentsandhoasmeans $\\pm \\thinspace s . 0$ (b) NK cells were subjected to western blotting. Hematopoietic progenitor cells $( \\mathsf { L i n } ^ { - } \\mathsf { S c a l } ^ { + } \\mathsf { c K i t } ^ { + }$ (LSK)) served as a positive control.(c) The indicated NK populations were isolated and mNKs were treated with $2 0 \\mu \\ g \\mathsf { m l } ^ { - 1 } \\mathsf { C } \\mathsf { H } X$ and $1 0 \\mu \\mathrm { m }$ MG132 for $4 h$ followed by western blotting.(d) NK cells were isolated for immunostaining of FoxO1. Percentage of nuclear and cytoplasmic $\\mathsf { F o x O 1 }$ in cells was analysed.Fora single cell,fluorescence intensities of nuclear $\\mathsf { F o x O 1 }$ （204号 (PI/FoxO1 positive areas,yellow）and cytosolic $\\mathsf { F o x O 1 }$ 0 $\\mathsf { F o x O 1 }$ positive areas,green） were analysed by Image J.Ratios of fluorescence intensities from nuclear or cytosolic $\\mathsf { F o x O 1 }$ were calculated from more than 5O cells for each $N { \\sf K }$ cell population and shown as means $\\pm$ s.d. Scale bar, $5 \\mu \\mathrm { m }$ Purityof each NK population was confirmed by flow cytometry assay.(e) Nuclei and cytoplasm of diferent $N { \\sf K }$ cells were separated followed by Western blotting. CytoplasmiprotEdcoteieHfctiros.Cccs.fesftad during NKP to iNK transition was analysed by RT-PCR assay.Data were calculated as means $\\pm \\thinspace s . 0$ $^ { \\star \\star } P < 0 . 0 1$ $( \\mathbf { g } , \\mathbf { h } )$ Different stages of $N { \\sf K }$ cells were isolated for cytometry analysis $\\mathbf { \\sigma } ( \\pmb { \\mathsf { g } } )$ or immunoblotting ${ \\bf \\Pi } ( { \\bf h } )$ .(i) FoxO1 is phosphorylated in the cytoplasm of iNKs.Different NK cells were separated for immunostaining.MFl of phosphorylated $\\mathsf { F o x O 1 }$ (p-FoxO1) was analysed and shown as means $\\pm { \\ : \\mathsf { s . d } }$ $^ { \\star \\star } P < 0 . 0 1$ . Scale bar, $5 \\mu \\mathrm { m }$ .All data are representative of atleastthedeedtepetildpentstedfdalisa test was used. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FoxO1-binding domain mutants fail to induce autophagy. Atg7 is required for formation of autophagosomes31. Cytosolic FoxO1 can bind to Atg7 to induce autophagy in human tumour cells independently of its transcriptional activity20.We detected autophagy-related genes in iNKs and found that Atg7 was the only autophagy gene diferentially regulated in iNKs (Fig. 8a).High expression of Atg7 in iNKs was validated by immunoblotting (Fig. 8b).We next isolated autophagosomes from iNK cells according to a previous study40， followed by immunoblotting.Interestingly,we observed that phosphorylated ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FoxO1 and Atg7 were located in autophagosomes (Fig. 8c), suggesting that phosphorylated FoxO1 and Atg7 could be implicatedintheregulationofautophagyiniNKs. Furthermore,the interaction of FoxO1 with Atg7 was verified by immunoprecipitation in iNKs (Fig. 8d). The C-terminal residues 537-596 are the binding domain for Atg7 (ref. 20), deletion of this binding domain of FoxO1 (△BD-FoxO1) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "abrogates its interaction with Atg7.We isolated NKPs and iNKs from the BM of $F o x O I ^ { \\mathit { f l o x } / \\mathit { f l o x } }$ ;NKp46-Cre mice and infected with lentivirus encoding WT FoxO1 or △BD-FoxO1 for $2 4 \\mathrm { h }$ With co-immunoprecipitation assays,we noticed that Atg7 associated with FoxOi in iNK lysates (Fig. 8d).Expectedly, △BD-FoxO1 did not interact with Atg7 in iNK lysates (Fig. 8d). We found that △BD-FoxOl ablated autophagy induction in iNKs ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "a p46-CreA b ■Foxo1floxfiox o1 Kp46- KP4 6-Cre Fox01A 10 Foxo1fox/lox 60.5 10 Foxo1flox/flox. NKp46-Cre 11.3 10 Fox01NKp46-CrOA4 9.4 85 工 FoxNKp   \nFoxO1 -72kDa BM 102 囍 102 3 福 10² 3 共   \n（204号 $\\beta$ -Actin 45kDa 81 100118.2 7.3 10015. 5.5 10 170.2 4.7 % NKP iNKmNK A 0 71.2 10 11.5 103 104 7.3 oi o 丝 Spleen 10²1 10² 菜 102 2 海 \\*\\* L 100125 7.8 100167.7 101 3.6 1001724 3.4 % 10 \\* 1 上 10° 101 10² 10³104 10°10110²10104 10° 101 10² 10³104 NKP iNKmNK V NK1.1   \nC DAPI GFP-LC3 FoxO1 Merge 120 d FoxoxNKp46-Cre ■Foxotfoxfix Foxo1foxiox Q PE 100 x CEP-155 604020 888 \\*\\*\\*\\* \\*\\*\\* Foxo1flox/flox. NKp46-Cre 0 46   \nFox01xfoXFxAAA/+ NKP iNKmNK NKp46-Cre   \ne N -Cre f g h A 1 bortOro ■Foxo1tfoxftix 1046 cre OXO1T niernrniaen 400 ■Foxo1foxfox Foxfox:NKp46-Cre 100 sae uinrtt 860 \\* IS-N （( I121%) 605040 生 0   \nBafA1   \nLC3-I 17kDa (IHW) 工 40 30   \nLC3-1 72kDa 200 40 20100 BOS □ □   \nFoxO1 一 72kDa 0丨NKp iNK mNK HoX -Cre Ctrl MCMV   \n（204号 $\\beta$ -Actin 45kDa Foxo k 0 u Gid \\*\\*\\* \\*\\*\\* 长   \ni ●Foxo 1foxfox - ●Foxo1fxt1x 零 (%)sistiilsds 80 500 8 . 60 40 fioX o -Cre s-Cre 20 6'46 :Fox0176 + + J FOXNKP4 NKp4 0 E:T ratio 0 10 20 40 Day 0 2 46 1 FoX ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(Fig. 8e,f)， whereas WT FoxO1-induced robust autophagy. Consistently, FoxO1-deficient iNKs did not initiate autophagy (Fig. 8e,f). Moreover， Atg7-silenced iNKsalso abrogated autophagy induction and NK cell development (Supplementary Figs 3c and 5b).These data suggest that the interaction of FoxO1 with Atg7 may be essential for the induction of autophagy in iNKs. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To further confirm the in vivo role of FoxO1 in NK cell development and effector functions,we transplanted NKPs expressing WT FoxO1 or △BD-FoxO1 into $R a g i ^ { - / - } I l 2 r g ^ { - / - }$ mice (Fig. 9a).Expression levels of FoxO1 and △BD-FoxO1 in transplanted NK cells were comparable (Fig. 9a).Moreover, NKPs isolated from these three mice strains similarly distributed in recipient mouse spleens (Supplementary Fig. 5c).Of note, △BD-FoxO1-transplanted NKPs failed to induce autophagy in iNKs (Fig. 9b)，and consequently generated a high level of ROS (Fig. 9c). We noticed that FoxO1-deficient iNKs gave similar results to △BD-FoxO1-transplanted iNKs.Consequently, △BD-FoxO1-transplanted NKPs impaired NK cell development (Fig.9d).Finally,△BD-FoxO1-transplanted NKs impaired their ability to produce $\\mathrm { I F N } { - } \\gamma$ (Fig.9e)，and defensive response to MCMV infection (Fig.9f,g)，which was similar to FoxO1 deficiency.Altogether，we conclude that the association of cytosolic FoxO1 with Atg7 likely contributes to the autophagy induction of iNKs that initiates NK cell development and effector functions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "NK cells play a critical role in early immune responses against transformed tumours and virus-infected cells1.NK cells develop from BM-derived HSCs and undergo several developmental stages to give rise to mature lineages8. However, the underlying mechanisms of NK cell development remain largely elusive.In this study,we show that autophagy is required for NK cell development. FoxO1 and Atg7 are highly expressed in the cytoplasmof iNKs in BM,and when theirassociationis disrupted robust autophagy fails to be initiated (Fig. 9h).Autophagy defects cause ROS accumulation that leads to apoptosis of NK cells. Autophagy is responsible forremoval of intracellularROS,which protects NK cell viability during NK cell specification.During NK cell development, NK cells express activating receptors and inhibitory receptors,as well as synthesize cytotoxic granules, which make NK cells ready for immune responses7. We also demonstrate that FoxOl-mediated autophagy is essential for effector functions of NK cells against viral infection. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Autophagy harbours multiple effects on immunity23. Invading microorganisms induce autophagy by competing nutrients or by activating innate immune receptors such as Toll-like receptors (TLRs).Autophagosomes engulf microbes and degrade them by recognition of_autophagic adaptors,known as sequestosome 1- like receptors41. Recently, autophagy has been considered to be implicated in innate and adaptive immune responses24. Lack of autophagy afects lymphoid precursor formation42. Autophagy deficiency abolishes both negative and positive selection of $\\mathrm { C D 4 ^ { + } }$ Tcells43.Naive T cells require autophagy for their maturation after exiting the thymus44.Autophagy is also needed for B1 cell survival45Additionally，plasma cells also require autophagy to sustain their viability during differentiation and to maintain their long-lived humoral immunity26.For the first time,we demonstrate that autophagy is essential for NK cell development and effector responses against viral infection. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ROS refer to $\\mathrm { O } _ { 2 }$ -freeradicalsand non-free radicals'derivatives. ROS are mainly produced from mitochondria accompanying mitochondrial respiration.Moderate ROs levels are required for hematopoiesis during embryonic development and adult hematopoietic homoeostasis46.However, high levels of ROS can cause DNA damage,mitochondrial dysfunction and harmful protein modifications47. Since mitochondria are both the producers and targets of ROS,dysfunctional mitochondria can generate excessive ROS and release apoptosis-related factors such as cytochrome c and AIF (apoptosis inducing factor)，which result in cell death. Increased ROS content triggers stem cell differentiation to short-term repopulating cells48.Here we show that ROS are kept low levels in NKPs,iNKs and mNKs in wildtype(WT） mice. Autophagy deficiencycausesdamaged mitochondria and substantial ROS accumulation in iNKs and mNKs,which lead to apoptosis of NK cells and blockade of NK cell maturation. Autophagy scavengers are able to counteract this effect,suggesting that autophagy is responsible for removal of ROS during NK cell development.Additionally,high ROS levels can inhibit effector functions of NK cells49. Thus, removal of high ROS accumulation could also be needed for the immune responses ofNK cells. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Blockade of mTOR signalling is the most well-known trigger for autophagy initiation.Inhibition of mTOR leads _to the activation of ULK1 complex that_initiates autophagy50. We found mTOR is activated during NK cell development.Blockade of mTOR by rapamycin impairs，but does not promote, autophagy during NK cell maturation.Additionally,depletion of Ractor or Rictor in iNKs suppresses rather than promotes autophagy induction. Thus we conclude that autophagy induction in iNKs is independent of mTOR signalling.A recent study showed thata high dose of IL-15 inducesmTORactivationand elevated bioenergetic metabolism in NK cells51.mTOR is an essential component of IL-15-mediated signalling，which is ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "a b C d N NK 14 p-FoxO1 72 kDa WT 12108 \\*\\* BAt7 -72 kDa 1 7240 Foxo7 72 k0a|PFox01 6 LC3-II 14ka Atg7 72kDa 4 EEA1 Lysates LAMP1 45 kDa FoxO1 -72kDa 0 美 Calreiculin 一 55 kDa   \nf WT e DAPI GFP-LC3 FoxO1 Merge KO △BD WT 8888 \\*\\* \\*\\* \\*\\*   \nGPP1E5 80 \\*\\* 60 40 20 KO mqpmp 0 WT KO △BD 10°10'10²10 104 WT KO △BD △BD ..。。 ? ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "crucial for NK cell commitment.We observed that blocking IL-15 signalling abrogates autophagy induction in iNKs(Supplementary Fig. 5d), suggesting IL-15 signalling might be a upstream stimulus for autophagy initiation.mTOR activation isneeded__for the signalling transduction in PI3K-AKT pathway35.52TransductionofIL-15signallngreliesonthe PI3K-AKT pathway53．Actually,we show that the PI3K-AKT pathway is activated during NK cell maturation.Therefore,the active mTOR signalling is needed to activate the PI3K-AKT pathway for NK cell lineage specification. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FoxO transcription factors take part in many physiological processes,including integration of growth factor signaling, oxidative stress and immune responses16． FoxO1，a FoxO family member， regulates cell cycle,cell metabolism and apoptosis as a transcription factor9.FoxOl is crucial for the fate determination of T cells16.Activation of FoxO1 drives T cells towards Treg cells or $\\mathrm { C D 8 ^ { + } }$ memory T cellsl7.Here we found that FoxO1 resides in the autophagosomes of iNKs and its interaction with Atg7 initiates autophagy induction.We noticed that blocking IL-15 signalling abolishes phosphorylation of FoxO1 and consequent translocation to the cytoplasm of iNKs (Supplementary Fig. 5e),leading to autophagy inhibition. By contrast,cytosolic FoxO1 is rapidly hydrolysed in the cytoplasm of mNKs,which impairs autophagy induction.We still need to further investigate how cytosolic FoxO1 is degraded in mNKs. Thereby, the autophagic activity of FoxO1 is essential for NK cell maturation,which is independent of its transcriptional activation of its target genes. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A recent study reported a transcription-independent role of FoxO1 (ref.20). Cytosolic FoxO1 dissociates from its deacetylase SIRT2 and induces its acetylation.Acetylated FoxO1 interacts with Atg7 to initiate autophagy in tumour cels20,which exerts antitumour activity.Here we show that phosphorylated cytosolic FoxOl associates with Atg7 to induce autophagy in iNKs,which is essential for NK cell development. Whether the acetylation of FoxO1 is also needed for interaction with Atg7 in iNKs remains to be further explored.Cytosolic FoxO1 is dramatically degraded in mNKs,which may impede the interaction of FoxO1 with Atg7 leading to inhibition of autophagy. We propose that the modifications of FoxOl may promote its interaction with Atg7，which stabilizes FoxO1 in the cytoplasm of iNKs resulting in autophagy induction.The subcellular localization of FoxO1 depends_on post-translational modifications,especially phosphorylation54.Localization of FoxO1 depends on a variety of kinases such as $\\mathrm { A K T } ^ { 5 4 }$ . AKT is highly active in iNKs,suggesting thatAKT-mediated phosphorylation of FoxO1 could contribute to the translocation of FoxO1 to the cytosol of iNK cells.We found that FoxO1 is uniquely localized in the nuclei of NKPs,and it resides in the cytoplasm of mNKs and iNKs. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Recently,Deng et al.55 reported that FoxO1 is dispensable for NK cell development,and inactivation of FoxO1 is required for T-bet expression. The reasons for the apparent discrepancy between the results of Deng et al. and the current study are currentlyunclear.NKp46-Cremice.weregenerated independently in this study but we_did follow the same procedure as described in Deng et al.55.In our study,as in ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "a b WT KO △BD C ■WT口KO △BD Ragt- II2rg+- WTKO △BD BafA1 一 + + eaigaraineeen 400   \nFoxo1flxo/tlox. NKp46-Cre NKP O WT FX0 KO 72 ka L 14 200 CD45.1 +△BD-P FoxO1 △BD FoxO1 72kDa SOO 100 CD45.2 β-Actin 14kDa 0 NKP iNK mNK WT KO △BD 57.1 10.2 10000 12.6 25225005 ■WT □Ko 兰 □Ko A 路 \\*\\* 101.70 170.4 100 1 Nk MCMv 10² 102 Ctrl NK1.1 h Cell membrane   \nf ●WT O KO △BD 8 Autophagy 福 060 4 ROS↑ Atg7 P Fox01 20 中 E:T ratio 0 10 20 40 WT KO △BD Apoptosis 17r eFoxo1elger Ki iAtg7 Tbx211 Nucleus Ccr7 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Deng et al.55 we found that the transcriptional activity of FoxO1 is impaired in iNKs (Supplementary Fig.5a).However,we failed to detect FoxOl signals in mature NKs by using an anti-FoxO1 antibody (D7C1H, CST). Consistent results were obtained using two other anti-FoxOl antibodies from another company (C-9 and H-128,Santa Cruz).In addition,we found FoxO1 underwentphosphorylationandproteasome-dependent degradation in mNKs (Fig. 6c). Deng et al.55 also found FoxO1 was phosphorylated during NK cell maturation.By contrast, Deng et al. used a different batch of anti-FoxO1 antibody (C29H4，CST） to detect FoxO1 signals by flow cytometry. Possible reasons for detecting high FoxO1 levels in mNKs by Deng et al. may be as follows: (1） the C29H4 antibody against FoxO1 could harbour stronger afinity to probe FoxO1 in mNK cells; (2） for flow cytometry assays,staining buffers could impair proteasome function in mNKs abrogating the degradation of FoxO1.In our experimental assays,we used propidium iodide staining to exclude necrosis and late stage apoptotic cells. Additionally,we stained cells with Annexin V to analyse early apoptotic cells for flow cytometry assays. However,Deng et al. did not state the exclusion of dead cels in their assay systems55. Flow cytometry was the major assay for cell number calculations in their experiments.Dead cells could potentially impact the number counts of NK cells by flow cytometry analyses.Another possible explanation for this difference is that autophagy induction is a very dynamic response_susceptible to different environmentsand bodymetabolism56.57Diffrent food, water, living environments and metabolic states of mice might cause different regulations for autophagy induction.We hypothesize that the mice with different feeding conditions might cause distinct autophagic regulations that affect NK cell development. Finally,subtle expression differences between NKp46-Cre lines could be another potential explanation for the differences. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,we reveal that FoxO1-mediated autophagy in iNKs is required for NK cell development and NK cell-mediated innate immunity,which may provide a novel strategy to promote NK cell activity by manipulating FoxO1 for future clinical applications. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Antibodies and reagents.Antibodies used for flow cytometry: anti-NK1.1 (PK136,1:200),anti-CD122 (5H4,1:200),anti-NKp46 (29A1.4,1:100),anti-DX5 (DX5,1:200),anti-CD94 (18D3,1:100),anti-CD19 (1D3,1:300),anti-CD11b (M1/70,1:300),anti-CD117 (2B8,1:100),anti-IL-7Rα (A7R34,1:200),anti-Gr1(RB6-8C5,1:300),anti-CD45.1 (A20,1:500),CD45.2 (104,1:500),and anti-mouse hematopoietic lineage cocktail (CD3(17A2,1:300),CD19 (1D3,1:300),TER-119 (TER-119,1:200),Gr-1 (RB6-8C5,1:300)) were purchased from eBiosicence. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Antibodies against FoxO1(#14952,1:500),p-FoxO1 (Ser319,#9461,1:300),FoxO3 (#2497,1:500),FoxO4(#9472,1:500),p-mTOR(Ser 2448,#5536,1:500),p-AKT (Ser473,#5012,1:500),p-AKT(Thr308,#13038,1:500),p-AMPKα1(Thr172, #5256,1:500),p-AMPKβ1 (Ser108,#4181,1:500),p-TSC2 (Tyr1462,#3617,1:500), p-4EBP (Thr37/Thr46,#2846,1:300),p-S6 Kinase (Thr389,#9206,1;300), Atg7(#8558,1:500),Atg5 (#12994,1:500),Atg3 (#3415,1:500),activated caspase3 (#9579,1:500),EEA1 (#3288,1:500)and Histone H3 (#4499,1:500) were from Cell Signaling Technology.Anti-LC3 (#PM036,1:1000)and anti-p62 (#PM045,1:1,000) antibodies were from MBL.Propidium iodide,rapamycin and DCF-DA were from Sigma-Aldrich. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Mice. GFP-LC3 mice58 and $A t g 5 ^ { f l o x / f l o x } \\mathrm { m i c e } ^ { 5 9 }$ were from the Riken Bio Resource Center (Japan).NKp46-Cre mice were generated by Beijing Biocytogen (Beijing, China). $F o \\dot { x } O I ^ { \\mathit { f l o x } / \\mathit { f l o x } }$ and $F o x O I ^ { A A A / + }$ mice are kind gifts from Dr Ming $\\mathrm { L i } ^ { 1 7 }$ (Memorial Sloan-Kettering Cancer Center,USA).Mice with NK cell-specific deletion of Atg5 were generated by crossing $A t g 5 ^ { f l o x / f l o x }$ mice with NKp46-Cre mice.Mice with NK cell-specific expression of FoxOl were generated by crossing $F o x O l ^ { f l o x / f l o x } ; F o x O l ^ { A A A / + }$ mice with NKp46-Cre mice. $R a g I ^ { - / - }$ mice were from Model Animal Research Center of Nanjing University. $\\ : I l { 2 } { \\check { r } } g ^ { - / - } \\ :$ mice were from Jackson Laboratories. $R a g I ^ { - / - } I l \\dot { 2 } r g ^ { - / - }$ mice were generated by crossing $R a g l ^ { - / - }$ mice with $I l { 2 } r g ^ { - / - }$ mice. Both female and male mice were used in our experiments.All the mice are C57BL/6 background with age of 8-12 weeks and maintained under specific pathogen-free conditions with approval by the institutional committee of Institute of Biophysics,Chinese Academy of Sciences. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Isolation of NK populations.Total bone marrow cells were flushed from mouse femurs and stained with antibodies against lineage,CDl22,NK1.1 and DX5. Different stages of NK cells were isolated by flow cytometry.Purity of each NK population was examined by flow cytometry. NKP, $\\dot { \\mathrm { L i n } } ^ { - } \\mathrm { C D } 1 2 2 ^ { + } \\dot { \\mathrm { N K } } \\mathrm { 1 . 1 } ^ { - } \\mathrm { D X } 5 ^ { - }$ iNK, $\\mathrm { L i n } ^ { - } \\mathrm { C D } 1 2 2 ^ { + } \\mathrm { N K } 1 . 1 ^ { + } \\mathrm { D X } 5 ^ { - }$ $\\mathrm { m N K } ,$ （2号 $\\mathrm { \\dot { L } i n ^ { - } C D } 1 2 2 ^ { + } \\mathrm { N K } 1 . 1 ^ { + } \\mathrm { D X } 5 ^ { + }$ Lineage cocktails (Lin) included CD3 (17A2),CD19 (1D3),TER-119 (TER-119)and Gr-1 (RB6-8C5). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Purification of autophagosomes.Autophagosomes from NK cells were isolated according to a technical report40.NK cells $( 1 \\times 1 0 ^ { 6 } )$ were isolated by flow cytometry,resuspended by ice-cold $1 0 \\%$ (w/v)unbuffered,electrolyte-free sucrose and centrifuged for $5 \\mathrm { { m i n } }$ at $1 { , } 4 0 0 \\mathrm { r . p . m }$ .Pellets were homogenized in homogenization buffer $\\mathrm { . 1 0 \\ m M }$ HEPES, $1 \\mathrm { m M }$ EDTA, $\\mathrm { p H } 7 . 3 \\$ ).Homogenates were treated with homogenization buffer $1 . 5 \\mathrm { m M }$ glycyl-L-phenylalanine 2- naphthylamide and $1 \\%$ DMSO to remove lysosomes,with Nycodenz solution to remove mitochondria,with $3 3 \\%$ solution of Percoll to remove small-vesicular and membraneous materials. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Adoptive cell transfer experiment. NKP cells $( \\mathrm { C D } 1 2 2 ^ { + } \\mathrm { N K } 1 . 1 ^ { - } \\mathrm { L i n } ^ { - } )$ （204号 $( 5 \\times 1 0 ^ { 5 } )$ were separated from BM of $F o x O l ^ { f l o x / f l o x } ; N K p 4 6  – ($ Cre mice (CD45.1),and infected with lentivirus encoding WT or △BD-FoxOl protein.Next,NKPs expressing WT or △BD-FoxOl protein were transferred into $\\dot { R a g l } ^ { - / - } I l 2 r g ^ { - / - }$ mice (CD45.2) for NK cell reconstitution.After 3 weeks,mice were killed for flow cytometry analysis or MCMV infection. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence assay.For in situ immunofluorescence of NK cells,femurs from the indicated mice were fixed in paraformaldehyde-lysine-periodate fixative for $^ { 8 \\mathrm { h } }$ ,and decalcified in decalcifying buffer $1 0 \\%$ EDTA in PBS $\\scriptstyle \\left( \\mathbf { w } / \\mathbf { v } \\right)$ $\\mathrm { p H } 7 . 4 ,$ 1： Then femurs were rehydrated in $3 0 \\%$ sucrose solution for $2 4 \\mathrm { h }$ and frozen in OCT for sectioning.BM sections were rehydrated in PBS and blocked in $1 0 \\%$ donkey serum.Next,the sections were incubated with primary antibodies (anti-NKp46 (R&D),DX5 (eBioscience) and anti-B22o (BD),and anti-activated caspase3 (Cell Signaling)） for $^ { 2 \\mathrm { h } }$ at room temperature followed by washing in $0 . 1 \\%$ Tween20/PBS for three times.Sections were then incubated with Alexa488-, Alexa594-or Alexa405-conjugated secondary antibodies (Invitrogen).After washing for three times,DAPI was added and subjected to dehydrating in EtOH gradient: 70,85,95, $1 0 0 \\%$ ,3 min each.Mounted sections were analysed by confocal microscopy (Olympus FV1ooo).For cell immunofluorescence,NK cells at different stages were isolated by flow cytometry,and fixed on $0 . 0 1 \\%$ poly-L-Lysine treated coverslips with paraformaldehyde(Sigma-Aldrich) for $2 0 \\mathrm { m i n }$ at RT.Then cells were permeabilized,and stained with primary and secondary antibodies. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In vitro NK cell development assay.NKP cells were isolated from BM of the indicated mice,and infected with lentivirus encoding different shRNA constructions.NKPs were then cultured on OP9 stroma cells with RPMI1640 medium containing $1 0 \\%$ fetal bovine serum (FBS), $1 0 0 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 }$ streptomycin and $1 0 0 \\mathrm { U } \\mathrm { m l } ^ { - 1 }$ penicillin, and $2 0 \\mathrm { n g } \\mathrm { m l } ^ { - 1 }$ of IL-15 for7d followed by flow cytometry ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In vitro cytotoxicity assay.NK cells from mouse spleen were isolated.Yacl cells (from ATCC) were labelled with $2 0 0 \\mu \\mathrm { C i } ^ { 5 1 } \\mathrm { C r }$ at $3 7 ^ { \\circ } \\mathrm { C }$ for $^ \\mathrm { 1 h }$ and plated at $1 \\times 1 0 ^ { 4 }$ cells per well.NK cells were incubated with Yacl cells at the indicated E/T ratios for $\\mathsf { 4 h } .$ ,and the supernatants were harvested for the detection of specific $^ { 5 1 } \\mathrm { C r }$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "release using MicroBeta counter (PerkinElmer).Specific cytotoxicity was calculated as[(sample release-spontaneous release)/(maximum release-spontaneous release) $] \\times 1 0 0$ .Maximum release of Yacl cells was measured by treatment with $2 \\%$ TritonX-100. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Electron microscopy.For immuno-EM, $1 \\times 1 0 ^ { 6 } \\mathrm { N K }$ cells at different stages form WT mice were isolated.and fixed with $4 \\%$ paraformaldehyde and $0 . 0 5 \\%$ glutaraldehyde for $^ { 2 \\mathrm { h } }$ on ice and then cryo-sectioned by Tokuyasu method and mounted in copper grids followed by blocking in $1 \\%$ BSA.Sections were stained with anti-LC3 $( \\breve { 3 } 0 \\mathrm { n g } \\mu \\mathrm { l } ^ { - 1 } )$ antibody(PMo36,MBL) and further stained with $1 0 \\mathrm { n M }$ gold linked anti-rabbit $\\mathrm { I g G }$ .Then the sections were fixed with $2 . 5 \\%$ glutaraldehyde and stained with neutral uranyl acetate before coating with $2 \\%$ methyl cellulose. Images were taken with a FEI Tecnai spirit transmission electron microscope. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "RNA interference.shRNAs against Atg3,Atg7,Raptor or Rictor were constructed into pSIN-EF2 vector.Lentiviruses encoding RNA interference sequences were generated by transfecting pSIN-EF2-shRNA and packaging vectors into HEK293T cells,followed by ultracentrifugation concentration. The RNA interference sequences were previously described25. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Real-time PCR assay.NK cells were isolated from the indicated mice,mRNA was extracted by using Neasy Micro Kit (Qiagen) according to the manufacturer's instructions.After extraction of mRNA,quality of mRNA was determined by A260/A280 (between 1.8 and 2.2)and A260/230 $( > 1 . 7 )$ ratios.RNA integrity was assessed by agarose gel.Two major bands corresponding to the 28S and 18S rRNA were clearly visible.Next,cDNAs were synthesized by using oligo dT followed by real-time PCR.Efficiency of each pair primer was above $9 0 \\%$ .Primers forreal-time PCR were used as described before²5.Other primers for real-time PCR in this study are as follows:FoxO1-F: $5 ^ { \\prime }$ -CCCAGGCCGGAGTTTAACC- $3 ^ { \\prime }$ ,FoxO1-R: $5 ^ { \\prime }$ -GTTG CTCATAAAGTCGGTGCT $3 ^ { \\prime }$ ；FoxO3-F: $5 ^ { \\prime }$ -CTGGGGGAACCTGTCCTATG- $3 ^ { \\prime }$ FoxO3-R: $5 ^ { \\prime }$ -TCATTCTGAACGCGCATGAAG- $3 ^ { \\prime }$ ；FoxO4-F: $5 ^ { \\prime }$ -CTTCCTCG ACCAGACCTCG $3 ^ { \\prime }$ ，FoxO4-R: $5 ^ { \\prime }$ -ACAGGATCGGTTCGGAGTGT- $3 ^ { \\prime }$ ; Tbx21-F: $5 ^ { \\prime } .$ -AGCAAGGACGGCGAATGTT $3 ^ { \\prime }$ ,Tbx21-R: $5 ^ { \\prime }$ -GGGTGGACATATAAGCG GTTC- $3 ^ { \\prime }$ ； Il-7rα-F: $5 ^ { \\prime }$ -GACTACAGAGATGGTGACAG- $3 ^ { \\prime }$ ,Il-7rα-R: $5 ^ { \\prime }$ -GGTG ACATACGCTTCTTCT $3 ^ { \\prime }$ ；KIf2-F:CTCAGCGAGCCTATCTTG- $3 ^ { \\prime }$ ，Klf2-R: $5 ^ { \\prime }$ -AGAGGATGAAGTCCAACAC- $3 ^ { \\prime }$ .Relative quantification of mRNA was determined by the △△Ct method. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "MCMV infection. Mice were intraperitoneally injected with $1 \\times 1 0 ^ { 5 }$ PFU MCMV (VR-1399,Smith strain from ATCC).After $7 2 \\mathrm { h }$ ,mice were sacrificed for the collection of spleens.Intracellular $\\mathrm { I F N } { - } \\gamma$ in NK cellswas analysed by flow cytometry.For determination of virus titres,the spleens from infected mice were homogenated in $2 \\mathrm { m l }$ of complete cold medium followed by standard plaque-forming assay. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis.For statistical analysis,two-tailed unpaired Student's t-test and two-way analysis of variance post hoc Bonferroni test were used with Sigma Plot and GraphPad softwares.We calculated medians of fluorescence intensity by using FlowJo software for flow cytometry data,and using Image J software for confocal data.We calculated s.d.by using SigmaPlot for at least four independent experiments. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The uncropped data for blot and gel images can be found in Supplementary Figs 6-9. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1．Long,E.O.,Kim,H. S.,Liu,D.,Peterson,M.E.& Rajagopalan,S.Controling natural killer cell responses: integration of signals for activation and inhibition. Annu.Rev. Immunol.31,227-258 (2013).   \n2．Sun,J.C.& Lanier,L.L.NK cell development, homeostasis and function: parallels with $\\mathrm { C D 8 ( + ) }$ T cells. Nat. Rev. Immunol.11,645-657 (2011).   \n3．Spits,H.et al. Innate lymphoid cells--a proposal for uniform nomenclature. Nat. Rev.Immunol.13,145-149 (2013).   \n4.Fan,Z.,Beresford,P.J.,Oh,D.Y.,Zhang,D.& Lieberman,J. Tumor suppressor NM23-H1 is a granzyme A-activated DNase during CTL-mediated apoptosis and the nucleosome assembly protein SET is its inhibitor.Cell 112, 659-672 (2003).   \n5．Fan,Z.et al. NK-cell activation by LIGHT triggers tumor-specifc $\\mathrm { C D 8 + }$ T-cell immunity to reject established tumors.Blood 107,1342-1351 (2006).   \n6.Sun,J.C.,Beilke,J.N.& Lanier,L.L.Adaptive immune features of natural killer cells.Nature 457,557-561 (2009).   \n7．Vosshenrich,C.A.& Di Santo,J.P.Developmental programming of natural killer and innate lymphoid cells.Curr. Opin.Immunol. 25,130-138 (2013).   \n8．Yu,J.,Freud,A.G.& Caligiuri, M.A.Location and cellular stages of natural killer cell development. Trends Immunol. 34, 573-582 (2013).   \n9.Gascoyne,D.M.et al. The basic leucine zipper transcription factor E4BP4 is essential for natural killer cell development.Nat. Immunol.1o,118-1124 (2009).   \n10.Kamizono,S.et al.Nfl3/E4bp4 is required for the development and maturation of NK cells in vivo.J.Exp.Med.206,2977-2986 (2009).   \n11. Samson, S.I.et al. GATA-3 promotes maturation,IFN-gamma production and liver-specific homing of NK cells.Immunity19,701-711 (2003).   \n12.Gordon,S.M.et al.The transcription factors T-betand eomes control key checkpoints of natural killer cell maturation. Immunity 36,55-67 (2012).   \n13.Aliahmad,P.,de la Torre,B.& Kaye,J. Shared dependence on the DNAbinding factor TOX for the development of lymphoid tissue-inducer cell and NK cell lineages.Nat. Immunol.11,945-952 (2010).   \n14.Daussy, C.et al. T-bet and Eomes instruct the development of two distinct natural killercellineages in the liver and in the bone marrow.J. Exp.Med.211, 563-577 (2014).   \n15.Ouyang, W.& Li,M. O.Foxo:incommand ofTlymphocyte homeostasis and tolerance.Trends Immunol.32,26-33 (2011).   \n16.Hedrick,S.M., Michelini,R.H.,Doedens,A.L.,Goldrath,A.W.& Stone,E.L. FOXO transcription factors throughout T cell biology. Nat.Rev.Immunol.12, 649-661 (2012).   \n17.Ouyang,W.M.et al. Novel Foxol-dependent transcriptional programs control T-reg cell function.Nature 491,554-559 (012).   \n18.Rao,R.R.,Li, Q.S.,Bupp,M.R.G.& Shrikant,P.A. Transcription factor Foxol represses T-bet-mediated effector functions and promotes memory $\\mathrm { C D 8 ( + ) }$ T cell differentiation.Immunity 36,374-387 (2012).   \n19.Dengler,H.S.et al. Distinct functions for the transcription factor Foxol at various stages of Bcelldifferentiation.Nat.Immunol.9,1388-1398 (2008).   \n20. Zhao,Yetal. CytosolicFoxOlis essentialfortheinductionofautopagyand tumour suppressor activity.Nat. CellBiol.12,665-U688 (2010).   \n21.Mammucari, C.et al. FoxO3 controls autophagy in skeletal muscle in vivo. Cell Metab.6,458-471 (2007).   \n22.Warr, M. R. et al. FOXO3A directs a protective autophagy program in haematopoietic stem cels.Nature 494, 323-327 (2013).   \n23.Deretic,V.,Saitoh,T.& Akira,S.Autophagy in infection,inflammationand immunity. Nat.Rev.Immunol.13,722-737 (2013).   \n24.Levine,B.,Mizushima,N.&Virgin,H.W.Autophagy inimmunityand inflammation.Nature 469,323-335 (2011).   \n25.Wang, S.et al. Transient activation of autophagy via Sox2-mediated suppression of mTOR is an important early step in reprogramming to pluripotency. Cell Stem Cell13,617-625 (013).   \n26.Pengo,N.et al. Plasma cells require autophagy for sustainable immunoglobulin production.Nat.Immunol.14,298-305 (2013).   \n27. Kundu, M.& Thompson, C. B. Autophagy: basic principles and relevance to disease.Annu.Rev.Pathol.3,427-455 (2008).   \n28.Mizushima,N.Yoshimori,T.&Levine,B.Methods inmammalianautophagy research.Cell 140,313-326 (2010).   \n29.Mathew, R.et al. Autophagy suppresses tumorigenesis through elimination of p62.Cell 137,1062-1075 (2009).   \n30.Nari-MancieliE.etal.Fatemappinganalysisoflymphoidcellsexpessing the NKp46 cell surface receptor.Proc.Natl.Acad. Sci.USA 108,18324-18329 (2011).   \n31.Yang, Z.& Klionsky,D.J. Mammalian autophagy: core molecular machinery and signaling regulation. Curr. Opin. Cell Biol.22,124-131 (2010).   \n32.Horng,T.,Bezbradica,J.S.& Medzhitov,R.NKG2Dsignaling is coupled to the interleukin15 receptor signaling pathway. Nat.Immunol. 8,1345-1352 (2007).   \n33.Dokun,A. O.et al. Specific and nonspecific NK cellactivation during virus infection. Nat.Immunol. 2,951-956 (2001).   \n34. Kroemer,G.,Marino,G.& Levine, B.Autophagy and the integrated stress response.Mol. Cell40,280-293 (2010).   \n35. Zoncu,R.,Efeyan,A.& Sabatini,D.M.mTOR: from growth signal integration to cancer,diabetes and ageing.Nat.Rev.Mol.Cell Biol.12,21-35 (2011).   \n36.Inoki,K.,Li,Y.,Zhu,T.,Wu,J.&Guan,K.L.TSC2 is phosphorylatedand inibited by Akt and suppresses mTOR signalling. Nat. Cell Biol. 4, 648-657 (2002).   \n37. Rubinsztein,D.C., Marino, G.& Kroemer, G. Autophagy and aging. Cell146, 682-695 (2011).   \n38.Tothova,Z.et al.FoxOs are critical mediators of hematopoietic stem cell resistance to physiologic oxidative stress.Cell128,325-339 (2007).   \n39.van der Horst, A.& Burgering,B.M.T. Stressing the role of FoxO proteins in lifespan and disease.Nat.Rev.Mol. Cell Biol.8,440-450 (2007).   \n40.Seglen, P.O.& Brinchmann,M.F.Purification of autophagosomes from rat hepatocytes.Autophagy 6,542-547 (2010).   \n41.Sanjuan,M.A. et al. Toll-like receptor signalling in macrophages links the autophagy pathway to phagocytosis.Nature 450,1253-1257 (2007).   \n42.Arsov,I. et al.Arole for autophagic protein beclin1early in lymphocyte development. J. Immunol.186,2201-2209 (2011).   \n43.Nedjic,Jehn in thymic epithelium shapes the T-cell repertoire and is essential for tolerance. Nature 455,396-400 (2008).   \n44.Pua,H.H,Guo,J.,Komatsu,M.&He,Y.W.Autophagyisessentialformito chondrial clearance in mature T lymphocytes.J. Immunol.182,4046-4055 (2009).   \n45.Miller,B.C.et al. The autophagy gene ATG5 plays an essential role in B lymphocyte development.Autophagy 4,309-314 (2008).   \n46.Harris,J.M.et al.Glucose metabolism impacts the spatiotemporal onset and magnitude of HSC induction in vivo.Blood 121,2483-2493 (2013).   \n47.Ludin,A.et al. Reactive oxygen species regulate hematopoietic stem cell selfrenewal,migration and development,as well as their bone marrow microenvironment.Antioxid.Redox Signal.21,1605-1619 (2014).   \n48.Ito,K.et al.Reactive oxygen species act through p38 MAPK to limit the lifespan of hematopoietic stem cells.Nat.Med.12,446-451 (2006).   \n49.Betten,A.,Dahlgren,C.,Mellqvist,U.H.,Hermodsson,S.&Hellstrand,K. Oxygen radical-induced natural killer cell dysfunction: role of myeloperoxidase and regulation by serotonin.J.Leukoc. Biol.75,111l-1115 (2004).   \n50.Kim,J.,Kundu,M.,Viollet,B.& Guan,K.L.AMPK and mTOR regulate autophagy through direct phosphorylation of Ulk1.Nat.Cell Biol.13,132-141 (2011).   \n51.Marcais,A.et al. The metabolic checkpoint kinase mTOR is essential for IL-15 signaling during the development and activation of NKcells.Nat.Immunol.15, 749-757 (2014).   \n52.Powell,J.D.,Pollizzi,K.N.,Heikamp,E.B.& Horton,M.R.Regulation of immune responses by mTOR.Annu.Rev. Immunol.30,39-68 (2012).   \n53.Huntington,N.D.et al. Interleukin 15-mediated survival of natural killer cells is determined by interactions among Bim,Noxa and Mcl-1.Nat.Immunol.8, 856-863 (2007).   \n54.Brunet,A.et al.Akt promotes cell survival by phosphorylating and inhibiting a forkhead transcription factor. Cell 96,857-868 (1999).   \n55.Deng,Y.et al. Transcription factor Foxol is a negative regulator of natural killer cell maturation and function.Immunity 42,457-470 (2015).   \n56.Patel,K.K.& Stappenbeck,T.S.Autophagy and intestinal homeostasis.Annu. Rev.Physiol.75,241-262 (2013).   \n57.Rabinowitz,J.D.& White,E.Autophagy and metabolism. Science 330, 1344-1348 (2010).   \n58.Mizushima,N.,Yamamoto,A.,Matsui,M.,Yoshimori, T.& Ohsumi, Y.In vivo analysis of autophagy in response to nutrient starvation using transgenic mice expressing a fluorescent autophagosome marker.Mol. Biol. Cell 15,1lo1-1111 (2004).   \n59.Hara,T.et al. Suppression of basal autophagy in neural cells causes neurodegenerative disease in mice.Nature 441,885-889 (2006). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We thank Dr Ming Li(Memorial Sloan-Kettering Cancer Center,USA) for providing $F o x o ^ { f l o x / f l o x }$ and $F o x o ^ { A A A }$ mice. NKp46-Cre mice were generated by Beijing Biocytogen Co.,Ltd.,(Beijing, China).We thank Dr Liang Tong for advice and Chunchun Liu, Junying Jia,Lei Sun,and Yan Teng for technical support.We thank Dr Man Li for useful advice.This work was supported by the National Natural Science Foundation of China (31530093,31429001,81330047,31300645,31471386,31570872),the Strategic Priority Research Programs of the Chinese Academy of Sciences (XDAol0l0407),Youth Innovation Promotion Association of CAS,and the China Postdoctoral Science Foundation (2015M571141). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "S.W.designed and performed experiments,analysed data and wrote the paper; P.X. performed experiments and analysed data; G.H.,P.Z.and J.L. performed experiments; B.Y.and Y.D.analysed data.Z.F.initiated the study,organized,designed and wrote the paper. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Additional information ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Information accompanies this paper at http://www.nature.com/ naturecommunications ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Reprints and permission informationis available online at http://npg.nature.com/ reprintsandpermissions/ ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "How to cite this article:Wang,S.et al. FoxOl-mediated autophagy is required forNK cell development and innate immunity.Nat. Commun. 7:11023 doi: 10.1038/ncomms11023 (2016). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license,unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permisson from the license holder to reproduce the material. To view a copy of this license,visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 14
+    }
+]

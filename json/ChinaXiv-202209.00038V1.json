@@ -1,0 +1,647 @@
+[
+    {
+        "type": "text",
+        "text": "不同干预措施对胎儿臀位/横位孕妇母婴结局影响的网状Meta分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10.12114/j.issn.1007-9572.2022.0627 王雪岩’田金徽²张莉’翟巾帼 1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：2021年度广东省教育科学规划高等教育专项（2021GXJK163）；2021年度南方医科大学质量工程建设项目-助产学课程教研室；广东省教育厅2019 年度省级系列在线开放课程（20200304）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.510515广东省广州市，南方医科大学护理学院，南方医科大学护理与助产循证中心",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.730099甘肃省兰州市，兰州大学循证医学中心",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.510515广东省广州市，南方医科大学南方医院\\*通信作者：翟巾帼，副教授，硕士研究生导师；E-mail：cde2004 $@$ 126.com【摘要】背景胎儿臀位和横位如未得到及时、有效处理可能会增加剖宫产率，且增加子宫破裂等严重分娩并发症的风险，危及母胎生命。然而，对于不同干预措施的有效性对比与选择的优先次序，目前尚无统一结论。目的采用网状 Meta分析方法,评价不同干预措施对孕晚期胎儿臀位/横位孕妇母婴结局的影响。方法计算机检索CochraneLibrary、PubMed、Web of Science、Embase、CINAHL、中国生物医学文献数据库、中国学术期刊全文数据库、维普资源总库、万方数据知识服务平台中关于妊娠晚期不同干预措施对孕晚期胎儿臀位/横位孕妇母婴结局影响的随机对照研究。经过文献筛选、质量评价与信息提取之后，采用R4.1.1和 Stata16.0软件进行数据分析和图形绘制，首先进行一致性检验与收敛性评估；对分类变量采用相对危险度(riskratio, $R R _ { ☉ }$ 及 $9 5 \\%$ 置信区间 $( 9 5 \\% C I )$ 进行分析；对连续变量采用加权均数差(weightedmeandifference,WMD)及 $9 5 \\% C I$ 进行分析；通过累积排序概率图下面积（surfaceunder the cumulative ranking，SUCRA）呈现不同措施成为最佳干预措施可能。结果本研究共纳入36篇文献，包含 7419 名产妇。网状Meta分析结果显示，艾灸/刺激至阴穴对比常规护理，在经干预胎儿转为头位成功率方面差异具有统计学意义（ $\\cdot P { < } 0 . 0 5 \\$ ）。尚无证据表明单独体位管理能够促进胎儿转为头位（ $P { > } 0 . 0 5 )$ ）；使用 $\\beta _ { 2 }$ 肾上腺素能受体激动剂抑制宫缩后实施外倒转术对比无宫缩抑制剂实施外倒转术，在经干预胎儿转为头位及提高阴道分娩率方面差异具有统计学意义！ $( P { < } 0 . 0 5 )$ ）；静脉麻醉或椎管内麻醉下实施外倒转术对比无麻醉实施外倒转术，在经干预胎儿转为头位方面差异具有统计学意义（ $\\cdot P { < } 0 . 0 5 \\$ ）。根据累积排序概率曲线下面积排序结果，艾灸/刺激至阴穴、使用 $\\beta _ { 2 }$ 肾上腺素能受体激动剂抑制宫缩或在椎管内麻醉下实施外倒转术是孕晚期纠正胎儿臀位/横位的较优措施。结论基于网状Meta 分析结果和排序结果，艾灸/刺激至阴穴、使用 $\\beta _ { 2 }$ 肾上腺素能受体激动剂抑制宫缩和在椎管内麻醉下实施外倒转术等措施对改善母婴结局效果较好，但仍需高质量、大样本的研究进一步验证。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】 臀位；横位；母婴结局；助产；网状Meta分析 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Effect of Different Intervention Measures on Maternal and Neonatal Outcomes in Breech Presentation   \n/Transverse Lie Position Parturient: a Network Meta-analysis   \nWANG Xueyanl，TIAN Jinhui²， ZHANG $L i ^ { 3 }$ ，ZHAI Jinguo1\\*   \n1. Nursing Collge,Southern Medical University;EvidenceBased Centerfor Nursing and MidwiferySouthern Medical   \nUniversity, Guangzhou 510515, China   \n2.Evidence Based Medicine Center, Lanzhou University, Lanzhou 730o99, China   \n3. Nanfang Hospital, Southern Medical University, Guangzhou 510515, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author: ZHAI Jinguo， Associate professor， Master supervisor; E-mail: cde2004@126.com 【Abstract】BackgroundIfthebreechandtransverse positionof thefetusare noteffectivelytreated,itwillffctthe natural deliveryrate,increase theriskofserious complications suchasuterinerupture,and endanger the lifeof the mother andfetus.However, there isno unified conclusionon the priorityof comparison and selection of diferent intervention measures. ObjectiveTo evaluate the effect of diferent interventions measures on maternal and neonatal outcomes of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "pregnant women with breech/transverse fetal position inthe third trimester by means of network meta-analysis Methods A systematic search ofCochrane Library,PubMed,Webof Science,Embase,CINAHL,Chinese Biomedical Literature Database, Chinese Knowledge Infrastructure, VIP and Wan Fang Data knowledge service platform was carried out.All randomizedcontroled studies on the effect of diferent interventions in the third trimester on birth outcomes in breech/transverse women wereretrieved.After literature screening,qualityappraisal,data extraction,R4.1.1andStatal6.0 software were used fordata analysis and graph drawing.First,consistency test and convergence evaluationarecarried out. The classified variables were analyzed by relative risk ratio $( R R )$ and $9 5 \\%$ confidence interval $( 9 5 \\% C I )$ . Continuous variables were analyzed by weighted mean difference $( W M D )$ and $9 5 \\% C I$ ，Different measures may become the best intervention measures through the surface under thecumulative ranking (SUCRA).ResultsTotally 36 RCTs were included，involving 7419 parturient.The network meta-analysis showed that moxibustion/stimulation to point BL67 compared with routine nursing, there was significant diference in head turning position after intervention $( P { < } 0 . 0 5 )$ ). There is no evidence that body position management alone can promote fetal transition to head position ( $\\ P > 0 . 0 5 )$ ；External cephalic version with $\\beta _ { 2 }$ adrenergic receptor agonist was more effective than external cephalic version without uterine contraction inhibitors in head turning position after intervention and vaginal delivery ( $( P { < } 0 . 0 5 )$ ; External cephalic version under intravenous anesthesia or intraspinal anesthesia was more efectivethan externalcephalic version without anesthesia in head turning position after intervention $\\scriptstyle ( P < 0 . 0 5 )$ ; According to the area ranking results under the cumulative ranking probability curve, moxibustion/stimulation to point BL67,external cephalic version with $\\beta _ { 2 }$ adrenergic receptor agonist, exteral cephalic version under intraspinal anesthesia had great possibility in improving the outcome of breech presentation/transverse lie parturient. ConclusionBased on the results of network meta-analysis and rank, moxibustion/stimulation to point BL67,external cephalic version with $\\beta _ { 2 }$ adrenergic receptor agonist,external cephalic version under intraspinal anesthesia were superior thanother intervention measures in improving the outcomeof breech presentation/transverse lie parturient.The results stillneed to be validated by high-quality,large-sample studies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【Key words】Breech Presentation; Transverse Lie; Maternal and Neonatal Outcome; Midwifery; Network Meta-analysis ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "臀先露（breech presentation）是以胎儿的骶骨为指示点的胎方位，是最常见且产前最容易诊断的异常胎方位之一[]。在孕30周前，胎儿呈臀位不应视为异常，因存在自然回转的机会；在孕34周自然回转机会降低，分娩时臀先露发生率约为 $3 \\% \\sim 4 \\% ^ { [ 2 ] }$ 。横位（transverse lie）是指胎儿纵轴与母体纵轴相垂直，发生率约为1：500，是对母胎最不利的胎位[2]。胎儿臀位和横位如未得到有效处理会影响自然分娩率，且增加子宫破裂、脐带脱垂等严重并发症的风险，危及母胎生命，导致围产儿死亡增加。因此，应在妊娠晚期及时、有效处理。然而，对于其不同的处理措施选择的优先次序，目前尚无统一结论[-5]。网状 Meta 分析可对多种不同干预措施进行量化分析，并根据不同的结局指标对干预措施的效果进行优先排序，因此本研究拟通过对国内外孕晚期臀位/横位矫正干预措施的相关文献进行网状Meta分析，能为其问题的早期矫正提供循证学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究已在国际系统评价注册平台(International Prospective Registerof Systematic Reviews,PROSPERO）注册，注册号为CRD42021289128。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1文献纳入与排除标准",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "纳入标准： $\\textcircled{1}$ 比较妊娠晚期不同干预措施对臀位/横位产妇母婴结局影响的随机对照（randomized controlled trial,RCT）研究。 $\\textcircled{2}$ 研究对象为18\\~45岁女性；妊娠周期为 $2 8 { \\sim } 4 1$ 周；在产检时经B超结合阴道检查确诊为臀位/横位妊娠。 $\\textcircled{3}$ 干预措施包括体位管理、艾灸/激光照射/按摩至阴穴转位或采用不同麻醉方式、不同宫缩抑制剂辅助实施外倒转术（external cephalic version，ECV）。 $\\textcircled{4}$ 主要结局指标：经干预胎儿转为头位的成功率、阴道分娩率；次要结局指标：头位分娩、ECV后视觉模拟评分法（visual analogue scale,VAS）疼痛评分。至少报告任一主要结局指标即可纳入本研究。排除标准： $\\textcircled{1}$ 非中、英文语言文献； $\\textcircled{2}$ 重复发表； $\\textcircled{3}$ 研究对象有严重妊娠合并症或自身有慢性躯体疾病； $\\textcircled{4}$ 干预措施不明或多种措施联合干预。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2检索策略",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "检索从建库至2022年3月公开发表的中英文RCT研究。检索数据库:Cochrane Library、PubMed、Web of Science、Embase、CINAHL、中国生物医学文献数据库(CBM)、中国知网（CNKI）、维普（VIP）、万方数据知识服务平台。追溯已发表系统评价或 Meta分析的参考文献，获取未检索到的研究。检索采用主题词和自由词结合的方式进行，根据不同数据库进行调整。英文检索词：“breech presentation／transvers lie”“position/hand\\*/knee\\*/ acupuncture/moxibustion/external cephalic version”“Randomized Controlled Trial/RCT\"等。中文检索词：“臀先露、横位、胎位不正”“体位、膝胸卧位、跪趴位、艾灸至阴穴、激光照射至阴穴、按摩至阴穴、外倒转术”“随机、对照、RCT等”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以PubMed为例：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "#1breech presentation[MeSH] OR breech presentation[Title/Abstract] OR presentation breech[Title/Abstract] OR breech fetal[Title/Abstract] OR incomplete breech[Title/Abstract] ORcomplete breech[Title/Abstract] OR frank breech[Title/Abstract] OR transverse lie[Title/Abstract] OR labor presentation[Title/Abstract]   \n#2 posture[MeSH] OR postur\\*[Title/Abstract] OR position[Title/Abstract] OR knee\\*[Title/Abstract] OR hand\\*[Title/Abstract] OR sims[Title/Abstract] OR stand\\*[Title/Abstract] OR squat\\*[Title/Abstract] OR seat\\*[Title/Abstract] OR upright[Title/Abstract] OR waist[Title/Abstract]ORknee-chest[Title/Abstract] OR breath\\*[Title/Abstract] OR delivery ball[Title/Abstract] OR birth ball[Title/Abstract]   \n#3 acupuncture[MeSH] OR moxibustion[Title/Abstract] OR acupuncture[Title/Abstract] OR zhiyin[Title/Abstract] OR BL 67[Title/Abstract]   \n#4\"version，fetal\"[Mesh] OR\"version，fetal\"[Title/Abstract]ORexternal cephalic version[Title/Abstract] OR pelvic rotation[Title/Abstract] OR external[Title/Abstract] OR reversal[Title/Abstract]   \n#5 #2 OR #3 OR #4   \n#6 Randomized Controlled Trials as Topic[Mesh] OR Randomized Controlled Trial[Publication Type] OR Randomized Controlled Trial[Title/Abstract] OR RCT[Title/Abstract]   \n#7 #1 AND #5 AND #6 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3文献筛选和资料提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献初步检索以后，使用NoteExpress文献管理软件进行查重，根据研究纳入与排除标准，由2名乔安娜布里格斯研究所（Joanna Briggs Institute，JBI）循证卫生保健中心核心成员且有产科丰富临床经验的研究人员独立完成文献筛选和资料提取，如有分歧，咨询第3名研究人员讨论决定。采用自制资料提取表提取资料，主要包括： $\\textcircled{1}$ 研究基本信息； $\\textcircled{2}$ 研究对象基线特征； $\\textcircled{3}$ 具体干预措施； $\\textcircled{4}$ 结局指标； $\\textcircled{5}$ 研究方法学质量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4文献质量评价 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由2名研究员根据Cochrane 手册6.2.0 偏倚风险评估工具[对纳入研究的质量进行评价。包括：随机序列产生；分配隐藏；对参与者及研究者实施盲法；结果测评者盲法；结局数据完整性；选择性报告结果；其他偏倚。每项以“低偏倚风险\"“不清楚\"“高偏倚风险\"进行评价，完全满足“低偏倚风险\"为A级；部分满足\"低偏倚风险\"为B级；均不满足\"低偏倚风险\"为C级。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 统计学方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用 R4.1.1和 Stata16.0软件进行数据分析和图形绘制。首先进行一致性检验，存在闭合环时，利用节点模型分析法评估直接与间接比较一致性， $P { > } 0 . 0 5$ 提示直接与间接比较之间无显著不一致性。用潜在尺度减少因子（potential scale reduction factor,PSRF）进行收敛性评估，PSRF值接近1，说明收敛效果好[7]。对分类变量采用相对危险度(risk ratio, $R R )$ 及 $9 5 \\%$ 置信区间 $( 9 5 \\% C I )$ 进行分析；对连续变量采用加权均数差(weighted mean difference,WMD)及 $9 5 \\% C I$ 进行分析。通过累积排序概率图下面积（surface under the cumulative ranking，SUCRA）呈现不同措施成为最佳干预措施可能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1文献检索结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "初步检索获得文献 3734篇，中文2875篇，英文859篇。NoteExpress 软件去重后获得文献 3071篇，通过阅读文献标题和摘要初筛后获得文献170篇。追溯纳入研究参考文献未发现新的相关文献，全文浏览筛选后最终纳入36篇 ${ \\mathrm { R C T } } ^ { [ 8 - 4 3 ] }$ 。纳入流程见图2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5890d2a1947c1ed1e5de0fcee9906a1abbf473d43a40d885687ec05ec01c3c2.jpg",
+        "img_caption": [
+            "图2文献筛选流程图",
+            "Figure2Document screening flow chart "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2纳入研究的基本特征和方法学质量评价",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "纳入36篇 $\\scriptstyle { [ 8 - 4 3 ] } _ { \\mathrm { R C T } }$ ，中文4 篇[8-11]，英文32篇[12-43]，涉及的干预措施有：膝胸卧位、艾灸或激光照射至阴穴转位和不同类型宫缩抑制剂/麻醉方式下实施外倒转术，包含 7419 名产妇。1篇文献为三臂研究[24]，其余均为双臂研究，文献基本特征见表1。不同干预措施的网状Meta分析经干预胎儿转为头位证据关系见图3，实施ECV前使用不同宫缩抑制剂的网状 Meta分析经干预胎儿转为头位证据关系见图4，实施 ECV中不同麻醉方式的网状 Meta 分析经干预胎儿转为头位证据关系见图5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "纳入的2篇[16,19] RCT质量为A级，其余34篇RCT文献质量均为B级，36篇RCT[8-43]均报告随机序列产生的具体方法，主要为随机数字表法和计算机产生随机序列法；7篇 RCT[8-12.7.34]未提及分配隐藏；9篇RCT[6,19,23,2,1,3,539,提及对参与者和研究者实施盲法；3篇RCT[16.9,2及对结局测评者实施盲法；36T[8-43]结局数据完整，均未出现选择性报告；纳入研究的偏移风险评价结果见图6。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c520ae0a17bd8a4f743a8354f6d863a8e8a5509eb9c412184a0d7fb2064c812a.jpg",
+        "table_caption": [
+            "表1纳入文献的基本特征"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Table1</td><td colspan=\"4\">Basic characteristics of included literature</td></tr><tr><td rowspan=\"3\">第一作者</td><td rowspan=\"3\"></td><td rowspan=\"3\">年份 国 家</td><td>样</td><td>年龄</td><td>孕周</td><td>孕产次</td><td>干预措施</td><td>结局指标</td></tr><tr><td>本</td><td>（岁）T/C</td><td>（周）T/C</td><td>T/C</td><td>T/C</td><td>T/C</td></tr><tr><td>量 T/C</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>彭朝梨[8]</td><td>2021</td><td>中 国</td><td>192/</td><td>31.5±2.2/</td><td>38.7±0.8/</td><td>初产妇：121/124;</td><td>T：硫酸特布他林抑制宫缩，硬膜外麻醉下实</td><td>①②</td></tr><tr><td rowspan=\"4\">唐小媚[9]</td><td></td><td></td><td>192</td><td>31.3±2.2</td><td>38.4±0.8</td><td>经产妇：71/68</td><td>施ECV; C：膝胸卧位，每天2次，每次10-15min，</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>干预时长为1周。</td><td></td></tr><tr><td>2020</td><td>中</td><td>30/</td><td>29.3±2.3/</td><td>39.0±0.2/</td><td>初产妇：20/22；</td><td>T：硫酸特布他林抑制宫缩，硬膜外麻醉下实</td><td>①②</td></tr><tr><td>国</td><td>30</td><td>29.3±2.3</td><td>39.0±0.2</td><td>经产妇：10/8</td><td>施ECV;</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>C：膝胸卧位，每天2次，每次10-15min，</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a65f07886e70d05c82ff30f9447999931886ebf3798ec9a86edbd330a7554a2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">廖琪[三]</td><td rowspan=\"2\">2018</td><td>国</td><td>80 100/</td><td>30.0±3.7</td><td></td><td></td><td></td><td rowspan=\"2\">C：膝胸卧位，每天2次，每次15min。</td></tr><tr><td></td><td>中 国 100</td><td>26.6±4.3/ 26.3±4.5</td><td>31.7±1.6/ 31.4±1.5</td><td>未提及</td><td>T：艾条悬灸至阴穴30min，灸毕行膝胸卧位①② 15min，每天2次；</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>C：行膝胸卧位15min，每天2次，为期2周。</td><td></td></tr><tr><td>Azam Hamidzad</td><td>2021</td><td>伊 朗</td><td>69/ 69</td><td>24.9±2.4/ 24.7±2.7</td><td>33.1±1.1/ 32.9±1.10</td><td>初产妇：44/40; 经产妇：25/29</td><td>T：按压至阴穴，每次10min，为期2周。 C：接受常规护理。</td><td>①②③</td></tr><tr><td>eh[12]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Vincent Dochez[13]</td><td>2020</td><td>法 国</td><td>74/ 76</td><td>32.9±5.6/ 31.0±4.6</td><td>>36.0</td><td>初产妇：40/42；</td><td>T：吸入一氧化二氮之后实施 ECV; C：吸入医用空气之后实施 ECV。</td><td>①②③4</td></tr><tr><td>Khatereh</td><td>2020</td><td>伊</td><td>32/</td><td>28.1± 4.5/</td><td>39.0 ± 1.9/</td><td>经产妇：34/34 初产妇：16/17；</td><td>T：塑料夹对至阴穴进行刺激，每次 20min，</td><td>①②</td></tr><tr><td>Sourani[14]</td><td></td><td>朗</td><td>32</td><td>30.7 ± 7.0</td><td>38.4 ± 1.3</td><td>经产妇：16/15</td><td>2次/d，为期2周；</td><td></td></tr><tr><td>Virna</td><td></td><td>意</td><td>82/</td><td>31.2±5.1/</td><td>>37.0</td><td></td><td>C：不进行穴位刺激。 T：在实施 ECV前 2h 喝 2000mL 水；</td><td>①</td></tr><tr><td>Franca</td><td>2017</td><td>大</td><td>82</td><td>31.6±4.9</td><td></td><td>初产妇：61/21； 经产妇：61/21</td><td>C：在实施 ECV前 2h 喝水不超过100mL。</td><td></td></tr><tr><td>Zobbi[15]</td><td></td><td>利</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Zhi-Hong Wang[16]</td><td>2017</td><td>中</td><td>72/ 72</td><td>33.2±4.6/</td><td>37.0~41.0</td><td>初产妇：41/37；</td><td>T：瑞芬太尼静脉镇痛后实施 ECV;</td><td>①②④</td></tr><tr><td></td><td></td><td>国 荷</td><td>416/</td><td>32.9±5.1</td><td></td><td>经产妇：31/35</td><td>C：静脉使用安慰剂后实施 ECV。 T：阿托西班抑制宫缩后实施 ECV；</td><td>①②③</td></tr><tr><td>Ceost Melze[17]</td><td>2017</td><td>兰</td><td>414</td><td>32.1±4.0/</td><td>35.8±0.9/</td><td>初产妇：256/255；</td><td>C：非诺特罗抑制宫缩后实施 ECV。</td><td></td></tr><tr><td>Nicolas</td><td>2016</td><td>法</td><td>130/</td><td>32.4±4.3 30.5±4.6/</td><td>35.9±1.0 33.7±0.8/</td><td>经产妇：154/153 初产妇：71/80；</td><td>T：针灸至阴穴，并用打火机加热针尖，每次①②③</td><td></td></tr><tr><td>Sananes[18</td><td></td><td>国</td><td>129</td><td>30.4±4.6</td><td>33.6±0.8</td><td>经产妇：59/49</td><td>30min，治疗3次；</td><td></td></tr><tr><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td>C：针灸厉兑穴，并用打火机加热针尖，每</td><td></td></tr><tr><td>20-</td><td>2016</td><td>中</td><td>76/</td><td>34.1±4.2/</td><td>37.0~41.0</td><td>初产妇：45/42；</td><td>次：瑞芬太尼疗3痛后实施ECV；</td><td>①②4</td></tr><tr><td>Cin[19]</td><td></td><td>国</td><td>76</td><td>33.8±3.9</td><td></td><td>经产妇：31/34</td><td>C：静脉使用安慰剂（盐水）后实施ECV。</td><td></td></tr><tr><td>Tlge</td><td>2016</td><td>西</td><td>60/</td><td>34.8±4.0/</td><td>37.0~41.0</td><td>初产妇：40/42；</td><td>T：瑞芬太尼静脉镇痛后实施 ECV;</td><td>①②</td></tr><tr><td>Burgos[20] X</td><td></td><td>班</td><td>60</td><td>35.1±5.0</td><td></td><td>经产妇：20/18</td><td>C：吸入使用一氧化二氮后实施 ECV。</td><td></td></tr><tr><td>Narayana</td><td>2014</td><td>牙 马</td><td>48/</td><td>31.1±4.5/</td><td>37.5(37.4 ~</td><td>初产妇：19/27;</td><td>T：在孕妇腹部使用滑石粉后实施 ECV;</td><td>①②③4</td></tr><tr><td>m</td><td></td><td>来</td><td>47</td><td>29.5±4.0</td><td>37.9)/</td><td>经产妇：29/20</td><td>C：在孕妇腹部使用凝胶后实施ECV。</td><td></td></tr><tr><td>kan</td><td></td><td>西</td><td></td><td></td><td>37.8(37.4 ~</td><td></td><td></td><td></td></tr><tr><td>nu，N[21]</td><td></td><td>亚</td><td></td><td></td><td>38.2)</td><td></td><td></td><td></td></tr><tr><td>Capucine Coulon[22]</td><td>2014</td><td>法</td><td>164/</td><td>30.2±4.8/</td><td>34.5±0.6/</td><td>初产妇：95/92;</td><td>T：艾灸与针灸至阴穴，每次 20min；</td><td>C：灭活激光照射至阴穴，每次 20min，一共</td></tr><tr><td></td><td></td><td>国</td><td>164</td><td>30.7±4.4</td><td>34.5±0.6</td><td>经产妇：69/72</td><td>6次，在48h之内完成。</td><td></td></tr><tr><td>H</td><td>2014</td><td>西</td><td>31/</td><td>32.9±4.9/</td><td>36.0～41.0</td><td>初产妇：18/16;</td><td>T：瑞芬太尼静脉镇痛后实施 ECV;</td><td>①②④</td></tr><tr><td>Munoz[23]</td><td></td><td>班</td><td>29</td><td>32.5±5.7</td><td></td><td>经产妇：13/12</td><td>C：静脉使用安慰剂（盐水）后实施ECV。</td><td></td></tr><tr><td>Jorge</td><td>2013</td><td>牙 西</td><td>136/</td><td>31.5(22.6～</td><td>34.0(33.0～</td><td>初产妇：</td><td>T1：艾灸至阴穴加常规护理，每次 20min，1 ①②③</td><td></td></tr><tr><td>Vas[24]</td><td></td><td>班</td><td>136/ 134</td><td>39.0) /32.0(24.4</td><td>35.0)</td><td>73/77/81;</td><td>次/d，为期2周； T2：艾灸隐白穴加常规护理，每次 20min，1</td><td></td></tr><tr><td></td><td></td><td>牙</td><td></td><td>~38.0)</td><td></td><td>经产妇：63/59/53</td><td>次/d，为期2周；</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>/31.0(24.0</td><td></td><td></td><td>C：接受常规护理。</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>~38.3)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hutton[25]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>K2011</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>E</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>T：未足月（34-36周）实施ECV;</td><td></td></tr><tr><td></td><td></td><td>国</td><td>767/</td><td>30.0(18.9～</td><td>34.7(33.1 ～ 35.7)/</td><td>初产妇：409/411; 经产妇：358/363</td></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/757665286b21ac1798bbe9ded5382f9eadc0e6c109a799cabe351c00e121738a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Do[26]</td><td>大 利</td><td>10</td><td>/24.6±5.2</td><td>35.6±0.7</td><td></td><td>经产妇：3/1</td><td>10天；</td><td>C：常规护理干预。</td><td></td></tr><tr><td></td><td></td><td>亚</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C</td><td>F2010</td><td>以</td><td></td><td>28.5(21.0～</td><td></td><td>38.1±0.9/</td><td>初产妇：13/21;</td><td></td><td>T:布比卡因椎管内麻醉(腰麻)后实施 ECV；①②④</td><td></td></tr><tr><td>Weiniger[2</td><td></td><td>色</td><td></td><td>40.0)/</td><td></td><td>38.2±1.1</td><td>经产妇：18/12</td><td></td><td>C：无镇痛实施 ECV。</td><td></td></tr><tr><td>7]</td><td></td><td>列</td><td></td><td>28.6(20.0～</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Subraman</td><td>2009</td><td></td><td></td><td>36.0)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>iam</td><td></td><td></td><td>马 来</td><td>28.2±4.8/</td><td></td><td>38.0±0.6/</td><td>初产妇：31/27;</td><td></td><td>T：静脉推注宫缩抑制剂沙丁胺醇后实施①② ECV;</td><td></td></tr><tr><td>Vani[28]</td><td></td><td></td><td>西</td><td>28.7±4.3</td><td></td><td>38.0±0.7</td><td>经产妇：26/30</td><td></td><td>C：实施 ECV前不使用宫缩抑制剂。</td><td></td></tr><tr><td></td><td></td><td></td><td>亚</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Jennifer Hilton[29]</td><td>2009</td><td>加</td><td></td><td>初产妇：</td><td></td><td>初产妇：</td><td>初产妇：42/40;</td><td></td><td>T:接受静脉推注宫缩抑制剂硝酸甘油后实施①②③</td><td></td></tr><tr><td></td><td></td><td>拿</td><td></td><td>30.0</td><td>士</td><td>37.0±0.7/</td><td>经产妇：23/21</td><td></td><td>ECV;</td><td></td></tr><tr><td></td><td></td><td>大</td><td></td><td>5.0/29.0</td><td>士</td><td>37.7±0.7;</td><td></td><td></td><td>C：实施 ECV前不使用宫缩抑制剂。</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>4.0；</td><td></td><td>经产妇：</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>经产妇：</td><td></td><td>37.7±0.7/</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>31.0</td><td>士</td><td>37.6±0.4</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>5.0/32.0 ±</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>5.0</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2009</td><td></td><td>瑞</td><td>32.0±4.3/</td><td></td><td>35.0±0.8/</td><td>初产妇：75/64;</td><td></td><td>T：艾灸至阴穴，每次 20min，每周3次，为①②③</td><td></td></tr><tr><td></td><td></td><td></td><td>士</td><td>32.0±4.2</td><td></td><td>34.8±0.7</td><td>经产妇：31/42</td><td></td><td>期2周；</td><td></td></tr><tr><td>Gyiter130]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>C：只接受常规护理。</td><td>①②③</td></tr><tr><td></td><td></td><td>马</td><td></td><td>30.0±5.0/</td><td></td><td>38.0±1.0/</td><td>初产妇：23/25；</td><td></td><td>T：口服宫缩抑制剂硝苯地平后实施 ECV；</td><td></td></tr><tr><td></td><td></td><td>来 西</td><td></td><td>30.0±5.0</td><td></td><td>38.0±1.0</td><td>经产妇：21/21</td><td></td><td>C：皮下注射特布他林宫缩抑制剂后实施</td><td></td></tr><tr><td></td><td></td><td>亚</td><td></td><td></td><td></td><td></td><td></td><td></td><td>ECV。</td><td></td></tr><tr><td>Nor Azlin2008</td><td></td><td>马</td><td>43/</td><td>28.5±4.1/</td><td></td><td>37.8±0.8/</td><td>初产妇：18/21；</td><td></td><td>T：口服宫缩抑制剂硝苯地平后实施 ECV；</td><td>①②</td></tr><tr><td>Mohamed</td><td></td><td>来</td><td></td><td>29.9±5.2</td><td></td><td>37.5±0.4</td><td>经产妇：25/22</td><td></td><td>C：静脉注射特布他林宫缩抑制剂后实施</td><td></td></tr><tr><td>ISmail[(32]</td><td></td><td>西</td><td></td><td></td><td></td><td></td><td></td><td></td><td>ECV。</td><td></td></tr><tr><td></td><td></td><td>亚</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Marjolein2008</td><td></td><td>荷</td><td>154/</td><td>33.6±4.2/</td><td></td><td>37.0±0.8/</td><td>初产妇：78/83;</td><td></td><td>T：口服宫缩抑制剂硝苯地平后实施 ECV;</td><td>①②③</td></tr><tr><td>Kok[33]</td><td></td><td>兰</td><td>156</td><td>34.1±4.5</td><td></td><td>37.0±0.9</td><td>经产妇：76/73</td><td></td><td>C：实施 ECV前不使用宫缩抑制剂。</td><td></td></tr><tr><td>Sandra A 2006</td><td></td><td>美</td><td></td><td>未提及</td><td></td><td>34.0~38.0</td><td>初产妇：9/4;</td><td></td><td>T：膝胸卧位，每次15min，每天3次，干预</td><td>①②③</td></tr><tr><td>Founds[34]</td><td></td><td>国</td><td></td><td></td><td></td><td></td><td>经产妇：5/7</td><td></td><td>时长为1周；</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>C：常规护理干预。</td><td></td></tr><tr><td>Azlin[35]</td><td>MI Nor2005</td><td>马</td><td></td><td>29.1±4.5/</td><td></td><td>>37.0</td><td>初产妇：22/23；</td><td></td><td>T：静脉输注宫缩抑制剂盐酸利托君后实施 ECV;</td><td></td></tr><tr><td></td><td></td><td>来 西</td><td></td><td>27.5±4.3</td><td></td><td></td><td>经产妇：8/7</td><td></td><td>C：实施 ECV前不使用宫缩抑制剂。</td><td></td></tr><tr><td></td><td></td><td>亚</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Yasser Y2004</td><td></td><td>美</td><td></td><td>31.1±5.6/</td><td></td><td>38.4±0.7/</td><td>初产妇：17/18；</td><td></td><td>T：静脉注射宫缩抑制剂硝酸甘油后实施 ①②</td><td></td></tr><tr><td>El-Sayed[3</td><td></td><td>国</td><td></td><td>31.7±4.8</td><td></td><td>38.4±0.8</td><td>经产妇：13/11</td><td></td><td>ECV;</td><td></td></tr><tr><td>6]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>C：皮下注射特布他林宫缩抑制剂后实施 ECV。</td><td></td></tr><tr><td>K</td></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9174ff6fae4f9522327056521802191060ee862cf99193ec078abbbbba441bc6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td rowspan=\"2\">利</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">C：常规护理干预。</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td>亚</td><td></td></tr><tr><td>L Dugoff39]</td><td>1999</td><td>美 国</td><td>50/ 52</td><td>24.3±0.9/ 26.8±0.9</td><td>38.0±0.2/ 38.0±0.2</td><td>未提及</td><td>T：舒芬太尼和布比卡因椎管内麻醉（腰麻） 后实施 ECV;</td><td>①②③</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>C：无镇痛实施ECV。</td><td></td></tr><tr><td>F</td><td>1998</td><td>中</td><td>130/</td><td>25.5±2.5/</td><td>33.0</td><td>未提及</td><td>T：艾灸至阴穴，每次30min，每天1-2次，</td><td>①②③</td></tr><tr><td>Cardini[40]</td><td></td><td>国</td><td>130</td><td>25.2±3.0</td><td></td><td></td><td>为期1-2 周; C：常规护理干预。</td><td></td></tr><tr><td>S</td><td>J 1997</td><td>美</td><td>35/</td><td>27.7±6.1/</td><td>38.0±2.3/</td><td>初产妇：14/16;</td><td>T：利比卡因和肾上腺素椎管内麻醉（硬膜外</td><td>①②</td></tr><tr><td>Schorr[41]</td><td></td><td>国</td><td>34</td><td>25.8±6.6</td><td>37.4±2.1</td><td>经产妇：21/18</td><td>麻醉）后实施 ECV；</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>C：无镇痛实施 ECV。</td><td></td></tr><tr><td>G</td><td>P 1996</td><td>加</td><td>138/</td><td>28.5±0.4/</td><td>37.4±0.1/</td><td>初产妇：58/49；</td><td>T：静脉注射宫缩抑制剂利托君后实施 ECV；</td><td>①</td></tr><tr><td>Marquette [42]</td><td></td><td>拿</td><td>145</td><td>29.3±0.4</td><td>37.3±0.1</td><td>经产妇：80/96</td><td>C：静脉注射安慰剂后实施ECV。</td><td></td></tr><tr><td></td><td></td><td>大</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>F Chenia[43]</td><td>1987</td><td>津</td><td>39/ 37</td><td>25.4±6.0/ 26.8±6.2</td><td>38.2±1.6/ 38.6±1.9</td><td>初产妇：11/4; 经产妇：28/33</td><td>T：膝胸卧位，每次15min，每天3次，干预</td><td>① ②</td></tr><tr><td></td><td></td><td>巴</td><td></td><td></td><td></td><td></td><td>时长为1周;</td><td></td></tr><tr><td></td><td></td><td>布</td><td></td><td></td><td></td><td></td><td>C：常规护理干预。</td><td></td></tr><tr><td></td><td></td><td>韦</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）T为实验组，C为对照组;  \n（2）结局指标： $\\textcircled{1}$ 经干预胎儿转为头位成功率， $\\textcircled{2}$ 阴道分娩率， $\\textcircled{3}$ 头位分娩率， $\\textcircled{4}$ 实施ECV后VAS疼痛评分。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8756e19fdea0ae1394a423c038e077ad1d5869222beaa6037cb929287894ed12.jpg",
+        "img_caption": [
+            "图3不同干预措施的网状Meta分析经干预胎儿转为头位证据图 Figure3Evidence of head position after intervention by mesh meta-analysis of diferent intervention measures 注：干预措施中，A.常规护理；B.艾灸/刺激双脚至阴穴；C.膝胸卧位；D.艾灸至阴穴 $\\cdot +$ 膝胸卧位；E.分娩球运动 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3aca03748a5f793fa7158aba05a3c8a3323d306e252bf3087b816a847b558b8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图4实施 ECV前使用不同宫缩抑制剂的网状Meta分析经干预胎儿转为头位证据图Figure4Evidence of head position after mesh meta-analysis of different uterine contraction inhibitors before ECV注：ECV前宫缩抑制剂使用情况中，A.不使用宫缩抑制剂；B.使用钙通道阻断剂，如硝苯地平；C.使用β肾上腺素能受体激动剂，如沙丁胺醇、利托君、特布他林、非诺特罗；D.使用缩宫素受体拮抗剂，如阿托西班；E.使用一氧化氮供体，如硝酸甘油",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/de5a5b93b70a447c453db7735de646ad86b01bb7680fabaae10ce74e434ef3b8.jpg",
+        "img_caption": [
+            "图5实施 ECV中不同麻醉方式的网状Meta分析经干预胎儿转为头位证据图Figure5Evidence ofhead position after mesh meta-analysis intervention of diffrent anesthesia methods in ECV注：ECV中麻醉方式中，A.不麻醉；B.静脉麻醉；C.椎管内麻醉；D.吸入麻醉"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ae265680de33ff18a72561048038b09140048965f176ddc159c53cd22396f9c.jpg",
+        "img_caption": [
+            "图6纳入研究的偏倚风险评价结果",
+            "Figure6Bias risk assessment results included in the study "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3网状Meta分析结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 收敛性评估及一致性检验结果",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "收敛性评估显示，所有结局指标的PSFR 参数值均为1或接近1，显示模型收敛性良好，分析结果可靠性较高，不需要额外更新，本研究构建的模型可以有效地预测数据。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "经过节点模型分析，结果显示 $P { > } 0 . 0 5$ ，反映本研究中直接比较结果与间接比较结果符合一致性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.3.2孕晚期使用不同干预措施纠正臀位/横位效果比较",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "共 13项研究[10-12,14,1,2,24,26.0,34,38,40,43]对不同措施促进经干预胎儿转为头位成功率这一指标进行评价，涉及5种干预措施：常规护理、艾灸/刺激至阴穴、膝胸卧位、艾灸至阴穴 $^ +$ 膝胸卧位和分娩球运动。网状Meta 分析结果显示，常规护理与艾灸/刺激至阴穴的经干预成功转为头位指标比较，差异有统计学意义（ $_ { . P < 0 . 0 5 } )$ ）。共13项研究[10-1,14,18,2,263.34,38,4.,3]对采用不同措施对提高阴道分娩率指标进行评价，共涉及5种干预措施，但不同措施比较差异无统计学意义（ $\\cdot P { > } 0 . 0 5$ ）。共10 项研究[12,18,22,24,26,30.34,38,40,43]对不同措施促进头位分娩这一指标进行评价，涉及3种干预措施：常规护理、艾灸/刺激至阴穴和膝胸卧位。网状 Meta分析结果显示，差异无统计学意义（ $. P { > } 0 . 0 5 )$ ），见表2。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "不同干预措施在针对经干预胎儿转为头位、阴道分娩、头位分娩三个结局指标的应用效果中，成为最优措施的概率见表3，平均排序秩次为越低越好，网状Meta分析排序结果显示艾灸/刺激至阴穴成为最优措施的概率最大。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f2ab07dc8459b74ae715eabe88b7861bdf6c6d8905c9c3129fbe2df75a821a5.jpg",
+        "table_caption": [
+            "Table2Results of meta-analysis of correction of hip/transverse mesh by diferent intervention measures [RR $( 9 5 \\% C I ) ]$ "
+        ],
+        "table_footnote": [
+            "注： $R R ( 9 5 \\% C I )$ 以1为界，值未跨越1表示差异有统计学意义，用右上角\\*表示。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">经干预胎儿转为头位</td></tr><tr><td colspan=\"4\">常规护理</td></tr><tr><td>0.54 (0.32, 0.86)*</td><td>艾灸/刺激至阴穴</td><td></td><td></td></tr><tr><td>1.26 (0.52, 3.52)</td><td>2.32 (0.87, 7.54)</td><td>膝胸卧位</td><td></td></tr><tr><td>0.79 (0.18, 4.21)</td><td>1.46 (0.32, 8.62)</td><td>0.64 (0.18,2.20)</td><td>艾灸至阴穴+膝胸卧位</td></tr><tr><td>0.82 (0.19,4.33)</td><td>1.50 (0.33, 8.86)</td><td>0.65 (0.19, 2.27)</td><td>1.03 (0.17, 5.96) 分娩球运动</td></tr><tr><td colspan=\"4\">阴道分娩</td></tr><tr><td>常规护理</td><td></td><td></td><td></td></tr><tr><td>0.67 (0.36, 1.12)</td><td>艾灸/刺激至阴穴</td><td></td><td></td></tr><tr><td>1.15 (0.47, 3.00)</td><td>1.73 (0.63, 5.60)</td><td>膝胸卧位</td><td></td></tr><tr><td>1.15 (0.21, 6.80)</td><td>1.72 (0.30, 11.86)</td><td>1.00 (0.23, 4.37)</td><td>艾灸至阴穴+膝胸卧位</td></tr><tr><td>0.75 (0.13, 4.47)</td><td>1.13 (0.19, 7.76)</td><td>0.65 (0.15, 2.91)</td><td>0.66 (0.08, 5.36) 分娩球运动</td></tr><tr><td colspan=\"4\">头位分娩</td></tr><tr><td>常规护理</td><td></td><td></td><td></td></tr><tr><td>0.69 (0.39, 1.13)</td><td>艾灸/刺激至阴穴</td><td></td><td></td></tr><tr><td>1.26 (0.54, 3.06)</td><td>1.83 (0.70, 5.31)</td><td>膝胸卧位</td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/008c7f9bc6f7670b05aae85c1634a8324057f58d7db1f83bba3390c3b894453b.jpg",
+        "table_caption": [
+            "表2不同干预措施纠正臀位/横位网状 Meta 分析结果 $[ R R ( 9 5 \\% C I ) ]$ ",
+            "表3网状Meta分析排序概率图表",
+            "Table3Ranking probability chart of mesh meta analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">干预措施</td><td colspan=\"2\">经干预胎儿转为头位</td><td colspan=\"2\">阴道分娩</td><td colspan=\"2\">头位分娩</td></tr><tr><td>结果</td><td>秩次</td><td>结果</td><td>秩次</td><td>结果</td><td>秩次</td></tr><tr><td>常规护理</td><td>0.3648</td><td>4</td><td>0.4042</td><td>3</td><td>0.3906</td><td>2</td></tr><tr><td>艾灸/刺激至阴穴</td><td>0.8431</td><td>1</td><td>0.783</td><td>1</td><td>0.9219</td><td>1</td></tr><tr><td>膝胸卧位</td><td>0.1859</td><td>5</td><td>0.3112</td><td>5</td><td>0.1875</td><td>3</td></tr><tr><td>艾灸至阴穴+膝胸卧位</td><td>0.5623</td><td>2</td><td>0.3738</td><td>4</td><td></td><td></td></tr><tr><td>分娩球运动</td><td>0.5439</td><td>3</td><td>0.6277</td><td>2</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.3.3ECV前使用不同宫缩抑制剂纠正臀位/横位的效果比较",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "共9项研究[17,28-29,31-35-36,42]对使用不同宫缩抑制剂进行 ECV来促进臀位/横位胎儿转为头位的成功率这一指标进行评价，涉及5种方法：不使用宫缩抑制剂、钙通道阻断剂、 $\\beta _ { 2 }$ 肾上腺素能受体激动剂、缩宫素受体拮抗剂和一氧化氮供体，网状Meta分析结果显示，使用 $\\beta _ { 2 }$ 肾上腺素能受体激动剂与不使用宫缩抑制剂在干预后胎儿转为头位的成功率比较，差异有统计学意义（ $\\cdot P { < } 0 . 0 5$ ）。共8项研究[17,28-29.31-33,35-36]对使用不同宫缩抑制剂进行 ECV来促进阴道分娩这一指标进行评价，涉及5种方法，使用 $\\beta _ { 2 }$ 肾上腺素能受体激动剂与不使用宫缩抑制剂、使用 $\\beta _ { 2 }$ 肾上腺素能受体激动剂与使用钙通道阻断剂的阴道分娩指标比较，差异有统计学意义（ $_ { \\cdot \\textcircled { P } < 0 . 0 5 }$ ）。共5项研究[17,29,31,33,35]对使用不同宫缩抑制剂进行ECV来促进头位分娩这一指标进行评价，涉及5种宫缩抑制剂，网状Meta分析结果显示，无统计学意义（ $\\scriptstyle \\cdot P > 0 . 0 5 .$ ），见表4。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "使用不同宫缩抑制剂来实施 ECV 在针对经干预胎儿转为头位、阴道分娩、头位分娩三个结局指标的应用效果中，成为最优选择的概率见表5，平均排序秩次为越低越好，网状 Meta 分析排序结果显示 $\\beta _ { 2 }$ 肾上腺素能受体激动剂成为最优选择的概率最大。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a3a6c72482b935d3ad70afbed91e4e4944b8e5ae534f6ebb41ea34e11d53890.jpg",
+        "table_caption": [
+            "Table4Results of mesh meta-analysis of diferent uterine contraction inhibitors before ECV [RR $( 9 5 \\% C I ) _ { . } ^ { . }$ "
+        ],
+        "table_footnote": [
+            "注： $R R ( 9 5 \\% C I )$ 以1为界，值未跨越1表示差异有统计学意义，用右上角\\*表示。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">经干预胎儿转为头位</td></tr><tr><td colspan=\"4\">无宫缩抑制剂</td></tr><tr><td>0.89 (0.53, 1.41)</td><td>钙通道阻断剂</td><td></td><td></td></tr><tr><td>0.60 (0.38,0.82)*</td><td>0.67 (0.41, 1.03)</td><td>β 肾上腺素能受体 激动剂</td><td></td></tr><tr><td>0.72 (0.31, 1.44)</td><td>0.80 (0.34,1.75)</td><td>1.19 (0.61, 2.35)</td><td>缩宫素受体拮抗剂</td></tr><tr><td>0.92 (0.47, 1.76)</td><td>1.03 (0.49,2.26)</td><td>1.55 (0.83, 3.13)</td><td>1.29 (0.53, 3.47) 一氧化氮供体</td></tr><tr><td colspan=\"4\">阴道分娩</td></tr><tr><td colspan=\"4\">无宫缩抑制剂</td></tr><tr><td>1.00 (0.60, 1.51)</td><td>钙通道阻断剂</td><td></td><td></td></tr><tr><td>0.60 (0.39,0.89)*</td><td>0.60 (0.39, 0.95)*</td><td>β 肾上腺素能受体 激动剂</td><td></td></tr><tr><td>0.67 (0.32, 1.33)</td><td>0.67 (0.33,1.42)</td><td>1.12 (0.62, 2.01)</td><td>缩宫素受体拮抗剂</td></tr><tr><td>0.64 (0.34,1.18)</td><td>0.64 (0.32, 1.34)</td><td>1.07 (0.57, 2.03)</td><td>0.95 (0.41, 2.26) 一氧化氮供体</td></tr><tr><td colspan=\"4\">头位分娩</td></tr><tr><td colspan=\"4\">无宫缩抑制剂</td></tr><tr><td>0.87 (0.44, 1.66)</td><td>钙通道阻断剂</td><td></td><td></td></tr><tr><td>0.52 (0.24, 1.07)</td><td>0.60 (0.29,1.19)</td><td>β 肾上腺素能受体</td><td></td></tr><tr><td></td><td></td><td>激动剂</td><td></td></tr><tr><td>0.61 (0.21, 1.70)</td><td>0.70 (0.25,1.91)</td><td>1.16 (0.55, 2.45)</td><td>缩宫素受体拮抗剂</td></tr><tr><td>0.62 (0.25, 1.49)</td><td>0.71 (0.24,2.13)</td><td>1.18 (0.38, 3.82)</td><td>1.02 (0.26, 4.09) 一氧化氮供体</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0db3581572f2bc917e7587a7382aded496e95b336f35a56908e4622ab587b53.jpg",
+        "table_caption": [
+            "表4ECV 前使用不同宫缩抑制剂网状 Meta 分析结果 $[ R R ( 9 5 \\% C I ) ]$ ",
+            "表5网状Meta分析排序概率图表",
+            "Table5Ranking probability chart of mesh meta analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">宫缩抑制剂</td><td colspan=\"2\">经干预胎儿转为头位</td><td colspan=\"2\">阴道分娩</td><td colspan=\"2\">头位分娩</td></tr><tr><td>结果</td><td>秩次</td><td>结果</td><td>秩次</td><td>结果</td><td>秩次</td></tr><tr><td>无宫缩抑制剂</td><td>0.1962</td><td>5</td><td>0.1661</td><td>5</td><td>0.1384</td><td>5</td></tr><tr><td>钙通道阻断剂</td><td>0.379</td><td>3</td><td>0.1822</td><td>4</td><td>0.298</td><td>4</td></tr><tr><td>β 肾上腺素能受体激 动剂</td><td>0.9171</td><td>1</td><td>0.8225</td><td>1</td><td>0.8212</td><td>1</td></tr><tr><td>缩宫素受体拮抗剂</td><td>0.6576</td><td>2</td><td>0.6307</td><td>3</td><td>0.6157</td><td>3</td></tr><tr><td>一氧化氮供体</td><td>0.3501</td><td>4</td><td>0.6984</td><td>2</td><td>0.6267</td><td>2</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3.4采用不同麻醉方式实施ECV来纠正臀位/横位效果的比较",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "共9项研究[13,16,19-20,2,27,37,39,41]对采用不同麻醉方式实施ECV来促进经干预胎儿转为头位的成功率这一指标进行评价，涉及4种麻醉方式：不麻醉、静脉麻醉、椎管内麻醉和吸入麻醉，网状Meta分析结果显示，ECV时使用静脉麻醉或椎管内麻醉与不使用麻醉的经干预臀位/横位胎儿成功转为头位的成功率进行比较，差异有统计学意义（ $. P { < } 0 . 0 5 \\$ ）。共9项研究[13,16,19-20,23,27,37,40-41]对采用不同麻醉方式实施 ECV来促进阴道分娩率这一指标进行评价，涉及4种麻醉方式，差异无统计学意义（ $\\scriptstyle \\cdot P > 0 . 0 5 .$ ），见表6。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "共5项研究[13.16,19,2,27]对不同麻醉方式下实施 ECV术后VAS 疼痛评分指标进行评价，涉及4种麻醉方式，结果显示，静脉麻醉与不麻醉相比可降低 ECV 后疼痛评分（WMD-1.97， $9 5 \\% C I$ -2.49,-1.46，3 项研究[16,19,23]，356名妇女）；椎管内麻醉也可降低ECV后疼痛评分（WMD-3.80，95%CI-5.10,-2.50,1项研究[27]，64名妇女）；吸入麻醉与无麻醉相比无统计学差异（WMD0.30， $9 5 \\% C I - 0 . 4 5 , 1 . 0 5$ ，1项研究[13]，150 名妇女）。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "不同麻醉方式在针对经干预胎儿转为头位、阴道分娩两个结局指标的应用效果中，成为最优选择的概率见表7平均排序秩次为越低越好，网状Meta分析排序结果显示椎管内麻醉成为最优选择的概率最大。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5f2d496baac276c237f7eca7229d99054bfc03188b54174e25eefd18bbcb437.jpg",
+        "table_caption": [
+            "Table6Results of mesh meta-analysis of diferent anesthesia methods in ECV [RR $( 9 5 \\% C I )$ "
+        ],
+        "table_footnote": [
+            "注： $R R ( 9 5 \\% C I )$ 以1为界，值未跨越1表示差异有统计学意义，用右上角\\*表示。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">经干预胎儿转为头位</td></tr><tr><td colspan=\"4\">无麻醉</td></tr><tr><td>0.71 (0.53, 0.96)*</td><td>静脉麻醉</td><td></td><td></td></tr><tr><td>0.65 (0.49, 0.85)*</td><td>0.91 (0.60,1.36)</td><td>椎管内麻醉</td><td></td></tr><tr><td>0.74 (0.47,1.18)</td><td>1.04 (0.68,1.60)</td><td>1.15 (0.68, 1.98)</td><td>吸入麻醉</td></tr><tr><td colspan=\"4\">阴道分娩</td></tr><tr><td>无麻醉</td><td></td><td></td><td></td></tr><tr><td>0.93 (0.50,1.73)</td><td>静脉麻醉</td><td></td><td></td></tr><tr><td>0.77 (0.41, 1.35)</td><td>0.82 (0.34, 1.9)</td><td>椎管内麻醉</td><td></td></tr><tr><td>0.87 (0.36,2.07)</td><td>0.93 (0.39,2.23)</td><td>1.13 (0.4, 3.36)</td><td>吸入麻醉</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/7cbb656f70ead8ebaae5ba45b71c20fbe5a0026a1c621b015591ece543d2736c.jpg",
+        "table_caption": [
+            "表6ECV 中不同麻醉方式网状 Meta 分析结果 $[ R R ( 9 5 \\% C I ) ]$ ",
+            "表7网状Meta分析排序概率图表",
+            "Table7Ranking probability chart of mesh meta analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">麻醉方式</td><td colspan=\"2\">经干预胎儿转为头位</td><td colspan=\"2\">阴道分娩</td></tr><tr><td>结果</td><td>秩次</td><td>结果</td><td>秩次</td></tr><tr><td>无麻醉</td><td>0.0364</td><td>4</td><td>0.2967</td><td>4</td></tr><tr><td>静脉麻醉</td><td>0.6227</td><td>2</td><td>0.438</td><td>3</td></tr><tr><td>椎管内麻醉</td><td>0.8013</td><td>1</td><td>0.7242</td><td>1</td></tr><tr><td>吸入麻醉</td><td>0.5395</td><td>3</td><td>0.5411</td><td>2</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.3.5实施ECV与膝胸卧位纠正臀位/横位效果比较 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2项包含 44 名孕妇的研究[8-9]比较了使用硫酸特布他林抑制宫缩，在硬膜外麻醉下实施 ECV 与膝胸卧位纠正臀位/横位的效果，Meta 分析结果显示，实施 ECV 与膝胸卧位相比可增加经干预转位为头位可能性（RR1.35， $9 5 \\% C I$ 1.13-1.62）；两组之间的阴道分娩率（ $. R R 1 . 8 3$ ， $9 5 \\% C I 0 . 9 8 , \\tilde { : }$ 3.42）无显著差异。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.3.6 发表偏倚",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "对于经干预转为头位的成功率的指标绘制漏斗图，得到的小样本研究结果大致分布在总体效应周围，围绕中心线对称排列，纳入文献分布较好，纳入文献的发表偏倚较小，不同干预措施的网状 Meta 分析经干预胎儿转为头位发表偏倚见图7，ECV前使用不同宫缩抑制剂的网状Meta分析经干预胎儿转为头位发表偏倚见图8，ECV 中不同麻醉方式的网状Meta分析经干预胎儿转为头位发表偏倚见图9。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/17c28cceb7d11adf7108880531373ee5f67067621a82c14005d6a4f9e7a0b1d9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b263b7bc6b89731f6c65c2cc7e9c48c739be59026b001e4fe7ca5bb0ae83009.jpg",
+        "img_caption": [
+            "图7不同干预措施的网状 Meta分析经干预胎儿转为头位漏斗图 Figure7Funnel diagram of head position after intervention by mesh meta-analysis of diferent intervention measures 注：干预措施中：A.常规护理；B.艾灸/刺激双脚至阴穴；C.膝胸卧位；D.艾灸至阴穴 $\\cdot +$ 膝胸卧位；E.分娩球运动 "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "注：ECV前宫缩抑制剂使用情况中：A.不使用宫缩抑制剂；B.使用钙通道阻断剂；C.使用 $\\beta _ { 2 }$ 肾上腺素能受体激动剂；D.使用缩宫素受体拮抗剂；E.使用一氧化氮供体",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/436c24c7d603d8509992bb40b61ab492bdaa8ef048853345caaf4315e59cc379.jpg",
+        "img_caption": [
+            "图8ECV前使用不同宫缩抑制剂的网状Meta分析经干预胎儿转为头位漏斗图 Figure8Funnel diagram of head position after intervention by mesh meta-analysis of diferent uterinecontraction inhibitors before ECV ",
+            "图9ECV中不同麻醉方式的网状Meta分析经干预胎儿转为头位漏斗图"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure9Funnel diagram of head position after intervention of mesh meta-analysis of different anesthesia methods in ECV 注：ECV中麻醉方式：A.不麻醉；B.静脉麻醉；C.椎管内麻醉；D.吸入麻醉 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.1艾灸/刺激至阴穴为孕晚期臀位/横位矫正的最佳非药物干预措施",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "关于孕晚期使用不同干预措施对臀位/横位孕妇矫正的效果，本研究纳入13篇RCT，涉及5种干预措施，在经干预胎儿转为头位、阴道分娩、头位分娩3个结局指标方面进行分析。在经干预胎儿转为头位方面，艾灸/刺激至阴穴干预效果优于常规护理，其他措施之间的比较差异无统计学意义（ $\\cdot P { > } 0 . 0 5 )$ ；在阴道分娩与头位分娩方面，5种措施之间的比较差异均无统计学意义（ $\\cdot P { > } 0 . 0 5$ ）。经干预胎儿转为头位、阴道分娩、头位分娩3种结局指标排序概率结果均显示，艾灸/刺激至阴穴效果位于第1位，因此成为最佳非药物干预措施的可能性最大。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "艾灸/刺激双脚至阴穴为孕晚期臀位/横位矫正常用的非药物干预措施，作为中医传统疗法简便易行、孕妇易于接受，无严重妊娠合并症的孕晚期单胎臀先露孕妇可在医生指导下尝试采用[44]。至阴穴是指膀胱经第67穴位，位于足小趾外侧趾甲旁。艾灸过程中通过燃烧艾草贴近皮肤产生热效应以刺激穴位[40]；进而通过激素作用使子宫敏感性增加,增强子宫收缩，加剧胎儿活动强度，使胎方位更容易自发倒转成头位。然而2020 年法国妇产科学院(CNGOF)的临床实践指南[45]认为，针灸/艾灸至阴穴和体位管理尚未被证明可有效减少出生时的臀位表现，因此不推荐妇女使用。因此，仍有必要开展高质量的原始研究对孕晚期艾灸/刺激至阴穴对臀位/横位的矫正效果进行进一步探究。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.2β肾上腺素能受体激动剂在实施外倒转术时辅助抑制宫缩的效果最佳",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "关于不同宫缩抑制剂在ECV实施前应用的比较，本研究纳入9篇RCT，涉及5种宫缩抑制剂：不使用任何宫缩抑制剂、钙通道阻断剂、 $\\beta _ { 2 }$ 肾上腺素能受体激动剂、缩宫素受体拮抗剂和一氧化氮供体，评价其对经干预胎儿转为头位、阴道分娩、头位分娩3个结局指标的影响。在经干预胎儿转为头位方面，使用 $\\beta _ { 2 }$ 肾上腺素能受体激动剂干预效果优于不使用宫缩抑制剂；在阴道分娩方面，使用 $\\beta _ { 2 }$ 肾上腺素能受体激动剂干预效果优于不使用宫缩抑制剂或使用钙通道阻断剂，其他宫缩抑制剂之间的比较差异无统计学意义（ $\\cdot P { > } 0 . 0 5 )$ ；在头位分娩方面，5种宫缩抑制剂之间的比较差异均无统计学意义（ $\\cdot P { > } 0 . 0 5 \\$ ）。经干预胎儿转为头位、阴道分娩、头位分娩3种结局指标排序概率结果均显示，使用 $\\beta _ { 2 }$ 肾上腺素能受体激动剂效果位于第1位，因此成为抑制宫缩最优选择的可能性最大。相反，不使用任何宫缩抑制剂实施ECV的整体效果最差，因此最不可能成为最优选择。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ECV 实施前使用宫缩抑制剂可以放松孕妇子宫或前腹壁肌肉组织，有效降低子宫张力，增强臀位/横位胎儿回转为头位的几率。且ECV在初产妇中应用成功率低于经产妇，考虑可能与其腹壁紧张影响胎儿回转有关[46]。2016年的美国妇产科医师学会（ACOG）指南[47l推荐辅助ECV常用抑制宫缩药物有： $\\beta _ { 2 }$ 肾上腺素能受体激动剂、钙离子通道阻滞剂、一氧化氮供体，主要推荐用 $\\beta _ { 2 }$ 肾上腺素能受体激动剂，这与本研究结论相符。一项系统评价[48]纳入6个关于实施ECV时是否使用 $\\beta _ { 2 }$ 肾上腺素能受体激动剂抑制宫缩的RCT研究，结果显示 $\\beta _ { 2 }$ 肾上腺素能受体激动剂的使用可有效增加头位分娩可能性，降低剖宫产率，对于其他类别的宫缩抑制剂，如钙通道阻滞剂和一氧化氮供体，信息有限，其证据尚不足以得出相似结论。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.3椎管内麻醉下实施外倒转术效果最佳",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究中关于ECV实施中使用不同麻醉方式进行比较，共纳入9篇RCT，涉及4种方式：无麻醉、静脉麻醉、椎管内麻醉、吸入麻醉，评价其对经干预胎儿转为头位、阴道分娩、术后疼痛评分3个结局指标的影响。在经干预胎儿转为头位方面，使用静脉麻醉或椎管内麻醉效果优于不进行任何麻醉镇痛；在阴道分娩方面，不同麻醉方式之间的比较差异均无统计学意义‘ $\\langle P { > } 0 . 0 5$ ）；在术后疼痛评分方面，使用静脉麻醉或椎管内麻醉效果优于不进行任何麻醉镇痛。经干预胎儿转为头位、阴道分娩2种结局指标排序概率结果均显示，使用椎管内麻醉效果位于第1位，因此成为最优麻醉方式的可能性最大。相反，不进行任何麻醉镇痛的整体效果最差，因此最不可能成为最优选择。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "实施 ECV 时的腹部疼痛常使臀位妇女产生紧张、焦虑甚至是恐惧的心理，从而导致其腹壁紧张度增加，影响ECV的成功率。因此，实施 ECV时进行麻醉可降低术中疼痛，消除妇女的紧张情绪，并促使腹壁及子宫松弛[49]。有 Meta 分析[4]显示，使用椎管内麻醉、静脉麻醉、吸入麻醉后ECV成功率均明显高于不使用麻醉的对照组，ECV相关疼痛评分（VAS 评分）有显著降低。也有研究表明[50]，椎管内镇痛后孕妇疼痛评分与剖宫产率均降低，且ECV术后胎儿转为头位的比例较高，此上与本研究结论一致。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4本研究的局限性及展望",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究存在一定的局限性，主要体现在： $\\textcircled{1}$ 纳入本研究的36篇RCT均报告随机分配的方法，但部分研究未对分配方案隐藏，有可能增加 Meta 分析研究间异质性。 $\\textcircled{2}$ 部分结局指标如新生儿Apgar 评分，因纳入原始研究中报告较少或测评时间及方法存在差异而未被纳入分析，后续网状 Meta分析的结局指标有待进一步完善，因此还需纳入更多原始研究证据以证实其结论。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "网状Meta分析结果显示，孕晚期单胎臀位孕妇可在医生指导下通过艾灸/刺激双脚至阴穴，从而增加臀位倒转为头位可能性；采用体位进行管理的有效性尚未有充分证据支持。实施外倒转术需在有条件进行急诊剖宫产的机构进行，过程中需对母儿生命体征进行严密监测，且使用 $\\beta _ { 2 }$ 肾上腺素能受体激动剂抑制宫缩或进行椎管内麻醉可提高外倒转术成功率。此上结论能够为孕晚期臀位/横位孕妇胎方位的矫正提供有力循证依据，促进临床实践的科学性和规范性。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "作者贡献：王雪岩、翟巾帼、田金徽：进行文章的构思与设计、结果的分析与解释、撰写论文和论文修订；王雪岩、田金徽、张莉：进行研究的实施与可行性分析；田金徽、翟巾帼：进行文章的质量控制及审校；王雪岩、张莉：进行数据收集与整理；王雪岩、张莉：进行统计学处理，图表的绘制，结果的可视化呈现；王雪岩：论文起草、初步撰写；翟巾帼：负责最终版本修订，对文章整体负责，监督管理；所有作者确认了论文的最终稿。本文无利益冲突。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献 [1] 余艳红,陈叙．助产学[M].北京:人民卫生出版社,2017:324-325. YU Y H, CHEN X. Midwifery.[M]. Beijing People's Medical Publishing House,2017:324-325. [2] 刘兴会,漆洪波．难产(第2版)[M].北京:人民卫生出版社,2021:372-377. LIU X H, QI HB.Dystocia 2th ed[M]. Beijing People's MedicalPublishing House,2021:372-377. [3]郭颖婷,翟伟.艾灸至阴穴矫正胎位不正的系统评价[J].实用妇科内分泌电杂志,2019,6(17):134-135+137.DOI: 10.16484/j.cnki.issn2095-8803.2019.17.101. GUO YT, ZHAI W. Systematic evaluation of moxibustion to Yin point in correcting malposition of placenta[J]. ElectronicJoumalofPracticalGynecologicalEndocrinology,2019,6(17):134-135+137.DOI: 10.16484/j.cnki.issn2095-8803.2019.17.101.   \n[4] HAO Q Z,HU Y R, ZHANG L,et al. A Systematic Review and Meta-analysis of Clinical Trials of Neuraxial, Intravenous,and Inhalational Anesthesia for External Cephalic Versin[J].Anesth Analg.2020,131(6):1800-1811.DOI: 10.1213/ANE.0000000000004795.   \n[5]GARCIA MM, GOMEZ CD, COLL C M,etal.Effctivenessand Safety of Acupuncture and Moxibustion in Pregnant Women with Noncephalic Presentation: An Overview of Systematic Reviews[J]. Evid Based Complement Alternat Med.2019，7036914.D01:10.1155/2019/70369 14. eCollection 2019.   \n[6]HIGGINSJPT,THOMAS J,CHANDLERJ,et al.Cochrane handbook for systematicreviews ofinterventionversion 6.2.0[EB/OL].(2021-02)[2022-06-01]. https://training.cochrane.org/handbook/archive/v6.2.   \n：[7]韩春彦,赵存,王兴蕾等.13 种干预方案治疗脑卒中吞咽困难效果的网状 Meta 分析[J].护理研 究,2020,34(11):1869-1877. DO1:10.12102/j.issn.1009-6493.2020.11.001. HAN C Y, ZHAO C, WANG X L, et al. A network Meta-analysis of the efect of 13 interventions on dysphagia in stroke patients[J].Chinese Nursing Research,2020,34(1):1869-1877.DOI:10.12102/j.issn.1009-6493.2020.11.001. [8] 彭朝梨.臀位外倒转术对足月单胎臀位产妇外倒转成功率及妊娠结局的影响分析[J].世界最新医学信息文 摘,2021,21(53) :149-150. DO1:10.3969/j.issn.1671-3141.2021.53.057. PENG Z L. Effect of breech inversion on the success rate of breech inversion and pregnancy outcome of ful-term singleton[J]. Digest World Latest Med Inf,2021,21(53):149-150.DOI:10.3969/j.issn.1671-3141.2021.53.057. [9]唐小媚,黎箐,杨金菊.臀位外倒转术对足月单胎臀位产妇外倒转成功率及妊娠结局的影响[J].临床医学工 程,2020,27(01):55-56. DO1:10.3969/j.issn.1674-4659.2020.01.0055. TANG X M,LIJ, YANG JJ. Influence of external buttock reversal on external reversal success rate and pregnancy outcomes in puerperas with ful-term singleton breech position[J]. Clinical Medicine &Enginering,2020,27(01):55-56. DOI:10.3969/j.issn.1674-4659.2020.01.0055. [10] 林岸芸,于红静,武彦等.应用分娩球运动纠正胎儿臀先露及改善分娩结局[J].实用医学杂 志,2020,36(03):406-409.DOI:10.3969/j.issn.1006-5725.2020.03.026. LIN A Y, YUH J, WU Y,et al.Clinical studyof applying deliveryballtocorrct the breech presentation and mprove the delivery outcomes[J]. The Journal of Practical Medicine,2020,36(03):406-409. DOI:10.3969/j.issn.1006-5725.2020.03.026. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[11]廖琪,孙彦华.艾灸至阴穴联合膝胸卧位矫正胎儿臀位的临床疗效观察[J].当代医学,2018,24(30):141-142.DOI:",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "fetal breech position[J]. ContemporaryMedicine,2018,24(30):141-142.DOI: 10.3969/j.issn.1009-4393.2018.30.058.   \n[12] HAMIDZADEH A,TAVAKOL Z, MALEKI M, et al. Effect of acupressure at the BL67 spot on the spontaneous rotationoffetuswithbreechpresentation:Arandomizedcontroledtrial[J].Explore(NY). 2021:S1550-8307(21)00219-6. DOI: 10.1016/j.expl0re.2021.10.005.   \n[13] SOURANI K,MOHAMMADBEIGI A, KHADEMI N,et al. Effect of stimulating the BL67 point on fetal correction from breech to cephalic presentation and natural delivery after the 36 weeks of pregnancy: A randomized clinical trial[J].Reproductive and Developmental Medicine.2020,4(2):103-108.DOI:10.4103/2096-2924.288019.   \n[14]DOCHEZ V,ESBELIJ,MSBERTE,etal.Effectivenessofnitrous oxide inextealcephalic versioosuccesrate: A randomized controlled trial[J]. Acta Obstet Gynecol Scand. 2020,99(3):391-398.DOI: 10.1111/aogs.13753.   \n[15] ZOBBI VF,NESPOLI A,SPREAFICOE,et al. Effectof Oral Hydrationon Extermal Cephalic Versionat Term[J]. J Obstet Gynecol Neonatal Nurs. 2017,46(5):686-695.DOI: 10.1016/j.jogn.2017.07.007   \n[16] WANG Z H,YANG Y,XU GP.Remifentanil analgesia during external cephalic version for breech presentation in nulliparous womenatterm:Arandomizedcontrolledtrial[J].Medicine (Baltimore). 2017,96(11):e6256.DOI:10.1097/MD.0000000000006256.   \n[17] VELZEL J, VLEMMIX F,OPMEER B C,et al. Atosiban versus fenoterol asauterine relaxant for external cephalic version: randomised controlled trial[J]. BMJ. 2017,356:i6773.DOI: 10.1136/bmj.i6773.   \n[18] SANANES N,ROTH G E,AISSI G A,et al. Acupuncture version of breech presentation: a randomized sham-controledsingle-blinded trial[J].EurJObstetGynecol ReprodBiol.2016,204:24-30.DOI: 10.1016/j.ejogrb.2016.07.492.   \n[19]LIU X H,XUE A Q.A randomized trial of remifentanil for analgesia in external cephalic version for breech presentation[J]. Medicine (Baltimore). 2016,95(49):e5483.DOI: 10.1097/MD.0000000000005483.   \n[20] BURGOS J,PJOANJI,OSUNA C,etal. Increased pain relief with remifentanil does not improve the sucesrateof external cephalic version: a randomized controlld trial[J]. Acta Obstet Gynecol Scand.2016,95(5):547-554.DOI: 10.1111/aogs.12859.   \n[21] VALLIKKANNU N, NADZRATULAIMAN W N, OMAR S Z, et al. Talcum powder or aqueous gel to aid external cephalicversion:arandomised controledtrial[J].BMCPregnancyChildbirth.2014,14:49.DOI: 10.1186/1471-2393-14-49.   \n[22]MUNOZ H, GUERRA S, VAQUERO PP, et al. Remifentanil versus placebo for analgesia during external cephalic version: a randomised clinical trial[J].Int JObstet Anesth.2014,23(1):52-57.DOI: 10.1016/j.ijoa.2013.07.006.   \n[23] COULON C,POLESZCZUK M,PATY-MONTAIGNE M H,et al. Version of breech fetuses by moxibustion with acupuncture: a randomizedcontrolledtrial[J].ObstetGynecol.2014,124(1):32-39. DOI: 10.1097/AOG.0000000000000303.   \n[24] VAS J, ARANDA-REGULES JM, MODESTO M,et al. Using moxibustion in primary healthcare to correct non-vertex presentation:a multicentrerandomised controled trial[J].AcupunctMed.2013,31(1):31-38.DOI: 10.1136/acupmed-2012-010261.   \n[25] HUTTONE K, HANNAHME,ROSS S J,et al. TheEarlyExtermal Cephalic Version (ECV)2 Trial: an international multicentre randomised controled trial of timing of ECVfor breech pregnancies[J]. BJOG 2011,118(5):564-577.DOI: 10.1111/j.1471-0528.2010.02837.x.   \n[26] DO CK,SMITHCA,DAHLENH,etal. Moxibustion forcephalic version: afeasibilityrandomisedcontroled trial[J]. BMC Complement Altern Med. 2011,11:81. DOI: 10.1186/1472-6882-11-81.   \n[27] WEINIGER CF, GINOSAR Y,ELCHALALU,etal. Randomizedcontrolled trial of external cephalicversion n term multiparae with or without spinal analgesia[J]. Br JAnaesth. 2010,104(5):613-618. DOI: 10.1093/bja/aeq053.   \n[28] VANI S,LAUSY,LIMBK,etal. Intravenous salbutamolforexternal cephalicversion[J]. IntJGynaecolObstet. 2009,104(1):28-31. DO1: 10.1016/j.ijgo.2008.08.014.   \n[29]HILTON J, ALLAN B,SWABY C,et al. Intravenous nitroglycerin for external cephalic version: arandomized controlled trial[J]. Obstet Gynecol. 2009,114(3):560-567. DOI: 10.1097/AOG.0b013e3181b05a19.   \n[30]GUITTIER MJ,PICHONM,DONG HG, et al. Moxibustion forbreech version: arandomized controled trial[J].   \n[IVIUIIAIVILD ISIVIAIL IN AIIVI IVIIVIUI ,てt aI. IICuIpIIC vISuS tIUuIaIIC IUI tWUUIySIS I extermal cephalic version[J]. IntJGynaecol Obstet. 2008,102(3):263-266.DOI: 10.1016/j.ijgo.2008.04.010.   \n[33] KOK M,BAIS JM,VANLITHJM,etal. Nifedipineas auterine relaxant for external cephalicversion:arandomized controlled trial[J]. Obstet Gynecol. 2008,112(2 Pt 1):271-276. DOI: 10.1097/AOG.0b013e31817f1f2e.   \n[34]FOUNDS S A. Clinical implications from an exploratory studyof postural managementof breech presentation[J]. J Midwifery Womens Health. 2006,51(4):292-296. DOI: 10.1016/j.jmwh.2005.11.010.   \n[35]NOR AZLIN M I, HALIZA H,MAHDY Z A,et al.Tocolysis in term breech extermal cephalic version[J].Int J Gynaecol Obstet. 2005,88(1):5-8. DOI: 10.1016/j.ijg0.2004.09.014.   \n[36] EI-SAYED Y Y, PULLEN K，RILEY E T, et al. Randomized comparison of intravenous nitroglycerinand subcutaneousterbutalineforexternal cephalicversionundertocolysis[J].AmJ Obstet Gynecol. 2004,191(6):2051-2055. DO1: 10.1016/j.aj0g.2004.04.040.   \n[37]MANCUSO K M, YANCEYM K,MURPHYJA, et al. Epidural analgesia for cephalic version: a randomized rial[J]. Obstet Gynecol. 2000,95(5):648-651. DO1: 10.1016/s0029-7844(99)00611-0.   \n[38]SMITH C, CROWTHER C, WILKINSON C,et al. Knee-chest postural management for breech at term: a randomized controlled trial[J]. Birth.1999,26(2):71-75. DOI: 10.1046/j.1523-536x.1999.00071.x.   \n[39] DUGOFF L,STAMM C A,JONES O W3rd,etal. The effect of spinal anesthesia on the success rateof exteral cephalic version: arandomized trial[J]. Obstet Gynecol.1999,93(3):345-349.DOI: 10.1016/s0029-7844(98)00456-6.   \n[40] CARDINIF, WEIXIN H.Moxibustion forcorrection of breech presentation: arandomized controlled trial[J].JAMA. 1998,280(18):1580-1584. DOI: 10.1001/jama.280.18.1580.   \n[41] SCHORRSJ,SPEIGHTSSE,ROSSEL,etal.Arandomized trialofepiduralanesthesia to improve exteralephalic version success[J]. Am J Obstet Gynecol. 1997,177(5):1133-1137. DOI: 10.1016/s0002-9378(97)70029-2.   \n[42] MARQUETTE G P,BOUCHER M,THERIAULT D,etal. Does the use of a tocolytic agent afect the success rateof externalcephalicversion?[J].AmJObstetGynecol.1996,175(4Pt1):859-861.DOI: 10.1016/s0002-9378(96)80013-5.   \n[43] CHENIA F, CROWTHER C A.Does advice to assume the knee-chest position reduce the incidence of breech presentationatdelivery?Arandomizedclinicaltrial[J].Birth.1987,14(2):75-78.DOI: 10.1111/j.1523-536x.1987.tb01455.x.   \n[44]邓新琼,覃晓慧,廖滔等.臀位妊娠矫正方法的研究进展[J].广西医学,2017,39(08):1219-1221.DOI: 10.11675/j.issn.0253-4304.2017.08.31. DENG X Q, QIN X H,LIAO T, et al. Research Progress on correction methods of breech pregnancy[J]. Guangxi Medical Journal,2017,39(08):1219-1221. DOI: 10.11675/j.issn.0253-4304.2017.08.31.   \n[45] SENTILHES L, SCHMITZ T,AZRIA E,et al. Breech presentation: Clinical practice guidelines from the French Colege of Gynaecologistsand Obstetricians (CNGOF)[J].Eur JObstet Gynecol Reprod Biol.2020,252:599-604.DOI: 10.1016/j.ejogrb.2020.03.033.   \n[46] MELO P,GEORGIOUE X,HEDDITCH A,et al.External cephalic version atterm: a cohort studyof 18 years' experience[J]. BJOG. 2019,126(4):493-499. DOI: 10.1111/1471-0528.15475.   \n[47]American College of Obstetricians and Gynecologists' Commitee on Practice Buletins-Obstetrics.Practice Buletin No.161:Extermal Cephalic Version[J].ObstetGyecol.2016,127(2):e54-e61.DOI:10.1097/AOG0000000001312.   \n[48]CLUVER C, GYTE G M,SINCLAIR M,et al. Interventions for helping to turn term breech babies to head first presentation when using external cephalic version[J]. Cochrane Database Syst Rev.2015,(2):CD00184.DOI: 10.1002/14651858.CD000184.pub4.   \n[49]邓新琼,覃晓慧,廖滔等.足月单胎臀位外倒转术的可行性及影响因素分析[J].中国妇幼保 健,2017,32(11):2476-2479. DOI: 10.7620/zgfybj.isn.1001-4411.2017.11.72. DENG X Q, QIN X H,LIAO T, et al. Feasibilityand influencing factors of full-term singleton breech inversion[J]. Maternal and Child Health CareofChina,2017,32(11):2476-2479.DOI: 10.7620/zgfybj.j.iss.1001-4411.2017.11.72. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[50]李海冰,方昕,赵青松等.椎管内镇痛对孕妇臀位外倒转术的辅助疗效[J].上海交通大学学报(医学",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "版),2016,36(01):89-92.D01: 10.3969/j.issn.1674-8115.2016.01.018. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "LI H B，FANG X， ZHAO Q S,et al. Assistant therapeutic effect of external cephalic version under intrathecal anesthesiaforbreech positionpregnantwomen[J]. Journal ofShanghai Jiaotong University(Medical Science),2016,36(01):89-92. DO1: 10.3969/j.issn.1674-8115.2016.01.018. ",
+        "page_idx": 17
+    }
+]

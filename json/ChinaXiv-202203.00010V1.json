@@ -1,0 +1,292 @@
+[
+    {
+        "type": "text",
+        "text": "低社会经济地位影响自我调节的神经机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡小勇 杜棠艳 李兰玉 王甜甜",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（西南大学心理学部,西南大学人格与认知教育部重点实验室，重庆400715）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要自我调节是个体为了实现目标并适应不断变化的环境而监控和调节自己的认知、情绪和行为的能力，在成就、人际交往和健康等各个领域发挥着作用，被视为是人类成功和幸福的关键。然而，大量研究发现个体的社会经济地位越低，自我调节能力越差。为了提高低社会经济地位者的自我调节能力，必须深入考察低社会经济地位影响自我调节的机制。神经科学为此提供了独特而重要的信息：低社会经济地位改变了背外侧前额叶皮层、扣带回、腹内侧前额叶、杏仁核、海马体、腹侧纹状体的结构和功能，进而影响了自我调节的各个成分(认知调节、情绪调节、行为调节)。未来研究除了对神经机制中每条因果链进行更严格地考察外，还应将神经生物学与发展心理学联系起来深入揭示不同发展阶段低社会经济地位对自我调节的独特影响机制，并关注低社会经济地位者在神经和行为层面特定反应的适应性，在此基础上开发出系统、持续、有效的干预方案。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词低社会经济地位，认知调节，情绪调节，行为调节，神经机制",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在扎实推动共同富裕的历史阶段，低收入群体是促进共同富裕的重点帮扶保障人群(习近平，2021)。如何提升低收入群体的自我发展能力则是实现共同富裕的重要途径(王一鸣，2021)。自我发展能力中一项核心能力是自我调节能力；它对个体发展强大而广泛的影响，在成就、人际交往和健康等各个领域发挥着作用，既促进积极行为，又防止不良行为，被视为是人类成功和幸福的关键(Hare et al.,2009)。提升低收入群体的自我调节能力，有利于增加人力资本，提高收入，降低医疗保健成本，进而有利于共同富裕的实现。然而，大量研究显示，社会经济地位影响了个体的自我调节能力(Lawson et al.,2018; Raver et al.,2013;Roy et al.,2014;Yuetal.,2020)。例如，与那些一直生活在贫困中的儿童相比，从贫困社区搬出来的儿童在小学高年级时，教师报告的自我调节能力和工作记忆、抑制控制和注意力转移的计算机任务中的表现显著提升；反之，那些在儿童早期或中期搬到贫困社区的小学高年级学生的自我调节能力则显著降低(Roy etal.,2014)。甚至，追踪研究表明，家庭社会经济地位越低，儿童自我调节发展越缓慢(Yu etal.,2020)。低社会经济地位不仅对儿童，还对青少年(Barch et al.,2021; Evans et al.,2013; Spielberg et al., 2015; Tomlinson et al.,2020)、成年人(Elsayed et al.,2021; Shaked et al.,2018; Jachimowic et al.,2017)、中老年人(Beck et al.,2018;Green et al.,1996)等不同年龄个体的自我调节能力都产生了负面影响。而要提高低社会经济地位者的自我调节能力必须深入考察低社会经济地位影响自我调节的机制。由于大脑是环境影响个体心理和行为的主要通道，神经科学方法能观察到特定的行为、认知和情感大脑过程进而提供独特的信息，有着不可取代的作用(Farah,2017)。因此，本文拟从认知神经科学角度，尝试对“低社会经济地位是如何影响自我调节的”这一问题予以回答。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1自我调节 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自我调节(self-regulation)是个体为了实现目标并适应不断变化的环境而监控和调节自己的认知、情绪和行为的能力(Berger et al.,2007;Vink et al.,2020)。这意味着自我调节是一种旨在实现广泛功能领域目标的行动能力，它超越简单的冲动控制，并显示出对情境需求和社会规范的灵活性和适应性(Raver,2012)。该定义指出了自我调节包括认知、情感和行为三个成分。认知调节是指在没有行为或情绪调节的情况下，以目标为导向的认知过程的调整(Nigg，2017)，它通常包括执行功能的三个成分一抑制控制、工作记忆和认知灵活性(Fricket al.,2018)。情绪调节是指个体用来影响情绪反应的发生和特征的能力，包括积极管理强烈和不愉快的情感，并在情绪唤起的情况下产生适应性功能；情绪调节的策略有认知重评、表达抑制和注意分散等(Gross,2014)。行为调节指的是对以目标为导向的外显身体行为的优化；也就是将注意力、工作记忆、抑制性控制等多个方面与运动或言语功能进行无缝协调，以产生明显的行为，包括遵守规则、延迟满足、持续性、冲动控制、冲突解决、制定积极的应对策略等(Malanchini et al.,2019; Nigg,2017)。认知调节、情绪调节、行为调节是构成自我调节不同但又彼此相关的成分(Blair et al.,2015; Edossa et al.,2018;Langner et al.,2018)。三者属于自我调节的不同维度，彼此独立(Hammer et al.,2015;Kalpidou et al.,2004)；但又彼此相关、相互影响(Chen & He,2021; Howard & Melhuish,2017; Lantrip & Huang,2017;McNeilly et al.,2021; Noda et al.,2020)。行为调节是认知调节和情绪调节在相互关联的平衡中发挥作用的结果(Lewis& Todd,2007)。具体来说，个体调节情绪的效价和唤醒度，以促进执行功能在目标导向行动中更好地发挥作用(Ursache et al.,2012)。例如，儿童通过习得调节情绪和压力的策略及课堂规则，变得更善于调节无聊或沮丧，这有助于执行功能的激活和使用；执行功能正常发挥作用反过来又促进了情绪和压力的调节，产生了积极的循环，使孩子们在完成任务、抑制不适当的行为方面变得更好(Ursacheetal.,2012)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2低社会经济地位影响自我调节",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大样本的横断调查、纵向研究、现场实验研究，乃至实验室实验研究发现，社会经济地位显著影响自我调节的各个方面。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大量相关研究显示社会经济地位越低，个体自我调节能力越低。在一项探讨低家庭收入与执行控制(执行功能的核心部分)之间关系的研究中，Ruberry 等人(2017)以 118 名不同家庭收入的学龄前儿童为被试，测量了与收入相关的压力源-累积风险和财务安全，并采用包含六个任务的神经生理成套测验(如日-夜任务、头-脚趾-膝盖-肩膀任务等)和两个计算机化的任务(青蛙/鱼任务和Flanker任务)来测量执行控制。结果发现家庭收入与执行控制任务表现呈正相关，来自低收入家庭的学龄前儿童执行控制表现较差。此外，在情绪调节领域的相关研究也得到了类似结论。例如，父母报告的数据显示，与高社会经济地位儿童相比，低社会经济地位儿童在童年早期到中期过渡中，一直在与悲伤、担忧和戒断感作斗争；在情绪调节过程(包括对威胁的注意偏差，对面部情绪的评价，以及消极情感)中，低社会经济地位儿童在对中性刺激和威胁刺激的定位和集中注意力的能力，以及准确评估面部信息的能力上显著低于高社会经济地位家庭儿童(Raver et al.,2017)。在行为调节领域的相关研究中，相对富裕环境中长大的人，在贫穷环境中长大的人倾向于关注当下，时间折扣率高(Mittal&Griskevicius,2016)。经济压力的增加与延迟满足的发展显著负相关(Duran et al,2020)。例如，一项大样本的研究使用了42863名英国成年居民作为被试，考察了社会阶层与跨期决策的关系。研究者使用单题选择范式作为跨期决策的测量指标，如“3天后获得45英镑和3周后获得70英镑”。结果发现低社会经济地位者更偏好选择“3天后获得 45英镑”(Reimers et al., 2009)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "追踪研究证据揭示低社会经济地位对自我调节的影响。在一个历时四年的追踪研究中，研究者为了考察低社会经济地位与儿童执行功能之间关系，研究者以来自低收入家庭的1259 名儿童为被试，从出生开始，然后在7、15、24、36、48个月时进行追踪研究。用收入-需求比、经济压力和住房质量来衡量社会经济地位及相关的风险；用跨度工作记忆任务、空间冲突抑制控制任务和项目选择注意灵活性任务来测量执行功能。结果发现，处于低社会经济地位年数较长的儿童在执行功能任务中表现更差(Blair& Raver,2012)。在另一项历时六年的追踪研究进一步验证了该研究结论。研究者以602名低社会经济地位儿童为被试，通过6年追踪来考察原来所在社区和搬家后社区的社会经济地位水平对五年级学生自我调节的影响；结果发现，在控制住基线自我调节水平，即学龄前所测的“自我调节评估”分数之后，经历过搬迁的儿童在五年级时使用计算机化的执行功能任务中表现较差，教师评定的自我调节技能得分较低；尤其是，搬迁到社会经济地位水平更低社区的儿童，自我调节水平更低(Roy et al.,2014)。此外，一项以学龄前儿童为样本的纵向研究 $\\scriptstyle ( \\mathrm { n } = 3 0 6 )$ 也发现，低收入能预测较差的执行控制(执行功能的核心部分)(Lengua et al.,2020)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验研究进一步证明低社会经济地位与自我调节之间的因果关系。现场实验研究发现，社会经济地位显著影响执行功能。Mani等人(2013)在《科学》(Science)杂志发文指出以完成 Stroop 任务的表现作为执行功能的指标时，印度种甘蔗农民的执行功能在甘蔗收获之前(贫困状态)和甘蔗收获之后(相对富足状态)存在显著差异。印度甘蔗农收入来源于一年一次的甘蔗的收成，在收割甘蔗前他们基本处于相对贫困状态，而在收割甘蔗后他们处于相对富足状态。随机选取一批印度甘蔗农作为被试，在甘蔗收割前和收割后分别完成两次Stroop 任务结果表明，相对于收割甘蔗后的富足状态而言，在收割甘蔗前，被试在 Stroop任务中的反应时更长，错误率更高，表明贫困显著负向影响执行功能。Shah 等人(2019)通过实验研究验证了类似的结论。研究者通过分配不同的预算数目来确定贫穷者与富裕者，然后进行实验游戏，“贫穷者”默认的游戏次数较少，而“富裕者”默认的游戏次数较多，每轮游戏被试都可以获得一些分数。当研究者告知被试可以从未来的游戏轮次中借贷玩游戏的次数时，“贫穷者”会大量地借贷后面的游戏次数，且游戏表现较差。在另一项研究中，同样通过分配不同的预算数目来确定贫穷者与富裕者，然后要求被试做出一系列购买决策。结果发现预算较少的被试在之后测量行为控制的握手柄和 Stroop 任务中表现较差(Spears,2011)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3低社会经济地位影响自我调节的神经机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "低社会经济地位会通过改变为自我调节提供基础的神经系统以及生理应激相关过程来塑造自我调节的发展(Blair& Raver,2012)。研究发现，相对于富足家庭的儿童，物质资源匮乏家庭的儿童的额叶、颞叶皮质和海马体的灰质体积较小(Hair et al.,2015)。前额叶皮质萎缩导致执行功能水平降低，海马体的减少影响了情绪调节(Kim et al.,2013)。此外，与高社会经济地位者相比，在低社会经济地位者的杏仁核、海马体和前额叶皮质中发现了丰富的糖皮质激素受体，糖皮质激素过量暴露可能会影响神经可塑性，改变这些区域的大小和神经元结构，从而影响随后的认知、情绪和行为调节(McEwen& Morrison,2013)。下面将从认知调节、情感调节和行为调节三个方面来阐述社会经济地位影响自我调节的神经机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1低社会经济地位影响认知调节的神经机制",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前研究表明，在社会经济地位影响认知调节过程中有两个脑区相对独立地起作用(Palacios-Barrios& Hanson,2019)。第一，额顶网络。随着情境中相关线索的开始、变化和停止，前顶叶控制网络启动注意控制，然后在逐个事件基础上整合反馈。这种网络的完整性对快速适应性控制至关重要，涉及背外侧前额叶皮层(dIPFC)、楔前叶和部分下顶叶(Petersen&Posner,2012)。第二，带状盖网络。该网络可以提供“稳定的集合控制”，被认为是维持任务相关目标的关键，包括背侧前扣带皮层(dACC)、前岛叶/盖(AI)和丘脑。当前，额顶网络中的dIPFC 和带状盖网络中的dACC 是被大量研究证实的社会经济地位影响认知调节的神经机制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，在额顶网络中，低社会经济地位影响dIPFC 的结构和功能，进而影响认知调节。低社会经济地位与前额叶皮质的成熟受损有关，前额叶皮质的长期发育过程使其特别容易受到慢性应激环境的影响。HPA 轴的慢性激活通过糖皮质激素受体影响前额叶组织体积和功能。从结构上看，个体的社会经济地位越低，其执行功能相关脑区表面积越小，其前额叶体积也越小(Noble et al.,2015；Taylor et al.,2020)。一项以执行功能作为认知调节指标的神经生理机制研究发现，低社会经济地位者较差的执行功能与较小的dIPFC 体积之间紧密相关(Noble et al.,2015)。在多项研究中也发现了类似的模式(Hair et al.,2015;Rosen et al,2018)。甚至有研究直接表明，dIPFC 的体积在低社会经济地位与认知调节(执行功能和工作记忆)关系之间起到中介作用(Shaked etal.,2018; Taylor etal.,2020)。低社会经济地位导致较小的 dIPFC 的体积，进而导致认知调节(执行功能和工作记忆)失败的后果是青春期个体有更多的外化行为和酗酒行为(Pfefferbaum etal.，2016)；有更多患有多动障碍或行为障碍(Shaw etal.,2013)。从功能上看，低社会经济地位使得个体在完成认知调节相关任务时dIPFC 激活水平显著降低；dIPFC 的激活水平可能反映低社会经济地位影响了个体开始、停止和改变行为时发生的不同的执行功能过程(Palacios-Barrios& Hanson,2019)。例如，有研究者设计了适合于功能磁共振的实验任务考察稀缺状态下个体完成认知调节任务的神经机制，结果发现相比较于富足状态，稀缺状态下个体在完成工作记忆与任务转换等相关认知调节任务时，dIPFC 的激活水平显著降低(Huijsmans et al.,2019)。此外，多模态神经成像发现，来自低社会经济地位家庭的6\\~19 岁年轻人在工作记忆任务中表现较差，任务期间dIPFC 的功能激活较低，连接dIPFC和顶叶部分的白质纤维束各向异性(Fractional",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Anisotropy,FA)值较低；FA 值是一种结构完整性的度量，白质纤维束FA 值较低意味着dIPFC 和顶叶部分脑区的连通有效性受损(Rosenetal.,2018)。这些证据表明，低社会经济地位通过影响dIPFC激活水平以及与其它脑区连通有效性影响了个体的认知调节能力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，在带状盖网络中，低社会经济地位还通过影响dACC 的结构与功能影响认知调节。在 283名儿童和青少年的样本中，观察与认知调节有关的脑区发现，低社会经济地位与 dACC 厚度的减少有关(Laws0n etal.,2013)。以11875名9岁和 10岁的儿童横断研究结果表明，包含dACC 在内的前额叶体积在低社会经济地位与认知调节(Flanker 任务表现作为测量指标)之间起到中介作用(Taylor et al.,2020)。以3至5岁儿童进行 17 年的纵向追踪研究发现，包含dACC 在内的前额叶体积随着年龄增长的斜率水平在低社会经济地位与认知调节(Flanker 任务、工作记忆等作为测量指标)之间起到中介作用(Barch et al.,2021)。这些证据表明低社会经济地位通过影响dACC 的结构影响认知调节。在功能方面，早期使用ERP 的进行选择性注意实验发现，高社会阶层家庭的儿童在目标刺激出现时，dACC 附近表现出更高的脑电活动，而在分心刺激出现时，表现出更低的脑电活动；相比之下，来自低社会经济地位家庭的儿童在面对不同的刺激时，dACC 附近都表现出同等水平的脑电活动，这表明在抑制控制上低社会经济地位儿童可能存在不足(D'Angiulli et al.,2008)。后来，功能磁共振成像(fMRI)的研究进一步明确，低社会经济地位与 dACC 激活水平减少以及抑制控能力降低有关(Barch et al.,2020; Biazoli et al.,2020;Dégeilh et al.,2020)。例如，考察655 名6\\~14岁儿童的脑自发活动低频振幅改变的功能磁共振成像研究发现，家庭阶层越低，dACC 激活水平越低(Biazoli et al.,2020)。另一项通过静息状态功能磁共振成像(rsfMRI)技术对167名3\\~5 岁的学龄前儿童进行的追踪研究发现，随着时间的推移，到青春期晚期(13\\~19 岁)低社会经济地位家庭青少年的 dACC 激活水平整体呈下降趋势(Barch et al., 2020)。此外，低社会经济地位导致dACC 与其它脑区之间的连通性水平降低。例如，社会经济地位越低的个体 dACC 与右侧杏仁核以及右侧海马体之间的连通性水平越低(Dégeilh et al.,2020)。然而，从发展的角度看，研究结论并不总是一致的。对低社会经济地位家庭的青春期孩子(11\\~13 岁)进行两年的纵向追踪研究表明，随着时间推移，低社会经济地位女孩dACC 激活水平增加，并且在抑制控制认知任务(Go/NoGo)表现糟糕(Spielberg et al.,2015)。导致低社会经济地位女孩抑制困难的原因可能是dACC-dIPFC 连通有效性显著降低，使得她们在完成认知调节任务时，需要更多dACC 代偿性补充，导致了更多的dACC 激活(Banich,2009;Spielberg etal.,2015)。这表明对于低社会经济地位家庭的女孩来说，青春期是一个脆弱的关键期，低社会经济地位对她们的神经发育有着独特的影响。虽然dACC 激活模式存在差异，但总体来看低社会经济地位通过影响额顶网络中的dIPFC 和带状盖网络中的dACC 的结构和功能，进而影响认知调节。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2低社会经济地位影响情绪调节的神经机制",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "大量证据表明，杏仁核、vmPFC 和海马体是低社会经济地位影响情绪调节过程中的三个关键脑区(Assari, 202O; Hanson et al., 2019; Palacios-Barrios & Hanson,2019; Merz et al.,2018)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "杏仁核位于颞叶前部，是一个信息处理中枢，参与对环境和社会挑战的生理和行为反应(Ledoux,2000; Shackman&Fox,2016)。低社会经济地位影响杏仁核的结构和功能，进而影响情绪调节。低社会经济地位能显著负向预测杏仁核的体积；低社会经济地位儿童和青少年的杏仁核体积较小(Hanson et al.,2015;Merz et al.,2018)。从功能上看，低社会经济地位影响人们在情绪调节任务中杏仁核的激活水平。童年低社会经济地位的个体，在成年后，面对恐惧的情绪线索时，杏仁核的激活水平较大；相反，童年高社会经济地位的个体，在成年后，面对快乐的情绪线索时，杏仁核的激活水平较大(Javanbakht et al.,2015)。此外，低邻里收入也与杏仁核对负性情绪面孔的高水平反应相关，这可能意味着来自低社会经济地位家庭的个体在童年时期由于暴露于不利的社会环境而对威胁线索的敏感性和警惕性更强，使得其杏仁核激活水平更高(Assari，2020;Kim et al.,2013)。杏仁核较小的体积和较高的功能反应性导致个体有更多的攻击行为，因为过度警惕和杏仁核活动增加有关，这可能会导致更大的负面影响和敌意的推断，使个体有更多的攻击行为反应(Gard etal.,2017;Dotterer et al., 2017)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "腹内侧前额叶皮质(vmPFC)优先参与监测持续的情绪状态，对刺激进行语义编码，并根据情境执行调节策略(Dixon et al.,2017)。低社会经济地位影响 vmPFC 的结构和功能，进而影响情绪调节。研究显示，低社会经济地位导致了vmPFC 结构改变。例如，收入与vmPFC 体积呈显著正相关(Webb,2020)；童年社会经济地位较低的个体呈现出较低的 OFC体积，OFC 属于 vmPFC 的一部分(Holz etal.,2015)。与此相关的是，研究发现，在儿童中期暴露于低社会经济地位之中的个体，连接vmPFC 和杏仁核的白质束FA 值减少，表明低社会经济地位导致连接 vmPFC 和杏仁核的白质束的完整性降低(Dufford & Kim,2017)。就功能而言，一些研究已经观察到，儿童低社会经济地位会改变默认模式网络(DMN；一种大脑区域网络，包括 vmPFC 和其他在静息态时相互作用的 PFC 区域)的连通性。例如，在控制当前收入、种族、感知社会地位和抑郁/焦虑症状的情况下，9岁时的低社会经济地位经历与成年后DMN连通性降低有关(Sripadaet al.,2014)。在婴儿样本中验证了上述结论，家庭低社会经济地位导致发育早期的 DMN 连通性水平降低(Gao etal.,2015)。此外，童年期低社会经济地位与15 岁时杏仁核-vmPFC 之间静息状态耦合较低有关(Hanson et al.,2019)。低社会经济地位与奖赏任务的正反馈期间dACC-vmPFC 和 dIPFC-vmPFC 的连接减少有关(Gianaros et al.,2011)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，低社会经济地位会导致个体海马结构和功能的改变，而这种差异可能是由于下丘脑一垂体一肾上腺(HPA 轴)和皮质醇引起的(Hermanet al.,2005)。持续升高的 HPA 轴活性可能导致海马和其他脑区的树突重塑和神经元死亡(McEwen& Tucker,2011)。例如，Hanson 等(2011)发现，在317名4\\~18岁的年轻人中，社会经济地位越低，海马体的体积越小。这种差异在大量不同被试群体中得到重复验证，甚至，这种差异早在5周大婴儿中就出现了(Betancourt et al.,2016)。Hair 等人(2015)利用纵向核磁共振成像技术，在 4\\~22 岁的样本中构建了结构增长模型，发现低社会经济地位青少年海马体积比样本的发育正常值低3\\~4 个百分点，低社会经济地位儿童海马体积比正常值低8\\~10个百分点。低社会经济地位还与在所有发育阶段中海马体的功能偏离有关。一个纵向研究发现，学龄前较低的收入-需求比与学龄期海马和杏仁核之间的静息状态功能性连接减少有关；学龄前低收入-需求比与学龄期更多的负性情绪和抑郁严重程度相关，而且这种关系是以左海马-右额叶上皮层静息态功能连接为中介的(Barch et al.,2016)。在任务态的功能性磁共振研究显示，9 岁时收入-需求比较低的成年人在情绪调节任务中海马的整体激活水平降低(Liberzonetal.，2015)。这些结果表明，低社会经济地位影响情绪调节的神经回路，揭示了低社会经济地位影响自我调节的特定大脑机制(Palacios-Barrios&Hanson,2019)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3低社会经济地位影响行为调节的神经机制",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前研究表明，腹侧纹状体(ventral striatum，VS)可能是低社会经济地位影响行为调节的生理基础。首先，从结构上看，低社会经济地位导致VS 所处的广泛脑回路中的组织异常。一项对1082名3\\~21岁的年轻人进行的横向研究发现，较低的家庭收入与右上皮质-纹状体束中较低的 FA 值有关，后者是连接部分VS 和 PFC 亚区的白质束(Ursache& Noble,2016)。这些模式与最近的研究结果相吻合，例如，在一个6\\~19 岁的年轻人样本中，低社会经济地位与包含VS 的白质束的FA值减少相关；这意味着低社会经济地位者对奖励信息的处理效率较低，这可能会影响对行为具有适应性的指导，即影响了行为自我调节(Dennison etal.,2019)。从功能上看，VS 对奖励动机至关重要，该区域支持奖励敏感性和学习，VS 根据奖励的不同维度(包括幅度、概率、努力和延迟)显示出活跃性。大量研究发现，低社会经济地位者较高的VS 激活水平导致其做出冲动行为、成瘾和破坏性行为(Alegria et al.,2016; Dalley& Robbins,2017; Hariri et al.,2006; Water et al.,2017)。此外，低社会经济地位导致VS 和其它大脑区域之间存在异常的功能性连接。例如，Romens 等(2015)在一个 5\\~16 岁的女孩样本中发现，一个孩子的家庭接受公共援助的总年数与期望奖赏时mPFC 激活水平的增加有关。与之相关，在控制了人际交往问题和内化症状后，社会经济地位越低 dIPFC-VS 在静息态下的联通水平越弱；dIPFC-VS 静息态联通性水平越若，低社会经济地位者的冲动决策行为越多(Holmes et al.,2020;Marshall et al.,2018)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "虽然行为调节、认知调节和情绪调是自我调节三个不同领域，但它们之间相互关联(Blair et al.,2015;Edossa et al.,2018)。行为调节是在认知调节和情绪调节在相互关联的平衡中发挥作用的结果，低社会经济地位影响行为调节的脑机制可能也涉及到与认知调节和情绪调节相关的脑区。例如，Oshri 等(2019)考察长期暴露于社会经济困境与冲动行为之间的认知和情感机制的研究表明，工作记忆任务所激活的大脑区域(认知控制网络)的反应降低中介了低社会经济地位与冲动行为之间的关系，并且这一中介效应仅在情绪反应较高的成年人中出现。情绪反应较高表明个体可能未能成功地调节情绪，执行功能未能正常发挥作用，此时低社会经济地位通过降低认知控制网络的激活水平促进了冲动行为的发生。该证据表明，低社会经济地位可以通过影响认知调节和情绪调节相关脑区来影响行为调节。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上所述，有研究者进一步提出了自我调节的神经环路，认为前额叶、杏仁核以及腹侧纹状体三者形成了一个神经网络，负责自我调节活动，同时海马与中脑腹侧盖区也起到一定的调控作用(Casey,2015)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4 小结与展望 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上可知，低社会经济地位与自我调节关系研究在近二十年来取得了巨大进展，不同学科研究者们正在开始回答低社会经济地位影响自我调节发生“在哪里”(在大脑中)的问题。从这些研究中可以看出，低社会经济地位改变了与注意力、情感、奖励和记忆有关的各种神经生物学中枢，即改变了背外侧前额叶皮层(dIPFC)、背侧前扣带回(dACC)、腹内侧前额叶(vmPFC)、杏仁核(amygdala)、海马体(hippocampus)、腹侧纹状体(ventral striatum,VS)的结构和功能。这些神经生物学变异影响了自我调节各个成分(认知调节、情绪调节、行为调节)。为了使该领域研究发现真正发挥实践和政策层面价值，未来研究应从如下方面加强：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第一，从“低社会经济地位一大脑的结构与功能一自我调节一不良后果”的潜在“因果链”的每一步都迫切需要更多的研究予以深入考察。现有研究主要在大脑结构、功能或连通性方面比较了低社会经济地位和高社会经济地位者的大脑差异，然后讨论了低社会经济地位导致脑结构与功能的差异及可能的后果。然而，低社会经济地位者的特定反应方式(大脑结构与功能差异)并非均会导致不良后果。一些证据表明，虽然低社会经济地位者与高社会经济地位者对相同的刺激有不同的内在反应方式，但他们的行为表现(任务正确率和反应时)并无差异(D'Angiulli et al.,2008; Moriguchi & Shinohara,2019; Kim et al.,2013)。甚至,有研究发现在执行功能任务中，与非弱势群体相比，弱势儿童在抑制和解决问题方面得分较高(Ibanez-Alfonso et al.,2021)。并且，低社会经济地位者并非更加冲动、短视，当威胁消失，他们也表现出更多的耐心(Jachimowicz et al.,2017; Liu et al.,2016; Ong et al.,2019;Thompson et al.,2020)。此外，低社会经济地位导致大脑结构与功能差异可能只是适应的结果。例如，低社会经济地位儿童和青少年右外侧前额叶皮层(RLPFC)厚度与推理能力呈正相关，而对于高社会经济地位儿童和青少年来说，这种关系则不存在(Leonard et al.,2019)。对于低社会经济地位青年来说，基底外侧杏仁核-vmPFC 的静息态功能连接减少与较少的焦虑相关；对于高社会经济地位的青年来说则有着相反的模式(Ramphal et al.,2020)。结合以上证据，可以认为低社会经济地位者某些所谓的“缺陷”或许只是适应环境而造成的差异而已，他们的特殊经历塑造了特殊的反应方式，而不是“缺陷”与“正常”之分，只是展现了人类的多样性(Nketiatal.,2021)。此外，更需要注意的是，低社会经济地位对自我调节的影响及其神经机制有着复杂的作用路径。在低社会经济地位影响自我调节相关的脑区的过程中，产前因素、亲子互动和家庭环境中的认知刺激(Hackman et al.,2010)，压力(Brito & Noble,2014； Tian et al.,2021； Zhu et al.，2019)起到中介作用；对父母的依恋水平则起到调节作用，较高的父母依恋水平减轻了童年早期低社会经济地位所导致的vmPFC 体积减少对行为调节的影响(Zheng et al.,2022)。然而，现有研究仅涉及这些单一因素起作用的过程，因此未来需要更多的研究在对每条路径予以明确的基础上构建完整的机制模型。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第二，需要将神经科学与发展心理学深入地联系起来揭示不同发展阶段低社会经济地位对自我调节的独特影响机制。自我调节很可能是分层发展的，基本的、较低层次的成分（如工作记忆、注意力、反应抑制)构建成更复杂的、较高层次的成分(如认知灵活性、转换、推理)(Diamond et al.,2013)。在特定的发展阶段处于低社会经济地位可能会对自我调节的不同方面产生独特的影响。有证据显示，低社会经济地位儿童6岁时在选择性注意任务上的表现比同龄人差，但这往往会随着年龄的增长，到青少年时期，这种差异就消失了(Lupienet al.,2001)。除此之外，大脑可能会受到社会阶层通过持续变化或仅在某一个点上通过阶跃函数影响大脑。在神经生物学方面，研究人员比较了极端人群（“穷”与“不穷”），也考察了与连续的社会阶层变化与自我调节之间关系，但哪些自我调节的大脑回路与低社会经济地位是呈现“阶跃函数”关系，哪一些可能与社会阶层持续相关还不明确。这就需要未来的研究中通过加强发展心理学和低社会经济地位的神经生物学研究之间的联系来解决这一问题。考虑重要神经回路中的变化如何适应跨时间框架、分析水平和环境的发展过程的动态相互作用是很重要的，因为它能深入地揭示低社会经济地位影响自我调节的社会心理过程以及神经生物学过程中的核心机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第三，从长期来看，促进低社会经济地位者自我调节能力是提升人力资本的关键，是实现共同富裕的核心，未来研究应在机制研究的基础上开发系统、持续、有效的提升自我调节干预方案。近一二十年来，研究者们开发了一些旨在利用认知神经科学最近发展的概念和方法来改善低社会经济地位儿童的自我调节能力的干预方案。例如，在实验室干预层面，研究者们开发了旨在训练不同的认知控制过程的电脑游戏(例如专门开发的 Go/No Go任务游戏)来提升低社会经济地位儿童的认知调节能力(Ballieux et al.,2016; Blakey et al.,2020;Goldin et al.，2014)。在学校层面的干预中，研究发现通过认知训练(伦敦塔任务进行计划训练、组块任务进行工作记忆训练、Stroop 任务进行抑制控制训练)加营养剂补充铁和叶酸能显著提高 4\\~6 岁的低社会经济地位儿童的注意、工作记忆和规划处理能力(Segretinet al.,2014)。此外，教师提供积极的学业支持也能显著提升低社会经济地位家庭的儿童和青少年执行功能(Piccolo et al.,2019)。在家庭干预方面，研究显示家庭检查方案(FamilyCheck-Up)通过安排家长与专业顾问探讨担忧，并重点解决对儿童发展起关键作用的家庭问题，有效提高了儿童的自我调节能力(Chang et al.,2014)。在社区干预层面，研究发现通过增强社区信任，使低社会经济地位者相信社区能缓冲其财务需要，有效减少了低社会经济地位者的冲动行为(Jachimowicz et al.,2017)。然而，近来研究者们认为，应该抛弃关于低社会经济地位者本身存在缺陷，干预是为了减少或修复损伤的观点，而应从适应的角度发掘低社会经济地位者的适应性反应和优势反应(Ellis et al.,2017)。例如，在经济不确定的实验环境中，低社会经济地位者的注意力转移能力显著增强(Mittal etal.,2015)；在奖励导向问题情境中，低社会经济地位家庭儿童问题解决能力显著增强(Suor et al.,2017)。因此，未来干预研究应重点关注低社会经济地位者的这些“隐藏的才能”，使课堂环境、教学策略和工作培训的设计更好地适应低社会经济地位者的需求和潜力，在政策和实践中加以利用，进而充分发挥其潜力。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n王一鸣． (2021)．扩大中等收入群体促进共同富裕．中国政协， (17)，46-47.   \n习近平.(2021)．扎实推动共同富裕．求是, (20)，4-8.   \nAlegria,A., Radua, J.,& Rubia, K. (2016). Meta-analysis of fMRI studies of disruptive behavior disorders. The American Journal of Psychiatry, 173(11),1119-1130.   \nAssari， S. (202O). Neighborhood poverty and amygdala response to negative face. Journal of Economics and Public Finance, 6(4),67-85.   \nBallieux,H.,Wass,S.V.,Tomalski,P., Kushnerenko,E.,Karmiloff-Smith,A., Johnson,M.H.,& Moore, D.G. (2O16). Applying gaze-contingent training within community setings to infants from diverse SES backgrounds. Journal of Applied Developmental Psychology, 43,8-17.   \nBanich，M. T. (2Oo9). Executive function: The search for an integrated account. Current Directions in Psychological Science, 18(2), 89-94.   \nBarch,D. M., Pagliaccio,D., Belden, A., Harms,M. P., Gaffrey, M., Sylvester, C. M.,..& Luby, J. (2016).Effect of hippocampal and amygdala connectivity on the relationship between preschool poverty and school-age depression. American Journal of Psychiatry, 173(6), 625- 634.   \nBarch,D.M., Shirtcliff,E.A.,Elsayed, N.M.,Whalen, D.J., Gilbert, K.E., Vogel, A.C., Tillman,R, & Luby， J.L. (2O2O). Testosterone and hippocampal trajectories mediate relationship of poverty to emotion dysregulation and depression. Proceedings of the National Academy of Sciences, 117(36),22015-22023.   \nBarch,D.M., Donohue,M.R., Elsayed, N. M., Gilbert, K., Harms,M. P., Hennefield,L.,... & Luby,J.L. (2O21).Early childhood socioeconomic status and cognitive and adaptive outcomes at the transition to adulthood: The mediating role of gray matter development across 5 scan waves. Biological psychiatry. Cognitive Neuroscience and Neuroimaging, 7(1), 34-44.   \nBeck,A., Franz, C.E., Xian, H., Vuoksimaa, E., Tu, X., Reynolds, C.A.,.. & Kremen,W. S. (2018). Mediators of the effect of childhood socioeconomic status on late midlife cognitive abilities: A four decade longitudinal study. Innovation in Aging,2(1), igy003.   \nBerger,A.， Kofman, O.，Livneh，U.，& Henik,A.(20O7). Multidisciplinary perspectives on attention and the development of self-regulation. Progress in Neurobiology, 82(5),256-286.   \nBetancourt,L.M.,Avants,B.,Farah,M.J.,Brodsky,N.L., Wu,J., Ashtari, M.,& Hurt, H. (2016). Effect of socioeconomic status(SES） disparity on neural development in female African-American infants at age 1 month. Developmental Science, 19(6), 947-956.   \nBiazoli, C.E.， Salum,G.A., Gadelha,A.，Rebello,K.，Moura,L.M.， Pan,P.M.，Brietzke,E., Miguel，E.C.， Rohde，L.A.，Bressan，R.A.， Jackowski， A.P.，& Sato，J.R.(2020). Socioeconomic status in children is associated with spontaneous activity in right superior temporal gyrus. Brain Imaging and Behavior, 14 (4), 961-970.   \nBlair, C.，& Raver, C. C. (2O12). Child development in the context of adversity: Experiential canalization of brain and behavior. American Psychologist, 67(4), 3O9-318.   \nBlair, C., Ursache,A., Grenberg,M.，& Vernon-Feagans,L. (2015). Multiple aspects of selfregulation uniquely predict mathematics but not letter-word knowledge in the early elementary grades. Developmental Psychology, 51(4), 459-472.   \nBlakey,E.,Mathews,D., Cragg,L., Buck, J., Cameron, D.,Higgins,B.,.. & Carroll, D.J. (2020). The role of executive functions in socioeconomic attainment gaps: Results from a randomized controlled trial. Child Development, 91(5), 1594-1614.   \nBrito，N. H.，& Noble，K. G. (2014). Socioeconomic statusand structural brain development. Frontiers in Neuroscience, 8,276.   \nCasey,B.J. (2O15). Beyond simple models of self-control to circuit-based accounts of adolescent behavior. Annual Review of Psychology, 66,295-319.   \nChang,H., Shaw,D.S., Dishion,T.J.,Gardner,F.,& Wilson,M.N.(2014).Direct and indirect effects of the family check-up on self-regulation from toddlerhood to early school-age. Journal of Abnormal Child Psychology, 42(7),1117-1128.   \nChen,J. I.,& He,T. S. (2O21). Discounting from a distance: The effect of pronoun drop on intertemporal decisions. Journal of Economic Psychology, 87, 102454.   \nDally, J.W.，& Robbins, T.W. (2O17). Fractionating impulsivity: Neuropsychiatric implications. Nature Reviews Neuroscience, 18(3),158-171.   \nD'Angiulli，A.，Herdman，A.， Stapells,D.，& Hertzman， C.(2008). Children's event-related potentialsof auditoryselectiveattention vary with theirsocioeconomicstatus. Neuropsychology, 22(3),293-300.   \nDégeilh, F. Beauchamp, M.H., Leblanc, E., Daneault, V.,& Bernier, A. (2020). Socioeconomic status in infancy and the developing brain: Functional connectivity of the hippocampus and amygdala. Developmental Neuroscience, 41(5-6), 327-340.   \nDennison, M.J.，Rosen,M.L.， Sambrook,K.A., Jenness, J.L.， Sheridan, M.A.,& McLaughlin, K.A.(2O19).Differential associations of distinct forms of childhood adversity with neurobehavioral measures of reward processing: A developmental pathway to depression. Child Development, 90 (1), e96-e113.   \nDiamond, A. (2013). Executive functions. Annual Review of Psychology, 64,135-168.   \nDixon,M.L.,Thiruchselvam,R.，Todd,R.，& Christoff,K.(2017).Emotion and the prefrontal cortex: An integrative review. Psychological Bulletin, 143(10),1033-1081.   \nDoterer,H.L.,Hyde,L.W., Swartz, J.R.,Hariri, A.R.,& Williamson,D.E.(2017). Amygdala reactivity predicts adolescent antisocial behavior but not callous-unemotional traits. Developmental Cognitive Neuroscience, 24, 84-92.   \nDufford, A. J.,& Kim, P. (2017). Family income,cumulative risk exposure,and white matter structure in middle childhood.Frontiers in Human Neuroscience,ll,1-13.   \nDuran,C.A., Cottone,E.,Ruzek,E.A., Mashburn,A.J.,& Grissmer,D.W. (202O).Family stress processes and children's self-regulation. Child Development, 91(2), 577-595.   \nEdossa, A.K., Schroeders, U. Weinert, S.,& Artelt, C. (2018). The development of emotional and behavioral self-regulation and their effects on academic achievement in childhood. International Journal of Behavioral Development, 42(2), 192-202.   \nEllis,B.J., Bianchi, J., Griskevicius, V.,& Frankenhuis,W.E. (2017). Beyond risk and protective factors: An adaptation-based approach to resilience. Perspectives on Psychological Science, 12(4), 561-587.   \nElsayed, N.M., Rappaport, B.I.,Luby, J. L.,& Barch, D. M. (2021). Evidence for dissociable cognitive and neural pathways from poverty versus maltreatment to deficits in emotion regulation. Developmental Cognitive Neuroscience, 49, 100952.   \nEvans, G. W.,& Kim, P. (2013). Childhood poverty, chronic stress, self-regulation, and coping. Child Development Perspectives,7(1), 43-48.   \nFarah,M.J. (2O17)． The neuroscience of socioeconomic status: Correlates， causes，and consequences. Neuron, 96(1), 56-71.   \nFrick，M.A.，Bohlin, G.，Hedqvist， M.，& Brocki, K.C.(2018). Temperament and cognitive regulationduring the first 3yearsoflife aspredictorsofinattentionand hyperactivity/impulsivity at 6 years.Journal of Attention Disorders, 23(11),1291-1302.   \nGao,W., Alcauter, S., Elton,A., Hernandez-Castillo, C.R., Smith, J. K., Ramirez, J.,& Lin, W. (2015).Functional network development during the first year: Relative sequence and socioeconomic correlations. Cerebral Cortex, 25(9),2919-2928.   \nGard,A.M., Waler, R. Shaw, D.S., Forbes, E.E., Hariri, A.R.,& Hyde, L.W. (2017). The long reach of early adversity: Parenting，stress,and neural pathways to antisocial behavior in adulthood. Biological psychiatry. Cognitive Neuroscience and Neuroimaging, 2(7),582-590.   \nGianaros,P.J., Manuck, S.B., Sheu, L.K., Kuan, D.C., Votruba-Drzal, E., Craig,A.E.,& Hariri, A.R. (2011). Parental education predicts corticostriatal functionality in adulthood. Cerebral Cortex, 21(4), 896-910.   \nGoldin, A.P., Hermida, M.J., Shalom, D.E.,Elias Costa, M.,Lopez-Rosenfeld, M., Segretin, M.S., Fernandez-Slezak, D., Lipina, S.J., & Sigman, M. (2O14). Far transfer to language and math of a short software-based gaming intervention. Proceedings of the National Academy of Sciences, 11(17), 6443-6448.   \nGreen,L., Myerson,J.,Lichtman,D.,Rosen, S.,& Fry,A.(1996). Temporal discounting in choice between delayed rewards: The role of age and income. Psychology and Aging,1l (1),79-84.   \nGross, J. J. (Ed.). (2014). Handbook of emotion regulation (2nd ed.). New York: Guilford Press.   \nHackman, D.A., Farah, M. J.,& Meaney, M. J. (2O1O). Socioeconomic status and the brain: Mechanistic insights from human and animal research. Nature Reviews Neuroscience, 11(9), 651-659.   \nHair, N.L., Hanson,J.L.,Wolfe,B.L.,& Pollak, S.D.(2015). Association of child poverty, brain development, and academic achievement. JAMA pediatrics,169(9), 822-829.   \nHammer, D., Melhuish,E.,& Howard, S. (2O15). The nature and importance of self-regulation in early childhood: Factor structure and predictive validity (p. 41). Abstract presented at the 17th European Conference on Developmental Psychology, Braga, Portugal.   \nHanson, J.,Albert, W. Skinner, A.T., Shen, S.H., Dodge, K.,& Lansford, J. (2019). Resting state coupling between the amygdala and ventromedial prefrontal cortex is related to household income in childhood and indexes future psychological vulnerability to stress. Development and Psychopathology, 31(1),1053-1066.   \nHanson, J. L., Chandra, A., Wolfe, B.L., & Pollak, S. D. (2011). Association between income and the hippocampus. PloS One, 6(5), e18712.   \nHanson, J. L., Nacewicz BM, Suttrer MJ, Cayo AA, Schaefer SM, Rudolph KD,.. Davidson RJ (2015).Behavior problems after early life stress: Contributions of the hippocampus and amygdala. Biological Psychiatry, 77(4), 314-323.   \nHare,T. A.，Camerer, C.F.，& Rangel, A. (2009). Self-control in decision-making involves modulation of the vmPFC valuation system. Science, 324(5927), 646-648.   \nHariri,A.R.,Brown, S.M., Williamson,D.E.,Flory, J.D.,De Wit, H.,& Manuck, S.B.(2006). Preference for immediate over delayed rewards is associated with magnitude of ventral striatal activity. Journal of Neuroscience, 26(51), 13213-13217.   \nHerman, J.P.,Ostrander, M. M.，Mueller, N. K.，& Figueiredo,H. (2005). Limbic system mechanisms of stress regulation: Hypothalamo-pituitary-adrenocortical axis. Progress in Neuro-Psychopharmacology and Biological Psychiatry, 29(8), 1201-1213.   \nHolmes, C., Owens, M.,Beach, S.R., McCormick, M., Hallowell,E., Clark, U. S.,..& Sweet, L. H.(202O). Peer influence，frontostriatal connectivity，and delay discounting in African American emerging adults. Brain Imaging and Behavior, 14(1),155-163.   \nHolz, N.E., Boecker, R., Hohm, E., Zohsel, K.， Buchmann, A.F., Blomeyer, D.，... Laucht, M. (2015).The long-term impact of early life poverty on orbitofrontal cortex volume in adulthood: Results from a prospective study over 25 years. Neuropsychopharmacology, 40(4), 996-1004.   \nHoward, S. J.，& Melhuish,E. (2017). An early years toolbox for assessing early executive function， language， self-regulation， and social development: Validity， reliability，and preliminary norms. Journal of Psychoeducational Assessment, 35(3),255-275.   \nHuijsmans,I.，Ma, I., Micheli, L., Civai, C.， Stallen, M.,& Sanfey,A.G. (2019). A scarcity mindset alters neural processing underlying consumer decision making. Proceedings of the National Academy of Sciences, 116(24), 11699-11704.   \nIbanez-Alfonso, J.A., Company-C6rdoba, R., Garcia de la Cadena, C., Sianes,A.,& Simpson, I.C. (2021). How living in vulnerable conditions undermines cognitive development: Evidence from the pediatric population of Guatemala. Children, 8, 90.   \nJachimowicz,J.M., Chafik, S., Munrat, S.,Prabhu,J.C.,& Weber,E. U.(2017). Community trust reduces myopic decisions of low-income individuals. Proceedings of the National Academy of Sciences, 114(21), 5401-5406.   \nJavanbakht, A., King, A.P.,Evans, G. W., Swain, J.E., Angstadt,M.,Phan, K.L.,& Liberzon, I. (2015). Childhood poverty predicts adult amygdala and frontal activity and connectivity in response to emotional faces. Frontiers in Behavioral Neuroscience, 9,154.   \nKalpidou, M. D., Power, T. G., Cherry, K. E.,& Gotfried, N. W. (2004). Regulation of emotion and behavior among 3- and 5-year-olds.The Journal of General Psychology, 131(2),159- 178.   \nKim, P., Evans, G. W., Angstadt, M., Ho, S. S., Sripada, C. S., Swain, J. E.，...& Phan, K. L. (2013). Effects of childhood poverty and chronic stress on emotion regulatory brain function in adulthood. Proceedings of the National Academy of Sciences, 110(46), 18442-18447.   \nLangner,R.，Leiberg， S.，Hoffstaedter, F.，& Eickhoff, S.B.(2018). Towards a human selfregulation system: Common and distinct neural signatures of emotional and behavioural control. Neuroscience and Biobehavioral Reviews, 90, 400-410.   \nLantrip, C.，& Huang,J. H. (2017). Cognitive control of emotion in older adults: A review. Clinical psychiatry (Wilmington,Del.),3(1), 9.   \nLawson, G. M., Duda, J.T.，Avants, B.B.， Wu, J.,& Farah, M.J. (2013). Associations between children's socioeconomic status and prefrontal cortical thickness. Developmental Science, 16(5), 641-652.   \nLawson, G. M., Hook, C.J.,& Farah, M. J. (2018). A meta-analysis of the relationship between socioeconomic status and executive function performance among children. Developmental Science, 21(2), e12529.   \nLeDoux, J.E. (20oo). Emotion circuits in the brain. Annual Review of Neuroscience,23,155-184.   \nLengua, L.J., Thompson, S.F., Moran, L. R., Zalewski, M., Ruberry, E. J., Klein, M.R.,& Kiff, C. J. (2O2O). Pathways from early adversity to later adjustment: Tests of the additive and bidirectional effects of executive control and diurnal cortisol in early childhood. Development and Psychopathology, 32(2), 545-558.   \nLeonard, J. A.,Romeo,R.R., Park,A. T., Takada, M. E., Robinson, S.T., Grotzinger, H.,.. & Mackey，A.P. (2O19).Associations between cortical thickness and reasoning differ by socioeconomic status in development. Developmental Cognitive Neuroscience, 36,100641.   \nLewis,M.D.,& Todd, R.M. (2O07). The self-regulating brain: Cortical-subcortical feedback and the development of intelligent action. Cognitive Development, 22(4), 406-430.   \nLiberzon,1., Ma, S.T., Okada, G., Ho, S.S., Swain, J.E.,& Evans, G.W. (2015). Childhood poverty and recruitment of adult emotion regulatory neurocircuitry. Social Cognitive and Affective Neuroscience, 10(11),1596-1606.   \nLupien, S. J., King, S., Meaney, M. J.,& McEwen, B. S. (2001). Can poverty get under your skin? Basal cortisol levels and cognitive function in children from low and high socioeconomic status.Development and Psychopathology, 13(3),653-676.   \nMalanchini, M., Engelhardt, L.E., Grotzinger, A.D., Harden, K.P.,& Tucker-Drob, E.M. (2019). \"Same but different\": Associations between multiple aspects of self-regulation, cognition, and academic abilities. Journal of Personality and Social Psychology, 117(6), 1164-1188.   \nMani,A., Mullainathan, S., Shafir, E.,& Zhao,J. (2013). Poverty impedes cognitive function. Science, 341(6149), 976-980.   \nMarshall, N.，Marusak, H.A.， Sala-Hamrick, K.J., Crespo, L.M.， Rabinak, C.A.,& Thomason, M.E. (2O18). Socioeconomic disadvantage and altered corticostriatal circuitry in urban youth. Human Brain Mapping, 39(5), 1982-1994.   \nMcEwen,B. S.,& Morrison,J. H. (2O13). The brain on stress: Vulnerability and plasticity of the prefrontal cortex over the life course. Neuron, 79(1),16-29.   \nMcEwen, B. S.,& Tucker, P. (2O11). Critical biological pathways for chronic psychosocial stress and research opportunities to advance the consideration of stress in chemical risk assessment. American Journal of Public Health, 101(S1), S131-S139.   \nMcNeilly, E.A., Peverill， M., Jung, J.，& McLaughlin, K.A. (2021). Executive function as a mechanism linking socioeconomic status to internalizing and externalizing psychopathology in children and adolescents. Journal of Adolescence, 89,149-160.   \nMerz, E.C., Tottenham, N., & Noble, K.G. (2018). Socioeconomic status, amygdala volume, and internalizing symptoms in children and adolescents. Journal of Clinical Child & Adolescent Psychology, 47(2),312-323.   \nMittal，C.，Griskevicius，V.， Simpson， J.A.， Sung，S.，& Young, E. S. (2015). Cognitive adaptations to stressful environments: When childhood adversity enhances adult executive function. Journal of Personality and Social Psychology， 109(4), 6O4-621.   \nMittal，C.，& Griskevicius，V. (2016). Silver spoons and platinum plans: How childhood environment affects adult health care decisions. Journal of Consumer Research, 43(4), 636- 656.   \nMoriguchi, Y., & Shinohara, I. (2O19). Socioeconomic disparity in prefrontal development during early childhood. Scientific Reports, 9(1),1-8.   \nNketia，J.，Amso，D.，& Brito，N.H. (2O21).Towards a more inclusive and equitable developmental cognitive neuroscience. Developmental Cognitive Neuroscience,101014.   \nNigg, J. T. (2017). Annual Research Review: On the relations among self-regulation, self-control, executive functioning， effortful control， cognitive control， impulsivity， risk-taking, and inhibition for developmental psychopathology. Journal of Child Psychology and Psychiatry, 58(4), 361-383.   \nNoble,K. G., Houston, S.M., Brito, N.H., Bartsch, H., Kan,E.,Kuperman, J.M.,..& Sowell,E. R. (2015). Family income, parental education and brain structure in children and adolescents. Nature Neuroscience, 18(5), 773-778.   \nNoda,Y., Barr, M. S., ElSalhy, M., Masuda, F., Tarumi, R., Ogyu, K.,..& Mimura, M. (2020). Neural correlates of delay discount alterations in addiction and psychiatric disorders: a systematic review of magnetic resonance imaging studies. Progressin NeuroPsychopharmacology and Biological Psychiatry, 99,109822.   \nOng,Q., Theseira, W.,& Ng, I.Y. (2019). Reducing debt improves psychological functioning and changes decision-making in the poor. Proceedings of the National Academy of Sciences of the United States of America, 116(15),7244-7249.   \nOshri, A., Hallowell, E.,Liu, S., MacKillop, J., Galvan, A., Kogan, S. M.,& Sweet,L. H. (2019). Socioeconomic hardship and delayed reward discounting: Associations with working memory and emotional reactivity. Developmental Cognitive Neuroscience, 37,100642.   \nPalacios-Barrios，E. E.，& Hanson， J.L. (2O19). Poverty and self-regulation: Connecting psychosocial processes， neurobiology，and the risk for psychopathology. Comprehensive Psychiatry, 90,52-64.   \nPetersen, S.E.,& Posner, M.I. (2O12). The atention system of the human brain: 2O years after. Annual Review of Neuroscience, 35,73-89.   \nPiccolo,L. R.， Merz, E. C., Noble, K. G.,& Pediatric Imaging, Neurocognition,and Genetics Study. (2O19). School climate is associated with cortical thickness and executive function in children and adolescents. Developmental Science, 22(1), e12719.   \nPfefferbaum, A., Rohlfing, T.,Pohl, K.M.,Lane,B., Chu, W., Kwon,D.,.. Sulivan, E.V. (2016). Adolescent development of cortical and white matter structure in the NCANDA sample: Role of sex, ethnicity, puberty, and alcohol drinking. Cerebral Cortex, 26(1O), 4101-4121.   \nRamphal, B., DeSerisy, M., Pagliaccio, D., Raffanello, E.,Rauh, V., Tau, G.,.. & Margolis,A. E. (2020). Associations between amygdala-prefrontal functional connectivity and age depend on neighborhood socioeconomic status. Cerebral Cortex Communications, I(1), tgaa033.   \nRaver, C. C. (2012). Low-income children's self-regulation in the classroom: Scientific inquiry for social change. American Psychologist, 67(8), 681-689.   \nRaver，C.C.， Blair, C.B.，& Willoughby,M.T. (2013). Poverty as a predictor of 4-year-olds' executive function: New perspectives on models of differential susceptibility. Developmental Psychology, 49(2), 292-304.   \nRaver, C. C.,Roy, A.L., Presler, E., Ursache,A. M.,& Charles McCoy, D. (2017). Povertyrelated adversity and emotion regulation predict internalizing behavior problems among lowincome children ages 8-11. Behavioral Sciences, 7(1),1-12.   \nReimers, S.,Maylor, E.A., Stewart, N.,& Chater, N. (2009).Associations between a one-shot delay discounting measure and age, income,education and real-world impulsive behavior. Personality and Individual Differences, 47(8), 973-978.   \nRomens, S.E., Casement, M.D., Mcaloon,R.,Keenan, K.E.,Hipwell, A.E., Guyer, A.E.,& Forbes, E.E.(2O15).Adolescent girls' neural response to reward mediates the relation between childhood financial disadvantage and depression. Journal of Child Psychology and Psychiatry, and Allied Disciplines, 56(11), 1177-1184.   \nRosen，M.L., Sheridan,M.A.， Sambrook, K.A., Meltzoff, A.N.,& McLaughlin, K.A. (2018). Socioeconomic disparities in academic achievement: A multi-modal investigation of neural mechanisms in children and adolescents. NeuroImage, 173,298-310.   \nRoy, A. L., McCoy, D. C.,& Raver, C. C. (2014). Instability versus quality: Residential mobility, neighborhood poverty， and children's self-regulation. Developmental Psychology， 50(7), 1891-1896.   \nRuberry,E.J.,Lengua,L.J.,Crocker, L.H., Bruce,J., Upshaw, M. B.,& Sommervile,J. A. (2017).Income，neural executive processes，and preschool children's executive control. Development and Psychopathology, 29(1), 143-154.   \nSegretin, M.S.,Lipina, S.J., Hermida, M.J., Sheffeld, T.D., Nelson, J.M., Espy, K.A., & Colombo, J.A. (2014). Predictors of cognitive enhancement after training in preschoolers from diverse socioeconomic backgrounds. Frontiers in Psychology, 5,205.   \nShackman,A.J., & Fox, A.S. (2016). Contributions of the central extended amygdala to fear and anxiety. The Journal of Neuroscience, 36(31), 8050-8063.   \nShah,A. K., Mullainathan, S.,& Shafir, E. (2O19).An exercise in self-replication: Replicating Shah, Mullainathan,and Shafir (2012). Journal of Economic Psychology, 75,102127.   \nShaked,D., Katzel,L., Seliger, S., Gullapali, R.,Davatzikos, C., Erus, G.,Evans, M., Zonderman, A.，& Waldstein,S.(2O18).Dorsolateral prefrontal cortex volume as a mediator between socioeconomic status and executive function. Neuropsychology, 32(8), 985-995.   \nShaw, P., Malek, M., Watson, B., Greenstein, D., De Rossi, P.,& Sharp, W. (2013). Trajectories of cerebral cortical development in childhood and adolescence and adult attentiondeficit/hyperactivity disorder. Biological Psychiatry, 74(8), 599-606.   \nSpears,D. (2O11). Economic decision-making in poverty depletes behavioral control. The BE Journal of Economic Analysis & Policy, 11(1), 1-44.   \nSpielberg, J. M., Galarce, E. M.,Ladouceur, C.D., McMakin, D.L., Olino, T. M.,Forbes, E.E.,. & Dahl,R.E. (2O15). Adolescent development of inhibition as a function of SES and gender: Converging evidence from behavior and fMRI. Human brain mapping, 36(8),3194-3203.   \nSripada,R.K., Swain, J.E., Evans, G.W., Welsh, R.C.,& Liberzon, I. (2014). Childhood poverty and stress reactivity are associated with aberrant functional connectivity in default mode network. Neuropsychopharmacology, 39(9), 2244-2251.   \nSuor, J.H. Sturge-Apple, M.L., Davies,P.T.,& Cicchetti, D.(2017). A life history approach to delineating how harsh environments and hawk temperament traits differentially shape children's problem-solving skils. Journal of Child Psychology and Psychiatry, 58(8), 902- 909.   \nTaylor,R.L., Cooper, S.R., Jackson, J.J.,& Barch,D. (202O). Assessment of neighborhood poverty, cognitive function,and prefrontal and hippocampal volumes in children. JAMA Network Open, 3(11), e2023774.   \nThompson, D.V.，Hamilton,R.，& Banerji,I. (2020). The effect of childhood socioeconomic status on patience. Organizational Behavior and Human Decision Processes, 157, 85-102.   \nTian, T., Young, C. B., Zhu, Y., Xu, J., He, Y., Chen, M.,..& Qin, S. (2021). Socioeconomic disparitiesaffectchildren'sAmygdala-prefrontalcircuitryviastresshormone response. Biological Psychiatry, 90(3), 173-181.   \nTomlinson,R.C.，Burt, S.A.，Waller,R., Jonides,J.，& Hyde,L.W.(202O). Neighborhood poverty predicts altered neural and behavioral response inhibition. Neurolmage, 2O9,116536.   \nUrsache,A., Blair, C.,& Raver, C. C. (2012). The promotion of self-regulation as a means of enhancing school readiness and early achievement in children at risk for school failure. Child Development Perspectives, 6(2),122-128.   \nUrsache,A.,& Noble, K.G. (2O16). Socioeconomic status, white mater, and executive function in children. Brain and Behavior, 6, e00531.   \nVink,M., Gladwin,T.E., Geeraerts, S.,Pas,P.,Bos,D., Hofstee,M.,..& Vollebergh, W.(2020). Towards an integrated account of the development of self-regulation from a neurocognitive perspective: A framework for current and future longitudinal multi-modal investigations. Developmental Cognitive Neuroscience, 45, 100829.   \nWater, E.D., Mies, G.W., Figner,B., Yoncheva, Y.,Bos, W.V., Castellanos, FX., Cillessen, A.H., & Scheres,A. (2O17). Neural mechanisms of individual differences in temporal discounting of monetary and primary rewards in adolescents. NeuroImage, 15(3),198-210.   \nWebb, E. K. (2O2O). Shaped by the environment: The influence of childhood trauma exposure, individual socioeconomic position, and neighborhood disadvantage on brain morphology (Unpublished doctoral dissertation).The University ofWisconsin-Milwaukee.   \nYu, D., Caughy, M. O.B., Smith, E. P., Oshri, A., & Owen, M. T. (202O). Severe poverty and growth in behavioral self-regulation: The mediating role of parenting. Journal of Applied Developmental Psychology, 68,101135.   \nZheng,X., Li, J., Li, M., Wang, Z., Cao, X., Chen,Y.,& Zhu, J. (in press). Reduced vmPFC volume mediates the association between early exposure to family material hardship and problematic mobile phone use: The moderating role of parental atachment. Current Psychology.   \nZhu, Y., Chen, X., Zhao, H., Chen,M., Tian,Y.,Liu, C.,..& Qin, S. (2019). Socioeconomic status disparities affect children's anxiety and stress-sensitive cortisol awakening response through parental anxiety. Psychoneuroendocrinology, 1O3, 96-103. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Neural mechanisms underlying the effect of low socioeconomic status on self-regulation ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "HU Xiaoyong,DU Tangyan, LI Lanyu, WANG Tiantian (Faculty of Psychology, Southwest University, KeyLaboratory of Cognition and Personality, Ministry of Education, Chongqing 400715, China) ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Self-regulation is the ability to monitor and adjust one's cognition，emotion,and behavior to adapt to the changing environment and achieve goals. It plays a role in achievement, interpersonal communication and health,which is regarded as the key to human success and happiness.However, many studies have found that low socioeconomic status has a significant negative impact on self-regulation. To promote the self-regulation ability of people living in low socioeconomic conditions, it is necessary to deeply understand the internal mechanism of low socioeconomic status affecting self-regulation. Neuroscience provides unique information: Low socioeconomic status changes the structure and function of dorsolateral prefrontal cortex, cingulate gyrus, ventromedial prefrontal cortex, amygdala, hippocampus and ventral striatum, and then affects various components of self-regulation (cognitive regulation, emotional regulation and behavioral regulation). In addition to more rigorous investigation of each causal chain in the neural mechanism， future research should also connect neurobiology with developmental psychology to reveal the unique impact mechanism of low socioeconomic status on self-regulation at different stages,and develop a systematic,sustainable and effective intervention program. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Key words:low socioeconomic status,cognitive regulation,emotional regulation, behavioral regulation, neural mechanism ",
+        "page_idx": 19
+    }
+]

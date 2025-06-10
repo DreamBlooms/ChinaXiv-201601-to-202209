@@ -1,0 +1,509 @@
+[
+    {
+        "type": "text",
+        "text": "Role of cis-1,4-cyclohexanedicarboxylic acid in the regulation of the structure and properties of a poly(butylene adipate-co-butylene 1,4- cyclohexanedicarboxylate) copolymert ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fei Liu, Jia Qiu, Jinggang Wang, Junwu Zhang,Haining ${ \\mathsf { N a } } ^ { \\star }$ and Jin Zhu\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A unique non-planar ring structure 1,4-cyclohexanedicarboxylic acid (CHDA) is introduced to synthesize a poly(butylene adipate-co-butylene 1,4-cyclohexanedicarboxylate) (PBAC) copolyester.The impact of the stereochemistry of CHDA on the structure and properties of PBAC,especially the role of cis-CHDA in tuning the thermal, tensile and elastic properties of PBAC is explored in depth.Instead of considering PBAC as a diblock random copolymer consisting of poly(butylene adipate)(PBA) and poly(butylene 1,4- cyclohexanedicarboxylate) (PBC)，our results reveal that PBAC can be considered asa random copolymer consisting of actually three blocks，namely PBA,a PBC unit with only trans-CHDA (transPBC),and PBC unit with only cis-CHDA (cis-PBC).The role of cis-CHDA is found to be rigid which initiatesa high modulus and strength,and soft which results in a decreased melting temperature and increased elongation at break and elasticity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1,4-Cyclohexanedicarboxylic acid (CHDA) isaunique aliphatic monomer with a non-planar ring structure.The influence of CHDA on the structure and properties has been demonstrated in many types of polymers such as polyesters,1-8 polyamides,9 polycarbonates1 and thermoplastic elastomers.11-13 Although people have realized that the six-membered CHDA moiety is versatile in terms of stereochemistry,namely,ithas two isomers including trans-CHDA and cis-CHDA (Scheme1),2,1,14-17 previous research has focused on only trans-CHDAin order to obtain polymers with a high melting temperature,16 tensile modulus10,18 or better gas barrier properties.5,13,19 There is a very small amount of work making full use of the cis-CHDA.20 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Comparing with the trans- isomer which tends to reside in a chair conformation,14 the cis-one prefers boat conformation (Scheme 1).15 Thus the structure of trans-CHDA is regular while that of its cis-counterpart is irregular.1 As a result,trans-CHDA ismore likely to form stable crystalline while the cis-one intro duces“kinks”to the molecular chain and hinders the crystallization of its trans-counterpart.2,16 In order to take good advantage of the cis-CHDA,recently,we reported the impact of CHDA toa thermoplastic elastomer,and revealed the“elastic\" ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "feature of this structure by changing its stereochemistry.21 Subsequently,we were able to obtain a soft-segment free poly ester elastomer with high performance by merely increasing the cis-CHDA amount in a simple polyester poly(butylene 1,4- cyclohexanedicarboxylate) (PBC).22 These findings inspire us that the cis-CHDA has huge potential in terms of obtain polymers with very different properties. Therefore,we take a step forward in current work and incorporate CHDA,especially the cis-isomer into a copolyester system poly(butylene adipate-co butylene1,4-cyclohexanedicarboxylate) (PBAC). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PBAC is a novel copolyester containing both linear aliphatic chain and cyclic aliphatic moiety.23,24 It has properties that are quite different from those of copolyesters with only linear aliphatic chain,25-3o such aspoly(butylene succincate-cobutylene adipate) (PBSA),26,3o or those with both aliphatic chain and aromatic ring moiety，such as poly(butylene adipate-cobutylene terephthalate) $\\mathbf { ( P B A T ) ^ { 3 1 , 3 2 } }$ and poly(butylene adipate-cobutylene 2,5-furandicarboxylate) (PBAF).3334 The presence of the cyclicaliphatic moiety CHDA，renders the copolymer with excellent thermal stability even better than PBAT,2’ and potential biodegradability like PBSA.23,26 More importantly，the structure and properties of PBAC copolymer can be tuned not only by changing the compositions of CHDA and adipic acid (AA)，but also by varying the stereochemistry of CHDA.23 Therefore,in current work,the influence of CHDA,especially cis-CHDA,as well as its co-monomer AA on the composition and structure of PBAC copolymer will be fully investigated.More importantly, the roles of cis-CHDA and AA they play in tuning the thermal，tensile as well as elastic properties of PBAC copolymer will be discussed and displayed in detail. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a4039ad5119fe7eb76b4db8a4af64fc5420027d8e26836ec61ad310e513753c.jpg",
+        "img_caption": [
+            "Scheme 1 Structure ofCHDA isomers and their preferred conformations.14.15 "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Structure and compositions of PBAC copolymers ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PBAC copolymers with different compositions (i.e.PBC amount) and CHDAcis/transratios are successfully obtained.In the first place,to investigate the influence of PBC amount on the prop erties of the PBAC copolymers,five PBAC samples with PBC contents in the final products ranging from 50 to $9 0 ~ \\mathrm { m o l \\% }$ are obtained.In these series,trans-CHDAis used as starting material so that the cis/trans ratios of CHDAin the final products are kept at10/9o.Subsequently,in order to evaluate the impact of cis-CHDA on the properties of PBAC copolymers,another two PBAC samples synthesized with mix-CHDA and cis-CHDA as starting materialsare obtained,and the cis/trans ratios ofCHDA in these two final products are 5o/5o and $7 0 / 3 0$ ，respectively. The PBC amount in these two samples is kept at a constant value of $8 0 \\mathrm { m o l \\% }$ .Finally,two homopolymers (i.e.PBA and PBC) are also produced for comparation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Six PBAC copolymers with trans-CHDA as starting material aredenotedasPBAC- $x$ ，where $x$ stands for the molar ratio of PBC and is in the range of 50 to 90.For example,PBAC-50 means that the polymer contains $5 0 \\ \\mathrm { m o l \\% }$ of PBC and the ratio of trans isomer of CHDA is $9 0 ~ \\mathrm { m o l \\% }$ .Another two PBAC copolymers with mix-CHDA and cis-CHDAas starting materials arenamed as PBAC-80-mix and PBAC-8O-cis.These two PBAC copolymers contains $8 0 \\ \\mathrm { m o l \\% }$ of PBC and the ratios of trans isomer of CHDA are 60 and $3 0 \\mathrm { m o l \\% }$ respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows the ${ } ^ { 1 } \\mathrm { H }$ NMR spectra of PBA and PBC homopolymers as well as that of a typical PBAC copolymer (PBAC-50). All peaks varying in chemical shifts can be attributed to correspondent protons in the products.2223 The compositions of the PBAC copolymers are calculated based on the integration $( { \\cal I } _ { \\mathrm { e } - c i s } ,$ $I _ { \\mathrm { e } - t r a n s }$ and $I _ { \\mathbf { a } }$ )of three peaks located at $\\delta = 2 . 4 7$ ppm (e-cis),2.33 ppm (e-trans) and $2 . 2 8 \\mathrm { p p m }$ (a) (Fig.1).These three peaks can be assigned to the protons in $- \\mathbf { C } H -$ in cis-CHDA,trans-CHDA and $- { \\bf C } ( { \\bf O } ) { \\bf C } H _ { 2 } -$ in butylene adipate unit,respectively.It is worth noting that, the peak for the protons in $- \\mathrm { O C } H _ { 2 } -$ unit in PBA homopolymer locates at $\\delta = 4 . 0 4 \\mathrm { p p m } \\left( \\mathrm { c } ^ { \\prime } \\right)$ ,while it shifts to $\\delta =$ $4 . 0 9 \\ \\mathrm { p p m }$ (c) in PBAC copolymer and merges with the peak of protons in $- \\mathrm { O C } H _ { 2 } -$ unit in PBC.The molar percentage of PBC as well as the ratio of trans-CHDA isomer in the copolymer are calculated according to eqn (1) and (2) respectively.21,22 The correspondent results are summarized and collected in Table1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c47da93b7dc13620c279a69c33682055de2e0f1a4e100fe6bf132a0bb2330764.jpg",
+        "img_caption": [
+            "Fig. 1 $^ 1 { \\mathsf { H N M R } }$ $( 4 0 0 ~ M H z$ $C D C \\mid _ { 3 } )$ spectra of PBA,PBC and a typical PBAC copolymer (PBAC-50). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P B C ~ m o l } \\% = \\frac { I _ { { \\mathrm { e } } - c i s } + I _ { { \\mathrm { e } } - t r a n s } } { I _ { { \\mathrm { e } } - c i s } + I _ { { \\mathrm { e } } - t r a n s } + I _ { \\mathrm { a } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt r a n s – C H \\mathrm { { D A ~ m o l } \\% = \\frac { I _ { e - t r a n s } } { I _ { e - c i s } + I _ { e - t r a n s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is clearly showed in Table 1 that all samples have comparable high molecular weight $\\left( M _ { \\mathrm { n } } \\right)$ and the molecular weight distributions $\\left( M _ { \\mathrm { w } } / M _ { \\mathrm { n } } \\right)$ are in the range of 2.3 to 3.5.The compositions (PBC and PBA molar percentage) of all final products are in good agreement with the feed ones.More importantly,certain amount of deviation of final cis/trans ratios to the feed ones is observed for all samples.For example, samples with trans-CHDA $( 9 9 \\mathrm { ~ m o l \\% } )$ ）asstartingmaterial have ratios of trans-CHDA in the range of 81 to $9 2 \\mathrm { \\ m o l \\% }$ ，while samples with mix-CHDA (cis/trans 50/50)and cis-CHDA (97 $\\mathrm { m o l \\% } )$ have ratios of trans-CHDA of 58 and $2 8 \\mathrm { \\ m o l \\% }$ respectively.Thisphenomenonisdue to the fact that cis/transisomers ä The compositions are calculated from $^ 1 \\mathrm { H }$ NMR and molecular weight $\\left( M _ { \\mathrm { n } } \\right)$ and molecular weight distribution $\\left( M _ { \\mathrm { w } } / M _ { \\mathrm { n } } \\right)$ are determined by GPC in $\\mathbf { C H C l } _ { 3 }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/46a5534db1fca2b77798beed7710ac4e27eee25f09979c340b08b73e2480e741.jpg",
+        "table_caption": [
+            "Table1 Compositions and molecular weights of PBA,PBC and PBAC copolymersa "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>PBC (mol%)</td><td>PBA (mol%)</td><td>trans-CHDA (mol%)</td><td>Mn</td><td>Mw/Mn</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>PBA</td><td>0</td><td>100</td><td>0</td><td>42000</td><td>2.7</td></tr><tr><td>PBAC-50</td><td>49</td><td>51</td><td>84</td><td>44 000 36000</td><td>3.5</td></tr><tr><td>PBAC-60</td><td>64</td><td>36 27</td><td>81 92</td><td>40 000</td><td>3.3 2.3</td></tr><tr><td>PBAC-70 PBAC-80</td><td>73 80</td><td>20</td><td>88</td><td>36000</td><td>2.3</td></tr><tr><td>PBAC-90</td><td>93</td><td>7</td><td>91</td><td>42 000</td><td>2.6</td></tr><tr><td>PBAC-80-mix</td><td>81</td><td>19</td><td>58</td><td>40000</td><td>2.5</td></tr><tr><td>PBAC-80-cis</td><td>82</td><td>18</td><td>28</td><td>43 000</td><td>2.6</td></tr><tr><td>PBC</td><td>100</td><td>0</td><td>88</td><td>33000</td><td>2.5</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "of CHDA have a thermodynamic equilibrium of $3 4 / 6 6 . ^ { 1 7 }$ The isomerization reaction between cis and trans isomers are inevitable under high temperature once itis not in the balanced state (Scheme 1).2² The observed deviation is in the range of $7 -$ $1 8 \\%$ for samples with trans-CHDA as starting material, while those for samples with mix-CHDA and cis-CHDA are 8 and $2 5 \\%$ respectively.Nonetheless,we are able to obtaina series of PBAC samples with different compositions as well as CHDA cis/trans ratios. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is worth noting that the sequence,number-average length of units and randomness of copolymer synthesized from BDO, AA and a third monomer can be obtained according to the results from ${ } ^ { 1 } \\mathrm { H }$ NMR analysis.33,34 For example,Wu and coauthors34 synthesized PBAF copolymer with 2,5-furandicarboxylic acid as a third monomer. They were able to distinguish three sequences according to the chemical shifts of protons in $\\scriptstyle - \\mathbf { O C H } _ { 2 ^ { - } }$ ：unit due to the conjugation effect resulting from the aromatic furan ring. The number-average unit length as well as the degree of randomness can be calculated accordingly. However,for PBAC copolymer,the third monomer is the nonplanar aliphatic ring structure CHDA,which does not show conjugation effect like the aromatic furan ring.3,34 Therefore, there is only one single peak for protons in ${ \\bf - O C H } _ { 2 } -$ unit in all possible sequences (CBC,ABA and ABC),locating at $\\delta = 4 . 0 9$ ppm (c).2,23 Consequently， the sequence， number-average length of PBC and PBA unit as well as the degree of randomness are unable to determine from $^ 1 \\mathrm { H }$ NMR results.We then turned to $^ { 1 3 } \\mathrm { C }$ NMR spectra and found that for all PBAC copolymers,only PBAC-50 shows distinguishable peaks in the range of 173.0 to $1 7 5 . 5 ~ \\mathrm { p p m }$ (Fig. $\\mathbf { S 1 \\dag }$ ),which could be assigned to different sequences in the PBAC copolymer (see ESI for detailed analysist).The calculated number-average lengths for PBA and PBC units in PBAC-50 are 1.62 and 2.24,respectively. The degree of randomness is 1.06, which is very close to 1, suggesting that this copolymeris a random copolymer (Table $^ { S 2 \\dagger } .$ ).Thisresult further implies that for the series of PBAC samples obtained in this work,with the increase of PBC amount，the numberaverage length for PBC will be greater than 2.24,while that of PBA will be smaller than1.62.34 Asa result, the influence of PBA unit on the chemical shift of carbonyl carbon in PBC unit becomes negligible.Therefore,it is unable to tell the differences among different sequences in the PBAC copolymers in the $^ { 1 3 } \\mathrm { C }$ NMR spectra when PBC amount is higher than $5 0 \\%$ .Nevertheless,it is reasonable to conclude that PBAC samples are random copolymers and the number-average length of PBC unit is longer than that of PBA unit. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thermal properties of PBAC copolymers ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The thermal transitions and stability of PBAC copolymers were investigated byDSC and TGA characterizations.Fig.2 shows the DSC curves of PBA and PBC homopolymers as well as PBAC copolymers with different compositions. The results are summarized in Table 2.Berti and coauthors² have discussed in detail about the glass transition temperature $\\left( T _ { \\mathrm { g } } \\right)$ of a series of PBAC copolymers according to the Fox equation,therefore,our work here will only focus on the influence of composition as well as the stereochemistry of CHDA on the melting temperature $T _ { \\mathrm { m } }$ and the crystallization temperature $T _ { \\mathrm { c } }$ of the PBAC copolymers.Obviously, the $T _ { \\mathrm { m } }$ and $T _ { \\mathrm { c } }$ of all PBAC copolymers are within the range of those of PBA and PBC homopolymers. And with the increasing amount of PBC from 50 to $9 0 \\%$ ，both $T _ { \\mathrm { m } }$ and $T _ { \\mathrm { c } }$ increase gradually.On the other hand,decreasing the amount of trans-CHDA,namely increasing the amount of cis CHDA results in amorphous copolymers with neither $T _ { \\mathrm { m } }$ nor $T _ { \\mathrm { c } }$ as showed in Fig. 3. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/31f63396a1612313b8c9efb66d3de12554abc04d00583627ccdfb4291d6b150d.jpg",
+        "img_caption": [
+            "Fig.2DSC curves for PBA,PBC and PBAC copolymers with different compositions:(a) second heating and (b) cooling scans. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/82580cc0363f8f3e40d094e5a4e1798f878a255d8b592833a5ed9a3781fd260c.jpg",
+        "table_caption": [
+            "Table 2 Thermal properties of PBA,PBC and PBAC copolymersä "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>Tm(C)</td><td>△Hm (Jg-1)</td><td>Tc (C)</td><td>Xc (%)</td><td>T5% (N2) (C)</td></tr><tr><td></td><td></td><td></td><td>26</td><td></td><td></td></tr><tr><td>PBA PBAC-50</td><td>54,60 63</td><td>60 18</td><td>21</td><td>44.4 14.2</td><td>374 356</td></tr><tr><td>PBAC-60</td><td>85</td><td>17</td><td>39</td><td>13.9</td><td>362</td></tr><tr><td>PBAC-70</td><td>121</td><td>17</td><td>97</td><td>12.9</td><td>375</td></tr><tr><td>PBAC-80</td><td>123</td><td>19</td><td>99</td><td>15.0</td><td>378</td></tr><tr><td>PBAC-90</td><td>145</td><td>26</td><td>123</td><td>20.2</td><td>378</td></tr><tr><td>PBAC-80-mix</td><td>None</td><td>None</td><td>None</td><td>None</td><td>379</td></tr><tr><td>PBAC-80-cis</td><td>None</td><td>None</td><td>None</td><td>None</td><td>365</td></tr><tr><td>PBC</td><td>147</td><td>24</td><td>125</td><td>19.3</td><td>382</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "@ Melting temperature $T _ { \\mathrm { m } } ,$ melting enthalpy $\\Delta H _ { \\mathrm { m } }$ and degree of crystallinity $\\chi _ { \\mathrm { c } }$ are determined from second heating scan of DSC curves and the crystallization temperature $T _ { \\mathrm { c } }$ is determined from the cooling scans of DsC curves,the temperature at $5 \\%$ weight loss $T _ { 5 \\% }$ is determined by TGA in ${ \\bf N } _ { 2 }$ atmosphere. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7394664f0c4e03f93c5e7e02c8ce2edf8d140beb44437d798a3dd15b3ec6bda0.jpg",
+        "img_caption": [
+            "Fig.3DSC curves for PBAC copolymers containing $80 \\ m \\%$ PBC with different amount of trans-CHDA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Wide angle X-ray diffraction (WAXD) analysis (Fig.4) indicates that the crystal lattices of PBA and PBC homopolymers are totally different from each other.PBA molecules crystallize with a monoclinic crystal lattice correspondent to its $a$ form,29,35 which is in good agreement with its double melting peak observed in DsC analysis due to a fusion-recrystallization process.2236 While PBC molecules crystallize with a triclinic crystal lattice similar to that of PBT in $a$ form.31,37 When it comes to the PBAC copolymers,all samples show relatively intense diffraction peaks resembling those of PBC over the whole compositional range from 50 to $9 0 \\%$ .This observationreveals that the crystalline phase for all PBAC copolymers with different compositions is merely PBC crystalline phase,²³ suggesting that only PBC part can crystallize in the copolymer when PBC amount is higher than $5 0 \\%$ ，and PBA isin the amorphous region.Furthermore， since it has been demonstrated in previous section that for all PABC copolymers with PBC amount higherthan $5 0 \\%$ ,thenumber-averagelength ofPBAunitisless than1.62,PBA is unable to crystallize with such short chain length.Actually,the number-average length of PBA unit may have to reach 6.83 to initiate effective crystallization of itself.34 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f65da4d0dc3b27931efd0ddd1f34e82de36f214932ace6c4268cd9fb463b971c.jpg",
+        "img_caption": [
+            "Fig.4Wide angle X-ray diffraction (WAXD) patterns of PBA,PBC and PBAC copolymers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on the aforementioned results from WAXD,the $T _ { \\mathrm { m } }$ of the PBAC copolymers is actually from the crystallized PBC part Therefore,the decreasing of $T _ { \\mathrm { m } }$ for the PBAC copolymers from 145 to $6 3 ^ { \\circ } \\mathrm { C }$ is due to the depression effect of the non-crystalline PBA on the PBC crystalline when the amount of PBA increases from 10 to $5 0 \\%$ . This depression effect in a random copolymer was well investigated by Flory.38 The relationship between $T _ { \\mathrm { m } }$ of the PBAC copolymer $( T _ { \\mathrm { m , ~ P B A C } } )$ and the equilibrium $T _ { \\mathrm { m } }$ of the PBC homopolymer $( T _ { \\mathrm { m , P B C } } ^ { \\mathrm { ^ { o } } } )$ can be described with the Flory eqn (3):39 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { T _ { \\mathrm { m , P B A C } } } = \\left( \\frac { R } { \\Delta H _ { \\mathrm { u } } } \\right) \\ln p + \\frac { 1 } { T _ { \\mathrm { m , P B C } } ^ { \\circ } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $R$ is the universal gas constant, $p$ is the molar fraction of the crystallizable PBC unit and $\\Delta H _ { \\mathrm { u } }$ is the enthalpy of fusion per crystallizable repeating PBC unit. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to the Flory equation,there isa linear relationship between $\\ln { p }$ and $1 / T _ { \\mathrm { m , P B A C } }$ .Noted that, $p$ is the molar fraction of only the crystallizable PBC unit.While in the PBC part,only those formed with trans-CHDA are crystallizable,²² thus we should also exclude the PBC part containing cis-CHDA for the calculation of $p$ .Fig.5 shows the plot of Flory equation and linear fitting for PBAC copolymers with different amount of PBC.A higher correlation coefficient $\\left( R ^ { 2 } \\right)$ is obtained when cisCHDA is excluded for the calculation of $p$ (Fig. 5a, $R ^ { 2 } = 0 . 9 9 4 _ { . }$ ）, while a lower value is observed if all CHDA isomer regardless of its stereochemistry is included for the calculation of $p$ (Fig. 5b, $R ^ { 2 } ~ = ~ 0 . 9 6 0 _ { \\mathit { j } } ^ { \\mathit { \\tau } }$ 1.Therefore，both cis-CHDA and PBA should be considered as non-crystallizable parts in the PBAC copolymer. More importantly,this result strongly implies that the PBAC copolymer can be described as a random triblock copolymer which consists with three blocks:trans-PBC,cis-PBC and PBA. Only the trans-PBC part can form stable crystalline,while the presence of cis-PBC and PBA will suppress the crystallization of trans-PBC.Therefore,increasing amount of PBA in the copolymerresults in decreased $T _ { \\mathrm { m } }$ .While more amount of cis-CHDA significantly reduces the crystallization ability of trans-CHDA,22 giving amorphous PBAC copolymers,such as PBAC-8O-mix and PBAC-80-cis.Interestingly,the PBC homopolymer therefore can be considered as a random“diblock copolymer”consists with trans-PBC and cis-PBC.4o Applying Flory equation and linear fitting for the PBC series based on our previous data²² give a correlation coefficient $\\left( R ^ { 2 } \\right)$ of 0.998 (Fig. 5c), indicating that it isreasonable to describe PBC as a random“diblock copolymer\". ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In addition，the thermal stability of PBAC copolymers decreases with the increasing amount of PBA. The $T _ { 5 \\% }$ decreases all the way from 378 to $3 5 6 ~ ^ { \\circ } \\mathrm { C }$ when the amount of PBAincreases from 10 to $5 0 \\%$ .Thisisdue to the fact that the linear aliphatic chain is more vulnerable to thermal decomposition compared with cyclic aliphatic chain.1 On the other hand, incorporation of more amount of cis-CHDA to the PBAC copolymer results in reduced thermal stability. The $T _ { 5 \\% }$ decreases from 378 to $3 6 5 ~ ^ { \\circ } \\mathrm { C }$ with the increasing of cis-CHDA from 12 to $7 2 \\%$ .This trend is not observed in PBC polymer,22 probably due to the existence of linearaliphatic chain in PBAC copolymer. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ac163a205cf759710e129538cec1784d9c59fa48465af817ebd501d5be03d66.jpg",
+        "img_caption": [
+            "Fig.5Plot of Flory equation (blue dots)and linear fitting (red lines) for (a)excluding and (b) including cis-CHDA in PBAC copolymers with different amount of PBC and $( \\mathsf { c } )$ in PBC homopolymer with different cis/trans ratio of CHDA.22 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tensile properties of PBAC copolymers ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The structure and thermal properties of PBAC copolymers experience sharp change when varying PBC amount and cis/ trans ratio of CHDA.It is predictable that the tensile properties of these PBAC copolymers will also have significant variation accordingly.Fig.6 shows the strain-stress curves of all PBAC copolymers and the relevant tensile properties are collected in Table 3. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e525f70ca8d52076d70b792ab68b4362adad6ede728381668b0802d46052ec35.jpg",
+        "img_caption": [
+            "Fig.6Tensile strain-stress curves of PBAC copolymers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Firstly,with the increasing amount of PBA from 10 to $5 0 \\%$ PBAC copolymers have substantial decreasing of tensile modulus $E$ from 291 to $2 3 \\mathrm { \\Delta M P a }$ ,and tensile strength $\\sigma _ { \\mathrm { t } }$ from 43 to $1 6 ~ \\mathrm { { M p a } }$ ,respectively.While the elongationatbreak $\\varepsilon _ { \\mathbf { b } }$ shows an increasing trend from 635 to over $1 0 0 0 \\%$ at the same time. These results indicate that the effect of PBA amount on the tensile properties of PBAC copolymeris similar to that of polyether soft segment on the tensile properties of thermoplastic poly(ether-ester) elastomer.20,41 The amorphous PBA aliphatic chain playsarole similar to thatofapolyetherlinkage in terms of tuning the tensile properties of semicrystalline polyesters. Secondly,considering the change of cis-CHDA from 12 to $7 2 \\%$ the $E$ and $\\sigma _ { \\mathrm { { t } } }$ of the PBAC copolymers show minimum values of 52 and $1 9 \\ \\mathrm { M P a }$ ,respectively,when the amount of cis-CHDA is $4 2 \\%$ (sample PBAC-80-mix).While simultaneously the $\\varepsilon _ { \\mathbf { b } }$ has a maximum value of approximately $1 5 0 0 \\%$ .These results are surprisingly the same as in the PBC homopolymer,2² indicating the significant impact of cis-CHDAon the tensile properties of polymers containing the unique non-planar ring structure,even in the present ofa relatively soft aliphatic PBA chain. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since in the previous section it has been concluded that PBAC copolymers can be considered as triblock copolymers consist with three blocks:trans-PBC,cis-PBC as well as PBA.The results in the tensile analysis furtherdemonstrate the different roles of these three blocks.The crystallizable trans-PBC part takes the position of a hard segment,providing the copolymer with high modulus,melting temperature as well as thermal stability.The shortPBAaliphatic chainpart,on the otherhand, playsa role as soft segment,resulting in increasing of $\\varepsilon _ { \\mathrm { { b } } }$ and decreasing of strength and melting temperature.What's more important,the cis-PBC part displays features of both hard and soft segments.It not only causes improved modulus and α Tensile modulus $E$ ，tensile strength $\\sigma _ { \\mathrm { t } }$ ，elongation at break $\\varepsilon _ { \\mathbf { b } } .$ yield stress $\\sigma _ { \\mathrm { y } }$ and yield strain $\\varepsilon _ { \\mathbf { y } }$ are determined by tensile testing. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/28a0c4db850865ff51e42edfdb8283999ea0aedb2080cf2ffebc0969a5592977.jpg",
+        "table_caption": [
+            "Table3 Tensile properties of PBA,PBC and PBAC copolymersä "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>E (Mpa)</td><td>σt (Mpa)</td><td>εb (%)</td><td>σy (Mpa)</td><td>εy (%)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>PBA PBAC-50</td><td>220±26 23±5</td><td>49±1 16±1</td><td>1977 ± 88 1039 ±70</td><td>18±1 5±0.3</td><td>18±2</td></tr><tr><td>PBAC-60</td><td>46±4</td><td>21±1</td><td>1050 ± 25</td><td>8±1</td><td>39±6 42±1</td></tr><tr><td>PBAC-70</td><td>129 ±12</td><td>31±2</td><td>795 ± 60</td><td>16 ± 0.3</td><td>26±1</td></tr><tr><td>PBAC-80</td><td>183±22</td><td>38±2</td><td>844 ±19</td><td>19±2</td><td>28±2</td></tr><tr><td>PBAC-90</td><td>291±28</td><td>43±3</td><td>635±37</td><td>27±2</td><td>21±1</td></tr><tr><td>PBAC-80-mix</td><td>52±3</td><td>19±1</td><td>1478 ± 46</td><td>6±0.3</td><td>30±1</td></tr><tr><td>PBAC-80-cis</td><td>166 ±8</td><td>25±1</td><td>682 ±23</td><td>9±0.2</td><td>14±2</td></tr><tr><td>PBC</td><td>157±7</td><td>17 ±1</td><td>523±7</td><td>14±1</td><td>21±1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cfa6018635e44e1c2bbb3958eab793fb810641d655bfa38183708e517ae7fe8.jpg",
+        "img_caption": [
+            "Fig.7Cyclic tensile testing strain-stress curves of PBAC copolymers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "strengthaswellasdecreased $\\varepsilon _ { \\mathbf { b } }$ like the hard segment does,but also initiates the transition of the copolymer from a semicrystalline polymer to an amorphous one like the soft segment does. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Elastic properties of PBAC copolymers ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Investigation on the elastic properties of PBAC copolymers further strengthens our point of view in the previous section The elastic properties of PBAC copolymers along with PBA and PBC homopolymers are demonstrated by cyclic tensile testing. The shape recovery ratio at $2 0 0 \\%$ strain in the first cycle of cyclic tensile testing is used to compare the elastic properties of PBAC copolymers.It is generally considered that a polymer with higher shape recovery ratio in the first cycle during the cyclic tensile testing tends to have better elastic property. $^ { 2 1 , 2 2 , 4 0 , 4 1 }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The cyclic tensile testing strain-stress curves are shown in Fig.7and the shape recovery ratios at $2 0 0 \\%$ strain during the first to five cycles are listed in Table 4.It can be seen from Table 4 that the recovery ratios of all samples increase with cycle numbers.Moreover,after the first so called training cycle,all samples have almost constant recovery ratios,which has also been reported by other researchers.42,43 Actually, during the first cycle of the cyclic tensile test,the weak net-points or part of the crystalline regions are destructed and the molecular chains oriente ina more favorable way with regard to the direction of deformation.After the first cycle,an ideal orientated elastic network forms,4² therefore,samples show higher recovery ratios of $9 0 \\%$ after the second cycle. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In addition,both PBC and PBA homopolymers have poor elastic properties with shape recovery ratios at $2 0 0 \\%$ strain in the first cycle $\\left( R _ { \\mathrm { r } } ( 1 ) \\right)$ of only ${ \\sim } 1 0 \\%$ .In the second place,addition of PBA to PBC and then increasing the PBA amount from 10 to $5 0 \\%$ ，theresulted PBAC copolymers haveprogressively increasing elastic properties with $R _ { \\mathrm { r } } ( 1 )$ improved from 13.6 all the way to $3 0 . 9 \\%$ .These results provide solid evidence to support our previous opinion that PBA aliphatic chain unit resembles polyether soft segment.Finally，in regards to cisCHDA,increasing its amount induces tremendous improvement in elastic property of PBAC copolymer. $R _ { \\mathrm { r } } ( 1 )$ increases fromlessthan $2 0 \\%$ to over40 and $5 0 \\%$ when cis-CHDAamount increases from 12 to 42 and $7 2 \\%$ respectively.These results further reveal and demonstrate the soft characteristic of cisCHDA. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PBAC copolymers are successfully obtained and the dependence of structure and properties of these copolymers on the composition as well as stereochemistry of CHDA are studied thoroughly.PBAC copolymer can be considered as triblock random copolymer consistswith three parts: trans-PBC,cis-PBC and PBA.Neither cis-PBC nor PBA is crystallizable because cisPBC contains only irregular cis-CHDA moiety which is unable to initiate crystallization and PBA unit length being too short.The trans-PBC part is the only crystallizable part and thus the thermal transitions such as melting and crystallization temperature of the PBAC copolymers actually origin from transPBC.The decreasing of the melting temperature of PBAC copolymer can be perfectly explained by the depression effect described with Flory equation,in which both the cis-PBC and PBA parts make contribution to the depression.Both parts are excluded from the trans-PBC crystalline region.In addition, trans-PBC is also responsible for both high modulus and strength and therefore acts as hard segment in PBAC copolymer.While amorphous PBA aliphatic unit functions like soft segment which leads to decreased melting temperature, thermal stability as well as modulus and strength,but increased elongation at break and shape recovery ratio.What's more important,the special role that cis-CHDA plays in the PBAC copolymer is revealed for the first time.It shows effects of both hard and soft segment synchronously.It effectively suppresses thecrystallization formed by trans-CHDA,which decreases the melting temperature of PBAC copolymers and finally turns PBAC copolymer from semicrystalline to amorphous,along withlargely improved shape recoveryratio,just likewhat the soft segment would do.Therefore,form the viewpoint of the thermal properties,it plays a soft and rubbery role.Moreover, relatively high amount of cis-CHDA gives birth to PBAC copolymer with significantly improved modulus and strength, similar to the effect ofahard segmentwoulddisplay.Accordingly,from the viewpoint of the modulus and strength,it is rigid,especially compared with the aliphatic PBA part.In conclusion,we have exposed both the rigid and soft roles of cis-CHDA it plays in a copolyester system.Other types of polymers such as polyamide，polycarbonate as well as polyurethane can also take advantage of this moiety,so that they would show interesting and tunable properties. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f599eb39936eb9c921f0a15259385fc61e1f03d9b5c6fa5a69d7c6ef5276e1b.jpg",
+        "table_caption": [
+            "Table 4 Elastic properties of PBA,PBC and PBAC copolymers\" "
+        ],
+        "table_footnote": [
+            "ä Elastic property is demonstrated by shape recovery ratio at $2 0 0 \\%$ strain using cyclic tensile testing. "
+        ],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>Rr(1) (%)</td><td>Rr(2) (%)</td><td>Rr(3) (%)</td><td>Rr(4) (%)</td><td>Rr(5) (%)</td></tr><tr><td>PBA</td><td>10.4 ± 0.6</td><td>95.3 ± 0.2</td><td>97.6 ± 0.1</td><td>98.5±0.2</td><td>98.6 ± 0.4</td></tr><tr><td>PBAC-50</td><td>30.9 ± 2.4</td><td>93.5 ± 0.1</td><td>97.0 ± 0.4</td><td>98.2 ±0.2</td><td>98.2 ± 0.1</td></tr><tr><td>PBAC-60</td><td>29.9 ± 1.1</td><td>93.6 ±0.3</td><td>97.1 ± 0.4</td><td>98.0 ± 0.3</td><td>98.6 ± 0.1</td></tr><tr><td>PBAC-70</td><td>17.8 ± 0.8</td><td>95.8 ±0.4</td><td>97.6 ± 0.1</td><td>98.3 ± 0.1</td><td>98.7 ± 0.1</td></tr><tr><td>PBAC-80</td><td>19.6 ± 0.4</td><td>91.2 ± 0.6</td><td>96.3 ±0.3</td><td>97.4± 0.2</td><td>98.4±0.2</td></tr><tr><td>PBAC-90</td><td>13.6 ± 1.1</td><td>91.6 ± 1.1</td><td>96.2 ± 0.3</td><td>97.5 ± 0.5</td><td>98.0 ±0.3</td></tr><tr><td>PBAC-80-mix</td><td>41.8 ± 0.4</td><td>93.5 ±0.6</td><td>97.4 ± 1.0</td><td>98.0 ± 0.6</td><td>98.8 ± 0.4</td></tr><tr><td>PBAC-80-cis</td><td>50.5 ± 2.2</td><td>89.5 ± 0.5</td><td>95.1 ± 0.3</td><td>97.3 ± 1.2</td><td>97.5 ± 0.4</td></tr><tr><td>PBC</td><td>10.7 ± 0.5</td><td>94.7 ± 2.0</td><td>96.6 ± 0.7</td><td>99.6 ± 2.0</td><td>99.4 ± 1.1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Experimental ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Materials ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1,4-Butanediol (BDO) $( 9 9 \\% )$ ，adipic acid (AA) (AR, $9 9 \\%$ ，titanium(iv)butoxide $( 9 9 \\% )$ and antioxidant 1010 $( 9 5 \\% )$ were all purchased from Aladdin Reagent Co.Ltd (Shanghai,China). Chloroform (HPLC) was obtained from Sinopharm Chemical ReagentCo.， Ltd(Shanghai， China). trans-1,4-Cyclohexanedicarboxylic acid (trans-CHDA) $( 9 9 \\% )$ and mix-1,4-cyclohexanedicarboxylic acid (mix-CHDA)withacis/transratioof $5 0 /$ 50 were purchased from Nanjing Chemlin Chemical Industry Co.，Ltd.cis-CHDA $( 9 7 \\% )$ was obtained by separation and purification of mix-CHDA from ethanol according to methods described in the literature.4445 All the chemicals are used as received without further treatment. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of PBAC copolymers ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PBAC copolymers are prepared via a two-step melt poly condensation process.In the first step，two esterification products i.e.bis(hydroxylbuthylene) adipate (BHBA) and bis(h ydroxylbuthylene）1,4-cyclohexandicarboxylate(BHBC）are respectively obtained by esterification reaction between BDO with AA and CHDA.In the second step,BHBA and BHBC are then used for the synthesis of PBAC final products via poly condensation reaction.A series of PBAC copolymers with different compositions are produced by simple changing the feeding ratio of BHBA and BHBC in the second step.The following describes the detailed process for the synthesis of PBAC copolymer (Scheme 2). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the synthesis of BHBA,AA $\\left( 2 9 2 . 0 ~ \\mathrm { g } \\right)$ ,BDO (306.0 g) and the catalyst (titanium(iv) butoxide, $1 . 5 ~ \\mathrm { g } , 0 . 0 5 ~ \\mathrm { w t \\% }$ of AA) were added to a $^ { 1 \\mathrm { L } }$ autoclave.The mixture was placed under vacuum $\\left( 0 . 1 \\mathrm { { k P a } } \\right)$ and then purged with ${ \\bf N } _ { 2 }$ gas. This cycle was repeated for three times.Subsequently, the mixture was heated to $2 3 0 ^ { \\circ } \\mathrm { C }$ under ${ \\bf N } _ { 2 }$ until the amount of the distilled water reached $8 0 \\%$ of its theoretic amount (typically $^ \\mathrm { ~ 4 ~ h ~ }$ ).The system was then evacuatedbelow $^ { 1 0 0 \\mathrm { \\ p a } }$ to remove the extra amount of BDO. BHBC was prepared with similar procedure using CHDA as starting material,and the reaction temperature was $2 0 0 ~ ^ { \\circ } \\mathbf { C } .$ Both BHBA and BHBC were obtained as white waxy solid and were dried in $5 0 ~ ^ { \\circ } \\mathbf { C }$ under vacuum overnight and then kept in a desiccator before use. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/69a3aa76b2c1326f4f86e66c490b6f9baf378d8c93af1e1b1cb05fbef3fd32ea.jpg",
+        "img_caption": [
+            "Scheme2 Synthesis of PBAC copolymer "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the synthesis of PBAC copolymer, the process for the synthesis of PBAC copolymer with $5 0 \\mathrm { m o l \\% }$ ofPBC is described here as an example.BHBA (230 g) and BHBC $( 1 3 0 \\mathrm { g } )$ were added to a $^ \\textrm { \\scriptsize 1 L }$ autoclave with catalyst (titanium(rv) butoxide, $_ { 0 . 0 9 \\ \\mathrm { g } } ,$ （20 $0 . 0 2 5 ~ \\mathrm { w t \\% }$ of BHBA and BHBC) and antioxidant 1010 $( 0 . 0 5 4 ~ \\mathrm { g } ,$ （204号 $0 . 0 1 5 ~ \\mathrm { w t \\% }$ of BHBA and BHBC). The mixture was placed under vacuum $\\left( 0 . 1 \\mathrm { { k P a } } \\right)$ and then purged with ${ \\bf N } _ { 2 }$ gas. This cycle was repeated for three times.Subsequently,the system was sealed and evacuated to $1 \\ \\mathrm { k P a }$ ，and heated up to $2 6 0 ~ ^ { \\circ } \\mathrm { C }$ and maintained for $0 . 5 \\mathrm { ~ h ~ }$ ,afterwhich,the system was subject to higher vacuum (below $2 0 \\ \\mathrm { P a } \\$ ）forabout $^ { 3 - 5 \\mathrm { ~ h ~ } }$ to get high molecular weight products.All resulted polymers were used without further treatment. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Characterization ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Molecular weights and molecular weight distributions were measured on PL-GPC22o high temperature gel permeation chromatography (GPC) equipped with a PLgel - $5 \\mu \\mathrm { m }$ MIXED-D column with a dimension of $3 0 0 \\times 7 . 5 ~ \\mathrm { m m }$ anda refractive index detector.HPLC grade chloroform was used as elution solvent at $4 0 ~ ^ { \\circ } \\mathbf { C }$ witha flow rate of $1 . 0 \\mathrm { \\ m L } \\mathrm { m i n } ^ { - 1 }$ and molecular weight was calibrated with polystyrene standard.The concentration of all sampleswas $2 0 ~ \\mathrm { m g / 3 ~ m L }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Structure and cis/trans ratio of 1,4-cyclohexylene ring in the polymer chain of PBC were determined by proton and carbon 13 nuclear magnetic resonance ( $^ 1 \\mathrm { H }$ NMR and $^ { 1 3 } \\mathrm { C }$ NMR) in $\\mathbf { C D C l } _ { 3 }$ solvent using a Bruker AVIII40o NMR spectrometer at room temperature. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Differential scanning calorimetry (DsC) measurements were performed using differential scanning calorimeter (METTLER TOLEDO DSC I).Temperature calibaration was carried out using an indium standard.Measurements were performed under a nitrogen atmosphere at a flow rate of $5 0 \\mathrm { \\ m L } \\mathrm { \\ m i n } ^ { - 1 }$ About $\\mathrm { 5 ~ m g }$ of sample was placed in an alumina sample pan and the measurement was carried out according to the following process: the sample was heated up to $2 6 0 ~ ^ { \\circ } \\mathrm { C }$ at $1 0 ~ ^ { \\circ } \\mathbf { C }$ min and held at this temperature for $4 ~ \\mathrm { m i n }$ to erase the heat history.It was then cooled down to $- 4 0 ~ ^ { \\circ } \\mathbf { C }$ at $1 0 ~ ^ { \\circ } \\mathbf { C }$ min.Subsequently, a second heating scan was performed at $1 0 ~ ^ { \\circ } \\mathbf { C }$ min to $2 6 0 ~ ^ { \\circ } \\mathrm { C }$ The melting point $\\left( T _ { \\mathrm { m } } \\right)$ and heat of fusion $\\left( \\Delta H _ { \\mathrm { m } } \\right)$ were obtained from the second heating scan and the crystallization tempera ture $\\left( T _ { \\mathrm { c } } \\right)$ was taken from the cooling scan.The degree of crys tallinity was calculated according to the following equation: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } {  { \\chi _ { \\mathrm { c } } ( ^ { \\circ } / \\% ) } } \\\\ & { = \\frac { \\Delta H _ { \\mathrm { m } } } { f ( \\mathbf { P B A } ) \\times \\Delta H _ { \\mathrm { m } } ^ { \\oplus } ( \\mathbf { P B A } ) + f ( t r a n s \\mathbf { P B C } ) \\times \\Delta H _ { \\mathrm { m } } ^ { \\oplus } ( t r a n s \\mathbf { P B C } ) } } \\\\ & { \\times 1 0 0 \\% } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\chi _ { \\mathrm { c } }$ is the degree of crystallinity, $f$ is the weight fraction, $\\Delta H _ { \\mathrm { m } }$ is the experimental melting heat of fusion,and $\\Delta H _ { \\mathrm { m } } ^ { \\boldsymbol { \\theta } }$ is the heat of fusion of $1 0 0 \\%$ crystalline $\\left( 1 3 5 \\mathrm { J } \\mathrm { g } ^ { - 1 } \\right.$ for PBA and 141 J $\\mathrm { g } ^ { - 1 }$ for trans-PBC calculated according to the group contribution theory).46,47 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Thermal stability measurements were conducted using a Mettler-Toledo TGA/DSC thermogravimetric analysis (TGA). For each sample, $6 { - } 1 0 \\ \\mathrm { \\ m g }$ sample was placed in a ceramic furnace and the TGA curve was recorded ranging from 50 to 800 ${ } ^ { \\circ } \\mathbf { C }$ with a heating rate of $1 0 \\ ^ { \\circ } { \\bf C } \\ \\operatorname* { m i n } ^ { - 1 }$ under dry nitrogen or air atmosphere with a flow rate of $5 0 \\mathrm { \\ m L } \\mathrm { \\ m i n } ^ { - 1 }$ .We took the temperature at which the weight loss was $5 \\% \\left( T _ { 5 \\% } \\right)$ as an index to evaluate the thermal stability of the sample. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Wide angle X-ray diffraction (WAXD) patterns were performed on a D8 Advance diffractometer (Bruker AX,Germany) with a $\\mathrm { { C u } \\ K \\mathfrak { a } }$ radiation $( \\lambda = 0 . 1 5 4 \\ \\mathrm { n m } )$ . The equipment was operated at $4 0 \\ \\mathrm { k V }$ and $4 0 \\ \\mathrm { m A }$ under room temperature.The sample films were scanned in fixed time mode with9 min under diffraction angle $2 \\theta$ in the range of $5 \\mathrm { - } 5 0 ^ { \\circ }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Tensile testing was performed in an Instron 5567 tensile testing machine with a $5 0 0 ~ \\mathrm { N }$ load cell. The stretching rate was $1 0 0 \\mathrm { m m } \\mathrm { m i n } ^ { - 1 }$ and the test temperature was $2 5 \\ ^ { \\circ } \\mathrm { C } .$ Dumb-bellshaped sample bars with dimensions of $3 5 . 0 ~ \\mathrm { m m }$ (length),2.0 $\\mathrm { m m }$ (neck width) and $0 . 5 \\ \\mathrm { m m }$ (thickness) were prepared by press-molding at temperature $2 0 { } ^ { \\circ } \\mathbf { C }$ higher than $T _ { \\mathrm { m } }$ or $T _ { \\mathrm { f } }$ of the sample and subsequently cooled down to temperature below its $T _ { \\mathrm { c } }$ or simply to room temperature,without releasing the pres sure.All data were obtained by averaging the data from five parallel measurements. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cyclic tensile testing was done with an Instron 5567 apparatus.The dumb-bell-shaped sample bars with dimensions of $3 5 . 0 \\mathrm { m m }$ (length), $2 . 0 \\mathrm { m m }$ (width),and $0 . 5 \\mathrm { m m }$ (thickness) were stretched to $\\varepsilon _ { \\mathrm { { m } ; } }$ $2 0 0 \\%$ elongation at room temperature with a $1 0 0 \\ \\mathrm { m m } \\ \\mathrm { m i n } ^ { - 1 }$ stretching rate.Then the clamps began to return with a speed of $5 0 \\ \\mathrm { m m } \\ \\mathrm { m i n } ^ { - 1 }$ until the force on the sample was O.After the above two steps,one cycle is complete. Three samples were tested to calculate mean values and standard deviation.Every sample was subjected to 5 cycles and the shaperecovery rate $\\left( R _ { \\mathrm { r } } \\right)$ was calculated according to the following equation: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { r } } ( N ) = { \\frac { \\varepsilon _ { \\mathrm { m } } - \\varepsilon _ { \\mathrm { p } } ( N ) } { \\varepsilon _ { \\mathrm { m } } - \\varepsilon _ { \\mathrm { p } } ( N - 1 ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $N$ is the cycle number, $\\varepsilon _ { \\mathrm { { m } } }$ is the maximum strain imposed on the material, $\\varepsilon _ { \\mathrm { { p } } } ( N )$ and $\\varepsilon _ { \\mathrm { p } } ( N - 1 )$ are the strains of the sample in two successive cycles when the force on the sample is O and $R _ { \\mathrm { r } } ( N )$ is based on two successive cycles. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The authors are grateful for the financial support by the National Natural Science Foundation ofChina (NSFC,Grant No. 51503217),Key Projects in the National Science & Technology Pillar Program of China (2015BAD15B08),and Ningbo Innovation Project (Grant No.2015B11003). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Notes and references ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1D.J.Brunelle and T. Jang,Polymer,2006,47,4094-4104.   \n2C.Berti，E.Binassi，A.Celli，M.Colonna，MFiorini, P.Marchese,E.Marianucci,M.Gazzano,F.D.I.Credico and D.J.Brunelle,J.Polym. Sci.,PartB:Polym.Phys.,2008, 46,619-630.   \n3 C.Berti,A. Celli,P.Marchese,G. Barbiroli, F.Di Credico, V.Verney and S.Commereuc，Eur. Polym. J.，2009，45, 2402-2412.   \n4M.Gigli，N.Lotti，M.Gazzano，V.Siracusa，L.Finelli, A.Munari and M. Dalla Rosa, Ind.Eng. Chem. Res.,2013, 52,12876-12886.   \n5 M.Gigli,N.Lotti,M.Vercellino，L.Visai and A.Munari, Mater. Sci. Eng.,C,2014,34,86-97.   \n6 W.J.Yoon,K. S. Oh,J. M.Koo, J.R.Kim,K.J.Lee and S.S.Im,Macromolecules,2013,46,2930-2940.   \n7L.Genovese,N.Lotti,M.Gazzano,L.Finelli and A.Munari, eXPRESS Polym. Lett.,2015,9,972-983.   \n8J.M.Dennis,J.S.Enokida andT.E.Long,Macromolecules, 2015,48,8733-8737.   \n9 B.Vanhaecht,M.N. Teerenstra,D.R. Suwier,R.Willem, M.Biesemans and C.O.R.E.Koning,J.Polym. Sci.,Part A: Polym. Chem.,2001,39,833-840.   \nlOJ.Liu andA.F.Yee,Macromolecules,1998,31,7865-7870.   \nl1L.Wang,Z.Xie,X.Bi,X.Wang,A. Zhang,Z.Chen,J. Zhou and Z.Feng,Polym.Degrad. Stab.,2006,91,2220-2228.   \nl2M.Fabbri,M.Soccio,M.Gigli,G.Guidotti,R.Gamberini, M.Gazzano,V. Siracusa,B.Rimini,N.Lotti and A.Munari, Polymer,2016,83,154-161.   \n13 L.Genovese，M. Soccio，M. Gigli，N. Lotti，M.Gazzano, V. Siracusa and A.Munari,RSC Adv.,2016,6, 55331-55342.   \n14 Y. Gong, C. W. Hu, H. Li, K. L. Huang and W. Tang,J. Solid State Chem.,2005,178,3152-3158.   \n15 L.P.Chen，A.F. Yee，J. M.Goetz and J. Schaefer, Macromolecules,1998,31,5371-5382.   \n16 C.Berti,A.Celli,P.Marchese,E.Marianucci,G.Barbiroli and F.Di Credico,Macromol.Chem.Phys.,2008,209,1333- 1344.   \n17 H. R. Kricheldorf and G. Schwarz,Makromol. Chem.,1987, 188,1281-1294.   \n18N.Sanchez-Arrieta,A.M.de Ilarduya,A.Alla and S.Munoz Guerra,Eur.Polym.J.,2005,41,1493-1501.   \n19 M.Gigli，N.Lotti，M.Gazzano，V.Siracusa，L.Finelli, A.Munari and M.D.Rosa,Polym.Degrad. Stab.,2014,105, 96-106.   \n20 T.E. Sandhya, C.Ramesh and S. Sivaram, Macromolecules, 2007,40,6906-6915.   \n21 F. Liu,J. Zhang,J. Wang,H. Na and J. Zhu, RSC Adv., 2015, 5, 94091-94098.   \n22 F.Liu, J. Zhang,J.Wang,X.Liu,R. Zhang, G.Hu,H. Na and J. Zhu,J. Mater.Chem.A,2015,3,13637-13641.   \n23 C.Berti,A.Celli,P.Marchese,E.Marianucci, S.Sullalti and G.Barbiroli,Macromol. Chem. Phys.,2010,211,1559-1571.   \n24 Z.Wei, C. Zhou,Y. Yu and Y. Li,RSC Adv.,2015,5,42777- 42788.   \n25 M.Vert,Biomacromolecules,2005,6, 538-546.   \n26V.Tserki，P.Matzinos，E.Pavlidou，D．Vachliotisand C.Panayiotou,Polym. Degrad. Stab.,2006,91,367-376.   \n27 S.Y.Hwang, X.Y. Jin,E. S.Yoo and S. S.Im,Polymer,2011, 52,2784-2791.   \n28 G.C.Liu,J.B. Zeng, C.L. Huang,L. Jiao, X.L.Wang and Y. Z.Wang,Ind.Eng.Chem. Res.,2013,52,1591-1599.   \n29 G.Wang and Z. Qiu,Ind. Eng. Chem. Res., 2012,51,16369- 16376.   \n30 M.S. Nikolic and J. Djonlagic,Polym. Degrad. Stab.,2001,74, 263-270.   \n31 X.Q. Shi,H. Ito and T. Kikutani,Polymer,2005,46,11442- 11450.   \n32 E.Cranston，J. Kawada，S.Raymond，F.G.Morin and R.H.Marchessault,Biomacromolecules,2003,4, 995-999.   \n33L.Wu,R. Mincheva,Y.Xu,J.-M. Raquez and P.Dubois, Biomacromolecules,2012,13,2973-2981.   \n34 B. Wu, Y. Xu, Z. Bu, L. Wu, B.-G. Li and P. Dubois, Polymer, 2014,55,3648-3655.   \n35 R.Herrera, L. Franco,A. Rodriguez-Galan and J. Puiggali,J. Polym. Sci.,Part A: Polym. Chem.,2002,40,4141-4157.   \n36 J. Yang,Y. Chen, S. Qin,J. Liu, C. Bi, R. Liang, T. Dong and X.Feng,Ind. Eng. Chem.Res.,2015,54,8048-8055.   \n37 Z.Gan，K.Kuwabara，H. Abe，T.Iwata and Y. Doi, Biomacromolecules,2004,5,371-378.   \n38M.Yokouchi,Y.Sakakibara,Y.Chatani,H.Tadokoro and T.Tanaka, Macromolecules,1975,9,266-273.   \n39 J. Zhang,F. Liu, J. Wang,H.Na and J. Zhu, Chin. J.Polym. Sci.,2015,33,1283-1293.   \n40 R. M. Versteegen，R. P. Sijbesma and E. W. Meijer, Macromolecules,2005,38,3176-3184.   \n41 C.L.Lewis,Y.Meng and M.Anthamatten,Macromolecules, 2015,150715075734002.   \n42 L. Zhang,Y. Jiang, Z. Xiong, X. Liu, H. Na,R. Zhang and J. Zhu,J.Mater. Chem. A,2013,1,3263.   \n43 P. Ping,W. Wang, X. Chen and X. Jing,J. Polym. Sci., Part B: Polym. Phys.,2007,45,557-570.   \n44B.Vanhaecht,B.Rimez,R.Willem，M.Biesemans and C. E. Koning,J. Polym. Sci., Part A: Polym. Chem.,2002,40, 1962-1971.   \n45 M.A.Osman,Macromolecules,1986,19,1824-1827.   \n46 Y.H. Park and C. G. Cho,J. Appl. Polym. Sci.,2001,79,2067- 2075.   \n47K.G. Joback and R.C.Reid, Chem. Eng. Commun.,1987,57, 233-243. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

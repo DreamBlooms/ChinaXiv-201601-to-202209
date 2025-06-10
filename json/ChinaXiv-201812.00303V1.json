@@ -1,0 +1,327 @@
+[
+    {
+        "type": "text",
+        "text": "1 水苏糖的理化特性及其在动物生产上的应用研究进展",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 赵歆胸 刘吉喆 杨桂芹\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 (沈阳农业大学畜牧兽医学院，沈阳110866)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：水苏糖是天然存在的一种四糖，也是大豆低聚糖的主要功能性组分，属于非消化寡糖。本文从改善动物肠道菌群组成、提高机体免疫力和提高动物生产性能等方面，综述了水苏糖的理化特性，及其在人类食品领域和家禽、猪、水产等动物生产领域的应用研究进展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "7 关键词：水苏糖；理化特性；肠道菌群；动物生产中图分类号：S816.7 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水苏糖属于 $\\mathfrak { a } \\mathrm { . }$ 低聚半乳糖，主要存在于唇形科、豆科、玄参科等多种植物中，特别是唇形科水苏属的植物草石蚕。水苏糖的制备方法目前主要有物理提取法和酶法。以毛叶地笋、泽兰、草石蚕等为原料，采用物理提取法提取出的水苏糖含量一般在 $2 0 \\% { \\sim } 7 0 \\% ^ { [ 1 ] }$ 。以草石蚕为原料，采用生物提纯和工业色谱分离技术制备的水苏糖纯度高达 $90 \\%$ 以上[2]。以大豆及其加工副产品为原料生产的大豆低聚糖中，水苏糖含量一般在 $1 8 \\% { \\sim } 7 1 \\%$ 。GB/T22491-2008对大豆低聚糖的定义中，纯度为 $7 5 \\%$ 的大豆低聚糖一般含水苏糖 $1 8 \\%$ 、棉籽糖 $6 \\%$ 和蔗糖 $24 \\%$ 。张闪闪等[3]通过酵母发酵大豆浓缩蛋白乳清，提取的水苏糖纯度达 $90 \\%$ 。水苏糖也是大豆低聚糖的主要功能性组分4。近年来，我国对水苏糖的研究逐渐增多，除了原有的食品、医药等领域外，水苏糖在动物生产上的应用也越来越引起人们的广泛关注。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1水苏糖的分子结构和理化特性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水苏糖是由1分子 $a -$ 葡萄糖、1分子β-果糖和2分子 $a -$ 半乳糖，以半乳糖 $( \\ a = 1 \\to 6 )$ -半乳糖 $( \\ a 1 \\to 6 ) \\cdot$ 葡萄糖 $( \\alpha 1  2 \\beta )$ ）果糖方式连接组成，因此又被称为四糖[5]。水苏糖的分子式为 $C _ { 2 4 } \\mathrm { H } _ { 4 2 } \\mathrm { O } _ { 2 1 }$ ，相对分子质量为666.59，分子结构式如图1所示。经X-单晶衍射测定认为，水苏糖属于单斜晶系，通过氢键堆积成三维层状结构[5-6]，如图2所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2018-01-31  \n基金项目：国家自然科学基金项目（31772618)  \n作者简介：赵歆昀（1994—），女，辽宁沈阳人，硕士研究生，从事动物营养与饲料科学研究。E-mail:  \n503796116@qq.com  \n\\*通信作者：杨桂芹，教授，硕士生导师，E-mail:guiqiny@126.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHOH CH2 CH2 OH H HO OH H OHHOH H H H OH H CH2OH H OH H OH H OH OH H ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dd6fd439b0b2a4ef53639b56a30c12ae9429dec0a740f8143596d04708b147a.jpg",
+        "img_caption": [
+            "图1水苏糖的分子结构式",
+            "Fig.1Molecular structure formula of stachyose ",
+            "图2水苏糖的X单晶衍射结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.2X-ray crystal structure and the atomic numbering scheme of stachyose[5] ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "纯净的水苏糖为白色粉末，其甜度是蔗糖的 $22 \\%$ ，口感清爽，没有异味。水苏糖结晶为结合4分子水的细小晶体，易溶于水，溶解度为 $1 3 0 ~ \\mathrm { g } ( 2 0 ~ \\mathrm { ~ \\textdegree ~ } )$ ，不溶于乙醚、乙醇等有机溶剂，熔点为101℃，在真空中加热可失去结晶水。无水水苏糖的熔点为 $1 6 7 { \\sim } 1 7 0 \\ \\mathrm { ~ \\textdegree }$ ，保湿性和吸湿性均小于蔗糖，没有还原性。郭美丽等7在一系列毒理试验中证明水苏糖是安全无毒的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2水苏糖在食品领域的应用",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于人类和单胃动物消化系统中缺乏消化α-1,6糖苷键的消化酶，因而水苏糖可直接进入消化道后端，被肠道双歧杆菌及少数乳酸杆菌酵解和利用。因此，水苏糖等非消化寡糖又被称作膳食纤维或益生元[8。美国、日本和欧洲等发达国家对水苏糖的开发和利用已十分广泛，随着水苏糖生产技术的成熟及应用的推广，其发展前景也逐步受到我国的关注与重视。现如今，我国与水苏糖有关的专利有153项，其中有关于水苏糖生产技术的专利有 29项，关于水苏糖检测技术的专利有2项，其余均为水苏糖的应用专利[1]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1调整肠道菌群平衡 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hayakawa等[9]研究表明，含 $23 \\%$ 及纯化后含 $71 \\%$ 水苏糖的大豆低聚糖，能被人肠道双歧杆菌有效利用，显著提高了粪便中双歧杆菌的数量。罗予等[10]以大豆低聚糖、水苏糖、棉籽糖和蔗糖为基质配制培养液，分别接种人粪便青春双歧杆菌和大肠埃希菌，发现水苏糖是促双歧杆菌生长的主要因素。舒国伟等[1研究表明，在乳酸菌培养基（MRS）中添加 $0 . 8 \\%$ 、 $1 . 0 \\%$ 的水苏糖均能显著加速人两歧双歧杆菌 BB01的生长。双歧杆菌除了在肠道内能优先利用非消化寡糖外，在多种非消化寡糖共同存在的条件下，还能优先消耗水苏糖，因此水苏糖能直接定向增殖双歧杆菌[12]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 提高机体免疫功能",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于水苏糖分子中的α-1,6-半乳糖结构，在配合基接收器交感反应的分子机制基础上，参与免疫、病原体和细胞之间的吸附等生物过程，使水苏糖具有预防病原体感染、中和毒素和调节免疫系统的功能[13]。用水苏糖（以每 $\\boldsymbol { 1 0 } \\mathrm { g }$ 体重 $0 . 2 ~ \\mathrm { m L }$ 的量）对小鼠每天灌胃1次，连续30d后测定得出，小鼠体液免疫功能及单核巨噬细胞功能均为阳性[14]。另外，水苏糖在双歧杆菌的作用下，能分解产生提高人体免疫力的多重免疫功能因子，具有提高人体免疫力的功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 缓解便秘和防治腹泻 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水苏糖属于小分子水溶性膳食纤维，到达大肠后优先被双歧杆菌利用，产生大量的短链脂肪酸，如乙酸、丙酸和正丁酸等[15]。据报道，103 名便秘患者每天通过服用含 $\\boldsymbol { 5 } \\mathrm { g }$ 水苏糖的冲剂，排便状况获得改善，肠道功能得到增强[16]。同时，水苏糖分子中有大量的羟基，在肠道中能很好地吸收水分，有缓解腹泻的作用[17]。此外，水苏糖还具有保护肝脏、抑癌、抑制特异性皮炎、抗关节炎、防止龋齿、预防结肠炎、排铅、降血压和降血脂、抗氧化和抗衰老等功能[18]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3水苏糖在家禽生产上的应用",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1水苏糖对家禽肠道菌群的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pacifici等[19]研究表明，人工注射 $5 \\%$ 、 $10 \\%$ 的水苏糖到孵化至第17天鸡胚的羊膜腔中，继续孵化至第21天（出孵），结果表明，水苏糖或棉籽糖对鸡胚肠道菌群、铁的生物学利用率和肠黏膜组织形态功能均具有有益的作用。水苏糖可被肉仔鸡盲肠内的双歧杆菌及少数乳酸杆菌酵解和利用，其发酵速度在大豆低聚糖中仅次于棉籽糖[20]。易中华[21]研究表明，饲粮中添加 $1 . 0 \\%$ 的水苏糖制剂显著增加了肉仔鸡盲肠食糜中双歧杆菌和乳酸杆菌的数量，显著降低了盲肠食糜中大肠杆菌和沙门氏菌的数量。Lan 等[22]以14 日龄肉仔鸡盲肠菌为接种物，体外发酵大豆低聚糖，结果表明，与大豆低聚糖和棉籽糖相比，水苏糖具有最大的产气量和产气速率，显著抑制了大肠埃希氏菌和产气荚膜梭菌的生长。杨桂芹等[23]研究表明，添加 $1 . 0 \\%$ 的水苏糖显著提高了肉仔鸡体外盲肠内容物培养液中菌群的丰富度，并促进了布劳特氏菌属、副拟杆菌属和路氏乳杆菌属细菌的增殖。水苏糖在双歧杆菌发酵的作用下，在肠道中产生大量的短链脂肪酸，使肠道内pH显著下降，在此环境下能抑制有害菌增殖，调整肠道微生态平衡。但 Jiang 等[24]报道，水苏糖除在初始阶段对肉仔鸡盲肠内的丁酸盐浓度有显著影响外，在其余方面并没有积极影响。而易中华[22]在研究中发现，在饲粮中添加水苏糖制剂显著增加了肉仔鸡盲肠食糜中乙酸和短链脂肪酸的浓度以及丁酸占短链脂肪酸总量的摩尔百分比，随着水苏糖添加量的增加，回肠和盲肠中食糜pH呈下降的趋势；另外，添加 $0 . 5 \\%$ 的水苏糖制剂能够有效地降低肠道内挥发性盐基氮的含量，从而能抑制早期肉仔鸡肠道腐败菌的增殖。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2水苏糖对家禽消化器官和肠黏膜组织形态的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肠道多胺、表皮生长因子、短链脂肪酸和pH等因素都影响着家禽消化道形态结构，这些因素中大多受饲粮中营养物质的调节，而非消化寡糖属于重要的调节物之一[25]。易中华等[26]研究表明，添加水苏糖不同程度地增加了肉仔鸡消化器官的绝对重量，尤其以盲肠和结直肠的增加效果最为明显；添加 $0 . 5 \\%$ 的水苏糖制剂显著提高了肉仔鸡十二指肠、空肠和回肠的绒毛高度，显著降低了空肠和回肠的隐窝深度，提高了空肠和回肠的绒毛高度/隐窝深度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3水苏糖对家禽生产性能和营养物质消化率的影响 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "水苏糖是一种非消化寡糖，因其特有的功能性和非消化性，使其对动物的消化生理和营养物质代谢都有重要的影响，从而也影响各种营养物质的消化吸收，最终影响动物的生产性能。Jiang 等[24]研究表明，添加 $1 . 2 \\%$ 水苏糖的饲粮与正常豆粕饲粮相比，肉仔鸡对饲粮中营养物质的消化率没有显著区别，但随着水苏糖添加量的增加，肉仔鸡对饲粮中营养物质的消化率稍有降低。易中华[21]研究表明，添加 $0 . 5 \\%$ 的水苏糖制剂对饲粮营养物质的表观利用率有着不同程度的提高，而添加 $2 . 0 \\%$ 的水苏糖制剂时，营养物质的表观利用率却显著降低，其中钙、磷、中性洗涤纤维和酸性洗涤纤维受饲粮水苏糖添加量的影响较大，其主要原因是高剂量的水苏糖加快了饲粮在消化道的流动速度。在肉仔鸡饲粮中添加水苏糖会导致肉仔鸡平均日增重和饲料利用率降低，随着水苏糖添加量的增加，肉鸡生长呈线性递减和二次增长趋势[24]。易中华等[27]研究表明，水苏糖对肉仔鸡生长性能的影响存在剂量反应关系，低剂量 $( 0 . 5 \\% )$ 表现为轻微的促进作用，高剂量 $( 2 . 0 \\% )$ 则表现为抑制作用，而且生长前期剂量反应程度强于生长后期。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4水苏糖对家禽免疫功能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "汪莉等[28]研究表明，包括水苏糖在内的一些低聚糖可促进蛋雏鸡的胸腺、法氏囊等免疫器官的发育，减少氨气（ $\\mathrm { N H } _ { 3 }$ ）、硫化氢（ $\\mathrm { H } _ { 2 } \\mathrm { S }$ ）等粪便臭气物质的排放量。饲粮中添加 $0 . 5 \\%$ 的水苏糖制剂有增加18日龄肉仔鸡脾脏指数的趋势，可显著提高18日龄肉仔鸡血清免疫球蛋白 $\\mathrm { A ( I g A ) }$ 含量，但显著降低了36日龄肉仔鸡的脾脏指数[29]。因此，水苏糖可以作为免疫促进剂，可提高动物的免疫功能，其免疫调节作用可能主要是通过调节动物肠道微生态的途径来实现[30]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4水苏糖在猪生产上的应用",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1水苏糖对猪肠道菌群的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水苏糖在猪肠道中发挥的作用机理与在肉仔鸡上相同，其效果也比较相似。Krause 等[31首次报道了在体外条件下水苏糖可完全被断奶仔猪后肠微生物发酵，同时这个发酵过程会由于饲粮中高水平乳糖的添加而加速。Zhang 等[32]研究表明，饲粮添加 $1 . 0 \\%$ 的水苏糖可以显著增加猪回肠中乳酸杆菌以及盲肠和结肠中双歧杆菌数量，显著减少结肠中细菌数量，显著增加了回肠、盲肠和结肠中挥发性脂肪酸的含量。但高剂量的水苏糖会使空肠、回肠、盲肠和结肠中乳酸菌和双歧杆菌的数量下降[33]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2水苏糖对猪生产性能和营养物质消化率的影响 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "豆粕中的棉籽糖和水苏糖被认为是单胃动物的抗营养因子，主要由于其在动物后肠发酵，对代谢能的提供没有正向作用[34]。Smiricky 等[35]研究也表明，水苏糖和棉籽糖降低了猪对饲粮氮和氨基酸的消化率，并随着添加量的增加，干物质消化率呈显著的线性下降。研究发现，在含有水苏糖的饲粮中添加 $a -$ 半乳糖苷酶可消除这一负面影响[36]，因为该酶可在仔猪的小肠将 $80 \\%$ 的水苏糖水解，进而显著提高了饲粮 $a -$ 半乳糖的消化率。虽然水苏糖在猪营养物质消化率方面存在负效应，但与正常豆粕饲粮相比，在无豆粕饲粮中添加 $1 . 0 \\%$ 的水苏糖对仔猪的生产性能产生没有显著影响，但显著降低了断奶仔猪的腹泻率，不过当添加量达到 $2 . 0 \\%$ 时，断奶后前2周仔猪的生产性能显著下降[32]。这说明水苏糖对仔猪生产性能影响的剂量效应非常明显，同时也说明水苏糖的抗营养性主要表现在营养物质消化率上。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5水苏糖在水产等其他动物生产上的应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蔡英华[37表明，牙鲆摄食率随着饲料中水苏糖含量的升高而显著升高，但饲粮干物质和蛋白质的表观消化率有降低的趋势。饲粮添加水苏糖、棉籽糖或二者联合添加后，大西洋鲑鱼的体重和生长速度介于全鱼粉饲粮和豆粕替代部分鱼粉饲粮之间，其对蛋白质和脂肪的消化率没有产生显著影响[38]。与鱼粉饲粮相比，饲料中添加 $3 0 0 ~ \\mathrm { g / k g }$ 的豆粕显著降低了幼龄异育银鲫的生长性能，但添加与豆粕中等量的水苏糖、棉籽糖或水苏糖 $+$ 棉籽糖，并没有显著改变8周试验期内幼鱼的生长状况和肠道形态[39]。水苏糖对异育银鲫的体成分组成及肠道菌群数量也无显著影响[40]。另外，水苏糖在一定程度上可提高异育银鲫的非特异性免疫功能[41]，现在已有添加水苏糖的功能性饲料(专利产品)用于防治草鱼赤皮病[42]。 $\\mathrm { H u }$ 等[43]研究表明，饲料中添加 $1 . 2 5 \\%$ 的水苏糖显著提高了幼龄大菱鲆的生长性能、饲料利用率和消化酶活性，添加 $1 . 2 5 \\%$ 和 $5 . 0 0 \\%$ 的水苏糖显著提高了与消化有关的肠纤维素分解菌的丰度，增强了幼龄大菱鲆的肠黏膜屏障功能。但添加量（ $2 . 5 \\% \\sim 5 . 0 \\%$ ）的水苏糖也会导致大菱鲆采食量增加、饲料效率降低，当添加量达到 $5 . 0 \\%$ 时，虽然增加了大菱鲆肠道内的有益菌数量，同样也增加了一些潜在致病菌的数量[44]。由此可见，水苏糖对同一种动物不同功能（生长、消化、肠黏膜屏障等）的影响，其剂量效应存在差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除鸡、猪和鱼以外，水苏糖应用到家蚕、猕猴和小鼠等动物上也都表现出了正向效应。陈传杰等[45]研究表明，家蚕饲粮中添加 $0 . 5 0 \\%$ 的水苏糖显著提高了家蚕虫蛹统一生命率、全茧量、茧层量、茧层率。李海芳[4]研究表明，在猕猴饲粮中添加水苏糖后，肠道内乳酸杆菌的数量增加，大肠杆菌的数量降低；饲喂水苏糖6周后，猕猴排便正常，粪便外观黄色，呈疏松条状，表明水苏糖改善了猕猴的肠道功能；另外，饲粮中添加水苏糖后也显著提高了猕猴的免疫力和抗病力。Li等[47]在研究中发现，含 $5 5 . 3 \\%$ 水苏糖、 $2 5 . 8 \\%$ 棉籽糖和 $9 . 7 \\%$ 毛蕊花糖的大豆寡糖制剂促进了小鼠肠道内有益菌的增殖，抑制了病原菌的增殖，显著促进了肠蠕动和排泄。魏艳等[48]研究表明，水苏糖-植物乳杆菌合生元能显著提高免疫力低下小鼠的特异性细胞免疫、体液免疫和非特异性免疫功能，提高血清中部分免疫因子水平，增强小鼠的免疫功能。通过对Ⅱ型糖尿病大鼠（模型）进行水苏糖喂养4 周试验发现，水苏糖会通过改变大鼠肠道菌群 mRNA 的表达而影响肠道菌群平衡[49]。窦江丽等[50]研究表明，添加50、 $1 0 0 ~ \\mathrm { \\mu g / m L }$ 的水苏糖能显著提高兔体外培养的中性粒细胞的活力，同时也显著提高了对中性粒细胞吞噬金黄色葡萄球菌的能力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "可见，目前对水苏糖在动物生产上的研究主要集中在其对家禽、猪、鱼等动物的肠道菌群、消化能力和免疫能力等方面：1）同对人类肠道内环境和肠道菌群的作用相似，水苏糖对调整鸡、猪、鱼、猕猴和鼠等动物的肠道菌群平衡具有一定的正向作用；2）水苏糖可不同程度地增加动物的消化器官重量，改善小肠绒毛形态，增强肠黏膜的屏障功能；3）水苏糖具有预防病原体感染、中和毒素和调节免疫系统的功能。有关水苏糖对家禽、猪和水产动物肠道菌群、消化能力和免疫功能影响的主要研究结果如表1所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table1Efects ofstachyose on intestinal microflora,digestive abilityand immunityin poultry,pigandaquatic animals水苏糖来源于天然植物，安全性高，应用范围广。合理应用水苏糖能显著改善动物胄肠道菌群平衡，增强动物体免疫力，但对动物的生产性能作用不大，剂量效应也非常明显。在动物生产上的应用还存在很多问题，如成本问题，水苏糖来源、添加水平及基础饲粮中水苏糖含量等对其效应的影响差异，饲粮添加水苏糖后对动物产品品质、粪便臭气化合物含量等潜在生理功能的影响还需进一步研究，特别是分子水平上的作用机制还需进一步探索。我国对水苏糖的研究起步较晚，但水苏糖的开发和应用正在日益受到重视，随着水苏糖制备成本的降低，相信随着对水苏糖研究的深入，水苏糖的应用范围会不断扩大，市场前景将更为宽广。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f007a95f04fd15d0aeb4da18f759408a430a9433187be3d1a30479861f179f72.jpg",
+        "table_caption": [
+            "表1水苏糖对家禽、猪和水产动物肠道菌群、消化能力和免疫能力的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>影响方面</td><td colspan=\"3\">研究对象</td></tr><tr><td>Affective</td><td>Research</td><td>研究结果 Research result</td><td>文献出处 Reference source</td></tr><tr><td>terms</td><td>Object</td><td></td><td></td></tr><tr><td rowspan=\"3\">肠道菌群 Intestin</td><td rowspan=\"3\">家禽</td><td>显著增加肉仔鸡肠道内部分有益菌的数量，抑制部分</td><td>Pacifici 等[19]、Grmanova等[20]</td></tr><tr><td>有害菌增殖，提高了肠道菌群的丰富度</td><td>易中华[21]、Lan 等[22]、杨桂芹等</td></tr><tr><td>显著增加肠道乳酸杆菌、双歧杆菌的数量，降低肠道</td><td>[23]、Jiang等[24]</td></tr><tr><td>al microflo</td><td>猪</td><td>大肠杆菌的数量，但高剂量的水苏糖会使肠道乳酸菌 和双歧杆菌数量下降</td><td>Krause 等[31]、Zhang 等[32]、潘宝 海等[33]</td></tr><tr><td>ra</td><td>水产动物</td><td>对异育银鲫肠道菌群数量无显著影响；显著提高了大 菱鲆与消化有关的肠纤维素降解菌的丰度，但高剂量 的水苏糖也增加了一些潜在致病菌的数量</td><td>Cai等[40]、Yang 等[44]</td></tr><tr><td>消化能力</td><td>家禽</td><td>增加了肉仔鸡消化器官的绝对重量，改善了小肠组织 形态；低剂量的水苏糖表现为促进饲粮营养物质的表 观利用率，高剂量的水苏糖表现为降低营养物质的表</td><td>易中华[21]、Jiang 等[24]、易中华 等[26-27]</td></tr><tr><td>Digestiv e ability</td><td>猪</td><td>观利用率，抑制肉仔鸡的生长性能 对猪营养物质消化率有负面影响，降低了仔猪的日增 重，但同时添加α-半乳糖苷酶后可提高饲粮营养物质</td><td>Zhang 等[32]、Hagely 等[34]、</td></tr><tr><td></td><td>水产</td><td>的消化率和仔猪的生产性能 低剂量的水苏糖显著提高了幼龄大菱鲆的生长性能、</td><td>Smiricky 等[35]、Pan 等[36]</td></tr><tr><td>免疫能力</td><td></td><td>饲料利用率和消化酶活性，但高剂量的水苏糖出现负 面影响 适宜剂量的水苏糖可促进蛋雏鸡免疫器官发育，提高</td><td>蔡英华[37]、Hu 等[43] 汪莉等[28]、易中华等[29]、呙于</td></tr><tr><td>Immuni</td><td>家禽</td><td>肉仔鸡血清免疫球蛋含量</td><td>明等[30]</td></tr><tr><td>ty</td><td>水产动物</td><td>可提高异育银鲫的非特异性免疫功能，还可用于防治 草鱼的赤皮病</td><td>王文娟等[41]、汲贵菊等[42]</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：  \n[1]张金泽.水溶性膳食纤维水苏糖的研究概况及应用现状[J].食品安全导刊,2014(13):62-63.  \n[2] 张金泽,周志桥,曾明,等.用工业色谱分离技术制备高纯水苏糖的方法：中国,CN:101633676[P].2010-01-27.  \n[3]张闪闪,汪立平,王锡昌.利用大豆浓缩蛋白乳清制备水苏糖的发酵条件[J].大豆科学,2008,27(1):137-140.  \n[4] 石云.大豆糖蜜中低聚糖纯化工艺及机理的研究[D].博士学位论文.无锡:江南大学,2015.  \n[5] WU X Y,CHAO Z M,WANG C,et al.Extraction and absolute crystal structureofstachyose[J].Chinese Journal of Structural Chemistry,2014,33(1):65-70.  \n[6] 马玉翠,王淳,王尉,等.水苏糖标准样品的研制[J].中国实验方剂学杂志,2017,23(14):68-73.  \n[7] 郭美丽,周燕萍,冯瑄,等.水苏糖安全性毒理学试验[J].毒理学杂志,2012,26(3):236-238.  \n[8] PATEL S,GOYAL A.Functional oligosaccharides:production,propertiesand applications[J].WorldJournal of Microbiology and Biotechnology,2011,27(5):1119-1128.  \n[9]HAYAKAWA K,MIZUTANI J,WADA K,et al.Effects of soybean oligosaccharides on human faecalflora[J].Microbial Ecology in Health and Disease,1990,3(6):293-303.  \n[10]罗予,毛理纳,蔡访勤.大豆低聚糖对肠道双歧杆菌和肠杆菌的促生长作用[J].现代生物医学进展,2007,7(3):399-400.  \n[11] 舒国伟,季丽媛,陈合,等.水苏糖、低聚木糖及半乳糖对双歧杆菌生长的影响[J].食品科技,2011,36(6):6-8,17.  \n[12]MILANI C,LUGLI G A,DURANTI S,et al.Bifidobacteria exhibitsocial behavior throughcarbohydrate resource sharing in the gut[J].Scientific Reports,2015,5:15782.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "13]HASHIMOTO H,YAMASHITA A,FUJITA K,et al.Enzymaticsynthesis of （20 $\\mathfrak { a }$ -linked galactooligosaccharide（ $\\mathbf { \\bar { a } }$ -GOS) and its functions[J].Journal of Applied Glycoscience,2004,51(2):169-176. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[14] 刘秀英，胡怡秀，胡余明，等.水苏糖、酸枣仁提取物口服液增强免疫力实验研究[J].中国热带 医学,2009(3):571-572,576.   \n[15]TUOHY K M,ROUZAUD G C,BRUCK W M,et al.Modulation of the human gut microflora towards improvedhealthusingprebiotics-assessmentofeficacy[J]J.CurrentPharmaceutical Design,2005(11):75-90.   \n[16] LI T,LU X S,YANG X B.Evaluation of clinical safety and beneficial effcts of stachyose-enriched （204号 $\\mathfrak { a }$ galacto-oligosaccharideson gut microbiota and bowel function in humans[J].Food& Function,2017,8(1):262-269.   \n[17]段素芳.水苏糖的功能及应用[J].饮料工业,2016,19(5):74-78.   \n[18]黄伟志,钟先锋,彭家伟,等.水苏糖生产、功能及其应用简述[J].食品工业科技,2018(1):327-332.   \n[19] PACIFICI S,SONG J,ZHANG C,et al.Intra amniotic administration of raffinose and stachyose affcts the intestinal brushborderfunctionality and alters gut microflora populations[J].Nutrients,2017,9(3):304-313.   \n[20] GRMANOVA M,RADA V,SIROTEK K,et al.Naturally occurring prebiotic oligosaccharides in poultry feed mixtures[J].Folia Microbiologica,2010,55(4):326-328.   \n[21] 易中华.水苏糖对肉鸡生长性能、肠道生理及免疫功能的影响[D].博士学位论文.北京:中国农业 大学,2006.   \n[22] LAN Y,WILLIAMS B A,VERSTEGEN M W A,et al.Soy oligosaccharides in vitro fermentation characteristics and its effect on caecal microorganisms of young broiler chickens[J].Animal Feed Science and Technology,2007,133(3/4):286-297.   \n[23] 杨桂芹,杨航,刘吉喆,等.大豆低聚糖及其功能组分对体外条件下肉仔鸡盲肠内容物粪臭素产量 及菌群组成的影响[J].动物营养学报,2017,29(11):4058-4068.   \n[24] JIANG H Q,GONG L M,MA Y X,et al.Effect of stachyose supplementation on growth performance,nutrient digestibility and caecal fermentation characteristics in broilers[J].British   \n[25] 张沛,杨桂芹,刘海英.大豆低聚糖对家禽肠道微生态的影响及作用机制研究进展[J].饲料工业 ,2016,37(5):60-64.   \n[26] 易中华,马秋刚,王晓霞,等.水苏糖对肉仔鸡消化器官发育及肠黏膜形态的影响[J].江西农业大学 学报,2010,32(3):566-570,576.   \n[27] 易中华,计成,马秋刚,等.低寡糖日粮中添加水苏糖对肉鸡生长性能的影响[J].中国饲料 ,2008(16):12-13.   \n[28] 汪莉,苏宁,苏军,等.低聚糖对蛋鸡产蛋性能及蛋壳质量的影响[J].中国家禽,2002,24(3):11-13.   \n[29] 易中华,计成,王晓霞,等.水苏糖对肉仔鸡免疫器官指数和血清免疫球蛋白的影响[J].养禽与禽病 防治,2009(2):4-9.   \n[30]呙于明,杨小军.营养与免疫互作[J].中国畜牧杂志,2005,41(5):3-5,9.   \n[31] KRAUSE D O,EASTER R A,MACKIE R IFermentation of stachyose and raffinose by hind-gut bacteria of the weanling pig[J].Lettrs in Applied Microbiology,2010,18(6):349-352.   \n[32] ZHANG L Y,LI D F,QIAO S Y,et al.Effects of stachyose on performance,diarrhoea incidence and intestinal bacteria in weanling pigs[J].Archives of Animal Nutrition,2003,57(1):1-10.   \n[33] 潘宝海,孙冬岩.α-半乳糖苷酶和水苏糖对断奶仔猪生长性能的影响[J].饲料工业,2011(增刊 1):69-72.   \n[34]HAGELY K B,PALMQUIST D,BILYEU K D.Classification of distinct seed carbohydrate profiles in soybean[J].Journal of Agricultural and Food Chemistry,2013,61(5):1105-1111.   \n[35] SMIRICKY M R,GRIESHOP C M,ALBIN D M,et al.The influence of soy oligosaccharides on apparent and true ileal amino acid digestibilities and fecal consistency in growing pigs[J].Journal of Animal Science,2002,80(9):2433-2441.   \n[36] PAN B H,LI D F,PIAO X S,et al.Efect of dietary supplementation with $\\mathfrak { a }$ galactosidase preparation and stachyose on growth performance,nutrient digestibility and intestinal bacterial populations of piglets[J].Archiv Fur Tierernaehrung,2002,56(5):327-337.   \n[37]蔡英华.几种大豆抗营养因子对牙鲆(Paralichthys olivaceus)生长和消化生理的影响[D].硕士学 位论文.青岛:中国海洋大学,2006. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[38]SORENSEN M,PENN M,EL-MOWAFI A,et al.Efect of stachyose,rafinose and soya-saponins supplementation on nutrient digestibility,digestive enzymes,gut morphology and growth performance in Atlantic salmon (Salmo salar L.)[J].Aquaculture,2011,314(1/2/3/4):145-152. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[39] KROGDAHL A.The effect of soybean meal (SBM) and its fours chemical factors on growth performance and intestinal morphology of jovenile allogynogenetic silver crucian carp (Carassius auratus gibelio $ { \\mathcal { G } } \\times$ Cyprinus carpio $8$ )[C/Program & Abstracts of the,International Symposium on Fish Nutrition & Feeding.2010.   \n[40] CAI C F,WANG W J,YE Y T,et al.Effect of soybean meal,raffinose and stachyose on the growth,body composition,intestinal morphology and intestinal microflora of juvenile allogynogenetic silver crucian carp (Carassiusauratusgibelio ${ \\mathcal { G } } \\times$ Cyprinuscarpio $8$ [J].Aquaculture Research,2012,43(1):128-138.   \n[41] 王文娟,叶元土,蔡春芳,等.豆粕及其抗营养因子对异育银鲫血清生化和非特异性免疫指标的影 响[J].中国饲料,2010(18):30-33,41.   \n[42]汲贵菊,黄河,李鑫.一种用于防治草鱼赤皮病的功能性饲料及制备方法：中国 ,CN:104187171B[P].2017-01-04.   \n[43] HU H B,ZHANG Y J,MAI K S,et al.Effects of dietary stachyose on growth performance,digestive enzyme activities and intestinal morphology of juvenile Turbot (Scophthalmus maximus L.)[J].Journal of Ocean University of China,2015,14(5):905-912.   \n[44] YANG P,HU H B,LIU Y,et al.Dietary stachyose altered the intestinal microbiota profile and improved the intestinal mucosal barrier function of juvenile turbot,Scophthalmus maximus L.[J].Aquaculture,2018,486:98-106.   \n[45] 陈传杰,张亚平,顾寅钰,等.添食水苏糖对家蚕原种虫蛹生命率及茧质的影响[J].中国蚕业 ,2007,28(2):30-32.   \n[46]李海芳.圈养非人灵长类动物肠道菌测定及水苏糖对肠道菌群的影响[D].硕士学位论文.福建:福 建农林大学,2015.   \n[47]LI T,LU X S,YANG X B.Stachyose-enriched $\\mathfrak { a }$ -galacto-oligosaccharides regulate gut microbiota and relieve constipation in mice[J].Journal of Agricultural and Food ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[48]魏艳,曾小群,潘道东,等.水苏糖-植物乳杆菌合生元对小鼠免疫功能的影响[J].中国食品学报,2014,14(1):14-19.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[49] LIU G,BEI J,LIANG L,et al.Stachyose improves inflammation through modulating gut microbiota of high-fat diet/streptozotocin-induced Type 2 diabetes in rats[J].Molecular Nutrition & Food Research,2018,62(6):e1700954. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[50] 窦江丽,谭成玉,白雪芳,等.棉子糖及水苏糖对兔外周血中性粒细胞功能的影响[J].精细与专用化学品,2008,16(3/4):26-27.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Physicochemical Property of Stachyose and Its Application Research Advances in Animal Production ZHAO XinyunLIU Jizhe YANG Guiqin \\* ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(College of Animal Husbandry and Veterinary, Shenyang Agricultural University, Shenyang 110866, China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Stachyose, a naturally occurring tetrasaccharide, is a major functional component of soybean oligosaccharides.It belongs to non-digestible oligosaccharides.This review summarizes the physical and chemical properties of stachyose and the research progress in its application in food and health care products as well as poultry, pig and aquaculture and other animal production from the perspectives of improving the composition of intestinal microflora of animals，enhancing immunity and improving animals' performance. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words: stachyose; physicochemical property; intestinal microflora; animal production ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（责任编辑营景",
+        "page_idx": 11
+    }
+]

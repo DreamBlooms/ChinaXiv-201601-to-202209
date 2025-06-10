@@ -1,0 +1,162 @@
+# Topological Dark Matter
+
+Hitoshi Murayama1,2,3 and Jing Shu1
+
+$^ { I }$ Institute for the Physics and Mathematics of the Universe,University of Tokyo,Kashiwa 277-8568, Japan ²Department of Physics，University of California, Berkeley，CA 94720 3Theoretical PhysicsGroup,awrenceBerkeleyNational LaboratoryBerkeleyC94720 (Dated: May 12,2009)
+
+Kibble mechanism drastically underestimates the production of topological defects,as confirmed recently in atomic and condensed mater systems.If non-thermall produced,they can be cosmological dark matterof mass $1 { \mathrm { - } } 1 0 \operatorname { P e V } .$ If thermalized, skyrmion of mass $1 { - } 1 0 \mathrm { T e V }$ is also a viable dark matter candidate, whose decay may explain $e ^ { \pm }$ spectra in cosmic rays recently measured by PAMELA,FERMI,and HESS.Models that produce magnetic monopoles below the inflation scale,such as Pati-Salam unification,are excluded.
+
+Topological defects are of common interest to condensed matter physics,atomic physics,astrophysics and cosmology, as well as algebraic topology [1]. When the symmetry group $G$ spontaneously breaks down to its subgroup $H$ ，there are continuously connected ground states parametrized by the coset space $G / H$ . The homotopy groups of the coset space then tell us what kinds of topological effects are possible. In most cases,non-trivial $\pi _ { d } ( G / H )$ implies the existence of $( 2 \textrm { -- } d )$ -dimensional topological defect. If the coset space has disconnected pieces $( \pi _ { 0 } ( G / H ) \neq 0 )$ ,we expect domain walls. For multiply-connected space $( \pi _ { 1 } ( G / H ) \neq 0 )$ ，there are strings (vortices). If the boundary of space can map nontrivially to the coset space $( \pi _ { 2 } ( G / H ) \neq 0 )$ ),we expect pointlike defects such as magnetic monopoles.An exception to the rule is when the whole space is mapped non-trivially to the coset space $( \pi _ { 3 } ( G / H ) \neq 0 )$ ,where skyrmionsare stabilized bynon-renormalizable terms in the low-energy effective theory[3]. In this case,it is not the boundary condition that is topologically non-trivial, but the configuration in the bulk.
+
+To estimate the initial abundance of defects produced by a phase transition in early universe,Kibble pointed out that the correlation length diverges at the critical temperature while the causality does not permit exchange of information beyond the horizon scale [4]. He therefore came up with a lower bound on the amount of defects,namely approximately one per horizon,called Kibble mechanism．Most of the literature uses this lower bound as the estimate of the abundance of topological defects from phase transitions in early universe.For point-like topological defects,one finds $n _ { T D } / s \sim$ $( T _ { c } / M _ { P l } ) ^ { 3 }$ ．Therefore,only phase transitions close to the grand-unification scale produce abundance of topological defects worthy of consideration.
+
+A decade later, Zurek [5] proposed a more refined estimate of the abundance by carefully considering the time scale available.His estimate has been confirmed experimentally in a large number of systems recently,now called Kibble-Zurek mechanism.The studies include liquid crystals [6,7],superfluid $^ { 4 } \mathrm { H e }$ [8] and $^ 3 \mathrm { H e }$ [9,10],an optical Kerr medium [11], Josephson junctions [12,13], superconducting films [14],and spinor Bose-Einstein condensate[15].
+
+We point out that the Kibble-Zurek mechanism provides a substantially larger abundance of topological defects from phase transitions in early universe than the original estimate by Kibble.Therefore even phase transitions just above the TeV energy scale may produce interesting (or dangerous) amount of topological defects.
+
+In particular,we discuss the possibility that point-like topological defects may be the cosmological dark matter,which is arguably one of the most pressing mysteries in cosmology,astrophysics,and particle physics[2][39]. The dominant paradigm to explain the dark matter is the thermal relic of yet-undiscovered particle.Within this paradigm,we consider dark matter candidates below approximately $1 0 0 \mathrm { T e V }$ in mass because of the unitarity bound [16]. Our main result in this Letter is that the natural range for topological dark matter, if non-thermally produced by a second-order phase transition, is ${ \cal O } ( 1 \sim 1 0 )$ PeV,which obviously violate the unitarity limit. Note that a symmetry breaking at this energy scale in the hidden sector is of great interest in many attempts to understand the origin of hierarchy between the Planck and electroweak scales such as dynamical supersymmetrybreaking,and extra dimensions.In addition,we also point out that skyrmions at the order $1 0 \mathrm { T e V } .$ once thermalized,are also interesting dark matter candidates that are often ignored in the literature [17]. The existence of skyrmion solution is quite generic in models where Higgs serves as a pseudo Nambu Goldstone boson, which opens the new possibility to connect the origin of electroweak symmetry breaking and dark matter.
+
+If the dark matter particles are produced thermally at temperatures higher than their mass, their initial abundance is the same as any other relativistic particle species.Then the final abundance is determined by their annihilation cross section,
+
+$$
+\Omega _ { X } h ^ { 2 } \approx \frac { 1 . 1 \times 1 0 ^ { 9 } ( \ell + 1 ) x _ { f } ^ { \ell + 1 } \mathrm { G e V } ^ { - 1 } } { g _ { * } ^ { 1 / 2 } M _ { P l } \langle \sigma v _ { r e l } \rangle _ { f } } \approx \frac { 3 \times 1 0 ^ { - 2 7 } \mathrm { c m } ^ { 3 } / \mathrm { s e c } } { \langle \sigma v _ { r e l } \rangle _ { f } }
+$$
+
+where $x _ { f } = m / T _ { f }$ with $T _ { f }$ the freeze-out temperature,and we used $g _ { * } \approx 1 0 0$ and $\ell = 0$ （ $S$ -wave).Assuming that only one partial wave $J$ would contribute,the annihilation cross section is limited from above by[16]
+
+$$
+\sigma _ { J } v _ { r e l } < { \frac { 4 \pi ( 2 J + 1 ) } { m ^ { 2 } v _ { r e l } } } \approx { \frac { 3 \times 1 0 ^ { - 2 2 } ( 2 J + 1 ) \mathrm { c m } ^ { 3 } / \mathrm { s e c } } { ( m / \mathrm { T e V } ) ^ { 2 } } } .
+$$
+
+Combining Eqs.(1,2),we find $m < 1 1 0 \ \mathrm { T e V }$ assuming $S$ waveannihilation and $J = 0$
+
+On the other hand, the Kibble-Zurek mechanism predicts a very different abundance of point-like topological defects. Throughout this paper, we assume second-order phase transition．The correlation length $\xi$ and relaxation time $\tau$ diverge near the critical temperature which can be parametrized using the critical exponents $\nu$ and $\mu$ respectively
+
+$$
+\xi = \xi _ { 0 } | \epsilon | ^ { - \nu } \ , \qquad \tau = \tau _ { 0 } | \epsilon | ^ { - \mu } \ ,
+$$
+
+where $\epsilon \equiv ( T _ { c } - T ) / T _ { c }$ characterizes the proximity to the critical temperature $T _ { c }$
+
+The system is quenched when it passes through the critical temperature with a finite speed.Itis characterized by the quenching rate $\tau _ { Q } \equiv ( t - t _ { c } ) / \epsilon$ to the linear order around time $t _ { c }$ when $T = T _ { c }$ .During the quenching,there exists a particular time $t _ { * }$ when the time remaining before the transition equals the equilibrium relaxation time $| t _ { * } - t _ { c } | = \tau ( t _ { * } )$ Beyond this point the system can no longer adjust fast enough to follow the changing temperature of the bath,and at time $t _ { * }$ the fluctuation becomes frozen until a time $| t _ { * } - t _ { c } |$ after the critical temperature is reached.It is easy to see that $| \epsilon ( t _ { * } ) | = ( \tau _ { Q } / \tau _ { 0 } ) ^ { \bar { - } 1 / ( 1 + \mu ) }$ . Therefore, the fluctuation does not get smoothed out beyond the correlation length [40]
+
+$$
+\xi ( t _ { * } ) \sim \xi _ { 0 } ( \tau _ { Q } / \tau _ { 0 } ) ^ { \frac { \nu } { 1 + \mu } } \ .
+$$
+
+In radiation dominated universe, $\textit { T } \propto { t } ^ { - 1 / 2 }$ and one finds $\tau _ { Q } = 2 t _ { c } = H ( T _ { c } ) ^ { - 1 }$ with the expansion rate $H = \dot { a } / a$ ：
+
+Assuming the free energy of the Landau-Ginzburg form $V ( \phi ) = ( \bar { T } - T _ { c } ) m \phi ^ { 2 } + \bar { \textstyle { \frac { 1 } { 2 } } } \lambda \phi ^ { 4 }$ near $T _ { c }$ ，one can approximate $m \sim \lambda T _ { c }$ and $\xi$ ， $\tau$ scale as $\xi _ { 0 } / \sqrt { \epsilon } , \tau _ { 0 } / \sqrt { \epsilon }$ classically. So the critical exponents are $\textstyle \mu = \nu = { \frac { 1 } { 2 } }$ . Setting the initial correlation length $\xi _ { 0 } \approx \tau _ { 0 } \sim 1 / ( \sqrt { \lambda } T _ { c } )$ ,we have
+
+$$
+\xi \approx \left( \frac { T _ { c } } { H } \right) ^ { 1 / 3 } \frac { 1 } { \lambda ^ { 1 / 3 } T _ { c } } = H ^ { - 1 } \left( \frac { H ^ { 2 } } { \lambda T _ { c } ^ { 2 } } \right) ^ { 1 / 3 } .
+$$
+
+Inradiationdominateduniverse
+
+$$
+H = \frac { T ^ { 2 } } { C M _ { p l } } , \qquad C = \sqrt { \frac { 4 5 } { 4 \pi ^ { 3 } g _ { * } } }
+$$
+
+and hence the correlation is shorter than the horizon size by a factor $\sim ~ ( T _ { c } / M _ { P l } ) ^ { 2 / 3 }$ ,leading to a far larger number of defects than the original Kibble's estimate.
+
+For point-like defects (PD),we expect approximately one per $\boldsymbol { \xi } ^ { 3 }$ . Assuming $( g _ { * } \approx 1 0 ^ { 2 } - 1 0 ^ { 3 }$ ， $\lambda \approx 0 . 3 – 1 \$ ),we find
+
+$$
+\left. \frac { n _ { P D } } { s } \right| _ { T = T _ { c } } \approx 0 . 1 \frac { T _ { c } } { M _ { p l } } .
+$$
+
+If we consider the quantum corrections to the system, the critical exponents $\mu$ and $\nu$ could be different from $1 / 2$ .Generally speaking,itis related with the anomalousdimension of the leading relevant operators in the of the Lagrangian of the scalars that triggers the symmetry breaking. Causality $\xi \le c \tau$ dictates $\nu \leq \mu$ and we will assume $\nu = \mu$ below as the Hubble friction term for scalar field $\phi$ could be ignored in the vicinity of critical temperature indicated in footnote [4O]. For typical quantum systems based on $O ( N )$ -symmetric $\phi ^ { 4 }$ theory in three dimensions [41],the critical exponents are $\nu = 0 . 6 2 5$ in binaryliquid system( $\mathbf { \Phi } \cdot \mathbf { V } \mathbf { \Phi } = \mathbf { \Phi } 1 \mathbf { \dot { \Phi } } ,$ ), $\nu \ : = \ : 0 . 6 7 2$ in superfluid $^ { 4 } \mathrm { H e }$ experiment ( $\ N = 2 \AA$ ,and $\nu = 0 . 7 0$ in EuO, EuS system 0 $ { \mathrm { ~ N ~ } } = 3 \$ ).Aswe can see, $\nu$ is quite close to $2 / 3$ and does not vary very much for different $N$ . By plugging in the same numbers as the classical case,we obtain
+
+$$
+\left. \frac { n _ { P D } } { s } \right| _ { T = T _ { c } } \approx 0 . 0 0 6 \left( \frac { 3 0 T _ { c } } { M _ { p l } } \right) ^ { \frac { 3 \nu } { 1 + \nu } } .
+$$
+
+We see that the magnetic monopoles are produced orders of magnitude more than the original Kibble's estimate and hence even models with phase transitions down to TeV scale are subject to serious constraints.For instance,Pati-Salam model [36] assumes the symmetry breaking $S U ( 4 ) _ { C } \times S U ( 2 ) _ { L } \times$ $S U ( 2 ) _ { R }  S U ( 3 ) _ { C } \times S U ( 2 ) _ { L } \times U ( 1 ) _ { Y }$ ，and hence predicts magnetic monopoles. Once produced, the monopoles are stable and their number can only be reduced by annihilation of $M - \bar { M }$ pairs.The magnetic (hidden) monopoles will stay in kinetic equilibrium with the(hidden) thermal plasma of electrically charged particles. The long-range forces between $M$ and light charged particles will dissipate the energy of $M$ drifting towards a nearby $\bar { M }$ ,allowing capture and annihilation to occur. Preskill[19] found the annihilation was negligible assuming the initial abundance given by the Kibble mechanism.WiththeKibble-Zurekmechanism,however, the annihilation must be considered for magnetic monopoles,and we must use Eq.(5) in[19],
+
+$$
+\frac { n _ { M } } { T ^ { 3 } } = \frac { 1 } { B h ^ { 2 } } \left( \frac { 4 \pi } { h ^ { 2 } } \right) ^ { 2 } \frac { m _ { P D } } { C M _ { p l } } \approx 7 . 9 \times 1 0 ^ { - 2 2 } \times \left( \frac { T _ { c } } { 1 \mathrm { { T e V } } } \right) ~ ,
+$$
+
+where $B = ( 3 / 4 \pi ^ { 2 } ) \zeta ( 3 ) \sum _ { i } ( h q _ { i } / 4 \pi ) ^ { 2 }$ which sums over all spin states of relativistic charged particles and $h = 2 \pi / q$ is the magnetic coupling.
+
+In Fig.1,combing Eq. (8) and (9),we show how magnetic monopole density to entropy ratio depends on the critical exponent $\nu$ in 2nd order phase transition for different critical temperatures.It is clearly that the Parker limit[37] excludes the such monopoles assuming the phase transition below the unification scale unless the critical exponent $\nu$ is significantly above 1.However, this is not the case normally considered in relativistic field theories for phase transitions.
+
+On the other hand, the point-like defects may be magnetic monopole under a $U ( 1 )$ gauge theory unrelated to electromagnetism("hidden $U ( 1 ) " .$ ).We assume that there is no corresponding hidden plasma to dissipate the energy of $M$ and we ignore the annihilation.We can also ignore the annihilation for point-like defects based on global symmetries because there is no long-range force among them. For nonthermal production of topological defects to dominate,they haveto be heavy enough so that theynever stay in chemical equilibrium once produced.At the critical temperature,when $x _ { c } \equiv m _ { P D } / T _ { c } > x _ { f }$ ,which ranges from 20 to 30 fordifferent monopole coupling strengths and phase transition temperatures,the relics density could be derived from Eq.(8) as
+
+![](images/b6de5d43f61049dd372e4088bff1250f3d7a076aaa8aaa7e4ec4ad014ed92d91.jpg)  
+FIG.1: $n _ { M } / s$ versus the critical exponent $\nu$ if the magnetic monopoles are produced bya 2nd order phase transition. The dashed line are the $n _ { M } / s$ without the annihilation. The green region is allowed by the Parker's bound $n _ { M } / s \lesssim 1 0 ^ { - 2 6 }$ while the blue region is allowed by the direct search $\bar { n _ { M } } / s \lesssim 2 \times 1 0 ^ { - 2 8 }$ [38].
+
+![](images/daf51b0b9dc163673b2b121f3e45fe6df6c0c2d21b7097cf2409393a5190751a.jpg)  
+FIG.2:Relic density of topological dark matter as a function of its mass based on Eq.(1O) if it is non-thermally produced during a second order phase transition.The yellow horizontal band denotes the relic density $0 . 0 9 4 < \Omega _ { m } h ^ { 2 } < \dot { 0 . } 1 2 9$ preferred by WMAP data. We assume $x _ { c } = m _ { P D } / T _ { c } = 5 0$ ：
+
+$$
+\Omega _ { P D } h ^ { 2 } \approx 1 . 5 \times 1 0 ^ { 9 } \left( \frac { x _ { c } T _ { c } } { 1 \mathrm { T e V } } \right) \left( \frac { 3 0 T _ { c } } { M _ { p l } } \right) ^ { \frac { 3 \nu } { 1 + \nu } } \ .
+$$
+
+If we take $x _ { c } = 5 0$ ,therelic density is a function of $T _ { c }$ ，as shown in Fig.2.In order to account for the cold dark matter abundance,we need $T _ { c } \sim { \cal O } ( 1 ) \ \mathrm { P e V }$ to in the classical case and $T _ { c } \sim O ( 1 0 )$ PeV in the typical quantum cases [42].
+
+What kind of model can lead to realistic topological dark matter? One obvious possibility is that there is a hidden nonabelian gauge theory whose breaking to $U ( 1 )$ produces magnetic monopoles.As long as the $U ( 1 )$ does not mix with QED, strong bounds such as Parker's limit [37] do not apply. Their annihilation cross section in the plasma is negligible.As an example, the vector-like model of dynamical supersymmetrybreaking by Izawa-Yanagida[23] and Intriligator-Thomas [24] has $S O ( 6 )$ global symmetry. Gauging $S O ( 3 )$ subgroup embedded diagonally into $S O ( 3 ) \times S O ( 3 ) \subset S O ( 6 )$ ,one can see that it breaks to $S O ( 2 )$ and produces magnetic monopoles.
+
+TABLE I: Summary of popular composite Higgs models in $3 + 1$ dimensions that generate skyrmions.   
+
+<html><body><table><tr><td>Models</td><td>G</td><td>H</td><td>T3(G/H)</td></tr><tr><td>Minimal Moose [20]</td><td>SU(3)²</td><td>SU(3)</td><td>Z</td></tr><tr><td>Littlest Higgs [21]</td><td>SU(5)</td><td>SO(5)</td><td>Z2</td></tr><tr><td>SO(5) Moose [22]</td><td>SO(5)²</td><td>S0(5)</td><td>Z</td></tr></table></body></html>
+
+It is not clear if skyrmions can be created by the same Kibble-Zurek mechanism，as they are topologically nontrivial configurations in the bulk rather than the boundary conditions.However,skyrmions are baryonic composites in the underlying gauge theory and hence may be thermalized independent of the production mechanism.Note that many composite Higgs models(e.g., little Higgs theories) proposed in the literature can have skyrmions as topological solitons (see TableI[43])． Their masses are expected in the $1 0 \ \mathrm { T e V }$ region because $f _ { \pi } \approx 1 \ : \mathrm { T e V }$ in these theories from the naturalness argument. Once thermally produced, the correct abundance of topological dark matter could be obtained with a relatively strong coupling $g _ { P D } \sim 3$ .Since the global symmetry $G$ in those models in Table Iis approximate,we may ask whether the skyrmion is metastable. Gauging a subgroup of $G$ may induce the skyrmion to decay through instanton effects [27].However, the enormous suppression factor proportional to $\exp ( - 8 \pi ^ { 2 } / g ^ { 2 } )$ will make its life time much longer than the age of our universe [28] [44].
+
+Let us now comment on the consequence of topological dark matter on cosmic ray signals.For the case of skyrmion dark matter,we can imagine that skyrmions will decay through some higher dimension operators analogous to proton decay in Grand Unified Theory (GUT).The most economical way is to consider GUT-suppressed dimension 6 operators,with its lifetime [35]
+
+$$
+\tau \sim 8 \pi \frac { M _ { G U T } ^ { 4 } } { m _ { P D } ^ { 5 } } = 3 \times 1 0 ^ { 2 7 } s \left( \frac { \mathrm { T e V } } { m _ { P D } } \right) ^ { 5 } \left( \frac { M _ { G U T } } { 2 \times 1 0 ^ { 1 6 } \mathrm { G e V } } \right) ^ { 4 } .
+$$
+
+The final decay products of the skyrmions would be some meson states with extra fundamental fermions,for instance charged leptons.We can imagine that the main branching ratio of the skyrmion decay is the one into a light meson state below $\mathrm { G e V . }$ The light meson mixes with the Higgs boson, so its coupling to the SM fermions is proportional to their masses and will dominantly decays into $\mu$ pairs.As long as the mass of the skyrmion is multi-TeV, the muon dominated leptonic final state will naturally explain [29,3O] the PAMELA excess in $e ^ { + }$ [31] while no excess in $\bar { p }$ [32] as well as slow decline $E ^ { - 3 . 0 }$ in the $e ^ { - } + e ^ { + }$ spectrum as reported by FERMI [33] which steepens at about $1 \mathrm { T e V }$ as measured by H.E.S.S. [34].
+
+In summary,we have considered the possibilities that pointlike topological defects,such as monopoles and skyrmions,as the viable dark matter candidates.We apply the Kibble-Zurek mechanism to the non-thermal production of monopoles by asecond order phase transition,and find that the abundance is much larger than the one originally estimated by Kibble. Depending on critical exponent in the correlation length, the hidden monopoles could account for the correct relics density for the mass range of approximately $1 { \mathrm { - } } 1 0 \operatorname { P e V } .$ The thermally produced skyrmion of mass $1 { - } 1 0 \mathrm { T e V }$ can also provide the correct relics density of cold dark matter,whose decay mayaccount for the flux and spectral shape of electrons and positronsrecentobservedbyPAMELAandFERMI satellites and HESS.A similar consideration excludes any models that producemagneticmonopolesabove TeV scale butbelow the inflation scale,such as Pati-Salam unification.
+
+Theauthors thank Shin'ya Aoki,Koichi Hamaguchi, Tetsuo Hatsuda,Simeon Hellerman，Joel Moore,Hai Qian, Masahito Ueda and Tsutomu Yanagida for useful discussions. This work was supported in part by World Premier InternationalResearch Center Initiative,MEXT, Japan.The work of H.M.was also supported in part by the U.S.DOE under Contract DE-AC03-76SF00098,in part by the NSF under grant PHY-O4-57315,and in part by the Grant-in-Aid for scientific research(C) 2O540257 from Japan Society for Promotion of Science (JSPS). The work of J.S.was also supported by the Grant-in-Aid for scientific research(Young Scientists (B) 21740169) from JSPS.
+
+[1] See,e.g.,P.Anderson,“Basic Notions of Condensed Matter Physics,"Westview Press (1997).   
+[2] See,e.g.,H.Murayama,arXiv:0704.2276 [hep-ph].   
+[3] T.H.R.Skyrme,Proc.Roy.Soc.Lond.A 262,237 (1961); E.Witten,Nucl. Phys.B 223,433 (1983).   
+[4]T.W.B.Kibble,J.Phys.A9,1387(1976).   
+[5]W.H. Zurek,Nature 317, 505 (1985).   
+[6] I. Chuang et al, Science 251,1336 (1991).   
+[7]M.J.Bowick et al, Science 263,943(1994).   
+[8]P.C.Hendry et al,Nature (London) 368,315 (1994);M.E. Dodd et al,Phys.Rev.Lett.81,3703 (1998).   
+[9] V.M.H. Ruutu et al,Nature (London) 382,334 (1996);ibid, Phys.Rev.Lett.80,1465 (1998).   
+10] C.Bäuerle et al,Nature (London) 382,332 (1996).   
+11]S.Ducci et al,Phys.Rev.Lett.83,5210(1999).   
+12]R.Carmi,E.Polturak,and G.Koren,Phys.Rev.Lett.84,4966 (2000).   
+13]R.Monaco,J.Mygind,andR.J.Rivers,Phys.Rev.Lett.89, 080603(2002).   
+14]A.Maniv,E.Polturak,andG.Koren，Phys.Rev.Lett.91, 197001 (2003).   
+[15] L.E. Sadler et al, Nature (London) 443,312 (2006).   
+[16]K.Griest and M.Kamionkowski,Phys.Rev.Lett.64,615 (1990).   
+[17] See,however,S.Nussinov,Phys.Lett.B 165,55(1985); K.Hamaguchi et al,arXiv:0811.0737 [hep-ph], for baryon-like dark matter candidates in different contexts.   
+[18] J. Zinn-Justin,“Quantum Field Theory and Critical Phenomena (second edition),Oxford University,Press,Oxford,1993.   
+[19] J. Preskill,Phys.Rev.Lett. 43,1365 (1979).   
+[20] N.Arkani-Hamed,A.G. Cohen and H. Georgi,Phys.Lett. B 513,232 (2001) [arXiv:hep-ph/0105239].   
+[21] N.Arkani-Hamed et al, JHEP 0207,034 (2002).   
+[22] S.Chang and J. G. Wacker,Phys. Rev.D 69,035002 (2004).   
+[23] K.I.Izawa and T. Yanagida,Prog. Theor. Phys.95,829 (1996).   
+[24] K.A. Intriligator and S.D.Thomas,Nucl.Phys.B 473,121 (1996).   
+[25] L.Ackerman et al,Phys.Rev.D 79,023519 (2009).   
+[26] C.T. Hill and P.Ramond,Nucl. Phys.B 596,243 (2001); C. T. Hill, Phys. Rev. Lett. 88, 041601 (2002).   
+[27] E.D'Hoker and E.Farhi,Phys.Lett.B 134,86 (1984).   
+[28] G.'t Hooft,Phys.Rev. Lett. 37,8 (1976); G.'t Hooft,Phys. Rev.D 14,3432 (1976)[Erratum-ibid.D 18,2199 (1978)].   
+[29] M. Ibe,H. Murayama,S. Shirai,and T. Yanagida,in preparation; talk by HM at American Physical Society Meeting,Denver, May 2,2009.   
+[30] P. Meade et al,arXiv:0905.0480 [hep-ph].   
+[31] O.Adriani et al.[PAMELA Collaboration],Nature 458,607 (2009).   
+[32] O. Adriani et al.,Phys. Rev.Lett.102,051101 (2009).   
+[33] A.A. Abdo et al [Fermi LAB Collaboration], Phys.Rev. Let. 102,181101 (2009).   
+[34] F.Aharonian et al.[H.E.S.S.Collaboration],Phys.Rev. Lett. 101,261104 (2008)；H.E.S．Aharonian，arXiv:0905.0105 [astro-ph.HE].   
+[35] A.Arvanitaki et alarXiv:0812.2075[hep-ph]；ibid, arXiv:0904.2789 [hep-ph].   
+[36] J. C.Pati and A. Salam,Phys.Rev.D10,275(1974) [Erratumibid. D 11,703 (1975).   
+[37] E.N. Parker, Astrophys.J.160,383 (1970).   
+[38] M.Ambrosio et al.[MACRO Collaboration],Eur.Phys. J.C 25,511 (2002).   
+[39] Our estimate on the initial density produced by a second order phase transition applies to non-point-like topological defects, such as cosmic strings and domain walls.   
+[40] The Hubble expansion can be ignored when the system is close to the critical point during the phase transition as we can see that （204号 $1 / H$ is much longer than the frozen relaxation time $\tau ( t _ { * } ) \sim$ （204号 $\tau _ { 0 } ( \tau _ { Q } / \tau _ { 0 } ) ^ { \frac { \mu } { 1 + \mu } }$ ：   
+[41] The symmetry breaking pattern $O ( N ) / O ( N - 1 )$ here does not have a non-trivial second homotopy group which leads to monopoles.Nevertheless,we take those well tested examples as illustrations.   
+[42] For the charged dark matter,one has to check whether it is effectively collisionless [25]. Our “hidden”monopole is so heavy that its small number density makes the average time for its scatter greater than the age of the universe.   
+[43] Although we restricted our consideration in $3 + 1$ dimensions for simplicity,skyrmion solution also exists in models with a compactified extra dimension. See for instances,Ref. [26].   
+[44] It is interesting to notice that a naive estimate of the skyrmion decay width $\Gamma \sim f _ { \pi } \exp ( - 8 \pi ^ { 2 } / g ^ { 2 } )$ will lead to the required life time $\tau \sim 1 0 ^ { 2 6 } \mathrm { s }$ to explain the cosmic ray anomalies if $g \simeq$ 0.803.However, details are beyond the scope of this Letter.

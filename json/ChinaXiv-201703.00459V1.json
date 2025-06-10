@@ -1,0 +1,446 @@
+[
+    {
+        "type": "text",
+        "text": "旋转射流雾化的直接数值模拟研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邵长孝罗 坤 樊建人",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(浙江大学能源清洁利用国家重点实验室，杭州310027)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要雾化现象涉及到气液界面复杂的拓扑变化，使得雾化过程极其复杂。目前针对一次雾化的机理研究及模型尚不够准确，由于数值计算方法的快速发展，越来越多的研究者采用数值方法来研究一次雾化。本文采用大规模的直接数值模拟手段和 Level Set 追踪气液界面的方法模拟旋转射流的一次雾化过程，以揭示旋流雾化的机理和界面不稳定波的贡献。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词Level Set 方法；一次雾化；旋转雾化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：O359 文献标识码：A 文章编号:0253-231X(2017)03-0553-04",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Direct Numerical Simulation of Swirling Liquid Atomization ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHAO Chang-XiaoLUO KunFAN Jian-Ren (State Key Laboratory of Clean Energy Utilization,Zhejiang University,Hangzhou 31o027,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Liquid atomization exists in a wide range of applications,such as printing,agriculture and combustion devices. However,liquid atomization involves topology change of gas-liquid interface that makes it complex.By now,it is still not fully understood of the atomization mechanism and the atomization modeling is not accurate. With the development of computational capacity and interface capturing method, more and more researchers perform the numerical simulation of atomization. The aim of the present work is to study the primary atomization by using the Level Set interface capturing method to reveal the swirling atomization mechanism and the contribution of surface instability. Key wordsLevel Set method; primary atomization; swirling atomization ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "液体的射流雾化有广泛的科学意义和应用背景，比如混合、打印技术、食品工程、农业、制药过程和发动机内部的雾化燃烧过程等。雾化过程极其复杂，涉及湍流、界面运动、液体结构的破碎和合并等过程。雾化过程分为一次雾化和二次雾化，一次雾化为液柱破碎为液桥和液滴的过程，二次雾化为液桥和液滴进一步破碎为更小的液体结构的过程。虽然存在一些雾化模型，但是没有一个统一有效的模型适用于整个雾化过程和模型的精度有限，这促使我们针对雾化过程进行研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在雾化过程中，表面不稳定波的发展发挥着重要的作用，其中存在两种主要的界面不稳定性，即开尔文－亥姆赫兹 (KH)不稳定性和瑞利-泰勒 (RT)不稳定性。KH不稳定性发生于气液界面存在速度差的条件下，RT不稳定性是液相渗入气相的横向不稳定性。Kimetal.[1]的直射流模拟结果与Marmot-tant and Villermaux[2] 的实验结果吻合，表明 KH不稳定性产生了轴向波动而RT不稳定性产生了周向波动，导致液桥的形成。Herrmann[3] 通过模拟研究横射流发现，KH不稳定性导致迎风侧袋状破碎，RT不稳定性导致近喷口区域液柱附近液桥的形成。然而，Xiao etal．[4]发现液柱上游表面波的发展是由于RT不稳定性导致的，这和 Herrmann 的结论相悖。此外，Shinjo and Umemura [5] 对于横射流的研究表明Tollmien-Schlichting（TS）不稳定性是导致液桥形成的主导机理。但是针对旋转射流的研究很少，对KH和RT不稳定性的贡献尚不清楚，并且旋转射流对于燃气轮机和内燃机的空气燃料混合和火焰的稳定有着重要的作用，本文针对该设置进行研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文在发展的守恒型LS方法基础上，对旋转射流雾化进行了大规模的直接数值模拟，对一次雾化过程进行了详细的分析，并且揭示了界面不稳定波的贡献。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数值方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 不可压缩Navier-Stokes方程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气相和液相的不可压缩 Navier-Stokes 方程如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\pmb { u } } { \\partial t } + \\pmb { u } \\cdot \\nabla \\pmb { u } = - \\frac { 1 } { \\rho } \\nabla p + \\frac { 1 } { \\rho } \\nabla \\cdot \\left( \\mu \\left[ \\nabla \\pmb { u } + \\nabla \\pmb { u } ^ { t } \\right] \\right) + \\pmb { g }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\rho } { \\partial t } + \\pmb { u } \\cdot \\nabla \\rho = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\textbf { \\em u }$ 为速度， $\\rho$ 为密度， $p$ 为压力， $\\scriptstyle { \\boldsymbol { g } }$ 为重力加速度， $\\mu$ 为动力黏度。气相和液相的物性参数均为常数，即气相中 $\\rho ~ = ~ \\rho _ { \\mathrm { g } } $ ， $\\mu ~ = ~ \\mu _ { \\mathrm { g } }$ ；液相中$\\rho ~ = ~ \\rho _ { \\mathrm { l } }$ ， $\\mu = \\mu _ { \\mathrm { l } }$ 。界面处，速度是连续的，而物性存在阶跃，即 $[ \\rho ] _ { \\Gamma } = \\rho _ { \\mathrm { l } } - \\rho _ { \\mathrm { g } }$ ， $[ \\mu ] _ { \\Gamma } = \\mu _ { \\mathrm { l } } - \\mu _ { \\mathrm { g } }$ 。压力阶跃表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ \\boldsymbol { p } ] _ { \\Gamma } = \\sigma \\kappa + 2 \\left[ \\mu \\right] _ { \\Gamma } \\boldsymbol { n } ^ { t } \\cdot \\boldsymbol { \\nabla } \\boldsymbol { u } \\cdot \\boldsymbol { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\sigma$ 为表面张力系数， $\\kappa$ 为界面曲率， $\\scriptstyle { n }$ 为界面单位法向量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Navier-Stokes方程的离散基于均匀交错网格，其中压力值和Level Set 标量储存于网格中心，速度值储存于网格面中心。对于Navier-Stokes方程的离散，空间离散格式采用二阶精度的有限差分格式，时间推进采用二阶精度的半隐式克兰克－尼克尔森格式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 Level Set 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文中LevelSet方法用于捕获气液界面，LevelSet函数 $\\phi \\left( \\boldsymbol { \\mathbf { \\mathit { x } } } , t \\right)$ 的零等值面即为气液界面。通常LevelSet函数 $\\phi$ 定义为到界面的符号距离函数，即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\phi \\left( \\mathbf { x } , t \\right) | = | \\mathbf { x } - \\mathbf { x } _ { \\Gamma } |\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\scriptstyle { \\mathbf { \\ d } } _ { \\mathbf { \\ d } } \\mathbf { \\ d } _ { \\mathbf { \\ d } } \\left( \\mathbf { \\ d } _ { \\mathbf { \\ d } } \\mathbf { \\ d } _ { \\mathbf { \\hat { \\mathbf { \\phi } } } } \\right) = { \\mathbf { \\ d } } _ { \\mathbf { \\hat { \\mathbf { \\phi } } } } ( \\mathbf { \\ d } _ { \\mathbf { \\hat { \\mathbf { \\phi } } } } \\mathbf { \\ d } _ { \\mathbf { \\hat { \\mathbf { \\phi } } } } )$ 为界面上到 $\\mathbf { \\Psi } _ { x }$ 最短距离的点。 $\\phi > 0$ 的区域为液相， $\\phi < 0$ 的区域为气相。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "界面单位法向量和曲率的计算非常简便，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { n } = \\frac { \\nabla \\phi } { | \\nabla \\phi | }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa = - \\nabla \\cdot \\pmb { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，传统的LevelSet方法会有严重的质量损失问题。这里我们采用Olsson 和Kreiss[]双曲正切函数 $\\psi$ 来代替符号距离函数，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi \\left( { \\pmb x } , t \\right) = \\frac { 1 } { 2 } \\left( \\operatorname { t a n h } \\left( \\frac { \\phi \\left( { \\pmb x } , t \\right) } { 2 \\varepsilon } \\right) + 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\varepsilon$ 为正切厚度。界面的输运由LevelSet输运方程确定，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\psi } { \\partial t } + \\nabla \\cdot ( { \\pmb u } \\psi ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是， $\\psi$ 也不能始终保持双曲正切的形式，这会使界面发生非物理的变化和质量损失。因此，需要引入重新初始化方程，这需要求解如下方程使其达到稳定状态，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\psi } { \\partial \\tau } + \\nabla \\cdot \\left( \\psi \\left( 1 - \\psi \\right) \\pmb { n } \\right) = \\nabla \\cdot \\left( \\varepsilon \\left( \\nabla \\psi \\cdot \\pmb { n } \\right) \\pmb { n } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\tau$ 为伪时间。每一步迭代过程中将上式算至稳定状态。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了进一步提高原有LS方法的质量守恒性，我们采用了根据界面曲率来进行质量修正的方法，具体步骤详见[7。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 Ghost Fluid Method(GFM) 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Navier-Stokes方程的离散中一个重要的问题是对于压力梯度的离散。对于式（3）中界面处压力的不连续性采用GFM方法[8]来处理。假设界面 $\\Gamma$ 的位置 $x _ { \\Gamma }$ 位于网格点 $x _ { i }$ 和 $x _ { i + 1 }$ 之间，压力泊松方程中的压力离散可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. { \\frac { \\partial } { \\partial x } } \\left( { \\frac { 1 } { \\rho } } { \\frac { \\partial p } { \\partial x } } \\right) \\right| _ { \\mathrm { g } , i } =\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\frac { 1 } { \\rho ^ { * } } \\left( p _ { \\mathrm { l } , i + 1 } - p _ { \\mathrm { g } , i } \\right) - \\frac { 1 } { \\rho _ { \\mathrm { g } } } \\left( p _ { \\mathrm { g } , i } - p _ { g , i - 1 } \\right) } { { \\Delta x } ^ { 2 } } - \\frac { [ p ] _ { \\Gamma } } { \\rho ^ { * } \\Delta x ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\rho ^ { * } = \\rho _ { \\mathrm { g } } \\zeta + \\rho _ { \\mathrm { l } } \\left( 1 - \\zeta \\right)$ ， $\\zeta = \\left( x _ { \\Gamma } - x _ { i } \\right) / \\Delta x .$ （204号",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数值模拟 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "射流形式为液体从环形面以 $1 0 ~ \\mathrm { m / s }$ 的轴向速度和 $1 0 ~ \\mathrm { m / s }$ 的切向速度喷入，环形区域厚度为0.1$\\mathrm { m m }$ ，因此，喷嘴直径 $D$ 为 $0 . 4 ~ \\mathrm { m m }$ 。计算区域为$1 0 D \\times 1 0 D \\times 1 0 D$ ，网格数为 $1 0 2 4 ^ { 3 }$ 。入口和出口分别为速度入口和对流出口边界条件。气体和液体的物性参数为 $\\rho _ { \\mathrm { g } } { = \\ 4 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { m } ^ { - 3 } }$ ， $\\rho _ { 1 } { = } ~ 8 0 0 ~ \\mathrm { k g { \\cdot } m ^ { - 3 } }$ ， $\\mu _ { \\mathrm { g } } =$ $1 . 6 { \\times } 1 0 ^ { - 4 } \\mathrm { k g } { \\cdot } \\mathrm { m } ^ { - 1 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ， $\\mu _ { \\mathrm { l } } { = 1 . 6 { \\times } 1 0 ^ { - 3 } \\mathrm { k g { \\cdot } m ^ { - 1 } { \\cdot } s ^ { - 1 } } }$ ， $\\sigma =$ $0 . 0 3 6 ~ \\mathrm { N { \\cdot } m ^ { - 1 } }$ 。两个独立的无量纲参数分别为 $R e =$ $\\rho _ { 1 } L V / \\mu _ { 1 } = 2 0 0 0$ 和 $W e = \\rho _ { 1 } L V ^ { 2 } / \\sigma = 2 2 2$ 。旋流雾化的模拟结果如图1所示，可以看出旋转液膜发展为液桥并破碎为液滴的级串过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/40dccb54d456c967de957bbc8349ea13d00897cdeaf1635354a3dd189f7ebd11.jpg",
+        "img_caption": [
+            "图1旋流雾化气液界面 Fig.1 Interface of swirling atomization "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 界面结构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在射流初期，在顶部前沿后形成回流区，与 Shinjoet al．[5]模拟类似，在蘑菇状液膜边缘脱落形成一部分离散的液滴。之后液膜向下游发展，光滑的液膜保持一段距离，随后在周向产生不稳定波，不稳定波的发展促使液膜沿轴向拉伸成许多液桥，这些液桥进而断裂形成液滴，即液膜的破碎呈现级联的特性。因此，液滴的大小和液桥的直径呈相关性。在下游区域，液滴的凝并和破碎发生，使雾化更加复杂。在液膜的发展过程中，由于回流区的影响，雾化角度随着时间逐渐增加，最终稳定在一定值。值得注意的是，旋流液膜形成的回流区使一部分液滴向上游移动，进而撞击液膜，致使液膜二次破碎。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与单相气相流场相比，液体的引入增加了流场的复杂性。当 $x / D = 1 \\sim 2$ 时，轴向速度已接近零。 $x / D = 4$ 时，出现回流区，回流区的出现是旋流流动的一个重要特征。弥散的液滴尾部增加了气体的扰动，使流场中出现许多的小涡结构。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2液桥形成和破碎",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着液膜向下游发展，液膜的厚度逐渐减小，不稳定波逐渐增强。当不稳定波达到液膜厚度量级时，液膜的破碎产生。在旋流流动中，主要的不稳定性包括Kelvin-Helmholtz（KH）不稳定性和离心不稳定性[9]。KH不稳定性是由气液界面的剪切造成的，而离心不稳定性是由周向运动造成的。对于气液两相流而言，还应考虑由于密度差异引起的Rayleigh-Taylor(RT)不稳定性。在该模拟中，沿轴向的Kelvin-Helmholtz（KH）不稳定波并未明显出现,沿周向的离心不稳定波和RT不稳定波在液膜端部出现，导致液桥的形成。KH不稳定波未形成可能与旋流数和其本身并不显著有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "进一步，采用速度梯度张量的第二不变量 $Q$ 来表征涡结构。从图2可以看出，高涡量集中于液膜破碎为液桥和液桥破碎为液滴的阶段。在这个阶段，涡结构决定了液桥的形成方向。可以看到与流向垂直的涡结构 (图2(a))产生与流向垂直的液桥，这些液桥形成了与流向平行的液桥的连接。与流向平行的涡结构(图2(b)）产生与流向平行的液桥。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/97de08618cc0b3a9437f2c5ddfe9d97cb249656257e330efe3b710438a6df745.jpg",
+        "img_caption": [
+            "图2界面和涡的关系 (深灰色代表涡量 $Q$ ，浅灰色代表气液界面)(a)垂直涡；(b)流向涡"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/104762fd54bf45309484b172786fe199e0b3b6bb1e2ad0d0e862cd25b3a248bb.jpg",
+        "img_caption": [
+            "Fig.2 Interaction between interface and vorticity (deep grey and shallow grey represent vorticity $Q$ and interface, respectively)(a） vertical vortex;(b) stream-wise vortex ",
+            "图3液桥的破碎 Fig.3 Breakup of ligaments "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在液桥形成以后，液桥逐渐被拉伸为长条状结构，如图3所示，这些液桥在表面张力、离心力、空气动力和黏性力的共同作用下，形成螺旋状的前进方式，产生形同Capillary 破碎模式，形成多个液滴。在下游区域，液滴的碰撞合并、液滴的分离以及液滴撞击液膜等现象的出现，增加了雾化的复",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "杂性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3界面不稳定性分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当液膜发展到下游时，随着液膜厚度的减小，不稳定波逐渐增强。当不稳定波的幅值达到液膜厚度尺度时，液膜开始破碎。Gallaire 和Chomaz[9]指出KH不稳定性和离心不稳定性是旋流流动形式中两种主要的不稳定性。此外，在该气液两相流中，还应考虑由于密度差异引起的 RT不稳定性。如图1所示，该模拟条件下，在射流方向并未出现KH不稳定波，这归因于表面张力抑制波动的产生。定性来看，离心不稳定性和RT不稳定性是导致液膜破碎为液桥和液滴的主要因素。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定量方面，我们采用线性不稳定分析的方法来分析由于RT不稳定性导致的液桥形成过程[10]，其中增长率可以表示为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\boldsymbol { \\omega } } ^ { 2 } = { \\frac { \\rho _ { 1 } - \\rho _ { \\mathrm { g } } } { \\rho _ { 1 } + \\rho _ { \\mathrm { g } } } } a _ { \\mathrm { c } } { \\boldsymbol { k } } - { \\frac { { \\boldsymbol { \\sigma } } k ^ { 3 } } { \\rho _ { \\mathrm { l } } + \\rho _ { \\mathrm { g } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\omega$ 为增长速率， $\\textstyle { a _ { \\mathrm { c } } }$ 为液相到气相的界面加速度， $k$ 为波数。最大增长率时的波数 $k$ 可以通过公式(11）微分得到，最大增长率时的波数也是最容易出现的，可以求得主导波数为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { \\mathrm { m a x , R T } } = \\sqrt { \\frac { a _ { \\mathrm { c } } ( \\rho _ { \\mathrm { l } } - \\rho _ { \\mathrm { g } } ) } { 3 \\sigma } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在液膜破碎区液桥的数目 $N$ 和主导波数之间的关系可以表示为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN = \\pi D _ { \\mathrm { c } } / \\lambda = k _ { \\mathrm { m a x } } D _ { \\mathrm { c } } / 2\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\lambda$ 为最大增长率时的波长。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于KH不稳定性，表面张力和惯性力是主要的竞争作用力[11]，波数可以表示为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega ^ { 2 } = \\frac { \\rho _ { \\mathrm { g } } } { \\rho _ { \\mathrm { l } } } \\Delta U ^ { 2 } k ^ { 2 } - \\frac { \\sigma } { \\rho _ { \\mathrm { l } } } k ^ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\Delta U$ 为气液界面的速度差。主导波数通过求解$\\mathrm { d } \\omega / \\mathrm { d } k = 0$ 获得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { \\mathrm { m a x , K H } } = \\frac { 2 \\rho _ { \\mathrm { g } } \\Delta U ^ { 2 } } { 3 \\sigma }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于离心不稳定性，由于加速度朝向外侧从而增大了不稳定性[12]。可以得到主导的周向波数为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { \\mathrm { m a x , C } } = { \\sqrt { \\frac { \\rho _ { 1 } g } { \\sigma } } } , \\ngeq \\ngeq \\# \\# \\ g = { \\frac { \\Gamma ^ { 2 } } { \\left( D _ { \\mathrm { c } } / 2 \\right) ^ { 3 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$g$ 和 $2 \\pi { \\cal T }$ 分别为离心加速度和环量。可以发现式 (16)与式 (12)类似。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过求解式(12)、(15）和(16)，从而得到波数分别为21.32，47.14和536.68。应当指出，有RT不稳定性得到的波数与实际模拟得到的波数(24)很接近，从而验证了RT不稳定性是该旋流工况条件下的液膜破碎为液桥的主导不稳定因素。图1中周向波的出现主要是RT不稳定性作用的结果，这和文献[1],[2]中关于直射流的结论一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用大规模的直接数值模拟手段和LevelSet 追踪气液界面的方法模拟旋转射流的一次雾化过程，结果显示RT不稳定性是主导液膜破碎的主要因素。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Kim D,Desjardins O,Herrmann M,et al.Toward TwoPhase Simulation of the Primary Breakup of a Round Liquid Jet by a Coaxial Flow of Gas [R]. Center for Turbulence Research,Annual Research Briefs,2006   \n[2] Marmottant P,Villermaux E.On Spray Formation [J]. Journal of Fluid Mechanics,2004,498: 73-111   \n[3] Herrmann M.Detailed Numerical Simulations of the Primary Atomization ofa Turbulent Liquid jet in Crossflow [J].Journal of Engineering for Gas Turbines and Power, 2009，132:061506   \n[4] Xiao F,Dianat M,McGuirk JJ.Large Eddy Simulation of Liquid-Jet Primary Breakup in air Crossflow [J].AIAA Journal, 2013,51: 2878-2893   \n[5] Shinjo J, Umemura A. Simulation of Liquid Jet Primary Breakup:Dynamics of Ligament and Droplet Formation [J].International Journal of Multiphase Flow,2010,36: 513-532   \n[6] Olsson E,Kreiss G.A Conservative Level Set Method for Two Phase Flow [J]. Journal of Computational Physics, 2005,210:225-246   \n[7]Luo Kun, Shao Changxiao,Yang Yue,et al.A Mass Conserving Level Set Method for Detailed Numerical Simulation of Liquid Atomization [J]. Journal of Computational Physics,2015,298:495-519   \n[8] Desjardins O,Moureau V,Pitsch H.An Accurate Conservative Level Set/Ghost Fluid Method for Simulating Turbulent Atomization [J]. Journal of Computational Physics, 2008,227:8395-8416   \n[9] Gallaire F,Chomaz J M.Instability Mechanisms in Swirling Flows [J].Physics of Fluids,2003,15:2622-2639   \n[10] Chandrasekhar S.Hydrodynamic and Hydromagnetic Stability [M].Oxford University Press,London,1961   \n[11]Eggers J,Villermaux E.Physics of Liquid Jets [J].Reports on Progress in Physics,2008,71:036601   \n[12] Ponstein J.Instability of Rotating Cylindrical Jets [J]. Journal of Applied Sciences Research,1959,A8:425-456 ",
+        "page_idx": 3
+    }
+]

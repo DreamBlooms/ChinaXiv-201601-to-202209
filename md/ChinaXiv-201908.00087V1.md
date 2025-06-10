@@ -1,0 +1,179 @@
+# 夏枯草PvGGPPS基因的克隆和诱导表达分析
+
+张梦佳1，董诚明1,2，朱昀昊1,2\*
+
+（1．河南中医药大学药学院，郑州450046;2.呼吸疾病诊疗与新药研发河南省协同创新中心，郑州 450046）
+
+摘要：为探究夏枯草中GGPPS基因的生物学特性及功能，本实验在夏枯草转录组测序的基础上设计特异性引物，采用逆转录PCR 技术获得夏枯草中GGPPS基因的全长核苷酸序列，并进行生物信息学分析；采用qPCR法分析 $P \nu G G P P S$ 基因在不同外源性物质诱导下在夏枯草果穗中的表达量以及该基因在夏枯草不同组织中的表达量。结果表明：PvGGPPS基因开放阅读框 $1 0 9 2 { \mathrm { b p } }$ ，编码363个氨基酸，理论分子量为 $3 8 8 1 5 . 6 8 \mathrm { ~ D ~ }$ ，等电点为5.69。PvGGPPS蛋白具有异戊烯基焦磷酸合酶家族的特征结构域。系统进化树表明PvGGPPS 蛋白与丹参、毛喉鞘蕊花GGPPS 蛋白具有较高的亲缘关系。qPCR 分析表明，PvGGPPS 基因在叶中表达量高于果穗及茎。对果穗施加7种外源性物质处理 $2 4 \mathrm { h }$ 后，GA3处理组该基因表达量升高。 $P \nu G G P P S$ 基因在夏枯草不同组织中表达量差异较大，且受外源物质诱导表达。该研究结果为进一步研究PvGGPPS基因对夏枯草萜类成分合成途径中的功能及表达调控奠定基础。
+
+关键词：夏枯草，PvGGPPS，基因克隆，诱导表达，表达分析
+
+# Cloning and induced expression analysis of PvGGPPS gene
+
+in Prunella vulgaris
+
+ZHANG Mengjia', DONG Chengming12, ZHU Yunhao1.2\* (1.Schoolof Pharmacy, Henan University of Traditional Chinese Medicine, Zhengzhou 45o046; 2. Respiratory DiseaseDiagnosis and Treatment and New Drug Research and Development Henan Province Collborative Innovation Center, Zhengzhou 450046)
+
+Abstract: In order to explore the biological characteristics and functions of GGPPS gene in Prunella vulgaris L.,the specific primers were designed based on the sequencing of Prunella vulgaris transcriptome.The full-length nucleotide sequence of GGPPS gene was obtained in Prunella vulgaris by reverse transcription PCR technology,and the bioinformatics analysis was done.qPCR was used to analyze the expression of $P \nu G G P P S$ gene in ear induced by different exogenous substances and in different organs in Prunella vulgaris.The results showed that the PvGGPPS gene had an open reading frame of 1 O92 bp and encoded 363 amino acids,with a theoretical molecular weight of $3 8 ~ 8 1 5 . 6 8 ~ \mathrm { D }$ and an isoelectric point of 5.69.PvGGPPS protein has the characteristic domain of isopentenyl pyrophosphate synthase family. Phylogenetic tree showed that PvGGPPS protein is closely related to Salvia miltiorrhiza and Coleus forskohli GGPPS protein. qPCR analysis showed that the expression of $P \nu G G P P S$ gene in leaves is higher than that in ears and stems. The expression level of $P \nu G G P P S$ gene was increased in the ear after 基金项目：国家自然科学基金项目（81603232)；国家重点研发计划（2017YFC1702800)；河南省重大科技 专项（171100310500)；河南中医学院博士科研基金（BSJJ2015-13)；中央引导地方科技发展专项资金 [Supported by the National Natural Science Foundation Project (816O3232); National Key Research and Development Plan (2017 YFC1702800); Major Science and Technology Projects in Henan Province (171100310500); Doctor Research Fund of Henan Collge of Traditional Chinese Medicine (BSJJ2015-13); Special Funds for Central Guiding Local Scientific and Technological Development]。 作者简介：张梦佳，(1996-)，女，河南省，在读硕士研究生，研究方向：药用植物分子生物学，（E-mail) zhmj0229@126.com。 \*通信作者：朱昀昊，博士，讲师，主要从事药用植物分子生物学研究，(E-mail)guxinhan123 $@$ 163.com。
+
+GA3 treatment for $2 4 \mathrm { h }$ ,one of 7 exogenous substances treated. The expression of PvGGPPS gene in different tissues of Prunella vulgaris is quite different and is induced by exogenous substances treatment. The results of this study lay a foundation for further study on the function and expression regulation of $P \nu G G P P S$ gene in the synthesis pathway of terpenoids from Prunella vulgaris.
+
+Key words: Prunella vulgaris ,PvGGPPS, gene cloning, induced expression, expression analysis
+
+夏枯草(Prunella vulgaris)为唇形科植物夏枯草的干燥成熟果穗,始载于《神农本草经》，具有清肝明目、消肿散结的功效（《中华人民共和国药典》，2015)，广泛分布于全国各地。夏枯草中含有三萜类、黄酮类、有机酸类、香豆素类、甾体类等多种化学成分（汪晓河等，2019)。夏枯草中次生代谢成分齐墩果酸和熊果酸具有明显的消炎、抗肿瘤和抗HIV 等药理作用（张金华等，2018)，应用前景巨大。且夏枯草作为药食两用之品，具有重要的药用价值和经济价值，尤其是作为凉茶原材料的需求量巨大，使得夏枯草市场需求量呈增加态势，夏枯草资源逐渐变得紧张。现如今，快速发展的高通量测序技术和生物信息学分析方法为基因的鉴定和功能分析提供了更多的途径，也吸引着越来越多的研究者逐渐地把目光投入到分子领域。然而目前已有的夏枯草分子水平相关研究还不够全面和准确，夏枯草分子相关数据库不够完善。
+
+香叶基香叶基焦磷酸合酶（geranylgeranyl pyrophosphate synthase，GGPPS)，是植物萜类物质合成的关键酶之一（唐美琼等，2017；方洁，2017)。目前已经在拟南芥、丹参、地黄等多种植物中克隆到GGPPS基因（LIetal.，2015；化文平，2008；赵乐等，2017；张艺丹，2018)。GGPPS 在植物生长发育过程中起着重要的作用，GGPPS 通过催化三分子 IPP和一分子DMAPP 反应生成GGPP。GGPP 不仅是二萜类物质的前体物，还是类胡萝卜素、叶绿素、生育酚、脱落酸、赤霉素等物质的共同前体物，是植物多条重要次生代谢通路的节点（韩立敏，2015；梁敏华等，2018)。本实验在前期获得的夏枯草转录数据库的基础上，克隆得到夏枯草GGPPS 基因，通过诱导表达的分析探讨研究GGPPS 基因对夏枯草中萜类成分合成的影响。
+
+# 1.材料与方法
+
+# 1.1 材料
+
+夏枯草样品采自河南省确山县夏枯草GAP 种植基地，由河南中医药大学董诚明教授鉴定为夏枯草（Prunellavulgaris）。
+
+总RNA提取试剂盒(北京康为世纪生物科技有限公司)，反转录试剂盒(Thermo 公司），荧光定量试剂盒（QIAGEN)，DNAMarker（TaKaRa 公司），PCR产物回收试剂盒（上海生工），PCR仪（美国Bio-Rad 公司C10OO Touch ThermalCycler），荧光定量 PCR 仪（美国Applied Biosystems 公司 Step One Plus）。
+
+# 1.2 方法
+
+1.2.1总RNA提取与cDNA第一条链的合成
+
+利用康为试剂植物总RNA 提取试剂盒提取夏枯草不同组织的总RNA， $1 \%$ 琼脂糖凝胶电泳确定RNA完整性。cDNA 的合成步骤按照 Thermo Scientific RevertAid First Strand cDNASynthesisKit进行操作，置于 $- 2 0 { } ^ { \circ } \mathrm { C }$ 备用。
+
+# 1.2.2cDNA全长克隆
+
+根据夏枯草转录组数据库基因注释信息，选取表达丰度（FPKM）较高、E-value 值较低且序列长度完整的GGPPS基因的核苷酸序列，利用PrimerPremer 5.0软件设计GGPPS基因的特异性引物。
+
+以夏枯草叶片cDNA 为模板,进行扩增:cDNA $2 . 0 \mu \mathrm { L }$ $2 \times$ Es Taq mix $1 0 \mu \mathrm { L }$ $1 0 \ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } }$ 正反向引物各 $1 ~ \mu \mathrm { L }$ ，dd $\mathrm { H } 2 \mathrm { O } 6 ~ \mu \mathrm { L }$ 至体积为 $2 0 . 0 \mu \mathrm { L }$ 。反应程序: $9 5 ^ { \circ } \mathrm { C }$ 预变性 $1 \mathrm { m i n }$ ; $9 5 ^ { \circ } \mathrm { C }$ 变性 $3 0 ~ \mathrm { s }$ ， $6 0 ^ { \circ } \mathrm { C }$ 退火 $3 0 ~ \mathrm { s }$ ， $7 2 ^ { \circ } \mathrm { C }$ 延伸 $1 . 5 \mathrm { m i n }$ ，35个循环； $7 2 ^ { \circ } \mathrm { C }$ 延伸 $5 \mathrm { m i n }$ （朱昀昊等，2016）。$1 \%$ 琼脂糖凝胶电泳检测 PCR 产物，将扩增的目的条带切胶回收纯化，并连接到 pMD19-T载体上，蓝白斑筛选，菌落经PCR 检测后的阳性克隆送往上海生工生物技术有限公司测序进行双向测序。
+
+夏枯草中GGPPS基因的特异性引物见表1。
+
+表1引物序列  
+Table 1 Primer sequence   
+
+<html><body><table><tr><td>基因名称</td><td>TaoreTTrnersequenee 引物序列（5'-3')</td><td>用途</td></tr><tr><td>Gene name</td><td>Primer sequence (5'-3')</td><td>Use</td></tr><tr><td>GGPPS-F</td><td>5'-CTCGACGGCGCCGCCGCAGTTCAATTTC-3'</td><td>基因克隆</td></tr><tr><td>GGPPS-R</td><td>5'-GAGGTTAGGTCATTAATGGCTTTCCT-3'</td><td>Gene cloning</td></tr><tr><td>eGGPPS-F</td><td>5'-CGGGATCCATGGTGTCATTGAATCTA-3'</td><td>基因表达</td></tr><tr><td>eGGPPS-R</td><td>5'-CCGCTCGAGTTAGTTCTGCCTATGAGCA-3'</td><td>Gene expression</td></tr><tr><td>qGGPPS-F</td><td>5'-TCCTCACCGGCGAGAAATCC-3'</td><td>qPCR</td></tr><tr><td>qGGPPS-R</td><td>5'-TTCTCCGCCACGTAGGCATT-3'</td><td></td></tr><tr><td>qactin-F</td><td>5'-GACCAGCTCTGCTGTGGAGA-3'</td><td>内参</td></tr><tr><td>qactin-R</td><td>5'-ATGGCTGGAAGAGGACCTCAG-3'</td><td>Internal reference</td></tr></table></body></html>
+
+注：划线部分为XhoI、BamHI的酶切位点。 Note:the underlined part is the cleavage site of XhoI and BamHI.
+
+# 1.2.3生物信息学分析
+
+运用多种在线工具对夏枯草中GGPPS 基因及编码蛋白进行生物信息学分析。利用ORFfinder在线软件分析开放阅读框；运用DNAMAN软件翻译目的基因氨基酸序列，比对同源蛋白的序列；利用 ExPASy Proteomics Server Protparam 在线软件分析目的蛋白的理化性质;在线软件 SinalP4.1 Server用于预测信号肽；运用软件 SMART分析目的蛋白功能域。在线软件 NPSA server（和 Swiss-Model分别用于预测蛋白质的二级和三级结构；运用在线工具BaCeIlo 和ChloroP预测细胞定位和叶绿体转运肽切割位点。运用MEGA5.1软件对目的基因及同源基因的氨基酸序列构建进化树分析。
+
+# 1.2.4夏枯草GGPPS基因的表达特性分析
+
+采集新鲜的夏枯草叶片、果穗和茎，用自来水清洗干净，滤纸吸干水分，置液氮中冷冻后，放 $. 8 0 ^ { \circ } \mathrm { C }$ 超低温冰箱备用。在夏枯草生长旺盛的时期（6月份)，对生长状态一致的夏枯草果穗进行处理，分别喷洒 $5 0 \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ 茉莉酸甲酯(MeJA） $1 7 . 1 4 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 吲哚乙酸(IAA）$1 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 乙烯利(ETH）、 $1 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 硝普钠（SNP）、 $1 \ \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 无水氯化钙、 $1 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 水杨酸（SA）、 $2 . 8 8 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 赤霉素（GA3)。以喷洒前（ $\boldsymbol { 0 } \mathrm { h } \dot { }$ ）的果穗为对照， $2 4 \mathrm { h }$ 后采集处理组样品。
+
+对夏枯草果穗、茎、叶及喷施7种外源物质的果穗中GGPPS 基因相对表达量进行实时荧光定量PCR（quantitative real-time PCR，qPCR）检测， $\mathrm { { q P C R } }$ 检测的反应体系： $2 \times \operatorname { S Y B R }$ GreenPCRMaster $\mathtt { M i x 1 0 \mu L }$ ，QNRox Reference Dye $0 . 1 \mu \mathrm { L }$ ，正反向引物均为 $0 . 4 \mu \mathrm { L }$ ，模板cDNA $2 \mu \mathrm { L }$ ，RNase-Free Water $7 . 1 \mu \mathrm { L }$ 至终体积为 $2 0 { \mu \mathrm { L } }$ 。反应程序： $9 5 ^ { \circ } \mathrm { C }$ 预变性 $2 0 \mathrm { { s } }$ 后，进行40个循环（ $9 5 ^ { \circ } \mathrm { C }$ ， $\mathrm { ~ 1 ~ s ~ }$ ， $5 6 ^ { \circ } \mathrm { C }$ ， $2 0 ~ \mathrm { s }$ ， $9 5 ^ { \circ } \mathrm { C }$ ，1s)， $6 0 ^ { \circ } \mathrm { C }$ ， $2 0 ~ \mathrm { s }$ ， $9 5 ^ { \circ } \mathrm { C }$ ，1s。夏枯草actin基因作为内参，扩增完成后进行溶解曲线测定， $2 { \cdot } \Delta \Delta \mathrm { C t }$ 法分析GGPPS相对表达量。
+
+# 2结果与分析
+
+# 2.1夏枯草GGPPS基因的cDNA全长克隆
+
+琼脂糖凝胶电泳检测夏枯草GGPPS基因的大小在 $1 \ 1 0 0 \ \mathrm { b p }$ 左右，经克隆测序后序列使用ORFFinder预测开放阅读框，克隆所得序列含有1个大小为1092bp的完整开放阅读框，命名为PvGGPPS，NCBI基因登陆号为MK993565。夏枯草GGPPS基因PCR扩增琼脂糖凝胶电泳检测结果见下图。
+
+![](images/e58e8d1a3a1073e7c7c2da8acfdc6365b6a925c1a2ff58e91afc9c4ff1071f87.jpg)  
+图1夏枯草GGPPS基因凝胶检测图  
+Fig.1 Detection map of selfheal GGPPS gene gel
+
+# 2.2夏枯草GGPPS蛋白的生物信息学分析
+
+2.2.1夏枯草GGPPS蛋白的理化性质预测
+
+PvGGPPS蛋白预测编码363个氨基酸，理论分子量为 $3 8 8 1 5 . 6 8 \mathrm { ~ D ~ }$ ，等电点为5.69，带负电的氨基酸残基 $( \mathsf { A s p } + \mathsf { G l u } )$ 有 44个，带正电的氨基酸残基 $( { \mathrm { A r g } } + { \mathrm { L y s } } )$ 有37个，推测其为酸性蛋白；根据其不稳定系数为39.06，推测其为稳定蛋白。
+
+表2PvGGPPS蛋白的氨基酸组成  
+Table 2 Amino acid composition of PvGGPPS protein   
+
+<html><body><table><tr><td>氨基酸名称 Amino acid name</td><td>含量 Content (%）</td><td>氨基酸名称 Amino acid name</td><td>含量 Content (%)</td><td>氨基酸名称 Amino acid name</td><td>含量 Content (%)</td></tr><tr><td>丙氨酸</td><td>13.8</td><td>天冬酰胺</td><td>3.9</td><td>半胱氨酸</td><td>1.4</td></tr><tr><td>Alanine</td><td></td><td>Asparagine</td><td></td><td>Cysteine</td><td></td></tr><tr><td>谷氨酸</td><td>6.6</td><td>组氨酸</td><td>2.2</td><td>亮氨酸</td><td>10.7</td></tr><tr><td>Glutamate</td><td></td><td>Histidine</td><td></td><td>Leucine</td><td></td></tr><tr><td>精氨酸</td><td>4.4</td><td>天冬氨酸</td><td>5.5</td><td>谷氨酰胺</td><td>2.8</td></tr><tr><td>Arginine</td><td></td><td>Aspartic acid</td><td></td><td>Glutamine</td><td></td></tr><tr><td>甘氨酸</td><td>7.2</td><td>异亮氨酸</td><td>4.1</td><td>赖氨酸</td><td>5.8</td></tr><tr><td>Glycine</td><td></td><td>Isoleucine</td><td></td><td>Lysine</td><td></td></tr><tr><td>蛋氨酸</td><td>4.1</td><td>苯丙氨酸</td><td>0.3</td><td>丝氨酸</td><td>1.4</td></tr><tr><td>Methionine</td><td></td><td>Phenylalanine</td><td></td><td>Serine</td><td></td></tr><tr><td>苏氨酸</td><td>9.9</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.2.2夏枯草GGPPS蛋白的亚细胞定位和功能域分析
+
+通过亚细胞定位预测分析，发现PvGGPPS 蛋白定位在叶绿体中。利用 SMART在线软件对PvGGPPS蛋白进行功能域预测，结果显示：PvGGPPS蛋白具有异戊烯基焦磷酸合酶家族的特征结构域 polyprenyl_synt，位于第101位到357位。
+
+表3PvGGPPS蛋白亚细胞定位预测
+
+![](images/0afc2831e02eb2df029b0310dc89581be148228cb265df9da630ea2e89e9bfd9.jpg)  
+Fig.2Prediction of functional domains ofPvGGPPS
+
+2.2.3夏枯草GGPPS蛋白的疏水性、跨膜区预测
+
+对PvGGPPS蛋白进行疏水性预测，预测结果表明该蛋白疏水氨基的数量大于亲水氨基酸的数量，可推测其为疏水性蛋白。PvGGPPS 蛋白跨膜区预测结果表明该蛋白有2个跨膜螺旋区，位置分别为从176位到195位；从250位到266位。
+
+![](images/5e1e950627dfbaa5ba79881c3d45b0e350e05bc4a1c38bb3c99e41c9684cfc53.jpg)  
+图 $2 P \nu G G P P S$ 功能结构域预测  
+图3PvGGPPS蛋白疏水性预测  
+Fig.3Prediction of hydrophobicity of PvGGPPS protein
+
+![](images/299e98190d5ea7b1917854727190a539e02de1cc4d1ce434cd23f08f0837997e.jpg)  
+图4PvGGPPS蛋白跨膜区预测
+
+2.2.4夏枯草GGPPS蛋白的二级和三级结构预测
+
+利用在线软件对PvGGPPS 蛋白进行二级结构预测。结果表明该蛋白是由 $5 4 . 2 7 \%$ 的 $\mathfrak { a }$ 螺旋、 $1 4 . 0 5 \%$ 的延伸链、 $5 . 5 1 \%$ 的 $\beta$ -转角和 $2 6 . 1 7 \%$ 的不规则卷曲组成混合型蛋白。利用Swiss-Model在线软件预测蛋白三级结构。结果显示PvGGPPS蛋白与拟南芥中AtGGPPS11蛋白（5e8l.1）的相似度为 $7 5 . 2 5 \%$ 。
+
+![](images/c8e6fd20d07bdb72a60cad3fc5a7b7049b9bc434efdc4f7aae411590f9b82890.jpg)  
+Fig.4Prediction of transmembrane region of PvGGPPS protein   
+图5PvGGPPS蛋白三维结构预测  
+Fig.5Prediction of three-dimensional structure of PvGGPPS protein
+
+2.2.5夏枯草GGPPS蛋白系统进化树的构建和多序列比对通过BLAST序列比对，从NCBI数据库中下载丹参（Salvia miltiorrhiza）、毛喉鞘蕊花（Plectranthus barbatus）、芝麻（Sesamum indicum）、米团花（Leucosceptrum canum）、野甘草（Scoparia dulcis）、锈毛旋蒴苣苔（Dorcoceras hygrometricum）、紫花风铃（Handroanthusimpetiginosus）、拟南芥（Arabidopsis thaliana）、皱叶草（Nicotiana tomentosiformis）、烟草（Nicotiana atenuata）、大肠杆菌（Escherichia coli）、曼地亚红豆杉（Taxusx media）、银杏（Ginkgo biloba）、玉米（Zea mays）、莱茵衣藻（Chlamydomonas reinhardtii）、铁皮石斛（Dendrobium officinale）、马尾松（Pinus massoniana）、水稻（Oryza sativa）、小立碗藓（Physcomitrella patens）、江南卷柏（Selaginella moellendorfii）、湖生红球藻（Haematococcuslacustris）、钝顶螺旋藻（Arthrospira platensis）的GGPPS 蛋白的氨基酸序列与PvGGPPS 蛋白的氨基酸序列通过MEGA 5.1软件采用邻近法（N-J法，bootstarp 值设为1000，其余为默认条件）构建系统进化树，并选取部分植物的氨基酸序列利用DNNMAN软件进行多序列比对分析。
+
+通过构建系统进化树，可以看出PvGGPPS 蛋白与丹参、毛喉鞘蕊花GGPPS 蛋白具有较高的亲缘关系，进化关系具有较高的保守性；与双子叶植物进化关系较近，与菌类、藓类、藻类、裸子植物、单子叶植物的进化关系较远。多序列比对显示PvGGPPS与6个物种间蛋白氨基酸序列一致性达 $8 7 . 0 3 \%$ ，序列中存在异戊烯基焦磷酸合酶家族的两个富含天冬氨酸的特征性序列:DDxxxxD和DDxxD（王中等，2018)，起到底物结合与碳链延伸的功能；且含有1个CxxxC基序（D为天冬氨酸残基，C为半胱氨酸，x为任意氨基酸残基)，分别位于第157\~第164位的"DDLPCMD"和第 296\~第 300 位的DDILD”。
+
+![](images/9d6b5d4ddf8cf8334f3b081b47a9171eb059ea3982b101399d6ae5fd0ce11ee4.jpg)  
+图6PvGGPPS系统进化树Fig.6 PvGGPPS phylogenetic tree
+
+注：前面序列号为NCBI登录号。 Note:Previous serial numberis NCBI login number.
+
+Le GGPPs reg PbG GPPS seq Hsn LEECOisAESi M H Vs vLiCEEAsI H IRCIEAPE ? 8882858 SdG GPPS.seq JCVSECOPE. S S.1 VIEEEAAI TIAKEKTCSI SiGGPPS.seg xP COPISA5 VSIIJEEEPR E/CKEKESE ENA Sm GGPPS.s兹q CRSACC O ESD 其 S! LICEEAFVSICRIC/PE FN. PvGGPPS seq JCCRAEECN 5 国 SREPISSECVSAVLICERSFVSTAP EdEENA Corsersus P Bdu 8 □ fna DhGGPPS. seq NF K/LD PA/C/VEMFIASINFEEIPCDINEEIRRG 1 L:GGPPS seq EK HKALDEASV NEINIFIENRYSILACCKFVEPMICI ta SIPAAC/VEMFTASIIFEEIPCMMEIRRG 1 SsGGPPS SEC ENENEN ERSHEEFENEEERRG ESE SiGGPPS seq NKALIIAS NiNT: RISILACCRIVEPN01 APAC/VEMFTNSIIEEEIPCMMEEIRRG Sm GGPPS.s兹q LEKA KALDIAN 上 INEINTET  RISILACCKFVEPM01 cicg AIPA/CAVEM FIASIIFEEIPCMMEIRRG 175 PvGGPPS seq WT KLDEAV L 面 NTEEARYSILACCKEVEPMCE CC PAIC/VEMFIASIFEEIPCMIMEEIRRG 171 Cosensus eka kadv 面 mr ys11aggkrvrpmiac gg a paacavenihtns1 idipcndnddirrg DhGGPPS. seq FPTMHFCE VAVLACESIL AFEF ATITTR SPDEI LAA CELABAICTECLVACCVVIL CTC H NVCLITLEFIHIEKTAALL 265 L:GGPPS seq FPTMR\FCEVAVLACEELL AFEFIAT/TS TSGV P 中 VLAACELARAI CTECLVACCVVILSCTON NVCLITLEFI TVEKTAALL 261 PtG GPPS.seq EPTMRFCENVAVLACEAIL AFEFI AT.TIC IPEFILAAVELARAI CTECLVACCWVIECTC NINVCLITLEFIHEKTAALL 260 SdG GPPS.seq EPTMRFCEEVAVLACEEIL AFEFIAT/TSCVENFLAACELARAI CTECL\ACCVVIL CTONEVCLITLEFITI EKTAALL 262 SIGGPPS seq FPTMEFCEIVAVLACESIL ArEFIAT TICIPICELAAI CTECL VACCWILECTON DCLITLEFI EIERTALL 264 Sm GGPPS seq FPTMRVFCEDVAVLACDEIL AFEFDAT/TTCV PEFILAAVCELAKAI CTECLVACCVVIINCTC E.NVCLITLEFIHEKTAALL 264 PvGGPPS seq FPTMEVFCEIVAVLACEEIL EEACiACELAA GECACCWNCTC L NVCLITLEFIHI EKTAALL 260 Coreersua kptnhvf gevaviagd 11aafefatat □ 1aaelakaigtegivagqvvdictg vgi dtief ihhktaa11 DL GCPPs .eg ENSIEENNEIPSH8HHNRE H8V&NHRISE:EHNH:S9 PbG GPPS.seq EocCEgrdeENg中 SdG GPPS seq EA\VLCAILCCCSIEC EELRDF ARKI CLIFCVVIEI IEVTKSSEELCKTACKIETEFTTIPENCLERAREFAARINEEAEECLACF SiGGPPS.seq EASVVLCAILCCCSIECVERLRTFARKI CLIFCVVIEI IEVTKSSEELCKTACKIIANETTYPEIICLERARI 电 gdd Sm GGPPS seq occ idErkiCrE RGrciiinnditNt d d PvGGPPS.seq EASVVLCAILCCCSTEC E LRIFARKICLIFCVVIEIIEVTKSSEELCKTACKIIWEETTYPEIIC EF DERINEE CAE 350 Corsersus eawgaig e1r f ar ki g11f qvvddi1dtksse1gktagkd kttypk1g1ka fa 1 eak g1 f DhGGPPS. seq N R L 5885083 L:GGPPS.seq RE   
+PtG GPPS seq IPnyALy RO   
+SdG GPPS seq DPERAAILVAL/EYI RQ   
+SGCP 2 ESSAHIALN. E o。   
+PvGGPPS.seq ICSRAAELVAL ACYI ATRC 369 Coisersus d kaapialadyia[
+
+注：虚线框为GGPP 合酶家族的两个富含天冬氨酸的特征性序列:DDxxxxD 和 DDxxD；实线框为CxxxC 基序。
+
+Note: The dotted line box shows two aspartic acid-rich characteristic sequences of GGPP synthase family: DDxxxxD and DDxxD; The solid frame is CxxxC motif.
+
+图7PvGGPPS多序列比对
+
+Fig.7 PvGGPPS multiple sequence alignment
+
+# 2.3夏枯草GGPPS基因表达分析
+
+利用qPCR方法检测PvGGPPS基因在夏枯草果穗、叶和茎中的表达量，以果穗为参照。结果显示 $P \nu G G P P S$ 基因在3个样本中均有不同程度的表达量；在叶中高表达，其次是茎，在果穗中的表达量最少。PvGGPPS基因在叶中的相对表达量是在果穗中的95.39倍。$P \nu G G P P S$ 基因表达趋势与转录组测序结果一致(图8)。
+
+通过外源施加7种外源物质来评价这些信号物质对夏枯草 $P \nu G G P P S$ 基因表达的影响。在 24h时7种外源物质处理下，GA3处理下 $P { \nu } G G P P S$ 基因的表达量显著上调;SNP、MeJA、IAA、乙烯利和CaCI2处理在24h时对该基因表达量均表现为明显下调。
+
+注： $\operatorname { q P C R }$ 是经过验证的基因相对表达量，RPKM是转录组测序结果。
+
+![](images/a51ecf277b1ce94f051d32a66a54260971d3c268f7eb4a0831d08bb51b76ad8e.jpg)  
+图 $8 P \nu G G P P S$ 基因的表达模式分析Fig.8Expression patternanalysisofPvGGPPS gene
+
+Note: $\mathrm { \ q P C R }$ is the relative expression of verified genes, RPKM is the result of transcriptome sequencing.
+
+# 3讨论与结论
+
+在多种植物GGPPS基因的研究中发现该基因的表达模式在不同植物间有明显的组织差异性（薛生玲等，2018；孙君等，2016；Wang etal.，2019)。本实验结果显示 $P \nu G G P P S$ 基因在夏枯草的果穗、茎、叶3个样本中均有不同程度的表达量，在叶中高表达，其次是茎，在果穗中的表达量最少。通过亚细胞定位预测分析，发现PvGGPPS蛋白预测定位在叶绿体中。我们推测PvGGPPS 可能主要与夏枯草叶片中叶绿素、赤霉素等的合成有关。在赵乐等（2016）的研究中发现地黄中的 $R g G G P P S I$ 基因定位在叶绿体中，在根中的表达量最高，可能参与地黄中叶绿素等次生代谢产物的合成。这与本文研究结果相一致。
+
+GGPPS基因易受植物激素诱导表达为其明显的表达共性。丹参中的GGPPS基因可能受到水杨酸的诱导表达，却被茉莉酸甲酯抑制表达（Kaietal.，2010)。在钱丹等（2013）的研究中发现不同诱导子处理后海南粗榧叶片中GGPPS 基因的表达量明显上调，其中以MeJA诱导的效果最好。在本次实验中发现GA3处理下 $P { \nu } G G P P S$ 基因的表达量显著上调。多项研究表明外源激素对植物的生长及某些基因的表达有一定影响（李璐等，2019；常青山等，2017；潘君飞等，2018)，其中赤霉素(GA3）是一种调节植物生长和发育的双萜植物激素（王灿，2018)，郑伟等（2019）的研究发现在太子参中三个GH3基因的表达均受外源GA3 诱导，且GA3能够诱导太子参发育过程中内源IAA的积累。张晨等（2018）研究发现在太子参块根生长发育过程中GA3可通过影响JA从而促进皂苷的积累。因此，我们推测GA3能诱导夏枯草萜类生物合成途径中部分关键酶基因的表达。本研究丰富了GGPPS基因的种类，为后期的基因功能研究奠定了基础。
+
+本研究结果表明，夏枯草中的 $P \nu G G P P S$ 基因主要在叶中高表达且受外源GA3的调控。本研究首次对夏枯草中的GGPPS基因进行研究，丰富了GGPPS基因家族的种类。但是对于PvGGPPS基因参与具体哪一类成分的调节及该基因对夏枯草中三萜类成分合成的影响目前尚不清楚，还有待进一步研究。
+
+# 参考文献:
+
+Chinese Pharmacopoeia Commission, 2015. Pharmacopoeia of the people's Republic of China[M].Beijing:China Med Sci Press:280.[国家药典委员会，2015．中华人民共和国药典[M].北
+
+京：中国医药科技出版社：280.]CHANG QS, ZHANG LX,MI YF, et al., 2017.Effects of exogenous ala on antioxidant capacitiesand photosynthetic characteristics in Prunella vulgaris seedlings under salt stress[J]. J NuclAgric Sci,31(10):2055-2062.[常青山，张利霞，米银法，等，2017．外源 ALA 对盐胁迫下夏枯草幼苗抗氧化能力与光合特性的影响[J]．核农学报，31(10)：2055-2062.]FANG J,2O17. Molecular cloning and functional analysis of the key enzymic genes involved interpenoid precursors biosynthesis pathway in tea tree[D]. Beijing: Chinese Academy ofAgricultural Science[方洁，2017．茶树萜类前体合成途径中关键酶基因的克隆和功能分析[D]．北京：中国农业科学院.]HAN LM, 2O15. Clone and expression characterization of a new gene encoding geranylgeranylpyrophosphate synthase from Isatis indigotica Fortune[J]. Genom Appl Biol, 34(6): 1172-1178.[韩立敏,2015．菘蓝耗牛儿基牦牛儿基焦磷酸合成酶基因(IiGGPPS1)的克隆及其表达特性分析[J]．基因组学与应用生物学，34(6)：1172-1178.]HUA WP, 2O08. Cloning and expression analysis of GGPP synthase gene from Salvia miltiorrhizaBunge[D].Xian: Shaanxi Normal University.[化文平，2008．丹参GGPP 合酶基因的克隆及表达分析[D]．西安：陕西师范大学.]KAI G, LIAO P, ZHANG T, et al., 2010. Characterization, expresson profiling, and functionalidentification of a gene encoding geranylgeranyl pyrophosphate synthase from Salviamiltiorrhiza[J]. Biotechnol Bioproc Engineer, 15(2): 236-245.LI L, DONG CM, ZHANG MJ, et al., 2019. Cloning and expression analysis of $P \nu D X S$ gene fromPrunella vulgaris[J/OL].Guihaia:1-13.[李璐，董诚明，张梦佳，等，2019．夏枯草PvDXS基因的克隆和表达分析[J/OL]．广西植物：1-13.]LI ZF, WEI P, XIA YZ, et al., 2015. Whole genome identification and analysis of tobacco GGPPsynthase gene family[J].Tob Sci Technol, 48(6):1-8LIANG MH, YANG ZF, SU XG, et al., 2018. Cloning and expression analysis of PpFPPS andPpGGPPS genes from peach fruit[J].JNucl Agric Sci,32(9):1692-1700.[梁敏华，杨震峰，苏新国,等,2018．桃果实PpFPPS和PpGGPPS基因的克隆及表达分析[J]．核农学报,32(9):  
+1692-1700.]PAN JF, PENG LY, ZHAO CL, et al.,2018. Cloning of amaARF6 and its response to exogenoushormones treatment in amaranth seedlings[J]. JNE Agric Univ, 49(5):24-32.[潘君飞，彭丽云,赵春丽，等，2018.苋菜amaARF6基因克隆及其外源激素处理下在幼苗中响应分析[J]．东北农业大学学报，49(5)：24-32.]QIAN D, JIANG XF, QIAO F, 2013. Cloning and induced expression analysis of GGPP synthasegene from Cephalotaxus mannii[J]. Mol Plant Breed,11(2):204-210.[钱丹,江雪飞,乔飞,2013.海南粗榧GGPPs 基因克隆与诱导表达分析[J].分子植物育种，11(2)：204-210.]SUN J,LIN Y, YU Y, et al., 2016.Cloning, molecular characterization,and expression of JsGGPPsgene from Jasminum sambac[J].Fujian JAgric Sci,31(4):350-355.[孙君，林浥，俞滢，等,  
+2016.茉莉花JsGGPPS基因的克隆及生物信息学与表达分析[J]．福建农业学报，31(4):  
+350-355.]TANG MQ, ZHAO YM, HU Y, et al., 2017. Research progress of GGPPS gene in plants[J]. HubeiAgric $\mathrm { S c i } , 5 6 ( 1 9 ) { : 3 6 0 1 - 3 6 0 2 } { + 3 6 0 9 } . [ $ 唐美琼，赵以民，胡营，等，2017．植物GGPPS基因研究进展[J]．湖北农业科学，56(19)： $3 6 0 1 \substack { - 3 6 0 2 + 3 6 0 9 . } ]$ WANG C, 2018. Exogenous plant hormones induced transcriptional study of Achyranthesbidentata[D].Henan: Henan Normmal University.[王灿，2018．外源植物激素诱导的怀牛膝转录组学研究[D].河南：河南师范大学.]  
+WANG J, LIN HX, SU P, et al., 2O19. Molecular cloning and functional characterization ofmultiple geranylgeranyl pyrophosphate synthases (ApGGPPS) from Andrographispaniculata[J]. Plant Cell Rep,38(1):117-128.  
+WANG XH, MA MH, ZHANG JT, et al.,2019.Medicinal application overview of herbalmedicine Prunella vulgaris L.[J].Chin JMod Appl Pharm,36(5):625-632.[汪晓河，马明华，张婧婷，等，2019．中药夏枯草药用概况[J].中国现代应用药学，36(5)：625-632.]  
+WANG Z, LIF, JIN LF, et al., 2O18. Research progress of geranylgeranyl pyrophosphate synthasegene in higher plants[J].Plant Physiol J,54(4):557-564.[王中，李锋，金立锋，等，2018．高等植物牛儿基牛儿基焦磷酸合成酶基因的研究进展[J]．植物生理学报，54(4)：557-564.]  
+XUE SL, JIANG M, CHANG JQ, et al., 2O18. Cloning and expression analysis of geranylgeranylpyrophosphate synthase gene (BoaGGPPS1) in Brassica oleracea var. alboglabra[J]. Jiangsu JAgric Sci,34(2):259-265.[薛生玲，江敏，常嘉琪，等，2018．芥蓝牛儿基牛儿基焦磷酸合成酶基因 BoaGGPPS1的克隆及表达分析[J].江苏农业学报，34(2)：259-265.]  
+ZHANG C, ZHOU T, ZHENG W, et al., 2018. Effect of exogenous ABA and GA3 on saponinscontent of Pseudostellaria heterophylla and expression of key enzyme genes in Saponinsbiosynthesis[J].Mol Plant Breed,16(13):4255-4262.[张晨，周涛，郑伟,等,2018．外源 ABA、GA_3对太子参皂苷含量及其生物合成关键酶基因表达的影响[J]．分子植物育种,16(13):4255-4262.]  
+ZHANG YD, 2018. Study on the metabolic regulation of GGPP in tomato (Solanum lycopersicum)Fruits[D].Nanjing: Nanjing University.[张艺丹，2018．番茄果实中GGPP 代谢调控研究[D].南京：南京大学.]  
+ZHANG JH, QIU JN, WANG L, et al., 2018. Research progress on chemical constituents andpharmacological effects of Prunella vulgaris[J]. Chin Tradit Herbal Drugs,49(14):3432-3440.[张金华，邱俊娜，王路，等，2018．夏枯草化学成分及药理作用研究进展[J]．中草药，49(14)：3432-3440.]  
+ZHAO L, MALG, ZU MH, et al., 2017. Cloning, bioinformatic analysis and expression analysisof RgGGPPS2 gene from Rehmannia glutinosa[J]. Chin Tradit Herbal Drugs,48(11):2269-2278.赵乐，马利刚，俎梦航，等，2017．地黄RgGGPPS2 基因克隆、生物信息学分析及表达分析[J].中草药，48(11)：2269-2278.]  
+ZHAO L, SHI JJ, MA LG, et al.,2016.Clone and expression analysis of GGPPS1 gene fromRehmannia glutinosa[J].Acta Bot Boreal-Occident Sin,36(5):888-895.[赵乐，史晶晶,马利刚,等，2016.地黄 GGPPS1基因克隆及表达分析[J]．西北植物学报，36(5)：888-895.]  
+ZHU YH, SU XH,DONG CM, et al.,2016. Cloning and expresson analysis of Acetyl-CoAC-acetyltransferase gene in Isodon rubescens[J]. JChin Med Med, 39(1):37-41.[朱胸昊，苏秀红，董诚明，等，2016.冬凌草 AACT基因的克隆与表达分析[J]．中药材，39(1):37-41.]  
+ZHENG W, ZHOU T, JIANG WK, et al., 2019. Effects of exogenous paclobutrazol and GA3treatment on the accumulation of endogenous IAA and transcriptional level of related genes inthe development of tuberous toot of Pseudostellaria heterophylla[J/OL]. BiotechnolBull:1-7.[郑伟，周涛，江维克，等，2019.外源 PBZ和GA3 对太子参发育过程内源IAA积累及其相关基因表达的影响[J/OL]．生物技术通报：1-7.]

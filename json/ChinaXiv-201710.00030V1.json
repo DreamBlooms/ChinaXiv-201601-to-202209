@@ -1,0 +1,371 @@
+[
+    {
+        "type": "text",
+        "text": "专题：科技促进农业供给侧结构性改革 Science & Technology Promoting Agricultural Supply-side Structural Reform ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "农药残留监测技术研究与监控体系构建展望 \\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c5978bbd577ac73167479e5ed85d2105dc2faf86093f2e82efe4b5618d042d6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "庞国芳常巧英范春林中国检验检疫科学研究院北京100176",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要农药化学污染物残留问题已成为国际共同关注的食品安全重大问题之一。我国市售农产品中农药检出情况依然普遍，违禁、高剧毒农药残留仍在威胁民众“菜篮子”安全。作为农产品质量源头监管关键点之一的农药残留监测技术，已从经典的色谱技术、质谱技术，发展到高分辨质谱技术，并在非靶向农药目标物定性筛查方面实现了智能化、自动化创新。在调研分析1990—2016年4000余篇农药残留检测 SCI论文和国内外农药残留监控体系发展现状的基础上，文章结合作者团队近10年在高分辨质谱-互联网-数据科学/地理信息系统（GIS）三元融合技术研发与实践应用等方面取得的成果，着重探讨了提升农产品质量源头监管与风险溯源所需的核心技术手段，对构建我国市售食用农产品农药残留大数据库提出了规划和实施国家重大科技专项的建议，以期为落实国家“十三五”规划纲要“农药使用零增长行动”和“推进健康中国建设”提供技术支撑，促使食品安全监管前移，保障民众舌尖上的安全。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词农药残留，食品安全，高分辨质谱，数据科学，地理信息系统 DOI 10.16418/j.issn.1000-3045.2017.10.005 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*资助项目：“十二五”国家科技支撑项目（2012BAD29B01）、国家科技基础性工作专项(2015FY111200)修改稿收到日期：2017年10月10日",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "农药是一把“双刃剑”，在保护农作物生长、提高农作物产量、保障农产品储存质量等方面起到了至关重要的作用。由于存在生物活性，残留农药对食品安全、生态环境的影响不可避免。世界各国已实施从农田到餐桌的农药等化学污染物的监测监控调查，其中欧盟、美国和日本均建立了较完善的法律法规和监管机构，制定了农产品中农药最大残留限量（MRLs）；在严格控制农药使用的同时，不断加强和重视食品中有害残留物质的监控和检测技术的研发，并形成了非常完善的监控调查体系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国作为农业大国，是世界上农药生产和消费量较高的国家。2000—2015年我国化学农药原药产品从60万吨/年增加到374万吨/年[1，农药化学污染物是当前食品安全源头污染主要来源。尽管我国有关部门都有不同的残留监控计划，但还没有形成一套严格的法律法规和全国“一盘棋”的监控体系，各部门仅有的残留数据资源在食品安全监管中发挥的作用也十分有限。我国农产品中农药残留大数据尚未形成资源，而这些基础数据对食品监管非常重要。值得庆幸的是，我国在这一领域的检测技术方面现已达到世界先进行列，完全有能力在这些基础研究上急起直追，迎头赶上。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1农药残留监控体系发展现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1世界各国农药及化学污染物监控战略地位的确立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "早在1976年世界卫生组织（WHO）、联合国粮农组织（FAO）和联合国环境规划署（UNEP）就共同建立了全球环境检测系统/食品项目，旨在掌握会员国食品污染状况，了解食品污染物摄入量，保护人体健康，促进贸易发展[3]。农药最大残留限量（MRLs）是食品安全标准，也是国际贸易进出口的门槛，更是食品安全监控体系的重要标准之一。欧盟、美国和日本现已制定的MRLs标准分别为162 248项、39 147项和 51600项[4-6],而我国于2017年6月实施的国家标准《食品安全国家标准——食品中农药最大残留限量（GB2763-2016）》，仅规定了食品中433种农药的4140项最大残留限量，与欧盟、日本等国家和地区间的限量标准要求存在很大的差距，这对我国农药残留分析技术的研发与农药残留限量标准的制定均提出了巨大挑战。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2美国、欧盟和日本农药化学污染物残留数据库在食品安全监管中发挥重大作用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从20世纪70年代起，美国陆续建立了三大农药残留监控体系，包括国家残留监控计划（NRP）、农药残留监测计划（PPRM）和农药残留数据计划（PDP），监控农药品种达500多种，并建成农药化学污染物残留数据库。1996年，欧盟启动的共同体农药残留监控计划中包括欧盟和欧盟成员国两大残留监控体系，监控的农药品种达到839种。日本肯定列表①监控农药542种，保障了农药的科学施用，降低了食品中的农药残留水平，促进了绿色发展、环境友好，提高了食品安全水平。到目前为止，我国各有关部门中监控农药的最多仅百种左右，且基本上处于各扫门前雪的状况，与先进国家差距甚远，其地位与我国的农业大国地位很不相称。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3我国农药残留监控体系长效机制尚未建立，农药及化学污染物残留形势严峻",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国尚未形成有严格系统法律法规作保障的残留监控体系。尽管有关部门如农业部、食药局和质检总局也开展了残留监控计划，并取得了一定的成绩，但在决定全局食品安全监控中发挥的作用十分有限，导致在农产品农药兽药残留监控中发挥的作用未能显现。笔者团队主持的国家科技支撑项目“食品中农药化学污染物高通量侦测技术研究与示范”研究发现，我国“菜篮子”中残留农药风险隐患依然严峻，高剧毒和违禁农药仍有检出。农药残留数据拷问着我国“生产质量管理规范（GMP）”“良好农业规范（GAP）”“危害分析和关键控制点（HACCP）”等已被世界证明是行之有效的法律法规的有效实施。水果蔬菜的农药残留不容忽视，对其要以预防为主，因此监管前移是十分必要的，也是当务之急。建立完善我国农药残留监控体系，保障“农田到餐桌”食品安全，为食品安全问题的上可溯源，下可追踪提供技术和数据支持；同时对大众日常消费的水果、蔬菜等农作物进行广泛筛查，监督和控制食品污染和保证食品质量，具有重要理论和现实意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2农药残留监测技术发展趋势",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为残留监控体系的重要技术支撑手段，监测方法的科学性和可操作性是确保残留监控体系有效运转的基石和保障。欧盟、美国和日本农药残留监控体系采用的检测技术为气相色谱和液相色谱技术，以及低分辨质谱联用技术。同时，通过对15种SCI杂志4678篇食用农产品农药残留检测技术论文分析发现，涉及的检测技术有214种，使用率最高的技术为液相色谱-串联质谱（LC-MS/MS）、气相色谱-质谱（GC-MS）、液相色谱-紫外检测、气相色谱-电子捕获检测等；涉及色谱（配备选择性检测器）检测技术1432篇，涉及质谱检测技术2091篇，这两项技术成为残留分析应用最广泛的技术（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1质谱技术成为残留分析的主流技术[7]",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从1912年Thomson研制成第1台质谱仪，到现在已有100多年。早期的质谱仪主要是用来进行同位素测定和无机元素分析，20世纪40年代以后开始用于有机物分析，60年代出现了气相色谱-质谱联用仪，使质谱仪的应用领域大大扩展，开始成为有机物分析的重要仪器。计算机的应用加速了质谱技术快速发展，20世纪80年代以后又出现了一些新的质谱技术，如原子轰击电离源、基质辅助激光解吸电离源、电喷雾电离源、大气压化学电离源，以及随之发展起来的液相色谱-质谱联用仪、感应耦合等离子体质谱仪、傅里叶变换质谱仪等。这些新的电离技术和新型质谱仪器，使质谱分析又取得了长足进展。目前质谱分析法已广泛地应用于化学、材料、环境、地质、能源、药物、刑侦、生命科学、食品科学、医学等各个领域。在食用农产品农药残留检测领域，质谱检测技术得到了突飞猛进的发展。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在质谱技术中，GC-MS 技术从1992年起持续年稳定发展；缘于电喷雾离子化（ESI）和大气压化学离子化（APCI）的技术进步，促使LC-MS/MS 技术自2003年起处于领先地位；高分辨质谱（HRMS），如飞行时间质谱（TOF/MS）和轨道阱质谱（LC-Orbitrap）技术等，在2002年前还没有在残留分析中应用，自2002年起高分辨质谱的应用数量显著增加。高分辨质谱所独有的精确质量鉴别能力，使其成为未来残留分析的发展方向（图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddba3348bc46eb8be1c9a36f6a93540efb8dbe7eefe532813c8578277beaf1b9.jpg",
+        "img_caption": [
+            "图11990—2016年色谱技术与质谱技术发展趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbfcb1a7eb1430902d85874e913354cc3d4a56dd385a4cb44dd4030ee2eda6a6.jpg",
+        "img_caption": [
+            "图21990—2016年传统质谱技术与高分辨质谱技术发展趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2高分辨质谱成为非靶向目标物筛查的发展方向",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "区别于低分辨质谱，高分辨质谱是指能够提供高质量分辨率 ${ > } 1 0 0 0 0$ 半峰宽（FWHM）、高质量准确度 $< 5$ ppm 和高扫描速率的质谱检测技术。常见的高分辨质谱包括傅里叶变换离子回旋共振质谱（FTICR）、傅立叶变换静电场轨道阱质谱（Orbitrap）、飞行时间质谱（TOF/MS）、四极杆-飞行时间质谱（Q-TOF/MS）等[8]。其主要原理是通过不同质荷比的离子在飞行管中飞行时间的不同来对目标化合物加以区分。目标化合物在离子源中电离后，经过传输进人飞行管，在脉冲电场的作用下对离子施加相同的电势能，并转化为离子的动能，从而使得离子在飞行管中飞行。由于施加电势能相同，因此离子的质荷比与其在飞行管中的飞行时间的平方成正比关系，通过计算最终可确定离子的质荷比。此外，飞行时间质谱也可与四极杆等组件进行串联，从而起到对目标离子进行过滤和筛选的目的，并可进一步通过碰撞碎裂获得相应的碎片离子信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于高分辨质谱具有同时筛查大量目标化合物的能力，并且在全扫描模式下无须考虑目标化合物的数量。其应用于多残留筛查主要有以下两种方式：（1）基于精确质量数，色谱保留时间和同位素分布等条件对目标化合物进行定性测定；（2）采用源内碎裂离子作为辅助定性的依据。截至目前，Q-TOF/MS等高分辨质谱在复杂基质中农药残留的分析仍处于初步的摸索和尝试阶段，农药质谱信息库的建立，以及在质谱信息库基础上的千余种农药不用标准品的定性筛查方面的研究报道尚不多见。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3农药残留高分辨监测技术研发",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "农药残留检测如何实现电子化、农药残留大数据报告如何实现自动化、农药残留风险溯源如何实现视频化，是我国农药残留检测面临的三大挑战。笔者团队围绕世界常用的1200种农药化学污染物展开研究，在高分辨质谱技术 $+$ 互联网与数据科学、地理信息多元融合技术研发等3个方面均取得了原创性突破。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1研发以电子标准替代实物标准，实现农药残留侦测电子化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用气相色谱-四极杆-飞行时间质谱（GC-Q-TOF/MS）或液相色谱-四极杆-飞行时间质谱（LC-Q-TOF/MS）研究开发了世界常用1200多种农药的一级精确质量数据库和二级碎片离子的谱图库。在此基础上，为世界常用1200 多种农药的每一种都建立了一个自身独有的电子身份证（电子识别标准），以电子标准取代农药实物标准作参比的传统鉴定方法，实现了农药残留由靶向检测向非靶向筛查的跨越式发展。实现了高速度（30min）、高通量（千余种农药以上）、高精度（0.0001$\\mathrm { m } / \\mathrm { z }$ ）、高可靠性（10个确证点以上）、高度信息化、自动化和电子化。由于彻底解决靶向检测技术的弊端,分析速度和方法效能是传统方法和靶向检测技术不可想象的。其检测能力居国际领先地位，远远超过了目前美国、欧盟和日本农药残留检测技术的实力，从而可以大大提高农产品质量安全的保障能力。同时，检测的水果蔬菜种类覆盖范围达到18类150多种，其中 $8 5 \\%$ 属于国家MRLs标准（GB2763-2016）列明品种，紧扣国家标准反映市场真实情况。同时，节省了资源，减少了污染，完全达到了绿色发展、环境友好和清洁高效的要求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2研发高分辨质谱 $^ +$ 互联网 $^ +$ 数据科学三元融合技术，实现了农药残留检测报告生成自动化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "鉴于非靶标农药残留侦测技术的高度数字化、信息化和电子化，产生了海量分析数据，向传统数据统计分析方法提出了挑战，急需建立新的大数据的采集、传送、统计和智能分析系统。围绕食品农药残留检测数据分析中目前难以解决的数据维度多、数据关系复杂、分析要求高等难题，在深入分析农药残留检测数据特征和分析需求的基础上，解决了“多国MRLs标准-农产品分类-千余种农药特性”的关联存储与查询关键技术；提出了面向农药残留检测数据的多维度交叉分析方法、农药残留污染综合评价与预警模型；建立了多国MRLs标准等四大基础数据库，实现了农药残留基础数据的关联存取与调用，为农药残留侦测结果的判定提供了标准依据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "自主研发了农药残留数据采集系统，构建了农药残留侦测结果数据库。提出的“数据获取-信息补充-衍生物合并-禁药处理-污染等级判定”的数据融合与处理模型，实现了对农药多残留检测结果数据进行快速在线采集、融合，以及参照多国MRLs的精准判定，实现了农药残留侦测结果数据库的动态添加与实时更新，为国家食品安全决策提供了科学数据支持。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "自主研发了农药残留海量数据智能分析系统，提出了面向海量农残检测数据的多维度交叉分析方法、农药残留污染综合评价与预警模型，实现了从农产品、农药、地域、多国MRLs等多维度进行的18项农药残留指标的自动统计和5项报表的自动生成，以及根据统计结果的综合评价和预警信息的自动生成，最终实现“一键下载”。一本图文并茂的农药残留侦测报告可在30分钟内自动生成，大大提高了侦测报告的精准度，其制作效率是传统分析方法无可比拟的，这为农药残留数据分析提供了有效工具。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3研发高分辨质谱 $^ +$ 互联网 $^ +$ 地理信息系统（GIS）三元融合技术，实现了农药残留风险溯源视频化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将农药残留数据与地理数据相关联，完成了农药残留数据驱动方式下中国地图的新应用，其研发的核心技术包括：（1）从多空间分辨率，全国-省级-地市级多尺度表达农作物农药残留特征；（2）按照不同农产品类型对各类农药残留特征进行统计分析与制图；（3）反映各类农药残留在空间上和农作物类型上的分布特征与数量指标；（4）参照中国、欧盟和日本等多国MRLs标准，按地区和农产品种类展现农残超标情况。采用高分辨质谱 $\\cdot +$ 互联网 $+$ 地理信息系统（GIS）多元技术融合，设计编制了目标农药、食品名称、食品产地等多维空间特征的可视化系统，现已形成两个产品——“31个省会/直辖市市售水果蔬菜农药残留水平地图集”和“31个省会/直辖市市售水果蔬菜农药残留在线制图系统”，从而实现农药残留检测、溯源和预警三个关键点的“智慧一张图\"管理；为产业自律、政府监管和第三方监督提供了基于空间可视化的科学数据支撑；构建了面向“全国-省-市（区）”多尺度的开放式专题地图表达框架，既便于现有数据的汇聚，也实现了未来数据的动态添加和实时更新。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4农药残留高分辨监测技术应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究建立的GC-Q-TOF/MS和LC-Q-TOF/MS 两种高分辨质谱技术，在分析复杂基质多农药残留方面具有不同的优势，在检测时可以互相补充，具有高通量和普遍适用性的优点。通过联合两种方法，现已对全国31省会/直辖市（含284个区县）638个采样点22328例市售水果和蔬菜样品进行了千余种农药残留筛查，完成了31省会/直辖市农药残留侦测报告。初步查清了中国市售水果蔬菜农药残留状况，包括残留农药的主要分布区域、品种、毒性、残留水平，以及不同种类农产品农药残留的差异等20项规律性特征（表1）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "两种高分辨质谱技术适用于18类146种水果蔬菜，涵盖我国水果蔬菜名录 $8 5 \\%$ 以上，具有强大的农药残留发现能力。由于实现了以电子标准替代实物标准做参比定性的传统方法，使农药残留检测由靶向检测实现了向非靶向检测的跨越式发展，实现了农药残留检测的自动化、电子化。将其应用于我国31个省会/直辖市146种水果蔬菜样品分析，提供精准的质谱检测数据。两种方法相互补充，互相验证，表明两种方法结合在综合快速筛查和多农药残留监测方面是一个有效的分析策略。总之，这项新技术查清了我国18类146种果蔬中所发现的农药残留存在状态和规律性特征，查清了我国31省会/直辖市市售水果蔬菜农药残留的“家底”，为落实《中华人民共和国国民经济和社会发展第十三个五年规划纲要》中提出的“强化农药和兽药残留超标治理（第十八章第四节）”，“实施化肥农药使用量零增长行动（第十八章第五节）”和“提高监督检查频次和抽检监测覆盖面，实行全产业链可追溯管理（第六十章第八节）”提供了科学数据的重要支撑。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c3e07991777b460fef74a3c0d88efffca927e87afbd6311b67d67c3b1095341.jpg",
+        "table_caption": [
+            "表1农药残留大数据统计分析发现的20项规律性特征"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>规律性特征</td><td>序号</td><td>规律性特征</td></tr><tr><td></td><td>131省会/直辖市市售水果蔬菜农药残留检出率，农药残留普遍存在</td><td>11</td><td>与欧美日发达国家相比，我国农药残留限量标准（MRL）面临水平低 和数量少的挑战</td></tr><tr><td></td><td>2我国18类146种水果蔬菜检出农药种类，两种技术共检农药种类</td><td>12</td><td>普查的海量残留数据按我国标准衡量仅用了40%，而欧盟、日本数据应用 率达95%以上，我国标准缺失必然受制于人</td></tr><tr><td>3</td><td>市售水果蔬菜农药残留合格率，安全水平有基本保障</td><td>13</td><td>检出农药品种最多的10种水果和蔬菜</td></tr><tr><td>4</td><td>农药残留检出水平（1—5，5—10，10－100，100-1000, >1000 μg/kg）的特征规律 (按中国、欧盟和日本等MRL衡量对比)</td><td></td><td>14检出农药平均频次最多的10种水果和蔬菜</td></tr><tr><td>5</td><td>单例样品检出农药品种 (未检出、1种、2-5种，6-10种、>10种) 的特征规律</td><td></td><td>15检出高毒、剧毒和违禁农药品种和频次</td></tr><tr><td>6</td><td>同类样品检出农药品种 (未检出、1种、2一5种，6一10种、>10种) 的特征规律</td><td></td><td>16检出高毒、剧毒和违禁农药品种排前的10种水果和蔬菜</td></tr><tr><td>7</td><td>农药功能特征规律（杀虫剂、杀菌剂、除草剂、植物生长调节剂、增 效剂等)</td><td>17</td><td>检出高毒、剧毒和违禁农药频次排前的10种水果和蔬菜</td></tr><tr><td>8</td><td>农药的毒性的特征规律(微毒、低毒、微低毒、中毒、高毒、剧毒和违禁农 药种类与占比)</td><td></td><td>18市售水果蔬菜农药普遍存在的特点与差异性</td></tr><tr><td>9</td><td>检出农药品种、频次 (按地域、农产品等分类排序)</td><td>19</td><td>采样点检出农药的特点与差异性</td></tr><tr><td>10</td><td>检出农药安全性 (未检出、检出未超标和超标)排序 (按中国、欧盟和日本 MRL标准等对比)</td><td></td><td>2031省会/直辖市农药使用的特点与差异性</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5措施与建议",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1创建“国家市售食用农产品农药残留监控工程研究中心”",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "应密切跟踪国际农药残留非靶向检测技术发展，不断提高农产品农药残留侦测能力；深人研发高分辨质谱+互联网 $+$ 数据科学三元跨界融合技术形成的农药残留大数据智能分析软件，进一步扩容升级；深入研发高分辨质谱-互联网-地理信息系统三元跨界融合技术形成的“中国市售食用农产品农药残留在线制图系统软件”视频化内容；构建和组织全国30个以上农药残留监测联盟实验室，创建农药化学污染物监测技术平台，对全国市售农产品（水果、蔬菜、茶叶和粮谷）中农药残留、重金属和生物毒素等有毒物状况实施一年四季循环侦测；对重点地区、重点食用农产品和重点农药开展风险评估，为国家相关职能管理部门的决策和监管提供有效的技术保障和科学数据支撑；开展相关食品安全与营养健康课题研究和重大前沿深层次的课题研究，加强国际合作与交流，筛选出在国际跟踪、齐跑和领跑的研究课题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2创建“中国市售食用农产品农药残留数据库”",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "创建全国-省级-地级三级架构的中国市售食用农产品农药残留数据库，数据库容量由项目示范时的31省会/直辖市284个区县，扩展到全国31省区市2000多个区县；采样点由600多个，扩展到 $3 0 0 0 { \\mathrm { - } } 5 0 0 0$ 个；人口覆盖面由 $2 5 \\%$ 扩展到 $8 5 \\%$ 以上。数据库包含全国31省会/直辖市，下辖的常住人口超过50万的400多个地级行政区，市售的150多种农产品农药残留数据，并准备扩展到有害金属元素和生物毒素的数据；数据库的全部数据来源于30个联盟实验室按“六统一”规范操作（统一采样标准、统一制样技术、统一检测方法、统一格式数据上传、统一模式统计分析、统一参加国际/欧盟能力水平测试和飞行样品检测）全封闭运行，保障数据的统一性、完整性、安全性、可靠性和科学性；计划所有地级市每年采样筛查1次，每个直辖市及省会城市每季度采样筛查1次，预计每年采样量10万例；以全国-省级-地级三级架构，实时跟踪全国31个省会/直辖市，下辖400余个地级行政区的农药残留动态。与前期项目示范相比，农药残留数据库容量将扩大15一20倍，并建成国内首个“中国市售食用农产品农药残留数据库”；提供全国-省级-地级行政区三级农药残留侦测报告，并建议将其纳入国家、省地市政府食品安全有关部门购买计划，作为食品安全监管的重要工具书，包括全国年度报告、各省级行政区域年度报告、各地级行政区域的年度报告以及各直辖市和省会城市的季度报告。扩展研编“中国市售食用农产品农药残留在线制图系统软件”及地图集，建议纳入国家、省地市政府食品安全监管部门购买计划，作为食品安全监管的重要工具书。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "农药残留监测技术信息化、监测大数据处理的智能化及农药残留风险溯源可视化的实现，将对完善我国农药残留监控体系起到重要作用，促使我国食品安全状况大大改观。开展农产品农药化学污染物残留水平调查，摸清家底，规划建立实时检测动态数据库，并将农药残留数据库产生的“31省会/直辖市农药残留侦测报告”，纳入国家政府购买计划，鼓励国家政府各部门、地方政府部门将“农药残留侦测报告”“农药残留水平地图集”“农药残留在线制图系统”等庞大的数据资源盘活，使之转变为先进的生产力，真正落实到实现",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“十三五”国家规划行动中，在供给侧改革中发挥重大作用。这项工作不只是食品安全问题，还关系到国泰民安，关系到国家形象，关系到国家长治久安。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 中华人民共和国国家统计局．中国统计年鉴.[2017-07-08]. http://www.stats.gov.cn/tjsj/ndsj/.   \n2 杨杰,樊永祥,杨大进,等.国际食品污染物监测体系理化指标 监测介绍及思考.中国食品卫生杂志，,2009,21(2):161-168.   \n3旭日干，庞国芳.中国食品安全现状、问题及对策战略研究. 北京:科学出版社,2016.   \n4 European Commission.EU Pesticides database.[2017-07-08]. http://ec.europa.eu/food/plant/pesticides/eu-pesticides-database/pu blic/?event=homepage&language=EN   \n5USDA.Maximum Residue Limits (MRL) Database.[2017-07-08]. https://www.fas.usda.gov/maximum-residue-limits-mrl-database   \n6The Japan Food Chemical Research Foundation.Maximum Residue Limits (MRLs) List of Agricultural Chemicals in Foods. [2017-6-8]. http://www.m5.ws0o1.squarestart.ne.jp/foundation/search.html.   \n7庞国芳，范春林，常巧英,等.追踪近20年SCI论文见证世界农 药残留检测技术进步.食品科学,2012,33(Z1):1-7.   \n8 Marshall A G,Hendrickson C L.High-resolution mass spectrometers.Annual Review of Analytical Chemistry, 2008, 1(1): 579-599. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Prospect for Research of Pesticide Residue Monitoring Technique and Construction of Monitoring Systems ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Pang Guofang Chang Qiaoying Fan Chunlin （Chinese Academy of Inspection and Quarantine,Beijing loo176, China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AbstractPesticidesandchemicalcontaminantsresidueshavebecomeoneofthemajorfoodsafetyconcersofteworld.Thepesticides intheagricuralproductssoldonthaketofiarestllfoudfrequentlydteaddiglyoxicpesticidesaat tothesafetyofte“vegetablebasket”ofourfolks.esticidesmonitoringtechniquesoeofthekeyontrolpointsofthesouecotolf theagriculturalpoductalityaveleadyangedfroteovetioalcomatogapdassectroetytogsolui spectrometryithteralationofntellgentzatinandutomationforteualitativesegof-targepesticides.Onthsisof investigation and analysis of over $4 0 0 0 \\ S C I$ analytical papers on pesticide residue from l990 to 2016 and the present state of domestic and interatioalpesticideoitoingsstems,ndombiigthetri-elementmergingthqueofigsolutionasspectrometeet informationtechologgeogapicalifomationsystem(GS)developedytheuthors’tamovertenyarswiththepracticalliation results,teresearchfcusesonthecoretchnicalmeanseededtoimprovethesouremonitoringofagriculturalproductqualtyadrisk traceabilityandteproposalsforplaingandimplemetigatioalkeyticndecicalproctsaveeeputforwardd developbigdatabasesfortepesticidersiduesintheagriculturalproductssoldonthemarketofChinaforthepurpoeofprovidingtechical supportfortheimplementationofthestateprogramsofZeroIncreaseofPesticideUse”and“BostingtheConstructionofHealthyChina”in 13thFive-Year Plan,as well as moving the food safety monitoring ahead and ensuring the safety offolks bite. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywordspestiidseoetygolutisctroetyftiooogapcaloati庞国芳中国工程院院士，中国检验检疫科学研究院研究员，中国食品安全国家标准审评委员会副主任，中国国家食品安全风险评估专家委员会副主任，美国分析化学家协会（AOAC）资深专家，国际AOAC 2014年度HarveyW.Wiley奖获得者。30多年来始终工作在检验检疫第一线，致力于食品科学检测技术理论与实践的研究，在农药等化学污染物残留微量分析技术领域进行了开拓性的研究工作，在研究高灵敏度、高选择性、高分辨率的多残留快速检测新技术、新方法方面；在研究新型萃取、分离、富集等样品制备新技术、新方法方面多有创新。在检测技术标准化工程化方面颇有建树，研究建立了139项国家技术标准和3项国际AOAC标准。3次荣获国家科学技术进步奖二等奖，8次荣获国际AOAC科学技术奖。论著10部（2000万字），论文100多篇（其中40篇SCI论文）。E-mail:ciqpang@163.com",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PangGuofangAcademicianofChineseAcademyofEnginering,thechiefscientistofCAIQ,deputydirectorofRiskEvaluationExpert CommiteeofChinaNationalFoodSafetydeputydirectorofReviewCommiteeofChinaNationalFoodSafetyStandards,Fellowof AssociationofOicialAnalyticalChemists (AOAC)ecipientofte214HarveyWWileyAwardOvertepast30years,ehasbwa workingattheforefrotofteispectionnduaraneorkdevotinghimselftoteseachontetoydpracticeoffodsietific analysis adconductingtheponeringresearchworkinthefieldof traceelemet analytcal techniques ofpesticideandveterinarydrug residues.Heasadayiovatiosdyofetesofapidetectioofultiresidswitesitivitygetiiy andhighesolutionsaswellasinthestudyofnewtechiquesandnewmethodssuchassample preparationlikeextraction,eparation, enrichment,etc.Hasfocusedisstudyontegthrougputtechqusof teraceelementsofoveropesticidesandveteraydrug residuesandestablished139China NationalStandardsad3AOACOficial Method.HewontheSecondPrizeofthe StateScientificand TechnicalProgressfor3timesandtheAwardofScienceandTechniqueofAOACfor8times.Hehad1Oscientificandtechnicalorks(0 million words)and over 100 papers published,of which 40 were SCI indexed papers.E-mail: ciqpang@163.com ",
+        "page_idx": 7
+    }
+]

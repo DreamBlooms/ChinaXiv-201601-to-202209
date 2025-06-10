@@ -1,0 +1,1120 @@
+[
+    {
+        "type": "text",
+        "text": "The SM extension with color-octet scalars: diphoton enhancement and global fit of LHC Higgs data ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Junjie Cao $^ { 1 , 2 }$ ， Peihua Wan $^ { 1 }$ ， Jin Min Yang $^ 3$ ， Jingya Zhu $^ 3$ （204号  \n$^ { 1 }$ Department of Physics， Henan Normal University， Xinxiang 453007, China  \n$^ 2$ Center for High Energy Physics, Peking University， Beijing 100871， China（204号 $^ 3$ State Key Laboratory of Theoretical Physics,Institute of Theoretical Physics， Academia Sinica， Beijing 10019o, China",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In light of the significant progress of the LHC to determine the properties of the Higgs boson, we investigate the capability of the Manohar-Wise model in explaining the Higgs data. This model extends the SM by one family of color-octet and isospin-doublet scalars,and it can sizably alter the coupling strengths of the Higgs boson with gluons and photons. We first examine the current constraints on the model, which are from unitarity, the LHC searches for the scalars and the electroweak precision data (EWPD). In implementing the unitarity constraint, we use the properties of the SU(3) group to simplify the calculation. Then in the allowed parameter space we perform a fit of the model, using the latest ATLAS and CMS data,respectively. We find that the Manohar-Wise model is able to explain the data with $\\chi ^ { 2 }$ significantly smaller than the SM value. We also find that the current Higgs data, especially the ATLAS data, are very powerful in further constraining the parameter space of the model. In particular, in order to explain the $\\gamma \\gamma$ enhancement reported by the ATLAS collaboration, the sign of the hgg coupling is usually opposite to that in the SM. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:14.80.Ec,12.60.Fr,14.70.Bh, 02.20.Qs ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Based on about 25 fb $^ - 1$ data collected at 7-TeV and 8-TeV LHC, the ATLAS and CMS collaborations have further confirmed the existence of a new boson with the local statistical significance reaching $9 \\sigma$ and more than $7 \\sigma$ respectively [1-4]. So far the mass of the boson is rather precisely determined to be around 125 GeV,and its other properties, albeit with large experimental uncertainties, agree with these of the Higgs boson in the Standard Model [4, 5]. Since such a Higgs-like boson should play a role in the electroweak symmetry breaking and the mass generation, its discovery is widely considered as a great success of the LHC and marks a milestone in understanding the mechanism of the electroweak symmetry breaking. But on the other hand, such a discovery also poses some new questions. For example, as the experimental precision to determine the properties of this Higgs-like boson has been improved significantly, it is urgent for theorists to investigate the nature of this boson, especially its role in the electroweak symmetry breaking and mass generation. To answer these questions, various methods have been proposed to extract physical information of this boson from the LHC data [6-12], which showed that the current data, especially the sizable deviation of the $\\gamma \\gamma$ signal from its SM prediction [13, 14], prefer new physics interpretation. This conclusion makes it important to explore the properties of the Higgs boson in various new physics models. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As the simplest modification of the SM Higgs sector, the two-Higgs-doublet model has been extensively studied for almost thirty years. In its traditional realization (called T2HDM hereafter),the model extends the SM by one family of color-singlet and weak-doublet scalars. As a result, the model respects the custodial symmetry in a natural way, avoids tre level favor changing neutral current (FCNC) by imposing a discrete $Z _ { 2 }$ symmetry, and has interesting phenomenology at colliders due to its rich spectrum in the scalar sector. Because of these attractive features,the analysis of the Higgs data in the T2HDM have been carried out since the first hint of the Higgs boson at the LHC was released at the end of 2011 [15-22]. These studies,however, indicate that the T2HDM is not much better than the SM in explaining the data (the extensions with new particles [17] or the aligned T2HDM [18] may be exceptions). For example, in its most popular type-I and type-II versions, it has been shown that,after considering various experimental and theoretical constraints, the T2HDM can explain at $1 \\sigma$ level the LHC data only in a very narrow parameter space [21], and the global minimum of $\\chi ^ { 2 }$ is roughly equal to the SM value [22]. Confronted with such a situation, we in this work investigate the prospect to explain the Higgs data in another type of two-Higgs-doublet model, which is usually called Manohar-Wise model [23]. This model, well motivated by the principle of minimal favor violation, extends the SM by one family of scalars in the $( 8 , 2 ) _ { 1 / 2 }$ representation under the SM gauge groups. It retains the virtues of the T2HDM,but it may explain the data in a more flexible way. To be more specific, in the T2HDM the only way to influence the Higgs signal rates at the LHC is through modifying the decay rates of the Higgs boson [15, 16, 18-21]. while the Manohar-Wise model can also alter the Higgs production rate at the LHC by changing the Higgs coupling with gluons. Although this feature has been noticed before [24-29], the systematic study of Higgs properties in the Manohar-Wise model has not been performed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It should be emphasized that the color-octet scalars are well motivated in many basic theories, such as various SUSY constructions [30], topcolor models [31] and the models with extra dimensions [32]. Meanwhile, their phenomenology has been studied comprehensively. For example, the single and pair productions of these scalars at the LHC were studied in [33,34], their implications in Higgs phenomenology were investigated in [24-29],and they were also utilized to explain the $W j j ^ { \\prime }$ anomaly observed by the CDF [35]. In this work,we intend to investigate the capability of the Manohar-Wise model to explain the Higgs data. For this end， we first examine the theoretical and experimental constraints on the model, which are from unitarity, the LHC searches for these scalars and the electroweak data. Then we perform a fit to the current Higgs data. In implementing the unitarity constraint on the model, we use the properties of the $S U ( 3 )$ group to simplify the calculation. This method, within our knowledge, has not been considered before. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The outline of the paper is as follows. In Section II, we briefly review the Manohar-Wise model,and in Section III we discuss the unitarity and collider constraints on the model. A fit of the model to the current Higgs data is performed in Section IV and the behavior of the model to explain the data is illustrated. Finally, we present our conclusion in Section V. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. THEMANOHAR-WISE MODEL ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Motivated by the principle of minimal flavor violation,the Manohar-Wise model extends the SM by one family of color-octet scalars in the $( 8 , 2 ) _ { 1 / 2 }$ representation of the gauge group ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$S U ( 3 ) _ { C } \\otimes S U ( 2 ) _ { L } \\otimes U ( 1 ) _ { Y }$ [23]. The explicit form of the scalars is given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ^ { A } = \\left( { \\cal S } _ { + } ^ { A } \\vert _ { } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $A = 1 , . . . , 8$ is color index, $S _ { + } ^ { A }$ denotes a electric charged color-octet scalar field, and （20 $S _ { R , I } ^ { A }$ are neutral CP-even and CP-odd ones respectively. In order to avoid tree level FCNC the Yukawa couplings of these scalars with the SM fermions are usually parameterized as [23] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } = - \\eta _ { U } Y _ { i j } ^ { U } \\bar { u } _ { R } ^ { i } T ^ { A } S ^ { A } Q _ { L } ^ { j } - \\eta _ { D } Y _ { i j } ^ { D } \\bar { d } _ { R } ^ { i } T ^ { A } ( S ^ { A } ) ^ { \\dagger } Q _ { L } ^ { j } + h . c . ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where YUD a are the SM Yukawa matrices with $i , j$ denoting flavor indices, and $\\eta _ { l U , D }$ are flavor universal constants. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The most general renormalizable scalar potential is given by [23], ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle V = \\frac { \\lambda } { 4 } \\big ( H ^ { \\dagger i } H _ { i } - \\frac { v ^ { 2 } } { 2 } \\big ) ^ { 2 } + 2 m _ { S } ^ { 2 } \\mathrm { T r } ( S ^ { \\dagger i } S _ { i } ) + \\lambda _ { 1 } H ^ { \\dagger i } H _ { i } \\mathrm { T r } ( S ^ { \\dagger i } S _ { j } ) + \\lambda _ { 2 } H ^ { \\dagger i } H _ { j } \\mathrm { T r } ( S ^ { \\dagger j } S _ { i } ) } } } \\\\ { { \\displaystyle ~ + \\big [ \\lambda _ { 3 } H ^ { \\dagger i } H ^ { \\dagger j } \\mathrm { T r } ( S _ { i } S _ { j } ) + \\lambda _ { 4 } H ^ { \\dagger i } \\mathrm { T r } ( S ^ { \\dagger j } S _ { j } S _ { i } ) + \\lambda _ { 5 } H ^ { \\dagger i } \\mathrm { T r } ( S ^ { \\dagger j } S _ { i } S _ { j } ) + h . c . \\big ] } } \\\\ { { \\displaystyle ~ + \\lambda _ { 6 } \\mathrm { T r } ( S ^ { \\dagger i } S _ { i } S ^ { \\dagger j } S _ { j } ) + \\lambda _ { 7 } \\mathrm { T r } ( S ^ { \\dagger i } S _ { j } S ^ { \\dagger j } S _ { i } ) + \\lambda _ { 8 } \\mathrm { T r } ( S ^ { \\dagger i } S _ { i } ) \\mathrm { T r } ( S ^ { \\dagger j } S _ { j } ) } } \\\\ { { \\displaystyle ~ + \\lambda _ { 9 } \\mathrm { T r } ( S ^ { \\dagger i } S _ { j } ) \\mathrm { T r } ( S ^ { \\dagger j } S _ { i } ) + \\lambda _ { 1 0 } \\mathrm { T r } ( S _ { i } S _ { j } ) \\mathrm { T r } ( S ^ { \\dagger i } S ^ { \\dagger j } ) + \\lambda _ { 1 1 } \\mathrm { T r } ( S _ { i } S _ { j } S ^ { \\dagger j } S ^ { \\dagger i } ) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $S = S ^ { A } T ^ { A }$ with the color index $A$ summed, $i , j$ denote isospin indices and all $\\lambda _ { i }$ （204号 （2 $( i = 1 , . . . , 1 1$ ）except $\\lambda _ { 4 }$ and $\\lambda _ { 5 }$ are real parameters [23]. Note that by choosing an appropriate phase of the $S$ multiplet，the convention ${ \\lambda } _ { 3 } > 0$ is allowed. From this potential, one can easily get the mass spectrum of the scalars ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle M _ { \\pm } ^ { 2 } = m _ { S } ^ { 2 } + \\lambda _ { 1 } \\frac { v ^ { 2 } } { 4 } , } } \\\\ { { \\displaystyle M _ { R } ^ { 2 } = m _ { S } ^ { 2 } + ( \\lambda _ { 1 } + \\lambda _ { 2 } + 2 \\lambda _ { 3 } ) \\frac { v ^ { 2 } } { 4 } , } } \\\\ { { \\displaystyle M _ { I } ^ { 2 } = m _ { S } ^ { 2 } + ( \\lambda _ { 1 } + \\lambda _ { 2 } - 2 \\lambda _ { 3 } ) \\frac { v ^ { 2 } } { 4 } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and their interactions with the color singlet Higgs boson $h$ ( $h$ corresponds to the SM Higgs boson） [36] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { h S _ { i } ^ { A * } S _ { i } ^ { B } } = \\frac { v } { 2 } \\lambda _ { i } \\delta ^ { A B } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $i = \\pm , R , I$ ， and we define $\\lambda _ { \\pm } = \\lambda _ { 1 }$ ， $\\lambda _ { R , I } = \\textstyle { \\frac { 1 } { 2 } } ( \\lambda _ { 1 } + \\lambda _ { 2 } \\pm 2 \\lambda _ { 3 } )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "About the Manohar-Wise model, two points should be noted. One is that just like the （204号 $W$ boson in the SM, $S _ { \\pm }$ can contribute to low energy flavor changing processes such as （ $b  s \\gamma$ ， and in order to escape the corresponding experimental constraints, small $| \\eta _ { U } \\eta _ { D } |$ （20 is favored [23]. The importance of $\\eta _ { U }$ and $\\eta _ { D }$ is that they determine the decay pattern of the scalars,and consequently， affect their searches at colliders [34,37]. The other is that, although the Yukawa couplings of $h$ with fermions and weak bosons in the model are same as those of the SM, the couplings of $h$ with gluons, photons and $Z \\gamma$ may be changed greatly by the $S$ -mediated loops. Explicitly speaking, in the Manohar-Wise model these couplings are given by [38] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { h \\gamma \\gamma } / S M \\equiv \\frac { C _ { h \\gamma \\gamma } } { C _ { h \\gamma \\gamma } ^ { S M } } = 1 + \\left( \\frac { C _ { h \\gamma \\gamma } } { C _ { h \\gamma \\gamma } ^ { S M } } \\right) _ { \\pm } = 1 + \\frac { \\frac { 2 \\lambda _ { 1 } v ^ { 2 } } { m _ { \\pm } ^ { 2 } } A _ { 0 } ( \\tau _ { \\pm } ) } { A _ { 1 } ( \\tau _ { W } ) + \\frac { 4 } { 3 } A _ { \\frac { 1 } { 2 } } ( \\tau _ { t } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { h g g } / S M \\equiv \\frac { C _ { h g g } } { C _ { h g g } ^ { S M } } = 1 + \\sum _ { i = \\pm , R , I } \\left( \\frac { C _ { h g g } } { C _ { h g g } ^ { S M } } \\right) _ { i } = 1 + \\sum _ { i = \\pm , R , I } \\frac { \\frac { 3 \\lambda _ { i } v ^ { 2 } } { 4 m _ { i } ^ { 2 } } A _ { 0 } ( \\tau _ { i } ) } { \\frac { 1 } { 2 } A _ { \\frac { 1 } { 2 } } ( \\tau _ { t } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ _ { \\mathrm { i } Z \\gamma } } / { S M } \\equiv \\frac { C _ { h Z \\gamma } } { C _ { h Z \\gamma } ^ { S M } } = 1 + \\Big ( \\frac { C _ { h Z \\gamma } } { C _ { h Z \\gamma } ^ { S M } } \\Big ) _ { \\pm } = 1 - \\frac { \\frac { 2 \\lambda _ { 1 } v ^ { 2 } } { m _ { \\pm } ^ { 2 } } \\frac { 1 - 2 \\sin ^ { 2 } \\theta _ { W } } { \\cos \\theta _ { W } } C _ { 0 } ( \\tau _ { \\pm } ^ { - 1 } , \\eta _ { \\pm } ^ { - 1 } ) } { C _ { 1 } ( \\tau _ { W } ^ { - 1 } , \\eta _ { W } ^ { - 1 } ) + \\frac { 2 ( 1 - \\frac { 8 } { 3 } \\cos ^ { 2 } \\theta _ { W } ) } { \\cos \\theta _ { W } } C _ { \\frac { 1 } { 2 } } ( \\tau _ { t } ^ { - 1 } , \\eta _ { t } ^ { - 1 } ) } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $( C _ { h X Y } / C _ { h X Y } ^ { S M } ) _ { i }$ with $X , Y ~ = ~ g , \\gamma , Z$ denotes $S _ { i }$ $( i \\ = \\ \\pm , R , I )$ contribution to the normalized $h X Y$ interaction, and $A _ { 0 }$ $1 _ { 0 } , A _ { 1 / 2 } , A _ { 1 } , C _ { 0 } , C _ { 1 / 2 }$ and $C _ { 1 }$ are loop functions defined in [39] with $\\tau _ { i } = m _ { h } ^ { 2 } / 4 M _ { i } ^ { 2 }$ and $\\eta _ { i } = m _ { Z } ^ { 2 } / 4 M _ { i } ^ { 2 }$ . As a result, the decay width of $h  X Y$ is now given by [25] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { h \\to \\gamma \\gamma } = \\frac { G _ { \\mu } \\alpha ^ { 2 } m _ { h } ^ { 3 } } { 1 2 8 \\sqrt { 2 } \\pi ^ { 3 } } \\Big | A _ { 1 } ( \\tau _ { W } ) + \\frac { 4 } { 3 } A _ { \\frac { 1 } { 2 } } ( \\tau _ { t } ) + 8 \\times \\frac { \\lambda _ { \\pm } v ^ { 2 } } { 4 m _ { \\pm } ^ { 2 } } A _ { 0 } ( \\tau _ { \\pm } ) \\Big | ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { h  g g } = \\frac { G _ { \\mu } \\alpha _ { s } ^ { 2 } m _ { h } ^ { 3 } } { 1 6 \\sqrt { 2 } \\pi ^ { 3 } } \\Big | \\frac { 1 } { 2 } A _ { \\frac { 1 } { 2 } } ( \\tau _ { t } ) + 3 \\times \\sum _ { i = \\pm , R , I } \\frac { \\lambda _ { i } v ^ { 2 } } { 4 m _ { i } ^ { 2 } } A _ { 0 } ( \\tau _ { i } ) \\Big | ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\Gamma _ { h \\to Z \\gamma } = \\frac { G _ { \\mu } ^ { 2 } M _ { W } ^ { 2 } \\alpha m _ { h } ^ { 3 } } { 6 4 \\pi ^ { 4 } } \\Big ( 1 - \\frac { M _ { Z } ^ { 2 } } { M _ { h } ^ { 2 } } \\Big ) ^ { 3 } \\Big | C _ { 1 } \\big ( \\tau _ { W } ^ { - 1 } , \\eta _ { W } ^ { - 1 } \\big ) + \\frac { 2 \\big ( 1 - \\frac { 8 } { 3 } \\sin ^ { 2 } \\theta _ { W } \\big ) } { \\cos \\theta _ { W } } C _ { \\frac { 1 } { 2 } } \\big ( \\tau _ { t } ^ { - 1 } , \\eta _ { t } ^ { - 1 } \\big ) } \\\\ { - \\frac { 2 \\lambda _ { \\pm } v ^ { 2 } } { m _ { \\pm } ^ { 2 } } \\frac { 1 - 2 \\sin ^ { 2 } \\theta _ { W } } { \\cos \\theta _ { W } } C _ { 0 } \\big ( \\tau _ { \\pm } ^ { - 1 } , \\eta _ { \\pm } ^ { - 1 } \\big ) \\Big | ^ { 2 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Note that our expression for $( C _ { h Z \\gamma } ) _ { \\pm }$ differs from the formula in [39] by a minus sign. Such a typo of [39] was recently pointed out in [40]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Finally, we remind that in the limit $M _ { \\pm } \\gg v$ and moderate mass splitting of $S _ { \\pm }$ with $S _ { R , I }$ , the forms of the equations (6) and (7) can be greatly simplified ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l } { { ( C _ { h g g } / S M ) _ { \\pm } = - 3 . 6 ( C _ { h \\gamma \\gamma } / S M ) _ { \\pm } \\simeq 1 . 1 4 9 \\times \\displaystyle \\frac { \\lambda _ { 1 } v ^ { 2 } } { 3 M _ { \\pm } ^ { 2 } } , } } \\\\ { { ( C _ { h g g } / S M ) _ { R } \\simeq 0 . 5 7 5 \\times ( \\lambda _ { 1 } + \\lambda _ { 2 } + 2 \\lambda _ { 3 } ) ( \\displaystyle \\frac { v ^ { 2 } } { 3 M _ { \\pm } ^ { 2 } } - \\displaystyle \\frac { ( \\lambda _ { 2 } + 2 \\lambda _ { 3 } ) v ^ { 4 } } { 1 2 M _ { \\pm } ^ { 4 } } ) } } \\\\ { { \\simeq \\displaystyle \\lbrace \\begin{array} { l l } { { 0 . 5 7 5 \\times ( \\lambda _ { 1 } + 4 \\lambda _ { 3 } ) ( \\frac { v ^ { 2 } } { 3 M _ { \\pm } ^ { 2 } } - \\frac { \\lambda _ { 3 } v ^ { 4 } } { 3 M _ { \\pm } ^ { 4 } } ) } } & { { i f ~ M _ { \\pm } \\simeq M _ { I } , } } \\\\ { { \\frac { 1 } { 2 } ( C _ { h g g } / S M ) _ { \\pm } } } & { { i f ~ M _ { \\pm } \\simeq M _ { R } , } } \\end{array}  } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { ( C _ { h g g } / S M ) _ { I } \\simeq 0 . 5 7 5 \\times ( \\lambda _ { 1 } + \\lambda _ { 2 } - 2 \\lambda _ { 3 } ) \\left( \\frac { v ^ { 2 } } { 3 M _ { \\perp } ^ { 2 } } - \\frac { ( \\lambda _ { 2 } - 2 \\lambda _ { 3 } ) v ^ { 4 } } { 1 2 M _ { \\perp } ^ { 4 } } \\right) } \\\\ & { \\qquad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\qquad \\simeq \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { ( C _ { h g g } / S M ) = 1 + 1 . 1 4 9 \\times ( \\frac { \\lambda _ { 1 } v ^ { 2 } } { 3 m _ { \\perp } ^ { 2 } } + \\frac { \\lambda _ { 3 } v ^ { 4 } } { 3 M _ { \\perp } ^ { 2 } } ) \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { ( C _ { h g g } / S M ) = 1 + 1 . 1 4 9 \\times ( \\frac { \\lambda _ { 1 } v ^ { 2 } } { 3 m _ { \\perp } ^ { 2 } } + \\frac { \\lambda _ { R } v ^ { 2 } } { 3 m _ { R } ^ { 2 } } + \\frac { \\lambda _ { 1 } v ^ { 2 } } { 3 m _ { I } ^ { 2 } } ) \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\qquad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\simeq \\quad \\quad 1 + 2 . 3 \\times ( \\lambda _ { 1 } + \\lambda _ { 3 } ) \\frac { v _ { \\perp } ^ { 2 } } { 3 m _ { \\perp } ^ { 2 } } \\quad \\quad i f \\textnormal {  { \\mathbb { M } } } \\simeq M _ { I } , } \\\\ & { \\qquad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\qquad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\qquad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ &  \\qquad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "These approximations are very helpful for our later understanding. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "III. CONSTRAINTS ON THE MANOHAR-WISE MODEL ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A. Unitarity Constraint ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In theories with electroweak symmetry breaking, the unitarity constraint plays an important role in limiting their scalar sector. This constraint arises from the optical theorem and it requires the $l$ partial waves in the scattering processes involving scalars and/or vector bosons satisfy $| a _ { l } | < 1$ [41]. In actual calculation of pure scalar scattering process $S _ { 1 } S _ { 2 }  S _ { 3 } S _ { 4 }$ in high energy limit, the $J = 0$ s-wave amplitude $a _ { 0 }$ is approximated by [42] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { 0 } \\simeq \\frac { 1 } { 1 6 \\pi } Q\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $Q$ denoting the coupling strength for the four-point vertex $S _ { 1 } S _ { 2 } S _ { 3 } ^ { * } S _ { 4 } ^ { * }$ ，and the other partial wave amplitudes are relatively small. So the unitarity constraint becomes $| Q | < 1 6 \\pi$ ： While for the scattering process involving vector bosons, in high energy limit the dominant contribution come from the longitudinal polarized vector bosons. And the equivalence theorem states that its amplitude can be approximated by the scalar amplitude in which the gauge bosons are replaced by their corresponding Goldstone bosons [43, 44]. So the formula for the scalar scattering remains valid in implementing the unitarity constraint. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "About the unitarity constraint,another problem one has to face is that the constraint $| a _ { 0 } | < 1$ is valid for any scattering process $S _ { i } S _ { j }  S _ { k } S _ { l }$ where $S _ { i } , S _ { j } , S _ { k }$ and $S _ { l }$ represent arbitrary normalized combinations of the scalar fields in the theory, and one must manage to find the largest value of $\\left| a _ { 0 } \\right|$ to implement the constraint. In general, this can be achieved by choosing a set of basis， such as $\\{ S _ { 1 } S _ { 1 } , S _ { 1 } S _ { 2 } , \\cdot \\cdot \\cdot \\}$ with $S _ { i }$ denoting the fields in the original Lagrangian, arraying the s-wave amplitudes for the scatterings $S _ { i } S _ { j }  S _ { k } S _ { l }$ with （204号 $i , j , k , l = 1 , 2 , \\cdots$ in matrix form,and then diagonalizing this matrix to get its eigenvalues [41,42]. But as far as the Manohar-Wise model is concerned, such a task is not easy because the model predicts 9 CP-even scalars (i.e. $h$ and $S _ { R } ^ { A }$ )， 9 CP-odd scalars and 18 charged scalars,and one has to deal with a matrix of $3 6 ^ { 2 } \\times 3 6 ^ { 2 }$ dimension. Here we point out that since the model preserves electric charge number, and also keeps CP and SU(3) invariance, one can categorize the basis into subsets with each of them having definite CP and charge quantum number, and meanwhile transforming under a certain SU(3) representation. Considering the transition submatrices based on the subsets do not couple with each other due to the conservations, the whole matrix is diagonal in submatrix， which can greatly simplify the process to find the eigenvalues. To be more specific, noting the decomposition rule of the tensor product in SU(3) group ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "we divide the bi-scalar system (which corresponds to the initial or final state in the scattering) into 1, 8,8,10, 10 and 27 dimension representations respectively. In the appendix, we present the Clebsch-Gordan coeffcients in the decomposition and the corresponding transition magnitudes for the scattering processes with the initial and final states lying in a certain SU(3) representation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this work, since only $\\lambda _ { 1 }$ ， $\\lambda _ { 2 }$ and $\\lambda _ { 3 }$ are relevant to our discussion， we study the unitarity constraint on them by setting other $\\lambda _ { i }$ 0 $i = 4 , \\cdots , 1 1$ ）to zero. For the best-fit value $m _ { h } = 1 2 5 . 5$ GeV [4, 5], we find $| \\lambda _ { 1 } | , | \\lambda _ { 2 } | , | 2 \\lambda _ { 1 } + \\lambda _ { 2 } | \\lesssim 3 5$ and $\\lambda _ { 3 } \\lesssim 1 8$ . We note that our method can reproduce the formula in [45], which was obtained ten days later than our work. The difference is in [45], the authors required $R e ( a _ { 0 } ) < 1 / 2$ , while we required $| a _ { 0 } | < 1$ as in [41]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "B. Collider Constraints ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Manohar-Wise model, the color-octet scalars are mainly produced in pairs at hadron colliders [34],and experimental efforts to look for them are focused on dijet-pair events and four-top events. The former search channel is effective for $\\eta _ { U } , \\eta _ { D } \\simeq 0$ .In this case,the scalars are fermiphobic and at least the lighter neutral scalar will predominantly decay into gluon pairs through scalar loops [34]. Then the latest search for dijet-pair events at 7-TeV LHC,which is performed by the ATLAS collaboration based on $4 . 6 f b ^ { - 1 }$ data， pushes the scalar mass up to above 287GeV at 95% confidence level [46]. Note that such a bound is significantly lower than that of a color-octet vector boson, which has now been pushed up to about 740 GeV by the CMS collaboration [47]. The reason is that the cross section for scalar pair production process is usually much smaller than that of vector boson with same mass. The latter search channel is pertinent if one of the neutral scalar dominantly decays into （204 $t t$ , which can be achieved in the Manohar-Wise model through a sizable $r / U$ [37]. According to the ATLAS analysis with about $4 . 7 f b ^ { - 1 }$ data collected at 7-TeV LHC, the measurement of the same-sign dilepton event rate has put an upper bound on four top quark production cross section，which is $6 1 f b$ at $9 5 \\%$ confidence level [48]. This bound corresponds to the requirement that the neutral scalar mass must be heavier than about 500GeV (630GeV) if the neutral scalar decays into $t t$ at a branching ratio of 50% （100 $\\%$ ). Since all these mass bounds depend on some assumptions, we use a conservative mass limit of 300GeV in our discussion. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Maybe the more robust constraint on the exotic scalars comes from electroweak precision data (EWPD). The dominant way that these scalars influence the electroweak observables, such as $S$ ， $T$ and $U$ variables, is though their contributions to the self-energy of the gauge bosons $\\gamma$ ， $Z$ and $W$ [49,50]. In this work,we calculate these observables by the formula presented in [51],and use the following experimental information to calculate the corresponding $\\chi ^ { 2 }$ [51]: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { S = 0 . 0 3 \\pm 0 . 1 0 , T = 0 . 0 5 \\pm 0 . 1 2 , U = 0 . 0 3 \\pm 0 . 1 0 , } } \\\\ { { { } } } \\\\ { { M _ { S T U } = \\left( \\begin{array} { c c c } { { 1 } } & { { 0 . 8 9 } } & { { - 0 . 5 4 } } \\\\ { { 0 . 8 9 } } & { { 1 } } & { { - 0 . 8 3 } } \\\\ { { - 0 . 5 4 } } & { { - 0 . 8 3 } } & { { 1 } } \\end{array} \\right) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $M _ { S T U }$ denotes the correlation coefficient matrix for the three variables. Then we ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "require $\\chi ^ { 2 } < 8 . 0 3$ ，which corresponds to 95% confidence region defined by the cumulative distribution function for the three parameter fit, to limit the mass spectrum of the scalars. We find that the EWPD favor either of the following correlations: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "） $\\lambda _ { 2 } \\simeq 2 \\lambda _ { 3 }$ or equivalently $M _ { \\pm } \\simeq M _ { I }$ ） $\\lambda _ { 2 } \\simeq - 2 \\lambda _ { 3 }$ or equivalently $M _ { \\pm } \\simeq M _ { R }$ （20 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We note that the former case has been discussed in [50]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "IV. STATUS OF THE MANOHAR-WISE MODEL CONFRONTED WITH THE LATESTHIGGSDATA ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this section，we perform fits of the model to the latest Higgs data presented at the Rencontres de Moriond 2013 with the method first proposed in [7, 8] and recently recapitulated in [2O]. These data include the measured signal strengthes for $\\gamma \\gamma$ ， $Z Z ^ { * }$ ， $W W ^ { * }$ ， （204号 $b b$ and $\\tau \\tau$ channels, and their explicit values are summarized in Fig.2 of [5] (also Fig.6 of this paper) for the ATLAS results,and in Fig.4 of [4] for the CMS results. In our fit, we calculate various observables in Higgs production processes at the LHC with the formula given in Sect. II and [52] for fixed $m _ { h } = 1 2 5 . 5$ GeV and $m _ { t } = 1 7 3$ GeV, and have properly considered the correlations of the data like [20]. Noting the fact that, due to the unknown systematics between the two experiments, the new CMS results in $\\gamma \\gamma$ channel ( $0 . 7 8 \\pm 0 . 2 7$ （204 for mass fit multi-variable analysis and $1 . 1 1 \\pm 0 . 3 1$ for cut-based analysis [14]） are much smaller than their previous results (1.56 $_ { - 0 . 4 9 } ^ { + 0 . 4 6 }$ [53]） and also than the ATLAS measurement (1 $. 6 \\pm 0 . 3$ [5])，we do not combine the two experimental data together. Instead, we perform two independent fits by using the ATLAS data and the CMS data respectively. We conclude that $\\chi ^ { 2 } / d . o . f$ . in the SM are 10.55/9 for the ATLAS data and 4.69/9 for the CMS data, and （2042 $\\chi _ { m i n } ^ { 2 } / d . o . f$ . in the Manohar-Wise model are 5.63/5 and 2.47/5 respectively. Here the total number of d.o.f. is counted in a naive way as $\\nu = n _ { o b s } - n _ { p a r a }$ ，where $n _ { o b s }$ and $n _ { p a r a }$ denote the numbers of the experimental observables and the model free parameters respectively, and for both experiments, we use 9 sets of data. Note that in the Manohar-Wise model, $\\chi ^ { 2 }$ in the SM with the CMS data is much smaler than that with the ATLAS data, and so is the $\\chi _ { m i n } ^ { 2 }$ in the Manohar-Wise model. This is mainly because for both the collaborations, the same Higgs signal is usually measured from more than one production channels, and the ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b32d2bc165aaa9b2750960b1a7fb851509528e583bdf95ba665ee89ff5e4d709.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FIG.1: The scatter plots of the samples surviving different constraints, projected on the planes of （204号 $\\lambda _ { 1 }$ ， $2 \\lambda _ { R } ( = \\lambda _ { 1 } + \\lambda _ { 2 } + 2 \\lambda _ { 3 } )$ and $2 \\lambda _ { I } ( = \\lambda _ { 1 } + \\lambda _ { 2 } - 2 \\lambda _ { 3 } )$ versus $M _ { S }$ respectively. Here all the samples satisfy the unitarity and collider constraints, while the red bullets and blue triangles in the upper (lower） panels represent the samples that can further explain the ATLAS (CMS) data at $1 \\sigma$ and （204号 $2 \\sigma$ , respectively. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CMS results are more consistency in the signal rates. Also note that similar fits with the latest Higgs data have been done in other new physics frameworks [21, 54, 55]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Our fit procedure is as follows. We first perform an extensive random scan over the following parameter region: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n3 0 0 ~ G e V \\le M _ { I } , M _ { R } , M _ { \\pm } \\le 1 5 0 0 ~ G e V , ~ - 4 0 \\le \\lambda _ { 1 } , \\lambda _ { 2 } \\le 4 0 , ~ 0 \\le \\lambda _ { 3 } \\le 2 0\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We keep the samples satisfying the unitarity constraint and the collider constraints. Then we calculate the $\\chi ^ { 2 }$ associated with each of the surviving samples and concentrate on two types of them, i.e., those with $\\chi _ { m i n } ^ { 2 } \\leq \\chi ^ { 2 } \\leq \\chi _ { m i n } ^ { 2 } + 2 . 3$ (corresponding to $5 . 6 3 \\leq \\chi ^ { 2 } \\leq 7 . 9 3$ for the fit to the ATLAS data and $2 . 4 7 \\leq \\chi ^ { 2 } \\leq 4 . 7 7$ for the fit to the CMS data) and those with $\\chi _ { m i n } ^ { 2 } + 2 . 3 < \\chi ^ { 2 } \\leq \\chi _ { m i n } ^ { 2 } + 6 . 1 8$ (corresponding to $7 . 9 3 < \\chi ^ { 2 } \\leq 1 1 . 8 1$ and $4 . 7 7 < \\chi ^ { 2 } \\leq 8 . 6 5$ respectively). These two sets of samples correspond to the 68% and $9 5 \\%$ confidence level regions in any two dimensional parameter plane of the model to explain the Higgs data [20], and hereafter we call them $1 \\sigma$ and $2 \\sigma$ samples respectively. Note that for most of the $1 \\sigma$ samples in the fit to the CMS data and the $2 \\sigma$ samples in the fit to the ATLAS data, they predict $\\chi ^ { 2 }$ smaller than the SM values. This reflects that the Manohar-Wise model is well suited to explain the current LHC data. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/6652af1c302a677b2ef72a405bb62d43ed3e3682894eb9292a60b38b9fc6c017.jpg",
+        "img_caption": [
+            "FIG. 2: Same as Fig.1, but only showing the samples that can explain the ATLAS data at $1 \\sigma$ and （204号 $2 \\sigma$ levels,projected on the plane of $C _ { h \\gamma \\gamma } / S M$ ( $h \\gamma \\gamma$ coupling normalized to its SM value） versus $C _ { h g g } / S M$ (hgg coupling normalized to its SM value). The central values and the $1 \\sigma$ regions for the $\\gamma \\gamma$ and $Z Z ^ { * }$ signal rates from the ATLAS collaboration [5] are also plotted. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In Fig.1, we project all the samples that survive the unitarity constraint and the collider constraints on the planes of $\\lambda _ { 1 }$ ， $2 \\lambda _ { R }$ and $2 \\lambda _ { I }$ versus $M _ { S }$ respectively. In order to discriminate the $1 \\sigma$ and $2 \\sigma$ samples from the others, we mark them out with red bullets and blue triangles respectively. This figure indicates that the LHC Higgs data are very efective in further limiting the parameter space which survives the unitarity and collider constraints, especially for the small $M _ { S }$ region. For example,at 68% confidence level both the experiments disfavor a positive $\\lambda _ { I }$ and the ATLAS data also rule out the possibility of a positive $\\lambda _ { 1 }$ . Another example is we once counted the number of the $1 \\sigma$ samples in our random scan, and we found that in the fit to the ATLAS data, it is only about $0 . 5 \\%$ of that for the total samples that satisfy the unitarity and collider constraints,and in the fit to the CMS data, it is about 7%. This figure also indicates that, due to the great difference of the $\\gamma \\gamma$ rate for the two experiments, the parameter space favored by the ATLAS experiment is quite diferent from that favored by the CMS experiment. This fact makes it urgent for the two collaborations to further improve their measurements. About Fig.1，we checked that the lower borders of the sky-blue regions for $M _ { S } \\lesssim 9 5 0$ GeV are decided by the scalar mass bound, and the other borders are mainly determined by the unitarity constraint.We also checked that the EWPD prefers the correlation $\\lambda _ { 1 } \\simeq 2 \\lambda _ { R }$ or $\\lambda _ { 1 } \\simeq 2 \\lambda _ { I }$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Considering that the ATLAS data changed little since last June and also that in new physics models it is difficult to predict a significantly enhanced $\\gamma \\gamma$ rate relative to its SM prediction, in the following we try to illustrate how the Manohar-Wise model can be used to explain the ATLAS data. We first project in Fig.2 the $1 \\sigma$ and $2 \\sigma$ samples in the upper panels of Fig.1 on the plane of $C _ { h \\gamma \\gamma } / S M$ versus $C _ { h g g } / S M$ with $C _ { h \\gamma \\gamma } / S M$ and $C _ { h g g } / S M$ denoting the $h \\gamma \\gamma$ and hgg couplings normalized to their SM values respectively. In this figure,we also plot the central values (the dot lines） and $1 \\sigma$ regions（bounded by the dashed lines） of the $\\gamma \\gamma$ and $Z Z ^ { * }$ signals rates measured by the ATLAS collaboration [5]. As expected from the formula of $\\chi ^ { 2 }$ [7, 20], for each type of the samples they should form an ellipse [56]. We checked that the missing parts of the ellipses are due to the constraints from the EWPD. Fig.2 exhibits three distinct features. The first feature is that the sign of the $h g g$ coupling tends to be opposite to that of the SM prediction, especially for the $1 \\sigma$ samples. The second feature is the $h \\gamma \\gamma$ coupling may be enhanced by more than $5 0 \\%$ ，and even if we further require $\\lambda _ { 1 } , \\lambda _ { R } , \\lambda _ { I } < 8 \\pi$ as suggested by the perturbation theory [57], it can still be enhanced by more than 30%. And the last feature is for most samples in Fig.2, the magnitude of $C _ { h g g } / S M$ may exceed unity, which implies an enhanced $Z Z ^ { * }$ signal at the LHC relative to its SM expectation. This features is unlikely to be realized in the popular supersymmetric models [58, 59]. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In order to explain these features,we hereafter only consider the $1 \\sigma$ samples of Fig.2, and show in Fig.3 the correlation between the $S _ { \\pm }$ and $S _ { R }$ contributions to the hgg coupling. We also fix $M _ { \\mathrm { \\pm } } = 6 0 0 \\mathrm { G e }$ V and show in Fig.4 the correlations of different input parameters. From these two figures and also the expressions in Eqs.(12), one can infer following facts: ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "· As shown in the left and right panels of Fig.4, in the Manohar-Wise model the EWPD prefer the degeneracy of $M _ { \\pm }$ with either $M _ { I }$ (corresponding to $\\lambda _ { 1 } = 2 \\lambda _ { I }$ or $\\lambda _ { 2 } = 2 \\lambda _ { 3 }$ or $M _ { R }$ (corresponding to $\\lambda _ { 1 } = 2 \\lambda _ { R }$ or $\\lambda _ { 2 } = - 2 \\lambda _ { 3 }$ ).In the case $M _ { \\pm } \\simeq M _ { I }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/15d372ff14557538c2bd9dc46b3a885203edbe4f9666e1a136c21af7fc627c6c.jpg",
+        "img_caption": [
+            "FIG. 3: Same as Fig.2, but only showing the $1 \\sigma$ samples, projected on the plane of $( C _ { h g g } / S M ) _ { R }$ (contribution of $S _ { R }$ ）versus $( C _ { h g g } / S M ) _ { \\pm }$ (contribution of $S _ { \\pm }$ ). The magenta dashed line shows the correlation between $( C _ { h \\gamma \\gamma } / S M ) _ { \\pm }$ and $( C _ { h g g } / S M ) _ { \\pm }$ (for this case the vertical axis represents the $( C _ { h \\gamma \\gamma } / S M ) _ { \\pm }$ value). "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/621601429defb59518fd88948a103735db65360870f4ee33758e3251ceb7fb3c.jpg",
+        "img_caption": [
+            "FIG.4: Same as Fig.3, but projected on different planes for $M _ { \\pm } = 6 0 0$ GeV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { c \\equiv C _ { h g g } / S M \\ = \\ 1 + ( C _ { h g g } / S M ) _ { \\pm } + ( C _ { h g g } / S M ) _ { R } + ( C _ { h g g } / S M ) _ { I } } } \\\\ { { \\ \\qquad \\simeq \\ 1 + 3 / 2 ( C _ { h g g } / S M ) _ { \\pm } + ( C _ { h g g } / S M ) _ { R } } } \\\\ { { \\ \\qquad \\simeq \\ 1 + 2 . 3 \\times ( \\lambda _ { 1 } + \\lambda _ { 3 } ) \\frac { v ^ { 2 } } { 3 m _ { \\pm } ^ { 2 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "While in the case $M _ { \\pm } \\simeq M _ { R }$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { c \\equiv C _ { h g g } / S M \\ = \\ 1 + ( C _ { h g g } / S M ) _ { \\pm } + ( C _ { h g g } / S M ) _ { R } + ( C _ { h g g } / S M ) _ { I } \\ } } \\\\ { { \\ \\qquad \\simeq \\ 1 + 3 / 2 ( C _ { h g g } / S M ) _ { \\pm } + ( C _ { h g g } / S M ) _ { I } \\ } } \\\\ { { \\ \\qquad \\simeq \\ 1 + 2 . 3 \\times ( \\lambda _ { 1 } - \\lambda _ { 3 } ) \\frac { v ^ { 2 } } { 3 m _ { \\pm } ^ { 2 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "· Since the $1 \\sigma$ samples are characterized by $\\lambda _ { 1 } < 0$ and ${ \\lambda } _ { 3 } > 0$ ，we have from Eqs.(12) that $( C _ { h g g } / S M ) _ { \\pm } < 0$ ， $( C _ { h g g } / S M ) _ { I } < 0$ and $( C _ { h \\gamma \\gamma } / S M ) _ { \\pm } \\simeq - 0 . 3 ( C _ { h g g } / S M ) _ { \\pm } > 0$ As for $( C _ { h g g } / S M ) _ { R }$ and $C _ { h g g } / S M$ , they are positive only for the degeneracy $M _ { \\pm } \\simeq M _ { I }$ （204号 and $\\lambda _ { 3 } > | \\lambda _ { 1 } |$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "· For the degeneracy $M _ { \\pm } \\simeq M _ { I }$ , in order to explain the ATLAS data at $1 \\sigma$ level, $c$ should be around either $- 1$ or $1$ (see Fig.3). The former situation occurs for a negatively large （204号 $\\lambda _ { 1 }$ (and so is $( C _ { h g g } / S M ) _ { \\pm }$ ). In this case,the branching ratio for $h  \\gamma \\gamma$ is greatly enhanced (see Fig.3)，and meanwhile the hgg coupling can be well tuned by $\\lambda _ { 3 }$ (see the middle panel of Fig.4). As a result,a rather low $\\chi ^ { 2 }$ can be obtained. While for the situation of $c \\simeq 1$ , it occurs only for a small $| \\lambda _ { 1 } |$ . Consequently the branching ratio for $h  \\gamma \\gamma$ changes little,and $\\chi ^ { 2 }$ is usually large. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "· For the degeneracy $M _ { \\pm } \\simeq M _ { R }$ ， $c$ should be around -1. Since in this case,all scalar contributions to the hgg coupling are negative, the parameter $\\lambda _ { 3 }$ is not necessarily very large (see the middle panel of Fig.4). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "· At the turning point where the degeneracy $M _ { \\pm } \\simeq M _ { R }$ converts to $M _ { \\pm } \\simeq M _ { I }$ ， $\\lambda _ { 3 } =$ （204号 $\\lambda _ { 2 } = 0$ . So as $\\lambda _ { 1 }$ becomes negatively larger from zero point, $\\lambda _ { 3 }$ first decreases before reaching the turning point, then increases monotonously in departing the point (see middle panel of Fig.4). We numerically checked that this is true for $M _ { \\pm } \\lesssim 7 0 0 \\mathrm { G e V }$ ： While for $M _ { \\pm } \\gtrsim 7 0 0 \\mathrm { G e V }$ , the unitarity requires $( \\lambda _ { 1 } - \\lambda _ { 3 } ) \\gtrsim - 1 7$ for the degeneracy （204号 $M _ { \\pm } \\simeq M _ { R }$ ，which implies that $C _ { h \\gamma \\gamma } / S M \\lesssim 1 - 0 . 0 1 3 \\times \\lambda _ { 1 } \\lesssim 1 . 2 2$ and $C _ { h g g } / S M \\gtrsim$ $1 + 0 . 1 \\times ( \\lambda _ { 1 } - \\lambda _ { 3 } ) \\gtrsim - 0 . 7$ . In such situation, the tuning point can not be used to explain the ATLAS data at $1 \\sigma$ level,and that is why $\\lambda _ { 1 }$ is located in two separated regions (see upper left panel of Fig.1). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "As a completion of Fig.2, we also present the details of the best-fit points in Table I, and compare their predictions on diferent Higgs observables with the corresponding experimental data in Fig.5. This figure indicates that for the best point, most of its theoretical predictions agree with the experimental data at $1 \\sigma$ level, and the best explanations are achieved for the ATLAS results in $\\gamma \\gamma$ channels. ",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/0fc13158b1276c77f77f42744a2f43907713bd0af5b58bb2868dd3646ff8de0e.jpg",
+        "table_caption": [
+            "TABLE I: Detailed information for some benchmark points in the Manohar-Wise model. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Benchmark Point</td><td>P1</td><td>P2</td><td>P3</td></tr><tr><td>x² M±(GeV) MR(GeV) M1(GeV)</td><td>5.63 400.00 404.76 337.59</td><td>5.63 600.00 584.21 523.32</td><td>6.28 800.00 804.41 512.31</td></tr><tr><td>Ms(GeV) 入1 入2 入3</td><td>498.38 -5.83 -1.39 0.82</td><td>749.93 -13.35 -3.46 1.11</td><td>901.78 -11.43 -12.22 6.34</td></tr><tr><td>Chmq/SM Chgg/SM (Chzq/SM)± (Chgg/SM)± (Chgg/SM)R (Chgg/SM)1</td><td>1.230 -1.066 0.085 -0.813 -0.380</td><td>1.232 -1.067 0.086 -0.822 -0.474 -0.771</td><td>1.111 -1.119 0.041 -0.395 -0.187 -1.537</td></tr><tr><td>LHC, ggF+ttH, γγ LHC, VBF+VH, γγ LHC,ggF+ttH, ZZ* LHC,VBF+VH, ZZ* LHC, ggF+ttH, WW* LHC, VBF+VH, WW* LHC,VH tag, bb LHC, ggF+ttH, TT LHC, VBF+VH, TT</td><td>-0.873 1.697 1.705 1.494 1.127 0.987 1.127 0.987 0.987 1.127</td><td>1.705 1.498 1.123 0.987 1.123 0.987 0.987 1.123 0.987</td><td>1.512 1.209 1.224 0.979 1.224 0.979 0.979 1.224 0.979</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Noting that the decay $h  Z \\gamma$ was recently investigated both experimentally [60, 61] and theoretically [40, 62], we also examine the $h Z \\gamma$ coupling in this work. In the ManoharWise model, this coupling receives new correction only from the $S _ { \\pm }$ mediated loops, so the correction size depends on $M _ { \\pm }$ and $\\lambda _ { 1 }$ . In Fig.5 we show such dependences. This figure indicates that in contrast with possible large correction of $S _ { \\pm }$ to the $h \\gamma \\gamma$ coupling, the $S _ { \\pm }$ correction to the $h Z \\gamma$ coupling can only reach $1 7 \\%$ . The reason is that the $Z S ^ { + } S ^ { - }$ coupling strength is relatively small, i.e., $C _ { Z S ^ { + } S ^ { - } } \\simeq 0 . 3 C _ { \\gamma S ^ { + } S ^ { - } }$ ： ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1328bab0e0b0a7755595fe64581a467d6259d6f0f333ff15c244a96b61a3d43.jpg",
+        "img_caption": [
+            "FIG. 5: Predictions of various Higgs signal rates for the second and third benchmark points presented in Table I, compared with the ATLAS data [5].The results given by the best point with free $C _ { h g g }$ and $C _ { h \\gamma \\gamma }$ couplings are also shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Like Fig.2, 3 and 4, one may also investigate the features of the Manohar-Wise model in explaining the CMS data, but now the situation is quite complicated since for the $1 \\sigma$ samples in the bottom panels of Fig.1, $\\lambda _ { 1 }$ may be either positive or negative. On the other hand, considering that the CMS data in 2013 is quite different from those in 2012, we incline to wait for new data of the CMS collaboration before doing this. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "V. CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Since the discovery of the Higgs-like boson at the LHC, the experimental precision to determine its properties has been improved significantly as more and more data are accumulated. In light of this progress in experiment, it is urgent for theorists to investigate how well the new physics models can explain the data and what is the key feature of the models in doing this. In this work, we try to answer these questions in the Manohar-Wise model. ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/fceeaa05db9a948760e26cd472c60b8c92fd57b7d522d87113d7ebdff9b02726.jpg",
+        "img_caption": [
+            "FIG. 6: Same as Fig.3, but showing the relative correction of the Manohar-Wise model to $h Z \\gamma$ coupling. Note that such a correction only comes from the $S _ { \\pm }$ mediated loops. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "As the first step of our research, we examine the constraints on the model, which include the unitarity constraint, the collider searches for new scalars and the EWPD. In implementing the unitarity constraint,we note it is a very complicated work in the Manohar-Wise model and has not been considered before, so we have to treat it in a special way. With the help of some knowledge of group theory, we succeed in solving such a problem. Next we perform a fit of the model by building an appropriate $\\chi ^ { 2 }$ function. Our fit procedure is as follows. We scan the parameter space of the model and only retain the samples that satisfy various constraints. Then with the latest Higgs data released at the Rencontres de Moriond 2013, we calculate the $\\chi ^ { 2 }$ value associated with each of the surviving samples, and determine the （204号 $6 8 \\%$ and 95% confidence level regions in any two dimensional parameter plane of the model to explain the Higgs data. In the calculation,we perform fits by employing the data from the ATLAS collaboration and from the CMS collaboration separately since due to unknown systematics, the measured $\\gamma \\gamma$ and $Z Z ^ { * }$ rates of the two collaborations are quite different. Considering that in new physics models, it is difficult to predict significantly enhanced $\\gamma \\gamma$ （204号 rate,we also illustrate how the Manohar-Wise model is capable in doing this. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Base on our analysis, we have following conclusions: ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "· The Manohar-Wise model is able to explain the ATLAS data and the CMS data quite well, with the resulting $\\chi ^ { 2 }$ significantly smaller than its corresponding SM $\\chi ^ { 2 }$ . In particular, in order to explain the $\\gamma \\gamma$ enhancement reported by the ATLAS collaboration, the sign of the hgg coupling is usually opposite to that in the SM. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "· Current Higgs data, especially the ATLAS data, are very powerful in further limiting the parameter space of the model that satisfies the unitary and collider constraints. After considering all the constraints, the degeneracy $M _ { \\pm } \\simeq M _ { I }$ or $M _ { \\pm } \\simeq M _ { R }$ is strongly preferred, and $\\lambda _ { 1 }$ is required to be less than 5 for $M _ { S } \\lesssim 5 0 0 \\mathrm { G e V }$ ： ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We thank Lei Wu, Peiwen Wu and Yang Zhang for helpful discussion. This work was supported in part by the National Natural Science Foundation of China (NNSFC) under grant No. 10775039,11075045,11275245,10821504 and 11135003,by Specialized Research Fund for the Doctoral Program of Higher Education with grant No. 20104104110001, and by the Project of Knowledge Innovation Program (PKIP) of Chinese Academy of Sciences under grant No. KJCX2.YW.W10. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Appendix A ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In our method, the $\\alpha$ th state ( $\\alpha = 1 , 2 , \\cdots , N )$ of the bi-color-octet-scalar system (corresponding to the initial or final state in the scattering) in N-dimensional representation of SU(3) group is written as ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB ^ { N } [ \\alpha ] = \\sum _ { A , B = 1 } ^ { 8 } S ^ { A } ( C ^ { N } [ \\alpha ] ) _ { A B } S ^ { B } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "where $C ^ { N } [ \\alpha ]$ denotes the Clebsch-Gordan coefficient for the decomposition in matrix form. Then in the following when we talk about the basis $( B _ { 1 } ^ { N } , B _ { 2 } ^ { N } , \\cdots )$ , it actually represents the collection of states $( B _ { 1 } ^ { N } [ 1 ] , B _ { 1 } ^ { N } [ 2 ] , \\cdots , B _ { 1 } ^ { N } [ N ] , B _ { 2 } ^ { N } [ 1 ] , B _ { 2 } ^ { N } [ 2 ] , \\cdots )$ . But on the hand, because $S U ( 3 )$ symmetry is unbroken in Manohar-Wise model, the transition amplitude for the scattering process $B _ { i } ^ { N } [ \\alpha ]  B _ { j } ^ { N ^ { \\prime } } [ \\beta ]$ must take the form $A _ { i j } \\delta _ { N N ^ { \\prime } } \\delta _ { \\alpha \\beta }$ ， so without loss of any information,we can neglect the color index $\\alpha$ of the basis and only investigate the dependence of $A _ { i j }$ on model parameters. In the following, in order to present our formula in a neat way ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "we define following abbreviations ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { \\lambda _ { 1 , 2 } ^ { + } = \\lambda _ { 1 } + \\lambda _ { 2 } , } \\\\ & { } & \\\\ & { } & { \\lambda _ { 6 , 7 } ^ { + } = \\lambda _ { 6 } + \\lambda _ { 7 } , } \\\\ & { } & \\\\ & { } & { \\lambda _ { 8 , 9 } ^ { + } = \\lambda _ { 8 } + \\lambda _ { 9 } , } \\\\ & { } & \\\\ & { } & { \\lambda _ { 6 , 7 , 1 1 } ^ { + + } = \\lambda _ { 6 } + \\lambda _ { 7 } + \\lambda _ { 1 1 } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "and only list the expression of non-zero scattering amplitudes. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1. Scatterings between states in 1-dimensional representation of the SU(3) group. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In this case, the Clebsch-Gordan coefficients are given by ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { L } ^ { 1 } [ 1 ] = \\left( \\begin{array} { l l l l l l l l } { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\end{array} \\right) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "· Denoting $A _ { i j }$ as the S-partial wave amplitude for the scattering $B _ { i } \\to B _ { j }$ ，with $B _ { i }$ and Bjrepresentingantateinthebasis{，，(S)，} },we have ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { A _ { 1 1 } = \\lambda , \\quad A _ { 1 2 } = A _ { 1 3 } = \\frac { \\sqrt { 2 } } { 4 } \\lambda , \\quad A _ { 1 4 } = \\sqrt { 2 } \\lambda _ { 1 , 2 } ^ { + } , \\quad A _ { 1 5 } = A _ { 1 6 } = A _ { 2 4 } = A _ { 3 4 } = \\lambda _ { 1 } , } \\\\ & { A _ { 2 2 } = A _ { 3 3 } = \\frac { 3 } { 4 } \\lambda , \\quad A _ { 2 3 } = \\frac { 1 } { 4 } \\lambda , \\quad A _ { 2 5 } = A _ { 3 6 } = \\sqrt { 2 } ( \\frac { 1 } { 2 } \\lambda _ { 1 , 2 } ^ { + } + \\lambda _ { 3 } ) , } \\\\ & { A _ { 2 6 } = A _ { 3 5 } = \\sqrt { 2 } ( \\frac { 1 } { 2 } \\lambda _ { 1 , 2 } ^ { + } - \\lambda _ { 3 } ) , \\quad A _ { 4 4 } = \\frac { 8 } { 3 } \\lambda _ { 6 , 7 } ^ { + } + \\frac { 9 } { 2 } \\lambda _ { 8 , 9 } ^ { + } + \\lambda _ { 1 0 } + \\frac { 7 } { 6 } \\lambda _ { 1 1 } , } \\\\ & { A _ { 4 5 } = A _ { 4 6 } = \\frac { 1 } { \\sqrt { 2 } } ( \\frac { 4 } { 3 } \\lambda _ { 6 , 7 , 1 1 } ^ { + + } + \\frac { 1 } { 2 } \\lambda _ { 9 , 1 0 } ^ { + } + 4 \\lambda _ { 8 } ) , \\quad A _ { 5 5 } = A _ { 6 6 } = \\frac { 1 } { 2 } ( \\frac { 5 } { 2 } \\lambda _ { 6 , 7 , 1 1 } ^ { + + } + 5 \\lambda _ { 8 , 9 , 1 0 } ^ { + + } ) , } \\\\ & { A _ { 5 6 } = \\frac { 1 } { 2 } ( \\frac { 1 7 } { 6 } \\lambda _ { 6 , 7 } ^ { + } + 4 \\lambda _ { 8 , 9 } ^ { + } - 3 \\lambda _ { 1 0 } - \\frac { 1 } { 6 } \\lambda _ { 1 1 } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In the basis $\\left\\{ \\ h z , \\ ( S _ { I } S _ { R } ) ^ { 1 } \\ \\right\\}$ ， $A _ { i j }$ is given by ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { A _ { 1 1 } = \\frac { 1 } { 2 } \\lambda , ~ A _ { 1 2 } = 2 \\sqrt { 2 } \\lambda _ { 3 } , ~ A _ { 2 2 } = - \\frac { 1 } { 6 } \\lambda _ { 6 , 7 } ^ { + } + \\frac { 1 } { 2 } \\lambda _ { 8 , 9 } ^ { + } + 4 \\lambda _ { 1 0 } + \\frac { 4 } { 3 } \\lambda _ { 1 1 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "，In the basis $\\{ \\ h \\omega ^ { - } , \\ z \\omega ^ { - } , \\ ( S _ { R } S ^ { - } ) ^ { 1 } , \\ ( S _ { I } S ^ { - } ) ^ { 1 } \\ \\} ,$ $A _ { i j }$ is given by ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { A _ { 1 1 } = A _ { 2 2 } = \\frac { 1 } { 2 } \\lambda , \\quad A _ { 1 2 } = 0 , \\quad A _ { 1 3 } = A _ { 2 4 } = \\sqrt { 2 } ( \\frac { 1 } { 2 } \\lambda _ { 2 } + \\lambda _ { 3 } ) , \\quad A _ { 3 4 } = - \\frac { 3 } { 4 } i \\lambda _ { 6 , 7 , 1 1 } ^ { - + } + } \\\\ & { A _ { 1 4 } = - A _ { 2 3 } = \\sqrt { 2 } i ( \\frac { 1 } { 2 } \\lambda _ { 2 } - \\lambda _ { 3 } ) , \\quad A _ { 3 3 } = A _ { 4 4 } = \\frac { 7 } { 1 2 } \\lambda _ { 6 , 7 , 1 1 } ^ { + + } + \\frac { 9 } { 4 } \\lambda _ { 9 , 1 0 } ^ { + } + \\frac { 1 } { 2 } \\lambda _ { 8 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2. Scatterings between states in 8-dimensional representation of the SU(3) group. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "In this case, the Clebsch-Gordan coefficients for 8 representation are proportional to $d ^ { \\alpha \\beta \\gamma }$ and those for 8 representation are proportional to $f ^ { \\alpha \\beta \\gamma }$ . The values of these coefficients are ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\boldsymbol C ^ { 8 } [ 1 ] = \\left( \\begin{array} { c c c c c c c c c } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 1 0 } } { 1 0 } } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 1 0 } } { 1 0 } \\delta _ { i } } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\delta } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } \\delta } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { \\frac { \\sqrt { 3 0 } } { 2 0 } \\delta } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\delta } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 1 0 } } { 1 0 } } & { \\frac { \\sqrt { 1 0 } } { 1 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { S } [ 2 ] = \\left( \\begin{array} { c c c c c c c c c } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { s } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { s } } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { s } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { s } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 1 0 } } { 2 0 } \\dot { s } } \\\\ { - \\frac { \\sqrt { 3 0 } } { 2 0 } } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { s } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { s } } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { s } } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { S } [ 3 ] = \\left( \\begin{array} { l l l l l l l l l } { \\sqrt { \\frac { 1 3 } { 1 0 } } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\sqrt { 1 0 } } & { \\sqrt { 1 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\sqrt { 1 5 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\sqrt { 5 } } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 5 } } { 1 0 } } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 5 } } { 1 0 } } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 5 } } { 1 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 5 } } { 1 0 } } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol C ^ { s } [ 4 ] = \\left( \\begin{array} { c c c c c c c c c } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { u } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { u } } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { u } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 0 } } { 2 0 } } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { u } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 1 0 } } { 2 0 } \\dot { u } } \\\\ { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { u } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { u } } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 0 } } { 2 0 } } & { \\frac { \\sqrt { 3 0 } } { 2 0 } \\dot { u } } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\mathcal { S } } [ 5 ] - \\left( \\begin{array} { l l l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 1 0 } } { 1 0 } } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 0 } } { 1 0 } } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } i } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } i } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 1 0 } } { 1 0 } } & { - \\frac { \\sqrt { 1 0 } } { 1 0 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { C } ^ { \\delta } [ \\delta ] = \\left( \\begin{array} { c c c c c c c c } { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 \\pi } } { 2 0 } } & { - \\frac { \\sqrt { 3 \\pi } } { 2 0 1 } } & { i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 \\pi } } { 2 0 1 } } & { \\frac { \\sqrt { 3 \\pi } } { 2 0 1 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 \\pi } } { 2 0 } } & { \\frac { \\sqrt { 3 \\pi } } { 2 0 1 } } & { 0 } \\\\ { \\frac { \\sqrt { 3 \\pi } } { 2 0 } } & { \\frac { \\sqrt { 3 \\pi } } { 2 0 1 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 3 \\pi } } { 2 0 1 } } & { \\frac { \\sqrt { 3 \\pi } } { 2 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 3 \\pi } } { 2 0 1 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 \\pi } } { 2 0 } } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 3 \\pi } } { 2 0 1 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 1 \\pi } } { 2 0 1 } } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 \\pi } } { 2 0 1 } } & { \\frac { \\sqrt { 1 \\pi } } { 2 0 1 } } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\bf S } [ 7 ] = \\left( \\begin{array} { c c c c c c c c } { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 0 } } { 2 0 } } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } i } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { \\frac { \\sqrt { 3 0 } } { 2 0 } i } & { 0 } \\\\ { - \\frac { \\sqrt { 3 0 } } { 2 0 } } & { \\frac { \\sqrt { 3 0 } } { 2 0 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 3 0 } } { 2 0 } i } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } i } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } & { \\frac { \\sqrt { 3 0 } } { 2 0 } i } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\delta } [ 8 ] = \\left( \\begin{array} { l l l l l l l l l } { \\sqrt { \\frac { 5 6 } { 1 0 } } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 1 0 } & { \\frac { 5 5 } { 1 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { \\frac { \\sqrt { 5 6 } } { 1 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 5 } } { 1 0 } } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 5 } } { 5 } } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 5 } } { 5 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 5 } } { 1 0 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 5 } } { 1 0 } } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 5 } } { 1 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 5 } } { 1 0 } } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { L } ^ { \\tilde { \\mathbf { S } } } [ 1 ] = \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 6 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 6 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 6 } - \\frac { \\sqrt { 6 } } { 6 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 3 2 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\tilde { \\mathcal { S } } } [ 2 ] = \\left( \\begin{array} { c c c c c c c c } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } i } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\delta } [ 3 ] = \\left( \\begin{array} { l l l l l l l l } { 0 } & { \\frac { \\sqrt { 3 } } { 6 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 3 } } { 6 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 } } { 3 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 } } { 3 } i } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 } } { 6 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 } } { 6 } i } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\delta } [ 4 ] = \\left( \\begin{array} { l l l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } \\dot { z } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } \\dot { z } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } \\dot { z } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } \\dot { z } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } \\dot { z } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } \\dot { z } } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\bar { \\delta } } [ 5 ] = \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 6 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 6 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 6 } } { 6 } - \\frac { \\sqrt { 6 } } { 6 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\tilde { \\mathbf { S } } } [ \\mathbf { \\widehat { \\mathbf { f } } } ] = \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } i } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 6 } } { 4 } i } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\delta } [ \\tilde { t } ] = \\left( \\begin{array} { c c c c c c c c } { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } i - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 4 } } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } i } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 6 } } { 4 } } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\tilde { \\mathbf { u } } } [ \\tilde { \\mathbf { S } } ] = \\left( \\begin{array} { l l l l l l l } { 0 } & { - \\frac { 1 } { 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { 1 } { 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { 1 } { 2 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { 1 } { 2 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { r } { \\{ \\omega ^ { - } S ^ { + } , h S _ { I } , h S _ { R } , z S _ { I } , z S _ { R } , ( S ^ { - } S ^ { + } ) ^ { 8 } , \\frac { ( S _ { I } S _ { I } ) ^ { 8 } } { \\sqrt { 2 } } , \\frac { ( S _ { R } S _ { R } ) ^ { 8 } } { \\sqrt { 2 } } , ( S _ { I } S _ { R } ) ^ { 8 } , ( S ^ { - } S ^ { + } ) ^ { 8 } , } \\end{array}$ $( S _ { I } S _ { R } ) ^ { \\bar { 8 } } \\}$ , the non-zero $A _ { i j }$ is given by ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\small \\begin{array} { r l } & { A _ { 1 1 } = \\frac { 1 } { 2 } \\lambda _ { 1 , 2 } ^ { - } , \\quad A _ { 1 2 } = - A _ { 1 5 } = \\frac { i } { 4 } ( \\lambda _ { 2 } - 2 \\lambda _ { 3 } ) , \\quad A _ { 1 3 } = A _ { 1 4 } = \\frac { 1 } { 4 } ( \\lambda _ { 2 } + 2 \\lambda _ { 3 } ) , \\quad A _ { 1 6 } = \\frac { 1 } { 2 } } \\\\ & { A _ { 1 7 } = A _ { 1 8 } = A _ { 3 7 } = A _ { 4 6 } = \\frac { \\sqrt { 2 } } { 8 } \\sqrt { \\frac { 5 } { 3 } } \\lambda _ { 4 , 5 } ^ { + } , \\quad A _ { 2 9 } = A _ { 3 6 } = A _ { 4 6 } = A _ { 5 9 } = \\frac { 1 } { 4 } \\sqrt { \\frac { 5 } { 3 } } \\lambda _ { 4 , 5 } ^ { + } , } \\\\ & { A _ { 1 1 1 } = \\frac { \\sqrt { 3 } } { 4 } \\lambda _ { 4 , 5 } ^ { - } , \\quad A _ { 3 1 0 } = A _ { 4 , 1 0 } = \\frac { \\sqrt { 3 } i } { 4 } \\lambda _ { 4 , 5 } ^ { - } , \\quad A _ { 2 2 } = A _ { 5 5 } = \\frac { 1 } { 2 } \\lambda _ { 1 , 2 } ^ { + } - \\lambda _ { 3 } , \\quad A _ { 2 5 } = A _ { 3 , 2 } } \\\\ & { A _ { 3 3 } = A _ { 4 4 } = \\frac { 1 } { 2 } \\lambda _ { 1 , 2 } ^ { + } + \\lambda _ { 3 , } \\quad A _ { 3 8 } = A _ { 4 7 } = \\frac { 1 } { 4 } \\sqrt { 1 5 } \\lambda _ { 4 , 5 } ^ { - } , \\quad A _ { 6 6 } = \\frac { 5 } { 6 } \\lambda _ { 6 , 7 } ^ { + } + \\frac { 1 } { 2 } \\lambda _ { 8 , 9 } ^ { + } + \\lambda _ { 1 0 } - } \\\\ & { A _ { 6 7 } = A _ { 6 8 } = \\frac { 5 } { 1 2 \\sqrt { 2 } } \\lambda _ { 6 , 7 , 1 1 } ^ { + } + \\frac { 1 } { 2 \\sqrt { 2 } } \\lambda _ { 9 , 1 0 } ^ { + } , \\quad A _ { 6 1 1 } = \\frac { \\sqrt { 5 } } { 4 } \\lambda _ { 6 , 7 } ^ { - } , \\quad A _ { 7 7 } = A _ { 8 8 } = \\frac { 1 } { 4 } \\lambda _ { 6 , 7 , 1 1 } ^ { + + } + \\frac { 1 } { 2 } } \\\\ &  A _ { 7 8 } = \\frac { 7 } { 1 2 } \\lambda _ { 6 , 7 } ^ { + } + \\frac { 1 } { 2 } \\lambda _ { 1 0 } - \\frac { 1 } { 6 } \\lambda _ { 1 1 , 1 0 } \\quad A _ { 7 , 1 0 } = A _ { 8 , 1 0 } = \\frac { \\sqrt { 1 0 } } { 8 } \\lambda  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "· In the basis $\\{ \\ \\omega ^ { - } S _ { I } , \\ \\omega ^ { - } S _ { R } , \\ h S ^ { - } , \\ z S ^ { - } , \\ ( S _ { I } S ^ { - } ) ^ { 8 } , \\ ( S _ { R } S ^ { - } ) ^ { 8 } , \\ ( S _ { I } S ^ { - } ) ^ { \\bar { 8 } } , \\ ( S _ { R } S ^ { - } ) ^ { \\bar { 8 } } \\ \\}$ the non-zero $A _ { i j }$ is given by ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { 1 1 } = A _ { 2 2 } = A _ { 3 3 } = A _ { 4 4 } = \\frac { 1 } { 2 } \\lambda _ { 1 } , \\quad A _ { 1 3 } = - A _ { 2 4 } = \\frac { i } { 4 } ( \\lambda _ { 2 } - 2 \\lambda _ { 3 } ) , \\quad A _ { 1 4 } = A _ { 2 3 } = \\frac { 1 } { 4 } ( \\lambda _ { 2 } + \\frac { 3 } { 8 } ) - A _ { 2 } = \\frac { 1 } { 8 } ( \\lambda _ { 2 } + \\frac { 3 } { 8 } ) - A _ { 2 } = - \\frac { i } { 8 } ( \\lambda _ { 2 } + \\frac { 3 } { 8 } ) - A _ { 2 } = - A _ { 2 } = - \\frac { i } { 8 } ( \\lambda _ { 2 } + \\frac { 3 } { 8 } ) - A _ { 2 } = - A _ { 2 } = - \\frac { i } { 8 } ( \\lambda _ { 2 } + \\frac { 3 } { 8 } ) - A _ { 2 } = - A _ { 2 } = - \\frac { i } { 8 } ( \\lambda _ { 2 } + \\frac { 3 } { 8 } ) - A _ { 2 } , } \\\\ & { \\mathrm { 1 5 } = A _ { 2 6 } = A _ { 3 6 } = A _ { 4 5 } = \\frac { 1 } { 4 5 } = \\frac { 1 } { 4 } \\sqrt { \\frac { 5 } { 3 } } \\lambda _ { 4 , 5 } ^ { + } , \\quad A _ { 1 8 } = - A _ { 2 7 } = \\frac { \\sqrt { 3 } } { 4 } \\lambda _ { 4 , 5 } ^ { - } , \\quad A _ { 3 8 } = A _ { 4 7 } = \\frac { i \\sqrt { 3 } } { 4 } \\lambda _ { 4 , 5 } ^ { - } , } \\\\ & { \\mathrm { 5 5 } = A _ { 6 6 } = \\frac { 1 } { 2 4 } \\lambda _ { 6 7 } ^ { + } = \\frac { 1 } { 2 } \\lambda _ { 8 } + \\frac { 1 } { 4 } \\lambda _ { 9 , 1 0 } ^ { + } , \\quad A _ { 5 6 } = - \\frac { 3 } { 8 } \\lambda _ { 6 , 7 , 1 1 } ^ { + } + \\frac { i } { 4 } \\lambda _ { 9 , 1 0 } ^ { - } , \\quad A _ { 5 7 } = A _ { 6 8 } = \\frac { i \\sqrt { 5 } } { 8 } \\lambda _ { 6 7 , 1 1 } ^ { - } - \\frac { i } { 4 } . } \\\\ &  \\mathrm { 5 8 } = - A _ { 6 7 } = \\frac { \\sqrt { 5 } } { 8 } \\lambda _ { 6 , 7 } ^ { - } , \\quad A _ { 7 7 } = A _ { 8 8 } = \\frac { 3 } { 8 } \\lambda _ { 6 7 , 1 1 } ^ { + } - \\frac { 1 } { 4 } \\lambda _ { 9 , 1 0 } ^ { + } + \\frac { 1 } { 2 } \\lambda _ { 8 } , \\quad A _ { 7 8 } = - \\frac { 3 i } { 8 } \\lambda _ { 6 , 7 , 1 1 } ^  +  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "3. Scatterings between states in 10-dimensional representation of the SU(3) group. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "In this case, the Clebsch-Gordan coefficients are given by ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 1 0 } [ 1 ] = \\left( \\begin{array} { l l l l l l l } { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } \\ i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } \\ i } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } \\ i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 2 } } { 4 } \\ i } & { - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { 1 0 } [ 2 ] - \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } i } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { 1 0 } [ 3 ] = \\left( \\begin{array} { c c c c c c c } { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } i } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 4 } } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } i } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\mathbf { i n } } [ 4 ] = \\left( \\begin{array} { l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } i } & { - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { 1 0 } [ 5 ] = \\left( \\begin{array} { c c c c c c c c } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 4 } } { 4 } } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } & { 0 } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 1 0 } [ 6 ] - \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 6 } } { 4 } } & { - \\frac { \\sqrt { 6 } } { 4 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 1 0 } [ 7 ] = \\left( \\begin{array} { c c c c c c c } { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } i } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 2 } } { 4 } i } & { - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal C } ^ { 1 0 } [ 8 ] = \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 6 } } & { \\frac { \\sqrt { 6 } } { 6 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 6 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 6 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 1 0 } [ 9 ] = \\left( \\begin{array} { l l l l l l l l l } { 0 } & { - \\frac { \\sqrt { 5 } } { 6 } \\dot { \\iota } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 5 } } { 6 } \\dot { \\iota } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { 1 } { 2 } } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 5 } } { 6 } \\dot { \\iota } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 5 } } { 6 } \\dot { \\iota } } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 5 } } { 6 } \\dot { \\iota } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 5 } } { 6 } \\dot { \\iota } } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { 1 } { 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 1 0 } [ 1 0 ] = \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 6 } } & { \\frac { \\sqrt { 6 } } { 6 } i } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 6 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 6 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { 1 0 } [ 1 ] = \\left( \\begin{array} { l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 2 } } { 4 } i } & { - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { \\tilde { \\imath } \\tilde { 0 } } [ 2 ] = \\left( \\begin{array} { c c c c c c c c } { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { i 0 } [ 3 ] = \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } ; } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } ; } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } ; } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 4 } } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } ; } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } ; } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 3 2 } ; } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } \\delta _ { \\mathrm { \\Delta } } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } \\delta } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { \\tilde { \\mathbf { i } } \\tilde { \\mathbf { i } } } [ 4 ] = \\left( \\begin{array} { l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { ( \\widetilde { \\Psi } } [ 5 ] = \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } i } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 6 } } { 4 } i } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\tilde { \\mathbf { i } } } [ \\mathbf { \\bar { \\mathbf { f } } } ] = \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } \\dot { t } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } \\dot { t } } { 4 } } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } - \\frac { \\sqrt { 6 } } { 1 2 } \\dot { t } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } - \\frac { \\sqrt { 6 } } { 1 2 } \\dot { t } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } \\dot { t } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } \\dot { t } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } \\dot { t } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 6 } } { 4 } - \\frac { \\sqrt { 6 } } { 4 } \\dot { t } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { [ 1 ] } [ 7 ] = \\left( \\begin{array} { l l l l l l l } { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 2 } } { 4 } i } & { - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { \\mathsf { T } } | | \\mathbb { S } | = \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 6 } } & { - \\frac { \\sqrt { 6 } } { 6 } i } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } i } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 6 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 6 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { [ 0 ] } [ 9 ] = \\left( \\begin{array} { l l l l l l l l l } { 0 } & { - \\frac { \\sqrt { 3 } } { 6 } ; } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 3 } } { 6 } ; } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { 1 } { 2 } } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 } } { 6 } ; } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 } } { 6 } ; } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 } } { 6 } ; } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 } } { 6 } ; } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { 1 } { 2 } } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 31
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\tilde { \\mathbf { i } } } \\left[ \\mathbf { l } \\mathbf { 0 } \\right] = \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 6 } } & { - \\frac { \\sqrt { 6 } } { 6 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 6 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 6 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "· In the basis $\\left\\{ \\ ( S ^ { - } S ^ { + } ) ^ { 1 0 } , ( S _ { I } S _ { R } ) ^ { 1 0 } \\right\\}$ ， $A _ { i j }$ is given by $\\begin{array} { r } { A _ { 1 1 } = A _ { 2 2 } = \\frac { 1 } { 2 } \\lambda _ { 8 , 9 } ^ { + } - \\lambda _ { 1 0 } , \\quad A _ { 1 2 } = - \\frac { i } { 2 } \\lambda _ { 9 , 1 0 } ^ { - } . } \\end{array}$ ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "In the basis $\\left\\{ \\begin{array} { l l } { ( S ^ { - } S ^ { + } ) ^ { \\bar { 1 0 } } } \\end{array} \\right.$ ， $( S _ { I } S _ { R } ) ^ { 1 \\bar { 0 } } \\}$ ， $A _ { i j }$ is given by $\\begin{array} { r } { A _ { 1 1 } = A _ { 2 2 } = \\frac { 1 } { 2 } \\lambda _ { 8 , 9 } ^ { + } - \\lambda _ { 1 0 } , \\quad A _ { 1 2 } = - \\frac { i } { 2 } \\lambda _ { 9 , 1 0 } ^ { - } . } \\end{array}$ ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "· In the basis $\\left\\{ \\begin{array} { l } { { ( S _ { I } S ^ { - } ) ^ { 1 0 } , ( S _ { R } S ^ { - } ) ^ { 1 0 } } } \\end{array} \\right\\}$ ， $A _ { i j }$ is given by（20 $\\begin{array} { r } { A _ { 1 1 } = A _ { 2 2 } = \\frac { 1 } { 4 } \\lambda _ { 6 , 7 , 9 , 1 0 } ^ { -- } + \\frac { 1 } { 2 } \\lambda _ { 8 } , \\quad A _ { 1 2 } = \\frac { i } { 4 } \\lambda _ { 6 , 7 , 9 , 1 0 } ^ { -- + } . } \\end{array}$ （204号",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "· In the basis $\\left\\{ \\begin{array} { l } { { ( S _ { I } S ^ { - } ) ^ { \\bar { 1 0 } } , ( S _ { R } S ^ { - } ) ^ { \\bar { 1 0 } } } } \\end{array} \\right\\}$ ， $A _ { i j }$ is given by（204号 $\\begin{array} { r } { A _ { 1 1 } = A _ { 2 2 } = - \\frac { 1 } { 4 } \\lambda _ { 6 , 7 , 9 , 1 0 } ^ { - + + } + \\frac { 1 } { 2 } \\lambda _ { 8 } , \\quad A _ { 1 2 } = - \\frac { i } { 4 } \\lambda _ { 6 , 7 , 9 , 1 0 } ^ { - + - } . } \\end{array}$ ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "4. Scatterings between states in 27-dimensional representation of the SU(3) group. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "In this case, the Clebsch-Gordan coefficients are given by ",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 2 \\pi } [ 1 ] = \\left( \\begin{array} { l l l l l l l } { \\frac { 1 } { 2 } } & { \\frac { 1 } { 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { 1 } { 2 } } & { - \\frac { 1 } { 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 2 7 } [ 2 ] = \\left( \\begin{array} { c c c c c c c } { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } \\dot { \\hat { u } } } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } \\dot { \\hat { u } } } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } \\dot { \\hat { u } } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 2 } } { 4 } \\dot { \\hat { u } } } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\mathcal { Q } ^ { 2 } } [ 3 ] = \\left( \\begin{array} { l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { 1 } { 2 } } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { 1 } { 2 } } & { - \\frac { 1 } { 2 } } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 2 \\pi } [ 4 ] = \\left( \\begin{array} { l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { 1 } { 4 } } & { - \\frac { 1 } { 4 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { 1 } { 4 } } & { 0 } & { 0 } & { 0 } & { - \\frac { 5 3 } { 4 } } \\\\ { 0 } & { 0 } & { - \\frac { 1 } { 4 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { 5 3 } { 4 } } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { 5 3 } { 4 } } & { - \\frac { 5 3 } { 4 } i } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 33
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 2 7 } [ 5 ] = \\left( \\begin{array} { l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { \\frac { \\sqrt { 5 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 6 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 6 } } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 4 } } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 33
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { L } ^ { 2 7 } [ 6 ] = \\left( \\begin{array} { l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { 1 } { 4 } } & { - \\frac { 1 } { 4 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { 1 } { 4 } } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 } } { 4 } } \\\\ { 0 } & { 0 } & { - \\frac { 1 } { 4 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 } } { 4 } i } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 } } { 4 } } & { - \\frac { \\sqrt { 3 } } { 4 } i } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 33
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { 2 \\bar { z } } [ 7 ] = \\left( \\begin{array} { l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { 1 } { 2 } } & { - \\frac { 1 } { 2 } { i } } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { 1 } { 2 } { i } } & { - \\frac { 1 } { 2 } } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 34
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 2 7 } [ 8 ] = \\left( \\begin{array} { c c c c c c c } { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } i } & { - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 2 } } { 4 } i } & { - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 34
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { C } ^ { 2 ^ { 2 } } [ 9 ] = \\left( \\begin{array} { r r r r r } { \\frac { 1 } { 2 } } & { - \\frac { 1 } { 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { 1 } { 2 } i } & { - \\frac { 1 } { 2 } } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 34
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { 2 7 } [ 1 0 ] = \\left( \\begin{array} { c c c c c c c } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } ; \\ 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 2 } } { 4 } \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 35
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 2 7 } [ 1 1 ] = \\left( \\begin{array} { l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { 1 } { 2 } } & { \\frac { 1 } { 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { 1 } { 2 } } & { \\frac { 1 } { 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 35
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 2 7 } [ 1 2 ] = \\left( \\begin{array} { c c c c c c c c } { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } i } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 35
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\mathcal { Q } ^ { \\pi } } [ 1 3 ] = \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } i } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 36
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { C } ^ { 2 ^ { 2 } } [ 1 4 ] = \\left( \\begin{array} { l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } \\thinspace i \\thinspace 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } \\thinspace i \\thinspace - \\frac { \\sqrt { 2 } } { 4 } \\thinspace 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 2 } } { 4 } \\thinspace i \\thinspace 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } \\thinspace i \\thinspace - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 36
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 2 7 } [ 1 5 ] = \\left( \\begin{array} { l l l l l l l } { 0 \\ 0 \\ 0 \\ 0 \\ 0 \\ } & { 0 \\ } & { 0 \\ } & { 0 \\ } & { 0 \\ } & { 0 } \\\\ { 0 \\ 0 \\ 0 \\ 0 \\ } & { 0 \\ } & { 0 \\ } & { 0 \\ } & { 0 \\ } & { 0 } \\\\ { 0 \\ 0 \\ 0 \\ 0 \\ } & { 0 \\ } & { 0 \\ } & { 0 \\ } & { 0 \\ } & { 0 } \\\\ { 0 \\ 0 \\ 0 \\ 0 \\ } & { 0 \\ } & { 0 \\ } & { \\frac { \\sqrt { 2 } } { 4 } \\ \\frac { \\sqrt { 2 } } { 4 } \\ 0 } \\\\ { 0 \\ 0 \\ 0 \\ 0 \\ } & { 0 \\ 0 \\ } & { 0 \\ \\ } & { \\frac { \\sqrt { 2 } } { 4 } \\ i \\ - \\frac { \\sqrt { 2 } } { 4 } \\ 0 } \\\\ { 0 \\ 0 \\ 0 \\ 0 \\ \\ \\frac { \\sqrt { 2 } } { 4 } \\ \\frac { \\sqrt { 2 } } { 4 } \\ \\frac { \\sqrt { 2 } } { 4 } \\ 0 \\ } & { 0 \\ 0 \\ } & { 0 \\ } \\\\ { 0 \\ 0 \\ 0 \\ \\ \\frac { \\sqrt { 2 } } { 4 } \\ i \\ - \\frac { \\sqrt { 2 } } { 4 } \\ 0 \\ 0 \\ } & { 0 \\ 0 \\ } & { 0 \\ } \\\\ { 0 \\ 0 \\ 0 \\ 0 \\ } & { 0 \\ \\ 0 \\ } & { 0 \\ \\ 0 \\ } & { 0 \\ 0 \\ } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 36
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 2 7 } [ 1 6 ] = \\left( \\begin{array} { c c c c c c c c } { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } \\dot { s } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { - \\frac { \\sqrt { 6 } } { 1 2 } \\dot { s } } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 6 } } { 1 2 } \\dot { s } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } \\dot { s } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } \\dot { s } } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } } & { - \\frac { \\sqrt { 6 } } { 4 } \\dot { s } } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 37
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 2 7 } [ 1 7 ] = \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } \\dot { \\bar { z } } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } \\dot { \\bar { z } } } \\\\ { \\frac { \\sqrt { 6 } } { 1 2 } - \\frac { \\sqrt { 6 } } { 1 2 } \\dot { \\bar { z } } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } - \\frac { \\sqrt { 6 } } { 1 2 } \\dot { \\bar { z } } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 6 } } { 1 2 } \\dot { \\bar { z } } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { \\frac { \\sqrt { 6 } } { 1 2 } \\dot { \\bar { z } } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 6 } } { 1 2 } \\dot { \\bar { z } } } & { - \\frac { \\sqrt { 6 } } { 1 2 } } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 6 } } { 4 } } & { - \\frac { \\sqrt { 6 } } { 4 } \\dot { \\bar { z } } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 37
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { 2 7 } [ 1 8 ] = \\begin{array} { r } { \\left( \\begin{array} { l l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { 1 } { 2 } } & { \\frac { 1 } { 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { 1 } { 2 } } & { \\frac { 1 } { 2 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 37
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 2 7 } [ 1 9 ] = \\left( \\begin{array} { c c c c c c c } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 2 } } { 4 } - \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 2 } } { 4 } i } & { - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 2 } } { 4 } } & { \\frac { \\sqrt { 2 } } { 4 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 2 } } { 4 } i } & { - \\frac { \\sqrt { 2 } } { 4 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 38
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { \\mathcal { O } } [ 2 0 ] = \\left( \\begin{array} { l l l l l l l l } { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 1 0 } } { 2 0 } } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 1 0 } } { 2 0 } i } \\\\ { - \\frac { \\sqrt { 3 0 } } { 1 2 } } & { - \\frac { \\sqrt { 3 0 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } } & { \\frac { \\sqrt { 3 0 } } { 6 0 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } i } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 6 0 } i } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 1 0 } } { 2 0 } } & { \\frac { \\sqrt { 1 0 } } { 2 0 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 38
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C ^ { 2 7 } [ 2 ] = \\left( \\begin{array} { c c c c c c c c c } { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 5 8 0 } } { 6 0 } } & { \\frac { \\sqrt { 5 8 0 } } { 6 0 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } i } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 0 } } { 1 5 } } & { \\frac { \\sqrt { 3 0 } } { 1 5 } i } & { 0 } \\\\ { - \\frac { \\sqrt { 5 8 } } { 6 0 } } & { - \\frac { \\sqrt { 5 8 } } { 6 0 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 3 0 } } { 6 0 } i } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 5 8 } } { 1 5 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 1 0 } } { 1 0 } } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 5 0 } } { 1 5 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 0 } } { 1 0 } i } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 1 0 } } { 1 0 } } & { - \\frac { \\sqrt { 1 0 } } { 1 0 } i } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 38
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { C } ^ { \\mathcal { I } ^ { \\prime } } [ 2 2 ] = \\left( \\begin{array} { c c c c c c c c c } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 5 } } { 1 0 } } & { - \\frac { \\sqrt { 5 } } { 1 0 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 5 } } { 1 0 } i } & { \\frac { \\sqrt { 5 } } { 1 0 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { 3 \\sqrt { 5 } } { 2 0 } } & { \\frac { 3 \\sqrt { 5 } } { 2 0 } i } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { 3 \\sqrt { 5 } } { 2 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 5 } } { 2 0 } } \\\\ { 0 } & { 0 } & { \\frac { 3 \\sqrt { 5 } } { 2 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 5 } } { 2 0 } i } \\\\ { - \\frac { \\sqrt { 5 } } { 1 0 } } & { - \\frac { \\sqrt { 5 } } { 1 0 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { - \\frac { \\sqrt { 5 } } { 1 0 } i } & { \\frac { \\sqrt { 5 } } { 1 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 5 } } { 2 0 } } & { - \\frac { \\sqrt { 1 5 } } { 2 0 } i } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 5 } } { 2 0 } } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 39
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { C } ^ { 2 7 } [ 2 3 ] = \\left( \\begin{array} { l l l l l l l l } { \\sqrt { \\frac { 1 0 } { 1 0 } } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 1 0 } & { \\sqrt { 1 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { \\frac { - 3 \\sqrt { 1 0 } } { 1 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 0 } } { 1 0 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 0 } } { 1 0 } } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { - \\sqrt { 3 0 } } { 2 0 } } & { 0 } & { 0 } & { 0 } & { \\frac { 3 \\sqrt { 1 0 } } { 2 0 } } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 39
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { \\mu \\nu } [ 2 4 ] = \\left( \\begin{array} { c c c c c c c c c } { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { \\frac { \\sqrt { 5 } } { 1 0 } } } & { { - \\frac { \\sqrt { 5 } } { 1 0 } \\hat { i } } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { - \\frac { \\sqrt { 5 } } { 1 0 } \\hat { i } } } & { { - \\frac { \\sqrt { 5 } } { 1 0 } } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { 0 } } & { { - \\frac { 3 \\sqrt { 5 } } { 2 0 } \\frac { 3 \\sqrt { 5 } } { 2 0 } \\hat { i } } } & { { 0 } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { - \\frac { 3 \\sqrt { 5 } } { 2 0 } } } & { { 0 } } & { { 0 } } & { { 0 } } & { { \\frac { \\sqrt { 5 } } { 2 0 } } } \\\\ { { 0 } } & { { 0 } } & { { \\frac { 3 \\sqrt { 5 } } { 2 0 } \\hat { i } } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { - \\frac { \\sqrt { 1 5 } } { 2 0 } \\hat { i } } } \\\\ { { \\frac { \\sqrt { 5 } } { 1 0 } } } & { { - \\frac { \\sqrt { 5 } } { 1 0 } \\hat { i } } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } \\\\ { { - \\frac { \\sqrt { 5 } } { 1 0 } \\hat { i } } } & { { - \\frac { \\sqrt { 5 } } { 1 0 } } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { 0 } } & { { \\frac { \\sqrt { 1 5 } } { 2 0 } } } & { { - \\frac { \\sqrt { 1 5 } } { 2 0 } \\hat { i } } } & { { 0 } } & { { 0 } } & { { 0 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 39
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { C } ^ { \\mathcal { D } } [ 2 5 ] - \\left( \\begin{array} { c c c c c c c c } { - \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 6 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 0 } } { 1 0 } } \\\\ { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 6 0 } } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 6 0 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 2 0 } } & { 0 } \\\\ { 0 } & { 0 } & { - \\frac { \\sqrt { 1 0 } } { 1 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 2 0 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 40
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { C } ^ { \\mathcal { A } ^ { 2 } } [ 2 6 ] = \\left( \\begin{array} { c c c c c c c c } { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 6 0 } } & { \\frac { \\sqrt { 3 0 } } { 6 0 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } \\dot { i } } & { \\frac { \\sqrt { 5 0 } } { 6 0 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 1 5 } } & { \\frac { \\sqrt { 3 0 } } { 1 5 } \\dot { i } } & { 0 } \\\\ { \\frac { \\sqrt { 3 0 } } { 6 0 } } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } \\dot { i } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 5 0 } } { 6 0 } \\dot { i } } & { \\frac { \\sqrt { 5 0 } } { 6 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 1 5 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 0 } } { 1 0 } } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 1 5 } \\dot { i } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 0 } } { 1 0 } \\dot { i } } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 0 } } { 1 0 } } & { - \\frac { \\sqrt { 1 0 } } { 1 0 } \\dot { i } } & { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 40
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { \\mathcal { C } } ^ { 2 7 } [ 2 7 ] = \\left( \\begin{array} { c c c c c c c c c } { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 1 2 } } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 1 0 } } { 2 0 } } \\\\ { 0 } & { 0 } & { \\frac { \\sqrt { 3 0 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 1 0 } } { 2 0 } i } \\\\ { - \\frac { \\sqrt { 5 0 } } { 1 2 } } & { \\frac { \\sqrt { 5 0 } } { 1 2 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } } & { \\frac { \\sqrt { 3 0 } } { 6 0 } i } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \\frac { \\sqrt { 5 0 } } { 6 0 } i } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 5 0 } } { 6 0 } } & { \\frac { \\sqrt { 5 0 } } { 6 0 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } i } & { - \\frac { \\sqrt { 3 0 } } { 6 0 } } & { 0 } & { 0 } & { 0 } \\\\ { \\frac { \\sqrt { 1 0 } } { 2 0 } } & { - \\frac { \\sqrt { 1 0 } } { 2 0 } i } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "· In the basis {(S-S+)27, (S1S1)²7, $\\textstyle \\frac { ( S _ { R } S _ { R } ) ^ { 2 7 } } { \\sqrt { 2 } } \\}$ ， $A _ { i j }$ is given by （204号 $\\begin{array} { r l } & { A _ { 1 1 } = \\frac { 1 } { 2 } \\lambda _ { 8 , 9 , 1 1 } ^ { + + } + \\lambda _ { 1 0 } , \\quad A _ { 1 2 } = A _ { 1 3 } = \\frac { \\sqrt { 2 } } { 4 } \\lambda _ { 9 , 1 0 } ^ { + } , \\quad A _ { 2 2 } = A _ { 3 3 } = \\frac { 1 } { 4 } \\lambda _ { 6 , 7 , 1 1 } ^ { + + } + \\frac { 1 } { 2 } \\lambda _ { 8 , 9 , 1 0 } ^ { + - } , } \\\\ & { A _ { 2 3 } = - \\frac { 1 } { 4 } \\lambda _ { 6 , 7 , 1 1 } ^ { + - } + \\frac { 1 } { 2 } \\lambda _ { 1 0 } . } \\end{array}$ （204号 （204号 ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "· In the basis $\\left\\{ \\begin{array} { l } { { ( S _ { I } S _ { R } ) ^ { 2 7 } } } \\end{array} \\right\\}$ , the S-partial wave amplitude for the scattering $( S _ { I } S _ { R } ) ^ { 2 7 } $ （204号 $\\begin{array} { r } { ( S _ { I } S _ { R } ) ^ { 2 7 } \\mathrm { ~ i s ~ } \\quad A _ { 1 1 } = \\frac { 1 } { 2 } \\lambda _ { 6 , 7 , 8 , 9 } ^ { + + + } . } \\end{array}$ （20   \n· In the basis $\\left\\{ \\begin{array} { l } { { ( S _ { I } S ^ { - } ) ^ { 2 7 } , ( S _ { R } S ^ { - } ) ^ { 2 7 } } } \\end{array} \\right\\}$ ， $A _ { i j }$ is given by （204号 $\\begin{array} { r } { A _ { 1 1 } = A _ { 2 2 } = \\frac { 1 } { 4 } \\lambda _ { 6 , 7 , 9 , 1 0 , 1 1 } ^ { + + + + } + \\frac { 1 } { 2 } \\lambda _ { 8 } , \\quad A _ { 1 2 } = \\frac { i } { 4 } \\lambda _ { 6 , 7 , 9 , 1 0 , 1 1 } ^ { + + -- } . } \\end{array}$ （204   \n[1] G. Aad et al. [ATLAS Collaboration],Phys. Lett. B 716 (2012) 1 [arXiv:1207.7214 [hep-ex].   \n[2] S.Chatrchyan et al. [CMS Collaboration], Phys.Lett.B 716 (2012) 30 [arXiv:1207.7235 [hep-ex]].   \n[3] Bruno Mansoulié, talk at the Rencontres de Moriond EW 2013, On behalf of the ATLAS collaboration.   \n[4] [CMS Collaboration], CMS-PAS-HIG-13-005.   \n[5] [ATLAS Collaboration],ATLAS-CONF-2013-034.   \n[6] A. Azatov, R. Contino and J. Galloway, JHEP 1204 (2012) 127; A. Azatov and J. Galloway, Int. J. Mod. Phys.A 28 (2013) 1330004.   \n[7] J.R. Espinosa, et al., JHEP 1205,097 (2012),[arXiv:1202.3697 [hep-ph]; JHEP 1212 (2012) 045,[arXiv:1207.1717 [hep-ph].   \n[8] P. P. Giardino, et al., Phys. Lett. B 718,469 (2012); JHEP 1206,117 (2012).   \n[9]J.Elis,T.You, JHEP 1209 (2012）123 [arXiv:1207.1693 [hep-ph]; JHEP 1206,140 （2012) [arXiv:1204.0464 [hep-ph].   \n[10] T. Corbett, et al., Phys. Rev. D 86 (2012) 075013 Phys. Rev. D 87 (2013) 015022   \n[11] M. Montull and F. Riva, JHEP 1211 (2012) 018 [arXiv:1207.1716 [hep-ph]}； D. Carmi, A. Falkowski, E. Kuflik, T. Volansky and J. Zupan, JHEP 1210 (2012) 196 [arXiv:1207.1718 [hep-ph]].   \n[12] P. Bechtle,S. Heinemeyer,O. Stal, T. Stefaniak and G. Weiglein, arXiv:1305.1933 [hep-ph].   \n[13] [ATLAS Collaboration]，ATLAS-CONF-2013-012.   \n[14] [CMS Collaboration], CMS-PAS-HIG-13-001.   \n[15] N. Craig and S. Thomas, JHEP 1211 (2012） 083 [arXiv:1207.4835 [hep-ph]]； A. Barroso, P. M. Ferreira, R. Santos and J. P. Silva, Phys. Rev. D 86 (2012) 015022 [arXiv:1205.4247 [hep-ph]]; A. Azatov, S. Chang, N. Craig and J. Galoway, Phys. Rev. D 86 (2012) 075033 D 85（2012） 095016 [arXiv:1112.3961 [hep-phl]； A. Arhrib,C. -W. Chiang,D.K.Ghosh and R. Santos,Phys. Rev.D 85 (2012） 115003 [arXiv:1112.5527 [hep-phl]； E. Gabrielli, B. Mele and M. Raidal, Phys. Lett.B 716 (2012) 322 [arXiv:1202.1796 [hep-phl]; K. Blum and R. T. D'Agnolo, Phys.Lett. B 714 (2012) 66 [arXiv:1202.2364 [hep-ph]]; C.-Y. Chen and S. Dawson, arXiv:1301.0309 [hep-ph]. P. M. Ferreira, H. E. Haber, R. Santos and J. P. Silva, arXiv:1211.3131 [hep-ph]; P.M. Ferreira, R. Santos,M. Sher and J. P. Silva, Phys. Rev. D 85 (2012) 035020 [arXiv:1201.0019 [hep-ph]]; P. M. Ferreira,R. Santos,M. Sher and J. P. Silva, Phys. Rev. D 85 (2012) 077703 [arXiv:1112.3277 [hep-ph]].   \n[16] A. Arhrib,R. Benbrik and N. Gaur,Phys.Rev. D 85 (2012) 095021 [arXiv:1201.2644 [hep-ph]]; L. Wang and X. -F. Han, JHEP 1205 (2012) 088 [arXiv:1203.4477 [hep-ph]].   \n[17] C.Han， et al.，arXiv:1212.6728 [hep-ph]； N. Chen and H. -J. He, JHEP 1204 (2012) 062 [arXiv:1202.3072 [hep-ph];； T. Abe,N. Chen and H. -J. He,JHEP 1301 (2013） 082 [arXiv:1207.4103 [hep-ph].   \n[18] A. Celis,V. Ilisie and A. Pich,arXiv:1302.4022 [hep-ph]； W. Altmannshofer, S. Gori and G. D. Kribs, Phys. Rev.D 86 (2012)115009 [arXiv:1210.2465 [hep-ph]; Y. Bai, V. Barger, L. L. Everett and G. Shaughnessy, arXiv:1210.4922 [hep-ph].   \n[19] A. Drozd, B. Grzadkowski, J. F. Gunion and Y. Jiang, arXiv:1211.3580 [hep-ph].   \n[20] G. Belanger, B. Dumont, U. Ellwanger, J. F. Gunion and S. Kraml, arXiv:1212.5244 [hep-ph].   \n[21] P. M. Ferreira, R. Santos, M. Sher and J. P. Silva, arXiv:1305.4587 [hep-ph].   \n[22] P. P. Giardino, K. Kannike, I. Masina, M. Raidal and A. Strumia, arXiv:1303.3570 [hep-ph].   \n[23] A. V. Manohar and M. B. Wise, Phys. Rev. D 74 (2006) 035009 [hep-ph/0606172].   \n[24] B. A. Dobrescu, G. D. Kribs and A. Martin, Phys. Rev. D 85 (2012) 074031 [arXiv:1112.2208 [hep-ph]}; Y. Bai, J. Fan and J.L. Hewett, JHEP 1208 (2012) 014 [arXiv:1112.1964 [hep-ph]]; E. Ma,Phys.Lett.B 706 (2012) 350 [arXiv:1109.4177 [hep-ph]].   \n[25] I. Dorsner, S. Fajfer,A. Greljo and J. F. Kamenik, arXiv:1208.1266 [hep-ph].   \n[26] M. Reece, arXiv:1208.1765 [hep-ph].   \n[27] K.Kumar,R. Vega-Morales and F. Yu, arXiv:1205.4244 [hep-ph].   \n[28] R. Boughezal and F. Petriello, Nucl. Phys. Proc. Suppl. 205-206 (2010) 289 [arXiv:1006.5773 [hep-ph]}； R. Boughezal and F. Petriell,Phys. Rev. D 81 (2010) 114033 [arXiv:1003.2046 [hep-ph].   \n[29] G. D. Kribs and A. Martin, arXiv:1zU7.449o [nep-pn].   \n[30] S.Bertolini,L. Di Luzio and M. Malinsky， arXiv:1302.3401 [hep-ph]； T. Plehn and T.M.P. Tait， J. Phys. G 36, 075001 (2009) [arXiv:0810.3919 [hep-ph];； S. Y. Choi et al. Phys.Lett.B 672,246 (2009) [arXiv:0812.3586 [hep-ph]].   \n[31] C. T. Hill, Phys. Lett.B 266 (1991) 419; R. S. Chivukula, E. H. Simmons and N. Vignaroli, arXiv:1302.1069 [hep-ph].   \n[32] B.A. Dobrescu, K. Kong and R. Mahbubani, JHEP 0707, 006 (2007)[arXiv:hep-ph/0703231]; B. A. Dobrescu, K. Kong and R. Mahbubani, Phys. Lett. B 670,119 (2008) [arXiv:0709.2378 [hep-ph].   \n[33] T. Han, I. Lewis and Z. Liu, JHEP 1012 (2010) 085 [arXiv:1010.4309 [hep-ph].   \n[34] J. M. Arnold and B.Fornal, Phys. Rev. D 85 (2012） 055020 [arXiv:1112.0003 [hep-ph]; S. Schumann,A. Renaud and D. Zerwas, JHEP 1109 (2011) 074 [arXiv:1108.2957 [hep-phl]; A. Idilbi, C. Kim and T. Mehen, Phys. Rev. D 82 (2010) 075017 [arXiv:1007.0865 [hep-ph]].   \n[35] L.M. Carpenter and S. Mantry, Phys. Lett. B 703 (2011） 479 [arXiv:1104.5528 [hep-ph]]; T. Enkhbat, X.-G. He,Y. Mimura and H. Yokoya, JHEP 1202 (2012) 058 [arXiv:1105.2699 [hep-ph]]; L. Vecchi, JHEP 1110 (2011） 003 [arXiv:1107.2933 [hep-ph]]; B. A. Dobrescu and G. Z. Krnjaic, Phys. Rev. D 85 (2012) 075020 [arXiv:1104.2893 [hep-ph].   \n[36] R. Bonciani, G. Degrassi and A. Vicini, JHEP 0711 (2007) 095 [arXiv:0709.4227 [hep-ph].   \n[37] M. Gerbush,T. J. Khoo,D. J. Phalen,A. Pierce and D. Tucker-Smith, Phys. Rev. D 77 (2008） 095003 [arXiv:0710.3133 [hep-ph]].   \n[38] M. Carena,I. Low and C. E. M. Wagner, JHEP 1208 (2012) 060 [arXiv:1206.1082 [hep-ph]; W. -F. Chang, J. N. Ng and J. M. S. Wu, Phys. Rev. D 86 (2012) 033003 [arXiv:1206.5047 [hep-ph]}； X. -G. He,G. Valencia and H. Yokoya, JHEP 1112 (2011) 030 [arXiv:1110.2588 [hep-ph].   \n[39] A.Djouadi，Phys.Rept.457 (2008）1 [hep-ph/0503172]；Phys.Rept.459 (2008）1 [hep-ph/0503173].   \n[40] C. -S. Chen，C. -Q. Geng，D. Huang and L. -H. Tsai， arXiv:1301.4694 [hep-ph]; arXiv:1302.0502 [hep-ph].   \n[41] B. W. Lee, C. Quigg and H. B. Thacker, Phys. Rev. D 16 (1977) 1519.   \n[42] A. Arhrib, hep-ph/0012353.   \n[43] J. M. Cornwall， D. N. Levin and G. Tiktopoulos, Phys. Rev. D 10 (1974) 1145; ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "M. S. Chanowitz and M. K. Gaillard, Nucl. Phys. B 261 (1985) 379; Y.-P. Yao and C. P. Yuan, Phys. Rev. D 38(1988) 2237. [44] H.-J. He, Y. -P. Kuang and X.-y. Li, Phys. Rev. Lett. 69 (1992) 2619; Phys. Rev. D 49 (1994) 4842; Phys. Lett. B 329 (1994) 278; Phys. Rev. D51 (1995) 6463; H. -J. He and W. B. Kilgore, Phys. Rev. D 55 (1997) 1515; H. -J. He, Y. -P.Kuang and C.P. Yuan, hep-ph/9704276. [45] X.-G. He,H.Phoon,Y. Tang and G. Valencia,JHEP 1305 (2013) 026 [arXiv:1303.4848 [hep-ph]]. [46] G. Aad et al. [ATLAS Collaboration], Eur.Phys. J. C 71 (2011) 1828 [arXiv:1110.2693 [hepex]]; arXiv:1210.4826 [hep-ex]. [47] S. Chatrchyan et al. [CMS Collaboration], arXiv:1302.0531 [hep-ex]; CMS-EXO-11-016. [48] [ATLAS Collaboration]，ATLAS-CONF-2012-130； Léa Gauthier，On behalf of the ATLAS collaboration，ATL-PHYS-PROC-2013-016. [49] M. E. Peskin and T. Takeuchi, Phys. Rev. D 46 (1992) 381; L. Lavoura and L. -F. Li, Phys. Rev. D 49 (1994) 1409 [hep-ph/9309262]. [50] C. P. Burgess, M. Trott and S. Zuberi, JHEP 0909 (2009) 082 [arXiv:0907.2696 [hep-ph]. [51] M. Baak, M. Goebel, J. Haller, A. Hoecker, D. Kennedy, R. Kogler, K. Moenig and M. Schott et al.,Eur. Phys. J. C 72 (2012) 2205 [arXiv:1209.2716 [hep-ph]. [52] S. Dittmaier et al. [LHC Higgs Cross Section Working Group Collaboration], arXiv:1101.0593 [hep-ph]. [53] [CMS Collaboration], CMS-PAS-HIG-12-045. [54] X. -F. Han, L. Wang, J. M. Yang and J. Zhu, Phys. Rev. D 87 (2013) 055004,arXiv:1301.0090 [hep-ph]. [55] K. Cheung, J. S. Lee and P. -Y. Tseng, arXiv:1302.3794 [hep-ph]. [56] W. Huang, J. Shu and Y. Zhang,arXiv:1210.0906 [hep-ph]. [57] S.Kanemura,T. Kasai and Y. Okada, Phys. Lett. B 471 (199) 182; E. Accomando, A. G. Akeroyd, E. Akhmetzyanova, J. Albert,A. Alves, N. Amapane, M. Aoki and G. Azuelos et al., hep-ph/0608079. [58] J. Ca0,et al. JHEP 1203(2012) 086; JHEP 1210 (2012) 079; JHEP 1206(2012) 145; Phys. Lett.B 703 (2011) 462. [59] G. Bhattacharyya and T. S. Ray, Phys. Rev. D 87 (2013) 015017,[arXiv:1210.0594 [hep-ph]. [60][CMS Collaboration], CMS-PAS-HIG-13-006. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "[61] [ATLAS Collaboration],ATLAS-CONF-2013-009. [62] J. Cao, L. Wu, P. Wu and J. M. Yang, arXiv:1301.4641 [hep-ph] ",
+        "page_idx": 45
+    }
+]

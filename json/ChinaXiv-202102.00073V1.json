@@ -1,0 +1,623 @@
+[
+    {
+        "type": "text",
+        "text": "EMMN受偏差-标准刺激对类型和情绪类型影响：来自元分析的证据",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曾宪卿 许 冰 孙 博 叶健彤 傅世敏\\*(广州大学教育学院心理系/脑与认知科学中心,广州510006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[目的]自动探测面孔情绪的变化对个体生存是十分重要的。许多采用事件相关电位(ERP)技术的研究表明情绪失匹配负波(EMMN)可以作为检测面孔情绪自动加工的指标。前人的研究表明偏差-标准刺激对(不同/相同)和情绪类型(消极/积极)影响了EMMN效应，但是结论存在争议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[方法]本研究对36项以EMMN为指标的研究(共733名被试)进行元分析[结果]结果表明： (1)在早期 $( 0 - 2 0 0 \\mathrm { m s } )$ 和晚期 $( 2 0 0 - 4 0 0 \\mathrm { m s } )$ 都发现了显著的EMMN效应，偶然呈现的情绪性面孔在两个时间窗内诱发更负的ERP，表明EMMN反映了面孔情绪相关的早期和晚期 ERP成分的概率效应；(2)偏差-标准刺激对类型调节了早期而不是晚期EMMN效应：在早期区间内，不同的偏差-标准刺激对诱发了更大的EMMN；(3)在相同偏差-标准刺激对的研究中，等概率和非等概率的EMMN效应在两个时间窗内都没有显著差异；(4)早期和晚期EMMN都具有消极偏向，即，消极情绪诱发的EMMN显著大于积极情绪诱发的EMMN。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[结论]这些结果表明，EMMN效应受到偏差-标准刺激对和情绪类型等实验变量的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：情绪失匹配负波，元分析，消极偏向，偏差-标准刺激对分类号：B842",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EMMN varies with deviant-standard stimulus pair type and emotion type: Evidence from a meta-analysis study ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZENG Xianqing, XU Bing, SUN Bo, YE Jiantong & FU Shimin (Department of Psychology and Center for Brain and Cognitive Sciences, School of Education, Guangzhou University, Guangzhou 51ooo6,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Ob jective] The automatic detection of facial emotion changes is crucial for survival. Numerous studies using event-related potential (ERP) technique have found that the amplitude of emotionrelated visual mismatch negativity (EMMN) could be used to test the automatic procesing of facial emotion. Previous studies suggested that deviant - standard stimulus (D-S) pair (different/ same) and emotion type (negative/ non-negative) might modulate the EMMN eect, however, the evidence so far was mixed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Methods]Therefore，we conducted a meta-analysis to analyze the findings of 36 studies (involving 733 healthy participants) on EMMN. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Results]Results showed that: (1) EMMN effects emerged at both the early- $( 0 - 2 0 0 \\mathrm { m s } )$ and late- $( 2 0 0 - 4 0 0 \\mathrm { m s } )$ stages，demonstrating that infrequently presented deviant stimulus elicited more negative ERPs at both the early- and late-stages. This suggests that EMMN reflects the probability effect of early- and late-stages emotion-related ERP components; (2) the type of D-S pair moderated the EMMN efect at the early- but not the late-stages.Specifically, the EMMN effect of different D-S pairs was significantly larger than that of the same D-S pairs at the earlystage;(3） in the studies of same D-S pairs,the evidence between equiprobable and nonequiprobable paradigm showed no significant differences in EMMN at both stages; (4) a negative bias was found in both early and late EMMN,i.e.,the EMMN elicited by the angry, fearful, angry faces was significantly larger than that of happy faces. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[Conclusions]These results indicate that the EMMN effect is affected by experimental manipulations such as D-S pair type and emotion type. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords: Emotion-related visual mismatch negativity (EMMN)，Meta-analysis, Negative bias, Deviant-standard stimulus pair. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "情绪是面孔重要的信息之一，反映了个体的内心情感状态，因而在社会交流过程中起着十分重要的作用。视野内的面孔信息反映了我们周围人物的状态和属性[1]。对情绪信息变化的自动探测可能是十分重要的，例如对威胁生存的信息的恐惧或愤怒，快速自动地识别到情绪的变化更有利于生存。利用行为和神经科学方法的许多研究表明，面孔情绪得到了自动加工[2,3]，在另一些研究中，面孔情绪的加工是快速的[4,5]，或无需与任务相关[6]。由于面孔情绪反映了人的内心的状态且对人际关系的维系十分重要，对面孔情绪的自动加工被认为是人类适应环境的结果[7-9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了研究面孔情绪的自动加工的大脑机制，一些研究者开始采用高时间分辨率的事件相关电位(Event-related potential，ERP)技术研究非注意条件下,偶然出现的面孔情绪信息在大脑活动。其中一个重要的发现是，ERP差异波成分视觉失匹配负波(visual mismatch negativity，vMMN)会因信息呈现的概率不同而出现，反映了大脑对信息变化的自动探测。vMMN是频繁呈现的信息和不频繁呈现的信息（即，oddball序列： $0 / 0 / 0 / 0 / \\mathrm { X } / \\cdots$ ，其中X表示不频繁呈现的刺激，0表示频繁呈现的刺激)在大脑活动上(ERP)的差异波[10]。其经典的结果是分布在右后顶枕区、峰值在150ms\\~400ms之间的负波[11]，可以由许多视觉特征诱发，比如：线条朝向[12，13]，空间频率[11,14]，颜色[15]或者具有社会意义的复杂视觉信息如性别[16，17]，面孔[18]，情绪[1，19]，被认为是大脑对视觉信息变化的自动检测机制[20]。近年来(2006-2020)，利用vMMN为指标，研究面孔情绪信息变化的自动探测的文献不断增加。情绪失匹配负波(emotion-related vMMN，EMMN)的研究结果表明作为自动化检测机制，vMMN可以推广至真实社会性信息的加工范畴之中[21]，也意味着在非注意情况下，情绪信息得到了大脑的自动加工。在前人的EMMN研究中，情绪类型(消极情绪/积极情绪)，偏差-标准刺激对(在等概率范式中为偏差-控制刺激对，本文统称为偏差-标准刺激对)的类型(相同/不同)，关注的时间窗 (反映了不同时间进程上的自动加工，分前期/后期)对面孔情绪变化的自动探测有着非常重要的影响[1，7，19]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 文献综述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1EMMN的时间进程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为差异波，EMMN的时间窗常常由差异波平均波幅显著的时间区间来定义[21]，在不同的研究中有着不同的结论。一些研究发现了显著的早期和晚期失匹配负波[1，22-27]，另一些研究得到的是显著的早期或晚期失匹配负波[28-34]。个别研究得到了100-500毫秒内连续显著的 EMMN[35]。面孔刺激诱发的 ERP 成分（如",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "P1，N170，N2等)与EMMN的时空分布十分相似[1]，因此EMMN被认为与其活动时间窗内的子成分有关[36，37]。有研究者认为这些子成分可能反映了MMN对视觉刺激不同的效应，早期MMN(100－150ms)反映了视觉不应性，晚期MMN(200 -250ms)则反映了信息变化的检测[38]。基于记忆比较的变化检测观点认为，vMMN反映了当前信息与前一信息的记忆痕迹的比较而引起的变化特异性神经元群的激活，而视觉不应性观点认为vMMN反映了传入神经元群对不频繁呈现的信息(即，不应性较低)的更大激活水平，分离这两种对立假设的方法是在oddball范式的基础上附加等概率范式[39]。在一项EMMN研究[19]中，研究者采用等概率范式研究面孔情绪的自动加工，发现尽管不同的情绪均诱发了显著的N170，但在P250时间窗内有EMMN而N170时间窗没有，研究者因而认为面孔情绪的自动加工发生在对面孔的识别之后。Kovarski等人[35]和Kreegipuu等人[22]采用了类似的研究范式但得到的结果与Li等人的相矛盾。大部分EMMN研究仅采用oddball范式，其EMMN效应出现的时间窗不尽相同。这些互相矛盾研究结果表明，不同时间窗内的失匹配活动可能与实验范式有关。因此，非常有必要开展一项元分析研究不同时间进程上面孔情绪信息自动加工是否受到实验范式的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2偏差-标准刺激对和概率对EMMN的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用传统的oddbal1范式研究EMMN时，频繁出现的中性面孔被定义为标准刺激(standard stimulus，S)，偶尔出现的情绪性面孔被定义为偏差刺激(deviant stimulus，D)。在oddball序列中，S出现的频率(比如 $8 0 \\%$ )远远大于D的(比如 $2 0 \\% )$ 。采用这个范式的研究常常能得到MMN，但也有研究者认为这并不是纯粹的MMN，而是由视觉不应性诱发的视觉N1和视觉MMN的叠加成分[10]，因为D和S不仅有出现频率的差异，还有低水平的物理属性上的差异（不同偏差-标准刺激对MMN)。为了排除不应性的影响，有研究者采用等概率范式研究面孔情绪的自动加工[19,35]。例如，Li等人[19]在oddbal1序列中加入等概率序列，在等概率序列使用中性(在oddball序列中为S)、悲伤(在oddball序列中为D)、惊讶、快乐以及恐惧等情绪性面孔，每种面孔以 $2 0 \\%$ 的频率呈现。用oddball序列中的悲伤面孔(D)ERP减去等概率序列中悲伤面孔ERP得到相同偏差-标准刺激对的EMMN(control-EMMN)，结果发现control-EMMN只出现在晚期时间窗（210-310ms)，而oddball-EMMN 则同时出现在早期(110－ 210m)和晚期时间窗，表明排除了物理属性和概率的影响，EMMN效应只出现在晚期时间窗。control-EMMN 的算法排除了低水平物理差异，因此研究者认为可以得到“真实的MMN”[8,21]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "另外，研究者还利用反向组块范式(Reverse block paradigm)和流动标准范式(Roving standard paradigm)，从不同的角度定义S和D。在反向组块中，S和D在不同的组块(block)转换比例。例如，在 Stefanics 等1的研究中，一个oddball序列以中性面孔为S，愤怒面孔为D，而另一个oddbal1序列以中性面孔为D，愤怒面孔为S。流动标准范式通常在连续的试次中重复同一种刺激。例如，Rosburg等给被试呈现7－13次相同情绪的面孔作为一个序列，每个序列仅包含恐惧或中性面孔。每个序列的第一个刺激被认为是D，随后呈现的刺激为S。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用反向组块范式和流动标准范式得到的EMMN都是由作为D的愤怒面孔ERP减去作为S的愤怒面孔ERP得到。这两种ERP实际上由物理属性完全相同的面孔刺激诱发，因而避免了低水平的物理属性对EMMN效应的影响（相同偏差-标准EMMN)，这是传统oddbal1范式所不具备的。然而这个问题似乎常常被一些研究者忽略，传统的oddball范式研究没有区分“真实的MMN”效应和视觉不应性，可能高估了EMMN的效应[10，19]。另一方面，有研究者[19，38]关注了视觉不应性对视觉刺激自动加工的影响，但是他们常常用等概率的相同偏差-标准刺激对与非等概率的不相同偏差-标准刺激对作比较，例如用oddbal1序列的 $2 0 \\%$ 悲伤面孔ERP减 $8 0 \\%$ 中性面孔ERP得到的EMMN（非等概率的不相同偏差-标准刺激对EMMN)，与oddbal1序列的 $2 0 \\%$ 悲伤面孔ERP减等概率序列 $2 0 \\%$ 悲伤面孔ERP得到的EMMN(等概率的相同偏差-标准刺激对EMMN)比较。实际上，两种EMMN效应包含了刺激物理属性的差异和概率上的差异。然而，许多研究[1，22，32]采用了非等概率的相同偏差-标准刺激对（比如： $2 0 \\%$ 情绪性面孔与 $8 0 \\%$ 情绪性面孔)，也得到了与非等概率的不同偏差-标准刺激对研究类似的结果。结合2.1.的论述，不同的偏差-标准刺激对的类型或概率的实验操纵可能影响了EMMN效应，这需要在元分析中得到进一步证实。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 EMMN的消极偏向",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "早期的一些ERP研究表明，相比于非消极的图片，人们对消极的图片有更强烈的大脑活动，被称为消极偏向[40-42]。采用EMMN为指标的面孔情绪研究中，愤怒[43]、悲伤[23，37，44，45]、恐惧[1，7，9]等刺激都比中性或快乐诱发了更大的EMMN 波幅。但是,也有研究得到了不同的结果：愤怒[22]、悲伤[46]和恐惧[24,34]诱发的 EMMN与快乐情绪诱发的没有显著差异。Kovarski等人(2017)的研究结果显示可能原因是不应性和物理属性差异。他们结合oddbal1范式和等概率范式研究生气情绪和中性情绪诱发的EMMN，发现在早期时间窗(100－200ms)内，仅在生气条件下，control-EMMN( $1 0 \\%$ 情绪面孔 ERP- $1 6 \\%$ 情绪面孔ERP)显著大于oddball-EMMN（ $1 0 \\%$ 情绪面孔ERP- $8 0 \\%$ 中性面孔ERP)，而两种EMMN的差异在于是否由物理属性和概率都相同的面孔诱发。因此研究者认为，control-EMMN和oddball-EMMN的差异可能是不应性和物理属性差异导致的。关注EMMN是否有消极偏向的研究有很多，但结论尚未统一，因此用元分析进行证据的整合是有必要的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4本项元分析研究的目的",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "大量的研究用EMMN作为面孔情绪变化的自动检测的指标。根据前面所述，前人的研究表明偏差-标准刺激对的类型、概率和情绪类型对EMMN效应有非常重要的影响。但其中直接比较偏差-标准刺激对类型或概率对EMMN效应影响的研究很少（即，[19,22，35]，而且结论相矛盾。大部分研究没有考虑偏差-标准刺激对类型对EMMN效应的影响。此外，对EMMN的情绪效应进行了探索的研究有很多，但研究结论也尚未统一。因而采用元分析技术对研究效应量进行汇总并分析调节效应可以得到相对传统综述方法更有说服力的证据。另一方面，在前人的研究中，样本量大小不一(5个～38个)。相对于大样本研究，小样本研究结论的统计检验力可能是有限的[47]。元分析是一种强大的统计方法，可以根据效应大小识别许多小样本研究的趋势[48]。因此，本研究的目的是通过元分析来明确在早期和晚期的时间窗内，偏差-标准刺激对的类型、偏差-标准刺激对的概率差异和情绪类型是否影响了面孔情绪的自动加工。具体来说，是进行一项元分析，检查以EMMN的波幅为指标的面孔情绪自动加工是否受到上述因素的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 文献检索",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过关键词：（fac\\* OR express\\*） AND （emotion\\* OR affect\\*） AND (MMNOR(mismatch negativity)）在Web of science、Pubmed、EBSCo 等数据库筛选不重复的文献，另外3篇近期的有关情绪失匹配的综述(即，[21,49,50]的参考文献和2篇早期EMMN研究(即，[37，51]的引用文献也被纳入查阅范围。如果相关文献无法在上述数据库取得，将利用GoogleScholar来检索。此外，所有纳入本研究的文章的参考文献也被纳入查阅范围，以确保没有遗漏相关的文章。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当研究结果不明确或不足以纳入元分析时（比如，未报告计算效应大小所需的信息)，我们联系研究的通讯作者，请求提供具体的数据信息。文献检索的起始日期为2004年1月，因为我们认为第一篇相关的研究在2004年发表（即，[51]，文献检索的截止日期为2020年4月 20日。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2研究筛选",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将文献纳入研究范围的标准有以下几条：1.研究招募的被试包含了健康被试(没有不正常的特质和疾病)并且其数据被独立分析。2.研究中所用的情绪性面孔是与任务无关的标准和偏差刺激。3.以视觉失匹配负波为明确对象的研究。4.有足够的信息来计算效应量的研究。5.发表在同行评审期刊的研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "纳入的研究都是2004-2020期间发表的，每一篇可能相关的文章的标题和摘要都经过人工评审，以确保这些文章是符合要求的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3数据提取",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据由三名研究生和一名本科生共同提取。每篇文献的以下数据将被提取：第一作者、发表年份、被试个数与男女比例、被试均龄和标准差、计算效应量的数据(即均值+标准差、t值、F值或p值)、实验范式、情绪类型、时间窗、偏差-标准刺激对、任务相关性、电极/ROI、面孔类型、单试次呈现图片数、图片呈现时间等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用于计算效应量的数据若以多种情况(比如左半球和右半球)分开报告，则多组数据将被合并成一组数据用以计算总效应量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.1EMMN时间窗",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同的研究者采用了不同的时间窗的划分标准，有的研究只关注了一个时间窗的失匹配活动，另一些同时关注了两个时间窗的失匹配活动。尽管一些关注了两个时间窗的研究认为早期失匹配活动是N170的差异，而晚期的失匹配活动是P250 或P2的差异[36,37]，但也有研究表明失匹配活动是在非 ERP 成分的峰值处最明显[35，52]，或者在其他成分的峰值处更显著，比如晚期时间窗内的 N250 或N2[22.53]。然而因为大部分研究报告了两个时间窗的失匹配活动，且两个时间窗的区间特征较为一致，所以将时间窗分为早期区间和晚期区间是可行的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，时间窗的中位数在200ms之前的被归为早期时间窗，中位数在200ms以后的为晚期时间窗。两个时间窗内MMN最显著的数据，将作为该时间窗失匹配活动的效应量。如果一个研究同时报告了三个或更多时间窗[7，35]，早期时间窗的划分标准将与其他研究保持一致，而晚期时间窗则选取200ms后靠前的一个。因为大部分纳入的研究报告的晚期时间窗在200－350ms之间。如果一个研究关注的时间窗占据本研究定义的早期和晚期区间的大部分比例[52]，那么，将根据文中给出的ERP 波形图和数据，把结果放在最合适的一个区间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.2偏差-标准刺激对",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究将偏差-标准刺激对类型分为相同和不同两个，分类的标准在于计算差异波时是否用物理属性相同的情绪面孔作为偏差刺激和标准刺激。一般来说，相同偏差-标准刺激对的实验范式有等概率范式、反向oddbal1范式和流动标准范式，不同偏差-标准刺激对的实验范式有经典的oddball范式。如果研究中没有明确提到计算的差异波是否来自相同的情绪面孔刺激（比如，[17]，分类将取决于上下文的描述。如果研究同时报告了相同和不同偏差-标准刺激对的结果，将分别列出这两类MMN的效应量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.3等概率和非等概率",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "等概率研究和非等概率研究的区分并非完全以实验范式是否为等概率范式，因为在视觉不应性的研究中，偏差和标准的概率往往是相等的，而在一些有等概率序列的EMMN研究中，等概率序列的刺激与偏差刺激的概率可能是相差很大的（比如，[46]。在本研究中，偏差和标准刺激概率相等或相近(差异在 $0 \\% - 6 \\% )$ 的研究与相差甚远 (差异在 $3 5 \\% - 9 0 \\% )$ 的研究将被分别定义为等概率研究和非等概率研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.4情绪类型",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据研究所用的面孔情绪类型提取数据。这些面孔情绪一般被描述为：愤怒，恐惧，快乐，伤心，中性或消极，积极。本研究关心面孔情绪的自动加工有无消极偏向，因此，愤怒、恐惧、伤心等情绪等面孔被归为消极刺激，快乐情绪面孔被归为积极刺激。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了研究EMMN是否具有消极偏向，本研究只采用情绪类型作为被试内因子的研究进行元分析，综合这些研究得到的结论应该更为可靠。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "数据提取的结果见表1。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 分析计划",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，为了用更多的研究分析偏差-标准刺激对的类型和概率如何影响面孔情绪自动加工，所有符合标准的EMMN研究都被纳入元分析，然后考察上述两个因素的调节效应。另一方面，计算EMMN的消极偏向时，纳入的研究都必须报告同一批被试内两种EMMN效应量或者两种EMMN差异的效应量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "上述两项元分析将分别从早期区间 $( 0 \\mathrm { ~ - ~ } 2 0 0 \\mathrm { m s } )$ 和晚期区间(200－400ms)两个时间窗进行计算。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5元分析方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在目前的研究中，Hedges的 $\\mathrm { \\Phi _ { g } }$ 值被用作研究指标，公式为：（204号 $g = \\ : ( M e a n _ { d e v i a n t } - \\ : M e a n _ { s t a n d a r d } ) / S D _ { p o o l }$ ，计算消极偏向时遵循以下的公式：（204号 $g = \\big ( M e a n _ { n e g a t i v e } - M e a n _ { p o s i t i v e } \\big ) \\big / S D _ { p o o l }$ 。如果相关的数据(即均值和标准差)没有被报告，将用t值或F值计算Hedges的g值，公式如下：$g = t \\sqrt { ( n _ { 1 } + n _ { 2 } ) / ( n _ { 1 } \\times n _ { 2 } ) }$ 或 $g = \\sqrt { F \\times ( n _ { 1 } + n _ { 2 } ) / ( n _ { 1 } \\times n _ { 2 } ) }$ 。如果所需的数据没有被报告，则利用 $ { \\mathrm { ~  ~ { ~ \\psi ~ } ~ } } _ { \\mathrm { t } }$ 检验或者F检验的p值，将p值转化为 $ { \\mathrm { ~  ~ { ~ \\psi ~ } ~ } } _ { \\mathrm { t } }$ 值并根据上述公式计算效应量[54]。若结果报告显著或 $\\mathrm { ~ p ~ } \\langle \\ 0 . 0 5$ ，将取 $\\mathrm { ~ p ~ = ~ } 0 . 0 5$ 然后转化为相应的双尾t值。若结果以 $\\mathrm { ~ p ~ } \\langle \\ 0 . 1$ 或类似的数值形式报告，则取 $\\mathrm { ~ p ~ } = \\ 0 . \\ 1$ 或相应的数值，并转化为双尾 $\\mathrm { \\Omega ^ { t } }$ 值。若结果报告不显著或进行了方差分析但没有报告任何结果，则取t=0[55]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "固定效应模型和随机效应模型是元分析中两种常用的统计模型，基于不同的假设选择不同的模型[56]。在随机效应模型下，效应量可能因被试特征、研究范式的差异而不同，其元分析结论可以推广到更广泛的对象，固定效应模型则相反。由于纳入的EMMN研究在被试、范式和刺激类型方面多有不同，且我们希望结果可以推广到更广泛的人群，因此选择了随机效应模型进行当前的元分析。此外，异质性检验结果也会被用来评估选择随机效应模型的合理性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "效应量的异质性将通过 $\\mathsf { Q }$ 检验和I检验来评估。在Q检验中， $\\mathsf { Q }$ 值的显著性被用来衡量异质性的显著性。 $I ^ { 2 }$ 反映了实际效应大小差异所解释的总体方差的比例$I ^ { 2 }$ 越大，异质性越大[57]。 $\\mathsf { Q }$ 检验和I2检验被来评估采用随机效应模型的合理性，与大多数元分析研究类似， $I ^ { 2 } > 2 5 \\%$ 被认为是选择随机效应模型的必要条件。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "发表偏倚通过漏斗图的 Egger回归检验和Duval and Tweedie 减补法以及",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rosenberg 失安全系数(fail-safe N，Nfs)进行评估。在 Egger回归检验中，Egger截距及其 $9 5 \\%$ 的置信区间若显著大于零，则漏斗图被认为显著地不对称[58]，表明总效应量可能存在发表偏倚。通过Duval and Tweedie减补法评估减补的效应量是否会对总效应量造成显著的影响[59]。通过Nfs来评估需要多少个无显著意义的研究才能使得当前研究的总效应量变得不显著。如果系数大于$5 \\mathsf { K } { + } 1 0$ ，K为效应量数[0]，则认为显著的效应是稳定存在的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "总效应量、分析异质性、分析调节效应和评估发表偏倚都用R软件(3.6.3)的metafor程序包(2.1-0)计算。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结果包含了满足前述条件的36 篇文献的数据(见图1)，一共有733名被试。EMMN效应及其调节效应将从早期区间和晚期区间报告。结果显示，在早期区间大部分EMMN效应包含在 $1 3 0 \\mathrm { ~ - ~ } 2 0 0 \\mathrm { m s }$ 之间，而晚期区间的大部分包含在200 -350ms之间。其中29篇研究 $\\left( \\mathbb { K } \\ = \\ 4 9 \\right)$ 被用来计算早期EMMN效应，32篇研究 $\\mathrm { ( K ~ = ~ }$ 54)被用来计算晚期EMMN效应。22篇研究 $\\mathrm { ( K ~ = ~ 2 4 ) }$ 被用来计算早期EMMN的消极偏向，24篇研究 $\\left( \\mathrm { ~ K ~ } = ~ 2 5 \\right)$ 被用来计算晚期EMMN的消极偏向。图2和图3中的森林图分别展示了在两个时间窗里的EMMN效应量和EMMN消极偏向的效应量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1总效应量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1.1EMMN效应",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "早期EMMN的总效应量是显著的， $\\mathrm { ~ d ~ } = \\mathrm { ~ - 0 . 6 3 ~ }$ ，CI: $- 0 . 7 5$ to $- 0 . 5 1$ ，p<0.001，晚期EMMN的总效应量也是显著的， $\\mathrm { ~ d ~ } ~ = ~ - 0 . 6 3$ ，CI： $- 0 . 7 6$ to$- 0 . 5 1$ ， $\\mathrm { ~ p ~ } \\ : < \\ : 0 . 0 0 1$ ，表明面孔情绪诱发了显著的早期和晚期EMMN。对这两组研究的异质性分析发现，早期 EMMN研究的 $Q \\left( 4 8 \\right) ~ = ~ 1 3 2$ ， $\\mathrm { ~ p ~ } \\ : \\langle \\ : \\ : 0 . 0 0 1$ ， $I ^ { 2 } = 6 4 \\%$ 晚期 EMMN研究的 $Q ( 5 3 ) ~ = ~ 1 8 9$ ， $\\mathrm { ~ p ~ } \\ < \\ 0 . 0 0 1$ ， $I ^ { 2 } = 7 2 \\%$ ，两组数据都存在显著的异质性，表明都采用随机效应模型比较合适。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1.2EMMN的消极偏向",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由消极EMMN减去积极EMMN得到EMMN的消极偏向，其早期的总效应量是显著的， $\\mathrm { ~ d ~ } = \\mathrm { ~ - 0 . ~ } 2 8$ ，CI: $- 0 . 4 8$ to $- 0 . 0 9$ ， $\\mathrm { ~ p ~ } = \\ 0 . 0 0 4$ ，与早期EMMN相似，晚期EMMN 也具有显著的消极偏向， $\\mathrm { ~ d ~ } = \\ - - 0 . 3 2$ ，CI: $- 0 . 5 4$ to $- 0 . 1 0$ ， $\\mathrm { ~ p ~ = ~ 0 . 0 0 4 }$ 。表明早期和晚期的MMN都有消极偏向。对这两组数据的异质性分析发现，它们的异质性适中，早期效应 $\\mathsf Q \\left( 2 3 \\right) \\ = \\ 4 9$ ， $\\mathrm { ~ p ~ } \\ : < \\ : 0 . 0 1$ ， $I ^ { 2 } = 5 7 \\%$ ；晚期效应 $\\mathsf { Q } ( 2 5 ) \\ =$ 78， $\\mathrm { ~ p ~ } \\langle \\ 0 . 0 1$ ， $I ^ { 2 } = 6 8 \\%$ ，都超过了前述的标准 $( 2 5 \\% )$ ，因此采用随机效应模型是合适的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2调节效应分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2.1偏差-标准刺激对对EMMN的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "偏差-标准刺激对的类型对早期MMN效应的调节作用显著， $\\mathsf Q \\left( 1 \\right) \\mathsf { \\Omega } = \\mathsf { \\Omega } 7 . \\mathsf { \\Omega } 3$ ，p<0.01，对晚期MMN效应的调节作用不显著， $\\mathsf Q ( 1 ) \\ = \\ 1 . 5 1$ ， $\\mathrm { ~ p ~ } = \\ 0 . \\ 2 1$ ，表明物理属性的差异类型显著地影响早期MMN效应，但对晚期MMN效应影响不显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2.2概率对EMMN的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在相同偏差-标准的研究中，概率对0－200ms 的 EMMN效应没有显著影响，${ \\sf Q } ( 1 ) \\ = \\ 0 . 2 8$ ， $\\mathrm { ~ p ~ } = \\mathrm { ~ 0 . ~ 6 0 ~ }$ ；对 $2 0 0 \\ \\textrm { -- } \\ 4 0 0 \\mathrm { m s }$ 的EMMN效应也没有显著的影响，${ \\sf Q } ( 1 ) \\ = \\ 0 . 0 2$ ， $\\mathrm { ~ p ~ } = \\mathrm { ~ 0 . ~ 8 9 ~ }$ ；表明在相同偏差-标准的研究中，概率并不会影响早期和晚期的EMMN效应。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2.3偏差-标准刺激对对EMMN的消极偏向的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "偏差-标准刺激对的类型对早期MMN消极偏向的调节作用不显著， $\\begin{array} { l l } { { \\ Q \\left( { 1 } \\right) } } & { { = } } \\end{array}$ 0.12， $\\mathrm { ~ p ~ } = \\ 0 . \\ 7 3$ ，对晚期MMN效应的调节作用也不显著， ${ \\sf Q } \\left( 1 \\right) \\ = \\ 1 . 2 5$ ，p $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 0.26，表明物理属性的差异类型不会影响早期和晚期区间的EMMN消极偏向。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3发表偏倚 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "用对漏斗图的 Egger 回归检验和Nfs 以及Duval and Tweedie减补法来评估和校正发表偏倚。Egger回归检验发现早期EMMN效应的漏斗图存在显著的不对称性， $\\mathrm { t } \\left( 4 8 \\right) ~ = ~ - 6 . 7 1$ ， $\\mathrm { ~ p ~ } \\ : \\langle \\ : \\ : 0 . 0 0 1$ ，表明极有可能存在发表偏倚。Nfs为2705（>$5 \\mathrm { K } ~ + ~ 1 0 ~ = ~ 2 5 5 )$ ，需要大量无意义或效应量相反的研究才能使结果变得不显著。通过DuvalandTweedie减补法，减补了10个效应量大但样本量小的研究，得到矫正后的早期MMN效应依然是显著的， $\\mathrm { ~ d ~ } = \\ - - 0 . 5 1$ ，CI: $- 0 . 6 3$ to -0.39，且与校正前的效应量无显著差异 ${ \\mathrm { ( p ~ = ~ } 0 . 1 1 \\mathrm { ) } }$ 。晚期EMMN 效应的发表偏倚检验有相似的结果，Egger回归检验结果显示漏斗图存在显著的不对称性，t(53）=$- 6 . 5 4$ ， $\\mathrm { ~ p ~ } \\ : \\langle \\ : \\ : 0 . 0 0 1$ ，需要2912个 $( \\textgreater 5 \\mathrm { K } \\ + \\ 1 0 \\ = \\ 2 8 0 )$ 无意义或效应相反的研究才能使结果变得无意义。减补了13个效应量大但样本量小的研究，得到矫正后的晚期MMN效应依然是显著的， $\\mathrm { ~ d ~ } = - 0 . 4 4$ ，CI: $- 0 . 5 7$ to $- 0 . 3 0$ ，但与校正前的效应量显著差异 ${ \\bigl ( } \\mathrm { p } \\ = \\ 0 . \\ 0 3 { \\bigr ) }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "用同样检验纳入的EMMN消极偏向研究的发表偏倚。Egger回归检验发现早期效应的漏斗图是对称的， $\\mathrm { ~ t ~ } ( 2 3 ) ~ = ~ 0 . 0 5$ ， $\\mathrm { ~ p ~ } = \\mathrm { ~ 0 } . 9 6$ ，晚期漏斗图也是对称的，$\\operatorname { t } \\left( 2 6 \\right) ~ = ~ - 1 . 6$ ， $\\mathrm { ~ p ~ } = \\ 0 . \\ 1 3$ 。早期研究的Nfs为87，晚期是109，小于 $5 \\mathrm { K } ~ + ~ 1 0 ~ \\$ 。采用Duval andTweedie减补法发现早期研究数据和晚期数据均不需要进行减补，显示无发表偏倚。三项检验中有一项结果显示可能存在发表偏倚，两项结果显示无发表偏倚。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我们采用元分析技术，系统地回顾了以EMMN为指标的面孔情绪自动加工研究。与大部分vMMN研究一致，我们关注大脑皮层后部0－400ms的差异波成分EMMN。结果发现偏差-标准刺激对(相同/不同)显著影响了早期EMMN效应而晚期EMMN不受影响，早期和晚期 EMMN都受到了情绪类型(消极/积极)的影响，而相同偏差-标准刺激对的研究中，无论在早期还是晚期区间，概率类型(等概率/非等概率)均不影响 EMMN 效应。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.1MMN反映的ERP成分的概率效应",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究关注了0－ 200ms 和200－ 400ms区间的EMMN效应，发现 EMMN 在两个区间内的效应是显著的。在0－200ms的区间，EMMN的时间窗中位数是165ms，与后外侧头皮分布的面孔特异的N170成分的时间窗十分吻合[61，62]。一项面孔情绪诱发的N170的元分析发现，任务相关性显著地调节了N170的情绪效应，任务无关的情况下N170的情绪效应更大[6]，与本项元分析中不同偏差-标准刺激对的结果类似，因为在不同偏差-标准EMMN研究中偏差刺激大多为情绪性面孔，标准刺激大多是中性面孔。然而本项元分析还表明，概率也影响了N170 的波幅，因为相同偏差-标准刺激对的EMMN在0－200ms 也是显著的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "200－400ms的区间内，出现了类似的结果，EMMN时间窗的中位数是275ms，与N250/P3的时间窗接近。有研究表明ERP成分会随着面孔情绪的变化而变化，与中性面孔相比，情绪性面孔会诱发更大的N250/P250[63，64]。本项元分析发现类似的结论，在情绪面孔与任务无关的EMMN研究中，偶然出现的情绪性面孔相对于频繁出现的中性面孔诱发出更大的负波(不同的偏差-标准刺激对",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "EMMN)。另一方面，相同的偏差-标准刺激对的结果显示，偶然出现的面孔诱发的晚期ERP成分比频繁出现的面孔的更负，尽管两种面孔在物理属性上是完全一样的。表明概率影响了晚期面孔情绪相关的ERP成分。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "事实上，大部分被纳入的研究的晚期 EMMN都呈现负波，无论对应的ERP子成分是N250、P250或是别的成分。这表明，低概率呈现的情绪面孔使得ERP 曲线在0－200ms 和200－400ms负向偏移了，即，EMMN反映面孔情绪 ERP的概率效应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.2偏差-标准刺激对对EMMN效应的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如上所述，在0－200ms，偏差-标准刺激对的类型调节了EMMN效应，相对于相同的偏差-标准刺激对，不同的偏差-标准刺激对诱发的EMMN显著更高。而在 200 －400ms内，两者的差别不显著。这些结论与Li等人[19]的研究结论一致，但与Kovarski等人[35]和Kreegipuu 等人[22]的研究不一致，这些研究在同一批被试内研究了相同和不同的偏差-标准刺激对EMMN。前人的研究表明，偏差-标准刺激对不一致时，引起枕颞区的N1或N170效应是视觉不应性，而在200ms之后的效应反映了真正的视觉刺激变化的自动加工[38，65]。本研究综合了现有的EMMN研究发现，在高级视觉信息的自动加工中也存在类似的结论。然而，比较了相同的和不同的偏差-标准诱发的EMMN发现，在0－200ms，相同的偏差-标准也诱发了显著的EMMN，表明排除了物理属性的差异，面孔情绪信息依然能在早期区间内被自动加工。结果暗示，与低级视觉刺激的自动加工不同，具有社会信息的高级视觉刺激的自动加工的程度可能更高。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "这与采用等概率范式的 EMMN研究结果不一致[19,38]，一个可能的原因是等概率范式的EMMN是等概率的相同偏差-标准刺激对的ERP差异波，可能包含了物理属性的差异和概率的差异。在纳入的研究中，相同偏差-标准刺激对的概率很可能是互补(即反向组块中的偏差刺激和标准刺激的概率相加为 $1 0 0 \\% )$ ，这意味标准刺激和偏差刺激尽管物理属性是一样的，但是仍然存在着概率差异。为了检验概率是否也影响EMMN效应，我们比较了相同偏差-标准条件下，等概率和非等概率的EMMN效应量，发现两者的差异在0－200ms和200－400ms都不显著，这说明概率不会影响EMMN效应，即面孔情绪信息的变化能在 $\\mathrm { ~ 0 ~ - ~ } 2 0 0 \\mathrm { m s }$ 和200－ 400ms 内得到自动加工并不是概率效应。另一方面，因为纳入的研究中采用等概率类型的(2项研究)相对于非等概率类型的(11项研究)要少得多，未来需要更多的针对性研究成果来进一步验证该结论。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.3EMMN的消极偏向",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "我们汇总了在同一批被试内比较了两种EMMN的研究的效应量，得到了早期区间和晚期区间的EMMN消极偏向结果，具体来说是愤怒、恐惧、悲伤等消极情绪面孔较积极情绪面孔诱发了更负的EMMN波幅。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "消极情绪和积极情绪的一个区别在于，消极情绪反映一个人生气、恐惧或伤心等感情状态，这些情况可能与危险信息相关。近来，有研究表明相较于积极情绪，消极情绪能在意识下被自动加工9或更容易地突破无意识的阈限[66或更快地输入到杏仁核[67]。一项以P3为研究对象的元分析发现，相对于文字刺激，图片刺激更容易引起消极偏向[48]。结合本研究结果，这表明消极偏向广泛地存在，在面孔情绪的自动加工方面也是如此。消极情绪的偶然出现比积极情绪的偶然出现能引起更强烈的大脑活动，因为相对积极情绪，消极情绪的出现可能与环境中威胁生存的事件的出现有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.4发表偏倚 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，EMMN效应的Nfs远远大于5K＋10，需要大量的未发表的研究才能使研究结果变得不显著，这几乎不可能，提示 EMMN显著的结果是有效的和稳定存在的。另一方面，我们用Egger回归检验漏斗图的对称性，发现了EMMN效应可能存在显著的发表偏倚，预示存在着未发表的研究可能使漏斗图对称。然而这可能并不影响本研究得到的EMMN总效应结论，因为漏斗图应该是围绕真实效应的估计数的对称图，而非零效应，而且漏斗图的不对称性也有可能来源于被纳入研究的高异质性[68]。另一方面，在利用低级的视觉信息为刺激的vMMN 研究中，早期区间的视觉不应性也是存在的[10，11，38]，不同偏差-标准刺激对的MMN效应显著大于相同的情况，与本项EMMN元分析研究中偏差-标准刺激对的调节效应类似。我们推测，在未发表的EMMN研究里也极可能存在这样的趋势。因此，发表偏倚很可能不影响本研究的调节效应分析结论。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6总结 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本项元分析研究讨论了几个影响EMMN效应的因素。首先，明确了EMMN在早、晚两个时间窗口(分别为0－200ms 和200－400 ms)均有显著的效应，表明EMMN 反映了情绪相关ERP的概率效应。其次，偏差-标准刺激对的类型而非概率影响了EMMN效应，具体来说，在早期时间窗内，不同偏差-标准刺激对的EMMN明显大于相同的情况，表明在不同偏差-标准刺激对的研究中EMMN效应会被高估。在相同偏差-标准刺激对研究中，概率对EMMN效应没有显著影响，无论是早期还是晚期时间窗。最后，EMMN具有消极偏向，具体来说是，愤怒、悲伤、恐惧等消极情绪面孔诱发的EMMN显著大于积极情绪面孔诱发的。这些结果表明，EMMN效应受到偏差-标准刺激对类型和情绪类型等实验变量的影响。未来研究可采用相同偏差-标准刺激对开展面孔情绪自动加工的研究。另外，因为概率与视觉信息变化的自动加工密切相关，未来可进一步考察EMMN研究中的视觉不应性除了受物理属性差异的影响，是否还受概率影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/c84565294f2d66bcc1f6882c989bc068f0a64b7d3182400a6f0cb2a79615f80f.jpg",
+        "table_caption": [
+            "表1"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>均龄(SD)</td><td>偏差-标准刺激对</td><td>范式</td><td>标准-偏差比</td><td>刺激类型</td><td></td><td>图片呈现</td><td></td><td>电极/ROI</td><td></td></tr><tr><td>作者和年份</td><td>样本(男/女)</td><td></td><td></td><td></td><td></td><td></td><td>单试次呈现图片数</td><td>任务</td><td></td><td></td><td>计算方式：样本量+</td></tr><tr><td>Susac et al.,2004[11</td><td>8(NM)</td><td>NM</td><td>不同</td><td>Oddball</td><td>80%/10%</td><td>真人面孔</td><td>1</td><td>*探测眼镜</td><td>150ms</td><td>PO8</td><td>p□</td></tr><tr><td>Zhao &Li,2006[37]</td><td>14(9/5)</td><td>NM</td><td>不同</td><td>Oddball</td><td>80%/10%</td><td>真人面孔 真人面孔</td><td>1</td><td>探测目标音</td><td>100 ms</td><td>P7/8/PO7/8/CB1/2</td><td>p</td></tr><tr><td>Astikainen & Hietanen, 2009[69]</td><td>NM</td><td>NM</td><td>不同</td><td>Oddball</td><td>90%/10%</td><td></td><td>1</td><td>计算目标词</td><td>200 ms</td><td>01/0z/02</td><td>F</td></tr><tr><td>Chang, Xu,&Shi2010[70]</td><td>16(7/9)</td><td>36.6(112)</td><td>不同</td><td>Oddball</td><td>71%/9%</td><td>简笔画面孔</td><td>1</td><td>*计算目标面孔</td><td>150 ms</td><td>TP7/8/A1/2/T5/6/01/2</td><td>p</td></tr><tr><td>Chang, XuShietal6</td><td>15(5/10)</td><td>36.9(11.5)</td><td>不同</td><td>Oddball</td><td>80%/10%</td><td>简笔画面孔</td><td>1</td><td>*计算目标面孔</td><td>150 ms</td><td>TP7/8/M1/2/P7/8/01/2</td><td>p</td></tr><tr><td>Susac etal.,2010171</td><td>5(5/0)</td><td>24(NM)</td><td>不同</td><td>Oddball</td><td>75%/13%</td><td>真人面孔</td><td>1</td><td>*探测眼镜</td><td>150ms</td><td>P08</td><td>p</td></tr><tr><td>Kimura et al.,2012[28]</td><td>12(2/10)</td><td>22.1(NM)</td><td>相同</td><td>流动标准</td><td>41%5.9%</td><td>真人面孔</td><td>1</td><td>*探测眼镜</td><td>250 ms</td><td>PO8</td><td>t</td></tr><tr><td>Lietal.,2012[1] Stefanics et al.,[]</td><td>12(6/6)</td><td>NM</td><td>相同&不同</td><td>等概率&Oddball</td><td>20%/20% 90%/10%</td><td>真人面孔</td><td>1</td><td>探测圆形</td><td>200 ms</td><td>CB1/2/0z</td><td>p</td></tr><tr><td>Astikainen et al.,29]</td><td>24(13/11)</td><td>33.1(9.9) 23.9(NM)</td><td>相同</td><td>反向组块</td><td></td><td>真人面孔</td><td>4</td><td>探测“+\"变化</td><td>200ms</td><td>后部区域</td><td>FD</td></tr><tr><td>AS Csukly et al.,2013[24]</td><td>10(278)</td><td>33.2(9.8)</td><td>不同</td><td>Oddball 反向组块</td><td>80%/20%</td><td>真人面孔</td><td>1</td><td>听录音并注视“+'</td><td>200ms</td><td>Pz/P7/P8/0z</td><td>均值和标准差</td></tr><tr><td>Ji et al., 2013[43]</td><td>24(13/11)</td><td></td><td>相同</td><td></td><td>90%/10%</td><td>真人面孔</td><td>4</td><td>辨别“+\"变化</td><td>200 ms</td><td>枕题区</td><td>均值和标准差</td></tr><tr><td>Jia et al.,2013[25]</td><td>13(7/6) 15(5/10)</td><td>NM 37(11)</td><td>不同 不同</td><td>Oddball Oddball</td><td>75%/12.5% 70.9%/8.9%</td><td>简笔画面孔</td><td>1</td><td>辨别目标音</td><td>100 ms</td><td>TP7/8/P7/8/PO7/8/CB1/2/01/2</td><td>p</td></tr><tr><td>Kreegipu et al.,21322</td><td></td><td>23.1(3.7)</td><td>相同&不同</td><td>反向组块&Oddball</td><td>62.5%/25%</td><td>简笔画面孔</td><td>1</td><td>*计算目标面孔数</td><td>150 ms</td><td>TP7/8/T5/6/01/2/A1/2</td><td>均值和标准差</td></tr><tr><td>Tang et al.,2013[3</td><td>11(5/6) 17(6/11)</td><td>39.4(14.7)</td><td>不同</td><td>Oddball</td><td>80%/10%</td><td>简笔画面孔 简笔画面孔</td><td>1</td><td>*探测非正常面孔 *计算目标面孔数</td><td>249 ms</td><td>枕区</td><td>p</td></tr><tr><td>7 Xu et al.,2013[23]</td><td>29(15/14)</td><td>23.7(NM)</td><td>相同</td><td>反向组块</td><td>NM</td><td>简笔画面孔</td><td>1</td><td>探测“+\"变化</td><td>150 ms</td><td>TP7/8 P7/8/PO7/8/CB1/2</td><td>p</td></tr><tr><td>Liu,Rigoulotl,]</td><td>19(9/10)&</td><td>25(3.9)&</td><td>相同</td><td>反向组块</td><td>80%/10%</td><td>真人面孔</td><td>2</td><td>探测圆形</td><td>150 ms 800 ms</td><td>POz/PO3/4/7/8/9/10/0z/01/2/P5/6/7/8</td><td>均值和标准差</td></tr><tr><td></td><td>19(9/10)</td><td>24.6(2.8)</td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td>F</td></tr><tr><td>Liu, Xiao,et al.,572] Soshi et al.,2015[30</td><td>19(19/0)</td><td>13.7(NM)</td><td>不同</td><td>Oddball</td><td>80%/20%</td><td>真人面孔</td><td>2</td><td>探测并计算\"+\"变化</td><td>150ms</td><td>TP7/8/P7/8/PO7/8/CB1/2/O1/2</td><td>均值和标准差</td></tr><tr><td>Vogel et al.,2015[31]</td><td>21(6/15)</td><td>29.2(NM)</td><td>不同</td><td>Oddball</td><td>75%/6.25%</td><td>简笔画面孔</td><td>1</td><td>探测圆形</td><td>200 ms</td><td>枕区</td><td>p</td></tr><tr><td>Pl Liu et al, 2016[26)</td><td>20(15/5)</td><td>30.5(6.3)</td><td>不同</td><td>Oddball</td><td>70%/10%</td><td>真人面孔</td><td>1</td><td>探测红星</td><td>150 ms</td><td>P7/8/PO7/8/P09/10</td><td>均值和标准差</td></tr><tr><td>Wang etal,，2016017]1</td><td>17(8/9)</td><td>26.2(NM)</td><td>不同</td><td>Oddball</td><td>80%/20%</td><td>真人面孔</td><td>2</td><td>探测并计算“+\"变化</td><td>150 ms</td><td>TP7/8/P7/8/PO7/8/01/2</td><td>均值和标准差</td></tr><tr><td>H Kovarski et al.,2017[35]</td><td>19(10/9)</td><td>24(2.2) 24.2(4.1)</td><td>不同 相同&不同</td><td>Oddball</td><td>80%/20%</td><td>真人面孔</td><td>4</td><td>探测“+\"变化</td><td>200ms</td><td>枕区</td><td>p</td></tr><tr><td>Liu et al., 20173]</td><td>14(10/4)</td><td></td><td></td><td>等概率&Oddball</td><td>16%/10%</td><td>真人面孔</td><td>1</td><td>探测“+\"变化</td><td>150 ms</td><td>01/02/PO3/PO4/PO7/PO8</td><td>p</td></tr><tr><td>作者和年份</td><td>18(8/10) 样本(男/女)</td><td>21.8(2.0) 均龄(SD)</td><td>相同 偏差-标准刺激对</td><td>反向组块</td><td>80%/10%</td><td>真人面孔</td><td>1</td><td>探测圆形</td><td>800 ms</td><td>POz/PO3/4/7/8/9/10/0z/01/2/P5/6/7/8 电极/ROI</td><td>F</td></tr><tr><td>She et al., 2017[52]</td><td></td><td></td><td></td><td>范式</td><td>标准-偏差比</td><td>刺激类型</td><td>单试次呈现图片数</td><td>任务</td><td>图片呈现</td><td></td><td>计算方式：样本量+</td></tr><tr><td>Wu et al.,20174]</td><td>23(12/11) 30(11/19)</td><td>32.6(11.3) 64.8(6.0)</td><td>不同 不同</td><td>oddball Oddball</td><td>80%/10% 80%/10%</td><td>简笔画面孔 简笔画面孔</td><td>2</td><td>探测\"+\"变化 辨别“+\"变化</td><td>100 ms 150 ms</td><td>PO7/8 P7/8/P07/8/01/2/M1/2.</td><td>均值和标准差</td></tr><tr><td>Li et al., 2018[34]</td><td>38(19/19)</td><td>32.4(7.4)</td><td>相同</td><td>反向组块</td><td>82%/09%</td><td>真人面孔</td><td>2 4</td><td>辨别“+\"变化</td><td>200ms</td><td>P7/8/FCZ/CZ</td><td>p 均值和标准差/p</td></tr><tr><td>Song et al.,2018[75]</td><td>NM</td><td>NM</td><td>不同</td><td>Oddball</td><td>80%/10%</td><td>简笔画面孔</td><td>2</td><td>探测“+\"变化</td><td>150 ms</td><td>P7/8/PO7/8/01/2</td><td>p</td></tr><tr><td>Stefanics et al., 2018[15]</td><td>34(17/17)</td><td>23.9(3.6)</td><td>相同</td><td>流动标准</td><td>86%/14%</td><td>真人面孔</td><td>4</td><td>探测“+\"变化</td><td>200ms</td><td>枕颞区和枕区</td><td>p</td></tr><tr><td>Vogl etal,，20183]</td><td>18(15/3)</td><td>30.6(6.5)</td><td>不同</td><td>Oddball</td><td>70%/10%</td><td>真人面孔</td><td>1</td><td>探测红星</td><td>150 ms</td><td>P7/8/PO7/8/9/10</td><td>均值和标准差</td></tr><tr><td>Yin et al.,2018[27]</td><td>25(12/13)</td><td>30.9(13.2)</td><td>不同</td><td>Oddball</td><td>80%/10%</td><td>简笔画面孔</td><td>2</td><td>探测“+\"变化</td><td>100 ms</td><td>P7/8/PO7/8/01/2/M1/2</td><td>p</td></tr><tr><td>Kuehne eta., 2019[46]</td><td>19(11/8)</td><td>26.3(7.7)</td><td>相同</td><td>等概率</td><td>100%/10%</td><td>真人面孔</td><td>2</td><td>辨别\"+\"变化</td><td>200 ms</td><td>P7/8/PO7/8</td><td>均值和标准差</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/08477c7117f959de2c965027615fb9f94318cf187ab64c22fb9d7bad126d95ab.jpg",
+        "img_caption": [
+            "图1：文献筛选流程",
+            "图2：森林图：早期MMN 和晚期MMN的效应量和时间窗。情绪类型：愤怒(A)，恐惧(F)，快乐(H)，伤心(S)，中性(N)，消极(Ne)，积极 $( \\mathrm { P o } )$ 。"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "偏差-标准 研究信息 情绪 早期MMN效应量[] 情绪 晚期MMN效应量[.] 时间窗[ms]  \n不同 Zhao & Li. 2taen.2009Xa 2010.p22013.neutlsand t2011 f2013.neutralstandard2015 H2D15017alEMN 工2zdballEMMNS+H018 u  \n中 20185 s-EMVNB017.00mtrollEMMNA A A 2012 012A 2013A A Kueta 司  \n因向 pouletAA xAAA 2018  \n用同 A标准 早期中位数=15m晚期中位数=278m  \nHA(0)  \n偏差-标准 研究信息 情绪 早期MMN效应量[.] 情绪 晚期MMN效应量[.] 时间窗[ms]  \n不同 Zhao & Li, 2006 S-H S-H  \n福有 Astngnn,&Ssi, Ne-o NE-  \n不同 Chang, Xu, Shi,et al.,2010.exp1 S-H S-H 1  \n不同 Chang, Xu, Shi, et al., 2010.exp2 S-H S-H  \n不同 Astikainen et al.,2013 F-H  \n不同 Jetal.,2013 A-H A-H  \n不同 Jia et al.,2013 Ne-Po Ne-Po  \n不同 Kreegipuu et al., 2013.neutral standard A-H A-H  \n不同 Tang et al., 2013 Ne-Po Ne-Po  \n不同 Liu, Xiao et al., 2015 F-H 9 F-H  \n不同 Soshi et al., 2015 A-H  \n不同 Liu et al., 2016 F-H F-H  \n不同 Wang et al., 2016 Ne-Po Ne-Po  \n不同 She et al., 2017 S-H  \n不同 Wu et al.,2017 S-H SH  \n不同 Song et al., 2018 SH  \n不同 Yin et al., 2018 S-H S-H  \n不同 Guo et al.,2020 S-H S-H  \n不同 Zhang et al., 2020 S-H S-H  \n相同 Stefanics et al.,2012 F-H 0 F-H  \n相同 Csukly et al., 2013 F-H F-H  \n相 Kreegipuu et al., 2013.emotional standard A-H A-H  \n相同 Xu et al., 2013 S-H Q S-H Ω  \n相同 Li et al., 2018 F-H F-H 0=  \n相同 Kuehne et al., 2019 S-H S-H  \n相同 Chen et al., 2020 F-H F-H  \n不同偏差标准刺激对总效应量 + + 早期中交数=170md 1 早湘MMN  \n相同偏差-标准刺激对总效应量 中 # 期中分数=275m5 = = = J MMN110 = H",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7ff1fe9fa77c830083864bde8dd031e6d860c207a3623a7244672f1ba313327.jpg",
+        "img_caption": [
+            "图3：森林图：早期EMMN和晚期EMMN的消极偏向效应量和时间窗。情绪类型：愤怒(A)，恐惧(F)，快乐(H)，伤心(S)，消极(Ne)，积极(Po)。"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "图4：漏斗图：左上、右上、左下、右下分别是早期和晚期EMMN效应、早期和晚期EMMN消极偏向效应的漏斗图。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[1].Stefanics,G.；Csukly, G.；Koml6si, S.；Czobor,P.；Czigler, I.； Czigler, I.，Processing of unattended facial emotions: A visual mismatch negativity study. Neuroimage 2012,59 (3),3042-3049. [2]. Hahn,S., Emotion and attention: When the heart's eye guides the mind's eye. Journal of Cognitive Science 2017,18 (2), 103-115.   \n[3]. Schindler, S.; Bublatzky, F.， Attention and emotion: An integrative review of emotional face processing as a function of attention. Cortex 2020, 130,362-386.   \n[4]. Mermillod, M.；Grynberg, D.；Pio-Lopez,L.；Rychlowska, M.；Beffara,B.；Harquel,S.; Vermeulen,N.；Niedenthal,P.M.；Dutheil,F.; Droit-Volet, S.,Evidence ofrapid modulation by social information of subjective, physiological, and neural responses to emotional expressions. Frontiers in Behavioral Neuroscience 2018, 11.   \n[5]. Turano,M. T.； Lao, J.； Richoz, A.-R.; de Lissa, P.；Degosciu, S. B. A.; Viggiano, M. P.; Caldara, R.,Fear boosts the early neural coding of faces. Social Cognitive and Affective Neuroscience 2017,12 (12),1959-1971.   \n[6]. Hinojosa, J.A.； Mercado,F.; Carretie,L., N170 sensitivity to facial expresson: A meta-analysis. Neuroscience and Biobehavioral Reviews 2015, 55, 498-509.   \n[7].Rosburg,T.；Weigl, M.; Deuring, G., Enhanced processing of facial emotion for target stimuli. Int. J.Psychophysiol.2019,146,190-200.   \n[8]. Stefanics, G.； Kremlacek,J.; Czigler, I., Visual mismatch negativity: A predictive coding view. Frontiers in Human Neuroscience 2014, 8.   \n[9]. Chen, B.； Sun,P.; Fu, S., Consciousness modulates the automatic change detection of masked emotional faces: Evidence from visual mismatch negativity. neuropsychologia 2020, 144,107459. [10]. Kimura, M.;Schroger, E.; Czigler,I., Visual mismatch negativity and its importance in visual cognitive sciences. Neuroreport 2011,22 (14), 669-673.   \n[11]. Kimura, M., Visual mismatch negativity and unintentional temporal-context-based prediction in vision. Int. J. Psychophysiol. 2012,83 (2),144-155.   \n[12]. Czigler, I.； Sulykos,I.， Visual mismatch negativity to irrelevant changes is sensitive to taskrelevant changes. Neuropsychologia 2010, 48 (5),1277-1282.   \n[13].Fu, S.； Fan, S.; Chen,L.,Event-related potentials reveal involuntary processing of orientation changes in the visual modality. Psychophysiology 2003,40 (5), 770-775.   \n[14].Sulykos,I.； Czigler,I.， One plus one is less than two: Visual features elicit non-additive mismatch-related brain activity. Brain Research 2011,1398, 64-71.   \n[15].Stefanics, G.；Heinzle,J.；Horvath,A.A.; Stephan, K.E., Visual mismatch and predictive coding: A computational single-trial ERP study. Journal of Neuroscience 2018,38 (16), 4020-4030. [16]. Kecskés-Kovacs,K.； Sulykos,I.; Czigler,I., Is it a face of a woman or a man? Visual mismatch negativity is sensitive to gender category. Frontiers in Human Neuroscience 2013,7.   \n[17]. Wang, S.; Li, W.; Lv, B.; Chen, X Liu, Y.; Jiang, Z., ERP comparison study of face gender and expression processing in unattended condition. Neuroscience Letters 2016, 618, 39-44.   \n[18].Amado, C.; Kovacs, G.， Does enhancement or repetition suppression explain visual mismatch negativity? European Journal of Neuroscience 2016,43 (12),1590-1600.   \n[19].Li, X.；Lu, Y.；Sun,G.；Gao, L.； Zhao,L.， Visual mismatch negativity elicited by facial expressions: New evidence from the equiprobable paradigm. Behavioral and Brain Functions 2012, 8:7   \n[20]. Winkler, I.; Czigler,I.,Evidence from auditoryand visual event-related potential (ERP) studies of deviance detection (MMN and vMMN) linking predictive coding theories and perceptual object representations.Int. J. Psychophysiol. 2012, 83 (2),132-143.   \n[21].丁小斌；刘建邑；王亚鹏；康铁君;党宸,情绪变化的自动化加工：来自 EMMN的启示.心 理科学进展2020,28(1),85-97.   \n[22]. Kreegipuu,K.；Kuldkepp, N.；Sibolt, O.；Toom, M.；Allik, J.； Naatanen,R.，vMMN for schematic faces: Automatic detection of change in emotional expression. Frontiers in Human Neuroscience 2013, 7 (714).   \n[23]. Xu, Q.; Yang, Y.；Wang, P.;Sun, G.; Zhao,L., Gender differences in preatentive processing of facial expressions: An ERP study. Brain Topography 2013,26 (3),488-500.   \n[24]. Csukly, G.； Stefanics, G.； Komlosi, S.； Czigler,I.; Czobor, P.,Emotion-related visual mismatch responses in schizophrenia: Impairments and correlations with emotion recognition. Plos One 2013,8 (1n) 位分析.中华医学杂志2013,93 (35),2806-2809.   \n[26].Liu,T.；Xiao, T.； Shi, J.， Automatic change detection to facial expressons in adolescents: Evidence from visual mismatch negativity responses. Frontiers in Psychology 2016,7.   \n[27].Yin, G.；She,S.；Zhao,L.； Zheng, Y., The dysfunction of processing emotional faces in schizophrenia revealed by expression-related visual mismatch negativity. NeuroReport 2018, 29 (10), 814-818.   \n[28].Kimura, M.；Kondo,H.；Ohira, H.; Schröger， E.，Unintentional temporal context-based prediction of emotional faces: An electrophysiological study. Cerebral Cortex 2012,22(8),1774-1785. [29]. Astikainen, P.； Cong, F.；Ristaniemi, T.; Hietanen, J. K.,Event-related potentials to unattended changes in facial expressions: Detection of regularity violations or encoding of emotions? Frontiers in Human Neuroscience 2013, 7.   \n[30]. Soshi, T.；Noda, T.；Ando, K.；Nakazawa, K.；Tsumura, H.; Okada, T., Neurophysiological modulation of rapid emotional face processing is associated with impulsivity traits. Bmc Neuroscience 2015,16 (1).   \n[31]. Vgel, B. O.； Shen, C.; Neuhaus,A. H., Emotional context facilitates cortical prediction error responses. Human Brain Mapping 2015,36 (9),3641-3652.   \n[32].Liu,P.；Rigoulot, S.; Pell,M. D., Cultural differences in on-line sensitivity to emotional voices: Comparing East and West.Frontiers in Human Neuroscience 2015,9.   \n[33]. Vogel, B. O.；Stasch, J.；Walter,H.； Neuhaus,A. H.，Emotional context restores cortical prediction error responses in schizophrenia. Schizophrenia Research 2018,197, 434-440.   \n[34].Li, Q.； Zhou, S.； Zheng,Y.; Liu, X.,Female advantage in automatic change detection of facial expressions during a happy-neutral context: An ERP study. Frontiers in Human Neuroscience 2018,12. [35]. Kovarski, K.；Latinus, M.; Charpentier, J.; Clery, H.； Roux, S.;Houy-Durand,E.; Saby,A.; Bonnet-Brilhault,F.； Batty, M.; Gomot, M.,Facial expression related vMMN: Disentangling emotional from neutral change detection. Frontiers in Human Neuroscience 2017, 11.   \n[36].Chang, Y.；Xu, J.；Shi,N.；Zhang, B.; Zhao,L.，Dysfunction of processing task-irrelevant emotional faces in major depressive disorder patients revealed by expression-related visual MMN. Neuroscience Letters 2010,472 (1),33-37.   \n[37]. Zhao,L.; Li,J., Visual mismatch negativity elicited by facial expresions under non-attentional condition. Neuroscience Leters 2006, 410 (2),126-131.   \n[38]. Kimura, M.; Katayama, J. i.； Ohira, H.; Schroger, E., Visual mismatch negativity: New evidence from the equiprobable paradigm. Psychophysiology 2009, 46 (2), 402-409.   \n[39].Schroger, E.; Wolff, C., Mismatch response to changes in sound location. Neuroreport 1996,7 (18),3005-3008.   \n[40]. Ito, T.A.； Larsen, J.； Smith, K.; Cacioppo, J. T., Negative information weighs more heavily on the brain: The negativity bias in evaluative categorizations. Journal of Personality & Social Psychology 1998, 75 (4), 887-900.   \n[41].Smith, K.；Cacioppo, J. T.；Larsen, J.; Chartrand, T.L., May I have yourattention, please: Electrocortical responses to positive and negative stimuli. Neuropsychologia 20o3,41 (2),171-183. [42].Luo,W.；Feng, W.；He, W.；Wang, N.-Y.； Luo, Y.-J., Three stages of facial expression processing: ERP study with rapid serial visual presentation. Neuroimage 2010, 49 (2),1857-1867. [43].季淑梅；李围；刘鹏；边志杰,卡通表情诱发的视觉失匹配负波研究.生物医学工程学杂志 2013,30 (3), 476-480.   \n[44]. Zhang, Y.； Chen, J.； Hou, X.；Guo, Y.； Lv,R.； Xu, S.； Nie, S.; Liu, X., Dysfunction of processing task-irelevant emotional faces in primary insomnia patients: An evidence from expressionrelated visual MMN. Sleep and Breathing 2020.   \n[45]. Guo,Y.; Chen, J.； Hou, X.； Xu, S.；Ma,Y.； Nie, S.； Han, M.； Zhang, Y.； Lv,R.； Hong, Y.; Liu, X., Pre-attentive dysfunction of processing emotional faces in interictal migraine revealed by expression-related visual mismatch negativity. Brain Research 2020, 1738,146816.   \n[46]. Kuehne, M.； Siwy,I.； Zaehle, T.；Heinze,H.-J.; Lobmaier, J. S., Out of focus: Facial feedback manipulation modulates automatic processing of unattended emotional faces. Journal of Cognitive Neuroscience 2019,31 (11),1631-1640.   \n[47].Jennions, M. D.; Moller, A. P., A survey of the statistical power of research in behavioral ecology and animal behavior. Behavioral Ecology 2003,14 (3),438-445.   \n[48]. Yuan, J.;Tian, Y.；Huang, X.;Fan, H.; Wei, X., Emotional bias varies with stimulus type, arousal and task seting: Meta-analytic evidences. Neuroscience and Biobehavioral Reviews 2019,107, 461-472.   \n[49]. Schluiter, H.; Bermeitinger, C.,Emotional oddbal: A review on variants,results,and mechanisms. Review of General Psychology 2017,21 (3), 179-222.   \n[50]. Kremlacek, J.； Kreegipuu, K.;Tales,A.； Astikainen, P.；Poldver, N.； Naatanen, R.; Stefanics, G., Visual mismatch negativity (vMMN): A review and meta-analysis of studies in psychiatric and neurological disorders. Cortex 2ul6, 80,/6-112.   \n[51].Susac,A.； Ilmoniemi, R. J.； Pihko,E.； Supek, S.， Neurodynamic studies on emotional and inverted faces in an oddball paradigm. Brain Topography 2004,16 (4), 265-268.   \n[52].She, S.； Li,H.； Ning,Y.； Ren,J.； Wu,Z.； Huang,R.； Zhao,J.； Wang, Q.; Zheng, Y.,Revealing the dysfunction of schematic facial-expresson processing in schizophrenia: A comparative study of different references.Frontiers in Neuroscience 2017, 11.   \n[53].Tang,D.；Xu, J.；Chang, Y.；Zheng, Y.；Shi, N.；Pang, X.； Zhang, B., Visual mismatch negativity in the detection of facial emotions in patients with panic disorder. Neuroreport 2013,24 (5), 207-211.   \n[54]. Lipsey, M. W.; Wilson, D.B., Practical Meta-analysis. Sage: Thousand Oaks,2001.   \n[55j. Borenstein, M.；Hedges,L. V.；Higgins, J. P.T.; Rothstein, H. R., Meta-analysis methods based on direction and p-values. In Introduction to Meta-Analysis, John Wiley & Sons, Ltd: 2009; pp 325- 330.   \n[56]. Borenstein, M.； Hedges,L.V.；Higgins,J.P.T.; Rothstein, H.R.,A basic introduction to fixedeffect and random-effects models for meta-analysis. Research Synthesis Methods 2010,1(2),97-111. [57]. Higgins, J.P.T.； Thompson,S. G.； Deeks, J. J.; Altman, D. G., Measuring inconsistency in metaanalyses.British Medical Journal 2003,327(7414),557-560.   \n[58]. Egger, M.； Smith, G. D.; Schneider, M.; Minder, C., Bias in metaanalysis detected by a simple, graphical test. British Medical Journal 1997, 629-634.   \n[59].Duval, S.; Tweedie, R., Trim and fil: A simple funnel-plot-based method of testing and adjusting for publication bias in meta-analysis.Biometrics 2000.   \n[60]. Rosenberg, M. S., The file-drawer problem revisited: A general weighted method for calculating fail-safe numbers in meta-analysis. Evolution 2005,59(2),464 468.   \n[61]. Qiu, R.； Wang, H.; Fu, S., N170 reveals the categorical perception effct of emotional valence. Frontiers in Psychology 2017, 8.   \n[62].Carmel, D.；Bentin， S.，Domain specificity versus expertise: Factors influencing distinct processing of faces. Cognition 2002,83 (1),1-29.   \n[63]. Eimer, M.; Holmes,A., Event-related brain potential correlates of emotional face processing. Neuropsychologia 2007,45 (1), 15-31.   \n[64]. Dong, X.； Gao, C.； Guo, C.；Li, W.; Cui,L.,Time course of atentional bias in social anxiety: The effects of spatial frequencies and individual threats. Psychophysiology 2020.   \n[65]. Czigler,I.；Balazs,L.; Winkler,I.,Memory-based detection of task-irrelevant visual changes. Psychophysiology 2002,39 (6), 869-873.   \n[66]. Jiang, Y.； Wu, X.； Saab, R.; Xiao, Y.; Gao, X., Time course of influence on the allocation of attentional resources caused by unconscious fearful faces.Neuropsychologia 2018,l13,104-110. [67].Méndez-Bértolo, C.； Moratti, S.； Toledano,R.；Lopez-Sosa,F.； Martinez-Alvarez,R.； Mah,Y. H.; Vuilleumier, P.； Gil-Nagel, A.; Strange, B.A., A fast pathway for fear in human amygdala. Nature Neuroscience 2016,19,1041-1049.   \n[68].Pham,B.； PlattR.； McAuley,L.； Klassen,T.P.; Moher, D.,Is there a \"best\" way to detect and minimize publication bias?.Evaluation & the Health Professions 2001,24 (2),109-125.   \n[69].Astikainen，P.； Hietanen, J.K.，Event-related potentials to task-irrelevant changes in facial expressions.Behavioral and Brain Functions 2oo9,5:30.   \n[70].常翼；许晶；史娜,卡通表情自动加工的失匹配负波研究.中华行为医学与脑科学杂志2010, 19 (6), 526-528.   \n[71]. Susac,A.； Ilmoniemi, R. J.; Supek, S., Sensory-memory-based change detection in face stimuli. Transl. Neurosci. 2010,1 (4),286-291.   \n[72].Liu, T.；Xiao,T.；Li, X.; Shi, J., Fluid inteligence and automatic neural processes in facial expression perception: An event-related potential study. Plos One 2015,10 (9).   \n[73].Liu,P.；Rigoulot, S.；Pell, M. D.， Culturalimmersion altersemotion perception: Neurophysiological evidence from Chinese immigrants to Canada. Social Neuroscience 2017,12 (6), 685-700.   \n[74]. Wu, Z.； Zhong, X.； Peng, Q.; Chen, B.;Mai, N.; Ning, Y., Negative bias in expresson-related mismatch negativity(MMN) in remited late-life depression: An event-related potential study. Journal of Psychiatric Research 20i7,95,224-230.   \n[75].Song, J.； Cao, C.； Yang,M.； Yao, S.； Yan, Y.； Peng, G.； Ma,P.；Huang, C.； Ding, H.; Xu, G., The dysfunction of processing task-irrelevant emotional faces in pituitary patients: An evidence from expression-related visual mismatch negativity. Neuroreport 2018,29 (4), 328-333. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(通信作者：傅世敏，E-mail：fusm@gzhu.edu.cn) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "曾宪卿：提出元分析研究主题、文献检索方案；",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "曾宪卿、许冰、孙博、叶健彤：阅读文献摘要、全文，确认纳入文献，提取文献中的数据，核对提取的数据;",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "曾宪卿：分析数据、论文起草；  \n许冰、孙博、叶健彤、傅世敏：修改论文初稿;  \n曾宪卿：最终版本修订。",
+        "page_idx": 17
+    }
+]

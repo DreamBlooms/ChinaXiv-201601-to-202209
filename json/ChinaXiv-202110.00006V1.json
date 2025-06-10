@@ -1,0 +1,402 @@
+[
+    {
+        "type": "text",
+        "text": "成像激光雷达标定系统中三维升降转台的性能研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李新‘，陈龙’，耿利斯²，刘虎‘，孙秦宁'，王阳‘，夏君集¹，祝凤荣’，张勇²(1.西南交通大学物理科学与技术学院，四川 成都 611756；2.中国科学院高能物理研究所",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "北京 100049)",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：三维升降转台是高海拔宇宙线观测站(LHAASO)广角切伦科夫望远镜阵列(WFCFA)成像激光雷达标定系统的核心组成部分，主要由慢控子系统、机械子系统和标准零点子系统构成，用于精确控制激光束的出射方向。本文采用高精度数字图像处理技术对三维升降转台的性能进行研究，结果表明其旋转和升降定位精度分别为 $0 . 0 0 5 ^ { \\circ }$ 和 $\\cdot 0 . 0 5 6 \\mathrm { m m }$ 、重复精度分别为 $0 . 0 0 3 ^ { \\circ }$ 和 $r 0 . 0 7 5 \\mathrm { m m }$ ，满足成像激光雷达标定系统的实验要求。三维升降转台的自动控制巡航功能，有效减少了人工干预，提高了系统远程使用的可靠性和效率。标准零点的校准功能可以有效地监测三维升降转台的定位精度并且在失准的情况下，能够实现远程校准，以确保三维升降转台长期高精度稳定运行。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：三维升降转台；PLC；数字图像处理技术；标准零点；自动控制巡航中图分类号：TH741.2 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高海拔宇宙线观测站(Large High Altitude Air Shower Observatory,LHAASO)是以宇宙线观测研究为核心的国家重大科技基础设施[1l。广角切伦科夫望远镜阵列(Wide Fieldof ViewCherenkov Telescope Array,WFCTA)是LHAASO主要探测器之一，由18台广角切伦科夫光望远镜组成。其主要的科学目标是测量 ${ 1 0 } ^ { 1 3 } \\mathrm { e V } \\sim { 1 0 } ^ { 1 8 } \\mathrm { e V }$ 的宇宙线分成份能谱。望远镜通过测量原初宇宙线引发的广延大气簇射中的带电粒子产生的荧光或切伦科夫光来反推原初宇审线的能量和成份。为获得准确原初宇宙线能量，需要对望远镜接收到的光子数进行绝对标定。成像激光雷达标定系统是通过激光光源、激光指向装置、激光接收装置以及其他辅助装置协同工作实现端到端标定的精密光学标定系统。作为发射端的激光指向受控于三维升降转台，激光器发射的 $\\mathbf { N } _ { 0 }$ 个光子进入大气发生瑞利散射和米散射后有 $\\mathbf { \\ddot { N } } _ { 1 }$ 光子被WFCTA的反射镜接收，在反射镜焦平面的硅光电倍增管阵列上形成激光事例的像。通过比较激光事例的光电子数和 $\\mathbf { N } _ { 1 }$ ，实现对望远镜的绝对标定。端到端的激光标定方法对三维升降转台提出了明确的精度要求：指向精度小于 $0 . 0 5 ^ { \\circ }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pierre Auger Observatory荧光望远镜探测器也采用类似激光标定系统，其激光扫描系统由激光光源和两个正交旋转轴上的镜子组成，可将激光束导向地平线以上包括竖直方向在内的任何方向。垂直光束绝对指向精度为 $0 . 0 4 ^ { \\circ }$ ，扫描绝对指向精度为 $0 . 2 ^ { \\circ }$ 、相对指向精度为$1 / 8 0 ^ { \\circ }$ 。HighResolutionFly's Eye 探测器由HiRes1和HiRes2两台望远镜组成，采用大气荧光技术来探测超高能宇宙线。其激光扫描系统由激光器和一系列可旋转的光学镜片组成，其绝对指向精度在任意方向均小于 $0 . 1 ^ { \\circ }$ ，水平方向相对指向精度为 $0 . 0 3 ^ { \\circ }$ ，俯仰方向相对指向精度为 $0 . 0 0 5 ^ { \\circ ^ { [ 6 ] } }$ 。羊八井宇宙线观测站运行的两台 WFCA 样机采用的激光扫描系统能够指向水平以上任何方向并且保证角度分辨率小于 $0 . 1 ^ { \\circ [ 7 ] }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在LHAASO-WFCTA 成像激光雷达标定系统中，由慢控子系统控制三维升降转台，能够精确控制激光束的方向，并且可实现全天区自动控制巡航。通过实验测量得到其参量为：水平方向旋转定位精度、重复精度和空回误差分别为 $0 . 0 0 5 ^ { \\circ }$ 、 $0 . 0 0 3 ^ { \\circ }$ 和 $0 . 0 1 3 ^ { \\circ }$ ；俯仰方向旋转定位精度、重复精度和空回误差分别为 $0 . 0 0 4 ^ { \\circ }$ 、 $0 . 0 0 3 ^ { \\circ }$ 和 $0 . 0 8 7 ^ { \\circ }$ ；升降方向定位精度、重复精度和空回误差分别为 $0 . 0 5 6 \\mathrm { m m }$ 、 $0 . 0 7 5 \\mathrm { m m }$ 和 $0 . 2 0 0 \\mathrm { m m }$ 。实验结果表明三维升降转台的指向精度满足LHAASO-WFCTA激光标定和大气监测实验的需求，也为三维升降转台自动控制巡航准确运行提供依据，结合标准零点监测和校准，保障该转台长期稳定运行。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．设计和构成",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LHAASO位于四川省稻城县平均海拔 $4 4 1 0 \\mathrm { m }$ 的海子山，地处青藏高原的边沿地带，天气变化较快[8]。基于LHAASO 站址的野外自然环境状况和激光标定需求，设计以三维升降转台为重要组成部分的成像激光雷达标定系统。该三维升降转台总体布局如图1所示，主要由三部分组成，分别是慢控子系统、机械子系统和标准零点子系统。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）慢控子系统(Programmable Logic Controller,PLC)实现对三维升降转台可编程式逻辑控制，保证该转台稳定执行全天巡航任务，同时将其运行状态、周围环境等信息实时存储至本地电脑。ActelFPGA控制芯片驱动控制转台的步进电机工作，并用高精度编码器反馈数值信息以实现闭环控制，将 FPGA 通过 RS422 连到本地电脑实现远程操控[9。PLC 可支持20种不同自动控制巡航方案，每种方案可设置多角度巡航，运行期间可随时切换巡航方案。PLC漫控软件的控制精度小于 $0 . 0 1 ^ { \\circ }$ ，该精度为标准零点自行开发的图像处理软件的精度设置提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）机械子系统主要包括三维升降转台和翻盖门。三维升降转台主要由可旋转 $0 { \\sim } 3 6 0 ^ { \\circ }$ 的水平电动旋转台(图2(a))、可旋转- $1 0 { \\sim } 9 0 ^ { \\circ }$ 的俯仰电动旋转台(图2(b))和可平移 $0 { \\sim } 5 1 0 ~ \\mathrm { m m }$ 的电动升降台(图2(c))组成。其水平电动旋转台、俯仰电动旋转台和电动升降台中心承重分别是 $1 0 0 \\mathrm { k g }$ 、 $5 0 \\mathrm { k g }$ 和 $4 5 \\mathrm { k g }$ ，且均用铝合金材料制造。相关信息描述如表1。自动控制巡航前翻盖门自动打开，巡航结束之后自动关闭，起到保护三维升降转台和激光器的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）标准零点子系统主要由CCD相机、 $0 . 0 1 \\%$ 衰减片、坐标纸等组成，用于每天三维升降转台指向的监测和校准。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f6134df1b84878f0ac0e96f27f0a85163914319abad6f8a65f7f8e2b88587e4.jpg",
+        "img_caption": [
+            "图1三维升降转台总体布局",
+            "Fig.1 The overall layout of 3D rotating and lifting platform "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbce237d31e8b89bce2f4701bb3cecfa9d246f32d59647086d78ed91a58c90f2.jpg",
+        "img_caption": [
+            "图2三维升降转台主要机械组成示意图。(a)水平电动旋转台；(b)俯仰电动旋转台；(c)电动升降台Fig.2Schematic diagramof each partof 3Drotatingandliftingplatform."
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）Horizontal motorized rotational stage; (2) Pitch motorized rotational stage; (3) Motorized lifting stage ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c91f695cbd6fa483174dae9ba62800102b7dfaa1b9c4c7ef0069a3d90149c67.jpg",
+        "table_caption": [
+            "表1三维升降转台相关信息",
+            "Table1 Specifications of 3D rotating and lifting platform "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>水平电动旋转台</td><td>俯仰电动旋转台</td><td>电动升降台</td></tr><tr><td>行程</td><td>0°-360°</td><td>-10°-90(水平为0)</td><td>510 mm</td></tr><tr><td>台面尺寸</td><td>r=200 mm</td><td>r=100 mm</td><td>400mm×200mm</td></tr><tr><td>驱动机构</td><td>蜗轮蜗杆</td><td>蜗轮蜗杆</td><td>精研丝杠</td></tr><tr><td>导轨形式</td><td>交叉滚柱导轨</td><td>交叉滚柱导轨</td><td>滑动导轨</td></tr><tr><td>步进电机</td><td>SST57D2121</td><td>SST57D2121</td><td>SST57D2121</td></tr><tr><td>编码器</td><td>高精度编码器</td><td>高精度编码器</td><td>高精度编码器</td></tr><tr><td>主体材料</td><td>铝合金</td><td>铝合金</td><td>铝合金</td></tr><tr><td>中心承重(kg)</td><td>100</td><td>50</td><td>45</td></tr><tr><td>最小调整量</td><td>0.01°</td><td>0.01°</td><td>0.75μm</td></tr><tr><td>减速比</td><td>180:1</td><td>180:1</td><td>1:25</td></tr><tr><td>最大速度</td><td>10%s</td><td>10%s</td><td>2mm/s</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3．性能研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1数字图像处理技术",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了研究三维升降转台定位精度、重复精度和二维夹角大小等性能，我们采用高精度数字图像处理技术测量其参量。首先，如图3 (a)所示搭建实验平台：将固定在三维升降转台顶部的氨氛激光器（其指向稳定且光强呈高斯分布）作为光源，使其光斑打在距离L处的坐标纸上。为了避免光斑图像过曝和杂散光的影响，CCD 相机需要在镜头前放置 $0 . 0 1 \\%$ 衰减片且在暗室内对光斑进行成像。其次，对CCD进行相机定标：通过相机拍照计算出图像像素长度与坐标纸物理长度的比值K，单位是 $\\mu \\mathrm { m / p i x e l }$ ，得到坐标纸光斑中心的具体位置，如图3 (b)所示。从图中可得光斑在横坐标投影下的光强分布,通过高斯函数拟合的平均(mean)值确定光斑中心横坐标值 $x$ ，做类似处理可得光斑中心纵坐标值。最后，计算三维升降转台转动角度 $\\theta$ ：转台转动引起光斑中心位移变化值 $\\Delta x$ ，可通过几何关系公式 $\\theta \\approx K \\Delta x / L$ 算出角位移 $\\theta$ 。该技术测量精度同光源与坐标纸距离 $L$ ，CCD相机与坐标纸距离 $d$ ，激光光源指向稳定性等因素有关。如图3(c)所示，当 $L { = } 2 1 4 . 5 ~ \\mathrm { c m }$ 、 $d { = } 3 5 . 6 \\mathrm { c m }$ 时，对153个光斑图像进行处理后，得到水平方向、俯仰方向和升降上的测量精度分别为 $0 . 0 0 0 9 ^ { \\circ }$ 、 $0 . 0 0 0 9 ^ { \\circ }$ 和0.041$\\mathbf { m } \\mathbf { m }$ ，满足三维升降转台设计指标的实验精度需求。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/da64f63f0cbc7e0ef460be26365c345de78d75dd3cab11ca16884727b89cb193.jpg",
+        "img_caption": [
+            "图3数字图像处理技术原理。(a)实验系统搭建示意图；(b)激光光斑的像和该光斑在横轴投影强度分布(蓝色)及高斯拟合曲线(红色)，X轴表示光斑位置在水平方向上的投影，Y轴表示对应于X轴处的光斑的强度；(c)激光光斑中心位置在水平方向上的投影的分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 The principle of digital image processing method. (a) Schematic diagram of experimental system construction; (b)The image of the light spotand the projected intensitydistributionofthe spoton the horizontal axis (blue)and Gaussan fiting curve (red),X axis represents the position of the laser beam projected in the horizontal direction,and Ymeans the intensityof the laser beam corresponding to the X;(c)The distribution of laser beam position projected in the horizontal direction ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2三维升降转台的性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用上述技术对三维升降转台的性能进行测量。用空回误差、定位精度、重复精度和二维夹角等参量表征三维升降转台的性能。测量过程中使用到 $\\Delta \\theta$ 、△φ、△ω、 $\\Delta z$ 、 $\\Delta z ^ { \\prime }$ 这五个变量，其中 $\\Delta \\theta$ 是慢控软件设定的转动角度， $\\Delta \\varphi$ 是实际转动角度， $\\Delta \\omega$ 是步进电机上编码器的反馈值， $\\Delta z$ 是慢控软件设定的升降位移， $\\Delta z ^ { \\prime }$ 是实际升降位移。实验测量 $\\Delta \\theta = 0 . 0 1 ^ { \\circ }$ 、 $0 . 0 4 ^ { \\circ }$ 、$0 . 1 0 ^ { \\circ }$ 、 $0 . 1 5 ^ { \\circ }$ 、 $0 . 2 0 ^ { \\circ }$ 、 $0 . 2 5 ^ { \\circ }$ 、 $0 . 3 0 ^ { \\circ }$ 、 $0 . 3 5 ^ { \\circ }$ 、 $0 . 4 0 ^ { \\circ }$ 、 $0 . 4 5 ^ { \\circ }$ 、 $0 . 5 0 ^ { \\circ }$ 。当 $\\Delta \\theta \\ge 0 . 2 ^ { \\circ }$ 时， $\\Delta \\theta$ 与 $\\Delta \\omega$ 两者相等；当 $\\Delta \\theta < 0 . 2 ^ { \\circ }$ 时，由于步进电机丢步或转台惯性等原因造成 $\\Delta \\theta$ 与 $\\Delta \\omega$ 两者不相等。仅当 $\\Delta \\theta$ 与 $\\Delta \\omega$ 相等时，进行三维升降转台性能的研究，因而在水平、俯仰方向上取 $\\Delta \\theta = 0 . 2 ^ { \\circ }$ 作为最小控制步长；在升降上取 $\\Delta z { = } 2 \\mathrm { m m }$ ，作为运动步长。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1空回误差 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PLC 慢控软件控制三维升降转台某一维转台先顺时针转动，然后停止(不做任何操作)，再逆时针转动，这个过程齿轮存在一个间隙即空回。反之，也存在空回。如图4所示，在慢控软件上设定转动最小控制步长为 $0 . 2 ^ { \\circ }$ ，以水平方向慢控软件设定的转动角度 $\\Delta \\theta$ 为横坐标，以该方向上实际转动角度 $\\Delta \\varphi$ 为纵坐标，对其坐标点做线性拟合。其中P0是拟合直线的截距，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "P1是拟合直线的斜率，斜率值越接近1，说明 $\\Delta \\theta$ 与 $\\Delta \\varphi$ 一致性越好。图4(a)中的蓝线是三维升降转台在水平方向上逆时针数据点的拟合结果，红线是顺时针数据点的拟合结果，两条拟合线初始值P0 之差即空回误差，其值是 $0 . 0 0 4 ^ { \\circ }$ ；同样得到图 4 (b)俯仰方向的空回误差为$0 . 0 8 7 ^ { \\circ }$ ；图4(c)为升降上的空回误差，测量为 $0 . 2 0 ~ \\mathrm { m m }$ ，其运动步长为 $2 ~ \\mathrm { m m }$ 。三者的线性关系分别为0.99，0.99 和0.99。空回误差是影响三维升降转台指向精度重要因素之一，在设定自动控制巡航方案时，需要考虑到空回误差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) (b) (c) 6 P0 3.595±0.0004 P0 2.636±0.0004 120 PO99.05±0.0005 4 5 P1 0.995±0.0004 P1 -0.991±0.0004 115 P1 0.999±0.0001   \n(p) ap) 110   \n4 42 100 P0 3.591±0.0004 P0 2.723±0.0003 P0 99.25±0.0005 P10.996±0.0003 Pl -0.990±0.0004 95 P1 0.993±0.0001 2 1 -1 0 1 2 -1.5-1-0.500.5 1 1.5 -5 0 5 10 15 20 △0(deg) △0(deg) △z (mm) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ig.4 The backlash of the no-load3D rotating and lifting platform. (a)Horizontal direction; (b)Pitch direction; (c Lifting direction ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2重复精度与定位精度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "重复精度用三维升降转台多次实际转动角度 $\\Delta \\varphi$ 与其设定角度 $\\Delta \\theta$ 的偏差 $( \\Delta \\varphi - \\Delta \\theta )$ 分布的标准偏差(Std Dev)来表示。在实验中，0(相对位置)为初始设定位置，将三维升降转台转动角度设定为 $2 0 ^ { \\circ }$ 或升降设定为 $4 0 \\mathrm { m m }$ ，再回到初始设定位置。本实验重复测量29次得到三维升降转台的重复精度。结果如图5所示，在水平和俯仰方向上重复精度为 $0 . 0 0 3 ^ { \\circ }$ ；在升降方向上重复精度为 $0 . 0 5 8 \\mathrm { m m }$ 。三维升降转台的相对指向精度为 $0 . 0 0 4 ^ { \\circ }$ ，该精度满足实验要求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定位精度是指三维升降转台多次实际转动角度△与其设定角度 $\\Delta \\theta$ 偏差的平均值（mean)，升降方向上类似。本次实验在两种情况下进行测试。第一种情况是大角度转动：$\\Delta \\theta = 2 0 ^ { \\circ }$ ，升降方向 $\\Delta z { = } 4 0 ~ \\mathrm { m m }$ 。其定位精度如图五所示，水平方向的定位精度为 $0 . 0 0 5 ^ { \\circ }$ ，俯仰方向的定位精度为 $0 . 0 0 2 ^ { \\circ }$ ，升降方向的定位精度为 $0 . 0 5 8 \\mathrm { \\ m m }$ 。第二种情况是设定三维升降转台在水平和俯仰方向以最小控制步长 $\\Delta \\theta { = } 0 . 2 ^ { \\circ }$ ，升降方向以 $\\Delta z { = } 2 ~ \\mathrm { m m }$ 进行测量。在水平方向上转动定位精度是 $0 . 0 0 2 ^ { \\circ }$ ；在俯仰方向上定位精度是 $0 . 0 0 2 ^ { \\circ }$ ；在升降上移动定位精度是$0 . 0 2 2 \\mathrm { m m }$ 。在设定自动控制巡航方案时，角度应尽可能小但要大于最小控制步长。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) b) (c)   \nnnrgrgerers 8 Enties 29 Nnnnrt gr enees 15 Enties 29 ne gree Enties 30 Mean -0.0050 Mean -0.0016 Mean -0.0564 6 Std Dev 0.0029 Std Dev 0.0026 Std Dev 0.0575 10 4 E 5 2 .02 0 0 -0.01 0 0.01 -0.01-0.00500.0050.01 0.4-0.2 0 0.2 0.4 △φ (deg) △φ (deg) △z'(mm) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 The repeatability of 3D rotating and lifting platform. (a)Horizontal direction $( 0 ^ { \\circ } - 2 0 ^ { \\circ } - 0 ^ { \\circ } )$ ; (b) Pitch direction （2号 $( 0 ^ { \\circ } - 2 0 ^ { \\circ } - 0 ^ { \\circ } )$ ; (c) Lifting direction $2 1 5 \\mathrm { m m } { - } 2 5 5 \\mathrm { m m } { - } 2 1 5 \\mathrm { m m } )$ （204号 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.3二维夹角",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在LHAASO-WFCTA成像雷达激光标定实验中，PLC控制三维升降转台扫描WFCTA，巡航过程中水平旋转面与俯仰旋转面之间的二维夹角需要精确测量，如果该夹角与 $9 0 ^ { \\circ }$ 相差过大，会造成水平或者俯仰方向角度偏差加大。用数字图像处理技术，对三维升降转台空载和负载的情况分别进行测量。保持俯仰角为 $0 ^ { \\circ }$ ，记录光斑水平方向转动步长为 $0 . 2 ^ { \\circ }$ 的轨迹，同样方式得到方位角为 $0 ^ { \\circ }$ ，俯仰方向上的转动轨迹。共同形成的“十字”光斑轨迹如图6所示，近平行于 $\\mathbf { x }$ 轴的轨迹即水平旋转面与坐标纸平面的交线，近平行于y轴的轨迹即俯仰旋转面与坐标纸平面的交线。由于坐标纸平面与水平旋转面和俯仰旋转面均垂直，所以图中轨迹的夹角就是这两个旋转面的夹角。分别对水平与俯仰方向的测量数据进行拟合，得到空载情况下的二维夹角值为 $8 9 . 9 6 ^ { \\circ } { \\pm } 0 . 1 2 ^ { \\circ }$ (图6(a))，负载情况下的二维夹角值为 $8 9 . 6 8 ^ { \\circ } { \\pm } 0 . 1 2 ^ { \\circ }$ 图6 (b))。将负载情况下的二维夹角值用于激光标定模拟程序中。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1409fd7de7bed362b3280a728f366778a34b9cb847f11a6f3e86655cbf7e83b5.jpg",
+        "img_caption": [
+            "图6二维夹角测量。(a)空载情况下的二维夹角；(b)负载情况下的二维夹角",
+            "Fig.6 The angle between horizontal and vertical plane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) The no-loading two-dimensional angle; (b) The loaded two-dimensional angle ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本次实验测量了学校实验室、LHAASO 站址的L2、L3、L4 激光标定实验室里的三维升降转台,共4台。其中一台的测量结果如表2所示，其中的负载(load,大于 $1 0 \\mathrm { k g } )$ 是指三维升降台上的激光器和保温箱。该结果表明在有负载的情况下，三维升降转台的精度与空载时保持一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6dcf2600602064ba1799acc9e621550520a2e0ac5d70104b006894a7103b1253.jpg",
+        "table_caption": [
+            "表2负载和空载情况下三维升降转台精度",
+            "Table2Accuracies of 3D rotating and lifting platform under load and no-load "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">单位(%mm)</td><td>测量精度</td><td>重复精度</td><td>定位精度(step=0.2)</td><td>空回误差</td></tr><tr><td rowspan=\"2\">水平方向</td><td>负载</td><td>0.0009</td><td>0.002</td><td>0.003</td><td>0.013</td></tr><tr><td>空载</td><td>0.0009</td><td>0.002</td><td>0.002</td><td>0.004</td></tr><tr><td rowspan=\"2\">俯仰方向</td><td>负载</td><td>0.0009</td><td>0.001</td><td>0.004</td><td>0.007</td></tr><tr><td>空载</td><td>0.0009</td><td>0.003</td><td>0.002</td><td>0.087</td></tr><tr><td rowspan=\"2\">升降方向</td><td>负载</td><td>0.034</td><td>0.075</td><td>0.025</td><td>0.190</td></tr><tr><td>空载</td><td>0.041</td><td>0.005</td><td>0.022</td><td>0.200</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.标准零点的校准和长期监测",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为确定三维升降转台在地理上的精确指向，设置升降指定高度、正北方向和俯仰水平的指向为标准零点。用分度值为 $0 . 0 2 \\mathrm { m m / m }$ 的水平尺调试激光标定系统中的转台支架和三维升降转台的水平方位：首先将转台支架调至水平，然后从下至上调试三维升降转台，确保俯仰方向的初始方向水平即俯仰角度为 $0 ^ { \\circ }$ ；用太阳影子法[确定地理上的正北方向，并定义正北方向为 $0 ^ { \\circ }$ ，正东为 $9 0 ^ { \\circ }$ ，同时确定三维升降转台水平方向起始角度为 $0 ^ { \\circ }$ ；升降方向上升$6 0 \\mathrm { m m }$ 的位置作为升降的初始位置。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "三维升降转台长时间运行可能导致初始指向产生偏差，为避免频繁现场校准，需要搭建一套标准零点监测系统。该系统采用与本文图3相同的数字图像处理技术，通过确定激光光斑的位置来标定标准零点的位置。用氮分子激光器作为光源，通过一款自行开发的图像处理软件实时计算光斑的位置。通过该位置与标准零点位置的对比来确定三维升降转台初始方向角度的偏差值。当水平偏差角度 $\\Delta a$ 小于 $0 . 0 1 ^ { \\circ }$ ，且俯仰偏差角度 $\\Delta \\beta$ 小于 $0 . 0 1 ^ { \\circ }$ 时，认为该位置即是标准零点。否则，通过PLC慢控软件微调三维升降转台指向直至标准零点。标准零点校准过程如流程图7所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "氮分子激光的光斑位置是20个激光脉冲位置的平均值，由此得到的光斑水平方向的精度是 $0 . 0 0 4 ^ { \\circ }$ ，俯仰方向的精度是 $0 . 0 0 0 3 ^ { \\circ }$ ，该精度满足实验要求。标准零点长期的监测结果如图8所示，红色三角形代表水平方向的偏差 $\\Delta a$ ，黑色三角形代表俯仰方向的偏差β。图8是连续45 天的长期监测的结果，其14天无需进行校零操作，另外31天需要进行标准零点的校准。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Start calibration PLC control rotation The laser beam points to the standard zero point Take pictures and Brrrnar record them Image spot Centroid calculation △α<0.01° && No △β<0.01° Yes End calibration ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "△·· △α   \n0.03 △β   \n0.02 0 O MMA 全 4 =. A'A A 9 A △ 0 A △△ ： A Ii 1 ： i 1 .   \n0.00 ok ? WrwV   \n-0.01   \n-0.02   \n-0.03 L ⊥ L 0 9 18 27 36 45 Days ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 The process of the standard zero method calibration and monitoring. Fig.8 The long-term monitoring results of standard zero method. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.自动控制巡航",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为满足LHAASO-WFCTA激光标定和大气监测的需求，激光束需要在WFCTA运行期间扫描每台望远镜的视场。为解决在长时间多角度情况下人工控制激光束指向经常出错的问题，采用PLC控制三维升降转台的自动控制巡航方案。该方案可实现全自动运行并增加了视场扫描时间。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首先，根据三维升降转台和每台望远镜的位置及望远镜的指向，确定出三维升降转台对每台望远镜标定和监测时所需要角度。其次，为避免三维升降转台空回误差的影响，巡航方案中的循环转动角度均遵循从小到大的顺序，即先固定一个俯仰角，执行水平方向从小到大扫描，然后至下一个更大的俯仰角度，按照相同方式执行水平方向扫描，以此类推完成一个循环。每转动一个角度需停留一定时间，其目的是减少激光转台转动引起的振动，并给望远镜采集数据预留充分的时间。最后，单次循环时间控制在20分钟内，满足大气监测的要求。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为保证每次激光巡航初始指向保持不变，需要在自动控制循环前进行标准零点校准和监测。此后，三维升降转台从初始位置升至激光发射位置，开始自动循环。望远镜观测结束之后，自动控制循环结束，三维升降转台回到初始位置，完成巡航。巡航过程中，如遇极端恶劣天气等意外情况，可以随时终止自动巡航。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "三维升降转台的定位精度、重复精度和空回误差等性能测量结果保证了该转台自动巡航时的指向准确性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6.结论与展望 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文基于LHAASO-WFCTA 的成像激光雷达标定系统指向精度高和自动巡航的需求，设计和研究了三维升降激光转台，提出了数字图像处理技术并以此测量了三维升降转台的性能参量。实验结果表明三维升降转台的旋转和升降运动定位精度分别为 $0 . 0 0 5 ^ { \\circ }$ 和 $0 . 0 5 6 \\mathrm { m m }$ 旋转和升降重复精度分别为 $0 . 0 0 3 ^ { \\circ }$ 和 $0 . 0 7 5 \\ \\mathrm { m m }$ 。其定位精度、重复精度和空回误差的测量结果，为PLC自动控制三维升降转台的指向准确性提供了依据。此外，在成像激光雷达标定系统中标准零点校准与监控的应用确保了激光指向的长期精度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "成像激光雷达标定系统中的三维升降转台实现了自动控制，且符合LHAASO-WFCTA成像激光雷达标定实验的精度要求，保证了LHAASO-WFCTA光子数的绝对标定、LHAASO天气监测、LHAASO气溶胶的分布等的精确测量，对其他望远镜观测实验具有借鉴意义。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "今后，将通过对望远镜观测到的激光事例的研究，进一步分析和监测三维升降转台的精度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] CAO Z, CHEN M,CHEN S Z,et al. Introduction to Large High Altitude Air Shower Observatory (LHAASO)[J]. Chinese Astronomy and Astrophysics,2019,43(4): 457-478.   \n[2] 纪方，张健欣，陈明君等．基于WCDA水质监测分析 [J].天文研究与技术,2020,17(2):252-257. JI F, ZHANG J X,CHEN M J，et al. Water quality monitoring analysis based on WCDA [J]. Astronomical Research & Technology,2020,17(2): 252-257.   \n[3] 吴文雄，左雄，肖刚等．LHAASO-MD 光电倍增管的性能测试 [J].天文研究与技术，2020,17(2): 258-264. WU W X， ZUO X，XIAO G, et al. The performance test of LHAASO-MD photomultiplier [J]. Astronomical Research & Technology, 2020,17(2): 258-264.   \n[4] FICK B,MALEK M,MATTHEWS J,et al.The Central Laser Facility at the Pierre Auger Observatory[J]. Journal of Instrumentation,2006,1(1): 1-17.   \n[5] ABU-ZAYYAD T, Al-SEADY M, BELOV K, et al. The prototype high-resolution Fly's Eye cosmic ray detector[J].Nuclear Inst & Methods in Physics Research A,2000,450(2): 253-269.   \n[6] WIENCKE L R, GRAY R C,MUMFORD JR, et al. Steerable laser system for UV atmospheric monitoring at the High-Resolution Fly's Eye [C].Spies International Symposium on Optical Science. International Society for Optics and Photonics,1999,3818:56-6.   \n[7] LIUJL, ZHU FR, JIAHY, et al. A calibration of WFCTA prototype telescopes using ${ \\bf N } _ { 2 }$ laser [J]. Nuclear Instruments & Methods in Physics Research A,2018,877:278-287.   \n[8] PI W X,HUANG M, ZHU FR, et al. Extinction coefficients of surface atmospheric aerosol above LHAASO [J].Chinese Physics C,2019,43(8): 117-123.   \n[9] YE W R, SUN Z B, GENG B M. Three freedom degrees precision laser turntable control system based on FPGA[J]. Electronic Design Engineering, 2014,22(11): 15-18. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[10]吕洪魁.LHAASO-KM2A 电磁粒子探测器大动态范围设计及阵列的标定研究[D]．中国科学院大学，",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Experimental study on performance of a three-dimensional rotating and lifting platform in an imaging-lidar calibration ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "system ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Li $\\Chi { \\mathrm { { X i n } } } ^ { 1 }$ , Chen Long', Geng Lisi²,Liu $\\mathrm { H u } ^ { 1 }$ , Sun Qinning',Wang Yang', Xia Junji', Zhu Fengrong': and Zhang Yong2 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SchoolOfPhysicalScienceandTechnologySouthwestJiaotong University,Chengdu611756,China;2.InstituteofHigh ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Energy Physics,Chinese Academy of Sciences,Beijing 1Ooo49,China,Email: zhufr@ihep.ac.cn) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The three-dimensional (3D） Rotating and Lifting Platform (RLP） is the core component of imaging-lidar calibration system for Wide Field of View Cherenkov Telescope Array (WFCTA) of the Large High Altitude Air Shower Observatory (LHAASO). RLP mainly consists of three parts: the Programmable Logic Controllr (PLC)， the mechanical，and the standard zero subsystems，was designed to precisely control the beam pointing of the imaging-lidar system. A high-precision digital image processng method was adopted to investigate the performance of RLP. Our results reveal the rotating and lifting positional accuracies are $0 . 0 0 5 ^ { \\circ }$ and $0 . 0 5 6 \\ \\mathrm { m m }$ ，respectively，while the corresponding repeatabilities are $0 . 0 0 3 ^ { \\circ }$ and $0 . 0 7 5 ~ \\mathrm { m m }$ ,respectively. These outcomes fulfil the experimental requirements for the calibration system. The automatic cruise function of RLP not only minimizes the manual intervention but also improves both the reliability and efciency for a remote control. The standard zero calibration function enables an effective observation of RLP's positional accuracy and implements a remote calibration in the case of a misalignment. As a result, we accomplished an accurately stable operation for our calibration system over a long period of time. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: three-dimensional rotating and lifting platform; PLC; digital image processing method; standard zero;Automatic cruise function ",
+        "page_idx": 8
+    }
+]

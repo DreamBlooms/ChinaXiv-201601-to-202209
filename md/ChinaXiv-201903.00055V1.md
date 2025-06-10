@@ -1,0 +1,223 @@
+# 动态非线性负载用单管逆变ICPT系统参数优化
+
+魏芝浩王春芳」李　震李　聃²（1.青岛大学自动化与电气工程学院青岛2660712.青岛鲁渝能源科技有限公司青岛266071）
+
+![](images/26d45380dde85c70bfc4791d0c097ef3258fe005602147ccbd9361406d07968b.jpg)
+
+魏芝浩男 1990年生，硕士研究生，研究方向为电能变换技术及新能源开发技术。
+
+摘要：针对单管感应耦合电能传输（ICPT）系统在动态非线性负载突变时开关管电压、输出电压的稳定性问题，详细研究了具有一次侧并联二次侧串联（PS）补偿网络的单管ICPT系统的参数优化问题。比较了分别具有一次侧并联二次侧并联（PP)补偿网络与PS补偿网络的单管ICPT系统的特点；画出了所研究系统的一、二次侧等效电路，利用互感等效模型法对该系统进行了建模分析，推导了系统的电压增益、输出功率、效率等表达式，画出并分析了电压增益、输出功率、开关管峰值电压在不同参数变化下随工作频率变化的曲线；最后完成了系统参数的优化设计，使系统在软开关控制下得到了最大功率输出，实验验证了设计的正确性。
+
+关键词：感应耦合电能传输 动态非线性负载补偿网络 建模分析中图分类号：TM46
+
+# The Parameter Optimization of Single Switch Inverter ICPT System for Dynamic Nonlinear Load
+
+![](images/596e56cb466bad13c0d997cc319adfbd8b84f40d668b85d8858782a0f3aabe7b.jpg)
+
+王春芳男 1964年生，博士，教授，研究方向为电能变换技术及新能源开发技术。
+
+Wei Zhihao'Wang Chunfang'Li Zhen1Li Dan2 (1.College of Automation and Electrical Engineering Qingdao University Qingdao266071 China 2.Qingdao Luyu Power Technology Corp.Limited Qingdao266071 China ）
+
+Abstract: Aiming at the stability problem of switch voltage and output voltage, when the single switch inductively coupled power transfer (ICPT） system dynamic nonlinear load suddenly change.The parameter optimization problem of single switch ICPT system with primary parallel secondary series (PS) compensation network is studied in detail. The characteristics of a single switch ICPT system with primary side parallel parallel (PP) compensation network or PS compensation network are compared respectively. The original and secondary equivalent circuits of the system are drawn.The system is modeled by mutual inductance equivalent model method. The expressions of voltage gain, output power and efficiency of the system are deduced. The curve of voltage gain, output power, switch peaks voltage with the operating frequency changing at different parameters are drawn and analyzed. Eventually the parameter optimization design of the system is completed. Under the soft switch control system get the maximum power output is got. Experiment verified the correctness of the design.
+
+Keywords: Inductively coupled power transfer, dynamic nonlinear load, compensation network,modeling analysis
+
+# 1 引言
+
+近年来，随着感应耦合电能传输（InductivelyCoupledPowerTransfer，ICPT）技术的迅速发展,无线供电设备已广泛应用于各个领域，如电动汽车无线充电[1-2]、植入式生物医学系统[3]、无尾家电[4]等。ICPT系统的主电路拓扑大多数采用全桥逆变电路[5]、半桥逆变电路[及单管逆变电路[7]，前两种电路拓扑存在电路结构相对复杂、电源成本相对较高、桥臂上下开关管容易造成直通而烧坏等问题，单管逆变电路是一种新型的无线电能传输拓扑，它具有成本低、控制简单、功率传输高、可实现软开关等优点。目前，常用的补偿拓扑有一次侧并联二次侧并联(PP)、一次侧并联二次侧串联(PS）、一次侧串联二次侧并联（SP）及一次侧串联二次侧串联（SS）[8-10]，单管ICPT系统一般采用PP补偿拓扑[11]，对于要求恒压输出的供电设备来说，该补偿拓扑的系统虽然能使负载正常运行，但在动态非线性负载突变时输出电压与开关管电压会产生较大的波动，从而使器件损坏，降低了系统的可靠性。
+
+为此本文提出了一种PS补偿拓扑的单管ICPT系统，通过系统参数的优化设计，在动态非线性负载突变时使该系统的输出电压与开关管电压的波动幅度大幅减小，从而提高了系统的可靠性。
+
+# 2单管ICPT系统补偿网络
+
+本文所研究的单管ICPT系统的负载为果蔬机、豆浆机类动态非线性负载，需要 $1 0 0 \mathrm { H z }$ ，220V的馒头波供电。为了提高整个系统的功率因数、传输功率及效率，需要对系统一次和二次线圈进行补偿[12]。为了使系统实现零电压软开关且双极性功率传输，一次线圈只能采用并联补偿方式，而二次线圈既可以采用并联补偿方式也可以采用串联补偿方式。单管ICPT系统具体的补偿拓扑结构如图1所示。其中，图1a为PP补偿拓扑结构；图1b为PS 补偿拓扑结构。
+
+PS 补偿拓扑单管ICPT系统的工作过程为：AC220V工频市电经整流桥及 $\boldsymbol { L } _ { 1 } \boldsymbol { C } _ { 1 }$ 滤波电路后转变成缓变直流电，控制开关管 $\mathbf { Q } _ { 1 }$ 的开通与关断，通过逆变和PS补偿拓扑的谐振将能量从一次侧传递到二次侧，再经过高频整流电路后转变成 $1 0 0 \mathrm { H z }$ 有效值为 AC 220V的馒头波，为负载电动机供电。
+
+PP 补偿拓扑单管ICPT系统具有电压增益高且传输效率、功率因数较高等优点，但输出电压、开关管电压在动态非线性负载突变时波动很大，经常造成器件损坏，降低了系统的可靠性；而PS补偿拓扑单管ICPT系统具有传输效率较高，输出电压、开关管电压在动态非线性负载突变时波动较小等优点，但电压增益较低[13]。对于果蔬机类负载来说,可以通过优化系统参数来提高PS补偿拓扑的电压增益，以满足要求。
+
+![](images/0b7989b62f2c14a3c212284503648a0407f700569f93b71703394a45a37e20d6.jpg)  
+图1单管ICPT系统补偿拓扑结构图
+
+# 3 系统参数的优化设计
+
+利用互感等效模型[14]对PS补偿拓扑的单管ICPT系统进行建模分析，其等效电路如图2所示。$U _ { { \scriptscriptstyle C } \mathrm { p } }$ 为补偿电容 $C _ { \mathfrak { p } }$ 上的电压；一次线圈 $L _ { \mathfrak { p } }$ 和二次线圈 $L _ { \mathrm { s } }$ 构成松耦合变压器； $C _ { \mathfrak { p } }$ 为一次补偿电容； $C _ { \mathrm { s } }$ 为二次补偿电容； $M$ 为一次线圈与二次线圈的互感； $R _ { \mathfrak { p } }$ ， $R _ { \mathrm { s } }$ 分别为一次线圈和二次线圈的内阻； $R _ { \mathrm { e q } }$ 为等效负载。
+
+![](images/d341b69380e6d57fba418834155bafaad343e1d50891c2e7ef7ded9ff325f80f.jpg)  
+Fig.1Compensation topology of single switch ICPT system   
+图2系统等效电路  
+Fig.2Equivalent circuit of system
+
+列写图2等效电路的KVL方程为
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { U _ { C \mathrm { p } } = I _ { \mathrm { p } } Z _ { \mathrm { p } } - \mathrm { j } \omega M I _ { \mathrm { s } } } \\ { \mathrm { j } \omega M I _ { \mathrm { p } } = I _ { \mathrm { s } } Z _ { \mathrm { s } } } \end{array} \right. } \end{array}
+$$
+
+式中， $Z _ { \mathrm { { p } } }$ 为一次阻抗； $Z _ { \mathrm { s } }$ 为二次阻抗，可分别表示为
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { Z _ { \mathrm { p } } = R _ { \mathrm { p } } + \mathrm { j } \omega L _ { \mathrm { p } } } \\ { \qquad } \\ { Z _ { \mathrm { s } } = R _ { \mathrm { s } } + R _ { \mathrm { e q } } + \mathrm { j } \omega L _ { \mathrm { s } } + \frac { 1 } { \mathrm { j } \omega C _ { \mathrm { s } } } } \end{array} \right. } \end{array}
+$$
+
+由式（1）可得一次电流 $I _ { \mathrm { p } }$ 和二次电流 $I _ { \mathrm { s } }$ 分别为
+
+$$
+I _ { \mathrm { p } } = { \frac { U _ { \mathrm { { { c p } } } } } { Z _ { \mathrm { p } } + { \frac { \omega ^ { 2 } M ^ { 2 } } { Z _ { \mathrm { s } } } } } }
+$$
+
+$$
+I _ { \mathrm { s } } = { \frac { \mathrm { j } \omega M U _ { \mathrm { } c \mathrm { p } } } { Z _ { \mathrm { p } } Z _ { \mathrm { s } } + \omega ^ { 2 } M ^ { 2 } } }
+$$
+
+由式（3）可以画出一次等效电路如图3所示。
+
+![](images/62f784bbe0fdeb184002a5d2d2ab8378bd129895295c0469348fc432c6678eb7.jpg)  
+图3一次等效电路
+
+忽略二次线圈的内阻 $R _ { \mathrm { s } }$ ，从式（3）可以看出，二次侧反映到一次侧的反映阻抗 $Z _ { \mathrm { f } }$ 为
+
+$$
+Z _ { \mathrm { f } } = { \frac { \omega ^ { 4 } M ^ { 2 } R _ { \mathrm { e q } } C _ { \mathrm { s } } ^ { 2 } + \mathrm { j } \omega ^ { 3 } M ^ { 2 } C _ { \mathrm { s } } ( 1 - \omega ^ { 2 } L _ { \mathrm { s } } C _ { \mathrm { s } } ) } { \omega ^ { 2 } C _ { \mathrm { s } } ^ { 2 } R _ { \mathrm { e q } } ^ { 2 } + ( 1 - \omega ^ { 2 } L _ { \mathrm { s } } C _ { \mathrm { s } } ) ^ { 2 } } }
+$$
+
+根据式（5）可得反映阻抗的实部、虚部为
+
+$$
+R _ { \mathrm { f } } = \mathrm { R e } ( Z _ { \mathrm { f } } ) { = } \frac { \omega ^ { 4 } M ^ { 2 } R _ { \mathrm { e q } } C _ { \mathrm { s } } ^ { 2 } } { \omega ^ { 2 } C _ { \mathrm { s } } ^ { 2 } R _ { \mathrm { e q } } ^ { 2 } + ( 1 - \omega ^ { 2 } L _ { \mathrm { s } } C _ { \mathrm { s } } ) ^ { 2 } }
+$$
+
+$$
+X _ { \mathrm { f } } = \mathrm { I m } ( Z _ { \mathrm { f } } ) { = } \frac { \omega ^ { 3 } M ^ { 2 } C _ { \mathrm { s } } ( 1 { - } \omega ^ { 2 } L _ { \mathrm { s } } C _ { \mathrm { s } } ) } { \omega ^ { 2 } C _ { \mathrm { s } } ^ { 2 } R _ { \mathrm { e q } } ^ { 2 } + \left( 1 { - } \omega ^ { 2 } L _ { \mathrm { s } } C _ { \mathrm { s } } \right) ^ { 2 } }
+$$
+
+二次线圈的开路电压为
+
+$$
+U _ { \mathrm { o c } } = \mathrm { j } \omega M I _ { \mathrm { p } }
+$$
+
+由式（1）和式（8）可画出二次等效电路如图4所示。
+
+由图4可推导得出输出电压 $U _ { \mathrm { o } }$ 为
+
+![](images/1ea87074454aabcd6d678b715da14b1afad9b2787f41eb8b3ab05855440b09d6.jpg)  
+图4二次等效电路  
+Fig.4Equivalent circuit of secondary side
+
+$$
+U _ { \mathrm { o } } = \frac { R _ { \mathrm { e q } } ^ { 2 } \omega ^ { 2 } C _ { \mathrm { s } } ^ { 2 } - \mathrm { j } \omega R _ { \mathrm { e q } } C _ { \mathrm { s } } \left( \omega ^ { 2 } L _ { \mathrm { s } } C _ { \mathrm { s } } - 1 \right) } { R _ { \mathrm { e q } } ^ { 2 } \omega ^ { 2 } C _ { \mathrm { s } } ^ { 2 } + \left( \omega ^ { 2 } L _ { \mathrm { s } } C _ { \mathrm { s } } - 1 \right) ^ { 2 } } U _ { \mathrm { o c } }
+$$
+
+根据式（3）、式（8）和式（9）可得电压增益$G$ 为
+
+![](images/b2f99ee14665bd95eb6d9f1bdd7b5a792d715b56710147269fea5b16359bff4b.jpg)  
+Fig.3Equivalent circuit of primary side
+
+$$
+G = \left| \frac { U _ { \mathrm { o } } } { U _ { C _ { \mathrm { p } } } } \right| = \left| \frac { R _ { \mathrm { e q } } \omega ^ { 2 } M C _ { \mathrm { s } } ( \omega ^ { 2 } L _ { \mathrm { s } } C _ { \mathrm { s } } - 1 ) + \mathrm { j } R _ { \mathrm { e q } } ^ { 2 } \omega ^ { 3 } M C _ { \mathrm { s } } ^ { 2 } } { Z [ R _ { \mathrm { e q } } \omega ^ { 2 } C _ { \mathrm { s } } ^ { 2 } + ( \omega ^ { 2 } L _ { \mathrm { s } } C _ { \mathrm { s } } - 1 ) ^ { 2 } ] } \right|
+$$
+
+其中， $\scriptstyle Z = Z _ { \mathrm { p } } + Z _ { \mathrm { f } \circ }$
+
+由式（4）可得输出功率 $P _ { \mathrm { ~ o ~ } }$ 为
+
+$$
+P _ { \mathrm { o } } = { \frac { \left| U _ { \mathrm { o } } \right| ^ { 2 } } { R _ { \mathrm { e q } } } } = { \frac { \left| U _ { \mathrm { } C \mathrm { p } } \right| ^ { 2 } G ^ { 2 } } { R _ { \mathrm { e q } } } }
+$$
+
+同时可推导得出PS补偿拓扑单管ICPT系统的效率为
+
+$$
+\eta = \frac { P _ { \mathrm { o } } } { P _ { \mathrm { i n } } } = \frac { \left| I _ { \mathrm { p } } \right| ^ { 2 } R _ { \mathrm { f } } } { \left| I _ { \mathrm { p } } \right| ^ { 2 } \mathrm { R e } ( Z ) } = \frac { R _ { \mathrm { f } } } { R _ { \mathrm { p } } + R _ { \mathrm { f } } }
+$$
+
+式中， $P _ { \mathrm { i n } }$ 为输入的有功功率。
+
+根据式（10）可得不同参数变化下电压增益随工作频率变化的曲线如图5所示。
+
+由图5可知，对于PS补偿拓扑的单管ICPT系统来说，存在一个工作频率使电压增益达到最大。由图5a可知，二次补偿电容的增大，对电压增益的峰值没有影响，但会使电压增益曲线近似向左平移；由图5b可知，当耦合系数发生变化时，电压增益曲线大致呈上下平移的关系，随着耦合系数的增加，电压增益的峰值会增加，同时可以发现当耦合系数增大时，电压增益的峰值点会偏离谐振频率处，因此要适当选取耦合系数，不宜过大，否则电压增益的峰值点偏离谐振频率过远；由图5c可知，随着一次电感的增加，电压增益的峰值会减小，同时会使电压增益曲线近似向下平移，因此一次电感不宜太大；由图5d可知，二次电感的变化不改变电压增益的峰值，二次电感越大，电压增益曲线在各自的谐振频率附近越陡峭，相应的输出电压在各自的谐振频率附近变化越大，对要求恒压输出的单管ICPT系统来说不易控制，因此要选取的二次电感不宜过大。
+
+![](images/d2df3e7110c6cd0f8cc68c34e3d695d87ac8135c736d93d1e9b54b793cebbcab.jpg)  
+图5电压增益曲线Fig.5Voltage gain curves
+
+根据式（11）可得不同参数变化下输出功率随工作频率变化的曲线如图6所示。
+
+![](images/21a5113c9b7d62e86b4006c0e6ccbe17e0431dadcdc50b573856a866ffce7906.jpg)  
+图6输出功率曲线 Fig.6Output power curves
+
+由图6可知，对于PS补偿拓扑的单管ICPT系统来说，存在一个工作频率使输出功率达到最大。由图6a可知，二次补偿电容的变化对输出功率的峰值没有影响，在输出功率曲线峰值点右侧的某一工作频率下，随着二次补偿电容增大，输出功率减小;由图6b可知，随着耦合系数的增加，输出功率的峰值也会增加，由于所设计的家电用ICPT系统额定输出功率为1kW，综合耦合系数对电压增益和输出功率的影响，因此选取的耦合系数应在 $0 . 5 \sim 0 . 6$ 之间；由图6c可知，在同一工作频率下，一次电感越大，输出功率越小，为了满足设计的要求，选取的一次电感应在 $1 7 0 \mu \mathrm { H }$ 左右；由图6d可知，改变二次电感并不影响输出功率的峰值，二次电感越大，输出功率曲线在谐振频率附近越陡峭，为了使ICPT系统在调频过程中输出功率平缓地变化，故选取的二次电感不宜太大。
+
+由文献[15]可知，在不同参数变化下，开关管峰值电压随工作频率变化的曲线如图7所示。
+
+根据图7可知，对于PS补偿拓扑的单管ICPT系统来说，随着开关频率的增加，开关管峰值电压在不断减小。由图7b可知，在同一工作频率下，随着耦合系数的增加，开关管峰值电压在减小；同时可由图7c可知，一次电感的变化对开关管峰值电压没有影响。
+
+![](images/411458d7a76450a05401f515e21a69f73fe5c48d04f353c2b871b9cec81dffe9.jpg)
+
+![](images/6b6bc85f56d75f9e5110a5ac145be199d486f90bb92a09493dbefd7354314106.jpg)  
+图7开关管峰值电压曲线 Fig.7Switch peak voltage curves
+
+综合考虑电压增益、输出功率、开关管峰值电压、器件开关频率与系统各个参数的关系，本文确定了工作频率为 $2 2 \mathrm { k H z }$ ，选取带有屏蔽层的松耦合变压器，通过理论计算及分析，确定了一次线圈电感约为 $1 7 0 \mathrm { { ‰} }$ 、二次线圈电感约为 $3 6 0 _ { \mu \mathrm { H } }$ ，结合绕线工艺，实际一次线圈电感为 $1 7 3 \mathrm { { \textmu H } }$ 、二次线圈电感为 $3 6 5 \mathrm { { \mu H } }$ 、耦合系数 $k$ 为0.532。为了实现系统最大功率输出、减少无功功率成分，系统的工作频率必须在一、二次侧的固有谐振频率附近，对于二次等效电路来说，令式（2）中二次阻抗 $Z _ { \mathrm { s } }$ 的虚部为零，可得二次补偿电容 $C _ { \mathrm { s } }$ 必须满足
+
+$$
+C _ { \mathrm { s } } = { \frac { 1 } { \omega ^ { 2 } L _ { \mathrm { s } } } }
+$$
+
+即可求出二次补偿电容 $C _ { \mathrm { s } } = 1 4 3 \mathrm { n F }$ 。
+
+由图3可知整个系统的总等效阻抗 $Z _ { \mathrm { t } }$ 为
+
+$$
+Z _ { \mathrm { t } } = \left( Z _ { \mathrm { p } } + Z _ { \mathrm { f } } \right) / / \frac { 1 } { \mathrm { j } \omega C _ { \mathrm { p } } }
+$$
+
+为了提高整个系统的功率因数，需要满足系统总等效阻抗 $Z _ { \mathrm { t } }$ 的虚部为零，因此可得一次补偿电容$C _ { \mathfrak { p } }$ 满足
+
+$$
+C _ { \mathrm { p } } = \frac { \omega L _ { \mathrm { p } } + X _ { \mathrm { f } } } { \omega ( R _ { \mathrm { p } } + R _ { \mathrm { f } } ) ^ { 2 } + \omega ( \omega L _ { \mathrm { p } } + X _ { \mathrm { f } } ) ^ { 2 } }
+$$
+
+即可求出一次补偿电容 $C _ { \mathrm { p } } = 2 9 2 \mathrm { n F }$ 。仿真发现，当$C _ { \mathrm { p } } = 2 9 2 \mathrm { n F }$ 时，开关管不能实现零电压开通，为了使开关管实现零电压开通，又不使开关管两端的电压过高，可选取一次补偿电容 $C _ { \mathrm { p } } = 1 8 3 \mathrm { n F }$ 。
+
+# 4 实验验证
+
+基于上述分析，搭建了一台额定功率为1kW的单管ICPT实验系统，该系统采用PS补偿拓扑，选取的系统参数见下表。
+
+表系统参数  
+Tab. Parameters of the system   
+
+<html><body><table><tr><td>Cp/nF</td><td>C/nF</td><td>Lp/uH</td><td>L/uH</td><td>M/uH</td><td>R/Ω</td></tr><tr><td>183</td><td>143</td><td>173</td><td>365</td><td>134</td><td>48</td></tr></table></body></html>
+
+图8所示为开关管电压 $U _ { \mathrm { c e } }$ 和驱动电压 $U _ { \mathrm { g e } }$ 的实验波形。由图可知该电路可以实现零电压开通和零电压关断，系统的开关管峰值电压为 $9 9 2 \mathrm { V }$ ，在相同功率传输下比文献[7]中的开关管峰值电压减少了 $2 0 0 \mathrm { V }$ ，大大增加了电路的可靠性。
+
+![](images/4acb1ee5fcb2f143edbabaed8f77919a7967cd31e9d95c77678c4d18f92a8c39.jpg)  
+图8实验波形  
+Fig.8Experimental curves
+
+图9为电压增益、输出功率、效率及开关管峰值电压随开关频率变化的实验曲线。由图9a、9b、9c可以看出，开关频率在 $2 2 \mathrm { k H z }$ 附近时，电压增益、输出功率、效率达到最大，其中效率最大为$96 \%$ ；并由图9d可知，随着开关频率的增加，开关管峰值电压逐渐降低，这与理论推导相一致。
+
+# 5 结束语
+
+当非线性负载高速动态变化时，PP补偿的单管ICPT系统容易因过电压而导致开关管和二次侧整流桥损坏，为此本文研究了PS补偿的单管ICPT系统。对PS补偿的单管ICPT系统进行了参数优化，分析了电压增益、输出功率、开关管峰值电压在不同参数变化下随工作频率变化的规律。实验结果表明：通过对系统参数进行优化，在谐振频率附近可使系统的电压增益、传输功率及效率达到最大，使系统在实现零电压开通的同时又极大地减小了开关管的电压应力，从而减小了系统的开关损耗，提高了系统的功率因数与效率，对于研究的样机，在谐振频率处输出功率为 $1 \ 0 8 0 \mathrm { W }$ ，效率达到 $96 \%$ 。
+
+![](images/53cd489d0b32f96e31bb1b5cfed21a6ed52ee0c2b14e88f2e585f9078be8c063.jpg)  
+图9系统参数的实验曲线  
+Fig.9The experiment curves of system parameters
+
+# 参考文献
+
+[1] Moon S C,Moon G W. Wireless power transfer system with an asymmetric four-coil resonator for electric vehicle battery chargers[J].IEEE Transactions on Power Electronics,2016,31(10): 6844-6854.   
+[2] Buja G,Bertoluzzo M,Mude K N.Design and experimentation of WPT charger for electric city car[J]. IEEE Transactions on Industrial Electronics, 2015, 62(12): 7436-7447.   
+[3] Kilinc E G,Ghanad M A,Maloberti F,et al.A remotely powered implantable biomedical system with location detector[J]. IEEE Transactions on Biomedical Circuits and Systems,2015,9(1): 113- 123.   
+[4] 王春芳，齐飞，陈杰民，等．单管无线电能传输 系统主电路参数的优化设计[J]．电工电能新技术, 2015，34(5): 59-62. Wang Chunfang, Qi Fei, Chen Jiemin, et al. Optimal design on main circuit parameters of WPT system with single tube[J]. Advanced Technology of Electrical Engineering and Energy System,2015, 34(5): 59-62.   
+[5] 邓凯，廖承林，王丽芳．一种中距离无线能量传 输系统的频率特性[J]．电工电能新技术，2014, 33(9): 35-40. Deng Kai, Liao Chenglin, Wang Lifang. Frequency characteristic of mid-range wireless power transfer system[J].Advanced Technology of Electrical Engineering and Energy, 2014,33(9): 35-40.   
+[6] 王春芳，陈杰民，李聃，等．数字家电用无线电 力传输电源的研究[J]．电工电能新技术，2014, 33(11): 65-69. Wang Chunfang,Chen Jiemin,Li Dan,et al. Research on IPT power supply in household application[J]. Advanced Technology of Electrical Engineering and Energy,2014,33(11): 65-69.   
+[7] 王春芳，陈杰民，李聃，等．零电压导通、零电 压关断单管无线电能传输电源[J]．电工技术学报， 2015，30(4):203-208. Wang Chunfang, Chen Jiemin, Li Dan, et al. A zerovoltage turn-on and turn-off single-switch IPT power supply[J]. Transaction of China Electrotechnical Society, 2015,30(4): 203-208.   
+[8] Zhou Wenqi, Ma Hao. Design considerations of compensation topologies in ICPT system[C]. IEEE Applied Power Electronics Conference and Exposition, Anaheim,2007: 985-990.   
+[9] Zhang Wei, Wong S C, Tse C K,et al. Analysis and comparison of secondary series and parallel compensated inductive power transfer systems operating for optimal efficiency and load-independent voltage-transfer ratio[J]. IEEE Transactions on Power Electronics,2014,29(6): 2979-2990.   
+[10]Woronowicz K, Safaee A,Dickson T R. Singlephase zero reactive power wireless power transfer topologies based on boucherot bridge circuit concept[J]. Canadian Journal of Electrical and Computer Engineering, 2015,38(4): 323-337.   
+[11]王春芳，马超，李聃，等．单管无线电能传输系 统补偿网络的优化设计[J]．电力电子技术，2015, 49(10): 28-30. Wang Chunfang,Ma Chao,Li Dan,et al. Optimal design on the compensation network of ICPT system with single switch[J]. Power Electronics,2015, 49(10): 28-30.   
+[12]孙跃，夏晨阳，赵志斌，等．电压型ICPT系统功 率传输特性的分析与优化[J]．电工电能新技术, 2011，30(2): 9-12. Sun Yue, Xia Chenyang, Zhao Zhibin, et al. Analysis and optimization on power transmission characteristics for voltage-fed ICPT[J].Advanced Technology of Electrical Engineering and Energy System,2011,30(2): 9-12.   
+[13]周雯琪，马皓，何湘宁．感应耦合电能传输系统 不同补偿拓扑的研究[J]．电工技术学报，2009, 24(1):133-139. Zhou Wenqi,Ma Hao,He Xiangning. Investigation
+
+（下转第33页）

@@ -1,0 +1,269 @@
+[
+    {
+        "type": "text",
+        "text": "毛梗稀签乙酸乙酯部位化学成分及生物活性研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘华}，靳永亮¹，张纪越'，朱伶俐¹，盛天露¹，刘峰（1.江西中医药大学药学院南昌330004；2.江西中医药大学附属医院南昌330006）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：毛梗稀签草(Siegesbeckia glabresce)的乙酸乙酯萃取部位具有显著的抑制细胞坏死性凋亡(necroptosis)的活性。为明确毛梗稀签草的活性成分，对毛梗稀签草乙酸乙酯萃取部位进行了化学成分分离。采用正相硅胶柱色谱谱（二氯甲烷：甲醇 $2 0 : 1 { \\sim } 0 : 1 \\qquad $ 、反相ODS柱色谱 $( 3 0 \\% \\sim 1 0 0 \\%$ 甲醇)，Sephadex LH-20柱色谱、重结晶等方法进行分离和纯化，根据理化性质和波谱数据进行结构鉴定。从毛梗稀签乙酸乙酯部位分离并鉴定了9个化合物，分别为3,7-二甲氧基槲皮素（1），芹菜素（2），奥卡宁（3），okanin- $4 ^ { \\prime }$ -0- $\\beta$ -D-6\"-trans- $p$ -coumaroylglucoside（4）， $1 H$ -Indole-3-carbaldehyde（5），对羟基苯甲醛（6），3,5-二甲氧基-4-羟基苯甲醛（7），3,4-divanillyltetrahydrofuran（8），buddlenolD（9）。除化合物1和6外，其余7个化合物均为首次从豨签属植物中分离得到。关键词：毛梗稀签草，乙酸乙酯部位，提取分离，化学成分，生物活性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：Q946 文献标识码：A Studies on chemical components and bioactivity from the ethyl acetate of Siegesbeckia glabresce ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Hua1, JIN Yongliang1, ZHANG Jiyue1, ZHU Lingli1, SHENG Tianlu1, LIU Feng (1.School of Pharmacy,Jiangxi Universityof Traditional Chinese Medicine,Nanchang 33oo04,China; 2 Affiliated Hospital of Jiangxi University ofTraditional Chinese Medicine,Nanchang 330o06,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The ethyl acetate extracts of Siegesbeckia glabrescens had significant physiological activity to inhibit necroptosis.In order to identify the active components and find the target compounds, the ethyl acetate extracts of S. glabrescewere isolated and studied systemically in chemistry. The compounds were isolated and purified by chroma-tography on silica gel, ODS,and Sephadex LH-2O columns,and their structures were determined according to physicochemical properties and spectral analyses. Nine compounds were isolated from the ethyl acetate of S. glabresceandidentifiedas3,7-dimethoxyquencetin(1），apigenin(2），okanin(3), okanin- $4 ^ { \\prime }$ -0 $\\beta$ -D-6\"-E-p-coumaroylglucoside(4) $1 H \\cdot$ -indole-3-carbaldehyde(5) $p$ -hydroxybenzaldehyde (6)，3,5-dimethoxy-4-hydroxybenzaldehyd(7)，3,4-divanillyltetrahydrofuran(8), buddlenol D(9). Compounds 2-5,7-9 were isolated in this herbal plant for the first time. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Siegesbeckia glabresce, ethyl acetate extracts, extraction and separation, chemical compounds, bioactivity ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中药稀签草为菊科稀签属一年生草本植物稀签（Siegesbeckiaorientalis）、腺梗稀签(S.pubescens)和毛梗稀签(S.glabrescens)的干燥地上部分(中华人民共和国药典·一部，2015),性寒，味辛、苦，归肝、肾经，可利关节、通经络。目前对稀签草药理研究表明，稀签草在抗炎(Hong et al.，2014；Nguyen et al.，2017；朱伶俐等，2018）、抗风湿(傅旭春等，2013；Wu et al.，2017)、抗肿瘤(Lu et al.，2014；Lee et al.，2014；Chang et al.，2016)、抗菌(Kim et al.，2016；陈少红等，2017)、抗氧化(Park et al.，2013；Zhang et al.，2014)和心血管保护(Weber et al.，2007；王发辉等，2012)等方面具有良好的效用，活性成分集中于其二萜类(Yang et a.，2016)、倍半萜类(Wu et al.，2015；Lee et al.，2016)、黄酮类(娄月芬等，2013）等化合物。细胞坏死性凋亡(necroptosis)是近年来新发现的一种具有程序性可调控的非半胱氨酸蛋白酶（caspase）依赖的、通过死亡受体诱导的一种细胞死亡类型。主要由肿瘤坏死因子受体（tumor necrosis factor，TNF-α）家族以及Toll 样受体（Toll-like receptors，TLR）家族启动，并通过两个蛋白激酶RIPKl(receptor interacting protein kinase 1)和RIPK3(receptor interacting protein kinase 3)传递死亡信号，募集并磷酸化MLKL（mixed lineage kinase domain-like protein）（吴晨露等，2016)，执行细胞死亡，细胞发生坏死。necroptosis是许多疾病恶化的根源，可能在包括癌症，代谢疾病，神经退行性病症以及心肌梗死，中风，胰腺炎，肠炎和皮肤炎等疾病的发病机制中起到重要作用(Andreas& Green，2014；Dongshi et al.，2016)。本课题组前期自建了江西100种中草药提取物组分库，并对样品进行筛选，发现毛梗稀签草的 $9 5 \\%$ 醇提物浸膏乙酸乙酯萃取部位和二氯甲烷部位具有很强的抑制necroptosis的活性。为明确毛梗稀签草的活性成分，对活性部位通过硅胶柱色谱、ODS 柱色谱、凝胶柱色谱、HPLC 等方法进行了化学成分分离，从乙酸乙酯部位分离得到的9个化合物，分别为3,7-二甲氧基槲皮素（1），芹菜素（2），奥卡宁（3），okanin- $4 ^ { \\prime }$ -0 $\\cdot \\beta$ -D-6\"-trans-p-coumaroylglucoside（4）， $1 H$ -Indole-3-carbaldehyde（5），对羟基苯甲醛（6）3,5-二甲氧基-4-羟基苯甲醛（7），3,4-divanillyltetrahydrofuran（8），buddlenolD（9）。除化合物1和6外，其余7个化合物均为首次从豨签属植物中分离得到。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料与仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1材料 药材于2015年5月购于江西樟树，由江西中医药大学赖学文教授鉴定为菊科植物稀签属毛梗稀签（Siegesbeckiaglabresce），凭证标本保存于江西中医药大学标本室，编号为 ZY-20150525。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "活性筛选用的细胞系为人直肠癌细胞系HT29，培养基为DMEMMedium加 $10 \\%$ FBS和 $1 \\% \\mathrm { P / S }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2仪器与试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2695Alliance Separations Module型高效液相色谱仪和1525型制备高效液相色谱仪[LichrospherC18制备液相色谱柱( $3 0 \\mathrm { m m } \\times 2 5 0 \\mathrm { m m }$ ， $1 0 \\mu \\mathrm { m } )$ ](美国Waters 公司)，Inova-600型超导核磁共振波谱仪(美国Varian公司)，WFH-203 (ZF-1)型三用紫外分析仪(上海精科实业有限公司)，AE100型电子分析天平(瑞士梅特勒-托利多公司)。LH-20羟丙基葡聚糖凝胶（SephadexLH-20，瑞典GEHealthcar公司)，柱色谱及薄层色谱用硅胶(200目，青岛海洋化工厂产品)，ODS柱色谱填料 $( 5 0 ~ \\mu \\mathrm { m }$ ，日本YMC公司)，提取分离用试剂均为分析纯，制备HPLC用甲醇为色谱纯(西陇化工股份有限公司)，水为三蒸水。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cell Titer-Glo细胞活性检测试剂盒购于Promega公司，肿瘤坏死因子TNF $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 通过大肠杆菌表达系统表达并纯化得到；促调亡化合物Smac mimetic 和Caspase 抑制剂z-VAD.fmk由北京生命科学研究所化学中心合成,",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1提取与分离",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取干燥毛梗豨签全草 $2 5 \\mathrm { k g }$ ，粉碎后用 $9 5 \\%$ 乙醇回流提取4次，每次 $3 \\mathrm { h }$ 。合并提取液，减压回收溶剂得总浸膏 $1 . 2 \\mathrm { k g }$ 。加蒸馏水混悬，依次用石油醚、乙酸乙酯、正丁醇萃取，得到5个萃取部位，分别取各组分浸膏 $2 0 \\mathrm { m g }$ 用DMSO 配制成 $2 0 \\mathrm { { m g } { \\cdot } \\mathrm { { m L } ^ { - 1 } } }$ 储存液，编号，于$- 2 0 \\ \\mathrm { { ^ \\circ C } }$ 保存，备筛选用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2CellTiter-Glo细胞活性检测方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三磷酸腺苷(Adenosine Tri-Phosphate ATP)是活性细胞新陈代谢的一个指标。CTG 法是通过CellTiter-GloTM活细胞检测试剂盒萤光素酶的荧光发光值反映出ATP含量的高低直接反映细胞的数量及细胞状态，非常适合高通量筛选、细胞增殖和细胞毒性分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3活性筛选 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HT29（人直肠癌）细胞模型，经TSZ（终浓度分别为 $2 0 \\mathrm { n g \\bullet \\mathrm { m L ^ { - 1 } T N F \\mathrm { - } \\mathrm { a } } }$ ，100 nmol·mL-1Smac 和 $2 0 \\mathrm { n m o l } \\cdot \\mathrm { m L } ^ { - 1 } \\mathbf { z } \\mathbf { - } \\mathrm { V A D }$ 诱导过夜后，产生necroptosis。再将配成 $2 0 \\mathrm { m g \\cdot m L ^ { - 1 } }$ 的样品加入到经TSZ处理诱导成细胞坏死的HT29细胞模型中， $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 恒温培养箱放置过夜。最后用Cell Titer-Glo（Promega）试剂盒检测细胞 ATP 水平以确定细胞存活率。细胞存活率高的组分说明对TSZ介导的细胞坏死有抑制作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1活性部位筛选结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将DMSO 配成的五份储存液编号为A（总浸膏）、B（石油醚萃取部位）、C（乙酸乙酯萃取部位）、D（正丁醇萃取部位）和E（水部位），筛选结果如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图中可知，经TSZ 诱导的HT29 细胞的存活率仅有 $9 \\%$ ，诱导成 necroptosis 的HT29细胞在加入B（石油醚萃取部位）、D（正丁醇萃取部位）和E（水部位）配成的样品后的存活率并未得到改善。但A（总浸膏）已将存活率提高到 $45 \\%$ ，而C（乙酸乙酯萃取部位）的存活率则高达 $7 7 \\%$ ,远高于未加样品的 $9 \\%$ 的存活率。这个结果说明毛梗稀签对necroptosis有抑制作用，而乙酸乙酯萃取部位为其活性部位。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a3ec22968200d142ca8045cb0aaa88f2daa74fbbd4ab0e3195073158f9f4aa6.jpg",
+        "img_caption": [
+            "图1毛梗稀签草各萃取部位筛选结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图中数据是使用CellTiter-Glo试剂盒测定的ATP水平，反映HT-29细胞诱导坏死后用不同的样品刺激后存活 $1 2 \\mathrm { h }$ 的 HT-29 细胞数量。DMSO.二甲亚砜；T.TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ ；S.Smac；Z.z-VAD；A.总浸膏；B.石油醚萃取部位；C.乙酸乙酯萃取部位；D.正丁醇萃取部位；E.水部位。The number of surviving HT-29 cells with the indicated stimuli for $1 2 \\mathrm { h }$ was determined by measuring ATPlevelsusing the Cell Titer-Glo kit.DMSO.Dimethylsulfoxide;T.TNF- $\\mathfrak { a }$ ；S. Smac; Z. z-VAD;A. Crude extracts;B.Petroleumether extract; C.Ethyl acetate extract; D.N-butyl alcohol extract; E.Water extract.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Screening result of extraction parts of Siegesbeckia glabrescens ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2活性部位化学分离结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取活性组分乙酸乙酯萃取部位浸膏（ $6 0 { \\mathrm { ~ g } } { \\dot {  } }$ ），加水混悬后，与 $1 0 0 \\mathrm { ~ g ~ } 1 0 0 { \\sim } 2 0 0$ 目硅胶干法上柱，依次以石油醚：乙酸乙酯 $1 5 : 1 { \\sim } 0 : 1$ 梯度洗脱。洗脱后的流份经TLC合并，得到$\\mathrm { F r - a } \\mathrm { \\sim } \\mathrm { F r - j }$ 等10个组分。各组分分别以开放型ODS柱色谱法进行分离，得到的各流份经TLC合并相同组分。其中Fr-b-2经制备型高压柱色谱进行分离，以 $30 \\%$ 甲醇等度洗脱，得到化合物3（ $1 0 \\mathrm { m g }$ ）；Fr-d-2经制备型高压柱色谱以 $30 \\%$ 甲醇等度洗脱，得到化合物2（ $7 \\mathrm { m g }$ ）；Fr-d-3、Fr-d-4经SephadexLH-20 纯化后，再经制备型高压柱色谱分别以 $5 0 \\%$ 甲醇、 $40 \\%$ 甲醇等度洗脱，得到化合物4（ $\\mathrm { 7 \\ m g }$ ）、化合物5（ $\\mathrm { 6 \\ m g }$ ）和化合物8（ $1 5 \\mathrm { m g }$ ）。Fr-e-3经制备型高压柱色谱以 $5 0 \\%$ 甲醇等度洗脱，得到化合物1（ $\\lvert 5 \\mathrm { \\ m g }$ ）。Fr-f-5 经制备型高压柱色谱以 $45 \\%$ 甲醇等度洗脱，得到化合物9（ $6 ~ \\mathrm { m g }$ ）。Fr-h-2、Fr-h-3 经 SephadexLH-20 纯化后，再经制备型高压柱色谱分别以 $5 5 \\%$ 甲醇、 $5 0 \\%$ 甲醇等度洗脱，得到化合物6（ $\\mathrm { 8 \\ m g }$ ）和7（5mg）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从乙酸乙酯部位分离得到的9个化合物，分别为黄酮类化合物4个：3,7-二甲氧基槲皮素（1），芹菜素（2），奥卡宁（3），okanin $. 4 ^ { \\prime }$ -0- $\\beta$ -D $\\cdot 6 \"$ -trans- $p$ -coumaroylglucoside（4）;生物碱类化合物1个， $1 H$ -indole-3-carbaldehyde（5）；芳香化合物2个：对羟基苯甲醛（6)和3,5-二甲氧基-4-羟基苯甲醛（7）；木脂素类化合物2个，3,4-divanillyltetrahydrofuran（8)和buddlenolD（9）。除化合物1和6外，其余7个化合物均为首次从稀签属植物中分离得到。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物1黄色针晶（甲醇），HR-ESI-MSm/z：329.0740[M-H]，分子式为 $\\mathrm { C _ { 1 7 } H _ { 1 4 } O _ { 7 } }$ 。$\\mathrm { ^ 1 H }$ -NMR（ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ， $6 0 0 \\mathrm { M H z }$ ） $\\delta$ ：7.67（1H，d, $J { = } 2 . 1 \\ : \\mathrm { H z }$ ，H-2'），7.56（1H，dd, $J = 8 . 5$ （204Hz， $J { = } 2 . 1 \\ : \\mathrm { H z }$ ，H-6'），6.91（1H，d, $J { = } 8 . 5 \\mathrm { H z }$ ，H-5'），6.59（1H，d， $J { = } 2 . 1 \\ : \\mathrm { H z }$ ，H-8），6.33(1H，d, $J { = } 2 . 1 \\ : \\mathrm { H z }$ ，H-6），3.89（3H，s, $3 \\mathrm { - O C H } _ { 3 }$ ），3.80（3H，s, $\\mathsf { 7 - O C H } _ { 3 }$ ）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ， $1 5 0 \\mathrm { M H z }$ ）δ:148.7（C-2，4'），138.3（C-3），178.7（C-4），156.9（C-5），97.5（C-6），165.9（C-7），91.7（C-8），161.5（C-9），105.3（C-10），121.4（C-1'），115.2(C-2')，145.1(C-3')，115.0(C-5'），121.0(C-6')， 59.1(C-3-OCH3)， 55.1（C-7-OCH）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以上数据与文献(Xiongetal.，1997）报道一致，故鉴定化合物为3,7-二甲氧基槲皮素（3,7-dimethoxyquercetin）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物2淡黄色针状结晶（甲醇），HR-ESI-MS $m / z$ : 270.9702 $\\mathrm { [ M + H ] } ^ { + }$ ，分子式为$\\mathrm { C _ { 1 5 } H _ { 1 0 } O _ { 5 } }$ 。 $\\mathrm { ^ { 1 } H }$ -NMR（DMSO- ${ \\bf \\cdot d } _ { 6 }$ ${ 6 0 0 } \\mathrm { M H z }$ ） $\\delta$ ：12.97（1H，s，5-OH），10.92（1H，s，7-OH），10.42（1H，s，4'-OH），7.93（2H，d， $J { = } 8 . 3 \\mathrm { H z }$ ，H-2'，H-6'），6.97（2H，d， $J { = } 8 . 4 \\ : \\mathrm { H z }$ H-3'，H-5'），6.79（1H，s，H-3），6.50（1H，d， $J { = } 2 . 1 \\ : \\mathrm { H z }$ ，H-6），6.20（1H，d， $J = 2 . 1$ Hz，H-8）。 $^ { 1 3 } \\mathrm { C }$ -NMR（DMSO- ${ \\bf \\cdot d } _ { 6 }$ ， $1 5 0 \\mathrm { M H z }$ ） $\\delta$ : 164.6（C-2），103.3（C-3），182.2（C-4），157.7（C-5），99.3（C-6），164.2（C-7），94.4（C-8），161.9（C-9），104.1（C-10），121.6（C-1），130.1（C-2'），116.4（C-3'），161.7（C-4'），116.4（C-5'），128.9（C-6'）。以上数据与文献(李晓亮等，2007)报道一致，故鉴定化合物为芹菜素（apigenin）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物3红棕色粉末（甲醇）。HR-ESI-MS $m / z$ ：287.0556[M-H]，分子式为 $\\mathrm { C _ { 1 5 } H _ { 1 } }$ ${ } _ { 2 } \\mathrm { O } _ { 6 }$ 。 $\\mathrm { ^ 1 H }$ -NMR（DMSO- ${ \\bf \\cdot d } _ { 6 }$ ， $6 0 0 ~ \\mathrm { M H z }$ ）8:7.25(1H，d, $J { = } 1 . 8 \\ \\mathrm { H z }$ ，H-2），7.18（1H，dd,$J { = } 8 . 4 ~ \\mathrm { H z }$ ， $J { = } 1 . 8 \\ \\mathrm { H z }$ ，H-5）,6.80（1H，d， $J { = } ~ 8 . 4 ~ \\mathrm { H z }$ ，H-6)，7.63（1H，d， $J { = } 1 5 . 6 \\ \\mathrm { H z }$ H-a），7.65（1H，d， $J = ~ 1 5 . 6 ~ \\mathrm { H z }$ ， $\\mathrm { H } \\mathrm { - } \\beta$ ），6.41（1H，d， $J { = } 9 . 0 ~ \\mathrm { H z }$ ，H-5'），7.67（1H,d， $J { = } 9 . 0 ~ \\mathrm { H z }$ ，H-6')。 $^ { 1 3 } \\mathrm { C }$ -NMR（DMSO- ${ \\bf \\cdot d } _ { 6 }$ ， $1 5 0 ~ \\mathrm { M H z }$ ）8:126.3（C-1），115.9（C-2），145.6（C-3），148.9（C-4），115.8（C-5），122.3（C-6），122.3（C-a），144.6（C-β），192.0( $\\scriptstyle { \\mathrm { C = O } }$ ），113.4（C-1'），153.6（C-2'），132.4（C-3'），152.5（C-4'），107.7（C-5'），117.4（C-6'）以上数据与文献(Kwon et al.，2009)报道一致，故鉴定化合物为奥卡宁（okanin）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物4黄色粉末（甲醇），Molish反应阳性。 $\\mathrm { ^ { 1 } H }$ -NMR（DMSO- ${ \\bf \\cdot d } _ { 6 }$ ， $6 0 0 \\mathrm { M H z }$ ） 8:7.27(1H,d， $J { = } 1 . 8 \\mathrm { H z }$ ，H-2），7.21（1H，dd， $J { = } 8 . 4 \\mathrm { H z }$ ， $J { = } 1 . 8 \\operatorname { H z }$ ，H-5），6.84（1H，d， $J { = } 8 . 4$ Hz，H-6)，7.65（1H，d， $J { = } 1 5 . 6 \\operatorname { H z }$ ，H-a），7.69（1H，d， $J { = } 1 5 . 6 \\operatorname { H z }$ ， $\\mathrm { H } \\mathrm { - } \\beta$ ），6.75（1H，d， $\\scriptstyle J = 9 . 0 \\mathrm { H z }$ ，H-5'），7.75（1H，d， $\\scriptstyle J = 9 . 0 { \\mathrm { H z } }$ ，H-6')， ${ \\delta } 3 . 7 5 { \\sim } 5 . 4 7$ 为葡萄糖上质子信号，7.56(2H，d， $\\scriptstyle J = 9 . 0 { \\mathrm { H z } }$ ， $\\mathrm { H } { - } 2 ^ { \\prime \\prime }$ ，H $\\cdot 6 ^ { \\prime \\prime \\prime }$ )，6.73（2H，d， $\\scriptstyle J = 9 . 0 \\mathrm { H z }$ ， $\\mathrm { H } { - } 3 ^ { \\prime \\prime \\prime }$ ， $\\mathrm { H } { - } 5 ^ { \\prime \\prime \\prime }$ )，6.43（1H，d,（20 $J { = } 1 6 . 2 \\mathrm { H z }$ ， $\\mathbf { H } – 8 ^ { \\prime \\prime \\prime }$ ），7.55（1H，d, $J { = } 1 6 . 2 \\mathrm { H z }$ ， $\\operatorname { H } \\lnot 9 ^ { \\prime \\prime \\prime }$ ）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ ${ \\mathrm { D M S O - d } } _ { 6 }$ ， $1 5 0 \\mathrm { M H z }$ ）8:126.1（C-1），116.2（C-2），145.6（C-3），149.1（C-4），115.5（C-5），122.2（C-6），117.4（C-a），145.4（ $\\mathbf { \\cdot } ( \\mathbf { \\cdot } \\mathbf { \\beta }$ ），192.6（ $\\scriptstyle \\mathrm { C = O }$ ），115.7（C-1），152.5（C-2'），134.4（C-3'），150.3（C-4'），106.3（C-5'），121.4（C-6），100.5（C-1\"），73.8（ $C { - } 2 \"$ ），75.7（ $\\mathbf { C } { - } 3 \" \\mathbf { \\Omega }$ ），69.9 ( $\\mathrm { [ - } 4 \" ]$ ），73.1（ $C { - } 5 { ^ { \\prime \\prime } }$ ），63.3（ $\\mathbf { \\tilde { { C } } } \\mathbf { - } 6 ^ { \\prime \\prime }$ ），125.0（C-1\"），130.4（ $\\mathbf { C } { - } 2 ^ { \\prime \\prime \\prime }$ ， $\\mathbf { C } { - } 6 ^ { \\prime \\prime \\prime }$ ），115.7（ $\\mathbf { C } { - } 3 \" \"$ ， $\\mathbf { C } { - } 5 \" \"$ ），159.9.( $( \\mathrm { C } \\mathrm { - } 4 ^ { \\prime \\prime \\prime }$ ），145.0（ $\\mathbf { { \\vec { C } } ^ { - 7 ^ { \\prime \\prime \\prime } } }$ ），113.9（ $ { \\mathbf { C } }  { - } 8 ^ { \\prime \\prime \\prime }$ ），166.5（ $\\left[ { \\bf C } { \\cdot } 9 ^ { m } \\right]$ ）以上数据与文献(Hoffmann& Holzl，1988)报道一致，故鉴定化合物为 okanin-4'-O-0 $\\langle 6 ^ { \\prime \\prime }$ -trans $p$ -coumaroyl)- $\\beta$ -D-glucoside。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物5白色针晶（甲醇），HR-ESI-MS m/z：146.0602 $\\boldsymbol { \\left[ \\mathrm { M + H } \\right] ^ { + } }$ ，分子式为 $\\mathrm { C _ { 9 } H _ { 7 } N }$ 0。 $\\mathrm { ^ { 1 } H }$ -NMR（ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ， $6 0 0 ~ \\mathrm { M H z }$ ） $\\delta$ ：9.90（1H，s，3a-CHO），8.18（1H，dt， $J = 7 . 7$ （204号Hz, $J = 1 . 1 \\mathrm { H z }$ ，H-4），8.10（1H，s，H-2），7.27（1H，m，H-5），7.27（1H，m，H-6），7.49（1H，dt, $J = 8 . 1 \\ \\mathrm { H z }$ ， $J = 1 . 0 ~ \\mathrm { H z }$ ，H-7）。 ${ } ^ { 1 3 } \\mathrm { C } .$ -NMR（ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ， $1 5 0 ~ \\mathrm { M H z }$ ） $\\delta$ 138.3（C-2），118.7（C-3），124.3（C-3'），122.2（C-4），121.0（C-5），123.6（C-6），111.7（C-7），137.5（C-7'），186.0（C-3a）。以上数据与文献(Yang＆Ye,2009)报道一致，故鉴定化合物为 $1 H .$ -indole-3-carbaldehyde。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物6淡黄色粉末（甲醇），HR-ESI-MS m/z：123.0441 $\\mathrm { [ M + H ] } ^ { + }$ ，分子式为 $\\mathrm { C _ { 7 } H _ { 6 } O _ { 2 } }$ 。$\\mathrm { ^ 1 H }$ -NMR（ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ， $6 0 0 \\mathrm { M H z }$ ）δ:9.72（1H，s，-CHO），7.76（2H，d, $J { = } 8 . 7 \\ : \\mathrm { H z }$ ，H-3/5），6.87 (2H，d, $J { = } 8 . 6 \\mathrm { H z }$ ，H-2/6）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ， $1 5 0 \\mathrm { M H z }$ ） $\\delta$ ：127.6（C-1），132.2(C-2/6），116.3（C-3/5），166.5（C-4），191.2（-CHO）。以上数据与文献(方前波等，2010)报道一致，故鉴定化合物为对羟基苯甲醛（ $p$ -hydroxybenzaldehyde）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物7 淡黄色固体（甲醇），HR-ESI-MSm/z： $1 8 3 . 0 6 4 5 [ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ ，分子式为 $\\mathrm { { C } _ { 9 } \\mathrm { { H } _ { 1 0 } \\mathrm { { O } _ { 4 } } } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { ^ 1 H }$ -NMR （ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ， $6 0 0 \\mathrm { M H z }$ ） $\\delta$ : 9.74（1H，s，-CHO），7.21（2H，s，H-2/6），3.93（6H,S， ${ \\mathrm { - O C H } } _ { 3 }$ ）。 ${ } ^ { 1 3 } \\mathrm { C }$ -NMR（ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ， $1 5 0 ~ \\mathrm { { M H z } }$ ）δ:106.9（C-2/6），148.5（C-3/5），191.4（-CHO），55.4（ ${ \\mathrm { - } } 2 { \\mathrm { - } } \\mathrm { O C H } _ { 3 }$ ）。以上数据与文献(Chang etal.,2013)报道一致，故鉴定化合物为3,5-二甲氧基-4-羟基苯甲醛（3,5-dimethoxy-4-hydroxybenzaldehyde）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "化合物8无色针状晶体(甲醇),HR-ESI-MSm/z:343.1545[M-H],分子式为 $\\mathrm { C _ { 2 0 } H _ { 2 4 } O _ { 5 } }$ 。$\\mathrm { ^ 1 H }$ -NMR（ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ， ${ 6 0 0 } \\mathrm { M H z }$ ） $\\delta 6 . 5 9$ (2H，d, $J { = } 2 . 0 \\mathrm { H z }$ ，H-3/3'），6.67 （ $2 \\mathrm { H }$ ，d， $J { = } 7 . 9 \\mathrm { H z }$ ，H-6/6'），6.53（2H，dd， $J { = } 8 . 0 \\mathrm { H z }$ ， $J { = } 2 . 0 \\mathrm { H z }$ ， $_ { \\mathrm { H - } 5 / 5 ^ { \\prime } }$ ），3.87（2H，dd， $J { = } 8 . 6 \\mathrm { H z }$ ， $J =$ $6 . 6 \\mathrm { H z }$ ， $\\mathrm { { H - } } 9 / 9 \\mathrm { { ^ { \\prime } a } }$ ），3.78（6H，s，2/2'-OMe），3.50（2H，dd， $J { = } 8 . 6 \\mathrm { H z }$ ， $J { = } 6 . 6 \\mathrm { H z }$ ， $_ { \\mathrm { H - 9 / 9 ^ { \\prime } b } }$ ），2.51 (4H，dd, $J { = } 7 . 2 \\mathrm { H z }$ ， $J { = } 5 . 3 \\mathrm { H z }$ ，H-7/7'），2.18（2H，m，H-8/8'）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ，$1 5 0 ~ \\mathrm { M H z }$ ） $\\delta$ : 144.4（C-1/1'），147.5（C-2/2'），111.9（C-3/3'），131.9（C-4/4'），120.8(C-5/5'），114.6（C-6/6'），38.5（C-7/7'），46.3（C-8/8'），73.0（C-9/9'），54.9（2/2'-OMe）。以上数据与文献(Lai-King&Brown，1998)报道一致，故鉴定化合物为3,4-divanillyltetrahydrofuran。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "化合物9 淡黄色固体(甲醇),HR-ESI-MSm/z:643.1002[M-H],分子式为 $\\mathrm { C } _ { 3 3 } \\mathrm { H } _ { 4 0 } \\mathrm { O } _ { 1 3 }$ 。${ } ^ { 1 } \\mathrm { H } \\cdot$ -NMR（ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ， $6 0 0 ~ \\mathrm { { M H z } }$ ）δ：6.69（2H，s，H-2/6），6.66（2H，s，H-2\"/6\"），6.28（2H，s，H-2/6'），4.99（1H，m，H-7\"），4.77（1H，d， $J { = } 4 . 5 \\ : \\mathrm { H z }$ ，H-7），4.74（1H,d， $J = 4 . 5 ~ \\mathrm { H z }$ ，H-7'），4.31（1H，m，H-9a），4.31（1H，m， ${ \\mathrm { \\Pi } } \\mathrm { H } { \\mathrm { - } } 9 \\mathbf { \\dot { a } }$ ），4.31（1H，m,H-8\"），3.93（1H，m，H-9'b），3.93（1H，m，H-9b），3.93（1H，m， $\\mathbf { H } \\mathbf { - } 9 \" \\mathbf { a }$ ），3.93（1H，dd， $J = 1 2 . 0 \\mathrm { H z }$ ， $J { = } 3 . 5 \\mathrm { H z }$ ，H-9\"b），3.87（6H，s， $2 ^ { \\ast } \\mathrm { O M e }$ ），3.84（6H，s， $2 ^ { \\ast } \\mathrm { O M e }$ ），3.83（6H，s, $2 ^ { \\ast } \\mathrm { O M e }$ ），3.16（1H，m，H-8），3.16（1H，m，H-8'）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ，$1 5 0 \\mathrm { M H z }$ ） $\\delta$ : 134.8（C-1），102.8（C-2/6），147.5（C-3/5），137.5（C-4），85.9（C-7），54.3（C-8），71.5（C-9），134.8（C-1'），103.1（C-2/6'），153.1（C-3/5'），131.7（C-4'）,85.7（C-7'），54.0（C-8'），71.6（C-9'），131.6（C-1\")，103.8（C-2\"/6\"），147.9（C-3\"/5\"），134.4（C-4\"），72.9（C-7\"），86.2（C-8\")，60.4（C-9' \")，55.4（ ${ 2 ^ { * } \\mathrm { O M e } }$ ），55.3（ ${ \\bf \\nabla } _ { 2 } { \\ast } _ { \\mathrm { O M e } }$ ），55.3 ( $2 ^ { \\ast } \\mathrm { O M e }$ ）。以上数据与文献(钟金栋等，2013)报道一致，故鉴定化合物为buddlenolD。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "稀签草为我国传统中草药，临床应用广泛，多以复方有效治疗痛风、类风湿性关节炎、三叉神经痛、高血压、冠心病、黄疸型肝炎、中风及其后遗症等(沈震等，2013；石斌豪等，2015；王远征和李国庆，2016；刘流，2016；Liu etal.,2016；卢裕强等，2016；何威和曹亚丽，2016)。化学成分以黄酮类、二萜和倍半萜类化合物居多。本课题组前期研究发现毛梗稀签草具有很强的抑制细胞坏死性凋亡（necroptosis）的活性，对其进行了化学成分分离，得到的9个化合物，其中包括4个黄酮类化合物3,7-二甲氧基槲皮素（1），芹菜素（2），奥卡宁（3），okanin- 4'-O- $\\cdot \\beta$ -D-6\"-trans- $p$ -coumaroylglucoside（4）；1个生物碱类化合物$1 H \\cdot$ -indole-3-carbaldehyde（5）；2个芳香化合物：对羟基苯甲醛（6）和3.5-二甲氧基-4-羟基苯甲醛（7）；2个木脂素类化合物3,4-divanillyltetra-hydrofuran（8）和buddlenolD（9）。除化合物1和6外，其余7个化合物均为首次从稀签属植物中分离得到。最新的研究表明necroptosis 在许多疾病的发病机制中起到重要作用。抑制 necroptosis 能减少这些疾病带来的损伤。因此 necroptosis 代表了一类广泛疾病的治疗目标，寻找特异性抑制剂来调控necroptosis，在生物医学研究和创新药物研发领域都具有至关重要的意义，可以为治疗多种疾病提供新的思路，已经成为当今新药研究的热点。本研究丰富了稀签草的化学成分，为下一步发现稀签草细胞坏死性凋亡抑制剂提供了化学依据，也为设计开发针对细胞坏死性凋亡相关疾病的临床药物奠定了一定的化学基础，同时对丰富的稀签草野生资源的开发和利用起",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "到一定的推动作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献:   \nANDREAS L,DAUGLAS R,GREEN，2014. Necroptosis [J]. N Engl J Med,1:455-465.   \nCHANG CC，LING XH,HSU HF,et al.，2016. Siegesbeckia orientalis extract inhibits TGFβ1-Induced migration and invasion of endometrial cancer cells [J]. Molecules,21(8): 1021-1029.   \nCHANG R, WANG C, ZENG Q, et al., 2013. Chemical constituents of the stems of Celastrus rugosus [J]. Arch Pharm Res,36(11): 1291-1301.   \nCHEN SH, ZHAO PC, CHEN MZ, et al., 2017. Species identification and growth characteristics of endophytic anti-infective bacteria from herba Siegesbeckiae [J]. Biotechnol Bull,33(2): 137-142．［陈少红，赵朋超，陈明钊，等，2017．稀签草内生抗感染细菌的分离鉴定及生 长特性［J]．生物技术通报，33(2)：137-142.]   \nCHEN DS,YU J, ZHANG L, 2016. Necroptosis: an alternative cell death program defending against cancer [J]. Biochimica et Biophysica Acta,1865: 228-236.   \nFANG QB, QIN KM, PAN Y, et al., 2010. Chemical composition of Baihe Zhimu decoction(I) [J]. Chin Trad Herb Drugs,41(4):517-520.[方前波，秦昆明，潘扬，等，2010．百合知母汤的 化学成分研究（I）[J]．中草药，41(4)：517-520.]   \nFU XC, JIANG FP,FAN JZ, et al., 2O13.Extract of herba Siegesbeckiae on mouse rheumatoid arthritis induced by anthrogen-CIA monoclonal antibody [J]. J Zhejiang Univ (Med Sci), 42(5): 556-560.［傅旭春，蒋芳萍，范珈祯，等，2013．稀签草对单克隆抗体组合诱导的小鼠类 风湿关节炎作用［J]．浙江大学学报医学版，42(5)：556-560.]   \nHE W, CAO YL,2016. The application of the addition and subtraction of Professor Zhao Jifu’s Chen Cao formula in apoplexy[J].JClin Med Lit,3(17): 3518-3519.[何威，曹亚丽，2016．赵 继福教授稀签草方加减在中风病中的应用［J]．临床医药文献电子杂志，3(17)： 3518-3519.]   \nHOFFMANN B, HOLZL J,1988. New Chalcones from Bidenspilosa [J]. Planta Med, 54: 52-54.   \nHONG YH, WENG LW, CHANG CC, et al., 2014. Anti-inflammatory effects of Siegesbeckia orientalis ethanol extract in vitro and in vivo models [J]. Biol Med Res Int.， 2014(2): 329712-329721.   \nKIM H, JEONG C,LIM E, et al., 2016. Antibacterial Effect of Siegesbeckia pubescens Extract against fish pathogenic Streptococcus iniae [J]. Korean JFish Aquat Sci, 49(5): 678-682.   \nKWON JW, BYUN E,LEE EJ et al.， 2009. Antioxidative and hepatoprotective effect of compounds from the flowers of Bidens bipinnata L.[J]. Korean J Pharmacognosy, 40(4): 345-350.   \nLAI-KING SY, GEOFFREY DB, 1998. Novel phenylpropanoids and lignans from Ilicium verum [J]. J Nat Prod, 61(8): 987-992.   \nLEE HJ, QIAN W, HUA L, et al., 2O16. A sesquiterpene lactone from Siegesbeckia glabrescens suppresses Hedgehog/Gli-mediated transcription in pancreatic cancer cells [J]. Oncol Leet, 12(4): 2912-2917.   \nLEE HN, JOO JH, OH JS, et al.，2014. Regulatory efects of Siegesbeckia glabrescens on   \nnon-small cell lung cancer cell proliferation and invasion [J]. Am J Chin Med. 42(2):   \n453-463.   \nLI XL，WANG H,LIU G, et al.， 2007. Study on chemical constituents from Desmodium styracifolium[J].Chin Med Mat,30(7): 802-805.[李晓亮，汪豪，刘戈，等，2007．广金钱 草的化学成分研究[J]．中药材，30(7)：802-805.]   \nLIU C,LI Z, LIANG Y, 2O16. Research of compatibility law of traditional Chinese medicine in treating rheumatoid arthritis [C] // Biotechnology and Medical Science: Proceedings of the 2016 International Conference on Biotechnology and Medical Science. World Scientific: 307-313.   \nLIU L,2O16. 46 cases of rheumatoid arthritis treated by oral medicine and rubbing [J]. Nei MongolJTrad Chin Med,35(4):15-16.[刘流，2016．中汤药内服与外擦治疗类风湿关节炎 46 例[J]．内蒙古中医药，35(4)：15-16.]   \nLOU YF, LI Y, HU B,2O13. Protective effect of total flavonoids in herba Siegesbeckiae on cerebral is chemia in rats [J].JPharm Pract,31(1): 42-44.[娄月芬，李盈，胡滨，2013．稀签 草总黄酮对大鼠脑缺血损伤的保护作用及其作用机制研究［J]．药学实践杂志，31(1)： 42-44. ]   \nLU Y, QIAN R, XIAO J, et al., 2014. Kirenol, a compound from herba Siegesbeckiae, induces apoptosis in human chronic myeloid leukemia K562 cells [J]. Pharmazie, 69(2): 148-148.   \nLU YQ, QIU T, QIU CL, 2016. Qiu Changlin's commonly used drugs for trigeminal neuralgia [J]. Chin J Trad Chin Med Pharm,31(2):527-529.[卢裕强，裘涛，裘昌林，2016．裘昌林治疗 三叉神经痛常用药对采擷[J]．中华中医药杂志，31(2)：527-529.]   \nNational Pharmacopoeia Commission, 2015. Pharmacopoeia of the People's Republic of China. A [M].Beijing:China Medical Science Press: 368-368.[国家药典委员会，2015.中华人民共和 国药典.一部[M]．北京：中国医药科技出版社：368-368.]   \nNGUYEN TD, THUONG PT, HWANG IH, et al., 2017. Anti-Hyperuricemic,anti-inflammatory and analgesic effects of Siegesbeckia orientalis L. resulting from the fraction with high phenolic content [J]. BMC Compl Altern Med,17(1): 191-191.   \nPARK JA, JIN KS,JI YL, et al. 2O13. Anti-oxidative and anti-obesity activities of Tetrapanax papyriferus and Siegesbeckia pubescens extracts and their synergistic anti-obesity effects [J]. J Biochem (Korean), 41(41): 341-349.   \nSHEN Z, CAO Q, LIU XD, 2013. Effect of artemisia anomala, glandularstalk st. paulswort herb and tauro ursodesoxy cholic acid on the treatment of viral cholestatic hepatitis [J]. Jilin J Trad Chin Med,33(12):1229-1231.[沈震，曹琴，刘旭东，2013．刘寄奴，稀签草联合牛磺熊 去氧胆酸治疗病毒性淤胆型肝炎[J]．吉林中医药，33(12)：1229-1231.]   \nSHI BH, JIA JW, WANG J,2O15. A clinical analysis of patients with hepatitis B virus related acute-on-chronic liver failure treated by combination of traditional Chinese and western medicine [J].Chin JTCMWM Crit Care,3(17):3518.[石斌豪，贾建伟，王娇，2015．中西 医结合治疗乙型肝炎病毒相关慢加急性肝衰竭患者的临床疗效分析［J]．中国中西医结合 急救杂志，22(3)：267-271.]   \nWANG FH, FE QX, BIN YU, et al., 2012. Siegesbeckia pubescens makino IIA on deep venous thrombosis of rat vWF and ICAM-1 Levels [J]. J Liaoning Univ Trad Chin Med,14(2): 69-71. [王发辉，冯起校，于斌，等，2012．腺梗稀签IIA 对深静脉血栓形成大鼠vWF及ICAM-1 水平的影响[J]．辽宁中医药大学学报，14(2)：69-71.]   \nWANG YZ,LI GQ,2016. Treatment of gout [J]. China's Naturopathy,24(3): 89-89.[王远征，李 国庆，2016．治疗痛风验方［J]．中国民间疗法，24(3)：89-89.]   \nWEBER C,FRAEMOHS L,DEJANA E, 2007. The role of junctional adhesion molecules in vascular inflammation [J]. Nat Rev Immunol, 7(6): 467-477.   \nWU J, QU Y,DENG J, et al., 2O17.Molecular docking studies of kirenol a traditional Chinese medicinal compound against rheumatoid arthritis cytokine drug targets (TNF- $\\mathbf { \\alpha } _ { \\mathrm { ~ \\mathfrak { a } ~ } }$ , IL-1 and IL-6) [J].Bio Med ResInt, 28(5) : 1992-1995.   \nWU LC, XIE NN, ZHOU SA, et al., 2016. The molecular mechanisms of necroptosis and its role in inflammation[J].Chin JCell Biol,38(1):7-16.[吴晨露，谢南南，周伸奥，等，2016．程 序性细胞坏死的分子机制及其在炎症中的作用［J]．中国细胞生物学学报，38(1)：7-16.]   \nWU Q，LI H, LEE SY, et al.，2015. New cytotoxic sesquiterpenoids from Siegesbeckia glabrescens [J]. Molecules,20(2): 2850-2856.   \nXIONG J, MA Y, XU YL,1997. The constituents of Siegesbeckia orientalis [J]. Nat Prod Rep, 3 (1): 14-18.   \nYANG Y, CHEN H, LEI J, et al.， 2016. Biological activity of extracts and active compounds isolated from Siegesbeckia orientalis,L[J]. Ind Crop Prod, 94: 288-293.   \nYANG, QIN, YE, GUAN, 2009. A new C-glucoside from Commelina communis [J]. Chem Nat Compd, 45 (1): 59-60.   \nZENG LF, XU JW，X L，et al.，2O17. Separation and identification of flavonoids from Siegesbeckia glabrescens [J].Chin JExp Trad Med Form,23(14):74-77.[曾令峰，徐骏伟，徐 丽，等，2017．毛梗豨签草黄酮类化学成分分离鉴定[J]．中国实验方剂学杂志，23(14)： 74-77.]   \nZHANG C, CAI SJ, CHEN WY, et al., 2014. Scavenging effect of Siegesbeckia leaves extracts on hydroxyl radical [J]. J Southern Agric, 45(6): 1060-1064.   \nZHONG JD,LI YP,LI HM, et al.，2013. Chemical constituents from Croton caudatus var. tomentosus[J].Nat Prod Res Dev,25(12): 1658-1661.[钟金栋,李艳平,李洪梅,等,2013.毛 叶巴豆的化学成分研究［J]．天然产物研究与开发，25(12)：1658-1661.]   \nZHU LL, XU L,LIU CL, et al., 2O18. Advances in research of phytopharmaceutical effects of jacksonin recent five years [J].Jiangxi JTrad Chin Med,49(1O): 73-76.[朱伶俐，徐丽，刘春 玲，等，2018．近五年稀签草药理作用研究进展［J]．江西中医药，49(10)：73-76.]   \nZHU LL, XU L, WU HQ, et al., 2018. Chemical components of Siegesbeckia glabrescens I [J]. ChinJExp Trad Med Form,24(2):57-61.[朱伶俐，徐丽，吴华强，等，2018．毛梗稀签草 化学成分研究ⅡI［J]．中国实验方剂学杂志，24(2)：57-61.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

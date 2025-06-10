@@ -1,0 +1,111 @@
+# 基于目标成就评量的社区慢性颈肩痛人群中医健康管理服务实施效果及影响因素分析
+
+邱先桃 任建萍 贺梦妍 任理仙 曹庆春 王锦晶 王文婷基金项目：国家自然科学基金项目（71874047）邮编：311121，浙江省杭州市，杭州师范大学公共卫生学院通信作者：任建萍，教授，博士生导师，Email：rjp9999 $@$ 163.com
+
+【摘要】背景颈肩痛的全球疾病经济总负担排名第21名，及时采取规范性的干预措施，可有效缓解患者疼痛和治疗疾病。运用目标成就评量法，克服了标准化测量的程度限制，更加具有针对性，对干预效果评估工具的更新、社区中医健康管理服务能力提升具有重要意义。目的 分析杭州市社区卫生服务中心中医健康管理综合干预措施实施的效果及影响因素。方法 于2020年8-9月，抽取杭州市3家社区卫生服务中心共244名慢性颈肩痛患者进行基线调查，将纳入的调查对象随机分成对照组（ $\scriptstyle \cdot = 1 2 2$ ）和干预组（ $\scriptstyle 1 = 1 2 2$ ）。对照组接受单纯针灸治疗，干预组在此基础上增加综合中医健康管理措施。2020年11月，进行干预效果评估调查，调查内容包括基本资料、长海痛尺及基于目标成就评量法的调查表。结果干预后对照组和干预组GAS 公式总分分别为 $( 4 2 . 9 4 \pm 7 . 5 7 )$ 分、（51.20$\pm 7 . 8 1 \$ ）分。对照组44名（ $3 6 . 1 \%$ ）患者达到或超过预期目标，干预组92名（ $7 5 . 4 \%$ ）患者达到或超过预期目标。多元线性回归分析结果显示，干预组中医体质、自评健康状况、饮酒对GAS 公式得分产生一定的影响（ $( P { < } 0 . 0 5 )$ ）。结论 中医健康管理综合干预措施能够较大改善慢性颈肩痛患者的睡眠质量、本体感受功能和缓解疼痛感，进而提高患者生活质量，可在基层医疗机构实施以健康管理为基础的中医综合干预措施。
+
+【关键词】社区卫生服务中心；中医健康管理；慢性颈肩痛；目标成就评量法
+
+Analysis effect and associated factors of traditional Chinese medicine health management services for the community with chronic neck and shoulder pain based on goal attainment scaling
+
+Jiu Xiantao,Ren Jianping, He Mengyan,Ren Lixian,Cao Qingchun, Wang Jinjing, Wang Wenting Fund program: National Natural Science Foundation of China (71874047） School ofPublic Health,Hangzhou Normal University,Hangzhou 31ll21,China Corresponding author: Ren Jianping, Professor,Doctoral supervisor,Email: rjp9999@163.com
+
+【Abstract】BackgroundThe global total economic burden of neck and shoulder pain ranks 21st.Effective intervention measures can effctivelyrelieve pain and treatthe disease.The goal attainment scaling method overcomes the degre of standardizationand more targeted.Itis of great significance for the update of intervention effect evaluation tools and the improvement of community traditional Chinese medicine health management service capabilities. Objective Analysis of the effect and associated factors ofthe implementation effects ofcomprehensive intervention measures for Traditional Chinese Medicine health management incommunity healthservices center in Hangzhou.Methods FromAugust to September 2020,a total of 244 patients with chronic neck and shoulder pain from 3 community health centers in Hangzhou were selected fora baseline survey.The included survey subjects were randomly divided into a control group （20 $( \mathrm { n } { = } 1 2 2 )$ ） and an intervention group $( \mathrm { n } { = } 1 2 2 )$ ). The control group received pure acupuncture treatment, and the intervention group added comprehensive Chinese medicine health management services on this basis. In November 2020,an intervention efect evaluation survey was conducted.Thesurveycontent includes basic data, Changhai Pain Rulerand goal atainment scaling method.Results Afterthe intervention,the total GASscores ofthe control groupandthe intervention group were $( 4 2 . 9 4 \pm 7 . 5 7 ) \$ points and $( 5 1 . 2 0 \pm 7 . 8 1 ) \$ points. In the control group, 44 $( 3 6 . 1 \% )$ patients met or exceeded expectations, and 92 $( 7 5 . 4 \% )$ patients in the intervention group met or exceeded expectations. The results of multiple linear regresion analysis showed thatTCM physique,self-rated health status,drink alcohol in the intervention group had effects on the GAS formula score( $\scriptstyle \overbrace { P } { < } 0 . 0 5 )$ . Conclusions Comprehensive intervention measures of traditional Chinese medicine health managementcan greatly improve the sleepquality,proprioceptive function and pain relief ofpatients with chronic neck and shoulderpain, thereby improving the qualityoflife,comprehensive interventions oftraditional Chinese medicine based on health management can be implemented in primary medical institutions.
+
+【Key words】 Community health services center;Traditional Chinese Medicine health management;Chronic neck and shoulder pain;Goal Attainment Scaling
+
+颈肩痛是常见的肌肉骨骼疼痛，作为常见的临床症状之一，可分为特异性疼痛和非特异性疼痛[1]。非特异性疼痛是指由于颈部或颈椎在活动过程中出现颈部软组织损伤或拉伤引起的，以局部肿胀、疼痛、功能受限为主要表现的一类疾病，因病因隐匿、病情反复，常错过最佳治疗时机而演变成慢性颈肩痛[2]，一生平均发病率为 $4 8 . 5 \% [ 3 ]$ 在全球致残原因排名第四位[4]。国外主要采用消炎镇痛等治疗方法，国内主要以针灸推拿等传统医学为主。慢性颈肩痛作为居民常见病、多发病，在社区卫生服务机构开展预防、保健、健康教育、中医诊疗等服务不仅方便患者就医，还提高基层医疗资源利用率。基层中医药服务是中医药发展的基础，是维护人民健康的基础保障，提高中医药健康管理服务能力成为基层中医药服务能力建设的重点；然而目前对中医健康管理效果评价研究较少且没有标准测量工具，大多利用中医证候量表或者疾病特异性量表等进行评价[5-6]。目标成就评量法（Goal Atainment Scaling，GAS）最初是评估社区心理健康计划的方法，其优势在于评价指标由医生与服务对象共同商讨制定，且不局限于任何一种特定疾病，根据服务对象的具体情况设定对应目标，赋予目标权重，制定针对性的干预措施，最后评价每个人目标的实现程度[7-8]。GAS 法被视为一种卫生服务综合指标评价方法，其真正价值在于评价那些难以确定服务标准的卫生服务措施，因此与社区卫生服务的吻合程度更高9]。随着慢性颈肩痛发病率的升高且年轻化趋势明显，对该人群进行疼痛评估和健康管理成为医疗健康领域的关注热点。鉴于此，本研究基于目标成就评量法，从社区中医健康管理的角度，调查杭州地区基层卫生服务机构慢性颈肩痛人群接受中医健康管理综合干预的效果，同时分析可能影响干预效果的因素，为完善社区慢性颈肩痛人群的健康管理提供参考，同时为社区干预效果评价提供测量工具的经验。
+
+# 1对象与方法
+
+1.1研究对象2020年8-9月，采用典型抽样方法抽取杭州市3家社区卫生服务中心共262名符合条件的患者，利用随机数字表，按照1:1分配比例将其平均分为两组。2020年11月对262名患者进行随访，其中，干预组和对照组均有122名患者完成本次干预调查，各失访9人，失访率为 $6 . 9 \%$ 。纳入标准： $\textcircled{1}$ 年龄40-85岁； $\textcircled{2}$ 符合加拿大2014年成人颈痛治疗循证指南诊断标准； $\textcircled{3}$ 过去4周内未接受过社区中医健康管理服务； $\textcircled{4}$ 能自主表达且自愿参加本研究。排除有严重并发症，依从性差及难以随访患者。所有对象均在知情同意的情况下接受调查和干预。对照组中男30例，女92例；年龄40\~84岁，平均年龄（ $5 8 . 6 6 \pm 1 . 0 1 \$ ）岁；慢性颈肩痛病程以在5年及以下居多，为89人 $73 \%$ ），病程5-10年的有21人（ $1 7 . 2 \%$ ），病程 $\geqslant 1 0$ 年的有12人（ $( 9 . 8 \%$ ），平均病程为（ $6 2 . 5 2 \pm 8 2 . 0 9 \cdot$ ）月；自评健康状况平均为（ $7 2 . 4 9 \pm 1 2 . 7 8 \$ ）分；长海痛尺平均得分为（ $2 . 2 5 \pm 0 . 9 0 )$ 分。干预组中男26例，女96例；年龄 40\~83岁，平均年龄（ $\left. 6 2 . 1 4 \pm 1 . 0 9 \right.$ ）岁；慢性颈肩痛病程以在5年及以下的居多，为91人！ $( 7 4 . 6 \%$ ），病程5-10年的有15人（ $12 . 3 \%$ ），病程 $\geqslant 1 0$ 年的有16人（ $1 3 . 1 \%$ ），平均病程为（ $6 1 . 4 8 \pm 8 4 . 0 7 \$ ）月；自评健康状况平均为中 $\langle 7 4 . 1 1 \pm 1 0 . 5 8 )$ 分；长海痛尺平均得分为（ $1 . 5 6 \pm 1 . 0 8 \$ ）分。两组患者的一般资料比较，差异无统计学意义（ $\mathrm { \Phi } _ { \cdot } P >$ 0.05），具有可比性。
+
+1.2方法对照组采用中医针灸干预方法，一周干预4次，为期一个月。干预组在对照组基础上给予相应的中医健康管理综合干预措施，具体如下： $\textcircled{1}$ 中医体质辨识：给予干预对象中医体质辨识服务，根据患者体质类型发放相应的中医健康手册，内容包括饮食调养、情志调摄、穴位保健、运动保健等。 $\textcircled{2}$ 中医健康教育：创建“社区健康小屋”交流站，宣传关于慢性颈肩痛的中医健康知识及传统养生方法。 $\textcircled{3}$ 健康管理随访服务：对干预对象进行电话回访，了解患者的饮食、运动、睡眠等情况及慢性颈肩痛易发生的健康问题并提供解决方法。针灸治疗一周开展一次，共4次；中医健康教育和随访服务一周开展2次，共8次，为期一个月。
+
+1.3评估工具本研究采用课题组研制的调查问卷进行现场调查，问卷内容包括： $\textcircled{1}$ 一般资料，包括人口学特征、生活行为习惯等信息； $\textcircled{2}$ 长海痛尺表； $\textcircled{3}$ 基于目标成就评量法（GAS）的社区中医健康管理效果评价问卷。此问卷借鉴慢性疼痛的国际功能分类（ICF）[10]，肩关节功能评分（CMS）[I]，张新宇关于慢性腰腿痛人群社区中医药健康管理效果评价调查问卷[12]，构建慢性颈肩痛人群的社区中医健康管理干预评价指标条目池，主要分为身体功能（8个条目）、活动和参与（19个条目）、环境和支持（4个条目）三个维度，共31个条目。GAS法由Kiresuk和 Sherman于1968年创立，是一种评估患者在干预过程中实现个人目标程度的方法，该方法运用5级Likert评分法进行评分，取-2、-1、0、1、2作为评分标准。在干预调查前，患者需从指标池中选择3-5个目标，对每个目标进行基线评分和预期水平评分；在干预结束后，对患者每个目标的达到程度进行终末实际评分；最终计算出的目标获得评分为终末实际评分与预期评分的差值，通过GAS计算公式将预期结果分数转换成以50为平均数，10为标准差的标准分数[13]，如果最终大于或等于50分，表示目标实现或超出预期；如果分数低于50分，表示目标低于预期结果。
+
+$$
+G A S = 5 0 + ~ { \frac { 1 0 { \sum } ( W _ { i } X _ { i } ) } { \sqrt { ~ _ { 0 . 7 } { \sum } W _ { i } { } ^ { 2 } + o . 3 ~ ( { \sum } W _ { i } ) ^ { 2 } } } }
+$$
+
+其中，Wi代表第i个目标的的权重，X代表第i个目标的目标获得分数。
+
+1.4统计学方法使用 EpiData3.1软件构建数据库，使用 SPSS21.0软件进行统计分析。一般人口学特征、生活行为方式进行频数、频率等描述性分析，GAS 公式得分采用均数土标准差描述，采用配对t检验方法比较干预前后GAS 公式得分的差异。采用方差分析、多元线性回归方法分析人口学因素、生活行为方式、针灸完成情况对GAS公式得分的影响。
+
+# 2结果
+
+2.1患者干预前后GAS公式得分比较对照组干预后GAS公式总分为！ $( 4 2 . 9 4 \pm 7 . 5 7 )$ 分，干预组干预后GAS公式总分为（ $5 1 . 2 0 { \scriptstyle \pm 7 . 8 1 }$ ）分，两组干预后GAS公式得分差异具有统计学意义！ $( P { < } 0 . 0 5$ ）。详见表1。
+
+表1对照组与干预组GAS公式得分比较 $( \stackrel { - } { x } \pm \mathrm { s }$ ，分）  
+
+<html><body><table><tr><td>组别</td><td>例数</td><td>对照组</td><td>干预组</td><td>t值</td><td>P值</td></tr><tr><td>干预前</td><td>122</td><td>12.98±13.17</td><td>11.82±10.71</td><td>0.754</td><td>>0.05</td></tr><tr><td>干预后</td><td>122</td><td>42.94±7.57</td><td>51.20±7.81</td><td>-8.392</td><td><0.05</td></tr><tr><td>t值</td><td></td><td>-8.421</td><td>-8.735</td><td></td><td></td></tr><tr><td>P值</td><td></td><td><0.05</td><td><0.05</td><td></td><td></td></tr></table></body></html>
+
+2.2患者干预前后目标选择及GAS 公式得分分布情况对照组选择目标排名前五位指标为疼痛（ $2 5 . 2 1 \%$ ）、睡眠 $( 1 0 . 7 4 \% )$ ）、保持身体姿势与获得关于颈肩痛保健知识的机会（均为 $7 . 8 5 \%$ ）、头晕与本体感受（均为 $7 . 0 2 \%$ ）。干预组选择目标排名前五位指标为疼痛（ $2 5 . 9 6 \%$ ）、睡眠（ $1 1 . 2 8 \%$ ）、本体感受（ $9 . 3 6 \%$ ）、头晕（ $8 . 3 0 \%$ ）、获得、保持与专业卫生人员的支持和联系（ $7 . 2 3 \%$ ）。其中，对照组78名（ $6 3 . 9 \%$ ）患者未达到预期目标，达到或超过预期的占少数，为44人 $( 3 6 . 1 \% )$ ，差异具有统计学意义（ $\cdot P { < } 0 . 0 5$ ）。干预组30名（ $24 . 6 \%$ ）患者未达到预期目标，达到或超过预期的占多数，为92人（ $7 5 . 4 \%$ ）。详见表2。
+
+表2对照组与干预组的GAS公式得分分布情况  
+
+<html><body><table><tr><td colspan="2">GAS公式得分</td><td colspan="2">对照组</td><td colspan="2">干预组</td></tr><tr><td></td><td></td><td>频数（N)</td><td>频率 (%)</td><td>频数（N)</td><td>频率 (%)</td></tr><tr><td>未达到预期效果</td><td><40</td><td>41</td><td>33.6</td><td>12</td><td>9.8</td></tr><tr><td rowspan="7">达到或超出预期效果</td><td>40-45</td><td>30</td><td>24.6</td><td>9</td><td>7.4</td></tr><tr><td>45-50</td><td>7</td><td>5.7</td><td>9</td><td>7.4</td></tr><tr><td>合计</td><td>78</td><td>63.9</td><td>30</td><td>24.6</td></tr><tr><td>50-55</td><td>40</td><td>32.8</td><td>56</td><td>45.9</td></tr><tr><td>55-60</td><td>3</td><td>2.5</td><td>25</td><td>20.5</td></tr><tr><td>W60</td><td>1</td><td>0.8</td><td>11</td><td>9.0</td></tr><tr><td>合计</td><td>44</td><td>36.1</td><td>92</td><td>75.4</td></tr><tr><td>合计</td><td></td><td>122</td><td>100.0</td><td>122</td><td>100</td></tr></table></body></html>
+
+2.3目标成就评量法（GAS）公式得分单因素分析基线调查结果显示，对照组和干预组在性别、年龄、文化程度、个人月收入、婚姻状况、中医体质、自评健康状况、慢性颈肩痛病程等情况无统计学差异（ $\cdot P { > } 0 . 0 5 )$ ，具有可比性。对照组干预前后患者的自评健康状况、针灸完成情况、是否运动在GAS 公式得分上差异具有统计学意义（ $\cdot P { < } 0 . 0 5 )$ ：；干预组干预前后患者的文化程度、婚姻状况、中医体质、自评健康状况在GAS 公式得分上差异具有统计学意义（ $( P { < } 0 . 0 5 )$ ）。其中，干预后的对照组和干预组GAS 公式得分比较，婚姻状况为未婚、离婚、丧偶，失业/无业，从事商业/服务人员、个体工商户，中医体质为气虚质、阴虚质、其他（湿热质、血虚质、特禀质）的患者差异无统计学意义（ $\cdot P { > } 0 . 0 5$ ）。详见表3。
+
+表3244例患者的一般资料及GAS公式得分情况  
+
+<html><body><table><tr><td rowspan="2">基本特征</td><td colspan="4">对照组（n=122）</td><td colspan="4">干预组（n=122）</td></tr><tr><td>频数</td><td>频率</td><td>GAS 公式得 分</td><td>F</td><td>频数</td><td>频率</td><td>GAS 公式得分</td><td>t F</td></tr><tr><td>文化程度</td><td></td><td></td><td></td><td>1.866</td><td></td><td></td><td></td><td>3.988*</td></tr><tr><td>小学及以下</td><td>30</td><td>24.6</td><td>45.66±7.05</td><td></td><td>35</td><td>28.7</td><td>51.55±7.32</td><td>-3.287*</td></tr><tr><td>初中</td><td>38</td><td>31.1</td><td>42.58±6.34</td><td></td><td>27</td><td>22.1</td><td>50.44±6.36</td><td>-4.919*</td></tr><tr><td>高中</td><td>29</td><td>23.8</td><td>41.61±9.39</td><td></td><td>25</td><td>20.5</td><td>55.26±8.60</td><td>-5.536*</td></tr><tr><td>大专及以上</td><td>25</td><td>20.5</td><td>41.76±7.11</td><td></td><td>35</td><td>28.7</td><td>48.54±7.77</td><td>-3.452*</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3">婚姻状况</td><td colspan="5">0.112</td><td colspan="3">4.257*</td></tr><tr><td>已婚</td><td>109</td><td>89.3</td><td>42.86±7.59</td><td></td><td>109</td><td>89.3</td><td>51.70±7.57</td><td></td><td>-8.606*</td></tr><tr><td>其他(未婚、离婚、丧偶)</td><td>13</td><td>10.7</td><td>43.60±7.60</td><td></td><td>13</td><td>10.7</td><td>47.03±8.85</td><td></td><td>-1.059</td></tr><tr><td>中医体质</td><td></td><td></td><td></td><td>1.939</td><td></td><td></td><td></td><td>4.091*</td><td></td></tr><tr><td>平和</td><td>29</td><td>23.8</td><td>39.98±9.15</td><td></td><td>33</td><td>27.0</td><td>55.73±7.68</td><td></td><td>-7.367*</td></tr><tr><td>气虚</td><td>16</td><td>13.1</td><td>45.94±4.45</td><td></td><td>18</td><td>14.8</td><td>47.31±5.69</td><td></td><td>-0.775</td></tr><tr><td>阳虚</td><td>25</td><td>20.5</td><td>41.84±8.73</td><td></td><td>20</td><td>16.4</td><td>48.55±8.63</td><td></td><td>-2.575*</td></tr><tr><td>阴虚</td><td>21</td><td>17.2</td><td>45.00±6.04</td><td></td><td>13</td><td>74.6</td><td>50.46±9.89</td><td></td><td>-2.003</td></tr><tr><td>痰湿</td><td>15</td><td>12.3</td><td>43.41±6.61</td><td></td><td>28</td><td>12.3</td><td>50.80±6.04</td><td></td><td>-3.702*</td></tr><tr><td>其他</td><td>16</td><td>13.1</td><td>43.86±6.21</td><td></td><td>10</td><td>13.1</td><td>50.62±5.37</td><td></td><td>-2.836</td></tr><tr><td>自评健康状况</td><td></td><td></td><td></td><td>4.010*</td><td></td><td></td><td></td><td>4.352*</td><td></td></tr><tr><td>比较差</td><td>11</td><td>9.0</td><td>43.02±7.59</td><td></td><td>10</td><td>8.2</td><td>50.46±5.42</td><td></td><td>-2.560*</td></tr><tr><td>一般</td><td>81</td><td>66.4</td><td>44.14±6.94</td><td></td><td>92</td><td>75.4</td><td>52.25±7.68</td><td></td><td>-7.249*</td></tr><tr><td>比较好</td><td>30</td><td>24.6</td><td>39.67±8.44</td><td></td><td>20</td><td>16.4</td><td>46.75±8.08</td><td></td><td>-2.955*</td></tr><tr><td>是否运动</td><td></td><td></td><td></td><td>4.239*</td><td></td><td></td><td></td><td>0.179</td><td></td></tr><tr><td>是</td><td>101</td><td>82.8</td><td>43.57±7.65</td><td></td><td>88</td><td>72.1</td><td>51.39±7.38</td><td></td><td>-7.118*</td></tr><tr><td>否</td><td>21</td><td>17.2</td><td>39.89±6.48</td><td></td><td>34</td><td>27.9</td><td>50.72±8.92</td><td></td><td>-4.827*</td></tr><tr><td>针灸完成情况</td><td></td><td></td><td></td><td>18.461*</td><td></td><td></td><td></td><td>3.670</td><td></td></tr><tr><td>全部完成</td><td>41</td><td>33.6</td><td>46.70±6.24</td><td></td><td>76</td><td>62.3</td><td>51.01±8.01</td><td></td><td>-2.926*</td></tr><tr><td>未全部完成</td><td>81</td><td>66.4</td><td>40.88±7.38</td><td></td><td>46</td><td>37.7</td><td>48.22±5.23</td><td></td><td>-6.143*</td></tr></table></body></html>
+
+注： $^ { * } P { < } 0 . 0 5$ 。
+
+2.4目标成就评量法（GAS）公式得分多因素分析将干预组调查对象的一般人口学资料、行为生活方式、基线长海痛尺得分、自评健康状况、慢性颈肩痛病程、针灸完成情况、主治医师职称作为自变量，干预后的GAS 公式得分作为因变量，建立多元线性逐步回归模型分析GAS 公式得分的影响因素。干预组模型拟合度 $R ^ { 2 } { = } 0 . 1 8 2$ ，调整 $R ^ { 2 } { = } 0 . 1 5 6$ ，模型检验 $_ { \mathrm { F = } 6 . 9 1 1 }$ ， $P { < } 0 . 0 0 1$ ，模型符合回归分析的要求。结果显示，干预组患者的中医体质、自评健康状况、是否饮酒对GAS公式得分产生一定的影响（ $\lceil P { < } 0 . 0 5 \rangle$ ），其中气虚质、自评健康状况较好、不饮酒对GAS公式得分具有负向影响。
+
+表4干预组GAS公式得分的多因素分析  
+
+<html><body><table><tr><td>变量</td><td>B</td><td>β</td><td>t</td><td>P</td></tr><tr><td>常量</td><td>56.426</td><td></td><td>26.757</td><td><0.001</td></tr><tr><td>中医体质（以平和质为参照）</td><td></td><td></td><td></td><td></td></tr><tr><td>气虚质</td><td>-5.489</td><td>-0.287</td><td>-3.023</td><td>0.003</td></tr><tr><td>阳虚质</td><td>-0.070</td><td></td><td>-0.711</td><td>0.479</td></tr><tr><td>阴虚质</td><td>-0.098</td><td></td><td>-1.030</td><td>0.306</td></tr><tr><td>痰湿质</td><td>0.003</td><td></td><td>0.026</td><td>0.979</td></tr><tr><td>其他</td><td>-0.010</td><td></td><td>-0.100</td><td>0.920</td></tr><tr><td>自评健康状况（以较差为参照）</td><td></td><td></td><td></td><td></td></tr><tr><td>一般</td><td>0.187</td><td></td><td>1.168</td><td>0.246</td></tr><tr><td>较好</td><td>-5.813</td><td>-0.332</td><td>-3.457</td><td>0.001</td></tr><tr><td>是否饮酒（以是为参照）</td><td></td><td></td><td></td><td></td></tr><tr><td>香</td><td>-4.487</td><td>-0.201</td><td>-2.117</td><td>0.037</td></tr></table></body></html>
+
+# 3讨论
+
+慢性颈肩痛是一类常见且高发的骨科疾病，会影响患者的日常生活和生命质量，及时采取规范性的干预措施是缓解疼痛和治疗疾病的关键，目前常见的治疗方法为镇痛消炎的西药干预，但有研究表明长期服用止痛药治标不治本，甚至可能引起不良反应，而中医诊疗方法副作用较小，能有效改善患者中医证候积分、关节活动能力及疼痛[14-16]。
+
+本研究的中医健康管理服务干预效果由GAS 公式得分衡量。干预组GAS 公式得分显著高于对照组，干预组达到预期目标的患者占 $7 5 . 4 \%$ 。这说明在传统针灸治疗基础上，采用中医健康管理综合干预措施可有效降低慢性颈肩痛患者疼痛感，改善睡眠质量、本体感受功能、举起搬运物品等身体活动功能，这与张新宇[12]等学者研究结果相符。
+
+对照组中GAS 公式得分为40分以下的占多数，说明多数患者想达到预期目标的难度较大，慢性颈肩痛具有病情反复、病程长等特点，可能单纯针灸治疗只能暂时缓解疼痛，加之对照组设定的预期目标较高；另一方面可能是基层医疗机构的中医类医疗服务占比相对较低，服务能力与患者的就医需求不平衡，影响基层中医服务的实际开展效果[17-18]。综合干预时，医生和患者共同参与制定评价指标，强调个性化和针对性，可更有效地帮助慢性颈肩痛患者实现预期目标。
+
+为探索干预效果的影响因素，本研究通过比较基线信息，提示自评健康状况较好、气虚质、不饮酒患者干预效果较差。自评健康状况一般或较差的患者日常生活受限，生活质量较低，为了减缓疾病可能带来的严重后果，这一类患者对中医健康管理服务需求更高，因此中医健康管理综合干预效果较好。自评健康状况较好的患者，可能其对中医预防保健服务需求较低，需要改善的健康状况较少，因此干预效果不明显。气虚质患者体质偏弱，气血运行不畅、经络不通，干预效果较差。中医体质辨识是实践中医健康管理的基本方法，根据患者的实际情况辨证施治，可避免患者病情加重，目前在中医健康管理服务中需求较高[19]，基层医疗机构可根据患者病情严重程度、病程长短的不同，提供中医体质辨识、中医经络检测、中医健康教育等个体化的中医服务项目，真正满足不同患者的就医需求。适量饮酒可以通经活络、祛风散寒，赵珊珊20]在其研究中发现适量饮酒能够调节心理紧张和抑郁情绪，减少患者的慢性疼痛从而保持更好的机体状态。
+
+本研究的GAS 目标选择参考了慢性疼痛国际功能、残疾、健康分类的简要核心指标及肩关节功能评分内容，从身体功能、活动与参与、环境和支持三个方面构建指标条目池，重在评价社区慢性颈肩痛人群中医健康管理干预效果，具有较强的针对性和实用性。但本研究缺少对慢性颈肩痛人群的生活质量、心理因素等进行调查，不利于给予患者情感支持，既往研究显示心理护理、情志护理对改善颈肩腰腿痛和颈椎病患者有积极作用[21-22]。
+
+国家明确提出要持续推进基层医疗机构中医药健康管理服务高质量发展，基层医疗机构作为居民健康的“守门人”，具有可及性和便捷性等特点，是发挥中医特色优势的重要区域。新医改背景下，社区慢性病管理逐渐成为医疗改革的重点工作，而中医健康管理服务越来越受到社区居民的关注。本研究将中医健康管理与基层医疗机构相结合，证实了在基层医疗机构实施以健康管理为基础的中医综合干预措施具有一定的促进作用，运用目标成就评量法评估慢性颈肩痛人群的中医健康管理效果是可行的。因此，在基层医疗机构开展综合的中医健康管理，对满足居民预防保健等多个性化健康需求具有重要意义。
+
+作者贡献：邱先桃、任建萍负责文章的构思与设计、论文的修订，并对文章整体负责；邱先桃、任建萍、贺梦妍、任理仙、曹庆春、王锦晶、王文婷负责研究的实施与可行性分析；邱先桃、贺梦妍、任理仙、曹庆春、王锦晶负责数据收集；邱先桃、贺梦妍、王文婷负责数据整理；邱先桃负责统计学处理、结果的分析与解释、论文撰写。
+
+所有作者均声明不存在利益冲突。
+
+# 参考文献
+
+[1]魏戌,朱立国,李金学,等.2014年加拿大整脊疗法治疗成人颈痛循证指南解读[J].中国医学前沿杂志(电子版),2014,6(09):157-160.  
+[2]王静丽.中医针灸综合治疗颈肩腰腿痛临床疗效观察[J].世界最新医学信息文摘,2016,16(12):102-103.  
+[3]Campos T,Maher C G,Steffens D,et al.Exercise programs maybe effective in preventing a new episodeof neck pain: a systematic review and meta-analysis[J]. Journal of Physiotherapy, 2018, 64(3):159-165.  
+[4]HoyD,March L,Woolf A,et al.The global burden of neck pain:estimates from the Global Burden of Disease 2010 study[J]. Annals of the Rheumatic Diseases, 2014.73.(7):1309 -1315.  
+[5]国家中医药管理局 关于印发基层中医药服务能力提升工程"十三五"行动计划的通知[EB/OL].(2016-10-18)[2022-03-03].http://www.satcm.gov.cn/yizhengsi/gongzuodongtai/2018-03-24/2665.html.  
+[6]侯进,蔡利强,康建忠,等.基于 SERVQUAL量表的以家庭医生为主体的社区中医药健康管理服务评价[J].中国全科医学,2019,22(28):3441-3445.  
+[7]Kiresuk TJ,Sherman R E.Goal atainment scaling:A general method for evaluating comprehensive communitymental health programs[J]. Community Ment Health J,1968,4(6):443 - 453  
+[8]张新宇,任建萍,贺梦妍,等.目标成就评量法在健康服务评价中的应用现状及展望[J].南京医科大学学报(社会科学版),2021,21(01):73-77.  
+[9]刘朝杰,裴丽昆,韩建军.社区卫生服务结果的个体化评价方法[J].中国全科医学,2002(11):889-891.  
+[10]Cieza A,Stucki G.The International Clasificationof Functioning Disabilityand Health:its development processand content validity.[J].Eur J Phys Rehabil Med, 2008,44(3):303-313.  
+[11]Yao M,Yang L,Cao Z Y,et al.Chinese versionof the Constant-Murley questionnaire for shoulder pain anddisability: a reliability and validation study[J]. Health and Quality of Life Outcomes,2017,15(1):178.
+
+# ChinaXiv合作期刊
+
+[12]Zhang X,Ren J,Liu C,et al.Evaluating Traditional Chinese Medicine Interventions on Chronic Low Back PainUsing Goal Atainment Scaling[J].Evidence-based Complementary andAlternative Medicine，2020,2020(1):1-10.  
+[13]McCue M,Parikh S V,Mucha L,et al. Adapting the Goal Atainment Approach for Major Depressive Disorder.  
+[J.Neurology and Therapy,2019,8(2):167-176.  
+[14]柏成武.中医针灸综合治疗颈肩腰腿痛的临床效果评价[J].中国实用医药,2021,16(02):165-166.  
+[15]方丹,艾兰.新形势下中医药对社区慢性病的防治现状与发展思路[J].中医药管理杂志,2021,29(02):195-198.  
+[16]王瑞瑞,田祥亭.中医针灸综合治疗颈肩腰腿痛的临床效果研究[J].临床医药文献电子杂志,2018,5(21):66.  
+[17]房良,吴凌放.“健康中国 $2 0 3 0 ^ { \prime \prime }$ 背景下我国中医类医疗服务利用现况研究[J].卫生软科学,2020,34(07):69-73+78.  
+[18]周驰,谈芳,杜莹莹,等.供需平衡视角下的浙江省医共体基层医疗服务成效分析[J].中华医院管理杂志,2020,v.36;No.  
+07(07):534-538.  
+[19]邹学敏,陆娟,唐婉如.社区老年人中医药健康管理干预效果评价[J].护理研究,2019,v.33;No.629(09):1605-1607.  
+[20]赵珊珊,张宗旺.饮酒对疼痛的影响及其机制研究进展[J].国际麻醉学与复苏杂志,2020,41(09):915-919.  
+[21]袁银娟.情志护理在针灸治疗颈肩腰腿痛患者中的应用分析[J].黑龙江中医药,2021,50(02):354-355.  
+[22]李雪梅.综合护理干预对颈椎病患者生活质量的影响[J].心理月刊,2020,15(03):153.

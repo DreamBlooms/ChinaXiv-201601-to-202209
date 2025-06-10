@@ -1,0 +1,817 @@
+[
+    {
+        "type": "text",
+        "text": "道路危险应激的驾驶特性等级反应和评价",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郑新夷\\*杨艳群²陈铭²Easa Said4(1福州大学人文社会科学院；2福州大学土木学院；3福州大学交通安全研究中心，福州350109；4瑞尔森大学土木工程学院，加拿大)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[目的]探索驾驶特性是否影响驾驶员面对交通危险事件的应激反应和行为。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[方法]本研究采用维也纳交通心理测试系统(VTS)对参与驾驶模拟实验的被试进行测试。在驾驶模拟实验中，要求被试以 $6 0 \\mathrm { { K m / h } }$ 的速度行驶，应激源与被试车辆之间的距离设置对应交通冲突时间（TTC)有三种：19.2m(TTC=1s)、27.5m(TTC=1.5s）、35.8m(TTC=2s)。研究采用集对分析模型对被试的应激反应优劣进行评价，指标评价等级取值范围由K-means聚类确定，指标的权重由熵权法确定。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[结果]结果表明通过驾驶特性判断驾驶人的应激反应能力是有效的，具体表现为两点：一、在所有应激距离下，高驾驶特性被试的应激反应均优于低驾驶特性被试;二、当应激距离为 $1 9 . 2 \\mathrm { m } \\left( \\mathrm { T T C = 1 s } \\right)$ 时，高驾驶特性被试的反应评价比低驾驶特性被试高两个等级，而在其他应激距离下只高一个等级，低驾驶特性被试比高驾驶特性被试对应激反应距离的减少更加敏感。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[局限」研究参与的人口学样本比例不足。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[结论]本研究结果证明了在交通应激事件中为驾驶人提供1s以上交通冲突时间的合理性，可为事故预警和防碰撞系统的设计提供参考。同时，本研究提出的等级评价数学方法是有效的，通过检测驾驶人的驾驶特性能力，可以区分他们在道路上的应激反应能力。本研究对于道路交通安全领域的研究提供了一套可行的评级思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：驾驶特性，应激反应，集对分析，驾驶模拟",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：U491.2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Road Risk Response and Rank Assessment Based on Driver' s Characteristic ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zheng Xinyi1,3\\* Yang Yanqun2³ Chen Ming² Easa Said4 (1 Fuzhou University， College of Arts and Human Science;2 Fuzhou University, College ofCivil Engineering; 3Fuzhou University Center of Transportation Safety， Fuzhou,350l09 ；4Ryserson University， College of Civil Engineering, Canada) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Objective] To explore whether driving characteristics affect the driver' s stress response and behavior in the face of traffic stress events. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Methods] In this study， the Vienna Test System (VTS) was used to test the participants of the driving simulation experiment. In the experiment， the participants was required to drive at the speed of $6 0 \\mathrm { { k m } / \\mathrm { { ~ h ~ } ~ } }$ .The distance between the stress source and the tested vehicle corresponded to three kinds of traffic conflict time (TTC): 19.2m $( \\mathrm { T T C } ~ = ~ 1 \\mathrm { s } )$ ， $2 7 . 5 \\mathrm { m }$ $( \\mathrm { T T C } ~ = ~ 1 . ~ 5 \\mathrm { s } ) $ and 35.8m $\\mathrm { ( T I C ~ = ~ 2 S ) }$ . The set pair analysis model was used to evaluate the stress response of subjects. The value range of index evaluation grade was determined by K-means clustering， and the weight of index was determined by entropy weight method. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[Results] The results show that it is effective to judge the driver's stress response ability by driving characteristics， which is manifested in two points: first， under all stress distances， the stress response of participants with high driving characteristics is better than that of subjects with low driving characteristics. Second, when the stress distance is $1 9 . 2 \\mathrm { m }$ $\\mathrm { ( T T C \\ = \\ 1 s ) }$ ， the evaluation of participant with high driving characteristics is two levels higher than that of participant with low driving characteristics， but only one level higher under other stress distances.Participants with low drivingcharacteristicsare more sensitive to the reduction of stress response distance than those with high driving characteristics. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[Limitations] The sample involved in the experiment is the limitation of lack of various driver’ s characteristics   \n[Conclusions] The results of this study prove the rationality of providing more than ls traffic conflict time for drivers in traffic stress events, and can provide reference for the design of accident early warning and anti-collision system. At the same time， the mathematical method of grade evaluation proposed in this study is effective. By detecting the driving characteristic ability of drivers， we can distinguish their stress response ability on the road. This study provides a set of feasible rating ideas for the research of road traffic safety. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Driver characteristics， Stress response， Set Pair Analysis, Driving Simulation Experiment ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于交通环境的复杂性，驾驶人在行驶中无法及时避开交通应激事件（例如突然从路旁冲出的行人、从视距不良的交叉口突然冲出的车辆等)，采取了错误操作而导致事故发生。剖析事故机理时发现，驾驶人特性导致的应激反应能力的差异是影响事故发生的重要因素。事故倾向性理论认为某些个体在生理素质和心理能力方面与安全性人格特质存在差异[12]，亦有研究表明，随着道路应激事件的紧急程度增加，驾驶人的应激反应下降[3,4]。我们认为，驾驶人的生理素质和心理能力在一定程度的差异，是随着道路环境应激程度的增加而表现不同的驾驶行为。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内外学者对不同驾驶特性的驾驶人开展了应激反应能力研究。比如，面对应激事件时，注意力水平低的人的感知-反应时间(前车刹车灯亮到驾驶人脚离开油门的时间)和刹车-移动时间(驾驶人脚从油门离开到达刹车的时间)更长[5]；新手驾驶员和经验丰富驾驶员面对不同应激事件的平均行驶速度和最大刹车深度存在差异[6]。Warshawsky-Livne 等发现在三种不同应激程度事件下，随着年龄和应激事件紧急程度增加，感知-反应时间显著增加[3]；Takahashi 等[7]测量老年司机的手掌出汗反应(PSR)、皮肤电位反射(SPR)以及操作方向盘、油门和刹车的能力，评估驾驶人对危险的感知能力。国内学者对应激反应的研究致力于发现表征应激能力的指标[89]，复杂道路环境下驾驶人的应激训练次数和瞳孔面积变化率函数模型能较好地描述驾驶人在复杂道路环境中的应激反应能力8]，不同冲突导致的应激场景下驾驶人的心率增长率有显著差异性[9，国内对不同驾驶特性的应激反应的研究相对缺乏。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，国内外针对驾驶特性的定义和研究具体内容存在差异。为明确驾驶特性的内容，本文根据认知心理学中人类行为的 S-0-R 模式将驾驶人行为分为三个阶段：信息感知阶段，判断决策阶段，驾驶操作阶段[10]。感知阶段主要接收外界信息；判断阶段是在感知的基础上通过分析做出判断决策；操作阶段是驾驶员依据判断决策做出的实际反应，具体指对汽车实施的转向、制动、加速等控制。根据驾驶人行为三阶段相应地将驾驶特性分为感知特性、判断特性及操作特性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "关于驾驶员感知特性的研究开始得很早，发现在因机动车驾驶员自身差错导致的交通事故中，驾驶员感知差错率占 $5 0 . 2 \\%$ 、判断决策差错率占 $3 8 . 9 \\%$ 、操作差错率占 $1 0 . 9 \\%$ [1]。Tuerker 等人在瑞典和土耳其进行驾驶员事故率的问卷调查，发现在对速度的感知上，低事故率国家的驾驶员比高事故率国家的驾驶员更准确[12]；新手驾驶员对危险的感知程度与其事故记录有关[13]；危险感知能力在负面情绪增加时提高14；老年人连续接受并处理来自外界时空信息的感知能力下降，当紧急情况出现时，驾驶操作 (刹车、转向、起步、并道、换道)的危险性就会暴露出来[15]。在驾驶员的判断特性方面，吴付威通过复杂反应测试系统测试了事故组和非事故组的驾驶人，发现两组驾驶人之间的判断标准不存在明显差异，但对复杂信息的判断以及执行功能上，事故组驾驶人弱于非事故组驾驶人[16]。在驾驶员的操作特性方面，Summala[17]发现从应激源出现到驾驶人第一次接触刹车踏板的时间高度取决于交通应激事件发生的情景；当行人在右侧出现而不是左侧出现令驾驶员更容易刹车[18]。综上，驾驶特性，尤其是感知特性，在不同程度的交通应激场景中，对交通安全有显著影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "关于驾驶特性的研究工具，已有研究通过测试量表[14,19]或者测试仪器[16.20-24]来确定驾驶特性，如风险感知量表和情绪测试量表[14]、驾驶风险态度量表[19],有研究自行开发设备测试驾驶人的复杂反应[1，值得一提的是维也纳交通心理测试系统(VTS，Vienna Test System)，测试驾驶员的驾驶特性被证明优于其他测量工具。KACAG 比较了土耳其用于职业司机和驾照被没收司机强制心理评估的三种系统，即VTS、ART2020 和TRAFIKENT，发现VTS的6个测试模块分数与驾驶错误(违规)数量具有显著相关性，注意力集中测试(COG)对驾驶员违章有一定预测作用[2o]；Deng 使用 VTS 中的周边知觉测试(PP)、视觉反应测试(VR)等测试模块探究不同性别、不同驾驶经验与驾驶特性的关系，测试表明PP没有性别差异，有经验的驾驶员明显优于新手驾驶员[21；Soheil等使用VTS 中的 COG测试、交通感知能力测试(ATAVT)、反应力测试(RT)和反应性压力耐受能力测试(DT)，测量水烟使用者在吸水烟前后的驾驶特性变化[22]。Hani Tabai 等使用VTS 中的持续注意测试(WAFV)、视觉知觉测试(LVT)和COG，评估发生过事故和未发生过事故的火车司机的认知能力及差异[23]；Mihai 等使用VTS 中的 SafetyAssessment Road 测试组和 Driver Personality Factors Road 测试组测试司机安全驾驶所需的心理生理能力和心理个性偏好特征[24]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "尽管国外学界采用VTS 测量驾驶特性研究较多，但是缺少在特定道路应激场景下的驾驶特性的比较和评价，国内在这个领域研究更是罕见。为此，本文试图通过VTS检测被试的驾驶特性水平，筛选驾驶特性差异明显的被试组，采用驾驶模拟实验采集不同特性水平的驾驶员在不同道路应激程度场景下的应激反应数据，建立表征驾驶员应激反应优劣(安全程度)的数学分析方法，进而评价不同驾驶特性驾驶人的驾驶绩效。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2研究方法与实验",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1被试招募 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本实验招募100名持照驾驶人进行VTS 测试，拥有一年及以上驾驶经验的被试占比 $6 4 \\%$ ，年龄在 20-26岁之间，其中男性被试70名、女性被试 30 名，符合 2018 年度中国驾驶人统计特征[25]。基于已有驾驶模拟研究[223.26]，选择 42人进行驾驶模拟实验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2VTS 测试设计 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) VTS 测试模块选取 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "前文将驾驶人分为感知特性、判断特性及操作特性，然而驾驶人行为的感知、判断、操作三个阶段彼此影响且具有连贯性，不能简单分开，因此选择VTS 中与驾驶人行为三阶段相关的模块测试被试的驾驶特性。根据VTS使用手册和国内外学者应用 VTS 的研究内容与结论[2-24,27]，选择 VTS 中 5个测试模块(如表1)来测评驾驶员的驾驶特性。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ceea6903cf35df7788b06f668f10bcd8821873f7dba1fc950288ff135e809c1.jpg",
+        "table_caption": [
+            "表1驾驶特性试验测试内容",
+            "Table 1 Driving Characteristic Test Items Battery "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序 号</td><td>表征指标</td><td>测试模块</td><td>模块内容和</td></tr><tr><td>1</td><td>逻辑推理能 力</td><td>自适应矩阵测 试(AMT)</td><td>已知三纵三横的前八个图形分布，要求被试进行图 形推理。 考察逻辑推理能力、注意集中能力、综合判断能力 [24] 。</td></tr><tr><td>2</td><td>交通感知能 力</td><td>自适应交通感 知测试(ATAVT)</td><td>短暂呈现交通状况图像并要求被试选择答案，反映 被试的视觉观察能力、空间知觉能力、速度知觉能 力。 评估测试者的视觉观察能力、空间知觉能力 [22,24,28]</td></tr><tr><td>3</td><td>集中力</td><td>集中力测试 (COG)</td><td>确定下面显示的数字是否与上面显示的四个数字中 的一个相同或不同。 测试被试的注意水平[20,22-24]。</td></tr><tr><td>4 5</td><td>反应速度 运动速度</td><td>反应力测试 (RT)</td><td>测试要求受试者在出现关键刺激时立即按下特定的 键。 测试被试的反应能力[224]。</td></tr><tr><td>6</td><td>反应性压力 耐受能力</td><td>决断力测试 (DT)</td><td>按下相应按钮，对以三种不同速度呈现的连续视觉 和听觉刺激做出反应。 测试眼耳手脚协调能力[20,22,24]。</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PR 值(percentile rank)是 VTS 测试结果的衡量值[2,24,27]，代表在测试项目所考察的能力上，对照组中取得同样分数或更低分数的人所占的比例，实验所用 VTS 对照组是欧洲被试群体一个代表性样本。5个测试模块的PR 值的总和就是驾驶员的驾驶特性得分，得分越高表明驾驶员拥有越好的驾驶特性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3驾驶模拟实验设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) 实验场景设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验设计的应激事件是停在路边的车辆(应激源)突然地从遮挡区域出现在自车前方，应激源车辆在被试所在车道低速行驶一段距离后换道至另一个车道停车。包含应激源的实验场景如图1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "驾驶员的内在因素如驾驶特性，外在因素如行驶速度、与应激源之间距离(应激距离)对驾驶员的应激反应均有影响。有研究表明，应激距离的变化对驾驶人的心率增长率、心率变异性LF 值的影响比行驶速度的变化更大4。因此，探究不同应激距离下驾驶人的反应，控制行驶速度为 $6 0 ~ \\mathrm { { k m / h } }$ 。应激距离的确定考虑自车车身前部长度的影响，对应1.0s、1.5s和2.0s的交通冲突时间TTC 的侵入距离分别为 $1 9 . 2 \\mathrm { m }$ 、27.5m和 $3 5 . 8 \\mathrm { m } ^ { [ 4 ] }$ ，设置为实验场景的三个应激距离。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/803c0016b1ebc99fd4c84183b03691e0f3f6a27923ba115af79392c5c4106840.jpg",
+        "img_caption": [
+            "图1包含应激源车辆的实验场景"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Experimental Scene Containing Stressor Vehicles ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为使驾驶员对即将发生的应激事件没有心理预期，场景中一共设计6处可能产生应激事件的触发点，但是只有第2、5、6处位置真正触发应激事件。此外，为克服驾驶人在三次应激事件中产生的学习效应，设计三种场景拥有不同的触发距离组合：场景 A(19.2m、27.5m、35.8m)，场景 B(27.5m、35.8m、19.2m)，场景C(35.8m、19.2m、27.5m)。三种场景在实验中将被轮流使用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) 应激反应表征指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "面对应激源时，驾驶员的驾驶行为在横向上是转动方向盘，在纵向上是放松油门或踩下刹车。结合相关文献[29-32]，选择油门幅度、刹车速度、方向盘转角表征驾驶员的驾驶行为。表征驾驶人应激时的生心理状况的脑电指标和眼动指标如表2。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/39bf85ac26b4c567d5e07d2743789479289897092de0ed838ea874d2602dfe5b.jpg",
+        "table_caption": [
+            "表2应激反应表征指标",
+            "Table 2 Stress Response indices "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td>指标名</td><td>单位</td><td>指标说明与表征内容</td></tr><tr><td>脑电指标</td><td>(θ+α）/</td><td></td><td>脑电波中，θ 波能量、α 波能量和β 波能量计算所得。表 征驾驶人的警觉程度，数值越小，表明驾驶人警觉程度越 低[33-35]。</td></tr><tr><td>眼动指标</td><td>扫视频率</td><td>次/s</td><td>观察目标物的次数与时间的比值。表征驾驶员对周边道路 环境的熟悉度，扫视频率越小，表明驾驶员对周边环境越 熟悉、心理压力越小[30]。</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a45d83a5cc37cd8c988dd4037e13baf23cd86028483b6b02808412a64fcb2b1d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>瞳孔面积</td><td>pixel</td><td>表征人视觉的适应性和心理、生理的负荷程度。瞳孔面积 放大表示驾驶人处于较大负荷的驾驶任务中[32]。</td></tr><tr><td rowspan=\"3\">驾驶行为 指标</td><td>油门深度</td><td>cm</td><td>驾驶时车辆加速踏板的深度。油门深度越大，反映驾驶人 倾向于保持较高的行驶速度或增加速度。</td></tr><tr><td>刹车速度</td><td>cm/s</td><td>刹车深度与刹车所耗时间比值，数值越大表明刹车的紧急 程度越高，驾驶人对应激物的反应越激烈。</td></tr><tr><td>方向盘转角</td><td>0</td><td>驾驶员每次调节车辆转向方向盘变化的角度，数值越大表 明驾驶员的应激反应越激烈。</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3) 实验设备 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验在室内进行，避免天气、光线、噪音等对驾驶人的生理影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1、驾驶模拟系统。实验采用的DSR-1000TS2.0型驾驶模拟系统可进行室内驾驶模拟闭环实验，该系统可以记录并导出多项驾驶行为参数，如方向盘的转角、刹车踏板的深度、油门踏板的深度等，以及多项车辆参数，如车辆的速度、加速度、轨迹偏移量等。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2、脑电数据采集。实验采用32 通道NE 无线脑电仪，传输 24-bit 脑电数据，能准确还原被试脑电信号，其带宽为 $0 { \\sim } 2 5 0 \\mathrm { H z }$ ，采样率为500SPS，分辨率为 $2 4 \\mathrm { b i t } { - } 0 . 0 5 \\mathrm { u v }$ ，噪声小于1uvrms( $( 0 \\mathrm { \\sim } 2 5 0 \\mathrm { H z } )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3、眼动数据采集。采用Dikablis开发的眼动仪，结合分析软件D-Lab 一起用于跟踪和测量参与者眼动行为的特征。采集样本时，眼动仪的频率设置为$6 0 \\mathrm { { H z } }$ ，精度范围为 $0 . 1 ^ { \\circ }$ 到 $0 . 3 ^ { \\circ }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4实验流程",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "招募的100名被试首先进行VTS 测试，根据测试结果筛选出21位高驾驶特性被试和21位低驾驶特性被试，只有筛选出的42位被试进行驾驶模拟实验。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "VTS 测试：被试填写个人信息，包括年龄、驾龄、去年的驾驶里程等。向被试介绍VTS 使用方法。开始测试，时长大约30min。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "驾驶模拟实验：在正式实验开始前，告知被试实验目的和任务，强调在正式实验时按照 $6 0 \\mathrm { { k m / h } }$ 速度行驶，被试阅读并签署同意书。主试给被试佩戴脑电仪和眼动仪。被试在非实验场景下驾驶5\\~10min，以便熟悉驾驶模拟器操作。正式实验开始，主试在控制台加载实验场景(A、B、C 场景中的一个)，驾驶时长约10min，每个被试仅驾驶一次。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5实验数据处理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "VTS 数据(PR 值)由系统直接导出；眼动数据通过 D-Lab 软件导出；操纵数据在驾驶模拟系统自动生成，采集频率为30ms；脑电数据通过NIC 软件生成，采集各个通道数据后导出到MATLAB 使用 EEG-Lab工具包处理，其中，过滤保留0.5到 $4 0 ~ \\mathrm { \\ : H z } \\left( 5 0 0 \\mathrm { H z } \\right.$ 采样频率)之间的数据，用平均值作为重参考，运行ICA 进行独立主成分分析，去除伪迹。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3实验数据结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1VTS 测试结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验最终剔除了2 个 PR 值异常低(低于3)的男性被试数据，在剩余 98 个被试中，挑选驾驶特性得分最高的21个被试(男性18人，女性3人)代表高驾驶特性被试组(H 组)，挑选驾驶特性得分最低的21个被试(男性14人，女性7",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "人)代表低驾驶特性被试组(L组)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对2组被试的驾驶特性指标进行独立样本T检验，莱文方差等同性检验表明，所有指标检验不能否认方差相等。结果如表3，6个指标的检验结果均显著，表明挑选出的两组被试的驾驶特性存在显著差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/52c5895a3e5c7121e6bed121b1d701939ad66ae6f463d65d46f17695a9619193.jpg",
+        "table_caption": [
+            "Table 3 Independent-samples T Test of Driving Characteristic Indicators "
+        ],
+        "table_footnote": [
+            "注：\\*表示 $\\mathsf { P } { < } 0 . 1$ (边缘显著)，\\*\\*表示 $\\mathsf { P } { < } 0 . 0 5$ (显著)，\\*\\*\\*表示 $\\mathsf { P } { < } 0 . 0 1$ (极显著)。"
+        ],
+        "table_body": "<html><body><table><tr><td>驾驶特性指标</td><td>t</td><td>自由度</td><td>显著性 (双尾)</td><td>平均值 差值</td><td>标准误 差差值</td><td>差值 95%置信区 下限</td><td>间 上限</td></tr><tr><td>逻辑推理能力 (AMT)</td><td>2.491</td><td>40</td><td>0.017**</td><td>21.857</td><td>8.775</td><td>4. 121</td><td>39.593</td></tr><tr><td>集中力(COG)</td><td>2. 647</td><td>40</td><td>0.012**</td><td>13.381</td><td>5.055</td><td>3.164</td><td>23.598</td></tr><tr><td>反应性压力耐受 能力(DT)</td><td>5. 146</td><td>40</td><td>0.000** *</td><td>29.857</td><td>5.802</td><td>18.13</td><td>41. 584</td></tr><tr><td>反应速度(RT)</td><td>3.616</td><td>40</td><td>0.001** *</td><td>28.333</td><td>7.836</td><td>12. 495</td><td>44. 171</td></tr><tr><td>运动速度(RT)</td><td>4.188</td><td>40</td><td>0.000** *</td><td>31.333</td><td>7.481</td><td>16.214</td><td>46.453</td></tr><tr><td>交通感知能力 (ATAVT)</td><td>2.547</td><td>40</td><td>0.015**</td><td>16.905</td><td>6.638</td><td>3.489</td><td>30.321</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2驾驶模拟实验结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对应激反应各个指标进行双因素重复测量方差分析(3组应激距离为重复测量的因子)，结果见表4。在方差分析前，采用Mauchly’s球形假设检验3组变量差值的方差是否相等，仅“瞳孔面积”通过检验，因此除了“瞳孔面积”，其他指标方差分析是采用经Greenhouse-Geisser矫正后的结果。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2423fda5dcf9d9c54fb44505a9ef600f2b99f3e771e8279bdf8ee229a899bac3.jpg",
+        "table_caption": [
+            "表3驾驶特性指标独立样本T检验",
+            "表4应激反应指标的方差分析结果",
+            "Table 4 Two-way Repeated Measures Analysis of Stress Response Indicators "
+        ],
+        "table_footnote": [
+            "注：b表示该统计量是F的上限，它产生了一个关于显著性级别的下限。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标</td><td colspan=\"3\">应激距离</td><td colspan=\"3\">应激距离X驾驶特性</td><td colspan=\"3\">驾驶特性</td></tr><tr><td>F</td><td>P</td><td>n</td><td>F</td><td>P</td><td>n</td><td>F</td><td>P</td><td>n</td></tr><tr><td>(θ +α ) / β</td><td>23.26 2b</td><td>0** *</td><td>0.54 4</td><td>2.305 b</td><td>0.113</td><td>0.10 6</td><td>17.98 5</td><td>0***</td><td>0.31</td></tr><tr><td>油门深度</td><td>82.06 1b</td><td>0** *</td><td>0.80 8</td><td>0.113 b</td><td>0.893</td><td>0.00 6</td><td>25.97 9</td><td>0***</td><td>0.39 4</td></tr><tr><td>刹车速度</td><td>47.31 1b</td><td>0** *</td><td>0.70 8</td><td>4.493 b</td><td>0.018* *</td><td>0.18 7</td><td>20.93 4</td><td>0***</td><td>0.34 4</td></tr><tr><td>方向盘转 角</td><td>80.58 5b</td><td>0** *</td><td>0.80 5</td><td>0.344 b</td><td>0.711</td><td>0.01 7</td><td>7. 473</td><td>0.009* **</td><td>0.15 7</td></tr><tr><td>扫视频率</td><td>28.54 3b</td><td>0** *</td><td>0.59 4</td><td>0.795 b</td><td>0.459</td><td>0.03 9</td><td>12.95 7</td><td>0.001* **</td><td>0.24 5</td></tr><tr><td>瞳孔面积</td><td>1. 776</td><td>0** *</td><td>0.76 4</td><td>1. 776</td><td>0.266</td><td>0.03 3</td><td>29.53 8</td><td>0***</td><td>0.42 5</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "重复测量方差分析结果表明，组内效应(应激距离)造成所有指标的差异均显著 $\\left( \\mathrm { P } { \\langle } 0 . \\mathrm { 0 1 } \\right)$ ，应激距离和驾驶特性的交互效应造成刹车速度的差异显著。组间效应 (驾驶特性)对所有指标造成的差异均显著 $\\left( \\mathrm { P } { \\langle } 0 . \\mathrm { 0 1 } \\right)$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从指标的变异解释率来看，根据 Ferguson[3总结的社会科学领域的小、中、大3种参数水平对应的效应量临界参考值为0.04，0.25，0.64。由表 4知，在不同应激距离下，油门深度、刹车速度、方向盘转角、瞳孔面积的指标变异解释率均大于0.64， $( \\theta + \\alpha ) / \\beta$ 、扫视频率的指标变异解释率介于$0 . 2 5 ^ { \\sim } 0 . 6 4$ 之间，说明6个指标具备重要现实意义；在不同驾驶特性分组中，瞳孔面积、油门深度、刹车速度、 $( \\theta + \\alpha ) / \\beta$ 的指标变异解释率介于$0 . 2 5 ^ { \\sim } 0 . 6 4$ 之间，方向盘转角、扫视频率的指标变异解释率介于 $0 . 0 4 \\mathrm { \\widetilde { \\ } } 0 . 2 5$ 之间，说明6个指标具备不同程度的现实意义。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据表4和图2，总的来说，高驾驶特性被试的所有指标表现均优于低驾驶特性被试。应激距离越长时，被试的生理、心理状况和驾驶行为也更加安全稳定。对脑电指标、眼动指标、驾驶行为指标的分析如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1)脑电指标 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图2(b)和表 4 可知，低驾驶特性被试(L 组)的 $( \\theta + \\alpha ) / \\beta$ 平均值高于高驾驶特性被试(H 组)，表明L 组在应激过程中警觉程度更高。应激距离越小$( \\theta + \\alpha ) / \\beta$ 值越大，表明在越小的应激距离下，被试的警觉程度越高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2)眼动指标 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图2(c)和表 4可知，L组扫视频率大于H组，表明L组的心理压力更大。应激距离越小扫视频率越大，表明在越小的应激距离下，被试的精神压力越大；由图2(d)和表4 可知，L 组瞳孔面积大于H组，表明L 组的精神压力更大；应激距离越小瞳孔面积越大，表明在越小的应激距离下，被试的精神压力越大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3)驾驶行为指标 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图2(e)和表4可知，H组油门深度大于L组，应激距离越大油门深度越大，表明驾驶人的驾驶特性越优或被试在面对更长的反应空间(时间)时，对油门深度的掌控力就越强，也倾向于以更高的速度行驶；由图2(a)和表4可知，L 组刹车速度大于H组，表明L组的刹车更加紧急。应激距离越小刹车速度越大，表明驾驶员在较小的应激距离下刹车更紧急。驾驶特性和应激距离对刹车速度的影响的交互作用显著，表明驾驶特性和应激距离共同作用于刹车速度，不能分割看待；由图 2(f)和表4 可知，对于方向盘转角，L 组被试大于H组被试，表明L组被试的应激反应更激烈。应激距离越小方向盘转角越大，表明在越小的应激距离下，被试的反应越激烈。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bba16916603fbdd101aed9000859c930ebc840d0f92505081fadfdbf89195e14.jpg",
+        "img_caption": [
+            "图2应激反应指标统计分析",
+            "Fig.2 Statistical Analysis of Stress Response Indicators "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4基于集对分析的应激反应评价",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为全面综合地表示对高、低驾驶特性被试在不同应激距离下的应激反应，本文引入集对分析模型，在前文所述6个指标的基础上，采用K-means 聚类确定评价等级取值范围，采用熵权法确定指标权重，对驾驶人的应激反应进行评价。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1K-means聚类确定评价等级取值范围 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在对待评对象进行评价前需要确定评价等级标准。K-means 算法作为无监督聚类算法的代表，其主要作用是将相似的样本自动归到一个类别中[37]。本文根据K-means聚类算法，采用SPSS将样本聚为5类，依据聚类结果来确定6个指标的5个等级的取值范围。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "聚类得各指标5个类别的中心值，标准化后的大小分布如图3。图中扫视频率、瞳孔面积、刹车速度的聚类中心值与类别呈顺序关系；油门深度的聚类中心值与类别呈逆序关系； $( \\theta + \\alpha ) / \\beta$ 、方向盘转角的等级4 聚类中心值虽然大于等级5，但大致上呈顺序关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce16e482d7ea43613a6e0385c9fd3c80babde8110b3f496691f049abb39839d8.jpg",
+        "img_caption": [
+            "图3指标聚类中心标准化值分布",
+            "Fig.3 Indicators’ Standardized Value of Cluster Center "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 类样本的聚类中心指标值大小结合指标表征应激水平的规律，发现类别1到类别5对应驾驶人应激水平从最高到最低，因此根据各个聚类中心值确定的各指标评价等级取值范围如表5所示。等级1表示评价等级最高，等级5最低。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a57bc9baab5ba53eb672f94ee2867698a04614e73b4712fc47f93e4568bbf33.jpg",
+        "table_caption": [
+            "表5指标5个等级取值范围",
+            "Table 5 Indicators' Range of Five Levels "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标</td><td>等级1</td><td>等级2</td><td>等级3</td><td>等级4</td><td>等级5</td></tr><tr><td>(θ +α ) / 阝</td><td>0.54~2.19</td><td>2.20~2.98</td><td>2.99~4.10</td><td>4.11~5.14</td><td>5.15~11.52</td></tr><tr><td>扫视频率</td><td>0.10~0.21</td><td>0.22~0.27</td><td>0.27~0.34</td><td>0.35~0.43</td><td>0.44~1. 06</td></tr><tr><td>瞳孔面积</td><td>.62</td><td>878.65~1009 1009.63~1201.5 1201.53~1396. 2</td><td>91</td><td>1396.92~1573. 15</td><td>1573.16~1683. 03</td></tr><tr><td>油门深度</td><td>1.97~3.24</td><td>1. 52~1. 96</td><td>0.96~1.51</td><td>0.64~0.95</td><td>0.13~0.63</td></tr><tr><td>刹车速度</td><td>0.56~1.10</td><td>1. 11~1. 71</td><td>1. 72~2.65</td><td>2.66~3.23</td><td>3.24~7.36</td></tr><tr><td>方向盘转 角</td><td>0.12~0.80</td><td>0.81~1.44</td><td>1. 45~1.73</td><td>1.74~2.08</td><td>2.09~7.84</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2 熵权法确定评价指标权重[38.39] ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "熵权法是综合性的客观定权法，根据各个指标蕴含的信息量大小来确定权重。熵权法确定评价指标权重的步骤如下：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1)归一化评价指标 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由于脑电、眼动、操纵指标的量纲和数量级存在差异，需要对数据标准化，使每一指标值都统一于共同的数值特性范围。对于越大越优型指标和越小越优型指标，标准化处理公式分别为式(1)和式(2)。",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i j } = \\frac { u _ { i j } - \\operatorname* { m i n } ( u _ { j } ) } { \\operatorname* { m a x } ( u _ { j } ) - \\operatorname* { m i n } ( u _ { j } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i j } = \\frac { \\operatorname* { m a x } ( x _ { j } ) - x _ { i j } } { \\operatorname* { m a x } ( x _ { j } ) - \\operatorname* { m i n } ( x _ { j } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其中， $u _ { i j }$ 为样本 $\\mathbf { \\nabla } _ { \\boldsymbol { { i } } }$ 的指标 $j$ 值； $\\nu _ { i j }$ 为 $u _ { i j }$ 标准化后的值； $\\operatorname* { m a x } ( u _ { j } )$ 为样本中指标 $j$ 的最大值； $\\operatorname* { m i n } ( u _ { j } )$ 为样本中指标 $j$ 的最小值。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2)计算样本 $\\mathbf { \\nabla } _ { j }$ 的特征比重为 $p _ { i j }$ ：",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { i j } = \\nu _ { i j } / \\sum _ { i = 1 } ^ { m } \\nu _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3)计算指标 $j$ 的信息熵 $e _ { j }$ ：",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { j } = - { \\frac { 1 } { \\ln ( m ) } } { \\sum } _ { i = 1 } ^ { m } p _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4)计算各评价指标的熵权 $w _ { j }$ 。 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "根据熵的概念，被评价对象第 $j$ 项指标差异越大，表明该指标反映的信息量越大。当被评价对象第 $j$ 项指标值全部相等时， $e _ { _ j } = e _ { \\operatorname* { m a x } } = 1$ 。因此，定义差异系数 $d _ { j }$ ，使得 $d _ { j } = 1 - e _ { j }$ 。差异系数 $d _ { j }$ 越大，该指标提供的信息量越大，给予的指标权重越大。评价指标的熵权为：",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { j } = d _ { i j } / \\sum _ { k = 1 } ^ { m } d _ { k } \\quad ( j = 1 , 2 , 3 , . . . , n )\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "计算得各个指标权重如表6。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/6944c14d9c62a2bd0dc68a0f3e70b619f3e3c27e1162317b00792ccdc3656e9e.jpg",
+        "table_caption": [
+            "表6熵权法求得的评价指标权重"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Table 6 Indicator Weight Obtained by Entropy Method</td></tr><tr><td>指标</td><td>(θ +α）/β 值</td><td>扫视频率 瞳孔面积</td><td>油门深度</td><td>刹车速度</td><td>方向盘转角</td></tr><tr><td>权重值</td><td>0.16657</td><td>0.16867</td><td>0.16682 0.17087</td><td>0.16511</td><td>0.16196</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3集对分析评价模型",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "集对分析法(set pair analysis，SPA)的思想是把被研究的客观事物之间的确定性联系与不确定性联系作为一个确定不确定系统来分析处理。SPA已被广泛应用于计算机科学[40]、生物化学[41]、交通运输[42,43]、材料科学[4]、工程技术[45]、物理和天文学[46]、地球与环境科学[47]等多个学科领域。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "集对分析法进行评价的原理是令2个相互联系的集合形成集对(A，B)，若两个集对处于同一评价等级中，则表示具有同一性；若所属评价等级间存在间隔，则表示具有对立性；如果处于相邻的评价等级，则表示具有差异性。分析(A，B)集对的同一性、差异性、对立性，从而建立集对的联系度如式(6)。",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu = { \\frac { S } { N } } + { \\frac { F } { N } } \\mathrm { i } + { \\frac { P } { N } } \\mathrm { j } = a + b \\mathrm { i } + c \\mathrm { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mu$ 为集对的联系度； $N$ 为集对的特征数； $S$ 为同一特征数； $F$ 为差异性特征数； $P$ 为对立特征数。i为差异系数；」为对立系数。 $a$ 为同一度， $b$ 为差异度， $\\boldsymbol { c }$ 为对立度， $a + b + c = 1$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "将差异度和对立度细分，形成五元联系度如式(7)。假设评价对象指标值集合 $\\mathbf { A } = [ x _ { 1 } , x _ { 2 } , . . . , x _ { 6 } ]$ ，评价指标5等级标准集合 $\\mathbf { B } = [ \\mathbf { s } _ { 0 } { \\sim } \\mathbf { s } _ { 1 } , { \\ldots } , \\mathbf { s } _ { \\mathrm { k } - 1 } { \\sim } \\mathbf { s } _ { \\mathrm { k } } , { \\ldots } , \\mathbf { s } _ { 4 } { \\sim } \\mathbf { s } _ { 5 } ]$ 。对于越小越优的指标，当 $x _ { j }$ 位于等级范围 $s _ { k - 1 } \\sim s _ { k }$ 中时， $a { = } 1$ 。当 $\\boldsymbol { x } _ { j }$ 位于等级范围$s _ { k - 1 } \\sim s _ { k }$ 相邻的等级中，若 $x _ { j } < s _ { k - 1 }$ 则认为是优异，其值记为 $b _ { I }$ ；若 $x _ { j } > s _ { k - 1 }$ 则认为是劣异，其值记为 $b _ { \\mathcal { Z } }$ 。当 $\\boldsymbol { x } _ { j }$ 位于等级范围 $s _ { k - 1 } { \\sim } s _ { k }$ 存在间隔的等级中时，若（204号 $x _ { j } < s _ { k - 2 }$ 则认为是优反，其值记为 $c _ { I }$ ；若 $x _ { j } { > } s _ { k - 2 }$ 则认为是劣反，其值记为 $c _ { 2 \\circ }$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "因此式(6)可写为式(7）[47]",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu = a + ( b _ { 1 } + b _ { 2 } ) \\mathbf { i } + ( c _ { 1 } + c _ { 2 } ) \\mathbf { j } = a + b _ { 1 } \\mathbf { i } ^ { + } + b _ { 2 } \\mathbf { i } ^ { - } + c _ { 1 } \\mathbf { j } ^ { + } + c _ { 2 } \\mathbf { j } ^ { - }\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\na + b _ { 1 } + b _ { 2 } + c _ { 1 } + c _ { 2 } = 1 , \\quad \\mathrm { i ^ { + } \\in [ 0 , 1 ] , ~ \\ e ^ { - } \\in [ - 1 , 0 ] } , \\quad j ^ { + } = \\left\\{ 0 , 1 \\right\\} , \\quad \\mathrm { j ^ { - } = - 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上，对于越小越优型指标，符合 $s _ { j ( 0 ) } < s _ { j ( 1 ) } < s _ { j ( 2 ) } < s _ { j ( 3 ) } < s _ { j ( 4 ) } < s _ { j ( 5 ) }$ ，运用贴进度计算联系度向量的具体表达式如式(8)。对于越大越优型指标(油门深度)，符合 $s _ { j ( 0 ) } { > } s _ { j ( 1 ) } { > } s _ { j ( 2 ) } { > } s _ { j ( 3 ) } { > } s _ { j ( 4 ) } { > } s _ { j ( 5 ) }$ ，计算联系度时只需将式(8)定义域两端反向即可。",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r }  \\mu _ { \\mathrm { { I ( k ) } } } = \\left\\{ \\begin{array} { l l } { \\displaystyle { \\frac { S _ { j ( k ) } - S _ { j ( k - 1 ) } } { S _ { j ( k ) } - S _ { j } } + \\frac { S _ { j ( k - 1 ) } - S _ { j ( k - 2 ) } } { S _ { j ( k ) } - S _ { j } } \\mathrm { i } ^ { + } + \\frac { S _ { j ( k - 2 ) } - S _ { j } } { S _ { j ( k ) } - S _ { j } } \\mathrm { i } ^ { + } } , \\ : \\ : \\ : s _ { j ( k ) } \\le x _ { j } < s _ { j ( k - 2 ) } } \\\\ { \\displaystyle { \\frac { S _ { j ( k ) } - S _ { j ( k - 1 ) } } { S _ { j ( k ) } - S _ { j } } + \\frac { S _ { j ( k - 1 ) } - S _ { j } } { S _ { j ( k ) } - S _ { j } } \\mathrm { i } ^ { + } } } & { , \\ : \\ : s _ { j ( k - 2 ) } \\le x _ { j } < s _ { j ( k - 1 ) } } \\\\ { \\displaystyle { \\frac { S _ { j ( k ) } - S _ { j } } { S _ { j ( k ) } - S _ { j } } + \\frac { S _ { j ( k - 1 ) } - S _ { j } } { S _ { j ( k ) } - S _ { j } } \\mathrm { i } ^ { + } } } & { , \\ : \\ : \\ : s _ { j ( k - 1 ) } \\le x _ { j } < s _ { j ( k - 1 ) } } \\\\ { \\displaystyle { \\frac { S _ { j ( k ) } - S _ { j ( k - 1 ) } } { S _ { j } - S _ { j ( k - 1 ) } } + \\frac { X _ { j } - S _ { j ( k ) } } { X _ { j } - S _ { j ( k - 1 ) } } \\mathrm { i } ^ { - } } } & { , \\ : \\ : \\ : s _ { j ( k ) } \\le x _ { j } < s _ { j ( k + 1 ) } } \\\\ { \\displaystyle { \\frac { S _ { j ( k ) } - S _ { j ( k - 1 ) } } { S _ { j } - S _ { j } } + \\frac { S _ { j ( k - 1 ) } - S _ { j ( k - 1 ) } } { S _ { j } - S _ { j ( k - 1 ) } } \\mathrm { i } ^ { - } } } & { , \\ : \\ : s _ { j ( k ) } \\le x _ { j } < s _ { j ( k + 1 ) } } \\\\ { \\displaystyle { \\frac { S _ { j ( k ) } - S _ { j ( k - 1 ) } } { x _ { j } - S _ { j ( k - 1 ) } } + \\frac { S _ { j ( k + 1 ) } - S _ { j ( k - 1 ) } } { x _ { j } - S _ { j ( k - 1 ) } } \\mathrm { i } ^ { - } } & { \\ : x _ { j } - s _ { j ( k + 1 ) } } \\end{array} \\right. , \\quad s _ { j ( k ) } = x _ { j } < s _ { j ( k + 2 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\textstyle \\mu _ { j ( k ) }$ 为待评样本的第 $j$ 项指标的第 $k$ 级联系度向量， $k { = } 1$ ,2,3,4,5;[si(k-i),Sik)]为第j项指标的第k级评价标准的范围。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "根据评价指标各等级的联系度，结合指标权重，通过式(9)可计算样本的综合联系度向量 $\\mu$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mu = \\sum _ { j = 1 } ^ { 6 } \\pmb { \\mathsf { W } } _ { \\mathrm { j } } \\mu _ { \\mathrm { j } ( \\textbf { k } ) } , k = 1 , 2 , 3 , 4 , 5 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "集对分析将同一度与对立度的比值定义为所论集对的集对势 $\\operatorname { S H I } ( \\mu )$ ，在次基础上延申出了广义集对势 $\\mathrm { S H I } ( \\mu ) ^ { G ^ { [ 4 8 ] } }$ ，如式(10)所示。",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S H I } ( \\mu ) = a / c \\mathrm { ~ , ~ } \\mathrm { S H I } ( \\mu ) ^ { G } = e ^ { a } / e ^ { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "集对分析一般根据最大集对势准则确定等级，如式(11）。",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S H I } ( \\mathrm { H } ) = \\operatorname* { m a x } \\left\\{ \\mathrm { S H I } ( \\boldsymbol { \\mu } ) _ { k } ^ { G } , k = 1 , 2 , . . . , 5 \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "最终算得两组被试在3种应激距离下的集对势如表7。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f82acabf0ce6937e698795ac89a4eb109fdf1a9646f41d055f53c1d99724e29.jpg",
+        "table_caption": [
+            "表7集对分析评价结果",
+            "Table 7 Set Pair Analysis Evaluation Results "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">应激反应 距离</td><td rowspan=\"2\">驾驶特性</td><td colspan=\"5\">集对分析评价结果：SHI (H)</td><td rowspan=\"2\">评价 等级</td></tr><tr><td>一级</td><td>二级</td><td>三级</td><td>四级</td><td>五级</td></tr><tr><td rowspan=\"2\">19.2m</td><td>高</td><td>1. 41</td><td>1. 999</td><td>2.718</td><td rowspan=\"2\">1. 831 2.113</td><td>1. 713</td><td>三级</td></tr><tr><td>低</td><td>0.842</td><td>0.95</td><td>1. 421</td><td>2.502</td><td>五级</td></tr><tr><td rowspan=\"2\">27. 5m</td><td>高</td><td>2.022</td><td>2.718</td><td>2.093</td><td>1.25</td><td>1. 409</td><td>二级</td></tr><tr><td>低</td><td>1. 144</td><td>1. 644</td><td>2.498</td><td>2.337</td><td>1. 97</td><td>三级</td></tr><tr><td rowspan=\"2\">35.8m</td><td>高</td><td>2.582</td><td>2. 141</td><td>1. 416</td><td>0.915</td><td>1. 228</td><td>一级</td></tr><tr><td>低</td><td>1. 788</td><td>2.568</td><td>2.547</td><td>1. 528</td><td>1. 504</td><td>二级</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "根据评价结果能够发现，无论在哪一种应激反应距离下，高驾驶特性被试的应激反应能力均高于低驾驶特性被试，表明通过驾驶特性判断驾驶人应激反应能力在一定程度上是可行的。高驾驶特性被试在应激距离从27.5m 减少到19.2m 时，评价等级由二级变为三级，而低驾驶特性被试则由三级变为五级，表明低驾驶特性被试比高驾驶特性被试对应激距离的减少更加敏感。在应激距离从35.8m 减少到 27.5m 时，高驾驶特性被试评价等级由一级变为二级，低驾驶特性被试等级由二级变为三级，两者等级变化幅度相同，结合行人突然侵入道路作为应激源的一项研究的结论：被试在35.8m( $\\mathrm { \\Delta T I C { = } 2 s ) }$ 和 $2 7 . 5 \\mathrm { m } \\left( \\mathrm { T T C = 1 . 5 s } \\right)$ 的应激距离下的心理负荷不存在显著差异，而在27.5m 和 $1 9 . 2 \\mathrm { m } \\left( \\mathrm { T T C = 1 s } \\right)$ 的应激距离下的心理负荷存在显著性差异[4，说明了驾驶人是否有1s以上TTC 对其应激反应非常重要。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "为探究样本个体的应激反应情况，我们通过MATLAB 计算了2种被试在3种应激距离下，共计216个样本的应激反应的集对分析等级，结果如图4。以应激距离为19.2m的21个低驾驶特性被试为例进行说明：有6人的应激反应被评为等级三，7人评为等级四，8人评为等级五，应激距离为19.2m的低驾驶特性被试评为等级五的人数占据等级五的8/17。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/94f8d33cc5607b8a2b473ad0709dfa1e5b8dc63ead21891d7eca68349ddbb8de.jpg",
+        "img_caption": [
+            "图4两类驾驶特性群体在3种应激距离的集对分析评价等级 Fig.4 Set Pair Analysis Grade of 2 Groups of Driving Characteristic Participants at 3 Stress Distances "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由图可看出，被评价为等级三的样本数最多，除了低驾驶特性被试在27.5m应激距离这类样本，其余5类具有样本评为等级三，这表明大多应激反应处于中间水平。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "等级一大多来自高驾驶特性距离27.5m和35.8m的样本中，表明应激反应最好的是这两种情况，等级一还有少部分来自低驾驶特性距离35.8m的样本中，表明小部分低驾驶特性被试在应激距离足够时反应优秀，然而绝大多数低驾驶特性被试在35.8m时被评为等级三，评为等级一的数量与等级四、等级五相同，说明即使在应激距离较长时，低驾驶特性被试群体一部分人的应激反应不稳定，有极好的也有极差的。反观高驾驶特性群体，在应激距离为27.5m和35.8m时，评价等级稳定在等级一和等级三。高驾驶特性被试只有在应激距离为 $1 9 . 2 \\mathrm { m }$ 时表现不稳定，但大多被试评价是等级三、等级四，少数是等级五、等级二。高驾驶特性被试和低驾驶特性被试的共同点在于，应激距离为19.2m时，他们的评价等级均匀集中在等级三、四、五，说明在冲突时间(TTC)为1s时，两类驾驶特性被试的应激反应不良，容易出现危险情况。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5结论与讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1)采用VTS 测试被试的驾驶特性，根据测试结果筛选出 21个高驾驶特性被试和21个低驾驶特性被试。对两组被试的驾驶特性指标进行独立样本 t 检",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "验，所有指标均呈显著差异。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2)选取脑电 $( \\theta + \\alpha ) / \\beta$ 值、瞳孔面积、扫视频率、油门深度、刹车速度、方向盘转角等6个指标，统计分析三种应激距离下，高驾驶特性被试和低驾驶特性被试的应激反应指标。结果表明，两组驾驶员在应激状态下的6 个指标均有显著性差异；在三种应激距离下，所有指标均有显著差异；高驾驶特性组的指标值优于低驾驶特性组，被试在越长的应激距离下的指标值越优。这一结果证明了引言中两条假设的正确性。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(3)集对模型结果显示，高驾驶特性被试在三种应激反应距离下的应激反应均优于低驾驶特性被试；设置的应激反应距离越长，被试的应激反应越好。低驾驶特性被试在35.8m 的应激距离反应的评价结果优于高驾驶特性被试在19.2m的应激距离反应。表明低驾驶特性被试在应激距离足够时 $\\mathrm { ( T I C = 2 s ) }$ 的应激反应也能优于高驾驶特性被试在应激距离较短 $\\begin{array} { r } { ( \\mathrm { T } \\mathrm { T } \\mathrm { C } = 1 \\mathrm { s } ) , } \\end{array}$ )时的反应。应激反应距离为19.2m时，高驾驶特性被试的评价比低驾驶特性被试的评价高两个等级，而在另外两个下只高一个等级，表明低驾驶特性被试对应激距离的减少更加敏感，说明提高驾驶员的驾驶特性很有必要。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(4)驾驶特性和应激距离的交互作用对刹车速度影响显著，表明应激距离会对不同驾驶特性被试的刹车速度产生不同的影响效果，这可能是因为应激距离的减少对于低驾驶特性被试的影响程度大于高驾驶特性被试。驾驶人的驾驶特性越优或面对更长的反应时间空间时，倾向于以更高的速度行驶(油门深度较大)，这可能是因其对油门深度的掌控力较强。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(5)在应激距离从35.8m减少到27.5m时，高驾驶特性和低驾驶特性被试的评价等级均降低一级，这一结果和其他研究的结果相契合，被试在应激距离为35.8m 和 27.5m 下的应激反应不存在显著差异，而在27.5m(TTC=1.5s)和$1 9 . 2 \\mathrm { m } \\left( \\mathrm { T T C = 1 s } \\right)$ 下的应激反应存在显著差异[4。这说明在交通应激事件中，1s以上的交通冲突时间(TTC)是预知驾驶人应激反应安全程度的一个临界点。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(6)本文采用的最大集对势判定等级的方法被多数研究采用，与模糊评价中的最大隶属度准测类似，但仅根据最大隶属度确定评价等级过于强调极大值的作用，损失了大批中间值信息，例如当样本p的5个等级的集对势$\\mathrm { S H } ( \\mu ) ^ { G } = [ 1 . 1 , ~ 2 . 1 , ~ 1 . 4 , ~ 2 . 0 , ~ 2 . 2 ]$ ，利用最大集对势准则判定为等级5，但实际上等级3、等级4和等级5的集对势都很接近。一些研究为了解决这个问题，采用置信度准则判定评价等级[49]。然而置信度准则的一般要求隶属度至少高于0.5，若采用该准则判定评价等级，会使得样本评为等级一的几率降低或者不可能评为等级一，例如样本q的集对势 $\\operatorname { S H I } ( \\mu ) ^ { G } = [ 0 . 4 5 , \\ 0 . 7 , \\ 0 . 1 6 , \\ 0 . 1 6 , \\ 0 . 1 6 ]$ ，在置信度准则下评为等级二而不是等级一，这显然不合理。因此，未来确定一种以最大集对势为主、置信度为辅的等级判定方法将是很有必要的。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(7)本研究通过VTS确定的驾驶特性揭示了驾驶特性和应激反应的关系，但没有进一步实验确定提高驾驶人驾驶特性能力的方法，探究是否能够通过VTS的训练提高驾驶人的应激反应能力，这将是未来的研究重点。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "作者贡献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "郑新夷：提出研究问题，设计研究框架，修改论文杨艳群：提出研究方法，进行实验，提供数据陈铭：收集、分析数据，写作Easa Said：提出研究问题，审定论文",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[1]AL-MADANI H,AL-JANAHI AR.Role of Drivers’ Personal Characteristics in Understanding Traffic Sign Symbols[J]. Accident Analysis & Prevention,2002,34(2): 185-196.   \n[2]NORRIS FH,MATTHEWS BA, RIADJK.Characterological, Situational,and Behavioral Risk Factors for Motor Vehicle Accidents: A Prospective Examination[J].Accident Analysis & Prevention,20o0,32(4): 505-515. [3]WARSHAWSKY-LIVNE L,SHINAR D.Effects of Uncertainty, Transmisson Type,Driver Age and Gender on Brake Reaction and Movement Time[J]. Journal of Safety Research,2OO2,33(1):117-128.   \n[4]王畅,鲁玉萍,付锐,etal.行人突然侵入道路时驾驶人的生理负荷特性研究[J].科学技术与工程,2016, 1(21): 106-111. (WANG Chang,LU Yu-ping,FURui, et al. Parameters Analysis of Physiology Load of Drivers During Stress Response[J]. Science Technology and Engineering,2016,1(21): 106-111.)   \n[5]ZHANG L, BALDWIN K, MUNOZ B,et al. Visual and Cognitive Predictors of Performance on Brake Reaction Test: Salisbury Eye Evaluation Driving Study[J]. Ophthalmic Epidemiology,2007,14(4): 216-222. [6]WANG Y, LIAO K-B, ZHANG W, et al. Application of Driving Simulation System on Testing Driver's Reaction to Road Hazards[J].2011,23: 1251-1255+1277..   \n[7]TAKAHASHI R, KOBAYASHI M, SASAKI T, et al. Driving Simulation Test for Evaluating Hazard Perception: Elderly Driver Response Characteristics[J]. Transportation Research PartF: Trafic Psychology and Behaviour,2017,49: 257-270.   \n[8]赵亮,刘浩学,石保同.复杂道路环境中驾驶人应激反应能力研究[J].中国安全科学学报,2015,25(4): 105-109. (ZHAO Liang, LIU Hao-xue, SHI Bao-tong. Stress Response Ability of Drivers in Complex Road Environment[J]. China Safety Science Journal,2015,25(4):105-109.)   \n[9]李显生,孟凡淞,郑雪莲,etal.基于心率变异性的应激场景下驾驶人心理特性分析[J].上海交通大学学 报,2018(2): 163-168. (LI Xian-sheng, MENGFan-song,ZHENG Xue-lian,et al.Psychological Characteristics of Drivers in the Stress Scene Based on Heart Rate Variability[J]. Journal of Shanghai Jiaotong University,2018(2): 163-168.)   \n[10] WETTON M A, HORSWILL M S, HATHERLY C,et al. The Development and Validation of Two Complementary Measures ofDrivers' Hazard Perception Ability[J].Acident Analysis & Prevention,2010,42(4): 1232-1239.   \n[11] MA Y,LOU Y, WANG Y. Road Trafic Accidents Model and Its Application Based on Driver's SelfMistakes[J]. Journal ofTransportation Systems Engineeringand Information Technology,2010,10(4):101-105. [12]TUERKER Oe,LAJUNEN T, WARNER H W. Cross-Cultural Differences in Drivers’Speed Choice[J]. Accident Analysis & Prevention, 2009,41(4): 816-819.   \n[13] DEERY H A. Hazard and Risk Perception among Young Novice Drivers[J]. Journal of Safety Research,1999, 30(4): 225-236.   \n[14] HU TY, XIE X,LI J. Negative or Positive? The Effect of Emotion and Mood on Risky Driving[J].   \nTransportation Research Part F: Traffic Psychology and Behaviour, 2013,16: 29-40.   \n[15] RANNEY TA. Models of Driving Behavior: A Review of Their Evolution[J]. Accident Analysis & Prevention,1994,26(6): 733-750.   \n[16] 吴付威.基于信息处理机制的驾驶人感知-判断-反应特性研究[D].长安大学,2020.(WUFu-wei. Research on Drivers' Perception-Judgement-Response Characteristics Based on Information Procesing[D]. Chang'an University,2020.)   \n[17] SUMMALA H. Brake Reaction Times and Driver Behavior Analysis[J]. Transportation Human Factors, 2000,2(3): 217-226.   \n[18] JURECKI R S, STANCZYK TL. Driver Reaction Time to Lateral Entering Pedestrian in a Simulated Crash Traffic Situation[J].Transportation Research Part F: Psychology and Behaviour, 2014,27(Part A): 22-36. [19] ULLEBERG P,RUNDMO T. Risk-Taking Atitudes among Young Drivers: The Psychometric Qualities and Dimensionality of an Instrument to Measure Young Drivers’ Risk-Taking Atitudes[J]. Scandinavian Journal of Psychology,2010, 43(3): 227-237.   \n[20] KACA G, IZMITLIGIL T, KOYUNCU M, et al. How Well Do the Traffic Psychological Assessment Systems Predict On-Road Driving Behaviour?[J].Applied Cognitive Psychology,2021,35(5): 1321-1337. [21] DENG M, WU F, GU X,et al. A Comparison of Visual Ability and Its Importance Awarenessbetween Novice and Experienced Drivers[J]. International Journalof Industrial Ergonomics,2O21,83(April):103141. [22] SAADAT S, SABAGH M S, KARBAKHSH M. The Effect of Waterpipe Smoking on Psychomotor Performance Required for Driving: A Quasi-Experimental Trial[J]. Journal of Transport & Health,2O18,9:180- 186.   \n[23] HANI TABAI B, BAGHERI M, SADEGHI-FIROOZABADI V, et al. Evaluating the Impact of Train Drivers'Cognitive and Demographic Characteristics onRailway Accidents[J]. Safety Science,2018,110:162-167. [24]MILANV,BORIS A,DALIBOR P,etal. Testing the Psychophysical Characteristics of Professonal Drivers Can We Identify Unsafe Drivers ?[J]. Transportation Research PartF: Trafic Psychology and Behaviour,2016, 42(1): 104-116.   \n[25] 雷丽娜.2018年全国小汽车保有量首次突破2亿辆[EB/OL].[2019-01-13].http:   \n//www.gov.cn/xinwen/2019-01/13/content_5357441.htm.(LEILi-na.In 2018,the number of cars in China exceeded 200 million for the first time [EB/OL].[2019-01-13]. http: //www.gov.cn/xinwen/2019-   \n01/13/content_5357441.htm.)   \n[26] ROLISON JJ,REGEV S,MOUTARI S,et al. What Are the Factors That Contribute to Road Accidents? An Assessment of Law Enforcement Views,Ordinary Drivers' Opinions,and Road Accident Records[J].Accident Analysis and Prevention, 2018,115(1): 11-24.   \n[27] AMADO S, KOYUNCU M, KACAG Comparison of Three Systems for Psychotechnical Assessment Used in Turkey[J].Transportation Research Part F: Psychology and Behaviour,2O15,32: 78-90.   \n[28]ANITEI M,CHRAIF M, SCHUHFRIED $\\mathrm { \\bf G }$ et al.The Validation of Expert System Traffic Psychological Assessment to Romanian Driving Schools[J].Procedia - Social and Behavioral Sciences,2011,30(1): 457-464. [29] ECKERT A,SEVENICH M,RIETHPE. Emergency Steer & Brake Assist - A Systematic Approach for System Integration of Two Complementary Driver Asistance Systems[J]. European Journal of Political Research, 2011, 50(4): 441-478.   \n[30]FOYHJ,PETER C.Mental Workload Is Reflected in Driver Behaviour,Physiology,Eye Movements and Prefrontal Cortex Activation[J]. Applied Ergonomics, 2018,73: 90-99.   \n[31] G K,KOUNTOURIOTIS,N.,et al.Leading to Distraction: Driver Distraction,Lead Car,and Road Environment[J].Accident Analysis & Prevention,2016,89:22-30.   \n[32] YANG Y, CHEN J,EASA S M, et al. Driving Simulator Study of the Comparative Effectiveness of Monolingual and Bilingual Guide Signs on Chinese Highways[J]. Transportation Research Part F: Traffic Psychology and Behaviour, 2019.   \n[33]LI W,HE QC,FAN X M,et al. Evaluation of Driver Fatigue on Two Channels of EEG Data[J].   \nNeuroscience Letters,2012,506(2): 235-239.   \n[34] CHEN J, WANG H, HUA C. Assessment of Driver Drowsiness Using Electroencephalogram Signals Based on Multiple Functional Brain Networks[J].International Journal of Psychophysiology,2018,133:120-130. [35] BELAKHDAR I, KAANICHE W, DJEMAL R,et al. Single-Channel-Based Automatic Drowsiness Detection Architecture with a Reduced Number of EEG Features[J].Microprocessors & Microsystems,2018, 58(1): 13-23.   \n[36] FERGUSON C J.An Effect Size Primer: A Guide for Clinicians and Researchers[J].Professional   \nPsychology Research and Practice,2009,40(5): 532-538.   \n[37]XIAO Q,HER,YUJ.Technology in Society Evaluation of Taxi Carpooling Feasibility in Diffrent Urban Areas through the K-Means Matter e Element Analysis Method[J].Technology in Society,2018,53:135-143. [38] WANG M,LI L, JIN J. Decision-Making of Landslide Treatment Schemes Using Identical Degree of Set Pair Analysis[C].2009 CHINESE CONTROL AND DECISION CONFERENCE,ed./International Conference on Chinese Control & Decision Conference.Guilin, China: 2O09 Chinese Control and Decision Conference,2009: 757-760.   \n[39] WANG W S, JIN JL,DING J. A New Approach to Water Resources System Assessment- —SetPair Analysis Method[J]. Science in China(Series E:Technological Sciences),2009,52(10):3017-3023.   \n[40] TSUEI H-J,TSAI W-H,PANF-T, et al. Improving Search Engine Optimization (SEO) by Using Hybrid Modified MCDMModels[J].Artificial Intelligence Review,2018,53:1-16.   \n[41] SABATER S,PASTOR-JUAN MR,ANDRES I, et al. MRI Prostate Contouring Is Not Impaired by the Use of a Radiotherapy Image Acquisition Set-up.An Intra- and Inter-Observer Paired Comparative Analysis with Diagnostic Set-up Images[J]. Cancer/Radiotherapie,2021,25(2): 107-113.   \n[42] BAO D, ZHANG X. Measurement Methods and Influencing Mechanisms for the Resilience of Large Airports under Emergency Events[J]. TRANSPORTMETRICA A-TRANSPORT SCIENCE,2018,14(10): 855- 880.   \n[43] YANG C H,TAO H.Britle Relationship Analysis of Human Error Accident of Warship Technology Supportability System Based on Set Pair Analysis[Cj/2018 7th International Conference on Industrial Technology and Management (ICITM).   \n[44] LIU Y. Study on Environment Evaluation and Protection Based on Set Pair Analysis——A Case Study of Chongqing[J].Energy Procedia,2012,14:14-19.   \n[45] YAN F, XU K. A Set Pair Analysis Based Layer of Protection Analysis and Its Application in Quantitative Risk Assessment[J]. Journal of Loss Prevention in the Process Industries,2018,55: 313-319.   \n[46] TAO J,FUM, SUN J, et al. Multifunctional Assessment and Zoning of Crop Production System Based on SetPair Analysis-A Comparative Study of 31 Provincial Regions in Mainland China[J]. Communications in Nonlinear Science and Numerical Simulation,2014,19(5):1400-1416.   \n[47] GE W,LIZ,LI W,et al. Risk Evaluation of Dam-Break Environmental Impacts Based on the Set Pair Analysis and Cloud Model[J].Natural Hazards,2020,104(2):1641-1653.   \n[48] 李德顺.基于广义集对分析的系统危险性评价研究[D].东北大学,2010.(LIDe-shun.Research on System Risk Assessment Based on General Set Pair Analysis[D]. Northeastern University,2010.)   \n[49]葛巍,李宗坤,李娟娟,etal.改进的集对分析法在溃坝社会影响评价中的应用[J].长江科学院院报,2020, 37(1): 6.(GE Wei,LI Zong-kun,LI Juanjuan,et al. An Improvement on SetPair Analysis and Its Application to Social Impact Assessment of Dam Breach[J]. Jourmal of Yangtze River Scientific Research Institute,2020,37(1): 6.) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

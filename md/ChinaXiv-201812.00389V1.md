@@ -1,0 +1,241 @@
+植物提取物对反刍动物瘤胃发酵、生产性能及甲烷产量的调控作用及其机制张　华」童津津」孙铭维」杨德莲」张　婕」　熊本海²蒋林树1\*（1.奶牛营养学北京市重点实验室，北京农学院动物科学技术学院，北京102206；2.
+
+中国农业科学院北京畜牧兽医研究所，北京100193）
+
+摘要：植物提取物不但具有调控反刍动物瘤胃发酵模式、提高氮存留率、减少甲烷排放等功能，而且因其低毒副作用及其所具有的天然性、营养性和生物活性等特性，已成为抗生素的理想替代品之一。本文综述了植物提取物对反刍动物瘤胃发酵调控作用及其机制的最新研究进展，以期对今后该领域的研究及产品研发提供参考依据。
+
+关键词：植物提取物；反刍动物；瘤胃发酵；调控；机制
+
+中图分类号：S816
+
+反刍动物瘤胃是一个复杂的厌氧发酵体系，瘤胄微生物与其建立了一种共生关系。瘤胄为微生物发酵提供营养和适宜的环境条件，而微生物降解纤维及合成微生物蛋白（microbialprotein，MCP）又为反刍动物供应能量和蛋白质。与此同时，发酵过程中也伴随着能量的损失以及二氧化碳（ $\mathrm { C O } _ { 2 }$ ）和甲烷（ $\mathrm { C H } _ { 4 }$ ）等有害气体的产生。因此，合理调控反刍动物的瘤胃发酵已经成为了动物营养学家们高度关注的一个研究领域。目前调控瘤胃发酵的主要方式有合理饲喂、改善饲粮组成及其加工处理、使用饲料添加剂等。饲料添加剂调控主要以添加抗生素等药物的方式进行，但使用抗生素所造成的药物残留问题日益严重，药物残留不仅对环境造成污染，还会危及人类健康。因此，寻找合适的抗生素替代品已迫在眉睫[2]。
+
+植物提取物是以植物为原料，经过一系列物理化学加工过程，得到的含有一种或多种有效成分的混合物，因其低毒副作用及其所具有的天然性、营养性和生物活性等特性已受到从
+
+# 收稿日期：2017-12-13
+
+基金项目：国家自然科学基金项目（31772629；31702302)；2015年大北农青年教师科研基金；2016 年北京农学院青年教师科研基金；2017年北京市教委科技计划项目（SQKM201710020011)；“十三五"国家重大科技专项（2016YFDO700201)；北京市农业局北京市现代农业产业技术体系奶牛创新团队作者简介：张华（1986-），男，山东泰安人，讲师，博士，主要研究方向为临床兽医学。E-mail:huazhang0914@163.com;
+
+\*通信作者：蒋林树，教授，博士生导师，E-mail：kjxnb@vip.sina.com.
+
+业者的高度重视。近年来的研究表明，植物提取物对瘤胃发酵具有一定的调控作用。某些植物提取物可以改变瘤胃发酵模式，从而降低瘤胃蛋白的降解率，减少CH4气体的排放[3]。
+
+目前，植物提取物对瘤胃发酵调控的研究主要集中在减少 $\mathrm { C H } _ { 4 }$ 气体的排放、改善瘤胃发酵模式、降低蛋白质的瘤胃降解率等方面[4-5]。现就植物提取物在瘤胃发酵调控作用及其机制等方面的研究进展作一综述，为其在反刍动物营养上的应用提供参考。
+
+# 1植物提取物对瘤胃挥发性脂肪酸的影响
+
+挥发性脂肪酸（volatile fatty acids，VFA）是饲粮中碳水化合物在瘤胃中降解的主要产物，是反刍动物主要的能量来源及合成乳脂肪和体脂的原料。VFA所提供的瘤胃可发酵能量占到饲粮可消化能的 $60 \%$ 以上，可见VFA在反刍动物能量代谢中的重要地位。
+
+近年来，只有少数研究证明了添加植物提取物提高了瘤胃VFA的浓度。吴端钦等[6利用体外产气法研究发现，向精粗比为 $3 0 : 7 0$ 的饲粮中添加 $5 \%$ 和 $10 \%$ 的亚麻籽油，试验组VFA浓度显著增加，乙酸比例显著降低，丙酸比例显著升高，乙酸/丙酸值显著降低。Mao[7]在断奶山羊饲粮中分别添加茶叶皂苷（0或 $3 \mathrm { g / d }$ ）和豆油（0或 $3 \%$ ），结果表明，所有试验组的VFA生成量显著升高。Pilajun等[8]向瘘管水牛的饲粮中以 $3 0 ~ \mathrm { g / k g }$ 的水平添加山竹果皮提取物，结果显示添加组VFA浓度显著提高。Mateos等[9研究发现，向精粗比为 $5 0 : 5 0$ 的饲粮中以180mg/L的水平添加肉桂醛，与对照组相比，试验组VFA的浓度及乙酸比例显著提高。
+
+然而在多数的研究中，添加植物提取物可导致VFA浓度下降或者没有影响。史浩亭等[10]利用人工瘤胃技术研究发现，向饲粮中分别添加 $1 \%$ 、 $2 \%$ 、 $3 \%$ 、 $4 \%$ 的苏子油，对VFA浓度无显著影响。梁贤威等[1向泌乳水牛中添加精料饲喂量的 $4 \%$ 的葵花籽油、茶油及其组合，降低了瘤胃液VFA的浓度，但差异不显著。Thao等[12]向自由采食的水牛中以 $2 \mathrm { m L } / \mathrm { d }$ 的量添加桉树油，结果表明VFA的浓度没有改变，乙酸的比例降低，丙酸的摩尔比升高。Khorrami等[13]向荷斯坦奶牛的基础饲粮中添加植物提取物活性成分百里酚和肉桂醛，饲养21d后发现对VFA的浓度、乙酸以及丁酸的比例没有影响。Benhissi等[14]利用批次培养技术研究发现，向日粮中添加 $2 \%$ 富含单宁的植物提取物，发酵24h后对VFA的浓度没有显著影响。
+
+虽然大量的研究表明植物提取物降低了瘤胃VFA的浓度或对其没有影响，但却可改变各VFA的摩尔比。McMurphy等[15]报道了在16头小公牛的饲粮中添加皂苷可提高乙酸和丙酸的浓度。金哲勇等[16]向延边黄牛的基础饲粮中以475g/d的剂量添加胡麻油，降低了乙酸的比例，提高了丙酸的比例。降低乙酸/丙酸值是植物提取物改善瘤胃VFA组成的正效应，但并不是所有的植物提取物都能正向改善瘤胃VFA组成。Castillejos等[17]报道了饲粮中添加丁香酚 $\boldsymbol { 5 0 0 } \mathrm { m g / L } )$ 减少了丙酸的比例，而没有影响总的VFA浓度。Busquet等[18]报道大蒜油（300和 $3 0 0 0 \mathrm { { m g / L } }$ ）和水杨酸苄酯（300和 $3 0 0 0 \mathrm { { m g / L } }$ ）减少了乙酸的比例，提高了丙酸和丁酸的比例。添加一些植物提取物或其活性成分可导致丁酸浓度的提高，这表明这些成分的作用方式不同于莫能菌素。
+
+然而，体外研究的结果与体内的研究结果并不一致[19]。在体外应用的植物提取物添加剂量远远大于机体生理上可接受的使用比例。根据Meta分析，体外的植物提取物添加剂量范围为 $0 . 0 3 { \sim } 5 0 0 ~ \mathrm { g / k g ^ { [ 5 ] } }$ ，而用于体内研究的剂量范围为：小型反刍动物的剂量范围为0.02\~0.75$\mathbf { g } / \mathrm { k g }$ ，肉用牛的剂量为 $1 0 . 0 4 { \sim } 0 . 2 5 ~ \mathrm { g / k g }$ ，奶牛的剂量为 $0 . 0 1 { \sim } 0 . 4 3 ~ \mathrm { g / k g ^ { [ 4 ] } } ,$ 。Khiaosaard等[4]研究发现，与奶牛相比，植物提取物能更有效地降低小型反刍动物和肉牛的乙酸、氨浓度和甲烷的产生。例如，大蒜油（ $5 0 0 \mathrm { m g / k g }$ ）可显著降低羊瘤胃中的氨浓度而增加丙酸的浓度[20]，但却对奶牛无影响 （ $2 5 0 \mathrm { m g / k g }$ ）[21]。辣椒素（ $1 3 { \sim } 6 0 \ \mathrm { m g / k g } \$ ）可降低肉牛瘤胃内乙酸的浓度[22],而对奶牛的瘤胃发酵过程中无影响（ $\left( 9 { \sim } 3 8 ~ \mathrm { m g / k g } \right)$ ）[23]。
+
+瘤胃微生物对所添加的植物提取物有一个适应性反应，这种反应对发展植物提取物作为添加剂的长效效应是一个挑战，尤其是添加剂量低的植物提取物。Busquet等[24]利用 $2 4 \mathrm { h }$ 的批次培养探究了添加大蒜油对体外瘤胃微生物发酵的影响，当添加剂量为 $3 0 0 \mathrm { m g / L }$ 时，降低了VFA的浓度。在后续的连续培养试验中，大蒜油的添加剂量增至 $3 1 2 \mathrm { m g / L }$ 时却对VFA的浓度没有影响。Cardozo等[25]在连续培养中添加肉桂醛、大蒜和茴香油（ $7 . 5 \mathrm { m g / k g }$ ），试验前6d可改变VFA的浓度，之后对VFA的浓度没有影响。这些研究是微生物菌群能够适应植物提取物的强有力证据，目前也是商业上开发植物提取物作为饲料添加剂的一个挑战。
+
+# 2植物提取物对瘤胃氮代谢的影响
+
+反刍动物和瘤胃微生物区系之间的共生关系使反刍动物能够利用非蛋白氮作为氮源来合成MCP，MCP为宿主提供了极好的氨基酸资源用以合成牛奶和肉中的蛋白质。然而，对于高产反刍动物来说，瘤胃MCP的合成量并不能满足其需求。所以通常需要在饲粮中增加饲料蛋白质的供给，但这会增加饲料成本。而且反刍动物对氮的低效利用会使丰富的氮源流入环境进而造成一定的环境污染。因此，提高氮的利用率无论是对反刍动物自身还是环境都
+
+是非常有利的。
+
+目前有很多研究旨在判断植物提取物及其活性成分对瘤胃氮代谢的影响。张双双[26]向32头泌乳奶牛饲粮中添加葵花籽油、茶油以及混合油，结果表明与对照组相比，所有加油组氨态氮（ $\mathrm { \Delta N H _ { 3 }  – N }$ ）浓度均显著降低。Wanapat等[27]向沼泽型水牛饲粮中添加 $6 \%$ 的椰子油和葵花籽油的混合油，与对照组相比，试验组通过抑制瘤胃蛋白的降解显著降低了 $\mathrm { N H } _ { 3 }$ -N浓度。但也有一些研究表明植物提取物没有改变瘤胃的氮代谢或者升高了 $\mathrm { N H } _ { 3 }$ -N的浓度。Kongmun等[28]研究报道，向水牛饲粮中添加 $7 \%$ 的椰子油对瘤胃液中 $\mathrm { N H } _ { 3 }$ -N浓度没有影响。崔振亮等[29]利用体外产气法，分别向瘤胃液中添加 $0 . 0 1 \%$ 、 $0 . 1 0 \%$ 和 $1 . 0 0 \%$ 的植物蜕皮甾酮，结果表明各剂量组 $\mathrm { N H } _ { 3 }$ -N浓度均有所提高，但差异不显著。一般将 $\mathrm { N H } _ { 3 }$ -N浓度作为评价瘤胃中氮存留率的一个重要指标， $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度的降低意味着瘤胃中蛋白降解率的降低或者瘤胃微生物对$\mathrm { N H } _ { 3 }$ -N利用率的提高。植物提取物对瘤胃发酵产生的 $\mathrm { N H } _ { 3 }$ -N浓度的调控作用受其化学结构和添加剂量的影响。Jahani-Azizabadi等[30]利用体外产气法，向精粗比为 $1 : 1$ 的饲粮中添加140和280 $\mu \mathrm { L } / \mathrm { L }$ 的肉桂醛和百里酚，结果发现只有百里酚减少了 $\mathrm { N H } _ { 3 }$ -N浓度，肉桂醛对NH3-N浓度没有影响。Busquet等[18]利用体外发酵技术观察到一些植物提取物及其主要成分在高浓度时可降低 $\mathrm { N H } _ { 3 }$ -N浓度，并且以 $3 0 0 \mathrm { m g / L }$ 为产生影响的临界添加水平，当添加剂量较低时（3$\mathrm { m g / L }$ ）则无影响。这些研究表明了植物提取物对瘤胃氮代谢的影响与其化学结构和添加剂量有关。
+
+早期Borchers[31]向含有酪蛋白的瘤胃液中添加百里酚（ $1 \ \mathrm { g / L }$ ）发现氨基酸的累积以及$\mathrm { N H } _ { 3 }$ -N浓度的下降，表明了氨基酸的去氨基作用受到抑制。McIntosh等[32]进一步利用体外批次培养技术来发酵酪蛋白和瘤胃液，其中瘤胃液取自每天向其饲粮中添加1g混合植物油的奶牛，结果发现氨基酸的去氨基作用被减少了 $9 \%$ 。这些研究表明瘤胃液中 $\mathrm { N H } _ { 3 }$ -N浓度的降低可能是添加植物提取物抑制了氨基酸的去氨基作用。Wallace[33]报道在羊的饲粮中每天增补 $1 0 0 ~ \mathrm { { m g } }$ 混合植物油可使高产氨菌减少 $7 7 \%$ 。Flythe等[34]进一步用富含可溶性的酚类物质的红花苜蓿来探究其对瘤胃蛋白质代谢的影响，结果表明高产氨菌活性受到抑制，这可能是氨基酸去氨基作用受到抑制的原因。
+
+$\mathrm { N H } _ { 3 }$ -N浓度下降的另一种机制可能是植物提取物发挥了驱原虫作用，瘤胃原虫可分泌脱氨酶来降解饲料中的蛋白质生成NH3-N，但其自身并不能利用NH3-N来合成自身需要的蛋白质，并且原虫可吞噬和消化大量的菌体蛋白，从而使进入十二指肠的MCP的数量减少，原虫也会影响蛋白质的水解和脱氨基作用，因此去除原虫可以防止氮在微生物和原虫之间循环，从而使进入十二指肠MCP的含量增加[35-37]。樊艳华等[38]选用12只体况良好的山羊，在其饲粮中添加丝兰皂苷探究其对瘤胃氮代谢的影响，结果发现添加丝兰皂苷组原虫的数目显著降低，瘤胃 $\mathrm { N H } _ { 3 }$ -N浓度显著降低，尿氮的排出减少，沉积氮占总采食氮的比例增加，表明丝兰皂苷可以驱除原虫，提高氮的利用效率。Noorian等[39]利用体外产气法研究发现，Echumamoneum提取物的添加导致了 $\mathrm { N H } _ { 3 }$ -N浓度的下降，并且原虫的数目有下降的趋势。单宁也是一种可提高瘤胃氮代谢的植物提取物，其作用机制是与饲料蛋白质形成稳定的复合物，这样可以保证饲料蛋白质不被微生物降解，同时单宁还可以抑制瘤胃内一些蛋白水解菌和纤维降解菌的活性，在一定的条件下，可以保护饲料蛋白质不被降解[40-42]。
+
+长期的体外发酵和体内发酵与短期体外发酵相比较对氮代谢影响不显著。Newbold等[43]和Benchaar等[44研究报道，向以大豆粉为发酵底物的羊或者奶牛的瘤胃液中分别添加 $1 1 0 \mathrm { m g }$ 或2g的混合植物油，结果发现对瘤胃的氮代谢没有影响。Busquet等[45]和Cardozo等[46]利用双外流连续培养试验发现植物油及其有效成分对瘤胃氮代谢的影响会在发酵6\~7d后消失。此结果表明瘤胃微生物菌群对植物提取物产生了适应性。因此，利用体外24或48h发酵培养得出的结果需谨慎的解释，因为此结果不涉及到瘤胃微生物菌群可能的改变。
+
+# 3植物提取物的抗微生物作用
+
+众所周知，植物提取物对细菌、原生动物、古细菌和真菌具有广泛的抗微生物作用[47]。植物提取物的抗菌特性主要归因于其活性化合物的疏水性，如萜类化合物和单宁等[48]。据报道，单宁可以延缓瘤胃蛋白质的分解，提高氨基酸在小肠中的利用率，降低瘤胃内氨气的产生和减少尿素氮的排出，减缓瘤胃蛋白质的降解，因此改善动物的营养状况[49]。
+
+研究发现，植物提取物可改善瘤胃内环境，增强瘤胃微生物活性，促进菌体蛋白的合成，提高粗纤维消化率，从而增强生产性能[50]。与奶牛相比，肉牛中相对较低的瘤胃pH可能会通过增加其疏水性，进而增强植物提取物的活性，从而破坏细菌细胞膜[51]。在奶牛体外瘤胃液以及体内试验中，添加丝兰提取物，可提高饲粮中营养物质的消化率、乳品质以及血清中免疫球蛋白（Ig）G、IgM和IgA的含量，能显著降低甲烷的生成，减少能量损失，降低环境污染[52]。因此，丝兰植物提取具有强烈的抗原虫类微生物活力的能力，降低原虫类微生物数量，有利于瘤胃氮的利用，增加MCP流向小肠的数量。
+
+据报道，饲料中添加茶皂素可显著降低瘤胃pH和 $\mathrm { N H } _ { 3 }$ -N的浓度，但提高MCP产量、丙酸和丁酸浓度，并显著影响了奶牛瘤胃微生物区系。当瘤胃内产甲烷菌的活性被抑制后，瘤胄内过剩的氢被用作丙酸的合成，从而提高了丙酸的浓度，进而改变了奶牛瘤胃发酵模式[53-55]。因此，瘤胃微生物在消化中占有重要地位，通过对其进行调控来改善饲料的消化具有重要意义，充分发挥瘤胃的消化效率以提高生产性能。目前，瘤胃发酵调控剂在生产实践中已取得了很好的效果，今后的研究可从以下方面考虑：1）一些瘤胃调控剂的研究还只停留在表观上，对具体的机理还不清楚，要注重机理的研究；2）要认识掌握瘤胃微生物的活动及代谢规律，全面实施瘤胃发酵调控，为开发新的调控剂打下基础。
+
+# 4植物提取物对反刍动物生产性能的影响
+
+植物提取物因其化学性质不同、剂量以及动物的种属差异，会产生不同的效果，进而改善动物的生产性能。Yang等[5研究发现，在70日龄的肉牛饲粮中，每天添加400、800或1600mg肉桂醛，每日采食量（DMI）和平均日增重在试验时间呈线性增加。在奶牛中，添加肉桂醛（ $1 \mathrm { g / d }$ 或 $5 0 ~ \mathrm { m g / k g }$ ），对DMI、产奶量和乳汁成分的变化无任何影响[57]。在一系列交叉和随机设计试验中，肉桂醛和丁香酚（每头 $5 2 5 \mathrm { m g / d } )$ 的混合物对奶牛的生产性能无影响[58]。Wall等[59]报道,同样的植物提取物混合物,在多产奶牛中应用,日产奶量可降低400和 $6 0 0 \mathrm { m g }$ 然而，对初产奶牛的产奶量则以每头200和 $6 0 0 \mathrm { m g / d }$ 的速度增加。植物提取物也仅使初产奶牛的DMI有所增加。因此，植物提取物的生产效应取决于奶牛所处的阶段。在Tager等[60]的研究中，饲粮中添加辣椒素（每头 $2 5 0 \mathrm { m g / d } .$ ）对奶牛的产奶量无影响。然而，最近的研究报道了辣椒素对奶牛的生产性能具有积极的影响。Oh等[23]研究发现固体形式的辣椒素（每头250和 ${ 5 0 0 } \mathrm { m g } / \mathrm { d } { \cdot }$ ）可以增加的牛奶和能量校正乳（ECM）产量。Stelwagen等[61]和Oh等[62]分别报道，应用具有瘤胃保护作用的辣椒素（每头100或 $2 0 0 \mathrm { m g / d }$ ）可分别提高奶牛的产奶量和饲料转化率。研究发现，在奶牛饲粮中添加低剂量的植物提取物，可增加产奶量或饲料转化率（即 $4 { \sim } 3 8 \ \mathrm { m g / k g }$ ）；而在体外试验中，对瘤胃发酵无显著影响[63]。Oh等[23]研究发现，低剂量的植物提取物对奶牛瘤胃的发酵没有影响。
+
+在奶牛饲草中添加柠檬草，结果发现，牛奶风味改善起到一定的积极作用，而且柠檬草不仅可以提高奶牛的免疫力，增进奶牛的健康和具有令人愉快的柠檬香味，还可以改善牛不良气味，使牛群生存在一个安逸的环境里，更有利于生产[64]。研究人员还发现，对奶牛场的奶牛喷洒茴香油后，能使奶牛相处得更好，产奶量也因此增加[65]。
+
+# 5植物提取物减少CH4排放的研究
+
+反刍动物瘤胃发酵所排放的CH4量大约占全球CH4排放量的 $2 5 \%$ ，其所带来的全球气候问题已引起了动物营养学家和环境学家们的日益关注，同时 $\mathrm { C H } _ { 4 }$ 的产生也是反刍动物能量损失的主要方式[6]。植物提取物由于其具有抗菌性，已被广泛应用于许多领域（例如传统医学、食物防腐剂以及其他方面）[18]。抗菌特性是由于其含有大量的次级代谢产物，包括皂苷、萜类、植物油、单宁、酚类化合物等。近年来的研究表明，植物提取物能够降低反刍动物瘤胃发酵的CH4排放量[18]。
+
+作为一种常见的植物提取物，植物油是通过水或乙醇水溶液蒸馏的方式获得的一种复杂的混合物，以酚类、萜类、酯类、醛类衍生物最为常见，含有很多的抗菌活性分子，在调控瘤胃发酵的同时还可以保护反刍动物免受病原体的侵害[49]。目前，有很多的研究发现在饲粮中添加一定水平的植物油有降低瘤胃 $\mathrm { C H } _ { 4 }$ 产量的趋势。Sallam等[67]利用体外产气法，以精粗比为1：1的饲粮为发酵底物，探究了添加不同水平的桉树油对瘤胃产CH4效果的影响，结果表明，分别在25、50、100和 $1 5 0 ~ \mu \mathrm { L }$ 的添加水平下添加桉树油线性减少了26.8、46.8、77.3和 $8 5 . 3 \%$ 的CH4产量。Araujo等[68]利用体外产气法对破布木属马鞭草科提取出的植物油抑制瘤胃CH4生成的效果进行了进一步研究，结果表明以干草为底物进行发酵时，添加植物油降低了 $30 \%$ 的CH4产量，并且当植物油添加水平大于 $1 \ \mathrm { m L / m L }$ 时，其降低 $\mathrm { C H } _ { 4 }$ 产量的能力与莫能菌素相同。Chandrasekharaiah等[69]选用香茅油、白珠树油和丁香油，通过体外法研究了11个添加水平对瘤胃发酵CH4产量的影响，结果表明，这3种植物油均线性降低了CH4的产量，且与对照组相比，当香茅油和白珠树油添加量为2.67和 $0 . 6 6 ~ \mathrm { \mu L / m L }$ 时， $\mathrm { C H } _ { 4 }$ 的产量分别被降低了 $3 9 \%$ 和 $4 \%$ ，且对瘤胃发酵没有负面影响。近几年的大量研究结果表明，饲粮中添加一定水平的植物油可降低瘤胃发酵的 $\mathrm { C H } _ { 4 }$ 产量。因此，植物油用于调控瘤胃发酵，减少 $\mathrm { C H } _ { 4 }$ 的排放。
+
+皂苷也是植物的次级代谢产物之一，它是一种高分子量的糖苷，由三萜或甾体类的糖苷配基（皂苷元）与糖链相连而成，这些皂苷元含有一个或更多的C一C键[70]。近年来有相关研究表明皂苷对瘤胃发酵的CH4产量也存在一定的影响。Rodriguez等[71]以狼尾草为底物，添加一定水平的象耳豆皂苷，体外发酵 $2 4 \mathrm { h }$ 测定 $\mathrm { C H } _ { 4 }$ 的产量，结果表明， $\mathrm { C H } _ { 4 }$ 产量显著降低。Goel等[72]利用体外产气法探究添加 $1 3 \%$ 、 $6 \%$ 和 $9 \%$ 的皂苷对瘤胃发酵 $\mathrm { C H } _ { 4 }$ 产量的影响，结果表明，当添加水平为 $6 \%$ 时， $\mathrm { C H } _ { 4 }$ 的产量降低了 $4 9 . 6 6 \%$ 。Wang等[73]利用体外产气法评估添加0、5、10、20、40、 $6 0 ~ \mathrm { { m g / m L } }$ 的绞股蓝皂苷对瘤胃发酵CH4产量的影响，结果表明，发酵8h后$\mathrm { C H } _ { 4 }$ 的产量分别减少了 $30 . 2 0 \%$ 、 $4 3 . 4 9 \%$ 、 $4 4 . 6 7 \%$ 和 $7 5 . 8 \%$ ；发酵12h后 $\mathrm { C H } _ { 4 }$ 的产量分别减少了$6 . 9 7 \%$ 、 $9 . 6 3 \%$ 、 $1 8 . 9 0 \%$ 和 $6 1 . 8 2 \%$ ；发酵 $2 4 \mathrm { h }$ 后 $\mathrm { C H } _ { 4 }$ 的产量分别减少了 $2 . 3 4 \%$ 、 $9 . 3 9 \%$ 、 $6 . 9 0 \%$ 和 $2 0 . 7 3 \%$ $\mathrm { C H } _ { 4 }$ 的减少量与添加剂量成线性关系，说明添加一定水平的绞股蓝皂苷对抑制 $\mathrm { C H } _ { 4 }$ 产生有一定的积极作用。
+
+添加一定水平的植物提取物可降低瘤胃 $\mathrm { C H } _ { 4 }$ 产量，其作用机制可能与其抗菌活性及选择性地改变瘤胃微生物区系有关[37]。植物提取物对瘤胃 $\mathrm { C H } _ { 4 }$ 产量的影响随其种类、添加剂量、饲粮组成等的不同而不同，并且体内和体外的作用效果也不尽相同。
+
+# 6小结
+
+植物提取物可调控反刍动物瘤胃发酵过程，提高营养物质的利用率，并减少有害物质的产生，但其应用推广还存在很多问题。由于植物提取物种类的多样性，其生物学活性的作用机制也不尽相同，这其中包括对体内抗氧化酶在转录和翻译水平的调控、病原菌表面受体结合与穿透融和、介导免疫细胞信号通路、驱原虫作用、减少甲烷菌的增殖等多个方面。目前大多数研究都具有短期效应，不能正确反应植物提取物在实际动物生产中的应用效果，同时如何确定植物提取物的最适添加浓度也是应用植物提取物到实际生产中的一个重要限制因素。虽然还存在众多难题，但是作为一种全新的瘤胃发酵调控剂，植物提取物具有良好的应用前景。在欧盟委员会的资助下，由欧洲的多个国际组织和研究所共同参与的一项名为“Rumen-up”的国际项目已经展开，该项目的研究目的是筛选出可降低瘤胃生产过程中 $\mathrm { C H } _ { 4 }$ 气体的排放，提高反刍动物营养物质利用率的植物提取物添加剂。能够从品种多样的、组成成分复杂的、活性成分不一的品种中筛选出对瘤胃发酵有正效益的植物提取物必将有益于瘤胃发酵调控的研究进展。
+
+# 参考文献：
+
+[1]郭开宇,赵谋明.甲壳素/壳聚糖的研究进展及其在食品工业中的应用[J].食品与发酵工
+
+业,2000,26(1):59-64.
+
+[2] BENCHAAR C,CALSAMIGLIA S,CHAVES A V,et al.A review of plant-derived essential oils in ruminant nutrition and production[J].Animal Feed Science and Technol0gy,2008,145(1/2/3/4):209-228.
+
+[3] BELANCHE A,PINLOCHE E,PRESKETT D,et al.Effects and mode of action of chitosan and ivy fruit saponins on the microbiome,fermentation and methanogenesis in the rumen simulation technique[J].FEMS Microbiology Ecology,2016,92(1),doi:10.1093/femsec/fiv160.
+
+[4] KHIAOSAARD R,ZEBELI Q.Meta-analysis of the effects of essential oils and their bioactive compounds on rumen fermentation characteristics and feed efficiency in ruminants[J].Journal of Animal Science,2013,91(4):1819-1830.
+
+[5] KLEVENHUSEN F,MURO-REYES A,KHIAOSA-ARD R,et al.A meta-analysis of effects of chemical composition of incubated diet and bioactive compounds on in vitro ruminal fermentation[J].Animal Feed Science and Technology,2012,176(1/2/3/4):61-69.
+
+[6]吴端钦,贺志雄,汤少勋,等.体外添加不同水平的亚麻籽油对气体产量、瘤胃发酵及脂肪酸组分的影响[J].天然产物研究与开发,2014,26(2):273-277.
+
+[7] MAOHL.添加茶叶皂苷和豆油对青年羊产甲烷量、瘤胃发酵和微生物群落的影响[J].姜雅慧,译.中国畜牧兽医,2011,38(3):60.
+
+[8] PILAJUN R,WANAPAT M.Effect of coconut oil and mangosteen peel supplementation on ruminal fermentation,microbial population,and microbial protein synthesis in swamp buffaloes[J].Livestock Science,2011,141(2/3):148-154.
+
+[9] MATEOS I,RANILLA M J,TEJIDO M L,et al.The influence of diet type (dairy versus intensive fattening) on the effectiveness of garlic oil and cinnamaldehyde to manipulate in vitro ruminal fermentation and methaneproduction[J].Animal Production Science,2013,53(4):299-307.
+
+[10]史浩亭,王加启,卜登攀,等.苏子油对瘤胃体外发酵模式、脂肪酸组成及甲烷生成的影响[J].甘肃农业大学学报,2015,50(3):23-28.
+
+[11]梁贤威,张双双,韦升菊,等.葵花籽油和茶油对奶水牛瘤胃发酵参数及瘤胃液脂肪酸组成的影响[J].畜牧与兽医,2015,47(5):50-54.
+
+[12] THAO N T,WANAPAT M,CHERDTHONG A,et al.Effects of eucalyptus crude oils supplementation on rumen fermentation,microorganism and nutrient digestibility in swamp buffaloes[J].Asian-Australasian Journal of Animal Sciences,2014,27(1):46-54.
+
+[13] KHORRAMI B,VAKILI A R,MESGARAN M D,et al.Thyme and cinnamon essential oils:Potential alternatives for monensin as a rumen modifier in beef production systems[J].Animal Feed Science and Technology,2015,200:8-16.
+
+[14] BENHISSI H,HERVAS G,TORAL P G,et al.Use of tannins to modify ruminal biohydrogenation in sheep.1.efects on in vitro rumen fermentation[C]//14th International seminar of the FAO-CIHEAM sub-network on sheep and goat nutrition:feeding and management strategies to improve livestock productivity,welfare and product quality under climate change.Tunisia:CIHEAM,2012.
+
+[15] MCMURPHY C P,SEXTEN A J,MOURER G L,et al.Effects of including saponins (Micro-Aid?) on intake,rumen fermentation and digestibility in steers fed low-quality prairie hay[J].Animal Feed Science and Technology,2014,190:47-58.
+
+[16]金哲勇,李香子,刘志刚,等.胡麻油和苹果酸对延边黄牛瘤胃发酵特性的影响[J].饲料研究,2012(1):51-53.
+
+[17]CASTILLEJOS L,CALSAMIGLIA S,FERRET A.Effect of essential oil active compounds on rumen microbial fermentation and nutrient flow in in vitro systems[J].Journal of Dairy Science,2006,89(7):2649-2658.
+
+[18] BUSQUET M,CALSAMIGLIA S,FERRET A,et al.Plant extracts afect in vitro rumen microbial fermentation[J].Journal of Dairy Science,2006,89(2):761-771.
+
+[19]OH J,HARPER M,GIALLONGO F,et al.Effects of rumen-protected Capsicum oleoresin on productivity and responses to a glucose tolerance test in lactating dairy cows[J].Journal of Dairy Science,2017,100(3):1888-1901.
+
+[20] ANASSORI E,DALIR-NAGHADEH B,PIRMOHAMMADI R,et al.Garlic:a potential alternative for monensin as a rumen modifier[J].Livestock Science,2011,142(1/2/3):276-287.
+
+[21] YANG W Z,BENCHAAR C,AMETAJ B N,et al.Effects of garlic and juniper berry essential oils on ruminal fermentation and on the site and extent of digestion in lactating cows[J].Journal of Dairy Science,2007,90(12):5671-5681.
+
+[22] RODRIGUEZPRADO M,FERRET A,ZWIETEN J,et al.Effects of dietary addition of capsicum extract on intake,water consumption,and rumen fermentation of fattening heifers fed a high-concentrate diet[J].Journal of Animal Science,2012,90(6):1879-1884.
+
+[23] OH J,GIALLONGO F,FREDERICK T,et al.Effects of dietary Capsicum oleoresin on productivity and immune responsesinlactating dairy cows[J].Journal of Dairy Science,2015,98(9):6327-6339.
+
+[24] BUSQUET M,CALSAMIGLIA S,FERRET A,et al.Effect of garlic oil and four of its compounds on rumen microbial fermentation[J].Journal of Dairy Science,2005,88(12):4393-4404.
+
+[25]CARDOZO P W,CALSAMIGLIA S,FERRET A,et al.Effects of natural plant extracts on ruminal protein degradation and fermentation profiles in continuous culture[J].Journal of Animal Science,2004,82(11):3230-3236.
+
+[26]张双双.添加葵花籽油和茶油对奶水牛瘤胃发酵、脂肪酸组成以及相关瘤胃微生物数量的影响[D].硕士学位论文.南宁:广西大学,2014
+
+[27] WANAPAT M,MAPATO C,PILAJUN R,et al.Effects of vegetable oil supplementation on feed intake,rumen fermentation,growth performance,and carcass characteristic of growing swamp buffaloes[J].Livestock Science,2011,135(1):32-37.
+
+[28]KONGMUN P,WANAPAT M,PAKDEE P,et al.Manipulation of rumen fermentation and ecology of swamp buffalo by coconut oil and garlic powder supplementation[J].Livestock Science,2011,135(1):84-92.
+
+[29]崔振亮,孟庆翔,李德勇,等.植物蜕皮甾酮对体外瘤胃发酵及甲烷产量的影响[J].中国畜牧杂志,2014,50(19):66-70.
+
+[30] JAHANI-AZIZABADI H,MESGARAN M D,VAKILI S A,et al.Effect of some plant essential oils on in vitro ruminal methane production and on fermentation characteristics of a mid-forage diet[J].Journal of Agricultural Science and Technology,2014,16(6):1543-1554.
+
+[31] BORCHERS R.Proteolytic activity of rumen fluid in vitro[J].Journal of Animal Science,1965,24(4):1033-1038.
+
+[32] MCINTOSH F M,WILLIAMS P,LOSA R,et al.Effects of essential oils on ruminal microorganisms and their protein metabolism[J].Applied and Environmental Microbiology,2003,69(8):5011-5014.
+
+[33]WALLACE R J.Antimicrobial properties of plant secondary metabolites[J].Proceedings of the Nutrition Society,2004,63(4):621-629.
+
+[34] FLYTHE M,KAGAN I.Antimicrobial effect of red clover (Trifolium pratense) phenolic extract on the ruminal hyper ammonia-producing bacterium,Clostridium sticklandii[J].Current Microbiology,2010,61(2):125-131.
+
+[35] WILLIAMS A G,COLEMAN G S.The rumen protozoa[M].New York:Springer-Verlag,1992.
+
+[36]IVAN M,NEILL L,FORSTER R,et al.Effects of Isotricha,Dasytricha,Entodinium,and total fauna on ruminal fermentation and duodenal flow in wethers fed different diets[J].Journal of Dairy Science,2000,83(4):776-787.
+
+[37]林波,陆燕.植物提取物调控反刍动物瘤胃发酵的研究进展[J].饲料工业,2009,30(19):27-31.
+
+[38]樊艳华,孙海洲,李胜利,等.不同蛋白质水平下丝兰皂甙对山羊氮代谢的影响[J].家畜生态学报,2015,36(2):21-28.
+
+[39]NOORIAN SOROOR E,ROOZBEHAN Y.The influence of Echium amoneum extract on in vitro ruminal fermentation,protozoa populationand reduction of methane production[J].Iranian Journal of Animal Science (IJAS),2012,43(2):287-296.
+
+[40]吕忠蕾.不同分子量缩合单宁对延边黄牛瘤胃发酵及微生物区系的影响[D].硕士学位论文.延边：延边大学，2014
+
+[41] KOZLOSKI G V,HARTER C J,HENTZ F,et al.Intake,digestibility and nutrients supply to wethers fed ryegrass and intraruminally infused with levels of Acacia mearnsii tannin extract[J].Small Ruminant Research,2012,106(2/3):125-130.
+
+[42] JOLAZADEH A R,DEHGHAN-BANADAKY M,REZAYAZDI K.Effects of soybean meal treated with tannins extracted from pistachio hulls on performance,ruminal fermentation,blood metabolites and nutrient digestion of Holstein bulls[J].Animal Feed Science and Technology,2015,203:33-40.
+
+[43] NEWBOLD C J,MCINTOSH F M,WILLIAMS P,et al.Effects of a specific blend of essentialoilcompounds on rumen fermentation[J].AnimalFeedScienceand Technol0gy,2004,114(1/2/3/4):105-112.
+
+[44]BENCHAAR C,PETIT H V,BERTHIAUME R,et al.Effects of addition of essential oils and monensin premix on digestion,ruminal fermentation,milk production,and milk composition in dairy cows[J].Journal of Dairy Science,2006,89(11):4352-4364.
+
+[45]BUSQUET M,CALSAMIGLIA S,FERRET A,et al.Screening for effects of plant extracts and active compounds of plants on dairy catle rumen microbial fermentation in a continuous culture system[J].Animal Feed Science and Technology,2005,123-124:597-613.
+
+[46] CARDOZOPW,CALSAMIGLIAS,FERRETA,etal.Effects of alfalfa extract,anise,capsicum,and a mixture of cinnamaldehyde and eugenol on ruminal fermentation and protein degradation in beef heifers fed a high-concentrate diet[J].Journal of Animal Science,2006,84(10):2801-2808.
+
+[47]PATRA A K.Dietary phytochemicals and microbes[M].London:Springer,2012:371-389.
+
+[48]PATRA A K,SAXENA J.Exploitation of dietary tannins to improve rumen metabolism and ruminant nutrition[J].Journal of the Science of Food and Agriculture,2011,91(1):24-37.
+
+[49]邓小闻,郗伟斌,张峻岭.植物提取物对反刍动物生产性能及瘤胃发酵的影响[J].现代畜牧兽医,2010(6):44-47.
+
+[50]乐佳清,王佳堃.肠道对共生微生物的免疫耐受机制[J].动物营养学报,2017,29(5):1489-1497.
+
+[51] CALSAMIGLIA S,BUSQUET M,CARDOZO P W,et al.Invited review:essential oils as modifiers of rumen microbial fermentation[J].Journal of Dairy Science,2007,90(6):2580-2595.
+
+[52]田丽新.丝兰提取物对奶牛产奶性能、免疫功能和氨气排放的影响[D].硕士学位论文.呼和浩特：内蒙古农业大学,2014.
+
+[53]常肖肖,刘续航,赵士萍,等.茶皂素对瘤胃微生物发酵及原虫数量的影响[J].中国农学通报,2016,32(29):17-21.
+
+[54]严淑红,蒋林树.茶皂素对反刍动物瘤胃发酵的影响研究进展[J].中国农学通报,2015,31(5):20-24.
+
+[55]严淑红,赵士萍,蒋琦晖,等.茶皂素对奶牛瘤胃发酵及瘤胃微生物区系的影响[C]/第十一届北京畜牧兽医青年科技工作者“新思想 新观点 新方法”论坛论文集.北京:北京畜牧兽医学会,2015.
+
+[56] YANG W Z,AMETAJ B N,BENCHAAR C,et al.Cinnamaldehyde in feedlot cattle diets:intake,growth performance,carcass characteristics,and blood metabolites[J].Journal of Animal Science,2010,88(3):1082-1092.
+
+[57]BENCHAAR C.Diet supplementation with cinnamon oil,cinnamaldehyde,or monensin does not reduce enteric methane production of dairy cows[J].Animal,2016,10(3):418-425.
+
+[58] TEKIPPE J A,TACOMA R,HRISTOV A N,et al.Effect of essential oils on ruminal fermentationand lactation performance of dairy cows[J].JournalofDairy Science,2013,96(12):7892-7903.
+
+[59]WALL E H,DOANE P H,DONKIN S S,et al.The effects of supplementation with a blend of cinnamaldehyde and eugenol on feed intake and milk production of dairy cows[J].Journal of Dairy Science,2014,97(9):5709-5717.
+
+[60] TAGER L R,KRAUSE K M.Effects of essential oils on rumen fermentation,milk production,andfeedingbehaviorinlactatingdairycows[J].JournalofDairy Science,2011,94(5):2455-2464.
+
+[61]STELWAGEN K,WALL E H,BRAVO D M.1395 Effect of rumen-protected capsicum on milk production in early lactating cows in a pasture-based system[J].Journal of Animal
+
+Science,2016,94(Suppl. 5):675.
+
+[62]OH J,HARPER M,GIALLONGO F,et al.Effects of rumen-protected Capsicum oleoresin on immune responses in dairy cows intravenously challenged with lipopolysaccharide[J].Journal of Dairy Science,2017,100(3):1902-1913.
+
+[63] HART K J,YANE-ZRUIZ D R,DUVAL S M,et al.Plant extracts to manipulate rumen fermentation[J].Animal Feed Science and Technology,2009,147(1/2/3):8-35.
+
+[64]顾洪如,丁成龙,丁一,等.柠檬草添加料对牛奶品质和奶牛血液抗氧化性的影响[J].江苏农业学报,2007,23(6):656-657.
+
+[65]李素蓉.植物源挥发油对反刍动物的营养效应研究进展[J].饲料研究,2016(8):68-70.
+
+[66] GOEL G,MAKKAR H P S.Methane mitigation from ruminants using tannins and saponins[J].Tropical Animal Health and Production,2012,44(4):729-739.
+
+[67]SALLAM S M A,BUENO I C S,BRIGIDE P,et al.Eficacy of eucalyptus oil on in vitro ruminal fermentationandmethaneproduction[J].OptionsMediterraneennes.Serie A,SeminairesMediterraneens,2009,85:267-272.
+
+[68] ARAUJO R C,PIRES A V,ABDALLA A L,et al.Effects of essential oil from Cordia verbenacea D.C.on in vitro rumen fermentation[M]/ODONGO N E,VILJOEN G J.Sustainable improvement of animal production and health.Roma:FAO,2010.
+
+[69]CHANDRASEKHARAIAH M,THULASI A,JOSE L.Effect of supplementation of different essential oils on in-vitro methanogenesis,fermentation and digestibility of finger millet straw based dietinrumenliquorofcrossbredcattle[J].ResearchJournal of Pharmaceutical,Biological and Chemical Sciences,2015,6(2):480-486.
+
+[70]FRANCIS G,KEREM Z,MAKKAR HP S,et al.The biological action of saponins in animal systems:a review[J].British Journal ofNutrition,2002,88(6):587-605.
+
+[71]RODRiGUEZ R,FONDEVILA M.Effect of saponins from Enterolobium cyclocarpum on in vitro microbial fermentation of the tropical grass Pennisetum purpureum[J].Journal of Animal Physiology and Animal Nutrition,2012,96(5):762-769.
+
+[72] GOEL N G,SIROHI S K,JAYA D.Estimation of total saponins and evaluate their effect on in vitro methanogenesis and rumen fermentation pattern in wheat straw based diet[J].Journal of Advanced Veterinary Research,2012,2(2):120-126.
+
+[73]王新峰,毛胜勇,朱伟云.绞股蓝皂甙对体外瘤胃微生物甲烷产量及发酵特性的影响[J].草业学报,2011,20(2):52-59.
+
+Regulation of Plant Extracts on Rumen Fermentation,Performance and Methane Production in Ruminants and Its Mechanisms
+
+ZHANG HualTONG Jinjin1 SUN Mingwei1YANG Delianl ZHANG JielXIONG Benhai² JIANG Linshul\*
+
+(1. Beijing Key Laboratory for Dairy Cow Nutrition, Collge of Animal Science and Technology, Beijing University of Agriculture, Beijing 102206, China; 2. Institute of Animal Science, Chinese Academy of Agricultural Sciences, Beijing 100193, China)
+
+Abstract: With fuctions of manipulating rumen fermentation patern， improving nitrogen reservation and decreasing methane release to ruminants,and their lower toxic and side effects, unique natural charcter, nutrition and biological activity, plant extracts have become one of the perfect alternative products to antibiotics. In this aticle, research progress of regulation of plant extracts on rumen fermentation and its mechanisms were reviewed,and to provide some ideas for further investigation and applications of plant extracts in ruminant nutrition.
+
+Key words: plant extract; ruminant; rumen fermentation; regulation; mechanism

@@ -1,0 +1,443 @@
+[
+    {
+        "type": "text",
+        "text": "一种摄影图片中用户专属的排序方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "苏士美，王猛，许永波(郑州大学 电气工程学院，郑州 450000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：个性化照片排序在图像质量评价和图像检索中有着重要意义。为了解决现存方法忽视用户偏好和准确率低的缺点，提出一种新颖的，基于排序的支持向量机的用户专属美学排序模型。首先输入用户喜好的专属图片，随后通过深度卷积神经网络提取特征并与数据集对比，创建用户专属美学训练集，之后使用排序的支持向量机学习定制的超平面，并生成用户专属的个性化美学排序。后续实验中，第一组实验邀请用户进行算法个性化预测的评估，第二组实验测试图片质量高低的准确度。实验结果表明算法预测结果较符合用户喜好，同时在图片质量高低分类上有较高的准确度。因此，该算法一种有效的个性化排序方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：用户专属；个性化评价；排序模型；深度学习 中图分类号：TP391.41 doi: 10.3969/j.issn.1001-3695.2017.08.0899 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "User-specific aesthetic quality ranking in photographic images ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Su Shimei, Wang Meng, Xu Yongbo (School ofElectrical Engineering, Zhengzhou University,Zhengzhou 45oooo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Personalized aesthetic ranking plays an import role in Image Quality Asessmentand Image retrieval.In order to solvedrawbacksof the missing preference fromtheuserandlowaccuracy in existing methods,this paper proposeda SVMRank based model toautomaticallyrank the input images.Theframework took as inputaseries ofspecific photos thatusers prefer, thendeployedDCNNto extract thedeep features and compare them withones thatare extracted fromdataset to establish an User-specific aesthetic training dataset.Later,SVMRank wasused to learnacustomized hyper plane to produce a user-specific personalied aestheticranking.Thepaperconducted two experiments at mean time:l) Several users were invited to evaluate theperformanceofuser-specific aestheticranking.2)Theaccracyon binary-clasification was tested.The experiment results showthat the framework performs wellon predicting user's preference as wellas on clasifying the images from high to low quality. In conclusion, the proposed algorithm is an effective personalized ranking algorithm. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: user-specific; aesthetic assessment; ranking model; deep learning ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着社交网络和数码相机的繁荣发展，网络上拍摄、传递、分享的照片数量呈爆炸级增长，使得用户私人照片库足够庞大并能从其中选择并保留有价值的照片。然而，从海量图片中手动组建理想且个性化的相册或纪念集不仅耗时繁琐，而且工作量大，是一个有待探索的挑战。潜藏于该挑战下的主要问题就是精确识别用户的个人偏好。本文主要研究在考虑用户喜好的情况下，如何自动评判输入图片的美学特性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，由高质量图片推导出的美学通用描述子（Universaldescriptor)，因其符合摄影规则且高效易行，受到大部分科研工作者欢迎。将简单的美学，摄影学规则应用到图片的分类中，能够有效增强自动计算分类高低质量图片的性能。从低级的视觉特征[1\\~5]到高级的组合特征[6,7,8,222],研究人员进行了大量的实验。Tong等人[提出一组低层次视觉特征以之区分专业摄影和业余摄影。Datta 等人[2]聚焦于通过计算方法，使用一个56维的特征向量来理解图片。基于专业摄影师更突出照片主体的假设，Luo等人[3]首先提出了主题区域提取（Subject regionextraction）。Mavridaki等人[4]首先提出了图案（Pattern）美学属性，并联合诸如简洁度，构图等取得较好效果。Aydin 等人[5使用五种美学特征（锐度，色彩，色调，清晰度）来自动评价、编辑图像。然而，低层次的视觉特征难以完全捕捉美学的深层特质，一部分研究者将目光转向了高层次的组合特征。Dhar 等人[提出基于内容，构图及光照的可描述特征以预测输入图片的兴趣性（Interestingness）。Lo 等人[7]提出一组判别的，并能高效计算的特征。Luo等人[8从不同的类别中提取对应的特征，并训练相应的分类器。尽管手工标记的美学特征在图片质量评价中仍占有一席之地，但其大多是抽象美学规律的近似，并不能完全捕捉摄影图片的多样性和美。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着深度学习的兴起，在图片质量评价中深度特征的提取逐渐取代了手工特征。Lu等人[提出一种双列的深度卷积神经网络来同时获取全局及局部特征。Dong等人[10]通过直接采用ImageNet 网络[11]，提取出4096 维的特征向量实现了较好的分类效果。关注同一类图片的相似度，Tian 等人[12]综合深度特征和语义特征创建依赖查询的模型，取得了比前者更好的效果。Wang 等人[13]新颖的将原始图像同HSV通道图像输入双列神经网络，性能显著。尽管深度神经网络在图像高低质量分类上取得了较高的准确度，美学在个人偏好缺失的时候没有绝对的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于人类美学思维的高度主观性同复杂性，为大众寻找普适的方法并不现实。随着社交网络的发展，用户倾向于将上传的图片附上标签或描述性语言。研究人员此时将目光从个性化排序转向了定制化搜索及在线推荐。Vijendran等人[14]提出基于全套的，标签标记的系统，从图片上传到标签匹配、语义预测，最终根据用户偏好检索结果。Lu等人[15]将一张在线图片定义为事件（Event)，提出基于标签的排序系统，该系统在事件浏览中提取标签、描述、评论信息并将其整合成语义句子以预测定制排序。Nwana等人[16]提出一种新颖个性化标记方法，该方法能够调整标签顺序，根据其视觉内容自动剔除无关标签。科研人员致力于改善个性化在线搜索的性能，但在线图片可能存在题不对图或者有歧义的情况。对于一张待评价的图片，描述性信息或标签的缺失是致命的。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/db1ae08fb37f197a3c5d2050104e026fd4642304de1e435f579de510f9c27373.jpg",
+        "img_caption": [
+            "用户专属排序模型",
+            "图1系统总览"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出的用户专属美学排序方法能够高效充分的解决上述问题。对于低层次或高层次的视觉特征所存在的缺点，本文采用深度卷积神经网络（Deep convolutional neural network，后文用DCNN代替)提取图片特征以保证充分捕捉图片内在多样性。在个性化排序方面，相较于使用基于标签的语义搜索，本文首先从整个训练集中通过相似性检索组建用户专属训练集，随即使用 $\\mathbf { S V M } ^ { n m k }$ [17]来学习用户专属的模型。本文贡献点有以下主要两点：a)提出一种新颖的组建用户专属训练集的方法，该方法将用户喜好同深度神经网络结合起来;b)基于上述组建的训练集，提出一种用户专属的美学排序模型预测输入图片的美学质量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1传统美学排序模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现有输入图片 $I _ { \\phantom { } _ { u } }$ ，传统美学评价模型旨在训练集r{(,y)..(,y)(I,y)上使用机器学习方法来自动预测图片$I _ { \\phantom { } _ { u } }$ 的美学特性。其中小写字母 $y _ { _ u }$ 表示图片的美学评分，其范围在 $[ - 1 , 1 ]$ 。上述传统模型是典型二值分类问题的一种情况，其中1代表高质量， $^ { - 1 }$ 代表低质量。目前通常用最大化后验概率来获取美学评分 $y _ { _ u }$ ，如式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { y _ { u } = \\mathrm { a r g m i n p } \\left( \\boldsymbol { y } \\left| I _ { u } , \\Gamma \\right. \\right) } \\\\ { y \\in \\left( - 1 , 1 \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "科研工作者提出诸如支持向量机(SVM)[9],贝叶斯分类器[18]等方法来解决该问题。在传统的机器学习方法中，模型使用训练集训练以减少训练误差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统美学评价模型假设所有高质量的图片享有一些共同的美学特征，然而却未曾考虑用户的偏好。当用户偏好缺失时，美学并没有绝对意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 用户专属的美学排序模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现存研究中二分类模型使用标签标定图片高低，却在研究过程中忽视了用户偏好。本文提出通过使用DCNN从大数据集中学习用户专属的美学排序模型。算法的框架如图1所示。输入一组用户选择的图片（基于用户相较于其他图片更喜欢这些图片),算法首先提取其视觉特征为下一步在整个训练集中进行相似图片检索做准备。随后使用 $\\mathbf { S } \\mathbf { V } \\mathbf { M } ^ { r a n k }$ 学习用户专属的排序函数。在测试阶段，上述学习函数输出实值的评分并显示照片的相应排序。该排序代表了用户在测试集中对该图片的偏好排序。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1个性化训练集生成及校正",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当应对个性化排序的挑战之时，仅仅使用有二值标签的传统训练集是远远不够的。二值标签的局限性在于其忽视了用户在选择过程中的外在喜好。解决该类问题最常见的办法就是添加个性化特征[19]，比如颜色偏好和画面比。相较于使用传统训练集，本文通过建立用户专属训练集来正确的排序用户偏好的图片。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "现有用户偏好图片集 $U = \\{ I _ { _ { v 1 } } , I _ { _ { v 2 } } , . . . , I _ { _ { o 1 } } \\}$ ，其中 $I _ { \\phantom { } _ { u i } }$ 表示用户最偏爱的照片集，且 $U \\in \\Gamma$ 。对于图片集 $I _ { \\mathbf { \\Omega } _ { u } }$ ，算法首先提取其深度特征，随后进行图片相似性检索。本文认为，学习个性化排序模型需要与之相对应的专属训练集。为此，本文首先从共有的视觉空间中搜索与户选定的专属图片视觉相似的图片组成专属训练集 $s$ 如式（2）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ^ { ( I _ { i } ) } = \\{ I _ { i } , I _ { i } \\in \\Gamma \\cap I _ { i } \\in \\Psi \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $_ \\Gamma$ 为训练集， $\\Psi$ 为用户专属图片的临近空间集合。用户专属训练集生成后，即可由其学习个性化排序函数 $f ( \\cdot )$ 来预测$I _ { \\ u }$ 的等级。图片检索使用的方法取自Dong 等人[12]的工作。在训练阶段，为充分捕捉输入图片的特征，本文将输入图片分成五个不同的小块：a)左上角，b)右上角，c)左下角，d)右下角，e)中心，并将其分别输入到模型中。本文首先重塑图片至合适的尺寸，随后使用上述策略以观不同图片块的结果并对比，选取最佳性能的图片块。经过大量测试，图片中心小块能较符合用户原始意图，满足相似性检索的需要。对每张用户专属图片，根据检索的相关度，选取较高相关度的图片能够较好地捕捉输入图片的特征。由于每一类图片数量以及质量的限制，本文对每张用户专属图片选取排名前10张图片。构建完成用户专属的训练集后，随即将其特征向量输入到排序函数学习定制化的排序模型。基于DCNN的美学学习模型取得了较好的效果。图2展示了部分用户专属图片检索的结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/73b8f7c5083b58841e84a030371b2c24aba9ffd17302a307952b8fff111b91a5.jpg",
+        "img_caption": [
+            "图2基于CNN的图片检索构成的用户专属数据集(数据集数量为150)"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文提取的特征基于DCNN，该网络由Krizhevsky 等人[]设计并提出。DCNN在若干诸如分类与目标检测等计算机视觉领域取得了巨大的成功。同样，DCNN在图片美学质量评价中也取得了卓越的成果[10,20]。本文使用的DCNN 总共八层，前五层为卷积层，后三层为全连层。本文测试后三层性能最终使用全连层7提取特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在检索相似性图片的过程中，本文使用式(3)以减少训练阶段的误差。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left\\{ \\begin{array} { l l } { c e i l i n g } { ( I _ { i } ) , } & { \\quad \\forall ( I _ { i } , I _ { j } ) \\in \\Gamma , i = j } \\\\ { 0 , } & { \\quad \\forall ( I _ { i } , I _ { j } ) \\in \\Gamma , i \\ne j } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中ceiling函数意为检索结果跳到更高的优先级，i.e.，如果相同的图片重复出现在个性化检索的不同等级，那么，低优先级（在检索中排序较低）的图片应该服从高优先级的图片（在检索中排序较高的)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2用户专属美学排序模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如2.1节所述，合格的排序模型应该能紧紧抓住深藏的美学抽象且不忽视用户偏好。个性化训练集生成之后，模型的目标就是通过一组新输入的测试图片来排序并预测用户喜好。训练集 $\\Gamma \\{ ( I _ { \\scriptscriptstyle 1 } , y _ { \\scriptscriptstyle 1 } ) , . . . , ( I _ { \\scriptscriptstyle u } , y _ { \\scriptscriptstyle u } ) , . . . , ( I _ { \\scriptscriptstyle n } , y _ { \\scriptscriptstyle n } ) \\}$ 中 $I _ { { _ i } }$ 提取的数据由特征向量{x}={x,xx}表示，n为特征向量的维度。随即可生成如2.1节所属的个性化训练集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户专属美学排序模型的目标就是学习如式（4）所示排序函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ r ( x _ { i } ) = w ^ { T } x _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过寻找最大化的超平面 $w$ 并同时减少泛化误差以满足约束条件，如式（5）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\forall ( i , j ) \\in \\Gamma : w ^ { T } x _ { i } > w ^ { T } x _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该超平面同 $_ { S V M }$ 分类类似，其目标在于生成与内部查询id",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相符的图片对。这就导致了如下的优化问题，如式（6）所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\operatorname* { m i n } ( \\frac { 1 } { 2 } \\| w ^ { T } \\| _ { 2 } ^ { 2 } + C ( \\sum \\xi _ { i j } ) ) } \\\\ { \\displaystyle s . t . w ^ { T } x _ { i } - w ^ { T } x _ { j } \\geq 1 - \\xi _ { i j } ; \\forall ( i , j ) \\in \\Gamma } \\\\ { \\displaystyle \\xi _ { i j } \\geq 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathbf { \\Sigma } _ { w }$ 是排序函数的权重向量， $c$ 是权衡训练误差与间隔的参数。 $\\xi _ { \\scriptscriptstyle i j }$ 是不同图片中的稀疏变量。通过使用 $\\mathbf { S V M } ^ { r a n k }$ 解决该问题。模型从训练集中学习一个定制的超平面并用理想的顺序强制排序测试图片。本文由上述定制超平面启发，并用其学习用户专属的美学排序。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验及用户调查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本章介绍了实验用的两个大型公共数据集：CUHKPQ同AVA数据集的一个子集。两个数据集都广泛应用于美学评价工作。本文比较了几个最新水平的工作[12,13,21,22]以展示用户专属美学排序的有效性。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae712fda5c5882737baa5dd1df9a6c5a8166fcc76c510d3d89dd9fd427ab02e1.jpg",
+        "img_caption": [
+            "图3部分选择5张和15张用户专属图片的用户"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 数据集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CUHKPQ数据集是由Tang等人[8]搜集整理的公共数据集。该数据集包含17673张图片，每张图片由业余摄影爱好者提供至专业摄影网站并手工标记图片真实质量（Groundtruth）。整个数据集被分为七类：‘人物'，‘植物'，‘夜晚'，‘静态'，‘建筑'，“动物'等。此外，每张图片都由十位独立的浏览者给出评级（高或低质量)。考虑到用户的主观偏好，本文假设同类图片之间的比较更加详细，为此，在单独一类和整个数据集中进行实验以验证假设。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AVA由Muarray等人[23]搜集整理，该数据集多用于进行美学视觉分析实验。网站总共包含超过250.000 张有详细评分的图片，详见dpchallenge.com[25]。本文使用其中一个76005 张图片的子集(由于 AVA 数据集数量较大，本文随机从dpchallenge.com 下载了760005 张有评分的图片)，并采用Lv 等人[20的方法，将平均评分高于5分的作为高质量，低于5分的作为低质量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对每个数据集，本文随机将其拆分十次并取一半为训练集，一半为测试集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 实验设置 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "现有若干待测试图片，本文进行两组实验。对于第一组实验，系统首先从整个测试集中随机选择若干张图片并推送给用户;随后请用户浏览测试图片，浏览后要求用户根据喜好度从高到底排序测试图片。同时，系统输入同一批排序图片进行排序。最后，本文比较了用户排序的真实排序同系统预测的排序以此来验证算法的有效性。对于AVA数据集，本文同目前最好性能的[22]成果做了对比。对于实验二，本文从传统的二分类问题出发评价了算法，并与文献[2\\~4，12，13，17，19]等二分类的分类精度作了对比。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3实验1用户专属的美学排序 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.1用户调查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本部分着重介绍通过组织用户调查获取用户主观评价以评判算法有效性。本文作者邀请20名年龄分布在23-53之间的用户进行用户调查。在实验期间，本文要求用户在系统随机推送的图片中选出较为喜欢的若干张图片，这些图片为该用户的专属图片。在保证用户高效选择图片，避免视觉疲劳的前提下，对不同数量的用户专属图片（5,10,15,20,25张）做了大量的实验。在本节，讨论了测试上述五组不同数量的用户专属图片的平均精度（average precisionvalue）。不同类别下不同数量的用户专属图片实验所得结果如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3787165cf3cdce543689cdc6e711ea66003cd5eb633cc96ceb0987a9c8a55e7f.jpg",
+        "table_caption": [
+            "表1CHHKPQ数据集下选择不同数量专属图片的平均精度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数量</td><td>动物</td><td>建筑</td><td>人</td><td>风景</td><td>夜景</td><td>植物</td><td>静态</td></tr><tr><td>5</td><td>0.7143</td><td>0.7169</td><td>0.8266</td><td>0.6330</td><td>0.7483</td><td>0.7439</td><td>0.6894</td></tr><tr><td>10</td><td>0.5281</td><td>0.4650</td><td>0.8369</td><td>0.6506</td><td>0.6914</td><td>0.6897</td><td>07049</td></tr><tr><td>15</td><td>0.6113</td><td>0.6998</td><td>0.9075</td><td>0.7382</td><td>0.6927</td><td>0.6760</td><td>0.7447</td></tr><tr><td>20</td><td>0.5338</td><td>06573</td><td>0.8357</td><td>0.6996</td><td>0.7007</td><td>0.6046</td><td>0.6435</td></tr><tr><td>25</td><td>0.5468</td><td>0.6444</td><td>0.8012</td><td>0.6559</td><td>0.5816</td><td>0.4623</td><td>0.5813</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.2CUHKPQ数据库结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了探索用户主观偏好同其外在体现，i.e.，用户选择",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "的用户专属图片的数量，之间的关系，本文进行了如3.3,1小节所述的用户调查。相关的平均精度如表1所示。对于CUHKPQ数据库中的每一类的图片，系统会一次性随机推送20张图片供用户挑选。当用户只选择5张用户专属图片进行学习时，平均精度最高，预测效果最好。在选择过程，作者观察用户并发现，当用户专属图片被限制在一个较小的范围，比如 5张时，用户倾向于选择有视觉表现力，易于排序的图片。本文推断上述现象可以由如下两方面解释：a）实验所用CUHKPQ数据集中图片数量较大(训练集同测试集的尺寸分别为：‘动物，1621，1624'，‘建筑，990，895’，‘人物，1568，1570'，‘风景，1397，1381'，‘夜晚，854，854'，‘植物，1198，1199'，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "状物，1265，1267’），可供用户选择的图片也丰富多样。同一类别的图片基数大，易于用户专属训练集的生成，并且学习较可靠的定制超平面;b）上文述的选择限制也一定程度的影响了预测结果。当用户专属图片数量被限制在较小范围内，用户更倾向于选择最符合自己喜好的图片，该批图片更能代表用户偏好。举“动物”类为例，图3展示了不同的个体选择5张和15 张查询的情况。如图所示，用户1甚至在5张图片中选择了五类动物。用户专属图片显著的不同使得选择5张查询有着较高的平均精度。此外，作者也观察到，当允许选择更多用户专属图片作为查询（15或20张）时，本文邀请的受试者更倾向于选择拥有类似视觉内容的图片。在图5中，用户1和用户2选择的图片都包含了天空，水域，并且都有相似的构图。用户专属查询图片间的相似性也使系统在进行检索时能够效果更好。需要注意的是，用户选取15张专属图片时的结果也值得关注。在选取过程中，作者观察发现，大部分用户更关注选取排名靠前的图片的质量，较少关注排在末尾图片的质量（选取后用户排序较高的图片质量非常高，用户排序较低的图片质量相较于前者明显降低)。现在，问题的关键在于哪一组用户专属图片能更好体现用户偏好？如表1所示，15张用户专属图片在“人物”，“风景”两类中，预测的平均精度最高，分别为0.9075和0.7382。而选择5张专属图片则在“动物”，“建筑”，“夜晚”，“植物”中预测效果最好，其平均精度分别为0.7143，0.7169，0.7483，0.7439。本文认为应根据不同的类选择不同数量的用户专属图片以获得最佳效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.3AVA数据库结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文在表2展示了选择不同用户专属图片所学习的模型的预测平均精度（average precision）以及与目前先进水平[22]的对比。由于AVA数据集没有类别，用户选择的图片多为多种类的混合图片，故该实验可视为加入了用户主观偏好的多种类图片高低质量分类任务。即用户喜欢的即认为高质量，用户不喜欢的照片即认为低质量。由表2可知，与CUHKPQ数据集的结果类似，选择5张用户专属图片所预测的精度（ $70 . 1 5 \\%$ ）最为准确，随后是15张（ $5 8 . 5 8 \\%$ )，最后为10张（ $5 8 . 2 6 \\%$ )。因为AVA数据集并没有为图片分类，只是由随机的阅览者进行打分。对于用户来讲，在没有基准的情况下，对不同类别的图片选取个人偏好的图片是模糊的。这也是下一步需要做的工作。尽管在同一类中进行用户偏好的学习有一定价值，但用户主观多样的喜好使得跨类别的偏好学习更符合实际情况。表2第5行为Lee等人[22]所做的工作，Lee采用DCNN的特征编码进行图像高低质量的分类，取得了较好的平均精度（ $7 7 . 0 3 \\%$ )。尽管本文较[20]平均精度较低，但仍取得了 $7 0 . 1 5 \\%$ 的较高精度，同时也将用户的偏好考虑在内，这是前文工作所没有的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4实验2图片质量高低分类准确度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为验证本文提出的用户专属排序模型的可靠性，本文同时进行了传统高低质量分类的实验。因为本文更关注用户的个性化排序，在进行高低质量分类时有必要考虑用户的偏好。在实验二过程中，用户专属的排序被分为以下四个等级：“非常好”，“好”，“坏”，“非常坏”。本文将用户标记的“非常好”，“好”的图片视为高质量，“坏”，“非常坏”视为低质量。CUHKPQ数据库中每一类的分类准确度如表3所示。表4为本文提出的用户专属排序模型与先前工作[2-4·17]同目前先进水平的[12,13,21]的准确率的对比。如表4示，同目前前沿工作[21] $8 2 . 4 1 \\%$ ，[16] $8 0 . 3 8 \\%$ ，[13] $8 0 . 2 8 \\%$ 对比，本文准确率为 $70 . 9 \\%$ 。尽管并非专为高低质量分类设计，本文的用户专属排序模型仍然取得了较好的成绩。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d9b6c2c38ea0f59366cfbb0ef33d2265e2e9a2cb230fad8505c30cfd2abdfa50.jpg",
+        "table_caption": [
+            "表2AVA数据集下不同用户专属图片平均精度与工作[22]的对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>审美工作</td><td>AP值(%)</td></tr><tr><td>USAR-5</td><td>70.15</td></tr><tr><td>USAR-10</td><td>58.26</td></tr><tr><td>USAR-15</td><td>58.58</td></tr><tr><td>USAR-20</td><td>55.99</td></tr><tr><td>USAR-25</td><td>50.18</td></tr><tr><td>Feature encoding[20]</td><td>77.03</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5daf2c53da13bdb36358e4898844f59e76d0958fd70b5a3ea2609c5321b3b155.jpg",
+        "table_caption": [
+            "表3CUHKPQ数据集下图片高低质量分类准确率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类别</td><td>动物 建筑 人物 风景 夜景 植物 静态</td></tr><tr><td>准确率(%) 69.75 61.98</td><td>83.33 71.90 65.63 79.63 72.41</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee73de71ce3bdcf2692ed8294013c6a22a49a93ecce63aac5434eb0d9442a7f7.jpg",
+        "table_caption": [
+            "表4用户专属排序同前人工作对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>前人工作</td><td>准确率/%</td></tr><tr><td>Datta[2]</td><td>68.67</td></tr><tr><td>Luo[3]</td><td>61.49</td></tr><tr><td>Mavridaki[21]</td><td>82.41</td></tr><tr><td>Genericimages descriptor[4]</td><td>81.4</td></tr><tr><td>High level feature[17]</td><td>68.13</td></tr><tr><td>Tian[12]</td><td>80.38</td></tr><tr><td>Wang[13]</td><td>80.28</td></tr><tr><td>用户专属排序</td><td>70.9</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文基于 $\\mathbf { S } \\mathbf { V } \\mathbf { M } ^ { r a n k }$ ，提出一种新颖的用户专属的个性化偏好排序模型。通过输入用户偏好照片，并构建用户专属的训练集合来学习个性化的排序模型。通过调节用户专属照片，训练集的尺寸，可以避免用户在审美疲劳的前提下，较好的捕捉到用户主观的偏好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Hanghang T,Mingjing L,Hong J Z,et al. Classification of digital photos taken by photographers or home users [C]// Proc of Pacific Rim Conference on Advances in Multimedia Information Processing.2004:198-205.   \n[2]RitendraD,Dhiraj J,JiaL,etal.Studying aesthetics in photographic images using a computational approach,[C]// Proc of European Conference on Computer Vision.2006: 288-301.   \n[3] Yiwen L, Xiaoou T. Photo and video quality evaluation: focusing on the subject [C]// Proc of European Conference on Computer Vision. 2008: 386- 399.   \n[4]Luca M,Florent P, Diane L, Gabriela C.Assessing the aesthetic quality of photographs using generic image descriptors [C]// Proc of International Conference on Computer Vision.2011: 1784-1791.   \n[5]Tunc O,Aljoscha S,Markus G.Automated Aesthetic Analysis of Photographic Images [J].IEEE Trans on Visualization and Computer Graphics,2015,21(1): 31-42.   \n[6]Dhar S,Ordonez V,Berg TL. High level deseribable atributes for predicting aesthetics and interestingness [Cl// Proc of IEEE Computer Society Conference on Computer Vision and Patern Recognition.2011: 1657-1664.   \n[7]Kuo Yen L, Keng Hao L, Chu Song C.Assessment of photo aesthetics with efficiency [C]/ Proc of International Conference on Pattern Recognition. 2012: 2186-2189.   \n[8]Luo W, Wang X,Tang X. Content-based photo quality assessment [C]/ Proc of International Conference on Computer Vision.2011: 2206-2213.   \n[9]Xin L, Zhe L,Hailin J, et al. RAPID: rating pictorial aesthetics using deep learning [C]/ Proc of ACM International Conference on Multimedi.2014: 457-466.   \n[10] Zhe D,Xu S,Houqiang L,et al.Photo quality assessment with dcnn that understands image well [C]// Proc of International Conference on MultiMedia Modeling.2015: 524-535.   \n[11] Alex K,Ilya S,GeoffreyH. ImageNet classification with deep convolutional neural networks [Cl// Proc of International Conference on Neural Information Processing Systems.2012:1097-1105.   \n[12] Xinmei T, Zhe D,Kuiyuan Y,et al. Query-dependent aesthetic model with deep learning for photo quality assessment [J]. IEEE Trans on Multimedia,   \n[13]王伟凝，王励，赵明权，等．基于并行深度卷积神经网络的图像美感分 类[J]．自动化学报,2016,42(6):904-914.   \n[14] Deepa C, Vijendran A S. TAD-RR: tag-annotation based demand reranking approach for personalized image retrieval [C]// Proc of International Conference on Intellgent Computing Applications, Coimbatore.2014: 440- 443.   \n[15] Yeqi L, Yao S,Minyi G. Tag-based personalized image ranking in event browsing [J]. Peer-to-Peer Networking and Applications,2013,6 (4): 434- 444.   \n[16] Amandianeze N,Tsuhan C. QUOTE: querying users as oracles in tag engines a semi-supervised learning approach to personalized image tagging [C]//Proc of IEEE International Symposium on Multimedia.2016: 30-37.   \n[17] Joachims T.Training linear SVMs in linear time [C]//Proc of International Conference on Knowledge Discovery and Data Mining.2006:217-226.   \n[18] Yan K, Xiaoou T,Feng J.The design of high-level features for photo quality assessment [C]// Proc of IEEE Computer Society Conference on Computer Vision and Pattern Recognition. 2006: 419-426.   \n[19] Che HY, Yuan C H, Brian AB,et al. Personalized photograph ranking and selection system [Cl//Proc of International Conference on Multimedia.2010: 211-220.   \n[20] Lyu Hao, Tian Xinmei. Learning relative aesthetic quality with a pairwise approach [C]// Proc of International Conference on Multimedia Modeling. 2016:493-504.   \n[21] Mavridaki E,Mezaris V.A comprehensive aesthetic quality assessment method for natural images using basic rules of photography [C]/ Proc of IEEE International Conference on Image Processing. 2015: 887-891.   \n[22] Lee H J, Hong K S,Kang H, et al. Photo aesthetics analysis via DCNN feature encoding [J]. IEEE Trans on Multimedia,2017,PP(99): 1-1   \n[23] Luca M, Naila M,Florent P.AVA: A large-scale database for aesthetic visual analysis [Cl// Proc of IEEE Computer Society Conference on Computer Vision and Pattern Recognition. 2012: 2408-2415.   \n[24] Hsiao HS,Tse W C, Chieh C K, et al. Scenic photo quality assessment with bag of aesthetics-preserving features [C]/ Proc of International Conference on Multimedia.2016: 1213-1216.   \n[2.51 httn//www dnchallenge com [FR/OI.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

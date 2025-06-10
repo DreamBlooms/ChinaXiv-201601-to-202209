@@ -1,0 +1,393 @@
+[
+    {
+        "type": "text",
+        "text": "Grazing every month minimizes size but boosts photosynthesis in Stipa grandis in the steppe of Inner Mongolia, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Xiaobing\\*,HUANG Qi, MI Xue, BAI Yunxiao, ZHANG Meng, LI Xu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "State KeyLaboratoryofEarth Surface ProcesesandResource Ecology,CollgeofResources Science andTechnology,Beijing Normal University,Beijing 1Oo875,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to explore the effects of grazing frequency on functional traits and to test whether Stipa gandis has compensatory photosynthesis during the frequent grazing period, we investigated morphological traits, biomass allcation, photosynthetic traits,and chlorophyllfluorescence parameters of the species in Inner Mongolia, China. The grazing frequency treatments included fencing $\\left( \\mathrm { T } _ { 0 } \\right)$ , grazing in May and July （2 $( \\mathrm { T } _ { 1 } ,$ i.e., two months per year) and grazing from May to September $\\left. \\mathrm { T } _ { 2 } , \\right.$ i.e., continuous five months per year).Results indicate that $\\mathrm { \\Delta T _ { 1 } }$ and $\\mathrm { T } _ { 2 }$ treatments did not affect individual biomass,but $\\mathrm { T } _ { 2 }$ treatment negatively affected individual size,i.e., plant height,stem length,and leaf length.Physiological traits of $S$ grandis were significantly affected by grazing, year,and their interaction.In July 2O14 (i.e.,dry environment and low relative humidity),the photosynthetic rate, transpiration rate and water use efficiency were highest under $\\mathrm { T } _ { 2 }$ treatment, which was caused by the increase in stomatal conductance. However,in July 2015 (i.e., wet environment and high relative humidity),the photosynthetic rate and water use efciency were higher under $\\mathrm { \\Delta T _ { 1 } }$ and $\\mathrm { T } _ { 2 }$ treatments, which were caused by the increase in actual quantum efficiency and stomatal conductance. Our results implied that under frequent grazing treatment, S. grandis had small height and efficient compensatory photosynthesis, which promoted its resistance to severe grazing. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: grazing frequency; morphological traits; gas exchange; photochemical eficiency; water use eficiency ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In China, a survey by the Ministry of Environmental Protection indicated that approximately $3 1 . 8 \\%$ （204号 of natural grasslands are in a state of degradation. In fact, $7 4 . 0 \\%$ of the grasslands in Xilin Gol, Inner Mongolia, China are degraded (Wang et al., 2Ol7),which seriously threatens animal husbandry production as well as the livelihoods of local herdsmen. Since the 199Os,degradation of steppe in Inner Mongolia has become increasingly severe (Wang et al., 2OO9). Studies revealed overgrazing, which results from high stocking rates and static grazing management, to be the most important cause of grassland degradation (Akiyama and Kawamura,2Oo7).To solve this problem, in 2003, the government proposed a project to restore pasturage to natural grassland，and this included implementing approaches like intermitent grazing and bans on grazing. Intermittent grazing has become an important conservation method in temperate grasslands (Dor-rough, 2004). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The functional traits of plants include morphological, physiological and life history traits and these traits aect plant fitness by afecting survival， growth and reproduction (Violle et al.,2007). Functional traits can better relate environmental factors and plant responses to ecosystem structure and function (Diaz and Cabido,2O01； Lavorel et al.，2007).Exploring the grazing response mechanisms of grassland plants that result from changes in functional traits has drawn much attention from researchers (Louault et al.,2Oo5).Rusch et al. (2OO9) found that leaf area index,leaf dry matter content, plant height and other plant traits showed significant changes,which were induced by livestock intake and resource supply,and the effect of grazing was higher when resource availability was high. Diaz et al. (2Oo7) confirmed that grazing favored annual, short, prostrate,and stoloniferous plants over perennial, tall, erect, tussock plants; this is because short species suffer less grazing pressure and are protected by the cover of tall species.For herbivores,leaflet species require more bites to achieve the same leaf intake as species with larger leaves (Vesk et al., 2004). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition to directly removing biomass,the effects of grazing on plants can be indirectly influenced by changing the photosynthetic traits (Zangerl et al., 2002; Aldea et al., 2005). Many studies have observed reduced growth of defoliated grasses，which is induced by the loss of photosynthetic tissues (Belsky,1986; Ferraro and Oesterheld, 2OO2;van Staalduinen and Anten, 2005). Studies on steppe have revealed that over-grazing significantly reduced the photosynthetic rate, transpiration rate and water use efficiency of Leymus chinensis and Stipa grandis (Chen et al., 2005;Zhao et al.,2009; Zheng et al., 2011). However, in some circumstances,defoliation can stimulate growth by improving photosynthesis (Anderson et al., 2006; Ruizr et al., 2008). Four plant leaves in Hunshandake Sandy Land showed compensatory photosynthetic growth under moderate grazing (Peng et al.,2Oo7). Recently, some studies have found that plant trait responses to grazing are affected by resources (Adler et al.,2004; Vesk et al.,20O4; Rusch et al.,2009) and grazing frequency and intensity (Diaz et al., 2OO7; N'Guessan and Hartnett, 2O11). Zheng et al. (2015) proposed that soil moisture mediated the effects of grazing on plant functional traits. Thus, there is stilla great deal of uncertainty about the response of plant photosynthetic traits to grazing, especially in research that investigates the effects of different grazing frequencies. This is an important barrier to understanding plant biological processes and formulating intermittent grazing management policies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "S. grandis is one of the dominant species in the steppe of Inner Mongolia, China. The grazing tolerance of plants and their growth response after grazing are always closely related with their photosynthetic capacity. Measuring the response of leaf-level photosynthetic characteristics to treatments composed of diferent grazing frequencies is beneficial for adjusting grazing regimes and for achieving optimal photosynthesis， growth，and yield (Harrision et al.， 2O1O). The objective of this study was to quantify changes and patterns in morphological traits and the photosynthetic traits of S. grandis under three grazing frequencies； results were compared between July 2014 (dry environment） and July 2015 (wet environment). Specially，we also measured the chlorophyll fluorescence traits to better understand the mechanismsof photosynthetic change. We mainly addressed two questions: (1） whether the two grazing frequencies afect the biomass and morphological traits of S. grandis? and (2) how do the two grazing frequencies affect photosynthetic traits? Additionally， we accessed whether this effect changed under different environmental conditions (wet and dry） and attempted to identify the underlying causes of observed changes in terms of stomatal conductance and chlorophyll fluorescence. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Study area and experimental design ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study area was located on the Maodeng Ranch, Xilin Gol League of Inner Mongolia, China $( 4 4 ^ { \\circ } 0 9 ^ { \\prime } 0 3 ^ { \\prime \\prime } \\mathrm { N }$ ， $1 1 6 ^ { \\circ } 2 9 ^ { \\prime } 0 4 ^ { \\prime \\prime } \\mathrm { E }$ ， $1 1 6 0 \\mathrm { m }$ a.s.l.),which features a temperate semi-arid prairie climate with chestnut soil. The annual mean temperature was $- 0 . 4 ^ { \\circ } \\mathrm { C }$ ； specifically, the mean temperature was $- 1 9 . 0 ^ { \\circ } \\mathrm { C }$ during the coldest month (January) and $2 1 . 4 ^ { \\circ } \\mathrm { C }$ during the hottest month (July).The annual accumulated temperature $( { \\geq } 1 0 ^ { \\circ } \\mathrm { C } )$ was $1 5 9 7 . 9 ^ { \\circ } \\mathrm { C }$ and the frost-free period lasted for 1OO days. The growing season of grassland plants ranged from May to September and the average annual precipitation was $2 3 7 \\mathrm { m m }$ . The constructive species in the study area were Stipa grandis and Leymus chinensis, and the accompanying species were Cleistogenes squarrosa, Saposhnikovia divaricata, and Artemisia frigida. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three treatments with different grazing frequencies were established in the study area,and these treatments included fencing $\\left( \\mathrm { T } _ { 0 } \\right)$ , grazing in May and July $\\mathrm { \\Delta T _ { 1 } }$ , i.e., two months per year),and grazing from May to September ( $\\mathrm { \\ T } _ { 2 } .$ ,i.e., continuous five months per year). Grazing started on the $2 1 ^ { \\mathrm { s t } }$ day of each month. In cases of inclement weather, such as rain,the date that grazing began was postponed. The size of each grazed plot was set at $3 3 . 3 ~ \\mathrm { m } \\times 3 3 . 3 ~ \\mathrm { m }$ ,and the total area of each plot was $0 . 1 \\mathrm { h m } ^ { 2 }$ The grazing experiment started in May 2O12. The sheep used for experiments were Ujumuqin sheep born in the same year. The stocking rate was 6 sheep per plot. In grazing treatments, grazing stopped when the plant community height was $6 \\mathrm { c m }$ ,and the number of grazing days was recorded. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Morphological traits and photosynthetic traits were measured in each grazing plot at the end of July in 2O14 and 2O15. The plants in the grazing plots could all be freely grazed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Morphological traits and biomass ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We randomly selected 3O bunches of S. grandis in each plot and measured height, leaf length and stem length. The height was measured from ground to natural crown. Stem, leaf,and relative chlorophyll content were measured five times,and the average values were used to represent the traits of the entire bunch. The relative chlorophyll content of the top fully expanded leaf was determined using a SPAD chlorophyll meter (SPAD 5O2, Minolta Corp., Ramsey, NJ, USA). In each grazing plot, nine bunches of $S .$ ：grandis were randomly clipped and divided into leaf,stem, litter and spike samples. Samples were dried at $6 5 ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { ~ h ~ }$ to obtain the dry mass of each segment groups. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Daily dynamics of gas exchange parameters ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three clusters of healthy growing S. grandis per grazing treatment were selected randomly, and the daily changes in leaf gas exchange parameters were measured using a LI-64OO portable photosynthesis system (LI-COR Inc., Lincoln, NE, USA). While measurements were being taken, leaves were fully arranged within the leaf chamber; specifically, leaves were horizontal, close to one another， and did not overlap.During the measurement process， photosynthesis system recorded net photosynthetic rate $( P _ { N } , \\ \\mu \\mathrm { m o l }$ （204号 $\\mathrm { C O } _ { 2 } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ) )$ ，intercellular $\\mathrm { C O } _ { 2 }$ concentration $( C _ { i } ,$ $\\mu \\mathrm { m o l }$ $\\mathrm { C O } _ { 2 } / \\mathrm { m o l } )$ ，stomatal conductance $G _ { s } .$ 。mol ${ \\bf H } _ { 2 } { \\bf O } / ( { \\bf m } ^ { 2 } { \\cdot } { \\bf s } ) )$ ，transpiration rate( $E$ 。mmol $\\mathrm { H } _ { 2 } \\mathrm { O } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ) )$ ，air temperature $( T _ { \\mathrm { a i r } } , \\mathrm { ^ { \\circ } C ) }$ and relative humidity (RH, $\\%$ ).The measurements were conducted once every $2 \\mathrm { ~ h ~ }$ between O6:0O and 18:0O (LST). For each measurement, three sets of data were recorded.Water use efficiency (WUE, $\\mu \\mathrm { m o l } \\ \\mathrm { C O } _ { 2 } / \\mathrm { m m o l } \\ \\mathrm { H } _ { 2 } \\mathrm { O } )$ was calculated by the equation: $\\mathrm { W U E } { = } P _ { N } / E$ ，Photosynthesis measurement system was inspected each day before measurements began.Before recording,a data-matching operation was carried out. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4Light response curve and parameter fitting ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "On sunny days, between O8:30 and 11:00, the portable photosynthesis system with a $2 \\mathrm { c m } \\times 3$ cm leaf chamber and a red and blue light source (LI-6400-02B LED,LI-COR, Lincoln, NE, USA） was utilized to measure the light response curve of healthy leaves of S. grandis. Three clusters of healthy growing S. grandis were randomly selected per grazing plot. Twelve photosynthetic active radiations (PAR) were utilized in the following order: 2000,1800,1500,1200,800,400,200,100,80,50,20, and $0 ~ \\mathrm { \\mu m o l }$ photon $/ ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } )$ ，and the leaf chamber temperature was set at $2 5 ^ { \\circ } \\mathrm { C }$ The system automatically recorded the net photosynthetic rates that corresponded to each radiation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The fitting of the light response curve adopted an improved non-rectangular hyperbola （Ye, 2007). The maximum net photosynthetic rate $\\left( A _ { \\mathrm { m a x } } \\right)$ , the apparent quantum efficiency (AQE), the light compensation point (LCP),and the dark respiration rate $( R _ { d } )$ under lighting were simulated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5 Chlorophyll fluorescence parameters ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At 06:0o, the minimum fluorescence $( F _ { o } )$ and the maximum fluorescence $( F _ { m } )$ under the state of dark adaptation were measured (by wrapping plant leaves in a sheet of tin foil for one night) using the photosynthesis system and chlorophyll fluorescence leaf chambers $( \\mathrm { L I - 6 4 0 0 L C F }$ ,LI-COR,Lincoln, NE,USA). Subsequently,the tinfoil sheets were removed,and sunlight was allowed to naturally shine onto leaves to stimulate photosynthesis of plant leaves.At 1O:Oo,minimum fluorescence $( F _ { o } )$ maximum fluorescence $( F _ { m } { ' } )$ ,and stable fluorescence $( F _ { s } )$ under light adaptation were measured with a photosynthetic active radiation of $1 5 0 0 ~ { \\mu \\mathrm { m o l } }$ photon/ $( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } )$ . Five clusters of healthy grown S. grandis were selected per grazing plot. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on the four measured basic fluorescence parameters,we calculated four parameters that characterized photochemical states during the photoreaction stage: the PSII maximum quantum yield under dark adaptation $( F _ { \\nu } / F _ { m } )$ ，where $F _ { \\nu }$ denotes the variable fluorescence of leaves under dark adaptation and was calculated as $\\scriptstyle { F _ { \\nu } = F _ { m } - F _ { o } }$ ; the PSI effective quantum yield under light adaptation $( \\phi _ { \\mathrm { P S I I } } )$ ,which was calculated as $\\scriptstyle { \\phi _ { \\mathrm { P S I I } } = ( F _ { m } ^ { \\prime } - F _ { s } ) / F _ { m } ^ { \\prime } }$ , and reflects the active part of photon absorption in the PSII reaction center; the chlorophyll photochemical quenching $\\left( q _ { P } \\right)$ ,which was calculated as $q _ { P } { = } ( F _ { m } { ' } { - } F _ { s } ) / ( F _ { m } { ' } { - } F _ { o } )$ ,and reflects the percentage of open PSII reaction centers; and the chlorophyll non-photochemical quenching (NPQ),which was calculated as $\\scriptstyle \\mathrm { N P Q = } ( F _ { m } - F _ { m } ^ { \\prime } ) / F _ { m } .$ ，and reflects the part of the photosynthetic apparatus that is absorbing light energy being used for heat dissipation, which usually indicates the degrees of stress plants are experiencing (Maxwell et al., 2000). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6 Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The effects of grazing frequency,sampling year, and their interaction on morphological traits, biomass, and physiological traits were analyzed via two-way ANOVA. The differences among measured parameters from different grazing treatments were tested via one-way ANOVA and the differences were compared with a Tukey test. We assessed correlations between photosynthetic traits (gas exchange) by Person's correlation analysis using SPSS 2O.O (IBM Inc., Chicago, IL, USA). We drew the graph with OriginPro 2016 (OriginLab, Northampton, MA, USA). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Morphological traits and biomass allocation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Height, stem length and leaf length significantly decreased under $\\mathrm { T } _ { 2 }$ treatment ( $_ { ( P < 0 . 0 5 }$ ; Table 1). For example,plant height declined by an average of $30 \\%$ ，stemlength declined by $27 \\%$ and leaf length declined by $20 \\%$ . Most morphological traits were not affected under $\\mathrm { T } _ { 1 }$ treatment $( P { > } 0 . 0 5$ ， Table 1). In 2014,chlorophyll content increased by $11 \\%$ under $\\mathrm { T } _ { 1 }$ treatment. The $\\mathrm { T } _ { 1 }$ and $\\mathrm { T } _ { 2 }$ treatments did not significantly affect individual biomass or biomass allocation of $S .$ grandis $( P { > } 0 . 0 5$ ; Table 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5fe2c579246b43fd464e83323d7552b504c6ee7529f11bb5cd2ffd95c1dbaa27.jpg",
+        "table_caption": [
+            "Table1Morphological traits and biomass distribution of $S .$ ：grandis under three grazing frequencies "
+        ],
+        "table_footnote": [
+            "Note:Morphology and chlorophyll data are means $\\scriptstyle ( n = 3 0 )$ and biomass data are means $\\scriptstyle ( n = 9 )$ .Different lowercase letters in the same row aresignificantlydifferentat $P { < } 0 . 0 5$ level. $\\mathrm { \\Delta T _ { 0 } }$ ,fencing; $\\mathrm { T } _ { 1 }$ ，grazinginMayand July, $\\mathrm { T } _ { 2 }$ ，grazingfromMayto September "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Morphological trait and biomass</td><td colspan=\"3\">2014</td><td colspan=\"3\">2015</td></tr><tr><td>T</td><td>T</td><td>T</td><td>T</td><td>T</td><td>T</td></tr><tr><td>Height (cm)</td><td>72.8a</td><td>75.2a</td><td>64.4b</td><td>74.2a</td><td>70.5a</td><td>39.3b</td></tr><tr><td>Stem length (cm)</td><td>11.4a</td><td>11.2a</td><td>9.6b</td><td>10.4a</td><td>10.4a</td><td>6.5b</td></tr><tr><td>Leaf length (cm)</td><td>19.8a</td><td>20.5a</td><td>13.4b</td><td>23.2a</td><td>19.4b</td><td>21.3ab</td></tr><tr><td>Chlorophyll content (%)</td><td>14.9b</td><td>16.6a</td><td>15.4ab</td><td>22.1a</td><td>18.3a</td><td>22.7a</td></tr><tr><td>Leaf mass (g)</td><td>3.5a</td><td>3.8a</td><td>4.1a</td><td>2.3a</td><td>2.5a</td><td>2.2a</td></tr><tr><td>Stem mass (g)</td><td>4.7a</td><td>5.2a</td><td>5.3a</td><td>2.7a</td><td>2.5a</td><td>2.0a</td></tr><tr><td>Litter mass (g)</td><td>4.7a</td><td>2.4a</td><td>2.6a</td><td>3.0a</td><td>1.6a</td><td>1.7a</td></tr><tr><td>Spike mass (g)</td><td>1.2a</td><td>2.5a</td><td>2.4a</td><td>0.8a</td><td>0.6a</td><td>0.3a</td></tr><tr><td>Stem/leaf</td><td>1.3a</td><td>1.3a</td><td>1.3a</td><td>0.8a</td><td>1.0a</td><td>1.0a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2Leaf physiological traits ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The physiological traits measured in this study mainly use gas exchange and chlorophyll fluorescence,which are closely related to the environmental factors on the day the measurement was taken. The mean PAR values in 2014 and 2015 were 1068 and $1 2 3 3 \\mathrm { \\ : \\mu m o l / ( m } ^ { 2 } { \\cdot } \\mathrm { s } )$ ,respectively. The mean $T _ { \\mathrm { a i r } }$ values in 2014 and 2015 were $3 6 . 3 ^ { \\circ } \\mathrm { C }$ and $3 2 . 0 ^ { \\circ } \\mathrm { C }$ ，respectively. The mean RH values in 2014 and 2015 were $2 4 . 9 \\%$ and $4 4 . 2 \\%$ ，respectively. Hence， the environmental condition in July 2O14 was drier than the environmental condition in July 2015. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Grazing,year and their interaction significantly influenced $P _ { N }$ 1 $( P { < } 0 . 0 1 )$ . In 2014, the $P _ { N }$ value under $\\mathrm { T } _ { 2 }$ treatment was significantly higher than that under ${ \\mathrm { ~ T } } _ { 0 }$ treatment $( P { < } 0 . 0 5 )$ and increased almost 4-fold. In 2015,the $P _ { N }$ value under $\\mathrm { T } _ { 1 }$ treatment was significantly higher than that under $\\mathrm { { T _ { 0 } } }$ treatment $( P { < } 0 . 0 5 )$ and increased almost 2-flod (Fig. 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Grazing and year, and their interaction significantly influenced $E$ $( P { < } 0 . 0 5 )$ . In 2014,the $E$ （204号 value under $\\mathrm { T } _ { 2 }$ treatment was significantly higher than those under $\\mathrm { T } _ { 1 }$ and $\\mathrm { { T _ { 0 } } }$ treatments $( P { < } 0 . 0 5 )$ In 2015, there were no significant differences in $E$ values among the three grazing frequencies (Fig. 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Grazing and year significantly influenced WUE $( P { < } 0 . 0 1 )$ ，but their interaction was not significant $( P { = } 0 . 1 7 7 )$ . In 2014，WUE gradually increased with increasing grazing frequencies （ $( P { = } 0 . 0 9 8 )$ . In 2015,WUE values under $\\mathrm { T } _ { 1 }$ and ${ \\mathrm { T } } _ { 2 }$ treatments were significantly higher than that under ${ \\mathrm { ~ T } } _ { 0 }$ treatment $( P { < } 0 . 0 5 )$ ; in fact, in 2015,WUE values increased by $7 7 \\%$ (Fig. 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "((s.u)/Oo loum) 10 12. (a) A 2015 2014 4 65432 2.0   \n8 AB   \n6 B .5 B 1.0.   \n4 a a   \n2 0.5 a b   \nP公 b 1.   \n0 0 T T X2 T T T X。 T 3 0 0 2 Grazing frequency Grazing frequency Grazing frequency ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The value of $G _ { s }$ was significantly influenced by grazing, year and their interaction $( P { < } 0 . 0 5 )$ . In 2014, $G _ { s }$ under $\\mathrm { T } _ { 2 }$ treatment was significantly higher than those values under $\\mathrm { T } _ { 1 }$ and $\\mathrm { { T _ { 0 } } }$ treatments $( P { < } 0 . 0 5 )$ . In 2015,there were no significant differences in $G _ { s }$ values among the three grazing frequencies $\\scriptstyle \\cdot \\ P = 0 . 0 5$ ；Fig.2). $C _ { i }$ was not significantly influenced by grazing， year and their interaction $( P { > } 0 . 0 5 )$ ,and $C _ { i }$ followed the order $( \\mathrm { T } _ { 0 } { > } \\mathrm { T } _ { 1 } { > } \\mathrm { T } _ { 2 } )$ )in both years (Fig.2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0.35   \n55535 2014 ZZZ 2015 A (a) 350 a A a A a T A (b) 250 A A 200 V a 100」   \nG 0.05 b中 b C 50 0.00 0 T T X T T T Grazing frequency Grazing frequency ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$G _ { s }$ was significantly correlated with $P _ { N }$ and $E$ in three grazing frequencies.And the correlation coefficient between $G _ { s }$ and $C _ { i }$ was significant ( $\\overset { \\prime } { \\underset { \\mathrm { \\scriptsize { \\it { r } = \\mathrm { \\scriptsize { \\it { \\it { 0 . 4 9 ) } } } } } } { \\mathrm { \\scriptsize { \\it { 1 } } } } } }$ only under $\\mathrm { T } _ { 2 }$ treatment (Table 2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8122ae72ee9fb05860bc659d9168fbc6aeaf609c3e5021ef748df75fb1896824.jpg",
+        "table_caption": [
+            "Table 2Correlations between photosynthetic traits of $S .$ grandis under three grazing frequencies "
+        ],
+        "table_footnote": [
+            "Note: $P _ { N }$ ,net photosynthetic rate; $G _ { s } ,$ stomatal conductance; $C _ { i }$ ,intercellular $\\mathbf { C O } _ { 2 }$ concentration; $E$ 、transpiration rate;WUE,water use efficiency. \\*and $^ { * * }$ indicate significant differences at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels,respectively;ns indicates non-significance. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Photosynthetic traits</td><td colspan=\"2\">T</td><td colspan=\"2\">T</td><td colspan=\"2\">T</td></tr><tr><td>r</td><td>Sig.</td><td>r</td><td>Sig.</td><td>r</td><td>Sig.</td></tr><tr><td>PN-Gs</td><td>0.72</td><td>**</td><td>0.74</td><td>**</td><td>0.76</td><td>**</td></tr><tr><td>PN-Ci</td><td>-0.53</td><td>**</td><td>-0.50</td><td>**</td><td>-0.70</td><td>**</td></tr><tr><td>PN-E</td><td>0.78</td><td>**</td><td>0.82</td><td>**</td><td>0.39</td><td>*</td></tr><tr><td>PN-WUE</td><td>0.75</td><td>**</td><td>0.65</td><td>**</td><td>0.63</td><td>**</td></tr><tr><td>Gs-Ci</td><td>0.05</td><td>ns</td><td>0.01</td><td>ns</td><td>-0.49</td><td>**</td></tr><tr><td>G-E</td><td>0.63</td><td>**</td><td>0.71</td><td>**</td><td>0.59</td><td>**</td></tr><tr><td>G5-WUE</td><td>0.41</td><td>**</td><td>0.45</td><td>**</td><td>0.42</td><td>**</td></tr><tr><td>Ci-E</td><td>-0.38</td><td>*</td><td>-0.34</td><td>*</td><td>-0.51</td><td>**</td></tr><tr><td>C,-WUE</td><td>-0.66</td><td>**</td><td>-0.54</td><td>**</td><td>-0.41</td><td>**</td></tr><tr><td>E-WUE</td><td>0.29</td><td>ns</td><td>0.19</td><td>ns</td><td>-0.30</td><td>ns</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In 2014, LCP, AQE, $R _ { d }$ and $\\boldsymbol { A } _ { \\mathrm { m a x } }$ revealed no significant difference among different grazing frequencies (Table 3). In 2O15,the LCP in different grazing treatments followed the order: $\\mathrm { T } _ { 0 } >$ $\\mathrm { T } _ { 1 } > \\mathrm { T } _ { 2 }$ ,and the value of LCP under ${ \\mathrm { ~ T } } _ { 0 }$ treatment was significantly higher than that of $\\mathrm { T } _ { 2 }$ treatment 0 $_ { ( P < 0 . 0 5 }$ ; Table 3). The $R _ { d }$ value under $\\mathrm { { T _ { 0 } } }$ treatment was significantly higher than those of $\\mathrm { T } _ { 1 }$ and $\\mathrm { T } _ { 2 }$ treatments( $( P { < } 0 . 0 5$ ; Table 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1cc9eb75f04e79adf10c80b0c8c7c1e1f30ecc1d7642a19e61e40712f29cbeff.jpg",
+        "table_caption": [
+            "Table 3Photosynthetic traits of $S .$ grandis under three grazing frequencies "
+        ],
+        "table_footnote": [
+            "Note:Data are means $\\scriptstyle ( n = 3 )$ ,and different lowercase letters in the same row are significantly different at $P { < } 0 . 0 5$ level according to the Tukey test.LCP, light compensation point; AQE,apparent quantum efficiency; $R _ { d }$ ,dark respiration rate; $A _ { \\mathrm { m a x } }$ ,maximum photosynthetic rate. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Parameter</td><td colspan=\"3\">2014</td><td colspan=\"3\">2015</td></tr><tr><td>T0</td><td>T1</td><td>T2</td><td>T0</td><td>T</td><td>T</td></tr><tr><td>LCP</td><td>60.89a</td><td>154.47a</td><td>145.96a</td><td>113.64a</td><td>90.86ab</td><td>70.02b</td></tr><tr><td>AQE</td><td>0.026a</td><td>0.034a</td><td>0.036a</td><td>0.036a</td><td>0.026a</td><td>0.033a</td></tr><tr><td>Rd</td><td>1.37a</td><td>3.05a</td><td>2.89a</td><td>3.85a</td><td>2.32b</td><td>2.02b</td></tr><tr><td>Amax</td><td>7.44a</td><td>6.16a</td><td>7.81a</td><td>15.88a</td><td>12.21a</td><td>14.48a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In 2014, $F _ { \\nu } / F _ { m }$ ， $q _ { P }$ ， NPQ and $\\phi _ { \\mathrm { P S I I } }$ did not show significant differences (Table 4). In 2015, $\\boldsymbol { F _ { \\nu } } / \\boldsymbol { F _ { m } }$ initially presented increased and then decreased with the increase in grazing frequency. The $q _ { P }$ and $\\phi _ { \\mathrm { P S I I } }$ under $\\mathrm { T } _ { 2 }$ treatment were significantly higher than that under ${ \\mathrm { ~ T } } _ { 0 }$ treatment $( P { < } 0 . 0 5$ Table 4). The NPQ presented a decreasing trend with increasing grazing frequencies $( P { > } 0 . 0 5 )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf1261699c549b1cdb6742dba7ed2af0b8b53ca944b35c64227ecd803bd3a8dc.jpg",
+        "table_caption": [
+            "Table 4 Chlorophyll fluorescence traits of $S$ ，grandis under three grazing frequencies "
+        ],
+        "table_footnote": [
+            "Note:Data are means $\\scriptstyle ( n = 5 )$ ,and different lowercase letters in the same row are significantly different at $P { < } 0 . 0 5$ level according to the Tukey test. $F _ { \\nu } / F _ { m }$ ,maximum quantum yield of photosystem II; $q _ { P }$ ,photochemical quenching; NPQ, non-photochemical quenching; $\\varPhi _ { \\mathrm { P S I I } }$ effective quantum yield of photosystem II. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Parameter</td><td colspan=\"3\">2014</td><td colspan=\"3\">2015</td></tr><tr><td>T0</td><td>T</td><td>T</td><td>T0</td><td>T</td><td>T</td></tr><tr><td>Fv/Fm</td><td>0.73a</td><td>0.75a</td><td>0.76a</td><td>0.78a</td><td>0.79a</td><td>0.77a</td></tr><tr><td>qP</td><td>0.26a</td><td>0.27a</td><td>0.26a</td><td>0.50b</td><td>0.47b</td><td>0.58a</td></tr><tr><td>NPQ</td><td>1.84a</td><td>1.53a</td><td>1.67a</td><td>1.98a</td><td>1.75a</td><td>1.55a</td></tr><tr><td>ΦPsI1</td><td>0.13a</td><td>0.13a</td><td>0.14a</td><td>0.23b</td><td>0.24ab</td><td>0.29a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1Responses of biomass and morphological traits to grazing ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this research, we found that two grazing frequencies did not affect the individual biomass and the allocation of S. grandis. This was consistent with previous studies, which focused on different grazing intensities (Schiborra et al., 2OO9; Hu et al.,2O16). This result may have been caused by the diet selection of sheep and functional trait responses of S.grandis. First, in steppe,the sheep would prefer Leymus chinensis and Carex lanceolata over S. grandis when herbage is highly available (Wang， 2Ooo). Therefore, S. grandis was a relatively unpalatable species for sheep; therefore,the biomass would remain a neutral response to the increasing grazing frequency. Second,adaptive traits may compensate for the tissues injured by grazing (Wan et al.,2O15), such as an increase in $P _ { N } ,$ which is closely associated with the relative growth rate (Shipley,2002, 2006). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this research, we demonstrated that grazing every month (i.e., ${ \\mathrm { T } } _ { 2 } { \\mathrm { \\Omega } }$ ) decreased the stature of S. grandis,including height, stem length,and leaf length,however, these results were not observed under the $\\mathrm { T } _ { 1 }$ grazing treatment. This result was similar to the results of other studies in Inner Mongolia (Zhao et al., 2009; Zheng et al.,2011; Li et al., 2015) and the result of Rusch et al. (2009).The different responses of morphological traits support that grazing intensity regulates the responses of plant traits (Adler et al., 2Oo4). Small stature is a great preservation characteristic when frequent grazing occurs because it may reduce the potential for plants to be found by herbivores. However, smal stature may also create gaps in the original community, which could benefit the invasion of pioneer species and, thus,affect community diversity. Dorrough et al. (2004) found that intermediate grazing frequency maximized species co-existence due to invasion. Therefore,morphological traits of dominant species play an important role in identifying community succession. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Unaffected biomass and small stature under grazing implied the promotion of net primary production，which supported grazing optimization hypothesis (McNaughton，1979). Increased photosynthetic rate was proposed as a mechanism to account for this hypothesis (Painter and Detling,1981). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2Responses of physiological traits to grazing ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Compensatory photosynthesis was revealed as an important mechanism of plant leaf regrowth (Detling et al.，1979)，plant tolerance to herbivores (Gassmann，2004).Grazing significantly promoted $P _ { N }$ ，with a greater increase under $\\mathrm { T } _ { 2 }$ treatment (i.e.,the dry environment) than under $\\mathrm { T } _ { 1 }$ treatment (i.e.，the wet environment). This result partially supports the hypothesis that plants suffering from drought and herbivory are more resistant to herbivores (Copolovici et al.,2014), and this was caused by a significant increase of $G _ { s }$ in our study. The increase in $P _ { N }$ under grazing was consistent with other studies (Hodgkinson,1974;Wallace,1990; Yan et al.,2009; Harrision et al.,201O). The increased $P _ { N }$ may also be due to the increased leaf nitrogen content (Morrison and Reekie,1995). However,other studies found that $P _ { N }$ presented a decreasing or fluctuating tendency (Peng et al.，2007； Fahnestock and Detling,2000； Zheng et al., 2011)，which could caused by separated vasculature, changed sink demand,and defence-induced autotoxicity (Nabity et al.,2OO8). The differences between those studies can be attributed to the variations in plant species and grazing intensities (Hou, 2Oo1). However, this study suggested that the increase in $P _ { N }$ after grazing in the arid environment came at the expense of increased water dissipation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$E$ significantly increased under $\\mathrm { T } _ { 2 }$ grazing treatment in the dry environment, which could also be explained by the increase of $G _ { s }$ . This was similar to the results reported by Peng et al. (2007) on four dominant grasses found in northern grassands of China. However,it differed from the results of Deng et al. (2Ol2) who reported a decreasing transpiration rate of Leymus chinensis with increasing grazing intensity. The reason was likely due to the mechanism of coping with grazing stress,i.e., the bunchgrass $S .$ grandis tends to enhance carbon sequestration via increasing its transpiration rate,while the rhizomatous grass $L .$ chinensis adopts a strategy of decreasing transpiration and loss of water. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study， WUE significantly increased under both grazing frequencies in the wet environment,but WUE did not significantly change in the dry environment. This indicated that plants used water more efficiently when grazing occurred,and plants become conservative in arid environments. The result was consistent with Zheng et al. (2O11),who stated that grazing had a more positive effect on the WUE in wet years than in dry years. Zhao et al.(2Oo9) found that heavy grazing would reduce the WUE of $L .$ ，chinensis.Another study found that the WUE of plants first increased and then decreased with increasing grazing intensities, showing a positive response to continuous grazing (Peng et al., 2OO7). It could be speculated that neither the $\\mathrm { T } _ { 1 }$ nor the $\\mathrm { T } _ { 2 }$ grazing reached the level of heavy grazing, and S. grandis presented a positive response to grazing. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study, the $\\mathrm { T } _ { 2 }$ treatment in the dry environment significantly promoted $G _ { s }$ ，which was consistent with previous studies (Christiansen and Svejcar,1988;Redondo-Gómez et al., 2010; Anderson et al., 2Ol3). Potential causes could include changes in stomatal physiology, such as increased stomatal density and stomatal conductance index (Zhang et al.,2O1O),increased root biomass and root length density (Chen et al.,2O15),and decreased self-shading or increased solar radiation received by plant individuals (Cai et al.,2OO4; Gregoriou et al.,2OO7). Our study only focused on the vigorous stage of S. grandis,yet the impact of herbivores on photosynthetic traits is influenced by phenophase cycle (Maschinski and Whitham,1989),which needs to be further studied. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$C _ { i }$ was utilized to judge the drivers of photosynthetic changes and to determine whether it was caused by stomatal factors (Farquhar and Sharkey, 1982; Xu,1997). $C _ { i }$ was not influenced by grazing frequency in this study $( P { > } 0 . 0 5 )$ ，which is consistent with published results on wheat leaves (Macedo et al.，2O07；Harrison et al.，2O1O). Considering the increases in stomatal conductance and photosynthetic rate, we speculated that light energy harvest or carbon fixation of S.grandis leaves increased. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { T } _ { 1 }$ and $\\mathrm { T } _ { 2 }$ treatments did not significantly influence the AQE and $A _ { \\mathrm { m a x } }$ ， indicating that changes in grazing frequency did not induce changes in photosynthetic efficiency of S. grandis leaves,which is consistent with the result that the efect of grazing on AQE of a Mediterranean shrub was very limited (Redondo-Gómez et al., 2010). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study, $q _ { P }$ and $\\phi _ { \\mathrm { P S I I } }$ under $\\mathrm { T } _ { 2 }$ treatment were significantly higher than those under ${ \\mathrm { ~ T } } _ { 0 }$ treatment in the wet environment, which indicated that the quantum efficiency of PSII electron transport in the light increased (Murchie and Lawson,2Ol3).In 2O14, however, no fluorescence traits showed significant differences, indicating that grazing frequencies in the dry environment had limited effects on the electron-transfering efficiency. The different results could be explained by water stress that reduced the PSII photochemistry efficiency (Lu and Zhang,1999). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Combining al functional traits, we found that S. grandis had a strong resistance to grazing, as it adopted both avoidance strategies and tolerance strategies. As grazing frequency increased, individual size decreased. Increased $P _ { N }$ and WUE values indicated the rapid recovery of damaged plants. While in the dry environments,the positive effect of tolerance strategy was partially offset. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It can be concluded that grazing frequencies did not affect the individual biomass of S. grandis, but $\\mathrm { T } _ { 2 }$ treatment negatively affected the size of individuals.Plant miniaturization is an effective strategy to cope with long-term overgrazing. To explore the mechanism of biomass acclimation, we studied the photosynthesis response of the species. We found that S. grandis used a radical approach to compensate the negative effects of grazing on its morphology by increasing stomatal conductance and thus promoting $P _ { N ; }$ ，which accelerates the dissipation of water. This strategy worked wellin wet condition with an increase in the WUE,but the strategy did not significantly affect the WUE in dry condition. In addition,the photosynthetic light-energy harvest increased under $\\mathrm { T } _ { 2 }$ grazing treatment, which also explained the increase in $P _ { N }$ In this study, the response of individual biomass, morphology and photosynthetic traits to grazing demonstrated that S. grandis was a species with strong resistance and, moreover, played an important role in regulating the productivity and functional stability of the community. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was funded by the National Basic Research Program of China (2O16YFCO50o502),the National Key Basic Research Program of China (2O14CB138803)，the National Natural Science Foundation of China (31570451),and the Program for Changjiang Scholarsand Innovative Research Team in University(IRT_15R06). We thank the Grassland Ecosystem Field Station of Inner Mongolia University for offering the grazing site and BAOYIN Taogetao for advices on early experimental design. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Akiyama T,Kawamura K.2Oo7.Grassand degradation in China:methodsof monitoring，management and restoration. Grassland Science,53(1):1-17.   \nAldea M,HamiltonJG,RestiJP,etal.2Oo5.Indirect efectsof insect herbivoryonleaf gas exchange insoybean.Plat,Cel and Environment,28(3): 402-411.   \nAdler PB,MilchunasDG,Lauenroth WK,etal.2Oo4.Functional traitsof graminoids insemi-aridsteppes:atestofgrazing histories. Journal of Applied Ecology,41(4): 653-663.   \nAnderso TM,DongY,McNaughtonSJ.2O6.Nutrientacquisitionand physiological responsesof dominant Serengeti grasses to variation in soil texture and grazing. Journal of Ecology,94(6): 1164-1175.   \nAnderson TM,KumordziBB,Fokkema W,etal.20l3.Distinctphysiological responsesunderliedefoliationtolerancein African lawn and bunch grasses.International Journal of Plant Sciences,174(5):769-778.   \nBelskyAJ.1986.Does herbivory benefit plants?Areview of the evidence.The American Naturalist,127(6): 870-892.   \nCai ZQ,QiX,CaoQF.2004.Responseof stomatal characteristics anditsplasticitytodifferentlightintensities inleavesof seven tropical woody seedlings.Chinese Journal of Applied Ecology,15(2):201-204.(in Chinese)   \nChenSP,BaiYF,inGH,etal.2Oo5.Effectsof grazingonphotosyntheticcharacteristicsofmajorsteppespecies inthe Xilin River Basin, Inner Mongolia, China.Photosynthetica,43(4): 559-565.   \nChenWJ,DongT,GuC,etal.2O15.Effectofdiferent grazingintensitiesonrootcharacteristicsof Stipagrandis.Chinese Journal of Grassland,37(4): 86-91.(in Chinese)   \nChristiansen S,Svejcar T.1988.Grazing efectson shoot androot dynamicsand above-and below-ground non-structural carbohydrate in Caucasian bluestem. Grass Forage Science,43(2):111-119.   \nCopoloviciL,KännasteA,RemmelT,etal.20l4.VolatileorganiccompoundemissionsfromAlnus glutinosunderinteracting drought and herbivory stresses.Environmental and Experimental Botany,1Oo: 55-63.   \nDengY,LiuXN,XinXP,etall2.DualdyamicsofpotosytheticharacteristicsofLeymuscinesisuderert grazing intensities taking the Hulunber meadow steppe asan example.Acta Prataculturae Sinica,21(3):308-313.(in Chinese)   \nDetlingJK,Dyer MI, Winn DT.1979.Netphotosynthesis,rotrespiration,andregrowthof Bouteloua gracilisfollowing simulated grazing. Oecologia, 41(2): 127-134.   \nDiaz S,CabidoM.2001.Vive ladiference: plant functional diversity maters toecosystem processes.Trends inEcology& Evolution,16(11): 646-655.   \nDiaz S,LavorelS,McIntyreSUE,et al.2Oo7.Plant traitresponses to grazing-a global synthesis.Global Change Biology, 13(2): 313-341.   \nDorrough J,Ash J,McIntyre S.2O04.Plantresponses to livestock grazing frequency inan Australian temperategrassland. Ecography,27(6): 798-810.   \nFahnestockJT,DetlingJK.20o0.Morpholgicaland physiological responsesof perennial grasses tolong-term grazinginthe Pryor Mountains,Montana.The American Midland Naturalist,143(2): 312-320.   \nFarquharG D,SharkeyTD.1982.Stomatal conductanceand photosynthesis.Annual Review of PlantPhysiology，33(1): 317-345.   \nFerraro DO,Oesterheld M.2002.Efectof defoliation ongras growth.Aquantitative review. Oikos,98(1):125-133.   \nGassmann AJ.2O04.Efectof photosyntheticefficiencyand wateravailabilityon toleranceof leaf removal in Amaranthus hybridus.Journal of Ecology,92(5): 882-892.   \nGregoriouK,PontikisK,VemmosS.7.Effectsofeducediradianceonleaf mophology,photosytheticcapacitydfruit yield in olive (Olea europaea L.).Photosynthetica,45(2): 172-181.   \nHarison MT,Kelman WM,MooreAD,etal.2lo.Grazing winterwheatrelieves plant waterstressandtransientlynhances   \nHodgkinson K.1974.Influenceof partial defoliationonphotosynthesis,photorespirationand transpirationbylucere leavesof different ages.Australian Journal of Plant Physiology,1(4): 561-578.   \nHouFJ.2Ool.Efectof grazingonphotosynthesisandrespirationof herbageanditsabsorptionandtransporationofnitrogen and carbon. Chinese Journal of Applied Ecology,12(6): 938-942.(in Chinese)   \nHu J,Hou XY,SaRL,etal.2O16Reguatoryefectsof Stipgrandisonabove-ground biomassofplantcommunityingazing ecosystem.Acta Agrestia Sinica,24(1):1-11.(in Chinese)   \nLavorel S,Daz S,CornelissenJHC,etal.2oo7.Plant functional types:are wegeting anyclosertothe holygrail?In: CanadellJG,PatakiDE,PitelkaLF.Terestrial Ecosystems ina Changing World.Berlin Heidelberg: Springer-Verlag, 149-164.   \nLi XL,Wu ZN,LiuZY,etal.2015.Contrastingefectsoflong-termgrazingandclippingonplant morphological plasticity: evidence from a rhizomatous grass. PLoS ONE,10(10): e0141055.   \nLouaultF,PilarVD,Aufrere J,etal.2Oo5.Plant traitsand functional types inresponse toreduced disturbance ina semi-natural grassland. Journal of Vegetation Science,16(2): 151-160.   \nLu CM,Zhang JH.99Efects of water stress onphotosystem IIphotochemistryand its thermostability in wheat plants. Journal of Experimental Botany,50(336): 1199-1206.   \nMacedo TB,PetersonRKD,DauszCL,etalO7.Photosyntheticresponsesof wheat,TriticumestivumL.todefoliation patterns on individual leaves.Environmental Entomology,36(3): 602-608.   \nMaschinskiJ,WhithamTG.989.Thecontinuumofplantresponses toherbivory:theinfluenceofplantassociationutrient availability,and timing. The American Naturalist,134(1):1-19.   \nMaxwell K,Johnson GN.2Ooo.Chlorophyllfluorescence-apractical guide.Jourmal of Experimental Botany，51(345): 659-668.   \nMcNaughton SJ.1979.Grazing asanoptimization proces:gras-ungulate relationships in the Serengeti.The American Naturalist,113(5): 691-703.   \nMorrison KD,ReekieEG.1995.PattrnofdefoliationanditsfectonphotosyntheticcapacityinOenotherabienns.Journal of Ecology,83(5): 759-767.   \nMurchie EH,Lawson T.2O13.Chlorophyllfluorescence analysis: a guide to good practice and understanding some new applications.Journal of Experimental Botany,64(13): 3983-3998.   \nNabityPD,ZavalaJA,DeLuciaEH2O08.Indirectsuppressionofphotosynthesisonindividualleaves byarthropodherbivory Annals of Botany,103(4): 655-663.   \nN'Guessan M,HartnettDC.2l1.Diferentialresponses todefoliationfrequencyinlitlebluestem(Schzchyriumscoparium) in tallgrass prairie: implications for herbivory tolerance and avoidance.Plant Ecology,212(8):1275-1285.   \nPainterEL,Detling JK.1981.Effectsof defoliationonnet photosynthesisandregrowthof western wheatgrass.Jouralof Range Management, 34(1): 68-71.   \nPeng Y,Jiang GM,Liu XH,etal.2Oo7.Photosynthesis,transpirationand wateruseeficiencyoffour plant species with grazing intensities in Hunshandak Sandland, China.Journal of Arid Environment,7O(2): 304-315.   \nRedondo-G6mezS,Mancill-Leyt6n JM,Mateos-NaranjoE,et al.2O10.Diferential photosyntheticperformanceof three Mediterranean shrubs under grazing by domestic goats.Photosynthetica,48(3): 348-354.   \nRuizr N,Ward D，Saltz D.2008.Leafcompensatorygrowthas a tolerance strategy to resist herbivory in Pancratium sickenbergeri.Plant Ecology,198(1):19-26.   \nRusch G M,Skarpe C,HalleyDJ.2O09.Planttraits link hypothesisabout resource-use andresponse toherbivory.Basic and Applied Ecology,10(5): 466-474.   \nSchiborra A,Gierus M,Wan H W,etal.20o9.Short-termresponsesofa Stipa grandis/Leymuschinensiscommunityto frequentdefoliation inthesemi-arid grasslandsofInnerongolia,China.AgricultureEcosystems &Environment,32(1): 82-90.   \nShipleyB.2002.Trade-offs betweennetasimilationrateand specific leafareaindeterminingrelative growthrate:relationship with daily irrdiance.Functional Ecology,16(5): 682-689.   \nShipleyB.2O06.Net assimilation rate,specific leaf areaand leaf massratio:which is most closelycorrelated withrelative growth rate?A meta-analysis. Functional Ecology,20(4): 565-574.   \nVan Staalduinen MA,Anten N PR.2005.Diferences in the compensatory growth of two co-occuring grass species in relation to water availability. Oecologia,146(2): 190-199.   \nVesk PA,Leishman MR,Westoby M.2O04.Simple traits do not predict grazing response in Australiandry shrublands and woodlands. Journal of Applied Ecology,41(1): 22-31.   \nViolle C,Navas ML,Vile D,et al.20o7.Let the concept of trait be functional Oikos,116(5): 882-892.   \nWallceLL.1990.Comparative photosyntheticresponses of big bluestem to clipping versus grazing.Journal of Range Management, 43(1): 58-61.   \nWanHW,BaiYF,HooperDU,et al.2O15.Selective grazingand seasonal precipitation playkeyroles inshaping plant community structure of semi-arid grasslands.Landscape Ecology,3O(9):1767-1782.   \nWang SP.20o0.The dietarycompositionoffine wool sheepand plant diversity in Inner Mongoliasteppe.Acta Ecologica Sinica,20(6): 951-957. (in Chinese)   \nWang XT,Wang W,LiangCZ2Oo9.Changes inthepopulationspatialdistributionpaternofLeymuschinensisindegraded steppe communityduring restorative successoninInnerMongolia,China.ChineseJournalof AppliedEcology,33(1):6-70. (in Chinese)   \nWang Z,Deng XZ,SongW,etal.2O17.Whatis the maincauseofgrassanddegradation?Acase studyof grasslandecosystem service in the middle-south Inner Mongolia. Catena,15O:1OO-107.   \nXu D Q.1997.Some problems in stomatal limitation analysis of photosynthesis.Plant Physiology Communications,33(4): 241-244.(in Chinese)   \nYan X,GongJR,Zhang ZY，etal.20l3.Responsesof photosyntheticcharacteristicsof Stipa baicalensistograzing disturbance. Chinese Journal of Plant Ecology,37(6): 530-541. (in Chinese)   \nYe ZP.207.Anew modelforrelationship between iradianceand therateofphotosynthesis in Oryzasativa.Photosynthetica, 45(4): 637-640.   \nZangerlAR,HamiltonJG,MilerTJ,etal.2OO2.Impactoffolivoryonphotosynthesis isgreater than thesumof its holes. Proceedings of the National Academy of Sciences of the United States of America,99(2):1088-1091.   \nZhang LR,Niu HS,Wang SP,etal.20l0.Efects of temperature increase and grazing onstomatal densityandlengthoffour alpine Kobresia meadow species,Qinghai-Tibetan Plateau.Acta Ecologica Sinica,30(24): 6961-6969.(in Chinese)   \nZhao W,ChenSP,HanXG,etal.2O09.Efectsof long-termgrazingonthemorphologicaland functional traitsof Leymus chinensis in the semiarid grassland of Inner Mongolia,China.Ecological Research,24(1): 99-108.   \nZheng SX,LanZC,LiWH,etal.2O.Diferentialresponsesofplant functioal trait tograzing betweentwocontrasting dominant C3and C4 species in a typical steppe of Inner Mongolia,China. Plant and Soil,34O(1-2):141-155.   \nZheng SX,LiWH,Lan ZC,et al.2015.Functional trait responsesto grazing are mediatedbysoil moisture and plant functional group identity. Scientific Reports,5:18163. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

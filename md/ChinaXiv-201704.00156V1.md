@@ -1,0 +1,165 @@
+# DOI:10.5846/stxb201510092038
+
+廖义善,卓慕宁,谢金波,韦高玲,郭太龙，谢真越，李定强.USLE/RUSLE模型中植被因子变化特征及其影响因素.生态学报,2017,37(6)1987-1993. LiaoYS,ZuieiGi,tseacUdUcc Sinica,2017,37(6) :1987- 1993.
+
+# USLE/RUSLE模型中植被因子变化特征及其影响因素
+
+廖义善1,²，卓慕宁¹，谢金波³，韦高玲}，郭太龙¹，谢真越1，李定强1，\*
+
+1广东省生态环境与土壤研究所，广东省农业环境综合治理重点实验室，广州510650  
+2中山大学地理科学与规划学院，广州510275  
+3广东省五华县水土保持试验推广站，梅州514471
+
+摘要:植被因子是USLE/RUSLE模型中最重要的影响因子，其数值变化特征及其影响因素广受关注。以广东省五华县源坑水小流域2011—2013年的径流小区次降雨水沙观测数据为基础，分析了径流小区 $\boldsymbol { c }$ 值在不同时间尺度的变化特征及其受降雨、植被类型的影响。研究表明：(1)不同时段间 $\boldsymbol { c }$ 值存在一定波动,其中旱季的 $\boldsymbol { c }$ 值均大于雨季,夏秋两季的 $\boldsymbol { c }$ 值较大,且较为接近。各径流小区的 $C$ 值普遍存在11、8、7月较大,6、5、1月较小的现象,且草本植物 $\boldsymbol { c }$ 值受植被覆盖度影响较大。(2)降雨量与径流小区 $\boldsymbol { c }$ 值呈正相关关系,桉树、松树、糖蜜草径流小区 $\boldsymbol { c }$ 值与次降雨量、各降雨量区间平均值的相关系数分别为 $0 . 3 6 0 ^ { * * }$ 、$0 . 3 4 9 ^ { * * }$ ${ } _ { , 0 . 2 9 1 } { } ^ { * * }$ $0 . 9 1 2 ^ { \ast } \ 、 0 . 9 0 9 ^ { \ast } \ 、 0 . 8 2 2$ ,相较于草本植物,木本植物的 $\boldsymbol { c }$ 值受降雨影响更大，仅以植被盖度衡量 $\boldsymbol { c }$ 值有待商榷。(3)相较裸土小区,桉树、松树、糖蜜草小区2011—2013 年的土壤流失减幅分别为 $1 4 . 2 \% , 2 1 . 5 \% , 2 3 . 2 \%$ ,其 $\boldsymbol { c }$ 值分别为0.814、$0 . 7 4 8 \ 、 0 . 7 7 2 \mathrm { , } 3$ 种植物中糖蜜草与松树均具有相对较好的水保效益,桉树的水保效益稍逊。
+
+关键词：植物因子；侵蚀量;影响因素；时间变化
+
+# Variations in vegetation cover factors and their influence on USLE and RUSLE
+
+LIAO Yishan1,²,ZHUO Muning'，XIE Jinbo³，WEI Gaoling'，GUO Tailong1，XIE Zhenyue’,LI Dingqiang1   
+1GuangdongKbofcalototosteofdlec Guangzhou 510650,China   
+2 School of Geography and Planning,Sun Yat-sen University,Guangzhou 510275,China   
+3 Wuhua Soil and Water Conservation expanding Station of Guangdong Province，Meizhou 514471,China
+
+Abstract：Vegetation factorsare the most important influenceson USLE/RUSLE models.Theobserved data forrunoff and sedimentyieldsfromfieldrunoffplotsbetween2O11and2O13,theirvariationcharacteristics，andtheimpactsofrainfall and vegetation types on the $\boldsymbol { c }$ values were analyzed for different time scales.The results showed that:（1）The $C$ values fluctuatedbetweenseasons.The values were higherforsummerandthefall than forspring and winter,and were similar for summer and fall.Furthermore，dry seasons show higher $C$ values than wet seasons.Specifically，higher values were found in November，August，and July，and lower values were observed in June，May，and January. The $C$ values for herbs were significantly affected by the vegetation coverage.（2）The $C$ values were positively correlated with rainfall volume，and the correlation coefficients between the $C$ values and rainfall volume for individual rainfall events were ${ 0 . 3 6 0 } ^ { * * }$ ， $0 . 3 4 9 ^ { \ast \ast }$ ，and （204 $0 . 2 9 1 ^ { \ast \ast }$ forthe eucalyptus and pine trees，and Melinis minutiflora runof plots，respectively.Thecorrelation coefficients for average interval rainfall volume and the $C$ values were $0 . 9 1 2 ^ { \ast }$ ， $0 . 9 0 9 ^ { * }$ ，and O.822 for the eucalyptus and pine trees ，and
+
+Melinis minutiflora runoff plots，respectively.The rainfall volume had a much stronger influence on the $C$ values for the woody plants compared with the herbaceous plants，suggested that the $C$ values could not be determined by the vegetation coverage alone.（3）Acomparisonof therunoff plotsforbaresoil showed thatthevolumeof soil lost was reduced by $1 4 . 2 \%$ ， $2 1 . 5 \%$ ，and $2 3 . 2 \%$ ，and the $C$ values were O.814，O.748，and O.772 for the eucalyptus and pine trees，and Melinis minutiflora runoffplots，respectively.Theresultsshowed that Melinis minutifloraand pinetrees were betterat conserving soil and water than eucalyptus.
+
+Key Words:vegetation factors ；soil erosion；significant factors；temporal variation
+
+植被茎叶可以削弱雨滴的能量,其根系也可耗散降水径流的侵蚀能量[,植被覆盖对降低土壤侵蚀量具有重要意义[2-5]。在现今使用最为广泛的土壤流失方程(USLE)和修正通用土壤流失方程(RUSLE)中均采用植被覆盖与管理因子[5-6]（简称 $C$ 因子）,定量表达植物对土壤侵蚀的影响,其值介于0—1之间，其值越大土壤侵蚀越严重[7-8]。 $C$ 因子是USLE/RUSLE 模型中最重要的影响因子,依据其的定量描述,可人为控制土壤侵蚀[9]。对 $C$ 因子的研究源于20世纪50 年代的美国[7],而我国 $C$ 因子研究始于20 世纪80 年代[10],相关学者在植被盖度与 $C$ 因子数值关系式[11-13]、不同作物及管理措施下的 $C$ 因子数值变化[14]、流域及区域尺度的 $C$ 因子估算[15]以及 $C$ 因子与遥感影像波段关系式[16-17]等方面做了大量而富有成效的研究。但现有 $\boldsymbol { C }$ 因子数值(简称 $C$ 值)研究多关注于农作物不同生育阶段的植被覆盖度差异对 $C$ 因子的影响[18-19],而华南红壤区多常绿木本植物,其植被盖度季节性变化较小、林下雨溅蚀作用依然较强，其影响 $\boldsymbol { c }$ 值变化的主导因素（植被盖度或降雨)可能与农作物有所不同。而当前关于自然生植物 $C$ 值变化,特别是降雨对 $C$ 值的影响研究还较少。此外,以往研究多依据 $C$ 因子的定义计算 $\boldsymbol { c }$ 值,忽略了不同植被或耕作条件下土壤 $K$ 因子的差异[18]。当前华南红壤区植被类型、植被盖度、降雨及土壤交互影响下的 $C$ 因子变化情况尚不明确。为此,笔者利用2011年1月—2013年12月的野外径流小区水沙观测数据,对华南红壤区几种常见植物的 $C$ 值变化及其影响因素进行了相关研究，以期为相关植物水保效益综合评价提供参考。
+
+# 1研究区域
+
+研究区位于韩江上游,广东省五华县境内,地属亚热带海洋季风气候区,台风多,降雨量大且集中。多年平均日照时数为 $1 9 6 9 \mathrm { ~ h ~ }$ ,平均气温 $2 0 . 5 ~ \mathrm { ^ { \circ } C }$ ,无霜期315d,多年平均降雨量 $1 4 5 0 ~ \mathrm { m m }$ ,年蒸发量 $1 0 1 6 ~ \mathrm { { m m } }$ 。区域地貌以低山丘陵为主,地形复杂多样,沟壑密布,相对高程 $5 0 { - } 2 0 0 \mathrm { ~ m ~ }$ 。区域内普遍存在深厚的花岗岩风化壳,一般可达数米、数十米,甚至百米,土壤主要为花岗岩风化发育的亚热带性红壤,含沙量较高， $\mathrm { \ p H }$ 值为4.5-6之间,土壤结构松散,抗冲、抗蚀性均较差,绝大部分表土已被蚀去。地表植物主要有马尾松、桉树、桃金娘、芒萁、蔗鸪草等。山脚、沟谷等水分条件较好的地方有木荷、黎索、樟树等分布,覆盖度一般在 $10 \%$ 一$30 \%$ ,少数阴坡植被覆盖度可达 $6 0 \%$ 一 $8 0 \%$ 。
+
+# 2研究方法
+
+# 2.1 径流泥沙测算
+
+研究区内崩岗发育活跃,坡面坡度普遍较大。五华县水土保持试验推广站在五华县华城镇源坑水小流域布设有坡度为 $3 0 ^ { \circ }$ 的水土保持试验径流小区(表1),经测定裸土坡面仅有零星杂草生长,植被盖度在 $10 \%$ 以下;桉树、松树的植被覆盖率均为 $4 0 \%$ ;糖蜜草、木荷的植被覆盖度为 $6 0 \%$ （由于糖蜜草、木荷小区建设之初,植被覆盖以糖蜜草为主,以下均简称糖蜜草小区)。小区降雨径流及泥沙采用水泥浇筑的固定径流桶进行收集,每次降雨过后读取每个径流桶中的水沙体积,然后用铁锹将径流桶中的水沙充分搅匀,再分别用容量为1L的塑料瓶采集每个径流桶中搅拌均匀的泥沙水样,并在采样后将径流桶的水沙排尽,准备收集下一次降雨的小区地表径流。将采集的水样带回实验室称重后,将水样静置,去除上层清水,将沉淀泥沙移至铝盒,并放至烘箱，在 $1 0 5 ~ \mathrm { { ^ { \circ } C } }$ 条件下将泥沙烘干6— $^ { - 8 \mathrm { ~ h ~ } }$ 后，称量获得1L泥沙水样中所含泥沙重量,再通过径流桶中的水沙体积,换算出每个径流小区单次降雨所产生的泥沙总量。本研究对径流小区的监测时段为2011年1月—2013年12月。
+
+Table 1Situation of runoff plots   
+
+<html><body><table><tr><td>小区名称 Runoff plots</td><td>坡长(m)×宽度(m) Slope lengthXwidth</td><td>坡度/(°) Slope gradient</td><td>坡向 Slope aspect</td><td>植被类型 Plants types</td></tr><tr><td>裸土小区</td><td>20×5</td><td>30</td><td>西南</td><td>无</td></tr><tr><td>桉树小区</td><td>20×5</td><td>30</td><td>西南</td><td>桉树</td></tr><tr><td>松树小区</td><td>20×5</td><td>30</td><td>西南</td><td>松树</td></tr><tr><td>糖蜜草小区</td><td>20×5</td><td>30</td><td>西南</td><td>糖蜜草、木荷</td></tr></table></body></html>
+
+\*桉树小区建设时布设植物为桉树和松树,后由于物种竞争,在本监测时段基本仅剩下桉树
+
+# 2.2 $K$ 因子测定
+
+径流小区在建设之初，同一坡面的土壤 $K$ 因子也许可视为一致,但其上经过数年的植被生长，其 $K$ 因子可能会发生变化。故本研究在计算 $C$ 值时考虑了土壤 $K$ 因子的差异,采用Williams 等人在EPIC（Erosion-ProductivityImpact Calculator)模型中发展的土壤可蚀性因子 $K$ 值估算方法[20],测算各径流小区的土壤 $K$ 值。其计算公式为：
+
+$$
+K = \{ 0 . 2 + 0 . 3 e ^ { \big [ - 0 . 0 2 5 6 S _ { a } \big ( 1 - \frac { S _ { i } } { 1 0 0 } \big ) \big ] } \big \} \left( \frac { S _ { i } } { C _ { l } + S _ { i } } \right) ^ { 0 . 3 } \left[ 1 - \frac { 0 . 2 5 C } { C + e ^ { ( 5 . 7 2 - 2 9 5 C ) } } \right] \left[ 1 - \frac { 0 . 7 S _ { n } } { S _ { n } + e ^ { ( - 5 . 5 1 + 2 . 9 5 _ { x } ) } } \right]
+$$
+
+式中， $K$ 为土壤可蚀性因子； $S _ { a }$ 为砂粒含量（2- $- 0 . 0 5 \ \mathrm { m m }$ ） $( \% )$ ： $S _ { i }$ 为粉砂含量 $\left( 0 . 0 5 { \ - - 0 . 0 0 2 } \ \mathrm { m m } \right) \left( \% \right) ; C _ { l }$ 为粘粒含量( $< 0 . 0 0 2 \ \mathrm { m m }$ ） $( \% )$ ; $C$ 为有机碳含量 $( \% )$ $S _ { n } = 1 { - } S _ { a } / 1 0 0$ ,式中各参数均采取实测方法确定。
+
+表1径流小区概况  
+表2径流小区土壤粒径组成及 $\pmb { K }$ 因子值  
+Table 2Soil particle composition and soil erodibility（ $K$ factor）of runoff plots   
+
+<html><body><table><tr><td>小区 Runoff plots</td><td>砂粒含量/% Sand content</td><td>粉砂含量/% Silt content</td><td>粘粒含量/% Clay content</td><td>有机质/% Organic matter</td><td>K值 K factor</td></tr><tr><td>裸土小区</td><td>40.200</td><td>25.200</td><td>34.600</td><td>0.489</td><td>0.249</td></tr><tr><td>桉树小区</td><td>36.600</td><td>27.600</td><td>35.800</td><td>0.447</td><td>0.263</td></tr><tr><td>松树小区</td><td>40.700</td><td>26.800</td><td>32.500</td><td>0.212</td><td>0.262</td></tr><tr><td>糖蜜草小区</td><td>41.300</td><td>24.000</td><td>34.700</td><td>0.292</td><td>0.248</td></tr></table></body></html>
+
+# 2.3 （20 $C$ 值计算
+
+根据USLE方程的定义， $C$ 值为有植被覆盖或实施田间管理的土壤流失量与同等条件下清耕休闲地上的土壤流失量之比(式2)。而实际情况由于植被覆盖和管理措施的差异,各径流小区的土壤 $K$ 因子数值未必相同。因而本研究采用USLE 模型比值法（式3），求取各径流小区的 $\boldsymbol { c }$ 值。本研究中所有径流小区的 $S L , P$ 值均一致,此外在同一地点相同时间段内各径流小区的 $R$ 因子也近似一致,裸土坡面径流小区,其 $C _ { \dot { \pi } \sharp , \sharp }$ 值可近似为1。因而(式3)可简化、变换为(式4）,基于2011年1月—2013年12月的次降雨水沙监测数据,将不同时段的土壤流失量监测数据及径流小区 $K$ 因子值代入（式4），可计算出径流小区不同时间尺度的 $\boldsymbol { C }$ 值。
+
+$$
+C _ { \dot { \mathtt { H H M } } } = \frac { A _ { \dot { \mathtt { H H } } \dot { \Psi } J } } { A _ { \dot { \mathtt { H M } } \stackrel {  } { \scriptscriptstyle \overrightarrow { \mathtt { H M } } } } }
+$$$$
+\begin{array} { r l } { C _ { \mathrm { i f f } \oplus \mathrm { ~ } } = \frac { \cos \omega } { A _ { \mathrm { i f f } \oplus \mathrm { i f } } ^ { \mathrm { s e } } } } & { } \\  \frac { A _ { \mathrm { i f f } \oplus \mathrm { i f } } } { A _ { \mathrm { i f f } \oplus \mathrm { i f } } ^ { \mathrm { s e } } } = \frac { R _ { \mathrm { i f f } \oplus \mathrm { ~ } } \times \mathrm { ~ K _ { \mathrm { i f f } \oplus \mathrm { ~ } } \times ~ S L _ { \mathrm { i f f } \oplus \mathrm { ~ } } \times ~ C _ { \mathrm { i f f } \oplus \mathrm { ~ } } \times P _ { \mathrm { i f f } \oplus \mathrm { i f } } } { R _ { \mathrm { i f f } \ominus \mathrm { i f } } ^ { \mathrm { s e } } \times \mathrm { ~ K _ { \mathrm { i f f } \oplus \mathrm { i f } } ^ { \mathrm { s e } } \times ~ S L _ { \mathrm { i f f } \oplus \mathrm { i f } } ^ { \mathrm { s e } } \times ~ C _ { \mathrm { i f f } \oplus \mathrm { i f } } ^ { \mathrm { s e } } \times P _ { \mathrm { i f f } \oplus \mathrm { i f } } ^ { \mathrm { s e } } } } } & { } \\ { C _ { \mathrm { i f f } \oplus \mathrm { ~ } } = \frac { A _ { \mathrm { i f f } \oplus \mathrm { i f } } \times \mathrm { ~ K _ { \mathrm { i f f } \oplus \mathrm { i f } } ^ { \mathrm { s e } } \times ~ K _ { \mathrm { i f f } \oplus \mathrm { i f } } ^ { \mathrm { s e } } } } { A _ { \mathrm { i f f } \oplus \mathrm { i f } } ^ { \mathrm { s e } } \times \mathrm { ~ K _ { \mathrm { i f f } \oplus \mathrm { i f } } ^ { \mathrm { s e } } \times ~ K _ { \mathrm { i f f } \oplus \mathrm { i f } } ^ { \mathrm { s e } } } } } & { } \end{array}
+$$
+
+http://www.ecologica.cn
+
+式中，A为土壤流失量； $R$ 为降雨和径流侵蚀因子； $K$ 为土壤可蚀性因子； $S L$ 为地形因子； $C$ 为植被覆盖与管理因子; $P$ 为治理措施因子。
+
+# 3结果与分析
+
+# 3.1 $C$ 值季节变化
+
+据公式4计算出各径流小区2011年1月—2013年12月间春（3—5月）、夏(6—8月）、秋（9—11月）、冬（12—2月）、雨季(4—10月)及旱季(11—3月)的 $C$ 值见表3。
+
+表3各径流小区 $c$ 值季节变化  
+Table 3Seasonal change of Factor $c$ Value in runoff plots   
+
+<html><body><table><tr><td rowspan="2">小区 Runoff plots</td><td colspan="6">C 值Factor C Value</td></tr><tr><td>春</td><td>夏</td><td>秋</td><td>冬</td><td>雨季</td><td>旱季</td></tr><tr><td></td><td>Spring</td><td>Summer</td><td>Fall</td><td>Winter</td><td>Rainy season</td><td>Dry season</td></tr><tr><td>桉树小区</td><td>0.779</td><td>0.831</td><td>0.836</td><td>0.727</td><td>0.810</td><td>0.841</td></tr><tr><td>松树小区</td><td>0.684</td><td>0.783</td><td>0.765</td><td>0.686</td><td>0.740</td><td>0.804</td></tr><tr><td>糖蜜草小区</td><td>0.723</td><td>0.797</td><td>0.781</td><td>0.827</td><td>0.762</td><td>0.837</td></tr></table></body></html>
+
+如表3所示,各径流小区 $\boldsymbol { c }$ 值随季节变化有所不同,其中桉树、松树小区为 $( C _ { \mathfrak { F } \mathfrak { k } } \approx C _ { \sharp } ) > ( C _ { \sharp } \approx C _ { \sharp } )$ ,糖蜜草小区为 $C _ { \lessgtr } { > } ( C _ { \lessgtr } { \approx } C _ { \ast k } ) { > } C _ { ☉ }$ 。各径流小区中 $C _ { ☉ }$ 与 $C _ { \bar { \ * } k }$ 数值较为相近,桉树,松树,糖蜜草夏秋两季 $\boldsymbol { c }$ 值变幅分别为 $0 . 6 6 \% . 2 . 2 7 \% . 2 . 0 5 \%$ ;桉树、松树小区中 $C _ { \sharp }$ 与 $C _ { \lessgtr }$ 数值亦较为接近,二者变幅分别为 $6 . 5 9 \% . 0 . 3 7 \%$ 而糖蜜草小区的 $C _ { ☉ }$ 与 $C _ { \lessgtr }$ 数值相差较大,变幅为 $1 2 . 5 7 \%$ 。所有小区均呈现 $C _ { \sharp \sharp \sharp } > C _ { \sharp \sharp \sharp }$ ,桉树、松树、糖蜜草小区雨季与旱季的 $C$ 值变幅分别为 $3 . 6 3 \% . 8 . 0 3 \% . 8 . 9 2 \%$ ,其中桉树的变幅最小,糖蜜草小区变幅最大。不同植物 $\boldsymbol { c }$ 值随季节变化情况表明，夏秋两季各径流小区的 $C$ 值均较为稳定,而春冬两季木本植物 $C$ 值较草本植物稳定，这可能主要受植被覆盖变化影响。桉树小区的 $\boldsymbol { C }$ 值受雨旱季节演替变化较小，表明桉树具有一定的抗旱、抗涝性能,其水保效益受旱涝影响较小,可能适宜旱涝频发区水土流失防护。
+
+不同植物径流小区间 $\boldsymbol { c }$ 值,在春、夏、秋三季均呈现 $C _ { \sharp \sharp \sharp \sharp } > C _ { \sharp \sharp \sharp \sharp } > C _ { \sharp \sharp \sharp \sharp }$ ,而在冬季却表现为 $C _ { \sharp \sharp \sharp \sharp } > C _ { \sharp \sharp \sharp \sharp } >$ $C _ { \sharp _ { \Delta } ^ { \wedge } \sharp \sharp }$ 。糖蜜草在冬季枯萎是导致糖蜜草小区 $C$ 值增大的关键因素,使得常绿性木本植物在冬季的水保效益要优于草本植物。不同植物间 $C$ 值在春、夏、秋、冬的差异系数分别为 $0 . 0 7 , 0 . 0 3 , 0 . 0 5 , 0 . 1 0$ ,在冬季各植物 $C$ 值差异性最大,夏季差异性最小。在雨季和旱季的 $C$ 值均呈现 $C _ { \sharp ; \sharp ; \sharp \sharp } > C _ { \sharp \sharp ; \sharp \sharp } > C _ { \sharp ; \sharp \sharp \sharp }$ 。松树在一年四季中其 $\boldsymbol { c }$ 值均为最小,这可能与松树为常绿乔木,四季植被覆盖变化较小,且密厚的冠层及散落地表的针叶能有效减低雨滴的溅蚀有关。表明在华南红壤区松树是一种具有较好、较稳定水保效益的植物。
+
+# 3.2 （204号 $C$ 因子月份变化
+
+图1为2011年1月—2013年12月各植物径流小区 $\boldsymbol { c }$ 因子月均值变化情况,其中桉树小区为： $C _ { 1 1 } { > } C _ { 8 } >$ $C _ { 1 2 } \mathrm { > } C _ { 4 } \mathrm { > } C _ { 1 0 } \mathrm { > } C _ { 7 } \mathrm { > } C _ { 9 } \mathrm { > } C _ { 5 } \mathrm { > } C _ { 6 } \mathrm { > } C _ { 2 } \mathrm { > } C _ { 3 } \mathrm { > } C _ { 1 }$ ;松树小区为：（2 $C _ { 1 1 } > C _ { 8 } > C _ { 7 } > C _ { 4 } > C _ { 9 } > C _ { 1 2 } > C _ { 2 } > C _ { 3 } > C _ { 6 } > C _ { 5 } > C _ { 1 } > C _ { 1 0 }$ ;糖蜜草小区为： $C _ { 2 } > C _ { 4 } > C _ { 1 1 } > C _ { 8 } > C _ { 7 } > C _ { 3 } > C _ { 6 } > C _ { 9 } > C _ { 1 2 } > C _ { 1 0 } > C _ { 5 } > C _ { 1 }$ 3种植物径流小区 $C$ 值月际变化趋势较为一致，普遍存在11、8、7、4等月份 $C$ 值较大,6、5、1等月份 $C$ 值偏小的现象。由图1所示，各径流小区，特别是木本植物径流小区 $\boldsymbol { c }$ 值月际变化趋势与降雨变化趋势较为近似。桉树、松树、糖蜜草径流小区在各月份间的差异系数分别为 $0 . 1 1 , 0 . 1 0 , 0 . 1 4$ 。在同等降雨条件下，不同植物的
+
+![](images/ecc78fc3ab069d334c64037fe848b669e9087bd43add45235ba9ef0261883631.jpg)  
+图1 $c$ 因子月均值  
+Fig.1Monthly mean of factor $c$ value
+
+$C$ 值月际变化差异,可能与不同植物的月际植被覆盖变化有关。木本植物特别是松树,一年中植被覆盖变化较小,而糖蜜草年内植被覆盖变化较大,致使其 $\boldsymbol { c }$ 值差异系数最大。
+
+在1月、2—4月、5—12月这3个时段的最大 $C$ 值小区分别为松树、糖蜜草、桉树小区。其中1月为 $C _ { \xi _ { \Delta } , \xi \xi } >$ $C _ { \sharp ; \sharp ; \sharp \sharp } > C _ { \sharp \sharp ; \sharp } : 2 , 3 , 4$ 月为 $C _ { \sharp \sharp \sharp \sharp } > C _ { \sharp \sharp \sharp \sharp } > C _ { \sharp \sharp \sharp \sharp }$ ;5、6、8、9、10、11月的 $C$ 因子月均值顺序为 $C _ { \sharp _ { \sharp } ^ { \sharp } * \sharp } > C _ { \sharp _ { \sharp } ^ { \sharp } \sharp _ { \sharp } ^ { \sharp } } > C _ { \sharp _ { \sharp } ^ { \wedge } * \sharp } ;$ 7、12月为 $C _ { \sharp _ { \sharp } ^ { * } + \sharp } > C _ { \sharp _ { \sharp } ^ { * } + \sharp } > C _ { \sharp _ { \sharp } ^ { * } \sharp _ { \sharp } ^ { * } } .$ 。不同小区的 $\boldsymbol { C }$ 值变化可能受植被类型及降雨影响,2—4月糖蜜草处于从枯萎到萌芽的过程，该时段糖蜜草的植被盖度亦为全年最小,使得在相同降雨条件下,该时段糖蜜草的 $C$ 值为3种植物中最大。据调查2月份是糖蜜草植被覆盖度最小的月份，如图1所示,2月份糖蜜草 $\boldsymbol { c }$ 值为全年最大,表明了草本植物 $C$ 值受植被覆盖影响较大。而在同等降雨条件下,几乎整个雨季桉树小区的 $\boldsymbol { c }$ 值均为最大,表明桉树 $C$ 值可能受降雨影响较大,这可能也是桉树小区较其它植物小区更易发生水土流失的原因。此外,经差异性统计分析发现，桉树与松树的 $\boldsymbol { c }$ 因子月均值差异显著( $P { < } 0 . 0 5 )$ ,而桉树与糖蜜草、糖蜜草与松树的 $\boldsymbol { c }$ 因子月均值差异不显著( $P { > } 0 . 0 5 )$ ,并非木本植物间的 $C$ 值差异就比草木植物间 $C$ 值的差异小,表明草本植物与木本植物 $C$ 值是受植被盖度、降雨、树形及下垫面交互作用的结果,草本植物与木本植物株高差异的影响不占主导。
+
+# 3.3 $C$ 因子与降雨的关系
+
+降雨是水土流失的主要外营力，其对 $C$ 值大小具有重要影响[9]。将次降雨量与桉树,松树,糖蜜草小区的 $\boldsymbol { c }$ 值进行相关分析表明，其具有一定的相关关系，其相关系数分别为 $0 . 3 6 0 \textsuperscript { * * }  { \small o . 3 4 9 } \textsuperscript { * * }  { \small o . 2 9 1 } \textsuperscript { * * } \left(  { n = 1 3 1 } \right)$ 。在次降雨时间尺度，其 $\boldsymbol { c }$ 因子值受植被覆盖等因素影响的差异性较大，降雨量与 $C$ 值的相关性可能受其影响。故将次降雨量划分为10—20、20—30、30—40、$4 0 { - } 5 0 \ 、 > 5 0 \ \mathrm { m m }$ 等5个降雨区间（据统计该径流小区能产流的降雨量下限为 $1 0 \ \mathrm { m m }$ )，求取每个降雨区间的平均次降雨量。如图2所示，各植被小区 $C$ 值均随降雨区间的增大而增大，在各降雨区间内，桉树，松树，糖蜜
+
+80 桉树: $y = 0 . 0 4 4 x + 0 . 6 3 7$ $R ^ { 2 } = 0 . 8 4 9$ 0.90 松树： $\gamma = 0 . 0 4 2 \mathrm { x } + 0 . 5 7 2$ （20 $R ^ { 2 } = 0 . 7 5 0$ （20   
+70 糖蜜草: $y = 0 . 0 4 3 \mathrm { x } + 0 . 5 9 0$ R²=0.588 0.85   
+6050   
+40 0.70   
+30 0.65 雨量 桉树 值   
+20 中 松树 糖蜜草 0.60 C 桉树 松树   
+10 0.55 糖蜜草   
+0 0.50 10\~20 20\~30 30\~40 40\~50 >50 降雨量区间 rainfall range/mm
+
+草的 $C$ 值与其降雨区间内的平均次降雨量呈现较好的正相关关系，其相关系数分别为， $\cdot 0 . 9 1 2 ^ { \mathrm { ~ * ~ } } , 0 . 9 0 9 ^ { \mathrm { ~ * ~ } } , 0 . 8 2 2$ ${ \binom { n = 5 } { n = 5 } }$ 。在不同降雨量区间内,植被覆盖等影响因素此消彼长,其影响的差异性较次降雨尺度较小,降雨对 $C$ 值的影响作用显现,降雨量与 $\boldsymbol { c }$ 值的相关关系较次暴雨尺度有所增强。通过各植物 $C$ 值与降雨的相关系数表明，与草本植物相比,木本植物的 $C$ 值受降雨影响更大。这可能植物的植株高度有关，木本植物植株普遍较高,其林下雨滴的落差远大于草下雨滴的落差,使得林下雨滴对地表的溅蚀力依然较大,并影响其 $\boldsymbol { c }$ 值大小。
+
+# 3.4 $C$ 因子与植被类型的关系
+
+在一般情况下,植物在生长过程中随着生长年限的增加,乔灌植物的生物量会有所增加,其植被覆盖度也会相应的提高，其 $C$ 值会相应下降。由表4可知，在2011一2013年间各径流小区 $\boldsymbol { c }$ 值呈现如下变化：按树小区为 $C _ { 2 0 1 1 } < C _ { 2 0 1 2 } < C _ { 2 0 1 3 }$ ,松树、糖蜜草小区为 $C _ { 2 0 1 1 } < C _ { 2 0 1 3 } < C _ { 2 0 1 2 }$ 。各径流小区 $\boldsymbol { c }$ 值并未随着时间的推移、植被覆盖的增大而呈现减小的趋势,且桉树 $C$ 值与桉树覆盖度变化趋势刚好相反,表明桉树 $C$ 值受覆盖度影响较小。而桉树 $C$ 值变化趋势恰与同期降雨量的变化趋势一致,可见相较植被覆盖度,桉树 $\boldsymbol { c }$ 值可能受降雨的影响更大。这可能与桉树的下垫面、树形及植株高度变化有关。桉树林下杂草较少,多为裸露,致使桉树林地表对降雨及径流的消能作用较差。加之桉树树冠较高,树形笔直,使得桉树的林下雨滴仍具有较大的溅蚀力，且树干流长驱直下,冲刷裸土地表,致使桉树在同等降雨条件下,更易于发生水土流失， $C$ 值偏大。此外,随着桉树生长年限的增加,其植株高不断增大,林下降雨的溅蚀作用也随之增强。降雨对桉树 $\boldsymbol { c }$ 值的影响增强,致使桉树随着树龄的增加， $C$ 值随之增大。可见在降雨作用下，木本植物 $C$ 值除受植物覆盖度影响外,其植株高的影响亦不容忽视。通过对各径流小区次降雨间 $C$ 值差异性分析发现，各径流小区次降雨 $C$ 值变异系数分别为：0.18(桉树） $< 0 . 2 3$ （松树） $< 0 . 3 0$ （糖蜜草）。在同一降雨条件下，木本植物的 $C$ 值较草本植物的稳定。由于植物 $\boldsymbol { c }$ 值变化主要受降雨[9]及植物覆盖度[1-13]影响,而由前3.3分析可知,木本植物受降雨的影响要大于草本植物,因而可以认为草本植物较大的 $C$ 值变幅可能主要是由于植被季节性覆盖度变化造成的。
+
+由表4可知,2011年、2013 年各径流小区的 $C$ 值呈现 $C _ { \sharp _ { \sharp } ^ { * } \sharp _ { \sharp } ^ { * } } > \ C _ { \sharp _ { \sharp } ^ { * } \sharp _ { \sharp } ^ { * } } > \ C _ { \sharp _ { \sharp } ^ { * } \sharp _ { \sharp } ^ { * } }$ ,2012年呈现 $C _ { \sharp _ { \sharp } ^ { \sharp } \sharp \sharp } > C _ { \sharp _ { \sharp } ^ { \sharp } \sharp \sharp } >$ （204 $C _ { \psi _ { L } ^ { \lambda + \lambda } }$ 。依据 2011—2013 年各小区的侵蚀模数及 $K$ 值计算出桉树、松树及糖蜜草小区的 $C$ 值分别为0.814、0.748、0.772。3年间松树的 $\boldsymbol { C }$ 值均为最小,而松树小区的植被覆盖度与桉树小区接近,且小于糖蜜草小区,可见仅用植被盖度来衡量植物 $C$ 值有待商榷。虽然3年间糖蜜草小区的 $C$ 值均大于松树小区，但期间各径流小区侵蚀模数均呈现 $A _ { \mathit { t r a m } ; \mathit { b a l f } } { > } A _ { \mathit { t r a m } ; \mathit { b a l f } } { > } A _ { \mathit { t r a m } ; \mathit { b a s s } ; \mathit { t r a m } }$ ,这可能是由于 $K _ { \# \# \# } > K _ { \# \# \# } > K _ { \# \# \# }$ 造成的。可见植被对水土流失的影响不仅体现为截雨、消能,也体现在对土壤物理性质的影响上。此外,相较裸土小区,桉树、松树、糖蜜草小区的水土流失减幅分别为 $1 4 . 2 \% , 2 1 . 5 \% , 2 3 . 2 \%$ ,均具备一定的水保效益。松树及糖蜜草均具有相对较好的水保效益,桉树略逊,应加强桉树林的林下植被保护和恢复。
+
+表4各小区侵蚀模数及 $c$ 值年际变化  
+Table 4Annual variability of factor $c$ Value and erosion modulus   
+
+<html><body><table><tr><td rowspan="2">小区 Runoff plots</td><td colspan="3">侵蚀模数 Erosion modulus /(t km-² a-1)</td><td colspan="3">C 值Factor C value</td></tr><tr><td>2011</td><td>2012</td><td>2013</td><td>2011</td><td>2012</td><td>2013</td></tr><tr><td>裸土小区</td><td>2625.14</td><td>2955.32</td><td>5879.05</td><td>1</td><td>1</td><td>1</td></tr><tr><td>桉树小区</td><td>1976.05</td><td>2595.05</td><td>5256.69</td><td>0.715</td><td>0.834</td><td>0.849</td></tr><tr><td>松树小区</td><td>1617.18</td><td>2499.57</td><td>4882.11</td><td>0.587</td><td>0.806</td><td>0.791</td></tr><tr><td>糖蜜草小区</td><td>1549.26</td><td>2496.21</td><td>4749.78</td><td>0.594</td><td>0.850</td><td>0.813</td></tr></table></body></html>
+
+# 4结论
+
+(1)各径流小区 $\boldsymbol { C }$ 值随季节变化有所不同,其中木本植物呈现( $\langle C _ { \mathfrak { z } \mathfrak { k } } \approx C _ { \sharp } ) > \ d ( C _ { \sharp } \approx C _ { \sharp } \ d ) ,$ ,草本植物呈现$C _ { \mathcal { Z } } { > } ( C _ { \Xi } { \approx } C _ { \mathcal { Z } k } ) { > } C _ { \mathcal { Z } }$ ,且均呈现 $C _ { \mp \frac { 1 } { 4 } \mp 5 } { > } C$ 雨季。
+
+(2)在1月、2—4月、5—12月的3个时段的 $\boldsymbol { c }$ 值最大值径流小区分别为松树、糖蜜草、桉树小区,各径流小区间普遍存在11、8、7、4等月份 $C$ 值较大,6、5、1等月份 $\boldsymbol { c }$ 值偏小的现象,相较木本植物,草本植物的 $\boldsymbol { c }$ 值受植被覆盖影响更强。
+
+(3)降雨对 $C$ 值大小具有重要影响,各植被径流小区 $\boldsymbol { c }$ 因子值均和降雨区间呈现较好的线性关系，且由于木本植物植株较高,林下雨滴的溅蚀作用依然较大,使得相较于草本植物,木本植物的 $\boldsymbol { c }$ 值受降雨影响更大些。
+
+(4)3年间桉树、松树、糖蜜草小区的 $C$ 值分别为0.814、0.748、0.772,但由于 $K _ { \# \# \# } > K _ { \# \# \# } > K _ { \# \# \# }$ ,小区间的侵蚀量仍呈现 $A _ { \mathit { t r a c } ; \mathit { t b f } } { > } A _ { \mathit { t r a c } ; \mathit { t b f } } { > } A _ { \mathit { t b f f } \mathit { t s c } ; \mathit { t a c } \mathit { t } }$ ,植被对水土流失的影响不仅体现为截雨、消能,也表现为对土壤物理性质的影响。3种植物中糖蜜草、松树水保效益相对较好,桉树略逊。
+
+# 参考文献（References）:
+
+[1］余新晓，张学霞，李建牢，张满良，谢媛媛.黄土地区小流域植被覆盖和降水对侵蚀产沙过程的影响.生态学报，2006,26(1）：1-8.  
+[2］吴秉礼，石建忠，谢忙义，贺立勇，陈小华，赵军营.甘肃水土流失区防护效益森林覆盖率研究.生态学报，203,23（6)：1125-1137.  
+[3]WangZWangGJ,LiCZ,WangFX.Apreliaryudyegetatierdaisanditsalcatios.ieceininasD:Earth Sciences，2005，48(5）:689-700.  
+[4]Schonbrodt S,SaumerP,Behrens T,Seber C,Scholten T.Assessing the USLE cropand management factor $C$ for soil erosion modeling in a largemountainous watershed in Central China.Journal of Earth Science，2O10,21(6）：835-845.
+
+http://www.ecologica.cn
+
+[5］Kinnell PIA. Modelling event soil losses using the $\mathrm { Q _ { R } E I _ { 3 0 } }$ index within RUSLE2.Hydrological Processes,2014,28(5）： 2761-2771.  
+[6]WischeerW,mithDPredictigRinfallErosioLoseAudetsevatioPagAgriculturalandbokWasoDC：USDA-ARS.1978.  
+[7]WischeeopgagntfctorauatiosfovesalolsaioSlecietyfecaJl6(4):322-326.  
+[8]OzhanSazacizalbulakFereilYovedaagtfctorfothUivesalSsstiortecosystems in the Marmara region，Turkey.Forest Ecology and Management,2O05,214（1/3）：118-123.  
+[9]ZaouJQAsaligeoeatfcodsliinsslateofteaaalof Environmental Research and Public Health,2013，10(10）：4752-5766.  
+[10］张岩，袁建平，刘宝元.土壤侵蚀预报模型中的植被覆盖与管理因子研究进展.应用生态学报，2002，13（8)：1033-1036.  
+[11］蔡崇法，丁树文，史志华，黄丽，张光远.应用USLE 模型与地理信息系统IDRISI预测小流域土壤侵蚀量的研究.水土保持学报，2000,14(2):19-24.  
+[12］刘宝元，毕小刚，符素华，魏欣，李永贵，段淑怀，袁爱萍，陆炳军，谢云，章文波，叶芝菡，曾宪勤，徐丽.北京土壤流失方程.北京：科学出版社，2010：72-77.  
+[13］江忠善，王志强，刘志.黄土丘陵区小流域土壤侵蚀空间变化定量研究.土壤侵蚀与水土保持学报，1996,2（1)：1-9.  
+[14］唐寅，代数，蒋光毅，史东梅,陈正发.重庆市坡耕地植被覆盖与管理因子C值计算与分析.水土保持学报,2010,24(6)：53-59.  
+[15] Cinnirela，IovinF，PortoFeroVAnti-erosiveectivenessofEucalyptusoicestougheovermanagementfactortate.Hydrological Processes，1998，12(4）:635-649.  
+[16]KfM,shoK,etiaanYsesstandapngofsolosioiskyateinTsiuingtieesODSdataPddterEnvironment，2012，10(1)：59-73.  
+17]KefetesseBatta watershed in Tunisia.Environmental Earth Sciences,2O11,64(3）：707-719.  
+[18］张岩，刘宝元，史培军，江忠善.黄土高原土壤侵蚀作物覆盖因子计算.生态学报，2001,21（7)：1050-1056.  
+[19]Gabriels D,Ghekiere G，Schiettecatte W，Rottiers I. Assessment of USLE cover-management $\boldsymbol { C }$ -factors for 40 crop rotation systems on arable farmsin the Kemmelbeek watershed,Belgium.Soil and Tillage Research，20O3，74(1）：47-53.  
+[20]WiliasRersioproductivipactalculato）odel：caseitoloocalTasactiosofoaSocietyBiological Sciences，1990,329(1255）：421-528.

@@ -1,0 +1,453 @@
+[
+    {
+        "type": "text",
+        "text": "西藏大花红景天RcCATs与RcSODs基因克隆及功能分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王宏鹏，李一丹，滕彦娇，陈成彬，张力鹏l（南开大学生命科学学院，天津300071)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为探究过氧化氢酶（catalase，CAT）和超氧化物歧化酶（superoxide dismutase，SOD）基因家族成员在西藏大花红景天高原恶劣生境适应性中的作用，利用生物信息学和实时荧光定量PCR技术对其RcCATs和 $R c S O D s$ 基因家族成员的序列和表达模式进行了分析，并构建RcCAT和 $R c S O D I$ 的 $\\mathsf { p Y E S 2 } . 0$ 表达载体与pGBKT7诱饵载体，分别进行了酵母胁迫分析和拟南芥酵母文库中互作蛋白的筛选。结果显示：（1）大花红景天中共有2条RcCAT基因，3条RcSOD基因和1条 $\\mathrm { C u / Z n ~ S O D }$ 铜伴侣基因RcCCS。生物信息学分析显示上述基因的氨基酸序列与其同源基因具有较高的相似性（ $6 6 . 3 7 \\% { \\sim } 9 4 . 5 1 \\%$ ），且均没有跨膜结构域，RcCATs位于过氧化物酶体，RcSODs和 $R c C C S$ 位于细胞质或线粒体。（2）qRT-PCR结果显示6个基因在根、茎、叶三个器官中均有表达且主要在叶片中表达，低温胁迫和植物激素ABA 对基因表达量的影响显著。（3）酵母胁迫结果显示异源表达 $R c C A T$ 和RcSOD1基因的阳性酵母菌株在冷、热、盐、碱、重金属和 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 胁迫下的细胞活力均比pYES2.0空载菌株高。（4)通过酵母双杂交共筛选到4个与RcCAT互作明显的基因AtbHLH121（AT3G19860）、AtCPCK2（AT2G23070）、AtGRP4（AT5G50750）和AtRAPTOR1B（AT3G08850），3个与RcSOD1互作明显的基因AtEMB（AT5G11890）、AtMBP2（AT1G52030）和AtRH8（AT4G00660）。以上结果表明，大花红景天能够通过 $R c C A T s$ 和RcSODs基因广泛参与调控其生长发育、胁迫响应等代谢途径来适应高原恶劣的环境。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大花红景天，过氧化氢酶，超氧化物歧化酶，生物信息学，表达模式，互作蛋白",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cloning and fuction analysis of RcCATs and RcSODs genes ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "in Tibet Rhodiola crenulata ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Hongpeng,LI Yidan, TENG Yanjiao, CHEN Chengbin, ZHANG Lipeng (Collegeof life sciences,Nankai University,Tianjin 30o071, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to explore the role of catalase (CAT） and superoxide dismutase (SOD） in plateau environment adaptation of Tibet Rhodiola crenulata, the RcCATs gene family members and RcSODs gene family members were analyzed by bioinformatics and real-time quantitative PCR. Spot assay was conducted to study the responses of yeast cells expressing the RcCAT and RcSODl genes under abiotic stress. Yeast two-hybrid was conducted to screen interacting proteins from Arabidopsis yeast library respectively by constructing bait vectors of RcCAT and $R c S O D I$ The results were as follows: (1） There were two CAT genes, three SOD genes, and $\\mathrm { { C u / Z n } }$ SOD copper chaperone gene $( R c C C S )$ ，six genes held high sequence identity $( 6 6 . 3 7 \\% 9 4 . 5 1 \\% )$ ）with other homologous species.All genes had no transmembrane domain and held multiple phosphorylation amino acides. Subcellular localization predicted that RcCATs located in peroxisoma, RcSODs and RcCCS located in cytoplasm or Mitochondria.(2) qRT-PCR analysis showed that RcCATs and RcSODs were constitutively expressed in three organs like root, stem and leaf and held the high expression levels in leaf, and all genes expression levels could also be regulated by low temperature and plant hormones (ABA). RcCAT was significantly up-regulated under cold treatment condition with the highest expression in leaf more than two times higher than root. RcCAT， RcSOD2，RcSOD3 and RcCCS expression patterns were similar under ABA treatment condition. (3) In addition, spot assay showed that the recombinant RcCAT and RcSOD1 yeast cells showed a higher cell viability than the pYES2.0 yeast cells in under cold, hot, NaCl, $\\mathrm { N a } _ { 2 } \\mathrm { C O } _ { 3 }$ ， $\\mathrm { C o } ^ { 2 + }$ and $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ .(4) The pGBKT7-RcCAT and pGBKT7-RcSOD1 bait plasmid without toxicity and auto-activation were constructed to perform yeast two-hybrid screening, then four significant interactional genes with RcCAT were screened, which were AtbHLH121 (AT3G19860), AtCPCK2 (AT2G23070)，AtGRP4 (AT5G50750) and AtRAPTOR1B (AT3G08850).Total three significant interactional genes with RcSODl were screened, which were AtEMB (AT5G11890), AtMBP2 (AT1G52030) and AtRH8 (AT4G00660). These results ilustrated that RcCATs and RcSODs could play an important role in regulating growth and promoting resistance to environmental stresses in Tibet Rhodiola crenulata,and laid the foundation for in-depth study of the adaptive mechanism of Rhodiola crenulata with plateau environment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Rhodiola crenulata，catalase， superoxide dismutase， bioinformation， expressionpattern, interaction proteins",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大花红景天（Rhodiolacrenulata）是一种多年生草本植物，为景天科红景天属，主要分布于我国的青藏高原及其毗邻一带，包括西藏，云南，四川等地。中国药典记载大花红景天干燥根及根茎中含有多种活性成分，如红景天苷，酪醇及其衍生物，具有益气活血，通脉平喘的功能（Pharmacopoeia,2010）。现代生物医学研究证明，大花红景天根部浸出液能够保护神经，治疗抑郁，焦虑，癌症等多种疾病（Quetal.,2012;Yuan etal.,2020）。但是其生长环境较为严酷，主要分布于海拔 $3 5 0 0 { \\sim } 5 0 0 0 \\mathrm { m }$ 的山坡草地、大块石灰岩的缝隙中，因这些地带常伴有寒冷，低氧，强紫外照射等环境特点，使得大花红景天的采集和研究应用都十分困难（Fuetal.,2017）。目前分子生物学研究多集中于大花红景天活性成分及其种质资源多样性研究，关于其生境适应性的分子机制，尚缺乏丰富的报道（Ma etal.,2007;Gyorgy etal.,2009）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "活性氧（reactive oxygen species，ROS）是一类广泛存在于植物体内的小分子，包括超氧阴离子（ $| 0 ^ { 2 - } |$ ）、羟自由基（OH）、过氧化氢（ $\\mathrm { . } \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ）等。ROS对植物的影响是双向的，取决于它在植物体内的浓度（张梦如等,2014）。在正常生长条件下，ROS 可经光合作用和呼吸作用中电子传递链产生。当植物受到干旱，冷，热，强光，病害等外界环境压力时会诱发产生大量 ROS（Suzuki et al.,2012; Munne-Bosch et al.,2013）。过量ROS 会引起蛋白质，脂质，核酸等大分子损伤，改变生物膜流动性，诱发细胞程序性死亡（Gisele etal.,2014；张晓宇等，2020）。因此植物细胞需严格控制ROS 的含量以使其在复杂多变的环境中生存下来（D'Autréaux＆Toledano,2006）。过氧化氢酶（catalase，CAT）是维持 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 平衡、参与氧化还原反应和离子结合等过程的重要酶（Scot etal.,1999），超氧化物歧化酶（superoxidedismutase,SOD）是一种能够清除 $\\mathrm { O } ^ { 2 }$ 的抗氧化金属酶，包括 $\\mathrm { C u / Z n ~ S O D }$ 、Mn SOD、FeSOD和 Ni SOD四种类型（马伟荣等,2013）。研究表明，CAT和 SOD基因广泛参与植物对冷害、盐害、重金属毒害、病原菌等胁迫的应答以维持体内ROS 含量的动态平衡。如羊茅在受到冷和高盐胁迫时，其叶片中FaCat1基因表达量显著增加（杨文龙等,2006）。矮牵牛中过表达紫花苜蓿 $\\mathrm { C u / Z n  – S O D }$ 基因，能够有效提高其耐冷性（平璐,2016）。水稻中过表达OsCu/Zn-SOD基因后，转基因植株的活性氧清除能力提高，耐盐性增强（廖栩,2019）。柑橘CsKat01基因通过调控CAT酶活，改变 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 含量进而影响柑橘对溃疡病的抗性（祁静静等,2020）。目前已鉴定出多个物种的CATs 和 SODs。例如，拟南芥（Arabidopsis thaliana）中鉴定出了3个 CAT 和7个 SOD 基因家族成员（Kliebenstein et al.,1998; Vandenabeele et al.,2004），水稻（Oryza sativa）（Nath et al.,2014）和高梁（Sorghum bicolor）（FiLiZ&TOMBULOGLU,2015）中均鉴定出8个SOD基因家族成员。鉴于大花红景天所生长的环境为极地高原气候，在其生活史中寒冷、低氧、强紫外线照射等恶劣环境因子必然引起光合作用、呼吸作用及其他代谢途径的变化，其中较为直接的影响即为活性氧的动态变化。因此，我们提出CAT和SOD基因可能对于西藏大花红景天适应特殊生境具有重要的作用。然而，目前对大花红景天及其红景天属植物尚没有相关基因的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了进一步研究RcCATs 和RcSODs基因家族的功能，本研究以西藏大花红景天为材料，对ROS 途径中的CAT和SOD基因家族成员进行克隆，基于在线软件和实时定量PCR对其生物信息学和特异性表达进行分析，并构建RcCAT和RcSOD1的酵母表达载体与酵母双杂交诱饵载体，分别进行酵母胁迫分析和筛选拟南芥酵母文库中的互作蛋白，以揭示西藏大花红景天对其高原恶劣环境适应的分子机制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究材料为西藏大花红景天，于2015年7月采集自西藏地区米拉山山脉（海拔4868.4m、 $9 2 . 3 4 ^ { \\circ } \\mathrm { E }$ 、 $2 9 . 7 8  { ^ \\circ }  { \\mathrm { N } } )$ ）。经南开大学宋文芹教授鉴定为景天科药用植物大花红景天。部分材料经液氮速冻后保存于 $- 8 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ；其余材料以叶片为外植体进行组织培养获得无菌再生苗并进行后续实验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1基因序列扩增 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RcCATs、RcSODs和RcCCS基因序列来源于本实验室已完成的转录组数据库，基于denovo 拼接的unigene注释信息，分别以CAT和SOD为关键词对数据库进行检索，获得RcCATs、RcSODs和RcCCS序列，然后根据所获得的基因序列设计特异性引物扩增全长，以大花红景天叶片cDNA为模板进行PCR反应，用PCR产物纯化试剂盒纯化后与pMD19-Tvector 连接，转化大肠杆菌DH5α感受态细胞，在氨苄抗性平板上进行筛选，经菌液PCR和电泳检测后，挑选阳性克隆送上海生工测序。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2总RNA提取与cDNA第一条链的合成",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总RNA提取依照改良CTAB-异丙醇法进行（张力鹏等,2017）。利用可见光分光光度计NanoDrop1000 检测RNA的纯度和浓度，并利用 $1 \\%$ 琼脂糖凝胶电泳检测其完整性。cDNA第一条的合成利用反转录酶M-MLV（Takara,Japan），采用 ${ 5 0 \\mu \\mathrm { L } }$ 体系，反转录总RNA量为 ${ 5 } { \\mu \\mathrm { g } } { \\mathrm { R N A } }$ 。将反转产物用无菌dd $_ \\mathrm { H _ { 2 } O }$ 稀释10倍后 $- 2 0 \\mathrm { ~ \\textdegree ~ }$ 保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3生物信息学分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过生物信息学在线网站对获得的RcCATs、RcSODs和RcCCS基因氨基酸序列进行分析。利用 blastx（https://blast.ncbi.nlm.nih.gov/Blastx）进行序列验证；利用ORF Finder（http://www.bioinformatics.org/sms2/orf_find.html）获得编码框；利用 blastp 寻找同源基因（https://blast.ncbi.nlm.nih.gov）；利用 DNAMAN 计算 RcCATs、RcSODs 和 RcCCS与各自同源基因的同源性比值;利用 ProtComp 分析基因的亚细胞位置(http:/linux1.softberry.com/);利用TMHMMServer，v.2.0分析基因的跨膜结构域有无（http://www.cbs.dtu.dk/services/TMHMM/）；利用ExPASy预测蛋白质理化性质(https://web.expasy.0rg/protparam/）（张世鑫等,2021；解盛等,2021）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4基因表达分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "组织特异性表达分析，采用同一株组培苗的根，茎，叶三个器官。非生物胁迫采用低温诱导，将处于同一生长时期的组培苗浸于冰水混合物中黑暗胁迫处理0、3和 $\\mathrm { ~ 7 ~ d ~ }$ 。植物激素脱落酸（ABA）诱导，将同一生长时期的组培苗浸于含有 $5 0 ~ \\mathrm { \\textmu m o l { \\cdot } L ^ { - 1 } }$ ABA的MS 液体培养基中，黑暗处理6、24、36h，每个处理均为3个生物学重复。胁迫处理后，所有材料均经无菌水洗净并擦干后于液氮速冻， $\\boldsymbol { - 8 0 } ^ { \\mathrm { ~ \\circ ~ } } \\mathrm { C }$ 超低温保存。胁迫处理材料的叶片用于提取总RNA（张力鹏等,2019）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5实时定量PCR",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用 Bio-Rad 公司荧光定量PCR仪iQ5 进行qRT-PCR，检测目的基因在不同组织和不同胁迫条件下表达水平。反应体系为 $2 0 { \\mu \\mathrm { L } }$ ，包含 $1 0 ~ \\mu \\mathrm { L }$ SYBRGreen（Takara, Japan），1 μLcDNA， $0 . 5 ~ \\mu \\mathrm { L }$ 上下游引物。以RcGAPDH为内参基因，每个样品均采用三次生物学重复（Zhang et al., 2018）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.6酵母表达载体构建和胁迫分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用无缝克隆法构建大花红景天RcCAT和RcSOD1的pYES2.0表达载体，大肠杆菌阳性克隆经菌液PCR 和 Sanger 测序验证。将空载质粒、重组载体质粒按照 LiTE/PEG 法转入酿酒酵母 INVSCI中。分别挑取 INVSCI（pYES2.0、pYES2.0-RcCAT、pYES2.0-RcSOD1）单克隆于 $2 0 ~ \\mathrm { m L }$ 含 $2 \\%$ 葡萄糖的 SC/-Ura 液体培养基中， $3 0 \\mathrm { ~ \\textdegree C } / 1 8 0 \\mathrm { r p m }$ 培养至 $\\scriptstyle \\mathrm { O D 6 0 0 = 0 . 5 - 0 . 8 }$ （20之间。收集菌体重悬于含 $2 \\%$ 半乳糖的 SC/-Ura 液体培养基中，调整 $\\mathrm { O D } 6 0 0 { = } 2 . 0$ ， $3 0 \\mathrm { ~ \\textdegree ~ } / 1 8 0$ rpm 诱导 $2 4 \\mathrm { h }$ 。将诱导后的阳性菌株按照10倍梯度稀释，取 $6 { \\mu \\mathrm { L } }$ 分别滴于不同YPDA平板中进行胁迫处理。胁迫条件为热胁迫： $3 7 \\mathrm { ~ \\textdegree C }$ 处理1d；冷胁迫： $- 2 0 \\mathrm { ~ \\textdegree C }$ 处理 $6 \\mathrm { h }$ ；过氧化氢胁迫：YPDA平板中加入0.8、1.6、 $3 . 2 \\mathrm { m m o l } { \\cdot } \\mathrm { L } ^ { - 1 } \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ；盐胁迫：YPDA平板中加入200、$4 0 0 , \\ 6 0 0 \\mathrm { m m o l { \\cdot } L ^ { - 1 } N a C l }$ ；重金属和碱胁迫：平板中加入 $\\boldsymbol { 5 } , \\ 1 0 \\ \\mathrm { m m o l { \\cdot } L ^ { - 1 } C o C l _ { 2 } }$ 或 $2 0 \\mathrm { m m o l } { \\cdot } \\mathrm { L } ^ { - 1 }$ $\\mathrm { N a } _ { 2 } \\mathrm { C O } _ { 3 }$ 。将上述平板倒置于 $3 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 培养箱中培养3d后拍照（Wang etal.,2008）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$1 . 2 . 7 R c C A T$ 和 $R c S O D I$ 自激活鉴定与互作蛋白筛选",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "酵母双杂交筛选拟南芥文库依 Clontech 公司Matchmaker Gold Yeast Two-Hybrid SystemUserManual说明书进行。构建RcCAT和 $R c S O D I$ 基因的诱饵载体，通过LiTE/PEG法转化Y2HGold菌株。经菌液PCR验证阳性菌并进行自激活和毒性验证，以排除基因本身对杂交结果的影响。然后进行文库筛选，将诱饵载体与文库混合后涂布于 SD/-Trp-Leu-His $+ \\beta$ -gal培养基进行初筛，挑选蓝斑菌落摇菌提取质粒。利用T7/3'AD 进行扩增和测序，根据测序结果确定基因。最后，将比对后的阳性克隆，正对照pGBKT7-53+pGADT7-T，负对照pGBKT7- RcCAT(RcSOD1)+pGADT7 分别滴于 SD/-Trp-Leu、SD/-Trp-Leu-His 和 SD/-Trp-Leu$+ \\beta$ -gal培养基， $3 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 培养3d后拍照（Zhang etal.,2018）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1大花红景天RcCATs和RcSODs基因的鉴定与克隆",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因大花红景天没有参考基因组信息，同时NCBI网站公布的有关红景天属基因序列多为DNA 条形码。因此为解决其基因序列的缺乏，本实验室对西藏大花红景天进行转录组测序。通过de novo 拼接技术获得unigenes 序列并进行功能注释。最终得到2条编码过氧化氢酶CAT 的基因分别命名为RcCAT和RcCAT1，得到3条编码超氧化物歧化酶 SOD的基因分别命名为RcSOD1、RcSOD2、RcSOD3，1条编码超氧化物歧化酶的铜伴侣的基因RcCCS。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据各基因unigenes 序列分别设计引物，以大花红景天叶片cDNA为模板进行扩增，扩增产物经 $1 \\%$ 琼脂糖凝胶电泳检测，结果见图1。由结果可知RcCAT和RcCATI基因长度均为1479 bp，编码492个氨基酸，分子量稍有不同，RcCAT为 56701.04 道尔顿，RcCAT1为 56 818.29 道尔顿。RcSOD1 和 RcSOD2基因编码 $\\mathrm { { C u / Z n } }$ SOD，核苷酸大小为471/669 bp,编码156/222个氨基酸，分子量为16070.12/21870.7道尔顿；RcSOD3基因编码Fe SOD，核苷酸数量为 $8 0 4 ~ \\mathrm { b p }$ ，可编码267个氨基酸，蛋白质分子量为30816.31道尔顿。RcCCS基因大小为 $1 0 0 8 { \\mathrm { b p } }$ ，编码335个氨基酸。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2de3cdef727a64eb2a0eb3a0457c9934da4e2ddd83b31d0c49fbac8b65f8a06.jpg",
+        "img_caption": [
+            "图1大花红景天CAT、SOD、CCS 基因 PCR 扩增电泳图Fig.1PCR amplification electrophoresis result of CAT, SOD, CCS gene of Rhodiolacrenulata"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2大花红景天RcCATs、RcSODs和RcCCS基因生物信息学分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对大花红景天 $R c C A T s , R c S O D s$ 和RcCCS基因的氨基酸序列进行分析，通过在线BlastP比对，获得NCBI数据库中的同源基因，利用DNAMAN计算各自基因与其同源基因的序列相似度，并利用多个在线网站基于其氨基酸序列进行分析。结果显示，6个基因与其同源基因的序列一致性在 $60 \\%$ 以上，以 $R c C A T$ 基因最高为 $9 5 . 5 1 \\%$ ，RcCCS基因最低 $6 6 . 3 7 \\%$ ，各自同源基因均为双子叶植物，且尚未下载到景天科红景天属的相关序列。蛋白质理化性质分析结果显示RcCAT1和RcSOD3蛋白质的等电点高于7.0，其余4个基因为酸性蛋白质并以RcCCS的等电点最低为5.7。脂溶指数均在 $70 \\%$ 以上，其中RcSOD1、RcSOD2较高分别为91.86 和88.93，说明其为明显的脂溶性蛋白。总平均亲水性除RcSOD2（0.085）外，其他均为负值，说明具有一定的亲水性。此外，对跨膜结构域和其发挥生物学功能的主要亚细胞位置进行分析，结果显示6个基因均没有跨膜结构域，RcCATs 定位于过氧化物酶体，RcSOD1、RcSOD2定位于细胞质，RcSOD3和 $R c C C S$ 定位于线粒体。蛋白激酶磷酸化位点预测结果显示6个基因均具有可磷酸化氨基酸位点，说明可能受到蛋白磷酸激酶的调控（表1）。利用MEGA7.0 构建RcCATs 和RcSODs的N-J进化树，结果显示RcCAT基因与雷蒙德氏棉（Gossypiumraimondii）的遗传距离最近，而 RcCATl与所列物种的CAT基因遗传距离较远。RcSOD1与猕猴桃（Actinidia chinensis）最近，RcSOD2与甜瓜（Cucumis melo）最近，RcSOD3与笋瓜（Cucurbitamaxima）、苦瓜（Momordica charantia）遗传距离最近，见图2。表1大花红景天RcCATs、RcSODs和RcCCS基因序列信息",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6bd9e86476f8c8c1bc0042f49620c11e7bb9250d1e197adde21bdfae78eff656.jpg",
+        "table_caption": [
+            "Table 1RcCATs,RcSODs and RcCCS genes information in Rhodiola crenulata "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因名 Gene name</td><td>RcCAT</td><td>RcCAT1</td><td>RcSOD1</td><td>RcSOD2</td><td>RcSOD3</td><td>RcCCS</td></tr><tr><td>ORF长度 ORF length</td><td>1479 bp</td><td>1479 bp</td><td>471 bp</td><td>669 bp</td><td>804 bp</td><td>1008 bp</td></tr><tr><td>同源物种</td><td>Macleaya</td><td>Sesamum</td><td>Actinidia</td><td>Sedum</td><td>Cucurbita</td><td>Eucalyptus</td></tr><tr><td>Homologous species</td><td>cordatai</td><td>indicum</td><td>chinensis</td><td>alfredii</td><td>maxima</td><td>grandis</td></tr><tr><td>同源基因</td><td>OVA00608.1</td><td>NP_0012913</td><td>PSS36275.1</td><td>AII25434.1</td><td>XP_0229900</td><td>XP_0100555</td></tr><tr><td>Homologous gene 一致性</td><td></td><td>26.1</td><td></td><td></td><td>32.1</td><td>75.1</td></tr><tr><td>Identity</td><td>94.51%</td><td>80.89%</td><td>82.05%</td><td>84.19%</td><td>70.22%</td><td>66.37%</td></tr><tr><td>分子量</td><td>56 701.04</td><td>56 818.39</td><td>16 070.12</td><td>21 870.7</td><td>30 816.31</td><td>35 456.2</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/24da6091c93b010ce0b625fb766bf990431d20b0d6afe319f6a61458b207433f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">MolecularWeight(D)</td></tr><tr><td>等电点 Isoelectric point</td><td>6.8</td><td>7.35</td><td>6.74</td><td>6.23</td><td>8.83</td><td>5.7</td></tr><tr><td>脂溶指数</td><td>71.32</td><td>74.49</td><td>91.86</td><td>88.93</td><td>76.33</td><td>84.69</td></tr><tr><td>Aliphatic index</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均亲水性</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Average hydrophilic</td><td>-0.561</td><td>-0.541</td><td>-0.201</td><td>0.085</td><td>-0.416</td><td>-0.042</td></tr><tr><td>value</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>磷酸化位点</td><td>39</td><td>43</td><td>5</td><td>17</td><td>23</td><td>52</td></tr><tr><td>Phosphorylation site</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>亚细胞定位</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Subcellular</td><td>Peroxisoma</td><td>Peroxisoma</td><td>Cytoplasm</td><td>Cytoplasm</td><td>Mitochondria</td><td>Mitochondria</td></tr><tr><td>localization</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>跨膜结构域</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Transmembrane</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td></td></tr><tr><td>domain</td><td></td><td></td><td></td><td></td><td></td><td>No</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2714629e6ec7ee4ba7fbb9dbf02c6f0753ca341d557447819bedff55ca9e668f.jpg",
+        "img_caption": [
+            "图2RcCATs 和RcSODs基因的N-J进化树Fig.2N-J phylogentic tree of RcCATs and RcSODs"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3RcCATs、RcSODs和RcCCS基因组织特异性表达模式",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因不同基因发挥其分子功能的部位不同，基因常具有组织器官表达特异性。利用实时定量PCR方法检测RcCATs、RcSODs和RcCCS基因的mRNA在三个组织部位（根、茎、叶）的表达水平，可进一步了解各基因在大花红景天生长周期内所扮演的角色。结果显示RcCATs基因的两个成员在不同组织的表达水平差异很大，相比于根组织，RcCAT在叶片中表达量最高呈2.5倍的显著差异，茎中的表达稍低，约为0.6左右；而RcCATI在叶片和茎中表达均较低，仅为根中的1/5。RcSODs基因的的表达模式十分相似，即在根与茎中表达量相近而远低于叶中的表达量，如RcSOD1在叶片中表达量是根茎中的2倍，RcSOD2可达4倍左右；RcSOD3基因在叶片中超表达是根的6.7倍，茎的3.7倍。RcCCS基因的表达模式与RcSOD2相似，在叶片中高表达是根/茎组织的3.5倍左右，如图3。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RcCAT RcCAT1\\*\\*2 灰 0.81.5 0.61 0.4\\*0.5 0.2 \\* \\*0 0A B C A B C不同部位Different parts 不同部位Different partsRcSOD1 RcSOD2  \nraersseeeeer 252 1.5 1 2.5 I.1 250.50.50 0A B C A B C不同部位Different parts 不同部位DifferentpartsRcSOD3 RcCCS  \nnrssseeeee 0765432 \\* 455251 11 0.50 0A B C A B C不同部位Different parts 不同部位Different parts  \nA．根；B.叶；C．茎。\\*表示显著性差异（ $P { < } 0 . 0 5$ ）；\\*\\*表示极显著性差异（ $P { < } 0 . 0 1$ ）。下同。  \nA. Root; B.Leef; C. Stem. \\* indicates significant differences $( P { < } 0 . 0 5 )$ ·， $^ { * * }$ indicates extremely  \nsignicant differences $( P { < } 0 . 0 1 )$ .The same below.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图3大花红景天RcCATs、RcSODs和RcCCS基因组织特异性表达模式图 Fig.3The figure of RcCATs, RcSODs and RcCCS tissue-specificity expression ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4冷胁迫与植物激素ABA诱导下RcCATs、RcSODs和RcCCS基因表达模式",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "大花红景天生长的环境恶劣，主要表现为温度较低，而低温会降低呼吸作用和光合作用速率，同时诱发产生大量活性氧，以阻碍植物的生长发育。因此对大花红景天组培苗进行了低温胁迫处理，以进一步分析RcCATs、RcSODs和RcCCS基因在低温诱导下的表达模式变化。结果显示 $R c C A T s$ 基因随着胁迫时间的延长表现出明显的上调趋势，尤其是RcCAT的表达量较对照组提高2倍左右；相反3个RcSODs基因的表达量呈下降趋势，仅RcSOD2在胁迫第7d时有微弱的上调趋势，且与RcCCS基因的表达模式一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "植物内源激素脱落酸（ABA）作为一种广泛应答胁迫的信号，在调节植物体内平衡以及提高胁迫耐受性方面发挥重要的作用，因此本研究绘制了大花红景天RcCATs、RcSODs和RcCCS基因在不同ABA处理时间下的表达谱。结果显示RcCATs的两个成员表达变化完全不同， $R c C A T$ 在胁迫 $2 4 \\mathrm { h }$ 时下调表达相比于对照组下降5倍以上；RcCATI上调表达可达对照组的6倍左右。RcSODs基因的3个成员中，RcSOD1随ABA胁迫时间的延长而下调表达仅为对照组的 $40 \\%$ ， $R c S O D 2$ 和 $R c S O D 3$ 表现出先下调后上调的趋势。此外，RcCCS基因的表达模式与 $R c S O D 2$ 一致，即 $2 4 \\mathrm { h }$ 下调表达， $3 6 \\mathrm { h }$ 上调表达，如图4。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "RcCAT RcCAT1 2.5   \near \\*\\* eger \\*\\* 2 65 \\*\\* 1.5 4 1 m 2 \\* 0.5 \\*\\* \\* 1 0 中 中 06 324 736 06 324 736 处理时间Treatment time(d/h) 处理时间Treatmenttime(d/h) RcSOD1 RcSOD2 T s   \n灰 0.8 0.6 \\* 水 0.4 \\* 事 0.2 0 06 324 736 06 324 736 处理时间Treatmenttime(d/h) 处理时间Treatmenttime(d/h) RcSOD3 RcCCS 1.2 1.6 aesseeeeegeree \\*\\* 1 0.8 \\*\\* 1 604 \\* 80604 \\* \\* 云 0.2 0.2 0 0 06 324 736 06 324 736 处理时间Treatmenttime(d/h) 处理时间Treatment time（d/h) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "0.低温处理0天；3.低温处理3天；7低温处理7天；6.脱落酸处理6小时；24．脱落酸处理24小时；36 脱落酸处理36小时。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "0. Low temperature treatment for O d; 3.Low temperature treatment for 3 d; 7. Low temperature treatment for 7 d; 6. Abscisic acid treatment for $\\cdot$ ; 24.Abscisic acid treatment for $2 4 \\mathrm { h }$ ;36. Abscisic acid treatment for $\\cdot$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图4大花红景天RcCATs、RcSODs和RcCCS基因响应低温和ABA胁迫表达水平 Fig.4Expression levels of RcCATs,RcSODs and RcCCS under cold and ABA treatment condition by qRT-PCR ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5RcCAT和RcSOD1的酵母异源表达与胁迫分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为进一步分析RcCATs 和RcSODs基因在调节大花红景天应对高原恶劣环境时的生理意义，我们分别构建了RcCAT和 $R c S O D I$ 的pYES2.0重组载体，并转入酿酒酵母菌株INVSCI中。如图5所示，在6种胁迫下，转pYSE2.0空载的酵母菌株生长的数量、菌斑大小和生命能力均不如RcCAT和RcSOD1基因的阳性菌株。低温处理6h后，空载菌株已失去了生活能力，而对RcCAT和 $R c S O D I$ 菌株影响较小；过氧化氢能够明显抑制酵母生长，空载菌株在1.6 和 $3 . 2 \\mathrm { m o l } { \\cdot } \\mathrm { L } ^ { - 1 }$ 时已基本失去了细胞活性，但异源表达RcCAT和RcSOD1的菌株仍可在细胞浓度较高时具备一定的生命能力；对于不同浓度的盐胁迫而言，对空载菌株的影响非常大，而对RcCAT和RcSOD1菌株影响较小；同样，重金属和 $\\mathrm { N a } _ { 2 } \\mathrm { C O } _ { 3 }$ 胁迫也对阳性菌株影响较低。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad8566e6aabe2ddf57defd2e1462087b746e6e6bf50601178920f0b4136b20eb.jpg",
+        "img_caption": [
+            "图5过表达RcCAT和RcSOD1基因的酵母非生物胁迫诱导分析 Fig.5Yeast abiotic stress induction analysis of RcCAT and RcSOD1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6RcCAT和RcSOD1互作蛋白的筛选",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了进一步研究RcCATs和RcSODs基因的功能，分别对RcCAT和RcSOD1基因进行克隆，并筛选拟南芥文库。首先验证其自激活活性和细胞毒性。如图6所示，转化pGBKT7-RcCAT和 pGBKT7-RcSOD1的酵母细胞均在 SD/-Trp 培养基上能正常生长，但在SD/-Trp-His 培养基上无法生长，负对照pGBKT7在 SD/-Trp-His 培养基上无法生长，正对照在 SD/-Trp-His 培养基上正常生长，表明RcCAT 和RcSOD1蛋白均没有自主激活活性和细胞毒性。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/630ff7291e8883953b747c8f9f69ebe0f5d98a474d7c22c973995c080b49408c.jpg",
+        "img_caption": [
+            "图6RcCAT和RcSOD1基因酵母自激活和毒性验证 ",
+            "Fig.6Transcription activity and toxicity detection of RcCATand RcSOD1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过拟南芥酵母文库筛选和点对点滴板验证，筛选到了4个与RcCAT互作明显的基因，分别为AtbHLH(AT3G19860）、AtCPCK2（AT2G23070）、AtGRP4（AT5G50750)和AtRAPTOR1B（AT3G08850）见图7；3个与RcSOD1互作明显的基因，分别是AtEMB（AT5G11890）、AtMBP2（AT1G52030）和AtRH8（AT4G00660）见图8。拟南芥文库数据库收录的基因功能描述见表2。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/97b7f9a0f5df04f458cd01661b58617dfdf58594cc81f50d939110f5f96b53d7.jpg",
+        "img_caption": [
+            "图7RcCAT互作蛋白验证"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0194c2a8a15e43292c8e6818a0c891379fe0c2e25ad928ef710135c3a30ae214.jpg",
+        "img_caption": [
+            "Fig.7Validation of interaction proteins for RcCAT ",
+            "图8 RcSOD1互作蛋白验证",
+            "Fig.8Validation of interaction proteins for RcSOD1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表2RcCAT和RcSOD1基因互作基因信息",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/65ce42b7b493a8ab24afe1201ed47b2b460c1e428eac22e5e372f0b4456fe1a0.jpg",
+        "table_caption": [
+            "Table 2Interaction genes function information of RcCAT and RcSOD1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">拟南芥基因</td><td colspan=\"2\"></td></tr><tr><td>号</td><td>基因大小</td><td>基因名</td><td>基因描述</td></tr><tr><td>Arabidopsis</td><td>Gene</td><td>Gene name</td><td>Description</td></tr><tr><td>gene ID</td><td>length</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/c1b2078b75cdc76072d719e7b9009991cdddaecb760f297b5bace49950c61f0d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>AT3G19860</td><td>1 014 bp</td><td>bHLH121</td><td>bHLH转录因子是缺铁信号途径的重要组成部 分。bHLH transcription factors are important</td></tr><tr><td>AT2G23070</td><td>1 299 bp</td><td>CPCK2</td><td>components of theiron deficiency signaling pathway. (Lei et al., 2020). ABA介导种子萌发，侧根发育和开花时间抑制的 功能。Functions in ABA mediated suppression of seed germination,lateral root development and</td></tr><tr><td>AT5G50750</td><td>1 095 bp</td><td>RGP4</td><td>flowering time (Wang et al., 2014). RGP4是可逆糖基化多肽。RGP4isareversibly glycosylated polypeptide (Rautengartenetal.,</td></tr><tr><td>AT3G08850</td><td>4 035 bp</td><td>RAPTOR1B</td><td>2011). 在刺激细胞生长和响应营养物质代谢方面发挥重 要作用。Plays a central role in the stimulation of cell growth and metabolism in response to nutrients</td></tr><tr><td>AT5G11890</td><td>864 bp</td><td>EMB</td><td>(Salem et al., 2017). 胚胎缺陷3135，harpin诱导的蛋白质。EMBRYO DEFECTIVE 3135, harpin-induced protein.</td></tr><tr><td>AT1G52030</td><td>1 929 bp</td><td>MBP2</td><td>可能参与硫代葡萄糖苷代谢并形成防御化合物以 防止食草动物进食。Maybeinvolved in metabolizing glucosinolates and forming defense</td></tr><tr><td>AT4G00660</td><td>1 518 bp</td><td>RH8</td><td>compounds to protect against herbivory. 类RNA 解旋酶-8。RNA helicase-like 8 (Huang et al., 2010).</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "活性氧作为植物体内源分子，一方面在正常条件下可由光合作用和呼吸作用中电子传递链产生；另一方面当外界环境发生改变时会引起生物膜系统或电子传递链的损伤，从而诱发产生大量 ROS，对细胞造成氧化损伤，因此ROS作为信号分子可直接参与植物对胁迫的应答。本研究中，共分离了ROS 清除途径中的2条CAT酶基因、3条 SOD酶基因和1条 SOD铜伴侣基因。组织表达特异性分析和亚细胞定位预测结果表明RcCATs基因主要在叶片中大量表达，亚细胞位置定位于过氧化物酶体，并受到低温胁迫诱导大量表达，这与羊茅FaCATI基因亚细胞定位于过氧化物酶体，其在冷处理的叶片中被显著诱导（杨文龙等,2006）以及表达小麦CAT基因的水稻提高了对低温胁迫的应答（Matsumuraetal.,2002）等研究结果相一致。同时，FaCAT1是一种i型过氧化氢酶，有报道称i型过氧化氢酶在叶片中高度表达并参与清除光呼吸中 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 的去除（Willekensetal.,1995）。因此RcCATs基因可能共同参与了大花红景天光呼吸作用和对外界胁迫的应答。此外，RcSOD2和RcCCS基因在组织表达特异性、低温或ABA胁迫诱导时的表达模式十分相近，推测RcCCS可能特异性将铜离子传递给 $R c S O D 2$ ，将其激活生成有活性的酶分子（Yamasakietal.,2009）。经同源序列比对，RcSOD1 和 RcSOD2 虽均编码Cu/Zn SOD，RcSOD3 编码Fe SOD，但 RcSOD1在低温下的表达模式与RcSOD3相似，在ABA诱导下的表达模式与RcSOD2有所差异。刘家林等人报道的水稻OsSODs基因也存在类似的情况，即同一类型基因在同一逆境下的表达量也有所不同（刘家林等,2018），说明RcSODs在大花红景天体内均可将超氧阴离子转变为过氧化氢，但存在功能上的冗余和分歧。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "通过构建表达载体pYES2.0，将RcCAT和 $R c S O D I$ 基因异源过表达于酿酒酵母菌株INVSCI中，并以空载质粒作为对照，分析其在不同处理下细胞生长的水平，结果可见RcCAT和RcSOD1均可应对冷、热、盐、碱、 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 、重金属等胁迫压力，班巧英等人将紫杆柽柳MnSOD基因转入酵母，也提高了酵母抵抗盐、碱和紫外线胁迫的能力（班巧英等,2008）。因此，推测两个基因在大花红景天体内可能直接参与ROS 分子的清除并协助其应对复杂的外界环境，同时，进一步证实了CAT 和 SOD基因能够广泛参与植物的非生物胁迫以维持体内 ROS 含量的平衡（陈金峰等,2008；刘家林等,2018）。此外，酵母双杂交也筛选到RcCAT基因的互作基因如AtbHLHI21，该基因为bHLH类转录因子，在铁元素缺乏时可引起磷酸化，继而诱导 $\\mathrm { H L H } 3 8 / 3 9 / 1 0 0 / 1 0 1$ 基因表达，这些转录因子反过来与FIT二聚化驱动IRT1和FRO2的基因的转录以增加铁的摄取（Lei etal.,2020）。另一互作基因AtCPCK2为质体酪蛋白激酶2，是叶绿体基质蛋白特异性Ser/Thr磷酸化酶，其活性可受到氧化还原信号调控,并可参与ABA 调控拟南芥种子的萌发和幼苗的生长(Wang et al.,2014;Kim et al.,2016)。说明了RcCAT或RcSOD1也可通过蛋白质-蛋白质相互作用调节植物的生长代谢网络，但其调控机理仍需进一步研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "大花红景天的生长发育与抗逆基因的表达密切相关。本研究已对大花红景天ROS 途径中2个关键基因RcCATs 和RcSODs进行分离和分析。分析表明，大花红景天的RcCATs 和RcSODs基因家族在进化过程中发生了分化，并广泛参与调控其生长发育、胁迫响应等代谢途径。这种发现有利于了解大花红景天应对高原恶劣环境的适应性，在随后的研究中借助转基因技术对其生境适应性机制进行深入研究，有望实现大花红景天的人工引种驯化和规模化、产业化种植，同时提高研究人员对高原植物生长繁衍的认知。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "BAN QY,LIU GF, JIANG J, et al., 2008, The roles of MnSOD from Tamarix androssowii in abiotic stress tolerance[J].Plant Physiol Comm,44(2): 211-214.[班巧英，刘桂丰，姜静， 等，2008．紫杆怪柳MnSOD 基因在非生物胁迫中的作用[J]．植物生理学通讯，44(2): 211-214.]   \nCHEN JF，WANG GN，CHEN SM， 2008. Progress about catalase function in plant stress reactions[J].Acta Bota Boreal-Occident Sin,(1):188-193.[陈金峰，王宫南，程素满，2008. 过氧化氢酶在植物胁迫响应中的功能研究进展[J]．西北植物学报，(1)：188-193.]   \nD'AUTREAUX B, TOLEDANO MB, 2007. ROS as signalling molecules: mechanisms that generate specificity in ROS homeostasis[J]. Nat Rev Mol Cell Biol, 8(1O): 813-824.   \nFILIZ E, TOMBULOGLU H, 2015. Genome-wide distribution of superoxide dismutase (SOD) gene families in Sorghum bicolor[J]. Turkish JBiol, 39: 49-59.   \nFU Y,LI L, HAO S, et al., 2017. Draft genome sequence of the Tibetan medicinal herb Rhodiola crenulata[J]. Gigascience, 6(6): 1-5.   \nGYORGY Z, JAAKOLA L,NEUBAUER P,et al.， 2009. Isolation and genotype-dependent, organ-specific expression analysis of a Rhodiola rosea cDNA encoding tyrosine decarboxylase[J]. JPlant Physiol, 166(14): 1581-1586.   \nHUANG TS,WEI T, LALIBERTE JF, et al.， 2010.A host RNA helicase-like protein,AtRH8, interacts with the potyviral genome-linked protein， VPg， associates with the virus accumulation complex,and is essential for infection[J]. JPlant Physiol,152(1): 255-266.   \nJIE S,LI GQ, SONG LX, et al., 2021. Bioinformatics analysis of Apocynum Venetum CesA gene family[J].Guihaia,41(4):522-534.[解盛，李国旗，宋立肖，等，2021．罗布麻CesA基 因家族的生物信息学分析[J]．广西植物，41(4)：522-534.]   \nKIM SY, BENDER KW, WALKER BJ, et al., 2016. The plastid casein kinase 2 phosphorylates rubisco activase at the Thr-78 site but is not essential for regulation of rubisco activation state[J]. Frontiers in plant science, 404(7): 1-24.   \nKLIEBENSTEIN DJ, MONDE RA, LAST RL,1998. Superoxide dismutase in Arabidopsis: An eclectic enzyme family with disparate regulation and protein localization[J]. Plant Physiol, 118: 637-650.   \nLEI RH,LI Y,CAI YR,et al.， 2020.bHLH121 functions as a direct link that facilitates the activation of FIT by bHLH IVc transcription factors for maintaining Fe homeostasis in Arabidopsis[J]. Mol Plant, 13(4): 634-649.   \nLIAO X, 2019. Tolerance analysis of chloroplast OsCu/Zn-SOD overexpressing rice under NaCl and ${ \\mathrm { N a H C O } } _ { 3 }$ stres[D].Harbin: Northeast Forestry University.[廖，2019．盐碱胁迫下过 表达超氧化物歧化酶基因OsCu/Zn-SOD 水稻耐性分析[D]．哈尔滨：东北林业大学.]   \nLIU JL, OYANG LJ, ZENG JL, et al.,2018. Genome-wide analysis of rice SOD gene family and expression research under stress[J].Mol Plant Breed,16(09): 2753-2760.[刘家林，欧阳林娟, 曾嘉丽，等，2018．水稻 SOD 基因家族的全基因组分析及逆境胁迫下表达研究[J].分子 植物育种，16(09):2753-2760.]   \nMA L Q, LIU B Y, GAO D Y, et al., 2007. Molecular cloning and overexpresson of a novel UDP-glucosyltransferase elevating salidroside levels in Rhodiola sachalinensis [J]. Plant Cell Rep, 26(7): 989-999.   \nMA W.R, TONG JM, SHAN CH,2013. The characteristics of superixide dismutase and its research in plant resistance[J].The Food Ind,34(9):154-158.[马伟荣，童军茂，单春会， 2013．超氧化物歧化酶(SOD)的特征及在植物抗逆性方面的研究进展[J]．食品工业, 34(9): 154-158.]   \nMATSUMURA T, TABAYASHI N, KAMAGATA Y, et al., 2002. Wheat catalase expressed in transgenic rice can improve tolerance against low temperature stress[J]. Plant Physiol, 116(3): 317-327.   \nMUNNE-BOSCH S, QUEVAL G, FOYER CH, et al., 2013. The impact of global change factors on redox signaling underpinning stress tolerance[J]. Plant Physiol, 161(1): 5-19.   \nNATH K, KUMAR S, POUDYAL RS, et al., 2014. Developmental stage-dependent differential gene expresson of superoxide dismutase isoenzymes and their localization and physical interaction network in rice (Oryza sativa L.)[J]. Genes Genom, 36: 45-55.   \nPASSAIA G, QUEVAL G，BAI J,et al.，2014. The effects of redox controls mediated by glutathione peroxidases on root architecture in Arabidopsis thaliana[J]. J Exp Bot, 65(5): 1403-1413.   \nPharmacopoeia. pharmacopoeia of the people's republic of China [M]. Beijing: Chemical Industry Press. 2010.   \nPING L, 2016. Over-expression of Ms Cu/Zn-SOD gene in Petunia hybrida and the cold tolerance analysis of transgenic plants[D]. Changchun: Jilin Agricultural University.[平璐， 2016．紫 花苜蓿Cu/Zn-SOD 基因在矮牵牛中的表达及其耐冷性分析[D]．长春：吉林农业大学.]   \nQI JJ, QIN XJ, XIE Y, et al.,2020. Correlation analysis of citrus catalase gene CsKat0l and citrus canker disease[J].Acta Hortic Sin,48(1):26-36.[祁静静，秦秀娟，谢宇，等，2020．过氧 化氢酶基因CsKat01与柑橘溃疡病相关性分析[J]．园艺学报，48(1):26-36.]   \nQU ZQ, ZHOU Y, ZENG YS, et al., 2012. Protective effects of a Rhodiola crenulata extract and salidroside on hippocampal neurogenesis against streptozotocin-induced neural injury in the rat[J]. Plos One, 7(1): e29641.   \nRAUTENGARTEN C, PETZOLD CJ, MUKHOPADHYAY A, et al., 2011. The interconversion of UDP-arabinopyranose and UDP-arabinofuranose is indispensable for plant development in Arabidopsis[J]. Plant Cell, 23(4): 1379-1390.   \nSCOTT LJ, RUSSELL GI, NIXON NB,et al.,1999. Oxidation of alphal-proteinase inhibitor by the myeloperoxidase-hydrogen peroxidase system promotes binding to immunoglobulin A[J]. Biochem Biophysiol Res comm, 255(3): 562.   \nSALEM MA,LI Y, WISZNIEWSKI A，et al.， 2017. Regulatory-associated protein of TOR (RAPTOR) alters the hormonal and metabolic composition of Arabidopsis seeds, controlling seed morphology, viability and germination potential[J]. Plant J, 92(4): 525-545.   \nSUZUKI N, KOUSSEVITZKY S,MITTLER R, et al., 2012. ROS and redox signalling in the response of plants to abiotic stress[J]. Plant Cell Environ, 35(2): 259-270.   \nVANDENABEELE S, VANDERAUWERA S, VUYLSTEKE M, et al., 2004. Catalase deficiency drastically affects gene expression induced by high light in Arabidopsis thaliana[J]. Plant J, 39(1): 45-58.   \nWANG BF, WANG CY, ZHANG DW, et al., 2008. Verification of the resistance of a LEA gene from Tamarix expression in Saccharomyces cerevisiae to abiotic stresses[J]. J Forestry Res, 19(1): 58-62.   \nWANG Y, CHANG H, HU S, et al., 2014. Plastid casein kinase 2 knockout reduces abscisic acid (ABA） sensitivity， thermotolerance，and expresson of ABA and heat-stress-responsive nuclear genes[J]. J Exp Bot, 65(15): 4159-4175.   \nWILLEKENS H, INZE D, VAN MONTAGU M, et al.,1995. Catalases in plants[J]. Mol Breed, 1(3): 207-228.   \nYAMASAKI H, HAYASHI M, FUKAZAWA M, et al., 2009. SQUAMOSA promoter binding protein-like7 is a central regulator for copper homeostasis in Arabidopsis[J]. Plant Cell 21(1): 347-361.   \nYANG WL, LIU JM, CHEN F, et al., 2006. Identification of Festuca arundinacea Schreb Cat1 catalase gene and analysis of its expression under abiotic stresses[J]. J Integr Plant Biol, 48(3): 334-340.   \nYUAN C， JIN YQ， YAO L，et al.， 2020. Rhodiola crenulata root extract ameliorates fructose-induced hepatic steatosis in rats: association with activating autophagy[J]. Biomed Pharmacotherapy, 125: 109836.   \nZHANG LP, HAN XY, CHENG LL, et al., 2019. Isolation and expression analysis of Cyp450 Genes in Tibet Rhodiola renulata[J].N Hortic,(18):116-127.[张力鹏，韩祥艳，成璐路， 等，2019．西藏大花红景天cyp450 基因的分离与表达分析[J]．北方园艺，(18):116-127.]   \nZHANG LP, WU M, TENG YJ, et al., 2018. Overexpression of the glutathione peroxidase 5 (RcGPX5) gene From Rhodiola crenulata Increases drought tolerance in Salvia miltiorrhiza[J]. Front Plant Sci, 9: 1950-1966.   \nZHANG LP, WU M, YU DS, et al., 2018. Identification of glutathione peroxidase (GPX） gene family in Rhodiola crenulata and gene expression analysis under stress conditions[J]. Int J Mol Sci, 19(11): 3329-3346.   \nZHAN LP, ZHANG YX, SONG WQ, et al., 2017. A highly efficient method of RNA extraction from Rhodiola plant[J]. Journal of Nankai University (Natural Science Edition), 50(6): 48-53. [张力鹏，张银兴，宋文芹，等，2017．红景天属植物叶片RNA 高效提取的方法[J]．南 开大学学报：自然科学版，50(6)：48-53.]   \nZHANG MR, YANG YM, CHENG WX, et al., 2014. Generation of reactive oxygen species and their functions and deleterious effects in plants[J]. Acta Bota Boreal-Occident Sin,34(9): 1916-1926.[张梦如，杨玉梅，成蕴秀，等，2014．植物活性氧的产生及其作用和危害[J]. 西北植物学报，34(9)：1916-1926.]   \nZHANG SX, WU SH, YANG SG, et al.,2021. Gene cloning and expression analysis of mediator HbMed25 in Hevea brasiliensis[J]. Guihaia. DOI:10.11931/guihaia.gxzw202005041.[张世 鑫，吴绍华，杨署光，等，2021．巴西橡胶树转录中介体HbMed25基因克隆与表达分 析[J/OL].广西植物.DOI:10.11931/guihaia.gxzw202005041.]   \nZHANG XY， YANG H, ZHANG Y,et al.， 2020. Effects of low temperature stress on physiological characteristics of Melaleuca alternifolia tissue culture seedlings[J]. Guihaia. DOI:10.11931/guihaia.gxzw202006020.[张晓宁，杨红，张烨，等，2020．低温胁迫对澳 洲茶树组培苗生理特性的影响[J].广西植物.DOI:10.11931/guihaia.gxzw202006020.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

@@ -1,0 +1,222 @@
+# 土地利用功能转型及其生态环境效应研究以吐鲁番市高昌区为例
+
+马鑫苗'，徐华君}²，古丽娜尔·麦麦提(1.新疆大学资源与环境科学学院,新疆 乌鲁木齐830046;2.绿洲生态教育部重点实验室，新疆 乌鲁木齐 830046)
+
+摘要：以吐鲁番市高昌区为例，利用1990、2000、2010年和2018年4期遥感影像解译获取研究区土地利用变化数据，基于格网尺度，综合运用土地利用转移矩阵、核密度估计、生态环境质量指数和生态贡献率等方法，定量分析研究期内高昌区城市化地区、农产品主产区、生态功能区三大主导功能区土地利用转型的时空格局特征及生态环境效应。结果表明：(1)1990—2018年高昌区三大主导功能区土地利用转型的空间格局表现为农产品主产区用地面积总体增加,城市化地区用地面积波动增长，生态功能区用地面积则呈现减少趋势。研究期内土地利用空间集聚性中部高于北部和南部，2018年北部的空间集聚性增强。(2)1990—2018年高昌区生态环境高质量区和低质量区在减少，较高质量区以及较低质量区在增多。中部有生态环境质量改善的趋势，而北部和西南部有生态环境退化的趋势，但总体退化趋势略小于改善趋势，生态环境质量趋向于良性发展。本文通过研究期内高昌区土地利用转型及其生态环境效应的定量分析，以期为协调高昌区土地资源的可持续利用与生态环境保护提供借鉴。
+
+关键词：土地利用功能转型；生态环境效应；高昌区
+
+# 文章编号：
+
+土地是人类主要社会经济活动的空间载体，是全球环境变化和可持续发展研究的重要组成部分[1-2]。自2008年国务院印发《全国土地利用总体规划纲要(2006一2020年)》，到2017年中共十九大报告，均体现国家对国土空间开发格局及生态文明建设的举措[3]。《中共中央关于制定国民经济和社会发展第十四个五年计划和二〇三五年远景目标的建议》提出要立足资源环境承载能力，发挥各地比较优势，逐步形成城市化地区、农产品主产区、生态功能区三大空间格局。这三大空间格局的提出，标志着国土空间开发方式由生产空间为主导转向由城市化地区、农产品主产区、生态功能区三大主导功能区并存的空间开发模式，在此背景下，将空间开发模式与区域转型发展相衔接，成为研究土地利用转型问题的新视角。
+
+土地利用转型这一概念是由英国地理学家Grainger在森林转型假说的启发下提出[4-5]。龙花楼等[在21世纪初把土地利用转型作为土地利用变化研究引入中国。土地利用转型是指在经济社会变革及创新驱动下，与经济社会发展阶段转型相对应的区域土地利用形态上的转变过程[7-8]。目前对于土地利用转型的研究角度主要是从土地利用转型的理论[9]、研究框架[10]、土地利用的隐性形态[11]土地利用转型的生态效应[12]及社会效应[13]等角度开展。其中，针对土地利用转型对生态环境效应进行研究的文献主要有以下2类：一是关于省域4、市域[15]和流域等自然地理单元[16]下土地利用转型与生态系统服务价值评估或者景观生态格局[]的相关研究；二是关于经济发达地区土地利用转型的驱动因素研究[18-19]。目前关于生态脆弱地区土地利用功能转型及其生态环境质量变化的定量研究尚少，已有研究典型性和借鉴性较低，
+
+吐鲁番市高昌区近年来经济发展迅速，人口不断向城市中心集中，建设用地的需求量持续增加;同时，因地处沙漠绿洲，属于典型的“经济相对落后的生态脆弱区”。因此，本文利用1990、2000、2010年和2018年4期土地利用现状遥感监测数据，基于$5 ~ \mathrm { k m } \times 5 ~ \mathrm { k m }$ 的格网尺度，从城市化地区、农产品主产区、生态功能区三大主导功能区出发，运用土地利用转移矩阵及核密度估计对高昌区1990—2018年的土地利用转型特征进行研究，并通过区域生态环境质量指数以及生态贡献率方法对研究期内高昌区土地利用转型的生态环境效应进行定量分析，以期为协调高昌区土地资源的可持续利用与生态环境保护提供借鉴。
+
+# 数据与方法
+
+# 1.1 研究区概况
+
+吐鲁番市高昌区位于东、南、北三疆交汇地，是丝绸之路经济带的交通枢纽和重要节点，区域总面积达 $1 3 6 5 0 5 5 { \mathrm { ~ k m } } ^ { 2 }$ ，下辖七乡二镇二场和2个办事处(图1)。以种植业为主，是天山北坡农产品主产区，葡萄、哈密瓜、棉花颇具盛名，是“一带一路"社会经济发展的重要生态功能平衡区，生态战略地位十分突出[20]。高昌区是我国典型的干旱区破碎绿洲,水资源匮乏，自然环境恶劣。近年来，随着旅游业和工业的发展，加剧了高昌区的生态环境与经济发展的失衡，导致了一系列的生态环境问题。截至2018年底，高昌区总人口 $2 9 0 3 0 2 \times 1 0 ^ { 4 }$ 人，人均地区生产总值94500元。
+
+![](images/45dde7137b12737cd3b1393a0d96a75fc880fafe99602de02a6085f708b89b47.jpg)  
+图12018年吐鲁番市高昌区行政区划图Fig.1 Administrative division of Gaochang Districtof Turpan City in 2018
+
+# 1.2数据来源与处理
+
+本研究采用的土地利用/覆被数据(1990、2000、2010、2018年，空间分辨率为 $3 0 \mathrm { m } { \times } 3 0 \mathrm { m } )$ ，源于中国科学院资源环境科学数据中心出版的中国多时期土地利用覆被变化遥感监测数据集[21]。数据集整合后的分类系统包括3个一级土地利用类型和8个二级土地利用类型。借鉴李晓文等[22-23]的不同二级地类的生态环境指数，利用面积加权法，结合研究区的实际调研情况，对二级土地利用类型的生态环境指数进行赋值(表1)。本文所用社会经济数据均来源于《吐鲁番统计年鉴》24和实地调研，所做研究不包括兵团二二一团。
+
+表1土地利用主导功能分类及其生态环境质量指数  
+Tab.1 Classification of the dominant functions of land use and its eco-environmental quality index   
+
+<html><body><table><tr><td colspan="2">土地利用主导功能分类</td><td rowspan="2">土地利用分类系统的二级分类</td><td rowspan="2">生态环境指数</td></tr><tr><td>一级地类</td><td>二级地类</td></tr><tr><td rowspan="2">城市化地区</td><td>城镇用地</td><td>城镇用地</td><td>0.010</td></tr><tr><td>工矿用地</td><td>其他建设用地</td><td>0.010</td></tr><tr><td rowspan="2">农产品主产区</td><td>农业用地</td><td>水田、旱地</td><td>0.303</td></tr><tr><td>农村用地</td><td>农村居民点</td><td>0.010</td></tr><tr><td rowspan="4">生态功能区</td><td>林地用地</td><td>有林地、灌木林地、疏林地、其他林地</td><td>0.853</td></tr><tr><td>草地用地</td><td>高覆盖度草地、中覆盖度草地、低覆盖度草地</td><td>0.802</td></tr><tr><td>水域用地</td><td>河渠、湖泊、水库坑塘、永久性冰川雪地、滩涂、滩地</td><td>0.537</td></tr><tr><td>未利用地</td><td>沙地、戈壁、盐碱地、沼泽地、裸土地、裸岩石质地等其他未利用土地</td><td>0.025</td></tr></table></body></html>
+
+# 1.3 研究方法
+
+# 1.3.1土地利用转型分析
+
+（1）土地利用类型转移矩阵
+
+土地利用转移矩阵可对土地利用类型相互转化的数量和方向进行直观呈现，从而反映土地利用变化的结构特征和各类型间的转移方向[25],其表达式为：
+
+$$
+S _ { i j } { = } \left[ \begin{array} { l l l } { S _ { 1 1 } } & { \cdots } & { S _ { 1 n } } \\ { \vdots } & { \ddots } & { \vdots } \\ { S _ { n 1 } } & { \cdots } & { S _ { n n } } \end{array} \right]
+$$
+
+式中： $S _ { i j }$ 为 $i$ 地类转换成 $j$ 地类的转移概率； $n$ 为土地利用类型个数； $i , j$ 分别为转移前和转移后的土地利用类型。
+
+(2）土地利用核密度估计模型
+
+土地利用核密度估计可以很直观地表征高昌区土地利用转型的空间分布格局变化和集聚强度关系。核密度值越大，土地利用空间分布密度越大,集聚性越强[26]。核密度估计表达式为：
+
+$$
+f ( { \boldsymbol { x } } ) = { \frac { 1 } { n h } } \sum _ { i = 1 } ^ { n } K { \left( { \frac { { \boldsymbol { x } } - { \boldsymbol { x } } _ { i } } { h } } \right) }
+$$
+
+式中 $\cdot f ( x )$ 为地点 $x$ 处的核密度估计; $n$ 为数据个数； $h$ 为带宽，即搜索半径 $( \mathbf { m } ) ; K \left( \frac { x - x _ { i } } { h } \right)$ 为核密度方程;$x { - } x _ { i }$ 为估计点 $x$ 到事件 $x _ { i }$ 的距离 $\left( \mathrm { m } \right)$ O
+
+# 1.3.2区域生态环境质量分析
+
+（1）区域生态环境质量指数
+
+综合考虑高昌区城市化地区、农产品主产区、生态功能区三大主导功能区所具有的生态环境指
+
+数及各土地利用类型面积，用区域生态环境质量指数定量表示某一区域内生态环境质量的总体状况[25],其表达式为：
+
+$$
+\mathrm { E V } _ { i } = \sum _ { i = 1 } ^ { N } \frac { A _ { k i } } { A _ { k } } R _ { i }
+$$
+
+式中： $\mathrm { E V } _ { i }$ 为研究区第 $i$ 生态单元生态环境质量指数； $A _ { k i }$ 为该区域第 $k$ 个生态单元第 $i$ 种土地利用类型的面积 $( \operatorname { k m } ^ { 2 } ) : A _ { k }$ 为研究区第 $k$ 个生态单元面积$( \mathrm { k m } ^ { 2 } ) ; R _ { i }$ 为第 $i$ 种土地利用类型的生态环境指数； $N$ 为区域总的地类数量。
+
+(2）生态贡献率
+
+土地利用转型的生态贡献率是指某一种土地利用地类变化所导致的区域生态环境质量的改变，其量化了各地类之间的相互转换对区域生态环境的影响，有利于探讨造成区域生态环境变化的主导因素[]，其表达式为：
+
+$$
+\mathrm { L E I } = \big ( \mathrm { L E } _ { 1 } - \mathrm { L E } _ { 0 } \big ) \mathrm { L A } / \mathrm { T A }
+$$
+
+式中：LEI为研究区某一土地利用变化类型生态贡献率； $\mathrm { L E _ { 0 } } \mathrm { , L E _ { 1 } }$ 分别为某一地类在变化初期和变化末期所赋予的生态质量指数；LA为该类地类的变化面积 $( \mathrm { k m } ^ { 2 } )$ ；TA为研究区总面积 $\left( \mathrm { k m } ^ { 2 } \right)$ 。
+
+# 2结果与分析
+
+# 2.1土地利用功能结构转型
+
+2.1.1 土地利用类型的空间格局及变化特征高昌区生态功能区面积最大，农产品主产区面积次之，城市化地区用地面积最少(表2)。1990—2018年土地利用转型总体变化趋势表现为城市化地区面积波动增长，农产品主产区面积总体增加，生态功能区面积迅速减少。
+
+表21990—2018年高昌区主导功能用地面积统计  
+
+<html><body><table><tr><td colspan="6">Tab.2 Statisticsortne orleadnigTuncto GaocnangDistrietuurhngT990- -2010</td></tr><tr><td>一级地类</td><td>二级地类</td><td>1990年</td><td>2000年</td><td>2010年</td><td>2018年</td></tr><tr><td>城市化地区</td><td>城镇用地</td><td>8.07</td><td>9.33</td><td>14.31</td><td>15.94</td></tr><tr><td rowspan="4">农产品主产区</td><td>工矿用地</td><td>4.16</td><td>1.11</td><td>41.00</td><td>81.05</td></tr><tr><td>小计</td><td>12.23</td><td>10.44</td><td>55.31</td><td>96.99</td></tr><tr><td>农业用地</td><td>333.50</td><td>343.46</td><td>537.91</td><td>515.47</td></tr><tr><td>农村用地</td><td>24.71</td><td>28.75</td><td>22.45</td><td>25.51</td></tr><tr><td rowspan="5">生态功能区</td><td>小计</td><td>358.21</td><td>372.21</td><td>560.36</td><td>540.98</td></tr><tr><td>林地用地</td><td>74.54</td><td>74.47</td><td>21.69</td><td>21.74</td></tr><tr><td>草地用地</td><td>3309.95</td><td>3296.43</td><td>3189.17</td><td>3203.20</td></tr><tr><td>水域用地</td><td>23.99</td><td>24.07</td><td>30.68</td><td>40.85</td></tr><tr><td>未利用地</td><td>9799.00</td><td>9800.46</td><td>9720.79</td><td>9674.38</td></tr><tr><td></td><td>小计</td><td>13207.48</td><td>13195.43</td><td>12962.33</td><td>12940.17</td></tr></table></body></html>
+
+从各类用地变化的时间序列来看：
+
+（1）城市化地区面积呈增加趋势，其中城镇用地呈逐年增加趋势，工矿用地面积表现为先减少后显著增加趋势。2000—2010年的工矿用地面积增量 $\left( 3 9 . 8 9 \mathrm { ~ k m } ^ { 2 } \right)$ 和2010—2018年的增量（ $( 4 0 . 0 5 ~ \mathrm { k m } ^ { 2 } )$ 约是1990年的10倍，其主要原因是自2013年起，引进了一批知名工矿企业进驻导致该时间段内工矿用地面积和城镇用地面积均呈增长趋势
+
+(2）农产品主产区面积经历了由大幅增长到小幅减少的过程，主要是受农业用地面积变化过程影响，面积从1990年的 $3 3 3 . 5 0 ~ \mathrm { k m } ^ { 2 }$ 增长到2010年的$5 3 7 . 9 1 ~ \mathrm { k m } ^ { 2 }$ ，再减少到2018年的 $5 1 5 . 4 7 ~ \mathrm { k m } ^ { 2 }$ 。其变化主要是受农业产业结构的调整影响，与草地用地面积和未利用地的减少紧密相关。研究期内农业用地面积共增加 $1 8 1 . 9 7 ~ \mathrm { k m } ^ { 2 }$ ，农村用地面积增加0.80$ { \mathrm { k m } } ^ { 2 }$ ，总体上农产品主产区面积呈增长趋势。
+
+(3）研究期内生态功能区水域用地面积逐年增长，其他用地面积均有减少。从整体看，生态功能区面积共减少 $2 6 7 . 3 1 ~ \mathrm { k m } ^ { 2 }$ ,其中林地用地面积减少$5 2 . 8 0 \mathrm { k m } ^ { 2 }$ ,草地用地面积减少 $1 0 6 . 7 5 \mathrm { k m } ^ { 2 }$ ,未利用地面积减少 $1 2 4 . 6 2 \mathrm { k m } ^ { 2 }$ ，而水域用地面积共增加16.86$ { \mathrm { k m } } ^ { 2 }$ 。林地用地面积减少主要是乱垦乱伐和部分转为农业用地。2010—2018年草地面积的增加主要来自于未利用地以及部分退耕还林还草的土地。未利用地总体呈现持续减少的趋势。水域面积的变化主要原因为近些年来高昌区水利设施的大量建设和完善，2010年以来高昌区节水措施的得力施行和农民节水意识的增强使得艾丁湖湖面面积扩大也是高昌区水域面积增大的因素之一[27]。
+
+从各类用地的空间分异(图2)看，生态功能区分布最为广泛；农产品主产区呈片状分布在高昌区中部;城市化地区呈点状分布在高昌区中部。对各乡镇的各功能分类用地分布进行统计显示，未利用地大多分布在恰特喀勒乡；草地用地大多分布在红柳河园艺场和七泉湖镇、胜金乡、二堡乡、三堡乡和恰特喀勒乡北部;水域用地零星分布在高昌区中部和南部的恰特喀勒乡；林地用地主要分布在红柳河园艺场、二堡乡和葡萄沟街道;农村用地分布在高昌区中部的艾丁湖镇、高昌街道、老街街道、原种场和二堡乡等;农业用地主要分布在二堡乡、三堡乡、艾丁湖镇等;城镇用地大多分布在高昌街道；工矿用地分布在七泉湖镇、葡萄沟街道和亚尔镇，
+
+![](images/763a547166be453f67841a3cd66b21899a516bc2531141ed87f4a31f86e1220a.jpg)  
+图21990—2018年高昌区主导功能用地空间分布 Fig.2Spatial distributions of land used by leading functions in Gaochang District during 1990—2018
+
+1900一2000年土地利用转型变化不大，其中主要是三堡乡农业用地面积增加和恰特喀勒乡草地用地面积减少（图2a\~b)。2000—2010年是整个研究期内变化最大的 $1 0 \mathrm { ~ a ~ }$ （图 $2 \mathrm { b } \mathrm { \sim } \mathrm { c }$ ),其中农业用地面积增加最多，主要在红柳河园艺场的南部、艾丁湖镇和葡萄镇等；工矿用地面积增加主要在大河沿镇、亚尔镇和葡萄沟街道等；城镇用地面积增加主要在大河沿镇;水域用地面积增加在恰特喀勒乡北部；林地用地面积减少在红柳河园艺场、二堡乡和葡萄沟街道;草地用地面积减少主要在红柳河园艺场、七泉湖镇和恰特喀勒乡的北部等;未利用地面积减少主要在大河沿镇。2010—2018年工矿用地面积增加主要在亚尔镇、葡萄沟街道和七泉湖镇等；草地用地面积增加主要在亚尔镇和恰特喀勒乡；水域用地面积增加主要在恰特喀勒乡；农村用地面积增加主要在亚尔镇、艾丁湖镇和恰特喀勒乡；农业用地面积减少主要在艾丁湖镇、葡萄镇和原种场;未利用地减少主要在亚尔镇、葡萄沟街道和七泉湖镇等，未利用地面积的减少主要原因是2010—2018有很多新建项目以及富民安居项目的实施，使得未利用地转为工矿用地和城镇用地。
+
+2.1.2土地利用类型的转移情况及数量特征表3为研究区主导功能分类用地面积转移的流向：1990一2000年，土地转型规模较小，转入到农业用地的最多 $( 9 . 9 6 ~ \mathrm { k m } ^ { 2 } )$ )，主要由草地用地( $6 . 2 6 \%$ ）、未利用地（ $1 . 4 7 \%$ )和林地用地 $( 0 . 7 1 \%$ )转入。在所有土地类型变换中，草地用地的流转变化最为明显（ $1 3 . 5 2 \mathrm { k m } ^ { 2 } \cdot$ )，主要流向农业用地、林地用地、水域用地和农村用地。这是由于草地用地生态系统作为耕地和荒漠的过渡区域，系统稳定性较低，生态环境比较脆弱。2000—2010年，各土地类型的转移频度和幅度明显提高，以草地流出( $( 1 0 7 . 2 6 ~ \mathrm { k m } ^ { 2 }$ ）、未利用地流出（ $( 7 9 . 6 7 ~ \mathrm { k m } ^ { 2 } )$ 和林地流出( $5 2 . 7 8 \mathrm { ~ k m } ^ { 2 } ,$ 为主，流入较多的是农业用地( $1 9 4 . 4 5 \ \mathrm { k m } ^ { 2 } \cdot$ 和工矿用地$( 3 9 . 8 9 \mathrm { k m } ^ { 2 } )$ )。农业用地主要由未利用地 $( 1 8 . 9 1 \% )$ 、草地用地( $1 2 . 0 0 \%$ )和林地用地 $( 8 . 4 7 \%$ 转入。工矿用地主要由未利用地（ $( 9 0 . 2 3 \%$ ）、草地用地（ $( 5 . 6 3 \% )$ ）和农村用地 $( 4 . 0 8 \% )$ )转入。作为典型的干旱区绿洲型生态环境，在缺水情况下，高昌区内的未利用地占到 $7 0 \%$ 以上，未利用地是最大的土地利用类型转变来源，其减少受经济发展的影响，主要转化为工矿工地，还有部分转化成为农业用地。2010一2018年，未利用地转出（ $( 4 6 . 4 1 ~ \mathrm { k m } ^ { 2 } )$ 和农业用地转出（ $2 2 . 4 4 ~ \mathrm { k m } ^ { 2 } ,$ 最为突出，而工矿用地的转入最为突出$( 4 0 . 0 5 \mathrm { k m } ^ { 2 } )$ ），主要有未利用地 $( 6 5 . 9 4 \%$ ）、草地用地$( 3 . 0 1 \% )$ )和农业用地 $( 0 . 8 7 \% )$ 转入。
+
+表31990—2018年高昌区土地利用转移概率矩阵  
+Tab.3 Transition probability matrix of land use in Gaochang District during 1990—2018   
+
+<html><body><table><tr><td rowspan="2">2000年</td><td colspan="8">1990年</td></tr><tr><td>草地用地</td><td>城镇用地</td><td>工矿用地</td><td>林地用地</td><td>农村用地</td><td>农业用地</td><td>水域用地</td><td>未利用地</td></tr><tr><td>草地用地</td><td>99.64</td><td>0.00</td><td>0.00</td><td>0.01</td><td>0.00</td><td>0.33</td><td>0.00</td><td>0.01</td></tr><tr><td>城镇用地</td><td>0.00</td><td>83.46</td><td>0.00</td><td>0.00</td><td>0.94</td><td>15.59</td><td>0.00</td><td>0.00</td></tr><tr><td>工矿用地</td><td>0.00</td><td>0.00</td><td>99.80</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.20</td></tr><tr><td>林地用地</td><td>3.37</td><td>0.00</td><td>0.00</td><td>94.79</td><td>0.00</td><td>0.56</td><td>0.00</td><td>1.27</td></tr><tr><td>农村用地</td><td>0.22</td><td>0.93</td><td>0.00</td><td>0.02</td><td>83.35</td><td>15.27</td><td>0.00</td><td>0.22</td></tr><tr><td>农业用地</td><td>6.26</td><td>0.01</td><td>0.03</td><td>0.71</td><td>0.16</td><td>91.25</td><td>0.13</td><td>1.47</td></tr><tr><td>水域用地</td><td>0.61</td><td>0.00</td><td>0.00</td><td>0.39</td><td>0.00</td><td>0.25</td><td>98.35</td><td>0.41</td></tr><tr><td>未利用地</td><td>0.01</td><td>0.00</td><td>0.03</td><td>0.01</td><td>0.00</td><td>0.03</td><td>0.00</td><td>99.92</td></tr><tr><td rowspan="2">2010年</td><td colspan="8">2000年</td></tr><tr><td>草地用地</td><td>城镇用地</td><td>工矿用地</td><td>林地用地</td><td>农村用地</td><td>农业用地</td><td>水域用地</td><td>未利用地</td></tr><tr><td>草地用地</td><td>80.00</td><td>0.00</td><td>0.00</td><td>0.43</td><td>0.06</td><td>0.65</td><td>0.04</td><td>18.81</td></tr><tr><td>城镇用地</td><td>0.12</td><td>38.76</td><td>0.00</td><td>5.79</td><td>30.40</td><td>4.82</td><td>0.00</td><td>20.11</td></tr><tr><td>工矿用地</td><td>5.63</td><td>0.00</td><td>0.00</td><td>0.06</td><td>4.08</td><td>0.00</td><td>0.00</td><td>90.23</td></tr><tr><td>林地用地</td><td>54.91</td><td>0.00</td><td>0.00</td><td>22.19</td><td>0.23</td><td>0.25</td><td>0.00</td><td>22.42</td></tr><tr><td>农村用地</td><td>16.86</td><td>7.33</td><td>0.00</td><td>7.03</td><td>19.65</td><td>32.52</td><td>0.00</td><td>16.62</td></tr><tr><td>农业用地</td><td>12.00</td><td>0.38</td><td>0.04</td><td>8.47</td><td>2.30</td><td>57.82</td><td>0.07</td><td>18.91</td></tr><tr><td>水域用地</td><td>19.44</td><td>0.00</td><td>0.00</td><td>0.75</td><td>0.00</td><td>0.00</td><td>30.01</td><td>49.81</td></tr><tr><td>未利用地</td><td>6.75</td><td>0.00</td><td>0.01</td><td>0.08</td><td>0.04</td><td>0.04</td><td>0.13</td><td>92.95</td></tr><tr><td rowspan="2">2018年</td><td colspan="8">2010年</td></tr><tr><td>草地用地</td><td>城镇用地</td><td>工矿用地</td><td>林地用地</td><td>农村用地</td><td>农业用地</td><td>水域用地</td><td>未利用地</td></tr><tr><td>草地用地</td><td>98.81</td><td>0.00</td><td>0.00</td><td>0.02</td><td>0.00</td><td>0.88</td><td>0.01</td><td>0.27</td></tr><tr><td>城镇用地</td><td>0.11</td><td>89.16</td><td>0.00</td><td>0.00</td><td>0.01</td><td>8.07</td><td>0.00</td><td>2.65</td></tr><tr><td>工矿用地</td><td>3.01</td><td>0.00</td><td>30.19</td><td>0.00</td><td>0.00</td><td>0.87</td><td>0.00</td><td>65.94</td></tr><tr><td>林地用地</td><td>2.57</td><td>0.00</td><td>0.00</td><td>96.44</td><td>0.00</td><td>0.14</td><td>0.00</td><td>0.86</td></tr><tr><td>农村用地</td><td>0.07</td><td>0.01</td><td>0.00</td><td>0.00</td><td>84.73</td><td>13.34</td><td>0.00</td><td>1.85</td></tr><tr><td>农业用地</td><td>1.40</td><td>0.01</td><td>0.00</td><td>0.00</td><td>0.15</td><td>97.58</td><td>0.00</td><td>0.85</td></tr><tr><td>水域用地</td><td>0.73</td><td>0.00</td><td>19.13</td><td>0.00</td><td>0.00</td><td>0.07</td><td>72.81</td><td>7.26</td></tr><tr><td>未利用地</td><td>0.14</td><td>0.00</td><td>0.09</td><td>0.00</td><td>0.00</td><td>0.01</td><td>0.01</td><td>99.75</td></tr></table></body></html>
+
+# 2.2土地利用空间集聚分析
+
+通过核密度估计方法对土地利用空间集聚特征进行分析，可以得出研究期内土地利用空间集聚在时序上的特征演变。利用ArcGIS10.2创建渔网功能，生成 $5 ~ \mathrm { k m } \times 5 ~ \mathrm { k m }$ 的具有土地利用面积属性的格网636个，然后利用以表格显示分区统计功能，统计每个网格内的土地利用信息，再利用空间分析工具进行核密度分析。
+
+结合高昌区的土地利用面积分布情况进行核密度分析，从而得到高昌区的土地利用核密度空间分布格局(图3)。1990—2018年4个时期，高昌区土地利用核密度主要集聚在中部的亚尔镇、高昌街道、老街街道、葡萄沟街道、葡萄镇、原种场、艾丁湖镇和恰特喀勒乡的中部。 $1 9 9 0 \ 、 2 0 0 0 \ 、 2 0 1 0 \ 、 2 0 1 8$ 年的最高核密度值分别为 $1 0 9 . 4 1 ~ \mathrm { k m } ^ { 2 }$ / $1 0 9 . 5 9 \ \mathrm { k m } ^ { 2 }$ 、$1 0 3 . 5 6 \ \mathrm { k m } ^ { 2 } \setminus 1 2 0 . 5 6 \ \mathrm { k m } ^ { 2 }$ 。1990—2018年大河沿镇、红柳河园艺场、二堡乡、三堡乡有轻微的集聚现象，七泉湖镇、胜金乡的核密度迅速增长，集聚性增强。但总体而言，其土地利用的空间核密度变化不大。高昌区南北空间集聚差异过大是因为地形差异过大所致，中部较北部和南部地势低，乡镇分布较多;北部乡镇红柳河园艺场、七泉湖镇、胜金乡地势北边高于南边；南部只有恰特喀勒乡。各个乡镇经济发展不平衡，地形、交通、政策等驱动因素不一，中部盆地地区人为扰动明显大于北部和南部,因此土地利用空间集聚发生了明显的差异性。从空间集聚程度上看，2018年北部集聚程度明显高于1990、2000、2010年。原因是近些年来，大河沿镇、红柳河园艺场、七泉湖镇和胜金乡工矿用地和农业用地增加导致当地经济有所增长，所以其核密度有
+
+![](images/b34c15d2fd05de3e44d0aee7aacc82645ec3808317aaa2c7eaf43380c79a9400.jpg)  
+图31990—2018年高昌区土地利用核密度分布 Fig.3Distributions of nuclear density of land use in Gaochang District during 1990—2018
+
+所增加，空间集聚性增强。
+
+# 2.3土地利用转型的生态环境效应
+
+2.3.1生态环境质量的时空演变高昌区生态环境指数的时空分异可以通过生态环境质量指数进行表达。运用ArcGIS10.2软件，分别以 $1 0  { \mathrm { k m } } \times 1 0  { \mathrm { k m } }$ 、$5 \mathrm { k m } { \times } 5 \mathrm { k m } , 5 0 0 \mathrm { m } { \times } 5 0 0 \mathrm { m } , 5 0 \mathrm { m } { \times } 5 0 \mathrm { m }$ 为格网进行对比分析，综合考虑研究区的面积、研究内容的需要和计算机运行效率等因素，通过反复试验，最后确定 $5 ~ \mathrm { k m } \times 5 ~ \mathrm { k m }$ 矢量网格为最优研究单元，运用克里金插值法生成生态环境质量分布图，再根据自然断点法分为5个生态质量区：低质量区、较低质量区、中质量区、较高质量区、高质量区[28]
+
+总体上，高昌区北部和中部生态环境质量指数相对较高，南部生态环境指数较低(图4)。主要是因为北部和中部因生态环境指数较高的草地和农业用地面积较大，南部主要分布着生态环境指数较低的未利用地。
+
+1990—2018年，高昌区南北差异较大，高、低质量区在减少，较高、较低质量区在增多：（1）高昌区北部的高质量区和低质量区在逐渐减少，而较高质量区和较低质量区在增多，主要是因为北部未利用地面积增多带来的生态环境质量的提高大于草地面积减少导致的生态环境质量的下降。(2）高昌区中部高质量区在增加，主要是因为中部的农业用地面积增加带来的生态环境质量的提高大于城镇用地和工矿用地面积增加带来生态环境质量的下降。（3）高昌区南部，高质量区在逐渐减少，而低质量区在增加，主要是因为草地面积减少导致的生态环境质量的下降大于未利用地和艾丁湖水域面积增长带来的生态环境质量的提高。
+
+2.3.2影响生态环境质量的主要用地类型区域生态环境的变化往往会有改善和退化2种完全相反的现象，这2种现象在特定区域的指数计算与统计中会产生相互抵消，从而使得生态质量指数总体上维持相对稳定，因此，区域生态环境指数的稳定并不意味着生态环境没有发生改变。因此，有必要分别计算和分析其生态贡献率。
+
+从导致生态环境改善的主要土地利用转型指标(表4)可以看出，一是未利用地转为草地用地的面积为 $6 0 2 . 8 9 ~ \mathrm { k m } ^ { 2 }$ ，占生态环境贡献率的 $8 7 . 5 6 \%$ 。
+
+![](images/a1a005409772828055ed7fef687a43081f2d09fe3f58fca368e6ade3c6c58acf.jpg)  
+图41990—2018年高昌区生态环境质量指数空间分布 Fig.4 Spatial distributions of the eco-environmental quality index in Gaochang District during 1990—2018
+
+同时，未利用地转换为农业用地、水域用地和林地用地等对于改善高昌区的生态环境质量也具有积
+
+表41990—2018年导致生态环境改善的主要土地利用转型指标  
+Tab.4Main land-use transition indicators thatledto the improvement of the ecological environment during 190—2   
+
+<html><body><table><tr><td>土地利用转型</td><td>转换面积/km²</td><td>生态贡献率</td><td>占生态贡献率的百分比/%</td></tr><tr><td>未利用地→草地用地</td><td>602.89</td><td>0.03433</td><td>87.56</td></tr><tr><td>未利用地→农业用地</td><td>100.07</td><td>0.00198</td><td>5.04</td></tr><tr><td>农业用地→草地用地</td><td>31.60</td><td>0.00118</td><td>3.00</td></tr><tr><td>未利用地→水域用地</td><td>25.55</td><td>0.00093</td><td>2.38</td></tr><tr><td>未利用地→林地用地</td><td>4.93</td><td>0.00031</td><td>0.79</td></tr><tr><td>农村用地→农业用地</td><td>8.70</td><td>0.00018</td><td>0.46</td></tr><tr><td>农村用地→草地用地</td><td>2.35</td><td>0.00014</td><td>0.35</td></tr><tr><td>草地用地→林地用地</td><td>11.90</td><td>0.00007</td><td>0.19</td></tr><tr><td>其他</td><td>3.61</td><td>0.00008</td><td>0.23</td></tr><tr><td>合计</td><td>791.60</td><td>0.03920</td><td>100.00</td></tr></table></body></html>
+
+注：土地利用转型中“其他"是指占贡献率的百分比小于 $0 . 1 \%$ 土地利用变化类型。下同。
+
+# 干旱区地理
+
+表51990—2018年导致生态环境退化的主要土地利用转型指标  
+Tab.5Main land use transition indicators thatledto the degradationof theecologicalenvironment during1990-201   
+
+<html><body><table><tr><td>土地利用转型</td><td>转换面积/km</td><td>生态贡献率</td><td>占生态贡献率的百分比/%</td></tr><tr><td>草地用地→未利用地</td><td>659.95</td><td>-0.03757</td><td>84.41</td></tr><tr><td>草地用地→农业用地</td><td>75.03</td><td>-0.00279</td><td>6.27</td></tr><tr><td>林地用地→农业用地</td><td>42.43</td><td>-0.00184</td><td>4.14</td></tr><tr><td>水域用地→未利用地</td><td>9.12</td><td>-0.00002</td><td>1.05</td></tr><tr><td>林地用地→未利用地</td><td>0.29</td><td>-0.00001</td><td>1.02</td></tr><tr><td>草地用地→工矿用地</td><td>4.58</td><td>-0.00027</td><td>0.60</td></tr><tr><td>草地用地→农村用地</td><td>4.19</td><td>-0.00024</td><td>0.55</td></tr><tr><td>农业用地→农村用地</td><td>9.62</td><td>-0.00020</td><td>0.45</td></tr><tr><td>林地用地→农村用地</td><td>2.18</td><td>-0.00014</td><td>0.31</td></tr><tr><td>草地用地→水域用地</td><td>5.82</td><td>-0.00012</td><td>0.27</td></tr><tr><td>林地用地→草地用地</td><td>16.19</td><td>-0.00010</td><td>0.23</td></tr><tr><td>未利用地→工矿用地</td><td>73.49</td><td>-0.00008</td><td>0.18</td></tr><tr><td>林地用地→城镇用地</td><td>1.06</td><td>-0.00007</td><td>0.15</td></tr><tr><td>农业用地→未利用地</td><td>0.02</td><td>0.00000</td><td>0.14</td></tr><tr><td>农业用地→城镇用地</td><td>2.08</td><td>-0.00004</td><td>0.10</td></tr><tr><td>其他</td><td>15.08</td><td>-0.00050</td><td>0.13</td></tr><tr><td>合计</td><td>921.12</td><td>-0.04398</td><td>100.00</td></tr></table></body></html>
+
+极的贡献。二是农业用地转为草地用地,这两类占 生态贡献率的 $9 8 . 7 7 \%$ ○
+
+从导致生态环境退化的主要土地利用转型指标(表5)可以看出，草地用地转为未利用地面积为$6 5 9 . 9 5 \mathrm { k m } ^ { 2 }$ ，占生态贡献率的 $8 4 . 4 1 \%$ ，是高昌区部分区域生态环境退化的重要原因。另有草地用地转换为农业用地、林地用地转换为农业用地、水域用地转换为未利用地、林地用地转换为未利用地也分别占到生态贡献率的 $6 . 2 7 \%$ 、 $4 . 1 4 \%$ 、 $1 . 0 5 \%$ 和$1 . 0 2 \%$ ,累计达到 $1 2 . 4 8 \%$ 。
+
+结合上文中的图表，可以看出：（1）1990—2018年，高昌区北部草地转为未利用地、农业用地和工矿用地，核密度增强，空间集聚性增强，生态环境质量由高质量区转为较高质量区，生态环境质量指数降低。（2）高昌区中部，未利用地转为农业用地、草地用地和工矿用地，核密度一直较高，空间集聚性较强，其高质量区、较高质量区面积扩大，生态环境质量指数增高。（3）高昌区西南部草地转为未利用地和工矿用地，空间集聚性降低，生态环境质量由高转为较高、中和较低，有一定程度的退化。
+
+总体而言，高昌区中部有生态环境质量改善的趋势，而北部和西南部有生态环境质量退化的趋势，总体退化的趋势略小于改善的趋势，且这种差距在不断缩小，高昌区生态环境质量在向好的方向发展。因此，相关政策及规划制定方面应及时调整土地利用结构及布局，以促进生态环境持续改善。
+
+# 3结论
+
+通过对高昌区的土地利用类型的空间格局及变化特征、转移情况及数量特征、空间集聚特征、生态环境质量的时空演变和影响生态环境质量的主要用地类型的分析，发现高昌区在1990—2018年土地利用转型存在时空差异性，转型过程对生态环境质量有着重要影响。主要结论如下：
+
+（1）1990—2018年，高昌区城市化地区用地面积波动增长，呈点状分布在中部;农产品主产区用地面积总体表现为增加趋势，呈片状分布在中部；生态功能区用地面积则呈现减少趋势，主要分布在北部和南部。城市化地区、农产品主产区用地面积的增长源于对生态功能区的侵占。研究期内土地利用空间集聚性中部均高于北部和南部。2018年北部因工矿用地和农业用地面积增加导致当地经济增长，核密度增加，其空间集聚性增强。
+
+(2）1990—2018年，高昌区生态环境高质量区和低质量区在减少，较高质量区和较低质量区在增多；未利用地转为草地用地是生态环境改善的主要原因；草地用地转为未利用地是部分区域生态环境退化的重要原因。中部生态环境质量有所改善，而北部和西南部有生态环境退化的趋势，但总体退化趋势略小于改善趋势，生态环境质量趋向于良性发展。
+
+本文借鉴已有研究成果，基于土地主导功能对用地类型进行城市化地区、农产品主产区、生态功能区分类，但其还存在功能交叉重叠的问题，所提出的用地提取方案还需要细化，以便精准量化各类用地比例。高昌区未来应该加大对近 $7 0 \%$ 未利用地的合理开发，在生态旅游方面做出规划；作为天山北坡农产品主产区，还可多发展生态农业，探索一条以生态农业、生态旅游为主体功能的新型城镇化路径,解决该地区一些土地资源过度开发和退化的问题。因此，土地利用转型及其结构优化将成为下一步的研究重点。
+
+# 参考文献(References)
+
+[1]苑韶峰,唐奕钰,申屠楚宁.土地利用转型时空演变及其生态环 境效应——基于长江经济带127个地级市的实证研究[J].经济 地理,2019,39(9):174-181.[Yuan Shaofeng,Tang Yiyu, Shentu Chuning. Spatiotemporal change of land-use transformation and its eco-environmental response: A case of 127 cities in the Yangtze River Economic Belt[J]. Economic Geography,2019,39(9):174- 181.]   
+[2] 陈曦,常存,包安明,等.改革开放40a来新疆土地覆被变化的 空间格局与特征[J].干旱区地理,2020,43(1):1-11.[Chen Xi, Chang Cun,Bao Anming,et al. Spatial pattern and characteristics of land cover change in Xinjiang since past 4O years of the economic reform and opening up[J].Arid Land Geography,2020,43 (1): 1-11.]   
+[3]黄金川,林浩曦,漆潇潇.面向国土空间优化的三生空间研究进 展[J].地理科学进展,2017,36(3):378-391.[Huang Jinchuan, Lin Haoxi, Qi Xiaoxiao.A literature review on optimization of spatial development pattern based on ecological- production-living space[J]. Progress in Geography,2017,36(3): 378-391.]   
+[4] Alan Grainger. The forest transition: An alternative approach[J]. Area,1995,27(3): 242-251.   
+[5] Alan Grainger. National land use morphology: Patterns and possibilities[J]. Geography,1995,80(3): 235-245.   
+[6] 龙花楼,李秀彬.区域土地利用转型分析——以长江沿线样带 为例[J].自然资源学报,2002,17(2):144-149.[Long Hualou,Li Xiubin.Analysis on regional land use transition:A case study in transect of the Yangtze River[J]. Journal of Natural Resources, 2002, 17(2): 144-149.]   
+[7]龙花楼,屠爽爽.土地利用转型与乡村振兴[J].中国土地科学, 2018,32(7): 1-6.[Long Hualou,Tu Shuangshuang. Land use transition and rural vitalization[J]. China Land Science,2018,32(7): 1-6.]   
+[8]龙花楼.论土地利用转型与乡村转型发展[J].地理科学进展, 2012,31(2): 131-138.[Long Hualou. Land use transition and rural transformation development[J].Progress in Geography,2012, 31(2): 131-138.]   
+[9]龙花楼.论土地利用转型与土地资源管理[J].地理研究,2015, 34(9):16O7-1618.[Long Hualou. Land use transition and land management[J]. Geographical Research,2015,34(9): 1607-1618.]   
+[10]宋小青.论土地利用转型的研究框架[J].地理学报,2017,72(3): 471-487.[Song Xiaoqing.Discussion on land use transition research framework[J]. Acta Geographica Sinica,2017,72(3): 471- 487.]   
+[11] 宋家鹏,陈松林.福建省土地利用隐性形态与土地生态安全耦 合协调分析[J].水土保持研究,2020,27(4):301-307.[Song Jiapeng,Chen Songlin. Coupling relationship and coordination between recessive land use morphology and land eco-security in Fujian Province[J].Research of Soil and Water Conservation, 2020,27 (4): 301-307.]   
+[12] 崔佳,臧淑英.哈大齐工业走廊土地利用变化的生态环境效应 [J].地理研究,2013,32(5): 848-856.[Cui Jia, Zang Shuying. Regional disparities of land changes and their eco-environmental effects in Harbin-Daqing-Qiqihar Industrial Corridor[J]. Geographical Research,2013,32(5): 848-856.]   
+[13] 龙花楼,曲艺,屠爽爽,等.城镇化背景下中国农区土地利用转 型及其环境效应研究:进展与展望[J].地球科学进展,2018,33 (5): 455-463.[Long Hualou,Qu Yi,Tu Shuangshuang,et al. Land use transitions under urbanization and their environmental effects in the farming areas of China: Research progress and prospects[J]. Advance in Earth Sciences,2018,33(5): 455-463.]   
+[14] 董建红,张志斌,宣晓军,等.“三生"空间视角下土地利用转型 的生态环境效应及驱动力分析——以甘肃省为例[J].生态学 报,2021,41(15): 5919-5928.[Dong Jianhong, Zhang Zhibin,Da Xiaojun,et al.Eco-environmental effects of land use transition and its driving forces from the perspective of“production-living-ecological"spaces: A case study of Gansu Province[J]. Acta Ecological Sinica,2021,41(15): 5919-5928.]   
+[15]王波,杨太保.1980—2018年银川市生态系统服务价值评价及 驱动力分析[J].干旱区地理,2021,44(2):552-564.[Wang Bo, Yang Taibao.Value evaluation and driving force analysis of ecosystem services in Yinchuan City from 1980 to 2018[J].Arid Land Geography,2021,44(2): 552-564.]   
+[16] 张发,玉素甫江·如素力,艾尔肯·图尔逊.基于土地利用的博斯 腾湖流域生态系统服务价值时空变化[J].生态学报,2021,41
+
+# 干旱区地理
+
+(13):5254-5265.[Zhang Fa,Rusuli Yusufujiang,Tuersun Aierken. Spatio-temporal change of ecosystem service value in Bosten Lake Watershed based on land use[J]. Acta Ecological Sinica, 2021,41(13): 5254-5265.]
+
+[17]刘希朝,李效顺,蒋冬梅.基于土地利用变化的黄河流域景观格 局及生态风险评估[J].农业工程学报，2021,37(4):265-274. [Liu Xizhao,Li Xiaoshun, Jiang Dongmei. Landscape pattern and ecological risk assessment of the Yellow River Basin based on land use change[J]. Transactions of the Chinese Society of Agricultural Engineering,2021,37(4): 265-274.]
+
+[18] 黄天能,张云兰.基于"三生空间"的土地利用功能演变及生态 环境响应—以桂西资源富集区为例[J].生态学报，2021,41 (1):348-359.[Huang Tianneng,Zhang Yunlan. Transformation of land use function and response of eco-environment based on ecological-production-living spaces:A case study of resource-rich area in western Guangxi[J]. Acta Ecologica Sinica, 2021,41(1): 348- 359.]
+
+[19] 罗鸿,杨存建.2005—2015年四川省土地利用变化及驱动力分 析[J].生态科学,2021,40(1):86-94.[Luo Hong,Yang Cunjian. Analysis of land use change and its driving forces in Sichuan Province from 2005 to 2015[J].Ecological Science,2021,40(1): 86- 94.]
+
+[20]侯芳.基于RS和GIS的吐鲁番市土地利用时空演化及预测研 究[D].乌鲁木齐:新疆大学,2010.[Hou Fang.Remote sensing and GIS-based analysis on temporal-spatial evolution and forecast of land use change in Turpan City[D]. Urumqi: Xinjiang University,2010.]
+
+[21]刘纪远,匡文慧,张增祥,等.20世纪80年代末以来中国土地利 用变化的基本特征与空间格局[J].地理学报,2014,69(1):3- 14.[Liu Jiyuan,KuangWenhui,Zhang Zengxiang,et al. Spatio temporal characteristics,patterns and causes of land use changes in China since the late 198Os[J].Acta Geographica Sinica,2014, 69(1): 3-14.]
+
+[22]李晓文,方精云,朴世龙.近10年来长江下游土地利用变化及 其生态环境效应[J].地理学报,2003,58(5):659-667.[Li Xiaowen,Fang Jingyun,Piao Shilong.Land use changesand its implication to the ecological consequences in the lower Yangtze Region [J].Acta Geographica Sinica,2003,58(5): 659-667.] [23] 高星,刘泽伟,李晨曦,等.基于"三生空间"的雄安新区土地利 用功能转型与生态环境效应研究[J.生态学报,2020,40(20): 7113-7122.[Gao Xing,Liu Zewei,Li Chenxi,et al.Land use function transformation in the Xiong'an New District based on ecological-production-living spaces and associated eco-environment effects [J].Acta Ecologica Sinica,2020,40(20):7113-7122.]
+
+[24]吐鲁番地区统计局.吐鲁番统计年鉴[M].北京：中国统计出版 社,2019:3-14.[Turpan Regional Bureau of Statistics.Turpan sta tistical yearbook[M]. Beijing: China Statistics Press,2019:3-14.] [25]杨清可,段学军,王磊,等.基于"三生空间"的土地利用转型与 生态环境效应——以长江三角洲核心区为例[J].地理科学, 2018,38(1): 97-106.[Yang Qingke,Duan Xuejun,Wang Lei,et al.Land use transformation based on ecological-production-living spaces and associated eco-environment effects:A case study in the Yangtze River Delta[J]. Scientia Geographica Sinica,2O18,38(1): 97-106.]
+
+[26] 陈正发,史东梅,何伟,等.1980—2015年云南坡耕地资源时空 分布及演变特征分析[J].农业工程学报,2019,35(15):256- 265.[Chen Zhengfa,Shi Dongmei,He Wei,et al. Spatio-temporal distribution and evolution characteristics of slope farmland resources in Yunnan from 198O to 2O15[J]. Transactions of the Chinese Society of Agricultural Engineering, 2019,35(15): 256-265.] [27]曹国亮,李天辰,陆垂裕,等.干旱区季节性湖泊面积动态变化 及蒸发量—以艾丁湖为例[J].干旱区研究,2020,37(5): 1095-11O4.[Cao Guoliang,Li Tianchen, Lu Chuiyu,et al.Dynamic variation and evaporation of seasonal lakes in arid areas:A case study for the Aiding Lake[J].Arid Zone Research,2O2O,37(5): 1095-1104. ]
+
+[28] 罗刚,廖和平,李强,等.基于"三生空间"的土地利用主导功能 转型及其生态环境响应——以重庆市巴南区为例[J].西南大 学学报(自然科学版),2018,40(4):105-113.[Luo Gang,Liao Heping,Li Qiang,et al.A study of land use function transformation based on ecological-production-living spaces and associated eco-environment response:A case study of Banan District[J]. Journal of Southwest University (Natural Science Edition),2O18,40 (4): 105-113.]
+
+# Transformation of land use function and its ecological environmental effects: A case study in the Gaochang District of Turpan City
+
+MA Xinmiao'， XU Huajun1²， Gulinar MAIMAITI' (1.College of Resources and Environmental Science,Xinjiang University,Urumqi 83o046,Xinjiang,China; 2.Key Laboratory of Oasis Ecology,Ministry of Education,Urumqi 83o046,Xinjiang,China)
+
+Abstract: As one of the important nodes of the “One Belt One Road”,Gaochang District of Turpan City, Xinjiang,China has developed rapidly in recent years.The population is constantly concentrating in the city center.The demand for construction land has continued to increase.Gaochang District is located in the desert oasis，a typical “ecologically fragile area with a relatively backward economy”.The vulnerability of the ecological environment is the main challenge of ecological civilization construction in the region.This paper uses the four phases of land use status remote sensing monitoring data (1990,2000,2010,and 2018) based on a $5 \mathrm { k m } \times$ $5 ~ \mathrm { k m }$ grid-scale,starting from the urbanized, main agricultural production,and ecological function areas.This paper starts from the large-scale dominant function area,using the land use transfer matrix and kernel density estimation to study the characteristics of land use transition in Gaochang District from1990 to 2018.It uses the regional ecological environment quality index and ecological contribution rate method to analyze the land use in Gaochang District.During the study period,a quantitative analysis of the effects of transformation on the ecological environment is expected to provide a reference for coordinating the sustainable use of land resources and ecological environment protection in the Gaochang District.The results areas folows.(1) From l990 to 2018,the landuse area of urbanization area in Gaochang District has a fluctuating trend,distributed in the middle of the Gaochang District.The landuse area in the main production areas of agricultural products shows an overall increasing trend,distributed in patches in the Gaochang District.In the middle part,the area of the ecological function zone shows adecreasing trend,with the most widespread distribution covering a large area in Gaochang District.From 1990 to 2018,the deserted and concentrated landuse in the Gaochang District was higher in the middle part than that in the north and south.In 2O18,the land and agricultural area of northern mine increased, driving local economic growth, increased nuclear density,and spatial aggregation enhancement. (2)From 1990 to 2018,the high-qualityand low-quality areas of the ecological environment of the Gaochang District are decreasing, whereas the higher-quality and lower-quality areas are increasing.The conversion of unused land to grassland is the main reason for improving the ecological environment in the Gaochang District. This is because the conversion of grassand land to unused land is responsible for the degradation of the ecological environment in some areas of Gaochang District.The central part of the Gaochang District has a trend of improving ecological environment quality，whereas the northern and southwestern parts have a trend of ecological environment degradation.The overall ecological environment degradation trend is slightly smaller than the improvement trend,and the ecological environment quality of the Gaochang District is developing in a good direction.
+
+Key words: land use function transformation； ecological environment efect； Gaochang District

@@ -1,0 +1,610 @@
+[
+    {
+        "type": "text",
+        "text": "极干旱区稀疏荒漠植被地上生物量遥感估算",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "叶静芸}，吴波¹²，贾晓红¹²，费兵强¹²，高君亮³， 成龙¹²，庞营军¹²，姚斌¹²，孔德庸4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.中国林业科学研究院荒漠化研究所,北京10091；2.国家林业和草原局荒漠生态系统与全球变化重点实验室,北京100091；3.中国林业科学研究院沙漠林业实验中心,内蒙古 磴口015200;4.韶关学院，广东 韶关512005)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以库姆塔格沙漠南部阿尔金山北麓山前戈壁区为研究区，借助无人机影像数据准确提取植被覆盖区;采用高空间分辨率WorldView-3数据的估算结果对中空间分辨率Landsat-OLI数据的估算结果进行修正；选取红光反射率波段(RED)、近红外反射率波段(NIR)、比值植被指数(RVI)、归一化植被指数(NDVI)和修正土壤调节植被指数(MSAVI)反射率波段作为遥感特征参数，采用逐步线性回归(SLR)、套索回归(LASSO)和岭回归(RR)模型分别对稀疏荒漠植被地上生物量进行估算。结果表明：(1)WorldView-3数据可准确刻画极干旱区稀疏荒漠植被的时空分布特征，其估算精度高于Landsat-OLI数据。（2）采用非线性的多元回归模型SLR、LASSO和RR构建遥感特征参数与地面样方数据之间的回归模型可以有效提高模型的稳定性。RR模型的回归效果优于SLR模型和LASSO模型。（3）提取稀疏荒漠植被信息时，采用WorldView-3数据的植被生物量估算结果对Landsat-OLI数据的植被地上生物量估算结果进行修正，可以有效提高Landsat-OLI数据的提取精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：遥感特征参数；稀疏荒漠植被；地上生物量；回归模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国干旱区总面积约为 $2 . 1 5 { \\times } 1 0 ^ { 6 } \\mathrm { k m } ^ { 2 }$ ,约占国土面积的 $2 2 \\%$ 。包括新疆全境、甘肃河西走廊地区和内蒙古阿拉善盟及宁夏贺兰山以西地区[]。荒漠植被主要分布于干旱区，以旱生、超旱生的小乔木、灌木、半灌木和小半灌木为建群种，是衡量荒漠生态系统健康状况的重要指征[2-3]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植被地上生物量是指单位面积内所有地上植物的总重量，通常以鲜重或干重表示，其估算方法一直是生态环境监测领域的研究热点[4-5]。传统的植被地上生物量测算主要依靠地面样方调查，虽然精度高，但费时费力、实施困难，对于复杂生态系统存在一定局限，只适用于小尺度研究[。与传统方法相比，遥感技术在植被空间异质性识别和不同时相植被信息获取等方面的优势，使其成为大尺度植被地上生物量估算的主要手段[6-9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，光学遥感植被信息提取技术被广泛应用于森林和草原植被，但是在荒漠植被中应用较少[10]。这一方面是由于荒漠植被结构简单、低矮稀疏、单位面积地上生物量非常低，传感器对稀疏荒漠植被的敏感性弱，通用遥感模型的估算精度低；另一方面在提取荒漠植被信息过程中容易出现背景(主要是土壤)信息对目标信号的\"污染”,进一步降低了遥感模型的估算精度。为了解决植被信息提取精度较低的问题，Cunliffe等[在小尺度范围内，利用无人机遥感影像构建改进的多端元光谱分解模型来提取干旱区植被覆盖度，取得了较好的效果。Yan等[12]在毛乌素沙地采用LandsatTM和MO-DIS遥感数据，综合分析了归一化植被指数（ND-VI)、比值植被指数(RVI)、差值植被指数(DVI)、土壤调节植被指数(SAVI)、修正的土壤调节植被指数(MSAVI)5种植被指数与植被覆盖度的相关性，结果显示MSAVI与稀疏的沙地植被覆盖度的相关性更高。叶静芸等i3采用QuickBird遥感数据，基于地面调查数据，对乌兰布和沙漠东北缘荒漠-绿洲过渡带的植被地上生物量进行了估算，发现采用RVI线性模型估算荒漠植被地上生物量效果较好。在植被地上生物量模型方面，Zandler等i4利用多种方法对塔吉克斯坦帕米尔高原东部稀疏荒漠植被的地上生物量估算结果进行比较后发现，套索回归(LASSO)的估算效果最好。综上所述，空间分辨率更高的遥感数据和不断优化的数据分析方法可以有效提高稀疏荒漠植被遥感信息提取的精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了提高稀疏荒漠植被地上生物量的估算精度，本研究以库姆塔格沙漠南部阿尔金山北麓山前戈壁区为研究区，从遥感数据源和模型方法2个方面进行探索和尝试，以建立更加准确、实用的稀疏荒漠植被地上生物量遥感估算方法，以期为干旱区荒漠生态系统碳储量估算和荒漠化监测提供科学依据",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于阿尔金山北麓洪积扇平原，北接库姆塔格沙漠和库鲁克塔格山，总面积为 $9 3 9 7 . 2 5 \\mathrm { k m } ^ { 2 }$ 地理位置介于 $3 9 ^ { \\circ } 0 9 ^ { \\prime } { \\sim } 3 9 ^ { \\circ } 5 0 ^ { \\prime } \\mathrm { N }$ 与 $9 0 ^ { \\circ } 5 5 ^ { \\prime } { \\sim } 9 4 ^ { \\circ } 2 8 ^ { \\prime } \\mathrm { E }$ 之间，海拔 $1 4 0 0 { \\sim } 2 9 0 0 \\mathrm { m }$ ,地势南高北低，东高西低（图1)。根据2017—2020年的观测，研究区年降水量大约在 $5 0 { \\sim } 1 8 0 ~ \\mathrm { m m }$ 之间，在空间上由东向西递减，由南向北递减。降水多集中在5—7月，常常形成洪水，使洪积扇上沟壑纵横。在地势较低的沟床内主要分布有霸王（Zygophyllumxanthoxylon）、裸果木(Gymnocarposprzewalskii）和膜果麻黄(Ephedra prze-walskii)等灌木，局部地段分布有零星的盐生草(Halogeton glomeratus）刺沙蓬(Salsolaruthenica)和雾冰藜(Bassiadasyphylla)等一年生草本植物,群落盖度大多在 $10 \\% { \\sim } 2 0 \\%$ 之间,灌木植株高度一般小于$1 \\mathrm { ~ m ~ }$ ,草本植物高度一般不超过 $1 0 \\ \\mathrm { c m }$ ;在地势较高的沟岸地段主要分布着合头藜（Sympegmaregelii）、红砂(Reaumuria soongarica)等灌木，群落盖度在$1 0 \\%$ 以下，许多地段甚至在 $1 \\%$ 以下，植株高度大多为 $1 0 { \\sim } 5 0 ~ \\mathrm { c m }$ ;在洪积扇北部沙漠边缘地带分布有梭梭（Haloxylonammodendron）、沙拐枣（Calligonummongolicum）、怪柳（Tamarixramosissima）等灌木，群落盖度大约 $10 \\% { \\sim } 2 0 \\%$ ,植株高度有时可达 $2 . 0 \\sim$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b0fe1c60717393b6b676dc0bf26c99a7ef1f0a99c8f92b4ca8f416072080a9c.jpg",
+        "img_caption": [
+            "Fig.1 Location of the study area and distribution of plots "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图1研究区位置以及样方分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 . 5 \\mathrm { ~ m } ^ { \\left[ 1 5 - 1 6 \\right] }$ 。该地区荒漠植被的植物群落组成、物种多样性和生物量的空间异质性均处于较高水平，对采用遥感方法进行植被生物量的准确估算提出了挑战。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2数据与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1地面样方调查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2017年9月，采用样带与样方相结合的方法进行野外调查。根据阿尔金山北麓戈壁区山前荒漠植被分布的垂直地带性特征，在研究区的东西方向每隔 $2 0 { \\sim } 5 0 ~ \\mathrm { k m }$ 设置一条南北方向样带。沿着样带方向每隔 $3 ~ \\mathrm { k m }$ 设置一个 $3 0 ~ \\mathrm { m } { \\times } 3 0 ~ \\mathrm { m }$ 的样方。调查的12条样带和100个样方的具体分布(图1)。调查内容包括每个样方的地貌特征、土壤特征、海拔和中心点GPS坐标与植被生长状况，测量并记录样方内每株灌木植物的基径 $( D , { \\mathrm { c m } } )$ 、冠幅长轴 $( C _ { 1 } , \\mathrm { { c m } ) }$ 和冠幅短轴 $( C _ { 2 } , \\mathrm { { c m } ) }$ 、株高 $( H , \\operatorname { c m } )$ ，以及每个植株的相对位置。参考《全国生态状况调查评估技术规范一—荒漠生态系统野外观测》中的荒漠植被采样方法[17]。在研究区内分不同植物种选取若干株不同大小的健康植株，分别测量其基径、株高、冠幅长轴和冠幅短轴，然后整株贴地剪下，称其鲜重后取样带回实验室，在 $8 0 \\ \\mathrm { { ^ circ C } }$ 通风干燥箱内烘干 $4 8 \\mathrm { { h } }$ 称重，经计算得到植株地上生物量干重。少量样方有草本植物分布，在有草本植物分布的样方内，在样方任意1条对角线的两端和中间各取1个 $1 \\mathrm { m } { \\times } 1 \\mathrm { m }$ 的小样方，采用收割法测定小样方内所有草本植物地上生物量鲜重，并采样带回实验室，在 $8 0 ~ \\mathrm { ^ { \\circ } C }$ 通风干燥箱内烘干 $4 8 \\mathrm { ~ h ~ }$ 称重，经计算得到每个小样方草本植物地上生物量干重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2样方地上生物量估算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "异速生长模型法是估算灌木地上生物量的有效方法，可以减少对植被的破坏[18]。基于地面样方调查数据，分别以每种灌木的基径 $( D , { \\mathrm { c m } } )$ 、冠面积$\\scriptstyle \\left( A = \\pi C _ { 1 } C _ { 2 } / 4 , \\operatorname { c m } ^ { 2 } \\right)$ 、株高 $( H , \\mathrm { { c m } ) }$ 和植株体积( $V { = } A H$ $\\mathrm { c m } ^ { 3 }$ )为预测变量，构建异速生长方程，并选取决定系数 $\\left( R ^ { 2 } \\right)$ 和平均绝对误差(MAE)作为比较和评判异速生长方程拟合效果的指标。计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = 1 - { \\sum _ { i = 1 } ^ { n } ( y _ { i } - \\hat { y } _ { i } ) } ^ { 2 } \\Bigg / { \\sum _ { i = 1 } ^ { n } ( y _ { i } - \\bar { y } _ { i } ) } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M A E } = \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } \\left| y _ { i } - \\hat { y } _ { i } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $n$ 为样本个数; $y _ { i }$ 为单株灌木的生物量实测值(g）； $\\hat { y } _ { i }$ 为单株灌木的生物量估测值 $( \\mathbf { g } ) \\mathbf { ; } \\bar { y } _ { i }$ 为每种灌木的生物量实测平均值 $( \\mathbf { g } )$ ○",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "比较估算结果，每种灌木的异速生长方程拟合度均达到了极显著水平。其中泡泡刺(Nitrariasphaerocarpa）、旱蒿（Artemisia xerophytica）、梭梭和怪柳的最佳预测变量为V;沙拐枣、膜果麻黄、裸果木、红砂、合头藜和霸王的最佳预测变量为A,其最优异速生长方程见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据每个样方调查数据和灌木异速生长方程以及小样方草本植物地上生物量调查数据,对每个样方的地上生物量进行计算，计算结果用于荒漠植被地上生物量遥感估算。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b92f81776aa2b8a3a63909acee542daf1edcc6753760c86f48c28ae5cc6793e.jpg",
+        "table_caption": [
+            "表1灌木植物的最优异速生长方程",
+            "Tab.1 Best allometric model of shrub plants "
+        ],
+        "table_footnote": [
+            "注： $R ^ { 2 }$ 为决定系数；MAE为平均绝对误差； $V$ 为植株体积 $( \\mathrm { c m } ^ { 3 }$ )；A为冠面积 $( \\mathrm { c m } ^ { 2 } ) .$ . $y$ 为植被地上生物量估算值 $( \\mathbf { g } ) _ { \\mathbf { \\lambda } ^ { } } n$ 为样本个数； $P$ 为显著性水平。"
+        ],
+        "table_body": "<html><body><table><tr><td>物种</td><td>预测变量</td><td>异速生长方程</td><td>R</td><td>MAE/g</td><td>植株个数</td></tr><tr><td>泡泡刺(Nitraria sphaerocarpa)</td><td>V</td><td>y=131.27V.61</td><td>0.87</td><td>29.16</td><td>n=15(P<0.0001)</td></tr><tr><td>旱蒿(Artemisia xerophytica)</td><td>V</td><td>y=393.99V0.95</td><td>0.86</td><td>87.54</td><td>n=14(P<0.0001)</td></tr><tr><td>梭梭(Haloxylon ammodendron)</td><td>V</td><td>y=688.38V/0.83</td><td>0.78</td><td>235.25</td><td>n=15(P<0.0001)</td></tr><tr><td>怪柳(Tamarix ramosissima)</td><td>V</td><td>y=533.09V0.75</td><td>0.73</td><td>355.42</td><td>n=15(P<0.0001)</td></tr><tr><td>沙拐枣（Calligonum mongolicum)</td><td>A</td><td>y=18.70A-2.71</td><td>0.99</td><td>2.89</td><td>n=15(P<0.005)</td></tr><tr><td>膜果麻黄(Ephedra przewalskii)</td><td>A</td><td>y=21.49A-12.49</td><td>0.97</td><td>8.42</td><td>n=13(P<0.005)</td></tr><tr><td>裸果木(Gymnocarpos przewalski)</td><td>A</td><td>y=12.84A-2.36</td><td>0.99</td><td>2.07</td><td>n=9(P<0.005)</td></tr><tr><td>红砂（Reaumuria soongarica）</td><td>A</td><td>y=11.76A-1.10</td><td>0.74</td><td>5.34</td><td>n=23(P<0.005)</td></tr><tr><td>合头藜(Sympegma regelii)</td><td>A</td><td>y=7.94A-1.58</td><td>0.83</td><td>4.80</td><td>n=28(P<0.005)</td></tr><tr><td>霸王(Zygophyllum xanthoxylon)</td><td>A</td><td>y=7.93A-1.84</td><td>0.96</td><td>1.25</td><td>n=10(P<0.005)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3遥感数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Landsat-OLI遥感数据处理 Landsat-OLI数据由美国地质勘探局网站下载(https://earthexplorer.usgs.gov/)，获取时间是2017年9月26日，覆盖于阿尔金山北麓山前戈壁区，空间分辨率 $3 0 \\mathrm { ~ m ~ }$ 。Land-sat-OLI数据包含可见光(VIS）近红外(NIR)和短红外(SWIR)等9个光谱波段。Landsat-OLI数据是经过陆地卫星生态系统干扰自适应处理系统处理后的地表反射率产品，可直接用于遥感特征参数的计算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2WorldView-3遥感数据处理WorldView-3数据获取时间为2016年6月28日，覆盖面积381$ { \\mathrm { k m } } ^ { 2 }$ ，空间分辨率 $2 . 5 \\mathrm { ~ m ~ }$ ，包含蓝光（Blue）、绿光(Green）、红光(RED)和NIR波段。根据课题组在地面样方附近山麓地带设置的自动气象站(距World-View-3遥感影像覆盖区域西部边缘约 $1 0 \\mathrm { k m } ,$ 的观测数据，2016年降水量 $7 5 . 5 \\ \\mathrm { m m } , 2 0 1 7 \\$ 年降水量56.8$\\mathbf { m } \\mathbf { m }$ ;该地区气候极端干旱，荒漠植物生长缓慢，1a内植被生物量变化很小。遥感影像数据获取与地面样方调查之间的时间差异不会给植被地上生物量估算结果带来显著影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在ENVI5.3环境中，利用数据元文件对原始的WorldView-3数据进行辐射定标；通过高光谱遥感数据的大气纠正模块(FLAASH)对WorldView-3数据进行大气校正；利用影像的正射校正文件(PRC)和全球定位系统(GPS)差分定位对影像进行几何精校正，误差可以控制在 $2 \\mathrm { ~ m ~ }$ 以内；提取遥感特征参数[19]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.3遥感特征参数计算选取单反射率波段和植被指数作为遥感特征参数，用于荒漠植被覆盖区的提取和植被地上生物量回归模型的构建。单反射率波段中RED和NIR波段对荒漠植被的敏感性较强[20-21];植被指数中RVI、NDVI和MSAVI对荒漠植被的敏感性更强[2I-25]。因此,本研究采用的遥感特征参数有5个，即RED、NIR、RVI、NDVI和MSAVI。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "公式(3)、公式(4)和公式(5)为植被指数的计算公式，式中RED和NIR分别表示红光和近红光反射率波段。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R V I } = \\mathrm { N I R } / \\mathrm { R E D }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N D V I } { = } ( \\mathrm { N I R } - \\mathrm { R E D } ) / ( \\mathrm { N I R } + \\mathrm { R E D } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M S A V I } = \\overline { { 2 \\mathrm { N I R } + 1 - \\sqrt { ( 2 \\mathrm { N I R } + 1 ) ^ { 2 } - 8 ( \\mathrm { N I R } - \\mathrm { R E D } ) } } } \\overline { { } } / 2\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.4无人机遥感数据处理2020年9月26—30日，采用DJI精灵4(RTK)无人机在WorldView-3数据覆盖区内设置了一条样带进行详细调查,覆盖区域内的荒漠植被具有代表性。该样带南北向长11$\\mathrm { k m }$ ,东西向宽 $4 ~ \\mathrm { k m }$ ，由44个 $1 \\ \\mathrm { k m } { \\times } 1 \\ \\mathrm { k m }$ 的飞行单元组成(图1)。为避免太阳入射角度太小而导致的地物阴影拖曳现象，拍摄时间选取在北京时间09：00—16:00之间。飞行作业期间天气晴好，云量极低，风速很小，满足无人机摄影测量平台工作的要求；飞行高度为 $2 0 0 \\mathrm { m }$ ，飞行速度 $9 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ ，航向重叠率 $8 0 \\%$ ，旁向重叠率 $7 5 \\%$ ;空间分辨率 $0 . 0 5 \\mathrm { ~ m ~ }$ 。数据的平面坐标系统为WGS84坐标系，通用墨卡尔投影。无人机影像覆盖区域的荒漠植被具有代表性，灌木冠幅一般大于 $2 0 \\mathrm { c m }$ ,在无人机影像上可被精准识别。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4植被覆盖区的提取与精度评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1植被覆盖区提取原理利用像元二分法提取植被覆盖区，以提高植被地上生物量模型估算精度[26]。其原理是假设地表信息由纯植被和纯土壤信息构成，则与之相对应的像元光谱信息也由一定覆盖比例的纯植被像元与纯土壤像元构成。表示为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\mathrm { F V } \\mathrm { C } \\times S _ { \\mathrm { v e g } } + ( 1 - \\mathrm { F V C } ) \\times S _ { \\mathrm { s o i l } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对公式(6)进行变换，得到植被覆盖度公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F V C } = \\big ( S - S _ { \\mathrm { s o i l } } \\big ) / \\big ( S _ { \\mathrm { v e g } } - S _ { \\mathrm { s o i l } } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：FVC为像元中纯植被覆盖面积的比例（植被覆盖度）； $s$ 为像元的遥感特征参数值； $S _ { \\mathrm { v e g } }$ 和 $S _ { \\mathrm { s o i l } }$ 分别为像元中纯植被和纯土壤像元的遥感特征参数值。2.4.2植被和土壤分类利用目视解译从无人机遥感影像中提取纯土壤像元分布区，其他像元对应的区域则为植被覆盖区[26-31]。通过非监督分类方法对所有无人机影像进行植被和土壤分类，拼接分类结果得到植被和土壤分类图。图2为一个地面调查样方的无人机影像及其分类结果，样方中心地理坐标为 $3 9 ^ { \\circ } 2 0 ^ { \\prime } 3 4 ^ { \\prime \\prime } \\mathrm { N } . 9 1 ^ { \\circ } 5 9 ^ { \\prime } 4 ^ { \\prime \\prime } \\mathrm { E }$ ，大小为 $3 0 \\mathrm { m } { \\times } 3 0 \\mathrm { m }$ 。从图2可以看出，无人机影像能够清晰地反映样方内低矮稀疏荒漠植被的冠层信息与纯土壤像元信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Landsat-OLI和WorldView-3影像的植被覆盖区的提取方法一致。采用非监督分类方法分别对遥感影像进行植被和土壤分类;掩膜提取土壤覆盖区；统计土壤覆盖区遥感特征参数的累计频率。对照无人机影像数据的植被和土壤分类结果并参考",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干辛区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/31e11ddc6f8a46a0bed1de661d84473e99684e96c95010b823c9d980c28be68d.jpg",
+        "img_caption": [
+            "图2样方无人机影像及其分类结果",
+            "Fig.2PlotUAV image and its classification results "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "相关文献，经过反复调试,选取频率累计表中累计频率为 $5 \\%$ 的遥感特征参数作为纯土壤像元 $S _ { \\mathrm { s o i l } }$ 值，遥感特征参数累计频率 ${ > } 5 \\%$ 的像元为植被覆盖区域[26]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.3植被覆盖区提取与验证以无人机遥感数据的植被分类结果作为实测值，以遥感影像的分类结果作为预测值，利用Kappa系数对分类结果进行评价，计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { K a p p a } } = { \\frac { P _ { \\mathrm { 0 } } - P _ { \\mathrm { e } } } { 1 - P _ { \\mathrm { e } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { 0 }$ 为实测值与预测值相同的像元数量； $P _ { \\mathrm { ~ e ~ } }$ 为实测值与预测值不同的像元数量，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别统计Landsat-OLI和WorldView-3遥感数据的5个特征参数影像的土壤覆盖区像元信息。土壤覆盖区内累计频率为 $5 \\%$ 的特征参数值代表纯土壤像元信息，Landsat-OLI遥感数据的5个特征参数对应的 $S _ { \\mathrm { s o i l } }$ 值分别为 $0 . 2 7 , 0 . 3 1 , 1 . 1 3 , 0 . 0 6$ 和0.05,WorldView-3遥感数据的5个特征参数对应的 $S _ { \\mathrm { s o i l } }$ 值分别为 $0 . 2 6 , 0 . 2 2 , 1 . 1 1 , 0 . 0 4$ 和0.03。累计频率 ${ > } 5 \\%$ 的像元覆盖区域为植被覆盖区。利用无人机遥感数据分别对Landsat-OLI和WorldView-3遥感数据的植被和土壤分类结果进行精度评价。由表2可知，Landsat-OLI的RVI分类效果最优,其Kappa系数为0.77；WorldView-3的NDVI分类效果最优，其Kappa系数为 $0 . 9 5$ 。分别采用最优植被指数RVI和NDVI对研究区进行植被覆盖区的提取，World-View-3影像覆盖区域的植被覆盖区面积为223$ { \\mathrm { k m } } ^ { 2 }$ ,Landsat-OLI影像覆盖区域的植被覆盖区面积为 $3 5 9 2 \\mathrm { k m } ^ { 2 }$ 。在无人机影像覆盖区随机选取200个像元对植被覆盖区提取结果进行验证，Landsat-OLI影像的植被覆盖区提取精度为 $8 4 . 5 4 \\%$ ,WorldView-3影像的植被覆盖区提取精度为 $9 1 . 2 6 \\%$ ○",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5植被地上生物量遥感模型的构建与验证",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将研究区内100个样方的中心点GPS坐标叠加于Landsat-OLI影像上，从中随机选取 $7 0 \\% ( n = 7 0 )$ 的样方用于模型构建，其余 $3 0 \\% ( n = 3 0 )$ 的样方用于模型验证。建立70个样方的植被地上生物量数据与Landsat-OLI遥感影像上对应像元的光谱特征值之间的回归模型。100个样方中有21个样方分布于WorldView-3影像覆盖区，将这21个样方均分为84个 $1 5 \\ \\mathrm { m } { \\times } 1 5 \\ \\mathrm { m }$ 的小样方。样方内所有植株的相对位置已知，可以准确计算每个小样方的植被地上生物量，将其中心点的GPS坐标叠加于WorldView-3影像上，随机选取 $7 0 \\% ( n = 5 8 )$ 的小样方，建立小样方地上生物量数据与WorldView-3遥感特征参数之间的回归模型，剩余 $3 0 \\%$ 的小样方( $\\scriptstyle n = 2 6$ )用于回归模型验证。Townshend等[30]研究表明，遥感数据验证的最佳样方大小为 $E { = } F ( 1 { + } 2 L )$ ，其中 $E$ 为样方大小$\\left( \\mathrm { m } ^ { 2 } \\right) , F$ 为像元大小 $\\mathrm { ( m ) }$ ， $L$ 为像元几何精度 $\\mathrm { ( m ) }$ OWorldView-3遥感数据的像元大小为 $2 . 5 \\mathrm { ~ m ~ }$ ,几何精度 $2 \\mathrm { m }$ 以内，则最佳样方大小为 $1 2 . 5 \\mathrm { ~ m ~ }$ ,其与 $1 5 ~ \\mathrm { m } \\times$ $1 5 \\mathrm { m }$ 的小样方大小相近。因此，样方数据与遥感像元之间存在匹配关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d085ee922df1551747612d51a899f0edd7b5f8ac778d02768cccf9cf7c529fb6.jpg",
+        "table_caption": [
+            "表2植被和土壤分类植被指数",
+            "Tab.2Vegetation indices for vegetation and soil classification "
+        ],
+        "table_footnote": [
+            "注：RED为红光反射率波段;NIR为近红外反射率波段;RVI为比值植被指数；NDVI为归一化植被指数；MSAVI为修正土壤调节植被指数。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">遥感特征参数</td><td colspan=\"5\">Landsat-OLI</td><td colspan=\"5\">WorldView-3</td></tr><tr><td>RED</td><td>NIR</td><td>RVI</td><td>NDVI</td><td>MSAVI</td><td>RED</td><td>NIR</td><td>RVI</td><td>NDVI</td><td>MSAVI</td></tr><tr><td>Kappa系数</td><td>0.72</td><td>0.72</td><td>0.77</td><td>0.70</td><td>0.75</td><td>0.82</td><td>0.85</td><td>0.90</td><td>0.95</td><td>0.93</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SLR、LASSO、RR模型常被应用于植被地上生物量的预测[32-33]。在R语言环境中构建回归模型,利用\"glmnet\"包构建遥感特征参数与植被地上生物量之间的回归模型，并利用\"sperrorest\"包进行模型的交叉验证[34]。交叉验证数据集被随机分配至 $\\boldsymbol { G }$ （ $\\scriptstyle { ( - 1 0 ) }$ 组，交叉验证重复10次，选取均方根误差(RMSE）、标准偏差(SD)和均方根误差百分比（RM-SErel)作为模型精度的指标，用于对比分析模型的回归效果。RMSE用来衡量预测值与实测值之间的偏差；SD为各数据偏离平均数的距离；RMSErel为均方根的偏移。3项指标越小表示模型的误差越小。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S D } = { \\sqrt { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( y _ { i } - { \\bar { y } } \\right) ^ { 2 } } { n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { R M S E } } = { \\sqrt { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( { \\hat { y } } _ { i } - y _ { i } \\right) ^ { 2 } } { n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { R M S E r e l } } = { \\frac { \\mathrm { R M S E } } { \\bar { y } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { y } _ { i }$ 为第 $i$ 个样方植被地上生物量实测值 $\\left( \\mathbf { g } \\bullet \\mathbf { m } ^ { - 2 } \\right)$ ！$\\hat { y } _ { i }$ 为第 $i$ 个样方植被地上生物量预测值 ${ \\big ( } \\mathbf { g } \\cdot \\mathbf { m } ^ { - 2 } { \\big ) } ; { \\bar { y } }$ 为实测植被地上生物量的平均值 ${ \\big ( } \\mathbf { g } \\cdot \\mathbf { m } ^ { - 2 } { \\big ) } ; n$ 为模型中使用的样方个数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.6植被地上生物量遥感估算结果的修正",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "构建WorldView-3和Landsat-OLI影像植被地上生物量分布数据之间的线性关系，通过该线性关系对基于Landsat-OLI影像得到的阿尔金山北麓山前戈壁区的荒漠植被地上生物量分布图进行修正。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 估算结果验证 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用交叉验证方法对所有样方的估算结果进行对比分析(表3）。WorldView-3数据的反演效果明显优于Landsat-OLI,RMSE平均降低 $5 8 . 6 5 ~ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ ，RMSErel平均降低了 $7 2 . 2 7 \\%$ 。LASSO、RR和SLR模",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3植被地上生物量预测结果交叉验证",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a465a1ad0bb0e39c8f74f438763cbf4e97c271ec9d0f58e7015f70ec5f7e09e5.jpg",
+        "table_caption": [
+            "Tab.3 Result of cross-validated aboveground biomass in the samples "
+        ],
+        "table_footnote": [
+            "注：Landsat-OLI为Landsat-OLI传感器；WorldView-3为World-View-3传感器;LASSO为套索回归;RR为岭回归;SLR为逐步线性回归；RMSE为均方根误差；SD为标准偏差;RMSErel为均方根误差百分比。"
+        ],
+        "table_body": "<html><body><table><tr><td>模型类型</td><td>RMSE/g·m-2</td><td>SD/g·m-2</td><td>RMSErel/%</td></tr><tr><td>Landsat-OLI LASSO</td><td>95.36</td><td>42.84</td><td>115.81</td></tr><tr><td>WorldView-3LASSO</td><td>32.99</td><td>10.27</td><td>45.26</td></tr><tr><td>Landsat-OLI RR</td><td>94.15</td><td>40.99</td><td>114.34</td></tr><tr><td>WorldView-3RR</td><td>33.42</td><td>9.81</td><td>44.68</td></tr><tr><td>Landsat-OLI SLR</td><td>95.92</td><td>43.39</td><td>134.94</td></tr><tr><td>WorldView-3SLR</td><td>43.07</td><td>21.93</td><td>58.33</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "型中，RR模型的估算效果最好，其中WorldView-3RR模型的RMSErel为 $4 4 . 6 8 \\%$ ,略优于WorldView-3SLR模型的 $5 8 . 3 3 \\%$ 和WorldView-3LASSO 模型的$4 5 . 2 6 \\%$ ; Landsat-OLIRR模型的RMSErel为 $1 1 4 . 3 4 \\%$ ，略优于Landsat-OLI SLR模型的 $1 3 4 . 9 4 \\%$ 和Landsat-OLILASSO模型的 $1 1 5 . 8 1 \\%$ O",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2估算结果分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用WorldView-3RR和Landsat-OLIRR模型估算植被地上生物量，得到模型预测值与实测值的1:1线性图（图3）。利用WorldView-3RR模型反演得到的植被地上生物量预测值与样方实测值更贴近于1:1线，基于WorldView-3数据的估算效果明显优于Landsat-OLIRR。Landsat-OLIRR模型植被地上生物量估算值基本上不随实测值的变化而发生变化，表明Landsat-OLI遥感数据对于稀疏荒漠植被的敏感性非常低，在实际应用中会使植被地上生物量估算结果出现较大偏差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在WorldView-3数据覆盖区内随机选取500个像元，每个像元之间的距离不小于 $1 0 0 \\mathrm { ~ m ~ }$ ，构建WorldView-3RR和Landsat-OLIRR植被地上生物量估算数据之间的线性关系，对Landsat-OLIRR植被地上生物量估算结果进行修正。WorldView-3RR与Landsat-OLIRR估算值之间的关系式为(图4)：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { O L I } = 0 . 1 2 8 1 \\mathrm { W V } + 7 1 . 9 6 4\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中：OLI与WV分别为Landsat-OLIRR与World-View-3RR模型的植被地上生物量预测值 $\\left( \\mathbf { g } \\cdot \\mathbf { m } ^ { - 2 } \\right)$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3植被地上生物量遥感估算",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用WorldView-3RR估算WorldView-3影像覆盖区的植被地上生物量,其均值为 $1 2 2 . 4 3 \\mathrm { \\ g } \\cdot \\mathrm { m } ^ { - 2 }$ 注：OLI与WV分别为Landsat-OLIRR与WorldView-3RR模型的植被地上生物量预测值； $R ^ { 2 }$ 为决定系数。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a34500ea24c4cee87605c9efc817da6bcf7410dac3a899c6c40cb0962b6e8888.jpg",
+        "img_caption": [
+            "干辛区地理"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d589e6bdb15a16fe9b744e620e6999b44ae47b5d829e29e2654604ecd53afafc.jpg",
+        "img_caption": [
+            "Fig.3Scatterplots of measured and predicted aboveground biomass ",
+            "图4植被地上生物量回归分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（RMSErel $_ { = 4 4 . 6 8 \\% }$ （图5a)；利用Landsat-OLIRR估算WorldView $^ { - 3 }$ 影像覆盖区的植被地上生物量，其均值为 $8 4 . 5 9 \\ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } ( \\mathrm { R M S E r e l } = 1 1 4 . 3 4 \\%$ （图5b）。Landsat-OLIRR的RMSErel比WorldView-3RR高出$6 9 . 6 6 \\%$ 。利用公式(12)对Landsat-OLIRR模型估算结果修正，修正的植被地上生物量均值为90.35${ \\bf g } \\cdot { \\bf m } ^ { - 2 } ( \\mathrm { R M S E r e l } { = } 8 3 . 1 6 \\% )$ （图5c)。修正方程在一定程度上提高了Landsat-OLIRR模型的估算精度，RMSErel降低了 $3 1 . 1 8 \\%$ 。对比图5b和图5c可见，修正后的植被地上生物量分布更加“精细”。洪积扇戈壁表面因洪水而沟壑纵横，受微地形影响植被分布空间异质性较高，图5c对植被地上生物量分布的",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e15175c58eb4a19e39dd06bb8b0ab0acafc443796fe20622a0b24232c9f4ccf9.jpg",
+        "img_caption": [
+            "图3植被地上生物量实测值和预测值的1:1线性图",
+            "Fig.4Regression analysis of aboveground biomass ",
+            "图5WorldView-3遥感影像覆盖区域植被地上生物量估算结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Estimation results of aboveground biomass in the area covered by WorldView-3 remote sensing data ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d4de9a385030b52bdddcb6cf9f7ac7b60141ae9670c3e83fe33a4e28d71a743.jpg",
+        "img_caption": [
+            "图6植被地上生物量估算结果",
+            "Fig.6 Estimation results of aboveground biomass "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "空间异质性刻画得更加清晰。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利用Landsat-OLIRR模型估算研究区植被地上生物量,其均值为 $8 5 . 2 8 \\mathrm { ~ g } \\cdot \\mathrm { m } ^ { - 2 } ( \\mathrm { R M S E r e l } = 8 4 . 9 3 \\%$ ）（图6a)。修正后的植被生物量均值为 $1 1 8 . 2 8 ~ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ (RMSErel $= 7 1 . 5 1 \\%$ )（图6b)。从植被地上生物量分布来看，图6b的植被地上生物量分布格局与地面调查数据更为符合，南部海拔较高的山麓地区植被地上生物量较高，而北部接近于沙漠边缘的海拔较低区域植被地上生物量较低。对比两幅地上生物量分布图可以发现，在植被地上生物量较低的$9 3 ^ { \\circ } 0 0 ^ { \\prime } \\mathrm { E }$ 附近地区和植被地上生物量普遍较高的$9 4 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { E }$ 附近地区，修正前后分别出现了高值变低和低值变高的现象，表明低植被地上生物量区域被高估和高植被地上生物量区域被低估的问题得到了一定程度的修正。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）遥感数据空间分辨率是影响稀疏荒漠植被地上生物量回归模型估算精度的主要因素。与中空间分辨率Landsat-OLI遥感数据相比，基于高空间分辨率WorldView-3遥感数据建立的稀疏荒漠植被地上生物量估算模型估算精度更高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）传统的植被地上生物量回归模型多是利用植被指数等遥感特征参数与地面数据的相关关系直接构建。虽然采用该方法可能会得到较高的估算精度，但是遥感特征参数之间的共线问题会使模型的稳定性降低。采用非线性的多元回归方法SLR、LASSO和RR构建遥感特征参数与地面样方数据之间的回归模型可以有效提高模型的稳定性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）提取稀疏荒漠植被信息时，采用高空间分辨率遥感数据的估算结果对中空间分辨率遥感数据的估算结果进行修正，可以有效提高中空间分辨率遥感数据对稀疏荒漠植被信息的提取精度，并可以在具有相同自然条件的较大尺度上应用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]陈曦.中国干旱区自然地理[M].北京:科学出版社,2010:89. [Chen Xi.Physical geography of arid land in China[M].Beijing: Science Press,2001: 89.]   \n[2] 陶冶,张元明.中亚干旱荒漠区植被碳储量估算[J].干旱区地 理,2013,36(4): 615-622.[Tao Ye,Zhang Yuanming.Evaluation of vegetation biomass carbon storage in deserts of Central Asia[J]. Arid Land Geography,2013,36(4): 615-622.]   \n[3] Bao Y S,Cheng L L,Lu Q.Assessment of desert ecological assets and countermeasures for ecological compensation[J]. Journal of Resources and Ecology,2019,10(1): 56-62.   \n[4] Mutanga O,Adam E,Cho M A.High density biomass estimation for wetland vegetation using WorldView-2 imagery and random forest regression algorithm[J]. International Journal of Applied Earth Observation and Geoinformation,2012,18:399-406.   \n[5] Cho M A, Skidmore A,Corsi F,et al.Estimation of green grass/ herb biomass from airborne hyperspectral imagery using spectral indices and partial least squares regression[J]. International Journal of Applied Earth Observation and Geoinformation,2OO7,9(4): 414-424.   \n[6] Chave J, Réjou-Méchain M, Burquez A,et al. Improved allmetric models to estimate the aboveground biomass of tropical trees[J]. Global Change Biology,2014,20(10): 3177-3190.   \n[7]贺金生,方精云,朴世龙,等.中国草地植被生物量及其空间分 布格局[J].植物生态学报,2004,28(4):491-498.[He Jinsheng， Fang Jingyun,Piao Shilong, et al. Spatial distribution of grassland biomass in China[J]. Chinese Journal of Plant Ecology,2004,28 (4): 491-498.]   \n[8]Zhang X Y,Friedl MA,Schaaf C B,et al. Monitoring vegetation phenology using MODIS[J]. Remote Sensing of Environment, 2003,84(3): 471-475.   \n[9]White M A, Beurs K M D,Didan K,et al. Intercomparison, interpretation, and assessment of spring phenology in north America estimated from remote sensing for 1982—2006[J]. Global Change Biology,2009,15(10):2335-2359.   \n[10]宋洁,刘学录.祁连山国家公园森林地上碳密度遥感估算[J].干 旱区地理,2021,44(4):1045-1057.[Song Jie,Liu Xuelu. Estimation of forest aboveground carbon density in Qilian Mountains National Park based on remote sensing[J].Arid Land Geography, 2021, 44(4): 1045-1057.]   \n[11] Cunlife A M,BrazierRE,Anderson K. Ultra-fine grain landscapescale quantification of dryland vegetation structure with drone-acquired structure-from-motion photogrammetry[J].Remote Sensing of Environment,2016,183:129-143.   \n[12]Yan F,Wu B,Wang Y. Estimating spatiotemporal patterns of aboveground biomass using Landsat TM and MODIS images in the Mu Us Sandy Land,China[J].Agricultural and Forest Meteorology,2015,200: 119-128.   \n[13] 叶静芸,吴波,刘明虎,等.乌兰布和沙漠东北缘荒漠-绿洲过 渡带植被地上生物量估算[J].生态学报,2018,38(4):1216- 1225.[Ye Jingyun,Wu Bo,Liu Minghu,et al.Estimation of aboveground biomass of vegetation in the desert-oasis ecotone on the northeastern edge of the Ulan Buh Desert[J].Acta Ecologica Sinica, 2018,38(4): 1216-1225.]   \n[14] Zandler H, Brenning A,Samimi C. Quantifying dwarf shrub biomass in an arid environment: Comparing empirical methods in a high dimensional setting[J]. Remote Sensing of Environment, 2015, 158: 140-155.   \n[15] 吴娱,张相锋,董世魁,等.阿尔金山自然保护区东部典型植物 群落的物种组成、多样性及生物量[J].生态学杂志,2013,32 (9):2250-2256.[Wu Yu, Zhang Xiangfeng,Dong Shikui,et al. Species composition，diversity，and biomassof representative plant communities in eastern Arjin Mountain Nature Reserve, northwest China[J]. Chinese Journal of Ecology，2013,32(9): 2250-2256.]   \n[16]库姆塔格沙漠综合科学考察队.库姆塔格沙漠研究[M].北京: 科学出版社,2012:1-5.[Scientific Expedition Team of the Kumtag Desert.A study of the Kumtag Desert[M]. Beijing:Science Press,2012: 1-5.]   \n[17]HJ1170—2021.中华人民共和国生态环境部:全国生态状况调 查评估技术规范——荒漠生态系统野外观测[S].北京:生态环 境部,2021: 4.[HJ1170—2021. Ministry of Ecology and Environment of the People's Republic of China: National ecological status survey and evaluation technical specifications:Field observation of desert ecosystem[S]. Beijing: Ministry of Ecology and Environment, 2021: 4.]   \n[18] 姚雪玲,姜丽娜,李龙,等.浑善达克沙地6种灌木生物量模拟 [J].生态学报,2019,39(3): 905-912.[Yao Xueling,Jiang Lina, Li Long,et al. Biomass simulation of six shrub species in Otindag Sandy Land[J]. Acta Ecologica Sinica,2019,39(3): 905-912.]   \n[19]Gasparovic M, Dobrinic D, Medak D. Geometric accuracy improvement of WorldView-2 imagery using freely available DEM data[J]. The Photogrammetric Record, 2019,34(167): 266-281.   \n[20] Pearson R L, Miller L D.Remote mapping of standing crop biomass for estimation of the productivity of the shortgrass prairie[J]. Remote Sensing of Environment,1972,45(2): 7-12.   \n[21]Rouse J, Haas R H, Schell JA,et al. Monitoring vegetation systems in the Great Plains with ERTS[J].NASA Special Publication, 1974,351(1): 309-317.   \n[22] Qi J, Chehbouni A,Huete AR, et al.A modified soil adjusted vegetation index[J]. Remote Sensing of Environment,1994,48(2): 119-126.   \n[23]Addink E A,Jong A S M,Pebesma E J.Object definition for aboveground biomass and leaf area index estimation[Cl//Shimoni M, Van der Meer F D,Acheroy M.Proceedings of the $5 ^ { \\mathrm { { u } } }$ EARSeL Workshop on Imaging Spectroscopy. Bruges: EARSeL, 2007: 23-25.   \n[24] Zribi M,Le Hégarat-Mascle S,Taconet O,et al. Derivation of wild vegetation cover density in semi-arid regions: ERS2/SAR evaluation[J].International Journal of Remote Sensing,2O03,24(6): 1335-1352.   \n[25] 黄鑫,刘建红,申克建,等.基于MODIS 的青海草地产草量变化 遥感分析[J].干旱区地理,2020,43(3):715-725.[Huang Xin, Liu Jianhong,Shen Kejian, et al. Grassand yield change in Qinghai Province based on MODIS data[J]. Arid Land Geography, 2020,43(3): 715-725.]   \n[26] Li M M,Wu BF, Yan C Z. Estimation of vegetation fraction in the upper basin of Miyun Reservoir by remote sensing[J]. Resources Science,2004,26(4): 153-159.   \n[27] 陈晋,陈云浩,何春阳,等.基于土地覆盖分类的植被覆盖率估 算亚像元模型与应用[J].遥感学报,2001,5(6):416-422.[Chen Jin, Chen Yunhao,He Chunyang,et al. Sub-pixel model for vegetation fraction estimation based on land cover classfication[J]. Journal of Remote Sensing,2001,5(6): 416-422.]   \n[28] Carlson TN,Ripley D A. On the relation between NDVI,fractional vegetation cover,and leaf area index[J]. Remote Sensing of Environment,1997,62(3): 241-252.   \n[29]Rundquist B C.The influence of canopy green vegetation fraction on spectral measurements over native tallgrass prairie[J]. Remote Sensing of Environment,2002,81(1): 129-135.   \n[30]Townshend JRG,Justice C O,Hardy JR,et al. Terrain analysis and remote sensing[M]. London: G.Allen & Unwin Press,1981: 551.   \n[31] 岳健,穆桂金,唐自华,等.基于NDVI的新疆荒漠地区植被覆 盖度遥感估算经验模型研究[J].干旱区地理,2020,43(1):153- 160.[Yue Jian,Mu Guijin, Tang Zihua,et al. Remote sensing estiV based on NDVI[J].AridLand Geography,2020, 43(1): 153-160.]   \n[32]Brenning A,Long S,Fieguth P.Detecting rock glacier flow structures using Gabor filters and IKONOS imagery[J]. Remote Sensing of Environment,2012,125:227-237.   \n[33]D'Odorico P,Bhattachan A,Davis K F,et al.Global desertifica",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "tion:Drivers and feedbacks[J].Advances in Water Resources, 2013,51: 326-344. [34]Venables WN,Smith D M,The RDevelopment Core Team.An introduction to R[M]. United Kingdom: Network Theory Limited, 1990: 275-286. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Estimation of aboveground biomass of sparse desert vegetation based on remote sensing techniques in hyper-arid area ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "YE Jingyun'， WU Bo¹²，JIA Xiaohongl²，FEI Bingqiangl²，GAO Junliang³,CHENG Long¹²，PANG Yingjun1²， YAO Bin1²，KONG Deyong4",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1.InstituteofDesertificationStudies,ChineseAcademyofFrestryBeijingOO91,China;2.KeyLaboratoryofDsert EcosystemandGlobalCange,StateAdmiistrationofFrestrndGrassand,Beijing1,Cina;.ExperimenalCtef DesertForestryChineseAcademyofForestryDengkouO52,IerMongolia,Cina;4.aoguan University,oan 512005, Guangdong, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The aboveground biomass (AGB) is an essential indicator of desert ecosystem health evaluation and desertification monitoring in arid areas.The estimation accuracy of the general remote sensing model is reduced because of the influence of small and sparse desert vegetation,low AGB per unit area,and background soil information. Improving biomass estimation accuracy of sparse desert vegetation can provide essential parameters for terrestrial ecosystem carbon storage estimation and carbon cycle research.It can also provide technical support for desertification monitoring.Herein,the Gobi area in front of the Altun Mountains in the south of Kumtag Desert, northwest China with an extremelyarid climate is considered as the research area.The vegetation coverage area was accurately extracted using UAV image data. The estimation results based on the high-spatial resolution WorldView-3 remote sensing data were used to corrct the estimation results based on the medium spatial resolution Landsat-OLI remote sensing data.Then, stepwise linear regresson (SLR), LASSO regression, and ridge regression (RR) models were used to estimate the AGB of sparse desert vegetation.The results showed that:(l）High-spatial resolution satelite remote sensing data can accurately describe the spatial and temporal distribution characteristics of vegetation in arid areas.The RMSErel mean value of WorldView-3 remote sensing data was $4 4 . 6 8 \\%$ . (2) The RR model had a better regression effect than SLR and LASSO models. The RMSErel of the WorldView-3 RR model was $4 4 . 6 8 \\%$ ,better than the SLR model $( 5 8 . 3 3 \\% )$ and LASSO model $( 4 5 . 2 6 \\% )$ ） Additionally, the RMSErel of the Landsat-OLI RR model was $1 1 4 . 3 4 \\%$ , better than the SLR model $( 1 3 4 . 9 4 \\% )$ and LASSO model $( 1 1 5 . 8 1 \\%$ ).(3）Using the WorldView-3 remote sensing data as an intermediate medium between ground and Landsat-OLI remote sensing data,the AGB estimation results of desert vegetation based on Landsat-OLI remote sensing data were corrected,and the RMSErel decreased by $3 1 . 1 8 \\%$ . The spatial resolution of remote sensing data is the main factor affcting the estimation accuracy of the sparse desert vegetation AGB regression model.The main reason for the decrease in the estimation accuracy of AGB is the decrease in the sensitivity of Landsat-OLI remote sensing data to sparse desert vegetation information.The nonlinear multiple regression methods， SLR,LASSO,and RR,are used to build the regression model between remote sensing characteristic parameters and ground sample data, effctively improving model stability. When extracting sparse desert vegetation information,using high-spatial resolution remote sensing data as a medium between ground and medium spatial resolution remote sensing data can efectively improve the extraction accuracy of sparse desert vegetation information from medium spatial resolution remote sensing data. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: remote sensing eigenvalue; sparse desert vegetation; aboveground biomass; regresion model ",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,159 @@
+# 基于辨识特征后融合的行人再识别
+
+刘琦1,²，侯丽1,2
+
+(1．黄山学院 信息工程学院，安徽 黄山 245041;2.上海大学 通信与信息工程学院，上海 200444)
+
+摘要：跨摄像机行人因光照、视角、姿态的差异，会使其外观变化显著，给行人再识别的研究带来严峻挑战。基于多特征融合和距离度量学习技术，提出辨识特征后融合的算法，并将其应用于行人再识别中。首先，对跨摄像机行人样本图像分别提取局部最大出现频次（LOMO）特征和基于显著颜色名称的颜色描述子（SCNCD）特征，表示跨摄像机行人的外观；然后，基于所提取的LOMO和SCNCD特征，分别去训练跨视图二次判别分析（XQDA）距离度量学习模型，分别获取跨摄像机每对行人每个特征优化的距离；最后，应用最小最大标准化距离融合的算法，获取跨摄像机行人最终的距离，用于跨摄像机行人的匹配。在具有挑战的VIPeR和PRID450S 两个公开数据集上进行实验，实验结果表明所提出的行人再识别算法有效地提高了行人再识别的准确率。
+
+关键词：行人再识别；多特征融合；距离度量学习；距离融合；最小最大标准化 中图分类号：TP391.41 doi:10.3969/j.issn.1001-3695.2018.02.0186
+
+# Discriminative feature based late fusion for person re-identification
+
+Liu Qi1,², Hou Li1, 2 (1.Schoolof Information Engineering,Huangshan University,Huangshan245041,China;2.SchoolofCommunication& Information Engineering,Shanghai University,Shanghai 20o444, China)
+
+Abstract: Pedestrianmayvary greatly inappearancedue todiferences inillumination,viewpoint,and pose acrosscameras, whichcan bringserious challenges in personre-identification.This paper proposeddiscriminativefeature basedlate fusionusing multiple-feature fusionanddistance metriclearing forpersonre-identification.Firstly,it expressedhumanappearanceacross cameras through local maximal occurrence (LOMO)and salient color names-based color descriptor(SCNCD)extracted from humansample images acrosscameras.Secondly,itobtainedeachoptimized feature distance ofeachpairofpedestrians through individualcross-view quadratic discriminant analysis (XQDA)distance metric learning model trained based onLOMO feature and SCNCDfeature,respectively.Finally,itobtained the final distance ofeach pairof pedestrians acrosscameras througha distance fusion using min-max normalization,which was applied for human match acrosscameras.Experimentalresults have shown that the proposed algorithm effectively improves the accuracyof person re-identificationontwo challenging datasets (VIPeR,PRID450s）.
+
+KeyWords:personre-identification;multiple-feature fusion;distance metric learning;distance fusion;min-max normalization
+
+# 0 引言
+
+行人再识别技术，是指让计算机识别不同摄像机下的行人是否是相同的身份，通过行人的外观进行跨摄像机行人的匹配，为摄像机网络自动行人跟踪，以及城市自动视频监控等视频大数据应用提供关键技术支持。然而不同摄像机下的行人会因光照、视角、姿态等方面的差异，导致行人的外观变化显著，如图1所示（上、下两行分别为行人再识别基准数据集VIPeR中的两个不同摄像机下拍摄的行人图像，同一列为相同的行人)，给行人再识别的研究带来严峻挑战。
+
+当前对行人再识别的研究主要集中于两方面 $[ 1 ^ { \sim 3 ] }$ ：一是提取具有辨识力的视觉特征，表示跨摄像机行人的外观；二是寻找判别的距离度量学习算法，优化跨摄像机行人的特征距离。绝大多数行人再识别方法采用多特征融合的方法，改善跨摄像机行人再识别的准确率和鲁棒性 $[ 4 ^ { - 7 } ]$ 。Farenzena 等人[4]提出局部特征的对称驱动累积（SDALF）算法来描述跨摄像机行人的外观。SDALF算法编码了三个互补的行人外观视觉特征，包括通过HSV颜色直方图表示的整个彩色内容、通过最大稳定的颜色区域表示的颜色空间排列稳定区域，以及通过周期性的高度结构化的块所表示的具有高熵的局部图形，通过对称和不对称的特性处理视角的变化。Kviatkovsky等人[5提出使用颜色不变量（ColorInv）进行行人再识别。ColorInv在Log颜色空间由颜色直方图、协方差描述子、基于部分的形状上下文描述子共同来描述行人外观。基于部分的形状上下文描述子，作为一个不变的形状特征描述子，使用人体目标的不同部分，用于描述可辨识的颜色分布的内在结构分布。Yang等人[提出基于显著颜色名称的颜色描述子（SCNCD）进行行人再识别。将在四个不同的颜色空间(原始的RGB、归一化的RGB、11I2I3和HSV）计算的SCNCD和颜色直方图进行融合，共同描述跨摄像机行人的外观。Liao 等人[提出局部最大出现频次（LOMO）特征表示进行行人再识别。LOMO由HSV颜色直方图和尺度不变局部三元模式纹描述子组成，分析了人体局部的颜色和纹理特征在同一水平条位置出现的概率，并且最大化这一水平条位置出现的概率，以获得鲁棒的特性表示，有效地处理了跨摄像机行人视角的变化。
+
+![](images/870585d4d17c78775c5961911632fbf2e5bb07fbf7073e1183cbe2ec92cc3ed5.jpg)  
+图1VIPeR数据集的行人图像
+
+基于上述的特征表示方法，采用标准的距离度量如欧氏距离，进行跨摄像机视域行人匹配时，将会严重影响行人再识别的准确率。为了减轻跨摄像机行人匹配时外观特征的差异，提高行人再识别的准确率，近些年来距离度量学习[7\~10]方法广泛应用于行人再识别技术中。受基于似然比检验统计推断的启发，Koestinger等人8提出基于特定标签等值约束的距离度量方法，即KISSME（保持简单直接的度量）进行行人再识别，该种度量学习方法简单、高效，只需要计算两个小尺寸的不相似对和相似对的协方差矩阵，易于扩展到大规模的数据集中。Pedagadi等人9将无监督的主成分分析（PCA）降维与监督的局部费舍尔辨识分析（LFDA）相结合，提出低维流形距离度量学习框架进行行人再识别。LFDA在最大化类间分离的同时保存了局部邻域结构，实现了样本数据的多模态分布，并通过广义特征值估计LFDA变换。然而，当这个距离度量学习框架应用于相对较小的数据集时，可能产生最具辨识力特征的不良压缩结果，从而影响行人再识别的准确率。为了解决这个问题，通过充分利用核技巧和LFDA的优点，Xiong 等人[1o进一步采用核LFDA(KLFDA)距离度量学习进行行人再识别。KLFDA是一种封闭的非线性学习方法，在最大化费舍尔优化准则的同时，使用核技巧处理高维特征向量。该方法在进行数据降维的同时，保留了最具辨识力的特征，并能够充分利用选择核的灵活性来改善行人再识别的准确率。然而该方法在使用非线性核时，其计算速度很慢。Liao 等人提出一种判别度量学习方法，即跨视图二次判别分析（XQDA）应用于行人再识别。XQDA旨在应用跨摄像机视域训练数据，学习一个可判别的低维子空间，与此同时，在这个低维子空间学习一个优化的距离函数，用于衡量跨摄像机视域行人的特征相似度。
+
+为进一步解决跨摄像机行人外观的显著变化问题，以提高行人再识别的准确率，本文在上述多特征融合和距离度量学习技术的基础上，进一步提出辨识特征后融合的算法，即每个辨识特征先分别经过度量学习，再融合各自的特征距离，应用于行人再识别中。
+
+![](images/5fe3b19cb61583c57bd7dace656cb6f2db439af10ced208c7ec5f6bded7fe028.jpg)  
+图2算法流程
+
+本文提出的行人再识别算法如图2所示。首先，从来自不同摄像机下的行人图像中分别提取两个特征，即局部最大出现频次（LOMO）和基于显著颜色名称的颜色描述子（SCNCD);然后，应用这两个特征分别训练跨视图二次判别分析(XQDA)距离度量学习模型，以获取跨摄像机行人每个特征优化的距离度量；最后，为了平衡每个特征优化的距离度量的贡献，应用最小最大（min-max）标准化算法将每个特征优化的距离度量进行标准化，再应用距离融合的方法，获取跨摄像机行人最终的距离度量，用于跨摄像机行人的匹配，从而进行行人再识别。
+
+# 1 特征提取
+
+为了有效地处理跨摄像机行人外观的显著变化问题，本文选取对光照和视角具有鲁棒性的视觉特征：LOMO和SCNCD，共同来表示跨摄像机行人的外观。
+
+![](images/6cf517eb02fb556d8c46acff9dd4fa34cb835860b81d18a67e926f9147459171.jpg)  
+图3LOMO 特征提取图解[5]
+
+LOMO特征提取图解如图3所示[7]。采用 $1 0 ^ { * } 1 0$ 的滑动子窗口表示一幅行人图像的局部区域，在每个子窗口提取 $8 ^ { * } 8 ^ { * } 8 \textbar { . }$ bin 联合HSV颜色直方图和2个尺度的SILTP纹理直方图，然后最大化同一水平位置的所有子窗口每种模式（同一个直方图bin)的局部发生率，有效地处理了视角变化对行人外观的影响。
+
+此外，采用3个尺度的金字塔表示，通过 $2 ^ { * } 2$ 局部池化，下采样原始行人图像。上述特征提取步骤重复进行。最后，将每个水平位置所有计算的局部最大的特征向量级联在一起，形成一幅行人图像最终的LOMO特征。
+
+考虑颜色特征对跨摄像机光照变化更具辨识力，在上述LOMO特征提取的基础上，为了进一步增强光照变化对跨摄像机行人外观的影响，本文在同一幅行人图像中进一步提取SCNCD特征。SCNCD特征提取图解如图4所示[。共有M个索引来描述颜色信息，颜色名称上的数字代表接近某种颜色（这里指红色）的颜色名称集合中的概率分布，只有几个最接近的颜色名称(显著颜色名称)上有非零的概率值。一幅行人图像的SCNCD特征就是通过显著颜色名称的概率分布来进行表征。
+
+![](images/e4f428b9414c057b47c5e3c57f08514c3988d9aeb046c2494dd7cd1e968deaa9.jpg)  
+图4SCNCD 特征提取图解[4]
+
+# 2 XQDA距离度量学习
+
+为了减轻跨摄像机行人外观的显著变化，本文选取快速而有效的XQDA距离度量学习方法，获取跨摄像机行人优化的距离度量。
+
+XQDA应用跨摄像机行人样本数据学习一个低维的特征子空间。同时，在这个低维特征子空间里学习一个优化的距离函数，用于衡量跨摄像机行人的相似度[7]。跨摄像机一对行人样本数据 $( \pmb { x } , \mathbf { y } )$ 在低维特征子空间 $\boldsymbol { \mathsf { \Pi } } _ { W }$ 的距离函数 $d _ { W } ( x , y )$ 如式(1)所示。
+
+$$
+\begin{array} { r } { d _ { W } ( \pmb { x } , \pmb { y } ) = \left( \pmb { x } - \pmb { y } \right) ^ { \mathrm { T } } W ( \pmb { \Sigma } _ { \mathrm { I } } ^ { ' - 1 } - \pmb { \Sigma } _ { \mathrm { E } } ^ { ' - 1 } ) W ^ { \mathrm { T } } ( \pmb { x } - \pmb { y } ) , } \end{array}
+$$
+
+$$
+\left\{ \begin{array} { l } { \sum _ { I } ^ { \prime } = W ^ { T } \sum _ { I } W } \\ { \sum _ { E } ^ { \prime } = W ^ { T } \sum _ { E } W } \end{array} \right.
+$$
+
+其中： $\scriptstyle { \mathcal { Z } } _ { I }$ 和 $\varSigma _ { E }$ 分别表示相同行人间的协方差矩阵和不同行人间的协方差矩阵。
+
+基于LOMO 和 SCNCD 特征，根据跨摄像机行人的训练样本数据集{X,Y}，X={ $X = \left\{ \mathbf { r } _ { m i } \right\} _ { i = 1 } ^ { N }$ $Y = \left\{ y _ { m i } \right\} _ { i = 1 } ^ { N }$ （假设每个摄像机有 $\mathbf { \Psi } _ { N }$ 个行人训练样本数据)， $\ l _ { m } = L O M O , S C N C D$ ，可分别学习每个特征的核矩阵 $M _ { m } ( W ) = W _ { m } ( \boldsymbol { \itSigma } _ { m l } ^ { ' \phantom { \dagger } } - \boldsymbol { \itSigma } _ { m E } ^ { ' \phantom { \dagger } } ) W _ { m } ^ { T }$ 。采用式(1)定义的距离函数可进一步获取每个特征优化的距离度量dwm(xmym）。
+
+# 3 基于Min-max标准化距离融合
+
+考虑由LOMO和SCNCD特征获取的每个特征优化的距离度量范围不同，为了平衡每个特征优化的距离度量的贡献，本文首先采用最小最大（Min-max）标准化算法,将每个特征优化的距离度量先进行标准化到 $0 { \sim } 1$ 后，再进行距离求和运算，作为跨摄像机行人最终的距离度量。
+
+假设基于LOMO 和 SCNCD 特征优化的距离度量dwm(xm'ym），m= LOMO.SCNCD，经过最小最大（Min-max）标准化后的距离度量用 $d _ { W _ { m } } ^ { * } ( x _ { m } , y _ { m } )$ 来表示。 $d _ { W _ { m } } ^ { * } ( \boldsymbol { x } _ { m } , \boldsymbol { y } _ { m } )$ 的计算如式(3)所示。注意，沿着测试集中查询样本的维度来执行最小最大标准化。例如，当一个测试样本和100个查询样本时，则通过100个距离值来执行最小最大标准化算法。
+
+$$
+d _ { W _ { m } } ^ { * } ( x _ { m } , y _ { m } ) = \cfrac { d _ { W _ { m } } ( x _ { m } , y _ { m } ) - \operatorname* { m i n } } { \operatorname* { m a x } d _ { W _ { m } } ( x _ { m } , Y ) - \operatorname* { m i n } } d _ { W _ { m } } ( x _ { m } , Y ) ,
+$$
+
+其中： $m = L O M O , S C N C D ~ ; ~ d _ { W _ { m } } ( x _ { m } , Y )$ 表示一个距离向量，由一个测试样本和所有查询样本的距离组成； $\mathrm { m i n } d _ { W _ { m } } ( \pmb { x } _ { m } , \pmb { Y } )$ 和$\operatorname* { m a x } { d _ { W _ { m } } ( x _ { m } , Y ) }$ m(xmY)分别表示dwm(xm,Y）中元素的最小值和最大值。明显， $d _ { W _ { m } } ^ { * } ( \boldsymbol { x } _ { m } , \boldsymbol { y } _ { m } )$ 是這 $d _ { W _ { m } } ( \boldsymbol { x } _ { m } , \boldsymbol { y } _ { m } )$ 的线性变换，其值被映射到0-1之间。
+
+跨摄像机行人最终的距离度量 $d ( { \pmb I } _ { p } , { \pmb I } _ { q } )$ 由上述最小最大（Min-max）标准化后的每个特征的距离度量 $d _ { W _ { m } } ^ { * } ( \pmb { x } _ { m } , \pmb { y } _ { m } )$ 求和来计算，如式(4)所示。
+
+$$
+d ( { \cal I } _ { p } , { \cal I } _ { q } ) = \sum _ { m } d _ { W _ { m } } ^ { \ast } ( x _ { m } , y _ { m } ) .
+$$
+
+# 4 实验结果
+
+采用Windows764位操作系统Inteli7处理器的联想电脑，应用MATLAB2017a软件，在具有挑战性的2个公开数据集：VIPeR[1I]、PRID450S[I2]进行实验测试，估计本文所提出的行人再识别算法的累计匹配特性（CMC）。VIPeR和PRID450S两个数据集的简要介绍如表1所示。本文随机选取行人数的一半作为训练样本集，另一半作为测试样本集。训练集用于学习不同特征的核矩阵 ${ \cal M } _ { m } ^ { } ( W _ { m } ^ { } )$ 。而测试集用于衡量跨摄像机一对行人样本的相似度。为了使实验结果稳定、可靠，当计算CMC 曲时，每个实验重复10次取平均识别率。
+
+表1VIPeR 和PRID450S 数据集简要介绍.  
+
+<html><body><table><tr><td>数据集</td><td>VIPeR</td><td>PRID450S</td></tr><tr><td>图像数</td><td>1264</td><td>900</td></tr><tr><td>行人数</td><td>632</td><td>450</td></tr></table></body></html>
+
+<html><body><table><tr><td>训练集中图像数</td><td>316</td><td>225</td></tr><tr><td>摄像机视图数</td><td>2</td><td>2</td></tr><tr><td>每个视角每个行人的图像数</td><td>1</td><td>1</td></tr></table></body></html>
+
+在实验中，将从特征敏感度分析和与其他先进的算法比较两方面展示实验结果：
+
+# 4.1特征敏感度分析
+
+采用相同的XQDA距离度量学习方法。为了分析LOMO、SCNCD特征贡献敏感度，本文以LOMO、SCNCD以及本文所提出的方法（图2）分别在VIPeR和PRID450S两个数据集下进行实验测试。图5(a)(b)分别给出了LOMO、SCNCD，以及本文提出的方法分别在VIPeR和PRID450S两个数据集下的CMC性能比较结果。
+
+![](images/5801e3f5035ac22d8a54d63063462d98076366dc579b788ce8152ffee48b585a.jpg)  
+图5不同特征在VIPeR、PRID450S数据集的CMC性能比较
+
+由图5可见，本文提出的方法最具辨识力，在VIPeR、PRID450S两个数据集中排序为1时的识别率分别为 $4 8 . 4 \%$ ，$73 . 7 \%$ 。LOMO特征比SCNCD特征更具辨识力，LOMO特征在VIPeR、PRID450S 两个数据集中排序为1时的识别率分别为 $40 . 8 \%$ 、 $6 5 . 0 \%$ ，而 SCNCD 特征在VIPeR、PRID450S两个数据集中排序为1时的识别率分别为 $2 7 . 3 \%$ 、 $3 8 . 4 \%$ 。显然，本文提出的基于辨识特征后融合的行人再识别方法能够有效地提高行人再识别的准确率。
+
+# 4.2与其他先进的算法比较
+
+本文分别在VIPeR和PRID450S两个数据集下，与近几年提出的先进的行人再识别算法进行CMC性能比较。表2、3分别给出了相应的CMC性能比较结果。由表2、3可知，本文提出的方法（图2）在VIPeR和PRID450S两个数据集下，明显高于所比较的近几年提出的先进的行人再识别算法，可见辨识特征的后融合算法有助于提高行人再识别的性能。
+
+表2VIPeR数据集近几年公开发表的行人再识别算法的识别率(只列
+
+出了排序为1、5、10、20的累积匹配分数） $1 \%$   
+
+<html><body><table><tr><td>VIPeR 排序</td><td>1</td><td>5</td><td>10</td><td>20</td></tr><tr><td>Our approach</td><td>48.4</td><td>77.1</td><td>87.0</td><td>94.4</td></tr><tr><td>MR[13]</td><td>43.0</td><td>75.2</td><td>87.3</td><td>94.8</td></tr><tr><td>LSSCDL[14]</td><td>42.7</td><td>1</td><td>84.3</td><td>91.9</td></tr><tr><td>TSR [15]</td><td>41.6</td><td>71.9</td><td>86.2</td><td>95.1</td></tr><tr><td>MED_VL[16]</td><td>41.1</td><td>71.7</td><td>83.2</td><td>91.7</td></tr><tr><td>DRML[17]</td><td>41.1</td><td>1</td><td>79.1</td><td>91.3</td></tr><tr><td>LOMO[7]</td><td>40.0</td><td>1</td><td>80.5</td><td>91.1</td></tr><tr><td>ECM [18]</td><td>38.9</td><td>67.8</td><td>78.4</td><td>88.9</td></tr><tr><td>SCNCD[19]</td><td>37.8</td><td>68.5</td><td>81.2</td><td>90.4</td></tr><tr><td>CMWCE [20]</td><td>37.6</td><td>68.1</td><td>1</td><td>90.2</td></tr><tr><td>CSL [21]</td><td>34.8</td><td>68.7</td><td>82.3</td><td>91.8</td></tr><tr><td>KPLS [22]</td><td>33.1</td><td>67.7</td><td>81.0</td><td>90.8</td></tr></table></body></html>
+
+表3PRID450S数据集近几年公开发表的行人再识别算法的识别率
+
+(只列出了排序为1、5、10、20的累积匹配分数) $1 \%$ （204  
+
+<html><body><table><tr><td>PRID450s 排序</td><td>1</td><td>5</td><td>10</td><td>20</td></tr><tr><td>Our approach</td><td>73.7</td><td>93.4</td><td>96.9</td><td>98.6</td></tr><tr><td>LSSCDL[14]</td><td>60.5</td><td>1</td><td>88.6</td><td>93.6</td></tr><tr><td>DRML[17]</td><td>56.4</td><td>1</td><td>82.2</td><td>90.2</td></tr><tr><td>MR [13]</td><td>55.4</td><td>79.3</td><td>87.8</td><td>93.9</td></tr><tr><td>KPLS [22]</td><td>52.8</td><td>82.1</td><td>90.0</td><td>95.4</td></tr><tr><td>MED_VL[16]</td><td>45.9</td><td>73.0</td><td>82.9</td><td>91.1</td></tr><tr><td>TSR[15]</td><td>44.9</td><td>71.7</td><td>77.5</td><td>86.7</td></tr><tr><td>CSL[21]</td><td>44.4</td><td>71.6</td><td>82.2</td><td>89.8</td></tr><tr><td>ECM[18]</td><td>41.9</td><td>66.3</td><td>76.9</td><td>84.9</td></tr><tr><td>SCNCD [19]</td><td>41.6</td><td>68.9</td><td>79.4</td><td>87.8</td></tr><tr><td>CMWCE [20]</td><td>40.6</td><td>二</td><td>80.7</td><td>90.0</td></tr></table></body></html>
+
+# 5 结束语
+
+本文基于LOMO、SCNCD 特征和 XQDA 距离度量学习的基础上，提出辨识特征的后融合方法，并应用于行人再识别中。在具有挑战的VIPeR和PRID450S两个行人再识别基准数据集上进行实验，实验结果展示了本文提出的行人再识别算法的先进性和有效性。
+
+# 参考文献：
+
+[1]Wang Xiaogang. Inteligent multi-camera video surveillance: a review [J]. Pattern Recognition Letters,2013,34(1):3-19   
+[2]Yu Tianshu,Wang Ruisheng.Enhancing scene parsing by transferring structures via efficient low-rank graph matching [Cl// Proc of ACM
+
+SIGSPATIAL International Conference on Geographic Information Systems.
+
+2016: 1-9.   
+[3] Zhang Xin，Ding Meng,Fan Guoliang.Video-based human walking estimation using joint gait and pose manifolds [J]. IEEE Trans on Circuits and Systems for Video Technology,2017,27(7):1540-1554.   
+[4]Farenzena M,Bazzani L,Perina A,et al. Person re-identification by symmetry-driven accumulation of local features [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.2010: 2360-2367.   
+[5]Kviatkovsky I,Adam A，Rivlin E.Color invariants for person reidentification[J]. IEEE Trans on Pattern Analysis and Machine Intelligence, 2013,35 (7): 1622-1634.   
+[6]Yang Yang,Yang Jimei, Yan Junjie,et al. Salient color names for person reidentification [C]//Proc of European Conference on Computer Vision.2014: 536-551.   
+[7]Liao Shengcai,Hu Yang,Zhu Xiangyu,et al.Person re-identification by local maximal occurrence representation and metric learning [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition,2015:2197- 2206.   
+[8]Koestinger M,Hirzer M, Wohlhart P,et al.Large scale metric learning from equivalence constraints [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition. 2012: 2288-2295.   
+[9]Pedagadi S,OrwellJ, Velastin S,et al.Local fisher discriminant analysis for pedestrian re-identification [C]/ Proc of IEEE Conference on Computer Vision and Pattern Recognition.2013: 3318-3325.   
+[10] Xiong Fei,Gou Mengran,Camps O,et al. Person re-identification using kernel-based metric learning methods [C]//Proc of European Conference on Computer Vision.2014:1-16.   
+[11] Gray D,Brennan S,Tao Hai.Evaluating appearance models for recognition, reacquisition,and tracking [C]//Proc of IEEE International Workshop on Performance Evaluation for Tracking and Surveillance.2Oo7:1-7.   
+[12] Roth PM,Hirzer M,Kostinger M,et al.Mahalanobis distance learning for person re-identification [M]/ Person Re-Identification.London: Springer,
+
+2014: 247-267.   
+[13] Chen Yingcong, Zheng Weishi,Lai Jianhuang. Mirror representation for modeling view-specific transform in person re-identification [C]//Proc of International Joint Conference on Artificial Intelligence.2015:3402-3408.   
+[14] Zhang Ying,Li Baohua, Lu Huchuan,et al. Sample-specific SVM learning for person re-identification [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.2016:1278-1287.   
+[15] Shi Zhiyuan，Hospedales T M，Xiang Tao.Transferring a semantic representation for person re-identification and search [C]// Proc of IEEE Conference on Computer Vision and Pattrn Recognition. 2015: 4184-4193.   
+[16] Yang Yang,Lei Zhen, Zhang Shifeng,et al.Metric embedded discriminative Vocabulary learning for high-level person representation [C]// Proc of AAAI Conference on Artificial Intelligence.2016: 3648-3654.   
+[17] Yao Wenbin,Weng Zhenyu,Zhu Yuesheng.Diversity regularized metric learning for person re-identification [C]// Proc of IEEE International Conference on Image Processing.2016: 4264-4268.   
+[18] Liu Xiaokai;Wang Hongyu;Wu Yi,et al. An ensemble color model for human re-identification [C]//Proc of IEEE Winter Conferenceon Applications of Computer Vision.2015: 868-875.   
+[19] Yang Yang,Yang Jimei, Yan Junjie,et al. Salient color names for person reidentification [C]// Proc of European Conference on Computer Vision. 2014: 536-551.   
+[20] Yang Yang,Liao Shengcai,Lei Zhen,et al.Color models and weighted covariance estimation for person re-identification [C]//Proc of International Conference on Pattern Recognition. 2014:1874-1879.   
+[21] Shen Yang,Lin Weiyao,Yan Junchi,et al.Person re-identification with correspondence structure learning [C]// Proc of IEEE International Conference on Computer Vision.2015:3200-3208.   
+[22] Prates R,Oliveira M, Schwartz WR.Kernel partial least squares for person re-identification [C]//Proc of IEEE International Conference on Advanced Video and Signal Based Surveillance.2016: 249-255.

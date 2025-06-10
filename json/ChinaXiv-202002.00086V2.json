@@ -1,0 +1,733 @@
+[
+    {
+        "type": "text",
+        "text": "概念内隐记忆中的注意促进效应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孟迎芳」董月晴」陈荃1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(福建师范大学心理学院，福州，350117)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2浙江传媒学院心理健康与生命教育中心，杭州，310018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[目的]探讨概念内隐记忆中的注意促进效应。  \n[方法]采用经典的注意促进效应的实验范式，同时再编码阶段对背景信息的编码加工类型(知觉加工或概念加工）进行操纵，测验方式为概念内隐记忆测验。  \n[结果]当与目标探测同时进行的是对背景信息的概念加工任务，则ABE会出现在随后的概念内隐测验中。  \n[局限]只进行了行为实验，没有进行认知神经科学层面的研究。  \n[结论]目标探测既可能促进背景信息的知觉加工，也可能促进背景信息的语义加工。关键词注意促进，内隐记忆，概念加工，知觉加工",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Attentional Boost Effect In the Conceptual Implicit Memory ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MENG Yingfang1; DONG Yueqing1; CHEN Quan1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(lSchool of Psychology, Fujian Normal University, Fuzhou 350117, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2Mental health and Life Education Center, Communication University of Zhejiang,Hangzhou ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "310018) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Objective] This study mainly explore whether target detection will promote the semantic processing of simultaneously presented background materials. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Methods] This study will adopt Swallow and Jiang (2O1O) classic ABE paradigm,and further control the different processing types of memory materials in the encoding stage. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Results] ABE effect only appears under the condition of semantic encoding,but not under the condition of perceptual encoding. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Limitations] Only behavioral experiments were conducted,and no cognitive neuroscience research was conducted. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Conclusions] The results show that in the process of dual task processing, target detection can not only promote the perceptual processing of background information, but also promote the semantic processing of background information. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords : Attentional boost effect; Implicit memory； Conceptual processing; perceptual processing ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "“一心两用”在日常生活中十分常见，一般情况下，研究者们认为个体的注意资源是有限的[1I。在执行双任务的过程中，其中一项任务的注意资源增多使另一项任务的注意资源被削弱，导致该任务表现出较差的行为反应[2,3]。然而Swallow和Jiang[4却发现一个与之相反的现象。他们在学习阶段采用双任务范式，要求被试记住屏幕上呈现的图片，同时还需要对图片上方的方块进行一项目标探测任务，出现目标(白色)方块进行按键反应，其它(如黑色)方块均视为分心物，忽略不需进行任何反应。目标与分心方块的比例为1:6。随后测验阶段要求被试对图片进行新旧再认判断。一般认为，需要个体进行反应的事件比不需要反应的事件会消耗更多的注意资源[2]。按此推论，目标探测条件下背景图片得到的加工资源应该更少，表现出比分心忽略条件更差的记忆成绩。然而实验结果与之相反，与目标同时呈现的图片的再认成绩要优于与分心同时呈现的图片。但在集中注意条件下,即要求被试只需记住图片，忽略所有方块时，则不存在这种差异。Swallow和Jiang[4将这种由目标探测反应引起的对背景图片的记忆优势称为注意促进效应(Attentional Boost Effect, ABE)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于ABE并不符合传统的注意资源有限理论，随后研究在Swallow和Jiang[4]的实验范式基础上进一步控制不同的变量，试图探讨该效应的来源。结果发现，ABE 并不因目标与分心方块的比例由1:6变成1:1而改变[4]，也不因目标探测反应由按键变成内隐的计数反应而消失[5,6]。即使提升了目标探测任务的难度，ABE也不受影响[6]。这些结果表明ABE 并非源于目标的知觉差异性、目标的动作反应或探测任务较为简单等因素。随后研究将ABE扩展到词汇以及无意识的内隐记忆领域，却发现编码时的目标探测并不会促进背景词在随后概念内隐测验中的成绩，如语义分类任务[7]、类别样例产生任务[8]，虽然同样的设置对随后的知觉内隐测验，如词汇判断任务、残词补全任务是会产生影响的，即与目标同时呈现的背景词的启动量会明显优于与分心同时呈现的背景词，甚至会超过集中注意条件下的启动量。与外显记忆的再认测验不同，内隐记忆测验中并不需要被试进行有意识的回忆，但被试对学习过的刺激比未学习过的刺激会表现出更快的反应、更高的准确率，通常以启动效应来表示。一般认为，知觉内隐测验中行为的操作主要依赖于分析刺激的表面或感知特征，反映了刺激知觉加工上的易化效应；而概念内隐测验中行为的操作则依赖于分析刺激的意义，反映了刺激概念加工上的易化效应[9]。由于 ABE 只在知觉内隐测验中稳定存在，并未出现于概念内隐测验中，由此研究者们认为，编码中的目标探测主要促进的是对同时呈现的背景信息的知觉加工，而非语义加工，由此才会促进知觉内隐测验中的启动效应，而不会对概念内隐测验中的启动效应产生影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而这一结论也遇到一些质疑。例如，研究者发现，ABE的大小并不会因背景信息在学习和测验阶段呈现通道的转化而有所减弱，并且在自由回忆测验中也发现了ABE[10]。如果目标探测增强的只是背景信息的知觉加工，根据迁移合适加工理论，学习一测验的通道变化应该会减少这种知觉加工优势[]，从而减弱ABE。类似的，在自由回忆测验中并没有呈现学习刺激，因此理论上一般认为，知觉调节的效应虽然有助于再认测验，但对自由回忆测验是不会起作用的[11]，因此ABE也应该不会出现在自由回忆测验中。然而实验结果却与这些假设完全相反，由此Mulligan 等人[10]认为，目标探测除了促进同时呈现的背景信息的知觉加工之外，应该也会促进背景信息的语义加工。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "那么目标探测是否会促进语义加工呢？如果可以，为何在依赖于语义信息的概念内隐测验任务中并没有发现ABE[7,8]？已有的 ABE 研究曾控制目标方块呈现的时间点，发现目标方块在背景信息之前或之后出现都不会产生ABE，只有在两者呈现时间重叠时才出现ABE[12]。由此研究者提出，对目标刺激的探测反应触发了时间选择性注意机制，该机制一般伴随着蓝斑核一去甲肾上腺素(LC-NE)系统的活动，从而产生短暂且广泛的注意增强，并促进了与目标刺激同时呈现的背景信息的编码加工[13,14]。研究也曾表明，时间选择性注意所触发的注意增强会促使该时刻呈现的事件知觉或概念信息更好地储存进长时记忆中[15,16]。这似乎暗示着，目标探测所产生的短暂的注意增强不仅会促进知觉加工，应该也会促进概念加工，取决于与该时间点同时进行的认知加工类型。基于此，我们推测，概念内隐测验任务中未发现ABE是否与这些实验中采用的编码加工任务有关？在 Spataro 等人[7,8]研究中，编码任务均为大声读词。以往研究曾发现，在大声读词的编码方式下，被试可以通过“形—音”规则直接获取语音，因此可以只对词汇进行知觉编码加工，而不涉及到语义的启动[17-19]。这或许可以解释为何目标探测只促进同时呈现背景词汇的知觉加工。基于此，我们推测，如果时间选择性注意机制下促进的是与目标探测同时进行的认知加工，当与目标探测同时进行的是对词的概念加工，ABE应该会出现在随后的概念内隐测验中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为验证上述推测，本研究将借助三个实验，通过操纵对记忆材料的不同编码加工类型，探究ABE是否可以出现在随后的概念内隐测验中。实验一采用中文词汇材料，在编码阶段让被试大声读词的同时进行一项与词无关的目标探测任务，随后进行词汇判断任务(知觉内隐测验)或语义分类任务(概念内隐测验)。虽然以往研究已表明，ABE 并不受目标与分心刺激之间比例的影响[4]，但为了减少目标独特性可能对知觉或语义编码加工带来的混淆效应，实验一将目标与分心刺激的比例设定为1:1。依据之前的推测，如果时间选择性注意机制下促进的是与目标探测同时进行的认知加工，而大声读词的编码方式下更多是对词汇的知觉加工，那么ABE应该只会出现在随后的知觉内隐测验中，而不会出现在概念内隐测验中。实验一目的在于验证在概念内隐测验中ABE 的缺失是否与记忆编码任务有关，为 Spataro 等人[7]的实验结果提供进一步的解释依据，同时也为随后实验提供范式基础。在实验一基础上，实验二和三将分别采用词汇和图片材料，并进一步控制对记忆材料的编码加工类型，包括知觉编码加工(词汇结构判断、图片有无出现白色)和语义编码加工(词汇、图片愉悦度判断)，随后只进行语义分类任务，着重考察不同编码方式下概念内隐测验是否会产生ABE，以验证目标探测是否可以促进同时呈现的背景信息的语义加工。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验一 大声读词编码对ABE在内隐记忆测验中的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）被试 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "借助 shiny apps 进行贝叶斯因子设计分析(Bayes Factor Design Analysis,BFDA)²，采用固定样本量分析的方式，基于JASP中进行贝叶斯分析的默认先验分布(柯西分布)，统计效应量大小设置为 $\\delta \\ = 0 . 5 0$ （根据先前对注意促进效应的研究，在产生ABE条件下， $d$ 均大于0.70，本研究参照 Spataro 等人[7]的研究，在进行样本量估计时，将预期效应量 $d$ 值设置为0.50)，结果表明，样本量为37时，$B F _ { I O } > 3$ 的概率是 $5 2 . 8 0 \\%$ 。基于被试流失率，本实验招募了40名大学生被试，其中男生11人，女生29人，平均年龄 $2 3 . 0 3 { \\scriptstyle \\pm 2 . 5 1 }$ 罗。所有被试视力或矫正视力正常，无红绿色盲或色弱，均为右利手。实验结束后给予被试一定的报酬。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)实验材料",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "记忆任务材料：从《现代汉语频率词典》(1986年版)选用低频双字词360个，词频范围在2.3-9.9/百万，平均词频 $4 . 0 6 { \\pm } 1 . 9 4 /$ 百万，词的意义趋近中性化。请32名非实验被试对词汇的愉悦度和唤醒度进行 5点评分(1表示极其不悦或非常平静，5表示极其愉悦或非常激动)。结果显示，所有词汇的愉悦度平均分为 $3 . 1 6 \\pm$ 0.42，唤醒度为 $1 . 9 2 \\pm 0 . 4 8$ 。将360个词随机分配到知觉测验条件和概念测验条件，每种条件180个，其中60个用于集中注意条件(30个旧词，30个新词)，120个用于分散注意条件(30个目标旧词、30个分心旧词，60个新词)。各条件下所用的词在愉悦度和唤醒度上均无显著差异[愉悦度： $F ( 4 , 3 5 0 ) = 1 . 7 4 , p = 0 . 1 4 0$ ；唤醒度： $F ( 4 , 3 5 0 ) = 1 . 0 5$ ， $p = 0 . 3 8 0 ]$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另外，在知觉测验中还采用了135个假词(如：咖剪)，45个用于集中注意条件，90个用于分散注意条件。假词是通过将选用的双字词前后两个字单独拆开，打乱顺序并随机组合成词(如将“咖啡”、“剪刀”拆分组合成假词“咖剪”），排除语音或语义上有意义真词相似的词语（“演唱”和“单元”拆字后若组成假词“演元”,其语音上与“演员\"相同)。在概念测验中还采用135个双字词人名(如：缦妮)，45个用于集中注意条件，90个用于分散注意条件。此外选取了24个双字词、8个假词和8个人名用于练习阶段，不计入分析。所有词汇均以白色80号黑体呈现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "探测任务材料：目标探测物为红色实心圆圈(RGB:240,38,0)，分心物为绿色实心圆圈(RGB:0,140,0)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）实验设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验为 2(注意条件：集中注意 vs.分散注意) $\\boldsymbol { \\mathsf { I } } \\times$ 2(内隐测验类型：知觉测验概念测验)的被试内设计。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4）实验程序 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验采用Presentation0.71软件进行施测和收集数据。刺激呈现于19 英寸彩色液晶显示器上，呈现背景为黑色，分辨率为 $1 2 8 0 \\times 1 0 2 4$ 像素。被试坐在距屏幕约 $7 0 \\mathrm { c m }$ 的位置。整个实验均在标准的隔音实验室进行。被试共完成4种实验条件,即集中注意和分散注意条件下的知觉测验和概念测验条件。4种条件以ABBA的顺序在被试间平衡。每种条件都包含以下三个阶段，其中两种测验条件的学习阶段是一样的，测验阶段则采用了不同的内隐记忆测验，具体程序如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "学习阶段：屏幕上同时呈现双字词和圆圈，圆圈位于双字词下方1cm处，其中圆圈呈现 $1 0 0 m s$ 后消失，双字词继续呈现 $4 0 0 m s$ 。词与词之间的刺激间隔 (ISI)为500ms。集中注意条件下，随机呈现30个双字词，其中一半词与红色圆圈一起呈现，一半词与绿色圆圈一起呈现。要求被试只大声读词，忽略词下方呈现的圆圈。分散注意条件下，随机呈现60个双字词要求被试大声朗读，同时对词下方的圆圈进行目标探测任务，出现“红色圆圈”(目标刺激)快速按下空格键进行反应，“绿色圆圈”(分心刺激)则忽略。其中30个词与目标一起呈现，30个词与分心一起呈现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分心作业阶段：要求被试完成300倒减7的运算，直至减到202停止。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测验阶段：集中注意条件下，学习阶段呈现过的30个旧词与未学习过的30个新词，或和45个假词混合随机呈现，要求被试快速进行真/假词判断，真词按F键，假词按J键(知觉测验条件)，或和45个人名混合随机呈现，进行是否人名判断，词语按F键，人名按J键(概念测验条件)。分散注意条件下，60个旧词(包括 30个学习阶段与目标一起呈现的目标词和30个学习阶段与分心一起呈现的分心词)与未学习过的60个新词和90个假词(知觉测验条件)或90个人名(概念测验条件)混合随机呈现，被试进行相应判断。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2数据与结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3名被试因测验任务中反应时超出3个标准差，疑为极端数据或操作不当引起数据偏差，因而被剔除。采用SPSS20.0 对其余37名被试在学习和测验阶段的反应正确率和反应时进行分析，假词、人名与练习词不计入分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）学习阶段的目标探测任务结果分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对分散注意条件下学习阶段的目标探测反应进行分析。结果表明，目标探测的正确率 $( M _ { ☉ \\xrightarrow { \\sim } } = 0 . 9 8 , M _ { \\xrightarrow { \\mu \\gg } } = 0 . 9 8 , t ( 3 6 ) = 0 . 2 8 , p = 0 . 7 8 )$ 和反应时 $( M _ { \\mathit { \\acute { \\pi } } \\mathit { { I I } } \\mathit { \\acute { \\pi } } } = 4 5 9 m s .$ $M _ { \\mathit { \\# } \\mathit { \\hat { u } } \\mathit { \\hat { s } } } = 4 5 9 m s$ ， $t ( 3 6 ) = 0 . 0 2 4$ $p = 0 . 9 8 1 \\$ )在知觉和概念测验条件之间均不存在明显差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）测验阶段的启动效应和ABE结果分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同测验任务的反应时和启动量如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/40350797a4d9dc2a32f9050d64c0c37a7b5128346542f881c1335e99e93ce6e4.jpg",
+        "table_caption": [
+            "表1不同测验任务下各种条件的反应时及启动量 $( M \\pm S D )$ (ms)"
+        ],
+        "table_footnote": [
+            "注：启动量为旧词与新词的反应时差异，\\*表示启动量显著大于0, $\\scriptstyle p < 0 . 0 5$ ；\\*\\*表示启动量显著大于0， $p { < } 0 . 0 1$ ；\\*\\*\\*启动量显著大于0， $p { < } 0 . 0 0 1$ (下同)"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">测验类型</td><td colspan=\"3\">集中注意条件</td><td colspan=\"5\">分散注意条件</td></tr><tr><td>旧词</td><td>新词</td><td>启动 量</td><td>目标 旧词</td><td>分心 旧词</td><td>新词</td><td>目标 启动量</td><td>分心 启动量</td></tr><tr><td>知觉内隐 测验</td><td>634±82</td><td>673±92</td><td>39***</td><td>616±71</td><td>630±83</td><td>666±82</td><td>50***</td><td>36***</td></tr><tr><td>概念内隐 测验</td><td>614±84</td><td>635±103</td><td>21*</td><td>578±68</td><td>580±72</td><td>584± 78</td><td>5</td><td>4</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "启动效应是内隐记忆测验是否有效的一个重要评估标准[21]，参考 Spataro 等人[7]的研究，首先将集中注意条件下两个测验的启动量分别与0进行单样本 $\\mathbf { \\chi } _ { t }$ 检验，以确定是否存在启动效应。结果表明，在集中注意条件下，知觉内隐测验(t(36)$= 5 . 2 2$ ， $p { < } 0 . 0 0 1$ ， $d = 0 . 8 6$ ， $9 5 \\%$ CI [0.48,1.23])和概念内隐测验 $( t ( 3 6 ) = 2 . 6$ ， $p =$ 0.013， $d = 0 . 4 3$ ， $9 5 \\%  C I \\left[ 0 . 0 9 , 0 . 7 6 \\right] )$ 的启动量都明显大于0，即均存在明显的启动效应。由此表明，本研究中使用的两种内隐记忆测验均是有效的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其次对分散注意条件下是否也存在启动效应进行类似分析。结果表明，知觉内隐测验中，目标和分心条件均存在明显的启动效应 $( t ( 3 6 ) _ { \\boxplus \\nmid \\vec { \\jmath } } = 7 . 4 9$ ， $p < 0 . 0 0 1$ ，$d = 1 . 2 3 , 9 5 \\%$ CI[0.80,1.66]; $t ( 3 6 ) _ { \\scriptscriptstyle \\mathscr { D } \\scriptscriptstyle \\mathscr { D } _ { h } } = 5 . 8 6 , p < 0 . 0 0 1 , d = 0 . 9 6 , 9 5 \\% C I [ 0 . 5 7 , 1 . 3 5 ] )$ 而概念内隐测验中未发现任何启动效应 $( t ( 3 6 ) _ { \\boxplus \\nmid \\hdots } = 0 . 9 1 , p = 0 . 3 7 2 ; t ( 2 6 ) _ { \\nwarrow \\hdots } = 0 . 7 3$ $p { = } 0 . 4 7 0 )$ 。为进一步了解目标探测和分心忽略对启动量是否产生了不同的影响，随后对分散注意条件下的启动量进行了2(刺激类型：目标 vs.分心) $\\mid \\times 2$ (测验类型：知觉测验 vs．概念测验)的重复测量方差分析。结果表明，刺激类型主效应$( F ( 1 , 3 6 ) = 2 . 7 2$ ， $p = 0 . 1 0 8 )$ ，以及二者的交互作用 $( F ( 1 , 3 6 ) = 2 . 0 1 \\$ ， $p = 0 . 1 6 5 )$ 均不显著，但测验类型主效应显著 $( F ( 1 , 3 6 ) = 2 8 . 4 4 , p < 0 . 0 0 1 , { \\eta _ { p } } ^ { 2 } = 0 . 4 4 )$ ，知觉测验的启动量显著高于概念测验。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec1182a58305cc1acf14cec7abdfe00223cf96dcb0fba870c69008e4e0a6369a.jpg",
+        "img_caption": [
+            "图1实验一分散注意条件下两种内隐测验中的启动量比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虽然上述分析中未发现刺激类型与测验类型之间的交互作用，但由图1可见目标与分心条件之间的启动量差异在两个测验上似乎存在着明显不同，借鉴以往关于ABE的研究[4I，我们对两个测验中目标和分心条件之间的启动量分别进行配对样本 $\\mathbf { \\chi } _ { t }$ 检验，以确定不同测验下是否存在ABE。结果显示，知觉内隐测验中，目标条件下的启动量要显著高于分心条件 $( t ( 3 6 ) = 2 . 5 7$ ， $p { = } 0 . 0 1 5$ ， $d { = } 0 . 4 2$ ，$9 5 \\%  C I \\left[ 0 . 0 8 , 0 . 7 6 \\right] )$ ，而在概念内隐测验中，启动量在目标与分心条件之间不存在差异 $( t ( 3 6 ) = 0 . 1 8$ ， $p = 0 . 8 5 7 )$ (见图1)。为进一步验证目标与分心条件之间的差异检验结果，随后还进行了贝叶斯单侧分析。参考Wagenmakers,Love,Marsman,Jamil andMorey [22]和胡传鹏，孔祥祯,Wagenmakers,Ly and 彭凯平 [23]的研究，借助JASP进行计算3，先验分布采用JASP默认的柯西分布，结果发现知觉内隐测验中，贝叶斯因子为 $B F _ { + 0 } = 6 . 0 5$ ，说明在备择假设(即 $H _ { I }$ ，假定目标条件下的启动量显著高于分心条件下的启动量)下出现当前数据的可能性是零假设 $( H _ { \\theta }$ ，假定目标条件下的启动量与分心条件下的启动量差异不显著)下的6.05倍。根据Jeffreys[24]提出的分类标准(下同)，这是中等强度的证据支持了备择假设，即验证了先前的实验结果，知觉内隐测验中存在着明显的ABE。而在概念内隐测验中，$B F _ { 0 + } = 4 . 8 9 4$ ，说明零假设下 $( H _ { 0 } )$ 出现当前数据的可能性是在备择假设下 $( H _ { l } )$ 的可能性的4.89倍，这是中等强度的证据支持了零假设，也进一步验证了先前的实验结果，即概念内隐测验中未发现明显的ABE。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上，实验一重复了Spataro 等人[7]的结果，即在大声读词的编码方式下，仅在知觉内隐测验中发现了目标和分心条件之间的启动量差异，即ABE。而在概念内隐测验中并没有发现这种差异。同时实验一还发现，在分散注意条件下，概念内隐测验中未发现任何启动效应。由于概念内隐测验在集中注意条件下已发现明显的启动效应，可见在分散注意条件下，受二级任务的干扰，概念内隐测验中的启动效应受到了影响。这与以往的研究结果也是一致的，即编码干扰会影响概念启动，但不影响知觉启动[25,26]。而本实验结果进一步表明，目标探测和分心拒绝两种干扰对概念启动产生的影响并无差异，但在知觉启动上表现出了明显的差异，目标探测下的知觉启动明显优于分心拒绝，即目标探测促进了知觉启动。这一结果与我们在前言中提出的假设是一致的，即目标探测所触发的注意增强促进的是与目标探测同时进行的认知加工，而大声读词较多涉及到的是刺激的知觉加工[27]，因而与目标探测同时呈现的词汇知觉加工得到了增强，使得随后主要依赖于分析刺激知觉特征的知觉启动也得到增强。但这种增强对随后依赖于分析刺激概念特征的概念启动不会产生影响。依此推测，如果在编码阶段要求被试对背景信息进行概念加工，则目标探测所触发的注意增强应该也会促使刺激的概念加工得到增强，产生随后概念内隐测验中的 ABE。因此实验二将在实验一的概念内隐测验基础上，学习阶段设置知觉编码和概念编码两种加工方式，主要考察不同编码方式下的概念内隐测验是否会出现ABE。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3实验二：词汇概念内隐测验中的注意促进效应",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1实验方法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）被试 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "所需样本量以及被试选取的方式均与实验1类似，共招募41名大学生被试，没有参与过实验一，其中男生16人，女生25人。平均年龄 $2 2 . 6 6 { \\pm } 3 . 0 2$ 岁，所有被试视力或矫正视力正常，无红绿色盲或色弱，均为右利手。实验结束后给予被试一定的报酬。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)实验材料",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "共包括360个双字词材料和270个双字词人名。双字词材料同实验一，随机分配到知觉编码条件和概念编码条件，每个条件各180个，其中60个用于集中注意条件，120个用于分散注意条件。270个双字词人名(如：缦妮)中135个同实验一，135个另外选取。双字词人名也随机分配到知觉编码条件和概念编码条件，每种条件各135个，其中45个用于集中注意条件，90个用于分散注意条件。此外选取了24个双字词和8个人名用于练习阶段，不计入分析。所有词汇均以白色80 号黑体呈现。探测任务材料同实验一。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）实验设计",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验为2(注意条件：集中注意vs.分散注意) $| \\times 2 |$ （编码类型：知觉编码vs.概念编码)的被试内设计。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4）实验程序 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "编码阶段包括2种类型：知觉编码任务和概念编码任务，每种编码类型包含：集中注意条件和分散注意条件，实验条件之间在被试间进行平衡。实验程序与实验一的概念内隐实验类似，不同之处在于：学习阶段，要求被试对词汇进行结构一致性判断(知觉编码任务)或主观愉悦度判断(概念编码任务)。两种判断任务均采用口头报告进行反应，结构一致性判断即判断双字词的两个字是否同为某种结构(如上下结构、左右结构或包围结构)，若一致报告“是”，若不一致则报告“否”(例如：“伴侣”为结构一致，“景观”为结构不一致)。主观愉悦度判断中如果判断词汇为愉悦则报告“是”，反之则报告“否”。对口头报告结果进行记录。测验任务采用实验一的人名判断任务，即判断是否为人名，词语按F键，人名按J键。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2数据与结果分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2 名被试因目标探测正确率低于 $5 0 \\%$ ，2名被试因测验任务的反应时超出3个标准差被剔除，最终只统计分析37名被试数据。分析方法同实验一。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）学习阶段的目标探测任务结果分析 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对两个分散注意条件下学习阶段的目标探测反应进行分析。结果表明，知觉编码任务下的目标探测正确率低于概念编码任务 $( M _ { \\mathit { \\# I I } _ { \\mathit { A } } ^ { \\ast \\prime } } = 8 8 \\%$ $M _ { \\mathit { \\# } , \\mathit { \\# } , \\mathit { \\ b { \\ G } } } = 9 6 \\%$ $t ( 3 6 )$ $= 4 . 4 6$ ， $p < 0 . 0 0 1$ ， $d = 0 . 7 3$ ， $9 5 \\%$ CI[0.37,1.09])，反应时长于概念编码任务 $( M _ { ☉ }$ （204号 $_ { \\mathcal { M } } = 7 3 2 m s$ ， $M _ { \\mathrm { \\it / \\# / \\hat { \\varepsilon } } } = 6 5 0 m s$ ， $t ( 3 6 ) = - 3 . 7 7$ ， $p < 0 . 0 0 1$ ， $d = - 0 . 6 2$ ， $9 5 \\%$ （20 $C I$ [-0.97, -0.26])，即知觉编码下的目标探测反应要差于概念编码。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）测验阶段的启动效应和ABE结果分析 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "测验阶段不同条件下的判断反应时和启动量如表2所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7108c10f087b0442da7f4e3bcd84bc9cb7c77436dd01f17836a9c9f418edd563.jpg",
+        "table_caption": [
+            "表2不同编码类型下各种条件的反应时及启动量 $( M { \\pm } S D ) ( m s )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">编码类型</td><td colspan=\"3\">集中注意条件</td><td colspan=\"5\">分散注意条件</td></tr><tr><td>旧词</td><td>新词</td><td>启动 量</td><td>目标 旧词</td><td>分心 旧词</td><td>新词</td><td>目标 启动量</td><td>分心 启动量</td></tr><tr><td>知觉编码</td><td>641±11 0</td><td>661±102</td><td>20*</td><td>633±99</td><td>623±51</td><td>623±83</td><td>-10</td><td>0</td></tr><tr><td>概念编码</td><td>635±85</td><td>663±102</td><td>28***</td><td>604±67</td><td>626±81</td><td>636±77</td><td>32***</td><td>10</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同实验一，首先对集中注意条件下的启动量分别与0进行单样本 $t$ 检验，以确定测验是否有效。结果表明，知觉编码任务 $( t ( 3 6 ) = 2 . 5 8$ ， $p { = } 0 . 0 1 4$ ， $d = 0 . 4 2$ ，$9 5 \\%$ CI[0.09,0.76])和概念编码任务 $\\ ( t ( 3 6 ) = 3 . 4 8$ ， $p = 0 . 0 0 1$ ， $d = 0 . 5 7$ ， $9 5 \\%$ （20 $C I$ [0.22,0.92])的启动量均显著大于0，即均存在明显的启动效应。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其次对分散注意条件下是否也存在启动效应进行分析。结果表明，知觉编码任务下，目标和分心条件下的启动量均未大于0，即没有出现启动效应 $( t ( 3 6 ) _ { \\sharp \\sharp } =$ -1.32， $p = 0 . 1 9 7$ ； $t ( 3 6 ) _ { \\scriptscriptstyle \\mathscr { H } , \\scriptscriptstyle \\mathscr { L } } = - 0 . 0 5$ ， $p = 0 . 9 6 5 \\$ )。概念编码任务下，只有目标条件下的启动量明显大于0，表现出启动效应 $( t ( 3 6 ) _ { \\boxplus \\acute { \\nmid \\vec { r } } } = 5 . 5 5$ ， $p < 0 . 0 0 1$ ， $d = 0 . 9 1$ ，$9 5 \\% C I [ 0 . 5 2 , 1 . 2 9 ] )$ ；但分心条件下没有出现启动效应 $( t ( 3 6 ) _ { \\mathrm { < } \\mathrm { > } } = 1 . 4 4$ ， $p { = } 0 . 1 6 \\rangle$ 为进一步了解目标探测和分心忽略对启动量是否产生了不同的影响，随后对分散注意条件下的启动量进行了2(刺激类别：目标 vs.分心) $\\times 2$ (编码类型：知觉编码 vs.概念编码)的重复测量方差分析。结果表明，刺激类型主效应不显著 $( F ( 1 , 3 6 )$ $= 1 . 2 2 p = 0 . 2 8 )$ ，但编码类型主效应显著 $( F ( 1 , 3 6 ) = 8 . 3 4 , p = 0 . 0 0 7$ ${ \\eta _ { p } } ^ { 2 } = 0 . 1 9 )$ ，且编码类型与刺激类型的交互作用也显著 $( F ( 1 , 3 6 ) = 6 . 9 4 \\$ $p = 0 . 0 1 2$ ， ${ \\eta _ { p } } ^ { 2 } = 0 . 1 6 )$ 。采用JASP进行的贝叶斯方差分析结果显示，交互作用的贝叶斯因子 $B F _ { I O } = 6 1 . 4 7 \\$ ，这是非常强的证据支持了备择假设，即不同编码任务下的目标与分心启动量差异上存在着不同。进一步的简单效应分析表明，知觉编码任务中目标与分心的启动量不存在差异 $( F ( 1 , 3 6 ) = 0 . 8 2 , p = 0 . 3 7 )$ ，但概念编码任务中目标的启动量显著大于分心 $( F ( 1 , 3 6 ) = 1 3 . 0 5$ ， $p = 0 . 0 0 1$ ， ${ \\eta _ { p } } ^ { 2 } = 0 . 2 7 .$ ）",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6d2a6b2ab7dfaad641bd26917ae5fdc957ba2945bdcd254c52e325c19318ed0.jpg",
+        "img_caption": [
+            "图2实验二分散注意条件下两种编码任务在概念内隐测验中的启动量比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为进一步确定不同编码任务下是否存在ABE，我们还对两种编码任务下的目标和分心启动量进行配对样本 $t$ 检验，并通过贝叶斯单侧分析进一步验证结果。结果显示，知觉编码任务下，目标和分心的启动量不存在差异 $( t ( 3 6 ) = - 0 . 9 1$ ， $p =$ 0.37)。贝叶斯单侧分析表明 $B F _ { 0 + } = 1 0 . 0 1$ ，这是较强的证据支持了零假设，即知觉编码任务下不存在目标与分心启动量上的差异，未发现ABE。概念编码任务下，目标的启动量显著高于分心 $( t ( 3 6 ) = 3 . 6 1$ ， $p < 0 . 0 0 1$ ， $d = 0 . 5 9$ ， $9 5 \\% C I \\left[ 0 . 2 4 \\right.$ 0.94])，贝叶斯单侧分析表明 $B F _ { + 0 } = 6 7 . 4 7 \\$ ，这是非常强的证据支持了备择假设，即概念编码任务下目标的启动量显著高于分心，表现出ABE(见图 2)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上，实验二结果表明，概念内隐测验中是否会产生ABE，与学习阶段对背景信息所进行的编码加工有关，只有在概念编码任务下，随后的概念内隐测验中才会出现ABE现象。同时实验二还发现，在分散注意条件下，只有在目标探测下的概念编码词在随后的概念内隐测验中表现出启动效应，而其它条件均未发现启动效应。正如实验一中所提到的，概念启动较容易受到编码干扰的影响[25,26]。但在目标探测下，其所触发的注意增强会促使正在进行的概念编码信息更好地储存进长时记忆中，而这种促进作用能够抵消二级任务所带来的干扰作用，从而使得在随后概念内隐测验中，目标探测下的概念编码词要比分心拒绝下的概念编码词有着更大的启动量，产生ABE现象。这一解释与Swallow 和Jiang[14]针对ABE曾提出的双任务交互作用模型具有一定的相似性。对此，我们将在讨论中进一步阐述。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "词汇与图片是两种不同的符号系统，二者的语义加工虽然共享分布式的语义加工系统，但也会激活部分特定的脑区[28]。因此实验三将以图片为材料，进一步考察不同编码方式下的概念内隐测验是否会出现ABE。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4实验三：图片概念内隐记忆测验中的注意促进效应",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1 实验方法",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1）被试 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "所需样本量以及被试选取的方式均与实验1类似，另外招募40名在校大学生被试，男生15人，女生25人。平均年龄 $2 0 . 7 8 { \\scriptstyle \\pm 2 . 7 3 }$ 岁，所有被试视力或矫正视力正常，无红绿色盲或色弱，右利手。实验结束后给予被试一定的报酬。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）材料",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "记忆任务材料：从中国情感图片系统(Chinese Affective Picture System,CAPS)中选取360 张图片，包括180 张有生命的(图中有动物、植物等有生命物体出现，如：女孩、鸟)和180 张无生命的(图中没有出现生命物，如：瓷器、舰艇)的图片。匹配两组图片的效价 $( M _ { ☉ \\underline { { * } } \\oplus \\widehat { \\Pi } } = 5 . 3 3$ ， $M _ { \\mathfrak { X } ^ { \\sharp } \\widehat { \\sharp } \\widehat { \\mathfrak { n } } } = 5 . 4 7 )$ ，配对样本 $t$ 检验显示没有显著差异 $( t ( 3 5 8 ) = - 1 . 0 0$ $p = 0 . 3 2 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "360 张图片平均分配到知觉编码和概念编码两个任务中，每个任务180 张图片。其中集中注意条件下60 张，30 张于学习阶段呈现（一半与红色方块同时呈现，一半与绿色方块同时呈现，方块呈现在图片的中央)，30张作为新图在测验阶段呈现；分散注意条件下120张，60张在学习阶段呈现(一半与红色方块(目标)同时呈现，一半与绿色方块(分心)一同呈现)，60张作为新图在测验阶段呈现。每个条件下的图片均包含生命与非生命图片各一半。各个条件下的效价和唤醒度差异不显著(效价: $F ( 4 , 3 5 0 ) = 0 . 0 1 , p > 0 . 9 9 9$ ；唤醒度： $F ( 4 , 3 5 0 ) = 0 . 0 5 , p = 0 . 9 9 5 )$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "此外，选取了24张图片用于练习阶段，不计入分析。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "探测任务材料：同实验一。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3）实验设计",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实验为2(注意条件：集中vs.分散) $\\times 2$ (编码类型：知觉编码 vs.概念编码)的被试内设计。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4）实验程序 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "同实验二，只是将词语材料换成图片材料。在知觉编码条件中要求被试口头报告图片上是否存在白色图案，有白色图案报告“是”，无报告“否\"；在概念编码条件中要求被试口头报告对图片的主观愉悦度判断。测验阶段也采用语义分类任务，要求被试对图片进行快速的有生命/无生命判断，有生命按F键，无生命按J键。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2结果与数据分析 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1名被试因目标探测正确率低于 $50 \\%$ ，2名被试因测验任务的反应时超出3个标准差被剔除，最终只统计37名被试数据。分析方法同实验一。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1）学习阶段的目标探测任务结果分析 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对两个分散注意条件下学习阶段的目标探测反应进行分析。结果显示，知觉编码任务中的目标探测正确率要明显低于概念编码任务 $( M _ { \\mathrm { ~ \\tiny ~ \\frac ~ { ~ 1 ~ } ~ } \\wedge \\big ~ } = 9 0 \\%$ ， $M _ { \\mathrm { \\hbar \\hbar \\ e s } } =$ $9 5 \\%$ 0 $t ( 3 6 ) = - 3 . 0 2$ ， $p = 0 . 0 0 5$ ， $d = - 0 . 5 0$ ， $9 5 \\% C I [ - 0 . 8 3 , - 0 . 1 5 ] )$ ，反应时则略长于概念编码 $( M _ { \\mathrm { \\# H \\# } } = 5 4 8 \\mathrm { m s }$ ， $M _ { ☉ A , \\widehat { \\mathbf { c } } } = 5 1 6 \\mathbf { m s }$ ， $t ( 3 6 ) = - 1 . 8 2 , p = 0 . 0 7 7$ ， $d = 0 . 3 0$ ， $9 5 \\% C I$ [-0.03,0.63])，即知觉编码下的目标探测反应要差于概念编码。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）测验阶段的启动效应和ABE结果分析 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "测验阶段不同条件下的判断反应时和启动量如表3所示。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/46c4d23081ae628942a92d443a379b28cb558ff543cb2e919a2378879eff4dc8.jpg",
+        "table_caption": [
+            "表3不同编码类型下各种条件的反应时及启动量 $( M { \\pm } S D ) ( m s )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">编码类型</td><td colspan=\"3\">集中注意条件</td><td colspan=\"5\">分散注意条件</td></tr><tr><td>旧词</td><td>新词</td><td>启动量</td><td>目标</td><td>分心</td><td>新词</td><td>目标</td><td>分心</td></tr><tr><td>知觉编码</td><td>674±105</td><td>756±167</td><td>83***</td><td>旧词 638±76</td><td>旧词 638±73</td><td>688±101</td><td>启动量 50***</td><td>启动量</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>49***</td></tr><tr><td>概念编码</td><td>712±116</td><td>803±171</td><td>91***</td><td>650±87</td><td>686±107</td><td>694±104</td><td>43***</td><td>9</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "首先对集中条件下的启动量分别与0进行单样本 $t$ 检验，结果表明，知觉编码任务中 $( t ( 3 6 ) = 4 . 7 9$ ， $p < 0 . 0 0 1$ ， $d = 0 . 7 9$ ， $9 5 \\% C I [ 0 . 4 1 , 1 . 1 5 ] )$ 和概念编码任务中 $( t ( 3 6 ) = 4 . 7 3$ ， $p { < } 0 . 0 0 1$ ， $d \\mathrm { = } 0 . 7 8$ ， $9 5 \\% C I [ 0 . 4 1 , 1 . 1 4 ] )$ 的启动量均显著大于0，即均存在明显的启动效应。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其次对分散注意条件下是否也存在启动效应进行分析。结果表明，知觉编码任务中，目标条件和分心条件下的启动量均大于0，即出现明显的启动效应 $( t ( 3 6 )$ 目标 $= 5 . 6 4$ ， $p { < } 0 . 0 0 1$ ， $d = 0 . 9 3 , 9 5 \\% C I [ 0 . 5 4 , 1 . 3 1 ]$ ；t(36)分心 $= 5 . 4 4$ ， $p { < } 0 . 0 0 1$ ，$d = 0 . 8 9$ ， $9 5 \\% C I [ 0 . 5 1 , 1 . 2 7 ] )$ 。概念编码任务中，只有目标条件下的启动量大于0，表现出启动效应(t(36)目标 $= 5 . 0 4$ ， $p { < } 0 . 0 0 1$ ， $d = 0 . 8 3$ ， $9 5 \\% C I [ 0 . 4 5 , 1 . 2 0 ] )$ 分心条件下没有发现启动效应(t(36)分心 $= 0 . 8 9$ ， $p = 0 . 3 8 0 \\mathrm { \\Omega }$ 。与实验二相同，随后对分散注意条件下的启动量进行了2(刺激类别：目标 vs.分心) $\\times 2$ (编码类型：知觉编码vs.概念编码)的重复测量方差分析。结果表明，刺激类型主效应显著$( F ( 1 , 3 6 ) = 1 1 . 7 1$ ， $p = 0 . 0 0 2$ ， ${ \\eta _ { p } } ^ { 2 } = 0 . 2 5 )$ ，编码类型主效应显著 $( F ( 1 , 3 6 ) = 6 . 5 7 , p =$ 0.015, $\\eta _ { p } { } ^ { 2 } = 0 . 1 5 )$ ，并且二者的交互作用也显著 $( F ( 1 , 3 6 ) = 4 . 7 7$ ， $p = 0 . 0 3 6$ ， ${ \\eta _ { p } } ^ { 2 } =$ 0.12)，贝叶斯方差分析结果显示，交互作用的贝叶斯因子 $B F _ { I 0 } = 2 1 . 6 4$ ，这是较强的证据支持了备择假设，即不同编码任务下的目标与分心启动量差异上确实存在着不同。进一步的简单效应分析表明，知觉编码任务中，目标与分心的启动量差异不显著 $( F ( 1 , 3 6 ) = 0 . 0 0 2 , p = 0 . 9 7 )$ ；但在概念编码任务中，目标启动量显著大于分心 $( F ( 1 , 3 6 ) = 1 3 . 0 3$ ， $p = 0 . 0 0 1$ ， $\\eta _ { p } { } ^ { 2 } = 0 . 2 5 )$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/051404be01f7a3cf2638056c97ec9a4970a604e8841ed7f5264465f5f55c3546.jpg",
+        "img_caption": [
+            "图3实验三分散注意条件下两种编码条件在概念内隐测验中的启动量比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "与实验二类似，我们还对两种编码任务下的目标和分心启动量进行配对样本$t$ 检验，并通过贝叶斯单侧分析进一步验证结果。结果显示，知觉编码任务下，目标和分心的启动量差异不显著， $t ( 3 6 ) = 0 . 0 4$ ， $p = 0 . 9 6 6$ 。贝叶斯分析表明， $B F _ { 0 + }$ $= 5 . 4 7$ ，这是中等程度的证据支持了零假设，即知觉编码任务下，目标与分心在启动量上不存在差异，即不存在ABE现象。概念编码任务下，目标的启动量显著高于分心， $t ( 3 6 ) = 3 . 4 5$ ， $p = 0 . 0 0 1$ ， $d = 0 . 5 7$ ， $9 5 \\% C I [ 0 . 2 2 , 0 . 9 1 ]$ ，贝叶斯分析表明， $B F _ { + 0 } { = } 4 4 . 7 6$ ，这是非常强的证据支持了备择假设，即概念编码任务下，目标的启动量要显著高于分心，表现出 ABE 现象(见图 3)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上，实验三采用图片作为背景信息，其结果与采用词汇材料的实验二是一致的，即概念内隐测验中是否会产生ABE，与学习阶段对背景信息所进行的编码加工有关，只有在概念编码条件下，目标条件下的启动量才会显著高于分心条件，表现出ABE 现象。正如在实验二所解释的，目标探测所触发的注意增强会促使正在进行的概念编码信息更好地储存进长时记忆中，而这种促进作用能够抵消二级任务所带来的干扰作用，从而使得在随后概念内隐测验中，目标探测下的概念编码词要比分心拒绝下的概念编码词有着更大的启动量，产生ABE现象。但与实验二不同的是，知觉编码任务下的概念启动效应并未受到干扰的影响，虽然启动量在目标和分心条件下并无差异。这是否与两个实验所采用的背景材料不同有关？对此，我们将在讨论中进一步阐述。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "注意促进效应似乎代表着注意和记忆之间的一种新关系，表明“一心两用”不仅不会削弱记忆成绩，甚至会提高记忆成绩。由于研究者们在内隐记忆领域的实验发现，ABE只发生在知觉启动测验中，而不会出现在概念启动测验中，由此提出目标探测主要促进的是背景信息的知觉加工，而非语义加工。然而本研究通过三个实验发现，ABE并非不会出现在概念内隐测验中，而是会受限于学习阶段对背景信息所进行的编码加工。当在编码阶段与目标探测同时进行的是对背景信息的概念加工任务，则在随后的语义分类任务中可发现，与目标伴随出现的背景信息所产生的启动量(即新旧词的反应时差异)要显著优于与分心同时呈现的背景信息的启动量，表现出典型的 ABE。并且这一现象在词汇和图片背景信息上是一致的。这些结果表明，目标探测也会促进背景信息的语义加工，从而产生随后概念内隐测验中的ABE。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Swallow 和Jiang[14]曾在前期实验的基础上提出了双任务交互作用模型(dual-task interactionmodel)对ABE加以解释。该模型认为，在双任务范式下，被试需要同时维持多个任务目标，干扰总是存在的。它会发生在不同的加工阶段，包括竞争知觉加工及中央执行系统的资源等。而另一方面，知觉资源会以一种灵活的方式进行分配，主要表现在当中央执行系统将探测刺激归类为目标刺激并需要进行相应的反应(如按键、计数或者维持在记忆中)时，会触发一个基于时间的选择性注意机制，该机制通常伴随着蓝斑核一去甲肾上腺素(LC-NE)的释放，产生短暂的注意增强[29,30]，促进与目标同时呈现的背景信息的编码加工。当目标探测导致的增强作用能够抵消，甚至超过双任务干扰时，就会产生ABE 现象[14]。由于前期研究发现，ABE只发生在知觉启动测验中，而不会出现在概念启动测验中，由此该模型中强调，目标探测下产生的注意增强主要促进的是背景信息的知觉加工。我们认为，本研究的三个实验结果在一定程度上与双任务交互作用模型是吻合的，但与之不同的是，我们强调，目标探测下所触发的注意增强并非只会促进背景信息的知觉加工，也会促进背景信息的语义加工，主要取决于在目标探测下对背景信息所进行的编码加工类型。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "首先，在双任务条件下，干扰总是存在的。已有大量研究表明，编码时的分散注意会明显减少对刺激的语义和精细加工，如果随后的间接测验依赖于分析的刺激语义或精细特征，则较容易受到编码干扰的影响[31,32]。本研究中也发现了编码干扰对概念启动测验所产生的明显影响。例如，实验一在分散注意条件下未发现概念内隐测验中任何启动效应。实验二在分散注意条件下，除了目标探测下的概念编码条件，其它条件均未发现启动效应。而另一方面，目标探测会触发短暂的注意增强，从而促进对背景信息的编码加工。但目标探测并非只促进背景信息的知觉编码，而是取决于目标探测下对背景信息所进行的编码加工类型。如果目标探测下对背景信息进行的是概念加工，如实验二和三的概念编码条件中，学习阶段要求被试对背景信息进行语义编码(愉悦度)加工，则在随后的语义分类任务中，目标探测下的概念启动量要显著高于分心拒绝下的概念启动量，表现出 ABE现象。可见，目标探测也会促进背景信息的语义加工。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "更为重要的是，本研究通过编码类型及测验类型的变量设置，结合三个实验的结果可以发现，只有当目标探测下背景信息的编码加工与随后内隐测验中所依赖的提取加工具有一致性时，ABE才会产生。当目标探测下对背景信息进行知觉编码加工时，则会在随后的知觉内隐测验中产生稳定的ABE，如实验一的知觉内隐测验条件，以及Spataro,Mulligan andRossi-Arnaud[7]的研究。而当目标探测下对背景信息进行概念编码加工时，则在随后的概念内隐测验中会产生稳定的ABE，如实验二和三的概念编码条件。但在背景信息的编码加工与随后内隐测验中所依赖的提取加工不一致的条件下，均未发现明显的ABE。例如，实验二的知觉编码条件中对词汇进行左右结构判断，实验三的知觉编码条件中判断图片上是否有白色，以及实验一的概念内隐测验条件中，对词汇进行大声读词(一般认为较多涉及知觉加工[27I)，则在随后的语义分类任务中均没有发现ABE现象。这些结果表明，编码时的目标探测是否会在随后的内隐记忆测验中产生ABE，还取决于随后内隐测验中所依赖的提取加工是否与背景信息的编码加工具有一致性。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "而这些结果，我们认为，从编码与提取一致性的角度可以提供更合理的解释。编码和提取是记忆的两个重要加工阶段，编码是指对信息最初的加工，它产生记忆痕迹。提取指对过去编码信息的重复激活或印迹激活。编码特异性理论(encoding specificity)曾提出，记忆提取成功与否与编码状态之间的匹配程度有关，当编码状态和提取状态之间的匹配程度越大，提取成功的可能性就越高[33]。本研究中，当编码任务与提取测验所依赖的加工类型是相似的，测验的成绩即启动效应也会更好一些。如实验一中，编码任务为大声读词的知觉加工任务，则随后知觉内隐测验中的启动量会显著高于概念内隐测验。而在实验二中则发现，主观愉悦度判断的概念编码任务会使得随后的概念内隐测验中的启动量会明显高于左右结构判断的知觉编码任务。最近研究在细胞和突触水平上为编码与提取一致性理论提供了进一步的证据[34]。1904 年 Semon 曾引入“engram”一词来描述用于存储记忆的神经基质(neural substrate)，提出一种经验可以激活一个细胞子集，该细胞经历离线，持续的化学和/或物理变化，就会成为一个engram。随后该engram的重新激活会引发记忆提取。近年来随着科技的发展，研究人员在大脑单个神经元水平上的成像和操纵验证了engram 的存在，但发现engram 在刚刚生成的时候是不稳定的，部分engram会进入静息状态，部分engram会受到损害，剩下一部分的engram才可以被重新激活[35]。由此我们推测，目标探测下会产生短暂的注意增强，而这种注意增强可能会促使由背景信息生成的engram 更加稳定，增强该engram的后续可提取性。在提取线索与编码模式一致的情况下,这部分engram更容易被激活[36]，从而为内隐记忆测验中的ABE 提供了生理基础。当然，这一假设还需要进一步的实验验证。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "最后我们还需提到的是，本研究中实验二和实验三分别采用词汇和图片作为背景信息，虽然都证实了在概念编码的条件下，目标探测会促使背景信息在随后的概念内隐测验中启动量要优于分心条件，表现出ABE现象。但在知觉编码条件下却出现了不一致结果。实验二采用词汇材料，不论在知觉编码还是概念编码条件下，均发现分散注意对概念启动所产生的明显影响，但实验三采用图片材料，知觉编码条件下并未发现这种“干扰效应”，即不论目标还是分心条件下，概念启动均是明显的，虽然启动量在目标和分心条件下并无差异。我们分析，这是否与图片材料的特殊性有关。研究表明，与词汇相比，图片具有更大的记忆优势，这种记忆优势主要表现在独特的特征加工而非语义加工上[37]，也就是说，图片包含了个性化的特征，使它们在记忆中具有独特的概念，而在图片的语义加工中，记忆优势会消失。实验三的知觉编码条件下，要求被试区分图片上是否有白色部分。我们推测，这种针对性的特征加工可能给图片带来了记忆优势，而这种优势可以抵消分散注意对随后的概念启动产生的干扰效应，因此无论目标还是分心条件下，概念启动均是明显的。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6结论 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究通过三个实验探讨了ABE是否会出现在概念内隐测验中，以确定目标探测是否也会促进背景信息的语义加工。实验结果表明，目标探测下所触发的注意增强，既可能促进背景信息的知觉加工，也可能促进背景信息的语义加工，主要取决于与之同时进行的背景信息编码加工类型。如果在目标探测下背景信息的编码加工与随后内隐测验中所依赖的提取加工具有一致性，则就会产生ABE。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1] KINCHLA.Attention [J]. Annual Review of Psychology,1992,43(1): 711- 42.   \n[2]DUNCAN,JOHN.The locus of interference in the perception of simultaneous stimuli [J]. Psychological Review, 1980,87(3): 272-300.   \n[3]POHLMANN L D,SORKIN R D. Simultaneous three-channel signal detection: Performance and criterion as a function of order of report[J].Perception & Psychophysics,1976,20(3):179-86.   \n[4]SWALLOW K M,JIANG YV.The Attentional Boost Effect: Transient increases in atention to one task enhance performance in a second task [J].Cognition,2010,115(1):118-32.   \n[5]SWALLOW K M,JIANG Y V. Goal-relevant events need not be rare to boost memory for concurrent images [J].Attention,Perception,& Psychophysics,2012,74(1): 70-82.   \n[6]SWALLOW K M,JIANGY V.Perceptual load and attentional boost: a studyof their interaction[J]. Journal of Experimental Psychology Human Perception & Performance,2014,40(3): 1034-45.   \n[7]SPATARO P, MULLIGAN N W, ROSSI-ARNAUD C. Divided atention can enhance memory encoding: the atentional boost eect in implicit memory [J]. Journal of Experimental Psychology:Learning,Memoryand Cognition,2013,39(4): 1223-31.   \n[8]SPATARO P, MULLIGAN N W, BECHI GABRIELLI G, et al. Divided atention enhances explicit but not implicit conceptualmemory:anitem-specificaccountof theattentionalboost effct[J].Memory,20l7,25(2):170- 5.   \n[9]SMITHE E, KOSSLYN S M. Cognitive Psychology: Mind and Brian [M]. Education Press,2017. [10] MULLIGAN N W, SPATARO P,PICKLESIMER M. The atentional boost effect with verbal materials [J]. Journal of Experimental Psychology: Learning,Memory and Cognition,2014, 40(4): 1049-63.   \n[11]PARKS C M.Transfer-Appropriate Processing in Recognition Memory: Perceptual and Conceptual Effects on Recognition Memory Depend on Task Demands [J]. Jourmal of Experimental Psychology: Learning, Memory and Cognition,2013,39(4): 1280-6.   \n[12] SWALLOW K M,JIANG YV. The role of timing in the attentional boost efect [J]. Attention, Perception, & Psychophysics,2011,73(2): 389-404.   \n[13] 孟迎芳，林惠茹．注意促进效应：注意与记忆关系的新见解 [J].心理科学进展,2018,02(1671-3710): 221-8.   \n[14]SWALLOW K M, JIANGY V.Atentional load and atentional boost: a review ofdata and theory[J].Frontiers in Psychology,2013,4(247):   \n[15] SCHWAN S,GARSOFFKY B. The Cognitive Representation of Filmic Event Summaries [J]. Applied Cognitive Psychology,2004,18(1): 37-55.   \n[16] JIANG YV,SWALLOW K M. Temporal yoking in continuous multitasking [J]. Journal of Experimental Psychology Human Perception & Performance,2014, 40(6): 2348-60.   \n[17] COLTHEART M, CURTIS B,ATKINS P,et al. Modelsof Reading Aloud: Dual-Route and ParallelDistributed-Processing Approaches [J]. Psychological Review, 1993,100(4): 589-608.   \n[18] COLTHEARTM, RASTLE K, PERRY C,et al. DRC: A dual route cascaded model ofvisual word recognition and reading aloud [J]. Psychological Review, 2001,108(1): 204-56.   \n[19] SEIDENBERG M S, MCCLELLAND JL. A Distributed, Developmental Model of Word Recognition and Naming [J]. Psychological Review,1989, 96(4): 523-68.   \n[20] STEFAN A M, GRONAU Q F, SCHoNBRODTF D,et al. A tutorial on Bayes Factor Design Analysis using an informed prior [J]. Behavior Research Methods,2019,   \n[21] VAIDYACJ, GABRIELIJDE, KEANE MM, et al. Evidence for multiple mechanisms ofconceptualpriming on implicit memory tests [J].Journal ofExperimental Psychology: Learning,Memoryand Cognition,1997,23(6): 1324-43.   \n[22] WAGENMAKERS E J, LOVE J, MARSMAN M, et al. Bayesian inference for psychology. Part I: Example applications with JASP[J].Psychonomic Bulletin & Review,2017,25(1): 1-19.   \n[23]胡传鹏,孔祥祯,WAGENMAKERS E-J,et al．贝叶斯因子及其在 JASP 中的实现[J].心理科学进展, 2018,v.26; No.214(06): 5-19.   \n[24] JEFFREYS.H. Theory of probability [M]. Oxford, UK: Oxford University Press,1961.   \n[25] MULLIGANN W,DUKE M,COOPER A W.The effects of divided attention on auditory priming [J]. Memory & Cognition,2007,35(6): 1245-54.   \n[26] MULLIGAN N W. Atention and perceptual implicit memory: effects of selective versus divided attention and number of visual objects [J]. Psychological Research-psychologische Forschung,2002,66(3): 157-65.   \n[27]杨玉芳．心理语言学 [M].科学出版社,2015.   \n[28] VANDENBERGHE R,PRICE C, WISE R,et al. Functional anatomy ofacommon semantic system for words and pictures [J]. Nature,1996, 383(6597): 254-6.   \n[29]SWALLOW K M, JIANG Y V.The attentional boost effect reall is a boost: evidence from a new baseline [J]. Attention,Perception,& Psychophysics,2014,76(5): 1298-307.   \n[30] SWALLOW K M, JIANG Y V,RILEY E. Target detection increases pupil diameter and enhances memory for background scenes during multi-tasking [J]. Scientific Reports, 2019, 9(1): 5255.   \n[31] NEWELL B R,CAVENETT T, ANDREWS S. On the immunity of perceptual implicit memory to manipulations of atention [J]. Memory & Cognition,2008,36(4): 725-34. [32]MULLIGANN W.Effects ofcross-modal and intramodal division ofattention on perceptual implicit memory [J]. Journal of Experimental Psychology: Learning,Memory and Cognition,2003,29(2): 262-76.   \n[33]ENDEL;T,ZENAP.Availability versus accessibilityof information in memory for words [J].Journalof Verbal Learning and Verbal Behavior, 1966,5(4): 381-91.   \n[34] FRANKLAND P W, JOSSELYN S A, NEUROSCIENCE S K JN. The neurobiological foundation of memory retrieval [J].2019,22(10): 1576-85.   \n[35] JOSSELYN SA,TONEGAWA S.Memory engrams: Recalling the past and imagining the future[J]. Science, 2020,367(6473):   \n[36] STAUDIGL T, HANSLMAYR S. Reactivation of neural patterns during memory reinstatement supports encoding specificity [J]. Cognitive Neuroscience,2019,10(4): 175-85.   \n[37] HAMILTON M, GERACI L. The picture superiority efect in conceptual implicit memory: a conceptual distinctiveness hypothesis [J].American Journal of Psychology,20o6,119(1):1-20. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "孟迎芳：提出研究思路，修改论文  \n董月晴：收集数据，分析数据，撰写论文，论文最终版本修订  \n陈荃：做实验，收集数据",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "附录1部分汉语双字词材料",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "集中注意条件：",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "旧词：饲料 片断 范例 堤岸 领带 毛皮 臂膀 射线 城郊 螺丝 磨盘 语句新词：雷雨 咖啡 京剧 音调 鲫鱼 草坪 钥匙 上司 积蓄 扣子 浮云 闪光",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "分散注意条件：",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "目标：伴侣 阅历 稻米 官吏 教程 辣椒 锯子 军法 被褥 睡衣 炒面 莲蓬分心：礁石 母校 声势 骑兵 流程 业绩 智囊 律师 桉树 策略 蜂蜜 胃肠新词：前程 明月 砖头 票房 茴香 火炬 交通 膏药 教诲 错觉 草图 零钱",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "附录2部分假词和人名材料",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "假词：故热 流烧白憧 哲妹 院绕 叶嫁 误 养理 幕枫 装灸 官驰 语羊栅录 悔膏 约鹰 朝青 物拂 数拢 保簸 厅睡 耀搁 激遗 助雪 罩调  \n人名：可馨 文轩 芝蕴 伊臻 帷凯 璐婕 金香 天赫 若夕 俊田 静芬 曜捷昕斓 睿喆 美凤 炜扬 爱华 家驹 丽珊 雪娇 惠珍 泽铭 秋艺 霖曦",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "附录3部分图片材料",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "有生命图片",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "无生命图片",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/a02d4701c7cccd1908f3b4ad7fae23d30243264f9c79bf3a3164c71ae906e81b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/2824217eddc835e606d9b3831a867d50cb725b1e3f6387429c656a249db12bf1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 16
+    }
+]

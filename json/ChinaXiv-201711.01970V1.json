@@ -1,0 +1,836 @@
+[
+    {
+        "type": "text",
+        "text": "混合蛙跳算法在文本分类特征选择优化中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "路永和 陈景煌",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(中山大学资讯管理学院广州 510006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】由于文本数据存在许多与分类不相关的冗余词项，引入混合蛙跳算法进行特征选择优化，提高分类准确率。【方法】分别使用CHI和IG预选出不同维度的特征集合，再引入改进后的混合蛙跳算法对预选特征集合进行二次优选，每只青蛙的位置代表一种特征选择规则，将分类准确率作为算法的适应度函数。SVM 和KNN分类器用于实验中分类准确率的计算。结果引入改进后的蛙跳算法比CHI和IG能得到更好的分类效果，最大提升幅度达到 $12 \\%$ 。【局限】在少部分特征维度下出现过拟合现象。【结论】采用特征词预选和改进后的蛙跳算法相结合的特征选择优化方法可以有效排除部分噪声特征项的干扰，从而提高文本分类准确率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：特征选择 文本分类混合蛙跳算法分类号：TP391",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在文本信息处理领域，文本分类作为信息挖掘、自然语言处理、信息检索等技术的重要基础[1]，得到了许多学者的关注和研究。文本分类技术已经从传统的人工分类发展到基于机器学习的自动分类[2]，文本分类在质量和效率两方面都得到较大提高。而文本数据往往具有高维、稀疏、多标号等特点，这些在一定程度上影响了文本分类效果，因而文本特征选择优化成为学界的研究热点。在向量空间模型(Vector SpaceModel，VSM)中，原始特征集合中的每个特征项对分类学习不一定都是必要的，有些噪声特征项不仅增加了特征集合的维度，而且会影响文本分类的整体效果。因此需要对特征集合进行降维处理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文使用在文本领域还未得到较多应用的混合蛙跳算法(Shuffled Frog Leaping Algorithm, SFLA)，对其进行编码规则、个体进化方式等方面的改进，并将其应用在文本特征选择优化中，最后通过实验证明这种",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "方法的有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2相关研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1传统的文本特征选择方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文本分类的过程主要包括：文本预处理和分词、文本表示、特征选择、权重计算、使用分类器分类。其中，文本表示主要是采用VSM表示[1]，而文本经预处理后得到的特征集合的维数非常高，特征分布稀疏，因此每个文本都被表示成一个高维向量。而高维向量对分类器造成很大的计算负担，因此文本特征选择在文本分类中非常重要，经过特征选择后得到具有文本代表性的特征词集合，从而降低每个文本向量的空间维数，提高分类效率和准确率。目前学界使用的特征选择方法主要有文档频率(DocumentFrequency,DF)、卡方检验(CHI)、信息增益(IG)、互信息(MutualInformation,MI)等。有相关试验证明,CHI分类效果好但是计算开销较高[3]；在英文文本集的分类中,CHI与IG效果最佳，DF基本与前两者相当，而MI则相对较差[4；在中文文本集的分类中，CHI 的效果最佳,其次为IG,而MI相对较差[5],DF 的效果居中[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但是CHI、IG等传统的特征选择方法是通过某一数学模型从原始特征集合中筛选出具有较好的区分能力和文本代表性的特征集合，并没有从文本的角度考虑特征词之间的相互影响以及冗余词项对文本分类效果的整体影响。因此，基于传统特征选择方法，通过引入改进后的混合蛙跳算法，利用该算法较强的寻优能力，对预选的特征集合进行二次优化，从而得到特征维度相对较低的高精度特征集合，并且改进了最终的分类结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2结合群体智能算法的特征选择优化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，不断有学者将群体智能算法应用到文本特征选择领域中，并且效果明显。总体方向大致可以分为两个：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）直接使用群体智能算法进行文本特征选择，不再使用传统文本特征选择方法，这个方向的研究成果主要有：Tabakhi等提出UFSACO方法，即将蚁群算法(ACO)引入到无监督的特征选择方法中，考虑到特征之间的相关性，从而提出特征集合中的冗余词项，实现降维效果，并通过实验说明该方法比传统特征选择方法能得到更好的分类效果。刘亚南[将基于遗传算法(GA)的文本特征选择方法运用到动态获取K值的KNN分类算法中。刘逵构建基于野草算法的文本特征选择模型，该模型可以给予权重值较低的词条进行特征选择的机会，同时保证权重值高的特征词选择优势，从而更全面地提高文本特征选择的全面性和准确率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）将群体智能算法结合传统文本特征选择方法，即先使用传统特征选择方法得到预选特征集合，再引入群体智能算法进行精选，最后得到高精度的特征集合，从而提高文本分类效果，主要有以下研究成果：Uguzl9在使用传统特征选择方法IG的基础上，分别引入遗传算法和主成分分析法(PCA)进行二次特征选择和抽取，剔除与分类无关的特征词项，实现降维，并且取得不错的分类效果。Javed 等[1o通过使用传统特征选择方法 BNS 和 IG 进行特征词预选，然后结合MarkovBlanketFilter(MBF)算法对预选特征词进行二次筛选，从而实现降维并改进了文本分类效果。Lu等[11]使用CHI进行特征词预选，然后分别使用所提出的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6种改进的粒子群优化算法(PSO)对预选特征集合进行精选，最后通过实验表明异步改进的PSO算法具有最佳的文本分类效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文将 SFLA 结合传统文本特征选择方法，先进行特征词预选，再引入改进后的二进制SFLA进行特征词精选，从而得到高精度的特征集合，并最终改进文本分类效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 混合蛙跳算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "混合蛙跳算法是由Eusuff等[12]提出的一种协同搜索群智能算法,该算法同时结合了模因算法(MemeticAlgorithm，MA)和粒子群优化算法，既有模因算法的遗传特性，又有粒子群算法的社会信息共享的特点。算法流程简单合理，参数较少，并且收敛速度快、全局寻优能力强。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SFLA最初受青蛙觅食的生物现象启发而被提出。由 $N$ 只青蛙组成的蛙群P在一个受限的 $s$ 维度空间中寻找有限且最优的食物源。每只青蛙 $i$ 的位置用$X _ { i } = \\{ x _ { i 1 } , x _ { i 2 } , \\cdots , x _ { i j } , \\cdots , x _ { i S } \\}$ ，其中 $s$ 表示青蛙所在空间的维度， $X _ { i }$ 在对于解决优化问题时则表示一个可行解向量，并计算每只青蛙当前位置的优劣程度，即适应度 $F ( X _ { i } )$ 。然后按照其适应度 $F ( X _ { i } )$ 大小降序排列，并记录当前种群的全局最优位置 $X _ { g }$ 。再将整个蛙群分成$n$ 个族群，每个族群包括 $\\mathbf { \\nabla } _ { m }$ 只青蛙。分组规则为：第1只青蛙分入第1个族群，第2只青蛙分入第2个族群，第 $\\mathbf { \\nabla } _ { m }$ 只青蛙分人第 $\\mathbf { \\nabla } _ { m }$ 个族群，第 $m { + } 1$ 只青蛙分人第1个族群，以此类推，并记录每个族群的局部最优解 $X _ { b }$ 和最差解 $X _ { w }$ 。接下来每个族群进行组内进化，进化的方式[12]为:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = r a n d ( ) \\cdot ( X _ { b } - X _ { w } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { w } ^ { \\prime } = X _ { w } + D , ~ - D _ { \\mathrm { m a x } } \\leqslant D \\leqslant D _ { \\mathrm { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中,rand(为0到1之间的随机数; $D$ 是指青蛙每次跳跃的步长距离， $\\textstyle X _ { w } ^ { \\prime }$ 是指跳跃后青蛙所处的位置。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据公式(1)和公式(2)计算得出 $X _ { w } ^ { \\prime }$ 。如果 $\\textstyle X _ { _ { w } } ^ { \\prime }$ 适应度 $F ( X _ { w } ^ { \\prime } )$ 优于 $X _ { w }$ 的适应度 $F ( X _ { w } )$ ，则用 $\\textstyle X _ { w } ^ { \\prime }$ 代替 $X _ { w } ,$ 继续下一次的组内进化；否则用 $X _ { g }$ 代替公式(1)中的$X _ { b ; }$ ，根据公式(1)和公式(2)计算得出 $\\textstyle X _ { w } ^ { \\prime }$ 。如果 $\\textstyle X _ { w } ^ { \\prime }$ 的适应度 $F ( X _ { w } ^ { \\prime } )$ 优于 $X _ { w }$ 的适应度 $F ( X _ { w } )$ ，则用 $\\textstyle X _ { w } ^ { \\prime }$ 代替 $X _ { w }$ 进入下一次的组内进化；否则随机生成一个 $X _ { w } ^ { \\prime }$ ，并用其代替 $X _ { w } ,$ ，进入下一次组内进化。当每个族群的组内进化次数都达到最大次数 $L$ 时，将所有族群的青蛙重新混合在一起，重新按照各自的适应度 $F ( X _ { i } )$ 降序排列，更新当前最优解 $X _ { g } ,$ 并以此种群为基础，继续构造下一代新种群，直到达到最大总迭代次数 $T$ 或者满足算法结束条件[13]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前 SFLA已经被应用到水资源网络优化[12]、桥面修复[14]、含风电场电力系统的动态优化潮流计算[15]、分布式风电源(DWG)规划模型[16]、语音识别[17]等领域中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但是在所查找的文献中，SFLA被应用于文本信息处理领域的相关研究较少。其中，许方[18]改进了传统的SFLA，并将其分别与K-means和FCM结合，应用到文本聚类领域中，并且提高了Web文本聚类的精度。同样在文本聚类方面，尉建兴等[19]将 SFLA 与K-means 算法结合，提高了聚类的性能。在文本分类方面,Sun等[20则以SFLA直接作为分类算法，以LDA作为特征选择方法，提高了Web文本分类的准确率。截至目前，SFLA在文本信息处理领域中的应用比较少。本文尝试对SFLA进行改进，将其与传统特征选择方法结合，并通过实验验证其有效性与可行性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3基于混合蛙跳算法的文本特征选择优化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 算法改进 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）编码规则 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于文本特征选择优化问题本质上是组合优化问题，所以SFLA将进行二进制编码规则改进，即每一只青蛙对应的位置代表一种特征选择规则，一只青蛙的每一维对应一个特征项，而每一个特征项对应着两种结果：被选中与不被选中，每个特征项被选中则取1，不被选中则取0。所以，每个解向量(青蛙的位置)可以表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { i } = \\{ x _ { i 1 } , x _ { i 2 } , \\cdots , x _ { i j } , \\cdots , x _ { i S } \\} , \\quad x _ { i j } \\in \\{ 0 , 1 \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中, $X _ { i }$ 表示第 $i$ 个解向量, $x _ { i j }$ 表示第 $i$ 个解向量的第 $j$ 个分量，并且只可以取0或者1。若 $x _ { i j } { = } 1$ ，说明第$i$ 个解向量中的第 $j$ 个特征项被选中；若 $\\scriptstyle x _ { i j } = 0$ ，说明第$i$ 个解向量中的第 $j$ 个特征项未被选中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）个体进化方式的改进",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于本文使用的SFLA是二进制编码，标准SFLA的个体进化方式(即公式(1)和公式(2))不再适用，因此对SFLA的个体进化方式做如下改进，使其能够更适用于文本特征选择的优化，具体改进流程如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f4e2b5655d4c3cf3ecace3d920ac10a54c949a98342bc97fc51034ec8c3217e.jpg",
+        "img_caption": [
+            "图1SFLA的个体进化方式改进流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先求出某个族群里的最优解 $X _ { b }$ 和最差解 $X _ { w }$ 都选中的特征项集合 $G ($ 即对于第 $j$ 个分量(特征项), $X _ { b }$ 与 $X _ { w }$ 同时取1的所有分量的集合)，将 $X _ { b }$ 与 $X _ { w }$ 看作是集合，则 $G$ 是 $X _ { b }$ 与 $X _ { w }$ 的交集:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = X _ { b } \\cap X _ { w }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然后求每只青蛙跳跃时的步长 $D _ { n e w } ,$ ，计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { 1 } = r _ { 1 } \\odot ( X _ { b } - X _ { w } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { 2 } = r _ { 2 } \\odot ( X _ { w } - X _ { b } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { n e w } = R _ { 1 } \\cup R _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中, $( X _ { b }  – X _ { w } )$ 与 $( X _ { w } – X _ { b } )$ 表示集合的差运算。 $r _ { 1 }$ 与$r _ { 2 }$ 是0到100的随机整数， $r _ { 1 } \\odot ( X _ { b } - X _ { w } )$ 表示从$( X _ { b } - X _ { w } )$ 这个集合里取前百分之 $\\boldsymbol { r } _ { 1 }$ 的特征项元素，构成集合 $R _ { 1 }$ ， $r _ { 2 } \\odot ( X _ { \\scriptscriptstyle w } - X _ { \\scriptscriptstyle b } )$ 表示从 $( X _ { w } – X _ { b } )$ 这个集合里取前百分之 $r _ { 2 }$ 的特征项元素，构成集合 $R _ { 2 }$ ；再取二者并集得到集合 $D _ { n e w }$ ，即为每只青蛙跳跃的步长。如：当$r _ { 1 } { = } 2 0$ ， $r _ { 2 } { = } 4 0$ ， $( X _ { b }  – X _ { w } )$ 集合中有100 个元素， $( X _ { w } - X _ { b } )$ 集合中有200个元素，则从 $( X _ { b }  – X _ { w } )$ 集合中取前$1 0 0 \\times 2 0 \\% = 2 0$ 个特征项，从 $( X _ { w } – X _ { b } )$ 集合中取前$2 0 0 { \\times } 4 0 \\% { = } 8 0$ 个特征项，这 $2 0 + 8 0 = 1 0 0$ 个特征项组成了集合 $D _ { n e w } ,$ 即某只青蛙某次跳跃时的步长。最后组内某只青蛙某次跳跃后的位置更新为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { W } ^ { \\prime } = G \\cup D _ { \\mathrm { n e w } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这里对SFLA的个体进化方式改进是基于以下理由：首先求最优解 $X _ { b }$ 与最差解 $X _ { w }$ 之间的交集 $G$ ，即保留二者之间的“共同特征项”，从而新产生的个体在\"继承\"其二者的共同特征项的基础上继续进化，寻找到更优位置。然后计算青蛙跳跃时的步长时，分别从 $X _ { b }$ 与 $X _ { w }$ 各自“特有\"的特征项元素中选取前若干个特征项来组成集合 $D _ { n e w }$ 。这样的做法是让新产生的个体随机\"继承\"若干比例的 $X _ { b }$ 与 $X _ { w }$ “特有\"的特征项，从而让新个体产生某个方向的进化；另外，由于候选特征集合是经过CHI或者IG筛选得到的，集合中的特征项都是按照CHI得分或者IG得分从高到低排序的，得分越高则越有代表性，所以选取的是排位靠前的若干个特征项。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）最大移动步长 $D _ { m a x }$ 的改进 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以上对标准SFLA的个体进化方式中步长的计算进行了改进，使其适用于解决特征选择优化问题，所以对最大移动步长 $D _ { m a x \\_ n e w }$ 也需要进行重新定义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先定义一个新变量：差异度(diff)，是指新产生个体 $\\textstyle X _ { w } ^ { \\prime }$ 与原来 $X _ { w }$ 之间在对应维数的解分量上存在多大比例不同；则 $D _ { m a x \\_ n e w }$ 指允许新产生个体 $\\textstyle X _ { w } ^ { \\prime }$ 与 $X _ { w }$ 之间的最大差异度。比如： $X _ { w } ^ { \\prime } = \\{ 1 , 0 , 1 , 1 , 0 , 1 \\}$ ，$X _ { w } = \\{ 0 , 1 , 1 , 1 , 0 , 0 \\}$ ， $\\textstyle X _ { w } ^ { \\prime }$ 与 $X _ { w }$ 分别在第1、2、6维的解分量上不同，则二者的差异度 diff= $( 3 / 6 ) \\times 1 0 0 \\% =$ $50 \\%$ ，所以二者存在 $50 \\%$ 的差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "引入差异度diff这个变量是为了计算二进制编码规则下的青蛙个体之间的差异比例，相当于标准SFLA的步长；但由于对二进制SFLA下的步长的计算公式进行了改进，步长不再表示新个体与原来个体之间的差异程度。因此改进后的蛙跳算法的最大移动步长 $D _ { m a x \\_ n e w }$ 是指允许新产生的个体 $\\textstyle X _ { w } ^ { \\prime }$ 与原来的 $X _ { w }$ 之间的最大差异度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 相关参数设置 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用的改进后的二进制SFLA算法共需要设置5个参数：蛙群规模 $N$ 、族群数量 $n$ 、最大移动步长$D _ { m a x }$ 、族群内进化次数 $L$ 、总迭代次数 $T _ { \\circ }$ 参数的设置对算法的运行效果有较高的影响程度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SFLA的蛙群规模是指种群中所有青蛙的数量 $N _ { \\ast }$ （204号对于组合优化问题则是指初始生成的解向量个数。一般情况下， $N$ 值与问题的复杂度相关，但由于本实验在计算青蛙的适应度的时间开销较大，因此将青蛙总数量设置为20。SFLA的族群 $n$ 要根据划分后每个族群内青蛙的数量 $\\mathbf { \\nabla } _ { m }$ 的大小来设置，本文将族群数量 $n$ 设置为5，则族群内青蛙数量为4。改进后的二进制SFLA的最大移动步长 $D _ { m a x }$ 是指允许新产生的个体与原来个体在对应解向量上的最大差异程度，在作用上与标准SFLA中的 $D _ { m a x }$ 是相似的，都是为了控制算法进行全局搜索的能力。实验将 $D _ { m a x }$ 设置为45，即新产生个体与原个体在对应解向量上的差异度不得超过 $45 \\%$ 。参数 $L$ 决定着族群内青蛙的进化次数；总迭代次数 $T$ 主要与问题的复杂度相关，问题复杂度越高， $T$ 也应设置得越大，找到最优解的概率才会增大。但由于实验计算青蛙适应度的时间开销较大，故将族群内迭代次数$L$ 设置为10，将总迭代次数 $T$ 设置为10。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 适应度函数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "群体智能算法的适应度函数用来计算个体的适应度，一般是由算法的优化目标来决定。本文引人SFLA对特征选择进行优化，主要目标是降低文本特征集合的维度以及提高文本分类的准确率。因此，将文本分类准确率作为衡量每只青蛙所处位置的优劣，使青蛙向分类准确率更高的位置“跳跃\"，即:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF i t n e s s ( ) = \\frac  \\widehat { \\mathfrak { H } } \\cdot \\widehat { \\mathfrak { K } } \\cdot \\widehat { \\mathfrak { L } } \\widehat { \\mathfrak { H } } \\cdot \\widehat { \\mathfrak { H } } \\cdot \\widehat { \\mathfrak { H } } \\mathfrak { H } \\cdot \\widehat { \\mathfrak { L } } \\mathfrak { K } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak { L } } \\cdot \\widehat { \\mathfrak \\mathfrak { L } } \\cdot \\widehat { \\mathfrak \\mathfrak { L } } \\cdot \\widehat { \\mathfrak \\mathfrak { L } } \\cdot \\widehat { \\mathfrak \\mathfrak { L } \\mathfrak } \\cdot \\widehat  \\mathfrak \\mathfrak { L } \\mathfrak \\mathfrak { L } \\cdot \\widehat \\mathfrak { \\mathfrak \\mathfrak } \\widehat { \\mathfrak \\mathfrak \\mathfrak { L } \\mathfrak \\mathfrak } \\widehat \\mathfrak  \\mathfrak \\mathfrak \\mathfrak { L } \\mathfrak \\mathfrak \\mathfrak \\mathfrak { \\mathfrak \\mathfrak \\mathfrak } \\mathfrak \\mathfrak \\mathfrak  \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak { \\mathfrak \\mathfrak \\mathfrak } \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak  \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak  \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\mathfrak \\\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4 算法设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于改进后的SFLA的文本特征选择优化算法流程如下:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输入：训练文本集TR，测试文本集A，通过CHI或IG要得到的预选特征词数量即特征空间维度 $s ,$ 初始化的青蛙数量 $N ,$ 族群数量 $n$ ，最大移动步长 $D _ { m a x } ,$ （204号族群内最大进化次数 $L$ ，总迭代次数 $T _ { \\circ }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输出：经过SFLA二次优选的特征集合。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）使用分词软件对训练文本集TR 进行分词处理，然后分别使用CHI和IG进行文本特征预选择，得到候选特征集合;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）使用随机函数从{0，1}为蛙群中每只青蛙的位置的每一维度选定一个值，对应维度的值为1则表示选择该特征词，对应维度的值为0则表示不选择该特征词，以此作为每只青蛙的位置初始值;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）计算每只青蛙所处位置的适应度，即分类准确率。将每只青蛙的位置的各个维度上值为1的特征词作为测试文本集A的特征表示，构造测试文本集A的特征向量，再使用分类器计算测试文本集A的文本分类准确率，即每只青蛙所处位置的适应值;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4)按照改进后的SFLA 算法流程，直到算法迭代次数达到 $T$ 或者满足其他停止条件时，终止算法,并输出最优解 $X _ { g } ,$ 输出 $X _ { g }$ 各个维度的值为1的特征词，即经过SFLA二次优选的特征集合。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于改进后的SFLA的文本特征选择优化算法流程如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/41db4a24741084ad231b31fd4a07bd9d088545bd41609165b134c2190217501a.jpg",
+        "img_caption": [
+            "图2改进后的 SFLA的特征选择优化方法流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4实验分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "整个实验主要分为两个部分：第一部分是未使用SFLA进行特征优化，即直接将经过传统特征选择方法CHI或IG选出的特征集合用于文本分类；第二部分则是引入SFLA对特征集合进行二次优选，得到高精度的特征集合，并将其用于文本分类，如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a726426d630f2edd089a38eb255d6146ac572b95d49a63e815e32478dd187957.jpg",
+        "img_caption": [
+            "图3实验流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在直接使用传统特征选择方法CHI或IG选出的特征集合用于文本分类的过程中，所使用的数据集是训练文本集TR和测试文本集B，用于计算原始特征集合对应的文本分类准确率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在引入SFLA 进行特征集合的二次优选过程中，由于需要计算SFLA的适应度，即文本分类准确率，所使用的数据集必须包含一个训练文本集和一个测试文本集，因此该过程将训练文本集TR和测试文本集A作为数据集，即建立模型所需的训练集。而在得到高精度特征集合后，需要计算文本分类准确率，此时则使用测试文本集B，即评估模型性能的测试集。之所以这两个过程使用到两个测试文本集，是因为：在使用SFLA进行特征优化后，所得到的高精度特征集合可能对测试文本集A产生较高的依赖程度，因此无法验证这个高精度特征集合是否对其他测试文本集同样有更好的文本分类效果。因此在使用SFLA进行特征优化得到高精度特征集合后，需要使用测试文本集B 对该特征集合进行评估，检验其分类准确率是否高于原先使用传统特征选择方法得到的准确率。另外，使用SFLA进行特征优化的过程中需要多次计算分类准确率，如果在SFLA 特征优化过程中所使用的测试文本集规模很大，会大大增加时间开销；所以特征优化过程中所采用的测试文本集A规模较小，并且测试文本集A是从测试文本集B的每个类别中各抽取 $1 5 \\%$ 而组成的数据集。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了更好地说明算法的有效性，实验分别使用英文和中文数据集。实验一所采用的数据集是路透社语料库Reuters-21578的一部分；实验二所采用的数据集是中山大学资讯管理学院智能信息处理实验室语料库的一部分(简称实验室语料库)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验所使用的操作系统为32位的Win10系统，内存4GB,i5-2400处理器，利用Java语言编写程序。文本预处理操作使用Lucene开源包，分词操作使用中国科学院计算技术研究所分词系统ICTCLAS[21]。预选特征词分别使用CHI和IG。计算文本特征权重则使用TF-IDF，使用SVM和KNN两种分类器进行分类。实验的具体步骤如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）将训练文本集 TR 和测试文本集B作为数据集，使用CHI特征选择方法，分别预选出100-1200 维(每隔100 取一个)共12个不同维度的特征集合CHI100-CHI1200，并分别计算不同维度下的分类准确率PcHI;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）使用改进后的二进制 SFLA 对步骤(1)得到的12个不同维度的特征集合进行二次优选。优选过程将训练文本集 TR 和测试文本集 A 作为模型的训练集,用于计算每个解的适应度，即分类准确率。最终分别输出SFLA的最优解，即CHI_100-CHI_1200经过特征词二次优选后的高精度特征集合;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）将步骤(2)得到的二次优选后的高精度特征集合，以训练文本集TR和测试文本集B作为数据集，分别计算不同维度下的分类准确率PCHI_SFLA;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4）将训练文本集 TR 和测试文本集B 作为数据集，使用IG特征选择方法，分别预选出100-1200维共12个不同维度的特征集合IG_100-IG_1200，并分别计算不同维度下的分类准确率 $\\mathrm { \\bf P } _ { \\mathrm { I G } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(5）使用改进后的二进制 SFLA 对步骤(4)得到的12个不同维度的特征集合进行特征词的二次优选。同步骤(2)，该过程将训练文本集 TR和测试文本集 A作为模型的训练集，用于计算每个解的适应度，即分类准确率。最终分别输出SFLA的最优解，即IG_100-IG_1200各自经过特征词二次优选后的高精度特征集合;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(6）将步骤(5)得到的二次优选后的高精度特征集合，以训练文本集TR和测试文本集B作为数据集，分别计算不同维度下的分类准确率PIG_SFLA;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(7）在12个不同维度下分别比较未使用SFLA进行特征词二次优选的准确率 $\\mathrm { \\bf P } _ { \\mathrm { C H I } }$ 、 $\\mathrm { \\bf P } _ { \\mathrm { I G } }$ 与使用 SFLA进行特征词二次优选的准确率 PCHI_SFLA、PIG_SFLA，观察使用前后的准确率是否存在较大差别;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(8)将所有记录的准确率分成两组，分别是：使用SFLA前的分类准确率P_old，使用SFLA后的分类准确率Pnew。然后使用配对样本T检验，判断两种方法得到结果差异是否存在统计学意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1 实验一",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验一采用路透社语料库Reuters-21578，共有acq、crude、earn、grain、interest、money-fx、ship、trade这8个类别。大测试文本集和训练文本集按1:2.5进行划分，各个类别的具体文本数量如表1所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f18c37cda165c33a56bb07347e7484317562732fd842931b0753526be76fa7c.jpg",
+        "table_caption": [
+            "表1Reuters-21578 语料类别分布表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类别</td><td></td><td></td><td></td><td></td><td></td><td>acq crude earn grain interest money-fx ship trade 总数</td><td></td><td></td></tr><tr><td>训练集1596 253</td><td></td><td></td><td>2840 41</td><td></td><td>190</td><td>206</td><td>108</td><td>251 5485</td></tr><tr><td>大测 试集</td><td>696</td><td>121</td><td>1083</td><td>10</td><td>81</td><td>87</td><td>36</td><td>75 2189</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在使用SVM分类器时，CHI或IG方法预选出的特征集合经过二次优选后的实验结果如表2所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将CHI和IG两组分别绘制成折线图如图4和图5所示。与表2相对应，图4和图5的横坐标均是指预选特征集合的特征词数量。CHISFLA是指使用CHI进行特征词预选，再使用SFLA 进行二次优选;IGSFLA是指使用IG进行特征词预选，再使用SFLA进行二次优选。在使用SVM分类器,Reuters-21578英文语料库作为数据集时，使用改进后的SFLA二次优选方法明显比传统特征选择方法CHI和IG能得到更高的分类准确率，并且随着维度的增加，分类准确率的提升幅度有增加的趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b54ef62509761c7b5dde26bb755e8b6561ce515b2b26730a272c407c374f76b.jpg",
+        "table_caption": [
+            "表2SVM分类器下Reuters-21578各个特征选择方法的分类准确率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>特征选择 方法 维数</td><td>CHI</td><td>CHI_SFLA (%)</td><td>IG (%)</td><td>IG_SFLA (%)</td></tr><tr><td>100</td><td>93.102</td><td>92.143</td><td>90.132</td><td>90.772</td></tr><tr><td>200</td><td>93.878</td><td>92.965</td><td>91.366</td><td>92.873</td></tr><tr><td>300</td><td>92.554</td><td>92.005</td><td>89.082</td><td>92.736</td></tr><tr><td>400</td><td>91.000</td><td>94.381</td><td>86.249</td><td>92.873</td></tr><tr><td>500</td><td>90.726</td><td>94.153</td><td>85.381</td><td>92.325</td></tr><tr><td>600</td><td>87.848</td><td>92.599</td><td>84.651</td><td>92.645</td></tr><tr><td>700</td><td>85.975</td><td>93.878</td><td>83.919</td><td>92.462</td></tr><tr><td>800</td><td>85.244</td><td>93.970</td><td>83.645</td><td>92.234</td></tr><tr><td>900</td><td>84.513</td><td>93.878</td><td>83.326</td><td>91.594</td></tr><tr><td>1000</td><td>84.011</td><td>93.559</td><td>82.914</td><td>91.640</td></tr><tr><td>1100</td><td>83.646</td><td>94.107</td><td>82.686</td><td>93.376</td></tr><tr><td>1200</td><td>83.189</td><td>94.290</td><td>82.412</td><td>92.828</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在使用KNN分类器时，CHI或IG方法预选出的特征集合经过二次优选后的实验结果如表3所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b08afaee74f93dcb48fe91e4fe0734c688fb32b717b4b3e29c819e570f2c220d.jpg",
+        "img_caption": [
+            "图4SVM分类器下Reuters-21578英文语料库的分类准确率(CHI)"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e0cc6641b1bba1f13571008498459f56e0f9501ef27255615652bbb68f02857.jpg",
+        "table_caption": [
+            "表3KNN分类器下Reuters-21578各个特征选择方法的分类准确率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>特征选择 方法 维数</td><td>CHI (%)</td><td>CHI_SFLA (%)</td><td>IG (%)</td><td>IG_SFLA (%)</td></tr><tr><td>100</td><td>90.361</td><td>91.914</td><td>87.391</td><td>90.955</td></tr><tr><td>200</td><td>88.305</td><td>90.909</td><td>89.356</td><td>90.452</td></tr><tr><td>300</td><td>87.483</td><td>91.275</td><td>89.082</td><td>90.361</td></tr><tr><td>400</td><td>86.752</td><td>89.630</td><td>89.676</td><td>89.676</td></tr><tr><td>500</td><td>87.300</td><td>91.366</td><td>88.305</td><td>88.716</td></tr><tr><td>600</td><td>87.163</td><td>91.594</td><td>87.483</td><td>89.402</td></tr><tr><td>700</td><td>86.661</td><td>91.138</td><td>87.117</td><td>89.630</td></tr><tr><td>800</td><td>85.564</td><td>88.671</td><td>86.341</td><td>89.950</td></tr><tr><td>900</td><td>84.742</td><td>88.031</td><td>86.067</td><td>89.676</td></tr><tr><td>1000</td><td>83.920</td><td>88.077</td><td>85.062</td><td>89.127</td></tr><tr><td>1100</td><td>81.361</td><td>87.803</td><td>84.376</td><td>89.493</td></tr><tr><td>1200</td><td>81.635</td><td>87.163</td><td>83.919</td><td>89.721</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将CHI和IG两组分别绘制成折线图如图6和图7所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c2a842d514a501cc6609c7d75c3d3a1219d7dbf73cbc46b678d59122df91e66.jpg",
+        "img_caption": [
+            "图6KNN分类器下Reuters-21578英文语料库的分类准确率(CHI)"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d41cc9cddc26430801fa3fb3cbc994aadbc2bfde0c8250c1a2dbfd724ecd9ad7.jpg",
+        "img_caption": [
+            "图5SVM分类器下Reuters-21578英文语料库的分类准确率(IG)"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7bfc418517e514e71c4c904462b1198f7670dd1f8d65eed70b3f58341c03bb9.jpg",
+        "img_caption": [
+            "图7KNN分类器下Reuters-21578英文语料库的分类准确率(IG)"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与表3相对应，图6和图7的横坐标均是指预选特征集合的特征词数量。可以看出，在使用KNN分类器，Reuters-21578英文语料库作为数据集时，在大多数维度中，使用改进后的SFLA二次优选方法比传统特征选择方法CHI和IG能得到较高的分类准确率，但是在400维度时，IGSFLA所取得的分类准确率跟IG的恰好一样，没有提高，但此时经过IG_SFLA二次优选后的特征集合的维度小于400维度，这也从另一个角度说明通过IG预选出来的400维度特征集合中存在与分类无关的词项，这一部分词项完全可以剔除。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2 实验二",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验室语料库是由中山大学资讯管理学院智能信息处理实验室所收集和整理[22]，共有13个类别。本次实验从中选取文本数量较多的8个类：education、entertainment、event、finance、game、occultism、sport、technology，从每个类别中随机选取200篇文本，共1600篇，作为实验的训练文本集；从剩下的文本集中每个类别随机选取200篇文本，共1600篇，作为实验的测试文本集B，用于对精选后的特征集合的检验;再从8个类中每类随机选取20篇文本，共160 篇，作为实验的测试文本集A。对训练文本集进行文本预处理、分词去重以及去除停用词后，共得到52794个特征词。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在使用SVM分类器时，CHI或IG方法预选出的特征集合经过二次优选后的实验结果如表4所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a8d83095defd61906f1cb4e05137df2514fbda4d5ef135d55abcb8445d2cb90.jpg",
+        "table_caption": [
+            "表4SVM分类器下实验室语料库各个特征选择方法的分类准确率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">特征选择 方法 维数</td><td rowspan=\"2\">CHI (%)</td><td rowspan=\"2\">CHI_SFLA</td><td rowspan=\"2\">IG (%)</td><td rowspan=\"2\">IG_SFLA (%)</td></tr><tr><td>(%)</td></tr><tr><td>100</td><td>77.042</td><td>77.417</td><td>55.667</td><td>56.958</td></tr><tr><td>200</td><td>83.292</td><td>85.792</td><td>68.667</td><td>76.333</td></tr><tr><td>300</td><td>80.833</td><td>86.083</td><td>73.833</td><td>83.083</td></tr><tr><td>400</td><td>77.458</td><td>84.625</td><td>77.083</td><td>79.000</td></tr><tr><td>500</td><td>78.875</td><td>85.708</td><td>78.708</td><td>80.292</td></tr><tr><td>600</td><td>80.583</td><td>86.167</td><td>80.083</td><td>83.458</td></tr><tr><td>700</td><td>80.417</td><td>86.208</td><td>81.167</td><td>84.625</td></tr><tr><td>800</td><td>80.375</td><td>85.333</td><td>81.833</td><td>86.250</td></tr><tr><td>900</td><td>80.667</td><td>85.958</td><td>81.417</td><td>84.708</td></tr><tr><td>1000</td><td>80.750</td><td>87.292</td><td>81.167</td><td>86.667</td></tr><tr><td>1100</td><td>80.583</td><td>84.667</td><td>80.500</td><td>82.125</td></tr><tr><td>1200</td><td>80.208</td><td>86.042</td><td>80.250</td><td>83.250</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将CHI和IG两组分别绘制成折线图如图8和图9所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ff9b3de40747e78e7a7bfeefe5da1e7027e34f70e43a94bb3d2295c31237e08.jpg",
+        "img_caption": [
+            "图8SVM分类器下实验室语料库的CHISFLA和CHI的分类准确率"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcd9d8f3b8f17ca255113b06c405f17cc690082dccb43d16a59bf27fe5757d3d.jpg",
+        "img_caption": [
+            "图9SVM分类器下实验室语料库的IG_SFLA和IG的分类准确率"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图8和图9可以看出，采用实验室语料库作为数据集时，改进后的SFLA二次优选方法比传统特征选择方法CHI和IG 均能得到较高的分类准确率。并且二者都是在维度为1000维的时候取得最高分类准确率。在提高幅度方面，CHISFLA在400 维度时比CHI提高了约 $7 \\%$ ，IG_SFLA在300 维度时比IG提高了约 $9 \\%$ 。总体而言，当使用传统特征选择方法所得到的分类准确率较低时，改进后的SFLA二次优选方法的优化效果比较明显。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在使用KNN分类器时，CHI或IG方法预选出的特征集合经过二次优选后的实验结果如表5所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将CHI和IG两组分别绘制成折线图如图10和图11所示。从图10可以看出，在KNN分类器下，采用实验室语料库作为数据集时，CHISFLA比CHI取得更高的分类准确率，但是在100维和1000维时提高幅度不明显，但也达到了降维效果。从图11可以看出,在KNN分类器下,IGSFLA明显比IG取得更高的分类准确率，在1000维和1100维时提高幅度达到 $12 \\%$ O",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d89cbb909f88f43b462dd8da343ba973c388047f9c440b299d83f0a3990c99f.jpg",
+        "table_caption": [
+            "表5KNN分类器下实验室语料库各个特征选择方法的分类准确率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">特征选择 方法</td><td rowspan=\"2\">CHI</td><td rowspan=\"2\">CHI_SFLA (%)</td><td rowspan=\"2\">IG (%)</td><td rowspan=\"2\">IG_SFLA (%)</td></tr><tr><td>维数</td><td>(%)</td></tr><tr><td></td><td>100</td><td>72.125</td><td>72.750</td><td>52.958</td><td>55.583</td></tr><tr><td>200</td><td></td><td>66.750</td><td>78.583</td><td>65.875</td><td>75.125</td></tr><tr><td></td><td>300</td><td>69.250</td><td>77.083</td><td>65.458</td><td>72.917</td></tr><tr><td></td><td>400</td><td>68.458</td><td>76.333</td><td>67.667</td><td>71.917</td></tr><tr><td></td><td>500</td><td>69.083</td><td>79.000</td><td>67.167</td><td>70.917</td></tr><tr><td></td><td>600</td><td>68.167</td><td>76.708</td><td>65.917</td><td>72.292</td></tr><tr><td></td><td>700</td><td>68.083</td><td>75.500</td><td>64.542</td><td>69.917</td></tr><tr><td></td><td>800</td><td>68.750</td><td>77.292</td><td>60.458</td><td>70.458</td></tr><tr><td></td><td>900</td><td>68.167</td><td>76.167</td><td>57.208</td><td>68.833</td></tr><tr><td></td><td>1000</td><td>70.625</td><td>74.708</td><td>57.167</td><td>69.917</td></tr><tr><td>1100</td><td></td><td>71.417</td><td>77.208</td><td>58.667</td><td>71.458</td></tr><tr><td>1200</td><td></td><td>69.958</td><td>78.792</td><td>60.792</td><td>68.750</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3 配对样本T检验 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "将所有得到的准确率数据分成两组，分别是P_old和P_new，在SPSS工具中使用配对样本T检验，结果如表6所示。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从表6可以看出， $\\mathrm { S i g . } { = } . 0 0 0 { < } 0 . 0 1$ ，说明在显著度为 $9 9 \\%$ 的水平下，使用 SFLA 前的分类准确率P_old",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/771f1f15bc9bf884fabc21fd1987108733f4a5445ab3819c9b99abe767ca514c.jpg",
+        "img_caption": [
+            "图10KNN分类器下实验室语料库的CHI_SFLA和CHI的分类准确率"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/04ee9be43d03673d25fa322161828a9a87bf8d625a0a90dc87320624f332bc0e.jpg",
+        "img_caption": [
+            "图11KNN分类器下实验室语料库的IGSFLA和IG的分类准确率"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "和使用SFLA后的分类准确率P_new存在显著差异，可见使用 SFLA 进行特征优化选择后，对文本的分类准确率有明显的提升效果。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/deb7a9bc3b29576e18fb05eb76441454034b663653c36b19d12cf837b0d83e5d.jpg",
+        "table_caption": [
+            "表6配对样本T检验结果表格"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td colspan=\"6\">成对差分</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\"></td><td rowspan=\"2\">均值</td><td rowspan=\"2\">标准差</td><td rowspan=\"2\">均值的标准误</td><td colspan=\"2\">差分的95%置信区间</td><td rowspan=\"2\">t df</td><td rowspan=\"2\">Sig. (双侧)</td></tr><tr><td></td><td></td><td>下限</td><td>上限</td></tr><tr><td>对1</td><td>P_old-P_new</td><td>-5.39820</td><td>3.29716</td><td>.33651</td><td>-6.06626</td><td>-4.73013</td><td>-16.042</td><td>95</td><td>.000</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.4 实验结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实验一和实验二的结果都说明了基于改进后的SFLA的文本特征选择优化算法比传统的CHI和IG能得到更好的分类效果，说明了改进后的SFLA对文本特征二次优选具有较好的可行性和有效性，原因主要是：CHI、IG等传统的特征选择方法是通过某一数学评价模型从原始特征集合中筛选出具有较好的区分能力和文本代表性的特征集合，即是在统计学角度进行筛选特征集合的，并没有从文本的角度考虑特征词之间的相互影响以及冗余词项对文本分类效果的整体影响。因此使用CHI和IG所得到的候选特征集合必然存在较多噪声特征项，对分类器的分类效果会造成较大的影响，从而使分类准确率相对较低；而引入改进后的 SFLA之后，对特征集合进行了二次优选，利用SFLA的迭代寻优且收敛性较好的特点，保留具有区分能力的特征词项，并排除部分与分类无关的噪声词项，从而较大程度地提高了文本分类的准确率。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文从特征选择对文本分类效果的整体影响角度出发，引入了在文本领域应用不多的SFLA并尝试将其应用在文本特征选择优化中。通过与传统特征选择方法CHI和IG的对比实验可以看到，基于改进后的SFLA的文本特征选择优化方法较CHI和IG能取得更高的分类准确率，主要是因为在算法迭代过程中对预选特征集合去除了较多噪声特征项，降低了噪声特征项对文本分类的影响程度，从而能得到更好的分类效果。然而本文所使用的改进后的SFLA相关参数的设置只是基于小规模测试实验得出的结果，下一步将尝试通过对SFLA的相关参数进行寻优，找到相关参数的最佳取值范围，使算法结果进一步接近最优解，从而得到更优的高精度特征集合以及更好的分类效果。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]庞观松，蒋盛益．文本自动分类技术研究综述[J].情报理 论与实践，2012，35(2):123-128.(Pang Guansong，Jiang Shengyi. Text Automatic Classification Technology Research [J].Information Studies:Theory & Application,2012,35(2):   \n123-128.) [2]吴科．基于机器学习的文本分类研究[D]．上海:上海交通 大学,2008.(Wu Ke.A Study on Text Categorization Based on MachineLearning[D]. Shanghai:ShanghaiJiaotong University,2008.) [3]伍建军，康耀红．文本分类中特征选择方法的比较和改进 [J]．郑州大学学报：理学版，2007,39(2):110-113.(Wu Jianjun,Kang Yaohong. Comparison and Improvement of Feature Selection for Text Categorization [J].Journal of Zhengzhou University: Natural Science Edition,2007,39(2):   \n110-113.) [4]Yang Y, Pedersen JO.A Comparative Study on Feature Selection in Text Categorization[C]//Proceedings of the 14th International Conference on Machine Learning.San Francisco: Morgan Kaufmann Publishers Inc.,1997: 412-420. [5]符发．中文文本分类中特征选择方法的比较[J].现代计算 机：专业版,2008(6):43-45.(Fu Fa.Comparison of Feature Selection in Chinese Text Categorization [J]. Modern Computer, 2008(6): 43-45.) [6]Tabakhi S,MoradiP,Akhlaghian F.An Unsupervised Feature Selection Algorithm Based on Ant Colony Optimization [J]. Engineering Applications of Artificial Intelligence,2014,32:   \n112-123. [7]刘亚南.KNN 文本分类中基于遗传算法的特征提取技术研 究[D].北京：中国石油大学,2011.(Liu Ya'nan.Research of Feature Extraction Technology in KNN Text Classification Based on the Genetic Algorithm [D]. Beijing: China University of Petroleum, 2011.)   \n[8]刘逵．基于野草算法的文本特征选择研究[D].重庆：西南 大学，2013．(Liu Kui.An Invasive Weed Optimization Algorithm for Text Feature Selection [D]. Chongqing: Southwest University,2013.)   \n[9]Uguz H.A Two-stage Feature Selection Method for Text CategorizationbyUsingInformation Gain， Principal ComponentAnalysisandGeneticAlgorithm[J]. Knowledge-Based Systems,2011,24(7): 1024-1032.   \n[10]Javed K,Maruf S,Babri H A.A Two-stage Markov Blanket Based Feature Selection Algorithm for Text Clasification [J]. Neurocomputing,2015,157: 91-104.   \n[11] Lu Y,Liang M,Ye Z,et al.Improved Particle Swarm Optimization Algorithm and Its Application in Text Feature Selection [J].Applied Soft Computing,2015,35(C): 629-636.   \n[12]Eusuff M M,Lansey K E. Optimization of Water Distribution Network Design Using the Shuffled Frog Leaping Algorithm [J]. Journal of Water Resources Planning and Management, 2003,129(3): 210-225.   \n[13]崔文华，刘晓冰，王伟，等．混合蛙跳算法研究综述[J]．控 制与决策，2012,27(4):481-486,493.(Cui Wenhua,Liu Xiaobing, Wang Wei, et al. Survey on Shuffled Frog Leaping Algorithm[J]. Control and Decision,2012,27(4):481-486, 493.)   \n[14]Elbehairy H,Elbeltagi E,Hegazy T,et al. Comparison of Two Evolutionary Algorithms for Optimization of Bridge Deck Repairs[J]. Computer-Aided Civil andInfrastructure Engineering,2006,21(8): 561-572.   \n[15] 陈功贵，李智欢，陈金富，等．含风电场电力系统动态优 化潮流的混合蛙跳算法[J]．电力系统自动化，2009，33(4): 25-30.(Chen Gonggui,Li Zhihuan,Chen Jinfu,et al. SFL Algorithm Based Dynamic Optimal Power Flow in Wind Power Integrated System [J].Automation of Electric Power Systems,2009,33(4): 25-30.)   \n[16] 张沈习，陈楷，龙禹，等．基于混合蛙跳算法的分布式风 电源规划[J]．电力系统自动化，2013,37(13)：76-82. (Zhang Shenxi,Chen Kai,Long Yu,et al. Distributed Wind Generator Planning Based Shuffled Frog Leaping Algorithm [J].Automation of Electric Power Systems,2013,37(13): 76-82.)   \n[17]余华，黄程韦，金赞，等．基于改进的蛙跳算法的神经网 络在语音情感识别中的研究[J]．信号处理，2010，26(9): 1294-1299.(Yu Hua, Huang Chengwei,Jin Yun, et al. Speech Emotion Recognition Based on Modified Shuffled Frog Leaping Algorithm Neural Network [J]. Signal Processing, 2010,26(9): 1294-1299.) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[18]许方．基于混合蛙跳算法的 Web 文本聚类研究[D].无锡:江南大学，2013.(Xu Fang.Research on Web Text ClusterAlgorithm Based on Shuffled Frog-leaping Algorithm [D].Wuxi: Jiangnan University,2013.)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[19]尉建兴，崔冬华，宁晓青．蛙跳算法在 Web文本聚类技术 中的应用[J]．电脑开发与应用，2011，24(5)：35-37.(Yu Jianxing，Cui Donghua,Ning Xiaoqing． Applicatin of Shuffled Frog-leaping Algorithm to Web's Text Cluster Technology [J].Computer Development & Applications, 2011,24(5): 35-37.)   \n[20] Sun X，Wang Z.An Efficient Document Categorization Algorithm Based on LDA and SFL [C]//Proceedings of the 2008 International Seminar on Business and Information Management.IEEE,2008:113-115.   \n[21]NLPIR 汉语分词系统 [EB/OL].[2016-03-17].http:/ ictclas.nlpir.org.(NLPIR Chinese Word Segmentation System [EB/OL].[2016-03-17].http://ictclas.nlpir.org.)   \n[22]路永和，彭燕虹．融合实用性与科学性的互联网信息分类 体系构建[J].图书与情报，2015(3):118-124.(Lu Yonghe, Peng Yanhong.The Classification System Construction for Internet Information both Practical and Scientific[J].Library and Information,2015(3):118-124.) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "路永和：提出研究思路和实验建议，修改论文;  \n陈景煌：分析数据，设计并实现算法程序，完成实验，论文撰写以及最终版本修订。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "支撑数据见期刊网络版http://www.infotech.ac.cn。  \n[1]路永和，陈景煌．实验数据集.rar.从Reuters-21578语料库和中山大学资讯管理学院极天智能实验室语料库中选择的一部分文本集作为实验数据集，  \n[2]路永和，陈景煌.实验输入的预选特征集合.rar.通过CHI和IG预选出来的特征词集合.  \n[3]路永和，陈景煌．实验输出的特征集合.rar.通过改进的SFLA精选出来的特征词集合.  \n[4]路永和，陈景煌．实验分类结果集.xlsx.使用SFLA 精选出来的特征集合后所计算得到的文本分类准确率.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2016-09-30  \n收修改稿日期:2016-12-12",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Optimizing Feature Selection Method for Text Classification with Shuffled Frog Leaping Algorithm ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Lu Yonghe Chen Jinghuang (School of Information Management, Sun Yat-Sen University, Guangzhou 51Oo06, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective]This paper introduces the shufled frog leaping algorithm (SFLA) to remove the irelevant terms from the texts,and optimizes the feature selection method to improve the accuracy of text clasification.[Methods] First, we used CHIand IG techniques to pre-select different dimensions offeature terms,and thenadopted the modified SFLA to refine the text features’list.Second,we used a frog to represent a feature selection rule,and applied the classification precision as te fitness function.Finally,the SVMand KNN clasifier were adopted tocalculate the classification precision.[Results]The modified SFLA had better performance in classification precision than CHI and IG, and the highest increasing rate was $12 \\%$ .[Limitations] The feature over fitting occured in small portion of space dimensions.[Conclusions] Using feature preselection and the modified SFLA could effctively exclude irrelevant or invalid terms,and then improve the precision of feature selection. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Feature SelectionText ClassificationShuffled Frog Leaping Algorithm ",
+        "page_idx": 10
+    }
+]

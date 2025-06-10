@@ -1,0 +1,139 @@
+# 溅射AI对 $\mathrm { \bf S i _ { 3 } N _ { 4 } }$ 润湿性的改善与钎焊
+
+刘葛亮’马冰洋’尚海龙‘² 陈 凡‘李荣斌‘李戈扬
+
+1上海交通大学金属基复合材料国家重点实验室上海2002402上海电机学院上海 201306
+
+摘 要采用溅射 Al和Al-Ni薄膜作为钎料的方法，研究了溅射 Al 对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 的润湿作用，实现了铝基薄膜钎料对 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 陶瓷的直接钎焊。结果表明,Al 直接溅射在 $\mathrm { S i _ { 3 } N _ { 4 } }$ 表面所获得的各钎焊接头钎缝致密饱满，与陶瓷形成无反应过渡层的良好冶金结合，纯Al钎焊接头的剪切强度为 $1 0 6 \mathrm { M P a }$ ，Al- $1 . 0 \% \mathrm { N i }$ 亚共晶钎焊接头的强度提高到 $1 4 8 ~ \mathrm { M P a }$ ，Al $- 3 . 0 \% \mathrm { N i }$ 接头的强度因钎缝形成共晶组织而略有降低，为 $1 3 2 \mathrm { M P a }$ ，这些接头的剪切断裂均产生于钎缝之中。采用首先溅射Ni薄膜作为底层的A $\mathrm { \ u l - } 1 . 0 \% \mathrm { N i }$ 薄膜钎料进行了对比，这种钎料得到的钎焊接头断裂产生于钎缝与陶瓷的界面，强度也仅为 $8 1 \mathrm { M P a }$ 。这一比较表明高能量溅射 Al粒子直接撞击对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 具有“润湿”作用，使得Al和AI-Ni合金薄膜熔化后即可实现对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 的钎焊。
+
+关键词 $\mathrm { S i _ { 3 } N _ { 4 } }$ 陶瓷，润湿，溅射薄膜，钎焊 中图分类号 TG454
+
+文章编号 0412-1961(2017)00-0000-00
+
+# Wettability Improvement and Brazing of $\mathbf { S i _ { 3 } N _ { 4 } }$ by Sputtered Al
+
+LIU Geliang 1, MA Bingyang1, SHANG Hailong 1.2, CHEN Fan1,LI Rongbin ²,LIGeyang
+
+1StateKey Laboratory of Metal Matrix Composites,Shanghai JiaoTong University,Shanghai 200240, China 2Shanghai Dianji University, Shanghai,20l306,China
+
+Correspondent: LI Geyang, professor, Tel: (O21)54742261, E-mail: gyli $@$ sjtu.edu.cn   
+Supported by National Natural Science Foundation of China (Nos. 51401120 and 51671125) and   
+Natural Science Foundation of Shanghai (No.16ZR1412800)   
+Manuscript received 2017-01-20,in revised form 2017-05-07
+
+ABSTRACT In the present technology, the brazing of $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ needs a reactive transition layers to resolve the non-wetting problem of usual metal fillers. Aluminum could wet $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ without reaction but the brazing is very difficult due to wetting temperature above $1 0 0 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ . In this work, the wetting effect of sputtered Al films on $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ and its physics essence were revealed.Based on this,the brazing of $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ ceramic with Al or Al-Ni film fillers was realized near their melting temperature.The results showed that the seams of brazing joints with direct sputtered Al on $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ film were well-stacked and less defects,and well metallurgically bonded to ceramic without reactive transition layers. The shear strength of pure $\mathrm { \sf A l / S i _ { 3 } N _ { 4 } }$ joint reached $1 0 6 ~ \mathrm { { M P a } }$ .The strength increased to $1 4 8 ~ \mathrm { M P a }$ with adding $1 . 0 \% \mathrm { N i }$ into film filler due hypoeutectic structure in the seam. With further increasing Ni content to $3 . 0 \%$ , the eutectic structure of the seam slightly decreased the strength of joint to $1 3 2 \mathrm { M P a }$ . These joints above all fractured in joint seams. Moreover, the Al- $1 . 0 \% \mathrm { N i }$ film filler first sputtered Ni layer was compared. Its brazing joint fractured at the interface between seam and ceramic and the shear strength decreased to only $8 1 \mathrm { M P a }$ This comparsion revealed the“wetting"efect of the bombardment of energetic sputtered Al particles.This effect still existed after filler melting and the direct brazing of $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ ceramic without reactive transition layers was realized.
+
+KEY WORDS $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ ceramic, weting, sputtered film, brazing
+
+作为一种基本的物理现象，金属熔液对陶瓷的润湿在金属基复合材料和陶瓷钎焊等材料制备与加工领域有着广泛的应用。作为陶瓷与陶瓷之间和陶瓷与金属连接的最主要方式，钎焊的实现需要熔融的金属钎料能够润湿陶瓷，然而绝大多数金属都很难润湿包括 $\mathrm { S i _ { 3 } N _ { 4 } }$ 在内的各种陶瓷，目前主要采用了在陶瓷表面烧结或镀覆含 Ti、V、Nb 等活性元素金属层的陶瓷表面金属化方法[1-3]，以及直接在钎料中加入活性金属元素的活性钎料钎焊法[4-6]，通过在陶瓷表面形成可被钎料润湿的反应过渡层而实现钎焊连接。而反应过渡层的存在不但降低了钎焊接头的强度，也降低了接头的热疲劳和导热率等使用性能。
+
+Al与 Ni、Cu、 $\mathbf { A } \mathbf { g }$ 等常作为钎料主要组分的金属一样具有fcc 结构，易于形变有利于缓解陶瓷钎焊接头的内应力并提高疲劳性能，A1及铝合金相对低的熔化温度也有利于补充其它金属基钎料缺少 $6 0 0 { \sim } 7 0 0 \ \mathrm { ~ \textdegree }$ 钎焊温度的不足。更为重要的是，与常用Ni、Cu、 $\mathbf { A } \mathbf { g }$ 等为基的钎料不能润湿陶瓷不同，A1和铝合金熔液可以通过进一步提高温度而润湿一些陶瓷，如 $\mathrm { { A l } _ { 2 } \mathrm { { O } _ { 3 } ( > 8 5 0 \mathrm { ~  ~ { ^ \circ ~ } C ^ { [ 7 ] } ) } } }$ 、 $\mathrm { \bf A l N } ( > 8 5 0 \mathrm { \mathrm { ~ \sc ~ } } ^ { \circ } \mathrm { C } ^ { [ 8 ] } )$ 、 $\mathrm { T i O } _ { 2 } ( > 1 2 1 0 \ \ ^ { \circ } \mathrm { C } ^ { [ 9 ] } )$ 、$\mathrm { S i _ { 3 } N _ { 4 } ( > 1 0 0 0 ~ \ ^ { \circ } C ^ { [ 1 0 ] } ) }$ 等。利用这一特点，Naka 等[1]采用Al-Si合金作为钎料，通过在 $1 1 0 0 ^ { \circ } \mathrm { C }$ 的高温长时间保温(1h)实现了对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 陶瓷的润湿和钎焊，并获得 $1 3 0 \mathbf { M P a }$ 的高剪切强度。但是，这一高于Al-Si合金熔化温度(约 $6 0 0 \mathrm { ~ \textdegree ~ }$ $\mathrm { { } ^ { \circ } C }$ 的钎焊温度和长达 $^ \mathrm { ~ 1 ~ h ~ }$ 的保温时间不但复杂了钎焊过程，也有可能带来包括损害接头性能的不利结果，这一方法并没有得到工业应用，而降低钎焊温度的关键就在于需实现Al及铝合金在熔点附近对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 的润湿。
+
+最近，本课题组采用在 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } ^ { [ 1 2 ] }$ 和 $\mathsf { A l N } ^ { [ 1 3 ] }$ 表面溅射沉积Al和 Al-Cu合金薄膜作为钎料，成功地实现了对这2种陶瓷在较低温度 $( 6 0 0 { \sim } 7 0 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ )下的直接钎焊，并获得了约 $1 6 0 \ \mathrm { M P a }$ 的接头剪切强度。本工作研究了溅射Al对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 陶瓷润湿性的改善和 Al及Al-Ni合金薄膜对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 钎焊。
+
+# 1 实验方法
+
+实验选用了高纯度的 $\mathrm { S i _ { 3 } N _ { 4 } }$ 陶瓷基片，基片经 $1 ~ { \mu \mathrm { m } }$ 金刚石研磨膏抛光并在丙酮溶液中超声清洗后装入ANELVASPC-350 多靶磁控溅射仪真空室内的基片架上。真空室背底真空优于 $\mathsf { 4 } \times \mathsf { 1 0 } ^ { - 4 }$ Pa后，对基片进行400℃、 $3 0 \mathrm { m i n }$ 的高温烘烤以去除陶瓷基片上吸附的气体和杂质，待基片温度低于 $2 0 0 \mathrm { ~ \textdegree ~ }$ 后对真空室充入纯度为 $9 9 . 9 9 9 \%$ 的Ar气，并保持其压强为 $0 . 6 \mathrm { P a } _ { \circ }$ 直径 $7 6 \mathrm { m m }$ 的Al靶(纯度 $9 9 . 9 9 \% \rangle$ 和 $\mathrm { \Delta N i }$ 靶 (纯度 $9 9 . 9 9 \%$ 分别由直流阴极和射频阴极控制。溅射沉积作为钎料的Al和 Al-Ni 薄膜时，首先在 $\mathrm { S i _ { 3 } N _ { 4 } }$ 表面沉积约 $7 \mu \mathrm { m }$ 厚的A1薄膜，然后在A1薄膜表面沉积了50和 $1 5 0 \mathrm { n m } 2$ 种厚度的薄Ni层，很薄的Ni层可以起到防止Al薄膜氧化的作用，熔化后还可作为铝基钎料的合金组分，根据 Al膜和Ni膜的厚度比可计算得到这2种Al-Ni合金薄膜钎料熔化后的Ni含量分别为 $1 . 0 \%$ 和 $3 . 0 \%$ (原子分数)，分别为亚共晶和共晶组织的成分。
+
+$\mathrm { S i _ { 3 } N _ { 4 } }$ 陶瓷的A1钎焊采用真空钎焊方式：将2个已镀AI-Ni薄膜的陶瓷基片以薄膜面相对紧贴平放于真空炉中，在陶瓷片上放置小重物对样品进行固定并施加压力，真空度达到 $0 . 1 \ \mathrm { P a }$ 后，对试样进行 $6 8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 、$1 0 \mathrm { m i n }$ 的钎焊，钎焊完成后试样随炉冷却。
+
+采用 SJX-200 型电子拉伸试验机测试钎焊接头的剪切强度，接头剪切面的尺寸为 $3 \mathrm { m m } \times 2 \mathrm { m m }$ ，各接头的剪切强度都为10个以上试样的测量平均值。分别采用 S-3400N 扫描电子显微镜(SEM)及其附属的Apolloxp 型能谱仪(EDS)和VHX-1000 高景深光学显微镜(OM)观察了钎焊接头的组织、元素分布和断口的形貌。
+
+# 2 实验结果
+
+# 2.1钎焊
+
+表1示出了Al及其不同Ni含量薄膜钎料的膜层结构和 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 陶瓷钎焊接头的剪切强度。表中纯 $\mathrm { \ A l / S i _ { 3 } N _ { 4 } }$ 接头的剪切强度已达到 $1 0 6 ~ \mathrm { M P a }$ ，加入 $1 . 0 \% \mathrm { N i }$ 使钎缝形成Al-Ni亚共晶组织后接头的剪切强度可提高到$1 4 8 \mathrm { M P a }$ ，进一步增加钎料中的Ni含量至 $3 . 0 \%$ 的共晶成分后，接头的剪切强度则有所降低，为 $1 3 2 \mathrm { M P a }$ 。
+
+# 表1铝基薄膜钎料的结构、成分及 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 钎焊接头的剪切强度
+
+Table 1 Structures and compositions of Al-based filler films, and shear strength of brazing joints of $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$   
+
+<html><body><table><tr><td>Sample No.</td><td>Structure of film filler</td><td>Ni / atomatic fraction</td><td>Shear strength /MPa</td></tr><tr><td>1</td><td>Si3N4/Al(7 μm)</td><td>1</td><td>106</td></tr><tr><td>2</td><td>Si3N4/ Al(7 μm)/Ni(50 nm)</td><td>1.0%</td><td>148</td></tr><tr><td>3</td><td>Si3N4/ Al(7 μm)/Ni(150 nm)</td><td>3.0%</td><td>132</td></tr></table></body></html>
+
+由图1钎焊接头的SEM像可见，各接头的钎透率很高，几乎达到 $100 \%$ 的钎透，钎缝致密饱满，并在$\mathrm { S i _ { 3 } N _ { 4 } }$ 的界面上形成了良好的冶金结合。图1a接头的钎缝为纯Al,加入 $1 . 0 \% \mathrm { { N i } }$ 后钎缝中出现了浅色的 $\mathrm { \bf A l _ { 3 } N i }$ 金属间化合物，表明钎缝为Al和 $\mathrm { { A l + A l _ { 3 } N i } }$ 的亚共晶组织(图1b)，图1c显示随着Ni含量增加至 $3 . 0 \%$ ，钎缝已主要形成 $\mathrm { A l } { + } \mathrm { A l } _ { 3 } \mathrm { N i }$ 的共晶组织。
+
+![](images/74b27344e2c05fd0eadd8505d785fd9ab2bcdc8c4c475ae41d10e4fa54fa7872.jpg)  
+图1不同成分钎料接头焊缝的SEM像
+
+Fig.1 SEM images of brazing joints with fillers of pure Al (a) Al- $1 . 0 \% \mathrm { N i }$ (b) and Al- ${ \it 3 . 0 \% N i }$ (c)
+
+对图2中钎焊接头剪切断裂面的OM像观察发现，各接头的断裂均产生于钎缝，表明钎缝与 $\mathrm { S i _ { 3 } N _ { 4 } }$ 界面的强度已明显高于钎缝本身。纯 $\mathrm { \ A l / S i _ { 3 } N _ { 4 } }$ 接头的断裂面上呈现明显的犁沟状形貌(图2a)，这种形貌表明高塑性的纯AI在断裂时受到了刮擦。在加入 $1 . 0 \% \mathrm { { N i } }$ 形成的Al-Ni亚共晶合金钎缝断裂面上，由强度较低的 A1相形成的犁沟状形貌面积明显减少(图 2b)，钎缝的固溶体 $\cdot +$ 共晶两相结构提高了接头的强度。在图2c中，由A $\mathrm { 1 } { - } 3 . 0 \% \mathrm { N i }$ 共晶形成的钎缝断裂面上已难观察到AI相受刮擦形成的犁沟状形貌，接头的剪切强度因钎缝为共晶组织而略有降低。
+
+![](images/df558183f471d54b7de17d0311f21cd35172250d6fe2d440419fbbe4aa2bd5c0.jpg)  
+图2各钎料钎焊接头剪切断口的OM像
+
+Fig.2 OM images of the shear fracture morphologies of brazing joints with filers of pure Al (a) Al- $1 . 0 \%$ Ni (b)
+
+# 2.2润湿
+
+基于以上Al和Al-Ni合金薄膜钎料成功钎焊 $\mathrm { S i _ { 3 } N _ { 4 } }$ 的实验结果，可以认为，在 $6 8 0 \mathrm { ~ \textdegree ~ }$ 的钎焊温度下熔化的薄膜钎料已经润湿了 $\mathrm { S i _ { 3 } N _ { 4 } }$ 陶瓷。但是，已有的研究[认为，Al熔液只有在 $1 0 0 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 以上的高温才能够对 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 形成润湿，为此做了如下的对比实验。
+
+选择表1中同样含有 $1 . 0 \% \mathrm { N i }$ 薄膜的样品(即样品No.2)，通过改变薄膜的沉积顺序获得一种新的样品（样品 No.2b）。样品 $\mathrm { N o . 2 b }$ 的结构为 $\mathrm { S i _ { 3 } N _ { 4 } / N i ( 5 0 \ n m ) / A l ( 7 \ \mu m ) }$ ，即在 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 表面首先沉积 $5 0 \mathrm { n m }$ 的Ni层后,再沉积 $7 \mu \mathrm { m }$ 的A1层。样品 $\mathrm { N o } . 2$ 和样品 $\mathrm { N o } . 2 \mathrm { b }$ 的薄膜钎料熔化后都为含 $1 . 0 \% \mathrm { N i }$ 的铝合金，它们的差别仅在于：样品No.2的薄膜钎料沉积时，溅射的A1粒子可直接撞击 $\mathrm { S i _ { 3 } N _ { 4 } }$ 的表面；而在样品 $\mathsf { N o } . 2 \mathsf { b }$ 中，溅射的 Al粒子则因为有先沉积Ni层的遮挡而不能直接撞击到 $\mathrm { S i _ { 3 } N _ { 4 } }$ 的表面。随后对这2种Ni含量相同但在$\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 表面沉积薄膜顺序不同的样品进行了钎焊和润湿性的对比。
+
+在以前述相同的钎焊工艺将样品 $\mathbf { N o . } 2 \mathbf { b }$ 进行钎焊后，所得接头的剪切强度为 $8 1 ~ \mathrm { { \bf M P a } }$ ，明显低于表1中所列同样成分样品No.2接头的强度 $\mathrm { ( 1 4 8 \mathbf { M P a } ) }$ 。对接头断裂面的观察也发现，与样品No.2所获接头的断裂发生在钎缝金属中不同，样品 $\mathbf { N o . } 2 \mathbf { b }$ 接头的断裂发生在钎缝与陶瓷的界面(图3)。这一结果表明，尽管样品No.2b在镀膜过程中已经去除了薄膜钎料与 $\mathrm { S i _ { 3 } N _ { 4 } }$ 间的氧化膜而使它们能够实现钎焊连接，但由于溅射的Al粒子没有直接轰击 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 的表面，钎料熔化后不能润湿 $\mathrm { S i _ { 3 } N _ { 4 } }$ ，低强度的界面结合显著降低了接头的剪切强度。
+
+![](images/0d68ae9b42d986aed864224e1e54f81e54ce1622206f4f045d0bc2936cc3dfe5.jpg)
+
+Al- $1 . 0 \%$ Ni film filler(sample No.2b)
+
+进一步对样品No.2和样品 $ { \mathbf { N o } } . 2  { \mathbf { b } }$ 进行了薄膜钎料熔化后的润湿性对比：将2种样品在真空下加热至$6 8 0 \mathrm { ~ \textdegree ~ }$ ，薄膜钎料熔化为合金液后保温 $1 0 \mathrm { m i n }$ 随炉冷却。图4为合金在 $\mathrm { S i _ { 3 } N _ { 4 } }$ 表面凝固后的OM三维形貌像。可见，在Al层直接沉积于 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 表面上的样品 No.2中，虽然熔液有聚集的趋势，但它们仍然完整地覆盖在 $\mathrm { S i _ { 3 } N _ { 4 } }$ 的表面(图4a)；而在有 Ni 层阻碍的样品 No.2b 表面上，Al熔液因聚集产生显著的起伏并可见暴露出的陶瓷基底(图4b)。这一对比也表明样品 No.2上的 Al-Ni熔液已经润湿了 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ ，而样品No.2b上的熔液却未能润湿 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 。
+
+以上对A1层直接和非直接沉积于 $\mathrm { S i _ { 3 } N _ { 4 } }$ 表面的2种薄膜钎料润湿性和钎焊接头的对比实验表明，Al熔液对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 的润湿并不是在熔融态才获得的，而是在作为钎料的Al薄膜溅射沉积于 $\mathrm { S i _ { 3 } N _ { 4 } }$ 表面时就已经实现了。
+
+![](images/c5a373531934c5c989922ce5c2dfcb3ac933d14cd456d4872c6047f8fdfb9eba.jpg)  
+图3结构为 $\mathrm { S i _ { 3 } N _ { 4 } / N i ( 5 0 \ n m ) / A l ( 7 \ \mu m ) }$ 的Al- $1 . 0 \% \mathrm { N i }$ 薄膜钎料(样品 No.2b)所获接头剪切断口的OM像 Fig.3 OM image of the fracture morphology of brazing joint with the structure of $\mathrm { S i _ { 3 } N _ { 4 } / N i ( 5 0 \ n m ) / A l ( 7 \mu m ) i n }$   
+图42种薄膜熔化后的OM三维形貌像
+
+Fig. 4 3D OM morphologies of two different films after melting (a) sample No.2 with the structure of $\mathrm { S i _ { 3 } N _ { 4 } / A l ( 7 \mu m ) / N i ( 5 0 n m ) }$ (b) sample No.2b with the structure of $\mathrm { S i _ { 3 } N _ { 4 } / N i ( 5 0 \ n m ) / A l ( 7 \ \mu m ) }$
+
+# 3 分析讨论
+
+# 3.1 Al液对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 的润湿
+
+Al熔液在 $\mathrm { S i _ { 3 } N _ { 4 } }$ 上的润湿性早期就已有过许多的研究[1,14\~20]，Mouradoff 等[14]的研究表明，熔化后的Al液不能直接润湿 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ ，润湿角仅为 $1 5 0 ^ { \circ }$ ， $\cdot 1 6 0 ^ { \circ }$ ，这一角度在 $1 0 5 0 ~ \mathrm { ~ \textdegree ~ }$ 以下几乎不随温度的提高和时间的延长而减小，只有当温度升高至 $1 0 5 0 ~ \mathrm { ~ \textdegree ~ }$ 后润湿角才能因界面的反应而逐步减小至 $9 0 ^ { \circ }$ 以下，实现润湿。
+
+在固、液、气三相间界面张力与润湿角 $\mathbf { \eta } ( \theta )$ 关系的Young's方程中，对于给定的体系，其中固/气相界面张力 $( \gamma _ { s g } )$ 和液/气相界面张力 $( \gamma _ { l g } )$ 随温度的提高和时间的延长可能会有一定的改变，但不显著，而固/液界面张力 $( \gamma _ { s l } )$ 的降低才是 $\theta$ 减小的主要原因，而这种降低则来自于固/液界面结构的改变。体系温度对$\mathrm { { A l / S i _ { 3 } N _ { 4 } } }$ 润湿性改变的机制可以借鉴 Zhang 等[21采用分子动力学方法对 Al在 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 上润湿性的研究结果,他们发现，AI液温度较低时，熔液中AI原子在 $\mathbf { A l } _ { 2 } \mathbf { O } _ { 3 }$ 表面的吸附为存在“间隙”的物理吸附，只有温度提高至 $8 5 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 以上后，Al原子的吸附状态才能逐步转变为具有Al-O化学键的无“间隙”化学吸附，从而使Al液和 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 的界面张力降低并实现润湿。由此可见，只有Al液中原子的动能随温度的上升而提高后，它们才能克服能垒与 $\mathbf { A l } _ { 2 } \mathbf { O } _ { 3 }$ 表面的O原子形成Al-O化学键。这一在 $\mathrm { A l / A l _ { 2 } O _ { 3 } }$ 体系中的机制也因类似的润湿行为而存在于 $\mathrm { \Delta \ A l / S i _ { 3 } N _ { 4 } }$ 体系之中，即 Al液温度的提高使 Al原子获得了足够的能量，它们才能与 $\mathrm { S i _ { 3 } N _ { 4 } }$ 表面的N原子形成低界面张力的Al-N化学键，是实现润湿的必要条件。
+
+其实，Al原子也可通过其它的方式获得高能量，本工作在 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 表面磁控溅射沉积A1薄膜时，溅射Al粒子(原子、离子或它们的团簇)的动能可高达 ${ 1 0 } ^ { 0 }$ eV 水平，这一能量水平不但远高于 $1 0 0 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 熔液中Al原子所具有的热动能，甚至比在此温度下蒸发的Al原子所具有的 ${ { 1 0 } ^ { - 1 } } \mathrm { e V }$ 能量水平还高一个数量级[22]。如此高能量溅射A1粒子对 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 表面的冲击作用，为AI-N化学键的形成提供了足以克服能垒的能量，而由此所形成的高键强AI-N共价化学键在随后的AI薄膜加热熔化后仍能继续保持，使Al熔液和 $\mathrm { S i _ { 3 } N _ { 4 } }$ 的界面始终处于低张力状态，从而实现了A1液在熔点附近对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 陶瓷的润湿与钎焊。本工作对比实验中的样品 No.2b 的结果也表明，当溅射 Al粒子不能直接撞击 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 表面时，钎料熔化后不能润湿 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ ，仅形成物理的吸附。
+
+需要特别说明的是，Al在 $\mathrm { S i _ { 3 } N _ { 4 } }$ 表面因能量(或温度)升高发生的从高界面张力的物理吸附到低界面张力化学吸附的键能转变，采用现有技术对其进行直接表征是极为困难的，因为这种键能的转变仅产生于界面若干原子层内的A1原子和N原子之间，感量极小。本工作采用改变膜层沉积顺序，通过对比润湿状态、钎焊接头强度和断面观察所获得的结果揭示了这一键能转变的存在。
+
+# 3.2A1液氧化膜的去除与钎焊
+
+与 Al固体表面存在氧化膜一样，Al熔液的表面也存在着一层致密坚固的 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 氧化膜，这一固态的氧化膜熔点高达 $2 0 5 0 \ \mathrm { ~ \textdegree ~ }$ ，其化学稳定性也极高，即使在 $1 0 0 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 的高温下，它的分解也需要氧分压降低至 ${ { 1 0 } ^ { - 3 0 } }$ Pa 以下[23]。这一难以分解的氧化物造成了Al液在陶瓷表面润湿性研究中数据报道的分散。一些研究[24,25]还认为，正是Al液表面的氧化膜阻碍了Al液对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 的润湿，如果能够有效去除存在于 Al液和$\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 之间的氧化膜，则实现润湿的温度就可降低，甚至可降低至 $9 0 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 以下。
+
+氧化膜的存在也是AI钎焊(包括对AI材钎焊和用铝基钎料钎焊)技术中的难点,现有的真空与钎焊中，为了去除Al材和Al液表面的氧化膜并防止其再次生成,除了需采用 ${ { 1 0 } ^ { - 3 } }$ $\mathbf { P a }$ 以上的真空度外,还需利用 Mg蒸气对它们进行还原。
+
+本研究有效地克服了 $\mathbf { A l } _ { 2 } \mathbf { O } _ { 3 }$ 膜对钎焊的2个不利影响：在钎料与陶瓷的界面上，由于采用了气相沉积薄膜的方式，界面上已经不存在AI的氧化膜，熔化后的AI液可以直接接触陶瓷实现钎焊。样品No.2b 的实验结果还表明，即使溅射A1粒子因Ni层的阻碍不能直接撞击 $\mathrm { S i _ { 3 } N _ { 4 } }$ 的表面，但由于没有了氧化膜的阻隔，所得到的钎焊接头界面强度也可高达 $8 1 \mathrm { M P a }$ 。另一方面，对于A1薄膜钎料表面的氧化膜，实验所采用的 Al膜表面镀覆Ni层的方法可以消除其的不利影响，而且实验表明，即使不在Al膜表面镀覆Ni层(样品 No.1)，也可因钎焊时两陶瓷表面 Al膜的相对放置和接触，使得处于其间的氧化膜随两侧Al 薄膜钎料的熔化而破碎并分散在熔液中，这一过程即使在 $0 . 1 \mathrm { P a }$ 的较低真空度下也能顺利进行，大大降低了钎焊对真空度的要求。
+
+由以上实验结果和讨论分析可见，采用溅射Al及AI-Ni合金薄膜作为钎料不仅仅改变了钎料的添加方式，更解决了A1对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 的润湿和去除氧化膜两个钎焊中的关键问题，实现在A1熔点附近对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 陶瓷的钎焊。基于本工作对这2个关键问题的揭示和解决，可以预见：(1)采用气相沉积Al薄膜作为钎料的方法，可以实现对AIN、TiN 和 $\boldsymbol { Z } \mathbf { r } \mathbf { N }$ 等具有高稳定性氮化物陶瓷的无界面反应过渡层直接钎焊；(2)由于各种物理气相沉积方法中的气相 Al粒子都具有远高于熔液原子的能量，因而薄膜钎料的沉积不仅可以采用溅射和粒子能量更高的离子镀方法，也可以采用粒子能量相对较低的热蒸镀方法实现 Al薄膜对陶瓷的“润湿”和直接钎焊。
+
+# 4结论
+
+(1）采用溅射薄膜作为钎料的方法，实现了Al和 AI-Ni合金在其熔点附近对 $\mathrm { S i _ { 3 } N _ { 4 } }$ 陶瓷的钎焊。所得接头的钎缝致密饱满，与陶瓷形成无反应过渡层的良好冶金结合，纯A1钎焊接头获得了 $1 0 6 ~ \mathrm { M P a }$ 的剪切强度，Al- $1 . 0 \% \mathrm { { N i } }$ 的亚共晶钎焊接头强度提高到了 $1 4 8 \mathrm { M P a }$ ，增加钎缝Ni含量至 $3 . 0 \%$ 后，接头的强度因钎缝为共晶组织而略降低为 $1 3 2 \mathrm { M P a }$ ，各接头的剪切断裂均产生于钎缝之中。
+
+(2）薄膜A1钎料对 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 钎焊所需的“润湿”，是通过高能量溅射粒子对 $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ 的直接撞击而实现的，溅射A1粒子因 $\mathrm { N i }$ 层阻挡不能直接撞击 $\mathrm { S i _ { 3 } N _ { 4 } }$ 表面时，Al $\cdot 1 . 0 \% \mathrm { N i }$ 薄膜熔化后不能润湿 $\mathrm { S i _ { 3 } N _ { 4 } }$ ，所得接头的剪切断裂发生在钎缝与陶瓷的界面，强度也降低为仅 $8 1 \mathrm { M P a }$ 。
+
+# 参考文献
+
+[1] Cui W, Yan JC,Dai Y, et al. Building a nano-crystalline $\mathfrak { a }$ -alumina layer at a liquid metal/sapphire interface by ultrasound [J]. Ultrason. Sonochem.,2015,22:108   
+[2]AliM,KnowlesKM,MalinsonPM,etal.Microstructural evolutionandcharacterisationof interfacialphasesin $\mathrm { A l _ { 2 } O _ { 3 } / A g { - } C u { - } T i / A l _ { 2 } O _ { 3 } }$ braze joints [J].Acta Mater.,2015,96: 143   
+[3]YadavDP,KaulR,Ganesh P,etal.Studyonvacuumbrazingofhighpurityalumina forapplication inprotonsynchrotron[J]. Mater. Des.,2014, 64: 415   
+[4]LaikA,MishraP,BhanumurthyK,et al.Microstructural evolution duringreactivebrazingof alumina to Inconel 6Ousing Ag-based alloy [J]. Acta Mater.,2013,61: 126   
+[5]Xia HY,WuAP,FanYL,etal.Effectsofionimplantationonthebrazingpropertiesofhighpurityalumina[J].Surf.Coat. Technol.,2012,206:2098   
+[6]Ghosh S,ChakrabortyR,DandapatN,etal.Characterzationofalumina-alumina/graphite/monelsuperalloybrazedjonts[J]. Ceram. Int.,2012,38(1): 663   
+[7] Ksiazek M, Sobczak N,Mikulowski B, et al. Wetting and bonding strength in $\mathrm { A l } / \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ system[J]. Mater. Sci. Eng.,2002,A,324: 162   
+[8]Prin GR,BaieT,JeymondM,etal.Contactanglesandpreading kineticsoflandAl-CuallysonsinteedAIJ].Mater. Sci. Eng.,2001,A,298: 34   
+[9] Sobczak N, Stobierski L,Radziwill W, et al. Wettability and interfacial reactions in ${ \mathrm { A l } } / { \mathrm { T i O } _ { 2 } }$ [J]. Surf. Interface Anal., 2004, 36: 1067   
+[10]LjugbergL,WarreR.Wetingofsilionnitride withselectedmetalsndaloys[J].Cram.Eng.Sci.Proc.,8,:1655   
+[11] Naka M,Kubo M,Okamoto I.Brazing of $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ to Metals with Al-Si Filler Metals(Physics,Process,Instruments & Measurement) [J].Trans.JWRI,1990,19:181   
+[12] Chen F, Shi K C, Sun S Y, et al. Direct brazing of ${ \mathrm { A l } } / { \mathrm { A l } _ { 2 } } { \mathrm { O } } _ { 3 }$ without wettability of molten metal [J]. J. Inorg. Mater.,2016,31:   
+602 (陈 凡，石恺成，孙士阳等．不基于熔态润湿的 $\mathbf { A l } / \mathbf { A l } _ { 2 } \mathbf { O } _ { 3 }$ 直接钎焊 [J]．无机材料学报,2016,31:602)   
+[13] Zhao BW,Shang HL,ChenF,etal.“Wetting"andbrazing ofAlNbysputeredAl[J].Acta Phys.Sin.,2O16,65:301 (赵博文，尚海龙，陈 凡等．溅射 Al对AIN的“润湿”与钎焊 [J].物理学报,2016,65:301)   
+[14] MouradofL,Tristant P,Desmaison J,et al.Interaction between liquid aluminium and non-oxideceramics (AlN, $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ ,SiC) [J]. Key Eng. Mater.,1995,113: 177   
+[15]Eustathopoulos N,Nicholas MG,Drevet B. Wettabilityathigh temperatures [M].New York: Pergamon,2013: 294   
+[16]LiJG.Wettingofceramicmaterialsbyliquid silicon,aluminumand metallcmeltscontaining itaniumandothereactive elements: A review [J]. Ceram. Int.,1994,20: 391 [17]Nicholas G,MortimerDA,JonesLM,etal.Someobservatiosontheetingandbondngofnitrideceramics[J].Jate. Sci.,1990,25: 2679 [18] Naka M,Kubo M,OkamotoI.Joining of silicon nitride with Al-Cuallys [J].J.Mater.Sci.,1987,22: 4417 [19]Naka M,KuboOamotoWetabilityofsionnitribyumium,oander[J].J.aterSciLe.,,6:96 [20]MouradofLLachau-urandA,DesmisoJ,etal.tudyoftheinteractionetweenliqdumiumandsilicoitride[J].J. Eur. Ceram. Soc.,1994,13:323 [21] Zhang Q, Cagin T, Duin A V, et al. Adhesion and nonweting -weting transition in the Al/alpha- ${ \bf \cdot A l _ { 2 } O } _ { 3 }$ interface [J].Phys.Rev.,   
+2004,69(B): 45423-1 [22] Zheng WT.ThinFilm Materials and Thin film Technology[M].Beijing: Chemical Industry Press,2004:72 (郑伟涛．薄膜材料与薄膜技术 [M].北京：化学工业出版社,2004:72) [23]Fuji H,NakaeH,OkadaK.Interfcialreactionwetingintheboronitride/moltenalumiumsystem[J].ActaMetalter,   
+1993,41: 2963 [24] Li G C,Ning X S,Chen K X,et al. Interaction of $\mathrm { S i } _ { 3 } \mathrm { N } _ { 4 }$ ceramics and liquid aluminum at interface without oxidation[J]. Rare Met.Mater.Eng.,2009,38(s2):186 (李国才，宁晓山，陈克新,等．界面无氧化膜条件下氮化硅陶瓷和铝溶液的反应[J].稀有金属材料与工程，2009,38(s2):   
+186) [25]NingXS,OkamotoT,MiamotoY,etalReactionchemistryatjoiedinterfacesbtweesiconnitrideandauminu[J].J. Mater. Sci.,1991,26: 4142

@@ -1,0 +1,682 @@
+[
+    {
+        "type": "text",
+        "text": "城镇化与经济发展的时空相互作用机制研究一以新疆为例①",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张亚如'，张军民1,2(1石河子大学理学院,新疆 石河子 832003；2广西师范大学,广西 桂林 541006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：运用城镇化率代表新疆地区的城镇化发展水平，用人均GDP表示经济发展,选取产业结构具体分析城镇化与经济发展的相互作用情况。用地理探测器模型分析新疆的城镇化与经济发展间的相互影响及两者之间的时空相互作用机制。结果发现：(1)新疆各地州(市)的城镇化发展差异大且城镇化整体发展速率缓慢。(2)地区间的产业结构布局不均衡。(3)新疆城镇化对经济增长的影响力表现为波动增长;各地区的作用力大小存在较大差异。(4)新疆城镇化发展对经济发展的作用强于经济发展对城镇化进程的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：城镇化；经济发展；相互作用；地理探测器模型文章编号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "发展经济学与新古典经济学最早提出了城镇化与经济发展之间的理论关系[1],城镇化与经济增长之间的研究主要集中在两者之间的相关关系与城镇化对经济增长的影响机制两个方面。部分研究表明,城镇化与经济增长在宏观上呈现出正相关[2-7],并有部分学者提出城镇化对经济增长的促进作用大于经济增长对城镇化的带动作用[8-10]。相关学者对区域城镇化与经济发展间的关系进行了研究，师应来等[11发现湖北省城镇化与经济发展两者之间存在相互促进、互为因果的紧密关系;刘建华等［12]发现吉林省的城镇化与经济发展之间存在长期的均衡稳定关系;徐佳萍等[13]发现江西省的城镇化与经济发展呈现出趋同协调发展趋势;李鑫等[14]对山西省的人口城镇化和经济发展之间的相关性进行了分析探讨;马欣如等[15]发现上海市的城镇化与经济发展两者之间存在相互促进关系，且上海市的城镇化率与人均GDP、人均全社会固定资产投资额、人均财政收入之间的关系较紧密;金瑞等[16]运用重心轨迹移动与空间趋势分析方法，对广东省的城镇化发展及其经济结构与空间布局从时空变化角度进行了分析,发现两者之间的发展不完全一致;张士杰[17]验证了我国中部六省城镇化对经济发展的驱动作用与动力机制，结果发现，中部地区经济发展仍是城镇化进程中的主导因子;葡雪芹等[18]发现我国自改革开放以来，城镇化大多为经济发展的结果，城镇化作为经济发展的动力并不明显，但其集聚效应在一定程度上可以促进经济增长;孔祁祥等[19]基于经济学文献再度审视了城镇化对经济增长的作用，发现城镇化的要素集聚、需求集中、分工与专业、创新四个方面对经济增长的作用较大;武廷方等[20]从三个方面总结分析了我国城镇化与经济发展的相互关系，分别为城镇化推动区域经济发展、城镇化与居民收入和区域经济发展与城市增长;冀福俊[21]借助跨国面板数据对我国的城镇化、经济发展与制度变迁进行了验证性研究，结果表明，1990年以来中国的城镇化和经济发展的关系基本符合国家一般规律，相较于国际一般的城镇化与经济发展路径，中国的城镇化水平与经济发展水平相比略显滞后。综上所述可以发现，我国学者对城镇化与经济发展问题进行了多角度，多方面，多时间与多空间的分析探讨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆的土地占据我国1/6的国土面积，地处西北，土地辽阔，各城市发展受到城市间的距离和资源的限制，从而影响了新疆城镇化与经济的发展，研究新疆城镇化与经济发展的规律及两者间的相互影响,将有利于新疆城市与区域经济的合理发展。我国学者对于新疆城镇化[22]与经济发展之间的关系[23-24]做了相应的研究,韩桂兰等[25],马晓钰等[26]研究了新疆人口城镇化与经济增长之间的相互关系;彭红菊[27对新疆人素质与人口城镇化率对经济发展的影响进行了分析讨论；穆哈拜提·帕热提等[28]借助耦合协调度模型分析了新疆城镇化与经济发展之间的协调关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，发现对于城镇化与经济发展之间的关系研究，大多学者仅探讨了一方对另一方的作用及影响，或仅分析了两者之间的协同发展关系，而对于两者之间的相互作用的分析较少，本文借助地理探测模型，主要分析新疆的城镇化对经济发展的作用力与经济发展对城镇化进程的影响，从而探讨新疆城镇化与经济发展之间的相互作用，并借助产业结构指标分析城镇化对经济发展具体指标作用力和经济发展具体指标对城镇化发展的作用力。研究结果可为新疆的城镇化建设与经济发展的和谐可持续提供参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆维吾尔自治区地处亚欧大陆腹地，是历史上古丝绸之路的重要通道，同时也是“亚欧大陆桥”的必经之地，拥有十分重要的战略位置，习总书记提出的“一带一路”再一次给新疆带来了巨大发展机遇。新疆按地理位置主要划分为东疆、南疆、北疆3个地区，共拥有15个地州（市）。本文对新疆的研究主要是从3个地区和15个地州(市)（表1)两个层面来分析新疆的城镇化与经济发展两者之间的相互作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文借助SPSS软件计算相关系数，分析城镇化与经济发展之间的相关性，运地理探测器模型探测两者之间的作用力强弱",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/61a3ca60cd5e901b4fa073ea33f0b28eaff96807c95bf3756a1a820ef668a37f.jpg",
+        "table_caption": [
+            "表1研究区的区域层次划分",
+            "Tab.1Regional hierarchy of study areas "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>研究区</td><td>地区</td><td>地州(市)分布</td></tr><tr><td>新疆 维吾</td><td>东疆</td><td>哈密地区、吐鲁番地区 巴音郭楞蒙古自治州、阿克苏地区、和田地</td></tr><tr><td>尔自 治区</td><td>南疆</td><td>区、喀什地区、克孜勒苏柯尔克孜自治州（简 称克州) 乌鲁木齐、昌吉回族自治州、阿勒泰地区、塔</td></tr><tr><td></td><td>北疆</td><td>城地区、克拉玛依、博尔塔拉蒙古自治州、伊 犁州直属县市</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1相关系数相关系数可以有效的衡量两者之间的线性关系，较好的反映变量间的相关关系的密切程度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2地理探测器模型地理探测器模型中的因子探测可以较好解释自变量与因变量之间的作用力大小,从而解释变量对现象的影响程度[29]。公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq \\ = \\ 1 \\ - \\ \\frac { \\displaystyle \\sum _ { h = 1 } ^ { L } N _ { h } \\sigma _ { h } ^ { 2 } } { N \\sigma ^ { 2 } } \\ = \\ 1 \\ - \\ \\frac { S S W } { S S T }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS S W = \\sum _ { h \\ : = 1 } ^ { L } N _ { h } \\pmb { \\sigma } _ { h } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS S T = N \\sigma ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $h = 1 , \\cdots , L$ 表示因子 $X$ 的分层（Strata）； $q$ 的取值范围是[0,1],若分层是由变量 $X$ 引起的,则 $\\textit { q }$ 值越大表示自变量 $X$ 对属性 $Y$ 的作用力越强，反之则弱。本文运用地理探测器来探测城镇化与经济发展之间的相互影响程度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2城镇化测度",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "城镇化发展水平的测度通常采用单一指标法或者综合指标法，本文主要探讨新疆城镇化与经济发展之间的相互作用，为使文章简便可行，本文选取较为简单的单一指标法来测度新疆的城镇化发展水平。研究区选取2005—2016年新疆各地州（市）的社会数据进行分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文从静态与动态两个方面对城镇化进行测度，静态方面描述新疆城镇化发展水平状况，动态方面分析城镇化进程的快慢。从城镇化的概念可以看出，城镇化主要指农业人口、地域与活动向非农业人口、地域与活动转变的过程，经济学认为在城市人们主要进行非农活动，结合两者我们选用非农人口占地区总人口的比重来测度新疆城镇化发展水平，用城镇化率在一定时期内变动的多少来衡量城镇化进程的快慢。从动静两个方面探讨城镇化能准确掌握新疆的城镇化水平与城镇化的变化特点，从而掌握新疆城镇化发展规律，提出有助于新疆城镇化的可持续发展建议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1城镇化发展水平的静态测度",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取新疆15个地州（市）的人口数据，计算新疆各地区及各地州（市)2005—2016年间城镇化发展水平（图1），可以发现新疆城镇化发展存在以下特点:",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）从时间层面来看，研究期内新疆城镇化发展表现出先稳定发展后剧烈变动的发展趋势。2005—2014年为稳定发展时期，2015—2016年为剧烈变化时期。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）从空间层面观察，新疆各地区之间的城镇化发展水平差距较大，且各地州(市)之间的城镇化发展水平分布范围较广，表明新疆城镇化发展呈现出不均衡发展。北疆地区的城镇化发展远高于东疆与南疆地区，南疆的城镇化率在 $30 \\%$ 附近上下浮动，处于城镇化发展的起步阶段;各地州（市）的城镇化率从0.15\\~1之间均有分布，分布范围较大，且仅有少数地州(市)的城镇化水平较高，处于城镇化中、低等水平的地区数量较多。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2城镇化发展的动态测度",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对新疆各地区的城镇化发展的变化速率计算（图2），发现各地区的城镇化率的增长速率表现出前期小幅度变化，后期剧烈变动现象。2005—2014年间，东疆、南疆与北疆的城镇化增长速率都在 $\\big [ \\begin{array} { l } { - 1 \\% , 1 \\% } \\end{array} \\big ]$ 之间浮动，变化速率较小，在2015—2016年间城镇化率的变化速率较为剧烈，东疆地区与南疆地区城镇化率都呈现正向增长态势，北疆地区呈现出先负向增长后正向增长现象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3经济发展表征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取2005一2016年之间的数据作为研究对象，选择人均GDP来表示经济发展，在此基础上参照各产业结构附加值数据补充研究区经济发展特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1人均GDP 变化特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算新疆2005—2016年间的人均GDP增长率（图3），可以发现在研究期内大部分地州（市）的经济发展呈现出先正向增长后负向增长的趋势。2006—2015年间新疆大部分地区的人均GDP呈现正向增长趋势，2015一2016年间部分地区的人均GDP出现了负增长现象导致新疆整体的经济发展呈现数负增长趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/83a028d08b2bb0cd36a3daa7873e0f566054845e5f7391503da05b47b8ee4fd1.jpg",
+        "img_caption": [
+            "Fig.1Urbanization level of various states（cities）and regions in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e67800f0b41acecd2a01207fcc340908fdb6565f4dcf3f5bf73bbe31f837e823.jpg",
+        "img_caption": [
+            "图1新疆各地州(市)及各地区城镇化水平",
+            "图2新疆地区城镇化增长速率",
+            "Fig.2Urbanization growth rate in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2产业比重变化特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1产业结构分布情况新疆各地区的产业比重分布(图4)具有明显差异。东疆各产业比重分部不均匀,其中二产所占比重最大,大于 $5 0 \\%$ ，三产比重次之，一产比重最小,小于 $20 \\%$ ;南疆各产业比重分布较为均衡;北疆各产业比重分布表现为二产、三产比重较高，一产比重较低，且二产比重大于三产比重。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/360a9bc390e4028cfdb7a0f6b9ef06356e5ee32e8f445987f117786a1284b938.jpg",
+        "img_caption": [
+            "干吴区地理",
+            "图3新疆各地州(市)及各地区人均GDP变化速率"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6114f2107a3997f5ae636e1233f467c6454b9b383814d4ef5f15c8da1a1426d2.jpg",
+        "img_caption": [
+            "Fig.3Rate of per capita GDP in various states（cities）and regions in Xinjiang ",
+            "图4新疆各地区各产业比重",
+            "Fig.4Proportion of various industries in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2产业结构比重变化特征从分别计算出新疆各地区及各地州的各产业比重变化速率（图5、6、7)来看，新疆各地区的一产变化速率趋势较为相似，整体增长速率呈现出波动增加的趋势，但大部分地州(市)的一产比重变化速率呈现出负增长现象，表明新疆少部分地区的经济增长率较高，地州（市）间经济增长不均衡；新疆各地区的二产变化速率较为一致，变化趋势表现出：正向一负向一再正向一再负向的波动增长趋势，大部分地州(市)呈现出前期正向增长后期负向增长的增长趋势；新疆各地区的三产比重变化速率趋势也较为一致，且变化速率呈现出波动增加趋势，在研究期内三产比重变化呈现出：下降一上升一再下降一再上升4个阶段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4城镇化与经济发展的关联性分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我国学者对城镇化与经济发展之间的相关性及相互作用开展了较多的研究工作，其中部分学者认为城镇化发展对经济增长有一定的促进作用，也有学者发现城镇化发展对经济发展的作用大于经济发展对城镇化进程的作用。新疆城镇化发展拥有地域特色，讨论其城镇化与经济发展在时间、空间上的相互影响，有助于新疆的城镇化与经济和谐发展。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1城镇化与经济发展的相关性分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "运用SPSS19.0软件计算新疆的城镇化率与人均GDP、一产比重、二产比重、三产比重及产业变化速率之间的相关系数可以发现，新疆城镇化率与一产比重存在显著的负相关性;城镇化率与二产比重的相关性主要表现为：2008年之前，两者之间没有明显的相关性，2008年之后两者之间呈现出显著正相关性且相关性不断增强。分别讨论东疆、南疆与北疆的城镇化变化速率与经济发展速率之间的相关性，发现北疆地区的城镇化率的变化速率与二、三产业比重的变化速率在0.05水平下呈现显著正相关性，但东疆地区与南疆地区并未发现此种相关性。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a75fb12455858d5e03cde1ad69e68c1c1bb7b983bd238396fb1b3bbc41f1580.jpg",
+        "img_caption": [
+            "张亚如等：城镇化与经济发展的时空相互作用机制研究一以新疆为例"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9140048a991a8bb265641bf7fdfe3177808c6507053f971ec455b0b26043001.jpg",
+        "img_caption": [
+            "Fig.5Proportion of the primary industry in Xinjiang and its rate of change ",
+            "图6新疆地区第二产业比重及其变化速率"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/78f20e6764da534353fc74ada90e43330180e78cbbe0ea2ca39a4a692f3f26ef.jpg",
+        "img_caption": [
+            "图5新疆地区第一产业比重及其变化速率",
+            "Fig.6Proportion of the second ary industry in Xinjiang and its rate of change ",
+            "图7新疆地区第三产业比重及其变化速率",
+            "Fig.7Proportion of tertiary industry in Xinjiang and its rate of change "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2城镇化与经济发展的相互影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "部分学者研究发现经济发展对城镇化的影响力小于城镇化对经济发展的影响，本文进一步探讨新疆地区是否也存在此种现象。运用地理探测器探测城镇化与经济发展之间的相互作用力大小（图8），图中A表示城镇化对经济发展的作用力，B表示经济发展对城镇化的作用力，可以发现城镇化对经济发展的作用力呈现加强趋势，在2009年城镇化对经济发展的作用大于经济发展对城镇化的作用力，表明新疆地区的城镇化发展在一定程度上能够带动地区的经济发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3656646a94e51470edf8ec2c4e65a64d906fa64eed286a7759a5df5de61d865.jpg",
+        "img_caption": [
+            "注：A表示城镇化对经济发展的作用力；B表示经济发展对城镇化的作用力",
+            "图8城镇化与经济发展的相互作用地理探测 $q$ 值 Fig.8Interaction between urbanization and economic development geographic detection $q$ value "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3城镇化对经济发展的具体影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文主要从城镇化对人均GDP和对产业结构方面分析其对经济发展的影响，运用地理探测器模型对作用力大小进行量化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "运用地理探测器探测城镇化发展水平对人均GDP,一、二、三产作用力的 $q$ 值大小（图9）。发现在研究期内，新疆城镇化对经济发展的影响力呈现波动上升趋势，其中城镇化对人均GDP的影响力最大,其次为第一产业，对第二产业的影响较小,表明当新疆的城镇化水平有所提升时，人均GDP的增长最快,其次为第一产业比重,第二产业比重增长则相",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b987fa91d799d7db74ff215527ef102a1366c0a86da3d679708e68ea7d38cd91.jpg",
+        "img_caption": [
+            "图9 城镇化对经济发展时间上的影响 $q$ 值Fig. 9 Impact of urbanization on the economicdevelopment time $q$ value"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对较慢。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从新疆东疆、南疆、北疆地区的城镇化水平对人均GDP,一、二、三产比重的作用力的 $q$ 值大小（图10)分析显示，东疆城镇化对经济发展的影响力大小为：一产 $>$ 二产 $>$ 人均GDP $>$ 三产,即表明当东疆地区的城镇化有所提升时，增长最快的为一产比重，二产比重的增长次之，人均GDP的增长速率较小，三产比重增长速率最慢;主要是由于东疆的一产比重较低，具有较大的提升空间，东疆的城镇化发展会加快农业技术的发展,使第一产业效率快速增加，经济收人滞后的主要原因是地区市场规模与地区资源的限制。南疆城镇化发展对经济发展的影响力大小为：人均GDP $>$ 二产 $>$ 三产 $>$ 一产，且南疆地区的城镇化发展对经济发展的影响力极小，表明南疆的城镇化发展对经济发展的带动作用微弱；这主要是国家及地区政策的引导的结果，国家与地区首先发展南疆地区的经济。北疆城镇化发展对经济发展的影响力大小为：人均GDP $>$ 一产 $>$ 二产 $>$ 三产，这主要是由于北疆地区的地理位置及资源状况较好，有利于地区的经济发展,北疆地区的一产比重较低，具有较大的提升空间，随着城镇化的发展，人才的集聚使得农业技术有所提高，所以第一产业的发展也提高速度较快，三产比重提升缓慢的原因是由于北疆城镇人口规模稳定，城镇地区的市场有限，所以三产比重的增加较为缓慢。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从空间上分析城镇化对人均GDP及产业结构的作用力大小（图10），发现城镇化对人均GDP的空间影响力排序为：北疆 $>$ 东疆 $>$ 南疆,即当城镇化增长(减少)相同比例时，北疆地区的人均GDP变化最剧烈，其次为东疆地区，南疆地区变化最小，这主要是由于北疆地区地理位置与资源条件较好，城镇化发展会吸引外来投资和人才集聚，从而促进经济发展，南疆地区的资源匮乏，人口分布较分散，城镇很难吸引人才与外资，所以南疆地区经济发展大多借助国家及地区的投资来发展自身经济，故而其城镇化对经济发展的影响力最小。城镇化对一产比重的空间影响力排序为：东疆 $>$ 北疆 $>$ 南疆，即当城镇化增长(减少)相同比例时，东疆地区一产比重变化最大，其次为北疆地区，南疆地区一产比重的变化最小;这是由于东疆地区的一产比重较小，但其自然资源相对较好，一产有较大的提升空间。城镇化对二产比重的空间影响力排序为：东疆 $>$ 北疆 $>$ 南疆，即当城镇化增长(减少)相同比例时，东疆地区的二产比重变化最大，其次为北疆地区，南疆地区的二产比重变化最小。城镇化对三产比重的空间影响力排序为：北疆 $>$ 东疆 $>$ 南疆,即当城镇化增长（减少）相同比例时，北疆地区的三产比重受到的影响最大，其次为东疆地区，南疆地区的三产比重受到的影响最小。新疆城镇化之所以对第三产业比重的影响力较小（图11），主要是由于新疆地区及城镇人口数量相对稳定，三产规模受到限制，故即使城镇其他产业变化较大，三产比重的变化也较为稳定，且其与城镇化的发展相关性较弱。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.4经济发展对城镇化的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "运用地理探测器模型计算新疆经济发展对城镇化发展在时空上的作用力大小（图11）。可以发现，经济发展对城镇化发展的作用力在2005一2016年间呈现波动增长趋势，其中人均GDP对城镇化发展的影响力最大,其次为第一产业比重，且两者对城镇化发展的影响力呈现波动上升趋势，第二产业与第三产业比重对城镇化发展的影响力表现为波动下降趋势。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b55b92533ccdc19ef5a7841074d58039ce70e95c2467cfe7f92273ef387d35c.jpg",
+        "img_caption": [
+            "图10城镇化对经济发展空间上的影响 $q$ 值Fig.10Spatial impact of urbanization oneconomic development $q$ value",
+            "图11经济发展对城镇化发展时间上的影响Fig.11Impact of economic developmenton the development of urbanization"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8beb6051ee570738b5e7c555d60caf44e8b4b15d4eeb753d8a15ae13b8e1e832.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分别讨论各地区人均GDP及产业比重对城镇化发展的作用力大小（图12)可以发现，东疆的经济发展对城镇化发展的影响力大小为：人均 $\\mathrm { G D P } >$ 二产 $>$ 三产 $>$ 一产,即使城镇化增长同一比例时,最快的方法为提高人均GDP,其次为加大第二产业比重；南疆的经济发展对城镇化发展的影响力大小为：二产 $>$ 一产 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 人均GDP $>$ 三产,即使城镇化增长同一比例时，最快的方法是加大第二产业比重，其次为提高第一产业比重和提高人均GDP;北疆的经济发展对城镇化发展的影响力大小为：人均GDP $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 三产$>$ 一产 $>$ 二产，即使城镇化增长同一比例时,北疆地区的最快的方法使提高人均GDP或加大第三产业比重。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从空间上分析经济发展对城镇化发展的影响力大小（图12），人均GDP对城镇化发展的空间影响力大小排序为：北疆 $>$ 东疆 $>$ 南疆，即当人均GDP增长(减少)同一比例时，城镇化增加(减少）比例最大的为北疆，其次为东疆，南疆变化最小；一产比重对城镇化发展的空间影响力大小排序为：北疆 $>$ 南疆 $>$ 东疆,即当一产比重增加(减少)同一比例时，北疆的城镇化增长（减少）比例最大，南疆次之，东疆变化最小;二产比重对城镇化发展的空间影响力大小排序为：南疆 $>$ 北疆 $>$ 东疆，即当二产比重增加（减少)同一比例时，城镇化变化最剧烈的为南疆,其次为北疆，东疆变化最小；三产比重对城镇化发展的空间影响力大小排序为：北疆 $>$ 东疆 $>$ 南疆，即当三产比重增加(减少)同一比例时，北疆的城镇化变化最大，东疆次之，南疆变化最小。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3c06e7435e0c8d33cf54eee56e566a265819f3d93ad4f9bb3aee2a5e0b7fbd0.jpg",
+        "img_caption": [
+            "图12 经济发展对城镇化发展空间上的影响Fig.12Impact of economic development on thespatial development of urbanization"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文从动态与静态两个方面分析了新疆城镇化与经济发展现状及两者的变化特征，发现新疆各地区及各地州（市）的城镇化发展呈现出不均衡发展且整体发展速率缓慢；新疆的产业结构布局不均衡且产业结构与城镇化水平之间的相互作用不明显。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "运用地理探测器模型分析了新疆城镇化与经济发展在时空上的相互作用。从时间层面看，新疆城镇化对经济发展的影响力可分为两个阶段，第一阶段为两者作用力波动变化阶段，第二阶段为城镇化对经济发展的作用力大于经济发展对城镇化的作用力两个阶段。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "具体分析城镇化对人均GDP与产业结构的影响，发现城镇化水平对人均GDP的空间影响力排序为：北疆 $>$ 东疆 $>$ 南疆，对一产比重的空间影响力排序为：东疆 $>$ 北疆 $>$ 南疆，对二产比重的空间影响力排序为，东疆 $>$ 北疆 $>$ 南疆，对三产比重的空间影响力排序为：北疆 $>$ 东疆 $>$ 南疆。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "具体分析人均GDP与产业结构对城镇化的发展，发现人均GDP与一产比重对城镇化进程的影响力呈现出波动上升趋势，二产比重与三产比重对城镇化发展的影响力表现出下降趋势；在空间上表现为人均GDP对城镇化发展的空间影响力大小排序为：北疆 $>$ 东疆 $>$ 南疆；一产对城镇化发展的空间影响力大小排序为：北疆 $>$ 南疆 $>$ 东疆；二产对城镇化发展的空间影响力大小排序为：南疆 $>$ 北疆 $>$ 东疆;三产对城镇化发展的空间影响力大小排序为：北疆 $>$ 东疆 $>$ 南疆。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6建议",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）加大地区城镇化发展的政策引导与政策扶持。新疆东疆与南疆地区的城镇化发展水平较低，国家及地区应加大对该地区的城镇化发展的政策引导，加强地区的人才引进工作、加大城镇化发展的建设资金投入等手段，提高地区的城镇化发展水平。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）优化地区产业结构。根据各地区的资源环境承载力、要素禀赋培育发展各地区的特色产业体系，改造提升传统农业，加大先进制造业的引进，提升生活性服务也水平，使地区的产业结构合理发展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）充分利用城镇化对经济发展的促进作用。通过分析新疆地区的城镇化水平对经济的影响，可以发现，新疆城镇化发展对经济发展的影响力较大，即加快地区城镇化发展能够促进经济发展，所以新疆地区可通过加大城镇化的建设的方法，从而促进地区经济发展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）充分利用城镇化发展与经济发展之间的相互作用。东疆地区应大力发展人均GDP从而促进城镇化发展；南疆地区的城镇化发展对经济发展的影响远低于经济发展对城镇化发展的影响，所以南疆地区可通过发展经济来加快城镇化进程；北疆地区可通过加大人均GDP与第三产业比重的发展从而促进地区经济发展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］钱陈.城市化与经济增长的主要理论和模型述评[J]．浙江社 会科学，2005，（2）：190-197.[QIANChen.A review of the main theories and models of urbanization and economic growth [J].Zhejiang Social Sciences,2005,（2）:190-197.]   \n[2] MCCOSKEY S,KAO C.A residual-based test of the null of cointegration in panel data[J].Econometric Reviews,1998,17（1）:57 -84.   \n[3] HENDERSON JV.The urbanization process and economic growth: The so-what question[J].Journal of Economic Growth,2003,8 (1):47 -71. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4]BARRIOS S,BERTINELLIL,STROBLE，et al.Agglomeration economies and the location of industries：A comparison of three small European counties[J].Core Discussion Paper,2OO3,67:1- 41. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5］陈明星,陆大道，查良松.中国城市化与经济发展水平关系的国际比较［J].地理研究，2009，28（2）：464－474.［CHENMingxing,LU Dadao,ZHA Liangsong.Urbanization and economicdevelopment in China:An international comparison based on quad-rant map approach[J].Geographical Research,2OO9,28（2）:464-474.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6]谢文蕙,邓卫.城市经济学[M].北京:清华大学出版社，1996：229-281.[XIE Wenhui,DENGWei.Urban economics[M].Bei-jing:Tsinghua University Press,1996:229-281.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7］成德宁.城市化与经济发展—理论、模式与政策[M].北京：科学出版社，2004：142-196.［CHENGDening.Urbanization andeconomic development:Theory,modelsand policies[M].Beijing :Science Press,2004:142-196.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8］胡晓旭.我国城市化与经济增长关系的实证分析[J].科技情报开发与经济，2007，17(26）：148-150.［HUXiaoxu.Discus-sion on the exchange rate of RMB from the angle of foreign trade[J].Sci-Tech Information Development & Economy,2007,17(26):148-150.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9］李金昌,程开明.中国城市化与经济增长的动态计量分析[J].财经研究，2006，32（9）：19-21.［LIJinchang,CHENGKaim-ing.An analysis of dynamic econometric relationship between ur-banization and economic growth in China[J].Journal of Financeand Economics,2006,32(9):19 -21.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10］李郁.中国城市化滞后的经济因素一—基于面板数据的国际比较[J].地理研究，2005，24（3）：421-431.［LIXun.Theeffects of economic growth on Chinese urbanization:Panel data ap-proach[J].Geographical Research,2005,24（3）:421-431.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11」师应来，付英俊，苏波.湖北省城镇化与经济发展水平关系研 究[J].统计与决策,2011，（21）：136-138.［SHIYinglai，FU Yingjun,SUBo.Research on the relationship between urbanization and economic development level in Hubei Province[J].Statistics &Decision,2011,(21):136-138.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12］刘建华，周晓.吉林省城镇化发展与经济增长关系研究[J].税务与经济，2014，（6）：102-110.［LIUJianhua,ZHOUXiao.Study on the relationship between urbanization and economicgrowth in Jilin Province[J].Taxation and Economy,2O14,（6）：102 -110.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[13］徐佳萍，郑林，廖传清.江西省城镇化效率与经济发展水平的 时空耦合关系[J].经济地理,2018,38(5）：93-100.［XU Jiap ing,ZHENG Lin,LIAO Chuanqing.Spatial-temporal coupling relationship betweenurbanization efficiency and economic development level in Jiangxi Province[J].Economic Geography,2018,38（5）： 93-100.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[14］李鑫，王国梁,任鼎.山西省人口城镇化与经济发展水平相关分析[J].经济研究导刊,2009，（26）：53-55.［LIXin，WANGGuoliang,REN Ding.The correlation analysis of population urbani-zation and economic development level in Shanxi Province[J].",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Economic Research Guide,2009,（26):53-55.] [15］马欣如，朱洪兴.上海市城镇化与经济发展关系研究[J].农村 经济与科技,2014,25（8）：82-84,104.［MAXinru,ZHU Hongxing.Research on the relationship between urbanization and economic development in Shanghai[J].Rural Economy and Science-Technology,2014,25（8）:82-84,104.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16］金瑞，史文中.广东省城镇化经济发展空间分析[J].经济地理,2014,34(3）：45-50.[JINRui,SHIWenzhong.Spatial anal-ysis of urban economics in Guangdong Province[J].Economic Ge-ography，2014,34(3):45-50.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17］张士杰.城镇化驱动经济发展的作用机制与动力学特征基于中部六省的实证研究[J].经济问题探索，2016，(2)：115-121.[ZHANG Shijie.The mechanism and dynamics of urbaniza-tion driven economic development:An empirical study based on sixcentral provinces[J]. Inquiry into Economic Issues,2O16,（2）：115 -121. ]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18］葡雪芹，王岱，任旺兵,等.中国城镇化对经济发展的作用机制[J].地理研究,2013,32（4）:691-700.［LINXueqin,WANGDai,REN Wangbin,et al.Research on the mechanism of urbaniza-tion to economic increase in China[J].Geographical Research,2013,32(4):691-700.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19］孙祁祥，王向楠，韩文龙.城镇化对经济增长作用的再审视——基于经济学文献的分析[J].经济学动态,2013，（11)：20-28.[SUNQixiang,WANG Xiangnan,HANWenlong.To ex-amination of the role of urbanization in economic growth:An analy-sis based on economic literature[J].Economic Perspectives,2013,(11):20-28.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20］武廷方，夏刚.城镇化驱动下的区域经济发展—中国城镇化与区域经济发展国际研讨会综述[J].经济研究,2014,49（3）：185-189.[WU Yanfang,XIA Gang.Regional economic development driven by urbanization:A summary of the international sym-posium on urbanization and regional economic development in Chi-na[J].Economic Research Journal,2014,49(3):185-189.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21］冀福俊.中国城镇化、经济发展与制度变迁——基于跨国面板数据的实证研究[J].经济问题探索，2016，（4）：48-54.［JIFujun. Urbanization，economic development and institutionalchange in China:An empirical study based on multinational paneldata[J].Inquiry into Economic Issues,2016,（4）:48-54.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22］杨振，雷军，英成龙，等.新疆县域城镇化的综合测度及空间分 异格局分析[J].干旱区地理,2017,40（1）：230-237.［YANG Zhen,LEI Jun,TING Chenglong,et al. Comprehensive measurement and spatial differentiation pattern analysis of the county urbanization in Xinjiang[J].Arid Land Geography,2017,40（1）： 230 -237.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23］马淑燕,杨德刚，霍金炜，等.和田地区人口与经济发展时空演变与分布差异研究[J].干旱区地理，2017，40(3）：647-654.[MA Shuyan,YANGDegang,HUO Jinwei,etal.Space-time evolu-tion and distribution disparities of population and economic devel-opment in Hotan Prefecture[J].Arid Land Geography,2017,40(3):647 -654.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[24］杨雅楠,阿里木江·卡斯木.“一带一路\"背景下新疆城镇交通 优势度与区域经济发展水平的关系分析［J].干旱区地理， 2017,40(3）:680 -691.[YANG Yanan,Alimujiang kasimu.Relationship between regional transportation advantage and development of reginal economy in Xinjiang under the background of the national strategy of the Belt and Road[J].Arid Land Geography, 2017,40(3):680 -691.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[25］韩桂兰，孙建光.新疆人口城镇化与经济发展水平的相互关系 研究［J].全国商情,2008，（10）：128-130.［HANGuilan,SUN Jianguang.A study on the relationship between population urbanization and economic development level in Xinjiang[J].China Business,2008,（10):128-130.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26］马晓钰，阿迪力·图尔贡，郭莹莹.新疆人口与经济增长的关系研究[J].中国商贸,2013,（30）：174-176.［MA Xiaoyu,Adili Turgun,GUO Yingying.Research on the relationship betweenpopulation and economic growth in Xinjiang[J].China Business &",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Trade,2013，(30):174-176.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[27］彭红菊.新疆人口对经济发展影响的关系研究[J].现代商业， 2016，（33）:100-101.PENGHongju.Researchontherelationship between Xinjiang population's influence on economic development[J].ModernBusiness,2016,（33）:100-101.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[28］穆哈拜提·帕热提，左停，周宁.新疆城镇化与经济发展耦合 协调关系研究[J].地域研究与开发，2016，35（3）：19－22. [PARETI Muhabaiti,ZUO Ting,ZhOU Ning.Study on the relationship between urbanization and economic development based on coordinate coupling degree model in Xinjiang[J].Areal Research and Development,2016,35(3）:19-22.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[29］王劲峰，徐成东.地理探测器：原理与展望[J].地理学报， 2017,72（1）:116-134.［WANG Jinfeng,XU Chengdong.Geo graphical detector:Principles and prospects[J].Acta Geographica Sinica,2017,72(1):116-134.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Spatio-temporal interaction mechanism of urbanization and economic development : A case of Xinjiang ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Ya-ru1； ZHANG Jun-min1,2 (1College of Science,Shihezi University,Shihezi 832ooo,Xinjiang,China; 2Guangxi Normal University,Guilin 5410o6,Guangxi,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Xinjiang,China is located inthe hinterlandof Asia-Europeand its strategic position isvery important. Geographicaly,Xinjiang is mainly divided into three regions:Eastern Xinjiang,Southern Xinjiang,,and Northern Xinjiang,with a total of 15 prefectures（cities）.In recent years,the speed of urbanization andeconomic developmentin Xinjiang hasbeenrelativelyfast,andbyinvestigating therelationshipbetween them,itis posibletoprovide a reference for urbanization and economic development in Xinjiang.This paper mainly analyzed the mutual promotion between urbanization and economic development in Xinjiang,and explored which one could have a stronger influence on the other.The paper used the social data from 2Oo5 to 2O16,the non-agricultural population to indicate thelevel of urbanization development,the per capita GDP to represent the level of economic development,and the industrial structure to specificallyanalyze the effects of urbanizationon economic development and vice versa.The factor detection module in the geo-detector model detected theamount of interaction between the two parameters. The analysis found that the impactof urbanization process on economic development in Xinjiang has increased with time.Since 2O09,the impact of urbanization on economic development has ben greater than the impact of economic developmentonurbanization,indicating that Xinjiang isaccelerating urbanizationandthe construction industrypromotes regional economic development. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: urbanization ;economic development； interaction；geographic detector model ",
+        "page_idx": 9
+    }
+]

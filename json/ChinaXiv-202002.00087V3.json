@@ -1,0 +1,725 @@
+[
+    {
+        "type": "text",
+        "text": "多维对数正态作答时间模型：对潜在加工速度多维性的探究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "詹沛达」 Hong Jiao² Kaiwen Man³(浙江师范大学教师教育学院心理学系，金华 321004)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Measurement,Statistics,andEvaluation,DepartmentofHumanDevelopmentandQuantitative Methodology,Universityf Maryland, College Park, Maryland, United States) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(EducationalStudiesinPsychologyResearchMethodology,andCounseling,The UniversityofAlabama,TuscalooaUited ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "States) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要在心理与教育测量中，潜在加工速度反映学生运用潜在能力解决问题的效率。为在多维测验中探究潜在加工速度的多维性并实现参数估计，本研究提出多维对数正态作答时间模型。实证数据分析及模拟研究结果表明：(1)潜在加工速度具有与潜在能力相匹配的多维结构；(2)新模型可精确估计个体水平的多维潜在加工速度及与作答时间有关的题目参数；(3)冗余指定潜在加工速度具有多维性带来的负面影响低于忽略其多维性所带来的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词题目作答时间；多维潜在加工速度；题目作答理论；计算机化测验;PISA",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近些年，随着计算机化测验的普及，对题目作答时间(response times,RT)及其他过程数据的采集已趋于常态化。例如，自2012年以来，国际学生能力评估项目(PISA)就开始采用计算机化测验采集学生的RT数据。已有研究表明，RT数据作为传统作答精度数据外的一种补充，不仅能够提供学生在问题解决中的加工速度信息，在联合分析中还可以提高对潜在能力的测量精度(Bolsinova& Tijmstra,2017;van der Linden,Klein Entink,&Fox,2010；詹沛达,2019)。因此，近些年对RT数据的分析成为了国内外心理与教育测量领域的新热点之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究者基于认知心理学理论和实验研究提出了多种RT模型(参见De Boeck& Jeon,2019；郭磊，尚鹏丽，夏凌翔,2017)。其中，速度-精度权衡(speed-accuracy trade-off; Luce,1986)是一些早期 RT 模型所探讨的主要议题(例如,Ferrando&Lorenzo-Seva,2007;Wang,T.& Hanson,2005)，即对于特定的任务，被试的加工速度越快则其加工精度(或成功率)越低；反之，被试的加工速度越慢则其加工精度越高。然而，该权衡反映的是加工速度与加工精度在个体内(within-person)的关系(van der Linden,2009)，无法通过横断研究/测验来评估(Curran＆ Bauer,2011)。通常，对于一组固定的任务/题目，一旦被试的加工速度被固定，那么其加工精度也是固定的；因此，建议对加工速度和加工精度分别建模，而与之相对应的潜在加工速度和潜在能力之间的关系可以在更高的层次上建构(van der Linden,2006;2007;2009)。当前，使用最多的是对数正态 RT 模型(lognormal RT model,LRTM) (van der Linden,2006)，也有一些研究对该模型做了进一步拓广(例如，孟祥斌,2016; Klein Entink,van der Linden,&Fox,2009; Wang,C., Chang,&Douglas, 2013)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为进一步探究潜在加工速度与潜在能力之间的关系，van derLinden (2007)提出了贝叶斯层级建模框架。该框架的基本逻辑是,在个体内，潜在加工速度对RT 的影响和潜在能力对作答精度(response accuracy,RA)的影响是相互独立的；而在群体内(即个体间)，潜在加工速度与潜在能力之间具有相关关系。鉴于该框架的灵活性，通过替换不同的测量模型已形成多种联合模型(例如，詹沛达,2019;Guo,Luo,& Yu,2020; Lu, Wang, Zhang,& Tao,2019; Man,Harring, Jiao,& Zhan,2019; Wang,C.& Xu,2015; Wang, Zhang,Douglas,&Culpepper,2018; Zhan,Jiao,&Liao,2018)。但目前，绝大多数联合模型都仅适用于单维测验，即使用单维题目作答理论(item response theory)模型来分析RA数据并使用单维 RT模型来分析RT数据;而仅有的几个模型虽然关注到了潜在能力的多维性问题，但仍假设潜在加工速度是单维的，进而使用多维IRT(multidimensional IRT,MIRT)模型分析RA 数据并仍使用单维RT模型来分析RT数据(詹沛达，2019;Man et al.,2019;Wang,Weiss& Su,2019; Zhan,Jiao et al.,2018)。导致该问题的主要原因是目前尚未有研究者关注到潜在加工速度可能存在多维性的问题，同时也缺少相应的分析模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在心理和教育测量中，关于潜在加工速度的一个恰当的概念是劳动的速度(speed of labor)(van derLinden,2009)。因此，潜在加工速度可被定义为“解答某题目时所付出劳动与所花费时间的比例(a rate ofthe amount of labor performed on the items with respect to time)”(van der Linden,2011)。潜在加工速度反映了学生运用潜在能力(例如，知识或技能)来解决问题的效率。针对同一道题目，学生消耗的作答时间越少表明其潜在加工速度越快，反映出学生运用该题目所需的知识或技能的效率越高。在多维测验中，由于潜在能力的多维性，潜在加工速度应该在特定的测验维度中与潜在能力一起讨论，即潜在加工速度也可能具有与潜在能力相匹配的多维结构。换句话说，被试在每个测验维度上的潜在加工速度与该维度所需的潜在能力相匹配。例如，被试在解码任务中的潜在加工速度与该任务所需的解码能力相匹配，而被试在编码任务中的潜在加工速度与该任务所需的编码能力相匹配。再比如，当非英语母语被试参加GRE 学科测验(例如，数学或英语文学)时，至少需要两个潜在能力，一个用于理解题目(例如，英语阅读能力)，一个用于解决问题(例如，学科能力)。这会涉及到对应的两个潜在加工速度，一个反映理解题目的速度，一个反映解决问题的速度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对此，本研究假设：在多维测验中，潜在加工速度具有与潜在能力相匹配的多维结构。已有一些认知心理学证据可能支持该假设。首先，不同的大脑区域工作对应于不同的认知加工功能，适当的行为表现取决于特定大脑区域之间的相互作用(Horwitz et al.,1999;Mesulam,1990)，这也是功能磁共振成像(fMRI)和脑电图(EEG)的基本逻辑。从概念上讲，不同认知任务所需的不同认知加工功能具有不同的认知加工速度。其次，与在实验心理学中用来记录反应时(reaction time)的简单刺激任务(例如，数字广度任务[digit-span task]等其他不涉及特定陈述性和程序性知识的刺激任务)不同，心理和教育测量中的题目始终是对特定认知建构或能力的测查。因此，在心理和教育测量中观察到的RT应包括两个部分：用于加工所有信息的基本反应时和运用特定潜在能力所消耗的时间。鉴于题目水平的RT无法区分两者，所以必须将它们视为一个整体来看待。此时，我们可以使用“特定维度的加工时间(dimension-specificprocessing time)\"来指代题目水平RT，并使用\"特定维度的加工速度(dimension-specific processing speed)\"来指代多维潜在空间中特定维度中的加工速度。因此，与潜在能力一样，潜在加工速度的维度数也可由测验所包含的维度数来确定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前，尽管针对RA的MIRT模型已经得到较好的发展(Reckase,2009)，但尚缺乏可分析多维潜在加工速度的多维RT(multidimensionalRT,MRT)模型。如上文所述，近期已有一些研究尝试使用 MIRT模型来分析多维潜在能力，但仍使用URT模型来分析可能存在的多维潜在加工速度(詹沛达,2019;Manet al.,2019;Wang,C.etal.,2019)。然而，由于缺少 MRT模型，上述研究仅能估计学生的多个潜在能力和一个潜在加工速度。从逻辑上讲不同的潜在能力应与不同的潜在加工速度相匹配；因此，强制将多个潜在加工速度约束为一个变量的做法具有局限性，可能导致推论不准确。在多维测验中，尽管单维潜在加工速度可以被解释为被试的一般或高阶潜在加工速度，但实际上，我们仍渴望知道被试在每一个子维度上的潜在加工速度。因此，开发相应的MRT模型是有必要的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为解决上述问题，本研究提出了多维对数正态RT 模型(multidimensional LRTM,MLRTM)。该模型可视为对单维对数正态RT 模型(unidimensional LRTM,ULRTM)(van der Linden,2006)的拓广。首先，简单回顾了ULRTM；其次，提出了MLRTM；然后，对2012年PISA计算机化数学测验中RT数据进行了探索性因素分析以探究潜在加工速度的多维结构，使用新提出的模型对该数据做进一步分析，并与ULRTM进行对比，以展现新模型的实际可应用性和相对优势；随后，通过一则模拟研究来探究新模型的心理计量学性能；最后，总结了研究结果并讨论了未来的研究方向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2多维对数正态作答时间模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1模型建构",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在介绍 MLRTM前，我们先简单回顾下ULRTM。设定 $T _ { n i }$ 为学生 $n \\left( n = 1 , . . . , N \\right)$ 对题目 $i ( i = 1 , . . . , I )$ （204号的作答时间。则ULRTM可表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\log T _ { n i } = \\xi _ { i } - \\tau _ { n } + \\pounds _ { n i } , \\ \\pounds _ { n i } \\sim N ( 0 , \\ \\mathfrak { o } _ { i } ^ { - 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "或",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\log T _ { n i } \\sim N ( \\xi _ { i } - \\tau _ { n } , \\ \\mathfrak { O } _ { i } ^ { - 2 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\xi _ { i }$ 为题目时间强度参数，表示解答题目 $i$ 所必需的时间； $\\tau _ { n }$ 是学生 $n$ 的潜在加工速度，假定其满足 $\\tau _ { n } \\sim N ( 0 , \\sigma _ { \\tau } ^ { 2 } )$ ； $\\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\varepsilon } } } } } } } } } } \\mathbf { \\varepsilon } _  \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf { \\varepsilon } _ { \\mathbf \\varepsilon } } } } } } } } }$ 为残差； ${ \\boldsymbol { \\omega } } _ { i }$ 是残差的标准差的倒数，可以将其视为题目时间区分度参数。ULRTM的基本假设之一是 $\\log T _ { n i }$ 在给定单维 $\\tau _ { n }$ 时满足条件独立。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在心理与教育测量中，主要有两种多维测验类型：题目内(within-item)和题目间(between-item)(Adams,Wilson,&Wang,W.-C.,1997)。在题目间多维测验中，每个题目仅测量一个维度的潜在能力，但不同题目可能会测量不同维度的潜在能力；而在题目内多维测验中，一个题目可能同时测量多个维度的潜在能力。从理论上讲，题目间多维度是题目内多维度的一个特例，因此，本研究借鉴题目内多维度的表达式来建构MLRTM。则MLRTM可表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\log T _ { n i } = \\xi _ { i } - \\sum _ { k = 1 } ^ { K } \\tau _ { n k } q _ { i k } + \\pounds _ { n i } , \\ \\pounds _ { n i } \\sim N ( 0 , \\ \\mathbf { 0 } _ { i } ^ { - 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "或",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\log T _ { n i } \\sim N ( \\xi _ { i } - \\sum _ { k = 1 } ^ { K } \\tau _ { n k } q _ { i k } , \\ \\mathbf { 0 } _ { i } ^ { - 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\tau _ { n k }$ 是学生 $n$ 在维度 $k ( k = 1 , 2 , . . . , K )$ 上的潜在加工速度，反映了学生 $n$ 运用第 $k$ 维度潜在能力来解决问题的效率; $\\pmb { \\tau } _ { n } = ( \\tau _ { n 1 } , . . . , \\tau _ { n k } , . . . , \\tau _ { n K } ) ^ { \\prime }$ 是遵循多元正态分布的多维潜在加工速度向量： $\\pmb { \\tau } _ { n } \\sim N ( \\pmb { \\mu } _ { \\tau } , \\pmb { \\Sigma } _ { \\tau } )$ 其中均值向量 $\\pmb { \\mu } _ { \\tau } = ( \\mu _ { 1 } , . . . , \\mu _ { k } , . . . , \\mu _ { K } ) ^ { \\prime }$ 和方差-协方差矩阵 $\\scriptstyle \\sum _ { \\tau }$ ， $\\mu _ { k }$ 是维度 $k$ 上学生总体的平均加工速度。为使模型可识别，将 $\\mathbf { \\mu } _ { \\mathrm { { r } } }$ 设置为0向量。 $\\mathrm { ~ Q ~ }$ 矩阵(Tatsuoka,1983)是一个 $I \\times K$ 的验证性矩阵，其中 $q _ { i k } = 1$ 表示题目 $i$ 归属于维度 $k$ ，反之 $q _ { i k } = 0$ 。对于题目间多维度， $\\mathbf { q } _ { i }$ 中只有一个元素等于1；对于题目内多维度，$\\mathbf { q } _ { i }$ 中有多个元素等于1。其他参数与ULRTM中的参数相同。在MLRTM中，假定 $\\log T _ { n i }$ 在给定 ${ \\pmb { \\tau } } _ { n }$ 的情况下满足条件独立。此外，若假定测验中所有题目仅考查同一个维度，则MLRTM等价于ULRTM。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2贝叶斯参数估计 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究使用全贝叶斯马尔可夫链蒙特卡洛算法对 MLRTM进行参数估计，并基于MultiBUGS(version1.0)(Goudie,Tumer,De Angelis,& Thomas,2017)实现。感兴趣的读者可向通讯作者索取MultiBUGS代码，MLRTM中各待估计参数的先验分布设定详见附录。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.实证数据分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1潜在加工速度多维结构的探索",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如上文所述，本研究的基本假设是，在多维测验中，潜在加工速度具有与潜在能力相匹配的多维结构。为了探索潜在加工速度的多维性，并探究潜在加工速度的多维结构是否与潜在能力的多维结构相匹配，我们拟对一则RT实证数据进行探索性因素分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.1数据描述",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究选用 2012 年 PISA 计算机化数学测验中的RT数据。该数据集最初由 Zhan,Jiao et al.(2018)使用。该数据包含 $N = 1 5 8 1$ 名学生对 $I = 9$ 道题目的作答。原始RT数据均事先求取对数，并将所有0视为缺失数据。Zhan,Jiao etal.(2018)根据 2012年PISA数学测评框架(OECD,2013)设定了Q矩阵1，本研究选择了属于数学内容知识的三个维度，即变化和关系 $( \\Theta _ { 1 } )$ ，空间和形状 $( \\Theta _ { 2 } )$ ，以及不确定性和数据 $\\left( \\Theta _ { 3 } \\right)$ 见表1。需要强调的是，该Q矩阵界定了题目和潜在能力之间关系，即该Q矩阵表达的是RA数据背后的潜在能力的多维结构。此时，若该Q矩阵与通过对RT数据进行探索性因素分析发现的潜在结构(即RT数据背后的潜在加工速度的结构)相匹配，就可说明潜在加工速度具有与潜在能力相匹配的多维结构。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7448bd5fa3ab6edb5b802cdcadc22e4ddee757f07c0c88b4db97f1c65a5513e4.jpg",
+        "table_caption": [
+            "表1.2012年PISA计算机化数学测验的Q矩阵"
+        ],
+        "table_footnote": [
+            "注：空白表示“0”."
+        ],
+        "table_body": "<html><body><table><tr><td>题目</td><td>01</td><td>0</td><td>0</td></tr><tr><td>CM015Q02D</td><td>1</td><td></td><td></td></tr><tr><td>CM015Q03D</td><td>1</td><td></td><td></td></tr><tr><td>CM020Q01</td><td></td><td>1</td><td></td></tr><tr><td>CM020Q02</td><td></td><td>1</td><td></td></tr><tr><td>CM020Q03</td><td></td><td>1</td><td></td></tr><tr><td>CM020Q04</td><td></td><td>1</td><td></td></tr><tr><td>CM038Q03T</td><td></td><td></td><td>1</td></tr><tr><td>CM038Q05</td><td></td><td></td><td>1</td></tr><tr><td>CM038Q06</td><td></td><td></td><td>1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.2探索性因素分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究使用 Mplus (version 8.1) (Muthen& Muthen,2019)进行探索性因素分析。Mplus 默认使用验证性因素分析框架下的探索性因素分析，本研究将保留因素数量设为从1到5。根据模型-数据拟合指标(例如,AIC 和BIC)来确定因素数量以及相应的潜在结构。理论上，多个维度之间应该存在相关，因此使用斜交旋转。其他均采用默认设置。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2给出了探索性因素分析的模型-数据拟合指标。前人研究表明 $\\mathrm { T L I } > 0 . 9 5$ ， $\\mathrm { C F I } > 0 . 9 5$ ，SRMR $\\prec$ 0.08，RMSEA $< 0 . 0 5$ 意味着良好的模型-数据拟合(Hu& Bentler,1999; Steiger,1990)。综合各个指标，可认为三因素模型比其他模型更适合该数据，表明RT数据背后具有三维潜在结构。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3 给出了三因素模型的旋转因素载荷矩阵。可发现，该因素载荷矩阵与表1中的Q矩阵相比，仅题目CM038Q03T存在差异，且CM038Q03T在因素3上的载荷为 $0 . 3 0 0 \\left( p < 0 . 0 5 \\right)$ 。因此，可以说由理论构建的潜在能力的多维结构(即Q矩阵)与对RT数据进行探索性因素分析发现的潜在结构是相匹配的。该结果支持了本研究的核心假设，即在多维测验中，潜在加工速度具有与潜在能力相匹配的多维结构。因此，后续研究可直接使用表1中的Q矩阵来表达RA和RT数据背后一致的多维潜在结构。当然，由于探索性因素分析本身的限制，我们无法获得每位学生的潜在加工速度估计值以及每道题目的题目参数。因此，有必要进一步利用本研究提出的MLRTM进行数据分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/834152032f76b7b392e9c4a7b1ccf77a0e315ec56104f66345352eea5a1371f0.jpg",
+        "table_caption": [
+            "表2.2012年PISA计算机化数学测验数据的探索性因素分析中的数据-模型拟合指标."
+        ],
+        "table_footnote": [
+            "注： $^ { * * } = p < . 0 1$ $\\chi ^ { 2 } =$ 卡方; $d f =$ 自由度; $\\mathrm { T L I } =$ Tucker-Lewis index; CFI $\\ O =$ comparative fit index; AIC $\\ O =$ Akaike information criterion; BIC $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Bayesian information criterion; SRMR $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ standardized root mean square residual; RMSEA $\\mathbf { \\Sigma } =$ root mean square error of approximation; $90 \\%$ $\\% { \\mathrm { C I } } = 9 0 \\%$ 置信区间. "
+        ],
+        "table_body": "<html><body><table><tr><td>Model</td><td>x²</td><td>df</td><td>TLI</td><td>CFI</td><td>AIC</td><td>BIC</td><td>SRMR</td><td>RMSEA[90% CI]</td></tr><tr><td>1-factor</td><td>462.79**</td><td>27</td><td>0.896</td><td>0.922</td><td>24592.15</td><td>24737.03</td><td>0.045</td><td>0.101 [0.093,0.109]</td></tr><tr><td>2-factor</td><td>225.49**</td><td>19</td><td>0.930</td><td>0.963</td><td>24370.85</td><td>24558.65</td><td>0.032</td><td>0.083 [0.073,0.093]</td></tr><tr><td>3-factor</td><td>32.66**</td><td>12</td><td>0.989</td><td>0.996</td><td>24192.02</td><td>24417.38</td><td>0.010</td><td>0.033 [0.020,0.047]</td></tr><tr><td>4-factor</td><td>5.56</td><td>6</td><td>1.000</td><td>1.000</td><td>24176.92</td><td>24434.48</td><td>0.004</td><td>0.000 [0.000,0.031]</td></tr><tr><td>5-factor</td><td>0.09</td><td>1</td><td>1.006</td><td>1.000</td><td>24181.44</td><td>24465.83</td><td>0.000</td><td>0.000[0.000,0.045]</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9efe16d037f5acb23b98c5a6da8f2b8cdef92029ef8c75423f88430f052d7c08.jpg",
+        "table_caption": [
+            "表3.三因素模型的旋转因素载荷矩阵，"
+        ],
+        "table_footnote": [
+            "注： $^ { * } = p < . 0 5$ ；未呈现因素载荷.4以下的值."
+        ],
+        "table_body": "<html><body><table><tr><td>题目</td><td>因素1</td><td>因素2</td><td>因素3</td></tr><tr><td>CM015Q02D</td><td>0.695*</td><td></td><td></td></tr><tr><td>CM015Q03D</td><td>0.609*</td><td></td><td></td></tr><tr><td>CM020Q01</td><td></td><td>0.565*</td><td></td></tr><tr><td>CM020Q02</td><td></td><td>0.801*</td><td></td></tr><tr><td>CM020Q03</td><td></td><td>0.642*</td><td></td></tr><tr><td>CM020Q04</td><td></td><td>0.943*</td><td></td></tr><tr><td>CM038Q03T</td><td></td><td>0.502*</td><td></td></tr><tr><td>CM038Q05</td><td></td><td></td><td>0.985*</td></tr><tr><td>CM038Q06</td><td></td><td></td><td>0.621*</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2采用多维对数正态作答时间模型进行分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为实现对RT数据的深入分析，本研究同时使用ULRTM和MLRTM分析该数据。探索性因素分析结果表明表1中的Q矩阵适用于描述题目和潜在加工速度之间的关系。在贝叶斯MCMC 估计中设定 2条马尔可夫链，每条链包含 5000 次迭代(其中前 2000 次做 bum-in)，最后保留两条链剩余的共 6000 次迭代进行参数估计推断。使用 MC_error 指标进行参数估计收敛检验(Ntzoufras,2009)，本研究所有参数的 MC_error均小于0.05，表示参数估计已收敛。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究使用 DIC 和 WAIC (Gelman et al.,2014,Chapter 7)作为模型-数据相对拟合指标进行模型选择。使用后验预测模型检验(posterior predictive model checking,PPMC)来评估模型-数据绝对拟合，其中后验预测概率(posterior predictive probability,pp)接近 0.5表明模型与数据拟合。对 PPMC 而言选取一个合适的差异测度的必要的，本研究选用被试 $n$ 和题目 $i$ 的标准化误差函数之和作为差异测量(Fox&Marianti,2017)来评估RT模型的整体拟合情况：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD ( \\log \\mathbf { T } ; \\mathfrak { v } ) = D ( \\log T _ { n i } ; \\xi _ { i } , \\tau _ { n } , \\mathfrak { o } _ { i } ) = \\sum _ { n = 1 } ^ { N } \\sum _ { i = 1 } ^ { I } \\left( \\mathfrak { o } _ { i } ( \\log T _ { n i } - ( \\xi _ { i } - \\sum _ { k = 1 } ^ { K } q _ { i k } \\tau _ { n k } ) ) \\right) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.2结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4呈现了模型-数据拟合指标。其中，ULRTM和MLRTM的ppp 值分别为0.597和0.633，表明这两个模型均拟合该数据。进一步，由-2LL、DIC 和WAIC 指标均表示 MLRTM对该数据的拟合程度更高，说明在多维测验中考虑潜在加工速度的多维性是更合适的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5呈现了方差-协方差矩阵估计值。三个潜在加工速度之间的相关系数范围为0.751到0.855，表明这三个潜在加工速度为中等偏高程度相关，即三者之间有较高一致性但仍清晰可分。主要原因是三者都归属于数学内容知识这一更高阶的维度。另外，ULRTM中单维潜在加工速度的方差估计值为0.216（204 $( 9 5 \\% \\mathrm { C I } = [ 0 . 1 9 7 , 0 . 2 3 1 ] )$ ，不仅无法区分不同维度上的潜在加工速度，还低估了维度1(变化和关系)和维度3(不确定性和数据)上所有被试的潜在加工速度之间的差异性(即方差被低估)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图1呈现了前20名被试的潜在加工速度估计值。根据MLRTM的估计结果，每个被试在3个维度上的潜在加工速度都是不同的，甚至有一些被试(例如，被试2、6、7、12、15)在3个维度上的潜在加工速度估计值的正负号都不同。此时，若使用ULRTM中的单维估计值作为被试的反馈信息(甚至基于此给被试贴上诸如“急先锋”或“慢郎中”的标签)势必过于笼统，无法体现出被试在不同维度上潜在加工速度之间的差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表6呈现了题目参数估计值。对题目时间强度参数而言，两模型的参数估计结果基本一致，表明考虑潜在加工速度的多维性并不影响题目时间强度参数的估计。与之相比，MLRTM对题目时间区分度参数的估计值略大于ULRTM的，即ULRTM会低估logRT的峰度值。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/604075b8f2e31a78235a8f7f88b1e4f433334d8e907fa9854eb2103422fd87a6.jpg",
+        "table_caption": [
+            "表4.2012年PISA计算机化数学测验数据分析中模型-数据拟合指标"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分析模型</td><td>-2LL</td><td>DIC</td><td>WAIC</td><td>ppp</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ac7cf5bef664279ebb8c2ad479611cac6204019d023be82902e59ed5e7a62ff5.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：ULRTM $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 单维对数正态作答时间模型; $\\mathbf { M L R T M } =$ 多维对数正态作答时间模型; $- 2 \\mathrm { L L } = - 2$ log likelihood; $\\mathrm { D I C } =$ deviance information criterion; WAIC $\\ O =$ widely available information criterion; $p p p =$ 后验预测概率. "
+        ],
+        "table_body": "<html><body><table><tr><td>MLRTM</td><td>19305</td><td>22505</td><td>22055</td><td>0.633</td></tr><tr><td>ULRTM</td><td>21310</td><td>22890</td><td>22770</td><td>0.597</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab1a37fbacf00fc2b4e2a4556a3405d28587623c1868e74a6b28e4cbb7d82c2a.jpg",
+        "table_caption": [
+            "表5.2012年PISA计算机化数学测验数据分析中多维潜在加工速度的方差-协方差矩阵估计值"
+        ],
+        "table_footnote": [
+            "注： $\\tau =$ 潜在加工速度; $\\begin{array} { r } { \\pmb { \\Sigma } _ { \\tau } = } \\end{array}$ 多维潜在加工速度的方差-协方差矩阵；上三角阵为相关系数，下三角阵为协方差；小括号内为标准误(后验分布标准差)；中括号内为 $9 5 \\%$ 贝叶斯可信区间，"
+        ],
+        "table_body": "<html><body><table><tr><td>£</td><td>T1</td><td>T2</td><td>T3</td></tr><tr><td>T1</td><td>0.301 (0.016) [0.270, 0.334]</td><td>0.751</td><td>0.767</td></tr><tr><td>T2</td><td>[0.1857,0.0)</td><td>[0.02 (0.010)</td><td>0.855</td></tr><tr><td>T3</td><td>0.227 (0.012) [0.206,0.250]</td><td>0.208 (0.009) [0.190,0.226]</td><td>0.292 (0.013) [0.266,0.317]</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ad04812d021fbd296db1925838dae31e763ca329f8dfe5c093bdf0923bcdff4.jpg",
+        "img_caption": [
+            "图1.2012年PISA计算机化数学测验数据分析中前20名被试潜在加工速度估计值单维对数正态作答时间模型;MLRTM $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 多维对数正态作答时间模型; $\\tau =$ 潜在加工速度"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/56a9cb8d4b6191d20d83b5d24b7aecc076c8b576524428f094f41a5cd07f2914.jpg",
+        "table_caption": [
+            "表6.2012年PISA计算机化数学测验数据分析中题目参数估计值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">题目</td><td colspan=\"5\">ULRTM</td><td colspan=\"5\">MLRTM</td></tr><tr><td rowspan=\"2\"></td><td colspan=\"2\"></td><td colspan=\"2\">@</td><td colspan=\"2\"></td><td colspan=\"3\">@</td></tr><tr><td>Mean SE</td><td>95% CI</td><td>Mean SE</td><td>95% CI</td><td>Mean SE</td><td>95% CI</td><td> Mean </td><td>SE</td><td>95% CI</td></tr><tr><td>1</td><td></td><td>4.470 0.020</td><td>[4.432,4.508]</td><td>1.617 0.031</td><td>[1.558,1.678]</td><td>4.469</td><td>0.020</td><td>[4.433,4.510]</td><td>1.845 0.045</td><td>[1.760,1.936]</td></tr><tr><td>2</td><td></td><td>4.630 0.019</td><td>[4.592,4.667]</td><td>1.697 0.032</td><td>[1.635,1.762]</td><td>4.629</td><td>0.019</td><td>[4.594,4.668]</td><td>1.976 0.051</td><td>[1.874,2.076]</td></tr><tr><td>3</td><td></td><td>4.778 0.016</td><td>[4.750,4.811]</td><td>2.423 0.050</td><td>[2.327,2.519]</td><td>4.778</td><td>0.015</td><td>[4.747,4.807]</td><td>2.505 0.055</td><td>[2.397,2.612]</td></tr><tr><td>4</td><td></td><td>3.860 0.018</td><td>[3.825,3.895]</td><td>1.866 0.036</td><td>[1.793,1.934]</td><td>3.859</td><td>0.017</td><td>[3.825,3.894]</td><td>1.915 0.038</td><td>[1.841,1.991]</td></tr><tr><td>5</td><td></td><td>4.258 0.016</td><td>[4.226,4.291]</td><td>2.186 0.044</td><td>[2.104,2.274]</td><td>4.258</td><td>0.016</td><td>[4.224,4.287]</td><td>2.202 0.047</td><td>[2.112,2.295]</td></tr><tr><td>6</td><td></td><td>3.739 0.017</td><td>[3.707,3.774]</td><td>2.031 0.040</td><td>[1.958,2.116]</td><td>3.739</td><td>0.017</td><td>[3.706,3.771]</td><td>2.097 0.043</td><td>[2.012,2.179]</td></tr><tr><td>7</td><td>4.190</td><td>0.016</td><td>[4.158,4.220]</td><td>2.314 0.047</td><td>[2.221,2.406]</td><td>4.189</td><td>0.017</td><td>[4.156,4.222]</td><td>2.516 0.063</td><td>[2.393,2.638]</td></tr><tr><td>8</td><td>4.522</td><td>0.018</td><td>[4.487,4.557]</td><td>1.879 0.036</td><td>[1.809,1.950]</td><td>4.522</td><td>0.018</td><td>[4.488,4.558]</td><td>2.091 0.047</td><td>[1.995,2.180]</td></tr><tr><td>9</td><td>4.377</td><td>0.020</td><td>[4.338,4.417]</td><td>1.600 0.031</td><td>[1.533,1.656]</td><td>4.379</td><td>0.021</td><td>[4.339,4.420]</td><td>1.701 0.036</td><td>[1.632,1.771]</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/186e6cba66aa8e634519f21980f3caa910705255a042cb3f0bebfb5557f1d37d.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：ULRTM $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 单维对数正态作答时间模型;MLRTM $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 多维对数正态作答时间模型;Mean $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 后验均值; $\\mathrm { S E } =$ 标准误(后验分布标准差); $9 5 \\% \\mathrm { C I } = 9 5 \\%$ 贝叶斯可信区间"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>H4.316 0.202 [3.901,4.701]</td><td></td><td>4.3150.199</td><td>[3.914,4.708]</td></tr><tr><td></td><td>0.367 0.217</td><td>[0.103,0.751]</td><td>0.366 0.219</td><td>[0.113,0.763]</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4模拟研究",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "上文已经通过实证研究阐述了MLRTM的实用性。进一步，我们使用两则模拟研究来探究新模型的心理计量学性能，以期进一步验证实证数据分析中所得到的结论。两个模拟研究均基于实证研究情境，其中，研究1拟探究(1)MLRTM的参数估计返真性和(2)忽略潜在加工速度多维性所带来的影响。此时，使用 MLRTM作为数据生成模型，并使用MLRTM和ULRTM进行参数估计。研究2拟探究冗余地指定潜在加工速度具有多维性所带来的影响。此时，使用ULRTM作为数据生成模型，并使用MLRTM和ULRTM进行参数估计。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1模拟研究1",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1.1数据生成与分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "模拟研究1中，设定30道题目考查4个维度，对应的Q矩阵呈现在图2中。参考实证研究中的估计值来设定模型参数的真值。对题目参数而言，时间强度参数依据 $\\xi _ { i } \\sim N ( 4 , 0 . 2 5 )$ 生成；而时间区分度参数依据 $\\mathfrak { O } _ { i } \\sim N ( 2 , 0 . 2 5 )$ 生成。被试量 $N = 1 0 0 0$ ，多维潜在加工速度参数依据四元正态分布生成",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\left( \\begin{array} { l } { \\tau _ { n 1 } } \\\\ { \\tau _ { n 2 } } \\\\ { \\tau _ { n 3 } } \\\\ { \\tau _ { n 4 } } \\end{array} \\right) } \\sim N { \\left( \\begin{array} { l } { 0 } \\\\ { 0 } \\\\ { 0 } \\\\ { 0 } \\\\ { 0 } \\end{array} \\right) } { \\left( \\begin{array} { l l l l } { 0 . 2 5 } & { } & { } & { } \\\\ { 0 . 1 5 } & { 0 . 2 5 } & { } & { } \\\\ { 0 . 1 5 } & { 0 . 1 5 } & { 0 . 2 5 } & { } \\\\ { 0 . 1 5 } & { 0 . 1 5 } & { 0 . 1 5 } & { 0 . 2 5 } \\end{array} \\right) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "该设定下， $\\rho _ { \\tau } , = 0 . 6$ 。基于MLRTM生成 50 组RT数据。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分别使用 MLRTM和ULRTM去拟合生成数据。对于每组数据，马尔可夫链数、迭代数和预热数等均与实证研究中保持一致。采用bias 和RMSE来评估参数估计返真性；另外，也计算了各参数估计值与其真值之间的相关系数 $( \\mathrm { C o r } )$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4c8f5756ec682e2041838dfdf01005bb8238b5ed9bfd93d847416df7b577dad.jpg",
+        "img_caption": [
+            "图2.模拟研究1中 $K \\times I$ 的Q矩阵"
+        ],
+        "img_footnote": [
+            "注：灰色为1、白色为0"
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1.2结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图3呈现了题目参数返真性。首先，整体来看MLRTM的返真性较好。其次，对时间强度参数而言，两模型的返真性较为接近。对时间区分度参数而言，MLRTM的返真性要优于ULRTM的返真性，尤其是对题目内多维题目。明确地说，对时间区分度参数而言，ULRTM的bias 和RMSE在题目间多维题目(题目 $1 \\sim 2 0 \\$ )上分别约为-0.30和0.35；在题目内两维题目(题目 $2 1 \\sim 2 8 \\$ )上约为-0.60和0.65；在题目内三维题目(题目 $2 9 \\sim 3 0 \\$ )上约为-1.0和1.0。即ULRTM整体会低估题目区分度参数，这与实证数据分析中的结论相一致；此外，ULRTM对题目区分度参数的返真性会随着题目所考查的维度数量增加而变差。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表7总结了被试参数的返真性。对每一个维度而言，所有被试的平均绝对bias 和平均RMSE 均分别约为0.016和0.145，且所有被试的真值和估计值之间的相关系数也高于0.95。表8呈现了被试参数方差-协方差矩阵的返真性。所有参数的bias 和RMSE均接近于0，返真性很好。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "总之，根据模拟研究结果表明MLRTM可以得到较好的参数估计返真性。当数据包含潜在的多维潜在加工速度时，使用ULRTM会低估时间区分度参数，而时间强度参数几乎不受影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/5cb7a68da291e2ccd07f6e4a23c1e5246ba84507cbb67e77378bf16299d4cda9.jpg",
+        "img_caption": [
+            "图3.模拟研究1中题目参数返真性(题目水平)"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "注： $\\mathbf { U } =$ 单维对数正态作答时间模型; $\\mathbf { M } =$ 多维对数正态作答时间模型;RMSE $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 均方根误差注： $\\tau =$ 潜在加工速度; $\\begin{array} { r } { \\pmb { \\Sigma } _ { \\tau } = } \\end{array}$ 多维潜在加工速度的方差-协方差矩阵；括号内为均方根误差(RMSE)；括号外为bias.",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/24a3c6c1dbaf20bc9f2ffa1106bd53218cb853261609d777ec9005e738fa5eaf.jpg",
+        "table_caption": [
+            "表7．模拟研究1中被试参数返真性的总结"
+        ],
+        "table_footnote": [
+            "注： $\\tau =$ 潜在加工速度;MA_bias $\\mathbf { \\Sigma } =$ 所有被试的bias的绝对均值；M_RMSE $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 所有被试的RMSE的均值; $\\mathrm { C o r } =$ 所有被试的真值与估计值之间的相关系数."
+        ],
+        "table_body": "<html><body><table><tr><td>Parameter</td><td>MA_bias</td><td>M_RMSE</td><td>Cor</td></tr><tr><td>T1</td><td>0.016</td><td>0.147</td><td>0.956</td></tr><tr><td>T2</td><td>0.017</td><td>0.147</td><td>0.955</td></tr><tr><td>T3</td><td>0.016</td><td>0.144</td><td>0.957</td></tr><tr><td>T4</td><td>0.017</td><td>0.143</td><td>0.958</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f0d60882009826ad8b1cc32d25a92c36791dff4cf047a16e59622399cf2d7de.jpg",
+        "table_caption": [
+            "表8.模拟研究1中被试参数的方差协方差矩阵返真性"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>£T</td><td>T1</td><td>T2</td><td>T3</td><td>T4</td></tr><tr><td>T1</td><td>0.00003(0.00000)</td><td></td><td></td><td></td></tr><tr><td>T2</td><td>0.00023 (0.00003)</td><td>0.00069(-0.00010)</td><td></td><td></td></tr><tr><td>T3</td><td>0.00031 (0.00004)</td><td>0.00015 (0.00002)</td><td>0.00015 (0.00002)</td><td></td></tr><tr><td>T4</td><td>0.00015 (0.00002)</td><td>0.00041(-0.00006)</td><td>0.00020(0.00003)</td><td>0.00079 (-0.00011)</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2模拟研究2",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2.1数据生成与分析",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "模拟研究2中，设定30道题目考查单一维度。同样参考实证研究中的估计值来设定模型参数的真值。对题目参数而言，时间强度参数依据 $\\xi _ { i } \\sim N ( 4 , 0 . 2 5 )$ 生成；而时间区分度参数依据 $\\mathfrak { O } _ { i } \\sim N ( 2 , 0 . 2 5 )$ 生成。被试量 $N = 1 0 0 0$ ，单维潜在加工速度参数依据 $\\tau _ { n } \\sim N ( 0 , 0 . 2 5 )$ 生成。基于ULRTM生成50组RT数据。同样，分别使用 MLRTM和ULRTM去拟合生成数据；其中，使用MLRTM时冗余地将单维潜在结构设定为图3中的多维潜在结构。分析过程与指标等与模拟研究1保持一致。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2.2结果",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图4呈现了研究2中题目参数的返真性。对于题目时间强度参数而言，两模型的参数估计返真性基本一致。而对于题目时间区分度参数而言，MLRTM的返真性略差于ULRTM的。再结合研究1中结果(见表7)，发现冗余地指定潜在加工速度具有多维性所带来的负面影响低于忽略潜在加工速度多维性所带来的。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表9呈现了研究2中被试参数返真性。相比而言，MLRTM的返真性略差于ULRTM的。但根据Cor指标可发现即便冗余地把单维结构指定为四个维度，每个维度的估计值与真值之间仍具有很高的相关系数。同时，我们计算了MLRTM中四个维度的潜在加工速度的估计值与ULRTM中单维潜在加工速度的估计值之间的相关系数，分别为 $\\rho _ { \\tau , \\tau 1 } = 0 . 9 9 0$ 、 $\\rho _ { \\tau , \\tau 2 } = 0 . 9 8 9$ 、 $\\rho _ { \\tau , \\tau 3 } = 0 . 9 8 7$ 和 $\\rho _ { \\tau , \\tau 4 } = 0 . 9 8 9$ ，即两模型的潜在加工速度估计值具有很高的一致性。此外，我们还计算了MLRTM中四个维度的潜在加工速度之间的相关系数，分别为 $\\jmath _ { \\mathsf { P r l } , \\mathsf { r 2 } } = 0 . 9 7 9 \\cdot \\mathsf { p } _ { \\mathsf { r 1 } , \\mathsf { r 3 } } = 0 . 9 7 7 \\cdot \\mathsf { p } _ { \\mathsf { r 1 } , \\mathsf { r 4 } } = 0 . 9 8 1 \\cdot \\mathsf { p } _ { \\mathsf { r 2 } , \\mathsf { r 3 } } = 0 . 9 7 5 \\cdot \\mathsf { p } _ { \\mathsf { r 2 } , \\mathsf { r 4 } } = 0 . 9 7 8$ 和 $\\rho _ { \\tau 3 , \\tau 4 } = 0 . 9 7 7$ ，即四个维度的估计值之间具有很高的相关性，表明它们测量/描述的很可能是同一个潜在变量。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/78277318696b6f931fc611dc5a2cc1fa2383fbf7470aebd76c551b4e50889faf.jpg",
+        "img_caption": [
+            "图4.模拟研究2中题目参数返真性(题目水平)"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "注： $\\mathbf { U } =$ 单维对数正态作答时间模型; $\\mathbf { M } =$ 多维对数正态作答时间模型;RMSE $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 均方根误差",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/49f727f63d92f05be7327fd18e2d92d76d63242066954a4a497eb6dc820f4b8e.jpg",
+        "table_caption": [
+            "表9.模拟研究2中被试参数返真性"
+        ],
+        "table_footnote": [
+            "注：MLRTM中各变量的返真性指标中真值均为单维潜在加工速度的生成值; $\\tau =$ 潜在加工速度;MAbias $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 所有被试的bias的绝对均值；M_RMSE $\\mathbf { \\Sigma } =$ 所有被试的RMSE的均值;Cor $\\mathbf { \\Sigma } =$ 所有被试的真值与估计值之间的相关系数"
+        ],
+        "table_body": "<html><body><table><tr><td>分析模型</td><td>参数</td><td>MA_bias</td><td>M_RMSE</td><td>Cor</td></tr><tr><td>ULRTM</td><td>T</td><td>0.013</td><td>0.088</td><td>0.985</td></tr><tr><td>MLRTM</td><td>T1</td><td>0.023</td><td>0.197</td><td>0.974</td></tr><tr><td></td><td>T2</td><td>0.026</td><td>0.226</td><td>0.973</td></tr><tr><td></td><td>T3</td><td>0.027</td><td>0.235</td><td>0.971</td></tr><tr><td></td><td>T4</td><td>0.023</td><td>0.199</td><td>0.974</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5总结与展望 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "为探究并分析多维测验中潜在加工速度的多维性，本研究提出了MLRTM，新模型可视为对单维对数正态作答时间模型的多维拓广。随后，本文以2012年PISA计算机化数学测验中RT数据为例，通过探索性因素分析发现RT数据背后的多维潜在结构(即潜在加工速度的多维结构)与多维潜在能力的理论结构(即专家界定的Q矩阵)相匹配，验证了本研究的基本假设：在多维测验中，潜在加工速度具有与潜在能力相匹配的多维结构。然后，采用新模型对该数据做进一步分析，并与ULRTM的分析结果进行对比，结果表明在多维测验中考虑潜在加工速度的多维性是适合且必要的。最后，通过两则模拟研究探究了新模型的心理计量学性能，模拟研究1结果表明(1)贝叶斯MCMC算法能够为MLRTM提供较好的参数估计返真性；(2)忽略潜在加工速度的多维性对题目强度参数几乎无影响，但会大幅低估时间区分度参数，且返真性会随着题目所考查的维度数量增加而变差。模拟研究2结果表明(1)冗余地指定潜在加工速度具有多维性对题目强度参数几乎无影响，但会低估时间区分度参数；(2)当冗余地指定潜在加工速度具有多维性时，基于MLRTM的多维潜在加工速度估计值之间具有很高程度相关。此外，结合模拟研究1和2的结果，可发现(1)冗余地指定潜在加工速度具有多维性所带来的负面影响低于忽略其多维性所带来的；(2)当潜在加工速度具有多维潜在结构时(即 MLRTM为数据生成模型)，使用ULRTM会低估时间区分度参数；而当潜在加工速度为单维结构时(即ULRTM为数据生成模型)，使用MLRTM也会低估时间区分度参数。因此，对时间区分度参数而言，当ULRTM的估计值小于MLRTM的时，可推断潜在加工速度具有多维结构；反之，当ULRTM的估计值大于MLRTM的时，可推断潜在加工速度具有单维结构。而实证研究中，ULRTM对时间区分度参数的估计值小于MLRTM的，可推断实证研究中的潜在加工速度具有多维结构。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "当然，尽管该研究得到了较好的结果，但由于能力和精力有限，本研究仍有一些局限性值得后续做进一步探究。首先，MLRTM是对经典的ULRTM的多维扩展。由于对RT进行对数变换后仍有可能违反正态性假设，因此可尝试对本文所提出的 MLRTM 做进一步拓展，例如 Box-Cox 变换(Klein Entink etal.,2009)、线性变换(Wang,C.et al.,2013)以及Log-Skew-Normal变换(孟祥斌,2016)等。其次，本研究提出的MLRTM为补偿模型，即假设多维潜在加工速度之间是相互补偿的。在题目内多维测验中，若被试在某一维度中的潜在加工速度较慢，则可以通过在另一维度中的潜在加工速度来弥补。而至于潜在加工速度之间是否存在非补偿(或部分补偿)关系也值得今后做进一步探讨并开发相应的模型。再次，限于研究议题，本研究仅分析了RT数据，而没有同时对RA和RT数据进行联合分析。鉴于RA和RT数据同时包含被试和题目的信息，今后可基于贝叶斯层级建模框架，尝试建构可同时分析多维潜在能力和多维潜在加工速度的多维联合模型(Zhan,Jiao,Wang,& Man,2018)；另外，MLRTM是基于题目内多维度提出的，可同时处理题目内多维和题目间多维测验情境。但因为实证数据仅涉及题目间多维，所以从更严谨的角度看，实证研究结果仅为“潜在加工速度具有与潜在能力相匹配的题目间多维结构”提供证据。因此，尚缺乏证据表明“潜在加工速度具有与潜在能力相匹配的题目内多维结构”，有待后续研究进行补充。再另外，实证研究中的题目数量较少，可能会影响参数估计的精度和结论的准确性。因此，所得结论的普适性仍有待在更多的实证研究中进行验证。最后，本研究采用了相对简单的模拟研究来探究 MLRTM的心理计量学性能，主要目的在于进一步支持实证研究中的结论。尽管研究结果表明新模型的参数估计返真性较好且为实证数据分析结果提供了支撑(例如，忽略潜在加工速度的多维性对题目时间强度参数无影响，但会低估题目时间区分度参数)，但未来仍可考虑增加模拟研究中的自变量(条件)，进而在更复杂、丰富的情境下探究新模型的心理计量学性能，为后续实证研究提供更丰富的理论参考。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nAdams,R.J.,Wilson,M.,& Wang,W.(1997).Themultidimensional randomcoefficients multinomiallogit model.Applied Psychological Measurement, 21,1-23.   \nBolsinova, M.,&Tijmstra,J. (2018). Improving precisionof ability estimation: Getting more from response times.British Journal ofMathematical and Statistical Psychology,71,13-38.   \nCurran,P.J.,&Bauer,D.J. (2Ol1).Tedisaggregationoftin-persoandbetween-persoefcts inlongitdialmodelsof change. Annual Review of Psychology, 62, 583-619.   \nDe Boeck,P.,& Jeon,M.(2019).Anoverview of models forresponse times and processes in cognitive tests.Frontiers in Psychology, 10:102.   \nFerrando,P.J.,& Lorenzo-Seva, U. (2Oo7).A measurement model forLikert responses thatincorporates response time. Multivariate Behavioral Research, 42, 675-706.   \nFox,J.-P.& Marianti,S.(2O17).Person-fit statistics forjoint models foraccuracyand speed.JournalofEducational Measurement, 54,243-262.   \nGelman,A.,Carlin,J.B.,Stern,H.S.,unso,D.B.,Vehtari,A.,&Rubin,D.B.(O14).Bayesiandataanalysis.Nework: Chapman & Hall.   \nGoudie,R.J.,Turmer,R.M.,De Angelis,D.,&Thomas,A. (20l7).MultiBUGS: Aparallel implementationofthe BUGS modelling framework for faster Bayesian inference. arXiv preprint arXiv:1704.03216.   \nGuo,L.Shang,P.,&Xia,L. (20l7).Advantagesandillustrations ofapplicationofrsponse time modelinpsychologicaland educational testing. Advances in Psychological Science,25,701-712.   \n[郭磊，尚鹏丽，夏凌翔.(2017).心理与教育测验中反应时模型应用的优势与举例．心理科学进展,25,701-712.]   \nGuo,X.,Luo,Z,&Yu,X. (202).Aspeed-accuracy tradeofhierarchical modelbasedoncognitive experiment.Frontiersin Psychology, 10:2910.   \nHu,L.T.,&Bentler,.M. (1999).Cutoffcriteriaforfitidexes incovariancestructureanalysis: Conventional criteraversus new alternatives. Structural equation modeling: a multidisciplinary journal, 6(1),1-55.   \nHorwitz,B.,Tagamets,M.A.,&Intosh,A.R.(1999).Neuralmodeling,functionalbrainimaging,andcognition.Trendsin cognitive sciences, 3(3),91-98.   \nLu,J.,Wang,C.,Zhang,J.,&Tao,J. (2O19).Amixture modelforresponsesandresponse times withaigher-orderability structureto detectrapid guessing behaviour.British JournalofMathematical and Statistical Psychology.Online First, https://doi.org/10.1111/bmsp.12175   \nKlein Entink,R.H.,vanderLinden,W.J.,&Fox,J-P.(2O09).ABox-Cox normalmodeforresponsetimes.BritishJournaloj Mathematical and Statistical Psychology, 62, 621-640.   \nMan,K.,Harrng,J.R,Jiao,H.,&Zan,P. (2l9).Jointmodeling ofcompensatorymultidimensional itemrespossad response times. Applied Psychological Measurement, 43, 639-654.   \nMesulam,M.M. (99o).Large-scale eurocognitive networksanddistributed procesing foratention,language,andmemory. Annals of neurology, 28(5),597-613.   \nMeng,X.-B. (2016).Alog-skew-normal model for item response times.Journal of Psychological Science,39,727-734.   \n[孟祥斌.(2016).项目反应时间的对数偏正态模型．心理科学,39,727-734.]   \nMuthen,L.K.,& Muthen,B.(20l9).Mplus.Thecomprehensive modelingprogramforappliedresearchers: user's guide,5.   \nNtzoufras,I. (2009). Bayesian modeling using WinBUGS. Manhattan: John Wiley & Sons.   \nOECD (013).PISA2012 assessment and analytical framework: mathematics,reading,science,problemsolvingand financial literacy, OECD Publishing. http://dx.doi.org/10.1787/9789264190511-en   \nReckase, M. (2009). Multidimensional item response theory. New York: Springer.   \nSteiger,J.H.(1990).Structuralmodelevaluationand modification: Aninterval estimationapproach.Multivariate Behavioral Research,25,173-180.   \nTatsuoka,K.K. (1983).Rule Space: Anapproach fordealing with misconceptions basedon item response theory.Journalof Educational Measurement,20,345-354.   \nvander Linden,W.J. (20o6).Alognormal model forresponse times ontest items.JournalofEducational and Behavioral Statistics,31,181-204.http://dx.doi.0rg/10.3102/10769986031002181   \nvanderLinden,W.J. (2Oo7).Ahierarchical framework for modeling speedand accuracyon testitems.Psychometrika,72, 287-308.http://dx.doi.0rg/10.1007/s11336-006-1478-z   \nvanderLinden,W.J. (o09).Conceptualissues inresponse-time modeling.JournalofEducational Measurement,46,4272. http://dx.doi.0rg/10.1111/j.1745-3984.2009.00080.x   \nvan der Linden, W.J. (2011).Test design and speededness. Journal of Educational Measurement, 48,44-60   \nvanderLinden,W.J.,KleinEntink,R.,&Fox,J.-P.(2Ol).IRTparameterestimation withresponsetimesascolateral information. Applied Psychological Measurement, 34,327-347.   \nWang,C.,ChangH.,&Douglas,J.(Ol3).Thelineartransformationmodelwithfrailtiesfortheanalysisofitemresponseimes. British Journal of Mathematical and Statistical Psychology, 66,144-168.   \nWang, C.,& Xu,G.(2015).Amixture hierarchical model for response times and response accuracy.British Journal of Mathematical and Statistical Psychology， 68,456-477.   \nWang, C., Weis,D.J.,& Su,S. (20l9).Modeling response time and responses in multidimensional health measurement. Frontiers in Psychology,10:51.   \nWang,S.,Zhang,S.Douglas,J.,&Culpepper,S. (218). Usingresponse times toassess learning progres: Ajointmodelfor responses and response times.Measurement: Interdisciplinary Research and Perspectives,16,45-58.   \nWang,T.,& Hanson,B.A.(2oo5).Developmentand calibrationof anitemresponse model that incorporates response time. Applied Psychological Measurement,29,323-339.   \nZhan,P.(20l9).Jointmodeling forresponse timesandresponse accuracy incomputer-based multidimensionalassessments. Journal of Psychological Science, 42,170-178.   \n[詹沛达.(2019).计算机化多维测验中作答时间和作答精度数据的联合分析．心理科学,42,170-178.]   \nZhan,P.,Jiao,H.,&Liao,D.(2018).Cognitive diagnosis modeling incorporating itemresponsetimes.British Journalof Mathematical and Statistical Psychology, 71,262-286.   \nZhan,P.,JiaoH,Wang,WCndan,K.(8).Amulidmenioalerarhcalframeworkfomodelingseeddiliy in computer-based multidimensional tests.arXiv:1807.04003.Available online at: https:/arxiv.org/abs/1807.04003 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "附录：MLRTM中各待估计参数的先验分布设定对于MLRTM，首先，根据条件独立性假设，",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\log T _ { n i } \\sim N ( \\xi _ { i } - \\sum _ { k = 1 } ^ { K } q _ { i k } \\tau _ { n k } , \\mathbf { \\Theta } _ { \\mathbf { 0 } _ { i } } ^ { - 2 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "其中，多维潜在加工速度向量的先验分布为：",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { \\tau } _ { n } \\sim N ( \\mathbf { 0 } , \\boldsymbol { \\Sigma } _ { \\mathfrak { c } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "其中，方差-协方差矩阵的超先验为：",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Sigma _ { \\tau } \\sim \\mathrm { { \\cal { I n v } W i s h a r t } } ( { \\bf R } , { \\bf \\Sigma } { K } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "其中，R为 $K$ 维对角矩阵。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "对题目参数而言，",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi _ { i } \\sim { \\cal N } ( \\mu _ { \\xi } , \\sigma _ { \\xi } ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "其中，均值和方差的超先验为：",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mu } _ { \\xi } \\sim { \\cal N } ( 4 . 3 , 2 ) \\mathop { \\mathcal { H } } ^ { \\mathrm { H } } { \\sigma } _ { \\xi } ^ { 2 } \\sim \\mathrm { I n v G a m m a } ( 1 , 1 ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Zhan 等(2018)的研究表明，对于2012年PISA 计算机化数学测验数据中所有被试在所有题目上的平均log RT 约为4.301，因此我们将 $\\mu \\xi$ 的均值设定4.3。另外， ${ \\mathfrak { O } } _ { i } ^ { - 2 } \\sim \\operatorname { I n v } { \\mathrm { G a m m a } } ( 1 , 1 ) .$ （204号",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The multidimensional log-normal response time model: An exploration of the multidimensionality of latent processing speed ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "ZHAN Peida1Hong JIAO² Kaiwen MAN3 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(DepartmentofPsychology,CollegeofTeacherEducation,Zhejiang Normal University,Jinhua,321o04,China) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(Measureetaidteotdtaii ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Maryland,UnitedStates) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(EducationaldsiologeseachtodolgdoselingUersityabualoosaUdte ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "With the popularity of computer-based testings,the collction of item response times (RTs) and other process data has become a routine in large- and small-scale psychological and educational assssments.RTs not only provide information about the processing speed of respondents but also could be utilized to improve the measurement accuracy because the RTs are considered to convey a more synoptic depiction of the participants’ performance beyond responses alone. In multidimensional assessments，various skils are often required to answer questions. The speed at which persons were applying a set of skills reflecting distinct cognitive dimensions could be considered as multidimensional as well In other words,each latent ability was measurd simultaneously with its corresponding working effciency of applying a facet of skils in a multidimensional test. For example,the latent speed corresponding to the latent ability of decoding of an algebra question may differ from encoding. Therefore，a multidimensional RT model isneeded to accommodate this scenario, which extends various currently proposed RT models assuming unidimensional processing speed. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "To model the multidimensional structure of the latent processing speed，this study proposed a multidimensional log-normal response time model (MLRT） model， which is an extension of the unidimensional log-normal response time model (ULRTM) proposed by van der Linden (20o6). Model parameters were estimated via the full Bayesian approach with the Markov chain Monte Carlo (MCMC). A PISA 2012 computer-based mathematics RTdataset was analyzed as a real data example.This dataset contains RTs of 158l participants for 9 items. A Q-matrix (see Table 1) was prespecified based on the PISA 2012 mathematicsassessment framework (see Zhan,Jiao,Liao,2018);three dimensions were defined based on the mathematical content knowledge, which are: 1) change and relationships (01),2) space and shape $\\left( \\Theta _ { 2 } \\right)$ , and, 3) uncertainty and data $\\left( \\Theta _ { 3 } \\right)$ . One thing to note is that the defined Q-matrix served as a bridge to link items to the corresponding latent abilities, which shows the multidimensional structure of latent abilities. First, exploratory factor analysis (EFA）was conducted with the real dataset to manifest the multidimensional structure of the processing speed.Second,two RT models,i.e.,the ULRTMand the MLRTM, were fited to the data,and the results were compared. Third,a simulation study was conducted to evaluate the psychometric properties of the proposed model. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The results of the EFA indicated that the latent processing speed has a three-dimensional structure, which matches with the theoretical multidimensional structure of the latent abilities (i.e.,the Q-matrix in Table 1). Furthermore,the ULRTM and the MLRTM yield adequate model data fits according to the posterior predictive model checking values $( p p p = 0 . 5 9 7$ for the ULRTM and $p p p = 0 . 6 3 3$ for the MLRTM).Furthermore,by comparing the values of the -2LL,DIC,and WAIC across the ULRTM and the MLRTM, the results indicate that the MLRTM fits the data better.In addition，the results show that (1） the correlations among three dimensions vary from medium to large (from 0.751 to 0.855); (2) the time-intensity parameters estimates of the two models were similar to each other. However,in terms of the time-discrimination parameters,the estimates of the ULRTM were slightly lower than the MLRTM.Moreover,the results from the simulation study show: 1) the model parameters were fully recovered with the Bayesian MCMC estimation algorithm; 2) the item time-discrimination parameter could be underestimated if the multidimensionality of the latent processing speed gets ignored, which meets our expectation, whereas the item time-intensity parameter stayed the same. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Overall,the proposed MLRTM performed well with the empirical data and was verified by the simulation study.In addition,the proposed model could facilitate practitioners in the use of the RT data to understand participants' complex behavioral characteristics. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Key wordsitem response times; multidimensional latent processing speed; item response theory; computer-based testing; PISA ",
+        "page_idx": 17
+    }
+]

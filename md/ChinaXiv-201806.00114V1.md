@@ -1,0 +1,331 @@
+# 基于区块链的身份认证机制的效率优化方法研究
+
+汤凌韬，许敏，金玉荣(江南计算技术研究所，江苏 无锡 214083)
+
+摘要：基于区块链的去中心化PKI使用区块链替代传统的CA，借助区块链的权威性和公开性，实现了认证的去中心化。目前的研究大多使用遍历区块链的方法查询身份一公钥对，从而验证某公钥是否属于通信对方，效率较低。提出了一种基于密码累加器的身份认证方式，将链上身份和公钥信息映射为累加值，实现认证功能的同时提高了身份一公钥对的验证效率，同时解决了区块链体积不断增长的情况下轻节点存储空间不够的问题，并通过实验验证了该方法的可行性和有效性。
+
+关键词：区块链；密码累加器；去中心化；身份认证中图分类号：TP311 doi:10.3969/j.issn.1001-3695.2018.03.0211
+
+# Research on methods of improving efficiency of identity authentication based on blockchain
+
+Tang Lingtao, Xu Min, Jin Yurong (Jiangnan InstitudeofComputing Technology,Wuxi Jiangsu 214o83,China)
+
+Abstract:Decentralized publickey infrastructure basedonblockchainabandons certificateauthority.Withauthoritativene andpublicityoftheblockchain,this infrastructureisable toimplementdecentralizedidentityauthentication.Manyresearches chose totraversethe entire blockchain to lookup for a specific id-pk pairandthen verify whetherthe public keybelongs to someone whoclaims it.However,tis methodisobviouslyineficient.This paperproposedanidentityauthenticationmethod based oncryptographic acumulators,which map identity,public keyand auxiliary information tooneaccumulated value. This method improved theauthentication efficiency,especiallywhen current blockchainwas large.Inaddition,it solved the problemthat lightweight clients do nothadenough storagecapacity when the sizeof blockchain wascontinuously increasing. Some experiments are also carry to measure this method and verify its feasibility and correctness.
+
+Key words: blockchain; cryptographic accumulator; decentralization; identity authentication
+
+# 0 引言
+
+公钥基础设施(public key infrastructure,PKI)在实际应用中是一套软硬件系统和安全策略的集合，提供一整套安全机制，使用户在不知道对方身份或分布地很广的情况下，以证书为基础，通过一系列的信任关系进行通信和电子商务交易。作为目前网络安全建设的基础与核心，PKI是电子商务安全开展的基本保障。一个传统的PKI系统包括证书机构CA、PKI策略、软硬件系统、注册机构RA、证书发布系统和PKI应用等。由于传统的依托CA为中心的PKI在身份认证方面会产生单点失效、入侵目标明显等问题，催生了去中心化PKI的产生[1\~4]。
+
+区块链[5-7技术自从2008 年中本聪提出比特币后倍受关注，作为一种不可窜改的公开账本，被广泛用于在线支付、分布式存储和防伪证明等领域[18,19]。而去中心化PKI实现方法之一正是利用区块链存放身份和公钥等信息，在实现身份认证的过程中，采用遍历区块链的方法查询证书，再检查该公钥是否属于其所声明身份，最后发送挑战信息，通过验证数字签名判断对方是否持有匹配的私钥。然而区块链作为一条只可添加的公开链，其特性保证了数据量将不断增长，近几年区块链的体积已超过 $1 0 0 \mathrm { G b }$ ，并且未来仍会不停增长。届时，遍历区块链的方法效率将愈加低下，若仍沿用传统方法，身份认证的所需时间将难以满足实际需求；同时对于诸如手机等载体，无法存储如此庞大的数据，而密码累加器 (cryptographic accumulator)[8-16]的引入则可解决身份认证过程中成员验证效率低下的问题。密码累加器体制(accumulator scheme)包含一种算法，可将一个包含多元素的集合映射为一个累加值，并且提供一个体积较小的见证(witness)，证明一个给定的值确实属于该集合。
+
+本文从上述现状出发，提出一种利用密码累加器实现去中心化PKI体制中身份认证的效率优化方法，主要研究密码累加器的定义、实现原理与特征对比，及其结合区块链应用于成员验证的方法，提升身份认证的效率。
+
+# 1 密码累加器
+
+# 1.1单向累加器
+
+密码累加器的概念源于Benaloh等人[8]首次提出的单向累加器(one-way accumulators)，单向累加器被定义为一簇具有拟交换性(quasi-commutativeness)的单向哈希函数(one-way hashfunctions)，这里的单向哈希函数和常见的只有一个自变量的哈希函数不同，考虑接收两个自变量输入的情况。
+
+定义1单向哈希函数。一簇单向哈希函数是满足下列条件的属于函数集 $\{ \mathcal { H } _ { \lambda } \} _ { \lambda \in \mathbb { N } }$ 的无限序列，其中 ${ \mathcal { H } } _ { \lambda } \doteq \{ h _ { \boldsymbol { k } } : X _ { \boldsymbol { k } } \times Y _ { \boldsymbol { k } } \to Z _ { \boldsymbol { k } } \} ($ k为安全变量):
+
+a)对任何整数 $\lambda$ ，以及任何 $h _ { k } \in \mathcal { H } _ { \lambda }$ ， $h _ { k } \left( \cdot , \cdot \right)$ 在 $\lambda$ 的多项式时间内可计算。
+
+b）对任何多项式时间的算法 $\boldsymbol { \mathcal { A } }$ ，满足
+
+$P r [ h _ { k }  \mathcal { H } _ { \lambda } ; x  \mathcal { R } _ { k } ; y , y ^ { \prime }  Y _ { k } ; x ^ { \prime }  A ( 1 ^ { \lambda } , x , y , y ^ { \prime } ) :$ （204$h _ { k } ( x , y ) = h _ { k } ( x ^ { \prime } , y ^ { \prime } ) ] < \mathbf { n e g } 1 ( \lambda )$
+
+其中：概率取决于 ${ h } _ { k } , x , y , y ^ { \prime }$ 的随机选择和 $\mathcal { A }$ 的随机输出。
+
+由上述定义看出，单向哈希函数具有可计算性和单向性，即 $_ { x , y }$ 给定， $z = h ( x , y )$ 的计算可在多项式时间内完成；并若在给定 $x , y , y ^ { \prime }$ 的情况下，要找到 $x ^ { \prime }$ 满足 $h _ { k } ( x , y ) = h _ { k } ( x ^ { \prime } , y ^ { \prime } )$ 的概率小到几乎可以忽略，即不同输入生成的输出间的冲突(collisions)很小。
+
+定义2拟交换性。一个函数 $f : X \times Y  X$ 被称为具有拟交换性，当下式成立：
+
+$$
+( \forall x \in X ) ( \forall y _ { 1 } , y _ { 2 } \in Y ) [ f ( f ( x , y _ { 1 } ) , y _ { 2 } ) = f ( f ( x , y _ { 2 } ) , y _ { 1 } ) ]
+$$
+
+由此可见，具有拟交换性的函数，对同一个集合中的值依次进行哈希运算，在初始值不变的情况下，计算结果不随计算顺序的变化而改变。
+
+单向累加器是具有拟交换性的单向函数，其可将一个包含多个元素的集合 $L$ 映射为一个常数值，并为每个成员 $y \in L$ 提供一个证明，通过 $y$ 和该证明可以得到累加值，从而实现成员验证的功能。
+
+# 1.2强单向累加器
+
+定义1表明了单向哈希函数在变量按规定选取时，找到冲突的概率极小。但未考虑攻击者可能不按指定范围取值，找到一个 $y ^ { \prime } \notin Y$ 满足 $z = h ( z _ { i } , y ^ { \prime } )$ ，从而伪造凭证。为了增强安全性，引入强单向（strongly one-wayness）[9]的定义。
+
+定义3强单向哈希函数。
+
+一簇强单向哈希函数是满足下列条件的属于函数集 $\{ \mathcal { H } _ { \lambda } \} _ { \lambda , \in \mathbb { N } }$ 的无限序列，其中 $\mathcal { H } _ { \lambda } \doteq \{ h _ { \lambda } : X _ { k } \times Y _ { k } \to Z _ { k } \} ($ k为安全变量)：
+
+a)对任何整数 $\lambda$ ，以及任何 $h _ { k } \in \mathcal { H } _ { \wedge }$ ， $h _ { \boldsymbol k } \left( \cdot , \cdot \right)$ 在 $\lambda$ 的多项式时间内可计算。
+
+b)对任何多项式时间的算法 $\mathcal { A }$ ，满足
+
+$$
+P r [ h _ { k }  \mathcal { H } _ { \lambda } ; x  \kappa _ { k } ; y  Y _ { k } ; ( x ^ { \prime } , y ^ { \prime } )  A ( 1 ^ { \lambda } , x , y ) :
+$$
+
+$$
+y ^ { \prime } \neq y \land h _ { k } ( x , y ) = h _ { k } ( x ^ { \prime } , y ^ { \prime } ) ] < \mathbf { n e g } \mathbf { l } ( \lambda )
+$$
+
+其中：概率取决于 $h _ { k } , x , y$ 的随机选择和 $\mathcal { A }$ 随机输出。
+
+定义1中的单向性是指，给定值 $( y _ { 1 } , y _ { 2 } , . . . , y _ { n } )$ ，它们的累加值，以及另一个值 $y ^ { \prime }$ ，攻击者难以找到对应见证accu'使得$h ( a c c u ^ { \prime } , y ^ { \prime } ) = z$ 。而强单向性是指，给定 $( y _ { 1 } , y _ { 2 } , . . . , y _ { n } )$ 和z，难以找到数值对 $( \boldsymbol { y } ^ { \prime } , a c c u ^ { \prime } )$ 使得 $h ( a c c u ^ { \prime } , y ^ { \prime } ) = z$ ，并且 $y ^ { \prime } \notin ( y _ { 1 } , y _ { 2 } , . . . , y _ { n } )$ 。
+
+# 1.3无冲突累加器
+
+Baric 等人[]在构建FSS 机制(fail-stop scheme)时提出了，密码累加器需要更严格的性质，在强单向的性质下，攻击者仍可能精心伪造成员值 $( { y _ { 1 } ^ { \prime } } , { y _ { 2 } ^ { \prime } } , . . . , { y _ { n } ^ { \prime } } )$ ，从而为 $y ^ { \prime }$ 构造见证accu'。因此引入无冲突累加器(collision-freeaccumulator)，在强单向性基础上，成员值 $( y _ { 1 } , y _ { 2 } , . . . , y _ { n } )$ 无需给定。为了引入无冲突性，首先定义一般意义的累加器：
+
+定义4累加器运行机制。一个密码累加器的运行机制[7]是一个包含4个多项式时间算法(Gen,Eval,Wit,Ver)的四元组,其中：
+
+一密钥生成算法Gen，一个用以生成初始参数的概率算法。Gen 接收两个参数：一个安全变量1，一个累加器门限 $N$ ，可被安全累加的值个数上限，当对超过 $N$ 个元素的集合使用累加器，安全性则不能保证；返回一个累加器密钥 $k$ ， $k \in \mathcal { K } _ { \lambda , N }$ 。
+
+-求值算法Eval，一个求累加值的概率算法。计算集合$L \dot { = } \{ y _ { 1 } , y _ { 2 } , . . . , y _ { N ^ { \prime } } \} , N ^ { \prime } { \le } N$ 中的所有值的累加值，其中$y _ { i } \in Y _ { k } , k \in \mathcal { K } _ { \lambda , N }$ 。Eval输入 $( k , y _ { 1 } , y _ { 2 } , . . . , y _ { N ^ { \prime } } )$ ;输出一个累加值 $z \in Z _ { k }$ ，和一些附加信息aux，用做其他算法的输入。注意到Eval对相同输入输出同一个累加值，而附加信息可能不同。
+
+一一见证生成算法Wit，一个根据相关信息生成成员见证的概率算法。Wit输入一个累加器密钥 $k \in \mathcal { K } _ { \lambda , N }$ ，一个值 $y _ { i } \in Y _ { k }$ 以及Eval $( k , y _ { 1 } , y _ { 2 } , . . . , y _ { N ^ { \prime } } )$ 输出的附加信息aux；若 $y _ { i }$ 确实在 $L$ 中，输出一个见证 $w _ { i } \in \mathcal { W } _ { k }$ ，用于证明 $y _ { i }$ 被累计入，否则，返回符号」。
+
+-验证算法Ver，一个通过见证来验证某值成员身份的确定性算法。Ver输入 $( k , y _ { i } , w _ { i } , z )$ ，根据见证 $w _ { i }$ 来验证 $y _ { i }$ 是否被累计入，输出Yes或 $\mathbf { N o }$ 。
+
+由一般累加器可进一步定义无冲突累加器。
+
+定义5无冲突性。一个累加器机制被称为 $\mathbf { N }$ 次无冲突当其满足下述性质：对任意整数 $\lambda$ 和任意多项式时间概率算法 $\mathcal { A }$ 满足
+
+$$
+P r [ k \gets \mathrm { G e n } ( 1 ^ { \lambda } , N ) ; ( y _ { 1 } , . . . , y _ { N } , y ^ { \prime } , w ^ { \prime } ) \gets A ( 1 ^ { \lambda } , N , k ) ;
+$$
+
+$$
+( z , \mathrm { a u x } ) \gets \mathrm { E v a l } ( k , y _ { 1 } , . . . , y _ { N } ) \colon
+$$
+
+$$
+( y _ { 1 } , . . . , y _ { N } \in Y _ { k } ) \land ( y ^ { \prime } \notin \{ y _ { 1 } , . . . , y _ { N } \} ) \land ( \mathrm { V e r } ( z , y ^ { \prime } , w ^ { \prime } ) = \mathrm { Y e s } ) ] < \mathbf { n e g l } ( \lambda )
+$$
+
+其中：概率取决于Gen、Eval和 $\mathcal { A }$ 的随机输出。如果对任何正整数N，一个累加器机制都是 $\mathrm { ~ \bf ~ N ~ }$ 次无冲突的，那么它是无冲突的。
+
+具有无冲突性的累加器被称为无冲突累加器，可防止攻击者通过构建虚假成员集合来伪造见证。
+
+# 1.4动态累加器
+
+在成员认证方面的应用，要求所选择的密码累加器不仅能使验证者进行高效的身份认证，且保证安全性，当成员集合发生变化时，累计值和各成员的见证也能以高效率更新,特别是高效成员撤销[17]；否则，每当添加或减少成员时，所有成员都需要重新计算一次当前累计值和各自的见证，累加器在成员集合动态变化的情况下，无法高效运作来应对实际应用需求。于是引入动态累加器的定义[9，在原有四元组基础上添加增、删、更新的操作：
+
+定义6动态累加器运行机制。
+
+一个动态累加器的运行机制[10,12]是一个包含7个多项式时间算法(Gen,Eval,Wit,Ver,Add,Del,Upd)的七元组,其中：
+
+Gen,Eval,Wit,Ver 同定义4，属于基本架构的内容。
+
+—Add，元素添加算法，通常是确定性算法。输入一个累加器密钥 $k$ ，一个少于 $N$ 个元素的集合 $\boldsymbol { L }$ 的累计值，其中$L \subseteq Y _ { k }$ ， $z \in Z _ { k }$ ，以及要新增的值 $y ^ { \prime } \in Y _ { k }$ ；返回集合 $L \cup \{ y ^ { \prime } \}$ 的新累计值 $z ^ { \prime }$ ， $y ^ { \prime }$ 的见证 $w ^ { \prime } \in \mathcal { W } _ { k }$ ，和 Upd 算法所需的更新信息 $\mathrm { a u x } _ { \mathrm { A d d } }$ 。
+
+-—Del，元素删除算法，通常是确定性算法。输入一个累加器密钥 $k$ ，一个少于 $N$ 个元素的集合 $\textbf { \em L }$ 的累计值，其中$L \subseteq Y _ { k }$ ， $z \in Z _ { k }$ ，以及要删除的值 $y ^ { \prime } \in L$ ；返回集合 $\boldsymbol { L } \backslash \{ \boldsymbol { y } ^ { \prime } \}$ 的新累计值 $z ^ { \prime }$ ，和Upd 算法所需的更新信息 $\mathrm { a u x } _ { \mathrm { D e l } }$ 。
+
+一一Upd，见证更新算法，是确定性算法，用于在对 $\boldsymbol { L }$ 中元素进行添加或删除操作后，更新集合中原有的每个元素 $y \in Y _ { k }$ 的见证 $w \in \mathcal { W } _ { k }$ 。Upd 接收 $( k , y , w , \mathsf { o p } , \mathsf { a u x } _ { \mathsf { o p } } )$ 作为输入，其中op 为Add或Del;返回一个更新后的见证 $w ^ { \prime }$ ，用于证明 $y$ 被累计入 $z ^ { \prime }$ 。
+
+# 1.5特征与对比
+
+首先介绍密码累加器的几个重要特点，作为评价及选用的衡量标准。
+
+动态性：密码累加器具备高效的元素增删和见证更新算法， 详见定义6。
+
+强健性：密码累加器的管理员无需可信，限门信息无法被用来伪造见证。
+
+普遍性：密码累加器不仅可提供成员见证，也可提供非成员证明。
+
+安全假设：在安全假设声明的前提下，密码累计器的成员验证功能不受攻击者影响。
+
+紧致性：密码累加器能将一个大集合映射到数量级较小的累计值，具体表现为累加值和见证的所需存储空间小，以及更新算法的时间复杂度低。
+
+一些密码累加器的性能与特点如表1所示（其中n为集合中元素个数)。
+
+表1各类密码累加器特点  
+
+<html><body><table><tr><td>密码累加器</td><td>动态性</td><td>强健性 普遍性</td><td>安全假设</td><td>见证/累加器体积</td></tr><tr><td>BeMa[8]</td><td>×</td><td>7 ×</td><td>强RSA 假设+随机谕言</td><td>0(1)</td></tr><tr><td>BarPif[11]</td><td>×</td><td>×</td><td>强RSA假设</td><td>0(1)</td></tr><tr><td>CamLys[12]</td><td>7</td><td>× ×</td><td>强RSA假设</td><td>0(1)</td></tr><tr><td>LLX[15]</td><td>7</td><td>× √</td><td>强RSA假设</td><td>0(1)</td></tr><tr><td>AWSM[16]</td><td>7</td><td>× ×</td><td>pairings</td><td>0(1)</td></tr><tr><td>CHKO[14]</td><td>√</td><td>√ √</td><td>抗碰撞哈希</td><td>O(log(n))</td></tr></table></body></html>
+
+# 2 基于密码累加器的认证方法
+
+# 2.1去中心化成员验证
+
+单向累加器 $\textit { h }$ 的拟交换性保证了选定了一个初始值 $x \in X$ 后，对于集合中的值 $y _ { 1 } , y _ { 2 } , . . . , y _ { m } \in Y$ ，累加哈希值
+
+$$
+z = h ( h ( h ( \cdot \cdot \cdot h ( h ( h ( x , y _ { 1 } ) , y _ { 2 } ) , y _ { 3 } ) , \cdot \cdot \cdot , y _ { m - 2 } ) , y _ { m - 1 } ) , y _ { m } )
+$$
+
+不随计算时 $y _ { i }$ 的顺序而发生改变，即对上述累加值<和 $Y$ 的一个任意排列 $\{ y _ { i _ { j } } \}$ ，仍有
+
+$$
+z = h ( h ( h ( \cdot \cdot \cdot h ( h ( h ( x , y _ { i _ { 1 } } ) , y _ { i _ { 2 } } ) , y _ { i _ { 3 } } ) , \cdot \cdot \cdot , y _ { i _ { m - 2 } } ) , y _ { i _ { m - 1 } } ) , y _ { i _ { m } } )
+$$
+
+此外， $\boldsymbol { h }$ 的单向性保证了已知 $x \in X$ 和 $y \in Y$ ，且给定 $y ^ { \prime } \in Y$ ，找出一个 $x ^ { \prime } \in X$ 使得 $h ( x , y ) = h ( x ^ { \prime } , y ^ { \prime } )$ 的概率可忽略不计。
+
+由此累加器可用于成员验证，同上，已知一个集合中的值$y _ { 1 } , y _ { 2 } , . . . , y _ { m } \in Y$ ，则可计算所有元素的累加哈希值×。手执 $y _ { j }$ 的集合成员可以计算其他所有 $y _ { i } ( i \neq j )$ 的累加值 $z _ { j }$ 。
+
+所以，通过出示 $z _ { j } , y _ { j }$ ，该成员可以向他人证明自己处于集合内，对方则可验证，若有 $z = h ( z _ { j } , y _ { j } )$ ，则 $y _ { j } \in Y$ ，且 $z _ { j }$ 称做 $y _ { j }$ 的见证。若非集合成员想伪造成员身份 $y ^ { \prime }$ ，则其必须构造一个$x ^ { \prime }$ 满足 $z = h ( x ^ { \prime } , y ^ { \prime } )$ ，而这在一定假设条件下是几乎无法实现的。
+
+单向累加器的这种使用方法并不能隐藏用户的个人信息$y _ { i }$ ，因为所有 $y _ { i }$ 都必须用来计算累加值，但减轻了用户负担，无需维护成员列表，从而显著节省了存储空间。并且区别于传统设立一个中心机构维护一张所有成员的列表，累加器的使用可以让用户间互相证明身份，无需某中心参与。
+
+# 2.2设计基于密码累加器的身份-公钥对认证方式
+
+传统通信中A向B证明身份的步骤如下：
+
+a)A向B发送 $( i d _ { A } , p k _ { A } )$ ，宣称公钥 ${ p } k _ { A }$ 属于身份 $i d _ { A }$ ·
+
+b)B从区块链（或权威第三方）查询得到匹配的登记信息$( i d _ { A } , p k _ { A } )$ ，证明公钥确实属于该身份；
+
+c)B向A发送随机挑战字符串ch，A对包含该字符串的信进行数字签名 $\sigma = \mathrm { s i g } ( s k _ { \scriptscriptstyle A } , \mathrm { c h } )$ ：
+
+d)B用 $p k _ { A }$ 对数字签名 $\sigma$ 进行验证，若 $\mathrm { v e r } ( p k _ { _ A } , \sigma , \mathrm { c h } ) { = } 1$ ，则证明A持有私钥 ${ s k } _ { A }$ ，即A拥有身份 $i d _ { A } ^ { \phantom { \dagger } }$ 。
+
+然而在基于区块链的去中心化身份认证体制中，对应于B的不同节点状态，密码累加器的引入发挥不同的作用。若B为完整节点，则必须查询所有本地存储的链上信息，遍历整条区块链，认证效率随着区块链体积增大不断降低；若B为轻节点，则没有足够的空间来存储完整区块链，无法正常进行通信认证，除非向完整节点请求查询，而这将再次面临遍历区块链效率低下的问题。
+
+本文将步骤a)和b)改进为：A向B发送 $( i d _ { A } , p k _ { A } , w _ { A } )$ ，B进行定义4中的验证算法，通过运算：
+
+$$
+\mathrm { V e r } ( k , h ( i d _ { \scriptscriptstyle A } , p k _ { \scriptscriptstyle A } ) , w _ { \scriptscriptstyle A } , z ) = 0 \mathrm { o r } 1
+$$
+
+判断 $p k _ { A }$ 是否属于 $i d _ { A } ^ { \phantom { \dagger } }$ 。此方法通常能将步骤b)中的单步验证时间复杂度从 $\mathrm { O ( n ) }$ 降至 ${ \cal O } ( \log ( \mathrm { n } ) )$ 或O(1)。同时，利用密码累加器，只需存储累加值等信息，即可同样实现身份认证的功能，将本地存储的空间复杂度 $\mathrm { O } ( { \mathfrak { n } } )$ 降至 $\mathrm { { { O } ( l o g ( n ) ) } }$ 或O(1)，使得轻节点能
+
+正常加入认证网络参与工作。
+
+# 2.3区块链上的累加器运行方法
+
+结合现有的基于区块链的去中心化身份认证体制以及密码累加器运行机制，本文引入累加器以提高身份认证效率和解决轻节点本地存储空间限制问题，相较于普通区块链，在区块的交易信息中添加"当前累加值"这一条目，并且每个参与节点本地维护自身见证。
+
+本节主要描述创世区块开始累加器的创建方法，以及身份注册、废除、更新、验证过程中区块链上累加器的运行方法。
+
+# 2.3.1累加器初始创建
+
+矿工节点创建安全参数： $k \gets \mathrm { G e n } ( 1 ^ { \lambda } , { \bf N } )$ ，并输入一张含 $\mathrm { ~ m ~ }$ 个元素的成员列表( $m { \geq } 1$ ，至少含该矿工本身),列表元素为$( i d _ { i } , p k _ { i } )$ 二元组。通过 $( z _ { 0 } , \mathrm { a u x } ) \gets \mathrm { E v a l } ( k , y _ { 1 } , y _ { 2 } , . . . , y _ { m } )$ 得到初始累加值，将其放入“创世区块”,并向全网广播。这里 $y _ { i } = h a s h ( i d _ { i } , p k _ { i } )$ 。
+
+所有接收者验证 $z _ { 0 }$ 的创建是否正确。若正确，同步该区块并向邻节点传播，并计算各自见证 $w _ { i } \gets \mathrm { W i t } ( k , y _ { i } , \mathrm { a u x } )$ ；否则，抛弃该区块。算法描述如算法1所示。
+
+# 算法1累加器初始创建
+
+I0I cicaui. $\begin{array} { l } { \displaystyle \mathrm { k } { = } \mathrm { G e n } ( 1 ^ { \lambda } , \mathrm { N } ) } \\ { \displaystyle z _ { 0 } , \mathrm { a u x } = \mathrm { E v a l } ( k , y _ { 1 } , y _ { 2 } , . . . , y _ { m } ) } \end{array}$ for iin range(len(initial_idlist)): # initial_idlist=(id,id,...,id.) # initial_pklist $\mathbf { \Phi } = ( p k _ { 1 } , p k _ { 2 } , . . . , p k _ { m } )$ （204号 current_transaction[i]['identity'] $\ c =$ initial_idlist[i] current_transaction[i]['publickey']=initial_pklist[i] current_transaction[i]['accu']= $z _ { 0 }$ genesis_block.add(current_transaction) proof=PoW(genesis_block_header) genesis_block.add(proof) （204号 $w _ { 1 } = \mathrm { W i t } ( k , y _ { 1 } , \mathrm { a u x } )$ #计算自身见证,设其编号为1 blockchain.append(genesis_block) broadcast genesis_block   
+for neighbor_i in node.neighbors: when receive genesis_block from node: if current_block is constructed correctly: #该区块加入本地区块链 blockchain.append(genesis_block) #根据接收区块中新增身份更新自身见证 for $( i d , p k )$ in genesis_block: （204号 $\boldsymbol { w } _ { i } ^ { \mathrm { n e w } } = \mathrm { U p d } ( k , ( i d , p k ) , { w } _ { i } ^ { \mathrm { o l d } } , \mathrm { A d d } , \mathrm { a u x } _ { \mathrm { A d d } } )$ else: abort genesis_block
+
+# 2.3.2身份id注册
+
+当矿工通过某节点的身份注册申请，则其将 $( i d , p k )$ 加入累加器，计算 $( z _ { \mathrm { n e w } } , w , \mathrm { a u x } _ { \mathrm { A d d } } ) \gets \mathrm { A d d } ( k , z _ { \mathrm { o l d } } , ( i d , p k ) )$ ，从而得到新累计值z以及身份id的对应见证 $w$ 。最后，矿工将信息 $( i d , p k , a , w )$ 加入新挖的区块。
+
+所有区块接收者验证<计算是否正确。若是，则将自身存储区块链上的累计值更新为<，并通过$w _ { i } ^ { \prime } \gets \mathrm { U p d } ( k , ( i d , p k ) , w _ { i } , \mathrm { A d d } , \mathrm { a u x } _ { \mathrm { A d d } } )$ 更新自身存储的见证；否则，抛弃该区块。算法描述如算法2所示
+
+# 算法2身份注册
+
+for miner in miners:
+
+when receive $( i d , p k , \mathrm { s i g } ( s k , i d ) ,$ register) : current_transaction=[] if $( i d , p k )$ is well constructed: current_transaction.add( $( i d , p k )$ ） #生成新累加值 $z _ { \mathrm { n e w } }$ 和该注册 $i d$ 的见证 $w$ $( z _ { \mathrm { n e w } } , w , \mathrm { a u x } _ { \mathrm { A d d } } ) = \mathrm { A d d } ( k , z _ { \mathrm { o l d } } , ( i d , p k ) )$ current_transaction.add( $z _ { \mathrm { n e w } }$ ） current_block.add(current_transaction) proof=PoW(current_block_header) current_block.add(proof) #更新自身见证，设其编号为j $\begin{array} { r } { \boldsymbol { w } _ { j } ^ { \mathrm { \scriptsize ~ n e w } } = \mathrm { U p d } ( k , ( i d , p k ) , \boldsymbol { w } _ { j } ^ { \mathrm { \scriptsize ~ o l d } } , \boldsymbol { \mathrm { A d d } } , \mathrm { a u x } _ { \mathrm { \scriptsize ~ A d d } } ) } \end{array}$ blockchain.append(current_block) broadcast current_block for neighbor_iin node.neighbors: when receive current_block from node: if current_block is constructed correctly: blockchain.append(current_block) $w _ { i } ^ { \mathrm { { \tiny ~ n e w } } } = \mathrm { U p d } ( k , ( i d , p k ) , w _ { i } ^ { \mathrm { { \tiny ~ o l d } } } , \mathrm { A d d , a u x _ { \mathrm { { \tiny ~ A d d } } } ) }$ （20 else: abort current_block
+
+# 2.3.3身份id废除
+
+矿工通过 $\operatorname { V e r } ( k , ( \mathrm { i d } , \operatorname { p k } ) , w , z ) { = } 1$ 验证该身份在累加器中。若验证正确，将该节点身份从累加器中移除，重新计算累计值$( z _ { \mathrm { n e w } } , \mathrm { a u x } _ { \mathrm { D e l } } ) \gets \mathrm { D e l } ( k , z _ { \mathrm { o l d } } , ( \mathrm { i d } , \mathrm { p k } ) )$ ，并将 $z ^ { \prime }$ 加入新挖的区块；若验证失败，则中止。
+
+所有区块接收者验证 $z ^ { \prime }$ 计算是否正确。若是，则将自身存储区块链上的累计值更新为<，并通过$w _ { i } ^ { \prime \prime } \mathrm {  { U p d } } ( k , ( \mathrm { i d , p k } ) , w _ { i } ^ { \prime } , \mathrm { D e l , a u x _ { \mathrm { D e l } } } )$ 更新自身存储的见证；否则，抛弃该区块。
+
+算法3身份废除 for miner in miners:
+
+when receive $( i d , p k , w , \mathrm { s i g } ( s k , i d )$ ,revoke) : current_transaction=[] #验证通过说明该身份确实已注册 #且发布废除命令的用户拥有对应私钥 if $\mathrm { V e r } ( k , ( i d , p k ) , w , z ) { = } 1$ and $\mathrm { V e r } ( \mathrm { s i g } ( s k , i d ) , p k , i d ) { = } 1$ ： current_transaction.add( $( i d , p k$ ,revoked)) #生成新累加值 $z _ { \mathrm { n e w } }$ 和该注册 $i d$ 的见证 $w$ $z _ { \mathrm { n e w } } , \mathrm { a u x } _ { \mathrm { D e l } } = \mathrm { D e l } ( k , z _ { \mathrm { o l d } } , ( i d , p k ) )$ current_transaction.add( $z _ { \mathrm { n e w } }$ ） current_block.add(current_transaction) proof=PoW(current_block_header) current_block.add(proof)
+
+#更新自身见证，设其编号为j （204 $\begin{array} { r } { \boldsymbol { w } _ { j } ^ { \mathrm { \scriptsize ~ n e w } } = \mathrm { U p d } ( k , ( i d , p k ) , \boldsymbol { w } _ { j } ^ { \mathrm { \scriptsize ~ o l d } } , \mathrm { D e l } , \mathrm { a u x } _ { \mathrm { \scriptsize ~ D e l } } ) } \end{array}$ （204 blockchain.append(current_block) broadcast current_block else: abort request $( i d , p k , w , \mathrm { s i g } ( s k , i d ) ,$ revoke) forneighbor_i in node.neighbors: when receive current_block from node: if current_block is constructed correctly: blockchain.append(current_block) $w _ { i } ^ { \mathrm { { \tiny ~ n e w } } } = { \mathrm { U p d } } ( k , ( i d , p k ) , w _ { i } ^ { \mathrm { { \tiny ~ o l d } } } , { \mathrm { D e l } } , \mathrm { a u x } _ { \mathrm { { \tiny ~ D e l } } } )$ （204 else: abort current_block
+
+# 2.3.4公钥更新pk $$ pk'
+
+等价于分别进行身份废除和注册这两步。用户出示见证 $w$ ，矿工根据算法3将(id.pk)废除，从累加器中移除。用户提供新公钥 $\mathrm { \ p k ^ { \prime } }$ ，矿工根据算法2将(id,pk)注册，加入累加器。
+
+# 2.3.5身份验证
+
+# 3 实验
+
+# 3.1 区块构建
+
+self.current_transactions $\mathbf { \sigma } = \mathbf { \sigma }$ [] self.chain.append(block) return block
+
+给定身份公钥和见证 $( i d , p k , w )$ ，任何用户都可通过运行验证算法 $\mathrm { V e r } ( k , ( \mathrm { i d } , \mathrm { p k } ) , w , z ) { = } 0 \mathrm { o r } 1$ 判断该身份是否合法。
+
+块高度：390610  
+头哈希：00000000002c8...ae5父哈希：00000000003f2...fldMerkle根：c8572f19112...456d时间戳：2018-3-110:35:12  
+难度：93448670796.32380676Nonce：1779633802  
+Identity：mercer4524qs  
+Public key：Xup1R0c...JFJ83Accu：cbf53bef6ea6d4...728f块高度：390609  
+头哈希：00000000003f2...fld父哈希：00000000005e1...e25Merkle根：c59e2d8242...eflc时间戳：2018-3-110:25:07  
+难度：93448670796.32380676Nonce:4005489007  
+Identity：8sJk3jcLs1df3  
+Public key：sraz362...JV34A3Accu: b528c06158b6df...7878块高度：390608  
+头哈希：00000000005e1..e25父哈希：000000000079f...e4dMerkle根：2e11abce579...e12a时间戳：2018-3-110:21:36  
+难度：93448670796.32380676Nonce：2181060612  
+Identity：Lilygancelor  
+Public key：fVF9U63s...76tlAccu:931143eecaf47f...e461本文采用文献[8.9]中的强RSA安全假设的密码累加器，基  
+于区块链生成方法修改区块构建代码，部分代码如下，所得区  
+块结构如图1所示。  
+def new_block(self,proof,pre_hash):block $\mathbf { \sigma } = \mathbf { \sigma }$ 「'index':len(self.chain) $+ 1$ ，'timestamp': time.time(),'transactions': self.current_transactions,'proof': proof,'pre_hash':pre_hash or self.hash(self.chain[-1]),1#update accumulated value and witnessif len(self.chain) $> 0$ ：idpkbind $\mathbf { \tau } = \mathbf { \tau }$ self.current_transactions[O]['identity'] $+ 1$ self.current_transactions[O]l'publickey']idpkhash $\mathbf { \tau } = \mathbf { \tau }$ self.hash(idpkbind)idpkconvert $\mathbf { \Sigma } = \mathbf { \Sigma }$ int(idpkhash,16)for $\mathbf { \boldsymbol { x } }$ in range(len(self.chain)):self.witness[x] $\mathbf { \tau } = \mathbf { \tau }$ pow(self.witness[x],idpkconvert,\ self.n)self.witness.append(self.accu)self.accu $\mathbf { \tau } = \mathbf { \tau }$ pow(self.accu,idpkconvert,self.n)# Reset the current list of transactions
+
+# 3.2 结果与分析
+
+本文以三台配置Windows764位系统，Intel?Xeon(R CPU$\mathrm { E 7 5 2 0 } \ @ 1 . 8 6 \mathrm { G H z }$ ，内存DDR316GB的PC作为实验基础。
+
+实验先建立了 $5 ~ 0 0 0 { \sim } 3 0 ~ 0 0 0$ 条，步长5000的六组身份一公钥对数据集，其中身份由6\~20位的数字和大小写字母随机组成；公钥由15位数字和大小写字母随机组成；强RSA密码累加器门限 $N$ 为十进制150位的正整数，是两个通过Miller-Rabin素性检测算法随机生成的强素数的乘积；种子 $x$ 随机取一个不大于 $N$ 的正整数。
+
+接下来在六组数据集上，实验遍历区块链查询的传统认证方法和引入密码累加器的认证方法的耗时对比，如图2所示。
+
+由图2可以看出，传统方法中遍历区块链的时间与区块链长度成线性关系，而利用强RSA安全假设的累加器进行验证与区块链长度无关，耗时仅为累加器单步验证运算的时间，在某常数的小范围内波动，此为不同运算时刻机器状况差异所致。
+
+然而在实际情况下，密码累加器的更新和维护需额外增加计算量。本文考虑两种方法：
+
+a)挖矿节点负责维护额外维护所有成员见证。
+
+b)完整节点只需维护图1中的区块结构，挖矿节点无需计算除自身外其他节点见证，各节点自行依照区块内容计算更新自身见证。并且非随时在线的用户，在离线时记录当前区块高度i，当下次登录时向其他完整节点请求同步序号i至最新的区块，并更新自身见证。
+
+上述两种情况与传统无累加器区块链的生成速度如图3所示。
+
+![](images/5cabbb38c61be1b15baeac09b89343dfa36a6b87a114415cad8805f81ab92a4c.jpg)  
+图2单步验证时间对比
+
+![](images/d4269bc13a1833903934a81f10143f081f2ea1a3cdb0205f098b4001b699d942.jpg)  
+图3不同方法下构建区块链所需时间对比
+
+图3说明了引入累加器后，若需矿工维护所有节点见证，则耗时以非线性增长，设当前区块链长度为 $\mathfrak { n }$ ，则矿工须比不维护其他节点见证时多做 $1 + 2 + \cdots + ( n - 1 ) = { \frac { n ( n - 1 ) } { 2 } }$ 次见证更新运算。而无需计算其它节点见证的情况下，各节点每生成一个区块，比传统方法多做一步累加器求值运算，耗时曲线与传统方法接近重合，说明各节点维护自身见证，不会影响完整节点的计算量。最后，在实际情况中，采用至少 $1 0 2 4 { \mathrm { b i t } }$ 的模数保证强RSA假设下累加器的安全性，需要实验证明模数规模较大的情况下仍能保证系统效率。
+
+![](images/f87ea63504a4df3471567d01e81796f6ef2ee7b7fb1af1c4e41c5f7b1a9aa41a.jpg)  
+图4不同规模模数下的单步认证时间
+
+图4说明了随着模数变大，用户的单步认证时间成非线性增长，但当模超过1024bit（约十进制308位）时，仍为毫秒级，对于普通用户处于完全可接受的范围。
+
+![](images/5c705c1b750a8e6e88fa9611a08bccb46fd99c5ac9a78a8d4d63e9fb3746841c.jpg)  
+图5不同模数下两种方法的区块链构建时间
+
+将 $N$ 改为符合前文条件的十进制320位正整数，再次进行区块链构建实验，并将结果与之前对比。如图5所示，采用方法1时，随着模数变大，区块链构建时间明显增大；而采用方法2时，矿工每构建一个区块，只需做更新累加值的运算，因模数变大而增加的计算量只会增加毫秒级的时间耗费，区块链构建时间与之前基本相同。
+
+由以上结果可见，本文引入密码累加器，并采用节点更新维护自身见证的认证方法中，用户的认证效率相较传统方法得到提升，并随区块链长度增加而不断提高；矿工在构建区块时的计算量相较传统方法增加不大，与PoW计算量相比可忽略不计；并且在为保证安全性增大模数时，系统仍具有很好的可用性。
+
+# 4 结束语
+
+近几年来比特币和各种竞争币受到了越来越多关注，而大多停留在数字货币的层面，作为底层技术，区块链的落地应用并不多。本文紧跟技术前沿，研究区块链在去中心化PKI上的应用并加以改进。首先深入分析研究了密码累加器的定义和作用原理，分析比较了主流累加器在不同评判标准下的特点。进一步引入密码累加器，尝试改进身份一公钥认证环节的效率，从而降低整个认证过程的时间和空间复杂度，根据不同累加器，可将传统身份一公钥查询和验证过程的时间复杂度从O(n)降为O(log(n))甚至O(1)。最后通过实验，验证了引入强 RSA假设的累加器后，身份一公钥对验证环节耗时为常数，密码累加器的运行算法具有正确性和有效性，大大提升了去中心化PKI在链上数据庞大时的验证效率。
+
+由于现有的强RSA假设累加器不具备强健性，在不存在可信管理者时有一定局限性，无法保证限门信息不被用于进行强制删除用户等不合法操作。在后续研究中可加以改进，采用基于抗碰撞哈希函数的类MerkleTree型等累加器，使系统具有更好的强健性。
+
+# 参考文献：
+
+[1]Garman C,Green M,Miers I.Decentralized anonymous credentials [C]/ Proc of Network and Distributed System Security Symposium.2014.   
+[2]Kulynych B,Isaakidis M,Troncoso C,et al.ClaimChain:decentralized public key infrastructure [J].arXiv preprint arXiv:17O7.O6279,2017.   
+[3]Anada H,Kawamoto J,Weng Jian,et al.Identity-embedding method for decentralizedpublic-keyinfrastructure[C]//ProcofInternational Conference on Trusted Systems.Cham: Springer,2O14:1-14.   
+[4]Morselli R,Bhattacharjee B,Katz J,et al.Keychains:a decentralized public-key infrastructure [R]. [S. 1.] $\because$ University of Maryland,College Park College Park United States,2006.   
+[5]Nakamoto S.Bitcoin: a peer-to-peer electronic cash system [J].Consulted, 2008.   
+[6]袁勇，王飞跃．区块链技术发展现状与展望[J]．自动化学报，2016,42 (4):481-494.(Yuan Yong,Wang Feiyue.Blockchain:the state of the art and future trends [J].ACTA automatica Sinica,2016,42(4): 481-494.)   
+[7]Miers I,Garman C,Green M,et al. Zerocoin: anonymous distributed e-cash from bitcoin [C]// Proc of IEEE Symposium on Security and Privacy. 2013: 397-411.   
+[8]Benaloh J,De Mare M. One-way accumulators: a decentralized alternative to digital signatures [C]//Proc ofWorkshop on the Theory and Application of of Cryptographic Techniques.Berlin: Springer,1993:274-285.   
+[9]Nyberg K.Commutativity in cryptography [C]// Proc of the 1st International Workshop on Functional Analysis at Trier University.[S.1.] : Walter de Gruyter& Co,1996:331-342.   
+[10] FazioN,NicolosiA. Cryptographicaccumulators:definitions, constructions and applications [J].Paper written for course at New York University: www.cs.nyu. edu//nicolosi//papers//ccumulators.pdf,2002.   
+[11] Baric N, Pfitzmann B.Collision-free accumulators and fail-stop signature schemes without trees [Cl// Proc of International Conference on the Theory and Applications of Cryptographic Techniques.Berlin: Springer,1997: 480-494.   
+[12] Camenisch J, Lysyanskaya A. Dynamic accumulators and application to efficient revocation of anonymouscredentials [C]// Proc of Annual International Cryptology Conference.Berlin: Springer, 20o2: 61-76.   
+[13]万国根，周世杰，秦志光．单向累计函数技术分析[J].计算机科学， 2005，32(8):57-59.(Wan Guogen, Zhou Shijie,Qin Zhiguang.An overview of the one-way accumulator technology [J]. Computer Science, 2005,32 (8): 57-59.)   
+[14] Camacho P,Hevia A，Kiwi M,et al.Strong accumulators from collision-resistant hashing [C]// Proc of International Conference on Information Security. Berlin: Springer, 2008: 471-486.   
+[15] Li Jiangtao,Li Ninghui,Xue Rui.Universal accumulators with efficient nonmembership proofs [C]// Proc of Applied Cryptography and Network Security. Berlin: Springer,20o7: 253-269.   
+[16] Au MH,Wu Qianhong,Susilo W,et al.Compact e-cash from bounded accumulator [C]//Proc of Cryptographers'Track at the RSA Conference. Berlin: Springer,2007: 178-195.   
+[17]陈泽文，王继林，黄继武，等.ACJT群签名方案中成员撤消的高效实现 [J]．软件学报,2005,16(1):151-157.(Chen Zewen,Wang Jilin,Huang Jiwu,et al. An efcient revocation algorithm in ACJT group signature [J]. Journal of Software,2005,17(1): 33-50.)   
+[18]邵奇峰，金澈清，张召，等．区块链技术：架构及进展[J].计算机学报, 2017:1-2O.(Shao Qifeng,Jin Cheqing,Zhang Zhao,et al.Blockchain technology:architecture and progress [J].Chinese Journal of Computers, 2017: 1-20. )   
+[19] Sasson E B,Chiesa A，Garman C,et al.Zerocash: decentralized anonymouspayments from bitcoin [Cl// Proc of IEEE Symposium on Security and Privacy. 2014: 459-474.

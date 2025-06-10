@@ -1,0 +1,305 @@
+# 冥想的安全性
+
+孙莎莎1 李小兵 2
+
+（1仲恺农业工程学院人文与社会科学学院，广州，510225)(²中山大学体育部，广州，510275）
+
+摘要 大量研究表明冥想有助于身心健康的维持与幸福感的提升，但与此同时，飞速发展的研究与实践却严重忽略了对其安全性的考察。目前，我们对冥想各群体（临床人群、修行人、正念冥想指导者、普通练习者及大学生等）不良反应的表现、影响因素及发生与转化机制等都知之甚少，目前国内该领域的研究尚属空白，这是迫切需要研究者和实践者重视和严肃对待的伦理问题。国外研究表明，总体而言，冥想不良反应率为 $8 . 3 \%$ （Farias et al.,2020）,表现在认知、感知觉、情感、躯体化、意志、自我意识与社会功能等7方面内容的不适或改变，严重的甚至出现自杀意念与行为；冥想不良反应的影响因素包括练习者、练习、关系及健康行为等4方面的内容（Lindahletal.,2017）。中国文化下本土化研究的开展以及冥想指导者胜任力等问题是未来研究的重要方向，分解设计、纵向设计与个人中心取向是重要的研究方法。
+
+关键词冥想，正念，安全性，不良反应，个人中心取向分类号
+
+# 1引言
+
+正念(mindfulness)作为一种广为人知的冥想(meditation)形式近些年来的研究与实践发展势头十分迅猛。如今，在北美，正念运动（mindfulness movement）已成为一项高达数十亿美元的产业，涉及的人员包括心理治疗师、心理医生、理疗师、营养师、教练、自助类畅销书作者、佛教徒，以及相关的正念冥想练习者等(Wilson,2017)。世界上许多医院、大学、企业甚至美国军队都设有正念中心，英国的卫生医疗系统免费提供正念课程，美国的一些保险公司可以支付正念干预的费用，这些干预通常会与其他的生理或心理疗法联合使用(Braun &McMahan,2017)。正念冥想研究在国内也已成为热点且发展迅速，各种相关的培训与干预也在广泛开展，涉及的领域包括临床、养育、教育、竞技体育及组织管理等（中国心理学会临床与咨询心理学专业委员会正念学组和中国心理卫生协会认知行为治疗专业委员会正念学组,2019)'。据 2019 年全球大健康研究机构(Global Wellness Institute,GWI)发布的数据，2018年静态运动（包括冥想、瑜伽、普拉提等）市场规模的排名中，中国以 $7 . 1 \%$ 的渗透率和58亿美元的市场规模排名第二，仅次于美国 $1 7 . 7 \%$ 的渗透率和104亿美元的市场规模(GWI,2019)。出乎意料的是，2018年中国冥想等静态运动课程领域是一个比健身等动态运动的市场渗透率更高、也比全球大部分区域更成熟的市场(GWI,20192)。
+
+以往研究者大多关注正念冥想的正向效应(Sparby,2017)。例如，正念冥想可辅助干预诸如慢性疼痛、高血压等躯体疾病，改善生理机能，改变大脑结构，提高专注力与记忆力，预防抑郁复发，缓解焦虑，改善情绪状态，提高癌症患者的生活质量及普通人群的幸福感等(Brown etal.,2007; Eberth & Sedlmeier,2012; Goyal et al., 2014; Grossman et al.,2004; Khouryet al.,2013;Mesmer-Magnus et al.,2017)，且研究经费下拨依据的也是这些可测量的正向结果(Braun& McMahan,2017)。然而，随着媒体、健康自助产业以及大众文化的介入，人们对正念冥想的热情与商业考量已经先于实证研究，致使正念冥想练习过程中的不良反应与潜在风险被有意无意地忽略了(Binder& Hjeltnes,2021)。Edelglass (2017)指出，当今学界对于正念的研究并非价值中立的，学界对于正念冥想作用的描述像是它在治疗领域内取得了某种胜利，它还被宣传为适合居家练习的自助心理工具，这种印象使得我们对它的质疑正慢慢消失。
+
+目前研究者对冥想安全性问题的关注还远远不够。一项涉及数十亿美元的产业，其干预方法的广泛推广，应该如同一种药物的上市，研究者也应当花相当的成本去探讨它的潜在风险，并明确告知练习者，这是临床及心理咨询实践中应该注意的一项非常重要的伦理规范一一首要无伤害原则的规定：如果不能保证起到正向的作用，起码应保证不对患者或练习者造成伤害（正念干预专家共识,2019）。数据表明，仅仅美国就有1800 万冥想者，在这种背景下，保守估计正念冥想不良反应的发生率只达到心理治疗 $5 \%$ 极端不良反应水平的话，也将是个重大问题，不仅只是正念冥想科学研究方面的问题，而且也是一个重大的公共卫生问题(Schlosser et al., 2019)。
+
+近些年来，国外一些研究者已经开始关注冥想的安全性问题，并指出冥想并不总是有益的。Farias 等人(2020)第一次对冥想不良反应做了系统性元分析，研究发现，在1975年\~2019年的 83篇文献中，共计涉及1102 名练习者的55项研究报告出至少一种类型的不良反应。
+
+Schlosser等人(2020)的一项大规模横断面在线研究结果表明， $2 5 . 6 \%$ 的长期冥想者报告了冥想相关的不愉快体验。Pauly等人(2022)针对1370 名长期冥想者的研究与 Schlosser等人(2020)研究结果一致， $22 \%$ 的冥想者报告了出冥想相关的不愉快体验， $13 \%$ 的冥想者报告了冥想相关的不良反应。Lambert等人(2021)综述了涉及非临床一般人群冥想不良反应的19项观察性研究、9项实验研究和11项个案研究，发现冥想的不良反应包括抑郁、焦虑、自我感的扭曲、不真实感、幻觉、妄想、错误记忆等。
+
+在文献中，冥想的安全性问题被表述为不良反应事件(adverse events,Farias et al.,2020)不良反应(adverse effects,Analayo,2019; Lambert et al.,2021)、弊端(Anderson et al.,2019)、不良体验(unwanted experiences,Cebolla et al., 2017)、不愉快体验(unpleasant experiences,Schlosser et al.,2019)、困难(difficulties,Schlosser et al.,2019)及挑战(challenges,Lindahl et al.,2017;2020;Lomas et al.,2015)等。鉴于目前本领域的研究在国内尚属空白，国外研究也才处于报告冥想不良反应表现与发生率的起步阶段，我们暂时还无法对冥想的不良反应进行明确的概念界定，甚至无法确定某些体验是否算得上是不良反应。例如，冥想练习需要投入时间练习，时间方面的压力是由冥想练习直接导致的，要不要把这一点纳入不良反应？再如，随着冥想练习的持续，没有出现预期的改变，这种付出-回报的不平衡是否算得上不良反应？这两个问题被 Anderson 等人(2019)认为是冥想的弊端。又如，随着冥想练习的深入，可能出现认知的改变或者自我感的变化，对某些人来说可能是个人成长，对某些人来说则可能是压力，尤其当练习者还没有准备好应对这些变化的时候。本研究的目的之一是引起冥想研究与实践领域的同行对冥想安全性问题的关注，以最大限度地保证练习者的安全练习。不少研究者也指出，冥想的不良反应是被低估的(Lambert et al.,2021;Wong et al.,2018)。因此，本文将从最宽泛的意义上来界定冥想的不良反应：与冥想相关的任何意料之外的或令人感到不适的或带来实际伤害或潜在危害的身心体验、压力以及困惑等。本段开头文献中提到的相关概念都将纳入本文的研究。
+
+关于冥想，本文也从最宽泛的角度来进行探讨。Lambert等人(2021)指出，冥想起源于印度教、道教、佛教及其他具有内观(contemplation)传统的体系，已经延续了数千年之久。冥想指一系列调整注意焦点、向内观照心理活动的练习(Lambert et al.,2021)，可略分为聚焦注意(focused attention)、开放监控(open monitoring)、慈心禅(loving-kindness)、念咒(mantrarepetition)及其他形式；其中，正念为开放监控的冥想形式(Brandmeyer et al.,2019)。因此，本研究将正念作为冥想的一种形式进行讨论。
+
+本研究还将涉及一个概念——闭关(retreat)，也被称为“静修”或“静修营”，指一段时间内如一整天、几天、几十天甚至持续若干年的密集式冥想训练，以培养练习者稳定的觉知力、专注力与洞察力。正念减压疗法(mindfulness-based stress reduction,MBSR)与正念认知疗法(mindfulness-based cognitive therapy,MBCT)师资认证条件之一就是要参加由资深正念指导者带领的不少于5天的静修练习。常规8周MBSR训练过程中会有1天的正念日，通常放在第6周进行，也算是静修的一种形式。在汉传佛教的修行传统中，每年有35天的“禅七”活动，还有专门的闭关房供僧人常年闭关。
+
+# 2冥想不良反应率及表现
+
+# 2.1冥想不良反应率
+
+冥想不良反应的表现及发生率直接反映冥想安全性问题的严重程度，是本领域首先需要搞清楚的问题。Farias 等人(2020)对冥想不良反应的系统性综述研究结果发现，83项研究中，有 55项报告了至少一种不良反应，占比 $65 \%$ ；总体而言，冥想的不良反应率为 $8 . 3 \%$ ，这个数值与心理治疗总体不良反应率一致。值得注意的是，研究设计影响冥想不良反应率的报告，Farias 等人(2020)的研究中，实验研究报告出的冥想不良反应率为 $3 . 7 \%$ ，观察性研究报告出的冥想不良反应率为 $3 3 . 2 \%$ ，个案研究因其研究目的就是探讨冥想的不良反应，因而31项研究全部报告了冥想的不良反应。Wong等人(2018)对以正念为基础的干预(Mindfulness-Based Interventions,MBIs)随机对照研究进行综述，发现只有不到 $20 \%$ 的研究会涉及或者报告正念的不良反应，在涉及不良反应的36项研究中，正念的不良反应率为 $1 \%$ 。而正如Wong 等人(2018)及其他研究者指出的，由于随机对照研究设计通常用来对比干预组与对照组在正向效应方面的不同，不良反应通常不会被系统研究，而是会被漏报(Farias et al,2020;Zorzela etal.,2014)，因而正念的不良反应率应该远高于 $1 \%$ 的水平。Baer 等人(2019)对 MBIs不良反应的综述研究发现，文献中报告出的正念不良反应率为 $0 { \sim } 1 0 . 6 \%$ 。
+
+实证研究方面，Cebolla等人(2017)在线调查了342名有着2个月以上练习经验的冥想者的体验，结果发现， $2 5 . 4 \%$ 的冥想者（87人）报告出了抑郁、焦虑、疼痛等不良反应， $1 \%$ 的冥想者最终不再继续冥想活动， $5 . 7 \%$ 的冥想者报告寻求过专业的心理治疗。Schlosser 等人(2019)在线调查了1,232名练习经验长于2个月的冥想者，结果发现， $2 5 . 6 \%$ 的冥想者（315人）报告了不愉快体验。与Cebolla 等人(2017)和 Schlosser 等人(2019)研究结果一致，Pauly等人(2022)发现，1370 名定期冥想者中 $22 \%$ 报告了不愉快体验。Baer等人(2021)通过问卷和开放式问题了解84名高校教师与74名大学生在8周MBCT课程中的体验以及训练前后的变化。结果发现，两个群体中均有约2/3的练习者报告出不愉快体验；被试对开放式问题的回答表明，受到MBCT课程伤害的人数比例为 $3 \text{‰}$ ；问卷结果显示， $2 \sim 7 \%$ 的人受到了伤害。在较早的一项研究中，Shapiro (1992)记录了27名长期冥想者在一次闭关前及闭关后一个月与六个月后的体验， $6 2 . 9 \%$ 的冥想者（17人）报告了不良反应。Lomas 等人(2015)对 30名男性佛教徒冥想体验的质性研究结果发现，在他们的研究中， $100 \%$ 的佛教徒宣称冥想具有挑战性，在冥想过程中会遇到困难、不愉快的想法与情绪等； $2 5 \%$ 的佛教徒反映冥想中存在的各种问题； $20 \%$ 报告冥想中出现不真实的感觉； $7 \%$ 曾因冥想住院，其中1人还出现过自杀意念。
+
+由上可见，冥想的不良反应并非偶然事件，在对冥想不良反应进行记录或测量的研究中，均有不良反应率的报告，且不良反应的发生率并不低。无论是有着冥想传统的佛教徒群体，还是世俗的冥想练习者，均报告了冥想的不良反应。冥想不良反应的报告率受研究设计的影响，个案研究 $100 \%$ 报告冥想的不良反应，观察性研究报告的不良反应率通常高于实验研究。鉴于目前本领域研究的异质性（研究群体、研究方法等均不同），我们暂时还无法得出冥想不良反应率相对准确的数值。Farias 等人(2020)对83项研究进行元分析得出冥想不良反应率总体为 $8 . 3 \%$ ，是目前来说较为权威的数据。
+
+除了冥想的不良反应率，还有个数据间接反映冥想可能存在的问题，即冥想课程的脱落率。正如研究者所指出的，冥想可能并不适合每一个人，也并不是对所有人都有益，甚至会对某些人造成压力(Farias et al.,2016; Binder& Hjeltnes,2021)。Crane 和 Wiliams (2010)观察到，在一次正念训练课程的导论课结束后，参与者的脱落率高达 $30 \%$ ，而在课程结束后又多少人停止练习，我们不得而知。较高的脱落率是冥想及心理咨询/治疗常见的现象，然而研究者对这个问题的关注也非常不充分。系统地探讨哪些原因导致参与者无法继续练习或者练习者中途退出练习，将有助于我们进一步了解冥想对哪些人更适用，冥想对不同人的不同影响，以及冥想不良反应产生的原因等；从实践角度来讲，也能够事先提醒新手练习者以及居家在线练习者规避某些风险，从而保证他们的安全练习。国外目前也缺少对排斥冥想或冥想困难以及中途退出冥想的练习者原因的考察。
+
+# 2.2冥想不良反应的表现与分类
+
+近年来，国外研究者开始尝试对冥想不良反应进行分类，其中美国布朗大学Lindahl团队的“冥想多样性体验”项目(Varities of Contemplative Expereiences Project,VCE,Lindahl etal.,2017)开启了对冥想不良反应进行分类的先河。Lindahl等人(2017)对60名佛教徒进行访谈，并对访谈内容进行编码分析，最终将冥想不良反应的表现编码为7大类涉及59小类，
+
+具体内容包括： $\textcircled{1}$ 认知类，包括世界观改变、非理性信念、心理活动暂停等11小类； $\textcircled{2}$ 感知觉类，包括出现幻觉、看到光、感知觉变得更为敏感等7小类； $\textcircled{3}$ 情感类，包括焦虑、抑郁、惊恐、大哭大笑、自杀意念等13小类； $\textcircled{4}$ 躯体化类，包括身体能量、睡眠、食欲或体重、呼吸等方面的变化，共计15小类； $\textcircled{5}$ 意志(Conative)类，包括动机或目标的改变、心力的变化或丧失目标与动力等3小类； $\textcircled{6}$ 自我意识类，包括自他边界的变化、自主意识的缺失等6小类；以及 $\textcircled{7}$ 社会功能类，包括社会交往障碍、闭关或密集训练后难以重新融入、与冥想团体关系发生变化等5小类（详见表1）。Pauly 等人(2022)涉及1270 名冥想练习者不良体验的研究沿用了Lindahl等人(2017)的分类方式。
+
+Anderson等人(2019)运用扎根理论的方法对270名正在冥想或者之前有过冥想经验的人进行调查，将冥想的弊端分为时间成本、学习曲线（进步缓慢，看不到成效）、负性情绪及心理状态、社会与人际退缩、造成压力的个人变化、健康状况恶化、严重不良反应（包括自杀意念、幻觉或其他精神病性症状）等类别。Anderson 等人(2019)同时也对冥想的益处进行了调查与分类，并将冥想的益处与弊端交叉与不交叉的内容做了总结。其中，既可能是益处、又可能是弊端的内容包括情绪与情感、个人变化、健康管理及人际互动等4个方面的内容。例如，冥想中出现自我概念或者世界观方面的变化，对某些人来说可能意味着成长，对另外一些人来说则可能意味着压力；而时间成本、学习曲线（进步缓慢，看不到成效）、严重不良反应（包括自杀意念、幻觉或其他精神病性症状）则毫无疑问带来的都是负面影响。Anderson 等人(2019)对冥想益处与弊端交叉内容的梳理将有助于指导者与练习者对这些交叉内容进行重新建构，以将负向内容转化为正向。
+
+Farias 等人(2020)对83项涉及冥想不良反应的研究进行了综述与元分析，将冥想不良反应分为认知神经类、精神病性与躯体化表现3大类；具体又可以分为自杀行为、胃肠问题、人格解离、恐惧与惊恐、创伤体验复现、疼痛、妄想、幻觉、压力或紧张、认知异常、抑郁、焦虑等12小类的内容。
+
+综上，Lindahl等人(2017)、Anderson 等人(2019)以及Farias 等人(2020)的研究各自依照不同的标准对冥想不良反应进行了较为明确的分类，不仅包含一阶具体表现的内容，还有二阶高阶因子的分类。
+
+其他研究者对冥想不良反应的具体描述或分类主要停留在一阶具体表现的内容上，几乎所有研究都涉及的内容包括焦虑、抑郁等负性情绪以及情绪不稳定、疲劳、疼痛、创伤体验复现等，失眠、人际关系方面的压力等也是较为常见的冥想不良反应的表现。
+
+近5年来国外研究中冥想不良反应的表现与分类详见表1。
+
+表1近5年来国外研究中冥想不良反应的表现与分类  
+
+<html><body><table><tr><td>研究描述</td><td>冥想类型</td><td>不良反应表现与分类</td></tr><tr><td></td><td></td><td>Ceboll 等人2017)，在线调查，342身体扫描、聚焦注意、开放监控、焦虑（包括惊恐发作）、疼痛（胃疼、头疼、肌肉痛、晕眩等）、人格解离或现实感丧失、轻躁狂或抑</td></tr><tr><td>名冥想时长超过两个月的普通人群念咒、瑜伽及其他</td><td></td><td>郁症状、情绪不稳定、视觉聚焦问题、意识丧失或昏沉及其他</td></tr><tr><td></td><td></td><td>Lindahl等人(2017），以质性研究为身体扫描、聚焦注意、开放监控、7大类59小类，①认知类，包括世界观改变、非理性信念、心理活动暂停等11小类；②感知觉类，包</td></tr><tr><td></td><td></td><td>主的混合方法研究，60名佛教徒念咒、数息、坐禅、观想、大圆满括出现幻觉、看到光、感知觉变得更为敏感等7小类；③情感类，包括焦虑、抑郁、惊恐、大哭大笑、</td></tr><tr><td></td><td></td><td>或大手印、慈心禅、四加行及其他自杀意念等13小类；④躯体化类，包括身体能量、睡眠、食欲或体重、呼吸等方面的变化，共计15 小</td></tr><tr><td></td><td></td><td>类；③意志(Conative)类，包括动机或目标的改变、心力的变化或丧失目标与动力等3小类；③自我意识</td></tr><tr><td></td><td></td><td>类，包括自他边界的变化、自主意识的缺失等6小类；以及⑦社会功能类，包括社会交往障碍、闭关或</td></tr><tr><td>Wong等人(2018)，元分析，36项MBSR，MBCT</td><td></td><td>密集训练后难以重新融入、与冥想团体关系发生变化等5小类。</td></tr><tr><td>MBIs 随机对照研究</td><td></td><td>疲劳、愤怒、焦虑、忧虑、嗜睡、睡眠崩解、头痛、肌肉酸痛、昏沉、气短、年轻人之间发生争斗等</td></tr><tr><td></td><td></td><td>Anderson等人(2019)，扎根理论，正念、内观、坐禅、观呼吸、各类时间成本、学习曲线（进步缓慢，看不到成效）、负性情绪及心理状态、社会与人际退缩、造成压力的</td></tr><tr><td>270 名正在冥想及之前冥想过的人个性化冥想方法及其他</td><td></td><td></td></tr><tr><td></td><td></td><td>个人变化、健康状况恶化、严重不良反应（包括自杀意念、幻觉或其他精神病性症状)</td></tr><tr><td>83项研究</td><td>宗等冥想法，慈心禅，观想，数息，创伤体验复现、疼痛、妄想、幻觉、压力或紧张、认知异常、抑郁、焦虑等</td><td>Farias等人(2020)，综述与元分析，MBIs，基督教、印度教、日本禅3大类：认知神经类、精神病性表现与躯体类；12小类：自杀行为、胃肠问题、人格解离、恐惧与惊恐、</td></tr></table></body></html>
+
+<html><body><table><tr><td>Briton等人(2021)，问卷法，96名MBCT</td><td></td><td>执行功能异常、现实感丧失、失眠、情绪迟钝、社会功能损害、看见光、焦虑与惊恐、时空感扭曲、创</td></tr><tr><td>参加8周MBCT课程的被试</td><td></td><td>伤体验复现</td></tr><tr><td></td><td></td><td>Lambert等人(2021)，综述，39项搜索关键词为“正念”“冥想”与情绪或情感困难，包括抑郁、焦虑、恐惧、情绪或情感迟钝、情绪不稳定等；时间压力；创伤体验复现；</td></tr><tr><td>研究</td><td>“禅宗”</td><td>能量在指导者与练习者之间或团体成员之间转移；离体体验；道德感变化；错误记忆；妄想、幻觉等</td></tr><tr><td>Baer等人(2021)，问卷法，84名教MBCT</td><td></td><td>不愉快的情绪、观念与感觉，包括焦虑、疲劳、昏沉、练习带来的时间压力、重新唤醒的记忆带来的压</td></tr><tr><td>师与74名大学生</td><td></td><td>力、肩颈紧张、练习中原有疼痛加剧、惊恐发作或呼吸困难；对正念练习本身的负性想法或感觉，包括</td></tr><tr><td></td><td></td><td>不做练习带来的内疚感与压力、没能正确掌握练习方法带来的压力等</td></tr><tr><td></td><td></td><td>Pauly 等人(2022)，大规模在线调注意类，如观呼吸；建构类，如慈认知、知觉、情感、躯体感受、意志、自我感、社会等7类不愉快体验2</td></tr></table></body></html>
+
+注：B疗法。
+
+1参考自Dah等人(2015)的研究
+
+2参考自Lindahl等人(2017)的研究
+
+另外值得注意的是，在佛教徒的修行过程中，遇到各种各样的挑战也是比较常见的。佛教对于冥想安全性的认识与界定有另外一套体系。在佛教，冥想被视为需要全然专注/禅定(perfect concentration)与开悟(supernatural insight)的解脱方法(Ahn,2021)，冥想过程中妨碍禅定修行的一切妄念或者由于冥想方法不当引发的身心疾病或显著障碍都称为“禅病”(meditation sickness)。最常见的两种禅病为： $\textcircled{1}$ 贪、嗔、痴、慢、疑五毒，阻碍禅定修行，分散人的注意力； $\textcircled{2}$ 空病(emptiness sickness)，认为可以达到一种思维停止、绝对空寂的状态，这种观念阻碍开悟。另外不能从冥想过程中清醒，以及冥想过程中出现幻觉、恐惧、抑郁、昏沉、掉举、身体过冷过热等现象都属于禅病(Ahn,2021)
+
+冥想之于佛教修行的意义在于培育智慧，最终获得解脱；之于心理学等临床应用领域的意义在于疗愈疾病、维持并提升身心健康与幸福感。在不同的语境下探讨冥想的不良反应可能会得到非常不一样的结果。表1中所涉及的研究全部是以心理学的视角进行的探讨，虽然也有对佛教徒的深入访谈，但如果研究理论与框架不能超越心理学而涉及佛教冥想在于解脱的目的，可能会限制佛教徒对这个问题的回答，无法全面反映冥想的不良反应与安全性问题所涵盖的更为丰富的内容。因此，在这个问题上，以人群及语境（日常、心理学或佛学）进行区分来探讨冥想的不良反应是未来研究特别需要注意的一个问题。
+
+# 3冥想不良反应的影响因素
+
+对冥想不良反应影响因素的探讨，有助于为冥想的安全练习提供依据和保障。如上文提到的，冥想不良反应报告率除了受研究设计（包括是否对不良反应进行测量及具体的研究设计如实验法、观察法、问卷法或个案法等）的影响，练习者自身、练习相关因素、练习中的团体关系与指导者-练习者关系等是更为根本的影响因素。Lindahl等人(2017)将冥想不良反应的影响因素归纳为练习相关、关系相关、练习者相关及健康行为相关等四方面，是目前所见为数不多讨论正念冥想不良反应影响因素的文献之一。本部分以Lindahl等人(2017)的框架为基础，结合其他文献对冥想不良反应的影响因素进行综述。由于冥想的内观性质以及心理活动的复杂性，练习者常常很难保证自身的安全练习，这也是佛教修行特别强调师承的原因所在。本文认为目前阶段冥想指导者及指导者-练习者关系是保障冥想安全练习的最为直接的突破口，因此本部分将重点讨论冥想指导者因素与指导者-练习者关系因素对冥想不良反应的影响。
+
+# 3.1练习者相关影响因素
+
+练习者相关影响因素包括练习者的世界观或解释框架、意图/动机/目标、人格、精神病
+
+史、创伤经历、其他方面的病史、身份等7方面内容(Lindahl etal.;2017)。以下从精神病史、创伤经历、人格、性别及宗教信仰等方面进行讨论。
+
+# 3.1.1精神病史的影响
+
+精神病史是冥想不良反应重大的风险性因素。不少个案报告中指出，先前被诊断为心理障碍的练习者在冥想时会感到焦躁不安(Chan-Ob& Boonyanaruthee,1999; Disayavanish &Disayavanish,1984; Sethi & Bhargava,2003)。Lindahl等人(2017)研究表明， $8 8 \%$ 的佛教徒认为精神病史是冥想过程中遇到挑战的风险因素；Lomas等人(2015)研究发现，先前存在的抑郁与焦虑在冥想过程中会被放大；Pauly等人(2022)研究发现，先前有过精神病史的练习者更容易报告出冥想的不愉快体验，且这些不愉快体验的强度更大。研究者指出，冥想使得那些易感人群更加觉察到自己的情绪、感受与想法(Morone etal.,2017)，对于先前有精神病史的人群，觉察力的提高好像并不是冥想不良反应的保护性因素(Pauly et al.,2022)。MBIs尤其是MBCT，已于2004年被英国国家健康与临床质量管理机构(National Institute for Health andClinical Excellence,NICE)4列为最有效的预防复发和再发的工具(NICE guidance,2009)，类似的信息与相关研究会使人误认为正念疗法或者冥想对防止抑郁症的复发有奇效。然而很多MBIs在招募成员入组时都会有明确的排除标准，通常包括药物依赖、自杀倾向、PTSD、重度抑郁、重度焦虑、近期丧亲、离婚及其他个人危机等(Kuyken et al.,2012; Stantorelli et al,2017)。本文作者在国内某佛学院做调研时曾询问过教务长，如遇僧人在修行过程中出现精神病复发或发作等状况，寺院如何处理，教务长告知寺院的处理方法首先也是要将患者送往医院进行治疗。由此可见，MBIs或者佛教的修行，对待有精神病史的练习者都持有更加谨慎的态度，以最大程度上保证练习者或僧人的安全。
+
+# 3.1.2创伤经历的影响
+
+不少研究报告了冥想过程中创伤体验的重新激活。例如，Miller(1993)的一项研究报告了3个童年期遭遇过性侵的案例，在冥想时被压抑的创伤性体验重新浮现。Lindal等人(2017)研究也表明， $54 \%$ 的佛教徒报告出冥想过程中重新体验到创伤经历；Britton等人(2021)研究也报告，参加8周MBCT课程的练习者中有人体验到创伤经验的复现。为什么冥想会重新激活创伤体验？Ataria(2018)解释到，失控的感觉可能使练习者将创伤体验与冥想联系起来。Treleaven(2018)指出，尽管不是冥想直接导致了创伤，但如果在进行练习之前没有对创伤有充分的认识，在练习过程中很有可能会激活或加剧原本的创伤体验。
+
+怎样看待并处理那些在冥想中重新激活的创伤体验，是研究者与实践者需要进一步探究的问题。Miller(1993)研究中的遭遇过性侵的3名案主表示，冥想中重新浮现的创伤体验可能是成长与疗愈过程的一个必然经历，她们并不后悔参加冥想，尽管会经历强烈的痛苦体验，她们还是选择继续冥想。由此可见，对练习体验的反应以及练习者的解释框架，不仅影响练习者如何看待与应对练习过程中出现的不良反应，还会影响后续的练习乃至个人的进一步成长与疗愈。
+
+# 3.1.3人格因素的影响
+
+关于人格的影响，目前只有为数不多的研究对这个问题有所涉及。Schlosser等人(2019,2020)研究发现，习惯性负性思维与冥想不良反应正相关；Pauly等人(2022)发现，大五人格中的神经质与冥想不良反应正相关。Morone等人(2017)指出，对于那些高焦虑或高抑郁的冥想者来说，长期坚持规律的练习确实有助于改善症状，但如果缺少系统、到位的指导的话，又可能会增加不愉快体验发生的可能性。
+
+今后的研究需要继续探讨人格因素对冥想不良反应的影响，这个问题从侧面也说明了冥想可能并不适用于每个人，不是所有人都能从冥想中获益。对这个问题的深入探讨能够进一步搞清楚哪些人格特征的人更（不）适合进行冥想练习，哪些人格特征的人更容易从冥想中获益。
+
+# 3.1.4性别的影响
+
+关于性别的影响，有研究表明，男性从冥想中获益更少，报告出更多的不愉快体验(Kanget al.,2018;Rojiani etal.,2017)。Lomas等人(2015)从情绪调节的角度解释这一现象，因为在情绪的体验、表达及困难情绪的加工与处理等方面确实存在着很大的性别差异，男性体验到更多的情绪调节困难(Addis,2008)。
+
+总体而言，关于这方面的研究，基于横断面的研究证据还比较薄弱，后续需要进一步探讨。
+
+# 3.1.5宗教信仰的影响
+
+关于宗教信仰的影响，主要来自于对佛教徒的研究，研究显示佛教徒较少地报告冥想过程中的不愉快体验(Dein & Littewood,2011; Koenig,2009; Menezes,& Moreira-Almeida,2010)。对此研究者有两种解释，一种解释是佛教徒更可能拥有更为一致的世界观而不是冲突的世界观，且佛教修行的系统理论与实践也有助于保障他们的安全练习(Schlosser et al.,2019)；另一种解释是，佛教徒可能认为报告出不好的体验是污名化的，不愉快的体验将会威胁到他们的宗教或文化定位，甚至导致他们离开这个宗教或团体(Cinnirella,&Loewenthal,
+
+1999; Lindahl et al., 2017; Vanderkooi, 1997)。
+
+国内佛教徒以及佛教信众数量众多，他们在修行过程中所遇到的挑战与不良反应以及安全练习方面的保障等，可以推进冥想安全性方面的本土化研究，并为世俗正念/冥想的练习提供借鉴。
+
+# 3.2练习相关影响因素
+
+练习相关因素包括练习时长/强度/连贯性、练习途径、练习方法以及练习所处阶段等方面的内容(Lindahletal.;2017)。以下从练习时长、时机、强度及方法等方面进行讨论。
+
+# 3.2.1练习时长的影响
+
+关于练习时长的影响，可以从单次练习的时长以及练习的年限两方面进行探讨。关于单次练习的时长，Cebolla等人(2017)指出不想要的体验更倾向于发生在长于40分钟的长时间冥想过程；Lindahl等人(2017)也指出，超过3/4的冥想者报告每天冥想多于1小时在冥想初期会出现一些困难。关于练习年限，虽然研究没有明确指出这一点，但从以往研究中可以看出，如果将一生的长度作为考察期限的话，冥想者在练习过程中必然会遇到某些不愉快的体验(Farias et al.,2020; Lindahl et al.,2017)。Ferrarelli等人(2013)研究表明，长期冥想者比从未有过冥想经验的人在非快速眼动睡眠时顶枕叶γ波活动更强，表明他们的睡眠质量更差；结果还发现，长期冥想者大脑皮层激活程度与终生练习时长成正比。Cebolla等人(2017)研究中$2 5 . 4 \%$ 的冥想者表示曾经历过不良反应，但多数不良反应都是比较短暂的，并不会致使他们中断练习。
+
+综上可以推测，练习时长对冥想体验的影响，可能受练习者人格、解释框架及既往经历等因素的影响，这些因素如何相互作用并最终影响冥想体验需要进一步研究的探讨。
+
+# 3.2.2练习时机的影响
+
+与练习时长相关的一个因素是练习时机。关于练习时机的问题，实证研究很少，研究者多表达的是自己的观点。Dobkin等人(2012)指出，当冥想时，个体更不太可能回避那些不愉快的情绪，这就需要个体在能够舒适地与不愉快体验共处之前做些调整与整合。而对于新手练习者，当剧烈的不良体验出现时，简单的正念冥想练习可能起不到什么效果，正如对一个化疗患者介绍正念，在觉察身心感受的过程中，患者的痛苦肯定是加剧的。Reynolds等人(2017)指出，短短几期90分钟的练习并不足以促成什么改变，专注于当下的觉察最好不要在紧急状况下引入，在紧急状况发生之前或之后引入比在事情发生过程中引入要好。像化疗这种具有挑战性的情境，正念冥想正向作用显现需要长期的训练，而不仅仅只是几期训练就能见效的，只有当冥想的理念和方法已经被熟练掌握，个体在面对高挑战情境时才可以充分发挥冥想的作用。Treleaven (2018)对这个问题的看法是，冥想正向作用的显现并不一定非得经由体验不良反应的过程。虽然回避不愉快体验可能会延长痛苦，但在能够掌控创伤之前，这也是一种智慧的生存优先的反应策略。简单地要求个体将更多的注意力置于不良反应之上，而不给与细致的指导，有可能让他们陷入更加痛苦的旋涡。
+
+Lindsay和Creswel(2017)提出注意监控与接纳理论(Monitor and Acceptance Theory,MAT)用于解释正念在减压、情绪调节等方面起效的机制，对于我们理解练习时机对正念冥想的影响也很有启发意义。MAT认为，通过提升对当下经验的觉知，注意监控可以提高个体的认知功能，同时也会唤醒记忆，增强个体的情感反应；通过调整个体与觉察到的体验之间的关系，接纳这种态度/技能则能降低个体的情感反应。研究进一步表明，注意监控与接纳共同作用时，才有益于身心健康；只训练注意监控能力而不训练接纳态度/能力的正念干预，在个体减压、提升正性情绪与社会关系质量等方面作用是大打折扣的(Britton etal.,2018;Williams et al.,2014; Lindsay et al.,2018; Lindsay& Creswell,2017; Lindsay et al.,2019)。由此可知，接纳这个成分是正念起效的关键机制。
+
+MAT能很好地解释正念冥想不良反应尤其是不良体验的发生，并预测不良体验的转化。当创伤体验或先前未处理好的抑郁、焦虑等情绪在正念冥想过程中浮现时，注意监控会使这些体验的强度变大，这种情况对于有精神病史的练习者更甚(Lomas et al.,2015; Pauly et al.,2022)；而随着接纳这种技能的习得，个体调整与这些体验之间的关系，从开始的对抗到最终的放下，这些不愉快体验的强度会慢慢降低，个体能够以更具适应性的方式看待并处理这些经验，由此获得疗愈与成长。简言之，根据MAT可以预测，正念冥想的不良反应往往发生于个体注意监控比较强而接纳态度/能力还没被培养起来之前，随着个体接纳态度/技能的习得，正念冥想的不良反应将获得转化，个体由此获得成长。
+
+MAT也能很好地回应Reynolds等人(2017)的观点，即正念练习最好不要在紧急的状况下引入。根据MAT，个体面对高挑战情境时（尤其是类似3.1.2部分讨论的创伤经历在冥想中重新激活的情况）想要充分发挥正念的作用，只有当正念的理念和方法，尤其是接纳的态度被熟练掌握之后，才有可能实现。
+
+# 3.2.3练习强度的影响
+
+关于练习强度的影响，研究者主要探讨闭关这种密集式冥想方式带来的影响。由于闭关过程中不受外界干扰，且全世界有着各种各样的静修营，因此比较受关注。Kornfield (1979)指出，近些年来有成千上万的冥想练习者会选择到某些静修营进行闭关，有些人在闭关过程中会精神病发作，其中绝大部分之前被诊断为患有精神疾病。Pauly等人(2022)研究表明，在闭关中更容易体验到不良反应且不良反应的强度更高。上述在讨论精神病史对冥想不良反应的影响时也提到，有精神病史的个体在参加密集式冥想训练时会体验到更强烈的负性情绪(Chan-Ob & Boonyanaruthee,1999; Disayavanish & Disayavanish,1984; Sethi & Bhargava,2003)。Engler(2003)根据心理动力学的原理解释为什么闭关时更容易诱发心理危机，是因为在密集式冥想过程中，由于心理审查机制(censorship)作用的弱化，平时很多被压抑、被隔离的心理内容与情感等在冥想时会重新浮现。
+
+如何看待并处理这一现象，密切关系到冥想练习者的练习，涉及冥想练习者与冥想指导者如何解释这一现象，指导者是否有足够的能力处理并应对类似的突发状况，以及各类正念冥想练习和静修营人群纳入与排除标准、知情同意、练习方法等内容设置方面的问题。
+
+# 3.2.4练习方法的影响
+
+关于练习方法的影响，研究表明，不同形式的冥想练习都有可能带来不良反应，如Farias等人(2020)和Lindahl等人(2017)研究中提到的各种止禅、观禅以及其多种他形式的方法。以往文献也指出诸如超觉静坐(Otis,2017)及气功(Shan,2000)等练习都可能带来不良反应。Analayo (2019)指出，冥想的潜在风险与不良反应并不能归咎于某种特定的练习方法，而是所有冥想方法的一个共性问题，这也是其他健康干预方法存在的共性问题。Baer等人(2019)指出，一些被证明有效的已经被固定沿用下来用于促进健康与幸福的方法如心理治疗、药物治疗及健身等，在实际应用过程中，练习者也有可能会遭遇严重的伤害或者导致身心状态的恶化。冥想作为一种干预手段，同样也会带来某些不良反应。
+
+具体就冥想的不同练习方法而言，有研究者按照冥想背后的认知机制将冥想方法分为注意式、建构式和解构式冥想三类(Dahlet al.,2015)。研究者指出解构式冥想比注意及建构式冥想更容易引发不愉快体验。具体而言，注意式冥想主要是训练将注意力维持在某种现象上，如正念呼吸等；建构式冥想主要培育正确的认知与情绪，最终目的是提升幸福感，如慈心禅等；而解构式冥想是要弱化或者消解掉练习者的内隐信念，这些信念是关于客体意识的固有的独立的存在，包括概念框架、观点及对自我、他人、世界及意识本身的认识等，如不净观等(Analayo,2019)。在佛教冥想的传统中，注意及建构式冥想是从认知与情感上为解构式冥想做准备的，以便在进行高强度解构式冥想遇到困难时使用(Dahl etal.,2015)。我们平时感知到的现象通常会被认为是恒久的、可以独立存在的，而解构式冥想直接从根本上挑战练习者平时看世界的方式，最终目的是要让练习者认识到“诸行无常、诸受是苦、诸法无我、涅槃寂静”等佛教所讲的世界观，是对练习者的世界观的颠覆，这种幻灭会给练习者带来极大的恐惧感，常见于通向开悟的练习初期阶段(Analayo,2019)。
+
+Dahl等人(2015)将冥想方法分为注意式、建构式和解构式的分类方式，对今后探讨冥想不良反应具有重要启发意义。在今后探讨冥想不良反应的相关问题时，练习者所应用的具体练习方法可以被归为注意式、建构式还是解构式中的哪一类，是首先需要明确的问题。
+
+# 3.3冥想指导者因素与关系相关影响因素
+
+这一部分是本文想要重点讨论的内容。正念/冥想被广泛宣传为可以居家练习的自助心理方法(Binder&Hjeltnes,2021; Edelglass,2017)，在正念/冥想的不良反应被充分探讨、形成规范的不良反应说明与知情同意之前，将其作为自助练习方法存在很大的安全隐患与风险Huberty等人(2019)对12,151名Calm冥想App用户的调查结果显示，超过 $40 \%$ 的用户是被确诊有心理健康问题的。MBIs课程对练习者有相对严格的纳入与排除标准（如Khoury et al,2017），可以在一定程度上保证练习者的安全练习，但基于App的自助练习则完全不受监控，练习者遇到问题时无法得到及时有效的指导与处理，其效果与安全性很难得到保证。Kornfield (2009)指出，冥想练习者需要来自关系的支持以维持长期而深入的练习；Treleaven(2018)指出，对于那些曾经历过创伤的练习者来说，来自有经验的治疗师或指导者的支持与指导则更为重要。目前关于各类冥想App，后台应尽早告知练习者冥想的潜在风险与不良反应，这种做法才更符合伦理规范，也才真正是对广大消费者负责的做法。
+
+本文认为诸如精神病史、创伤经历、人格、世界观与解释框架等练习者自身因素很难甚至根本无法改变，所以现阶段将冥想指导者因素与指导者-练习者关系因素作为突破口来探讨冥想安全练习问题更具有现实意义。
+
+# 3.3.1冥想指导者因素
+
+冥想指导者的因素主要涉及指导者的胜任力。冥想指导者胜任力主要包括共情能力、识别与理解练习者问题与严重问题的能力、熟知各类疗法/方法的进程与内容、熟知药物反应、与练习者建立同盟关系与控场能力等(Baer et al.,2019)。目前正念领域有MBCT-AS (theMBCT adherence scale, Segal, Teasdale, Williams, & Gemar, 2002)、MBRP-AV (Themindfulness-based relapse prevention adherence and competence scale, Chawla et al., 2010)和MBI-TAC(The MBI- Teaching Assessment Criteria, Crane et al.,2013)等问卷测量正念指导者的胜任力。多项研究表明冥想不良反应与指导者的胜任力有关(Baer et al.,2019;Lindahl et al.,2017,2020)。关于冥想指导者的胜任力问题，实践中应该坚持的最低原则即“首要无伤害原则”，是要避免来自指导者胜任力不足的“医源性”伤害(Lustyk etal.,2009)。
+
+在出现问题时，冥想指导者的受训背景影响他们如何看待练习者的问题以及最终的决策(Lindahl et al.,2019)。VanderKooi (1997)发现，有心理学训练背景的指导者在练习者出现问题时更倾向于让他们寻求专业的帮助；在练习者出现严重心理问题时，这些指导者不会强迫练习者去突破现有的状态，因为他们知道此时的强迫不仅无益于练习者的突破，反而可能引发更严重的问题。Lindahl等人(2017)以及Kaselionyte和Gumley (2017)研究发现，有临床受训背景的冥想指导者通常会承认他们在识别练习者不稳定状态方面的不足。Lindahl等人(2017)研究中的指导者报告，他们通常将难以识别的状态看做是有问题的。由此可见，在闭关中出现问题，是要将练习者送回家还是送到医院，不仅取决于练习者自身的体验，还与指导者的受训背景与经验等因素息息相关(Lindahl et al.,2019)
+
+值得注意的是，Lustyk等人(2009)将冥想的不良反应归类为身体、心理与灵性等三方面，并指出，即便有着良好受训背景的治疗师或者指导者也没有能力应对练习者出现的灵性方面的问题。关于练习者灵性方面深层次的问题乃至整个冥想安全性领域的相关问题，都需要心理学、心理咨询/心理治疗、医学与佛学等多学科间的跨学科合作去解释与阐明(Schlosser etal.,2019)。近些年来，佛学与心理学的对话也确实越来越多(Braun&McMahan,2017)。与“世俗正念”用以提升身心健康及幸福感的目标相比，佛学对身心合一超越性状态的追求，能够为世俗正念/冥想的练习提供文化、哲学等层面的保障及实修方面成体系有次第的指导，从而从更为根本的角度解决正念/冥想安全性问题(Thompson,2017)。
+
+Anderson等人(2019)针对冥想的各种弊端指出了指导者应注意的事项，主要包括： $\textcircled{1}$ 鉴于以往研究发现的冥想不良反应报告率在 $20 \%$ 左右，对于新手冥想者，应有明确知情同意告知他们这一点，这样做有助于新手冥想者对冥想不良反应有预期，并在以后的练习中可以识别并报告，也有助于指导者及时提供帮助(Anderson&Frab,2018)； $\textcircled{2}$ 对于练习者的时间压力问题，指导者需要协助练习者做好时间规划，并以此为契机训练练习者的自主性；另外练习“剂量-反应(dose-response)”的问题需要研究者进一步探讨。通常MBIs课程推荐每次练习时长为40\~60分钟，而Anderson等人(2019)的研究结果表明每天坚持20分钟的练习对于个体从冥想中获益是足够的。对练习时长与获益之间“剂量-反应”关系的深入探讨不仅有助于回应练习者时间压力方面的问题，还有助于进一步回答哪种练习方法需要多长的练习时间等问题，同时也有助于进一步揭示正念起效的机制。 $\textcircled{3}$ 对于冥想益处与弊端有交叉的内容如情绪与情感、个人变化、健康管理及人际互动等方面，指导者应该帮助练习者积极重构(reframing)这些内容的意义。例如，当练习者自我概念或世界观发生转变时，通常会感受到自我概念/世界观不稳定带来的压力，但指导者要让练习者意识到这同时也是个人成长与进步的表现，并协助练习者在这个过程中重新获得平衡(Anderson et al.,2019)。
+
+综上，冥想指导者的受训背景及胜任力等在保障练习者的安全练习方面有着重要的意义。今后的研究要继续深入探讨冥想指导者的胜任力包括哪些内容，同时关于冥想指导者胜任力对于各类冥想练习者的影响也应该有更多的研究去探明，以便我们更加了解行业现状，并在此基础上进一步制定更为规范的行业标准。
+
+# 3.3.2关系相关因素
+
+关系相关因素包括练习者与指导者之间关系、与练习团体成员间的关系、练习场所的环境、社会文化背景以及个体生命早期的人际关系等方面内容(Lindahletal.; 2017)。以下将从练习者个体生命早期的人际关系、练习者与指导者的关系、练习团体氛围以及社会文化背景等方面进行讨论。
+
+关于生命早期人际关系对冥想的影响，主要表现在两方面，一方面是负向的影响，如个体的精神病性的症状或创伤体验的出现；另一方面是正向的影响，支持性的早期人际关系对健康人格形成都会产生积极的影响(Lindahlet al.,2017)。由于冥想过程中团体成员间会产生较为强烈的连接感，生命早期的人际关系模式会在当前的关系中复现，进而在团体关系及冥想相关的人际体验间起调节作用，这个假设需要更多的研究去验证(Lindahletal.; 2017)。
+
+关于指导者与团体氛围的对冥想的影响，也分两个方面。Lindahl等人(2017)指出，冥想练习者与指导者的关系以及团体氛围带来两方面的影响：当指导者以及团体成员是支持的、互相帮助的以及相互理解的，会使练习者感受到较好的体验甚至有治愈作用；而当指导者与团体成员是缺席的、不相互帮助与相互理解的时候，是冥想的风险因素，甚至使冥想变得更为困难。Cebolla等人(2017)指出，团体带来的连接感能缓冲练习过程中不愉快体验。在Lindahl等人(2017)研究中，冥想1年以上的联想者特别强调指导者的重要性，他们认为，良好的互动关系及系统到位的指导是克服冥想困难的重要资源。
+
+社会文化背景对冥想的影响主要体现在以下方面。第一，有研究显示，冥想者体验到污名化或被隔离(Anderson et al.,2019;Lindahl et al.,2017)，在一定程度上取决于练习者所在文化对冥想或者冥想的接纳与包容程度；第二，某些冥想体验具有超自然的性质，能否将这些具有挑战性的体验与精神性症状区分开来，取决于这些体验是否具有文化嵌入性(culturalembeddedness)，即这些体验在宗教背景或者练习者所在其他文化背景中是否被认为是正常的(Lindahl et al.,2017; Taylor & Murray, 2012)。
+
+# 3.4健康行为相关影响因素
+
+健康行为相关因素包括心理治疗或药物治疗、饮食、其他药物、睡眠、劳作、娱乐性药物摄入、运动、保健（推拿、针灸等）等8方面的内容(Lindahl etal.,2017)。这些因素的个体差异非常大，目前的研究尚无法得出什么明确的结论，但其中有个一般性的保护性因素即规律性，无论是睡眠、劳作、饮食还是运动的规律性，从细胞生物学的角度来讲都能形成正则功能特异化信号转导通路(normal function-specific signal transduction pathway,NSP)，简称“正则化通路”。正则化通路形成之后，通路中的细胞不但可以抵抗细胞外的干扰，而且可以抵抗细胞内其他信号转导通路的激活，以维持细胞功能的稳定运行，进而维持人体活动的正常进行。正则化通路的形成是维持机体内稳态、保证身心健康的重要机制(刘承宜等人，2017)。
+
+# 4冥想安全性研究中存在的问题及未来研究方向
+
+毫无疑问，如火如荼的冥想研究与实践促进了人类身心健康及福祉的提升，甚至改变了人的思维模式（比如，由doing-行动模式向being-存在模式的转变），使人开始重新审视这种源于东方文化有益于人身心安顿的方法。但与此同时，冥想的安全性问题并没有得到充分的重视，甚至长期以来是被严重忽视的。本研究通过对以往文献冥想不良反应率与表现的梳理，发现冥想不良反应并非偶然事件。例如，Farias等人(2020)针对83项研究的一项系统元分析结果显示总体上冥想的不良反应率为 $8 . 3 \%$ ；近期几项大规模在线调查结果发现，冥想的不良反应率在 $20 \%$ 以上(Cebola et al.,2017; Pauly et al.,2022; Schlosser et al., 2019)。
+
+结合以往研究，本研究从最宽泛的意义上界定了冥想的不良反应，即与冥想相关的任何意料之外的或令人感到不适的或带来实际伤害或潜在危害的身心体验、压力以及困惑等（详见引言部分）。但根据MAT的预测，冥想不良反应尤其是个体过往未处理好的创伤体验及其他负性情绪等不良体验的发生，是注意监控增强的结果，而随着接纳技能的习得，这些不良反应可以得到转化，个体在这个过程中获得疗愈与成长。MAT对于我们理解正念冥想不良反应的发生并预测其转化等方面具有重要的指导意义，同时加深我们对正念起效作用机制的认识。研究者运用分解设计(Dismantling designs,Britton et al.,2018;Williams et al.,2014;Lindsay&Creswell,2019)将注意监控与接纳这两个成分有效分开，探讨正念在减压、情绪及社会关系调节方面起效的机制，结果发现，相比于同时训练注意监控与接纳两种技能，在只训练注意监控的条件下，正念所起的作用没那么明显。今后有必要在MAT的指导下，运用分解设计进一步探讨注意监控与接纳这两个成分在正念冥想不良反应发生与转化中的作用，搞清楚其中的机制，为我们深入理解正念起效的机制提供更多的依据。在这个研究的过程中，关于正念冥想不良反应的界定也会越来越清晰。
+
+本研究的主要目的在于通过对冥想不良反应及其影响因素的综述，引起相关领域研究者与实践者的关注，激发后续研究者对这个问题进行深入系统的研究，以最大程度地保障练习者的安全练习。由于目前关于冥想安全性/不良反应方面的研究全部基于西方人群，尚未见以东方人群为研究对象的研究，国内相关领域的研究还尚处于空白期，本文认为以下几点是国内研究者以及实践者可以考虑的方向。
+
+第一，冥想安全性问题的本土化研究，可以从两个层面展开。一，与西方研究对话，探讨国内不同群体（包括临床人群、修行人、正念冥想指导者、普通练习者及大学生等）冥想不良反应的表现、发生率、后果及影响因素等，对比东西方不同文化背景下是否有不同的表现以及有着怎样不同的表现，其发生机制是怎样的目前尚缺少关于冥想相关不良反应专门系统的临床指南，不过近年来已经有研究者开始了这方面的探索，例如，Britton (2019)列出了不同正念相关过程的适应症、禁忌症及潜在不良反应，MBSR与MBCT相关研究机构也已经起草了相关协议，告知练习者潜在的风险(Kuyken et al.,2012; Santoreli,2014)。本文认为有必要针对对不同群体形成更有针对性的冥想不良反应清单，以在招募学员或推出自助App时对用户进行详尽的知情同意，对学员和用户的安全负责。二，传统文化是内观的文化，是内求的文化，典籍中有丰富的内容可供参考。深入系统地探究儒释道传统文化中内观/静坐/冥想方法的有效性及其安全保障做法，可以通过研究典籍实现，也可以通过对儒释道三家人士的深入研究来实现。
+
+另外，鉴于MBIs相关的研究相对充分，MBIs文化适应性问题也是一个研究方向。西方研究者已经开始考虑如何应用并推广MBIs，2017年《Mindfulness》期刊有一期征稿，涉及的主题包括：MBIs的有效推广路径，在不同国家医疗系统应用推广MBIs的形式等(见Singh(2017) call for papers)。以往研究有探索心理治疗本土化带来的益处(Benish et al.,2011)，而MBIs文化适应性方面的研究还比较薄弱(Waldron etal.,2018)。
+
+第二，冥想指导者的胜任力，本文认为这是现阶段实现冥想安全练习的突破口。如本文3.3.1部分所探讨的，冥想指导者对练习者的安全练习具有重要的影响。关于这一领域有待进一步回答的问题包括，冥想指导者的胜任力应该包括哪些内容，冥想指导者的胜任力对练习者带来哪些影响，这些影响是如何发生的通过个体 $\times$ 关系因素对冥想后果多层次交互作用的探讨，有助于厘清冥想指导者对练习者产生影响的机制，以便于从指导者的层面保证冥想的安全练习。
+
+第三，研究方法方面，不少研究者力推基于个人中心的取向(Person-Centered Approach)研究(Lindahl etal.,2017,2019;Farias etal.,2020)。通常，随机对照研究设计是得出临床疗效因果关系的金标准，但也有研究者指出，在对某种药物或干预的负性效应及随后对这些效应进行解释方面，随机对照是并不是最好的方法(Dimidjian&Hollon,2010)。如本文第3部分所探讨的，冥想不良反应受练习者本人（包括精神病史、创伤经历、人格、性别、身份及解释框架等）、练习（练习时长、时机及强度等）、指导者与关系（包括指导者胜任力、练习者-指导者关系与团体氛围以及文化背景等）及健康行为等因素的影响，冥想的不良反应表现高度的多样性与复杂性，加之学界目前对冥想不良反应的探讨还处于描述现象的阶段，随机对照的研究设计在现阶段还不能很好地发挥它的作用。因此，研究者提出，基于个人中心取向的研究方法是现阶段比较适用的方法(Lindahl etal.,2017,2019;Farias et al.,2020)。个人中心取向的方法充分考虑并尊重个体的需求、自主性与能动性、潜能等，并在工作的过程中不断为其赋能(Kirmayer et al.,2016)，能够在个体出现冥想不良反应时，充分结合个体所处的社会、宗教、文化等背景对不良反应进行解释与应对。因此，个人在冥想/冥想这件事上所想要获得的健康、幸福与价值、意义等，最终取决于个体，而不是被他人假设或者强加(Lindahlet al.,2019)。这一取向的研究需要心理学与宗教学、人类学、社会学等的跨学科合作。
+
+另外，研究方法上，纵向设计对这一领域的研究也显得比较重要，可以通过对冥想者进行长期的追踪，深入探讨冥想不良反应的表现等问题，尤其是冥想不良反应是否可以转化；如果可以，可以的内容转化包括哪些，转化何时发生，在什么条件下发生等(Schlosser et al.,2019)。这些问题的回答有助于加深我们对冥想及人的心理活动规律的认识。
+
+上文所提到的MAT理论，对于探究冥想不良反应的发生与转化过程有重要的指导意义。今后可以通过实验组与对照组纵向追踪设计，运用分解设计(Britton etal.,2018;Williams etal.,2014;Lindsay& Creswell,2019)将正念中注意监控与接纳这两个成分分开来探讨正念在冥想不良反应转化过程中的作用，进一步厘清正念起效的机制。
+
+最后，重申一点，本文从最宽泛的角度探讨冥想以及冥想不良反应表现与发生率的问题，发现冥想不良反应的发生率并不低，总体为 $8 . 3 \%$ (Farias et al.,2020)。本文无意于抹杀冥想正向方面的作用，正如研究者所指出的，如果冥想的安全性问题能够被审慎对待，那么冥想不失为一种方法或至少是一种支持，可以让个体面对心理上的困境(Shonin etal.,2014; Poteset al.,2018)。本文也无意于引起恐慌，而是希望冥想相关领域的研究者与实践者能够对冥想安全性问题引起重视，对冥想的影响（包括益处与不良反应）有更为全面客观的认识。只有这样，才能随着研究的深入，更大程度上保证更多人的安全练习。
+
+致谢 非常感谢两位审稿专家给出的1600多字的修改意见，尤其是其中一位审稿专家提供了MAT理论的参考文献，使得本文有了理论基础，这也将是作者后续进一步研究的理论依据。
+
+# 参考文献
+
+刘承宜,朱玲,李方晖,刘延莹,段锐,张全光等人.(2017).自相似常数和定量差异及其在体育科学中的应用.体育   
+学刊,24(6),72-78.   
+中国心理学会临床与咨询心理学专业委员会正念学组，中国心理卫生协会认知行为治疗专业委员会正念学 组.(2019).正念干预专家共识．中华行为医学与脑科学杂志,28(9):771-777.   
+Addis,M. E. (2008). Gender and depresson in men. Clinical Psychology: Science and Practice,15(3),153-168.   
+Anderson, T.,& Farb,N.A. S.(2018). Personalising practice using preferences for meditation anchor modality. Frontiers in Psychology, 9,251.   
+Anderson,T., Suresh, M.,&Farb,N.A. (2019).Meditationbenefits and drawbacks: empirical codebook and implications for teaching. Journal of Cognitive Enhancement, 3(2),207-220.   
+Ahn, J. Y. (2021). Meditation sickness. In The Oxford Handbook of Meditation.   
+Analayo, B. (2019). The insight knowledge of fear and adverse efects of mindfulness Practices. Mindfulness, 10(10),2172-2185.   
+Baer,R., Crane, C.,Miler,E.,& Kuyken, W.(2O19).Doing no harm in mindfulnes-based programs: conceptual issues and empirical findings. Clinical Psychology Review,71,101-114.   
+Baer,R., Crane,C.,Montero-Marin,J., Philips,A.,Taylor,L.,Tickell,A.,& Kuyken,W. (2021).Frequencyof self-reported unpleasant events and harm in a mindfulnes-based program in two general population samples. Mindfulness, 12(3), 763-774.   
+Benish,S. G., Quintana,S.,& Wampold, B.E. (2011). Culturally adapted psychotherapy and the legitimacy of myth: a direct-comparison meta-analysis. Journal of Counseling Psychology, 58(3),279-289.   
+Binder,P.E.,& Hjeltnes,A. (2021). Mindfulness in psychotherapy and society-The need for combining enthusiasm and critical inquiry. Counselling and Psychotherapy Research, 21(2),247-250.   
+Brandmeyer,T.,Delorme,A.,& Wahbeh, H. (2019). The neuroscience of meditation: clasification, phenomenology, correlates,and mechanisms.Progress in brain research,244,1-29.   
+Braun,E.,& McMahan,D.(20l7).From colonialism to brainscans: Modern transformations of Buddhist meditation. In E. Braun,& D. McMahan (Eds.). Meditation, Buddhism, and Science (pp.1-20). New York: Oxford University Press.   
+Briton, W.B. (2019). Can mindfulnessbe too much ofa good thing? The value of a middle way. Current Opinion in Psychology,28,159-165.   
+Briton,W.B.,Davis,J.H.,Loucks,E.B.,Peterson,B.,Cullen,B.H.,Reuter,L.,..&Lindahl,J.R. (2018). Dismantling mindfulness-based cognitive therapy: Creation and validation of 8-week focused atention and open monitoring interventions within a 3-armed randomized controlled trial. Behaviour Research and Therapy,101,92-107.   
+Briton,W.B.,Lindahl, J.R., Cooper,D.J., Canby,N. K.,&Palitsky,R. (2021). Defining and measuring meditation-related adverse efects in mindfulness-based programs. Clinical Psychological Science, 9(6), 1185-1204.   
+Brown,K.W.,Ryan,R.M.,& Creswell,J.D.(2oo7).Mindfulness: theoretical foundations and evidence forits salutary effects. Psychological Inquiry, 18(4),211-237.   
+Chan-Ob T,Boonyanaruthee V. (1999). Meditation in association with psychosis. Journal of the Medical Association of Thailand, 82(9):925-930.   
+Cebola,A.,Demarzo,M.,Martins,P.,Soler,J.,& Garcia-Campayo,J.(2017). Unwanted effects: Is therea negative side of meditation? A multicentre survey. PLoS One,12(9), e0183137.   
+Cinnirella, M.,& Loewenthal, K.M. (1999). Religious and ethnic group influences onbeliefsabout mentaliless: A qualitative interview study. British Journal of Medical Psychology, 72(4),505-524.   
+Chawla,N., Colins,S.,Bowen, S.,Hsu,S., Grow, J.,Douglas,A.,& Marlat,A. (200). The mindfulness-based relapse prevention adherence and competence scale: Development, interrater reliability, and validity. Psychotherapy Research,20(4),388-397.   
+Crane,R.S.,Eames,C.,Kuyken,W.,Hastings,R.P., Wiliams,J.M.G.,Bartley,T.,..Surawy,C. (2013). Development and validation of the mindfulness-based interventions-teaching assessment criteria (MBI: TAC). Assessment, 20(6), 681-688.   
+Crane, C.,& Williams, J. M. G. (2010).Factors associated with atrition from mindfulness-based cognitive therapy in patients with a history of suicidal depression. Mindfulness,1(1),10-20.   
+Dahl CJ, Lutz A, Davidson RJ.(2015). Reconstructing and deconstructing the self: cognitive mechanisms in meditation practice. Trends in Cognitive Sciences,19(9):515-523.   
+Dein,S.,& Litlewood,R. (2o11).Religion and psychosis: A common evolutionary trajectory?.Transcultural Psychiatry, 48(3),318-335.   
+Dimidjian,S.,& Holon, S.D. (2010). How would we know if psychotherapy were harmful?. American Psychologist, 65(1),21-33.   
+Dobkin,P.L.,Irving, J.A.,& Amar,S. (2O12).For whom may participation in a mindfulness-based stress reduction program be contraindicated?. Mindfulness, 3(1), 44-50.   
+Disayavanish C,Disayavanish P. (1984). Meditation-induced psychosis. Journal of the Psychiatric Association of Thailand,29:1-12.   
+Eberth, J.,& Sedlmeier,P.(20l2). The efects of mindfulness meditation: a meta-analysis.Mindfulness,3(3), 174–189.   
+Edelglass W.(2017). Buddhism, happiness,and the science of meditation. In E.,Braun,& D. McMahan,(Eds.). Meditation, Buddhism, and Science (p.78). New York: Oxford University Press.   
+Farias M, Maraldi E, Wallenkampf KC,Luccheti G. (2020). Adverse events in meditation practices and meditation-based therapies: a systematic review. Acta Psychiatrica Scandinavica,142(5):374-393.   
+Farias,M., Wikholm, C.,& Delmonte,R. (2016). What is mindfulness-based therapy good for? Evidence, limitations and controversies.Lancet Psychiatry,3(11),1012-1013.   
+FerrarelliF,Smith R,DenticoD,RiednerBA,Zennig C,Benca RM,etal.(2013)Experienced mindfulness meditators exhibit higher parietal-occipital EEG Gamma activity during NREM sleep. PLoS ONE, 8(8): e73417.   
+Goyal M, Singh S, Sibinga EMS, Gould NF,Rowland-SeymourA, Sharma R,et al. (2014).Meditation programs for psychological stress and well-being: A systematic review and meta-analysis. JAMA Internal Medicine, 174(3):357-68.   
+Grossman,P.,Niemann,L.,Schmidt,S.,& Walach, H. (2O4). Mindfulness-based stressreduction and health benefits: a meta-analysis.Journal of Psychosomatic Research, 57(1),35-43.   
+Huberty,J.,Vranceanu,A.M.,Carney, C.,Breus,M., Gordon,M.,&Puzia,M.E. (2019). Characteristicsand usage paterns among 12,151 paid subscribers of the calm meditation app: cross-sectional survey. JMIR mHealth and uHealth,7(11),e15648.   
+Kang,Y.,Rahrig,H.,Eichel,K.,Niles,H.F.,Rocha,T.,Lepp,N.E.,..& Britton, W.B. (2018). Gender diferences in response to a school-based mindfulnesstraining intervention for early adolescents. Journal of School Psychology, 68,163-176.   
+Kaselionyte,J.,& Gumley,A. (2o17).“It's likea charge-either fuses you or burns you out": an interpretative phenomenological analysis of extreme mental states in meditation context. Mental Health, Religion & Culture, 20(10), 986-1001.   
+Khoury,B.,Lecomte,T,Fortin,G.,Masse,M.,herien,P.Bouchard,V.,etal. ().indfune-basedtapy: a comprehensive meta-analysis. Clinical Psychology Review, 33(6),763-771   
+Kirmayer,L. J., Mezich, J. E.,& Van Staden, C. W. (2016). Health experience and values in person-centered
+
+assessment and diagnosis.In J.Mezzich et al. (Eds.),Person centered psychiatry (pp.179-199).Switzerland:
+
+Springer.   
+Koenig,H. G. (2o09). Research on religion,spirituality,and mental health: Areview.The Canadian Journal of Psychiatry, 54(5),283-291.   
+Kornfield J. (1979).Intensive insight meditation: A phenomenological study. The Journal of Transpersonal Psychology, 11(1):41-58.   
+Kornfield,J. (2009). The wise heart. A guide to the universal teachings of Buddhist psychology,New York: Bantam Dell.   
+Kuyken, W., Crane, W.,& Willims, J. M. (20l2). Mindfulness-based cognitive therapy (MBCT) implementation resources. Oxford, England: Oxford University, University ofExeter,Bangor University.   
+Lambert,D.,van den Berg,N.H.,& Mendrek,A.(2O21).Adverse effcts of meditation: Areview of observational, experimental and case studies. Current Psychology, 1-14.   
+Lindahl,J.R., Briton, W.B., Cooper,D.J.,& Kirmayer,L. J. (2019). Challenging and adverse meditation experiences: Toward a person-centered approach. The Oxford handbook of meditation.   
+Lindahl, J.R., Cooper,D.J.,Fisher,N.E.,Kirmayer,L.J.,&Briton,W.B.(202O).Progress or pathology? Differential diagnosis and Intervention criteria for meditation-related challenges: Perspectives from Buddhist meditation teachers and practitioners.Frontiers in Psychology,11,1905.   
+Lindahl,J.R,Fisher,N.E.,Cooper,D.J.,Rosen,R.K.,&Briton,W.B.(2017).Thevarietiesofcontemplative experience: A mixed-methods study of meditation-related challnges in Western Buddhists.PloS One,12(5), e0176239.   
+Lindsay,E. K.,& Creswell, J.D. (20l7). Mechanisms of mindfulnesstraining: Monitor and Acceptance Theory (MAT). Clinical Psychology Review, 51, 48-59.   
+Lindsay,E.K.，& Creswell,J.D. (2019). Mindfulness,acceptance,and emotion regulation: Perspectives from Monitor and Acceptance Theory (MAT). Current Opinion in Psychology, 28,120-125.   
+Lindsay,E.K.,Chin,B.,Greco,C..,Young,S,Brown,K.W.,Wright,A.G.,..& Creswel,J.D.(28).How mindfulnesstraining promotes positive emotions: Dismantling acceptance skills training in two randomized controlled trials. Journal of Personality and Social Psychology, 115(6), 944-973.   
+Lindsay,E.K., Young,S.,Brown,K.W.,Smyth,J.M.,&Creswel, J.D. (2019). Mindfulnesstraining reduces loneliness and increases social contact in a randomized controlled trial. Proceedings of the National Academy of Sciences, 116(9),3488-3493.   
+Lomas,T., Cartwright,T.,Edginton,T.,&Ridge,D. (2015). A qualitative analysis of experiential challenges associated with meditation practice. Mindfulness, 6(6), 848-860.   
+Lustyk,M. K., Chawla,N.,Nolan,R.S.,& Marlat, G.A. (20o9). Mindfulness meditation research: issuesof participant screening, safety procedures,and researcher training. Advances in Mind-Body Medicine, 24(1), 20-30.   
+Menezes A,Moreira-Almeida A.(20l0). Religion,spiritualityandpsychosis. Current psychiatryrprts,   
+12(3):174-179.   
+Mesmer-Magnus,J., Manapragada,A., Viswesvaran, C.,& Alen,J.W. (2017). Trait mindfulnessat work: a meta-analysis ofthe personal and professional correlates of trait mindfulness. Human Performance,1-20   
+Morone,N.E., Moore, C. G.,& Greco, C.M. (2017). Characteristics ofadults who used mindfulness meditation: United States, 2012.The Journal of Alternative and Complementary Medicine, 23(7),545-550.   
+National Institute for Health and Clinical Excellence. (2009). Depression: The treatment and management of depression in adults. NICE guidance, Clinical Guidelines CG90.   
+Otis,L.S. (2017). Adverse effects oftranscendental meditation.In D.H. Shapiro &R.N. Walsh (Eds.),Meditation: clasic and contemporary perspectives (pp.201-208). New York: Routledge (originally published 1984).   
+Pauly,L.,Bergmann,N.,Hahne,I.,Pux,S.,Hahn,E.,Ta,T.M.T.,..&Böge,K.(2022).Prevalence,predictors and types of unpleasant and adverse effects of meditation in regular meditators: international cros-sectional study. BJPsych Open, 8(e11):1-8.   
+Potes,A.,SouzaG.,Nikolitch,K,PenheiroR.,Moussa,Y.,Jarvis,E,..&Rej,S.(218). Mindfulnessinsvere and persistent mental illness: A systematic review. International Journal of Psychiatry in Clinical Practice, 22(4),253-261.   
+Reynolds,L.M.,Bisset,I.P.,Porter,D.,&Consedine,N.S. (207).Abrief mindfulness interventionisassociated with negative outcomes in a randomised controlled trial among chemotherapy patients. Mindfulness, (8)8, 1291-1303.   
+Rojiani,R.,Santoyo,J.F.,Rahrig,H.,Roth, H.D.,& Britton,W.B. (2017). Women benefit more than men in response to college-based meditation training. Frontiers in psychology, 8, 551.   
+Segal,Z.V.,Teasdale,J. D., Wilims,J.M.,& Gemar,M. C. (2002). The mindfulness-based cognitive therapy adherence scale: Inter-rater reliability,adherence to protocol and treatment distinctiveness. Clinical Psychology & Psychotherapy, 9(2),131-138.   
+Santorelli, S. (2014). Mindfulness-based stress reduction (MBSR): Standards of practice. Worcester, MA: Center
+
+for Mindfulness in Medicine,Health Care & Society, University of Massachusets Medical School.
+
+Santorelli,S.F.,Kabat-Zinn,J.,Blacker,M.,Meleo-Meyer,F.,&Koerbel,L.(2017).Mindfulness-basedstress reduction (MBSR) authorized curriculum guide. Center for Mindfulness in Medicine, Health Care,and Society (CFM). University of Massachusetts Medical School.
+
+Schlosser,M.,Jones,R.,Demnitz-King,H.,& Marchant,N.L. (2020). Meditation experience is associated with lower levels ofrepetitive negative thinking: The key role of self-compassion. Current Psychology, 1-12.   
+Schlosser,M.,Sparby,T.,Voros,S., Jones,R.,&Marchant,N.L.(2019). Unpleasant meditation-related experiences in regular meditators: Prevalence, predictors,and conceptual considerations. PLoS One,14(5) e0216643.   
+Sethi S,Bhargava SC. (2003). Relationship of meditation and psychosis: case studies. Australian and New Zealand Journal of Psychiatry, 37(3):382-382.   
+Shan,H. H. (2oo). Culture-bound psychiatric disorders associated with qigong practice in China. Hong Kong Journal of Psychiatry, 10(3),12-14.   
+Shapiro Jr,D.H. (1992). Adverse effects of meditation: A preliminary investigation of long-term meditators. International Journal of Psychosomatics,39(1-4),62-6.   
+Shonin,E., Van Gordon, W.,& Grifiths,M.D. (2014).Are there risks associated with using mindfulness for the treatment of psychopathology? Clinical Practice, 11(4),389-392.   
+Sparby,T. (20l7).The nature ofcontemplative scienceand some prospects for its future development. Journal of Consciousness Studies, 24(5-6):226-250.   
+Taylor,G.,& Murray,C. (2012).The role of understanding,engagement,and meaning in anomalous experience: A narrative review of the evidence from cultural research. In C.Murray (Eds.), Mental health and anomalous experience (pp. 1-18). Hauppauge, NY: Nova Science.   
+Thompson,E.(2017).Looping Effects and the Cognitive Science. Meditation, buddhism,and science(Braun,E., & McMahan, Eds.). Meditation, Buddhism,and Science (p. 47). New York: Oxford University Press.   
+Treleaven,D.A. (20l8).Trauma-sensitive mindfulnes, practices forsafe and transformative healing.New York: W.W. Norton & Company.   
+Vanderkooi L.(1997). Buddhist teachers' experience with extreme mental states in Western meditators. The Journal of Transpersonal Psychology, 29(1):31-46.   
+Waldron, E.M.,Hong,S., Moskowitz,J.T.,&Burnet-Zeigler,I. (2018).Asystematicreview of the demographic characteristics of participants in US-based randomized controlled trials of mindfulnes-based interventions.
+
+Mindfulness,9(6),1671-1692.
+
+Wilson J.(2017).Mindfulness makes youa better lover.In Braun,E.,& McMahan (Eds.).Meditation,Budhism, and Science (p.217). New York: Oxford University Press.   
+Williams,J..G.,Crane,C.,arhofer,T.,Brenan,K.,uggan,D.S.,Fennell,.J.,..&Russel,I.(14). Mindfulness-based cognitive therapy for preventing relapse in recurrent depresson: a randomized dismantling trial. Journal of Consulting and Clinical Psychology, 82(2),275-286.   
+Wong SY, Chan JY,Zhang D,Lee EK, Tsoi KK.(2018).The safety of mindfulnessbased interventions: a systematic review of randomized controlled trials. Mindfulness, 9(9):1-14.   
+Zorzela,L.,Golder,S.,Liu,Y.,Pilkington,K.,Hartling,L.,Joffe,A.,..&Vohra,S. (24). Qualityofreporting in systematic reviews of adverse events: systematic review.BMJ,348:f7668.
+
+# The safety of meditation
+
+SUN Shashal,LI Xiaobing² ( College of Humanities and Social Sciences, Zhongkai University ofAgriculture and Engineering Guangzhou, Guangdong 510225, China) ( Department of Physical Education, Sun Yat-sen University,Guangzhou 510275,China)
+
+Abstract: So far, the large and expanding body of research on meditation has mostly focused on the benefits of meditation on health and well-being. However, the rapid growth of research and applications of meditation has raised questions regarding its safety,since the potential for its harm has not been comprehensively studied. Very litle is known about the prevalence and potential causes of adverse events of meditation. In the context of millions of meditators worldwide, even low rates of adverse events become an important concern not only for the nascent field of contemplative science but for public health more generally. It is a serious ethical issue that must be paid more attntion to.So far, the field of adverse effects of meditation conducted on easterners and Chinese is still blank. According to a systematic review by Farias et al. (2020), the overall prevalence of meditation adverse effects was $8 . 3 \%$ . Seven domains of meditation-related challenges (cognitive, perceptual, affective, somatic, conative, sense of self, and social) and four domains of influencing factors (practitioner-level factors,practice-level factors,relationships,and health behaviors） were yielded by a content-driven thematic analysis (Lindahl et al.，2017). Research on the local Chinese culture, teacher competencies, as well as dismantling designs, longitudinal designs and person-centered approaches were recommended for future research. Key words: meditation, mindfulness, safety, adverse effects, person-centered approach

@@ -1,0 +1,173 @@
+# 整合素&6在不同转移潜能膀胱癌细胞中的定量差异表达分析
+
+陆微1) 杨刚龙1) 薛鹏2) 刘昌梅1) 关锋1)\*\*()江南大学糖化学与生物技术教育部重点实验室，无锡214122；中国科学院生物物理研究所蛋白质组学技术实验室，北京100101)
+
+摘要整合素是一类跨膜糖蛋白，能够与细胞外基质结合参与许多生物学过程，尤其是与癌细胞的增殖、迁移等密切相关目前在研究膀胱癌的发生发展过程中，对整合素的关注较少．本研究利用稳定同位素标记技术(SILAC)蛋白质定量技术结合质谱分析技术，对3株不同转移潜能的膀胱癌细胞株中的蛋白质组差异表达进行研究，并通过蛋白质免疫印迹技术、实时荧光定量PCR、细胞免疫荧光照相和流式细胞术等多种技术进行验证，同时使用临床组织基因芯片结果对比分析表明，与正常膀胱表皮细胞HCV29相比，整合素 $\alpha 6$ 在膀胱癌细胞中表达量均有明显的上升，且在非侵染性膀胱癌KK47细胞中的表达量最高，侵染性的膀胱癌YTS1细胞中表达量次之．这一结果说明整合素 $\alpha 6$ 与膀胱癌的发展具有密切关系，并为深入研究整合素α6在膀胱癌发生发展中的作用提供了前期基础.
+
+关键词 SILAC，膀胱癌，整合素 $\propto 6$ ，蛋白质定量学科分类号 Q81
+
+膀胱癌是泌尿系统中最常见的恶性肿瘤之一，根据美国癌症学会的统计信息，膀胱癌的发病率在男性人群常见癌症种类中排名第4，在女性常见癌症种类中排在第9名[．2014年美国新增膀胱癌发病病例约为74690例，占所有新增癌症病例的$4 . 5 \%$ ；2014年预估的死亡病例为15580例，占所有因癌症而死亡病例的 $2 . 7 \%$ ．2012年中国肿瘤登记地区膀胱癌的发病率为 $6 . 6 1 / 1 0$ 万，列恶性肿瘤发病率的第9位．膀胱癌可发生于任何年龄，甚至于儿童．其发病率随年龄增长而增加，高发年龄为$5 0 \sim 7 0 \$ 岁．男性膀胱癌发病率为女性的 $3 { \sim } 4$ 倍[2].目前临床使用的膀胱癌诊断标志物为组织多肽抗原(tissue polypeptide antigen，TPA）和 癌 胚 抗原(carcinoembryonicantigen，CEA)等，而这两种肿瘤标志物的特异性差，在多种癌症发生时都会升高.如TPA在肝癌、胃癌、肺癌、大肠癌、乳腺癌、卵巢癌、子宫颈癌以及膀胱癌中都会升高[．为了能够在膀胱癌发展早期就能够及时确诊病情，应该建立更多的早期肿瘤标志物检测方法.
+
+整合素是一类跨膜糖蛋白，它们能够与胞外基
+
+DOI:10.16476/j.pibb.2014.0390质相结合，从而调节细胞与基质、细胞与细胞黏附4．整合素也是一种由18 种 $\propto$ 亚基和8种 $\beta$ 亚基构成的异质二聚体蛋白，总共形成24种不同的异质二聚体整合素蛋白．研究表明，整合素通过与胞外基质的结合参与许多生物过程，从而调节细胞的迁移、侵染．另外，整合素在肿瘤不同发展阶段中的表达也受到不同程度的调节，使其成为癌症诊断和治疗的潜在目标．其中，整合素 $\propto 6$ 由基因ITGA6编码，含有1130个氨基酸．整合素$\alpha 6$ 能够与β1或者β4 结合形成 $\alpha 6 \beta 1$ 或者 $\alpha 6 \beta 4$ 二聚体，并能够与细胞外基质(extracellularmatrix，ECM)层黏连蛋白(laminin，LN)结合[7-8]．整合素与ECM的结合会触发细胞内相关的信号通路，从而影响细胞内的生物学过程，也包括癌症的发展过程．研究发现，整合素 $\alpha 6$ 在膀胱癌发展不同阶段的表达存在差异：在膀胱癌发展的初级阶段，整合素 $\alpha 6$ 在基底细胞中大量表达，在具有侵染性质的膀胱癌细胞中整合素 $\alpha 6$ 的表达具有较大的可变性[10].
+
+利用质谱对蛋白质做相对定量研究的方法包括两种策略．一种是基于凝胶为分离手段来进行质谱定量，如双向电泳(two-dimensional electrophoresis,2-DE)或者以此为基础发展双向差异凝胶电泳(twodimension difference gel electrophoresis，2D-DIGE);另外一种基于高效液相色谱为分离手段的质谱定量，这其中又包括非同位素标记法和同位素标记法[1I-12]．目前，蛋白质质谱定量中使用比较广泛的是同位素标记方法，包括体外标记法和体内标记法[2]．细胞培养条件下稳定同位素标记技术(stableisotope labeling with amino acids in cell culture,SILAC)是体内标记方法之一，该方法培养细胞时向培养基中加入稳定同位素标记的必需氨基酸，新合成蛋白质中的氨基酸被相应同位素标记氨基酸代替，然后将来自经不同同位素标记的蛋白质样本等量混合后进行质谱鉴定，比较不同细胞样本中的蛋白质表达差异[13-14]．相比于传统方法及其他定量方法，SILAC技术具有以下优势：a．可信度高，减少了由于样品制备操作带来的误差；b．高通量，能够同时比较多种细胞样本；c．灵敏度更高，重复率较高，鉴定到的差异表达蛋白更多；d．体内标记，更接近于细胞原始生长状态[15].
+
+人膀胱正常上皮细胞HCV29、人膀胱非肌层浸润性膀胱癌细胞KK47和人膀胱浸润性癌细胞YTS1是常用于膀胱癌研究的三株典型细胞株.Hakomori等[16-17]分析了这3株细胞株内糖鞘脂的表达，发现HCV29表达高水平的神经节苷脂GM2，几乎不表达GM3；KK47表达高水平的GM3，无GM2的表达；而YTS1只表达低水平的GM2，无GM3的表达．Satoh等[8将KK47和YTS1培养在铺有层黏连蛋白5(LN-5)的平板上时，YTS1表现出更强的迁移和侵袭能力．王华等[利用这3株细胞株研究双突变溶瘤腺病毒联合吉西他滨治疗裸鼠原位膀胱癌的效果．丁明霞等[20利用HCV29细胞株研究单抗KMP1对EJ细胞生物学功能的影响.本研究将以这三个细胞株为研究模型，利用SILAC技术定量分析整合素 $\propto 6$ 的表达变化，以期为进一步研究整合素 $\propto 6$ 的生物学功能及作用机理提供前期工作基础.
+
+# 1材料与方法
+
+# 1.1 细胞培养
+
+HCV29、KK47和YTS1细胞为美国华盛顿大学Sen-itirohHakomori教授馈赠，细胞均培养在含有 $10 \%$ 胎牛血清(Gibco BRL，USA)和 $1 \%$ 双抗(Gibco BRL)的RPMI-1640(Gibco BRL)完全培养基中，培养条件为： $3 7 ^ { \circ } \mathrm { C }$ ， $\mathrm { C O } _ { 2 }$ 浓度 $5 \%$
+
+蛋白质定量中所用的3株细胞株HCV29、KK47和YTS1分别在含有轻标(K0RO)；中标(K4R6)和 重 标(K8R10)的 RPMI-1640（ThermoScientific，USA)培养基中培养，培养基另外还含有 $10 \%$ Dialyzed-FBS（Thermo Scientific)、 $1 \%$ 双抗(Gibco BRL)以及 $2 0 0 ~ \mathrm { { m g / L } }$ 脯氨酸(ThermoScientific)[2I]．培养5代后分别进行质谱分析，确保细胞内的赖氨酸和精氨酸达到 $9 5 \%$ 的替代率.
+
+# 1.2 细胞划痕实验
+
+将适量的3株细胞分别接入6孔板中，在完全培养基中培养过夜．吸去培养基，分别用加样器枪头在每个孔中划线，用 $1 { \times } \mathrm { P B S }$ 冲洗3次，加入不含血清的培养基，分别在培养0、12、24和 $3 6 \mathrm { ~ h ~ }$ 时进行拍照.
+
+# 1.3 蛋白质提取
+
+当细胞密度达到 $90 \%$ 时提取细胞全蛋白：经$1 { \times } \mathrm { P B S }$ 多次冲洗后的细胞加入适量含 $1 \%$ PMSF和$0 . 1 \%$ 抑肽酶的组织蛋白抽提试剂(ThermoScientific)；冰上孵育 $3 0 \mathrm { m i n }$ 后， $4 ^ { \circ } \mathrm { C } \ 1 4 0 0 0 _ { g }$ 离心$1 5 ~ \mathrm { m i n }$ ；取上清，同时使用BCA蛋白质浓度测定试剂盒(Beyotime biotechnology，China)测定蛋白质浓度， $- 8 0 ^ { \circ } \mathrm { C }$ 保存备用.
+
+# 1.4蛋白质定量技术
+
+将来自3株细胞的全蛋白 $1 : 1 : 1$ 等量混合，然后使用滤膜辅助样品处理(filter-aided samplepreparation，FASP)方法[22酶解蛋白样品．将适量混合蛋白样品加入 $1 0 ~ \mathrm { \ k u }$ 滤膜离心管(MerckMillipore，USA) $1 4 ~ 0 0 0 ~ g$ 离心 $1 5 ~ \mathrm { m i n }$ ；随后加入$3 0 0 ~ \mu \mathrm { l }$ 的 $8 \mathrm { m o l / L }$ 尿素溶液吹打数次后 $1 4 ~ 0 0 0 ~ g$ 离心 $1 5 ~ \mathrm { m i n }$ ；再加入 $1 5 0 ~ { \mu } 1 ~ 1 0 ~ \mathrm { m m o l / L }$ 二硫苏糖醇(dithiothreitol，DTT)溶液混匀， $5 6 ^ { \circ } \mathrm { C }$ 静置 $4 5 ~ \mathrm { m i n }$ ，$1 4 0 0 0 _ { g }$ 离心 $1 0 ~ \mathrm { m i n }$ ；加入 $1 5 0 ~ { \mu \mathrm { l } } ~ 2 0 ~ \mathrm { m m o l / L }$ 碘乙酰胺(iodoacetamide，IAA)溶液混匀，避光静置$3 0 \mathrm { m i n }$ ， $1 4 0 0 0 _ { \mathrm { ~ } g }$ 离心 $1 0 \mathrm { m i n }$ ；加入 $2 0 0 \mu 1 4 0 \mathrm { m m o l / L }$ 碳酸氢铵溶液， $1 4 ~ 0 0 0 ~ g$ 离心 $1 0 ~ \mathrm { { m i n } }$ ，重复3次；最后加入适量的胰蛋白酶(Promega，USA)溶液置于 $3 7 ^ { \circ } \mathrm { C }$ 反应 $1 2 \mathrm { { h } }$ 后 $1 4 ~ 0 0 0 ~ g$ 离心 $1 0 \mathrm { m i n }$ ，收集流出液．多肽混合液使用C18 柱(MerckMillipore)除盐处理后送至超高分辨率液相串联质谱LTQ-Orbitrap 分离鉴定.
+
+# 1.5 数据分析
+
+质谱得到的数据使用软件MaxQuant（V.1.2.2.5)[23]进行分析．设置参数如下：蛋白质以及多肽的假阳性率小于0.01，肽段氨基酸数量大于6，Andromeda[24]对照IPI人源数据库(3.85)搜索数据，酶为胰蛋白酶，固定修饰为酰胺甲基化，可变修饰为N端甲基化和甲硫氨酸氧化，SILAC多肽对设置为Arg6和Lys4 或者 Arg10 和Lys8，最大允许2个错切，母离子质量偏差小于7，二级碎片离子偏差小于0.5个单位.
+
+# 1.6 蛋白质免疫印迹
+
+将等量蛋白质样品上样至 $10 \%$ SDS-PAGE(Bio-Rad，USA)，电泳结束后将蛋白转膜至$0 . 4 5 ~ { \mu \mathrm { m } }$ PVDF 膜上．室温下 $5 \%$ 脱脂奶粉封闭 $2 \mathrm { h }$ TBST清洗膜3遍，将抗整合素 $\propto 6$ 抗体(Abgent,China)按照 $1 : 1 0 0 0$ 的比例孵育，置于 $4 ^ { \circ } \mathrm { C }$ 摇床震荡过夜；再加入 $1 : 5 0 0 0$ 稀释的带有HRP标记的二抗(Beyotime biotechnology，China） 溶液室温孵育 $^ { 3 \mathrm { ~ h ~ } }$ ；使用Pro-LightHRP化学发光检测试剂(Tiangen bioteh， China) 在 Bio-Rad ChemiDocTMXRS+(Bio-Rad)成像系统显色，拍照.
+
+# 1.7 实时荧光定量PCR
+
+RNA提取参照RNA提取试剂盒(Cwbiotech,China)说明书进行．提取的RNA在逆转录酶的作用下合成cDNA后 $- 8 0 ^ { \circ } \mathrm { C }$ 保存备用．实时荧光定量PCR反应使用UltraSYBRMixture试剂盒(CWbiotech)完成．引物由上海英潍捷基贸易有限公司合成，上游引物序列： ${ \boldsymbol { 5 } } ^ { \prime }$ ATCCGGAAATA-TGGAGACCC $3 ^ { \prime }$ ，下游引物序列： ${ \boldsymbol { 5 } } ^ { \prime }$ CGTTCT-GTTGGCTCTCTGC $3 ^ { \prime }$ ．cDNA和引物分别稀释5倍和2倍后加入反应体系，然后使用qPCR仪(Bio-Rad)检测荧光信号值的变化并导出数据．实验3次平行，3次重复后做最后的数据统计，并使用Prism软件作图.
+
+# 1.8 细胞免疫荧光组化
+
+将灭菌圆形盖玻片置于24孔细胞培养板中，加入RPMI-1640培养基，接种适量细胞．PBS冲洗3次，加入固定液 $4 \%$ 多聚甲醛置于室温固定$1 5 \mathrm { m i n }$ ；吸去固定液，PBS冲洗3次，加入通透液$2 \%$ 曲拉通室温放置 $1 0 ~ \mathrm { { m i n } }$ ；弃通透液，PBS 冲洗
+
+3次，加入 $5 \%$ 脱脂奶粉 $4 ^ { \circ } \mathrm { C }$ 封闭 $1 0 \mathrm { { h } }$ ．吸去废液,PBS冲洗3次，加入 $1 : 1 0 0$ 稀释的抗整合素 $\propto 6$ 抗体(Abgent)溶液， $4 ^ { \circ } \mathrm { C }$ 孵育 $^ { 1 0 \mathrm { h } }$ ，吸去废液，PBS冲洗3次，加入 $1 : 1 0 0 0$ 稀释的带Cy3的二抗溶液，室温孵育 $3 \mathrm { ~ h ~ }$ ；加入 $4 \mathrm { m g / L }$ DAPI溶液室温震荡孵育 $1 0 \mathrm { m i n }$ ，封片后使用尼康C2Si激光共聚焦系统(Nikon，Japan)拍照成像.
+
+# 1.9 流式细胞术
+
+在12孔板中加入适量细胞，培养 $1 2 \mathrm { h }$ ，随后使用胰酶消化细胞，并将细胞转移至离心管中，用预冷的PBS冲洗3次．随后用 $1 ~ \mathrm { m l }$ PBS重悬细胞，按 $1 : 5 0$ 比例加入抗整合素 $\alpha 6$ 抗体，冰浴$^ { 2 \mathrm { h } }$ ．离心，PBS冲洗2次， $1 \mathrm { m l } \mathrm { P B S }$ 重悬细胞,$1 : 5 0 0$ 加入二抗，冰浴 $^ { \mathrm { ~ 1 ~ h ~ } }$ ．用PBS冲洗2遍，$1 \mathrm { m l } \mathrm { P B S }$ 重悬细胞，转移至流式细胞管中．使用流式细胞仪(Calibur，BD，USA)检测荧光强度.
+
+# 2结果与分析
+
+# 2.13株细胞的形态差异和生存习性的异同
+
+HCV29是一株人膀胱正常上皮细胞株，细胞形态为梭状，培养一定时间后细胞排列整齐，间隙均匀．KK47是人膀胱非肌层浸润性膀胱癌细胞株，细胞形态呈不规则椭球状，细胞大小较HCV29细胞小，培养一段时间后细胞间隙很小.YTS1是人膀胱浸润性癌细胞株，呈长梭状，也能够分裂至较高密度(图1a)．从划痕实验(图1b)可以看到，YTS1细胞的迁移能力最强， $2 4 \mathrm { h }$ 后细胞基本占满划痕区， $3 6 \mathrm { ~ h ~ }$ 后划痕区域消失．KK47和HCV29细胞的迁移能力相当， $3 6 \mathrm { ~ h ~ }$ 后划痕区域内均只有少量细胞.
+
+# 2.2定量蛋白质组研究表明整合素 $\mathbf { \alpha } \mathbf { \alpha } _ { \mathbf { \alpha } } ( \mathbf { \alpha } _ { \mathbf { \alpha } } \mathbf { \alpha } _ { \mathbf { \beta } } )$ 在KK47细胞株的中表达量最高
+
+分别使用含有同位素轻标氨基酸(K0RO)、中标氨基酸(K4R6)和重标氨基酸(K8R10)的培养基培养细胞HCV29，KK47和YTS1，随后用超高分辨率液相串联质谱LTQ-Orbitrap分析鉴定三株细胞蛋白质组定量数据．在蛋白质组定量数据中共发现3个整合素 $\scriptstyle \alpha 6$ 的肽段（图2a)．其中肽段TAHIDVHFLK为整合素 $\alpha 6$ 的一个特征肽段，它的理论分子质量在HCV29细胞株中为1179.64,在KK47细胞中为1183.64，在YTS1细胞中为1187.64(图2b)．根据肽段质谱信号数据可以得到整合素 $\alpha 6$ 在HCV29、KK47、YTS1这3株细胞中表达的比例约为： $1 : 1 8 : 1 4$ ·
+
+![](images/27b6c3bc86111637baa3f7fc5f3007d66a4c2d3371048d1d4cc49aaf3ac49df4.jpg)  
+Fig.1Morphology and motility of HCV29,KK47 and YTS1 cells   
+Fig.2The unique peptide of integrin α6 detected byLC-MS
+
+(a) Cell morphologyofHCV29,KK47 and YTS1 cells $( \times 1 0 0 )$ .(b) Wound scratch assay of3 cells $( \times 1 0 0 )$ . The wound scratch area was pictured at $^ { 0 \mathrm { ~ h ~ } }$ 12 h,24 h and $3 6 \mathrm { h }$
+
+(a) (b) 19285   
+Integrin α6 TAHIDVHFLK YTS1   
+MGVTVQSQGPGGKVVTCAHRYEKRQHVNTKQESRDIFGRCYVLSQNLRIE 100 49'281   
+DDMDGGDWSFCDGRLRGHEKFGSCQQGVAATFTKDFHYIVFGAPGTYNW   
+KGLLFLTSVSYTDPDQFVYKTRPPREQPDTFPDVMMNSYLGFSLDSGKGIV   
+SKDEITFVSGAPRANHSGAVVLLKRDMKSAHLLPEHIFDGEGLASSFGYDV 80   
+AVVDLNKDGWQDIVIGAPQYFDRDGEVGGAVYVYMNQQGRWNNVKPIR %/ieeeielear   
+LNGTKDSMFGIAVKNIGDINQDGYPDIAVGAPYDDLGKVFIYHGSANGINT   
+KPTQVLKGISPYFGYSIAGNMDLDRNSYPDVAVGSLSDSVTIFRSRPVINIQK   
+TITVTPNRIDLRQKTACGAPSGICLQVKSCFEYTANPAGYNPSISIVGTLEAE 60   
+KERRKSGLSSRVQFRNQGSEPKYTQELTLKRQKQKVCMEETLWLQDNIRD   
+KLRPIPITASVEIQEPSSRRRVNSLPEVLPILNSDEPKTAHIDVHFLKEGCGDD   
+NVCNSNLKLEYKFCTREGNQDKFSYLPIQKGVPELVLKDQKDIALEITVTN 40   
+SPSNPRNPTKDGDDAHEAKLIATFPDTLTYSAYRELRAFPEKQLSCVANQN   
+G 20 H   
+KEINSLNLTESHNSRKKREITEKQIDDNRKFSLFAERKYQTLNCSVNVNCVN   
+IRCPLRGLDSKASLILRTRLWYSTFLEEWSKLNYLDILMMAFIVTAAENR 0   
+FFKRNKKDHYDATYHKAEIHAQPSDKERLTSDA 1176 1 179 1182 1185 1188 m
+
+(a)Thefullsqueefte6issodepeptidsdeetedi-esoid.()eppsKata79.64 1183.64 and1187.64 are from HCV29,KK47 and YTS1.
+
+# 2.3蛋白质定量数据的验证
+
+为了验证质谱鉴定结果，本研究通过Westernblotting和qPCR的方法对整合素 $\propto 6$ 在3株细胞株中的表达做了验证．整合素 $\alpha 6$ 蛋白存在相差18个氨基酸的A、B两种亚型，这两种亚型是由于mRNA的不同拼接而产生的[25]，因此在Westernblotting的结果中出现两条目的条带．Westernblotting结果表明整合素 $\alpha 6$ 在KK47细胞株中的表达量最高(图3a)．利用 $\mathsf { q P C R }$ 技术对3株细胞内基因ITGA6在转录水平上的表达进行验证分析，结果显示ITGA6在KK47细胞中表达最高，在YTS1细胞中的表达也远高于在HCV29细胞中的表达(图3b)，基因ITGA6的表达趋势与蛋白质定量实验数据完全一致．Western blotting 结果中YTS1细胞与HCV29细胞之间的区别不明显，这有可能是由于抗体特异性不强所致.
+
+依据公开数据库中Modlich等2提供的基因芯片数据，该数据包括了4例正常膀胱组织样本，28例具有侵染性质膀胱癌组织样本和22例原位癌组织样本中基因ITGA6的表达数据．分析发现，膀胱癌症组织中整合素 $\propto 6$ 的表达量高于正常膀胱组织，且在癌症早期组织中整合素 $\scriptstyle \alpha 6$ 的表达量最高(图3c)，该临床研究数据与本研究中细胞模型中整合素 $\propto 6$ 的表达情况一致，
+
+(a) HCV29 KK47 YTS1 888 Integrin α6 v m8282 Tublin 10 0 HCV29 KK47 YTS1 0 Normal Invasive Superfical
+
+# 2.4细胞免疫组化实验验证整合素 $\mathbf { \alpha } \mathbf { \alpha } _ { \mathbf { \alpha } }$ 在活细胞中的表达情况
+
+本研究进一步通过细胞免疫组化实验和流式细胞术确认整合素 $\scriptstyle \alpha 6$ 在活细胞中的表达和定位．使用特异性识别整合素 $\propto 6$ 的抗体以及带有荧光基团Cy3的二抗对细胞进行染色及拍照，并通过软件ImageJ提取图片中每个细胞的平均荧光强度并转换成数值制成图表来直观表示整合素 $\alpha 6$ 在3株细胞株中的表达情况．如图4a所示，其中蓝色荧光DAPI显示细胞核位置，红色荧光Cy3显示整合素$\propto 6$ 位置．从单位细胞质面积来看KK47细胞的亮度最强，YTS1细胞其次(图4b)．通过流式细胞术检测活细胞中整合素 $\propto 6$ 的表达(图4c)，实验结果进一步表明，整合素 $\propto 6$ 在KK47细胞表面的表达最强.
+
+![](images/7cb66410ad92695d72c2653f3f7c8f0f23e69138aac665c31086269e36ed73c3.jpg)  
+Fig.3Validation of SILAC data   
+(a)Expression of integrinα6 determined by Westernblotting. (b)The expression of ITGA6 mRNA examined by qPCR $^ { * } P < 0 . 0 5 ,$ . (c) The expression of ITGA6 mRNA by gene microarray in open-access database (www.oncomine.org).   
+Fig.4Expression of integrin $\mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \alpha } \mathbf { \delta \alpha } \mathbf { \alpha } \mathbf { \delta \alpha } \mathbf { \alpha } \mathbf { \alpha \delta } \mathbf { \alpha \alpha } \mathbf { \delta \alpha } \mathbf { \alpha \delta \alpha } \mathbf  \alpha \delta \alpha \delta \mathbf { \alpha } \delta \mathbf \alpha \delta \mathbf { \alpha } \delta \delta \mathbf \alpha \delta \mathbf \alpha \delta \mathbf  \alpha \alpha \delta \delta \delta \delta \delta \delta \mathbf \alpha \delta \delta \delta \mathbf \delta \delta \mathbf \alpha \delta \delta \delta \delta \mathbf \delta \delta \delta \mathbf \delta \delta \delta \delta \mathbf \delta \delta \mathbf \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \mathbf \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \$ observed by immunofluorescence staining and flow cytometi
+
+(a) Direct reflection of the expression of integrin $\scriptstyle \alpha 6$ by immunofluorescence staining. Cell nuclei were stained with DAPI,and integrin $\scriptstyle \alpha 6$ was stained withCy3.KK4sodtexpssoel.eeteellasatisadaJ $^ { \ast } P < 0 . 0 5$ ：， $^ { * * } P < 0 . 0 1$ ).(c）The expression pattern of integrin $\propto 6$ in 3 cellines was confirmed using flow cytometry. Cells were stained with anti-integrin $\alpha 6$ antibody and FITC conjugated secondary antibody( $\boldsymbol { I } \colon$ Isotype control; 2: HCV29 cells; 3: YTS1 cells; 4: KK47 cells.)
+
+# 3讨论
+
+整合素是一类存在于细胞膜上的二聚体蛋白，它们均由一个 $\propto$ 亚基和一个 $\beta$ 亚基构成．研究表明，整合素通过与胞外基质的结合参与许多生物过程，从而调节细胞的迁移、侵染@．整合素 $\scriptstyle \alpha 6$ 亚基能够与β1或β4相结合形成完整的 $\alpha 6 \beta 1$ 或$\alpha 6 \beta 4$ 整合素蛋白行使功能，这两种整合素均能够与LN相结合[7-8]．在经过表皮细胞生长因子(epidermalgrowthfactor，EGF)处理过后的角质细胞中，整合素 $\alpha 6$ 和β4的耦合能够促进细胞分裂G1 期到 S 期的过程[．另外，整合素 $\alpha 6 \beta 4$ 与LN的结合能够促进RAS介导的角质细胞的转化过程[28]这些都说明整合素 $\alpha 6$ 在细胞增殖过程中有着重要作用．将整合素β4导入到不表达整合素β4的乳腺癌细胞中后，细胞内从磷脂酰肌醇3激酶(phosphatidylinositol3-kinase，PI3K)到Rac 的信号通路随即被激活，同时细胞的迁移能力也得到了增强[29]．这些研究不论是从整合素 $\propto 6$ 的表达情况方面还是其在细胞内参与的信号通路方面都展示了整合素 $\scriptstyle \alpha 6$ 对细胞迁移过程的影响，
+
+研究表明，在许多肿瘤组织中整合素 $\propto 6$ 的表达量会异常增加[30．在肝癌的研究中也有研究报道肝癌和整合素 $\scriptstyle \alpha 6$ 有着密切联系，随着肝癌的发展，大多数组织能够检测到整合素 $\alpha 6$ ，并且表达水平和患者的预后呈负相关3．另外，也有研究人员在对乳腺癌细胞系的研究中发现整合素 $\propto 6$ 的高表达和肿瘤的发生、迁移潜能有关2].
+
+细胞需要通过分布在细胞膜上的多种蛋白与外界环境进行信息交流或者指导迁移运动，细胞膜上特定蛋白的变化必然会导致细胞生理性质的改变，在肝癌细胞中整合素 $\alpha 6$ 与LN的结合通过PI3K/AKT和MAPK/ERK信号通路影响细胞的转移．如果下调整合素 $\propto 6$ 的表达，肝癌细胞的迁移能力也随之降低，所以肝癌细胞内整合素 $\propto 6$ 的高表达预示着其具有较强的迁移能力[33]．膀胱癌细胞株KK47、YTS1相对于正常膀胱上皮细胞株HCV29有明显的整合素 $\propto 6$ 的高表达，同时它们相对于HCV29也具有较强的迁移能力．整合素 $\propto 6$ 是否和细胞迁移能力有直接的关系？整合素 $\alpha 6$ 异常表达涉及的细胞信号通路是什么？在后续研究中，我们将通过降低KK47、YTS1细胞内整合素$\alpha 6$ 的表达或者在HCV29 细胞中高表达整合素 $\alpha 6$ 以观察对细胞迁移的影响，并探究与之相关的信号通路．另外，将通过使用免疫共沉淀技术确定与整合素 $\scriptstyle \alpha 6$ 相互作用的整合素亚单位如β4等，以及二者相互作用的机制及下游信号通路，以期阐明整合素相关蛋白在膀胱癌中的作用.
+
+本研究首次通过SILAC蛋白质相对定量技术对整合素 $\alpha 6$ 在膀胱癌发展模型细胞系(HCV29、
+
+KK47、YTS1)中的表达做了定量比较研究分析，并且通过蛋白质免疫印迹、荧光定量PCR技术、细胞组化染色技术和流式细胞术对定量数据进行验证，同时也与临床数据进行对比．多重数据比对结果显示，整合素 $\alpha 6$ 在非侵染膀胱癌细胞株KK47中的表达量最高，在恶性膀胱癌细胞株YTS1中的表达量其次，并且均远高于正常膀胱上皮细胞系HCV29中的表达量．综上所述，本研究确定了整合素 $\alpha 6$ 在膀胱癌细胞系中的差异表达情况，并为进一步深入研究其分子功能提供了前期基础.
+
+# 参考文献
+
+[1]Siegel R,Ma J, Zou Z,et al. Cancer statistics,2014.CA:a cancer Journal for Clinicians,2014,64(1): 9-29   
+[2] 韩苏军,张思维,陈万青,等.中国膀胱癌死亡现状及流行趋势分 析.现代泌尿外科杂志,2013,18(3):228-232 Han S J, Zhang S W,Chen W Q,et al. Journal of Modern Urology, 2013,18(3): 228-232   
+[3]Shah JB,Mckiernan JM. Novel therapeutics in the treatment of bladder cancer. Current Opinion in Urology,2004,14(5): 287-293   
+[4]Hynes R O.Integrins: versatility,modulation,and signaling in cell adhesion. Cell,1992,69(1): 11-25   
+[5]Hynes R O.Integrins: Bidirectional, Allosteric Signaling Machines. Cell,2002,110(16): 673-687   
+[6]Mizejewski G J.Role of integrins in cancer: survey of expression patterns.Experimental Biology and Medicine,1999,222(2):124- 138   
+[7]Hemler M E,Crouse C, Sonnenberg A.Association of the VLA alpha 6 subunit with a novel protein.A possible alternative to the common VLA beta 1 subunit on certain cell lines.The Journal of Biological Chemistry,1989,264(11): 6529-6535   
+[8]Lee EC,LotzMM, Steele GD,Jr.,et al.The integrin alpha 6 beta 4 is a laminin receptor.JCell Biol,1992,117(3): 671-678   
+[9] Guo W, Giancotti FG. Integrin signalling during tumour progression. Nat Rev Mol Cell Biol,2004,5(10):816-826   
+[10]Liebert M,Wedemeyer G,Stein JA，et al.The monoclonal antibody BQl6 identifies the alpha 6 beta 4 integrin on bladder cancer.Hybridoma,1993,12(1): 67-80   
+[11]Aebersold R,Mann M.Mass spectrometry-based proteomics. Nature,2003,422(6928): 198-207   
+[12] Sechi S, Oda Y. Quantitative proteomics using mass spectrometry. Curr Opin Chem Biol,2003,7(1): 70-77   
+[13] Ong SE,Blagoev B, Kratchmarova I,et al. Stable isotope labeling by amino acids in cell culture,SILAC,as a simple and accurate approach to expressionproteomics.Molecular& Cellular Proteomics,2002,1(5): 376-386   
+[14] Ong S E,Kratchmarova I,Mann M.Properties of 13C-substituted arginine in stable isotope labeling by amino acids in cell culture (SILAC).Journal of Proteome Research,2003,2(2): 173-181   
+[15] Craft G E,Chen A,Nairn A C.Recent advances in quantitative
+
+neuroproteomics.Methods,2013,61(3):186-218   
+[16] Hakomori S I. Glycosynaptic microdomains controlling tumor cell phenotype through alteration of cell growth,adhesion,and motility. FEBS Letters,2010, 584(9): 1901-1906   
+[17] Guan F,Handa K,Hakomori S I. Specific glycosphingolipids mediate epithelial-to-mesenchymal transition of human and mouse epithelial cell lines.Proc Natl Acad Sci USA,2009,106(18): 7461-7466   
+[18] Satoh M, Ito A,Nojiri H,et al.Enhanced GM3 expression, associated with decreased invasiveness,is induced by brefeldin A in bladder cancer cells.International Journal of Oncology，2001, 19(4): 723-731   
+[19]王华,刘卓,王宗平,等.双突变溶瘤腺病毒联合吉西他滨治 疗裸鼠原位膀胱癌的效果.中华肿瘤杂志,2013,35(6):412-417 Wang H,Liu Z,Wang ZP,et al.Chin J Oncology,2013,35(6): 412-417   
+[20]丁明霞,李,左毅刚,等.膀胱癌EJ细胞的CD44 异常糖基 化及其单抗 KMP1的生物学功能研究.中国肿瘤临床,2011, 38(13): 759-762 Ding M X,Li C,Zuo YG,et al.Chin JClin Oncology,2011, 38(13): 759-762   
+[21] Bendall S C,Hughes C,Stewart MH,et al.Prevention of amino acid conversion in SILAC experiments with embryonic stem cells. Molecular& Cellular Proteomics,2008,7(9):1587-1597   
+[22] Wisniewski JR,Zougman A,Nagaraj N,et al.Universal sample preparation method for proteome analysis.Nature Methods,2009, 6(5): 359-362   
+[23] Cox J, Matic I, Hilger M,et al.A practical guide to the MaxQuant computational platform for SILAC-based quantitative proteomics. Nature Protocols,2009,4(5): 698-705   
+[24] Cox J,Neuhauser N,Michalski A,et al.Andromeda:a peptide search engine integrated into the MaxQuant environment.Journal of Proteome Research,2011,10(4): 1794-1805   
+[25] HogervorstF, Kuikman I, Van Kessel A G,et al.Molecular cloning of the human alpha 6 integrin subunit.Alternative splicing of alpha 6 mRNA and chromosomal localization of the alpha 6 and beta 4 genes.European Journal of Biochemistry/FEBS,1991,199 (2): 425-433   
+[26] Modlich O,Prisack H-B,Pitschke G,et al.Identifying superficial, muscle-invasive,and metastasizing transitional cell carcinoma of the bladder: use of cDNA array analysis of gene expresson profiles. Clinical Cancer Research,2004,10(10):3410-3421   
+[27] Mainiero F,Murgia C,Wary K K,et al．The coupling of alpha6beta4 integrin to Ras-MAP kinase pathways mediated by Shc controls keratinocyte proliferation.The EMBO Journal,1997, 16(9): 2365-2375   
+[28] Dajee M,Lazarov M, Zhang JY,et al.NF-kappaB blockade and oncogenic Ras trigger invasive human epidermal neoplasia. Nature, 2003,421(6923): 639-643   
+[29] Shaw L M,Rabinovitz I,Wang H H,et al．Activation of phosphoinositide 3-OH kinase by the alpha6beta4 integrin promotes carcinoma invasion. Cell,1997,91(7): 949-960   
+[30]Mercurio AM,Rabinovitz I. Towards a mechanistic understanding of tumor invasion——lessons from the alpha6beta 4 integrin. Seminars in Cancer Biology,2001,11(2): 129-141   
+[31] Torimura T,Ueno T,Kin M,et al.Coordinated expression of integrin alpha6betal and laminin in hepatocellular carcinoma. Human Pathology,1997,28(10): 1131-1138   
+[32] Mukhopadhyay R,Theriault RL,Price JE.Increased levels of alpha6 integrins are associated with the metastatic phenotype of human breast cancer cells.Clinical & Experimental Metastasis, 1999,17(4): 325-332   
+[33] Lv G,Lv T,Qiao S,et al.RNA interference targeting human integrin alpha6 suppresses the metastasis potential of hepatocellular carcinoma cells.European Journal of Medical Research,2013, 18(1): 52-59
+
+# Quantitative Analysis of Integrin α6 in Bladder Cancer Cell Lines\*
+
+LU Wei1, YANG Gang-Longl, XUE Peng2, LIU Chang-Meil), GUAN Fengl)\* (KeyLaboratoryfarbohydratehemistry&otechnologyinstryofEducation,JgnanUniversityWuxii; 2 Laboratory of Proteomics,Institute of Biophysics,Chinese Academy of Sciences,Beijing l0olo1,China)
+
+AbstractThe integrins,a family of transmembrane proteins,function in cel-to-cell and cel-to-extracellular matrix (ECM) adhesive interactions,and influence cell signaling of cell growth and diferentiation.Expression of integrin $\propto 6$ in three bladder cancer cell lines,HCV29, KK47 and YST1 were quantitatively analyzed by LC-MS using stable isotope labeling by amino acids in cellculture (SILAC), a simple and powerful proteomic strategy. The results showed that the non-invasive bladder cancer celline KK47 expressed the highest level of integrin $\alpha 6$ The expression of integrin $\propto 6$ in invasive bladder cancer cell line YTS1 was also higher than in normal bladder epithelial cell line HCV29. Furthermore， these results were confirmed by Western blotting, $\mathsf { q P C R } ,$ （204号 immunohistochemistry and flow cytometry. Clinical data of mRNA ITGA6 expression pattern from open-access database (www.oncomine.org) showed the same result during bladder cancer progression. All these indicated that integrin $\propto 6$ is associated with the invasion progress of the bladder cancer. The preliminary data in this study may sparkle the fundamental role of integrin $\propto 6$ in the research of bladder cancer.
+
+Key wordsSILAC, bladder cancer, integrin $\propto 6$ ，protein quantification DOI: 10.16476/j.pibb.2014.0390

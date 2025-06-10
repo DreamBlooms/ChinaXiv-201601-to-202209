@@ -1,0 +1,131 @@
+# DOI: 10.5846/stxb201606191191
+
+常亚鹏，李路，许仲林.天山北坡雪岭云杉林地开垦的土壤有机碳损失估算.生态学报,2017,37(4)：1168-1173. ChangYP,Li，XuZLEstiatioofiloancbonlossfroceceinaforsttondinorhashaoutaiscta Ecologica Sinica,2017,37(4):1168-1173.
+
+# 天山北坡雪岭云杉林地开垦的土壤有机碳损失估算
+
+常亚鹏]，李路1，许仲林1,2，\*
+
+1新疆大学资源与环境科学学院，乌鲁木齐830046  
+2新疆大学资源与环境科学学院绿洲生态教育部重点实验室，乌鲁木齐830046
+
+摘要：在全球变暖的背景下,由土地利用变化导致的土壤碳库的变化已经受到越来越多的关注。首先采用物种分布模型预测了天山北坡雪岭云杉林的潜在分布,其次估计了与被开垦为农田的雪岭云杉林面积(PSC)以及由林地开垦为农田造成的有机碳损失。PSC 分别由雪岭云杉林的现实分布、潜在分布和农田的现实分布确定。云杉林地和农田的土壤有机碳含量由野外采样和实验室分析获得。研究发现，PSC面积为 $2 . 6 8 \times 1 0 ^ { 6 } \mathrm { h m } ^ { 2 }$ ,被开垦为农田的雪岭云杉林土壤有机碳的损失为 $1 7 1 . 7 ~ \mathrm { t / h m } ^ { 2 }$ ；研究区总有机碳的损失为 $4 5 9 . 7 0 \mathrm { T g }$ 。结果表明,研究区的林地恢复和重建项目将会使土壤有机碳储量有所增加,且土壤表层的增加量多于深层。
+
+关键词：天山;雪岭云杉林;潜在分布；土地利用变化；土壤有机碳损失
+
+# Estimation of soil organic carbon loss from Picea schrenkiana forest to farmland in the northern Tianshan Mountains
+
+CHANG Yapeng'，LI $\mathrm { L u } ^ { 1 }$ ，XU Zhonglin1,2,\*   
+1College ofResource and Environmental Science,Xinjiang University,Urumqi 83oo46,China   
+2 KeyLaboratoryfasis Ecology,CollgeofResourceandEnvironmentalScience,Xinjiang University,Urumqi3046,China
+
+Abstract:The efectof land-use changesonsoilcarbon stocks isan increasing concern in thecontextof global climate warming.Inthisstudy，weinitialldelineatedthedeforestationareaofaPiceaschrenkianaforestcultivatedtocropland (PSC）at the north slope of the Tianshan Mountains.We then estimated thecorresponding soil organiccarbon（SOC）loss during theland-usechange.ThePSC was estimated bythe potential，actual distributions offorestandcropland.The SOC contentof theforestandcroplandsoils was obtainedthrough field sampling and laboratoryanalysis.Wefoundthatthearea of the PSC was $2 . 6 8 \times 1 0 ^ { 6 } \mathrm { h m } ^ { 2 }$ ，and the SOC loss（per unit area） caused by the cultivation of forest to cropland was 171.7 $\mathrm { t } / \mathrm { h m } ^ { 2 }$ ，correspondingly.The total SOC loss in the studyarea was 459.7O Tg.Thisresult implies that continuing the aforestation and reforestation programs currently implemented in the study area would increase the SOC.In adition，we foundthatthepotential SOC sequestrationis expected toincrease toa greater extent intheupper soillayers thanthe lower layers.
+
+KeyWords：Tianshan Mountains；Picea schrenkiana forests；potential distribution；land-usechange；soilorganic carbon loss
+
+在过去的几十年里,大气中温室气体的浓度与全球变暖之间的关系一直是科研所关注的焦点问题。Mauna Loa Observatory 和LeQuere 的观测记录表明,大气中二氧化碳( $\mathrm { C O } _ { 2 }$ ,最重要的温室气体)的浓度已达到$4 0 0 \mu \mathrm { L } / \mathrm { L }$ ,几乎是工业革命前浓度的 $1 3 5 \% ( 2 7 8 \mu \mathrm { L } / \mathrm { L } ) ^ { [ 1 - 2 ] }$ 。联合国政府间气候变化专门委员会(IPCC)的报告表明,现阶段大气中 $\mathrm { C O } _ { 2 }$ 浓度和相关辐射强迫正在以前所未有的速度增加[3」，且大气中 $\mathrm { C O } _ { 2 }$ 浓度的增加主要是由人为的土地利用变化和化石燃料的使用造成的[4]。由于森林土壤中储存了大量的有机碳,因此,科学家在不同的森林生态系统中,开展了关于森林土地利用覆盖变化（LUCC）和相应的有机碳损失的研究[5-7]。然而在我国西北干旱区，对山地森林区域LUCC造成的碳损失的研究较为缺乏。
+
+本研究估算了天山北坡雪岭云杉林从林地到耕地的土地覆盖变化过程中碳的损失。相关工作主要集中于以下几点：（1)对遥感图像进行分类,得到研究区的雪岭云杉林和农田的实际分布；（2）采用最大熵（Maximum entropy model，Maxent)模型预测雪岭云杉林的潜在分布;（3)计算已被开垦为农田的潜在林地的土地面积(Potential Schrenk's spruce forest that has been cultivated to Cropland，PSC);（4)采集土壤样本,测定林地和耕地中土壤有机碳的含量和密度;（5)利用土壤有机碳的含量和密度数据以及PSC 面积估算相关土地利用覆盖变化的碳损失。
+
+# 1材料与方法
+
+# 1.1 研究区域
+
+天山位于塔克拉玛干沙漠的北部和西部地区,塔里木盆地以北(图1),是喜马拉雅造山带的一部分,于新生代时期由印度板块和亚欧板块撞击形成[8]。天山的植被覆盖类型(从低海拔到高海拔)包括草原、森林草原、亚高山灌丛、高山草甸、永久性冰雪。天山北坡(阴坡)草原森林带的范围是从海拔 $1 4 0 0 \mathrm { m }$ 到 $2 8 0 0 \mathrm { m }$ ,森林主要由雪岭云杉(Picea schrenkiana)林组成。
+
+![](images/33d1521f1a85eb1e4e20b856e4c3c1f35fbacff81d74ed4db2fc94b561d61963.jpg)  
+图1研究区示意图(天山北坡，蓝色的阴影区域)  
+Fig.1Study area(north slope of the Tianshan Mountains，blue-shaded regions)
+
+# 1.2 实际林地
+
+研究区内雪岭云杉林和农田的实际分布是通过对TM遥感影像(2014年6月1日至8月31日)进行分类（分类和回归树方法,ENVI4.8)得到的。分类结果的精度利用214个随机样点和 kappa 系数进行评价,通过计算得到kappa 系数为0.8,表明了分类结果的合理性。
+
+# 1.3雪岭云杉林的潜在分布模型
+
+本研究确定了155个雪岭云杉林样点(139个位于中国境内,16个位于哈萨克斯坦和吉尔吉斯斯坦),用来模拟森林物种的潜在分布（图1)。位于中国的样点通过2012—2014年的野外调查确立的。哈萨克斯坦和吉尔吉斯斯坦的样点通过谷歌地球软件确定。
+
+雪岭云杉林的潜在分布由 Maxent 模型进行预测[9]。该模型已经被应用于森林的恢复规划[10]、气候变化影响预测[1-12]等。在本研究中,选取了年平均气温、最冷月份的最低气温、年平均降水量、最湿润季节的降水量4个与生物气候变量以及由(Digital Elevation Model，DEM)计算得到的坡向、坡度、太阳辐射量和地形湿度指数[13]作为预测变量。最大熵模型(3.3.3K版本)在运行时默认值的设置如下：随机测试百分比,25;正则化因子，1;最大背景样本数，10000;重复次数,10。实际运算过程中，本研究使用了 $7 5 \%$ 的样点作为训练样本，其他 $2 5 \%$ 为验证样本。获得雪岭云杉林潜在分布的概率图后,通过最大化敏感性和特异性的阈值选择策略将概率值转化为二进制值[14]。
+
+在默认的情况下,最大熵模型采用受试者工作特征曲线（Receiver Operating Character，ROC)和ROC 曲线下面积（Area Under ROC，AUC)值来评估模型性能。鉴于有研究对 AUC提出质疑[15],因此,在本研究中评价最大熵模型性能的是真实技巧统计值（True Skill Statistic，TSS）。根据 Liu 等的研究[16],TSS 的值可以从预测误差矩阵中计算得到。
+
+# 1.4 PSC面积估算
+
+被开垦为农田的潜在林地的土地面积（PSC)分别由雪岭云杉林的现实分布（Actual distribution of theP.schrenkiana forests,Pa）潜在分布（Potential distribution of the $P .$ schrenkiana forests, $\mathrm { P p }$ )和农田的现实分布（Actual distributionof the Cropland,Ca）确定,可表示为： $\mathrm { P a } \in \mathrm { P p } , \mathrm { P p } \cap \mathrm { C a } = \mathrm { P S C }$ ;由 ArcGIS计算可得被开垦为农田的潜在林地的土地面积。
+
+# 1.5 碳损失估算
+
+野外工作中,在每一个野外样地采样点(雪岭云杉林和农田)平行的采集3个土壤剖面的土壤,带回实验室分析获得该样点土壤有机碳的平均值。在每个剖面以 $1 0 \mathrm { { c m } }$ 为间隔采集土壤样本( $\ : ( 0 - 8 0 \mathrm { c m }$ ,或遇到基岩为止)。实验室分析过程中,采用重铬酸钾容量法测定碳的密度[17]。获得碳含量之后,通过如下公式计算得到整个土壤剖面的有机碳密度[18]：
+
+$$
+\mathrm { S O C } = \sum _ { i } \ \mathrm { s o c } _ { i } = \sum _ { i } \ \rho _ { i } ( 1 - ( \frac { 1 } { 1 0 0 } \delta _ { i } ) ) \ d _ { i } c _ { i }
+$$
+
+式中， $. \rho _ { i }$ 是 $< 2 \mathrm { m m }$ 土壤颗粒的体积密度( $\mathrm { { g } / \mathrm { { c m } ^ { 3 } } }$ ）， $\delta _ { i }$ 为 $\geqslant 2 \mathrm { m m }$ 部分的相对体积 $( \% ) , d _ { i }$ 为 $\mathbf { \chi } _ { i }$ 土层的厚度（此处$d _ { i } = 1 0 \mathrm { c m } \AA ,$ ）’ $C _ { i }$ 是 $i$ 土层的碳含量 $( \mathbf { g } / \mathrm { k g } )$ 。
+
+# 2结果
+
+# 2.1雪岭云杉林实际和潜在分布
+
+雪岭云杉林的实际分布从遥感影像的分类结果中提取。结果表明,天山北坡雪岭云杉林的面积为 $2 . 4 3 \times$ $1 0 ^ { 6 } \mathrm { { h m } } ^ { 2 }$ 。Maxent模型模拟结果表明雪岭云杉林的潜在分布土地面积占地为 $8 . 4 2 \times 1 0 ^ { 6 } \mathrm { h m } ^ { 2 }$ （TSS值为0.753，表明对目标物种的潜在分布区的预测是合理的)。图2显示了雪岭云杉林的实际分布和潜在分布。通过比较
+
+![](images/3722d056ce5887eb21fbbef5978ac7c8126b02c786214c0dc4a794b675c5ff05.jpg)  
+图2雪岭云杉林和实际分布和潜在分布  
+Fig.2Actual and pontential distributions the P.schrenkiana forests
+
+http ://www.ecologica.cn
+
+雪岭云杉林的实际和潜在的分布,研究发现实际分布和潜在分布的面积差异为 $5 . 9 9 \times 1 0 ^ { 6 } \ \mathrm { h m } ^ { 2 }$ ,实际分布$( 2 . 4 3 \times 1 0 ^ { 6 } \mathrm { h m } ^ { 2 } .$ )仅占潜在分布( $\phantom { 0 } { 8 . 4 2 \times 1 0 ^ { 6 } } \mathrm { h m } ^ { 2 } .$ 的 $2 8 . 8 1 \%$ 。退化的森林可能已经被开垦为农田、草地或其他类型的土地覆盖或土地利用类型。本研究关注的是雪岭云杉林被开垦为农田潜在分布。经过计算可得,PSC 面积为 $2 . 6 8 \times 1 0 ^ { 6 } \ \mathrm { h m } ^ { 2 }$ （图2）。
+
+# 2.2雪岭云杉林与农田的土壤有机碳
+
+室内分析显示，在本研究的采样点区域，雪岭云杉林表层土壤 $( 0 { - } 1 0 \mathrm { c m } )$ 的土壤有机碳密度为4.25—$1 3 . 7 9 \mathrm { k g / m ^ { 2 } } ( 4 2 . 5 \mathrm { - } 1 3 7 . 9 ~ \mathrm { t / h m ^ { 2 } } )$ ,平均值为 $8 . 8 6 \mathrm { k g / m } ^ { 2 } ( 8 8 . 6 ~ \mathrm { t / h m } ^ { 2 } )$ （表1）。表层土壤中的土壤有机碳密度最高,之后土壤有机碳密度沿土壤剖面从表层至底层逐渐降低。土壤剖面深度为70一 $8 0 \mathrm { c m }$ 处的土壤有机碳密度最低,在 $0 . 1 4 { - } 3 . 6 8 \mathrm { k g / m } ^ { 2 }$ 之间(1.4- $3 6 . 8 ~ \mathrm { t / h m } ^ { 2 }$ )，平均为 $1 . 8 8 \mathrm { k g / m } ^ { 2 } ( 1 8 . 8 \mathrm { \ t / h m } ^ { 2 } )$ 。森林土壤有机碳密度为$3 4 . 9 1 \mathrm { k g / m } ^ { 2 } ( 3 4 9 . 1 ~ \mathrm { t / h m } ^ { 2 } )$ 。
+
+表1雪岭云杉林土壤剖面的土壤有机碳密度  
+
+<html><body><table><tr><td colspan="6">Table1 SOC density of the soil profile of theP.schrenkiana forest</td></tr><tr><td>土壤深度</td><td>土壤有机碳密度</td><td>平均值</td><td>土壤深度</td><td>土壤有机碳密度</td><td>平均值</td></tr><tr><td rowspan="2">Soil depth/cm</td><td>SOC density/</td><td>Average/</td><td rowspan="2">Soil depth/cm</td><td>SOC density/</td><td>Average/</td></tr><tr><td>（kg/m²）</td><td>（kg/m²）</td><td>（kg/m²）</td><td>（kg/m²）</td></tr><tr><td>0-10</td><td>4.25—13.79</td><td>8.86</td><td>10--20</td><td>4.40—10.71</td><td>6.27</td></tr><tr><td>20-30</td><td>2.05—10.73</td><td>4.87</td><td>30-40</td><td>1.69—8.24</td><td>3.47</td></tr><tr><td>40-50</td><td>2.03-5.48</td><td>3.28</td><td>50-60</td><td>1.94—9.44</td><td>3.71</td></tr><tr><td>60-70</td><td>0.19—4.47</td><td>2.57</td><td>70-80</td><td>0.14—3.68</td><td>1.88</td></tr></table></body></html>
+
+在 $_ { 0 - 2 0 \mathrm { c m } }$ 深度的农田土壤层,土壤有机碳密度（0—10cm土壤层为 $2 . 4 0 \mathrm { k g / m } ^ { 2 }$ ， $1 0 { - } 2 0 \mathrm { c m }$ 土壤层为$3 . 0 7 \mathrm { k g } / \mathrm { m } ^ { 2 }$ ,平均为 $2 . 7 4 \mathrm { k g / m } ^ { 2 }$ ）比20- ${ . 5 0 } \mathrm { c m }$ 土壤层（20 $( 2 0 - 3 0 \mathrm { c m } , 3 0 - 4 0 \mathrm { c m } , 4 0 - 5 0 \mathrm { c m }$ 土壤层分别为 $1 . 6 6 \mathrm { k g / }$ $\mathbf { m } ^ { 2 }$ $^ { 2 } , 2 . 4 0 \mathrm { k g / m } ^ { 2 }$ ， $1 . 8 5 \mathrm { k g / m } ^ { 2 }$ ;平均为 $1 . 9 7 \mathrm { k g } / \mathrm { m } ^ { 2 }$ )高。这一结果揭示了土壤有机碳密度从表层向深层的递减趋势。然而,减少的趋势没有延续到更深的土壤层。在50—$6 0 \mathrm { c m }$ 与 $6 0 { - } 7 0 \mathrm { c m }$ 土层深度,土壤有机碳密度各自增加到 $3 . 3 3 ~ \mathrm { k g / m } ^ { 2 }$ 与 $3 . 0 2 ~ \mathrm { k g / m } ^ { 2 }$ ,平均密度为 $3 . 1 8 ~ \mathrm { k g / m } ^ { 2 }$ （图3）。农田土壤总有机碳密度为 $1 7 . 7 4 \mathrm { \ k g / m } ^ { 2 } ( \ 1 7 7 . 4 \mathrm { \ t / }$ $\mathbf { h } \mathbf { m } ^ { 2 }$ ）。
+
+# 2.3 碳损失估算
+
+由前述结果可知，云杉林土壤总有机碳密度为$3 4 9 . 1 \ \mathrm { t / h m } ^ { 2 }$ ,农田土壤总有机碳密度为 $1 7 7 . 4 \ \mathrm { { \fontfamily { q p l } \selectfont ~ 1 7 h m } } ^ { 2 }$ 。因此，由林地到农田的土地利用覆盖变化，可导致土壤总有机碳含量的变化量为 $1 7 1 . 7 ~ \mathrm { t / h m } ^ { 2 }$ ,约为林地土壤总有机碳的近 $5 0 \% ( 4 9 . 1 8 \% )$ )。当在整个研究区内考虑土壤的碳损失时（即考虑PSC土地面积 $2 . 6 8 \times 1 0 ^ { 6 } \ \mathrm { h m } ^ { 2 }$ )，计算可得从森林土壤到农田对应的土地覆盖变化的碳损失约为 $4 5 9 . 7 0 \mathrm { T g }$ 。然而,需要注意的是,林地转化为农田之后,与自然土壤相比,农田土壤碳密度的变化是自然因素和农业管理的综合作用。考虑到本研究中采集的土壤样本来自于农田经营管理措施之下,相关研究表明通过秸秆还田与有机肥施用、化肥投入增加与合理的养分配比以及少(免)耕技术的推广，会导致农田土壤有机碳的增加[19]。因此,本文计算的林地与农田总有机碳密度的差异可能会减小,也即最终的碳损失量可能会有所减少。
+
+![](images/6be7236256a9b2d8a77732e0dcec967ada929d00a9ce40d28f69829347e27d82.jpg)  
+图3农田土壤剖面深度与土壤有机碳密度之间的关系 Fig.3General trend of the SOC density along the soil profiles of the cropland
+
+# 3讨论
+
+由于各种环境和人为因素的影响，难以获得林地被耕作后的土壤有机碳损失量。Niu和Duiker通过在林地边缘农业用地上划定潜在林地来评定实践造林的碳损失[20]。在估算过程中,作者利用土地覆盖数据集和土壤地理数据库来确定潜在的林业用地。这不失为一种估计碳损失量的方法，然而，划定的林业用地在生物气候空间上是否适宜森林生长仍不清楚。Schulp[21]等将整个欧洲作为研究区开展了未来土地利用变化对土壤和植被碳储量变化影响的研究。在该研究中，作者将土地利用变化模型（Dyna-CLUE）和碳模型（大尺度bookkeeping模型)相结合来预测未来的土地利用和相应的碳损失量。该研究对比了不同尺度上两种模型进行结合所关联的复杂性。鉴于土地利用变化模型和土地利用情景预测的不确定性，造成评估结果的变化较大。在本研究中，通过实地调查、实验室分析和模型模拟估算了天山北坡农田的碳损失量。与基于过程估算相比,本研究所要求的数据类型较少，因此适用于在区域范围内做相应的估算。然而需要指出的是，由于SDM 模型具有不确定性,所以,提高潜在分布模拟精度也是必要之举。
+
+![](images/1712090ea29c0fea08365878408e998053f25f9080675396a2631f98fa13e45d.jpg)  
+图4森林和农田土壤有机碳的差异  
+Fig. 4 Difference in SOC density between the forest and cropland soils
+
+森林和农田土壤有机碳的差异为可能存在的碳汇提供了科学依据。在土地利用变化及其土壤有机碳储量变化的研究中， $\mathrm { D o n } ^ { [ 2 2 ] }$ 等认为最高的碳损失是由原始森林转变为农田( $- 2 5 \% )$ )和多年生农作物 $( - 3 0 \% )$ 造成的。本研究结果发现如果农田能够恢复成天然林,那么可能带来碳储量的增加。由于土壤有机碳的增加可能发生在每一土层中,因此研究土壤有机碳在土壤各层中的增加差异,有助于深入理解土地利用变化对应的土壤有机碳的变化过程。本研究除了进一步证实林地土壤有机碳随着土壤深度的增加而降低的趋势[23],还发现森林与农田上层土壤有机碳含量的差异大于下层土壤(图4）,因此上层土壤可能会更多的贡献于退耕还林及其他森林恢复工程所产生的碳汇增加。
+
+# 参考文献（References）：
+
+[1]LeQueréC,MoriatyR,AndrewRM,PetersGP,CiaisP,FriedlingsteinP,JoesSD,SitchS,TansP,AethA，BodenTA,oppL,Bozec Y,CadellJ,evae,oC,Has,a,ghoe,in,Jossn,KaE,ligF,KitidisV,KleinGoldewijkK,KvenC,LndaCS,adschitzerP,LentonA,LimaID,MarlandG,MathisJ,MetlN,NYOlsenA,OnoT,PetersWfeilB,PoulterB,upachM,egner,denbeckC,itoS,alisburyJE,usterU,SchwingerJ,feranR,SegschneiderJ,SteinhoffT,StockerBD,SutonAJ,TakahashiT,TilbrooB,vanderWerfGR,VioyN，WangYP,WainkofR,Wiltshire A,Zeng N.Global carbon budget 2014.Earth System Science Data Discussions，2014,7(2）：521-610.  
+[2]Mauna Loa Observatory.Hawaii.2014[2015-01-15]. http://co2now.org/.  
+[3]IPCC.ateCag：eycalceBsisotriutioofWkingGopIteFfentRetofteetalPanel on Climate Change.Cambridge：Cambridge University Press,2013.  
+[4] HoughtonRA.Balancingtheglobalcarbonbudget.Annual Reviewof EarthandPlanetary Sciences,2Oo7,35(1)：313-347.  
+[5] BarniPE,FearsidedeencastroracaMLSiulatingdeforestationdcarbonlossinmazoniaimpactsinrazil'sRoraatefrom reconstructing highway BR-319（Manaus-Porto Velho).Environmental Management,2015,55(2）：259-278.  
+[6]CarlsonKM,CurrnLM,RatnasariD,PitmanAM,Soares-FiloBS,snerGP,Trig SN,GaveauDA,Lawrence D,RodrgsHO.Commitedcarboneisios，deforestationdomunitylandcoversionfrooilpalmplantatioexpasioinWestKalimanta，dosia.Proceedings of the National Academy of Sciences of the United States of America，2012，109(19)：7559-7564.  
+[7]YangYS,XieJ,ShengH,ChenGS,LiX,YangZJeimpactoflanduecoverchangeonstorageandqualityfsoilorganicarboinmidsubtropical mountainous area of southern China.Journal of Geographical Sciences,2Oo9,19(1)：49-57.  
+[8]YinA,NieSraigP,HaisonTM,RyersonF，QianXL,YangG.LateCenozictectonicevolutionofthesoutheChineeTanSan.Tectonics,1998,17(1):1-27.  
+[9]PhiliEelfael231-259.  
+[10] VessellF，ShoeBPrigpotetialdistrbutioofQuecussubeilyasdooloicalceoelsoseatiohsdreforestation involvements.Forest Ecology and Management，2013,304：150-161.  
+[11]XuZL,FengZD,YangJJ,engH,ZangFowerevdeumexcrisusandTyhalatifiprojectedtdisappeaefeclimate scenarios.PLoS One,2013，8(7）：e70728.  
+[12]HijansJmeSoGVeryigutelateobaldsilJournal of Climatology，2005，25(15）：1965-1978.  
+[13]BevenKirkbJalldbigelofrodrolcalsi7（：43-69.  
+[14]Pillpdkdelgfsrsietesreesiaa：161-175.  
+[15]LoboJM,Jienez-ValvedeA，ealRUC：misleadigmasureoftepefoanceofpreditivedistributiomodels.GlobalolgdBiogeography，2008，17(2）：145-151.  
+[16] Liu CR,WhiteM,NewellGMeasuingandcomparingtheaccuracyofseciesdistributionmodelswithpresenceabsencedataEcogaphy，2011,34(2)：232-243.  
+[17]YeomansJCrJapiddpreiseodfrtieteatioofnicbinoiloucioinedPlant Analysis，1988，19(13）：1467-1476.  
+[18] VesterdalL，RitE,denginlicboflingoresiofeablendFestEoldt,2002，169(1/2):137-147.  
+[19] 黄耀，孙文娟.近20年来中国大陆农田表土有机碳含量的变化趋势.科学通报，2006，51（7)：750-763.  
+[20] NiuXZ,DuikerSWarbsestrootetialbyforestatioofaaliclurallandieidesteU.ForestooManagement，2006，223（1/3）：415-427.  
+[21] SchulpCJE，NabuursGJ，VerburgPH.FuturecarbonsequestrationinEuropeefectsoflandusechange.AgricultureEcosystems&Environment，2008，127(3/4)：251-264.  
+[2]DonA，humacherJ,FrebauerAmpactoftropicallndusechangeonsoilorganiccarbonstocksmetaanalysislobalCangeBiology，2011，17(4)：1658-1670.  
+[23］阿米娜木·艾力，常顺利，张毓涛，仇瑶，何平.天山云杉森林土壤有机碳沿海拔的分布规律及其影响因素.生态学报，2014，34（7)：1626-1634.

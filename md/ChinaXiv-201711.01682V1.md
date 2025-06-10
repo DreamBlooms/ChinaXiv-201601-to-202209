@@ -1,0 +1,147 @@
+李国栋1,²　赵圣国1\* 张养东」　郑楠」李松励 $^ 1$ 赵国琦²王加启1(1.中国农业科学院，北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193；2.
+
+扬州大学，动物科学与技术学院，扬州 225009)
+
+摘要：农作物秸秆作为一种资源丰富、来源广泛的生物质资源，在畜牧业和生物能源产业应用潜力巨大。但由于其复杂的化学组成以及抗性结构，使其不能直接高效地通过生物转化所利用。通过预处理可以降低秸秆纤维素的结晶度，提高秸秆的利用率。然而预处理过程不可避免地使秸秆在高温或化学催化作用下过度降解，并伴随着副产物的产生，对后续微生物发酵有抑制作用。本文综述了秸秆的稀酸、碱、蒸汽爆破以及生物预处理技术的研究进展，并对预处理副产物呋喃类衍生物、弱酸类和酚类化合物的产生与抑制机理作一综述。
+
+关键词：农作物秸秆；预处理；抑制物中图分类号：S816.5
+
+我国是粮食生产大国，也是秸秆生产大国，每年可生产秸秆7亿t以上，约占全世界秸秆总量的 $20 \%$ ，其中，稻草、玉米秸、麦秸是我国产量最高的3大作物秸秆，占全国秸秆总产量的 $6 1 \% ^ { [ 1 ] }$ 。在经济发达地区的农村和大城市郊区，由于燃料结构改变和化肥的广泛使用，秸杆剩余量高达 $70 \% \mathrm { \sim } 8 0 \%$ ，这些秸杆最后大多被焚烧。秸杆露天焚烧即浪费资源又影响交通，也是秋冬季雾霾形成的原因之一，带来严重的社会问题。因而，如何开发利用秸秆资源成为当今农业发展的重大课题之一。秸秆饲料化既可以节约大量粮食，也能解决畜牧业牧草不足的难题[2]；秸秆纤维素乙醇生产可直接替代工业乙醇生产所消耗的大量粮食，对国家粮食安全具有重大战略意义[3]；秸秆沼气作为高效清洁能源，既能解决秸秆焚烧带来的环境问题，又缓解农村能源紧张的局面[4]。近些年来，秸秆饲料化、秸秆的生物乙醇转化以及生物沼气转化等逐步受到国内外重视，并成为研究热点。
+
+农作物秸秆的化学组成主要包括纤维素、半纤维素和木质素，由于其组成复杂，结构稳定，生物降解很难进行，因此要对原料进行预处理。通过预处理破坏半纤维素和木质素的结构，降低纤维素的结晶度，使酶与纤维素充分接触，有利于酶解反应的进行。然而，农作物秸秆经过预处理后，木质素、纤维素以及半纤维素都不可避免地在高温或化学催化作用下过度降解产生对后续纤维素酶水解和生物发酵有抑制作用的副产物，主要分为呋喃类衍生物、弱酸类和酚类化合物3类。这些副产物既能抑制纤维素酶的活性，降低酶解效率，又能抑制微生物的碳代谢过程。
+
+# 1秸秆预处理方式
+
+秸秆预处理方式中应用比较广泛的主要有物理预处理、化学预处理、生物预处理。物理法主要包括粉碎、球磨和蒸汽爆破等，化学法主要包括碱处理和酸处理等，生物法主要包括酶解和微生物发酵等。这些预处理方法在改善秸秆特性，提高秸秆降解率的同时又各有其局限性。传统的机械处理、化学处理等技术能耗较高且存在环境污染问题，已不适应于现代化工业生产与应用；生物处理在处理成本上占据优势，但其较长的预处理时间与生产周期限制了其工业化应用；蒸汽爆破处理相对于其他预处理方法，在能耗、环境友好性、处理效果上有着明显优势，是预处理技术发展方向之一。表1为几种常见的秸秆预处理方法之间的比较。
+
+表1常见秸秆预处理方法的比较  
+Table 1 Comparison of common pretreatment methods for straw   
+
+<html><body><table><tr><td>方法</td><td>作用机理</td><td>优点</td><td>缺点</td><td>适用范围</td></tr><tr><td>Methods</td><td>Mechanism</td><td>Advantages</td><td>Disadvantages</td><td>Scope</td></tr><tr><td>稀酸预处理</td><td>破坏纤维素的晶体结构，打</td><td>预处理效率高、</td><td>设备耐腐蚀性要</td><td>纤维素乙醇生产[5-6]</td></tr><tr><td>Dilute acid</td><td>破木质素与纤维素的连接，</td><td></td><td>溶剂成本低、能求高，产生乙酸、</td><td></td></tr><tr><td>pretreatment</td><td>同时使半纤维素溶解</td><td>耗低等</td><td>糠醛等发酵抑制</td><td></td></tr><tr><td></td><td></td><td></td><td>物</td><td></td></tr><tr><td>碱预处理</td><td>OH使木质素的醚键断裂，</td><td>用量少、成本</td><td>环境污染、原料损</td><td>秸秆饲料化[7-9]；纤维素</td></tr><tr><td>Alkali</td><td>削弱半纤维素和纤维素之</td><td>低，且预处理效</td><td>失、产生酚类抑制</td><td>乙醇生产[10]；生物沼气</td></tr><tr><td>pretreatment</td><td>间的氢键，皂化半纤维素和</td><td>果明显</td><td>物</td><td>生产[]</td></tr><tr><td></td><td>木质素之间的酯键</td><td></td><td></td><td></td></tr><tr><td>蒸汽爆破</td><td>高温高压环境下，半纤维素</td><td>处理时间短、化</td><td>木质素分离不完</td><td>秸秆饲料化[12-13]；纤维</td></tr><tr><td>Steam</td><td>部分降解，木质素软化；瞬</td><td>学药品使用量</td><td>全，部分木糖被破</td><td>素乙醇生产[14]；生物沼</td></tr><tr><td>explosion</td><td>间减压，纤维结晶减弱，细</td><td>少、无污染等</td><td>坏，产生乙酸、糠</td><td>气生产[15]</td></tr><tr><td></td><td>胞壁结构破坏，木质素部分</td><td></td><td>醛等发酵抑制物</td><td></td></tr></table></body></html>
+
+降解  
+生物预处理 利用降解纤维素、半纤维素 能耗低、无污 可选用菌种偏少 秸秆饲料化[16-17]；生物  
+Biological 和木质素的微生物或在培 染、处理过程条 且处理周期长，难 沼气生产[18]  
+pretreatment 养过程中产生的分解酶，降 件温和等 以工业化解原料纤维素、半纤维素和木质素
+
+# 1.1稀酸预处理
+
+稀酸预处理是研究最早也是目前最成熟的预处理方式之一，其能破坏纤维素的晶体结构，打破纤维素与木质素之间的连接，同时溶解半纤维素。用于不同木质纤维素预处理的酸，包括稀硫酸、稀硝酸、稀盐酸、稀磷酸和稀草酸。其中，稀硫酸成本低、效率高、环境污染小更适合工业化。陈尚研等[19]研究发现，玉米秸秆在 $0 . 7 5 \%$ 的稀硫酸、 $1 5 0 ^ { \circ } \mathrm { C }$ 、 $8 0 \mathrm { m i n }$ 条件下，半纤维素降解率为 $9 8 . 0 2 \%$ ，预处理渣纤维素酶水解得率为 $6 6 . 9 5 \%$ 。Kootstra 等[20]则发现，与稀硫酸相比有机酸类马来酸和富马酸的预处理副产物中抑制物糠醛的含量较少。秸秆类物质稀酸预处理过程中，添加合适的表面活性剂，有提高纤维素酶解效率的作用。Qing 等[21研究了吐温 80、十二烷基苯磺酸和聚乙二醇 4000 作为玉米秸秆稀酸预处理添加剂的效果，结果显示，这些表面活性剂能有效去除秸秆中的木质素成份，且通过增加生物质的疏水性从而提高纤维素的酶解效率。Qi等[5在对小麦秸秆稀硫酸预处理时加入 $0 { \sim } 1 \%$ 吐温20 也得到了类似的结果。因此，秸秆类物质稀酸预处理中添加表面活性物质效果更好。稀酸处理与其他预处理方式组合，在实际生产中效果更好。Zhang 等研究发现酸碱复合处理可去除玉米芯中大部分非纤维材料，经过同步糖化发酵乙醇浓度为 $6 9 . 2 \ \mathrm { g / L }$ ,乙醇得率高达 $8 1 . 2 \%$ 。潘裕清等[22]研究了草酸预浸汽爆玉米芯的酶解状况，结果显示其葡萄糖产量较中性蒸汽爆破玉米芯和未处理玉米芯分别提高 $3 2 . 3 \%$ 和 $2 1 4 . 8 7 \%$ 。稀酸预处理具有价格低、工艺简单等优点，但其腐蚀性对设备要求较高，处理过程中会产生乙酸、糠醛等发酵抑制物。
+
+# 1.2 碱预处理
+
+碱预处理主要是利用OH使木质素的醚键断裂，削弱半纤维素和纤维素之间的氢键，皂化半纤维素和木质素之间的酯键，使得木质纤维素原料的结晶度降低，更易于水解。秸秆原料的碱处理一般使用 NaOH、 $\mathrm { C a ( O H ) } _ { 2 }$ 和氨溶液。Varga 等[10]研究发现， $10 \%$ NaOH、 $1 2 0 ^ { \circ } \mathrm { C }$ 条件下处理玉米秸秆 $6 0 \mathrm { m i n }$ ，木质素的去除率达到 $9 5 \%$ 。NaOH对纤维素的出色的脱木质素以及润胀能力，能增加纤维素酶的作用面积，降低纤维素的聚合度，对实现生物质的高效转化是必不可少的。同时， $\mathrm { \Delta N a O H }$ 预处理也存在着试剂回收困难、环境污染等问题。 $\mathrm { C a ( O H ) } _ { 2 }$ 与 NaOH预处理相比成本低、环境污染小，且可以通过与 $\mathrm { C O } _ { 2 }$ 反应从水解产物中回收。Gu等[1研究了 $\mathrm { C a ( O H ) } _ { 2 }$ 预处理对稻草秸秆厌氧消化的影响，结果显示， $\mathrm { C a ( O H ) } _ { 2 }$ 预处理显著增加了稻草秸秆的产沼气率和酶水解效率；且傅立叶变换红外光谱(FTIR)分析表明, $\mathrm { C a ( O H ) } _ { 2 }$ 预处理有脱木质素和降低结晶度的作用。
+
+秸秆饲料厌氧碱贮技术在国内外有广泛的研究进展。Shi等7用CaO 处理后的玉米秸秆搭配干酒糟及其可溶物（DDGS）部分替代泌乳中后期奶牛饲粮中野生黑麦、玉米青贮和玉米粒，结果显示，乳糖含量及 $4 \%$ 乳脂校正乳、乳脂和乳蛋白产量并未受到显著影响，且收益增加。Wanapat 等β研究发现，水牛饲喂经尿素处理的水稻秸秆后，瘤胃液中产琥珀酸丝状杆菌、黄色瘤胃球菌和白色瘤胃球菌数量均有增加，说明经尿素处理的秸秆更有利于水牛瘤胃纤维分解菌的黏附与定植。此外，Polyorach 等[9的试验发现，尿素和 $\mathrm { C a ( O H ) } _ { 2 }$ 复合处理可提高稻草的营养价值，促进肉牛瘤胃发酵，且比单一的尿素处理更经济。碱处理在脱木质素和降低结晶度的同时，伴随苯酚、对甲酚和香草醇等物质产生，对微生物发酵产生抑制;碱处理还会导致部分生物质的溶解，造成原料损失。
+
+# 1.3蒸汽爆破
+
+蒸汽爆破，由于其潜在破坏纤维素、木质素的结晶结构以及水解半纤维素的特性，是目前使用最广泛的物理预处理方法。在蒸汽爆破中，生物质原料被高压饱和蒸汽加热，维持一定时间后，然后迅速减压的过程。高温高压环境下，半纤维素部分降解，木质素被软化；瞬间的减压，巨大的剪切力使纤维细胞间的结晶减弱，细胞壁结构破坏，木质素部分降解，纤维素暴露出来。王玉等[23]研究了汽爆预处理对水稻秸秆纤维结构的影响，FTIR 结果显示，汽爆预处理对秸秆纤维素结构影响不大，对降低半纤维素含量有重要作用；扫描电镜与X-射线衍射分析结果表明，汽爆预处理后秸秆表面形态变化较大，结晶度随着压力与稳压时间增加而增加。
+
+影响蒸汽爆破效果的因素主要与温度、维压时间、粒径大小以及含水量有关。在高温和较短的维压时间 $( 2 7 0 \ \mathrm { ~ \textbar ~ { ~ C ~ } } , 1 \operatorname* { m i n }$ 或低温和较长的维压时间 $( 1 9 0 \ \mathrm { ~ \textcircled { ~ } C } , 1 0 \operatorname* { m i n } )$ 下木质纤维素获得最大的半纤维素降解率以及水解效率[15]。Lopez-Linares 等[14]运用响应面分析法（RSM）优化了油菜秸秆汽爆预处理进行生物乙醇生产的条件，在 $2 1 5 ^ { \circ } \mathrm { C }$ 、 $7 . 5 \mathrm { m i n }$ 条件下得到最大的生物乙醇产率。
+
+目前，蒸汽爆破技术广泛应用于工业造纸以及生物质能源化等领域，在秸秆饲料加工领域相对缓慢。Viola等[12]研究发现，玉米秸秆、大麦秸秆和燕麦秸秆的爆破处理使绵羊对秸秆的干物质消化率提高 $2 5 \%$ ，爆破处理后再进行碱处理，秸秆消化率进一步提高 $9 \%$ 。 Chang等[13]用蒸汽爆破与米曲霉发酵后的生物玉米秸秆分别等量替代爱拨益加肉鸡玉米-豆粕型基础饲粮中 $4 \%$ 、 $8 \%$ 以及 $12 \%$ 的玉米粉，开展为期3d的代谢试验，结果显示，与对照组相比，$4 \%$ 和 $8 \%$ 替代组的干物质、有机物、能量、粗蛋白质和粗脂肪的代谢率没有受到显著影响，中性洗涤纤维和酸性洗涤纤维的代谢率显著增加； $12 \%$ 替代组的能量代谢率显著降低。蒸汽爆破预处理秸秆处理时间短、化学药品使用量少、无污染，但也存在着木质素分离不完全，部分木糖被破坏，产生乙酸、糠醛等发酵抑制物等问题。
+
+# 1.4 生物预处理
+
+生物预处理主要是指利用降解纤维素、半纤维素和木质素的微生物或在培养过程中产生的外切纤维素酶、内切纤维素酶、β-糖苷酶、β-木聚糖酶以及阿魏酸酯酶、乙酸酯酶等，降解秸秆中的木质素、纤维素和半纤维素，达到提高纤维降解率的作用。白腐真菌能够分泌胞外氧化酶，降解木质素能力强且不产生色素，应用前景较好。Lalak 等[18研究发现，白腐真菌毛柄金钱菌(F.velutipes)对长穗偃麦草的半纤维素和木质素降解率分别达到 $2 9 . 1 \%$ 和$3 5 . 4 \%$ 。Shrivastava等[6]采用白腐真菌固态发酵小麦秸秆，显著提高了饲料中的蛋白质含量，提高了肉牛的有机物消化率，并降低了饲料中的碳氮比。农作物秸秆经过阿魏酸酯酶预处理，可促进瘤胃微生物对其细胞壁纤维素和半纤维素的进一步降解。Yang 等[17利用不同葡萄糖水平和氮源的组合培养基研究新丽鞭毛菌(Neocallimastix sp.YQ1)以玉米秸秆为底物时的纤维降解活性，结果显示，阿魏酸酯酶和乙酰酯酶分别在含 $1 . 0 \ : \mathrm { g / L }$ 葡萄糖、 $2 . 8 ~ \mathrm { g / L }$ 酵母提取物、 $0 . 5 \ { \mathrm { g / L } } \ ( { \mathrm { N H } } _ { 4 } ) _ { 2 } { \mathrm { S O } } _ { 4 }$ 和 $1 . 0 \ \mathrm { g / L }$ 葡萄糖、 $1 . 7 \mathrm { g / L }$ 酵母提取物、 $1 . 4 \ : \mathrm { g / L }$ 胰蛋白陈的培养基中活性最高。生物预处理条件温和、能耗低且环境污染小，但也存在着可选菌种偏少、酶解效率低、周期长的问题；且微生物的引入或多或少会造成秸秆中糖份被预处理微生物所利用，降低发酵过程中的底物浓度。
+
+# 2发酵抑制化合物的种类及其抑制机理
+
+蒸汽爆破和化学预处理伴随副产物的形成已成共识，且过量的副产物对微生物发酵有抑制作用。根据这些副产物的来源，通常分为呋喃类衍生物、弱酸类和酚类化合物3类。认识和理解发酵抑制物的种类及其抑制机理，对实际生产中预处理方法的选择和预处理条件的优化具有重要意义。图1为预处理过程中各抑制物的形成。
+
+Cellulose:纤维素；Hemicellulose:半纤维素；Lignins:木质素；Wood extractives:木质提取物；Glucose:葡 萄糖；Mannose:甘露糖；Galactose:半乳糖；Xylose：木糖；Arabinse:阿拉伯糖；Hydroxymenthyl furfural(HMF): 羟甲基糠醛；Fufural:糠醛；Levulinic acid:乙酰丙酸；Formic acid:甲酸；Acetic acid:乙酸；Phenols:酚类化合 物。
+
+![](images/a676cbac12476e9f58dd1b6831d59b53ffa5d0751084bedb3b2bfe5fff21f97c.jpg)  
+图1秸秆预处理过程中抑制物的形成  
+Fig.1Formation of inhibitors during corn straw pretreatment[24]
+
+# 2.1 呋喃类衍生物
+
+糠醛和5-羟甲基糠醛(5-hydroxymethylfurfural，5-HMF)是木质纤维素常见的预处理副产物，他们分别由原料中半纤维素水解得到的戊糖和己糖脱水生成。呋喃醛类化合物对酿酒酵母的影响主要是通过抑制酵母的生长，使迟滞期延长，从而降低乙醇得率和产量。当糠醛浓度低于 $0 . 5 \ : \mathrm { g / L }$ 可促进树干毕赤酵母的生长， $2 . 0 \ \mathrm { g / L }$ 糠醛则完全抑制酵母细胞生长，糠醛浓度为 $1 . 5 \ : \mathrm { g / L }$ 即可使乙醇得率降低 $9 0 . 4 \% ^ { [ 2 5 ] }$ 。糠醛能够抑制细胞内转化活性醛的醛氧化酶类，导致细胞内活性氧(reactive oxygen species,ROS)含量的积累，对细胞线粒体、液泡膜、肌动蛋白细胞骨架和核染色质等产生损伤。研究发现，在厌氧条件下，酿酒酵母可利用还原型烟酰胺腺嘌呤二核苷酸磷酸（NADPH）参与的还原反应，将糠醛和 5-HMF 分别转化为毒性较小的糠醇和 2,5-呋喃二甲醇[26]。Li等[27]利用酵母全基因组表达谱芯片，研究了酿酒酵母在转录组水平上对糠醛的响应，结果显示，糠醛的加入导致酵母参与叶酸代谢、精胺和亚精胺合成等重要的相关基因的表达下调，氧化胁迫相关基因的转录上调。因此，细胞若要在呋喃醛类存在的条件下存活，不仅需要将醛类物质转化为毒性较小的糠醇或 2,5-呋喃二甲醇，还要形成自我保护机制，修复呋喃醛类物质对自身造成的损伤，以耐受呋喃醛类物质的抑制作
+
+用。
+
+# 2.2 弱酸类
+
+木质纤维素预处理副产物中弱酸类物质主要包括乙酸、甲酸和乙酰丙酸。由于纤维素原料中的半纤维素和木质素存在着广泛的乙酰化，这些乙酰基团在预处理过程中就会被转化为乙酸。甲酸是糠醛和5-HMF 的降解产物，乙酰丙酸是由5-HMF 降解形成的。
+
+弱酸类物质对微生物的抑制作用包括细胞内酸化和解偶联机制2种方式[24]。未解离的弱酸类物质可以通过扩散透过细胞壁和细胞膜进入细胞，由于细胞质中性的pH环境，使得扩散到细胞的弱酸类物质发生解离，导致细胞内pH的降低。维持细胞质内pH的恒定对细胞发挥正常生理功能是至关重要的，例如其会影响信号的传导，破坏最佳的酶适条件等。为了维持胞内的pH，主动运输可以部分去除细胞内解离的弱酸，腺苷三磷酸酶(ATPase)可以将游离的 $\mathrm { H ^ { + } }$ 泵出胞外。而主动运输和ATPase 的活动都是以消耗大量ATP为基础的，在这种机制下，弱酸类物质浓度低于100mmol/L时有促进新陈代谢作用，高于100mmol/L则导致微生物代谢缓慢，影响正常发酵进行[28]。乙酸作为弱酸类副产物中含量最高的一个，其对细胞的作用研究较多。Schuller 等[29]研究发现，乙酸会导致细胞线粒体损伤且伴有细胞色素C 渗透到细胞质中，出现染色质凝集和细胞核塌陷等典型的细胞凋亡现象。Almeida 等[30]运用蛋白质组学研究发现，乙酸引起的细胞凋亡是通过引起氧化胁迫，进一步通过雷帕霉素靶途径(target of rapamycin,TOR)相关信号通路实现。
+
+预处理副产物中的有些芳香族羟酸可以充当解偶联剂。Norman 等[31研究发现,水杨酸对植物细胞有解偶联作用，即增大线粒体内膜对 $\mathrm { H ^ { + } }$ 的通透性，消除 $\mathrm { H ^ { + } }$ ，使细胞不能进行磷酸化而不能生成 ATP，从而抑制细胞的生长和发酵；而另一个常见的预处理副产物芳族羧酸，对羟基苯甲酸，却没有表现出如水杨酸的解偶联作用，这可能是由不同弱酸的膜通透性差异有关。
+
+# 2.3 酚类化合物
+
+酚类化合物主要是由木质素降解形成的，产量低但毒性很大，特别是一些分子质量小的单酚物质毒性较强。酚类物质对细胞的抑制作用主要体现在其对细胞膜的损伤，通过破坏细胞膜的完整性，影响膜的选择透过性以及细胞内酶的反应环境。Fitzgerald 等[32]研究发现酚、对甲酚和其他一些潜在的酚类化合物有增加大肠杆菌和植物乳杆菌细胞膜流动性的作用，使该膜允许更多物质的扩散，导致细胞内 $\mathrm { K ^ { + } }$ 的外排。Keweloh 等[33]研究了，苯酚对大肠杆菌细胞膜上蛋白质和脂质组成的影响，发现苯酚能改变细胞膜的功能，改变细胞膜上蛋白质与脂质的比例，使膜上的脂肪酸组成向更饱和的方向转化。Feron 等[34研究了，苯酚对 DNA损伤的作用机制，发现其潜在的损伤是由细胞内ROS 形成以及醛基的一侧电位较大的正电荷（特别是当醛基连接的下一个碳键为双键）引起的。Zhang 等[35]研究了苯酚、香草醇等4种预处理酚类副产物对木糖醇生产菌C.athensensis SB18的抑制作用，发现上述酚类化合物抑制细胞内木糖还原酶的活性，但对木糖醇脱氢酶的活性没有影响。可见酚类对细胞的毒害作用是很强的，进而会影响微生物对预处理秸秆的发酵效率。
+
+抑制物脱毒的方法包括物理法如活性炭[24]可以吸附多种抑制物，真空蒸发[36]可以去除大部分乙酸、糠醛；化学法如熟石灰[37]可以使一些抑制物沉淀；生物法如漆酶[38]可以减少酚类物质的毒性。脱毒过程必然会增加生产成本，且有些方法缺乏实用性，熟石灰法简单经济是使用有效的脱毒方法，生物脱毒法应作为未来研究工作的重点。表2为各抑制物的抑制机制及常见的脱毒方法。
+
+表2抑制物的抑制机制及常见的脱毒方法  
+Table 2Inhibition mechanism and common detoxification techniques of inhibitors   
+
+<html><body><table><tr><td>抑制物</td><td>抑制机制</td><td>脱毒方法</td></tr><tr><td>Inhibitors</td><td>Inhibition mechanism</td><td>Detoxification techniques</td></tr><tr><td rowspan="2">呋喃类衍生物 Furans derivative</td><td>ROS 含量的积累</td><td>活性炭吸附[24];</td></tr><tr><td></td><td>真空蒸发[36]</td></tr><tr><td rowspan="2">弱酸类Weak acids</td><td>细胞内酸化和解偶联[24]</td><td>Ca(OH)2、NaOH、KOH等中和[37];</td></tr><tr><td></td><td>乙酸乙酯萃取;</td></tr><tr><td rowspan="3">酚类化合物 Phenolic compounds</td><td></td><td>离子交换树脂</td></tr><tr><td>破坏细胞膜的完整性[32-33]</td><td>漆酶或过氧化物酶[38];</td></tr><tr><td></td><td>离子交换树脂</td></tr></table></body></html>
+
+3小结
+
+预处理技术将成为农作物秸秆得到合理有效利用的关键。这些预处理方法在改善秸秆特性，提高秸秆降解率的同时又各有其局限性。实际生产中应因地制宜，根据秸秆种类和具体要求选择合理的预处理方法。了解发酵抑制物的抑制机理，对于预处理方法的选择，预处理条件的优化具有重要的参考价值。目前，秸秆类饲料仅靠预处理加工还不能解决其饲用的全部问题，必须通过科学补饲或饲粮配合技术，才能达到最佳的饲喂效果。
+
+参考文献：
+
+[1]毕于运,高春雨,王亚静,等.中国秸秆资源数量估算[J].农业工程学
+
+报,2009,25(12):211-217.
+
+[2]AWAWDEH M S.Alternative feedstuffs and their effects on performance of Awassi sheep:a review[J].Tropical Animal Health and Production,2011,43(7):1297-1309.
+
+[3]LI K,LIU R H,SUN C.A review of methane production from agricultural residues in China[J].Renewable and Sustainable Energy Reviews,2016,54:857-865.   
+[4]SINGH R,SRIVASTAVA M,SHUKLA A.Environmental sustainability of bioethanol production from rice strawin India:a review[J].Renewable and Sustainable Energy Reviews,2016,54:202-216.   
+[5]QI B E,CHEN X G,WAN Y H.Pretreatment of wheat straw by nonionic surfactant-assisted dilute acid forenhancing enzymatic hydrolysisand ethanol production[J].Bioresource Technology,2010,101(13):4875-4883.   
+[6]ZHANG M J, WANG F,SU R X,et al.Ethanol production from high dry mater corncob using fed-batch simultaneoussaccharificationandfermentationafter combined pretreatment[J].Bioresource Technology,2010,101(13):4959-4964.   
+[7]SHI H T,LI S L,CAO Z J,et al.Effects of replacing wild rye,corn silage,or corn grain with CaO-treated corn stover and dried distillrs grains with solubles in lactating cow diets on performance,digestibility,and profitability[J].Journal of Dairy Science,2015,98(10):7183-7193. [8]WANAPAT M,CHERDTHONG A.Use of real-time PCR technique in studying rumen celulolytic bacteria population as affected by level of roughage in swamp buffalo[J].Current Microbiol0gy,2009,58(4):294-299.   
+[9] POLYORACH S,WANAPAT M.Improving the quality of rice straw by urea and calcium hydroxide on rumen ecology,microbial protein synthesis in beef cattle[J].Journal of Animal Physiology and Animal Nutrition,2015,99(3):449-456.   
+[10]VARGA E,SZENGYEL Z,RECZEY K.Chemical pretreatments of corn stover for enhancing enzymatic digestibility[M]//FINKELSTEIN M,MCMILLAN J D,DAVISON B H.Biotechnology for fuels and chemicals.Totowa,NJ:Humana Press,2002:73-87.   
+[11]GU Y,ZHANG Y L,ZHOU X FEffect of $\mathrm { C a } ( \mathrm { O H } ) _ { 2 }$ pretreatment on extruded rice straw anaerobic digestion[J].Bioresource Technology,2015,196:116-122.   
+[12] VIOLA E,ZIMBARDI F,CARDINALE M,et al.Processing cereal straws by steam explosionina pilot plant toenhancedigestibilityinruminants[J].Bioresource
+
+Technol0gy,2008,99(4):681-689.
+
+[13]CHANG J, CHENG W,YIN Q Q,et al.Effect of steam explosion and microbial fermentation oncelluloseandlignindegradationofcorn stover[J].Bioresource Technology,2012,104(1):587-592.   
+[14]LOPEZ-LINARES J C,BALLESTEROS I,TOURAN J,et al.Optimization of uncatalyzed steam explosion pretreatment of rapeseed straw forbiofuel production[J].Bioresource Technology,2015,190:97-105.   
+[15]DUFF S J B,MURRAY W D.Bioconversion of forest products industry waste cellulosics to fuel ethanol:a review[J].Bioresource Technology,1996,55(1):1-33.   
+[16]SHRIVASTAVA B,THAKUR S,KHASA Y P,et al.White-rot fungal conversion of wheat straw to energy rich catle feed[J].Biodegradation,2011,22(4):823-831.   
+[17]YANG H J,YUE Q.Effect of glucose addition and N sources in defined media on fibrolytic activity profiles of Neocallimastix sp. YQ1 grown on corn stover[J].Journal of Animal Physiology and Animal Nutrition,2012,96(4):554-562.   
+[18]LALAK J,KASPRZYCKA A,MARTYNIAK D,et al.Effect of biological pretreatment of Agropyron elongatum‘BAMAR’on biogas production by anaerobic digestion[J].Bioresource Technology,2016,200:194-200.   
+[19]陈尚钾,勇强,徐勇,等.稀酸预处理对玉米秸秆纤维组分及结构的影响[J].中国粮油学 报,2011,26(6):13-19.   
+[20]KOOTSTRA A M J,BEEFTINK H H,SCOTT E L,et al.Comparison of dilute mineral and organic acid pretreatment for enzymatic hydrolysis of wheat straw[J].Biochemical Engineering Journal,2009,46(2):126-131.   
+[21]QING Q,YANG B,WYMAN C E.Impact of surfactants on pretreatment of corn stover[J].Bioresource Technology,2010,101(15):5941-5951.   
+[22] 潘裕清,张宏嘉,邱学良,等.草酸预浸连续汽爆玉米芯制备木糖的模拟与中试研究[J].过 程工程学报,2014,14(4):643-648.   
+[23]王玉,周俊,雍晓雨,等.汽爆预处理对水稻秸秆纤维结构的影响[J].江苏农业科 学,2014(11):319-323,324.   
+[24] JONSSONLJ,ALRIKSSONB,NILVEBRANTNO.BiconVersionof lignocellulose:inhibitors and detoxification[J].Biotechnology for Biofuels,2O13,6:16. [25]PALMQVIST E,HAHN-HAGERDAL B.Fermentation of lignocellulosic hydrolysates.   
+II :inhibitors and mechanisms of inhibition[J].Bioresource Technology,20o0,74(1):25-33. [26]DE VILLEGAS M E D,VILLA P,GUERRA M,et al.Conversion of furfural into furfuryl alcohol by saccharomyces cervisiae 354[J].Engineering in Life Science,1992,12(4):351-354. [27]LI B Z,YUAN Y J.Transcriptome shifts in response to furfural and acetic acid in Saccharomyces cerevisiae[J].Applied Microbiology and Biotechnology,2010,86(6):1915-1924. [28]LARSSON S,PALMQVIST E,HAHN-HAGERDAL B,et al.The generation of fermentation inhibitorsduringdiluteacidhydrolysisofsoftwood[J].EnzymeandMicrobial Technology,1999,24(3/4):151-159.   
+[29]SCHULLER C,MAMNUN Y M,MOLLAPOUR M,et al.Global phenotypic analysis and transcriptional profiling defines the weak acid stress response regulon in Saccharomyces cerevisiae[J].Molecular Biology of the Cell,2004,15(2):706-720.   
+[30]ALMEIDA B, OHLMEIER S,ALMEIDA A J,et al.Yeast protein expression profile during aceticacid-inducedapoptosisindicatescausalinvolvementofthe TOR pathway[J].Proteomics,2009,9(3):720-732.   
+[31]NORMAN C,HOWELL K A,MILLAR A H,et al.Salicylic acid is an uncoupler and inhibitor of mitochondrial electron transport[J].Plant Physiology,2004,134(1):492-501.   
+[32]FITZGERALD D J,STRATFORD M,GASSON M J,et al.Mode of antimicrobial action of vanillin against Escherichia coli,Lactobacillus plantarum and Listeria innocua[J].Journal of Applied Microbiology,2004,97(1):104-113.   
+[33]KEWELOH H,DIEFENBACH R,REHM H J.Increase of phenol tolerance of Escherichia coli by alterations of the fatty acid composition of the membrane lipids[J].Archives of Microbiology,1991,157(1):49-53.   
+[34] FERON V J,TIL H P,VRIJER F D,et al.Aldehydes:occurrence,carcinogenic potential,mechanismofactionandriskassessment[J].MutationResearch/Genetic Toxicol0gy,1991,259(3/4):363-385.   
+[35]ZHANG J M,GENG A L,YAO C Y,et al.Effects of lignin-derived phenolic compounds on xylitol production and key enzyme activities by a xylose utilizing yeast Candida athensensis SB18[J].Bioresource Technology,2012,121:369-378.   
+[36]LARSSON S,REIMANN A,NILVEBRANT N O,et al.Comparison of different methods for   
+the detoxification of lignocellulose hydrolyzates of spruce[J].Applied Biochemistryand   
+Biotechnol0gy,1999,77(1/2/3):91-103.   
+[37]ALRIKSSON B,SJODE A,NILVEBRANT N O,et al.Optimal conditions for alkaline   
+detoxificationofdilute-acidlignocellulosehydrolysates[J].AppliedBiochemistryand   
+Biotechnology,2006,130(1/2/3):599-611.   
+[38]JONSSON L J,PALMQVIST E,NILVEBRANT N O,et al.Detoxification of wood   
+hydrolysateswithlaccaseandperoxidasefromthewhite-rotfungusTrametes   
+versicolor[J].Applied Microbiology and Biotechnology,1998,49(6):691-697. Straws as Feed: Pretreatment Methods and Action Mechanism of Fermentation Inhibitors LI Guodong1.2 ZHAO Shengguo1\* ZHANG Yangdong1ZHENG Nan’LI Songli ZHAO Guoqi²WANG Jiaqi1 (1. State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Sciences, Beijing 100193, China; 2. Collge of Animal Science and Technology, Yangzhou University, Yangzhou 226009, China)   
+Abstract: Crop straw as a rich biological source with various origins may be widely used in   
+industries of husbandry and bioenergy. But at the same time,its complex chemical composition   
+and recalcitrant structure makes the conversion process more cumbersome which adversely affect   
+the utilization of straw. Therefore, crystallinity of fiber of straw can be degraded by pretreatment,   
+and the utilization can be improved. While,over degradation unavoidably occurs under high   
+temperature and chemical catalytic action,and by-products formed at the same time will inhibit   
+the following microbial fermentation. This review focused on various aspects of commonly used   
+pretreatment methods (dilute acid,alkali, steam explosion and biological pretreatments)，and   
+production and inhibition mechanism of inhibitors of crop straw pretreatments.
+
+Key words: crop straw; pretreatment; inhibitors

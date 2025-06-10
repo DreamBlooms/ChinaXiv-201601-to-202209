@@ -1,0 +1,359 @@
+[
+    {
+        "type": "text",
+        "text": "Hydroxyapatite nucleated and grown on nano titania particles enhances recruitment of Escherichia coli for subsequent photocatalytic elimination ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jing Huang, Yi Liu, Yuxin Liu, Hua Li\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyLboatoreldbftedoteit Materials Technology and Engineering, Chinese Academy of Sciences,Ningbo 315201,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HIGHLIGHTS",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "· Titania-hydroxyapatite nanocomposite powderwas fabricated with cladding structure.   \n·Hydroxyapatite nucleated and grew on titania particle with preferred orientation.   \n· Hydroxyapatite layer promotes recruitment of Escherichia coli onto titania-basedparticles.   \n· The titania-hydroxyapatite particles   \nshow excellent antibacterial   \nperformances.   \n· The nanocomposite powder exhibits excellent photocatalytic performances. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GRAPHICALABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa12e1feab85c3ac5ab1f2ebb31d91a820269a7e855ccf88302fee3bc3b79650.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 10 April 2014   \nReceived in revised form   \n5 December 2014   \nAccepted 6 December 2014   \nAvailableonline8December2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Composite materials Nanostructures Chemical synthesis Electron microscopy Surface properties ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Titania-hydroxyapatite (HA） nanocomposites were fabricated by wet chemical synthesis approach. HA exhibited crystallographic orientation of nucleation on nano titania particle,forming the composite particles with titania being partially enwrapped with HA.Microstructural characterization by high resolution transmision electron microscopy revealed coherent interfacial bond of(110)and (222) planes of HA crystal with (101） plane of anatase.The HA layer promoted significantly recruitment of Escherichia coli bacteria onto the titania-based particles for subsequent photocatalytic kiling.Less extent of enwrapping of HA on titania particle,as accomplished by increasing the aging time of HA suspension, gave rise to better capability of photocatalytic degradation of methylene blue and sterilization of the bacteria.The novel HA-enwrapped titania powder shows great potential for environmental applications. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bacterium-related environmental issues like the drinking water problem due to the presence of microorganisms in water[1] are gaining intensive worldwide concerns.Tiny counts of pathogenic microorganismsalready lead to severe water-borne illness [2].The pathogenic organisms associating with the infections are usually coliforms that are members of enterobacteriaceae which include Escherichia coli (E. coli),Virbio cholerae,Listeria monocytogens, Shigella spp.,Pseudomonas spp.,Salmonella spp.,etc.[3].E.coli bacterium exists as the normal flora in the intestine of almost all animals and human beings.Presence of E.coli in drinking water is anindicator of the contamination in environmental samples of drinking water [3,4].Up to now the most widely used technique for disinfection of water is chlorination,which is proven to be effective in inactivating bacteria and most viruses [5]. Yet during the past 30 years,evidence has accumulated pertaining to chlorinationinduced carcinogenic byproducts [5,6]. The growing attentions on the byproducts and their potential adverse health effects trigger concern fordevelopingappropriatealternativetechniques. Compared with the conventional water treatment methods,such as UV irradiation,ozonization and filtration processes,photocatalysis offersa number of advantages,for example high oxidation efficiencyand minimal disinfection byproducts [7-1O].However,selection of photocatalytic materials and their fabrication still remains elusive. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since the discovery of photo-induced cleavage of water on titania electrodes by Fujishima and Honda in early 197Os [11], titania has been one of the key materials forphotocatalytic applications.Apart from its great potential for degrading toxic compounds,titania was claimed to have antibacterial properties as reported for the first time by Matsunaga et al.[12].It is established that the hydroxyl radical generated by photocatalysis oxidizes or diffuses through the cell wall/membrane,in turn causing direct oxidation of intracellular coenzyme [13-15]. However, titania particle can only decompose the substances that come into contact with it,and this decomposing action fails to work while there is no impinging light [16]. Taking into account the prerequisite of intimate contact between bacteria and the photocatalytic material, the material must essentially favor the attachment of bacteria.In this regard,potential application of titania for water treatment is restricted since titaniaisessentiallyabio-inertmaterial that cells/ bacteria do not opt to settle on [17]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hydroxyapatite (HA), the major inorganic constituent of natural bones and teeth,is widely used for biomedical applications owing to its excellent biological performances [18-2O].HA also showed thecapabilityof immobilizing environmentally harmful materials [21].Use of HA as additives in titania-based composites was therefore attempted to promote the recruitment of microorganisms ororganics for subsequent photocatalytic degradation[16,22,23]. Titania-HA composites have been fabricated bya series of methods, such as soaking[16], radio frequency magnetron sputtering [20] or hydrothermal method [24]. However,appropriate techniques for making the composites without sacrificing photocatalytic performances need to be further explored.Inaddition,mutual behavior between HA and titania keeps unknown.In this paper,we proposed a novel approach for making titania-HA nanocomposite powder with enhanced photocatalytic performances for potential antibacterial applications for water disinfection.Microstructural characterization disclosed incomplete cladding of HA layers on nano titania particles.This special composite structure gave rise to significantly enhanced recruitment of organics and microorganism forphotocatalytic degradation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental setup ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Preparation of the titania-HA composite powder ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nano-sized HA particles were synthesized via wet chemical precipitation approach using calcium nitrate tetrahydrate $( C a ( N -$ $\\mathrm { O } _ { 3 } ) _ { 2 } { \\cdot } 4 \\mathrm { H } _ { 2 } 0 _ { \\cdot } ^ { \\cdot }$ ）as calcium source and diammonium phosphate $( ( \\mathrm { N H } _ { 4 } ) _ { 2 } \\mathrm { H P O } _ { 4 } )$ asphosphorous source [25].During the synthesis, $\\mathrm { C a } ( \\mathrm { N O } _ { 3 } ) _ { 2 } { \\cdot } 4 \\mathrm { H } _ { 2 } 0$ and $( \\mathsf { N H } _ { 4 } ) _ { 2 } \\mathsf { H P O } _ { 4 }$ were dissolved in turn in distilled water. The concentration of calcium and phosphoric ions was $0 . 2 5 ~ \\mathrm { M }$ and $0 . 1 5 \\mathrm { ~ M ~ }$ respectively. The ${ \\mathsf { C a } } / { \\mathsf { P } }$ molar ratio was maintained at 1.67,the stoichiometric ratio for HA.The mixture was stirredata speed of $3 0 0 ~ \\mathrm { r / m i n }$ ,and $2 5 0 \\ \\mathrm { m l } \\ ( \\mathrm { N H } _ { 4 } ) _ { 2 } \\mathrm { H P O } _ { 4 }$ solution was slowlyadded into $\\mathsf { C a } ( \\mathsf { N O } _ { 3 } ) _ { 2 }$ solution at a speed of $2 ~ \\mathrm { m l / m i n }$ The pH value of the mixture was stabilized at ${ \\geq } 1 1$ asadjusted by ammonium hydroxide solution $\\left( \\mathrm { N H } _ { 3 } \\cdot \\mathrm { H } _ { 2 } 0 \\right)$ ,while the temperature was maintained at $2 0 \\ { ^ { \\circ } } C .$ The mixture was stirred continually for $^ \\textrm { \\scriptsize 2 h }$ to attain complete mixing. To achieve different enwrapping state of HA on titania particles,prior to addition of $1 2 . 5 5 { \\mathrm { g } }$ of titania powder (Evonik Degussa P25,purity: $9 9 . 5 \\%$ ,average particle size: $2 1 { \\mathrm { ~ n m } } ^ { \\cdot }$ ),theHAsuspensionwasaged for $1 . 5 \\mathrm { h }$ and $^ { 5 \\mathrm { h } }$ respectively. Based on the stoichiometric synthesis of HA,the weight ratio of HA to titania in the as-synthesized composite powder was 1:2.The P25-containing suspension was further stirred for $^ { 2 \\mathrm { ~ h ~ } }$ and then aged for $2 4 \\mathrm { ~ h ~ }$ at room temperature.The suspension was subsequently washed with deionized water to remove ammonium hydroxide entirely and got dried at $1 0 0 ^ { \\circ } \\mathsf C$ for $2 4 \\mathrm { h }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Characterization of the powder ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phases in the samples were detected by X-ray difraction (XRD, Bruker AXS,Germany) performed at a scanning rate of $0 . 1 ^ { \\circ } / s$ using monochromatic Cu-Ka radiation operated at $4 0 \\ \\mathrm { k V }$ and $4 0 ~ \\mathrm { m A }$ Microstructural features and agglomeration tendency of the powder particles were characterized by field emission scanning electron microscopy(FESEM,FEI Quanta FEG25O,the Netherlands) and transmission electron microscopy（TEM，FEI Tecnai F2O，the Netherlands).Specific surfacearea of the powder was measured using the Brunauer,Emmettand Teller(BET) method byadsorption of nitrogen gas on ASAP 2O2O M apparatus operated at liquid nitrogen temperature.The BET surface area was calculated over the relative pressure range of $0 . 0 5 { - } 0 . 2 0 ~ \\mathrm { M P a }$ .The interface between titania and HA of the titania-HA particle was characterized in nearatomic-scale under high resolution TEM (HRTEM).The electron microscopy samples were prepared by dropping the powder diluted in acetone onto TEM lacey grids that were covered with amorphous carbon film. X-ray photoelectron spectrometer(XPS, AXIS-ULTRA DLD,Japan）was employed to further detect the chemistry of the powder. The constant energy pass was $5 0 \\mathrm { e V }$ and spectra calibration was performed according to C1s level at $2 8 5 \\mathrm { e V }$ For comparison purpose,both the pure HA and the Degussa P25 powder was also investigated in this study. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Assessment of photocatalytic performances ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Photocatalytic activity of the powder was evaluated by degrading methylene-blue(MB,Aladdin Reagent Corporation, Shanghai, China). $1 0 ~ \\mathrm { m g }$ sample powder was added into $5 0 ~ \\mathrm { m l }$ MB solution(5 ppm) and then ultrasonic dispersion was carried out for $3 0 ~ \\mathrm { { m i n } }$ .The suspension was then poured out and transferred into $\\theta 9 \\mathrm { c m }$ Petri culture dish for subsequent UV-irradiation.The irradiation was conducted using a 15-W UV lamp(PHILIPS,TLD15W BL) withthetypicalwave lengthof $3 6 5 ~ \\mathrm { { n m } }$ ,and the distance between the UVlight source and the samples was $1 5 \\mathrm { c m }$ .Thevariation of the MB concentration was taken in triplicate every 1O min and the peak absorption of MB at $6 6 4 ~ \\mathrm { { n m } }$ was analyzed using a UV-vis spectrophotometer (MAPADA,UV-33o0 spectrophotometer). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Bacterial adhesion and photocatalytic sterilization testing ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ThephotocatalyticdegradationofMB measures the degradation ability of the powder for organic substances.Further photocatalytic ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "activity of the powder for pathogenic organisms was assessed by sterilization testingof E.coli bacteria.Luria broth(LB,Aladdin Reagent Corporation,Shanghai,China）medium used in this study ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "examined and the bacterial survival ratio was calculated according to Eq.(1).The blank group was made using $2 ~ \\mathrm { m l }$ bacterial suspension mixed with $2 \\mathrm { m l }$ PBS solution without the powder samples. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bacterialsurvival ratio $\\biggl ( \\% \\biggr ) =$ CFUs of blank group -CFUs of experimental group × 100% CFUs of blank group ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "contained $_ { 1 0 \\mathrm { ~ g ~ } }$ tryptone, $_ { 1 0 \\mathrm { ~ g ~ } }$ sodium chloride,and $_ { \\mathrm { ~ 5 ~ g ~ } }$ yeast extracted in 1 L deionized water. After inoculation of a single colony ofE.coli into the LB media, the media were shaken at 15O rpm for $2 4 \\mathrm { h }$ at $3 0 ^ { \\circ } \\mathsf C .$ The bacteria-containing LB media were centrifuged at 2000 rpm for $5 \\ \\mathrm { m i n }$ .After removal of supernatant,the bacteria were washed with phosphate-buffered saline (PBS）and were resuspended in PBS at a concentration of $5 \\times 1 0 ^ { 7 } \\mathrm { \\ C F U / m l }$ The concentration of the catalyst powder was $0 . 1 \\ \\mathrm { g / L } ,$ and the powder was dispersed by sonication for $3 0 \\mathrm { m i n }$ in sterilized PBS solution.As the following step, $2 ~ \\mathrm { m l }$ of the bacterial suspension and $2 ~ \\mathrm { m l }$ of the powder suspension was added into each well of 6-well plate.The plate was incubated for $^ { 4 \\mathrm { h } }$ at $3 0 ^ { \\circ } \\mathsf C$ in dark for bacterial adhesion. For SEM observation of the bacterial adhesion,the samples were rinsed with PBS to remove non-adherent bacteria.Then the sampleswere fixed in $2 . 5 \\%$ glutaraldehydeat $4 ^ { \\circ } C$ overnight,and finally rinsed twice in PBS.Further dehydration and critical-point drying steps were conducted using a graded series of ethanol/water solutionsat $2 5 \\%$ (5 min), $5 0 \\%$ 0 $5 \\mathrm { \\ m i n } ^ { \\cdot }$ ) $7 5 \\%$ (5 min), $9 0 \\%$ (5 min),and $100 \\%$ 0 $2 \\times 1 0 \\mathrm { m i n } \\mathrm { , }$ .Before SEMobservation,the sampleswereairdried and sputter-coated with gold,which has been described in detail in another paper [15]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Photocatalytic sterilization activity of the powder samples by UV-illumination was assessed using a similar suspension method described by Qu et al.[26]. The nutrient agar culture medium (Huankai Microbial Sci. Tech.Co.,Ltd.,China）used in this study comprised $3 3 \\mathrm { ~ g ~ }$ nutrient agar culture in1 L deionized water,and wastreated at $1 2 0 ^ { \\circ } { \\mathsf { C } }$ for molten and sterilization for $1 5 \\mathrm { m i n }$ . Then $1 5 \\mathrm { m l }$ of the molten nutrient agar culture was poured in $\\boldsymbol { \\theta 9 } \\mathrm { c m }$ Petri culture dish and left undisturbed for agar to solidify.After UVirradiation fora series of testing time, $1 0 0 ~ \\mu \\mathrm { l }$ of the shaken E. coli bacterial suspension was inoculated on agar and incubated at $3 7 ^ { \\circ } \\mathsf { C }$ for $2 4 \\mathrm { ~ h ~ }$ in an incubator. The number of the viable bacteria was acquired by standard plate counting approach through triplicate experiments.The colony-formingunits(CFUs) of the bacteria were ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Microstructure of the nanocomposite powder ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "XRD spectra of the as-synthesized titania-HA composite powder suggest complete stoichiometric synthesis ofHAand undetectable phase changesof titania (Fig.1a).The broad XRD peak at ${ \\sim } 3 1 ^ { \\circ }$ of20 assigned to HA indicates presumable presence of the HA grains in small sizes.This has been further evidenced by HRTEM analyses discussed in later part.As determined by the Rietveld refinement approach [27],quantification of the phases from the XRD curves disclosed identical antase/rutile ratio of 8o:2O for theassynthesized powder and the starting P25.The titania/HA ratio for the composite powder was detected by XPS.As shown in Fig.1b and listed in Table1,it is noted that the $\\mathrm { T i } / \\mathrm { P }$ atomic ratio is ${ \\sim } 2 . 5 1$ and ${ \\sim } 3 . 4 3$ for the composite powder with HA pre-aging time of $1 . 5 \\mathrm { ~ h ~ }$ and $5 . 0 \\mathrm { h }$ respectively.The aging was conducted before the addition of titania into HA suspension.The calculated mass ratio of $\\mathrm { T i O } _ { 2 } / \\mathrm { H A }$ is 1.2 and 1.6 respectively,which is apparently lower than the actual mass ratio(2:1).This isvery likely due to the detection depth limitation of XPS,which is usually ${ \\sim } 1 0 \\ \\mathrm { n m }$ [28]. The result presumably implies that the thickness of the HA cladding layer on $\\mathrm { T i O } _ { 2 }$ particle is more than $1 0 \\ \\mathrm { n m }$ .The lower $\\mathrm { T i } / \\mathrm { P }$ ratio exhibited by the composite powderwith shorterHA pre-aging time might suggest higher coverage rate and higher thickness of HA cladding layer for the powder. These would certainly affect their photocatalytic ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c6923e8be1a3777ba28cb45996d3429e307780a75cc441f254d41fbd9b44fa6c.jpg",
+        "table_caption": [
+            "Table 1 XPS quantitative analysis results of the $\\mathrm { T i O } _ { 2 }$ -HA nanocomposite powder. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>Ti</td><td>Ca</td><td>P</td><td>Ti/P</td></tr><tr><td>TiO2-HA (1.5 h pre-aging of HA)</td><td>8.36%</td><td>4.32%</td><td>3.32%</td><td>2.51</td></tr><tr><td>TiO2-HA (5 h pre-aging of HA)</td><td>12.88%</td><td>5.70%</td><td>3.75%</td><td>3.43</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a9db5bcfdfe6f495d8d3751da682e8d27c913f69051cb39a45ca421ca4b0159.jpg",
+        "img_caption": [
+            "Fig.1.XRDcurvesofthepowder(a)andXPSspectraofthtitania-HAnanocompositepowderwithdiferentHApre-agingtime(b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/04b62bdb87879acfd17dc2a1bb4bdc1d14820662290edfbe802387104778ed5f.jpg",
+        "img_caption": [
+            "ig tita "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "properties. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TEMobservation reveals the typical nanostructural features of the composite powder, that is,thin HAlayer partially enwraps P25 particle(Fig.2a).Based on the size of the P25 particles $( \\sim 2 0 - 2 5 \\mathrm { n m }$ Fig.2b),the thickness of the HA layer is ${ \\sim } 1 0 { \\mathrm { - } } 3 0 ~ \\mathrm { n m }$ .TEMcharacterization shows that the pure HA particlesare in rod-like shape with the dimension of ${ \\sim } 9 { \\mathrm { - } } 1 8 ~ \\mathrm { n m }$ in diameter and $2 0 { - } 4 5 ~ \\mathrm { n m }$ in length (Fig.2d).The titania/HA nanocomposite particle shows nearspherical shape (Fig.2c),indicating the fabricationalreadyaltered nucleation/growth state of HA grains due to the presence of titania particles.The agglomerating state of the particles shown in Fig.2a,c islikely attributed to the fact that HA nanoparticles have high specific surface areas and polar hydroxyl groups on their surfaces make them easy to agglomerate [29,3O]. It seems clear that during the preparation of the composite powder,nano titania particles act asnucleation sites for HA.Presence of the well-dispersed titania particlesalready triggered nucleationand growth of HA on their surfaces,in turn resultingin the altered morphological feature that HA grains are no more in rod-like shape.Further HRTEM examinationat the interface betweenHAand titania revealed preferred orientation of nucleation and growth of HA on the nano titania particles (Fig.3). The corresponding SAD patterns (Fig.3a-2,b-2) verify the polycrystalline nature of the nanocomposite powder. Surprisingly,elongated aging,i.e.from $1 . 5 \\mathrm { ~ h ~ }$ to $5 . 0 \\mathrm { ~ h ~ }$ ,of HA suSpension before addition of titania particles resulted in different crystallographic orientation ofHA grains on titania particles (Fig.3a vs.3b).The interplanar spacing of $0 . 3 5 2 ~ \\mathrm { { n m } }$ belongs to the lattice face of (1o1) plane in anatase.And the lattice spacing of $0 . 4 7 2 ~ \\mathrm { n m }$ and $0 . 1 9 4 ~ \\mathrm { { n m } }$ isattributed to the lattice face of(11O)and(222) planesin HA.Both（11O)and（222）planes of HA form interfacial bond with（1O1）plane of anatase.Clearly HA grains grow along (110)plane or(222)plane on titania particles.It was reported that longeraging resulted in bigger HA grains during HA synthesis [31]. This might in part be responsible for the different matching planes of HA with titania,which yet requires further clarification.The polycrystalline nature ofHAis further verified by the selected area diffraction (SAD) patterns (Fig.3a-2,b-2). Interestingly,the HRTEM imagesclearlyshowtheextentofthecoverageofHAon $\\mathrm { T i O } _ { 2 }$ surface,while the exposure state of titania is directlyassociated with photocatalytic performances of the powder. Indeed,it is encouraging to note that both the aging time of HA, $1 . 5 \\mathrm { h }$ and $5 . 0 \\mathrm { h }$ ,did not bringabout full wrapping of HA on titania particles. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.Photocatalytic performances of the powder ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Photocatalytic performances of the powder were assessed by degrading MB and E.coli bacteria under UV irradiation.For MB degradation,before the irradiation,the MB-containing solution was mixed completely in dark for $^ { 1 \\mathrm { ~ h ~ } }$ to ensure adsorption/desorption equilibrium.The variation of the photodegradation of MB shown in Fig.4a clearly suggests that the degradation was enhanced by elongated UV exposure and the decomposition rate (as indicated by theslope) decreased with the increase in reaction time.After $^ { 5 \\mathrm { ~ h ~ } }$ degradation, the pure P25 and the composite powder with HA preaging time of $^ { 5 \\mathrm { h } }$ showed excellent photodegradation performance, attaining ${ \\sim } 9 8 \\%$ degradation of MB. The composite powder with $1 . 5 \\mathrm { ~ h ~ }$ pre-aging of HA showed the lowest photocatalytic performance, ${ \\sim } 6 6 \\%$ degradation of MB.It is noted that the titania-HA composite powder with elongated pre-aging time $( 5 \\ \\mathrm { h } )$ of HA precursor slurry performs better than P25.We previously realized that as a typical biomedical material,apart from high capability of adsorption,HA showed undetectable photocatalytic activity[15].To elucidate the performances,specific surface areas of the powder were measured.The pure HA powder, the titania-HA powder with HA pre-aging time of $1 . 5 \\mathrm { h }$ and $^ { 5 \\mathrm { h } }$ exhibit the specific surface area value of $\\dot { 2 } 1 2 \\mathrm { ~ m } ^ { 2 } / \\mathrm { g }$ $4 1 ~ \\mathrm { m } ^ { 2 } / \\mathrm { g }$ and $1 4 3 \\ \\mathrm { m } ^ { 2 } / \\mathrm { g } ,$ ，respectively (Fig.4b), while the Degussa P25 shows the value of $\\bar { 5 } 3 \\mathrm { m } ^ { 2 } / \\mathrm { g }$ Specific surface area is one of the important indexes for assessing catalysts and adsorbents.Higher specific surface area usually provides catalysts with better photocatalytic activity and adsorptive properties for inorganics,organics,and microorganisms [15].The MB degradation tendency of the powder samples(Fig.4a)agrees well with their specific surface area data (Fig.4b).The lowest specific surface area exhibited by the powder fabricated with HA pre-aging time of $1 . 5 \\mathrm { h }$ indicates the thickest HA layer on titania particles (bigger particles), which has been suggested by the XPS detection.The highest specific surface area, ${ \\sim } 2 1 2 \\mathrm { m } ^ { 2 } / \\mathrm { g } ,$ for the pure HA powder is mainly due to the small size of HA grains (Fig.2d). Since the size of HA grains is much smaller than that of P25 particles,increasing the pre-aging time to $5 . 0 \\mathrm { h }$ hasalready induced separate nucleation ofHA grains. This phenomenon results in the higher specific surface area.The photodegradation performances of the HA-enwrapped titania powder ( $^ { \\cdot } 5 \\mathrm { ~ h ~ }$ pre-aging of HA suspension) after $^ { 5 \\mathrm { ~ h ~ } }$ irradiation are presumably attributed to the higher specific surface area and good adsorption property of HA.In the first $2 0 ~ \\mathrm { { m i n } }$ of irradiation,P25 showed better photodegradation ability than the HA-containing powder. This likely results from good contact of P25 with MB since MB concentration is higher at early stage.As the undegraded MB became less in the solution,it appeared to be more difficult for P25 particles to get contact intimately with MB for degradation due to itsrelatively lower specific surface area $( 5 3 ~ \\mathrm { m } ^ { 2 } / \\mathrm { g } )$ and inferior adsorption property. On the contrary,although part of the surface of titania particle is covered with HA,whichunlikelyparticipates in photocatalytic reaction,the HA-enwrapped titania particleswith $^ { 5 \\mathrm { ~ h ~ } }$ pr-aging of HA still showed comparable performances to the pure P25 after1h of the testing(Fig.4a).This is probably supported by the excellent adsorption of HA,which facilitates recruitment of MB onto titania particles for the degradation. Obviously, too much HA(thicker HA layer and higher surface coverage) on the surface of titania does not favor the photocatalytic performances. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/54095ba3058fb62cd8126597044dc96494d6e66f45ff1c8ffc277092512ea499.jpg",
+        "img_caption": [
+            "Fig pre-aging time of $1 . 5 \\mathrm { ~ h ~ }$ ,and b: the powder with HA pre-aging time of $^ { 5 \\mathrm { ~ h ~ } }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ff2a4cd50741996051189414a083cf5716cdb18ffc3bdb0bdd0e4a5abb90e12.jpg",
+        "img_caption": [
+            "Fig4egU designation in (b): Titania/HA $1 . 5 \\mathrm { h }$ ：the titania-HA powder with HA pre-aging time of $1 . 5 \\mathrm { h } { }$ Titania $/ \\mathrm { H A } 5 \\mathrm { h }$ ：the titania-HA powder with HA pre-aging time of $^ { 5 \\mathrm { h } }$ pure HA: the pure HA powder,Pure titania: the pure P25 powder. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2294e61bc4cce1a6aee93762fe10f1301390f21d8aaf7068f345eded47624fa.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e3196e1dfa7af332f9ceb646cb812d9b0673e872057a279ecd8bd5fec8e3e47.jpg",
+        "img_caption": [
+            "Fig.6.Photocatalytic sterilization results of the samples against E.coli,(a) digital photos of E.coli colonies in (i): the Petri dish before the UV irradiation,(i): the blank Petri dish after 5 h UV irradiation,(ii): the pure HA powder sample Petri dish after $^ { 5 \\mathrm { h } }$ UV irradiation,(iv): the pure titania powder sample Petri dish after 5h UV irradiation, (v): the Petri dish containing the titania-HA powder with HA pre-aging time of $1 . 5 \\mathrm { ~ h ~ }$ after $^ { 5 \\mathrm { h } }$ UV irradiation,and (vi): the Petri dish containing the titania-HA powder with HA pre-aging time of $^ { 5 \\mathrm { ~ h ~ } }$ after $^ { 5 \\mathrm { ~ h ~ } }$ UV irradiation,and (b) statistical results of the photocatalytic sterilization efficiencies of the samples against E.coli versus UV irradiation time. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Further photocatalytic testing against E.coli showed that after being incubated in the catalyst suspension for4 h,E.coli were already in touch with the powder particles.The morphologies of E.coli before and afterUVirradiationwere directlyobserved by FESEM.As shown in Fig.5,identical topographical morphology of the bacteria can be seen before the UV illumination.After $^ { 5 \\mathrm { ~ h ~ } }$ UV irradiation,the bacteria exhibit flattened shape with severely damaged shell (Fig. 5a-2,c-2,d-2). It is not surprising that the bacteria attached to pure HA did not encounter changes,due to the fact that HA showed undetectable bacterium-killing phenomenon (Fig.5b).The antimicrobial activity of titania was believed to be attributed to the generation of reactive oxygen species [3]. Reaction of electron-hole pairs with water generates $\\mathrm { O H ^ { - } }$ radicals and other reactive oxygen specieswhich are capable of damaging membrane phospholipids of the organisms,thereby causing their death [3,32,33]. Bacterial membrane lipid components are likely to be the cellular target of reactive oxygen species generated by photocatalytic reaction [34].E.coli has large numbers of polyunsaturated phospholipids as an integral component of the cell membrane [3,35-37].The reactive oxygen species oxidize the polyunsaturated phospholipid components in cell membrane and further create pores,causing the destruction of cell wall and following changes in the shape from rod-like to flattened [34].Loss of intact membrane structure and hence the functions is the root cause of cell death [2,3]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Excellent photocatalytic sterilization performance was also revealed for the nanocomposite powder containing less HA(HA pre-aging time of $^ { 5 \\mathrm { h } }$ ). As the control for the testing against E.coli, the blank sample and the pure HA powder exhibited undetectable photocatalytic sterilization (Fig. 6a-ii,iii). In contrast, the number of the colonies in the Petri dishes containing the pure P25 and the HAenwrapped P25 is remarkably less than that on pure HA.This implies the good photocatalytic sterilization performance of the nanocomposite powder. To more clearly assess the capabilityof bacteria-killing of the powder samples,the bacterial survival ratio versus reaction time was statistically measured (Fig.6b).After $^ { 5 \\mathrm { ~ h ~ } }$ of UV irradiation, ${ \\sim } 9 9 \\%$ bacteria were already killed by the P25 sample and the HA-enwrapped P25 sample with HA pre-aging time of $^ { 5 \\mathrm { h } }$ .However, following the similar trend as the degradation of MB (Fig.4a),P25 shows better photocatalytic sterilization ability than the HA-enwrapped P25 in the first $2 . 5 \\mathrm { h }$ .P25 then eventually exhibits the same performanceas the HA-enwrapped powderafter $^ { 5 \\mathrm { h } }$ It is established that HA has good affinity to proteins and lipids, the presence of HA as cladding layer on titania particles could certainly promote the bacterial adhesion.Fibrillar structures at the surface of various streptococci were believed to enhance their adhesion onto HA substrate [38,39].Addition of a certain amount of HA enhanced recruitment of E.coli onto titania-based coatings [15,16].HA in the composite powder therefore acts as bait attracting approaching of bacteria and simultaneously pushing them to titania,achieving effectively enhanced photocatalytic sterilizationactivity.Moreover,the vacancies formed on the surface of excited phosphate group $( \\mathsf { P O } _ { 4 } ^ { 3 - } )$ in UV illumination might lead to formation of superoxide radical $( 0 \\hat { 2 } )$ ，which also attacks the surrounding bacteria adsorbed on HA[32]. In this study, the concentration of all the catalyst powder is the same $\\left( 0 . 1 \\ \\mathrm { g / L } \\right)$ ，and the theoretical mass ratio of $\\mathrm { T i O } _ { 2 }$ to HA is 2:1. Taking into account that HA has undetectable photocatalytic sterilization activity,it can be concluded that partial enwrapping of HA in the form of thin layer on titania particles does not deteriorate photocatalytic performances. Instead， the enwrapping enhances significantly the recruitment of the bacteria for subsequent killing.Inaddition, the high efficiency of degrading organic substances and photocatalytic sterilizationactivity of the $\\mathrm { T i O } _ { 2 }$ -HA nanocomposite catalyst powder gives clear insight into less use of nano- $\\cdot \\mathrm { T i O } _ { 2 }$ .This consequently reduces the potential environmental pollution problems due to large scale usage of titania powder [4O].However,it should be born in mind that several practical problems arise from the use of a catalyst in powder form.For air purification,the only practical way in which the catalyst can be used is as film or coating[41,42].Part of our ongoing efforts is devoted to developing antibacterial photocatalytic coatings deposited using the HA-enwrapped titania nanocomposite powder.Moreover,impurity doping of metal elements,such as silver,platinum,iron,chromium etc,or nonmetals, such as boron,carbon,sulfur etc,can efficiently extend photoresponse from the UV to visible light region [43,44].Making the nanocomposite catalyst reactive to visible light is also important towardsachieving further improved photocatalyticperformances. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary,HA-enwrapped titania nanocomposite powderwas fabricated by using P25 particles as nucleation sites for HA synthesis.The HA cladding layer forms coherent interfacial bond with titania particle.Without sacrificing the photocatalytic performances of titania,HA on the other hand facilitates recruitment of E. coli onto the titania-based particles for subsequent photocatalytic killing.Enwrapping extent of HA layer on titania particle can be tailored by adjusting pre-aging time of HA suspension before addition of titania powder.Less extent of enwrapping of HA on titania particleshows bettercapabilityof photocatalytic degradation of methylene blueand sterilization of E.coli.The novel HAenwrapped titania powder might be used for antibacterial applications for water disinfection. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by National Natural Science Foundation of China (grant # 31271017 and 41476064),Natural Science Foundation of Ningbo (grant # 2O14A610o05 and 2013A61014O）and 100 Talents Program of Chinese Academy of Sciences. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]R.Fayer,Vet.Parasitol.126(2004)37-56. [2] A. Villarino,M.N. Rager,P.A.D. Grimont, O.M.M. Bouvet, Eur. J. Biochem. 270 (2003) 2689-2695. [3]S.Swetha, S.M. Santhosh,R.G. Balakrishna,Photochem.Photobiol. 86 (2010) 628-632. Fernandez-Ibanez, J. Photoch. Photobio.B 88(2007) 105-111. [4] F.J. Loge,R.W. Emerick, M. Heath, J. Jacangelo, G. Tchobanoglous, J.L. Darby, Water Environ. Res. 68(1996) 900-916. [5]F.Mendez-Hermida,E. Ares-Mazas,K.G. McGuigan,M. Boyle, C. Sichel, P. J. Photochem. Photobiol. B 88 (2-3) (2007) 105-111. [6] R.F. Christman, D.L. Norwood, D.S. Millington, J.D. Johnson, A.A. Stevens, Environ. Sci. Technol. 17 (1983) 625-628. [7] J. Wist,J. Sanabria, C. Dierolf,W. Torres, C.Pulgarin,J. Photoch. Photobio. A 147 (2002) 241-246. [8]D. Gumy, C. Morais,P. Bowen, C. Pulgarin, S. Giraldo, R. Hajdu, J. Kiwi, Appl. Catal.B Envir0n.63 (2006) 76-84. [9] A.D. Belapurkar,P. Sherkhane, S.P. Kale, Curr. Sci. India 91(20O6) 73-76.   \n[10] J.C. Yu, W.K. Ho,J.G. Yu, H.Y. Yip,P.K. Wong,J.C. Zhao,Environ. Sci. Technol. 39 (2005) 1175-1179.   \n[11] A. Fujishima, K.Honda, Nature 238(1972)37-38.   \n[12]T.Matsunaga,R. Tomoda,T. Nakajima,H. Wake,FEMS Microbiol. Lett.29 (1985) 211-214.   \n[13] T. Matsunaga, R. Tomoda,T. Nakajima, N. Nakamura, T. Komine, Appl. Environ. Microb.54(1988)1330-1333.   \n[14] R.P.S. Suria, H.M. Thorntonb,M. Muruganandhama, Environ. Technol. 33 (2012) 1651-1659.   \n[15] Y.X. Liu, J. Huang, S.Y. Ding, Y. Liu, J.H. Yuan, H. Li, J. Therm. Spray Technol. 2 (2013) 1053-1062.   \n[16] T. Nonami, H. Hase, K. Funakoshi, Catal. Today 96 (2004) 113-118.   \n[17] L.E. McNamara, T. Sjostrom, K.E.V. Burgess, J.J.W. Kim, E. Liu, S. Gordonov, P.V.Moghe,R.M.D. Meek,R.O.C. Oreffo,B. Su,M.J. Dalby,Biomaterials 32 (2011) 7403-7410.   \n[18] S.X. Ng, J. Guo, J. Ma, S.C.J. Loo,Acta Biomater. 6 (2010) 3772-3781.   \n[19] S. Zeng, S.Z. Fu, G. Guo,H. Liang, Z.Y. Qian, X.H. Tang,F. Luo, J. Biomed. Nanotechnol. 7 (2011) 549-557.   \n[20] K.Ozeki, J.M. Janurudin，H. Aoki,Y. Fukui,Appl. Surf. Sci. 253 (2007) 3397-3401.   \n[21] Y.Watanabe, Y. Moriyoshi, Y. Suetsugu, T. Ikoma,T. Kasama, T. Hashimoto, H. Yamada, J. Tanaka, J. Am. Ceram. Soc.87 (2004) 1395-1397.   \n[22] A. Nakajima, K. Takakuwa, Y. Kameshima,M. Hagiwara, S. Sato, Y. Yamamoto, N. Yoshida, T.Watanabe, K. Okada, J. Photoch.Photobio. A 177 (2006) 94-99.   \n[23]M. Wakamura,Fujitsu Sci. Tech. J. 41 (2005)181-190.   \n[24] A.M.Hu,M.Li, C.K. Chang, D.L. Mao,J. Mol. Catal. A Chem. 267 (2007) 79-85.   \n[25]P.P. Wang, C.H. Li, H.Y. Gong, X.R. Jiang, H.Q. Wang, K.X. Li, Powder Technol. 203 (2010) 315-321.   \n[26] J. Qu, X. Lu,D. Li, Y.H. Ding, Y. Leng, J. Weng, S.X. Qu, B. Feng,F. Watari, J. Biomed. Mater. Res. B 97B (2011) 40-48.   \n[27] R.A. Young, The Rietveld Method, Oxford University Press, Oxford,1995.   \n[28] R. Tomaszek,L. Pawlowski,L. Gengembre,J. Laureyns,A. Le Maguer, Surf. Coat. Technol. 201 (2007) 7432-7440.   \n[29]R. Rodriguez-Clemente,A. Lopez-Macipe, J. Gomez-Morales,J. Torrent-Burgues,V.M. Castano, J. Eur. Ceram. Soc.18(1988) 1351-1356.   \n[30] K. Sato, Y. Hotta, T. Nagaoka, M. Yasuoka, K. Watari, J. Mater. Sci. 41 (2006) 5424-5428.   \n[31] Y.X. Pang, X. Bao,J. Eur. Ceram. Soc. 23 (2003) 1697-1704.   \n[32]V.Vamathevan,R. Amal, D. Beydoun,G. Low, S. McEvoy, Chem. Eng.J. 98 (2004) 127-139.   \n[33]H. Nishikawa, J. Mol. Catal. A Chem. 207 (2004) 149-153.   \n[34] P.C. Maness,S. Smolinski,D.M. Blake, Z. Huang, E.J. Wolfrum,W.A. Jacoby, Appl. Environ.Microb. 65(1999) 4094-4098.   \n[35] J.W. Liou, M.H. Gu, Y.K. Chen, W.Y. Chen, Y.C. Chen, Y.H. Tseng, Y.J. Huang, H.H. Chang, Plos One 6 (2011) e19982.   \n[36]K. Sunada, Y. Kikuchi, K. Hashimoto,A. Fujishima, Environ. Sci. Technol. 32 (1998) 726-728.   \n[37]E. Mileykovskaya,Mol.Microbiol. 64(2007) 1419-1422.   \n[38] M. Fletcher, G.D. Floodgate,J. Gen. Microbiol. 74(1973) 325-334.   \n[39] G.N. Phillips,P.E.Flicker,C. Cohen,B.N. Manjula,V.A. Fischetti, Proc.Natl. Acad.Sci.U.S. A. 78(1981)4689-4693.   \n[40] S.J. Yuan, J.J. Chen, Z.Q. Lin,W.W. Li, G.P. Sheng, H.Q. Yu, Nat. Commun. 4 (2013) 2249-2256.   \n[41]A.Fernandez,G. Lassaletta，V.M. Jimenez,A. Justo，A.R. GonzalezElipe, J.M. Herrmann,H. Tahiri, Y. AitIchou, Appl. Catal. B Environ.7(1995) 49-63.   \n[42]M. Uzunova-Bujnova， R. Todorovska, M. Milanova， R.Kralchevska, D. Todor0vsky, Appl. Surf. Sci. 256 (2009) 830-837.   \n[43]D.L. Zhao, X. Yang,C.L. Chen, X.K. Wang,J. Colloid Interf. Sci. 398 (2013) 234-239.   \n[44] J.W. Liou, H.H. Chang, Arch. Immunol. Ther. Exp. 60 (2012) 267-275. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

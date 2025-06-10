@@ -1,0 +1,437 @@
+[
+    {
+        "type": "text",
+        "text": "基于二级控制器和线性模型的自适应带宽分配算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵海军1，张雷1，何先波¹，崔梦天²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．西华师范大学 计算机学院，四川 南充 637009;2．西南民族大学 计算机科学与技术学院，成都 610041)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对虚拟化网络中存在的带宽分配问题，提出了一种基于二级控制器系统的自适应带宽分配算法。该控制器系统由包含VN子控制器的一组 SP控制器和InP控制器构成；首先把每个VN在每个控制间隔的特性用一个线性模型来局部近似，以得到其过去、当前的带宽分配以及过去包时延性能之间的关系，然后基于物理链路容量的限制，系统对每个VN所请求的带宽作出响应并进行动态调整，以达到灵活的分布式自治控制，并保证为每个VN分配合理的带宽。仿真结果表明，提出的算法不仅能够在多个VN之间合理、动态地分配可用链路容量，而且能够提高总带宽的利用率和分配的公平性，满足每个VN的QoS需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：控制器；线性模型；虚拟网络；带宽分配；QoS中图分类号：TN915 doi: 10.3969/j.issn.1001-3695.2017.09.0946",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Adaptive bandwidth allocation algorithm based on two stage controller and linear model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhao Haijun1, Zhang Lei1, He Xianbo1, Cui Mengtian² (1.SchoolofComputer,China-WestNormalUniversity,Nanchongichuan637009,China;2.choolofComputerScience& Technology,Southwest University for Nationalities, Chengdu 610041,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aiming atthe bandwidth alocation problems in virtual networks,this paper presentedanadaptive bandwidth allocation algorithm based ontwo stage controler system.Thecontroler systemconsisted ofasetof SPcontrollers including VN sub-controlersand InPcontrollers.Firstlytheperformance foreach VNat everycontrolintervalcould be locally approximated byalinear model inorder tofind therelationship between its past andcurrentbandwidth allcationandits past performances in terms ofpacket delays.Then,basing on thephysical inkcapacityconstraints,thesystem was responseof the requested bandwidth from each VNandadjusted dynamiclyinorder toachieve flexible distributed autonomous controlof the reasonable bandwidth allcationtoeach VN.Thesimulationresults show thathe proposedalgorithmcan notonly alocate the availablelinkcapacityreasonablyand dynamicllyamong multiple VNs,butalsocanimprovetheavailabilityfor totalbandwidth and the fairness for bandwidth allocation to meet the QoS requirement of each VN. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: controller; linear model; virtual network; bandwidth allocation; Quality of Service ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着互联网用户成指数级增长，要提供新的服务已变得越来越困难。特别是对于那些有着严格时延要求的服务来说，目前的互联网构架已经显得力不从心。因此，网络虚拟化概念应运而生。网络虚拟化就是在同一个底层物理网络上运行多个逻辑网络，通常把这种逻辑网络称为虚拟网络(VN,VirtualNetwork)。网络虚拟化环境中的基本实体就是虚拟网络，它是由一组虚拟节点和链路构成的逻辑拓扑。在这种环境中，每个物理链路被划分成多个虚拟链路，每个VN获得物理链路可用容量的一部分。这种技术允许多个逻辑网络共存于一个共享的底层物理网络[1]，有助于灵活部署互联网服务；同时，网络虚拟化也将互联网服务提供商(Internet service provider,ISP)划分为两个独立的实体；服务提供商(service provider SP,)和基础设施（也称为底层物理网络或物理链路)提供商(infrastructureprovider,InP)[2]；网络虚拟化的一个关键问题是虚拟网络嵌入(virtual network embedding,VNE)[3]，即解决物理节点和物理链路的带宽分配，寻找到有效的和最佳的虚拟节点和虚拟链路在底层物理网络资源上的映射。虚拟网络嵌入包括三个步骤[4]。首先是资源发现，每个InP监测自身的物理网络，并与多个SP共享关于负荷、使用以及底层物理网络采用的一些测量过程的信息[5]；其次是虚拟网络映射，这一步由SP完成，即把它的带宽需求与可利用网络资源进行匹配，这是最复杂的一步，因为需要将节点和链路容量约束结合起来[6；最后一步是虚拟网络的带宽分配。这是一个将物理资源预留和分配给虚拟节点和虚拟链路等单元的过程，这个过程由InP基于从SP接收到的全部带宽请求来完成。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "带宽分配是虚拟网络分配的重要部分。目前，关于虚拟网络的带宽分配算法大致可以分为基于静态或动态方法的集中式或分布式算法[7-9]；还有一些策略或是求解一个嵌入式问题，或是对资源发现和网络映射的混合求解[10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而对于多个VN之间的带宽分配来说，目标就是在多个VN之间分配物理链路容量，这对于SP和InP来说都是一个重要的挑战，因为这种带宽分配必须考虑流经每个VN的数据流所要求的服务质量(QoS,QualityofService)和网络资源的利用率，并避免物理网络拥塞[II；这个问题通常视为是一个NP-hard问题，所以提出了许多启发式算法来求解这个问题[12]；文献[13]把VN构建为一种嵌入式问题，并提出了一种有效的启发式算法来求解。作者提出了一种快速重定路由策略，并利用每个物理链路上预先预留的带宽作为备用，这样能够解决链路故障，并支持节点迁移；文献[14]提出了一种称之为DaVinci的灵活的体系结构，这种结构支持多个VN的动态自适应带宽分配，采用最优化理论使流经VN的总体性能最大化。每个物理链路基于虚拟链路间的本地链路负荷周期性地再分配带宽份额，同时每个虚拟网络运行自己的流量管理协议，使自身的性能目标独自最大化。虽然带宽分配能很快收敛到最佳值，但没有考虑全部VN 变得贪婪时请求更多带宽容量的情况；文献[15]针对SR-IOV虚拟化平台，研究了物理链路带宽如何在虚拟机中按比例分配的网络虚拟化机制。通过对虚拟机数据包接收和发送的流程进行分析，在SR-IOV平台上实现了ITR和TBF虚拟机网络带宽控制机制，实验表明这2种带宽分配机制能较好地对虚拟机的网络带宽进行控制；文献[16]针对网络虚拟化的隔离性导致的物理链路带宽资源不能被充分利用的问题，提出了一种动态带宽资源重利用算法。算法允许服务提供商以虚拟设施提供商的身份，将其临时空闲带宽资源进行进一步虚拟化，并以拍卖的形式租赁给其他需要的服务提供商。该算法以卖方收益最大化为主要目标,可以有效地激励服务提供商开放其临时空闲带宽资源，充分利用底层物理链路带宽资源。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "也有学者提出经济模型和博弈论方法来解决InP和 SP 的最优化问题；文献[17]提出了一种网络虚拟化环境下的非合作游戏模型的带宽分配，作者提出了一种迭代算法来获得纳什均衡。在该模型中，InP的作用是使VN 根据定价方案改变它们的策略，这种模型仅着重于InP如何在多个VN之间分配有限的带宽；文献[18]基于二阶段非合作博弈提出了一种带宽分配算法，旨在降低网络管理的复杂性，避免网络虚拟化环境下的带宽性能问题。博弈的第一阶段是带宽谈判博弈，即 SP向多个InP请求带宽。当SP可能导致链路拥塞时，每个InP决定是否接受或拒绝该请求；第二阶段是带宽分配博弈，这时不同的SP 竞争由一个InP管理的物理链路的带宽容量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文针对VN环境中的带宽分配问题，提出了一种基于二级控制器系统和QoS需求的自适应带宽分配策略。首先把每个VN 在每个控制间隔的特性用一个线性模型局部近似，这个模型就是它的过去和当前分配以及其过去包时延性能之间的关系。控制器系统的目标是找到每个VN请求的最佳带宽，并分配给它们；每个VN必须通过竞争来获得物理链路容量的一部分，即算法计算出每个VN 根据其QoS 指标(即时延)请求的这部分带宽，使每个VN的端到端时延最小化，同时公平有效地分配物理链路资源。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 系统设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "把物理网络建模为一个无向图，用 $G ^ { \\nu } { = } \\{ N ^ { \\nu } { , } L ^ { \\nu } \\}$ 来表示， $N ^ { \\nu }$ 为物理节点的集合， $L ^ { \\nu }$ 为物理链路的集合。两个底层节点 $i$ 和$j$ 之间的每条链路 $l ^ { \\nu } ( i , j ) \\in L ^ { \\nu }$ 与带宽容量值 $C ^ { l }$ 是关联的， $C ^ { l }$ 表示带宽总量。图1所示为本文所提出的体系结构，系统包括一组SP控制器和InP控制器。SP控制器由一组VN子控制器构成，每个VN子控制器监测每个控制间隔的动态工作负荷的变化，并计算为获得其性能所需要的带宽容量；InP控制器收集从多个 SP那里请求的容量，并考虑每条链路的容量约束条件，然后确定出每条物理链路分配的容量。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/91679c4714aba801188f6f663e80b2d9928257c7f959c3aaa2bbcd016fb6cd53.jpg",
+        "img_caption": [
+            "图1二级控制器的系统结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "先对本文要用到的记号定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "S：全部服务提供商 $S P _ { n }$ 的集合；  \nI：全部基础设施提供商 $I n P _ { k }$ 的集合;  \nV：全部虚拟网络 $V _ { i , j }$ 的集合，由一个 $s { \\in } S$ 的 SP 部署;  \n$L$ ：全部物理链路 $l _ { k , l }$ 集合，由一个 $I n P _ { k \\in I }$ 的 $\\mathrm { I n P }$ 管理;  \n$\\mathit { W } _ { i , j }$ ：由第 $i$ 个 SP 部署的第 $j$ 个VN;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "T：控制间隔;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$x ( T )$ ：控制间隔 $T$ 变量 $x$ 的值;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$F \\mathbf { \\hat { r } } _ { s , \\nu , l }$ ：由一个 $s { \\in } S$ 的 SP 部署的 $\\nu \\in V$ 的VN向物理链路 $l \\in L$ 请求的带宽;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$F \\mathbf { a } _ { s , \\nu , l }$ ：由物理链路 $l \\in L$ 分配给由一个 $s { \\in } S$ 的 SP 部署的$\\nu \\in V$ 的VN的带宽;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$d _ { s , \\nu , l }$ ：由一个 $s { \\in } S$ 的 SP 部署的 $\\nu \\in V$ 的VN通过物理链路$l { \\in } L$ 时测得的包时延；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$d \\mathrm { t } _ { s , \\nu , l } ;$ ：由一个 $s { \\in } S$ 的 SP 部署的 $\\nu \\in V$ 的VN通过物理链路$l \\in L$ 时的目标包时延；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$p _ { s , \\nu , l }$ ：通过物理链路 $l _ { k , l }$ 时 $\\nu \\in V$ 的VN的丢包率;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$y _ { s , \\nu , l } { = } 1 / d _ { s , \\nu , l } ( T )$ ：通过物理链路 $l \\in L$ 时在间隔 $T$ 的 $\\nu \\in V$ 的VN所测得的性能指标；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$y \\mathrm { t } _ { s , \\nu , l } { = } 1 / d \\mathrm { t } _ { s , \\nu , l } ( T )$ ：通过物理链路 $l \\in L$ 时在间隔 $T$ 的 $\\nu \\in V$ 的VN的目标性能指标;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { r } { y \\mathrm { n } _ { s , \\nu , l } { = } y _ { s , \\nu , l } / y \\mathrm { t } _ { s , \\nu , l } { : } } \\end{array}$ 通过物理链路 $l \\in L$ 时 $V N _ { i , j }$ 的归一化时延;  \n$k ( T )$ ：分配算法的特性参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 SP控制器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SP 控制器将VN子控制器和每个VN连接在一起，VN子控制器负责监测过去的性能和带宽分配，目的是得到最佳请求带宽；SP控制器也收集全部VN子控制器的请求带宽，并把请求带宽向量提交给每个 $\\mathbf { I n P }$ 。这个最佳带宽请求是根据工作负荷的动态变化，以一个固定的速率保证两个物理节点之间的数据包时延；VN子控制器有2个模块：估计器和请求器，如图2所示。把VN在每个控制间隔T的特性用一个线性模型来局部近似，这个模型可以捕捉由一个 $\\mathrm { S P } _ { j }$ 部署的每个 $V N _ { i , j }$ 的带宽分配和包时延性能之间的关系。每个SP向每个InP 提交一个带宽请求向量 ${ F r } _ { s }$ 。这个向量代表一个InP所管理的不同物理链路上所部署的全部VN的请求带宽。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）估计器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "估计器采用线性自适应模型，把每个物理链路分配的带宽与通过该链路的VN包时延关联起来，从而更新分配带宽和每个VN性能之间的关系；在每个控制间隔 $T _ { : }$ ，模型参数的更新采用式(1)的递归最小二乘算法，周期性地学习和自适应改变参数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { y \\mathrm { n } _ { s , \\nu , l } ( T ) = a _ { 1 } ^ { \\nu , l } ( T ) y \\mathrm { n } _ { s , \\nu , l } ( T - 1 ) + a _ { 2 } ^ { \\nu , l } ( T ) y \\mathrm { n } _ { s , \\nu , l } ( T - 2 ) } \\\\ & { \\qquad + b _ { 0 } ^ { \\nu , l } ( T ) F \\mathrm { a } _ { s , \\nu , l } ( T ) + b _ { 1 } ^ { \\nu , l } ( T ) F \\mathrm { a } _ { s , \\nu , l } ( T - 1 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $a _ { 1 } ^ { \\nu , l } ( T )$ 和 $a _ { 2 } ^ { \\nu , l } ( T )$ 捕获 VN 在物理链路1上过去和当前性能之间的相关性， ${ \\pmb b } _ { 0 } ^ { \\nu , l } ( T )$ 和 ${ \\pmb { b } } _ { 1 } ^ { \\nu , l } ( T )$ 是捕获链路丨上过去和当前带宽分配之间的相关性的两个向量。模型参数依赖于控制间隔 $T _ { \\circ }$ 为了确保系统的稳定性，本文采用归一化性能参数代替绝对性能参数，即请求带宽和分配带宽值都在0\\~1。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/df2cdd16dd0ea2765c8fefd4bb3528404637b36e85e171a3e64886aaee48705c.jpg",
+        "img_caption": [
+            "图2VN子控制器结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）请求器",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一旦请求器接收到线性模型参数的估计值，就对每个物理链路被请求的带宽进行预测，并基于估计模型来满足通过该链路的 $V N _ { i , j }$ 的目标包时延，即请求器的目标就是找到最佳带宽请求来满足它的端到端时延。这是通过寻找 ${ \\mathrm { F r } } _ { s , \\nu , l } ( T )$ 值以使下列成本函数最小化来实现的：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { F \\mathrm { r } _ { s , \\nu , l } ( T ) ^ { * } = [ \\mathrm { y n } _ { s , \\nu , l } ( T ) - a _ { 1 } ^ { \\nu , l } ( T ) \\mathrm { y n } _ { s , \\nu , l } ( T - 1 ) - } \\\\ & { \\qquad a _ { 2 } ^ { \\nu , l } ( T ) \\mathrm { y n } _ { s , \\nu , l } ( T - 2 ) - \\mathrm { y n } _ { s , \\nu , l } ( T - 2 ) } \\\\ & { \\qquad - b _ { 1 } ^ { \\nu , l } ( T ) F \\mathrm { a } _ { s , \\nu , l } ( T - 1 ) ] / b _ { 0 } ^ { \\nu , l } ( T ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $a _ { 1 }$ ， $a _ { 2 }$ 和 $b _ { 0 }$ ， $b _ { 1 }$ 为在控制间隔 $T$ 采用递归最小二乘算法得到的新的更新值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 InP控制器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "InP控制器首先收到来自多个SP控制器的带宽请求，即依次收集每条物理链路上的每个VN的带宽请求；然后基于各链路容量，采用自适应分配算法来找到最佳分配，以获得分配给每个VN的带宽和它的包丢失之间的数学关系，提供一个反馈机制来分配可用的链路容量，起到基于速率的拥塞控制作用，可以通过分配给那些贪婪VN较少的链路容量来惩罚其贪婪性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑 $M$ 个VN，由 $N$ 个SP 部署，而且共享一条由单一InP管理的物理链路 $l _ { \\circ } \\ \\mathrm { I n P }$ 控制器接收到全部VN请求可用链路容量的带宽请求，然后根据其他第 $M { - } 1$ 个VN生成的流量负荷来得到第 $M$ 个VN的丢包概率。对每个物理链路i来说，InP计算出全部共享该链路的VN的总的带宽请求如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { F r } _ { l } ( T ) = \\sum _ { s = 1 } ^ { N } \\sum _ { \\nu = 1 } ^ { m _ { s } } \\mathit { F r } _ { s , \\nu , l } ( T )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果 $F \\mathrm { r } { } _ { l { \\leq } 1 }$ ，则每个VN获得的带宽就等于它请求的带宽，否则， $\\mathrm { I n P }$ 控制器计算2个参数 $\\alpha ( T ) \\lrcorner \\beta ( T )$ 如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { \\alpha ( T ) = F \\mathrm { r } _ { l } ( T ) - 1 } \\\\ { \\beta ( T ) = \\displaystyle \\sum _ { s = 1 } ^ { N } \\sum _ { \\nu = 1 } ^ { m _ { s } } \\ F \\mathrm { r } _ { s , \\nu , l } ^ { k ( T ) + 1 } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $k ( T )$ 定义 $T$ 时刻分配算法的特性， $\\boldsymbol { \\alpha } ( \\boldsymbol { T } )$ 用于测量链路上超过的负荷流量， $\\beta ( T )$ 用于测量相互竞争的VN之间总的分配负荷。 $F \\mathrm { r } _ { 0 } ( T )$ 和 $F \\mathbf { r } _ { m } ( T )$ 的边界条件定义为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ { F }  { \\mathrm { r } _ { 0 } } ( T ) = ( \\beta ( T ) / \\alpha ( T ) ) ^ { 1 / k ( T ) } \\right. } \\\\ { \\left. F  { \\mathrm { r } _ { m } } ( T ) = 1 - F r _ { l } ( T ) \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法在分配 $p _ { s , \\nu , l }$ 时有以下几个特性：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)如果全部请求带宽的总和小于或等于链路可用容量，则对全部VN来说， $p _ { s , \\nu , l } = 0$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)如果全部请求带宽的总和大于链路容量，则对全部并发VN来说，则有 $p _ { s , \\nu , l } > 0$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { c } ) p _ { s , \\nu , l }$ 是请求带宽的一个非递减函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当第 $M - 1$ 个VN采用分配算法从链路 $L$ 的容量 $C _ { l }$ 请求的带宽为 $F \\mathbf { r } ( T )$ 时，则第 $M$ 个VN 在控制间隔 $T$ 的丢包率 $P ( F \\mathbf { r } ( T ) )$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { r l } { P ( F \\mathrm { r } ( T ) ) = \\displaystyle \\frac { F \\mathrm { r } ^ { k ( T ) } ( F \\mathrm { r } ( T ) + \\alpha ( T ) ) } { F \\mathrm { r } ^ { k + 1 } ( T ) + \\beta ( T ) } } & \\\\ { \\qquad \\mathcal { Y } | | \\mathcal { H } _ { N } ( T ) \\leq F \\mathrm { r } ( T ) \\leq F \\mathrm { r } _ { m } ( T ) } & \\\\ { P ( F \\mathrm { r } ( T ) ) = 1 } & { \\mathcal { Y } | | \\mathbb { H } _ { N } F \\mathrm { r } ( T ) \\succ F \\mathrm { r } _ { m } ( T ) } \\\\ { P ( F \\mathrm { r } ( T ) ) = 0 } & { \\mathcal { Y } | | \\mathbb { H } _ { N } F \\mathrm { r } ( T ) \\leq F \\mathrm { r } _ { 0 } ( T ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果有新的容量被请求，则 $F r ( T ) \\substack { + \\alpha ( T ) }$ 表示链路上新的多余负荷。分母表示全部负荷分配 ${ \\cal F } \\mathrm { r } ^ { k ( T ) } ( T )$ 的新的测量值，而且决定第 $( M + 1 )$ 个VN在物理链路上请求的总的包丢失部分；如果在控制间隔 $T _ { : }$ 全部VN请求带宽的总和大于可用链路容量 $C _ { l }$ 则物理链路被视为处于临界状态。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对每个链路来说， $k ( T )$ 在每个控制间隔 $T$ 的设置是根据先前控制间隔的链路状态。这个参数决定算法分配链路容量给多VN的行为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { k ( T ) = 1 } & { \\nleq { \\mathbb { H } } \\nleq T = 0 } \\\\ { k ( T ) = 2 k ( T - 1 ) } & { \\nleq { \\mathbb { H } } \\nleq F _ { \\mathrm { L } } ( T - 1 ) \\succ 1 { \\boxplus } F \\mathrm { r } _ { l } ( T ) \\succ 1 } \\\\ { k ( T ) = k ( T - 1 ) - 1 \\not \\exists \\nleq { \\mathbb { H } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "事实上，分配算法考虑了先前控制间隔物理链路的状态和全部VN的带宽请求。这样，算法尝试找到最佳的带宽分配。以下为本文提出的自适应带宽分配算法的伪代码：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "end for ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "input:虚拟网络 $\\pmb { \\nu } : V N _ { i , j \\in V }$ ；服务提供商 $S P _ { j \\in S }$ ；基础设施提供商  \n$I n P _ { m \\in } I$ ；物理链路 $\\iota : L _ { { \\mathfrak { m } } , n \\in L }$ ；控制间隔 $\\tau$ ；总的请求带宽 ${ f _ { l } } ( \\tau { - } 1 )$ ；部  \n分请求带宽 ${ F r } _ { s , v , l }$ ；算法特性参数 $k ( { T } - 1 )$ 。  \noutput:部分分配带宽 $F \\mathsf { a } _ { s , v , l }$   \nfor 每个控制间隔 $\\tau$ dofor 每条物理链路 $\\lfloor _ { m , n }$ dofor 每个服务提供商 $S P _ { j }$ dofor 每个虚拟网络 $V N _ { i , j }$ do$F \\mathrm { r } _ { l } ( T ) = \\sum _ { i = 1 } ^ { N } \\sum _ { i = j } ^ { M } F \\mathrm { r } _ { s , \\nu , l } ( T )$ if ${ F r } _ { \\iota } ( T ) { \\leq } 1$ then$F \\mathsf { a } _ { s , v , l } ( \\tau ) { = } F \\mathsf { r } _ { s , v , l } ( \\tau )$ elseif ${ F \\mathsf { r } _ { \\iota } } ( T { - } 1 ) { \\geq } 1$ then$k \\left( T \\right) { = } 2 { * } k \\left( T { - } 1 \\right)$ else$k \\left( T \\right) = k \\left( T - 1 \\right) - 1$ end if（204号 $\\begin{array} { r c l } { { } } & { { } } &  { \\displaystyle \\alpha ( T ) = F { \\} } _ { l } ( T ) - 1 } \\\\ { { } } & { { } } & { { } } \\\\ { { } } & { { \\displaystyle \\beta ( T ) = \\sum _ { s = 1 } ^ { N } \\sum _ { \\nu = 1 } ^ { m _ { s } } ~ F \\mathbf { { \\mathrm { r } } } _ { s , \\nu , l } ^ { k ( T ) + 1 } } } \\\\ { { } } & { { } } & { { } } \\\\ { { } } & { { \\displaystyle p _ { s , \\nu , l } ( T ) = F \\mathbf { { \\mathrm { r } } } _ { s , \\nu , l } ^ { k ( T ) } \\alpha ( T ) / \\beta ( T ) } } \\\\ { { } } & { { } } & { { { } } } \\\\ { { } } & { { } } &  { { \\displaystyle { F \\mathbf { a } _ { s , \\nu , l } ( T ) = ( 1 - p _ { s , \\nu , l } ( T ) ) * F _ { \\mathbf { { \\mathrm { r } } } _ { s , \\nu , l } } ( T ) } } } \\end{array}$ end ifend forend forend for",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 算法性能仿真及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过MATLAB仿真对本文所提出的自适应带宽分配算法性能进行评价。为减少仿真复杂性，假设有3个 $\\mathit { \\Delta } V N$ 即 $\\{ V { \\cal N } _ { 1 , 1 }$ $V { \\cal N } _ { 2 , 1 }$ ， $\\begin{array} { r } { { V N } _ { 3 , 1 } \\big \\} } \\end{array}$ ，分别由3个不同的 SP 部署，共享一条由一个$\\mathbf { I n P } _ { 1 }$ 管理的物理链路 $l _ { 1 , 1 }$ ；控制间隔设为 $T { = } 1 \\mathrm { s }$ ，目标时延在每个控制间隔设为 $1 0 \\mathrm { m s }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3所示为 $V N _ { 1 , 1 }$ ， $V { \\cal N } _ { 2 , 1 }$ 和 $V N _ { 3 , 1 }$ 从物理链路 $l _ { 1 , 1 }$ 上请求的带宽、通过本文提出的自适应带宽分配算法和比例分配算法(PSA,Proportional Share Algorithm)从物理链路 $l _ { 1 , 1 }$ 上实际获得的带宽曲线。从图3可见，本文提出的自适应带宽分配算法能够对物理链路上工作负荷的变化作出充分的响应，每个VN通过监测其过去的包时延和带宽分配，获得它们之间的相互关系，使工作负荷变得较为平稳；当3个VN的总带宽请求超过链路容量即有VN变得贪婪时，自适应带宽分配算法就对其进行惩罚，分配给合适的带宽来保证整个链路不至于出现大流量突变时造成拥塞，从而获得物理链路上最佳的带宽请求；同时还可看到，PSA分配算法尽管在分配带宽时也能保持平稳，不会出现大流量突变时造成拥塞，但无论对哪个VN来说，本文提出的自适应带宽分配算法对链路容量的利用率都要高于PSA 分配算法。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/605ba3b7973160e6abf8df7dd2179c325477ac5172c11c1cc4e85e93e8f5ea05.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/06e7148fc5103f89d033ef7ca3d0fbc9f576442d3f38808e1b5d98d90038b476.jpg",
+        "img_caption": [
+            "(a) $\\mathrm { V N } _ { 1 , 1 }$ 请求的带宽和通过2种分配算法获得的带宽",
+            "(c) $\\mathit { V N } _ { 3 , 1 }$ 请求的带宽和通过2种分配算法获得的带宽图33个 $\\mathit { \\Delta } _ { V N }$ 的请求带宽、通过自适应带宽分配算法和PSA分配算法从物理链路 $l _ { 1 , 1 }$ 上实际获得的带宽"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4所示为对共享链路实际测得的时延和目标时延的对比曲线。从图4可见，自适应带宽分配算法能够使包时延的实测平均值维持在目标时延 $1 0 \\mathrm { m s }$ 左右，从而满足了每个VN的QoS需求。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4c115b8a779e6753a8aaafc90810ebbc78112f8603b820f69eca668688530c0.jpg",
+        "img_caption": [
+            "图4测得的每个控制间隔数据包时延和目标时延"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了比较本文提出的自适应带宽分配算法和PSA分配算法的公平性，对2种带宽分配算法都得到3个VN在10个控制间隔的请求带宽和分配带宽之间的平均差 $\\delta ,$ 然后对所有控制间隔得到的平均差再进行总体比较，图5所示为得到的结果；从图5可见，2种分配算法总的平均差几乎一样，由于PSA分配算法是一种典型的公平分配算法，所以本文提出的自适应带宽分配算法也能为多个VN共享同一个物理链路提供公平的分配机制。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf39a21b547cd3ce5b41a4bfb89a79ac87d1c56ab1d32cd592d5694cc9eeb5cf.jpg",
+        "img_caption": [
+            "图5采用自适应带宽分配算法和PSA分配算法的公平性"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文针对虚拟网络环境中的动态带宽分配提出了一种基于2级控制系统的自适应带宽分配算法。控制系统由SP控制器和InP控制器构成；SP控制器又由一组VN子控制器构成，这些子控制器负责估计和最优化每个VN从物理链路请求的带宽。InP控制器负责在由不同SP部署的多个VN之间分配可用链路容量，目标是为多个VN提供一种自治的带宽分配，也提供公平高效的链路容量分配来避免瓶颈；未来的工作将把该算法在VN 对专门节点和链路的映射作为一个约束条件下进行研究，以使网络虚拟化中的带宽分配得到更好的结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Chowdhury NMMK,Boutaba R.A survey of network virtualization [J]. Journal of Computer Networks,2010,54(5): 862-876. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2]Mijumbi R,Serrat J,Gorricho JL,et al.Network function virtualization: state-of-the-art and research challenges [J].IEEE Communications Surveys & Tutorials,2015,18(1): 236-262. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[3]Zhang Zhongbao,Su Sen, Zhang Junchi,et al. Energy aware virtual network embedding with dynamic demands:online and offline [J]. IEEE//ACM Trans on Networking,2014,22 (5): 1607-1620.   \n[4]Esposito F, Matta I, Ishakian V. Slice embedding solutions for distributed service architectures [J].ACM Computing Surveys Journal, 2013,46 (1): 28-33.   \n[5]Kniesburges S,Koutsopoulos A,Scheideler C.A deterministic worst-case message complexity optimal solution for resource discovery[J].Theoretical Computer Science,2015,584(C): 67-79.   \n[6] Hsu W, Shieh Y. Virtual network mapping algorithm in the cloud infrastructure [J]. Journal of Network and Computer Applications,2013,36 (6): 1724-1734.   \n[7]Fischer A,Botero JF, Beck M, et al. Virtual network embedding: a survey [J]. IEEE Communications Surveys and Tutorials,2013,15(4):1888-1906.   \n[8]崔梦天，赵海军，李明东．基于交换操作和再分配的区域-服务器动态 分配算法[J].云南大学学报：自然科学版,2013,35(5):621-625.   \n[9] 蒲斌，崔梦天，赵海军．基于二阶段的 3D 虚拟世界客户分配方法[J]. 计算机工程,2016,42(1):109-115.   \n[10]刘文志，网络虚拟化环境下资源管理关键技术研究[D].北京：北京邮 电大学,2012.   \n[11] Wang M A,Dutta R,Rouskas G N,et al. Network virtualization: technologies，perspectives，and frontiers[J].Journal of Lightwave Technology,2013,31(4): 523-537.   \n[12] Belbekkouche A, Hasan M M, Karmouch A. Resource discovery and allocation in network virtualization [J]. IEEE Communications Surveys and Tutorials,2012,14(4): 1114-1128.   \n[13] Rahman M R, Boutaba R. SVNE: Survivable virtual network embedding algorithms for network virtualization [J]. IEEE Trans on Network and Service Management,2013,10 (2): 105-118.   \n[14]Liu Wenzhi,Li Shuai, Xiang Yang,et al. Dynamicall adaptive bandwidth allocation in network virtualization environment [].   \n[15] Journal of Child Psychology & Psychiatry,20l2,4(1):10-18.   \n[16]陈疆路．虚拟化构架下基于SR-IOV的网络带宽分配的研究[D].上海： 上海交通大学,2014.   \n[17]曲昭伟．网络虚拟化环境下资源动态优化算法[D].北京：北京邮电大 学,2012.   \n[18] Zhou Ye,Li Yong,Sun Guang,et al.Game theory based bandwidth allocation scheme for network virtualization [C]// Proc of IEEE Global Telecommunications. [S.1.]: IEEE Press,2010: 1-5.   \n[19] Seddiki M S,Frikha M.A non-cooperative game theory model for bandwidth allocation in network virtualization[C]// Proc of XVth International Telecommunication Network StrategyandPlanning Symposium. [S.1.]: IEEE Press,2013: 1-6. ",
+        "page_idx": 4
+    }
+]

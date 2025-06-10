@@ -1,0 +1,404 @@
+[
+    {
+        "type": "text",
+        "text": "雾霾(PM2.5)对情绪影响受地区因素调节",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张颖1²陈玉洁¹²陈俊芳'²吴晓菊'²龙燕满² 吴胜涛’朱廷劭1\\*1（中国科学院大学 北京 10049）²（中国科学院心理研究所，北京 100101)（厦门大学，厦门361005）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本研究在社会媒体大数据的基础上，探究雾霾影响情绪的过程中地区因素发挥的作用。本文通过对微博数据进行词频统计的方法，在去除了微博热点事件对情绪的影响后，对2015年至2016年北京（朝阳区）和成都市的用户的原创微博内容，进行词频统计和调节变量（地区）的分析。引入调节变量（地区）后发现，结果发现地区与雾霾（PM2.5）存在交互作用，北京地区雾霾（PM2.5）与消极情绪呈现正相关，成都地区雾霾（PM2.5）与消极情绪呈现负相关。研究结果发现雾霾（PM2.5）影响情绪存在地区差异，这可能与两个城市的生活方式和历史文化有关.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：雾霾（PM2.5；情绪；调节变量；地区分类号：B849",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Haze (PM2.5) affected by regional factors ZhangYing1,2 ChenYujie1,2ChenJunfang1,2Wuxiaoju1.2 LongYanman1,2WuShengtao3 ZhuTingshao2\\* 1 （University of Chinese Academy of Sciences, Beijing 10049) 2 (Institute of Psychology， Chinese Academy of Sciences Beijing 100101) 3（ Xiamen University, Xiamen 361005) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:By using social media big data, this study explores the role of regional factors in the process of haze influence. Based on keyword frequency, we analyzed weibo original content of users from Beijing(Chaoyang district) and Chengdu,after delete hot events which greatly influence people's emotion. We introduced of regulating variable (area) and found that there is interaction of areas and haze(PM2.5),haze positively related with negative emotion in Beijing and haze negatively related with negative emotion in Chengdu. There are regional differences in the influence of haze (PM2.5),which can be related to the lifestyle and historical culture of the two cities. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: haze(PM2.5）；emotion ； regulation variable.； district",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，我国许多城市“雾霾”持续高发、频发、连片、且危害程度不断加重，成为大众最关注的环境问题之一。“雾霾”除了对人类生活、交通、躯体健康的影响，其对人类心理的影响也不容忽视。情绪是人类心理活动基本内容之一，加之情绪视角是研究负性事件的重要视角，在雾霾的影响下，人们有可能产生恐惧、悲伤、厌恶、焦虑等负性情绪。深入探讨雾霾对公众情绪的影响有助于我们了解雾霾对人们心理的影响，为开展针对雾霾",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "的治理干预提供心理学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着Web2.0互联网技术的发展，微博已成为网民发表个人观点、进行情绪宣泄的重要渠道，微博客积累下的海量信息为社会情绪的直接测量提供了可能。国内外学者利用微博、Twitter 等社交软件测量社会情绪，从多个角度进行分析。Golder 和 Macy从 海 量的 Twitter 内容中获取人们的情绪信息并发现情绪随昼夜、工作日及季节变化的规律及特点[。Asur[2]等利用 Twitter 内容中情绪信息并预测到电影的票房，汪静莹等通过对新浪微博的分析，获取人们的情绪变化节律特点[3]。这些研究成果都表明基于微博的海量文本分析能够较为科学地反映公众的情绪波动。因此，本研究提出以微博数据来探讨雾霾与情绪之间的关联，进而为解决雾霾带来的情绪问题提供理论基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "纵观国内外已有的关于雾霾与情绪之间的关系的研究，大多学者认为雾霾带来一些不那么严重但频繁的消极情绪。Cho[4利用首尔 $2 0 0 5 ^ { \\sim } 2 0 0 9$ 年间近5千例抑郁急诊的数据，结果发现抑郁急诊的数量与 PM2.5 存在正向相关关系[1]。Power 等[5]通过问卷调查发现，人们焦虑水平的上升与PM2.5 暴露存在明显的相关2。卓敏和吴建平的研究发现，雾霾情绪随空气质量状况而变化，空气质量状况变差，雾霾的消极情绪随之增加；同时，空气质量持续好转时，公众表现出喜悦、愉快、安心等积极情绪。但同时，也有研究者的研究表明空气质量好转并不能带来积极的情绪体验，而是仍表现出一定的消极情绪。有研究者分析被调查对象自我报告“多大程度上受到室外空气污染的烦扰”的结果发现，即便空气质量相对较好时，被调查对象主观上仍能体验到空气污染的烦扰8]。综上，雾霾影响下的公众情绪并未完全形成统一定论，仍需要进一步研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究发现空气污染对大众情绪的影响受到性别、年龄、健康状况等其他因素的调节，女性、老年人以及健康状况较差的个体更多地受到空气污染带来的情绪影响。Zijlema 等[9]认为空气污染与情绪的关系受到特定人群的调节，他们针对老年人和妇女等人群的研究发现空气污染与抑郁情绪存在相关关系，而针对一般人群的研究并未发现空气污染和抑郁情绪存在相关关系。纵观已有研究，调节因素在空气污染与情绪关系中作用的研究并不多，且不全面。其中，地区这一重要因素在空气污染与情绪关系中的影响鲜少被考量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同的地区，其大众的情绪影响因素具有一定的地区特殊性，而过去的雾霾、情绪间相关性研究往往没有考虑到地区的特殊性。不仅如此，国内外对于雾霾与情绪是否受到其他变量的影响的研究也是极少的。根据研究发现，雾霾及地区的差异对大众的情绪影响起了一定作用。需要注意的是，虽然雾霾可能通过间接路径影响大众的情绪，但这种影响可能存在地区差异。那么，雾霾对大众情绪的影响是如何受地区调控？本研究将对此进行考",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "察。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了研究雾霾对公共情绪的影响，本研究采用社会大数据的方法，选取社会媒体一微博作为公众情绪的信息来源，来探索雾霾与公众情绪之间的关系。并提出我们的研究假设，城市中的雾霾含量与负性情绪（积极情绪）呈显著正相关，与正性情绪（负性情绪）呈显著负相关，地区在雾霾与情绪起调节作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1数据收集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究所取数据包括原创微博数据和雾霾数据（PM2.5指数）两个部分。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "微博数据中所取用户注册地为北京市朝阳区和成都市，数据内容为上述地区用户在2015-2016年期间发表的原创微博。雾霾数据（PM2.5指数）为上述地区2015-2016 两年期间PM2.5数值（数据获取网站为http://www.stateair.net/)，共计数据的个数为$3 6 5 * 2 * 2 4$ （每天每小时记录一次）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）微博数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们将微博数据按其时间戳信息进行归总，以便于之后的重大事件的筛选和词频统计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "关于重大事件的筛取，首先初步搜索 2015-2016 两年间的社会重大事件，然后对选取的重大事件进行筛选（由本研究的两名人员进行筛选)，通过访谈法进一步挑选事件（访谈对象对社会重大事件的知晓程度)，最终选取2015-2016 年间的社会重大事件 29 条（见表1)。通过搜索该重大事件的关键词，删掉对应社会重大事件日期下的文本文档中的与该事件有关的微博。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/84282607663e623c854fe2340b9de368752c1d80d2e87bc18e9f7e03f94f3ae9.jpg",
+        "table_caption": [
+            "表12015-2016微博热点事件筛选"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时间</td><td>重大事件</td></tr><tr><td>2014/12/31</td><td>上海外滩踩踏事故</td></tr><tr><td>2015/02/24</td><td>成都瓦斯爆炸事故</td></tr><tr><td>2015/03/03</td><td>2015 年全国两会</td></tr><tr><td>2015/05/21</td><td>南方强降雨，多地区受到洪涝灾害影响</td></tr><tr><td>2015/06/01</td><td>长江客轮沉没</td></tr><tr><td>2015/06/27</td><td>A股保卫战，A股暴跌</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/838942f7e021eb4562fb8ddbcea07b036dfc1ea4a150611cdc82b4ff335981af.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>2015/08/12</td><td>天津港特重大爆炸安全事故</td></tr><tr><td>2015/09/03</td><td>9.3 抗战胜利70 周年阅兵</td></tr><tr><td>2015/10/14</td><td>江苏多地塑胶跑道被曝有毒</td></tr><tr><td>2015/10/29</td><td>二胎全面放开大幕开启</td></tr><tr><td>2015/11/14</td><td>法国巴黎遭恐怖袭击致至少129人死亡</td></tr><tr><td>2015/12/20</td><td>深圳山体滑坡事故</td></tr><tr><td>2016/01/05</td><td>银川发生公交纵火案，造成17人死亡</td></tr><tr><td>2016/01/08</td><td>周恩来逝世40 周年。</td></tr><tr><td>2016/01/16</td><td>台湾民进党党主席蔡英文当选台湾地区最高领导人。</td></tr><tr><td>2016/03/03</td><td>政协十二届四次会议</td></tr><tr><td>2016/03/05</td><td>人大十二届四次会议</td></tr><tr><td>2016/04/12</td><td>百度魏则西事件</td></tr><tr><td>2016/04/14</td><td>篮球巨星科比退役</td></tr><tr><td>2016/06/24</td><td>英国脱欧公投决定脱离欧盟，首相卡梅伦宣布辞职。</td></tr><tr><td>2016/06/25</td><td>长征七号运载火箭首发成功</td></tr><tr><td>2016/06/30</td><td>长江中下游地区受到持续强降雨，多地发生地质洪涝灾害</td></tr><tr><td>2016/07/12</td><td>南海仲裁案出炉，中方不接受不承认</td></tr><tr><td></td><td>唐山大地震 40 周年祭</td></tr><tr><td>2016/07/28 2016/08/14</td><td>王宝强妻子马蓉出轨</td></tr><tr><td></td><td>里约奥运会 (傅园慧洪荒之力，女排夺冠)</td></tr><tr><td>2016/08/21</td><td></td></tr><tr><td>2016/09/04</td><td>中国杭州G20峰会</td></tr><tr><td>2016/09/16</td><td>乔任梁去世</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "关于节日对词频的影响，若在某节日期间词频与前后相比数值波动大（例如春节，七夕)，则删除该节日下的词频数据，不参与下一步的词频分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "关于词频统计，首先采用“文心”对原创微博中的积极情绪（positive affect，PA)和消极情绪（negative affect，NA）进行分析计算，获得不同时间的PA 和 NA 数据（见附件 2)，积极情绪和消极情绪的计算分别通过统计“文心系统”的字典中的积极情绪词类和消极情绪词类。但可能由于微博中说话风格更随意，语言表达具有时效性，文心系统计算得到的数值太小甚至出现某些天数情绪值为0，因此采用了绝对词频的计算方法，直接计算该情绪词的个数代替计算该情绪词个数占字词总个数的比重。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关于情绪词选择，从微博客基本情绪词库[10]中选取积极情绪词15 个（例如，高兴，快乐，感人等），消极情绪词15个（例如，伤心，难过，纠结等)，情绪词选取的标准如下：1）愉悦度判断：积极情绪词具有较高的愉悦度（ $\\left( 7 . 1 3 \\pm 0 . 3 3 \\right)$ ，消极情绪词愉悦度（2 $( 3 . 2 7 \\pm 0 . 4 2 )$ ）较低，并且两类情绪词的愉悦度存在显著差异，t(28) = 28.188, $p < 0 . 0 0 1$ （2",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）唤醒度判断：选取的积极情绪词（ $\\stackrel { \\cdot } { 5 } . 3 3 \\pm 0 . 5 3$ ）和消极情绪词（ $\\stackrel { \\prime } { 5 } . 2 3 \\pm 0 . 8 1$ ）都具有较高的唤醒度，并且两类情绪词的唤醒度无显著差异，t(28)=0.378,p =0.709",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3）频数判断：选取的情绪词具有较高的频数，几乎没有某天词频为0的现象。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/84aa7e1b9036bafad302c262dadf5ec252a0a552344e0ffd94518c8d9fe02f39.jpg",
+        "table_caption": [
+            "表2微博中选取的积极与消极情绪词及其情绪维度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">积极词</td><td colspan=\"2\">情绪维度</td><td rowspan=\"2\">消极词</td><td colspan=\"2\">情绪维度</td></tr><tr><td>愉悦度</td><td>唤醒度</td><td>愉悦度</td><td>唤醒度</td></tr><tr><td>感动</td><td>6.93</td><td>6.40</td><td>伤心</td><td>3.60</td><td>4.93</td></tr><tr><td>感恩</td><td>7.00</td><td>5.73</td><td>难过</td><td>3.13</td><td>5.20</td></tr><tr><td>感人</td><td>7.07</td><td>5.47</td><td>忧伤</td><td>3.33</td><td>4.53</td></tr><tr><td>高兴</td><td>7.27</td><td>5.33</td><td>难受</td><td>3.00</td><td>4.71</td></tr><tr><td>快乐</td><td>7.07</td><td>5.00</td><td>悲伤</td><td>2.87</td><td>5.40</td></tr><tr><td>开心</td><td>7.20</td><td>5.53</td><td>纠结</td><td>3.40</td><td>5.13</td></tr><tr><td>欢乐</td><td>7.53</td><td>6.13</td><td>崩溃</td><td>2.27</td><td>7. 13</td></tr><tr><td>哈哈</td><td>6.53</td><td>5.07</td><td>孤独</td><td>3.53</td><td>4.07</td></tr><tr><td>赞</td><td>7.13</td><td>5.87</td><td>孤单</td><td>3.53</td><td>4.20</td></tr><tr><td>可爱</td><td>7. 07</td><td>4. 73</td><td>寂寞</td><td>3.93</td><td>4. 47</td></tr><tr><td>美丽</td><td>7.40</td><td>4.87</td><td>紧张</td><td>3.60</td><td>6.00</td></tr><tr><td>美好</td><td>7.67</td><td>5.13</td><td>焦虑</td><td>2.87</td><td>5.60</td></tr><tr><td>萌</td><td>6.53</td><td>5.13</td><td>担忧</td><td>3.40</td><td>5.27</td></tr><tr><td>成功</td><td>7.53</td><td>5.07</td><td>焦急</td><td>3.60</td><td>5.80</td></tr><tr><td>认真</td><td>7.00</td><td>4. 47</td><td>焦躁</td><td>3.00</td><td>6.07</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）雾霾数据处理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于下载的雾霾数据存在少许缺失现象，因此对雾霾数据进行填充修补，之后求出这一天24小时的平均雾霾值作为该天的PM2.5值。雾霾数据的缺失情况以及所采用的填补方法如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1）若缺失数据为某一时刻，前后数据完整且前后数据为A,B,则该时刻的缺失数据的值为前后数据的均值 $\\left( { \\tt A + B } \\right) / 2$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2）若某天的缺失数据较多，由于所有时刻平均得到的值并不能够准确反映该天的雾霾情况（如只有清晨时刻部分)，因此采用相邻两天的PM2.5的平均值作为该天的雾霾数值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当数据补全后，求得2015-2016 年每天得雾霾均值作为相关计算得原始数据，然后删除对词频影响较大节日下的雾霾数据，每城市的数据总个数为695个，两城市雾霾含量在 2015-2016 年的变化趋势图见图1，并且 2015-2016 年间两城市雾霾程度不存在显著差异，$t ( 4 6 ) = 0 . 6 0 1$ $p = 0 . 5 5 1$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/825d7137d7bd5a1518dc30ff8bb0819afb03cbef52f108307216d1bf28f8591b.jpg",
+        "img_caption": [
+            "图1北京和成都雾霾含量随时间的变化值"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1地区的调节作用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用基于 SPSS 22.0 的 PROCESS 插件对其进行简单调节模型分析,将季节因素作为协变量，在控制季节因素后，将地区因素（北京、成都）作为调节变量，PM2.5 值作为自变量，情绪词频（积极情绪、消极情绪）作为因变量，概念模型见图2，模型表达式见公式1.1.",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma = i _ { 1 } + b _ { 1 } X + b _ { 2 } M + b _ { 3 } X M\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将各变量数据代入模型表达式，分别得到积极词频和消极词频的回归模型表达式，见表",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "达式1.2和1.3。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "符合OLS误差最小的积极词频的回归模型表达式为：$\\stackrel { \\wedge } { \\gamma } = 1 8 0 6 . 8 1 3 + 0 . 0 3 4 X - 3 6 6 . 7 9 8 M + 0 . 8 3 4 X M$ 1.2符合OLS误差最小的消极词频的回归模型表达式为：$\\stackrel { \\wedge } { \\gamma } = 1 8 0 . 9 5 2 + 0 . 0 7 1 X - 1 2 6 . 3 9 8 M - 0 . 1 3 8 X M$ 1.3",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d2e5b84726c6bf51f3d2ccf06e1d8cc977bfdb42c27eb04c532075e56810c31.jpg",
+        "img_caption": [
+            "图2地区因素调节 $\\mathrm { P M } 2 . 5$ 指数与情绪词词频之间关系的理论模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在积极词频的回归表达式1.1中，XM项的回归系数 $b _ { 3 }$ 值为0.834，与0值统计差异显著， $t ( 1 3 8 3 ) = 2 . 1 1 0 , p = 0 . 0 3 5$ ；在消极词频的回归表达式1.2 中，XM项的回归系数值 $b _ { 3 }$ 值-0.138，与0值统计差异显著， $t ( 1 3 8 3 ) = - 2 . 9 6 3$ $p { = } 0 . 0 0 3$ 。以上结果说明，不论因变量是积极情绪词词频还是消极情绪词词频，雾霾程度（ $\\mathrm { P M } 2 . 5$ 指数）对微博用户发博的情绪词词频的影响，与微博用户所在的地区（北京、成都）有关。换言之，地区因素在雾霾程度（PM2.5指数）对微博情绪词词频的影响过程种起到了调节的作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2交互作用分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因为调节变量（地区）为分类变量，所以我们在模型中引入虚拟变量，其中 $\\mathrm { M } { = } 0$ 时为北京地区， $\\mathsf { M } { = } 1$ 时为成都地区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）积极情绪词频与地区交互作用分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "地区因素对 PM2.5 指数与积极词词频之间关系的调节的可视化结果图（见图3)。图3中的斜率表示在当X（PM2.5）变化一个单位时，积极词频在X（PM2.5）和地区(M)的共同作用下的变化量,计算结果如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\theta _ { ( M  \\gamma ) | M = 0 } = b _ { 1 } + b _ { 3 } ( 0 ) = 0 . 0 3 4  } \\\\ & {  \\theta _ { ( M  \\gamma ) | M = 1  } = b _ { 1 } + b _ { 3 } ( 1 ) = 0 . 0 3 4 + 0 . 8 3 4 = 0 . 8 6 8 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由上述计算结果可得：在积极词频估计中，当 PM2.5 的值每增加一个单位，北京地区（ $M = 0$ ）积极词频增加0.034个单位，统计结果表明，当微博用户所在地区为北京时，北京地区雾霾（PM2.5指数）与该地区积极情绪词词频之间存在正向的关系，但是在统计上与0差异不显著， $b _ { 1 } = 0 . 0 3 4 = \\theta _ { ( X  \\gamma ) | M = 0 } , t ( 1 3 8 3 ) = 0 . 1 6 5 , p = 0 . 8 6 9$ 。同时，PM2.5 的值每增加一个单位，成都地区（ $M = 1$ ）积极词频增加0.868个单位，统计结果表明，当微博用户所在地区为成都时，成都地区雾霾（PM2.5指数）与该地区积极情绪词词频之间存在正向的关系，并且在统计上与0差异显著， $b _ { 1 } ^ { ' } = 0 . 8 6 8 = \\theta _ { ( X  \\gamma ) | M = 1 } , t ( 1 3 8 3 ) = 2 . 5 2 3 , p = 0 . 0 1 2 \\ .$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d9ad476e93dafa450c1326f8b887c6c25be7571a9ed40f6d6c9eb2968e58eed.jpg",
+        "img_caption": [
+            "图3地区因素调节PM2.5指数与积极词词频之间关系的可视化结果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）消极情绪词频与地区交互作用分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "地区因素对PM2.5指数与消极词词频之间关系的调节的可视化结果图，见图4。图4中的直线斜率表示当X（PM2.5）变化一个单位时，消极词频在X(PM2.5)和地区(M)的共同作用下的变化量,斜率的计算结果如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\theta _ { ( M  \\gamma ) | M = 0 } = b _ { 1 } + b _ { 3 } ( 0 ) = 0 . 0 7 1  } \\\\ & {  \\theta _ { ( M  \\gamma ) | M = 1  } = b _ { 1 } + b _ { 3 } ( 1 ) = 0 . 0 7 1 - 0 . 1 3 8 = - 0 . 0 6 7 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由上述计算可得：在消极词频估计中，PM2.5 的值每增加一个单位，北京地区（ $M = 0$ ）积极词频增加0.071个单位，统计结果表明，当微博用户所在地区为北京时，北京地区雾霾(PM2.5指数)与该地区消极情绪词词频之间存在正向的关系，并且在统计上与0差异显著，$b _ { 1 } = 0 . 0 7 1 = \\theta _ { ( X  \\gamma ) | M = 0 } , t ( 1 3 8 3 ) = 2 . 9 6 7 , p = 0 . 0 0 3$ 。与此同时，PM2.5 的值每增加一个单位，成都地区（ $M = 1$ ）消极词频减少0.067个单位，统计结果表明，当微博用户所在地区为成都时，成都地区雾霾（PM2.5指数）与该地区消极情绪词词频之间存在负向的关系，并且在统计上与0存在边缘显著， $b _ { 1 } ^ { ' } = - 0 . 0 6 7 = \\theta _ { ( X  \\gamma ) | M = 1 } , t ( 1 3 8 3 ) = - 1 . 6 5 9 , p = 0 . 0 9 8$ 。图4中两条斜率的计算如下斜率表示在当X（PM2.5）变化一个单位时，消极词频在 $\\mathrm { P M } 2 . 5$ 和地区(M)的共同作用下的变化量：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/99cb52638547288f9b40778b2117c62d116cf8575777d4b1de1a4f421b6671b9.jpg",
+        "img_caption": [
+            "图4地区因素调节PM2.5指数与消极词词频之间关系的可视化结果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "以往有关雾霾与情绪的研究，大多仅考虑雾霾对于情绪效价的影响，而本研究将地区这一因素纳入对雾霾与情绪关系的考察之中。我们通过对北京和成都地区原创微博情绪词频（积极、消极）与雾霾（PM2.5指数）之间的关系研究发现，地区因素在雾霾调节情绪这一过程中发挥重要作用。通过简单调节模型分析得到，在积极词频和消极词频随雾霾（PM2.5）变化这一过程中，地区的调节作用显著。北京地区情绪与雾霾（PM2.5）变化与先前已有研究一致，随着PM2.5指数的增加，消极词频数目增加，但成都地区情绪与雾霾（PM2.5）的变化模式与以往的研究相反，雾霾（PM2.5指数）增加时，反而表现为积极词频的增加[11]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "地区差异的存在与两城市本身在文化，生活方式的差异有关。雾霾在冬季更为严重，北京的冬季更为干燥，更容易使人产生不适感从而产生不良情绪；成都有天府之国之称，古语言“少不入川，老不出蜀”足以见得成都人慢节奏的生活方式，雾霾时候不需要工作的老年人和妇女更倾向于用打麻将这样的室内活动来消磨时间，二者生活节奏和生活态度的差异可能导致了这一结果；从雾霾造成的长期影响来看，相对于成都，北京生活承受的医疗、经济压力、住房压力等更大，人们为了减少在医疗上的花费而对雾霾采取一定防治措施，例如购买空气净化器、防雾霾口罩等，对人们的经济是一种损失，从而造成消极情绪增加[12]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究也存在一定的局限。首先，在本研究中，情绪词的选取综合了微博词频的使用量，词频的唤醒度以及愉悦度，采用了唤醒度统计上一致的不同情绪效价的词频。综合本文结果，地区调节作用是确实存在的。但若采用其他方法，例如选取另一批与我们评价标准一致的词组，是否会得到地区的调节作用。为了进一步确认调节作用在雾霾（PM2.5指数）影响情绪中发挥作用，今后还需要采用其它方法进一步的研究和证明。其次，.在本研究中只选取了北京和成都两个地区，为了进一步验证地区效应的存在，应当扩大范围，选取多个不同的城市进行调节效应的研究。最后，需要进一步对地区和雾霾因素进行分析，地区的调节作用是否会受雾霾程度的影响，当雾霾严重时，地区的调节效应消失，各地区表现出雾霾对影响的一致性。不同程度的雾霾对不同地区的情绪产生的影响可作为未来研究方向之一。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Golder SA, Macy M W. Diurnal and Seasonal Mood Vary with Work, Sleep,and Daylength Across Diverse Cultures [J]. Science,2011,333(6051): 1878.   \n[2]Asur S, Huberman BA.Predicting the Future with Social Media; proceedings of the leee/wic/acm International Conference on Web Intelligence and Intellgent Agent Technology, F,2010 [C].   \n[3]汪静莹，甘硕秋，赵楠,etal.基于微博用户的情绪变化分析 [J].中国科学院大学学报,2016, 33(6):815-24.   \n[4]Cho J, ChoiYJ,Suh M,etal. Air pollution as a risk factor for depressive episode in patients with cardiovascular disease,diabetes mellitus,or asthma [J].JAffect Disorders,2014,157(3): 45-51. [5]Power M C, Kioumourtzoglou MA, Hart JE, et al.The relation between past exposure to fine particulate air pollution and prevalent anxiety: observational cohort study[J].Bmj,2015,350(mar23 11): h1111.   \n[6]卓敏，吴建平．当代青年雾霾情感的可视化分析－一以微博用户为例[J]．青年研究,2015, 4): 47-56.   \n[7]Forsberg B,Stjernberg N,WallS. People can detect poor air quality wel below guideline concentrations: a prevalence study of annoyance reactions and air pollution from traffic [J].   \nOccupational & Environmental Medicine,1997,54(1): 44.   \n[8]Llop S,Ballester F, Estarlich M,et al.Ambient air pollution and annoyance responses from pregnant women [J].Atmospheric Environment, 2008,42(13): 2982-92. [9]Zijlema WL, Wolf K,Emeny R, et al.The association of air pollution and depressed mood in 70,928 individuals from four European cohorts [J].IntJ Hyg Environ Health,2016,219(2): 212-9. [10] 董颖红．微博客社会情绪的测量及其与社会风险感知和风险决策的关系[D]；南开大学， 2014.   \n[11] 楼嘉军，徐爱萍，岳培宇．城市居民休闲活动满意度研究一一上海、武汉和成都的比较分析 [J]．华东经济管理,2008,22(4):32-8.   \n[12]彭建，郭思远，裴亚楠,etal．大陆居民对北京雾霾的旅游影响感知和态度研究[J].中国人 □资源与环境,2016,26(10):168-76. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "张颖，陈玉洁，陈俊芳，吴晓菊，龙燕满：提出研究思路，设计研究方案  \n张颖，陈玉洁，陈俊芳，吴晓菊，龙燕满：研究过程的实施，例如进行试验或调查  \n朱廷劭：微博数据获取及总体设计  \n吴胜涛，张颖，陈玉洁，陈俊芳：数据分析  \n张颖，陈玉洁，陈俊芳，吴晓菊，龙燕满，朱廷劭：论文起草或最终版本修订",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,706 @@
+[
+    {
+        "type": "text",
+        "text": "Violation of the first law of black hole thermodynamics in $f ( T )$ gravity ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rong-Xin Miao $a$ ，Miao Li $\\boldsymbol { b }$ ， and Yan-Gang Miao $c$   \n$a$ Interdisciplinary Center for Theoretical Study,   \nUniversity of Science and Technology of China,   \nHefei， Anhui 230026, People's Republic of China.\\*   \n（20 $b$ Kavli Institute for Theoretical Physics,   \nKey Laboratory of Frontiers in Theoretical Physics,   \nInstitute of Theoretical Physics, Chinese Academy of Sciences,   \nBeijing 100190， People's Republic of China. $^ \\dagger$ and   \n（204 $c$ School of Physics， Nankai University,   \nTianjin 300071， People's Republic of China.t ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We prove that,in general, the first law of black hole thermodynamics, $\\delta Q = T \\delta S$ ， is violated in $f ( T )$ gravity. As a result, it is possible that there exists entropy production，which implies that the black hole thermodynamics can be in non-equilibrium even in the static spacetime. This feature is very different from that of $f ( R )$ or that of other higher derivative gravity theories. We find that the violation of first law results from the lack of local Lorentz invariance in $f ( T )$ gravity. By investigating two examples,we note that $f ^ { \\prime \\prime } ( 0 )$ should be negative in order to avoid the naked singularities and superluminal motion of light. When $f ^ { \\prime \\prime } ( T )$ is small, the entropy of black holes in $f ( T )$ gravity is approximatively equal to ${ \\underline { { f ^ { \\prime } ( T ) } } } A$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$f ( T )$ gravity as a new modified gravity theory has recently attracted much attention [1- 27]. It was first investigated by Ferraro and Fiorini [1, 2] in the Born-Infeld style which can lead to regular cosmological spacetimes without Big Bang singularity. Then, it was proposed by Bengochea, Ferraro and Linder [3,4] to explain the current accelerated expansion of universe. Similar to $f ( R )$ gravity, it is a generalization of the teleparallel gravity $( T G )$ [28-30] which was originally developed by Einstein in an attempt of unifying gravity and electromagnetism. Let us make a brief review of $T G$ . The basic variables in $T \\mathrm { { G } }$ are tetrad fields $e _ { a \\mu }$ ，where $a$ is index of the internal space running over $0 , 1 , 2 , 3$ while $\\mu$ is the spacetime index running from O to 3. The tetrad fields are related with the spacetime metric by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { \\mu \\nu } = e _ { a \\mu } \\eta ^ { a b } e _ { b \\nu } , \\qquad \\eta _ { a b } = e _ { a \\mu } e _ { b \\nu } g ^ { \\mu \\nu } = \\mathrm { d i a g } ( - 1 , 1 , 1 , 1 ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In $T G$ ， the Weitzenbock connection",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma ^ { \\lambda } { } _ { \\mu \\nu } = e _ { a } ^ { \\lambda } \\partial _ { \\nu } e _ { \\mu } ^ { a }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "rather than the Levi-Civita connection is used to define the covariant derivative, and as a result there is no curvature but only torsion ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mu \\nu } ^ { \\lambda } = \\Gamma _ { \\nu \\mu } ^ { \\lambda } - \\Gamma _ { \\mu \\nu } ^ { \\lambda } = e ^ { a \\lambda } ( \\partial _ { \\mu } e _ { a \\nu } - \\partial _ { \\nu } e _ { a \\mu } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The torsion scalar is defined by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = { \\frac { 1 } { 2 } } S ^ { \\mu \\nu \\rho } T _ { \\mu \\nu \\rho } = { \\frac { 1 } { 4 } } T ^ { \\mu \\nu \\rho } T _ { \\mu \\nu \\rho } + { \\frac { 1 } { 2 } } T ^ { \\mu \\nu \\rho } T _ { \\rho \\nu \\mu } - T _ { \\sigma } ^ { ~ \\sigma \\mu } T _ { \\rho \\mu } ^ { \\rho } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with the so-called dual torsion ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ^ { \\mu \\nu \\rho } = \\frac { 1 } { 2 } ( T ^ { \\mu \\nu \\rho } + T ^ { \\nu \\mu \\rho } - T ^ { \\rho \\mu \\nu } ) + g ^ { \\mu \\rho } T _ { \\sigma } ^ { ~ \\sigma \\nu } - g ^ { \\nu \\rho } T _ { \\sigma } ^ { ~ \\sigma \\mu } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are several virtues in $T G$ . For example, in contrast to Einstein gravity, a covariant stress tensor of gravitation can naturally be defined in the gauge context of $T G$ [31]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As a main advantage compared with $f ( R )$ gravity, the equations of motion of $f ( T )$ gravity are second-order instead of fourth-order. However, the local Lorentz invariance is violated in $f ( T )$ gravity [18] and consequently more degrees of freedom appear. Recently, we have investigated the Hamiltonian formulation of $f ( T )$ gravity and have found that three extra degrees of freedom emerge [27]. In general, there are $D - 1$ extra degrees of freedom for $f ( T )$ gravity in $D$ dimensions, and this implies that the extra degrees of freedom might correspond to one massive vector field. For the detailed explanation, see our recent work [27]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we investigate the black hole thermodynamics in $f ( T )$ gravity and find that the first law, $\\delta Q = T \\delta S$ , is violated. There is entropy production even in the static spacetime and the black hole thermodynamics turns out to be non-equilibrium. By analyzing two examples in detail, we find that it is the violation of the local Lorentz invariance in $f ( T )$ （20 gravity that leads to the breakdown of the first law of black holes. Because of this violation, some degrees of freedom in $f ( T )$ gravity feel an effective metric different from the background metric. Consequently, they see a different horizon and Hawking temperature from that felt by matter felds with the local Lorentz invariance. Black holes in such a situation would not be in equilibrium,thus it is not surprising that the first law is violated. In addition, from the two examples that will be analyzed，we also observe that $f ^ { \\prime \\prime } ( 0 )$ should be negative in order to avoid the naked singularities and super velocity of light. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It should be stressed that,by “black hole” in $f ( T )$ gravity, we mean in the sense of the usual metric.Recently, some “black holes” in this sense were found in [32]. In general, there may exist modes which can escape from the inside and make the horizon defned by the metric “non-black\". However, as shown in Appendix B, there indeed exist exact solutions of $f ( T )$ gravity which have the properties of the usual black hole. All the modes feel the same metric and no modes can escape from the inside of the horizon. We focus on the “black hole” in the metric in this paper. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The paper is arranged as follows. In Sect. II, we give a brief review of the first law of （204号 $f ( R )$ gravity using the field equation method. In Sect. III, we establish the first law of $f ( T )$ gravity. In Sect. IV, we search for the reasons for the violation of first law of $f ( T )$ gravity by investigating two examples. We conclude in Sect. V. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. FIRST LAW OF $f ( R )$ GRAVITY ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The first law of black holes, $\\delta Q = T \\delta S$ , is universal for gravity with the diffeomorphism Lagrangian, $L ( g _ { \\mu \\nu } , R _ { \\mu \\nu \\rho \\sigma } )$ , constructed from the metric $g _ { \\mu \\nu }$ and Riemann tensor $R _ { \\mu \\nu \\rho \\sigma }$ . One can derive the first law and entropy of black holes from various procedures, for instance, the Wald's Noether charge method [33]. However, we shall use a different approach [34-37] which was originally developed to derive the gravity field equations from the thermodynamic point of view. In this paper we turn the logic around: we suppose the gravity field equations and check if the thermodynamic relation $\\delta Q = T \\delta S$ is satisfied. Though similar in some aspects, there are many differences between the Wald's Noether charge approach and the field equation approach. Here we just list three main diferences. First, the Wald's Noether charge approach is based on the Lagrangian or the action of a theory, while the field equation approach is based on the equations of motion. Second, the definitions of energy are diferent in the two approaches. In the former, Wald uses the “canonical energy” $E$ from which one can derive $\\delta E = T \\delta S + \\Omega _ { H } \\delta J$ ，where $\\Omega _ { H }$ is the angular velocity of the horizon and $J$ is the angular momentum. In the latter, one defines the heat flux passing through the null surface as eq. (6), which does not contain the information of angular momentum. As we shall show below， using eq. (6)，one can only derive $\\delta Q = T \\delta S$ . Third, it is natural to use the field equation approach rather than the Wald's approach to study the first law of black holes in $f ( T )$ gravity. The Wald's approach is not designed for the teleparallel gravity. The key point of the field equation approach is the definition of the heat flux passing through the null surface. According to ref.[18], we still have $\\nabla ^ { \\mu } T _ { \\mu \\nu } = 0$ in $f ( T )$ gravity, and therefore the current $T _ { \\mu \\nu } \\xi ^ { \\mu }$ remains conserved, i.e. $\\nabla ^ { \\mu } ( T _ { \\mu \\nu } \\xi ^ { \\nu } ) = 0$ . Thus,it is very natural to use eq. (6) as the heat flux passing through the null surface in $f ( T )$ gravity. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Now we give a brief review of the field equation approach. Let us take $f ( R )$ gravity as an example, and consider a heat flux $\\delta Q$ passing through an open patch on a null surface or black hole horizon, $d H = d A d \\lambda$ ， ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta Q = \\int _ { H } T _ { \\mu \\nu } \\xi ^ { \\mu } k ^ { \\nu } d A d \\lambda ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { \\mu \\nu }$ is the matter stress-tensor, $\\xi ^ { \\mu }$ is the Killing vector, $H$ denotes the null surface, $\\lambda$ is the affine parameter, and $\\begin{array} { r } { k ^ { \\mu } = \\frac { d x ^ { \\mu } } { d \\lambda } } \\end{array}$ is the tangent vector to $H$ .Substituting the $f ( R )$ （204号 field equation ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ^ { \\prime } ( R ) R _ { \\mu \\nu } - \\nabla _ { \\mu } \\nabla _ { \\nu } f ^ { \\prime } ( R ) + g _ { \\mu \\nu } \\bigg ( \\square f ^ { \\prime } ( R ) - { \\frac { 1 } { 2 } } f ( R ) \\bigg ) = 8 \\pi T _ { \\mu \\nu }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "into eq. (6), we can derive ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\dot { \\partial } Q = \\frac { 1 } { 8 \\pi } \\int _ { H } \\bigg ( f ^ { \\prime } ( R ) R _ { \\mu \\nu } - \\nabla _ { \\mu } \\nabla _ { \\nu } f ^ { \\prime } ( R ) \\bigg ) \\xi ^ { \\mu } \\xi ^ { \\nu } d A d \\lambda } \\\\ { \\displaystyle = - \\frac { 1 } { 8 \\pi } \\int _ { H } \\bigg ( f ^ { \\prime } ( R ) \\nabla _ { \\mu } \\nabla _ { \\nu } \\xi ^ { \\mu } - \\xi ^ { \\mu } \\nabla _ { \\mu } \\nabla _ { \\nu } f ^ { \\prime } ( R ) \\bigg ) k ^ { \\nu } d A d \\lambda } \\\\ { \\displaystyle = \\frac { 1 } { 8 \\pi } \\int _ { H } \\bigg ( k ^ { \\nu } \\nabla ^ { \\mu } \\big ( f ^ { \\prime } ( R ) \\nabla _ { \\nu } \\xi _ { \\mu } \\big ) \\bigg ) d A d \\lambda } \\\\ { \\displaystyle = \\frac { 1 } { 8 \\pi } \\int _ { H } \\bigg ( k ^ { \\nu } \\mu f ^ { \\prime } ( R ) \\nabla _ { \\nu } \\xi _ { \\mu } \\bigg ) d A d \\lambda } \\\\ { \\displaystyle = \\frac { \\kappa } { 2 \\pi } \\Big ( \\frac { f ^ { \\prime } ( R ) d A } { 4 } \\Big ) \\Big \\vert _ { 0 } ^ { \\lambda } = T \\delta S . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the above derivations, we have used Stokes's Theorem and the following formulas: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk ^ { \\mu } \\xi _ { \\nu } = 0 , \\quad \\quad k ^ { \\mu } k _ { \\mu } = 0 , \\quad \\quad l ^ { \\mu } l _ { \\mu } = 0 , \\quad \\quad k ^ { \\mu } l _ { \\mu } = - 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mu \\nu } \\xi ^ { \\mu } = \\nabla _ { \\mu } \\nabla _ { \\nu } \\xi ^ { \\mu } , \\qquad \\xi ^ { \\mu } \\nabla _ { \\mu } R = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk ^ { \\mu } l ^ { \\nu } \\nabla _ { \\mu } \\xi _ { \\nu } = \\kappa , \\qquad T = \\frac { \\kappa } { 2 \\pi } , \\qquad \\frac { d \\kappa } { d \\lambda } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\kappa$ is the surface gravity of the null surface $H$ . From eq. (8)，we can read out the entropy of black holes as $\\begin{array} { r } { S = \\frac { f ^ { \\prime } ( R ) A } { 4 } } \\end{array}$ , which is consistent with the Wald's result. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It should be stressed that in order to derive the first law, $\\delta Q = T \\delta S$ ， in eq. (8)，we have used the formula eq. (1O) which is valid only for an exact Killing vector $\\xi$ . However, in general, there is no such an exact Killing vector in a dynamic spacetime. One can at most obtain a Kiling vector to the second order (in Riemann normal coordinates)， $\\xi ^ { \\mu } =$ $- \\lambda k ^ { \\mu } + \\mathcal { O } ( \\lambda ^ { 3 } )$ , in our case [34]. Lack of an exact Killing vector implies that the spacetime might be out of equilibrium and leads to the appearance of extra terms in eq. (8),which can be explained as contributions from entropy production in view of Jacobson's idea [35]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For simplicity, we focus on the cases with exact Killing vectors below. Note that the static and stationary black holes always have an exact Killing vector, therefore our discussions are universal enough. The method mentioned above can easily be generalized to gravity with the diffeomorphism Lagrangian, $L ( g _ { \\mu \\nu } , R _ { \\mu \\nu \\rho \\sigma } )$ ， constructed from the metric and Riemann tensor. Substituting the field equation ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { a } ^ { \\ c d e } R _ { b c d e } - 2 \\nabla ^ { c } \\nabla ^ { d } P _ { a c d b } - \\frac { 1 } { 2 } L g _ { a b } = 8 \\pi T _ { a b } , \\qquad P ^ { a b c d } = \\frac { \\partial L } { \\partial R _ { a b c d } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "into eq. (6), one can derive ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta Q = \\frac { 1 } { 8 \\pi } \\Bigl ( k _ { a } l _ { b } \\left( P ^ { a b c d } \\nabla _ { c } \\xi _ { d } - 2 \\xi _ { d } \\nabla _ { c } P ^ { a b c d } \\right) d A \\Bigr ) \\Bigr | _ { 0 } ^ { d \\lambda } = T \\delta S ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { S = \\frac { 1 } { 4 \\kappa } ( { P } ^ { a b c d } \\nabla _ { c } \\xi _ { d } - 2 \\xi _ { d } \\nabla _ { c } { P } ^ { a b c d } ) k _ { a } l _ { b } d A } \\end{array}$ is equivalent to Wald entropy [38]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "III. VIOLATION OF FIRST LAW OF $f ( T )$ GRAVITY ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Now we use the field equation method introduced in Sec. II to investigate the first law of black hole thermodynamics in $f ( T )$ gravity. We find that the Clausius relation, $\\begin{array} { r } { d S = { \\frac { d Q } { T } } } \\end{array}$ ,is violated, which implies that even in a static spacetime the black hole of $f ( T )$ gravity is out of equilibrium and gives an intrinsic entropy production. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Let us recall the equation of motion of $f ( T )$ gravity [18] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { \\mu \\nu } = f ^ { \\prime } ( T ) ( R _ { \\mu \\nu } - \\frac { R } { 2 } g _ { \\mu \\nu } ) + \\frac { 1 } { 2 } g _ { \\mu \\nu } [ f ( T ) - f ^ { \\prime } ( T ) T ] + f ^ { \\prime \\prime } ( T ) S _ { \\nu \\mu \\rho } \\nabla ^ { \\rho } T = 8 \\pi \\Theta _ { \\mu \\nu } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { [ \\mu \\nu ] } = f ^ { \\prime \\prime } ( T ) S _ { [ \\nu \\mu ] \\rho } \\nabla ^ { \\rho } T = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\Theta _ { \\mu \\nu }$ is the matter stress-tensor. As the matter action is supposed to be invariant under the local Lorentz transformation, $\\Theta _ { \\mu \\nu }$ is symmetric and satisfies $\\nabla ^ { \\mu } \\Theta _ { \\mu \\nu } = 0$ . Notice that eq. (15) is just the antisymmetric part of eq. (14). According to ref. [18], eqs. (14) and (15) are not Lorentz invariant. This leads to an important fact that the solution of eqs. (14) and (15) is unique for every given $\\Theta _ { \\mu \\nu }$ . Unlike Einstein gravity or $T$ gravity, in general, one cannot get a new solution of eqs. (14) and (15) from the old one by performing local Lorentz transformations. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Hawking radiation is known to be independent of dynamics of gravity, which is a purely kinematic effect that is universal for Lorentz geometries containing an event horizon [39]. Thus, the Hawking temperature felt by matter (whose action has a local Lorentz invariance） in $f ( T )$ gravity is the same as that in Einstein gravity, $\\begin{array} { r } { T = \\frac { \\kappa } { 2 \\pi } } \\end{array}$ . On the other hand, the entropy of black holes is related to dynamics of gravity. Now let us begin to study the first law and entropy of black holes in $f ( T )$ gravity， we still focus on the spacetime with an exact Killing vector.By “Killing vector $\\xi ^ { \\mu , \\dag }$ ， we mean in the sense of the usual metric that it satisfies the equation, ${ \\mathcal { L } } _ { \\xi } g _ { \\mu \\nu } = \\xi ^ { \\alpha } \\partial _ { \\alpha } g _ { \\mu \\nu } + \\partial _ { \\mu } \\xi ^ { \\alpha } g _ { \\alpha \\nu } + \\partial _ { \\nu } \\xi ^ { \\alpha } g _ { \\alpha \\mu } = 0$ . Since one metric corresponds to many diferent tetrad fields which are related with each other by local ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Lorentz transformations,it is possible that the metric is static while the tetrad fields are time dependent ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Consider a heat fux $\\delta Q$ passing through an open patch on a null surface or black hole horizon, we have ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta Q = \\int _ { H } \\Theta _ { \\mu \\nu } \\xi ^ { \\mu } k ^ { \\nu } d A d \\lambda .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Substituting eq. (14) into the above equation, we get ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\delta Q = \\displaystyle \\frac 1 { 8 \\pi } \\int _ { H } k ^ { \\nu } [ f ^ { \\prime } ( T ) R _ { \\mu \\nu } \\xi ^ { \\mu } + \\xi ^ { \\mu } S _ { \\nu \\mu \\rho } \\nabla ^ { \\rho } f ^ { \\prime } ( T ) ] d A d \\lambda } } \\\\ { { \\ = \\displaystyle \\frac 1 { 8 \\pi } \\int _ { H } k ^ { \\nu } [ f ^ { \\prime } ( T ) \\nabla _ { \\mu } \\nabla _ { \\nu } \\xi ^ { \\mu } + \\xi ^ { \\mu } S _ { \\nu \\mu \\rho } \\nabla ^ { \\rho } f ^ { \\prime } ( T ) ] d A d \\lambda } } \\\\ { { \\ = \\displaystyle \\frac 1 { 8 \\pi } \\int _ { H } k ^ { \\nu } [ \\nabla ^ { \\mu } ( f ^ { \\prime } ( T ) \\nabla _ { \\nu } \\xi _ { \\mu } ) - ( \\nabla ^ { \\mu } f ^ { \\prime } ( T ) ) \\nabla _ { \\nu } \\xi _ { \\mu } + \\xi ^ { \\mu } S _ { \\nu \\mu \\rho } \\nabla ^ { \\rho } f ^ { \\prime } ( T ) ] d A d \\lambda } } \\\\ { { \\ = \\displaystyle \\frac \\kappa { 2 \\pi } \\big ( \\frac { f ^ { \\prime } ( T ) d A } { 4 } \\big ) \\big \\vert _ { 0 } ^ { d \\lambda } + \\frac 1 { 8 \\pi } \\int _ { H } k ^ { \\nu } \\nabla ^ { \\mu } f ^ { \\prime } ( T ) ( \\xi ^ { \\rho } S _ { \\rho \\nu \\mu } - \\nabla _ { \\nu } \\xi _ { \\mu } ) d A d \\lambda . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note that in the above derivations, we have used $R _ { \\mu \\nu } \\xi ^ { \\mu } = \\nabla _ { \\mu } \\nabla _ { \\nu } \\xi ^ { \\mu }$ and $\\xi ^ { \\mu } \\sim k ^ { \\mu }$ on the null surface, and thus we have $\\xi ^ { \\mu } k ^ { \\nu } S _ { \\mu \\nu \\rho } = \\xi ^ { \\nu } k ^ { \\mu } S _ { \\mu \\nu \\rho }$ . It should be mentioned that since $\\xi ^ { \\mu } \\sim k ^ { \\mu }$ （20 on the null surface, only the symmetrical part of eq. (14) contributes to eq. (17), while the antisymmetric part eq. (15) does not contribute to eq. (17). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The first term $\\frac { \\kappa } { 2 \\pi } \\big ( \\frac { f ^ { \\prime } ( T ) d A } { 4 } \\big ) \\big | _ { 0 } ^ { d \\lambda }$ in the above equation issimilar to the last line of eq. (8), therefore it can be explained as $T \\delta S$ . It is interesting that an extra term appears which in general neither vanishes nor can be rewritten in the form $\\begin{array} { r } { \\int _ { H } k ^ { \\nu } \\nabla ^ { \\mu } B _ { [ \\nu \\mu ] } d A d \\lambda } \\end{array}$ for an arbitrary $f ^ { \\prime } ( T )$ . We shall give the proof below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "If the second term vanishes for an arbitrary $f ^ { \\prime } ( T )$ ， we then get $k ^ { \\nu } \\xi ^ { \\rho } S _ { \\rho \\nu \\mu } - k ^ { \\nu } \\nabla _ { \\nu } \\xi _ { \\mu } = 0$ However， due to the fact that $k ^ { \\nu } \\nabla _ { \\nu } \\xi _ { \\mu }$ is a Lorentz scalar but $k ^ { \\nu } \\xi ^ { \\rho } S _ { \\rho \\nu \\mu }$ is not，the two terms can not be equal to each other. This contradiction shows that the second term of eq.(17) is non-vanishing. Similarly， suppose that the second term can be rewritten as （20 $k ^ { \\nu } \\nabla ^ { \\mu } B _ { [ \\nu \\mu ] }$ for an arbitrary $k ^ { \\mu }$ (we can change the direction of $k ^ { \\mu }$ arbitrarily by choosing a different open patch of the null surface or choosing a different null surface)，we have （20 $\\nabla ^ { \\mu } B _ { [ \\nu \\mu ] } = \\nabla ^ { \\mu } f ^ { \\prime } ( T ) ( \\xi ^ { \\rho } S _ { \\rho \\nu \\mu } - \\nabla _ { \\nu } \\xi _ { \\mu } )$ . Note that $\\nabla ^ { \\nu } \\nabla ^ { \\mu } B _ { [ \\nu \\mu ] } = R ^ { \\mu \\nu } B _ { [ \\nu \\mu ] } = 0$ ， we can obtain （204号 $\\nabla ^ { \\mu } f ^ { \\prime } ( T ) \\nabla ^ { \\nu } ( \\xi ^ { \\rho } S _ { \\rho \\nu \\mu } - \\nabla _ { \\nu } \\xi _ { \\mu } ) = 0$ .For an arbitrary $f ^ { \\prime } ( T )$ we deduce $\\nabla ^ { \\nu } ( \\xi ^ { \\rho } S _ { \\rho \\nu \\mu } - \\nabla _ { \\nu } \\xi _ { \\mu } ) = 0$ ： Considering the fact that $\\nabla ^ { \\nu } \\nabla _ { \\nu } \\xi _ { \\mu }$ is a local Lorentz scalar while $\\nabla ^ { \\nu } ( \\xi ^ { \\rho } S _ { \\rho \\nu \\mu } )$ is not，we conclude that the second term of eq. (17) would not take the form $k ^ { \\nu } \\nabla ^ { \\mu } B _ { [ \\nu \\mu ] }$ . Notice that we do not use eq. (15) in the above derivations. One may guess that the last term of eq. (17) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "vanishes provided eq. (15) is used. However,it is not the case. There exist tetrad fields that satisfy eqs.(14) and (15) but still make the last line of eq. (17) non-vanishing. To end up the proof, we give an example in Appendix A to show that the second term in the last line of eq. (17) is indeed non-vanishing even provided eq. (15) is used. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It should be mentioned that we have proved that, in general, the first law of black bole thermodynamics is violated for $f ( T )$ gravity. But there might exist some special cases in which the first law of $f ( T )$ black boles recovers. Note that for black holes with the same metric $g _ { \\mu \\nu }$ ， we have many different choices of tetrad fields $e _ { a \\mu }$ which are related with each other by local Lorentz transformations. Those black holes have the same $k ^ { \\nu } \\nabla _ { \\nu } \\xi _ { \\mu }$ but different $k ^ { \\nu } \\xi ^ { \\rho } S _ { \\rho \\nu \\mu }$ . Thus, for some special cases, the two terms might cancel each other and the second term of the last line of eq. (17) vanishes. We give such an example in Appendix B in which the first law $\\delta Q = T \\delta S$ recovers on the null surface. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Similar to $f ( R )$ gravity [35], the second term of eq. (17) may be explained as contributions from entropy production ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { 8 \\pi } \\int _ { H } k ^ { \\nu } \\nabla ^ { \\mu } f ^ { \\prime } ( T ) ( \\xi ^ { \\rho } S _ { \\rho \\nu \\mu } - \\nabla _ { \\nu } \\xi _ { \\mu } ) d A d \\lambda = - T \\delta S _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "which implies the black hole thermodynamics becomes non-equilibrium, $\\delta Q = T \\delta S - T \\delta S _ { i }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It should be stressed that there is one main difference between the entropy production of （204号 $f ( R )$ gravity and that of $f ( T )$ gravity. For $f ( R )$ gravity, when the Killing vector is exact (for example, the static and stationary black holes), the entropy production vanishes. While for （204号 $f ( T )$ gravity, we find that there is entropy production even in a static spacetime. Since the entropy and entropy production should always be positive, there are very strict constraints for $f ( T )$ gravity, ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ^ { \\prime } ( T ) > 0 , \\qquad f ^ { \\prime \\prime } ( T ) k ^ { \\nu } \\nabla ^ { \\mu } T ( \\xi ^ { \\rho } S _ { \\rho \\nu \\mu } - \\nabla _ { \\nu } \\xi _ { \\mu } ) \\leq 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The local Lorentz invariance has been examined by experiment in many sectors of the standard model, including photons, electrons, protons and neutrons [40-42]. No violation of Lorentz symmetry has been identified so far in these sectors. Muller et al. performed an experiment to test the local Lorentz symmetry in the gravitational sector and they found a small violation of local Lorentz invariance [43]. To be consistent with those experiments, the violation of the local Lorentz invariance in $f ( T )$ gravity should be very small. Note that $f ^ { \\prime \\prime } ( T )$ can be used as a parameter to denote the violation of the local Lorentz invariance since it vanishes when $f ( T )$ gravity reduces to $T G$ with local Lorentz invariance. So $f ^ { \\prime \\prime } ( T )$ is also expected to be very smal and in that case the entropy production term eq. (18) can be ignored. Thus, for a small $f ^ { \\prime \\prime } ( T )$ , the first law of black holes is satisfied approximatively and the entropy is ${ \\frac { f ^ { \\prime } ( T ) } { 4 } } A$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Finally, we observe that for the special case $f ^ { \\prime } ( T ) = 1$ the entropy production vanishes and the entropy reduces to that of Einstein gravity $\\begin{array} { r } { S = \\frac { A } { 4 } } \\end{array}$ ，which is consistent with the equivalence between $T G$ and Einstein gravity. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "IV. REASON FOR VIOLATION OF FIRST LAW OF $f ( T )$ GRAVITY ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this section，we search for the reason for violation of first law of black holes in $f ( T )$ gravity by investigating two concrete examples, Rindler space and Minkowski space. We find that it is the violation of the local Lorentz invariance that leads to the breakdown of first law of black holes in $f ( T )$ gravity. Although all the matter fields with the local Lorentz invariance see the same horizon and Hawking temperature, some gravitational degrees of freedom in （204号 $f ( T )$ gravity feel a different background metric,horizon and Hawking temperature. Black holes in such a situation cannot be in equilibrium [44-46] and consequently the frst law in equilibrium is violated. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For simplicity, we focus on $f ( T )$ gravity in $3 D$ below(The discussions below can be easily extended to the $4 D$ case.). As the first example, let us consider the linear perturbation equations of $f ( T )$ gravity with the background tetrad fields $^ { 0 } e _ { a \\mu } = \\mathrm { d i a g } ( x , 1 , 1 )$ and perturbations $^ { 1 } e _ { a \\mu }$ . The background spacetime is Rindler space with metric $d s ^ { 2 } = - x ^ { 2 } d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 }$ ， while the perturbations of metric are $h _ { \\mu \\nu } = { } ^ { 0 } e _ { a \\mu } \\eta ^ { a b ~ 1 } e _ { b \\nu } + { } ^ { 0 } e _ { a \\nu } \\eta ^ { a b ~ 1 } e _ { b \\mu }$ . For the sake of convenience,we set $f ( 0 ) = 0$ ，which means that there is no cosmological constant term in the action of $f ( T )$ gravity. Note that the background tetrad fields $^ { 0 } e _ { a \\mu }$ satisfy field equations of $f ( T )$ gravity in vacuum, and the background torsion scalar $^ { 0 } T = 0$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We recall that the equation of motion of $f ( T )$ gravity is eq. (14), from which the linear perturbation equation can be derived in terms of $^ { 0 } T = 0$ ， ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { f ^ { \\prime } ( 0 ) } { 2 } } [ \\nabla _ { \\nu } \\nabla ^ { \\rho } \\bar { h } _ { \\rho \\mu } + \\nabla _ { \\mu } \\nabla ^ { \\rho } \\bar { h } _ { \\rho \\nu } - \\boxdot { h } _ { \\mu \\nu } - \\ ^ { 0 } g _ { \\mu \\nu } \\nabla ^ { \\rho } \\nabla ^ { \\sigma } \\bar { h } _ { \\rho \\sigma } ] + f ^ { \\prime \\prime } ( 0 ) \\ ^ { 0 } S _ { \\nu \\mu } ^ { ~ \\rho } \\nabla _ { \\rho } \\ ^ { 1 } T = 8 \\pi ^ { - 1 } { \\frac { \\bar { h } _ { \\mu \\nu } } { 2 } } ^ { \\rho } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $\\nabla _ { \\mu }$ is the covariant derivative defined by $^ { 0 } g _ { \\mu \\nu }$ ，and $\\square = \\nabla _ { \\mu } \\nabla ^ { \\mu }$ ： $^ { 1 } T$ and ${ ^ 1 \\Theta } _ { \\mu \\nu }$ are the perturbations of torsion scalar and stress tensor，respectively. $\\begin{array} { r } { \\bar { h } _ { \\mu \\nu } = h _ { \\mu \\nu } - \\frac { h } { 2 } { \\bf \\nabla } ^ { 0 } g _ { \\mu \\nu } } \\end{array}$ and （20 $h = h _ { \\mu \\nu } \\ ^ { 0 } g ^ { \\mu \\nu }$ . Similar to Einstein gravity， we can impose the Lorentz gauge $\\nabla ^ { \\mu } h _ { \\mu \\nu = 0 }$ to simplify the above equation. The reason is that $f ( T )$ gravity is also invariant under the general coordinate transformations, $x ^ { \\mu }  x ^ { \\mu } + \\zeta ^ { \\mu }$ ， $h _ { \\mu \\nu } \\to h _ { \\mu \\nu } + 2 \\nabla _ { ( \\mu } \\zeta _ { \\nu ) }$ . For every given （204号 $h _ { \\mu \\nu }$ , we can always find some suitable gauge parameters $\\zeta ^ { \\mu }$ to make $h _ { \\mu \\nu } ^ { \\prime } = h _ { \\mu \\nu } + 2 \\nabla _ { ( \\mu } \\zeta _ { \\nu ) }$ （204号 satisfy the Lorentz gauge $\\nabla ^ { \\mu } \\bar { h ^ { \\prime } } _ { \\mu \\nu = 0 }$ . In fact，we only need to solve the equation for $\\zeta _ { \\mu }$ ， $- \\nabla ^ { \\mu } h _ { \\mu \\nu } = \\sqcup \\zeta _ { \\nu } + R _ { \\nu \\mu } \\zeta ^ { \\mu } = \\sqcup \\zeta _ { \\nu }$ ， where we have used $R _ { \\mu \\nu } = 0$ in Rindler space. It is clear that solutions always exist for the above equation. Applying the Lorentz gauge $\\nabla ^ { \\mu } h _ { \\mu \\nu } = 0$ ， we can simplify eq. (20) as follows: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\frac { f ^ { \\prime } ( 0 ) } { 2 } \\boxdot { h } _ { \\mu \\nu } + f ^ { \\prime \\prime } ( 0 ) { } ^ { 0 } S _ { \\nu \\mu } { } ^ { \\rho } \\nabla _ { \\rho } { } ^ { 1 } T = 8 \\pi ^ { 1 } \\Theta _ { \\mu \\nu } .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note that $f ^ { \\prime \\prime } ( 0 )$ can be used to denote the violation of local Lorentz invariance, and that when it vanishes the above perturbation equation recovers the local Lorentz invariance. Using background tetrad fields ${ ^ { 0 } e _ { a \\mu } } = \\mathrm { d i a g } ( x , 1 , 1 )$ ， we can derive $^ { 0 } S _ { \\nu \\mu } ^ { \\rho }$ (see eq. (5)). The non-zero results are given by ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { ^ { 0 } S _ { y x } ^ { y } \\ = \\ - \\displaystyle \\frac { 1 } { x } , } } \\\\ { { ^ { 0 } S _ { y y } ^ { x } \\ = \\ \\displaystyle \\frac { 1 } { x } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "From the antisymmetric part of eq. (21), ${ S _ { [ \\nu \\mu ] } } ^ { \\rho } { \\nabla _ { \\rho } } ^ { 1 } T = 0$ , and eq. (22)， we can derive ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial _ { y } { } ^ { 1 } T = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As the simplest solution of the above equation， we require the perturbation $^ { 1 } e _ { a \\mu }$ be independent of coordinate $y$ . Substituting eq. (23) into eq. (21)，we find that most components of $h _ { \\mu \\nu }$ obey the same equation as that in Einstein gravity, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\frac { f ^ { \\prime } ( 0 ) } { 2 } \\sqcap \\bar { h } _ { \\mu \\nu } = 8 \\pi ^ { 1 } \\Theta _ { \\mu \\nu } , \\qquad f ^ { \\prime } ( 0 ) = 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "except for $h _ { y y }$ . For those fields that satisfy the same equation as that in Einstein gravity, they feel the same background metric (Rindler space in our case), therefore see the same horizon and Hawking temperature as the matter fields. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "However, $h _ { y y }$ satisfies a different equation in the form of ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- { \\frac { f ^ { \\prime } ( 0 ) } { 2 } } \\sqsupset \\phi + f ^ { \\prime \\prime } ( 0 ) { \\frac { 1 } { x } } \\partial _ { x } { } ^ { 1 } T = 8 \\pi ^ { 1 } \\Theta ^ { \\prime } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $\\phi$ stands for $h _ { y y }$ ,and $\\mathsf { \\Pi } ^ { 1 } \\Theta ^ { \\prime } = \\mathsf { \\Pi } ^ { 1 } \\Theta _ { y y }$ . Note that $h _ { y y }$ behaves like a scalar under the action d $\\sqsubset$ in Rindler space, $\\begin{array} { r } { \\boxed { - } h _ { y y } = \\frac { 1 } { \\sqrt { - g } } \\partial _ { \\nu } ( \\sqrt { - g } g ^ { \\nu \\mu } \\partial _ { \\mu } h _ { y y } ) } \\end{array}$ , thus we denote it by $\\phi$ . For simplicity, we require that all $^ { 1 } e _ { a \\mu }$ vanish except for $^ { 1 } e _ { ( 2 ) y } \\ = \\ \\phi$ . Consequently， we have $h _ { y y } = 2 \\phi$ ， $h _ { y y } = \\phi$ and $^ 1 T = 2 ~ ^ { 0 } S ^ { a \\mu \\nu } \\partial _ { \\mu } { } ^ { 1 } e _ { a \\nu } - 2 ~ ^ { 0 } S ^ { a v c ~ 0 } T _ { a d c } { } ^ { 1 } e _ { ~ \\nu } ^ { d } = - \\textstyle { \\frac { 2 } { x } } \\partial _ { x } \\phi$ In view of $\\partial _ { y } { ^ 1 e _ { a \\mu } } = 0$ ，we observe that this choice satisfies the Lorentz gauge $\\nabla ^ { \\mu } h _ { \\mu \\nu }$ . Now, eq. (26) becomes ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\frac { f ^ { \\prime } ( 0 ) } { 2 } \\square \\phi - 2 f ^ { \\prime \\prime } ( 0 ) \\left( \\frac { 1 } { x } \\partial _ { x } \\right) ^ { 2 } \\phi = 8 \\pi ^ { 1 } \\Theta ^ { \\prime } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "It should be stressed that for our simple choice that all $^ { 1 } e _ { a \\mu }$ vanish except for $^ { 1 } e _ { ( 2 ) y } = \\phi$ ，we have $h _ { t t } = x ^ { 2 } \\phi$ and $h _ { x x } = - \\phi$ ， which leads to two constraints for $\\Theta _ { t t }$ and $\\Theta _ { x x }$ from eq. (25). For simplicity, we require that $\\Theta _ { t t }$ and $\\Theta _ { x x }$ satisfy the constraints. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Redefine $\\begin{array} { r } { \\phi = \\sqrt [ 4 ] { \\frac { x ^ { 2 } } { | \\epsilon + x ^ { 2 } | } } \\bar { \\phi } } \\end{array}$ and $\\begin{array} { r } { \\Theta ^ { \\prime } = \\sqrt [ 4 ] { \\frac { x ^ { 2 } } { | \\epsilon + x ^ { 2 } | } } \\bar { \\Theta } ^ { \\prime } } \\end{array}$ V² ',where ∈=， we can rewrite the above equation as ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- { \\frac { f ^ { \\prime } ( 0 ) } { 2 } } [ \\bar { \\mathsf { \\bar { \\Pi } } } - V ( x ) ] \\bar { \\phi } = 8 \\pi ^ { 1 } \\bar { \\Theta } ^ { \\prime } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where V(x) = s(3+42) +42)，andisdfnedytheefetive metricgμv hichtaksthfo ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { g } _ { \\mu \\nu } = \\left( \\begin{array} { c c c } { { - x ^ { 2 } } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { \\frac { x ^ { 2 } } { x ^ { 2 } + \\epsilon } } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { 1 } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As a result, the feld $\\phi$ feels an effective metric $g _ { \\mu \\nu }$ different from that of Rindler space. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "If $\\epsilon > 0$ , the horizon of this effective metric still lies at $x = 0$ ， and the Hawking temperature is ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { 1 } = \\frac { 1 } { 2 \\pi } N _ { \\mu } \\nabla ^ { \\mu } e ^ { \\varphi } = \\frac { 1 } { 2 \\pi x } \\sqrt { \\epsilon + x ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { N _ { \\mu } = ( 0 , \\frac { x } { \\sqrt { \\epsilon + x ^ { 2 } } } , 0 ) } \\end{array}$ is a unit outward pointing vector normal to the horizon, $\\varphi =$ （204号 $\\textstyle { \\frac { 1 } { 2 } } \\log ( - \\zeta ^ { \\mu } \\zeta _ { \\mu } )$ is the Newton's potential and $\\zeta ^ { \\mu } = ( 1 , 0 , 0 )$ is a time-like Killing vector. Note that the temperature $T _ { 1 }$ diverges at the horizon，and the worse is that there is a naked singularity at $x = 0$ in view of Ricci scalar $\\textstyle R = { \\frac { 2 \\epsilon } { x ^ { 4 } } }$ . According to the cosmic censorship conjecture, no naked singularities other than the Big Bang singularity exist in the universe. Therefore,in order to avoid the naked singularities and divergence of temperature, $\\epsilon$ would not be positive. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For $\\epsilon < 0$ ,the position of the horizon turns to be $x = \\sqrt { - \\epsilon }$ ，where $\\textstyle R = { \\frac { 2 \\epsilon } { x ^ { 4 } } }$ ， $R ^ { \\mu \\nu \\rho \\sigma } R _ { \\mu \\nu \\rho \\sigma } =$ $\\textstyle { \\frac { 4 \\epsilon ^ { 2 } } { x ^ { 8 } } }$ and $\\bar { R } ^ { \\mu \\nu } \\bar { R } _ { \\mu \\nu } = { \\textstyle \\frac { 2 \\epsilon ^ { 2 } } { x ^ { 8 } } }$ have a good behavior and the singularity at $x = 0$ is hidden within the horizon. The temperature $T _ { 2 } = 0$ on the horizon $x = \\sqrt { - \\epsilon }$ can be read out from eq. (30), which is different from the temperature $\\begin{array} { r } { T = \\frac { 1 } { 2 \\pi } } \\end{array}$ felt by matter fields in Rindler space. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Now let us summarize our results. At first, the scalar field $\\phi$ in $f ( T )$ gravity feels an effctive metric eq. (29) different from that felt by matter fields, it therefore sees a different horizon and Hawking temperature. Black holes in such a situation would not be in the equilibrium state.Second,noticethat theparameter $\\begin{array} { r } { \\epsilon = \\frac { 4 f ^ { \\prime \\prime } ( 0 ) } { f ^ { \\prime } ( 0 ) } } \\end{array}$ is related to the violation of local Lorentz invariance. When $\\epsilon$ vanishes,eq. (2O) recovers the local Lorentz invariance and the effective metric eq.(29) reduces to the metric of Rindler space. Furthermore, when $f ^ { \\prime \\prime } ( T ) = 0$ and $\\epsilon = 0$ , the entropy production terms (eq. (18)） vanish and the first law of black hole thermodynamics recovers. As a result,the breakdown of first law of black holes results from the violation of local Lorentz invariance ( $\\epsilon \\neq 0$ ). At last, $\\epsilon$ should be negative in order to avoid the naked singularity. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To end up this section，we briefly discuss the second example with background metric $^ { 0 } g _ { \\mu \\nu } = \\mathrm { d i a g } ( - 1 , 1 , 1 )$ and tetrad fields ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ } ^ { 0 } e _ { a \\mu } = \\left( \\begin{array} { c } { { \\cosh ( x ) \\sinh ( x ) 0 } } \\\\ { { \\sinh ( x ) \\cosh ( x ) 0 } } \\\\ { { 0 0 1 } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Again, $^ { 0 } e _ { a \\mu }$ satisfy the field equations of $f ( T )$ gravity in vacuum when $f ( 0 ) = 0$ . Note that （204 $^ { 0 } T = 0$ and the non-vanishing $^ { 0 } S _ { \\mu \\nu } ^ { \\rho }$ are $^ { 0 } S _ { y t } { } ^ { y } = { } ^ { 0 } S _ { y y } { } ^ { t } = 1$ . After imposing the Lorentz gauge $\\partial _ { \\mu } h _ { \\nu } ^ { \\mu } = 0$ , we conclude that most of metric perturbations $\\bar { h } _ { \\mu \\nu }$ obey the same equation eq. (25) as that in Einstein gravity expect for $h _ { y y }$ which satisfies ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\frac { f ^ { \\prime } ( 0 ) } { 2 } \\sqsupset \\phi + f ^ { \\prime \\prime } ( 0 ) \\partial _ { t } { } ^ { 1 } T = 8 \\pi ^ { 1 } \\Theta _ { y y } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where $\\phi$ denotes $h _ { y y }$ . Focusing on the case all perturbations of tetrad fields vanish expect for ${ } ^ { 1 } e _ { ( 2 ) y } = \\phi$ ，we have $^ { 1 } T = - 2 \\partial _ { t } \\phi$ . Thus, the above equation becomes ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\frac { f ^ { \\prime } ( 0 ) } { 2 } [ \\sqsupset \\phi + \\epsilon ( \\partial _ { t } ) ^ { 2 } \\phi ] = 8 \\pi ^ { 1 } \\Theta _ { y y } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "from which one can easily read out the effective metric $g _ { \\mu \\nu }$ as follows: ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { g } _ { \\mu \\nu } = \\left( \\begin{array} { c c c } { { \\frac { - 1 } { 1 - \\epsilon } } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { 1 } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { 1 } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "From $d s ^ { 2 } = { \\bar { g } } _ { \\mu \\nu } d x ^ { \\mu } d x ^ { \\nu } = 0$ ，we get the speed of feld $\\phi$ ， $\\begin{array} { r } { v = \\frac { 1 } { \\sqrt { 1 - \\epsilon } } } \\end{array}$ . It is interesting that if we require that $\\boldsymbol { v }$ does not exceed the speed of light，we get $\\epsilon < 0$ ，which is the same as the condition in the first example given for getting rid of the naked singularity. It should be mentioned that one can derive a similar condition in light of the recent work of Y. F. Cai et al.[23].From eq. (28)of their paper [23],we note that both $f ^ { \\prime \\prime } ( T )$ and $\\begin{array} { r } { \\epsilon = \\frac { 4 f ^ { \\prime \\prime } ( 0 ) } { f ^ { \\prime } ( 0 ) } } \\end{array}$ （2 ( $f ^ { \\prime } ( 0 ) > 0$ from eq. (19)） should be negative if we require the sound speed parameter $c _ { s }$ does not exceed the speed of light. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "V. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we have shown that, in general, the first law of black hole thermodynamics $\\delta Q = T \\delta S$ is violated in $f ( T )$ gravity, and only for some special cases can it be recovered. There is entropy production even in the static spacetime,and there are strict constraints for $f ( T )$ gravity in order to maintain the positivity of entropy and entropy production. We find that the violation of first law results from the lack of local Lorentz invariance in $f ( T )$ （204号 gravity. Through investigating two concrete examples, we observe that the effective metric felt by some degrees of freedom in $f ( T )$ gravity is different from the background metric felt by matter fields because of the violation of local Lorentz invariance. The degrees of freedom therefore see a diferent horizon and Hawking temperature. Black holes in such a situation would not be in equilibrium, so it is the violation of local Lorentz invariance that leads to the breakdown of the first law of black hole thermodynamics, $\\delta Q = T \\delta S$ ,in $f ( T )$ gravity. To avoid the naked singularity and super velocity of light in the two examples, we get the condition $\\begin{array} { r } { \\epsilon = \\frac { 4 f ^ { \\prime \\prime } ( 0 ) } { f ^ { \\prime } ( 0 ) } < 0 } \\end{array}$ ，where $\\epsilon$ is a parameter whichdenotes the violationof local Lorentz invariance in $f ( T )$ gravity. To be consistent with experiments, $\\epsilon$ and $f ^ { \\prime \\prime } ( T )$ （204号 should be small. In that case, the entropy production term is small compared with the first term in the last line of eq. (17),thus the first law of black hole thermodynamics can be satisfed approximatively and the entropy of black holes in $f ( T )$ gravity equals ${ \\textstyle \\frac { f ^ { \\prime } ( T ) } { 4 } } A$ （2 approximatively. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "R-X.M. would like to thank T. Wang for useful discussons. M.L. and R-X.M. are supported by the NSFC grants No.10535060, No.10975172 and No.10821504, and by the 973 program grant No.2007CB815401 of the Ministry of Science and Technology of China. YG.M. is supported by the NSFC grant No.11175090. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Appendix A ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We give the proof that the entropy production on the null surface is indeed non-vanishing by studying a specific example, Rindler space. The metric of Rindler space is ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd s ^ { 2 } = - x ^ { 2 } d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } + d z ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where $x \\in [ 0 , \\infty )$ . We choose the following tetrad fields $e _ { a \\mu }$ ， ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left( \\begin{array} { c c c c } { x } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { \\cos \\left[ g ( x ) y \\right] } & { \\sin \\left[ g ( x ) y \\right] } & { 0 } \\\\ { 0 } & { - \\sin \\left[ g ( x ) y \\right] } & { \\cos \\left[ g ( x ) y \\right] } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 1 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "with an arbitrary function $g ( x )$ and the torsion scalar $\\begin{array} { r } { T = - \\frac { 2 g ( x ) } { x } } \\end{array}$ . One can check that they satisfy the equations of motion eqs. (14) and (15) as long as the matter stress-tensor is given by ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\Theta _ { 0 } ^ { 0 } = \\displaystyle \\frac { 1 } { 1 6 \\pi x ^ { 2 } } \\left[ x ^ { 2 } f ( T ) + 2 x g f ^ { \\prime } ( T ) + 4 g ( g - x g ^ { \\prime } ) f ^ { \\prime \\prime } ( T ) \\right] , } } \\\\ { { \\Theta _ { 1 } ^ { 1 } = \\displaystyle \\frac { 1 } { 8 \\pi } \\left[ \\frac { f ( T ) } { 2 } + \\frac { g f ^ { \\prime } ( T ) } { x } \\right] , } } \\\\ { { \\Theta _ { 2 } ^ { 2 } = \\displaystyle \\frac { 1 } { 8 \\pi } \\left[ \\displaystyle \\frac { f } { 2 } + \\frac { x ^ { 2 } g f ^ { \\prime } ( T ) + 2 ( g - x g ^ { \\prime } ) f ^ { \\prime \\prime } ( T ) } { x ^ { 3 } } \\right] , } } \\\\ { { \\Theta _ { 3 } ^ { 3 } = \\displaystyle \\frac { 1 } { 8 \\pi } \\left[ \\displaystyle \\frac { f } { 2 } + \\frac { g f ^ { \\prime } ( T ) } { x } + \\displaystyle \\frac { 2 ( 1 + x g ) ( g - x g ^ { \\prime } ) f ^ { \\prime \\prime } ( T ) } { x ^ { 3 } } \\right] . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "One can always choose suitable functions $g ( x )$ and $f ( T )$ to make $\\Theta _ { \\nu } ^ { \\mu }$ be regular and simultaneously to keep the entropy production non-vanishing. For example, set $\\begin{array} { r } { g ( x ) = \\frac { 1 } { 2 } x ^ { 3 } e ^ { - | x | } } \\end{array}$ （204号 and $f ( T ) = \\sum _ { n = 1 } ^ { N } a _ { n } T ^ { n }$ （ $T = - x ^ { 2 } e ^ { - | x | }$ )，where $N$ is an arbitrary finite integer greater than 1, we find that the matter stress-tensor eq. (37) is regular in the whole space. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "It should be stressed that there are many different choices of null surface in Rindler space. Without the loss of generality， we focus on the null surface $\\textit { x } = \\textit { e } ^ { t }$ below.The corresponding Kiling vector and null vector on this null surface are $\\xi ^ { \\mu } = ( 1 { - } \\frac { \\cosh t } { x } , \\sinh t , 0 , 0 )$ （204号 and $\\begin{array} { r } { k ^ { \\mu } \\sim ( \\frac { e ^ { t } } { x ^ { 2 } } , 1 , 0 , 0 ) } \\end{array}$ , respectively. One can check that $\\xi ^ { \\mu } \\xi _ { \\mu } = \\xi ^ { \\mu } k _ { \\mu } = k ^ { \\mu } k _ { \\mu } = 0$ ， $\\xi ^ { \\mu } \\sim k ^ { \\mu }$ （204号 on this null surface. From eq. (18),we find that the entropy production on the null surface （204号 $\\boldsymbol { x } = \\boldsymbol { e } ^ { t }$ is proportional to ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- k ^ { \\nu } \\nabla ^ { \\mu } f ^ { \\prime } ( T ) ( \\xi ^ { \\rho } S _ { \\rho \\nu \\mu } - \\nabla _ { \\nu } \\xi _ { \\mu } ) \\sim - 2 f ^ { \\prime \\prime } ( T ) \\frac { e ^ { t } ( x g ^ { \\prime } - g ) [ ( x - \\cosh t ) g + 1 ] } { x ^ { 3 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "which is non-vanishing generally. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Appendix B ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We give an exact solution of eqs. (14) and (15) which has the properties of the usual Rindler space. Allthe modes feel the same Rindler space metric as that felt by matter fields and no modes can escape from inside of the horizon. Similar to Sect. IV, in order to get the effective metric felt by the tetrad fields,let us investigate the linear perturbation equations of $f ( T )$ gravity with the background tetrad fields ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n^ { 0 } e _ { a \\mu } = \\left( \\begin{array} { c c c c } { { x \\cosh t \\ \\sinh t \\ 0 \\ 0 } } \\\\ { { x \\sinh t \\ \\cosh t \\ 0 \\ 0 } } \\\\ { { 0 } } & { { 0 } } & { { 1 \\ 0 } } \\\\ { { 0 } } & { { 0 } } & { { 0 \\ 1 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "and perturbations $^ { 1 } e _ { a \\mu }$ .The background spacetime is Rindler space with metric $d s ^ { 2 } = $ $- x ^ { 2 } d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } + d z ^ { 2 }$ , while the perturbations of metric are $h _ { \\mu \\nu } = { } ^ { 0 } e _ { a \\mu } \\eta ^ { a b ~ 1 } e _ { b \\nu } + { } ^ { 0 } e _ { a \\nu } \\eta ^ { a b ~ 1 } e _ { b \\mu }$ Notice that we have ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ } ^ { 0 } T = 0 , \\qquad { } ^ { 0 } S _ { \\mu \\nu } { } ^ { \\rho } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "for the background tetrad fields eq. (39). Eq. (39) satisfies eqs. (14) and (15) provided the background matter stress-tensor is $\\begin{array} { r } { { ^ 0 \\Theta } _ { \\nu } ^ { \\mu } = \\frac { f ( 0 ) } { 1 6 \\pi } \\delta _ { \\nu } ^ { \\mu } } \\end{array}$ . Using eq. (40)， we can easily find that the linear perturbation of eq. (15) automatically vanishes. Thus, we only need to study the linear perturbation of eq. (14). Following the approach of Sect. IV, we can derive ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\frac { f ^ { \\prime } ( 0 ) } { 2 } \\sqsupset \\bar { h } _ { \\mu \\nu } = 8 \\pi ^ { 1 } \\Theta _ { \\mu \\nu } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "which is exactly the same as the linear perturbation equations of Einstein gravity if we set $f ^ { \\prime } ( 0 ) = 1$ . Let us recall that $h _ { \\mu \\nu } = h _ { \\mu \\nu } - { \\textstyle { \\frac { h } { 2 } } } ^ { 0 } g _ { \\mu \\nu }$ and ${ ^ 1 \\Theta } _ { \\mu \\nu }$ is the linear perturbation of the matter stress-tensor. From eq. (41),it is clear that all the modes of tetrad fields feel the same metric as the background spacetime,Rindler space. Thus, at least in the linear perturbation,all the modes fel the same horizon and nul surfaces, and no modes can escape from inside of the horizon. From eqs.(17) and (40),it is interesting to note that the first law $\\delta Q = T \\delta S$ recovers on the null surface of Rindler space with tetrad fields eq. (39),and the entropy on the null surface can be read out from eq. (17) as $\\begin{array} { r } { S = \\frac { f ^ { \\prime } ( 0 ) } { 4 } A } \\end{array}$ ： ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[1] R. Ferraro and F. Fiorini, Phys. Rev. D 75, 084031 (2007) [arXiv:gr-qc/0610067].   \n[2] R. Ferraro and F. Fiorini, Phys. Rev. D 78,124019 (2008) [arXiv:0812.1981[gr-qc]].   \n[3] G. R. Bengochea and R. Ferraro, Phys. Rev. D 79,124019 (2009) [arXiv:0812.1205[astro-ph].   \n[4]E.V. Linder,Phys. Rev.D 81, 127301 (2010) [arXiv:1005.3039[astro-ph.CO].   \n[5] P.Wu and H. Yu,Phys. Lett.B 693, 415 (2010) [arXiv:1006.0674[gr-qc]].   \n[6] R. Myrzakulov, Eur. Phys. J. C 71, 1752 (2011) [arXiv:1006.1120[gr-qc]].   \n[7] P. Yu Tsyba, I. I. Kulnazarov, K.K. Yerzhanov and R. Myrzakulov, Int. J. Theor. Phys. 50, 1876 (2011） [arXiv:1008.0779[astro-ph.CO].   \n[8] P. Wu and H. Yu,Eur. Phys. J. C 71,1552 (2011) [arXiv:1008.3669[gr-qc].   \n[9] K. Bamba, C. Q. Geng and C. C. Lee, [arXiv:1008.4036[astro-ph.CO]].   \n[10] K.Bamba，C. Q. Geng and C.C. Lee，J. Cosmo. Astropart. Phys. O8，021 (2010) [arXiv:1005.4574].   \n[11] R. Myrzakulov, arXiv:1008.4486[astro-ph.CO].   \n[12] P. Wu and H. Yu,Phys. Lett.B 692,176 (2010) [arXiv:1007.2348[astro-ph.COl].   \n[13] K. Karami and A. Abdolmaleki, arXiv:1009.2459[gr-qc].   \n[14] S. -H. Chen,J. B.Dent,S. Dutta and E. N. Saridakis, Phys. Rev. D 83, 023508 (2011) [arXiv:1008.1250[astr0-ph.CO].   \n[15] J. B. Dent, S. Dutta and E. N. Saridakis, J. Cosmo. Astropart. Phys. O1, O09 (2011).   \n[16] H.Wei, X. P. Ma and H. Y. Qi, Phys. Lett. B 703,74 (2011) [arXiv:1106.0102[gr-qc]].   \n[17] T.P. Sotiriou, B. Li and J. D. Barrow, Phys. Rev. D 83,104030 (2011) [arXiv:1012.4039[grqc]].   \n[1y] D.LIl, 1.r. SOuiIou aIu J.D. Darrow,rHys. nev.D oo,1U4Ul/ （ZUll） [arAIv:11Uo.zIoU[astrO ph.CO]].   \n[20] T. Wang, Phys. Rev. D 84, 024042 (2011) [arXiv:1102.4410[gr-qc].   \n[21] M. H. Daouda, M. E. Rodrigues, M. J. S. Houndjo, [arXiv:1108.2920].   \n[22] M. H. Daouda, M. E. Rodrigues, M. J. S. Houndjo,[arXiv:1109.0528].   \n[23] Y. F. Cai, S. H. Chen, J. B. Dent, S. Dutta and E. N. Saridakis, Class. Quant. Grav. 28, 215011 (2011) [arXiv:1104.4349[astro-ph.CO]].   \n[24] R. Ferraro and F. Fiorini, Phys.Lett. B 702, 75 (2011) [arXiv:1103.0824[gr-qc].   \n[25] R. Ferraro and F. Fiorini, arXiv:1106.6349[gr-qc].   \n[26] C. Deliduman and B. Yapiskan, arXiv:1103.2225[gr-qc].   \n[27] M. Li, R. X. Miao and Y. G. Miao, JHEP 07,108 (2011) [arXiv:1105.5934[hep-th].   \n[28] A. Einstein 1928, Sitz. Preuss. Akad. Wiss. p. 217; ibid p. 224.   \n[29] A.Einstein 2005， translations of Einstein papers by A. Unzicker & T. Case [arXiv:physics/0503046].   \n[30] R.Aldrovandi and J.G.Pereira,An Introduction to Teleparallel Gravity, Instituto de Fisica Teorica, UNSEP, Sao Paulo (http://www.ift.unesp.br/gcg/tele.pdf).   \n[31] V. C. de Andrade, L. C. T. Guillen，and J. G. Pereira, Phys. Rev. Lett. 84,4533 (2000) [arXiv:gr-qc/0003100].   \n[32] R. Ferraro, F. Fiorini, Phys.Rev.D 84, 083518 (2011) [arXiv:1109.4209].   \n[33] R. M. Wald, Phys. Rev D 48, R3427 (1993).   \n[34] T. Jacobson, Phys. Rev. Lett.75,1260 (1995) [arXiv:gr-qc/9504004].   \n[35] C. Eling，R. Guedensand T. Jacobson， Phys.Rev.Lett. 96， 121301 (2006) [arXiv:gr-qc/0602001].   \n[36] R. Brustein and M. Hadad, Phys. Rev. Lett. 103,101301 (2009) [arXiv:0903.0823[hep-th].   \n[37] W. Gu, M. Li and R. X. Miao, Sci. China G 54, 1915 (2011)[arXiv:1011.3419[hep-th]}; R. X. Miao, J. Meng and M. Li, arXiv:1102.1166[hep-th].   \n[38] M. Parikh and S. Sarkar,arXiv:0903.1176[hep-th].   \n[39] M. Visser, Phys. Rev. Lett. 80,3436 (1998) [arXiv:gr-qc/9712016].   \n[40] G. Amelino-Camelia, C. Lammerzahl, A. Macias and H. Muler，AIP Conf.Proc.758,30 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(2005) [arXiv:gr-qc/0501053]. [41] V.A. Kostelecky, Phys. Rev. D 69,105009 (2004) [arXiv:hep-th/0312310]. [42] D. Mattingly, Living Rev. Rel. 8, 5 (2005) [arXiv:gr-qc/0502097]. [43] H.Muller,S.W. Chiow, S. Herrmann, S. Chu and K. Y. Chung,Phys. Rev. Lett.100, 031101 (2008) [arXiv:0710.3768[gr-qc]. [44] It should be mentioned that Dubovsky et al. have investigated the effect of spontaneous breaking of Lorentz invariance on black hole thermodynamic in refs. [45,46], in which they got a similar conclusion. They also agued that the second law of thermodynamics might be violated in the theory with the spontaneous breaking of Lorentz invariance. [45] S.L. Dubovsky and S.M. Sibiryakov, Phys. Lett. B 638, 509 (2006) [arXiv:hep-th/0603158]. [46] T.Jacobson and A. C. Wall, Found. Phys. 40,1076 (2010) [arXiv:0804.2720[hep-th]. ",
+        "page_idx": 17
+    }
+]

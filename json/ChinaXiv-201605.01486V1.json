@@ -1,0 +1,519 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCHARTICLE ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Involvement of Large-Conductance ${ \\mathsf { C a } } ^ { 2 + } .$ -Activated ${ \\sf K } ^ { + }$ Channels in ChloroquineInduced Force Alterations in Pre-Contracted Airway Smooth Muscle ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: Wei M-Y,Xue L,TanL,Sai W-B,Liu X-C, Jiang Q-J,etal.(2015) Involvementof LargeConductance $\\mathsf { C a } ^ { 2 + }$ -Activated ${ \\sf K } ^ { + }$ Channels in Chloroquine-Induced Force Alterations in PreContracted Airway Smooth Muscle.PLoS ONE10(3): e0121566.doi:10.1371/journal.pone.0121566 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Academic Editor: Wenhui Hu,Temple University School of Medicine, UNITED STATES ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: August 30,2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted: February 13,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published: March 30,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright: $\\circledcirc$ 2015 Wei et al.This isan open access article distributed under the terms of the Creative Commons Attribution License,which permits unrestricted use,distribution,and reproduction in any medium,provided the original author and source are credited. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DataAvailability Statement:All relevant data are within the paper and its Supporting Information files. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Funding: Contract grant sponsor: Ministry of Science and Technology of China.htp://www.most.gov.cn/ eng/.Contract grant number:2011CB809100 to QHL and GJ; Contract grant sponsor: National Natural Science Foundation of China.http://www.nsfc.gov.cn/. Contract grant numbers: 31140087 and 30971514 to QHL;31101047 to LX.Technology Foundation for Selected Overseas Chinese Scholar,Ministry of Personnel of China (www.mohrss.gov.cn) (to JS) and Natural Science Foundation of Hubei Province, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ming-Yu Wei1,Lu Xue1,Li Tan1@, Wen-Bo Sai1, Xiao-Cao Liu1, Qiu-Ju Jiang1, Jinhua Shen1, Yong-Bo Peng1, Ping Zhao1, Meng-Fei $\\boldsymbol { \\mathsf { Y } } \\boldsymbol { \\mathsf { u } } ^ { \\mathsf { 1 } }$ ,Weiwei Chen1,Li-Qun Ma1, Kui Zhai²,Chunbin Zou³, Donglin Guo4, Gangjian Qin5, Yun-Min Zheng6, YongXiao Wang, Guangju Ji² \\*, Qing-Hua Liu1 \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Institute for Medical Biology& Hubei ProvincialKeyLaboratoryforProtectionandApplicationof Special Plants in Wuling Areaof China,CollegeofLife Sciences,South-CentralUniversityforNationalities,Wuhan 430074,China,2 NationalLaboratoryof Biomacromolecules,InstituteofBiophysics,Chinese Academyof Sciences,Beijing 10o101,China,3 Departmentof Medicine,AcuteLung Injury Centerof Excellence, Universityof Pittsburgh,Pitsburgh,PA15213,United States of America,4 Lankenau Institute forMedical Research &Main Line Health Heart Center,100Lancaster Avenue,Wynnewood,PA19096,UnitedStatesof America,5 Departmentof Medicine-Cardiology,Feinberg Cardiovascular Research Institute,Northwestern University Feinberg School of Medicine,Chicago,IL60611, United States of America,6 Center for Cardiovascular Sciences,Albany Medical Colege,Albany,NY12208,United States of America ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "These authors contributed equally to this work. \\*qinghualiu@mail.scuec.edu.cn (QHL)；gj28 $@$ ibp.ac.cn (GJ) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The participation of large-conductance ${ \\mathsf { C a } } ^ { 2 + }$ activated ${ \\mathsf { K } } ^ { + }$ channels (BKs) in chloroquine (chloro)-induced relaxation of precontracted airway smooth muscle (ASM) is currently undefined.In this study we found that iberiotoxin (IbTx,a selective inhibitor of BKs) and chloro both completely blocked spontaneous transient outward currents (STOCs) in single mouse tracheal smooth muscle cells,which suggests that chloro might block BKs.We further found that chloro inhibited ${ \\mathsf { C a } } ^ { 2 + }$ sparks and caffeine-induced global ${ \\mathsf { C a } } ^ { 2 + }$ increases.Moreover,chloro can directly block single BK currents completely from the intracellular side and partially from the extracellular side.All these data indicate thatthe chloro-induced inhibition of STOCs is due to the blockade of chloro on both BKs and ryanodine receptors (RyRs). We also found that low concentrations of chloro resulted in additional contractions in tracheal rings that were precontracted by acetylcholine (ACH). Increases in chloro concentration reversed the contractile actions to relaxations.In the presence of IbTx or paxilline (pax), BK blockers,chloro-induced contractions were inhibited,although the high concentrations of chloro-induced relaxations were not affected.Taken together,our results indicate that chloro blocks BKs and RyRs,resulting in abolishment of STOCs and occurrence of contraction,the latter will counteract the relaxations induced by high concentrations of chloro. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(http://www.hbstd.gov.cn/) (2014CFB232 to LX).The funders had no role in study design,data collection and analysis,decision to publish,or preparation of the manuscript. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Competing Interests:The authors have declared that no competing interests exist. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It has been reported that chloro induced an increase in intracellular ${ \\mathrm { C a } } ^ { 2 + }$ in ASM cells,however, which resulted in relaxation in precontracted ASM[1]. The relaxation was partially mediated by BKs [1,2].While,the BK-mediated relaxation was challenged by evidence that BK-mediated STOCs in ASMcells were completely blocked bychloro and that blockade of BKs failed to affect chloro-induced relaxation in precontracted ASM[3].Recently, we [4] and others [5] have defined the mechanism underlying chloro-induced relaxation,which is due to inhibition of chloro on voltage-dependent L-type ${ \\mathrm { C a } } ^ { 2 + }$ channels (VDCCs) and non-selective cation channels (NSCCs).However,the role of BKs in chloro-induced relaxation is still undefined.In this study, we found that chloro blocks RyRs and BKs,which results in STOC abolishment and contraction occurrence,the latter willcounteract chloro-triggered relaxation. These results suggest that BKs are involved in chloro-induced relaxation in precontracted ASM. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Isolation of single ASM cells ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Single mouse tracheal smooth muscle cells were enzymatically isolated as previously described [6].Briefly,adult male ${ \\mathrm { B A L B } } / { \\mathrm { c } }$ mice were euthanized by intraperitoneal injection of sodium pentobarbital $( 1 5 0 \\mathrm { m g / k g ) }$ according to the protocol approved by the Institutional Animal Care and Use Committee of the South-Central University for Nationalities (Permit number: 2012-QHL-2). The tracheae were removed and transferred to an ice-cold solution containing $1 3 6 \\mathrm { m M N a C l }$ $5 . 3 6 \\mathrm { m M }$ KCl, $0 . 4 4 \\mathrm { m M }$ $\\mathrm { K H } _ { 2 } \\mathrm { P O } _ { 4 } \\mathrm { S O } _ { 4 } ,$ 4.16 mM ${ \\mathrm { N a H C O } } _ { 3 }$ 0 $1 0 \\mathrm { m M }$ glucose, $1 0 \\mathrm { m M }$ HEPES, $0 . 3 4 \\mathrm { m M N a H P O _ { 4 } } { \\cdot } 1 2 \\mathrm { H } _ { 2 } \\mathrm { O }$ $\\mathrm { \\langle p H 7 . 1 }$ ,adjusted with $\\mathrm { N a O H }$ ). The epithelium, cartilage,and connective tissue were removed.The trachealis tissues were minced and incubated for $2 2 \\mathrm { m i n }$ at $3 5 ^ { \\circ } \\mathrm { C }$ in the above solution supplemented with $2 \\mathrm { m g / m l }$ papain, $1 \\mathrm { m g / m l }$ dithioerythritol,and $\\mathrm { { 1 \\ m g / m l } }$ bovine serum albumin (BSA).The partially digested tissues were then transferred to the above solution supplemented with $\\mathrm { { 1 \\ m g / m l } }$ collagenase H, $0 . 1 5 \\mathrm { m g / m l }$ dithiothreitol,and $\\mathrm { { 1 \\ m g / m l } }$ BSA.After incubation for $8 \\mathrm { m i n }$ ,the well-digested tissues were washed and gently triturated in the above solution to yield single smooth muscle cells.Cells were stored on ice and used for experiments within $^ { 4 \\mathrm { h } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recordings of ion channel currents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ion channel currents were measured using an EPC-10 patch-clamp amplifier (HEKA, Germany). BK-mediated STOCs were recorded using a classical whole-cell configuration [7]. Patch pipettes had a resistance of 3 to $5 \\mathrm { M } \\Omega$ when filled with an intracellular solution containing 74.5 mM KCl,1 mM $\\mathrm { M g C l } _ { 2 }$ 0 $1 0 \\mathrm { m M }$ HEPES, $6 4 \\mathrm { m M }$ K-aspartate, and $3 \\mathrm { m M }$ （204号 ${ \\mathrm { N a } } _ { 2 } { \\mathrm { A T P } }$ $\\mathrm { ( p H } 7 . 2$ ,adjusted with KOH).The extracellular solution contained $1 3 0 \\mathrm { m M N a C l }$ 0 $5 . 5 \\mathrm { m M }$ KCl, $2 . 2 \\mathrm { m M }$ $\\mathrm { C a C l } _ { 2 }$ $\\boldsymbol { 1 } \\ \\mathrm { m M } \\mathrm { M g } { \\mathrm { C l } _ { 2 } } .$ $1 0 \\mathrm { m M }$ HEPES,and $5 . 6 \\mathrm { m M }$ glucose $\\mathrm { ( p H 7 . 4 . }$ adjusted with NaOH).The holding potential was set at $- 4 0 \\mathrm { m V } .$ .The junction potential, capacitance, and series resistance were compensated. The $3 0 \\mathrm { ~ s ~ }$ step voltage pulses were applied from $- 4 0$ （204号 to $+ 1 0 \\mathrm { m V }$ with an increment of $1 0 \\mathrm { m V }$ to record STOCs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Single BK currents [8] were recorded at 0,20,40,and $6 0 \\mathrm { m V }$ using inside-out and outsideout patch clamp techniques under symmetrical $\\mathrm { K } ^ { + }$ ion concentrations in the pipette and bath solutions.The intracellular solution contained $1 4 0 ~ \\mathrm { m M }$ KCl,1 mM $\\mathrm { M g C l } _ { 2 }$ 5 $5 \\mathrm { m M }$ EGTA,4.37 mM $\\mathrm { C a C l } _ { 2 }$ and $1 0 \\mathrm { m M }$ HEPES ( $\\mathrm { \\ p H } 7 . 2$ ,adjusted with KOH). The free ${ \\mathrm { C a } } ^ { 2 + }$ ion concentration was $1 \\mu \\mathrm { M }$ calculated using WEBMAXC STANDARD (http://www.stanford.edu/\\~cpatton/ webmaxc/webmaxcS.htm). The extracellular solution contained $1 4 0 ~ \\mathrm { m M }$ KCl, 1 mM $\\mathrm { M g C l } _ { 2 }$ 0 $5 \\mathrm { m M }$ EGTA, $4 . 9 \\ : \\mathrm { m M } \\mathrm { C a C l } _ { 2 }$ and $1 0 \\mathrm { m M }$ HEPES( $\\mathrm { \\ p H } 7 . 2$ ,adjusted with KOH). The free ${ \\mathrm { C a } } ^ { 2 + }$ ion concentration was $1 0 \\mu \\mathrm { M }$ .Single channel currents were acquired at a digitization rate of $4 \\mathrm { k H z }$ and filtered at $1 \\mathrm { k H z }$ .Events were detected and all-point amplitude histogram and single channel open probability $( P o )$ obtained using Clampfit 9 software (Axon Instruments; Foster, CA, USA)[9].The histograms were fitted with the Gaussian distribution function.Peak values were obtained from these fitting traces and the net peak values were the amplitudes of single BK currents. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Measurements of intracellular ${ \\mathsf { C a } } ^ { 2 + }$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the measurements of ${ \\mathrm { C a } } ^ { 2 + }$ sparks,single mouse tracheal smooth muscle cells were loaded with $2 . 5 \\mu \\mathrm { m o l / L }$ fluo-4 AM. ${ \\mathrm { C a } } ^ { 2 + }$ sparks were measured using an LSM 700 confocal scanning laser microscope (Carl Zeiss,Gottingen,Germany) and $\\mathrm { Z e n } 2 0 1 0$ software (Carl Zeiss, Gottingen, Germany). The frequency $( { \\mathrm { s p a r k s } } / { \\mathrm { s } } / { \\mu \\mathrm { m } } )$ and amplitude of ${ \\mathrm { C a } } ^ { 2 + }$ sparks were analyzed using Zen 2O10 software and Interactive Data Language software (IDL, Research Systems, Boulder, CO, USA)[1O]. Simultaneous recordings of ${ \\mathrm { C a } } ^ { 2 + }$ sparks and STOCs were performed by a method that combined a confocal scanning laser microscope with the patch-clamp amplifier [6]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The global ${ \\mathrm { C a } } ^ { 2 + }$ changes were measured using confocal microscope as described previously [4],which were also measured using fura-2 AM dye.For the latter measurement, single mouse ASM cells were loaded with $4 \\mu \\mathrm { m o l / L }$ fura-2AM. Fluorescence images were acquired at $3 4 0 \\mathrm { n m }$ and $3 8 0 \\mathrm { n m }$ and analyzed using the TILL Polychrome V monochromator system(Chroma Technology, Brattleboro,VT,USA) and Metafluor for Olympus software (TILL,Grafelfing, Germany).The ratio of fluorescence intensity at $3 4 0 \\mathrm { n m }$ and $3 8 0 \\mathrm { n m }$ was calculated and used as the index for the intracellular ${ \\mathrm { C a } } ^ { 2 + }$ level [11]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MeasurementofASMtension ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ASM tension was measured in mouse tracheal rings as previously reported [4].In brief,tracheae were obtained and quickly transferred into an ice-cold solution ( $1 3 5 \\mathrm { m M N a C l }$ ,5 mMKCl, 1 mM $\\mathrm { M g C l } _ { 2 }$ $6 \\mathrm { H } _ { 2 } \\mathrm { O }$ ,2mM $\\mathrm { C a C l } _ { 2 }$ 0 $1 0 \\mathrm { m M }$ HEPES, $1 0 \\mathrm { m M }$ glucose, $\\mathrm { p H } 7 . 4$ )equilibrated with $5 \\% \\mathrm { C O } _ { 2 } / 9 5 \\% \\mathrm { O } _ { 2 }$ . Connective tissue was removed and four cartilage tracheal rings were cut from the same distal tracheae.Each ring was mounted horizontally in a $1 0 \\mathrm { m l }$ organ bath chamber containing the above solution equilibrated with $5 \\% \\mathrm { C O } _ { 2 } / 9 5 \\% \\mathrm { O } _ { 2 }$ . The preload was $0 . 3 \\mathrm { g }$ During a 6O-min equilibration period, the rings were washed every $1 5 \\mathrm { m i n }$ and then precontracted twice with ACH $( 1 0 ^ { - 4 } \\mathrm { M } )$ . After the rings rested for an additional $3 0 \\mathrm { m i n }$ ,experimental measurements of tension were carried out. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Reagents ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Papain, dithioerythritol,dithiothreitol,collagenase H,bovine serum albumin, 2-aminoethoxydiphenyl borate (2-APB),acetylcholine (ACH) and chloroquine (chloro) were purchased from Sigma.Iberiotoxin (IbTx),paxilline (pax),ryanodine and U73122 were purchased from Cayman Chemical.Fluo-4 AMand fura-2 AM were from Molecular Probes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dataanalysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results are expressed as means $\\pm$ SEM. Comparisons between two groups were performed with the Student's $t { \\mathrm { . } }$ -test using Origin 9.0 software (OriginLab,Northampton, MA, USA),and $\\textstyle P < 0 . 0 5$ was considered statistically significant. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Chloro blocks BK-mediated STOCs ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To study the role of BKs in chloro-induced relaxation, we first sought to determine whether these channels can be blocked by chloro.The voltage steps shown in Fig.1A were used to record BK-mediated STOCs in single mouse tracheal smooth muscle cells using the patch clamp technique [12].The STOCs were abolished by IbTx ( $\\mathrm { { . 1 0 0 } n M } ,$ ,aselective blocker of BKs (Fig.1B),which indicates that the STOCs were BK currents.We then observed the effect of ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5287862f3a6e8c8dd09c5c3a6f3f0713b3a9fe378ae951c7aa508f6a6cd77a4c.jpg",
+        "img_caption": [
+            "Fig1.Chloroquine(chloro) blocks BK-mediated STOCs.(A) Mouse tracheal smooth muscle cels were patched using a whole-cell configuration and held at $- 4 0 \\mathsf { m V }$ .STOCs were recorded using a series of $3 0 { \\mathsf s }$ voltage steps from $- 4 0$ through $+ 1 0 \\mathsf { m V }$ (B, C)Following the addition of the selective BK blocker iberiotoxin (IbTx, $1 0 0 \\mathsf { n M }$ ,in 6 cells) or chloro (1 mM,in7cells),STOCs were abolished.(D)The averaged amplitude and frequency of STOCs in the absence and presence of IbTx.NS (not significant) denotes $p > 0 . 0 5$ .These data indicate that chloro blocks BK-mediated STOCs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0121566.g001 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "chloro on the currents and found that they were completely blocked by $1 \\mathrm { m M }$ chloro (Fig. 1C). The averaged amplitude and frequency of the STOCs in the absence and presence of IbTx or chloro are shown in Fig.1D.Together these results suggest that chloro blocks BK-mediated STOCs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We next assessed the dose-dependent inhibition of chloro on the STOCs.The STOCs were recorded at $1 0 \\mathrm { m V }$ ,which were gradually inhibited following cumulative additions of chloro (Part A of S1 Fig.). The amplitude and frequency of the STOCs from 5 cell are summarized (Part B of S1 Fig.).These results are in agreement with the previous findings that STOCs will be blocked by chloro [3].However,on the basis of these results,we cannot conclude that the disappearance of STOCs was only due to the direct blockage of BKs by chloro,because the blockade of RyRs can also result in abolishment of STOCs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chloro blocks RyRs ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We next examined whether the RyRs willbe inhibited by chloro via observing its effect on RyRmediated ${ \\mathrm { C a } } ^ { 2 + }$ sparks.We found that ${ \\mathrm { C a } } ^ { 2 + }$ sparks were markedly inhibited and abolished by $0 . 1 \\mathrm { m M }$ (S2 Fig.) and $1 \\mathrm { m M }$ chloro (Fig.2),respectively. These results indicate that chloro can inhibit RyRs.In order to further confirmit,we used caffeine ( $\\mathrm { { 1 0 } m M } ,$ ,aselective activator of RyRs,to stimulate RyRs inducing a cytosolic ${ \\mathrm { C a } } ^ { 2 + }$ increase and observed whether it will be affected by chloro. Caffeine induced a $\\mathrm { C a } ^ { 2 + }$ increase, which was significantly and completely inhibited by O.1 and $1 \\mathrm { m M }$ chloro,respectively (Fig.3),indicating that chloro is able to completely block caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ elevation, further implying chloro inhibits RyRs.Since chloro was previously shown to induce ${ \\mathrm { C a } } ^ { 2 + }$ increases [1,5],we thus evaluated the effect of chloro on intracellular ${ \\mathrm { C a } } ^ { 2 + }$ and found that chloro $( 0 . 1 \\mathrm { m M } )$ induced a small increase in ${ \\mathrm { C a } } ^ { 2 + }$ and inhibited the following $1 0 \\mathrm { m M }$ caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ increases (S3 Fig.). These results suggest that chloro not only induces ${ \\mathrm { C a } } ^ { 2 + }$ increases but also inhibits the caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ increases. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ increases were inhibited by chloro, cafeine is a weak bitter tastant, which would also be able to induce ${ \\mathrm { C a } } ^ { 2 + }$ elevations via type 2 taste receptors (T2Rs). Thus,we observed the effect of2-APB,an inhibitor of inositol 1,4,5-triphosphate receptor （204 $( \\mathrm { I P } _ { 3 } \\mathrm { R s } )$ ,on the caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ elevations and found that 2-APB significantly inhibited the increases in ${ \\mathrm { C a } } ^ { 2 + }$ triggered by $1 0 \\mathrm { m M }$ caffeine (S4 Fig.), suggesting that caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ elevations are partially mediated by $\\mathrm { I P } _ { 3 } \\mathrm { R } s$ . We replaced 2-APB with the phospholipase C (PLC) inhibitor U73122 $( 1 ~ \\mu \\mathrm { M } )$ and repeated the same experiments and found that U73122 also inhibited caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ increases (S5 Fig.). This result indicates that PLC mediates caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ elevations.All these data imply that caffeine will activate T2Rs to induce ${ \\mathrm { C a } } ^ { 2 + }$ elevations via G protein-PLC $\\mathrm { I P } _ { 3 } { \\cdot } \\mathrm { I P } _ { 3 } \\mathrm { R }$ pathway. To further confirm this conclusion, we did the following experiments.We used $1 0 ~ \\mathrm { m M }$ caffeine to open the RyRs and $3 0 \\mu \\mathrm { M }$ ryanodine to block them.After washing both out, we observed whether caffeine can induce ${ \\mathrm { C a } } ^ { 2 + }$ increases. The result showed that caffeine still triggered ${ \\mathrm { C a } } ^ { 2 + }$ elevations (S6 Fig.), indicating that caffeine will employ RyR-independent pathway to induce ${ \\mathrm { C a } } ^ { 2 + }$ increases, supporting above finding that caffeine can induce ${ \\mathrm { C a } } ^ { 2 + }$ increases through T2Rs-G protein-PLC- $\\mathrm { I P } _ { 3 }$ ， $\\mathrm { I P } _ { 3 } \\mathrm { R }$ pathway. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To further observe the inhibition of chloro on RyRs and BKs, we simultaneously recorded ${ \\mathrm { C a } } ^ { 2 + }$ sparks and STOCs in single tracheal smooth muscle cells. Cells were patched and held at $- 4 0 \\mathrm { m V }$ ， and ${ \\mathrm { C a } } ^ { 2 + }$ sparks and STOCs were then measured. ${ \\mathrm { C a } } ^ { 2 + }$ spark-triggered STOCs were observed (left of Fig. 4A and B). Following the addition of $1 \\mathrm { m M }$ chloro,both were abolished (right of Fig. 4A and B). The mean frequencies and amplitudes of the ${ \\mathrm { C a } } ^ { 2 + }$ sparks and STOCs were calculated (Fig. 4C and D).These data demonstrate that the abolishment of BK-mediated STOCs was due to inhibition of chloro on RyRs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e428d128848e8955afe9f35158294cc752c6839c69db39d33de0bf6a9e68b316.jpg",
+        "img_caption": [
+            "Fig 2. Chloro blocks $\\mathsf { C a } ^ { 2 + }$ sparks. (A) $\\mathsf { C a } ^ { 2 + }$ sparks ina single tracheal smooth muscle cel(left) were abolishedby1 mMchloro (right). (B,C)The frequenc) and amplitude of ${ \\mathsf { C a } } ^ { 2 + }$ sparks from 15 cels.These results indicate that chloro inhibits RyRs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0121566.g002 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Chloro blocks BKs ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although our data have shown chloro inhibited BK-mediated STOCs,we did not know whether chloro directly blocks BKs.To clarify this, we measured single BK currents using an insideout configuration with single channel recording. The holding potential was $0 \\mathrm { m V }$ and single channel currents were recorded from an excised patch at 0,20,40 and $6 0 \\mathrm { m V }$ The currents were abrogated following the addition of $1 \\mu \\mathrm { M }$ pax, another selective blocker of BKs [13,14] (Fig.5A),confirming that these single channel currents are BK currents.After pax washout, the currents were restored and then subsequently completely and reversibly blocked by the addition of $1 \\mathrm { m M }$ chloro. The open probability $( P o )$ values were calculated and presented above each trace (Fig.5A).All-point amplitude histograms were also constructed, from which the amplitudes of single BK currents can be obtained. The $P o$ -voltage and current-voltage curves were plotted based on the values acquired from experiments conducted on 8 excised patches ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A 10 mM Caffeine B 10 mM Caffeine 3- ↓ 31 ↓   \n3/00) (08s/045) 0.1 mM Chloro 2 1 1 T T / 7 r T 1 > 0 50 100 150 0 50 100 150 Time (s) Time (s)   \nC D 10 mM Caffeine 3- 3 ↓ （330/550) 1 \\*\\*\\* 1   \n(8505) 1 mM Chloro Eaaer 21 1- H(=u) (=u) (=u) 1 0.1 1 To 50 100 150 Chloro (mM) Time (s) 10 mM Caffeine ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0121566.g003 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "from 8 cells (Fig.5B).These results indicate that chloro can directly block BKs from the intracellularside. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Single BK currents were also recorded with an outside-out configuration,and the currents were inhibited following the application of $1 \\mathrm { m M }$ chloro (Fig. 6A and B). The $P o$ (at 40 and $6 0 \\mathrm { m V } ,$ and current amplitude (at $6 0 \\mathrm { m V } .$ )were significantly inhibited in the presence of chloro (Fig. 6B).As an additional control, we evaluated the effect of pax on the currents and found that pax completely blocked the single channel currents from the extracellular side (Fig. 6B), indicating that the single currents were BK currents.These results demonstrate that chloro can partially inhibit BKs from the extracellular side. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A C -Chloro 1 mM Chloro 60 1   \nurs 5 5 5 5   \nH/AISO 0 =u I 1 I 电 . 证 .. 认 n 0.01 n ……… .· -Chloro 1mM -Chloro 1mM Chloro Chloro   \nB D os 6 工 Aphilttt 140- 工   \nd001 3- (vd) 70- 5 5 5 S=u · UAMMAk. =U =u 1 M ： 中 FHP 0- 01 1s -Chloro 1mM Chloro mM Chloro C Chlor0 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0121566.g004 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "EffectofchloroonASMforce ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on above results,BKs would be involved in chloro-induced relaxation of precontracted ASM because activation of these channels can result in relaxation [15-19].To test this hypothesis,we measured the changes in force following cumulative additions of chloro in ACH-precontracted mouse tracheal rings in the absence and presence of $1 0 0 \\mathrm { n M }$ IbTx and $1 \\mu \\mathrm { M }$ pax (the concentration that completely blocked BKs as shown in Figs.1,5 and 6).After the ACHinduced contraction reached a plateau,low concentrations of chloro (31.6 and $1 0 0 \\mu \\mathrm { M } ,$ evoked significant additional contractions,although from $0 . 3 1 6 \\mathrm { m M }$ and 1 through $3 . 1 6 \\mathrm { m M }$ ,chloro induced relaxations to baseline level (Fig.7A and D).These results indicate that the blockade of BKs by chloro induced contraction was reversed into relaxation following increases of chloro concentration.After washing and then resting for $4 0 \\mathrm { m i n }$ 0 $1 0 0 { \\mathrm { n M } }$ IbTx or $1 \\mu \\mathrm { M }$ pax was added and the same experiments were conducted (Fig.7B and E).Following blockage of BKs by IbTx or Pax,chloro-induced contractions were inhibited, while chloro-induced relaxations were unaffected relative to that in the absence of IbTx and pax (Fig.7C and F).These data further support that chloro-induced contraction was due to its blockade on BKs.Such contraction will counteract high concentrations of chloro-induced relaxations.Thus,BKs involve in chloro-induced relaxation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In time control experiments the biphasic effect of chloro (Parts Aand C of S7 Fig.）was not altered after $4 0 \\mathrm { m i n }$ (Parts B and C of S7 Fig.), indicating that the disappearance of contractions was not due to the $4 0 \\mathrm { m i n }$ resting time.In order to further demonstrate that BKs are involved in the force changes,we observed the effect of pax on the force and found it resulted in a contraction ( $\\mathrm { \\backslash S 8 \\ F i g . }$ ),confirming that blockade of BKs can induce contraction. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Inside-out recording ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A 0 mV +20 mV +40mV +60 mV Po =0.41656 90- 80- Po =0.22045 60- 26 45- Po=0.07185 40 30 əsoe 13-   \nControl\\* Po=0 -1.501.5 WJU 5LLN 01530 ? 02040 100 90- 100- 100- 50- 45- 1 50- 50- (1μM) +Pax Po=0 X80- 001 0- -1.50 Po=0 100 X80 40 01 -20 Po=0 Po-0.15141 （00I 0- -1.50 Po=0 C 01 -1.5 0 1.5 Po=0 0 Po=0.06236 0 Wash1 1.70 1.7U 04 H 01020 02040 267 90- 60- 60- 13- 45- 30- 30- Po=0 0- Po=0 0- Po=0 0- Po=0 0-   \n+ Chloro -1.501.5 -1.501.5 -2 0 2 -2 0   \n(1mM) Po =0.49698 90- 601 Po=0.27464 42 28- 45- Po=0.05939 30- 1 21- Wash2 Po=0 0-1.50 1.5uh 川 5omm 01530 A 20 0 02040 Current (pA) Current (pA) Current (pA) 2s Current (pA) B 0.6 Control 18 。 Control ·+Pax (rd) eirhiat ： +Pax △ Wash1 △Wash1 ▲ +Chloro £ +Chloro 0.3-Wash 2 9 □Wash2 n=8 n=8 0L □ 中 + + + 厂 1 1 1 0 1 T 1 0 +20 +40 +60 0 +20 +40 +60 Voltage (mV) Voltage (mV) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0121566.g005 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Our data demonstrate that chloro blocks both BKs and RyRs inducing STOC abolishment and contraction occurrence. The contraction will counteract high concentration of chloro-induced relaxation of precontracted ASM. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we investigated the effect of BKs on chloro-induced relaxation in precontracted ASM.Two studies have shown that BKs mediated chloro-induced relaxation in precontracted ASM[1,2].Meanwhile,another work showed chloro blocked BK-mediated STOCs and BK blockers had no effect on chloro-induced relaxation in precontracted ASM, suggesting that BKs are not involved in chloro-induced relaxation [3].To resolve this apparent inconsistency,we first needed to know whether chloro can block BKs.We recorded ${ \\mathrm { C a } } ^ { 2 + }$ spark-activated BK currents (STOCs)and found that they were completely blocked by a specific blocker of BKs, IbTx (Fig.1B), suggesting that these STOCs are BK-mediated currents. Moreover, the ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Outside-out recording ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a7f220b527a2555832445c1db127ef334d681b43107a013994e4f2329e2b6a9.jpg",
+        "img_caption": [
+            "Fig6Extracts of 1mM chloro (from the extracellular side),single channel activities were partially inhibited.The $P o$ values and amplitudes of single channel currents were calculated as described in Fig.5.(B) The curves from7experiments show that the mean $P o$ (at 40 and $6 0 \\mathsf { m V }$ andamplitude (at $6 0 \\mathsf { m V }$ weredecreased. \\*denotes $p < 0 . 0 5$ .These single channel currents were completely blocked by pax $( \\mathsf { n } = 6 )$ , indicating these currents are BK currents.These results demonstrate that chloro partially inhibits BKs from the extracellular side. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0121566.g006 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "currents can also be inhibited by chloro in dose-dependent manner (Fig.1C; S1 Fig.),in agreement with the previous findings that chloro inhibited STOCs [3]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The inhibition of STOCs can be due to the inhibition of RyRs and/or BKs by chloro.In fact, chloro inhibited ${ \\mathrm { C a } } ^ { 2 + }$ sparks (Fig. 2; S2 Fig.)and caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ increases (Fig. 3; S3 Fig.), indicating that chloro blocks RyRs.This will be further supported by dual recording experiments of ${ \\mathrm { C a } } ^ { 2 + }$ sparks and STOCs (Fig.4).Thus,inhibition of chloro on RyRs will be one reason for the disappearance of STOCs.To further clarify whether the inhibition of STOCs was due to that chloro directly blocks BKs,we recorded single BK currents in inside-out and outside-out excised ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/94c67aa0064f63a0f1c1244e731d3218add52be3db39d9f4e039e330a22c2a21.jpg",
+        "img_caption": [
+            "Fig7.Roleofsinoducedforagesinprecontractedouse.Ciucedsedatetractoimosig Folowingct for $4 0 \\mathrm { m i n }$ IbTxwasthenaddedandthesameexperimentswereperformedTechro-inducedcontractionswereiibited,therelaxatiosereot affcted.(C)Averagednetchanges inforce from8experiments.IntheabsenceofIbTx,lowerconcentrations (31.6and $1 0 0 \\mu \\mathsf { M } _ { \\mathrm { , } } ^ { \\cdot }$ ofchloro induced cotractios were performed excepthatIbTxreplacedby paxand similar results were obtainedfrom 9 experiments.\\* denotes $p < 0 . 0 5$ $\\ntimes \\ast \\ast$ denotes $p < 0 . 0 0 1$ ; NS denotes $p > 0 . 0 5$ .Tocalculatetheetcontractileforces,theACHinducedpeakvaluewasasthereferencevel,hilethetotalvaueofACH-adblocker inducedeakalueilefervefoelaantalulatiedtaiateatsioeinoiducdfoati. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0121566.g007 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "patches. Chloro directly and completely blocked BKs from the intracellular side and partially from the extracelllar side (Figs.5and 6).These data indicate that chloro can block RyRs and BKs,resulting in STOCs to disappear.This implies that BKs would be involved in chloro-induced relaxation of precontracted ASM. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the next, we further observed the effect of BK blockers,IbTx and pax,on the force (Fig.7). In the absence of blockers,chloro induced additional contractions and then relaxations.This indicates that the contractions willresult from the blockade of BKs by chloro, however,the relaxations would be due to the blockade of both VDCCs and NSCCs by chloro [4,5]. To further confirm this conclusion,the same experiments were carried out following blockade of BKs with IbTx of Pax. Under this condition,chloro-induced contractions were inhibited (Fig. 7),which will not be due to $4 0 \\mathrm { m i n }$ waiting time (S7 Fig.),confirming that the chlorocaused contractions were due to its blockade on BKs.The contraction induced by chloro wil then counteract the following relaxations evoked by high concentrations of chloro.Thus, BKs willinvolve in chloro-induced relaxation.To further reveal the role of BKs,we observed the ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "force changes following the addition of pax and found that it induced a contraction (S8 Fig.), supporting the results that blockade of BKs by chloro willinduce contraction (Fig. 7). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this study,caffeine was used to test whether RyRs were inhibited (Fig.3; S3 Fig.).In fact, caffeine is a weak bitter tastant, thus,a question will be raised whether cafeine can stimulate T2Rs to induce ${ \\mathrm { C a } } ^ { 2 + }$ increases. Our experiments demonstrated that cafeine-triggered ${ \\mathrm { C a } } ^ { 2 + }$ increases willbe partially mediated by T2Rs because following RyR open by caffeine and blockade by ryanodine, caffeine still induced ${ \\mathrm { C a } } ^ { 2 + }$ increases (S6 Fig.), suggesting caffeine might cause ${ \\mathrm { C a } } ^ { 2 + }$ elevations via T2Rs.This was further supported by that the inhibition of $\\mathrm { I P } _ { 3 } \\mathrm { R }$ -PLC (S4 and S5 Figs.),the downstream signal pathway of T2Rs,resulted in decreases in caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ increases.However, why caffeine failed to evoke responses in the presence of $1 \\mathrm { m M }$ chloro (Fig.3),the reason would be because that chloro inhibited both $\\mathrm { I P } _ { 3 } \\mathrm { R s }$ [20] and RyRs, resulting in caffeine cannot induce ${ \\mathrm { C a } } ^ { 2 + }$ increases. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Although the inhibition of chloro on RyRs has been demonstrated in this study,which is not consistent with the previous results showing that chloro $( 0 . 1 \\mathrm { m M } )$ failed to inhibitan increase in ${ \\mathrm { C a } } ^ { 2 + }$ induced by $2 0 \\mathrm { m M }$ caffeine [2O]. This discrepancy may have occurred because: (1) the diffusion ofchloro into ASM cells in lung slices was limited compared to single cells,or (2) the concentration of chloro was not high enough (we used the higher concentration of $1 \\mathrm { m M } \\mathrm { \\cdot }$ ） ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Based on above interpretations,chloro can inhibit RyRs and $\\mathrm { I P } _ { 3 } \\mathrm { R } s$ abolishing caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ increases,however,why chloro induced a ${ \\mathrm { C a } } ^ { 2 + }$ elevation ( ${ \\mathrm { . } } 3 { \\mathrm { ~ F i g . } }$ ). The reason would be because that chloro can not only activate T2R-G protein-PLC- $\\mathrm { I P } _ { 3 } { \\cdot } \\mathrm { I P } _ { 3 } \\mathrm { R }$ pathway to induce ${ \\mathrm { C a } } ^ { 2 + }$ increases [1,5],but also inhibit $\\mathrm { I P } _ { 3 } \\mathrm { R } s$ to decrease $\\mathrm { C a } ^ { 2 + }$ that supported by our results that chloro blocked caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ increases partially via $\\mathrm { I P } _ { 3 } \\mathrm { R s }$ (Fig. 3; S4 Fig.). Thus,whether the chloro-induced ${ \\mathrm { C a } } ^ { 2 + }$ elevations occur or not would be determined by the degree of chloro-mediated direct inhibition of $\\mathrm { I P } _ { 3 } \\mathrm { R s }$ and activation of $\\mathrm { I P } _ { 3 } \\mathrm { R s }$ via T2R-G protein-PLC- $\\mathrm { I P } _ { 3 }$ （204号 $\\mathrm { I P } _ { 3 } \\mathrm { R }$ pathway. That degree will be related to chloro concentration.In this study, $0 . 1 \\mathrm { m M }$ chloro induced ${ \\mathrm { C a } } ^ { 2 + }$ increases.However, the detailed mechanism needs to be further investigated. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In summary,our data demonstrate that chloro blocks RyRs and BKs (completely from the intracelular side and partially from the extracellular side) to abolish STOCs.The blockade of BKs induces a contractive component that decreases but does not prevent chloro-induced complete relaxation of precontracted ASM.These findings imply that BKs involve in chloro-induced ASM relaxation and that the activators of BKs and chloro might be the potential bronchodilators. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "S1Fig.Chloro inhibits STOCs.(A) STOCs were recorded at $1 0 \\mathrm { m V }$ ,which were gradually inhibited by chloro.(B) The dose-dependent inhibition of amplitude and frequency from 5 cells. \\* denotes $\\textstyle P < 0 . 0 5$ (versus control); \\*\\* denotes $\\textstyle P < 0 . 0 1$ (versus control).These data show that chloro dose-dependently inhibits STOCs.   \n(PDF) S2 Fig. Chloro inhibits ${ \\mathbf { C } } { \\mathbf { a } } ^ { 2 + }$ sparks. ${ \\mathrm { C a } } ^ { 2 + }$ sparks from 8 cells were measured as described in Fig.2A.(A) The frequency and (B) amplitude were markedly inhibited by $0 . 1 \\mathrm { m M }$ chloro.\\* denotes $\\textstyle P < 0 . 0 5$ ；\\*\\*\\* denotes $\\begin{array} { r } { p < 0 . 0 0 1 } \\end{array}$ . These experiments demonstrate that low concentrations of chloro do not completely block, but rather inhibit RyRs.   \n(PDF) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "S3 Fig. Effect of chloro and caffeine on intracellular ${ \\mathbf { C } } { \\mathbf { a } } ^ { 2 + }$ levels. (A,B) Caffeine ( $\\mathrm { { 1 0 ~ m M } ) }$ repetitively triggered a similar transient ${ \\mathrm { C a } } ^ { 2 + }$ increase.(C,D) Chloro $( 0 . 1 \\mathrm { m M } )$ induced a ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "transient ${ \\mathrm { C a } } ^ { 2 + }$ rise.Following the addition of the same concentration of caffeine,a small ${ \\mathrm { C a } } ^ { 2 + }$ elevation was observed.These experiments demonstrate that chloro can induce ${ \\mathrm { C a } } ^ { 2 + }$ increases and inhibit the following caffeine-triggered ${ \\mathrm { C a } } ^ { 2 + }$ elevations. NS $: p > 0 . 0 5$ (PDF) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "S4 Fig. Effect of 2-APB on caffeine-induced ${ \\mathbf { C } } { \\mathbf { a } } ^ { 2 + }$ increases. (A) Caffeine ( $\\mathrm { { \\cdot } 1 0 ~ m M ) }$ repeatedly induced a similar ${ \\mathrm { C a } } ^ { 2 + }$ increase, which was inhibited by the $\\mathrm { I P } _ { 3 } \\mathrm { R }$ inhibitor 2-APB (B) $* * *$ $p < 0 . 0 0 1 ; \\mathrm { N S } ; p > 0 . 0 5$ .This result indicates that cafeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ elevations arise partially from $\\mathrm { I P } _ { 3 } \\mathrm { R }$ -mediated ${ \\mathrm { C a } } ^ { 2 + }$ release.   \n(PDF) S5 Fig.U73122 inhibits caffeine-induced ${ \\bf C a } ^ { 2 + }$ increases.(A) Caffeine ( $\\mathrm { { \\cdot } 1 0 ~ m M ) }$ -induced ${ \\mathrm { C a } } ^ { 2 + }$ increases were measured using fluo-4 AM and confocal microscope, which were inhibited by the PLC inhibitor U73122 (B) $* * *$ $\\begin{array} { r } { p < 0 . 0 0 1 } \\end{array}$ ; NS: $p > 0 . 0 5$ .This result suggests that PLC mediates caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ elevations.   \n(PDF) S6 Fig. Ryanodine inhibits caffeine-induced ${ \\mathbf { C } } { \\mathbf { a } } ^ { 2 + }$ increases.(A) Caffeine ( $\\mathrm { { 1 0 ~ m M } ) }$ and ryanodine $( 3 0 \\mu \\mathrm { M } )$ were used to open and block RyRs,respectively,which induced ${ \\mathrm { C a } } ^ { 2 + }$ increases measured with fluo-4 AM and confocal microscope.Following washout, caffeine-induced ${ \\mathrm { C a } } ^ { 2 + }$ increases were still observed.(B) The summary results from 10 cells. $* * *$ $p < 0 . 0 0 1$ ; NS: $p > 0 . 0 5$ . These data imply that caffeine can induce ${ \\mathrm { C a } } ^ { 2 + }$ elevations via RyR-independent pathway.   \n(PDF) S7 Fig. Chloro-induced force changes are reproducible.(A) A typical experiment performed as described in Fig.7A.(B) After washing out chloro and a $4 0 \\mathrm { m i n }$ rest period,an equivalent experiment was performed.(C) The summarized results.NS: $p > 0 . 0 5$ .These data indicate that chloro can time-independently induce biphasic changes in force.   \n(PDF)   \nS8 Fig.Pax induces contraction. (A) Following ACH-induced contraction reached a plateau,   \npax added and resulted in an additional contraction. (B) Summarized contractions from 4   \nrings.This result demonstrates that blockade of BKs results in contraction in ASM. \\*\\*:   \n$p < 0 . 0 1 ; ^ { * * * } \\colon p < 0 . 0 0 1$   \n(PDF) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The authors thank the reviewers'constructive comments on this manuscript ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Conceived and designed the experiments: LX YMZ YXW DG GJ GQ CZ QHL. Performed the experiments: MYW LX LT WBS XCL QJJ. Analyzed the data: MYW LX LT WBS XCL QJ JS YBP PZ MFY WC LQM KZ QHL. Contributed reagents/materials/analysis tools: YMZ YXW QHL.Wrote the paper: LX GJ QHL. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1.Deshpande DA,Wang WC,Mcllmoyle EL,Robinett KS,SchilingerRM,An SS,etal. Bitter taste receptors onairway smooth muscle bronchodilate by localized calcium signaling and reverse obstruction. NatMed.2010;16:1299-1304.doi: 10.1038/nm.2237PMID:20972434 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.An SS, Robinett KS, Deshpande DA, Wang WC,Liggett SB. Reply to: Activation of BK channels may notbe required for biter tastant-induced bronchodilation.Nat Med.2012;18: 650-651.doi: 10.1038/ nm.2734PMID:22561815 3.Zhang CH, Chen C,Lifshitz LM,Fogarty KE,Zhu MS,ZhuGe R.Activation of BK channels may notbe required for bitter tastant-induced bronchodilation.Nat Med.2012；18: 648-650;author reply 650-641. doi: 10.1038/nm.2733 PMID: 22561814 4. Zhang T,LuoXJ,Sai WB,Yu MF,LiWE,MaYF,etal.Non-selective cation channels mediate chloroquine-induced relaxation in precontracted mouse airway smooth muscle.PLoS One.2014; 9: e101578. doi: 10.1371/journal.pone.0101578 PMID:24992312 5. Zhang CH,LifshitzLM,UyKF,IkebeM,Fogarty KE,ZhuGeR.The cellularand molecular basisofbitter tastant-induced bronchodilation. PLoS Biol.2013;11: e1001501.doi: 10.1371/journal.pbio.1001501 PMID:23472053 6．Liu QH,Zheng YM, Korde AS,Yadav VR, Rathore R,WessJ,etal. Membrane depolarization causes a direct activation of G protein-coupled receptors leading to local ${ \\mathsf { C a } } ^ { 2 + }$ release in smooth muscle.Proc Natl Acad Sci US A.2009; 106: 11418-11423.doi: 10.1073/pnas.0813307106 PMlD: 19549818 7. LifshitzLM, Carmichael JD,Lai FA,Sorrentino V,Bellve K,Fogarty KE,etal.Spatial organizationof RYRsand BK channels underlying the activation of STOCs by $\\mathsf { C a } ^ { 2 + }$ sparks in airway myocytes.J Gen Physiol.2011; 138: 195-209.doi: 10.1085/jgp.201110626 PMID: 21746845 8. MalyszJ,Rovner ES,Petkov GV.Single-channel biophysical and pharmacologicalcharacterizations of native human large-conductance calcium-activated potassium channels in freshly isolated detrusor smooth muscle cells. Pflugers Arch.2013;465: 965-975.doi: 10.1007/s00424-012-1214-8 PMID: 23344746 9. KawanoR,TsujiY,SatoK,OsakiT,KamiyaK,HiranoM,etal.Automated parallelrecordingsof to logically identified single ion channels.Sci Rep.2013；3: 1995.doi:10.1038/srep01995 PMID: 23771282   \n10.Tuo QR,MaYF,Chen W,Luo XJ,Shen J,Guo D,etal. Reactive oxygen species induce a ${ \\mathsf { C a } } ^ { 2 + }$ -spark increase in sensitized murine airway smooth muscle cells.Biochem Biophys Res Commun.2013； 434: 498-502. doi: 10.1016/j.bbrc.2013.03.102 PMID: 23583396   \n11. Sai WB,Yu MF,Wei MY,Lu Z, Zheng YM,Wang YX,etal. Bittertastants induce relaxation of rat thoracic aorta precontracted with high ${ \\mathsf { K } } ^ { + }$ .Clin Exp Pharmacol Physiol.2014; 41: 301-308.doi: 10.1111/ 1440-1681.12217 PMID:24552423   \n12.Hou P,ZengW,GanG,LvC,GuoX,Zhang Z,etal.Inter-alpha/betasubunits coupling mediating preinactivationandaugmented activationof $\\mathsf { B K } _ { \\mathsf { C a } }$ (beta2). Sci Rep.2013; 3: 1666.doi: 10.1038/ srep01666 PMID: 23588888   \n13.AbdulaevIF,RudkouskayaA,Mongin AA,KuoYH.Calcium-activatedpotassiumchannels BKand IK1 are functionally expressed in human gliomas but do not regulate cell proliferation.PLoS One.2010； 5: e12304.doi: 10.1371/journal.pone.0012304 PMID: 20808839   \n14. SalkoffL, Butler A,Ferreira G,Santi C,Wei A.High-conductance potassium channels of the SLO family. Nat Rev Neurosci. 2006;7: 921-931.PMID: 17115074   \n15. AnwerK,ObertiC,PerezGJ,Perez-ReyesN,McDougallJK,Monga M,etal.Calcium-activated ${ \\mathsf { K } } ^ { + }$ （204号 channels as modulators of human myometrial contractile activity. Am JPhysiol.1993； 265: C976-985. PMID:8238323   \n16.Nelson MT,Cheng H, Rubart M,SantanaLF,Bonev AD,Knot HJ,etal. Relaxation of arterial smooth muscle bycalciumsparks.Science.1995;270:633-637.PMID:7570021   \n17. Semenovl, Wang B, Herlihy JT,Brenner R.BK channel beta1 subunits regulate airway contraction secondaryto M2muscarinicacetylcholine receptor mediated depolarization.JPhysiol.2014；589: 1803-1817.   \n18.Zhou XB,Wulfsen l,Lutz S,Utku E,SausbierU,Ruth P,etal.M2 muscarinic receptors induce airway smooth muscle activation viaa dual, Gbetagamma-mediated inhibition of large conductance ${ \\mathsf { C a } } ^ { 2 + }$ -activated $\\mathsf { K } ^ { ^ { + } }$ channel activity.JBiol Chem.2008； 283: 21036-21044.doi: 10.1074/jbc.M800447200 PMID: 18524769   \n19. Brenner R,Perez GJ,BonevAD,Eckman DM, Kosek JC,Wiler SW,etal.Vasoregulation by thebeta1 subunitof the calcium-activated potassium channel. Nature.2000；407:870-876.PMID:11057658   \n20. Tan X,Sanderson MJ.Bitter tasting compounds dilateairways byinhibitingairway smooth musclecalcium oscillations and calcium sensitivity.BrJPharmacol.2014；171: 646-662.doi: 10.1111/bph. 12460 PMID: 24117140 ",
+        "page_idx": 13
+    }
+]

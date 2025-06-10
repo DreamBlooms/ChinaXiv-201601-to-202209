@@ -1,0 +1,362 @@
+[
+    {
+        "type": "text",
+        "text": "乙肝病毒×与Tab1蛋白相互作用的体内外验证",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "于丽丽，胡博，李雪，朱乃硕(复旦大学生命科学学院 遗传工程国家重点实验室 微生物与分子免疫学实验室上海200438)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的借助实验室前期质谱分析技术和数据分析研究基础，采用免疫共沉淀 $( \\mathsf { C o - } | \\mathsf { P } )$ 和蛋白沉降实验(GST puII-down)验证HBVX蛋白与Tab1蛋白的相互作用，为进一步研究 $\\mathsf { H B x }$ 在HBV慢性感染致癌机制中的作用提供一定的实验依据。方法成功构建pGEX-2TK-GST-HBx质粒，对GST-HBx融合蛋白进行诱导表达，与 GST-beads 结合孵育，构建pcDNA3.1/myc-His(-)B-Tab1，转染 293T细胞使其表达，然后GSTpull-down体外试验验证二者的相互作用；构建pcDNA3.1/myc-His(-)B-Tab1和 $\\mathsf { p c D N A 3 . } 1 - 3 \\times \\mathsf { f } \\mid \\mathsf { a g { - } H B x }$ 真核表达质粒，共转染293T和HepG2 细胞使其表达，通过 $\\mathsf { C o - l P }$ 实验验证抗Myc抗体可以将HBx从细胞裂解液中沉淀下来，证实了它们在两种细胞系中存在相互作用。结果显示了HBx和Tab1在体内外条件下能够发生相互作用，为进一步明确HBVX蛋白功能及作用机制奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：HBV X蛋白；Tab1；Co-IP；GST pulI-down；相互作用中图分类号： 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ldentification of Protein-protein Interaction of hepatitis B virus X protein and Tab1 In vivo and in vitro ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*\\* YULi-li,HUBo,LIXue,ZHUNai-shuo (College of life science,Fudan University, Shanghai,2oo438,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:With the help of analysis of mass spectrometry and data analysis according to the preliminary laboratory basic research, we used Co-IP and GST pull-down methods to prove the interaction of HBV X protein with Tabl. In order to study the carcinogenic mechanism of HBx protein, we provided some experimental evidence for further study of the role of HBx in the carcinogenic mechanism of HBV chronic infection. We successfully constructed pGEX-2TK-GST-HBx plasmid, induced the expresson of GST-HBx fusion protein and then incubated with GST-beads,constructed pcDNA3.1/myc-His (-)B-Tab1 plasmid and then transfected 293Tcels to express Myc-Tab1.Finally the interaction of GST-HBx and Myc-Tabl was verified in GST pull-down test . Moreover,the eukaryotic expression plasmids including pcDNA3.1/myc-His (-) B-Tabl and pcDNA3.1-3 x flag-HBx were successully constructed,then were co-transfected into human embryonic kideny 293Tcells and HepG2 cells to express fusion protein,further Co-IP test was demonstrated that the anti-Myc antibody could precipitate HBx from the cellysate,and confirmed their intracellular interaction in two human cellines. In conclusion,all results show that HBx and Tabl could interact invitro and in vivo,this research also established foundation to reveal the function and mechanism of HBV X protein. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:HBV X Protein; Tab1; Co-IP；GST pull-down；Interaction ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乙型肝炎病毒HBV可以持续感染肝细胞，是严重危害人身体健康的病毒，其感染除引起急慢性乙型肝炎、肝硬化，甚至是肝癌。既往研究也表明慢性HBV感染是导致原发性肝癌的主要因素[]，约 $80 \\%$ 的 HCC 与HBV 感染有关[2]，生物体感染 HBV 后可以通过复杂的机制导致 HCC（hepatic celller cancer）的发生和发展[3.4.5]。作为 HBV 基因组中最小的开放阅读框的HBVX（HBx）蛋白，由154个氨基酸，两个功能结构域组成。在HBV 相关性肝癌的发生发展中具有重要的作用，HBx可以作为反式激活作用因子或原癌基因来促进肿瘤的发生发展[7,8]，同时研究也表明 HBx蛋白在乙肝病毒的感染、细胞周期变化与凋亡、肝癌发生发展过程中与宿主内的多种蛋白发生相互作用9，因此 HBx蛋白被认为是 HBV 致病机制过程中的一个重要的多功能效应因子[10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tab1 是一种重要的构架蛋白，最初是因其能够与TAK1蛋白相互作用被发现命名{1l]。人Tab1蛋白由 504个氨基酸组成，主要功能是能募集其它蛋白形成复合物，但相应蛋白的活化却不需依靠 Tabl的催化[12]。Tab1可以与 TAK1结合形成复合物，并导致 TAK1 自我磷酸化，研究发现 TAK1的激酶活性无论在酵母还是哺乳动物中都是与Tab1 相关[12]。TAK1的活化可以激化细胞内多种信号通路，例如 NF-kB、MAP[13]等，这些信号通路与人类疾病的关系也日益受到研究关注。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前 HBx作为一种重要的转录激活作用分子，介导了多种信号转导通路，包括炎症、免疫反应、细胞调亡等生理病理过程以及细胞周期调控与细胞分化等过程。但是目前绝大多数的研究报道都是围绕着 HBx蛋白对胞内多条信号通路间接影响，对其直接作用的靶蛋白报道还是比较少。因此针对乙型肝炎病毒感染致病的分子机制研究一直以来从未间断过。本实验结合实验室前期质谱大数据基础，旨在用免疫共沉淀和蛋白沉降实验方法来验证乙肝病毒X蛋白与Tab1在体内外的相互作用，为接下来探讨HBx对HBV 感染后细胞信号通路影响的分子机制奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料和试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大肠杆菌 DH5α 和 BL21、293T 细胞、HepG2 细胞、真核表达质粒 pcDNA3.1-3×flag-HBx、细胞 cDNA模板、pcDNA3.1/myc-His(-)B、 pGEX-2TK 均为本室保存。 $2 \\times$ hlingene Pfu PCR masterMix（上海惠凌生物）、EcoRI、Sma I、BamHI(TaKaRa 公司)、T4 DNA 连接酶(Bio labs,New Eng land)、无内毒素质粒提取试剂盒和凝胶回收试剂盒(购自北京天根公司)、DNA转染试剂盒(Biotool 公司)、ECL 显色试剂盒(苏州新赛美生物技术有限公司)、Anti-flag Beads（Sigma）、Glutathione-Sepharose 4B 购自美国 GEHealthcare 公司、抗 Myc 标签的多克隆抗体(Sigma)、HRP 标记山羊抗兔IgG(CellSignaling)等均为商业产品，DNA Marker(MD2K,MD15K)(北京全式金生物公司)；氨苄青霉素(Amp)、琼脂糖、以及其他常用化学试剂均为国产分析纯；PCR引物合成工作由苏州金唯智生物有限公司完成，测序工作由上海睿迪生物科技有限公司完成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1细胞培养 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "293T细胞和HepG2 细胞在体积分数为 $10 \\%$ 胎牛血清的 DMEM 培养基中，于 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 、体积分数为 $5 \\%$ CO2 饱和湿度培养的细胞二氧化碳培养箱中培养，用质量分数为 $0 . 2 5 \\%$ 胰酶常规消化传代。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 重组真核表达质粒 $\\mathrm { p c D N A 3 . 1 / m y c - H i s ( - ) B { \\mathrm { - } } T a b 1 }$ 的构建",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据空载体 pcDNA3.1/myc-His(-)B 的多克隆位点和 Tab1 全长编码序列设计引物，Tab1 上游引物：$5 ^ { \\prime }$ -GGAATTCCGCAGGGGTTCCTCCAAG ${ - 3 3 ^ { \\prime } }$ ；下游引物: $5 ^ { \\prime }$ -CCCAAGCTTGGCGGTGCTGTCACCACGCTCTG ${ - 3 3 ^ { \\prime } }$ 。上、下游引物分别引入EcoRI 和 Hind III 酶切位点，以 293TcDNA文库为模板克隆Tab1全长序列，取PCR扩增产物用 $1 \\%$ 的琼脂糖凝胶电泳检测并回收纯化目的片段，EcoRI和 HindIII 双酶切空载和 Tabl，回收的 Tab1 定向克隆到空载中，转化大肠杆菌感受态细胞DH5α，经平板培养，随机挑取单克隆进行扩大培养。最后提取质粒进行双酶切鉴定和菌落PCR鉴定，将初步验证为含有阳性转化子的单菌落送公司测序，测序结果与GenBank 中公布的序列对比，获得重组真核表达质粒，命名为 pcDNA3.1/myc-His(-)B-Tab1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 重组原核表达质粒 pGEX-2TK-GST-HBx 的构建",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据空载体 pGEX-2TK-GST 的多克隆位点和 HBx 全长编码序列设计引物，HBx 上游引物：5'-TCCCCCGGGAATGGCTGCTCGGGTGTGCTGC- $\\cdot 3 ^ { \\prime }$ ；下游引物: $5 ^ { \\prime }$ 1CGAATTCTTAGGCAGAGGTGAAAAAGT ${ - 3 3 ^ { \\prime } }$ 。上、下游引物分别引入SmaI和EcoRI酶切位点，以本实验室保存的 pcDNA3.1-3×flag-HBx 为模板克隆 $\\mathrm { H B x }$ 全长序列，取 PCR 扩增产物用 $1 \\%$ 的琼脂糖凝胶电泳检测并回收纯化目的片段，EcoRI和 SamI双酶切空载和 HBx，回收的HBx 定向克隆到空载中，转化大肠杆菌感受态细胞 DH5α，经平板培养，随机挑取单克隆进行扩大培养。最后提取质粒进行双酶切鉴定和菌落 PCR 鉴定，将初步验证为含有阳性转化子的单菌落送公司测序，测序结果与GenBank中公布的序列对比，获得重组真核表达质粒 pGEX-2TK-GST-HBx。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4GST-HBx融合蛋白的诱导表达及纯化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将pGEX-2TK-GST-HBx 及空载体 pGEX-2TK 分别转化大肠杆菌感受态 BL21，挑单克隆于 $3 ~ \\mathrm { m L }$ LB 培养液中培养过夜，以 $10 \\%$ 接种量接种于 $2 0 0 \\mathrm { m L }$ LB中， $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 、 $2 2 0 ~ \\mathrm { r / m i n }$ 培养约 $^ { 5 \\mathrm { h } }$ ，至OD600为0. $6 \\sim 0$ ．8，加入诱导剂IPTG（终浓度 $0 . 5 \\mathrm { m m o l / L } \\rangle$ ）， $2 5 ^ { \\circ } \\mathrm { C } \\mathrm { ~ , ~ } 1 6 0 \\mathrm { \\ r / m i n }$ 过夜诱导．诱导结束后以 $4 ^ { \\circ } \\mathrm { C }$ ，$5 0 0 0 \\mathrm { g }$ 离心10min 后弃上清，收集菌体。取适量体菌，加入细胞裂解液，充分重悬，超声破碎后， $4 ^ { \\circ } \\mathrm { C }$ ，12000rpm 离心 $2 0 \\mathrm { { m i n } }$ ，取上清换新 EP 管再次12000rpm 离心 $2 0 \\mathrm { { m i n } }$ ，直到没有菌体沉淀为止，轻轻吸取上清液。按 Glutathione-Sepharose 4B 操作说明书进行蛋白纯化，获得结合有 GST-HBx 融合蛋白或GST蛋白的Beads， $4 ^ { \\circ } \\mathrm { C }$ 短时间放置，待与转染了pcDNA3.1/myc-His(-)B-Tab1的 293T 细胞裂解液共孵育。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5 Myc-Tab1 与 Flag-HBx 免疫共沉淀 $\\scriptstyle ( \\mathtt { C o - I P } )$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用于转染的pcDNA3.1/myc-His(-)B-Tab1和 $\\mathrm { p c D N A } 3 . 1 \\mathrm { - } 3 \\times \\mathrm { f l a g } \\mathrm { - } \\mathrm { H B x }$ 真核表达质粒及空载体用无内毒素小提中量质粒提取试剂盒进行提取，具体操作步骤按照试剂盒内说明书进行。 $\\mathrm { p c D N A } 3 . 1 \\mathrm { - } 3 \\times \\mathrm { f l a g } \\mathrm { - } \\mathrm { H B x }$ 和pcDNA3.1空载分别与 pcDNA3.1/myc-His(-)B-Tab1共转染 293T细胞以及HepG2两种细胞系,转染 $2 4 \\sim$ $3 6 \\mathrm { ~ h ~ }$ 后，使用碧云天Western及IP 细胞裂解液裂解细胞，收获细胞总蛋白。取 $8 0 \\mu \\mathrm { L }$ 与 $2 0 \\mathrm { u l }$ $5 ~ \\times$ SDS-PAGE 蛋白上样缓冲液 $1 0 0 ^ { \\circ } \\mathrm { C }$ 煮沸 $1 0 \\mathrm { m i n }$ ，此样品做为Western blot 的对照（称为Input）。剩余细胞裂解液与预先洗涤处理好的Anti-flagBeads $4 ^ { \\circ } \\mathrm { C }$ 共孵育4h，共孵育后放置在磁力架上弃去上清液体，PBS（预先加入蛋白酶抑制剂）洗涤磁珠2遍，每遍 $5 \\mathrm { m i n }$ 。洗过的beads 重悬于 $5 0 ~ \\mathrm { ~ \\textmu ~ L ~ 1 ~ } \\times$ SDS-PAGE蛋白上样缓冲液， $1 0 0 \\mathrm { ~ \\textdegree ~ }$ 煮 $1 0 \\mathrm { m i n }$ ，放置在磁力架上保留上清液称为 IP。IP上清液及预留的 Input 同时进行 SDS-PAGE 电泳，电泳结束后将蛋白电转印至硝酸纤维素膜，然后进行 Westerm blotting，细胞裂解液及IP上清液均同时用抗Myc 标签抗体（兔源）检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6 Myc-Tab1 与 GST-HBx 的蛋白沉降实验(GST pull-down)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将吸附有 GST-HBx 融合蛋白和 GST 的 Glutathione-Sepharose 4B beads $2 0 \\mu \\mathrm { L }$ 加入离心管中，用 PBS洗涤3 次后加入 pcDNA3.1/myc-His(-)B-Tab1真核表达的 293T 细胞裂解液， $4 ^ { \\circ } \\mathrm { C }$ 结合 $^ { 4 \\mathrm { h } }$ 后， $3 0 0 0 \\mathrm { r / m i n }$ $4 ^ { \\circ } \\mathrm { C }$ 离心 $5 \\mathrm { m i n }$ ，弃上清。再用裂解液洗 Sepharose 珠子4次，每次 $1 0 \\mathrm { m i n }$ ，吸净上清。洗脱完毕的Sepharose beads 加入 $1 \\ \\times \\mathrm { S D S  – P A G E }$ 上样缓冲液，煮沸 $1 0 \\mathrm { m i n }$ ，电泳后用抗 Myc 标签抗体进行Westernblotting 免疫印迹分析，在此实验中GST 蛋白组做为阴性对照组。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果和分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1pcDNA3.1/myc-His(-)B-Tab1重组质粒构建及表达鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以实验室保存的293TcDNA为模板，PCR扩增获得Tab1全长编码序列(1515个核苷酸），经 $1 \\%$ 琼脂糖凝胶电泳检测，DNA片段大小与预期的一致（图1）。将PCR产物酶切插入到载体中，重组质粒pcDNA3.1/myc-His(-)B-Tab1 双酶切鉴定（EcoRI和 Hind II）及菌落PCR鉴定结果（图2）都产生与目的条带大小相符的片段。测序结果表明，重组质粒中插入的序列完全正确。构建成功的质粒转染293T细胞对是否能表达目的片段进行鉴定，用抗 Myc 抗体进行westerm bloting 检测结果如图3，结果表明构建的质",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粒能正常表达目的片段大小相符的蛋白。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2fcdb7b1f07a4e29d84a7a3d5d0c441355986cbe71b97eedc4e52ebfd227c946.jpg",
+        "img_caption": [
+            "图1Tab1的PCR 产物(M1,Trans 15000 DNA Marker;Tab1PCR 产物；M2,Trans 2000 DNA Marker)Fig.1 PCR products of human Tab1(M1,Trans 15000 DNA Marker;Tab1of PCR；M2,Trans 2000 DNA Marker)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ce16ef2eec7159f62971f06416a3de8f7810f3b1d4ff5d6a72af930b24f8085.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2 pcDNA3.1/myc-His(-)B-Tab1的酶切鉴定和菌落 PCR鉴定（A，双酶切鉴定 M1,Trans1500DNAMarker;1，空载体；2,双酶切产物；B, 菌落 PCR 鉴定 M1,Trans15000 DNA Marker；单菌落1-5；M2，Trans2000 DNAMarker)   \nFig.2 Restriction enzyme digestion and colony PCR identification of pcDNA3.1/myc-His $( - )$ B-Tab1 （A， Double enzyme digestion identificatio.asoaker;EptyctorDubdigestioroducts，aoaker；oR identification.M1,Trans 15000 DNA Marker;Clone 1-5；M2,Trans 2000 DNA Marker) ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd16095bb2820e16248d3247ce8169faa1e3469b50c7e8987102c1ebaa5f48f5.jpg",
+        "img_caption": [
+            "图3pcDNA3.1/myc-His(-)B-Tab1的表达鉴定",
+            "Fig.3Expression identification of pcDNA3.1/myc-His(-)B-Tab1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2pGEX-2TK-GST-HBx 重组质粒构建",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以实验室保存的 $\\mathrm { p c D N A } 3 . 1 \\mathrm { - } 3 \\times \\mathrm { f l a g } \\mathrm { - } \\mathrm { H B x }$ 为模板，PCR 扩增获得 HBx 带有酶切位点的全长编码序列，经 $1 \\%$ 琼脂糖凝胶电泳检测，DNA片段大小与预期的一致（图4）。将PCR产物酶切插入到载体中，重组质粒 pGEX-2TK-GST-HBx 双酶切鉴定（SmaI 和 EcoRI）及菌落PCR 鉴定结果（图5）都产生与目的条带大小相符的片段。测序结果表明，重组质粒中插入的序列完全正确。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d7f446bdd7326167b18a9ec251b507dfef03d9edcd88bb871bd414600d97e4e.jpg",
+        "img_caption": [
+            "图 $4 H B x$ 的 PCR 产物(M,Trans 200O DNA Marker;HBx，PCR产物)Fig.4 PCR products of HBx (M1,Trans 20o0 DNA Marker;HBx products of PCR)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/86ac7216cf87a4162d61d2ef0414f58944adb3ec4313cb480a534a67daa80424.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5pGEX-2TK-GST-HBx的酶切鉴定和菌落PCR鉴定（A，双酶切鉴定M1,Trans1500DNAMarker;1,空载体；2，双酶切产物；M2，Trans 200 DNAMarkerB，菌落PCR 鉴定M1,Trans15000 DNA Marker；单菌落1-6；M2，Trans 2000 DNAMarker) Fig.5RestrictionenzymedigestionandcolonyPCRidentificationofGEX-2TK-GST-HBx（A，Doubleenzymedigestionidentification. M1,Trans150arker;mptyetor;ubledigestioprodcts;ansoarker；Boyidntiica Trans 15000 DNA Marker;Clone 1-6；M2,Trans 2000 DNA Marker) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3GST-HBx融合蛋白的诱导表达及纯化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "pGEX-2TK-GST-HBx 重组阳性质粒转化 BL21 菌，应用终浓度为 $0 . 5 \\mathrm { m m o l / L }$ 的IPTG, $2 5 \\mathrm { { ^ \\circ C } }$ 诱导表达过夜，取细菌总蛋白分析诱导表达情况可见与目的蛋白大小一致的条带（图6），诱导表达的菌超声后直接取上清液挂Beads，挂Beads 后取部分Beads 与 $1 \\times$ SDS-PAGE蛋白上样缓冲液 $1 0 0 ^ { \\circ } \\mathrm { C }$ ，煮 $1 0 \\mathrm { { m i n } }$ 后，SDS-PAGE 检测挂 Beads 结果，检测结果(图7)表明，表达的GST-HBx 分子量大小一致，且可以在上清中获得足够的可溶表达产物，但是融合蛋白存在着降解情况。处理好的 Beads 短时间放置在 $4 ^ { \\circ } \\mathrm { C }$ 备用，待与转染 pcDNA3.1/myc-His(-)B-Tab1的 293T 细胞的 Myc-Tab1 细胞裂解液共孵育。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/600ee6f8e900f0b3ec062b73accbdd1eaff5e440d1ba82862bd52bd82debb498.jpg",
+        "img_caption": [
+            "图6",
+            "图7"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图 $6 6 5 T - H B x$ 融合蛋白的诱导表达(M,蛋白分子量 Marker；1-3，GST-HBx诱导表达；4-6，GST诱导表达).  \nFig.6PTGIucGsioteepsi(roteker;-3GdctiofGx46GdG.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4Myc-Tab1与Flag-HBx 免疫共沉淀（ $\\scriptstyle ( 0 - 1 P )$ 试验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将带有 Myc 标签的 Tab1 和带有 Flag 标签的 HBx 质粒共转染 293T 细胞以及 HepG2 细胞，实验组（共转染 $\\mathrm { p c D N A } 3 . 1 \\mathrm { - } 3 \\times \\mathrm { f l a g } \\mathrm { - } \\mathrm { H B x }$ 和 pcDNA3.1/myc-His(-)B-Tab1）细胞裂解液；对照组（共转染（20 $\\mathrm { p c D N A } 3 . 1 \\mathrm { - } 3 \\times$ flag空载/pcDNA3.1-myc-His(-)B-Tab1）细胞裂解液。用抗 FLAG 抗体(鼠源）免疫沉淀(IP)Flag-HBx,用抗 Myc 抗体（兔源）做 Westembloting 分析，检测免疫沉淀复合物中是否含有Tab1。在293T细胞中进行的Co-IP实验结果表明，用抗FLAG 抗体可以将 Myc-Tab1 从共转 pcDNA3.1- $. 3 \\times$ flag-HBx 和pcDNA3.1/myc-His(-)B-Tabl 的细胞裂解液中沉淀下来，用抗 Myc 抗体可检测到 Myc-Tab1，而共转染1 $\\mathrm { \\texttt { o c D N A 3 . l - 3 } } \\mathrm { \\times f l a }$ g 空载体和pcDNA3.1-myc-His(-)B-Tab1 的 IP 裂解液用抗 Myc 抗体检测无信号（图8）。结果表明 Tab1 可以与 HBx 结合，而不与 FIAG 标签结合，说明 Tab1 和 HBx 在体内存在特异性的相互作用。同样的方法在 HepG2 肝癌细胞系进行的Co-IP 实验结果也表明 Tab1 可以与 HBx 结合，而不与 FlAG 标签结合（图9），说明 Tab1 和 HBx 在 HepG2 细胞体内也存在相互作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6895c6b8edf2c9003df24825103b0b5f040f5650d593dc4dd9c459fe6b5dcf7f.jpg",
+        "img_caption": [
+            "图8Tab1与HBx在293T细胞内的相互作用"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/938d273818e37e36fd158a77f5a100d3c1002bfa77351a11e1c0703ddd9a39a8.jpg",
+        "img_caption": [
+            "Fig.8Interactionbetween Tab1andHBxin293Tcellsby Co-IP ",
+            "图9Tab1与HBx在HepG2细胞内的相互作用"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 Myc-Tab1 与 GST-HBx 的蛋白沉降实验( GST pulI-down)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将预先结合有 GST-HBx 蛋白的 Beads 以及GST 蛋白分别与真核表达的 Myc-Tab1 的细胞裂解液混合孵育后进行GST pull-down 实验，同时以GST 作阴性对照。结果表明（图10），Myc-Tab1 可与GST-HBx 相互作用，而不与 GST 结合，说明 Tab1 在体外能特异性结合 HBx。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5653f2e0271ec8603be159b9b0c572481ed48dcb25df7a63dce64891bfbd7d8.jpg",
+        "img_caption": [
+            "Fig.9 Interaction between Tab1 and HBx in HepG2cells by Co-IP ",
+            "图10Tab1与 $H B x$ 在体外的相互作用",
+            "Fig.10Interactionbetween Tab1 andHBx invitro "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "HBx 被认为是 HBV 致病机制中的一个重要多功能因子。目前针对 HBx体内外研究表明，HBx 在控制细胞增殖和活性中发挥了重要作用[14,15,16]，并且在 HBV 感染导致 HCC的发生发展过程中发挥了直接促癌作用[17]。例如，HBx 可对多种癌基因具有反式激活作用，其中包括c-myc、ras、c-fos等，还可以调节多种入核转录因子如NF-KB、AP-1、c-EPB等，进而对肝细胞的的增殖、转化、凋亡多种信号级联通路产生多环节的刺激性影响，如 PI3K/AKT、JAK、STAT、MAPK[18]等信号通路。这些通路又相互影响形成一个极其复杂的信号网络，使 HBx对肝细胞的影响逐级放大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "关于Tab1的研究，最初是作为TAK1的相互作用蛋白被发现的,Tab1能直接与TAK1互作后激活IKK，从而引起NF-kB的活化；换句话说是Tabl与TAK1相结合并使其活化，同时研究还发现Tab1的羧基末端有个经过修饰的保守区域，使它既能够结合并激活属于MAPKKK家族的TAK1，通过经典的三级激酶途径调节 p38 等的的活性；同样，这个保守羧基末端也能帮助 Tabl 直接与 MAPK 家族的 p38α相结合，导致 $\\mathtt { p } 3 8 \\mathrm { a }$ 的自我磷酸化，从而使其激活[19,20]。虽然目前对 HBx 的信号通路的研究也比较多，但是对于 HBx 具体如何介导信号转导的深入研究还比较少，特别是关于 HBx 在信号转导通路中直接相互作用分子的研究还比较少，结合目前对 HBx 以及 Tab1 的功能调节作用研究，猜测 Tab1 在 HBx 介导 HCC 发生发展中的相关信号通路有重要的研究意义，对于进一步探讨 HBx在 HCC 发生发展中的作用及其分子机制有重大发现意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文利用 Co-IP 和GSTpull down 在体内外对 HBx 和 Tab1 相互作用进行进一步验证。首先构建了HBx 的原核和真核表达质粒，Tab1 真核表达质粒，然后通过蛋白沉降实验(pull-down)，证明了它们可以在体外相互作用；并进一步将 HBx 和 Tab1 共转染 293T 细胞和 HepG2 肝癌细胞，进行免疫共沉淀实验(Co-IP)，结果显示 Tab1 在体内环境下也可以有效地结合 HBx，进一步说明了它们之间相互作用的可靠性。根据实验结果推测 HBx 在 HBV 感染导致的信号转导中，可能是通过直接结合 Tab1来激活相关的信号通路，这些研究结果将为接下来将进一步探讨 HBx与Tab1参与的信号通路的功能提供实验依据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Szmuess,etocadtiuseefosatioogol99.   \n[2]Cromlish,J.A.Hepaitissiducedtoclararcaossblesfordsiobg99)4.   \n[3]M.LevreroJucn-Roi.echassofVucedpatocellarcarcioa[J].Jpatol,,64(1uppl):1.   \n[TianYgtoo pathogenesis.Mol Cell Biol,2013,33(15): 2810-2816.   \n[5ogbls 223-230.   \n[6GongDC in vivo. Viruses,2013,5(5): 1261-1271.   \n[7]F [8]WangY [9] Bouchard MJ,SchneiderRJ.The enigmatic X gene of hepatitis B Virus.JVirol,2004,78(23):12725-34.   \n[0 alterations and sequence variations. Carcinogenesis,2013,34(4): 787-798.   \n[1]a: [12]Shibuya H,Yamaguchi K,Shirakabe K,et al.Tabl:an activator of the TAK1 MAPKKK in TGF- $\\beta$ signal transduction[J]. Science,1996,272(5265 1179-1182.   \n[13Ysukeatse [14Breotistttsotislle \"occult\"? Hepatology,2001,34(1): 194-203.   \n[15]KleinNP,BouchardMJ,WangLHSrciasesivolvedinepatitisBviusreplicatio.EMBOJ999,18(18):-07.   \n[16]Yen TS.Hepadnaviral XProtein: Review of Recent Progress.JBiomed Sci,1996,3(1): 20-30.   \n[17]BouchardMJ,SchneiderRJ.TheenigmaticXgeneofhepatitisBvirus.JourmalofVirology,2004,78(23):12725-34.   \n[8ZiBd 345-352.   \n[19] Shibuya H, Yamaguchi K,Shirakabe K,et al.Tabl: an activator of the TAK1 MAPKKK in TGF- $\\beta$ signal transduction[J]. Science,1996,272(5265): 1179-1182.   \n[20KishitKciedroteasesciaedtooctio 2000,275(10): 7359-7364. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

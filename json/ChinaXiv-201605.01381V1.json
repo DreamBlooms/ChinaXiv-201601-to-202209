@@ -1,0 +1,804 @@
+[
+    {
+        "type": "text",
+        "text": "Electrophysiological evidence for the effects of unitization on associative recognition memory in older adults ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhiwei Zhenga,b, Juan Lia,c.d,\\*, Fengqiu Xiaoe, Lucas S. Brosterf, Yang Jiangf ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CenteroAginoKybatorftalaltiuteofhgsedefcesng   \nb UniversityofChineseAcademyofciences,Beijing001China   \n‘Magnetic ResonanceImaging Research Center,InstituteofPsychology,Chinese AcademyofSciences,Beijing001,China   \ndStateKeyLboratoryfinndCognitiveSienceIstituteofiopscsineseAcademyofSienceseiigina   \neInstituteofDevelopmentalPsychologySchoolofPsychologyBeijingNormalUniversityBeijing00875,China   \nfDepartment of Behavioral Science,University of Kentucky Collgeof Medicine,Lexington,KY,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 7 November 2014   \nRevised30March2015   \nAccepted 31 March 2015   \nAvailable online 6 April 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nUnitization   \nAssociative recognition   \nAging   \nFamiliarity   \nEvent-related potentials ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Normalaging is associated with greater decline in associative memory relative to item memory due to impaired recollection.Familiarity may also contribute to associative recognition when stimuli are perceived as a‘unitized'representation.Given that familiarity is relatively preserved in older adults,we explored whether age-related associative memory deficits could be attenuated when associations were unitized (i.e.,compounds) compared with those non-unitized (i.e.,unrelated word pairs). Young and older adults performed an associative recognition task while electroencephalogram (EEG) was recorded. Behavioral results showed that age differences were smaller for recognition of compounds than for unrelated word pairs.ERP results indicated that only compounds evoked an early frontal old/new effect in olderadults.Moreover,the early frontal old/new effect was positively correlated with associative discrimination accuracy.These findings suggest that reduced age-related associative deficits under unitized condition may be associated with the presence of familiarity-based retrieval of compounds in older adults. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2015 Elsevier Inc.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dual-process theories propose that recognition memory is supported by two processes: familiarity and recollection (e.g, Mandler,198O;Yonelinas,2002). Familiarity is a fast-acting process thought to act without retrieval of the details of the relevant stimulus or event being processed.Recollection refers to a more deliberate process that entails conscious retrieval of the details of the stimulus or event being processed.It has been assumed that familiarity and recollection make differential contributions to item andassociative recognition.Whereas both familiarityand recollection can support the item recognition,only recollection can support the associative recognition (Yonelinas,2oo2).In a typical associative recognition task,the participants study unrelated word pairs during encoding (e.g.，watch-grape， pepper-map， tigercandle),and make a distinction between the intact pairs (e.g., watch-grape) and the rearranged pairs (e.g., pepper-candle) during retrieval. Performing this task accurately requires recollection because item familiarity is equal for intact pairsand rearranged pairs (Mecklinger & Jäger, 2Oo9),and only recollection can support the retrieval of relational representations(Cohn，Emrich，& Moscovitch, 2008). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is well established that normal aging is associated with episodic memory decline.The associative deficits hypothesis (ADH) attributesage-related memory impairments to difficulties in creatingand retrieving associations between single units of information inolder adults (Naveh-Benjamin，2OoO). Greater decline in associative memory than item memory in older adults has been demonstrated using a wide range of materials (see Old & NavehBenjamin,2oo8,for a meta-analysis).From the perspective of dual-process theories,disproportionate decline in associative memory relative to item memory in olderadults is due to impaired recollection despite relativelypreserved familiarity (Daselaar, Fleck，Dobbins，Madden，& Cabeza，2Oo6；Howard，BessetteSymons, Zhang,& Hoyer, 2006；Yonelinas,2002；but see Wang, de Chastelaine, Minton,& Rugg, 2012). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Though a number of studies support the proposal that associative recognition memory is supported solely by recollection (Donaldson & Rugg，1998，1999；Hockley & Consoli，1999; Yonelinas,1997)，recent studies have challenged this view by demonstrating that familiarity can also contribute to associative recognition when to-be-remembered stimuli are perceived asa single integrated or“unitized\"representation (Bader,Mecklinger, Hoppstadter,& Meyer,201O;Diana,Van den Boom,Yonelinas,& Ranganath，2011；Diana，Yonelinas，& Ranganath，20o8；Jäger & Mecklinger，2009;Jäger，Mecklinger,& Kipp，2006；Rhodes & Donaldson,2007,20o8；Tibon, Gronau, Scheuplein,Mecklinger, & Levy，2014;Yonelinas,Kroll,Dobbins,& Soltani,1999),which is referred to as“unitization hypothesis”(Quamme,2OO4).Here, unitization means a condition in which two or more separate items are integrated into a whole unit (Graf & Schacter, 1989). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Further studies have demonstrated that associative memory performance in amnesic patients with more severe impairment inrecollection than in familiarity could benefit from enhanced engagement of familiarity during the retrieval phase due to unitization （Diana，Yonelinas,& Ranganath，2O1O；Giovanello, Keane,& Verfaellie,20o6;Quamme,Yonelinas,& Norman, 2007). For instance,Giovanello et al.(2oo6) first confirmed that the compound words (e.g.,traffic-jam),one kind of pre-experimentally unitized association,could induce a more familiarity-based judgment than could the unrelated word pairs (e.g.,table-street). Subsequently，they observed that amnesic patients exhibited better associative recognition on compound words relative to unrelated words pairs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ifage-relatedassociativedeficitsmay beattributed to impaired recollection,could older adults'performance be improved when associative recognition is supported by familiarity,as in the amnesic patients? Three recent studies examined this question,and their findingsare incompatible. Jäger，Mecklinger，and Kliegel (2010）did not find a facilitation effect of unitization for older adults;in contrast,they found that older adults performed worse in associative recognition of unitized face pairs compared with unrelated face pairs,which was attributed to that unitization processes were impaired in the older adults.In contrast,Ahmad, Fernandes,and Hockley(2015), Bastin et al. (2013) demonstrated that age differences in associative memory were significantly reduced under unitized encoding condition.Unfortunately,two of these studies did not reliably estimate the independent contributions of familiarity and recollection to associative recognition in older adults (e.g.，Ahmad et al.，2015； Jäger et al.，2010). Although Bastin et al.(2O13） found that the contribution of familiarity was greater in the unitized condition than in the nonunitized condition in olderadults in a receiver operating characteristics(ROCs)analysis,theiranalysiswas exploratoryas the number of trials was small for a standard ROCs analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The present study was designed to further explore whether age-related associative memory deficits could be alleviated when stimuli could be unitized during a study phase.In addition,it was designed to discern whether improved associative recognition performance was accompanied by enhanced engagement of familiarity-related retrieval processes.To this end,we compared the associative recognition of compound words with unrelated word pairs in youngand older adults.The compound words used represent pre-experimental associations,are considered to reflect a single unit (Rhodes & Donaldson,2oo7),and hence are well-suited to create a unitized condition (Ahmad et al.,2O15;Giovanello et al., 2006). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Event-related potentials (ERPs）provide an effective way to record the time course of processes associated with episodic memoryretrieval.ERP studies of young adults have identified several old/new effects characterized by more positive-going deflections for correctly classified old items than correctly rejected new items. The early frontal old/new effect,maximal at bilateral frontal scalp between around 3oo and $5 0 0 \\mathrm { m s }$ ，has been thought to reflect familiarity-based recognition (Friedman & Johnson, 2Ooo; Rugg & Curran,20o7;but see Paller,Voss,& Boehm,2007),and the parietal old/new effect maximal at left parietal regions and occurring between500and $8 0 0 \\mathrm { m } s$ isbelieved to reflect recollection-based recognition (Rugg & Curran,2OO7). Finally, the late right frontal old/new effect that occurs between about 8oo and $1 6 0 0 \\mathrm { m s }$ has been associated with post-retrieval monitoring and evaluation processes and is likely linked to executive function of right prefrontal cortex (Friedman, 2013;Hayama, Johnson,& Rugg,2008). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In a standard associative recognition task,the participants were asked to remember the compound words or unrelated word pairs asassociations duringan initial study phase.Duringa subsequent test phase,they were required to judge whether the presented word pairs were intact,rearranged,or new while electroencephalogram(EEG) was recorded.Behaviorally,we predicted that age differences would be smaller for associative recognition of compound words than for unrelated word pairs.For the ERP results,due to the enhanced contribution of familiarity to recognition ofunitized word pairsand relativelypreserved familiarityin older adults (Friedman，2013；Koen & Yonelinas，2014),we expected that the compounds would evoke greater early frontal old/new effect than did unrelated word pairs for both young and olderadults.Further,as the older adults showed impaired recollection（Friedman,2013；Wang et al.,2012；Yonelinas,2002）and post-retrieval monitoring processes(McDonough,Wong,& Gallo, 2013；Trott，Friedman，Ritter，Fabiani，& Snodgrass， 1999; Yonelinas,2oo2),we expected that the left parietal and late right frontal old/new effects would be significantly reduced for unrelated word pairs for olderadults than for youngadults.Wealso expected that both age groups would show similar left parietal and later right frontal old/new effects under the unitized condition, as the unitized representations might be relatively easy to be formed and retrieved for compounds. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Participants ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Twenty-five right-handed healthy young (age range 19-27 years）and 24 older(age range 61-76 years)adults participated in the study.Years of education were matched between groups. Demographic characteristics of the participants are presented in ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/021e54cd503937060f0c5294fbdda949bfcc93c5aad3a2e576ea4b851a323b0d.jpg",
+        "table_caption": [
+            "Table 1 Demographic characteristic and neuropsychological performance of young and old participants (mean and standard deviations). "
+        ],
+        "table_footnote": [
+            "a Independent samples two-tailed t-tests.ns: not significant.MMSE: Mini-Mental Status Examination. Trail making scores were obtained by Trail making B minus Trail making A. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>(n=25) Young</td><td>Old (n = 24)</td><td>pa</td><td>Cohen's d</td></tr><tr><td>Age</td><td>21.80 (2.16)</td><td>69.54 (4.50)</td><td></td><td></td></tr><tr><td>Gender (Male/Female)</td><td>13/12</td><td>15/9</td><td></td><td></td></tr><tr><td>Education (years)</td><td>15.72 (1.67)</td><td>15.38 (1.56)</td><td>ns</td><td>0.21</td></tr><tr><td>MMSE</td><td></td><td>28.83 (1.13)</td><td></td><td></td></tr><tr><td>Block design test</td><td>43.4 (4.49)</td><td>34.96 (6.42)</td><td><.001</td><td>1.54</td></tr><tr><td>Digit span forward</td><td>8.80 (1.04)</td><td>7.54 (1.18)</td><td><.001</td><td>1.13</td></tr><tr><td>Digit span backward</td><td>6.76 (1.54)</td><td>5.04 (1.33)</td><td><.001</td><td>1.19</td></tr><tr><td>Trail making (seconds)</td><td>9.59 (8.06)</td><td>31.66 (25.80)</td><td><.001</td><td>1.16</td></tr><tr><td>Logic memory-immediate</td><td>12.14 (3.21)</td><td>9.52 (2.12)</td><td>.002</td><td>0.96</td></tr><tr><td>Logicmemory-delayed</td><td>10.88 (2.82)</td><td>7.96 (2.11)</td><td><.001</td><td>1.17</td></tr><tr><td>Paired-association learning</td><td>6.06 (1.71)</td><td>4.60 (2.17)</td><td>.012</td><td>0.75</td></tr><tr><td>Vocabulary test</td><td>56.32 (6.55)</td><td>54.29 (5.65)</td><td>ns</td><td>0.33</td></tr><tr><td>Category fluency test</td><td>27.96 (6.45)</td><td>26.79 (6.05)</td><td>ns</td><td>0.19</td></tr><tr><td>Written fluency test</td><td>6.56 (2.20)</td><td>6.67 (2.35)</td><td>ns</td><td>0.04</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 1.All participants were native Chinese speakers with normal or corrected-to-normal vision and were free from neurological and psychiatric disorders.Each participant provided informed consent and was paid for participation.The study was approved by the Ethics Committee of the Institute of Psychology，Chinese Academy of Sciences. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.Neuropsychological assessment ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All the subjects completed a battery of neuropsychological tests.The tests were administered in a separate 1h session.The older participants were first given the Mini-Mental State test (MMSE）(Folstein，Folstein，& Fanjiang，2OO1）asa preliminary screening measure,and a minimum score of 26/3O was required. The battery was comprised of Block Design Test (Wechsler, 1981),Digit Span Forward and Digit Span Backward(Wechsler, 1981),Trail Making Tests A and B (Reitan,1992),Logic Memory ImmediateandDelayedRecall(Wechsler， 1987)， PairedAssociation Learning Test(PALT) from the Clinical Memory Scale (Xu & Wu，1986)，Vocabulary Test (Wechsler，1981),Category Fluency Test (CFT) (Spreen & Strauss,1998),and Written Fluency Test (WFT).To accommodate the use of Chinese characters,the WFT was scored as total number of characters for each radical component（扌）provided in $6 0 s .$ .These tests were used to assess visuospatial ability,workingmemory,executive functions,episodic memory,and semantic memory. Older participant who performed within the normal range of each test(Mean $\\pm 1$ SD)were included in the study. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.Materials ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The stimuli consisted of 144 compound words and 144 unrelated word pairs,the components of which were 2-character Chinese nouns with low-to-high word frequency (range 1-472 occurrences per million） selected from the Dictionary of Modern Chinese words in Common Use (Liu et al.,199O). The mean word frequency for the compounds and unrelated pairs was matched (58.6 and 61.5 per million,respectively). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These word pairs made up 288“complementary pairs\".Each compound pair had its complementary partner,an unrelated word pair. The complementary pairs could be rearranged to form a new compound and a new unrelated word pair.For example,compound word A-B(e.g.，‘希腊-神话'meaning‘Greek-mythology') and unrelated word pair C-D(e.g.,‘池塘-字母'meaning‘pool-letter') could berearranged to compound A-D (e.g.，‘希腊-字母’ meaning ‘Greek-letter') and unrelated word pair C-B(e.g.,池塘-神话'meaning‘pool-mythology'). The word pairs A-D and C-B were designated to appear in the subsequent test phase asrearranged pairs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The degree to which word pairs can be unitized was assessed in a questionnaire rating. Ten young adults (6 male,mean age 22.6 years,mean education15.8 years) and1O olderadults (4 male, mean age 7o.3 years,mean education 16.6 year),none of whom subsequently participated in the formal ERP experiment,were involved in this rating.Based on previous studies(Kriukova, Bridger,& Mecklinger,2013；Rhodes & Donaldson,2007), participants were asked to judge how well the two words could be bound into a single new concept using a scale from 1(lowest ratings)-7 (highest ratings).The rating results of unitization are shown separately for each group asa function of types ofword pairs in Table 2. Pairwise contrasts revealed that compounds were rated more unitized than unrelated word pairs for both age groups $( p s < . 0 0 1 )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The formal experiment was divided into 16 blocks.Each block began with a study phase,and then a distracter task was performed followed by a test phase.Each study phase comprised 14 word pairs including 2 untested buffers separately presented at the beginning and end of the study list and 12 target pairs,in which 6 pairs (including 3 compounds and 3 unrelated pairs) appeared as intact pairs and 6 complementary pairs formed rearranged pairs (also including3 compoundsand 3 unrelated pairs). Each test phase comprised 2O word pairs including 2 fillers at the foremost and 18 target pairs,in which 6 pairs were presented the same as in the study phase (intact pairs),6 pairs consisting of words not presented togetherin the study phase (rearranged pairs) and 6 pairs not previously presented (new pairs).For each type of test pairs,half is compound words and the other half is unrelated word pairs.The word pairs were pseudo-randomized presented and the same type of word pair was not presented more than three times consecutively.The types of test pairs were rotated to ensure that every word pair was presented equally often as intact,rearranged,or new.There werea total of 144 trials during the test phase (48 intact,48 rearranged,and 48 new pairs) for each type of word pairs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa70125af085e92f401fd894994cfc40ab3495878728a05023c1f84ab8b1ddae.jpg",
+        "table_caption": [
+            "Table 2 Questionnaire rating results of stimuli (mean and standard deviations). "
+        ],
+        "table_footnote": [
+            "a Paired-sample t-test between compounds and unrelated pairs for each age group $( p < . 0 0 1 { \\cdot }$ 1 "
+        ],
+        "table_body": "<html><body><table><tr><td>Subjects</td><td>Type of word pairs</td><td>Unitization</td></tr><tr><td>Young</td><td>Compound words</td><td>6.52 (0.28)</td></tr><tr><td></td><td>Unrelated pairs</td><td>1.62 (0.54)a</td></tr><tr><td>Older</td><td>Compound words</td><td>6.58 (0.31)</td></tr><tr><td></td><td>Unrelated pairs</td><td>1.38 (0.35)a</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The orderof individual study-test blockswere counterbalanced across participants.Each participant first completed a practice session including12 word pairs at study and 18 itemsat test to familiarize with the procedure prior to the start of the formal experiment.None of the practice stimuli appeared during the subsequent study or test phases. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.Procedures ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experiment was designed using E-Prime (Psychology Software Tools).All word pairs were displayed in white font against a black background,and were presented one above the other slightly above and below central vision on a computer monitor at a viewing distance of approximately $1 0 0 \\mathrm { c m }$ with stimuli at a visual angle of $2 . 3 ^ { \\circ } \\times 2 . 6 ^ { \\circ }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 illustrates the procedures of study and test phases. During each study phase,each trial began with a fixation cross $( + )$ displayed in the center of the screen for $8 0 0 \\mathrm { m } s$ .Aword pair was then presented for $5 0 0 0 \\mathrm { m s }$ followed by a 500-800 ms blank screen. Participants were instructed to remember the words as an association for a subsequent test.There was a distracter task between study phase and test phase during which participants needed to count backward by threes for $6 0 s$ 、During each test phase,each trial began with a fixation cross presented for $8 0 0 \\mathrm { m s }$ followed bya word pair with a maximum presentation time of $4 0 0 0 \\mathrm { m s }$ = Participants were instructed to indicate whether the word pair was intact,rearranged,or new relative to the preceding study phase via keyboard.Aftera response was provided,a blank screen was presented for $1 5 0 0 { - } 1 8 0 0 \\mathrm { m s }$ and the next trial began. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Participants were asked to respond as quicklyand accurately as possible,and the key-response mappings were counterbalanced. Half of participants made responses of“old and“rearranged\"by pressing the key“F\"and“D\"under the index and middle fingers of the left hand,and of\"new\"by pressing the key“J\"under the index fingers of the right hand.The other half of participants responded “old”and “rearranged”by pressing the key ‘J'and‘K' under the index and middle fingers of the right hand,and“new\" by pressing the key“F\"under the index fingers of the left hand. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/72de002c8e494141e159dffb1eb8ff9a7e6ad293e87646f76ac349ad56829d1a.jpg",
+        "img_caption": [
+            "ig thetest phase,the examples of word pairs mean‘Apple-Pencil','Greek-Leter',and‘Watch-Banana',respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To minimize EEG artifacts,they were also instructed to maintain fixation,and to relax,to avoid making head motions and eyemovements other than blinks. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5.EEG recording and processing ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EEG was recorded using the Neuroscan system (http://www. neuroscan.com), from $6 2 ~ \\mathrm { A g / A g C l }$ electrodes embedded in an elastic cap based on an extended version of the international 10-20 system.Vertical and horizontal electrooculogram (EOG）were recorded with electrodes placed above and below the left eye and on the outer canthi of both eyes.All scalp electrodes were referenced online to the left mastoidand re-referenced offline to theaverage of theleftand theright mastoids.Data were digitally sampled at a rate of $5 0 0 \\mathrm { H z }$ and filtered with a band-pass of $0 . 0 5 { \\scriptstyle - 4 0 \\mathrm { ~ H z } }$ Electrode impedance was kept below $5 \\mathrm { k } \\Omega$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EEG data from the test phase were separated into $1 7 0 0 \\mathrm { m s }$ epochs,including $2 0 0 \\mathrm { { m s } }$ prior to stimulus onset for baseline correction.Epochs with amplitude exceeding $\\pm 7 5 \\mu \\mathrm { V }$ relative to the $2 0 0 \\mathrm { { m s } }$ baseline were rejected.Trials with correct responses free from ocular and movement artifacts were used to average the ERPs.A minimum of 16 artifact free trials in each response category was required from each participant to ensure an acceptable signal-to-noise ratio. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In accordance with previous ERP studies of associative recognition (Bader etal., 201O; Kriukova et al., 2013;Rhodes & Donaldson, 2007；Wiegand，Bader，& Mecklinger，2O1O),our ERP analyses focused on old/new effects between intact and new word pairs. The role of rearranged pairs was to ensure that participants made theirresponses based on associative recognition rather than item recognition (Kriukova et al.,2O13)and this type of test pairs was not included in analyses of ERP data.The mean number of trials contributing to the grand average ERPs were:young compounds: intact (37) and new (37);young unrelated word pairs:intact (37) and new(38);older compounds:intact (36) and new(38);older unrelated word pairs:intact (32) and new(38). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6.Data analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6.1.Behavioral data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The accuracy and response times(RT) data of correct responses were subjected to repeated-measures analyses of variance (ANOVA)with the between-subjects factor of group(young,old), and the within-subjects factors of response (intact,rearranged, and new)and condition(compounds,unrelated word pairs). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,in order to strictly compare associative performance between the two groups and the two conditions,we reported two more direct indexes for associative memory.One is the discrimination accuracy (associative Pr),which was computed bysubtracting false alarm rates to rearranged pairs from hit rates to intact pairs.The other is the adjusted hit rate with taking all three response categories into account,which was calculated by the proportion of intact pairs correctly classified as“intact”to the total number of intact pairs presented,multiplied by the proportion of intact pairs correctly classified as“intact\"to the total number of word pairs classifiedas“intact\"(Wagner,1993). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The associative Pr and adjusted hit rate were analyzed with ANOVAs employing the between-subjects factor of group (young, older),and the within-subjects factor of condition (compounds, unrelated word pairs). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6.2.ERP data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Regarding the ERPdata,repeated measures ANOVAs were conducted on the mean amplitude data relative to the pre-stimulus baseline period. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on visual inspection of the grand average waveforms and previous studies (Jäger et al., 2Oo6；Rhodes & Donaldson,2007, 2008),the ERP old/new effects were quantified by calculating the mean amplitudes over three consecutive time windows of 250-400 ms,400-700 ms,and 700-1300 ms.These time windows were to characterize the frontal old/new effect,the parietal old/ new effect,and the late old/new effect,respectively.The ANOVAs of these old/new effects were performed over four scalp regions, each composed of an average of data from3 electrode sites:left frontal (F1,F3,F5),right frontal(F2,F4,F6),left parietal(P1,P3, P5),and right parietal (P2,P4,P6).The electrode sites used for theanalyses were illustrated in Fig.2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Initial repeated measures ANOVAswith the within-subjects factors of condition (compounds,unrelated word pairs),response (intact,new),location (frontal,parietal),and hemisphere (left, right）were performed on the average amplitudes separately for each age group.A second level of ANOvAs was conducted separately on compounds and unrelated word pairs when there were significant interactions involving the factors of response and condition.For interactions involving the factor of response under each condition,follow-up analyses were further used to quantify the old/new effects at frontal and parietal locations.For the statisticallyreliable old/new effects,between-condition or betweengroup comparisons were directly conducted with planned t-tests on the old/new difference waveforms (intact minus new) as necessary.Topographic analyses were conducted on difference waveforms(intact minus new）rescaled by the vector length method (McCarthy & Wood,1985；Wilding,2006) to examine condition orgroup differences in scalp topographies for the reliable old/ new effects.Topographical maps depicting old/new effects were formed by subtracting ERPs of new pairs from ERPs of intact pairs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c86b90f7fd70e961b2841fdd703b101b68e064c8edb0102ea0cd020a628bb602.jpg",
+        "img_caption": [
+            "Fig.2.Schematic maps of 62 electrode sites with the highlighted sites used to ERP analyses.The regions of LF(left frontal:F1,F3,F5),RF(right frontal:F2,F4,F6),LP (left parietal: P1,P3,P5) and RP(right parietal: P2,P4,P6)were used to analyze the old/neweffectsof $2 5 0 { - } 4 0 0 ~ \\mathrm { m s }$ = $4 0 0 { - } 7 0 0 ~ \\mathrm { m s }$ and 700-1300 time windows.Each scalpregion composed of anaverage of data from3 electrode sites. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Greenhouse-Geisser correction for non-sphericity of data wasapplied as necessary.The uncorrected degree of freedom,corrected $p$ -values,and effect size $( \\eta _ { p } ^ { 2 } )$ are reported.For all analyses, the significance level was set to .05. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.Neuropsychological test performance ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The results of all neuropsychological tests are displayed in Table1.The results showed that older adults performed worse in tests of WAIS block design, immediate and delayed story recall, PALT,digit span forward and backward,and trail making,whereas theyperformed the same as the young in tests of vocabularyand fluency，indicating that aging was associated with decline in visuospatial ability,long-term memory，working memory span, and executive functions,but with preserved verbal comprehension and production. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.Behavioral results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1.Accuracy data ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mean accuracy for each condition as a function of three response categories for each age group are presented in Table 3. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ANOVA revealed a three-way response $\\times$ condition $\\times$ group interaction $[ F ( 2 , 9 4 ) = 1 2 . 2 0 \\$ = $p < . 0 0 1$ ， $\\eta _ { p } ^ { 2 } = . 2 1 \\dot { } .$ l,andsubsidiaryANOVAs were conducted separately on intact，rearranged，and new responses. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Subsidiary ANOvA for intact responses revealed a condi$\\mathrm { t i o n \\times g r o u p }$ interaction $[ F ( 1 , 4 7 ) = 1 7 . 8 9$ ， $p < . 0 0 1$ ， $\\eta _ { p } ^ { 2 } = . 2 8 ]$ ： Follow-up analyses revealed smallerage differences in associative memory performance of compounds compared to unrelated word pairs [compounds: $F ( 1 , 4 7 ) = 3 . 3 0$ $p = . 0 7 6$ ；unrelated word pairs: $F ( 1 , 4 7 ) = 1 2 . 8 7$ ， $p < . 0 0 1 ]$ ．SubsidiaryANOVAforrearranged responsesrevealedacondition $\\times$ groupinteraction $[ F ( 1 , 4 7 )$ $= 6 . 7 5$ ， $p = . 0 1 2$ ， $\\eta _ { p } ^ { 2 } = . 1 3 ]$ .Follow-up analyses revealed that rearranged pairs of both conditions were more difficult to reject for older than for young adults[compounds: $F ( 1 , 4 7 ) = 8 1 . 5 3 \\$ $p < . 0 0 1$ ；unrelatedwordpairs: $F ( 1 , 4 7 ) = 5 4 . 3 2 \\$ ， $p < . 0 0 1 \\vert$ ： Subsidiary ANOvA for new responses revealed a main effect of group $[ F ( 1 , 4 7 ) = 1 0 . 8 5$ ， $p = . 0 0 2$ ， $\\eta _ { p } ^ { 2 } = . 1 9 ]$ ,revealing that the new pairs were also more difficult to reject for older than for young adults. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2.Discrimination accuracy ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The mean associative Pr for each condition in young and older adults is shown in Fig.3A. ANOVAs revealed a condition $\\times$ group interaction $[ F ( 1 , 4 7 ) = 5 . 1 5$ $p = . 0 2 8$ ， $\\eta _ { p } ^ { 2 } = . 1 0 ]$ .Follow-up analyses revealed that the older adults performed better in compound condition than in unrelated word pair condition $[ F ( 1 , 4 7 ) = 1 3 . 6 6 \\$ $p = . 0 0 1 \\rfloor$ ,whereas young adults showed no significant difference between the two word pair condition $\\left[ F < 1 \\right]$ .Importantly，the results showed smaller age differences in associative $\\mathrm { P r }$ of compounds [age differences:.248, $F ( 1 , 4 7 ) = 4 5 . 1 8$ = $p < . 0 0 1 \\AA .$ compared to unrelated word pairs [age differences: .307, $F ( 1 , 4 7 ) = 7 0 . 9 2 \\$ $p < . 0 0 1 \\vert$ (see Fig. 3A). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.3.Adjusted hitrate ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.3B,the adjusted hit rate analyses revealed same pattern as the findings from the analyses of associative Pr. Specifically,ANOvAs revealed a condition $\\times$ group interaction $[ F$ $( 1 , 4 7 ) = 7 . 5 9$ ， $p = . 0 0 8$ ， $\\eta _ { p } ^ { 2 } = . 1 4 ]$ .Follow-upanalysesrevealed greater adjusted hit rate in compound condition than in unrelated word pair condition forolderadults $[ F ( 1 , 4 7 ) = 1 9 . 9 4 , p < . 0 0 1 ]$ ,but no significant difference between the two conditions for young adults $\\left[ F < 1 \\right]$ .In addition,follow-up analyses revealed smaller age differences in compound condition [age differences:.189,F $( 1 , 4 7 ) = 4 1 . 6 2$ = $p < . 0 0 1 \\vert$ relative to unrelated condition[age differences: .249, $F ( 1 , 4 7 ) = 5 3 . 1 2 , p < . 0 0 1 ]$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.4.Response times ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Concerning response times (see Table 3),ANOvA revealed a three-wayresponse $\\times$ condition $\\times$ groupinteraction[F(2,94) $= 5 . 1 8$ $p = . 0 0 8$ 1 $\\eta _ { p } ^ { 2 } = . 1 0 ]$ ,and subsidiary ANOvAs were conducted separately on intact,rearranged,and newresponses. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For intact responses,subsidiary ANOVA revealed a condition $\\times$ groupinteraction $[ F ( 1 , 4 7 ) = 2 1 . 7 6$ ， $p < . 0 0 1$ ， $\\eta _ { p } ^ { 2 } = . 3 2 ]$ ： Follow-up analyses revealed smaller age differences for compounds [327 ms; $F ( 1 , 4 7 ) = 3 2 . 6 3 \\$ $p < . 0 0 1 \\$ than for unrelated word pairs $[ 5 0 2 \\mathrm { m } s \\$ ： $F ( 1 , 4 7 ) = 5 5 . 5 7$ ， $p < . 0 0 1 ]$ ．Subsidiary ANOVA for rearranged and new responses both revealed a main effect of group [rearranged: $F ( 1 , 4 7 ) = 9 5 . 5 3 \\$ ， $p < . 0 0 1$ ， $\\eta _ { p } ^ { 2 } = . 6 7$ ；new: $F ( 1 , 4 7 )$ （204号 $= 3 5 . 6 7$ $p < . 0 0 1$ $\\eta _ { p } ^ { 2 } = . 4 3 ]$ ,revealing slower response times to rearranged and new pairs for older than for youngadults. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed74adbe16a85307b669bc58c3191ecf8abdc554a29df83b3c3e9ff663281eab.jpg",
+        "table_caption": [
+            "Table 3 Meanaccuracyandmeanresponsetimeforeachresposecategoryandtypeofordpairsinyoungandlderadults(standarderorofthemean "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">Group</td><td colspan=\"3\">Compound words</td><td colspan=\"3\">Unrelated word pairs</td></tr><tr><td>Intact</td><td>Rearranged</td><td>New</td><td>Intact</td><td>Rearranged</td><td>New</td></tr><tr><td rowspan=\"2\">Accuracy</td><td>Young</td><td>0.94 (0.02)</td><td>0.82 (0.02)</td><td>0.93 (0.01)</td><td>0.92 (0.02)</td><td>0.88 (0.02)</td><td>0.96 (0.01)</td></tr><tr><td>Older</td><td>0.90 (0.02)</td><td>0.50 (0.03)</td><td>0.87 (0.02)</td><td>0.76 (0.03)</td><td>0.64 (0.03)</td><td>0.92 (0.02)</td></tr><tr><td rowspan=\"2\">RT (ms)</td><td>Young</td><td>1094 (32)</td><td>1709 (50)</td><td>1165 (40)</td><td>1281 (40)</td><td>1628 (53)</td><td>1208 (51)</td></tr><tr><td>Older</td><td>1421 (48)</td><td>2411 (57)</td><td>1628 (62)</td><td>1783 (55)</td><td>2388 (62)</td><td>1659 (68)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4062554158a79bb3058bed03959e5d49b9b5a113dbb10f00b4d1c5db22279eb2.jpg",
+        "img_caption": [
+            "igaeo and unrelated word pairs in young and older adults. Error bars represent within-subject $9 5 \\%$ confidence intervals for each word pair condition,calculated separately for each age group (Loftus & Masson, 1994). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "These results suggested that older adults performed better on associative recognition for compounds than for unrelated word pairs,and age-related associative memory deficits were reduced under the unitization condition. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.ERP results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The grand average ERPs evoked by correct responses to intact and new word pairs for compounds and unrelated word pairs are shown for the young in Fig.4and the older adults in Fig.5.The ERP data were divided into three consecutive time windows of ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "250-400 ms, $4 0 0 { - } 7 0 0 ~ \\mathrm { m s }$ ，and $7 0 0 { - } 1 3 0 0 \\mathrm { m s }$ to quantify the old/ new effects.The first two time windows are related to bilateral frontal and left parietal old/neweffects respectively;the third time window is used to analyze the late ERP old/new effects. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.1.250-400 ms ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.1.1.Youngadults.As can be seeninFig.4,analysesof this time window revealed thatbothtypes ofword pairs evokeda bilateral frontal old/new effect in youngadults.The initial ANOVAs revealed a main effect of response $[ F ( 1 , 2 4 ) = 7 0 . 4 3$ ， $p < . 0 0 1$ ， $\\eta _ { p } ^ { 2 } = . 7 5 ]$ ， revealing significant old/new differences,with more positive-going ERPs for intact pairs than for new pairs.No significant interactions involving the factors of condition,location,or hemisphere $\\left[ F S < 1 \\right]$ were identified,indicating widespread old/new effects for both compounds and unrelated word pairs.The mean amplitude of the bilateral frontal old/new effect for compounds and unrelated word pairsare showed in Fig. 6A. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8fac2d92b189add3d326d6e2fc70ca8c7a32c6ef2a36c95f73fc3dc5e350036.jpg",
+        "img_caption": [
+            "Fig word pairs at selected electrodeswhich are indicated by the insert,showing from-200 to $1 5 0 0 \\mathrm { m s }$ .Scale bars indicate the timewindowsused for statistical analyses (250 40 referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/807b2ac0a563fcdf7851d40853b511af5f53e13b77b0a8e5648d3c4cbcb7e685.jpg",
+        "img_caption": [
+            "Fige word pairs at selected electrodes which are indicated by the insert,showing from-200 to $1 5 0 0 \\mathrm { m s }$ .Scale bars indicate the time windows used for statistical analyses (250- $4 0 0 \\mathrm { m s }$ ,40d referred to the web version of thisarticle.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/99dfc09b14ce0794d07ef285d49778d1cd55a6bc5d0a95e59c771cb3f2005643.jpg",
+        "img_caption": [
+            "Fig.6.Bilateral frontal old/new effect $( 2 5 0 - 4 0 0 ~ \\mathrm { m s } )$ .PanelA shows the mean amplitude of theearly frontal old/new effects (correct intact minus correct new)under opoddi Error bars representwithin-subject $9 5 \\%$ confidence intervals for each word pair condition,calculated separately for each age group (Loftus $\\&$ Masson,1994); Panel B shows thetopaed correct intact pairs,areillustrated separately for young adults and older adults.The scale bar shows amplitude range. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Topographic analyses were performed on the rescaled difference waveforms (intact minus new) using ANOvA with the factors of condition(compounds,unrelated word pairs), location(anterior, posterior),and hemisphere (left,right) to examine condition differences in the neural generators of the early old/new effects.The results showed no significant interaction between condition and location or hemisphere.The topographic maps of the old/new differences during this time window for compounds and unrelated word pairs are illustrated in Fig. 6B. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.1.2.Older adults.As can be seen in Fig.5,analyses of this time windowrevealed a bilaterally distributed old/new effect over fron tal scalp regions only for compounds in older adults.The initial ANOVAs revealed a main effect of response $\\left[ F ( 1 , 2 3 ) = 6 . 0 9 \\right.$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$p = . 0 2 1$ ， $\\eta _ { p } ^ { 2 } = . 2 1 ]$ ，and a two-way interaction between response and condition $\\left[ F ( 1 , 2 3 ) = 6 . 5 8 \\right.$ ， $p = . 0 1 7$ ， $\\eta _ { p } ^ { 2 } = . 2 2 ]$ .Subsidiary ANOVAs were conducted separately on compounds and unrelated word pairs (see Table 4 for a second level of ANOvA results). Follow-up analyses of compounds revealed that the old/new effects were greater at the frontal location $[ F ( 1 , 2 3 ) = 1 5 . 2 2$ $p = . 0 0 1 \\rfloor$ than at the parietal location $[ F ( 1 , 2 3 ) = 5 . 1 5$ ， $p = . 0 3 3 ]$ ： Analyses of unrelated word pairs showed no significant old/new differences at any scalp regions.The above results indicated that only compound words evoked significant bilateral frontal ${ \\mathrm { \\mathbf { o l d } } } /$ new effects for older adults. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.1.3.Between-group analyses. A planned between-group comparison was conducted on the frontal old/new difference waveforms (intact minus new,collapsed over F1,F3,F5,F2,F4,and F6) to directly explore the group differences in the size of frontal old/new effects evoked by compounds.Though the mean ampli tude was greater for young than for older adults,the results revealed no significant group differences $( t ( 4 7 ) = 1 . 7 0$ ， $p = . 1 0$ Cohen's $d = 0 . 4 9$ ) (seeFig. 6A). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9827a52f9d290f4d90c13a2335e410f2d388dc31d59c6895eb2d478d502a4623.jpg",
+        "table_caption": [
+            "Table 4 Significant ANOvA results in each time window for young and older adults. "
+        ],
+        "table_footnote": [
+            "Note: ${ \\sf R } =$ response (intact,new); $\\mathbf { L } =$ location (frontal, parietal); $\\mathrm { H } =$ hemisphere (left,right). "
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>Time window</td><td>Condition</td><td>Effect</td><td>df</td><td>F</td><td>p</td><td></td></tr><tr><td>Young</td><td>400-700 ms</td><td>Compounds</td><td>R</td><td>1.24</td><td>20.69</td><td><.001</td><td>.46</td></tr><tr><td></td><td></td><td>Unrelated pairs</td><td>R</td><td>1.24</td><td>27.97</td><td><.001</td><td>.54</td></tr><tr><td></td><td></td><td></td><td>R×L×H</td><td>1.24</td><td>12.60</td><td>.002</td><td>.34</td></tr><tr><td></td><td>700-1300 ms</td><td>Compounds</td><td>R×L</td><td>1.24</td><td>9.46</td><td>.005</td><td>.28</td></tr><tr><td></td><td></td><td></td><td>R×H</td><td>1.24</td><td>10.04</td><td>.004</td><td>.30</td></tr><tr><td></td><td></td><td>Unrelated pairs</td><td>R</td><td>1.24</td><td>21.97</td><td><.001</td><td>.48</td></tr><tr><td></td><td></td><td></td><td>R×H</td><td>1.24</td><td>5.06</td><td>.034</td><td>.17</td></tr><tr><td></td><td></td><td></td><td>R×L</td><td>1.24</td><td>10.14</td><td>.004</td><td>.30</td></tr><tr><td>Older</td><td></td><td></td><td>R×H×L</td><td>1.24</td><td>6.12</td><td>.021</td><td>.20</td></tr><tr><td></td><td>250-400 ms</td><td>Compounds</td><td>R</td><td>1.23</td><td>12.42</td><td>.002</td><td>.35</td></tr><tr><td></td><td></td><td></td><td>R×L</td><td>1.23</td><td>6.58</td><td>.017</td><td>.22</td></tr><tr><td></td><td>400-700 ms</td><td>Compounds</td><td>R</td><td>1.23</td><td>45.33</td><td><.001</td><td>.66</td></tr><tr><td></td><td></td><td></td><td>R ×H×L</td><td>1.23</td><td>12.84</td><td>.002</td><td>.36</td></tr><tr><td></td><td></td><td>Unrelated pairs</td><td>R</td><td>1.23</td><td>10.60</td><td>.003</td><td>.32</td></tr><tr><td></td><td></td><td></td><td>R×H</td><td>1.23</td><td>14.33</td><td>.001</td><td>.38</td></tr><tr><td></td><td></td><td></td><td>R ×H× L</td><td>1.23</td><td>13.08</td><td>.001</td><td>.36</td></tr><tr><td></td><td>700-1300 ms</td><td>Compounds</td><td>R×L</td><td>1.23</td><td>5.11</td><td>.034</td><td>.18</td></tr><tr><td></td><td></td><td>Unrelated pairs</td><td>R×L</td><td>1.23</td><td>9.07</td><td>.006</td><td>.28</td></tr><tr><td></td><td></td><td></td><td>R×H</td><td>1.23</td><td>12.90</td><td>.002</td><td>.36</td></tr><tr><td></td><td></td><td></td><td>R ×H× L</td><td>1.23</td><td>5.67</td><td>.026</td><td>.20</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Topographic analyses were performed on rescaled differences waveforms(intact minus new）using ANOVAs with the betweensubjects factor of group (young,old) and the within-subjects factors of location (anterior,posterior） and hemisphere (left,right) to investigate group differences in scalp topographies for the old/ new effects evoked by the compounds.The results revealed a marginally significant group $\\times$ location interaction $\\left[ F ( 1 , 4 7 ) = 3 . 9 9 \\right.$ $p = . 0 5 2$ $\\eta _ { p } ^ { 2 } = . 0 8 ]$ ,revealing more widely distributed old/new differences for young adults than for older adults.The early frontal old/new effects were not observed for the unrelated word pairs in older adults,so the between group contrasts in mean amplitude or topographic maps were not conducted for this condition.The topographic maps of the old/new differences during this time window for compounds and unrelated word pairs are illustrated in Fig. 6B. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.2.400-700 ms ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.2.1.Young adults.As can be seen in Fig.4,analyses of this time window revealed that both types of word pairs evoked old/new effects over left parietal scalp region in young adults.The initial ANOVAs revealed a three-way response $\\times$ hemisphere $\\times$ location interaction $[ F ( 1 , 4 7 ) = 9 . 6 8$ ， $p = . 0 0 5$ ， $\\eta _ { p } ^ { 2 } = . 2 9 ]$ ，and a marginal four-way response $\\times$ condition $\\times$ hemisphere $\\times$ location interaction $\\left[ F ( 1 , 4 7 ) = 3 . 2 8 \\right.$ $p = . 0 8 3$ 0 $\\eta _ { p } ^ { 2 } = . 1 2 ]$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Subsidiary ANOVAs were conducted separately on compounds and unrelated word pairs (see Table 4).ANOvAs conducted on compounds revealed a widespread positivity across the scalp regions,with greater positivity at the parietal location than that at the frontal location,though the response $\\times$ location interaction was not significant.For unrelated word pairs,follow-up analyses revealeda greater old/new effectat the left hemisphere[F(1,24) $= 2 6 . 6 9$ ， $p < . 0 0 1 ]$ than that at the right hemisphere $[ F ( 1 , 2 4 )$ $= 1 6 . 5 3$ ， $p < . 0 0 1 \\vert$ at parietal location.The old/new differences at frontal location were also statistically significant $[ F ( 1 , 2 4 ) = 2 2 . 6 5$ $p < . 0 0 1 ]$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A planned between-condition comparison of the size of left parietal effects (collapsed over P1,P3,and P5) revealed no significantconditiondifferences $( t ( 2 4 ) = 0 . 5 5 8$ ， $p = . 5 8 2$ ，Cohen's $d = 0 . 1 1 \\AA \\mathrm { ~ . ~ }$ ),indicating that two types of word pairs evoked similar old/new effects at parietal sites (see Fig.7A).Topographic analyses revealed no significant interaction between conditionand location orhemisphere.The topographic distribution of the old/new differences for compounds and unrelated word pairs are illustrated in Fig. 7B. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.2.2.Older adults.As can be seen in Fig.5,analyses of this time window revealed greater positivity over left parietal regions for compounds than unrelated word pairs in older adults.The initial ANOVAs revealed a response $\\times$ condition interaction $[ F ( 1 , 2 3 )$ $= 5 . 0 3$ ， $p = . 0 3 5$ ， $\\eta _ { p } ^ { 2 } = . 1 8 ]$ ．Subsidiary ANOvAs were conducted separately on compounds and unrelated word pairs (see Table 4). Follow-up analyses of compounds revealed a significant old/new effect over parietal sites $[ F ( 1 , 2 3 ) = 4 0 . 0 6 \\$ ， $p < . 0 0 1$ ， $\\eta _ { p } ^ { 2 } = . 6 4 ]$ .At frontal location,the results revealed a greater old/new effect at theright hemisphere $[ F ( 1 , 2 3 ) = 3 3 . 3 6 , p < . 0 0 1 ]$ than thatat the left hemisphere $[ F ( 1 , 2 3 ) = 1 5 . 9 3$ $p = . 0 0 1 \\rfloor$ .Follow-up analyses of unrelatedword pairsrevealeda smaller parietal old/new effectat the left hemisphere $[ F ( 1 , 2 3 ) = 4 . 7 7$ ， $p = . 0 3 9 ]$ than that at the right hemisphere $[ F ( 1 , 2 3 ) = 1 6 . 0 6 \\$ ， $p = . 0 0 1 \\rfloor$ ．At frontal location,there wasa significant old/new effect at the right hemisphere $[ F ( 1 , 2 3 )$ $= 1 6 . 3 6 , p < . 0 0 1 \\vert$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A planned between-condition comparison of the size of left parietal effects revealed that the left parietal old/new effect was greater for compounds compared with unrelated word pairs(t $( 2 3 ) = 2 . 6 4 8$ 1 $p = . 0 1 4$ ,Cohen's $d = 0 . 5 4$ ）(seeFig.7A). Topographic analyses showed no significant interaction between condition and location or hemisphere.The topographic distribution of the old/new differences for compounds and unrelated word pairs are illustrated in Fig. 7B. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.2.3.Between-group analyses.A planned between-group comparison of compounds revealed similar magnitude of left parietal effects for both groups $( t ( 4 7 ) = 1 . 6 6 4$ ， $p = . 1 0 3$ ，Cohen's $d = 0 . 4 8$ ) Analysis of unrelated word pairs revealed greater left parietal old/new effects for young compared to older adults $( t ( 4 7 )$ $= 3 . 3 1 2$ ， $p = . 0 0 2$ ，Cohen's $d = 0 . 9 5$ ）(see Fig.7A).Topographic analyses of compounds revealed a significant group $\\times$ location interaction $[ F ( 1 , 4 7 ) = 5 . 8 6$ $p = . 0 1 9$ ， $\\eta _ { p } ^ { 2 } = . 1 1 ]$ ,indicating more posterior distribution of old/new differences for the young than for older adults.Topographic analyses of unrelated word pairs revealed a significant group $\\times$ hemisphere interaction $[ F ( 1 , 4 7 )$ $= 6 . 5 4$ $p = . 0 1 4$ $\\eta _ { p } ^ { 2 } = . 1 2 ]$ ,reflecting more left-lateralized posterior old/new effects for the young than for older adults (see Fig.7B). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c20d7d8007aeb6e545e66bd07b57456b0775bd818124691e37fccf838208a484.jpg",
+        "img_caption": [
+            "Fig.7.Left parietal old/new effect ${ } ^ { \\prime } 4 0 0 { - } 7 0 0 ~ \\mathrm { m s } ,$ .PanelAshows the meanamplitudeof the left parietalold/new effects (correct intact minus correct new)undercompound d bars represent within-subject $9 5 \\%$ confidenceintervalsforeachwordpaircondition,caculatedseparatelyforeachagegroup(Loftus&Mason,994);PanelBsowste topoga intact pairs,are ilustrated separately for young adults and older adults.The scale bar shows amplitude range. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.3.700-1300 ms ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.3.1.Young adults.As can be seen in Fig.4,analyses of this time window revealed that both types of word pairs evoked an old/new effect over right frontal sites in youngadults.The initial ANOVAs revealed aresponse $\\times$ condition interaction $[ F ( 1 , 2 4 ) = 1 2 . 2 6 \\$ $p = . 0 0 2$ 5 $\\eta _ { p } ^ { 2 } = . 3 4 ]$ .Subsidiary ANOVAs were conducted separately on compounds and unrelated word pairs (see Table 4). Follow-up analyses of compounds only revealeda significant old/new effect at right frontal sites $[ F ( 1 , 2 4 ) = 6 . 2 7$ 1 $p = . 0 1 9 ]$ .Follow-upanalyses of unrelated word pairs revealed a greater positivity over right frontal $[ F ( 1 , 2 4 ) = 3 7 . 7 2$ = $p < . 0 0 1 ]$ than that over left frontal region $[ F ( 1 , 2 4 ) = 1 4 . 6 7$ = $p = . 0 0 1 \\rfloor$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The above results demonstrated significant right frontal ${ \\mathsf { o l d } } /$ new effects for both compounds and unrelated word pairs.As can be seen in Fig.8A, the right frontal effects were greater for unrelated word pairs than for compounds,which was confirmed bya planned between-condition comparison that directly compared the mean amplitude of right frontal old/new difference waveforms(collapsed over F2,F4,and F6) $( t ( 2 4 ) = 3 . 4 7$ ， $p = . 0 0 2$ Cohen's $d = 0 . 6 9 \\AA$ ).Topographic analyses revealed no significant interaction between condition and other factors.The topographic distribution of the old/new differences for compounds and unrelated word pairs are illustrated in Fig.8B. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.3.2.Older adults.As can be seen in Fig.5,analyses of this time window revealed significant right frontal old/new effect for both types of word pairs in older adults.However,in contrast to compounds,unrelated word pairs also evoked left lateralized negative activity.The initial ANOvAs revealed a marginally significant response $\\times$ conditioninteraction $[ F ( 1 , 2 3 ) = 3 . 7 5$ ， $p = . 0 6 5$ 0 $\\eta _ { p } ^ { 2 } = . 1 4 ]$ . Subsidiary ANOvAs were conducted separately on compounds and unrelated word pairs (see Table 4).Follow-up analyses ofcompounds only revealeda significant old/new effectat frontal location $[ F ( 1 , 2 3 ) = 4 . 2 9$ = $p = . 0 5 ]$ .Forunrelated word pairs,followupanalyses revealed significant positive-going ERPs for intact pairs at right frontal sites $\\left[ F ( 1 , 2 3 ) = 6 . 5 2 \\right.$ = $p = . 0 1 8 ]$ .At parietal location, there was a significant negativity for intact pairsat left hemisphere region $[ F ( 1 , 2 3 ) = 5 . 4 2$ $p = . 0 2 9 ]$ .These results revealeda significant positivityat frontal scalp region for compounds,but a combination ofpositiveactivityatright frontal regionand negativeactivityat left posterior scalp for unrelated word pairs. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A planned between-condition comparison on the right frontal old/new effect revealed similar positive activity between compounds and unrelated word pairs $( t ( 2 3 ) = 0 . 4 2$ ， $p = . 6 7 5$ ，Cohen's $d = 0 . 0 8 ^ { \\cdot }$ ）(Fig.8A). Topographic analyses revealed no significant interaction between condition and other factors.The topographic maps of the old/new differences during this time window for compounds and unrelated word pairs are illustrated in Fig. 8B. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1236413348cf34a6a658ddebec899773fe5d2022f48811118dce312f96bc070.jpg",
+        "img_caption": [
+            "Fig.8.Late old/new effects $( 7 0 0 - 1 3 0 0 ~ \\mathrm { m s }$ ).PanelAshows the meanamplitudeoftherightfrontalold/neweffects(correct intact minus correct new)under compound nd representwithin-subject $9 5 \\%$ confidenceintervalsforachwordpaircondition,calculatedseparatelyforeachagegoup(Loftus&Mason,994);PanelBowsthe topogapd correct intact pairs,are ilustrated separately for young adultsand older adults.The scale bar shows amplitude range. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3.3.3.Between-groupanalyses.Forcompounds，aplanned between-group comparison revealed equivalent right frontal effects evoked by compounds for both groups $( t ( 4 7 ) = 0 . 1 4 8$ $p = . 8 8 3$ ,Cohen's $d = 0 . 0 4 { \\mathrm { . } }$ ).However,there were significant group differences forunrelated word pairs $( t ( 4 7 ) = 3 . 1 9$ ， $p = . 0 0 3$ Cohen's $d = 0 . 9 1$ ),reflectingdecreased right frontal old/neweffects evoked byunrelated word pairs for olderadults compared with young adults (see Fig.8A). Topographic analyses of compounds and unrelated word pairs both revealed no significant interaction between group and other factors (see Fig.8B). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4. Correlation analyses ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The ERP results showed that the compound words evoked bilateral frontal old/new effect,indicating that unitization may enhance the engagement of familiarity-related processes in associative recognition.In order to explore whether the familiarity-related old/new effect for compound words could reflect the processes involved in associative recognition，we performed correlation analysesbetween themean amplitudes of early bilateral frontal old/new effect(collapsed over F1,F3,F5,F2,F4,and F6) and the two indexes of associative memory for compound words across both age groups respectively,with age group as a covariate to avoid the potential influences from between-group differences on the correlation.A trend of positive correlation was found,with Pearson correlation $r = . 2 9$ between the associative Pr and the frontal old/new effect,which reached significant $( p = . 0 4 8 )$ ；with Pearson correlation $r = . 2 1$ between the adjusted hit rate and the frontal old/new effect,which did not reach significant $( p = . 1 6 )$ To furthermore validate the specificity of the significant correlation,the correlation analysis between the mean amplitudes of left parietal old/new effect (collapsed over P1,P3,and P5）and the associative Pr for compound words were also carried out,and the results did not show significant correlation across both age groups when group was controlled (Pearson correlation: $r = . 1 8$ $p = . 2 0 3 \\$ ） These convergent findings suggest that the engagement of familiarity-based processes may help to facilitate their associative recognition under unitized condition in older adults. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The present study aimed to explore whether the unitized representations could reduce age-related associative memory deficits. The behavioral results showed that age differences were smaller forassociative recognition of compounds than for that of unrelated word pairs.The reduced age-related associative memory deficits wereaccompanied byenhanced familiarity-relatedbilateral frontal old/new effect under the unitization condition for older adults. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1.Unitization could reduce age-related associative recognition deficits ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Consistentwith previousresearch inamnesic patients (Giovanello et al.,2oo6) and healthy older adults (Ahmad et al., 2015；Bastin et al.,2O13),we have provided new evidence that, aspre-experimentally unitized associations,compound words could improve associative recognition performance in older adults. In addition,our results are in line with other behavioral studies showing that semantically-related word pairs could alleviate agerelated associative deficits as well (Naveh-Benjamin， 2000; ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Naveh-Benjamin, Craik, Guez,& Kreuger, 2OO5；Patterson,Light, Van Ocker,& Olfman,2oo9). The present findings are not consistent with those of Jäger et al.(201O),which showed that the age differences were smaller in non-unitized face pairs relative to unitized face pairs.Itis likelythat the beneficial effects ofunitization onassociative memory performance in older adults depend on the properties of the stimuli (Bastin et al.,2O13). Next,we will discuss theERP resultsand tryto provide ERP evidence forwhyage differences are smaller in associative recognition of compounds than in that of unrelated word pairs. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2.Earlybilateral frontalold/neweffects ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Associative recognition memory was traditionally thought to rely solely on recollection process(Yonelinas，2oo2).However, recent studies demonstrated that familiarity could also support associative retrieval if word pairs are encoded as unitized representations (Giovanello et al., 2oo6；Rhodes & Donaldson,2007). Even forarbitrary word pairs,specific encoding strategies have been reported to enhance familiarity-based retrieval during associative recognition (Bader et al.,2O1O). In the present study, theresults showed that olderadults displayed significant frontal old/new effect for compounds and that this effect was equivalent for both age groups,moreover,this frontal old/new effect was positively correlatedwithassociativePr.The early bilateral frontal old/ neweffect hasbeen generally thoughtto reflect familiarity-based recognition (Friedman, 2013;Friedman & Johnson, 20oO;Rugg & Curran,2oo7). Thus,our results suggest that compounds could be encoded as single unitized units and subsequently enhance familiarity-based associative recognition.Inall,our results providenew evidence thatunitized associations could enhance the contribution of familiarity in associative recognition and indicated beneficial effects of unitization on associative memory in older adults. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In previous studies,the familiarity-related early frontal old/new effect has usually been reported to be larger for compounds than for other types of word pairs in young adults (Rhodes & Donaldson,2oo7). Interestingly,the current results showed that youngadults exhibited equivalent frontal old/new effects for both types of associations.And topographic analysis revealed similar configurations of neural generators for the two word pair conditions in young adults.This pattern may be associated with the experimental design of the current study.The factor of word pair condition was manipulated as a within-subject variable,and encoding time was relatively long（5 s） for young adults.Thus, the young adults may have intentionally utilized the unitization strategies for encoding the unrelated word pairs such that a bilateral frontal old/new effectalso occurred forunrelated word pairs in this population.Future research will be needed to verify the rationality of this inference. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3.Left parietalold/neweffect ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For young adults,consistent with previous ERP studies (Donaldson & Rugg,1998,1999),associative recognition of unrelated word pairs invoked a left parietal old/new effect.Inaddition, our results showed that this old/new effect was similar to that evoked by compound words.These results are consistent with the findings of Rhodes and Donaldson (2oo7), indicating that word pair conditions do not modulate the left parietal old/new effect during associative retrieval in young adults.The parietal old/new effect during the 4oo-7oo ms time window is commonly observed inprevious ERP studies of associative memory tasks (Bader et al., 2010;Donaldson & Rugg，1998,1999;Mecklinger & Jäger,2009), which has usually been associated with recollection-based recognition (Rugg & Curran,2OO7).The present findings suggest that recollection equally contributed to associative recognition of both word pair conditions in young adults. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Forunrelated word pairs,smallerleft parietal old/new effects were found in older adults compared to young adults,consistent with previous source memory studies (Ally,Simons,McKeever, Peers,& Budson, 2008;Guillaume et al., 2009; Nessler, Friedman, Johnson,& Bersick,2oo7).This finding suggests that recollection process is impaired in older adults.Nevertheless,the present results revealed that older adults showed greater left parietal old/new effect for compounds than for unrelated word pairs,and, aswiththe early frontalold/new effect,the left parietalold/new effect evoked by compounds was equivalent for older and young adults.These results suggest that unitized associations could also enhance the involvement of recollection process in associative recognition for older adults.Researchers have proposed that the magnitude of left parietal old/new effect reflect the amount of contextual details recollected （Vilberg，Moosavi，& Rugg，2006; Wilding,2ooO). Following this line,our results may suggest that the amount of recollected details was greater for compounds than forunrelated word pairs in older adults. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.4.Lateold/new effects ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The right frontal old/new effect has usually been thought to reflect post-retrieval strategic monitoringand evaluation processes related to prefrontal cortex (Friedman,2O13).The older adults showeda smaller right frontal old/new effect forunrelated word pairs compared with young adults,indicating that the right frontal old/neweffect declined forunrelatedassociationsinolderadults, consistent with previous studies(Guillaume et al.,2Oo9；Trott etal.,1999;Wegesin,Friedman,Varughese,&Stern,2002). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For young adults,the unrelated word pairs evoked a greater right frontal old/new effect than did the compounds,perhaps reflecting greater demands on post-retrieval strategic processing for unrelated word pairs due to it being more difficult to form and retrieve the relational representations than unitized representations.This is consistent with the proposal that the right frontal old/new effect is especiallyassociated with associative retrieval of complex stimuli (Rhodes & Donaldson,2OO7).This could also be the reason why the older adults exhibited equivalent right frontal old/new effect for compounds compared with young adults,as the residual prefrontal function of older adults is sufficient to support the retrieval of stimuli that can be unitized. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In addition, consistent with previous ERP studies (Li, Morcom,& Rugg,2004;Wegesin et al.,2002), the older adults also exhibited additional“reversed\"old/new effects over left parietal sites for unrelated word pairs.The left negativity has been interpreted as acorrelate of memory search for visual episodic details (Cycowicz & Friedman,2oo3；Cycowicz，Friedman,& Snodgrass, 2001；Friedman,Cycowicz,& Bersick,2Oo5). In accordance with the interpretation of Li et al.(2Oo4), the present findings may suggest that older adults make additional effort to recover the perceptual details of unrelated word pairs during associative retrieval. Again,only unrelated word pairs showed this negative activity, perhaps due to greater post-retrieval processing demands relative to those for compounds. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.5.Limitations ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Some limitations should be noted.Firstly,in the present study, parts of rearranged pairs in one word pair condition were built by using the words from another word pair condition.The partial change from the compound to the unrelated condition from study to test might influence processing during the test phase. Participants may reject a rearranged pair in one word pair condition by only recalling that one part of the pair was from the other word pair condition,rather than successfully recalling which word actually made the associationwith this part of the rearranged pair during study.Therefore,the data of rearranged word pairsand relevant findings should be treated with caution.Secondly,the presentation styles of word pairs might differentiallyaffect the cognitive processing of compounds and unrelated word pairs.The presentation of one above the other instead of one next to the other may be more unusual for compound relative to unrelated pairs,so a compound word pair may be less likely to be perceived asa compound.Therefore,the presentation style in the present study possibly undermines the unitization processes during encoding.However,this issue may not affect our conclusion that familiarity-related frontal old/new effect contributes to the associative retrieval ofunitized pairs,as the frontalold/new effect was found in a less unitized presentation way (i.e.,one above the other) in the present study.So it is reasonable to believe our conclusion would still hold true fora more likely unitized presentation way(i.e.,one next to the other).Nevertheless,this does not mean it isnot necessary to considera side by side presentation in future studies.Finally,the familiarity-and recollection-related old/new effects usually has a typical bilateral frontal or left parietal distribution,while our ERP results showed pronounced old/new differences with more widespread topography,for which the reasons remain unclear.Thus，the relevant findings need to be interpreted cautiously. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5. Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Insummary, the present findings show that the unitized representations could effectively alleviate the associative deficits in olderadults and enhance the contribution of familiarity to associative recognition,indicating great beneficial effects of unitization on associative memory in older adults.The reduced age-related association deficits under unitized condition may be associated with the presence of familiarity-based retrieval of compound words in older adults.These findings have important implications formemory training in healthy olderadultsand even for individuals with mild cognitive impairment (MCI) and Alzheimer's disease (AD),who all have impaired recollection but relatively preserved familiarity(Gallo，Sullivan，Daffner，Schacter，& Budson，2004; Serra et al.,2010;Westerberg et al.,2006;but see Hoppstädter et al.,2013；Wolk, Signoff,& DeKosky,2008). Future studies are needed to examine whether healthy older adults and MCI or AD patients could benefit more from encoding strategies encouraging unitization（such as interactive imagery） relative to non-unitized encodingstrategies. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (31070916,31271108 and 31470998)，the Knowledge Innovation Project of the Chinese Academy of Sciences (KSCX2-EW-J-8)，theCAS/SAFEAInternational Partnership Program for Creative Research Team (Y2CX131003), KeyLaboratory of Mental Health,Institute of Psychology,Chinese Academy of Sciences (KLMH2014ZKO2),and the National Center for Advancing Translational Sciences,US National Institutes of Health(TL1TR00115). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ahmad,F. N., Fernandes,M.,& Hockley, W.E.(2015). Improving associative memory in older adults with unitization. Aging Neuropsycholohy，and Cognition, 22, 452-472.   \nAlly, B. A., Simons,J. S., McKeever, J. D., Peers, P. V.,& Budson, A.E. (2OO8). Parietal contributions to recollection: Electrophysiological evidence from aging and patients with parietal lesions. Neuropsychologia,46,18o0-1812.   \nBader, R., Mecklinger, A., Hoppstadter, M.,& Meyer,P. (2010). Recognition memory forone-trial-unitized_ word pairs: Evidence from event-related potentials. Neurolmage, 50, 772-781.   \nBastin,C.,Diana,R. A.,Simon,J, Collete,F.,Yonelinas,A.P.,& Salmon,E. (2013). Associative memory in aging: Theefect of unitization on source memory. Psychological and Aging, 28, 275-283.   \nCohn,M., Emrich,S.M., & Moscovitch,M. (2008). Age-related deficits inassociative memory: The influence of impaired strategic retrieval. Psychology and Aging, 23, 93-103.   \nCycowicz, Y. M.,& Friedman,D. (2O03).Source memory for the color of pictures: Event-related brain potentials (ERPs) reveal sensory-specific retrieval-related activity. Psychophysiology, 40, 455-464.   \nCycowicz, Y. M., Friedman, D.,& Snodgrass,J. G. (2001). Remembering the color of objects: An ERP investigation of source memory. Cerebral Cortex,11,322-334.   \nDaselaar,S. M., Fleck, M.S., Dobbins,L G., Madden,D.J.,& Cabeza,R. (2006).Effects of healthy_aging on hippocampal and rhinal_memory functions: An eventrelated fMRI study. Cerebral Cortex, 16,1771-1782.   \nDiana,R. A., Van den Boom, W., Yonelinas, A. P., & Ranganath, C. (2011). ERP correlates of source memory: Unitized source information increases familiaritybased retrieval. Brain Research, 1367,278-286.   \nDiana,R. A., Yonelinas, A. P.,& Ranganath, C. (2O08). The effects of unitization on familiarity-based source memory: Testing a behavioral prediction derived from neuroimaging data. Journal of Experimental Psychology: Learning, Memory， and Cognition, 34, 730-740.   \nDiana,R A., Yonelinas, A. P.,& Ranganath, C. (2010). Medial temporal lobe activity during source retrieval reflects information type, not memory strength. Journal of Cognitive Neuroscience, 22,1808-1818.   \nDonaldson, D.I,& Rugg, M. D.(1998). Recognition memory for new associations: Electrophysiological evidence for the role of recollection. Neuropsychologia, 36, 377-395.   \nDonaldson,D.1,& Rugg, M. D. (1999). Event-related potential studies of associative recognition and recall: Electrophysiological evidence for context dependent retrieval processes. Cognitive Brain Research, 8,1-16.   \nFolstein, M. F., Folstein, S. E.,& Fanjiang, G. (2o01). Mini-mental state examination: Clinical guide. Lutz, FL: Psychological Assessment Resources.   \nFriedman, D. (2013). The cognitive aging of episodic memory: A view based on the event-related brain potential. Frontiers in Behavioral Neuroscience,7, 111.   \nFriedman,D., Cycowicz, Y. M.,& Bersick,M. (2oo5). The late negative episodic memory effect: The effect of recapitulating study details attest. Cognitive Brain Research,23,185-198.   \nFriedman, D., & Johnson, R. Jr.,(20oO). Event-related potential (ERP) studies of memory encoding and retrieval: A selective review. Microscopy Research Technique, 51, 6-28.   \nGallo,D. A., Sulivan, A. L., Daffner, K.R.,Schacter, D.L.,& Budson, A. E. (2004). Associative recognition in Alzheimer's disease: Evidence for impaired reca-toreject. Neuropsychology,18,556-563.   \nGiovanello,K. S.，Keane,M. M.，& Verfaellie，M.(2Oo6).The contributionof familiarity to associative memory in amnesia. Neuropsychologia, 44, 1859-1865.   \nGraf, P.,& Schacter,D.L. (1989). Unitization and grouping mediate dissociations in memory for new_associations. Journal of Experimental Psychology: Learning, Memory, and Cognition, 15, 930-940.   \nGuillaume, C., Clochon, P., Denise, P., Rauchs, G., Guillery-Girard, B., Eustache, F., & Desgranges, B. (20o9). Early age-related changes in episodic memory retrieval as revealed by event-related potentials. NeuroReport, 20,191-196.   \nHayama, H. R., Johnson, J. D., & Rugg, M. D. (2Oo8). The relationship between the right frontal old/new ERP effect and post-retrieval monitoring: Specific or nonspecific? Neuropsychologia, 46,1211-1223.   \nHockley，W.E.,& Consoli, A. (1999).Familiarity_and_recolection in item and associative recognition. Memory and Cognition, 27, 657-664.   \nHoppstadter,M., King, A. V.,Frolich,L.,Wessa, M., Flor,H.,& Meyer,P. (2013). A combined_electrophysiological and morphological examination of episodic memory decline in amnestic mild cognitive impairment. Frontiers in Aging Neuroscience, 5.   \nHoward,M.W., Bessete-Symons, B.， Zhang, Y.,& Hoyer, W. J. (2006). Aging selectively impairs recollection in recognition memory for pictures: Evidence from modeling and receiver operating Characteristic curves. Psychology and Aging, 21, 96-106.   \nJager，T.,& Mecklinger，A. (2009). Familiarity_supports_associative recognition memory for face stimuli that can be unitised: Evidence from receiver operating characteristics. European Journal of Cognitive Psychology,21, 35-60.   \nJager,T., Mecklinger, A.,& Kipp, K. H. (2006). Intra- and inter-item associations doublydissociate the _electrophysiological correlatesof familiarityand recollection. Neuron, 52, 535-545.   \nJager,T., Mecklinger, A.,& Kliegel, M. (2010). Associative recognition memory for faces: More pronounced age-related impairments in binding intra- than interitem associations. Experimental Aging Research, 36,123-139.   \nKoen, J. D.,& Yonelinas, A. P. (2014). The effects of healthy aging, amnestic mild cognitive impairment,and Alzheimer's disease on recollection and familiarity: A meta-analytic review. Neuropsychology Review, 24(3), 332-354.   \nKriukova,O., Bridger,E.,& Mecklinger, A. (2013). Semantic relations diferentially impact associative recognition memory: Electrophysiological evidence. Brain and Cognition, 83, 93-103.   \nLi,J., Morcom, A. M.,& Rugg, M. D. (2004).The efects ofage on the neural correlates of successful episodic retrieval: An ERP study. Cognitive, Affective, and Behavioral Neuroscience, 4,279-293.   \nLiu, Y.et al.(199o). Dictionary of modern Chinese words in common use. Beijing: Yuhang Publishing House.   \nLoftus, G. R.,& Masson, M. E.(1994). Using confidence intervals in within-subject designs. Psychonomic Bulletin and Review, 1, 476-490.   \nMandler,G.(1980).Recognizing:Thejudgmentofpreviousoccurrence. Psychological Review, 87, 252-271.   \nMcCarthy, G.,& Wood, C. C.(1985). Scalp distributions of event-related potentials: An ambiguity associated with analysis of variance models. Electroencephalography and Clinical Neurophysiology/Evoked Potentials Section, 62,203-208.   \nMcDonough, I. M., Wong, J. T.,& Gallo, D. A. (2013). Age-related diferences in prefrontal cortex activity duringretrievalmonitoring: Testingthe compensation and dysfunction accounts. Cerebral Cortex,23,1049-1060.   \nMecklinger,A.,& Jager,T. (2oo9). Episodic memory storage and retrieval: Insights from electrophysiological measures.InF.Rosler,C. Ranganath,B.Roder,&R.H. Kluwe, (Eds.), Neuroimaging of Human Memory: Linking Cognitive Processes to Neural Systems (pp.357-382). Oxford University Press.   \nNaveh-Benjamin, M. (2ooo). Adult age differences in memory performance. Tests of anassociativedeficit hypothesis. Journal of Experimental Psychology: Learning, Memory, and Cognition,26,1170-1187.   \nNaveh-Benjamin,M, Craik,F.I., Guez,J,& Kreuger,S. (20o5). Divided atention in younger and older adults: Effects of strategy_and relatedness_on_memory performanceand secondarytask_costs. Journal of Experimental Psychology: Learning, Memory, and Cognition, 31, 520-537.   \nNessler,D., Friedman, D., Johnson,R., Jr.,& Bersick,M. (20o7). Does repetition engender the same retrieval processes in young and older adults? NeuroReport, 18, 1837-1840.   \nOld, S. R.,& Naveh-Benjamin,M. (2oo8). Differential effects of age on item and associative measures of memory: A meta-analysis. Psychology and Aging, 23, 104-118.   \nPaller,K. A., Voss, J.L.，& Boehm, S. G. (2007). Validating neural correlates of familiarity. Trends in Cognitive Sciences,11,243-50.   \nPatterson, M. M., Light, L. L, Van Ocker,J. C, & Olfman,D. (2009). Discriminating semantic_from episodic_relatednessin_youngand olderadults. Aging, Neuropsychology and Cognition, 16,535-562.   \nQuamme,J.R.(2O04).The role ofunitization in the representation of associations in human memory. Unpublished Ph.D dissertation. University of California,Davis, Ann Arbor.   \nQuamme, J. R., Yonelinas, A. P.,&Norman, K. A. (20o7). Efectof unitization on associative recognition in amnesia. Hippocampus,17,192-200.   \nReitan,R.M.(1992)Trailmakingtest:Manualforadministrationandscoring. Reitan Neuropsychology Laboratory.   \nRhodes，S. M.,& Donaldson,D. I. (2o07). Electrophysiological evidence for the influence of unitization on the processes engaged during episodic retrieval: Enhancing familiarity based remembering. Neuropsychologia, 45, 412-424.   \nRhodes, S. M.,& Donaldson, D.I. (2oo8). Electrophysiological evidence for the effect of interactive imagery on episodic memory: Encouraging familiarity for nonunitized stimuli during associative recognition. Neurolmage, 39, 873-884.   \nRugg,M.D,&CurranT.(07).vent-relatedpotentialsandrecogitionmory Trends in Cognitive Sciences,11,251-257.   \nSerra,L., Bozzali,M,Cercignani,M.,Perri,R.,Fadda,L Caltagirone,C.,&Carlesimo G. A. (2010). Recollection and familiarity in amnesic mild cognitive impairment. Neuropsychology, 24,316-326.   \nSpreen，O., & Strauss，E. (1998). A compendium of_neuropsychological_tests: Administration, norms, and commentary (2nd ed.). New York: Oxford University Press.   \nTibon，R., Gronau,N., Scheuplein, A.-L.， Mecklinger, A.，& Levy， D. A. (2014). Associative recognition processes are modulated by the semantic unitizability of memoranda. Brain and Cognition, 92,19-31.   \nTrott, C.T., Friedman, D., Ritter, W., Fabiani, M.,& Snodgrass,J. G. (1999). Episodic priming and memory for temporal source: Event-related potentials reveal agerelated diferences in prefrontal functioning. Psychology and Aging, 14,390-413.   \nVilberg，K.L.，Moosavi,R.F.，& Rugg，M.D.(2006).Therelationship_between electrophysiological correlates of recollection and amount of information retrieved. Brain Research,1122,161-170.   \nWagner, H. L. (1993). On measuring performance in category judgment studies of nonverbal behavior. Journal of Nonverbal Behavior,17(1),3-28.   \nWang, T. H., de Chastelaine,M.,Minton, B.,& Rugg, M. D. (2012). Effects of age on the neural correlates_of familiarity as indexed by ERPs. Journal of Cognitive Neuroscience, 24(5), 1055-1068.   \nWechsler, D. (1981). WAIS-R manual: Wechsler adult intelligence scale-revised. New York: Psychological Corporation.   \nWechsler, D. (1987). WMS-R manual: Wechsler memory scale,revised. New York: Psychological Corporation.   \nWegesin, D. J., Friedman, D., Varughese, N., & Stern, Y.(20o2). Age-related changes in source memory retrieval: An ERP replication and extension. Cognitive Brain Research, 13,323-338.   \nWesterberg, C.E., Paller, K. A., Weintraub,S. Mesulam, M. M., Holdstock, J. S., Mayes,A. R.,& Reber, P.J. (2oo6). When memory does not fail: Familiaritybased recognition_in mild_cognitive impairment and Alzheimer's disease. Neuropsychology，20,193-205.   \nWiegand,1.，Bader,R.，& Mecklinger,A. (2010).Multiple ways_ to the prior occurrence of an event: An electrophysiological dissociation of experimental and_conceptually driven familiarity in recognition memory. Brain Research, 19cn 10c 110   \nWilding,E.L. (2OoO). In what way does the parietal ERP old/new effect index recollection? International Journal ofPsychophysiology,35,81-87.   \nWilding，E. L. (2oo6). The practice of rescaling scalp-recorded event-related potentials. Biological Psychology, 72,325-332.   \nWolk,D. A., Signoff, E. D.,& DeKosky, S.T. (2oo8). Recollection and familiarity in amnestic mild cognitive impairment: A global decline in recognition memory. Neuropsychologia, 46,1965-1978.   \nXu, S.,& Wu, Z. (1986). The construction of “The Clinical Memory Test\". Acta Psychologica Sinica, 18,100-108.   \nYonelinas,A. P.(1997). Recognition memory ROCs for item and associative information: The contribution of recollection and familiarity. Memory and Cognition, 25, 747-763.   \nYonelinas, A.P. (2oo2). The nature of recollection and familiarity: A review of 30 years of research. Journal of Memory and Language, 46, 441-517.   \nYonelinas, A.P., Kroll, N.E., Dobbins,I. G.,& Soltani, M.(1999). Recognition memory for faces: When familiarity supports associative recognition judgments. PsychonomicBulletinandReview,6,654-661. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

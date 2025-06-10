@@ -1,0 +1,271 @@
+[
+    {
+        "type": "text",
+        "text": "编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "双循环余热回收系统性能分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋健任晓栋 顾春伟",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（清华大学热能工程系热科学与动力工程教育部重点实验室，北京100084)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文针对某型柴油机，提出一双循环余热回收系统，其中高温循环采用水作为工质，回收柴油机高温排气余热，低温循环采用有机工质，相继回收低温主机冷却水余热及高温循环冷凝器的热负荷，高温循环和低温循环通过共用换热器结合。通过热力学分析，探讨了高温循环冷凝器热负荷对低温循环的影响，结果表明在不同条件下，共用换热器的节点温差会发生在不同的位置，从而导致低温循环不同的蒸发温度及其他热力参数。本文设计的双循环系统，最大净功率达到 $1 1 5 . 2 \\mathrm { k W }$ ，可以将柴油机的功率提升 $1 1 . 6 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：余热回收；双循环系统；有机朗肯循环；节点温差中图分类号：TK123 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Performance Analysis of dual-loop heat recovery system ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SONG Jian REN Xiao-dong GU Chun-wei (Key Laboratory forThermal Science and Power Engineering of MinistryofEducation,DepartmentofThermal Engineering, Tsinghua University, Beijing 100084, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A dual-loop system is designed to recover the waste heat of a diesel engine in this paper. The high-temperature (HT) loop utilizes the heat load of the engine exhaust gas,and the low-temperature (LT) loop uses the heat load of the jacket cooling water and the residual heat of the HT loop sequentially. These two loops are coupled via a shared heat exchanger. Water is selected as the working fluid for the HT loop while organic fluids are used in the LT loop.The influence of the HT loop parameters on the performance of the LT loop is evaluated. The simulation results reveal that under different operating conditions of the HT loop,the pinch point of the LT loop occurs at different locations and therefore,results in diffrent evaporation temperatures and other thermal parameters. The maximum net power output of the dual-loop ORC system reaches $1 1 5 . 1 \\ \\mathrm { k W } ,$ ，which leads to an increase of $1 1 . 6 \\%$ on the original power output of the diesel engine. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: waste heat recovery; dual-loop system; Organic Rankine Cycle; pinch point ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "柴油机余热回收技术的研究始于20世纪80 年代，自1973年世界石油危机爆发之后，油价上涨导致交通运输成本大幅度上升，国外很多研究院、大型工厂开始进行柴油机余热回收技术的研究[1]。很多学者提出了不同型式的系统并进行了相关的研究，包括简单系统[2][3]、带回热的系统[3][4]、带预热的系统[5]以及双循环系统等。双循环系统是余热回收领域近期提出的一个概念，其能同时回收不同温度等级的余热。双循环系统一般包含一个高温循环和一个低温循环，两个循环通过共用换热器结合，高温循环冷凝器的热负荷在低温循环中被利用。天津大学 Shu 等[探讨了蒸发温度对双循环余热回收系统的影响，其中以水作为高温循环的工质，回收高温排气余热，以多种有机工质作为低温循环的工质，回收冷却水热负荷、高温循环冷凝器热负荷以及低温排气热负荷。北京工业大学 Zhang 等使用R245fa作为高温循环和低温循环的工质，探讨了发动机全工况条件下双循环系统的性能。Choi[等在高温循环中使用水的闪蒸，低温循环使用R1234yf作为工质，研究了高温循环冷凝温度对系统的影响。Panesar 等[10]设计了应用于卡车引擎的双循环余热回收系统，研究结果表明发动机功率可以提升$5 . 8 \\% - 7 . 4 \\%$ 。在双循环系统中，低温循环一般需要回收低温余热及高温循环冷凝器的热负荷，高温循环的冷凝参数会对低温循环产生一定的影响，对这一方面进行研究，对于探讨双循环系统的性能具有十",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分重要的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文针对沪东重机厂生产的某型柴油机，提出双循环系统回收余热。其中高温循环采用水作为工质，回收高温排气余热；低温循环采用有机工质，相继回收主机冷却水余热及高温循环冷凝器热负荷。本文探讨了高温循环冷凝器热负荷对低温循环的影响。计算结果表明，在高温循环不同的冷凝条件下，低温循环的节点温差会发生在不同的位置，导致其不同的蒸发温度和其他热力参数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 双循环余热回收系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1柴油机余热 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的余热回收对象为沪东重机厂生产的某型柴油机，环境温度 $2 5 ^ { \\circ } \\mathrm { C }$ 条件下柴油机额定工况单机功率 $9 9 6 \\mathrm { k W }$ 。排气流量为 $7 1 3 9 \\mathrm { k g / h }$ ，排气经过涡轮增压器后温度为 $3 0 0 ^ { \\circ } \\mathrm { C }$ 。主机冷却水进口温度为$6 5 ^ { \\circ } \\mathrm { C }$ ，出口温度为 $9 0 ^ { \\circ } \\mathrm { C }$ ，流量为 $6 8 7 6 \\mathrm { { k g / h } }$ ，热负荷约为 $1 9 9 . 9 \\mathrm { k W }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2双循环系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文设计和分析的双循环余热回收系统，包含高温循环和低温循环：其中高温循环选用水作为工质，回收排气余热；低温循环选用R123、R236fa和R245fa作为工质，相继回收主机冷却水余热及高温循环冷凝器热负荷。两个循环通过共用换热器结合，高温循环的冷凝器同时是低温循环的蒸发器。双循环系统的示意图如图1所示，相应的T-s图如图2所示。系统热力计算和分析基于REFPROP9.1提供的各工质物性参数及物性计算文件，进行二次程序开发实现[6][11]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b59cdeca4ebb1e143c86e8677f822a952b326f8eb6323d4f8ea9422485d6d543.jpg",
+        "img_caption": [
+            "图1柴油机双循环余热回收系统",
+            "Fig.1 Dual loop system for engine waste heat recovery "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/06b343b916e1f51adf77e15496030bf011714666a88099ae62548526fb6b07db.jpg",
+        "img_caption": [
+            "图2双循环余热回收系统T-s图Fig.2 T-s diagram of dual loop system"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2高温循环热力分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高温循环回收高温排气余热，根据文献[12]，排气的末温设置为高于 $3 7 8 . 1 5 \\mathrm { K }$ ，可以有效避免酸性危害。高温循环使用水作为工质，冷凝温度为375K。本文设置了不同的干度条件（0.2-1.0）以获得适宜的蒸发温度。热力计算结果如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/78de242814f4322e20ec3c13a313842d488c12487b767a490d1eda0360c5cf6e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从图3(a)中可以看出，同一蒸发温度条件下，干度越大，排气末温越高。高温循环总吸热量随着排气末温的升高而减少，但单位工质水蒸气需要的热量随着干度的增加而增加，所以水蒸气的质量流量随着干度的增加而显著降低，如图3(b)所示。图3(c)显示，每一蒸发温度条件下，高温循环的净功率随着干度的增加而降低，由此可见质量流量的减少占据主导作用。图3(d)显示干度增加，高温循环冷凝器热负荷降低，这是因为总吸热量显著降低引起的。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9b53a36f6da201e2f0e48300a99ffdd88a52b52073fc8fc72f9c6c120e92eda.jpg",
+        "img_caption": [
+            "Fig.4 Simulation results of the HT loop (dryness fraction $= 0 . 2$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干度较小的情况下，高温循环中为湿膨胀过程。此时高温循环的性能较好，同时冷凝器的热负荷相对较高，这部分热量后续将被低温循环利用。故本文将高温循环工质干度选为0.2。热力计算结果如图4所示。高温循环的净功率最大为 $5 4 . 5 \\mathrm { k W }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a44380a6e1a368ad2aeb4bce58bf1644f3fc4d2f4c7afac478192e6e5eae9a3.jpg",
+        "img_caption": [
+            "图4高温循环热力计算结果（干度 $\\scriptstyle : = 0 . 2$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/65d2180b9bec6bb55ef74b6b6c5b17af3f125b8a6fd6673d8222dc9fb6c6e01b.jpg",
+        "img_caption": [
+            "图3高温循环热力计算结果 Fig.3 Simulation results of the HT loop "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3低温循环热力分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高温循环的冷凝温度为375K，其高于主机冷却水初温，低温循环的节点温差可能会发生在三个不同位置：第二个换热器、第一个换热器出口及第一个换热器内部，如图5所示。低温循环节点温差的发生位置主要与高温循环冷凝器的热负荷有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c47ddd0d8929a2a6ece984e0ccf69365ebda30da679ad63b1c3dd8b65166966.jpg",
+        "img_caption": [
+            "图5低温循环节点温差位置"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "低温循环的热力计算结果如图6所示。从图6a可以看出，R123和R245fa的蒸发温度随着冷凝器热负荷的降低而降低。R236fa的蒸发温度的变化趋势有所不同：当冷凝器热负荷较大时，R236fa的蒸发温度维持在369K，恰为高温循环冷凝温度（375K）与节点温差（6K）之差；当冷凝器热负荷下降，R236fa的蒸发温度开始快速下降；当冷凝器热负荷较小时，R236fa的蒸发温度下降较为平缓。结合上面的分析，可以发现随着冷凝器热负荷的降低，低温循环的节点温差位置从第二个换热器（对应高温循环冷凝器热负荷）向第一个换热器（对应主机冷却水热负荷）发生了转移。图6b显示工质的流量随着冷凝器热负荷的降低而降低，图6c显示低温循环的净功率随着冷凝器热负荷的降低而降低，其中R236fa对应的净功率趋势明显可以划分成三个不同的阶段，与其蒸发温度的趋势类似。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c60928a9be62190dbc6b2964b4270483d45e2a6895f8e667967eadd0b63a32f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fd5046566bc928abef1cd33b9e496855463cc51fee50ac90779b2350082d6c8.jpg",
+        "img_caption": [
+            "Fig.5 Pinch point location of the LT loop ",
+            "图6低温循环热力计算结果 Fig. 6 Simulation results of the LT loop "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高温循环的净功率随着排气末温的升高而升高，低温循环的净功率都随着排气末温的升高而降低，系统总净功率的变化趋势如图7所示。当高温循环蒸发温度为480K，低温循环采用R236fa位工质时，双循环系统总净功率最大为 $1 1 5 . 1 \\mathrm { k W }$ ，可以将柴油机的功率提升 $1 1 . 6 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1dff866c58d8bffe3d949b6d0d005f0f4654f0de8d0a8c29fcfc2547129e602.jpg",
+        "img_caption": [
+            "图7双循环系统总净功率",
+            "Fig.7 Net power output of the dual loop system "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文针对沪东重机厂生产的某型柴油机，设计双循环系统回收余热。高温循环使用水作为工质，采用湿膨胀过程，回收排气余热，低温循环采用有机工质相继回收主机冷却水余热和高温循环冷凝器热负荷。高温循环的冷凝器热负荷会对低温循环产生影响，主要决定低温循环的节点温差位置。本文提出的双循环余热回收系统，当高温循环干度为0.2，蒸发温度为480K，低温循环采用R236fa位工质时，双循环系统总净功率最大为 $1 1 5 . 1 \\mathrm { k W }$ ，可以将柴油机的功率提升 $1 1 . 6 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]景国辉，范建新．船舶柴油机总能利用系统技术发展 概况[J].柴油机,2010(6):1-4. Jing Guohui，Fan Jianxin.Development of energy utilization technology for marine diesel engine[J].Diesel engine,2010 (6):1-4.   \n[2] Srinivasan KK，Mago PJ,Krishnan SR．Analysis of exhaust waste heat recovery from a dual fuel low temperature combustion engine using an Organic Rankine Cycle.Energy 2010;35:2387-99.   \n[3] Vaja I, Gambarotta A. Internal combustion engine (ICE) bottoming with organic Rankine cycles (ORCs). Energy 2010;35:1084-93.   \n[4] Larsen U,PierobonL,Haglind F,Gabrielii C.Design and optimisation of organic Rankine cycles for waste heat recovery in marine applications using the principles of natural selection. Energy 2013;55:803-12.   \n[5] Yu GP, Shu GQ, Tian H,Wei HQ,Liu LN. Simulation and thermodynamic analysis of a bottoming Organic Rankine Cycle(ORC) ofdieselengine(DE).Energy 2013;51:281-90.   \n[6]Song J, Song Y,Gu CW. Thermodynamic analysis and performance optimization of an Organic Rankine Cycle (ORC） waste heat recovery system for marine diesel engines.Energy 2015;82:976-85.   \n[7]Shu GQ,Liu LN, Tian H, Wei HQ, Yu GP. Parametric and working fluid analysis of a dual-loop organic Rankine cycle (DORC) used in engine waste heat recovery. Appl Energy 2014;113:1188-98.   \n[8]Zhang HG, Wang EH, Fan BY. A performance analysis of a novel system of a dual loop bottoming organic Rankine cycle (ORC) with a light-duty diesel engine. Appl Energy 2013;102:1504-13.   \n[9]Choi BC,Kim YM.Thermodynamic analysis of a dual loop heat recovery system with trilateral cycle applied to exhaust gasesofinternalcombustion enginefor propulsion of the 680o TEU container ship. Energy 2013;58:404-16.   \n[10]Panesar A S,Morgan RE,Miché ND D,et al.A novel organic Rankine cycle system with improved thermal stability and low global warming fluids[C]//MATEC web of conferences.EDP Sciences,2014,13: 06002.   \n[11] Song J,Li Y,Gu C,et al. Thermodynamic analysis and performance optimization of an ORC(Organic Rankine Cycle） system for multi-strand waste heat sources in petroleum refiningindustry[J]. Energy, 2014，71: 673-680.   \n[12] Bahadori A. Estimation of combustion flue gas acid dew point during heat recovery and eficiency gain[J]. Applied Thermal Engineering,2011,31(8): 1457-1462. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,496 @@
+[
+    {
+        "type": "text",
+        "text": "基于图像语义的用户兴趣建模",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曾金1,陆伟1,²丁恒」陈海华11(武汉大学信息管理学院武汉 430072)2(武汉大学信息检索与知识挖掘研究所武汉 430072)3(武汉传媒学院文化管理学院武汉 430205)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】社交网络环境下的用户兴趣建模是好友推荐、精准营销的关键，利用微博用户分享的图像，提出一种基于图像语义的用户兴趣建模方法，旨在更加准确地预测用户的真实兴趣。【方法】在获取新浪微博用户图像数据的基础上，使用图像的高层语义表达用户兴趣特征，基于这些特征使用SVM训练得到图像语义分类器进行预测。【结果】实验结果表明，本文建立的模型能够较为准确地预测用户真实兴趣,169位用户分类的准确率达到 $9 7 . 3 8 \\%$ ，召回率为 $9 8 . 9 2 \\%$ ，F值为 $9 8 . 1 4 \\%$ 。【局限】由于实验图像数据集有限，未能完整地覆盖用户所有的兴趣类别。【结论】该模型能够基于用户分享的图像较为准确地预测用户兴趣，表明了图像高层语义的有效性，同时为图像高层语义应用研究提供了一定的理论和技术基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:图像语义用户兴趣建模社交网络支持向量机分类号：G353",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着网络带宽和多媒体技术的迅猛发展，用户获取信息资源的方式日益多元化，不同的用户由于知识背景、兴趣爱好等方面的差异，需要的信息资源往往是不同的。在这种网络环境下，为了更好地解决个性化用户兴趣需求，建立更为准确的用户兴趣模型，各种用户兴趣数据采集方法应运而生。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，用户兴趣数据主要有两种：用户行为数据[1]和用户文本数据[2]。用户行为数据，一般通过设计相应的系统或系统插件来收集信息，但是系统或系统插件设计时间周期性长，收集数据过程较为漫长，需要消耗一定的人工成本和时间成本。用户文本数据获取较为困难，鉴于数据隐私保护等原因，一般不公开或对研究者开放，如：检索日志难以获得。当然建模方法在用户兴趣研究方面非常成熟，也在社交网络下解决了用户获取兴趣问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "相比较于用户行为数据和用户文本数据，用户图像数据也能够直接地、真实地反映用户个人的兴趣行为和兴趣取向，尤其是社交网络中用户分享的各类图像信息，是用户兴趣内容的直接记录和表现方式，并且用户图像分享不受语言障碍限制，不同的国家及文化背景的用户，可以很方便地通过分享图像表达自己的兴趣和爱好。所以，在社交网络环境下如何从大量的图像数据中识别用户兴趣，是一个非常有挑战性的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "建立用户兴趣模型，必须获取大量真实的用户兴趣信息。获取用户兴趣信息的过程离不开用户的参与以及他们的信息反馈。根据用户兴趣信息的获取方法，可以分为两类：显式反馈和隐式反馈[3]。显式反馈是指用户通过社交网络或检索系统直接表达自己的兴趣爱好，获取显式反馈信息有两种方法：一种是用户对自己感兴趣的信息进行打分、评价、回复等，从而获取用户的兴趣反馈；另一种是用户通过网络注册或填写表单的形式获取用户的兴趣反馈。这两种方法的好处在于简单，能直接获得用户的兴趣；不足之处在于需要用户花费时间和精力参与，不太友好的用户可能会直接忽视或拒绝做出评价反馈。另外显式反馈获取的信息也可能无法反映用户的真实兴趣偏好，用户可能为了完成任务或流于形式而进行信息反馈，对于这些伪用户兴趣反馈的信息，在构建数据模型时会存在一定缺陷，并不能够真实反映用户兴趣。解决伪用户兴趣反馈信息问题是用户兴趣模型的一个研究方向，比如如何识别伪用户反馈信息，如何提高用户反馈信息的数量和质量等。隐式反馈方式是指不要求用户提供任何信息，通过用户对社交网络或检索系统的访问轨迹、查询内容及其他特征反馈用户的兴趣。该方式的好处在于不会对用户造成打断或干扰，但用户在信息检索过程中的语义表达可能会存在歧义，社交网络的访问轨迹和兴趣也会随时间发生变化。隐式反馈在信息检索和用户推荐系统方面应用非常成熟，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对以上问题，本文采用显式反馈和隐式反馈相结合的方式，通过社交网络显式获取用户分享的图像数据，借助隐式的图像语义挖掘技术，从用户图像语义的角度建立用户兴趣表达模型，并设计用户兴趣预测实验，对“用户分享的图像是否能够反映用户兴趣\"这一问题进行探讨。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2相关研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "社交网络和自媒体环境下的用户兴趣建模是当前研究的热点方向，学者们主要从用户兴趣数据的获取、用户兴趣模型的表示方法、用户兴趣模型评价等方面对该问题进行探索，使用的数据大都是文本类型的数据。本文的创新之处在于充分使用与用户相关的图像数据，从图像语义挖掘的角度对用户兴趣进行建模。因此，用户兴趣建模研究、图像语义分析与识别研究和图像语义在用户兴趣建模中的应用构成了本文的研究基础，将从三个方面对国内外相关研究进行全面梳理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 用户兴趣建模研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着各种推荐系统和社交网络的发展，学者们开始利用社交网站上产生的各种数据构建用户兴趣模型。Krulwich[4通过人口统计学数据，根据用户的知识背景、职业、年龄、地理分布等特性对用户进行兴趣推荐。Yang 等[5根据用户信息(年龄、性别及地域等)和在社交网上的社区信息，采用机器学习方法，得到用户和社会特征并预测社交网络上用户视频的兴趣相似度，对具有相同或相似兴趣的视频做用户兴趣推荐。Chen[提出一种基于主题表示向量空间的方法，该方法通过社交网络提取用户兴趣数据的特征项并计算相应权值来表示用户兴趣向量，并构建用户兴趣模型。Jiang等采用丰富语义的方法确定用户兴趣，并通过社交网络构建主题层次树模型捕获用户兴趣，表明用户的兴趣随时间变化可以被划分为主要兴趣和次要兴趣。Yin 等[8提出一种基于时间上下文感知混合模型，该模型通过两个因素，即用户固有兴趣作为内部因素和时间上下文作为外部因素，该模型能拟合用户兴趣及变化时间上下文权重，能够对用户兴趣进行评级并结合时间预测用户的兴趣变化。这些已有研究均是在文本类型的数据上展开，然而社交媒体上过短的文本数据并不一定能够真实反映用户兴趣，而且很多时候，用户发布的仅仅是一组不带任何文本的图片，如何利用这些图片信息获取用户兴趣是基于社交媒体的用户兴趣建模中遇到的一大难题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "虽然国内不少学者对社交网络中的用户兴趣建模也进行了探索，但同样都是在文本数据上进行的。文献[9-12]都是在微博短文本上展开的，且基本上都是采用文本分类和主题挖掘的方法，其他研究利用了社会化标签：易明等[13]借鉴社会网络分析方法，提出构建网站层次和用户层次的社会化标签网络，对用户产生的社会化标签进行序化，进而分别得到反映主题领域的社会化标签使用文档和用户标签网络，通过两者相似度的计算形成细粒度用户兴趣模型；扈维等[14则从用户对不同标签的\"认同度\"和\"依赖度\"两方面衡量用户的标签兴趣。另外，孙雨生等[15]对国内用户兴趣建模研究进行综述，发现目前尚未有利用图像语义构建用户兴趣模型的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 图像语义分析与识别研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着机器学习的发展，图像语义分析越来越受到人们的关注。对图像语义特征的描述是图像语义分析的基础，已有研究主要是从低层视角特征和高层语义特征两个方面进行描述[1]。高隽等[17]对图像语义分析进行综述,认为图像内容的语义分析主要包含语义化的图像特征、图像语义的上下文表达、语义分析的生成方法等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内外学者也在图像语义分析与识别的基础上展开了很多应用研究，但大多是图像检索领域。Lin 等[18]基于贝叶斯网络构建语义模型用于医学图像的语义搜索；Wang 等[19提出一种语义描述模型，用于基于内容的图像检索，主要包括原始图像层、图像特征层、图像语义层、多层语义模式层和语义标注层。近年来，更多的学者将神经网络(DNN、CNN、RNN)引人到图像语义识别中，使得图像检索的效率大大提升[20-21]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图像高层语义特征提取是图像语义分析与应用的基础，也是一项十分复杂的工作。Google在2014 年图像识别大赛使用GoogLeNet模型，通过深度神经网络[22很方便地抽取了图像中包含的语义概念分布，这为本研究提供了重要的技术基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 图像语义在用户兴趣建模中的应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将图像语义应用于用户兴趣建模是一个较新的研究方向，成果相对较少。You 等[23-24]利用用户在社交网站上发布的图像推断用户性别，然后利用图像内容挖掘技术来预测用户属性，对用户进行分类，通过创建用户组织结构自动识别图像类别及图像内容。Segalin等[25]通过 Flickr、Facebook、Instagram 社交平台构建在线社交用户的特征，并为用户创造基于图像的研究活动(如创作、上传和喜欢图像)作为社交消息，使用卷积神经网络算法推理用户人格。Yang等[2提出一种基于多维图像(图像本身文本和社交超链接)质量预测模型用于社交网络来生成用户图像。Yang等27通过图像社交网络平台(Flickr)构建角色感知传染模型，以用户在社交平台上发布的图片，了解用户的情感历史、社会地位和社会结构，从而得出用户的情绪和情感状态在社交网络上的影响。Sasaki等[28提出一种基于微笑图像内容情感传染系统，通过笑脸表情传达感情，发现关系紧密的用户对于微笑情感传染会有更强效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对用户兴趣建模方法方面，已有研究进行了大量探索，但大都是基于文本数据的。虽然也有少量学者使用图像信息，但还没有通过高层语义表达用户兴趣的成果。本文试图依据微博用户发布的图像数据，结合图像语义(高层语义)识别的方法，对用户兴趣进行建模。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3基于图像语义的用户建模方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 问题定义",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文将用户兴趣识别问题转化为传统的分类问题，即根据用户 $U$ 的兴趣特征向量 $U _ { \\nu } { = } \\{ x _ { 1 } , ~ x _ { 2 } , ~ x _ { 3 } , \\cdots ,$ （204$\\left. x _ { n } \\right\\}$ 和功能函数 $f ,$ 判断用户的兴趣类别 $Y { = } \\{ y _ { 1 }$ ， $y _ { 2 }$ $y _ { 3 } , \\cdots , y _ { i } \\}$ ，记为 $f ( U _ { \\nu } ) { \\to } Y ,$ 其中 $y _ { i }$ 代表用户的兴趣类别。分类任务的核心在于用户图像语义特征的表达和功能函数 $f$ 的求解方法，因此在用户兴趣识别中也涉及两个核心问题：如何构建用户兴趣特征向量；如何求解用户兴趣识别功能函数 $f _ { \\circ }$ 功能函数 $f$ 可使用多种算法(如 $\\mathrm { S V M } ^ { [ 2 9 ] }$ ，AdaBoost[30]等)进行求解。用户兴趣特征向量有多种构建方法，如基于文本数据、搜索行为数据的用户兴趣特征表达。本文的核心思想在于\"探讨用户分享图像中的语义概念是否能够表征用户的兴趣倾向”，因此通过用户发布图片的高层语义表达用户兴趣特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 用户兴趣分类与语义兴趣特征表达",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户兴趣识别的前提是分类类别体系的构建。笔者希望尽可能在覆盖微博兴趣类别的同时，能够获取足够的图像数据语料。通过Python爬取新浪微博用户日常生活中关注较多的内容，包括：旅游、动漫、时尚、美食、模特、明星、搞笑、运动健身、星座、艺术。最终选择图像区分度最高且最为用户关注的5类(旅游、动漫、时尚、美食、模特)作为用户兴趣的分类体系，原因在于：分类过细会导致重复分类或分类模糊，从而降低实验效果；其他5类包含较多的视频和文本信息而缺乏图像数据，不利于模型的训练。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于图像内容特征识别用户兴趣的思想在文献[24]中已有所涉及，该文首先利用图像的视觉特征识别出每张图片所属的兴趣类别，然后整合用户图片集中的所有兴趣，从而对用户兴趣进行建模。本研究的创新在于，从用户分享的图像语义内容视角识别用户的兴趣偏好，其核心思想是“若某些语义概念及对象在用户日常分享的图片中反复出现，则可能表现出用户对于某类兴趣主题的偏好”。因此，在文献[24]定义的用户兴趣识别框架中，本文对用户兴趣特征表达进行创新，提出一种新的用户兴趣特征表达方式：给定某个用户 $U ,$ 假设其在特定时间段内在微博中发布的图片集合为 $I { = } \\{ i _ { 1 } , i _ { 2 } , i _ { 3 } , \\cdots , i _ { n } \\} , n$ $n$ 表示图片的数量，对于每一张图片 $i ,$ 包含多种不同的概念和对象(可以作为图像语义的表征)，可以用已有的图像语义识别技术识别这些概念及对象的特征集合 $\\mathrm { F } { = } \\{ f _ { 1 } , f _ { 2 } , f _ { 3 } , \\cdots , f _ { j } , \\ \\cdots , f _ { m } \\}$ $m$ 为特征数, $f _ { j }$ 表示该图像包含语义概念 $j$ 的概率。不同兴趣类型用户分享图片的概念特征分布不同，故可据此预测其不同的兴趣。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3基于图像的用户兴趣识别",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户兴趣识别以用户兴趣特征为基础，可从文本层面和图像层面展开。本研究基于微博图像的语义特征，运用机器学习的方法对每张图像所属的兴趣进行分类，进而识别用户兴趣。设用户兴趣分类体系为 $L$ $= \\{ l _ { 1 } , l _ { 2 } , l _ { 3 , } . . . . , l _ { j } \\}$ ，对于用户U，其发布的微博图片集合为 $I { = } \\{ \\ i _ { 1 } , \\ i _ { 2 } , \\ i _ { 3 , } . . . . , i _ { n } \\ \\} ,$ $n$ 表示图片的数量,基于图像语义的用户兴趣特征，使用(SupportVectorMachine,SVM)训练得到图像语义分类模型对用户兴趣类别进行预测，得到 $n$ 条图像语义对应的预测类别列表$P { = } \\{ p _ { 1 } , p _ { 2 } , p _ { 3 } , \\ { \\cdots } , p _ { i } \\}$ ，其中 $p _ { i } \\in \\cal { L }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在预测类别列表上定义一个计数函数 $c o u n t ( x , P )$ 表示类别 $x$ 在 $P$ 中出现的次数，其中 $x \\in L$ 将count(x,$P )$ 的值由高到低排序，选择排序靠前的类别表示用户兴趣。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 数据采集及处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "新浪微博共有48个热门分类，笔者手工获取用户分享图像较多的5个类别，即：旅游、时尚、动漫、模特和美食，再从5个类别上获取169个用户的ID号和URL，通过Python编程抽取粉丝数百万以上的用户最近分享的300张图片，最终共爬取到5个类别的50700张图像，因有785张图像无法识别，选用剩下的49915张图像作为数据集，每张图像都会对应相关联的ID号。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这里的图像是指用户发表一条图文微博中所配的图像，具体用户分享图像如图1所示。用户粉丝超过百万级别并不代表该用户真正属于某个类别，也无法证实用户的真实兴趣被固化，因为用户兴趣标签是自己所贴，有些百万级粉丝用户通常有多个兴趣标签，可以解释为这些用户有多个兴趣类别，用户兴趣标签如图1所示。该用户同时具有多个兴趣标签：做饭、菜谱、吃货、旅游、健康、美食、私房菜、佳肴、宅、80后，这里的兴趣标签有些也是用户的兴趣爱好。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb3ef1e93f9c16d7b3d5e71543875901a752503725d66ba3444c7dd376acfcf5.jpg",
+        "img_caption": [
+            "图1用户分享图像及用户兴趣标签"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5个类别中，有785张图像利用训练出来的模型无法识别，这些图像主要是由用户自行合成，用户合成图像主要是指用户将多张图像合成一张图像，无法识别的原因在于识别是一对一的，无法识别一对多，模型无法识别的图像如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于本文研究目的在于“探讨用户分享图像中的语义概念是否能够表征用户的兴趣倾向”，因此将169个用户分为5个类别，如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 实验设置 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）用户兴趣的特征抽取 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "笔者以用户分享图像中的概念分布作为用户兴趣特征。对于任意一副图像i，在Caffe深度学习框架上,通过Google开源GoogLeNet深度神经网络[22抽取图像中包含的语义概念分布 $F _ { i } { = } \\{ f _ { i 1 } , f _ { i 2 } , f _ { i 3 } , \\ \\cdots , f _ { i m } \\} $ 。使用GoogLeNet的原因在于其具有较高的图像概念识别准确率，并且在图像语义挖掘上排名第一，而且消耗的计算资源较少。对于用户 $U$ 的图像集合 $\\scriptstyle I = \\{ \\ i _ { 1 }$ $i _ { 2 } , \\ i _ { 3 } , \\cdots , \\ i _ { n } \\ \\}$ ，其用户兴趣特征向量(语义概念分布)如公式(1)所示，其中 $n$ 为用户 $U$ 分享的图像数。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b1406073d35ea0f89a3afc52fd4c187495796ff02993ea2fe451ca0f0f26cf40.jpg",
+        "table_caption": [
+            "表15个类别用户和图像数目"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>用户类别</td><td>用户总计</td><td>图像总计</td></tr><tr><td>旅游</td><td>42</td><td>12 530</td></tr><tr><td>时尚</td><td>40</td><td>11 901</td></tr><tr><td>动漫</td><td>37</td><td>10 751</td></tr><tr><td>模特</td><td>30</td><td>8833</td></tr><tr><td>美食</td><td>20</td><td>5900</td></tr><tr><td>总数</td><td>169</td><td>49 915</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5089066bf32fd7db053e9d21b5784364a2bc6db3acc2cd8acde3311892b86de7.jpg",
+        "img_caption": [
+            "图2模型无法识别图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { \\nu } = \\sum _ { i \\in I } { \\frac { F _ { i } } { n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）用户兴趣识别 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将用户兴趣识别转化为分类问题，并采用支持向量机算法作为分类器，支持向量机在高维模式识别中具有很强的优势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选择LIBSVM开源工具包作为实现用户兴趣分类识别的软件工具。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）数据组织",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将169位用户的兴趣特征向量(语义概念分布)作为所有样本。且把每个样本的特征按照一定的数据格式表示为一个向量，具体格式为：label1:value 12:value 23:value 3。其中label是数据集的类别编号，这里有 travel(旅游)、fashion(时尚)、comics(动漫)、model(模特)、food(美食)5个类别，编号为0、1、2、3、4。1、2、3表示特征的序号;value1、value2、value3表示图像特征的数据，从分类的角度来说就是特征值，数据之间用空格隔开，通过实验得出每位用户分享的图像有1008 维特征向量，也就是1008个特征值，如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d934abaa4e6005390ef72fd66cbc90fdc41e2fd9218cbe7cc01cc225f45cc211.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>1 0</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>1:</td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11 12</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3特征值",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)参数选择 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用支持向量机求解分类问题，关键是核函数与参数的选择。在实验过程中，笔者将数据集先进行归",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一化处理，设置参数-t 核函数类型为0(线性核函数)-sSVM 类型为1(v-SVC)。归一化处理后使用 svm-train.exe命令对数据集进行训练，生成训练模型；最",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "后使用svm-predict.exe命令通过训练模型预测结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）验证方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本次实验采用k折交叉验证，k值为10，即将5个类别的169个用户分成10份，每份都是相同数量的用户，大约17个，轮流将其中9份作为训练数据,1份作为测试数据，进行验证，每次实验都会得出相应的正确率，将10次结果的正确率计算出总和，然后再求出10次总和的均值，作为对算法准确性的评估，这样可以很好地解决过拟合问题。通过实验最后得出CrossValidationAccuracy $= 8 9 . 3 4 9 1 \\%$ ，说明数据集和模型构建稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3 结果评价 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最终实验评测标准参数为:P准确率、R召回率、F值，如表2所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc03d2d7f1f01fe20acf4488679366f792826f31064738e623e2c7b1eb1a39e3.jpg",
+        "table_caption": [
+            "表2用户兴趣分类识别效果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>兴趣类型</td><td>P准确率</td><td>R召回率</td><td>F值</td></tr><tr><td>旅游</td><td>100%</td><td>100%</td><td>100%</td></tr><tr><td>时尚</td><td>95.56%</td><td>100%</td><td>97.73%</td></tr><tr><td>动漫</td><td>94.59%</td><td>94.59%</td><td>94.59%</td></tr><tr><td>模特</td><td>96.77%</td><td>100%</td><td>98.36%</td></tr><tr><td>美食</td><td>100%</td><td>100%</td><td>100%</td></tr><tr><td>微平均</td><td>97.17%</td><td>98.81%</td><td>97.98%</td></tr><tr><td>宏平均</td><td>97.38%</td><td>98.92%</td><td>98.14%</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验结果表明，训练出的模型预测用户兴趣类别，准确率为 $9 7 . 3 8 \\%$ ，召回率为 $9 8 . 9 2 \\%$ F值 $9 8 . 1 4 \\%$ ，具有很高的准确率和召回率，分类效果好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图像兴趣识别模型在时尚、动漫和模特类别上效果没有其他类别好，这是因为时尚类别的图像语义不太好表达，时尚类别图像基本上包括：服饰、人物、外景、食物、建筑、艺术品等，图像内容跨度较大，时尚的概念太过宽泛，每位用户对时尚图像的理解不一样;动漫类别图像噪声比较大，合成图比较多，一张图像划分成好几块小图像，且动漫类图像内容也较为杂，包括：动物、小孩、人物装饰等；模特类别图像内容包含的内容也较为丰富，如：人物、服饰、外景等，在语义识别上有一定的模糊度。很显然，旅游图像语义具有很明显和独特的视觉语义特征，图像内容比较好识别；而美食图像颜色较为相近，图像内容和语义特征都具有相似性，所以识别效果较好，同时也说明图像语义与类别之间存在一定的内在联系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，图像高层语义并没有一个完整的特征分类体系，高层语义特征表现形式和内容较为复杂，如：行为语义(迁移、进攻、超越等)；场景语义(风景、街道、房屋等)；情感语义(快乐、痛苦、平静等)。本次实验图像所展示的高层语义大多都是基于场景和对象(人物、动物、食物)，在图像语义和特征值上具有高度的相似性，所以在图像语义识别上准确率较高,分类效果较好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出构建基于图像语义的用户兴趣模型，分析了社交网络环境下用户兴趣类别图像信息特点，通过社交网络中用户分享图像建模和语义挖掘技术实现图像语义识别，实验得出召回率、准确率和F值平均值在 $9 7 \\%$ 以上，用户图像兴趣识别效果较好，实验结果证明了算法的有效性。此外，需要完善之处在于分类应尽可能包含更多类别，数据集应尽可能多，需要花更长的时间对数据进行分析和加工。不足之处，用户的兴趣不仅表现在图像分享，而且在文本挖掘领域也可以被很好地利用，所以将图像和文本结合的方式更能够反应用户的兴趣；其次，本次实验爬取的数据仅仅只是某个时间段用户分享的图像。随着时间的变化用户分享的图像也会发生变化，而用户兴趣是否发生漂移现象需要进一步验证；还可以开展基于图像语义的用户个性化推荐研究工作；另外，还可以研究基于多标签的用户兴趣图像识别。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] ZhengL,Cui S,Yue D,etal.User Interest Modeling Based onBrowsing Behavior [C]// Proceedings of the 3rd International Conference on Advanced Computer Theory and Engineering.IEEE,2010.   \n[2] Bei X,Hai Z.An Angle-Based Interest Model for Text Recommendation[J]. Future Generation Computer Systems, 2016,64:211-226.   \n[3] Jung S,Herlocker JL,Webster J.Click Data as Implicit Relevance Feedback inWeb Search[J].Information Processing & Management,2007,43(3):791-807.   \n[4] Krulwich B.Lifestyle Finder: Intelligent User Profiling Using Large-scale Demographic Data[J].AI Magazine,1997,18(2): 37-45.   \n[5]Yang C, Zhou Y, Chiu D M. Who are Like-minded: Mining User Interest Similarity in Online Social Networks[OL]. arXiv Preprint,arXiv:1603.02175.   \n[6]Chen Z H. Modeling Research on Micro-blog Users[C]// Proceedings of the 2nd International Conference on Computer Science and Electronics Engineering.2013.   \n[7]Jiang B，Sha Y. Modeling Temporal Dynamics of User Interests in Online Social Networks[J]. Procedia Computer Science,2015,51(1): 503-512.   \n[8]Yin H, Cui B,Chen L,et al. A Temporal Context-aware Model for User Behavior Modeling in Social Media Systems[C]// Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data. 2014: 1543-1554.   \n[9]邱云飞，王琳颍，邵良杉，等．基于微博短文本的用户兴 趣建模方法[J]．计算机工程，2014，40(2):275-279.(Qiu Yunfei, Wang Linying, Shao Liangshan, et al. User Interest Modeling Approach Based on Short Text of Micro-blog[J]. Computer Engineering,2014,40(2): 275-279.)   \n[10]宋巍，张宇，谢毓彬，等．基于微博分类的用户兴趣识别 [J]．智能计算机与应用，2013，3(4):80-83．(Song Wei, Zhang Yu,Xie Yubin,et al. Identifying User Interests Based on Microblog Classification[J]. Intelligent Computer and Applications,2013,3(4): 80-83.)   \n[11]杨福强，王洪国，董树霞，等．基于微博扩展的用户兴趣 主题挖掘算法[J]．计算机工程与设计，2015，36(5): 1214-1218.(Yang Fuqiang，Wang Hongguo, Dong Shuxia, et al.Topic Mining Algorithm of User Interest Based on Weibo Extension[J]. Computer Engineering Design, 2015, 36(5): 1214-1218.)   \n[12]黎荆妙．微博文本预处理与用户兴趣建模方法研究[D].重 庆：重庆大学,2015.(Li Jingjin.Research on the Approach ofMicro-blog Text Preprocessing and User Interest Modeling[D]. Chongqing: Chongqing University,2015.)   \n[13]易明，毛进，邓卫华．基于社会化标签网络的细粒度用户 兴趣建模[J]．现代图书情报技术,2011(4):35-41.(Yi Ming, Mao Jin，Deng Weihua.Fine-grained User Preference Modeling Based on Tag Networks [J]. New Technology of Library and Information Service,2011(4): 35-41.)   \n[14] 扈维，张尧学，周悦芝．基于社会化标注的用户兴趣挖掘 [J]．清华大学学报:自然科学版,2014,54(4):502-507.(Hu Wei, Zhang Yaoxue, Zhou Yuezhi. User Preference Mining Based on Social Tagging [J]. Journal of Tsinghua University: Science and Technology,2014,54(4): 502-507.)   \n[15]孙雨生，刘伟，仇蓉蓉，等．国内用户兴趣建模研究进展 [J].情报杂志,2013,32(5): 145-149.(Sun Yusheng,Liu Wei, Qiu Rongrong,et al. Research Development of User Interest Modeling in China [J]. Journal of Intelligence,2013,32(5): 145-149.)   \n[16]万华林,Chowdhury MU.基于支持向量机的图像语义分类 [J]．软件学报，2003，14(11):1891-1899.(Wan Hualin, Chowdhury M U. Image Semantic Classification by Using SVM[J]. Journal of Software,2003,14(11): 1891-1899.)   \n[17] 高隽，谢昭，张骏，等．图像语义分析与理解综述[J]．模式 识别与人工智能,2010,23(2):191-202.(Gao Jun,Xie Zhao, Zhang Jun,et al.A Review on Image Semantic Analysis and Understanding[J].PatternRecognitionandArtificial Intelligence,2010,23(2): 191-202.)   \n[18] Lin C Y, Yin J X,Gao X,et al. A Semantic Modeling Approach for Medical Image Semantic Retrieval Using HybridBayesian Networks[C]//Proceedingsof the6th International Conference on Intelligent Systems Design and Applications.IEEE,2006.   \n[19]Wang B,Zhang X, Zhao Z Y,et al.A Semantic Description for Content-based Image Retrieval[C]// Proceedings of the 2008 International Conference on Machine Learning and Cybernetics.IEEE,2008.   \n[20] Yao T, Long F, Mei T,et al. Deep Semantic-preserving and Ranking-based Hashing for Image Retrieval[C]//Proceedings of the 25th International Joint Conference on Artificial Intelligence. 2016: 3931-3937.   \n[21] Qazi N,Wong B L W. Semantic Based Image Retrieval Through Combined Classifiers of Deep Neural Network and Wavelet Decomposition of Image Signal[C]// Proceedings of the 8th Eurosim Congress on Modelling and Simulation.2016.   \n[22] Szegedy C，Liu W,Jia Y,et al.Going Deeper with Convolutions[C]/Proceedings of the 2015 IEEE Conference on Computer Vision and Pattrn Recognition. IEEE Computer Society,2015:1-9.   \n[23]You Q,Bhatia S,Sun T,et al. The Eyes of the Beholder: Gender Prediction Using Images Posted in Online Social Networks[C]//Proceedings of the 2014 IEEE International Conference on Data Mining Workshop.2014:1026-1030.   \n[24] You Q，Bhatia S,Luo J.A Picture Tells a Thousand Words-About You!User Interest Profiling from User Generated Visual Content [J]. Signal Processing,2015, 124(C): 45-53.   \n[25] Segalin C,Dong S C,Cristani M. Social Profiling Through ImageUnderstanding:PersonalityInferenceUsing Convolutional Neural Networks[J]. Computer Vision and Image Understanding,2016,156:34-50.   \n[26] Yang Y,Wang X,Guan T,et al. A Multi-dimensional Image Quality Prediction Model forUser-generated Images in Social Networks[J].Information Sciences,2014,281:601-610.   \n[27]Yang Y,Jia J,Wu B,et al.Social Role-Aware Emotion Contagion in Image Social Networks[C]//Proceedings of the 30th AAAI Conference on Artificial Intelligence.2016: 65-71.   \n[28]Sasaki W,Furukawa Y,Nishiyama Y,et al. SmileWave: Sensing and Analysis of Smile-based Emotional Contagion over Social Network:Poster Abstract[C]//Proceedings of the 15th ACM International Conferenceon Information Processing in Sensor Networks.2016.   \n[29]Chang CC,Lin CJ.LIBSVM:ALibrary for Support Vector Machines[J].ACM Transactions on Intelligent Systems and Technology(TIST),2011,2(3):Article No.27.   \n[30]Rätsch G,Onoda T,Müller KR.Soft Margins for AdaBoost [J].Machine Learning,2001,42(3):287-320. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "曾金：提出研究思路，设计实施方案，收集数据，起草、修改论文;  \n陆伟：设计研究方法，论文最终版本修订;  \n丁恒：数据集预处理;  \n陈海华：构建用户兴趣模型。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据见期刊网络版 http://www.infotech.ac.cn。  \n[1]曾金.data.rar.基于图像语义的用户兴趣建模数据.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2017-01-12  \n收修改稿日期:2017-03-12",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Modeling User's Interests Based on Image Semantics ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Zeng Jin1,3Lu Wei1,²Ding Heng]Chen Haihual 1(School of Information Management, Wuhan University, Wuhan 430072, China)   \n2(Institute for Information Retrieval and Knowledge Mining, Wuhan University,Wuhan 430072, China)   \n3(School of Culture Management, Wuhan College of Media and Communications, Wuhan 430072, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] This paper aims to predict the user's interests accurately with anew modeling method based on the semantics of images shared on the microblogs.[Methods]First, we crawled the image data of Sina microblogging users.Then,weused high-level semantic information from these images.Finally,we predicted user's interests based on the image semantic clasifier by the SVM training.[Results] The proposed method could predict user's interests effectively. Among the 169 Sina microblogging users,the precision,recall and F-values were $9 7 . 3 8 \\%$ ， $9 8 . 9 2 \\%$ and $9 8 . 1 4 \\%$ ，respectively.[Limitations] The size of the test corpus needs to be expanded to have more comprehensive results.[Conclusions]The proposed model could predictuser's interests efectively，which lays some theoretical and technical foundations for the application of high-level image semantics. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Image SemanticUser Interest Modeling Social NetworkSupport Vector Machine ",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,181 @@
+# CodY在单核细胞增生李斯特菌运动和毒力方面的作用
+
+张颖汤雨倩沈怡罗勤 水(华中师范大学生命科学学院遗传调控与整合生物学湖北省重点实验室武汉430079)
+
+摘要目的：探究全局性转录调控因子CodY在单核细胞增生李斯特菌(Listeria monocytogenes，Lm)鞭毛运动和细菌毒力方面的作用。方法：通过同源重组的方法敲除Lm染色体上CodY的编码基因codY并成功构建缺失菌株的回复菌株;利用平板泳动法观测鞭毛运动的变化,RT-qPCR检测与鞭毛运动相关基因的转录表达;比较野生型菌株EGDe与CodY缺失菌株对细菌溶血活性、棉铃虫幼虫的半致死剂量和主要的毒力因子LLO 和毒力基因调控蛋白PrfA 转录表达的影响。结果：同野生型菌株相比,CodY缺失菌株鞭毛运动和相关基因,以及主要的毒力因子LLO和PrfA的转录表达显著降低( ${ \scriptstyle P \leqslant 0 . 0 1 }$ ),溶血活性显著降低( ${ \textstyle P \leqslant } 0 . 0 1 { \big . }$ ),对棉铃虫幼虫的半致死剂量上升了5.8倍。结论：CodY在Lm鞭毛运动和细菌毒力调控方面具有重要作用。
+
+关键词单核细胞增生李斯特菌 CodY 鞭毛运动毒力中图分类号［Q815]
+
+CodY 是一种广泛存在于低 $G + \mathrm { C }$ 含量的革兰氏阳性菌中的全局转录调控因子，能够调控碳代谢、氮代谢、氨基酸生物合成、胞外物质的运输和降解、抗生素的合成、鞭毛以及早期芽孢形成等多种代谢途径和细胞生理过程[1]。在枯草芽孢杆菌中,CodY 能调控大约200 个基因的表达[2],主要涉及与鞭毛运动和氨基酸转运相关基因[34]。在金黄色葡萄球菌中,CodY 既可以通过识别并高效结合到靶基因启动子上的一个保守的15bp的回文序列AATTTTCWGAAAATT，即CodY-box上，直接调控毒力基因的表达，也可以通过调控agr（在金黄色葡萄球菌中，agr是全局性调控因子，调控多种毒力基因的表达)，间接调控毒力基因的表达[5-7]
+
+单核细胞增生李斯特菌（Listeria monocytogenes,Lm)是革兰氏阳性食源性致病菌。由Lm引起的疾病称为李斯特菌病，其主要的症状为脑膜炎和败血症，以及孕妇流产。因其高致死率( $20 \% \sim 3 0 \%$ 感染者死亡)而被世界卫生组织（WHO)列入四大食源性致病菌之_[-10]。Lm可以通过吞噬作用或表达内化素蛋白,侵入宿主细胞;在细胞溶血素LLO（hy基因编码）、两种磷脂酶(PlcA、PlcB)的作用下，逃脱吞噬泡，进入宿主细胞质[1];进入宿主细胞质的Lm 在ActA 的作用下,快速复制，进行细胞之间的传播。这些重要的毒力因子的转录表达都受到PrfA蛋白的调控。在Lm中，PrfA是主要的毒力基因调控蛋白，能正调控绝大多数的毒力基因（如hly、actA 等)的转录[12-13],以及部分调控鞭毛蛋白的表达[14]。在病原微生物中,鞭毛的运动性对细菌在宿主中的生存至关重要，在趋化因子的帮助下，能向有利于自己生存环境的方向（如温度、营养等)移动[15]。鞭毛也可作为黏附素,将细菌黏附到宿主表面[16],因此,鞭毛的运动性对胃肠道病原微生物的毒力起着重要的作用[17]。最近,有学者利用转录组学的方法报道了全局转录调控因子CodY能参与Lm中许多生命活动的调控（如鞭毛运动、氨基酸转运、毒力等），但调控的具体分子机制尚不清楚[18-21]。
+
+本研究通过同源重组的方法构建了CodY缺失突变株EGDe△codY以及高拷贝质粒表达回复菌株EGDe△codY $^ +$ pERL3-codY；比较分析了野生株EGDe、
+
+EGDe△codY和EGDe△codY $^ +$ pERL3-codY三种菌株的鞭毛运动能力、与鞭毛运动相关基因的转录表达、细菌溶血活性及主要毒力因子的转录表达差异，从而深入探讨CodY对Lm鞭毛运动和毒力因子调控的分子机制。
+
+# 材料与方法
+
+# 1.1 实验材料
+
+1.1.1 菌株与质粒单核细胞增生李斯特菌野生菌株 EGDe(血清型1/2a,全基因组序列已知[22])和温度敏感型穿梭整合质粒pLSV101以及高拷贝表达质粒pERL3为德国维尔茨堡大学微生物系WernerGoebel教授馈赠。如无特殊说明，细菌均在BHI培养基中 $3 7 \%$ 震荡培养。
+
+1.1.2 引物引物见表1。
+
+# 表1本实验中所用到的引物
+
+Table1 The primersin this study   
+
+<html><body><table><tr><td>Primers</td><td>Sequences(5'-3')</td></tr><tr><td>P1:codY-A-BamHI-F</td><td>GCGGATCCTAAACAATACAAAGCTTTAC</td></tr><tr><td>P2:codY-A- R</td><td>CACTGTTGACAGTTCTTGGCGTTCTGTAAGCAT</td></tr><tr><td>P3:codY-B-F</td><td>GAACTGTCAACAGTGTACAGTGAATTAGAAGCG</td></tr><tr><td>P4:codY-B-EcoRI-R</td><td>CGAATTCTTTCAATTAATCTTGTTCGAC</td></tr><tr><td>P5:codY-ck-F</td><td>ATATCGGAGCAAGAAGACT</td></tr><tr><td>P6 :codY-ck-F</td><td>ATTCCAAATTCCTCCAGTCA</td></tr><tr><td>P7:CcodY-XholI-F</td><td>GCCTCGAGATTAATTGATGCGGATGA</td></tr><tr><td>P8:CcodY-BamHI-R</td><td>GTAGGATCCATGCACGTCTAATACCG</td></tr><tr><td>P9 :pERL3-ck-F</td><td>GAAAACCGCTACGGATCACATC</td></tr><tr><td>P10 : pERL3-ck-R</td><td>CCAACCTGCCATCACGAGATTT</td></tr><tr><td>P11 :motA-F</td><td>TGGAAGAACGTCATGCTGCT</td></tr><tr><td>P12 :motA-R</td><td>GTTCGACATTTCGCCCATCG</td></tr><tr><td>P13:motB-F</td><td>AATCGCCAAAGAAATCGGCG</td></tr><tr><td>P14:motB-R</td><td>GGCGACACTTAGTTCCCAGT</td></tr><tr><td>P15 :fliP-F</td><td>TGAATGTGCATGCCGAGAGT</td></tr><tr><td>P16:fliP-R</td><td>ACAAACAGCGCCACACTAGA</td></tr><tr><td>P17 :flhA-F</td><td>ATGAACTCCTGATGCGCCAA</td></tr><tr><td>P18 :flhA-R</td><td>GTTGTCGTAGCACCCCTTGA</td></tr><tr><td>P19 :fliE-F</td><td>ACCGCGAAAACAGACAATGC</td></tr><tr><td>P20 :fliE-R</td><td>TACGGAAGTTTGCGCGTTTG</td></tr><tr><td>P21 :rpoB-F</td><td>ATGCTTTCCGCAGACGAAGA</td></tr><tr><td>P22:rpoB-R</td><td>TTTCAGCGGCTGCATTTTCC</td></tr><tr><td>P23 :prfA-F</td><td>CAGGCTACCGCATACGTTATCAAA</td></tr><tr><td>P24 :prfA-R</td><td>AGCCAAGCTTCCCGTTAATCGAAA</td></tr><tr><td>P25:hly-F</td><td>TTGGGAATGGTGGAGAACGG</td></tr><tr><td>P26 : hly-R</td><td>TGGTGCCCCAGATGGAGATA</td></tr></table></body></html>
+
+# 1.2 EGDe△codY缺失突变株和EGDe△codY $^ +$ pERL3-codY回复突变株的构建
+
+1.2.1EGDe△codY缺失突变株的构建首先采用SOEingPCR[13]方法构建用于同源重组的穿梭质粒$\mathrm { p L S V 1 0 1 - } c o d Y ( \mathrm { A } + \mathrm { B } )$ ：以EGDe基因组DNA为模板使用引物对P1/P2和 $\mathrm { P } 3 / \mathrm { P } 4$ 分别扩增codY基因上下游同源臂 $\mathrm { A } ( 5 1 5 \mathrm { b p } )$ 和B（467bp）；PCR产物纯化后作为模板，以P1/P4引物对进行第二次PCR，从而获得含有
+
+BamHI和EcoRI酶切位点的AB融合片段 $c o d Y ( \mathbf { A } + \mathbf { B } )$ （2 $( 9 8 2 \mathrm { b p } )$ ），双酶切后将融合片段 $c o d Y ( \mathrm {  ~ A ~ } + \mathrm { \bf ~ B } ) ,$ 连接到质粒pLSV101上,得到质粒 $\mathrm { p L S V 1 0 1 - } c o d Y ( \mathrm { A } + \mathrm { B } )$ 。然后按照王莉等[23]的方法将其电转入EGDe感受态细胞中，进行同源重组和筛选codY基因缺失突变子EGDe△codY。所得突变子经PCR（以codY基因上下游引物对P5/P6PCR扩增EGDe△codY中的codY基因片段，以EGDe基因组为对照来验证codY基因的缺失）和测序验证为正确突变。
+
+1.2.2EGDe△codY $^ +$ pERL3-codY回复突变株的构建以EGDe基因组DNA为模板使用引物对P7/P8扩增出C片段（包含codY基因ORF和启动子在内的$1 ~ 7 3 9 \mathrm { b p }$ 片段），XholI和BamHI双酶切后，将C片段连接到多拷贝质粒pERL3上，构建codY基因的重组表达质粒pERL3-codY。然后将其电转人EGDe△codY感受态细胞中,使用引物对 P9/P10 进行 PCR 检测和测序验证。
+
+# 1.3. 细菌生长曲线的测定
+
+7 挑取待测菌株的单克隆于 $5 \mathrm { m l }$ BHI（Brain Heart.Infusion，购自B&D公司)培养基中过夜培养，第二天，取其 $\mathrm { 1 m l }$ 接入新鲜的 $1 0 0 \mathrm { m l }$ BHI培养中，混匀后，采用分光光度计（EppendorfBioPhotometerPlus）测定菌液此时的 $O D _ { 6 0 0 }$ ,记为0h的值,继续震荡培养,每隔1h 检测菌液 $O D _ { 6 0 0 }$ 的变化，直至细菌生长状态达到稳定期。实验重复3次，数据采用Origin6.1分析处理。
+
+# $1 . { \mathfrak { F } }$ 细菌鞭毛运动性和鞭毛相关基因表达实验
+
+1.4.1 细菌鞭毛穿刺实验采用半固体琼脂穿刺法观察细菌鞭毛的运动性：用直的接种针蘸取少量过夜活化的菌液（ $2 5 \mathrm { ^ c } , 1 8 0 \mathrm { r / \mathrm { m i n } }$ 震荡培养)穿刺接种于BHI半固体培养基( $0 . 5 \%$ 的琼脂)中， $2 5 \mathrm { { ^ \circ C } }$ 静置培养一周，每天拍照记录。如果细菌在半固体培养基中能扩散形成倒伞状结构，则判定该细菌鞭毛具有运动性。
+
+1.4.2细菌鞭毛平板运动性实验将待测菌株过夜活化 $\cdot 2 5 \mathrm { ^ c } , 1 8 0 \mathrm { r } / \mathrm { m i n }$ 震荡培养），取 $1 \mu \mathrm { l }$ 菌液点样于BHI半固体平板( $0 . 3 \%$ 琼脂)上[24]， $2 5 \mathrm { { ^ \circ C } }$ 静置培养 $4 8 \mathrm { h }$ 后，测定细菌运动所形成圆圈的直径大小并拍照记录。实验重复三次。
+
+1.4.3qRT-PCR检测与鞭毛形成和运动相关基因的转录表达实验将待测菌液培养到对数前期 $O D _ { 6 0 0 }$ 达0.7( $2 5 \mathrm { ^ \circ C }$ 震荡培养），离心收集菌提取总RNA，按照反转录试剂盒（TaKaRa）操作说明将总RNA反转录成$\mathrm { { c D N A } }$ 。将所得cDNA稀释10倍作为模板，以管家基因rpoB为内参,采用 $2 ^ { - \Delta \Delta \mathrm { C t } }$ 的分析方法和 SPSS17.0 软件处理数据。实验重复三次。
+
+# 1.5 细菌毒力实验
+
+1.5.1细菌溶血活性检测参照于新惠等[25]的方法：取 $\mathrm { 1 m l }$ 无菌脱纤维绵羊血 $. 2 \ 6 0 0 \mathrm { r / m i n }$ 离心 $5 \mathrm { { m i n } }$ ,弃上清。用生理盐水洗涤血细胞沉淀，清洗三次。用50倍体积生理盐水重悬血细胞，并以 $\mathrm { 1 m l }$ 每支分装于 $1 . 5 \mathrm { m l }$ 离心管中。将待测菌液在 BHI中培养到 $O D _ { 6 0 0 }$ 达1.0时，分别取待测菌液 $3 0 \mu 1 . 5 0 \mu \mathrm { l } \cdot 1 0 0 \mu \mathrm { l }$ 加人装有 $\mathrm { 1 m l }$ 血细胞的离心管中， $3 7 \%$ 静置培养 $3 0 \mathrm { m i n }$ 后， $2 ~ { 6 0 0 } \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ ,收集上清，检测 $O D _ { 5 4 3 \mathrm { n m } }$ 处吸光度值。以只含有血细胞的上清作为阴性对照，以加入了等量无菌水的上清作为阳性对照。实验重复三次。数据采用Origin6.1分析处理。
+
+1.5.2细菌对棉铃虫幼虫的毒性实验将待测菌液培养到 $O D _ { 6 0 0 }$ 达0.7，用BHI培养基进行3倍梯度稀释成6个不同浓度（菌液的稀释倍数为 $3 ^ { 0 } 、 3 ^ { 1 } 、 3 ^ { 2 } 、 3 ^ { 3 } 、 3 ^ { 4 }$ ，$3 ^ { 5 }$ )，每个浓度 ${ 5 \mu \mathrm { l } }$ ,分别注射18条生理状态一致的5龄棉铃虫幼虫，连续3天，观察和统计棉铃虫幼虫的死亡条数,并计算细菌对棉铃虫幼虫的半致死剂量 $\mathrm { L D } _ { 5 0 }$ ○采用SPSS17.0分析处理所得数据。
+
+# 2实验结果
+
+# 2.1 EGDe△codY缺失突变株和EGDe△codY $^ +$ pERL3-codY回复突变株的构建
+
+2.1.1 EGDe△codY缺失突变株的构建如图1所示，用codY基因两端以引物对P5/P6进行PCR扩增，以EGDe△codY为模板所得片段比以EGDe基因组为模板短约 $3 3 0 \mathrm { b p }$ ，其长度与预期结果一致，表明EGDe△codY成功缺失了codY基因，同时DNA测序也进一步验证了EGDe△codY构建成功。
+
+2.1.2EGDe△codY $^ +$ pERL3-codY回复突变株的构建如图2所示，用pERL3质粒两端引物对P9/P10进行PCR扩增,以EGDe△cod $\it { \Delta } ^ { \prime } + \ p E$ RL3-codY为模板所得片段与以pERL3-codY重组质粒为模板所得片段大小一致（204号 $( 2 ~ 0 8 9 \mathrm { b p } )$ )，与预期结果相符。表明pERL3-codY重组质粒已成功电转入EGDe△codY感受态细胞中，EGDe△codY$+ \mathrm { p E R L } 3  – c o d Y$ 回复突变株构建成功。
+
+# 2.2CodY 缺失对单核细胞增生李斯特菌生长的影响
+
+如图3所示，在营养丰富的BHI培养基中，三种菌株生长快速且生物量较高。与野生型菌株EGDe相比,
+
+![](images/0313f44f1b6a7deee8b7b65d28ebe713e8b5162815ee315e075753fc1bc36890.jpg)  
+图1PCR验证EGDe△codY中codY基因的缺失 Fig.1Verification of the deletion of codYinEGDe△codYbyPCR
+
+M：Marker；1：EGDe；2：pLSV101-codY( $\mathrm { A + B } \mathrm { : }$ ）；3：EGDe△codY
+
+![](images/f93ad313f7120864e4c6fd6a9868ef8133640bcca7bcd7c68b4d51af472e1c8a.jpg)  
+图2PCR验证pERL3-codY重组质粒 电转入EGDe△codY   
+Fig.2Verification of the pERL3-codY electroporated into EGDe△codY
+
+Marker；1:pERL3-codY；2:EGDe△codY $^ +$ pERL3-codY
+
+EGDe△codY在对数中期生长较慢,在对数前期和稳定期的生长状况并无显著差异，而EGDe△codY $^ +$ pERL3-codY与 EGDe△codY的生长趋势一致,并未回复到野生型水平，推测pERL3为多拷贝的表达质粒，CodY的过量表达可能会影响细菌中某些氨基酸的合成，从而对生长产生一定的影响。
+
+# 2.3CodY缺失对单核细胞增生李斯特菌鞭毛运动和鞭毛相关基因表达的影响
+
+2.3.1比较EGDe、EGDe△codY 和 EGDe△codY $^ +$ pERL3-codY的鞭毛运动状况如图4a所示，在BHI半固体培养基中，EGDe、EGDe△codY和EGDe△codY $^ +$ pERL3-codY都能形成倒伞状结构，三种菌株的鞭毛均具有运动性;如图4b和表2所示，在含 $0 . 3 \%$ 琼脂的BHI半固体平板培养 $4 8 \mathrm { h }$ 后，与 EGDe 相比,EGDe△codY在平板上泳动所形成圆圈的直径显著变小，EGDe△codY $\tilde { \cal Y } + \mathrm { p F }$ RL3-codY菌株所形成的直径大小与野生型菌株基本一致。以上结果表明CodY的缺失表2EGDe、EGDe△codY和EGDe△codY $^ +$ pERL3-codY平板泳动实验结果
+
+![](images/3445e6db46aa9cd6e1e7b3a883f44f4bdb8a2666e083c3775a46aea9b7d00650.jpg)  
+图3EGDe、EGDe△codY 和 EGDe△codY $^ +$ pERL3-codY生长曲线的比较  
+Fig.3Comparison of the growth curves of EGDe, EGDe△codYandEGDe△codY $^ +$ pERL3- codYcultured in BHI
+
+降低了细菌鞭毛的运动性。
+
+Table 2Swarming of EGDe,EGDe△codY and EGDe△codY $^ +$ pERL3-codY on soft agar plates   
+
+<html><body><table><tr><td>Strain</td><td>Diameter(mm） ± SDa①</td></tr><tr><td>EGDe</td><td>8.33±0.58</td></tr><tr><td>EGDe△codY</td><td>6.67 ±0.58 *</td></tr><tr><td>EGDe△codY+pERL3-codY</td><td>8.67 ±0.58</td></tr></table></body></html>
+
+Note： $\textcircled{1}$ Valuesareaveragesoftriplicateexperiments. $*$ :Significant differences between the mutant strain and the wild-type （ $\textstyle P \leqslant 0 . 0 5$ ).SD：Standarddeviation
+
+2.3.2鞭毛形成和运动相关基因在EGDe、EGDe△codY和 $\mathrm { E G D e } \Delta c o d Y + \mathrm { p E R L } 3 - c o d Y$ 中的转录表达挑选与鞭毛形成和运动相关基因motB、motAfliEflhAfliP进一步做RT-qPCR检测,motA和motB是与鞭毛运动相关的基因，而fliEflhA和fliP是与鞭毛结构形成相关的基因。结果如图5所示，与野生型菌株EGDe相比，motA、motB、fliE在EGDe△codY中表达量显著降低，fliP在EGDe△codY中表达量显著升高。除flip外,其它与鞭毛运动和形成相关的基因在EGDe△codY $^ +$ pERL3-codY中的转录表达均基本回复到野生型菌株的水平。以上结果表明，缺失CodY后，motA和motB的表达量下降，其鞭毛运动性降低；但与鞭毛结构相关的基因fiE的表达量显著下降，fhA基本不变，fiP的表达量却极大升高，暗示CodY缺失对鞭毛形成的影响较为复杂，对不同基因的调控途径可能不同，但总体来说，CodY的缺失能
+
+![](images/5f427e1ac56654a0ba251fd579d98441455b682706db86b4c9e8b07fe02ee032.jpg)  
+图4EGDe、EGDe△codY 和 EGDe△codY $^ +$ pERL3-codY鞭毛运动性的比较
+
+降低鞭毛的运动性。
+
+![](images/6c3f7303bfa8b8a47b20e9dbe5e6aa7a9d1c633216fb4b43b2ac1bd439525395.jpg)
+
+(a）Results of flagellar puncture of three strains（b）Swarming of three strains on soft agar plates
+
+![](images/0670a51b3c99a416981031bb2a4b2507c59b8107260536ca59b8fa85832d2830.jpg)  
+}.4Comparison of the flagellar motility of EGDe，EGDe△codY and EGDe△codY $^ +$ pERL3-codY
+
+# 2.4CodY对单核细胞增生李斯特菌毒力的影响
+
+2.4.1主要的毒力基因 prfA 和 hly 在EGDe、EGDe△codY和 EGDe△codY $^ +$ pERL3-codY中的转录表达如前所述，在Lm中，PrfA能调控绝大多数毒力因子的转录表达，细菌溶血活性蛋白(LLO)是Lm中最主要的毒力因子之一。为探究CodY对Lm毒力的影响，我们比较了PrfA的编码基因prfA和溶血素LLO的编码基因hy在三种菌株中的转录表达情况。结果如图6所示，与野生型菌株EGDe相比，prfA和hly在EGDe△codY中的表达量显著降低，表明codY基因的缺失可能导致EGDe△codY菌株的细菌毒力降低。但有趣的是，prfA和hly在EGDe△codY $^ +$ pERL3-codY中的表达量并没有如预期一样回复到野生株水平，反而比CodY缺失株更为降低，暗示CodY对细菌毒力的调控可能与其表达量相关，由于我们所用的回复表达质粒为多拷贝质粒，回复菌株中CodY蛋白的过量表达可能会抑制prfA和hly的表达。
+
+![](images/e57f4cd9c6e9dea63c0576f7a2506afcce5d606f1ef88f6050c68b5b6b6f3c3a.jpg)  
+图5与鞭毛运动和形成相关基因在EGDe、EGDe△codY和EGDe△codY $^ +$ pERL3-codY中的转录表达  
+Fig.5The relative expression of the genes related to flagellar movement and formation in the EGDe, EGDe△codYandEGDe△codY $+$ pERL3-codY   
+图6毒力基因 $p r f A$ 和hly在EGDe、EGDe△codY 和 $\mathbf { E G D e } \Delta c o d Y + \mathbf { p E R L 3 - } c o d Y$ 中的转录表达 Fig.6The relative transcription expression of the major virulence genes prfA and hly in the EGDe, EGDe△codY and EGDe△codY $^ +$ pERL3-codY
+
+2.4.2CodY对单核细胞增生李斯特菌溶血活性的影响为了从蛋白质水平进一步验证codY基因的缺失将导致细菌毒力的降低，我们比较了细菌溶血素在EGDe、EGDe△codY和EGDe△codY $^ +$ pERL3-codY中的活性差异。结果如图7所示，随着菌液量的增加，细菌中LLO 的浓度升高,溶血活性也随之上升，当菌液量为
+
+$3 0 \mu 1 , 5 0 \mu \updownarrow , 1 0 0 \mu \mathrm { l }$ 时，与野生型菌株EGDe相比,EGDe△codY和 EGDe△codY $^ +$ pERL3-codY的溶血活性显著性降低，此结果与hly转录水平的结果一致，表明codY基因的缺失能导致Lm主要毒力基因hly转录和翻译水平的下降，从而导致Lm毒力降低。
+
+![](images/82ef6212bbbedba974c4aedd7b6a3ff5489eb2245c2d71db33a3f107bca9b6b0.jpg)  
+图7EGDe、EGDe△codY 和 EGDe△codY $^ +$ pERL3-codY的溶血活性Fig.7 Hemolytic activity ofEGDe，EGDe△codYandEGDe△codY $^ +$ pERL3-codY
+
+2.4.3 CodY对单核细胞增生李斯特菌侵染棉铃虫幼虫的影响以上结果表明,codY基因的缺失能够导致Lm毒力降低。为从活体水平更进一步确证该结论，我们开展了细菌侵染棉铃虫幼虫的毒力实验。如实验方法所述，我们分别将同等剂量（菌液体积和菌液数目）的EGDe、EGDe△codY和 $\mathrm { E G D e } \Delta c o d Y \ + \mathrm { p E R L 3 } - c o d Y$ 注射入生理状态一致的5龄棉铃虫腹部，以同等剂量的PrfA蛋白组成性高表达突变株 ${ _ { p r f A } } ^ { * }$ (高毒株)为阳性对照，以同等体积的不含细菌的培养基BHI及缓冲液PBS( $\mathrm { p H } 7 . 2 )$ 为阴性对照。结果如表3所示，注射了BHI和PBS的棉铃虫幼虫3天中无1例死亡（3天后也没有死亡，并可正常化蛹孵化，该数据未显示），而高毒株 ${ _ { p r f A } } ^ { * }$ 和野生株EGDe能够造成棉铃虫幼虫死亡，且prfA\*对棉铃虫幼虫的致死率显著高于EGDe。同时，与EGDe相比，EGDe△codY的半致死剂量（ $\mathrm { L D } _ { 5 0 }$ )上升了5.8倍。而CodY回复菌株对棉铃虫的半致死剂量虽比EGDe△codY低，但并没有回复到野生菌株的水平。以上结果不仅确证了codY基因的缺失能够使Lm毒力降低，同时也表明棉铃虫可以作为研究单核细胞增生李斯特菌侵染机制的动物模型。
+
+表3prfA\*EGDe、EGDe△codY和EGDe△codY $^ +$ pERL3-codY对棉铃虫的半致死剂量( $\bf { L D _ { 5 0 } }$ ） Table3The semi-lethal dose of prfA\*，EGDe, EGDe△codY and EGDe△codY $^ +$ pERL3-codY inHelicoverpa armigera(Hübner)   
+
+<html><body><table><tr><td>Strain</td><td>LD50 (cfu)</td></tr><tr><td>BHI</td><td>一(死亡条数为0)</td></tr><tr><td>PBS</td><td>一(死亡条数为0)</td></tr><tr><td>prfA *</td><td>1.03 ×10³</td></tr><tr><td>EGDe</td><td>2.69 ×105</td></tr><tr><td>EGDe△codY</td><td>1.85 ×106</td></tr><tr><td>EGDe△codY+pERL3-codY</td><td>6.33 ×105</td></tr></table></body></html>
+
+Note : $\mathrm { L D } _ { 5 0 }$ represents a half lethal dose
+
+# 3讨论
+
+全局性转录调控因子CodY广泛存在于低 $G + \mathrm { C }$ 含量的革兰氏阳性菌中，它能参与细菌许多生命活动的调节(如氨基酸合成与转运、糖代谢、鞭毛运动、毒力等）。我们的实验证明缺失CodY后，与鞭毛运动直接相关的基因motA和motB的表达量显著降低，该结果与CodY缺失菌株在软琼脂上运动性降低相一致；而fiE和flip都是与鞭毛结构形成相关的基因，主要是参与鞭毛的基体（basalbody）和钩形鞘（hook）的形成。在很多细菌(如大肠杆菌)中，与鞭毛结构形成相关的基因（如fliEfliPflhA和flhB)和与鞭毛运动直接相关的基因（如motA、motBflgMNfliDST)位于不同的操纵子上并受到不同的 sigma 因子的调控[26-28]。在本实验中,缺失CodY后，fliE的表达量显著降低，flp的表达量显著增高，暗示CodY的缺失对鞭毛形成的影响较为复杂，可能对不同基因的调控存在不同的调控方式。但是，我们镜检观察CodY缺失菌株的鞭毛，并没有发现明显改变（数据未显示）。以上结果显示CodY的缺失从总体上降低了细菌的运动性。鞭毛的运动有助于细菌向有利于自己生存的环境方向移动，因此，CodY在细菌感应营养物质信号和逃脱不利生存环境的方面起着重要作用。
+
+CodY能参与细菌(如枯草芽孢杆菌)毒力基因的表达调控。我们的实验证明缺失CodY后，Lm主要的毒力基因调控蛋白PrfA和毒力因子LLO的转录表达显著降低，细菌的溶血活性显著下降，对棉铃虫的半致死剂量显著增高。以上实验结果能显示：缺失CodY后,细菌毒力下降。该结果与Lobel 和Herskovits[24]最新的研究结果高度一致。暗示CodY可能通过直接调控毒力基因调控蛋白PrfA的表达，间接调控Lm中其他毒力基因的表达。有趣的是，CodY缺失回复菌株的溶血活性，以及PrfA和LLO在该菌中的转录表达均未回复到野生型水平，而鞭毛运动以及大多数相关基因的转录表达在回复菌株中能达到野生株水平，表明CodY的缺失并没有造成菌株的极性效应。因此，我们推测，在回复菌株中，由于表达CodY的pERL3为多拷贝质粒，造成CodY组成性过量表达，可能在一定程度上抑制了细菌中毒力基因的转录，使回复菌株中的毒力不能达到野生型水平。当我们进一步检测CodY蛋白在EGDe、EGDe△codY 和 EGDe△codY $^ +$ pERL3-codY三种菌株中的表达情况时，发现缺失菌株EGDe△codY中不表达 CodY,而在回复菌株 EGDe△codY $^ +$ pERL3-codY中CodY的表达水平显著高于野生株EGDe（数据未显示)，与我们的预期一致，但具体的机制还需要进?一步的探讨，这也将是我们今后研究的重点之一。
+
+综上所述,我们的研究结果表明,CodY在鞭毛运动和细菌毒力方面具有重要的作用。
+
+# 参考文献
+
+crr:rii11-i1
+
+Bacillus subtilis global regulator CodY identified by chromatin immunoprecipitationandgenome-widetranscriptanalysis.J Bacteriol,2003，185(6）：1911-1922.   
+[3］Sonenshein AL.Control of key metabolic intersections in Bacillus subtilis.Nat Rev Microbiol,2007,5(12):917-927.   
+[4］Claverys JP,Prudhomme M,Martin B.Induction of competence regulons as general stress responsesin Gram-positive bacteria. Annu Rev Microbiol,2006,60(1）:451-475.   
+[5］Majerczyk CD,Dunman PM,Luong TT,et al．Directtargets of CodY in Staphylococcusaureus．JBacteriol，2010，192（11）： 2861-2877.   
+[6]MajerczykCD,Sadykov MR,LuongTT,etal．Staphylococcu saureus CodY negatively regulates virulence geneexpression.J Bacteriol，2008，190(7):2257-2265.   
+[7]PohlK,FrancoisP,Stenz L,et al. CodY in Staphylococcus aureus: aregulatorylinkbetweenmetabolismandvirulence geneexpression．JBacteriol,2009，191（9）：2953-2963.   
+[8]Ramaswamy，CresenceV,RejithaVM,etal.Listeria--review of assessment of Listeria monocytogenes in ready-to-eat foods：the FAO/WHOapproach.FEMSImmunologyandMedical Microbiology，2003,35（3）：263-267.   
+[10]Vazquez-Boland JA，Kuhn M，Berche P，et al.Listeria pathogenesisand molecular virulence determinants.Clinical Microbiology Reviews，2001,14（3）:584-640.   
+[11]Rabinovich L，Sigal N，Borovok I，et al．Prophage excision activates Listeria competence genes that promote phagosomal escapeand virulence.Cell，2012，150(4）:792-802.   
+[12]Heras A,Cain R J,Bielecka M K,et al.Regulation of Listeria virulence：PrfAmaster and commander.Curr Opin Microbiol, 2011,14(2) : 118-127.   
+[13] Luo Q,Zhou Q C,Deng L F,et al. Some essential elements on the inlC promoter for PrfA-dependent regulation in Listeria monocytogenes．Acta Microbiologica Sinica，2007，47（1）：22- 28.   
+[14] Salazar JK,Wu Z,McMullen PD,et al.PrfA-like transcription factor gene lmoO753 contributes to L-rhamnose utilization in Listeria monocytogene strainsassociated with human food-borne infections.Appl Environ Microbiol,2013,79(18）:5584-5592.   
+[15]Wadhams G H,Armitage JP. Making sense of it all: bacterial chemotaxis．NAT Rev Mol Cell Biol,2004,5(12）：1024-1037.   
+[16]Giron JA，Torres AG，Freer E，et al.The flagella of enteropathogenic Escherichia coli mediate adherence to epithelial cells.Mol Microbiol,2002，44(2）：361-379.   
+[17] Josenhans C, Suerbaum S.The role of motilityas a virulence factor in bacteria．Int JMed Microbiol,2002，291（8）：605- 614.   
+[18]Geiger T，Wolz C.Intersection of the stringent response and the CodY regulon in low GC Gram-positivebacteria.Int J Med Microbiol,2014，304（2）:150-155.   
+[19]Sonenshein AL.CodY,a global regulator of stationary phase and virulence inGram-positivebacteria.CurrentOpinionin Microbiology，2005，8（2）:203-210.   
+[20]Stenz L，Francois P，Whiteson K，et al.The CodY pleiotropic repressor controlsn virulence in gram-positive pathogens.FEMS Immunology and Medical Microbiology，2011,62(2）:123-139.   
+[21]Bennett HJ,Pearce D M,Glenn S，et al.Characterization of relA and codY mutants of Listeria monocytogenes：identification of the CodYregulon and its role in virulence.Mol Microbiol,2007, 63(5) : 1453-1520.   
+[22]Glaser P，Frangeul L，Bunchrieser C，et al． Comparative genomics of Listeria species．Science，2001，294（26）：849- 852.   
+[23］王莉，冯飞飞，张强，等．单核细胞增生李斯特菌毒力基因 inlB/actA双缺失突变株的构建．生物技术通报，2010，0 (11):182-185. WangL，FengFF，ZhangQ，et al.Construction ofa mutant strainof Listeria monocytogenes with a deletion of inlB and actA. Biotechnology Bulletin，2010,0（11）：182-185.   
+[24]LobelL,HerskovitsA A.Systems level analyses reveal multiple regulatory activities of CodY controlling metabolism，motility and virculence inListeria monocytogenes.PLoSGenet,2016,12(2）： 45-72.   
+[25]于新惠，张颖，王文静，等.rmlB 基因在单核细胞增生李斯特 菌耐药性、生物被膜形成和毒力方面的研究.微生物学通报， 2017，44(1):161-171. YuXH,ZhangY，WangWJ，et al.Contribution of rmlB in envelope-acting a antibiotic resistance biofilm formation and virulence in Listeria monocytogenes．Microbiology China，2017, 44(1):161-171.   
+[26]Metlina A L.Prokaryotic flagella as biological motility system. Uspekhi Biol Khim,2001,41(2)：229-282.   
+[27]KeselerIM,Collado-Vides J,Santos-ZavaletaA,et al.EcoCyc: a comprehensive database of Escherichia coli biology.Nucleic Acids Res，2011,39(3):583-590.   
+[28］Chilcott G S，Huqhes K T.Coupling of the flagellar gene expression to flagellar assembly in Salmon ellaenterica，serovar typhimuriumand Escherichia coli.Microbiol Mol Biol Rev,2000, 64(4):694-708.
+
+# The Role of CodY in the Regulation of Flagellar Motility and Virulence in Listeria monocytogenes
+
+ZHANG YingTANG Yu-qianSHEN YiLUO Qin (Hubei Key Laboratory of Genetic Regulationand Integrative Biology，College of Life Sciences, Central China Normal University，Wuhan430O79,China)
+
+AbstractObjective:To explore the function of the transcription factor CodY on flagellar motility，bacterial virulencein Listeria monocytogenes. Methods: The codY gene on the L. monocytogenes chromosome was knocked out by homologous recombination and the strain of the deleted codY gene was successully complemented by the codY gene construct; the results were evaluated by observation of the motilityof flagelar movement，the transcriptional expression of flagellum-related genes with RT-qPCR.The efects of wild-type strain EGDe and CodY-deficient strain on bacterial hemolytic activity，semi-lethal dose of Helicoverpa armigera and the main virulence factor LLO(coding gene $h l y$ ） and virulence regulatory protein PrfA（coding gene $p r f A$ ）transcription expression profiles were compared.Results: Compared with the wild-type strain，the CodY-deficient strain showed asignificant reduction inthe flagelar movement，the hemolyticactivity，aswellas the transcriptional expression of flagellum-related genes and the major virulence genes $h l y$ and prfA( $P { \leqslant } 0 . 0 1 )$ ；while the semi-lethal dose on Helicoverpa armigera（Hubner）was increased 5.8 fold.Conclusion:The CodY plays an important role in flagellar motility and transcription regulation ofbacterial virulence in Listeria monocytogenes.
+
+Key wordsListeria monocytogenes CodYFlagellar motility Virulence

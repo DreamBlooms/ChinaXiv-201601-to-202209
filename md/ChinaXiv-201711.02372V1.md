@@ -1,0 +1,248 @@
+DOI:10.13930/j.cnki.cjea.160688
+
+史康婕，周怀平，杨振兴，解文艳，程曼．长期施肥下褐土易氧化有机碳及有机碳库的变化特征[J].中国生态农业学报，2017,25(4): 542-552Shi KJ,Zhou HP,Yang ZX,XieWY,Cheng M.Characteristicsofreadilyoxidizableorganiccarbonand sol organiccarbonpool under long-term fertilization in cinnamon soils[J]. Chinese Journal ofEco-Agriculture,2017,25(4): 542-552
+
+# 长期施肥下褐土易氧化有机碳及有机碳库的变化特征
+
+史康婕¹，周怀平2\*\*，杨振兴²，解文艳²，程曼²(1．山西大学生物工程学院太原030006;2.山西省农业科学院农业环境与资源研究所太原 030031)
+
+摘要：本研究探讨了24年长期施肥对褐土土壤有机碳(TOC)、有机碳储量(TOCs)、净固碳效率(NCSE)和碳库管理指数(CPMI)的影响，为评价褐土土壤碳库变化与质量及科学施肥提供理论依据。研究以褐土肥力与肥料长期定位试验为平台，通过9个处理[A组：不施肥处理 $( \mathrm { N } _ { 0 } \mathrm { P } _ { 0 }$ 、CK);B组：单施无机肥处理 $( \mathbf { N } _ { 1 } \mathbf { P } _ { 1 } \boldsymbol { \cdot } \mathbf { N } _ { 2 } \mathbf { P } _ { 2 } \boldsymbol { \cdot } \mathbf { N } _ { 3 } \mathbf { P } _ { 3 }$ （204号和 $\mathrm { N } _ { 4 } \mathrm { P } _ { 4 }$ );C组：有机肥与无机肥配施处理 $( \mathrm { N } _ { 2 } \mathrm { P } _ { 1 } \mathrm { M } _ { 1 }$ 、 ${ \bf N } _ { 3 } { \bf P } _ { 2 } { \bf M } _ { 3 }$ 和 $\mathrm { N } _ { 4 } \mathrm { P } _ { 2 } \mathrm { M } _ { 2 }$ ;D组：单施高量有机肥处理 $\left( \mathbf { M } _ { 6 } \right) ^ { - }$ 测定土壤 TOC 与易氧化有机碳(ROOC)含量，并计算 TOCs、NCSE及CPMI等相关指标。结果表明，在不同土层不同时期施用较高量有机肥配施无机肥及施用高量有机肥 $( \mathrm { N } _ { 3 } \mathrm { P } _ { 2 } \mathrm { M } _ { 3 }$ 、 $\mathrm { N } _ { 4 } \mathrm { P } _ { 2 } \mathrm { M } _ { 2 }$ 和 $\mathbf { M } _ { 6 . } ^ { \cdot }$ 均可提高TOC和ROOC含量，且随土层深度加深提升作用减弱。TOCs、NCSE与 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层TOC含量在时间和空间上的变化规律基本一致。施用高量有机肥(C组、D组)可有效提高TOCs,A组、B组的TOCs均值分别比C组、D组低 $7 6 . 7 7 \%$ 与 $1 7 . 3 6 \%$ 。长期施肥处理可提高NCSE，尤其是施用有机肥处理可显著提高NCSE。NCSE 为 $\mathrm { ~ D ~ }$ 组 ${ > } C$ 组 ${ } _ { > } \mathrm { A }$ 组 $\underline { { \underline { { \mathbf { \Pi } } } } } = \mathbf { \Pi }$ B组;D组NCSE为 $1 ~ 1 5 2 . 2 7 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ ，是C组的2.51倍,B组的16.20倍。与试验前相比,C组和D组的CPMI无显著变化，且C组与D组间差异不显著，但A组与B组比试验前降低 $1 6 . 3 8 { \sim } 4 0 . 0 2$ 。与A组(CK)相比,B组中 $\mathbf { N } _ { 1 } \mathbf { P } _ { 1 }$ 处理与C、D组处理显著影响CPMI，提高了 $2 3 . 3 0 { \sim } 4 5 . 6 7$ 。在 $0 { \sim } 4 0 ~ \mathrm { c m }$ 土层CPMI与ROOC含量呈显著正相关，CPMI可以很好地指示有机碳的变化。可见，施用高量有机肥或者较高量有机肥与无机肥配施可极显著提高褐土土壤TOCs、NCSE 和CPMI，即施用高量有机肥或者较高量有机肥与无机肥配施 $( \mathrm { N } _ { 3 } \mathrm { P } _ { 2 } \mathrm { M } _ { 3 }$ 和$\mathrm { N } _ { 4 } \mathrm { P } _ { 2 } \mathrm { M } _ { 2 } ;$ 有利于褐土有机碳的固存，可减少无机肥的施用量，使土壤性质向良性方向发展，培肥土壤。
+
+关键词：长期施肥；有机肥；有机碳储量；碳库管理指数；净固碳效率；土壤有机碳；易氧化有机碳中图分类号：S158 文献标识码：A 文章编号:1671-3990(2017)04-0542-11
+
+# Characteristics of readily oxidizable organic carbon and soil organic carbon pool under long-term fertilization in cinnamon soils
+
+SHI Kangjie1, ZHOU Huaiping2\*\*, YANG Zhenxing², XIE Wenyan², CHENG Man² (1.College of Biological Engineering,Shanxi University,Taiyuan O3ooo6,China; 2.Institute ofAgricultural Environment &Resources,Shanxi AcademyofAgricultural Sciences,Taiyuan O3o031,China)
+
+Abstract: The effects of24years oflong-term fertlization on total organiccarbon(TOC),total organiccarbon storage (TOCs), net carbon sequestration eficiency(NCSE)and carbon pool management index (CPMI)of cinnamon soils were analyzed in ordertoprovide theoreticalbasis fortheevaluationofsoilcarbonpoolchangeandquality,andto guide scientificapplication modeoffertilizers incinnamonsoils.Usingdatafromlong-termexperimentonsoilfertilityandfertilizerusehistory,TOCand ROOC (readily oxidizable organic carbon)contents were analyzed and the relative indexes for TOCS,NCSE and CPMI were calculated for 9 different treatment conditions.The treatments included Group A[no fertilization treatment $( \mathrm { N _ { 0 } P _ { 0 } , C K ) ] }$ , Group B [single application of inorganic fertilizer treatments $( \mathrm { N } _ { 1 } \mathrm { P } _ { 1 } , \mathrm { N } _ { 2 } \mathrm { P } _ { 2 } , \mathrm { N } _ { 3 } \mathrm { P } _ { 3 }$ and $\mathrm { N } _ { 4 } \mathrm { P } _ { 4 }$ )], Group C [mixed organic and inorganic fertilizers treatments $( \mathrm { N } _ { 2 } \mathrm { P } _ { 1 } \mathrm { M } _ { 1 }$ ， ${ \bf N } _ { 3 } { \bf P } _ { 2 } { \bf M } _ { 3 }$ and $\mathrm { N } _ { 4 } \mathrm { P } _ { 2 } \mathrm { M } _ { 2 } ;$ ] and Group D [single application of high amount of organic fertilizer treatment $\left( \mathbf { M } _ { 6 } \right) \mathbf { \bar { \Psi } }$ . Results showed that the application of medium and high organic manure $( \mathrm { N } _ { 3 } \mathrm { P } _ { 2 } \mathrm { M } _ { 3 }$ and $\mathrm { N } _ { 4 } \mathrm { P } _ { 2 } \mathrm { M } _ { 2 }$ ）increased the contents ofTOCand ROOCindiferent soilayersand indifferent periods,butthe promotion effect dereased with increasing soil depth.TOCS,NCSEand TOC had similar trends in both time and space.TOCS increased with increasing application of organic fertilizer (Group C, Group D),with $7 6 . 7 7 \%$ and $1 7 . 3 6 \%$ lower for average of Group A and Group B than that for Group Cand Group D,respectively.Long-term fertilization improved netcarbon fixation eficiencyand the applicationof organic fertilizer significantly improved NCSE.NCSE decreased in the order of Group $\mathbf { D } >$ Group $\mathrm { ~ C ~ } { > }$ Group $\mathbf { A } >$ Group B. NCSE for Group D was $1 ~ 1 5 2 . 2 7 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ ， which was 2.51 times that of Group C,and 16.20 times that of Group B. Compared with CMPI before the experiment,there was no significant diference in CPMIs of Group Cand Group D;while CPMIs of Group Aand GroupBdecreased by16.38-40.02.Alsocompared withcontrol,theapplicationoflow-levelinorganic fertilizer treatment $( \mathsf { N } _ { 1 } \mathsf { P } _ { 1 } )$ and application of organic fertilizer of Group C and Group D significantly increased CPMI by 23.30-45.67. There was a significant positive correlation between CPMI and ROOC in the $\textstyle 0 - 4 0 \ { \mathrm { c m } }$ soil layer, which implied that CPMI wasagood indicatorfororganiccarbonchange.As noted,theapplicationofhighamountoforganic manureorhigh amounts of organic and inorganic fertilizers $\mathrm { ( N } _ { 3 } \mathrm { P } _ { 2 } \mathrm { M } _ { 3 }$ and $\mathrm { N } _ { 4 } \mathrm { P } _ { 2 } \mathrm { M } _ { 2 }$ ） significantly improved soil TOCS,NCSE and CPMI. In other words,plicationofhighamountsoforganicfertilizerincreasedorganiccarbonsequestration,decreased theaplication of inorganic fertilizer and enhanced better soil development and soil fertility.
+
+Keywords:Long-term fertilization;Organic fertilizer;Total organiccarbon storage;Carbon pool management index;Net carbon sequestration efficiency; Soil total organic carbon; Oxdizible organic carbon
+
+土壤有机碳是土壤的重要组成部分[1]，不仅有助于缓解温室效应，还能增加土壤持水量和养分的有效性，故有机碳的固存尤为重要。有机碳储量(totalorganiccarbon storage，TOCs)与净固碳效率(netcarbon sequestrationefficiency,NCSE)是士壤固碳潜力的关键指标，能较好地反映土壤有机碳对施肥措施的响应；且土壤有机碳储量可以指示不同碳组分周转平衡后的结果，TOCs和NCSE被用来评价土壤质量和土壤管理措施[2]。但是，土壤有机碳含量是容量指标，不足以全面反映土壤质量的内在变化[3]。因此，能被 $3 3 3 \mathrm { \ m m o l { \cdot } L ^ { - 1 } \ K M n O _ { 4 } }$ 氧化[4]的易氧化有机碳(readily oxidizable organic carbon,ROOC)便被引进作为土壤有机质的活性指标[5。ROOC周转时间较短，与土壤养分的供应和作物生长密切相关，是植物营养素的主要来源[6，可以用来指示土壤有机质的早期变化[7。仅凭借 ROOC含量这一指标仍不足以全面反映土壤有机碳库的更新变化状况；土壤碳库管理指数(carbon pool management index,CPMI)结合了人为影响下土壤碳库指标和土壤碳库活度两个方面的内容，反映了外界条件对土壤有机质数量变化的影响及土壤活性有机质数量的变化，能够较全面和动态地反映外界条件对土壤有机质性质的影响[8]。
+
+长期施肥是培肥土壤的主要手段，在一定条件下，对农田土壤养分的涵养起着主要作用。仪明媛[9]分析了长期施肥下吉林公主岭黑土土壤有机碳库含量的变化特征，认为长期施用氮、氮磷和氮磷钾化肥对土壤有机碳库无显著影响。王飞等[10基于 32年的长期定位试验，研究了南方丘陵黄泥田不施肥、单施化肥、化肥 $+$ 牛粪、化肥 $+$ 全部稻草还田处理下，历年水稻产量、代表性年份耕层土壤有机碳含量及固碳速率的变化，认为化肥配施有机肥或配合秸秆还田较单施化肥明显提高了土壤的固碳速率。何翠翠[11]分析了长期不同施肥措施以及不同轮作制度对黑土活性有机质及其有机碳组分的影响，认为有机肥与化肥配施可以显著提高土壤有机质，以荒处理为参考土样，有机肥和氮磷钾肥配施处理的碳库管理指数均大于100。佟小刚[12]测得红壤、中层黑土、厚层黑土、灰漠土、黑泸土及潮土6种农田土壤的有机碳库和氧化活性有机碳库，分析了长期施肥下土壤有机碳库在含量、分布、时间序列及区域上的变化特征，结论认为不同施肥处理总体上增加了活性有机碳所占的比例，且以配施有机肥提升幅度最大，增幅达 $4 4 . 0 \% { \sim } 6 3 . 4 \%$ ，由此可见，国内对长期施肥措施下有机碳库动态变化的研究仅局限于TOC与ROOC含量的变化特征，并未将CPMI、NCSE和TOCs一起进行相关性分析[13-14]。国内研究对多种土壤[11,15-16]在长期施肥措施下土壤有机碳库变化特征有较深入研究，但缺乏对褐土土壤有机碳库的系统研究，且在不同地形、自然环境以及人为管理等因素下，长期施肥对土壤有机碳及其易氧化有机碳转化的影响存在差异，如长期试验中潮土、红壤、塿土总有机碳含量均增加，但易氧化有机碳含量变化却没有得到一致结论[14-16]。
+
+针对上述问题，本研究选择在半干旱、半湿润区的褐土上进行24年的长期定位施肥试验，代表了我国 $3 4 ^ { \circ } { \sim } 4 0 ^ { \circ } \mathrm { N }$ ， $1 0 3 ^ { \circ } { \sim } 1 2 2 ^ { \circ } \mathrm { E }$ 之间主要土壤类型、耕作制度和气候差异明显的典型农田土壤，揭示化肥有机肥长期配合施用下褐土农田土壤有机碳库的变化特征，探讨了褐土TOCs与NCSE、CPMI的关系，以阐明长期施肥对有机碳变化的影响和改善农田土壤质量的原因，提出最能反映土壤肥力和生产力的有机碳库指标，为褐土培肥、粮食增产和减少温室气体排放等提供一定的理论依据。
+
+# 1材料与方法
+
+# 1.1 试验区概况
+
+长期定位施肥试验设在山西省寿阳县宗艾村国家旱作农业科技攻关试验区的北坪旱塬上。试验区海拔 $1 ~ 1 3 0 ~ \mathrm { m }$ ，多年平均气温 $7 . 6 ~ \mathrm { ^ { \circ } C }$ ， $\geqslant 1 0 \ { } ^ { \circ } { \mathrm { C } }$ 年积温$3 4 0 0 \mathrm { ~ \textdegree C }$ ，年无霜期 $1 3 5 { \sim } 1 4 0 \mathrm { ~ d ~ }$ ，年均降雨量 $5 0 1 . 1 \ \mathrm { m m }$ (年际间变率大)，干燥度1.3，属半湿润偏旱区。试验土壤为褐土(褐土性土)，质地轻壤，土层深厚，地势平坦，地下水埋深 $5 0 \mathrm { ~ m ~ }$ 以上。1992年播前耕层土壤$( 0 { \sim } 2 0 ~ \mathrm { c m } )$ 基本性质为： $\mathrm { p H } ~ 8 . 3$ ，有机质 $2 3 . 8 0 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 全氮 $1 . 0 5 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，全磷 $0 . 7 9 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，碱解氮 $1 0 6 . 4 ~ \mathrm { { m g } \cdot \mathrm { { k g } ^ { - 1 } } }$ ，有效磷 $4 . 8 4 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ，速效钾 $1 0 0 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ 。每年秋季结合耕翻将肥料一次性施入。供试氮肥为尿素，含N$46 \%$ ；磷肥为过磷酸钙，含 $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ~ 1 2 \% { \sim } 1 4 \%$ ；有机肥为腐熟湿牛粪(含水量为 $4 9 . 7 0 \% { \sim } 5 0 . 0 0 \% )$ ，风干后腐熟牛粪有机质含量 $9 0 . 5 { \sim } 1 2 7 . 3 ~ \mathrm { g { \cdot } k g } ^ { - 1 }$ ，全氮(N)含量 $3 . 9 3 { \sim } 4 . 9 7 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，全磷 $( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } )$ 含量 $1 . 3 7 { \sim } 1 . 4 6 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 全钾 $\left( \mathrm { K } _ { 2 } \mathrm { O } \right)$ 含量 $1 4 . 1 { \sim } 3 4 . 3 ~ \mathrm { g ^ { . } k g ^ { - 1 } } .$ 。种植制度为一年1季玉米，品种1992—1995年为‘烟单14号'，1996—2002年为‘晋单34号'，2003—2009年为‘强盛31号',2010—2015年为‘晋单 81号'，密度均为 $4 . 5 \mathrm { \sim } 7 . 0$ 万株 $\cdot \mathrm { h m } ^ { - 2 }$ 。播种时间为4月15—28日，收获时间为9月20日至10月10日。田间管理按大田丰产要求进行。本文中所选取试验区均未涉及秸秆还田处理，秸秆在秋收后移出试验区。
+
+# 1.2 试验设计
+
+氮、磷有机肥配合施用长期定位试验从1992年春开始，到2015年已历时24年。试验采用氮、磷、有机肥3因素4水平正交设计，另设对照和高量有机肥区，共18个处理，小区面积 $6 6 . 7 \mathrm { ~ m } ^ { 2 }$ ，随机排列，无重复。氮肥、磷肥与有机肥以不同水平施用。本研究选用其中的9个处理，即：不施肥对照A 组(CK, $\mathrm { N } _ { 0 } \mathrm { P } _ { 0 } )$ ，不同氮、磷化肥配施处理B组 $( \mathsf { N } _ { 1 } \mathsf { P } _ { 1 }$ 、 ${ \bf N } _ { 2 } { \bf P } _ { 2 }$ 、 ${ \bf N } _ { 3 } { \bf P } _ { 3 }$ /$\mathrm { N } _ { 4 } \mathrm { P } _ { 4 ) }$ ，氮、磷化肥与有机肥配施处理C组 $( \mathrm { N } _ { 2 } \mathrm { P } _ { 1 } \mathrm { M } _ { 1 \setminus }$ （204号$\mathrm { N } _ { 3 } \mathrm { P } _ { 2 } \mathrm { M } _ { 3 \setminus } \mathrm { N } _ { 4 } \mathrm { P } _ { 2 } \mathrm { M } _ { 2 } )$ 以及单施高量有机肥处理D组 $\left( \mathbf { M } _ { 6 } \right)$ ，以AB组进行单施化肥的单因素分析，AD组进行单施有机肥的分析，C组为田间管理中经济效益较高的、土壤理化性质较好的处理。本试验主要研究了不同施肥措施下田间土壤的综合指标，故加入C组进行分析测试。各处理肥料的具体施用量见表1。
+
+表1长期定位施肥试验各处理养分年投入量  
+Table 1Annual nutrients inputs for different treatments in the long-term fertilization experiment kg:hm-2   
+
+<html><body><table><tr><td rowspan="2">养分 Nutrient</td><td>A组Group A</td><td colspan="4">B组Group B</td><td colspan="3">C组Group C</td><td>D 组Group D</td></tr><tr><td>NoPo (CK)</td><td>NP1</td><td>NP2</td><td>N3P</td><td>N4P4</td><td>N2PM1</td><td>N3P2M3</td><td>N4P2M2</td><td>M6</td></tr><tr><td>N</td><td>0</td><td>60</td><td>120</td><td>180</td><td>240</td><td>120</td><td>180</td><td>240</td><td>0</td></tr><tr><td>PO5</td><td>0</td><td>37.5</td><td>75</td><td>112.5</td><td>150</td><td>37.5</td><td>75</td><td>75</td><td>0</td></tr><tr><td>有机肥 Organic fertilizer</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>22 500</td><td>67 500</td><td>45 000</td><td>135 000</td></tr></table></body></html>
+
+# 1.3 测定项目与方法
+
+# 1.3.1 测定项目
+
+本研究测定了1992年基础土样及1996年、2001年、2006年、2012年和2015年土样中土壤有机碳及易氧化有机碳含量。
+
+# 1.3.2 测定方法
+
+试验点每年秋季作物收获后，用土钻采集 $0 { \sim } 2 0 \mathrm { c m } .$ $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 和 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层土壤样品，每个处理随机取6\~10个点，混合制样(因本试验各处理无重复，故
+
+采样时人为设置3个重复)，所采土样风干后一部分过 $0 . 2 5 \mathrm { \ m m }$ 筛测 TOC，一部分过 $0 . 1 4 9 \mathrm { \ m m }$ 筛测ROOC.
+
+土壤TOC含量采用重铬酸钾-外加热法测定；土壤容重的测定采用环刀法； $\mathsf { p H }$ 测定采用电位法[1]。ROOC含量采用 $3 3 3 \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 高锰酸钾氧化法测定[7]。
+
+# 1.3.3 有机碳储量(TOCs)及净固碳效率(NCSE)计算方法
+
+TOCs储量计算公式：
+
+$$
+\scriptstyle { \mathrm { T O C s } } = \sum ( C _ { i } \times p _ { i } \times T _ { i } ) \times 1 0 ^ { - 1 }
+$$
+
+式中：TOCs为某一深度的土壤有机碳储量 $( { \mathrm { t } } { \cdot } { \mathrm { h m } } ^ { - 2 } )$ L$C _ { i }$ 为第 $i$ 层土壤的TOC含量 $( \mathbf { g } { \cdot } \mathbf { k } \mathbf { g } ^ { - 1 } ) , p _ { i }$ 为第 $i$ 层土壤容重 $\left( \mathrm { g } \cdot \mathrm { c m } ^ { - 3 } \right)$ ！， $T _ { i }$ 为第 $i$ 层土壤厚度(cm), $n$ 为土层数。
+
+净固碳效率(NCSE)计算公式：
+
+$$
+\mathrm { C S E } _ { m } { = } ( \mathrm { T O C } _ { s m } { - } \mathrm { T O C } _ { s _ { 0 } m ) } { \times } 1 \ 0 0 0 / n
+$$
+
+式中： $\mathrm { C S E } _ { m }$ 为第 $\mathbf { \nabla } _ { m }$ 层的固碳效率， $\mathrm { T O C } _ { \mathrm { { s } } m }$ 为第 $\mathbf { \nabla } _ { m }$ 层的有机碳储量， $\mathrm { T O C } _ { \mathrm { s } _ { 0 } m }$ 为第 $\mathbf { \nabla } _ { m }$ 层的初始有机碳储量，$n$ 表示施肥处理经历的年限，本试验为24年。
+
+净固碳效率NCSEmy=CSEmy-CSEm0 (3)式中： $\mathrm { C S E } _ { m y }$ 为第 $\mathbf { \nabla } _ { m }$ 层的净固碳效率， $\mathrm { C S E } _ { m 0 }$ 为2015年第 $\mathbf { \nabla } _ { m }$ 层CK处理的固碳效率， $y$ 为不同处理。
+
+# 1.3.4 碳库管理指数计算方法
+
+碳库管理指数(CPMI)是指碳库指数与活度指数的乘积的100 倍，其中，碳库指数(CPI，carbon poolindex)为样品中TOC含量与参考土样TOC含量的比值(本试验中分别选取1992年和2015年 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层的土壤作为参考土样进行计算)，活度指数(AI,activityindex)为样本碳库活度与参考土样碳库活度比值，碳库活度(A，activity)为 ROOC 与(TOC-ROOC)的比值。
+
+# 1.4数据处理与统计分析
+
+采用MicrosoftExcel2010进行数据分析与作图，SPSS17.0统计软件进行方差分析与相关性分析。
+
+# 2 结果与分析
+
+# 2.1长期不同施肥处理对土壤有机碳(TOC)含量及有机碳储量(TOCs)的影响
+
+# 2.1.1 对耕层TOC含量年际变化特征的影响
+
+不同施肥处理对耕层 $( 0 { \sim } 2 0 \ \mathrm { c m } ) \mathrm { T O C }$ 含量年际变化特征的影响主要表现为施用有机肥的提升作用，与试验前相比，经过 24年处理后 $\mathbf { M } _ { 6 }$ 和 $\mathrm { N } _ { 3 } \mathrm { P } _ { 2 } \mathrm { M } _ { 3 }$ /${ \bf N } _ { 4 } { \bf P } _ { 2 } { \bf M } _ { 2 }$ ，TOC含量明显高于初始状态，为 $1 4 . 6 7 \sim$ $2 3 . 1 5 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，提高 $1 1 . 5 6 \% { \sim } 6 7 . 6 3 \%$ ， $\mathrm { N } _ { 2 } \mathrm { P } _ { 1 } \mathrm { M } _ { 1 }$ 处理在2015年TOC含量比初始值降低了 $8 . 8 3 \%$ 。 $\mathrm { N } _ { 3 } \mathrm { P } _ { 2 } \mathrm { M } _ { 3 } .$ $\mathrm { N } _ { 4 } \mathrm { P } _ { 2 } \mathrm { M } _ { 2 }$ 处理TOC含量整体上呈现逐年上升的趋势，$\mathrm { N } _ { 2 } \mathrm { P } _ { 1 } \mathrm { M } _ { 1 }$ 基本保持平稳变化趋势；而对照组 $( \mathrm { N _ { 0 } P _ { 0 } } )$ 与单施无机肥区组TOC含量则逐年降低，比试验前降低$2 3 . 8 2 \% { \sim } 2 9 . 0 4 \%$ (图1)。通过C组、D组、B组分别与A组的对比可知,C、D 组TOC含量显著高于A、B组。
+
+从图1可看出,C、D组，除 $\mathrm { N } _ { 2 } \mathrm { P } _ { 1 } \mathrm { M } _ { 1 }$ 处理在2001年比A组低外，TOC含量都高于A组且有继续提升的趋势;A、B组中，随着施肥年限的增加，TOC含量逐渐与A组接近且有低于A组继续下降的趋势。
+
+![](images/d87f5e0d3c61aa53f77190dccd74ffc23da1653069654917a4020e86d0362b17.jpg)  
+图1不同施肥处理下土壤总有机碳含量的年际变化 Fig.1Inter-annual changes of contents of total organic carbon (TOC)under diffrent fertilization treatments
+
+# 2.1.2 对TOC含量剖面变化特征的影响
+
+经过连续24年施肥处理后，褐土耕层 $( 0 { \sim } 2 0 ~ \mathrm { c m } )$ TOC含量产生了明显差异(图2)。不同处理TOC含量大小顺序为D组 ${ } _ { > } \mathrm { C }$ 组 ${ \mathrm { \ l { > } A } }$ 、B组。A、B组TOC含量为 $9 . 8 0 { \sim } 1 0 . 5 3 ~ \mathrm { g { \cdot } k g ^ { - 1 } }$ ，平均为 $1 0 . 1 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，各处理间差异不显著。C组TOC含量为 $1 2 . 5 9 { \sim } 1 5 . 9 5 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，平均为 $1 4 . 4 0 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，较A、B组差异极显著,TOC含量增加 $42 . 0 1 \text{‰}$ ，D组TOC含量为 $2 3 . 1 5 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ ，较A、B 组和C 组差异均极其显著，TOC 含量分别增加
+
+$128 . 3 0 \%$ 和 $60 . 7 6 \%$ ，较A组增加 $1 3 5 . 7 4 \text{‰}$
+
+土壤 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层中C、D 组对TOC含量影响显著;A、B组中施用较高量无机肥会使该层TOC含量进一步下降。 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层中D 组显著增加TOC含量，施用无机肥的区组(B组)，土层中TOC含量明显减少，且B组内无显著性差异。
+
+# 2.1.3 对TOCs的影响
+
+图3中 $\mathrm { C K } _ { 0 }$ 为1992年基础土样的TOCs值。由图3可知，仅D组TOCs高于 $\mathrm { C K } _ { 0 }$ ，其他处理均有所
+
+26 aA   
+24220 ■0\~20cm □20\~40 cm 40\~60 cm 工   
+18 bBB cB   
+16 dC 山 工   
+421086 IcC IcC 中 cC H 宝 4 毛 + 舌 2 0 NoP NP NP2 NP N4P4 N2PM N3P2M3 N4P2M2 M6 A组 B组 C组 D组 Group A Grdup B Group C Group Dl 处理组Treatment
+
+Fig.2Contents of total organic carbon (TOC)at diffrent soil layers under different fertilization treatments 不同小写字母表示处理间差异达 $5 \%$ 显著水平，不同大写字母表示处理间差异达 $1 \%$ 显著水平。Different lowercase letters mean significant difference at $5 \%$ lever,and different capital letters denote significant differences at $1 \%$ lever among different treatments.
+
+![](images/9e6a3b152c38eadddced6f70d95bcf3a2dba4b221b909160e8424484caf51727.jpg)  
+图2不同施肥处理土壤剖面总有机碳含量  
+图3不同施肥处理对不同土层土壤有机碳储量的影响  
+Fig.3Total organic carbon storage (TOCs) in diferent soil layers under different fertilization treatments $\mathrm { C K _ { 0 } }$ 为 1992年基础土样的 TOCs值。不同大写字母表示在 $0 { \sim } 6 0 ~ \mathrm { c m }$ 土层不同处理间差异达 $1 \%$ 显著水平。 $\mathrm { C K } _ { 0 }$ is the TOCs value of the basic soil samples in l992.Different capital letters denote significant differences at $1 \%$ level in $_ { 0 - 6 0 \mathrm { c m } }$ soil layer among different treatments.
+
+降低，施用有机肥较多的处理TOCs降低较少。C、D 组的TOCs 极显著高于A、B 组，C、D 组 TOCs比A组与B组分别提高 $7 6 . 7 7 \%$ 、 $1 7 . 3 6 \%$ · $\mathbf { N } _ { 1 } \mathbf { P } _ { 1 }$ 处理TOCs最低, $\mathbf { M } _ { 6 }$ 处理TOCs最高, $\mathrm { N _ { 4 } P _ { 4 } }$ 显著高于B组其他处理。
+
+# 2.2 长期不同施肥处理对土壤净固碳效率(NCSE)的影响
+
+表2反映了经过24年不同施肥处理土壤不同土层NCSE的变化。 $0 { \sim } 2 0 ~ \mathrm { c m }$ 、 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 和 $0 { \sim } 4 0 \ \mathrm { c m }$ 土层，净固碳效率为D 组 ${ } _ { . > \mathrm { C } }$ 组 ${ \mathrm { l } } { > } \mathrm { A }$ 、B组。 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层D组NCSE为 $1 ~ 1 5 2 . 2 7 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ ，是C组的2.51倍，B组的16.20倍，可见施用高量有机肥可显著提高土壤净固碳效率。B组与A组均未施用有机肥，其NCSE 差异不显著。 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层,B组表现为净碳释放，除 $\mathrm { N } _ { 4 } \mathrm { P } _ { 2 } \mathrm { M } _ { 2 }$ 处理为净碳释放外C、D组为净碳固定。综合 $0 { \sim } 4 0 ~ \mathrm { c m }$ 土层,B组平均表现为净碳释放,C、D组为净碳固定，且C组中 $\mathrm { N } _ { 3 } \mathrm { P } _ { 2 } \mathrm { M } _ { 3 }$ 固碳效率与D组的 $\mathbf { M } _ { 6 }$ 均较好，可能是因为这两个处理施用较高量的有机肥；B组中 $\mathbf { N } _ { 1 } \mathbf { P } _ { 1 }$ 与 ${ \bf N } _ { 3 } { \bf P } _ { 3 }$ 处理固碳效率相对最差，为净碳释放，由此可见，长期施用中低量无机肥，会使土壤固碳能力降低。
+
+# 2.3长期不同施肥处理对土壤易氧化有机碳(ROOC)含量的影响
+
+# 2.3.1 对耕层ROOC含量年际变化特征的影响
+
+从图4得出，1992—2015年RO0C的含量变化为 $1 . 8 2 { \sim } 4 . 0 7 ~ \mathrm { g { \cdot } k g ^ { - 1 } }$ 。与试验前相比,C、D组ROOC含量呈先下降后缓慢上升的趋势；B组ROOC含量呈下降趋势且降低量较大，有低于A组的趋势。
+
+表2不同施肥处理下 $\mathbf { 0 { \sim } 6 0 ~ c m }$ 土层土壤净固碳效率(NCSE) 2Net carbon sequestration efficiency (NCSE)of soil in $_ { 0 - 6 0 \mathrm { c m } }$ layer under different fertili   
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td rowspan="2"></td><td colspan="3">净固碳效率 Net carbon sequestration eficiency (kg;hm-2.a-1)</td></tr><tr><td>0~20cm</td><td>20~40 cm</td><td>0~40 cm</td></tr><tr><td>A组</td><td>NoPo (CK)</td><td>0.02G</td><td>0.13C</td><td>0.15E</td></tr><tr><td>Group A</td><td>平均值Average</td><td>0.02c</td><td>0.13c</td><td>0.15c</td></tr><tr><td>B组 Group B</td><td>N1P1</td><td>30.89EFG</td><td>-316.73D</td><td>-285.84F</td></tr><tr><td rowspan="9">Group C</td><td>N2P2</td><td>118.29EF</td><td>16.79C</td><td>135.08E</td></tr><tr><td>N3P3</td><td>8.55FG</td><td>-244.84D</td><td>-236.30F</td></tr><tr><td>N4P4</td><td>126.70E</td><td>28.77C</td><td>155.47E</td></tr><tr><td>平均值Average</td><td>71.11c</td><td>-129.00d</td><td>-57.90c</td></tr><tr><td>C组 N2P1M1</td><td>282.25D</td><td>402.45B</td><td>684.70C</td></tr><tr><td>N3P2M3</td><td>604.57B</td><td>339.80B</td><td>944.37B</td></tr><tr><td>N4P2M2</td><td>491.24C</td><td>-7.78C</td><td>468.04D</td></tr><tr><td>平均值Average</td><td>459.35b</td><td>244.82b</td><td>699.04b</td></tr><tr><td>M6</td><td>1152.27A</td><td>555.49A</td><td>1 707.73A</td></tr><tr><td>D组 Group D</td><td>平均值Average</td><td>1 152.27a</td><td>555.49a</td><td>1 707.73a</td></tr></table></body></html>
+
+不同小写字母表示处理组间差异达 $5 \%$ 显著水平，不同大写字母表示处理间差异达 $1 \%$ 显著水平。Different lowercase letters mean significant differences at $5 \%$ level among different treatment groups,and different capital letters denote significant differences at $1 \%$ level among different treatments.
+
+![](images/2c079cda7f3b151c358b9c966878ecca8e26aeadaa8faafb14f9ad6305110190.jpg)  
+图4不同施肥处理易氧化有机碳含量的年际变化Fig.4Inter-annual changes incontents ofreadilyoxidizable organiccarbon (ROOC)underdiferent fertilizationtreatments
+
+每一时期，C、D组ROOC含量除 $\mathrm { N } _ { 4 } \mathrm { P } _ { 2 } \mathrm { M } _ { 2 }$ 处理在1996年时低于CK外，其他均高于CK，且2015年 $\mathbf { M } _ { 6 }$ 处理与 ${ \bf N } _ { 3 } { \bf P } _ { 2 } { \bf M } _ { 3 }$ 处理ROOC含量第1次超过试验前且有一直上升的趋势;B组在2001年除 $\mathbf { N } _ { 3 } \mathbf { P } _ { 3 }$ 低于CK外，其他处理ROOC含量也有所增加但均低于试验前。较试验前,2015年，各个处理 $( \mathrm { N } _ { 0 } \mathrm { P } _ { 0 } , \mathrm { N } _ { 1 } \mathrm { P } _ { 1 } ,$ （20$\mathbf { N } _ { 2 } \mathbf { P } _ { 2 }$ 、 $\mathbf { N } _ { 3 } \mathbf { P } _ { 3 }$ 、 $\mathrm { N } _ { 4 } \mathrm { P } _ { 4 }$ 、 $\mathbf { N } _ { 2 } \mathbf { P } _ { 1 } \mathbf { M } _ { 1 }$ 、 ${ \bf N } _ { 3 } { \bf P } _ { 2 } { \bf M } _ { 3 }$ 、 ${ \bf N } _ { 4 } { \bf P } _ { 2 } { \bf M } _ { 2 }$ 、 $\mathbf { M } _ { 6 } ^ { \cdot \cdot }$ 门的ROOC含量分别提高 $- 3 1 . 3 4 \%$ 1 $- 2 0 . 1 6 \%$ 1 $- 2 0 . 1 6 \%$ $- 3 3 . 5 1 \%$ 、 $- 3 6 . 7 8 \%$ 、 $- 1 1 . 1 7 \%$ 、 $0 . 5 4 \%$ 、 $- 9 . 8 1 \%$ 和$10 . 9 0 \%$ ，有机肥施用量高ROOC含量相对高。由此得出，施用有机肥促进ROOC的转化积累，而ROOC的含量直接关系土壤微生物的活性，对土壤矿物质和质地的影响巨大。
+
+# 2.3.2对ROOC含量剖面变化特征的影响
+
+经过24年的长期施肥，不同处理对耕层 $( 0 { \sim } 2 0 ~ \mathrm { c m } )$ ROOC含量的影响极显著(图5)。ROOC含量为 $\mathbf { M } _ { 6 } .$
+
+$\mathrm { N _ { 3 } P _ { 2 } M _ { 3 } { > } N _ { 2 } P _ { 1 } M _ { 1 } }$ $\mathrm { ^ { 3 } _ { 1 } M _ { 1 } } \mathrm { \Delta _ { N } \ N _ { 4 } P _ { 2 } M _ { 2 } } \mathrm { > N _ { 0 } P _ { 0 } \Delta _ { N } \ N _ { 1 } P _ { 1 } \Delta _ { N } \ N _ { 2 } P _ { 2 } \Delta _ { N } \ N _ { 3 } P _ { 3 } \ N _ { 4 } P _ { 4 } } ,$ 平均值分别为 $3 . 8 8 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ $3 . 2 9 \mathrm { g } \mathrm { \cdot k g } ^ { - 1 }$ 和 $2 . 6 2 8 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，与对照处理 $( \mathrm { N _ { 0 } P _ { 0 } } )$ 相比分别增长 $5 3 . 9 7 \%$ 、 $30 . 5 6 \%$ 和$4 . 2 9 \text{‰}$ 可见，施肥处理会极显著影响耕层ROOC的转化与固定。
+
+在 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层，ROOC对施肥处理的响应为C、D组(施用有机肥区组) ${ \mathsf { I } } { \mathsf { I } } { \mathsf { A } }$ 、B组(未施用有机肥区组)，平均值为 $3 . 1 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 和 $2 . 2 8 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，分别比CK(不施肥区组)增长 $3 9 . 7 6 \%$ 和 $0 . 5 3 \%$ 。可见，施用有机肥对该层ROOC含量有极显著影响。
+
+在 $4 0 { \sim } 6 0 \mathrm { c m }$ 土层，各施肥处理间差异无明显规律，但可以看出农民习惯施用无机肥处理 $( \mathsf { N } _ { 2 } \mathsf { P } _ { 2 } )$ ROOC含量最低，为 $1 . 5 9 \mathrm { g } \mathrm { \cdot k g } ^ { - 1 }$ $\mathbf { M } _ { 6 }$ 处理含量最高，为 $3 . 1 7 \mathrm { g } \mathrm { \cdot k g } ^ { - 1 }$ 两者差异显著，且与 $\mathbf { N } _ { 0 } \mathbf { P } _ { 0 }$ 相比，增长 $- 4 3 . 2 1 \%$ 和$1 3 . 2 1 \text{‰}$ 故长期施用一定量的化肥会降低 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层ROOC含量，施用高量有机肥会提高其含量。
+
+![](images/cb78b263120047602534b3e6a236d99fc0e1b055e1a89b59789ab0aeef9bdb76.jpg)  
+图5不同施肥处理不同土层土壤易氧化有机碳含量的空间变化Fig.5Contents ofspaces readily oxidizable organic carbon (ROOC)in different soil layers under different treatments不同小写字母表示处理间差异达 $5 \%$ 显著水平，不同大写字母表示处理间差异达 $1 \%$ 显著水平。Different lowercase letters mearsignificant differences at $5 \%$ level,and different capital letters denote significant differences at $1 \%$ level among different treatments.
+
+表3不同施肥处理的碳库指数、碳库活度、活度指数和碳库管理指数Table 3Soil carbon poolindex,activity,activity index and management index under diferent fertilizer treatments  
+
+<html><body><table><tr><td></td><td>处理组 Treatment</td><td>碳库指数(CPI) Carbon pool index</td><td>碳库活度(A) Carbtivityo1</td><td>活度指数(AI) Caivity nodox</td><td>碳库管理指数(CPMI1) Carbon pool management</td><td>碳库管理指数(CPMI2) Carbon pool management</td></tr><tr><td rowspan="4">A组 Group A B组</td><td>1992年</td><td>1.00dC</td><td>0.36abc</td><td>1.00ab</td><td>100.00aA</td><td>1</td></tr><tr><td>NoPo(CK)</td><td>0.71fgE</td><td>0.35bc</td><td>0.95bc</td><td>67.82bcD</td><td>100.00bc</td></tr><tr><td>NP1</td><td>0.71fgE</td><td>0.43a</td><td>1.18a</td><td>83.62abBC</td><td>123.30a</td></tr><tr><td>N2P2</td><td>0.76fE</td><td>0.39ab</td><td>1.07ab</td><td>81.24abC</td><td>119.80b</td></tr><tr><td rowspan="6">C组 Group C GDuD</td><td>N3P3</td><td>0.74gE</td><td>0.31bc</td><td>0.86bc</td><td>63.93bcD</td><td>94.27c</td></tr><tr><td>N4P4</td><td>0.74fgE</td><td>0.29c</td><td>0.81c</td><td>59.98cD</td><td>88.44c</td></tr><tr><td>N2P1M1</td><td>0.91eD</td><td>0.35bc</td><td>0.97bc</td><td>88.01aABC</td><td>129.77a</td></tr><tr><td>N3P2M3</td><td>1.15bB</td><td>0.30c</td><td>0.83c</td><td>96.04aABC</td><td>141.61a</td></tr><tr><td>N4P2M2</td><td>1.06cC</td><td>0.29c</td><td>0.81c</td><td>95.52abABC</td><td>126.09a</td></tr><tr><td>M6</td><td>1.67aA</td><td>0.21d</td><td>0.58d</td><td>98.80aAB</td><td>145.67a</td></tr></table></body></html>
+
+不同小写字母表示处理间差异达 $5 \%$ 显著水平，不同大写字母表示处理间差异达 $1 \%$ 显著水平。Different lowercase letters mean significantdifferences at $5 \%$ level,and different capital letters denote significant differences at $1 \%$ level among different treatments.
+
+# 2.4长期施肥对土壤碳库管理指数(CPMI)的影响
+
+以1992年 $0 { \sim } 2 0 ~ \mathrm { c m }$ 的TOC含量和土壤碳库活度基础值为参考值，并作为显著性差异计算的基础值，计算2015年各处理 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层的CPMI，记为CPMI1；以2015年 $0 { \sim } 2 0 \ \mathrm { c m } \ C \mathrm { K }$ 处理的TOC含量和土壤碳库活度基础值为参考值，计算2015年各处理 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层的CPMI，记为CPMI2，结果见表3。A、B组与 $\mathrm { N } _ { 2 } \mathrm { P } _ { 1 } \mathrm { M } _ { 1 }$ 处理CPI显著降低，降低值为$8 . 8 3 \% { \sim } 2 9 . 0 3 \%$ P $\mathrm { N } _ { 3 } \mathrm { P } _ { 2 } \mathrm { M } _ { 3 }$ / $\mathbf { M } _ { 6 }$ 处理CPI值显著提高，且随有机肥的增高差异更加显著，为 $1 5 . 5 0 \% { \sim } 6 7 . 6 3 \%$ ${ \bf N } _ { 4 } { \bf P } _ { 2 } { \bf M } _ { 2 }$ 处理与试验前无差异，这与TOC含量变化相一致。与CK相比，施用有机肥明显提高了CPI值。
+
+碳库活度指数除 $\mathrm { N } _ { 1 } \mathrm { P } _ { 1 \setminus \mathrm { ~ N } _ { 2 } \mathrm { P } _ { 2 } }$ 处理与试验前无显著差异外，其他处理均显著降低，降低量为 $4 2 . 0 0 \% \sim$ $0 . 0 3 \text{‰}$ 与CK相比，施用低量无机肥显著提高了碳库活度而施用高量有机肥显著降低了碳库活度。施肥对碳库活度指数影响与对碳库活度一致。
+
+以1992年为参考，施用有机肥后C、D组CPMI1基本无显著差异，维持初始水平，有机肥施用量越多，越接近初始状态;A、B组CPMI1显著降低，降低值为 $1 6 . 3 8 { \sim } 4 0 . 0 2$ 。以CK为参考，施用低量无机肥的处理 $( \mathsf { N } _ { 1 } \mathsf { P } _ { 1 } )$ 与施用有机肥的区组(C、D组)显著影响CPMI2，提高 $2 3 . 3 0 { \sim } 4 5 . 6 7 _ { \mathrm { c } }$ 。施用有机肥的区组(C、D组)中，CPMI2值的提高量与有机肥施用量有关。施用高量无机肥处理CPMI2值比CK降低 $1 1 . 5 6 _ { \circ }$
+
+表4不同土层土壤有机碳、易氧化有机碳及碳库管理指数之间的相关系数Table4Pearsoncorrelationcoeficientsbetweetotalorganiccarbon(TOC),readilyoxidizableorganiccarbon(ROOC)andcarbonpool management index in different soil layers  
+
+<html><body><table><tr><td>指标 Indicator</td><td>TOC (0~20 cm)</td><td>TOC (20~40 cm)</td><td>TOC (40~60 cm)</td><td>ROOC (0~20 cm)</td><td>ROOC (20~40 cm)</td><td>ROOC (40~60 cm)</td><td>CPMI2</td></tr><tr><td>TOC (0~20 cm)</td><td>1.000</td><td>0.671**</td><td>0.493*</td><td>0.618**</td><td>0.243</td><td>0.459*</td><td>0.385</td></tr><tr><td>TOC (20~40 cm)</td><td></td><td>1.000</td><td>0.447*</td><td>0.472*</td><td>0.536**</td><td>0.326</td><td>0.304</td></tr><tr><td>TOC (40~60 cm)</td><td></td><td></td><td>1.000</td><td>-0.174</td><td>0.067</td><td>0.481*</td><td>-0.380</td></tr><tr><td>ROOC(0~20 cm)</td><td></td><td></td><td></td><td>1.000</td><td>0.485*</td><td>0.164</td><td>0.959**</td></tr><tr><td>ROOC (20~40 cm)</td><td></td><td></td><td></td><td></td><td>1.000</td><td>-0.162</td><td>0.444*</td></tr><tr><td>ROOC (40~60 cm)</td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.033</td></tr><tr><td>CPMI2</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td></tr></table></body></html>
+
+$\overline { { r _ { 0 . 0 5 } { = } 0 . 4 5 9 } ^ { * } }$ $\overline { { r _ { 0 . 0 1 } { = } 0 . 9 5 9 } } ^ { * * }$ 。\*和\*\*分别表示 $5 \%$ 和 $1 \%$ 水平显著相关。\* and \*\* mean significant correlation at $5 \%$ and $1 \%$ levels,respectively.
+
+# 2.5长期不同施肥处理土壤有机碳(TOC)、易氧化有机碳(ROOC)与碳库管理指数(CPMI)的相关性分析
+
+通过对不同土层TOC、ROOC和CPMI进行相关性分析得出, $0 { \sim } 2 0 ~ \mathrm { c m }$ 和 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层,TOC含量仅与下一层TOC含量极显著正相关、与该层的ROOC含量极显著正相关，揭示了TOC随土层加深而下移，ROOC在一定程度上可反映该层TOC的含量且TOC含量的增加可引起ROOC含量的增加。在$2 0 { \sim } 4 0 ~ \mathrm { c m }$ 、 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层，TOC含量对下一层显著相关，对ROOC含量无相关关系，ROOC含量与下一层ROOC含量无显著影响，揭示了ROOC也会向下移动。CPMI与 $0 { \sim } 2 0 \ \mathrm { c m \ R O O C }$ 呈极显著正相关，与$2 0 { \sim } 4 0 ~ \mathrm { c m }$ ROOC呈显著正相关，揭示了ROOC对CPMI有极大影响而TOC对其影响较小。上述相关性分析进一步揭示了ROOC是指示土壤碳库的灵敏指标，可反映短期内土壤有机碳库的变化特征。由此可知，CPMI指数可以良好地指示土壤质量和有机碳的变化。
+
+# 3讨论
+
+3.1长期不同施肥处理对土壤有机碳(TOC)含量、有机碳储量(TOCs)及净固碳效率(NCSE)的影响
+
+施肥是一项重要的农田管理措施，对TOC的提升有重要作用。农田TOC数量决定于农田有机物料的输入与降解的平衡[15,17]。土壤有机质的输入主要来自作物的分泌物、残留在土壤中的根茬、枯枝落叶以及每年施入土壤中的有机肥料[18]。本试验表明,24年施肥处理，与A、B组相比，C、D组显著提高了 TOC 含量，这与前人的研究结果一致[11,19-20]。施用有机肥可补给土壤TOC，提高农作物生物产量，进而增加残茬和根向土壤的输入，增加了有机碳的归还量，极大程度地维持和提升了土壤有机质含量，
+
+TOC 含量将大幅度增加[21]。本试验区土壤初始有机质含量较高。张璐等[3]、梁尧等[22]针对长期单施化肥对黑土有机碳变化动态的研究表明，在有机质含量较高的土壤上，长期施用化肥会导致土壤TOC含量的降低。这是由于施用化肥，土壤中有机碳的来源主要是作物根茬等残留物，农作物生长较旺盛，土壤有机碳入不敷出、很难积累。
+
+在剖面分布上TOC含量的变化原因在于有机肥的施用增加了土壤肥力，有利于作物根系向下向远处生长，产生更多的根系分泌物[22]，根系的胶结作用有助于土壤结构的优化，微生物活性增加，保肥保水能力提高，所以施用有机肥的根际土壤中TOC含量较高。
+
+TOCs、NCSE与TOC含量在时间和空间上的变化规律基本一致，表明施用高量有机肥对于提高耕层有机碳储量、固碳效果均最佳，故农业生产中应多施用有机肥，减少化肥的施用量。综合 $0 { \sim } 4 0 \ \mathrm { c m }$ 的NCSE,A、B和C组为碳净释放,D组为净碳固定，且C组的 $\mathrm { N } _ { 3 } \mathrm { P } _ { 2 } \mathrm { M } _ { 3 }$ 固碳效果好于除D组外的其他处理，而 $\mathbf { N } _ { 1 } \mathbf { P } _ { 1 }$ 的固碳效果最差；前人的研究中有机无机肥配施的效果最佳，与本研究的结论不一致，可能因为本试验中选取的有机无机肥配施处理中有机肥施用量偏低[23]，土壤活性提高但有机质入不敷出,有机质难以积累。在后续试验中应添加高量有机肥配施无机肥的处理，来加以探索研究单施高量有机肥、高量有机肥配施无机肥两者的效果。
+
+# 3.2 施肥对土壤易氧化有机碳的影响
+
+本研究表明，24年有机肥的施用促进土壤ROOC的转化积累，D组ROOC含量显著增加，C组施用稍高量有机肥处理维持基础值，施用低量有机肥处理与C组ROOC均有所下降，其中施用高量无机肥处理下降最多。张亚杰、王艳、杨金钰等[24-26]均有相似结论。ROOC含量随土层深度的增加而减少，施用有机肥的处理能够提高 $0 { \sim } 4 0 \ \mathrm { c m }$ 土层ROOC含量，这一结论与前人的研究相一致[27-29]。以上结果都表明施用高量有机肥有显著提升ROOC的作用。本试验中中量有机无机肥配施处理虽然也有保持提升ROOC的作用，但由于未设计高量有机肥配施无机肥方案，尚不能确定是否高量有机肥配施无机肥更有利于ROOC的积累。由于种植作物为一年1季的玉米，且耕作措施等对 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层的扰动较少，不同施肥处理对 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层ROOC含量无显著影响；单施高量有机肥处理中土壤具有质地疏松，植物根系生长良好，土壤透气透水性高，微生物活动旺盛等特点，在连续施肥24年后使D组ROOC含量显著高于其他处理及初始状态，但仍需做后续试验来探究验证该猜想。
+
+# 3.3 长期施肥对土壤碳库管理指数(CPMI)的影响
+
+无机肥对CPI的降低与有机肥对CPI的提高与对TOC含量的影响一致。由碳库活度的计算式可知,虽然施用有机肥显著提高了ROOC含量，即活性有机质含量，但非活性有机质含量提高量远高于ROOC的提高量，所以碳库活度并未大幅提高；仅在施用高量有机肥时CPI显著高于初始值 $67 \%$ 。施用有机肥提高TOC含量可能是因为有机肥本身含有高量有机碳，随施肥而带入土壤，在土壤微生物作用下转化进入土壤；而土壤 $A$ 、AI并未提高，主要受该基地自然环境因素(处于半湿润偏旱区)影响，土壤微生物活动受到一定的限制，土壤中有机质的分解相对较慢。
+
+随着人为因素对农田土壤与农田微坏境的扰动，农田土壤的CPMI降低，土壤性质向不良方向发展，但是通过施用有机肥使得土壤肥力的降低被减缓甚至有所提升。以CK作为参考时，施用低量无机肥的处理也提高了CPMI，是因为本试验的土壤属于碱性土壤，施用低量无机肥后土壤pH降低至适合微生物活动的值；施用有机肥显著提高了CPMI,C、D组 $\mathrm { C P M I { > } 1 }$ ，即这两个区组不仅改善了土壤的基本理化性状，使土壤向良性方向发展，而且有效提高了土壤对作物有效养分的供给能力，增加作物产量。
+
+# 3.4土壤有机碳、易氧化有机碳和碳库管理指数的相关关系
+
+在 $0 { \sim } 4 0 ~ \mathrm { c m }$ 土层中，ROOC含量随土层深度增加而减少，与TOC呈极显著正相关，董扬红等[30]对易氧化有机碳的研究中也得出相似结论。ROOC含量很大程度依赖于TOC的贮存量，但也表征土壤碳平衡和土壤生物学肥力的理想指标，对土壤中微生物的活动起决定性作用；同时土壤的性质间接影响其变化，例如耕层土壤的淋失会导致ROOC的流失。
+
+碳库管理指数CPMI与 $0 { \sim } 2 0 ~ \mathrm { c m }$ 、 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层中ROOC含量显著正相关，表明ROOC含量对CPMI影响极显著，该相关性分析进一步揭示了ROOC是指示土壤碳库的灵敏指标，可反映短期内土壤有机碳库的变化特征，CPMI指数可以良好指示土壤质量和有机碳的变化。
+
+# 4结论
+
+24年长期施肥对褐土剖面有机碳、易氧化有机碳含量与碳库管理指数产生了不同影响。24年后，耕层土壤施用中高量有机肥可极显著地提高土壤有机碳含量与易氧化有机碳含量，不施有机肥处理其值显著降低。剖面中，两者随土层深度增加而减少，但 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层中，易氧化有机碳含量受各种施肥的影响较小。施用有机肥能显著提高碳库管理指数，改善土壤的基本理化性状。TOCs、NCSE与TOC含量在时间和空间上的变化规律基本上一致，说明施用高量有机肥对于提高耕层有机碳储量、固碳效果均最佳，是提高土壤肥力的有效措施。
+
+可见，施用高量有机肥或者高量有机无机肥配施可极显著提高土壤有机碳含量与易氧化有机碳含量和碳库管理指数，施用高量有机肥有利于有机碳的固存，减少化肥施用量，使土壤性质向良性方向发展，培肥土壤。
+
+# 参考文献References
+
+[1]鲍士旦．土壤农化分析[M]．第3版．北京：中国农业出版 社,2008 Bao S D.Soil and Agricultural Chemistry Analysis[M]. 3rd ed. Beijing:China Agriculture Press,2008   
+[2]Venkaiesh M S,Hazra K K,Ghosh P K,et al.Long-term effect of pulses and nutrient management on soil carbon sequestration in Indo-Gangetic plains of India[J].Canadian Journal of Soil Science,2012,93:127-136   
+[3]张璐，张文菊，徐明岗，等．长期施肥对中国3种典型农田 土壤活性有机碳库变化的影响[J]．中国农业科学，2009, 42(5):1646-1655 Zhang L,Zhang WJ,Xu M G,et al.Effects of long-term fertilization on change of labile organic carbon in three typical upland soils of China[J]. Scientia Agricultura Sinica, 2009,42(5): 1646-1655   
+[4]LefroyRDB,BlairGJ, Strong WM.Changes in soil organic matter with cropping as measured by organic carbon fractions and ${ } ^ { 1 3 } \mathrm { C }$ natural isotope abundance[J].Plant and Soil,1993, 155(1):399-402   
+[5]Biederbeck VO,Janzen HH,Campbell C A,et al.Labile soil organic matter as influenced by cropping practices in an arid environment[J]. Soil Biology and Biochemistry,1994,26(12):
+
+1647-1656
+
+[6]徐明岗，于荣，王伯仁．长期不同施肥下红壤活性有机质 与碳库管理指数变化[J]．土壤学报,2006,43(3):723-729 Xu MG, Yu R,Wang B R.Labile organic matter and carbon management index in red soil under long-term fertilization[J]. Acta Pedologica Sinica,2006,43(3): 723-729 [7] Blair G J,Lefroy R D B,Lisle L.Soil carbon fractions based on their degree of oxidation,and the development of a carbon management index for agricultural systems[J]. Crop and Pasture Science,1995,46(7): 1459-1466   
+[8] 徐明岗，于荣，孙小凤，等．长期施肥对我国典型土壤活性 有机质及碳库管理指数的影响[J]．植物营养与肥料学报, 2006,12(4): 459-465 Xu M G, Yu R，Sun X F,et al.Effects of long-term fertilization on labile organic matter and carbon management index (CMI) of the typical soils of China[J]. Plant Nutrition and Fertilizer Science,2006,12(4): 459-465 [9]仪明媛．长期施肥下黑土碳库变化及土壤有机碳矿化特征[D]. 南昌：江西农业大学,2011 Yi M Y. Change characteristics of organic carbon pools and carbonmineralization inblack soil under long-term fertilization[D]. Nanchang: Jiangxi Agricultural University, 2011   
+[10]王飞，李清华，林诚，等．不同施肥模式对南方黄泥田耕层 有机碳固存及生产力的影响[J]．植物营养与肥料学报, 2015,21(6): 1447-1454 Wang F,Li QH,Lin C,et al.Effect of different fertilization modesontopsoil organiccarbonsequestrationand productivity in yellow paddy field of southern China[J].Plant Nutrition and Fertilizer Science,2015,21(6): 1447-1454   
+[11]何翠翠．长期不同施肥措施对黑土土壤碳库及其酶活性的 影响研究[D]．北京：中国农业科学院,2014:16-24 He C C.Effects of long-term fertilization on soil carbon pools and enzymes activity of black soil in cropland of Northeast China[D]. Beijing: Chinese Academy of Agricultural Sciences, 2014: 16-24   
+[12]佟小刚.长期施肥下我国典型农田土壤有机碳库变化特征[D]. 北京：中国农业科学院,2008:33-56 Tong X G. Change characteristics of soil organic carbon pools in typical cropland of China under long-term fertilization[D]. Beijing:Chinese Academy of Agricultural Sciences,2008: 33-56   
+[13]王朔林，王改兰，赵旭，等．长期施肥对栗褐土有机碳含量 及其组分的影响[J]．植物营养与肥料学报，2015，21(1): 104-111 Wang S L,Wang G L,Zhao X,et al. Effect of long-term fertilization on organic carbon fractions and contents of Cinnamon soil[J]. Plant Nutrition and Fertilizer Science,2015, 21(1): 104-111   
+[14]王玲莉，娄翼来，石元亮，等．长期施肥对土壤活性有机碳 指标的影响[J].土壤通报,2008,39(4):752-755 Wang L L,Lou YL, Shi YL,et al.Long-term fertilization on indicators of soil active organic carbon[J]. Chinese Journal of Soil Science,2008,39(4): 752-755   
+[15]宇万太，赵鑫，马强，等．长期定位试验下施肥对潮棕壤活 2008,39(3): 539-544   
+[16]马力，杨林章，肖和艾，等．施肥和秸秆还田对红壤水稻土 有机碳分布变异及其矿化特性的影响[J].土壤，2011，43(6): 883-890 Ma L,Yang L Z, Xiao H A,et al. Effects of fertilization and straw returning on distribution and mineralization of organic carbon in paddy soils in subtropical China[J].Soils,2011, 43(6): 883-890   
+[17]梁尧，韩晓增，宋春，等．不同有机物料还田对东北黑土活 性有机碳的影响[J]．中国农业科学,2011,44(17):3565-3574 Liang Y, Han X Z, Song C,et al.Impacts of returning organic materials on soil labile organic carbon fractions redistribution of mollisol in northeast China[J]. Scientia Agricultura Sinica, 2011,44(17): 3565-3574   
+[18]梁尧．有机培肥对黑土有机质消长及其组分与结构的影响[D]. 北京：中国科学院,2012 Liang Y. Effect of organic amendments application on dynamics, fractions and structural properties of soil organic matter in Black soil[D]. Beijing: Chinese Academy of Sciences,2012   
+[19]王琳，李玲玲，高立峰，等．长期保护性耕作对黄绵土总有 机碳和易氧化有机碳动态的影响[J]．中国生态农业学报, 2013,21(9): 1057-1063 Wang L,Li L L，Gao L F,et al． Effect of long-term conservation tillage on total organic carbon and readily oxidizable organic carbon in loess soils[J]. Chinese Journal of Eco-Agriculture,2013,21(9): 1057-1063   
+[20]尹云锋，蔡祖聪．不同施肥措施对潮土有机碳平衡及固碳 潜力的影响[J].±壤,2006,38(6):745-749 Yin Y F,Cai Z C.Effect of fertilization on equilibrium levels of organic carbon and capacities of soil stabilizing organic carbon for fluvo-aquic soil[J]. Soils,20o6,38(6): 745-749   
+[21]马天娥，魏艳春，杨宪龙，等．长期施肥措施下土壤有机碳 矿化特征研究[J]．中国生态农业学报,2016,24(1):8-16 Ma T E，Wei Y C，Yang X L，et al.Mineralization characteristics of soil organic carbon under long-term fertilization management[J]. Chinese Journal of Eco-Agriculture,2016, 24(1): 8-16   
+[22]梁尧，苑亚茹，韩晓增，等．化肥配施不同剂量有机肥对黑 土团聚体中有机碳与腐殖酸分布的影响[J]．植物营养与肥 料学报,2016,22(6):1586-1594 Liang Y, Yuan Y R,Han X Z,et al.Distribution of organic carbon and humic acids in aggregates of Molisol as affected by amendments with different rates of organic manure plus mineral fertilizer[J]. Acta Pedologica Sinic,2016,22(6): 1586-1594   
+[23]兰宇,Asshraf MI，韩晓日，等．长期施肥对棕壤有机碳储 量及固碳速率的影响[J]．环境科学学报，2016，36(1): 264-270 Lan Y,Asshraf M I,Han X R,et al.Effect of long-term fertilization on total organic carbon storage and carbon sequestration rate in a brown soil[J].Acta Scientiae Circumstantiae,2016,36(1): 264-270   
+[24]张亚杰，钱慧慧，刘坤平，等．施肥对玉米/大豆套作土壤 活性有机碳组分及碳库管理指数的影响[J].华南农业大学 学报,2016,37(3):29-36 ZhangYJ,QianHH,LiuKP,et al.Effectof fertilization on soil active organic carbon and carbon pool management index under maize/soybean intercropping condition[J].Journal of South China Agricultural University,2016,37(3):29-36   
+[25]王艳，杨丽娟，周崇峻，等．长期施肥对设施蔬菜栽培土壤 易氧化有机碳含量及其剖面分布的影响[J].水土保持通报， 2010,30(4):32-35 Wang Y,Yang LJ,Zhou C J,et al.Effects of long-term fertilization on the EOC content in vegetable soil in greenhouse[J].Bulletin of Soil and Water Conservation,2010, 30(4):32-35   
+[26]杨金钰，刘骅，王西和，等．长期施肥下灰漠土易氧化有机碳 的变化特征研究[J]．新疆农业大学学报,2014,(3):240-245 YangJY,Liu H,Wang X H,et al.A study on changes of readily oxidation carbon in grey desert soil under a long-term fertilization regime[J]. Journal of Xinjiang Agricultural University,2014,(3):240-245   
+[27]徐侠，王丰，栾以玲，等．武夷山不同海拔植被土壤易氧化 碳[J]．生态学杂志,2008,27(7):1115-1121 XuX,WangF,LuanYL,etal.Soil readily oxidizable carbon alonganelevationgradientofWuyiMountainsin southeastern China[J].Chinese Journal of Ecology，2008, 27(7):1115-1121   
+[28]姜培坤．不同林分下土壤活性有机碳库研究[J]．林业科学, 2005,41(1):10-13 Jiang PK.Soil active carbon pool under different types of vegetation[J]. Scientia Silvae Sinicae,20o5,41(1):10-13   
+[29]贾松伟．黄土丘陵区不同坡度下土壤有机碳流失规律研究[J]. 水土保持研究,2009,16(2):30-33 Jia S W. Soil organic carbon loss under different slope gradients in loess hilly region[J].Research of Soil and Water Conservation,2009,16(2):30-33   
+[30]董扬红，曾全超，安韶山，等．黄土高原不同林型植被对土 壤活性有机碳及腐殖质的影响[J].水土保持学报，2015, 29(1):143-148 Dong YH,Zeng QC,An S S,et al. Effects of different forest types on soil active organic carbon and soil humus composition in the loess plateau[J].Journal of Soil and Water Conservation,2015,29(1):143-148

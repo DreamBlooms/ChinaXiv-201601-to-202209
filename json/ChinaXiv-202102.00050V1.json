@@ -1,0 +1,480 @@
+[
+    {
+        "type": "text",
+        "text": "半干旱黄土丘陵区退化人工林群落结构调整下细根特征分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李浩1²，胡婵娟²，冯德显²，赵荣钦¹，郭雷²，满洲1(1华北水利水电大学测绘与地理信息学院,河南 郑州 450045；2 河南省科学院地理研究所,河南 郑州 450052)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：根系尤其细根在植物的生长发育中起着重要作用，以甘肃省定西市口镇龙滩流域的白杨及山杏2种典型退化人工林为研究对象，研究了人工林群落结构调整后形成的白杨 $+ 5$ 年生油松、白杨 $+ 1 0$ 年生油松及山杏 $^ +$ 云杉、山杏 $^ +$ 樟子松混交林与单一纯林相比不同深度、不同径级下细根的根长密度、根面积密度、根生物量密度、比根长及比根面积，以期揭示不同人工林恢复模式下的细根分布特征。结果表明：(1)混交恢复模式起到了一定的积极作用，大部分混交林相较于纯林细根的根长密度、根面积密度及根生物量密度在土壤表层均有所提高。混交林细根在浅层的占比得到了提高，且随恢复年限的增加而升高。(2)细根根长密度、根面积密度及根生物量密度与土壤全碳、全氮、含水量及有机碳之间以及比根长及比根面积与土壤全碳、土壤全氮及有机碳之间均存在显著正相关关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：黄土丘陵区；混交林；细根；恢复模式",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根系作为植物的重要功能器官，它的发育及分布情况对植物生长具有极其重要的影响[1-2]。细根（直径 $d {  } 2 \\operatorname { m m }$ )具有生长期短、更新快的特点[3-4],虽然其生物量占比较少，但是拥有较大的根长及根表面积,是植物向土壤输送碳和养分的主要途径[5],既承担着水分和养分向上的输送，也承担着碳和养分向下的输送[6],是地下碳输入的主要贡献者[7],在树木生理学及树木生态学中起着重要作用8。分析林木根系的分布特征特别是细根方面的研究可为困难立地树种适应性评估提供科学依据,对于了解林木水分和养分的来源与消耗特点具有重要意义[10]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄土高原作为中国乃至世界水土流失最为严重的地区之一[],其生态系统十分脆弱。自20世纪90年代大规模实施退耕还林还草政策以来，植被恢复取得良好进展，水土流失状况得到改善。但随着植被恢复年限的增加，也出现了诸如植被恢复树种过于单一，人工植被退化严重等生态问题。物种多样性对于土壤结构与功能的影响显著[12],已有研究发现长期种植单一树种，可能会造成土壤养分消耗单一，某些营养元素缺乏以及地力衰退，而混交恢复模式可以避免这一系列问题[13]。因此，自十二五以来黄土高原地区针对退化的单一人工纯林，通过添加新物种形成混交林的方式进行植被群落结构的调整。相关学者针对黄土丘陵区植被群落结构调整对土壤中各种成分影响已经开展了一定的研究[14-17],但对于林木根系的影响研究较少[18]。目前混交恢复模式对根系的影响研究还未有定论，一些研究表明混交模式会促进根的生长和发育[19],也有研究表明混交不会促进根的生长，甚至还会降低细根的生物量[20-21],且以往对于林木根系的研究多集中于对不同恢复年限[22]、不同植被类型[23]和不同土层深度[24的根系生物量的研究，对于能反映土壤资源有效性的根长密度及根面积密度和可以表征根系生理功能的比根长及比根面积的研究较少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究以甘肃定西龙滩流域典型的退化人工林白杨与山杏纯林为研究对象，探讨植被群落结构调整之后形成的白杨 $+ 5$ 年生油松、白杨 $^ { + 1 0 }$ 年生油松、山杏 $^ +$ 云杉和山杏 $^ +$ 樟子松混交林与单一纯林相比细根的根长密度、根面积密度、根生物量密度、比根长及比根面积的差异，以期为黄土高原植被恢复和适宜树种的选择提供科学依据，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于甘肃省定西市安定区龙滩流域$( 3 5 ^ { \\circ } 4 3 ^ { \\prime } { \\sim } 3 5 ^ { \\circ } 4 6 ^ { \\prime } \\mathrm { N }$ $1 0 4 ^ { \\circ } 2 7 ^ { \\prime } { \\sim } 1 0 4 ^ { \\circ } 3 2 ^ { \\prime } \\mathrm { E } )$ ,流域面积达到 $1 6 \\mathrm { k m } ^ { 2 }$ ,平均海拔 $1 9 0 0 \\mathrm { m }$ 左右。属于典型的温带大陆性季风气候，年平均气温 $6 . 8 ~ \\mathrm { { ^ { \\circ } C } }$ ，一月平均气温",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$- 7 . 9 \\mathrm { ~ \\textdegree C }$ ，极端最低气温为 $- 2 7 . 1 ~ \\mathrm { { ^ { \\circ } C } }$ ，最高温度为$3 4 . 9 ~ \\mathrm { ^ { \\circ } C }$ 。多年平均降雨量为 $3 8 6 ~ \\mathrm { m m }$ ,降雨量少且分配不均，多集中在7\\~9月。该区域以黄绵土为主要土壤类型，土体疏松，易受侵蚀，主要种植了山杏(Prunus armeniaca）、白杨（Populus tomentose）、油松(Pinus tabuliformis）侧柏(Platycladus orientalis）柠条（Caraganakorshinskii）以及紫花苜蓿（Medicagosativa）。天然植被主要是长芒草(Stipabungeana)和阿尔泰狗娃花(Heteropappus altaicus)等草本植物。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2实验方法与数据分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1根样采集及实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2018年8月，采用根钻法[25采集树木根系。在研究区内选择坡度、坡向、海拔以及其他自然环境因子相近的白杨纯林(B)、白杨 $+ 5$ 年生油松（BP-1）、白杨 $+ 1 0$ 年生油松(BP-2）、山香纯林(X）、山香 $^ +$ 云杉(XY）、山杏 $^ +$ 樟子松(XZ)等6块 $2 0 ~ \\mathrm { m } { \\times } 2 0 ~ \\mathrm { m }$ 的样地，在每块样地内选择3个标准木作为重复。样地基本信息如表1所示。以选取好的标准木为圆心,半径为 $1 \\mathrm { m }$ 的圆内近似等距设置3个采样点，清除土壤表面的凋落物和其他地表植物，然后用内径为 $1 0 \\ \\mathrm { c m }$ 的根钻进行取样，取样深度为 $1 \\mathrm { m }$ ，垂直方向分为7层，前4层每 $1 0 \\mathrm { c m }$ 一层，后3层每 $2 0 \\mathrm { c m } -$ 层（ $0 \\sim 1 0 \\ \\mathrm { c m } \\ . 1 0 \\sim 2 0 \\ \\mathrm { c m } \\ . 2 0 \\sim 3 0 \\ \\mathrm { c m } \\ . 3 0 \\sim 4 0 \\ \\mathrm { c m } \\$ $4 0 \\sim 6 0 \\ : \\mathrm { c m } \\ : . 6 0 \\sim 8 0 \\ : \\mathrm { c m } \\ : . 8 0 \\sim 1 0 0 \\ : \\mathrm { c m } \\$ ,将来自同一标准木的土壤样品混合均匀，装入已编号的自封袋中并带回实验室。样品采集数量共计126个。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在实验室中将土样过筛，仔细挑出根系，并用去离子水冲洗数次，将根上附着的土壤和杂质去除。根据根的一些形态特征去除掉多余的草本植物根系，并依据根的外形、颜色、弹性区别活根和死根。将处理完毕的根系置于根系扫描仪EPSONScan上进行扫描，在根系扫描系统软件WinRHIZO中对根进行分级与分析，细根按照直径分为 $0 \\sim 0 . 5$ $\\mathrm { m m } \\ 、 0 . 5 \\sim 1 \\ \\mathrm { m m }$ 和 $1 \\sim 2 \\ : \\mathrm { m m }$ 共3个等级，可以获得相应等级的根长、根表面积等根系生长指标。用游标卡尺测量出 $\\triangleleft { \\bf m } ^ { }$ 的细根，将各组细根分别放入牛皮纸信封中，在 $7 0 \\ \\mathrm { { ^ { \\circ } C } }$ 烘箱中烘干至恒重，测出细根干重，即细根生物量。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/0fdc24441e3e37625ee06a130e9cbb583f557d3c7b9247a0f3441e29a011454d.jpg",
+        "table_caption": [
+            "表1样地基本特征",
+            "Tab.1 Basic characteristics of sampling sites "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样地</td><td>树种</td><td>坡位</td><td>坡向</td><td>坡度/°</td><td>海拔高度/m</td><td>平均胸径/cm</td><td>平均树高/m</td><td>平均冠幅/m</td></tr><tr><td>B</td><td>白杨</td><td>上</td><td>W290.5</td><td>33.25</td><td>2010</td><td>12.03±1.20</td><td>9.36±0.67</td><td>(4.62±0.39)*</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(3.89±0.39)</td></tr><tr><td>BP-1</td><td>白杨</td><td>上</td><td>NW303.8</td><td>34.05</td><td>2 117</td><td>14.10±0.70</td><td>10.61±0.58</td><td>(5.42±0.24)*</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(4.57±0.22)</td></tr><tr><td></td><td>油松</td><td></td><td></td><td></td><td></td><td>2.19±0.07</td><td>0.83±0.02</td><td>(0.65±0.02)*</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(0.54±0.02)</td></tr><tr><td>BP-2</td><td>白杨</td><td>上</td><td>NW315.0</td><td>34.00</td><td>2128</td><td>12.48±0.95</td><td>8.40±0.67</td><td>(6.50±0.32)*</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(6.50±0.31)</td></tr><tr><td></td><td>油松</td><td></td><td></td><td></td><td></td><td>3.98±0.21</td><td>2.58±0.10</td><td>(1.64±0.07)*</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(1.46±0.07)</td></tr><tr><td>X</td><td>山杏</td><td>上</td><td>W250.5</td><td>33.96</td><td>2147</td><td>6.23±0.51</td><td></td><td>(2.72±0.20)*</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>3.49±0.20</td><td>(2.24±0.13)</td></tr><tr><td>XY</td><td></td><td>上</td><td>W288.1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>山杏</td><td></td><td></td><td>34.96</td><td>2 143</td><td>7.39±0.50</td><td>3.54±0.17</td><td>(3.66±0.33)*</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2.83±0.11)</td></tr><tr><td></td><td>云杉</td><td></td><td></td><td></td><td></td><td>2.47±0.16</td><td>1.09±0.03</td><td>(0.72±0.02)*</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(0.63±0.02)</td></tr><tr><td>XZ</td><td>山杏</td><td>上</td><td>W282.5</td><td>33.08</td><td>2 147</td><td>6.91±0.46</td><td>3.23±0.17</td><td>(2.53±0.20)*</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2.27±0.17)</td></tr><tr><td></td><td>樟子松</td><td></td><td></td><td></td><td></td><td>3.18±0.09</td><td>1.19±0.04</td><td>(0.73±0.03)*</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(0.63±0.02)</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在采集根系的同时分层采集土壤样品，进行土壤基础理化性质的测定， $1 \\mathrm { m }$ 深土层内全碳、全氮、全磷、有机碳以及水分平均含量白杨纯林样地的分别为 $2 1 . 6 9 \\ { \\underline { { \\mathrm { g } } } } \\cdot { \\mathrm { k g } } ^ { - 1 } \\cdot 0 . 4 1 \\ { \\underline { { \\mathrm { g } } } } \\cdot { \\mathrm { k g } } ^ { - 1 } \\cdot 0 . 5 1 \\ { \\underline { { \\mathrm { g } } } } \\cdot { \\mathrm { k g } } ^ { - 1 } \\cdot 3 . 6 3 \\ { \\underline { { \\mathrm { g } } } } \\cdot { \\mathrm { k g } } ^ { - 1 } \\ .$ $1 1 . 0 4 \\%$ ；白杨 $+ 5$ 年生油松分别为 $2 4 . 2 0 ~ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 } \\cdot 0 . 5 6$ $\\mathbf { g \\cdot k g } ^ { - 1 } \\setminus 0 . 4 9 \\ \\mathbf { g \\cdot k g } ^ { - 1 } \\setminus 5 . 1 1 \\ \\mathbf { g \\cdot k g } ^ { - 1 } \\setminus 1 4 . 2 0 \\%$ ；白杨 $+ 1 0$ 年生油松分别为 $2 6 . 6 0 \\ : \\mathrm { g \\cdot k g ^ { - 1 } \\cdot 0 . 8 4 \\ : \\mathrm { g \\cdot k g ^ { - 1 } \\cdot 0 . 5 4 \\ : \\mathrm { g \\cdot k g ^ { - 1 } } } }$ $6 . 4 5 ~ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 } \\cdot 1 4 . 3 5 \\%$ ;山杏纯林分别为 $2 2 . 8 0 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ 、$0 . 5 1 \\ { \\mathrm { g } } \\cdot { \\mathrm { k g } } ^ { - 1 } \\cdot 0 . 5 2 \\ { \\mathrm { g } } \\cdot { \\mathrm { k g } } ^ { - 1 } \\cdot 3 . 8 3 \\ { \\mathrm { g } } \\cdot { \\mathrm { k g } } ^ { - 1 } \\cdot 1 3 . 4 4 \\%$ ；山杏 $^ +$ 云杉分别为 $2 6 . 6 5 ~ \\mathrm { g \\cdot k g ^ { - 1 } , 0 . 8 3 ~ \\mathrm { g \\cdot k g ^ { - 1 } , 0 . 4 8 ~ \\mathrm { g \\cdot k g ^ { - 1 } , 7 . 0 0 } } }$ $g \\cdot \\mathrm { k g } ^ { - 1 } , 1 2 . 4 6 \\%$ ;山杏 $+$ 樟子松分别为 $2 8 . 8 1 ~ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ 、$0 . 8 8 \\ \\mathrm { g } \\bullet \\mathrm { k g } ^ { - 1 } \\bullet 0 . 5 4 \\ \\mathrm { g } \\bullet \\mathrm { k g } ^ { - 1 } \\ 、 7 . 4 1 \\ \\mathrm { g } \\bullet \\mathrm { k g } ^ { - 1 } \\cdot 1 8 . 3 7 \\% \\qquad $ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2数据分析与处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选取五个指标进行计算[26]",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { R _ { L D } { = } L _ { r } \\mathrm { { \\langle } V _ { r } \\qquad } } } \\\\ { { \\ } } \\\\ { { R _ { A D } { = } A _ { r } \\mathrm { { \\langle } V _ { \\theta } } } } \\\\ { { \\ } } \\\\ { { R _ { B D } { = } W _ { r } \\mathrm { { \\langle } V _ { \\theta } } } } \\\\ { { \\ } } \\\\ { { S _ { R L } { = } L _ { r } \\mathrm { { \\langle } W _ { r } \\qquad } } } \\\\ { { \\ } } \\\\ { { S _ { R A } { = } A _ { r } \\mathrm { { \\langle } W _ { r } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { L D }$ 为根长密度 $( \\mathrm { c m } \\cdot \\mathrm { c m } ^ { - 3 }$ ； $L _ { r }$ 为根长 $( \\mathrm { c m } )$ ; $V$ 为根系所占土体体积( $\\mathrm { c m } ^ { 3 } .$ ）； $R _ { A D }$ 为根表面积密度( $\\mathrm { c m } ^ { 2 }$ ：$\\mathrm { c m } ^ { - 3 }$ ）, $A _ { r }$ 为根表面积 $\\left( \\mathrm { c m } ^ { 2 } \\right) ; R _ { B D }$ 为根生物量密度( $\\mathbf { \\dot { \\ m g } }$ $\\mathrm { c m } ^ { - 3 }$ ）； $\\smash {  { W _ { r } } }$ 为根干重( $\\mathrm { { \\langle { m g } } }$ ; $S _ { R L }$ 为比根长 $\\left( \\mathbf { m } \\cdot \\mathbf { g } ^ { - 1 } \\right)$ $S _ { R A }$ 为比根面积 $\\left( \\mathrm { c m } ^ { 2 } { \\cdot } \\mathrm { g } ^ { - 1 } \\right)$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用 $\\operatorname { E x c e l } 2 0 0 3$ 及SPSS24软件进行数据处理和统计分析，采用单因素方差分析法(one-way，ANO-VA)和最小显著差异法(LSD)比较不同植被恢复模式之间和不同土层之间各项指标差异的显著性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1细根根长密度与根面积密度的变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1细根根长密度的变化从图1可以看出，在土壤浅层 $0 \\sim 2 0 ~ \\mathrm { c m }$ 白杨 $^ { + 1 0 }$ 年生油松混交林细根的根长密度高于白杨纯林，而在中层以及深层混交林均低于白杨纯林。 $1 \\mathrm { m }$ 深土层中白杨 $+ 1 0$ 年生油松根长密度均高于白杨 $+ 5$ 年生油松，呈现随恢复年限的增加细根根长密度增加的趋势。在山杏纯林及其混交林中，山杏 $^ +$ 樟子松混交林的细根根长密度在各土层均高于山杏纯林，山杏 $^ +$ 云杉混交林细根根长密度在 $0 \\sim 1 0 \\ \\mathrm { c m }$ 和 $1 0 \\sim 2 0 ~ \\mathrm { c m }$ 土层中高于山杏纯林，其他土层均低于山杏纯林。细根根长密度的显著性差异主要表现在 $1 0 \\sim 2 0 ~ \\mathrm { c m }$ 土层的山杏 $^ +$ 樟子松混交林与山杏纯林之间以及 $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土层的山香 $^ +$ 樟子松混交林与山杏 $^ +$ 云杉混交林之间( $\\scriptstyle P <$ 0.05)。从垂直土层剖面上来看，所有植被恢复模式中细根根长密度(图1)以及细根根长分布占比（图2)均随着土壤深度的增加而减少且不同深度的土",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：不同小写字母代表不同植被恢复模式之间差异显著( $_ { \\scriptstyle P < 0 . 0 5 } )$ ，不同大写字母代表不同土层之间差异显著( $_ { \\cdot \\textcircled { P } < 0 . 0 5 }$ ；B，白杨纯林；BP-1,白杨 $+ 5$ 年生油松;BP-2,白杨 $+ 1 0$ 年生油松;X，山杏纯林;XY，山杏 $^ { + }$ 云杉；XZ，山杏 $+$ 樟子松。下同",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/738608833a29ba122fbae93682c2ac2f602332431a6b9c1b5d6b361afefe7c11.jpg",
+        "img_caption": [
+            "图1不同恢复模式下细根根长密度分布",
+            "Fig.1Distribution of fine root length density under different restoration patterns "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/83f49b46ff95e83dd12b87bcf668cce519705e487788cedd2aa14873740bface.jpg",
+        "img_caption": [
+            "图2不同恢复模式下不同土层深度细根根长分布占比Fig.2Distribution of fine root length in different soil depthsunder different restoration patterns"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "层之间差异明显，浅层 $\\mathrm { ( 0 \\sim 3 0 ~ c m ) }$ )土壤中细根根长占比均在 $5 0 \\%$ 以上。白杨及白杨 $+$ 油松混交林恢复模式下根长密度 $0 \\sim 2 0 ~ \\mathrm { c m }$ 土层均显著高于 $4 0 \\sim$ $1 0 0 \\ \\mathrm { c m }$ 土层且白杨 $^ +$ 油松混交林的细根根长在土壤浅层的占比均高于白杨纯林;山杏、山杏 $^ +$ 云杉及山香 $+ \\mathrm { \\cdot }$ 樟子松的恢复模式下根长密度 $0 \\sim 1 0 ~ \\mathrm { c m }$ 土层均显著高于其他土层且山杏 $^ +$ 云杉及山香 $^ +$ 樟子松混交林细根根长在浅层的占比要高于山杏纯林。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对细根进行进一步不同径级的研究发现吸收根（直径 $\\mathbb { \\leq } 0 . 5 ~ \\mathrm { m m }$ )占比最大，吸收根根长占细根总根长的比例达到 $6 0 \\%$ 以上(图3)。白杨 $^ +$ 油松混交林吸收根根长在细根总根长所占比例相较于白杨纯林有所下降且随恢复年限的增加而下降；山香纯林、山杏 $^ +$ 云杉混交林、山杏 $^ +$ 樟子松混交林吸收根根长所占细根总根长的比例分别为 $6 0 . 5 3 \\%$ 、$6 2 . 1 7 \\%$ ） $6 4 . 3 7 \\%$ ，混交模式下吸收根所占比例有所提升。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/91562505dd044e9c483478b9583bc1c1804971bb7fac68ad235703d346a95b4f.jpg",
+        "img_caption": [
+            "干旱区地理",
+            "图3不同恢复模式下不同径级细根根长所占百分比Fig.3Percentage of fine root length in different diameterdegree under different restoration patterns",
+            "图4不同恢复模式下细根根面积密度分布",
+            "Fig.4Distribution of fine root area density under different restoration patterns "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.2细根根面积密度变化如图4所示，白杨 $+ 1 0$ 年生油松混交林在各土层的细根根面积密度均高于白杨 $+ 5$ 年生油松混交林且在土壤表层 $( 0 \\sim 1 0$ cm)存在显著性差异（ $( P { < } 0 . 0 5 )$ ，在 $3 0 \\ \\mathrm { c m }$ 土层以上细根根面积密度表现为白杨 $^ +$ 油松混交林高于白杨纯林， $3 0 \\ \\mathrm { c m }$ 土层以下表现为白杨纯林最高且白杨纯林与白杨 $+ 5$ 年生油松混交林在 $3 0 \\sim 6 0 \\mathrm { c m }$ 土层中存在显著性差异( $_ { ( P < 0 . 0 5 ) }$ 。山香 $^ +$ 樟子松混交林的细根根面积密度在各土层均高于山杏纯林，而山杏 $^ +$ 云杉混交林的细根根面积密度只有在表层高于山杏纯林。在垂直土层剖面上，细根根面积密度均逐层递减且差异明显(图4)。纯林浅层的细根根面积密度分布占比均低于其混交林，中层及深层反之(图5)。白杨及山杏纯林与其混交林表层的细根根面积密度均显著高于中层以及深层，且浅层 $( 0 \\sim 3 0$ cm)细根根面积密度的分布占比高于 $5 0 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图6所示，白杨 $^ +$ 油松混交林直径为 $0 \\sim 0 . 5$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "35 (a) 40 (b)   \n30 aA □BBP-1BP-2 35 aA □XXYXZ aA bA bA aAI 25   \n20 aAB aA aA aABC 20   \n15 abBC 15 aBB   \n105 bq aCD aCD DDabaE 根 105 aB CCD aBC aBC aCDaCD aDaCD aDaD aC   \n0 工 0 固 0\\~1010\\~2020\\~3030\\~4040\\~6060\\~8080\\~100 0\\~10 10\\~2020\\~3030\\~4040\\~60 60\\~80 80\\~100 土壤深度/cm 土壤深度／cm ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc7c2ca23c52c92aa004ca27a338508af59b08e42a56745c74a8c845dfb5391f.jpg",
+        "img_caption": [
+            "图5不同恢复模式下不同土层细根根面积密度分布占比 Fig.5Distribution proportion of fine root area density in different soil layers under different restoration patterns "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "mm的细根根面积占总细根根面积的比例要低于白杨纯林且随着恢复年限的增加而降低。山杏 $^ +$ 云杉和山杏 $^ +$ 樟子松混交林直径为 $0 \\sim 0 . 5 ~ \\mathrm { m m }$ 和 $0 . 5 \\sim 1$ $\\mathrm { m m }$ 的细根根面积所占细根总面积的比例均高于山杏纯林。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2细根生物量密度的变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图7可以看出，白杨 $+ 1 0$ 年生油松混交林的细根生物量密度在各土层均高于白杨纯林，在 $0 \\sim 6 0$ cm土层中高于白杨 $+ 5$ 年生油松且在 $1 0 \\sim 2 0 ~ \\mathrm { c m }$ 土层中二者存在显著性差异( $( P { < } 0 . 0 5 )$ 。白杨纯林、白杨 $+ 5$ 年生油松、白杨 $+ 1 0$ 年生油松在 $1 \\mathrm { m }$ 深土层中根生物量密度分别为 $0 . 5 8 ~ \\mathrm { m g } \\cdot \\mathrm { c m } ^ { - 3 }$ ） $0 . 6 6 ~ \\mathrm { m g } \\cdot \\mathrm { c m } ^ { - 3 }$ 、$0 . 8 2 \\mathrm { m g } \\cdot \\mathrm { c m } ^ { - 3 }$ ,整体呈现混交林高于纯林且随恢复年限的增加而增加的趋势。对于山杏及山杏与云杉和樟子松的混交林，土壤表层以及 $8 0 \\sim 1 0 0 \\ \\mathrm { c m }$ 土层细根生物量密度均表现为山香 $^ +$ 樟子松混交林 $>$ 山香 $^ +$ 云杉混交林 $>$ 山杏纯林， $1 0 \\sim 3 0 ~ \\mathrm { c m }$ 土层与之相反，而 $3 0 \\sim 4 0 ~ \\mathrm { c m }$ 土层和 $6 0 \\sim 8 0 ~ \\mathrm { c m }$ 土层都是以山杏 $^ +$ 云杉混交林最高。从垂直土壤剖面上来看，细根生物量的分布占比均表现为浅层 $( 0 \\sim 3 0 \\mathrm { c m } ) >$ 中层 $( 3 0 \\sim 6 0 ~ \\mathrm { c m } ) >$ 深层（ $6 0 \\sim 1 0 0 ~ \\mathrm { c m }$ （图8），表层与较深层次之间有显著性差异(图7)。白杨 $^ +$ 油松混交林与白杨纯林相比细根生物量在土壤浅层的占比有所提升且随恢复年限的增加而升高；山香 $^ +$ 云杉混交林和山杏 $^ +$ 樟子松混交林表层土壤（ $( 0 \\sim 1 0$ cm)中细根生物量占比有所上升。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc55685469bc93d866b34620f6e3284b0d359a4ef1ba8cef70cebdb52cb6b2fc.jpg",
+        "img_caption": [
+            "图6不同恢复模式下不同径级细根根面积所占百分比Fig.6Percentage of fine root area of different diameter levelsunder different restoration patterns",
+            "图7不同恢复模式下细根根生物量密度分布",
+            "Fig.7Distribution of fine root biomass density under different restoration patterns "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3细根比根长、比根面积的变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "比根长及比根面积是根长和根面积与其生物量的比值，表示了单位重量的根长和根表面积，比根长和比根面积越大，则可以说明在相同重量的情",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5(a) T 口XXYXZ   \n20 □BBP-1BP-2 aA   \n用 1510 b 用 100800 C aD aCDB   \n0.5 中 aD 根 0.4 aBg aBaC T aD aD aC aD aC 0.2 aCaBaCaB aD 士   \n0 古 0 士 0\\~10 10\\~2020\\~3030\\~4040\\~60 60\\~8080\\~100 0\\~1010\\~20 20\\~30 30\\~40 40\\~60 60\\~80 80\\~100 土壤深度／cm 土壤深度／cm ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/15b6476791b44daacdd49214039e135e06445287ded5351b333579405868dea7.jpg",
+        "img_caption": [
+            "图8不同恢复模式下不同土层细根根生物量密度分布占比Fig.8Distribution proportion of fine root biomass density indifferent soil layers under different restoration patterns"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "况下与土壤的接触面积越大，其活性和吸收养分及水分的能力就越大。在土壤表层白杨 $+$ 油松混交林的比根面积高于白杨纯林，在其他土层则是纯林高于其混交林(图10)。白杨纯林的比根长在各土层均高于其混交林(图9),其中在 $2 0 \\sim 3 0 \\ \\mathrm { c m } \\ . 3 0 \\sim 4 0$ $\\mathrm { c m }$ 和 $8 0 \\sim 1 0 0 \\ \\mathrm { c m }$ 白杨纯林的细根比根长显著高于其混交林。山杏 $^ +$ 樟子松混交林的细根比根长及比根面积在 $0 \\sim 4 0 ~ \\mathrm { c m }$ 以及 $6 0 \\sim 8 0 \\ \\mathrm { c m }$ 土层中要高于山杏纯林，特别是比根长在 $1 0 \\sim 2 0 ~ \\mathrm { c m }$ 土层中显著高于山杏纯林。而山香 $^ +$ 云杉混交林的比根长和比根面积与山杏纯林的差异较小(图9、图10)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4细根与土壤特性之间的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过相关性分析发现，细根的根长密度、根面积密度及根生物量密度与土壤全氮、土壤全碳、土壤有机碳及土壤含水量之间呈极显著正相关( $\\scriptstyle P <$ 0.01)关系。细根的比根长及比根面积与土壤有机碳呈极显著正相关( $_ { \\scriptstyle P < 0 . 0 1 } )$ ),与土壤全碳和土壤全氮呈显著正相关( $_ { \\scriptstyle P < 0 . 0 5 } )$ ),与土壤全磷及土壤含水量无显著关系(表2)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根长密度及根面积密度可以反映植物根系对水分以及养分吸收的能力[27-28]。比根长和比根面积则可以反映根系对养分获取与根系构造与维护之间的关系[29],是代表植物地下竞争力的形态指标[30]。有研究表明同一物种较细的细根寿命较短[31],比根长及比根面积越大较细的根越多。本文主要研究2种典型退化人工纯林白杨和山杏及其经群落调整之后形成的混交林，二者的混交林(除白杨 $+ 5$ 年生油松混交林外)在土壤浅层的细根根长密度、根面积密度均高于其纯林。与白世红等9的研究结果一致，混交之后对细根的生长起到了一定的促进作用。吸收根具有较高的资源吸收能力和较高的转换能力，影响植物水分和养分的吸收、死亡动态和根系生长光合产物代谢，对环境因素的变化以及与邻近树种的相互作用更为敏感[32]。本研究中发现白杨 $+$ 油松混交林的细根比根长及比根面积相较于白杨纯林有所下降，而山杏 $^ +$ 樟子松混交林的细根比根长及比根面积在大多数土层中要高于山杏纯林。原因可能在于两种混交模式增加细根的径级有所不同，白杨 $^ +$ 油松混交林所增加的根系为较粗的根，而山杏所形成的混交林增加的大部分为吸收根，并且在本研究中可以发现白杨油松所形成的混交林吸收根占比是下降的，山杏所形成的混交林中吸收根的占比得到提升。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a86eddb2a1d04a2e21879d64f28fa0c7077a60e30df10de53b42bb093d4fedbe.jpg",
+        "img_caption": [
+            "Fig.9Distribution of fine root specific root area under different restoration patterns "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6bed3ce674a8828d02a0f7b5c8eb5ff4652063a42a72cfea941679bf8b1a94ad.jpg",
+        "img_caption": [
+            "图9不同恢复模式下细根比根面积分布",
+            "图10不同恢复模式下细根比根长分布",
+            "Fig.1ODistribution of fine root ratio root length under different restoration patterns "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f991f6755a326eba8d9d402b352de987aee1b59a34855b5aef91af57d66f2093.jpg",
+        "table_caption": [
+            "表2林木细根与土壤特性相关性分析",
+            "Tab.2 Correlation analysis between fine roots and soil properties of forest trees "
+        ],
+        "table_footnote": [
+            "注：\\*表示在0.05水平上显著;\\*\\*表示在0.01水平上显著"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>根长密度</td><td>根面积密度</td><td>根生物量密度</td><td>比根长</td><td>比根面积</td><td>全碳</td><td>全氮</td><td>全磷</td><td>有机碳</td><td>含水量</td></tr><tr><td>根长密度</td><td>1</td><td>0.980**</td><td>0.755**</td><td>0.438**</td><td>0.390**</td><td>0.513**</td><td>0.609**</td><td>0.071</td><td>0.679**</td><td>0.337**</td></tr><tr><td>根面积密度</td><td></td><td>1</td><td>0.826**</td><td>0.349**</td><td>0.329**</td><td>0.499**</td><td>0.584**</td><td>0.017</td><td>0.657**</td><td>0.373**</td></tr><tr><td>根生物量密度</td><td></td><td></td><td>1</td><td>-0.071</td><td>-0.104</td><td>0.387**</td><td>0.458**</td><td>-0.083</td><td>0.513**</td><td>0.398**</td></tr><tr><td>比根长</td><td></td><td></td><td></td><td>1</td><td>0.970**</td><td>0.197*</td><td>0.222*</td><td>0.066</td><td>0.279**</td><td>0.059</td></tr><tr><td>比根面积</td><td></td><td></td><td></td><td></td><td>1</td><td>0.191*</td><td>0.194*</td><td>0.037</td><td>0.247**</td><td>0.053</td></tr><tr><td>全碳</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>0.946**</td><td>0.210°</td><td>0.878**</td><td>0.335**</td></tr><tr><td>全氮</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>0.286**</td><td>0.915**</td><td>0.315**</td></tr><tr><td>全磷</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>0.265**</td><td>-0.008</td></tr><tr><td>有机碳</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>0.315**</td></tr><tr><td>含水量</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "WANG等[33的研究中表明物种之间的相互作用是动态的，随着资源可利用性或气候条件的变化而变化，给定的一对物种之间的互补作用和竞争作用可以相互转化。本研究中两种退化人工林调整后根系结果的差异再一次表明了针对混交林与纯林的比较中结论并不一致。一方面可能与树种之间不同的搭配有关，不同林种根系的生长和分布存在差异[34]。另一方面,通过相关性分析发现根系的生长与土壤养分息息相关，不同的树种搭配对土壤理化性质的影响不同，样地之间土壤养分的差异也是造就根系分布差异的原因之—[35]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随着恢复年限的增加混交恢复模式的根长密度、根面积密度、根生物量密度均呈增加趋势。 $1 \\mathrm { m }$ 土层深度内的根长密度和根面积密度以及 $0 \\sim 6 0$ cm土层内的根生物量密度，均表现为白杨 $+ 1 0$ 年生油松混交林 $>$ 白杨 $+ 5$ 年生油松混交林，同时白杨 $^ +$ 油松混交林细根生物量在土壤浅层的占比随着恢复年限的增加而升高,这与以往的研究相一致[36-37]李陆生等[38的研究指出林木细根的主要作用是吸收养分及水分，而树龄的增长导致了树木对养分及水分的需求增大，进而细根得到了增加。另外，土壤碳是土壤的重要组成元素[39]，以往研究表明，植被恢复可以提高土壤的碳含量[40],土壤的全碳及有机碳随着混交林恢复年限的增加而增加[41],本研究中土壤因子与细根的根长密度、根面积密度以及根生物量密度均存在极显著正相关性，随着恢复年限的增长土壤养分的增加也是细跟增加的原因之一。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "细根的分布与养分及水分具有极显著相关性[42],土壤中的养分及水分自表层至底层均呈逐渐降低的趋势，一定程度上会影响树木根系的分布，特别是细根的分布。在本研究中，2种典型人工林的纯林和混交林细根的根长密度、根面积密度，根生物量密度均随着土壤深度的增加而减少，且在土壤浅层 $( 0 \\sim 3 0 ~ \\mathrm { c m } )$ 的占比都超过了 $5 0 \\%$ ,与钱文丽等[21]和侯海潮等研究结果基本一致。北方森林的大部分细根生长在有机层中[43],大多数研究表明根系会随着土壤深度的增加而减少[44，较多的根系分布在",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "土壤的表层和浅层，从而呈现出一种表聚现象[45]。水分是干旱半干旱地区植物生长重要的限制因子[46],根系聚集在表层有利于林木对水的充分利用，加强土壤抗冲性，防止土壤侵蚀[47]。BORDRON等[48]的研究也表明浅层的树木细根要比深层更加丰富。混交恢复模式改变了树木根系的分层占比，混交恢复模式下浅层的细根根长密度、根面积密度分布占比均有所上升，混交林细根生物量在浅层 $( 0 \\sim 3 0$ cm)的占比高于纯林。土壤表层有大量的凋落物，导致表层的养分充足，而混交恢复模式会提高一定的凋落物量,这是导致表层细根增加的原因之一。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文通过对白杨、山杏纯林，白杨 $+ 5$ 年生油松、白杨 $+ 1 0$ 年生油松混交林、山香 $^ +$ 云杉和山香 $^ +$ 樟子松混交林细根分布变化规律的研究，得出以下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）不同混交模式对根系生长及分布的影响存在差异，退化人工林群落结构调整后形成的混交林与单一纯林相比细根的根长密度、根面积密度、根生物量密度大部分都在浅层有所提高，且不同根的径级占比中以吸收根（直径 $\\mathbb { \\leq } 0 . 5 ~ \\mathrm { m m } .$ )为主；在大多数土层中，白杨纯林的比根长及比根面积都要高于其混交林，而山杏纯林则要低于其混交林。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）随着恢复年限的增加，白杨 $^ +$ 油松混交林细根的根长密度、根面积密度、根生物量密度以及细根生物量在土壤浅层的占比均有所提升。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）在垂直方向，所有样地中细根根长密度、根面积密度，根生物量密度均随着土壤深度的增加而减少且差异明显，呈现出了一定的表聚现象。纯林浅层的细根根长密度、根面积密度分布占比均低于其混交林，混交处理使得白杨组细根生物量在土壤浅层的占比提升。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]张毓涛,胡莎莎,李吉玫,等.新疆3种主要森林类型根系生物 量变化特征研究[J].干旱区地理,2013,36(2):269-276. [ZHANG Yutao,HU Shasha,LI Jimei,et al. Study on root biomass change characteristics of three main forest types in Xinjiang[J].Arid Land Geography,2013,36(2): 269-276.]   \n[2] WANG C,MAY,TROQISCHS,etal. Soil respiration is driven by fine root biomass along a forest chronosequence in subtropical China[J].Journal of Plant Ecology,2017,10(1): 36-46.   \n[3] FUYM,FENGFJ,FAN X X,et al. Seasonal dynamics of fine ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "root respiration in the degraded and successional primary korean ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "pine forests in the Lesser Khingan Mountains of northern China[J]. Ecological Indicators,2019,102:1-9.   \n[4]ZHANG HN,SUPX,LISJ, etal. Response of root traits of Reaumuria soongoricaand Salsola passerina to facilitation[J]. Journal of Arid Land,2014,6(5): 628-636.   \n[5]荐圣淇,赵传燕,方书敏,等.基于地理信息技术油松(Pinus tabuliformis)根长密度估算及空间分布特征分析[J].干旱区地理, 2012,35(4): 599-606.[JIAN Shengqi, ZHAO Chuanyan,FANG Shumin,etal.Estimating the root length densityof Pinus tabuliformis based on image processing technology and analyzing its spatialdistribution[J].AridLand Geography,2012,35(4):599-606.]   \n[6]KRISTINA K, STEFANIE H, DIETRICH H, et al. Effects of bedrock type and soil chemistry on the fine roots of European beech: A study on the belowground plasticity of trees[J].Forest Ecology and Management, 2019,444(15): 256-268.   \n[7]DING Y,LEPPALAMMI-KUJANSUU J, HELMISAARI H-S, et al. Fine root longevity and below-and above ground liter production in aboreal Betula pendula forest[J].ForestEcologyand Management, 2019,431(1): 17-25.   \n[8]MCCOMACK ML,DICKIE IA,EISSENSTAT D M,et al. Redefining fine roots improves understanding of below ground contributionsto terrestrialbiosphereproceses[J].NewPhytologist,2015, 207(3): 505-523.   \n[9]李佳梅,朱启良,马璟,等.华北石质山地麻栎和刺槐混交林浅 层细根特征[J].西北林学院学报,2018.33(1):31-42.[LI Jiamei, ZHU Qiliang,MA Jing,et al. Comparison on fine root traits of Quercus accutissima and Robinia pseudoacacia in lower soil layer in rocky mountainous area of northern China[J]. Journal of Northwest Forestry University,2018.33(1): 31-42.]   \n[10] CECCON C,PANZACCHI P, SCANDELLARIF, et al. Spatial and temporal effects of soil temperature and moisture and the relation to fine root density on root and soil respiration in a mature apple orchard[J]. Plant and Soil,2011,342(1-2): 195-206.   \n[11] 赵鸿雁,陈英,周翼,等.甘肃中东部植被生长季NDVI时空变 化及其对气候因子的响应[J].干旱区地理,2019,42(6):1427- 1435.[ZHAO Hongyan, CHEN Ying,ZHOU Yi,et al. Spatiotemporal variation of NDVI in vegetation growing season and its responses to climatic factors in mid and eastern Gansu Province from 2008 to 2016[J]. Arid Land Geography,2019,42(6): 1427-1435.]   \n[12] 许佳,祝晓瞳,苑塏烨.额河源流采金矿区不同恢复措施对矿区 物种多样性和地上生物量的影响[J].干旱区地理,2019,42(3): 581-589.[XU Jia, ZHU Xiaotong, YUAN Kaiye.Effects of different restoration measures on species diversity and aboveground biomass of the gold mining area in headwaters of the Ertix River[J]. Arid Land Geography,2019,42(3): 581-589.]   \n[13]FLORA T,SARA M,ANDRASB,etal.Environmental drivers of the forest regeneration in temperate mixed forests[J].Forest Ecology and Management,2019,433: 720-728.   \n[14] 冯棋,杨磊,王晶,等.黄土丘陵区植被恢复的土壤碳水效应研 究[J].生态学报,2019,39(18): 6598-6609.[FENG Qi,YANG Lei,WANG Jing,et al. Response of carbon sequestration and water conservation in deep soil profiles in loess hilly region[J]. Acta Ecologica Sinica,2019,39(18): 6598-6609.] [15] 韩新生,许浩,蔡进军,等.宁南黄土丘陵区3种典型林分的结 构与水文影响比较[J].水土保持学报,2018,32(6):194-201. [HAN Xinsheng,XU Hao,CAI Jinjun, et al. Comparison of structure and hydrological influence of three typical stands in loess hilly regions of southern Ningxia[J]. Journal of Soil and Water Conservation,2018,32(6): 194-201.] [16]谢育利.黄土丘陵区油松、沙棘纯林及混交林土壤呼吸特征比 较研究[D].北京:中国科学院大学,2017.[XIE Yuli.Comparative study on soil respiration characteristics of Pinus tabulaeformis and Hippophae rhamnoides plantation and mixed forest in loess hilly region[D]. Beijing: University of Chinese Academy of Sciences,2017.] [17] 胡婵娟,傅伯杰,靳甜甜,等.黄土丘陵沟壑区植被恢复对土壤 微生物生物量碳和氮的影响[J].应用生态学报,2009,20():   \n45-50.[HU Chanjuan,FU Bojie,JIN Tiantian,et al.Effects of vegetation restoration on soil microbial biomass carbon and nitrogen in hilly areas of Loess Plateau[J]. Chinese Journal of Applied Ecology,2009,20(1): 45-50.] [18] 寇萌,焦菊英,王巧利,等.黄土丘陵沟壑区不同植被带植物群 落的细根分布特征[J].农业机械学报,2016,47(2):161-171. [KOU Meng, JIAO Juying,WANG Qiaoli,et al.Fine root distribution characteristics of plant community in diferent vegetation zones in hill- gull region of Loess Plateau[J]. Transactionsof the Chinese Society for Agricultural Machinery,2016,47(2): 161-171.] [19] 白世红,丁新景,马风云,等.黄河三角洲盐碱地人工刺槐混交 林细根分布研究[J].中国生态农业学报,2018,26(1):116-124. [BAI Shihong,DING Xinjing,MA Fengyun,et al.Fine root distribution in mixed Robinia pseudoacacia plantations in saline soils of the Yellow River Delta[J].Chinese Journal of Eco-Agriculture,   \n2018, 26 (1): 116-124.] [20]LEUSCHNER C,HERTEL D,CONERS H,et al. Root competition between beech andoak: A hypothesis[J]. Oecologia (Berlin),2001,   \n126(2): 276-284. [21] 钱文丽,卢元,王韶仲,等.混交对红松人工林细根生物量和空 间分布的影响[J].东北林业大学学报,2016,44(2):1-5.[QIAN Wenli,LU Yuan,WANG Shaozhong,et al. Influence of species mixing on fine root biomass and spatial distribution in Pinus koraiensisplantation[J].Journal of Northeast Forestry University,   \n2016, 44(2): 1-5.] [22] 林希昊,王真辉,陈秋波,等.不同树龄橡胶(Hevea brasiliensis)林 细根生物量的垂直分布和年内动态[J].生态学报,2008,28(9):   \n4128-4135.[LIN Xihao,WANG Zhenhui,CHEN Qiubo,et al. Vertical distribution and annual dynamics of fine roots of Hevea brasiliensis atdifferentages[J].Acta Ecologica Sinica,2O08,8(9):   \n4128-4135.] [23] 邓强,李婷,袁志友,等.黄土高原4种植被类型的细根生物量 和年生产量[J].应用生态学报,2014,25(11):3091- 3098. [DENG Qiang,LI Ting,YUAN Zhiyou, et al.Fine root biomass and production of four vegetation types in Loess Plateau, China[J]. Chinese Journal of Applied Ecology,2014,25(11): 3091-3098.]   \n[24] MARIA M C,CHRISTOPHER H L. Vertical distribution of fine root biomass of emergent Nothofagus dombeyi and its canopy associates in a Chilean temperate rainforest[J].Forest Ecology and Management,2004,199(2-3): 177-181.   \n[25] 瞿欢欢,邓洪平,梁盛,等.毛竹扩张对濒危植物杪根系形态 可塑性的影响[J/OL].生态学报,2020(4):1-9.[QU Huanhuan, DENG Hongping,LIANG Sheng,etal. Effects of Phyllostachys heterocycla expansion on morphological plasticity of endangered plant Alsophila spinulosa root system[J/OL]. Acta Ecologica Sinica, 2020,40(4): 1-9.]   \n[26] 侯海潮,丁丽,许中旗,等.燕山北部山地典型造林树种幼树根 系分布特征[J].林业资源管理,2018,68(4):10-16.[HOU Haichao,DINGLi, XU Zhongqi,et al. Root distributionof young trees of typical species in the northern region of Yanshan Mountains[J]. Forest Resources Management, 2018, 68(4): 10-16.]   \n[27]SCHLOSSBERG M J, KARNOK K J, LANDRY G,et al. Estimation of viable root-length density of heat- tolerant Crenshaw and L93 creeping bent grassby an accumulative degree-day model[J]. Journal of the American Society for Horticultural Science,2002, 127(2): 224- 229.   \n[28] 罗达,史彦江,宋锋惠,等.平欧杂种榛细根空间分布特征[J].林 业科学研究,2019,32(1): 81-89.[LUO Da,SHI Yanjiang,SONG Fenghui,et al. Spatial distribution characteristics of fine roots in monoculture system of Corylus heterophylla $\\times$ Corylus avellana[J]. Forest Research,2019,32(1): 81-89.   \n[29] 周永姣,程林,王满堂,等.武夷山不同海拔黄山松细根性状季 节变化[J].生态学报,2019,39(12): 4530-4539.[ZHOU Yongjiao, CHENG Lin, YU Mantang,et al. Seasonal changes of fine root traits inPinus taiwanensis hayata at different altitudes in the Wuyi Mountains[J]. Acta Ecologica Sinica,2019,39(12): 4530-4539.]   \n[30] CORNELISSEN JHC,LAVOREL S,GARNIER E,et al.A handbook of protocols for standardized and easy measurement of plant functional traits worldwide[J].Australian Journal of Botany,2003, 51(4): 335-380.   \n[31]GU J.Effects of root diameter,branch order,soil depth and season of birth on fine root life span in five temperate tree species[J].European Journal of Forest Research,2017,136(4): 727-738.   \n[32] 黄林,王峰,周立江,等.不同森林类型根系分布与土壤性质的 关系[J].生态学报,2012,32(19): 6110-6119.[HUANG Lin, WANG Feng, ZHOU Lijiang,et al.Root distribution in the different forest typesand their relationship to soil properties[J]. Acta Ecologica Sinica,2012,32(19): 6110-6119.]   \n[33]WANG Y,GAO G,WANG N,et al. Effects of morphology and stand structure on root biomass and length differed between absorptive and transport roots in temperate trees[J]. Plant and Soil, 2019, 442(1-2): 355-367.   \n[34]FORRESTER D I. The spatial and temporal dynamics of species ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "interactions in mixed-species forests:From pattern to process[J]. Forest Ecology and Management,2014,312: 282-292.   \n[35]郑力文.林木根系对土壤性质的影响研究[D].北京:北京林业 大学,2015.[ZHENG Liwen.Effect of root system on soil properties[D]. Beijing: Beijing Forestry University,2015.]   \n[36] 李永涛,王霞,周健,等.基于林龄的黄河三角洲白蜡人工林细 根分布与活力研究[J].干旱区资源与环境,2020,34(1):171- 177.[LI Yongtao,WANG Xia, ZHOU Jian,et al. Fine root distribution and activity of Fraxinus velutina plantations based on the forest stand age in the Yellow River Delta[J]. Journal of Arid Land Resources and Environment, 2020,34(1): 171-17.]   \n[37]HELMISAARIH S,DEROME J,NOJD P,et al.Fine root biomass in relation to site and stand characteristics in Norway spruce and Scots pine stands[J]. Tree Physiology,2007,27(10): 1493-1504.   \n[38] 李陆生,赵西宁,高晓东,等.黄土丘陵区不同树龄旱作枣园细 根空间分布特征[J].农业工程学报,2015,31(20):140-146.[LI Lusheng, ZHAO Xining, GAO Xiaodong,et al. Influences of stand age on root patterns in a rain-fed jujube (Ziziphus jujube) plantation of Loess Plateau in China[J]. Transactions of the Chinese Society of Agricultural Engineering,2015,31(20): 140-146.]   \n[39] 包青岭,丁建丽,王敬哲,等.基于随机森林算法的土壤有机质 含量高光谱检测[J].干旱区地理,2019,42(6):1404-1414.[BAO Qingling,DING Jianli, WANG Jingzhe,et al. Hyperspectral detection of soil organic mater content based on random forest algorithm[J]. Arid Land Geography,2019, 42(6): 1404-1414.]   \n[40] 吕朋,左小安,孙珊珊,等.科尔沁沙地退化植被恢复过程中碳 氮化学计量特征的变化[J].干旱区地理,2019,42(3):606-614. [LYU Peng, ZUO Xiaoan,SUN Shanshan, et al. Changes of carbon and nitrogen stoichiometry in the restoration process of degraded vegetation in Horqin Sandy Land[J].Arid Land Geography,2019, 42(3): 606-614.]   \n[41] 满洲,胡婵娟,冯德显,等.黄土丘陵区白杨纯林群落结构调整 对土壤碳的影响[J].生态学杂志,2018,37(12):37-44.[MAN Zhou,HU Chanjuan,FENG Dexian,et al. Effect of community structure adjustment of pure Populus tomentosa planataion on soil carbon in the semi-arid Loess Plateau of China[J]. Chinese Journal of Ecology,2018,37(12): 37-44.]   \n[42]ZHANG C B,CHEN L H, JIANG J,et al.Vertical root distribution and root cohesion of typical tree species on the Loess Plateau, China[J]. Journal of Arid Land,2014,6(5): 601-611.   \n[43]LEENA F,VATILI Z, MARJO P,et al. Variation in fine root biomass along a $1 0 0 0 ~ \\mathrm { k m }$ long latitudinal climatic gradient in mixed boreal forests of north-east Europe[J]. Forest Ecologyand Management,2019,432: 649-655.   \n[44] 郭京衡,李尝君,曾凡江,等.2种荒漠植物根系生物量分布与 土壤水分、养分的关系[J].干旱区研究,2016,33(1):166-171. [GUO Jingheng,LI Changjun, ZENG Fanjiang,et al. Relationship between root biomass distribution and soil moisture,nutrient for two desert plant species[J].Arid Zone Research,2016,33(1): 166-171.]   \n[45]PREGITZER H K S. Temporal and depth-related patterns of fine root dyamics in northern hardwood forests[J]. Journal of Ecology, 1996, 84(2): 167-176.   \n[46] 李吉玫,张毓涛,韩燕梁,等.降水变化对天山云杉细根分解及 养分释放的影响[J].生态环境学报,2015,24(9):33-40.[LIJimei, ZHANG Yutao,HAN Yanliang,et al.Effects of variation of precipitation on the fine root decomposition and related nutrient release in Picea schrenkiana var. Tianshanica[J].Ecology and Environment Sciences,2015,24(9): 33-40.]   \n[47]ZHANG BW,CADOTTE MW,CHEN SP,et al.Plants alter their vertical root distribution rather than biomass allocation in response to changing precipitation[J].Ecology，2019,100(11): eo2828,doi:10.1002/ecy.2828.   \n[48]BORDRON B,ROBIN A, OLIVEIRA IR,et al. Fertilization increases the functional specialization of fine roots in deep soil layers for young Eucalyptus grandis trees[J]. Forest Ecology and Management,2019,431: 6-16. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fine root characteristics of degraded artificial forest under community structure adjustment in semiarid loess hilly region ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LI Hao1²，HU Chan-juan²，FENG De-xian²， ZHAO Rong-qin’， GUO Lei²，MAN Zhoul (1SchoolofSurveyingand Geo-informatics,North China Universityof Water ResourceandElectricPower, Zhengzhou 450045,Henan,China；2InstituteofGeographycience,HenanAcademyofSiences,Zhengzhou45o52,Henan,hina) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Absrtact:Thisstudy was conducted inLongtan watershed,Chankou Town,Dingxi City,Gansu Province,China in order to reveal the fine roots distribution characteristics of diferent plantation restoration patterns.Two typical degraded artificial forests inthis study area included Populus tomentosaand Armeniaca sibirica,and theiradjusted mixed forests included Populus tomentosa with 5-year-old Pinus tabuliformis,Populus tomentosa with10-year-old Pinus tabuliformis,Armeniaca sibirica with Picea asperata,and Armeniaca sibirica with Pinus sylvestris.The root length density,root area,root biomass density，specific rot length and specific root area of fine roots of the mentioned forests were compared in diffrent soildepth and diameter degree.The rootsof diferent soil layers in sampling plots were collected byroot-driling method.Inthelab,the roots were scanned byaroot scannerand were classified by WinRHIZO software.Excel 2003 and SPSS 24 software were used for data analysis.One-way ANOVA and LSD method wereused to compare the significant diferences of various indicators between vegetation restoration paternsand diferent soil layers.In a O-to 1O-cm soil layer,results showed thatthe mixed restoration model playeda positiverole inthe increaseof the growth of plantroots,root areadensity,androtbiomassdensity of most mixed forests in the surface soil layer compared with that of the pure forest.Specificaly,the root length density of Armeniaca sibirica with Picea asperata and Armeniaca sibirica with Pinus sylvestris were $2 . 8 5 \\ \\mathrm { c m \\cdot c m ^ { - 3 } }$ and $2 . 0 8 \\ \\mathrm { c m \\cdot c m ^ { - 3 } }$ ,respectively,which were higher than that of Armeniaca sibirica $( 1 . 6 5 \\mathrm { c m } \\cdot \\mathrm { c m } ^ { - 3 }$ ). Similarly, higher root area densities were observed with the two mixed forests ( $2 7 . 4 8 ~ \\mathrm { c m } ^ { 2 } \\cdot \\mathrm { c m } ^ { - 3 }$ and $2 0 . 0 0 \\ \\mathrm { c m } ^ { 2 } \\cdot \\mathrm { c m } ^ { - 3 }$ ，respectively) compared to that of Armeniaca sibirica ( $1 6 . 2 1 ~ \\mathrm { c m } ^ { 2 } \\cdot \\mathrm { c m } ^ { - 3 }$ ). Finally,the root biomass density of the two mixed forests were $1 . 2 5 \\mathrm { m g } \\cdot \\mathrm { c m } ^ { - 3 }$ and $1 . 3 6 ~ \\mathrm { m g \\cdot c m } ^ { - 3 }$ ,respectively,which were higher than that of Armeniaca sibirica $( 1 . 0 3 ~ \\mathrm { m g \\cdot c m } ^ { - 3 } )$ ） The root length density,root area density,and root biomassdensityof Populus tomentosa with 5-year-old Pinus tabuliformis and Populus tomentosa with 1O-year-old Pinus tabuliformis were $1 . 5 2 ~ \\mathrm { c m } \\cdot \\mathrm { c m } ^ { - 3 }$ and $2 . 1 1 \\ \\mathrm { c m } \\cdot \\mathrm { c m } ^ { - 3 }$ ， $1 8 . 1 6 ~ \\mathrm { c m } ^ { 2 } \\cdot \\mathrm { c m } ^ { - 3 }$ and $2 6 . 4 6 ~ \\mathrm { c m } ^ { 2 } \\cdot \\mathrm { c m } ^ { - 3 }$ and $1 . 2 3 ~ \\mathrm { m g \\cdot c m } ^ { - 3 }$ and $1 . 8 2 ~ \\mathrm { m g \\cdot c m } ^ { - 3 }$ ,respectively. The root length density, root area density,and root biomassdensity of Populus tomentosa were $1 . 6 8 ~ \\mathrm { c m ^ { 2 } \\cdot c m ^ { - 3 } }$ $1 7 . 6 6 \\mathrm { c m } ^ { 2 } \\cdot \\mathrm { c m } ^ { - 3 }$ and $1 . 4 1 ~ \\mathrm { m g }$ . $\\mathrm { c m } ^ { - 3 }$ ,respectively.The mixed forest of Populus tomentosa with1O-year-old Pinus tabuliformis had the highest root length density,root area density,and rootbiomass densityinthe surface soil layer.In a 1-m deepsoil layer,the average root biomass density of Populus tomentosa，Populus tomentosa with 5-year-old Pinus tabuliformis,and Populus tomentosa with 1O-year-old Pinus tabuliformis were $0 . 5 8 ~ \\mathrm { m g } \\cdot \\mathrm { c m } ^ { - 3 }$ ， $0 . 6 6 ~ \\mathrm { m g } \\cdot \\mathrm { c m } ^ { - 3 }$ ，and $0 . 8 2 ~ \\mathrm { m g } \\cdot \\mathrm { c m } ^ { - 3 }$ ， respectively.The root biomass density of Populus tomentosa and Pinus tabuliformis mixed forests were higher than thatof the pure forest and were found to increase with increased restoration years.The average rot length density and rootarea density of Armeniaca sibirica with Picea asperata and Armeniaca sibirica with Pinus sylvestris mixed forests were observed tobe higher than thatof Armeniaca sibirica in a1-m soillayer.Fromthe vertical soil profile, the root length density,root area density,and root biomassdensityof fine roots inall restoration patternsshowed obvious surface aggregation phenomenon.The mixed restoration patterns increased the proportion of fine roots in the surface layer and increased with increased restoration years.The correlation analysis between the root indexes and thesoil physiochemical indexes showed thatthe fineroot length density,root area density,androot biomass density were significantly positively correlated with soil total carbon,total nitrogen,watercontent,andorganic carbon.Specific root length and specific root area also had apositive relationship with soil totalcarbon,soil total nitrogen, and organic carbon. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words:loess hilly region; mixed forest; fine root; restoration patterns ",
+        "page_idx": 10
+    }
+]

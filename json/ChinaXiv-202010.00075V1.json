@@ -1,0 +1,369 @@
+[
+    {
+        "type": "text",
+        "text": "语言经验对概率词切分的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "于文勃」王璐」程幸悦」王天琳² 张晶晶’梁丹丹1（1南京师范大学文学院，南京 210097）（²纽约州立大学奥尔巴尼分校教育学院，纽约12222）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(南京师范大学心理学院，南京210097)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 概率词切分指个体利用音节间的转换概率切分语流、发现词语边界的过程。经典的概率词切分研究多采用“学习-测试”范式，首先要求被试切分一段无意义人工语言，随后对切分效果进行测试。近年来，研究者逐渐关注语言经验对概率词切分的影响。语言经验在语音经验和被试掌握的语言知识两方面影响着概率词的切分效果。今后的研究，一方面可以在语言经验的分类上进行拓展,细分群体语言经验和个体语言经验的影响；另一方面还可以更多地关注普通话母语者的语言经验如何作用于概率词切分过程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词语言经验；概率线索；词切分",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1概率词切分",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1概率词切分的定义",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "词是最小的能独立运用的音义结合体（张珊珊，杨亦鸣,2012），在口语加工过程中，听话者首先要将口语语流切分成若干有意义的音节单位，随后才能对应出存储在头脑中的语义内容。现代语言学之父索绪尔（1916）指出个体要通过音节的意义对语流进行切分，从而保证语流中被切分的音节都有对应的语义内容（图1：a为语流中的音节，b为音节对应的语义内容）。但是，口语语流是随时间变化的线性结构，词和词之间没有清晰可靠的边界，不像文本阅读中有明确的空间线索（标点符号或空格）（于文勃，梁丹丹,2018;Sanders et al.,2002），因此个体如何通过线索对语流进行切分一直是口语加工中的研究热点。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/3db1757cb6bcb3e2447f595f3cccac1b16b4e69b3ef6c0549b0fa9ed33d4c1b7.jpg",
+        "img_caption": [
+            "图1索绪尔对口语词切分的观点"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（资料来源：De Saussure& Baskin,1916)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在切分线索的研究中，除语法线索（Ding et al.,2016）、音系规则（Cutler&Norris,1988;McQueen,1998; Suomi et al.,1997）和韵律线索（Christophe et al.,2004; Gout et al.,2004）之外，受到最多关注的是音节间的转换概率（transitional possibility,TP），其计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT P _ { ( X \\mid Y ) } = f r e q u e n c y X Y / f r e q u e n c y X\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "具体来说，指的是某一音节（X）后面出现某一特定音节（Y）的概率。如果这一特定音节（Y）出现的概率较高，那么音节组合（XY）很可能为词内音节组；相反，两个音节间存在词边界或者说分属两个词的结尾和开始，比如在词组pretty dog 中，词内音节组re-ty 之间的转换概率要比词间音节组ty-dog之间的转换概率高。因此，前两个音节是词内音节组，而后两个音节跨越了词边界。个体利用音节间转换概率切分语流的过程、发现词语边界的过程被称作概率词切分或（语音)统计学习机制（Saffran et al.,1996;Saffran& Kirkham,2018）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2概率词切分的研究范式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "概率词切分中最经典的研究来自于 Saffran etal.（1996）。研究者用4个原始三音节词（tupiro，golabu，bidaku，padoti）按照伪随机的方式拼接成无意义人工语言，核心的要求是同一个词不能连续出现两次（如 tupiro-golabu-bidaku-padoti-bidaku…）。实验采用“学习-测试”范式，学习阶段向8个月婴儿播放2分钟人工语言，测试阶段向婴儿呈现目标词（如 tupiro，即原始三音节词）和跨界词（如 rogola，第一个音节为一个原始词的最后一个音节，后两个音节为另一个原始词的前两个音节）。由于每个原始词后出现另外三个词的可能性相同，因此跨界词第一个音节和第二个音节间的转换概率较低。由概率词切分的观点可以推断这类刺激在婴儿脑中不会以完整词语的形式表征，对婴儿来说也会比较陌生。实验结果发现，婴儿对跨界词的注意时间长于目标词。研究者认为这种时间上的差异反映的是去习惯化效应，即婴儿在学习阶段已经由概率信息切分出原始目标词，因此在测试阶段注意时间较短；相反，婴儿在学习阶段没有切分出跨界词，那么在测试阶段会更关注这类测试材料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "概率信息在词切分中的线索作用得到大量实验证据的支持。在以婴儿为被试的实验中，因变量为被试对实验刺激的注意时间（Emberson et al.,2019; Erickson et al.,2014; Estes et al.,2007; Estes&Lew-Williams,2015;Johnson& Tyler,2010)。在以儿童或成人为被试的研究中，虽然仍旧采用\"学习-测试\"范式,但在测试阶段更多地采用迫选任务(Endress &Langus,2017;Hoch et al.,2013; Palmer & Mattys,2016; Wang & Saffran,2014）、熟悉度评分（Batterink &Paller,2017; Erickson et al.,2016）或音节检测任务（Batterink et al.,2015; Batterink,2017;Franco et al.,2015）。Wang 和 Saffran（2014）采用迫选任务进行测试，他们发现被试可以准确区分目标词和非词，迫选正确率高于随机水平；Batterink 和Paller（2017）在测试阶段使用熟悉度评分任务，结果发现被试对目标词、跨界词和非词的熟悉度逐渐降低。以上几种测试阶段的任务其本质均为线下测验（offline test）。也有学者采用线上测验的方式对个体在学习阶段的表现进行监控，比如利用事件相关电位技术对学习过程进行监测，他们发现具有高转换概率的词的词首位置会诱发大脑皮层稳定的 N400 效应（Baterink&Paller,2017;Buiatti et al., 2009）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3语言经验与概率词切分的关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "虽然测试阶段的范式有所不同，但大部分研究中所有被试都需要学习一段无意义的人工语言。由于人工语言是利用无意义词合成，并且排除了重音、停顿等可能影响词切分的韵律线索，因此仅有概率信息可以被利用。研究者假设在学习阶段开始前，被试对目标词和跨界词没有任何先验的知识表征，所以在测试阶段中区分目标词和跨界词的关键仅仅为被试加工人工语言中词内和词间的转换概率（Frost et al.,2020; Siegelman et al.,2018）。那么，对于实验被试来说，在完成测验任务过程中，是否真的可以完全将先验的知识“放”在一旁吗?在切分语流过程中真的可以不受自身语言经验的影响吗？语言经验是心理语言学研究中多次被提及、操纵的概念，根据实验需求，由于其涵盖范围较大，所以研究者往往强调某一具体内容的语言经验，如语言文化（王婷等,2017）、音系知识（李利等,2020）以及视觉文字(Lietal.,2020）等方面。近年来，学者开始关注在完成概率词切分任务中，语言经验在其中扮演的作用。经过对相关文献的梳理，本文从以下两个方面对语言经验如何作用于概率词切分进行综述：（1）被试的语音经验；（2）被试已掌握的语言知识。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2被试的语音经验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "统计学习领域需要对被试切分人工语言的效率进行检测，除了转换概率之外，组成人工语言的音节（词）是否和被试母语相似也很可能影响被试的学习效果。比如被试母语为声调语言，实验中学习的材料同样为声调语言，而且声调类型与母语较为接近，那么被试的语言经验就会促进他们对人工语言的学习；相反，如果要求被试学习的人工语言不包含声调信息，那么被试在音系结构方面的经验很有可能会抑制对人工语言的学习，导致切分效率下降。换句话说，在语音经验的研究中，被试母语音系结构与人工语言的相似程度是影响概率词切分的中介变量。语言的语音结构包括音段和超音段两部分（林焘，王理嘉,1992）。一段话总是由音质不同的最小音段组成，我们通常要将元音和辅音结合为更大的单元结构，如音节、短语、句子。这些单元结构必然还包括一定的音高、音强和音长等超出单个元音或辅音的语音特征，也就是超音段特征，主要指重音、音长、声调和语调。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1超音段特征方面的证据",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "两种语言中音节是否包含声调是超音段特征中非常明显的区别。汉语普通话是典型的声调语言，除轻声外，每个字都有明确的声调；而英语是非声调语言，有词重音却没有声调。两种语言在音段结构上较为一致，但超音段特征上有明显的区别。在日常生活中，我们也常观察到英语母语者所表述的汉语音节虽然没有错误，但声调听起来都是第一声。这说明在学习第二语言过程中与母语音系结构差异较大的部分较难掌握（李利等,2020；廖毅，张薇，2019）。对于母语为英语的被试来说，如果使用与其母语的语音经验相悖的包含声调信息的音节合成人工语言，则很可能会降低切分效率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Estes 等（2015）以14个月大的英语婴儿为被试考察个体利用概率信息切分语流的过程，实验材料均由汉语普通话无意义双音节词组成，比如 shulnail，wolkal，采用经典的婴儿概率词切分实验程序。实验1中以目标词和跨界词作为实验刺激，结果发现仅有男性婴儿能够区分目标词（转换概率为1）和跨界词（0.33）。作者推断因为被试不熟悉人工语言的超音段特征，才导致仅有部分被试能够成功切分语流。在实验2中，为了降低实验难度，作者对比婴儿在非词（转换概率为0）和目标词上的注意时间，发现所有被试均可以完成实验任务。这一结果说明虽然被试可以利用概率信息切分与自身语言经验相似性较低的人工语言，但是切分效率出现下降。与之相对，Shoaib 等人（2018）发现，如果向20个月大的英语母语婴儿呈现用意大利语音节合成的人工语言材料（意大利语和英语的音系规则较为相近），被试不仅能够切分语流，还可以有效地习得词语含义。虽然两篇文章在被试年龄、学习时间存在差异，但结合 Saffran（1996）对8个月大婴儿的实验，可以说明在一定程度上被试的语音经验会影响概率词切分的过程。考察被试的语音经验如何影响概率词切分的影响，还可以从二语习得角度入手，即随着二语经验的积累，被试对二语的语音特征更为了解。由此可以推断切分以二语词语中的音节合成的人工语言时，二语经验更为丰富的个体切分效果会较好。Potter等人（2017）采用纵向研究的设计思路，发现英语母语青少年在经过6个月的汉语普通话学习课程后，积累到丰富的二语经验，让他们完成以普通话音节为材料的概率词切分任务的成绩有了显著提高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "儿向语指的是成人为了和婴幼儿进行沟通而采用的一种特殊言语形式。成人在和婴幼儿交流时，常常会夸张自己的语调，整体音高高于正常水平，特别是当婴幼儿表现出积极的情感回应时，成人更容易提高自己的音量（Smith&Trainor,2008）。Thiessen等（2005）以儿向语语调（IDS）和成人语语调（adult-directed speech，ADS）合成概率结构相同的人工语言，发现婴儿只能在前一种条件下区分目标词和跨界词。在脑电实验中，研究者监控熟睡新生儿听两种语调录制的人工语言的神经反应，实验结果发现相比于成人语调，儿向语录制的学习材料会在目标词起始点后 $2 0 0 \\mathrm { m s } { \\sim } 4 0 0 \\mathrm { m s }$ 和 $4 5 0 \\mathrm { m s } { \\sim } 5 5 0 \\mathrm { m s }$ 两个时间窗内诱发的脑电成分波幅更大，而且电压分布在两种条件也有明显的区别。作者认为儿向语条件下的超音段特征符合新生儿日常的语言输入环境，这种材料能够更好地吸引新生儿的注意，维持较好的信息加工过程（Bosseler et al.,2016）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除声调、音高等因素外，被试对语言中词（语）长度的期待也是一种超音段信息。这方面的研究中研究者会给被试输入一些语音材料，从而帮助被试建立一种“母语”的音段特征。Lew-Williams 和 Saffran（2012）在标准的统计学习任务之前，分别向两组婴儿呈现 30s的前熟悉阶段。这30s 的语音序列或者由两音节词组成或者由三音节词组成，随后的人工语言也分成由两音节词和三音节词合成两种类型。结果显示婴儿只能切分与前测相匹配的人工语言，即先熟悉了两（三）音节词语的婴儿只能切分两（三）音节词组成的人工语言。对于不匹配的情况，被试在后面的转头偏好任务中无法区分目标词和跨界词。这一结果进一步说明了被试的语音经验（超音段方面）会影响甚至是引导语音统计学习过程。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2音段特征方面的证据",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "大多数概率词切分的研究中，承载转换概率的信息多为音节，即目标词内音节的转换概率较高，跨界词内音节的转换概率较低。但在不同语言下，音节内部元音和辅音的作用并不相同，比如印欧语系下辅音对词切分的影响更大（Nazzi etal.,2005），那么对于印欧母语者来说，如果人工语言是以元音为概率信息的载体，与母语的音段特征差异较大，那么被试在迫选任务中很可能正确率较低。这方面最早的研究来自于法语，Bonatti（2005）等人设计了分别由辅音和元音承载概率信息的人工语言。前一种条件中作者固定了无意义词语的辅音框架，元音可以自由组合，如b_d_k_，和m_1_t_；后一种条件中作者固定了无意义词语的元音框架，辅音可以自由组合，如_o_e_y，_u_e_a。通过这样的设置，辅音框架内的辅音转换概率高于辅音框架间辅音的转换概率，元音条件下同理。学习阶段要求法语被试学习人工语言7分钟，随后完成迫选任务。结果发现被试在辅音条件下正确率显著高于随机水平，但元音条件下正确率却与随机水平差异不显著。在实验2中研究者还增加了元音条件的学习时间，结果发现被试仍旧无法区分目标词和跨界词。这一实验结果在以粤语为母语的被试身上出现反转（Gomez etal.,2017）。通常来说，在汉语普通话和粤语中元音在词切分方面的作用更大，Gómez（2017）等以双音节词为目标词仿照Bonatti（2005）的实验设计进行实验，结果发现只有当元音承载概率信息时被试才能区分迫选试次中的目标刺激和干扰刺激。为了防止声调信息承载的概率信息干扰实验结果，在实验1中作者将所有音节控制为第一声，在接下来的实验中，发现当人工语言由多种声调音节组成时（包括4种声调），被试的迫选正确率会显著高于声调单一的情况。作者认为这是因为日常交流过程中音节声调本身就是变化的，后一种人工语言与日常语言经验在超音段特征上更为相似，从而提高了被试的切分效率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "人们在感知语音内容时，超音段特征和音段特征往往无法分割。Siegelman（2018）等以更直接的方式考察被试的语音经验对概率词切分的影响。他首先请一组被试对出现在迫选范式中的材料与希伯来语的相似程度进行七点评分，随后请另一组希伯来语母语被试完成语音统计学习任务，结果发现词语熟悉度评分可以预测被试迫选任务的正确情况。作者在前期评定任务中只强调无意义词语和母语语音的相似程度，将超音段和音段信息综合考虑，进一步证明了语音经验会影响语音统计学习的结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3音系结构相似性促进概率词切分的原因分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虽然以上研究一致认为当需要切分的人工语言与被试母语有相同语音特征时，比如都是声调语言，被试完成概率词切分的效果较好；但由于缺少对概率词切分内在机制的研究，尚没有研究对语言间相似性如何促进切分效率进行解释。Bogaerts等（2016）认为概率词切分的学习阶段过程可以分成两个部分，包括对刺激材料的表征和对概率信息的追踪两个部分，这两部分都会影响最后的切分效率。在口语词切分中，Palmer 和Mattys（2016）也证实了人工语言呈现速度会影响被试的切分效率，当呈现速度较慢时，被试工作记忆压力较小，切分效率较高。基于这些分析，笔者认为如果被试面对的人工语言在音段与超音段特征上与其母语的相似程度较大，被试在语音加工方面的经验就会帮助他们快速对人工语言的音节进行初步表征，从而在相同的学习时长内，可以集中更多的精力加工、发现概率关系，完成词切分任务。换句话说，人工语言与被试掌握语言在音系结构方面类似，降低了被试表征材料的难度，最终促进概率词切分过程。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3被试已掌握的语言知识",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1被试掌握的词语知识 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "个体在出生伊始便开始接受语言输入，对于婴幼儿来说，他们对高频词如“妈妈”，“爸爸”，以及自己的名字的记忆更为深刻，研究也发现这些高频词可以帮助他们进行词切分和语言习得（Bortfeld et al.,2005;Frost et al.,2019）。在此基础上，Palmer 等人（2019）考察在经典的统计学习范式中，被试已掌握的词语是否能够促进切分效果。他们以四个无意义三音节词组成的人工语言作为基线条件，随后用被试知道的三音节词（tomorrow）和四音节词（philosophy）分别替代人工语言中的一个无意义词语，结果发现两种实验条件下被试的切分正确率不仅都显著高于随机水平，而且高于基线条件。研究者推测被试已经掌握的词语（tomorrow）可以作为人工语言中的支点，当被试遇到这些词语后能够很快确定前后边界位置，更好地完成词切分任务。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "被试掌握的词语知识不一定都是在学习人工语言之前获得的，在学习人工语言过程中个体率先切分出的词语仍旧可以起到支点作用促进词切分。Kurumada等（2011）设计了两种人工语言材料：一种与传统的概率词切分研究相同，所有目标词出现次数一致，另一种则更加符合自然语言的情况，高频词数量较少，但重复次数多，中低频词数量多，但重复次数少，也就是符合齐夫分布定律。齐夫分布定律认为在自然语言中高频词较少，如英语中的\"the、a\"汉语中的“的、了\"等，大部分词语都是低频词，一个词语的绝对频次（absolute frequency)与其秩频次（rank frequency）成反比。研究者要求两组被试分别学习一种人工语言，结果发现被试虽然都可以很好地完成迫选任务，但是在更符合自然语言情况人工语言中正确率更高。作者推断在符合齐夫分布的人工语言中，高频词会更快地被切分出来，随后可以作为支点信息帮助个体切分剩下的语流。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "上文提到Palmer（2019）等人的实验证实被试掌握的词语可以有效提高概率词切分的成绩。从实验设计来看，研究者提供的词语知识与概率线索不仅不冲突，甚至可以作为支点促进被试找到语流中的词边界。在Poulin-Charronnat 等人（2016）的实验中收集了三组被试的统计学习成绩，区别在于：一组被试在学习阶段前学习了跨界词，一组被试学习了非词，一组被试作为对照组没有学习任何材料。结果在后期的迫选任务中，控制组被试的正确率显著高于随机水平，而第一组学习了跨界词的被试的正确率显著低于随机水平。控制组的成绩说明在无任何先验信息的情况下，个体仍旧可以依据概率线索正确切分出词语；但对于第一组被试来说，跨界词的知识信息与学习阶段的概率信息相冲突，经过前期学习后被试更加偏向利用跨界词提供的线索完成对人工语流的切分，因此在后期的迫选任务中更多地选择了错误的选项（跨界词）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结合几篇研究可以看出，被试掌握的词语知识会影响概率词切分过程，而促进或者抑制效应是根据研究者所关注的问题，这说明在我们切分语流过程中，很可能存在自下而上和自上而下的两条切分通路（Frost et al.,2020；Saffran&Kirkham,2018）。词语知识是一种特异性的切分线索，是个体后天习得的更为高级的切分机制；而概率信息则是普遍的切分线索，是个体出生就可以利用的，相对来说概率信息是较为低级的切分线索，当与高级的切分线索相悖时（如，重音、词语知识等），被试往往倾向舍弃低级线索而依靠高级线索。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2被试掌握的音系规则 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "概率词切分研究普遍采用“学习一迫选”的线下范式，即并非在学习阶段进行检验，而是通过学习后迫选任务的结果推断切分成功与否。即使个体在学习阶段成功切分出词，但是由于迫选范式的弊端（详见 Siegelman etal.,2017），最终的正确率仍旧会受到一定的干扰，可见概率词切分的效果反映的是学习过程和迫选任务中的综合结果。以往关注语言经验影响概率词切分的研究很少对影响机制何时发生做出回答，是在学习阶段影响被试对概率词切分的追踪还是影响迫选任务对选项的区分也不得而知。Toro（2010）等人在经典的概率词切分实验中，设计了违背加泰罗尼亚语音系规则的三音节词语并合成人工语言，经过12 分钟的学习后，在迫选任务中以听觉形式考察被试能否区分目标词和跨界词，结果发现被试的正确率与随机水平差异不显著，即无法分辨出目标词和跨界词。为了进一步确定语音规则效应的时间进程，在接下来的实验中，研究者采用视觉形式呈现迫选刺激，结果发现被试的迫选正确率高于随机水平。这说明当采用视觉通道而非听觉通道检验实验效应时，可以得到显著的切分效率。作者进一步推断即使在违背音系规则的情况下，个体仍旧可以追踪音节间的概率信息、切分词语，但是因为迫选选项不符合母语的音系规则，因此难以通过语音形式进行再认，可见音系规则并非影响大脑对概率信息的追踪，更可能影响我们对于切分出的词语的语音表征。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3其他方面的证据",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除以上两个方面外，一些其他研究也证实被试进行概率词切分时，会受到语言经验的影响。现有绝大部分转换概率研究多为由前向后的计算模式，如双音节词AbCd（大写字母代表辅音，小写字母代表元音）中的转换概率指的是音节Ab 后面出现音节Cd的可能性，但事实上转换概率还包括由后向前的模式，比如计算音节Cd前出现Ab 的可能性。Onnis和Thiessen（2013）发现英语母语者更擅长追踪由后向前的转换概率，韩语母语者被试更擅长追踪由前向后的转换概率，这与两种语言分别为SVO和 SOV的词序有关。另外的研究则发现，单语背景儿童能有效切分分别呈现的两种人工语言，但无法同时完成两个人工语言交替出现的概率词切分任务；相反，双语背景婴儿则可以完成两种人工语言的任务。作者推断这是因为双语儿童在日常语言输入环境中习惯了两种语言不断切换，而这与实验任务较为相似，因此他们可以在复杂的实验环境中切分人工语言语流（Antovich&Estes，2017）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4研究展望",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1汉语母语者语言经验对概率词切分的影响 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先，Saffran 等人（1996）并未将词切分中的概率线索限定于印欧语系，已有研究证实在声调语言中，概率信息仍旧是词切分的重要线索机制（Potter et al.,2017;Wang& Saffran2014）。上文已经介绍对于粤语母语者来说，承载概率信息的载体必须是元音时，才能较好地利用概率信息（Gómez et al.,2017）。考虑到粤语是现代汉语的一种地域变体，是汉语的一种方言，在音节结构上颇为相似，因此也可以推断汉语母语者有类似的反应倾向。除此之外，作为普通话母语者典型的语言经验，双音化倾向是否也会影响概率词切分呢？在日常口语交流中，普通话母语者偏爱使用双音节词，比如，当儿童被问到今年几岁的时候，他们普遍会回答“5岁”，而非“5”，这是因为“5岁”两个音节构成自然音步，符合普通话母语者的对词长的偏爱（冯胜利,1998）。从计量语言学的角度看，在《汉语大词典》中，双音节词占比 $6 8 . 8 3 \\%$ ，也是不同音节数词中最多的（李斌，刘雪扬,2018）。虽然已有研究关注过词长期待对概率词切分的影响（Lew-Williams& Saffran,2012），但尚未有研究关注汉语母语者双音节倾向是否会影响概率词切分过程，以及这种影响机制是普遍存在该领域的研究中，还是仅仅在某些特定情况下，如任务难度较大时才会出现。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2个体语言经验对概率词切分的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文虽然介绍了不同层面的语言经验如何影响概率词切分，如音段与超音段特征、词语知识等，但这些语言经验均是指参加实验的被试群体所普遍具有的，比如普通话母语者被试均具有声调语言经验等。从被试个体层面上看，我们每个人从出生就开始接受语言输入，由于每个被试的成长语言环境不同，所以每个被试对人工语言的偏好都不一样。我们无法确定在学习人工语言过程中，被试对人工语言中所有的音节和词语均有相同的表征或偏好。某些被试很可能偏好选择某些无意义词语（如 tupiro）或音节（如go），那么这种基于个体层面的语言经验是否也会影响概率词切分过程呢？Siegelman（2018）等人假设被试在完成声音刺激的统计学习任务时，不会受到语言经验的影响，相反，在完成语音刺激的任务时，每个被试个体的语言经验都会不同。这种主观经验会影响到被试的学习效果以及迫选过程中的选择，反映在统计指标上，声音材料试次间的判断一致性会较高，语音材料试次间的判断一致性会较低。实验结果也证实，虽然两种条件下组间正确率差异不显著，但是声音材料条件下的克伦巴赫α系数显著高于语音材料条件的α系数。这说明即使在组间正确率没有显著差异的情况下，每个被试对刺激材料的不同偏好仍旧可以被检测出来。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "我们在关注语言经验对某一种语言加工过程影响的时候，往往很少关注被试个体的语言经验或偏好，但 Siegelman（2018）等人的研究给予我们很大启示，只要选择合适的统计学指标是可以探测到个体语言经验如何在语言加工中发挥着作用的。进一步来看，这种影响虽然仅仅反映在每个被试对同一个试次判断的一致程度上，并不会降低被试的组平均正确率，但在未来研究中，我们仍可以试图分离两种语言经验的影响，并进一步关注二者是否对概率词切分产生交互作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从方法学上看，关注个体经验对实验自变量带来的影响俨然成为心理语言学的一个趋势。近年来，线性混合模型（Linear mixed-effects models,LMMs）被广泛应用在心理语言研究中（Magezi,2015;Schad etal.,2020）。相比于传统的方差分析，线性混合模型能够将被试和刺激材料的差异设置为随机截距（random-intercept）或随机斜率（random-slope），从而分离多种变量对因变量的贡献（Baayen et al.,2008），并且对全模型（在考虑随机截距的同时考虑所有可能的随机斜率）和零模型（研究者的理论假设模型，通常只考虑随机截距）进行显著性检验还可以对理论模型进行修正。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "冯胜利.(1998).论汉语的“自然音步”．中国语文,(1),40-47.  \n廖毅，张薇.(2019).母语背景在汉语声调感知中的影响——以英语和粤语背景学习者为例．汉语学习,(01),75-86.  \n李利，李亚娴，康宇，王莉.(2020).声调语言经验在汉语二语者普通话声调感知中的作用．华南师范大学学报(社会科学版),(1),83-91.  \n李斌，刘雪扬.(2018).基于《汉语大词典》的汉语词汇历时演变计量研究．南京师大学报(社会科学版),(05),152-160.  \n林焘，王理嘉.(1992)．语音学教程.北京：北京大学出版社.  \n王婷，王丹，张积家，崔健爱.(2017)．“各说各话”的语言经验对景颇族大学生执行功能的影响．心理学报，49(11), 1392-1403.  \n于文勃，梁丹丹.(2018).口语加工中的词语切分线索．心理科学进展,26(10),1765-1774.  \n张珊珊，杨亦鸣.(2012).从记忆编码加工看人脑中的基本语言单位- 一项基于单音节语言单位的ERPs研究．外语与外语教学,(2),1-6.  \nAntovich, D. M.,& Estes,K.G. (2O17). Learning across languages: Bilingual experience supports dual languagestatistical word segmentation. Developmental Science,21(2). doi: 10.1111/desc.12548.  \nBaayen,R.H.,Davidson,D.J.,& Bates,D.M.(2008).Mixed-effects modeling with crossed random effects forsubjects and items.Journal of Memory and Language, 59(4), 390-412.  \nBatterink，L. J.(2O17).Rapid statistical learning supporting word extraction from continuousspeech.Psychological Science,28(7),921-928.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Baterink,L.J.,Reber,P.J.,Nevile,H.J.,&Paller,K.A. (2O15).Implicitand explicitcontributions tostatistical learning. Journal of Memory and Language, 83, 62-78. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Batterink,L.J.,& Paller,K. A.(2o17). Online neural monitoring of statistical learning. Cortex, 90,31-45.   \nBogaerts,L., Siegelman, N.，& Frost, R. (2016). Spliting the variance of statistical learning performance: A parametric investigation of exposure duration and transitional probabilities. Psychonomic Bulletin & Review, 23(4), 1250-1256.   \nBosseler,A.N.，Teinonen,T.，Tervaniemi, M.，& Huotilainen,M.(2016).Infant Directed Speech Enhances StatisticalLearninginNewbormInfants:AnERPStudy. PLoSONE,11(9).doi: 10.1371/journal.pone.0162177   \nBonatti,L.L.,Pena,M.,Nespor,M.,& Mehler,J. (2oo5).Linguistic Constraintson Statistical Computations: The Role of Consonants and Vowels in Continuous Speech Processing. Psychological Science,16(6), 451-459.   \nBuiati,M., Pena, M.,& Dehaene-Lambertz, G. (2o09). Investigating the neural correlates of continuous speech computation with frequency-tagged neuroelectric responses. Neurolmage, 44(2), 509-519.   \nChristophe,A., Peperkamp,S., Pallier, C., Block,E.,& Mehler, J. (2004). Phonological phrase boundaries constrain lexical access II Infant data. Journal of Memory and Language, 51(4), 523-547.   \nCutler,A.,& Norrs, D.(1988). The role of strong syllables in segmentation for lexical access. Journal of Experimental Psychology: Human Perception and Performance,14(1),113-121.   \nDe Saussure,F.,& Baskin, W.(1916). Course in general linguistics. London, UK: Duckworth.   \nDing,N.,Lucia,M., Zhang,H.,Tian, X.,& Poeppel,D. (2016). Cortical tracking of hierarchical linguistic structures in connected speech. Nature Neuroscience,19(1),158-164.   \nEmberson,L.L.，Misyak,J.B.， Schwade,J.A., Christiansen，M. H.，& Goldstein,M.H. (2019). Comparing statistical learning across perceptual modalities in infancy: An investigation of underlying learning mechanism(s). Developmental Science, 22(6). doi: 10.1111/DESC.12847   \nErickson，L.C.， Thiessen，E.D.，& Estes，K.G.(2014)．Statistically coherent labels facilitate categorization in 8-month-olds. Journal of Memory and Language, 72, 49-58.   \nEstes,K. G., Evans, J. L.,Alibali, M.W.,& Saffran, J. R. (2007). Can Infants Map Meaning to Newly Segmented Words? Statistical Segmentation and Word Learning. Psychological Science, 18(3), 254- 260.   \nEndres,A. D.,& Langus,A.(2O17). Transitional probabilities count more than frequency,but might notbeused for memorization. Cognitive Psychology, 92,37-64. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Erickson,L.，Kaschak，M.,，Thiessen,E.，& Berry,C.(2016). Individual diffrences in statistical learning: Conceptual and measurement issues. Collabra: Psychology,2(1). doi: 10.1525/ collabra.41 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Estes,K. G., Gluck, C.W.,& Bastos,C.(2015). Flexibility instatistical word segmentation: finding words in foreign speech. Language Learning and Development, 11(3),252-269.   \nEstes,K. G.,& Lew-Wiliams, C.(2015).Listening through Voices: Infant Statistical Word Segmentation across Multiple Speakers. Developmental Psychology, 51(11),1517-1528.   \nFranco,A., Eberlen,J.,Destrebecqz,A., Cleeremans,A.,& Bertels,J. (2015).Rapid serial auditory presentation. Experimental Psychology, 62, 346-351.   \nFrost, R., Armstrong. B.C.,& Christiansen. M. H. (2O20). Statistical learning research: A critical review and possible new directions.Psychological Bulletin,145(12),1128-1153.   \nFrost, R., Monaghan, P.,& Christiansen,M. H. (2019). Mark my words: High frequency marker words impact early stages of language learning. Journal of Experimental Psychology: Learning, Memory，and Cognition, 45(10), 1883-1898.   \nG6mez DM,Mok,P., Ordin,M.， Mehler,J.，& Nespor，M. (2017). Statistical speech segmentation in tone languages: The role of lexical tones. Language & Speech, 61(1), 84-96.   \nGout, A., Christophe, A.，& Morgan,J.L.(2o04). Phonological phrase boundariesconstrain lexical acess II. Infant data. Journal of Memory and Language, 51(4), 548-567.   \nHoch,L.,Tyler,M. D.,& Tillmann,B. (2013).Regularityof unit length boosts statistical learning in verbal and nonverbal artificial languages.Psychonomic Bulletin & Review,20(1),142-147.   \nJohnson,E.K.，& Tyler，M.D.(2010).Testing the limitsof statistical learning for word segmentation. Development Science,13(2),339-345.   \nKurumada,C.， Meylan, S.C,& Frank，M. C. (2011). Zipfian word frequencies support statistical word segmentation. Proceedings of the Annual Meeting of the Cognitive Science Society， 33. Retrieved from https://escholarship.org/uc/item/58j0m9rq   \nLew-Williams, C.,& Safran,J.R. (2012). All words are not created equal: expectations about word length guide infant statistical learning. Cognition,122(2), 241-246.   \nMagezi,D.A. (2015).Linear mixed-effcts models for within-participant psychology experiments: An introductory tutorial and free, graphical user interface (LMMgui). Frontiers in Psychology，6. doi:10.3389/FPSYG.2015.00002   \nMcQueen, J. M. (1998). Segmentation of continuous speech using phonotactics. Journal of Memory and Language, 39(1), 21-46.   \nNazzi,T.,Dilly,L.C.,Jusczyk,A.M.,Shattuck-Hufnagel,S.,&Jusczyk,P.W. (2oo5).English-learng inants segmentation of verbs from fluent speech. Language and Speech, 48(3),279-298.   \nOnnis,L.,& Thiessen,E.D. (2013).Language experience changes subsequent learming. Cognition,126(2),268- 284.   \nPalmer,S.D., Hutson, J., White,L.,& Matts,S.L. (2019). Lexical knowledge boosts statisticaly-driven speech segmentation. Journal of Experimental Psychology: Learning, Memory,and Cognition, 45(1),139-146.   \nPalmer, S.D.,& Mattys,S.L. (2016). Speech segmentation by statistical learning is supported by domain-general processes within working memory. The Quarterly Journal of Experimental Psychology, 69(12),2390-2401.   \nPoter, C.E., Wang,T.,& Safran,J.R. (2O17). Second language experience facilitates statistical learning of novel linguistic materials. Cognitive science, 41(S4), 913-927.   \nPoulin-Charronnat,Bénedicte,Perruchet,P.,Tillmann,B.，& Peereman,R. (2O16).Familiarunits prevailover statistical cues in word segmentation. Psychological Research,81, 990-1003.   \nSaffran,J. R.,Aslin,R. N.,& Newport,E.L. (1996). Statistical learning by 8-month-old infants.Science,274, 1926-1928.   \nSaffran,J.R.,& Kirkham,N.Z.(2018). Infant StatisticalLearning.Annual Review ofPsychology,69(1),181-203.   \nSanders,L.D.,Newport,E.L.,& Nevile,H.J. (20o2).Segmenting nonsense: Anevent-related potential indexof perceived onsets in continuous speech. Nature Neuroscience,5(7), 700-703.   \nSchad,D.J.,Vasishth,S., Hohenstein,S.,& Kliegl,R. (202O).How tocapitalize ona prioricontrasts in linear (mixed) models: A tutorial. Journal of Memory and Language,110. doi:10.1016/j.jml.2019.104038   \nShoaib,A.,Wang,T.,Hay,J.F.,&Lany,J. (2018).Do Infants Learn Words From Statistics?EvidenceFrom English-Learning Infants Hearing Italian. Cognitive Science, 42(8),3083-3099.   \nSmith,N. A.,& Trainor,L.J. (2008). Infant-Directed Speech Is Modulatedby InfantFedback. Infancy,13(4), 410-420.   \nSiegelman,N.,Bogaerts,L.,Elazar,A.,Arciuli,J.,&Frost,R. (2o18).Linguistic entrenchment: prior knowledge impacts statistical learning performance. Cognition,177,198-213.   \nSiegelman,N.,Bogaerts,L.,&Frost,R. (2o17).Measuring individual diferences instatistical learning: Current pitfalls and possible solutions. Behavior Research Methods, 49(2), 418-432.   \nSuomi,K.,McQueen,J.M.,& Cutler,A. (1997). Vowel harmony and speech segmentation in Finnish.Journal of ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Memory and Language,36(3),422-444. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Thiessen，E.D.，Hill，E.A.，& Saffran，J.R.(2005).Infant-Directed Speech FacilitatesWord Segmentation. Infancy,7(1),53-71.   \nWang,T.,& Saffran,J.R.(2O14).Statistical learning of a tonal language:the influenceof bilingualism and previous linguistic experience.Frontiers in Psychology,5.doi:10.3389/fpsyg.2014.00953 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The influence of linguistic experience on statistical word segmentation YU Wenbol; WANG ${ \\mathrm { L u } } ^ { 1 }$ ; CHENG Xingyue1; WANG Tianlin²; ZHANG Jingjing?; LIANG ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Dandan1 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(lSchool of Chinese Language and Culture, Nanjing Normal University, Nanjing 210o97, China) (2School of Education, University at Albany, State University of New York, New York 1222, USA) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(School of Psychology, Nanjing Normal University, Nanjing 210097, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Ample statistical learning (SL） studies have shown that individuals can perform word segmentation by tracking the likelihood of syllable co-occurrences in continuous speech.The classic“exposure-test” paradigm was widely used in this field, in which participants were first exposed to an artificial language and then tested in a forced choice task to assess learning effects. Recently， research hasshown that participants’ linguistic background, including their phonological and lexical experience, may result in experience-dependent SL. After a systematic review, we also discussthe direction for future SL studies. Specifically, we suggest that for studies involving Mandarin native speakers,researchers should carefully examine the separate and combined effects of various linguistic experience in order to better understand statistical word segmentation. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: linguistic experience; statistical information; word segmentation ",
+        "page_idx": 13
+    }
+]

@@ -1,0 +1,428 @@
+[
+    {
+        "type": "text",
+        "text": "呼伦湖近年水情变化原因分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙占东，黄群，薛滨（中国科学院南京地理与湖泊研究所湖泊与环境国家重点实验室,江苏 南京210008）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：流域水量平衡变化机制及其效应的认识是理解湖泊水情变化与制定缓解措施的根本依据。针对2000年后呼伦湖持续水位的急剧下降，并考虑到流域监测资料稀缺的实际情况，借助遥感反演降水和蒸散时空数据序列，利用时空模式分解、趋势分析等方法揭示了流域降水时空变化特征及其引起的蒸散效应。结果表明：流域降水变化主要由空间分布及过程强弱互补的2个降水模式决定，这2个模式的变化解释了流域降水变化的 $6 7 . 4 \\%$ 。2000年后2个模式强弱的变化导致了流域整体降水由两侧山区向中部地势平坦区域的转变。流域中部受地形及气象条件影响，相比两侧山区产流效率偏低。因而降水空间分配的改变形成了更有利于增加陆面蒸散的供水条件，导致了流域蒸散占降水比重上升到较高水平。蒸散变化强度及趋势的时空特征分析也进一步确认了以上现象，这种降水模式的变化及其效应直接导致了流域水量平衡中可供产流的净雨量减少，是呼伦湖流域近年产流减少的根本原因。2000年后流域冻土消融补给的改变则对呼伦湖极端水情的发生起到了推波助澜的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水文气象；模式分析；湖泊-流域过程；水量平衡；呼伦湖文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水文气象过程作为一种典型的多尺度复合系统，一般由大小不同尺度“子系统\"综合作用而成。而这些“子系统”可以看作是大系统下的一些相对独立的模式。系统在某一时期的变化往往是当中某个(或某几个)模式强度上震动的结果[1-2]。不同区域气候条件和下垫面差异对水循环影响的研究也要求在不同尺度上对气象模式及其强弱变化开展分析[3-4]。蒙古高原地处欧亚大陆腹地,属东亚季风和西风环流影响的交错区，陆面水循环极易受气候波动影响。内蒙古地区面积大于 $1 \\mathrm { k m } ^ { 2 }$ 的湖泊数量由1987年前后的427个锐减到2010年的282个，占湖泊总数量的 $3 4 . 0 \\%$ ，成为湖泊萎缩消失最快地区[5-6]。期中,湖泊面积最大的呼伦湖水位变化也十分显著[7-9]。这些中高纬度干旱半干旱区湖泊水情的剧烈变化引起了学者和社会的广泛关注，一些研究认为这些湖泊水文变化是我国东北地区近年气候暖干化导致入湖水量减少引起的[10-11];另一些研究则认为流域内湿地面积大幅度缩减，以及植被破坏、草场退化对湖泊萎缩产生直接影响[8-12];也有研究认为区内高强度的人类活动，如煤炭开采耗水、灌溉耗水等在局部区域湖泊影响明显[5]。这些对呼伦湖水情的研究也从不同方面提出了导致其变化的可能原因[8-13],但由于呼伦湖流域产流区主要位于不同环流影响的过渡带区域，在水文气象变化模式及其尺度效应方面依然有待进一步深入。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大尺度气候变化往往是湖泊、流域极端水情发生的根本原因[14]。而这种气候变化的水文效应主要发生在流域水文循环过程中的哪个环节、集中在流域哪些区域等，需要从湖泊-流域过程角度对水量平衡关键分量及其变化特征进行系统分析。这些分析涉及到了流域下垫面变化的水文影响[14-15],区域湖泊周期性水情变化等时空尺度[16]。流域水文气象系统作为多尺度模式组合结果，受环流和地形等因素决定的降水在当中起着关键作用，是分析流域水文气象过程及其变化的主要方面[]。考虑到其对产流和蒸散的直接影响，成为流域水量平衡",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "变化研究的人手点。呼伦湖流域产流区位于境外且监测资料稀缺，限制了以往一些基础工作的开展，遥感反演数据的广泛生产，为类似研究提供了新的手段[18-22]。本研究针对以上问题从湖泊水情变化出发，基于遥感反演数据资料，借助多尺度的模式分析，从气候变化和流域水量平衡角度分析湖泊水情变化根本原因。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "呼伦湖为内蒙古和中国北方第一大淡水湖，流域跨中俄蒙三国交界，产流区集水面积 $2 3 . 8 { \\times } 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ (图1)。流域东侧的兴安岭山脉阻隔了东亚季风带来的湿润气流，西部的肯特山脉阻隔了西风环流，造成流域中心区域气候相对干燥，形成了受东亚季风和西风环流交替作用的气候特征。湖区多年平均气温在正负 $0 . 5 ~ \\mathrm { { ^ \\circ C } }$ 之间，降水量 $2 8 5 \\mathrm { m m }$ 。鉴于呼伦湖在调节区域气候、涵养水源、保护生物多样性等方面的重要性。1992年呼伦湖被国务院批准为国家级自然保护区；1994年纳入中蒙俄“CMR达乌尔”国际自然保护区；2002年被拉姆萨尔公约组织批准为国际重要湿地；同年被UNESCO纳入“世界",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生物圈保护区网络成员”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年呼伦湖湖泊水情发生了剧烈的趋势性变化。其水位在1991年达最高 $5 4 5 . 3 0 \\mathrm { m }$ 。2000年后水位开始快速下降，10a间水位持续下降达 $5 \\mathrm { m }$ 多，湖泊面积和蓄水量比历史最大值分别减少了 $2 6 \\%$ 和 $7 0 \\%$ 。伴随湖泊水位降低，湖泊水质咸化、碱化和富营养化不断加重，水生生物多样性减少、鱼类资源接近枯竭;同时湖泊湿地面积大幅度缩减、植被破坏、草场退化等问题凸显，严重威胁了流域生态安全及社会经济可持续发展[8-13]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到整个呼伦湖流域只有中国境内几处代表性气象站点连续监测数据，空间代表性很难反映出整个流域降水和蒸散模式变化。本研究在降水方面采用热带降雨测量卫星(TropicalRainfallMea-suringMission,TRMM)携带的测雨雷达(PR)获取的1998—2015年TRMM-3B43V7月累计降水数据[19],共计200余期影像序列，数据产品的空间分辨率为$0 . 2 5 ^ { \\circ } { \\times } 0 . 2 5 ^ { \\circ }$ ,覆盖范围包括整个呼伦湖域及周边毗邻区域。蒸散数据基于AVHRR和Modis遥感影像利用Penman-Monteith公式并参考其他信息建立的$8 ~ \\mathrm { k m }$ 分辨率1983—2006年间的月数据序列[20-21]考虑到反演数据产品部分取值存在的不足[23],根据地面监测资料分别对降水和蒸散数据进行了必要的验证和修订。利用临近点回归插值法修订了TRMM降水在湖泊水面存在的部分奇异高值，并对不产流区域缺失的蒸散数值根据降水情况进行了修正。水文数据除湖泊水位外，主要包括克鲁伦河与乌尔逊河两条主要入湖河流的年径流数据序列。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d79deb4a4b8a2086eb10bf50c90c65c57921d1006bcde9f0c3d19acb7af4063.jpg",
+        "img_caption": [
+            "图1呼伦湖流域地形、水系结构与湖泊水位变化特征",
+            "Fig.1 DEM of Hulun Lake Basin, streams and the lake water level change "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于获取的降水时空序列数据，采用经验正交函数分解（Empirical orthogonal function,EOF）对时空数据矩阵进行了模式提取。EOF基本原理是将时间尺度为 $\\mathbf { \\Phi } _ { t }$ 的 $n$ 个空间场 $F ( t , n )$ 分解成为时间权重矩阵 $T$ 和空间特征向量 $X$ 的乘积，如式(1)：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { _ { i j } } ^ { \\mathrm { ~ } } = \\sum _ { k = 1 } ^ { n } T _ { _ { i k } } X _ { _ { k j } } ^ { \\mathrm { ~ } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：i为时间采样次数 $\\cdot j$ 为空间样本数量； $k$ 为空间模式个数。通过运算得到每个空间特征场及其对应的时间演化权重系数，从而用更加易于理解的分解模式来反映降水的时空变化。其中的特征向量 $X$ 表现为空间模式，特征向量对应的时间权重系数 $T$ 在地学上也经常被称为主成分。应用中取对变化解释贡献较大的几个空间特征场和对应的时间权重系数来近似描述 $F ( t , n )$ 变化过程，从而达到简化和获取关键模式的目的，许多气候系统震动都是通过EOF分析获得的[24]。EOF方法的几何解释是多维坐标系统的正交旋转变化；在物理学上可以理解为平面驻波（变化过程表现为保持形状的上下起伏）。EOF方法本质上是基于统计的降维处理，其分析结果的实际物理意义可能具有一定的不确定性，因此在理解和解释时需要基于经验知识来给出判断。就降水而言，空间模式可以理解为在一定区域特定时段内规律性地发生的降水事件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1影响流域降水的主要模式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "流域尺度上，规律性的降水往往是环流和地形以及其他因素综合作用的结果。表1是对呼伦湖EOF分析所获得的前10个特征值及其特征向量所占总方差权重的百分比。从中可以看出，第一特征向量占了整个解释方差的 $5 1 . 7 \\%$ ,第二特征向量占解释方差的 $1 5 . 7 \\%$ ，这2个特征向量解释了降水变化的近 $7 0 . 0 \\%$ ，是分析降水变化的主要模式。第三到第七特征向量解释方差分别占 $4 . 4 \\% , 3 . 7 \\% , 3 . 0 \\%$ /$2 . 6 \\%$ 和 $2 . 2 \\%$ ，前10个特征向量累计解释方差接近$8 9 . 8 \\%$ 。从空间分布特征来看，前2个模式具有更大的独立性，是在流域空间尺度级别上具有独立物理机制的模式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2是流域降水前4个主要模式的空间特征。模式1(EOF1)反映了决定流域降水的最大模式，其空间特征上表现为东部兴安岭和中偏西肯特山东向坡地的2个降水中心，作为对降水变化起 $5 1 . 7 \\%$ 影响权重的因素。EOF1空间特征上与东亚季风对流域降水作用时形成的降水空间特征上较为一致(肯特山和兴安岭山前坡地);模式2(EOF2)重心位于呼伦湖至贝尔湖一线地势较低的中间地带，空间分布上与EOF1具有显著的互补特征，体现为西风环流作用下的降水特征;模式3(EOF3)表现为来自东北部局地影响，从模式重心来看，其主要影响范围为海拉尔河流域；模式4(EOF4)及其后模式在空间特征上变的比较散乱，说明在流域局部区域还存在一些小范围规律性的降水模式，从贡献上看这些模式对整个流域降水影响已经十分有限，其变化不足以对全流域产生大的影响，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2主要降水模式强度变化及其效应",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3中PC1\\~PC4是降水变化贡献最大的前4个主要模式强弱过程及其变化关系。从模式强弱的变化特征来看，作为影响流域降水最主要的模式1强弱变化过程(PC1)比较稳定，1998年出现一个显著的高值，与同年东亚季风对整个中国大陆降水巨大影响一致，但随后的1999—2011年间，其强度一直处于较弱的过程特征。与之相对应的模式2的强",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1EOF分解获取的降水主要模式及其解释权重",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/00ad280054129bbfbbf2b6631508ca971f18b67e75d4a4c012963bc66760840f.jpg",
+        "table_caption": [
+            "Tab.1 The explainable weights of the major EOFs "
+        ],
+        "table_footnote": [
+            "注：EOF1\\~EOF10为前10个空间模式；∑为对变化解释的累积。"
+        ],
+        "table_body": "<html><body><table><tr><td>指标</td><td>EOF1</td><td>EOF2</td><td>EOF3</td><td>EOF4</td><td>EOF5</td><td>EOF6</td><td>EOF7</td><td>EOF8</td><td>EOF9</td><td>EOF10</td></tr><tr><td>权重/%</td><td>51.7</td><td>15.7</td><td>4.4</td><td>3.7</td><td>3.0</td><td>2.6</td><td>2.2</td><td>2.2</td><td>2.1</td><td>1.8</td></tr><tr><td>£1%</td><td>51.7</td><td>67.4</td><td>71.8</td><td>75.5</td><td>78.5</td><td>81.5</td><td>83.7</td><td>85.9</td><td>88.0</td><td>89.8</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/727d24291fca7da5b66a76ce60b15cd2732c5acd64d262fb3ca9bdab324bbb67.jpg",
+        "img_caption": [
+            "干旱区地理"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cd31320d3451acf47b13552ca1a5975f985d5081405b363ab8cd791160a97f7.jpg",
+        "img_caption": [
+            "图2影响流域降水变化的前4个主要模式空间结构特征",
+            "Fig.2Spatial patterns of the four leading EOFs ",
+            "注：PC1\\~PC4为前4个空间模式的波动强度。",
+            "图3影响流域降水变化的前4个模式强度波动过程",
+            "Fig.3Amplitude of the first four leading EOFs "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "度(PC2)与PC1在总体呈互补的反相状态。在经历了1999—2011年模式1偏弱的过程后，2011年后2个模式强弱特征出现一定改变，模式1作用有所加强，模式2显著偏弱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合流域降水量与2个主要模式强弱过程的变化关系可以看出：一般当降水模式1较强的年份，流域总降水量较丰富，而当降水模式2较强的时候，流域总降水量则出现偏枯(图4)。反映了2个主要降水模式强弱变化对流域降水量的影响。模式1和模式2结构特征具有明显的流域尺度级别，这种流域尺度降水模式转换往往是较大区域气候影响下环流强弱变化的结果。与前2个模式相比，模式3及其后模式无论空间特征及波动强弱变化都相对分散随机，没有显著的长期规律性，其变化不足以对整个流域水量平衡产生大的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，遥感反演降水量数据及其EOF分析所揭示的降水模式及其变化特征可以看出：(1)1999—2015年间降水模式1偏弱，降水模式2增强，使得流域降水量比以往偏少约 $1 0 \\%$ ，这样的变化远远低于流域径流量 $5 0 \\%$ 以上的减少程度；(2)模式1偏弱和模式2增强，这种降水模式转变同时带来了降水量在流域空间上分布的变化。由于模式2的降水中心位于流域中间平原地带，随着模式2强度的增加和模式1强度的减弱，流域中部平坦区域在降水分配中获得了比以往更多的降水份额，而与之对应的流域两侧山区降水比重则有所降低。从降水强度和地形坡度对产流的影响角度，降水模式这种变化可能带来流域总的产流能力下降。同时，因为流域中部平原区属于典型缺水干旱的草原荒漠区，降水增加直接改善了蒸散的供水条件，从而形成更有利于下垫面蒸散对降水消耗的水循环效应。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3流域及湖泊水情响应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于现有的呼伦湖监测资料，获取了呼伦湖多年水量平衡要素的变化特征(表2)。可以看出，相对于湖面降水量与蒸发量过程，克鲁伦河与乌尔逊河来水变化程度更为剧烈。尤其是2000年后，两条河流入湖径流量比多年平均减少 $8 . 7 2 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，仅为多年平均的1/4左右。在水位下降影响下，呼伦湖2000年后几乎无出流，因此连续的入湖径流减少是呼伦湖近年水位下降直接原因。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8621a6efc17d4d8035c71b145c4f70f2ae57a3a23c478ad64db15b070418bbb.jpg",
+        "img_caption": [
+            "图4模式1与模式2强度变化引起的降水量与径流量效应差异 Fig.4Amplitude of the leading EOFs and effects with precipitation and runoff "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a424d218e6e4f2a9634135da35b75b4f11018e45542d4029cfa402291e75647.jpg",
+        "table_caption": [
+            "表2呼伦湖多年水量平衡要素变化特征",
+            "Tab.2Characteristics istic of major element for water balance of HulunLake ",
+            "/10m"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">克鲁伦河来水量</td><td colspan=\"3\">乌尔逊河来水量</td><td colspan=\"3\">湖面降水量</td><td colspan=\"3\">湖面蒸发量</td></tr><tr><td>极大值</td><td>极小值</td><td>平均值</td><td>极大值</td><td>极小值</td><td>平均值</td><td>极大值</td><td>极小值</td><td>平均值</td><td>极大值</td><td>极小值</td><td>平均值</td></tr><tr><td>12.02</td><td>0.39</td><td>4.82</td><td>18.42</td><td>0.05</td><td>6.60</td><td>13.95</td><td>2.83</td><td>5.67</td><td>22.10</td><td>10.59</td><td>17.23</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对流域多年径流、降水量和气温过程的初步分析显示，1990s年代后流域气温呈现了显著上升（1990年前后平均温差达 $1 . 3 ~ \\mathrm { { ^ { \\circ } C } }$ )，与同期气温变化过程相比，降水量虽略有下降，但幅度并不是很大（图5a)。但期间降水量与流域出口的径流量关系却发生了较大变化，不同年代间降水量与径流量的",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f526bdb7e4ca73007d600cc1745514c5adb2b9d8fefc51971558093f699adfa.jpg",
+        "img_caption": [
+            "图5流域气温、降水量变化以及降水-径流不同时期变化特征",
+            "Fig.5Changing patterns between temperature,precipitation and runoff "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "关系可以看出，在降水量变化并不是很大的情况下，2000s年代径流量出现显著加速下降的现象（图5b)。鉴于同期降水量相对历史略微下降 $1 0 \\%$ 左右，因此，从流域水量平衡中的降水-径流关系变化可以看出，在区域气候暖干化条件下流域蒸散对水循环的作用可能发生了较大变化，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对流域遥感反演多年蒸散过程的波动强度和线性斜率计算获得的流域多年蒸散动态强度及其趋势的分布特征，可以看出蒸散动态变化大的区域基本反映了蒸散加强的范围，且这些加强的区域主要集中在流域中游部分(图6)。这与2.2中模式1及模式2转换引起流域中部区域获得更多降水，从而形成更有利于这些区域蒸散的供水条件，最终导致该区域蒸散加强的认识相吻合。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2000年后流域降水量持续走低，但总量比多年平均偏低 $1 0 \\%$ 左右。而同期整个流域蒸散明显增加，尤其是流域中部平原区增加更为显著。同时，流域蒸散占降水比重则已较长时间高于0.7，而该比重一直持续至2006年(除了受1998丰水年的显著影响），且随后的2007—2010年该比例也超过了0.65的较高水平(图7a)。蒸散占降水比重变化反映出，随着区域温度升高，降水偏弱，可供流域自身产流的水量不断匮缺。尽管蒸发悖论的讨论中认为随着温度升高，北半球器测蒸发量不升反降，但流域实际蒸散发情况却因气候及下垫面特征差异而出现较大差异。呼伦湖流域的实际情况则反映出即便在降水未出现大幅度降低，伴随流域蒸散效应，一样可能显著增加干旱的风险[25]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从蒸散占降水比重的变化过程来看(图7a），2000年的呼伦湖水位急剧下降，可能并非一个短期极端气候变化的结果，而是一个1990s起就已经开始在流域干旱指数上显现端倪。因为蒸散与降水的比例关系比单纯的蒸散与单纯的降水更能综合体现区域气候条件，一定气候条件下的流域长周期产流往往不是单纯降水或蒸散单要素的变化所决定，而是在区域增温背景下，降水和蒸散比例关系决定的(图7b)。就呼伦湖流域而言，可以认为当流域蒸散占降水比例连续多年超过0.65时，流域尺度的水资源匮缺就可能发生。这些关于降水模式变化及其水文效应的研究可以为区域水资源变化驱动机制分析提供支撑[26-27]",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/29eba722481ccd353989ca4846d0a145e21fc09b46f9e1598713dbcb88d7c396.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e36747c8145204d4b9eeed8a7d11b74ea11fa9cfe403c94c33056d4777a959f.jpg",
+        "img_caption": [
+            "图6流域蒸散变化强度及其趋势空间分布特征",
+            "Fig.6Spatial patterns of the dynamic and trend for ET ",
+            "图7蒸散占降水比重变化及其与流域水平衡关系 Fig.7EvolutionofET/Pre and itsrelationwithPre-Et "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "考虑到流域蒸散占降水比重的提升在上个世纪90年代初即已出现，而2000年才出现流域入湖径流及湖泊水位急剧下降。因此，在1990s至2000年间流域可能存在其他形式径流补给的调节作用。呼伦湖流域东侧乌尔逊河源的大兴安岭，多年冻土处于欧亚大陆冻土带南缘，该地带冻土层厚度薄，其变化对气温升高极为敏感。上个世纪70年代以来冻土带南缘北移达 $3 0 { \\sim } 1 0 0 ~ \\mathrm { k m }$ ，至2000年永久冻土几乎退出呼伦湖流域[28]。流域大规模多年冻土消退过程的融水径流直接补给了河川径流，对1990s期间的河湖水情起到了一定的调节作用。而失去多年冻土退化带来的融水补给作用，也是2000年后呼伦湖发生急剧水情变化的重要推动原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "借助遥感反演降水和蒸散数据，利用EOF等方法揭示了呼伦湖流域降水模式及其强度的演化过程，结合流域水文过程的综合分析可以看出：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）流域尺度上，受西风环流和东亚季风的影响，形成了2个带有互补特征的降水模式,这2个主要降水模式的波动解释了流域降水变化的 $6 7 . 4 \\%$ 。其中，模式1的高降水中心位于流域两侧山区;而模式2的高降水中心则位于流域中部地势平坦区域。2000年后模式强弱变化使流域获得总降水量有所减少，但减少幅度只有 $1 0 \\%$ 左右，远小于同期地表径流量超过 $5 0 \\%$ 的降幅。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)2个降水模式强弱变化带来了流域蒸散加强的水文循环效应。2000年后，模式1变弱、模式2加强使更多的降水发生在流域中部平原区，形成了不利产流，而有利蒸散的流域水循环效应，使得流域蒸散占降水比重显著增加，更多的降水随蒸散返回大气。因此，2个降水模式2000年前后强弱转变，导致了流域总降水量偏少，同时蒸散占降水比重不断升高，是流域径流减少和湖泊水位下降根本原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）流域大规模多年冻土退化带来的融水效应变化也是引起河湖水情急剧变化的一个重要方面。2000年前，温升导致流域冻土不断退化，退化的融水补给了河川径流，多年冻土区在2000年左右几乎退出流域南部产流区，融水补给作用消失殆尽。失去冻土退化调节作用是2000年后呼伦湖发生急剧水位下降重要推动原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Dommenget D,Latif M.A cautionary note on the interpretation of EOFs[J]. Journal of Climate,2002,15: 216-225.   \n[2]Sivapalan M K,Takeuchi SW,Franks VK,et al.IAHS decade on predictions in ungauged basins (PUB),2003—2012: Shaping an exciting future for the hydrological sciences[J].Hydrological Science Journal, 2003,48: 857-880.   \n[3]Huntington TG.Evidence forintensification of the global water cycle: Review and synthesis[J].Journal of Hydrology,2OO6,319: 83-95.   \n[4]Beven K J. Uniqueness of place and the representation of hydrological processes[J]. Hydrology and Earth System Sciences,2000,4: 203-213.   \n[5]Tao Shengli,Fang Jingyun,Zhao Xia,etal.Rapid loss of lakes on the Mongolian Plateau[J]. Proceedings of the National Academy of Sciences,2015,112: 2281-2286.   \n[6]Yang Xiankun,Lyu Xixi. Drastic change in China's lakes and reservoirs over the past decades[J]. Scientific Reports,2O14,4: 1-10.   \n[7]万华伟,康峻,高帅环,等.呼伦湖水面动态变化遥感监测及气 候因素驱动分析[J].中国环境科学,2016,36(3):894-898. [Wan Huawei, Kang Jun,Gao Shuaihuan,et al.Study on dynamic change of Hulun Lake water area and climate driving force analysis[J].China Environmental Science,2016,36(3): 894-898.]   \n[8]王志杰,李畅游,李卫平,等.内蒙古呼伦湖水量平衡计算与分 析[J].湖泊科学,2012,24(2): 273-281.[Wang Zhijie,Li Changyou,Li Weiping,et al. Calculation and analysis of water balance in Lake Hulun,Inner Mongolia[J]. Journal of Lake Science,2012,24 (2): 273-281.]   \n[9]秦伯强,王苏民.呼伦湖的近期扩张及其与全球气候变化的关 系[J].海洋与湖沼,1994,25(3):280-287.[Qin Boqiang,Wang Sumin.The recent expansion of Hulun Lake and its relation to warning global climate[J]. Oceanologia et Limnologia Sinica, 1994,25(3): 280-287.]   \n[10] 赵慧颖,乌力吉,郝文俊.气候变化对呼伦湖湿地及其周边地区 生态环境演变的影响[J].生态学报,2008,28(3):1064-1071. [Zhao Huiying,Wu Liji,Hao Wenjun.Influences of climate change to ecological and environmental evolvement in the Hulun Lake wetland and its surrounding areas[J]. Acta Ecologica Sinica,2008, 28(3): 1064-1071.]   \n[11]赵宗慈,罗勇.21世纪中国东北地区气候变化预估[J].气象与 环境学报,2007,23(3):1-4.[Zhao Zongci,Luo Yong.Projections of climate change over northeastern China for the 2lst century[J]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Journal of Meteorology and Environment,2007,23(3): 1-4.]   \n[12] 杨久春,张树文.近50年来呼伦湖水系土地利用/覆被变化及 其生态环境效应[J].干旱区资源与环境,2009,23(2):41-46. [Yang Jiuchun, Zhang Shuwen.Land use/cover change and its ecoenvironmental effects in Hulun-Lake Basin during the past 50 years[J]. Journal of Arid Land Resources and Environment, 2009, 23(2): 41-46.]   \n[13] 李,马巍,史晓新,等.呼伦湖水位、盐度变化(1961—2002年) [J].湖泊科学,2006,18(1):13-20.[Li Chong,Ma Wei,Shi Xiaoxin,et al.Reconstruction of the hydrology series and simulation of salinity in ungauged Lake Hulun[J]. Journal Lake Science,2006, 18(1): 13-20.]   \n[14] Sun Zhandong,Groll Michael, Opp Christian.Lake-catchment interactions and their responses to hydrological extremes[J]. Quaternary International, 2018,475:1-3.   \n[15] 李晓东,赵慧芳,汪关信,等.流域水热条件和植被状况对青海 湖水位的影响[J].干旱区地理,2019,42(3):499-508.[Li Xiaodong,Zhao Huifang,Wang Guanxin,et al. Influence of watershed hydrothermal conditions and vegetation status on lake level of Qinghai Lake[J]. Arid Land Geography,2019,42(3): 499-508.]   \n[16] 朱刚,高会军,曾光.近35a来新疆干旱区湖泊变化及原因分析 [J].干旱区地理,2015,38(1):103-110.[Zhu Gang,Gao Huijun, Zeng Guang. Lake change research and reasons analysis in Xinjiang arid regions during the past 35 years[J]. Arid Land Geography, 2015,38(1): 103-110.]   \n[17]Wagenner T, Sivapalan M,Troch PA,et al. The future of hydrology:An evolving science for a changing world[J]. Water Resources Research,2010,46:W05301,doi: 10.1029/2009WR008906.   \n[18]Birkett C M, Mason IM.A new global lakes database for a remotesensing program studying climatically sensitive large lakes[J]. Journal of GreatLakes Research,1995,21(3): 307-318.   \n[19]Kawanishi TH,Kuroiwa M,Kojima K,et al.Rain profiling algorithm for TRMM precipitation radar data[J].Advance in Space Research,2000,25(5): 969-972.   \n[20]Mi Q Z, Zhao M S,Running S W.Improvements to a MODIS global terrestrial evapotranspiration algorithm[J]. Remote Sensing of Environment,2011,115(8): 1781-1800.   \n[21] Zhang K,Kimball J S,Nemani RR,et al.A continuous satellitederived global record of land surface evapotranspiration from 1983 to 2006[J]. Water Resources Research,2010,46: 1-21.   \n[22] 邹磊,余江游,夏军,等.基于SPEI的渭河流域干旱时空变化特 征分析[J].干旱区地理,2020,43(2):329-338.[Zou Lei,Yu Jiangyou, Xia Jun,et al. Temporal-spatial variation characteristics of drought in the Weihe River Basin based on SPEI[J].Arid Land Geography,2020,43(2): 329-338.]   \n[23]Xu C Y,Singh V P.Evaluation of three complementary relationship evapotranspiration models by water balance approach to estimate actual regional evapotranspiration in different climatic regions[J]. Journal of Hydrology,2005,308(1-4): 105-121.   \n[24]Lorenz E. Climate change as a mathematical problem[J]. Journal of Applied Meteorology,1970,9: 325-329.   \n[25]Brutsaert W,Parlange MB.Hydrologic cycle explains the evaporation paradox[J]. Nature,1998,396(6706): 30.   \n[26] 秦豪君,韩永翔.近56a蒙古高原草原地上净初级生产力变化 [J].干旱区地理,2019,42(4): 914-922.[Qin Haojun,Han Yongxiang.Change of above ground net primary productivity of grassland over the Mongolian Plateau in recent 56 years[J].Arid Land Geography,2019,42(4): 914-922.]   \n[27] 代海燕,李丹,娜日苏,等.内蒙古干湿环境演变与地区生态建 设优势气候背景分析[J].干旱区地理,2019,42(4):745-752. [Dai Haiyan,Li Dan,Na Risu,et al.Dry and wet environment evolution and climatic background analysis of regional ecological construction in Inner Mongolia[J].Arid Land Geography,2O19,42(4): 745-752.]   \n[28] 金会军,于少鹏,吕兰芝,等.大小兴安岭多年冻土退化及其趋 势初步评估[J].冰川冻土,2006,28(4):467-476.[Jin Huijun, Yu Shaopeng,Lyu Lanzhi,et al. Degradation of permafrost in the Da and Xiao Xingan Mountains,northeast China,and preliminary assessmentof itstrendJ].JournalofGlaciologyandGeocyology 2006,28(4): 467-476.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Recent hydrological dynamic and its formation mechanism in Hulun Lake catchment ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SUN Zhandong， HUANG Qun， XUE Bin (State Key Laboratory of Lake Science and Environment,Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences,Nanjing 21ooo8, Jiangsu, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A comprehensive understanding of the catchment water balance change is critical for evaluating lake hydrological regimes and adaption strategies.The abrupt lake water level decrease in Hulun Lake,Inner Mongolia, China, since 2Ooo has significantly influenced lake eco-environments. Given the sparse gauging data in the catchment,the study pred-ominantly analyzed remote sensing retrieved precipitation and evapotranspiration (ET)data to reveal the spatial-temporal patternsand their dynamics.The results indicate that signals of largescale precipitation variations can be well-described using the empirical orthogonal function (EOF). Spatially, the precipitation in the Hulun Lake watershed is dominated by two leading EOF patterns at the basin scale, explaining $67 . 4 \\%$ of the total changes in precipitation. The two leading patterns present complementary features of the high-value centers in space.The high-value center in patern 1 is on mountainous slopes,and the highvalue center in patern 2 is in the middle flat plain region.First,the strengthening in EOF pattrn 2 and weakening in EOF pattern 1 resulted in a $10 \\%$ precipitation decrease,which is far less than the decreasing river discharge.Second,the shift between the precipitation amplitudes of patterns l and 2 also triggers changes n the spatial distribution of precipitation over the watershed, increasing precipitation in the central part of the watershed but not in the mountain regions on the two sides of the watershed as usual. Such variation weakened the capacity of total runof production and triggered an increased ET because of spatial heterogeneity in hydrology.The runoff generation condition in the middle area is not smaler than in the upper areas affcted by landform and hydrothermal conditions,causing more water returns to the atmosphere by ET.The dynamics and trend pattrns in ETconfirm this efect.The long-term impact of such changes is an increasing ET to precipitation ratio and decreasing precipitation to runoff generation ratio.Thus,the change in the relationship between precipitation and ET is the principal cause of reduced river runoff and hydrological extremes in the terminal lake during the past decades,impacted by regional climate warming and drying.The ET to precipitation (ET/P) ratio has reached a relatively high value since the early 199Os but did not result in a hydrological extreme.Located on the southern edge ofthe permafrost zone of the Eurasian continent, the recharge from the permafrost degradation caused by climate warming has offset part of the river channel water deficit before 1999.However, when the recharge effect of permafrost degradation vanished after 2Oo0,river discharge started a fast drop period,causing a sharp decrease in the lake water level since 2Ooo.Therefore,the significant changes in the recharge from the permafrost degradation have worsened the hydrological extremes of the lake. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: hydro-meteorology; pattrns recognition; lake-catchment process; water balance; Hulun Lake ",
+        "page_idx": 8
+    }
+]

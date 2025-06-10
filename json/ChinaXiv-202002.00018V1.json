@@ -1,0 +1,316 @@
+[
+    {
+        "type": "text",
+        "text": "2019-novel coronavirus (2019-nCoV) infections trigger an exaggerated cytokine response aggravating lung injury ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yingxia Liu1,5， Cong Zhang2,3.5， Fengming Huang3,5, Yang Yang1,5, Fuxiang Wang1, Jing Yuan1, Zheng Zhangl, Yuhao $\\mathrm { Q i n } ^ { 3 }$ , Xiaoyun $\\mathrm { L i } ^ { 3 }$ , Dandan Zhao³, Shunwang $\\mathrm { L i } ^ { 3 }$ Shuguang Tan4, Zhaoqin Wangl, Jinxiu $\\mathrm { L i } ^ { 1 }$ ， Chenguang Shen1， Jianming $\\mathrm { L i } ^ { 1 }$ , Ling Pengl, Weibo Wu1, Mengli Cao1,Li Xingl, Zhixiang $\\mathrm { { X u ^ { 1 } } }$ , Li Chen1, Congzhao Zhou², William J. Liu4\\*, Lei Liu1\\*, Chengyu Jiang 3\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Shenzhen Key Laboratory of Pathogen and Immunity, National Clinical Research Center for infectious disease, State Key Discipline of Infectious Disease, Shenzhen Third People's Hospital, Second Hospital Afiliated to Southern University of Science and Technology, Shenzhen, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.Hefei National Laboratory for Physical Sciences at the Microscale and School of Life Sciences, University of Science and Technology of China, Hefei, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.The State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences, Department of Biochemistry, Peking Union Medical College, Beijing, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4.The NHC Key Laboratory of Biosafety, National Institute for Viral Disease Control and Prevention, China CDC, Beijing, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5 These authors contributed equally. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A recent outbreak of pneumonia in Wuhan, China was caused by 2O19 novel coronavirus (2019-nCoV). Here we reported 12 patients with 2019-nCoV infections in Shenzhen,China; all of them developed pneumonia and half developed acute respiratory distress syndrome (ARDS). We demonstrated the plasma cytokine profiles of these 12 patients. Thirty-eight out of 48 cytokines measured in the plasmas of 2019-nCoV infected patients were significantly elevated compared to healthy individuals. Seventeen cytokines were linked to 2019-nCoV load. Fifteen cytokines,M-CSF, IL-10, IFN-α2,IL-17, IL-4, IP-10, IL7, IL-1ra, G-CSF, IL-12, IFN $\\boldsymbol { \\cdot } \\boldsymbol { \\gamma }$ , IL-1α, IL-2, HGF, and PDGF-BB, were strongly associated with lung injury Murray score, and could predict disease severity of 2019-nCoV infections according to area under the curve (AUC) of the receiveroperating characteristics (ROC) calculations. Our results suggest that 2019-nCoV infections trigger extensive changes in a wide array of cytokines, some of these cytokines could be potential biomarkers of disease severity of 2o19-nCoV infections. These findings improve our understanding of the immunopathologic mechanisms of this emerging and still evolving disease and suggest that modulators of cytokine responses could play a therapeutic role in combating the disease. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since the outbreak of 2019 novel coronavirus (2019-nCoV) infections in late December, 2019 in Wuhan,Hubei Province, Chinal-9,the number of infected persons has exceeded 10,000 and already surpassed that of the previous severe acute respiratory syndrome (SARS) epidemicl0. Hitherto, reflecting the geographical reach of the pandemic-prone coronaviruses, 2O19-nCoV-infected cases have been reported in Thailand11, Germanyl2, the USA1’ and other parts of the world. The mortality rate is $1 5 \\%$ for a case series of 41 hospitalized patients with 2O19-nCoV infections in Wuhan, China³, compared with $10 \\%$ for SARS-CoV and $37 \\%$ for Middle East respiratory syndrome coronavirus (MERS-CoV)14. Although 2019-nCoV, the seventh reported human-infecting member of the family Coronaviridae, which also includes SARS-Cov15 and MERS-CoV16,17, has been identified as the causative agent, the immunopathologic mechanisms of 2019- nCoV-associated diseases have not been elucidated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "One prominent feature of 2O19-nCoV infections is the presence of acute respiratory distress syndrome (ARDS） in a sizable proportion of the documented 2O19-nCoVinfected cases: $2 9 \\%$ (12/41) in the series by Huang et $a l ^ { 3 }$ and $17 \\%$ in a series of 99 cases of 2019-nCoV pneumonia18. An elevated production of proinflammatory cytokines/chemokines19 or even hypercytokinemia20.21,also known as cytokine storm, is present in SARS-CoVand MERS-CoV infections15.1622 and contributes to acute lung injury and development of ARDsl9. In this study，we examined the plasma cytokine/chemokine profile of 12 patients with laboratory-confirmed 2019-nCoV infections in Shenzhen, China versus 8 healthy subjects,8 bacterial pneumonia patients, and 8 patients with influenza virus A H7N9 infections (see Extended Data Table 1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Analysis using the Bio-Plex Pro Human Cytokine Screening Panel revealed that extensive and significant elevations in 38 out of 48 plasma cytokines/chemokines in patients with severe 2019-nCoV pneumonia (2019-nCoV-S) versus healthy individuals, suggesting the occurrence of hypercytokinemia in 2O19-nCoV-S patients (see Extended Data Table 2). Overall, the plasma cytokine/chemokine levels in 2019-nCoV-S patients were markedly lower than H7N9 influenza virus A-infected patients, but moderately higher than patients with bacterial pneumonia (see Extended Data Table 2). In addition, the plasma cytokine/chemokine levels were higher at week 2 than week 1 from symptomatic onset of 2019-nCoV infections (see Extended Data Table 3). The plasma cytokine/chemokine levels were comparable between days 8-14 since illness onset and day15afterillnessonset，indicatingpersistent elevationsofplasma cytokines/chemokines at the later stage of the disease (see Extended Data Table 3), which are consistent with clinical features of 2019-nCoV infections 1.2.23. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We quantified viral RNA loads in throatswabs，sputum，and bronchoalveolar lavage fluid (BALF） samples by quantitative reverse transcription polymerase chain reaction (qRT-PCR) (see Extended Data Table 4). Our Spearman correlation analysis revealed that 2019-nCoV viral load was highly positively associated with the plasma levels of 16 cytokines (M-CSF, IL-10, IFN-α2, IL-13, IL17, IL-4, IP-10, IL-1β, IL-7, IL-1ra, G-CSF, IL-12, IFN-γ, IL-1α, IL-2,and HGF), and negatively associated with PDGF-BB (Table 1). The findings suggest that 2019-nCoV infection was associated with an elevated production of a wide array of cytokines/chemokines in the plasma of 2019-nCoV infected patients. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Using Spearman rank coefficient correlation analysis, we discovered a strong positive linear association between the plasma levels of 15 cytokines (IL-12, IFN-γ, IL-2, HGF, IFN-α2, IL-4, IL-17, IP-10, G-CSF, IL-10, IL-1ra, M-CSF, IL-1α,and IL-7) in 2019- nCoV-infected patients and lung injury Murray score and a negative association between PDGF-BB and Murray score (Fig. 1). The area under the curve (AUC) of the receiver operating characteristic (ROC) was above 0.8 for each of these 15 cytokines, indicating that these cytokines could predict disease severity of 2019-nCoV infections (Fig. 2). Furthermore, the plasma cytokines/chemokines levels in 2019-nCoV-S patients were significantly different than 2019-nCoV-M patients (Fig. 3). Our data suggested that these 15 cytokines may be biomarkers for disease severity in 2019-nCoV infected patients. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In summary, we have demonstrated that hypercytokinemia occurred in 2019-nCoV infected patients. We have discovered that 15 cytokines are linearly associated with lung injury (Murray score) and may be potential biomarkers for disease severity. These cytokines include anti-viral cytokines IFN-α2 and IFN- $\\cdot \\gamma$ ,ILlra, IL2,4,7,10,12 and 17, chemokine IP-10,as well as G-CSF and M-CSF. It is interesting that the levels of proinflammatory cytokines Th1, Th2, and Th17 were all increased. Previous studies have demonstrated marked elevation of IP-10, IL-6, IL-8,MCP1, and MIP- $1 \\alpha$ in serums from SARS-CoV infected patients15,24, and a significant increase of IL-10, 15, and 17 as well as IFN α2 and $\\gamma$ in plasma samples collected from MERS-CoV infected patients16,17. Although measurements of plasma cytokines were not performed at the same time, the increased level of cytokines in blood samples from SARS-CoV15,24 and ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MERS- $\\mathrm { \\cdot { C o } V ^ { 1 7 } }$ infected patients appeared considerably higher than levels in 2019-nCoV infected patients. The most extreme case of hypercytokinemia detected in humans may come from serum samples of patients infected with avian influenza A virus. In some cases, hypercytokinemia factors have been associated with; IP-10, MCP-1, MIG, and IL-8 of patients infected with H5N1 virus25,26，as well as MIF, SCF, MCP-1,HGF, SCGF-beta, IP-10, IL-18,and IFN-γ in patients infected with H7N9 virus24,27. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although the mechanisms of cytokine-mediated communication are largely unknown, attempts to use cytokines or cytokine inhibitors therapeutically have been increasingly successfu128,29. Interferon $\\alpha$ and $\\gamma$ have been frequently used clinically despite their unpleasant side effects30-32,and interferon $\\gamma$ is an officilly recommended drug for treatment of 2O19-nCoV infected patients in China National Health Commission Guidelines for Diagnosis and Treatment of 2019-nCoV Pneumonia³³.A number of antagonistic antibodies to cytokines have been used clinically or in clinical trials for the treatment of autoimmune or autoinflammatory diseases (including monoclonal antibodies against IL $\\cdot 1 ^ { 3 4 }$ ,IL $1 0 ^ { 2 8 }$ ， $\\mathrm { I L } { - } 1 2 ^ { 3 5 }$ ,IL- $1 7 ^ { 3 6 }$ ,and IP- $1 0 ^ { 3 7 }$ ). These antibodies can be repurposed to attenuate hypercytokinemia in 2019-nCoV infected patients and may provide potential treatment for the current outbreak of 2019-CoV. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "METHODS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Experimental ethics policy ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The study protocol was approved by the Ethics Committees of Shenzhen Third People's ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hospital (SZTHEC2016001). Verbal informed consents were obtained from all patients or patients family members. The study was conducted in accordance with the International Conference on Harmonisation Guidelines for Good Clinical Practice and the Declaration of Helsinki and institutional ethics guidelines. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acquisition of clinical specimens ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Throat swabs, rectal swabs,and sputum, and BALF specimens were collected within 24 hours of blood sample collection from laboratory-confirmed 2019-nCoV cases upon admission in January 2O2O and at various time points thereafter. Plasma samples were collected from 8 healthy subjects undergoing wellness examination in the hospital in the interim. In addition,we obtained archived plasma samples from 8 patients with laboratory-confirmed H7N9 infections who were hospitalized between January 2015 and March 2017, and 8 bacterial pneumonia patients who were hospitalized between August and December 2019. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "qRT-PCR ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Viral RNAs were extracted from clinical specimens using the QIAamp RNA Viral Kit (Qiagen, Heiden, Germany) as instructed by the manufacturer. They were amplified by quantitative reverse transcription polymerase chain reaction (qRT-PCR) using primers and probes recommended by Chinese Center for Diseases Control and Prevention (China CDC)3, and a commercially available kit for 2019-nCoV detection (GeneoDX Co.，Shanghai, China). Samples with a cycle threshold (Ct） value $\\leq 3 8 . 0$ were considered putatively positive. Samples whose $\\mathrm { C _ { t } }$ was higher than 38 were re-tested and considered positive if $\\mathrm { C _ { t } }$ was $\\geq 3 8$ but $\\leq 4 0$ and negative if viral RNAs were undetectable on the second test ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Disease severity classification and Murray Score calculation ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Severity of 2O19-nCoV infection was graded according to China National Health Commission Guidelines for Diagnosis and Treatment of 2019-nCoV infection. Briefly, a patient was considered to have mild 2019-nCoV pneumonia (2019-nCoV-M) if he or she had fever, respiratory manifestations and radiological findings indicative of pneumonia. A patient was considered to have severe 2019-nCoV pneumonia (2019- nCoV-S) if he or she met any of the following: 1) respiratory distraction (respiration rate≥30/min; 2) resting oxygen saturation ${ \\leq } 9 3 \\%$ , or 3）arterial oxygen partial pressure $( \\mathrm { P a O } _ { 2 } ) /$ fraction of inspired oxygen $\\left( \\mathrm { F i O } _ { 2 } \\right)$ $\\leq 3 0 0$ mmHg ( $\\mathrm { 1 \\ m m H g = 0 . 1 3 3 \\ k P a ) }$ .a patient was considered to have critical 2019-nCoV pneumonia (2019-nCoV-C) if he or she had any of the following: 1) respiratory failure requiring mechanical ventilation, 2) shock, or 3) failure of other organs requiring ICU care. Clinicopathological variables of 12 patients with 2019-nCoV infections including 4 2019-nCoV-M patients, 5 2019- nCoV-S patients and 3 2019-nCoV-C patients were collected at admission, and disease severity was assessed using Murray scores39. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cytokine and chemokine measurements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plasma concentrations of 48 cytokines and chemokines were measured in duplicate ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "using Bio-Plex Pro Human Cytokine Screening Panel (48-Plex #12007283, Bio-Rad) according to the manufacturer's instructions. The plasma samples were fixed in $2 \\%$ paraformaldehyde before analysis and measured in biosafety level III laboratory. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Spearman rank correlation coeficient was used for linear correlation analysis between plasma cytokine levels and Murray score of patients with 2019-nCoV infections. The area under the receiver operating characteristic (ROC) curve (AUC) of plasma cytokine levels was estimated for 2019-nCoV-M and 2019-nCoV-S infections. ANOVA or Mann-Whitney U test were used to compare plasma cytokine levels among the groups. All statistical tests were calculated using SPSS 16.O for Windows (SPSS, Inc., Chicago, IL, USA). A two-tailed P value of less than 0.O5 was considered to be statistically significant. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1. Zhu,N., et al. A Novel Coronavirus from Patients with Pneumonia in China,2019.The New England journal of medicine (2020).   \n2. Chan,J.F.-W.，et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmisson: a study of a family cluster. The Lancet (2020).   \n3. Huang， C.，et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet (2020).   \n4. Huang，C.，et a/. Clinical features of patients infected with 2O19 novel coronavirus in Wuhan, China. The Lancet (2020).   \n5. Lu, H., Stratton, C.W.& Tang, Y.W. Outbreak of Pneumonia of Unknown Etiology in Wuhan China: the Mystery and the Miracle.JMed Viro/(2020).   \n6. Tan WJ, Z.X.,Ma XJ,et al.A novel coronavirus genome identified ina cluster of pneumonia cases — Wuhan,China 2019-2020. China CDC Weekly(2020).   \n7. Xintian Xu, P.C., Jingfang Wang, Jiannan Feng, Hui Zhou, Xuan Li,Wu Zhong and Pei Hao. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Science China Life Sciences (2020).   \n8. Zhang,N., eta/. Recent advances in the detection of respiratory virus infection in humans. J Med Virol (2020).   \n9. Hui，D.S.， et al. The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health - The latest 2019 novel coronavirus outbreak in Wuhan, China. Int J Infect Dis 91,264-266 (2020).   \n10. http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm#NHCFeb01 (accessed Feb 1,   \n2020).   \n11. Sookaromdee P.，W.V. Imported cases of 2019-novel coronavirus (2019-nCoV） in Thailand: Mathematical modeling of the outbreak.. Asian Pac J Trop Med. (2020.).   \n12. Rothe,C.,et a/. Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N Engl J Med (2020).   \n13. Holshue,M.L., et al. First Case of 2019 Novel Coronavirus in the United States. N Eng/ J Med (2020).   \n14. Zaki,A.M.,van Boheemen, S., Bestebroer,T.M., Osterhaus,A.D.& Fouchier, R.A. Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia. N Engl J Med 367,   \n1814-1820 (2012).   \n15. Jiang,Y., etal. Characterization of cytokine/chemokine profiles of severe acute respiratory syndrome. Am J Respir Crit Care Med 171,850-857 (2005).   \n16. Mahallawi, W.H., Khabour, O.F., Zhang, Q., Makhdoum, H.M.& Suliman, B.A. MERS -CoV infection in humans is associated with a pro-inflammatory Th1 and Th17 cytokine profile. Cytokine 104,8-13 (2018).   \n17. Niu, P., et al. A novel human mAb (MERS-GD27) provides prophylactic and postexposure efficacy in MERS-CoV susceptible mice. Sci China Life Sci61,1280-1282 (2018).   \n18. Chen，N.,et al. Epidemiological and Clinical Characteristics of 99 Cases of 2019-Novel Coronavirus (2019-nCoV) Pneumonia in Wuhan, China. (2020).   \n19. Channappanavar, R.& Perlman, S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Semin Immunopatho/39,529-   \n539 (2017).   \n20. Zhang,Y.，et al. Analysis of serum cytokines in patients with severe acute respiratory syndrome. Infect Immun 72, 4410-4415 (2004).   \n21. Sheng,W.H., et a/. Clinical manifestations and inflammatory cytokine responses in patients with severe acute respiratory syndrome. J Formos Med Assoc 104,715-723 (2005).   \n22. Chien，J.Y.，Hsueh，P.R.，Cheng，W.C.，Yu，C.J.& Yang，P.C.Temporal changes in cytokine/chemokine profiles and pulmonary involvement in severe acute respiratory syndrome. Respirology11, 715-722 (2006).   \n23. Cao,Y., et a/. Nanopore sequencing: a rapid solution for infectious disease epidemics. Sci China Life Sci62,1101-1103 (2019).   \n24. Kuba，K.，et al. A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury. Nat Med11, 875-879 (2005).   \n25. Zou,Z.，et al. Angiotensin-converting enzyme 2 protects from lethal avian influenza A H5N1 infections. Nat Commun 5,3594 (2014).   \n26. de Jong MD1,S.C., Thanh TT, Hien VM,Smith GJ, Chau TN, Hoang DM, Chau NV, Khanh TH,Dong VC, Qui PT, Cam BV, Ha do Q,Guan Y, Peiris JS, Chinh NT, Hien TT,Farrar J. Fatal outcome of human influenza A (H5N1) is associated with high viral load and hypercytokinemia. Nat Med (2006).   \n27. Guo,J., et al. The Serum Profile of Hypercytokinemia Factors ldentified in H7N9-Infected Patients can Predict Fatal Outcomes. Sci Rep 5,10942 (2015).   \n28. Ferrari, S.M., etal Novel therapies for thyroid autoimmune diseases: An update. Best Pract Res Clin Endocrinol Metab,101366 (2019).   \n29. Fallahi， P.，et al. The aggregation between AITD with rheumatologic,or dermatologic, autoimmune diseases. Best Pract Res Clin Endocrinol Metab,101372 (2019).   \n30. Bi,Y.H., et a/. Clinical and Immunological Characteristics of Human Infections With H5N6 Avian Influenza Virus. Clin Infect Dis 68,1100-1109 (2019).   \n31. Pestka S，K.C.，Walter MR. Interferons， interferon-like cytokines，and their receptors. Immunol Rev(2004).   \n32. Shim JM,K.J.,Tenson T,Min JY, Kainov DE. Influenza Virus Infection,Interferon Response, Viral Counter-Response,and Apoptosis. Viruses (2017).   \n33. China National Health Commission Guidelines for Diagnosis and Treatment of 2019 -nCoV Pneumonia.http://www.gov.cn/zhengce/zhengceku/2020- 01/28/5472673/files/0f96c10cc09d4d36a6f9a9f0b42d972b.pdf. (2020).   \n34. Mantovani, A.， Barajon,I.& Garlanda,C. IL-1 and IL-1 regulatory pathways in cancer progression and therapy. Immunol Rev281, 57-61 (2018).   \n35. Teng，M.W.，et al. IL-12 and IL-23 cytokines: from discovery to targeted therapies for immune-mediated inflammatory diseases. Nat Med 21, 719-729 (2015).   \n36. Li, C.G., et al. IL-17 response mediates acute lung injury induced by the 2009 Pandemic Influenza A (H1N1) Virus. Cel Res 22, 528-538 (2012).   \n37. Wang,W.，et al. Monoclonal antibody against CXCL-10/IP-10 ameliorates influenza A (H1N1) virus induced acute lung injury. Cel Res 23, 577-580 (2013).   \n38. Specific primersandprobes for detection 2019 novel coronavirus. http://ivdc.chinacdc.cn/kyjz/202001/t20200121_211337.html?from $=$ timeline&isappinstall ed $= 0$   \n39. Murray JF，M.M.， Luce JM， Flick MR.An expanded definition of the adult respiratory distress syndrome. Am Rev Respir Dis. (1988). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The authors would like to thank a scientist who insist to be anonymous. This work was supported by the National Natural Science Foundation of China (Grant 81788101) and the Chinese Academy of Medical Sciences Innovation Fund for Medical Sciences (Grant 2017-12M-1-009). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "C. Jiang conceived the project. C. Jiang, L. Liu, and W. J. Liu guided the study. Y. Liu, Y. Yang, F. Wang, J. Yuan, Z. Zhang, Z. Wang, J. Li, C. Shen, J. Li, L. Peng, W. Wu, M. Cao, L. Xing, Z. Xu, and L. Chen collected clinical samples from 2019-nCoV infected patients, H7N9-infected patients, bacterial pneumonia patients,and healthy subjects. C. Zhang, supervised by C. Zhou, measured cytokines/chemokines. F. Huang performed biostatistical analysis assisted by C. Zhang, Y. Qin, X. Li, D. Zhao, and S. Li. S. Tan made helpful assistant. C. Jiang, F. Huang, C. Zhang, and Y. Qin wrote the manuscript. All the authors have read and approved the manuscript. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Competing interests ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing interests. ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/90b775e703b92854d1c25a7652e124e9935a8d439dd7de9a92f42608ddefc4b0.jpg",
+        "table_caption": [
+            "Table 1. Correlation between cytokine levels and viral Ct value of patients with laboratory-confirmed 2019-nCoV infection. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Cytokine</td><td colspan=\"2\">Ctvalue</td></tr><tr><td>Spearman</td><td>P value</td></tr><tr><td>M-CSF</td><td>-0.728</td><td>0.001</td></tr><tr><td>IL-10</td><td>-0.685</td><td>0.002</td></tr><tr><td>IFN-α2</td><td>-0.653</td><td>0.003</td></tr><tr><td>IL-13</td><td>-0.636</td><td>0.005</td></tr><tr><td>IL-17</td><td>-0.608</td><td>0.007</td></tr><tr><td>IL-4</td><td>-0.593</td><td>0.009</td></tr><tr><td>IP-10</td><td>-0.568</td><td>0.014</td></tr><tr><td>IL-1β</td><td>-0.521</td><td>0.026</td></tr><tr><td>IL-7</td><td>-0.514</td><td>0.029</td></tr><tr><td>IL-1ra</td><td>-0.514</td><td>0.029</td></tr><tr><td>G-CSF</td><td>-0.511</td><td>0.030</td></tr><tr><td>IL-12 (p40)</td><td>-0.511</td><td>0.030</td></tr><tr><td> IFN-γ</td><td>-0.508</td><td>0.031</td></tr><tr><td>IL-1α</td><td>-0.505</td><td>0.033</td></tr><tr><td>IL-2</td><td>-0.490</td><td>0.039</td></tr><tr><td>HGF</td><td>-0.470</td><td>0.049</td></tr><tr><td>PDGF-BB</td><td>0.677</td><td>0.002</td></tr><tr><td>MCP-3</td><td>-0.462</td><td>#</td></tr><tr><td>MIP-1α</td><td>-0.440</td><td>#</td></tr><tr><td>MCP-1 (MCAF)</td><td>-0.422</td><td>#</td></tr><tr><td>GM-CSF</td><td>-0.418</td><td>#</td></tr><tr><td>SCF</td><td>-0.372</td><td></td></tr><tr><td>IL-6</td><td>-0.367</td><td></td></tr><tr><td>MIG</td><td>-0.362</td><td>-</td></tr><tr><td>IL-8</td><td>-0.361</td><td></td></tr><tr><td>IL-18</td><td></td><td>-</td></tr><tr><td>IL-3</td><td>-0.332</td><td>-</td></tr><tr><td>β-NGF</td><td>-0.310</td><td>-</td></tr><tr><td>SCGF-β</td><td>-0.292 -0.279</td><td>1</td></tr><tr><td>IL-12 (p70)</td><td>-0.278</td><td>-</td></tr><tr><td>FGF basic</td><td>-0.263</td><td></td></tr><tr><td>TRAIL</td><td>-0.247</td><td>-</td></tr><tr><td>TNF-α</td><td>-0.208</td><td>1</td></tr><tr><td>IL-2Rα</td><td>-0.018</td><td>- 1</td></tr><tr><td>LIF</td><td>0.033</td><td></td></tr><tr><td></td><td></td><td>-</td></tr><tr><td>SDF-1α</td><td>0.124</td><td>-</td></tr><tr><td>TNF-β CTACK</td><td>0.128 0.180</td><td>- 二</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The viral titers were measured in 18 samples from 10 patients infected with 2019-nCoV.#: P value [0.05,0.1),- : P value $> 0 . 0 5$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2019-nCoV 2019-nCoV r: 0.786 2019-nCoV r:0.733 2019-nCoV 6001 1 P<0.001 4000 P:0.051   \nng ■ ■ ■ Y ■ ： 151 ■ 3000- ■ ■ ■ ■ ■ ■ ■ ■ □ 200H. ■ ： -1 6 : 工 中 HEH 1000 ■ □ ■ oH 叶 1 2 3 4 5 0 1 2 3 4 5 叶 1 2 3 4 5 0 1 2 3 4 5 Murray score Murray score Murray score Murray score 40 2019-nCoV P006 2019-Hc0 P 0.001 301 201060 P 0.01 2019-nCoV P0.001 30- 3 ■ ■ ■ ■ 10000 ■ ■ ■ ■ ■ + ■ ■ 10 ■ 4 1 ? ■ 1 ■ ■ ■ -1 10 T ■ ■ 5000- □ ■ □ 0+ 0+ ■ 0+ 0 面 0 1 2 3 7 5 0 1 2 3 4 5 0 1 2 3 4 5 0 1 2 3 4 5 Murray score Murray score Murray score Murray score 400 2019-nCoV r:0.675 P<0.001 25 2019-nCoV P:00.671 8000 2019-nCo V r: 0.656 科 2019-nCoV r: 0.629 P= 0.00   \nO ■ 国 ■ ■ nneniinn 6000 ■ ■ ■ ■   \ng00 中 ■4 0-11 H L 二 Y 11ll 1 Murray score 4 5 5 4 5 4 5 2019-nCoV 2019-nCoV r:0.513 2019-nCoV P = 0.009 ■ P =0.428 ■ ■ ！ ■ ■ ■ ■ ！ ！ 三 ■ ■ H 11 ■ ■ ■ ■ 2000 L E ■ ■ ■ 14 10 1000 ■ □ ■ □ 0+ 0 xeu 2 3 4 5 0 1 2 3 又 5 0 1 2 3 4 5 Murray score Murray score Murray score ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/e47d90a0c37384473d03e1aa6bd844b1ad132d10692ebf4abbe73d3061d4eb22.jpg",
+        "img_caption": [
+            "Fig. 2 ",
+            "Fig.2 The ROC curve of plasma cytokine levels for patients with mild and severe 2019-nCoV-infections. The area under the receiver operating characteristic (ROC) curve (AUC) of the plasma cytokine levels (IL-12, IL-1ra, IP-10, PDGF-BB, IFN-α2,IFN-γ, M-CSF,IL-17, HGF, G-CSF,IL-2, IL-4,IL-10, IL-1α and IL-7) was estimated in eight samples from four mildly infected 2019-nCoV-patients and 17 samples from eight severely infected patients.The P values of al AUC for plasma cytokine levels were less than 0.0 "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/97fb78a5a06a4bf68313c7d0a0842227692fbb6d36daca6400fb1f100aa0e986.jpg",
+        "img_caption": [
+            "Fig. 3 ",
+            "Fig.3 Plasma cytokine levels in healthy controls,bacteria pneumonia patients, H7N9-infected patients and 2019-nCoV-infected patients The plasma levels of cytokines (M-CSF, IL-10,IFN-α2, IL-17,IL-4, IP-10, IL-7, IL-1ra, G-CSF, IL-12 (p40), IFN-y,IL-1α, IL-2, HGF,and PDGF-BB) were measured in eight samples from eight healthy controls,eight samples from eight bacteria pneumonia patients,eight samples from eight H7N9-infected patients,eight samples from four 2019-nCoV-infected patients with mild ilness (2019-nCoV-M) and 17 samples from eight patients with severe 2019-nCoV infection (2019-nCoV-S). Detailed information is shown in Extended Data Table 2. ${ } ^ { \\star } \\mathsf { P } < 0 . 0 5$ ， $^ { \\star \\star } \\mathsf { P } < 0 . 0 1$ ， $^ { \\star \\star \\star } \\mathsf { P } < 0 . 0 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/5067df5bb7b670bd4dbdb5966e1eacec14da91d6a17857cd3fb8a74b0b94e984.jpg",
+        "table_caption": [
+            "Extended Data Table 1.Epidemiological and clinical features of subjects hospitalized with "
+        ],
+        "table_footnote": [
+            "NA: Not applicable. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">19-nCoV,H7N9 avian influenza virus andbacterial infections.</td></tr><tr><td>Characteristics</td><td>2019-nCoV</td><td>H7N9</td><td>Bacteria</td><td>Control</td></tr><tr><td>Median age (range)</td><td>62.5 (10-72)</td><td>56 (21-67)</td><td>41 (31.5-49)</td><td>28 (25-34)</td></tr><tr><td>Age subgroups</td><td></td><td></td><td></td><td></td></tr><tr><td>0-15 years</td><td>1/12 (8.3%)</td><td>0/8 (0%)</td><td>1/8 (12.5%)</td><td>0/8 (0%)</td></tr><tr><td>16-59 years</td><td>4/12 (33.3%)</td><td>6/8 (75%)</td><td>5/8 (62.5%)</td><td>8/8 (100%)</td></tr><tr><td>≥60 years</td><td>7/12 (58.3%)</td><td>2/8 (25%)</td><td>2/8 (25%)</td><td>0/8 (0%)</td></tr><tr><td>Male (%)</td><td>8/12 (66.7%)</td><td>5/8 (62.5%)</td><td>5/8 (62.5%)</td><td>4/8 (50%)</td></tr><tr><td colspan=\"5\">Initial symptoms</td></tr><tr><td>Fever</td><td>9/12 (75%)</td><td>8/8 100%)</td><td>5/8 (62.5%)</td><td>0/8 (0%)</td></tr><tr><td>Cough</td><td>12/12 (100%)</td><td>7/8 (75%)</td><td>3/8 (37.5%)</td><td>0/8 (0%)</td></tr><tr><td>Headache</td><td>0/12 (0%)</td><td>3/8 (37.5%)</td><td>1/8 (12.5%)</td><td>0/8 (0%)</td></tr><tr><td> Myalgia</td><td>4/12 (33.3%)</td><td>4/8 (50%)</td><td>0/8 (0%)</td><td>0/8 (0%)</td></tr><tr><td>Chill</td><td>5/12 (41.7%)</td><td>5/8 (62.5%)</td><td>0/8 (0%)</td><td>0/8 (0%)</td></tr><tr><td> Nausea or vomiting</td><td>2/12 (16.7%)</td><td>0/8 (0%)</td><td>1/8 (12.5%)</td><td>0/8 (0%)</td></tr><tr><td>Diarrhea</td><td>3/12 (25%)</td><td>2/8 (25%)</td><td>0/8 (0%)</td><td>0/8 (0%)</td></tr><tr><td>Cmedisaing chitoncs</td><td>6/12 (50%)</td><td>6/8 (50%)</td><td>5/8 (62.5%)</td><td>0/8 (0%)</td></tr><tr><td>Chronic heart disease</td><td>4/12 (33.3%)</td><td>4/8 (33.3%)</td><td>2/8 (25%)</td><td>0/8 (0%)</td></tr><tr><td>Chronic lung disease</td><td>1/12 (8.3%)</td><td>5/8 (41.7%)</td><td>1/8 (12.5%)</td><td>0/8 (0%)</td></tr><tr><td>Chronic renal disease</td><td>2/12 (16.7%)</td><td>2/8(16.7%)</td><td>0/8 (0%)</td><td>0/8 (0%)</td></tr><tr><td> Chronic liver disease</td><td>1/12 (8.3%)</td><td>3/8 (25%)</td><td>0/8 (0%)</td><td>0/8 (0%)</td></tr><tr><td>Diabetes Cancer</td><td>2/12 (16.7%) 0/12 (0%)</td><td>6/8 (50%) 4/8 (33.3%)</td><td>0/8 (0%) 1/8 (12.5%)</td><td>0/8 (0%)</td></tr><tr><td></td><td></td><td></td><td></td><td>0/8 (0%)</td></tr><tr><td>iBactrial co-</td><td>2/12 (16.7%)</td><td>7/8 (87.5%)</td><td>NA</td><td>0/8 (0%)</td></tr><tr><td>Interval, median days (IQ + R) Onset to admission</td><td></td><td></td><td></td><td></td></tr><tr><td>antvirt etatient</td><td>6.5 (5, 9.25)</td><td>6 (4.75, 7)</td><td>1 (0, 3.5)</td><td>NA</td></tr><tr><td></td><td>6 (5, 9.25)</td><td>5.5 (3.75, 6.25)</td><td>NA</td><td>NA</td></tr><tr><td>Ontetalaboratary</td><td>7 (4.5, 14.5)</td><td>7 (5.75, 8.25)</td><td>6 (4.5, 8)</td><td>NA</td></tr><tr><td>Complications Pneumonia</td><td>12/12 (100%)</td><td>8/8 (100%)</td><td></td><td></td></tr><tr><td>ARDS</td><td>6/12 (50%)</td><td>7/8 (87.5%)</td><td>8/8 (100%) 6/8 (75%)</td><td>0/8 (0%) 0/8 (0%)</td></tr><tr><td>SevereARDS</td><td>2/12 (16.7%)</td><td>5/8 (62.5%)</td><td>2/8 (25%)</td><td>0/8 (0%)</td></tr><tr><td>Respiratory failure</td><td>3/12 (25%)</td><td>7/8 (87.5%)</td><td>5/8 (62.5%)</td><td>0/8 (0%)</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hepatic insufficiency</td><td>2/12 (16.7%)</td><td>4/8 (50%)</td><td>4/8 (50%)</td><td>0/8 (0%)</td></tr><tr><td>Renal insufficiency</td><td>2/12 (16.7%)</td><td>2/8 (25%)</td><td>5/8 (62.5%)</td><td>0/8 (0%)</td></tr><tr><td>Cardiac failure</td><td>1/12 (8.3%)</td><td>3/8 (37.5%)</td><td>3/8 (37.5%)</td><td>0/8 (0%)</td></tr><tr><td> Shock</td><td>1/12 (8.3%)</td><td>1/8 (12.5%)</td><td>4/8 (50%)</td><td>0/8 (0%)</td></tr><tr><td>Treatment Received antivirals≤</td><td></td><td></td><td></td><td></td></tr><tr><td>2 days after illness onset Received antivirals</td><td>1/12 (8.3%)</td><td>1/8 (12.5%)</td><td>NA</td><td>NA</td></tr><tr><td>3-5 days after illness onset Received antivirals</td><td>4/12 (33.3%)</td><td>3/8 (37.5%)</td><td>NA</td><td>NA</td></tr><tr><td>6 days after illness onset</td><td>7/12 (58.3%)</td><td>4/8 (50%)</td><td>NA</td><td>NA</td></tr><tr><td>Corticosteroid Mechanical</td><td>2/12 (16.7%)</td><td>8/8 (100%)</td><td>2/8 (25%)</td><td>NA</td></tr><tr><td>ventilation</td><td>5/12 (41.7%)</td><td>7/8 (87.5%)</td><td>7/8 (87.5%)</td><td>NA</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/cce9f0ae8f1869a476279a7f245db0c4044006f95f11ff27c2a5ef6a26d21e3c.jpg",
+        "table_caption": [
+            "ExtendedDataTableCyoineomparsaogatotrosactera-ifectedatints-fectedpatitsand1fected patients (disease severity classified) "
+        ],
+        "table_footnote": [
+            "Pa value: Healthy vs bacteria patients P value: Healthy vs H7N9 patients ${ \\mathsf { P } } ^ { \\mathsf { c } }$ value: Healthy vs 2019-nCoV-M patients pd value: Healthy vs 2019 -nCoV-S patients ${ \\mathsf { P } } ^ { \\mathsf { e } }$ value: Bacteria patients vs H7N9 patients ",
+            "P' value: Bacteria patients vs 2019-nCoV-M patients ${ \\mathsf { P } } ^ { \\mathfrak { g } }$ value: Bacteria patients vs 2019-nCoV-S patients Ph value: H7N9 patients vs 2019-nCoV-M patients P'value: H7N9 patients vs 2019-nCoV-S patients pi value :2019-nCoV-M patients vs 2019-nCoV-S patients ",
+            "#:P value [0.05,0.1),-:P value $> 0 . 0 5$ ",
+            "8 nCoV-infected patients (2019 -nCoV-S). "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">533335</td><td colspan=\"6\">Healthy</td><td colspan=\"4\">Bacteria</td><td colspan=\"3\">H7N9</td><td colspan=\"2\"></td><td colspan=\"3\">2019-nCov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>、</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>.7</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>56</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>PMGF-BB</td><td></td><td></td><td>#</td><td></td><td>0.010</td><td>1192.8</td><td>276.37</td><td>0.036</td><td></td><td>-</td><td>3675.14</td><td>11946</td><td></td><td>0.006</td><td>2677</td><td></td><td>1017.3 1227</td><td><0.001</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>8.046</td><td></td><td><000</td><td></td><td></td><td></td><td></td><td>#</td><td></td><td></td><td></td><td>0012</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>8.045</td><td>-</td><td></td><td>58</td><td></td></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/7562135b74308b77a17df558b5f4ef74c00249e1d4a5598f754bfefff0b8d6e3.jpg",
+        "table_caption": [
+            "ExtendedDataTable3.Cyokinecomparisonamonghealthyontrolsbacteria-infectedpatients，H7-infectedpatientsand9-oV infected patients (Day0-7, Day8-14, Day15-) "
+        ],
+        "table_footnote": [
+            "Pvalue: Healthys209-CoVpatints Da-7) pdvalue:BacterapatientsvCVpatientsDa P value: H7N9 patients vs2019-nCoVpatients (Day0-7) P value :2019-nCoV patients (Day0-7)vs2019-nCoV patients(Day8- （20 ${ \\mathsf { P } } ^ { \\flat }$ value:Healthyvs2019-CoVpatients(Da8-14) （20 $\\mathsf { P } ^ { \\mathsf { e } }$ valueBactern Pvalue:H7N9patientsvs2019-nCoVpatients(Day8-14) Pvalue:2019-nCoVpatients(Day-7)vs2019-nCoVpatients(Day15 Pvalue:Healthopatients P value: Bacteria patients vs 2019-nCoV patients (Day15-) P'value:H7N9 patients vs 2019-nCoV patients (Day15-) P'value : 2019-nCoV patients (Day8-14)vs 2019-nCoV patients (Day1! ",
+            "ples from 5 2019-nCoV-infected patients (Day15-). "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Cytokine</td><td colspan=\"3\">Healthy</td><td colspan=\"3\">Bacteria</td><td colspan=\"3\">H7N9</td><td colspan=\"2\"></td><td colspan=\"8\">2019-nCoV</td></tr><tr><td rowspan=\"2\">P value</td><td colspan=\"3\">p value</td><td colspan=\"3\">Pd value Pvalue P'value</td><td colspan=\"3\">P value ph value P' value</td><td colspan=\"3\">Mean Day 0-7</td><td colspan=\"3\">MeanDay 15SE</td><td colspan=\"3\">P value pk value</td></tr><tr><td>0.037</td><td></td><td>0.020</td><td>P' value 0.019</td><td></td><td></td><td></td><td>-</td><td></td><td>#</td><td>SE 4.08 1.02</td><td>3.63</td><td>MeaDay 8-14 SE 0.48</td><td>3.35</td><td>0.49</td><td></td><td></td><td>P' value</td></tr><tr><td> IL-1β</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.046</td><td>、</td><td></td><td></td><td></td><td></td><td>867.42</td><td></td><td></td><td></td><td></td></tr><tr><td> IL-1ra</td><td>0.007</td><td><0.00</td><td>0.00</td><td>#--</td><td>0.011</td><td></td><td></td><td>，</td><td></td><td>1478.23</td><td></td><td>8843</td><td>30843</td><td></td><td>2593</td><td>-</td><td>-#</td><td></td></tr><tr><td></td><td>0.004</td><td>0.001</td><td>0.003</td><td></td><td>-</td><td>：</td><td></td><td></td><td>：</td><td>1.32</td><td></td><td>1.90</td><td></td><td>1.47</td><td>0.10</td><td>0.043</td><td>-</td><td>-</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>-</td><td>#</td><td>0.020</td><td>-</td><td></td><td>0.15</td><td></td><td></td><td></td><td>0.00</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td># 0.001</td><td># 0.003</td><td>0.028</td><td>0.017</td><td>0.003</td><td>-</td><td></td><td>-</td><td>9.98 17.66</td><td>3.54 1.46</td><td>10.07 25.54</td><td></td><td>34.62 19.65</td><td>22.56 1.02</td><td></td><td>共</td><td>-</td></tr><tr><td>IL-7</td><td>0.003 0.008</td><td>0.001</td><td>0.003</td><td>0.003</td><td><0.001</td><td></td><td>0.049</td><td>#</td><td>-</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.017</td><td>-</td><td>-</td></tr><tr><td> IL-8</td><td></td><td></td><td></td><td>0.049</td><td>0.030</td><td>0.019</td><td></td><td>-</td><td></td><td>25.75</td><td>2.79</td><td>1588</td><td></td><td>16.70</td><td>879</td><td>-</td><td>：</td><td></td></tr><tr><td>IL-10</td><td>0.006</td><td>0.001</td><td>0.009</td><td></td><td></td><td></td><td>-</td><td></td><td>-</td><td>6.45</td><td>2.79</td><td>7.05</td><td></td><td>4.33</td><td></td><td>-</td><td></td><td></td></tr><tr><td> IL-12 (p70)</td><td></td><td>0.014</td><td>0.040</td><td></td><td>0.012</td><td>0.012</td><td>-</td><td>-</td><td>-</td><td>3.62</td><td>0.34</td><td>6.74</td><td>1.12</td><td>4.78</td><td>0.53</td><td>-</td><td>0.034</td><td></td></tr><tr><td>IL-13 A</td><td>0.011</td><td>0.001</td><td>0.008</td><td>0.002</td><td><0.001</td><td>0.003</td><td>-</td><td>：</td><td>- -</td><td>6.61 104.65</td><td>0.90 43.18</td><td>7.65 218.73</td><td>0.67 39.35</td><td>6.86 190.10</td><td>1.06 66.90</td><td>- #</td><td>-</td><td>-</td></tr><tr><td> IL-15</td><td>-</td><td>0.008</td><td>0.040</td><td>-</td><td>-</td><td></td><td></td><td></td><td></td><td></td><td>8.9</td><td>1349</td><td></td><td></td><td>0.67</td><td></td><td>- -</td><td>-</td></tr><tr><td>EIL-17n</td><td>##</td><td></td><td></td><td>-</td><td></td><td>-</td><td>：</td><td></td><td></td><td>426</td><td></td><td></td><td></td><td>45.56</td><td>8.15</td><td>-</td><td></td><td></td></tr><tr><td>FGF basic</td><td></td><td>0.003</td><td>0.008</td><td></td><td></td><td>-</td><td>-#</td><td>-</td><td>-</td><td>37.23</td><td>3.52</td><td>43.14</td><td></td><td>39.63</td><td>3.85</td><td>-</td><td></td><td>-</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>-#--</td><td></td><td></td><td></td><td>1</td><td></td><td>12</td><td></td><td></td><td>2</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>#--</td><td></td><td>--#</td><td></td><td>--#</td><td></td><td></td><td></td><td>948</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>MCP-1 (MCAF)</td><td>0.028</td><td>0.001</td><td>0.008</td><td>-</td><td>-</td><td>-</td><td></td><td></td><td>-</td><td>34.48</td><td> 11.44</td><td>41.98</td><td>10.99</td><td>74.12</td><td>40.87</td><td>-</td><td>-</td><td>-</td></tr><tr><td>MIF-</td><td>0.009</td><td></td><td>0.004</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1514</td><td>47</td><td>124129</td><td></td><td>170</td><td></td><td>--</td><td></td><td></td></tr><tr><td></td><td></td><td><0.001</td><td></td><td>：</td><td></td><td></td><td>0.49</td><td>0.025</td><td></td><td></td><td></td><td></td><td></td><td></td><td>208</td><td></td><td></td><td></td></tr><tr><td>RANTES</td><td>-</td><td></td><td>- 0.003</td><td>---#-</td><td>- -</td><td>- #-</td><td>#-</td><td>0.043</td><td>-</td><td>5683.14 12.159</td><td>925.79 46</td><td>4763.56 126.148</td><td>478</td><td>6404.49 763.88</td><td>1272.99 4.57</td><td>- 0.042</td><td>-</td><td>-</td></tr><tr><td>7 TNEF IL-1a</td><td>#</td><td>0.002 0.006 <0.001</td></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/6097d867897eb892988cfa38a3a034a90f6000aec228865ce120cd6ef7723311.jpg",
+        "table_caption": [
+            "Extended Data Table 4. Detection of 2019-nCoV at respiratory and non-respiratory sites "
+        ],
+        "table_footnote": [
+            "U: Undetected. Throat swabs were obtained after 4-18 d (median 10) of illness. Sputum were obtained after 4-17 d (median 9.5) of illness. Plasma samples were obtained after 7-10 d (median 9) of illness. Rectal swabs were obtained after 4-16.5 d (median 9.5) of illness. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td colspan=\"3\">2019-nCoV</td></tr><tr><td colspan=\"2\"></td><td>Total</td><td>Severe</td><td>Mild</td></tr><tr><td>Nasopharynx</td><td></td><td></td><td></td><td></td></tr><tr><td>Detectable RNA (n/N)</td><td>Throat</td><td>8/11</td><td>5/7</td><td>3/4</td></tr><tr><td rowspan=\"3\">Ct Values (Median; range)</td><td>Sputum</td><td>7/10</td><td>6/6</td><td>1/4</td></tr><tr><td>Throat</td><td>30（23-36) 29.1</td><td>29.2 (25-36) 28.3</td><td>30 (23-35)</td></tr><tr><td>Sputum</td><td>(20-34.7)</td><td>(20-33.4)</td><td>34.3</td></tr><tr><td>BLAF</td><td></td><td></td><td></td><td></td></tr><tr><td>Detectable RNA (n/N)</td><td></td><td>3/5 24 (19-26)</td><td>3/4</td><td>0/1</td></tr><tr><td>Ct Values (Median; range) Plasma</td><td></td><td></td><td>24 (19-26)</td><td>U</td></tr><tr><td>Detectable RNA (n/N)</td><td></td><td>0/12</td><td></td><td></td></tr><tr><td>Ct Values (Median; range)</td><td></td><td>U</td><td>0/8</td><td>0/4</td></tr><tr><td></td><td></td><td></td><td>U</td><td>U</td></tr><tr><td>Rectum</td><td></td><td></td><td></td><td></td></tr><tr><td>Detectable RNA (n/N)</td><td></td><td>2/7</td><td>1/5</td><td>1/2</td></tr><tr><td>Ct Values (Median;range)</td><td></td><td>27.5 (27-28)</td><td>28</td><td>27</td></tr></table></body></html>",
+        "page_idx": 19
+    }
+]

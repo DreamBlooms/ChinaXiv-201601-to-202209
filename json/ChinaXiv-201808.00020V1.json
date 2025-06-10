@@ -1,0 +1,420 @@
+[
+    {
+        "type": "text",
+        "text": "中国地区智库运行效率及影响因素评价",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一各省市区软科学成果转化数据分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "岳洪江 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "南京审计大学公共管理学院南京211815",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：「目的/意义」伴随着智库在政策过程中的作用越来越强，智库研究和智库建设正成为国内外关注的热点问题，现有智库的运行效率以及作用发挥也是摆在学术界和政府部门的重要议题。「方法/过程」以国家科技部进行的国家软科学研究机构统计调查结果作为反映我国智库发展状况的数据基础，选择2个投入指标和13个产出指标，测度各省市区智库运行效率。进一步选择各省市区对外开放指数等10个指数，作为影响智库发展的环境因素，寻找影响省市区智库发展环境的关联要素。结果/结论」8个省市区在现有投入规模基础上产出未达到最优水平，13个产出指标达到最优水平的省市区数要远多于5个产出指标达到最优水平的省市区数；各省市区对外开放指数和各省市区政府网站绩效指数是关联各省市区智库发展指数的2个最重要的因素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：软科学机构 成果转化利用 运行效率 影响因素分类号：D630",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，在市场经济发达的西方美欧国家，智库作为专门从事开发性研究的咨询机构，将各领域的专家学者汇集起来，为国家或政党的发展提供满意方案或优化方案，是现代社会政党和政府运行不可或缺的重要组成部分，智库作用的充分发挥来源于智库的有效运行。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "改革开放以来，随着我国现代化各项事业的推进，人们的思想得到了空前解放，党和国家需要大量的决策智囊和政策分析研究者，诸如“智囊团”“思想库”和“顾问机构”等愈发繁荣。智库的发展繁荣呈现了从中央到地方、从党政军到民间、从单一到多元的历程，据统计，我国有各类智库2,500多家。如何认识现有智库发挥的功能、运行效率以及作用发挥存在什么问题，影响智库运行效率的环境因素是什么，什么是关键影响因素，是摆在学术界和政府部门面前的重要议题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.相关文献综述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "智库研究和智库建设目前正成为国内外关注的热点问题，学术界在以下领域作了较深入的研究且得到了有益结论。（1）智库的内涵界定及分类谱系。清晰和准确定义智库概念是开展智库研究的基础，智库的人员数量、预算、资金来源、隶属关系、研究计划、专业分工领域、组织模式、意识形态导向等标示智库基本属性的特征千差万别，目前学者依照各自的理解，存在多种界定[1-2]，基本的共识为智库是一类以政策为研究基础并力图影响政府决策的研究机构，“独立性”属性是否是判断智库的基本标准成为争议的重要议题[3]。正是由于智库存在的差异性，学者们以分类谱系的视角界定智库，常见的分类标准有，智库机构属性、智库功能特征、智库的服务对象、智库创立的目标与机构组织特征、智库的政治和哲学倾向[4-6]。（2）智库运行的理论基础研究。智库存在的理论基础有多重解构，其一是基于政治学的政策过程理论[7-8]，认为政策是一国各种利益集团或不同精英群体之利益与要求相互竞争的结果，政策过程是国家内部各种利益集团或不同精英群体的协调和互动机制，由于不同利益集团或不同精英群体的政治资源动员能力存在着差异，而智库以其独立性和专业性，使得他们能够站出来，通过区别于其他利益集团专家意见的形式来影响公共政策。其二是基于管理学的“知识运用”理论，卡普兰将采不采用研究成果知识视为研究者和政策制定者之间文化与行为差异的标志，他将这种差异称为“两大群体理论”（twocommunitiestheory），智库和政府间是知识供给和知识需求的关系[9]；韦斯（Weiss）的“启迪模型理论”（enlightenment model）认为智库和政府决策者间不是简单的知识生产和利用关系，而是需要经过时间的累积，政府决策者接受、认知、理解、采纳智库成果知识的复杂过程[10]。（3）智库机构的排名研究。为测度全球各国智库的贡献、影响及竞争力，拉勃以12家经济政策智库和智库里的171名学者的新闻能见度为指标，首开了定量评价智库影响力的先河[11]。此后，学术界开展了持续性的全球领先智库影响力排名研究，影响最大的首推美国麦甘教授开展的宾夕法尼亚大学智库与公民社会计划（TTCSP），连续推出了多年的《全球智库发展报告》（GGTTI）[12]，他们研究设计了一套智库评价体系，突出了智库功能和作用的国际共识及其科学要素，在排名的机制、程序和标准方面具有很重要的参考价值。在国内，上海社会科学院智库研究中心推出了中国版智库排名体系[13]。中国社会科学院中国社会科学评价研究院、南京大学中国智库研究与评价中心和清华大学课题组分别各自设计了智库评价体系并对智库进行评价和排名。（4）归纳总结国际智库发展经验的介绍与分析述评。学者常采用比较研究的视角对本国及他国的智库进行对比、分类与归纳，涉及到智库发展的历史、制度安排、作用地位、组织形式及影响力等众多方面[6.14-15]。在众多的智库国别研究中，美国以其独特的表现成为学者们关注最多的对象，美国智库发展经验的介绍充斥在国内各种媒体和网络上。（5）智库及智库产业建设的思路与对策研究。研究智库目的是建设发展智库，国内学者围绕智库建设的构想做了较多研究，一是建构我国智库的系统设想，我国智库发展存在的突出问题及挑战，我国智库及新型智库建设的取向、机制、路径、模式、制度安排、政策支持等方面[16-18]；二是智库产业发展的研究体系，提出如何才能构建智库产业研究的体系[19-21]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从以上文献看出，学术界对智库现象开展了卓有成效的研究，既有理论基础研究，也有实践历史经验总结；既有对美国智库较独特特征的解读，也有对国际间智库运行差异的比较；既有对全球智库影响的排名对比，也有对国内智库运行的评价评估。但对国内智库运行效率的比较以及影响智库运行效率的影响因素较缺乏深入系统的研究，本文基于定量的数据，从我国智库运行效率的测度以及影响因素的鉴别视角，试图探寻提高我国智库运行效率的路径机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.省市区智库运行效率及影响关联因素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1省市区智库运行效率及影响关联因素研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1省市区智库运行效率研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "现有投入产出效率测评方法主要有参数法和非参数法两类。参数法主要有随机边界函数法（SFA）、厚边界函数法（TFA）和自由分布法（DFA）；非参数法主要有数据包络分析（DEA）。数据包络分析方法是测度同类型决策单元“多投入多产出”模式下相对效率最为常用的方法之一[22-23]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选用DEA分析方法对我国区域智库运行效率进行综合评价及分析，揭示各省市区智库运行投入产出效率状况。DEA方法中的CCR模型可表示为由CCR模型计算出的效率值为技术效率值，可以进一步分解成为规模效率与纯技术效率的乘积，即技术效率 $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } =$ 规模效率 $. { \\times }$ 纯技术效率，而纯技术效率值可由BCC模型计算得出，由此便求出规模效率值 $\\ c =$ 技术效率/纯技术效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2省市区智库影响关联因素研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于各指数是1年的截面数据，数据量较少，不满足大样本的要求，本文选用灰色系统理论中灰色关联分析测度影响智库发展的环境因素。灰色关联分析是通过线性插值的方法将系统因素的离散行为观测值转化为分段连续的折线，进而根据折线的几何特征构造测度关联程度的模型。依据本文的指标数据特征，选择邓氏灰色关联度进行测度[24]，以各省市区智库发展指数（ $\\mathrm { \\cdot } \\mathrm { X } _ { 1 }$ ）为系统行为特征序列，以各省市区对外开放指数！ $\\mathrm { ~ ( ~ X ~ } _ { 2 }$ ）、各省市区市场化指数（X3）、各省市区创新指数（ $\\mathrm { ~ ( ~ X ~ } _ { 4 } )$ 、各省市区人类发展指数 $( \\mathrm { ~ X ~ } _ { 5 }$ ）、各省市区教育指数$( \\mathrm { X } _ { 6 }$ ）、各省市区综合发展指数（ $\\mathrm { : \\textmu { } } \\mathrm { X } _ { 7 }$ ）、各省市区绿色发展指数（ $\\mathrm { \\langle X _ { 8 } }$ ）、各省市区财政透明度指数（ $\\mathrm { { \\langle \\check { X } _ { 9 } } }$ ）、各省市区政府网站绩效指数（ $\\mathrm { \\cdot } \\mathrm { X } _ { 1 0 }$ ）为相关因素序列。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "邓氏灰色关联度原理及计算过程如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第1步：求各序列的初值像。令 $\\mathcal { K } _ { i } ^ { \\prime } \\ _ { = } X _ { i } / x _ { i } \\left( 1 \\right) _ { = } \\left( x _ { i } ^ { \\prime } ( 1 ) , x _ { i } ^ { \\prime } ( 2 ) , \\cdot \\cdot \\cdot , x _ { i } ^ { \\prime } ( n ) \\right) , \\quad i = 0 , 1 , 2 , \\cdot \\cdot \\cdot , m$ （204号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二步：求Xx与Xi的初值像对应分量之差的绝对值序列。记△(k)=$\\left| x _ { 0 } ^ { \\prime } \\left( k \\right) - x _ { i } ^ { \\prime } \\left( k \\right) \\right| _ { \\mathrm { ~ , ~ } } \\Delta _ { i } = \\left( \\Delta _ { i } \\left( 1 \\right) , \\Delta _ { i } \\left( 2 \\right) , ^ { \\cdots , \\Delta _ { i } \\left( n \\right) } \\right) _ { \\mathrm { ~ , ~ } \\mathrm { ~ ( ~ } i = 1 , 2 , \\cdots , m _ { \\mathrm { ~ ) ~ , ~ } \\mathrm { ~ } \\mathrm { ~ } } }$ $M = \\operatorname* { m a x } _ { i } \\operatorname* { m a x } _ { k } \\Delta _ { i } ( k )$ m = minmin△(k)第3步：求两极最大差和最小差。记 k第4步：计算关联系数 $\\mathcal { V } _ { \\mathrm { o } i } ( K ) = \\frac { m + \\xi M } { \\triangle _ { i } ( K ) + \\xi M } , \\xi \\in \\left( 0 , 1 \\right) ,$ $k = 1 , 2 , \\cdots , n _ { \\mathrm { ~ ; ~ } } i = , 1 , 2 , \\cdots , m$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第5步：计算灰色关联度 $\\mathcal { V } _ { \\mathrm { o } i } ~ = ~ \\frac { 1 } { r ^ { 2 } } \\sum _ { k = 1 } ^ { r ^ { 2 } } \\mathcal { V } _ { \\mathrm { o } i } \\left( \\mathcal { k } \\right) ; ~ i = , 1 , 2 , \\cdots , m$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2省市区智库运行效率及影响关联因素的变量选取 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1省市区智库运行效率变量选取 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "运用DEA模型对省际区域智库运行效率值进行计算，首先需要选取合适的省际区域智库运行投入和产出度量指标。无论是美国宾夕法尼亚大学智库与公民社会计划开发的全球智库评价指标体系、上海社会科学院智库研究中心开发的智库主观调查排名评价体系、中国社会科学院中国社会科学评价研究院开发的智库人文社会科学评价AMI评价指标体系、南京大学中国智库研究与评价中心开发的智库MRPA测评指标体系，还是清华大学课题组开发的智库新媒体大数据评价指标体系，都是针对智库机构个体评价而开发的指标体系，其指标数据来源于各智库的自报、第三方专家的评分或网络提取，都缺乏全国性或区域性的智库投入和产出指标体系及指标数据。本研究尝试寻找替代性智库评价指标体系及数据，国家科技部开展了对国家软科学研究机构统计调查，该统计调查范围为：中央、国务院各部门和各省、自治区、直辖市、计划单列市、地区（市）党委、政府和各部门所属和全日制普通高等学校所属的从事软科学的全民所有制研究机构，以及从事软科学研究的社会团体、民办非企业单位及企业等独立机构。共包括13类机构：（1）国务院各部委、直属机构所属的从事软科学研究的研究机构；（2）国务院各部委、直属机构所属的从事研究开发的机构内下设的软科学研究机构（如院属所、研究中心或所属分所）；（3）国务院各部委、直属机构所属的并部分从事软科学研究工作的研究开发机构、情报与标准研究所；（4）省、直辖市、自治区、计划单列市及地级市所属从事软科学的研究机构；（5）省、直辖市、自治区、计划单列市及地级市所属的并部分从事研究开发及情报标准研究机构；（6）中央、省、直辖市、自治区、计划单列市和地级市党委及政府从事软科学研究的机构，如党校、政策研究室、研究中心等；（7）高等学校内的软科学研究机构，如系、研究所、研究中心及管理学院；（8）中国社会科学院及各省、市社会科学院及研究所；（9）从事评价、政策咨询及重大项目可行性研究工作的咨询公司；（10）从事软科学研究的企业法人；（11）企业下属从事软科学研究的研究机构；（12）从事软科学研究的非国有非企业法人；（13）从事软科学研究的社会团体法人，如协会、学会、研究会等。以上3、5项部分从事软科学研究工作是指研究所内有常设的从事软科学研究的组织机构，如研究室或常设的研究组。该统计调查开发出软科学研究机构、软科学活动人员、软科学课题、论文发表、著作出版、会议论文及其他产出等10大类指标及统计数据。《全国软科学研究机构统计调查》25]的统计调查范围与我国政府部门智库、政党系统智库、科研院所智库、高校智库和社会智库5大类范围基本一致，可以作为评价省际区域智库运行效率的数据来源。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "美国宾夕法尼亚大学智库与公民社会计划采用的全球智库评价指标体系包括资源指标、效用指标、产出指标和影响力4大类31个指标，上海社会科学院智库研究中心采用的智库评价指标体系包括决策咨询影响力、学术影响力、媒体影响力、公众影响力、国际影响力和成长与营销能力6大类17个指标，南京大学中国智库研究与评价中心采用的智库MRPA测评指标体系包括治理结构、智库资源、智库成果和智库活动4大类19个指标。结合国外国内智库机构排名所采用的指标，选择反映国内智库现状的投入产出指标。本文选择内部研究报告或内参（篇）、领导批示（篇）、报纸或网络署名文章（篇）、接受媒体专访数（次）、观点被媒体引用（次）、参加政府咨询会（次）、发表的会议论文（篇）、出版著作（部）、发表的论文（篇）、国外发表的论文（篇）、学术论文被引用（次）、出国考察（次）、接待来访（人）共13个产出指标和经费投入（万元）、折合全时人数（人年）2个投入指标。从反映智库内涵的角度，这15个指标与国外国内智库评价指标有一定的差异，但从智库投入和产出的角度看，基本涵盖智库投入和产出的内涵。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于本文以全国30个省、市和自治区（西藏数据缺失）2010年数据为研究对象。DEA分析要求对象样本量是投入产出指标变量的2倍以上，另外，投入产出指标变量之间要有较强的正相关关系，以确保增加某项投入量而不至于使某项产出量减少。投入产出指标变量之间的相关系数见表1，显现投入产出指标变量之间显著的正相关性。因此，本文最终选取的15个投入产出指标变量是合适的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1软科学研究机构投入产出指标变量间的相关系数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/04d4ce53889698c46c0f93fe3d86fc61f8cc3f08c674add6024f0788f7d9665f.jpg",
+        "table_caption": [
+            "Table 1 Soft science research institutions input and output indicators of the correlation between variables "
+        ],
+        "table_footnote": [
+            "注：\\*表示 $p { < } 0 . 0 5 ~ ^ { * * }$ 表示 $p { < } 0 . 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>变量</td><td>软科学研究机构经 费投入 (万元）</td><td>软科学研究机构人 员投入(人年)</td></tr><tr><td>内部研究报告或内参（篇）</td><td>0.82**</td><td>0.86**</td></tr><tr><td>领导批示（篇）</td><td>0.47**</td><td>0.63**</td></tr><tr><td>报纸或网络署名文章（篇）</td><td>0.62**</td><td>0.69**</td></tr><tr><td>接受媒体专访数（次）</td><td>0.72**</td><td>0.77**</td></tr><tr><td>观点被媒体引用（次）</td><td>0.93**</td><td>0.90**</td></tr><tr><td>参加政府咨询会（次）</td><td>0.91**</td><td>0.97**</td></tr><tr><td>发表的会议论文（篇）</td><td>0.63**</td><td>0.78**</td></tr><tr><td>出版著作 (部)</td><td>0.94**</td><td>0.96**</td></tr><tr><td>发表的论文（篇）</td><td>0.84**</td><td>0.95**</td></tr><tr><td>国外发表的论文（篇）</td><td>0.86**</td><td>0.96**</td></tr><tr><td>学术论文被引用（次）</td><td>0.43*</td><td>0.55**</td></tr><tr><td>出国考察（次）</td><td>0.92**</td><td>0.93**</td></tr><tr><td>接待来访（人）</td><td>0.93**</td><td>0.90**</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2省市区智库影响关联因素变量选取 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本部分试图寻找影响省市区智库发展的环境影响关联要素，智库发展的环境影响因素异常庞杂，如智库、政府、民众以及制度、经济社会发展等因素，目前尚缺乏研究结论。本文尝试从较宏观的视角定量测度影响智库发展的环境因素，反映各省市区状况的宏观指标数据是较合适的环境要素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "收集学者们构建的反映各省市区宏观综合表现的各种综合指数。（1）各省市区对外开放指数[2]。该指数由经济开放度、技术开放度和社会开放度3大方面评价各省市区的对外开放程度，包括贸易往来、投资往来、经济合作、学术交流、技术交易、科研成果国际化、信息流动、人员往来、文化交融等9个二级指标和30个三级指标合成。（2）各省市区市场化指数[27]。该指数评价各省市区的市场化相对程度，综合考虑政府与市场的关系、非国有经济的发展、产品市场的发育程度、要素市场的发育程度、以及市场中介组织发育和法律制度环境这5个维度，每个维度包含若干具体指标或分指标，共由19个具体指标或分指标构成，最终合成我国各地区市场化进程相对指数（总指数）。（3）各省市区创新指数[28]。该指数对各省市区创新能力予以评价，综合考虑实力、效率和潜力3个维度，每个维度分别从知识创造、知识获取、企业创新、创新环境、创新绩效5个方面进行评价，每个维度包含若干具体指标或分指标，共由141个具体指标或分指标构成，最终合成我国各地区创新指数。（4）各省市区财政透明度指数[2]。该指数是由财政信息提纲设计、信息获取、信息统计与确认、透明度评估4个过程构成，一是对搜集到的财政信息的数量和质量进行评估评分，二是对信息申请过程中各省信息公开机构和财政厅局所表现出来的工作态度和责任心进行评估评分，二者加总得到各省财政透明度的综合评分。（5）各省市区人类发展指数[30]。该指数基于由健康、教育和收入3个维度4个指标组成的综合指数来衡量各省市区人类发展状况。（6）各省市区教育指数[30]。该指数基于由成人识字率及小学、中学、大学综合入学率2个指标组成的综合指数来衡量各省市区教育发展状况。（7）各省市区综合发展指数[31]。该指数是从经济发展和社会发展、民生改善、生态建设和科技创新5个维度、16个二级指标、44个三级指标测量的综合性指数，对各地综合发展情况进行测评。（8）各省市区绿色发展指数[32]。该指数是包括经济增长绿化度、资源环境承载潜力、政府政策支持度3个维度、绿色增长效率指标等9个二级指标、60个三级指标测量的综合性指数，对各地绿色发展情况进行测评。（9）各省市区政府网站绩效指数[33]。该指数采用对重点领域服务能力评估的思路，设置了教育、社保、就业、医疗、住房、交通、证件办理、企业开办服务、资质认定、政府信息公开等10个领域的二级三级评估指标构成。（10）各省市区政府效率指数[34]。该指数由政府公共服务、公共物品、政府规模、居民经济福利4个维度，47个三级指标构成，反映我国省级地方政府的政府效率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了和各指数方法相对应，本文也依照通行的指数构建方法，采用上文的15个投入产出指标构建各省市区智库发展指数，为消除产出各指标的规模影响，对13个产出指标进行变换，为体现投入的变化，以人年研究经费支出为分母进行平均换算，以体现投入的价值。然后对15个指标变换后的原始值采用直线型无量纲归一化处理，采用等权重分别计算出投入产出指标得分，最后采用等权重计算出各省市区智库发展指数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 2 2009-2010 China's provinces think tank development index ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/829359942f84e5af30c5c09e6f950a7b3dd9bcc6a45232e8f3f253f18696ccf9.jpg",
+        "table_caption": [
+            "表22009—2010年我国各省市区智库发展指数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>省市区</td><td>智库发展指 数</td><td>省市区</td><td>智库发展指 数</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/83d0b0758421fedec5614d50a12c337a3c7f64b11d098ed45770c61cbe308dce.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>北京</td><td>13.10</td><td>河南</td><td>2.62</td></tr><tr><td>天津</td><td>2.37</td><td>湖北</td><td>5.10</td></tr><tr><td>河北</td><td>2.74</td><td>湖南</td><td>2.04</td></tr><tr><td>山西</td><td>1. 26</td><td>广东</td><td>5.38</td></tr><tr><td>内蒙</td><td>0.02</td><td>广西</td><td>1.65</td></tr><tr><td>辽宁</td><td>0.76</td><td>海南</td><td>2.53</td></tr><tr><td>吉林</td><td>0.69</td><td>重庆</td><td>4.35</td></tr><tr><td>黑龙江</td><td>1.52</td><td>四川</td><td>2.20</td></tr><tr><td>上海</td><td>3.30</td><td>贵州</td><td>3.28</td></tr><tr><td>江苏</td><td>4. 13</td><td>云南</td><td>2.00</td></tr><tr><td>浙江</td><td>7.25</td><td>陕西</td><td>2.99</td></tr><tr><td>安徽</td><td>3.52</td><td>甘肃</td><td>0.57</td></tr><tr><td>福建</td><td>0.41</td><td>青海</td><td>0.81</td></tr><tr><td>江西</td><td>0.83</td><td>宁夏</td><td>0.90</td></tr><tr><td>山东</td><td>4.04</td><td>新疆</td><td>0.84</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于各个指数以年度命名的不一致性，根据各指数实际采用的数据年度，选择其2009或2010年度的指数数据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.结果分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1省市区智库运行效率分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文从两个角度测度效率，一是按照全部15个投入产出指标测度效率值，称为模型1；二是按照内部研究报告或内参（篇）、领导批示（篇）、报纸或网络署名文章（篇）、接受媒体专访数（次）、观点被媒体引用（次）、参加政府咨询会（次）5个产出指标和经费投入（万元）、折合全时人数（人/年）2个投入指标测度效率值，称为模型2。所有的计算采用 DEAP2.1软件，依照产出导向计算2009—2010 年模型1和模型2我国各省市区智库DEA 效率值，结果如表3所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表32009—2010年我国各省市区智库DEA效率值及规模报酬",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 32009-2010 China' s provinces think tank DEA efficiency and scale ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d466657de4daa96c0c8eeace0cc41d25995c2535e975b3da06cea627aff16513.jpg",
+        "table_caption": [
+            "returns "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"4\">模型1</td><td colspan=\"4\">模型2</td></tr><tr><td></td><td>crste</td><td>vrste</td><td>scale</td><td></td><td>crste</td><td>vrste</td><td>scale</td><td></td></tr><tr><td>北京</td><td>0.910</td><td>1.000</td><td>0.910</td><td>drs</td><td>0.480</td><td>1.000</td><td>0.480</td><td>drs</td></tr><tr><td>天津</td><td>0.982</td><td>1.000</td><td>0.982</td><td>drs</td><td>0.647</td><td>1.000</td><td>0.647</td><td>drs</td></tr><tr><td>河北</td><td>0.776</td><td>1.000</td><td>0.776</td><td>drs</td><td>0.664</td><td>1.000</td><td>0.664</td><td>drs</td></tr><tr><td>山西</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td><td>0.563</td><td>0.912</td><td>0.617</td><td>drs</td></tr><tr><td>内蒙</td><td>1.000</td><td>1.000</td><td>1.000</td><td>=</td><td>0.091</td><td>1.000</td><td>0.091</td><td>irs</td></tr><tr><td>辽宁</td><td>1.000</td><td>1.000</td><td>1.000</td><td></td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td></tr><tr><td>吉林</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td></tr><tr><td>黑龙江</td><td>0.605</td><td>0.956</td><td>0.633</td><td>drs</td><td>0.605</td><td>1.000</td><td>0.605</td><td>drs</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d53d4fed012744042ca14ab4f99d4bf9e51b811099fc5e307d7c26679f7737b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>上海</td><td>1.000</td><td>1.000</td><td>1.000</td><td>=</td><td>0.981</td><td>1.000</td><td>0.981</td><td>drs</td></tr><tr><td>江苏</td><td>1.000</td><td>1.000</td><td>1.000</td><td>=</td><td>0.516</td><td>0.923</td><td>0.558</td><td>drs</td></tr><tr><td>浙江</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td><td>0.623</td><td>1.000</td><td>0.623</td><td>drs</td></tr><tr><td>安徽</td><td>0.586</td><td>0.823</td><td>0.712</td><td>drs</td><td>0.429</td><td>1.000</td><td>0.429</td><td>drs</td></tr><tr><td>福建</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td><td>0.638</td><td>0.757</td><td>0.843</td><td>drs</td></tr><tr><td>江西</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td></tr><tr><td>山东</td><td>1.000</td><td>1.000</td><td>1.000</td><td></td><td>0.491</td><td>1.000</td><td>0.491</td><td>drs</td></tr><tr><td>河南</td><td>1.000</td><td>1.000</td><td>1.000</td><td></td><td>0.366</td><td>1.000</td><td>0.366</td><td>drs</td></tr><tr><td>湖北</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td><td>0.435</td><td>1.000</td><td>0.435</td><td>drs</td></tr><tr><td>湖南</td><td>1.000</td><td>1.000</td><td>1.000</td><td></td><td>0.514</td><td>1.000</td><td>0.514</td><td>drs</td></tr><tr><td>广东</td><td>0.835</td><td>1.000</td><td>0.835</td><td>drs</td><td>0.453</td><td>1.000</td><td>0.453</td><td>drs</td></tr><tr><td>广西</td><td>1.000</td><td>1.000</td><td>1.000</td><td>■</td><td>0.500</td><td>1.000</td><td>0.500</td><td>drs</td></tr><tr><td>海南</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td></tr><tr><td>重庆</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td><td>0.567</td><td>1.000</td><td>0.567</td><td>drs</td></tr><tr><td>四川</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td><td>0.600</td><td>1.000</td><td>0.600</td><td>drs</td></tr><tr><td>贵州</td><td>0.614</td><td>0.736</td><td>0.834</td><td>drs</td><td>0.441</td><td>0.836</td><td>0.528</td><td>drs</td></tr><tr><td>云南</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td><td>0.605</td><td>0.938</td><td>0.646</td><td>drs</td></tr><tr><td>陕西</td><td>1.000</td><td>1.000</td><td>1.000</td><td></td><td>0.224</td><td>0.693</td><td>0.323</td><td>drs</td></tr><tr><td>甘肃</td><td>1.000</td><td>1.000</td><td>1.000</td><td></td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td></tr><tr><td>青海</td><td>1.000</td><td>1.000</td><td>1.000</td><td></td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td></tr><tr><td>宁夏</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1</td><td>0.936</td><td>0.985</td><td>0.950</td><td>drs</td></tr><tr><td>新疆</td><td>0.764</td><td>0.826</td><td>0.925</td><td>drs</td><td>0.501</td><td>0.724</td><td>0.692</td><td>drs</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注：crste为不考虑规模收益时的技术效率，即综合效率；vrste为考虑规模收益时的技术效率，即纯技术效率；scale为考虑规模收益时的规模效率，即规模效率；irs、-、drs 分别表示规模收益的递增、不变和递减。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从全部15个投入产出指标测度效率值可知，北京、天津、河北、黑龙江、安徽、广东、贵州、新疆8个省市区在现有投入规模基础上产出未达到最优水平，占到所有地区的 $2 6 . 7 \\%$ 。从7个投入产出指标测度效率值可知，处于效率前沿面的地区包括吉林、江西、海南、甘肃和青海5个省，这5个省占到所有地区的 $1 6 . 7 \\%$ 。而其他地区DEA综合效率值均小于1，为DEA无效区域，占到所有地区的 $8 3 . 3 \\%$ 。DEA综合效率值无效的区域可以通过减少投入冗余来实现有效产出。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从模型1和模型2的投入产出指标测度效率值结果比较看，13个产出指标达到最优水平的省市区数要远多于5个产出指标达到最优水平的省市区数，各省市区软科学研究过多的精力和资源投入到了非成果传播方向上去，投入软科学决策和服务社会民众的精力和资源不充足。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2省市区智库发展的影响关联因素分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "邓氏灰色关联度计算结果列于表4。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/840a43f72a0b60449d03e81d5e062e26b8a277fbbfd4974db36dec377b7ee34f.jpg",
+        "table_caption": [
+            "表4我国各省智库发展指数邓氏灰色关联度",
+            "Table 4 China's provinces think tank development index Deng's gray correlation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>X2</td><td>X3</td><td>X4</td><td>X5</td><td>X6</td><td>X7</td><td>X8</td><td>X</td><td>X10</td><td>X11</td></tr><tr><td>X</td><td>0.901</td><td>0.694</td><td>0.763</td><td>0.601</td><td>0.662</td><td>0.674</td><td>0.728</td><td>0.737</td><td>0.787</td><td>0.721</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "各省市区智库发展指数（ $X _ { 1 }$ ）的关联序为： $\\mathrm { X } _ { 2 } > \\mathrm { X } _ { 1 0 } > \\mathrm { X } _ { 4 } > \\mathrm { X } _ { 9 } > \\mathrm { X } _ { 8 } > \\mathrm { X } _ { 1 1 } > \\mathrm { X } _ { 3 } > \\mathrm { X } _ { 7 } > \\mathrm { X } _ { 6 }$ ${ \\bf \\mathrm { > } } \\mathrm { X } _ { 5 }$ ，即各省市区对外开放指数 $\\ >$ 各省市区政府网站绩效指数 $>$ 各省市区创新指数 $\\ >$ 各省市区财政透明度指数 $>$ 各省市区绿色发展指数 $\\ >$ 各省市区市场化指数 $>$ 各省市区政府效率指数 $>$ 各省市区综合发展指数 $\\ >$ 各省市区教育指数 $\\ >$ 各省市区人类发展指数。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由计算结果可以看出，各省市区对外开放指数和各省市区政府网站绩效指数是关联各省市区智库发展指数的两个最重要的因素，而各省市区教育指数和各省市区人类发展指数对各省市区智库发展指数的影响最弱。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.结论与建议",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1研究结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从总量上，省际区域智库运行投入和产出指标数据量与各省市区经济发展水平有重要关联，经济发展水平高的省市区智库运行投入和产出量也较大，同时区域智库运行投入和产出指标数据量也呈现由东部向中西部递减的趋势。从智库运行投入和产出指标关联性看，呈现投入与产出指标变量之间显著的正相关性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从区域智库运行全部投入产出指标测度效率值看，投入和产出指标绝对值高的省市区并不一定是效率水平最优的，有 $1 / 4$ 的省市区在现有投入规模基础上产出未达到最优水平；从区域智库运行部分投入产出指标测度效率值看，有近3/4的省市区未处于效率前沿面;从全部和部分投入产出指标测度效率值结果比较看，13个产出指标达到最优水平的省市区数要远多于5个产出指标达到最优水平的省市区数，各省市区软科学研究投入软科学决策和服务社会民众的精力和资源远少于投入到非成果传播方向上去。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从省市区智库发展的影响关联因素看，各省市区对外开放程度是影响智库发展的最重要因素，而其他9个因素对智库发展影响程度处于同一水平。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2区域智库发展建议",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "伴随着我国经济加速发展，各级政府对决策的需求不断加强，促使我国软科学研究事业发展进入新的机遇期，经过多年的发展和努力，我国形成了类型较多样、规模较齐全、研究领域宽广的智库机构群，机构人员和经费保障平稳，智库功能作用日益显现。但也发现，多个地方的智库机构运行效率不佳，还有很多影响智库机构有效运行的环境因素。从智库运行效率的内涵看，提高智库运行效率的重要方面是智库自身的内涵建设和营造智库有效运行的环境建设，各地的智库建设可以在以下两个方面加以改进。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第一，注重智库自身运行建设。真正建设具有国际影响力、具有中国特色的新型智库，还任重道远，我国智库仍需砥砺前行。由传统智库向现代新型智库转变，从智库内部运营机制上进一步提高竞争力与影响力，打造我国现代新型智库的“内核”，提升其话语权和影响力。更加注重把提高研究成果质量作为生命线，探索有利于调动研究人员积极性的人才机制，多措并举拓宽研究成果转化渠道，提升研究成果转化的效率。建立和保持通畅的政学研三螺旋通道，形成和打造多渠道的成果发布机制，充分借助新媒体、新科技社交网络与“云”的影响。通过管理机制上的创新发展来提升智库的运行效率和功能。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第二，积极营造智库有效运行的环境。需要给智库发展创造一个相对宽松的环境，让智库得以有效运行和充分发挥其功能作用，从而扩大智库的社会影响力。推进智库服务市场建设，建立完善政策分析研究的需求方、供给方、中介渠道所构成的市场机制。建立政府向智库购买决策咨询服务的机制，以及建立决策部门对智库咨询意见的反馈回应机制，使智库在重大决策中的作用发挥常态化、制度化和程序化，促进政府决策与智库之间良性互动。同时在政治环境、舆论环境、人才资源和资金保障方面，为智库发挥作用提供更加宽松有序的环境和更加畅通便捷的渠道。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于《全国软科学研究机构统计调查》从2011年之后未开展统计调查，全国也就没有了该方面的最新调查数据。所以论文所采用的投入产出指标变量数据较陈旧，同时所采用的智库评价指标体系与智库评价指标体系的内涵有一定的差异，简单采用产出指标变量绝对数值，使得论文所测度的效率值不够科学。影响智库有效运行的外部因素众多，本文从数据易得的视角选择了10个因素，还存在相当多的重要因素未纳入是本文存在的缺陷，如果将来有机会可以进一步改进。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LJ1aul DICKSUI. IIIIK IaIIKS LM」. NCW 1UIK.AUIIeIICUm, IJI1.10 12  \n[]Andrew Rich. Think Tanks,Public Policy,and the Politics of Expertise[M]. Cambridge:Cambridge University Press,2011:29-73.  \n3[]帕瑞克·克勒纳.智库概念界定和评价排名：亟待探求的命题[J]．韩万渠，译．中国行政管理，2014(5): 25-28.  \n4[]Mcgann JG. Think Tanks and the Transnationalization of Foreign Policy[J]. Connections:ThQuarterly Journal,2003(1) :85-90.  \n[5] Braml J. U.S. and German Think Tanks in Comparative Perspective[J]. German PolicyStudies，2006，3(2) :222-267.  \n[6]朱旭峰．“思想库”研究：西方研究综述［J].国外社会科学，2007(1)：60-69.  \n[7]David B. Truman. The Governmental Process: Political Interests and Public Opinion[M].Praeger,1981:121-135.  \n[8] Howlett M, Ramesh M. Studying Public Policy: Policy Cycles and Policy Subsystems[M].Oxford University Press，1995:88-97.  \n[9]Caplan N. The Two Communities Theory and Knowledge Utilization[J]. American BehavioralScientist,1979,22(3) :459-470.  \n[10]Weiss_C.H. The Many Meanings of Research Utilization[J]. Public AdministrationReview,1979,39(5) :426-431.  \n[11]Susanne Trimbath. Think Tanks: Who’ s hot[J]. The International Economy， 2005:10-47.[12]Mcgann J G. 2013 Global Go To Think Tank Index Report.[EB/0L].[2016-12-  \n12].https://repository.upenn.edu/think_tanks/9/  \n[13]上海社会科学院智库研究中心项目组．中国智库影响力的实证研究与政策建议[J]．社会科学，2014(5): 5-21.  \n[14]Thomas Medvetz. Think Tanks in America[M]. University Of Chicago Press, 2012: 26-38.[15]金芳，孙震海，国锋,等．西方学者论智库[M]．上海：社会科学院出版社,2010：27-38.  \n[16]薛澜，朱旭峰．中国思想库的社会职能—以政策过程为中心的改革之路［J]．管理世界,2009(4): 55-65.  \n[17]朱旭峰．构建中国特色新型智库研究的理论框架[J]．中国行政管理，2014(5)：29-33.  \n[18]薛澜.智库热的冷思考:破解中国特色智库发展之道[J].中国行政管理,2014(5)：6-10.  \n[19]Mcgann JG. The_Competition for Dollars， Scholars and Influence in the Public PolicyResearch Industry[M]. New York: University Press of America,1995: 1-216.  \n[20]于今.智库产业的体系构建[M].北京：红旗出版社,2013：88-186.  \n[21]李凌．智库产业研究：演化机理与发展趋势[M]．上海：生活读书新知三联书店,2012:1-236.[22]Charnes A， Cooper W W， Rhodes E. Measuring the efficiency of decision making units[J].European Journal 0peralional Research， 1978(6) :429-444.  \n[23]盛昭瀚，朱乔，吴广谋．DEA理论、方法与应用[M]．北京：科学出版社，1996：1-198.  \n[24]刘思峰，杨英杰，吴利丰.灰色系统理论及其应用[M].北京:科学出版社，2014: 221-258.  \n[25]科技部办公厅.关于组织开展2009～2010年度软科学研究机构统计调查的通知[EB/0L].[2016-12-03].http://www.gdstc.gov.cn/HTML/zwgk/tzgg/12955853579354161455640893135743.html.  \n[26]国家发展改革委国际合作中心课题组．中国区域对外开放指数的构建与分析［J]．全球化，2013(2)83-95.  \n[27]樊纲．中国市场化指数[M]．北京：经济科学出版社,2011：1-427.  \n[28]中国科技发展战略研究小组．中国区域创新能力报告[M]．北京：科学出版社,2012：1-337.[29]刘小兵，邓淑莲，温娇秀．中国省级财政透明度评估[J]．上海财经大学学报，2010,12(3)：50-57.[30]联合国开发计划署．2013中国人类发展报告[M]．北京：中国对外翻译出版有限公司，2013：1-200.[31]中国统计学会《综合发展指数研究》课题组．综合发展指数（CDI）研究[EB/OL]．［2016-12-20].http://www. nssc.stats.gov.cn/kychg/hjchg/201305/t20130529_1800.html.  \n[32]北京师范大学科学发展观与经济可持续发展研究基地等．2012中国绿色发展指数报告摘编［J]．经济研究参考，2012(67)：3-96.  \n[33]中国软件评测中心．中国政府网站绩效评估[EB/OL]．［2016-12-20].  \nhttp://www. mofcom. gov. cn/article/zt_wangzhanpg/index.shtml.  \n[34]北京师范大学管理学院等．2011中国省级政府管理效能排行榜［J]．管理观察，2012(2)：10-24.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Correlation of Influencing Factors and Operating Efficiency of Think Tanks in China -Analysis of Soft Science Achievement Transformation Data from Provinces ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Yue Hongjiang Schoolof Public Economics,Nanjing Audit University,Nanjing 211815 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Purpose/Significancel With the growing role of think tanks in the policy process,the building of think tanks and think tanks is becoming a hot isue at home and abroad.The operational efficiency and effectiveness of existing think tanks is also placed in the academic and government Department of the important issues.[Method /Process Taking the latest national statistical survey of soft science research institutes conducted by the Ministry of Science and Technology as a reflection of the development of China's think tank,two input indicators and 13 output indicators were selected to measure the operation efciency of each province and city think tank.Further select 10 indexes such as the index of opening to the outside world of provinces and municipalities as the environmental factors that influence the development of think tanks and look for the environmental impact related factors that affect the development of think tanks in provinces and autonomous regions.[Result /Conclusion] The output of the eight provinces and municipalities did not reach the optimal level based on the existing investment scale,and the output of 13 indicators reached the optimal level.The output of the provinces and municipalities was far more than 5 and the output indicators reached the optimal Horizontal provinces and municipalities; the opening up of various provinces and autonomous regions and provincial government website performance index is the most important factor associated with the development of think tanks invarious provinces and autonomous regions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key word: Soft science institutionsachievements transformation and utilization influencing factors operational efficiency ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2018-01-22 修回日期：2018-02-12 本文责任编辑：唐果媛",
+        "page_idx": 11
+    }
+]

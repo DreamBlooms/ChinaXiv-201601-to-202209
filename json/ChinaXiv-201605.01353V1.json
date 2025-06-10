@@ -1,0 +1,500 @@
+[
+    {
+        "type": "text",
+        "text": "Dimerization Mediated by a Divergent Forkhead-associated Domain Is Essential for the DNA Damage and Spindle Functions of Fission Yeast Mdb1\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "eceivedfrdb ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shukun Luo(罗树坤)\\*1,Xiaoran Xin (信潇然)+1,Li-LinDu(杜立林)\\*2,KeqiongYe(叶克穷)+53,andYiWei (魏祎)+1 Fromthe\\*Nationalstituteofologicaliences,Beijing206,CinandtheKeyLboratoryofAologysutef Biophysics, Chinese Academy of Sciences,Beijing 100101,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background: Fission yeast Mdblis homologous to mammalian MDC1,butthe extentof conservation is unclear.   \nResults: A previously unrecognized FHA domain in Mdbl mediates a functionally important homodimerization.   \nConclusion: FHA domain-mediated dimerization is a conserved feature of MDC1 family proteins.   \nSignificance:This study extends ourunderstanding of thefunction,mechanism,and evolutionofMDC1family proteins. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MDC1 is a key factor of DNA damage response in mammalian cells.It possesses two phospho-binding domains.In its C terminus,a tandemBRCA1 C-terminal domain binds phosphorylated histoneH2AX,and initsN terminus,a forkhead-associated (FHA) domain mediates a phosphorylation-enhanced homodimerization.The FHA domain of the Drosophila homolog of MDC1,MU2,also forms a homodimer but utilizes a different dimer interface.The functional importance of the dimerization of MDC1 family proteins is uncertain.In the fission yeastSchizosaccharomyces pombe,aprotein sharinghomology with MDC1 in the tandem BRCA1 C-terminal domain, Mdb1,regulates DNA damage response and mitotic spindle functions.Here,we report the crystal structure of the N-terminal 91 amino acids of Mdb1.Despite a lack of obvious sequence conservation to the FHA domain of MDC1, this region of Mdb1 adoptsan FHA-like foldand is therefore termed Mdb1-FHA. Unlike canonical FHA domains,Mdb1-FHA lacks all the conserved phospho-bindingresidues.It formsa stable homodimer through an interface distinct from those of MDC1 and MU2. Mdb1-FHA is important for the localization of Mdb1 to DNA damage sites and the spindle midzone,contributes to the roles of Mdb1 in cellular responses to genotoxins and an antimicrotubule drug,and promotes in vitro bindingof Mdb1 toa phospho-H2A peptide.Thedefectscausedby the lossofMdb1-FHA can be rescued by fusion with either of two heterologous dimerization domains,suggesting that the main function of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mdb1-FHA is mediating dimerization. Our data support that FHA-mediated dimerization is conserved for MDC1 family proteins. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Eukaryotic DNA damage response relies heavily on protein phosphorylation events,which are often recognized by phospho-binding domains (1,2). One of the earliest DNA breakinduced events is the phosphorylation of histone H2AX (histone H2A in yeasts) (3).Phospho-H2AX,known as $\\gamma \\mathrm { H 2 A X } .$ serves as a recruiting platform for checkpoint signaling proteins and DNA repair proteins (4).In mammalian cells,the recruiting role of $\\gamma \\mathrm { H } 2 \\mathrm { A X }$ is mainly mediated by MDC1,which directly binds to $\\gamma \\mathrm { H } 2 \\mathrm { A X }$ through its C-terminal tBRCT domain (5-7). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In addition to the tBRCT domain,MDC1 contains a second phospho-binding domain,an FHA4 domain,in its N terminus. Recently,four studies,including three that solved the crystal structures of the MDC1-FHA domain,demonstrated that MDC1 can self-associate through the FHA domain (8-11). The structures revealed that MDC1-FHA has an intrinsic ability to forma homodimer.Furthermore,an intersubunit interaction between MDC1-FHA and a phosphorylation site near the extreme N terminus of MDC1 enhances the dimerization(10, 11).The exact physiological function of the dimerization of MDC1 remains unresolved,because two studies showed that loss of dimerization partially impairs the ability of MDC1 to localize to DNA damage sites (8,1O),whereas another study concluded that dimerization does not contribute to MDC1 accumulationat sitesofDNAbreaks (11). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The FHA domain in the Drosophila ortholog of MDC1, MU2,was found to also forms a homodimer (12),raising the possibility that dimerization is an ancient and conserved function of the FHA domains in MDC1 family proteins.However, the dimerization interface of MU2-FHA is completely different from that of MDC1-FHA,and because of a lack of phosphobinding residues,the dimerization of MU2-FHA is probably not subject to phospho-regulation like that of MDC1-FHA. Therefore,it seems equally plausible that MDC1-FHA and MU2-FHA have independently acquired the ability to dimerize during evolution.The physiological importance of MU2 dimerization has not been addressed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the fission yeast Schizosaccharomyces pombe,phosphoH2A $( \\gamma \\mathrm { H 2 A } )$ is directly recognized by three tBRCT domaincontaining proteins:Crb2 (13-16),Brc1 (17,18),and Mdb1 (19).Among them,Mdb1 shares with MDC1 the highest level of sequence similarity,which is limited to the tBRCT domain (19).Mdb1 not only modulates DNA damage response in a yH2A-dependent manner but also influences mitotic spindle function ina yH2A-independent manner (19).The N-terminal region of Mdb1 shows conservation among fission yeast species,but no sequence homology can be detected beyond the Schizosaccharomyces genus,nor can any known domain be identified in this region using various domain-searching tools. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,we report the crystal structure of the N-terminal 91 amino acids of Mdb1.We show that this region of Mdb1 folds into a FHA domain and forms a stable homodimer.The dimerization function of this domain is important for the roles of Mdb1 in DNA damage response and mitotic spindle regulation. Our findings suggest that FHA-mediated dimerization is a universal and conserved property of MDC1 family proteins. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental Procedures ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Gene Cloning and Protein Purification-The DNA sequence encoding Mdb1 (a total of 624 residues) was PCR amplified froma S.pombe cDNA library and cloned into a pET-15b plas mid with an N-terminal ${ \\mathrm { H i s } } _ { 6 }$ tag and a thrombin cleavage site. Two FHA domain fragments with residues 1-1O4 and 1-91 were cloned into a modified pET-28a vector and fused to an N-terminal ${ \\mathrm { H i s } _ { 6 } }$ tag followed by a PreScission cleavage site. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All proteins were expressed in Escherichia coli BL21(DE3) strain (Novagen) induced with $0 . 2 \\mathrm { m M }$ isopropyl $\\beta$ -D-thiogalactopyranoside.The full-length protein was expressed at $3 7 ^ { \\circ } \\mathrm { C }$ for $^ { 4 } \\mathrm { h } ,$ whereas two FHA fragments were expressed at $2 5 ^ { \\circ } \\mathrm { C }$ for $1 2 \\mathrm { h } .$ To purify Mdb1(1-104),harvested cells were resuspended in bufferP300 ( $\\mathrm { \\ddot { 5 } 0 } \\mathrm { m M }$ sodium phosphate, $\\mathrm { p H } 7 . 6$ $3 0 0 \\mathrm { m M }$ KCl) andlysed by sonication.After centrifugal clarification，the supernatant was loaded onto a $_ { 5 - \\mathrm { m l } }$ HisTrap column (GE Healthcare),which was then washed with $2 0 ~ \\mathrm { m M }$ imidazole in P300.The proteins were eluted with $5 0 0 \\mathrm { m M }$ imidazole in P300. After 6-fold dilution with $2 5 \\mathrm { m M }$ HEPES-KOH, $\\mathrm { p H } 7 . 6$ proteins were loaded onto a HiTrap Qcolumnand eluted with a $0 { - } 1 \\mathrm { ~ M ~ }$ KCl gradient in $2 5 \\mathrm { m M }$ HEPES-KOH, $\\mathrm { p H } 7 . 6$ . The target protein wascollected,concentratedwith AmiconUltra-15 centrifugal filter units (3-kDa cutoff; Millipore),and further purified with a Superdex75 column run in $5 \\mathrm { m M }$ HEPES-KOH, pH7.6, $1 0 0 \\mathrm { m M }$ KCl. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Full-length Mdb1 and Mdb1(1-91) were expressed and purified in the same way but did not undergo the final step of gel filtration chromatography. The ${ \\mathrm { H i s } _ { 6 } }$ tag of Mdb1(1-91) was cleaved with PreScission protease at $4 ^ { \\circ } \\mathrm { C }$ for $^ { 4 \\mathrm { h } }$ after HisTrap chromatography,and uncleaved protein was removed bya HisTrap column.Protein concentrations were calculated based on absorbance at $2 8 0 \\mathrm { n m }$ measured using a NanoDrop photospectrometer and theoretical molar extinction coefficients predicted by ExPaSy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Crystallization and Structure Determination-Mdb1(1-104) with an uncleaved ${ \\mathrm { H i s } } _ { 6 }$ tag was crystallized at $2 0 ^ { \\circ } \\mathrm { C }$ using the hanging drop vapor diffusion approach. One $\\mu \\mathrm { l }$ of protein sample (35 $\\mathrm { m g / m l }$ in $5 \\mathrm { m M }$ HEPES-KOH, $\\mathrm { p H } 7 . 6$ $1 0 0 \\ \\mathrm { m M \\ K C l } ,$ wasmixed with $1 \\mu \\mathrm { l }$ of reservoir solution containing $0 . 1 \\mathrm { { u } }$ sodium acetate, pH 5.2,and $1 . 8 ~ \\mathrm { ~ M ~ }$ ammonium sulfate.Diamond-shaped crystals appeared in 2 days and were harvested after 1 week.Mercury derivatives were prepared by soaking crystals in the reservoir solution containing $1 \\mathrm { m M }$ merthiolate sodium for $6 \\mathrm { { h } }$ Crystals were cryoprotected in the reservoir solution supplemented with $2 5 \\%$ glycerol and flash cooled in liquid nitrogen. Data were collected at $1 0 0 \\mathrm { K }$ at Beamline 3W1A of the Beijing Synchrotron Radiation Facility and processed with HKL20oO (2O). The structure was determined by the singlewavelength anomalous diffraction method using a mercury derivative data set collcted at a wavelength of 1.0o9 A.Heavy atomsearch,phase calculation,and density modification were conducted inautoSHARP (21).Model buildingand refinement were conducted using Coot,Refmac,and Phenix (22-24).The model was refined against a native data set to $2 . 7 \\mathring \\mathrm { A }$ resolution. The current model contains 4 Mdb1-FHA molecules with residues 1-22 and 26-91,residues 1-12 and 15-91,residues 1-90,and residues 1-90,as well as 3 sulfate ions and 2O water molecules.RAMPAGE analysis shows that $9 5 . 1 \\%$ of the residues are in favored region and $4 . 9 \\%$ in allowed region. Structural figures were created withPyMOL (25). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LimitedProteolysisandMass Spectrometry-Approximately $1 0 \\mathrm { m g }$ of full-length Mdb1 protein was incubated with $1 6 0 \\mu \\mathrm { g }$ of trypsin in $1 0 ~ \\mathrm { m l }$ of P300 buffer at $4 ^ { \\circ } \\mathrm { C }$ After $1 2 \\mathrm { h }$ of digestion, thereactionwas concentrated and loaded ontoa Superdex 75 Hiload 16/60 column equilibrated in $5 0 \\mathrm { m M }$ sodium phosphate, $\\mathrm { p H } 7 . 6$ $1 5 0 \\mathrm { m M N a C l }$ at $4 ^ { \\circ } \\mathrm { C }$ Peak fractions were analyzed with SDS-PAGE.The main cleavage products were identified with mass spectrometry.Size exclusion columns were calibrated with protein standards: bovine serum albumin $( 6 7 ~ \\mathrm { \\ k D a } )$ 1 ovalbumin $( 4 3 \\mathrm { k D a } )$ ,chymotrypsinogen $( 2 5 \\mathrm { k D a } )$ ,and lysozyme （20 $( 1 4 . 4 \\mathrm { k D a } )$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sedimentation Equilibrium-The sedimentation equilibrium experiments were performed with an XL-I analytical ultracentrifuge (Beckman Coulter) equipped with an An-60 Ti rotor and a six-channel centerpiece.Mdbl(1-91) with no tag was exchanged to $2 0 \\mathrm { m M }$ sodium phosphate, $\\mathrm { p H } 7 . 6$ ,and $1 5 0 \\mathrm { m M }$ NaCl with gel filtration and loaded at a monomer concentration of $6 7 \\mu \\mathrm { M }$ to middle cells and at a monomer concentration of $3 4 \\mu \\mathrm { M }$ to outer cells.The samples were centrifuged at $2 5 ^ { \\circ } \\mathrm { C }$ with 25,000, 30,000,and $^ { 3 8 , 0 0 0 \\mathrm { r p m } }$ and detected using absorbance at $2 8 0 \\mathrm { n m }$ All data were globally fit using a self-association model in SedPhat programasdescribed previously (10). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Accession Number-The atomic coordinates and structure factors of Mdb1FHA structure have been deposited in the ProteinData Bankunderaccession code 4S3H. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fission Yeast Strains-Fission yeast strains used in this study are listed in Table 1.Methods for strain construction and composition of media are as described (26).For the construction of plasmids expressing wild-type or truncated Mdb1,the Mdb1 coding sequence was amplified by PCR and inserted into mod",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "TABLE1 ission yeast strains used in this study "
+        ],
+        "table_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mating Strain type Genotype LD327 （20 $h -$ his3-D1 DY15603 （204号 $h +$ （20 his3-D1 mdb1△:hphMX leul-32:P81nmt1-Mdb1-wt-GFP(leu1+) DY15615 （204号 $h +$ （204号 ura4-D18 his3-Di leul-32:Pnmt1-GFP(leu1+) DY15616 （204号 $h +$ （20 ura4-D18 his3-D1 leu1-32::Pnmt1-Mdb1-wt-GFP(leu1+) DY15627 （204号 $h +$ （20 his3-D1 mdb1△:hphMX ars1:CFP-atb2:LEU2 leu1-32:P81nmt1-Mdb1-wt-GFP(leu1+) DY15630 （20 $h +$ （204号 his3-D1 mdb1△::hphMX leu1-32:P81nmt1-GFP(leu1+) DY15638 （204号 $h +$ （20 his3-D1mdb1△::hphMX leu1-32:P81nmt1-Mdb1(105-624)-GFP(leu1+) DY16307 （20 $h +$ （204号 his3-D1mdb1△::hphMX leul-32:P81nmt1-LZ-Mdb1(105-624)-GFP(leu1+) DY16309 （204号 $h +$ （204号 his3-D1 mdb1△::hphMX leu1-32:P81nmt1-GST-Mdb1(105-624)-GFP(leu1+) DY16573 h- ura4-D18 his3-Di(?)crb2(1-778)F400A mdb1△:natMX leu1-32:P81nmt1-GST-Mdb1(105-624)-GFP(leu1+) DY16579 h- ura4-D18 his3-D1(?)crb2(1-778)F400A mdb1△:natMXleu1-32:P81nmt1-LZ-Mdb1(105-624)-GFP(leu1+) DY16581 （204号 $h -$ ura4-D18 his3-D1(?) crb2(1-778)F400A mdb1△:natMX leul-32::P81nmt1-GFP(leu1+) DY16639 （204号 $h +$ （ his3-D1 mdb1△:hphMX ars1::CFP-atb2:LEU2 leu1-32::P81nmt1-Mdb1(105-624)-GFP(leu1+) DY16643 （20 $h +$ （ his3-D1mdb1△:hphMXars1:CFP-atb2:LEU2 leu1-32:P81nmt1-GST-Mdb1(105-624)-GFP(leu1+) DY16645 （20 $h +$ （ his3-D1mdb1△::hphMX ars1:CFP-atb2:LEU2 leul-32::P81nmt1-LZ-Mdb1(105-624)-GFP(leu1+) DY17124 （204号 $h -$ ura4-D18 his3-Di(?)crb2(1-778)F400A mdb1△:natMX leu1-32:P81nmt1-Mdb1-wt-GFP(leu1+) DY17126 （204号 $h -$ ura4-D18 his3-D1(?) crb2(1-778)F400A mdb1△:natMX leu1-32:P81nmt1-Mdb1(105-624)-GFP(leu1+) DY17216 （204号 $h +$ （ ura4-D18 his3-D1 leu1-32:Pnmt1-Mdb1(105-624)-GFP (leu1+) DY17218 （204号 $h +$ （ ura4-D18 his3-D1 leu1-32::Pnmt1-GST-Mdb1(105-624)-GFP(leu1+) DY17220 （20 $h +$ （ ura4-D18 his3-D1 leu1-32:Pnmt1-LZ-Mdb1(105-624)-GFP(leu1+) DY18067 （20 $h +$ （ his3-D1mdb1△:hphMXleu1-32:P81nmt1-GFP-Mdbi-wt(leu1+)ars1:P81nmt1-mCherry-Mdb1-wt(his3+) DY18069 （204号 $h +$ （ his3-D1mdb1△:hphMXleu1-32:P81nmt1-GFP-Mdb1-wt (leu1+)ars1:P81nmt1-mCherry-Mdb1(105-624)(his3+) DY23263 （20 $h +$ （20 ura4-D18 leul-32mdb1△::hphMXleul-32:P81nmt1-Mdb1(105-624)-wt-GFP(leul $+ ,$ his3:Ptub1-Mdb1(105-624)-wt-GBP(kanMX) DY24110 （204号 $h +$ （204号 ura4-D18leu-32mdbhhMXleu1-32:P8lnmt1-Mdb(105624)-wt-GFP(leu1+)his3:Ptub1-Mdb(105-624)-K434M-GBP(kaMX) DY24112 （204号 $h +$ ura4-D18 leul-32mdb1△:hphMX leu1-32:P81nmt1-Mdb1(105-624)-K434 M-GFP(leul $+$ his3:Ptub1-Mdb1(105-624)-wt-GBP(kanMX) DY24114 （204号 $h +$ （20 ura4-D18 leul-32mdb1△::hphMX leu1-32::P81nmt1-Mdb1(105-624)-K434M-GFP(leul $^ +$ )his3:Ptub1-Mdb1(105-624)-K434M-GBP(kanMX) DY24566 （20 $h +$ （204号 leul-32his3-D1 mdb1△::hphMX leu1-32:P81nmt1-GFP-GST-Mdb1(105-624) (leul $^ +$ )ars1:P81nmt1-mCherry-Mdb1(105-624) (his3+) DY24567 （204号 $h +$ （204号 leu1-32his3-DmdbpMXe-2:8mtGS-Mdb(624)(eu1+)as:P8mt-mChey-GS-Mdb(10624)is DY24570 （204号 $^ { h + }$ （204号 leu1-32his3-D1mdb△:hphMXleu1-32:P8nmt1-GFP-LZ-Mdb1(105-624)(leul+)arsl:P81nmt1-mChery-Mdb1(105-624)(his3+) DY24571 （20 $h +$ （20 leu1-32his3-Dmdb:phMXle-32:P8nmt-GF-LZ-Mdb1(10-624)(eu1+)arsl:P1nmt-mChey-LZ-Mdb1(105-624)(is) A B Trypsin + 7 kD 43kD 25kD 14.4 kD kD / Mdb1 - 116 (nAu) 1000 - 66.2 -45 arrpeeee 800 600 BRCT -25 -18.4 400 FHA - 14.4 200 1 2 Fraction 8191314.1618292324.26283932 50 60 70 80 90 100 Elution volumn (ml) C Fraction 141516 17 1819 D BRCT Mdb1 FHA tBRCT FHA 1 91 384 589 624 FIGURAuoplisai $B ,$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "migration positionsof molecularmakersare indicated. elution profileof Mdbi digestion products ina Superdex75column.The elution positions of proteir standardsare indicated. $C _ { \\prime }$ peak fractions from gel filtration of trypsin-digested Mdb1 were analyzed with SDS-PAGE. $D ,$ domain diagram of Mdb1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ified pDUAL vectors (19,27),which contain one of the three versions of thiamine-repressible nmtl promoter (Pnmtl, P4lnmtl,or P8lnmtl） and the sequence encoding GFP or mCherry.Sequences of heterologous dimerization domains were identical to the ones previously used for Crb2 fusions (28). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The plasmids were linearized with NotI and integrated at the leu1 locus or were linearized with MluI and integrated at the ars1 locus.For the strains containing CFP-tubulin (CFP-Atb2), pREP81-CFP-atb2 was linearized with MluI and integrated at the arsl locus (19). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A BMDC1 pT4-peptideN96R58K731 β7N 180° S7264 MDC1Mdb1  \nC Dβ6β91 1MDC1 -59 0 59 (kT/e) Mdb1  \nEMdb1 β1 β2 β3 β4 β5 β6 β7 β8 β9 β10 β11MU2 → →MDC1 ? →1 20 30 40 50 60 70 80 9Mdb1 1 -MEIQFGN-- -QRCRMV NSGGFLATDGS HL K EMETDDVLVELNIE- -HQLFIRNIRA--IVKIA--DTTVLPSASDKKLLYYVFD- ETRVRINDTPVIESKL 92MU2 3DVSLFFG----GLPAILLK\\~DTIYR -GLPAILLK\\~DTIYRIGRQKG LEISIA DESMELAIATACILR-RGVVRLAALVG--KIFN--DQEET- -VVDIGMENAVAGKVK GNVEARLEFG99MDC1 31VGRLHIFSGAHGPEKDFPLH LGKNV GR MPDCSVAIP FPSISKQHAEIEILAWDKAPIIRDCGSLNGTOLLRPPKVLSPGV- -SHRIRD- -QEL FA DLLCOYHRL 133NBS1 1 MWIIEAEGDI--LKGKSRIL\\~PGTYI GF NVS\\~SHI 红 SKS SKRHARE TILTP\\~PCEFE DLDTKFGTKVN--EKV GQN- -GDSYKEK- DLK T PFTINAYW-114PNK 9RLWLESPPGE--APPIFLPS\\~GQALV GR - PLTQ DRKCSRTQVEI VADPETRTVAY KQLG-VNPSTTG--TQELKPG- -LEGSLGV- GDT \\~EHP TRWE107TB39 435 SVTLQLDDG---SGRTYQLR EGSNI GF GQDAQ DTGV RRHLE RWDG- -QVAL LNST GTTVN--NAP Q -EWQIAD- GDVI HSE RMH527RNF8 17 SWCIRRVGMS--AGWLLLED GCEVT GR GFGVT V\\~PLM RN HCVLKQNP-EGQWT NKSLNGVWLN--RARLEPL- -RVYSIHQ- GDY G\\~EYE EE127EmbR 289VAYLHDIA----SGRGYPLQ AAATRI GR LHDND SANV RHHAVI VDTG- -TNYV LRSSNGVHVQ--HERIRS-- -AVTND- GDH DHE QIS381CHK2 93WARLWALQDG--FANLECV- NDNYWE GF DKSCE D\\~YRT KKI FR FREVG\\~SYIAY HS-G GTF N- -TEL GKG- -KRRPLNN- -NSE \\~NKV FDL204  \nRad53-2 577VCRVICTTGQ--IPIRDLSA\\~KKVWTE NPACD G\\~ISR NKI FQ LLGE- DGNLL IS-TN GTWLN--GQKVEKN- -SNQLSQ- GDE \\~ILS FIN697  \nRv1827 55SALIVVKRGPN-AGSRFLLD QAITSA GR HPDSDI IF D DVT RRHAEE RLEN- -NEFNV DVGSL GTY N -REP -SAVLAN- GDE KFR 1  \nRad53-1 33FLTLKPLPDSIIQESLEIQQ\\~VNPFF GF SEDCNCK IE DNR RV HCE KKRH\\~LDDIWY CHTG-TN VSY N- -NNRMIQG- -TKFLLQD- -GDEI \\~VIG EIN 148OdhI 46SALLVVKRGPN-AGARFLLD QPTTTAG HPESDIFLD DVTV SRRHAEE RINE- -GEFEV DVGSLNGTY -REPRN- -AQVMQT- -GDE KFRI ELAG140Dun1 34LGHIVNLIPG--KEQKVEIT\\~RNVTTI SRS CD 心 EPD TF HAEE HLLQM\\~RNLIN KS-RNGTEI -GNRIVKK- -DYIIKN -GDRI \\~SCSE KYA138V67 TDDMT/DCCNCDUEDT CTCTCT TT CD T UD APA cCnD Dimvu \\~nT ATT",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DNA Damage and Thiabendazole Sensitivity Assay-Cultures were grown to log phase and serial 5-fold dilutions of cells were spotted onto control and drug-containing plates.UV irradiation was applied using a CL-1ooo UV crossy-linker (UVP). Forionizing radiation (IR) treatment,cells were irradiated with a Gammacell 1ooo irradiator (dose rate, $1 6 \\mathrm { { G y / m i n } ) }$ in microcentrifuge tubesand then plated on YES plates. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Light Microscopy-Live cells were imaged using a $1 0 0 \\times$ 1.4-NA objective on a DeltaVision PersonalDV system (Applied Precision) equipped witha CFP/YFP/mCherry filter set (Chroma 89006 set) and a Photometrics CoolSNAP HQ2 camera.Images were analyzed with the SoftWoRx software. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Immunoprecipitation-Approximately $1 0 0 A _ { 6 0 0 }$ units of log phase cells were grown in thiamine-free EMM medium.Cell lysates were prepared with the FastPrep system (MP Biomedicals) in the lysis buffer(50 mMHEPES,pH7.5,1 mM EDTA,150 $\\mathrm { m M N a C l }$ $1 0 \\%$ glycerol,1 mM PMSF,1 mMDTT, $0 . 0 5 \\%$ Nonidet P-40, $1 \\times$ Roche protease inhibitor mixture).RFP-trap-agarose beads(ChromoTek) were used for immunoprecipitating the mCherry-tagged protein.After washing the beads three times with lysis buffer,proteins bound to beads were eluted by boiling in SDS-PAGE loading buffer. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Vitro yH2A BindingAssay- ${ \\mathrm { H i s } } _ { 6 }$ -taggedMdb1 proteins were expressed in $E .$ coli strain BL21 and purified using nickelnitrilotriacetic acid beads (Qiagen) in accordance with manufacturer's instructions.H2A peptide pull down assay was performed as previously described (19). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9423399a4f364e18381bea9a3a5a5014df6668c20118b6c54a0b07bf9d5d857.jpg",
+        "table_caption": [
+            "TABLE2 Data collection and refinement statistics The values for the data in the highest resolution bin are shown in parentheses. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Hgderivative</td><td>Native</td></tr><tr><td>Data collection</td><td></td><td></td></tr><tr><td>Space group</td><td>P6.22</td><td>P6522</td></tr><tr><td>Cell dimensions</td><td></td><td></td></tr><tr><td>a,b,c (A)</td><td>90.7,90.7,224.0</td><td>91.1, 91.1, 224.5</td></tr><tr><td>a,β,y(）</td><td>90,90,120</td><td>90,90,120</td></tr><tr><td>Wavelength (A)</td><td>1.009</td><td>1.000</td></tr><tr><td>Resolution range (A)</td><td>25-2.70 (2.8-2.70)</td><td>20-2.70 (2.80-2.70)</td></tr><tr><td>Unique reflections</td><td>15,784 (1,496)</td><td>15,871 (1,524)</td></tr><tr><td>Redundancy</td><td>10.0 (7.2)</td><td>9.6 (9.9)</td></tr><tr><td><I>/<g()）></td><td>27.6 (3.35)</td><td>22.8 (3.4)</td></tr><tr><td>Completeness (%)</td><td>99.6 (96.9)</td><td>99.9 (99.8)</td></tr><tr><td>Rmerge</td><td>0.073 (0.372)</td><td>0.102 (0.673)</td></tr><tr><td>Structure refinement</td><td></td><td></td></tr><tr><td>Resolution range (A)</td><td></td><td>20-2.70 (2.87-2.70)</td></tr><tr><td>No.reflections</td><td></td><td>15,820 (1,558)</td></tr><tr><td>No.atoms</td><td></td><td>2,918</td></tr><tr><td>Rwork</td><td></td><td>0.219 (0.256)</td></tr><tr><td>Rfree</td><td></td><td>0.271 (0.310)</td></tr><tr><td>rmsd bond length (A)</td><td></td><td>0.011</td></tr><tr><td>rmsd bond angles (°)</td><td></td><td>1.623</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mdb1 Contains Two Structural Cores-To probe the structural cores of Mdbl，its full-length protein was partially digested with trypsin.We found three major products that were highly resistant to digestion and probably formed stable structural cores (Fig.1A).Peptide sequencing by mass spectrometry showed that the product that migrated as a 25-kDa species in SDS-PAGE gel corresponded to the C-terminal tBRCT domain with residues 384-589 and two smaller products of ${ \\sim } 1 4 \\mathrm { k D a }$ contained N-terminal residues 1-104 and 1-91.Gel filtration chromatography of digestion products showed that the $\\mathrm { N } \\mathrm { - }$ and C-terminal products eluted with slightlydifferent peaksat fractions 17 and 16,respectively (Fig.1, $B$ and $C$ )，suggesting that they were structurally independent after the linker region was removed.The tBRCT domain migrated in gel filtration column as expected for a monomer.By contrast, the N-terminal products eluted with an apparent molecular mass of ${ \\sim } 3 0 \\mathrm { k D a }$ ,which ismore than twice its theoretical molecular mass of $1 2 \\mathrm { \\ k D a }$ suggesting that it may form a dimer in solution.Therefore, Mdb1 contains two structural cores at two extremes of the polypeptide(Fig. $1 D ^ { ' }$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The N-terminal Region of Mdb1 Is an Atypical FHA Domain-To gain insight into the structure and function of the N-terminal region of Mdbl,we expressed,purified,and crystallizeda fragment containing residues 1-1o4 and determined its structure using a mercury derivative and the single-wavelength anomalous diffraction phasing method.The structure was refined to $2 . 7 \\textup { \\AA }$ resolution with an $R _ { \\mathrm { w o r k } } / R _ { \\mathrm { f r e e } }$ of 0.219/ 0.271 and good geometric parameters (Fig. 2 and Table 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The asymmetric unit contains four molecules that each spans residues 1-91. Several residues in loop regions were not modeled in two protomers because of a lack of electron density. The four structures can be aligned with each other with root mean square deviations (rmsd) of ${ \\sim } 0 . 4 \\mathrm { ~ \\AA ~ }$ over all $\\textstyle \\ C \\alpha$ pairs. Search in the DaliLite server revealed that the structure is homologous to many FHAdomains,with the MDC1 FHA domain being the top hit $( Z \\mathrm { s c o r e } = 8 . 4 , \\mathrm { r m s d } = 1 . 1 3 4 \\mathring { \\mathrm { A } }$ over $2 7 \\thinspace C \\alpha$ pairs) (29).This homology cannot be identified at the sequence level.Our finding indicates that the similarity between Mdb1 and MDC1 extends to theirN-terminal regions.We hereafter refertotheN-terminaldomainofMdb1asMdb1-FHA. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The canonical FHA domain contains 11 $\\beta$ -strands that assemble into two $\\beta$ -sheetsand forma $\\beta$ -sandwich.In Mdb1- FHA,the equivalents of strands $\\beta 4$ and $\\beta 8$ are missing (Fig. 2A). For ease of comparison with other FHA structures,we label the $\\beta$ -strands in Mdb1-FHA according to their structural equivalence to the strands in the canonical 1l-stranded fold. Thus, one $\\beta$ -sheetin Mdb1-FHAiscomposed of strands $\\beta 3$ $\\beta 5 _ { ; }$ β6, and $\\beta 9$ ，and the other $\\beta$ -sheet is composed of strands $\\beta 2 , \\beta 1$ $\\beta 1 1$ $\\beta 1 0$ and $\\beta 7$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The phosphopeptide binding pocket of MDC1-FHA is composed of $_ { \\beta 3 - \\beta 4 }$ ,β4-β5,and $\\beta 6 \\mathrm {             - } \\beta 7$ loops (9-11). Residues Arg58,Ser-72,Lys-73,and Asn-96 of MDC1 mediate critical interactions witha MDC1 peptide containing phosphorylated Thr-4 (Fig.2B) and are highly conserved in FHA domains (Fig. $2 E$ ） However,in Mdb1-FHA,the $\\beta 4$ strand is missing,and the loop between $\\beta 3$ and $\\beta 5$ folds back to the body of $\\beta$ -sandwich,rather than occupying the equivalent position of $\\beta 3 \\ – \\beta 4$ and $\\beta 4 \\ – \\beta 5$ loops in canonical FHA domains (Fig.2B). Three ${ \\mathrm { T h r } } ( { \\mathrm { P } } ) $ -bindingresidues,Arg-58,Ser-72,and Lys-73,in MDC1-FHA are replacedbyThr-21,Asp-32,andAsp-33 inMdb1-FHA,respectively (Fig.2E).Moreover,Mdb1,like MU2,hasa shortened $\\beta 6 \\mathrm { - } \\beta 7$ loop and lacks the equivalent of MDC1 Asn-96 (Fig. $2 E$ ） The ${ \\mathrm { T h r } } ( { \\mathrm { P } } )$ binding pocket of MDC1-FHA is positively charged,whereas the corresponding region in Mdb1-FHA is partly negatively charged and partly neutral (Fig. 2, $C$ and $D$ ) These structural features strongly suggest that Mdbl-FHA is incapable of binding phosphopeptides. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mdb1-FHAFormsaHomodimerthroughaNovel InterfaceConsistent with the results of gel filtration analysis (Fig.1 and data not shown),the four Mdb1-FHA molecules in the asymmetric unit form two homodimers.The two dimers have identicaldimerinterfaceandcanbealignedasawholeunitwithan rmsd of $0 . 3 4 3 \\mathring { \\mathrm { A } }$ over all $\\textstyle \\ C \\alpha$ pairs.In the dimer, two FHA subunits (named Aand B) associate through parallel pairing of $\\beta 9$ strands(Fig.3A).There are five hydrogenbonds connecting the polypeptide backbones of two $\\beta 9$ strands (Fig.3B).In addition, atboth sides of the $\\beta 9$ pair,residues from strands $\\beta 5 _ { ; }$ $\\beta 6 ,$ and $\\beta 9$ of one subunit contact with residues from strand $\\beta 9$ and its connecting loops to $\\beta 7$ and $\\beta 1 0$ of the other subunit.Specifically,residues Leu-39, Ile-41,Phe-46,Leu-71,and Tyr-73 of subunit A form a hydrophobic core with residues Leu- ${ \\cdot } 6 2 { ' }$ ，Leu- ${ 7 0 ^ { \\prime } }$ ，Tyr- ${ \\cdot } 7 2 { ^ { \\prime } }$ ，and Phe- ${ 7 } 5 ^ { \\prime }$ of subunit B (residues from subunit B are denoted by prime) at one side (Fig.3B).At the other side of the $\\beta 9$ pair, the same set of residues from respective subunits also constitute a hydrophobic core.However, the alignment of equivalent residues at the interface is shifted by ${ \\sim } 6 \\mathring { \\mathrm { A } }$ at two sides of the $\\beta 9$ pair (Fig. 3B).In addition, Gln-44 makes hydrogen bonds with Tyr- ${ 7 2 ^ { \\prime } }$ and the carbonyl group of Thr- ${ \\cdot } 6 0 ^ { \\prime }$ at one side (Fig.3B,top),whereas $\\mathrm { G l n } { - } 4 4 ^ { \\prime }$ hydrogen bonds with the side chain hydroxyl of Thr-59 at the other side (Fig.3B,bottom).The dimerization interaction is asymmetric at two sides because the two subunits are not related withadyadaxis,butwitha“screw\"axiswithoneresidue translation along the $\\beta 9$ strand. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c87d698c5caaf274f1418e2ae19c03f212d765890381ea21b37ff2f2eba3f773.jpg",
+        "img_caption": [
+            "FIGURE3DimeritrctureofdbAboepresetatioofdbirtructuresoinoortgalveubide colored greenand cyan,respectively.The $\\beta$ -strandsare numberedas in Fig.2,and the Nand C terminiare labeled. $B ,$ the dimer interface viewed from two oppositesidessdmeooicsigdddeodolow dashed lines. $C _ { \\prime }$ one subunit ofthe FHA dimersof Mdb1(green),MU2(magenta),and MDC1(yellow)are aligned.The bound $\\mathsf { T h r } ( \\bar { \\mathsf { P } } )$ -peptide of MDC1 is shown in blue. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although the FHA domains of MDC1,MU2,and Mdb1 all forma dimer,theirdimerization interfaces are dramatically different (Fig.3C).All three dimerization interfaces are on the lateral surfaces of the $\\beta$ -sandwich,away from the apical surface that binds phosphopeptide in canonical FHA domains. The MDC1 and MU2 interfaces largely correspond to the outer surfaces of the two $\\beta$ -sheets,respectively,whereas the Mdb1 interface is oriented approximatelyat a right angle from the other two interfaces,situating near an edge of the $\\beta$ -sandwichwhere the two $\\beta$ -sheetsmeet. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Analysis with thePISA server shows that the buried solventaccessible area upon dimerization is $7 4 1 \\mathring { \\mathrm { A } } ^ { 2 }$ per subunit, which accounts for $1 2 . 6 \\%$ of the total surface of Mdb1-FHA.Analytical ultracentrifugation sedimentation equilibrium analysis revealed thatMdb1-FHA formsa relative stabledimer with an apparent dissociation constant $K _ { d }$ of $3 7 5 \\mathrm { n M }$ (Fig. $^ { 4 , A }$ and $B _ { . }$ .As a comparison, the $K _ { d }$ value is $9 . 2 ~ \\mu \\mathrm { M }$ for unphosphorylated MDC1 FHAdimer, $3 2 { \\mathrm { n M } }$ for MDC1-FHA dimer witha phosphorylated Thr-4,and $0 . 1 9 ~ \\mathrm { n M }$ for MU2-FHA dimer (10,12). Thedifferent stabilities of these FHA dimers are correlated withthesizesof theirdimer interfaces.Mdb1-FHAandMU2- FHA have larger interfaces (741 and $8 7 2 \\mathring { \\mathrm { A } } ^ { 2 }$ ,respectively)and form stable dimer.The MDC1-FHA dimer possesses a smaller interface $( 4 9 0 \\mathring \\mathrm { A } ^ { 2 } )$ and is unstable in the absence of the transinteraction with ${ \\mathrm { T h r } } ( { \\mathrm { P } } ) { \\cdot } 4 .$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c388a950b729dfbb44c3dd249b8dff2a7097cd17a6c509f9cb72a522e6882b7c.jpg",
+        "img_caption": [
+            "FIGURE4MdbroseactioAduacetratiodietati profiles of Mdb1FHA domain.Proteinsinconcentrations of $6 7 \\mu \\mathrm { M }$ (A)and $3 4 \\mu \\kappa$ (B)were centrifugedat25,o0,0,00,and,o0 rpm.The curvesare thebest global fit of the distribution profiles against a self-association model with $K _ { d } = 3 7 5 \\mathsf { n m }$ Fitting residualsare shown at the bottom.C,the FHA domain of Mdb1 isrequiedforiteagdsuoiadrsd IB,immunoblot. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To verify that Mdb1 dimerization occurs in vivo,we coexpressed mCherry-tagged Mdb1and GFP-tagged Mdb1 together in fission yeast cells and performed a co-immunoprecipitation analysis (Fig. 4C).When both tagged proteins were full-length, GFP-tagged Mdb1 was co-immunoprecipitated with mCherrytagged Mdb1.In contrast,mCherry-tagged Mdb1(105-624),a truncated form of Mdb1 missing the FHA domain, failed to coimmunoprecipitate GFP-tagged full-length Mdb1.Thus, consistent with in vitro observations,Mdb1 self-associates in fission yeast in an FHA domain-dependent manner. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FHA-mediatedDimerizationIsImportant fortheFunctionof Mdb1 in DNA Damage Response-Overexpression of Mdb1 causes genotoxin sensitivity (19). To explore the physiological significance of the FHA-mediated dimerization of Mdb1,we first examined whether the FHA domain is required for the phenotype induced by Mdb1 overexpression (Fig. 5A).Compared with the negative control of cells expressing GFP alone from the strong Pnmt1 promoter,cells expressing full-length Mdb1 tagged with GFP (Mdb1-wt-GFP) exhibited significantly heightened levels of sensitivity to IR,UV,and camptothecin (CPT).In contrast,Mdb1(105-624)-GFP expressed from the same promoter caused a much weaker phenotype,indicating that the FHA domain is important for the overexpression-induced DNA damage sensitivity.Immunoblotting analysis showed that the weaker phenotype induced by Mdb1(105- 624)-GFP was not due to a lower expression level (Fig. 5B). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To determine whether the defect of the FHA-truncated Mdb1is due to its inability to dimerize,we employed the strategy of fusinga heterologous dimerization domain (28).If such a domain can rescue the defect, it is likely that dimerization is the main function of the FHA domain. To exclude the remote possibility that the rescuing effectis due to dimerization-unrelated functions of the heterologous sequence,we utilized two completely different types of dimerization modules,GST and a 32-amino acid-long leucine zipper motif (LZ) (28). Both types of dimerization domains,when fused to Mdb1(105-624)-GFP, rescued the defect in overexpression-induced DNA damage sensitivity (Fig. 5A). Co-immunoprecipitation analysis showed that Mdb1(105-624) fused with either GST or LZ can self-associate，as expected (Fig. 5, $C$ and $D$ ).Thus, dimerization is the main function of Mdb1-FHA in promoting the ability of Mdbl to cause overexpression-induced genotoxin sensitivity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a18593dae0b8a27fb58dfead50d3d9b6473836304b29d3b6bd207520736a4802.jpg",
+        "img_caption": [
+            "FIGURE.Fedetiispantforacisfbezatispatfo sensitivity induced by Mdb1 overexpression.Cells were pregrown ina thiamine-free medium for $2 0 \\mathsf { h }$ to allow fullinduction of the Pnmt1 promoter,and 5-fold serial diuti diferentvesisioaabeespoti efficiency (43). $C _ { \\prime }$ adingGSTtagloddb2)toelfitactstraisusedwre46and6Daddingagllowedbt selfiteacti crb2-F400AdoublemutantTeexprsionasundertheontrolofthenmtpromoterCellswerepregoninataminefreemediumfor $2 0 \\mathsf { h }$ before being spottdoCoaigtefrptes.etrassdre654D6,69d6ot "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Because of the functional redundancy between $\\gamma \\mathrm { H 2 A }$ interactors in the fission yeast,the phenotypic consequence of Mdb1 loss in DNA damage response can only be observed in strain backgrounds where the function of another $\\gamma \\mathrm { H 2 A }$ interactor, Crb2,is compromised (19).One of such backgrounds is crb2- F400A,a partial loss of function mutation of crb2.Deleting mdb1 in the crb2-F4ooA background dramatically enhances the CPT sensitivity (19).When expressed from the weak promoter P81nmt1,Mdb1-GFP rescued the CPT sensitivity of mdb1△ crb2- F400A double mutant to a much greater extent than Mdb1(105- 624)-GFP (Fig. $5 E )$ ,suggesting that the FHA domain is important for the role ofMdb1 in CPT resistance.Fusing eitherLZ or GST to Mdb1(105-624)-GFP significantly enhanced its ability to rescue the CPT sensitivity.Thus,dimerization is the main function of Mdb1-FHA in promoting the ability of Mdb1 to confer CPT resistance in the crb2-F400A background. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "FHA-mediated DimerizationIs Crucial forDNA Damage-inducedMdb1Focus Formationand thein Vitro Binding of $\\gamma H 2 A$ by Mdb1-The most conserved sequence features of MDC1 family proteins are their C-terminal tBRCT domains,which mediate a direct binding to $\\gamma \\mathrm { H } 2 \\mathrm { A X }$ in mammals or $\\gamma \\mathrm { H 2 A }$ in yeasts.This binding abilityallows MDC1 family proteins to accumulate at sites of DNA damage and form nuclear foci. It has been shown previously that Mdb1 forms $\\gamma \\mathrm { H 2 A ^ { - } }$ and tBRCT domain-dependent nuclear foci atDNA damage sites (19).To probe the role of Mdb1- FHA in the DNA damage-induced relocalization of Mdbl,we used live cell imaging to examine the nuclear focus formation by Mdb1 (Fig. $6 , A$ and $B$ ).Wild-type Mdb1 formed nuclear foci in a small fraction of untreated cells, presumably because of spontaneousDNA damage.IR treatment resulted ina substantially higher level of Mdb1 foci. Truncating the FHA domain completely abolished both spontaneous and IR-induced Mdb1 foci.Fusing either GST or LZ to the truncated Mdb1 rescued the focus formation defect.These results demonstrated that FHA-mediated dimerization is essential for the ability of Mdb1 to concentrate atDNA damage sites. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/394875b7d41583a8c1b76df5bedf716b4d3f667b7861d74a2319703db9de3290.jpg",
+        "img_caption": [
+            "FIGURE6.FHededmersmpafoteabilbtceafocifocaiobieiate dimrizatioCdeed $5 \\mu \\mathrm { m }$ B,atimecourseanalysisofIR-induced Mdb1focusformation.Approximately200nucleiwere examinedforeach sample. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The nuclear foci data raised the possibility that dimerization is important for the $\\gamma \\mathrm { H 2 A }$ bindingabilityofMdb1.To test this idea,we performed in vitro peptide pulldown assay (Fig.7). Recombinant full-length Mdb1 could be pulled down by a $\\gamma \\mathrm { H 2 A }$ peptide.Neither Mdb1(105-624) nor Mdb1(1-104) showed a detectable interaction with the $\\gamma \\mathrm { H 2 A }$ peptide (Fig. 7A).Both GST fusion and LZ fusion restored the ability of Mdb1(105-624) to bind $\\gamma \\mathrm { H 2 A }$ (Fig.7B). These results led us to conclude that FHA-mediated dimerization promotes the ability of Mdb1 to bind $\\gamma \\mathrm { H 2 A }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cf1180932862a09729078fc3ab5f45afa3d920ea53672cddaf45f3a31c635ce.jpg",
+        "img_caption": [
+            "FIGURE7.FHA-mediated dimerization is important for theabilityof Mdb1to interact with $\\gamma H 2 A . A$ ,the FHA domain is necessary but not sufficient for Mdb1 to bind yH2A.Recombinant Mdb1 proteins were expressed in bacteria and purified using the ${ \\mathsf { H i s } } _ { 6 }$ tag.Biotinylated peptides that correspond to the C terminusofHiofedspadbadithatotesid associatedproteins werepulleddownbystreptavidinDynabeadsandelutedbyboilinginSDS-PAGEloadingbuffer.Theeluatesand $1 0 \\%$ inputs were analyzed bySDS-PAGEflldoaintesackgodddroaadsdmeo rescued the ability of Mdb1(105-624)to interact with yH2A.The experiment was performed as in A. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Mdb1Focus FormationRequires Both Subunits inaDimer to BeAbletoBind $\\gamma H 2 A$ -The importance of dimerization for Mdb1 to form $\\gamma \\mathrm { H 2 A }$ -dependent nuclear foci in vivo and bind a $\\gamma \\mathrm { H 2 A }$ peptide in vitro suggests that the tBRCTdomains in both subunits of an Mdb1 dimer need to interact with $\\gamma \\mathrm { H 2 A }$ .Totest this idea,we adopted an approach of constructing an artificial heterodimer (30).We fused a monomeric GFP-binding protein (GBP)to Mdb1(105-624),so thatit can forma heterodimer with GFP-tagged Mdb1(105-624)． Co-expressionof Mdb1(105-624)-GBP rescued the ability of Mdb1(105-624)- GFP to form nuclear foci (Fig. 8)，indicating that heterodimerization mediated by the GBP-GFP interaction is sufficient to substitute for FHA-mediated homodimerization. Whenwe introducedK434M,atBRCTdomain mutation that disrupts $\\gamma \\mathrm { H 2 A }$ binding (l9),to either one or both of the subunits in the heterodimer,focus formation by Mdb1(105-624)- GFP was abolished (Fig.8).Thus,a functional Mdb1 dimer requires both tBRCT domains to be capable of binding $\\gamma \\mathrm { H 2 A }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FHA-mediated Dimerization Is Important for the Spindle FunctionofMdb1-Mdb1localizes to the spindle midzone during mitosis in a tBRCT domain-dependent but $\\gamma \\mathrm { H 2 A }$ -independent manner, presumably because of a phosphorylation-dependentinteraction with a yetto be identified spindle component (19). Toanalyze whether the FHA domain is important for the midzone localization,we imaged mitotic cells (Fig.9). Truncating the FHA domain abolished the midzone localization in anaphase cells, but this defect could be rescued by fusing with either GSTorLZ.Thus, the FHA domain is required for midzone localization,and its main role in this process is mediating dimerization. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Likely related to the spindle midzone localization of Mdb1, it was shown that loss ofMdb1 causesaresistance to the microtubule-destabilizing drug thiabendazole (TBZ) (19).This phenotype could be reversed by the expression of wild-type but not FHAtruncated Mdb1 (Fig.1O).Fusing either GST or LZ to the truncated Mdb1 allowed it to reverse the TBZ-resistant phenotype of mdb1△ (Fig.1O).Thus,FHA-mediated dimerizationis important for the role ofMdb1 in conferring a normallevel ofTBZ resistance. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DimerizationIstheMainFunctionofMdb1-FHA-Inthis study,we present multiple lines of evidence including crystal structure,gel filtration，analytical ultracentrifugation,and co-immunoprecipitation to show that Mdb1-FHA forms a homodimer.Furthermore,we show that loss of FHA domain severely compromises the functions of Mdb1 in DNA damage response and spindle regulation. The defectofFHA-truncated Mdb1 in DNA damage response can be attributed to its inability to bind $\\gamma \\mathrm { H 2 A }$ .This is not due to a direct role of Mdb1-FHA in $\\gamma \\mathrm { H 2 A }$ binding because, first,Mdb1-FHA lacks phospho-binding residues; second, $\\gamma \\mathrm { H 2 A }$ -binding requires the phosphobinding residues in the tBRCTdomain (19); third,recombinant Mdb1-FHA failed to bind $\\gamma \\mathrm { H 2 A }$ in vitro; and finally, fusing a heterologous dimerization domain rescues the $\\gamma \\mathrm { H 2 A }$ binding defect caused by FHA truncation.Together,our results demonstrate that the main role of Mdb1-FHA is mediating homodimerization,which is important for the physiological functions of Mdb1. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/baa3a4b0cd9ea3feb93795b5acb1766b21f01f602972016b4638b92a5f3cf98f.jpg",
+        "img_caption": [
+            "FIGURE8.Mdb1 focus formation requires both subunits ina dimer to possess the $\\gamma + 2 A$ -binding ability.A,co-expression of Mdb1(105-624)-GBP rescued teabilitbfduasut were imaged30minafterexposureto36GyofIR.Thestrainsused wereDY23263,DY24110,DY24112,andDY24114.Bar $5 \\mu \\mathsf { m }$ .B,quantitation of the results shown in A.Approximately 200 nucleiwere examined for each sample. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/9950bd2beeaa1f3d47e2bcce8529e13ddb19db0e34d620ada18edcca11a78109.jpg",
+        "img_caption": [
+            "FIGURE9.eatodid664d.A,Mdb1-wt.B,Mdb1(105-624).C,GST-Mdb1(105-624).D,LZ-Mdb1(105-624)."
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a6c9b17db2c1c6d2bf191ab5c83649f33846a932a591ce8f1e5dfb2941d1866.jpg",
+        "img_caption": [
+            "FIGURE 1O.FHA-mediated dimerization is important for the ability of Mdb1 to reverse the TBZ-resistant phenotype of mdb1△.Cells were pregrown in a thiamine-free medium for $2 0 \\mathrm { ~ h ~ }$ before being spotted on TBZcontaining thiamine-free plates.The strains used were LD327,DY15630, DY15603,DY15638,DY16309,and DY16307. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "WhyHomodimerization Is Important for Mdb1-Accumulating evidence suggests that dimerization/oligomerization is a common property of DNA damage response proteins.The best known examples in this regard are the tandem Tudor (tTudor) domain- and tBRCT domain-containing proteins in the Rad9/ Crb2/53BP1 family (15,28,31-36).Approaches such as the fusion strategy used in this study have unequivocally demonstrated the functional importance of dimerization/oligomerization for Rad9,Crb2,and 53BP1.However, the reasons why dimerization/oligomerization is important remain largely unclear. In this study, we showed by a peptide pulldown assay that a normal $\\gamma \\mathrm { H 2 A }$ -binding ability of Mdb1 requires its dimerization.This is likely due to the presence of a large number of $\\gamma \\mathrm { H 2 A }$ peptides on the beads so that both subunits of the Mdb1 dimer can engage in tBRCT- $\\gamma \\mathrm { H 2 A }$ interactions simultaneously,resulting in a much higher avidity than monomeric interactions.We would like to argue that the interactions with bead-bound $\\gamma \\mathrm { H 2 A }$ peptides are not unlike the in vivo binding to $\\gamma \\mathrm { H 2 A }$ molecules，which can be present at two copies per nucleosome.The long linker between FHA and tBRCT domains may also allow simultaneous binding to two $\\gamma \\mathrm { H 2 A }$ molecules not in the same,but in adjacent nucleosomes.Thus, the same avidity effect may explain why dimeric but not monomeric Mdb1 can form $\\gamma \\mathrm { H 2 A }$ -dependentnuclearfoci invivo. This model is supported by the GBP-GFP heterodimerization results.However，we cannot rule out the possibility that dimerization may enhance $\\gamma \\mathrm { H 2 A }$ binding through othermechanisms,such as relieving inhibition imposed by the linker region or the formationof anew $\\gamma \\mathrm { H 2 A }$ binding interface. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Evolutionary Conservation and Plasticity of FHA-mediated Dimerization ofMDC1Family Proteins-FHA domainsare notable for their lack of sequence conservation. Only five of ${ \\sim } 1 0 0$ residues are strictly conserved in the great majority of FHA domains (37).These five residues (Gly-57,Arg-58,Ser-72, His-75,and Asn-96 in MDC1)are either directly or indirectly involved in phosphopeptide binding (38). Remarkably, none of these five residues are conserved in Mdb1 (Fig.2C),explaining why domain-searching tools fail to recognize the N-terminal sequence of Mdb1 as an FHA domain.Despite the extreme sequence divergence,the conservation of the three-dimensional fold indicates that in addition to the tBRCT domain Mdb1 isalso related to MDC1 in the FHA domain, thusdefinitively establishing that Mdb1isan orthologofMDC1. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The structures of dozens of different FHA domains have been determined (39,37).Among the previously published FHA structures,in addition to those of MDC1 and MU2,only two FHA domains, the ones from CHFR and kanadaptin, have been reported to form homodimers (40,41).However,both CHFR-FHA and kanadaptin-FHA exist as monomers in solution,and thus the dimers observed in the crystals may not be physiologicallyrelevant. TherarityofFHAdomains that can formstable homodimers suggests that homodimerization is not an easily evolved ability of FHAdomains and argues against the idea that MDC1,MU2,and Mdb1 have independently acquired this ability after diverging froma monomeric ancestor protein. We favor the scenario in which the FHAdomains of MDC1-like proteins in the common ancestors of animals and fungi possessed both the ability to homodimerize and the ability to bind phosphopeptides,and the latterability was lostin the lineages leadingtoDrosophilaand fission yeasts. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "If dimerization is indeed an ancient and important function of the FHA domains of the MDC1 family proteins, the divergence of the dimer interfaces in MDC1,MU2,and Mdb1 suggests a surprising plasticity of the FHA domains to fulfill the same evolutionarily constrained function through variable structural means.The Mdb1 dimer structure we report here addsa distinctly new example to the increasingly diverse protein interaction modes of FHA domains (42). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions-S.L.performed the biophysical and structural analyses of Mdb1-FHA.X.X.and Y.W.performed the experiments using fission yeast.L.-L.D.and K.Y.conceived and coordinated the study. L.-L.D.,K.Y., S.L.,and Y.W.wrote the paper. All authors reviewed the results and approved the final version of the manuscript. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments-We thankthe staffat the Beijing Synchrotron RadiationFacilityBeamline3W1Aforassistanceindiffractiondata collection,Xiaoxia Yu(InstituteofBiophysics,ChineseAcademyof Sciences)forultracentrifugation experiments.We thank Hong-Chang Zhao for contributionsat an early stageof the project andLi-Xue Diao for plasmid constructions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1.Reinhardt,H.C.,and Yaffe,M.B.(2013) Phospho-Ser/Thr-binding do mains: navigating the cellcycle and DNA damage response.Nat. Rev. Mol. Cell Biol.14,563-580   \n2.Mermershtain,I.,and Glover,J.N.(20l3) Structural mechanisms underlying signaling in the cellular response to DNA double strand breaks. Mutat. Res.750,15-22 3.Rogakou,E.P.,Pilch,D.R.,Orr,A.H., Ivanova,V.S.,and Bonner,W.M. (1998)DNA double-stranded breaks induce histone H2AX phosphorylation on serine 139.J. Biol. Chem. 273,5858-5868 4.Scully,R.,and Xie,A.(2013) Double strand break repair functions of histone H2AX.Mutat. Res.750,5-14   \n5.Stucki,M., Clapperton,J.A., Mohammad,D., Yaffe,M.B., Smerdon,S.J, and Jackson,S.P.(20o5) MDC1 directly binds phosphorylated histone H2AX to regulate cellular responses to DNA double-strand breaks. Cell. 123,1213-1226   \n6.Lou,Z.,Minter-Dykhouse,K., Franco,S.,Gostissa,M.，Rivera,M.A., Celeste,A.,Manis,J.P.,van Deursen,J.,Nussenzweig,A.,Paul,T.T.,Alt, F.W.,and Chen,J. (2006) MDC1 maintains genomic stability by participating in the amplification of ATM-dependent DNA damage signals.Mol. Cell 21,187-200   \n7.Lee, M.S.,Edwards,R.A.,Thede,G.L.,and Glover,J.N.(2005) Structure of the BRCT repeat domain of MDC1 and its specificity for the free COOH-terminal end of the gamma-H2AX histone tail.J. Biol. Chem.280,32053-32056   \n8.Luo,K., Yuan,J.,and Lou, Z. (2011) Oligomerization of MDC1 protein isimportant for proper DNA damage response.J. Biol. Chem. 286, 28192-28199 9.Wu,H.-H.,Wu,P.-Y.,Huang,K.-F.,Kao,Y.-Y.,and Tsai, M.-D.(2012) Structural delineation of MDC1-FHA domain binding with CHK2- pThr68.Biochemistry 51, 575-577   \n10.Liu,J.,Luo,S., Zhao,H.,Liao,J,Li,J.,Yang,C.,Xu,B., Stern,D.F., Xu,X., and Ye,K.(20l2) Structural mechanism of the phosphorylation-dependent dimerization of the MDC1 forkhead-associated domain.Nucleic Acids Res.40,3898-3912   \n11.Jungmichel,S.,Clapperton,J.A.,Lloyd,J.,Hari,F.J.,Spycher,C.,Pavic,L, Li,J,Haire,L.F.,Bonalli,M.,Larsen,D.H.,Lukas,C.,Lukas,J.,MacMillan, D., Nielsen,M.L. Stucki, M.,and Smerdon, S.J. (2012) The molecular basis of ATM-dependent dimerization of the Mdc1 DNA damage checkpoint mediator.Nucleic Acids Res.40,3913-3928   \n12.Luo,S.,and Ye,K.(20l2) Dimerization,but not phosphothreonine binding,is conserved between the forkhead-associated domains of Drosophila MU2 and human MDC1.FEBS Lett.586,344-349   \n13.Nakamura,T.M.,Du,L.-L.,Redon,C.,and Russell, P.(20o4) Histone H2A phosphorylation controls Crb2 recruitment at DNA breaks,maintains checkpoint arrest,and influences DNA repair in fission yeast.Mol. Cell. Biol. 24,6215-6230   \n14.Du,L.-L.,Nakamura,T.M.,and Russell,P.(2oo6) Histone modificationdependent and -independent pathways for recruitment of checkpoint protein Crb2 to double-strand breaks.Genes Dev.20,1583-1596   \n15.Kilkenny,M.L.,Doré,A.S.,Roe,S.M.,Nestoras,K.,Ho,J.C., Watts,F.Z., and Pearl,L.H.(2oo8) Structural and functional analysis of the Crb2- BRCT2 domain reveals distinct roles in checkpoint signaling and DNA damage repair. Genes Dev. 22,2034-2047   \n16. Sofueva,S., Du,L.-L,Limbo,O.,Willams,J. S.,and Russell,P.(2010) BRCT domain interactions with phospho-histone H2A target Crb2 to chromatin at double-strand breaks and maintain the DNA damage checkpoint. Mol.Cell. Biol. 30,4732-4743   \n17.Rozenzhak,S.,Mejia-Ramirez,E.,Williams,J.S.,Schaffer,L.,Hammond, J.A.,Head, S.R.,and Russel,P.(20lo) Rad3 decorates critical chromosomal domains with gammaH2A to protect genome integrity during S-Phase in fission yeast.PLoS Genet.6,e1001032   \n18.Wilims,J..,Willams,.oy,C.LGuenr,GinJ Russell, P.(2010) yH2A binds Brc1 to maintain genome integrity during S-phase.EMBO J. 29,1136-1148   \n19.Wei,Y.,Wang,H-T.,Zhai,Y.,Russel,P.,andDu,L-L. (21)Mdbl,a fission yeast homolog of human MDC1,modulates DNA damage response and mitotic spindle function.PLoS One 9,e97028   \n20.Otwinowski,ZandMinor,W.(997)Processingofx-raydiffractiondata collected in oscillation mode.Methods Enzymol.276,307-326   \n21. Vonrhein, C., Blanc,E.,Roversi,P.,and Bricogne,G.(20o7) Automated structure solution with autoSHARP.Methods Mol. Biol.364,215-230   \n22.Emsley,P.,and Cowtan,K.(2004) Coot: model-building tools for molecular graphics.Acta Crystallogr.D Biol. Crystallogr.60,2126-2132   \n23.Murshudov,G.N., Vagin,A.A.,Lebedev,A.,Wilson,K.S.,and Dodson, E.J. (1999) Eficient anisotropic refinement of macromolecular structures using FFT.Acta Crystallogr.D Biol. Crystallogr.55,247-255   \n24.Adams,P.D.,Afonine,P.V.,Bunkóczi,G.,Chen,V.B.,Davis,I.W.,Echols, N.,Headd,J.J,Hung,L.-W., Kapral, G.J., Grosse-Kunstleve,R.W.,McCoy,A.J.,Moriarty,N.W.,Oeffner,R.,Read,R.J.,Richardson,D.C., Richardson,J.S., Terwiliger,T.C.,and Zwart,P.H.(201O) PHENIX: a comprehensive Python-based system for macromolecular structure solution.Acta Crystallogr.D Biol. Crystallogr.66,213-221   \n25.DeLano,W.L. (2002) The PyMOL User's Manual,DeLano Scientific,San Carlos, CA   \n26.Forsburg,S.L.,and Rhind,N. (20o6) Basic methods for fission yeast.Yeast 23,173-183   \n27．Matsuyama,A., Shirai,A., Yashiroda,Y., Kamata,A., Horinouchi, S.,and Yoshida,M. (2oo4) pDUAL,a multipurpose,multicopy vector capable of chromosomal integration in fisson yeast. Yeast 21,1289-1305   \n28.Du,L.-L.,Moser,B.A.,and Russell,P.(2004)Homo-oligomerization is the essentialfunction of the tandem BRCT domains in the checkpoint protein Crb2.J. Biol. Chem. 279,38409-38414   \n29.Holm,L.,and Rosenstrom,P. (20l0) Dali server: conservation mapping in 3D.Nucleic Acids Res.38,W545-W549   \n30.Qu,M,RappsWardlawC.PGarcia,VRen,J-,Da A.M., Oliver,A.W.,Du,L.-L.,and Pearl,L.H. (2013) Phosphorylationdependent assembly and coordination of the DNA damage checkpoint apparatus by Rad4(TopBP1).Mol. Cell 51,723-736   \n31.Soulier,J.,and Lowndes,N.F.(1999) The BRCT domain of the S.cerevisiae checkpoint protein Rad9 mediates a Rad9-Rad9 interaction after DNA damage. Curr Biol.9,55554   \n32.Usui, T.,Foster,S.S.,and Petrini,J.H. (2009) Maintenance of the DNAdamagecheckpointrequires DNA-damage-induced mediator proteinoligomerization. Mol. Cell 33,147-159   \n33.Granata,M.,Lazzaro,F.,Novarina,D.,Panigada,D.,Puddu,F.,Abreu, C. M.,Kumar,R.,Grenon,M., Lowndes,N.F.,Plevani,P.,and MuziFalconi, M. (20lo) Dynamics of Rad9 chromatin binding and checkpoint function are mediated by its dimerization and are cell cycle-regulated by CDK1 activity.PLoS Genet. 6,e1001047   \n34.Adams, M. M., Wang,B., Xia,Z., Morales,J. C.,Lu,X.,Donehower,L.A., Bochar,D.A.,Elledge,S.J.,and Carpenter,P.B.(20o5)53BP1oligomerization is independent of its methylation by PRMT1. Cell Cycle 4,1854-1861   \n35.Ward,I.,Kim,J.-E.,Minn,K.,Chini,C.C.,Mer,G.,and Chen,J. (2006) The tandem BRCT domain of 53BP1 is not required for its repair function. J. Biol. Chem.281,38472-38477   \n36.Zgheib,O.,Pataky,K., Brugger,J.,and Halazonetis,T.D. (20o9)An oligomerized 53BP1 tudor domain suffices for recognition of DNA doublestrand breaks.Mol. Cell.Biol.29,1050-1058   \n37．Huang,Y.M.,and Chang, C.-E.A. (2014) Achieving peptide binding specificity and promiscuity by loops: case of the forkhead-associated domain. PLoS One9,e98291   \n38.Durocher,D.,Taylor,I.A., Sarbassova,D.,Haire,L.F.,Westcott,S.L., Jackson, S.P.,Smerdon,S.J.,and Yaffe,M.B.(20oO) The molecular basis of FHA domain:phosphopeptide binding specificity and implications for phospho-dependent signaling mechanisms.Mol. Cell 6,1169-1182   \n39.Mahajan,A.,Yuan,C.,Lee,H., Chen,E.S.-W., Wu,P.-Y.,and Tsai, M.-D. (2008) Structure and function of the phosphothreonine-specific FHA domain. Sci. Signal. 1, re12   \n40.Stavridi,E.S.,Huyen,Y.,Loreto,I.R.,Scolnick,D.M.,Halazonetis,T.D, Pavletich,N.P.,and Jeffrey,P.D.(2002) Crystal structure of the FHA domain ofthe Chfr mitotic checkpoint protein and its complex with tungstate. Structure 10,891-899   \n41．Xu,Q.,Deller,M.C.,Nielsen,T.K.,Grant,J.C.,Lesley, S.A.,Elsliger,M.-A., Deacon,A.M.,and Wilson,I. A.(20l4) Structural insights into the recognition of phosphopeptide by the FHA domain of kanadaptin.PLoS One 9, e107309   \n42.Matthews,L.A.,and Guarne,A.(2013)Extending the interaction reper toire of FHA and BRCTdomains.In The Mechanisms ofDNA Replication (Stuart,D.,ed) InTech,Rijeka,Croatia   \n43.Welinder, C.,and Ekblad,L.(2011) Coomassie staining as loading control in Western blot analysis.J. Proteome Res.10,1416-1419 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/e25db4ed431a4d8bddb7848a4bf2baf9fc03eb3b3662e103d92f2ae0e7b9c11d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "DNA and Chromosomes: Dimerization Mediated by a Divergent Forkhead-associatedDomainIsEssential for the DNA Damage and Spindle Functions of Fission Yeast Mdb1 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Shukun Luo, Xiaoran Xin, Li-Lin Du,   \nKeqiong Ye and Yi Wei   \nJ.Biol. Chem.2015,290:21054-21066.   \ndoi:10.1074/jbc.M115.642538 originally published online July 9,2015 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Access the most updated version of this article at doi: 10.1074/jbc.M115.642538 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Find articles, minireviews, Reflections and Classics on similar topics on the JBC Affinity Sites. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Alerts: When this article is cited When a correction for this article is posted ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Click here to choose from all of JBC's e-mail alerts ",
+        "page_idx": 13
+    }
+]

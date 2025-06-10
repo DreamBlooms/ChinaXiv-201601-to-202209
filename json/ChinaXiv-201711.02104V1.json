@@ -1,0 +1,306 @@
+[
+    {
+        "type": "text",
+        "text": "蛋氨酸在动物体内代谢途径与周转机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐巧云 胡良宇\\* 王梦芝\\*\\*（扬州大学动物科学与技术学院，扬州225009）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：蛋氨酸（Met）是动物机体的必需氨基酸，可作为合成蛋白质的底物，也是机体代谢重要的甲基和巯基供体，同时还参与多胺的形成。为此，Met的供应状况以及其在体内的代谢途径影响着机体的生长性能、生理活动，乃至于DNA和功能蛋白质的甲基化修饰，进而影响机体正常的生命活动。本文就Met的4种代谢通路及其相应的周转机制进行综述，以期为Met代谢机理研究和合理科学应用提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蛋氨酸；代谢途径；周转机制中图分类号：S811.3 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸（methionine,Met）是构成蛋白质的一种含硫的非极性脂肪族氨基酸，又称甲硫氨酸，也是唯一含硫醚结构的氨基酸。Met具有非极性侧链，呈厌水性，有 $L$ -体及 $D L$ 体，天然存在的都是 $L$ -体。作为必需氨基酸，除作为底物合成蛋白质外，Met还是机体主要的甲基和巯基供体。研究表明，在蛋氨酸腺苷转移酶作用下，Met 激活后转变成 S-腺苷蛋氨酸（S-adenosylmethionine，SAM)，可提供1个甲基参与体内甲基转移作用的生化反应，在机体生理功能和生化反应中起到不可替代的重要代谢与调控作用[1]。如，体内合成胆碱即需要Met 提供甲基，通过参与胆碱的合成、DNA 和蛋白质的甲基化等过程参与机体组织生理代谢活动[2]。SAM在 S-腺苷蛋氨酸依赖性甲基化酶作用下发生转甲基生成 S-腺苷高半胱氨酸(S-adenosylhomocysteine，SAH)，SAH 进一步水解生成高半胱氨酸(homocys-teine，Hcy)。除此之外，Hcy 依次在 $\\beta$ -胱硫醚合成酶和 $\\gamma$ -胱硫醚酶的作用下生成半胱氨酸(cysteine,Cys),",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2017-05-20",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金面上项目（31672446)；杨胜先生门生社群面上项目（2016A20031)；江苏省优势学科（PAPD）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：徐巧云（1993-)，女，江苏扬州人，硕士研究生，动物营养与饲料科学专业。E-mail:1172270605@99.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*同等贡献作者",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*通信作者：王梦芝，副教授，硕士生导师，E-mail: mengzhiwangyz@126.com进而参与谷胱甘肽、牛磺酸等生物活性物质的合成过程[3]。Met所含的巯基能清除自由基，具有一定的抗氧化能力[4]。另外，Met还参与多胺的形成，促进细胞的生长和蛋白质的合成[5]。Met 在动物体内的多种代谢途径相互之间有协同和竞争的关系，并影响其相应的生物学功能，但其具体代谢机制及生理作用的解释尚不完整。本文即对 Met 在动物机体中各代谢途径及其相应的代谢调控等的研究进行综合分析，以期为Met在机体内的代谢机理研究，以及在动物生产中的科学应用提供一些参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Met的代谢途径概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Met 是无法在动物机体内自身生成，必须由外部提供的必需氨基酸，也是多种家畜在多种饲粮条件下的限制性氨基酸[]，在动物生产中已经有了较为广泛的研究和应用。不同的畜禽品种及其不同生理阶段有不同的 Met 需求量。例如，Klemesrud 等认为，生长牛需要可代谢蛋白质 $0 . 3 9 \\mathrm { k g / d }$ ，其中所需Met 为 $3 . 1 \\%$ 。NRC（2001）[8]建议奶牛的可代谢蛋白质中含有$2 . 4 \\%$ 的 Met。Saki 等回归分析则表明，22\\~36 周龄蛋鸡的 Met 或 Met+Cys 需要量分别为$0 . 3 1 \\%$ 、 $0 . 6 0 \\%$ 。Met 可通过小肠吸收通道被吸收进入机体的血液、肝脏、乳腺、皮肤等各组织进行代谢，但所进食的Met在体内是一个动态代谢的过程[10]。Met在机体组织中被转运入细胞的活性受细胞内Met库的影响,转运进入细胞速率的差异是由于细胞内Met浓度的影响，并不改变转运系统[]。采用 $^ { 3 5 } \\mathrm { S }$ 标记 Met对大鼠的研究表明，孕期至产后大鼠门静脉 Met 总的周转速率（K）在 $0 . 0 2 0 3 1 { \\sim } 0 . 0 2 8 7 0$ 变化[12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Met 在各种动物机体、各种组织细胞中参与代谢活动，其代谢过程有多种酶参与的、复杂的生物化学反应体系。作为底物的 Met 参与蛋白质的生物合成，在原核生物中甲酰化的Met还是其蛋白质生物合成的起始氨基酸。Met另外还可被ATP活化转变成S-腺苷甲硫氨酸，作为甲基供体参与肌酸、胆碱的合成；同时在代谢中还有转硫作用的功能[13]。总体来看，Met代谢主要是由围绕Met-Hcy 循环的4个代谢通路组成。第1条通路是Met库和蛋白质之间的可逆交换，生长动物体内 Met 的主要去路是参与蛋白质合成；第2 条通路是转甲基化生成SAM,SAM是重要的活性甲基供体，在转甲基后可通过胆碱或四氢叶酸再甲基化而生成 Met,以形成 Met循环以避免体内转甲基作用导致的Met的大量损耗；第3条通路是 SAM参与多胺形成；第4条通路是转巯基反应生成胱硫醚，并进一步生成Cys，转巯基反应是不可逆反应。下面将就4种通路分别讨论其代谢机制及生理作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Met合成蛋白质的机制及其生理作用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Met 作为蛋白质生物合成的底物，直接参与蛋白质的合成。Met在蛋氨酰 tRNA合成酶催化下，利用ATP 供能，在氨基酸羧基上进行活化，形成氨基酰-腺苷一磷酸（AMP)，再与氨基酰 tRNA合成酶结合形成三联复合物，此复合物再与转运Met的tRNA结合。tRNA将氨基酰转移到 tRNA 的氨基酸臂（即3'末端CCA-OH）上，在mRNA的指导下由其反密码子辨识密码带到mRNA相应的位置上作用，延长肽链并最终合成蛋白质。同时，氨酰tRNA合成酶专一性极强，并进行回查，一旦发现连接错误，会及时将其水解，以保证翻译的正确性[14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "作为动物机体蛋白质合成的必需氨基酸，Met是多种饲粮条件下的多数动物生长和生产的限制性氨基酸，甚至第一限制性氨基酸，如产毛动物[15]。肉鸡缺乏 Met 表现为甲状腺素（ $\\mathbf { \\bar { \\rho } } _ { \\mathrm { T } _ { 3 } }$ ）的水平较低[1d]。Met 影响动物的生理、生长或生产，如幼鼠缺少 Met 即不能正常地生长发育；生长期鸡只采食、不增重，以及胰岛素样生长因子（IGF）-1、IGF-2 等生长相关因子的水平降低[17]。而动植物蛋白质的生理价值在一定程度上取决于其 Met 含量。研究表明，随着仔猪饲粮提高 $0 . 2 8 \\% { \\sim } 0 . 4 8 \\%$ Met水平，料重比显著降低，平均日增重显著增加，采食量也有增加的趋势[3]。Wen 等[3]在1\\~21 日龄和 22\\~42 日龄肉鸡饲粮中分别添加 $0 . 6 0 \\%$ 和$0 . 5 3 \\%$ Met，结果表明，肉鸡的日增重和胸肌率有所提高，料重比降低，且肝脏的蛋白质降解能力随着饲粮Met水平的上升而有所下降。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于Met作为营养物质底物参与合成蛋白质的研究表明，豚鼠巨核细胞利用标记35S-Met 的蛋白质合成在其摄入后 $2 4 \\mathrm { h }$ 内完成[18]；采用 $^ { 1 3 } \\mathrm { C }$ -Met、 $^ 3 \\mathrm { H }$ -Met 同位素标记研究仔猪 Met 的代谢结果表明，有约 $80 \\%$ 的 Met用于了机体蛋白质的合成[19]。相应的补充一定量的 Met 则可提高动物的生长、生产等性能[20-21]，比如，饲粮补充 Met 可以提高绵羊的产毛性能；补充 Met 以及替代物皆明显的增加大鼠增重[22]；补充瘤胃保护性 Met 可以提高奶牛产奶高峰至中期的牛奶产量[23]，提高必需氨基酸的利用效率[24]。目前，畜牧生产中已广泛使用合成 Met 添加剂，以补充天然饲料原料中Met 的不足，提高饲料中蛋白质的消化利用率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3Met甲基化循环及其周转机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "甲基化是蛋白质和核酸的一种重要的修饰，如 DNA 甲基化能关闭某些基因的活性，去甲基化则诱导了基因的重新活化和表达[25]；而组蛋白甲基化的功能主要体现在异染色质形成、基因印记、X 染色体失活和转录调控方面[26]。作为体内最主要的甲基供体，Met 供给量则影响着体内的甲基化反应。 $^ { 1 4 } \\mathrm { C }$ 标记Met 的研究表明，大鼠肝脏核蛋白含有 $0 . 6 \\%$ 标记的Met、而组蛋白中含有 $1 . 5 \\%$ 标记的 $\\mathrm { M e t } ^ { [ 2 7 ] }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "S-腺苷甲硫氨酸合成酶（S-adenosylmethionine synthetase），亦称蛋氨酸腺苷转移酶（methionine adenosyltransferase，MAT），催化 Met 和 ATP 形成 SAM。附着在 SAM中的甲基基团高度活化，在转甲基反应中多种甲基转移酶（methyltransferase，MTs）的催化下很容易转到受体底物上而形成许多甲基化合物。SAM 的供给量影响着细胞内从 DNA 甲基化[28]到与细胞膜流动性有关的磷脂甲基化[2等多数的甲基化反应。如，大脑组织中关键蛋白质甲基化的变化在神经组织退化过程中起着很重要的作用；啮齿类动物饲粮中Met等甲基供体的缺乏程度与DNA 低甲基化程度有一定的关系，并影响着肝癌等疾病的发生程度[30]，而 SAM的增加则能够缓解肝癌的发展[31]。如图1所示，为 SAM在机体内的代谢通路。SAM在转甲基后生成 SAH，后者可在腺苷高半胱氨酸水解酶（AdoHcy hydrolase，AHCY）催化下进一步水解 Hcy。作为重要的代谢中间产物，Hcy 可通过甜菜碱高半胱氨酸甲基转移酶（betaine-homocysteine methyltransferase，BHMT）由胆碱的代谢产物甜菜碱（betaine）提供甲基，或通过 5-甲基四氢叶酸高半胱氨酸甲基转移酶（methyltetrahydrofolate-homocysteinemethylhyltransferase，MS）由叶酸（folate）提供甲基再甲基化生成 Met，形成转甲基-再甲基化的Met 循环（methionine cycle）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MAT:蛋氨酸腺苷转移酶;MTs:甲基转移酶;AHCY:腺苷高半胱氨酸水解酶;BHMT:甜菜碱高半胱氨酸甲基转 移酶;MS:5-甲基四氢叶酸高半胱氨酸甲基转移酶;MTHFR:亚甲基四氢叶酸还原酶;THF:四氢呋喃;ATP:腺嘌 呤核苷三磷酸;methionine:甲硫氨酸;AdoMet:腺苷基蛋氨酸;AdoHcy:腺苷高半胱氨酸;Homocysteine:高半胱 氨酸;betaine:甜菜碱;glycine:甘氨酸;FolateCycle:叶酸循环. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/60f50c2d44d8c164ff083625050d548b76322eca12d2bba2bb2997d573ae5dd5.jpg",
+        "img_caption": [
+            "Fig.1 Methionine transmethylationpatway[] "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1　蛋氨酸的转甲基途径",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该循环的生理意义在于可间接再生成获得Met，以防在转甲基通路中Met的大量消耗。采用 $^ { 1 4 } \\mathrm { C } , \\mathrm { \\Lambda } ^ { 3 } \\mathrm { H }$ 标记 Met灌注仔猪的研究表明，标记的Met有约 $2 6 \\%$ 参与了转甲基反应，约 $8 \\%$ 参与了再甲基化反应[19]。分别给35 日龄的肉仔鸡饲喂含 $0 . 5 5 \\%$ 和 $0 . 2 5 \\%$ Met 的饲粮， $1 9 \\mathrm { d }$ 试验期后发现：肉鸡腹脂率分别为 $1 . 6 2 \\%$ 和 $1 . 7 3 \\%$ ;饲粮转化效率分别为3.1和 $3 . 4 ^ { [ 3 2 ] }$ 。Elshorbagy等[33]采用Met限制以及 $\\bf { M e t + C y s }$ 饲喂大鼠试验表明，补饲Cys 可通过调节辅酶A去饱和酶1（stearoyl-CoAdesaturase-1，SCD-1）活性改善低 Met 饲粮导致的肥胖。虽然研究表明，生产中 Met作为必需氨基酸含量减少 $0 . 1 0 \\% { \\sim } 0 . 2 0 \\%$ 时，饲粮甜菜碱和胆碱（各 $5 0 0 ~ \\mathrm { { m g / k g } }$ ）能够减缓因为Met不足时导致的肉鸡胸肌产量下降，但不能够替代其作为必需氨基酸的功能[34],但迄今为止，各甲基供体提供机体甲基化反应的定量关系还不是十分明了[35]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4多胺的生成机制和生理效应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "多胺包括腐胺、亚精胺和精胺等，通过调控细胞的信号转导、DNA复制和转录，以及蛋白质翻译等发挥其促进生长的作用；去除多胺则导致细胞分化的停止[36。研究证实，多胺是通过调控细胞蛋白质的翻译起始和翻译延长机制影响细胞的分化[37-38]。细胞的分化速度还与细胞内多胺的水平有一定的关系。一般来说，细胞内有相对稳定的毫摩尔级水平的自由多胺，并维持在很窄的范围变化。过低的多胺水平导致细胞分化与生长速度的降低，而过高的多胺水平则对细胞有毒害作用；对多胺水平的精准调控取决于多胺的合成、相互的转化、转运的速度以及定期的氧化分解[39]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Met 代谢的中间产物 SAM在 S-腺苷蛋氨酸脱羧酶（SAM decarboxylase,AdoMetDC）催化下形成脱羧的 S-腺苷蛋氨酸（decarboxylated AdoMet,dcAdoMet）参与多胺的形成[1]。如图2 所示，dcAdoMet 和腐胺（putrescine）在亚精胺合成酶（SPD synthase，SPDS）的催化下生成亚精胺（spermidine），同时产生甲硫腺苷（methylthioadenosine,MTA)；进而亚精胺再和dcAdoMet在精胺合成酶（SPM synthase,SPMS）作用下生成精胺（spermine）和MTA[5]。副产物 MTA可在甲硫腺苷磷酸化酶（MTA phosphorylase,MTAP）催化下生成5-甲硫核糖1-磷酸（5-methylthioribose-1-phosphate),可进一步被代谢为Met 和腺嘌呤,进而补充消耗的 Met[5]。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3d80a9ae00cb5e4177854c99e62ba6ebe8b28c28d4ee3fcb8e38be0fe410c7b.jpg",
+        "img_caption": [
+            "图2蛋氨酸和精氨酸与多胺的合成"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "arginine:精氨酸；ariginase:精氨酸酶；ormithine:鸟氨酸；ODC:鸟氨酸脱羧酶；putrescine:腐胺；SPDS:亚精胺合 成酶；spermidine:亚精胺；MTA:甲硫腺苷；dcAdoMet:脱羧腺苷甲硫氨酸；SPMS:精胺合成酶；spermine:精胺; MTAP:甲硫腺苷磷酸化酶;5-methylthioribose-1-phosphate:5-甲硫核糖1-磷酸;Polyamine synthesis:多胺合成; Methionine salvation pathway:蛋氨酸释放途径；AdoMetDC:腺苷甲硫氨酸脱羧酶；AdoMetDC:S-腺苷蛋 氨酸脱羧酶;AdoMet:腺苷基蛋氨酸; ${ \\boldsymbol { 5 } } ^ { \\prime }$ -deoxyadenosine $5 ^ { \\prime }$ -radical: 5'-脱氧腺苷 ${ \\boldsymbol { 5 } } ^ { \\prime }$ -自由基;AdoMet radical: 腺苷基蛋氨酸自由基;ARE：抗氧化反应元件. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2SynthesisofMethionine,Arginine andPolyamies[12] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "理论上讲，Met作为多胺合成的前体物之一，其水平影响 SAM的合成，进而可能影响到多胺的水平。但一般情况下，组织细胞有效的机制可以调控多胺在较小范围内波动并维持其正常的水平。其调节机制与不同组织细胞中代谢Met的MAT同工酶的类型有关。MAT酶有",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MAT1A和MAT2A2种基因型。研究表明，MAT2A基因的表达产物同工酶MATII代谢产生较高的多胺水平，并表现出较高的细胞生长速度[40]。同时，SAM浓度对同工酶MAT Ⅱ有很强的负反馈抑制,表现为在SAM浓度增加时通过负反馈抑制MATⅡI以维持组织多胺的水平[41],维持组织的甲基化反应；在 SAM浓度降低时则可提高 SAH脱羧酶和ODC 的活性，以促进组织多胺的生成[42]，以维持机体各组织细胞的代谢与生长。总体来说，机体的组织更倾向于通过调节转巯基和脱羧基等反应来维持组织的甲基化程度和多胺水平，以维持机体生理和生命活动的稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5Cys的生成机制和生理作用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Met是动物体内最根本的含硫化合物，如图3所示，为蛋氨酸的转巯基途径，中间产物Hcy 在胱硫醚-β-合成酶（cystathionine- $\\cdot \\beta$ -synthase,CBS）催化下与丝氨酸（serine）缩合生成胱硫醚（cystathionine），再经胱硫醚-γ-裂解酶（cystathionine-γ-lyase,CSE）催化水解生成Cys、 ${ \\mathfrak { a } } .$ 酮丁酸（ $\\mathfrak { a }$ -ketobutyrate）和氨[41,28]。代谢所产生的Cys 是体内重要的抗氧化剂和自由基清除物谷胱甘肽（glutathione,GSH）的前体物；所产生的 $\\alpha$ -酮丁酸则转变为琥珀酸单酰CoA，通过三羧酸循环进行代谢。同时，CBS 酶和CSE 酶在催化过程中产生内源性硫化氢（ $\\mathrm { \\cdot H } _ { 2 } \\mathrm { S }$ ）分子，Cys 在经天冬氨酸转氨酶（aspartate aminotransferase,AST）和巯基丙酮酸硫基转移酶（mercaptopyruvate sulfurtransferase,MST）的进一步催化代谢为丙酮酸盐（pyruvate）过程中也产生内源性 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 分子。而 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 被认为是继一氧化氮、一氧化碳以后被发现的第 3种内源性气体信号分子，可通过细胞内信号途径调节许多重要细胞功能[43-44]。研究表明，大蒜对心血管保护的作用机制也是通过在红细胞内使大蒜素衍生的多硫化物代谢产生的 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 而发挥作用[45]。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6bc49de4ac256bea0b4e711679de119bf68fd8c341e4c21fff65cdaad645559.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "homocysteine:高半胱氨酸;CBS：胱硫醚 $\\cdot \\beta$ -合成酶;cystathionine:胱硫醚;CSE:胱硫醚-γ-裂解酶; $\\mathfrak { a }$ -ketobutyrate $\\mathbf { \\alpha } _ { \\mathbf { a } \\cdot \\mathbf { \\alpha } }$ 酮丁酸;cysteine:半胱氨酸;mitochondria:线粒体;glutathione:谷胱甘肽;lanthionine:羊毛硫氨 酸;serine:丝氨酸； $\\mathrm { H } _ { 2 } \\mathrm { S }$ ：硫化氢;pyruvate:丙酮酸盐; $\\mathrm { N H } _ { 3 }$ ：氨气;mercaptopyruvate:巯基丙酮酸;MST:巯基丙 酮酸硫基转移酶;AST:天冬氨酸转氨酶. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Met 可通过转巯基反应转变成重要的Cys，采用 $^ { 1 4 } \\mathrm { C }$ 、 $^ 3 \\mathrm { H }$ 标记 Met研究表明，仔猪机体中有约 $20 \\%$ 的标记Met用于了转巯基反应[46]。Met的转巯基通路对机体有重要的作用，如提供酶蛋白、膜蛋白等的巯基，维持机体正常的各项生理生化反应[47]；同时富电子的巯基也能适应多种氧化状态[48]；Cys 还是GSH的前体物质，含有巯基的三肽GSH，具有清除自由基、过氧化物等抗氧化作用和清除重金属及黄曲霉毒素等解毒作用。Maaike 等[19研究发现，Met水平的降低将导致转巯基反应合成Cys的降低，而最终会降低机体GSH的水平，进而影响机体的抗氧化功能；Castellano 等[49]给断奶仔猪饲喂限制 Met 饲粮的结果表明，肝脏组织 GSH水平的降低，皮下脂肪组织氧化状态和抗氧化酶活性的提高。值得注意的是，转巯基反应生成的Cys 并不能再转化为Met，饲粮的Cys 仅能部分取代用于转疏基途径的Met。Finkelstein等[41给大鼠饲粮额外地添加Cys 的研究证实降低了大鼠肝脏CBS 酶活性，以及SAM和丝氨酸的水平，即可降低 Met的转疏基代谢而更多地保留Met；而在限制饲粮 Met基础上再补给Cys，并不能提高肝脏中Met（26.8& $3 0 . 6 \\ \\mathrm { n m o l / g }$ ）的含量[50]。研究还发现，肠道组织利用Met 转甲基和转巯基表现为有较高的 Hcy净产量[51]。目前，对于不同组织的转巯基已经有一定的研究结果，但仍需要在不同种属及其不同部位做进一步的研究以阐明Met在机体各组织中的转巯基反应规律。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6小结 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上研究表明，Met作为机体营养代谢的必需氨基酸，对于动物机体的蛋白质合成是不可替代的；同时，Met是机体重要的甲基供体、巯基供体、内源性气体信号分子 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 的代谢源，而且还调控机体多胺的形成。因此，Met的适量供应和其代谢的正常进行是维持机体的生理、生长，乃至生命活动正常的基础；相反其供应的不足则可能导致相关代谢的紊乱，以至于产生因核酸或功能性蛋白质甲基化不足等导致的癌变或其他病理变化。迄今的研究虽然已经表明，机体对 Met的代谢途径有一定的系统性的调节，但对于其在机体内各代谢途径的量化比例、供应不足时各代谢通路的变化及其对机体的影响、相关代谢替代物之间的代谢分配关系等还都不得而知，有待于进一步的研究与阐明。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]LU S C.S-Adenosylmethionine[J].The International Journal of Biochemistry & Cell Bio logy,2000,32(4):391-395. [2] ZEISEL S H.Choline:critical role during fetal development and dietary requirements in ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "adults[J].Annual Review of Nutrition,2006,26(1):229-250.   \n[3]胡诚军,江青艳,孔祥峰.畜禽蛋氨酸代谢及其生理功能研究进展[J].饲料工业,2016,37(15): 23-27.   \n[4] LEVINE R L,MOSKOVITZ J,STADTMAN E R.Oxidation of methionine in proteins: roles in antioxidant defense and cellular regulation[J].IUBMB Life,20o0,50(4/5):301-30 7.   \n[5]LU S C,MATO JM.S-adenosylmethionine in liver health,injury,and cancer[J].Physiolo cal Reviews,2012,92(4):1515-1542.   \n[6]WU G.Dietary requirements of synthesizable amino acids by animals:a paradigm shift in protein nutrition[J].Journal of Animal Science and Biotechnology,2014,5:34.   \n[7]KLEMESRUD M J,KLOPFENSTEIN T J,LEWIS A J. Metabolize methionine and 1 ysine require ments of growing cattle[J].Journal Animal Science,20o0,78(1):199-206.   \n[8]NRC. Nutrient Requirements of Dairy Catte[S].Seventh Revised Edition.Washington,D. C.:The National Academies Press,2001.   \n[9]SAKI A A,NASERI HARSINI R,TABATABACI M M,et al.Estimates of methionine and sulfur amino acid requirements for laying hens using different models[J].Revista Brasileira De Ciencia Avicola,2012,14(3): 209-216   \n[10] BARTSOCAS C S,THIER S O,CRAWFORD J D.Transport of $L$ -methionine in rat i ntestine and kidney[J].Pediatric Research,1974,8(6):673-678.   \n[11]TAUTT J.Transport of methionine by normal and transformed rat embryo fibrobla[J]. Acta Biochimica Polonica,1982,29(3/4):213-218.   \n[12]PENZES L,SIMON G.Intestinal absorption and turnover of $D L$ methionine during rep roduction in the rat[J].Journal of Physiological Anthropology,1968,18(3):288-296.   \n[13]BROSNAN J T,BROSNAN M E.The sulfur-containing amino acids:an overview[J].Jo urnal of Nutrition,2006,136(6):1636S-1640S.   \n[14]LODISH H,BERK A J,ZIPURSKY S L,et al.The three roles of RNA in protein synt -hesis[M]//FREEMAN W H,et al.Laboratory notebook.New York:Molecular Cell Biology Press,2000.   \n[15]LIU S M,TAVENDALE M,BERMINGHAM E N,et al.The effects of parasite infecti on on methionine metabolism in sheep[J].Proceedings of the Australian Society of Anim al Production,2002,24:133-136.   \n[16] CAREW L B,EVARTS K G,ALSTER F A.Growth and Plasma thyroid hormone con centrations of chicks fed diets deficient in essential amino acids[J].Poultry Science,1997,7 6(10):1398-1404.   \n[17] CAREW L B,MCMURTRY J P,ALSTER F A.Effects of methionine deficiencies on plasma levels of thyroid hormones，insulin-like growth factorsI and II,liver and bady weights，and feed intake in growing chickens[J].Poultry Science,2003,82(12):1932-1938. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18]SCHICK B P.Synthesis of proteins from $\\left[ _ { 3 5 } \\mathrm { S } \\right]$ methionine by guinea pig megakaryoc ytes in vivo and time course of appearance of newly synthesized proteins in platelets [J].Blood,1990,76(5):887-891. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19]MAAIKE A R,BARBARA S,SHAJI C,et al.Methionine transmethylation and transsulf uration in the piglet gastrointestinal tract[J].Proceedings of the National Academy of S cience,2007,104(9):3408-3413.   \n[20] GOULAS C,ZERVAS G,PAPADOPOULOS G.Effect of dietary animal fat and methi onine on dairy ewes milk yield and milk composition[J].Animal Feed Science and Tech nology,2003,105(1/2/3/4):43-54.   \n[21]PREYNAT A,LAPIERRE H,THIVIERGE M C,et al.Effects of supplements of folic a cid, vitamin $\\mathbf { B } _ { 1 2 }$ ，and rumen protected methionine on whole body metabolism of methion ine and glucose in lactating dairy cows[J].Journal Dairy Science,92:677-689.   \n[22]HEGEDUS M,FEKETE S,ANDRASOFSZKY E,et al.Effect of methionine and its der ivatives on the weight gain and protein utilization of growing rats[J].Acta Veterinari a Hungarica,1998,46(4):421-429.   \n[23]IZUMI K,KIKUCHI C,OKAMOTO M.Efect of rumen protected methionine on lacta tion performance of dairy cows[J].Asian-Australasian Journal of Animal Science,200 0,13(9):1235-1238.   \n[24]LEE C,GIALLONGO F,HRISTOV A N,et al.Effect of dietary protein level and rum enprotected amino acid supplementation on amino acid utilization for milk protein i n lactating dairy cows[J].Journal of Dairy Science,2015,98(3):1885-1902.   \n[25]MOORE L D,LE T,FAN G.DNA methylation and its basic function[J].Neuropsychop harmacology Official Publication of the American College of Neuropsychopharmacol ogy,2013,38(1):23-38.   \n[26]FISCHLE W,WANG Y M,ALLIS C D.Histone and chromatin cross-talk[J].Current O pinion in Cell Biology,2003,15(2):172-183.   \n[27]TURBERVILLE C,CRADDOCK V M.Methylation of nuclear proteins by dimethylnit rosamine and by methionine in the rat in vivo[J].Biochemical Journal,1971,124(4):72 5-739.   \n[28]MATO J M,ALVAREZ L,ORTIZ P,et al.S-adenosylmethionine synthesis:molecular m echanisms and clinical implications[J].Pulmonary Pharmacology & Therapeutics,1997,7 3(3):265-280.   \n[29]FRIEDEL H A,GOA K L,BENFIELD P.S-adenosyl-l-methionine.A review of its phar macological properties and therapeutic potential in liver dysfunction and afective di sorders in relation to its physiological role in cell metabolism[J].Drugs,1989,38(3):38 9-416. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[30]POTTER J D.Methyl supply,methyl metabolizing enzymes and colorectal neoplasia[J]. Journal of Nutrition,2002,132(8):2410-2412. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[31]PASCALE R M,SIMILE M M,MIGLIO M D,et al.Chemoprevention of hepatocarcino genesis:S-adenosyl- $L$ -methionine[J].Alcohol,2002,27(3):193-198.   \n[32] KRAZ S,SENGUL T.Relationship between abdominal fat and methionine deficiency i n broilers[J].Czech Journal of Animal Science 2005,50(8):362-368.   \n[33]ELSHORBAGY A K,VALDIVIA-GARCIA M,MATTOCKS D A,et al.Cysteine suppl ementation reverses methionine restriction effects on rat adiposity:significance of stearoyl coenzyme A desaturase[J].Journal of Lipid Research,2011,52(1):104-112.   \n[34] WALDROUP P W,M A MOTL,F YAN,et al.Effects of betaine and choline on respo nse to methionine supplementation to broiler diets formulated to industry standards[J].Jou rnal of Applied Poultry Research,2006,15:58-71   \n[35]NICULESCU M D,ZEISEL S H.Diet,methyl donors and DNA methylation: interactio ns between dietary folate,methionine and choline[J].Journal of Nutrition,2002,132(8):2 333S-2335S.   \n[36]THOMAS T,THOMAS T J.Polyamines in cell growth and cell death: molecular mec hanisms and therapeutic applications[J].Cellular and Molecular Life Science,20o1,58(2):24 4-58.   \n[37]LANDAU G,BERCOVICH Z,PARK M H,et al.The role of polyamines in supporting growth of mammalian cells is mediated through their requirement for translation init iation and elongation[J].Journal of Biological Chemistry,2010,285(17):12474-12481.   \n[38]MANDAL S,MANDAL A,JOHANSSON H E,et al.Depletion of cellular polyamines,s permidine and spermine,causes a total arrest in translation and growth in mammalian cells[J].Proceedings of the National Academy of Sciences of the United States of A merica,2013,110(6):2169-2174.   \n[39]YATIN M.Polyamines in living organisms[J].Journal of Cell and Molecular Biology,2 002,1:57-67.   \n[40]CAI J,MAO Z,HWANG J J,et al.Differential expression of methionine adenosyltransf erase genes influences the rate of growth of human hepatocelllar carcinoma cells[J]. Cancer Research,1998,58(7):1444-1450.   \n[41]FINKELSTEIN J D.Methionine metabolism in mammals[J].Journal of Nutritional Bio chemistry,1990,1(5):228-237.   \n[42]KRAMER D L,SUFRIN J R,PORTER C W.Relative effects of S-adenosylmethionine depletion on nucleic acid methylation and polyamine biosynthesis[J].Biochemical Journal, 1987,247(2):259-265.   \n[43]SZABó C.Hydrogen sulphide and its therapeutic potential[J].Nature Reviews Drug D iscovery,2007,6(11):917-935.   \n[44]LOWICKA E,BELTOWSKI J.Hydrogen sulfide $\\mathrm { ( H } _ { 2 } \\mathrm { S ) }$ -the third gas of interest for ph armacologists[J].Pharmacological Reports,2007,59(1):4-24.   \n[45] BENAVIDES G A,SQUADRITO G L,MILLS R W,et al.Hydrogen sulfide mediates t he vasoactivity of garlic[J].Proceedings of the National Academy of Sciences of the United States of America,2007,104(46):17977-17982.   \n[46]LU S C.Regulation of hepatic glutathione synthesis[J].Seminars in Liver Disease,1998, 18(4):331-343.   \n[48] GREK C L,ZHANG J,MANEVICH Y,et al.Causes and consequences of cysteine S-g   \nlutathionylation[J].Journal of Biological Chemistry,2013,288(37):26497-26504.   \n[49] CASTELLANO R,PERRUCHOT M H,CONDE-AGUILERA J A,et al.A methionine deficient diet enhances adipose tissue lipid metabolism and alters anti-oxidant pathw ays in young growing pigs[J].PLoS One,2015,10(7):e0130514.   \n[50]RIEDIJK M A,STOLL B,CHACKO S,et al.Methionine transmethylation and transsulf uration in the piglet gastrointestinal tract[J].Proceedings of the National Academy of Scie nces of the United States of America,2007,104(9):3408-3413.   \n[51]KIM Y G,KIM S K,KWON J W,et al.Effects of cysteine on amino acid concentrati ons and transsulfuration enzyme activities in rat liver with protein-calorie malnutriti on[J].Life Sciences,2003,72(10):1171-1181. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Metabolic Pathway and Turnover Mechanism of Methionine in Animals² XU Qiaoyun HU Liangyu\\*WANG Mengzhi\\*\\* (College of Animal Science and Technology, Yangzhou University, Yangzhou 225009, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: As one of the essential amino acids,methionine (Met) is used to synthesize protein as substrate,and to provide important methyl and mercapto for animal metabolism; at the same time, it is also closely involved in the formation of polyamines.For this purpose,the supply and metabolic pathway of methionine in animal body would affect the growth performance, physiological activity, methylation modification of DNA and functional proteins further have an influence on animal normal life activities.This paper summarized recent researches on 4 kinds of metabolic pathways and related turnover mechanism of methionine to provide some information for the studies of methionine metabolic mechanisms and scientific application. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words: methionine; metabolic pathway; turnover mechanism; ",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,212 @@
+# DOI: 10.5846/stxb201507311611
+
+黄宝荣,张慧智,宋敦江,马永欢.2000—2010年中国大陆地区建设用地扩张的驱动力分析.生态学报,2017,37（12）：4149-4158.HuangBR,ZangHZ,og,aDivigfocsoflupndxpasioininafrtActaolicaiica,（：4149-4158.
+
+# 2000一2010年中国大陆地区建设用地扩张的驱动力分析
+
+黄宝荣}，张慧智²，\*，宋敦江¹，马永欢
+
+1中国科学院科技战略咨询研究院，北京100190  
+2北京市农林科学院农业科技信息研究所，北京100097  
+3国土资源部信息中心，北京100812
+
+摘要:2000—2010年我国社会经济迅猛发展,城乡建设用地急剧扩张。分析建设用地扩张的驱动力，辨识关键驱动因素,能够为我国土地资源的可持续利用提供支撑。研究以地级行政区为基本分析单元,以建设用地面积百分比的变化为因变量,以14个地理、经济、人口和政策变量为解释变量,分别采用普通线性回归模型、空间滞后回归模型和空间误差回归模型,分析 2000一2010年我国大陆地区建设用地扩张的驱动力。结果发现,我国各地区建设用地扩张具有显著的正向空间自相关性,使普通线性回归模型估计结果有偏。比较3种回归模型的拟合效果也发现,两种空间回归模型的拟合效果明显好于普通线性回归模型;考虑到建设用地扩张的空间传导性,研究认为空间滞后回归模型是我国建设用地扩张驱动力分析的最适合模型。模型回归结果显示研究期内我国建设用地扩张受到各种地理、经济、人口和政策因素的广泛影响。第二产业的迅猛发展、流动人口的迁移聚集、固定资产投资和外商直接投资的快速增长,以及投资驱动的大规模土地城镇化和路网等基础设施建设是驱动我国各地区建设用地扩张的主要驱动力;第三产业的发展、进口增长以及自然保护的区建设等对建设用地的扩张具有一定的抑制作用,是缓解建设用地过快扩张的重要因素。此外,海拔和坡度等地理因素也有一定的影响。如果扣除其他因素的影响,受西部大开发、中部崛起、东北振兴等区域均衡发展战略的影响,此间我国建设用地扩张更倾向于出现在平均海拔更高的地区;而平均坡度的升高则对建设用地的扩张具有明显的抑制作用。
+
+关键词：建设用地；扩张；社会经济发展；驱动力；空间回归模型
+
+# Driving forces of built-up land expansion in China from 2ooo to 2010
+
+HUANG Baorong1， ZHANG Huizhi2 \*， SONG Dunjiang1，MA Yonghuan 1Institutes of Science and Development，Chinese Academy of Sciences，Beijing1Oo190,China 2InstituteofAgriculturalSci-techInformation，BeijingAcademyofAgricultureandForestrySiences，BeijingOo97，China 3 Information Center of Ministry of Land and Resources of China，Beijing 10o812，China
+
+Abstract:China experienced rapid socioeconomic development andbuilt-up land expansion during 2Ooo—2010.Identifying keydrivingforcesofbuilt-uplandexpansion isessentialforpolicy-makers todevelopeffectivepoliciesforsustainableland management.In this study，the change in theexpansionof built-up land wasusedas the dependent variable，and 14 geographic，economic，demographic，and policy-relatedexplanatory variables were chosen.Threemodels，including the ordinaryleast squares linearregresion model，spatial lag model,andspatial error model wereusedto analyzethedriving forcesof built-up land expansion.Theresultsshowed thatthe spatialdistributionof built-up land expansion wasnot random，but exhibited significant positivespatialautocorelations，which would reduce thestabilityandaccuracyof conventionalordinaryleastsquareslinearregressionmodelsand theirexplanatorypowertothedegree thattheywouldnot reflectreality.Comparingthegdnessof-fitforthethreeregressionmodels,thespatiallagmodelprovedtobemorerobust. Theregressionresultsof thespatiallagmodelindicatedthatbuilt-uplandexpansionwas widelyinfluencedbyvarious geographic，economic，demographic,and policyfactors.Therapiddevelopmentofsecondary industry，massive in-migration floating populations，growthoffixedasetinvestments，andforeigndirectinvestments，togetherwith investment-drivenland urbanization and infrastructure development were consideredtheprimary driving forces of built-up land expansion in China from2000 to2O10.Conversely，thedevelopmentof tertiary industry，importationgrowth，and theestablishmentof natural protectedareas helped tocontrolconstructionland expansion.Moreover，natural factors，suchasterain slopeandelevation influencedonbuilt-upland expansion.Other things being equal，built-up land expansion occued more frequentlywhere theaverage elevation was high，because of several balanced regional development strategies，suchas the Great Western Development Strategy，the Northeast China Revitalization Strategy，andtheRiseof Central China Plan inthe high altitude regions.In addition，increasing average slope had a significant negative(（inhibiting）effect on built-up land expansion.
+
+Key Words: built-up land； expansion； socio-economic development；driving forces； spatial regression models
+
+2000—2010年,我国社会经济迅猛发展,在改善居民生活水平的同时,也给生态环境带来巨大的压力。建设用地的快速扩张是生态环境压力加剧的最直观表现。由环境保护部和中国科学院联合开展的《全国生态环境十年变化(2000—2010年)遥感调查与评估项目》调查显示,2000—2010年中国大陆地区建设用地（包括城乡居民点、工矿和交通用地)年均新增 $5 5 3 0 ~ \mathrm { k m } ^ { 2 }$ 。建设用地的急剧扩张不仅侵占大片良田,而且通过直接占用或间接破坏森林、湿地、草地等生态系统造成生物多样性丧失和生态系统服务功能退化,成为危及我国粮食和生态安全的重要因素[1-2]。控制建设用地规模,促进土地的集约节约利用是确保我国可持续发展的迫切需求。研究建设用地扩张的驱动力,是预测未来建设用地扩张趋势,以及制定相关土地利用政策、促进土地可持续利用的重要基础。
+
+土地利用-覆盖变化（Land use and land cove change，LUCC)驱动力研究已有很长的历史[3-4]。众多研究从不同的角度、采用不同的方法分析不同尺度LUCC 的驱动力[5-12]。研究表明,LUCC 主要受自然地理和人文因素的共同影响[45.9,13]。其中,人文因素发生的频率更高、影响范围更广、强度更大,是目前全球LUCC 的主要驱动力[10.14]。相对于其他土地利用类型的变化,建设用地扩张更是受到各类社会、经济和政策等人文因素的影响;经济发展、人口增长、收入提高、工业化、城镇化以及土地利用政策等常被认为是建设用地扩张的主要驱动力[11,5-20]。新千年以来,我国建设用地的快速扩张及其引起的耕地流失、生态退化问题日益受到重视，隐藏在建设用地扩张背后的驱动机制也成为众多研究关注的焦点。经济增长、人口变化和城镇化被认为是19 世纪末21世纪初我国建设用地扩张的主要驱动力[17,20-22]。
+
+尽管取得了较大进展,但受多方面因素制约,我国建设用地扩张驱动力研究仍存在一定的局限性。一是在驱动变量选择方面，大多研究仅关注经济和人口规模增长对建设用地扩张的驱动作用,很少考虑社会经济结构的变化的影响;新千年以来,我国经济和人口结构发生了很大变化,在建设用地扩张驱动力分析中不应忽视。二是很多研究仅关注城市建设用地的扩张及其驱动力[23-24],未将规模庞大的农村建设用地纳入分析框架[25-26],显然无益于全面、客观地剖析我国城乡建设用地扩张的动力机制。三是在驱动力分析方法方面,以计量经济学模型[27-29]为主,忽视了土地利用数据广泛存在的空间自相关性和样本非独立性对假设检验正确性的影响。
+
+本研究在充分考虑各种因素的潜在影响的基础上筛选解释变量，并采用能够有效克服空间自相关性影响的空间回归模型,分析 2000—2010年我国大陆地区城乡建设用地扩张的驱动力,以期为未来我国建设用地需求预判、社会经济发展空间布局的优化、以及土地可持续利用提供科学支撑。
+
+http://www.ecologica.cn
+
+# 1数据与方法
+
+# 1.1因变量和潜在解释变量的选择
+
+以2000—2010年地级行政区建设用地占国土面积百分比的变化作为因变量,反映各地区建设用地的扩张及其对当地生态环境胁迫程度的变化情况。1
+
+在深入分析建设用地扩张的潜在影响因素的基础上,建立了包含4类变量的潜在解释变量选择框架。一是自然地理变量,对土地开发利用的难易程度和成本具有潜在影响。二是经济变量,经济增长往往被认为是建设用地扩张的主要驱动力;而且在市场经济中,土地资源的配置服从于价值规律、地租规律等基本经济规律,其根本作用是将土地资源配置到最有效益的经济活动中[30],因此不同经济部门的发展对建设用地扩张的潜在影响可能存在差异;同时,进出口贸易,通过远程耦合[31-32],对建设用地扩张也存在潜在影响。三是人口变量,人口的增长、分布和结构的变化是造成住房、商业设施、基础设施等建设用地需求变化的潜在驱动因素。四是政策变量,包括政府主导的固定资产投资、吸引外资、基础设施建设等一系列发展政策,以及天然林保护工程、自然保护区建设等一系列生态保护政策,对建设用地扩张有潜在的驱动或抑制作用。在此潜在解释变量选择框架下,结合数据的可获取性,选择了19个变量作为潜在解释变量(表1)。
+
+表1建设用地扩张驱动力分析潜在解释变量  
+Table 1Potential explanatoryvariables included in the driving forces analysis of construction land expansion   
+
+<html><body><table><tr><td colspan="2">Table1</td></tr><tr><td>变量类型 潜在解释变量</td><td>单位</td></tr><tr><td>Variable types</td><td>Potential explanatory variables Unit</td></tr><tr><td>自然地理变量 平均海拔</td><td>m</td></tr><tr><td>Geographic variables 平均坡度</td><td>（）</td></tr><tr><td>经济变量</td><td>单位国土面积第一产业产值密度变化 万元/km²</td></tr><tr><td>Economic variables</td><td>单位国土面积第二产业产值密度变化 万元／km²</td></tr><tr><td></td><td>单位国土面积第三产业产值密度变化 万元／km²</td></tr><tr><td>单位国土面积出口总额密度变化</td><td>万元／km²</td></tr><tr><td>单位国土面积进口总额密度变化</td><td>万元／km²</td></tr><tr><td>人口变量 Demographic variables</td><td>单位国土面积城市常住人口密度变化 人/km²</td></tr><tr><td></td><td>单位国土面积农村常住人口密度变化 人/km²</td></tr><tr><td>单位国土面积劳动年龄人口密度变化</td><td>人/km²</td></tr><tr><td>单位国土面积男性人口密度变化</td><td>人/km²</td></tr><tr><td>单位国土面积女性人口密度变化</td><td>人/km²</td></tr><tr><td>单位国土面积流动人口密度变化</td><td></td></tr><tr><td>单位国土面积家庭户数密度变化</td><td>人/km²</td></tr><tr><td>政策变量 单位国土面积2000—2010年累积固定资产投资密度</td><td>户/km²</td></tr><tr><td>Policy variables</td><td>万元／km² 单位国土面积2000—2010年累积外商直接投资密度 ×10³美元/km²</td></tr><tr><td>路网密度变化</td><td>km/km²</td></tr><tr><td></td><td>2000 年已建自然保护区面积占国土面积百分比 %</td></tr><tr><td></td><td>2000—2010 年新建自然保护区面积占国土面积百分比 %</td></tr></table></body></html>
+
+# $1 . 2 ^ { \gamma }$ 数据收集与处理
+
+# 1.2.1 土地利用数据
+
+2000 和2010年全国各地级行政区建设用地面积数据来源于《全国生态环境十年变化（2000—2010 年)遥感调查与评估项目》。该项目建立了全国土地覆盖二级分类系统，其中包括6个I级分类。本研究中的建设用地为I级分类中的人工地表,包括城乡居住地、工业用地、交通用地和采矿场,不包括期间植被和水面。基于地面样点调查的精度检测显示,两期土地覆盖I级分类的精度分别为 $90 \%$ 和 $94 \%$ 。
+
+http://www.ecologica.cn
+
+# 1.2.2自然地理和社会经济数据
+
+各地区平均海波、平均坡度数据通过全国1:100 万数字高程模型（Digital Elevation Model，DEM)计算获取。城镇常住人口、乡村常住人口、男性常住人口、女性常住人口、常住劳动年龄人口、家庭户数等数据来源于第五次、第六次全国人口普查分县资料,年末人口以及各类经济数据来源于对应年份《中国县市社会经济统计年鉴》、《中国区域经济统计年鉴》、《中国城市统计年鉴》,以及各省、市、自治区统计年鉴。
+
+# 1.2.3潜在解释变量的多重共线性分析
+
+多重共线性是指由于解释变量之间存在线性关系,导致回归模型估算失真的现象。多重共线性问题可以通过多重共线性条件数（Multicolinearity Condition Number,MCN）检验。当 MCN大于30时,表明存在严重的多重共线性问题,此时需要剔除一些解释变量以确保回归结果的准确性。为了确定应剔除哪些解释变量,分别把各潜在解释变量当作因变量,其他潜在解释变量当作自变量,采用普通最小二乘回归模型进行回归分析，当回归模型的 $R ^ { 2 }$ 值大于0.80 阈值时,表明被当作自变量的潜在解释变量是造成多重共线性的重要原因,应该考虑从回归模型中剔除。
+
+# 1.3 分析模型
+
+很多空间数据都具有空间自相关性,这一特征打破了大多数经典统计分析中样本相互独立的基本假设，使一般线性回归模型中的随机误差项 $\boldsymbol { \varepsilon } _ { i }$ 不再相互独立，并导致自变量对因变量的影响参数 $\beta$ 被低估，从而影响假设检验的正确性。空间回归模型由于能够有效解决回归模型中复杂的空间自相关性问题[33],在空间变量影响因素分析中得到广泛应用。
+
+本研究分别采用普通最小二乘线性回归模型（Ordinary Least Square,OLS）、空间滞后回归模型（SpatialLag Model,SLM)和空间误差回归模型(Spatial Error Model,SEM)分析社会经济因素对我国建设用地扩张的驱动效应,并择优选用。
+
+# 1.3.1 SLM模型
+
+SLM 模型主要探讨各变量在一个地区是否有扩散现象（溢出效应）,其表达式为：
+
+$$
+\scriptstyle \gamma = \rho W y + X \beta + \varepsilon
+$$
+
+式中，Y为因变量； $X$ 为 $\boldsymbol { n } { \times } \boldsymbol { k }$ 的外生解释变量矩阵； $_ { ; \rho }$ 为空间回归系数,反映了样本观测值中的空间依赖作用，即相邻区域的观测值 $\boldsymbol { W } _ { y }$ 对本地区观察值 $\overline { { y } }$ 的影响方向和程度; $W$ 为 $\mathbf { \delta } _ { n \times n }$ 阶的空间权值矩阵,考虑不同地区建设用地扩张速度的相互关系受距离的影响较大,选择连续性距离权重矩阵,距离阈值为任意两个空间单元距离的最大值; $\boldsymbol { W } _ { y }$ 为空间滞后因变量， $\boldsymbol { \varepsilon }$ 为随机误差项向量；参数 $\beta$ 反映了自变量 $X$ 对因变量 $Y$ 的影响,空间滞后因变量W是一内生变量,反映了空间距离对建设用地扩张速度的作用。
+
+# 1.3.2 SEM模型
+
+尽管 SLM模型将空间依赖看作本质现象,但 SEM模型假设模型的误差是空间相关的,而不是 $y _ { i }$ 对 $y _ { j } ( i \neq$ $j )$ 直接产生影响。SEM模型能够度量邻接地区因变量的误差冲击对本地区观察值的影响程度,其数学表达式为：
+
+$$
+Y = X { \boldsymbol { \beta } } + \varepsilon
+$$
+
+$$
+\varepsilon = \lambda W \varepsilon + \mu
+$$
+
+式中， $\boldsymbol { \varepsilon }$ 为随机误差项向量； $\lambda$ 为 $\boldsymbol { n } \times 1$ 的截面因变量向量的空间误差系数； $\mathbf { \nabla } _ { : \mu } \mu$ 为正态分布的随机误差向量; $\lambda$ 衡量样本观察值的空间依赖作用，即相邻地区的观察值有 $Y$ 对本地区观察值 $Y$ 的影响方向和程度;参数 $\beta$ 反映了自变量 $X$ 对因变量 $Y$ 的影响。
+
+# 1.3.3 估计技术
+
+对于上述两种模型的估计如果仍然采用最小二乘法,系数估计值会有偏或者无效,需要通过其他方法来估计。本文根据Anselin[33]的建议，采用极大似然法估计两种空间回归模型的参数。
+
+在有空间自相关存在的情况下，传统的 $\textstyle R ^ { 2 }$ 不再适用于判断回归模型的拟合效果。常用的比较空间回归模型和普通线性回归模型拟合度的判别标准有自然对数似然函数值（Log Likelihood,LIK）、赤池信息准则（Akaike Information Criterion,AIC）、施瓦茨准则（Schwartz Criterion,SC）。LIK值越大,AIC 和SC 值越小,模型拟合效果越好。但是,拟合度优劣并非模型择优选择的唯一标准。具体研究中还需要考虑各种模型建立的理论基础。当确信每个个体 $i$ 的 $y$ 值受其周围值的直接影响的时候,采用 SLM模型更合适;当确信 $y$ 并没有直接受到周围 $y$ 值的直接影响,而是因为某些在模型识别中忽略的空间聚集特征同时影响了个体 $i$ 的 $y$ 值及其周围值,采用 SEM 模型更合适[34]。
+
+# 2结果与讨论
+
+# 2.1建设用地扩张的空间特征
+
+2000—2010 年我国建设用地总面积增长5.53万 $ { \mathrm { k m } } ^ { 2 }$ ,经历了快速的扩张过程。在空间上,东部和中部地区扩张相对较快,西部和东北地区相对较慢(图1)。长江三角洲、珠江三角洲、京津唐地区、武汉都市圈、沈阳都市圈、成渝经济区和华北平原等区域建设用地急剧扩张,特别是长江三角洲16地市建设用地总面积由1.61万 $\mathrm { k m } ^ { 2 }$ 增长到2.58万 $ { \mathrm { k m } } ^ { 2 }$ ,是此间我国建设用地扩张最快的区域。
+
+![](images/92e6318ccbdf6573b937b079516b0d87a35d28563151c0ceacc61b4afcba6b8f.jpg)  
+图12000一2010年全国建设用地面积变化分布图  
+Fig.1Spatial distribution of the change of construction land share in China,2ooo—2010
+
+2.2，建设用地扩张的空间自相关性
+
+2000—2010年全国地级行政单元建设用地占国土面积百分比变化的全局 Moran'I为0.269,并通过了显著性检验,表明我国建设用地扩张具有显著的正向空间自相关性。从建设用地面积百分比10 年变化的局部Moran'T指数(LISA)聚集图也可以看出大多数地区呈现显著的高-高、低-低聚集特征(图2）,反映了建设用地扩张的具有向邻近地区扩散的特征[12,35]。这一扩散特征主要受以下几个因素影响：（1)相邻地区自然地理条件相似,使建设用地扩张具有相似的地理背景[3]；(2)相邻地区具有相似的土地开发策略和土地利用政策并相互影响;(3)一个地区交通干线或其它基础设施向邻近地区延伸,会带动新增交通干线或其它基础设施附近建设用地的扩张[37];(4)社会经济发展的空间外溢效应带动周边地区社会经济的发展,从而间接驱动周边地区建设用地的扩张[38]。
+
+# 2.3潜在解释变量的多重共线性
+
+多重共线性诊断显示19个潜在解释变量的 MCN高达 505,存在十分严重的多重共线性,需要剔除一些潜在解释变量,以提高回归结果的准确性。具体而言,单位国土面积第二产业产值密度变化、劳动年龄人口密度变化、男性人口密度变化、女性人口密度变化和家庭户数密度变化5个潜在解释变量被剔出模型。“单位国土面积第二产业产值密度变化"被剔出模型的主要原因是,当把它作为因变量,其他18个变量当作解释变量进行OLS 回归分析时，回归模型的 $R ^ { 2 }$ 高达0.97,是造成多重共线性的重要原因;同时，由于该变量与“单位国土面积累积固定资产投资密度”高度相关( $R ^ { 2 } = 0 . 9 4$ ， $P < 0 . 0 0 1$ )，它对建设用地扩张的影响可以通过固定资产投资间接反映。同样，“劳动年龄人口密度变化”“男性人口密度变化”“女性人口密度变化”和“家庭户数密度变化"等变量分别当作自变量,其他变量当作解释变量进行OLS 回归时,回归模型的 $R ^ { 2 }$ 均超过0.95,也是造成多重共线性的重要原因。剔除这些变量后,剩下14个变量的 MCN下降到19,符合空间回归分析对MCN 的限值要求。
+
+![](images/abb471031921f1f4f4164a58de1f90cafbfc76ce3d180c23b2cc0b21d5164fdf.jpg)  
+图22000一2010年全国地级单元建设用地面积变化LISA聚集图  
+Fig.2Significant clustering of construction land expansion in China according to a LISA analysis
+
+# 2.4建设用地扩张的影响因素
+
+2000—2010年全国地级行政单元建设用地面积百分比变化与社会经济指标变化的3种回归模型的分析结果如表2所示。比较3种回归模型,发现SLM模型和 SEM模型比普通线性回归模型的LIK值更大,而AIC和 SC 值更小,具有更好的拟合效果。两种空间回归模型的 LIK、AIC 和 SC 值相近,但 SLM 模型的伪 $R ^ { 2 }$ 大于SEM 模型,而且考虑到建设用地扩张具有向邻近地区扩散的特征[12,35],采用SLM模型作为分析模型更合适。
+
+SLM模型中（表2）， $\rho = 0 . 5 6 7$ ,且通过了 $1 \%$ 显著性水平检验,说明周围邻接地区的建设用地扩张会对本地区的建设用地扩张产生空间溢出效应。剔除空间自相关性因素的影响后,14个自变量中,有10个自变量通过了 $5 \%$ 的显著性检验,反映了研究期内我国建设用地扩张受到各种自然地理、人口、经济和政策因素的广泛影响。
+
+# 2.4.1 自然地理因素的影响
+
+平均海拔和平均坡度对建设用地的扩张均有显著影响。平均海拔与建设用地面积百分比的变化具有显著的正相关性,表明在扣除其他因素的影响后,此间我国建设用地扩张更倾向于出现在平均海拔更高的地区。
+
+这一结论有悖于建设用地更倾向于在低海拔平原地区扩张这一假设。主要原因在于此间我国相继实施西部大开发、中部崛起和东北振兴等区域均衡发展战略,增加了这些高海拔地区的建设用地供应,促进了当地建设用地的快速扩张;而东部低海拔地区受稀缺的土地资源制约,建设用地供应从紧,客观上限制了当地建设用地的过快扩张。平均坡度与建设用地面积百分比的变化呈显著的负相关性,平均坡度升高对建设用地的扩张具有显著的限制作用。
+
+表22000一2010年全国建设用地变化驱动力回归模型估计结果  
+Table 2Regresion models of determining factors ofconstruction land change in China from 2oo to 2010   
+
+<html><body><table><tr><td rowspan="2">解释变量 Explanatory variables</td><td colspan="2">OLS</td><td colspan="2">SLM</td><td colspan="2">SEM</td></tr><tr><td>系数 Coefficient</td><td>P</td><td>系数 Coefficient</td><td>P</td><td>系数 Coefficient</td><td>. P</td></tr><tr><td>p</td><td></td><td></td><td>0.567***</td><td>0.000</td><td></td><td></td></tr><tr><td>常数项Constant</td><td>0.165</td><td>0.441</td><td>-0.145</td><td>0.323</td><td>0.639</td><td>0.049</td></tr><tr><td>平均海拔 Average elevation</td><td>1.669×10-4</td><td>0.125</td><td>2.328×10-4 ***</td><td>0.002</td><td>8.481×10-6</td><td>0.959</td></tr><tr><td>平均坡度 Average slope</td><td>-0.101</td><td>0.007</td><td>-7.716×10-2</td><td>0.002</td><td>-5.094×10-2</td><td>0.211</td></tr><tr><td>单位国土面积第一产业产值密度变化 The change of value added density of the primary sector</td><td>2.725×10-3</td><td>0.557</td><td>-4.282×10-3</td><td>0.179</td><td>2.118×10-3</td><td>0.573</td></tr><tr><td>单位国土面积第三产业产值密度变化</td><td>-1.547×10-3</td><td>0.000</td><td>-1.540×10-3*</td><td></td><td></td><td>0.000</td></tr><tr><td>The change of value added density of the tertiary sector</td><td></td><td></td><td></td><td>0.000</td><td>-1.493×10-3</td><td></td></tr><tr><td>单位国土面积进口总额密度变化 The change of total exports per km²</td><td>-4.211×10-3</td><td>0.000</td><td>-1.799×10-3 ***</td><td>0.006</td><td>-8.807×10-4</td><td>0.163</td></tr><tr><td>单位国土面积出口总额密度变化</td><td>3.629×10-4</td><td>0.568</td><td>-5.657×10-4</td><td>0.191</td><td>-1.009×10-3</td><td>0.014</td></tr><tr><td>The change of Total imports per km²</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>单位国土面积城市常住人口密度变化</td><td>-5.081×10-3</td><td>0.002</td><td>-1.651×10-3</td><td>0.136</td><td>-9.272×10-4</td><td>0.462</td></tr><tr><td>The change of urban resident population density</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>单位国土面积农村常住人类密度变化 The change of rural resident population density</td><td>-2.530×10-3</td><td>0.138</td><td>6.159×10-4</td><td>0.600</td><td>-9.879×10-4</td><td>0.370</td></tr><tr><td>单位国土面积流动人口密度变化</td><td>2.504×10-3</td><td>0.283</td><td>2.895×10-3 *</td><td>0.068</td><td></td><td></td></tr><tr><td>The change of floating Population density 单位国土面积2000—2010年累积固定资产投资</td><td></td><td></td><td></td><td></td><td>3.783×10-3</td><td>0.025</td></tr><tr><td>Cumulative fixed asset investment density</td><td>4.005×10-4</td><td>0.000</td><td>3.542×10-4 *** 0.000</td><td></td><td>2.867×10-4</td><td>0.000</td></tr><tr><td>单位国土面积2000—2010年累积吸引外资 Cumulative foreign direct investment density</td><td>1.379×10-2</td><td>0.000</td><td>7.161×10-3 *** 0.000</td><td></td><td>7.963×10-3</td><td>0.000</td></tr><tr><td>路网密度变化 The change of road network density</td><td>1.269</td><td>0.000</td><td>0.782***</td><td>0.000</td><td>0.948</td><td>0.000</td></tr><tr><td>2000 年前建立的自然保护区占国土面积百分比 Percentage area of natural protected areas established</td><td>-1.868×10-2</td><td>0.059</td><td>-1.287×10-2 *</td><td>0.056</td><td>-1.657×10-2</td><td>0.008</td></tr><tr><td>before 2000 2000 年后建立的自然保护区占国土面积百分比</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Percentage area of natural protected areas established</td><td>-1.657×10-2</td><td>0.240</td><td>-1.619×10-2 *</td><td>0.091</td><td>-8.192×10-3</td><td>0.384</td></tr><tr><td>after 2000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>入</td><td></td><td></td><td></td><td></td><td>0.828</td><td>0.000</td></tr><tr><td>多重共线性条件数 Multicollinearity condition number</td><td>19.488</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Log-L4)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>-541.183</td><td></td><td>-430.937</td><td></td><td>-446.297</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1112.37</td><td></td><td>893.874</td><td></td><td>922.594</td><td></td></tr><tr><td>AIC5)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></table></body></html>
+
+1)OLS:普通最小二乘回归模型Ordinary Least Square;2)SLM:空间滞后回归模型 SpatialLag Model;3）SEM;空间误差回归模型 SatalErrorModel;4)Log-L:自然对数似然函数值Log Likelihood;5)AIC;赤池信息准则 Akaike Information Criterion; $* * *$ :在0.01水平上显著相关；\*\*;在0.05水平上显著相关； $\ast$ ：在0.10水平上显著相关
+
+# 2.4.2 经济因素的影响
+
+不同经济部门对建设用地扩张的影响存在差异。第一产业发展对建设用地扩张无显著影响。第二产业的发展对建设用地扩张具有显著的正向驱动作用。尽管“单位国土面积第二产业产值密度变化”变量由于多重共线性被剔出模型,但由于其与“单位国土面积累积固定资产投资额”具有高度的正相关性,而后者对建设
+
+http ://www.ecologica.cn
+
+用地面积百分比的变化具有显著的正向影响,因此,可以认为第二产业的发展对建设用地扩张具有显著的驱动作用;研究期内建筑业、低端制造业和矿产资源开采业等土地资源密集型产业的快速发展不可避免地产生巨大的土地资源需求,并促进建设用地的急剧扩张。第三产业的发展对建设用地的急剧扩张具有显著的负向抑制作用。第三产业的发展一方面能够促进经济发展的重心由土地资源密集型产业转移到土地资源依赖性相对较小的服务行业;另一方面第三产业的快速发展也预示着居民生活方式的转变[39],它促进居民对城市绿色开放空间和郊区生态用地需求的增长,并促使中央和地方政府投人更多的精力保护或恢复生态用地。
+
+对外贸易方面,此间我国出口增长对建设用地扩张并无显著影响,主要原因是此间我国出口的增长主要源于产品出口结构的优化和附加值提升，而非产品出口规模的扩张，使出口增长对土地资源的依赖性有所降低;进口增长对建设用地扩张具有显著的负向影响,主要原因在于进口增长能够减少一些产品的本地化生产，从而减少对土地资源的需求，并抑制建设用地的过快扩张。 ，
+
+# 2.4.3 人口因素的影响
+
+流动人口密度的变化对建设用地面积百分比变化具有显著的正向影响。2000一2010年,我国流动人口由1.44 亿增加到2.61亿,长江三角洲、珠江三角洲、京津冀以及一些中心和重点城市是不断增长的流动人口的主要聚集区;流动人口的聚集增加了当地住房、基础设施、商业、服务业及公共空间对土地资源的需求[40],是这些区域建设用地扩张的重要驱动力之一。而在农村和一些经济欠发达地区,流动人口的大量迁出则有助于减缓当地建设用地扩张压力。
+
+城镇人口的增加常常被认为是城镇建设用地扩张的主要驱动力[4I-42]。但本研究中的建设用地既包括城镇建设用地,也包括乡村建设用地。在一些地区,人口城镇化所引起的城镇建设用地扩张量,大于如若这些人口继续滞留在农村所引起的乡村建设用地扩张量,促进了整个地区城乡建设用地的扩张;而在另外一些地区，情况正好相反,人口的城镇化促进了整个地区的土地集约利用;因此,在本研究中城镇和农村常住人口密度的变化均未表现出与建设用地面积百分比变化的显著相关性;反映了人口城镇化对建设用地扩张的影响存在区域差异性。
+
+# 2.4.4政策因素的影响
+
+发展政策方面,大规模的固定资产投资和不断增长的外商直接投资是驱动我国建设用地急剧扩张的重要因素。在我国,投资驱动的经济增长长期以来被当作重要的发展策略。统计显示,2000—2010年,我国全社会固定资产投资年均增长 $2 3 . 7 6 \% , 2 0 1 0$ 年达到27.81万亿元,占当年GDP 的比重高达 $6 9 . 3 2 \%$ 。其中，大约有1/4的固定资产投资投入到房地产开发,受此驱动,2000—2010我国城市建成区面积增长 $7 8 . 5 2 \%$ ,而同期城市常住人口仅增长 $4 5 . 9 8 \%$ ,土地城市化速度远高于人口城市化速度,特别是一些“鬼城"经历了爆炸式扩张，建设用地面积大幅增长,而人口城镇化进程缓慢[40]。同时,大规模的固定资产投资投人到制造业和矿业部门,也不可避免地促进城市周边与产业分布区建设用地的扩张。此外,有相当一部分固定资产投资投入到公共基础设施如公路、铁路和机场等的建设,并进一步影响家庭、企业和投资的区位选择,促进基础设施沿线和周边地区建设用地的快速扩张。除了大规模投资外,积极吸引外资是改革开放以来我国促进区域经济发展的另一重大战略。2000—2010年,我国实际利用外资额从 593.56亿美元增加到1088.21亿美元。一方面,为了吸引外资，各地区积极推动各类经济开发区和产业园区的建设,促进了建设用地的扩张;另一方面,外资也为土地征收和开发利用提供了资金支持,进一步推动了建设用地的扩张。
+
+》保护政策方面,2000 年前建立和 2000 年后建立的自然保护区,均在抑制所在地区建设用地扩张中发挥了积极作用；自然保护区在抑制保护区内建设用地扩张的同时,有助于地方政府优化整个区域的土地利用格局,提高建设用地的集约性。受数据的可获取性制约,其他一些生态和耕地保护政策,如天然林保护工程、重要生态功能区建设、基本农田保护等未纳入驱动力分析框架,理论上这些保护政策与自然保护区建设一样,在抑制建设用地扩张上发挥重要作用,有待在未来的研究中进一步验证。
+
+# 3结论
+
+2000—2010年我国建设用地扩张具有显著的正向空间自相关性,建设用地面积百分比的变化在空间上呈现出高-高、低-低聚集特征。为了克服一般线性回归模型在分析空间自相关数据时存在的缺陷,本文分别采用一般线性、空间滞后和空间误差3种回归模型分析 2000—2010年我国建设用地扩张的驱动力,并择优选用。结果发现空间滞后回归模型不仅在理论是合适的分析模型,而且在实际应用中具有更好的拟合效果,能够更准确地识别我国建设用地扩张的核心驱动力。
+
+2000 年以来,我国社会经济迅猛发展,在改善我国居民生活水平的同时,也驱动了我国建设用地的急剧扩张。第二产业的迅猛发展、流动人口的迁移聚集、大规模的固定资产投资、外商直接投资的快速增长,以及投资驱动的大规模的土地城镇化和路网等基础设施建设是驱动我国各地区建设用地扩张的主要驱动力;第三产业的发展、进口的增长以及自然保护区建设对我国建设用地的扩张具有一定的抑制作用,能够缓解快速的社会经济发展对建设用地扩张的驱动作用。地形条件也对各地区建设用地扩张有一定的影响,受西部大开发、中部崛起等区域均衡发展战略的影响,在扣除其他因素的影响后,此间我国建设用地扩张更倾向于出现在高海拔地区;而平均坡度的升高对建设用地的扩张具有明显的抑制作用。
+
+综合考虑各种驱动因素的变化趋势,未来一段时间我国社会经济发展对建设用地扩张的驱动作用将有所减弱。但考虑到目前我国建设用地的粗放利用现状,严控建设用地规模,是确保我国社会经济可持续发展的基本要求。有必要结合建设用地驱动力分析结果,重点开展如下工作：一是制定更为严格的产业用地标准,建立单位建设用地投资和产值限制标准,促进产业发展的土地集约利用；二是开展流动人口的迁移聚集趋势预测和引导规划,减小人口大规模迁徙对人口聚集地和来源地土地利用/覆盖的双重冲击;三是优化固定资产投资结构,降低房地产等高土地依赖产业投资比例,大力遏制投资驱动的土地城镇化和建设用地的无序扩张;四是通过户籍制度改革和产业布局,推动人均建设用地占有量大、土地城镇化过快地区的人口有序城镇化,提高土地利用集约性;五是高度重视乡村建设用地规模的控制,通过紧凑型农村社区规划和建设、“空心村”整治、农村建设用地总量控制、农村宅基地确权登记和流转等,控制乡村建设用地的无序扩张。
+
+# 参考文献（References）：
+
+[1]FoleyJA,DeFriesR,AsnerGP,BarfordC,BonanG,CarpenterR,ChapinFS,CoeMT,DilyGC,GbbsHK,HelkowskiJH,HollowayT,HowardEA,KucharikCJ，MofredaC,PatzJA,PrenticeIC，RamankuttN，SnyderPK.Gobalconsequencesoflanduse.Scienc,2005，309(5734) : 570-574.  
+[2]LongH,LiQHouXG,iifesofdtrasitosuetapduboossteevices：atiosforurban planning in the new developing area of China.Habitat International,2O14,44：536-544.  
+[3]BirgiMerspegerAhbergerNrviforofndapechgeuetdectiosLnscaeEcolog，，19（）857-868.  
+[4] FarinaA.Theculturallandscapeasamodelfortheintegrationof ecologyandeconomics.Bioscience,20o,5O(4）：313-320.  
+[5 ParerisasL，MarullJino,TellE，CollF，asouC.Landuehanges，andscaeecologndheirsocioecoomcdrivingforsiteSpanish Mediteraneancoast（El Maresme County，1850-2005).Environmental Science &Policy,2012,23：120-132.。 RegosA,NinyerolaM，MoréG，PonsX.LinkinglandcoverdyamicswithdrivingforcesinmoutanlandscapeoftheNorthwesteberinPeninsula.International Journal of Applied Earth Observation and Geoinformation,2O15,38：1-14.WeinztelJHertwichEG，etersG,Sten-OlsenK，GalliA.Auencedrivesteglobaldisplacementoflanduse.GlobalEnviotalChange，2013，23（2)：433-438.  
+[8]NewmanME,carenK,ilsoBSLg-tesocicodsatialpaedriversflandoercanginaCbeantroicaloistforest，the Cockpit Country，Jamaica.Agriculture，Ecosystems & Environment，2014，186：185-200.  
+[9] MitsudaY，ItoS.Aeviewfspatial-explicitfactorsdteriningspatialdistributionoflanduse/land-usehange.LadscapeandEcologicalEngineering，2011,7(1）：117-125.  
+[10] SerraP，PonsX，SaurD.Land-coverndland-usechangeinaMediterananlandscape：Aspatialanalyssfdrivingforcesintegratingbiophysical and human factors.Applied Geography，2008,28(3）：189-209.  
+[11]VerburgeOlaofshsialofdeiada99）-  
+[12]AguiaraaGdapatialatitlalsfdseeeantsiliapoglheterogeneity.Ecological Modelling，2007,209(2/4）：169-188.  
+[13]VeldkapA,VerburgModellnglnduscangadevioetaliactJalofnviroentalMaagent,,7（/）：-3.  
+[14] UNEP.Global Environment Outlook 5：Environment for the Future We Want.Malta:ProgressPress Ltd,2012.  
+[15] AligRJ,HealyRG.Urbanandilt-uplandreaangesintheUnitedStatesempiicalivestigationofetenantsLandEcooic，1987,63(3): 215-226.  
+[16] Hassan R,ScholesR.Ecosystems and Human Well-Being:Curent State and Trends.Washington DC：Island Press,2005.  
+[17] 黄季焜，朱莉芬，邓祥征.中国建设用地扩张的区域差异及其影响因素.中国科学 D辑：地球科学，2007,37（9)：1235-1241  
+[18] 谈明洪,李秀彬，吕昌河.20世纪90年代中国大中城市建设用地扩张及其对耕地的占用.中国科学D辑：地球科学，2004，341157-1165.  
+[19] HietelE，WalrdtROte.tatitalodelingoflanoveragssediecoicdicatorsoalEoo,62(3/4):496-507.  
+[20] 刘纪远，张增祥，徐新良，匡文慧，周万村，张树文，李仁东，颜长珍，于东升，吴世新，江南.21世纪初中国土地利用变化的空间格局与驱动力分析.地理学报，2009,64（12）：1411-1420.  
+[21] 陈春，冯长春.中国建设用地增长驱动力研究.中国人口·资源与环境，2010，20（10)：72-78.  
+[22] 王静.中国建设用地与区域经济发展的空间面板计量分析.中国土地科学，2013，27(8)：53-58.  
+[23] MaYL,XuRemotesigogddalyisfbaepasioangouCityiabiatteail,34(2) : 228-235.  
+[24] LinXQ，WangY，WangS，WangDSpatialdierenceandrivingforesoflandubazationinina.JoualofGeogapcalSieces,2015，25(5): 545-558.  
+[25] Long HL，HeligGK,LiXB,Zhang M.Socio-economicdevelopmentandland-usechangenalysisofruralhousinglandtrasitioninthetransect of the Yangtse River,China.Land Use Policy，2007,24(1)：141-153.  
+[26] LiuT,LiuH,Qi.stuctiolndxpadulidndpotetoibagsihtsfroatioalland，2006.Habitat International,2015,46：13-22.  
+[27] 龙花楼，李秀彬.长江沿线样带土地利用格局及其影响因子分析．地理学报，2001,56(4)：417-425.  
+[28] 柯善咨，何鸣.规划与市场——中国城市用地规模决定因素的实证研究.中国土地科学，2008，22(4)：12-18.  
+[29] Huang ZJ，WeiYHD,HeCF,LiH.UrbanlandxpansionundereconomictransitioninChina；Amulti-evelmodelinganalysisHabitatInternational,2015,47：69-82.  
+[30] 陈晓军，张洪业，刘盛和.北京城市边缘区土地用途转换宏观动因机制研究.地理科学进展，2003，22（2)：149-157.  
+[31] BrucknerM,serG,ramberendS,GiluSeasug eleouplinginthballndsste：eviedcmparatieevaatofladfootprint accounting methods.Ecological Economics，2015,114：11-21.  
+[32] LiuJG,HullV,oraE，agendraHwafeldSurerLAplcatiosofteTeleouplingFrewoktondChngeSce//etKC，Reenberg A，Eds.Rethinking Global land Use in an Urban Era. MA: MIT Press，Massachusetts, 2014.  
+[33] Anselin L. Spatial Econometrics:Methods and Models. Netherlands: Springer，1988.  
+[34] WardMD，GleditschKS.Spatialregressonmodels（Quantitativealicationsinthesocialsiences）LosAngeles：SAGEPublicatosInc,2008.  
+[35] OvermarsKP,DeKoingGHJVelapASpatialutocorelatoninulti-salelnduemodelsEologcalModellng，，（/）：257-270.  
+[36] VerburgPH,hotDistJapasegonetpracticeearchprritJoal):309-342.  
+[37] 曹武星，罗飞雄，韩骥，武彩燕，象伟宁.快速城市化地区交通主干道对景观格局变化的影响.地球信息科学学报，2014，16(6)：898-906.  
+[38] 孟丹，李小娟，徐辉，宫辉力.京津冀都市圈城乡建设用地空间扩张特征分析.地球信息科学学报，2013,15（2）：289-296.  
+[39]NelsonGC,BenetE,BerheAA,CassmanK,DeFriesR,DietzT,DbermanA,DbsonA,JanetosA,LevyM,MarcoD,Nakicenovic N,O'NillB,NorgardR,Petschel-HeldG,OjiaD,PingaliPWatsonR,ZurekM.Anthropogenic DriversofcosystemChangeanovervie.Ecology and Society，2006,11(2）：29-29.  
+[40]LiYH,LiWestdH,LiuUba-arasfoatiielatotuivatedndoesioiplicatiotland use and balanced regional development.Land Use Policy,2015,47：218-224.  
+[41]JatMKGargK,KetogdoeligofbasprigoteesingdGhsteatioalJalEarth Observation and Geoinformation,2008,10(1）：26-43.  
+[42]DngJS,WangK，HongY，QiJG.Spatio-temporaldyamicsandevolutionoflandusechangeandlandscapepateiesponsetoapidurbanization.Landscape and Urban Planning，2009,92(3/4）：187-198.

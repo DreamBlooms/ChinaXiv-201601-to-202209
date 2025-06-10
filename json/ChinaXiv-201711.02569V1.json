@@ -1,0 +1,433 @@
+[
+    {
+        "type": "text",
+        "text": "混流式核主泵内流动结构与压力脉动特性关联分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "倪 丹¹　杨敏官¹高 波¹李忠¹李玉婷陆 胜²(1．江苏大学能源与动力工程学院，镇江212013;2．江苏海狮泵业制造有限公司，靖江214500)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要核主泵内的流动不稳定将会引起严重振动，不利于其安全稳定运行。因此本文基于大涡模拟(LES）数值计算方法对几个典型工况下核主泵内部非稳态流动结构及其压力脉动特性进行全面阐述与关联性分析。研究表明，随着流量的增加，动静干涉作用在导叶出口处逐渐增加；偏工况条件下，导叶出口处压力脉动频谱低频段中均出现复杂激励频率，尤其是靠近出液管附近的导叶出口处。核主泵在偏大流量工况下运行时壳体右侧内部非稳态流动结构相较于壳体左侧更加复杂；在偏小流量工况下运行时壳体底部压力脉动更加剧烈。本文进一步详细描述了核主泵球形壳体内强涡量区的流动结构及其成因，并且发现测点处的压力频谱与涡量频谱有相同的主要激励频率，因此证明核主泵内非定常旋涡流动结构是激励压力脉动的主因之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词核主泵；压力脉动；非定常；大涡模拟; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：TH313 文献标识码：A 文章编号:0253-231X(2017)08-1676-07",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Internal Correlations Between Unsteady Flow and Pressure Pulsations in a Nuclear Reactor Coolant Pump ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NI Dan1 YANG Min-Guan1 GAO Bo1 LI Zhong1 LI Yu-Ting1 LU Sheng $^ 2$ (1.School of Energy and Power Engineering,Jiangsu University， Zhenjiang 2120l3,China; 2.Jiangsu HaishiPump Manufacturing CO.,LTD，Jingjiang 214500,China） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Flow instability wil cause severe vibration in the nuclear reactor coolant pump (RCP), and it is bad for the safe and stable operation. Thus,this article is based on large eddy simulation (LES）numerical calculation method to study the internal unsteady flow structures and pressure pulsation characteristics and correlation analysis of the RCP under several typical working conditions. Research shows that with the increase of fow rate, the rotor-stator interactions gradually increase in the diffuser outlet. Under the partial working conditions,several complex frequencies are found in low frequency band of pressure spectrum, especially the difuser outlet near the discharge nozzle. The internal unsteady flow structures in the right side of spherical casing are more complicated than the left side under the large flow conditions.The pressure fluctuation is more intense at the bottom of the spherical casing under the small fow conditions. Further,the unsteady flow structures and its reasons in high vorticity magnitude region are detailly described in the RCP.It has been found that the vorticity spectra and the pressure spectra almost have the same main excitation frequencies. Therefore,it has been confirmed that for particular regions pressure pulsations are determined by the vortex shedding of the RCP. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsnuclear reactor coolant pump; pressure pulsation; unsteady flow; LES; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于国外对核反应堆冷却剂循环泵（以下简称核主泵)的技术垄断，我国在研制高效核主泵技术方面成为了核电技术产业化的瓶颈。因此，研究高效且稳定运行的核主泵不仅具有重要的节能意义，同时对我国自主研发核电技术也具有更加深远的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从基础性研究角度出发，若要设计高效稳定的核主泵，就必须从最基础的泵内部非稳态流动入手，还原核主泵内部复杂流动结构，掌握非稳态流动结构与激励特性之间的关联关系，同时寻找流动损失的主要来源也是核主泵研究的必然趋势。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "核主泵内部流动不稳定特性会导致严重的振动[1，尤其在特殊的准球型压水室中[2]，内部非稳态流场及其复杂，并且对其稳定运行产生危害。相较于普通螺旋形压水室[3,4]，准球形压水室内会产生典型的流动分离、二次流及回流现象，并且压水室两侧的非定常流动结构极其不对称[5]。Claus Knierim等[2]为 $1 4 0 0 \\mathrm { M W }$ 的核电站（APR1400）自主研发了一台新型核主泵，利用计算流体动力学(CFD）技术优化了叶轮与导叶，使其性能达到最优。在研究过程中，他们发现核主泵内的流体堵塞在位于出液管附近的导叶流道中且流体流动发生分离现象。其中一部分流体流出出液管，另一部分流体在球形压水室内再次循环，这也是造成壳体内损失的主要因素之一[5]。Sven Baumgarten 等[6] 详细介绍了一台用于西屋AP1000反应堆的RUV型核主泵的结构。其水力部件的设计是基于CFD技术完成的，并且最终采用1:2的模型泵展开了全面的试验研究。韩国原子能研究院（KAERI）[7为1400MW核反应堆设计制造了一台测试用核主泵，进行了冷态与热态性能测试，观察到在特定的温度范围内，压力脉动振幅异常增加。其原因是当核主泵叶片通过频率及其谐波与核主泵测试设备的频率成正比时，声共振现象发生。Kato 等[8,9]采用大涡模拟方法描述了在小流量工况下的混流泵的内部流场。结果表明预测流量-扬程曲线与测量结果相符合，其扬程－流量曲线在小流量工况下呈现不稳定特性。Miyabe 等[10,11]运用PIV和压力脉动测量仪器对混流泵内部旋转失速现象进行了研究。研究表明不稳定内部流动特性是由在叶轮出口至导叶进口处出现的大尺度回流所激励的。以上研究显示，核主泵内非定常流动结构可能会导致严重的压力脉动和振动，将会危害泵的安全稳定运行[12,13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于核主泵球形壳体结构的特殊性，其内部的不稳定流动结构与激励特性之间的关联关系尚未被完全揭示，因此本文以已有的核主泵模型为研究对象，运用大涡模拟(LES）方法模拟了在几个典型运行工况下核主泵内非定常流动特性与其激励特性，为核主泵安全稳定运行奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1模型泵主要参数及计算区域",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1模型泵主要参数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以已有的混流式核主泵模型为研究对象，其主要设计参数和几何参数如表1所示。核主泵的水力部件主要有叶轮、导叶和球壳组成。为满足主泵中壳体承压安全性能好、强度高、易加工等要求，采用",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "准球形壳体的设计。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa807f5d4fd46af8e2d3a421e1bc106c45b833200541a119440e37230f3c9d2e.jpg",
+        "table_caption": [
+            "表1模型泵主要参数Table 1 Designing parameters"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>表达式与数值</td></tr><tr><td>额定流量Qd/(m/h)</td><td>848</td></tr><tr><td>设计扬程Ha/m</td><td>12.7</td></tr><tr><td>额定流量系数Φd</td><td>Qd/u2R=0.63</td></tr><tr><td>额定扬程系数亚d</td><td>gHd/u=0.29</td></tr><tr><td>额定转速nd/(r/min)</td><td>1480</td></tr><tr><td>叶轮叶片数 Zi</td><td>4</td></tr><tr><td>导叶叶片数 Zd</td><td>12</td></tr><tr><td>叶轮进口直径Di/mm</td><td>221</td></tr><tr><td>叶轮出口直径D2/mm</td><td>268</td></tr><tr><td>叶轮出口宽度b2/mm</td><td>84</td></tr><tr><td>球形壳体直径D3/mm</td><td>637.5</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2计算区域",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1给出了模型泵的计算区域，静止域分别为进口流域、导叶流道、球形壳体流域和出口流域，转动域为叶轮流道。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a2fd34fcd7ee08a0ace06148e882434fd6b33f77a85ee7fc63a881d35338927.jpg",
+        "img_caption": [
+            "图1计算区域示意图",
+            "Fig.1 Three-dimensional computational domain "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数值计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数值计算方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用LES数值计算方法对核主泵在不同工况下的非定常流动结构及其激励特性进行计算分析。LES方法的基本思路是：用瞬时Navier-Stokes方程直接模拟湍流中的大尺度涡，不直接模拟小尺度涡，然后通过求解附加方程得到小尺度涡的解。显然这种求解方法相比于直接数值模拟效率更高，消耗资源更少，但却比RANS方法更加精确[14]。因此LES数值计算方法相较于RANS计算方法有更好的能力预测瞬态流场，尤其在流动分离区域[15,16]。本文应用商业软件Ansys-Fluent13.0预测核主泵中三维非定常流动特性。为得到更精确计算结果，首先采用标准 $k { - } \\varepsilon$ 计算模型对核主泵进行定常计算，将定常计算结果作为非定常计算结果的初始条件。对于非定常计算，采用 Smagorinsky-Lilly 亚格子 (SGS)混合系数模型[17]对方程进行封闭。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2网格划分与边界条件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数值计算的精度主要取决于网格质量。全局网格的生成应用结构化网格技术 (ICEM网格生成工具）进行网格划分，并且在叶片表面等局部位置进行加密处理。因此将获得更加精确的核主泵内部非稳态流动结构与压力脉动特性。同时为兼顾计算准确性以及计算机的计算能力，通过网格无关性验证，最终确定全局网格节点数为7163843，网格数为7438559，其中叶轮节点数为3127239，网格数为3231400。图2(a)为整泵网格图，图2(b)为叶轮网格及局部加密网格示意图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "进出口分别定义速度进口边界条件（velocity-inlet）和压力出口边界条件(pressure-outlet)，压力为环境压力。非定常计算时，旋转域(叶轮）与静止域 (导叶)之间的耦合采用滑移网格模型，进出口流道、导叶流道和球壳流域均采用静止壁面无滑移边界条件，在近壁区采用标准壁面函数法。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7770bf62be4ae69ed1cbd0edacfbb0169bd5d5b3a4480b432db3737717847b1.jpg",
+        "img_caption": [
+            "图2网格示意图Fig.2 Grids"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3非定常设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为精确辨析出球形壳体内流动的非定常特性，本文将时间步长设置为 $\\Delta t { = } 1 1 2 . 6 ~ \\mu \\mathrm { s }$ ，即每一时间步长叶轮转过的角度为 $1 ^ { \\circ }$ ，360个步长叶轮转动一周。同时计算残差收敛性依据设定为 $9 \\times 1 0 ^ { - 6 }$ 来获得更加准确的计算结果。另外，设置叶轮旋转五十圈后可认定为稳定可靠的计算结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/534c6bed7c7ddea60d01971f558e34aff1e886f96b5b78cacc0eafb92d0cdc33.jpg",
+        "img_caption": [
+            "图3监测点分布",
+            "Fig.3 Monitoring points on each main flow domain "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4监测点分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了全面获得球形壳体内的压力脉动特性，在核主泵中间截面的重要位置设置压力脉动监测点。图3给出了监测点位置布置图。球形壳体的主要作用为承压，其周向的压力脉动分布极为重要，因此在壳体周向每 $4 5 ^ { \\circ }$ 设一个监测点，分别为监测点W1-W7。导叶尾缘容易出现周期性旋涡脱落，其脱落特性与压力脉动特性关联极大，因此在导叶尾缘处每$9 0 ^ { \\circ }$ 设一个监测点，分别为监测点D1-D4。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3计算结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1非定常压力脉动分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了分析非定常压力脉动变化情况，引入压力系数 $C _ { \\mathrm { p } }$ ，常用的压力系数表达式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { p } } = { \\frac { \\Delta P } { { \\frac { 1 } { 2 } } \\rho u _ { 2 } { } ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { 2 } = \\frac { n \\pi D _ { 2 } } { 6 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\Delta P$ 为监测静压与其平均压力之差； $u _ { 2 }$ 为叶轮出口圆周速度； $D _ { 2 }$ 为叶轮出口直径。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "叶轮转速为 $\\mathrm { 1 4 8 0 ~ r / m i n }$ ，所以轴频 $\\left( f _ { \\mathrm { R } } \\right)$ 与叶轮通过频率 $\\left( f _ { \\mathrm { B P F } } \\right)$ 分别为 $2 4 . 7 ~ \\mathrm { H z }$ 和 ${ 9 9 } ~ \\mathrm { H z }$ 。本文运用快速傅里叶(FFT)方法将时域信号转换为频域信号。在信号处理过程中，采用汉宁窗（Hanning）来",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cp Cp   \n0.004 JBPFQ/Qd=0.7 D1 0.0048-50HzJBPF Q/Qd=1.0 D1 0.004 Q/Q=1.2 D1   \n0.0 Mwhnamw Wmm 2/BPF 0.00 2fBPF 0.00 Wwywmrar 2/BPF   \n0.004 8-50Hz D2 0.004 D2 0.004 8-30Hz D2]   \n0.002 Wuman 0.002 0.002 M W   \n0.000 W 0.000 0.000   \n0.004 D31 0.004 D3 0.004 D3   \n0.002 0.002 0.002   \n0.000 vwhurr 0.000 0.000 VWr   \n0.004 D4] 0.004 D41 0.004 D4]   \n0.00 ww 0.0 0.00 Ww 150 200 250 300 50 100 150 200 250 50 100 150200 250300 Frequency/Hz Frequency/Hz Frequency/Hz ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "减少能量泄漏。为了全面了解导叶出口压力脉动特性，图4给出了导叶出口处压力脉动频谱分布。从图4可以看出，在额定工况 $( Q / Q _ { \\mathrm { d } } \\mathrm { = } 1 . 0 ) ,$ 下，各测点的主要激励频率均为一倍叶频！ $( f _ { \\mathrm { B P F } } )$ 与二倍叶频$( 2 f _ { \\mathrm { B P F } } )$ 。因此在额定工况下导叶出口处影响压力脉动的主要因素是动静干涉作用。值得注意的是，在D1 测点靠近出液管处的导叶出口处在低频段出现一些激励频率，这说明在额定工况下D1 测点导叶出口处压力脉动相较于其他测点更加复杂。在小流量工况下 $\\left( Q / Q _ { \\mathrm { d } } \\mathrm { = } 0 . 7 \\right)$ ，激励频率除了叶频！ $( f _ { \\mathrm { B P F } } )$ 外，在低频段均出现了主要激励频率，其频率区间约在 ${ 8 } \\mathrm { \\sim 5 0 ~ H z }$ 。这说明偏小流量工况时，导叶出口处的非定常流动结构所引起的压力脉动抑制了动静干涉作用。在大流量工况下 $\\left( Q / Q _ { \\mathrm { d } } { = } 1 . 2 \\right)$ ，各测点在叶频 $\\left( f _ { \\mathrm { B P F } } \\right)$ 处，压力脉动幅值较其他工况均增加，由此说明偏大流量工况下导叶出口处动静干涉作用更加明显。并且在低频段 $8 \\mathrm { \\sim } 3 0 ~ \\mathrm { H z }$ 频率区间内，出现了较多高幅值的非定常激励频率，尤其在监测点D1处非定常激励频率更加复杂。综上所述，随着流量的增加，动静干涉作用在导叶出口处逐渐增加。偏工况条件下，低频段均出现复杂激励频率，尤其是靠近出液管附近的导叶出口处，压力脉动相较其他测点处更加复杂。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为深入分析壳体周向压力脉动分布特性，图5与图6分别给出了各工况下壳体周向各测点一倍叶频处压力脉动幅值分布与压力脉动幅值均方根误差(RMSE)分布。其中压力脉动幅值用均方根误差(RMSE)来评价，其公式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { R M S E } } = { \\sqrt { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( C _ { \\mathrm { p } , i } - { \\overline { { C } } } _ { \\mathrm { p } } \\right) ^ { 2 } } { n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/05f3e8f933b80fe9d7fed4d1b3ee9ae74bdf7b1a066dbb0b496e3c62c2ec773a.jpg",
+        "img_caption": [
+            "图4各工况下导叶出口处压力脉动频谱 Fig.4 Pressure pulsation spectra on diffuser outlet monitoring points ",
+            "图5壳体周向各测点一倍叶频处压力脉动幅值分布 Fig.5 Pressure pulsation amplitudes offBPF at monitoring points W1-W7 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\overline { { C _ { \\mathrm { p } } } }$ 是压力系数平均值， $n$ 是所测量压力系数的数量。因此均方根误差(RMSE)代表压力脉动相较于平均值的离散程度。从图5可以看出，各工况下监测点在圆周方向上的动静干涉作用 $\\left( f _ { \\mathrm { B P F } } \\right)$ 较为不对称。动静干涉作用（ $f _ { \\mathrm { B P F } } )$ 在测点 W4 处幅值均达到最大，尤其是在大流量工况下 $( Q / Q _ { \\mathrm { d } } \\mathrm { = } 1 . 2 )$ ，这说明核主泵在偏大流量工况下运行时动静干涉对球形壳体底部作用更加明显。此外，从图6壳体周向各测点压力脉动幅值均方根误差分布可以看出，额定工况与偏大流量工况下压力脉动幅值在壳体周向分布情况相一致，但小流量工况下脉动幅值分布差别较大。额定工况与偏大流量工况下压力脉动幅值在壳体右侧测点W6处达到最大，壳体右侧压力脉动幅值均大于壳体左侧，这说明核主泵在偏大流量工况下运行时壳体右侧内部非稳态流动相较于壳体左侧更加复杂。在小流量工况下，各测点压力脉动幅值除W4测点外基本对称分布。W4测点脉动幅值在小流量工况下达到最大，这说明核主泵在偏小流量工况下运行时壳体底部压力脉动更加剧烈。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fb2ec1a3ffccb01613ced12381bcaf66a4f14504eb167c5383bb6792b78ddfa.jpg",
+        "img_caption": [
+            "图6壳体周向各测点压力脉动幅值均方根误差分布Fig.6 RMSEvalues ofmonitoringpoint W1-W7"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2内流结构与压力脉动特性关联关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了分析核主泵内部非稳态流动结构与压力脉动之间的关联关系，图7给出了三个工况下核主泵中间截面的瞬态涡量分布。将强涡量区分为 $\\scriptstyle { \\alpha }$ 与 $\\beta$ 两个区域，并给出了这两个区域的局部放大图。由前文的分析可知，导叶叶片A尾缘D1测点处压力脉动在低频段较为复杂，同时壳体右侧压力脉动幅值较左侧更大，因此将接近出液管附近的导叶叶片分为 $\\alpha$ 区；在偏大流量工况下，壳体右侧W6 测点处压力脉动幅值最大，因此将右侧强涡量区划分为$\\beta$ 区域。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在额定工况下 $( 1 . 0 Q _ { d } )$ ，从 $\\alpha$ 区可以看出，在导叶叶片 A 与 B 吸力面中缘至尾缘处出现了明显的非稳态旋涡区，并且在尾缘出现了旋涡脱落。这是因为导叶叶片A与B正对着出液管，其液流流出导叶后由于惯性的作用撞击到球形壳体右侧出液管壁面，形成了大尺度的流动分离，其中一部分液流随着主流方向 (顺时针方向)流去，而另一部分流体在压力梯度与左侧流体的挤压作用下流出出液管。在此撞击与挤压作用下，致使导叶叶片A与B尾缘形成非稳态旋涡结构，因此在D1测点处产生了较大的压力脉动。在 $\\beta$ 区中，在叶轮顺时针的扫掠下，叶轮出口处形成了明显的射流尾迹，其涡量相对较大。在叶轮射流尾迹与导叶的动静干涉下，其尾迹不断通过导叶各流道，在导叶各流道中形成了涡带,此涡带随着主流移动到导叶出口逐渐扩散，并在导叶叶片尾缘形成了类似卡门涡街的周期性旋涡脱落结构。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f4f055a70eb595744af069d411d5a72cb4251fc86c7d78a06de502b7be26d82.jpg",
+        "img_caption": [
+            "图7各工况下核主泵中间截面的瞬态涡量分布",
+            "g.7Transient vorticity distributions of three conditions in the middle section "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7bd982abd7ef2b75ce47049fbdc344e6c737e65aefbd1927d7f845af1e4d49da.jpg",
+        "img_caption": [
+            "Fig.8Pressure spectrum (left) and vorticity spectrum (right) of point D1 under the rated conditions "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1878a12390805f1856bee576ddb5300277be4e6c444f7952de801d5f2204a36.jpg",
+        "img_caption": [
+            "图8额定工况下D1测点的压力频谱 (左图)与涡量频谱 (右图) ",
+            "图9 额定工况下D2 测点的压力频谱 (左图)与涡量频谱 (右图) Fig.9Pressure spectrum (left) and vorticity spectrum (right) of point D2 under the rated conditions "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在大流量工况下 $( 1 . 2 Q _ { \\mathrm { d } } )$ ，叶轮射流尾迹所形成的涡量相较额定工况进一步增加，射流尾迹结构在导叶流道内形成的涡带变宽。从 $\\alpha$ 区中可以看出，导叶叶片A和B的吸力面中部至尾缘处的强涡量区进一步扩大，非稳态旋涡结构扩散至出液管右侧。这些非稳态旋涡结构将会堵塞导叶叶片A与B之间的流道，甚至阻碍流体流出出液管。除了接近出液管附近的导叶叶片A和B中部至尾缘处的非定常旋涡结构，其他导叶叶片吸力面中部至尾缘处均出现强涡量区。从 $\\beta$ 区中可以看出，大流量工况下导叶叶片D吸力面中部附近边界层开始分离，并且形成旋涡区，旋涡区一直延伸至导叶叶片尾缘，直至脱落。大流量工况下，尾缘周期性旋涡脱落结构相较于额定工况更加明显。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在小流量工况下 $\\left( 0 . 7 Q _ { \\mathrm { d } } \\right)$ ，核主泵内部非稳态流动结构相较于其他工况更加复杂。总体上，壳体内涡量强度远大于其他两工况，并且所有导叶流道均堵塞严重。在叶轮叶片出口边靠近工作面处，相对流速大于靠近叶片背面的流体速度，因此在叶片出□处形成了较其他两个工况更加明显的非均匀射流尾迹结构。这样强涡量的射流尾迹结构随着动静干涉作用下流入各导叶流道，使得导叶各流道中的流体相互挤压堵塞，使得流体不能顺利通过导叶流道。这些复杂非定常涡旋结构在惯性力作用下逐渐向导叶出口处扩散，引起了导叶出口处强烈的压力脉动，造成不同测点处压力信号在低频段 ${ 8 } { \\sim } 5 0 \\ \\mathrm { { H z } }$ 处出现了较多高幅值的复杂激励频率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了进一步分析非稳态流动结构与压力脉动之间的关系，以额定工况为例，图8给出了该工况下D1测点的压力频谱 (左图)与涡量频谱 (右图)。从图中可以发现，在D1测点压力频谱与涡量频谱有相同的主要激励频率，除了叶频外其主要激励均为 $2 5 \\ : \\mathrm { H z }$ 与 $3 2 \\mathrm { { H z } }$ 。由此可以进一步证明泵内非定常周期性旋涡流动结构是激励压力脉动的主要因素之一。图9给出了额定工况下D2测点的压力频谱(左图)与涡量频谱 (右图)。由于D2 测点位于导叶叶片D 出口周期性旋涡脱落处，此时D2测点压力频谱与涡量频谱的主要激励频率均为1倍叶频 $\\left( f _ { \\mathrm { B P F } } \\right)$ ，尤其在涡量频谱中，1倍叶频处脉动幅值较大。由此现象可认为，导叶尾缘周期性旋涡脱落频率为1倍叶频。这是因为导叶流道中的涡带在动静干涉作用下向导叶出口不断推进，当推进至导叶叶片尾缘处与尾缘处旋涡相合并，随之脱落。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文采用LES数值计算方法对核主泵在不同工况下的非定常流动结构及其激励特性进行计算分析，得到以下结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1）随着流量的增加，动静干涉作用在导叶出口处逐渐增加。偏工况条件下，低频段均出现复杂激励频率，尤其是靠近出液管附近的导叶出口处，压力脉动相较其他测点处更加复杂;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2)核主泵在偏大流量工况下运行时壳体右侧内部非稳态流动相较于壳体左侧更加复杂；在偏小流量工况下运行时壳体底部压力脉动更加剧烈；",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3）在额定工况下 $( 1 . 0 Q _ { \\mathrm { d } } )$ ，在导叶叶片A与B吸力面中部至尾缘处出现了明显的非稳态旋涡结构，并且在尾缘出现了旋涡脱落。在叶轮射流尾迹与导叶的动静干涉下，其尾迹不断通过导叶各流道，在导叶各流道中形成了涡带，这样的涡带随着主流移动到导叶出口逐渐扩散，并在导叶叶片尾缘形成了周期性旋涡脱落结构;",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4)在大流量工况下 $( 1 . 2 Q _ { \\mathrm { d } } )$ ，叶轮射流尾迹所形成的涡量相较额定工况进一步增加，射流尾迹结构在导叶流道内形成的涡带变宽，导叶尾缘周期性旋涡脱落结构相较于额定工况更加明显；",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5）在小流量工况下 $( 0 . 7 Q _ { \\mathrm { d } } )$ ，核主泵内部非稳态流动结构相较于其他工况更加复杂，壳体内涡量强度远大于其他两工况，并且所有导叶流道均堵塞严重；",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6)测点处的压力频谱与涡量频谱有相同的主要激励频率，因此泵内非定常周期性旋涡流动结构是激励压力脉动的主要因素之一。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Gao H,Gao F,Zhao X,Chen J et al.Transient Flow Analysis in Reactor Coolant Pump Systems During Flow Coastdown Period [J].Nuclear Engineering and Design, 2011,241(2): 509-514   \n[2]Knierim C,Baumgarten S,Fritz J.Design Process for an Advanced Reactor Coolant Pump for a 140o Mw Nuclear Power Plant [C]//2005 ASME Fluids Engineering Division Summer Meeting and Exhibition,2005,1-7   \n[3] Zhang F,Yuan S,Fu Q,Tao Y.Investigation on Transient Flow of a Centrifugal Charging Pump in the Process of High Pressure Safety Injection [J].Nuclear Engineering and Design,2015,293:119-126   \n[4]Barrio R,Blanco E,Parrondo J et al.The Effect of Impeller Cutback on the Fluid-Dynamic Pulsations and Load at the Blade-Passing Frequency ina Centrifugal Pump [J]. Journal of Fluids Engineering,2008,130(11):111102   \n[5] Ni D, Yang M,Gao B et al.Flow Unsteadiness and Pressure Pulsations in a Nuclear Reactor Coolant Pump [J]. Strojniski vestnik-Journal of Mechanical Engineering, 2016,62(4): 231-242 [6] Baumgarten S,Brecht B,Bruhns U et al. Reactor Coolant Pump Type RUV for Westinghouse Reactor AP1000 [C]//Proceedings of ICAPP, 2010: 177-185 [7] Cho Y,Kim Y,Cho S et al. Advancement of Reactor Coolant Pump (RCP） Performance Verification Test in KAERI [C]//Proceedings of the 2014 22nd International Conference on Nuclear Engineering ICONE22, 2014,1-6 [8] Kato C,Mukai H, Manabe A.Large-Eddy Simulation of Unsteady Flow ina Mixed-Flow Pump[J]. International Journal of Rotating Machinery, 2003, 9(5):345-351 [9] Kato C,Mukai H,Manabe A.LES of Internal Flows in a Mixed-Flow Pump With Performance Instability [C]//Proceedings of ASME FEDSM, 2002,1-8   \n[10] Miyabe M,Furukawa A,Maeda H et al.On Improvement of Characteristic Instability and Internal Flow in Mixed Flow Pumps [J]. Journal of Fluid Science and Technology, 2008, 3(6): 732-743   \n[11] Miyabe M,Maeda H, Umeki I et al. Unstable Head-flow Characteristic Generation Mechanism of a Low Specific Speed Mixed Flow Pump [J]. Journal of Thermal Science, 2006,15(2):115-120   \n[12] Gao B, Zhang N,Li Z et al. Influence of the Blade Trailing Edge Profile on the Performance and Unsteady Pressure Pulsations in a Low Specific Speed Centrifugal Pump [J]. Journal of Fluids Engineering,2016,138(5):051106   \n[13]Gao Z,Zhu W,Lu L et al.Numerical and Experimental Study of Unsteady Flow in a Large Centrifugal Pump With Stay Vanes [J]. Journal of Fluids Engineering, 2014, 136(7): 071101   \n[14]Posa A,LippolisA,Verzicco R et al.Large-eddy Simulations in Mixed-flow Pumps Using an Immersed-boundary Method [J]. Computers & Fluids, 2011,47(1): 33-43   \n[15] Yang Y，Kaer S.Comparison of Reynolds Averaged Navier-Stokes Based Simulation and Large-eddy Simulation for One Isothermal Swirling Flow[J].Journal of Thermal Science, 2012, 21(2): 154-161   \n[16] Piomelli U.Large-eddy Simulation: Achievements and Challenges [J]. Progress in Aerospace Sciences，1999, 35(4): 335-362   \n[17] Voke P. Subgrid-Scale Modelling at Low Mesh Reynolds Number [J]. Theoretical and Computational Fluid Dynamics,1996,8(2):131-143 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

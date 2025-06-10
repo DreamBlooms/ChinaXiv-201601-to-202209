@@ -1,0 +1,248 @@
+# 天山北坡城市群地表温度时空差异及贡献度分析
+
+梁洪武'，阿里木江·卡斯木}²，赵禾苗¹，赵永玉1（1.新疆师范大学地理科学与旅游学院，新疆乌鲁木齐830054;2.新疆师范大学丝绸之路经济带城镇化发展研究中心，新疆乌鲁木齐830054)
+
+摘要：城市化的加快推进使得土地利用变化加剧,进而导致城市热环境问题日益突出。基于2005年和2018年夏季的MYD21A2地表温度数据，运用空间统计学方法分析了LST的时空分布格局，并结合土地利用数据,通过贡献度指数,对天山北坡城市群地表覆盖类型和行政区划的源汇角色特征进行了分析。结果表明：（1）2005—2018年建设用地、耕地增长显著,冰川、林地等自然资源地类显著减少,说明城市的发展对生态环境和自然资源造成了较为严重的影响。（2）地表温度等级的空间分布与海拔呈负相关关系,2005—2018年高温度等级在白天的空间分布有离散化趋势，而夜间则相反，夜间高温度等级空间分布整体有向东南迁移的趋势。（3）不同城市、不同地表覆盖类型由于自然条件、比热容等物理性质的不同,其白天和夜间源汇角色不同，可归纳为昼夜热源型( $\mathrm { C I } { > } 0 \$ 、昼汇夜源型（白天 $\mathrm { C I } { < } 0$ ，夜间 $\mathrm { C I } { > } 0$ )和昼夜热汇型( $\mathrm { C I } { < } 0 \AA .$ )。(4)天山北坡城市群独特的气候和荒漠一绿洲一山地地貌致使建设用地为昼汇夜源型地类,源汇角色与内地一些城市群(京津冀城市群)存在差异。
+
+关键词：MYD21A2；天山北坡城市群；地表温度；贡献度
+
+地表温度(Land Surface Temperature,LST)是影响陆地与大气间能量交换和水循环的关键因素，是地球表面能量平衡的重要体现，也是城市热环境最直接的表现形式[1-3]。21世纪以来我国经济飞速发展,城市化进程加快推进，每年以 $1 7 8 8 \mathrm { k m } ^ { 2 }$ 的速度对外扩张4。但随着城市化的大力发展，大量以水泥、沥青为主的不透水面破坏了原有的地表覆盖和自然景观，引起地表反照率和比辐射率等表面状态参数的变化，导致原有的地表热平衡被打破，城市热环境变化显著[5-8]。城市热环境变化不仅会降低居住环境的舒适性，对人类身体健康造成危害，也会对城市局部气候造成严重影响[9]。因此,探究地表覆盖类型对城市热环境的影响，对城市未来的科学发展规划具有十分重要的意义。
+
+近年来，得益于遥感技术的不断发展，热红外遥感使得定量的获取精确地表温度已成为现实，其已成为目前获取大区域尺度上的LST时空分布的唯一有效手段[10-11]。目前,国内外学者针对城市土地利用/覆盖与地表温度的作用关系和机制的研究主要集中在以下几个方面，首先是，针对特定土地覆盖类型变化对地表温度的影响，如探究城市不透水面和植被覆盖度变化与城市地表温度之间的响应关系[12-13]。其次是,探究城市蓝绿景观对降低地表温度和缓解城市热岛效应的作用，大量研究表明适当比例的绿地和水域对平衡城市热能辐射和降低地表温度具有重要的作用[14-15]。有学者通过建立湖泊水面和城市公园绿地的缓冲区探究其对城市的降温效应[16-17],以及运用景观生态学中的景观格局指数，研究土地覆盖景观格局与地表温度之间的关系，如探究城市建设用地和绿地斑块聚集度(AI）、最大斑块指数(LPI)、景观面积百分比(PLAND)等景观格局指数与地表温度之间的关系[18-19]。综上研究，多以线性关系探究单一土地利用/覆盖类型或土地利用景观格局与地表温度之间的关系。然而，土地利用变化对地表温度影响极为复杂，现实情况中都是多种土地利用类型共同影响地表温度，因此，本研究综合考虑各土地利用类型探究其对城市热环境的影响。
+
+国家在“十四五"规划纲要中提出推动城市群一体化发展,天山北坡城市群是重点培育发展的城市群之一，是新疆城镇化建设和经济发展的战略核心区域[20-21]。在国家大战略背景的推动下,天山北坡城市群的经济、工业快速发展和城镇化推进势必会导致土地利用/覆盖剧烈变化,进而导致城市热环境变化。本文以天山北坡城市群为研究区，探究不同时相地表温度的时空变化以及空间聚集性，并结合贡献度指数综合分析不同土地利用类型对地表温度的贡献度，以期为天山北坡城市群在未来规划建设中如何优化平衡土地利用组合结构来平衡热环境变化提供一定的科学参考。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+天山北坡城市群位于亚欧大陆中心，地理位置位于 $8 3 ^ { \circ } 2 4 ^ { \prime } { \sim } 9 1 ^ { \circ } 5 4 ^ { \prime } \mathrm { E } , 4 1 ^ { \circ } 1 1 ^ { \prime } { \sim } 4 6 ^ { \circ } 1 8 ^ { \prime } \mathrm { N }$ ，地处新疆大山北麓、准噶尔盆地南部;北接古尔班通古特沙漠,西邻博尔塔拉蒙古自治州精河县，东边毗邻哈密市巴里坤哈萨克自治县;平均海拔 $1 0 0 0 \mathrm { m }$ 。天山北坡城市群包括乌鲁木齐市、五家渠市、昌吉回族自治州、吐鲁番市、石河子市、克拉玛依市、伊犁州的奎屯市以及塔城地区乌苏市和沙湾县(图1)。天山北坡城市群是当前新疆经济水平最高、交通最发达、人口最密集、产业最集中的地区，2018年底城市群总人口 $5 9 1 . 7 1 \times 1 0 ^ { 4 }$ 人约占全疆总人口的1/5，GDP达$6 5 6 6 . 4 5 \times 1 0 ^ { 8 }$ 元约占全疆总GDP的1/2;是未来引领新疆地区新型城镇化建设的主体区和社会经济发
+
+84°0'E 85°30'E 87°0'E 88°30'E 90°0'E 91°30'E  
+N0.94 10.94  
+44.04 克拉玛依市 444.04乌苏市 昌吉回族自治州奎屯市沙湾县  
+400 克拉玛依市石河子市 五家聚市 昌古国自治州 10  
+40300 高程/m ★ 行政中心 吐鲁番市 40.00  
+44.04 5147 □ 研究区边界 44-154 城市边界0 90 km84°0'E 85°30'E 87°0'E 88°30'E 90°0'E 9130'E
+
+展的战略核心区[22-23]。
+
+# 1.2数据来源与预处理
+
+MODIS传感器波段范围广，时间分辨率高，包括海洋、陆地、大气等要素的系列标准产品。目前MODIS 传感器由Terra和Aqua 双星搭载,Terra卫星大约为地方时上午10:30和夜晚22:30过境，Aqua卫星大约在地方时下午13:30和凌晨1:30过境[24]。本研究使用来自Aqua卫星2005年和2018年6—8月的8d合成白天和夜晚LST产品MYD21A2数据，从NASA 网站(https://ladsweb.modaps.eosdis.nasa.gov/)下载获取，并使用MODIS的官方重投影工具（MO-DISReprojectionTool,MRT)对数据进行重投影和镶嵌。MYD21数据集是新一代的LST产品，通过NASA的陆地进程分布式活动存档中心(ttps://lp-daac.usgs.gov/)查询可知,MYD21数据集目前已通过全球范围内基于温度和辐射的方法组合验证，验证结果显示相较于传统MYD11数据集MYD21数据集的均方根误差(RMSE)更小。Li等25通过验证了MYD11和MYD21数据集在我国西北地区的精度发现，MYD21相较于MYD11数据精度更高，说明MYD21A2数据具有较高的可信度。
+
+土地利用数据采用中国科学院资源环境科学与数据中心(https://www.resdc.cn/)的2005 年、2018年 $3 0 \mathrm { m }$ 分辨率全国土地利用遥感监测数据集。该土地利用分类数据集包含耕地、林地、草地、水域、居民地和未利用土地6个一级类型、25个二级类型。该数据集是基于Landsat遥感影像，通过人工目视解译生成，已被广泛应用于各个研究领域，精度可靠。本研究根据研究区的土地利用现状特征，将冰川单独分为一类，其余按原一级类划分，分为耕地、林地、水域、冰川、草地、建设用地和未利用土地7种土地利用类型
+
+# 1.3研究方法
+
+1.3.1MODIS数据处理MYD21A2数据记录8d内无云条件下的数据，然后再根据简单平均算法计算得出8d复合LST产品，通过LPDAAC网站查询其有效值范围在[7500,65535]之间，换算系数为0.02;通过地理信息系统软件计算得到真实的LST值，计算公式为：
+
+$$
+T _ { s } = D N \times 0 . 0 2 - 2 7 3 . 1 5
+$$
+
+式中： $T _ { s }$ 表示地表温度值 $( \mathsf { C } ) _ { \mathsf { 3 } } D N$ 表示像元亮度值。
+
+为对比白天和夜间夏季不同土地利用类型对地表温度的贡献度差异，在计算得到地表温度值后，通过地理信息系统软件分别计算夏季(6一8月）白天和夜间各12期数据的平均值。
+
+1.3.2地表温度等级划分采用均值标准差法将地表温度划分为5个等级，该方法利用均值与不同标准差倍数进行组合能良好的表征温度的集中性与波动性[26]。具体地表温度等级划分如表1所示。
+
+表1地表温度等级划分  
+Tab.1 CriteriaforclassificationofLST   
+
+<html><body><table><tr><td>地表温度等级</td><td>划分依据</td></tr><tr><td>特高温</td><td>T>μ+1.5std</td></tr><tr><td>高温</td><td>μ+0.5std<T≤μ+1.5std</td></tr><tr><td>中温</td><td>μ-0.5std≤T<μ+0.5std</td></tr><tr><td>低温</td><td>μ-1.5std≤T<μ-0.5std</td></tr><tr><td>极低温</td><td>T< μ-1.5std</td></tr></table></body></html>
+
+注：T为温度区间 ${ } _ { , \mu }$ 为平均值，std为标准差。
+
+1.3.3标准差椭圆标准差椭圆(StandardDevia-tion Ellipse,SDE)是一种能够精确揭示地理要素空间分布中心性、方向性和变化方向偏差的空间统计学模型[27-28]。通过标准差椭圆方法分析高温度等级（高温区和特高温区)区域的空间中心分布与方向分布。标准差椭圆的中心坐标表示地理要素相对空间位置；长、短轴方向分别表示地理要素在空间上的主、次分布方向，长、短轴长度表示地理要素在主、次分布方向上的离散性;方位角表征地理要素空间分布的主导方向[29-30]。中心坐标、方向性、离散性、方位角计算公式如下：
+
+$$
+M = \left( \sqrt { \frac { \displaystyle \sum _ { i = 1 } ^ { n } x _ { i } } { \displaystyle n } } , \sqrt { \frac { \displaystyle \sum _ { i = 1 } ^ { n } y _ { i } } { \displaystyle n } } \right)
+$$
+
+$$
+D = { \sqrt { \frac { \displaystyle \sum _ { i = 1 } ^ { n } { \bigl ( } x _ { i } \cos R - y _ { i } \sin R { \bigr ) } ^ { 2 } } { \displaystyle \sum _ { i = 1 } ^ { n } { \bigl ( } x _ { i } \sin R - y _ { i } \cos R { \bigr ) } ^ { 2 } } } }
+$$
+
+$$
+S = { \sqrt { \frac { \displaystyle \sum _ { i = 1 } ^ { n } \left( x _ { i } \sin R - y _ { i } \cos R \right) ^ { 2 } } { n } } }
+$$
+
+R=tan-1
+
+式中： $M$ 为标准差椭圆的中心点坐标； $x _ { i }$ 和 $y _ { i }$ 为第 $i$ 个地理要素的二维空间坐标; $n$ 为地理要素的数量;$D$ 为方向性;S为离散性; $R$ 为标准差椭圆的方位角。1.3.4空间自相关分析空间自相关可以解释地理要素的空间聚集特征以及空间关联程度，分为全局空间自相关和局部空间自相关，一般通过莫兰指数(Moran'sI)来衡量[31]。全局莫兰指数(GlobalMo-ran'sI)用于衡量地理要素全局区域内临近地理要素的空间聚集性，局部莫兰指数(LocalGlobalMo-ran's $I$ )用于衡量局部区域中地理要素分布空间相关性[32]。运用GeoDa软件来进行空间自相关分析，全局莫兰指数可用于度量全域地表温度的全局空间关联性，指数越大关联性越强，地表温度在空间上更加聚集，其计算公式为：
+
+$$
+I = \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { n } W _ { i j } \Big ( x _ { i } - \overline { { x } } \Big ) \Big ( x _ { j } - \overline { { x } } \Big ) \Bigg / S ^ { 2 } \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { n } w _ { i j }
+$$
+
+式中： $I$ 为全局莫兰指数； $n$ 为斑块总数； $x _ { i } \setminus x _ { j }$ 分别为斑块 $i , j$ 的地表温度等级; $\textstyle \mathbf { \big | } V _ { i j }$ 为空间权重矩阵； $\mathbf { \Pi } _ { x } ^ { - }$ 为所有斑块的平均值； $w _ { i j }$ 表示斑块 $i , j$ 的权重； $s$ 表示标准差。
+
+局部莫兰指数用于分析每一个斑块在局部区域的空间相关性，且基于 $Z ( I )$ 显著性检验的LISA图能直观的反映地表温度的区域聚集和分异特征。其中 $Z ( I )$ 检验和局部莫兰指数公式如下：
+
+$$
+Z ( I ) = { \frac { \left[ I - E ( I ) \right] } { \sqrt { \operatorname { V a r } ( I ) } } }
+$$
+
+$$
+I _ { \mathbf { \Omega } _ { L } } \mathbf { = } \frac { \displaystyle { \left( x _ { i } - x \right) } \sum _ { i = 1 } ^ { n } W _ { i j } { \left( x _ { j } - x \right) } } { \displaystyle { \sum } ^ { 2 } }
+$$
+
+式中： $Z ( I )$ 为莫兰指数的显著性； $E ( I )$ 为指数的期望 值； $\mathrm { V a r } ( I )$ 为指数的方差； $I _ { L }$ 为局部莫兰指数。
+
+1.3.5贡献度指数城市下垫面由多种土地利用类型共同构成，且共同影响着城市地表温度。不同土地利用类型由于其热通量、比热容等性质的不同对城市地表温度的影响不同，在不同时相对城市地表温度影响也可能存在较大的差异；因此根据不同土地利用类型对地表温度影响的差异性，可将不同土地利用类型分为源或汇景观[33]。不同土地类型对城市地表温度的贡献程度可通过贡献度指数(ContributionIndex,CI)来定量表示[34]。计算公式如下：
+
+$$
+\mathrm { C I } _ { i } = D _ { i } \times { \frac { S _ { i } } { S } }
+$$
+
+式中： $\mathrm { C I } _ { i }$ 为研究区内第 $i$ 种土地利用类型对地表温度的贡献度，其绝对值大小代表贡献强度，绝对值越大贡献度越大;其正负值分别表征对地表温度的升温(源)和降温(汇)作用。 $D _ { i }$ 为第 $i$ 种土地利用类型的平均地表温度与整个研究区内平均地表温度的差值； $S _ { i }$ 和S分别为第i种土地利用类型的面积和整个研究区的面积。
+
+各城市由于发展程度、地理环境位置、功能地位的不同，其土地利用空间格局不同，对整个区域地表温度的影响存在较大的差异。根据贡献度指数，探究不同城市对城市群地表温度的贡献度，即各城市平均LST与城市群平均LST的差值乘以各城市面积与城市群总面积的比值。
+
+# 2 结果与分析
+
+# 2.1土地利用/覆盖变化特征
+
+对2005年和2018年的土地利用/覆盖数据进行重分类，并统计各土地利用/覆盖类型的面积、百分比及其变化率(图2，表2），从结果可知，2005一2018年天山北坡城市群土地利用/覆盖变化显著，土地利用/覆盖类型以草地和未利用地为主，其两者的面积占比在2005年和2018年均在 $8 0 \%$ 以上。从时间上来看，建设用地和冰川的变化比例较高，变化比例的绝对值均在 $5 0 \%$ 以上。2005—2018年天山北坡城市群城市化进程显著，建设用地变化比例最高，达 $7 7 . 6 5 \%$ ，面积从 $1 8 1 7 . 9 2 ~ \mathrm { k m } ^ { 2 }$ 增长到了3229.49$ { \mathrm { k m } } ^ { 2 }$ ，以“乌一昌"经济圈最为显著。冰川从2005年的 $2 6 8 0 . 1 0 \mathrm { k m } ^ { 2 }$ 减少至2018年的 $9 3 0 . 8 4 \mathrm { ~ k m } ^ { 2 }$ ,变化比例为 $- 6 5 . 2 7 \%$ 。其次，林地、水域和耕地的变化也较为显著，其中林地变化比例为 $- 4 9 . 7 8 \%$ ,天山北坡的林地减少尤为明显，这可能是由于耕地的扩张，侵占了部分平原地区的灌木林地所致。水域变化比例为 $3 3 . 8 9 \%$ ，可能与冰川的消融有关；耕地扩张迅
+
+![](images/eabe1481ceb2cded03025fd8411474b96fe5d5441755a1ac008ec570d439be8a.jpg)  
+图22005年和2018年天山北坡城市群土地利用/覆盖空间分布
+
+Fig.2Spatialdistributionlanduse/coverofurbanagglomerationonthenorthernslopeoftheTianshanMountainsin2Oo5and2018
+
+表22005—2018年土地利用/覆盖类型面积变化统计  
+Tab.2 Area statistics of land use/cover types from 2oo5 to 2018   
+
+<html><body><table><tr><td rowspan="2">土地利用/ 覆盖类型</td><td colspan="2">2005年</td><td colspan="2">2018年</td><td colspan="2">2005—2018年</td></tr><tr><td>面积/km²</td><td>比例/%</td><td>面积/km²</td><td>比例/%</td><td>变化面积/km²</td><td>变化比例/%</td></tr><tr><td>草地</td><td>61282.23</td><td>31.60</td><td>59078.08</td><td>30.46</td><td>-2204.15</td><td>-3.60</td></tr><tr><td>耕地</td><td>16432.88</td><td>8.47</td><td>22543.51</td><td>11.62</td><td>6110.63</td><td>37.19</td></tr><tr><td>建设用地</td><td>1817.92</td><td>0.94</td><td>3229.49</td><td>1.67</td><td>1411.57</td><td>77.65</td></tr><tr><td>林地</td><td>5170.72</td><td>2.66</td><td>2596.93</td><td>1.34</td><td>-2573.79</td><td>-49.78</td></tr><tr><td>水域</td><td>669.43</td><td>0.35</td><td>896.31</td><td>0.46</td><td>226.88</td><td>33.89</td></tr><tr><td>冰川</td><td>2680.10</td><td>1.38</td><td>930.84</td><td>0.48</td><td>-1749.26</td><td>-65.27</td></tr><tr><td>未利用地</td><td>105883.03</td><td>54.60</td><td>104661.15</td><td>53.97</td><td>-1221.88</td><td>-1.15</td></tr></table></body></html>
+
+速，从2005年的 $1 6 4 3 2 . 8 8 \ \mathrm { k m } ^ { 2 }$ 增长到2018年的$2 2 5 4 3 . 5 1 \ \mathrm { k m } ^ { 2 }$ ,变化比例达 $3 7 . 1 9 \%$ 。草地和未利用地面积占比虽占主导，但变化比例的绝对值都低于$5 \%$ 。总体上，天山北坡城市群生态系统脆弱，以草地和未利用地占主导，且在城市化、经济发展、农业发展中对自然资源的侵占、生态环境破坏较为严重，表现为林地和冰川的大量减少。
+
+# 2.2地表温度时空变化特征
+
+依据表1对地表温度进行分级，并统计白天与夜间各温度等级的面积及变化量(表3，图3)，从结果可知，白天和夜间的极低温区域都主要分布在天山北坡城市群的高海拔地区，如乌鲁木齐东边的博格达山，西南边的天山北坡、以及东北角的北塔山;其面积变化虽不显著，但白天与夜间都在减少，这与冰川减少相呼应。特高温区域白天和夜间虽都分布在低海拔的吐鲁番盆地,但白天与夜间有一定差异。白天特高温区主要分布在吐鲁番鄯善县的库木塔格沙漠，从变化上看其面积在减少，这与近年来实施的"荒漠绿化"工程,对荒漠环境的治理取得了一定的效果密切相关。而到了夜间沙漠降温，特高温区西移，分布在吐鲁番盆地的绿洲区域；相较于白天，夜间的特高温区面积变化较为明显，2005—2018年增加了 $1 0 8 6 . 2 2 \mathrm { k m } ^ { 2 }$ 。结合图2可知，低温区除嵌套分布在极低温区周围外，白天还大量分布于除吐鲁番地区以外的耕地区域；白天低温区面积显著增加，增加量达 $5 8 5 0 . 4 2 ~ \mathrm { k m } ^ { 2 }$ ,验证了2005—2018年天山北坡城市群耕地面积在大量增加。中温区白天分布集中于草地区域,夜间除分布于草地区域外,还大量分布于未利用地，其中，白天与夜间中温区面积都减少明显，分别减少了8432.42$ { \mathrm { k m } } ^ { 2 }$ 和 $5 6 5 5 . 4 4 ~ \mathrm { k m } ^ { 2 }$ 。高温区白天分布集中于吐鲁番地区和研究区北部的未利用地；夜间在吐鲁番地区分布较为集中，部分分布于建设用地和研究区北部的未利用地;未利用地白天与夜间高温区面积都呈增加的特征。总体而言，研究区内地表温度等级的分布、变化与海拔、土地利用/覆盖变化等密切相关，白天与夜间地表温度等级变化在绿洲及未利用地较为明显。
+
+表32005年和2018年白天、夜间LST等级面积统计  
+Tab.3 Area statistics ofLST grade during day and night in 2oo5 and 2018   
+
+<html><body><table><tr><td rowspan="2">LST等级</td><td colspan="6">面积/km²</td></tr><tr><td>2005年白天</td><td>2018年白天</td><td>变化面积</td><td>2005年夜间</td><td>2018年夜间</td><td>变化面积</td></tr><tr><td>极低温</td><td>21853.26</td><td>21523.25</td><td>-330.01</td><td>17775.39</td><td>17728.24</td><td>-50.15</td></tr><tr><td>低温</td><td>24798.27</td><td>30648.69</td><td>5850.42</td><td>16863.40</td><td>17758.23</td><td>894.83</td></tr><tr><td>中温</td><td>71828.66</td><td>63396.24</td><td>-8432.42</td><td>113127.42</td><td>107471.98</td><td>-5655.44</td></tr><tr><td>高温</td><td>73024.61</td><td>75945.86</td><td>2921.25</td><td>39567.02</td><td>43291.56</td><td>3724.54</td></tr><tr><td>特高温</td><td>2431.51</td><td>2422.27</td><td>-9.24</td><td>6603.08</td><td>7689.30</td><td>1086.22</td></tr></table></body></html>
+
+![](images/170d8b510753aa4919381e9d7fd0de94a61a40a41c060ab17a7b5b3806e18452.jpg)  
+图32005年和2018年白天、夜间LST等级空间分布  
+Fig.3Spatial distribution of LST grade during day and night in 2Oo5 and 2018
+
+# 2.3地表温度空间聚集性特征
+
+为探究天山北坡城市群LST空间聚集性，以及空间关联性，运用Geoda软件计算LST莫兰指数和局部莫兰指数，结果如表4和图4所示，2005年、2018年白天、夜间4个时相的Moran'sI均大于0.9，$P$ 均小于0.001，且总体呈增加的特征，白天的Mo-ran'sI大于夜间；说明研究区内LST呈较强的空间正相关关系，并有加强的特征，且白天强于夜间。
+
+# 表4地表温度全局空间自相关显著性检验
+
+Tab.4 Significance test of global spatial autocorrelation ofLST   
+
+<html><body><table><tr><td>时相</td><td>Moran's I</td><td>Z</td><td>P</td></tr><tr><td>2005年白天</td><td>0.959</td><td>164.846</td><td><0.001</td></tr><tr><td>2005年夜间</td><td>0.954</td><td>164.607</td><td><0.001</td></tr><tr><td>2018年白天</td><td>0.958</td><td>158.944</td><td><0.001</td></tr><tr><td>2018年夜间</td><td>0.956</td><td>165.761</td><td><0.001</td></tr></table></body></html>
+
+由图4可知，白天高-高聚集区主要分布于吐鲁番地区以及研究区北部的未利用地地区，这些区域都是高温和特高温的主要聚集区，变化较为平稳。低-低聚集区分布集中于天山北坡以及博格达山等高海拔地区，少量分布在城市群的绿洲耕地区，这些地区是极低温和低温的主要聚集区，沙湾、乌苏和奎屯绿洲区低-低区2018年相较于2005年有较明显的增加，可能是由于这些地区耕地的大量增加，使得白天的LST降低。夜间低-低聚集区仅分布于天山北坡以及博格达山等高海拔地区；高-高聚集区主要分布于吐鲁番地区，2018年研究区北部的高-高聚集区相较于2005年有较明显的增加，可能与该区域草地的减少有关。白天、夜间吐鲁番地区和研究区北部的未利用地均是高-高聚集的地区，天山北坡和博格达山等高海拔地区均是低-低聚集的地区，变化均主要发生在研究区的绿洲区域，
+
+# 2.4高温度等级的空间分布特征
+
+将高温度等级(高温、特高温)区域，通过地理信息系统软件进行面、点数据转换，进行标准差椭圆分析并计算其特征参数(表5，图5)。结果显示，白天与夜间标准差椭圆的空间分布差异较为明显，夜间中心点空间分布相较于白天呈向西北方向移动的特征。2005—2018年白天的中心点呈向西北方向移动的特征，但移动的幅度不明显，方向性在减弱，离散性在增强，方位角变小，表明白天高温度等级区域大致分布方向由东南一西北向东一西方向转变，在长轴方向上的分布更加离散化。2005—2018年夜间中心点呈向东南方向移动的趋势，移动幅度较大，从五家渠市移动到乌鲁木齐市内，方向性增强，离散性减弱，方位角变化不明显，表明夜间高温度等级区域大致分布方向不变，在长轴方向上的分布更加集中，整体有向东南方向移动的趋势。
+
+# 2.5地表温度贡献度分析
+
+2.5.1不同土地利用/覆盖的贡献度时空差异以2005年和2018年天山北坡城市群土地利用/覆盖为统计单元，根据公式(9)定量计算各土地利用/覆盖类型对城市群地表温度的贡献度指数(图6)。从结果可知，未利用地各时相的CI均为正值，表明该地类对城市群的LST升高作正贡献，为城市群热环境主要源地类，主要由于未利用地面积占比高，且地表裸露程度高，水分含量极低，比热容小，白天太阳直射升温快，夜间降温虽也快，但其平均LST仍高于研究区平均LST。草地、林地和冰川各时相的CI均为负值，表明这3种地类对城市群LST升高作负贡献，表现为对城市群LST起降温作用，为城市群热环境汇地类,草地和林地通过大面积绿色植被的光合作用和蒸腾作用使得其能够保持较低的温度，草地的负贡献度绝对值最大可能是由于其面积占比较大造成，冰川的CI绝对值降低幅度较大，主要是由于其面积大量减少。耕地、建设用地和水域在白天的CI为负值，而到了夜间CI变为了正值，其城市群热环境的源汇角色随着昼夜的变化而变化；白天为城市群LST升高作负贡献，为汇地类;夜间为城市群LST升高作正贡献，为源地类。造成地类源汇角色昼夜转变的原因可能由于不同地类其比热容等物理性质不同和人为影响，如水体的比热容大，其保温能力强散热慢，因此，夜间温度高使得其夜间CI为正。耕地在2005—2018年，白天的负贡献度绝对值明显增大，与其面积增加密不可分;建设用地和水域CI绝对值都随着面积的增大而增大。
+
+![](images/92090eaee465abdfbfd1bdec4395ecb9b9a226ce3bee7df927645847ac4df56e.jpg)  
+图4地表温度局部空间自相关分布  
+Fig.4 Local spatial autocorrelation distribution ofLST
+
+表5高温度等级标准差椭圆参数信息  
+Tab.5 Standard deviation ellipse parameter information for high temperature grades   
+
+<html><body><table><tr><td>时相</td><td>方向性</td><td>离散性</td><td>中心点坐标(经度)</td><td>中心点坐标(纬度)</td><td>方位角度()</td></tr><tr><td>2005年白天</td><td>2.22</td><td>130.99</td><td>89°38'E</td><td>43°07'N</td><td>133.58</td></tr><tr><td>2005年夜间</td><td>2.28</td><td>113.67</td><td>87°47'E</td><td>44°34'N</td><td>125.13</td></tr><tr><td>2018年白天</td><td>2.19</td><td>139.42</td><td>89°19'E</td><td>43°12'N</td><td>129.32</td></tr><tr><td>2018年夜间</td><td>2.60</td><td>112.76</td><td>88°01'E</td><td>43°79'N</td><td>124.54</td></tr></table></body></html>
+
+![](images/ad073bc6942cda07f90ad55edec8379a9fb60ca47772f1fc7f09574363bb58c8.jpg)
+
+![](images/7031302ec83e6567722a5ab28589d13ad1f3c0ca6b9bd9b5a42afa55f3c39e33.jpg)  
+图5高温度等级标准差椭圆的空间分布特征 Fig.5Spatial distribution characteristics of standard deviation ellipse of high temperature grades   
+图6各土地利用/覆盖类型白天、夜间的贡献度指数 Fig.6Contribution index of different land use/cover types in dayand night
+
+2.5.2不同城市的贡献度时空差异以天山北坡城市群各县市辖区为统计单元，通过分区统计获取LST均值，计算各地区2005年和2018年白天、夜间的贡献度指数可知(图7)，吐鲁番市、克拉玛依市和五家渠市2005年和2018年白天、夜间的贡献度指数均为正值，是促进研究区LST升高的贡献源，为城市群热环境源地区。吐鲁番地区的贡献度指数绝对值远高于克拉玛依市和五家渠市，是促进研究区LST升高的最主要贡献源，可能是由于其盆地地形加上地表覆盖类型以未利用地为主，且CI值呈增加的特征。乌鲁木齐市、昌吉回族自治州、乌苏市和沙湾县2005年和2018年白天、夜间的地表温度CI均为负值，表明这些地区的LST均值始终小于研究区的LST均值，表现为对天山北坡城市群降温的作用，为汇地区；这些地区包含了研究区内大部分高海拔地区，高海拔地区以低温和极低温等级为主，所以其平均LST较低。石河子市白天贡献度指数为负值，但夜间的贡献度指数为正值，该地区的热环境源汇角色在随着昼夜变化而变化，白天对天山北坡城市群地表温度呈降温作用，缓解白天城市群热效应，夜间却对城市群地表温度呈升温作用，加剧城市群热效应。大山北坡城市群大部分地区贡献度指数都为负值，对城市群起降温作用;吐鲁番市在正贡献度的地区中占绝对主导作用，且还在呈增加特征，需要引起注意。地区源汇角色与该地区的海拔、地形、地表覆盖等都有密切关系。
+
+![](images/cd7e00abeb41aa31d424ff9a43ddeb1093f20014b1d194f9f61157de35023130.jpg)  
+图7白天、夜间不同城市贡献度指数  
+Fig.7Day and night contribution index of different cities
+
+# 3讨论
+
+通过分析2005—2018年的土地利用类型变化发现建设用地、耕地和水域增长较为活跃，主要原因是近年来快速城市化，城市人口的大量增加对于粮食和水资源的需求也不断递增，使得大量开垦耕地和水库的建设[22]。冰川大量消融与Wang等[35]的研究结果一致，其表明20世纪60年代以来，新疆地区冰川一直处于持续损失的状态，2010年以后有所放缓，温度升高是导致冰川大量消融的主要因素。林地大量减少主要是由于耕地扩张对林地的侵占，加上商品性采伐，导致森林资源大量减少，虽近年来对生态环境的保护越来越重视，但森林资源的恢复仍需较长时间[36-37]。
+
+不同地表覆盖类型其地表反照率、比辐射率、比热容、粗糙度等性质的不同，在相同太阳辐射条件下，其表面温度不相同，从而引起城市热(冷)岛效应9。这也解释了土地利用变化剧烈的区域也是温度等级变化显著的区域。通过贡献度发现天山北坡城市群建设用地白天贡献度为负值，但夜间责献度为正值，其源、汇角色随着昼夜变化而不同，这与Qiao等[3和孙宗耀等[33的研究结果不一致，其发现建设用地在白天、夜间的贡献度均为正值，对地表升温作正贡献，为热环境源地类，这与干旱区绿洲城市其独特的气候及地貌特征有关，绿洲城市外围的过渡带多为荒漠裸地以及低覆盖草地，整体地表裸露程度较大，含水量极低比热容小，盐度也相对较高，白天太阳直射升温快，而建设用地区域人造蓝绿景观较多，含水量相对较高，比热容大升温慢，因此，白天建设用地区域地表温度相对较低；而到了夜间则相反[39]。但随着绿洲城市的发展，荒漠一绿洲过渡带在持续萎缩，城市热环境问题势必更加严峻[40]
+
+本研究基于贡献度指数识别出热环境的源汇地类，对天山北坡城市群优化土地利用类型组合和结构来调控城市热环境，提供了初步的认识。但本文还存在局限性，在数据时间连续性上，仅对2005年和2018年夏季进行了研究，未来还需要运用多时相遥感数据对季节和年度的变化趋势进行探究，为防控热环境问题提供更加科学、全面的参考依据。
+
+# 4结论
+
+（1）土地利用变化分析可知，2005—2018年天山北坡城市群发展迅速，建设用地面积显著增加，冰川消融和兴建水库导致水域面积增加；耕地扩张和前期商品性采伐导致林地面积大幅减少，说明2005一2018年天山北坡城市群在城市化、经济、农业的快速发展对生态环境的负荷加剧。
+
+(2）LST的高温度等级(高温、极低温)主要分布于低海拔地区，且白天分布方向有东南一西北向东一西转变的趋势，且方向性在变小，离散性在变大，夜间整体有向东南移动的趋势，且方向性在变大，离散性在变小。而低温度等级(低温、极低温)
+
+主要集中分布于高海拔地区。
+
+（3）贡献度存在昼夜和地区差异。从地表覆盖类型来看，未利用地为昼夜热源型地类，草地、林地和冰川为昼夜热汇型地类，耕地、建设用地和水域为昼汇夜源型地类；从行政区划来看，吐鲁番市、克拉玛依市和五家渠市为昼夜热源型区域，乌鲁木齐市、昌吉回族自治州、乌苏市和沙湾县为昼夜热汇型区域，仅有石河子市为昼汇夜源型地区。
+
+# 参考文献(References）：
+
+[1]李召良,段四波,唐伯惠,等.热红外地表温度遥感反演方法研 究进展[J].遥感学报,2016,20(5): 899-920.[Li Zhaoliang,Duan Sibo,Tang Bohui,et al. Review of methods for land surface temperature derived from thermal infrared remotely sensed data[J]. National Remote Sensing Bulletin,2016,20(5): 899-920.]   
+[2]Deng YH, Wang SJ, Bai X Y,et al. Relationship among land surface temperature and LUCC,NDVI in typical karst area[J]. Scientific Reports,2018,8(1): 641.   
+[3]满元伟,李净,邢立亭.基于多源遥感数据的温度-土壤湿度- 降水干旱指数(TMPDI)的构建与应用[J].干旱区研究,2021,38 (5): 1442-1451.[Man Yuanwei,Li Jing,Xing Liting. Development and application of the temperature soil moisture precipitation drought index (TMPDI) based on multi-source remote sensing data [J].Arid Zone Research,2021,38(5): 1442-1451.]   
+[4]匡文慧,迟文峰,陆灯盛,等.城市地表热环境遥感分析与生态 调控[M].北京:科学出版社,2015.[Kuang Wenhui,Chi Wenfeng,Lu Dengsheng,et al. Remote Sensing- Based Analysis of Thermal Environment and Ecological Regulations in Cities[M]. Beijing: Science Press,2015.]   
+[5]Fang C L, Gao Q, Zhang X L, et al. Spatiotemporal characteristics of the expansion of an urban agglomeration and its effect on the eco-environment: Case study on the northern slope of the Tianshan Mountains[J]. Science China Earth Sciences,2019,62(9):1461- 1472.   
+[6]Liu JY, Kuang W H, Zhang Z X,et al. Spatiotemporal characteristics,patterns,and causes of land-use changes in China since the late 1980s[J]. Journal of Geographical Sciences,2014,24(2): 195- 210.   
+[7]尹昌应,石忆邵,王贺封,等.城市地表形态对热环境的影响 -以上海市为例[J].长江流域资源与环境,2015,24(1):97- 105.[Yin Changying,Shi Yishao,Wang Hefeng,et al. Impacts of urban landscape form on thermal environment at multi-spatial levels[J]. Resources and Environment in the Yangtze Basin,2015,24 (1): 97-105.]   
+[8]匡文慧.城市土地利用/覆盖变化与热环境生态调控研究进展 与展望[J].地理科学,2018,38(10):1643-1652.[KuangWenhui. Advance and future prospects of urban land use/cover change and ecological regulation of thermal environment[J].Scientia Geographica Sinica, 2018,38(10): 1643-1652.]   
+[9]Cao Q, YuDY,Georgescu M,et al.Impacts offuture urban expansion on summer climate and heat-related human health in eastern China[J]. Environment International,2018,112: 134-146.   
+[10] 谢启姣.刘进华.胡道华.武汉城市扩张对热场时空演变的影响 [J].地理研究,2016,35(7):1259-1272.[Xie Qijiao,Liu Jinhua, Hua Daohua.Urban expansion and its impact on spatio-temporal variation of urban thermal characteristics:A case study of Wuhan [J]. Geographical Research,2016,35(7): 1259-1272.]   
+[11] 杨丽萍,刘晶,潘雪萍,等.基于Landsat-8影像的西安市地表温 度遥感反演与影响因子研究[J.兰州大学学报(自然科学版), 2019,55(3): 311-318.[Yang Liping,Liu Jing,Pan Xueping,et al. Land surface temperature retrieval and influential factor analysis in Xi'an basedon Landsat8 image[J]. Journal ofLanzhou University (Natural Sciences),2019,55(3): 311-318.]   
+[12]买买提江·买提尼亚孜,阿里木江·卡斯木.干旱区典型城市下 垫面特征及其与地表热环境的关系研究[J].生态环境学报, 2015,24(11): 1865-1871.[Maimaitijiang Maitiniyazi,Alimujiang Kasimu. Study on land surface characteristics and its relationship withlandsurface thermalenvironmentof typicalcityinaridregion [J].Ecology and Environmental Sciences,2015,24(11):1865- 1871.]   
+[13]周玄德,郭华东,孜比布拉·司马义.城市扩张过程中不透水面 空间格局演变及其对地表温度的影响一 一以乌鲁木齐市为 例[J].生态学报,2018,38(20):7336-7347.[Zhou Xuande,Guo Huadong, Zibibula Simayi. Spatial pattern evolution of impervious surfaces and its influence on surface temperature in the process of urban expansion: A case study of Urumqi[J]. Acta Ecologica Sinica,2018, 38(20): 7336-7347.]   
+[14]Kuang W H, Dou Y Y, Zhang C,et al. Quantifying the heat flux regulation of metropolitan land use/land cover components by coupling remote sensing modeling with in situ measurement[J]. Journal of Geophysical Research Atmospheres,2015,120(1): 113-130.   
+[15] 杨朝斌,张亭,胡长涛,等.蓝绿空间冷岛效应时空变化及其影 响因素——以苏州市为例[J].长江流域资源与环境,2021,30 (3): 677-688.[Yang Chaobin,Zhang Ting,Hu Changtao, et al. Spatial- temporal characteristics of the cooling island for bluegreen space and its driving factors in Suzhou, China[J]. Resources and Environment in the Yangtze Basin,2021,30(3): 677-688.]   
+[16] 周雯,曹福亮,张瑞,等.绿地格局对城市地表热环境调节作用 的多尺度分析[J].南京林业大学学报(自然科学版),2020,44 (3):133-141.[Zhou Wen, Cao Fuliang,Zhang Rui,et al.Multiscale analysis of the effects of green space pattern on the urban surface thermal environment[J].Journal of Nanjing Forestry University (Natural Sciences Edition),2020,44(3): 133-141.]   
+[17]石蕾洁,赵牡丹.城市公园夏季冷岛效应及其影响因素研究 -以西安市中心城区为例[J].干旱区资源与环境,2020,34 (5): 154-161.[Shi Leijie,Zhao Mudan. Cool island effect of urban
+
+parks and impact factors in summer: A case study of Xi'an[J].
+
+Journal of Arid Land Resources and Environment,2O20,34(5): 154-161.]   
+[18]王雪,于德永,曹茜,等.城市景观格局与地表温度的定量关系 分析[J].北京师范大学学报(自然科学版),2017,53(3):329- 336.[Wang Xue,Yu Deyong,Cao Qian,et al. Quantitative rela tionship between urban landscape pattern and surface temperature [J]. Journal of Beijing Normal University (Natural Science),2017, 53(3): 329-336.]   
+[19]Lu L L, Weng Q H, Xiao D,et al. Spatiotemporal variation of surface urban heat islands in relation to land cover composition and configuration: A multi- scale case study of Xi’an, China[J].Remote Sensing,2020,12(17): 2713-2732.   
+[20]方创琳.天山北坡城市群可持续发展战略思路与空间布局[J]. 干旱区地理,2019,42(1): 1-11.[Fang Chuanglin.Strategic thinking and spatial layout for the sustainable development of urban agglomeration in northern slope of Tianshan Mountains[J].Arid Land Geography,2019,42(1): 1-11.]   
+[21] 张丽芳,方创琳,高倩.天山北坡城市群城市景观时空扩张过程 及多情景模拟[J].生态学报,2021,41(4):1267-1279.[Zhang Lifang,Fang Chuanglin, Gao Qian. Spatial and temporal expansion of urban landscape and multi-scene simulation of urban agglomeration in northern slope of Tianshan Mountains[J].Acta Ecologica Sinica,2021,41(4): 1267-1279.]   
+[22] 刘亚茹,李莉,菊春燕.天山北坡城市群土地利用及生态服务价 值时空演变[J].水土保持通报,2020,40(6):312-320.[Liu Yaru, Li Li,Ju Chunyan. Spatio-temporal evolution of land use and ecological service value in urban agglomeration on northern slope of Tianshan Mountains[J]. Bulletin of Soil and Water Conservation, 2020,40(6): 312-320.]   
+[23] 杨倩,秦莉,高培,等.基于EEMD-LSTM模型的天山北坡经济 带年降水量预测[J].干旱区研究,2021,38(5):1235-1243. [Yang Qian,QinLi,GaoPei,etal.Predictionof annualprecipitation in the northern slope economic belt of Tianshan Mountains based on a EEMD-LSTM model[J].2021,38(5): 1235-1243.]   
+[24] 胡李发,谢元礼,崔思颖,等.关中平原城市群夏季城市热岛特 征及驱动力[J].中国环境科学,2021,41(8):3842-3852.[Hu Lifa, Xie Yuanli, Cui Siying,et al. Characteristics and driving forces analysis of urban heat island in Guanzhong Plain urban agglomeration in summer[J]. China Environmental Science,2O21,41(8): 3842-3852.]   
+[25]Li H, Li R B, Yang Y K,et al. Temperature-based and radiancebased validation of the collection 6 MYD11 and MYD21 land surface temperature products over barren surfaces in northwestern China[J]. IEEE Transactions on Geoscience and Remote Sensing, 2021,59(2): 1794-1807.   
+[26] 哈尚辰,阿里木江·卡斯木.基于土地集约利用水平的城市热岛 效应影响因子分析[J].冰川冻土,2016,38(1):270-278.[Ha Shangchen, Kasimu Alimujiang. Analysis of the impact factors of urban heat island effect based on the intensive land use level[J] Journal of Glaciology and Geocryology,2016,38(1): 270-278.]   
+[27] 赵璐,赵作权.基于特征椭圆的中国经济空间分异研究[J].地理 科学,2014,34(8): 979-986.[Zhao Lu, Zhao Zuoquan.Projecting the spatial variation of economic based on the specific ellipses in China[J]. Scientia Geographica Sinica,2014,34(8): 979-96.]   
+[28] 夏晓圣,汪军红,宋伟东,等.2000—2019年中国 $\mathrm { P M } _ { 2 . 5 }$ 时空演化 特征[J].环境科学,2020,41(11):4832-4843.[Xia Xiaosheng, Wang Junhong,Song Weidong,et al. Spatio-temporal evolution of $\mathrm { P M } _ { 2 . 5 }$ concentration during 2OoO-2019 in China[J]. Environmental Science,2020,41(11): 4832-4843.]   
+[29] 沈中健,曾坚.1996—2017年闽三角城市群区域热岛时空格局 演化分析[J].安全与环境学报,2020,20(4):1567-1578.[Shen Zhongjian, Zeng Jian.Analysis of spatiotemporal patterns and evo lution of regional thermal islands in Fujian delta urban agglomeration during decade of 1996-2O7[J]. Journal of Safety and Environmen,2020,20(4): 1567-1578.]   
+[30] 于琛,胡德勇,曹诗颂,等.近30年北京市ISP-LST空间特征及 其变化[J].地理研究,2019,38(9):2346-2356.[Yu Chen,Hu Deyong, Cao Shisong,et al.The spatial characteristics and changesof ISP-LST of Beijing in recent 30 years[J]. Geographical Research,2019,38(9): 2346-2356.]   
+[31] 王戈,于强,YANG Di,等.京津冀城市群生态空间格局变化与 地表温度关系研究[J].农业机械学报,2021,52(1):209-218. [Wang Ge,Yu Qiang, Yang Di, et al. Relationship between change of ecological spatial pattern and land surface temperature in Beijing Tianjin Hebei Urban Agglomeration[J]. Transactions of the Chinese Society for Agricultural Machinery,2021,52(1):209- 218.]   
+[32]宁秀红,郭龙,张海涛.基于空间自回归和地理加权回归模型的 不同尺度下土地利用程度研究[J].华中农业大学学报,2013, 32(4): 48-54.[Ning Xiuhong,Guo Long, Zhang Haitao. Comprehensive degree of land-use at different scales based on spatial autocorrelation regression and geographically weighted regression models[J]. Journal of Huazhong Agricultural University,2013,32 (4): 48-54.]   
+[33] 孙宗耀.孙希华.徐新良.等.土地利用差异与变化对区域热环
+
+境贡献研究—以京津冀城市群为例[J].生态环境学报, 2018,27(7):1313-1322.[Sun Zongyao,Sun Xihua,Xu Xinliang, et al.Study on the contribution of land use heterogeneity and change to regional thermal environment: A case study of BeijingTianjin-Hebei urban agglomeration[J]. Ecology and Environmental Sciences,2018,27(7):1313-1322.]   
+[34]Yu ZW, Yao YW,Yang G Y,et al. Spatiotemporal patterns and characteristics of remotely sensed region heat islands during the rapid urbanization (1995-2015) of southern China[J]. Science of the Total Environment,2019,674(5): 242-254.   
+[35]WangPY,Li ZQ,Li HL,et al. Glaciers in Xinjiang,China: Past changes and current status[J].Water,2020,12(9): 2367-2381.   
+[36]肖中琪,黄建文,凌成星.新疆天山西部天然林保护工程区林地 及森林生物量空间变化分析[J].林业资源管理,2018,47(1): 57-62,89. [Xiao Zhongqi,Huang Jianwen,Ling Chengxing.Spatial change analysis of forest land and biomass in natural forest protection project area of western Tianshan Mountain[J]. Forest Resources Management, 2018,47(1): 57-62,89.]   
+[37]王靖淘.基于遥感与GIS 的土地利用景观格局变化研究[D].西 安：西安科技大学,2018.[Wang Jingtao.Study on Land Use Landscape Pattern Change Based on Remote Sensing and GIS[D]. Xi'an: Xi'an University of Science and Technology,2018.]   
+[38]Qiao Z, Tian G J, Xiao L.Diurnal and seasonal impacts of urbanization on the urban thermal environment: A case study of Beijing using MODIS data[J]. ISPRS Journal of Photogrammetry and Remote Sensing,2013,85: 93-101.   
+[39] 李润林,时永杰,姚艳敏,等.基于LandsatTM/ETM $\cdot +$ 的张掖市甘 州区绿洲冷岛效应时空变化研究[J].干旱区资源与环境, 2014,28(9): 139-144.[Li Runlin,Shi Yongjie, Yao Yanmin, et al. Temporal and spatial variation of oasis cold island effect in Ganzhou district of Zhangye based on Landsat TM/ETM+[J]. Journal of Arid Land Resources and Environment,2014,28(9): 139-144.]   
+[40] 孙帆,王弋,陈亚宁.塔里木盆地荒漠-绿洲过渡带动态变化及 其影响因素[J].生态学杂志,2020,39(10):3397-3407.[Sun Fan,Wang Yi, Chen Yaning.Dynamics of desert-oasis ecotone and its influencing factors in Tarim Basin[J]. Chinese Journal of Ecology,2020,39(10): 3397-3407.]
+
+# Analysis of the spatial and temporal differences in surface temperature and the contribution of surface coverage in the urban agglomeration on the northern slope of the Tianshan Mountains
+
+LIANG Hongwu'， Alimujiang Kasiml²， ZHAO Hemiao’， ZHAO Yongyu' (1. College of Geographic Science and Tourism, Xinjiang Normal University, Urumqi 83oo54,Xinjiang,China; 2.Research Center for Urbanization Developmentof Silk Road Economic Belt,Xinjiang Normal University,Urumqi 830054, Xinjiang, China)
+
+Abstract: The acceleration of urbanization has intensified land use changes,which in turn has ledto increasingly prominent urban thermal environmental problems. Based on MYD21A2 surface temperature data from the summers of 20o5 and 2018,the spatial and temporal distribution pattrn of LST was analyzed using spatial statistics,combined with land use data,andthecontribution index wasused todetermine the sourceofland cover types and administrative divisions of the urban agglomeration on the northern slope of the Tianshan Mountains. Between 2005and 2018,construction land,cultivated land increased significantly,and natural resource types, such as glaciers and forest land,decreased significantly,indicating that urban development had aserious impact on the ecological environment and natural resources.The spatial distribution of surface temperature grades is negatively correlated with altitude; from 2O05 to 2018,the spatial distribution ofhigh temperature grades in the daytime has a discretization trend,while the opposite is true at night,and the overall spatial distributionof high temperature grades at night has a tendency to migrate to the southeast.Diferent cities and land cover types had different day/night source and sink roles due to different natural conditions,specific heat capacity,and other physical properties; these can be summarized as a day and night heat source type $\mathrm { ( C I > 0 }$ ),a day and night sink type (day $\mathrm { C I } < 0$ ,night $\mathrm { C I } > 0$ ), and a day and night heat sink type ( $\mathrm { C I } < 0 \AA$ ). The unique climate and desert-oasismountain landforms of the urban agglomeration on the northern slope of the Tianshan Mountains ledto a diurnal sink and night source land for construction land,with the role of source and sink being different from that of some inland urban agglomerations (Beijing-Tianjin-Hebei urban agglomeration).
+
+Keywords: MYD21A2；urban agglomeration on the northern slope of Tianshan Mountains; land surface temperature； contribution

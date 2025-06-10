@@ -1,0 +1,166 @@
+# CRISPR/Cas9系统的研究进展
+
+栗晓飞，曹英秀，宋浩
+
+（天津大学化工学院，系统生物工程教育部重点实验室，天津化学化工协同创新中心合成生物学平台，天津，300072）
+
+摘要CRISPR/Cas9系统的发展彻底改变了人们编辑DNA序列和调控目标基因表达水平的能力，从而为生物体的精确基因组编辑提供了有力的工具。简化后的CRISPR/Cas9系统由两部分组成：Cas9蛋白和 sgRNA。其作用原理为 sgRNA通过自身的Cas9把手与Cas9蛋白形成Cas9-sgRNA复合体，Cas9-sgRNA复合体中 sgRNA的碱基互补配对区序列与目标基因的靶序列通过碱基互补配对原则进行配对结合，Cas9利用自身的核酸内切酶活性对目标DNA序列进行切割。与传统的基因组编辑技术相比，CRISPR/Cas9系统具有几大明显的优势：易用性、简便性、低成本、可编程性以及可同时编辑多个基因。CRISPR/Cas9基因组编辑技术以及衍生出来的CRISPRi和CRISPRa基因表达调控技术已经被广泛应用于多种真核和原核生物中。该文综述了CRISPR/Cas9系统的起源、作用机理、在生物体中的应用和其衍生出的技术，并概述了其脱靶效应和未来前景。
+
+关键词CRISPR/Cas9 基因组编辑CRISPRiCRISPRa 基因表达调控
+
+# CRISPR/Cas9 system: A recent progress
+
+LI Xiao-fei, CAO Ying-xiu, SONG Hao\*
+
+(SchoolofChemicalEngineeringandTechnology，KeyLaboratoryofSystems Bioengineering(MinistryofEducation),ynBio
+
+Research Platform,ColaborativeInovationCenterofhemicalScienceandEngineering(Tanjin),TianjinUnversityijin,
+
+China,300072)
+
+AbstractThe development of CRISPR/Cas9 system has revolutionized our ability to edit DNA and to modulate expression levels of target genes, thus providing powerful tools to accelerate the precise genome engineering of a wide range of organisms. The developed CRISPR/Cas9 system consists of the Cas9 protein and a programmed sgRNA. The Cas9 protein binds to the Cas9 handle of sgRNA and forms a Cas9-sgRNA complex. Then, the Cas9-sgRNA complex binds to specific DNA targets by Watson-Crick base pairing between the sgRNA and the DNA target, and the DNA will be cleaved due to the nuclease activity of the Cas9 protein. Compared with the traditional genome editing technologies,CRISPR /Cas9 system has several obvious advantages,inculding ease of use, simplicity,low cost, programmed and multiple genes editing. CRISPR / Cas9 genome editing technology and the derived CRISPRi and CRISPRa gene expression regulation techniques have been widely used in a variety of eukaryotic and prokaryotic organisms. Here, the origin and mechanism of CRISPR / Cas9 system, its application in organisms and its derived technology were reviewed, and its off-target effect and future prospects were outlined.
+
+Key words CRISPR/Cas Genome Editing CRISPRi CRISPRa Gene Expression Regulation
+
+CRISPR（clustered regularly interspersed short palindromic repeats ） /Cas（CRISPR-associated）系统广泛存在于微生物界中[1]。目前， $40 \%$ 的细菌和 $90 \%$ 的古生菌中都发现了CRISPR/Cas系统[1,2]。I型CRISPR/Cas 系统作为RNA直接介导的基因组编辑工具已经在许多真核生物和原核生物体内成功应用[1-4]。随着CRISPR/Cas9(CRISPR-associated 9)系统的进一步发展,CRISPR 激活(CRISPRactivation, CRISPRa）和 CRISPR 抑制（CRISPR interference,CRISPRi）技术的出现大大提高了我们调节目标基因表达的能力[5-10]。
+
+CRISPR/Cas9系统作用原理是：首先，人工设计合成的一段特异性RNA序列（single guide RNA,sgRNA）与Cas9蛋白形成复合体；然后，sgRNA-Cas9复合体中的 sgRNA的碱基互补配对序列与目标基因靶向结合；最后，Cas9蛋白发挥核酸内切酶的功能对目标DNA双链进行特异性切割。CRISPR/Cas9系统已经被广泛应用于哺乳动物和微生物中，例如：遗传学突变体产生、高通量遗传筛选和基因途径解剖等方面。本综述对CRISPR/Cas9系统及其衍生出的CRIPSRa和CRISPRi技术的研究进展进行了详细介绍并对其发展前景进行了展望。
+
+# 1 CRISPR/Cas9系统的起源
+
+1987年，研究人员首次在大肠杆菌基因组中发现了CRISPR和Cas 基因[11]。但是，直到 2000 年研究人员才在其他细菌和古细菌中发现了CRISPR系统[12]。2005年，研究人员发现CRISPR中的许多间隔序列是来源于质粒或噬菌体的外源 DNA[13-15]。随后，研究人员提出了CRISPR/Cas 系统可能是细菌的适应性防御系统的假说[16]。2007年，研究人员证明嗜热链球菌中的CRISPR/Cas系统的确是针对溶血性噬菌体的适应性免疫系统[17]。2008 年，研究人员在表皮葡萄球菌[18]和大肠杆菌[19]中发现成熟的CRISPRRNAs（crRNAs）可以与Cas9 蛋白形成复合体，该复合体可以干扰噬菌体的增殖。这些研究为CRISPR/Cas9发展为基因组定点编辑技术奠定了基础。CRISPR/Cas9基因组定点编辑技术一问世，就吸引了整个科学界，目前，全世界成千上万的实验室都在研究应用该技术[20]。
+
+# 2 CRISPR/Cas9系统的组成和原理
+
+根据核酸内切酶的识别和切割机制的不同，CRISPR/Cas系统被分为I-VI型[21]。我们在本文主要介绍目前被广泛应用的来源于化脓性链球菌的Ⅱ型CRISPR/Cas9 系统。该系统由Cas9蛋白、crRNA（CRISPRRNA）和 tracrRNA（trans-activating crRNA）组成，crRNA 是由前体 crRNA（precursor crRNA,pre-crRNA）经 tracrRNA 和RNase II加工后得到[22]。crRNA 将Cas9 蛋白引导到目标DNA双链上发挥核酸内切酶的作用，该系统发挥作用不仅需要crRNA中存在与目标基因碱基互补配对的序列，还需要在目标基因的靶向结合区的下游存在前间区序列邻近基序（protospacer adjacent motif,PAM）[23]。在不同的生物体中，PAM序列不同。在研究人员广泛研究的化脓性链球菌中,PAM序列为NGG[24,25]。随着研究的深入，研究人员用 sgRNA代替了crRNA和 tracrRNA，sgRNA序列中有一个模拟crRNA-tracrRNA复合体的发夹结构[25]。sgRNA 由三部分组成：碱基互补配对区（base-pairingregion）、Cas9把手（Cas9handle）和终止子(terminator）。
+
+简化后的CRISPR/Cas9系统由两部分组成：Cas9蛋白和 sgRNA。其作用原理如图1所示[6,24,25]：首先，表达成功的 sgRNA 通过自身的Cas9 把手与Cas9蛋白形成复合体；然后，复合体中sgRNA的碱基互补配对区序列与目标基因的靶序列通过碱基互补配对原则进行配对，实现复合体与目标基因的配对；最后，Cas9利用自身的核酸内切酶活性对目标DNA序列进行切割。
+
+![](images/be9180af67d43445e19cdaa0b46ca0b5a382d1d537bd7704c5404fb7972d6a5a.jpg)  
+图1CRISPR/Cas9系统作用机制Fig.1 The mechanism of CRISPR/Cas9 system
+
+# 3 CRISPR/Cas9系统的发展和应用现状
+
+# 3.1CRISPR/Cas9在基因组编辑方面的应用
+
+CRISPR/Cas9系统的高效性和简便性使Cas9蛋白成为多种基因组工程技术的首选核心酶。Cas9蛋白能通过sgRNA中的碱基互补配对区序列特异性识别结合目标DNA序列，再对目标DNA双链的特定位点进行切割形成DNA双链断裂（double-strandbreak，DSB）来介导对基因组的编辑。在真核生物和某些原核生物中，一旦Cas9 切割DNA双链形成了DSB，它们将会被细胞DNA 修复系统重新连接。
+
+在真核细胞中，Cas9切割DNA双链产生的DSB的修复途径共有两种：非同源末端连接（nonhomologousend joining,NHEJ）和同源性定性修复（homology-directed repair,HDR）。在许多细菌（如大肠杆菌）中没有NHEJ途径，因此依赖于细胞同源重组系统与染色体或质粒携带的模版相结合来修复$\mathrm { D S B } ^ { [ 2 6 ] }$ 。最近的研究[27]证明大肠杆菌可以利用Cas9 进行基因组编辑。NHEJ途径可以将Cas9切割DNA双链产生的DSB 重新连接起来，但是该过程往往会在切割部位附近产生几个任意核苷酸的插入或缺失[28]。所以，NHEJ途径通常会改变Cas9所切割的靶基因的开放阅读框，使靶基因的核苷酸序列发生移位，引起终止密码子的过早出现，从而导致基因敲除[28-31]。在HDR途径中，用作同源重组的外源DNA含有被Cas9 所切割的靶基因的同源臂。只要为HDR 途径提供合适的供体DNA模板，该途径就可以高效的将这段特异性序列连接到切割位点之间。HDR 途径可以对Cas9 切割的目标DNA序列进行精确的编辑，如特定核苷酸序列的插入、缺失[29,32]和替换[3-35]。研究证明：CRISPR/Cas9介导的HDR 途径的效率可以被小分子调节，例如：在小鼠胚胎多功能干细胞中，布雷菲德菌素A 和L755507（a β3-adrenergic receptor agonist）分子可以将 CRISPR/Cas9介导的HDR 途径的效率提高为原来的3倍，而胸苷类似物AZT（azidothymidine）和TFT（Trifluridine）则会降低 HDR 途径的效率[36]。
+
+由于在许多细菌基因组中不存在有效的NHEJ途径，所以Cas9切割形成的DSB 会导致细胞的死亡。但是，由于Cas9可以将特异序列引导进基因组中，所以CRISPR/Cas9已经被用来促进细菌基因组编辑程序。CRISPR/Cas9可以敲除靶基因进而构建缺少靶基因或PAM序列的重组子[37,38]。
+
+Cas9-sgRNA复合体基因编辑能力的发现为Cas9成为许多生物体的基因组工程工具铺平了道路。锌指核酸酶（zinc finger nucleases,ZFNs）和转录激活子样效应物核酸酶（transcription activator-like effector nucleases,TALENs）是两种CRISPR/Cas9发现之前的基因组工程工具。相比这两种技术，CRISPR/Cas9有几大明显的优势：易用性、简便性、低成本、可编程性以及可同时编辑多个基因。CRISPR系统是可编程的，因为只要在目标DNA序列下游存在PAM序列，Cas9蛋白就可以被具有相应碱基互补配对区的sgRNA引导到靶序列发挥作用。
+
+CRISPR系统还可以通过同时表达多个sgRNA实现对多个目标基因的编辑[39]。这样，就使设计和构建全基因组的sgRNA文库成为可能。研究人员[40]公布了利用CRISPR/Cas9系统构建的全基因组文库完成宿主正向遗传筛选的方案。CombiGEM（combinatorial genetics en masse）是一种可伸缩的条码组合基因组装技术，研究人员[41]利用CombiGEM高通量筛选构建了一个含有23409条gRNA（guide-RNA）的组合型文库，再利用CombiGEM-CRISPR系统确定了抑制卵巢癌细胞生长的基因对。除了这些优势以外，相比ZFNs和TALENs，CRISPR-Cas技术对人类细胞靶序列作用时具有很高的特异性（ ${ \sim } 9 0 \%$ ）和较低的脱靶率（ $. \sim 2 0 \%$ ）[42-44]。
+
+当在一个宿主中异源表达CRISPR/Cas9系统时，需要表达Cas9蛋白、tracrRNA 和crRNA（或用 sgRNA 代替 tracrRNA:crRNA）。例如，研究人员[35]利用CRISPR/Cas9系统在肺炎链球菌中成功实现靶向基因组编辑，还利用双质粒表达的CRIPSR/Cas9 系统在大肠杆菌中实现靶向基因组编辑。在大肠杆菌[35]和人类细胞[45,46]中，研究人员利用CRISPR/Cas9系统同时表达多个特异性crRNA，进而实现了对多个基因的同时编辑。在人类多功能干细胞中，研究人员[47]利用CRISPR/Cas9 实现了特异性引入纯合突变和杂合突变，促进了对人类疾病的研究。在传播疟疾的冈比亚疟蚊中，研究人员[48]利用CRISPR/Cas9 对控制雌性繁殖的基因进行基因驱动，为控制蚊子种群达不到疟疾传播的水平做出贡献。在人类造血干细胞中，研究人员[49]利用CRISPR/Cas9介导的消融系统提供了用于艾滋病治疗的临床诊断的证据。
+
+CRISPR/Cas9基因组编辑系统在真核生物中已经得到广泛的应用，但是这种技术还没有在微生物界得到广泛应用。我们预计在未来几年CRISPR/Cas9系统将在世界各地的微生物实验室中得到以下方面的应用：构建缺失突变体；进行复杂的遗传研究和高通量遗传筛选；目标病原菌、微生物和生物膜的检测；通过基因组工程策略研究以前难以治理的细菌种类等。
+
+# 3.2CRISPR/Cas9衍生技术（CRISPRi和CRISPRa）在基因表达调控方面的应用
+
+利用RNAi（RNAinterference）[50]和合适的诱导型启动子可以调节目标基因的表达水平。研究人员[将CRISPR/Cas9系统中Cas9蛋白的两个具有核酸内切酶活性的结构域HNH和RuvC分别进行H840A和D10A定点突变，从而得到失去核酸内切酶活性的dCas9（deadCas9）蛋白。dCas9无法切割DNA，但dCas9通过与相应的 sgRNA 结合可以激活（CRISPRa）或抑制（CRISPRi）目标基因的表达[6,51,52]。与野生型的Cas9进行的基因组编辑相比,dCas9所介导的CRISPRi和CRISPRa技术的最大优点是不需要NHEJ等细胞修复途径，更加适用于难以进行基因组编辑的微生物。
+
+CRISPRi通过dCas9-sgRNA复合物与目标DNA的靶向结合形成空间位阻抑制目标DNA的转录，进行形成对目标基因表达的抑制。dCas9-sgRNA复合物能够以两种方式（如图2所示）抑制目标DNA的转录：（i）通过阻止RNA 聚合酶结合DNA启动子抑制转录起始；（ii）通过空间位阻抑制转录延伸。在大肠杆菌中，sgRNA-dCas9与目标基因的启动子和开放阅读框靶向结合时，可以导致目标基因转录成功的mRNA 量减少两个数量级[6,53]；当抑制目标DNA 的转录延伸时，sgRNA 靶向结合非模版DNA 链产生的抑制效果要比 sgRNA 靶向结合模版DNA链产生的抑制效果更强。
+
+![](images/f916909c2c7096c9037770b241cf388e5703fb33c9e960f1036c7a60b9482d98.jpg)  
+图2CRISPRi系统作用机制  
+Fig.2 The mechanism of CRISPRi system
+
+相比于RNAi技术，CRISPRi技术在调节细菌的基因表达方面有多种优势：首先，通过将特定的 $2 0 ~ \mathrm { b p }$ 的核苷酸碱基互补配对区插入到sgRNA中，可以很容易地实现对不同的目标基因的表达的抑制；其次，可以通过寡核苷酸文库的合并克隆策略构建出数千个 sgRNA实现CRISPRi的大规模调控；再次，CRISPRi可以通过诱导型启动子对必需基因的表达进行可逆的不同水平的抑制[54],进而研究必需基因对菌株新陈代谢的影响；最后，CRISPRi可以通过同时表达多个不同的 sgRNA实现对多个基因的同时抑制[6,52]。需要注意的是：如果目标基因是操纵子的一部分，则利用CRISPRi进行基因抑制时也会影响目标基因下游基因的表达。通过组合表达多个激活子或抑制子与CRISPRi协同作用，可以更大幅度地增强或抑制目标基因的表达。
+
+目前，CRISPRi已经被应用到多种微生物中，如大肠杆菌[55]和结核分枝杆菌[56]。此外，CRISPRi系统已经被整合到难以进行遗传操作的细菌染色体上，如放线菌[57]和拟杆菌[58]。相比于基于质粒表达的CRISPRi，染色体整合不需要质粒表达的选择性标记，并且使CRISPRi系统能够长期存在于宿主细菌中。
+
+dCas9也可以增强目标基因的表达，该技术称为CRISPRa。CRISPRa通过dCas9-sgRNA复合体与促进RNA聚合酶结合启动子的激活子结合而增强靶基因的转录。在缺失RNA聚合酶@亚基的大肠杆菌突变体中[53]，融合表达的dCas9-@和相应的 sgRNA可以促进RNA聚合酶结合到启动子区域，进而增强目标基因的转录，如图3所示。目前，多个激活子已经被发现并用来激活目标基因的转录[54]。在大肠杆菌中，CRISPRa 可以使目标基因的转录水平增强一个数量级，并且其激活强度与sgRNA的靶向结合位置有关。然而，与CRISPRi形成的基因抑制效率相比，CRISPRa 在原核和真核生物中的转录激活效率相对较低[59,60]，所以该技术还需要进行优化。
+
+![](images/bf2708dffaf29b293604e857ecea88ab7ba849c0386653c8ac73b14dda2b0fbe.jpg)  
+图3CRISPRa系统作用机制Fig.3 The mechanism of CRISPRa system
+
+提高CRISPRi和CRISPRa的转录抑制或转录激活效率；开发可诱导表达CRISPRi和CRISPRa的工具；创建可在同一细胞中平行激活或抑制的正交系统等方法[6I]可以进一步扩大CRISPRi和CRISPRa的应用领域。
+
+# 3.3 CRISPR/Cas9系统的脱靶效应
+
+任何基因工程技术的基本要求是将错误突变的频率（脱靶效应）降至最低。
+
+为了避免脱靶效应，必须正确设计与目标基因特异结合的sgRNA以确保其能将Cas9 引导到正确的位置对目标基因进行切割。为了确保Cas9能在准确的位置发挥切割作用，sgRNA 的碱基互补配对区的种子序列（靶向结合PAM上游12 bp序列）必须与目标基因完全互补[25,62,63]。所以，近期的主要目标应为确定CRISPR/Cas9系统脱靶效应产生的具体因素，进而防止脱靶效应的发生。随着生物信息学的发展，研究人员[64]利用计算机开发出了可以优化sgRNA序列的工具，进而大大减少了CRISPR/Cas9 系统的脱靶效应。此外，将Cas9与FokI核酸酶融合到一起等方法也减少了CRISPR/Cas9系统的脱靶效应[65,66]。最近，研究人员[67]通过改变Cas9 蛋白的结构来避免Cas9与非特异性DNA 配对，成功在人类细胞中降低了CRISPR/Cas9系统的脱靶效应。目前，CRISPR/Cas9系统的脱靶效应已经得到较大的改善[68,69]。
+
+# 4结论与展望
+
+由于其简便性和高效性，CRIPSR/Cas9系统及其衍生技术（CRISPRi和CRISPRa）已经被广泛应用于生物医学和生物技术领域。然而，围绕该技术的几个方面仍然需要进一步的改进，包括如何合理设计 sgRNA和减少脱靶效应等。尽管目前存在这些限制因素，但是CRISPR/Cas9已经作为基因组编辑工具广泛应用于真核生物中，并且越来越多的应用于微生物合成生物学领域。例如，在细菌中运用CRISPR/Cas9 系统可以很容易得到目标基因的缺失突变体[25,70]。这在以前是无法想象的，传统的方法操作过程复杂且结果无法预测，尤其是在一些可用的分子克隆工具较少的细菌中尤为突出。此外，CRISPR/Cas9系统可以相对较快的进行高通量遗传筛选、帮助研究人类疾病、编辑以前难以进行基因操作的生物体基因组。
+
+当将CRISPR/Cas9系统应用于人类时，我们需要解决很多伦理问题，尤其是在考虑用CRISPR/Cas9系统修改人类种系时，人们将会对这一问题进行激烈的辩论并继续向前探索。
+
+总之，自从发现CRISPR/Cas9系统以来，CRISPR/Cas9系统改变了我们编辑,原核以及真核生物基因组的能力。我们相信CRISPR/Cas9系统将会应用到越来越多的原核及真核生物中，并且有潜力成为治疗一系列人类疾病的技术基础。
+
+# 参考文献
+
+[1] Doudna JA, Charpentier E.The new frontier of genome engineering with CRISPR-Cas9.Science,2014, 346(6213): 1258096.   
+[2] Charpentier E, Marraffini L A. Harnessing CRISPR-Cas9 immunity for genetic engineering. Current Opinion in Microbiology,2014,19:114-119.   
+[3] Wiedenheft B, Sternberg S H, Doudna JA. RNA-guided genetic silencing systems in bacteria and archaea. Nature,2012,482(7385):331-338.   
+[4] Shmakov S,Smargon A,Scott D,et al. Diversity and evolution of class 2 CRISPR-Cas systems.Nature Reviews Microbiology,2017,15(3): 169-182.   
+[5] Perez-Pinera P,Kocak D D,Vockley C M,et al.RNA-guided gene activation by CRISPR-Cas9-based transcription factors. Nature Methods,2013,10(10): 973-976.   
+[6] Qi L S,Larson M H,Gilbert L A，et al. Repurposing CRISPR as an RNA-guided platform for sequence-specific control of gene expression. Cell, 2013,152(5): 1173-1183.   
+[7] Maeder ML, Linder S J, Cascio V M, et al. CRISPR RNA-guided activation of endogenous human genes. Nature Methods,2013,10(10): 977-979.   
+[8] Gilbert L A,Larson M H, Morsut L, et al. CRISPR-mediated modular RNA-guided regulation of transcription in eukaryotes. Cell, 2013,154(2): 442-451.   
+[9] Sander JD,Joung JK.CRISPR-Cas systems for editing，regulating and targeting genomes. Nature Biotechnology,2014,32(4): 347-355.   
+[10] Chavez A,Scheiman J,Vora S,et al. Highly eficient Cas9-mediated transcriptional programming.Nature Methods,2015,12(4): 326-328.   
+[11] Ishino Y,Shinagawa H,Makino K,et al. Nucleotide sequence of the iap gene,responsible foralkaline phosphatase isozyme conversion in Escherichia coli,and identification of the gene product.Journal of Bacteriol0gy, 1987,169(12): 5429-5433.   
+[12] Mojica FJM,Diez-Vilasenor C,Soria E,et al. Biological significance of a familyof regularly spaced repeats in the genomes of Archaea, Bacteria and mitochondria.Molecular Microbiology,20oo,36(1): 244-246.   
+[13] Mojica F JM, Garcia-Martinez J, Soria E. Intervening sequences of regularly spaced prokaryotic repeats derive from foreign genetic elements.Journal of Molecular Evolution,20o5, 60(2): 174-182.   
+[14] Pourcel C,Salvignol G, Vergnaud G. CRISPR elements in Yersinia pestis acquire new repeats by preferential uptake of bacteriophage DNA,and provideadditional tools for evolutionary studies.Microbiology,20o5,151(3): 653-663.   
+[15] Bolotin A, Quinquis B, Sorokin A,et al. Clustered regularly interspaced short palindrome repeats (CRISPRs) have spacers of extrachromosomal origin. Microbiology, 2005,151(8): 2551-2561.   
+[16] Makarova K S,Grishin N V, Shabalina S A,et al.A putative RNA-interference-based immune system in prokaryotes: computational analysis of the predicted enzymatic machinery, functional analogies with eukaryotic RNAi, and hypothetical mechanisms of action. Biology Direct, 2006,1(1): 7.   
+[17] Barrangou R, Fremaux C, Deveau H, et al. CRISPR provides acquired resistance against viruses in prokaryotes. Science, 2007, 315(5819): 1709-1712.   
+[18]Marrafini L A, Sontheimer E J. CRISPR interference limits horizontal gene transfer in staphylococci by targeting DNA. Science,2008,322(5909): 1843-1845.   
+[19] Brouns S J J, Jore M M, Lundgren M, et al. Small CRISPR RNAs guide antiviral defense in prokaryotes. Science,2008,321(5891): 960-964.   
+[20] Lander E S. The heroes of CRISPR. Cell,2016,164(1): 18-28.   
+[21] Makarova K S, Haft D H, Barrangou R,et al. Evolution and clasification of the CRISPR-Cas systems. Nature Reviews Microbiology,2011, 9(6): 467-477.   
+[22] Deltcheva E, Chylinski K, Sharma C M,et al. CRISPR RNA maturation by trans-encoded small RNA and host factor RNase III. Nature,2011, 471(7340): 602-607.   
+[23] Wang J,Li J, Zhao H,et al. Structural and mechanistic basis of PAM-dependent spacer acquisition in CRISPR-Cas systems. Cell,2015,163(4): 840-853.   
+[24] Gasiunas G, Barrangou R,Horvath P, et al. Cas9-crRNA ribonucleoprotein complex mediates specific DNA cleavage for adaptive immunity in bacteria. Proceedings of the National Academy of Sciences,20l2,109(39): E2579-E2586.   
+[25] Jinek M, Chylinski K, Fonfara I, et al. A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity. Science,2012, 337(6096): 816-821.   
+[26] Shuman S,Glickman M S.Bacterial DNA repair by non-homologous end joining. Nature Reviews Microbiology,2007,5(11): 852-861.   
+[27] Cui L, Bikard D. Consequences of Cas9 cleavage in the chromosome of Escherichia coli. Nucleic Acids Research,2016, 44(9): 4243-4251.   
+[28] Li D, Qiu Z, Shao Y,et al. Heritable gene targeting in the mouse and rat using a CRISPR-Cas system. Nature Biotechnology,2013,31(8): 681-683.   
+[29] Cong L,Ran FA, Cox D, et al. Multiplex genome engineering using CRISPR/Cas systems. Science, 2013, 339(6121): 819-823.   
+[30] DiCarlo JE,Norvill JE, Mali P, et al. Genome enginering in Saccharomyces cerevisiae using CRISPR-Cas systems. Nucleic Acids Research,2013,41(7): 4336-4343.   
+[31] Li W, Teng F,LiT, et al.Simultaneous generation and germline transmission of multiple gene mutations in rat using CRISPR-Cas systems. Nature Biotechnology,2013,31(8): 684-686.   
+[32] Gratz S J, Cummings A M, Nguyen JN,et al. Genome engineering of Drosophila with the CRISPR RNA-guided Cas9 nuclease. Genetics,2013,194(4): 1029-1035.   
+[33] Wang H, Yang H, Shivalila C S,et al. One-step generation of mice carying mutations in multiple genes by CRISPR/Cas-mediated genome engineering. Cell,2013,153(4): 910-918.   
+[34]Shalem O,Sanjana NE, Zhang F. High-throughput functional genomics using CRISPR-Cas9.Nature Reviews Genetics,2015,16(5): 299-311.   
+[35] Jiang W,Bikard D, Cox D, et al.RNA-guided editing of bacterial genomes using CRISPR-Cas systems. Nature B10technology,2013,31(3): 233-239.   
+[36] Yu C, Liu Y,Ma T,et al. Small molecules enhance CRISPR genome editing in pluripotent stem cells. Cel Stem Cell,2015,16(2): 142-147.   
+[37] Jo YI, Suresh B, Kim H, etal. CRISPR/Cas9 system as an innovative genetic engineering tool: Enhancements in sequence specificity and delivery methods. Biochimica et Biophysica Acta (BBA)-Reviews on Cancer, 2015, 1856(2): 234-243.   
+[38] Mali P,Esvelt K M, Church G M. Cas9 as a versatile tool for engineering biology. Nature Methods,2013, 10(10): 957-963.   
+[39] Cho S W, Kim S, Kim JM, et al. Targeted genome enginering in human cells with the Cas9 RNA-guided endonuclease. Nature Biotechnology,2013,31(3): 230-232.   
+[40]Joung J， Konermann S,Gootenberg J S,et al. Protocol: Genome-scale CRISPR-Cas9 Knockout and Transcriptional Activation Screening. bioRxiv, 2016: 059626.   
+[41] Wong A S L,Choi G C G, Cui C H, et al. Multiplexed barcoded CRISPR-Cas9 screening enabled by CombiGEM. Proceedings of the National Academy of Sciences, 2016,113(9): 2544-2549.   
+[42] Ding Q, Lee Y K, Schaefer E A K,et al.A TALEN genome-editing system for generating human stem cell-based disease models. Cell Stem Cell,2013,12(2): 238-251.   
+[43] Ai Q U, Chung JY,KimY H. Current and future delivery systems for engineered nucleases: ZFN,TALEN and RGEN. Journal of Controlled Release,2015,205: 120-127.   
+[44] Kim H, Kim J S.A guide to genome engineering with programmable nucleases. Nature Reviews Genetics, 2014,15(5): 321-334.   
+[45] Jinek M,East A, Cheng A,et al. RNA-programmed genome editing in human cels.Elife,2013,2: e00471.   
+[46] Mali P, Yang L,Esvelt K M,et al. RNA-guided human genome engineering via Cas9. Science, 2013, 339(6121): 823-826.   
+[47] Paquet D,Kwart D,Chen A,et al. Efficient introduction of specific homozygous and heterozygous mutations using CRISPR/Cas9. Nature,2016, 533(7601): 125-129.   
+[48] Hammond A, Galizi R, Kyrou K,et al. A CRISPR-Cas9 gene drive system targeting female reproduction in the malaria mosquito vector Anopheles gambiae.Nature Biotechnology,2016,34(1): 78-83.   
+[49] Xu L，Yang H,Gao Y,et al. CRISPR/Cas9-Mediated CCR5 Ablation in Human Hematopoietic Stem/Progenitor Cells Confers HIV-1 Resistance In Vivo.Molecular Therapy,2017.   
+[50] Crook N C, Schmitz A C,Alper H S. Optimization of a yeast RNA interference system for controling gene expression and enabling rapid metabolic engineering. ACS Synthetic Biology,2013,3(5): 307-313.   
+[51] Hawkins JS,Wong S,Peters JM,et al. Targeted transcriptional repression in bacteriausing CRISPR interference (CRISPRi). CRISPR: Methods and Protocols,2015,1311: 349-362.   
+[52] Larson M H, Gilbert L A, Wang X,et al. CRISPR interference (CRISPRi) for sequence-specific control of gene expression. Nature Protocols,2013, 8(11): 2180-2196.   
+[53] Bikard D,Jiang W, Samai P,et al. Programmable repression and activation of bacterial gene expression using an engineered CRISPR-Cas system. Nucleic Acids Research, 2013, 41(15): 7429-7437.   
+[54]Juhas M,EberlL, Church G M.Essential genes as antimicrobialtargetsandcornerstones ofsynthetic biology. Trends in Biotechnology,2012,30(11): 601-607.   
+[55] Ji W,Lee D,Wong E,et al. Specific gene repression by CRISPRi system transferred through bacterial conjugation.ACS Synthetic Biology,2014,3(12): 929-931.   
+[56] Choudhary E,Thakur P,Pareek M, et al. Gene silencing by CRISPR interference in mycobacteria. Nature Communications, 2015,6: 6267.   
+[57] Cobb R E,Wang Y, Zhao H. High-effciency multiplex genome editing of Streptomyces species using an engineered CRISPR/Cas system.ACS Synthetic Biology,2014,4(6): 723-728.   
+[58] Mimee M,Tucker A C,Voigt C A,et al. Programming a human commensal bacterium,Bacteroides thetaiotaomicron,to sense and respond to stimuli in the murine gut microbiota.Cel Systems,2015,1(1): 62-71.   
+[59] Konermann S,Brigham MD,Trevino AE,etal. Genome-scale transcriptional activation byan engineered CRISPR-Cas9 complex. Nature,2015,517(7536): 583-588.   
+[60] Farzadfard F,Perli S D,Lu T K. Tunableand multifunctional eukaryotic transcription factors based on CRISPR/Cas.ACS Synthetic Biology,2013,2(10): 604-613.   
+[61] Dominguez A A,Lim W A, Qi L S. Beyond editing: repurposing CRISPR-Cas9 for precision genome regulation and interrogation. Nature Reviews Molecular Cell Biology,2016,17(1): 5-15.   
+[62] Pattanayak V,Lin S,Guilinger JP,et al.High-throughput profilingof of-target DNA cleavage reveals RNA-programmed Cas9 nuclease specificity. Nature Biotechnology,2013,31(9): 839-843.   
+[63] Jackson R N, Golden S M,van Erp PB G, et al. Crystal structure ofthe CRISPR RNA-guided surveillance complex from Escherichia coli. Science,2014,345(6203):1473-1479.   
+[64] Doench JG,Fusi N, Sullender M,et al. Optimized sgRNA design to maximize activity and minimize off-target effects of CRISPR-Cas9.Nature Biotechnology,2016,34(2): 184-191.   
+[65]Tsai SQ,Wyvekens N,KhayterC,et al.Dimeric CRISPR RNA-guided FokI nucleases for highly specific genome editing. Nature Biotechnology,2014, 32(6): 569-576.   
+[66] Guilinger JP,Thompson DB,LiuD R.Fusion of catalyticaly inactive Cas9 to FokI nuclease improves the specificity of genome modification. Nature Biotechnology,2014,32(6): 577-582.   
+[67] Kleinstiver B P,Pattanayak V,Prew M S,et al. High-fidelity CRISPR-Cas9 nucleases with no detectable genome-wide off-target effects.Nature,2016, 529(7587): 490-495.   
+[68] Tycko J, Myer VE,Hsu PD.Methods for optimizing CRISPR-Cas9 genome editing specificity. Molecular Cell, 2016, 63(3): 355-370.   
+[69] Jiang F, Doudna JA. CRISPR-Cas9 Structures and Mechanisms. Annual Review of Biophysics,2017,46(1): 505-529.   
+[70] Jiang W,Marraffini LA. CRISPR-Cas: new tools for genetic manipulations from bacterial immunity systems. Annual Review of Microbiology,2015,69:209-228.

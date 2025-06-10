@@ -1,0 +1,152 @@
+临床研究
+
+# 界膜组织细菌16SrRNA和23SrRNA对假体周围感染的诊意义
+
+安森博，蔡碰德，汪龙，胡懿郃中南大学湘雅医院骨科,湖南 长沙 410008
+
+摘要：目的对界膜组织中细菌16SrRNA、23S rRNA进行PCR检测，分析比较两者单独以为及联合应用于假体周围感染诊断的效率。方法应用诊断标准对本机构67例髋关节翻修患者是否患有假体周围感染(PJI作出诊断;用PCR技术检测各界膜组织中细菌16S rRNA和23S rRNA基因片段的表达,同样对PJI作出诊断。分别将16S rRNA、23S rRNA、16S rRNA/23S rRNA（即16SrRNA或23SrRNA检测一项为阳性结果即可)以及16SrRNA $+ 2 3 \mathrm { S }$ rRNA4种策略的诊断结果与诊断标准的结果比较，分析4种策略的敏感性、特异性、阳性及阴性预测值、准确性的差异。结果应用16S rRNA/23S rRNA诊断的敏感性和阴性预测值均高于16SrRNA $. + 2 3 \mathrm { S }$ rRNA( $9 5 . 7 \%$ vs $5 2 . 2 \%$ $P { < } 0 . 0 1 ; 9 7 . 6 \%$ vs $7 9 . 6 \%$ ${ \cal P } { = } 0 . 0 1$ )。4种诊断策略的特异性、阳性预测值以及准确性无显著性差异,单独应用16S rRNA或23S rRNA的诊断效率相当。结论 单独应用16S rRNA或23S rRNA进行诊断的效率明显差异,16S rRNA/23S rRNA较 $1 6 \mathrm { S \ r R N A { + } } 2 3 \mathrm { S }$ rRNA更为敏感,且阴性结果可信度更高。
+
+关键词：界膜;16SrRNA;23SrRNA;假体周围感染;翻修
+
+# Value of detecting bacterial 16S and 23S rRNA in interface membrane in diagnosis of periprosthetic joint infection
+
+ANSenbo,CAIPengde,WANGLong,HU Yihe DepartmentofOrthopedics,Xiangya Hospital,Central South University,Hunan4looo8,China
+
+Abstract:ObjectiveToexplorethe valueof detecting bacterial16SrRNA with 23SrRNAinthediagnosisof periprostheticjoint infection(PJI). Methods A prospective study wasconducted among 67 patients with previous total hip arthroplasty (THA) undergoinga reoperation forinfection (23 patients)or asepticloosening (44 patients). Bacterial16SrRNAand23SrRNAin the interface membrane were detectedbyreal-time PCRandtheir valuein diagnosis ofPJI was assessd.ResultsThe16S rRNA and 23S rRNA showed no significant differencein their power in the diagnosisofPJI.Thedetectionof16SrRNA/23S rRNA showed a higher sensitivity and a greater negative predictive value in PJI diagnosis than the detection of 16S rRNA $+ 2 3 5$ rRNA $( 9 5 . 7 \%$ US $5 2 . 2 \%$ ， $P { < } 0 . 0 1 _ { \cdot }$ $9 7 . 6 \%$ US $7 9 . 6 \%$ ， $P { = } 0 . 0 1 \mathrm { \cdot }$ ). The specificity, positive predictive value,and accuracy of the 4 diagnostic strategies werenot significantly diferent.Conclusion The diagnostic power of 16S rRNA and 23S rRNA was similar in detecting PJI. Compared with the diagnostic strategy with 16S rRNA $+ 2 3 5$ rRNA, 16S rRNA/23S rRNA is more sensitive in detecting PJI.
+
+Key words: interface membrane; 16S rRNA; 23S rRNA; periprosthetic infection; revision
+
+假体周围感染(PJI)是关节置换术后常见的并发症[1,包括早期感染和迟发感染。其中，迟发型感染较早期感染临床症状不明显，一旦出现，往往需要进行复杂的二期翻修，因此早期准确的诊断对预防二次翻修显得极其重要[2-3]。在假体周围软组织或者抽取关节液进行多处取样及延时培养技术进行培养，所得出结果相对可靠。该检验的应用较为广泛，但是具有取材带主观性、培养步骤较为繁琐、极易受术前抗生素应用以及假体周围生物膜保护等因素影响[4-5]。目前在诊断PJI方面仍没有一项单独策略具有非常理想的敏感性和特异性。利用PCR技术检测细菌共有基因16SrRNA、23SrRNA保守区而诊断假体周围感染已有多量研究[7],但仍未有在同一样本中分别对16SrRNA、23SrRNA以及二者联合进行诊断效率差异的研究报道，本文将从此方面进行探讨。
+
+# 1材料和方法
+
+# 1.1试剂及设备
+
+RNA提取试剂Trizol Reagent,Invitrogen。异丙醇，氯仿，上海上海国药化学试剂有限公司。逆转录试剂盒,Promega。RT-PCR扩增试剂盒,包括LoadingBuffer,Taq酶， $\mathrm { M g C L } _ { 2 }$ ,dNTPMixture,上海博亚公司。
+
+移液器(德国Eppendorf),温度梯度PCR仪(美国ABI),高速冷冻离心机(德国Eppendorf)， $- 8 0 \mathrm { { ^ { \circ } C } }$ 立式超低温冰箱(美国Forma)，液氮罐(四川东亚仪器厂），平板摇床(NR-150，日本TAITEC)。
+
+# 1.2 方法
+
+1.2.1患者纳入标准及资料病例来源于我院2011年5月\~2014年11月行髋关节翻修术的患者。纳入研究的标准如下：(1)病史、体征和辅助检查结果提示为无菌性松动或假体周围感染者;(2)计划行翻修术前2周内未经肠道或静脉注射使用抗生素；(3)初次置换已超过12周；(4)术前已被告知且面同意本研究。筛选后纳入的病例共有67例，均为单侧髋关节翻修，其中男性33例，女性34例，年龄为22\~85岁，平均67.6岁，左侧35例，右侧32例。患者初次置换至翻修术的间隔为10\~190个月，平均43.6个月。
+
+1.2.2术前检查、术中及术后的处理患者入院完善检查，若髋部有窦道并可见渗出液，则取渗出液进行细菌培养 $+$ 药敏试验，若患髋局部肿胀、无液体渗出，试行关节穿刺术抽出关节内液体进行细菌培养，出现2次以上阳性结果提示细菌培养结果阳性。在翻修术中关节囊显露后，抽取关节液进行常规检查及细菌培养 $^ { \cdot + }$ 药敏试验，关节囊暴露后，使用脉冲装置彻底冲洗人工关节表面及关节腔，另取3处可疑感染组织送细菌培养，阳性结果均提示致病细菌感染。术中取出的界膜组织是一种滑膜样纤维结缔组织，通常位于假体和骨质(生物型假体)或骨水泥与骨质(水泥型假体)间，在翻修术中取出并清除界膜组织,在严格无菌操作下放入冻存管内并保存于液氮罐中备用[8-9]。需要指出的是,本机构在样本的获取及检验过程中采取一定措施，可使细菌培养阳性率明显提高(达 $70 \%$ )。严格无菌操作；术中取出可疑感染的界膜样本后立即放入无菌器皿，并用纱布覆盖。每个样本分为两份，分别放入含血清普通培养瓶及厌氧菌培养瓶中，平均培养5\~7d，如果培养为阴性但仍怀疑感染，可延长培养至14d,最后结合两次培养及其他检验结果得出诊断。
+
+1.2.3实时荧光定量PCR(Real-timePCR)检测细菌16SrRNA和23SrRNA保守基因的表达分批分别对取出的界膜组织进行Real-timePCR扩增，检测其细菌16SrRNA和23SrRNA的表达。Trizol法提取界膜组织的总RNA,通过NanoDrop2000软件检测其纯度及完整性，并测量浓度，结果表示每组RNA均具有较好的完整性、纯度以及较高的浓度。RNA定量 $0 . 5 ~ \mathrm { { n g } }$ 用于逆转录,将RNA逆转录为cDNA。设计、合成16SrRNA和23SrRNA上下游引物（引物分别为16Sforward、16Sreverse、23Sforward、23Sreverse)，并检测其特异性。将cDNA稀释10倍作为模板进行PCR扩增。分析样本的扩增曲线及溶解曲线，用 $2 ^ { - \triangle \triangle \mathrm { { c t } } }$ 法计算并比较16SrRNA和23SrRNA基因的表达水平，
+
+1.2.4计算各方法诊断效率PCR结果以能扩增出16SrRNA或23SrRNA产物为阳性，未扩增出为阴性。参考国外成熟的诊断假体周围感染的标准["]：(1)术前局部窦道产生且与关节囊互通；(2)术前取关节液或术中取界膜组织培养出致病菌；(3)翻修术前或术中发现脓性关节液;(4)抽取关节液检验两次以上，结果均可见白细胞 $> 1 7 0 0 / \mu \mathrm { L }$ 或者中性粒细胞 $> 6 5 \%$ 。符合以上4条标准中的一条即可诊断为PJI。
+
+根据同一组织样本PCR的结果是否与诊断标准的一致，分别计算4种策略的诊断效率(诊断效率的判定见下表1)。
+
+表1诊断效率的判定 Tab.1 Judgement of diagnostic power   
+
+<html><body><table><tr><td></td><td>Real-time PCR</td><td>Diagnostic criteria</td></tr><tr><td>Ture positive</td><td>(A)Positive(+)</td><td>Positive(+)</td></tr><tr><td>False positive</td><td>(B)Positive(+)</td><td>Negative(-)</td></tr><tr><td>True negative</td><td>(C)Negative(-)</td><td>Negative(-)</td></tr><tr><td>False negative</td><td>(D)Negative(-)</td><td>Positive(+)</td></tr></table></body></html>
+
+分别用A、B、C、D代表4种诊断结果。敏感性 $\mathrm { \dot { \Omega } = A / \Omega }$ 中 $\mathbf { A } { + } \mathbf { D } )$ ,代表发现阳性结果的能力；特异性 $\scriptstyle = \mathbf { C } / ( \mathbf { B } + \mathbf { C } )$ ，代表排除阳性结果的能力；阳性预测值=A/( $\mathbf { A + B }$ ，值越高说明阳性结果越可信；阴性预测值 $scriptstyle = \mathbf { C } / ( \mathbf { C } + \mathbf { D } )$ ，其值越高说明阴性结果越可信；准确性 $\varXi$ 1 $\mathrm { A } { + } \mathrm { C } { \mathrm { \Omega } }$ / $\mathbf { A } { + } \mathbf { B } { + } \mathbf { C } { + } \mathbf { D } ) ,$ 一，是对诊断效率的整体评价。
+
+1.2.5统计学方法应用SPSSversion19.0软件分析。对4种诊断方法，两两分别采用计数资料x检验（Fisher确切概率)进行比较，分别分析其诊断效率的差异。 $P <$ 0.05为具有统计学意义， $P { < } 0 . 0 1$ 为有非常显著性差异。
+
+# 2结果
+
+# 2.1病例资料及诊断结果
+
+根据上述诊断标准，67名患者中，44名被诊断为无菌性松动，其平均年龄67.4岁，男性21人，女性23人。初次置换术后至假体失败平均时间44.7个月。23名患者被诊断为假体周围感染，其平均年龄67.9岁，男性12人，女性11人。初次置换术后至假体失败平均时间37.6个月。感染病例中，可见窦道形成的有11例，术中见脓性关节液的19例，穿刺液检验结果阳性的6例，穿刺液或界膜组织细菌培养阳性8例。
+
+# 2.2PCR扩增结果
+
+溶解曲线均呈单峰，且出峰位置为先前PCR扩增所
+
+采用的退火温度，提示样品反应特异性较好。阳性结果为扩增曲线可见正常的基线期，对数期和平台期，否则为阴性结果。
+
+# 2.3不同诊断策略的诊断结果
+
+分别应16SrRNA、23SrRNA、16S/23SrRNA、 $1 6 \mathrm { S } +$ 23SrRNA诊断(结果中分别用16S、23S、16S/23S、 $1 6 \mathrm { S } +$ 23S表示），并与诊断标准对比，得到结果：
+
+16S：阳性结果20例，其中18例为真阳性，2例为假阳性；阴性结果47例，其中42例为真阴性，5例为假阴性。23S：阳性结果19例，其中16例为真阳性，3例为假阳性；阴性结果48例，其中41例为真阴性，7例为假阴性。16S/23S：阳性结果22例，其中14例为真阳性，8例为假阳性;阴性结果45例，其中36例为真阴性，9例为假阴性。 $1 6 \mathrm { S } + 2 3 \mathrm { S }$ ：阳性结果13例，其中12例为真阳性，1例假阳性；阴性结果54例，其中43例为真阴性，11例为假阴性。
+
+# 2.4不同诊断策略的效率
+
+分别对应用16S、23S、16S或23S、16S和23S诊断与诊断标准对比，得出各自各诊断效率的值(表2)。
+
+表2不同诊断策略的效率 Tab.2 Diagnostic power of different diagnostic strategies $( \% )$   
+
+<html><body><table><tr><td>Strategy</td><td></td><td>Sensitivity Specificity</td><td>Positive predictive value</td><td>Negative predictive value</td><td>Accuracry</td></tr><tr><td>16s</td><td>78.2</td><td>95.5</td><td>90.0</td><td>89.4</td><td>89.6</td></tr><tr><td>23s</td><td>69.6</td><td>93.2</td><td>84.2</td><td>85.4</td><td>85.1</td></tr><tr><td>16S/23S</td><td>95.7</td><td>91.0</td><td>84.6</td><td>97.6</td><td>92.5</td></tr><tr><td>16S+23S</td><td>52.2</td><td>97.7</td><td>92.3</td><td>79.6</td><td>82.1</td></tr></table></body></html>
+
+# 2.5不同诊断策略效率的比较
+
+分别对4种诊断策略的诊断效率进行两两比较，用卡方检验进行统计学分析( $\scriptstyle \sum ( 2 . 0 . 0 5$ 代表有统计学差异，$P { < } 0 . 0 1$ 代表显著性差异）。2.5.1敏感性比较依据诊断标准的阳性结果，对各诊断策略的敏感性进行两两比较的卡方检验(Fisher确切概率法)，例如下表3中16S和23S的敏感性比较。
+
+采用fisher确切概率法，计算得 $P { = } 0 . 5 0 { > } 0 . 0 5$ 。因此，认为16S和23S两种诊断策略敏感度无明显差异，4种诊断策略的敏感性两两比较结果如下表4。
+
+结果表示，16S/23S的敏感性高于 $1 6 \mathrm { S } + 2 3 \mathrm { S } ( 9 5 . 7 \%$ vS $5 2 . 2 \%$ $P { < } 0 . 0 1 \$ ),其余各组比较均无统计学差异。
+
+以下各组特异性、阳性预测值、阴性预测值、准确性的比较均采用相同的Fisher确切概率法。
+
+表316S与23S两种诊断策略敏感度的比较 Tab.3 Comparisonof diagnostic sensitivityof16S and23S rRNA   
+
+<html><body><table><tr><td></td><td>True positive</td><td>False positive</td><td>Sensitivity(%)</td></tr><tr><td>16S</td><td>18</td><td>5</td><td>78.2</td></tr><tr><td>23S</td><td>16</td><td>7</td><td>69.6</td></tr><tr><td>Sum</td><td>34</td><td>12</td><td>73.9</td></tr></table></body></html>
+
+表4不同诊断策略敏感性两两比较  
+
+<html><body><table><tr><td></td><td>16S</td><td>23S</td><td>16S/23S</td><td>16S+23S</td></tr><tr><td>16S</td><td></td><td>0.50</td><td>0.19</td><td>0.06</td></tr><tr><td>23S</td><td>0.50</td><td>-</td><td>0.05</td><td>0.22</td></tr><tr><td>16S/23S</td><td>0.19</td><td>0.05</td><td></td><td><0.01</td></tr><tr><td>16S+23S</td><td>0.06</td><td>0.22</td><td><0.01</td><td>-</td></tr></table></body></html>
+
+2.5.2特异性比较依据诊断标准的阴性结果，对各诊断策略的特异性进行两两比较的卡方检验(Fisher确切概率法),结果表示，4种不同诊断策略特异性均无差异。2.5.3阳性预测值比较依据各诊断策略阳性结果中，诊断标准阳性结果所占例数，对各诊断策略的阳性预测值进行两两比较的x检验(Fisher确切概率法)，结果表示，4种不同诊断策略阳性预测值均无显著性差异2.5.4阴性预测值比较依据各诊断策略阴性结果中，诊断标准阴性结果所占例数，对各诊断策略的阴性预测值进行两两比较的x检验(Fisher确切概率法)，如下表5。结果表示，16S/23S的阴性预测值高于 $1 6 \mathrm { S } + 2 3 \mathrm { S }$ （ $9 7 . 6 \%$ vs $7 9 . 6 \%$ $P { = } 0 . 0 1$ ).其余各组比较结果均无显著性差异。
+
+Tab.4Paired comparison of diagnostic sensitivity of the 4 diagnostic strategies $P$ value)   
+表5不同诊断策略阴性预测值的两两比较  
+Tab.5Paired comparison of the negative predictive value of the 4 diagnostic strategies ( $P$ value)   
+
+<html><body><table><tr><td></td><td>16S</td><td>23S</td><td>16S/23S</td><td>16S+23S</td></tr><tr><td>16S</td><td>-</td><td>0.56</td><td>0.21</td><td>0.18</td></tr><tr><td>23S</td><td>0.56</td><td>-</td><td>0.07</td><td>0.44</td></tr><tr><td>16S/23S</td><td>0.21</td><td>0.07</td><td></td><td><0.01</td></tr><tr><td>16S+23S</td><td>0.18</td><td>0.44</td><td><0.01</td><td></td></tr></table></body></html>
+
+2.5.5准确性比较依据各诊断策略正确诊断(真阳性及真阴性)的结果所占例数，对各诊断策略的准确性进行两两比较的 $\dot { \chi }$ 检验(Fisher确切概率法），结果表示，4种不同诊断策略准确性均无显著性差异。
+
+# 3讨论
+
+# 3.1假体周围感染的诊断
+
+随着人工关节的发展，关节外科医生需要越来越多的面对假体周围感染需二期翻修的挑战[11-12]。对关节置换术后假体周围感染早期、准确的诊断具有十分重要的意义。通过对感染关节内的滑液，关节囊及界膜组织进行研究发现，界膜组织具有更高的细菌承载量，可作为用于假体周围感染检测的理想样本[13]
+
+目前公认的PJI检验"金标准"是以假体关节液或组织能否培养出致病微生物作为鉴别假体无菌性松动与感染的依据，然而培养结果已被证明假阳性率及假阴性率均不低。导致培养结果假阴性的原因有：(1)假体周围形成一层生物膜，对细菌有“保护作用”，使培养假阴性率大为提高[14];(2)细菌具有长期存在于假体周围并保持静止状态的特性，这对常规的微生物学检测技术带来限制[15]；(3)某些细菌的培养需要复杂的培养环境，而常规培养技术往往不能得到阳性结果[16-17]；(4)术前抗生素的应用[18]。此外,细菌培养对条件有特定的要求,临床指导意义有限。因此，研究者致力于寻找一种更为高效的检测手段。本机构采取一定临床措施提高了细菌培养的准确性，但仍存在错误诊断的可能。因此本研究根据上述国外最新的较成熟的诊断标准(包括细菌培养)作为临床诊断，用于和PCR结果进行对比，尽可能减少实验研究的偏倚。
+
+# 3.2选择16SrRNA、23SrRNA的依据
+
+有研究应用聚合酶链式反应(PCR)技术检测细菌DNA特定片段的扩增来对假体周期感染而做出诊断[19-20]。该技术的敏感性高,但是在细菌死亡或者已被抗生素清除的条件下,实验结果常出现假阳性[21]。而后研究者利用PCR技术检测细菌mRNA[22],但其含量极少且容易分解，因此敏感性并不高[23]
+
+细菌中rRNA占到总RNA的 $8 5 \%$ ,并具有较高的稳定性，经过提取仍可保持较高的浓度，且仅在活体细胞中可被检测到，如细菌rRNA不能被检测出，则可作为感染已得到控制的依据[24]。本研究结果发现15例患者的细菌培养呈阴性，但根据16SrRNA、23SrRNA的检测结果及本研究制定的诊断标准均可判定为感染，这说明单独的常规细菌培养不能获得准确的阳性结果，并低估了PJI的发生率[25-26]
+
+本研究比较了应用PCR技术分别检测16SrRNA、23SrRNA的诊断效率差异，结果显示其诊断效率均无显著性差异。16SrRNA/23SrRNA与 $1 6 \mathrm { S \ r R N A { + } } 2 3 \mathrm { S }$ rRNA诊断策略相比，其敏感性、阴性预测值均较高。因此，在规范操作条件下，运用PCR技术同时检测16SrRNA/23SrRNA可以提高假体周围感染的诊断效率，有望在临床检验中得到应用。
+
+本研究存在不足之处，包括：(1)由于纳入标准的限制，研究的病例数较少，且样本仅为人工髋关节，还未包括人工膝关节、肩关节、肘关节等其他人工关节；可信度需要进一步提高；(2)研究的界膜组织样本需在翻修术中获取,对手术方式(一期翻修或二期翻修)的选择指导意义有限；(3)检测手段不能确定病原微生物的具体种类，有待于更加深入的进行研究。
+
+# 4结论
+
+应用PCR技术检测细菌16SrRNA与23SrRNA的表达用于髋关节置换术后感染的诊断，两者的诊断效率无差异。16SrRNA/23SrRNA与16SrRNA $+ 2 3 \mathrm { S }$ rRNA相比更敏感，阴性结果更可信。
+
+# 参考文献：
+
+[1]Gallo J,Luzna P,Holinka M,et al.Validity of the morawietz classification for evaluation of periprosthetic tissue[J].Acta Chir Orthop Traumatol Cech,2015,82(2):126-34.   
+[2]Krenn V,Kolbel B,Huber M,et al. Revision arthroplasty: Histopathological diagnostics in periprosthetic joint infections [J]. Orthopade,2015,44(5): 349-56.   
+[3]Kurtz S,Ong K,Lau E,et al.Projections of primary and revision hip and knee arthroplasty in the United States from 20o5 to 2030 [J].JBone Joint Surg Am,2007,89(4): 780-5.   
+[4] Nelson CL,Mclaren AC,Mclaren SG,et al. Is aseptic loosening truly aseptic [J].Clin Orthop Relat Res,2005(437): 25-30.   
+[5]Krenn V,Poremba C,Schneider J,et al.Histopathological differential diagnostics in context of joint implant allergic reactions [J]. Orthopade,2013,42(8): 614-21.   
+[6]Chimento GF,Finger S，Barrack RL.Gram stain detection of infection during revision arthroplasty[J].J Bone Joint Surg Br, 1996,78(5): 838-9.   
+[7］蔡碰德.界膜16SrRNA、23SrRNA及IL-6诊断假体周围感染的研究 [D].长沙:中南大学,2013.   
+[8]刘天盛,王宇强,王景贵,等.人工关节无菌性松动界膜中的溶骨因子 [J].中国组织工程研究与临床康复,2010,14(35):6496-9.   
+[9]马建兵,刘 淼,姚建锋,等.松动的人工髋关节界膜的研究[J].中国矫 形外科杂志,2009,17(6):424-7.   
+[10]Taki N,Tatro JM,Nalepka JL,etal.Polyethylene and Titanium particles induce osteolysis by similar,lymphocyte-independent, mechanisms[J].J Orthop Res,2005,23(2): 376-83.   
+[11]Hanssen AD, Osmon DR, Nelson CL.Prevention of deep periprosthetic joint Infection[J]. Instr Course Lect,1997,46(4): 555-67.   
+[12]Hanssen AD,Rand JA.Evaluation and treatment of infection at the site of a total hip or knee arthroplasty[J]. Instr Course Lect,1999, 48(7): 111-22.   
+[14]Muller M，Morawietz L，Hasart O,et al.Histopathological diagnosis of periprosthetic joint infection following total hip arthroplasty:use of a standardized classification system of the periprosthetic interface membrane [J].Orthopade,2009,38(11): 1087-96.   
+[15]Tunney MM,Dunne N,Einarsson G,et al.Biofilm formation by bacteria isolated from retrieved failed prosthetic hip implants in an in vitro model of hip arthroplasty antibiotic prophylaxis[J].JOrthop Res,2007,25(1): 2-10.   
+[16]Kaufman RL,Tong I,Beardmore TD,et al.Prosthetic synovitis: clinical and histologic characteristics[J].JRheumatol,1985,12(6): 1066-74.   
+[17]Bori G,Munoz-Mahamud E,Garcia S,et al.Interface membrane is the best sample for histological study to diagnose prosthetic joint infection[J]. Mod Pathol,2011,24(4): 579-84.   
+[18]Ghanem E,Antoci VJ,Pulido L,et al. The use of receiver operating characteristics analysis in determining erythreeyte sedimentation rate and C-reactive protein levels in diagnosing periprosthetie infection prior to revision total hip arthroplasty[J].Int J Infect Dis, 2009,13(6): 444-9.   
+[8］刘诚,张会英.人工髋关节细菌性感染假体松动与实验室数值的相关 性分析[J].中国误诊学杂志,2007,7(8):1740-1.   
+[20] Sell S,Schleh T.C-reactive protein as an early indicator of the formation of heterotopic ossifications after total hip replacement[J]. Arch Orthop Trauma Surg,1999,119(3/4):205-7.   
+[21]Greidanus NV,Masri BA,Garbuz DS,et al.Use of erythrocyte sedimentation rate and C-reactive protein level to diagnose infection before revision total knee arthroplasty.A prospective evaluation[J].JBone Joint Surg Am,2007,89(7):1409-16.   
+[22] Ghanem E,Antoci V,Pulido L,et al. The use of receiver operating characteristics analysis in determining erythrocyte sedimentation rate and C-reactive protein levels in diagnosing periprosthetic infection prior to revision total hip arthroplasty[J].IntJ Infect Dis, 2009,13(6): e444-9.   
+[23]Buttaro MA,Tanoira I,Comba F,et al. Combining C-reactive protein and interleukin-6 May be useful to detect periprosthetic hip infection[J]. Clin Orthop Relat Res,2010,468(12):3263-7.   
+[23]Tohtz SW,Muller M,MorawietzL,et al. Validity of frozen sections for analysis of periprosthetic loosening membranes[J]. Clin Orthop Relat Res,2010,468(14): 762-8.   
+[25]Panousis K,Grigoris P,Butcher I,et al.Poor predictive value of broad-range PCR for the detection of arthroplasty infection in 92 cases[J].Acta Orthop,2005,76(3): 341-6.   
+[26]Munoz-Mahamud E,Soriano A,Combalia A,et al.Comparison of bacterial results from conventional cultures of the periprosthetic membrane and the synovial or pseudocapsule during hip revision arthroplasty[J].Arch Orthop Trauma Surg,2014,134(4): 577-83.   
+[27]Bjerkan G,Witso E,Nor A,et al.A comprehensive microbiological evaluation of fifty-four patients undergoing revision surgery due to prosthetic joint loosening[J]. JMed Microbiol, 2012,61(4): 572-81. (编辑：孙昌朋)

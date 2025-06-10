@@ -1,0 +1,655 @@
+[
+    {
+        "type": "text",
+        "text": "New fossils of Bos primigenius (Artiodactyla, Mammalia) from Nihewan and Longhua of Hebei, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TONG Hao-Wen’ CHEN $\\mathrm { X i } ^ { 1 , 2 }$ （20 ZHANG Bei1,2 WANG Fa-Gang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofciences,InstituteofVertebrate Paleontology and Paleoanthropology,Chinese Academy ofSciences Beijing10oo44 tonghaowen@ivpp.ac.cn)   \n(2University of Chinese Academy of Sciences Beijing 100049)   \n(3Hebei Province Institute ofCultural Relics Shijiazhuang 050031) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractThe new fossils of Bos primigenius in this study came from two regions in Hebei Province: Nihewan Basin (one partial skull with right horn-core and one humerus)and Longhua County (one humerus,one tibia,2 calcanea and 3 astragali).The humerus from Nihewan has a total length of $4 5 7 . 3 ~ \\mathrm { m m }$ ,which almost represents the largest aurochs individual which has a twometer shoulder height.The biggest humerus and other big cranial specimens in northern China can be correlated with the European counterparts of late Middle Pleistocene,and they should be contemporary. The smallr sized limb-bones from Longhua were unearthed from loess deposits, which can be attributed to Late Pleistocene. The current knowledge shows that aurochs may have arrived in China earlier than Late Pleistocene, because its associated taxa,e.g. Canis lupus, Panthera tigris,Mammuthus primigenius,Equus caballus, Coelodonta antiquitatis, Sus scrofa, Camelus knoblochi, Cervus elaphus,Alces dlces and Bison priscus have appeared as early as late Middle Pleistocene or even earlier in Eastern Europe and Northern Eurasia. Furthermore, new numerical dating results show that the aurochs‘occurrences from some sites in China can be traced back to Middle Pleistocene.This study proposes that the larger sized aurochs should be of a late Middle Pleistocene age. In China, aurochs fossils mainly occur in the northern part and the transitional zone along the Huaihe River,but are absent in southern China and Southeast Asia, which resulted in the hypothesis of \"Central Asian Corridor” through which aurochs reached China.In recent years,it is proposed that the earliest ancestor of $B$ primigenius is Pelorovis turkanensis,and the genus Bos appeared in Eurasia at the beginning of the Middle Pleistocene. The present authors think that the African Pelorovis species are too different from the Bos lineage in morphology; on the contrary, the early Bos species from Siwalik in South Asia resembles B. primigenius very much.In China,most of the $B$ primigenius fossils were recovered from fluviolacustrine deposits,whereas few of them were from loess deposit, which means that the aurochs fossils could be employed as an indicator of warm climate and wet environment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsNihewan and Longhua, Hebei, China; Middle-Late Pleistocene; Bos primigenius; horn-core,limb-bones ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The genus Bos is characterized by a robust postcranial skeleton and a highly derived cranial morphology. It is not difficult to distinguish Bos from other allies within the tribe Bovini by the following characteristics: robust skull with elongated and hollowed frontals; there is no preorbital fossa; the premaxilla has a short contact with the nasal bone; the horncores are large,posterolaterally inserted and dorsoventrally compressed, with an oval crosssection, going a litte backward, outward, forward and slightly upward. Bos is a common member of the Eurasian Middle Pleistocene to Holocene faunas,mainly occurred in the Pelearctic Region, but its origin and evolutionary trends are not clear yet. The Asian origin hypothesis (Pilgrim,1947; Groves,1981; van Vuure, 2005) and African origin hypothesis (Martinez-Navarro et al., 2007,2010, 2011, 2014) are still under debates. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Among the extinct species of the genus Bos,only aurochs (B.primigenius） was recognized in China, and it used to be regarded as an index fossil (Chow, 1953; Pei et al., 1958) or common fossil of Late Pleistocene in North China (Qiu, 2006). But the recent dating result shows that some of the aurochs fossil bearing sites can be traced back to the late part of Middle Pleistocene,such as Dingcun Loc.100 (Wu and Liu, 2002), Xujiayao (Tu et al., 2015) and Salawusu ( $\\left( = \\right.$ Sjara-osso-gol) (Li et al., 20o1), which means the geologic occurrence of $B$ primigenius in China should be reconsidered. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently, two specimens of B. primigenius were recovered in the Nihewan Basin (Fig. 1), a partial cranium with horn-core resulted from excavation at Heyaozhuang Site and a humerus collected by the local people in Yangyuan County. Although the two specimens were from areas still undergoing debates in strata dividing in Nihewan Basin, the preliminary field investigation shows that they did not come from the Early Pleistocene Nihewan Beds, instead, they probably came from younger geological settings. The newly recovered specimens are prominently larger than the usual aurochs specimens,and they are crucial for the study of the evolution of the Bos lineage in China. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b860d202222e17f5374e3f931340e21f0ba7a2f0bed943a8ba3e68366155bc8a.jpg",
+        "img_caption": [
+            "Fig.1Sketch map showing the reported fossil localities of Bos primigenius in China 1. Salawusu ( $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ Sjara-osso-gol); 2.Guxiangtun( $\\mathbf { \\bar { \\Psi } } = \\mathbf { \\bar { \\Psi } }$ Kuhsiangtung); 3.Longhua; 4.Datong; 5.Dingcun; 6. Zhuwo; 7. Liulinguan; 8. Qingyang; 9. Wangqing; 10. Xingtai; 11. Xujiayao $\\fallingdotseq$ Hsuchiayao)-Houjiayao; 12. Dingjiabu; 13.Loufangzi; 14. Wujiacun; 15.Aba; 16. Rouyuan; 17. Suxian; 18. Mengcheng; 19. Baiyin; 20.Lingjing; 21. Qian'an (Jilin); 22. Shijiazhuang; 23.Baotou; 24. Shangshazui; 25.Heyaozhuang; 26.Qian'an (Hebei); 27.Leilongwan; 28.Zhaoxian "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Fossil materials ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "New fossils1） Heyaozhuang Site: right horn-core with partial frontal bone (2013HYZ:42); 2) Shangshazui Site: left humerus (IVPP V 23311); 3) Longhua County: left humerus (V 23312.1),left Mc III+IV (V 23312.2),left tibia (V 23312.3),one right and one eft (partial) calcaneum (V 23312.4,7), two right and one left astragalus (V 23312.5,6,8),left malleolus (V 23312.9). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The horm-core was unearthed at Heyaozhuang in 2013 by HPICR; the humerus specimen was recovered at Shangshazui in 2Ol2 by the local people. The Late Pleistocene fosils were unearthed from the loess at a brickyard near the Longhua Town in 2O05 by Tong H W and Li Q J. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Restudied fossils of Bos primigenius from northern China Specimen IVPP V 803 is a partial skull with two horn-cores from Zhuwo of Xishan in Beijing, it was simply described and measured but without image in Hu's report of 1956. Specimen A is a horn-core from XujiayaoHoujiayao Site, it was only mentioned in the fossil checklist (Chia et al.,1979), but not studied yet. The specimen is exhibited in the Site Museum of Nihewan, but without a catalog number. Specimen B is a partial skull with two broken horn-cores from Holocene deposits at Dingjiabu Reservoir in Nihewan Basin, and it was simply described and measured by Jia and Wei (1980). The specimen is exhibited in the Site Museum of Nihewan, but without a catalog number. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Terminology and measurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The osteological terms (Fig. 2) were adopted from Barone (1976), Gentry (1992) and Gee (1993). The post-cranial bones were identified with the method proposed by Sala (1986). The specimens were measured according to the methods used by Gromova (1931) and Martin (1990) (Fig.3). The measurements were taken with sliding calipers and tapeline in millimeters. The classification system is after Grubb (2005). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Osteological terms are illustrated in Fig.2.Additional synonyms are listed as follows: Greater tuberosity $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Lateral tuberosity;Greater tuberosity (cranial) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ summit of greater tuberosity;Greater tuberosity (caudal) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ convexity of greater tuberosity; Infraspinatus facet $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ middle facet of greater tuberosity $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ infraspinous insertion;Lesser tuberosity $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ medial tuberosity. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AbbreviationsHolo,Holocene;HPICR,Hebei Province Institute of Cultural Relics; IVPP, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences; L,Late; M,Middle; OV,Prefix to the catalogue numbers of extant specimens in IVPP; Plei,Pleistocene; T,Fluvial terrace; V,Prefix in catalog numbers for vertebrate fossils in IVPP. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/13e1f5318e9b31d2551b81d9968033da0d0faf8de19d8ce76af1360d1429c753.jpg",
+        "img_caption": [
+            "Fig. 2 Osteological terms about humerus of Bos taurus, IVPP OV 1279 A.lateral view;B.caudal view; C.cranial view; D.proximal view;E.distal view "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/808299c4439ba884cea51386f542ffa708c3833c9a4e8e09a4adb2a07d77fee0.jpg",
+        "img_caption": [
+            "Fig.3Methods of measurements on the horn-core and humerus The numbers identify measurements described in Tables SO1 and S03 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Systematic paleontology ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Classification ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ClassMammaliaLinnaeus,1758 OrderArtiodactyla Owen,1848 Suborder Ruminantia Scopoli, 1777 SuperfamilyBovoidea Gray,1821 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FamilyBovidaeGray,1821 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SubfamilyBovinae Gray,1821 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tribe Bovini Gray, 1821 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GenusBosLinnaeus,1758 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Diagnostic characters (osteological) (emended from Lydekker,1878; Pilgrim, 1939; 1947; Groves,1981） Frontal region flat or concave; frontal much elongated; facial part relatively short,and bent down on basicranial axis at an angle of about $2 0 ^ { \\circ }$ .The parietal has been shifted into almost the same plane as the occipital which forms an acute angle with the plane of the frontals.The horns have increased considerably in size,and are shifted to the extreme hinder end of the frontal,and are close to the occipital crest; they situated far apart and diverge at an angle of as much as $1 8 0 ^ { \\circ }$ ； they usually have an outward and forward curvature at first, after which they bend somewhat upwards and inwards,often slightly twisted anticlock-wise; cross-section either compressed or circular or pear shaped. The lachrymal fossa has vanished,but there is an ethmoidal fissure,and the premaxille just reach the nasals. The posterior openings of the temporal fossae are narrow and are separated by a considerable interval. The basioccipital is triangular with large tuberosities,of which the posterior pair is much expanded transversely. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bos primigenius Bojanus,1827 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1898Bos taurusprimigenius (Bojanus,1827),Lydekker,p.10-14   \n1953 Bos primigenius primigenius (Bojanus, 1827), Chow, p.187-191   \n2005 Bos taurus primigenius (Bojanus,1827),Grubb,p. 692-693   \n2008 Bos primigenius primigenius (Bojanus,1827),Tikhonov, p.   \nFor more synonyms see Lydekker,1898:10-11 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Osteological characters (Lydekker, 1878:16-17; 1898:13;Reynolds, 1939:11; van Vuure,2005:131） The robust and long horn-cores postero-laterally inserted with slight twist and close to the occipital crest: usually have an outward and forward curvature at first, then somewhat upwards and inwards,with an oval cross section, lacking keels. The angle between horn-core and frontal surface occurs mainly between $5 0 ^ { \\circ }$ and $6 0 ^ { \\circ }$ ，which is lesser than in Bos namadicus.The horns of bulls are larger, with the curvature more strongly expressed than in cows.The intercornual space is straight rather than arcuated as in $B$ 、namadicus.The elongated and flattened or concave frontals exceed the facial portion of the skullin length. The temporal fossae do not intrude on to the occiput.Premaxillae contact the nasals posteriorly. The orbits are prominent but not forwardly-directed as in $B$ taurus. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Descriptions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Partial cranium with horn-coresThe cranial fossil has partial frontal and partial parietal bones as well as the whole right horn-core preserved (2013HYZ:42) (Fig. 4A1-A4). The frontal is very flat. The parietal has merged with the occipital bones and completely excluded from the cranial roof. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The horn-cores are laterally, then anteriorly and upwardly extended, the distal part is slightly twisted.The surface of the horn-core is rough.The whole horn-core is very stout (Table S01,S02). The cross-section at the distal part is nearly circular, but at the middle portion, it is dorso-ventrally compressed.The horn-core has no well defined pedicle.In lateral view, the horn-core and the frontal surface form an angle of $6 4 ^ { \\circ }$ (Fig.4A2),which is larger than in the Zhuwo specimen (Fig. 4B2) and Dingjiabu specimen (Fig. 4D2),but smaller than that of the Xujiayao-Houjiayao specimen (Fig. 4C2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "HumerusThere are two left humeri, one of which is nearly complete (IVPP V 23311) (Fig. 5A1-A4; Table S03) except for slight breakage,and the other is perfectly preserved (V 23312.1) (Fig. 5B1-B6; Table SO3). In general, it is extraordinarily stout and much stronger than that of Bison palaeosinensis from the Early Pleistocene Nihewan Beds (Tong et al.,2016). In proximal view, the greater tuberosity is very robust,and it occurs at the anterolateral part of the proximal end; but the lesser tuberosity is less developed.The bicipital groove between the greater and lesser tuberosities is very deep.The head is occurred at the posteromedial aspect of the proximal end; at the anterior border of the articular surface, there is a small notch which connects with the fossa that surrounds the head. The deltoid tuberosity on the lateral side is very developed.The teres major tuberosity on the opposite side of the deltoid tuberosity is faint on V 23312.1 but uncertain on $\\mathrm { ~ V ~ } 2 3 3 1 1$ because of breakage. On the cranial side of the distal end,the coronoid fossa is shallow.At the lateral one third part of the trochlear surface, there exists a sagital ridge,to its medial side,is the trochlea (or medial condyle),to its lateral Iside,is the capitulum (or lateral condyle).The articular surface of the capitulum part forms a small upwardly extended vertical facet. The lowest part of the distal articular surface occurs at the medial side of the sagittal ridge. In posterior view, the greater tuberosity is highly protruded above the level of the head. The medial side of the shaft is almost vertical while the lateral side is concave. The olecranon fossa is very deep and expanded downward, which is narrower and higher than in Bison species. The medial and lateral epicondyles are very robust, and they are nearly equally developed; but in Bison species, the medial epicondyle extends more downward and stouter than the lateral one.In medial view, the distal extremity of the medial epicondyle stays at the same level as the trochlea does. When viewed laterally, the majority part of the head is hidden behind the greater tuberosity,and there exists a big notch under the head and the head protrudes posteriorly; at the distal end, the lateral epicondyle stops at a higher position than the inferior border of the capitulum. The fossa for muscle attachment on the lateral condyle is smaller and shallow, but in Bison, this fossa is usually deep and large as well as roundish. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/937fefa64f7b393c51edf2c9d54f88e85ce48e5d703234297a3273f4d6a97218.jpg",
+        "img_caption": [
+            "Fig.4 Partial skulls with horn-cores of Bos primigenius from Nihewan Basin and Beijing area A.2013HYZ:42,partial cranium with right horn-core from Heyaozhuang; B.IVPP V803,partial cranium with two horn-cores,left one was restored, from Zhuwo near Beijing; C.specimen A,partial cranium with left horncore from Xujiayao-Houjiayao; D.specimen B,a partial skul with two broken horn-cores from Dingjiabu. A1, Bl and C1,dorsal views; A2 and C2,medial views; B2 and D2,lateral views; A3,C3 and D3,occipital views;A4,cross section; D1,parietal view "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Mc $\\mathbf { I I I + I V }$ The Mc II+IV (V 23312.2) is quite big,with long shaft and expanded extremities (Fig. 6A1-A2; Table SO4). In proximal view, there are two large articular facets. The larger facet or magnum trapezoid facet is obviously large, which is articulated with the fused second and third carpals.The smaller facet or unciform facet is triangular and is the articular surface for the fourth carpal. Between the two facets, there exists a narrow groove, the nutrient foramen in the groove is obvious; in Bison the same groove is broader. The posterior medial tubercle is moderately developed. In anterior view, the vascular groove (or metacarpal gully)extends below the nutrient foramen near the distal end; the distal extremity looks much more expanded than in Bison.In posterior view,a deep groove can be observed between the two proximal facets. The proximal portion of the shaft has a shallow medial longitudinal depression,which does not extend so downward than in Bison which results in a more flat posterior surface than in Bison.A big nutrient foramen exists near the distal articular surface. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Tibia The tibia has a massive and nearly straight shaft, and with the proximal end much wider than the distal end (Fig. 6B1-B5; Table S05).The vestigial fibula was detached. On the proximal end, the proximal articular surface is composed of two parts: the medial condyle and the lateral condyle,and the medial one is much larger; the medial side of the intercondylar eminence is slightly higher than the lateral one. On the cranial-lateral side between the tibial tuberosity and the lateral condyle, there exists an indentation or notch called the extensor (or muscular) sulcus. On the cranial side of the proximal end there is a tendon attachment called the tibial tuberosity, below which on the cranial side there is a ridge that runs downward nearly half the shaft called the tibial crest. The sloping surface of the tibial tuberosity is rough. The caudal aspect of the shaft is nearly flat except for some longitudinal muscle scars which are more prominent and have much higher origin positions than in Bison species; the posterolateral nutrient foramen is quite pronounced and opens upward; at the lateral edge of the middle shaft, there is a longitudinal groove,which is absent in Bison species. On the distal end, the two articular grooves are parallel, while the medial groove is narrower but longer and the lateral groove is much wider, which has a gradually changed lateral boundary rather than a boundary constricting sharply anteriorly as in Bison species; between the two grooves, there exists a sagittal ridge,and on the anterior end of the ridge,there is a blunt project which corresponds to the tibial trochlea of the astragalus and is less beak-like as in Bison species.At the lateral part, there is a small articular surface articulating with the lateral malleolus (or the distal fibula), which has a shorther antero-posterior but larger transverse dimensions and does not extend to the latero-anterior corner as in Bison species. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/192bf98adc09fb326be4a6cab194763856d0b9229ad645ada41b70c0698723f0.jpg",
+        "img_caption": [
+            "Fig. 5Left humeri of Bos primigenius from Shangshazui in Nihewan Basin (A) and Longhua County (B) A. IVPP V 23311; B. V 23312.1.A1, B1. cranial views;A2, B2.caudal views; A3, B5. proximal views; A4,B6.distal views; B3.lateral view;B4. medial view "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bb0f4d4cecffbf2fa0ffb9039a78d432e8ba7e87acb0ff34ed8c3f4e396c5ea.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 Limb bones of Bos primigenius tromLonghua   \nA. IVPPV23312.2,leftMc II+IV; B.V23312.3,left tibia; C.V23312.9,left lateral malleolus; D.V23312.4,   \nright calcaneum; E.V23312.5,right astragalus.A1,B1,D1,E1.cranial views; B2,C2,D4,E3.lateralviews; A2,B3,D3,E2.caudal views; B4, C1,D2,E4.medial views;B5.distal view. Scale bars $: = 5 \\mathrm { \\ c m }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Calcaneum The calcaneal tuberosity (or tuber calcis) is long and robust (Fig. 6D1-D4; Table SO6).In distal view, the outline of the distal region is oval-shaped.In anterior view, the tuber calcis is rounded at the tip,but mediolaterally compressed at the shaft; at the upper part of the anterior process there is a trochlear facet, which articulates with the lateral malleolus; the articular surface for astragalus (tibial tarsal) has roundish edges except for the posterior and medial ones; the medial wall of the sustentaculum is nearly vertical rather than inclined as in Bison.In medial view,there is no connecting articular surface between the malleolus facet of the anterior process and the astragalar facet; the anterior process is pointed and projects distally (downward); the situation of the astragalar facet is uncertain because of the poor preservation; the supero-posterior margin of sustentaculum forms a right angle rather than roundish as in Bison.In posterior view, the situation of the posterior aspect is unclear because of breakage; the sustentaculum is moderately projected medially and with a straight rather than sloped superior border as in Bison species; the naviculo-cuboid facet is narrow and steeply sloped. In lateral view, the distal end is tapered; the proximal part of the lateral malleolus facet protrudes pronouncedly and has a semi-circular outline.In distal view, the naviculo-cuboid (central and fourth tarsals) articular facet is narrow, bended and is also sloped anteroposteriorly. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Astragalus Three astragali (V 23312.5,V 23312.6 and V 23312.8) (Fig. 6E1-E4; Table S07) can be referred to the species B. primigenius. In anterior view, there are two proximal trochlear ridges (or condyles), which are parallel to each other and to the sagittal plane, while the/lateral ridge is slightly higher; between the two proximal trochlear ridges,there exists a deep saddle-like median groove; the lateral and medial borders of the trochlear condyles are straight. At the distal part, the distal border of the distal articular surface is roundly convex; between the medial and lateral trochlear condyles, there is a broad shallow groove; the medial tubercle is below the line drawn across the proximal margin of the distal trochlea rather than above the line as in Bison species. In posterior view, the posterior articular surface for calcaneum is flat but with a subtle sagittal convex, and the superior border of which is tonguelike and its tip reaches the rear surface of the lateral condyle; to the medial side of which there is a wide space, the lateral edge is nearly straight but laterally inclines at the upper part; the medial bottom extends further downwards and is confluent with the distal trochlear surface. The lateral face is trench-like and with anterior and posterior rims and a flat bottom; three facets can be recognized: the one at the posterior rim and at the bottom are for calcaneum and the later is oval-shaped and covers the distal surface completely rather than like a small rounded pad as in Bison palaeosinensis; the one at the anterior rim is for lateral malleolus. It seems that the astragalus of $B$ :primigenius has larger breadth/length ratio than the Bison species (Table S07). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Lateral malleolusIn proximal view, the articular facet for the tibia can be divided into two parts by a sharp conical projection which is less sharp as in Bison species.In distal view, the articular facet for calcaneum is concave and broad.In lateral view (Fig. 6C2),the outline is crown-like,and the surface is rugose. In medial view (Fig. 6C1), the facet for astragalus is much broader than in Bison species.The greatest depth (anteroposterior dimension) is $5 6 . 7 \\mathrm { m m }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4 Comparison and discussion ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1On classification of Bovini and taxonomic assignment of the studied fossils ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The definition of the genus Bos confronted serious challenges in the past decades, especially from the molecular evidences. Some scientists expand it through removing the extant species used to be under the genus Bison into the genus Bos and treated Bibos,Bison and Poéphagus as subgenera of the genus Bos (Groves,1981); furthermore, some researchers included the extinct genera Leptobos,Epileptobos and Pelorovis into the genus Bos (Brugal, 1985; Moya-Sola,1987; Hassanin, 2014). Hassanin (2014) intended to combine Leptobos, Epileptobos and Pelorovis into the genus Bos,which makes the taxonomic and evolutionary situations of the genus Bos more complicated. He also put the origin of $B$ primigenius at ca.3.5 Ma (Hassanin, 2014: fig. 1.4), but without pointing out its direct ancestor. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, some other authors intended to diminish the genus Bos through removing some extant species out of it and resurrected the genus Bibos (Sokolov, 1953; Hooijer, 1958; Geraads,1992). It seems that currently the generic name Bos is nearly becoming a wastebasket. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Moreover, the traditional classification of the tribe Bovini is clear enough to distinguish the genus Bos from Bison and Bubalus in cranial and horn-core morphological characters, even Bos and Bison show important differences in the anatomy of the skull and postcranials; meanwhile,their hybridization is possible (Polziehn et al.,1995),which makes the phylogenetic relationship between Bos and Bison quite confused. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Actually, even in the molecular world, there still exist disagreements about the phylogeny of the tribe Bovini. Based on the mitochondrial cytochrome b gene, Bos and Bison were grouped together, but they were separated from other Asian and African buffaloes such as Bubalus and Syncerus (Hassanin and Douzery, 1999). The phylogeny of bovine species based on amplified fragment length polymorphisms (AFPL) (Buntjer et al., 2002) also shows a tree in which Bison and yak species (Bison bison, Bison bonasus and Poephagus) and oxen (Bos taurus, Bos indicus and Bos gaurus) are grouped separately, and are also independent of Bubalus and Syncerus clade. Hb: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "At the specific and subspecific levels, the dispute lies at whether “primigenius” should be treated as a specific or subspecific name; furthermore,under which species if it is treated as a subspecies. Quite a number of authors treated “primigenius” as a subspecies of \"Bos taurus\" (Grubb,2005),which was proposed as early as $1 9 ^ { \\mathrm { t h } }$ century (Lydekker, 1898). Otherwise, “primigenius” was used as both specific and subspecific names by other authors (Tikhonov, 2008),and currently the species $B$ . primigenius Bojanus,1827 includes the following subspecies: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Wild tBos primigenius primigenius (Bojanus, 1827), tBos primigenius namadicus (Falconer,1859) and tBos primigenius africanus (Thomas,1881) (t: extinct species). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Domestic Bos primigenius taurus (Linnaeus,1758),Bos primigenius indicus (Linnaeus, 1758). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "According to the morphology and dimensions,all the new fossil specimens in this study can be included in the species Bos primigenius,which is much larger than the ancestral species as $B$ . acutifrons and $B$ .namadicus from South Asia (Table S02). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The horn-core of this study is the stoutest ever recovered in Nihewan Basin, and is more curved than the Xujiayao and Dingjiabu (Holocene) specimens. The basal circumference and the largest diameter of the horn-core from Xujiayao are 254 and $8 2 ~ \\mathrm { m m }$ respectively. Concerning the humerus,a couple of scholars tried to distinguish the postcranial bones between Bos and Bison (Gee,1993), but the result is not so convincing as we expect. The recently discovered fossils are among the largest ones ever referred to the species $B$ primigenius, especially the humerus, which is the largest ever reported in China. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The cranial fossils referred to $B$ . primigenius in China are very unique in morphology except those from Aba (Zong,1984),which has an arcuated intercornual space rather than straight, and the Mc $\\mathrm { I I I { + } I V }$ is stouter and shorter(Table SO4),all of which indicates a closer relationship with Bos mutus.Studies showed that $B$ .mutus has the stoutest metapodials (wide but short) (Kovarovic and Scot, 2O14) and largest body size among the extant species of the genus Bos (Leslie and Schaller, 2009). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2/Geologic age estimation ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "B. primigenius fossls in China used to be employed as index fossil of Late Pleistocene age (Chow, 1953), but the recent discoveries in Europe and Africa show that this species originated much earlier than previously thought. The oldest record of $B$ primigenius in Eurasia is at Venosa-Notarchirico, Italy (O.5-0.6 Ma) (Martinez-Navarro et al., 2010). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The current knowledge shows that the earliest occurrence of $B$ primigenius in Nihewan Basin is from the Xujiayao human site whose geologic age is around $0 . 2 \\mathrm { M a }$ (Tu et al., 2015). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The bigger humerus (V 23311) in this study was very probably from the Shangshazui Site (IVPP site No. 72120) whose geologic age is stillunder serious debate. Furthermore, the chronological relationships among the palaeolithic tools and the fossils of Palaeoloxodon as well as $B$ primigenius are also controversial. The earliest report (Wei, 1976) said that the Palaeoloxodon fossils coexisted with the palaeolithic tool in the same horizon,and the fossil bearing strata should be of an Early Pleistocene age. Later on, fossil of B. primigenius was recovered nearby the Palaeoloxodon site, and their horizons can be correlated with each other (Wei,1980). Therefore, the age of the Palaeoloxodon site was revised to Late Pleistocene based on the following fossil assemblage: Struthio sp., Ochotona sp., Palaeoloxodon namadicus, Equus sp., Coelodonta antiquitatis,B. primigenius, which is a typical Late Pleistocene faunal assemblage in northern China; and the geologic setting was explained as a river terrace deposit of Sanggan River (T3) (Jia and Wei, 198O).But recently, the site was revisited,and new paleomagnetic dating work was conducted; new results show that the Palaeoloxodon horizon is of an Early Pleistocene age,1.6-1.7 Ma (Ao et al.,2013; Wei et al., 2015),and it was emphasized that the fossil of $B$ ：primigenius was not from the same horizon as Palaeoloxodon (Wei et al.,2015). Anyway, the current knowledge about the mammalian fossils do not support an Early Pleistocene age, because none of the common members of the Early Pleistocene Nihewan Fauna was recovered at the site, such as Pachycrocuta licenti, Hipparion (Proboscidipparion),Coelodonta nihowanensis,Elasmotherium, Paracamelus, Eucladoceros,Palaeotragus, Spiroceros and $B$ palaeosinensis etc. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Concerning the stratigraphical record of Palaeoloxodon in Eurasia, it is stillunder serious debate.Lister (2O04) proposed that the straight-tusked elephants of the genus Palaeoloxodon derived in Africa and entered Eurasia at ca. $0 . 8 \\ \\mathrm { M a }$ ,because the earliest reliable records from Europe,China,and the Middle East are all in the range $0 . 8 { - } 0 . 6 ~ \\mathrm { M a }$ .The post-Villafranchian elephantid in South Asia was represented by $P .$ namadicus Falconer& Cautley,1846,which was originally described from the Narbada ( $\\mathbf { \\bar { \\rho } } = \\mathbf { \\bar { \\rho } }$ Narmada) beds,Central India (Hooijer,1955). Subsequent chronological studies showed that the geologic range of $P .$ namadicus is Middle to Late Pleistocene (Badam and Sankhyan, 2009). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "If the Palaeoloxodon from Shangshazui did coexist with the fossils of $B$ .primigenius, it means that the stratum could not be correlated with the typical Nihewan beds,but is younger instead. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The recently discovered Heyaozhuang Site is similar to the Xujiayao Site in geological settings and archaeological findings,the only difference lies at the former site bears plenty B. primigenius fossils,but the later is dominated by equid fossils. Anyway, they should have the same geologic age because of the large aurochs they shared. It is most probable that the currently studied horn-core and humerus specimens from Nihewan also share the same geologic age as the largest European aurochs, which should be late Middle Pleistocene. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "With regard to the postcranial bones Of B. primigenius from Longhua County, they were from the loess deposit, and definitely have a Late Pleistocene age according to the geologic data (BGMRHP, 1989). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Up to now, the fossil records of B. primigenius were mainly recovered in northern China (Fig.1). According to the current knowledge, the fossils of B. primigenius in China were mainly unearthed from such deposits as fluvio-lacustrine and fluvial terrace, most of them are of Late Pleistocene age, except for such controversial sites as Salawusu, Dingcun and Xujiayao. According to the present study, the larger sized B. primigenius in northern China should be of a late Middle Pleistocene age as their counterparts indicated in Europe; but the smaller sized $B$ :primigenius should be of a Late Pleistocene or early Holocene age. The fossils of B. primigenius from northeastern China can be exclusively referred to Late Pleistocene because of their smaller size.It is worth mentioning that the remains of $B _ { \\cdot }$ primigenius from the Holocene riverbed deposits of Dingjiabu Reservoir in Nihewan Basin should had been redeposited from the Late Pleistocene stratum, because its size surpassed all the Holocene specimens. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Concerning the associated taxa with $B$ ：primigenius in northern China, most of which were once regarded as Late Pleistocene index fossils before (Qiu,2Oo6); while the current knowledge shows that such kind of fossils as Ursus spelaeus, Canis lupus,Panthera tigris, Mammuthus primigenius,Equus caballus,Equus przewalskii ( $\\mathbf { \\bar { \\Psi } } = \\mathbf { \\Psi }$ Equus ferus przewalskii), Coelodonta antiquitatis,Sus scrofa, Camelus knoblochi, Cervus elaphus,Alces alces and Bison priscus have appeared in Europe and northern Eurasia as early as late Middle Pleistocene or even earlier (Markova, 2007; Vislobokova and Tesakov, 2013), which means that the geologic age of the aforementioned taxa in China should be reconsidered. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3 On body size ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Schultz and Hillerud (1978) proposed that the Bison species on the Great Plains in North America underwent a progressive diminution in size during the period from Middle Pleistocene to Late Holocene.But the evolutionary pattern of Bos species is far from clear enough, mainly because of the shortage of fossil records. Brugal (1985) noticed that $B$ primigenius has very high intraspecific variations both in body size and in form through time and space. The body size of Bos species is subject to such factors as evolutionary stage, ontogeny, sexual dimorphism, geologic age, geographical location and climate etc. The studies by Grigson (1978) verified the markedly sexual dimorphism in Holocene B. primigenius from northern Europe. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Although no systematical research work was conducted on the progressive changes in body size through time for $B$ : primigenius, quite a lot of attempts were made in the past decades. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The measurements of the skull and horn-core used to be most reliable evidences for estimation of body size for $B$ ：primigenius,although some debates on the horn-core growth are still ongoing. Guthrie (1966) thought that the higher variation found in horn-cores is due to a number of causes. Perhaps the chief variation component is the ontogenetic factor. Horns and horn-cores have no real definitive size. They continue to grow throughout the life of the animal, adding annual increments at the horn base, each generally smaller than the preceding one. On the contrary, other author thought that litle or no growth occurs after the horn-core has reached maturity (McDonald,1981). Furthermore, other authors thought the male bison acquires a mature horn-core length (but not diameter) at about the time the third molars come into wear. The cores are first long and slender and later increase progressively in diameter with age (Skinner and Kaisen, 1947). The current knowledge is that the horn-core of the cow effectively stops growing in length when the animal reaches maturity, but the external keratinous sheath is produced continually through the animal's life. In that way, the horn becomes effectively larger, even after the bone portion has ceased to grow (Davis et al.,2014; Davis,2016: personal communication).The present study shows that the stoutness of the horncore correlates with the skull size,but they do not always positively correlate with those of the cranium; some smaller horn-core may match a relatively large cranium and vice versa (Fig. 7; Table S02),which means that we must be careful when we deduce the body size by horn-cores. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The measurements of humerus, radius and metarcarpal were also chosen to estimate the body size of the cattle respectively,but the values resulted from these bones are different; generally speaking, the value calculated from the humeral dimensions turned out to be the closest to the actual size (van Vuure,2O14). Humerus measurements show an overall pattern of reduction in size for Bos over time,and the specimens from the late Middle Pleistocene site Ilford are remarkably larger than others (Wright, 2Ol3). Standard measurements were calculated from a population of $B$ ：primigenius from Ilford, Essex,dated to Marine Isotope Stage 7(Wright, 2013), which corresponds with the numerical age 0.245-0.19 Ma BP. Furthermore, the humerus from Neumark-Nord, a late Middle Pleistocene site (ca.0.2-0.125 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Ma) in Germany, is $4 7 1 \\ \\mathrm { m m }$ long,which represents the greatest length for $B$ primigenius (van Vuure,2005) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The humerus of this study is among the largest ones for $B$ primigenius,which indicates the animal should be quite large; according to the conversion factor created by Matolcsi (1970), the withers height of the aurochs could be as high as $1 . 8 9 \\mathrm { ~ m ~ }$ （ $4 5 7 . 3 \\ \\mathrm { m m } \\times 4 . 1 4 \\$ .Thelongest humerus for Pleistocene B.primigenius is $4 7 1 \\ \\mathrm { m m }$ ,which was from the Neumark-Nord site (0.2 Ma) in Germany (van Vuure,2O05). Therefore,the humerus specimen from Nihewan could have a geologic age of late Middle Pleistocene,around $0 . 2 \\ \\mathrm { M a }$ 、Furthermore,it is reasonable to assume that the larger $B$ ：primigenius specimens in China are also predated the smaller specimens. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The biometrical analysis of the metapodial bones of aurochs from Avetrana shows a trend which is characterized by an increase in size from Middle Pleistocene to early Late Pleistocene and to a decrease in size during the late Late Pleistocene and Holocene, which can be divided into 5 stages in chronological sequence (Pandolfi et al., 2011). A number of previous studies noticed a size decrease in the aurochs between the Pleistocene and Holocene in Europe, but the most prominent size decrease may occur sometime around the last interglacial. This fits well with previous work by Cerili and Petronio (1991） who concluded by looking just at metapodials, that the aurochs initially increased in size until it reached its maximum dimensions in the Riss Ice Age (ca. 0.13 Ma BP). Nevertheless, body size may have increased again during some of the subsequent cold periods (ca. 85-60 kyr BP) (Wright, 2013). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In addition, the body size changes between regions were also noticed; the southern European aurochs was somewhat smaller than the northern Ones,and the west European aurochs were smaller than east European ones (van Vuure, 2014) Some authors also compared the body sizes between the wild aurochs ( $B$ primigenius) and the domestic cattle (B. taurus), the result shows a tendency of diminution (Guintard, 1999). But the present studies show that the extant species of Bos has broad intraspecific variation in body size. at ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "It is worth noticing that $B$ . primigenius became common during the late Middle Pleistocene (early Aurelian LMA, ca. $0 . 3 5 \\ \\mathrm { M a }$ ） in Europe,when the largest B. primigenius specimens are recorded (Masini et al., 2Ol3). Therefore,it is reasonable to assume that the big humerus from Nihewan also should indicate an age of late Middle Pleistocene. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.4On the origin and evolution of Bos ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Although the origin place of Bos remains unclear, two assumptions have been proposed: South Asian origin and African origin. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "For the early fossil Bos from South Asia,four species were established successively, namely B. namadicus Falconer,1837; B. planifrons Lydekker,1878; B. acutifrons Lydekker,1878; $B$ platyrhinus Lydekker,1878.Later on, $B$ planifrons was regarded as the female of $B _ { \\cdot }$ ，acutifrons by Lydekker,1897. Currently only $B$ 、namadicus and B.acutifrons are taken as valid names. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The current knowledge shows that the definite early Bos only occurred in South Asia, but during Early and Middle Pleistocene, Bos was absent in northern Eurasia. For quite a long time,the Siwalik Hills were thought to be the place of origin for the genus Bos,and the earliest species is $B$ 、acutifrons or $B$ ：planifrons,which gave rise to the species $B$ 、namadicus which was thought to be the direct ancestor of $B$ :primigenius (Colbert,1935; Pilgrim, 1947; Groves, 1981; MacHugh et al.,1997; Badam and Sankhyan, 2009). The early forms were smaller, but there was a gradual size increase through the $B$ 、namadicus stage,and the bodily magnificence of the line culminated in the great Middle Pleistocene form that dispersed to Europe; after that, it gradually decreased in size again (Kurtén,1968). With the help of mitochondrial DNA research, scientists have been able to show that $B$ . namadicus and $B$ . primigenius probably separated in India between O.61 and $0 . 8 5 \\mathrm { M a }$ ago (MacHugh et al., 1997). ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4b82259193d2f34717b5590804b908e4355b313544c6fb55a7c8326f2dc46a2.jpg",
+        "img_caption": [
+            "Fig.7Size variations of skulls and horn-cores through time for Bos species,illustrated by key fossils "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Colbert (1935） gave the most complete faunal list of the Siwalik Series of India, which indicated that the early representatives of Bos were recovered from the Pinjor Formation which is dated back to $2 . 5 8 { - } 1 . 7 ~ \\mathrm { M a }$ according to the current knowledge. The earliest representative of the genus Bos is $B$ 、acutifrons,which first appeared at the beginning of Pleistocene,i.e.2.58 Ma and survived to $1 . 0 \\mathrm { M a }$ BP(Patnaik, 2O13).B.namadicus,a close relation of the aurochs, is known from fossil remains found in the Middle Pleistocene alluvial deposits of various rivers of peninsular India (Pilgrim,1947).Therefore, Siwalik Hills were regarded as the center of origin for the genus Bos (Colbert, 1935). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Duvernois (1990) proposed that a form of Leptobos (Leptobos) or Leptobos falconeri from the Siwaliks (Pilgrim,1939), which is in connection with L.(Leptobos), is the ancestor of the Pleistocene genera Bison,Bos and Bibos. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Therefore, the area of origin of the aurochs was most probably in India (Thenius,1980). The aurochs is estimated to have evolved there between 1.5 and 2 milion years ago.In the course of the Pleistocene it spread to other parts of Asia,to northern Africa and to Europe (Koenigswald, 1999). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In recent years, a new scenario of phylogeny for the Bos lineage was proposed, which was based on anatomical and morphometric studies, and considered that the evolution of Bos lineage took place separately in Africa, rather than in Eurasia as for the lineage LeptobosBison. The genus Bos evolyed in Africa and dispersed into Eurasia at the beginning of the Middle Pleistocene (Martinez-Navarro et al.,2Oo7). The ancestor of Bos is the Olduvai buffalo Pelorovis oldowayensis (Reck, 1928) (the species is moved to the genus Bos by MartinezNavarro et al.,2010, 2014), which gave rise to the species B. buiaensis at eastern Africa at 1.0 Ma BP, and finally B. buiaensis evolved into B. primigenius in North Africa (Martinez-Navarro et al., 2010, 2014). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "As a result, Martinez-Navarro et al. (2010, 2014) proposed that B. buiaensis was the oldest modern large form of the genus Bos and distinguished the following species in the genus: 1) B.turkanensis for the Early Pleistocene African forms, with a cranium which is proportionately more elongated and a primitive dentition that shows a marked spur in the distal face of the metaconule of the upper molars; 2) B. oldowayensis for the late Early Pleistocene forms of Africa and the Levantine Corridor, younger than the Olduvai normal subchron and older than the Jaramillo normal subchron,which is usually larger and has a cranium more robust than $B$ 、turkanensis;3) B.buiaensis for the latest Early Pleistocene forms of Africa and the Middle East; and 4) B. primigenius for the Middle Pleistocene-Holocene forms from Africa and Eurasia.At the end of the early Middle Pleistocene, the genus Bos spread from Africa,being first recorded in Europe at Venosa-Notarchirico ( $0 . 5 { - } 0 . 6 \\mathrm { M a } )$ (Martinez-Navarro et al.,2007).B.primigenius has been recorded in the early Middle Pleistocene only in southern and central Europe,reaching northern Europe in MIS 11, the oldest records for Britain being at Clacton (Essex) and Swanscombe (Kent) (Stuart,1982; Breda et al.,2010). The earliest remains of the aurochs in Germany date from about $0 . 2 7 5 \\mathrm { M a }$ ago (van Vuure, 2005). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The present authors think that the species group of Bos from South Asia is much closer to $B$ .primigenius in cranial morphology and horn orientation (Fig. 8),and the Pelorovis-Bos hypothesis is not supported by the following evidences: 1） the angle of horn divergence in ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Pelorovis is not coincide with that of Bos species;2) in Pelorovis there is almost no postorbital constriction; 3) the orbits are too near to the horn-cores and are not projected outwardly; 4) between the early species of Bos from Siwalik and the Pelorovis species,the former resembles B. primigenius more strongly; 5) the metacarpals of Pelorovis are too short and too robust (Gentry,1967) for Bos species. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,Bar-Yosef and Belmaker (2016) proposed that $B _ { \\cdot }$ primigenius appeared in southwestern Asia as early as $1 . 2 \\ \\mathrm { M a }$ BP,and it continually occurred in this region until Late Pleistocene. The Pelorovis-Bos hypothesis cannot explain the appearance of $B$ primigenius at such an early time in southwestern Asia. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Except the Siwalik area, the fossil records of early Bos spp. in other parts are scanty. Maybe the Early Pleistocene fossils of Bos (Poéphagus) spp.from Central Asia can provide some extra allusions for the evolution of the bovine lineage; at least they look much similar to $B$ primigenius than the African P. oldowayensis does. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4.5 Bos primigenius and paleoenvironment ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "During the Pleistocene, the cold and warm periods alternated. Although the early works showed that B. primigenius occurred in both glacial and interglacial stages (Kurten,1968), the recent studies indicated that $B$ :primigenius was an interglacial animal (Kolfschoten, 2000; Koenigswald, 2007). It seems that the latter proposal got support from the fossil records, which shows that the fosils of B. primigenius and Bison spp. seldom coexisted at the same site or/and the same layer in the western European faunas (Brugal,1985: table 1). Bison fossils are usually associated with cold-adapted faunas.In Europe,the aurochs withdrew during cold periods to the Mediterranean area and expanded in warmer periods to the north (Koenigswald, 1999). Obviously they were not as well adapted to cold and dry circumstances as were woolly mammoths (Mammuthus primigenius) and woolly rhinos (Coelodonta antiquitatis), steppe bison (Bison priscus) and horses (Equus) (van Vuure,2002). ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/650486406ca4f57274e8cfbe00447b59feb5a9615611b5058e77674d8a5545c7.jpg",
+        "img_caption": [
+            "Fig.8Evolution of Bos lineage: explained by two hypotheses and key fossils Left column,the South Asian origin scenario; right column,Pelorovis-Bos lineage.The photos of Bos acutifrons (A and B) from Siwalik and $B$ . namadicus (C) from Narmada were modified from Lydekker (1878); the photo of $B$ .primigenius (D) from Ilford was modified from Stuart (1982); the photo of Pelorovis oldowayensis (E) was modified from Leaky (l965); the line drawing of $P$ .oldowayensis (F) was adopted from Gentry (1967); the photo of $B$ primigenius from Wadi Sarrat (G) was modified from Martinez-Navarro et al. (2014) "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Bos primigenius is a common member of the Eurasian Middle Pleistocene-Holocene LFAs (local faunal assemblages),particularly abundant in the Italian peninsula during interglacial phases (Martinez-Navarro et al.,2OO7).The distribution area of $B$ primigenius during Pleistocene stretched across nearly all of Europe and large parts of Asia and North Africa.But it was adjusted by the glacial/interglacial alternations, diminishing in cold periods and enlarging in warmer ones (van Vuure,2005). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In Europe,aurochs had a special relation with marshes and marshy forests (van Vuure, 2002). In northern China, almost all of the $B$ primigenius fossils were recovered from fluviolacustrine deposits, whereas few of them were from loess deposit, which means that the aurochs fossils could be employed as indicator of warm climate and marshy forest environment in general. Nevertheless,the situation in northeastern China is quite complicated, because such kinds of interglacial elements as B. primigenius and Bubalus spp. were usually mixed with the Mammuthus-Coelodonta faunas during the Late Pleistocene, whether they occurred alternatively or concurrently is still not clear. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusion ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The new fossils of Bos primigenius in this study came from two regions in Hebei Province: the horn-core and the larger humerus are from Nihewan Basin; the smaller humerus and other limb-bones are from Longhua County. According to the morphological and osteometrical characters, the fossils from Nihewan Basin can be estimated to have a late Middle Pleistocene age; the smaller sized limb-bones from Longhua were unearthed from loess deposit, which can be atributed to Late Pleistocene. B. primigenius arrived in China at its evolutionary peak period,i.e.the late Middle Pleistocene,which is earlier than previously thought.In China the larger sized fossils of $B$ ：primigenius from the following sites should have a late Middle Pleistocene age, such as Zhuwo in Beijing; Shangshazui, Heyaozhuang and Xujiayao-Houjiayao in Nihewan; Dingcun in Shanxi. The smaller sized B. primigenius, especially those from northeast China, can be attributed to Late Pleistocene. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgementsThe authors wish to express their thanks to the following people: Xie F for providing the specimen from Heyaozhuang Site; Lister A and Stuart T for providing some bibliographies and discussions; Davis E for fruitful discussions on the horn growth; Titov V and Zhang H W for providing bibliographies; Farina S and Tang Z W for providing images and/or measurements; Deng T and Zhang Z Q for reviewing the manuscript; Wang X M and Li Q J for field work; Sun B H for fossil preparation. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "河北泥河湾及隆化新发现原始牛化石",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "同号文' 陈曦1,2张贝1,2 王法岗(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京100044)",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(2 中国科学院大学 北京100049)",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(3河北省文物研究所石家庄050031)",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "摘要：原始牛(Bos primigenius)化石新材料包括泥河湾盆地禾尧庄的1件角心、上沙嘴的1件肱骨和承德隆化的1件肱骨、1件胫骨、1件踝骨、2件跟骨和3件距骨；其中上沙嘴的肱骨化石长达 $4 5 7 . 3 ~ \\mathrm { m m }$ ，代表迄今在我国境内发现的最大原始牛个体，也是该种的最大记录之，推算其所属动物的肩高接近 $2 \\textrm { m }$ ；北京门头沟珠窝的原始牛头骨的眶后宽度及角心周长数据也是该种的最大记录之一；禾尧庄的角心标本稍小，但也比晚更新世多数同类要大；这些巨大的化石与欧洲中更新世晚期同类十分接近，其时代也应当与之相当，为中更新世晚期；过去认为原始牛在我国只出现于晚更新世地层，但现在看来该种在中更新世晚期就已扩散到中国。东欧及北亚的最新化石证据表明，过去认为与原始牛共生的晚更新世化石组合的常见属种早在中更新世晚期或更早时期就已出现，其中包括灰狼、虎、真猛犸象、马、真披毛犀、野猪、诺氏驼、赤鹿、驼鹿及草原野牛等。最新测年数据也表明中国北方有几个含原始牛化石的遗址是形成于中更新世晚期；本文认为华北和西北地区个体巨大的原始牛，代表中更新世晚期，而个体较小的则可能代表晚更新世或全新世；近些年在东北地区发现大量原始牛化石，但其中少见个体巨大者。在我国，原始牛化石分布只局限于北方及淮河过渡区，而在南方及毗邻的东南亚地区均未发现此类化石；因此，有人提出原始牛很可能是在中更新世中、晚期通过中亚走廊(Central Asian Corridor)进人中国。不过，近些年在非洲也发现了一些牛属(Bos)化石，因此有人又提出了牛属非洲起源的\"奥杜威牛-牛属演化谱系\"(Pelorovis-Bos lineage),但该学说所依据的奥杜威牛化石材料，在形态结构上与牛属相去甚远，难以归入同类；此外，非洲可靠的牛属化石记录均未超过1Ma。本文作者支持传统的牛属\"南亚起源学说”，因为在南亚西瓦里克地区发现的早期牛属化石不仅时代更古老(早于2Ma),并且在形态上与原始牛更为相似。中国北方的原始牛化石主要发现于华北平原、黄土高原和松嫩平原的河湖相堆积层，仅极个别出现于黄土地层；由此推断原始牛可能更喜欢水系发育的林缘和/或沼泽环境。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "关键词：河北隆化，泥河湾，中-晚更新世，原始牛，角心，肢骨 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Ao H,Dekkers MJ,WeiQetal.,20l3.Newevidence for early presenceof hominids inNorthChina.SciRep,3,doi: 10.1038/srep02403   \nBadam GL,SankhyanAR,2Oo9.Evolutionary trendsinNarmada fosilfauna.In: SankhyanARed.AsianPerspectiveson Human Evolution.New Delhi: Serials Publications.92-102   \nBarone R,1976.Anatomie comparée des mammiferes domestiques,Tome 1,Osteologie.2eme éd.Paris: Vigot Freres Editeurs. 1-810   \nBar-YosefO,Belmaker M,2016.Earlyand Midle Pleistocene faunal and homininsdispersals through southwestern Asia. Quat Sci Rev,29,doi:10.1016/j.quascirev.2010.02.016   \nBohlinB,1938.EinigeJungtertiareund Pleistozane Cavicornieraus Nord-China. NovaActa Reg Soc Sci Up,Ser 4,11(2): 1-54   \nBoule M,Teilhardde Chardin P,1928.Le Paleolithique de la Chine.Arch InstPaleont Hum(Paris),Mém,4:1-138   \nBreda M,Colinge SE,Parfit SAetal.,2010.Metric analysis ofungulate mammals in the early Middle Pleistoceneof Britain,in relation to taxonomy and biostratigraphy I: Rhinocerotidaeand Bovidae.Quat Int,228:136-156   \nBrugal J-P,1985.Le Bos primigeniusBOJ.1827du Pleistocene Moyen des grotes de Lunel Viel (Herault).BullMus Anthropol Prehist Monaco,28: 7-62   \nBukhsianidze M,2Oo5.The fossil Bovidae of Dmanisi.PhDdissertation.Ferrara: the UniversityofFerrara.1-192   \nBuntjer JB,OtsenM,Nijman IJetal.,2002.Phylogenyof bovine species basedonAFLPfingerprinting. Heredity,89: 46-51   \nBureau of Geologyand Mineral Resources of Hebei Province (BGMRHP),1989. Regional Geology of Hebei Province, seijir gMunicipality and Tianjin Municipality. Beijing: Geological Publishing House.1-741   \nCerili E,PetronioC,1991.Biometrical variations ofBos primigenius Bojanus1827 from Middle Pleistocene to Holocene. In: Spitz F, Janeau G,Gonzalez G et al. eds. Proceedings of the International Symposium ‘Ongulés/ungulates'. Toulouse: France. 37-   \nChia L P, Wei Q,LiCR,1979. Report ontl cavation of Hsuchiayao Man Site in 1976.Vert PalAsiat,17(4): 277-293   \nChow MC,1953.A skullof Bos primigenius from theQuatermary ofDatong, Shanxi. Acta Paleont Sin,1(4): 187-191   \nColbert E H,1935. Siwalik mammals in the American Iuseum of Natural History. Trans Am Philos Soc,New Ser, 26: 1-401   \nCoolidge HJJr.,1940.The Indo-Chinese forest ox or kouprey.Mem Mus Camp Zool Harv Coll,54(6): 421-531   \nDavis EB,BrakoraKA,StilsonKT,2O14.Evolution,developmentand functionalroleofhorsincattle.In:MelettiM, Burton Jeds.Ecology,Evolution and Behavior of Wild Cattle: Implications Conservation. Cambridge: Cambridge University Press.72-81   \nDong W,LiZY,2o8.Late PleistoceneArtiodactyla (ammalia)fromthe Lingjing Site,Xuchang,HenanProvince(China). Vert PalAsiat, 46(1): 31-50   \nDuvernois M-P,1990.Les Leptobos (Mammalia,Artiodactyla)du Villfranchien d'Europe Occidentale:Systematique Evolution,Biostratigraphie,Paléoecologie.Doc Lab GeolLyon,113:1-213   \nFarina S,20l1,Late Pleistocene-Holocene mammals from“Canale dell Acque Alte (Canale Mussolini)”(Agro Pontino, Latium). Boll Soc Paleont Ital, 50(1): 11-22   \nGee H,1993.The distinction betweenposteranial bonesof Bosprimigenius Bojanus,1827and Bison priscus Bojanus,827 from the British Pleistocene and the taxonomic status of Bos and Bison.JQuat Sci,8(1): 79-92   \nGentryAW,967.Pelorovisoldowayensiseck,nextictbovidfromEastAfrica.BullBrus(NatHist),Geol,14:499   \nGentry AW,1992.The subfamilies and tribes of the family Bovidae.Mamm Rev,22(1):1-32   \nGeraads D,1992.Phylogenetic analysis of the tribe Bovini (Mammalia: Artiodactyla). Zool JLinn Soc,104:193-207   \nGrigson C,1978.Thecraniologyand relationships offourspecies ofBos: 4.Therelationshipbetween Bos primigenius Boj. and B.taurus L.and its implications for the phylogenyofthe domestic breeds.JArchaeol Sci,5(2):123-152   \nGromova VI,1931.Contribution a laconnaissance de l'ure (Bos primigenius Boj.)de IEurope orientale et de lAsie septentrionale.Ann Mus Zool Acad Sci URSS,32(3): 293-364   \nGroves GB,1981.Systematic relationshipofthe Bovini (Artiodactyla,Bovidae).ZZool SystEvol,4: 264-278   \nGrubb P,20o5.Order Artiodactyla.In: WilsonDE,Reeder DMeds.Mammal Species of the World: A Taxonomic and 22 Geographic Reference. $3 ^ { \\mathrm { r d } }$ ed. Vol.1.Washington,DC: Smithsonian Institution Press. 637-722   \nGuintard C,199.On the size ofthe ure-ox or aurochs (Bos primigenius Bojanus,1827).In: Weniger G-Ced.Archaologie und Biologie des Auerochsen. Wiss Schr Neanderthal Mus,1: 7-21   \nGuthrie R D,1966.Bison horn-cores—character choice and systematic.JPaleont, 40(3): 738-740   \nHassanin A,2014.Systematic andevolutionof Bovini.In: Melett M,Burton Jeds.Ecology,Evolution and Behaviorof Wild Cattle: Implications for Conservation. Cambridge: Cambridge University Pres. 7-20   \nHassanin A,Douzery EJP,1999.The tribal radiation of the family Bovidae (Artiodactyla)and the evolutionof the mitochondrial cytochrome b gene.Mol Phylogenet Evol,13(2):227-243   \nHooijer DA,1955.Fosil proboscidea from the Malay Archipelago and the Punjab.Zool Verh,28:1-146   \nHooijerDA,1958.Fossil Bovidae from the Malay Archipelago and the Punjab.Zool Verh,38:1-110   \nHuCK,1956.DiscoveryofthePleistocene mammals inthefuvialdepositsoftheWesternHills,Peking.ActaPalaeontSin, 4(3): 419-423   \nHu C K,1958.Bos primigenius from Hsiangfenhsien,Shansi.In: Pei WC,Woo JK, Chia LPet al.eds.Reporton the Excavation ofPaleolithic Sites at Tingtsun, Hsiangfenhsien,Shansi Province,China. Mem Inst Vert Paleont Acad Sin，   \nHu Z K,1959.A skull of Bos primigenius from the outskirts of Peking. Vert PalAsiat,1(1): 41-42   \nJia L,Wei Q,1980.Some animal fossils from the Holocene of N. China. Vert PalAsiat,18(4): 327-333   \nKoenigswald Wvon,199.Palokologie und Vorkommendes pleistoznen Auerochsen (Bos primigenius Bojanus,1827) im Vergleich zu den grossen Rindern des Pleistozans.In: Weniger G C ed.Archäologie und Biologie des Auerochsen. Wiss Schr Neanderthal Mus,1: 23-33   \nKoenigswald Wvon,2Oo7.Mammalian faunas from the interglacial periods in centralEurope and their stratigraphic correlation. Dev Quat Sci,7: 445-454   \nKolfschoten Th van,20o0.The Eemian mammal fauna of central Europe.Neth JGeosci, 79(2/3): 269-281   \nKovarovic K,ScottR S,2014.Theevolutionand skeletalanatomyof wild cattle (Bovini).In: Melleti M,Burton Jeds. Ecology,Evolution and Behaviorof Wild Cattle: Implications for Conservation,Cambridge: Cambridge University Press. 39-50   \nKurten B,1968.Pleistocene Mammals of Europe.London: Weidenfeld and Nicolson.1-317   \nLeakeyL SB,1965.Olduvai Gorge 1951-61,Vol.I: A Preliminary Report on the Geology and Fauna.L nbridge University Press.1-118   \nLeslie Jr DM,SchallerGB,20o9.Bos grunniens and Bos mutus (Artiodactyla: Bovidae).Mamm Spec,836:1-17   \nLiB S,Zhang DD,Wen X Hetal.,2Oo1.Amulti-cycle climatic fluctuationrecordofthe last interglacial period:typical stratigraphic section in the Salawusu River Vallyon the Ordos Plateau,China.Acta Geol Sin,79(3): 398-404   \nLister AM,2004.Ecologicalinteractions of elephantids inPleistocene Eurasia: Palaeoloxodon and Mammuthus.In: GorenInbar N,Speth JD eds.Human Paleoecology in the Levantine Corridor. Oxford: Oxbow Books.53-60   \nLydekker R,1878.Crania ofruminants from the Indian Tertiaries,and supplement.Palaeont India,1(10):1-84   \nLydekker R,1898.Wild Oxen,Sheep& Goats ofallLands: Living and Extinct.London: Rowland Ward Ltd.1-318   \nMacHugh DE,ShriverMD,Loftus RTetal.,997.Microsatelite DNA variationand the evolution,domesticatioand phylogeography of taurine and Zebu catle (Bos taurus and Bos indicus). Genetics,146:1071-1086   \nMarkova A,2007.Pleistocene mammal faunas of Eastern Europe.Quat Int,160(1): 100-111   \nMartin T,1990.Jungpleistozane und holozne skeletfunde von Bos primigenius und Bison priscus aus Deutschland. Eiszeitalt Ggw, 40: 1-19   \nMartinez-NavaroBRabinovichR,20l1.ThefosilBovidae (Artiodactyla,ammalia)fromGesherBenotYaqovrel: out of Africa during the Early-Middle Pleistocene transition.JHum Evol,60: 375-386   \nMartinez-NavarroB,Pérez-Carlos J-A,PalomboMRetal.,2007.TheOlduvai bufaloPelorovis and theoriginofBos.Quat Res,68:220-226   \nMartinez-NavaroB,RookL,PapiniMetal.,0l0.AnwspeciesofbullfromtheEarlyPleistocenepaleoanthropologicaite of Buia (Eritrea): paralelism on the dispersal of the genus Bos and the Acheulianculture.Quat Int,212:169-175   \nMartinez-NavarroB,Karoui-Yaakoub N,OmsOetal.,2014.TheearlyMiddlePleistocene archeopaleontologicalsiteof Wadi Sarrat (Tunisia) and the earliest record of Bos primigenius. Quat Sci Rev,90: 37-46   \nMasiniF,PalomboMR,RozziR,20l3.AreapraisaloftheEarlyto Middle Pleistocene Italian Bovidae.QuatInt,288: 45-62   \nMatolcsi J,1970.Historische Erforschung der KorpergroBedes Rindes auf Grund von ungarischem Knochenmaterial. Z Tierz Züchtungsbiol, 87(1-4): 89-137   \nMcDonaldJN,1981.North American Bison:Their ClassificationandEvolution.Berkeley: Universityof CaliforniaPres. 1-316   \nMeadJI,JinCZ,WeiGBetal.,014.NewdataonLeptobos crassus (Artiodactyla,Bovidae)fromRenzidong Cave,Early leistocene (Nihewanian) of Anhui, China,and an overview of the genus. Quat Int,354: 139-146   \nMoya- 1987.Los bóvidos (Artiodactyla, Mammalia) del yacimiento del Pleistoceno inferior de Venta Micena (Orce, Granada, Espana).Paleontol Evol, Mem Espe,1: 181-236   \nPandolfi L, Petronio C, 11.Bos primigenius Bojanus,1827 from the early Late Pleistocene deposit of Avetrana (Southern Italy） and the ariation in size of the species in Southern Europe: preliminary report. JGeol Res,doi: 10.1155/2011/245408: 1-11   \nPatnaik R,2013.Indian Neogene Siwalik mammalian biostratigraphy: an overview. In: Wang X M,FlynL J,Fortelius M eds.Fossil Mammals of Asia: Neogene Biostratigraphy and Chronology. New York: Columbia University Press. 423-444   \nPei W C, Huang WP,Chiu C L et al.,1958.Discovery of Quaterna y mammalian fauna at Chao-tsun, Chien-an County, Hepei Province. Vert PalAsiat,2(4): 213-229   \nPilgrim G E,1939.The fossil Bovidae of India.Mem Geol Surv India.Palaeont Ind   \nPilgrim G E,1947.The evolution of the buffaloes,oxen,sheep and goats.JLinn Soc London,41: 72-286   \nPolziehn R O,Strobeck C,Sheraton J,1995.Bovine mtDNA discovered in North Americanbison populations.Conserv Biol, 9: 1638-1643   \nPratF,DelpechF,CancelNetal.,0.Lebisondessteppes,isonpriscus Bojaus,827,delagrotedHabaaudy (Pyrénées-Atlantiques).Paleo,15: 1-102   \nQiu Z X,2006.Quaternaryenvironmental changes and evolution oflarge mammals in North China. Vert PalAsiat,4(2): 109-132   \nReynolds SH,1939.The Pleistocene Bovidae.A monographof the British Pleistocene MammaliaI.Ann VolPalaeontogr Soc,92: 1-65   \nSalaB,1986.BisonschoetensackiFreud.fromIsernialaPineta (earlyMid-Pleistocene,Italy)andrevisionoftheEuropean species of bison.Palaeontogr Ital,74: 113-170   \nSchultz CB,HilerudJM,1978.Climatic change and the extinctionof large mammals during the Quaternary.Trans Nebr Acad Sci,6: 95-105   \nSher AV,1997.AnEarly Quaternarybisonpopulation from Untermasseld:Bison menneri sp.nov.In: KahlkeR-ed.Das Pleistozän von Untermassfeld bei Meiningen (Thuiringen),Teil 1.Monogr RGZM,40(1):101-180   \nSkinner MF,Kaisen OC,1947.The fosil bison of Alaska and preliminary revision of the genus.BullAm Mus Nat Hist, 89:123-256   \nSokolovII,1953.A primerof natural clasificationofCavicorns (Bovidae).Proc Zol InstAcad SciUSSR,14:1-295   \nStuart A J,1982.Pleistocene Vertebrates in the British Isles.London: Longman.1-228   \nTang ZW,Sheng ZH,Zhao MX,2003.Comparative studiesonthe Bovini remains from archaeological sites in northern China.In: Wang C S ed.Contributions to Archaeometry.Hefei: University of Science and Technology of China Press. 177-180   \nTeilhard de Chardin P,Piveteau J,1930.Les mammiferes fossiles de Nihowan (Chine).Ann Paleont,19:1-134   \nTeilhardde ChardinP,Trassaert M,1938.Cavicornia of south-eastern Shansi.Palaeont Sin,New Ser C,6:1-98   \nTheniusE,1980.GrundzigederFaunen-und Verbreitungsgeschichteder Säugetiere.Eine historische Tiergeographie.Jena: V.E.B. Gustav Fischer Verlag,1-375   \nTikhonovA,2008.Bos primigenius.The IUCNRed Listof Threatened Species 2008,e.T136721A4332142,htp:/dx.doi. org/10.2305/IUCN.UK.2008.RLTS.T136721A4332142.en   \nTong H W, Chen X, Zhang B,2016. New fossils of Bison palaeosinensis (Artiodactyla, Mammalia) from the steppe mammoth site of Early Pleistocene in Nihewan Basin,China.Quat Int, htp://dx.doi.org/10.1016/ j.quaint.2016.07.033   \nTu H, Shen G J,LiH X et al., 2015. $^ { 2 6 } \\mathrm { A l / ^ { 1 0 } B e }$ burial dating of Xujiayao-Houjiayao Site in Nihewan Basin,northern China. PLoS ONE,10(2), e0118315,doi: 10.1371/journal.pone.0118315   \nvan Vuure T, 202. History, morphology and ecology of the aurochs (Bos primigenius). Lutra, 45(1): 1-16   \nvan Vuure T, 2005.Retracing the Aurochs: History, Morphology and Ecology of an Extinct Wild Ox. Sofia: Pensoft. 1-431   \nvan Vuure T,2014.Aurochs Bos primigenius Bojanus,1827.In: MeletiM,BurtonJeds.EcologyEvolutionandBehavior of Wild Cattle: Implications for Conservation. nbridge: Cambridge University Press.240-254   \nVasilievS K,2008.Late Pleistocene bison (Bisonp.priscus Bojanus,1827)from thesoutheastern partof western Siberia. Arch Ethnol Anthropol Euras,34(2): 34-56   \nVislobokova I,TesakovA,2013.Vertebrate records/Earlyand MiddlePleistoceneof northern Eurasia.In:Elias SAed. Encyclopedia of Quaternary Science. Vol. 4. $2 ^ { \\mathrm { n d } }$ ed. Amsterdam: Elsevier. 605-614   \nWei Q,1976.Recent find of fossil Palaeoloxodon namadicus from Nihewan Beds.VertPalAsiat,14(1): 53-58   \nWei Q,1980.New finds from the Nihewan Beds and their stratigraphical significance.In: IVPPed.Collected Papers in Paleoanthropology. Beijing: Science Press.136-150   \nWei Q,Pei S W,Feng X W etal.,2015.The stone artifacts from Shangshazui, Nihewan basin.Acta AnthropolSin34(2): 139-148   \nWrightE,20l3.The historyof theEuropean aurochs (Bos primigenius）from the Middle Pleistocene to its extinction:an archaeological investigation of its evolution,morphological variability and response to human exploitation.Ph.D. Thesis. Sheffield: University of Sheffeld.1-324   \nWu WX,LiuTS,002.Studyontheloss-paleosoilsequenceoftheingcun PaleolithicSites.SesmolGeol,24(2):241- 248   \nXie W M,1988.A skull of Bos primigenius suxianensis from Anhui. Vert PalAsiat,26(4): 303-305   \nXueX X,1982.Late Pleistocene mammalian fosilsand palaeolithic artifacts ofLoufangzi,Gansu Province.In: WangYY ed.Loess and Quaternary Geology.Xi'an: Shaanxi People's Publishing House.108-137   \nZongGF,1984.FosilsofBosprimigenius fromApaTibetanAutonomous Prefecture,Sichuan.VertPalAsiat,25(1):69-76   \nZong GF,Xu QQ,Chen WY,1985.Note on the Late Pleistocene mammalian fosils in the Apa Zangzu Zizhizhou.Vert PalAsiat,23(2): 161-166 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    }
+]

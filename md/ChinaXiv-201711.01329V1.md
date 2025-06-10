@@ -1,0 +1,159 @@
+# FAST访客电子设备电磁干扰分析
+
+黄仕杰1,²，张海燕2,³，甘恒谦2,，岳友岭2,，胡浩²，宋金友²（1.贵州大学理学院，贵州 贵阳550025；2.中国科学院国家天文台，北京100012；3.中国科学院射电天文重点实验室，江苏 南京210008)
+
+摘要： $5 0 0 \mathrm { ~ m ~ }$ 口径球面射电望远镜具有很高的灵敏度，容易受周边电子设备的电磁干扰。如果干扰超过望远镜的干扰保护门限，导致望远镜观测性能下降。通过在微波暗室内测试平板电脑、数码相机和手机的电磁辐射强度，在台址测试望远镜至综合楼、电子实验室及观景平台之间的传播损耗，评估访客所携带平板电脑等电子设备对望远镜造成的干扰情况。分析结果显示，所选样品设备对望远镜存在不同程度的干扰。这些工作为望远镜运行后的台站电磁干扰管理提供了重要依据。
+
+关键词：FAST；传播损耗；电子设备；电磁干扰中图分类号：TN978 文献标识码：A 文章编号：1672-7673(2017)02-0268-07
+
+$5 0 0 \mathrm { ~ m ~ }$ 口径球面射电望远镜（Five-hundred-meter Aperture Spherical radio Telescope，FAST）是国家“十一五”重大科技基础建设项目，于2016年9月竣工[1]。FAST具有很高的系统灵敏度，观测频段为 $7 0 \ \mathrm { M H z } \sim 3 \ 0 0 0 \ \mathrm { M H z }$ ，观测来自宇宙微弱的无线电信号，同时也容易受其它无线电通信业务的干扰。参考国内外射电望远镜电磁波环境保护的工作经验[2-3]，贵州省建立了半径为 $3 0 ~ \mathrm { k m }$ 的电磁波宁静区[4-5]，通过分区域设置不同的限值条件，以保护望远镜周边宁静的电波环境。望远镜运行期间，除了开展科学研究工作之外，还将承担科学普及任务。便携式电子设备可能经由访客携带而进入台站，有可能对望远镜产生电磁干扰。如果电磁干扰超过望远镜干扰保护门限，就会影响望远镜的正常观测，因此需要对便携式电子设备的电磁干扰进行分析和评估。
+
+目前，国际上部分大型射电望远镜已对访客携带电子设备进行限制，如美国的绿岸望远镜（GreenBank Telescope，GBT）[6]，对于望远镜所处的区域，工作人员不得携带任何非必须的电子设备。望远镜观测期间，访客只允许在距望远镜约两千米以外的访客中心区域活动，禁止使用数码相机及具有无线网络通信功能的设备。
+
+访客常见的可携带电子设备包括数码相机、手机及平板电脑等。以数码相机为例，作为一套电子系统，采用光学传感器（CCD或CMOS）、LED 液晶显示屏及核心处理器等主要部件7。特别是光学传感器，其驱动电路达到百MHz量级，并且作为集成电路芯片，光学传感器工作时，经由负载电容的充、放电而产生电磁辐射，并通过集成电路的金属层向外部空间发射[8]。这些设备都有可能对望远镜造成潜在干扰。
+
+在台站内，访客主要活动区域包括综合楼、电子实验室和观景平台。综合楼和电子实验室位于台站内部，是主要办公场所，会有访客进入综合楼和电子实验室周围。而观景平台离望远镜最近，且没有遮挡，需要对访客能否携带电子设备进行分析和评估，以避免望远镜受到干扰。
+
+在理论分析和现场传播损耗实测数据的基础上，通过分析访客所携带电子设备在主要活动区域内对望远镜造成的干扰情况，从而为台站的电磁干扰管理工作提供依据。
+
+# 望远镜干扰保护门限
+
+引起系统性能下降的电磁骚扰称为电磁干扰。对于射电望远镜，电磁干扰会污染观测数据，增加后续数据处理的难度，强的干扰信号甚至会淹没观测数据，导致有价值的观测数据隐藏于干扰信号中而难以被发现。未知的规律性干扰甚至可能误导科研工作者。望远镜干扰保护门限作为理论依据，确定了望远镜的敏感性电平，以此保护望远镜不受干扰，望远镜接收到的任何电磁骚扰都应当小于干扰保护门限，否则，将会对观测数据产生影响。
+
+利用国际电信联盟建议书ITU-RRA. $7 6 9 ^ { \textcircled { 1 } }$ 规定的估算方法，结合望远镜自身的技术特性，获得的干扰保护门限见表 $1 ^ { \textcircled { 2 } }$ 。
+
+表1望远镜干扰保护门限  
+Table1 FAST interference threshold   
+
+<html><body><table><tr><td rowspan="2">中心频率 /GHz</td><td rowspan="2">频段 /GHz</td><td rowspan="2">带宽 /GHz</td><td rowspan="2">系统噪声温度 /K</td><td colspan="3">干扰阈值</td></tr><tr><td>输入功率 /dBW</td><td>功率流量密度 (dB(W/m²))</td><td>谱功率流量密度 (dB(W/(m²Hz)）)</td></tr><tr><td>0.105</td><td>0. 07~0. 14</td><td>0.07</td><td>1000</td><td>-187</td><td>-185</td><td>-264</td></tr><tr><td>0.21</td><td>0.14~0.28</td><td>0.14</td><td>400</td><td>-190</td><td>-182</td><td>-263</td></tr><tr><td>0.42</td><td>0.28~0. 56</td><td>0.28</td><td>150</td><td>-193</td><td>-180</td><td>-264</td></tr><tr><td>0.79</td><td>0.56~1. 02</td><td>0.46</td><td>60</td><td>-195</td><td>-176</td><td>-263</td></tr><tr><td>0.327</td><td>0.320~0.334</td><td>0.014</td><td>200</td><td>-200</td><td>-188</td><td>-260</td></tr><tr><td>0.595</td><td>0.55~0. 64</td><td>0.09</td><td>60</td><td>-199</td><td>-182</td><td>-262</td></tr><tr><td>1. 435</td><td>1. 15~1. 72</td><td>0.57</td><td>25</td><td>-199</td><td>-174</td><td>-262</td></tr><tr><td>1.38</td><td>1. 23~1. 53</td><td>0.30</td><td>25</td><td>-200</td><td>-176</td><td>-261</td></tr><tr><td>2.50</td><td>2. 00~3. 00</td><td>1. 00</td><td>25</td><td>-198</td><td>-168</td><td>-258</td></tr><tr><td>4.85</td><td>4.50~5.20</td><td>0.70</td><td>30</td><td>-198</td><td>-162</td><td>-251</td></tr><tr><td>6.20</td><td>5.70~6.70</td><td>1.00</td><td>30</td><td>-197</td><td>-159</td><td>-249</td></tr><tr><td>8.40</td><td>8.00~8.80</td><td>0.80</td><td>35</td><td>-197</td><td>-157</td><td>-246</td></tr></table></body></html>
+
+# 2 测试
+
+# 2.1电子设备辐射测试
+
+# 2. 1. 1 微波暗室测试
+
+为了解访客主要电子设备的电磁辐射情况，选取访客常见的便携式电子设备：平板电脑（AppleiPad air）、数码相机（尼康D7000)及手机(红米2)作为样品进行测试。测试方法采用《中华人民共和国国家军用标准-军用设备和分系统电磁发射和敏感度测量》 $( \mathrm { G J B } 1 5 2 \mathrm { A } ) ^ { \textcircled { 3 } }$ ，测试距离 $1 \mathrm { m }$ 。测试限值采用对应的《中华人民共和国国家军用标准-军用设备和分系统电磁发射和敏感度要求》（GJB151A）④。图1为在微波暗室内进行测试。
+
+# 2. 1. 2 测试结果
+
+测试结果如图2。设备样品中，数码相机拍照时，辐射强度在 $4 0 0 \mathrm { M H z }$ 及 $2 0 0 0 ~ \mathrm { M H z }$ 附近超过国军标RE102-3-海军(移动的)和陆军限值约10dB，其余频率即使没有超过也非常接近国军标限值。数码相机待机时， $4 0 0 \mathrm { M H z }$ 超过国军标限值。手机拨号时，产生的电磁辐射低于国军标限值，在暗室之中，手机不能与基站进行通信，与将来现场拆除基站后，手机拨号无法连接基站的情况一致。手机拍照时，在 $1 0 0 0 \mathrm { M H z }$ 附近超过了国军标限值。iPad低于限值要求。
+
+# 2.2望远镜台址传播损耗测试
+
+在望远镜台址访客主要活动区域除观景平台外，如电子实验室及观测基地综合楼都建立在山
+
+![](images/108fee1a41e91102153866ed60121aebb619d8cd5203b999ea94a220de9651d9.jpg)  
+图1微波暗室测试内景
+
+脚。利用山体及植被等天然屏障，增加电波传播过程的衰减，减少访客区域内设备对望远镜的干扰。为了解访客主要活动区域到望远镜的电波传播损耗情况，选取观测基地综合楼、电子实验室、观景平台3个位置，采用自由空间传播模型进行理论分析，同时在现场开展实地电波传播损耗测试。各发射天线位置坐标及路径情况见表2，接收天线位置坐标见表3。
+
+![](images/332e5b3fd54b51fac60dd3b6748a800614361dbb27c6345aaa2578efbe573e89.jpg)  
+Fig.1Microware chamber measurement   
+图2电子设备样品微波暗室测试结果  
+Fig. 2 Microware chamber measurement results of electronic devices samples
+
+# 表2各发射天线位置
+
+Table 2 Location of transmitting antennas   
+表3接收天线位置  
+
+<html><body><table><tr><td>发射天线地点</td><td>x坐标</td><td>y坐标</td><td>海拔/m</td><td>路径概况</td><td>与接收天线距离/m</td></tr><tr><td>综合楼</td><td>499 379</td><td>2 837 791</td><td>1005</td><td>两座高山阻挡</td><td>755.6</td></tr><tr><td>电子实验室</td><td>499 132</td><td>2 837 920</td><td>998</td><td>一座高山阻挡</td><td>523.9</td></tr><tr><td>观景平台</td><td>498 628</td><td>2 838 754</td><td>1 131</td><td>完全通视</td><td>343.5</td></tr></table></body></html>
+
+Table 3Location of reception antenna   
+
+<html><body><table><tr><td>接收天线地点</td><td>x坐标</td><td>y坐标</td><td>海拔/m</td></tr><tr><td>FAST 中心上空145m处</td><td>498 956</td><td>2 838 440</td><td>979</td></tr></table></body></html>
+
+# 2.2.1 测试原理
+
+电波传播损耗采用(1)式计算，并与空间自由传播模型(2)式对比。
+
+$$
+L _ { \mathrm { a } } = P _ { \mathrm { t } } + G _ { \mathrm { t } } - \left( P _ { \mathrm { r } } - G _ { \mathrm { r } } - g a i n \right) { , }
+$$
+
+$$
+L _ { \mathrm { b f } } = 3 2 . 4 5 + 2 0 1 { \mathrm { g } } f + 2 0 1 { \mathrm { g } } d ^ { { \odot } }
+$$
+
+其中， $L _ { \mathrm { a } }$ 为实测传播损耗，单位 $\mathrm { d B }$ ; $\boldsymbol { P } _ { \mathrm { ~ t ~ } }$ 为发射功率，单位 $\mathrm { { d B m } }$ ; $G _ { \mathrm { t } }$ 为发射天线增益，单位 $\mathrm { \ d B i }$ ; $P _ { \mathrm { ~ r ~ } }$ 为接收功率，单位 $\mathrm { { d B m } }$ ; $G _ { \mathrm { r } }$ 为接收天线增益，单位 $\mathrm { \ d B i }$ ；gain 为放大器增益，单位 $\mathrm { \ d B i }$ 。 $L _ { \mathrm { b f } }$ 为自由传播损耗; $f$ 为频率，单位 $\mathrm { \Delta M H z }$ ; $d$ 为传播距离，单位 $\mathrm { k m }$ 。
+
+# 2.2.2 测试系统
+
+台址传播损耗测试于2016年3月、2016年4月及2016年7月进行，测试系统由信号源（Agilent5181A）、发射天线（HL033）、接收天线（HL223、FAST低频馈源）、前置放大器（ $\mathrm { \ Z K L } - 2 +$ 、 $\boldsymbol { { Z } } \boldsymbol { { \mathrm { X } } } 6 0 -$ $3 0 1 8 \mathrm { G - S + }$ )及频谱分析仪（N9020A)组成。2016年3月及2016年4月，面板铺设完成 $5 0 \% \sim 5 5 \%$ ，2016年7月，面版铺设完成 $9 9 \%$ 。
+
+测试的发射地点与接收地点按照图3，在综合楼、电子实验室及观景平台架设发射天线，在望远镜反射面中心的上空 $1 4 5 \mathrm { ~ m ~ }$ 处架设接收天线。
+
+![](images/517987434cd0d51baf457a3730660b82a7bf0771036d41051558af4dd913a11d.jpg)  
+图3测试地点布置图  
+Fig.3Layout of the measurement sites
+
+# 2. 2.3 测试结果
+
+测试结果如图4，在观测频段内，综合楼位置实测传播损耗为 $7 0 \sim 1 4 0 ~ \mathrm { d B }$ ，电子实验室位置实测传播损耗 $7 0 \sim 1 3 0 ~ \mathrm { d B }$ ，比空间自由传播模型损耗略高。观景平台与接收天线全程通视，无任何阻挡物，视为自由空间传播，传播损耗约 $6 0 \sim 9 0 ~ \mathrm { d B }$ 。
+
+# 3电子设备干扰分析
+
+以电波传播损耗测试结果作为参考，分析样品设备在观测基地综合楼、电子实验室和观景平台区域使用，对望远镜可能产生的电磁干扰，并与望远镜干扰保护门限比较，从而判断访客携带的电子设备是否对望远镜造成干扰。电子设备在微波暗室内测试结果为电场强度，为进行比较，转换为谱功率流量密度（Spectral pfd），根据ITU-RP. $5 2 5 - 2 ^ { \textcircled { 5 } }$ 及ITU-RRA.769，转换公式如下：
+
+![](images/570045b4461cf4ce5233ab2999527f65f4e5741961fdc39819912b2f8b682c86.jpg)  
+图4综合楼、实验室和观景平台到接收天线的传播损耗 Fig.4Propagationlosses between the main building,laboratory, viewing platform and receptionantenna
+
+$$
+S _ { \mathrm { H } } = E - 1 0 \mathrm { l g } ( B W ) - 1 4 5 . 8 \ .
+$$
+
+(3)式为谱功率流量密度与电场强度的换算公式，其中 $S _ { \mathrm { { H } } }$ 为谱功率流量密度，单位为 $\mathrm { { d B W } / ( \ m ^ { 2 } H z ) }$ ：$E$ 为电场强度，单位 $\mathrm { { d B } \mu V / m }$ ； $B W$ 为带宽，单位 $\mathrm { H z }$ 。考虑现场传播损耗情况得：
+
+$$
+S _ { \mathrm { H } } = E - L - 1 0 \mathrm { l g } ( B W ) - 1 4 5 . 8 \ .
+$$
+
+(4)式以样品设备作为发射源，以现场测试所得的损耗分析发射源在访客活动区域对望远镜产生的影响。其中 $\scriptstyle L = L _ { \mathrm { a } } - L _ { \mathrm { b } }$ ，为样品在访客活动区域相对于RE102 的损耗，单位为 $\mathrm { d B }$ ; $L _ { \mathrm { b } }$ 为 RE102 测试的电磁辐射衰减。分析结果见图5、图6、图7。
+
+![](images/ed2ac416798c3cd5c1c973b67dd2a71d6a645fbb9fada54f09bf8ffe6c538d90.jpg)  
+图5各样品设备在综合楼使用时对FAST造成的干扰  
+Fig.5Interference caused by the use of the electronic device samples atthe main building site for FAST
+
+图5显示，在综合楼位置时， $7 0 ~ \mathrm { M H z } \sim 3 ~ \mathrm { G H z }$ 频率范围内，手机运行时，拍照功能最高超出望远镜干扰限值约 $2 0 ~ \mathrm { d B }$ ，拨号功能超出限值大于 $1 0 ~ \mathrm { d B }$ 。iPad运行时产生干扰较小，在 $3 0 0 ~ \mathrm { M H z }$ 以下的干扰大约为 $1 0 \mathrm { d B }$ 。数码相机拍照功能对望远镜造成的干扰接近 $4 0 \mathrm { d B }$ ，待机时对望远镜造成的干扰接近 $2 5 ~ \mathrm { d B }$ 。由此可知，这些设备在观测基地综合楼使用会对望远镜形成干扰。
+
+![](images/2ed40770cc5fe46729ed2457542f9b16f31a9ecf57e0c9806e6855bc88f92796.jpg)  
+Fig.6Interference caused by the use of the electronic device samples at the laboratory site for FAST
+
+图6显示，在电子实验室附近使用样品设备， $3 0 0 \mathrm { M H z }$ 以下形成的干扰与在综合楼使用造成的干扰情况相近，在 $1 { \mathrm { G H z } } \sim 1 . 5 { \mathrm { G H z } }$ 范围内干扰明显比综合楼的干扰强，比限值高出约 $2 0 ~ \mathrm { d B }$ 。 $7 0 \mathrm { M H z } { \sim } 3$ GHz频率范围内，手机产生的干扰最高可达 $2 0 \mathrm { d B }$ 。平板电脑造成的干扰大于 $1 0 ~ \mathrm { d B }$ 。数码相机拍照对望远镜的干扰大约为 $3 0 ~ \mathrm { d B }$ ，待机造成的干扰约 $2 0 ~ \mathrm { d B }$ 。
+
+![](images/5b469e746e8673aa2ac3dd428af09eaebd961db190864a94542ea137a1595268.jpg)  
+图6各样品设备在电子实验室使用时对望远镜造成的干扰  
+图7各样品设备在观景平台使用时对望远镜造成的干扰  
+Fig.7Interference caused by the use of the electronic device samplesat the viewing platform site for FAST
+
+图7显示，在观景平台使用样品设备，对FAST干扰严重。在 $7 0 0 \mathrm { M H z } \sim 3 \mathrm { G H z }$ 频率范围内，手机的干扰略大于 $4 0 ~ \mathrm { d B }$ ；平板电脑的干扰接近 $4 0 ~ \mathrm { d B }$ ；数码相机的干扰大于 $7 0 ~ \mathrm { d B }$ 。
+
+# 4结论
+
+通过测试平板电脑、手机和数码相机样品的电磁辐射情况，结合在台站访客主要活动地点综合楼、实验室和观景平台到达望远镜中心上空的传播损耗实测情况，对这些设备的可能干扰情况进行评估。分析结果显示，所选样品设备对望远镜存在不同程度的干扰。为保护望远镜的正常运行和科学产出，应对访客电子设备的管理采取相应措施，如限制访客携带电子设备进人活动区域。访客如有拍照需求，可以使用没有电磁辐射的机械式光学相机等。
+
+建议台站与当地政府协商，加强对望远镜周边访客的管理，建立针对性台站管理措施，如在望远镜 $5 \mathrm { k m }$ 外设立游客中心，代为保管访客的电子设备等，避免访客携带电子设备对望远镜的干扰。
+
+# 参考文献：
+
+[1] Nan Rendong，Li Di，Jin Chengjin，et al. The Five-hundred-meter Aperture Spherical Radio Telescope（FAST） project [J]. InternationalJournal of Modern Physics D,2011，20: 989-1024.   
+[2] Deboer D R,Cruz-Pol S L，Davis M M,et al. Radio frequencies: policy and management [J]. IEEE Transactions on Geoscience & Remote Sensing，2013，51(10）:4918-4927.   
+[3] Zhang Haiyan，Chen Zhijun，Li Bin，et al.Radio Quiet Zones in China ［C]// 31st General Assembly and Scientific Symposium of the International Union of Radio Science.2014.   
+[4] Zhang Haiyan，Nan Rendong，Peng Bo，et al. Proposed radio quiet zone around FAST in China [C]// 2O13 Asia-Pacific Symposium on Electromagnetic Compatibility.2013.   
+[5] Zhang Haiyan，Chen Zhijun，Li Bin，et al. Radio Quiet Zones in China ［C］//General Assembly and Scientific Symposium.2014:1-3.   
+[6] Beaudet C，Ford J，Minter T，et al. Radio frequency interference management effrts at the National Radio Astronomy Observatory Green Bank site [C]// Radio Science Meeting. 2013.   
+[7] 侯雨石，陈永飞，何玉青，等.数码相机原理与系统设计研究［J]．光学技术，2002，28 (5): $4 5 2 - 4 5 4 + 4 5 8$ Hou Yushi， Chen Yongfei,He Yuqing，et al. Study of digital still camera's elements and system [J].Optical Technique，2002，28(5）: $4 5 2 - 4 5 4 + 4 5 8$ ：   
+[8] 常小龙，丁国良，尹文龙，等.集成电路电磁辐射与数据相关性研究［J].计算机技术与发 展，2010，20(7)：156-159. Chang Xiaolong，Ding Guoliang，Yin Wenlong，et al.Research on correlation between ICs electromagnetic radiation and data [J]. Computer Technology & Development，2010，20（7）: 156-159.
+
+# A Study of Evaluation on Radio Interference of FAST Visitor's Electronic Devices
+
+Huang Shijie $^ { 1 , 2 }$ ， Zhang Haiyan $^ { 2 , 3 }$ ，Gan Hengqian2³，Yue Youling2,3，Hu Hao²， Song Jinyou $^ 2$
+
+1. Collge of Science，Guizhou University，Guiyang 55oo25,China，Email；huangshijie@ nao.cas.cl   
+2.National Astronomical Observatories，Chinese Academy of Sciences，Beijing 1Ooo12，China;   
+3.Key Laboratory of Radio Astronomy，Chinese Academy of Sciences，Nanjing 21Ooo8,China)
+
+Abstract:The Five-hundred-meter Aperture Spherical radio Telescope（FAST） is of high sensitivity. In order to ensure the normal operation of FAST,the study of evaluation on radio interference（RFI）caused by three electronic devices carried by FAST visitor has been carried out.The electromagnetic radiation measurements of the typical iPad，mobile phone and digital camera have been made at the microwave chamber. Moreover，the theoretical calculation and on-site measurements between the main building, laboratory，viewing platform and FAST feed have also been implemented. Combining the measurement results, theevaluation of the level of RFI generated by these three devices shows that the observation of the telescope willbe inferred by these kindsof devices more or less.According to the analysis results，the important reference for controlling the Visitor's electronic devices at the FAST site has been provided.
+
+Key words: FAST； Propagation loss；Electronic devices；Electromagnetic interference

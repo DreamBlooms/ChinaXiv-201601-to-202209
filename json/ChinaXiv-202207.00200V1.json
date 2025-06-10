@@ -1,0 +1,545 @@
+[
+    {
+        "type": "text",
+        "text": "不同重复经颅磁刺激模式对脑卒中后上肢运动功能障碍干预效果的网状Meta分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10.12114/j.issn.1007-9572.2022.0535 熊丹1²，谢海花¹²，李浩²，张泓1，谭洁1，赵宁 2\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】背景上肢运动功能障碍是脑卒中后常见的后遗症之一，严重影响患者日常生活能力。重复经颅磁刺激（rTMS）作为常见的神经电生理技术对治疗脑卒中后上肢运动功能障碍有较好的疗效，但临床对不同rTMS干预模式的选择仍缺乏循证依据。目的采用网状 Meta 分析方法比较重复经颅磁刺激的4种模式对脑卒中后上肢运动障碍患者的临床疗效。方法 计算机检索建库至 2022年2月PubMed、EMbase、The Cochrane Library、Web ofScience、中国生物医学全文数据库、中国知网、万方数据资源系统、维普中文科技期刊全文数据库中有关重复经颅磁刺激治疗脑卒中后上肢运动障碍的随机对照试验，应用 Review Manager 5.0软件和 Stata 16.0软件进行统计学分析。结果最终纳入17项研究，共790例患者。网状 Meta分析结果显示，与假刺激及常规疗法相比，4种rTMS干预模式均能显著提升脑卒中后上肢运动功能障碍患者FMA-UE、MBI、BI评分、显著降低MAS、MEP潜伏期评分。根据累积排序曲线下面积图结果显示，低频rTMS 在提升FMA-UE、MBI、BI评分方面具有优势，在降低 MAS量表评分方面,iTBS具有优势；在降低MEP潜伏期评分方面，高频rTMS要好于低频rTMS、iTBS、cTBS。结论现有证据表明，在假刺激及常规疗法对照的基础上，低频rTMS 在改善脑卒中患者上肢运动功能、日常生活能力方面的效果明显优于高频rTMS 和iTBS、cTBS；iTBS对上肢肌张力的降低具有明显优势；高频rTMS干预对皮质脊髓兴奋性的干预效果更佳。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】脑卒中；重复经颅磁刺激；theta节律刺激；上肢运动功能；网状Meta 分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of Different Repetitive Transcranial Magnetic Stimulation Modes on Upper Limb Motor Dysfunction after Stroke: a Network Meta-analysisXIONDDan12,XIE Haihudl2,LIHao²,ZHANG Hong1,TANJiel, ZHAO Ning2\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Hunan University of Traditional Chinese Medicine， Changsha 410208，China   \n2.Huazhong University of Science and Technology Union Shenzhen Hospital， Shenzhen 518052，China   \n\\*Corespondingauthor:ZHAONing，AssociateChief Physician，E-mail:29836056l@qq.com；TANJie，AssociateProfesso E-mail: 86869454@qq.com; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】 Background Upper limb motor dysfunction is one of the common complications after stroke，and seriouslyaects thedaily livingof patients.As acommon neurophysiological technique,repetitive transcranial magnetic stimulation (rTMS)hasagood efecton the treatment ofupperlimb motordysfunction after stroke.However，the selection of differentrTMS modes has notbeen identified by evidence-based studies in clinical practice.ObjectiveTo evaluate the clinical efficacyoffour modalities ofrTMS in stroke patients with upper limb motor dysfunctionby network meta-analysis. MethodsRandomized controlled trials about rTMS for treating upper limb motor dysfunction after stroke were searched in databases of PubMed，EMbase，The Cochrane Library，Web of Science，CBM，CNKI，Wanfang Database，and VIP from inception to February 2022.RevMan 5.0 software and Stata 14.O software wereused to analyze the data involved.ResultsFinally，atotalof17studies were includedand790 stroke patients were eligible for this study.Network Meta-analysis results showed that compared with sham stimulation and conventional therapy，four intervention modes of rTMS can significantly increase the FMA-UE，MBIand BI scores，and significantly decrease the MAS and MEP latency scores n patients with upper limb motor dysfunction after stroke.The surface under thecumulative ranking indicated that LF-rTMS hadadvantages inincreasingFMA-UE，MBIand BIscores.iTBSmay bethe besttherapyin decreasing the score of MAS scale.HF-rTMS may be beter than LF-rTMS，iTBS and cTBS inreducing MEP latency. ConclusionThe available evidence indicates thatLF-rTMS is significantly more effctive than HF-rTMS，iTBS，andcTBS in improving upper limb motor function and activities of daily living compared with sham stimulation and conventional therapy. iTBS has more obvious advantages in decreasing upper limb muscle tension.HF-rTMS is the best option for improving corticospinal excitability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【Key words】 Stroke；Repetitive transcranial magnetic stimulation； Theta burst stimulation；Upper limb motoldysfunction； Network meta-analysis",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "脑卒中（Cerebral Stroke，CS）又名脑血管意外，是由于脑内血管堵塞或破裂等多种原因引起的局限性或全脑功能障碍。中国每年新增脑卒中患者约 200 万[1]，其中 $5 5 \\% { \\sim } 7 5 \\%$ 患者存在不同程度上肢运动功能障碍，具体表现为上肢肌力下降、肌张力增高、关节挛缩、皮质脊髓兴奋性改变等，严重影响患者日常生活能力[2,3]。重复经颅磁刺激（repetitive transcranial magnetic stimulation，rTMS）作为近年来治疗脑卒中后上肢运动功能障碍常见的神经电生理技术，具有无痛无创、安全可靠、操作简便等特点，已在临床中取得较好的疗效[4]。目前临床上治疗脑卒中后上肢运动功能障碍的rTMS 模式主要有4种：高频rTMS（ $\\mathrm { \\Phi } > \\mathrm { l H z }$ ）（high frequency-rTMS，HF-rTMS）、低频rTMS0 $( \\leqslant 1 \\mathrm { H z }$ ）（low frequency-rTMS，LF-rTMS）、间断性 theta 节律刺激（intermitent Theta Burst Stimulation，iTBS）、连续性theta 节律刺激（continuous Theta Burst Stimulation,cTBS)[5]。网状 Meta 分析通过归纳总结所有相关的文献，排除不符合标准的文献，比较具有共同特征的多种干预措施，按照结局指标进行分析排序，获得改善疾病相关症状的最佳干预方案，为临床实践提供依据[]。因此，本研究采用网状 Meta分析，比较rTMS的4种干预模式对脑卒中后上肢运动障碍患者上肢运动功能、上肢肌张力、日常生活能力及皮质脊髓兴奋性的影响，为临床rTMS 模式的选择提供循证依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1纳入和排除标准",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1文献纳入标准（1）研究设计类型：随机对照试验（randomized controlled trial，RCT）。（2）研究对象：最小年龄或平均年龄 $\\geqslant 5 0$ 岁，经《中国各类主要脑血管病诊断要点》[7确诊为脑卒中且伴有上肢运动功能障碍的住院患者。（3）干预措施：高频rTMS、低频 rTMS、iTBS、cTBS 与假刺激的比较、与常规疗法的比较或 4种 rTMS模式之间的相互比较。（4）结局指标：Fugl-Meyer运动评分量表上肢部分（fugl-meyer assessment-upper extremity，FMA-UE），是临床上测量脑卒中后上肢运动功能的重要评估工具，总分66分，得分越高，上肢运动功能越好；改良Ashworth量表（modified ashworth scale，MAS），分为6个等级，评分为0分、1分、1.5分、2分、3分、4分，分数越高，上肢肌张力越高；改良 Barthel指数（modified barthel index，MBI）或者 Barthel指数（barthel index，BI），被广泛用于评估患者日常生活能力,满分100分,分数越高日常生活能力越好;运动诱发电位（motor evoked potential,MEP）潜伏期，包括皮层兴奋、皮质脊髓束传导、脊髓前角细胞兴奋和传导冲动所需的总时长，能客观、定量地反映皮质脊髓兴奋性，能有效地预测脑卒中患者运动功能远期康复情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2排除标准（1）非中、英文文献；（2）重复发表的文献；（3）试验数据不清晰，无法计算结局指标的平均数和标准差；（4）干预持续时间 ${ < } 2 \\mathrm { w }$ ；（5）非临床试验研究、会议论文、综述、个案报道、系统评价；（6)无法获取相关数据或全文。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2文献检索策略",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算机检索 PubMed、EMbase、The Cochrane Library、Web of Science、中国生物医学全文数据库（CBM）、中国知网数据库（CNKI）、万方数据资源系统（WanFang Database）、维普中文科技期刊全文数据库（VIP）中有关重复经颅磁刺激治疗脑卒中后上肢运动功能障碍的随机对照试验，并通过追 Meta 分析的参考文献作为补充。检索时间均为建库至2022年2月,采用主题词和自由词结合方式进行。英文检索词包括：stroke、cerebrovascular accident、transcranial magnetic stimulation、theta burst stimulation $\\cdot \\setminus$ upper limb、upper limb motor dysfunction、randomized controlledtrial。中文检索词包括：脑卒中、脑血管意外、中风、重复经颅磁刺激、theta 节律刺激、上肢、上肢运动障碍、随机对照试验。以PubMed为例，其检索策略见表1。方案已在PROSPERO注册，注册号为CRD42021285378。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f32eb141dfe47496d04abe32eed3375f9ed32a10947a778e3bd2e1ffd9557c3e.jpg",
+        "table_caption": [
+            "表1PubMed 数据库检索式",
+            "[able1Strategy for searching eligible systematic reviews included in PubMed databas( "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>步骤</td><td>检索式</td></tr><tr><td>#1</td><td>TranscranialMagnetic Stimulation[MeSHTerms]</td></tr><tr><td>#2</td><td>Repetitive Transcranial Magnetic Stimulation* OR theta burst</td></tr><tr><td>#3</td><td>stimulation OR TMS OR TBS</td></tr><tr><td>#4</td><td>#1OR#2</td></tr><tr><td>#5</td><td>Stroke[MeSHTerms]</td></tr><tr><td></td><td>Cerebrovascular Accident OR Cerebrovascular Apoplexy OR Brain</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f36dc5b46f49b9510a3dcde64f50985865ce8185580112e54752d19ac620938a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Vascular Accident OR Cerebrovascular Stroke</td></tr><tr><td>#6</td><td>#4 OR #5</td></tr><tr><td>#7</td><td>upper limb[MeSH Terms]</td></tr><tr><td rowspan=\"3\">#8</td><td>upper limb movement dysfunction OR upper extremity motor</td></tr><tr><td>dysfunction OR upper extremity movement dysfunction OR upper</td></tr><tr><td>limb motor impairment</td></tr><tr><td>#9</td><td>#7 OR #8</td></tr><tr><td>#10</td><td>randomized controlled trial[MeSH Terms]</td></tr><tr><td rowspan=\"2\">#11</td><td>randomized controlled study OR randomized clinical trial OR</td></tr><tr><td>controlled clinical Trial</td></tr><tr><td>#12</td><td>#10 OR #11</td></tr><tr><td>#13</td><td>#3 AND #6 AND #9 AND #12</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3文献筛选与资料提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究为保证数据的准确性和严谨性，由2名研究者根据纳入和排除标准独立进行文献筛选、数据提取并交叉核对，提取内容包括纳入文献基线特征（例数、年龄、性别、偏瘫侧、分组、结局指标）、rTMS 具体参数和治疗方案（刺激频率、刺激强度、总脉冲数、刺激部位、线圈类型、治疗方案及持续时间）、偏倚风险评价等相关信息。两名研究者将检索到的研究导入EndnoteX9软件，先查重再去除重复的文献，通过阅读剩余文献的标题及摘要将不符合标准的文章排除，如综述、meta分析等，最后由2名研究者通过下载全文并进行全文筛选确定最终纳入研究。若在以上过程中出现分歧，与第3名研究人员进行讨论解决。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4纳入研究的偏倚风险评价",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用 Review Manager 5.0 软件对纳入研究进行总体偏倚风险评估和各文献偏倚风险评估，两名研究人员根据Cochrane 手册推荐的评估内容对所有纳入研究进行偏倚风险评估，先独立完成再进行交叉核对。评估内容包含：□随机方法；□盲法；□分配隐藏；□结局指标数据完整性；□选择性报告；□其他偏倚来源。根据以上6个方向对纳入研究进行逐一评估，其中每项内容均包括低风险、不清楚和高风险3个级别，在评价过程中遇到分歧与第三名研究者讨论解决。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 统计学分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究通过Stata16.0软件进行异质性检验，根据I和 $P$ 值判断研究的异质性大小： $1 ^ { 2 } \\leqslant 5 0 \\%$ 且 $P { > } 0 . 0 5$ 认为纳入文献无统计学异质性，采用固定效应模型分析； $1 ^ { 2 } > 5 0 \\%$ 或 $\\scriptstyle P \\leqslant 0 . 0 5$ 则说明纳入文献有统计学异质性，采用随机效应模型分析。除此之外，本文通过 stata16.0软件对rTMS 刺激强度和总脉冲数、治疗时间进行亚组分析以探究其对疗效的影响，若各亚组间 $P { \\geqslant } 0 . 0 5$ ，表明各亚组组间无明显统计学差异，提示其对疗效无统计学影响。同时本研究 Stata16.0软件的“mvmeta”命令进行网状Meta分析，绘制各干预措施间的证据网络图、漏斗图、累积排序曲线下面积图（surface under the cumulative ranking，SUCRA），本研究FMA-UE、MAS、MBI、BI、MEP 潜伏期评分均为连续性变量，因此效应量均采用标准化均数差（standardized mean difference，SMD）与 $9 5 \\%$ 可信区间（confidenceinterval，CI）表示，当存在闭合环时，使用节点分析进行不一致性检验。根据漏斗图判断是否存在发表偏倚或者小样本研究效应。通过累积排序曲线下面积概率预测各干预措施干预效果的排序，当 SUCRA为1时证明干预绝对有效，而 SUCRA为0时则证明干预绝对无效。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1文献筛选流程及结果 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依据检索式初步检索八大数据库共获得1760篇相关文献（中文656篇，英文1104 篇），利用 Endnote X9剔除重复文献740篇，通过阅读文献标题摘要排除774篇，下载并阅读全文后去除 229篇，最终纳入17篇，文献筛选流程见图1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "检索获得文献(n=1648):PubMed(n=248)、 通过其  \nEMbase (n=260)、The Cochrane Library 他检索  \n(n=310)、Web of Science(n=286)、中国 途径获  \n生物医学全文数据库(n=124)、中国知网 得相关  \n(n=130)、万方数据资源系统(n=164）、维 文献  \n普数据库(n=126) (n=112)剔重后获得文献（n=1020）阅读文题和摘要后(n=1020)排除文献的数量及原因（n=774)：综述、经验类文献（n=177)动物实验研究（n=135)·设计类型不符（n=239)·系统综述(n=89)·重复发表(n=62)·个案报道(n=72)阅读全文复筛(n=246)排除文献的数量及原因（n=229)：非RCT(n=35）·治疗时间小于两周（n=30）·联合其他治疗（n=81)无相关结局指标（n=83）纳入文献(n=17)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2纳入文献的基本特征和偏倚风险评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "纳入的17篇文献中2篇为三臂试验，172例患者。涉及HF-rTMS 文献6篇、LF-rTMS 文献9篇、iTBS 文献 4篇、cTBS 文献2篇、假刺激文献12篇与常规疗法文献3篇。文献的基本特征见表2、纳入研究的rTMS 参数和治疗方案见表3，偏倚风险评价结果见表4。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/35cdacab4383b285297c59f3f25b34e5699cc24d0c26160cd13a2b70b6923cc5.jpg",
+        "table_caption": [
+            "表2纳入研究的基本特征",
+            "Table 2Characteristics of the included studies "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">7 纳入研究</td><td rowspan=\"2\">样本量 (T/C)</td><td colspan=\"2\">年龄 (岁)</td><td rowspan=\"2\">性别 （男/女）</td><td rowspan=\"2\">偏瘫侧 （右/左）</td><td colspan=\"2\">分组</td><td rowspan=\"2\">结局指标</td></tr><tr><td>试验组</td><td>对照组</td><td>试验组</td><td>对照组</td></tr><tr><td>N 肖长林等(2019)[8]</td><td>15/17</td><td>63.7±11.0</td><td>58.7±10.8</td><td>21/11</td><td>15/17</td><td>HF-rTMS</td><td>假刺激</td><td>□□□</td></tr><tr><td>梁绮婷等(2018)[9]</td><td>38/38</td><td>64.3±11.8</td><td>65.5±10.5</td><td>47/31</td><td>1</td><td>HF-rTMS</td><td>常规疗法</td><td>①③</td></tr><tr><td>周哲等(2020)[10]</td><td>30/28</td><td>59.7±10.4</td><td>61.8±11.4</td><td>41/17</td><td>28/30</td><td>HF-rTMS</td><td>假刺激</td><td>□□□</td></tr><tr><td>王玉琴等(2020)[11]</td><td>36/36</td><td>52.0±6.9</td><td>53.1±6.8</td><td>41/31</td><td>28/44</td><td>LF-rTMS</td><td>假刺激</td><td>①③④</td></tr><tr><td>刘阅等(2018)[12]</td><td>10/13</td><td>56.9±9.0</td><td>55.4±8.4</td><td>14/9</td><td>9/14</td><td>LF-rTMS</td><td>常规疗法</td><td>□□</td></tr><tr><td>李冰洁等(2016)[13]</td><td>20/20</td><td>51.5±7.1</td><td>51.4±6.6</td><td>23/17</td><td>25/15</td><td>LF-rTMS</td><td>常规疗法</td><td>①③④</td></tr><tr><td>Anna 等(2021)[14]</td><td>14/14</td><td>63.9±10.9</td><td>62.4±11.5</td><td>12/16</td><td>8/20</td><td>LF-rTMS</td><td>假刺激</td><td>□</td></tr><tr><td>Joanna 等(2012)[15]</td><td>20/20</td><td>63.5±8.9</td><td>63.4±9.2</td><td>26/14</td><td>23/17</td><td>LF-rTMS</td><td>假刺激</td><td>□</td></tr><tr><td>汤昕未等(2018)[16]</td><td>8/8</td><td>53.8±10.8</td><td>55.6±14.6</td><td>14/2</td><td>14/2</td><td>iTBS</td><td>假刺激</td><td>①③</td></tr><tr><td>Chen 等(2019)[17]</td><td>11/11</td><td>52.9±11.1</td><td>52.6±8.3</td><td>14/8</td><td>15/7</td><td>iTBS</td><td>假刺激</td><td>品</td></tr><tr><td>Yu 等(2021)[18]</td><td>12/11</td><td>54.4±10.6</td><td>48.9±9.6</td><td>18/5</td><td>18/5</td><td>iTBS</td><td>假刺激</td><td>品</td></tr><tr><td>Yi 等(2021)[19]</td><td>16/16</td><td>57.4±8.0</td><td>51.4±9.2</td><td>7/25</td><td>13/19</td><td>iTBS</td><td>假刺激</td><td>③4</td></tr><tr><td>Kuzu 等(2021)[20]</td><td>7/6</td><td>61.3±9.8</td><td>65.3±4.6</td><td>8/5</td><td>8/5</td><td>cTBS</td><td>假刺激</td><td>□</td></tr><tr><td>Cha 等(2021)[21]</td><td>20/20</td><td>67.6±7.2</td><td>69.1±6.0</td><td>25/15</td><td>1</td><td>HF-rTMS</td><td>LF-rTMS</td><td>□</td></tr><tr><td>Kondo 等(2017)[22]</td><td>71/32</td><td>62.3±12.5</td><td>60.0±14.2</td><td>73/30</td><td>47/56</td><td>LF-rTMS</td><td>cTBS</td><td>□</td></tr><tr><td>孟祥民等(2016)[23]</td><td>14/17/14</td><td>57.4±13.3/55 .1±12.9</td><td>51.2±14.1</td><td>33/12</td><td>30/15</td><td>HF-rTMS、</td><td>假刺激</td><td>④</td></tr><tr><td>Li 等(2016)[24]</td><td>43/42/42</td><td>54.0±13.4/57 .9±12.9</td><td>53.1±13.7</td><td>87/40</td><td>59/68</td><td>LF-rTMS HF-rTMS、 LF-rTMS</td><td>假刺激</td><td>④</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：HF-rTMS：高频重复经颅磁刺激；LF-rTMS：低频重复经颅磁刺激；iTBS：间断性theta 节律刺激；cTBS：连续性 theta节律刺激；常规疗法：药物治疗、康复治疗；口为Fugl-Meyer 运动评分量表上肢部分；□为改良 Ashworth 量表； $\\textcircled{3}$ 为（改良）Barthel指数； $\\textcircled{4}$ 为运动诱发电位潜伏期；-为无此项数据。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/53440d227ab07649b9b96604afac45c20912cdc696263aa089d2059c1d661f36.jpg",
+        "table_caption": [
+            "Table 3rTMS parameters and treatment regimens of the included studies "
+        ],
+        "table_footnote": [
+            "注：RMT：静息运动阈值；AMT：活动运动阈值；C3、C4：脑电波10/20系统，M1点后2厘米处；M1：初级运动皮质区；min：分钟；s:秒"
+        ],
+        "table_body": "<html><body><table><tr><td>纳入研究</td><td>频率(Hz)</td><td>刺激强度</td><td>总脉冲数</td><td>刺激部位</td><td>线圈类型</td><td>治疗方案及持续时间</td></tr><tr><td>肖长林等(2019)[8]</td><td>10</td><td>90% RMT</td><td>900</td><td>患侧C3、C4</td><td>\"8\"字形线圈</td><td>9 min/次，5次/周，持续2周</td></tr><tr><td>梁绮婷等(2018)[9]</td><td>3</td><td>90%～120% AMT</td><td>900</td><td>患侧C3、C4</td><td>“8\"字形线圈</td><td>20 min/次，持续治疗2周后休息 2天，持续8周</td></tr><tr><td>周哲等(2020)[10]</td><td>5</td><td>80%RMT</td><td>1200</td><td>患侧M1</td><td>\"8\"字形线圈</td><td>5min/次，5次/周，持续3周</td></tr><tr><td>王玉琴等(2020)[1]</td><td>1</td><td>80%AMT</td><td>600</td><td>健侧M1</td><td>“8\"字形线圈</td><td>10min/次，5次/周，持续4周</td></tr><tr><td>刘阅等(2018)[12]</td><td>1</td><td>90% AMT</td><td>1200</td><td>健侧M1</td><td>“8\"字形线圈</td><td>24min/次，5次/周，持续8周</td></tr><tr><td>李冰洁等(2016)[13]</td><td>1</td><td>80%AMT</td><td>600</td><td>健侧M1</td><td>“8\"字形线圈</td><td>10min/次，5次/周，持续2周</td></tr><tr><td>Anna 等(2021)[14]</td><td>1</td><td>100%RMT</td><td>1200</td><td>健侧M1</td><td>“8\"字形线圈</td><td>10min/次，5次/周，持续2周</td></tr><tr><td>Joanna 等(2012)[15]</td><td>1</td><td>90%RMT</td><td>1200</td><td>健侧M1</td><td>\"8\"字形线圈</td><td>30min/次，5次/周，持续3周</td></tr><tr><td>汤昕未等(2018)[16] Q</td><td>50-5</td><td>70%RMT</td><td>600</td><td>患侧M1</td><td>圆形线圈</td><td>200s/次，5次/周，持续2周</td></tr><tr><td>Chen 等(2019)[17]</td><td>50-5</td><td>80%AMT</td><td>600</td><td>患侧M1</td><td>“8\"字形线圈</td><td>200s/次，5次/周，持续2周</td></tr><tr><td></td><td>50-5</td><td>80%AMT</td><td>1200</td><td>健侧M1</td><td>“8\"字形线圈</td><td>200s/次，5次/周，持续3周</td></tr><tr><td>Yi等(2021)[19]</td><td>50-5</td><td>80%AMT</td><td>600</td><td>患侧小脑</td><td>“8\"字形线圈</td><td>200s/次，5次/周，持续2周</td></tr><tr><td>Kuzu 等(2021)[20]</td><td>50-5</td><td>80%AMT</td><td>600</td><td>健侧M1</td><td>“8\"字形线圈</td><td>200S/次，5次/周，持续2周</td></tr><tr><td>2Cha 等(2021)[21] 2</td><td>10/1</td><td>90% RMT</td><td>1000/1350</td><td>患侧 M1/健侧 M1</td><td>“8\"字形线圈</td><td>20min/次，5次/周，持续2周</td></tr><tr><td>Kondo 等(2017)[22] 2</td><td>1/50-5</td><td>90%RMT/80%AMT</td><td>2400</td><td>运动皮质</td><td>“8\"字形线圈</td><td>20min/次，每周6次，共2周 160s/次，每周6次，共2周</td></tr><tr><td>孟祥民等(2016)[23]</td><td>10/1</td><td>80%AMT</td><td>1350</td><td>健侧 M1/患侧 M1</td><td>圆形线圈</td><td>20min/次，5次/周，持续2周</td></tr><tr><td>Li等(2016)[24]</td><td>10/1</td><td>80%AMT</td><td>1000</td><td>健侧 M1/患侧 M1</td><td>圆形线圈</td><td>20min/次，5次/周，持续2周</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9f00f024e4de0da733486763075ae22bdbb69b0f85a2b87fa4523d2c9aa4148.jpg",
+        "table_caption": [
+            "表3纳入研究的rTMS参数和治疗方案",
+            "表4纳入研究的偏倚风险评价结果",
+            "Table 4Risk ofbias of the included studies "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>纳入研究</td><td>随机方法</td><td>盲法</td><td>分配隐藏</td><td>结果数据的完整性</td><td>选择性报告研究结果</td><td>其他偏倚来源</td></tr><tr><td>肖长林等(2019)[8]</td><td>随机数字表</td><td>单盲</td><td>不清楚</td><td>有失访</td><td>香</td><td>不清楚</td></tr><tr><td>梁绮婷等(2018)[9]</td><td>计算机随机</td><td>不清楚</td><td>不清楚</td><td>无失访</td><td>香</td><td>不清楚</td></tr><tr><td>周哲等(2020)[10]</td><td>随机数字表</td><td>单盲</td><td>不清楚</td><td>无失访</td><td>香</td><td>不清楚</td></tr><tr><td>王玉琴等(2020)[11]</td><td>随机数字表</td><td>单盲</td><td>不清楚</td><td>无失访</td><td>香</td><td>不清楚</td></tr><tr><td>刘阅等(2018)[12]</td><td>随机数字表</td><td>单盲</td><td>不清楚</td><td>无失访</td><td>香</td><td>不清楚</td></tr><tr><td>李冰洁等(2016)[13]</td><td>随机数字表</td><td>不清楚</td><td>不清楚</td><td>无失访</td><td>香</td><td>不清楚</td></tr><tr><td>Anna 等(2021)[14]</td><td>计算机随机</td><td>双盲</td><td>不清楚</td><td>有失访</td><td>香</td><td>不清楚</td></tr><tr><td>Joanna 等(2012)[15]</td><td>计算机随机</td><td>双盲</td><td>不清楚</td><td>意向性分析</td><td>香</td><td>不清楚</td></tr><tr><td>汤昕未等(2018)[16]</td><td>计算机随机</td><td>单盲</td><td>不清楚</td><td>无失访</td><td>香</td><td>不清楚</td></tr><tr><td>Chen 等(2019)[17]</td><td>计算机随机</td><td>单盲</td><td>有</td><td>无失访</td><td>香</td><td>不清楚</td></tr><tr><td>Yu 等(2021)[18]</td><td>计算机随机</td><td>双盲</td><td>不清楚</td><td>有失访</td><td>香</td><td>不清楚</td></tr><tr><td>Yi 等(2021)[19]</td><td>随机数字表</td><td>双盲</td><td>不清楚</td><td>意向性分析</td><td>香</td><td>不清楚</td></tr><tr><td>Kuzu 等(2021)[20]</td><td>计算机随机</td><td>双盲</td><td>不清楚</td><td>无失访</td><td>否</td><td>不清楚</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/186156e6136e472c5d33d82bafa1f44e258120b1fd9b5667984a6be073fb30ca.jpg",
+        "table_caption": [
+            "ChinaXiv合作期刊"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Cha 等(2021)[21]</td><td>随机数字表</td><td>单盲</td><td>不清楚</td><td>无失访</td><td>香</td><td>不清楚</td></tr><tr><td>Kondo 等(2017)[22]</td><td>不清楚</td><td>双盲</td><td>不清楚</td><td>有失访</td><td>香</td><td>不清楚</td></tr><tr><td>孟祥民等(2016)[23]</td><td>随机数字表</td><td>不清楚</td><td>不清楚</td><td>无失访</td><td>香</td><td>不清楚</td></tr><tr><td>Li 等(2016)[24]</td><td>随机数字表</td><td>双盲</td><td>不清楚</td><td>有失访</td><td>香</td><td>不清楚</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3一致性分析结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分别有16项[-18,20-24]、7项[8,10,12,14,17,18,20]、8项[8-13,16,19]、5项[1,13,19,23,24RCT研究比较了6种干预措施对脑卒中后上肢运动功能障碍患者上肢运动功能、上肢肌张力、日常生活能力和皮质脊髓兴奋性的影响。其中，rTMS的4种干预模式对脑卒中患者上肢运动功能和皮质脊髓兴奋性的影响的证据网络存在闭环。对其结果进行不一致性检验，总体不一致性检验结果为 $P { = } 0 . 0 8 3 { > } 0 . 0 5$ 和 $P { = } 0 . 1 3 8 { > } 0 . 0 5$ ，局部不一致检验所有 $P$ 值均 ${ > } 0 . 0 5$ ，没有证据表明网络模型存在不一致性，可以使用一致性模型分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4异质性检验和亚组分析结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文对FMA-UE、MAS、MBI、BI、MEP 潜伏期进行异质性检验，结果均显示 $1 ^ { 2 } < 5 0 \\%$ 且 $P { > } 0 . 0 5$ ，故本研究采用固定效应模型。本文对rTMS 刺激强度和总脉冲数、治疗时间进行亚组分析，结果显示刺激强度各亚组间 $P { = } 0 . 0 6$ ${ > } 0 . 0 5$ ，总脉冲数各亚组间 $P { = } 0 . 0 7 { > } 0 . 0 5$ ，治疗时间各亚组间 $P { = } 0 . 0 8 7 { > } 0 . 0 5$ ，没有证据表明rTMS刺激强度和总脉冲数、治疗时间对疗效有统计学影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5网状Meta分析结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5.1证据网络图rTMS不同刺激模式都与假刺激进行直接比较，其中Fugl-Meyer评定量表上肢部分显示高频rTMS-低频rTMS、低频rTMS-cTBS之间存在直接比较,MEP 潜伏期显示高频rTMS-低频rTMS之间存在直接比较，图中每个节点代表一种干预措施，节点之间线条代表两干预措施存在直接比较，节点大小代表干预措施总样本量，线条粗细代表直接比较的研究数，见图2。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5.2FMA-UE共有16项研究[8-18,20-24]，758例受试者，与假刺激及常规疗法相比，4种rTMS 干预模式作用效果均有显著性，低频rTMS 效果优于其他3种rTMS干预模式。排序结果显示，LF-rTMS（ $7 9 . 9 \\%$ ） $>$ cTBS（ $7 5 . 3 \\%$ ）$>$ HF-rTMS（ $71 . 1 \\%$ ） $>$ iTBS（ $45 . 8 \\%$ ） $>$ 假刺激（ $20 . 2 \\%$ ） $>$ 常规疗法（ $7 . 7 \\%$ ），见表5、表9、图3。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5.3MAS共有7项研究[8,10,12,14,17,18,20]，199例受试者，与假刺激及常规疗法相比，4种rTMS 干预模式作用效果均有显著性，iTBS 效果优于其他3种rTMS 干预模式。排序结果显示，iTBS（ $7 7 . 0 \\%$ ） $>$ LF-rTMS（ $64 . 1 \\%$ ）>cTBS ( $6 1 . 0 \\%$ ） $>$ HF-rTMS（ $3 8 . 0 \\%$ ） $>$ 假刺激（ $30 . 6 \\%$ ） $>$ 常规疗法（ $2 9 . 2 \\%$ ），见表6、表9、图4。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5.4MBI、BI 共有8项研究[8-13,16,19]，349例受试者，与假刺激及常规疗法相比，3种rTMS 干预模式作用效果均有显著性，低频rTMS 效果优于其他2种rTMS干预模式。排序结果显示，LF-rTMS（96.4） $>$ iTBS( $74 . 9 \\%$ ） $>$ HF-rTMS( $3 8 . 6 \\%$ ） $>$ 假刺激（ $30 . 7 \\%$ ） $>$ 常规疗法（ $9 . 4 \\%$ ），见表7、表9、图5。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5.5MEP 潜伏期共有 5项研究[11,13,19,23,24]，316例受试者，与假刺激及常规疗法相比，3种rTMS 干预模式作用效果均有显著性，高频rTMS 效果优于其他2种rTMS 干预模式。排序结果显示，HF-rTMS（ $80 . 0 \\%$ ） $>$ LF-rTMS（ $78 . 9 \\%$ ） $>$ 常规疗法（ $5 8 . 8 \\%$ ） $>$ iTBS（ $24 . 8 \\%$ ） $>$ 假刺激（ $7 . 5 \\%$ ），见表8、表9、图6。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e1eee9613378f3340b45224e47a13fe0b2f6d72bdfa0ab000aa57e769225fc9.jpg",
+        "img_caption": [
+            "注：A为HF-rTMS，B为LF-rTMS，C为iTBS，D为cTBS，E为假刺激，F为常规疗法",
+            "图2不同rTMS干预模式治疗脑卒中后上肢运动功能障碍的证据网络图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure2Evidence network plotof diferent rTMS intervention modes for upper limb motor dysfunction after stroke表9不同rTMS干预模式对脑卒中后上肢运动障碍患者干预效果的SUCRA排序表",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/464eaad5a4b35772d78c5acb284159eeccea20d8076a71c8806ad954114306d1.jpg",
+        "table_caption": [
+            "注：-为无此项数据；SMD $\\vDash$ 标准化均数差； $\\mathrm { C I } = \\stackrel { \\cdot } { }$ 可信区间表5不同rTMS干预模式提高脑卒中后上肢运动障碍患者FMA-UE 评分的网状Meta 分析（SMD（ $9 5 \\% C \\mathrm { T } \\$ ））able5Networkmeta-analysisofdiferentrMS interventionmodesinincreasingtheFMA-UEscoreforstrokepatients withupperlimotor dysfunction"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>干预方案</td><td>HF-rTMS</td><td>LF-rTMS</td><td>iTBS</td><td>cTBS</td><td>假刺激</td></tr><tr><td>LF-rTMS</td><td>0.94 (0.69,1.27)</td><td>1</td><td>1</td><td></td><td></td></tr><tr><td>iTBS</td><td>1.27 (0.68,2.37)</td><td>1.35 (0.73,2.50)</td><td>1</td><td>一</td><td>一</td></tr><tr><td>cTBS</td><td>0.94 (0.53,1.68)</td><td>1.00 (0.61,1.66)</td><td>0.74 (0.34,1.62)</td><td>1</td><td>一</td></tr><tr><td>假刺激</td><td>1.61 (1.19,2.17)</td><td>1.71 (1.29,2.26)</td><td>1.27 (0.73,2.19)</td><td>1.70 (0.98,2.96)</td><td>1</td></tr><tr><td>常规疗法</td><td>1.93 (1.24,3.00)</td><td>2.05 (1.32,3.18)</td><td>1.52 (0.73,3.15)</td><td>2.04 (1.05,3.95)</td><td>1.20 (0.74,1.95)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d1a9a907b78f644bd28a947b3ef595fd0e07e131f60e280520b9cbd2074de2a4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>干预方案</td><td>HF-rTMS</td><td>LF-rTMS</td><td>iTBS</td><td>cTBS</td><td>假刺激</td></tr><tr><td>LF-rTMS</td><td>1.28 (0.64,2.56)</td><td></td><td></td><td>1</td><td></td></tr><tr><td>iTBS</td><td>1.64 (0.65,4.18)</td><td>1.29 (0.47,3.53)</td><td></td><td>1</td><td></td></tr><tr><td>cTBS</td><td>1.33 (0.41,4.31)</td><td>1.04 (0.30,3.58)</td><td>0.81 (0.20,3.22)</td><td>1</td><td></td></tr><tr><td>假刺激</td><td>0.95 (0.63,1.44)</td><td>0.75 (0.43,1.31)</td><td>0.58 (0.25,1.34)</td><td>0.72 (0.24,2.16)</td><td>1</td></tr><tr><td>常规疗法</td><td>0.87 (0.29,2.57)</td><td>0.68 (0.30,1.56)</td><td>0.53 (0.14,1.95)</td><td>0.65 (0.15,2.90)</td><td>0.91 (0.33,2.48)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/aca37631ea3532176bc198bace51c1b852f42cbec678a3bbb121534616592234.jpg",
+        "table_caption": [
+            "表6不同rTMS干预模式降低脑卒中后上肢运动障碍患者MAS评分的网状Meta分析（SMD（ $9 5 \\% C \\mathrm { I }$ ））Table6Network meta-analysisofdiferentrTMS intervention modesindecreasingtheMASscoreforstrokepatients withupper limbmotor dysfunction"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>干预方案</td><td>HF-rTMS</td><td>LF-rTMS</td><td>iTBS</td><td>假刺激</td></tr><tr><td>LF-rTMS</td><td>1.28 (0.64,2.56)</td><td>1</td><td></td><td></td></tr><tr><td>iTBS</td><td>1.64 (0.65,4.18)</td><td>1.29 (0.47,3.53)</td><td>1</td><td>一</td></tr><tr><td>假刺激</td><td>0.95 (0.63,1.44)</td><td>0.75 (0.43,1.31)</td><td>0.58 (0.25,1.34)</td><td>1</td></tr><tr><td>常规疗法</td><td>0.87 (0.29,2.57)</td><td>0.68 (0.30,1.56)</td><td>0.53 (0.14,1.95)</td><td>0.91 (0.33,2.48)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0f4603cc242c780577a7032f7bcb624fc236b9599eb3a5fd9c4474f32be5d53.jpg",
+        "table_caption": [
+            "表7不同rTMS干预模式提高脑卒中后上肢运动障碍患者MBI和BI评分的网状 Meta分析（SMD（ $9 5 \\% C \\mathrm { I }$ ））Table7Network meta-analysisofdiferentrTMS intervention modes inincreasingthe MBIandBIscores forstroke patients withupperlimb motor dysfunction"
+        ],
+        "table_footnote": [
+            "表8不同rTMS干预模式缩短脑卒中后上肢运动障碍患者MEP 潜伏期的网状 Meta 分析（SMD（ $9 5 \\% \\mathrm { C I } \\dot { }$ ））Table8Network meta-analysisofdiferentrTMS interventionmodesinreducingtheMEPlatencyforstrokepatients withupperlimbmotor dysfunction"
+        ],
+        "table_body": "<html><body><table><tr><td>干预方案</td><td>HF-rTMS</td><td>LF-rTMS</td><td>iTBS</td><td>假刺激</td></tr><tr><td>LF-rTMS</td><td>0.42 (0.26,0.68)</td><td>1</td><td></td><td></td></tr><tr><td>iTBS</td><td>0.62 (0.31,1.23)</td><td>1.46 (0.72,2.99)</td><td>1</td><td>1</td></tr><tr><td>假刺激</td><td>1.04 (0.72,1.51)</td><td>2.48 (1.63,3.76)</td><td>1.69 (0.95,3.01)</td><td>1</td></tr><tr><td>常规疗法</td><td>1.26 (0.85,1.88)</td><td>3.00 (1.93,4.68)</td><td>2.05 (0.97,4.31)</td><td>1.21 (0.76,1.94)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2165117f9e0bc9f692fad735694a51211a2545a64fad7f44263b150ae7b9238e.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：-为无此项数据"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">干预方案</td><td colspan=\"3\">FMA-UE</td><td colspan=\"3\">MAS</td><td colspan=\"3\">MBI、BI</td><td colspan=\"3\">MEP 潜伏期</td></tr><tr><td>SUCRA</td><td>最优概</td><td>平均</td><td>SUCRA</td><td>最优概</td><td>平均</td><td>SUCRA</td><td>最优概</td><td>平均</td><td>SUCRA</td><td>最优概</td><td>平均</td></tr><tr><td></td><td>值(%)</td><td>率(%)</td><td>排序</td><td>值(%)</td><td>率(%)</td><td>排序</td><td>值(%)</td><td>率(%)</td><td>排序</td><td>值(%)</td><td>率(%)</td><td>排序</td></tr><tr><td>HF-rTMS</td><td>71.1</td><td>20.1</td><td>2.4</td><td>38</td><td>2.6</td><td>4.1</td><td>38.6</td><td>0.0</td><td>3.5</td><td>80</td><td>43.8</td><td>1.8</td></tr><tr><td>LF-rTMS</td><td>79.9</td><td>29.2</td><td>2.0</td><td>64.1</td><td>14.7</td><td>2.8</td><td>96.4</td><td>85.6</td><td>1.1</td><td>78.9</td><td>33.2</td><td>1.8</td></tr><tr><td>iTBS</td><td>45.8</td><td>9.8</td><td>3.7</td><td>77.0</td><td>45.5</td><td>2.1</td><td>74.9</td><td>14.4</td><td>2.0</td><td>24.9</td><td>2.1</td><td>4.0</td></tr><tr><td>cTBS</td><td>75.3</td><td>40.9</td><td>2.2</td><td>61.0</td><td>31.0</td><td>2.9</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>假刺激</td><td>20.2</td><td>0.0</td><td>5.0</td><td>30.6</td><td>0.2</td><td>4.5</td><td>30.7</td><td>0.0</td><td>3.8</td><td>7.5</td><td>0.0</td><td>4.7</td></tr><tr><td>常规疗法</td><td>7.7</td><td>0.0</td><td>5.6</td><td>29.2</td><td>6.1</td><td>4.5</td><td>9.4</td><td>0.0</td><td>4.6</td><td>58.8</td><td>20.9</td><td>2.7</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 9Table of SUCRA scores ofdiferent rTMS intervention modes for stroke patients with upper limb motor dysfunctio igure3SUCRAofdifferent rTMS intervention modes in increasing theFMA-UE score for strokepatients withupper limb mc ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e54a4f0eda9fc47dd9e2c346f601e42c06df0606e809d11d02cd9f2b2592c42.jpg",
+        "img_caption": [
+            "注：以上各图横坐标均为干预措施排序，纵坐标均为累积曲线下面积"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7d1a98efd0aea61ece91f6b9f6a0c3a49ca200787b62025a1a6a30793435aca.jpg",
+        "img_caption": [
+            "图3不同rTMS 干预模式提高脑卒中后上肢运动障碍患者FMA-UE 评分的 SUCRA排序图",
+            "图4不同rTMS干预模式降低脑卒中后上肢运动障碍患者MAS评分的SUCRA排序图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure4SUCRAof diferentrTMS intervention modes indecreasing the MAS score for stroke patients with upperlimb motol ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "dysfunction ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b335457cfc3b7f5f2b68203dbdadd8b63cee481dcf5f0832c278dce5b9a6d338.jpg",
+        "img_caption": [
+            "图5不同rTMS干预模式提高脑卒中后上肢运动障碍患者MBI和BI评分的 SUCRA 排序图Figure5SUCRAofdiffrentrTMSinterventionmodes in increasingtheMBIandBIscoresforstrokepatients withupperlimb motordysfunction"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f273cd84287d45972c85fb968b52080be9714abbb13a1a2aba9797eb8da4848.jpg",
+        "img_caption": [
+            "图6不同rTMS干预模式缩短脑卒中后上肢运动障碍患者MEP潜伏期的SUCRA排序图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure6SUCRAofdiferent rTMS interventionmodes inreducing the MEP latency forstroke patients withupperlimb motor dysfunction ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6校正比较漏斗图",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通常当 Meta 分析的纳入研究大于10 个时，推荐绘制漏斗图。因此对rTMS 的 4 种刺激模式对脑卒中患者FMA-UE评分影响的16项研究绘制了漏斗图，尚无证据说明FMA-UE纳入的Meta分析存在小样本研究效应或发表偏倚的可能性，见图7。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5ea44fcdc33d3a01034c35f0be77e941bd6dce4e624e179608342f9258b40fb.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注：A为HF-rTMS，B为LF-rTMS，C为iTBS，D为cTBS，E为假刺激，F为常规疗法",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2068ac08f3a2eaab68fad95c23b9b76ed612dfa5039e294fb049107f29d402c2.jpg",
+        "img_caption": [
+            "图7不同rTMS干预模式在提高脑卒中后运动功能障碍患者FMA-UE 评分方面的校正漏斗图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure7CorrectedfumelplotofdiffretrMS interventionmodesinincreasingtheMA-UEscoreforstrokepatients withupperli motor dysfunction ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究综合了17项RCT研究的FMA-UE、MAS、MBI、BI、MEP 潜伏期得分，分别比较了6种干预措施对脑卒中后上肢运动功能障碍患者上肢运动功能、上肢肌张力、日常生活能力、皮质脊髓兴奋性的干预效果。以往发表的Meta分析[25-27]大多通过传统 Meta 分析的方法总结和对比了低频、高频rTMS 对脑卒中后上肢运动功能障碍患者的干预效果，目前没有研究详细探讨rTMS 的4种模式对脑卒中患者上肢运动功能障碍干预效果的差异。因此，本研究通过结合以往所有直接比较和间接比较的随机对照试验，获得rTMS 的4种模式对脑卒中后上肢运动障碍患者干预效果的比较评价。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "上肢运动功能是人们进行正常生活与工作的基础，脑卒中的发生会直接损害患者中枢神经系统，导致患者出现不同程度上肢运动功能障碍[28]。研究[29,30]发现在运动康复过程中，上肢运动功能的恢复常常落后于下肢，导致患者日常生活能力恢复缓慢，严重影响患者的生活质量。本研究显示，与假刺激及常规疗法相比，高频rTMS、低频rTMS、iTBS、cTBS均可提高脑卒中后上肢运动功能障碍患者上肢运动功能、日常生活能力，但是低频rTMS 治疗效果最佳。以往研究表明[31,32],当低频rTMS 作用于不同病程的脑卒中患者时，健侧大脑对患侧大脑胼抵体抑制作用降低，患侧大脑兴奋性相对升高，双侧大脑半球兴奋性趋于平衡，最终使患者上肢运动功能恢复。Blesneag 等[33]发现与假刺激组相比，采用1HzrTMS干预健侧以后，健侧大脑半球兴奋性下降，而患侧大脑半球兴奋性上升，在90天以后，两个半球之间的兴奋性趋于平衡。陈娟等[34]运用低频rTMS 刺激联合运动康复干预脑卒中后运动功能障碍患者，结果显示运动功能评分明显高于实施单纯康复干预的患者，提示低频rTMS 刺激干预能加快脑卒中患者肢体功能的恢复进程。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "大脑皮质在重塑时会出现去抑制状态，造成皮质脊髓束过度兴奋，使患者牵张反射亢进，呈现患侧上肢屈肌肌张力增高状态[35,36]。本研究结果表明，iTBS 干预是改善脑卒中患者上肢肌张力的最佳干预模式。目前没有研究发现 TBS 的具体作用机制，有研究表明[37,38]TBS 主要通过改变突触前膜钙离子内流，激活大脑信号通路，改变多种基因和相关蛋白表达，促进突触发生可塑性变化。iTBS 可快速诱导大脑皮层兴奋性的增强[39]，而cTBS 能引起长时程的抑制性作用，使大脑皮层兴奋性降低[40]。McIntyre 等[41的 Meta 分析比较了高频与低频 rTMS 对脑卒中患者痉挛的效果，结果显示高频rTMS 和低频rTMS 治疗对腕关节肌张力没有显著疗效。Kim等[42]发现iTBS 会导致中风患者痉挛状态减少，iTBS 可能引起内源性神经递质的变化，从而增加突触传递的功效，促进皮质到脊髓抑制性中间神经元的传导并减少痉挛状态。本研究仅纳入4篇 iTBS 刺激的研究[16-19]进行分析，研究结果可能存在偶然性，不能充分排除高估 iTBS改善脑卒中患者肌张力的可能，在未来的研究中需要进一步验证iTBS 对脑卒中后上肢运动功能障碍患者肌张力的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "皮质脊髓束在控制人类肢体活动中具有极为重要的作用，脑卒中导致皮质脊髓束的损害必然引起严重对侧肢体活动障碍[43,44]。因此，通过观察脑卒中后皮质脊髓束的兴奋性可以客观有效地预测患者上肢运动功能远期恢复情况。运动诱发电位是由作用于运动皮层的经颅磁刺激诱发，通过观察单一刺激后对侧手部肌肉的运动复合电位，可定量地评价脑卒中患者皮质脊髓的兴奋性[45]。Bembenek 等[4]的系统评价也表明 TMS诱发的MEP 是预测中风后运动恢复情况的可靠工具。高频rTMS通过作用于大脑运动皮层加快损伤神经可塑性变化，改善皮质脊髓兴奋性，使两侧半球重建中断的跨朕抵体抑制通路[47]。Jung 等[48]研究发现在不同的刺激持续时间下，高频rTMS 可以在健康受试者受刺激和未受刺激的运动皮层中产生不同程度皮质脊髓和皮质内兴奋性的长期变化。Xiang 等[49]系统评价对高频rTMS 与低频rTMS 皮层兴奋性的变化进行亚组分析，结果显示高频rTMS 对脑卒中患者运动诱发电位的影响更为明显，与本研究结果相一致。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究存在以下局限性：（1）纳入的部分研究观察指标不够系统、全面；（2）本研究已对八大数据库进行了全面的检索，但在鉴于阳性结果更易发表和研究样本量少，可能存在发表偏倚；（3）脑卒中患者严重程度、病灶部位未统一，可能会存在其他异质性来源，不能充分地排除其他因素的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究价值：本研究采用网状Meta分析比较了rTMS的4种干预模式对脑卒中后上肢运动障碍患者上肢运动功能、上肢肌张力、日常生活能力及皮质脊髓兴奋性的影响，清晰地呈现了4种干预措施的直接比较和间接比较结果，能为临床rTMS 模式的选择提供一定参考。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综上所述，现有文献证据表明，低频rTMS 相对于高频rTMS、iTBS、cTBS 可更有效改善脑卒中患者的上肢运动功能、日常生活能力；iTBS对降低脑卒中后上肢运动障碍患者肌张力的干预效果更佳；高频rTMS干预在改善皮质脊髓兴奋性方面具有明显优势。同时鉴于以上局限性，后续可进行更多大样本量、规范且高质量的试验研究进一步验证本研究的结果，临床工作者应根据患者整体情况选择更为合适的rTMS 干预模式，以达到更好的干预效果。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "作者贡献：熊丹、赵宁进行文章的构思与研究的设计，研究的实施与可行性分析，统计学处理；熊丹、谢海花、李浩进行数据收集；熊丹、谢海花、李浩进行数据整理；熊丹、谢海花、李浩进行结果的分析与解释；熊丹撰写论文；赵宁、谭洁进行论文的修订；赵宁、谭洁、张泓负责文章的质量控制及审校，对文章整体负责，监督管理。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文无利益冲突。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1]孙海欣，王文志．我国脑卒中流行状况及其防控策略[J].中华神经科杂志，2017，50(12):881-884.DOI: 10.3760/cma.j.issn.1006-7876.2017.12.001   \n2]PUNDKS,MCCABJ,KELYM,etal.Asociatioofpastictndotordfunctioninhonictroke[J].Aysehabiled, 2019,62(6):397-402.DO1:10.1016/j.rehab.2018.07.006.   \n3] VAN DER VLIETR,SELLES R W,ANDRINOPOULOUER,etal.Predicting Upper Limb Motor Impairment RecoveryafterStroke: A Mixture Model[J]. Ann Neurol,2020,87(3):383-393.DOI:10.1002/ana.25679.   \n4]CHENQM,YAOFR,UNHW,etal.Combiinginbitoryandfacilitatoryrepetitivetranscranialmagneticstimulatio() treatmentimprovesmotorfunctionbymodulating GABA inacuteischemicstroke patients[J].Restor Neurol Neurosci，2021, 39(6):419-434.DOI:10.3233/RNN-211195. 吴毅．经颅磁刺激技术在脑卒中康复中的应用[J]．康复学报,2020,30(06):414-420.DOI:10.3724/SP.J.1329.2020.06002 ROUSEB,CHAA,ITNetoketa-aalsatroductiocians[J].teEmrged,7(1):1.: 10.1007/s11739-016-1583-7. 中国各类主要脑血管病诊断要点2019[J]．中华神经科杂志,2019,(09):710-715.DOI:10.3760/cma.jissn.1006?7876.2019.09.003 肖长林，潘翠环，陈艳，等．不同频率高频重复经颅磁刺激对缺血性脑卒中患者上肢功能的效果[J].中国康复理论与实践，2019, 25(05):557-563.DOI:10.3969/j.issn.1006?9771.2019.05.011 梁绮婷，钟燕桃，施晓耕，等．高频重复经颅磁刺激对脑卒中患者上肢运动及感觉功能的影响[J].中华老年心脑血管病杂志， 2018,20(11):1187-1190. DOI:10.3969/j.issn.1009-0126.2018.11.016   \n10]周哲，沈夏锋，熊莉，等．运动前区高频重复经颅磁刺激对脑卒中上肢功能康复的疗效[J].中国康复理论与实践，2020, 26(06):697-702.DOI:10.3969/j.issn.1006   \n11]王玉琴，吕铭新，刘双洁，等．高剂量低频健侧重复经颅磁刺激对脑梗死后上肢运动功能的影响[J].中国生物医学工程学报, 2020,39(04):508-512. DOI: 10.3969/j.issn.0258-8021.2020.04.015   \n12]刘阅，王晓阳，张长龙，等．低频重复经颅磁刺激改善脑卒中后上肢痉挛的任务态功能磁共振研究[J].中国康复理论与实践， 2018,24(07):828-833.DOI:10.3969/j.issn.1006-9771.2018.07.014   \n13]李冰洁，李芳，张通．不同强度低频重复经颅磁刺激对脑卒中后上肢运动功能障碍的疗效[J].中国康复理论与实践，2016, 22(09):1004-1007.DOI:10.3969/j.issn.1006-9771.2016.09.003   \n14]GOTTLIEBA,BOLTZMANNM,SCHMDTSB,etal.Treatmentofupperlimbspasticitywith inhibitoryrepetitivetranscranial magneticstimlatioAdomzedplacebotroledrial[J].NuroRehabilitatio,2,49(3):454DOI：0/0.   \n15]SENWJBIKM,LEsNAKM,etal.Tansanialagetictilatiocobinedwithsiotapinabiliatiooostoe hemiparesis:arandomized,double-blind,placebo-controledstudyJ].NeurorehabilNeuralRepair，012,26(9):1072-1079: 10.1177/1545968312445635.   \n16]汤昕未，胡瑞萍，朱玉连，等．间歇性θ短阵脉冲刺激对脑卒中后运动功能障碍的影响[J].中国康复医学杂志，2018, 33(12):1410-1415. DOI:10.3969/j.issn.1001-1242.2018.12.006   \n17]CHENYJ,HUANGYZ,CHENCY,etal.termitentthetaburststimulationenhancesupperimbmotorfunctioninatients with chronic stroke: apilotrandomizedcontroled trial[J].BMCNurol,2019,19(1):69.DOI:10.1186/s2883-19-302-x.   \n18]CHENYH,CHENCL,HUANGYZ,etal.Augmentedeicacyofinteritent tetabrststimulationontevirtualalitased cyclingtraiingforupperlimbfunctioninpatientswithstroke:adoubl-blnded,adomedcotroledtrialJ].JeuroengRabil 2021,18(1):91.DOI: 10.1186/s12984-021-00885-5.   \n19]CHENY,WEIQC,ZHANGMZ,etal.CerebelarteritentTeta-BurstStiulatioReducsUpperLimbSpasticityferbacute Stroke:ARandomizedControledTrial[J].FrontNeural Circuits,2021,15:655502.DOI:10.3389/fncir2021.65502.   \n20]KUZUO,ADIGUZELE,KESIKBURUN S,etalThe Efectof Sham Controled Continuous Theta Burst Stimulationand Low FrequencyRepetieTranscranialMagnetic StimulationonUpperExtremitySpasticityndFunctionalRecoveryinChronicIschemic   \n[22]KONDOT,YAMADA N,MOMOSAKIR,etal.Comparisonof theEfectofLow-FrequencyRepetitiveTranscranialMagnetic StimulationwithThatofTheta Burst Stimulationon UpperLimb MotorFunctioninPoststrokePatients[J].BiomedResInt,2017, 2017:4269435.D0I:10.1155/2017/4269435.   \n[23]孟祥民，赵宇阳，杨传美，等．重复经颅磁刺激对脑梗死患者上肢运动功能的影响[J]．中国康复医学杂志，2016,31(06):664-669. DOI:10.3969/j.issn.1001-1242.2016.06.010   \n[24]LJ,XYetlotesofepeiietsaleicatioec limbmotor dysfunctioninpatientswithsubacutecerebralinfarction[J].NeuralRegenRes，2016，11(10):1584-1590.DOI： 10.4103/1673-5374.193236.   \n[25]ZHANGL,XIGG,SUAIS,etal.Low-FrequencyRepetitiveTranscranialMagneticStimulatonforStroke-InducedUpperLimb Motor Deficit: A Meta-Analysis[J]. Neural Plast, 2017,2017:2758097.DOI:10.1155/2017/2758097.   \n[26]GRAEFP,DADALTM,RODRIGUéSD,etal.Transcranialmagneticstiulationcombed withuppr-limbtrainigforproving functionafterstroke:Asystematicreviewandmeta-analysis[J].JNurolSci2016,69:149-158.DOI:10.1016/jjs.1608.016.   \n[27]LEQQUOY,altsfepetitiersaaeticatodfuctiecerydeciabilitot cortexaftertroke:ameta-analysis[J].AmhysedRehabil,14,93(5):422-43DOI:10.097/PH.00000007.   \n[28]DUJ,WANS,HENGY,etal.EectsofuromusularElectricalStiulationCoinedwithRepetitiveTranscranalgetic StimulationonUpperLimbMotorFunctionRehabilitationinStrokePatientswithHemiplegia[J].ComputMathMethods Med,2, 2022:9455428. D0I: 10.1155/2022/9455428.   \n[29]HATEMS,SAUSSEZ G,DELLAFAIEM,etal.RehabilitationofMotorFunctionafter Stroke:AMutiple SystematicReview Focusedon TechniquestoStimulateUpperExtremityRecovery[J].FrontHum Neurosci，2016，10:42.DOI: 10.3389/fnhum.2016.00442.   \n[30]张英，廖维靖，郝赤子．低频重复经颅磁刺激联合作业治疗对脑卒中患者上肢运动功能恢复的临床研究[J].中国康复，2019, 34(03):142-145.DOI: CNKI:SUN:ZLKF.0.2019-03-011   \n[31]AVENANIA,COCCIAM,LADAVASE,etal.Low-freqencyrTMS promotesuse-dependentmotorplasticity inchronicstroke: randomized trial[J]. Neurology,2012,78(4):256-264. DOI:10.1212/WNL.0b013e3182436558.   \n[32]HIRAKAWAY,KEAK,AABES,etal.Eectofintesieotortraiingwithrepeitivetrasranialmageticstilatioo upper limbmotorfunctioninchronicpost-strokepatientswithsevereupper limbmotorimpairment[J].Top StrokeRehabil,2018, 25(5):321-325. DOI:10.1080/10749357.2018.1466971.   \n[3]BLESNEAAV,SLaVOACDF,POPAL,etal.Low-frquecyrSinpatients withsubacuteischcstroe:clnicalevauationof shortandlong-termoutcomesandneurophysiologicalassssmentofcortical excitabilityJ].JMedLife,2015,8(3):378-387.   \n[34]陈娟，林慈宽，程丽芳．低频 rTMS 刺激联合早期康复运动对缺血性脑卒中患者运动、语言功能恢复的影响[J].海南医学，2021, 32(15):1922-1925.   \n[35]LISasitytorcyurasicitere[J]rotrol,:8e.   \n[36]KONDOT,KAKUDAWYAMAAN,tal.Efectofw-frquencyonotoreuronexcitabilityfterstroke[J].Actaeurol Scand,2013,127(1):26-30. DOI:10.111/j.1600-0404.2012.01669.x.   \n[37]CaRDENAS-MORALESL,NOWAK DA,KAMMER T,etal. Mechanismsand applicationsoftheta-burstrMSon the humanmotor cortex[J]. Brain Top0gr,2010,22(4):294-306. DOI:10.1007/s10548-009-0084-7.   \n[38]KHANF,CHEVIDIKUNNANF.Theta burst stimulationanewparadigmofnon-invasivebrainstimulationforpost-strokeupper limb motor rehabilitation[J]. Turk JPhys Med Rehabil,2017,63(2):193-196.DOI:10.5606/tftrd.2017.417.   \n[39]HUANGYZROTHWELLJC,CHENRS,etal.Thetheoretical modelof thetaburstformofrepetitivetranscranial magnetic stimulation[J]. Clin Neurophysiol,2011,122(5):1011-1018.DOI:10.1016/j.clinph.2010.08.016.   \n[40]HU,X,esseses[J]ie,9. DOI:10.1016/j.neulet.2017.07.018.   \n[41]MCINTYREA,MIRKOWSKIM,THOMPSONS,etal.ASystematic Reviewand Meta-Analysis ontheUseofRepetitiveTranscranial Magnetic Stimulation for Spasticity Poststroke[J]. PMR,2018,10(3):293-302.DOI:10.1016/j.pmrj.2017.10.001.   \n[42]KIMDHHJCJUG,etal.Efectsofteiettabtulatiooasticityftertroe[J].uroert,5, 26(10):561-566.DOI:10.1097/WNR.0000000000000388. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[43]ZHAO S,ZHANGT,LIB,etal.WhatDetermines GoodRehabilitationRecoveryin StrokePtients withverySevere DisabilityA RetrospectiveCohortSudy[J].JtrokeCerebrovascDis,2,29(10):030.O：0.06/jstrokecerebrovasdis0510.   \n[44] THAKKAR HK,LIAO W W,WUCY,et al.Predictingclinicallsignificant motorfunction improvement aftercontemporary task-orientedinterventionsusingmachinelearmingapproaches[J].JNeuroengRehabil，2020，17(1):131.DOI: 10.1186/s12984-020-00758-3.   \n[45] BEMBENEKJP,KURCZYCHK,KARLINSKIM,et al.The prognosticvalueofmotor-evoked potentials inmotorrecoveryand functional outcomeafterstroke-asystematicreviewof theliterature[J].Funct Neurol,2012，27(2):79-84.DOI: 10.1016/j.clinph.2013.04.156.   \n[46] BEMBENEKJP,KURCZYCH K,CZIONKOWSKA A.TMS-induced motor evoked potentials inWilson'sdisease: asystematic literature review[J].Bioelectromagnetics,2015,36(4):255-266.DOI:10.1002/bem.21909.   \n[47] CORTIM,PATTENC,TRGGS WRepeitive ranscranialmagneticstiulationofmotorcortexafterstroke:afcusedreviewJ].AmJ Phys Med Rehabil,2012,91(3):254-270.DOI:10.1097/PHM.0b013e318228bf0c.   \n[48]JUNGSH,SHJE,JEONGYS,etal.Changesinmotorcortical excitabilityiducedbyhigh-frequencyrepetitive transcraial magnticstuatioodtilatiurasJ]Curosiol19():-9.O：4.   \n[49]XIANGH,UNJAGX,etal.Teectadtialparametersfrepetitierscaalagetictiulationootorey in strokepatints:asstematicviewandmeta-analysisofandomizedontroledtrials[J].Cliehabil,19,(5):8464O: 10.1177/0269215519829897. ",
+        "page_idx": 12
+    }
+]

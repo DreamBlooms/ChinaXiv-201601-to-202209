@@ -1,0 +1,147 @@
+# DOI:10.5846/stxb201608281750
+
+李杰,马淼.新疆外来入侵植物意大利苍耳和刺苍耳种子的越冬性能.生态学报,2017,37(21)：7181-7186.  
+LiJ,Ma M.Seed overwinter performance of two invasive plants：Xanthium italicum Moreti and $X$ ，spinosum Linnaeus in Xinjiang.Acta Ecologica Sinica,2017,37(21) :7181-7186.
+
+# 新疆外来入侵植物意大利苍耳和刺苍耳种子的越冬性能
+
+李杰马淼\*石河子大学生命科学学院，石河子832003
+
+摘要：入侵新疆的外来植物意大利苍耳和刺苍耳的果实于深秋季节成熟后,便开始陆续脱落。脱离母体的果实可能会落置在干燥的地面上,还有可能会掉落在水体中,还有部分果实会保留在枝条上并不脱落直到翌年春天。由于越冬生境的差异会直接影响翌年春天种子的萌发活性,为了评价外来入侵植物意大利苍耳和刺苍耳的入侵能力,预测其潜在分布区,为对其实施有效防控提供科学指导。故模拟了其种子在新疆自然条件下可能遭遇的冬季生境类型,设计了4种实验处理,即低温换水浸泡（模拟了落入流水或大型水体中结冰前的生境）、低温不换水浸泡（模拟了落入小型静水中结冰前的生境）、冰冻（模拟了落入水体中结冰后的生境)和干燥冷冻处理(模拟了掉落在干燥地面或一直停留在植株上的生境类型),并以室温干燥储存为对照。处理90 d后,进行种子萌发实验,结果显示干冻、冰冻及低温换水浸泡处理后意大利苍耳的萌发率与对照组无显著差异,不换水浸泡处理降低了意大利苍耳种子的活力,显著降低了其萌发能力。而干冻处理对刺苍耳种子的萌发没有影响,冷水浸泡(换水浸泡和不换水浸泡)显著降低刺苍耳的萌发率,与对照组相比分别下降了 $3 7 \% 6 5 \%$ 。冰冻处理后刺苍耳没有萌发。说明意大利苍耳种子对新疆的各种越冬生境均有较好的耐受性,而刺苍耳种子对低温和水淹环境的耐受性较差。鉴于二者种子萌芽习性的特点,建议在全疆范围内的中生、湿生和季节性水涝生境中对意大利苍耳实施全方位的监控,农田、林下、路边、渠旁、湖泊及水库周围都有可能成为其潜在的入侵地;对刺苍耳的重点监测区域则应当放在低纬度、低海拔的中生和中旱生生境,尤其要切实加强南疆各国际口岸进口货物的检疫工作。
+
+关键词：入侵植物；意大利苍耳;刺苍耳;种子;越冬性能
+
+# Seed overwinter performance of two invasive plants: Xanthium italicum Moretti and X. spinosum Linnaeus in Xinjiang
+
+LI Jie，MA Miao\* College of Life Science，Shihezi University，Shihezi 832OO3,China
+
+Abstract:The fruits of the Italy cocklebur (Xanthium italicum Moretti） and stab cocklebur ( $X$ ，spinosum Linnaeus），two kindsofinvasive plants in Xinjiang，begintofallafteritmatures inlateautumn.Someof thefruits detach from motherplant and dropontodry groumd，some fallinthe water,and others remainonthe branches and do not detachuntil the next spring. Thehabitatto which seedsareexposed toin winter directlyafectsseed germinationinthe following year.Toassess their invasiveness，predicttheirpotential distributionarea,and providescientificguidanceforefective preventionandontrolof theseinvaders,four kindsof natural winterhabitats in which seeds might beexposedin Xinjiang weresimulated（i.e.,cold flowing water，cold dead water，cold dead water folowed by frezing，andcolddrysoilorcoldair).Treatments in which seeds were soaked in frequently changed cold water ( $( 5 ~ \mathrm { { ^ { \circ ~ } C } }$ ），soaked in still cold water $( 5 ~ \mathrm { ^ { \circ } C }$ ），frozen in the air less than $- 2 0 \ \mathrm { { ^ { \circ } C } }$ ，and soaked in still water for $2 4 \mathrm { ~ h ~ }$ then frozen with the water less than $- 2 0 \ \mathrm { { ^ circ C } }$ were designed. Seeds kept at dry room temperature servedascontrols.After 90-day pretreatment，seed germination experiments wereconducted.Theresults showed that:（1）For theItalycocklebur，the germinationpercentageof seedssoaked inunchangedcold water was significantlylower thanothertreatments.Others werenotsignificantlydiffrent.（2）Forstabcocklebur，seeds that were stored at dry room temperature and frozen in the air had the highest germination percentage ( $70 \%$ ），and germination percentage of the seeds soaked in changed and unchanged water was $3 7 \%$ and $65 \%$ lower than that of the control. The soakedand frozen seeds didnotgerminate.It was suggestedthatmultiple habitats，including those with moderate moisture andwetand seasonallyfloodedhabitats throughout Xinjiang shouldbestrictlymonitoredforItalycocklebur，including farmland，understory,roadsides,riversides，andaroundlakesandreservoirs，which mightbepotential invasionareas.The keymonitoringarea forstabcocklebur should have moderate moistureanddryhabitats atlow latitudeandlow elevation.The quarantine of imported goods in international ports around southern Xinjiang should be strengthened.
+
+Key Words: invasive plants； Xanthium italicum Moreti； X. spinosum Linnaeus； seed；overwinter performance
+
+随着我国向西开放战略部署的深化,以及“一带一路”政策下新丝绸之路各国国际间货运贸易往来的日趋频繁,一大批外来物种悄然涌人了新疆,尤其是菊科苍耳属（XanthiumL.）的植物意大利苍耳（Xanthiumitalicum Moretti)与刺苍耳(X.spinosum Linaeus)正以极快的速度向新疆各地蔓延扩张,对当地的农业和畜牧业造成了严重危害[1],对新疆本就脆弱的绿洲生态系统而言无疑是雪上加霜。对其入侵机理的阐释,入侵能力的评价和潜在分布区的预测是对该物种实施有效防控的必要前提。然而,目前对意大利苍耳和刺苍耳的研究仅限于形态描述[2-3],分布区范围[2.4],和化学组分及其化感作用[5-7]等方面,对其入侵机理和种群扩张趋势的研究尚未见报道。
+
+种子萌发是植物生活史中的一个关键环节[8I,其对植物繁衍种族、扩展分布区域、提高环境适应能力具有重要意义[9]。作为繁殖体的种子,其对环境适应能力的强弱会直接影响个体在新生境中的存活。年降水量、年均温度、年极端低温以及年均积温等是影响外来植物地理分布的重要因素[10]。入侵地的冬季低温环境是许多原产于温热地区的外来植物所面临的严峻挑战[11],在被引入地区是否能够安全越冬便成了许多外来植物入侵成功的限制瓶颈[12]。因此,对外来入侵植物种子越冬性能的研究不仅是阐释其人侵机理的关键环节,也是评价其入侵能力和潜在分布区的重要依据[13」。新疆高山与盆地相间,荒漠与湿地并存[14],外来植物的种子不仅要经受冬季陆地的严寒,而且还有可能遭遇到浸泡于冰水环境的考验。故本研究运用实验生态学的研究方法,模拟各种可能遭遇到的自然越冬生境,研究了意大利苍耳和刺苍耳种子经历了不同越冬条件后的萌发状况,旨在通过探讨不同生境类型与其种子越冬性能之间的联系,为其入侵机理的阐释,入侵能力的评价和潜在分布区的预测提供科学依据。
+
+# 1材料和方法
+
+# 1.1种子采集
+
+两种植物的果实于2014年10月采自新疆伊宁市周边( $8 1 ^ { \circ } 0 ^ { \prime }$ 一 $\cdot 8 3 ^ { \circ } 5 9 ^ { \prime } \mathrm { E }$ $4 2 ^ { \circ } 5 0 ^ { \prime }$ 一 $\cdot 4 4 ^ { \circ } 0 3 ^ { \prime } \mathrm { N }$ ),将果实快速运回实验室风干备用。
+
+# 1.2 处理方法
+
+# 1.2.1 处理设置
+
+挑选450粒健康成熟、大小一致的果实,依据其在新疆可能遭遇到的4种越冬生境类型,设置了相应的4种实验处理,并以室温条件下的干燥储存处理为对照,具体如下(本文中的果实实际上是指具总苞的果序)：
+
+(1)室温干燥储存：取90 枚果实,存放在黑暗、干燥的室温环境中,温度为 $2 0 \ \%$ 。
+
+(2)低温换水浸泡处理：为了避免长期水浸条件下滋生的大量微生物对实验结果的影响,我们对实验器皿和蒸馏水进行了高压灭菌,对果实进行了表面消毒。具体如下：取90枚果实,置于烧杯中用蒸馏水冲洗3遍,以清除总苞表面的灰尘与杂物,然后转入 $70 \%$ 的酒精溶液中浸泡 $3 0 \mathrm { ~ s ~ }$ ,再转入 $0 . 1 \%$ 的升汞中浸泡 $1 0 ~ \mathrm { m i n }$ 进行果实表面消毒，用无菌水冲洗后，最后转入灭过菌的 $5 0 0 ~ \mathrm { m L }$ 三角瓶中，浸泡在 $4 0 0 ~ \mathrm { m L }$ 的无菌水里，用无菌过滤透气封口膜封口，置于 $5 \mathrm { { ^ \circ C } }$ 黑暗的冷藏室中，每天换水1次（以上步骤均在超净工作台上进行），以此来模拟落入流水但未曾结冰的果实的生境类型。
+
+(3)低温不换水浸泡处理;种子消毒及封装同上，置于 $5 \mathrm { { ^ \circ C } }$ 黑暗的冷藏室中储存，以此来模拟落入小型静水中的果实的生境类型。(4)干燥冷冻处理;取90 枚果实,存放在黑暗、干燥冷冻环境中,温度为 $- 2 0 \ \mathrm { { ^ { \circ } C } }$ [15],以此来模拟落置在干燥的地面上或一直着生在植株上不曾脱落的果实的生境类型。（5)冰冻处理;取90枚果实,置于塑料烧杯中用蒸馏水冲洗3遍,以清除总苞表面的灰尘与杂物,在 $5 \ \mathrm { { ^ circ C } }$ 条件下浸泡 $2 4 \mathrm { ~ h ~ }$ 后，转移至 $- 2 0 \ \mathrm { { ^ { \circ } C } }$ 的冰箱中冷冻储藏,以此来模拟落入水体中且水体结冰后的果实的生境类型。
+
+以上各组处理的时间均为 $9 0 \mathrm { ~ d ~ }$ 。
+
+# 1.2.2 萌发实验
+
+处理 $9 0 \mathrm { ~ d ~ }$ 后将果实取出进行种子萌发实验。将室温干燥和干燥冷冻条件下储存的果实在室温条件下用蒸馏水浸泡 $2 4 \mathrm { ~ h ~ }$ ,使总苞软化;将冰冻处理的果实从冰箱中取出后在室温下解冻。由于总苞中两粒种子具有不同的发芽特性[16],为了避免其对实验结果的影响,在不对内部种子造成伤害的条件下小心地剥去果序外的总苞,取其中较大的种子均匀地摆放在盛有河沙的塑料萌发盒( $2 0 \ \mathrm { c m } { \times } 1 2 \ \mathrm { c m } { \times } 5 \ \mathrm { c m } )$ 中进行萌发实验,埋藏深度为 $1 \ \mathrm { c m }$ ,河沙的相对湿度为 $70 \%$ 。每盒中摆放30 枚种子,每种处理设置3组重复。将萌发盒置于光照培养箱,在每天 $1 2 \mathrm { ~ h ~ }$ 光照,光照强度为 $4 5 0 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ ,昼夜温度为 $2 5 { \mathrm { ~ } } ^ { \circ } \mathrm { C } / 2 0 { \mathrm { ~ } } ^ { \circ } \mathrm { C }$ 的条件下培养15d,萌发过程中始终保持 $70 \%$ 土壤相对湿度,以子叶露出土面为发芽依据,每 $2 4 \mathrm { ~ h ~ }$ 统计一次发芽情况。
+
+统计种子萌发的起始时间、7d的发芽势、15d的萌发率以及发芽指数。种子萌发的起始时间是指从种子放入培养箱到第1粒种子萌发所需的天数 $( \mathrm { ~ d ~ } ) _ { \mathrm { ~ o ~ } } 7 \mathrm { ~ d ~ }$ 的发芽势为第7天萌发种子数占种子总数的百分比[17]。种子萌发率为萌发的种子数占种子总数的百分比[17]。发芽指数的计算公式为 $I _ { \mathrm { g } } = \sum { \frac { G _ { t } } { D _ { t } } \left( \begin{array} { l } { \ } \\ { \ } \end{array} \right. }$ （204号 $G _ { t }$ 为 $\mathbf { \chi } _ { t }$ 日当天的发芽数,D,为相应的发芽天数）[17]。
+
+# 1.2.3 种子活力检测
+
+萌发实验处理15d后,从各组处理的萌发盒中随机挖出意大利苍耳和刺苍耳未发芽的种子各60枚,清水洗净表面的沙土,用刀片将胚横切成薄片后置于洁净的在载玻片上,用TTC 染色法染色,检测种子活力。
+
+# 1.3 数据处理
+
+用 SPSS 19.0软件进行实验数据的统计分析,不同处理下的种子萌发率和发芽指数采用单因素方差分析（One-way ANOVA),用 Duncan 多重比较(Duncan's multiple range test)检测不同处理间的差异显著性水平。
+
+# 2结果与分析
+
+# 2.1种子发芽势
+
+室温干燥处理下的意大利苍耳种子从第3天开始萌发,其他4种处理下的种子从第4天开始萌发,但不同处理对种子发芽势的影响显著(图1)。低温不换水浸泡处理极显著地降低了意大利苍耳种子的发芽势（ $P { < } 0 . 0 1 \rangle$ ;室温干燥处理的种子的发芽势最高( $9 5 . 5 6 \%$ )但与换水浸泡、干冻及冰冻处理无显著差异( $P >$ 0.05）。
+
+不同条件处理对刺苍耳的种子萌发造成了强烈影响,室温干燥处理下的种子在第4天就开始萌发了，不换水浸泡的种子在第7天才开始萌发,而冰冻条件下的种子至试验结束都没有种子萌发(图2）。干冻处理下与室温干燥处理的种子的发芽势均为 $4 2 . 2 2 \%$ ;低温水浸泡极显著地降低了刺苍耳种子的发芽势。
+
+![](images/ffd67753b023134a93d12196c39cedba62ae018ed6f7f75c18ae05ade3749c59.jpg)  
+图15种处理下意大利苍耳种子的累积萌发率
+
+各曲线所标字母不同，表示曲线对应的处理间在第15天时的差异达到极显著水平( $P { < } 0 . 0 1$ ）
+
+![](images/433824d965f7763592e2fc76f9cb1fbfe21c9123b3b93d09b7fd68d6384e2e65.jpg)  
+Fig.1The germination percentage of seeds of $X .$ italicum undei 5 treaments
+
+# 2.2种子萌发率
+
+种子萌发率与7d的发芽势结果一致,低温不换水浸泡处理下意大利苍耳的种子发芽率仅为 $70 \%$ ,极显著低于其他4种处理( $P { < } 0 . 0 1 \$ );室温干燥、换水浸泡、干冻及冰冻处理的种子萌发率无显著差异，均在 $90 \%$ 以上。
+
+冰冻处理后的刺苍耳种子无萌发,室温干燥处理及干冻处理下刺苍耳种子的萌发率均为 $70 \%$ ,显著高于水浸泡处理(不换水浸泡和换水浸泡)。并且换水浸泡处理下的种子萌发率极显著高于不换水浸泡处理的种子萌发率( $P { < } 0 . 0 1 \rangle$ ）,分别比对照组下降了 $3 7 \%$ 和 $6 5 \%$ 。
+
+# 2.3 发芽指数
+
+意大利苍耳在室温干燥储存处理下种子的发芽指数最高，但和模拟流水的冷水浸泡处理(勤换水)间无显著差异( $P { > } 0 . 0 5 )$ ；冰冻和干冻处理的种子的发芽指数无显著差异( $( P { > } 0 . 0 5 )$ ;模拟静水的冷水浸泡处理（不换水)后种子的发芽指数及显著低于其他4种处理( $P <$ 0.01)。经室温干燥处理的刺苍耳种子的发芽指数最高，但与干冻干燥处理无显著差异( $( P { > } 0 . 0 5 )$ ;其次为冷水浸泡处理(换水及不换水处理)。在相同处理下，意大利苍耳的发芽指数均大于刺苍耳的发芽指数（图3）。
+
+# 2.4种子活力检测
+
+意大利苍耳种子活力检测结果显示60枚未发芽的种子均已不具有活力，部分种子已经腐烂;而刺苍耳的60 枚未萌发的种子中只有4枚尚具活性，但活力较低，其余种子的活力也均已完全丧失。因此，在本研究中将以萌发率的高低作为种子活力强弱的评价指标。
+
+![](images/a890b18b8448705ed2034d92894fe03e9d5ac4a0ce3458fbae3509731db13dde.jpg)  
+图25种处理下刺苍耳种子的累积萌发率 Fig.2The germination percentage of seeds of X. spinosum under 5 treaments   
+图35种处理下意大利苍耳和刺苍耳种子的发芽指数Fig.3The seed germination index of $X$ italicumand $X$ ，spinosumunder 5 treaments
+
+同一植物下,不同小写字母表示差异达到显著水平( $\scriptstyle P < 0 . 0 5$ ）
+
+# 3讨论
+
+干燥冷冻是对落置在十燥的地面或保留在植株上不曾脱落的果实越冬生境的模拟，研究表明十燥冷冻处理会显著降低意大利苍耳种子的发芽指数,但其对意大利苍耳种子的发芽势和萌发率却无影响。而干燥冷冻处理对刺苍耳的萌发无显著影响。发芽势、萌发率和发芽指数分别反应种子的发芽整齐度、种子质量和种子发芽速率的重要指标。结果表明,新疆的冬季低温环境会使落置在干燥的地面或保留在植株上不曾脱落的意大利苍耳种子的萌发进程滞后,但对最终的萌发率并无显著影响,而对刺苍耳种子的萌发无显著影响。意大利苍耳和刺苍耳的种子可在此生境中安全越冬。
+
+在湿生环境中,成熟种子脱落后往往被浸泡入水中,使水淹成为湿生环境中的主要环境胁迫,对种子萌发有很大影响。有研究表明,长期的水浸泡会降低苍耳种子的萌发率和活力,并且其萌发率随着水淹时间的延长而逐渐降低[18]。水淹对种子萌发的影响主要有以下两方面的原因： $\textcircled{1}$ 水中的溶解氧分压远低于空气，种子的正常呼吸代谢被抑制; $\textcircled{2}$ 胚中的无机盐、蛋白质、淀粉等物质的渗出会损坏胚,从而影响了种子的活力[19]。
+
+刺苍耳在水浸泡处理(换水浸泡和不换水浸泡)90 d后,其发芽势和萌发率与室温干燥储藏的对照组相比并显著降低,说明刺苍耳种子经过长时间的水浸泡后,种胚损坏使得种子活力降低。同时,与换水浸泡相比较,不换水浸泡处理下浸泡种子的水中的氧分压的下降抑制了种子正常的呼吸代谢,加重了种子活力的下降。表现为换水浸泡的种子的萌发率要高于不换水浸泡处理。
+
+对意大利苍耳而言,低温换水浸泡 $9 0 ~ \mathrm { d }$ 后,意大利苍耳种子的发芽势和萌发率可高达 $9 3 . 3 3 \%$ 和 $9 7 . 7 8 \%$ ，与对照组无显著差异。说明长时间的水浸泡并不会对意大利苍耳种子的胚造成破坏。而不换水浸泡处理下，意大利苍耳种子的发芽势和发芽率分别为 $6 3 . 3 3 \%$ 和 $7 0 \%$ ,发芽指数也显著低于换水浸泡处理。而导致这一差异的原因可能是由于缺氧导致的种子活力的丧失,因此,以高密度掉落在不流动浅水水域中的意大利苍耳种子越冬安全性较低。由于在自然条件下浅水水体中的种子一般很难达到90 粒/ $\scriptstyle \mathrm { ' 4 0 0 m L }$ 的密度水平，所以掉落在冷水中的意大利苍耳种子具有较高的越冬安全性。
+
+结冰是新疆冬季常见的自然事件,冰冻处理仅仅降低了意大利苍耳种子的发芽指数,对发芽势和萌发率无显著影响。然而刺苍耳果实遇水结冰后对种子活力的影响极为强烈,在本试验中没有种子萌发。因此,刺苍耳的种子在湿地中很难越冬。
+
+意大利苍耳和刺苍耳于2012 年在新疆被首次记录[2],意大利苍耳现已广泛分布于博州、伊犁、塔城、额敏、阿勒泰、石河子、昌吉和乌鲁木齐地区,刺苍耳则主要分布于乌鲁木齐、昌吉、伊犁等地[3.20]。意大利苍耳和刺苍耳分布格局的差异恰好可以由二者种子萌发特性的差别得到解释。意大利苍耳种子对新疆冬季的水热条件均有较好的耐受性,因此其分布区的纬度跨度较大,在纬度高气温偏低的塔城、额敏和阿勒泰地区均有大面积的分布,在中生、湿生和季节性水涝的环境中也均可生长,生境选择多样;然而由于刺苍耳种子对低温和水淹环境的耐受性差,故其分布区集中于低纬度的天山北坡沿线,倾向于中生环境的农田或较干燥的荒漠草原等生境类型。虽然二者目前的入侵区域仅限于北疆,然而与北疆相比,地处暖温带的南疆冬季气温相对和暖,对意大利苍耳与刺苍耳种子的安全越冬会更加有利。之所以目前在南疆地区还尚未见分布，主要原因可能是天山屏障的阻隔。但是随着新疆作为国家向西开放桥头堡地位的确定和南北疆之间以及南疆与诸多邻国之间贸易往来的日趋密切,天山的地理屏障效应很有可能会被打破,因此在全疆视野下综合考虑防治措施可能会更加有效。
+
+外来入侵植物是否能够成功入侵,主要取决于物种自身的入侵力（invasiveness）与生境的可入侵性（invisibility）[21-23]。人侵力主要取决于该物种自身的生物学特性,而生境的可人侵性则取决于生境的非生物环境及生物环境对入侵的抵抗力[24-25]。外来植物自身的特性对人侵、生存和扩展极为重要[26],除了在新引种区内缺乏天敌[27]和具有空余生态位[28-29]以外,其物种本身对环境适应能力的广谱性[30]也是外来生物得以成功入侵的重要原因。
+
+http://www.ecologica.cn
+
+鉴于二者种子萌芽习性的特点,建议在全疆范围内的中生、湿生和季节性水涝生境中对意大利苍耳实施全方位的监控,农田、林下、路边、渠旁、湖泊及水库周围都有可能成为其潜在的入侵地;对刺苍耳的重点监测区域则应当放在低纬度、低海拔的中生和中旱生生境,尤其要切实加强南疆各国际口岸进口货物的检疫工作。
+
+# 参考文献（References）：
+
+[1］张祥林，张伟，吴卫.新疆植物检疫性有害生物.北京：中国质检出版社，2012：112-113.  
+[2］杜珍珠，徐文斌，阎平，王少山，郭一敏.新疆苍耳属3种外来入侵新植物.新疆农业科学,2012,49(5)：879-886.  
+[3］裴会明.入侵植物刺苍耳的形态学特征与防治.甘肃林业科技，2015，40(1)：24-25，46-46.  
+[4］宋珍珍，谭敦炎，周桂玲．入侵植物刺苍耳在新疆的分布及其群落特征.西北植物学报，2012，32（7)：1448-1453.  
+[5］董芳慧，刘影，蒋梦娇，李海冰，胡云霞.入侵植物刺苍耳对小麦和苜蓿种子的化感作用.干旱区研究，2014，31（3)：530-535.  
+[6]Andrearb,rtliJotauselletaoidallitMoreti from Corsica.Flavour and Fragrance Journal,2012,27(3）： 227-236.  
+[7］邵华，部凤娇，韩彩霞.外来植物意大利苍耳人侵对土壤微生物的影响及其生态效应/／中国第七届植物化感作用学术研讨会论文摘要集.昆明：中国植物保护学会植物化感作用专业委员会，2015：1-2  
+[8］李晓梅，赵晓英，赵法，郭名军.新疆3种锦鸡儿属植物种子萌发对温度和土壤水分的响应.草业科学，2009,26(10)：140-145.  
+[9］高蕊，魏岩，严成.角果藜的地上地下结果性与种子萌发行为.生态学杂志,2008，27(1)：23-27.  
+[10]张帅，郭水良，管铭，印丽萍,张若轩.我国入侵植物多样性的区域分异及其影响因素——以74个地区数据为基础.生态学报，2010,30(16):4241-4256.  
+[11］鲁萍，桑卫国，马克平.外来入侵种飞机草在不同环境胁迫下抗氧化酶系统的变化.生态学报，200,26(11)：3578-3585.  
+[12］邱宠华，王奇志，余岩.外来入侵假臭草在中国分布区的预测.应用与环境生物学报，2011,17(6)：774-781.  
+[13] $ { \mathrm { X u } }  { \mathrm { ~ Z ~ L ~ } }$ .Potentialdistributionofinvasivealnspciesinheupperliiverbasin：deternationandmechansmofocliaticvarblesuderclimate change.Environmental Earth Sciences，2015，73(2）：779-786.  
+[14］邱娟，地里努尔·沙里木，谭敦炎．入侵植物黄花刺茄在新疆不同生境中的繁殖特性.生物多样性，2013,21（5）：590-600.  
+[15] 李景林，张山清，普宗朝，王命全，王胜兰，赵书琴.近50a新疆气温精细化时空变化分析.干旱区地理，2013，36(2)：228-237.  
+[16］吴冬，黄姝博，李宏庆.意大利苍耳二形性种子萌发、植株生长差异及生态适应性.生态学报，2009,29(10)：5258-5264.  
+［17］宋松泉，程红焱，龙春林，姜孝成.种子生物学研究指南.北京：科学出版社，2005：57-61.  
+[18] 王强，袁兴中，刘红，林芳淼，陈忠礼，张跃伟。水淹对三峡水库消落带苍耳种子萌发的影响.湿地科学,2011,9(4)：328-33.  
+［19］宋松泉，程红焱，姜孝成.种子生物学.北京：科学出版社，2008：105-240.  
+[20］马金双.中国外来人侵植物调研报告.北京：高等教育出版社，2014：23-233.  
+[21］李博，徐炳声，陈家宽.从上海外来杂草区系剖析植物入侵的一般特征.生物多样性，2001,9（4)：446-457.  
+22]Cuitalassasdoacs：casestudyonteivasibilityofAgeratmondesinIdiadryropisIdanJoualofAgiculuraience,15,5(11)：11.  
+23]GorgBbEivellJdelisisubaceadsivesofin a Neotropical Savanna.Acta Botanica Brasilica,2016,30(1）：131-137.  
+24]AlpertelsieessildetalditiiPlant Ecology，Evolution and Systematics,2000,3(1）： 52-66.  
+[25］李博，陈家宽.生物入侵生态学：成就与挑战.世界科技研究与发展，2002，24（2)：26-36.  
+[26］彭少麟，向言词.植物外来种入侵及其对生态系统的影响.生态学报，1999，19(4)：560-568.  
+[27]AlenACeitEOUsingtheWestIdanmate（icusaatus）secsforvasieqatiplatagentiorida.Journal of Aquatic Plant Management，2015,53:95-104.  
+[28]JohsoSsdhlaoctiedsivetsalsa：25-36.  
+[29]VerhelstetsVanGeeHalsutoeistiiofasivessssbythepresenceofnativefishspeciesevidencebasedonspeciesdistrbutionmodellng.BiologicalInvasios，016,18（2）：4-44.  
+[30]KellyAL，DeRiveraCE，BuckleyBA.ColdtoleranceoftheinvasiveCarcinus maenasintheeastPacfc：molecularmechanismsandimplications for range expansion in a changing climate.Biological Invasions，2013,15(10）：2299-2309.

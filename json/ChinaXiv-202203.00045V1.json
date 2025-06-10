@@ -1,0 +1,359 @@
+[
+    {
+        "type": "text",
+        "text": "心理加工的脑机制：从诱发脑活动走向生成脑活动",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王一峰l\\*，张弛'，严进洪²，荆秀娟³",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.四川师范大学脑与心理科学，四川成都，610066。  \n2.中国体育总局体育科学研究所，北京，100061。  \n3.西南财经大学天府学院，成都，610052。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要传统的计算机隐喻将诱发脑活动作为探索心理加工脑机制的主要手段。大量研究发现，诱发脑活动并非脑活动的主体，它与更加活跃的自发脑活动相互影响而适应性演变。因此，无论是诱发脑活动还是静态的诱发脑活动与自发脑活动的相互作用均不能有效揭示心理加工的脑机制。对此困境，生成认知理论指出，脑活动具有统一性和能动性，通过减小预期和刺激之间的误差来调节自身活动模式，适应不断变化的情境。研究范式的变革促使认知神经科学走向更加科学化、人性化的新时代。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 脑机制;认知神经科学;诱发脑活动;自发脑活动;生成脑活动;心理学分类号B84",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言：诱发脑活动的危机",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通过任务诱发脑活动是目前探究心理加工脑机制的基本实验范式之一。根据计算机隐喻，给定相同的输入必将得到相同的输出；但大脑对相同的输入却会做出不同的反应，反应的变异取决于刺激输入时大脑的内部状态，即自发脑活动的波动(Iemi et al.,2019)。基于功能磁共振的脑激活(brain activation)和基于脑电的事件相关电位(event-related potential,ERP)等脑活动检测的主要技术均假定诱发脑活动和自发脑活动不存在交互作用或仅存在可忽略的微弱交互作用，因而可以用一般线性模型(general linear model)来描述诱发脑活动，进而阐明认知活动的脑机制(Friston etal.,1994)。该模型认为刺激诱发的脑活动和自发脑活动并行加工，二者的效应可以线性叠加；诱发脑活动的试次间变异(inter-trialvariability)可以通过自发脑活动的随机波动来解释，这些随机波动可以通过多个试次的叠加平均来",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "抵消(Fox etal.,2007)。并行加工假设认为心理学实验能排除自发波动的干扰从而获得稳定的任务效应，同时也认为自发脑活动和诱发脑活动相互独立。这显然是说自发脑活动不受学习和经验的影响而独立发展，从而违背了神经可塑性的基本原则。神经可塑性决定了自发脑活动和诱发脑活动之间必然存在交互作用。这种交互作用使得任务效应依赖于自发脑活动和诱发脑活动的适应性演化，从而难以通过叠加平均的方式消除自发脑活动的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实际上，刺激呈现前后脑活动的变化主要是自发脑活动的改变。自发脑活动消耗了人体摄入能量的 $20 \\%$ ，远远超过了认知努力 $2 { \\sim } 4 \\%$ 的能耗(Pezzulo etal.,2021)。Chen 和Gong(2019)的仿真研究表明，刺激诱发反应的 $80 \\%$ 是由动态自发活动的改变贡献的， $20 \\%$ 是由外部刺激贡献的。Lynch 等人(Lynch et al.,2018)比较了被试在观看电影和静息时的功能连接(functional connectivity,FC)，发现二者的差异主要由自发脑活动的FC降低所导致，而任务诱发的FC只能解释二者差异的不到 $2 \\%$ 。Shimaoka 等(Shimaoka etal.,2019)对小鼠施以光栅刺激，发现双侧视觉皮层的自发活动能解释 $60 \\%$ 的试次间变异。此外，ERP和脑激活信号较低的信噪比也表明自发脑活动远远强于诱发脑活动，而探究其中自发脑活动蕴藏的脑功能信息已成为目前的前沿热点领域(Garrett etal.,2013;Manssonet al., 2022; Wang et al., 2015)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这些研究从多个角度表明，排除自发脑活动而单纯研究诱发脑活动不能有效揭示心理加工的脑机制。越来越多的研究者已经从探究诱发脑活动转而关注自发脑活动及其与诱发脑活动之间的动态关系(Avitanetal.,2021;Chen et al.,2020; Ferezou & Deneux, 2017; Huang et al., 2017; Wainio-Theberge et al., 2021)。作为第三代认知科学的生成认知(enactive cognition)理论进一步提出刺激呈现前后只有一种功能活动，即大脑在多维功能空间中的轨迹(He,2013;苏佳佳& 叶浩生,2021)。这些研究对诱发脑活动的传统观点构成严峻挑战，呼唤心理学实验范式和数据分析技术的革新，进而推动认知神经科学走向新的时代。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2自发脑活动和诱发脑活动的异同",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着新生神经元的发展和成熟，自发脑活动就开始了，神经元集群之间相互协调的活动模式也开始形成，这种相互协调的自发活动对于神经发育过程中形成适当的神经连接至关重要(Avitan etal.,2021)。脑功能的早期发育很大程度上受制于遗传和物理规则，同时受到感觉刺激的不断重塑(Molnar etal.,2020)。根据“共同发放，共同连接(fire together,wire together)\"的赫布(Hebb)规则，自然图像的重复出现会导致自发脑活动重复出现某种激活模式，形成特定的局部连接来表征各种自然发生的刺激，进而在脑网络中留下痕迹(Ringach,2009)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在单个神经元功能连接的水平上，静息或刺激条件下神经元集群的活动对单个神经元放电的平均影响几乎是相同的；在神经元集群表征的水平上，自发活动与诱发活动的模式也高度相似(Ferezou&Deneux,2017)。颅内脑电记录发现背侧前脑岛的自发活动和在持续性注意任务中激活的脑电频谱极其相似，且在其后相同的时间内出现瞳孔扩张，表明二者共享相同的生理机制(Kucyi&Parvizi,2020)。在宏观水平上，基于大型脑激活图数据库的独立成分分析发现，静息态网络(resting state network,RSN)与任务诱发网络在空间上高度重叠(Smithet al.,2009)。此外，这些网络结构也与任务共激活网络(taskco-activationnetwork)高度相似(Nickerson,2018)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前，研究者对自发脑活动和诱发脑活动的一致性提出三种可能的解释：一是自发脑活动的模式反映了长期经验形成的共激活的模式；二是自发脑活动起源于意识觉醒状态下的自发认知活动；三是自发脑活动和诱发脑活动都受脑结构的制约(Gonzalez-Castillo et al.,2021)。然而，目前尚没有研究证明哪种观点能更加合理地解释自发脑活动和诱发脑活动的相似性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相反，另一些研究表明自发脑活动和诱发脑活动的模式并不相同。从时间尺度上看，大规模神经元集群的活动集中于亚慢 $( < 0 . 1 ~ \\mathrm { H z } )$ 频段，峰值出现在$0 . 0 1 \\mathrm { H z }$ 左右(Mann et al.,2021; Stringer et al.,2019)，形成一种稳定的脑功能时间框架(荆秀娟 etal.,2021)。而在任务过程中，亚慢振荡受到极大抑制，脑信号的频率向高频转移以适应快速的心理加工(Churchill etal.,2016;He etal.,2010)。从空间结构上看，自发脑活动有特殊的网络结构，这一结构同时存在于不同任务的诱发活动中，但诱发活动还表现出任务一般性和任务特殊性的网络结构(Aoet al.,2021;Cole etal.,2014)。此外，认知任务还改变了任务无关脑区乃至全脑的活动强度和功能连接(Tommasin et al.,2017;Wang et al.,2018)，使得诱发脑活动的全局效率和局部效率均高于自发脑活动(Bolt,Nomi,etal.,2017;Ulloa&Horwitz,2018)。从信息传播上看，丘脑-皮层回路在自发脑活动和诱发脑活动中的活动模式不同。比如，在给大鼠呈现听觉刺激时，其丘脑-皮层间的信息交流增强，而在没有刺激时二者之间的信息交流几乎消失，皮层内部信息交流增强(Ishizu etal.,2021)。此外，给小鼠施加视、听、触觉刺激后信息传递的轨迹比自发活动更简单、更固定，诱发活动的波幅和传递速度随刺激强度增大而增加(Afrashtehetal.,2021)。这些证据表明自发脑活动和诱发脑活动有不同的时空特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可见，自发脑活动和诱发脑活动既有共性，又有区别。Bolt等人(Bolt,Nomi,etal.,2017)认为，目前只有少数几种任务被用于检测自发脑活动和诱发脑活动的差异，二者之间的差异可能比已经检测到的差异多得多。Laumann 和Snyder (2021)在分析了多个领域的文献之后发现，血氧水平依赖(BloodOxygenLevel-Dependent,BOLD)信号所反映的自发脑活动与神经可塑性和内稳态(homeostasis)的关系要比与认知内容动态变化的关系更紧密。他们指出，自发脑活动与认知和行为的分离主要表现在三方面：一是BOLD信号的拓扑结构在慢波睡眠甚至麻醉状态仍然保持完好，而这些状态下认知活动极大减弱甚至消失了；二是认知任务对自发脑活动连接结构的改变微乎其微；三是多次扫描之间的自发认知活动有很大不同，但功能连接却相对稳定(Laumann& Snyder,2021)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这些研究证据表明自发脑活动的模式在短期内相对稳定(受神经纤维形成的物理通路的制约)，经过较长时间才会产生可塑性变化，而认知活动产生的扰动只占一小部分。因而，自发脑活动和诱发脑活动之间的相互作用就可理解为脑功能稳定性与可塑性的博弈，而从其相互作用的模式可窥见脑功能演化的规则和方向。此外，这也从一个侧面说明自发脑活动和诱发脑活动与自发认知活动和诱发认知活动之间可能不是一一对应的关系。个体的唤醒水平在完成认知任务的过程中不断变化，在走神时进行一些自发的和目标导向的加工，包含了大量不断变化的、有心理内容的活动(Gonzalez-Castillo etal.,2021)。这些心理活动与任务诱发的心理活动可能产生极为复杂的相互作用(Sormazetal.,2018)，暗示了认知活动的脑机制不可能仅靠线性叠加方法而获得。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3自发脑活动和诱发脑活动的交互作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1自发脑活动对诱发脑活动的影响 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自发脑活动制约着诱发脑活动，对后者的影响是多方面的。由于神经元集群的兴奋性和抑制性对应着脑电活动的不同相位，早期研究主要关注δ、0、α和 $\\gamma$ 频段自发活动的脑电相位对视觉刺激加工效率的影响(Lakatos etal.,2007)。近年来的研究则从相位、波幅、无标度特性等多个角度发现刺激呈现前的自发脑电活动对认知活动的不同方面有独特的预测作用。比如，刺激出现前狱猴(marmoset)外纹皮层自发活动产生的 ${ 5 } { - } 4 0 \\mathrm { { H z } }$ 行波(travellingwave)的相位能预测任务诱发脑电的强度和对模糊刺激的知觉敏感性(Davis et al.,2020)。而两项基于脑磁图(magnetoencephalogram,MEG)和头皮脑电(electroencephalogram,EEG)技术的研究均发现刺激呈现前 $\\mathfrak { a }$ 的功率能显著预测对微弱刺激的意识水平，但不能预测知觉敏感性(Benwell et al.,2022; Zazio et al.,2022)。前扣带回膝部自发活动无标度特征的幂律指数(power law exponent,PLE)与抚摸诱发的反应强度呈正相关(Scalabrinietal.,2019)。头皮脑电 $\\mathfrak { a }$ 振荡的功率和无标度脑活动均能预测认知加工速度，但将二者分离后只有后者具有显著的预测能力(Ouyang et al,2020)。这些研究暗示了认知加工的速度、准确性、敏感性等不同方面有不同的神经机制，而每一方面都有独特的敏感性指标。正如测量长度、重量等不同的物理量需要用不同的测量工具，测量不同的心理量也需要用不同的指标；虽然儿童的身高和体重有较高的相关性，但测量身高不等于就是测量了体重，但这种使用单一指标(如，ERP)衡量不同心理加工机制的现象却比比皆是。因而，开发多样化的、高信效度的心理加工指标是心理学研究亟待解决的基础性问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除了神经活动的波动特性外，自发脑活动在不同时间尺度(频率)和时程上对诱发脑活动有不同的影响。比如，自发和诱发脑活动在高频 $( \\mathsf { a } { \\sim } \\mathsf { l o w } \\gamma )$ 存在负相互作用，刺激前自发活动的脑电功率越高则诱发活动的去同步化越强、刺激后 $3 0 0 { - } 4 0 0 ~ \\mathrm { m s }$ 的波幅越低、刺激后400-500ms 的试次间变异性越低；而在低频$( \\delta \\mathord { \\sim } \\theta )$ 存在正相互作用，刺激前自发活动的脑电功率越高则事件相关同步化(event-related synchronization,ERS)越强、刺激后 $1 5 0 { - } 2 5 0 ~ \\mathrm { m s }$ 的波幅越高、试次间变异性越高。上述正相互作用和负相互作用主要表现在神经振荡(oscillation)而不是无标度(scale-free)活动(Wainio-Theberge etal.,2021)。另一项研究发现，刺激出现前 $\\mathfrak { a }$ 和 $\\beta ( 8 - 3 0 \\mathrm { H z } )$ 的功率越大则神经抑制作用越强，通过功能抑制机制减小早期 $( < 2 0 0 \\mathrm { m s } ) \\mathrm { E R P }$ 成分；同时，刺激出现前 $\\alpha$ 和 $\\beta$ 的功率越大表明神经振荡越强，刺激后的功率抑制也越强，从而通过基线漂移(baseline-shift)机制增大晚期 $( > 4 0 0 ~ \\mathrm { m s } )$ )ERP 成分(Iemietal.,2019)。一项同时采用神经元钙离子成像、光成像和血液动力学成像方法的研究发现 $0 . 1 \\mathrm { H z }$ 左右的神经元自发活动与感觉刺激诱发的钙离子活动呈负相关，自发与诱发的血液动力学活动呈反向交互，而诱发的血液动力学活动和钙离子活动呈正相关(Chen et al.,2020)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大量研究表明，不同的认知活动和神经活动有不同的时间尺度并通过跨频率耦合的方式形成复杂的网络结构(Palva&Palva,2018)，这提示我们要在不同时空尺度上研究不同的认知和脑功能，在不适宜的时空尺度上虽能发现一些副现象，但不能阐明认知的关键脑机制。总之，自发脑活动影响诱发脑活动的时空模式是有规律可循的，探索认知和神经关联的时空特征是阐明心理加工脑机制的的核心要务。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2诱发脑活动对自发脑活动的影响 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "刺激诱发的脑活动虽然微弱，但能有效扰动自发脑活动。目前研究发现，诱发脑活动对自发脑活动的影响主要集中在FC和活动模式两方面。诱发脑活动对自发脑活动FC的影响在不同任务中具有共性。额顶网络、默认网络、注意网络等灵活参与多任务的网络之间通常出现任务依赖性的FC增强(Gonzalez-Castillo&Bandettini,2018; Ito et al.,2020)。相反，网络内部的FC 通常以降低为主，而积极地、有意识地卷入任务会使自发活动产生更强的去同步化(Crochet&Petersen,2006)。总体来讲，被试完成认知任务时自发脑活动的FC以降低为主(Ito et al.,2020)。这种降低并不代表脑区之间的通信减少，而是由于共享的自发活动减少了；对自发活动的抑制降低了神经噪声从而提高了任务信号的精度(Itoet al.,2020)。目前，已有大量研究发现认知任务会降低神经变异性(Churchlandet al.,2010; Jacobs et al., 2020; Ponce-Alvarez et al.,2015; Wang et al., 2020)并重组FC(Cole et al., 2014; Gonzalez-Castillo & Bandetini, 2018; Wang et al., 2019)。可见，除了注意过程中强化目标刺激、抑制干扰刺激外，大脑还具有一套完整的强化-抑制机制，即通过对自发活动FC的抑制来增强任务相关的FC，优化行为的效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了对FC的抑制，诱发脑活动还会引起自发脑活动全局活动模式的改变。Deneux 和Grinvald (2017)探索了在短暂的感觉输入后大脑内部动态性是如何改变的。他们发现，即使在短暂的单次触须刺激后，麻醉大鼠体觉皮层(barrelcortex)的兴奋和抑制状态也会被明显扰乱，特别是被刺激的体觉相关的功能柱中几秒内都不会出现兴奋状态。在经过几分钟的序列学习后，刺激呈现期间的神经活动模式会在刺激结束后的自发活动中进行重演，该回响甚至可以持续几分钟(Liu etal.,2021)。Lewis 等人(Lewis etal.,2009)对被试进行左下视野的注意力训练，发现经过2-9天的训练后右侧枕上回与注意相关脑区的静息态FC增强，而其他视觉皮层的FC 未发生变化。另外，Berkes 等(Berkes etal.,2011)发现在雪貂的发育过程中，自发脑活动的模式与自然刺激诱发的活动模式相似性增强，而与人工刺激(如栅格线)诱发的活动模式相似性降低。Avitan 等(Avitan et al,2021)则发现斑马鱼自发脑活动和斑点刺激诱发脑活动的发育轨迹相似，但二者的空间相似性随发育而降低；诱发脑活动的共激活水平和信息维度在所有发育阶段均高于自发脑活动。这些研究表明，诱发脑活动似乎能产生新的信息维度并诱导自发脑活动去探索和同化这些高维信息，在从即时活动到成长发育的不同时间尺度上改变着自发脑活动的模式。从这个角度看，诱发脑活动和自发脑活动之间普遍存在的负交互作用可以理解为诱发脑活动抑制了自发脑活动原来的活动维度并将其引导到新的维度上去，从而不断重塑着自发脑活动的模式。这一机制体现了大脑作为复杂系统的特征，或可为学习和记忆的脑机制研究提供新的思路。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3诱发脑活动和自发脑活动的交互 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "自发脑活动对诱发脑活动的影响决定了我们检测到的诱发脑活动是随大脑自发活动的状态而变化的。反过来，诱发脑活动对自发脑活动的影响则决定了自发脑活动是随任务情境而变化的，进而再度影响诱发脑活动，形成一个相互作用的循环。在这个循环过程中，动态的自发活动主动适应并提高对外部刺激的加工效率，而外部刺激调节和重置自发活动的路径和位置(Chen&Gong,2019)。Chen 等人(Chen etal.,2020)发现单次刺激诱发的 $\\mathrm { C a } 2 \\cdot +$ 瞬时变化在自发$\\mathrm { C a } 2 +$ 振荡的波谷(抑制性相位)更强，而刺激又将自发神经振荡的相位重置到波峰(兴奋性相位)，这表明诱发脑活动和自发脑活动之间的负交互作用是由二者共同实现的。Stringer 等人(Stringer etal.,2019)认为，刺激呈现过程中的“噪音”是行为驱动的并能在全脑记录到。他们从小鼠视觉皮层的自发神经活动中提取出100多个潜在行为状态，这些状态以200毫秒的周期波动；外部刺激诱发的活动并未打断这些自发活动的状态，而是在正交的维度叠加到自发活动上；在神经元群体水平，编码运动变量的神经维度与编码视觉刺激的神经维度仅在一个维度上重叠并在1秒的时间尺度上实现整合。此外，诱发脑活动和自发脑活动的交互还受到5羟色胺(5-hydroxy-tryptamine,5-HT)的调节。5-HT主要由背侧和内侧中缝核分泌，广泛投射到皮层和皮层下区域，且不同的5-HT受体(抑制性或去极化)在不同的皮层细胞类型中共同分布，使其能精细调节自发和诱发活动及二者的跨网络整合(Conio etal.,2020)。Azimi等人(Azimi etal.,2020)发现5-HT1A受体能抑制视觉皮层的自发活动而5-HT2A受体抑制视觉诱发反应，因此5-HT的输入会对自发和诱发活动产生不同的抑制作用，从而调节二者的关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "虽然诱发脑活动和自发脑活动之间的影响在理论上必然是双向的，但实证研究尚不充分。少数研究表明二者的双向影响是同时发生的。倘若如此，那些考察单向影响的研究就存在基本的逻辑问题，即在一方影响另一方的同时，自身也受到对方的反作用，因而不可能存在两种固定的状态用以研究二者的交互作用。换言之，心理加工的脑机制既不能通过诱发活动有效阐明，也不能通过自发活动和诱发活动的单向影响来准确揭示，而应该将二者作为一个不断演进的整体；这与生成认知理论的观点不谋而合。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4超越自发和诱发：生成脑活动",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生成认知是继信息加工和具身认知(embodiedcognition)之后的认知科学新取向(苏佳佳& 叶浩生,2021;叶浩生 etal.,2019)。在生成认知框架下，预期加工理论(predictive-processing theories)指出，个体主要通过预期(prediction)或期望(expectation)与世界相互作用，大脑在不断调整和重调来建构和保持与任务相关的协同活动，以便与环境保持平衡(Bolt,Anderson,et al.,2017)。因此，诱发脑活动不是新的、独立的活动，而是自发脑活动自身的扰动。或者说，脑活动不是诱发的，而是自发的、生成的。Pezzulo 等人(Pezzulo etal.,2021)进一步指出，自发脑活动是生成模型(generative model，是指描述一组数据如何生成的概率模型，在任务和静息情境下通常称为预期和注意)自上而下地预测认知和行为的动力学基础。具体而言，在执行特定任务时，大脑自上而下地为加工特定的刺激和行为做准备；在静息时，脑活动并不局限于重演以前的任务激活模式，而是让大脑做好准备去处理更广泛的刺激和行为，以适应未来与环境的交互作用。大脑的生成模型可能沿着指向外部的行为和指向内部的内感受两个维度模拟“世界中的身体”并形成特定的功能组织模式(Pezzulo etal.,2021)，这恰与Laumann 和 Snyder(Laumann& Snyder,2021)发现的自发脑活动包含神经可塑性、内稳态和实时认知活动三方面内容相吻合。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "一些数理模型对生成脑活动进行了具体阐述并很好地解释了面对外界刺激时脑活动状态的变化。动态系统理论(dynamical systems theory)把脑-身体-环境想象成一个由相互协调的成分组成的复合系统(Kiverstein&Miller,2015)。这种系统具有临界性(criticality)。临界是系统的一种交互状态，出现在各成分的完全异步(无序)和完全同步(有序)之间。大脑在静息状态表现出临界系统的特征(Meiseletal.,2013)，但在集中注意的任务中表现出亚临界动态性(subcriticaldynamics)(Fagerholm etal.,2015)。亚临界动态性对应更强的全局同步和更低的动态范围，从而降低了对不同输入进行响应的能力并减少了任务无关信息的干扰。换言之，自发脑活动可以访问多个可能的状态，而外部输入则会使它落入一个特定的状态，导致变异性降低(Ponce-Alvarez etal.,2015)。变异性降低可以理解为大脑的相关部分正在制定一个相互约束的系统，使整体进入并保持一个与任务相适应的功能配置(Bolt,Anderson,etal.,2017)。这种从多个可能状态向特定任务状态的转换主要表现为膜电位在兴奋和抑制状态间的振荡(Petersen,2005)，这种振荡是一种与BOLD 信号相关的慢皮层电位(slow-cortical potentials)(He&Raichle,2009)，因此fMRI活动可能反映了脑活动状态之间的低频转移(Bolt, Anderson, et al., 2017)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "类似地，贝叶斯理论认为自发活动通过采样大量的状态来保持对所有可能的外部环境的内部表征，从而形成预期或贝叶斯理论的先验；一旦结合了代表外部世界真实状态的感觉信息，先验就变成后验，本质上嵌入了更少的不确定性从而限制了抽样状态的数量(Ferezou&Deneux,2017)。这种观点认为自发活动在感觉加工中起积极作用，脑网络一直试图对环境做出推断，即使在静息或睡眠状态下也会从积累的经验中探索所有的可能性(Ferezou&Deneux,2017)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Friston (2010)试图用自由能原理(free-energy principle,FEP)为大脑作为一个复杂系统的活动规律建立一个统一的解释框架。FEP认为，大脑和生物体一样是一个为了维持自身的生存和繁衍而进行一系列自适应活动的自组织系统。它不是被动的感知输入器，而是符合生成模型的预测器，通过内部生成的先验预测与外部环境生成的刺激输入之间相匹配的递归过程使预测误差最小化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "近年来，支持上述模型的实证研究大量涌现，表明大脑的活动模式是控制导向的而不是仅仅表征外部世界，因此自发活动代表了由行为-感知回路的不断内化所形成的大脑状态集合，这些集合在未来需要的时候可以自动激活(Pezzuloet al.,2021)。生成模型认为大脑具有能动性，在理论上保证了脑活动过程中由结构和经验决定的稳定性和由适应环境决定的可塑性之间的统一。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5结语：走向变革 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由于自发脑活动是脑活动的主体并与诱发脑活动相互影响，无论是相对微弱的诱发脑活动还是静态的自发-诱发相互作用都不足以揭示心理加工的脑机制。生成认知为此提供了解决方案：将自发脑活动和诱发脑活动整合为统一的生成脑活动，以能动的主体活动获得了实证研究和数理模型的支持，引领心理加工的脑机制研究走向新的变革。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "首先是研究范式的变革。Finn (2021)指出，人脑成像的研究范式已经迎来第三次浪潮，即从传统的任务范式到静息态设计到现在的任务-静息整合设计，而不同状态下脑活动的动态变化则是整合设计关注的核心问题。换言之，整合设计更关心如何用统一的框架去解释脑活动在随情境的动态变化，而不是将自发活动和诱发活动对立起来。此外，以固定频率(如每10秒一次)呈现任务的稳态实验设计被用来探测特定心理加工的脑活动时空特征(Baldauf&Desimone,2014;Lewis et al.,2016;Wang et al.,2016)。稳态设计提供了一个不变的情境，使大脑专注于特定的心理加工而减少预期在试次间的反复变化，最大限度降低试次间的变异和试次内的预测对当前心理加工的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "随着研究范式的变革，一些新的数据分析方法应运而生。比如，Simony 等人(Simony etal.,2016)提出基于连续自然刺激(如，电影、音乐)的被试间功能连接(inter-subject functional connectivity,ISFC)方法提取任务诱发的FC，同时排除自发活动或非神经元噪声的影响。其基本逻辑是：对于任何一对给定的脑区，一个被试在一个脑区的时间序列和其他被试另一脑区的时间序列之间的相关仅仅由任务相关的活动而非个体差异或个体自身的噪声所贡献(Lynch et al,2018)。研究范式和数据分析方法的变革必将改变我们对心理加工脑机制的认识，推动认知神经科学走向一个新时代。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其次是研究指标科学性的变革。传统的基于诱发脑活动的研究由于脑信号的信噪比低、试次间变异大等原因导致研究结果的可靠性较差(Zhang et al.,2022)。Elliott 等(Elliott etal.,2020)的元分析表明，任务态激活的平均重测信度仅为0.397，感兴趣区激活的重测信度为0.067-0.485。而由于出版偏见和过度依赖虚无假设检验等原因，心理加工研究同样面临严峻的可重复性危机(胡传鹏et al.,2016)。比如，Open Science Collaboration 选取了2008 年发表在3本权威心理学期刊上的100项研究进行重复验证，结果发现64项研究未得到显著结果，而得到显著结果的实验平均效应量也明显降低(Open ScienceCollaboration,2015)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Draheim等(Draheimetal.,2019)认为，被试策略变异和测量指标不稳定(如，速度-准确性权衡)是制约心理实验信度的主要因素。生成认知摒弃了对微弱的诱发脑活动和不稳定的试次间变异的依赖，从生成脑活动的整体性、动态性出发探究心理加工的脑机制，全面捕捉心理加工和脑信号的动态变化，从而有效应对可重复性危机，提升认知神经研究的科学性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "再次是研究伦理性的变革。由于自发脑活动和诱发脑活动之间广泛存在的负交互作用，“刺激”、“诱发”的研究取向极大地抑制了自发脑活动。比如，节律刺激会诱发产生稳态响应，但相应频率上自发活动的强度降低(Keitel et al,2019)；物质成瘾会导致自身分泌和表达的多巴胺减少甚至消失(Wise&Robble,2020)，等等。因此，刺激诱发为主的脑干预技术很可能产生抑制自发脑活动的副作用。而生成认知通过对能动性的强调保证了脑活动的主体性，进而改变“被试”在心理学研究中的地位，促进研究伦理的变革。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "总之，对心理加工脑机制的研究正面临严峻的危机；研究的深入催生了生成认知的新取向，又为之提供了重要的契机。生成认知的蓬勃发展必将推动认知神经科学迈向一个更加科学化、人性化的新时代，进而为认识脑、保护脑、开发脑奠定新的基础。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "作者贡献申明：王一峰，提出研究问题和概念框架，撰写论文；张弛，搜集整理资料，撰写论文；严进洪，指导论文框架，修改论文；荆秀娟，搜集整理资料，修改论文。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Afrashteh,N.,Inayat, S.,Bermudez-Contreras,E.,Luczak,A.,McNaughton, B.L.,& Mohajerani, M. H. (2021). Spatiotemporal structure of sensory-evoked and spontaneous activity revealed by mesoscale imaging in anesthetized and awake mice. Cell Reports, 37,110081.   \nAo,Y.,Ouyang, Y., Yang, C.,& Wang, Y. (2021). Global signal topography of the human brain: A novel framework of functional connectivity for psychological and pathological investigations. Frontiers in human neuroscience,15, 644892. aiutvuktu activity patterns diverge over development. Elife,10,e61942.   \nAzimi, Z., Barzan,R., Spoida, K., Surdin, T.,Wollenweber,P.,Mark,M. D.,... Jancke, D. (2020). Separable gain control of ongoing and evoked activity in the visual cortex by serotonergic input. Elife,9, e53552.   \nBaldauf, D.，& Desimone，R. (2014). Neural mechanisms of object-based attention. Science, 344(6182), 424-427.   \nBenwell, C. S. Y., Coldea, A., Harvey, M., & Thut, G. (2022). Low pre- stimulus EEG alpha power amplifies visual awareness but not visual sensitivity. European Journal of Neuroscience, 10.1111/ejn.15166   \nBerkes,P., Orban, G.,Lengyel, M.,& Fiser, J. (2011). Spontaneous cortical activity reveals hallmarks of an optimal internal model of the environment. Science,331(6013), 83-87.   \nBolt，T.，Anderson，M.L.，& Uddin,L.Q. (2017).Beyond the evoked/intrinsic neural process dichotomy. Network Neuroscience,2(1), 1-22.   \nBolt,T., Nomi, J. S.,Rubinov, M.，& Uddin,L. Q. (2017). Correspondence between evoked and intrinsic functional brain network configurations. Human Brain Mapping, 38(4),1992-2007.   \nChen,G.，& Gong, P. (2019). Computing by modulating spontaneous cortical activity patterns as a mechanism of active visual processing. Nature communications,10, 4915.   \nChen,W., Park,K.,Pan, Y., Koretsky,A.P.,& Du, C. (2020). Interactions between stimuli-evoked cortical activity and spontaneous low frequency oscillations measured with neuronal calcium. NeuroImage,210, 116554.   \nChurchil, N. W., Spring,R., Grady, C., Cimprich, B.,Askren, M.K., Reuter-Lorenz,P.A....Berman, M. G.(2016). The suppression of scale-free fMRI brain dynamics across three different sources of effort: aging, task novelty and task difficulty. Scientific reports, 6,30895.   \nChurchland, M.M., Yu, B.M., Cunningham, J. P., Sugrue,L.P., Cohen,M.R., Corrado, G. S., Scott，B. B. (201O). Stimulus onset quenches neural variability: a widespread cortical phenomenon. Nature Neuroscience, 13(3), 369-378.   \nCole,M. W.,Bassett, D. S.,Power, J. D., Braver,T. S.,& Petersen, S.E. (2014). Intrinsic and taskevoked network architectures of the human brain. Neuron, 83(1),238-251.   \nConio,B., Martino,M., Magioncalda,P.,Escelsior,A., Inglese, M.,Amore,M.,& Northoff, G. (2020). Opposite effects of dopamine and serotonin on resting-state networks: review and implications for psychiatric disorders.Molecular Psychiatry,25,82-93.   \nCrochet, S.,& Petersen, C. C. H. (2006). Correlating whisker behavior with membrane potential in barrel cortex of awake mice. Nature Neuroscience, 9, 608-610.   \nDavis,Z. W., Muller,L., Martinez-Trujillo,J., Sejnowski,T.,& Reynolds,J.H. (2020). Spontaneous travelling cortical waves gate perception in behaving primates. Nature, 587, 432-436.   \nDeneux, T.,& Grinvald,A. (2017). Miliseconds of sensory input abruptly modulate the dynamics of cortical states for seconds. Cerebral Cortex,27(9), 4549-4563.   \nDraheim, C., Mashburn, C.A., Martin, J. D.,& Engle, R.W. (2019). Reaction time in differential and developmental research: A review and commentary on the problems and alternatives. Psychological Bulletin, 145(5), 508-535.   \nElliott, M.L., Knodt, A.R.,Ireland, D., Morris, M. L., Poulton, R., Ramrakha, S.,... Hariri, A. R. (2020).What is the test-retest reliability of common task-functional MRI measures? New empirical evidence and a meta-analysis. Psychological Science,31(7), 792-806.   \nFagerholm, E.D.,Lorenz,R., Scot, G.,Dinov, M.,Hellyer,P.J., Mirzaei, N.,...Leech,R. (2015). Cascades and cognitive state: Focused attention incurs subcritical dynamics. Journal of Neuroscience,35, 4626-4634.   \nFerezou, I.，& Deneux, T. (2017).How do spontaneous and sensory-evoked activities interact? Neurophotonics, 4(3), 031221.   \nFinn,E. S.(2021). Is it time to put rest to rest? .Trends in Cognitive Sciences,25(12),1021-1032.   \nFox,M. D., Snyder,A.Z., Vincent, J.L.,& Raichle,M.E.(20o7). Intrinsic fluctuations within cortical systems account for intertrial variability in human behavior. Neuron, 56(1),171-184.   \nFriston,K. (2010). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 11, 127-138.   \nFriston,K.J., Holmes,A.P.,Worsley, K.J.,Poline,J.P.,Frith, C.D.,& Frackowiak,R.S.(1994). Statistical parametric maps in functional imaging: a general linear approach. Human Brain Mapping,2(4), 189-210.   \nGarrett D.D., Samanez-Larkin, G.R.， MacDonald, S.W., Lindenberger,U.， McIntosh, A. R.，& Grady, C.L. (2013). Moment-to-moment brain signal variability: A next frontier in human brain mapping? Neuroscience & Biobehavioral Reviews,37(4), 6i0-624.   \nGonzalez-Castillo, J.,& Bandetini, P.A. (2018). Task-based dynamic functional connectivity: Recent findings and open questions. Neurolmage, 180, 526-533.   \nGonzalez-Castillo,J., Kam, J. W. Y.,Hoy, C.W., & Bandettini, P.A. (2021). How to interpret restingstate fMRI: Ask your participants. Journal of Neuroscience, 41(6), 1130-1141.   \nHe,B.J. (2Ol3). Spontaneous and task-evoked brain activity negatively interact. The Journal of Neuroscience, 33(11), 4672-4682.   \nHe,B. J.,& Raichle,M.E. (2oo9). The fMRI signal, slow cortical potential and consciousness.Trends in Cognitive Sciences, 13(7),302-309.   \nHe,B.J.， Zempel, J. M.， Snyder, A. Z.，& Raichle, M. E. (2010). The temporal structures and functional significance of scale-free brain activity. Neuron, 66(3), 353-369.   \nHu, C. P.,Wang, F., Guo,J. C. S., Song, M. D., Sui, J.,& Peng, K. P. (2016). The replication crisis in psychological research. Advances in Psychological Science, 24(9), 1504-1518.   \n[胡传鹏,王非,过继成思,宋梦迪,& 隋洁.(2016).心理学研究的可重复性问题：从危机到契机. 心理科学进展,24(9),1504-1518.]   \nHuang,Z., Zhang,J.,Longtin,A.,Dumont,G.,Duncan,N. W.,Pokory,J... Weng, X. (2017).Is there a nonadditive interaction between spontaneous and evoked activity? Phase-dependence and its relation to the temporal structure of scale-free brain activity. Cerebral Cortex, 27(2), 1037-1059.   \nIemi,L.,Busch, N. A., Laudini, A., Haegens, S., Samaha, J., Villringer, A.,& Nikulin, V.V. (2019). Multiple mechanisms link prestimulus neural oscillations to sensory responses. Elife, 8, e43620.   \nIshizu，K.， Shiramatsu，T.I.，Hitsuyu，R.，Oizumi,M.， Tsuchiya,N.，& Takahashi， H. (2021). Information flow in the rat thalamo-cortical system: spontaneous vs. stimulus-evoked activities. Scientific reports,11,19252.   \nIto,T.,Brincat,S.L., Siegel, M.,Mill,R.D., He,B.J., Miller, E.K.,... Cole,M. W. (2020). Taskevoked activity quenches neural correlations and variability across cortical areas. PLoS Computational Biology, 16(8), e1007983.   \nJacobs,E. A. K.,Steinmetz, N.A.,Peters,A.J., Carandini,M.,& Harris, K. D.(2020). Cortical state fluctuations during sensory decision making. Current Biology, 30, 4944-4955.   \nJing, X. J.,Ao, Y. J., Ouyang, Y. J.,Liu, Y., & Wang, Y.F. (2021). The physiological and psychological mechanisms of infra-slow oscillation. Acta Physiologica Sinica,2021; 73 (6), 973-979.   \n[荆秀娟,敖誉家,欧阳妤婕,刘洋,&王一峰.(2021).亚慢振荡的生理与心理机制.生理学报,73(6), 973-979.]   \nKeitel, C., Keitel, A., Benwell, C. S. Y.,Daube, C., Thut, G.,& Gross, J. (2019). Stimulus-driven brain rhythms within the alpha band: the attentional-modulation conundrum. The Journal of Neuroscience,39(16),3119 -3129.   \nKiverstein,J.，& Miller, M. (2015). The embodied brain: Towards a radical embodied cognitive neuroscience.Frontiers in human neuroscience, 9,237.   \nKucyi,A.，& Parvizi, J. (202O). Pupilary dynamics link spontaneous and task-evoked activations recorded directly from human insula. Journal of Neuroscience,40(32), 6207-6218.   \nLakatos,P., Chen, C.-M., O'Connell,M.N.,Mils,A.,& Schroeder, C.E. (2007). Neuronal oscillations and multisensory interaction in primary auditory cortex. Neuron, 53(2), 279-292.   \nLaumann, T. O., & Snyder, A. Z. (2021). Brain activity is not only for thinking. Current Opinion in Behavioral Sciences,40,130-136.   \nLewis, C. M., Baldassarre,A., Committeri, G., Romani, G.L., & Corbetta, M. (2009). Learning sculpts the spontaneous activity of the resting human brain. Proceedings of the National Academy of Sciences of the United States of America, 106(41),17558-17563.   \nLewis,L. D., Setsompop, K., Rosen,B.R.,& Polimeni, J.R. (2016).Fast fMRI can detect oscillatory neural activity in humans. Proceedings of the National Academy of Sciences of the United States of America,113(43), e6679-e6685.   \nLiu, Y., Matar, M. G., Behrens, T. E. J. Daw, N. D.,& Dolan, R.J. (2021). Experience replay is associated with efficient nonlocal learning. Science, 372,eabfl357.   \nLynch,L. K.,Lu, K.-H.,Wen,H., Zhang, Y., Saykin,A. J.,& Liu, Z. (2018). Task-evoked functional connectivity does not explain functional connectivity differences between rest and task conditions. Human Brain Mapping,39, 4939-4948.   \nMann,K., Deny, S., Ganguli, S.,& Clandinin, T. R. (2021). Coupling of activity, metabolism and behaviour across the Drosophila brain. Nature, 593,244-248.   \nMansson, K. N. T., Waschke,L.， Manzouri, A., Furmark, T., Fischer, H.,& Garret, D. D. (2022). Moment-to-moment brain signal variability reliably predicts psychiatric treatment outcome. Biological Psychiatry, 91(7), 658-666.   \nMeisel,C., Olbrich,E., Shriki, O.,& Achermann,P. (2013).Fading signatures of critical brain dynamics during sustained wakefulness in humans. Journal of Neuroscience,33,17363- 17372.   \nMolnar, Z., Luhmann, H. J.,& Kanold, P. O. (202O). Transient cortical circuits match spontaneous and sensory-driven activity during development. Science, 370, eabb2153.   \nNickerson, L. D. (2018). Replication of resting state-task network correspondence and novel findings on brain network activation during task fmri in the human connectome project study. Scientific reports,8,17543.   \nOpen Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), 943-951.   \nOuyang, G., Hildebrandt, A., Schmitz,F., & Herrmann, C. S. (2020). Decomposing alpha and $1 / \\mathrm { f }$ brain activities reveals their differential associations with cognitive processing speed. NeuroImage, 205,116304.   \nPalva,S.,& Palva, J. M. (2018). Roles of brain criticality and multiscale oscillations in temporal predictions for sensorimotor processing. Trends in Neurosciences,41(10), 729-743.   \nPetersen, C. C. H. (2005). Evoking spontaneous activity. Neuron, 48,710-711.   \nPezzulo, G., Zorzi, M., & Corbeta, M. (2021). The secret life of predictive brains: what's spontaneous activity for? Trends in Cognitive Sciences,25(9),730-743.   \nPonce-Alvarez, A., He, B. J., Hagmann, P.,& Deco, G. (2015). Task-driven activity reduces the cortical activity space of the brain: experiment and whole-brain modeling. PLoS Computational Biology, 11(8), e100445.   \nRingach, D.L. (2oo9). Spontaneous and driven cortical activity: implications for computation. Current Opinion in Neurobiology, 19(4), 439-444.   \nScalabrini,A., Ebisch, S.J. H.,Huang, Z., Plinio, S.D., Perrucci, M.G., Romani, G. L.,. . Northoff, G. (2019). Spontaneous brain activity predicts task-evoked activity during animate versus inanimate touch. Cerebral Cortex, 29(11), 4628-4645.   \nShimaoka,D., Steinmetz,N. A., Haris, K. D.,& Carandini, M. (2019). The impact of bilateral ongoing activity on evoked responses in mouse cortex. Elife,8, e43533.   \nSimony,E., Honey, C. J., Chen, J., Lositsky, O., Yeshurun, Y., Wiesel, A.,& Hasson, U. (2016). Dynamical reconfiguration of the default mode network during narrative comprehension. Nature communications, 7,12141.   \nSmith,S. M.,Fox,P.T., Miler, K.L., Glahn,D. C.,Fox,P.M., Mackay, C.E.,... Laird,A.R. (2009). Correspondence of the brain's functional architecture during activation and rest. Proceedings of the National Academy of Sciences of the United States of America,106(31),13040-13045.   \nSormaz, M., Murphy, C., Wang, H.-t., Hymers, M., Karapanagiotidis,T., Poerio, G.,.. . Smallwood,J. (2018). Default mode network can support the level of detail in experience during active task states. Proceedings of the National Academy of Sciences of the United States of America, 115(37), 9318-9323.   \nStringer, C.， Pachitariu,M., Steinmetz,N.，Reddy, C.B., Carandini,M.,& Harrs,K.D.(2019). Spontaneous behaviors drive multidimensional, brainwide activity. Science, 364, eaav7893.   \nSu, J. J.,& Ye, H. S. (2021). “Enactive cognition”,“Interaction theory” and “Predictive procesing model\" -a new look at “the problems of other mind\". Journal of Psychological Science, 2021, 44(6): 1519-1526.   \n[苏佳佳,& 叶浩生.(2021).“生成认知”、 “互动理论”与“预测加工模型” “他心问题” 的新思考.心理科学,44(6),1519-1526.]   \nTommasin, S., Mascali,D., Gili,T.,Assan,I. E., Moraschi,M.,Fratini, M.,...Giove,F. (2017). Taskrelated modulations of BOLD low-frequency fluctuations within the default mode network. Frontiers in Physics,5,31.   \nUlloa,A.,& Horwitz, B. (2018). Quantifying diferences between passive and task-evoked intrinsic functional connectivity in a large-scale brain simulation. Brain Connectivity, 8(1O), 637-652.   \nWainio-Theberge, S.,，Wolff A.,& Northoff, G. (2021). Dynamic relationships between spontaneous and evoked electrophysiological activity. Communications Biology, 4,741.   \nWang, Y.-F., Dai, G.-S., Liu,F., Long, Z.-L., Yan, J. H.,& Chen, H.-F. (2015). Steady-state BOLD response to higher-order cognition modulates low frequency neural oscillations. Journal of Cognitive Neuroscience, 27(12), 2406-2415.   \nWang,Y.,Ao,Y., Yang, Q.,Liu,Y.,Ouyang,Y., Jing, X.,.. Chen, H. (202). Spatial variability of low frequency brain signal differentiates brain states.PLoS ONE,15(11),eO242330.   \nWang,Y., Chen, W., Ye,L.,Biswal, B.B., Yang, X., Zou,Q.,... Chen, H. (2018). Multiscale energy reallocation during low-frequency steady-state brain response. Human Brain Mapping, 39, 2121-2132.   \nWang,Y., Huang, X., Yang, X., Yang, Q., Wang, X., Northof, G.,... Chen, H. (2019). Low-frequency phase-locking of brain signals contribute to efficient face recognition. Neuroscience, 422,172- 183.   \nWang, Y. F.,Long, Z., Cui, Q., Liu, F., Jing, X. J., Chen, H.,.. . Chen, H. F. (2016). Low frequency steady-state brain responses modulate large scale functional networks in a frequency-specific means.Human Brain Mapping,37,381-394.   \nWise,R. A., & Robble, M. A. (2020). Dopamine and addiction. Annual Review of Psychology, 71,79- 106.   \nYe,H.S., Zeng,H.,& Yang,W. D. (2019). Enactive cognition: Theoretical rationale and practical approach.Acta Psychologica Sinica,51(11), 1270-1280.   \n[叶浩生,曾红,&杨文登.(2019).生成认知 ：理论基础与实践走向.心理学报,51(11),1270-1280.]   \nZazio,A.， Ruhnau,P.，Weisz, N.，& Wutz,A. (2022). Pre-stimulus alpha-band power and phase fluctuations originate from different neural sources and exert distinct impact on stimulusevoked responses.European Journal ofNeuroscience,10.1111/ejn.15138.   \nZhang, Q., Cramer, S.R., Ma, Z., Turmer, K. L., Gheres, K. W., Liu, Y.,... Zhang, N. (2022). Brainwide ongoing activity is responsible for significant cross-trial BOLD variability. Cerebral Cortex,10.1093/cercor/bhac1016. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Brain mechanisms of psychological processes: from evoked brain activity to enactive brain activity ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Yifeng Wangl\\*， Chi Zhang'， Jinhong Yan²， Xiujuan Jing",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Corresponding to Yifeng Wang: wyf@sicnu.edu.cn ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "1. Institute of Brain and Psychological Sciences,Sichuan Normal University, Chengdu, 610o66,China.   \n2.Sports Psychology Department, China Institute of Sport Science, Beijing,1Oo061, China.   \n3.Tianfu College of Southwestern University of Finance and Economics, Chengdu, 610o52, China. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Task-evoked brain activity is the basic experimental paradigm for exploring the brain mechanisms of psychological processes. So far,the major techniques for detecting brain activity,such as brain activation and event-related potential,assume that there is no interaction oronlyanegligible interaction between evoked brain activity (EBA）and spontaneous brain activity (SBA).Therefore,the general linear model is usually used to explore the brain mechanisms of psychological processes.The absence of interaction between EBA and SBA, however,violates the fundamental principle of neuroplasticity.On theother hand,SBA is the main componentof brain activity. It consumes $9 5 \\ \\%$ of the brain's total energy and is the major source of variations in both stimulusdependent and stimulus-independent brain activities.Therefore,SBA is more important for psychological processes. These challenges warrant new ideas and techniques to uncover the brain mechanisms of psychological processes. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "SBA and EBA interact with each other to ensure the stability and plasticity of brain functions.They are similar in the basic structure of functional networks,but different in spatiotemporally dynamic paterns.These findings raise the question: how do they play with each other to reconcile stable brain activity and ever changing environment? It has been found that SBA strongly influences EBA on multiple facets.On the contrary, EBA dramatically reduces functional connectivityand temporal variability,aswell as the global pattrn of functional organization of SBA.Furthermore,they impact on each other simultaneously.Therefore,the brain mechanisms of psychological processes cannot be efectively uncovered only by EBA or by static interaction between EBA and SBA. Instead,EBAand SBA have to be seen as anevolving entirety.This research orientation coincides with the opinion of enactive cognition (EC). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The EC is a new orientation of cognitive sciences following information processing and embodied cognition. According to predictive-processing theories ofEC, brain activity is unified and active.It adjusts its own activity patern by reducing the error between expectation and stimulus,adapting to the ever changing environment. A large number of empirical studies have shown that brain activity is a control-oriented processrather than merely representing the external world.In this sense,SBA is actually enactive brain activity.Enactive brain activity is supported by mathematical models such as the dynamical systems theory and Bayesian theory,and finally unified by the free-energy principle.The free-energy principle suggests that the brain, just like any organisms,is a selforganizing complex system.It adapts itself to the ever changing environment by minimizing errors (or free-energy) between prediction and real stimulation. The EC restores the biological and complex system properties of the brain,ushering in a new era of enactive brain activity. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The enactive brain activity causes a shift in the research paradigm,making investigations on the brain mechanisms of psychological processes more scientific and ethical. Instead of paying atention to low signal-tonoise ratio evoked brain signalsand inter-trial stabilities,the new paradigm emphasizes the dynamic integration of task-state and resting-state brain activities,and develops new ways to track dynamic brain activities,constantly changing our understanding of the brain mechanisms of psychological processes.In adition,EC abandons \"stimulating”and“evoked”,and values the initiative of brain activity.It willchange the status of“participant” in psychological studies.These efforts make it more scientific and humanized in researches on the brain mechanisms of psychological processes. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Key words Brain mechanism; Cognitive neuroscience; Evoked brain activity; Spontaneous brain activity; Enactive brain activity; Psychology ",
+        "page_idx": 16
+    }
+]

@@ -1,0 +1,88 @@
+DOI:10.11931/guihaia.gxzw201804028
+
+# 中国兰科植物研究杂记
+
+王喜龙¹，王程旺²，李剑武 3（1.西藏自治区高原生物研究所，拉萨 850001;
+
+2.南昌大学 生命科学学院，南昌3300312;
+
+3.中国科学院西双版纳热带植物园综合保护中心，云南勐腊666303)
+
+摘要：西藏墨脱县位于东喜马拉雅和印缅交界地区，是雅鲁藏布江大峡谷国家级自然保护区的核心区域，是喜马拉雅生物多样性热点地区之一。通过对墨脱的科学考察，报道了中国兰科植物2新纪录种，西藏牛角兰(Ceratostylis radiata)和格当石豆兰(Bulbophyllum psychoon)，并提供描述和图片。西藏牛角兰花为纯白色，花辐射对称，唇瓣3裂，茎长 $2 { \sim } 2 . 5 \ \mathrm { c m }$ 而明显区别于该属内其他种。格当石豆兰与齿瓣石豆兰（Bulbophyllum levinei）相似，但不同之处在于花瓣卵形，先端锐尖。凭证标本分别保存于西藏自治区高原生物研究所（XZ）和中国科学院植物研究所（PE）标本馆。2个新纪录种原分布均在印度、缅甸和越南等地区，在西藏的发现，说明了墨脱的植物区系和原分布地有一定的关系，同时也印证了墨脱属于亚热带地区，且2个种的分布海拔也超出了原分布地范围，开花的时间也相对推迟。新纪录种的发现对摸清本区植物种类和丰富中国西藏植物区系提供了更加详实的资料。
+
+关键词：新纪录，兰科，西藏牛角兰，格当石豆兰，西藏，中国
+
+# Additional notes on Orchidaceae from China
+
+WANG Xilong', WANG Chengwang², LI Jianwu3\*
+
+(1.Tibet Plateau Institute of Biology,Lhasa 8500O1,China; 2. School of Life Sciences,Nanchang University,Nanchang 330031,China; 3.Center for Integrative Conservation, Xishuangbanna Tropical Botanical Garden,the Chinese Academy of Sciences,Mengla 666303,Yunnan,China）1
+
+Abstract: Medog County， Tibet is located at the junction of the Eastern Himalaya and Indo-Burma region,one of biodiversity hotspot in Himalaya areas,which is the core area of
+
+Yarlungzangbo Grand Canyon National Nature Reserve. The county has a mild subtropical climate. As the lowest area in Tibet Plateau, it is an ideal place in Tibet with the mildest climate, the most abundant rainfalls and the best preserved ecological environment. It is known as Tibet's Xishuangbanna, it is abundant with immense forests, alpine lakes and raging waterfalls. During our botanical survey in Medog county of southeastern Tibet. Two new records to flora of China, Ceratostylis radiata J.J.Sm. and Bulbophyllum psychoon Rchb.f.(Orchidaceae),are described and illstrated. Ceratostylis radiata has white flower, star-shaped without colored spot, with short stem $2 { - } 2 . 5 ~ \mathrm { c m }$ ,lip 3-lobed.Bulbophyllum psychoon is similar to B. levinei,but this species was easy identified by its petals ovate, apex obtuse,flowering from November to December. Both of the voucher specimens were deposited in Herbarium of XZ and PE. Both of orchids are original distributed in India,Myanmar and Vitenam. The discovery of the two new record species in Medog,enriches the plant species in the Southeast of Tibet in China, shows that there is a certin relationship between the flora of Medog and the original distribution areas,and it also confirms that Medog is a subtropical region and the species of distribution elevation above the orginal distribution range,flowering period also delayed. Over-collection and habitat destruction are the most threat to orchid species in this area. To deal with threats，we recommend the local government should prohibit illgal collection, strengthen the nature reserve scientific management, strictly restrict the number of tourists access to the core area and buffer zone of the Yarlungzangbo Grand Canyon National Nature Reserve to protect its fragile ecology. Discovery of this new record orchid species further highlights the value for biodiversity conservation of Southeastern of Tibet and calls for more comprehensive exploration on botanical surveys， studies， and conservation in this region.
+
+Key words: new record, Orchidaceae, Ceratostylis radiata, Bulbophyllum psychoon, Tibet, China
+
+Southeastern China is a global biodiversity hotspot located at the junction of the Eastern Himalaya and Indo-Burma region (Myers et al, 2000; Mitermeieret et al, 2005). Medog is located in the southeast of the Tibet Autonomous Region and at the lower branch of Yarlungzangbo River. There is a subtropical warm humid climate caused by Indian ocean and South Asian monsoon, which brings moisture along the Yarlungzangbo river. The area consists of a diverse series of ecosystems from alluvial grasslands，subtropical broadleaf forests and rain forests to alpine meadows above the tree line at an altitudinal range of $1 5 0 { - } 6 ~ 0 0 0 ~ \mathrm { m }$ above sea level.In recent years, many new species have been discovered in Medog (e.g. for Orchidaceae; Lai & Jin, 2012; Huang et al, 2O13;Wang et al,2O17) which indicates that the biodiversity survey in this region have space to carry out. During our botanical survey in Medog county of southeastern Tibet Autonomous Region, China, in November 2017,two new records of orchid species in China, Ceratostylis radiata J.J. Sm. and Bulbophyllum psychoon Rchb.f.， were found and reported as below.   
+1. Ceratostylis radiata J.J. Sm., Fl. Buitenz. 6: 295. Fig.225,1905; Schechter, Beilb.Bot. Jahrb. 104.45(3): 21.1911; J.J. Sm.,Fed.Repert. 32: 213.1933; Baker & Bakhuizen,Fl. Java 310.1968; Seidenf., Bot. Tidsskr. 65(1-2): 132.1969; Op.Bot.89:115.1986; Ceratostylis linearifolia Ridl., Fl.Malay Pen. 4: 110.1924; Holttum, Orchids of Malaya,Fl. Malaya 495.1957.   
+西藏牛角兰（新拟）（Fig.1） Ceratostylis Blume (1825） consists of 10O species distributed from tropical Asia (India, Indonesia) to New Guinea and the Pacific Islands (Pearce & Cribb,2OO2). There are four species
+
+C.hainanensis, C. himalaica, C.siamensis and C.subulata in China (Chen et al,2OO9; Li et al, 2015).
+
+Epiphytic herbs. Stems short, clustered,ca. $2 { - } 2 . 5 \ \mathrm { c m }$ long, $5 \ \mathrm { m m }$ thick，covered by 2 membranous sheaths, sheath tubular, $4 { - } 5 \times 1 { - } 1 . 5 \ \mathrm { c m }$ ,apex acuminate. roots growing from base of stem. ca. $1 ~ \mathrm { m m }$ thick, $1 0 \ \mathrm { c m }$ long. Leaves linear-lanceolate, elongated, $1 5 { - } 2 5 { \times } 1 . 4 { - } 2 . 2 ~ \mathrm { c m }$ apex acute,slightly asymmetry, mid-vein slightly concave above, slightly convex below, basally ca. 5 cm both sides sinuate upward to form a tube, petiole ca.1 cm long,connected with stem by joints and resembles the extension of the stem. Inflorescence racemes growing from axillary of leaves, terminal with clustered scape, but at the same time only growing 1-2 racemes, each with 1 flower, scape with 3-4 sheaths at base, sheath trianglar-ovate, $1 . 5 – 1 . 7 \times 1 ~ \mathrm { c m }$ ,apex acuminate. Peduncle $1 { - } 1 . 2 ~ \mathrm { c m }$ long,with 1 tubular sheath at base,ca. $4 \times 4 . 5 ~ \mathrm { m m }$ ， apex acuminate. Flowers white, star-shaped. Pedicel and ovary $9 { - } 1 0 \ \mathrm { m m }$ long,densely hirsute. floral bracts trianglar, $2 { - } 2 . 5 \times$ $3 { - } 3 . 5 \ \mathrm { m m }$ ，apex acuminate. Sepals similar, lanceolate,hairy abaxially，base slightly densely, $1 2 { - } 1 3 \times 4 ~ \mathrm { m m }$ ，apex acute, 5-vined， lateral sepals slightly shorter, mentum ca. $3 \ \mathrm { m m }$ deep, 4 mm in diam.,apex bilobed; Petals $1 2 \mathrm { - } 1 3 \times 3 ~ \mathrm { m m }$ ,linear lanceolate, narrowly acuminate towards apex,shorter than lateral sepals, 3-veind; Lip ca. $1 5 ~ \mathrm { m m }$ long,3-lobed, side-lobes triangular ca. 3 $\times \ 1 . 2 \ \mathrm { m m }$ ，obtuse with finely hair margins; mid-lobe lanceolate with curved downwards,apex acute, disc with two ridges on the middle of side-lobes, base of the lip narrows into claws, claw ca. $5 \mathrm { m m }$ long,bent and concealed in the mentum; Column ca. $1 . 2 ~ \mathrm { m m }$ long, column foot ca. $3 \ \mathrm { m m }$ long，stelidia oblong， ca. $2 ~ \mathrm { m m }$ long,apex rounded; anther cap oblong; pollinia 8. Capsule ellipsoid, ca. $1 . 2 \times 0 . 8 ~ \mathrm { c m }$
+
+![](images/06159ed22f057dc655e437a46e0323b4eeed040ba30ac634b015c865153e6e94.jpg)  
+Note: A.Habitat (with capsule);B-E.Flower (with different view). Fig.1. Ceratostylisradiata J.J.Sm. (photographed byLi Jianwu)
+
+China.Tibet: Medog County, Linzhi City. It is epiphytic on semi-green forest beside the   
+Yarlungzangbo river, alt. $1 0 7 7 \ \mathrm { m }$ ，November 2O17.Flowering from November to December. Jin   
+Xiaohua, Li Jianwu,Wang Xilong,Wang Chengwang 19116 (XZ!,PE!). Distribution: China (Tibet), Vietnam, Myanmar, India, Thailand, Malaysia, Java, Sumatra. Key characteristics to Ceratostylis   
+1a.Leaves subterete, stem more than $2 0 \mathrm { c m }$ ,flowers yello.w.. C.subulata   
+1b. Leaves linear to narrowly oblong; stem less than $1 0 \mathrm { c m }$ ,completely enclosed by sheaths. 2a. Stem branching C.himalaica 2b.Stemunbranched 3a.Leaves longer, $1 5 { - } 2 5 ~ \mathrm { c m }$ long, flowers white.. C. radiata 3b.Leaves shorter, $2 . 5 \mathrm { - } 6 . 0 \mathrm { c m }$ long, flowers white with purple-red or purplish stripes. 4a. Stem ca. $1 \mathrm { c m }$ ,flower white with purplish stripes near base......C. hainanensis 4b. Stem ca. $0 . 2 \mathrm { c m }$ , flower  white with .purple-re .spoted.......iamensis
+
+Ceratostylis radiata was published on Die Orchideen from Java in 1905.The type specimen from Herbarium catalogue of Kew was collcted from Langkawi of Malaysia. After that, it was also be found in Vietnam, Myanmar, India and Thailand (Seidenfaden,1986; Kuezweil & Lwin,2012; Odyuo et al, 2013;Averyanov et al, 2016). This species was easy identified by its short stem $2 { - } 2 . 5 \ \mathrm { c m }$ , pure white flower, lip 3-lobed, star-shaped without colored spot in the field. 2 Bulbophyllum psychoon Rchb.f.,Gard. Chron., n.s.1O: 17O-171.1878.
+
+格当石豆兰（新拟）（Fig.2）
+
+Bulbophyllum Thouars (1822) is the largest genus in Orchidaceae (Chase et al, 2O15). There are about 15O species in China (Zhou et al, 2O16).We identified this species is Bulbophyllum psychoon which belongs to section Desmosanthes. There are three species，B. levinei， B. eublepharum and B. insulsoides, distributing in China in this section (Chen et al,1999).
+
+Epiphytic herbs. Rhizomes creeping.Roots from rhizome nodes on base of pseudobulbs. Pseudobulbs subcylindric or bottle-shaped, $\mathsf { 5 } { - } 1 0 \times 2 { - } 4 ~ \mathrm { m m }$ ，with a terminal leaf.Leaf blade narrowly oblong or obovate-lanceolate, $3 – 4 \times 0 . 5 – 0 . 7 ~ \mathrm { c m }$ ，thinly leathery, base contracted into petiole, Petiole $3 { \bmod { \mathrm { ~ m m } } }$ . margin slightly undulate,apex subacute. Scape arising from base of pseudobulb，erect, $6 { - } 8 ~ \mathrm { c m }$ ，longer than leaves， glabrous. Inflorescence erect,shortened, umbel-like, often 2-6-flowered; peduncle ca. $4 ~ \mathrm { m m }$ ，sparsely with 2 or 3 tubular sheaths;floral bracts erect, narrowly lanceolate, $2 { - } 3 . 5 \ \mathrm { m m }$ ,apex acuminate.Pedicel and ovary longer than floral bracts. Flowers white tinged with purple. Dorsal sepal ovate-lanceolate, concave, $3 \substack { - 4 \times 1 . 5 - 2 }$ （204号 mm,abruptly contracted and thickened above middle,margin denticulate,apex acute； lateral sepals obliquely ovate-lanceolate, $3 { - } 5 \times 1 . 5 { - } 2 \ \mathrm { m m }$ ，thickened above middle,base adnate to column foot forming a mentum, margins entire,apex cuspidate. Petals connivent to sepals,ovate, ca. $2 { - } 2 . 5 \times 1 . 5 { - } 2 \ \mathrm { m m }$ , margins denticulate,apex obtuse.Lip recurved,lanceolate in outline, 2-2.5 mm, nearly fleshy,basal half grooved,base atached to end of column foot, immobile,margin entire,apex subacute; column ca. $1 . 2 ~ \mathrm { m m }$ ,column foot curved, ca. $1 . 5 ~ \mathrm { m m }$ ，with free part ca. 0.5 mm，stelidia filiform, ca. $0 . 5 \ \mathrm { m m }$ ； anther cap subglobose，apex narrowed and beaked,with a densely finely papillate ridge centrally.
+
+![](images/d3089392f1c927e53d555e019a12ea6840e78f53924a426ba1ef7796b08b3267.jpg)  
+Note:A.Habitat; B-C.Inflorescence. Fig.2.BulbophyllumpsychoonRchb.f.(PhtographedbyLiJianwu)
+
+China. Tibet: Medog County, Linzhi City. It is epiphytic on broadleaf-coniferous forest beside the road,alt. $1 7 6 9 \mathrm { ~ m ~ }$ ，November 2O17.Flowering from November to December. Jin Xiaohua,Li Jianwu, Wang Xilong,Wang Chengwang 19192 (XZ!, PE!).
+
+Distribution: China (Tibet), Vietnam, Laos, India. Key characteristics to B.psychoon,B. levinei, B.eublepharum and B. insulsoides in   
+section Desmosanthes   
+la.Inflorescence umbellate 2a Petals ovate-lanceolate,apex long acuminate. ..B. levinei 2b Petals ovate, apex obtuse . ..B. psychoon   
+1b.Inflorescence racemose 3a. Lip 3.5-4 mm... .B.eublepharum 3b. Lip 2-2.8 mm.... .B.insulsoides
+
+Bulbophyllum psychoon Rchb.f. was first described and published on The Gardeners' Chronicle by Reichenbach & Heinrich Gustav in 1878.After that, it was also be found in Vietnam and Laos (Averyanov, 20O7,2013). Bulbophyllum psychoon is similar to $B$ ，levinei, but this species was easy identified by its white tinged with purple flower,with shortened,umbel-like inflorescence with 2-6-flowered. Petals ovate，apex obtuse. Flowering from November to December.
+
+Ceratostylis radiata and Bulbophyllum psychoon were collected in Medog county, Tibet, it is confirmed the flora characteristics of Medog belonging to the tropical monsoon forests. According to researchers,over-collection and habitat destruction are the most threat to orchid species.To deal with this threat， we recommend the local government should prohibit illgal collction and strengthen the scientific management, strictly limit human access to the core area and buffer zone by the Yarlungzangbo Grand Canyon National Nature Reserve.Protected areas are the cornerstone of in-situ conservation, protection of this rare and endangered orchids could be enhanced through the implementation of a management plan which included In-situ or $E x$ -situ conservation and artificial cultivation.Discovery of this new record species of Orchidaceae further highlights the high value for biodiversity conservation of Southeastern of Tibet and calls for more comprehensive investigation on ecological surveys, studies,and environmental protection in this area. This report is only a small part of our current work.With the deepening of field investigations and the completion of indoor specimen identification,it is believed that there will be more new discoveries.
+
+# Acknowledgements
+
+We are grateful to Dr. Jin Xiaohua for his critical review of the manuscript, to La Ba Pin Cuo, Ge San for their kind help in the fieldwork. This study was supported by grants from the Natural Science Foundation of Tibet Autonomous Region (2O16ZR-QY-04).
+
+# References
+
+AVERYANOVLV,MAISAKKS,NGUYENTV,et al,2016. New species of orchids (Orchidaceae) in the flora of Vietnam[J]. Taiwania,61(4),319-354.   
+AVERYANOVLV, 2007. New species of orchids from vietnam[J]. Taiwania, 52(4):287-306.   
+AVERYANOV LV，2013.New and rare orchids (Orchidaceae）in the flora of Cambodia and Laos[J]. Turczaninowia,16(4):26-46.   
+CHASE MW, CAMERON KM,FREUDENSTEIN JV,et al,2015.An updated clasification of Orchidacee[J]. Bot JLinn Soc. 177: 151-174.   
+CHEN SC,LIU ZJ, ZHU GH, et al,2009. Orchidaceae[M]//WU ZY,RAVEN PH, HONG DY.Flora of China,. Beijing: Science Press; St. Louis: Missouri Botanical Garden Press,25: 360-361.   
+HUANG WC, JIN XH, XIANG XG,2013. Maleola tibetica sp. nov. (Aeridinae,Orchidaceae） from Tibet, China[J]. Nord JBot,31(6):717-719.   
+CHEN XQ,JI ZH,LANG KY,et al,1999. Orchidaceae[M]//WU ZY.Flora of China.Beijing: Science Press, 19:191-193.[陈心启，吉占和，郎楷永,等，1999.中国植物志[M]//吴征镒．北京：科学出版社，19: 191-193.]   
+KUEZWEIH,LWIN S,2012.New records in the orchid floraof Myanmar[J].Thai For Bul,40: 108-113.   
+LAI YJ,Jin XH,2012. Micropera tibetica,sp.nov. (orchidaceae)from Southeastern Tbet, China[J]. Nord JBot, 30(6):687-690.   
+LI JW,YE DP,LIUJX,etal,2015.Orchids newlyrecorded to China[J].Plant Divers Resourc,37(3):246-252.[李 剑武，叶德平，刘景欣，等,2015．中国兰科植物新资料[J]．植物分类与资源学报,37(3):246-252.]   
+MITTERMEIER RA, GILPR,HOFFMAN M,et al.2005.Hotspots revisited: Earth's biologically richest and most endangered terrestrial Ecoregions[M]. Washington, D.C. : Conservation International.   
+MYERS N,MITTERMEIER RA，MITTERMEIER CA,et al,2000.Biodiversity hotspots for conservation priorities[J].Nature,403: 853-858.   
+ODYUO N,ROYDK,DEORI C,etal,2013.Ceratostylis radiata (Orchidaceae)-Anew record to Indian flora[J]. Rheedea,23(1),43-45.   
+PEARCE NR,CRIBB PJ,2002.The Orchids of Bhutan.Vol.I, part3.Royal Botanic Garden Edinburgh,Royal Government of Bhutan.   
+SEIDENFADEN G,1986. Orchid Genera in Thailand XII. Thirty-three epidendroid Genera[J]. Opera Bot,89: 109-117.   
+WANG CW, YANG BY, JIN XH, 2017. Herminium motuoensis sp. nov. (Orchidaceae, Orchidoideae),a new species from Tibet, China[J].Phytotaxa,329(2):197-200.   
+ZHOU XX,CHENG ZQ,LIU QX,et al, 2016.An updated checklist of Orchidaceae for china, with two new national records[J]. Phytotaxa,276(1):1-148.

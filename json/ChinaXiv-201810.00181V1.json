@@ -1,0 +1,409 @@
+[
+    {
+        "type": "text",
+        "text": "Evaluating and modeling the spatiotemporal pattern of regional-scale salinized land expansion in highly sensitive shoreline landscape of southeastern Iran ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mohammad SHAFIEZADEH,Hossein MORADI\\*， Sima FAKHERAN",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Natural Resources, Isfahan University of Technology, Isfahan 8415683111, Iran ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Taking an area of about $2 . 3 { \\times } 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ of southeastern Iran, this study aims to detect and predict regional-scale salt-affected lands. Three sets of Landsat images, each set containing 4 images for 1986, 2000,and 2015 were acquired as the main source of data. Radiometric, atmospheric and cutline blending methods were used to improve the quality of images and help better classify salinized land areas under the support vector machine method. A set of landscape metrics was also employed to detect the spatial pattern of salinized land expansion from 1986 to 2015. Four factors including distance to sea, distance to sea water channels， slope， and elevation were identified as the main contributing factors to land salinization. These factors were then integrated using the multi-criteria evaluation (MCE) procedure to generate land sensitivity map to salinization and also to calibrate the cellular-automata (CA) Markov chain (CA-Markov) model for simulation of salt-affected lands up to 2030,2040 and 2050. The results of this study showed a dramatic dispersive expansion of salinized land from $7 . 7 \\%$ to $12 . 7 \\%$ of the total study area from 1986 to 2015.The majority of areas prone to salinization and the highest sensitivity of land to salinization was found to be in the southeastern parts of the region. The result of the MCE-informed CA-Markov model revealed that $20 . 3 \\%$ of the study area is likely to be converted to salinized lands by 2050.The findings of this research provided a view of the magnitude and direction of salinized land expansion in a past-to-future time period which should be considered in future land development strategies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: soil salinization; remote sensing; CA-Markov; salt land expansion; southeastern Iran ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Over the last few decades, land use/land cover (LULC) change has been considerably taken place across the entire world and caused substantial adverse impacts on natural resources and ecosystem functions (Lambin and Geist, 2O08). The impacts of LULC change is heavily dependent on the intensity of both natural and anthropogenic driving forces (Meyfroidt et al., 2013), the aected natural resources and the resilience of ecosystem functions (Wu et al., 2013; Xu and Grumbine, 2014; Houghton and Nassikas, 2017). At local scales, the magnitude and spatial direction of LULC changes could be properly investigated through field surveying and analyzing low altitude aerial photography (Hurskainen and Pellikka, 2O04; Benedek and Sziranyi, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2009) such as peripheral expansion of an urban area; however, it is a major concern to find out how much and to what extent a particular type of LULC conversion occur regionally or globally and affect ecological functions (Foley et al., 2OO5; Lambin and Geist, 2O08) such as the loss of Arctic sea ice, snow cover, tropical forest lands, continental surface water supplies and the expansion of salinized land in arid parts of the world. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Substantial progress in space-borne remote sensing (RS) techniques through the last five decades marked the dawn of a new era for synoptic and periodic observations of the earth's land surface at regional levels (Lillesand et al., 2O14). Currently, a considerable number of RS image capturing systems are capable to collect and transmit huge quantities of data back to earth, providing scientists with the opportunities to conduct regional scale mapping (DeFries et al., 2000; Thenkabail et al.,2009) and to detect changes (Kim et al., 2014; McDowell et al., 2015). A large body of these studies took advantage of Landsat imagery data because of systematically revisiting and acquiring images from all parts of the earth's surface dating back to 1972, with the launch of Landsat 1 (Formerly TIRS-1) and free access to its data archive (Roy et al., 2014; Zhu et al., 2015). Furthermore, multi-temporal RS images are considered as the primary data source for most LULC change models (Bhatta, 2O1O). These models could dynamically simulate and predict future states of LULC classes in a given region according to the transition rules and the associated driving forces which are extracted through analyzing multi-temporal LULC maps (Clarke et al., 1997; Eastman, 2012). Under such a context, it is feasible to accurately and realistically estimate LULC changes in large spatial and temporal scales, e.g., regional land salinization change detection and simulation (Zhou et al., 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Salinization is ranked as one of the most soil-devastating types of LULC change causing a wide spectrum of adverse economic and environmental impacts (Shrivastava and Kumar, 2015). Currently, an area of about $1 . 0 { \\times } 1 0 ^ { 9 } \\mathrm { h m } ^ { 2 }$ 0 $7 \\%$ of the Earth's land surface) is salinized (Metternicht and Zinck, 2OO3) over the world mainly due to improper management of irrigated agricultural practices, low precipitation and high evaporation in arid and semi-arid regions (Rozema and Flowers, 2O08; Shrivastava and Kumar, 2015). It is estimated that more than $50 \\%$ of land resources and arable regions will be significantly afected by salt by 2O5O with an annual soil-salinity growth rate of $10 \\%$ (Jamil et al.， 2O11). From an economic point of view, soil salinization decreases the productivity of land for crop production and threatens social economy (Shahbaz and Ashraf, 2O13; Shrivastava and Kumar, 2O15). Moreover, it could substantially influence the global ecological functions and services such as triggering vast sand and dust storms in arid and semi-arid regions (Moradi, 2O16). Fortunately, RS techniques have facilitated a better understanding of the intensity， impacts and the extent of regional scale land salinization (Metternicht and Zinck, 2OO3), especially in sub-Saharan Africa and the Middle East, including the study area of this research, where frequent sand and dust storms originated from salinized soil lands have become a major problem for people living in this regions and beyond (Moradi, 2016). Wu et al. (2O14) investigated the expansion of salt land areas caused by improper agricultural activities in central Iraq and developed a salinized soil mapping methodology to evaluate salinized land expansion from multi-temporal Landsat images. Shalaby and Tateishi (2007) applied multi-temporal Landsat images from 1987 to 2001 to detect large-scale salt land expansion in the coast of northwestern Egypt, which showed a continual expansion of salt land in transitional areas between land and sea water. Lin et al. (2O06) and Zhou et al. (2O12) attempted to simulate the spatial expansion of salt-affected landscapes using LULC change models. These studies substantially explored and modeled the effects of driving forces in the expansion of salinized land areas. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In southern Iran, salinized land expansion adversely impacted economy and environment and disturbed human life (Moradi, 2O16). However, no attempt has yet been made to estimate the expansion of large-scale salinized land areas in the area. A national report conducted by Moradi (2016) indicated that the southeast part of Iran has become a major source of dust storm in the shores of Oman Sea and even Afghanistan. Hence, it is important to map and detect large-scale salinized land expansion and to provide a comprehensive picture of salinized land expansion. Multi-temporal Landsat imagery data of 1986, 2000, and 2015 and the cellular-automata (CA) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Markov chain (CA-Markov) model were used to predict the ongoing future pattern and expansion of salinized land areasup to 2030, 204O and 2050. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Studyarea ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study area is approximately $2 . 3 { \\times } 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ located in southeastern Iran $( 2 5 ^ { \\circ } 0 3 ^ { \\prime } - 2 6 ^ { \\circ } 1 3 ^ { \\prime } \\mathrm { N }$ $4 7 ^ { \\circ } 4 0 ^ { \\prime }  – 6 1 ^ { \\circ } 5 8 ^ { \\prime } \\mathrm { E }$ ; Fig. 1). The altitude of the area is from O to $1 3 0 0 \\mathrm { ~ m ~ }$ in the south at the northern coast of Oman Sea up to the north. The area is dominated by Indian monsoon in the east and Mediterranean climate in the west. The annual mean temperature and mean annual precipitation vary significantly across the region. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bare lands and rocky surface mountains are the main landscapes in the northern study area and salt lands expand across the south and southeast. The coastline of the study area is considered as one of the major mangrove habitats of western Asia with an area of about $1 5 0 0 \\ \\mathrm { h m } ^ { 2 }$ largely covered by Avicennia marina sp. (Fig. 1), supporting a great diversity of marine and terrestrial species (Zahed et al.， 201O). Although the region is rich in natural resources, temporary agriculture, small-scale oyster/shrimp farming activities as well as a small number of residential areas,which are sporadically distributed near the coastline, are the main land use types of the study area, indicating that this region is poorly planned and managed according to national land use planning policies (Moradi, 2016). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c88d123d4828d17859671056be1628d9172cdd71e6a9591e691266993ea457e3.jpg",
+        "img_caption": [
+            "Fig. 1 Layout of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Landsat imagery was used as the primary source of data to delineate salt land expansion in a 30-a time profile. It should be noted that the salinization process in this research was referred to any kind of processes which cause the accumulation of soluble salt in surface soils (Hanin et al., 2016). Such a definition includes visual and spectral changes which were detectable by satellite sensors and the users. Due to availability of ancillary data such as GPS-field collected reference points and historical LULC maps as well as the magnitude of salt land expansion in the study area,Landsat imagery data was selected to explore salinized lands for the years 1986 (TM sensor)，2000 ( $\\mathbf { ( E T M + }$ sensor),and 2O15 (OLI sensor). Moreover, in each year, four Landsat images with path and row of 158-42, 157-42, 156-42, and 156-43 were acquired to cover the whole extent of the study area (12 tiles in total). Table 1 provided the main characteristics of the Landsat images processed in this research. Furthermore,a $3 0 \\mathrm { - m }$ spacing digital topographic model (DEM) map and detailed digital maps of coastline and sea water channel networks from the national project of Makran region development (Moradi, 2016) were employed to produce the sensitivity of land to salinization and also to calibrate the LULC change model. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mohammad SHAFIEZADEH et al.: Evaluating and modeling the spatiotemporal pattern of regional-scale.. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/84407c5303ad64cfb5a9daf66d5fc4c45446050793c1a5cfaddda21595f6c09b.jpg",
+        "table_caption": [
+            "Table 1 Research data used in this study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sensor</td><td>Path-row</td><td>Date</td><td>Cloud coverage (%)</td><td>Data type</td><td>Quality</td></tr><tr><td rowspan=\"3\">TM</td><td>156-43</td><td>10 June 1986</td><td>0</td><td>L1T</td><td>9</td></tr><tr><td>157-42</td><td>16 May 1986</td><td>0</td><td>L1T</td><td>9</td></tr><tr><td>156-42</td><td>10 June 1986</td><td>0</td><td>L1T</td><td>9</td></tr><tr><td rowspan=\"5\">ETM+</td><td>158-42</td><td>8 June 1986</td><td>0</td><td>L1T</td><td>9</td></tr><tr><td>156-43</td><td>6 June 2000</td><td>0</td><td>L1T</td><td>9</td></tr><tr><td>157-42</td><td>7 June 2000</td><td>0</td><td>L1T</td><td>9</td></tr><tr><td>156-42</td><td>6 June 2000</td><td>0</td><td>L1T</td><td>9</td></tr><tr><td>158-42</td><td>14 June 2000</td><td>0</td><td>L1T</td><td>7</td></tr><tr><td rowspan=\"4\">OLI</td><td>156-43</td><td>26 June 2015</td><td>0</td><td>L1T</td><td>9</td></tr><tr><td>157-42</td><td>17 June 2015</td><td>0</td><td>L1T</td><td>9</td></tr><tr><td>156-42</td><td>26 June 2015</td><td>0</td><td>L1T</td><td>9</td></tr><tr><td>158-42</td><td>8 June 2015</td><td>0</td><td>L1T</td><td>9</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Image processing and changes detection ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The study area lies within a mosaic of 4 Landsat tiles with different visiting time (different number of rows) using different Landsat sensors and pre-processing procedures were conducted to prepare the images for classfication of salinized land areas. The atmospheric and radiometric corrections were simultaneously performed using the FLAASH (fast line-of-sight atmospheric analysis of hypercube） commercial module implemented in ENVI ${ \\mathrm { v } } 5 . 3 \\textcircled { \\mathrm { R } }$ software (Module, 2009). FLAASH is a moderate resolution atmospheric transmission radiative transfer-based atmospheric correction tool for visible to $3 \\mathrm { - } \\mu \\mathrm { m }$ spectral range which estimated aerosol/haze-free reflectance values based on the spectral behavior of dark pixels observed by Kaufman et al. (1997) over water and vegetation covers or employing an automated linear regression method over dry soil regions (Cooley et al., 20O2; Module, 20O9). Input Landsat spectral bands were transformed to radiance values in band-interleaved-by-line (BIL） format (Module, 2009） to execute FLAASH module. Mid-latitude summer atmospheric and maritime with Kaufman-Tanre aerosol retrieval models were also employed to effectively retrieve column water vapor and aerosol amount of dark-land pixels over the image scenes (Module， 2Oo9). Finally， using additional required parameters from Landsat header files such as flight date and time as well as the selected atmospheric correction models, all Landsat tiles were transformed to a common atmospheric and radiometric datum. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In case of image mosaicking, cutline blending (feathering) technique (Herman et al., 2000) with edge-to-edge polylines crossing the images between salinized land polygons was utilized to smooth the overlapping area of the images. For a detailed description about image feathering techniques, please refer to Tutorial (2O1O). The reflectance values of the lookup table derived from the overlapping areas were not significantly different in the images with the equal row number of 42 and their data ranges were not balanced through histogram matching process. The 156-43 images,which contained a large number of dark pixels located over the Oman Sea, revealed different spectral values than the above-located 156-42 images in the overlapping regions, the spectral values of the 156-43 images were effectively adjusted to the 156-42 image scenes to overcome this problem by assigning a linear histogram stretch value of $4 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "With a set of mosaicked and atmospherically corrected image tiles covering the whole extent of the study area, the support vector machine (SVM) technique was employed to identify and map salinized land areas for 1986， 200O and 2015. SVM is a common and well-documented supervised classification technique which could obtain accurate classification results especially under a limited number of training sample units (Mountrakis et al., 2O11). Such ability is of great help in LULC classification for large areas where it was not practically possible to collect a broad number of sample units. Approximately 1OOO pixels related to salinized land areas and 5000 pixels for the other LULC types were collected through interpretation of a set of False Color Composite (FCC) images to train the SVM algorithm. The spectral profile of every training sample pixel was intuitively compared with the spectral library of salinized soils collected by ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Moradi (2O16) through extensive field in-situ measurement in the southeastern Iran. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Spectral signatures of salinized soils against Landsat 8 spectral bands are presented in Figure 2 providing a better view of training sample units. The grey part of the graph covered all kinds of mildly to strongly salinized soils across the study area. Although a variety of definitions of soil salinization have been suggested, in line with other remote sensing studies of salinized land identification and classification, this paper would rely on the spectral signatures of salinized soils detected through interpretation of the spectral behavior of soils to explore salinized lands. The premise of this approach is based on the observation of spectral signatures illustrated in Figure 2, however, it mainly refers to any kind of processes which caused to the accumulation of soluble salt in surface soils (Hanin et al., 2016). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/26d7775889f36347df9cb5e0728fab256267a9140c6e0d9a1e64163b35b5ca8d.jpg",
+        "img_caption": [
+            "Fig.2Spectral signature of salinized soil across the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A pixel-based procedure was used to evaluate the accuracy of the classification process based on overall accuracy and Kappa coefficient statistics. Reference sample points were equally distributed between marginal and interior pixels of salinized land polygons to avoid biased accuracy results, especially the effect of positional error (see Lunetta and Lyon, 2O04). A small set of landscape metrics including the number of patches (NP), patch density (PD), mean patch size (MPS)， mean nearest neighbor distance (MNN) and largest patch index (LPI). NP and MPS metrics were chosen to investigate the degree of dispersive/organic (edge growth) pattern of salt land expansion. Spatial continuity of salt land expansion was also explored through quantification of PD and MNN. LPI was used to estimate the proportional growth rate of the largest salt land patch located in the southeastern study area. Table 2 provided a brief explanation of the selected landscape metrics in this research ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9381aad0d2e2d2f8347c373a267e61264fc24e4fa85bd82d29c6ec5515889a24.jpg",
+        "table_caption": [
+            "Table 2Description of the selected landscape metrics (McGarigal and Marks,1995) "
+        ],
+        "table_footnote": [
+            "Note: NP,numberof patches;PD,patchdensity;MPS,meanpatchsize;MNN,meannearest neighbordistance;LPI,argestpatch index. "
+        ],
+        "table_body": "<html><body><table><tr><td>Landscape metrics</td><td>Description</td></tr><tr><td>NP</td><td>∑\"-1 ni ; n, total number of patches; ni, the itʰ salt land patch.</td></tr><tr><td>PD (plants/hm2)</td><td>ni/(Ax106); A, total landscape area.</td></tr><tr><td>MPS (hm²)</td><td>∑-1(ai/(nx 104)); ai, the area of ih patch.</td></tr><tr><td>MNN (m)</td><td>∑i-1(hi /n) ; hi, the nearest edge-to-edge distance of patch i to the nearest neighbor patch.</td></tr><tr><td>LPI (m)</td><td>maxi-1(aij / A) ; aij, the largest salt land patch.</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4CA-Markov model ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We simulated the ongoing probable picture of salt land expansion according to the immediately preceding spatiotemporal changes of salinized land areas from 1986 to 2015. The MCE (multi-criteria evaluation)-guided CA-Markov land change model implemented in Idrisi Selva (Eastman, 2012) was used to project salinized land expansion up to 2030, 2040 and 2050. CA-Markov model was a combined dynamic approach which could realistically simulate LULC changes of any given landscape under both biphysical and anthropogenic driving forces (Hyandye and Martz, 2O17; Palmate et al., 2O17), such as prediction of regional-scale salinized land expansion (Lin et al., 2006; Zhou et al., 2012). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this model, Markov chain estimates the transition probability of a given state (a LULC class) to any other states without considering neighborhood effects and spatial dimensions (Arsanjani et al., 2013; Brémaud, 2013). A CA model with a standard $5 { \\times } 5$ contiguity filter was integrated (Eastman， 2O12) to spatially allocate the probable LULC changes in desired areas (pixels). CA-Markov model systematically produced a set of suitability maps (also known as conditional maps; El-Hallaq and Habboub, 2O15) to express the probability of a land parcel (pixel) of a given LULC class in changing to the targeted LULC class. By using these suitability maps, CA-Markov model often fails to incorporate the effects of driving forces and constraints (Mahiny and Clarke, 2012). However, it was possible for the users to calibrate the model by introducing their own best set of suitability maps. In doing so MCE was used as a well-documented linear combination method in the process of land suitability analysis to effectively prioritize every pixel of a given region based on a set of weighted $( w _ { i } )$ and standardized factors $( f _ { i } )$ and constraints $( C _ { i } )$ through the following equation: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M C E } = \\sum _ { i = 1 } ^ { n } f _ { i } w _ { i } \\prod C _ { i } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this research, four transition probability matrices were built using Markov chain model to estimate the magnitude of salinized land expansion for 2O15 (by the interpretation of changes from 1986 to 2000 (calibration phase)), 2030, 2040 and 2050 (by implementing the 1986 and 2015 as the earlier and later LULC maps, respectively (prediction phase). Four factors including distance to sea, distance to sea water channels, slope, and elevation were identified as the main driving forces imposing salinized land expansion through the whole extent of the study area. The elevation and distance to sea express the potential effects of saline groundwater of the Oman Sea, which controls the upstream freshwater by extensive dam construction (Moradi, 2O16). The above two factors substantially represent the effects of groundwater which we were not practically able to map in the regional scale. The sea water channel represents an anthropogenic driving force providing local communities with the opportunity to conduct agricultural activities with saline sea waters. The slope is a general factor expressing the sensitivity of soil afected by large-scale salinization. Al factor maps were transformed to a scale-independent range of O to 255 where values close to 255 indicate a higher sensitivity of land to salinization using different types of fuzzy membership functions (Table 3). All factors were compared in pairs and the corresponding weights were extracted by taking the analytical hierarchy process method (Saaty, 2Oo8; Eastman, 2012). The weighted and standardized factor maps were linearly combined by using Equation 1 to produce the final land suitability map. The resulting map of the MCE procedure was referred to land sensitivity map to salinization. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b406f903dbf457307276e728f4e20eaa89f49fd32f823dd70c53710bba0171e.jpg",
+        "table_caption": [
+            "Table 3Factor maps,fuzzification method and weighting score used to evaluate the sensitivity of land to salinization "
+        ],
+        "table_footnote": [
+            "Note: Consistency ratio, $5 . 9 \\%$ ; Number of comparisons,6; MD, monotonically decreasing; c and d denote the first and second fuzzy setbreakpoints,respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Factor</td><td rowspan=\"2\">Reference</td><td colspan=\"2\">Membership function</td><td colspan=\"2\">Number of control points</td><td rowspan=\"2\">Weight</td></tr><tr><td>Type</td><td>Shape</td><td>C</td><td>d</td></tr><tr><td>Distance to sea</td><td>Zhou et al. (2012)</td><td>Linear</td><td>MD</td><td>0</td><td>100,000</td><td>0.07</td></tr><tr><td>DEM</td><td> This study</td><td>Sigmoidal</td><td>MD</td><td>30</td><td>70</td><td>0.19</td></tr><tr><td>Distance to channel</td><td>Zhou et al. (2012)</td><td> J-shaped</td><td>MD</td><td>1000</td><td>30,000</td><td>0.51</td></tr><tr><td>Slope</td><td> This study</td><td> J-shaped</td><td>MD</td><td>4</td><td>10</td><td>0.23</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Having land sensitivity map to salinization, transition probability area matrix of the probable salinized land change between 20oO and 2O15, as well as by employing the predefined $5 { \\times } 5$ contiguity filter and the 2OOO map as the initial land cover map, the CA model was executed to simulate the 2O15 salt land expansion using relative operating characteristic (ROC) metric (Pontius and Schneider, 2OO1). The resultant simulation map was compared with the reference Landsat-derived salinized land areas to evaluate the model performance in the simulation of salt land expansion. The prediction phase was also performed to predict salt land expansion up to 2030,2040 and 2O50 based on the corresponding transition probability area matrices derived through Markovian analysis and the 2O15 map as the initial land cover map. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The results of image classification and accuracy assessment are given in Figure 3 and Table 4. Accordingly, all maps obtained overall accuracy (OA) and Kappa coefficient (KC) of more than 0.94 and O.90, respectively， indicating the acceptable accuracy of the image classification procedure. Based on the results, salinized land areas expended more than $1 . 1 9 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ between 1986 and 2015. In 1986, salinized land areas occupied approximately $1 . 7 9 \\times 1 0 ^ { 5 } \\mathrm { h m } ^ { 2 }$ of the region $( 7 . 7 \\%$ of the total area). With an annual growth rate of $0 . 2 8 \\%$ ， salinized land areas reached $2 . 3 0 { \\times } 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ in 2000 $( 9 . 8 \\%$ of the total area). The study area was dramatically salt-affected between 2OOO and 2O15 where salinized land areas expanded with an annual growth rate of more than $0 . 2 9 \\%$ and reached to $2 . 9 8 \\times 1 0 ^ { 5 } \\mathrm { h m } ^ { 2 }$ in 2015 ( $1 2 . 7 \\%$ of the total area). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fe0bfb4e095fb3c42220a7ca7e0e56c7623c3b8cfcf9b272c57403150b92963.jpg",
+        "img_caption": [
+            "Fig.3Salinized land areas in 1986,200O and 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b7bf027e13ab2077f59b227b6714425e36ad422692d4b3e8506cf20c6526dbee.jpg",
+        "table_caption": [
+            "Table 4 Description of data used for image classification and accuracy assessment "
+        ],
+        "table_footnote": [
+            "Note:KC,Kappa coeficient; OA,overall accuracy;FCC,false colorcomposite. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Mapping year</td><td rowspan=\"2\">Land type</td><td rowspan=\"2\">Area (×105 hm²)</td><td colspan=\"2\">Training sample</td><td colspan=\"2\">Validation sample</td><td colspan=\"2\">stAistics (y)</td></tr><tr><td>Source</td><td>No. of points</td><td> Source</td><td>No. of points</td><td>KC</td><td>OA</td></tr><tr><td rowspan=\"2\">1986</td><td>Salinized</td><td>1.79</td><td>FCC</td><td>1000</td><td>Historical land use maps</td><td>700</td><td rowspan=\"2\">0.90</td><td rowspan=\"2\">0.94</td></tr><tr><td>Other</td><td>21.54</td><td>FCC</td><td>5000</td><td>FCC, visual interpretation</td><td>5000</td></tr><tr><td rowspan=\"2\">2000</td><td>Salinized</td><td>2.30</td><td>FCC</td><td>1000</td><td>Historical land use maps</td><td>1000</td><td rowspan=\"2\">0.93</td><td rowspan=\"2\">0.94</td></tr><tr><td>Other</td><td>21.03</td><td>FCC</td><td>5000</td><td>FCC, visual interpretation</td><td>5000</td></tr><tr><td rowspan=\"2\">2015</td><td>Salinized</td><td>2.98</td><td>FCC field</td><td>1000</td><td>Field-colleted</td><td>2000</td><td rowspan=\"2\">0.95</td><td rowspan=\"2\">0.98</td></tr><tr><td>Other</td><td>20.35</td><td>FCC field survey</td><td>5000</td><td>Field-collected GPS points</td><td>8000</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Landscape metric quantification provided detailed information about salinized land expansion in the study area (Table 5). NP, PD, MPS, and LPI increased and MNN decreased from 1986 to 2015. The increase in NP indicated the dispersive pattern of salinized land expansion from 1986 to 2015 in which new salt-affected land patches were developed and expanded. Under such a patern, the pre-existed and newly developed salinized land patches grew rapidly resulted in a substantial increase in MPS. The decreasing MNN values confirmed the dispersive pattern of salinized land expansion. As represented in Figure 3, the dispersive pattern of salt land expansion was limited to specific regions and the PD values increased from 1.01 to 1.12. The largest salinized land patch, located in southeastern study area, also experienced a considerable area expansion and merged to large sized patches and the LPI value increased dramatically from 1.35 to 11.85 $7 7 7 . 0 \\%$ increase) from 1986 to 2015. The results of landscape matric quantification are given in Table 5. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/756b85392e7cbd08c3e2b3c011cbdb0ad29416ddddd767bda86677e9e652a584.jpg",
+        "table_caption": [
+            "Table 5Temporal landscape metric values of salinized land expansion in 1986, 2OO0 and 2015 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Landscape metric</td><td colspan=\"3\">Mapping year</td><td colspan=\"2\">Change</td></tr><tr><td>1986</td><td>2000</td><td>2015</td><td>Increase</td><td>%</td></tr><tr><td>NP</td><td>23,570</td><td>24,231</td><td>25,386</td><td>1816.00</td><td>7.7</td></tr><tr><td>PD (plants/m²)</td><td>1.01</td><td>1.05</td><td>1.12</td><td>0.11</td><td>10.8</td></tr><tr><td>MPS (hm2)</td><td>9.33</td><td>13.70</td><td>17.80</td><td>8.47</td><td>90.8</td></tr><tr><td>MNN (m)</td><td>128</td><td>125</td><td>121</td><td>-7.00</td><td>-5.4</td></tr><tr><td>LPI (%)</td><td>1.35</td><td>3.11</td><td>11.85</td><td>10.50</td><td>777.0</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The MCE procedure was used to quantitatively assess the sensitivity of land to explore the salinization probability and model calibration. Factor maps of land sensitivity analysis including distance to sea, distance to sea water channels, slope and elevation as well as the corresponding standardized maps were illustrated in Figure 4. The map of land sensitivity to salinization was finally produced through a linear combination of the weights and the standardized maps. As ilustrated in Figure 5. The sensitivity of land to salinization varied significantly from the south to north. The highest sensitivity scores were detected in the south, southwest, and southeast of the study area where salt land areas had been historically expanded. Conversely, sensitivity scores decreased with the increase in distance to sea, distance to sea water channels,and elevation (up to $1 3 0 0 \\mathrm { \\ m a . s . l . }$ ) towards the north part of the study area. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The result of model calibration was graphically illustrated in Figure 6. Black colored regions with an area of approximately $2 . 6 { \\times } 1 0 ^ { 5 } \\mathrm { h m } ^ { 2 }$ （ $8 8 \\%$ of total salinized land area in 2O15) denoted that the salt-affected regions were accurately predicted. The error areas, which were mistakenly classified through the modeling procedure, were categorized into two classes including salinized land mapped, but not predicted (area in green, $1 . 6 4 \\times 1 0 ^ { 4 } \\ : \\mathrm { h m } ^ { 2 }$ ： $4 . 6 \\%$ of the predicted salinized land areas; Fig. 5) and salinized land predicted, but not mapped (area in red, $1 . 2 1 { \\times } 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ： $3 . 4 \\%$ of the predicted salinized land areas; Fig. 5). The former class was mainly distributed in the eastern study area while the latter was located in central and western parts. The salinized land areas were estimated being $2 . 0 { \\times } 1 0 ^ { 5 } ~ \\mathrm { \\ h m } ^ { 2 }$ ，approximately $7 3 3 0 \\ \\mathrm { \\ h m } ^ { 2 }$ less than the actual salinized land expansion of 2O15,by the 1986-200O transition area matrix generated through the calibration process. The validity of the MCE-informed CA-Markov model was assessed by comparing the projected and actual salt-affected land generated for 2O15. The ROC for the salinized land area was O.74 indicating a good agreement between observed and actual salinized land areas. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The CA-Markov prediction phase was conducted to simulate the salinized land expansion up to 2030,2040 and 2050 (Fig. 7). The salt-affected land areas for 2030, 2040 and 2050 were estimated to be around $3 . 7 \\times 1 0 ^ { 5 }$ ， $4 . 1 \\times 1 0 ^ { 5 }$ and $4 . 7 { \\times } 1 0 ^ { 5 } \\mathrm { h m } ^ { 2 }$ （ $1 5 . 7 \\%$ ， $1 7 . 8 \\%$ ，and $2 0 . 3 \\%$ of the total area), respectively. In total, it was estimated that the study area has been and will face more than $3 . 0 { \\times } 1 0 ^ { 5 } \\mathrm { h m } ^ { 2 }$ （ $1 2 . 6 \\%$ of the total area) of salinization from 1986 to 2050. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/686cdaaa09d4794719cd00043013e085b22ac810b5260abc1b51bce561c088de.jpg",
+        "img_caption": [
+            "Fig. 4Evaluation factors (left column) and the resulting fuzzy standardized maps (right column) "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/22c544c53b6bee4ada03e62cbccace38db993b08ec43a2d7a234418bddaccd49.jpg",
+        "img_caption": [
+            "Fig.5Salinization land sensitivity derived from multi-criteria evaluation procedure "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Mohammad SHAFIEZADEH et al.: Evaluating and modeling the spatiotemporal pattern of regional-scale.. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/580811f4fbd6b48c9ebb35d7ee00e73dfc9b79cd0eea2980a34303482970053b.jpg",
+        "img_caption": [
+            "Fig.6Error salinized land map of the 2015 model simulation "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/45b2759f1059e88d2a021b9a705af7e6eb27cd85e06961f1f2de0a4d1f5e01e2.jpg",
+        "img_caption": [
+            "Fig. 7Growth trend of salinized land areas in 2015 and up to 2030, 2040 and 2050 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In southeastern Iran， most ecosystem functions and processes had crossed their ecological thresholds and were deeply threatening human life and health in a variety of ways, such as the severe water scarcity (Foltz, 2OO2). Hence,land use managers and decision makers have been evaluating the suitability of natural-land resources to migrate settlers from environmentally devastated ecosystems of central Iran to these regions (Moradi, 2O16) especially to the Oman Sea shorelines, the study area. However, this area also faced large-scale soil salinization due to the direct and indirect anthropogenic driving forces. A high degree of evaporation, extensive freshwater diversions and upstream blocking by dams have substantially decreased the humidity of the salinized soils (Moradi, 2O16). Frequent storms and strong winds carried a considerable amount of dried salinized dust passing over the area. According to the USA Today， storms originated from this region made Zabol the most polluted city of the world in 2015 (Bacon, 2016), highlighting the magnitude impact of the salinized land expansion in this region. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Processed images successfully revealed the magnitude and spatial trend of salt land expansion in the southeastern Iran. The results showed that the major sources of soil salinization were in the southeast (including the largest salinized land patch) and west parts of the study area. Temporal analysis of landscape metric values also suggested a dispersive pattern of salinized land expansion since1986, with the increase in NP and MPS as well as the decrease in MNN values. Although following an outward-oriented growth pattrn, salt-affected areas were significantly limited to the areas near sea shoreline and water channels in low latitude and gentle slope lands with increased PD values. The expansion of the largest salinized land patch in the southeastern study area was investigated through quantification of LPI metric. A substantial increase in the LPI values,particularly during the period 2O0O-2O15,was due to the merge of the two largest salinized patches. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A further attempt was made to quantitatively explore the sensitivity of land to salinization in the study area. The assumption behind this effort was based on the identification of those factors which control regional scale soil salinization in wide time spans, i.e., over decades. Zhou et al. (2012) found that the driving forces imposing salinization, both biophysical and human-induced factors, were spatiotemporally dynamic at regional scale. The researches by Lin et al. (2O06) and Zhou et al. (2012) revealed the ability of CA-Markov model in the simulation and prediction of salinized land expansion. This model was employed to project the ongoing salinized land expansion for 2030, 2O40 and 2050. The results of this research indicate that the southern Iran is experiencing an accelerated rate of salt land expansion. According to the past changes delineated in this research, salinized lands willbe expanded significantly and willikely occupy the majority of plain region. This expansion will form a series of environmental crises. For instance, a very large salt patch which was predicted to growth in the southeastern study area would have a high capability to trigger regional dust storms. Although the results of this research provided a holistic view into the magnitude and direction of salt land expansion, further atempts need to increase the reliability of these predictions. In case of criteria selection, one should be careful about the temporal variability of driving forces. As Zhou et al. (2Ol2) outlined, driving forces contributing to salt land expansion are highly dynamic and have variable properties which can change even annually. Keeping this matter in mind, it is of high importance to take into account the probability of changes in driving forces as wel as the growing speed of salinization for the prediction node and in turn for adopting proper land use planning strategies. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study evaluated and modeled the spatial expansion of salt lands in southeastern Iran. The results showed that salt lands have been growing across the entire plain regions of the study area. More importantly, it is predicted that such an expansion willead to the generation of a very large salt patch in the southeastern part with probably significant regional destructive effects. The analysis caried out in this research were all based on the spatial analysis of salt lands quantified from processing Landsat 8 imagery data in three time steps. Furthermore, the predictions were supported by a small set of highly dynamic variables. Despite the successful application of the simulation model, it is recommended to restrict the area under investigation and shorten the prediction spans to beter scrutinize how and to what degree the salinized lands are expanding. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The authors are pleased to thank the companionship of personnel of the Chabahar Department of Environment, especially Mr. Ashrafali HOSSEINI in providing valuable data and facilitating field surveys and Mr. Ali ASGARIAN for improving the English writing. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ArsanjaniJJ,Helbich,KainzW,etal.213.Itegrationoflogisticegression,arkohinandcelularautomatadelst simulate urban expansion. International Journal of Applied Earth Observation and Geoinformation,21: 265-275. BaconJ.2016.Themostpolluted cityis?Hint:It'snot in China.USA Today.[2016-12-19]. https://www.usatoday.com/story/news/world/2016/12/19/most-polluted-city-is-not-in-china/95606914/#. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Transactions on Geoscience and Remote Sensing,47(10): 3416-3430.   \nBhata B.2010.Analysisof Urban Growth and Sprawl from Remote Sensing Data.Berlin: Springer-Verlag Berlin Heidelberg, 172.   \nBremaud P.2013.MarkovChains: Gibbs Fields,Monte Carlo Simulation,and Queues.NewYork: Springer Science & Busines Media, 445.   \nClarke K C,Hoppen S,Gaydos L.1997. A self-modifying cellular automaton model of historical urbanization in the San Francisco Bay area. Environment and Planning B, 24(2): 247-261.   \nCooley T,Anderson GP,Felde GW,et al.2002.FLAASH,a MODTRAN4-based atmosphericcorrectionalgorithm,its application and validation. In: IEEE, IEEE International Geoscience and Remote Sensing Symposium. Toronto: IEEE.   \nDeFriesRS,HansenMC,TownshendJRG,etal.20o0.Anew global1-kmdatasetof percentage tree cover derived from remote sensing. Global Change Biology, 6(2): 247-254.   \nEastman JR.2012. IDRISI Selva. Worcester: Clark University, 354.   \nEl-Hallaq M A, Habboub M O. 2015. Using Cellar Automata-Markov Analysis and Multi Criteria Evaluation for Predicting the Shape of the Dead Sea. Advances in Remote Sensing, 4(1): 83.   \nFoley JA,DeFries R, Asner G P, et al. 2005. Global consequences of land use. Science,309(5734): 570-574.   \nFoltzRC.2Oo.an'satercrisis:cultural,political,andhicaldimesions.Jualofgricultural&EvironmentalEics, 15(4): 357-380.   \nHanin M,Ebel C,Ngom M,et al.2O16.New Insights on plantsalt tolerance mechanisms andtheir potentialuse forbreeding. Frontiers in Plant Science, 7.   \nHerman JR, Bergen JR,Peleg S,et al. 20o. Method and apparatus for mosaic image construction:Google Patents. [2000-06-13]. https://www.google.com/patents/US6075905.   \nHoughton R A, Nassikas A A. 2017. Globaland regional fluxes ofcarbon from land useand landcoverchange 1850-2015. Global Biogeochemical Cycles,31(3): 456-470.   \nHurskainenP,PelikkaP.2O04.Changedetectionofinformalsetlements usingmulti-temporalaerialphotographs-thecaseof Voi, SE-Kenya. In: Proceedings of the $5 ^ { \\mathrm { u h } }$ African Association of Remote Sensing of the Environment Conference, 18-21 October 2OO4. Nairobi: African Association of Remote Sensing of the Environment.   \nHyandyeC,Martz L W. 2017. A Markovian and cellar automata land-use change predictive model of the Usangu Catchment. International Journal of Remote Sensing, 38(1): 64-81.   \nJamil A,RiazS,AshrafM,etal.21Gneexpressionprofilingofplantsundersaltstress.CriticalReviews inPantScinces, 30(5): 435-458.   \nKaufman Y J, Wald A E, Remer L A, et al. 1997. The MODIS $2 . 1 \\mathrm { { - } / s p l \\ m u / m }$ channel-correlation with visible reflectance for use in remote sensing of aerosol. IEEE Transactions on Geoscience and Remote Sensing,35(5): 1286-1298.   \nKim D-H,SextonONojipadyP,etal.2014.Global,Landsat-basedforest-coverchangefro199to0.Remotesing of Environment, 155: 178-193.   \nLambinEF,GeistHJ.2O08.Land-UseandLand-CoverChange:Local Procesesand Global Impacts.Berlin: SpringerScience &Business Media, 221.   \nLilesand T, KieferR W,Chipman J.2O14. Remote Sensing and Image Interpretation.New York: John Wiley& Sons,721.   \nLin Z, Zhou D,LiuL.2006.Regional-Scale Assssment and SimulationofLandSalinization Using Cellular Automata-Markov Model. In: ASABE/CSBE North Central Intersectional Meting. Michigan: American Societyof Agricultural and Biological Engineers,RRV12110.   \nLunetta R S, Lyon JG. 2004. Remote sensing and GIS accuracy assessment. Florida: CRC Press, 394.   \nMahinyAS,Clarke KC.2012. Guiding SLEUTHland-use/land-coverchange modeling using multicriteria evaluation towards dynamic sustainable land-use planning. Environment and Planning B, 39(5): 925-944.   \nMcDowellNG,Coops NC,Beck PS,et al.2015.Global satelite monitoringofclimate-induced vegetation disturbances. Trends in Plant Science,20(2): 114-123.   \nMcGarigal K, Marks B J. 1995. FRAGSTATS: spatial patern analysis program for quantifying landscape structure. General Technical Report. PNW-GTR-351. Portland, USA.   \nMeternicht G1, Zinck JA. 2003.Remote sensing of soil salinity: potentials andconstraints. Remote SensingofEnvironment, 85(1): 1-20.   \nMeyfroidt P,Lambin EF,Erb K-H,et al.2O13.Globalizationof land use: distant driversof land change and geographic displacement of land use. Current Opinion in Environmental Sustainability,5(5): 438-444.   \nModule F.2009. Atmospheric Corection Module: QUAC and FLAASH User's Guide (ver. 4). Boulder: Harris Geospatial Co, ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "44.   \nMoradi H.216.Identificationof EnvironmentalResources and Spatial zoning of Makran CoastalArea,Southeastern Iran.In: Landuse&Land Cover Change Report ( $1 ^ { \\mathrm { s t } }$ ed.). Department of Environment, Iran.   \nMountrakis G,ImJ,Ogole C.2011.Support vector machines inremote sensing:Areview. ISPRS Journal of Photogrammetry and Remote Sensing, 66(3): 247-259.   \nPalmate S S,Pandey A,Mishra S K.2017. Modeling spatiotemporal land dynamics fora trans-boundary river basin using integrated Cellular Automata and Markov Chain approach. Applied Geography, 82: 11-23.   \nPontiusRG,Schneider L C.20o1.Land-cover change model validation byanROC method for the Ipswich watershed, Massachusetts,USA.Agriculture, Ecosystems & Environment, 85(1-3): 239-248.   \nRoyDP,WulderMA,LovelandTR,etal.2014.Landsat-8: Scienceand product visionfor terrestrial global changeresearch. Remote Sensing of Environment, 145: 154-172.   \nRozema J, Flowers T. 2008. Crops for a salinized world. Science, 322(5907): 1478-1480.   \nSaatyTL.20o8.Decisionmaking with theanalytichierarchy proces.International JournalofServices Sciences,1(1):83-98.   \nShahbaz M,Ashraf M.2O13.Improving salinity tolerancein cereals.Critical Reviews in Plant Siences,32(4): 237-249.   \nShalaby A,Tateishi R.2Oo7.Remote sensing and GIS for mapping and monitoring land cover and land-use changes in the Northwestern coastal zone of Egypt. Applied Geography, 27(1): 28-41.   \nShrivastava P,Kumar R.2015.Soil salinity: Aserious environmental issueand plant growth promoting bacteriaas oneof the tools for its alleviation. Saudi Journal of Biological Sciences,22(2): 123-131.   \nThenkabailPS,iradarCM,NjipadyP,etal.2O9.Global irigatedareamap(GIAM),derivedfromremotesensing,forthe end of the last millennium. International Journal of Remote Sensing,3O(14): 3679-3733.   \nTutorial E-Z. 2010. ENVI user guide. Colorado Springs, CO: ITT,590.   \nWu KY,YeXY,QiZF,etal.2013.Impactsofland use/landcover changeandsocioeconomic developmentonregional ecosystem services: The case of fast-growing Hangzhou metropolitan area,China.Cities,31: 276-284.   \nWu W,Mhaimeed A S,Al-ShafieWM,et al.2014. Mapping soil salinitychangesusingremotesensing in Central Iraq. Geoderma Regional, 2-3: 21-31.   \nXu J, GrumbineR E.2O14. Building ecosystem resilience for climatechange adaptation in the Asian highlands.Wiley Interdisciplinary Reviews: Climate Change, 5(6): 709-718.   \nZahedMA,RouhaniF,MohajeriS,etal.2Ol0.AnoverviewofIraiamangroveecosystems,orthernpartofthePersianGulf and Oman Sea. Acta Ecologica Sinica,30(4): 240-244.   \nZhou D,Lin Z,Liu L.2012.Regional land salinizationassessment and simulation through celular automaton-Markov modeling and spatial pattern analysis. Science of the Total Environment, 439: 260-274.   \nZhu Z,Woodcock CE,Holden C,et al.2O15. Generating synthetic Landsat imagesbased onallavailable Landsat data: Predicting Landsat surface reflectance atany given time.Remote Sensing of Environment,162: 67-83. ",
+        "page_idx": 12
+    }
+]

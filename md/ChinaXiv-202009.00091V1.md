@@ -1,0 +1,284 @@
+# P-中心选址问题的一种降阶回溯算法
+
+尚春剑，宁爱兵，彭大江，张惠珍(上海理工大学 管理学院，上海 200093)
+
+摘要：运筹学研究领域中的应急服务设施选址问题有许多求解模型，该文选取了P-中心模型进行研究，首先研究了该问题的数学性质，并给出证明，利用这些数学性质能对问题进行降阶从而缩小问题的规模，然后在此基础上设计一个基于上界和下界的回溯算法来求解该问题，最后通过一个示例分析进一步阐述该算法的原理，并证明了该算法能在较短时间内求得问题的最优解。
+
+关键词：设施选址问题；P-中心模型；降阶算法；上界；下界；回溯算法中图分类号：TP doi:10.19734/j.issn.1001-3695.2020.04.0057
+
+Backtracking algorithm with reduction for p-center location problem
+
+Shang Chunjian,Ning Aibing,Peng Dajiang, Zhang Huizhen (BusinessSchool,UniversityofShanghai forScience&Technology,Shanghai 2Oo093,China)
+
+Abstract:There are various solution models for the emergency service facility location problem andthis paper studies the Pcenter model.This paper proposedabacktracking algorithm with upperandlowerbound,and thealgorithmaddedareduction algorithm by studying the mathematical properties.Thealgorithmcan decrease the scale and the degree ofcomplexityof the problem,soastoaccelerate theexecution speed.At theendof the paper,this paper ilustratedan instance to elaborate this algorithm further.
+
+Key words:facilitylocationproblem;p-centermodel; reductionalgorithm; upperbound; lowerbound;backtrackingalgorithm
+
+# 0 引言
+
+日常生活中的各类紧急突发事件给人们的安全和生活造成了巨大的影响，当灾害发生时，应急服务设施是提供救援支持、保障人民群众人身安全最基本最重要的设施，具有十分重要的作用。
+
+多数应急设施选址问题是NP难题，有多种不同的模型来解决这类问题。针对应急设施选址问题的公平性要求，本文选取P-中心模型[进行研究，它是离散位置模型的一种特殊类型，是指从 $n$ 个备选的设施中最多选取 $p$ 个设施，对于每一个应急点 $e _ { i }$ 均由选中的设施中距离其最近的设施服务，要求所有应急点与对应为其提供服务的设施之间的最大服务距离最小，即尽量减少所有应急点与它们的服务设施之间的最大距离。在这个模型中，设施没有容量约束。目前有许多学者致力于此选址模型的研究，有的学者结合图论知识对问题模型进行求解，例如Hockbaum[2]提出一个时间复杂度为$O ( E \mathrm { l o g } E )$ 的图的顶点多中心问题的2-opt算法，Dyer[3]提出一个时间复杂度为 $O ( n p )$ 的2-opt启发式算法；还有的学者对于P-中心问题采用了模糊集的理论进行求解，例如Wen[4]构建设施选址模型时考虑到模糊需求，实现应急设施选址的完全覆盖；有的学者采用启发式搜索的方法求解，例如Domschke等人[5]采用二分法的思想求解出中心值等于 $p$ 的 $\boldsymbol { r }$ 覆盖问题，朱燕等[结合层次分析法，采用贪婪取走启发式算法对 $\mathsf { p } ^ { \mathsf { \_ p } }$ 中心模型进行求解，应用于航空救援服务；Davidovi等[7]采用蜂群算法求解P-中心问题；许彦宸等[8]利用改进K-Means算法和重心法相结合的方式对P-中值问题进行求解，黄书强等[9]提出一种加权距离连续K中心选址问题求解方法；还有些学者研究精确算法求解 P-中心问题，例如 Sandoval 等人[10]提出基于整数规划模型的精确算法，Contardo 等[1]引入了一种可伸缩的基于松弛的迭代算法设计一种精确算法求解P-中心问题。
+
+该问题的启发式算法和近似算法的优点是能够快速的得到可行解，不足之处在于容易陷入局部最优[12,13]；该问题的精确算法优点是能得到最优解，不足之处在于不适合求解大规模问题，具有较高的时间复杂度[14]。针对上有算法的不足之处，本文设计了一个精确算法，首先研究P-中心模型的数学性质，并给出相应的数学证明，利用这些数学性质能批量某些确定开设或不开设的设施，进而缩小问题的规模，最后设计一个基于上界和下界的回溯算法，求得问题最优解的同时能利用数学性质加快问题求解速度。
+
+# 1 问题描述
+
+本文用二分图 $G = ( E , F )$ 来表示该问题， $E = \{ e _ { i } \mid i = 1$ $\left. 2 , \cdots , m \right\}$ 表示所有应急点的集合，用 $e _ { i }$ 代表第 $i$ 个应急点， $m$ 代表应急点的总个数； $F = \{ f _ { j } | j = 1 , 2 , \cdots , n \}$ 表示设施的集合，用 $f _ { j }$ 代表第 $j$ 个设施， $n$ 代表设施的个数。
+
+本文引入一个额外的决策变量 $\boldsymbol { \mathcal { Q } }$ 来表示所有应急点和相应为其提供服务的设施之间的最大距离。已知从设施中最多选取 $p$ 个设施，同时给定每个设施与应急点的相应位置关系，且 $p \leq n$ $d _ { i , j }$ 表示第 $i$ 个应急点 $e _ { i }$ 到第 $j$ 个设施 $f _ { j }$ 的距离；设决策变量：
+
+$y _ { i , j } = \left\{ { 1 , } \atop { 0 , } \right.$ 应急点 $e _ { i }$ 由设施 $f _ { j }$ 提供服务应急点 $e _ { i }$ 不由设施 $f _ { j }$ 提供服务$x _ { j } = \left\{ { 1 , } \atop { 0 , } \right.$ 设施 $f _ { j }$ 被选取设施 $f _ { j }$ 不被选取则P-中心选址问题具体模型如下：
+
+min $\boldsymbol { \mathcal { Q } }$
+
+$$
+\begin{array} { r l r } & { } & { \left\{ \begin{array} { l l } { \displaystyle \sum _ { j \neq ( j | j \in F ) } y _ { i , j } = 1 , } & { \displaystyle i = 1 , 2 , . . . . . m } \\ { \displaystyle y _ { i , j } = / ( | j | \epsilon ^ { T } ) } & { \quad ~ i = 1 , 2 , . . . . . m ; ~ j = 1 , 2 , . . . . . . n ( 2 ) } \\ { \displaystyle y _ { i , j } \leq 0 , } & { \quad i = 1 , 2 , . . . . . m ; ~ j = 1 , 2 , . . . . . , n ( 2 ) } \end{array} \right. } \\ & { } & { \mathrm { t . ~ } \left\{ \begin{array} { l l } { \displaystyle \sum _ { j \neq ( j | j \in F ) } x _ { j } \leq p , } & { \quad ( 3 ) } \\ { \displaystyle \sum _ { j \neq ( j | j \in F ) } ( } & { \quad 4 ) } & { \quad i = 1 , 2 , . . . . . m } \\ { \displaystyle x _ { j } \in \{ 0 , 1 \} , } & { \quad j = 1 , 2 , . . . . , n } \\ { \displaystyle x _ { j } \in \{ 0 , 1 \} , } & { \quad i = 1 , 2 , . . . . . . m ; ~ j = 1 , 2 , . . . . . . . n ( 6 ) } \end{array} \right. } \\ & { } & { \left\{ \begin{array} { l l } { \displaystyle x _ { j } \in \{ 0 , 1 \} , } & { \quad j = 1 , 2 , . . . . . , n } \\ { \displaystyle y _ { i , j } \in \{ 0 , 1 \} , } & { \quad i = 1 , 2 , . . . . . . m ; ~ j = 1 , 2 , . . . . . . . . n ( 6 ) } \end{array} \right. } \end{array}
+$$
+
+目标函数 $\boldsymbol { \mathcal { Q } }$ 表明要最小化每一个需求点与它的服务设施之间的最大距离。
+
+约束(1)表示有且仅有一个 $y _ { i , j }$ 是非零的，即有且仅有一个设施可以为一个应急点服务,保证了任意应急点 $e _ { i }$ 都能找到一个设施为其服务，满足完全覆盖的要求。
+
+约束(2)表示当 $x _ { j } = 0$ 必有 $y _ { i , j } = 0$ ，即只有被选中开设的设施才能为应急点服务。
+
+约束(3)表示最多开设 $p$ 个设施。
+
+约束(4)表示 $\varrho$ 必须大于第 $i$ 个应急点与它的服务设施之间的距离，由于对每个应急点均有这个约束，即 $\varrho$ 必须大于任一应急点与其服务设施的距离。
+
+约束(5)和(6)表示变量的取值为0或1。
+
+该问题是NP-Hard 问题，除非 $\mathbf { P } { = } \mathbf { N P }$ ，否则该问题不存在多项式时间的精确算法[15]。
+
+# 2 数学性质及子算法设计
+
+# 2.1数学符号
+
+为了便于描述，本文米用以卜数字符号米描述：$e _ { i }$ ， $f _ { j }$ ：表示第 $i$ 个应急点； $f _ { j }$ 表示第 $j$ 个设施;$m , \ n$ ：表示应急点的个数； $n$ ：表示设施的个数；$E = \{ e _ { i } \mid i = 1 , 2 , \cdots , m \}$ ：表示所有应急点的集合；$F = \{ f _ { j } | j = 1 , 2 , \cdots , n \}$ ：表示设施的集合；$p$ ：表示最多选取 $p$ 个设施 $( p \leq n )$ ·$d _ { i , j }$ ：表示第 $i$ 个应急点 $e _ { i }$ 到第 $j$ 个设施 $f _ { j }$ 的距离；mini $\underline { { { d } } } _ { 1 } ( i )$ ：表示应急点 $e _ { i }$ 到所有设施的最小距离；mini_ $\boldsymbol { n } _ { 1 } ( i )$ ：表示所有设施中，设施mini $\boldsymbol { n } _ { 1 } ( i )$ 到应急点 $e _ { i }$   
+的距离最小;mini $\_ d _ { 2 } ( i )$ ：表示应急点 $e _ { i }$ 到所有设施的次小距离；mini_ $\mathbf { \Omega } _ { n 2 } ( i )$ ：表示所有设施中，设施mini $\mathbf { \Lambda } _ { n 2 } ( i )$ 到应急点 $e _ { i }$   
+的距离次小;maxi_ $\begin{array} { r } { d _ { 1 } ( i ) } \\ { . } \end{array}$ ：表示应急点 $e _ { i }$ 到所有设施的最大距离；minj $\smash { d _ { 1 } ( j ) }$ ：表示设施 $f _ { j }$ 到所有的应急点的最小距离；maxj_ $\smash { d _ { 1 } ( j ) }$ ：表示设施 $f _ { j }$ 到所有的应急点的最大距离；min_ $\boldsymbol { d } _ { 1 } ( i , \boldsymbol { X } )$ ：表示应急点 $e _ { i }$ 到集合 $X$ 中所有设施中的最  
+小距离；min_ $\mathop { n 1 } ( i , X )$ ：表示在集合 $X$ 的所有设施中，设施min_ni(i,  
+$\boldsymbol { \mathit { X } } )$ 到应急点 $e _ { i }$ 的距离最小;$m i n \_ d _ { 2 } ( i , X )$ ：表示应急点 $e _ { i }$ 到集合 $X$ 中所有设施中的次  
+小距离；min_ $\mathop { n 2 } ( i , X )$ ：表示在集合 $X$ 的所有设施中，设施min_ $\boldsymbol { n } _ { 2 } ( i ,$   
+$\boldsymbol { \mathit { X } } )$ 到应急点 $e _ { i }$ 的距离次小;$F _ { 1 }$ ：一定开设的设施集合，若 $F _ { 1 }$ 中任一设施不开设则不  
+能取得最优解，为全局变量；$F _ { 0 }$ ：一定不开设的设施集合，若 $F _ { 0 }$ 中任一设施开设则不  
+能取得最优解，为全局变量；$F _ { 5 } = F / F _ { 1 } / F _ { 0 }$ ：暂时未确定是否开设的设施集合，为全
+
+局变量；
+
+$F F _ { 1 }$ ： $F _ { 5 }$ 中的设施在回溯算法分情况时假设开设的设施放入集合 $F F _ { 1 }$ 中，为全局变量；
+
+$F F _ { 0 }$ ： $F _ { 5 }$ 中的设施在回溯算法分情况时假设不开设的设施放入集合 $F F _ { 0 }$ 中，为全局变量；
+
+$F F _ { 5 } = F _ { 5 } / F F _ { 1 } / F F _ { 0 }$ ：回溯算法分情况时暂时未处理的设施放入集合 $F F _ { 5 }$ 中，为全局变量；
+
+best $\_ q$ ：回溯算法在当前状态下已知最好的目标函数值， 为全局变量;
+
+$F _ { b e s t }$ ：算法在当前状态下已知最好的目标函数值对应的开设设施集合， $| F _ { b e s t } | \le p$ ，为全局变量；
+
+$u \_ q$ ：算法在某一状态下的目标函数值上界，即 $J _ { 1 }$ 和 $J J _ { 1 }$ 中设施开设时的上界，为局部变量；
+
+${ _ { c u r } } \underline { { n } }$ ：当前累计开设设施数，为局部变量；
+
+cur_i：回溯算法的当前搜索层数，为局部变量;
+
+opt_flag：若 $o p t \_ f l a g = 1$ ，说明当前算法已取得最优解；若 $o p t \_ f l a g = 0$ ，不能确定当前是否已取得最优解，为全局变量。
+
+# 2.2数学性质
+
+性质1若存在一设施 $f _ { j }$ ，假如设施 $f _ { j }$ 开设且此时的上界$u \_ q$ 小于当前的下界 $b e s t \_ q$ ，则设施 $f _ { j }$ 一定不开设，其中上下界求解算法见后面2节的内容。
+
+证明上界 $u \_ q$ 小于当前的下界 $b e s t \_ { \_ } q$ ，说明此时开设设施 $f _ { j }$ 不可能获得最优解，所以应该关闭设施 $f _ { j }$ 。
+
+性质2若存在某一设施 $f _ { j }$ ，假如设施 $f _ { j }$ 不开设且此时上界 $u \_ q$ 小于当前的下界 $b e s t \_ q$ ，则设施 $f _ { j }$ 一定开设。
+
+证明上界 $u \_ q$ 小于当前的下界 $b e s t \_ q$ ，说明此时关闭设施 $f _ { j }$ 不可能获得最优解，所以应该开设设施 $f _ { j }$ 。
+
+性质3当 $p = 1$ 时，则此时开设maxj_ $d _ { 1 } ( j )$ 最小的设施即可。
+
+证明当 $p = 1$ 时,即此时只要选取1个设施，选maxj_di(i)最小的设施能使目标函数最小。
+
+性质4存在设施 $f _ { j }$ ， $f _ { h }$ ，若对于任意应急点 $e _ { i } \in E$ ，有$d _ { i , j } \leq d _ { i , h }$ ，则设施 $f _ { h }$ 一定不开设，即将设施 $f _ { h }$ 放入集合 $F _ { 0 }$ 中。
+
+证明因为此时连接到设施 $f _ { h }$ 的应急点都可以连接到设施 $f _ { j }$ 上且目标函数相同或更好。
+
+性质5存在设施 $f _ { j }$ ，若其 $m i n j \_ d _ { 1 } ( j )$ 大于等于其他任一设施 $f _ { h }$ 的 $m a x j \_ d _ { 1 } ( h )$ ，则设施 $f _ { j }$ 一定不开设，即将设施 $f _ { j }$ 放入集合 $F _ { 0 }$ 中。
+
+证明因为此时连接到设施 $f _ { h }$ 的应急点都可以连接到设施 $f _ { j }$ 上且目标函数相同或更好。
+
+性质6存在两个应急点 $e _ { i } , e _ { k }$ ，若对于任意设施 $f _ { j } \in F$ 有 $d _ { i , j } \geq d _ { k , j }$ ，则可先删除应急点 $e _ { k }$ ，算法最后再把应急点 $e _ { i }$ 连接到任一开设的设施都不影响目标函数值。
+
+证明由于对于任意设施 $f _ { j } \in F$ ，有 $d _ { i , j } \geq d _ { k , j }$ ，因此把应急点 $e _ { i }$ 连接到任一开设的设施都不影响目标函数值。
+
+性质7存在两个应急点 $e _ { i } , e _ { k }$ 若 $m i n i \_ d _ { 1 } ( i ) \ge m a x i \_ d _ { 1 } ( k )$ 则可先删除节点 $e _ { k }$ ，算法最后再把应急点 $e _ { k }$ 连接到任一开设的设施都不影响目标函数值。
+
+证明由于必须服务应急点 $e _ { i }$ ，因此目标函数一定大于等于mini $\ . d _ { 1 } ( i )$ ，而应急点 $e _ { k }$ 到所有设施的最大距离小于等于mini $\underline { { d } } _ { 1 } ( i )$ ，即应急点 $e _ { k }$ 到所有设施的最大距离一定小于等于目标函数，因此把应急点 $e _ { k }$ 连接到任一开设的设施都不影响目标函数值。
+
+性质8存在设施 $f _ { j }$ ，若其 $m a x j \_ d _ { 1 } ( j )$ 小于等于其他任一个设施 $f _ { h }$ 的minj_ $\smash { d _ { 1 } ( h ) }$ ，则设施 $f _ { j }$ 必定开设，将其放入集合$F _ { 1 }$ 中，且最优函数值即为maxj_di(j)。
+
+证明此时所有应急点都连接到设施 $f _ { j }$ 即可取得最优解。
+
+性质9若当前未被服务的应急点个数小于等于 $\left. p \mathrm { - } \right| F _ { 1 } \left| \right. -$ $| F F _ { 1 } |$ ，此时对于每一个未服务应急点 $e _ { i }$ ，把应急点 $e _ { i }$ 连接到设施 $m i n \_ n _ { 1 } ( i , F - F _ { 0 } - F F _ { 0 } )$ 即可，这样处理当前未服务应急点是最优的选择。
+
+证明这样操作开设的设施总个数小于等于 $p$ 且当前未服务应急点都是连接到距离其最近的设施上，这样处理当前未服务应急点是最优的选择。
+
+性质10将每一个应急点 $i$ 都与距离其最近的设施相连接，若此时开设的设施总数量小于等于 $p$ ，则此时求得最优解。
+
+证明 显然成立。
+
+性质11将应急点mini $\underline { { \boldsymbol { d } } } _ { 1 } ( i ) )$ 值从大到小排序，然后依次将应急点 $e _ { i }$ 连接到设施 $m i n i \_ d _ { 1 } ( i )$ ，直到开设的设施数为 $p$ 或者所有应急点都被服务为止；之后若还有应急点没有被服务，则把这些应急点连接到已经开设的 $p$ 个设施中距离该应急点最近的设施上，若这些应急点连接的距离都小于或等于$m a x ( m i n i \_ d _ { 1 } ( i ) )$ ，则此时取得最优解， $o p t \_ f l a g = 1$ 。
+
+证明此时目标函数值为下界 $m a x ( m i n i \_ d _ { 1 } ( i ) )$ ，因此成立。
+
+# 2.3 下界子算法
+
+本文设计的下界子算法具体步骤如下：
+
+a)初始化，对任意 $e _ { i } \in E$ ， $f _ { j } \in F$ ，让每一个应急点均由所有设施中距离其最近的设施服务；
+
+b)判断当前设施开设个数。若当前设施开设个数小于等于 $p$ ，此时可求得最优解，最优函数值 $Q = m a x ( m i n i \_ d _ { 1 } ( i ) ) ( e _ { i }$ $\in E )$ ，输出目标函数值，算法结束；若此时开设设施个数大于 $p$ ，此时令 $m a x ( m i n i \_ d _ { 1 } ( i ) ) = b _ { 0 }$ ，执行下一步；
+
+c）令 $T$ 为前面开设的所有设施的集合， $T$ 中设施的个数为count；将 $T$ 中每个设施 $f _ { t }$ 服务的应急点 $e _ { i t }$ 都放入对应的集合 $R _ { t }$ 中；
+
+d对 $T$ 中的每一个设施 $f _ { t }$ ，执行如下操作：若集合 $R _ { t }$ 中的任一应急点 $e _ { i }$ 都满足 $m i n \_ d _ { 2 } ( i , T ) \leq b _ { 0 }$ ，则把设施 $f _ { t }$ 加入集合 $M$ ，也就说当设施 $f _ { t }$ 服务的任一应急点到设施集合 $T$ 的次小距离值都比当前的 $b _ { 0 }$ 小，则把设施 $f _ { t }$ 加入集合 $M$ ；若集合$R _ { t }$ 中的某一应急点 $e _ { i }$ 满足 $m i n \_ d _ { 2 } ( i , T ) > b _ { 0 }$ ，则把设施 $f _ { t }$ 加入集合 $N$ ，也就说当设施 $f _ { t }$ 服务的某一应急点到设施集合 $T$ 的次小距离值比当前的 $b _ { 0 }$ 大，则把设施 $f _ { t }$ 加入集合 $N$
+
+e)若 $M$ 不为空，对 $M$ 中的每一个设施 $f _ { t m }$ ，执行如下操作：将设施 $f _ { t m }$ 对应集合中的 $R _ { t m }$ 中的所有应急点 $e _ { i t m }$ 连接到其对应的 $m i n \_ n _ { 2 } ( i _ { t m } , T )$ 上，并从集合 $T$ 中删除对应的设施 $f _ { t m }$ 更新count，更新每个应急点到集合 $T$ 中各设施的最短与次短距离，若此时 $c o u n t \leq p$ ，则此时求解得到最优解，opt_flag$= 1$ ，整个算法结束；若 $c o u n t > p$ 执行步驟f)；若 $M$ 为空，执行步驟f);
+
+f)更新初始下界。对于集合 $N$ 中每一个集合 $R _ { t }$ 的$m a x ( m i n i \_ d _ { 2 } ( i ) )$ ，将这些最大值 $m a x ( m i n i \_ d _ { 2 } ( i ) )$ 中的最小值令为 $b _ { t }$ ，若 $b _ { t } > b _ { 0 }$ ，则更新下界为 $b _ { t }$ ；若 $b _ { t } \leq b _ { 0 }$ ，则下界仍为 $b _ { 0 }$ $= m a x ( m i n i \_ d _ { 1 } ( i ) )$ ，算法结束。
+
+# 2.4上界子算法
+
+事实上，任何一个可行解对应的目标函数值均能作为该问题的上界。本文先利用前面所介绍的数学性质，将问题进行降阶处理，之后执行如下的上界子算法求出上界：
+
+a)对于所有 $e _ { i } \in E$ ，按照其 $m i n i \_ d _ { 2 } ( i )$ 的降序排列；排序之后，依此将应急点 $e _ { i }$ 连接到对应的设施mini $\boldsymbol { n } _ { 1 } ( i )$ 上，逐一开设对应设施，直到设开设个数为 $p$ 个或者所有应急点都被服务为止；将开设的设施放入集合 $U$ 中，将还没有开设的的设施放入集合 $V$ 中；
+
+b)若所有的应急点全部被集合 $U$ 中的设施服务，则此时求解得到最优解， $o p t \_ f l a g = 1$ ，整个算法结束；否则继续执行下一步；
+
+c）将所有还没有被服务的应急点 $e _ { i u }$ 与集合 $U$ 中对应的设施min_ $\mathop { n _ { 1 } } ( i _ { u } , U )$ 相连接；
+
+d)对于所有 $e _ { i } \in E$ ，将 $m a x ( m i n \_ d _ { 1 } ( i , U ) ) = u _ { 0 }$ 作为上界,令 $m a x ( m i n \_ d _ { 1 } ( i _ { u } , U ) )$ 所对应的设施设为 $f _ { h }$
+
+e)若集合 $V$ 中存在一个设施 $f _ { j }$ ，若用设施 $f _ { j }$ 来替换开设的设施 $f _ { h }$ ，即执行 $U = U \cup f _ { j } - f _ { h }$ ， $V = V \cup f _ { h } - f _ { j }$ ，之后如果对于所有 $e _ { i } \in E$ ， $m a x ( m i n \_ d _ { 1 } ( i , U ) ) < u _ { 0 }$ ，则决定用设施 $f _ { j }$ 来替换开设的设施 $f _ { h }$ ，跳到步驟d)执行；若不存在这样的设施 $f _ { j }$ 则该子算法结束。
+
+# 3 降阶回溯算法
+
+本算法分为降阶算法和回溯算法两个部分，降阶算法通过结合数学性质进行降阶，缩小问题的规模；回溯法是采用深度优先法搜索解空间。回溯算法对设施集合 $F F _ { 5 }$ 中的每一个设施分为以下2种情况进行处理：a)若设施 $f _ { j }$ 开设， $F F _ { 1 } =$ $F F _ { 1 } \cup \{ f _ { j } \}$ ， $F F _ { 5 } = F F _ { 5 } / \left\{ f _ { j } \right\}$ ，并搜索对应的左子树；b)若设施$f _ { j }$ 不开设， $F F _ { 0 } = F F _ { 0 } \cup \{ f _ { j } \}$ ， $F F _ { 5 } = F F _ { 5 } / \ \{ f _ { j } \}$ ，并搜索对应的右子树。
+
+# 3.1降阶子算法
+
+降阶子算法步骤如下：
+
+a)初始化 $o p t \_ f l a g = 0$ ，cur $\underline { { i } } = 1$ ，cur $\underline { { n } } = 0$ ，best ${ } _ { - } q =$ $+ \infty$ ; $u \_ q = 0$
+
+b)结合前文的数学性质，若某个设施 $f _ { j }$ 一定开设， $F _ { 1 } =$ $F _ { 1 } \cup \{ f _ { j } \}$ ， $F 5 = F 5 / \{ f \}$ ；若某个设施 $f _ { j }$ 一定不开设， $F _ { 0 } = F _ { 0 } \cup$ $\{ f _ { j } \}$ ， $F _ { 5 } = F _ { 5 } / \ \{ f _ { j } \}$ 。若执行以上操作后集合 $F _ { 5 }$ 有变化，则重新执行步驟a);
+
+c）根据前文的上界子算法对问题计算上界，此时开设情况赋给集合 $F _ { b e s t }$ ；对应的目标函数值赋给 $b e s t \_ q$
+
+d)调用下一节介绍的回溯子算法。
+
+# 3.2 回溯子算法
+
+本文回溯法采用深度优先法搜索问题解空间，从根节点出发遍历所有解空间，搜索至任一节点时，判断该节点的理论上界best_q是否大于下界 $b _ { - } q$ ，若满足则继续向下深度优先搜索，否则进行剪枝，即跳过该节点及以下的子树，逐级向上回溯。
+
+算法执行前先调用前面介绍的降阶子算法，若 $o p t \_ f l a g =$ 1,说明当前已取得最优解，算法结束；否则执行回溯子算法。为便于描述，对 $F _ { 5 }$ 中的设施重新编号，初始化 $F F _ { 5 } = F _ { 5 }$ ， $F F _ { 1 }$ $= \{ \}$ ， $\ F F _ { 0 } = \{ \}$ ，再调用递归回溯子程序backtrack(1)。
+
+回溯子程序backtrack $( c u r \underline i )$ 描述如下：
+
+a)若当前搜索层数 $c u r \_ i > | F _ { 5 } |$ 或者 $| F F _ { 5 } | { = } 0$ ，说明搜索到达叶子节点，此时若 $| F _ { 1 } | + | F F _ { 1 } | \le p$ ，则得到一个可行解。若对应的目标函数值 $Q < b e s t \_ q$ ，则更新最优解，best $\mathbf { \nabla } _ { \cdot } q = Q$ $F _ { b e s t } = F _ { 1 } \cup F F _ { 1 }$ ；结束该子程序；
+
+b)检查已开设设施 $F _ { 1 } \cup F F _ { 1 }$ 是否已覆盖所有应急点且$F _ { 1 } \cup F F _ { 1 } \leq p$ ，若满足，则达到叶子节点，得到一个可行解。若对应的目标函数值 $Q < b e s t \_ q$ ，则更新最优解， $o p t \_ f l a g =$ 1，best $\underline { { q } } = \underline { { Q } }$ ， $F _ { b e s t } = F _ { 1 } \cup F F _ { 1 }$ ；结束该子程序；
+
+c）在假设设施 $f _ { c u r \_ i }$ 开设的情况下，计算下界 $b _ { - } q _ { \circ }$ 若 $| F F _ { 1 } |$ $< p \cdot | F _ { 1 } |$ 且 $\left| F F _ { 5 } \right| \geq p - \left| F _ { 1 } \right| - \left| F F _ { 1 } \right|$ ，同时 $b \_ q < b e s t \_ q$ ，则开设当前设施，执行 $F F _ { 1 } = F F _ { 1 } \cup \{ f _ { c u r \_ i } \}$ ， $F F _ { 5 } = F F _ { 5 } ~ / ~ \{ f _ { c u r \_ i } \}$ ，调用backtrack $( c u r \_ i + 1 )$ 进入左子树搜索；若上述条件不成立，则跳到Step6，此时左子树剪枝；
+
+d)若 $o p t \_ f l a g = 1$ ，说明当前算法已取得最优解，结束该子程序；否则继续执行该子程序；
+
+e）算法跳到搜索树上一层前，恢复 $F F _ { 1 }$ 和 $F F _ { 5 }$ 到步驟c)的初始状态， $F F _ { 1 } = F F _ { 1 } / \left\{ f _ { c u r \_ i } \right\}$ ， $F F _ { 5 } = F F _ { 5 } + \lbrace f _ { c u r \_ i } \rbrace$
+
+f)在假设设施 $f _ { c u r \_ i }$ 不开设的情况下，计算下界 $b _ { - } q$ 。若$| F F _ { 1 } | < p - | F _ { 1 } |$ 且 $\left| F F _ { 5 } \right| \geq p - \left| F _ { 1 } \right| - \left| F F _ { 1 } \right|$ ，同时 $b \_ q < b e s t \_ q$ ，则不开设当前设施，执行 $F F _ { 0 } { = } F F _ { 0 } \cup \{ f _ { c u r \_ i } \}$ $F F _ { 5 } = F F _ { 5 } / \left\{ f _ { c u r \_ i } \right\}$ ，调用backtrack $( c u r \_ i + \ 1 )$ 进入右子树搜索；若上述条件不成立，则结束该子程序，此时右子树剪枝。
+
+g）返回搜索树上一层前，恢复 $F F _ { 0 }$ 和 $F F _ { 5 }$ 到步驟f的初始状态， $F F _ { 0 } = F F _ { 0 } / \{ f _ { c u r \_ i } \}$ ， $F F _ { 5 } = F F _ { 5 } + \{ f _ { c u r \_ i } \}$
+
+算法结束后，当前的最优目标函数值best $\mathbf { \Pi } _ { - } { } q$ 和对应开设的设施 $F _ { b e s t }$ 就是整个问题的一个最优解。
+
+# 3.3算法时间复杂度分析
+
+本文研究的问题规模即设施个数为 $n$ ，该算法在搜索空间树中最多产生 $2 ^ { n }$ 个叶子节点，在降阶子算法被调用后，问题规模减少为 $\left| F \varsigma \right|$ ，令 $k = \left| F _ { 5 } \right|$ ，因此算法在最坏情况下的时间复杂度为 $O ( 2 ^ { k } )$ 。
+
+针对应急选址问题许多学者提出不同算法，这些算法主要分为精确算法、近似算法和启发式算法。近似算法与启发式算法的优点是求解速度快，不足之处在于一般无法得到问题的最优解。本文的精确算法相对于一般的精确算法而言，通过研究其数学性质，对问题进行降阶，缩小问题的解空间，调用回溯算法前对搜索树进行合理剪枝，只对部分解子树搜索，加快了求解速度。
+
+# 4 示例分析及实例对比
+
+# 4.1示例分析
+
+为了更清晰的说明本文算法，下面给出一个示例对算法执行的整个过程进行说明。
+
+示例1如图1所示，现有6个设施j，5个应急点i,从中最多选出 $\scriptstyle { p = 3 }$ 个设施，使得最大需求距离最小，表1给出了每个应急点与设施之间的距离。
+
+![](images/79e390b908255e4c4cf2d122462164b32010e49d0c79b761ff7f150a1fbeac59.jpg)  
+图1应急点与设施二分图  
+Fig.1Bipartite graph of emergency points and facilities
+
+Tab.1 The distance between the emergency point and the facility   
+
+<html><body><table><tr><td rowspan="2">i</td><td colspan="6">j</td></tr><tr><td>j</td><td>j</td><td>j</td><td>j4</td><td>js</td><td>j6</td></tr><tr><td>i1</td><td>3</td><td>5</td><td>7</td><td>6</td><td>8</td><td>10</td></tr><tr><td>i</td><td>2</td><td>1</td><td>4</td><td>3</td><td>4</td><td>8</td></tr><tr><td>i3</td><td>6</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>i4</td><td>4</td><td>4</td><td>3</td><td>5</td><td>5</td><td>8</td></tr><tr><td>i5</td><td>7</td><td>7</td><td>1</td><td>6</td><td>6</td><td>8</td></tr><tr><td>i6</td><td>8</td><td>7</td><td>8</td><td>2</td><td>6</td><td>8</td></tr></table></body></html>
+
+对示例1的分析过程可描述如下：
+
+a)根据性质4，设施 $j _ { 5 }$ 相对于施 $j _ { 4 }$ 严格劣势，故从原二分图中删除设施 $j _ { 5 }$ 并且删除边 $\{ i _ { 1 } j _ { 5 }$ ，i2j5，i3j5，i4js，i5j5，i6$j _ { 5 } \}$ ：
+
+b)根据性质4或者性质5，设施 $j _ { 6 }$ 可以删除，故从原二分图中删除设施 $j _ { 6 }$ 并且删除边 $\{ i _ { 1 } j _ { 6 }$ ，i2j6，i3j6，i4j6，i5j6，i6$j _ { 6 } \}$ ：
+
+c)根据性质6，应急点 $i _ { 2 }$ 相对于 $i _ { 1 }$ 可以不考虑，故将应急点 $i _ { 2 }$ 删除，从原二分图中删除应急点 $i _ { 2 }$ 并且删除边 $\{ i _ { 2 } j _ { 1 }$ ，i2j2，i2j3，i2j4，i2js，ij6}；
+
+d)根据性质7，应急点i4相对于 $i _ { 3 }$ 可以不考虑(因为之前设施 $j _ { 6 }$ 已被删除)，故将应急点 $i _ { 4 }$ 删除，从原二分图中删除应急点i4，并且删除边{i4j1，i4j2，i4j3，i4j4，i4j5，i4j6}；
+
+e)经过降阶处理后，更新问题规模如图2。
+
+![](images/7a77ccebb1347c8e46367e358a3a594ae9f30cf6202af0c08ec51c89cae14a78.jpg)  
+图2问题降阶处理后的二分图
+
+Fig.2Bipartite graph of the problem after order reduction processing f)此时将当前剩余应急点与剩余设施集合中距离其最近 的设施相连，计算当前开设设施数得 $4 > p$ ，此时计算出下界 $b = 5$ 。
+
+g)执行上界子算法，计算出上界 $u = 6 ,$ h)执行回溯算法，其执行过程如图3所示的二叉树。
+
+![](images/ec04a418945861f0493a06c2608891953b0d9a0f5faad20e03837d8c69cb2790.jpg)  
+图3解空间二叉树  
+Fig.3Solution space binary tree
+
+降阶后的解空间二叉树如图所示，通过上述算法得到该问题的最优解集 $F _ { b e s t } = \{ j _ { 2 }$ ，j3， $j _ { 4 } \}$ ，最优目标函数值 $b e s t \_ q =$ 5，算法结束。
+
+# 4.2实验结果对比与分析
+
+本文实验在CPU为Core i7-7500 $@ 2 . 7 0 \mathrm { G H z }$ ，操作系统为64位Windows10 的环境下进行。采用BenchmarkLibrary中提供部分基准数据进行实验，选取TheP-medianProblem实例中部分算例， $m = n = 1 2 8$ ， $p = 1 6$ ，该数据中服务距离取值为(0,4)，采用 Python 编程实现本文精确算法(BA)和蚁群算法(ACO)，对相同数据进行求解，并对两种算法的结果进行对比分析，实验结果记录了问题求解结果和程序运行时间，如表2所示。
+
+表1应急点与设施之间的距离  
+表2实验结果对比  
+Tab.2Comparison of experimental results   
+
+<html><body><table><tr><td rowspan="2">pro</td><td colspan="2">result</td><td colspan="2">Running time/s</td></tr><tr><td>BA</td><td>ACO</td><td>BA</td><td>ACO</td></tr><tr><td>Pmp334</td><td>3</td><td>4</td><td>25.879467</td><td>1.212099</td></tr><tr><td>Pmp434</td><td>4</td><td>4</td><td>25.254210</td><td>1.123443</td></tr><tr><td>Pmp534</td><td>3</td><td>4</td><td>27.854497</td><td>1.032928</td></tr><tr><td>Pmp634</td><td>3</td><td>4</td><td>25.309252</td><td>1.150121</td></tr><tr><td>Pmp734</td><td>2</td><td>4</td><td>26.830491</td><td>1.230132</td></tr></table></body></html>
+
+从示例1可以清楚地看到，利用数学性质能降低问题的规模，加快算法的执行速度；从上述实验结果可得，实验结果与理论分析的结论一致：蚁群算法是启发式算法，计算速度比精确算法快，而本文设计的算法是精确算法,每次都能求得最优解，因此在上述实验中本文算法求出的结果稳定性要优于启发式算法类型的蚁群算法。
+
+针对于选址问题设计算法的国内外研究一般分为启发式算法、近似算法和精确算法，本文提出的降阶回溯算法是精确算法，该算法利用了数学性质、上界及下界来加快算法的运行速度，对比于启发式算法和近似算法，本文设计的精确算法保证每次都能得到正确稳定的全局最优解，而启发式算法容易陷入局部最优，近似算法也只能以一定的相似比接近最优解，一般无法得到问题的最优解；该问题的精确算法相关研究内容较少，与一般的精确算法相比最终的解是一样的，但是一般精确算法都是对所有节点进行分析，时间复杂度比较高，本文利用了问题的数学性质，结合设计的上下界子算法，能够批量确定某些开设或不开设的设施，降低问题的规模，只需分析部分节点，在一定程度上降低了精确算法处理大规模问题的困难，因此本文设计的算法比一般的精确算法速度快。
+
+# 5 结束语
+
+本文研究应急设施选址问题中的P-中心模型，针对启发式算法无法得到问题最优解和精确算法处理大规模问题具有较高时间复杂度的劣势，本文设计了一种能快速降低问题规模同时能得到精确解的降阶回溯精确算法，该算法的设计目的在于保证获得全局最优解的情况下，尽可能减少求解时间。文章通过研究P-中心选址问题的数学性质并给出相应证明，这些数学性质结合所设计的上下界子算法，在搜索过程中能批量确定某些开设或不开设的设施，在回溯过程中进行大量剪枝，从而降低问题求解规模，提高了算法的执行速度；同时，这些数学性质也可以应用于其他算法中。通过理论分析及示例1可以看出，采用本文的算法求解P-中心选址问题时不仅能求出精确解，同时利用数学性质和上下子算法能降低问题的规模，加快问题求解速度。
+
+# 参考文献：
+
+[1]Hakimi S L.Optimum locations of switching centers and the absolute centers and medians of a graph [J].Operations Research,1964,12 (3): 450-459.   
+[2]HOCHBAUMD S,SHMOYS D B.A best possible heuristic for the $\mathbf { k }$ center problem[J].Mathematics of Operations Research,1985,10 (2): 180-184.   
+[3]DYER ME,FRIEZE AM.A simple heuristic for the p-center problem [J].Operations Research Letters,1985,3(6): 285-288.   
+[4] WEN M,KANG R. Some optimal models for facility location-allocation problem with random fuzzy demands [J].Applied Soft Computing,2011, 11 (1): 1202-1207.   
+[5]Bozkaya B,Tansel B.A spanning tree approach to the absolute $\mathfrak { p }$ -center problem [J].Location Science,1998,6 (1): 83-107.   
+[6]朱燕，邵荃，贾萌．通用航空应急救援点布局方法研究[J].河南科 学,2015 (2): 265-270.(Zhu Yan,Shao Quan,Jia Meng.Research on the layout of general aviation rescue point [J].Henan Science,2015 (2): 265- 270.)   
+[7]Davidovi T,Ramljak D,Elmi M,et al. Bee colony optimization for the p-center problem [J]. Computers & Operations Research,2011,38 (10): 1367-1376.   
+[8] 许彦宸，戴韬．基于K-Means 算法和重心法求解多配送中心选址问 题[J]．物流技术,2019,38(06):69-73.(Xu Yanchen,Dai Tao.Solving multiple distribution center location allocation problem using K-Means algorithm and center of gravity method [J].Logistics Technology,2019, 38 (06): 69-73.)   
+[9] 黄书强，江秀美，范人胜．一种加权距离连续 K 中心选址问题求解 方法[J]．小型微型计算机系统，2020,41(02):310-315.(Huang Shuqiang, Jiang Xiumei,Fan Rensheng.Method for weighted distance continuous K-center facility location problem [J].Journal of Chinese Computer Systems,2020,41 (02): 310-315.)   
+[10] Sandoval MG,Diaz JA,Rios-Mercado RZ.An improved exact algorithm fora territory design problem with p-center-based dispersion minimization [J].Expert Systems with Applications,2020,146 (1): 113150.   
+[11] Contardo C,Iori M, Kramer R.A scalable exact algorithm for the vertex p-center problem [J].Computers & Operations Research,2019,103 (MAR): 211-220.   
+[12] 周建杰．图上的路选址问题与连通 p-中心和p-中位问题[D].上海: 上海大学,2016.(Zhou Jianjie.The problem of road location on graph and the problem of connecting p-center and p-median [D]. Shanghai: Shanghai University,2016.)   
+[13] Perez-Pelo S, Sanchez-Oro J, Lopez-Sanchez AD.A multi-objective parallel iterated greedy for solving the p-center and p-dispersion problem, Electronics,2019,8 (12): 1140.   
+[14] Oezsoy FA, Pinar M C.An exact algorithm for the capacitated vertex pcenter problem [J]. Computers & Operations Research,2006,33 (5).   
+[15]Michael R Garey,David S Johnson,Computers and intractability:A guide to the theory of NP-completeness [J]. Bulletin (New Series) of the American Mathematical Society,1980,3 (2): 898-904.

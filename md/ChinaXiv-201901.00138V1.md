@@ -1,0 +1,253 @@
+# 知觉冲突印象形成的认知控制策略：以刻板化信息与反刻板化信息为例
+
+崔诣晨1,2 崔亚娟3,2 夏　琪4周明洁²赵紫叶²王沛5  
+(南京晓庄学院心理健康研究院，南京 210017)(南京林业大学马克思主义学院，南京 210037)(深圳威高集力物流有限公司，深圳 518067))(4扬州高等职业技术学校，扬州 225003)(5上海师范大学教育学院，上海 200234)
+
+摘要以刻板化信息与反刻板化信息为例，采用词义Stroop 范式和掩蔽版的目标-启动范式分别将实验任务分成高、低知觉负载或阈上、阀下启动两种水平，考察冲突信息知觉负载水平及其强度对他人印象形成的认知控制策略的影响。结果发现：(1)冲突信息启动方式与知觉负载的动态变化决定了个体对刻板化信息与反刻板化信息印象形成的认知控制策略。反应性控制耗费的认知资源少，对刻板一致化信息的印象加工更快捷，而对刻板冲突化信息的印象加工更缓慢，且易激活反刻板印象；而主动性控制耗费的认知资源多，对刻板一致化信息的印象加工更缓慢，而对刻板冲突化信息的印象加工更快捷，且易出现刻板印象偏差。(2)认知控制对刻板化信息与反刻板化信息采取不同的加工模式。刻板化信息与反刻板化信息同时在阈上启动时，其加工方式受到有意操作系统的主动性控制，即进行可意识到的、受意识控制的加工；而当这两类信息同时在阈下启动时，其加工方式受到自动监控系统的反应性控制，即进行无意识的、不受意识控制的加工。这些结果表明，个体通过所知觉到的刻板化信息与反刻板化信息，能灵活地在两种认知控制系统(有意操作系统vs.自动监控系统)中进行权衡，调节其权重(即，要么启动主动性控制，要么偏向反应性控制)，从而形成对他人最有利的印象加工策略。即便处于知觉阈限之下，个体仍能通过无意识认知控制的方式对他人印象进行加工。
+
+关键词刻板印象激活；冲突信息启动方式；认知控制策略；主动性控制；反应性控制
+
+# 1引言
+
+关于"刻板印象的激活是是否是自动化激活(automatic activation)"这一问题，一直以来存在着争议。早期研究发现，当呈现某个群体成员的刻板化信息(如特质构念、行为特征等)时，该信息往往具有优先加工的特性，与之关联的刻板印象就会自动地、不可避免地激活(Banse,
+
+Seise,& Zerbes,2001;Clow&Esses,2007; Ito& Urland,2003)。随着研究的深入，“刻板印象激活是一种受多种认知因素影响、有条件的自动化过程"的观点越来越受到关注(Posten &Mussweiler,2013)，并且分别涉及类别信息、提示线索、指向性注意等(Radvansky,Copeland,& Hippel，2010)、人际信任(Posten & Mussweiler，2013)、观点采择(Skorinko，Sinclair，&Conklin,2012)、社会认知目标(Hoza,Bukowski,& Beery,2000)、心理想象(Jia et al.,2012)、感知者的年龄(Radvansky et al.,2010)、个体构念(崔诣晨，王沛,2018)等诸多因素。其中，类别信息对刻板印象的启动效应表现为一种激活扩散过程(spreading activation process)，在这一过程中各种概念化的属性联结成网络结构，通过建立社会类别和刻板特质之间的联结，激活某一社会群体表征而最终形成刻板印象(Quadflieg& Macrae,2012)。具体来说，当看到某一群体成员时，该群体的类别信息被迅速激活，并将这种神经兴奋性从知觉者的群体概念节点(node)传递到与之相连的刻板印象特征节点上，从而对与启动类别一致的刻板化信息(即一种激活刻板印象的类别信息)做出迅速反应。如果采用图式理论(schemas theory)(Hamilton &Trolier,1986)来描述社会类别的语义表征结构，则这一社会类别呈现出一种典型的刻板化信息图式结构。相应地，社会类别与刻板化信息的关系得到了随后实验的证实：刻板印象形成的前提条件是社会分类，因此，激活某一社会类别将随之增大刻板印象被激活的概率(Rim,Uleman,& Trope,2009)。
+
+近年来，研究者从知觉冲突的视角阐释社会类别如何启动刻板化信息(Bartholow &Dickter,2008; Conrey, Sherman,Gawronski,Hugenberg,& Groom,2005)。当类别信息(启动刺激)与刻板化信息(目标刺激)相匹配时，它们激活刻板印象的反应倾向是一致的，从而对刻板化信息的反应速度加快；而当启动的类别信息与刻板化信息不匹配时，它们激活刻板印象的反应倾向是相反的，故而对刻板化信息的反应变慢。不难看出，这类信息加工方式建立在刻板化信息与加工目标相关联基础之上，它起着一种平行的促进或抑制作用(即有助于激活刻板印象而抑制反刻板印象)，从而对他人形成较一致的印象。那么，当刻板化信息受到其他信息干扰，甚至受到反刻板化信息(与刻板印象一致信息相冲突的信息)影响时，与之关联的刻板印象是否还会激活？Hafner 和 Stapel(2009)研究发现，刻板化信息受到反刻板化信息干扰时，需要进一步消耗认知资源，并将反刻板化信息内化到认知图式中，从而增强他人印象的反刻板化信息加工以减弱刻板印象激活。由此可见，刻板印象激活受到信息加工类型的影响。那么，当刻板化信息与反刻板化信息这两类冲突信息处于阈下启动时，这两种信息加工类型是否会对刻板印象激活产生影响？
+
+研究者通过控制线索刺激与掩蔽刺激的呈现时间，使一部分线索刺激以阈下方式呈现，另一部分线索刺激以阈上方式呈现，以比较阈上线索和阈下线索对认知控制的影响机制有何异同(Aarts, Custers,& Marien,2008; Jimura,Locke,& Braver,2010; Savine & Braver,2010)。研究表明，当知觉者受到相关线索的启动后，就会在长时记忆系统中获得关于某个社会群体的属性。这一信息加工过程是一个快速、内隐的知觉准备过程，它包括两个阶段：基于刻板化信息的社会分类和基于所提取社会类别的刻板印象激活(perceptual readiness processing;Rüsch&Corrigan,2011)。这两个阶段的信息加工分属于两个平行加工的认知系统：前一阶段涉及到有意操作系统，后一阶段涉及到自动监控系统。与有意操作系统不同的是，自动监控系统不需要意识性加工而伴随印象形成的全过程；相反，有意操作系统需要积极努力地把认知资源拉入到意识当中去，一旦认知资源缺乏，这一操作系统将无法起作用。在个体实现某一特定目标时，这两个系统以灵活、优化的方式控制多种印象加工过程协同操作O；且一个系统作用的增强必然导致另一个系统作用的减弱(Evans& Coventry，2006；McCulloch,Ferguson,Kawada,& Bargh,2008)。因此，这两个认知系统的信息加工过程使个体能根据知觉选择、反应偏向以及实时更新的情境信息调节自身，以适应性地加工对当前知觉对象的印象(Custers & Aarts，2010)。根据双重认知控制理论(dual mechanisms of cognitive controlaccount,DMC)，人们在不同情境下会灵活地使用主动性控制或反应性控制，从而影响刻板印象激活及其强度(Braver,2012; Savine& Braver, 2010)。
+
+Robertson 和Weiss(2017)进一步指出，阈上启动和阀下启动会导致两种不同的效果：个体在阈上启动时更多地服从于策略性控制，而在阈下启动时则易导致自动化反应。这就是说，阀上呈现的信息能使个体有意识地采取行动，即被试能够按照指导语或基于刺激之间的关系，用预期策略做出相应的反应；相比之下，阈下呈现的信息会导致个体更加自动化且不受控制的反应。以往研究发现，与阈上启动一样，阈下启动同样能够促进个体在印象形成中持续加工与目标有关的信息，提高执行控制能力(Capa,Bustin,Cleeremans,&Hansenne,2011)。另有研究表明，阈上和阈下两种启动方式对他人印象加工存在细微差别：当知觉冲突信息时，阈上启动使操作更快更高效，阈下启动则使操作更慢更精确；与阈上启动相比，被试在阈下启动时更不易受到无关信息的干扰，在注意瞬脱任务中更能提高对第2个目标刺激的辨别率(Bijleveld,Custers,&Aarts,2011)。任务态磁共振研究发现，阈上启动和阈下启动分别受到快速启动控制系统和稳定维持控制系统的激活(Spielberg,Miller,Heller,& Banich,2015)。当阈下启动时，脑区之间的功能连接强度发生了改变，右侧额下沟和右前脑岛处于网络节点和核心位置，同时背侧前扣带回与其他脑区的功能耦合性显著增强；而当阈上启动时，背内侧前额叶(dMPFC)起主导作用(该脑区也是注意控制和情绪加工的关键区域)(Spielberg et al,
+
+2015)。
+
+综上所述，印象形成的知觉冲突监控机制作为一种高级认知活动，受到阈上启动和阈下启动的双重调节。当不同类型的信息同时呈现且相互冲突时，他人印象形成究竟采用何种认知控制策略？两种认知控制策略是同时起作用还是彼此独立、分阶段起作用？情境-特异性启动效应(context-specific prime effects,CSPC)的实验表明，通过设定不同冲突比例的信息加工模块，可以使被试对冲突或非冲突信息产生反应预期(该预期由不同情境的冲突比例差异引起)，并维持对这种反应预期的持续性启动(Bailey,West,&Anderson,2010)。该实验因事先设定了不同冲突比例的情境，因而更好地诱发了被试对信息的自上而下加工，使得不同的认知控制策略彼此分离。其结果表明，主动性控制和反应性控制彼此相互独立、非此即彼，并分别作用于印象形成的不同阶段。
+
+与上述研究结论相反，另有研究者发现，在知觉冲突视角下，尽管主动性控制与反应性控制相互独立，但个体在印象形成过程中却可以同时运用这两种认知控制策略(Bugg &Braver,2015)。主动性控制需要调用更多的认知和生理资源来保持对线索的启动，因此对解决知觉冲突更为有效。但是，由于主动性控制策略过分依赖于线索，当线索处于可靠性低、反应准备阶段长、非预期信息的比例大等情况时，该策略将难以充分发挥优势，此时采用反应性控制会更为得心应手(Garavan&Weierstall,2012)。
+
+目前，较少有研究直接涉及到刻板印象加工与认知控制策略之间的关系探讨。针对上述分歧，本研究假设：(1)当刻板化信息与反刻板化信息同时呈现(即存在知觉冲突)，且当知觉负载较高时，印象形成受到反应性控制的作用易激活反刻板印象；而当知觉负载较低时，印象形成受到主动性控制的作用易出现刻板印象偏差。(2)认知控制对不同强度的冲突信息(刻板化信息vs.反刻板化信息)采取不同的加工模式——刻板化信息与反刻板化信息同时在阀上启动时，其加工方式受到主动性控制，即进行可意识到的、受意识控制的加工；当这两类信息同时在阈下启动时，其加工方式受到反应性控制，即进行无意识的、不受意识控制的加工。
+
+# 2实验1：不同知觉负载水平下刻板化信息与反刻板化信息印象形成的认知控制策略
+
+# 2.1方法
+
+# 2.1.1 被试
+
+公开招募某大学 86 名在校本科生(男女各半)，年龄 $1 8 \sim 2 3$ 岁，平均年龄 22.65 岁
+
+$\langle S D { = } 1 . 8 9 \rangle$ ，裸视或矫正视力正常，之前未参加过类似实验。被试完成实验后获得一定的报酬。
+
+# 2.1.2 实验材料
+
+大多数社会文化对“社会性别"这一概念的理解是较为稳定和相似的，由此产生的男女两性刻板印象特征也是相类似或一致的。例如，不同国家、种族和文化背景下，“柔美”、“贤淑"通常都是女性最为普遍的刻板化信息，而"阳刚”、“强壮"则是男性最为常见的刻板化信息。实验刺激由"靶-分心刺激"对构成。以描述性别的特质词(如，阳刚、温柔)为靶刺激，以代表男性和女性社会群体的性别属性词"男”、“女"为分心刺激。通过前测甄选出描述男性、女性的特质词各34个(特质词男性-积极(29)/特质词 $\scriptstyle { \frac { 1 } { 3 } } + { \frac { 4 } { 4 } } - { \bar { 6 } } \ngeq { \frac { 3 } { 4 } } 1 ) = 0 . 9 4$ ，特质词男性-消极(5)/特质词女性-消极$( 3 ) { = } 1 . 6 7 )$ 。正式实验采用60个性别特质词，其余8个用于练习。具体筛选步骤：首先，编制《性别特质词开放式调查问卷》，要求某大学大一、大四学生 $( N { = } 1 6 0 )$ 根据印象尽可能多地写出描述男性和女性典型特征的双字词，从中选出高频词(词频均超过 $70 \%$ ；随后，结合以往相关研究所收集的性别特质词，编制成《性别典型性问卷》，采用等级评定法让某大学大一、大四学生 $( N { = } 1 0 0 )$ 对所收集的性别特质词典型性进行评分并排序，选出位列前 $30 \%$ 的性别特质词74个；最后，参照《现代汉语常用词表》（《现代汉语常用词表》课题组,2008)筛选出使用率达 $70 \%$ 以上的性别特质词68个。将筛选出的实验材料采用 Adobe Photoshop CSl软件包以26号宋体字号制成BMP格式图片。
+
+# 2.1.3 实验设计
+
+采用2(知觉负载：高vs.低) $\scriptstyle 1 \times 2 ($ 性别特质词与性别属性词知觉:冲突vs.相容)的混合设计。其中，知觉负载为被试间变量。因变量指标为被试完成 Stroop 任务的反应时和错误率。
+
+# 2.1.4 实验程序
+
+采用"性别-特质"冲突和“性别-特质"相容的词义 Stroop 范式(Algom,Chajut，& Lev,2004)将知觉负载的操控分为两类：在低知觉负载任务下，性别特质词(靶刺激)上方呈现同一性别属性词(如"暴躁-male")；在高知觉负载任务下，性别特质词左右两侧各呈现一个性别属性词且分别与该性别特质词相容或冲突(如"male-暴躁-female")。该范式的应用原理在于：Stroop 效应的建构理论认为，读词是自动加工，性别判断是控制加工；读词能对性别判断产生促进或干扰，反之则不会(Melara＆ Algom,2003)。由此可见，该范式能分离出刻板化信息与反刻板化信息处于知觉冲突视角下他人印象形成的认知控制策略。
+
+实验指导语为：“首先在屏幕中央会出现一个白色的 $\cdot _ { + } ,$ 号注视点，请您集中注意该点。接着会呈现一个描述性别特质的词语，请您对该词语所描述的性别进行判断：如果您认为描述的是男性，请按J键；如果您认为描述的是女性，请按F键。请您迅速且准确地进行反应。下面，按空格键进入练习阶段。"其他实验流程同实验1(见图1)。每名被试进行实验任务时，按照限定条件重新随机产生实验条件序列和刺激组合。通过Presentation 软件实现实验条件的随机化，以保证每个子条件(高负载-冲突、高负载-相容、低负载-冲突、低负载-相容)在其他子条件后出现的概率相同；此外，让每名被试采用不同的条件序列，以避免同一个序列可能存在的系统化影响。每做完一个区组，被试休息2分钟。实验前，先让被试完成 20个练习试次(描述男女特质的双字词各2个，每个特质词随机呈现5次)来了解和熟悉实验任务。
+
+![](images/f9524580d5dedefbfd4fbfca80b227002b3c78aea0bf9a52658b25150f65fe35.jpg)  
+图1一个试次的任务流程
+
+# 2.2 结果
+
+# 2.2.1 刻板一致化信息与知觉负载对他人印象加工策略的影响
+
+采用 SPSS18.0对实验数据进行统计处理。首先，为考察刻板印象加工是否获得了稳定的知觉负载效应，进行2(知觉负载) $\times 2 ($ 性别特质词与性别属性词知觉)的重复测量方差分析(见表1、图 2)。计算每个子条件的平均反应时和准确率，并剔除错误的反应。剔除每个被试每个子条件下进行反应的极端值 $( M \pm 3 S D$ 以外的数据)，共剔除 $4 . 5 \%$ 的数据。
+
+结果显示，知觉负载主效应显著， $F ( 1 , 8 0 ) { = } 2 . 9 8$ ， $p { < } 0 . 0 5$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 3 9$ ；他人信息冲突性的主效应不显著, $F ( 1 , 8 0 ) { = } 0 . 1 3 , p { > } 0 . 5 \$ ：两者交互作用边缘显著， $F ( 1 , 8 0 ) { = } 3 . 3 8 , p { = } 0 . 0 5 2 , \eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 0 9$ （204号简单效应分析显示，在性别特质词与性别属性词冲突视角下，知觉负载的高低水平没有造成被试对这两类词的印象加工平均反应时之间(624ms vs.591ms)的差异， $F ( 1 , 8 0 ) { = } 1 . 3 5$ ， $p { > } 0 . 1$ 但是，在性别特质词与性别属性词相容视角下，负载水平高的被试对性别特质词与性别属性词的印象加工反应时显著长于负载水平低的被试对这两类词的印象加工平均反应时( $6 3 8 \mathrm { m s }$ vs. 577ms), $F ( 1 , 8 0 ) { = } 2 . 0 4$ ， $p { < } 0 . 0 5$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 5$ 。这表明，被试对刻板一致化信息的印象加工受知觉负载的调节，即呈现两种不同的认知控制策略(主动性控制 vs.反应性控制)；同理，当刻板化信息与反刻板化信息同时呈现时，负载水平高的被试比在刻板一致化信息呈现时的印象加工平均反应时缩短(-14ms)，而负载水平低的被试比在刻板一致化信息呈现时的印象加工平均反应时延长(14ms)，从而引起知觉负载效应的消失。可见，反应性控制耗费的认知资源少，对刻板一致化信息的印象加工快捷，而对刻板冲突化信息的印象加工更缓慢，且易激活反刻板印象；而主动性控制耗费的认知资源多，对刻板一致化信息的印象加工更缓慢，而对刻板冲突化信息的印象加工更快捷，且易出现刻板印象偏差。
+
+表1各组内实验条件下被试的平均反应时( $N { = } 8 2 /$ 单位ms)  
+
+<html><body><table><tr><td>知觉负载</td><td>性别特质词</td><td>性别属性词</td><td>信息知觉</td><td>M</td><td>SE</td></tr><tr><td rowspan="4">低</td><td rowspan="2">男性特质词</td><td>女</td><td>冲突</td><td>582.45</td><td>20.69</td></tr><tr><td>男</td><td>相容</td><td>574.48</td><td>20.87</td></tr><tr><td rowspan="2">女性特质词</td><td>男</td><td>冲突</td><td>578.47</td><td>20.27</td></tr><tr><td>女</td><td>相容</td><td>577.18</td><td>20.52</td></tr><tr><td rowspan="4">高</td><td rowspan="2">男性特质词</td><td>女</td><td>冲突</td><td>632.09</td><td>21.44</td></tr><tr><td>男</td><td>相容</td><td>634.52</td><td>22.08</td></tr><tr><td rowspan="2">女性特质词</td><td>男</td><td>冲突</td><td>623.54</td><td>22.49</td></tr><tr><td>女</td><td>相容</td><td>636.25</td><td>21.62</td></tr></table></body></html>
+
+![](images/35292aba01fd175b5786414cf03322036e58ce1f3ade8e818841721418cff39b.jpg)  
+图2信息知觉与其负载水平对他人印象加工速度的影响
+
+# 2.2.2刻板化信息与反刻板化信息的冲突对他人印象加工策略的影响
+
+为进一步验证上述假设，对平均反应错误率进行同样的方差分析(见图3)。对每个被试每个子条件进行反应极端值 $( M \pm 3 S D$ 以外的数据)的剔除，共剔除 $0 . 9 \%$ 的数据。结果显示，性别特质词与性别属性词知觉主效应显著， $F ( 1 , 8 3 ) { = } 1 . 7 6$ ， $p { < } 0 . 0 5$ ， $\mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } = 0 . 2 2$ ；知觉负载主效应不显著， $F ( 1 , 8 3 ) { = } 0 . 8 8$ ， $p { > } 0 . 1$ ；两者交互作用不显著， $F ( 1 , 8 3 ) { = } 0 . 2 9$ ， $p { > } 0 . 5$ 。这说明，当刻板化信息与反刻板化信息同时呈现时，印象形成受到反应性控制的作用易激活反刻板印象；与刻板一致化信息呈现时的印象加工相比，这一印象加工的平均反应时缩短且准确率降低 $( M _ { \mathrm { \Delta \ ^ { \scriptstyle \sharp + } i \sharp \sharp = \sharp } } = 0 . 0 7 8 )$ 。相反，当两类信息均为刻板一致化信息时，随着知觉负载水平的降低，刻板印象产生的主动性控制作用增强，从而导致这一印象加工的平均反应时缩短且准确率提升(M 错误率=0.075)。可见，两类认知控制策略不存在并行加工方式，而是分阶段对印象加工起作用。
+
+![](images/4aca093b530848230416c920a2eead5cf7afe850060206d16399c1e700544dc7.jpg)  
+图3不同负载水平下信息知觉对他人印象加工准确率的影响
+
+# 2.3 讨论
+
+在他人印象形成过程中，个体通常倾向于采取认知捷径，根据对方所属的社会类别进行刻板印象加工。这一过程与认知控制的自动表达和调节有着密切关系，因此，对他人的印象加工体现出无意识、快速和自动化特征(Sherman et al.,2009)。根据刻板印象加工理论，刻板印象以图式的形式存储于个体的认知系统中。当他人信息不完整或认知资源有限时，刻板印象起到"过滤器"的作用，使个体有选择性地注意与其相一致信息而忽略不一致信息，从而帮助个体在纷繁复杂的情境中迅速捕捉到有价值的他人信息。当自动激活的刻板印象与反刻板化信息冲突时，就需要认知控制对反刻板化信息进行抑制，从而使反应时延长(Conrey et al.,2005)。
+
+以往研究发现，印象形成中存在明显的性别刻板印象优势效应，即个体更易记住并提取与性别一致的刻板化信息而非反刻板化信息(崔诣晨，王沛,2016)。与此相对，研究者指出，反刻板化信息比刻板化信息具有更大的注意加工优势：当个体更加关注反刻板化信息时，往往会投入更多的认知资源(Macrae＆Quadflieg,2010)。本研究提出的假设在实验1中得到了部分证实，即当刻板化信息与反刻板化信息(将女性描述为粗扩或骁勇，或将男性描述为妖媚或温婉)存在知觉冲突时，此时的印象加工易受到反应性控制；当耗费较多的认知资源时，刻板印象语义冲突效应被激活，进而产生抑制个体选择性注意的主动性控制策略。实验1还进一步发现，反应性控制耗费的认知资源少，对刻板一致化信息的印象加工更快捷，而对刻板冲突化信息的印象加工更缓慢，且易激活反刻板印象；而主动性控制耗费的认知资源多，对刻板一致化信息的印象加工更缓慢，而对刻板冲突化信息的印象加工更快捷，且易出现刻板印象偏差。之所以呈现这两种情形，主要是复合类别的心理表征形式较单一类别更为复杂：无论是内群体的刻板印象还是外群体的刻板印象，大多会对刻板一致化信息运用抽象表征，而对刻板冲突化信息运用样例表征(Klein,Clark,& Lyons,2010)。因此，当同时呈现的性别刻板化信息一致(如"男-阳刚")时，人们倾向于用复合类别进行抽象表征(如"粗犷-勇敢");当两类性别刻板化信息存在冲突(如"女-阳刚")时，类别间调和的策略不再适用，人们可能会使用单一类别进行样例表征(如，温柔的女性面孔或阳刚的男性面孔)。
+
+综上所述，刻板一致化信息的印象形成明显受到知觉负载的调节，即根据认知资源的整体情况进行灵活分配。当认知资源相对充足时，个体能够进行合理的认知资源分配，形成自上而下的主动性控制策略，以激活刻板印象；而当认知资源相对匮乏时，个体能够迅速快捷地进行自下而上的反应性控制，易导致刻板印象偏差。相反，当刻板化信息与反刻板化信息存在知觉冲突时，印象形成受到反应性控制的作用易激活反刻板印象。研究发现，阈下线索可通过潜意识的方式影响印象形成的认知控制策略(Aarts etal.,2008)。那么，当刻板化信息与反刻板化信息处于阀下启动时，负责调节印象形成的认知控制机制是否会对刻板印象激活产生有效的抑制？阀下启动和阈上启动所引发的认知控制策略有何不同？这种启动效应是偏向主动性还是偏向反应性？当两类冲突信息的强度发生改变时，其印象控制策略是否也会做相应地调整？目前，尚未有研究直接涉及到此类问题。对此，实验2旨在实验1研究的基础上进一步探讨不同强度的冲突信息对印象形成认知控制的影响。
+
+# 3实验2：不同启动方式下刻板化信息与反刻板化信息印象形成的认知控制策略
+
+# 3.1方法
+
+# 3.1.1 被试
+
+某大学来自管理学、社会学、文学、法学等专业的三、四年级大学生98人，年龄 $2 0 \sim$ 25岁 $( M { = } 2 1 . 5 6 , S D { = } 2 . 3 5 )$ ),均无相关心理学实验经验。通过分类实验筛选出有效被试86人(剔除有 $20 \%$ 以上错误率的12名被试)，其中男生39人、女生47人。所有被试均自愿参加实验，实验后获得一定的报酬。
+
+# 3.1.2 实验设计
+
+采用2(冲突信息启动方式：阀上启动vs.阀下启动) $) { \times } 2 ($ 两类性别特质词知觉：冲突vs.相容)的混合设计。其中，冲突信息启动方式为被试间变量。因变量指标为不同启动刺激所引发并作用于目标刺激的情绪效价反应比，以此检验不同冲突信息启动方式下他人印象形成的认知控制策略是否存在显著差异。根据情绪图式理论(Matsumoto,Ichikawa,Kanayama, Ohira,& Iidaka,2006;Meltzer& Nielson,2010)，这一因变量指标的设计原理在于：不同的情绪体验会诱发个体产生不同的认知控制策略。这是因为，个体对外界信息所进行的情绪加工使其大脑里逐渐产生积极或消极认知图式，这些认知图式将发挥自上而下的控制作用，促使个体以不同的认知控制策略(当个体产生明显的情绪体验时，其印象加工策略为反应性控制；如个体无明显情绪体验，则其印象加工策略为主动性控制)进行印象加工。此外，为进一步考察不同冲突信息启动方式下印象加工是否存在速度上的差异，统计又一因变量指标反应时。
+
+在实验材料的设计上，采用情感错误归因程序(Affect Misattribution Procedure,AMP)(Payne，2005)，使被试在知觉到没有明确意义的目标刺激"梵文字"时，无意识地把启动刺激所引发的情绪投射到这一目标刺激上，从而影响其印象形成的认知控制策略。
+
+# 3.1.3 实验材料
+
+首先，从以往刻板印象研究及《现代汉语常用词表》(《现代汉语常用词表》课题组,2008)中筛选出 226 个性别特质词。另找40名本科生和研究生作为独立样本，对这些特质词进行性别偏向的7点评定(1代表男性化程度最强，即"非常男性化"；2代表"比较男性化"；依此类推，3代表的男性化程度更低；4代表"中性化”，即这一特征对于男女均可；5代表偏向女性化；6代表"比较女性化"；7代表"非常女性化")，从中筛选出具有明显性别偏向的、词性与熟悉性相匹配的136个性别特质词。其次，随机抽取136个梵文字，再另找40 名本科生和研究生对这些词在情绪效价、唤醒度、熟悉度3个维度上采用主观评价模式进行5点量表评分。其中，情绪效价系待评测词所诱发的被试情绪愉悦强度(正性、中性、负性)： $\scriptstyle 5 =$ 很愉快， $\scriptstyle 4 =$ 较愉快， $3 \mathrm { = }$ 中性， $2 { = }$ 较难受， $1 { = }$ 很难受；唤醒度反映待评测词是否令人激动、平静或消沉： $\scriptstyle 5 =$ 很激动， $\scriptstyle 4 =$ 较激动， $3 \mathrm { = }$ 中性， $2 \mathrm { = }$ 较消沉， $1 =$ 很消沉；熟悉性系待评测词在被试生活环境中是否常见： $\scriptstyle 5 =$ 很常见， $\scriptstyle 4 =$ 较常见， $3 \mathrm { = }$ 中性， $2 = \mathcal { D }$ 见， $1 =$ 很少见。结果显示，M效价±SD=3.04±1.35， $M _ { ☉ A } 1 2 S D { = } 2 . 9 8 { \pm } 1 . 4 2$ ， $M _ { ☉ } \yen 123,456$ ，且这3个维度两两显著正相关( $\cdot$ 效价_唤醒=0.79， $p { < } 0 . 0 1$ ； $r$ 效价_熟悉 $_ { : = 0 . 5 6 }$ ， $p { < } 0 . 0 1$ ； $r$ 唤醒_熟悉 $\scriptstyle = 0 . 6 2$ ， $p { < } 0 . 0 1 \$ )；梵文字的情绪效价与性别特质词的情绪效价差异显著 $( t ( 1 3 6 ) { = } 2 7 . 6 4$ ， $p { < } 0 . 0 0 1$ ， $\scriptstyle d = 0 . 7 3 5 )$ 。最后，将筛选出的实验材料采用 Adobe Photoshop CSl软件包以26 号宋体字号制成 BMP 格式图片。
+
+# 3.1.4 实验程序
+
+整个实验通过E-Prime2.0编程。要求被试注意计算机屏幕中央的注视点，尽量少眨眼，在实验过程中禁止头部及全身的其他运动。显示器背景为黑色，距离被试 $8 0 \mathrm { c m }$ ，刺激的呈现形式为黑色背景上的白字。实验前，被试先进行练习，以熟悉具体实验程序。完成 24个练习试次后，进入正式实验。正式实验共4个区组，每个区组包括34个试次，区组之间休息2分钟。
+
+每个试次由3个阶段任务组成：（1）呈现启动图片：将性别特质词随机两两配对，分别呈现4组性别特质词启动图片共136张，其中包括68张信息冲突图片("男特质 $+$ 女特质"图片)和68张信息相容图片("男特质 $+$ 男特质"图片、“女特质 $+$ 女特质"各34张)。每组性别特质词按上下结构摆放并同时呈现。(2）呈现目标图片：每组启动图片呈现之后，出现白屏(ISI为100ms)，之后呈现一幅梵文字图片(即目标图片)。(3）呈现掩蔽图片：呈现一幅灰色方块图片掩蔽梵文字图片时，要求尽可能快地按键判断目标图片的情绪效价，即梵文字是令人愉快的(按F键)还是不愉快的(按J键)。
+
+阀上启动实验指导语为：“当您看到屏幕中央的白色 $\cdot _ { + } ,$ 号注视点时，请集中注意将要呈现的图片，并对图片上所呈现的词语按照性别进行归类。接着，屏幕中央会出现一个陌生文字，如果您觉得它令人愉快就按F键，如果觉得它令人不愉快就按J键。随后，完成之前的词语性别归类任务：认为两类词均描述男性特征，按D键；认为两类词均描述女性特征，按 K键；认为两类词所描述的性别特征相反，按空格键。如您已认真阅读上述规则，请按空格键开始练习。"阀上启动图片呈现到被试第1次按键反应时间为 $1 0 0 0 \mathrm { m s }$ ，随后进入后续的第2、3阶段(见图4)。
+
+阀下启动实验指导语为：“当您看到屏幕中央的白色 $\cdot _ { + } ,$ 号注视点时，请注意屏幕中央出现的一个陌生文字，如果您觉得该文字令人愉快就按F键，如果觉得该文字令人不愉快就按J键。如您已认真阅读上述规则，请按空格键开始测试。"第1阶段的启动图片呈现时间为 $3 0 \mathrm { m s }$ ，随后进入后续的第2、3阶段(见图4)。
+
+![](images/52fe06f03d7b8b687d6b624b4fb6bad34cfef97844a7d6257d79cf438c0bed0e.jpg)  
+图4一个试次的阈上启动和阀下启动任务流程
+
+# 3.2 结果
+
+# 3.2.1不同冲突信息启动方式下印象加工的情绪效价差异
+
+实验结果采用SPSS18.0进行分析。剔除反应时低于 $3 0 0 \mathrm { { m s } }$ 或高于 $1 5 0 0 \mathrm { m s }$ 且有效数据少于 $80 \%$ 的被试，共剔除的被试占总被试量的 $2 . 3 \%$ 。以启动刺激所引发并作用于目标刺激的情绪效价反应比为因变量指标，进行2(冲突信息启动方式) $\lvert \times 2 \rvert$ (两类性别特质词知觉)的重复测量方差分析(见图5)。
+
+![](images/d64f6dc061121f406e439d622b2275d36e1f70b50198dbef19ece079af5ece2f.jpg)  
+图5不同冲突信息启动方式下印象加工的情绪效价
+
+结果显示，两类性别特质词知觉主效应显著， $F ( 1 , 8 2 ) { = } 1 4 . 8 6$ ， $p { < } 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 6$ ；冲突信息启动方式主效应显著， $F ( 1 , 8 2 ) { = } 3 2 . 5 6$ ， $p { < } 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 3 0$ ；两者交互作用显著，$F ( 1 , 8 2 ) { = } 1 6 . 8 5$ ， $p { < } 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 8$ 。经简单效应检验，当两类性别特质词处于冲突或相容视角时，阈下启动比阈上启动引起被试对梵文的情绪效价反应更强 $( F _ { \mathrm { \Phi \ast \mathrm { \vert \ast \mathrm { \vert } } } } ( 1 , 8 2 ) \mathrm {  { = } 7 . 6 2 }$ ， $\scriptstyle { p < 0 . 0 0 1 }$ $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 4 3$ ; $F _ { \mathrm { \# \# } } ( 1 , 8 2 ) { = } 2 . 8 6$ ， $\scriptstyle { p = 0 . 0 0 5 }$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 0 )$ 。这一结果表明，当所知觉到的类别信息与个体信息处于阈下冲突时，他人印象形成受到反应性控制的作用而产生明显的情绪体验；当所知觉到的这两类信息处于阀上冲突时，他人印象形成受到主动性控制的作用而无明显情绪体验。
+
+# 3.2.2不同冲突信息启动方式启动下印象加工的反应时差异
+
+对所有原始反应时数据进行自然对数转换。以启动刺激所引发并作用于目标刺激的反应时自然对数为因变量指标，进行 2(冲突信息启动方式) $) { \times } 2 ($ 中国人名与性别特质词知觉)的重复测量方差分析(见表2、图6)。
+
+结果显示，两类性别特质词知觉主效应显著， $F ( 1 , 8 2 ) { = } 9 . 7 7$ ， $p { < } 0 . 0 0 5$ ， $\eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 1 1$ ；冲突信息启动方式主效应显著， $F ( 1 , 8 2 ) { = } 1 0 . 9 6$ $p { < } 0 . 0 0 1$ $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 2$ ；两者交互作用显著， $F ( 1 , 8 2 ) { = } 1 2 . 7 3$ $p { < } 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 4$ 。经简单效应检验，当两类性别特质词处于冲突视角时，阈下启动引起被试对梵文的印象加工反应时明显短于阀上启动， $F ( 1 , 8 2 ) { = } 4 . 7 7$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 2 3$ ；当两类性别特质词处于相容视角时，阀下启动比阈上启动引起被试对梵文的印象加工反应时短，但无显著差异， $F ( 1 , 8 2 ) { = } 1 . 1 5$ ， $p { > } 0 . 1$ 。
+
+表2各种实验条件下的平均反应时(自然对数)和情绪效价反应比 $( \% )$   
+
+<html><body><table><tr><td rowspan="3">观测指标</td><td colspan="4">印象加工的平均反应时自然对数</td><td colspan="4">印象加工的情绪效价反应比(%)</td></tr><tr><td colspan="2">阈上启动</td><td colspan="2">阈下启动</td><td colspan="2">阈上启动</td><td colspan="2">阈下启动</td></tr><tr><td>冲突</td><td>相容</td><td>冲突</td><td>相容</td><td>冲突</td><td>相容</td><td>冲突</td><td>相容</td></tr><tr><td>M</td><td>6.345</td><td>5.938</td><td>5.762</td><td>5.789</td><td>0.371</td><td>0.544</td><td>0.691</td><td>0.685</td></tr><tr><td>SE</td><td>0.093</td><td>0.099</td><td>0.080</td><td>0.085</td><td></td><td>0.186 0.262</td><td>0.184</td><td>0.181</td></tr></table></body></html>
+
+![](images/aeb415f2a0e6389cad7ec5a403525ee6228fe4df78c058d255c0b1726ecfc305.jpg)  
+图6不同冲突信息启动方式下印象加工的反应时
+
+上述结果表明，当刻板化信息与反刻板化信息阈上启动时，有意操作系统执行主动性控制，所占用的心理资源较多，加工速度较慢，从而不易受刻板印象的干扰；而刻板化信息与反刻板化信息阈下启动时，自动监控系统执行反应性控制，所占用的心理资源较少，加工速度较快，从而易受刻板印象的影响。
+
+# 3.3讨论
+
+实验2证实，有意操作系统和自动监控系统对他人的印象加工具有灵活性和调节性(Awh,Belopolsky,&Theeuwes,2012)。当阈上启动时，有意操作系统执行主动性控制，所占用的心理资源较多，加工速度较慢，更多地依赖于理性，使个体抑制对他人的特质判断，不易受刻板印象的干扰；而阈下启动时，自动监控系统执行反应性控制，所占用的心理资源较少，加工速度较快，更多地依赖于直觉，并通过情绪和动机定向来间接存取他人特质信息，易受刻板印象的影响(Beer&Brooks,2011)。这些结果验证了McCulloch 等人(2008)的观点——人们会根据刻板化信息与反刻板化信息的重要性或精确性开展并行加工。刻板化信息会自动激活刻板印象，并与反刻板化信息联合起来共同影响刻板印象效应；刻板化信息与反刻板化信息在加工通路上是相对独立且平行的(主动性控制-反应性控制)。尽管如此，实验2 仍没有得出刻板化信息与反刻板化信息不存在串行加工的确凿证据。根据串行多重加工模型，印象形成受到刻板印象的主宰：首先，知觉者对刻板化信息进行自动化加工，使刻板印象受到激活；紧接着，知觉者转向以反刻板化信息为基础的加工。
+
+# 4总讨论
+
+刻板印象的激活和表达，与认知控制的监控和协调关系密切(Sherman et al.,2009)。特别是人们在日常生活中避免由刻板化信息所引起的带有偏见的判断时，需要更强的认知控制能力。俗话说"当局者迷，旁观者清”。旁观者效应(actor/observer effects)表明，人们对他人印象的加工由自身的认知控制机制决定。这种印象形成现象可通过实验1和实验2分别加以说明。研究发现，个体通过所知觉到的刻板化信息与反刻板化信息，能灵活地在两种认知控制系统(有意操作系统 vs.自动监控系统)中进行权衡，调节其权重(即，要么启动主动性控制，要么偏向反应性控制)，从而形成对他人最有利的印象加工策略。即便处于知觉阈限之下，个体仍能通过无意识认知控制的方式对他人印象进行加工。
+
+# 4.1他人印象形成的无意识认知控制
+
+Baars(2002)对相关研究进行分析后，首次提出"无意识认知控制"的概念。他们认为，被试对阈下冲突信息的反应延迟，实际上揭示冲突情境中存在抑制控制过程。这一过程反映出被试虽然无法知觉到启动刺激，也无法意识到冲突情境的存在，然而冲突依然会消耗更多的认知资源，从而导致相应的行为反应。这种迹象表明，阈下冲突信息能够激活无意识认知控制。随后的研究从行为、电生理、脑成像等多个层次证实，掩蔽刺激能够诱发冲突监控，激活大脑前额叶掌管认知控制的神经网络(Boy,Husain，Singh，& Sumner，2010；van Gaal,Lamme, Fahrenfort, & Ridderinkhof, 2011)。
+
+实验2发现，印象形成的认知控制策略受到冲突信息启动方式(即意识性水平)的调节。当冲突信息处于阈下知觉时，印象形成受到反应性控制的作用；当冲突信息处于阈上知觉时，印象形成受到主动性控制的作用。这一发现验证了知觉冲突的中间模块加工水平假设：同样的冲突信息可经历不同加工水平的中间模块而产生不同的认知控制策略。当中间模块加工是无意识水平时，印象形成的认知控制是快速而精确的，从而引起冲突抑制效应；当中间模块加工是意识水平时，印象形成的认知控制则是缓慢的，且易受到刻板印象的监控(Magen &
+
+Cohen,2007; Matsumoto & Tanaka, 2004; Roelofs, Van Turennout,& Coles,2006)。在整个印象形成的动态过程中，有意操作系统和自动监控系统可以看成是主动性控制与反应性控制的载体。实验2还发现，这两个系统对他人的印象加工具有灵活性和调节性。其灵活性主要表现为：刻板化信息与反刻板化信息同时在阈上启动时，个体采取有意操作系统的主动性控制，即进行可意识到的、受意识控制的加工；而当这两类信息同时在阈下启动时，个体调动自动监控系统的反应性控制，即进行无意识的、不受意识控制的加工。这些结果验证了Beer 和Brooks(2011)的观点——刻板化信息会自动激活刻板印象，并与反刻板化信息联合起来共同影响刻板印象效应；刻板化信息与反刻板化信息在加工通路上是相对独立且平行的(主动性控制-反应性控制)。尽管如此，实验2仍没有得出刻板化信息与反刻板化信息不存在串行加工的确凿证据。
+
+根据刻板印象加工理论，类别信息是刻板印象形成的载体。因此，社会类别激活是刻板现象激活的前提条件。当自动激活的刻板印象与反刻板化信息冲突时，需要认知控制对相关信息进行压抑，从而增加反应时(Conreyet al.,2005)。特别是当知觉负载较高时，个体倾向于采取无意识的、快速的、自动化的反应性控制策略，根据对方所具有的反刻板化信息进行印象加工。依据这一理论观点，实验1推论：当刻板化信息与反刻板化信息存在知觉冲突，且当知觉负载较高时，印象形成受到反应性控制的作用易激活反刻板印象；而当知觉负载较低时，印象形成受到主动性控制的作用易出现刻板印象偏差。这一假设得到了部分验证，同时进一步澄清了刻板印象加工与认知控制策略之间的关系。
+
+前期研究发现，反刻板化信息比刻板化信息具有更大的注意加工优势；当个体更加关注反刻板化信息时，往往会投入更多的认知资源(Quadflieg&Macrae,2012)。实验1在此基础上进一步发现，他人印象形成明显受到知觉负载的调节，且个体对两类冲突信息的认知控制策略不存在并行加工方式，而是分阶段起作用。具体表现为：当刻板化信息与反刻板化信息存在知觉冲突时，此时的印象加工易受到反应性控制且易激活反刻板印象；当认知资源相对匮乏时，刻板印象语义冲突效应被激活，进而产生抑制个体选择性注意的主动性控制策略，且极易出现刻板印象偏差。
+
+# 4.2他人印象形成的知觉负载效应
+
+无意识认知控制与知觉负载效应存在着密切的交互作用。以往研究表明，当降低被试的知觉负载水平时，可以使一个短暂呈现而被无意识知觉的刺激转变成有意识知觉；同理，当增强刺激特性时，也可使处于高知觉负载水平下而被无意识知觉的刺激转变为有意识知觉(Ortells,Daza,&Fox,2003)。在此基础上，本研究发现，当所知觉到的刻板化信息与反刻板化信息处于阀下冲突时，他人印象形成受到反应性控制的作用；当所知觉到的这两类信息处于阈上冲突时，他人印象形成受到主动性控制的作用。反应性控制耗费的认知资源少，对刻板化信息的印象加工更快捷，而对反刻板化信息的印象加工更缓慢，且易激活反刻板印象；而主动性控制耗费的认知资源多，对刻板化信息的印象加工更缓慢，而对反刻板突化信息的印象加工更快捷，且易出现刻板印象偏差。出现这一现象的原因是：在认知资源非常匮乏时，大脑对刻板化信息与反刻板化信息的加工非常有限，所产生的冲突效应非常微弱且表现出冲突抑制性。相反，在认知资源充足时，刻板化信息与反刻板化信息的冲突性会提高大脑的警觉水平，导致其冲突效应也随之增强，从而表现出冲突适应性。当然，这一发现并不能否定知觉负载理论的观点，但实验结果起码说明，知觉负载对认知控制策略的影响受到信息类型的调节。具体地，当刻板化信息与反刻板化信息同时呈现时，个体将耗费更多的认知资源。
+
+综上所述，他人印象形成的无意识认知控制和知觉负载效应可进行理论上的整合，从而构建一个“知觉冲突印象形成的认知控制动态模型”。根据该模型，他人印象形成分两个阶段完成：(1)知觉选择阶段。当知觉者加工的冲突信息处于阀下启动时，所占用的心理资源较少，其反应性控制策略起主导，信息加工速度较快，更多地依赖于直觉，并通过情绪和动机定向来间接存取刻板化信息，易受刻板印象的影响；特别是认知资源充沛的知觉者，其主动性控制策略易激活刻板印象，当冲突信息处于阈下启动时，对他人印象加工更易受内隐刻板印象的影响。(2)反应偏向阶段。当刻板化信息与反刻板化信息处于阈下冲突且个体知觉负载增高、认知资源匮乏时，通过冲突监测快速、高效地识别与刻板印象一致的信息，易化并快速提取刻板化信息编码；当个体知觉负载减低、认知资源充足时，刻板化信息与反刻板化信息的冲突效应随之增强，从而使个体能根据实时更新的情境信息调节自身，以主动性控制和反应性控制交替的方式适应性地加工对当前知觉对象的印象。
+
+上述理论模型的提出主要基于性别刻板化信息与反刻板化信息的印象加工过程。对此，其普适性和推广性需要进一步加以论证。对种族印象形成的研究表明，当面孔图片和种族特质词冲突(如，靶刺激为白人面孔，分心刺激为"愚蠢”、“暴力"等黑人特质词)时，反应时会延长；而当面孔图片和种族特质词相容(如，靶刺激为黑人面孔，分心刺激为黑人特质词)时，反应时会相应缩短(Bartholow&Dickter,2008)。随后的认知控制研究发现，与控制感较弱的被试相比，控制感较强的被试受到种族刻板印象的影响相对较小(Payne，Hall,Cameron，&Bishara,2010)。这些发现与本研究的结论相一致，即个体的认知控制策略随刻板化信息与反刻板化信息的知觉负载水平和启动方式而呈现动态建构。对此，后续研究可围绕不同类型的冲突信息进一步开展认知控制策略的外部影响源探究。
+
+根据格式塔理论，群体实体性通过影响人们对群体成员信息的整合性加工，使得群体印象表征出现刻板化。随后，刻板化的群体印象表征因社会因素和群体归类而具有强烈的社会意义，得以维持并不断受到强化，最终成为刻板印象(Hugenberg＆ Sczesny,2006)。此外，由刻板表征理论(Richards& Hewstone,2001)可知，反刻板化信息加工存在两种心理加工模式-亚类型心理加工模式(subtyping psychological processing mode)和亚群体心理加工模式(subgrouping psychological processing mode)。前者与后者的区别主要在于个体是否将反刻板化信息纳入到整个群体中，其结果是，亚类型会促进刻板印象的保持，而亚群体则会促进刻板印象的逆转。那么，群体实体性和心理加工模式是否也是蕴含在认知控制机制中的调节变量？在群体和他人印象形成中，它们与认知控制策略有着怎样的内在联系？为此，未来可围绕内部影响源进行知觉冲突印象形成的认知控制策略研究。
+
+# 5结论
+
+(1)冲突信息启动方式与知觉负载的动态变化决定了个体对刻板化信息与反刻板化信息的印象控制策略。反应性控制耗费的认知资源少，对刻板一致化信息的印象加工更快捷，而对刻板冲突化信息的印象加工更缓慢，且易激活反刻板印象；而主动性控制耗费的认知资源多，对刻板一致化信息的印象加工更缓慢，而对刻板冲突化信息的印象加工更快捷，且易出现刻板印象偏差。
+
+(2)认知控制对刻板化信息与反刻板化信息采取不同的加工模式。刻板化信息与反刻板化信息同时在阈上启动时，其加工方式受到有意操作系统的主动性控制，即进行可意识到的、受意识控制的加工；而当这两类信息同时在阀下启动时，其加工方式受到自动监控系统的反应性控制，即进行无意识的、不受意识控制的加工。
+
+# 参考文献
+
+Aarts,H., Custers,R.,& Marien, H.(2o08).Preparing and motivating behavior outside of awareness.Science, 319(5870),1639-1639.   
+Algom,D.,Chajut,E.,& Lev,S.(2004).A rational look at the emotional Stroop phenomenon: A generic slowdown,nota Stroop efect.Journal ofExperimental Psychology General,133(3),323-338.   
+Awh,E.,Belopolsky,A.V.,& Theeuwes,J. (2012).Top-down versus botom-up attentional control: A failed theoretical dichotomy. Trends in Cognitive Sciences,16(8),437-443.   
+Baars,B.J. (20o2).The conscious access hypothesis: Origins and recent evidence.Trends in Cognitive Sciences, 6(1), 47-52.   
+Bailey,K., West, R.,& Anderson, C.(2O10).Anegative asociation between video game experience and proactive cognitive control. Psychophysiology, 47(1), 34-42.   
+Banse,R.，Seise,J.，& Zerbes,N.(2Ool).Implicit atitudes towards homosexuality:Reliabilityvalidity and controllability of the IAT. Zeitschrift fir Experimentelle Psychologie,48(2),145-160.   
+Bartholow,B.D.,& Dickter,C.L. (2008).A response conflict account of the effcts of stereotypes on racial categorization. Social Cognition, 26(3),314-332.   
+Bartholow,B.D., Dickter, C.L.,& Sestir,M.A. (206).Stereotype activation and control of race bias: Cognitive control of inhibition and its impairment by alcohol. Journal of Personality and Social Psychology,90(2), 272-287.   
+Beer,A.,& Brooks, C.(2011). Information quality in personality judgment: The value of personal disclosure. Journal ofResearch in Personality, 45(2),175-185.   
+Bijleveld,E.,Custers,R.& Aarts,H.(2011).Once the money is insight: Distinctive effects ofconscious and unconscious rewards on task performance. Journal of Experimental Social Psychology,47(4),865-869.   
+Boy,F. Husain, M.L., Singh, K.D.,& Sumner,P. (201o). Supplementary motor area activations in unconscious inhibition of voluntary action. Experimental brain research, 206(4),441-448.   
+Braver,T.S. (20l2).The variable nature of cognitive control: A dual mechanisms framework.Trends in Cognitive Sciences, 16(2),106-113.   
+Bugg,J.M.，& Braver,T. S.(2016).Proactive control of irrelevant task rules during cued task switching. Psychological Research, 80(5),860-876.   
+Capa,R.L.,Bustin,G. M., Cleeremans,A.,& Hansenne, M. (20l1). Conscious and unconscious reward cues can affect a critical component of executive control. Experimental Psychology, 58(5), 370-375.   
+Clow,K. A.，& Esses, V. M. (2oo7). Expectancy effects in social stereotyping: automatic and controlld processing in the neely paradigm. Canadian Journal of Behavioural Science, 39(3),161-173.   
+Conrey,F.R.， Sherman,J.W., Gawronski, B.，Hugenberg,K.，& Groom,C.J. (20o5). Separating multiple processes in implicit social cognition: The quad model of implicit task performance.Journal of Personality & Social Psychology, 89(4), 469-487.   
+Cui, Y. C., & Wang,P.(2016). The influence of implicit theories of personality on processing strategy of person impressions.Acta Psychologica Sinica, 48(12): 1538-1550.   
+[崔诣晨，王沛.(2016).内隐人格理论对他人印象加工策略的影响．心理学报,48(12):1538-1550.]   
+Cui, Y. C., & Wang,P.(2016). The dynamic interactive model of person construal on person perception. Advances in Psychological Science, 26(4), 678-687.   
+[崔诣晨，王沛.(2018)．他人知觉的个体构念动态交互模型．心理科学进展,26(4),678-687.]   
+Custers,R.,& Aarts,H. (2010). The unconscious will: How the pursuit of goals operates outside of conscious awareness. Science, 329(5987), 47-50.   
+Evans, J.,& Coventry,K. (20o6). A dual-process approach to behavioral addiction: The case of gambling. In R. W. Wiers & A. W. Stacy (Eds.), Handbook of Implicit Cognition & Addiction (pp. 29-43). Thousands Oaks: Sage.   
+Garavan,H.,& Weierstal, K.(2O12).The neurobiology ofreward and cognitive control systems and their role in incentivizing health behavior.Preventive Medicine, 55(5), S17-S23.   
+Hamilton, D.L., & Trolier,T. K. (1986). Stereotypes and stereotyping: An overview of the cognitive approach. In J.F. Dovidio & S. L. Gaertner (Eds.), Prejudice, discrimination and racism (pp.127-163). Orlando: Academic Press.   
+Hoza,B.， Bukowski, W. M.，& Beery，S. (20o0). Assessing per network and dyadic loneliness. Journal of Clinical Child Psychology, 29(1),119-128.   
+Hugenberg, K.,& Sczesny,S. (20o6). On wonderful women and seing smiles: Social categorization moderates the happy face response latency advantage. Social Cognition, 24(5), 516-539.   
+Ito,T.A.,& Urland, G.R. (2Oo3). Race and genderon the brain: Electrocortical measures of atention to the race and gender of multiply categorizable individuals.Journal of Personality & Social Psychology， 85(85), 616-626.   
+Jia,L.,Dickter, C.L.,Luo J.， Xiao X., Yang Q.,Lei,M.，.. Zhang, Q. (2012). Diferent brain mechanisms between stereotype activation and application, Evidence from an ERP study. International Journal of Psychology, 47(1), 58-66.   
+Jimura,K.，Locke,H. S.，& Braver,T. S.(2010). Prefrontal cortex mediation of cognitive enhancement in rewarding motivational contexts. Proceedings of the National Academy of Sciences,107(19), 8871-8876.   
+Klein, O., Clark, A.E.,& Lyons,A. (2010). When the social becomes personal: Exploring the role of common ground in stereotype communication. Social Cognition, 28(3), 329-352.   
+Macrae,C.N.,& Quadflieg, S. (2010).Person perception. In S.Fiske,D.T. Gilbert,&G. Lindzey (Eds.),The handbook of Social Psychology (5th ed., pp. 428-463). New York: McGraw-Hill.   
+Magen,H., & Cohen, A. (2oo7). Modularity beyond perception: Evidence from single task interference paradigms. Cognitive Psychology, 55(1),1-36.   
+Matsumoto,A.,Ichikawa,Y., Kanayama,N.,Ohira,H.，& Iidaka,T. (2006). Gamma band activity and its synchronization reflect the dysfunctional emotional processing in alexithymic persons. Psychophysiology, 43(43), 533-540.   
+Matsumoto,K.,& Tanaka, K. (2004). Conflict and cognitive control. Science,303(5660),969-970.   
+McCulloch, K. C.,Ferguson,M.J., Kawada,C.,& Bargh,J.A. (2008). Taking a closer look: On the operation of nonconscious impression formation.Journal of Experimental Social Psychology, 44(3), 614-623.   
+Melara,R.D.,& Algom,D. (2003).Driven by information: A tectonic theory of Stroop effects.Psychological Review,110(3),422-471.   
+Meltzer, M.A.,& Nielson, K.A.(2010). Memory for emotionaly provocative words in alexithymia: A role for stimulus relevance. Consciousness & Cognition,19(4),1062-1068.   
+Ortels,J.J.，Daza,M.T.，& Fox,E.(2003). Semantic activation in the absence of perceptual awareness. Perception & Psychophysics,65(8),1307-1317.   
+Payne,B.K.(2Oo5). Conceptualizing control in social cognition: how executive functioning modulates the expression of automatic stereotyping. Journal of Personality & Social Psychology, 89(4), 488-503.   
+Payne,B. K.,Hall, D.L., Cameron, C.D.,& Bishara,A.J. (2010).A process model of affect misattribution. Personality and Social Psychology Bulletin, 36(10),1397-1408.   
+Posten,A. C.,& Mussweiler,T. (2013). When distrust frees your mind: the stereotype-reducing effects of distrust. Journal ofPersonality & Social Psychology, 105(4),567-584.   
+Quadflieg,S., & Macrae, C.N. (2012). Stereotypes and stereotyping: What's the brain got to do with it? European Review of Social Psychology, 22(1), 215-273.   
+Rim, S., Uleman, J. S.,& Trope,Y. (2o09). Inferenceandconstrual level theory: Psychologicaldistance increases nonconscious trait thinking.Journal of Experimental Social Psychology, 45(5),1088-1097.   
+Radvansky,G.A.,Copeland,D.E.,& Hippel, W.V. (2010).Stereotype activation,inhibition,and aging.Journal of Experimental Social Psychology, 46(1),51-60.   
+Robertson, D.A.,& Weiss, D. (2017). In the eye of the beholder: Can counter-stereotypes change perceptions of older adults'social status? Psychology and Aging,32(6),531-542.   
+Roelofs,A.,Van Turennout, M.,& Coles,M. G. H. (2006). Anterior cingulate cortex activity can be independent of response conflict in Stroop-like tasks. Proceedings of the National Academy of Sciences, 103(37), 13884-13889.   
+Rüsch,N.,& Corrigan,P.W. (2011). Automatic stereotyping against people with schizophrenia, schizoaffective and affective disorders. Psychiatry Research,186(1),34-39.   
+Savine,A. C.,& Braver,T.S. (20l0).Motivated cognitive control: reward incentives modulate preparatory neural activity during task-switching.Journal ofNeuroscience,30(31),10294-10305.   
+Sherman,J.W.,Kruschke,J.K.,Sherman,S.J.,ercy,E.J.,Petroceli,J.V.,&Conrey,F.R.(2O9).Aioal processes in stereotype formation:A common model for category accentuation and ilusory correlation. JournalofPersonality&Social Psychology,96(2),305-323.   
+Skorinko,J.L.， Sinclair,S.，& Conklin,L. (2012).Perspective taking shapes the impact of significant-other representations.Self & Identity,11(11),170-184.   
+Spielberg,J.M.,Miler,G.A.，Heller,W.，& Banich,M.T.(2015).Flexible brain network reconfiguration supporting inhibitory control. Proceedings of the National Academy of Sciences of the United States of America,112(32),10020-10025.   
+The research group “Thesaurus”commonly used in modern Chinese.(2o08). Commonly used in modern Chinese vocabulary.Beijing: The Commercial Press.   
+[《现代汉语常用词表》课题组.(2008)．现代汉语常用词表.北京：商务印书馆.]   
+van Gaal,S.,Lamme,V.A.F.,Fahrenfort,J.J.,&Ridderinkhof,K.R. (2011).Dissociable brain mechanisms underlying the conscious and unconscious control of behavior.Journal of Cognitive Neuroscience,23(1), 91-105.
+
+# Impression control strategies from the perspective of perceptual conflict: an example of stereotyped information and counterstereotyped information
+
+CUI Yichen $^ { 1 , 2 }$ ; CUI Yajuan $^ { 3 , 2 }$ ; Xia Qi4; ZHOU Mingjie²; ZHAO Ziye $^ 2$ ; WANG Pei $\begin{array} { l } { 5 } \\ { . } \end{array}$ $^ 1$ Instituteof Mental Health,Nanjing Xiaozhuang University,Nanjing21oo17,China) （ $^ 2$ CollegeofMarxism,Nanjing Forestry University,Nanjing210o37,China) 0 $^ 3$ Shenzhen V-Grow Power Logistics Co.,Ltd.,Shenzhen,Guangdong 518067,China) (4 Yangzhou Technical Vocational College,Yangzhou 225o03,China) ( SchoolofEducation,Shanghai Normal University,Shanghai 20o234,China)
+
+# Abstract
+
+The question of whether the activation of stereotype is automatic activation (automatic activation) or controlled (inhibition) has been controversial. With the in-depth study,“stereotype activation is a cognitive process which is influenced by many cognitive factors， and the conditional automation process” has attracted more and more attention. Among them, the most discussed factors are category information， prompt clue, directional attention and so on. In addition to， it also involves interpersonal trust， perspective taking，cognitive psychology, imagination, perception of their age and other factors. In recent years, researchers have explained how social categories start stereotyped information from the perspective of perceived conflict. Stereotype information processng can help activate stereotype. So, does stereotype activation affect impression control strategies? When stereotype information is disturbed by other information and even affected by counter stereotyped information, does the stereotype associated with it automatically activate? When the two types of conflict information are subliminal priming, does cognitive control, which regulates the formation of impressions,have an effective inhibitory effect on stereotype activation? In response to these questions, the researchers began to focus on the influence of other people's visual cues on impression formation to others.These studies controlling the stimulus presentation time and masking stimuli, so that part of the subliminal stimuli presented in the other part, stimuli presented in the above threshold. As a result, we can compare the similarities and differences between the effects of subliminal cues and subliminal cues on cognitive control. Studies have shown that when the participants are initiated by relevant cues， they acquire atributes about a social group in the long-term memory system. This information processing process is a rapid and implicit process of perceptual preparation, which consists of two stages: the social classification based on stereotyped information and the stereotype activation based on the extracted social categories. The two stages of information processing are divided into two parallel processing cognitive systems: the previous stage involves the intentional operating system, and the latter stage relates to the automatic monitoring system. Can the two cognitive systems be regarded as the carriers of active control and reactive control in the whole process of impression formation? At present, few studies have directly related to the relationship between stereotype processing and cognitive control strategies. In view of this, this study assumes that: (1） When there is a perceived conflict stereotype information and counterstereotype information, and the perceptual load is high, the impression formed by the effects of the reactive control to activate counterstereotype; and when the perceptual load is low, the impression formed by the proactive control of the role of prone to stereotype bias.(2) Cognitive control takes a “double-edged sword” model for conflict information of different intensity (stereotyped information vs.counterstereotyped information). That means that when he processing method is controlled by the proactive control of the intentional operating system (the conscious,conscious processng) is performed and when the two classes of information start simultaneously at the threshold,the processing mode is controlled by the reactive control of the automatic monitoring system(the processing of the unconscious and unconscious control).
+
+In this study， we used stereotype information and counterstereotyped information as an example and the experimental tasks were divided into two levels: high or low perceptual load or threshold, and subliminal priming by using the word sense Stroop paradigm and masked version of goal priming paradigm. Experiment 1 explored the impresson control strategy in the context of conflict between stereotype information and counterstereotyped information perception. Using 2 (perceived load: high vs. low) $\times 2$ (gender specific words and gender attributes word perception: conflict vs. compatibility） mix design. Using word meaning Stroop paradigm of to divided manipulation of perceptual load into two categories: gender traits (target) displayed above the same gender attribute words (such as “grumpy-male") in the low perceptual load task and gender words each side presents a gender atribute words and are compatible with the gender words or conflict (such as male-grumpy-female) in the high perceptual load task.Experiment 2 explored the conflict information intensity of stereotype information and counterstereotyped information impacted on the impresson control strategy. A hybrid design using 2 (conflict information intensity: subliminal priming vs. subliminal priming) $\times ~ 2$ (two types of gender trait words perception: conflict vs. compatibility). Using masked version of the start-target paradigm and affective error attribution program to make a part of other people's information is shown in subliminal manner, while another part of others' information is presented in a threshold manner by controlling the presentation time of two kinds of information and masking stimuli. So that we can investigate how the cognitive control strategy of stereotype formation is affected by conflict intensity.
+
+In Experiment 1， the dynamic changes of perceptual load determine the individual's impression control strategy of stereotyped information and counterstereotyped information. The results showed the dynamic change of conflict information intensity and perceived load determinesindividual'simpressioncontrolstrategyofstereotypedinformationand counterstereotyped information. Reactive control consumes less cognitive resources,to make processing of stereotype consistent information more quickly, to make processing of stereotype conflict information more slowly, and to activate counterstereotype easily. On the contrary, proactive control consumes such more cognitive resources as to slower processing of stereotype consistent information, to quicken processing of stereotype conflict information and to prone to stereotype bias easily. In Experiment 2, cognitive control takes a “double-edged sword” model of stereotyped information and counterstereotyped information. When stereotyped information and counterstereotyped information start simultaneously on threshold， the processing mode is controlled by the initiative of the intentional operating system which is the processing of involuntary,unconscious control. And when the two types of information start simultaneously at the threshold, the processing mode is controlled by the automatic monitoring system which is the processing of unconscious and unconscious control.
+
+The activation and expression of stereotype are closely related to the monitoring and coordination of cognitive control. In particular, people need stronger cognitive control in their daily life to avoid biased judgments caused by stereotyped information. As the saying goes, “Standers-by see more than gamesters.” Actor/observer effects show that the processing of the impression of others is determined by their own cognitive control mechanism. This phenomenon can be explained by experiment 1 and Experiment 2 respectively. These results indicate that the individual, individuals can flexibly balance among the two cognitive control systems (intentional operating system vs. automatic monitoring system) and adjust their weights (either initiate active control or bias reactive control), thus forming the most favorable impression processing strategy for others.Even under the threshold of perception, individuals can process the impression of others through unconscious cognitive control.
+
+According to Gestalt theory, group entity makes stereotyped group impression stereotype by influencing people's conformity processing of group members’ information. Subsequently, stereotyped group impression has strong social significance because of social factors and group classification. So they can be maintained and strengthened continuously, and eventually become stereotyped. Then, whether group entity is a moderator variable contained in the cognitive control mechanism,and how is it related to cognitive control? In this regard, follow-up studies can further develop the study of the dynamic construction of impression formation cognitive control.
+
+Key wordsstereotype activation; conflict information intensity; impression control strategy; proactive control; reactive control

@@ -1,0 +1,200 @@
+# 学术期刊视角下国内外传媒领域研究现状分析与启示：数字驱动下的知识结构重塑
+
+金茜茜1，陈虹枢1，黄晓兰2  
+（1.北京理工大学管理与经济学院 北京100081；2.中国传媒大学经济与管理学院 北京  
+100024)
+
+摘要：[目的/意义]面对世界范围内各种思想文化交流、交融、交锋的新形势，深入挖掘国际传媒研究热点，对促进我国传媒领域的学术发展与学科体系完善具有重要意义。[方法/过程本文以WebofScience 数据库中 2015年至2019年传媒类期刊文献数据为基础，结合概率主题模型、文献计量方法以及自然语言处理技术对文档内容和元数据进行联合建模，构建国家-主题分布矩阵，较为全面地挖掘了近五年来国际传媒研究的地理分布与知识结构，最终落脚于国内传媒领域研究的热点主题分析。[结果/结论]研究结果表明，数字技术推动新媒体蓬勃发展，不断刺激传媒领域的产业升级与文化重塑。我国部分主题在理论研究、产学交流、学科融合等方面仍存在探索与提升的空间，需要在重视理论研究与应用研究、基础学科与新兴学科协同发展的基础上，开展符合国内需求、具有国际视野的传媒研究，为传媒领域的持续深入发展添砖加瓦。
+
+关键词：文献计量；主题模型；主题分析；传媒
+
+# 1.引言
+
+伴随信息通信技术的突破与革新，物联网、人工智能、虚拟现实等新兴技术不断带来应用场景变革。在技术冲击与国家政策引导的合力下，传统媒体在传播媒介、社会属性和实现方式上都持续向着新媒体转型，带来全新的智能媒体时代。“传媒”已经不再仅是简单的传播介质，更是一种知识储备与认知构建的平台，在潜移默化中改变着人们的思维模式与生活方式，影响着经济发展、政治治理和信息安全等关键议题[I。传媒领域的理论研究同样面临着世界范围内各种思想文化交流、交融、交锋的新形势。正如习近平总书记提到的，“加快建设社会主义文化强国、增强文化软实力、提高我国在国际上的话语权，迫切需要哲学社会科学更好发挥作用”[2]，更要尊重信息传播规律，拓展相关研究，创新方法手段。新冠疫情等突发性公关危机事件更加凸显传媒研究在风险传播、健康传播、科学传播等方面的效能，以及对于保障民众生活水平，维持社会平稳发展等方面的重要意义。
+
+近年来，围绕“传媒”展开的分析与研究不断涌现，以探索该领域的发展脉络与前沿热点为核心，内容涵盖新媒体的发展趋势、社交媒体、传媒经济学、网络舆情等主题[3-7]，传媒期刊的国际多样性[8]、传媒领域研究主题的演化趋势[9]等话题也受到学者们的广泛关注。研究方法上，已有研究多以文献计量为主要视角及方法基础[10]，对各个时期的相关研究内容进行了较为系统的梳理，并揭示出传媒领域研究在不同时期所表现出的特点与所取得的进展。但随着学科体系结构日趋复杂，单纯从文献计量学视角难以深入挖掘文本内容中的语义信息，从宏观、浅层的统计研究过渡到具体、深入的知识发现是大数据背景下文献计量学揭示学科知识结构的研究趋势。面向基于文本内容的知识发现，以关键词为基础的方法对于技术概念的表达最为细致，但往往需要进行多层、大量、有监督的筛选，筛选原则及聚类的粒度直接影响技术主题的生成[1]；以隐含狄利克雷分布（LatentDirichletAllocation,LDA）为代表算法的主题模型，由于能够深入挖掘大量文本中的隐含语义，近年来受到科技文本挖掘、技术预测、技术管理领域学者的广泛关注，但已有研究尚未对如何合理预设主题数目达成普遍共识[12]，且其本质上是从词与文档的共现进行语义分析，对文本集的元数据，即文献计量信息，无法进行有效利用[13]。
+
+面向以上研究问题，以新时期传媒领域研究现状作为研究对象，本文充分结合文献计量方法与主题模型，通过对文档内容和元数据进行联合建模，在定量总结领域内隐含知识结构的基础上深入剖析各个国家的研究热点，同时构建国家-主题分布矩阵，较为全面地揭示了近年来国际传媒研究的国际贡献格局与国家合作模式。本文最终回归国内传媒领域知识结构的研究，并在前文分析的基础上就以下问题展开讨论：我国学者在研究主题选择上有哪些偏好？与传媒研究的主要国家相比有何异同？现有学科体系是否存在调整与完善的空间？
+
+本文的主要贡献可以归纳为三个方面：（1）基于文献计量学理论分析国际传媒研究的地理分布与合作特征，全面洞察传媒研究的国际贡献模式，以期为后续研究提供启示意义；（2）基于文本挖掘技术探索国际传媒研究的知识结构，充分讨论当前传媒领域的研究主题与热点，旨在以相关结论为科研人员及政策制定者提供参考借鉴；（3）结合文献计量与概率主题模型，提出一种基于文档与元数据的联合建模方法，在比较国内外研究热点的基础上明晰我国当前研究的优势与短板，为我国传媒领域的持续深入发展添砖加瓦。
+
+# 2.数据来源与研究方法
+
+# 2.1．数据来源
+
+本文以Web ofScience（WoS）中研究领域为"Communication”且 Journal Citation Reports（JCR）排名在Q1区的22份期刊为数据来源[14]，检索 2015年-2019年文献类型为“Article”且语言类型为“English”的所有文章，筛除信息缺失的记录后得到有效数据 5307条。表1给出了22份期刊的全称及其影响影子，同时标明了每份期刊包含的数据量。整个数据集涵盖的字段包括但不限于论文标题、关键词、摘要、作者姓名、作者所属机构及地区、文章发表年份等信息。
+
+表1传媒领域JCRQ1期刊及近五年文章数量  
+
+<html><body><table><tr><td>JCR排名</td><td>期刊名称</td><td>影响因子</td><td>文章数量</td></tr><tr><td>1</td><td>Journal of Computer-Mediated Communication</td><td>4.896</td><td>120</td></tr><tr><td>2</td><td>New Media & Society</td><td>4.800</td><td>775</td></tr><tr><td>3</td><td>Political Communication</td><td>4.339</td><td>165</td></tr><tr><td>4</td><td>Information Communication & Society</td><td>4.124</td><td>534</td></tr><tr><td>5</td><td>Journal of Communication</td><td>3.753</td><td>214</td></tr><tr><td>6</td><td>Human Communication Research</td><td>3.534</td><td>122</td></tr><tr><td>7</td><td>Journal of Advertising</td><td>3.518</td><td>184</td></tr><tr><td>8</td><td>Communication Theory</td><td>3.395</td><td>99</td></tr><tr><td>9</td><td>Comunicar</td><td>3.338</td><td>148</td></tr><tr><td>10</td><td>Public Opinion Quarterly</td><td>3.310</td><td>181</td></tr><tr><td>11</td><td>Communication Research</td><td>3.087</td><td>240</td></tr><tr><td>12</td><td>International Journal ofPress-Politics</td><td>3.000</td><td>131</td></tr><tr><td>13</td><td>Public Understanding of Science</td><td>2.754</td><td>337</td></tr><tr><td>14</td><td>Media Psychology</td><td>2.736</td><td>172</td></tr><tr><td>15</td><td>Journalism</td><td>2.691</td><td>471</td></tr><tr><td>16</td><td>Digital Journalism</td><td>2.679</td><td>340</td></tr><tr><td>17</td><td>Environmental Communication-A Journal of Nature and Culture</td><td>2.469</td><td>297</td></tr><tr><td>18</td><td>Communication Monographs</td><td>2.365</td><td>129</td></tr><tr><td>19</td><td>MobileMedia&Communication</td><td>2.333</td><td>163</td></tr><tr><td>20</td><td>CommunicationMethodsandMeasures</td><td>2.306</td><td>69</td></tr></table></body></html>
+
+<html><body><table><tr><td>21</td><td>Science Communication</td><td>2.302</td><td>155</td></tr><tr><td>22</td><td>International Journal of Advertising</td><td>2.234</td><td>261</td></tr></table></body></html>
+
+# 2.2.研究方法
+
+本文结合文献计量与概率主题模型，通过对文档内容和元数据联合建模，构建国家-主题分布矩阵，对目标文本集的地理分布特征与隐含知识结构进行定量表达与总结。具体的方法模块包括数据预处理、参数设置与主题抽取、国家-主题分布矩阵构建以及主题分析。
+
+# 2.2.1．数据预处理
+
+在数据预处理阶段，本文提取元数据中的文献隶属国家信息，统计各个国家在目标领域的发文数量并绘制合著网络图，以便直观地展现文献的地理分布特征。对于文献标题及摘要整合而成的文本集，本文按照表2所示步骤对其进行系统的数据清洗，以确保语料库中只留下有助于表征各个研究主题的单词或词组，为后续准确地在大量数据中提取主题信息奠定基础。
+
+表2数据清洗步骤  
+
+<html><body><table><tr><td>步骤</td><td>详细流程</td></tr><tr><td>1</td><td>将所有单词转化为小写形式并分词</td></tr><tr><td>2</td><td>删除语料库中的字母、标点及数字 (不包括与字母相连的数字，例如"3D”、“5G"等)</td></tr><tr><td>3</td><td>加载停止词表，删除停止词</td></tr><tr><td>4</td><td>词形还原，将名词的单复数形式进行统一</td></tr><tr><td>5</td><td>保留领域内常用词组，当二元词组出现频率大于阈值时，则以"_"将其连接，经领域专家筛查后将</td></tr><tr><td>6</td><td>其加入特征词表 删除高频词与低频词</td></tr></table></body></html>
+
+# 2.2.2．参数设置与主题抽取
+
+为明晰领域知识结构并洞察研究热点，本文对语料库中的主题分布特征进行研究。本文基于隐含狄利克雷分布模型（Latent Dirichlet Alocation,LDA）从预先清洗的文本集中抽取主题分布，以此表示目标领域的知识结构，切实赋予“主题”语义属性[I2]。作为一种生成概率模型，LDA首先从狄利克雷分布中取样生成文档 $d$ 的主题分布 $\overrightarrow { \vartheta _ { d } }$ ，再从主题的多项式分布中取样生成文档 $d$ 第 $n$ 个词的主题 $z _ { d , n }$ ；之后从狄利克雷分布中取样生成主题 $z _ { d , n }$ 对应的词语分布 $\overrightarrow { \varphi _ { z _ { d , n } } }$ ，再从词的多项式分布中取样生成最终词语 $w _ { d , n }$ 。生成文档的过程如公式(1)所示，式中 $\alpha$ 和 $\beta$ 为模型的超参数，分别决定文档基于潜在语义的差异及共现词的数量[15,16]。
+
+$$
+\begin{array} { r } { p \big ( \overrightarrow { \vartheta _ { d } } , \overrightarrow { w _ { d } } , \overrightarrow { z _ { d } } \big | \propto , \beta \big ) = \prod _ { n = 1 } ^ { N _ { d } } p \big ( w _ { d , n } | \overrightarrow { \varphi _ { z _ { d , n } } } , \beta \big ) p \big ( z _ { d , n } | \overrightarrow { \vartheta _ { d } } \big ) p ( \overrightarrow { \vartheta _ { d } } | \alpha ) } \end{array}
+$$
+
+（公式1）
+
+基于LDA的主题发现方法在进行模型训练之前需要设定预期生成的主题数目，由于很难预先透彻理解文本集，如何合理设置主题数目一直是文本挖掘领域内基础研究的重点和难点。为了确保所获取主题的整体可靠性，本文采取计算困惑度值（perplexity）的方法来确定主题数目[16]，具体计算公式如(2)所示，其中 $D$ 表示语料库中的测试集，其文档数量记为 $M$ ， $N _ { d }$ 代表每篇文档 $d$ 中的单词数量， $p ( w _ { d } )$ 则为文档中某个特定词语 ${ \cdot } w _ { d }$ 产生的概率。困惑度值越低则模型效果越好，但通常会导致主题数目过大，不利于后续的人工解析，为此，最终的主题数目设定需要在模型效果以及主题解析的难易程度之间进行平衡。
+
+$$
+p e r p l e x i t y ( D _ { t e s t } ) = e x p \left\{ - \frac { \sum _ { d = 1 } ^ { M } l o g p ( w _ { d } ) } { \sum _ { d = 1 } ^ { M } N _ { d } } \right\}
+$$
+
+（公式2）
+
+LDA以词分布的形式来表达主题结构，以主题分布的形式来反映文本结构。其中前者展示了不同词语对主题生成的贡献程度，后者可以反映目标领域研究主题的分布情况。根据文献-主题分布矩
+
+阵，文献 $d _ { i }$ 由 $j$ 个主题基于一定概率 $p _ { i j }$ 生成，其中 $p _ { i j }$ 的取值范围为0到1，具体可记为公式(3)。本文对各主题的文献分布概率进行累加，并进一步计算其在语料库中所占的比重，以此表征主题在领域内的研究热度。
+
+$$
+d _ { i } = \bigl [ p _ { i 1 } , p _ { i 2 } , \ldots , p _ { i j } \bigr ] , \nVDash , \# \forall i = 1 , 2 , \ldots ; j = 1 , 2 , \ldots ; p _ { i j } \in [ 0 , 1 ]
+$$
+
+（公式3）
+
+# 2.2.3．国家-主题分布矩阵构建
+
+为了进一步发掘世界范围内各国在思想文化交流、交融、交锋中的研究热点，本文对文档内容和元数据中的地理信息进行联合建模，挖掘目标领域研究主题在国家层面的特征。根据元数据的文献计量信息，每篇文献同时隶属于一个或多个国家，结合文献的主题分布数据，本文构建国家-主题分布矩阵，计算国家 $\mathrm { . } m$ 在不同研究主题上的参与情况 $c _ { m }$ ，具体计算方法如公式(4)所示。图1给出了计算国家-主题分布矩阵的示意图，通过融合文档内容与元数据中的地理信息，可以更加全面地利用文本的多维属性，明晰国家与研究主题的关联模式，为国际视角下目标领域的知识结构研究奠定基础[17]。
+
+$$
+\begin{array} { r } { c _ { m } = \big [ c _ { m 1 } , c _ { m 2 } , \ldots , c _ { m j } \big ] = \big [ \sum _ { i = 1 } \omega p _ { i 1 } , \sum _ { i = 1 } \omega p _ { i 2 } , \ldots , \sum _ { i = 1 } \omega p _ { i j } \big ] , } \end{array}
+$$
+
+$\omega = { \binom { 1 , } { 0 , } }$ 文献 $i \in$ 国家r $\displaystyle n _ { n } , n = 1 , 2 , \ldots ; j = 1 , 2 , \ldots$ 其中文献 $i \not \in$ 国家 $m$
+
+（公式4）
+
+![](images/29491e3c553a94889edda4e4cdc4bd0946b545b75cfcf0701350ef0c0c07eed4.jpg)  
+图1各国研究主题分布计算过程
+
+# 3．研究结果
+
+# 3.1.国际传媒研究的地理分布与合作模式
+
+发文数量可以在一定程度上衡量不同国家科研产出的效率，反映该国在传媒领域的活跃程度与国际影响力，国家间的合著论文数量则进一步表征了传媒研究的国际合作特征[18]。为了直观地展现全球范围内各个国家在传媒领域的产出情况与合作模式，本文抽取发文数量大于50篇的20个国家并利用VOSviewer[19]绘制国家合著网络图。如图2所示，图中节点大小体现国家的发文数量，边的权重代表国家间的合著频次，节点下方标注的数字分别代表该国的发文总量与合著论文数量。从全球范围内来看，各个国家在传媒领域发文数量分布不均衡的特点较为突出，美国是唯一发表论文超过 2500篇的国家，同时是国际合作的引领者，与韩国、英国、德国、荷兰、新加坡、中国、加拿大等十多个国家合著论文共 523篇。英国、荷兰、德国、澳大利亚等也是论文的高产国家，其中荷兰与比利时、德国与瑞士之间存在较强的合作关系。中国（特指中国大陆地区，不含中国台湾）近五年内发表论文146 篇，在全球范围内排名第十，除了与美国有较为密切的合作外，中国与新加坡、澳大利亚、韩国、德国、英国等国家也存在少量合著论文。
+
+![](images/feb3775d76c9912fd3e812da8efa911ad8ba5395981762f1d81ab956a5495e5a.jpg)  
+图2传媒领域国际合著网络图
+
+为了进一步分析不同国家参与传媒研究的程度与相应贡献，本文继续对高产机构与作者的地理分布情况进行统计，从5307篇论文所涉及的1979个机构中筛选出发文数量大于60篇的16个机构，同时在表3中关联其所在国家。就机构发文数量而言，依旧是美国目前在世界范围内占据领先地位，包括俄亥俄州立大学、密歇根州立大学等在内的半数以上高产机构均来自美国。荷兰、新加坡等国家也培育了传媒领域的领先学术机构，其中荷兰的阿姆斯特丹大学、新加坡的南洋理工大学，加之美国的德克萨斯大学奥斯汀分校，其传播学及媒体研究专业在最新的QS(QS World UniversityRankings)专业排名中均位于全球前十，在全球传媒研究中发挥着巨大影响力。
+
+本文进一步统计了12688位作者中近5年内发表文献大于10篇的17位高产作者，如表4所示，发文数量位居伯仲的作者分别来自奥地利与新加坡，美国籍及荷兰籍作者占比最高，17位中美国占据7位，荷兰占据5位。通过分析高产机构与作者的地理分布可以得出一个共同的结论，即美国、英国、荷兰等国家的学术界更加关注传媒领域的相关研究，且具有较高的权威性。对比来看，我国传媒领域的研究人员在国际范围内的知识交流并不频繁，更倾向于在中文期刊上发表相关研究[20]。与计算机科学、生命科学等存在密切合作关系的学科领域有所不同[211，多数作者及机构的合著频率较低且合作范围较小，传媒领域的高产作者更倾向于相对独立的研究模式，多数合作行为均在同一科研机构内部产生，并未形成成熟的作者或机构学术共同体。
+
+表3传媒领域高产机构及其所属国家  
+
+<html><body><table><tr><td>国家</td><td>机构</td><td>机构发文数量</td></tr><tr><td rowspan="10">USA</td><td>Ohio State Univ</td><td>124</td></tr><tr><td>Michigan State Univ</td><td>114</td></tr><tr><td>Univ Texas Austin</td><td>113</td></tr><tr><td>Univ Michigan</td><td>90</td></tr><tr><td>Univ Illinois</td><td>83</td></tr><tr><td>Univ Penn</td><td>83</td></tr><tr><td>Univ Wisconsin</td><td>81</td></tr><tr><td>Univ Calif Santa Barbara</td><td>71</td></tr><tr><td>Northwestern Univ</td><td></td></tr><tr><td>Penn State Univ</td><td>70 70</td></tr><tr><td rowspan="2">Netherlands</td><td>Univ Amsterdam</td><td>118</td></tr><tr><td>Vrije Univ Amsterdam</td><td>65</td></tr></table></body></html>
+
+<html><body><table><tr><td>Singapore</td><td>Nanyang Technol Univ</td><td>90</td></tr><tr><td>Switzerland</td><td>Univ Zurich</td><td>73</td></tr><tr><td>Austria</td><td>Univ Vienna</td><td>93</td></tr><tr><td>UK</td><td>Univ Oxford</td><td>62</td></tr></table></body></html>
+
+表4传媒领域高产作者及其所属国家  
+
+<html><body><table><tr><td>国家</td><td>作者</td><td>作者发文数量</td></tr><tr><td>Austria</td><td>Matthes, Joerg</td><td>25</td></tr><tr><td>Singapore</td><td>Tandoc, Edson C, Jr</td><td>20</td></tr><tr><td rowspan="5">Netherlands</td><td>de Vreese, Claes H</td><td>17</td></tr><tr><td>Vliegenthart, Rens</td><td>16</td></tr><tr><td>Johnson, Benjamin K</td><td>12</td></tr><tr><td>Voorveld, Hilde A M</td><td>12</td></tr><tr><td>Valkenburg,Patti M</td><td>11</td></tr><tr><td rowspan="7">USA</td><td>Brossard, Dominique</td><td>16</td></tr><tr><td>Knobloch-Westerwick,Silvia</td><td>16</td></tr><tr><td>Oliver,Mary Beth</td><td>14</td></tr><tr><td>Rains, Stephen A</td><td>14</td></tr><tr><td>Xenos,Michael A</td><td>13</td></tr><tr><td>Scheufele,DietramA</td><td></td></tr><tr><td>Stroud,Natalie Jomini</td><td>12</td></tr><tr><td>Switzerland</td><td>Esser,Frank</td><td>11</td></tr><tr><td>Germany</td><td>Eisend,Martin</td><td>13</td></tr><tr><td>Belgium</td><td>Eggermont,Steven</td><td>12 11</td></tr></table></body></html>
+
+# 3.2.国际传媒研究的整体知识结构
+
+某一学科领域的知识结构在一定程度上集中反映了当前的社会需求与时代特征，通过对该领域的研究主题与热点进行剖析，科研人员能够洞察现存理论及应用层面的问题，从而寻找后续研究的发展方向[22]。与此同时，相关结论也有助于政策制定者提高决策效率，进而推动学科发展。本文利用基于LDA的主题发现方法对5307篇论文的研究主题进行挖掘，图3基于文档-主题分布矩阵绘制了每个主题在语料库中的贡献量占比，直观地展示了传媒领域高质量国际期刊的研究热点。为了更加客观、全面地对主题内容进行解析，表5给出了每个主题中出现概率最大的5个特征词。
+
+<html><body><table><tr><td rowspan="2">新闻分析（T28) 371.56 7.24%</td><td>社会行为与网络 媒体（T03） 250.47 4.88% 5</td><td rowspan="2">网络新闻与 用户评论（T22) 4.05%</td><td rowspan="2">民意调查（T10) 203.37</td><td rowspan="2">视觉传达 设1计(T16) 3. 72%</td><td rowspan="2">(T13) 3.44%</td><td rowspan="2">传播学理论</td></tr><tr><td>广告（T01) 240.12 4.68%</td></tr><tr><td rowspan="2">数据新闻（T08) 302.96 5.90%</td><td>6</td><td>视频.游戏(T06） 3.20% 14</td><td>（15）</td><td></td><td></td><td>122(T24)</td></tr><tr><td rowspan="2">政治报道分析（T21)</td><td rowspan="2">136.29 2.65%</td><td>互联网（T30） 2.32%</td><td rowspan="2"></td><td rowspan="2">（（14）</td><td rowspan="2"></td><td rowspan="2">（12）</td></tr><tr><td>儿童（T09） 136.23 2.65% 8</td><td>22 新闻框架（T19） 119.13 2.32%</td></tr><tr><td rowspan="2">276.47 5.38%</td><td rowspan="2">科学传播(T25) 211.67 4. 12%</td><td rowspan="2">社会支持（T02) 136.02 2.65%</td><td>16 23 媒体研究（T04) 2.25%</td><td rowspan="2"></td><td rowspan="2" colspan="2">5.体行动（T07) 1.67%</td><td rowspan="2"></td></tr><tr><td>语言交际（T05） 75.22 1.47%</td></tr></table></body></html>
+
+表5传媒领域研究主题及特征词  
+
+<html><body><table><tr><td>排名</td><td>标签</td><td>主题名称</td><td>特征词</td></tr><tr><td>1</td><td>T28</td><td>新闻分析</td><td>news,medium,analysis,coverage,content</td></tr><tr><td>2</td><td>T08</td><td>数据新闻</td><td>journalism, journalist,data, journalistic,practice</td></tr><tr><td>3</td><td>T18</td><td>数字技术</td><td>digital, technology,practice,culture,study</td></tr><tr><td>4</td><td>T27</td><td>政治传播</td><td>political, medium,effect, election, exposure</td></tr><tr><td>5</td><td>T03</td><td>社会行为与网络媒体</td><td>social,medium,social_medium,facebook,network</td></tr><tr><td>6</td><td>T01</td><td>广告</td><td>advertising,brand,consumer,ad,effect</td></tr><tr><td>7</td><td>T11</td><td>社交媒体</td><td>medium,social, social_medium,twitter,public</td></tr><tr><td>8</td><td>T21</td><td>政治报道分析</td><td>political,medium,policy,analysis,party</td></tr><tr><td>9</td><td>T25</td><td>科学传播</td><td>science,public,communication,scientific,scientist</td></tr><tr><td>10</td><td>T22</td><td>网络新闻与用户评论</td><td>news, user,online,medium,comment</td></tr><tr><td>11</td><td>T10</td><td>民意调查</td><td>survey,data,measure,respondent, study</td></tr><tr><td>12</td><td>T16</td><td>视觉传达设计</td><td>medium,research,image,narrative,visual</td></tr><tr><td>13</td><td>T13</td><td>传播学理论</td><td>communication,information,theory, health,interpersonal</td></tr><tr><td>14</td><td>T06</td><td>视频游戏</td><td>game,video,effect,study, model</td></tr><tr><td>15</td><td>T20</td><td>性别</td><td>community, gender, woman,online,social</td></tr><tr><td>16</td><td>T09</td><td>儿童</td><td>child, effect, message,parent, study</td></tr><tr><td>17</td><td>T02</td><td>社会支持</td><td>support,effect,message,response,emotional</td></tr><tr><td>18</td><td>T15</td><td>环境传播</td><td>environmental,communication,change,movement,climate</td></tr><tr><td>19</td><td>T17</td><td>气候变化</td><td>climate,change, climate_change,public,uncertainty</td></tr><tr><td>20</td><td>T26</td><td>移动设备</td><td>mobile,medium,phone,mobile phone,device</td></tr><tr><td>21</td><td>T24</td><td>在线教育</td><td>student,education,online,teacher, school</td></tr><tr><td>22</td><td>T30</td><td>互联网</td><td>internet,online,digital,access,divide</td></tr><tr><td>23</td><td>T19</td><td>新闻框架</td><td>frame,framing,music, journalism,article</td></tr><tr><td>24</td><td>T04</td><td>媒体研究</td><td>medium,study,relationship,violence,sexual</td></tr><tr><td>25</td><td>T14</td><td>风险传播</td><td>risk,knowledge,perception,research,moral</td></tr><tr><td>26</td><td>T23</td><td>社会参与</td><td>social, participation,capital,medium,civic</td></tr><tr><td>27</td><td>T12</td><td>公共服务</td><td>public,service,surveillance,public_service,parasocial</td></tr></table></body></html>
+
+<html><body><table><tr><td>28</td><td>T07</td><td>集体行动</td><td>collective,action,collective_action,political,participation</td></tr><tr><td>29</td><td>T05</td><td>语言交际</td><td>language,communication,chinese,china,attachment</td></tr><tr><td></td><td>T29</td><td>隐私披露</td><td>privacy,disclosure,south,fracking,africa</td></tr><tr><td>30</td><td></td><td></td><td></td></tr></table></body></html>
+
+如传媒研究的主题分布（图3）以及主题的特征词分布（表5）所示，新闻（T28、T08、T22、T19）、政治传播（T27）、社交媒体（T11、T03）、广告（T01）、科学传播（T25）等主题为近年来国际范围内传媒领域的研究热点，同时，数字技术（T18）在塑造社会结构与学术研究的过程中发挥着越发重要的作用。
+
+新闻分析（T28）是传媒领域的核心研究问题之一[23]，根据其特征词构成可以看出，该主题主要侧重于对新闻报道的内容与形式进行分析。另一方面，“数字化”这一概念使得数据新闻（T08）方兴未艾，在文本内容中占据相当大的比重。政治传播（T27）可以理解为从社会学、心理学、经济学等多种角度来阐明传播在塑造政治行为方面的作用[24]，相关理论已被广泛用于民意调查（T10）、社会参与（T23）、电子政务等。作为传媒领域的一大研究热点，社交媒体（T11）为广告营销（T01）、公众行为及舆情传播方式转变带来了深远影响[25]，目前已有大量研究围绕Twitter、Facebook两大社交平台展开，以期明晰媒介在社交中的作用、受众在使用社交网站时的行为等。此外，从图中可以观察到，科学传播（T25）相关研究也不断涌现，旨在挖掘媒介在教育、知识分享与科技创新方面发挥的巨大作用，以实现提升公民科学素养，增强科学家间知识传播效率的目标。
+
+由此可见，在数字化时代背景下，移动通信与互联网技术交互发展，数字技术在潜移默化中推动了传媒领域的深刻变革，不断助力传统新闻业找寻颠覆式创新的突破口、改变政治传播与科学传播的方式与途径、影响用户在网络中的社交习惯与行为特征。
+
+根据图3与表5还可以看出，部分主题的研究热度相对靠后，但可能隐含着巨大的研究空间与价值。例如，隐私披露（T29）、集体行动（T07）等主题过去五年在传媒研究中受到的关注较少，但随着数字化进程不断推进，社交平台中的用户行动具有低成本、低风险等新特征[26]，用户生成内容呈指数级增长，上述主题均需受到进一步关注。
+
+为了进一步验证本文得出的传媒领域研究现状与整体知识结构，本文利用VOSviewer构建该领域关键词共现网络图，如图4a及图4b所示。图4b 揭示了2015-2019年国际期刊论文的关键词共现关系，可以看出，本文以LDA为基础的主题提取结果能够较为充分地反映出图中呈现的主要内容，且在保留语义信息的前提下对主题进行了更为细致的刻画，提升了主题解读的科学性与准确性。此外，对比2015年前后期刊论文关键词共现关系的变化特征（图4a、4b)，可以发现学术界对气候变化、政治传播的关注度有所提升；Facebook、Twitter、社交媒体均成为高频关键词，与互联网、公众参与等词连接紧密。这与前文对科学传播（T25）、社交媒体（T11、T03）等主题的解读较为一致，进一步佐证了LDA的主题分析结论。
+
+![](images/3746037347d0025d6f8e7103507cfb0719c6049f8f8ae573a64cef667afefd3b.jpg)  
+图4传媒领域国际期刊论文关键词共现网络图
+
+# 3.3.国际传媒研究的国家-主题分布
+
+我国近五年来在WoS平台中所能检索到的传媒领域Q1区期刊论文共146篇，在全球范围内排名第10，且具有高影响力的学术机构和作者尚不突出，存在较大的进步空间。在此基础上，本文进一步对文档内容和元数据中的地理信息进行联合建模，旨在探究传媒领域研究主题在国家层面的特征，挖掘世界范围内各国在思想文化交流、交融、交锋中的研究热点，明晰并重点探讨我国传媒研究在国际视角下的优势与短板。
+
+基于前文对传媒领域国际贡献格局的分析，此处选取中国、美国、英国、荷兰、澳大利亚、德国等发文数量位居世界前列的国家，计算国家-主题分布矩阵并对结果进行可视化。如图5所示，纵轴的30个主题按其在整个数据集中的研究热度降序排列，横轴依次为6个国家，图中矩形的深浅与长度均体现某一主题在对应国家的研究比重。
+
+从图5中可以看到，各个国家普遍关注的研究主题包括“数字技术”、“社交媒体”、“政治传播”等。近年来，我国以及澳大利亚、英国、美国等诸多国家均高度重视数字技术的基础与应用研究，以期紧抓数字技术为国家经济、社会发展带来的机遇。习近平总书记就曾在党的十九大报告中首次纳入“数字经济”这一关键词[27]，英国政府也曾提出数字战略（UKDigital Strategy)，致力于提升国家在数字时代的整体竞争力。
+
+数字化背景下社交媒体相关研究不断涌现。我国学者围绕社交媒体的传播特征、广告营销等话题展开了大量研究，国外研究人员则更多地关注社交媒体涉及的科学传播、隐私问题，以及社交媒体对少年、儿童的影响等，这在已有关于中外社交媒体研究热点分析的相关文章中也得到体现[25]。此外，数字技术变革下的新型传播模式对政治生态产生了巨大影响，如图5所示，我国和海外各主要国家均非常关注“政治传播”相关内容，究其原因，新媒体在国外政治大选中发挥着举足轻重的作用，我国中宣部也曾推出“学习强国”平台，将政治理论与红色文化转化为广大民众喜闻乐见的形式，缔造出政治传播实践的一大突破。
+
+![](images/a0735c7fe93c34f287f74fcf7f35eeeb62bc146a8ccc369d353d57ae23a91586.jpg)  
+图5我国与海外各主要国家的传媒研究研究主题分布
+
+本文进一步挖掘并总结我国学者在研究主题选择上的特征。通过纵向比较国内不同主题的重要性程度，横向对比国内外研究主题的分布情况，本文归纳总结并讨论了从国际学术期刊视角来看，我国与传媒研究主要国家的研究偏好差异。
+
+（1)我国在传媒领域的相关研究对“广告”“风险传播”等主题的关注度与其他国家相比较高。我国广告研究目前已形成较为完整的研究体系，在广告形态、媒介、规制等方面取得了丰富的研究成果[28]，图5充分反映出了我国在此研究主题上的研究积累和较为强烈的关注度。但国内广告研究在理论与应用层面均未能实现对欧美国家的超越，也尚未形成具有影响力的作者或机构学术共同体[29]。因此，未来研究应借鉴国际广告学研究中的经典理论，重视产学融合与跨学科研究，促使基础研究与应用研究共同发展。此外，相较其他国家而言，我国对风险传播这一主题的关注度较高，由于各个国家的风险传播效率会因国家体制、文化背景等不同而产生差异，特别是新冠疫情等突发性公共危机事件使学术界更加清晰地意识到，新时期应进一步提升我国在特地社会语境下的风险传播效能。
+
+(2)我国科研人员对新闻分析、数字技术的关注度均较高，但数据新闻的研究成果却相对较少。  
+图5反映出我国的数据新闻研究在国际范围内尚未处于强势地位，作为一门典型的新兴交叉学科，  
+国外数据新闻研究的起步时间更早同时发展速度更快，我国在该领域的研究具有一定的滞后性与趋  
+同性，尤其在理论研究层面仍有待提高[30]。习近平总书记曾指出，我国新兴学科与交叉学科的建设  
+较为薄弱[31]。科研人员与政策制定者应共同努力，补齐短板，进一步完善我国传媒研究的学科体系。（3）根据图5可以看出，科学传播是澳大利亚、英国、德国等国家共同关注的主题之一，我国  
+的研究成果尚不及海外各主要国家。随着科学在经济、社会生活与文化事业中的渗透不断加深，科
+
+学传播搭建起科学专业化与公众需求之间的桥梁，日益彰显其在广泛国际科技竞争中的重要意义[32]。我国应积极打造具有中国特色的科学传播理论体系，促使科学传播坚守科普导向，满足我国的社会发展需求。
+
+# 4.结论
+
+本文结合文献计量方法与科技文本挖掘技术，对文档内容和元数据联合建模，较为全面地展示了过去五年国际传媒研究的地理分布特征与知识结构，以此为基础对我国的研究主题进行剖析。本文的主要研究结论如下：
+
+（1）国际期刊视角下，传媒领域的文章发表呈现较为明显的不均衡分布。我国大陆地区的发文量排在第十位，这一方面可能是因为大多数传媒相关的领先期刊均源自发达国家，甚至在期刊编委会的成员选定上也存在一定倾向性；另一方面，国内研究人员更加倾向于在中文期刊上发表文章，国际性的知识交流并不频繁[20]。从国际视角来看，各个国家需共同促成一个平衡的全球贡献模式，使传媒成为一个国际性的研究领域。对我国而言，积极建立具有国际影响力的传媒期刊，在一定程度上有助于促进该领域的学术进步，提升我国在领域内的竞争力。
+
+（2）传媒领域的高产作者与机构更倾向于相对独立的研究模式，并未形成稳定的作者或机构学术共同体。但传统的科研范式在数字化浪潮的冲击下不断改变与革新，传媒研究在一定程度上正经历着“科学化”的过程，定量分析与实验分析的思想正逐步得到强化[33]。未来研究是否需要拓展合作思路，这一问题有待研究人员的进一步思考与实践。
+
+（3）数字技术对传媒领域产生了深远的影响，大数据、物联网、人工智能、虚拟现实等技术的普及加速推动了媒介形态的变迁，新媒体的蓬勃发展不断刺激传媒领域的产业升级与文化重塑。媒体转型与媒介融合使数据新闻、社交媒体等新兴跨学科主题成为焦点，为广告、政治传播、科学传播、风险传播等话题注入新鲜血液，同时引发学术界对隐私披露等问题的思考。科研人员应在重视技术研究的同时，回归传媒研究最根本的问题，由表及里探索数字化对传媒带来的机遇与挑战。
+
+（4）我国在传媒领域的研究热点与我国的国家政策、社会形态、科研范式、学科发展源流等产生呼应。相比传媒研究的领先国家，我国在部分研究主题上具有理论基础不够扎实、产学交流不够密切、学科融合不够深入等短板。唯有充分了解目标领域内部的知识结构，汲取并丰实国际传媒研究的经典理论，学习并应用技术革新所带来的前沿方法，重视并促成学科交叉、产学交流与国际合作，才能开展符合我国社会语境的传媒研究，为促进我国传媒领域的学术发展与学科体系完善铺路架桥。
+
+综上所述，本文较为客观地对国际传媒领域的地理分布与知识结构进行了分析，最终落脚于对我国传媒领域研究现状的探讨。但当前研究仍存在一定局限性,本文在进行数据选取时仅囊括了WoS的期刊文献，后续研究还需进一步纳入国内文献检索平台的数据，以期更好地对比国内与国际在传媒研究中的关注重点。此外，领域内主题并非孤立，而是相互联系的，本文后续研究将进一步考虑主题之间的语义关联，并从网络视角探究研究热点的迁移与变化。
+
+# 参考文献
+
+[1]廖祥忠．未来传媒:我们的思考与教育的责任 [J].现代传播(中国传媒大学学报),2019,41(3):1-7.[2]习近平．在哲学社会科学工作座谈会上的讲话[N]．人民日报 2016-05-19.  
+[3] 程明，战令琦．技术驱动下中国传媒经济研究的知识图谱(2013-2017年)——基于文献计量的方法[J].新闻与传播评论,2018,71(2): 52-63.  
+[4] 杜智涛，张丹丹，柏小林．融合与跨越:近 10 年来新媒体研究的多维视域 [J].信息资源管理学报,2019, 9(3): 19-32.  
+[5]张永安，王学涛．社会化媒体研究演化及前沿可视化分析[J]．图书馆杂志,2017,36(7):74-81.[6]黄微，张晓君．基于知识图谱的我国网络舆情研究进展可视化分析 [J]．情报科学,2016,34(6):87-92.[7]曹树金，岳文玉．突发公共卫生事件微博舆情主题挖掘与演化分析 [J].信息资源管理学报,2020,10(6): 28-37.  
+[8]DEMETER M. Changing center and stagnant periphery in communication and media studies: Nationaldiversity of major international journals in the field ofcommunication from2013 to 2017[J]. International Journalof Communication, 2018, (12): 2893-921.  
+[9] MONTERO-DIAZ J，COBO M J, GUTIERREZ-SALCEDO M, et al. A science mapping analysis of'Communication' WoS subject category (1980-2013)[J]. Comunicar, 2018, 26(55): 81-91.  
+[10] ZENG A, SHEN Z, ZHOU J, et al. The science of science: From the perspective of complex systems [J].Physics Reports,2017,714-715: 1-73.  
+[11] ZHANG Y, ZHANG G Q, CHEN H S,et al. Topic analysis and forecasting for science, technology andinnovation: Methodology with acase study focusing onbig data research[J].TechnologicalForecasting and SocialChange,2016,105: 179-191.  
+[12] CHEN H S, ZHANG G Q, ZHU DH, et al. Topic-based technological forecasting based on patent data: Acase study of Australian patents from 2000 to 2014[J]. Technological Forecasting and Social Change,2017,19:39-52.  
+[13]范云满，马建霞．利用LDA 的领域新兴主题探测技术综述 [J].现代图书情报技术,2012,(12):58-65.[14] 刘筱敏，马娜．中国科协科技期刊国际影响力分析 [J]．中国科技期刊研究,2014,25(3):335-9.[15] BLEI D M, NG A Y, JORDAN M I. Latent Dirichlet allocation [J]. JMach Learn Res, 2003,3(4-5): 993-1022.  
+[16] CHEN H, WANG X,PAN S,et al. Identify topic relations in scientific literature using topic modeling[J].IEEE Transactions on Engineering Management, 2019,1-13.  
+[17] MIMNO D M, MCCALLUM A. Topic models conditioned on arbitrary features with Dirichlet-multinomialregression [C]. 24th Conference on Uncertainty in Artificial Intelligence (UAI),Helsinki, 2008: 7.  
+[18]张璐，赵爽，任慧，等．国际视阈下创新理论研究脉络与热点分析——基于Wos 的 SSCI/SCI数据源[J]．科技进步与对策,2019,36(7):153-60.  
+[19] 赵蓉英，王晴．近20 年来国内竞争情报研究的结构特征与热点透视—一基于CNKI的文献计量及可视化分析 [J]．情报科学,2016,34(3):166-72.  
+[20] SHU F, JULIEN C-A,LARIVIERE V. Does the web of science accurately represent chinese scientificperformance?[J]. Journal of the Association for Information Science and Technology, 2019,70(10): 1138-52.[21] HUANG Y,PORTER A, ZHANG Y, et al. Collaborative networks in gene editing [J]. Nature Biotechnology,2019,37(10): 1107-9.  
+[22]胡小洋，李小涛，余厚强，等．“信息可视化”主题下的多学科知识结构探究—一基于 2004\~2013 年WoS 数据库的文献计量和内容分析 [J]．图书馆学研究,2015,(5):88-95.  
+[23]HARCUPT, O'NEILLD. What is News?: News values revisited (again)[J]. Journalism Studies,2017,18(12):1470-88.[24] BENNETT W L, IYENGAR S. A new era of minimal effects? The changing foundations of politicalcommunication [J]. Journal of Communication, 20o8, 58(4): 707-31.  
+[25]陈扬森，陈军．基于关键词共现与社会网络分析法的国内外社交媒体研究热点分析[J].信息资源管理学报,2017,7(3): 45-55.  
+[26] SCHUMANN S, KLEIN O. Substitute or stepping stone? Assessing the impact of low - threshold onlinecollctive actions on ofline participation [J]. European Journal of Social Psychology,2015,45(3): 308-22.[27]习近平．决胜全面建成小康社会 夺取新时代中国特色社会主义伟大胜利 [N]．人民日报2017-10-28.[28] 周茂君，邸铭．我国广告研究知识图谱再现：基于CSSCI1998—2019年文献数据 [J].广告大观(理论版),2020,(5): 80-90.  
+[29] 曾琼，张金海．中国广告学知识生产的演进与逻辑转向—一基于期刊论文应用研究与基础研究的考量及文献计量学的分析[J]．新闻大学,2015,(1):126-33.  
+[30] 傅居正，喻国明．中外数据新闻研究的滥觞与发展:学科谱系的比较——基于CiteSpace 知识图谱的可视化分析 [J]．西安交通大学学报(社会科学版),2019,39(1):111-20.  
+[31] 谢伏瞻．加快构建中国特色哲学社会科学学科体系、学术体系、话语体系[J].中国社会科学,2019,(5): 4-22.  
+[32]贾鹤鹏，闫隽．科学传播的溯源、变革与中国机遇[J]．新闻与传播研究,2017,24(2):64-75.[33] 谢建东．人文性与科学性融合并存:对新闻学科学化的思考 [J].当代传播,2017,(3):25-9.

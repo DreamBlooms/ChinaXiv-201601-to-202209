@@ -1,0 +1,386 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tenascin-C表达降低抑制成骨细胞分化并促进骨质疏松的机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈昱',陈梓锋³,何 帆² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "福建省立医院南院骨科，福建 福州 350001；杭州市第一人民医院骨科，浙江 杭州310006；广州市番禺区中心医院创伤烧伤科，广东广州511400",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 探讨Tenascin-C在成骨细胞分化中的作用及机制，并分析其表达变化对骨质疏松的调控。方法以免疫印迹法检测去卵巢致骨质疏松的小鼠股骨松质骨的Tenascin-C表达变化。体外诱导成骨前体细胞MC3T3-E1分化，检测瞬时转染Tenascin-C的siRNA后其碱性磷酸酶的活性。以蛋白质相互作用预测软件STRING筛选与Tenascin-C可能存在相互作用的蛋白质。在上述候选蛋白中,以免疫沉淀法验证了Tenascin-C与Wnt通路内源性抑制蛋白Dickkopf-1（Dkk-1)的相互作用,并以免疫印迹检测 Tenascin-C对DKK-1的调控。此后进一步采用荧光素酶报告基因系统检测了Tenascin-C对Wnt信号通路转录活性的影响。结果去卵巢骨质疏松的小鼠股骨松质中Tenascin-C蛋白表达急剧下降。降低Tenascin-C的表达能够阻遏MC3T3-E1向成熟成骨细胞分化，反之，在此基础上过表达β-Catenin可逆转前者导致的成骨细胞分化阻滞。Tenascin-C结合于DKK-1,敲低 Tenascin-C可上调DKK-1的表达并降低Wnt通路的转录活性。结论 Tenascin-C的下调可能通过减弱对DKK-1的负调控从而抑制Wnt通路的转录活性，进而抑制成骨细胞的分化并介导骨质疏松。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：骨质疏松；Tenascin-C;成骨细胞;DKK-1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tenascin-C knockdown suppresses osteoblast differentiation and promotes osteoporosis in mice by inhibiting Wnt signaling ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHENYu¹,CHENZifeng,HEFan²   \nDepartmentedicuthhofcalital;pantofopi FirstPeople'saltfdctita China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Objective To understand the mechanism by which tenascin-Cregulates osteoblast diferentiation and theroleof tenascin-Cin osteoporosis.Methods Tenascin-C protein expression in femoral spongy bone of mice with or without osteoporosis was analyzed using Western blotting.In MC3T3-E1osteoblasts withor without tenascin-Cdepletionbya specific siRNA targeting tenascin-C，alkaline phosphatase activity and Dickkopf-1 (DKK-1) expresion were determinedusing quantitative RT-PCR and Western bloting,and the transcriptional activityof Wnt signaling pathway was analyzed using a luciferasereporter assay.The possible interaction of tenascin-C with DKK-1predictedby STRING software was verified by immunoprecipitation.Results Tenascin-Cwasmarkedlydown-regulatedinhemoralspongyboneof micewithosteoporosisas compared with thecontrol mice.Osteoblastic diferentiation wasmarkedly suppressed in MC3T3-E1osteoblast after tenascin-C depletion, and was significantly reversed by simultaneous $\\beta$ -catenin over-expression. siRNA-mediated knockdown of tenascin-C,which bound DKK-1,up-regulatedthe expresionofDKK-1andconsequently lowered the transcriptional activity of Wnt pathway. Conclusion Tenascin-C knockdown attenuates its negative control on DKK-1 to suppress the transcriptionalactivityof Wntpathway whichinturnsuppreses osteoblastic differentiationand promotes osteoporosis. Key words: osteoblasts; Dickkopf-1; osteoporosis; tenascin-C ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "骨质疏松是一种以骨矿物质密度降低且骨折风险升高为特征的老年性疾病。其致病机制一般认为是在绝经后的骨质重塑过程中破骨细胞调控的骨质吸收超过了成骨细胞调控的骨质形成[。老年性骨质疏松患者的骨髓间充质干细胞分化为成骨细胞的能力显著减弱，造成成骨细胞减少和成骨-破骨偶联失衡。目前对于成骨细胞分化的调节研究较为透彻的是Wnt信号通路。研究显示，Wnt信号通路不仅可介导成骨前体细胞分化为成熟成骨细胞，也可通过cyclicAMP(cAMP)/proteinkinaseA(PKA)信号途径抑制破骨细胞的分化2]反之，Wnt信号通路异常则导致骨形成障碍，例如Wnt1突变可导致早期骨质疏松和成骨不全3-4。近期研究发现了Wnt通路也受到内源性的调控，其中Dickkopf-1(Dkk-1)是一种分泌型的内源性抑制蛋白，可结合于Wnt受体LRP5及LRP6并干扰LRP5/6与Wnt/frizzled配体-受体复合物的结合，从而抑制Wnt信号传递[5-6,然而目前尚无明确证据证实DKK-1是否参与调控成骨细胞分化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tenascin-C是一种细胞外基质蛋白，可由成骨细胞分泌并参与成骨细胞的分化。在成骨样细胞的培养基中加入其抗体可显著减弱碱性磷酸酶（Alkalinephosphatase,ALP)的活性及胶原分泌(鉴定成骨细胞分化的重要指标)[8]。然而,Tenascin-C介导成骨细胞分化的机制尚未见报导。本研究首次发现，Tenascin-C在骨质疏松的小鼠松质骨中表达降低，Tenascin-C通过消除DKK-1对Wnt通路的抑制促进成骨前体细胞的分化，揭示出在骨质疏松进程中，成骨前体细胞通过降低Tenascin-C的表达恢复DKK-1对Wnt通路的抑制从而阻遏其自身的分化，从而为骨质疏松的综合防治提供了一个潜在的药物干预新靶点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1实验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人成骨前体细胞系MC3T3-E1引自美国ATCC。细胞培养用胎牛血清及α-MEM培养基购自Hyclone公司。转染试剂METAFECTENEPRO购自德国Biontex公司。TCF/LEF转录活性报告质粒M50 Super 8xTOPFlash（#12456）购自Addgene。碱性磷酸酶活性检测试剂盒(P0321)购自碧云天。聚丙烯酰胺凝胶电泳所需之丙烯酰胺、甲叉丙烯酰胺、SDS、Tris及甘氨酸等超纯生化试剂均购自美国Promega公司， $\\beta$ -Actin抗体（8H10D10,#3700）、HistoneH3抗体（D1H2,#4499）、$\\beta \\mathrm { . }$ -Catenin抗体（D10A8，#8480）及Tenascin抗体（D16C4,#12221）购自 Cell Signaling Technology,DKK-1抗体（D220553）购自 Sangon Biotech,Tenascin-C siRNA(m）（sc-43187)购自SantaCruz。荧光定量RT-PCR相关基因的引物由上海英骏公司设计和合成,其序列如下：Tenascin-C正义链:5'-CAATAACCACAGTCAGGGCGTT-3'反义链:5'-CGGACGGAAGTTCTAAAGACTT-3';DKK-1正义链:5'-TTCCAACGCGATCAAGAACCTGC-3'反义链:5'-CAGTGTGGTTCTTCTGGGATATC-3';GAPDH(内参照基因):5'-GAAGGTGAAGGTCGGAGTC-3'反义链： $5 ^ { \\prime }$ GAAGATGGTGATGGGATTTC-3'",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2去卵巢骨质疏松模型的构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取2月龄同批雌性C57BL/6小鼠16只，随机分为两组。去卵巢骨质疏松模型组（ $\\scriptstyle { \\overbrace { n = 1 0 } }$ :C57BL/6小鼠以 $1 \\%$ 戊巴比妥钠( $3 0 \\mathrm { m g / k g }$ 体质量)腹腔注射麻醉,俯卧固定，于无菌条件下在背侧正中切口，进入腹腔在肾下极附近找到卵巢，用4号线结扎并摘除双侧卵巢，分层缝合切口。术后5d始，逐只进行阴道涂片(1次/d)，连续5d,无角化者证实双侧卵巢切除完全，否则弃去不用。术后第7天每天灌服 $0 . 9 \\%$ 氯化钠注射液 $0 . 5 ~ \\mathrm { m L }$ 假手术组( $\\scriptstyle { \\overbrace { n = 1 0 } }$ ）：C57BL/6小鼠以 $1 \\%$ 戊巴比妥钠0 $\\mathrm { 3 0 ~ m g / k g }$ 体质量)腹腔注射麻醉,俯卧固定，于无菌条件下在背侧正中切口，进入腹腔在肾下极附近找到卵巢，只切除卵巢周围与双侧卵巢质量等同的脂肪组织，分层缝合切口。术后第7天每天灌服 $0 . 9 \\%$ 氯化钠注射液 $0 . 5 ~ \\mathrm { m L }$ 。于术后0、8、10、12周分别以双能X线法测定骨密度，确保骨质疏松建模成功。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 细胞转染及分化诱导 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MC3T3-E1细胞于 $5 0 \\%$ 密度时转染Tenascin-C(或NC)的siRNA，而后接种于分化培养基( $\\mathfrak { a }$ -MEM添加$5 0 ~ \\mu \\mathrm { g / m L }$ 抗坏血酸的佛波酯及 $1 0 \\mathrm { m m o l / L }$ 的β-甘油磷脂)中培养7d,重复1次siRNA转染后继续培养7d,然后提取总RNA或总蛋白，或进行碱性磷酸酶活性测定。或者共转染Tenascin-C(或NC)的siRNA和β-Catenin的表达质粒，诱导分化7d后检测碱性磷酸酶活性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 碱性磷酸酶活性测量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参照碧云天的碱性磷酸酶活性检测试剂盒的说明书进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5荧光定量PCR ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "收集诱导分化并瞬时转染 $6 0 \\mathrm { ~ h ~ }$ 的MC3T3-E1细胞，细胞总RNA提取按照Trizol试剂(Invitrogen）的说明书进行。逆转录和荧光定量PCR分别按照复能基因公司（FULGENE）All-in-One First-Strand cDNA SynthesisKit和All-in-OneqPCRMix试剂盒的说明书进行。PCR反应： $9 5 ~ \\mathrm { { ^ { \\circ } C } }$ 预变性 $1 0 \\operatorname* { m i n } , 9 5 ^ { \\circ } \\mathrm { C } \\ 1 0 \\ \\mathrm { s } , 6 0 ^ { \\circ } \\mathrm { C } \\ 1 5 \\ \\mathrm { s }$ $7 2 \\mathrm { ~ \\textdegree ~ } 2 0 \\mathrm { ~ s ~ } , 4 0$ 个循环， $7 2 \\ \\mathrm { { ^ { \\circ } C } }$ 延伸 $1 0 \\mathrm { m i n } , 7 2 \\mathrm { ~ \\textbar { C } }$ 采集荧光信号。以GAPDH作为内参照基因,并采用相对定量法进行定量。相对表达量 $\\overleftarrow { = } 2 ^ { \\cdot \\Delta \\Delta \\mathrm { C t } }$ $\\Delta C _ { \\mathrm { t = } }$ 目的基因平均Ct值-内参照基因平均Ct值， $\\Delta \\Delta \\mathrm { C t } =$ 实验组△Ct-对照组 $\\Delta \\mathrm { C t } _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6免疫沉淀 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "向每个血中加入预冷IP裂解缓冲液 $\\mathrm { \\langle 4 0 ~ m m o l / L }$ HEPES,pH7.5,120 mmol/LNacl,1 mmol/LEDTA,$1 0 \\mathrm { m m o l } \\mathrm { L }$ 焦磷酸钠， $1 0 \\mathrm { m m o l } \\mathrm { L } \\beta$ 甘油磷酸钠， $5 0 \\mathrm { m m o l } \\mathrm { L }$ 氟化钠， $1 . 5 \\ \\mathrm { m m o l / L }$ 钒酸钠, $0 . 3 \\%$ CHAPS),冰上裂解$3 0 \\mathrm { m i n }$ ,期间摇动平皿几次以促使裂解液与细胞充分接触。裂解后的细胞经 $4 \\mathrm { \\ : \\mathcal { C } } _ { \\setminus } 1 2 0 0 0 \\times g$ 离心 $1 0 \\mathrm { m i n }$ ，取上清液标为全细胞裂解液。蛋白定量后取 $5 0 0 ~ { \\mu \\mathrm { g } }$ 全细胞裂解液与相应的抗体 $4 \\mathrm { { ^ circ C } }$ 孵育过夜，而后加入蛋白A/G-琼脂糖树脂继续孵育 $2 \\mathrm { h }$ ，继之以裂解缓冲液漂洗树脂3次，漂洗缓冲液( $5 0 \\mathrm { m m o l / L }$ Hepes, $\\mathrm { p H } 7 . 5 , 1 5 0 \\mathrm { m m o l } / \\mathrm { L }$ Nacl,1mmol/LEDTA, $0 . 3 \\%$ CHAPS)漂洗2次，加入$2 { \\times } \\mathrm { S D S }$ 上样缓冲液于 $1 0 0 \\mathrm { { ^ { \\circ } C } }$ 加热 $5 \\mathrm { m i n }$ ，离心后取上清液进行聚丙烯酰胺凝胶电泳。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7免疫印迹 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "收集诱导分化并瞬时转染 $6 0 \\mathrm { ~ h ~ }$ 的MC3T3-E1细胞,加入细胞裂解液于冰上裂解 $3 0 \\mathrm { m i n }$ ，于 $4 \\mathrm { ~ ‰ ~ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "离心 $2 0 ~ \\mathrm { m i n }$ ，取上清液，用Bradford法测定蛋白浓度。取等量蛋白进行聚丙烯酰胺电泳并转位到PVDF膜上，最后采用化学发光法检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.8荧光素酶活性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在MC3T3-E1细胞中共转染Tenascin（或NC)的siRNA，TCF/LEF转录活性荧光素酶报告质粒TOPFlash及海肾荧光素酶报告质粒pGL4.74［hRluc/TK]，同时按前述方法诱导MC3T3-E1细胞分化， $6 0 \\mathrm { { h } }$ 后分别测定荧光素酶和海肾荧光素酶的活性，以二者的相对比值作为荧光素酶相对活性单位(relativeluciferaseunit,RLU)。具体方法参照Promega的Dual-Luciferase双萤光素酶报告基因检测系统的说明书。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.9统计学分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所有细胞实验均重复3\\~4次。数据以mean±SEM表示,条图的制作和统计均使用GraphpadPrism5.0软件,使用独立样本 $\\mathbf { \\Phi } _ { t }$ 检验分析干扰Tenascin后MC3T3-E1细胞的各项差异， $P { < } 0 . 0 5$ 则认为差异具有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Tenascin-C在骨质疏松小鼠股骨松质中表达降低 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相对于对照组小鼠，去卵巢骨质疏松组的小鼠股骨松质中Tenascin的mRNA显著下调 $\\scriptstyle ( P < 0 . 0 0 0 1 , n = 1 0$ 图1A)，蛋白表达量同样明显降低(图1B)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb4032d615a5767b98d91d7b6274628900ce936a2840a846dd75cd0d200758ad.jpg",
+        "img_caption": [
+            "图1骨质疏松小鼠股骨松质骨中Tenascin-C表达下调 Fig.1Tenascin-Cis down-regulated in the femoral spongy bone of mice withosteoporosis.Tenascin-CmRNAand protein expressions were measured with qRT-PCR (A) and Western bloting (B). m1, $\\scriptstyle { \\mathrm { m } } 2 ,$ and $\\mathbf { m } 3$ indicates mouse 1,mouse 2 and mouse 3, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2降低Tenascin-C的表达导致成骨细胞的碱性磷酸 酶活性下降 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在MC3T3-E1细胞中瞬时转染Tenascin-C的",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "siRNA显著降低了其诱导分化14d后的碱性磷酸酶活性 $\\scriptstyle P = 0 . 0 0 7 5$ ，图2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f54123defefa1664bacf95acc5b69ac99fe3d922c996213884493935c49c75e4.jpg",
+        "img_caption": [
+            "图2降低Tenascin-C表达抑制MC3T3-E1细胞成骨诱导后的碱性磷酸酶活性。 Fig.2 Tenascin-C knockdown suppresses differentiation of MC3T3-E1 pre-osteoblasts.A: ALP activity in transformed MC3T3-E1 is suppressed 14 days after the initial transfection with tenascin-C siRNA;B: Tenascin-C protein expression determined using Western blotting to verify the eficiency of tenascin-C knockdown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Tenascin-C与DKK-1结合并抑制其表达 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究利用蛋白质相互作用预测数据库STRING发现一系列可能与Tenascin-C(TNC，黑色方框所示)存在相互作用的蛋白质(可信水平设置为最高八图3A)。其中，我们挑选了DKK-1(黑色方框所示)进行了验证。与数据库预测结果相符，DKK-1存在于Tenascin-C的免疫沉淀复合物中（图3B)，提示DKK-1与Tenascin-C相互结合。有趣的是,敲低（knockdown）Tenascin-C的成骨细胞中DKK-1mRNA水平的差异无统计学意义中 $\\scriptstyle P = 0 . 0 9 3 9$ ，图3C)，而蛋白表达明显上调(图3D)，提示Tenascin-C可能结合于DKK-1并从蛋白水平而非mRNA水平上抑制其表达。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2c21c90e0306c45206ca08954238f40d2e66e6edb6e54bd8bc427cd68e51474.jpg",
+        "img_caption": [
+            "图3Tenascin-C与DKK-1结合并抑制其表达",
+            "Fig.3Tenascin-C bindsDKK-1and suppreses itsprotein expression.A: Interaction between tenascin-C (TNC,in black rectangle)andDKK-1 (inblack rectangle)predicted by STRING software;B: Bindingof tenascin-C to DKK-1confirmed by immunoprecipitationin MC3T3-E1cels; C:Relative DKK-1mRNA expressionin MC3T3-E1celswithorwithout tenascin-C depletion; D: DKK-1 protein expression in MC3T3-E1 cels with or without tenascin-C depletion. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4降低Tenascin-C的表达可抑制Wnt信号通路的活性 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究进一步检测了敲低Tenascin-C后Wnt通路转录因子 $\\beta$ -Catenin的亚细胞分布及TCF/LEF的转录活性。相对于对照组细胞(NC），敲低Tenascin-C(siTenascin-C)的成骨细胞核内及全细胞β-Catenin的表达均明显降低(图4A)，且TOPFlash(Wnt通路的报告质粒)的荧光素酶活性也显著下降并具有统计学意义（ $P =$ 0.031,图4B)，提示Tenascin-C可增强Wnt信号通路的转录活性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5Wnt3A可逆转Tenascin-C表达降低诱导的成骨前 体细胞碱性磷酸酶活性下降 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在敲低Tenascin-C的MC3T3-E1细胞中，过表达$\\beta$ -Catenin可恢复其降低的碱性磷酸酶活性(图5)，进一",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "步提示Tenascin-C表达降低可能通过抑制Wnt通路从而抑制成骨细胞分化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "成骨细胞的分化能力显著减弱是老年性骨质疏松的关键致病因素之一，深入研究其机制将有助于发现更多可供药物干预的靶点，从而更好地防治骨质疏松。目前对于成骨细胞分化调控研究较为透彻的是Wnt信号通路，此通路直接刺激成骨分化关键因子Runx2的表达从而促进成骨细胞的分化和成熟[4.10-11]。尽管有多项研究表明细胞外基质蛋白Tenascin-C参与调控成骨细胞的分化，但其具体的调控机制不明。近期对于Tenascin-C的研究多集中在其促进肿瘤生长的作用上，对于Tenascin-C调控成骨分化的研究则无实质性进展。本研究首次发现，老年性骨质疏松的小鼠松质骨中Tenascin-C的蛋白表达显著下调。此外，在成骨前体细胞MC-3T3E1中敲低Tenascin-C可增加Wnt内源性抑制蛋白DKK-1的表达并抑制Wnt通路的转录活性，进而阻遏其分化。反之，同时过表达 $\\beta \\mathrm { . }$ -Catenin可逆转Tenascin-C缺失所致的成骨细胞分化抑制。综上所述，本研究提示，在老年性骨质疏松中Tenascin-C表达降低可能通过抑制Wnt通路活性抑制了成骨细胞的分化。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图4敲低Tenascin-C的表达抑制Wnt通路的转录活性"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/04b6fee3657a348c098724b89895cb34d588605b80b67e709135fb068877ac7c.jpg",
+        "img_caption": [
+            "Fig.4 Tenascin-C knockdown suppresses transcriptional activity of classical Wnt pathway.A: $\\beta$ catenin protein expresson in nuclear fraction (upper panel) and whole cellysate (lower panel) of MC3T3-E1 cells induced to differentiation with or without tenascin-C knockdown; B:Assay for relative luciferaseactivity in the treated cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/85194fcd11951a7761c61be9fc230d24d5667a390a57d287c7e77d371451a2b2.jpg",
+        "img_caption": [
+            "图5敲低Tenascin-C的同时过表达 ${ \\mathfrak { \\beta } }$ -Catenin可恢复 MC3T3-E1细胞的成骨分化 ",
+            "Fig.5Ectopic $\\beta$ -catenin expression reversestenascin-C depletion-induced suppression of differentiation of MC3T3-E1 pre-osteoblasts.ALP activity was determined 7daysafter the initial cotransfection of siRNAs of tenascin-C and $\\beta$ -catenin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "成骨细胞和成骨前体细胞均可表达并分泌Tenascin-C,Tenascin-C随之沉积于细胞外基质并调控成骨细胞的分化。此外，Tenascin-C包被的培养板可明显增强成骨前体细胞SAOS-2及ROS17/2.8的分化，反之,在培养基中加人Tenascin-C的抗体可抑制其分化[],然而其调控成骨细胞分化的机制尚不清楚。本研究发现，在MC3T3-E1细胞中利用siRNA敲低Tenascin-C的表达同样抑制了此细胞的成骨分化,佐证了其促进成骨细胞分化的作用。为进一步分析Tenascin-C调控成骨细胞分化的机制，本研究利用蛋白质相互作用预测软件STRING预测出一系列可能与Tenascin-C存在相互作用的蛋白质。其中，DKK-1为Wnt信号通路的内源性抑制蛋白，目前尚无文献报导在成骨细胞分化中Tenascin与DKK-1的相互关系。最近研究显示，骨质疏松的病人血清中DKK-1显著升高，且与腰椎及股骨的骨矿物质密度呈强烈的负相关[12]。此外,地塞米松在诱导骨质疏松的同时也增强了成骨细胞中DKK-1的转录活性[13]。这些证据均提示DKK-1可能参与调控骨质疏松，但骨质疏松进程中调控DKK-1的具体因子及其调控机制均不明确。因此，本研究拟探讨Tenascin-C通过DKK-1调控Wnt信号通路从而调控成骨细胞分化和骨质疏松的可能性及相关机制。我们的结果显示，Tenascin-C可与DKK-1相互结合并负调控DKK-1的蛋白表达，从而降低DKK-1对Wnt通路转录活性的抑制，最终促进成骨细胞的分化。反之，在骨质疏松的小鼠松质骨组织中Tenascin-C的急剧下调则可能通过抑制了成骨细胞的分化打破了成骨活性和破骨活性的平衡，最终发展为骨质疏松。这一结果揭示了此前尚未报道过的Tenascin-C调控成骨细胞分化的机制,证实其主要是通过抑制Wnt通路的内源性抑制蛋白DKK-1的表达从而促进了Wnt通路的活性及成骨细胞的分化。另一方面，本研究也发现了DKK-1上游调控的新机制-Tenascin-C直接结合于其上并抑制其表达。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近期有研究显示在神经内分泌肿瘤的发生过程中",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tenascin-C可通过抑制肌动蛋白应力纤维的形成从而抑制DKK-1的转录[14]。而本研究发现Tenascin-C可与DKK-1相互结合，在抑制DKK-1蛋白表达的同时对DKK-1的转录水平并无影响，也提示Tenascin-C抑制DKK-1的表达可能通过多种不同的途径。本研究中，Tenascin-C究竟通过何种方式抑制DKK-1的表达呢，其中，Tenascin-C诱导DKK-1的降解的可能性不能排除。近期研究发现，在乳腺癌细胞中，Tenascin-C可诱导14-3-3t的表达。14-3-3t在细胞内及体外均可结合于细胞周期抑素p21,并介导其被蛋白酶体所降解。有趣的是,此过程并不依赖泛素[15]。那么,Tenascin-C是否可以通过诱导14-3-3t调控DKK-1的降解？此外，Tenascin-C究竟是在成骨细胞的细胞质还是在其细胞外基质与DKK-1结合并介导DKK-1的降解？这些问题都需进一步研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究发现，骨质疏松进程中Tenascin-C的表达降低很可能削弱了其对Wnt通路内源性抑制蛋白DKK-1的抑制，DKK-1表达量随之升高并通过抑制Wnt通路抑制了成骨细胞的分化。本研究为进一步构建敲除Tenascin-C的动物模型以研究骨质疏松提供了初步的理论依据，并且为未来的联合用药骨质疏松防治提供了一个新的潜在干预靶点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Harvey N，Dennison E,Cooper C.Osteoporosis:a lifecourse approach[J].JBone Miner Res,2014,29(9):1917-25.   \n[2]Weivoda MM,Ruan M,Hachfeld CM,et al.Wnt signaling inhibits osteoclast differentiation by activating canonical and noncanonical cAMP/PKA pathways[J].JBone Miner Res,2016,31(1): 65-75.   \n[3]Canalis E.Wnt signalling in osteoporosis:mechanisms and novel therapeutic approaches [J].Nat Rev Endocrinol,2013,9(10): 575-83.   \n[4]Manolagas SC.Wnt signaling and osteoporosis[J]. Maturitas,2014, 78(3): 233-7.   \n[5]Pedersen L,Jensen MH,Krishna S.Dickkopfl--a new player in modelling the Wnt pathway[J].PLoS One,2011,6(10): e25550.   \n[6]Niida A,Hiroko T,Kasai M,et al. DKK1,a negative regulator of Wnt signaling,isa target of the beta-catenin/TCF pathway [J]. Oncogene,2004,23(52): 8520-6.   \n[7] Mackie EJ, Tucker RP.Tenascin in bone morphogenesis: expression by osteoblasts and cell type-specific expression of splice variants [J].JCell Sci,1992,103(Pt 3): 765-71.   \n[8]Mackie EJ,Ramsey S.Modulation of osteoblast behaviour by tenascin[J].JCell Sci,1996,109(Pt 6): 1597-604.   \n[9]Maeda T,Matsunuma A,Kawane T,et al. Simvastatin promotes osteoblast differentiation and mineralization in MC3T3-E1 cells[J]. Biochem Biophys Res Commun,2001,280(3): 874-7.   \n[10] Lin GL,Hankenson KD.Integration of BMP,Wnt,and notch signaling pathways in osteoblast differentiation[J].JCell Biochem, 2011,112(12): 3491-501.   \n[11]Gaur T,Lengner CJ,Hovhannisyan H,et al. Canonical WNT signaling promotes osteogenesis by directly stimulating Runx2 gene expression[J].JBiol Chem,2005,280(39): 33132-40.   \n[12]Butler JS,Murray DW,Hurson CJ,et al. The role of Dkk1 in bone mass regulation: correlating serum Dkk1 expression with bone mineral density[J].JOrthop Res,2011,29(3): 414-8.   \n[13]Ohnaka K, Taniguchi H, Kawate H,et al. Glucocorticoid enhances theexpression ofdickkopf-1 in human osteoblasts: novel mechanism of glucocorticoid-induced osteoporosis [J].Biochem Biophys Res Commun,2004,318(1): 259-64.   \n[14]Saupe F, Schwenzer A, Jia Y,et al. Tenascin-C downregulates wnt inhibitor dickkopf-1,promoting tumorigenesis in a neuroendocrine tumor model[J].Cell Rep,2013,5(2): 482-92.   \n[15]Wang B,Liu K,Lin HY,et al.14-3-3Tau regulates ubiquitinindependent proteasomal degradation of p21,a novel mechanism of p21 downregulation in breast cancer[J].Mol Cell Biol, 2010,30(6): 1508-27. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(编辑：吴锦雅）",
+        "page_idx": 5
+    }
+]

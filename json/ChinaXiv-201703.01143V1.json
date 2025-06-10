@@ -1,0 +1,184 @@
+[
+    {
+        "type": "text",
+        "text": "热带滨海红壤中碳钢Q235的宏观非均匀腐蚀研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡杰珍」，邓培昌²\\*，张际标²，高虓，胡欢欢1，刘泉兵³，王贵1(1．广东海洋大学机械与动力工程学院，湛江524088；2.广东海洋大学化学与环境学院，湛江524088；3．广东海洋大学海洋与气象学院， 湛江524088)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用阵列电极技术与腐蚀埋片相结合的方法，以碳钢Q235为研究材料，经自然热带临海红壤埋片，研究了碳钢Q235的宏观非均匀腐蚀行为。碳钢Q235材料在时间维度上和垂直地面的空间维度上皆发生非均匀腐蚀。时间维度上发生非均匀腐蚀的原因是降雨频率与降雨量对土壤湿度的影响，从而影响碳钢Q235材料腐蚀的环境；垂直地面的空间维度上发生非均匀腐蚀的原因是随土壤深度增加，土壤湿度变化、含氧量变化及土壤组成成分差异的影响。在 $_ { 0 - 9 0 \\mathrm { c m } }$ 深度土壤范围内，随土壤深度的增加，碳钢Q235材料的腐蚀速率增加。垂向埋于热带滨海红壤中的长尺寸碳钢Q235材料在30-50、80 和 $1 4 0 { - } 1 5 0 \\mathrm { c m }$ 三个范围内，因电偶腐蚀影响，腐蚀速率较大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：腐蚀；红壤；非均匀；湿度中图分类号：TG174 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Macro Nonuniform Corrosion of Carbon Steel Q235 in Tropical and Coastal Red Soils ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HU Jiezhen1,DENG Peichang ², ZHANG Jibiao ², GAO Xiao ³,HU Huanhuan ¹,LIU Quanbing, WANG Gui 1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. College of Mechanical and Power Engineering, Ocean University of Guangdong, Zhanjiang   \n524088,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. College of Chemistry and Environment, Ocean University of Guangdong, Zhanjiang 524088, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. College of Ocean and Meteorology, Ocean University of Guangdong, Zhanjiang 524088, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The non-uniform corrosion of metal is easy to occur in soils,for the heterogeneity of soils.In this article,the macro non-uniform corrosion (MNC） behavior of carbon steel was researched by the wire beam electrode (WBE) technique and the buried tests.The MNC of carbon steel occurred in the dimension of time and straight space. The MNC of carbon steel, in the time dimension,is due to the change of soil moisture with the change of the rain frequency and,rainfall. The MNC of carbon steel, in the straight space dimension, is due to the change of soil moisture, oxygen content and soil composition with the change of depth.In the range $( 0 { - } 9 0 \\mathrm { c m } )$ of the soils depth,the corrosion rate increased with the increase of the soils depth.In the range $( 3 0 \\mathrm { c m } . 5 0 \\mathrm { c m }$ ， $8 0 \\mathrm { c m }$ and $1 4 0 \\mathrm { c m } { - } 1 5 0 \\mathrm { c m }$ ）of soils depth, the corrosion of long length carbon steel become more severe for the galvanic corrosion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords: Corrosion; Red Soil; Non-uniform; Moisture ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目资助：广东省自然科学基金(2015A030313619)，广东省省级科技计划项目(2016A020225004)，湛江市科技计划项目(2015A02024)，湛江市科技计划项目(2014C01003)资助,  \n作者简介：胡杰珍，女，1978年生，博士，讲师，E-mail：jiezhen0520@163.com，研究方向为热带海洋环境金属腐蚀  \n通讯作者简介：邓培昌，男，1975年生，博士，副教授，E-mail：dpc0520@163.com，研究方向为热带海洋环境金属腐蚀",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤是由气、液、固三相物质构成的多介质胶质体[1，土壤组成与性质复杂多变，不同土壤的腐蚀性差别很大[2]。红壤具有土壤致密、含水量高、含氧量低、pH值低 $( 3 \\sim 5 )$ 、硝酸根离子浓度较高、地温偏高、等特点，是南方酸性土壤的典型代表，主要分布于广东、海南、广西、福建等15个省区，分布面积达 $\\cdot 5 . 7 \\times 1 0 ^ { 5 } \\mathrm { k m } ^ { 2 [ 3 ] }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤腐蚀是材料与制品环境腐蚀研究的重要方向，在土壤介质的作用下所产生的腐蚀破坏，导致巨大的经济损失。发达国家特别重视土壤腐蚀研究，已开展了近百年的研究。我国虽然开展土壤腐蚀研究工作较晚，但也积累了大量的土壤腐蚀数据，在三峡工程、西气东输、西电东送等重大项目的建设与维护方面发挥了重要作用[4.5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于土壤成分的非均匀性，决定土壤中金属易发生非均匀腐蚀。国内外开展了多种因素对土壤中金属腐蚀的影响[6-8]，但是对土壤中金属的非均匀腐蚀研究还不够深入[]。本研究室利用阵列电极技术与腐蚀埋片相结合的方法，以碳钢Q235为研究材料，经自然热带临海红壤埋片，研究了碳钢Q235的宏观非均腐蚀行为，旨在为金属材料防腐蚀设计、运行维护提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究材料为碳钢Q235，分别加工成为：A． $5 0 \\mathrm { m m } { \\times } 2 5 \\mathrm { m m } { \\times } 3 \\mathrm { m m }$ （失重样品）、B.$2 5 \\mathrm { m m } { \\times } 1 5 \\mathrm { m m } { \\times } 3 \\mathrm { m m }$ (腐蚀形貌样品）、C $\\cdot 1 0 \\mathrm { m m } { \\times } 1 0 \\mathrm { m m } { \\times } 3 \\mathrm { m m }$ (电化学测试样品)，并用砂纸逐级打磨至表面光亮、用无水乙醇除油后置于干燥器内备用。电化学测试样品在金属片一面焊接铜导线后，用环氧树脂密封在PVC管之中，裸露未焊接导线的一面，用砂纸逐级打磨，制得电化学测试电极。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在广东海洋大学湖光校区农业试验田中挖掘一深度为 $2 . 0 \\mathrm { m }$ 、宽度 $1 . 0 \\mathrm { m }$ 、长度 $1 . 5 \\mathrm { m }$ 的坑。如图1所示埋样，在该埋样坑的 $2 . 0 \\mathrm { m } { \\times } 1 . 5 \\mathrm { m }$ 的垂直面上，从地面向下间隔 $3 0 \\mathrm { c m }$ 分别埋置2个失重样品、2个形貌样品、2个电化学测试样品；从地面向下间隔10cm埋置1个电化学样品、共埋置15个电化学测试样品，并用铜导线把各电化学测试样品连接。样品安置好后，回填土壤。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤中埋样一定时间后，挖开埋样坑，取回间隔 $3 0 \\mathrm { c m }$ 埋置的样品，进行失重测量、形貌观察、电化学测试；间隔 $1 0 \\mathrm { { c m } }$ 埋置的电化学样品在现场进行电偶电流测试。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "埋样前，失重样品经丙酮除油，乙醇脱水，放入干燥器中干燥 24h后，称重 ${ \\bf m } _ { 0 }$ 。土壤埋样一定时间后，取出试样，除锈、蒸馏水冲洗、吹干、干燥器中放置 $2 4 \\mathrm { h }$ 后，称重 $\\mathrm { ~ m ~ }$ 。根据下式计算年腐蚀速率：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu = \\frac { 8 7 6 0 \\ : \\mathrm { { h / a } \\times 1 0 \\ : \\mathrm { { m m / c m } \\times ( m g \\cdot m _ { 0 } \\ : g ) } } } { \\mathrm { { s \\ : c m ^ { 2 } \\times \\rho 7 . 8 5 g / c m ^ { 3 } \\times t \\ : h } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤埋样一定时间后，取出形貌样品，用蒸馏水冲洗试样表面的泥土，然后用无水乙醇脱水，用数码体式显微镜观察试样形貌；另一试样，经除锈、蒸馏水冲洗、无水乙醇脱水，在数码体式显微镜下观察试样形貌。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cd3260357774b236b0ab87d386103e8cddecdc3a66072f56e7dc0d64799a82d.jpg",
+        "img_caption": [
+            "图1土壤埋样示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig1 the schematic of buried steel samples in soil ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤埋样一定时间后，取出电化学测试样品，小心用蒸馏水冲洗试样表面的泥土。以$3 . 5 \\%$ NaCI溶液为电介质，以电化学测试试样为工作电极、 $2 \\mathrm { c m } { \\times } 2 \\mathrm { c m }$ 铂网电极为对电极、饱和甘汞电极为参比电极构成三电极测试体系，用Autolab 电化学工作站，进行线性极化测试（LP）。线性极化测试中，电位扫描范围为相对开路电位 $[ - 1 5 \\ \\mathrm { m V } , + 1 5 \\ \\mathrm { m V } ]$ 、电位扫描速率为 $0 . 0 1 6 6 7 \\mathrm { m V / s }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤埋样一定时间后，挖出土壤、露出原埋样面，用武汉科斯特C350 电化学工作站的电化学噪声测试功能，在现场测试电极与其它电极之间的电偶电流。测试中以 $\\mathrm { C u / C u S O _ { 4 } }$ 电极作为参比电极，以图1中、左侧的15 个电极中的任一电极为工作电极1、其余 14 个电极共同作为工作电极2，测试60s后，更换工作电极1，直到15 个电极全部测完。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1不同深度土壤中碳钢Q235的腐蚀失重 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1为不同深度土壤中的碳钢Q235 样品 30-150d的失重数据，图2为碳钢Q235的平均腐蚀速率与土壤深度关系图。由表1 和图 2 及湛江土壤湿度季节变化规律对比分析可以发现：湛江各层土壤湿度1月中旬为最低值，4月上旬以后随着降水的增多土壤湿度逐步上升，至11月上旬达最高值，11月中旬以后土壤湿度逐步下降。 ${ \\mathfrak { s } } \\sim { \\mathrm { 1 1 } }$ 月上旬各层土壤湿度均维持在高值水平，11月上旬土壤湿度为全年最大值；11月中旬 ${ \\sim } 1 2$ 月下旬， $0 \\sim$ $1 0 \\mathrm { c m }$ 与 $1 0 { \\sim } 3 0 \\mathrm { c m }$ 土壤湿度迅速下降， $3 0 { \\sim } 5 0 \\ \\mathrm { c m }$ 土壤湿度也逐步减小[10]。本实验起始于2015 年9月份，在11月份之前，碳钢Q235的年平均腐蚀速率逐渐增加，11月份以后，年平均腐蚀速率逐渐降低。碳钢Q235 的年平均腐蚀速率变化规律与土壤湿度的变化规律一致，土壤湿度是影响碳钢Q235 腐蚀的重要因子。热带滨海红壤中的碳钢Q235的腐蚀呈现时间维度上的不均匀性。随着土壤深度的增加，碳钢Q235 的年平均腐蚀速率呈现逐渐增加的趋势。湛江土壤属于砖红壤，该种土壤水分渗透快、透气性好、氧气充足，影响碳钢 Q235 腐蚀的主要因素仍然是土壤湿度，因此随土壤深度的增加、土壤含水率逐渐增加，碳钢 Q235 的年平均腐蚀速率也呈现逐渐增加的趋势。热带滨海红壤中的碳钢Q235 的腐蚀呈现垂直地面方向上的不均匀性。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a29b382a613d52c639e5d7114339fddda264f2691cc890677af8da3c773f0bfa.jpg",
+        "table_caption": [
+            "表1.30d不同深度土壤中碳钢Q235的腐蚀失重 ",
+            "Table 1 the corrosion weightlessness of Q235 carbon steel samples at 3O days in soil "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample Number</td><td>Burial Depth (cm)</td><td>Burial Time (day)</td><td>Corrosion Weightlessn ess</td><td>Corrosion Rate (mm/a）</td><td>Average Corrosion Rate ( mm/a )</td></tr><tr><td>A1-a</td><td>30</td><td></td><td>(g) 0.1303</td><td>0.06846</td><td>0.07332</td></tr><tr><td>A1-b</td><td rowspan=\"2\"></td><td></td><td>0.1488</td><td>0.07818</td><td rowspan=\"2\"></td></tr><tr><td>B1-a</td><td></td><td>0.0895</td><td>0.047023</td></tr><tr><td>B1-b</td><td rowspan=\"2\">60</td><td rowspan=\"2\">30</td><td>0.1181</td><td>0.06205</td><td rowspan=\"2\">0.05454</td></tr><tr><td>C1-a</td><td>0.1749</td><td>0.091892</td></tr><tr><td>C1-b</td><td rowspan=\"2\">90</td><td></td><td>0.1947</td><td>0.102295</td><td rowspan=\"2\">0.09709</td></tr><tr><td>D1-a</td><td></td><td>0.1769</td><td>0.092943</td></tr><tr><td>D1-b</td><td rowspan=\"2\">120</td><td></td><td>0.1616</td><td>0.084905</td><td rowspan=\"2\">0.08892</td></tr><tr><td>E1-a</td><td></td><td>0.2235</td><td>0.117427</td></tr><tr><td>E1-b</td><td rowspan=\"2\">150</td><td></td><td>0.1707</td><td>0.089686</td><td rowspan=\"2\">0.10356</td></tr><tr><td>A2-a</td><td></td><td></td><td></td></tr><tr><td></td><td rowspan=\"2\">30</td><td rowspan=\"6\">60</td><td>0.3911</td><td>0.10274</td><td rowspan=\"2\">0.074776</td></tr><tr><td>A2-b</td><td>0.1782</td><td>0.046812</td></tr><tr><td>B2-a</td><td rowspan=\"2\">60</td><td>0.0718</td><td>0.018861</td><td rowspan=\"2\">0.150103</td></tr><tr><td>B2-b</td><td>1.071</td><td>0.281345</td></tr><tr><td>C2-a</td><td rowspan=\"2\">90</td><td>0.6833</td><td>0.179499</td><td rowspan=\"2\">0.175007</td></tr><tr><td>C2-b</td><td>0.6491</td><td>0.170515</td></tr></table></body></html>",
+        "page_idx": 3
+    }
+]

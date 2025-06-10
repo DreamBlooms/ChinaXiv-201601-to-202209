@@ -1,0 +1,208 @@
+[
+    {
+        "type": "text",
+        "text": "Volumetric variation confinement: surface protective structure for high cyclic stability of lithium metal electrodes† ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhe Peng, Shuwei Wang, Jingjing Zhou, Yan Jin, Yang Liu, Yinping Qin, Cai Shen,\\* Weiqiang Han\\* and Deyu Wang\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A surface protective structure to efficiently improve the cyclic stability and lifetime of the lithium metal electrode is investigated.Byvolumetrically confining plated lithium metal in the inter-space of a ceramic porous layerand isolating the confined lithiumvia areinforced skin-layer fromattack by electrolyte solvents,the coulombic efficiency of the protected lithium metal electrode reachesvery high values of $\\sim 9 7 - 9 9 \\%$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li metal is an ideal anode material for high-energy secondary batteries owing to its ultrahigh capacity ( $3 8 6 0 \\mathrm { \\ m A h \\ g ^ { - 1 } }$ and the lowest reduction potential $\\left( - 3 . 0 4 \\mathrm { ~ V ~ } \\right.$ vs. S.H.E.).1,² It had been employed in commercial rechargeable batteries of $\\mathbf { L i - M S } _ { 2 }$ (M: Ti,Mo) since before the 1990s.³ However,this type of battery was quickly obsolete and removed from the market due to the serious risk of battery explosions caused byLi dendrites internally shorting the cell.4 Since then,carbonaceous materials, which only havea tenth of the theoretical capacity ofLi metal, were widely adopted as anodes to construct a much safer system,namely the prototype of Lithium Ion Batteries (LIBs). After decades of development since its commercialization in 1991by Sony, the energy density ofLIBs is nowadaysclose to its upper limitation,( $: a . \\ 3 0 0 \\ \\mathrm { W } \\ \\mathrm { h } \\ \\mathrm { k g } ^ { - 1 }$ ,taking into account all the established advanced materials in each component.Therefore Li metal regained its paramount role under the spotlight of the scientific community and industry,with the aim to further raise the energy density of rechargeable batteries. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The strategies to prevent internal short-circuit of Li metalbased batteries have been the subject of considerable efforts due to the overwhelming impact of the safety concerns.To date, rigid membranes,such as polymer and ceramic electrolytes, were considered as the most representative approaches to address this drawback. These types of technologies were developed for probable applications，especially in electric vehicles,by some pioneering companies,such as SEEO,Polyplus,and Bolloré.However,their commercialization progress was unsatisfactorily delayed due to the strict working conditions and/or low cost-effectiveness.5-8 Recently a novel approach to utilize the competitive adsorption of alkali ions $( \\cos ^ { + } , \\mathbf { R b } ^ { + } )$ has presented remarkable effectiveness in suppressing the dendrite growth.9,10 These results demonstrated the suitable morphological controllability of the lithium growth with appropriate remedies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Besides the dendrite growth,another hurdle to be conquered is the massive lithium loss per cycle due to the strong reduc ibility of lithium metal,which chemically reduces the electrolyte solvents.1,12 Although this challenge is not directly linked to the serious safety risk,the continuous loss of lithium source persistently limited the electrode lifetime.To address this drawback，variouselectrolyte additiveswerescreened to construct the stable Solid Electrolyte Interphase (SEI) layers.13-18 However,the investigated surface layers suffer from limited mechanical strength and cannot provide stable isolation of lithium from the attack of solvents in dynamic conditions. Recently,it has been reported by Cui et al.that the coulombic efficiency could be significantly improved via a nano-structured layer coating on the Li metal surface.19-21 However,it requires special and delicate preparative conditions,such as nano-scale coating，in order to establish a suitable structure of the protective layers in good contact with lithium. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In our opinion,the huge volumetric variation,particularly on the surface,is the special challenge of Li metal anodes,when compared to graphite.The large volumetric change of the Li metal anode during cycling can easily tear the state-of-the-art SEIlayer,which can tolerate ${ \\sim } 1 0 \\%$ volumetric variation as in a graphite anode and enables an operating lifetime of thousands of cycles.After cracks develop in the SEI layers，the electrolyte solvents can easily permeate across the fissures and chemically react with lithium metal to produce ${ \\bf R O C O } _ { 2 } { \\bf L i } _ { 2 }$ RCOOLi and ROLi species in corresponding electrolytes in both plating and dissolution processes,as shown in Scheme 1a.22-25 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(a) Bare system   \nSEI layer ↑↑↑↑↑i\\* Li metal Li metal Limetal Li metal Repeated Lideposition/dissolution   \n(b)Modified system   \n(porous+skin layers)   \nSEI layer ↑↑↑↑↑i ↓↓↓↓Li+   \n00000000000 8mma8 OYOYOIOYOY ? aaagggga ax imetal metal imetal Limetal Limetal   \nAlOparticle ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These side reactions consume large amounts of lithium,and seriously deteriorate the surface homogeneity，which may facilitate the dendrite growth.Therefore,the confinement of the surface volumetric change during Li cycling should be a promising direction to improve the adaptability of the Li metal anode insecondarybatteries. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Based on the aforementioned strategy,we develop a novel protective structure to keep lithium metal from the attack of solvents.This protective structure consists of a ceramic porous layer,which provides an inter-space to confine lithium growth and a reinforced skin-layer to improve the mechanical tolerance of the surface protective structure (Scheme 1b). In this work, $\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }$ is used as the backbone material of the porous layer due to its good chemical stability with lithium.26,27 Various electrolyte additives are explored to check their feasibility to form the reinforced skin-layer in our system.It should be noted that the carbonate-based electrolyte was investigated in thiswork,insteadof the ether-based electrolyte exhibiting much better stability with lithium,28-31 to explore the possibility to replace the graphite anode with lithium metal in LIBs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4770dfc589a21b28cc1e46d15eb795e3bbfd3b8cc05bb7a786bc8ba8b2624a3b.jpg",
+        "img_caption": [
+            "Scheme 1 Volumetric surface variation during repeated Li deposition-dissolution in (a) unprotected system with state-of-the-art SEl layers and (b) protected system with the volumetric confining surface layer (porous $^ +$ skin layers). ",
+            "Fig.1Cycling performances of CulLi cells.(a) Voltage profiles of the 1st cycle. (b) Coulombic efficiencies with current density of $0 . 5 ~ \\mathsf { m A }$ （204号 $\\mathsf { c m } ^ { - 2 }$ .The amount of Li plated in each cycle is $1 \\mathsf { m A h c m } ^ { - 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The investigated systems are electrochemically evaluated in Cu|Li cells.As shown in Fig.1a,the bare Cu electrode with regular electrolyte $( 1 \\mathrm { M L i P F } _ { 6 }$ in $1 : 1$ ethylene carbonate,EC and dimethyl carbonate,DMC) exhibits very poor coulombic efficiency in the 1st cycle;as low as ${ \\sim } 6 5 \\%$ . The lost lithium should be consumed in the chemical reactions with carbonate solvents, and accumulated on the copper surface as the coral-shape species shown by Scanning Electron Microscopy (SEM) (Fig. 2a). The side reactions continuously took place during cycling and led to drastic dendrite growth (Fig. 2b and c) and very poor performances (average coulombic efficiency of $4 7 \\%$ for 50 cycles,Fig.1b).The electrode containing the porous layer tested with the regular electrolyte presents improved coulombic effciency in the first cycle, ${ \\sim } 7 8 \\%$ .The absence of rod-shape species on the surface demonstrates that lithium should have been deposited in the inter-space of the porous layer (Fig.2d). However,it seems that the lack of mechanical tolerance caused cracks in the porous layer and inner dendrite growth (Fig.S1†) as well as a capacity drop (average coulombic efficiency of $5 9 \\%$ for 50 cycles,Fig.1b) upon cycling. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Toimprove the mechanical resistance and protective isolating effect of the skin-layer,various additives (vinylene carbonate,VC,fluoroethylene carbonate,FEC and hexamethy lenediisocyanate,HDI) are explored for their compatibility in the system of Cu electrodes containing porous layers (Fig. S2at). For an addition of $3 0 0 ~ \\mathrm { { m M } }$ additive in the regular electrolyte,all the used additives raise the first-cycle efficiency up to ${ \\sim } 9 0 \\%$ which is close to that for graphite materials.However,only FEC achieved an average efficiencyashighas $9 7 . 6 \\%$ stable for over 50 cycles ( $8 2 \\%$ for VC and $2 2 . 4 \\%$ for HDI).The poor performances with HDI are probably due to the low ionic conductivity of its reduced products in the SEI layer (obviously increased over-potential on the charge-discharge profiles，Fig. $\\mathbf { S } 2 \\mathbf { b } \\dagger .$ ）， while the difference in coulombic efficiency between VC and FEC should be related to the mechanical properties of the skinlayers,as discussed in the next paragraph.It should be noted that only utilizing optimized electrolytes (FEC in regular electrolyte) with the bare copper electrode cannot achieve the high coulombic efficiency obtained in the presence of the porous layer.For example,the coulombic efficiency quickly dropped from $8 8 \\%$ in the 1st cycle to $3 5 \\%$ in the 50th cycle,with an average efficiency of $78 \\%$ (Fig.1b),indicating that the use of FEC significantly improve the mechanical tolerance of the SEI layer,however,itis incapable of hindering the heterogeneous Li growth underneath the skin-layer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The difference in electrochemical performance between the systems with various additives should be related to the structural stability of the skin-layers (SEIlayers).Since few studies existwhich probe the mechanical strength of the SEI layer at micro-scale, here we employ Atomic Force Microscopy (AFM) to examine the difference in their SEI layer stability.Fig.3 shows the SEI layers obtained from various electrolytes.It clearly shows that the SEI layers formed in FEC and VC-based electrolytesweredenserand thicker than these formed in ECand HDI-based electrolytes.A careful look revealed that the SEI layers from EC and HDI-based electrolytes were composed of loose precipitates (Fig.3a and d); while the SEI layers from FEC and VC-based electrolytes were composed of rod-like structures (Fig.3b and c).In order to semi-qualitatively analyse the difference in their SEI layer stability,we used the AFM tip to scratch the SEI layers.Itwas found that the SEI layers formed in EC (Fig.4a) andHDI-based electrolytes can be easily scraped off by the AFM tip under contact mode (typical imaging conditions, for example $_ { \\mathrm { ~ 2 ~ V ~ } }$ of vertical deflection signal of the photo detector) after one or two scans.The SEI formed in the VC-based electrolyte is much more stable than those formed in EC and HDI-based electrolytes；however，after repeating scans( ${  }$ scans) by the AFM tip under contact mode (5 V of vertical deflection signal of the photo-detector),the SEI layers can still be scraped off (Fig. 4b).One should note that the SEI layers formed in the FEC-based electrolyte is very stable and cannot be scraped off at all, even when maximal force was applied (Fig. 4c and d).This optimal mechanical feature also contributed to the structural stability of the whole protective structure upon cycling (Fig.2e and f).As shown in the cross-section of the disassembled electrode after cycling (Fig. $2 \\mathrm { g }$ and h),no layer cracks and inner dendriteswere found.The deposedLi metal was effectively confined in the porous layer $( \\sim 2 5 \\mu \\mathrm { m } )$ in smooth powder form,which filled the initial void space of the porous layer (Fig.2i).Reciprocally, the SEI layer growing on the porous layer suffered much less mechanical pressure from the implies that the lithium metalis well protected from the attack of electrolyte solvents by our optimal system.One should note that this is the first time MPMS has been used to probe the Li metal quantity in an isolated space. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba6e81909a4cd95a947febab2c4e0a4b630081e586bbeb0a1e9356beb3af6b37.jpg",
+        "img_caption": [
+            "Fig.2SEMimagesofthedendriteformationonthebareCuelectrodeafterthest(a)and5Othcycle(bandc).Topviewoftheporouslaern theCuelectrodefterthestcycle(dandafterthe5thcycleinaddtionofFEC(eandf.CrosssectinviewofteporouslyeroteCu electrodeafter the5Oth cycleis shown in(g) withamplified zonein(h),and itsinitial state before cycling in (i). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa1e3650c593c1580b1a88a951be08d921eab434ca82eca520ee20e21854ae9c.jpg",
+        "img_caption": [
+            "Fig.3AFMimages of SEl layers formed in (a) EC,(b) FEC,(c) VC,and (d) HDl-based electrolytes.Scale bar: $1 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a59a244a16ea2c529af2d92d9707ecf5ced94e21ca4f45846020bca5af9e9622.jpg",
+        "img_caption": [
+            "Fig.4Scratched patterns result from the SEl layers formed in (a) EC and (b) VC-based electrolytes. Scale bar: $2 ~ { \\mu \\mathrm { m } }$ .SEl layers formed in FEC-based electrolyte before (c) and after (d) the scratch.Scale bar: 1 μm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "smoothly confined Li metal.As a consequence,both the Li metal confined in the porous layer and deposed underneath can be efficiently protected by the stable SEI layer for a long period of cycling. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To confirm the metallic state of deposited lithium in our optimal system,the protected electrodes with different depths of lithium deposition were evaluated by Magnetic Properties Measurement System (MPMS),since in the electrode constitution,only lithium metal is paramagnetic and all the other components are diamagnetic (Table S1t).As shown in Fig. $^ { \\mathbf { S } 3 \\dagger }$ and Fig.5,the magnetic susceptibility of deposited lithium (by subtracting the magnetic susceptibility of the charged electrode by that of the discharged electrode) of the electrodes almost presented a linear relationship with the deposited lithium amount. It is worth noting that the magnetic susceptibility of a pure lithium foil also obeyed this linear relationship.It ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To better understand the improved performances by the use of our protective structure,a Li|Li symmetrical cell was cycled within a voltage window of $- 0 . 5$ to $0 . 5 { \\mathrm { ~ V ~ } }$ with a current density of $2 . 1 2 5 \\mathrm { \\ m A \\ c m } ^ { - 2 }$ . As shown in Fig. 6a, the bare system only cycles for $^ { 8 \\mathrm { ~ h ~ } }$ before the polarization rises to $\\pm 0 . 5 { \\mathrm { ~ V } } .$ The Electrochemical Impedance Spectroscopy (EIS) results indicate that the interfacial charge-transfer resistance, $R _ { \\mathrm { i } }$ ，wasquickly augmented to $1 2 0 \\Omega \\mathrm { c m } ^ { 2 }$ at the end of the test (Fig.6b). Combined with our SEM images,the accumulated products originating from the side reactions between lithium and solvents should impede the charger transfer (Fig.2b and c).In contrast,our optimal system has worked for more than $1 6 0 \\mathrm { ~ h ~ }$ ${ \\sim } 2 0$ times longer than the unmodified system.Different from the control sample,it presents a low and stable interfacial charge-transferresistance,whichis stabilized at $\\sim 8 \\ \\Omega \\ \\mathrm { c m } ^ { 2 }$ for ${ \\sim } 1 4 0 \\mathrm { ~ h ~ }$ and slowly augmented to $\\sim 1 8 \\Omega \\ \\mathrm { c m } ^ { 2 }$ ，in the whole testing period．However， the bulk resistance， $R _ { \\mathrm { b } }$ ，slowly increased after $4 0 \\mathrm { ~ h ~ }$ 1 $( 2 0 \\Omega \\cos ^ { 2 } )$ then accelerated to grow in size from $^ { 1 1 0 \\mathrm { ~ h ~ } }$ $\\left( 2 4 . 3 \\ \\Omega \\ \\mathrm { c m } ^ { 2 } \\right)$ to $^ { 1 6 0 \\mathrm { ~ h ~ } }$ $( 4 5 \\ \\Omega \\ \\mathrm { c m } ^ { 2 } )$ .In ouroptimal ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "llieeeegeebe 200 Experimental data   \n150 -·LinearFitofMagnetic Moment 100   \n50   \n0   \n0.0 2.5 5.0 7.5 10.0 Deposited lithium capacity (mAh) ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a60e2d0aa66bc025082710d9bed41d4d82735bbe4d693f796a60d48ecf05d06c.jpg",
+        "img_caption": [
+            "Fig.5 Magnetic susceptibility of the deposited metal lithium in the inter-space of the porous layer; the point at $1 0 \\mathsf { m A h }$ corresponds to a reference measured with a Li foil. ",
+            "Fig.6Cycling tests of LilLi cells. (a) Voltage profiles versus cycling time.(b) Interfacial charge-transfer resistance, $R _ { \\mathrm { i } }$ and bulk resistance, $R _ { \\mathrm { b } }$ during cycling times.The calibration of bulk resistance, $R _ { \\mathrm { b } }$ versus electrolyte volume is shown in (c).The estimated electrolyte volumes before and after cycling in the protected system are shown by red points. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "system, the rising polarization should be related to the depletion of electrolyte.According to the coulombic efficiency $( \\sim 9 7 \\% )$ of the protected Cu|Li cell, $2 - 3 \\%$ plated lithiumreacted with the solvents during each cycle.Consequently,the theoretical consumption of electrolyte is calculated to be ${ \\sim } 2 9 . 5 ~ \\mu \\mathrm { L }$ (i.e.the remaining volume of electrolyte is ${ \\sim } 4 0 . 5 ~ \\mu \\mathrm { L } ,$ at the end of cycling.By calibrating the $R _ { \\mathrm { b } }$ values as a function of electrolyte volume (Fig.6c),we find that the initial and final values of $R _ { \\mathrm { b } }$ (10 and $4 5 \\ \\Omega \\ \\mathrm { c m } ^ { 2 \\cdot }$ )in the protected system separately correspond to $6 8 . 8 ~ \\mu \\mathrm { L }$ with $3 4 \\mu \\mathrm { L }$ remaining respectively (i.e.a loss of $3 4 . 8 ~ \\mu \\mathrm { L }$ during cycling).These results show that a very small consumption of plated lithium in side reactions still exists even inthe optimallyprotected system.Thus,further improvement on cyclic stability should be emphasized on the quality of the surface protective layer. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Finally, the effect of the optimal protective system was evaluated in $\\mathrm { C u } | \\mathrm { L i F e P O } _ { 4 }$ cells (Fig. S4†).The cellswere tested under $0 . 2 \\mathrm { ~ C ~ }$ rate $\\left( 0 . 1 \\mathrm { \\ m A \\ c m ^ { - 2 } } \\right)$ ）between3and $_ { \\mathrm { ~ 4 ~ V ~ } }$ .The protected system exhibited a coulombic efficiency of $7 4 . 5 \\%$ for the 1st cycle,corresponding to $0 . 2 6 \\mathrm { \\ m A h }$ lithium and $0 . 8 ~ \\mu \\mathrm { L }$ solvent consumed to build the skin-layer,which is consistent with that of the Cu|Licell (consumption of ${ \\sim } 0 . 2 2$ mAh lithium and $0 . 7 \\mu \\mathrm { L }$ solvent).The average coulombic efficiency was ${ \\sim } 9 7 . 5 \\%$ from the 2nd to the 5oth cycle (Fig. S4ct),which is also similar to that of the Cu|Li cell.Since the amount of lithium is limited,the discharge capacities slowly dropped from112.1 mAh $\\mathrm { g } ^ { - 1 }$ at the first cycle to111.6 and $9 5 . 6 \\mathrm { ~ m A h ~ g ^ { - 1 } }$ at the 20th and 30th cycles, and attained $3 3 . 6 \\mathrm { \\ m A h \\ } \\mathrm { g } ^ { - 1 }$ at the 50th cycle (Fig. S4bt). In contrast, the capacity of the control system plummeted from 151.3 to $3 0 . 6 \\mathrm { \\ m A h \\ g ^ { - 1 } }$ in the first charge-discharge cycle and further dropped to 4.1 mAh ${ \\mathrm { g } } ^ { - 1 }$ in the 3rd cycle (Fig. S4at). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We have demonstrated a novel method to protect lithium electrodes from attack by electrolyte solvents.The synergetic effect of the porous layerand reinforced skinlayers forming the protective structure allows the isolation of the smoothly confined Li inside the porous space located at the Li metal surface.The resulting coulombic efficiency could reach an average value of $9 7 . 5 \\%$ over more than 50 cycles,even when usinghighly reactive carbonate-based electrolyte.This simple and efficient protective structure could provide a novel approach to develop the promising rechargeable Li metal batteries.Further work to match the detailed porous structure to the efficiency in Li metal protection will be investigated by our group,with the aim of revealing an optimal porous structure to maximize the protective efficiency in keeping a minimal space occupied by the porous layer.The optimized structure is expected to achieve a more practical application in battery systems. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the 863 project (Grant No. 2013AA050906)， the“Strategic Priority Research Program\" (Grant No.XDA09010403 and XDA01020304) and Hundred ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Talents Program of the Chinese Academy of Sciences, Zhejiang Province Key Science and Technology Innovation Team (Grant No.2013PT16).Cai Shen thanks the financial support from the Youth Innovation Promotion Association，CAS,and SRF for ROCS,SEM.Zhe Peng thanks the financial support from the China Postdoctoral Science Foundation funded project (Grant No.2015M570530). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Notes and references ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1 P.G.Bruce，S.A. Freunberger，L.J. Hardwick and J. M.Tarascon,Nat. Mater.,2012,11,19.   \n2 C. X. Zu and H. Li, Energy Environ. Sci., 2011,4, 2614. $^ 3 \\textbf { M }$ 、Broussely,P.Biensan and B. Simon,Electrochim. Acta, 1999, 45, 3. 4 M.S.Whittingham,Proc.IEEE,2012,100,1518. $^ \\mathrm { ~ 5 ~ R ~ }$ ，Murugan，V. Thangadurai and W. Weppner， Angew. Chem., Int. Ed.,2007,46,7778.   \n6 N.Kamaya，K.Homma，Y. Yamakawa，M.Hirayama, R. Kanno,M. Yonemura, T. Kamiyama, Y. Kato, S. Hama, K.Kawamoto and A.Mitsui,Nat.Mater.,2011,10,682.   \n7 R.Bouchet, S.Maria,R.Meziane,A.Aboulaich,L. Lienafa, J.P．Bonnet，T.N．T.Phan，D.Bertin，D．Gigmes, D.Devaux,R.Denoyel and M.Armand,Nat. Mater.,2013, 12, 452.   \n8 R. Khurana, J. L. Schaefer,L. A. Archer and G. W. Coates,J. Am. Chem. Soc.,2014,136,7395.   \n9 F. Ding,W. Xu,G. L. Graff,J. Zhang, M. L. Sushko, X. Chen, Y. Shao,M.H. Engelhard, Z.Nie,J. Xiao,X. Liu,P.V.Sushko, J. Liu and J. G. Zhang,J. Am. Chem. Soc., 2013,135, 4450.   \n10 Y． Zhang,J.Qian，W. Xu， S. M. Russell，X. Chen, E.Nasybulin,P.Bhattacharya,M.H.Engelhard,D.Mei, R. Cao,F. Ding, A. V. Cresce, K. Xu and J. G. Zhang, Nano Lett.,2014,14,6889.   \n11 M.Winter,W.K. Appel, B. Evers,T. Hodal, K. C.Moller, I. Schneider, M. Wachtler, M. R. Wagner, G. H. Wrodnigg andJ.O.Besenhard,Monatsh.Chem.,2001,132,473.   \n12 E.Peled,J. Electrochem. Soc.,1979,126,2047.   \n$^ { 1 3 \\mathrm { ~ M ~ } }$ 、 Ishikawa， S. Machino and M. Morita, J. Electroanal. Chem.,1999,473,279.   \n14 R.Mogi，M. Inaba，S.K. Jeong，Y. Iriyama,T. Abe and Z. Ogumi,J. Electrochem. Soc.,2002,149,A1578.   \n15 M. Ishikawa, H. Kawasaki, N. Yoshimoto and M. Morita, J. Power Sources,2005,146,199.   \n16 S.Yoon,J. Lee, S. O.Kim and H. J. Sohn, Electrochim. Acta, 2008,53,2501.   \n17K.Kubota and H. Matsumoto,J. Electrochem. Soc.,2014,161, A902.   \n18 J. Jeong, J. N. Lee, J. K. Park, M.H. Ryou and Y. M. Lee, Electrochim. Acta,2015,170,353.   \n19 G. Zheng, S.W. Lee, Z. Liang,H. W. Lee,K. Yan, H. Yao, H. Wang,W. Li, S. Chu and Y. Cui, Nat. Nanotechnol., 2014, 9, 618.   \n20 K. Yan, H. W. Lee,T. Gao, G. Zheng, H. Yao, H. Wang, Z. Lu, Y. Zhou, Z. Liang,Z. Liu, S. Chu and Y.Cui, Nano Lett., 2014, 14, 6016.   \n21 Z. Liang, G. Zheng,C. Liu,N. Liu, W. Li, K. Yan,H. Yao, P. C.Hsu, S.Chu and Y.Cui, Nano Lett.,2015,15,2910.   \n22 L． Gireaud， S.Grugeon， S. Laruelle，B. Yreixand J.M.Tarascon,Electrochem. Commun.,2oo6,8,1639.   \n23 Y.S.Cohen,Y.Cohen and D.Aurbach,J.Phys. Chem.B,2000, 104,12282.   \n24D.Aurbach,J.Power Sources,20oo,89,206.   \n25D.Aurbach,E.Zinigrad,Y.Cohen andH.Teller,Solid State Ionics,2002,148,405.   \n26J.Cho,Y.J.Kim and B.Park,Chem. Mater.,2000,12,3788.   \n27S.T.Myung,K.Izumi,S.Komaba,Y.K.Sun,H.Yashiro and N.Kumagai, Chem. Mater.,2005,17,3695.   \n28 M.S.Park,S.B. Ma,D. J. Lee,D. Im，S.G. Doo and O.Yamamoto, Sci. Rep.,2014,4, 3815.   \n29 R. Miao,J. Yang,X.Feng,H. Jia,J. Wang and Y. Nuli,J. Power Sources,2014,271,291.   \n30 J.Qian，W．A.Henderson，W.Xu，P.Bhattacharya, M.Engelhard,O.Borodin and J.G. Zhang,Nat. Commun., 2015,6,6362.   \n31 W. Li,H. Yao, K. Yan, G. Zheng, Z. Liang, Y. M. Chiang and Y. Cui, Nat. Commun.,2015,6,7436. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

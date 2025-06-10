@@ -1,0 +1,167 @@
+# 广西喀斯特地区毛唇芋兰根内与根际土壤真菌
+
+# 群落组成分析
+
+谭小明」，杨鑫凤1，孙雪萍1，周雅琴 $^ { 1 , 2 ^ { * * } }$ ，胡世一1，袁长格1，石忠衡1（1．广西中医药大学，南宁530200；2.广西药用植物园，南宁530023）
+
+摘要：为探索兰科（Orchidaceae）植物毛唇芋兰（Nervilia fordii）根中和根际土壤真菌群落多样性，本研究采用 llumina MiSeq 高通量测序技术，分析了大新（DX）和龙州（LZ）两个样地毛唇芋兰根中和根际土壤的真菌组成。结果表明：（1）两个地区的毛唇芋兰根中和根际土壤真菌多样性很丰富，根际土壤真菌多样性均高于根中，主根的真菌多样性高于走茎;（2）通过测序总共获得有效序列118040条，207个可操作分类单元（OTUs）涉及8门19纲42目86科123属；（3）担子菌门（Basidiomycota）真菌是两地毛唇芋兰根中真菌的共同优势菌群，涉及胶膜菌科（Tulasnellaceae）、Trimorphomycetaceae、角担菌科（Ceratobasidiaceae）、马拉色菌科（Malasseziaceae）和小皮伞科（Marasmiaceae）等，其中，优势科和优势属分别是胶膜菌科（ $7 5 \%$ ）和瘤菌根菌属（Epulorhiza）（ $56 \%$ ）；然而，土壤中的优势菌属则是镰刀菌属（Fusarium）。综上结果表明,毛唇芋兰根中菌群与根际土壤中的优势菌群差异显著，但也存在一些共同的OTUs；同时，本研究结果也暗示 Epulorhiza真菌可能对毛唇芋兰种子萌发和种苗生长发育产生至关重要的影响。
+
+关键词：毛唇芋兰，菌根真菌，高通量测序，真菌多样性，Funguild
+
+# Analysis of fungal communities in roots and root-associated
+
+# soil of Nervilia fordii from karst areas of Guangxi
+
+TAN Xiaoming1, YANG Xinfeng1, SUN Xueping1, ZHOU Yaqin1' 2\*, HU Shiyi1, YUAN Changgel, SHI Zhongheng1
+
+(1. Guangxi University of Chinese Medicine, Nanning, 530200, China; 2. Guangxi Botanical Garden ofMedicinal Plant, Nanning, 53o023, China)
+
+Abstract: To explore the fungal diversity and communities in the roots of Nervilia fordii as well as in the root-associated soil, we collected the terrestrial orchids grown in Daxin (DX) County and Longzhou (LZ) County of the karst areas in Guangxi Zhuang Autonomous Region, China as well as the root-associated soil, respectively. We analyzed the composition of fungal communities in the roots and the root-associated soil by taking the Illumina miseq high-throughput sequencing technology.The results were as follows: (1)The fungal diversity in the roots and root-associated soil of DX and LZ were very rich. In addition,the diversity of fungi in root-associated soil were higher than that in roots,and the fungal diversity in the taproot were higher than that in walking stem. (2) A total of 118 O40 valid sequences and 207 operational classfication unites (OTUs) were obtained. The BLAST results showed these OUTs involved 8 phyla,19 classes,42 orders,86 families and 123 genera. (3) The dominant fungal communities in roots of two areas (DX & LZ) both were Basidiomycota including Tulasnellaceae, Trimorphomycetaceae, Ceratobasidiaceae and Malasseziaceae as well as Marasmiaceae.Among them, Tulasnellaceae $( 7 5 \% )$ and Epulorhiza (Sexual type: Tulasnella) ( $( 5 6 \% )$ were the common dominant family and genus,respectively. However, Fusarium was the dominant fungal genus in the root-associated soil. The results indicate that although there is a significant diference in fungal communities between roots and root-associated soil,but there is some common OTUs. More importantly, our results also suggest that these fungi species belonging to Epulorhiza may play an important effect on the seed germination and seedling growth of Nervilia fordii grown in the karst area of Guangxi.
+
+Key words: Nervilia fordii, mycorrhizal fungi, high-throughput sequencing, diversity of fungi, Funguild
+
+毛唇芋兰（Nervilia fordii）为兰科狭域分布植物，又名青天葵、独脚莲、珍珠叶等，主要分布于我国广西、广东、福建等地（梁永枢等，2017）。研究表明，其干燥叶或全株具有清热、润肺止咳、解毒散瘀等功效，其中对小儿咳嗽的治疗效果尤其明显，同时也是备受港台地区民众喜欢的一种高级菜谱，因而广受关注（梅全喜，2008；邱莉等，2011;Huang etal.，2012）。然而，由于栖息地受到果农开垦的严重破坏，加之种子自然条件下萌发率低，致使毛唇芋兰野生资源濒临枯竭，极大地限制了野生毛唇芋兰种群的扩展和生存。研究表明，适宜的菌根真菌对兰科植物种子萌发和种苗生长发育产生重要的影响（Rasmussen＆ Rasmussen，2009；Fay，2016；陈艳红等，2017）。兰科植物根际土壤中的真菌可以通过根系进入兰科植物根细胞中定殖，进而与宿主植物形成共生关系（Mccormick et al.，2016；Waud et al.，2016）。然而，目前对于根际土壤真菌的组成与兰科植物毛唇芋兰根内菌根真菌的相关性仍然不明确。因此，研究毛唇芋兰根中和根际土壤中真菌的组成和相关性，对于筛选和利用有效菌根真菌实现毛唇芋兰野生种群恢复和资源可持续利用具有重要意义。
+
+研究表明，地生型兰科植物种子萌发的栖息地更容易发现特异性共生真菌，其丰度与成年兰科植物的距离呈一定的正相关（McCormick etal.，2016）；而且有的兰科植物根内真菌在土壤中普遍存在，这种特异性真菌更助于兰科植物的生长（Waud et al.，2012）。兰科植物根内真菌群落和根际土中的真菌群落差异显著，而且这两真菌群落在一定程度上是相互独立的，菌根真菌的种类和丰度与根际土壤中菌根真菌的种类与丰度没有明显联系（蒋玉玲等，2019）。除了担子菌类菌根真菌以外，镰刀菌属（Fusarium）真菌也是地生兰根中和根际土壤中的特异性优势菌群（王晓国等，2021）。
+
+基于上述兰科植物菌根的研究现状，本文首次以我国广西喀斯特地区龙州和大新两个点为研究区域，以分布于该地区的野生毛唇芋兰为研究对象，采用 lluminaMiSeq 高通量测序技术方法，通过分析该区域内两个样地毛唇芋兰根系共生真菌和根际土壤真菌组成及差异，拟探讨以下问题：（1）喀斯特地区毛唇芋兰根部内生真菌及其根际土壤真菌在分子水平上区系组成以及优势内生真菌类群。（2）两地毛唇芋兰根系共生真菌组成是否存在差异及探讨其形成原因。本研究结果对于今后系统研究广西喀斯特地区毛唇芋兰菌根真菌资源，以及采用菌根技术实现毛唇芋兰种子伴菌萌发及地生型兰科药用植物的资源保护具有重要的参考意义。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+供试毛唇芋兰植株与土壤样本于2020年10月7日从广西壮族自治区崇左市龙州县（ $1 0 6 ^ { \circ } 6 7 ^ { \prime } \mathrm { E }$ ， $2 2 ^ { \circ } 5 2 ^ { \prime } \mathrm { N }$ ；海拔为 $3 3 3 \mathrm { ~ m ~ }$ ）和大新县（ $1 0 7 ^ { \circ } 0 5 ^ { \prime } \mathrm { E }$ ， $2 2 ^ { \circ } 8 1 ^ { \prime } \mathrm { N }$ ；海拔为 $3 1 1 \mathrm { ~ m ~ }$ ）采集。选取毛唇芋兰健康植株，整株挖出并带根际土及环境土放入自封袋中， $1 2 \mathrm { ~ h ~ }$ 之内将样品带回广西中医药大学仙葫校区的实验室，随即在流水下冲洗干净根表杂质，使用滤纸吸干根表水份后，迅速采用液氮急冻，后置于， $- 8 0 ^ { \circ } \mathrm { C }$ 冰箱中保存，备用。
+
+根际土壤采自毛唇芋兰根系表面 $0 { \sim } 1 ~ \mathrm { c m }$ 范围内的土层（付亚娟等，2019），采集置于无菌离心管中，编号为DXTR（大新土壤）和LZTR（龙州土壤）；分别取大新和龙州毛唇芋兰的走茎、主根部分（各3个重复）置于无菌离心管中，编号为DXZG（-1、-2、-3）、DXZJ（-1、-2、-3）、LZZG（-1、-2、-3）、LZZJ（-1、-2、-3）。
+
+# 1.2样品基因组DNA的提取及分析
+
+样品经冷链送至广州基迪奥生物科技有限公司，进行DNA的提取和ITSrDNA的测序分析；采用带有barcode 的特异引物扩增ITS 的ITS1 plant区（引物序列为ITS1FKYO2：5' -TAGAGGAAGTAAAAGTCGTAA-3' ; ITS86R: 5' -TTCAAAGATTCGATGATTCAC-3' ),然后将纯化后的PCR产物（即扩增子）连接测序接头，构建测序文库，上机进行 IlluminaMiseq高通量测序，并进行相应的信息分析。
+
+# 1.3数据处理与分析
+
+首先过滤低质量Reads，然后将双端Reads拼接为Tag，再对Tag进行低质量过滤，得到的数据称为Clean Tag，然后使用Usearch 软件进行聚类（Schloss etal.,2009），去除聚类过程中检测到的嵌合体 Tag，按照 $9 7 \%$ 相似性进行可操作分类单元（operationaltaxonomic unit，OTU）聚类分析，获得OTU后，基于Effective Tag 进行OTU丰度统计。利用R语言 vegan 包进行维恩图分析（Oktalira et al.,2019）和使用Qiime 软件（Schloss etal.,2009）进行alpha多样性指数，包括物种数（Sobs）、香农指数（Shannon 指数）、辛普森指数（Simpson指数）、菌种丰富度指数（Chao1指数）、谱系多样性指数（pd）及覆盖率（Good’scoverage）分析；同时，采用统计学方法进行差异特征发现和显著性检验。
+
+# 2结果与分析
+
+# 2.1测序结果分析
+
+通过对大新县和龙州县野生毛唇芋兰主根和走茎及根际土壤共14个样品的真菌rDNA 基因ITS1区域进行高通量测序。结果表明，质控后每个样品的测序 Tags Number数据量均超过110000条（表1）；以测序数据量对应OTU数量构建的稀释曲线趋向平坦（图1），说明测序数据量能够覆盖样品中绝大多数真菌种类，测序数据量合理。每个样品的 Good's coverage 指数均达到0.999（表1），说明样本中有序列没有被测出的概率极低，测序深度合格。
+
+表1毛唇芋兰菌根及其根际土壤真菌Alpha多样性指数统计  
+Table l Alpha diversity index of fungi in mycorrhizal and rhizosphere soil of Nervilia fordi   
+
+<html><body><table><tr><td rowspan="2">分组 Group</td><td colspan="2">标签数</td><td rowspan="2">物种数 香农指数 Shannon</td><td rowspan="2">辛普森指数 Simpson</td><td rowspan="2">菌种丰富度指数 Chao 1</td><td rowspan="2">覆盖率 Good's coverage</td><td rowspan="2">谱系多样 性指数 pd</td></tr><tr><td>Tags Number</td><td>Sobs</td></tr><tr><td>大新土壤DXTR</td><td>110 910</td><td>411.0 000</td><td>5.835 2</td><td>0.955 9</td><td>423.0 000</td><td>0.999 8</td><td>111.5 106</td></tr><tr><td rowspan="3">大新走茎DXZG</td><td>DXZG-1 123 381</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DXZG-2 123 304</td><td>236.6 667</td><td>1.099 9</td><td>0.3063</td><td>302.6 740</td><td>0.999 4</td><td>67.2142</td></tr><tr><td>DXZG-3 113 326 DXZJ-1 117 328</td><td>151.3 333</td><td>0.722 0</td><td>0.1914</td><td>205.4 127</td><td>0.999 5</td><td>47.35 70</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">DXZJ-2</td><td colspan="8">126 729</td></tr><tr><td rowspan="3">龙州土壤LZTR</td><td colspan="2">DXZJ-3</td><td colspan="7">114 675</td></tr><tr><td colspan="2">114 080</td><td></td><td>406.0 000</td><td>4.504 1</td><td>0.911 6</td><td>421.5 294</td><td>0.999 7</td><td>108.0 900</td></tr><tr><td></td><td>LZZG-1</td><td>112 879</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="3">龙州走茎LZZG</td><td>LZZG-2</td><td>121 543</td><td>158.0 000</td><td>2.231 7</td><td>0.572 1</td><td>212.7 177</td><td>0.999 6</td><td>49.48 42</td></tr><tr><td>LZZG-3</td><td>124 861</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LZZJ-1</td><td>115 979</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="3">龙州主根LZZJ</td><td>LZZJ-2</td><td>118 005</td><td>151.3 333</td><td>0.686 6</td><td>0.148 32</td><td>209.3 745</td><td>0.999 6</td><td>45.78 45</td></tr><tr><td></td><td>115 565</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LZZJ-3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+![](images/81b3deb7110332e7f11c21634c206329fbdffd3599b92e6cd89a9318aa654e3e.jpg)  
+图1毛唇芋兰菌根及根际土壤真菌高通量测稀释性曲线
+
+Fig.1 High throughput dilution curve of mycorrhizal and rhizosphere soil fungi in Nervilia fordii
+
+Chao 1指数和Ace 指数用于评定样品中群落的丰富度；Shannon指数则可反映出群落分布多样性，其受到样品群落中物种丰富度以及物种均匀度的影响（庞美霞等，2021）。大新主根（DXZG)部位Chao 1指数、Ace 指数和 Shannon 指数分别为 $3 0 2 . 6 7 { \scriptstyle \pm 7 . 2 3 , 3 1 6 . 0 4 \pm 3 . 4 1 }$ ，$1 . 1 0 { \scriptstyle \pm 0 . 2 3 }$ （图 $2 : A :$ ），龙州主根（LZZG）部位Chao1指数、Ace 指数和 Shannon指数分别为212.72±143.99、215.14±145.47、 $2 . 3 1 { \pm } 0 . 1 5$ 。龙州主根群体中反应群落多样性变化的 Shannon 指数( $P { = } 0 . 0 0 3 5 \rangle$ 显著性上升(图2：A)，但表征物种丰度的Chao1指数( $\scriptstyle \cdot P > 0 . 0 5 .$ ）和Ace 指数（ $. P { > } 0 . 0 5$ ）相较于大新主根群体均有所下降但无明显差异。大新走茎（DXZJ)部位Chao 1指数、Ace 指数和 Shannon 指数分别为 $2 0 5 . 4 1 \pm 1 1 3 . 5 7 , 2 1 0 . 7 0 \pm 1 1 8 . 4 7 , 0 . 7 2 \pm 0 . 2 5$ （图2：B），龙州走茎（LZZJ）部位Chao1指数、Ace 指数和 Shannon 指数分别为209.37±47.62、212.68±73.34、 $0 . 6 9 { \scriptstyle \pm 0 . 1 1 }$ （图2：B）。由此可见，龙州走茎的真菌物种丰度及多样性低于大新走茎组，但差异不显著（ $P { > } 0 . 0 5 \$ ）。
+
+![](images/bea0cc2a9a48b2fcbd4c57fa7c5df734ddcf30d29b1aba585cfe07fc97db1f49.jpg)
+
+\*表示不同组间差异显著（ $\mathrm { \it P } { \leqslant } 0 . 0 5 )$ 。   
+\* meant significant difference at O.O5 level between groups.
+
+图2大新主根（DXZG）和龙州主根组（LZZG）（A）、大新走茎（DXZJ）和龙州走茎组（LZZJ）（B）间Alpha多样性指数的变化；
+
+Fig. 2 Variation of alpha-diversity indices in DXZG and LZZG groups (A), DXZJ and LZZJ groups (B).
+
+2.2根系共生真菌多样性及相关性分析
+
+本研究从毛唇芋兰2个根际土壤（DXTR、LZTR）样品、6个走茎（DXZJ、LZZJ）样品和6个主根（DXZG、LZZG）样品内检测到大量OTU。首先，不同土壤样品分析结果表明，DXTR 共获得411个OTU，略多于LZTR中的OTU数量 406；DXTR 的真菌香农指数、辛普森指数、Chao1值以及pd 值均略高于LZTR（表1），这说明大新毛唇芋兰根际土壤真菌群落在丰富度和多样性上均高于龙州毛唇芋兰根际土壤。另外，OTUs-Venn 图能够直观反映样本间相同及其独特的OTUs。DXTR与LZTR真菌OTUs-Venn图如图2所示；2个土壤样本共获得 705个OTU，它们之间共有的OTU112个，DXTR 特有OTU299个，LZTR 特有OTU294个。因此，综合 $\alpha$ 多样性指数及OTUs-Venn 图，发现大新与龙州毛唇芋兰根际土壤真菌的组成均较为丰富，但它们在真菌组成、结构和相对丰度上存在一定的差异。
+
+![](images/101fa813a767f4af8b41d84a426e746a322d3f85665d1b50b807c0391d577960.jpg)  
+图3毛唇芋兰（大新和龙州）根际土壤真菌OTUs分布Venn图
+
+Fig. 3 Venn diagram of OTUs distribution of fungi in rhizospheric soil samples in Nervilia fordii from DX and LZ
+
+其次，对不同毛唇芋兰不同部位样品进行分析的结果显示，大新毛唇芋兰主根(DXZG)共获得 236个OTU，走茎（DXZJ）获得151个OTU；龙州毛唇芋兰主根（LZZG）共获得158个OTU，走茎（LZZJ）获得151个OTU。由此可见，主根部位OTU数量均高于走茎部位，且主根的各项α多样性指数均高于走茎（表1），说明毛唇芋兰主根部位共生真菌群落在丰富度和多样性上均高于走茎部位。DXZJ与DXZG、LZZJ与LZZG 真菌OTUs-Venn 图显示（图2），龙州毛唇芋兰根系样品共获得221个OTU，其中走茎和主根共有126个OTU，主根特有OTU为59个，走茎特有OTU为36个；大新毛唇芋兰根系样品共获得 289个OTU，其中走茎和主根共有OTU为113个，主根特有OTU为109 个，走茎特有OTU为67个。综合 $\mathfrak { a }$ 多样性指数（表1），结果发现毛唇芋兰大新与龙州青天葵根系共生真菌组成均较为丰富，但主根部位的真菌组成、结构及相对丰度上均比走茎部位更高。
+
+![](images/3be7652f898229570381ec797b81d3d7a48c09356c1575888be39c1a8b31d0e5.jpg)
+
+图4大新与龙州产毛唇芋兰根系共生真菌OTUs分布Venn图
+
+Fig. 4 Venn diagram of OTUs distribution of root symbiotic fungi in Nervilia fordii from DX and LZ
+
+2.3根系及其根际土壤真菌群落结构组成
+
+本研究从毛唇芋兰的根系及其根际土壤中获得有效序列118040条，207个可操作分类单元（OTUs），分属于8门19纲42目86科123属。以丰度均值排名Top10的物种作为主要分析对象，其他已知物种归为others，未知物种标记为unclassified；基于门、纲、目、科、属、种分类水平，分析不同样品组中真菌群落结构的变化，由图2可见，在不同的分类水平上，广西喀斯特地区2个不同产地之间供试样品中真菌群落结构存在差异。首先，在门一级分类水平上，毛唇芋兰根系与其根际土壤14个样本中共检测到的真菌涉及8个门（图5：A），分别为担子菌门（Basidiomycota）、子囊菌门（Ascomycota）、球囊菌门（Glomeromycota）、被孢霉门（Mortierellomycota）、梳霉门（Kickxellomycota）、毛霉菌门（Mucoromycota）、壶菌门（Chytridiomycota）、虫囊霉门（Entomophthoromycota），未鉴定出来的序列（unclassified）占比为 $1 8 . 2 4 \%$ 。毛唇芋兰根系内生真菌主要分布于Basidiomycota（占 $76 \%$ ），在DXZG、LZZG、DXZJ和LZZJ组中占比分别为 $6 6 . 8 9 \%$ 、$78 . 6 8 \%$ 、 $9 7 . 0 3 \%$ 和 $9 6 . 3 9 \%$ 。其次为Ascomycota（占 $10 \%$ ），在各组中的占比分别为 $1 . 9 0 \%$ 、$1 4 . 5 8 \%$ 、 $0 . 7 4 \%$ 和 $2 . 5 2 \%$ 。Ascomycota 在 DXZJ 组与 DXZG 组、LZZJ 组间的物种丰度均值均存在显著差异（ $\scriptstyle P = 0 . 0 1 7 9$ ，0.02）；LZZG 组与DXZG 组物种丰度均值存在显著差异的真菌门为 Mortierellomycota（ $\scriptstyle \cdot { \cal P } = 0 . 0 1$ ）；LZZJ组与LZZG 组物种丰度均值存在显著差异的真菌门为Basidiomycota（ $\scriptstyle \cdot { P = 0 . 0 2 }$ ）。而大新和龙州根际土壤的优势菌门组成与含量存在显著差异，前者的优势菌门为 Ascomycota（ $5 9 . 3 4 \%$ ），后者为Basidiomycota（ $3 6 . 6 3 \%$ ）。
+
+从纲一级水平分析，毛唇芋兰根系和其根际土壤中优势真菌群落主要包括伞菌纲（Agaricomycetes）（总占比 $58 \%$ ）、粪壳菌纲（Sordariomycetes）（总占比 $5 \%$ ）、银耳纲（Tremellomycetes）（总占比 $3 \%$ ）、散囊菌纲（Eurotiomycetes）（总占比 $1 \%$ ）、古菌根菌纲（Archaeorhizomycetes）、马拉色菌纲（Malasseziomycetes）、座囊菌纲（Dothideomycetes）、球囊菌纲（Glomeromycetes）、酵母纲（Saccharomycetes）（图5：B）。Unclassified 序列占比为 $34 . 9 0 \%$ ，Others 序列占比为 $0 . 3 5 \%$ 。 Agaricomycetes 、
+
+Sordariomycetes、 Tremellomycetes、Eurotiomycetes 和 Archaeorhizomycetes 在大新土样（DXTR）中的占比分别为 $6 . 7 4 \%$ 、 $2 9 . 8 5 \%$ 、 $0 . 0 7 \%$ 、 $6 . 5 7 \%$ 和 $12 . 7 9 \%$ ；在 DXZG 组中的占比分别为 $3 8 . 8 5 \%$ 、 $1 . 1 1 \%$ 、 $1 . 3 8 \%$ 、 $0 . 2 5 \%$ 和 $0 . 1 8 \%$ ；在 DXZJ组中的占比分别为 $6 0 . 4 3 \%$ 、$0 . 2 5 \%$ 、 $1 . 0 4 \%$ 、 $0 . 1 4 \%$ 和 $0 . 0 5 \%$ ；在龙州土样（LZTR）中的占比分别为 $2 8 . 5 2 \%$ 、 $6 . 1 2 \%$ 、$0 . 6 7 \%$ 、 $0 . 5 9 \%$ 和 $0 . 0 0 2 \%$ ；在LZZG 组中的占比分别为 $6 6 . 2 4 \%$ 、 $9 . 6 6 \%$ 、 $9 . 6 6 \%$ 、 $1 . 7 7 \%$ 和$0 . 0 0 1 \%$ ；在LZZJ组中的占比分别为 $9 3 . 2 0 \%$ 、 $0 . 5 1 \%$ 、 $0 . 3 2 \%$ 、 $0 . 8 7 \%$ 和 $0 . 0 0 0 3 \%$ 。各真菌纲在不同产地毛唇芋兰根际土壤中所占比例存在显著差异（ $P { < } 0 . 0 5$ ）。在根系样品组之间真菌组成及比例存在差异，其中LZZJ组与LZZG 组物种丰度均值均存在显著差异的真菌纲为 Agaricomycetes （ $\scriptstyle P = 0 . 0 3$ ）；DXZG 组与LZZG 组物种丰度均值均存在显著差异的真菌纲为 Archaeorhizomycetes（ $\scriptstyle P = 0 . 0 1$ ）和 Mortierellomycetes（ $\scriptstyle \cdot = 0 . 0 1$ ）。
+
+从目一级水平分析（图 $5 : \mathrm { C } \dot { }$ ），主要包括鸡油菌目（Cantharellales）（占比 $57 \%$ ）、银耳目（Tremellales）（占比 $3 \%$ ）、肉座菌目（Hypocreales）（占比 $2 \%$ ）、散囊菌目（Eurotiales）（占比 $1 \%$ ）、古菌根菌目（Archaeorhizomycetales）、马拉色菌目（Malasseziales）、小丛壳目（Glomerellales）、粪壳菌目（Sordariales）、伞菌目（Agaricales）、煤炱目（Capnodiales）。从科一级水平分析（图5：D），胶膜菌科（Tulasnellaceae）占到担子菌的 $7 5 \%$ ，还有少数属于Trimorphomycetaceae、角担菌科（Ceratobasidiaceae）、马拉色菌科（Malasseziaceae）、小皮伞科（Marasmiaceae）等；子囊菌主要包含丛赤壳科（Nectriaceae）、古菌根菌科（Archaeorhizomycetaceae）、曲霉科（Aspergillaceae）、毛壳科（Chaetomiaceae）、小丛壳科（Glomerellaceae)等。从属一级水平分析（图5：E)，主要包括瘤菌根菌属(Epulorhiza）、原隐球菌属（Saitozyma）、镰刀属（Fusarium）、古菌根菌属（Archaeorhizomyces）、马拉色菌属（Malassezia）、曲霉属（Aspergillus）、翼孢菌属(Tetrapyrgos）、腐质霉属（Humicola）、刺盘孢属（Colletotrichum）、青霉属（Penicillium）。根际土中显著优势真菌菌种为镰刀属（Fusarium）。毛唇芋兰根茎的优势菌群均为瘤菌根菌属（Epulorhiza）真菌，在所分离真菌中占比高达 $56 \%$ ，且在根际土壤中该属真菌含量也很高，在大新土壤和龙州土壤中的占比分别为 $4 \%$ 和 $14 \%$ 。从种一级水平分析（图5：F），主要包含贝壳状革菌（Panusconchatus）、稻黑孢菌（Nigrospora oryzae）、季也蒙毕赤酵母（Meyerozyma guilliermondii）、大孢圆孢霉（Staphylotrichum coccosporum）、Septoria cretae、马氏梭菌（Sodiomycesmagadii）、Humicola olivacea、Tetrapyrgos subcinerea、Malassezia restricta、荚膜梭菌（Saitozyma podzolica）等。总之，不同分类层级的真菌群落在两地根际土壤中，它们在真菌组成、结构及相对丰度上存在一定的差异；且两地不同根系之间也存在一定差异，主根
+
+pegnea 88 nEntomophthororcota peeegpar 100 hinaxiv合作期刊 80 酵母纲 Saccharomycetes omce ■被孢霉门Mortierellomycota 05040 门Gomerotota   
+40 ■担子菌门Basidiomycota 30- 银耳纲Tremellomycetes 200 Agrcetes   
+10- 0-   
+0- 大新土 大新主 大新土壤DXTR 大新主根DXZG 大新走茎DXZJ 龙州土壤LZTR 龙州主根LZZG 龙州 州走茎LZzJ   
+上壤DXTR 主根DXZG 大新走茎DXZJ 龙州土壤LZTR 龙州主根LZZG 龙州走茎LZZJ 分组Group 分组Group   
+C 三 gpeeepar 1000 三   
+504 504   
+320 肉座菌目Hypocreales 3020 菌crobasde   
+10- 银耳目Tremellales 鸡油菌目Cantharellales 10 胶膜菌科Tulasnellaceae   
+0- 0-   
+大新土壤DXTR 大新主根DXZG 大新走茎DXZJ 龙州土壤LZTR 龙州主根LZZG 龙州走茎LZZJ 大新土地 上壤DXTR 主根DXZG 大新走茎DXZJ 龙州 上壤LZTR 州 主根LZZG 龙州走茎LZZJ' 分组Group 分组Group   
+E 100 Unclassified F 100 Unclassified   
+%pgear 00 60- 翼孢菌属Tetrapyrgos hpaheegage 8 60- 大孢圆孢霉Staphylotrichumcoccosporum   
+5040300 5   
+210 ■原隐球菌属Saitozyma ■瘤菌根菌属Epulorhiza 灰 2 英菌trgzynapoic   
+0 0+   
+大新土壤DXTR 大新主根DXZG 大新走茎DXZJ 龙州土壤LZTR 龙州主根LZZG 龙州走茎LZZJ 大新土壤DXTR 大新主根DXZG 大新走茎DXZJ 龙州土壤LZTR 龙州主根LZZG 龙州走茎LZZJ 分组Group 分组Group
+
+在真菌组成、结构及相对丰度上均比走茎更高。
+
+图5两地毛唇芋兰根系及根际土壤中真菌基于门（A）、纲（B）、目（C）、科（D）、属（E）和种（F）分类水平上的分布
+
+Fig.5 Fungal classification atphylum (A),class (B),order (C),family (D)， genus (E) andspecies (F) levels in different root system and rhizospheric soil in Nervilia fordii samples
+
+# 3讨论与结论
+
+本研究基于高通量测序技术，比较分析了广西喀斯特地区的地生型兰科植物毛唇芋兰根系及其根际土壤的真菌菌落结构，结果发现瘤菌根菌属（有性型为胶膜菌属）真菌是大新与龙州两个样地的毛唇芋兰根中绝对优势菌群。有研究认为，地生兰的种子成熟后落入土壤中经历长时间的发育，在此期间依赖共生真菌提供稳定、持久的C源（Jacquemyn etal.，2011），因此，各地的地生兰往往与菌根真菌形成高特异性的菌根关系，表现为大多数地生兰均与胶膜菌属菌群共生，如竹叶兰属（Arundina）植物（Meng et al.，2019）、构兰属（Cypripedium）植物（Yuan etal.，2010）等地生兰的优势共生菌群主要是胶膜菌属菌群。更为重要的是，胶膜菌不仅是兰科植物菌根真菌区系组成中的绝对优势类群，而且还是一类重要的兰科植物共生萌发真菌（Rafter etal.，2016；陈娟等，2017）。因此，瘤菌根菌属菌群可能在毛唇芋兰种子萌发和球茎生长发育过程中起到至关重要的作用，但更多证据还有待真菌共生萌发实验予以确证。此外，瘤菌根菌属真菌在两地主根中的丰度均比走茎高，这可能与主根生长周期长，而走茎生长周期短、且侧重于生殖生长的特点有关。
+
+真菌群落的组成和丰度对植物生态系统的功能调节具有重要作用，其中核心真菌组和关键物种的贡献一直是真菌生态学领域研究的热点（熊丹等，2020）。本研究基于FunGuild数据库，对两地的毛唇芋兰根中和根际土壤真菌的主要OTU进行了功能预测分析，结果发现，共生型（Symbiotroph）是两地毛唇芋兰主根和走状茎中真菌群落最主要的营养类型，相对丰度分别为 $63 \%$ 和 $92 \%$ （龙州）、 $3 6 \%$ 和 $60 \%$ （大新），其他营养类型如（病理寄生-腐生-共生）Pathotroph-Saprotroph-Symbiotrop、（病理寄生）Pathotroph 和（病理寄生-共生）Pathotroph-Symbiotroph 的真菌群落则比较少，相对丰度均少于 $2 \%$ ；两地的根际土壤真菌群落的营养类型基本类似，其中，大新 Pathotroph-Saprotroph-Symbiotroph 的相对丰度占 $1 7 \%$ ，Saprotroph和Symbiotroph约占 $4 \%$ ，龙州Symbiotroph和Pathotroph-Saprotroph-Symbiotroph 的相对丰度分别占 $1 4 . 4 3 \%$ 和 $1 3 . 3 1 \%$ 。从功能类型上分析，两地毛唇芋兰均主要由外生菌根（Ectomycorrhizal）功能群构成，且以瘤菌根菌属真菌群为核心真菌组；其他功能群包括未定义腐生菌群（Undefined Saprotroph）、动物病原菌（Animal Pathogen）、丛枝菌根（Arbuscular Mycorrhizal）、内生菌根-植物病原菌-未定义腐生菌群（Endomycorrhizal-Plant Pathogen-Undefined Saprotroph）等，它们的相对丰度均比较低，这也反映了毛唇芋兰根内和根际真菌的多样性。
+
+此外，本研究的结果还发现，两地毛唇芋兰根际土壤中发现的OTU总个数均比根中的OUT总个数高，同时两地根际土壤和根中也存在有共同的OTU。这表明根际土壤中的真菌类群要多于植物根中；两地根际土壤和根中存在相同的真菌群落。蒋玉玲等（2019)在研究绶草等9种兰科植物过程中也发现类似的结果，认为根际真菌的组成要比兰科植物根中真菌的组成更复杂。大新和龙州两地毛唇芋兰的根际土壤的优势菌门组成与含量存在显著差异，前者的优势菌门为子囊菌门，后者为担子菌门。在两地毛唇芋兰根中，子囊菌的物种丰度存在显著差异；Mortierellomycota 门真菌在LZZG 组与DXZG 组之间的物种丰度存在显著差异；这些结果，表明毛唇芋兰根系真菌与根际土壤真菌的组成均很丰富，但它们在不同部位及不同区域之间的真菌组成、结构及相对丰度上存在一定的差异。这种差异与外界环境因子如：海拔高度（徐玲玲等，2019）、土壤湿度、酸碱度及营养条件
+
+（Ogura-Tsujita et al.，2008；Bunch et al.，2013；Jacquemyn et al.，2015）和季风气候（马雪亭等，2016）及植被类型（Lin etal.,2020）等对兰科植物真菌群落组成的影响有关。
+
+总之，高通量测序等现代分子生物学方法为高效、全面分析兰科植物毛唇芋兰根系共生真菌组成提供了有效手段，也为进一步有针对性地分离培养可培养的菌根真菌，用于研究兰科种子共生萌发和菌根共生作用机制等提供了科学的参考，对于采用菌根技术解决毛唇芋兰濒危植物资源保护和可持续利用具有非常重要的实践意义。但同时，本研究虽然从毛唇芋兰根中和根际土壤获得大量的序列，但由于NCBI数据库比对数据的不足，无法全部将这些生物信息解读出来，对本研究的全面分析也产生一定的干扰。因此，这部分工作需有待完善。
+
+# 参考文献：
+
+BUNCH WD, COWDEN CC,WURZBURGER N, et al., 2013. Geography and soil chemistry drive the distribution of fungal associations in lady's slipper orchid, Cypripedium acaule[J]. Botany, 91(12): 850-856.   
+CHEN J, MENG ZX, XING YM, et al., 2017. Isolation and identification of endophytic fungi from five medicinal plants species of Orchidaceae[J]. Chin Pharm J, 52(4): 267-271.[陈娟, 孟志霞，邢咏梅，等，2017．5种兰科药用植物可培养内生真菌的鉴定及多样性分析 [J]．中国药学杂志，52（4）：267-271.]   
+CHEN YH, XING XK,GUO SX，2017. Nutritional relationships between orchids and mycorhizal fungi: a review[J].Mycosystema,36(7): 807-819.[陈艳红，邢晓科，郭顺星， 2017．兰科植物与菌根真菌的营养关系［J]．菌物学报，36（7）：807-819.]   
+CHEN YH, XING XK, GUO SX, 2018. The endophytic fungal community composition of Gymnadenia conopsea in Beijing[J].Mycosystema,37(1):35-42.[陈艳红，邢晓科，郭顺星, 2018．北京地区手参内生真菌的区系组成分析［J]．菌物学报，37（1）：35-42.]   
+FAY MF,2016. Orchid conservation: further links[J]. Annals of Botany, 118(1): 89-91.   
+FU YJ, ZHANG JL, HOU XQ,2019. Comparative analysis of fungi diversity in rizospheric and non-rhizospheric soil from Cypripedium macranthum estimated via high-throughput sequencing[J].Acta Agric Boreal-Occident Sin,28(02): 253-259.[付亚娟，张江丽，侯晓 强，2019．大花杓兰根际与非根际土壤真菌多样性的高通量测序分析［J]．西北农业学 报，28（2）：253-259.]   
+HUANG MQ, XIE YL,LAI XP, et al.,2012. Protection of total flavonoid fraction from Nervilia fordii on lipopolysaccharide-induced acute lung injury in rats[J]. Chin Med Mat, 4(4): 287-293.   
+JACQUEMYN H, BRYS R, WAUD M, et al.， 2015.Mycorrhizal networks and coexistence in species-rich orchid communities[J]. New Phytolt, 206(3): 1127-1134.   
+Jacquemyn H，Merckx V，Brys,et al.， 2011. Analysis of network architecture reveals phylogenetic constraints on mycorrhizal specificity in the genus Orchis (Orchidaceae） [J].. New phytologist,192(2):518-528.   
+JIANG YL, CHEN XH, MIAO Q, et al.， 2019. Difference in fungal communities between in roots and in root-associated soil of nine orchids in Liaoning, China[J]. Chin JPlant Ecol, 43(12):1079-1090.[蒋玉玲，陈旭辉，苗青，等．辽宁省9种兰科植物根内与根际土壤中 真菌群落结构的差异[J]．植物生态学报，2019，43（12）：1079-1090.]   
+LIANG YS, GONG L, HUANG ZH, et al., 2017. Analysis of global ecological suitability of southern chinese materia medica herba Nervilia fordii[J]. Subtrop Plant Sci, 46(4): 339-342. [梁永枢，宫璐，黄志海，等，2017．南药青天葵全球产地生态适宜性分析［J].亚热带 植物科学，46(4)：339-342.]   
+LIN M, XIONG H, XIANG X, et al.， 2020. The effect of plant geographical location and developmental stage on root-associated microbiomes of Gymnadenia conopsea[J]. Front Microbiol, 11(1257): 1-17.   
+MA XT，XING XK，GUO SX, 2016. Correlation between distribution of Dendrobium chrysotoxum and mycorrhizal fungal community composition[J]. Mycosystema, 35(7): 814-821.[马雪亭，邢晓科，郭顺星，2016．鼓槌石斛的地理分布与菌根真菌区系组成 的相关性［J]．菌物学报，35（7）：814-821.]   
+MCCORMICK MK， JACQUEMYN H, 2014. What constrains the distribution of orchid populations?[J]. New Phytol, 202(2): 392-400.   
+MCCORMICK MK, TAYLOR DL, WHIGHAM DF, et al., 2016. Germination patterns in three terrestrial orchids relate to abundance of mycorrhizal fungi[J]. JEcol,104(3): 744-754.   
+MEI QX, 20o8. Advance in the research of chemical constituent pharmacologic action and clinical application of herba Nerviliae Plicatae[J]. Chin Arch of Trad Chin Med,(10): 2239-2241.[梅全喜，2008．青天葵的化学成分药理作用与临床应用研究进展[J]．中华 中医药学刊，（10)：2239-2241.]   
+MENG YY, ZHANG WL, SELOSSE MA, et al., 2019. Are fungi from adult orchid roots the best symbionts at germination? A case study[J]. Mycorrhiza, 2019,29(5): 541-547.   
+OGURA-TSUJITA Y，YUKAWAT,2008.High mycorrhizal specificity in a widespread mycoheterotrophic plant, Eulophia zollingeri (Orchidaceae)[J]. Amer JBot, 95(1): 93-97.   
+OKTALIRA FT, WHITEHEAD MR, LINDE CC, 2019. Mycorrhizal specificity in widespread and narrow-range distributed Caladenia orchid species[J]. Fungal Ecol, 42(C): e100869.   
+PANG MX, JIN G, HUANG ZL,et al.， 2021. Diversity of fungi associated with Caulerpa lentillfera in the South China Sea[J]. Mycosystema, 2021, 40(8): 2171-2180.[庞美霞，金 刚，黄志立，等，2021.南海长茎葡萄蕨藻共附生真菌的多样性[J].菌物学报，2021，40 （8）：2171-2180.]   
+QIU L,XU LY, MIU JH, et al., 2011. Study advances on chemical constituents from Nervilia fordii (Hance） Schltr. and its bioactivities[J]. Lishizhen Med Mater Med Res,22(9): 2258-2260.[邱莉，徐灵源，缪建华，等，2011．青天葵植物化学成分和药理活性研究 进展［J]．时珍国医国药，22(9)：2258-2260.]   
+RAFTER M, YOKOYA K, SCHOFIELD EJ, et al., 2016. Non-specific symbiotic germination of Cynorkis purpurea (Thouars） Kraezl.，a habitat-specific terrestrial orchid from the Central Highlands of Madagascar[J]. Mycorrhiza, 26(6): 541-52.   
+RASMUSSEN HN， RASMUSSEN FN， 2009. Orchid mycorrhiza: implicationsofa mycophagous life style[J]. Oikos,118(3): 334-345.   
+SCHLOSS PD, WESTCOTT SL, RYABIN T, et al. 2009. Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities[J]. Appl Environ Microbiol, 5(23): 7537-7541.   
+WANG XG,LI XL, DONG Y, et al., 2021. Difference in fungal communities between in roots and in rhizosperic soil of Paphiopedilum hirsutissimum[J]. SW Chin J Agric, 34(4):762-769[王晓国，李秀玲，董艳，等，2021.带叶兜兰根内与根区土壤的真菌群落 组成分析[J].西南农业学报，2021，34（4）：762-769.]   
+WAUD M，WIEGAND T，BRYS R，et al.，2016. Nonrandom sedling establishment corresponds with distance-dependent decline in mycorrhizal abundance in two terrestrial orchids[J]. New Phytol, 211(1): 255-264.   
+XIONG D, OU J,LI LP, et al.， 2020. Community composition and ecological function analysis of endophytic fungi in the roots of Rhododendron simsii in Pinus massoniana forest in central Guizho[J].Acta Ecol Sin,40(4):1228-1239.[熊丹，欧静，李林盼，等，2020．黔中 地区马尾松林下杜鹃根部内生真菌群落组成及其生态功能[J].生态学报，2020，40（4)： 1228-1239.]   
+XU LL， ZHAO MY,LI J, et al.， 2019. Correlation between vertical distribution of three Cypripedium species and composition of orchid mycorrhizal fungal community[J]. Mycosystema,38(6):811-821.[徐玲玲，赵明阳，李菁，等，2019．不同海拔的三种杓 兰属植物与菌根真菌群落组成相关性[J].菌物学报，38(6)：811-821.]   
+YUAN L, YANG ZL,LI SY, et al., 2010. Mycorrhizal specificity, preference,and plasticity of six slipper orchids from south western China[J]. Mycorrhiza,20(8): 559-568.

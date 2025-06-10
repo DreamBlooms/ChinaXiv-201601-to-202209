@@ -1,0 +1,350 @@
+# 学龄前儿童社会善念理解的发展与心理理论的关系
+
+赵欣」李丹丹’ 杨向东(1华东师范大学教育学部教育心理学系，上海，200062)
+
+摘要本文探究了4\~6岁儿童社会善念理解的发展及其与心理理论的关系。研究测量了100名 4-6岁儿童的社会善念理解、心理理论、亲社会性和执行功能。结果发现，随着年龄增长，儿童愈加在社会评价和朋友偏好上倾向于社会善念人物，并且此社会善念理解能力与心理理论的发展呈显著正相关，且此相关在控制了年龄、执行功能及亲社会性后依然稳定存在，但社会善念理解与亲社会性并不相关。此结果表明，心理理论可能对社会善念理解的发展有重要作用。
+
+关键词社会认知发展，社会善念，心理理论，学龄前儿童发展，道德认知
+
+# 1引言
+
+我们生活在一个高度社会化的世界，人与人之间有着持续的互动。“燃烧自己，照亮他人”是中华文化的传统美德。人们赞扬那些为了服务他人而放弃自身利益的亲社会行为。即便是婴儿也会根据他人的亲社会行为或反社会行为进行评价(Burms& Sommerville,2014;Hamlin et al.,2007;Van de Vondervoort&Hamlin,2017)。比如，婴儿偏好那些帮助他人完成目标的人，而不是阻碍他人完成目标的人(Hamlin et al.,2007;Vande Vondervoort&Hamlin,2017)，偏好和别人分享的人而不是吝啬于分享的人(Burms& Sommerville,2014)。
+
+以往有关儿童自身的亲社会行为或儿童对于他人亲社会行为的理解的研究主要关注帮助或分享等行为(Bridgers et al.,2020; Chernyak & Kushnir,2013;Dahl, 2015; Dunfield et al,2011;Liszkowski et al.，2008; Svetlova et al.， 2010; Van de Vondervoort & Hamlin, 2017;Warneken&Tomasello,2006)。这些亲社会行为往往需要行动者牺牲自身的利益来为接受者带来积极的影响，比如行动者将自己的玩具分享给接受者。然而，对他人的善意和关怀有时并不需要牺牲自身的利益，而是以一种低成本的方式实现；一个小小的举动就可以传达对他人的善意。近些年来，越来越多的研究开始关注这些更加普遍但微妙的亲社会行为。本文关注的社会善念（social mindfulness,Van Doesum et al.,2013）描述的正是这样一种低成本的、对他人表达善意的亲社会行为。由于社会善念行为非常微妙，理解这样的行为对儿童来说可能并非易事，因此研究儿童对于社会善念行为的理解有着重要的意义。接下来，我们首先对社会善念及相关概念进行介绍。
+
+# 1.1社会善念
+
+社会善念是指个体充满善意地关注、尊重并保护他人选择的需要和权利的一种亲社会行为（Van Doesum et al.,2013；窦凯，刘耀中等，2018；Zhao,Zhao et al.,2021）。举例来说，在一个自助餐派对上，小明和小红正在排队取甜点。排在前面的小明取甜点的时候，只剩下两块草莓蛋糕和一块巧克力蛋糕。此时，小明接下来的选择可能会对小红是否拥有选择的权利产生影响。如果小明拿了一块草莓蛋糕，那小红就可以在一块草莓蛋糕和一块巧克力蛋糕中进行选择，此时小明表现出了社会善念，因为他既满足了自己吃蛋糕的需要，同时也考虑了排在后面的小红的需求，保留了小红自由选择的权利；相反，如果小明拿走唯一的一块巧克力蛋糕，那小红只能选择草莓蛋糕，此时小明没有表现出社会善念，因为他剥夺了小红的选择权。
+
+在高度社会化环境中,社会善念行为对个人和整个社会都非常重要。从个人的角度来说，表现出社会善念行为可以给他人留下好印象，有利于人际交往与合作（窦凯，刘耀中 等，2018;Van Lange＆VanDoesum,2015）；从整个社会角度来说，社会善念行为有助于构建良好的社会关系以及和谐的社会环境。总的来说，社会善念很可能是帮助人们在社会中“航行”的重要工具之一(Van Doesum et al.,2013)，它也与中国传统文化所提倡的善良、谦虚与礼让的美德高度一致。
+
+近些年来，“社会善念”成为中外社会心理学和发展心理学的一个研究热点（窦凯，刘耀中 等，2018；窦凯，聂衍刚 等，2018；窦凯 等，2017；田一等，2020）。关于成人“社会善念”的研究发现，当作为行动者时，大部分成人会表现出给他人留选择的社会善念行为，且此行为的表现频率与亲社会倾向以及共情能力呈正相关（Van Doesum et al.,2013）。此外，当作为第三方观察者时，成人对给他人留选择的行为（即，社会善念行为）比不给他人留选择的行为评价更高（VanDoesum etal.,2013），并且会更倾向于与表现出社会善念行为的个体合作（窦凯，刘耀中 等，2018）。最近，儿童发展研究者们开始探究儿童作为第三方观察者时对于社会善念行为的理解和评价。这些研究主要集中在儿童是否可以区分社会善念行为（即，给他人留选择的行为）与非社会善念行为（即，剥夺他人选择权的行为），以及是否对表现出社会善念行为的个体评价更高（Zhao,Zhao et al.,2021）。Zhao,Zhao等人（2021）给中美 4\~6岁儿童呈现了幼儿园小朋友排队领加餐的故事。在两次加餐时间，排在前面的故事人物都要在两个同类型的水果和一个唯一类型的水果（如，两个苹果一个香蕉）中做选择。在其中一次加餐时间，排在前面的故事人物在两个同类型水果中选了一个，给排在后面的故事人物留下两种不同的水果（即，表现出社会善念行为）；在另一次加餐时间，排在前面的故事人物选了唯一的水果，留下两种相同的水果（即，表现出非社会善念行为）。当被要求比较这两个故事人物时，中国和美国4岁儿童的回答均为随机水平，而中国和美国大部分6岁儿童均对给他人留选择的人的社会评价更高（认为他是一个更好的朋友）。也就是说，在4至6岁之间，中国和美国的儿童均逐渐理解并可以评价社会善念行为。
+
+尽管以上研究表明儿童对社会善念行为的理解和评价在4至6岁有重要发展，但仍有很多尚未解答的问题。首先，虽然研究表明6岁的中美儿童均显著地认为表现出社会善念行为的故事人物对排在后面的故事人物而言是一个更好的朋友，但尚不清楚儿童的社会评价是仅局限于对故事人物之间关系的评价，还是也会影响儿童自身的朋友偏好，比如儿童自己是否也更倾向于选择表现出社会善念行为的人作为自己的朋友。有关成人的研究表明，人们更倾向于与表现出社会善念行为的人（相比于表现出非社会善念行为的人）进行合作（窦凯，刘耀中 等，2018）。基于以上研究结果，本文将探究儿童自身的朋友选择偏好是否会受到对方是否表现出社会善念行为的影响。
+
+更重要的是，儿童社会善念理解的发展机制还尚不清晰。为什么在4至6岁之间，儿童逐步能够区分表现出社会善念行为的个体和表现出非社会善念行为的个体，并对前者评价更高呢？本研究旨在初步探究4至6岁儿童社会善念理解与心理理论的关系。接下来，我们将详细论述为什么我们推测两者之间可能存在重要的关系。
+
+# 1.2社会善念理解与心理理论
+
+心理理论（TheoryofMind，ToM）是指个体理解他人的心理活动（愿望、信念、情绪等）并由此预测他人行为的能力（Premack&Woodruff,1978;Wellman,2014），是儿童社会认知能力发展的重要组成部分。已有大量研究发现，心理理论在学龄前阶段快速发展，儿童逐渐理解他人的偏好和信念可能与自己不同，也可能与现实世界不同，并理解他人所表现出的情绪也可能与其内心的感受不同（Liu et al.,2008;Lu et al.,2008;Wellman,2014;Wellmanet al., 2006; Wu & Su, 2014）。
+
+虽然尚未有实证研究探究社会善念理解与心理理论之间的关系，但前人研究提供了一些理论支持。Van Doesum等人（2013）从行动者的角度出发，从技巧（skill）和意愿（will）两个方面阐释了一个人表现出社会善念行为本身时所需要的潜在机制。他们认为，一个行动者要表现出社会善念行为，一方面需要能够理解自己的行为可能会对对方产生潜在影响，这很可能是以心理理论（theory of mind）或观点采择（perspective taking）为基础的；另一方面，还需要具备想要对他人表现出社会善念行为的意愿，这很可能是以亲社会倾向(prosocialorientation）为基础的。本文关注的是，从第三方观察者的角度，儿童对于社会善念行为的理解，是否与心理理论（尤其是对他人的偏好、意愿和意图的理解）有关。
+
+我们认为，从理解和评价社会善念行为所需要的心理机制来说，儿童心理理论的发展很有可能是社会善念理解的心理基础。具体来说，在评价社会善念行为时，一方面，儿童需要理解接受者（即，排在后面的人）的偏好和愿望。在接受者偏好未知的情况下（如在自助取餐故事里，小明并不知道小红喜欢什么口味的蛋糕，她有可能喜欢巧克力蛋糕，也有可能喜欢草莓蛋糕），行动者（即，排在前面的人）留下两种不同的选项，可以最大化实现接受者的愿望。也就是说，无论接受者的偏好，行动者的社会善念行为可以确保接受者能自主选择自己更喜欢的物品，从而最大程度满足自己的愿望。这种对他人的偏好和愿望的理解，是心理理论的重要部分。另一方面，儿童还需要通过行动者的行为推测其亲社会的意图，进而做出社会评价。具体来说，儿童需要推测行动者留下不同的选项是因为他/她考虑到了接受者的利益，想要保留其选择的权利。这涉及到对他人意图的推理，同样也是心理理论的重要部分。所以，从这两个角度来看，心理理论可能是支撑社会善念理解发展的潜在心理机制。
+
+除此之外，以往研究也提供了一些间接证据提示儿童的社会善念理解可能与其心理理论的发展存在相关。第一，心理理论和社会善念的发展年龄段存在一定相似性。如上文所述，在4\~6 岁之间，儿童对于社会善念的理解逐渐成熟（Zhao,Zhao etal.,2021）。学龄前时期也是儿童心理理论发展的关键年龄段（王茜 等，2000）。因此，从发展的年龄段来说，儿童对于社会善念行为的理解很可能与其心理理论的发展相关。第二，研究表明，儿童基于意图的社会评价与心理理论有密切相关。心理理论发展水平更高的儿童在评价他人的行为时可以更灵活地考虑行为背后的意图，而非一味地只看结果（Smetana et al.,2012）。这提示我们，心理理论发展越好的儿童越能做出更灵活、更复杂的社会和道德评价。需要注意的是，社会善念理解本质上也属于一种需要考虑行为意图的社会与道德评价，因此可能也与心理理论的发展密切相关。基于以上这些论述，我们推测儿童的社会善念理解可能与心理理论发展之间存在相关。
+
+# 1.3其它变量的影响：亲社会倾向与执行功能
+
+本文的主要目的是探究儿童社会善念理解与心理理论发展之间是否存在相关，但可能也有其它因素同时影响社会善念理解和心理理论，比如，亲社会倾向与执行功能。如上文所述，Van Doesum等人（2013）认为亲社会倾向在社会善念行为中可能起着重要作用；并且，有关成人的研究发现此行为的表现频率与亲社会倾向以及共情能力呈正相关（Van Doesum etal.,2013）。然而，这些成人研究主要关注的是社会善念行为本身，而非对这种行为的理解或评价。所以，儿童对于社会善念行为的理解和评价是否与亲社会倾向存在相关还尚不清楚。
+
+一种可能是，在对社会善念行为的理解层面上，亲社会倾向可能也具有重要作用。大量研究发现儿童在婴儿期就已经表现出亲社会的行为和动机，比如他们会主动分享物品给父母（Hay,1979;Hay&Murray,1982;Rheingold et al.,1976），并且亲社会行为会随着年龄增长而进一步发展（Chernyak & Kushnir,2013; Engelmann et al.,2013; Fehr et al.,2008; Moore,2009）。有更强亲社会倾向的儿童可能会更容易注意到个体的行为对他人造成的影响，进而对社会善念行为有更好的理解。另一种可能是，这种亲社会意愿和倾向对于理解本身并非必需。实际上，有研究表明儿童的亲社会行为和对亲社会行为的认知之间存在“认知-行为差距”（Blake et al.，2014）。比如，儿童很早就可以区分公平和不公平的行为（Schmidt &Sommerville,2011; Sloane et al.,2012），并对公平行为评价更高，但在行为上却经常表现出不公平或是利己的资源分配方式（Blake,2018; Blake et al.,2014）。因此，亲社会倾向可能与认知层面上的社会善念理解的发展并不相关。
+
+此外，有研究表明儿童的亲社会行为（如，分享行为）的发展和心理理论的发展之间可能存在相关（Wu& Su,2014）。因此在本研究中我们将测量儿童的亲社会倾向，这一方面可以回答社会善念理解的发展与亲社会倾向之间是否存在相关，另一方面也可以帮助控制亲社会倾向这一可能存在的无关变量，从而回答社会善念理解与心理理论之间是否存在超越亲社会倾向之上的、独特的相关。
+
+另外，儿童的执行功能（executive functioning）也可能会同时影响社会善念理解与心理理论的发展。大量研究表明，儿童的执行功能与心理理论的发展之间存在相关（Carlson&Moses,2001; Sabbagh etal.,2006）。另外，虽然没有直接的实证证据，但儿童的执行功能（或综合的认知能力）很可能会影响其在社会善念理解任务中的表现。因此，本研究将测量儿童的执行功能作为对综合认知能力的控制，这可以回答社会善念理解与心理理论之间是否存在超越综合认知能力之上的、独特的关系。
+
+# 1.3本研究
+
+综上，本研究将以处于社会善念理解发展重要阶段的4\~6岁儿童为研究对象（Zhao，Zhao etal.,2021），探究4\~6岁儿童对表现出社会善念行为或非社会善念行为人物的社会评价，检测其结果是否与前人的研究结果一致；并探究社会善念行为是否会影响儿童自身的朋友选择偏好，即儿童是否更偏好与表现出社会善念行为的个体做朋友。更重要的是，本文将探究社会善念理解与心理理论之间的关系。另外，我们还测量了儿童的亲社会倾向、执行功能等作为控制变量。对于社会善念理解的测量，我们采用改编自Zhao,Zhao等人（2021）的任务。对于心理理论的测量，本文采用改编自Wellman等人（2006）中的意外内容任务、意外地点任务和隐藏情绪任务。对于亲社会倾向的测量，我们结合儿童的实验室行为测试和家长及教师的报告：一方面我们采取改编自Brownell等人（2009；2013）的匿名分享任务测量儿童的分享行为，另一方面我们也让家长和教师对儿童的亲社会性进行评价，从而更加全面地测量儿童亲社会倾向的发展。对于执行功能的测量，则采用改编自Gerstadt等人（1994）的日/夜司楚普任务（Day/Night Stroop）。这些任务在以往研究中都曾被广泛用于测量国内外的儿童（Zhao, Wente et al., 2021; Wellman et al.,2006; Sabbagh et al., 2006）。
+
+# 2方法
+
+# 2.1被试
+
+基于以往探究儿童社会善念（Zhao,Zhao etal.,2021）及心理量之间关系（Zhao,Wente etal.,2021; Sabbagh etal.,2006）的相似主题研究，本研究事先将样本量定为100。来自上海市三所幼儿园的100名 $4 { \sim } 6$ 岁儿童（ $\langle M _ { \mathrm { \scriptsize ~ \it { 4 4 } } } \rangle \langle \mathrm { \scriptsize ~ = ~ } 5 . 5 3$ 岁， $S D = 0 . 4 6 .$ ，女生54人，男生46人）参加了本研究。其中11名4岁儿童，68名5岁儿童，21名6岁儿童。参与本次研究的儿童家庭背景状况与 Zhao,Zhao 等人（2021）中的儿童较为一致。大部分儿童都来自中产阶级家庭， $9 4 . 7 \%$ 父母学历为本科及以上， $64 . 5 \%$ 的家庭收入在20\~50万元之间。所有儿童家长都提供了知情同意书。
+
+本文的方法、被试量和主要分析等均在AsPredicted 网站进行了预注册（https://aspredicted.org/PHN_NFZ）。具体的指导语和数据等见 OSF网站（https://osf.io/9feum/?view_only=eb95eeafba1447faa49f7959e29f26ce）。
+
+# 2.2实验程序
+
+实验在幼儿园的一个安静的房内完成。儿童需完成4个任务：心理理论任务、分享任务、社会善念理解任务和执行功能任务。四个任务按照以上顺序固定进行。
+
+# 2.2.1心理理论任务
+
+任务改编自Wellman 等人（2006）。此部分共包含三个子任务。
+
+（1）意外内容任务。主试拿出一个创可贴盒，问儿童里面装的是什么（儿童回答创可贴）；然后打开盒子发现里面是一个蓝莓玩具，再装回盒子恢复原状。主试询问儿童：现在认为盒子里有什么？以确保儿童知道盒子里是蓝莓。接着，主试向被试呈现一个新的人物皮皮，并说明皮皮从来没见过这个盒子里面，接着提问：皮皮从来没见过这个盒子里面，你觉得皮皮会认为盒子里有什么？是创可贴还是蓝莓呢？若此问题儿童回答正确（即，创可贴）计1分，回答错误计0分。最后，主试还会提问一个记忆检测问题：皮皮看到过盒子里面吗?（正确答案：没有）若儿童记忆检测问题回答错误则本任务不计分（ $1 \%$ 的儿童记忆检测任务回答错误）。
+
+（2）意外地点任务。主试向被试展示两张图片：一张图片中有一只猫躲在草丛中，另一张图片是一个车库。接着主试向被试呈现故事人物琳琳，并交代故事情境：琳琳的猫躲在了草丛里，但琳琳觉得猫在车库里，现在她要去找猫，并提问：你觉得琳琳会去哪里找猫呢？会去草丛里找，还是会去车库里找呢？若此问题儿童回答正确（即，车库）计1分，回答错误计0分。最后，主试还会提问记忆检测问题：猫实际在哪里？（正确答案：草丛）若儿童记忆检测问题回答错误则本任务不计分（ $7 \%$ 的儿童记忆检测任务回答错误）。
+
+（3）隐藏情绪任务。主试呈现三张不同表情的脸并提问：你能告诉我哪张脸是开心的吗?哪一张脸是难过呢？哪一张脸是还可以呢？确保被试准确认识这些表情后讲述小马的故事：朋友们在小马生日这天送给了他一本无聊的书，其实小马内心希望收到一辆玩具车。小马为了表现得有礼貌决定隐藏自己的情绪。主试接着提问两个记忆检测问题以保证儿童理解故事：小马希望收到什么礼物？他实际上收到了什么呢？记忆检测问题回答错误则本任务不计分（1%的儿童记忆检测任务回答错误)。主试接着提问两个测试问题：其中一个有关小马的内心感受：小马的内心感受其实是怎样的？他内心的感受是开心，还可以，还是难过呢？另一个测试问题有关于小马脸上的表情：小马脸上的表情是怎样的？他脸上的表情是开心，还可以，还是难过呢？若儿童对于内心感受问题的回答比对于脸上表情的回答更负面（即，内心感受难过而脸上表情还可以或开心；或者内心感受还可以，脸上表情开心）则计1分，否则计0分。
+
+我们将以上三个心理理论任务的得分取平均计作心理理论任务的得分（0\~1）。
+
+# 2.2.2分享任务
+
+此任务改编自Brownell等人（2009;2013）。主试提供2个信封、5张贴纸，告知被试可以将贴纸分享给接下来玩游戏的小朋友。在被试分配时主试会转过身去以保证儿童的分享是匿名的。儿童分配之前，主试提问：哪个是你的信封？哪个是给别的小朋友的信封？有人看到你怎么分配了吗？以确保儿童理解本任务并认为分享是匿名的。我们记录下儿童分享给他人的贴纸数量（0\~5）。
+
+# 2.2.3社会善念理解任务
+
+此任务改编自 Zhao，Zhao 等人（2021）。由主试向被试呈现一段视频。视频是有关于幼儿园水果加餐的故事。幼儿园一天共有两次加餐。在加餐时间，小朋友依次排队选水果。在其中一次加餐时间，贝贝排在欢欢后面。轮到欢欢的时候，有两个苹果和一个香蕉可供欢欢选择。欢欢选了一个苹果，留下一个苹果和一个香蕉（即，表现出社会善念行为）。在另一次加餐时间，贝贝排在乐乐后面。轮到乐乐的时候，有一个苹果和两个香蕉可供乐乐选择。乐乐选了一个苹果，留下两个香蕉（即，表现出非社会善念行为）。主试首先提问记忆检测问题：早上加餐欢欢选了什么？留下什么给贝贝选？下午加餐乐乐选了什么？留下什么给贝贝选？如果被试回答错误，重新讲述故事并确保被试回答正确。接着主试询问两个测试问题：
+
+（1）社会评价问题：对贝贝来说，欢欢和乐乐谁是更好的朋友？（2）朋友偏好问题：你会选择欢欢还是乐乐做你的朋友呢？在两个测试问题之后，主试都询问“为什么”来让儿童解释自己的回答。故事示例见图1。本任务呈现的水果组合和人物顺序均在被试间进行平衡，两个测试问题也在被试间进行平衡。
+
+![](images/c5e290e306a20c86fe8eef3c51c4619e86c601f325d640275c07bb5845e2c39d.jpg)  
+图1社会善念理解任务的故事示例
+
+# 2.2.4执行功能
+
+本任务改编自Gerstadt 等人（1994）的日/夜司楚普任务。由主试展示太阳和月亮的图片，并解释游戏规则：看到太阳要说晚上，看到月亮要说早上。经过练习，被试能准确回答两次以上后正式开始实验。此任务共进行16试次，由主试记录正确率。
+
+# 2.2.5家长与教师对儿童亲社会性的评价
+
+为了更全面地测量儿童的亲社会倾向，我们还让家长和老师填写了有关于儿童亲社会性评价的问卷。在家长问卷中，家长需回答两个问题“根据你的观察，你的孩子在生活中是否表现出助人行为？”以及“根据你的观察，你的孩子在生活中是否表现出分享行为？”，两题均为四点量表（1-从不，4-经常）。这两题的得分为家长对儿童助人行为及分享行为的评价。在教师问卷中，每个班级的两位教师都需对其班中参加本研究的各个儿童的亲社会发展程度（如帮助他人、与他人分享等）进行评价，采用五点量表（1-发展水平低，5-发展水平高），最终我们取两位教师评价的平均值作为教师对于儿童亲社会性的评价。
+
+# 3结果
+
+我们将首先对各个任务中儿童的表现及其随年龄的发展情况进行汇报（各个任务中的平均值、标准差及与年龄的相关见表1），然后再对心理理论与社会善念理解之间关系的分析结果进行汇报，最后对社会善念理解与其它变量（亲社会倾向、执行功能）之间关系的分析结果进行汇报。
+
+表1各个任务中儿童得分的平均值（标准差）、范围及与年龄（月份）的相关性  
+
+<html><body><table><tr><td></td><td>平均值 (标准差)</td><td>范围</td><td>与年龄（月份）的相关性</td></tr><tr><td>社会善念理解</td><td>0.66 (0.38)</td><td>0~1</td><td>0.23*</td></tr><tr><td>社会评价</td><td>0.61 (0.49)</td><td>0~1</td><td>0.14</td></tr><tr><td>朋友偏好</td><td>0.70 (0.46)</td><td>0~1</td><td>0.24*</td></tr><tr><td>心理理论</td><td>0.63 (0.32)</td><td>0~1</td><td>0.23*</td></tr><tr><td>意外内容</td><td>0.62 (0.49)</td><td>0~1</td><td>0.26**</td></tr><tr><td>意外地点</td><td>0.71 (0.46)</td><td>0~1</td><td>0.17</td></tr><tr><td>隐藏情绪</td><td>0.67 (0.25)</td><td>0~1</td><td>0.10</td></tr><tr><td>分享</td><td>1.71 (1.11)</td><td>0~5</td><td>-0.19</td></tr><tr><td>执行功能</td><td>90.83% (16.47%)</td><td>0~100%</td><td>0.21*</td></tr></table></body></html>
+
+注：\*表示在0.05 级别（双尾），相关性显著，\*\*表示在0.01级别（双尾），相关性显著
+
+# 3.1社会善念理解的发展
+
+在社会评价问题（即，对贝贝来说，欢欢和乐乐谁是更好的朋友）中，共 $60 \%$ 的儿童认为“留选择的人物”更好。在朋友偏好问题中（即，你会选择欢欢还是乐乐做你的朋友呢），共 $70 \%$ 的儿童选择与“留选择的人物”做好朋友。为探究儿童在这两个问题中的回答随年龄的发展变化，我们以儿童在两个问题中的回答（ $1 { = }$ 选择表现出社会善念行为的人物， $0 =$ 选择表现出非社会善念行为的人物）为因变量，以问题类型（社会评价问题，朋友偏好问题)为被试内自变量，年龄为自变量进行二项混合线性模型分析（binomial linear mixed effectsmodel，采用R中的glmer函数），结果发现仅年龄的主效应显著( $B = 1 . 0 7$ $S E = 0 . 4 6$ $9 5 \%$ CI[0.17, 1.98], $\begin{array} { r }  p = 0 . 0 2 0 \dot  \ \end{array}$ )，相比于年龄小的儿童，年龄越大的儿童在两个问题中更多地回答“留选择的人物”。未发现显著的问题类型的主效应或交互作用（ $\begin{array} { r }  \dot { \mathbf { \xi } } _ { p \mathrm { { s } } } > 0 . 3 7 4 \ \end{array}$ ）。儿童在社会善念理解任务的两个问题中选择社会善念人物的比例与年龄的关系如图2所示。
+
+为了进一步探索年龄的主效应，我们还估计了儿童显著偏好表现出社会善念行为人物的准确年龄。遵循 Johnson-Neyman 提出的“显著区域（regions of significance）”方法（Johnson& Neyman,1936），我们使用上述的混合线性模型，在4至6岁之间以0.1年为增量来估计各年龄在各个问题上的边际均值（及其标准误）。该分析表明，从5.2岁开始，儿童显著地在朋友偏好问题中更多地选择社会善念人物，从5.5岁开始，儿童显著地在社会评价问题中更多地选择社会善念人物（如图2所示）。
+
+![](images/d8428c914b8c702d2d7520ecf7063df35fa19f4af5b78d8bbdfe7775a48e20cc.jpg)  
+图2儿童在社会善念理解任务的两个问题中选择社会善念人物的比例与年龄的关系（阴影部分代表 $9 5 \%$ 置信区间）
+
+另外，我们还分析了儿童在两个问题之后给出的开放性解释。我们对解释进行编码与计分，若儿童的解释中提到“给他人留选择”这一概念（如“因为他留了一个香蕉一个苹果，而他留了两个香蕉”，“因为他留了一个选择”等），则计分为1，否则计分为0。两位不了解研究设计的研究人员分别依据此规则对儿童的解释进行编码，两人的编码一致性为$91 \%$ 。在社会评价问题中，共有 $39 \%$ 的儿童在解释中提到“给他人留选择”这一概念。在朋友偏好问题中，共有 $2 9 \%$ 的儿童解释中提到“给他人留选择”这一概念。儿童的解释同样呈现随年龄逐步发展的趋势。儿童在两个问题中提供有关“给他人留选择”这一概念的解释的比例与年龄的关系如图3所示。我们以儿童在两个问题中的解释是否提到“给他人留选择”
+
+这一概念为因变量，以问题类型（社会评价问题，朋友偏好问题）为被试内自变量，年龄为自变量进行二项混合线性模型分析（binomial linear mixed effects model，采用R中的 glmer函数），结果发现年龄的主效应显著（ $B = 2 . 1 1$ ， $S E = 0 . 7 2$ $9 5 \%$ CI [0.69, 3.52], $\begin{array} { r } { p = 0 . 0 0 3 . } \end{array}$ ），未发现显著的问题类型的主效应或交互作用 $( p \mathbf { s } > 0 . 0 6 )$ ）。也就是说，相比于年龄小的儿童，年龄越大的儿童在两个问题中更多地在解释中提到“给他人留选择”这一概念。
+
+![](images/3be346cddc1c6e662ff70cd4437cf5b0aef69c33721e49e757466aac879a68d6.jpg)  
+图3儿童在社会善念理解任务的两个问题中提供有关“给他人留选择”这一概念的解释的比例与年龄的关系（阴影部分代表 $9 5 \%$ 置信区间）
+
+# 3.2心理理论的发展
+
+在意外内容任务中，共有 $62 \%$ 的儿童回答正确；在意外地点任务中，共有 $71 \%$ 的儿童回答正确；在隐藏情绪任务中，共有 $67 \%$ 的儿童回答正确。将三个任务一起分析，有 $2 7 \%$ 的儿童三个任务全部回答正确， $41 \%$ 的儿童两个任务回答正确， $21 \%$ 的儿童一个任务回答正确， $11 \%$ 的儿童三个任务全部回答错误。
+
+为探究儿童心理理论任务中的表现随年龄的发展变化，我们首先依据以往文献，将三个任务中的得分取平均作为每位儿童最终的心理理论得分。儿童的心理理论得分与年龄的关系如图4所示，心理理论得分与年龄（月份）呈显著正相关， $r ( 9 8 ) = 0 . 2 3$ ， $p = 0 . 0 2 1$ ，即年龄越大的儿童心理理论任务中的表现越好。
+
+![](images/00698e673194d09a27a8568033fe88575859b7a64f407c859569326cd53a34ec.jpg)  
+图4儿童的心理理论得分与年龄的关系（阴影部分代表 $9 5 \%$ 置信区间）
+
+# 3.3分享任务
+
+在分享任务中，儿童分享贴纸数量的均值为1.71，标准差为1.12。如图5所示，分享贴纸数量与年龄不显著相关， $r ( 9 8 ) = - 0 . 1 9$ ， $p = 0 . 0 6 3$ 。
+
+![](images/311b65f568416a8e1a73a46f1199af463cb62b8cab3b44423ed4bdc2671f2893.jpg)
+
+# 3.4执行功能任务
+
+本任务儿童正确率的平均值为 $9 0 . 8 3 \%$ ，标准差为 $1 6 . 4 7 \%$ 。如图6所示，本任务正确率与年龄呈显著正相关， $r ( 9 8 ) = 0 . 2 1$ ， $\mathnormal { p } = 0 . 0 3 3$ ，即年龄越大的儿童执行功能任务的正确率越高。
+
+![](images/9d8ee373c83ad290c1602eedd37dfc83ca8c8193c5532ad4425c9c67ca469069.jpg)  
+图6儿童在执行功能任务中的正确率与年龄的关系（阴影部分代表 $9 5 \%$ 置信区间）
+
+# 3.5社会善念理解与心理理论的关系
+
+接下来，我们分析儿童在社会善念理解任务中的表现与其在心理理论任务中的表现是否存在相关。我们首先进行双变量相关分析（结果见表2），社会善念理解中的两个问题及其平均得分均与心理理论得分呈显著正相关！ $\zeta _ { p \mathrm { s } } < 0 . 0 2 1$ ）。由于上文发现，社会善念理解及心理理论均存在与年龄的正相关，因此我们接下来采取偏相关分析，在控制了年龄之后，儿童社会善念理解各问题与心理理论之间的偏相关见表2。可见，在控制年龄后，社会善念理解中的两个问题及其平均得分均仍然与心理理论得分呈显著正相关 $( p \mathbf { s } < 0 . 0 4 1$ ）。社会善念理解得分（两个问题的平均分）与心理理论得分之间控制了年龄之后的关系的散点图及拟合曲线见图7。这说明，儿童在心理理论任务中表现越好，其对社会善念的理解和评价也越成熟。
+
+表2儿童在社会善念任务中的回答与心理理论得分的双变量相关系数与偏相关系数（控制了年龄)
+
+<html><body><table><tr><td></td><td>社会评价问题</td><td>朋友偏好问题</td><td>社会善念理解得分</td></tr><tr><td>与心理理论得分的双变量相关</td><td>0.23*</td><td>0.25*</td><td>0.31**</td></tr><tr><td>与心理理论得分的偏相关 (控制了年龄)</td><td>0.21*</td><td>0.20*</td><td>0.26*</td></tr></table></body></html>
+
+注：\*表示在0.05级别有显著的相关，\*\*表示在0.01级别有显著的相关
+
+![](images/67c3ceed58cf33cbceeff44556b729b15418733deaac304a6caa084ef3af18d2.jpg)  
+图7社会善念理解得分与心理理论得分之间的正相关(控制了年龄之后)
+
+为了具体探究通过心理理论任务的个数对社会善念理解的影响，我们以社会善念理解任务的得分为因变量，通过的心理理论任务数量（0个，1个，2个，3个）为自变量，年龄为协变量进行方差分析(见图 8)。发现心理理论任务的通过数量有边缘显著效应‘ $\langle F ( 3 , 9 5 ) =$ 2.68, $p = 0 . 0 5 2$ ， ${ \eta _ { p } } ^ { 2 } \mathrm { = } 0 . 0 8$ ）。Bonferroni修正后的后验配对比较分析发现通过全部心理理论任务的儿童社会善念得分显著高于通过0个心理理论任务的儿童, $p \ = \ 0 . 0 3 9$ ， $9 5 \% C I$ [0.01,0.74]，其它配对比较未发现显著差异（ $\langle p \mathrm { s } > 0 . 1 7 4$ ）。单独分析社会善念理解任务中的两个问题也得到类似的结果。
+
+![](images/afb85f53084e16c86268a2703564d6e30f2b5bf0f8ddc07e46181d64b89e58e0.jpg)  
+图8心理理论任务通过的个数对社会善念理解得分的影响（误差线代表标准误，\*表示在0.05 级别有显著的组间差异）
+
+为了进一步探究心理理论与社会善念理解的关系，我们进行了一系列线性回归分析（结果见表3）。首先，我们以社会善念理解得分为因变量，以年龄为自变量进行线性回归分析，发现了显著的年龄效应（ $\cdot B = 0 . 1 9$ $S E = 0 . 0 8$ $t = 2 . 3 6$ $p = 0 . 0 2 0$ ）。接着我们将心理理论得分作为自变量加入到线性回归模型中，发现年龄的效应变得不显著了！ ${ \mathit { \Omega } } _ { \cdot p } ^ { \prime } = 0 . 0 8 4 { \dot { \mathrm { \Omega } } }$ ），而心理理论的效应显著 $( B = 0 . 3 1 , S E = 0 . 1 2 , t = 2 . 7 3 , p = 0 . 0 0 8 )$ ）。并且相比于只包含年龄的线性回归分析，此模型显著提升了解释的方差， $F _ { \mathrm { \ c h a n g e } } \left( 1 , 9 7 \right) = 7 . 4 5 , p = 0 . 0 0 8$ 。接下来，为了探究心理理论的效应是否为超越亲社会倾向和执行功能的独特的效应。我们将执行功能得分和分享得分加入到模型中，发现心理理论的效应依然显著（ $B = 0 . 3 0$ ， $S E = 0 . 1 2$ ， $t = 2 . 4 9$ ， $p =$ 0.014），但其它变量均没有显著的效应 $( p \mathbf { s } > 0 . 1 3 )$ ，并且相比于只包含年龄和心理理论的模型，此模型并没有提升解释的方差， $F _ { \mathrm { \ c h a n g e \ } } ( 2 , 9 5 ) = 0 . 2 9 , p = 0 . 7 5 ,$ 。由此可以说明，心理理论与社会善念理解有重要相关，且此相关在控制了年龄、亲社会倾向和执行功能等变量之后依然稳固存在。
+
+表3以社会善念理解为因变量的线性回归模型总结  
+
+<html><body><table><tr><td>模型</td><td>R²</td><td>AR²</td><td>F change</td><td>B</td><td>SE</td></tr><tr><td>1．年龄</td><td>0.05</td><td></td><td>5.58*</td><td>0.19*</td><td>0.08</td></tr><tr><td>2．年龄</td><td>0.12</td><td>0.07</td><td>7.45**</td><td>0.14</td><td>0.08</td></tr><tr><td>心理理论得分</td><td></td><td></td><td></td><td>0.31**</td><td>0.12</td></tr><tr><td>3．年龄</td><td>0.13</td><td>0.01</td><td>0.29</td><td>0.13</td><td>0.08</td></tr></table></body></html>
+
+<html><body><table><tr><td>心理理论得分</td><td>0.30*</td><td>0.12</td></tr><tr><td>分享得分</td><td>-0.02</td><td>0.03</td></tr><tr><td>执行功能得分</td><td>0.00</td><td>0.00</td></tr></table></body></html>
+
+注：\*表示在0.05 级别有显著的预测效应，\*\*表示在0.01级别有显著的预测效应
+
+# 3.6儿童社会善念理解与亲社会倾向、执行功能的关系
+
+我们探究儿童社会善念理解任务中的表现与亲社会倾向（即，儿童在分享任务中的表现、家长及教师对于其亲社会性的评价）以及执行功能是否相关。双变量相关分析结果与控制了年龄之后的偏相关分析结果如表4所示。可以看到，社会善念理解与儿童在分享任务中分享的数量、教师评价的亲社会性、家长评价的助人行为频率及分享行为频率、执行功能均不存在显著的相关 （ $\mathrm { \Phi } _ { p \mathrm { { s } } } > 0 . 1 1 8 \mathrm { \Phi } ,$ ）。
+
+表4儿童的社会善念理解得分与亲社会倾向、执行功能等的双变量相关系数与偏相关系数（控制了年龄）  
+
+<html><body><table><tr><td></td><td>分享得分</td><td>教师评价的亲社 会性</td><td>家长评价的助人 行为频率</td><td>家长评价的分享 行为频率</td><td>执行功能</td></tr><tr><td>与社会善念理</td><td>-0.14</td><td>-0.02</td><td>0.09</td><td>-0.11</td><td>0.14</td></tr><tr><td>解得分的双变</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>量相关</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>与社会善念理</td><td>-0.18</td><td>-0.12</td><td>0.09</td><td>-0.07</td><td>0.01</td></tr><tr><td>解得分的偏相</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>关</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>（控制了年</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>龄）</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 4讨论
+
+# 4.1结论
+
+儿童亲社会行为的发展以及对亲社会行为的评价一直是发展心理学中的研究热点。近些年，社会善念这种亲社会行为的发展也逐渐成为研究者们关注的前沿热点话题（VanDoesumet al.,2013；窦凯,刘耀中 等,2018; Zhao, Zhao et al.,2021; Van Lange& Van Doesum,2015）。本文发现，儿童不仅在对他人的评价中会考虑到一个人是否表现出社会善念行为，他们在选择朋友时也会考虑到一个人是否表现出社会善念行为。并且，这样的评价和偏好在 4\~6 岁有重要发展：4岁的儿童对表现出社会善念（即，给他人留选择）的人物和表现出非社会善念行为（即，不给他人留选择）的人物还没有明显的朋友选择上的偏好，但5\~6岁的儿童更偏好与表现出社会善念行为的个体做朋友。更重要的是，本文发现，儿童社会善念理解与其心理理论的发展呈显著正相关，并且此相关在控制了年龄、执行功能（综合认知能力）和亲社会倾向等可能的无关变量之后依然稳定存在。此外，儿童的社会善念理解与亲社会倾向（包括儿童本身的分享行为、家长及教师对儿童亲社会性的评价）不相关。因此，本文首次提供了心理理论的发展与社会善念理解发展之间存在相关的实证证据。
+
+# 4.2社会善念理解的发展
+
+本研究发现4\~6岁儿童在朋友选择上逐渐形成对于表现出社会善念行为的人物的偏好。这进一步补充了以往研究中所发现的 4\~6岁儿童逐步形成对社会善念行为更高的社会评价（Zhao,Zhao etal.,2021）。这说明，他人是否表现出社会善念行为，不仅会影响儿童对这个人的评价，也会影响儿童是否选择与他做朋友、与他一起玩耍，甚至与他合作。这与成人研究中所发现的成人更倾向于与表现出社会善念行为的个体进行合作的结果也是一致的（窦凯，刘耀中 等，2018）。可以说，本研究揭示了这一现象在孩童时期的发展规律，进一步印证社会善念理解在4至6岁这一年龄段存在重要发展，也更加说明了社会善念行为在人际互动中有着重要的作用。
+
+虽然本研究仅关注了对于社会善念行为的评价和朋友偏好（因为我们认为这是社会善念理解最基础以及最重要的方面），但需要注意的是，社会善念理解并不局限于社会评价和朋友偏好，它还包括很多其它方面。第一，全面的理解社会善念还包括理解社会善念行为是否具有规范性（normativity），具体来说，儿童认为社会善念行为多大程度上是一种人们都应该遵守的规范性行为，非社会善念行为又是否应该受到惩罚等。第二，全面理解社会善念还包括对社会善念的特性和适用范围的理解，比如，儿童认为社会善念是一种稳定的特质还是只是情境性的、暂时性的表现，儿童认为社会善念多大程度上受互动对象等情境因素的影响等。第三，社会善念理解还可以包括儿童对于社会善念行为背后的动机的理解，比如，儿童认为一个人表现出社会善念行为是出于纯粹的利他动机，还是为了表现得友善从而得到对方或其它旁观者的赞许等。未来研究需要更全面地探究儿童社会善念理解各方面的发展。
+
+# 4.3社会善念理解与心理理论的关系
+
+本文发现了社会善念理解与心理理论之间稳定的正相关。且此正相关在控制了年龄、执行功能和亲社会倾向后仍然显著；这表明，心理理论与社会善念之间存在超越一般认知能力的、独特的相关，不能被综合的认知能力（即，执行功能）所解释。为什么心理理论与社会善念理解之间存在这样稳定而独特的关系呢？我们认为，儿童心理理论的发展可以帮助儿童从理解接受者的偏好和理解行动者的意图两方面来理解并评价社会善念行为。一方面，心理理论能力的一个重要方面是对他人偏好及愿望的理解（Wellman，2014）。在社会善念的情境中，接受者的偏好是未知的（比如在排队取甜点的例子中，我们不知道小红更喜欢草莓蛋糕还是巧克力蛋糕）。理解他人偏好的能力可以帮助儿童理解，留给接受者两个不同种类的东西可以最大程度使其满足自己的愿望（即，她可以选择自己偏好的蛋糕）。另一方面，心理理论能力的另一个重要方面是对他人意图的理解（Wellman，2014），这可以帮助儿童推测并理解行动者行为背后的亲社会意图，即理解行动者的行为是为了尊重和保护接受者选择的需要和权利，是行动者善意的一种体现。但具体来说，心理理论如何影响儿童社会善念的理解（或者说，影响社会善念理解中的哪一环节）还需要进一步更细致的研究。需要注意的是，虽然我们发现了社会善念理解与心理理论之间的相关，但社会善念理解与心理理论是两个独立的不同的心理概念，正如前文所述，心理理论是指个体理解他人的心理活动（愿望、信念、情绪等）并由此预测他人行为的能力的总称（Premack＆Woodruff,1978；Wellman,2014），而社会善念理解仅为对于给他人保留选择权的亲社会行为的理解和相应的评价。
+
+另外，需要注意的是，本研究采用的是相关性研究设计，基于本研究的结果无法进行因果关系的推论。未来的研究可以在本研究的基础上采用实验操控的方法探索心理理论与社会善念理解之间可能的因果关系，如探究通过一定的训练提升儿童的心理理论能力能否促进社会善念理解的发展，或采用长时追踪的研究设计探究儿童早期的心理理论发展是否会预测其较晚年龄时的社会善念理解。
+
+本文所发现的社会善念理解与心理理论的相关进一步证明了心理理论在儿童社会与道德评价发展中的重要性，尤其是在需要对深层的意图（而不仅仅是表面行为）进行推理的道德评价起着非常重要的作用。这与前人的研究（Killen etal.,2011; Smetana et al.,2012）中所发现的基于意图推理的社会评价与心理理论之间的相关性也是一致的。这些发现共同为通过提升儿童的心理理论从而促进道德认知的发展提供了可能性。
+
+# 4.4社会善念理解与亲社会倾向
+
+本文还发现，儿童的社会善念理解与亲社会倾向并不相关。首先，在行为测试（即，分享任务）中，儿童分享的贴纸数量与其在社会善念理解任务中的表现并不相关。此外，家长与老师对儿童亲社会性的评价也与儿童在社会善念理解任务中的表现并不相关，所以说无论是通过实验室任务的测量还是家长及老师对于儿童亲社会行为的评价，我们均未发现社会善念理解与亲社会倾向之间的相关。这样的结果也许看起来出乎意料，但是这与以往有关儿童亲社会行为研究中广泛发现的认知与行为之间存在差距的结果是一致的（Blake et al.,2014）。我们认为，本文关注的是儿童对于社会善念行为的理解，并不是儿童的社会善念行为，这属于认知层面，而儿童的分享行为以及日常生活中的助人及合作的表现更多是属于行为层面，因此对社会善念的认知理解与亲社会行为并不相关的结果一定程度上是合理的。这提示我们，在未来研究中，一方面可以探究儿童对社会善念行为的理解是否与对于其它亲社会行为的社会与道德评价存在相关；另一方面，还可以探究儿童本身的社会善念行为是否与分享行为以及其它亲社会行为（如助人、合作等）存在相关。
+
+# 4.5研究局限与未来展望
+
+本研究还存在一些不足与局限，未来研究中可以基于本研究进行更深入的探究。首先，本研究仅关注了心理理论、亲社会倾向以及执行功能等方面与社会善念理解可能的关系，但儿童社会善念理解的发展可能非常复杂，它也许受到很多因素的影响，这还有待于进一步探究。比如，儿童对社会善念这一保留他人选择权的亲社会行为的理解可能受到儿童本身对于选择的看重程度(即,儿童是否认为拥有自主选择的机会非常重要)的影响(Iyengar&Lepper1999），那些非常看重自主选择权利的儿童可能会对社会善念行为的评价格外高。再比如，儿童的社会善念理解还可能受到其在日常生活中是否经历过社会善念或体贴行为的影响。如果儿童曾经亲身经历过他人留给他们选择权或者剥夺了他们选择权的情境，可能会对社会善念行为或非社会善念行为有更深刻的理解。有关助人及分享等直接亲社会行为的已有研究表明儿童自身经历他人施予的亲社会行为之后，自己也会更多地表现出针对他人的亲社会行为（Chernyak et al.,2019;Warneken& Tomasello,2013;Wörle & Paulus,2019）。其次，本研究中所采用的分享任务设定分享对象是一个假想的孩子（“接下来要来玩游戏的小朋友”），因此儿童在分享任务中的表现可能会受到儿童所想的具体人物的影响，比如有的小朋友可能想象的是自己的朋友，而有的小朋友则可能想象的是陌生人。已有研究表明，分享对象可能会影响儿童的分享行为（Blake,2018;Moore,2009）。这提示我们在未来研究中可以把分享对象换成具体的人物（如，朋友、亲人等）从而减少儿童自己所设想的人物可能产生的无关影响。第三，本研究取样主要局限于城市地区的幼儿园儿童，且研究样本量有限。未来研究可以增大样本量，并更加广泛地取样，如取样乡镇或农村等欠发达地区的儿童，探究此研究的结果是否可以推广到更广泛的人群。最后，本研究仅关注了作为第三方观察者时，儿童对于社会善念行为的理解和评价与心理理论之间的关系，尚未有研究关注儿童作为行动者时社会善念行为的发展以及其与心理理论等变量的关系。未来研究可以从这些角度进行探究。
+
+综上所述，本文以前人的理论和结果为基础，首次对学龄前儿童社会善念理解的潜在机制进行探索，发现儿童心理理论发展与社会善念理解发展之间存在稳定而独特的相关，对于儿童社会善念理解、亲社会行为以及社会与道德评价方面的研究均有重要意义。社会善念在现实生活中无处不在，小小的一个友善的表现就可以促进人与人之间的合作和信任，可以说是人际关系的"润滑剂”。我们相信，研究儿童对于社会善念行为的理解及其发展机制可以促进儿童社会交往能力和道德判断等能力的发展，并促进儿童自身的合作行为以及人际之间信任的产生，从而进一步促进和谐社会的建设。
+
+# 参考文献
+
+Blake,P.R. (2018). Giving what one should: explanations for the knowledge-behavior gap for altruistic giving. Current Opinion in Psychology，20,1-5.   
+Blake,P.R.,McAuliffe,K.,& Warneken,F.(2014).The developmental origins of fairness: the knowledge-behavior gap. Trends in Cognitive Sciences,18(11),559-561.   
+Bridgers,S.,Jara-Etinger,J.,& Gweon,H. (2O2O).Young children consider the expected utilityof others' learning to decide what to teach. Nature Human Behaviour, 4,144-152.   
+Burns,M.P.,& Sommervile,J.(O14).“I pick you": the impact offairmess and raceon infants’selectionof social partners.FrontiersinPsychology,5,93.   
+Carlson,S.M.,& Moses,L.J. (2ool).Individualdifferences in inhibitorycontrolandchildren's theoryof mind. Child Development, 72(4),1032-1053.   
+Chermyak,N.,& Kushnir,T.(2Ol3).Giving preschoolers choice increases sharing behavior.Psychological Science,24(10),1971-1979.   
+Chermyak,N.,Leimgruber,K.L.,Dunham,Y.C.,Hu,J.,&Blake,P.R.(2019).Paying back people who harmed us but not people who helped us: direct negative reciprocity precedes direct positive reciprocity in early development.Psychological Science,30(9),1273-1286.   
+Dahl,A. (2015).The developing social context of infant helping in two U.S.samples. Child Development, 86(4), 1080-1093.   
+Dunfield,K.,Kuhlmeier,V.A.,O'Connell,L.,&Kelly,E.(2ol1).Examining the diversityofprosocialbehavior: helping, sharing,and comforting in infancy. Infancy,16(3),227-247.   
+Dou,K.,Liu,Y.Z., Wang,Y.J.,& Nie,Y. G. (2018). Wilingness tocooperate: emotion enhancement mechanism of perceived social mindfulness on cooperative behaviour.Acta Psychologica Sinica, 50(1),101-114.   
+[窦凯，刘耀中，王玉洁，聂衍刚.(2018).“乐”于合作:感知社会善念诱导合作行为的情绪机制．心理学 报,50(1),101-114.]   
+Dou,K.,Nie Y.G.,Wang Y.J.,&Liu,Y.Z.(2018). Trust or defence? The enhancing effect of perceived social mindfulness on cooperative behavior during interactive game.Journal of Psychological Science, 41(2), 390-396.   
+[窦凯，聂衍刚，王玉洁，刘耀中.(2018).信任还是设防?互动博弈中社会善念对合作行为的促进效应．心理 科学,41(2),390-396.]   
+Dou,K.,Nie,Y.G.,Wang,Y.J.,& Zhang, Q.P.(2017). Social mindfulness in the interpersonal interaction: conceptualization, assessment and influenced mechanism. Advances in Psychology, 7(9),1101-1112.   
+[窦凯，聂衍刚，王玉洁，张庆鹏.(2017).人际互动中的社会善念:概念、测评及影响机制．心理学进展， 7(9), 1101-1112.]   
+Dou, K., Wang,Y.J.,Li, J.B.,Li,J. J.,& Nie,Y.G. (2018). Perceiving high social mindfulness during interpersonal interaction promotes cooperative behaviours.Asian Journal of Social Psychology, 21(1-2), 97-106.   
+Engelmann, J. M.,Over, H., Herrmann,E.,& Tomasello,M.(2013). Young children care more about their reputation with ingroup members and potential reciprocators. Developmental Science,16(6), 952-958.   
+Fehr,E.,Bernhard,H.,& Rockenbach,B. (20o8). Egalitarianism inyoung children. Nature,454(7208), 1079-1083.   
+Hamlin,J.K.,Wynn,K.,&Bloom,P. (2007).Social evaluationby preverbal infants. Nature,450(7169),557-559.   
+Hay,D.F. (1979). Cooperative interactions and sharing between very young children and their parents. Developmental Psychology，15(6), 647-653.   
+Hay,D.F.,& Murray,P. (1982). Giving and requesting: social facilitation of infants’ofers to adults. Infant Behavior and Development,5(2-4),301-310.   
+Iyengar,S.S.,& Lepper, M. R.(1999). Rethinking the value of choice: a cultural perspective on intrinsic motivation. Journal of Personality and Social Psychology, 76(3),349-366.   
+Kilen,M., Mulvey,K.L.,Richardson, C., Jampol,N.,& Woodward,A. (201).The accidental transgressor: morally-relevant theory of mind. Cognition,119(2),197-215.   
+Liszkowski, U., Carpenter,M., & Tomasello,M. (20o8). Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners. Cognition,108(3),732-739.   
+Liu,D.,Wellman,H.M.,Tardif,T.,& Sabbagh,M.A.(2oo8).Theory of mind development in Chinese children: a meta-analysis of false-belief understanding across cultures and languages. Developmental Psychology, 44(2), 523-531.   
+Lu,H.,Su, Y., & Wang, Q. (2oo8). Talking about others facilitates theory of mind in Chinese preschoolers. Developmental Psychology,44(6),1726-1736.   
+Moore,B. (2oo9).Emotional intelligence for school administrators: a priority for school reform? American Secondary Education,37(3),20-28.   
+Premack,D.,& Woodruf, G.(1978). Does the chimpanzee have a theory of mind? Behavioral and Brain Sciences, 1(4), 515-526.   
+Rheingold, H.L., Hay,D.F.,& West,M. J. (1976). Sharing in the second year oflife. Child Development, 47(4), 1148-1158.   
+Sabbagh,M.A.,Xu,F., Carlson,S.M.,Moses,L.J.,&Lee,K. (2006).The development of executive functioning and theory of mind: a comparison of Chinese and US preschoolers. Psychological Science,17(1),74-81.   
+Schmidt, M.F.H.,& Sommerville, J. A. (2011). Fairness expectations and altruistic sharing in 15-month-old human infants.PloS One, 6(10),e23223.   
+Sloane,S.,Baillargeon,R.,& Premack,D.(20l2). Do infants have a sense offairness? Psychological Science, 23(2),196-204.   
+Smetana, J. G.,Jambon,M., Conry-Murray,C.,& Sturge-Apple,M.L. (2012).Reciprocal associations between young children's developing moral judgments and theory of mind. Developmental Psychology, 48(4), 1144–1155.   
+Smetana,J.G.,Rote,W.M.,Jambon,M.,Tasopoulos-Chan,M.,Villlobos,M.,& Comer,J.(2012). Developmental changes and individual differences in young children's moral judgments. Child Development, 83(2), 683-696.   
+Svetlova, M.,Nichols,S.R.,& Brownel, C.A. (2010).Toddlers' prosocial behavior: from instrumental to empathic to altruistic helping. Child Development, 81(6),1814-1827.   
+Tian,Y., Wang,L.,& Xu, Y. (202O). Research status and prospect of social mindfulness. Advances in Psychology, 10(8),1069-1078.   
+[田一，王莉，许燕.(2020)．社会善念的研究现状及展望．心理学进展，10(8),1069-1078.]   
+Van de Vondervoort,J.W.,& Hamlin,J. K. (2O17).Preschoolers’ social and moral judgments of third-party helpers and hinderers align with infants’social evaluations.Journal ofExperimental Child Psychology,164, 136-151.   
+Van Doesum,N. J., Van Lange,D. A. W.,& Van Lange,P.A. M. (2013). Social mindfulnes: skill and wilto navigate the social world.Journal of Personality and Social Psychology,105(1),86-103.   
+Warneken,F.,& Tomasello,M. (2006). Altruistic helping in human infants and young chimpanzees. Science, 311(5765),1301-1303.   
+Warneken,F.,& Tomaselo,M. (2Ol3).The emergence ofcontingent reciprocity in young children. Journal of Experimental Child Psychology,116(2),338-350.   
+Wellman, H. M. (2014). Making minds: how theory of mind develops. Oxford University Press.   
+Wellman,H.M.,Fang,F.,Liu,D.,Zhu,L.,&Liu, G. (20o6).Scaling of theory-of-mind understandings in Chinese children. Psychological Science,17(12),1075-1081.   
+Wrle,M.,&Paulus,M. (2O19).Normative foundations of reciprocity inpreschoolers.Journal of Experimental Child Psychology,188,104693.   
+Wu, Z.,& Su,Y.(2O14). How do preschoolers’ sharing behaviors relate to their theory of mind understanding? Journal of Experimental Child Psychology,120,73-86.   
+Wang,Q., Su, Y.J.,& Liu,L.H. (20oo). Theory of mind—a broad and challnging research field.Acta Scientiarum Naturalium Universitatis Pekinensis,36(5),733-738.   
+[王茜，苏彦捷，刘立惠.(2000).心理理论——一个广阔而充满挑战的研究领域．北京大学学报(自然科学 版)，36(5),733-738.]   
+Zhao,X.,Wente,A.,Flecha,M.F., Galvan,D.S., Gopnik,A.,& Kushnir,T. (2021).Culture moderates he relationship between self-control ability and free willbeliefs in childhood. Cognition,210,104609.   
+Zhao,X., Zhao,X.,Gweon, H.,& Kushnir,T. (2O21).Leaving a choice for others: children's evaluations of considerate, socially-mindful actions. Child Development, 92(4),1238-1253.
+
+# The relationship between preschoolers’ understanding of considerate socially-mindful actions and theory of mind
+
+ZHAO Xin1 LI Dandan' YANG Xiangdongl
+
+(DepartmentofEducational Psychology,EastChina Normal University,Shanghai,2Ooo62,China)
+
+# Abstract
+
+We live in a highly interdependent world. Even if we do not directly interact with others, our own behaviors can have an indirect impact on others.Such behaviors that indirectly bring benefits to others are defined as considerate，socially-mindful actions. In this study，we examined preschoolers’ evaluation of considerate socially-mindful actions； importantly,we also explored the underlying developmental mechanisms by examining its potential relationship to the development of theory-of-mind abilities.A total of 10o children aged $4 { \sim } 6$ were recruited in this study. In the social mindfulness task, children were asked to compare two story characters, both of whom were to choose snack at snack time. One of the characters leaves a choice for the person waiting behind when she took a piece of fruit for herself (i.e.,acts socially mindful),while the other character in a similar situation leaves no choice for the person waiting behind (i.e., does not act socially mindful). Children were then asked 1) which of these two characters was nicer and 2) who they would prefer to choose as a friend. In addition, children were also administered theory-of-mind tasks (including the content false belief task,location false belief task,and hidden emotion task). We also measured children's prosocial orientation (by a sharing task) and executive functioning capacity (by a Day/Night Stroop task) as controlling variables. We found that, first, with age,children increasingly rated the socially-mindful character as nicer than the character who left no choice,and increasingly selected the socially-mindful character as a friend. Second, when controlling for age, children's evaluations and friend preference in the social mindfulness task was significantly positively correlated with their theory-of-mind,but was not correlated with their sharing behaviors or executive functioning. Such correlation remained significant when controlling for sharing and executive functioning. In summary, between the ages 4 and 6, children gradually develop an understanding and evaluation of social mindfulness, and such development is correlated with the development of theory-of-mind abilities. These findings provide insights for our understanding of children's social and moral evaluation and its underlying developmental mechanism.
+
+Keywords:social cognitive development， social mindfulness, theory of mind, preschoolers, moral cognition
+
+# 附录1儿童测试指导语
+
+# 第一部分心理理论任务
+
+子任务1：意外内容任务
+
+这里有一个盒子。你认为这个盒子里面有什么呀？
+
+好的，让我们来看一下。看！这里其实有一只笔！有一只笔在这个盒子里面。好，让我们把它放回里面。现在，你认为这个盒子里面有什么呀？
+
+一只笔，正确！好，这是我的朋友皮皮。皮皮之前从来没有看过这个盒子的里面。你觉得皮皮认为盒子里面有什么呢？是饼干还是笔呢？
+
+皮皮之前看见过这个盒子里面吗？
+
+非常好！
+
+子任务2：意外地点任务
+
+这里是一个草丛。琳琳的猫藏在了草丛里。琳琳觉得她的猫藏在车库里。现在琳琳要去找她的猫了，你觉得她会去哪里找她的猫呢？
+
+会去草丛里找，还是会去车库里找她的猫呢？
+
+猫实际上在哪里呢？
+
+子任务3：隐藏情绪任务
+
+这里有三张不同的脸。你能告诉我那张脸是开心的吗？哪一张脸是难过的呢？哪一张脸是还可以呢？ (如孩子回答错误，纠正)
+
+好，现在我要给你讲一个有关小马的故事。然后我要问你他内心的感受是怎样的，和他脸上的表情是怎样的。他内心的感受可能和他脸上表现出来的表情不同。这是小马。今天是小马的生日，小马的朋友们要给他庆祝生日。小马很希望得到一个玩具车作为生日礼物，但实际上他得到了一本无聊的书作为生日礼物。他想要在大家面前表现得有礼貌，所以他决定隐藏自己的真实感受。
+
+所以你能告诉我，小马希望收到什么礼物呢？他实际上收到了什么呢？
+
+非常好。所以现在，小马的真实感受是怎样的？他的内心感受是怎样的？他感觉很开心，还可以，还是难过呢？
+
+（记录小朋友回答）
+
+好。然后当所有人都在笑的时候，小马脸上的表情看起来是怎么样的呢？他看起来很开心？看起来还可以？还是他看起来难过？
+
+非常棒！
+
+# 第二部分分享任务
+
+这里有5张贴纸。现在，所有的贴纸都是你的。在你之后，待会儿会有其他小朋友过来，如果你愿意的话，你可以决定是否要跟待会儿要来的下一个小朋友分享任意数量的贴纸。如果你决定要跟一会儿要来这里的男生/女生分享一些贴纸，你可以把你想要分享的贴纸放进这个信封里。记住，所有的贴纸都是你的，你可以决定你想做什么。你可以分享一个或者两个或者三个或者四个贴纸或者五个贴纸，或者你也可以自己保留所有的贴纸。我们都会转过去，这样就没有人可以看到你是怎么分的。
+
+哪个是给你的信封？哪个是给别的小朋友的？
+
+会有其他人看到你做了什么吗？
+
+好的，你可以开始分了。
+
+# 第三部分社会善念理解任务
+
+你好，小朋友。在这个游戏中，我们要一起看一个有关贝贝和她的朋友的故事的视频。在这个视频之后，我要问你一些问题。
+
+（播放视频：见https://osf.io/9feum/?view_only $\mathbf { \bar { \rho } } =$ eb95eeafba1447faa49f7959e29f26ce)
+
+好的，现在我要问你一些问题了。
+
+你还记得吗？在早上的加餐时间，欢欢选了什么？那么她留下什么给贝贝选呢？
+
+在下午的加餐时间，乐乐选了什么？然后她留下什么给贝贝选呢
+
+好的，现在我要问你，欢欢和乐乐，你觉得谁对于贝贝来说是个更好的朋友呢？为什么呢？
+
+如果你要从欢欢和乐乐当中选一个小朋友做你的朋友，你会选择哪一个？欢欢还是乐乐？为什么呢？
+
+# 第四部分 执行功能任务
+
+小朋友你可以告诉我，太阳是什么时候出现在天空，是在白天还是晚上？那月亮跟星星是什么时候出现在天空，是在白天还是晚上？
+
+这个游戏是这样玩的，当我让你看这张图片的时候（展示太阳的图片），你要说"晚上。”你可以说"晚上"吗？当我让你看这张图片（展示月亮的图片）的时候你要说"白天。"你可以说"白天"吗？好我们再来练习一遍！（呈现太阳；如果孩子什么都不说，就追问看到这张牌你要说什么？）
+
+这个呢？（呈现月亮；如果孩子什么都不说，就追问看到这张牌你要说什么？）
+
+注意：在练习阶段，要给予反馈，若孩子答错，则需重复规则：“这是一张（白天／晚上）的图片，但是在这个游戏里，当我让你看这张图片你要说（晚上／白天）然后当我让你看这张图片你要说（白天／晚上）。”练习最少6张图片，直到孩子连续回答对两个。
+
+记录孩子的最初回答，如果孩子先答错后来改对了，则算错误回答。

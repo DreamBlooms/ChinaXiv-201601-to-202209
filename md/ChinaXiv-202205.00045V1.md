@@ -1,0 +1,306 @@
+# 基于条件生成对抗网络的梯级表面高光去除方法
+
+胡宇航‘，胡海洋1，李忠金‘²
+
+(1.杭州电子科技大学 计算机学院，杭州 310018;2.浙江省北大信息技术高等研究院智能软件技术与应用研究中心，杭州 310000)
+
+摘要：针对传统高光去除方法对梯级图像高光去除表现不佳问题，提出了一种基于条件生成对抗网络的梯级图像高光去除方法(Multi-scale Spatial dense gradient cascade generative adversarial network，MSDGC-GAN)。该方法设计了一种空间上下文密集模块(Spatial ContextualFeature Dense Block，SCFDB)能够深度提取像素行与列之间的空间背景信息。此外，设计了一种多尺度梯度级联结构以弥补网络下采样中的尺度特征损失，并且该结构能够赋予模型多尺度鉴别能力同时稳定训练梯度分布。在分析了经典双色反射模型基础上，将最大漫反射度估计应用于损失函数以监督网络训练。实验结果表明，所提方法在经典高光数据集和自制梯级高光图像数据集中表现均优于所对比方法。
+
+关键词：高光去除；条件生成对抗网络；多尺度；特征级联；漫反射估计；密集连接网络中图分类号：TP391.4 doi:10.19734/j.issn.1001-3695.2022.02.0089
+
+Conditional generative adversarial network-based method for stepped surface highlight removal
+
+Hu Yuhangl, Hu Haiyangl,Li Zhongjin1, 2 (1.CollegeofComputer&Technology,HangzhouDianziUniversity,Hangzhou 31018,China;2.IntellgentSoftware Technology&ApplicationResearch Center,AdvancedInstituteofInformationTechnology,Peking UniversityHangzhou 310000, China)
+
+Abstract:Itisdiffcultfortraditionalhighlightremovalalgorithstoectivelydealwiththeprocesingofsteppdhiglight images inthestepped paletizingoffactoryrobots.Tosolvethis problem,basedonthe knowledgeofconditional generative adversarial network,this paper proposes astepped surface highlight removal network model named MSDGC-GAN (MultiscaleSpatialdense gradientcascadegenerativeadversarialnetwork).Inthis method,the Spatial ContextualFeature Dense Block (SCFDB)aims todeeply extract the spatial background information between pixel rowsand columns.In addition,the multi-scale gradient cascade structure aims to compensate for the scale feature loss in network downsampling,and this structurecan endowthe model withmulti-scale discriminative ability whilestabilizing thetraining gradient distribution.Based on the analysisofteclasical two-colorreflectance model, this paperapplythe maximum difusereflectance etimationto thelossfunction to supervise the network training.The experimentalresults show thatthe proposed method outperforms the compared methods in both the classcal highlight dataset and the self-made stepped highlight image dataset.
+
+Key words:highlightremoval;conditionalgenerativeadversarialnetwork; multi-scale; featurecascade;difusereflectance estimation; denselyconnected network
+
+# 0 引言
+
+随着新一轮科技革命和产业变革浪潮的兴起，越来越多的企业开始注意到企业生产智能化一体化在未来竞争中所具备的独特优势，而机器人作为智能装备的代表，已越来越成为助推企业转型升级的动力器，企业生产效益的倍增器，企业竞争优势的放大器，并成为各大企业争夺经济发展的制高点，被广泛的应用在各大生产场景下。近年来机器视觉技术不断进步与创新，其在实际生产环境下的技术应用越来越成熟，以视觉引导为基础的机器人已经被广泛应用于各类自动化生产场景。利用机器视觉技术对抓取物体进行定位，再将相关的位姿信息传递给机器手使其具备“感知”能力，成为当前智能化工厂发展导向，而其中对于抓取物体图像的相关处理是机器人能否成功抓取的关键前提。
+
+与普通材质物体不同，在实际扶梯梯级码垛生产线上，机器人所要抓取的梯级材质通常为金属铝制，为此在自然光照射下具有高反光、背景复杂等特性，如图1(a)所示。梯级表面部分区域存在高光覆盖会给后续视觉引导中的图像处理步骤如阈值分割、边缘直线检测等带来麻烦，容易造成分割不匀、检测失败等问题，进而影响后续梯级识别、抓取点定位提取等。因此，金属材质的扶梯梯级图像高光去除对于以视觉引导的机器人码垛系统具有重要意义。
+
+![](images/2886a23a7559e8e5438da55482921010a658ebcde62bf66935d572cb92bdace1.jpg)  
+图1 工厂梯级码垛环境   
+Fig.1Factory step palletizing environment
+
+在早期，许多方法[1,2采取多视图方式给图像增加额外的约束来实现高光去除，对于硬件操作要求较高，而其他方法则基于单视图对图像进行高光去除。然而此类算法大多基于严格的假设分析和先验条件约束，如颜色空间分析和稀疏矩阵分解，在图像纹理或者光照条件复杂的情况下算法性能差，不能满足实际需求。近年来，随着深度学习发展，其已广泛加入社会生产、生活的各个方面。与传统算法相比，深度学习能够通过对训练图像的自学习捕捉图像的相关特征信息，使得其在图像领域也迈上了一个新的台阶，不仅在高级语义视觉任务中如目标检测、文字识别等取得了成功[3]，其在各种低级视觉任务中也取得了成功。然而，由于缺乏大量高质量的高光训练数据，目前利用相关深度学习方法进行高光去除的研究仍然较少，通常仅局限于自制小规模数据集进行训练，不具备通用解决性，如Yi等人[4将对象外观分解为高光、阴影和反照率层，通过在线收集产品照片来构建多视图数据集对图像进行高光去除。高光去除方法可以看成是一种图像复原生成方法，而近年来生成对抗网络(generative adversarialnetwork)的提出与发展，使得其在图像复原生成领域如图像去雾[5,6]、去噪声[7]和阴影去除[8.9]有着突出表现，效果要优于传统卷积网络模型。因此生成对抗网络的发展也为图像高光去除提供了一个全新的研究方向。
+
+综上所述，根据实际工厂需要，为提高梯级图像获取质量从而更利于后续视觉引导系统的分析与处理，本文提出一种基于条件生成对抗网络的梯级图像高光去除模型MSDGC-GAN(Multi-scale Spatial dense gradient cascade generativeadversarialnetwork)，如图2所示。其目的在于尽可能去除梯级表面高光信息，同时最大程度还原梯级纹理细节，提高整体图像质量。首先，采用编码-解码(encode-decode)结构作为生成器基本架构，在密集连接卷积网络基础上(denselyconnected convolution network)构造了一种SCFDB 模块(Spatial ContextualFeatureDenseBlock，空间上下文密集块)作为生成器的基本模块，模块中基于多路并联片间(slice-by-slice)卷积来提取和传递图像像素背景特征信息，通过深层次的密集网络获取图像的语义特征信息；其次，提出一种自底向上的特征级联方式，旨在弥补网络下采样时所损失的部分尺度信息。在借鉴MSG-GAN网络[10基础上，提出一种多尺度梯度鉴别方法，将编码器各尺度级联后的特征图输出通过SOS(Strengthen-Operate-Subtract)增强策略结构与解码器长距离相连，其分支经卷积后输出至对应鉴别器；最后，在损失函数构造上分析了传统双色反射模型，将最大漫反射分量估计应用于损失函数的监督训练。由于目前无大量梯级表面高光图像数据，为了能够训练本文网络框架并评估它的优势，本文创建了一个一对一的梯级表面高光对照数据集，数据集分为高光组和无高光组。实验表明，本文提出的梯级表面高光去除网络框架MSDGC-GAN的表现要明显优于传统高光去除算法。
+
+![](images/532f8d4c5ac2ca425e2c43850e7e8638140835d11c468a5c2d111ed95e00356a.jpg)  
+图2 MSDGC-GAN高光去除模型  
+Fig.2MSDGC-GAN highlight removal model
+
+本文的其余部分组织如下：第一节对现阶段图像高光去除算法和生成对抗网络进行相关介绍；第二节对本文所提方法从网络架构、模块组成和损失函数三方面进行阐述；第三节利用自定义数据集对本文方法和传统方法进行结果对比并实现消融实验；第四节对全文进行总结，并对未来的研究方向进行了展望。
+
+# 1 相关工作
+
+# 1.1图像去高光算法
+
+对于图像去高光而言，现阶段大多数的处理方式可分为单视图和多视图两种方式。前者认为物体表面的光照可由漫反射分量和镜面反射分量所构成，其主要思路也集中在如何最大程度地分离图像的镜面反射分量。Tan 等人[1I]开创性提出先估计伪无镜图像，然后通过比较生成的伪无镜图像与输入图像的强度对数微分，迭代去除镜面分量。Yang 等人[12,13]对该方法进行了扩展，提出用双边滤波方法对伪无镜面图像和输入图像进行比较，达到图像实时处理目的。由于这些伪无镜图像会显著影响最终的光点去除结果，因此基于先验假设理论的高光去除方法也应运而生，如Ramos等人[14提出了一种从单个图像中分离漫反射和镜面反射分量的全自动方法以更少的计算成本获得了更好的质量结果。Yamamoto[15]等人对现有单张图片反射分量分离方法进行改进进一步提高检测精度。Ye[16]等人提出一种基于暗通道先验的镜面高光图像增强算法，通过引入基于局部像素色差的加权函数来解决图像中的光晕伪影。郭碧茹等人[17提出了一种导向滤波的高光去除改进算法，通过设定阈值分离图像黑色像素同时通过导向滤波的优势最大限度保留图像的边缘和纹理避免了纹理效应。但是，由于这些方法需要严格的先验假设，在背景和光照条件复杂的真实场景中，这些方法很容易失败，导致高光无法有效去除问题。
+
+而基于多视图的去高光方式认为高光是方向相关的，所以依赖于从多视角多副图像寻找图像特征关系并进行相互映射以施加额外的约束从而达到图像去高光复原的效果。如文献[1,2]选取固定的场景从不同的角度拍摄了多副图像，而Li等人[18]则在不同光源下对物体拍摄一系列图像，Shah等人[19]提出利用视频片段中相邻图像帧中的附加信息来减少每个帧的镜面反射从而实现高光去除。温佩芝等人[20]提出了一种基于多视角图像特征匹配的高光去除方法。此类多视图方法虽然能达到不错的去除效果，但是其缺陷也明显，即在实际过程中需要有条件的一系列图像作为支撑，应用拓展性不好。
+
+# 1.2生成对抗网络
+
+生成对抗网络由Goodfellow等人[21]提出，主要思想来源于二人零和博弈，其网络结构由生成器与鉴别器所构成。生成器接受一个随机噪声生产对应的假样本，而鉴别器则接受生成器所给的假样本和真样本并试图判别他们的真伪。总的来说生成网络是为了生成更具欺骗性的样本使得鉴别器无法分辨真伪，从而达到以假乱真的效果，使得整体处在一个动态平衡过程，其理论关系可表示为
+
+$$
+\displaystyle \operatorname* { m i n } _ { G } \operatorname* { m a x } _ { D } V \big ( D , G \big ) = \operatorname* { E } _ { x \sim P _ { r } } \bigl [ \log ( D \big ( x \big ) ) \bigr ] + \operatorname* { E } _ { z \sim P _ { s } } \bigl [ \log ( 1 - D \big ( G \big ( z \big ) ) ) \bigr ]
+$$
+
+其中， $P _ { r }$ 代表真实数据的样本分布， $P _ { g }$ 则代表生成器产生的数据分布， $z$ 代表简单样本噪声。而由于传统生成网络无法控制图像的生成，MMirza等人[22]提出了一种条件生成对抗网络CGAN(ConditionalGenerative AdversarialNets)，其将原生GAN网络的概率判断全改成条件概率，即在生成器与判别器的输入端增加条件输入以指导图像生成，损失函数表示为
+
+$$
+\operatorname* { m i n } _ { \boldsymbol { \sigma } } \operatorname* { m a x } _ { \boldsymbol { D } } V ( \boldsymbol { D } , \boldsymbol { G } ) = \operatorname * { E } _ { \boldsymbol { x } - \boldsymbol { P _ { r } } } [ \log ( \boldsymbol { D } ( \boldsymbol { x } | \boldsymbol { y } ) ) ] + \operatorname * { E } _ { \boldsymbol { z } - \boldsymbol { P _ { \boldsymbol { g } } } } [ \log ( 1 - D ( G ( \boldsymbol { z } | \boldsymbol { y } ) ) ) ]
+$$
+
+其中， $y$ 表示先决条件。基于CGAN思想，Isola 等人[23]提出了一种有监督的图像到图像翻译网络(pix2pix)，用于图像配对的翻译转换，其生成器与鉴别器分别使用了U-net架构和马尔可夫判别器。pix2pix方法取得了良好的效果，但是由于其网络结构问题最终生成图片只适合低分辨率图像，并且与真实图像存在一定差距，为此Wang 等人[24]提出一种高分辨率pix2pixHD网络，利用多尺度判别技术弥补了pix2pix 网络对于生成高分辨率图像的不足，但其生成的图像色彩过大，虽然对于粗尺度上的图像生成能够有效的进行监督，但对于细尺度的生成具有缺陷难以生成具有质感的真实图像。Zhu等人[25]提出一种无监督的循环对抗网络(CycleGAN)，解决了图像到图像转换需要配对图像的问题。为了解决GAN 网络训练时梯度不稳定和对超参数敏感的问题，AKarnewar等人[10提出了一种多尺度梯度生成对抗网络(MSG-GAN)，将鉴别器与各尺度特征输出图建立通道从而稳定梯度流动。
+
+为了解决传统高光去除算法对于梯级表面高光处理效果不佳的问题，本文基于条件生成对抗网络提出了一种MSDGC-GAN梯级高光去除模型，利用自定义梯级数据集训练模型网络，在实验分析中本文不仅与传统高光去除算法进行对比，同时加入了基于pix2pixHD的模型方法进行比较，实验证明本文所提出MSDGC-GAN模型表现要优于现有方法。
+
+# 2 本文方法
+
+# 2.1网络架构
+
+本文的目的是通过输入一张待去除高光梯级图像 $I _ { H }$ ，且不通过其他任何相关信息辅助生成一张高光抑制的对应清晰图像 $I _ { s }$ ，因此构建了一个多尺度条件生成对抗网络，旨在通过端到端的方式获取高光去除图像。网络主体结构由生成器与鉴别器组成，其中生成器基本架构采用U-net结构，利用其编码-解码结构特点提取图像深层结构信息。同时为了充分提取特征像素之间的空间上下文背景信息特征，提出了一种空间上下文密集块作为生成器的基本模块。为了解决网络在下采样池化操作中容易丢失部分尺度特征信息的问题，提出一种多尺度梯度级联方法。通过从底层特征依次进行级联输出以弥补相邻模块之间的下采样特征损失，并将各尺度鉴别器与生成器级联输出各自相连，使得网络增强对图像细节的处理能力并具备多尺度鉴别能力，实现了梯度的传导改善了网络训练时梯度不稳定的问题。在损失函数阶段，分析了双色反射模型，将图像的漫反射分量估计应用于损失函数，同时结合对抗性损失函数和特征匹配损失作为目标总损失。网络的总体架构如图2所示。
+
+# 2.2生成器架构
+
+# 2.2.1空间上下文密集块
+
+本文生成器结构以U-net网络为基础，同时为了解决传统U-Net网络在网络层数加深情况下梯度消失和表面特征易丢失的问题，本文借鉴DensNet[26网络理念，将DB 密集块(DenseBlock)引入U-net 网络，通过密集连接来加强特征和梯度的传递，如图3所示。但是传统密集块的堆叠卷积方式不能有效的获取各行各列像素间的空间背景信息，而这种信息已经被证明对高亮检测和低级图像处理是有用的[27]。
+
+![](images/09c1f9753614aac41207e1e56533807738f034deba2a9d393c0aada0babe82fc.jpg)  
+图3空间上下文密集块 Fig.3Spatial context dense block   
+图4 Slice-by-Slice 卷积示意图
+
+$$
+S _ { i } ^ { \prime } = \left\{ \begin{array} { c c } { { R ( G ( S _ { i } ) ) } } & { { i = 1 } } \\ { { S _ { i } ^ { \prime } + R ( G ( S _ { i } ) ) } } & { { i = 2 , 3 , . . . , H } } \end{array} \right.
+$$
+
+其中， $G$ 为卷积操作， $S _ { 0 }$ 为卷积后得到的特征切片， $R$ 为激活函数采用LeakyReLu。其中每个维度方向上的片间卷积函数共享同一个卷积核，通过这种方式可以使得更加丰富的特征信息在像素维度的层与列中实现传递从而有效提取像素的空间背景信息，并且其效率优于普通卷积，简化了信息传递并加快模型的运算效率。对每一路切片信息进行拼接和LeakyReLu激活后将两路支路进行加权融合，最后经过一次$3 { \times } 3$ 卷积层输出特征图，如图4所示。
+
+11 Input Conv 1×1 SCF_R SCF_L SCF_D SCF_U Output
+
+本文密集块之内用 SCF层对相同尺寸的输入特征图进行特征提取。与传统密集层类似，每一个SCF层的输出都会被添加到后续所有SCF层作为共同输入，同时编码器密集块之间利用过渡层的 $1 \times 1$ 卷积压缩特征图通道，再通过平均池化实现特征图的下采样将源输入特征图每次降至1/2尺寸。解码器上采样过程采取与编码器相同的密集层连接结构，而在过渡层中则使用 $4 \times 4$ 转置卷积(Transpose Convolution)将特征图依次向上采样。层内所有归一化采取实例化归一化(InstanceNorm)技术。
+
+# 2.2.2多尺度梯度级联
+
+如图2所示，本文将SCFDB模块作为生成器的基本模块，整个编码器的下采样过程涵盖5个密集块，每个块内有4 个密集连接层。虽然通过密集块能够在每个层级极大丰富特征信息，但是无法解决U-net网络在下采样操作过程中存在容易丢失部分尺度特征信息的问题，且网络的底层特征已被证明在恢复物体细节方面具有重要作用。为此本文提出一种特征级联方法，通过从底层特征逐步与上层特征在通道维度进行级联以增强尺度语义特征的传递，如图5所示。
+
+![](images/ab0f8aa6bc6ab28c55adc2d7eacae3065eb296ce6f797b18c55dc998ae2a3fa7.jpg)  
+Fig.4Slice-by-Slice convolution diagram   
+图5 特征级联方法  
+Fig.5Feature cascading method
+
+通常网络的深层特征图具有较高的通道数，如直接进行特征图的堆叠拼接将会增加网络运行参数影响网络运行效率。为了减少网络内存的消耗，本文通过一次简单卷积操作将每次级联后的特征块通道数压缩至原始数量级。设在编码器下采样操作后得到第 $k$ 个尺度的特征块为 $\omega _ { k } \left( x \right)$ ，则每一级级联操作可表示为
+
+$$
+\begin{array} { l l } { \tilde { \omega } _ { k } ( x ) { = } C o n \nu ( { U p } ( \omega _ { k } ( x ) ) ) } \\ { \tilde { \omega } _ { i } ( x ) { = } C o n \nu ( { U p } ( C a t ( \omega _ { i } ( x ) , \tilde { \omega } _ { i + 1 } ( x ) ) ) ) } & { i { = } 1 , \ldots k { - } 1 } \end{array}
+$$
+
+其中， $\tilde { \omega } _ { k } \left( x \right)$ 为级联后输出特征块， $U p ( \mathbf { \xi } )$ 、 $C a t ( \mathbf { \xi } )$ 和 $C o n \nu ( \mathbf { \mu } )$ 表示上采样、串联和卷积操作。同时受MSG-Net启发，本文在特征级联方法上提出了一种多尺度梯度级联方法(图2)，将编码器每个尺度级联后的特征输出图经过一次 $3 { \times } 3$ 卷积，随后通过长距离跳跃连接送入对应尺度的解码器转置后特征块。此外解码器在不同尺度的层级上有分支，将每次尺度级联增强后的特征图进行输出，经过一次 $1 \times 1$ 卷积后将特征图像送入对应尺度鉴别器，使得鉴别器不但以最终输出作为输入，同时还以编码器中间级联输出作为输入。这让模型能够在更多尺度上捕捉图像信息，使得最终生成图像具有更好的表征同时让网络梯度可以直接从鉴别器流向生成器的中间层，增加了训练期间的稳定性，并解决了U-Net架构非常深入时梯度渐变消失的问题。本文不采用传统U-net的长距离跳跃连接方式将模块中的上采样增强特征和潜在特征连接起来，而是采取SOS增强策略结构[28]，此结构受图像增强算法启发设计能够对图像进行细化增强处理。如图2虚框所示，其操作可表述为
+
+$$
+\psi _ { k } \left( x \right) = \mathbb { C } _ { k } \left( \omega _ { k } \left( x \right) + U p \left( \psi _ { k + 1 } \left( x \right) \right) \right) - U p \left( \psi _ { k + 1 } \left( x \right) \right)
+$$
+
+其中， $\psi _ { k } \left( x \right)$ 表示解码器输出特征图， $\mathbb { C }$ 表示修复单元，每个修复单元代表一个密集块。对于第 $k$ 层的输出 $\psi _ { k } \left( x \right)$ ，首先对上一层得到的特征图 $\psi _ { k + 1 } ( x )$ 进行2倍的上采样，然后将对应编码器输出的特征图 $\omega _ { k } \left( x \right)$ 相加送入修复单元，其结果再减去$\psi _ { k + 1 } ( x )$ 作为最终输出，通过这种方式细化输出结果以增强图像细节。
+
+# 2.3鉴别器架构
+
+在生成器训练过程中解码器将会输出各个尺度的图像，本文采用PatchGAN[23]判别器结构作为鉴别器网络。相比于传统二分类的鉴别器，PatchGAN将图片分为多个区域分别进行单独判别并输出预测概率值，而不是直接对整幅图片进行打分，从而在图像局部细节特征的提取上具有更好的表达能力。本文将源图像缩放至与编码器分支输出图像相应尺度，并互相连接起来，作为一个假的样本提供给鉴别器，同样另外将源图像和实际目标图像同尺度也相互连接作为真样本提供给鉴别器。本文使用了3个鉴别器D1,D2,D3来接受不同尺度的输出图像，所有鉴别器的结构都是相同的。
+
+# 2.4损失函数
+
+本文网络训练的目的是尽可能将输入图片转换为目标无高光图，为此提出一种漫反射分量损失函数(Diffusereflectionloss)，即将漫反射分量估计应用于内容损失用来约束预测图与目标图的差异。根据文献11提出的双色反射模型，非均匀光照下的任意一点的光照反射可分为漫反射与镜面反射，其数学模型为
+
+$$
+P ( Z ) = w _ { f } \left( Z \right) F ( Z ) + w _ { h } \left( Z \right) H ( Z )
+$$
+
+其中， $P ( Z )$ 是图像像素强度， $w _ { f } ( Z )$ 为漫反射分量系数，$w _ { h } ( Z )$ 为镜面反射分量， $F ( Z )$ 为漫反射分量， $H ( Z )$ 为镜面反射分量。其中图像中任意一点像素点的色度可表示为
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle \alpha ( Z ) = \frac { P ( Z ) } { P _ { r } ( Z ) + P _ { s } \left( Z \right) + P _ { b } \left( Z \right) } } \\ { \displaystyle \beta ( Z ) = \frac { F ( Z ) } { F _ { r } ( Z ) + F _ { s } \left( Z \right) + F _ { b } \left( Z \right) } } \\ { \displaystyle \gamma ( Z ) = \frac { H ( Z ) } { H _ { r } \left( Z \right) + H _ { s } \left( Z \right) + H _ { b } \left( Z \right) } } \end{array} \right.
+$$
+
+$$
+w _ { f } \left( Z \right) F ( Z ) = P ( Z ) - \frac { \beta _ { m a x } \left( Z \right) \left( P _ { r } \left( Z \right) + P _ { g } \left( Z \right) + P _ { b } \left( Z \right) \right) - P _ { m a x } \left( Z \right) } { 3 \beta _ { m a x } \left( Z \right) - 1 }
+$$
+
+因此，若能求解最大漫反射色度 $\beta _ { m a x } ( Z )$ ，便能获得图像的漫反射分量，根据文献[13]所提通常最大漫反射分量可由式(9)表示：
+
+$$
+\tilde { \beta } ( Z ) = \frac { \alpha _ { m a x } \left( Z \right) - \alpha _ { m i n } \left( Z \right) } { 1 - 3 \alpha _ { m i n } \left( Z \right) }
+$$
+
+其中， $\tilde { \beta } ( Z )$ 是最大漫反射色度 $\beta _ { m a x } ( Z )$ 的估计值，因此定义多尺度下的漫反射分量损失函数如下：
+
+$$
+\mathcal { L } _ { D } = \frac { 1 } { 2 n } \underset { k = 1 } { \overset { n } { \sum } } \frac { 1 } { c _ { k } w _ { k } h _ { k } } \big \| z _ { k } - y _ { k } \big \| ^ { 2 }
+$$
+
+其中， $z _ { k }$ 和 $y _ { k }$ 分别为第 $\mathbf { k }$ 尺度图像的预测和真实的漫反射分量， $\boldsymbol { c } _ { k }$ ， $w _ { k }$ 和 $h _ { k }$ 为第 $k$ 尺度图像尺寸大小，漫反射分量可由式(8)(9)求出。
+
+本文总的结构损失函数由对抗性损失函数、漫反射分量损失函数和特征匹配损失三个部分所组成，其中采用PIX2PIX-HD所提出的改进对抗损失，其公式如下：
+
+$$
+\mathcal { L } = m i n _ { G } \Bigg ( m a x _ { D _ { 1 } , D _ { 2 } , \dots D _ { n } } \sum _ { k = 1 } ^ { n } \mathcal { L } _ { G A N } \left( G , D _ { k } \right) \Bigg )
+$$
+
+$$
+\begin{array} { r l } & { \displaystyle \mathcal { L } _ { n e a t } = m i n _ { G } \Bigg ( m a x _ { D _ { 1 } , D _ { 2 } , - D _ { t } } \sum _ { k = 1 } ^ { n } \mathcal { L } _ { \sf G A N } \left( G , D _ { k } \right) \Bigg ) + } & { \displaystyle \lambda _ { 1 } \sum _ { k = 1 } ^ { n } \sum _ { i = 1 } ^ { T } \frac { 1 } { N _ { i } } \Big [ \big \| D _ { k } ^ { ( i ) } \left( x _ { k } , y _ { k } \right) - D _ { k } ^ { ( i ) } \left( x _ { k } , z _ { k } \right) _ { 1 } \big \| _ { 1 } \Big ] + } \\ & { \displaystyle \lambda _ { 2 } \frac { 1 } { 2 n } \sum _ { k = 1 } ^ { n } \frac { 1 } { c _ { k } w _ { k } h _ { k } } \big \| D _ { k } ^ { ( i ) } \left( x _ { k } , y _ { k } \right) - D _ { k } ^ { ( i ) } \left( x _ { k } , z _ { k } \right) _ { 1 } \big \| _ { 1 } } \end{array}
+$$
+
+表示条件损失函数：
+
+$$
+\mathcal { L } _ { \mathtt { G A N } } \left( G , D \right) = E _ { ( x , y ) } \left[ \log \mathrm { D } ( \mathbf { x } , \mathbf { y } ) \right] + E _ { ( x , z ) } \left[ \log \left( 1 - \mathrm { D } ( \mathbf { x } , \mathbf { G } ( \mathbf { x } , \mathbf { z } ) ) \right) \right]
+$$
+
+关于特征匹配损失部分，其定义如下：
+
+$$
+\mathcal { L } _ { F M } \left( G , D _ { k } \right) = \sum _ { k = 1 } ^ { n } \sum _ { i = 1 } ^ { T } \frac { 1 } { N _ { i } } \Big [ \big \lVert D _ { k } ^ { ( i ) } \left( x _ { k } , y _ { k } \right) - D _ { k } ^ { ( i ) } \left( x _ { k } , z _ { k } \right) _ { 1 } \big \rVert _ { 1 } \Big ]
+$$
+
+其中， $N _ { i }$ 代表判别器第 $i$ 层的元素数， $T$ 为总层数， $D _ { k } ^ { ( i ) }$ 代表判别器 $D _ { k }$ 的 $i$ 层特征。
+
+总的损失函数如下：
+
+$$
+\begin{array} { l } { \displaystyle \mathcal { L } _ { \mathit { t o t a l } } = m i n _ { G } \Biggl ( m a x _ { \mathit { D _ { 1 } } , { D _ { 2 } } , . . . , \mathit { D _ { n } } } \overset { n } { \underset { k = 1 } { \sum } } \mathcal { L } _ { \mathit { G a N } } \left( G , \boldsymbol { D _ { k } } \right) \Biggr ) + } \\ { \displaystyle \lambda _ { 1 } \underset { k = 1 } { \sum } \sum _ { i = 1 } ^ { n } \frac { T } { N _ { i } } \Bigl [ \left\| D _ { k } ^ { ( i ) } \left( x _ { k } , y _ { k } \right) - D _ { k } ^ { ( i ) } \left( x _ { k } , z _ { k } \right) _ { 1 } \right\| _ { 1 } \Bigr ] + } \\ { \displaystyle \lambda _ { 2 } \frac { 1 } { 2 n } \sum _ { k = 1 } ^ { n } \frac { 1 } { c _ { k } w _ { k } h _ { k } } \left\| z _ { k } - y _ { k } \right\| ^ { 2 } } \end{array}
+$$
+
+其中， $\lambda _ { 1 }$ 、 $\lambda _ { 2 }$ 分别为特征匹配损失函数和漫反射损失的权值。
+
+# 3 实验结果与分析
+
+# 3.1实验设置
+
+本文去高光条件生成对抗网络基于Pytorch 深度学习框架搭建，编程语言为Python3.7，网络训练服务器配置为八核InterCPUI7，图像处理器(GPU)采用NVIDIAGTX2080Ti，显存20GB。在训练时采用自适应动量估计优化算法(Adam)作为求解器，动量参数β为0.5， $\beta _ { 2 }$ 为默认值，权重采用高斯分布随机初始化，均值为0，标准差为0.02，总共训练200个epoch，前170个epoch保持初始学习率不变，后30个epoch采取线性衰减方式至0。对于损失权重的权值，经过多次实验设置为10， $\lambda _ { 2 }$ 为0.5。由于大多数图像高光去除的传统算法基于颜色空间分布和矩阵运算原理，这类算法不需要大量的图片进行验证，为此目前还未有大规模的公共数据库用于高光梯级图像的去除，因此本文对现实梯级进行拍照采集建立了用于训练与测试的数据集。为了模拟高光效果，通过打光器对梯级进行照射分别收集了在同一位置高光照射下和与无高光照射的梯级物体图像，并对图像进行相同切割选出最优图像对，将其统一裁剪为 $5 1 2 \times 5 1 2$ 大小后(图6)按照有无高光进行分组，总计2000组对照图像。
+
+由于本文模型采用了全卷积结构因此对任何图片输入都适用，为了增加网络的泛化性和通用性，本文还从文献[11\~16,29]中收集高光图像，并将其进行了数据集扩充处理操作至共700组用于泛化训练并且对其进行了分析比较。本文采取客观和主观方面对图像进行实验分析，客观评价方面选取了峰值信噪比(PSNR)和结构相似性(SSIM)作为分析评价指标，PSNR越大表示失真越小，SSIM越大表示图片越接近原始图像，同时本文针对所提模块和损失函数做了消融实验分析。
+
+# 3.2 结果对比分析
+
+为了评估本文所提出的MSDGC-GAN方法去高光效果，首先选取了测试梯级高光图像进行了实验，并与文献[12]、文献[14\~16]、文献[30]和基于pix2pixHD的模型方法分别做了对比，实验效果如图7所示。
+
+可以看出传统基于颜色分析和优化的算法在实际处理梯级单一表面大面积高光时效果很差，如图7所示，文献[14]方法对于此类图像的高光去除方法较差，异常像素面积大，高光区域并未还原，说明算法存在缺陷。文献[16]方法在一定程度上对光点附近进行了抑制，但无法去除中心高光。而文献[30]方法则无法很好检测出此类高光，处理结果与输入图并无多大差距。Pix2pixHD方法结果图颜色失真严重，高光去除效果差。本文模型在梯级的纹理细节处理上更为细腻，一定程度上保留了梯级纹理，同时颜色保真好，高光去除结果自然且未出现异常像素问题。表1是在本文梯级数据集上平均PSNR和SSMI的指标对比，可以本文模型在梯级测试集上的平均PSNR领先其余方法近11/dB，而传统算法指标表现普遍较差，进一步显示了本文模型在处理梯级高光图像上的优势。
+
+![](images/e737630943b96e442d898772e04d11b19338d58b72c94915cbe3403c1ad698d1.jpg)  
+图6 梯级数据集制作
+
+![](images/b95eb1f9ddd3a468a670215823a0331006c8ddc945746b77742132ab59536390.jpg)  
+Fig.6 Cascade dataset production   
+Fig.7Step surface highlight removal comparison
+
+表1在梯级数据集中与不同高光去除方法的比较  
+Tab.1 Comparison with Different Specular Removal Methods in the   
+
+<html><body><table><tr><td colspan="3">CascadeDataset</td></tr><tr><td>方法</td><td>PSNR/dB</td><td>SSIM</td></tr><tr><td>文献[14]</td><td>18.281</td><td>0.672</td></tr><tr><td>文献[16]</td><td>20.512</td><td>0.772</td></tr><tr><td>文献[30]</td><td>22.675</td><td>0.753</td></tr><tr><td>Pix2pixHD</td><td>21.218</td><td>0.646</td></tr><tr><td>MSDGC-GAN</td><td>29.298</td><td>0.842</td></tr></table></body></html>
+
+注：加粗字体为每列最优的结果。
+
+图8为不同高光去除方法与本文方法在现实工位上收集的梯级图像结果对比图。文献[14]方法在第一行图片中对高光区域进行了处理，但颜色还原不自然，文献[16]方法对于高光的去除效果不明显。同时可以看出在处理背景金属高光区域时(第三行)，传统算法显得无能为力，既无法对梯级边缘高光进行抑制去除，也无法有效对背景强光进行消除，同时在背景处产生了大量噪点。而基于pix2pixHD 的方法虽然对高光进行一定程度上抑制但是色彩过大不真实。由于高强度反光区域已经完全丧失了其原有应该具有的特征，算法只能通过附近像素信息尽可能来进行后续的消除还原，而本文模型通过SCFDB模块的稠密特征提取，不仅能够对梯级黄色表面高光进行抑制，同时对于背景处的高强度金属高光消除也具有良好的呈现效果，说明其能有效提取和利用像素背景间的信息，图像整体结构保留完善，未发生严重颜色畸变，还原效果较好，足够满足实际生产中的后续处理要求。
+
+![](images/3ca4400177c00348af710f65e859c62cc5576de785b0eab1871bf87938a04927.jpg)  
+图7 梯级表面高光去除对比  
+图8 现实工位梯级图像高光去除对比  
+Fig.8Comparison of highlight removal in real work station step images
+
+为了验证网络的通用泛化性，本文在训练中将经典高光 图像进行数据集扩充并加入训练，选取了几张代表性高光图像进行了对比实验，如图9所示。从视觉上分析各方法差距很小，其中在图9(a)中，文献[15]方法在兔子耳朵和黄水果上方的光晕残留较，文献[30]方法水果高光去除结果中苹果存在光晕残留且还原较为模糊。表2为各方法在经典高光数据集上的平均PSNR和SSIM数值比较，可以看出pix2pixHD方法的平均性能最差，本文方法性能最优，说明模型在此类简单问题图像上表现也十分优异，整体视觉展示效果和色彩度还原更好，生成图像质量高。
+
+![](images/c0b3993cb0ea541ce9ce78349d8a22c115dfe70230e6f725732f35f3e39bad7a.jpg)  
+Fig.9Classic highlight image comparison
+
+Tab.2 Comparison withDifferent Specular Removal Methods ir   
+
+<html><body><table><tr><td colspan="3">Classic SpecularDatasets</td></tr><tr><td>方法</td><td>PSNR/dB</td><td>SSIM</td></tr><tr><td>文献[15]</td><td>38.342</td><td>0.912</td></tr><tr><td>文献[16]</td><td>39.876</td><td>0.932</td></tr><tr><td>文献[30]</td><td>40.108</td><td>0.938</td></tr><tr><td>Pix2pixHD</td><td>35.586</td><td>0.815</td></tr><tr><td>MSDGC-GAN</td><td>40.298</td><td>0.942</td></tr></table></body></html>
+
+注：加粗字体为每列最优的结果。
+
+综上所述，本文所提方法不论是视觉效果还是指标比较上都有巨大优势，这说明了本文网络所采用的深度编码-解码结构不仅有效利用了U型对称网络结构提取深层次信息的优势，同时通过空间上下文密集模块与多尺度梯度级联增强了视野范围，充分提取了图像的纹理、背景特征信息，为此能够有效生成较高质量的图像，使表面特征得到有效恢复，特征还原更接近实际图片。
+
+# 3.3消融实验
+
+为验证SCFDB 模块和多尺度梯度级联对于图像结果的影响，本文将网络按照不同模块组合在梯级图像集上进行消融对比，共设计为三组：第一组为DB模块作为模型基本模块，采用单一尺度鉴别器方式，第二组为采用DB 模块和本文多尺度梯度级联方式，第三组为SCFDB模块和多尺度梯度级联，实验结果如图10所示。可以看出只采用传统密集块时，如图b所示，由于没有利用图像多尺度信息，结果图较为模糊，梯级纹理还原度不够好质量较差。而对于图10(c)，图像对梯级边缘处还原不够细腻，出现了较为明显的像素异常现象，图像还原差。在应用本文模块后，不仅对于高光区域得到了有效抑制，上述问题也得到解决，图像更为逼真，证明了本文模块能更好捕获和传递图像像素间的特征并且能有效利用多尺度信息。
+
+表3是本文模块消融实验在梯级数据集上的实验对比，通过实验结果可以看出，由于第一组方法并未采用多尺度鉴别器，模型运行速度相对最快，但指标表现最低。比较第2、3组实验可以发现，在同样采用多尺度梯度级联方法下，本文所提出的空间上下文密集块网络模型运行速度要快于传统密集块网络模型，这是由于slice-by-slice 的卷积方式极大提高了卷积效率，且在PSNR和SSMI指标表现上都优于其他实验，进一步证明了本文方法的有效性。
+
+图11显示了本文所提特征损失函数与漫反射损失函数在训练中的收敛情况，可以看到随着网络训练次数的增加模型逐渐趋于收敛，证明损失函数对生成器的训练起到了监督作用。同时为了研究损失函数对于图像重建效果的影响，基于梯级数据集，选取了不同的损失函数进行了消融实验：分别将漫反射损失替代为感知损失 $\mathcal { L } _ { P }$ ，像素距离损失 $\mathcal { L } _ { 1 }$ 并形成不同组合方式对其图像结果进行了指标对比，其中对抗损失和特征函数作为基准不单独进行消融实验。结果如表4所示，可以看出采用本文所采取的损失函数组合，模型的表现更佳。
+
+![](images/5b43c0a26db2d02ad18fe84f0ef38c5c9ce66a7a8cad2a0b0d3f6f863732f8af.jpg)  
+图9 经典高光图像对比  
+图10 不同模块组合效果  
+Fig.10 Combination effects of different module:
+
+表2在经典高光数据集中与不同高光去除方法的比较  
+表3在梯级数据集中不同模块组合比较  
+Tab.3Comparison of different module combinations in the rung datase   
+
+<html><body><table><tr><td>方法</td><td>PSNR/dB</td><td>SSIM</td><td>Time/s</td></tr><tr><td>DB+单一尺度鉴别器</td><td>27.341</td><td>0.826</td><td>0.33</td></tr><tr><td>DB+多尺度梯度级联</td><td>28.151</td><td>0.753</td><td>0.55</td></tr><tr><td>SCFDB+多尺度梯度级联</td><td>29.751</td><td>0.853</td><td>0.42</td></tr></table></body></html>
+
+注：加粗字体为每列最优的结果。
+
+为验证编码器与鉴别器多尺度梯度相连的影响对于训练时梯度分布的影响，本文分别采用编码器中间层级联输出作为鉴别器输入和不采用中间层级联输出分别训练20epoch时的梯度分布，如图12所示，可以注意到，在不使用中间层输出时，由于梯度递减问题，梯度非常接近于零，而在使用编码器中间层级联输出时，模型的梯度分布更好，原因是鉴别器与生成器相连实现了梯度的传导，缓解了梯度训练不稳定问题。
+
+![](images/6d962cf2a100597114b9013eba38b35fa8352104166c01d2e22f6113147fe064.jpg)  
+图11 梯级数据集损失函数收敛情况
+
+表4不同损失函数组合比较  
+Tab.4Comparison of different loss function combinations   
+
+<html><body><table><tr><td>方法</td><td>PSNR</td><td>SSIM</td></tr><tr><td>LGAN +LFM</td><td>27.123</td><td>0.818</td></tr><tr><td>LGAN +LFM +LD</td><td>28.751</td><td>0.853</td></tr><tr><td>LGAN +LFM+LP</td><td>28.142</td><td>0.802</td></tr><tr><td>LGAN +LFM +L</td><td>27.392</td><td>0.834</td></tr></table></body></html>
+
+![](images/0d002344f695e0cb3e2b4f00ca04e9bdfdd29098fd5f85afc4e438aab8807e7c.jpg)  
+Fig.11 Cascade dataset loss function convergence   
+注：加粗字体为每列最优的结果。  
+图12 网络训练 20epoch 时梯度分布  
+Fig.12 Gradient distribution when the network is trained for2O epochs
+
+# 4 结束语
+
+本文设计了一种基于条件生成对抗网络方法来解决单张梯级图像表面高光去除问题。通过将SCFDB模块替代为传统U-net架构基本模块来增强网络对于图像深层信息的特征提取能力，并设计出一种多尺度梯度级联方法赋能网络多尺度鉴别能力并稳定了网络训练梯度，通过对梯级表面模拟高光照射建立了一个用于网络训练和测试的自定义数据集。实验结果表明，本文模型相比基于颜色空间和先验条件分析的传统算法和基于pix2pixHD网络的方法在梯级图像数据集和经典高光数据集高光处理上都具有更优异的表现，具有一定的实际应用前景。但也能看到在处理高强度金属反光区域时所有方法都难以有效去除和还原梯级图像纹理，下一步的工作是继续优化网络结构，解决高强度反光去除问题，同时更进一步优化图像细节还原能力，提高算法效率。
+
+# 参考文献：
+
+[1]Lin S,Li Y,Kang S B,et al.Diffuse-specular separation and depth recovery from image sequences [C]//European Conference on Computer Vision. Berlin: Springer, 2002: 210-224.   
+[2]Lin S,Shum HY. Separation of diffuse and specular reflection in color images [C]//Proc of IEEE Conference on Computer Vision and Pattern Recognition.Piscataway,NJ: IEEE Press,20o1,1:I-I.   
+[3]Ren S,He K,Girshick R,et al.Faster r-cnn: Towards real-time object detection with region proposal networks [J].Advances in Neural Information Processing Systems,2015,28:91-99.   
+[4]YiR,Tan P,Lin S.Leveraging multi-view image sets for unsupervised intrinsic image decomposition and highlight separation [C]//Proc of
+
+AAAI Conference on Artificial Intelligence.2020,34 (07):12685-12692.
+
+[5]SuarezPL,Sappa AD,Vintimilla BX,etal.Deep learning based single image dehazing[C]//Proc ofIEEE Conference on ComputerVision and Patter Recognition.Piscataway,NJ: IEEE Press,2018: 1169-1176.
+
+[6] Dong Y,Liu Y, Zhang H,et al.FD-GAN:Generative adversarial networks with fusion-discriminator for single image dehazing [Cl//Proc of AAAI Conference on Artificial Intelligence.2020,34 (O7):10729- 10736.   
+[7]Chen J,Chen J,Chao H,et al. Image blind denoising with generative adversarial network based noise modeling $[ \mathrm { C } ] / \AA$ Proc of the IEEE Conference on Computer Vision and Pattrn Recognition. Piscataway, NJ: IEEE Press,2018: 3155-3164.   
+[8]Wang J,Li X,Yang J. Stacked conditional generative adversarial networks for jointly learning shadow detection and shadow removal $[ \mathrm { C } ] / \hbar$ （204 Proc of IEEE Conference on Computer Vision and Pattrn Recognition. Piscataway,NJ: IEEE Press,2018: 1788-1797.   
+[9]Liu D,Long C, Zhang H,et al. ARShadowGAN: Shadow generative adversarial network for augmented reality in single light scenes [C]// Proc of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. Piscataway, NJ: IEEE Press,2020: 8139-8148.   
+[10] Karnewar A,Wang O. Msg-gan: Multi-scale gradients for generative adversarial networks [C]// Proc of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.Piscataway,NJ: IEEE Press, 2020: 7799-7808.   
+[11] Tan R T, Ikeuchi K. Separating reflection components of textured surfaces using a single image [M]// Digitally Archiving Cultural Objects. Boston: Springer, 2008: 353-384.   
+[12] Yang Q,Tang J, Ahuja N.Efficient and robust specular highlight removal [J]. IEEE Trans on patterm analysis and machine intelligence,2014,37 (6): 1304-1311.   
+[13] Yang Q Wang S,Ahuja N. Real-time specular highlight removal using bilateral filtering [Cl/ European Conference on Computer Vision. Berlin: Springer,2010: 87-100.   
+[14] Ramos V S,Junior L GDQ S, Silveira L FDQ.Single image highlight removal forreal-time image processing pipelines [J]. IEEE Access,2019, 8: 3240-3254.   
+[15] Takahisa Yamamoto and Atsushi Nakazawa. General improvement method of specular component separation using high-emphasis filter and similarity function[J].ITE Trans on Media Technology and Applications, 7 (2): 92-102,2019. 6,7.   
+[16] Xin Y, Jia Z, Yang J,et al. Specularreflection image enhancement based on a dark channel prior[J].IEEE Photonics Journal,2021,13(1): 1-11.   
+[17]郭碧茹，孔韦韦，陈斌．导向滤波的高光去除改进算法[J].计算机 工程与应用,2021,57(20):229-235.(Guo Bilu,Kong Weiwei,Chen Bin.Improved specular removal algorithm for guided filtering [J]. Computer Engineering and Applications,2021,57 (20): 229-235.)   
+[18] Lin S, Shum H Y. Separation of diffuse and specular reflection in color images [Cl//Proc of IEEE Computer Society Conference on Computer Vision and Pattern Recognition.Piscataway,NJ: IEEE Press,2001,1: I  
+[19] Shah M ZA,Marshall S,Murray P.Removal of specular reflections from image sequences using feature correspondences [J]. Machine Vision and Applications,2017,28 (3): 409-420.   
+[20]温佩芝，周迎，苗渊渊，冯丽园．多视角图像特征匹配的高光去除方 法[J].计算机工程与应用,2018,54(23):156-161.(Weng Peizhi, Zhou Ying,Miao Yuanyuan.Ahighlight removal method for multi-view image feature matching [J]. Computer Engineering and Applications, 2018,54 (23): 156-161.)   
+[21] GOODFELLOWIJ,POUGET-ABADIEJ,MIRZAM,et al.Generative Adversarial Networks [J].Advances in Neural Information Processing Systems,2014,3:2672-2680.   
+[22] Mirza M, Osindero S.Conditional generative adversarial nets [J/OL]. (2014-11-06)[2021-07-23].https://arxiv.org/abs/1411.1784   
+[23] Isola P,Zhu JY,Zhou T,et al. Image-to-image translation with conditional adversarial networks [C]//Proc of IEEE conference on computer vision and pattern recognition.Piscataway,NJ:IEEE Press, 2017: 1125-1134.   
+[24]Wang TC,Liu MY,ZhuJY,et al.High-resolution image synthesis and semantic manipulation with conditional gans [C]// Proc of the IEEE conference on computer vision and pattern recognition.Piscataway, NJ: IEEE Press,2018:8798-8807.   
+[25] Fu G,Zhang Q,Lin Q,et al.Learning to detect specular highlights from real-world images [C]//Proc of the 28th ACM International Conference on Multimedia.New York:ACMPress,2020:1873-1881.   
+[26] Chen Q,Xu J,Koltun V.Fast image processing with fully-convolutional networks [C]//Proc of IEEE International Conference on Computer Vision.Piscataway,NJ:IEEE Press,2017:2497-2506.   
+[27] Huang G,Liu Z,Van Der Maaten L，et al.Densely connected convolutional networks [C]// Proc of IEEE conference on computer vision and pattern recognition.Piscataway,NJ:IEEE Press,2017: 4700- 4708.   
+[28] Suo J,AnD,Ji X,et al.Fast and high quality highlight removal from a single image [J].IEEE Trans on Image Processing,2016,25(11): 5441- 5454.   
+[29] Yi R,Tan P,Lin S.Leveraging multi-view image sets for unsupervised intrinsic image decomposition and highlight separation [C]// Proc of AAAI Conference on Artificial Intelligence.2020,34 (07):12685-12692.   
+[30]Dong H,Pan J,XiangL,et al.Multi-scale boosted dehazing network with dense feature fusion [C]// Proc of IEEE/CVF conference on computer vision and pattern recognition.Piscataway,NJ:IEEE Press, 2020:2157-2167.

@@ -1,0 +1,668 @@
+[
+    {
+        "type": "text",
+        "text": "1 饲料亚麻酸含量对日本沼虾生长、抗氧化能力、非特异性免疫性能及抗氨氮胁迫能力的影响  \n2 1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "罗　娜1,2 丁志丽²张易祥²孔有琴² 吴成龙² 姜志强」 叶金云 2\\*（1.大连海洋大学水产与生命科学学院，大连116000；2.浙江省水生生物资源养护与开发技术研究重点实验室，中国水产科学研究院水生动物繁育与营养重点实验室，湖州师范学院，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\~6 湖州 313000)7 摘要：亚麻酸(C18:3n-3，LNA)对甲壳动物生长、免疫保护和抵抗环境胁迫具有重要的调8 节作用。本试验旨在饲料LNA含量对日本沼虾抗氧化能力、非特异性免疫性能和抗氨氮肋9 迫能力的影响，探讨日本沼虾饲料中适宜的LNA 含量。试验配制LNA 含量分别为0（L0,  \n10 对照）、 $0 . 5 \\%$ （L0.5）、 $1 . 0 \\%$ （L1.0)、 $1 . 5 \\%$ （L1.5）、 $2 . 0 \\%$ （L2.0）和 $2 . 5 \\%$ （L2.5）的6种等  \n11 氮等脂的半纯化饲料，饲喂初始体重为‘ $\\left( 0 . 1 2 { \\pm } 0 . 0 1 \\right.$ ） $\\mathrm { \\bf ~ g }$ 日本沼虾幼虾8周。每种饲料投喂 5  \n12 个水族箱（重复)，每个水族箱放养 50 尾试验鱼。饲养试验结束后，从每个水族箱选取 10  \n13 尾试验鱼进行 $2 4 \\mathrm { ~ h ~ }$ 氨氮（水体总氨氮浓度为 $7 . 9 2 2 ~ \\mathrm { m g / L }$ ）胁迫试验。结果表明：日本沼虾  \n14 特定生长率、增重率和存活率均随饲料LNA含量的增加呈先升后降的趋势，但组间差异不  \n15 显著 $( P { > } 0 . 0 5 )$ 。LNA的含量在肝胰腺和肌肉中都随饲料LNA含量的增加而增加。随着饲料  \n16 中LNA含量的增加，日本沼虾肝胰腺超氧化物歧化酶(SOD）、谷胱甘肽过氧化物酶(GSH-Px)  \n17 活力和总抗氧化能力(T-AOC)基本呈现先升后降的趋势，且均在L1.0组达到最高值。L0.5、  \n18 L1.0、L1.5、L2.0 和L2.5组肝胰腺丙二醛（MDA）含量显著低于L0 组（ $. P { < } 0 . 0 5 )$ 。肝胰腺  \n19 碱性磷酸酶(ACP)活力以L1.0 组最高,但L1.0 和L1.5 组之间不存在显著性差异( $( P { > } 0 . 0 5 )$ 。  \n20 随着饲料LNA含量的增加，肝胰腺溶菌酶（LYZ）活力呈先升后降的趋势，在L1.5 组达到  \n21 最高，显著高于其他各组（ $P { < } 0 . 0 5 \\$ 。 $2 4 \\mathrm { ~ h ~ }$ 氨氮胁迫后，L0.5、L1.5、L2.0、L2.5 组的肝胰  \n22 腺 MDA含量显著低于LO组（ $( P { < } 0 . 0 5 )$ ，且以L1.5组MDA含量最低，显著低于其余各组  \n23 （ $P { < } 0 . 0 5 )$ ；肝胰腺 SOD 活力和 T-AOC 随着饲料LNA 含量的增加呈先上升后下降趋势，  \n24 L1.5 组 SOD 活力达到最高，L1.0 组 T-AOC 达到最高；肝胰腺GSH-Px 活力以 L0 组最高，但与L1.0组差异不显著（ $P { > } 0 . 0 5$ )。以肝胰腺 SOD 活力为指标，经二次回归分析得出日本沼虾的 LNA 需要量为 $1 . 1 9 \\%$ 。综上，饲料中适宜的LNA含量（ $( 1 . 0 \\% { \\sim } 1 . 5 \\%$ ）能改善日本沼虾的生长，增强其抗氧化能力和非特异性免疫性能，缓解氨氮胁迫对其造成的负面影响。关键词：日本沼虾；亚麻酸；生长；抗氧化；非特异性免疫；抗氨氮胁迫  \n中图分类号：S963  \n脂肪酸在水生生物免疫和炎症反应过程中发挥重要作用[1-2]。在对鱼类的研究中发现，饲料中多不饱和脂肪酸（polyunsaturated fatty acids,PUFA）具有免疫调控作用，包括增强吞噬作用、呼吸爆发活动、抗原呈递及体液免疫过程[3-5]。亚麻酸（C18:3n-3，LNA)，属于十八碳PUFA，是合成类二十烷酸（包括前列腺素和白细胞三烯）的前体，并能通过增强免疫功能激活前列腺素以及提高抗氧化应激能力[6]。如Wu等[7]对石斑鱼(Epinephelus malabaricus）的研究中发现，饲料中LNA与亚油酸（ $C 1 8 { : } 2 \\mathrm { n - } 6$ ，LOA）的比率为3.3（亚麻籽油含量为（204号 $2 8 . 8 \\%$ ，LOA含量为 $1 . 3 \\%$ ）时，头肾白细胞吞噬作用和呼吸爆发活动显著增强。另有研究发现，用亚麻油（亚麻油组饲料中LNA 含量为 $4 8 . 1 \\%$ ）完全替代鱼油（鱼油组饲料中LNA含量为 $3 . 3 \\%$ ）并不影响欧亚鲈(Perca fluviatilis)机体非特异免疫性能和抗病原胁迫能力[2]。一般认为，甲壳动物将十八碳多不饱和脂肪酸转化为高不饱和脂肪酸（highly  \nunsaturated fatty acids，HUFA）的能力有限，不足以满足其生长发育的需要，所以饲料中必须对其予以补充。不同物种对LNA和LOA的需求量存在差异，据NRC（2011）的资料显示，虾类对LNA 的需求量要高于其对LOA 的需求量[8]。研究者以生长性能为主要评价指标，已确立了中国对虾（Penaeus chinensis）[9]、褐对虾（Penaeus aztecus）[l0]和印度对虾（Penaeus indicus）[1对LNA 的需求量。  \n日本沼虾（Macrobrachium nipponense）隶属于节肢动物门，甲壳纲，十足目，长臂虾科，沼虾属，是一种广泛分布于偏碱和淡水水域中的虾类，因其肉质鲜美、营养丰富而备受人们的喜爱，成为我国淡水养殖业中主要的经济虾种之一[12]。据统计，近10 年来，我国日本沼虾的养殖业一直保持相当稳定的产量[13-14]，但日本沼虾抗应激能力比较弱，在高密度养殖模式下容易出现应激反应，严重制约了日本沼虾的养殖效益和产业的可持续发展。养殖过程中虾类应激反应和疾病的暴发与虾类自身免疫机能密切相关[15]。研究表明饲料中脂肪酸含量会影响动物的免疫力[16]。如在对凡纳滨对虾（Litopenaeus vannamei）的研究中发现，饲料中花生四烯酸(C20:4n-6,ARA)含量影响其免疫相关基因——Toll样受体（Tol-like",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "receptor,TLR)、免疫缺陷(immune deficiency,IMD)和溶菌酶(lysozyme，LYZ)的表达，且ARA调控免疫相关基因表达的效果受饲料二十碳五烯酸（C20:5n-3,EPA）和二十二碳六烯酸（C22:6n-3,DHA）含量的影响[17]。而关于饲料不饱和脂肪酸含量对日本沼虾抗氧化能力和免疫酶活性的影响尚未见报道。因此，本研究通过在饲料中添加LNA，探讨饲喂日本沼虾不同LNA含量饲料后，其生长性能、肝胰腺抗氧化酶和免疫酶活性的变化情况，以及在氨氮胁迫下抗氧化指标的变化情况，旨在确定日本沼虾饲料中LNA的添加量，并为对虾抵抗外界环境应激研究提供理论基础和科学依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1试验饲料",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "秘鲁白鱼粉（粗蛋白质含量为 $6 6 . 6 9 \\%$ ，粗脂肪含量为 $9 . 1 0 \\%$ ）由浙江璟宝饲料股份有限公司提供。亚麻籽油由莱瑙（上海）国际贸易有限公司提供，LNA含量为 $5 0 \\%$ 。以鱼粉和酪蛋白为蛋白质源，配制等氮等脂的LNA含量分别为0（L0，对照）、 $0 . 5 \\%$ （L0.5）、 $1 . 0 \\%$ （L1.0)、 $1 . 5 \\%$ （L1.5)、 $2 . 0 \\%$ （L2.0）和 $2 . 5 \\%$ （L2.5）的半纯化饲料。试验饲料的制作步骤如下：首先将各种原料粉碎过80目筛，按配方准确称量，采用逐级扩大法将维生素、矿物质预混料和诱食剂等微量成分按比例充分混匀，然后加入亚麻籽油、大豆卵磷脂继续搓匀，最后加入水( $4 0 0 \\mathrm { m L / k g }$ 搅拌混匀，用小型饲料造粒机制成粒径为 $1 . 0 \\mathrm { m m }$ 的颗粒饲料, $4 0 \\ \\mathrm { ~ \\textdegree ~ }$ 烘干至饲料中水分含量达到约 $10 \\%$ ，密封后置于 $- 2 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 保存备用。试验饲料组成及营养水平见表1，试验饲料脂肪酸组成见表2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1试验饲料组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c862e7590f78ae49f49e959f0640b08fcaf7299c5eb28e741d52eb9b1f7dbab6.jpg",
+        "table_caption": [
+            "Table 1Composition and nutrient levels of experimental diets (air-dry "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"6\">basis) %</td></tr><tr><td rowspan=\"2\">项目Items</td><td colspan=\"6\">试验饲料Experimental diets</td></tr><tr><td>L0</td><td>L0.5</td><td>L1.0</td><td>L1.5</td><td>L2.0</td><td>L2.5</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酪蛋白Casein</td><td>30.0</td><td>30.0</td><td>30.0</td><td>30.0</td><td>30.0</td><td>30.0</td></tr><tr><td>鱼粉 Fish meal</td><td>20.0</td><td>20.0</td><td>20.0</td><td>20.0</td><td>20.0</td><td>20.0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/63a6f36678b9afadb2064e2dc7c78adb93ecbccf19d68a7567b645558c1ba9e2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>玉米淀粉 Corn starch</td><td>25.0</td><td>25.0</td><td>25.0</td><td>25.0</td><td>25.0</td><td>25.0</td></tr><tr><td>棕榈酸 Palmitic acid</td><td>3.0</td><td>2.5</td><td>2.0</td><td>1.5</td><td>1.0</td><td>0.5</td></tr><tr><td>硬脂酸 Stearic acid</td><td>3.0</td><td>2.5</td><td>2.0</td><td>1.5</td><td>1.0</td><td>0.5</td></tr><tr><td>亚麻籽油 Linseed oil</td><td></td><td>1.0</td><td>2.0</td><td>3.0</td><td>4.0</td><td>5.0</td></tr><tr><td>诱食剂 Attractantl)</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td></tr><tr><td>维生素预混料 Vitamin premix2)</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td></tr><tr><td>矿物质预混料 Mineral premix3)</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td></tr><tr><td>卵磷脂Lecithin</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td></tr><tr><td>纤维素 Cellulose</td><td>8.0</td><td>8.0</td><td>8.0</td><td>8.0</td><td>8.0</td><td>8.0</td></tr><tr><td>羧甲基纤维素钠</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td></tr><tr><td>Carboxymethyl cellulose sodium</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>合计Total</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>41.5</td><td>41.7</td><td>41.3</td><td>41.8</td><td>41.6</td><td>41.8</td></tr><tr><td>粗脂肪Crude lipid</td><td>9.8</td><td>9.2</td><td>9.5</td><td>8.7</td><td>9.7</td><td>9.5</td></tr><tr><td>粗灰分 Ash</td><td>5.2</td><td>5.3</td><td>6.4</td><td>5.2</td><td>6.7</td><td>5.8</td></tr><tr><td>总能 Gross energy/(MJ/kg)4)</td><td>17.9</td><td>18.1</td><td>18.1</td><td>17.9</td><td>18.1</td><td>17.8</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 诱食剂为每千克饲料提供 Attractant provided the following per $\\mathrm { k g }$ of diets：甘氨酸glycine $6 0 \\mathrm { m g }$ ，丙 氨酸alanine $6 0 ~ \\mathrm { m g }$ ，谷氨酸 glutamic acid $6 0 \\mathrm { m g }$ ，甜菜碱 betain $1 2 0 \\mathrm { m g }$ 。 2每千克维生素预混料含有 Contained the following per $\\mathrm { k g }$ of vitamin premix: VA 4 200 000 IU,VC $6 0 ~ \\mathrm { g }$ ， VE $2 0 \\mathrm { g }$ ，VD31 200 000 IU，VK $1 0 \\mathrm { g }$ ，VB1 $1 0 \\mathrm { g }$ ， $\\mathrm { V B } _ { 2 } 1 0 \\mathrm { g }$ ，VB6 $1 6 \\mathrm { g }$ ， $\\mathrm { V B } _ { 1 2 } 2 0 \\mathrm { m g }$ ，烟酸 nicotinic acid 50 g，叶酸 folic acid ${ 4 \\mathrm { g } }$ ，肌醇 inositol $6 0 ~ \\mathrm { g }$ ，生物素 biotin $1 0 0 \\mathrm { m g }$ ，泛酸钙 calcium pantothenate $3 5 \\mathrm { g }$ 。 3)每千克矿物质预混料含有 Contained the following per $\\mathrm { k g }$ of mineral premix: KCl $2 8 \\mathrm { g }$ , MgSO4:7H2O 100 g，NaH2PO4 215 g，KH2PO4 100 g，Ca(H2PO4)2·H2O $2 6 5 \\ \\mathrm { g }$ ，CaCO3 $\\mathrm { 1 0 5 g }$ ，C6H10CaO6·5H2O 165 g, FeC6H5O7 $5 \\mathrm { H } _ { 2 } \\mathrm { O }$ 12 g， $\\mathrm { Z n S O _ { 4 } }$ ·7H2O 4.76 g，MnSO4:H2O 1.07 g，AlCl3 $6 \\mathrm { H } _ { 2 } \\mathrm { O } 0 . 1 5 \\mathrm { g }$ ， $\\mathrm { C u C l _ { 2 } } { \\cdot } 2 \\mathrm { H _ { 2 } O } 0 . 2 4 \\ \\mathrm { g }$ CoC12-6H2O $ { 1 . 4 ~ \\mathrm { g } }$ ， $\\mathrm { K I } 0 . 2 3 \\ \\mathrm { g }$ ， $\\mathfrak { a }$ 纤维素 $\\mathbf { \\alpha } _ { \\mathrm { ~ \\mathfrak { ~ a ~ } ~ } }$ -cellulose $2 . 1 5 ~ \\mathrm { g }$ 。 4）总能根据蛋白质、脂肪和碳水化合物的能量（分别为23.6、39.5和17.2KJ/g）来计算。Grossenergy was calculated based on 23.6,39.5 and $1 7 . 2 \\mathrm { k J / g }$ for protein,lipid and carbohydrate, respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2试验饲料脂肪酸组成(占总脂肪酸的百分比)",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 2Fatty acid composition of experimental diets ( $\\scriptstyle n = 2$ , percentage of total fatty acids） $\\%$ （204号 ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc89806217abbf9d2518f830b7fd6b9c053b039f97f8c1c8706f9e2868cf4bee.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>脂肪酸</td><td colspan=\"6\">试验饲料 Experimental diets</td></tr><tr><td>Fatty acids</td><td>L0</td><td>L0.5</td><td>L1.0</td><td>L1.5</td><td>L2.0</td><td>L2.5</td></tr><tr><td>C14:0</td><td></td><td></td><td></td><td></td><td></td><td>0.73</td></tr><tr><td>C15:0</td><td>0.13</td><td>0.15</td><td>0.14</td><td>0.15</td><td>0.12</td><td>0.13</td></tr><tr><td>C16:0</td><td>43.45</td><td>37.17</td><td>29.49</td><td>26.22</td><td>21.03</td><td>14.63</td></tr><tr><td>C17:0</td><td>0.18</td><td>0.18</td><td>0.19</td><td>0.17</td><td>0.17</td><td>0.18</td></tr><tr><td>C18:0</td><td>42.75</td><td>36.04</td><td>27.23</td><td>23.46</td><td>18.02</td><td>11.29</td></tr><tr><td>£SFA</td><td>87.46</td><td>74.47</td><td>57.93</td><td>50.87</td><td>40.1</td><td>26.96</td></tr><tr><td>C16:1n-7</td><td>0.78</td><td>0.78</td><td>0.80</td><td>0.82</td><td>0.72</td><td>0.82</td></tr><tr><td>C18:1n-7</td><td>0.03</td><td>0.10</td><td>0.05</td><td>0.11</td><td>0.04</td><td>0.09</td></tr><tr><td>C18:1n-9</td><td>4.39</td><td>7.29</td><td>11.02</td><td>12.09</td><td>14.57</td><td>17.29</td></tr><tr><td>£MUFA</td><td>5.20</td><td>8.17</td><td>11.87</td><td>13.02</td><td>15.33</td><td>18.20</td></tr><tr><td>C18:2n-6</td><td>2.06</td><td>4.09</td><td>7.09</td><td>7.97</td><td>9.81</td><td>12.04</td></tr><tr><td>C20:2n-6</td><td>0.08</td><td>0.12</td><td>0.11</td><td>0.12</td><td>0.10</td><td>0.12</td></tr><tr><td>£n-6 PUFA</td><td>2.14</td><td>4.21</td><td>7.2</td><td>8.09</td><td>9.91</td><td>12.16</td></tr><tr><td>C18:3n-3</td><td>0.07</td><td>7.98</td><td>17.50</td><td>23.23</td><td>29.98</td><td>37.45</td></tr><tr><td>C20:5n-3</td><td>1.16</td><td>1.19</td><td>1.29</td><td>1.14</td><td>1.14</td><td>1.27</td></tr><tr><td>C22:6n-3</td><td>2.82</td><td>2.84</td><td>3.01</td><td>2.57</td><td>2.41</td><td>2.82</td></tr><tr><td>£n-3 PUFA</td><td>4.05</td><td>12.01</td><td>21.80</td><td>26.94</td><td>33.53</td><td>41.54</td></tr><tr><td>LNA/LOA</td><td>0.03</td><td>1.95</td><td>2.47</td><td>2.91</td><td>3.06</td><td>3.11</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表中只显示了主要的脂肪酸，实测脂肪酸包括：C12:0、C14:0、C15:0、C16:0、C17:0、C18:0、C20:0、C21:0、C22:0、C14:1、C16:1n-7、C17:1、C18:1n-9、C20:1n-9、C22:1n-9、C24:1n-9、C20:2、C22:2、C18:2n-6、C18:3n-3、C18:3n-6、C20:4n-6、C20:5n-3、C22:5n-3 和C22:6n-3。SFA：饱和脂肪酸；MUFA：单不饱和脂肪酸；PUFA：多不饱和脂肪酸；LNA：亚麻酸；LOA亚油酸。表4和表5同。Only the major fatt acids were shown in the table,and the detected fatty acids included: C12:0, C14:0,C15:0,C16:0,C17:0,C18:0, C14:1,16:1n-7, C17:1,C18:1n-9,C20:1n-9,C22:1n-9,C24:1n-9,C20:2, C22:2,C18:2n-6,C18:3n-3，C18:3n-6，C20:4n-6，C20:5n-3，C22:5n-3 and C22:6n-3. SFA:saturated faty acids；MUFA:monounsaturated fatty acids; PUFA: polyunsaturated fatt acids;LNA: linolenic acid; LOA: linoleic acid.Thesame as Table 4 and Table 5.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2试验虾及其饲养",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验用虾购于湖州邦达生态农业有限公司，暂养1周后，选择健康、体重均匀[（平均体重为（ $0 . 1 2 { \\scriptstyle \\pm 0 . 0 1 }$ ）g]的日本沼虾1500尾，随机分为6组，每组5个重复，每个重复50尾，以重复为单位随机放入到体积为 $3 0 0 \\mathrm { L }$ 的水族箱中，每个水族箱内放置一定量的网片作为躲避物，以减少试验虾互残。试验于2015年7月至2015年9月在浙江省水生生物资源养护与开发技术研究重点实验室进行，每天07:30吸污并换水（换水量约为1/3)，试验使用的水源为曝气的自来水，水质条件为：温度 $2 5 { \\sim } 2 9 \\mathrm { ~ ~ } ^ { \\circ } \\mathrm { C }$ ， $\\mathrm { p H } 7 . 6 { \\sim } 8 . 1$ ，溶氧浓度 ${ > } 6 . 5 \\ \\mathrm { m g / L }$ ，总氨氮浓度 ${ < 0 . 0 1 \\ \\mathrm { m g / L } }$ 。每日于08:30和16:00 各投喂1次饲料，投喂量为虾体重的 $4 \\% \\sim 5 \\%$ ，养殖试验持续8周。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3氨氮胁迫试验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8 周的养殖试验结束后，每箱随机捞取10 尾试验虾，参照邹李昶等[18的方法，用氯化铵调节水体总氨氮浓度至 $7 . 9 2 2 \\mathrm { m g / L }$ ，进入 $2 4 \\mathrm { h }$ 氨氮胁迫试验。氨氮胁迫试验期间连续充气，保证溶氧浓度 $\\geqslant 5 . 0 \\mathrm { m g / L }$ ， $\\mathsf { p H }$ 为 $7 . 6 { \\sim } 8 . 1$ ，温度为 $2 5 { \\sim } 2 9 \\ \\mathrm { ~ \\textdegree ~ }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4样品采集",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "养殖试验结束后饥饿1d后，对各组试验虾称重，并统计存活数。各养殖试验各组及氨氮胁迫试验各组试验虾，均使用解剖器从试验虾的头胸部取出肝胰腺，将虾体和肝胰脏保存于-80℃用于后续指标的测定分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5指标测定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5.1生长性能指标计算公式",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "成活率（survival rate,SR,%） $_ { \\mathrm { = } 1 0 0 } \\times$ 试验结束时存活虾的个体数/试验开始时投放虾的个体数;   \n增重率(weight gain rate, $\\mathrm { W G R } , \\% \\mathrm { { = } } 1 0 0 \\times$ （终末体重-初始体重）/初始体重；   \n特定生长率（specific growth rate,SGR $\\%$ /d) $\\scriptstyle = 1 0 0 \\times$ （ln 终末体重-ln初始体重）/试验天数;   \n饲料系数（feed conversion ratio，FCR） $\\scriptstyle =$ 饲料摄入量/(终末均重-初始均重);   \n摄食率（feeding rate，FR， $\\scriptstyle { \\mathcal { I } } _ { O } ) = 1 0 0 \\times$ 投饵总量[试验天数 $\\times$ (终末均重 $^ +$ 初始均重)/2]。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5.2常规指标测定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "饲料中粗蛋白质含量的测定采用凯氏定氮法（Kjeltec 2200,FOSS,丹麦)，粗脂肪含量的测定采用索氏抽提法（SoxtecTM 2043,FOSS,丹麦)，粗灰分含量的测定采用马福炉 550℃灼烧（14h）法。采用Folch等[19]的方法测定日本沼虾肝胰腺脂肪含量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5.3脂肪酸组成测定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据常国亮等[20]的方法进行样品脂肪酸组成分析。所用仪器为HP-6890气相色谱，毛细管柱型号为Agilent19091J-413（ $3 0 . 0 \\ : \\mathrm { m m } { \\times } 0 . 2 5 \\ : \\mathrm { m m }$ )。进样口温度为 $2 0 0 \\mathrm { ~ \\textdegree ~ }$ ，检测器温度为260℃，起始柱温为 $1 4 0 ^ { \\circ } \\mathrm { C }$ ，逐步升高到 $2 4 0 \\mathrm { ~ \\textdegree ~ }$ ，直到所有组分全部出峰，采用面积百分比法对各脂肪酸成分进行定量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.5.4肝胰腺抗氧化指标测定",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "准确称取肝胰腺约 $0 . 5 \\mathrm { ~ g ~ }$ ，按质量体积比 $1 : 9$ 加入预冷的 $0 . 8 6 \\%$ 的生理盐水，制成 $10 \\%$ 的匀浆液， $3 5 0 0 \\mathrm { r / m i n }$ 离心 $1 5 \\mathrm { m i n }$ ，吸取上清液。根据各种指标的测定方法将上清液稀释成不同浓度，其中上清液中蛋白质含量的测定采用考马斯亮蓝法。所有指标的测定均按照试剂盒（南京建成生物工程研究所生产）说明书进行。脂质过氧化程度通过测定肝胰腺中丙二醛（MDA）含量变化来反映，用硫代巴比妥酸（TBA）法测定肝胰腺中MDA含量。脂质过氧化降解产物中的MDA与TBA缩合形成红色产物，根据颜色变化于 $5 3 2 \\mathrm { n m }$ 处进行比色;超氧化物歧化酶（SOD）活力的测定采用黄嘌呤氧化酶法，活力单位定义为每毫克组织蛋白质在1mL反应液中 SOD 抑制率达 $5 0 \\%$ 时所对应的 SOD量为1个活力单位（U)；谷胱甘肽过氧化物酶（GSH-Px）的测定原理为GSH $\\mathbf { \\cdot P x }$ 可以促进过氧化氢（ $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ ）与还原型谷胱甘肽（GSH）反应生成水（ $_ { \\mathrm { H } _ { 2 } \\mathrm { O } }$ ）及氧化型谷胱甘肽（GSSG)，通过测定GSH的消耗进而得出GSH-Px的活力;总抗氧化能力(T-AOC)的测定原理为抗氧化物质能使三价铁离子 $( \\mathrm { F e } ^ { 3 + } )$ 还原为二价铁离子（ ${ \\mathrm { . F e ^ { 2 + } } }$ )，后者可与啡啉类物质形成稳定络合物，通过比色测定其抗氧化能力的高低，活力单位定义为 $3 7 ^ { \\circ } \\mathrm { C }$ 时每分钟每毫克组织蛋白质使反应体系的吸光度值每增加0.01时为1个T-AOC单位（U）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.5.5肝胰腺非特异性免疫指标的测定",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "肝胰腺酸性磷酸酶（ACP）和溶菌酶（LYZ）活力的测定方法均按照试剂盒（南京建成生物研究所生产）说明书进行。ACP的测定原理为ACP能分解磷酸苯二钠，产生游离酚和磷酸，酚在碱性溶液中与4-氨基安替吡啉作用经铁氰化钾氧化生成红色醌衍生物，根据红色深浅可以测定酶活力的高低。LYZ活力的测定原理是LYZ能水解细菌细胞壁上肽聚糖使细菌裂解而使浓度降低，透光度增强，通过透光度变化来推测LYZ的活力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "试验结果以平均值 $\\pm$ 标准差（mean±SD）表示，采用SPSS19.0 对数据进行单因素方差分析（one way ANOVA）后，若差异达到显著水平，则采用 Tukey's 法进行多重比较，显著水平为 $P { < } 0 . 0 5$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.1饲料LNA含量对日本沼虾生长性能的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，日本沼虾的增重率和特定生长率随饲料LNA含量的增加有先升高后下降的趋势，增重率和特定生长率均以L1.5 组最高，但各组间未表现出显著差异（ $. P { > } 0 . 0 5 \\ '$ 。各组日本沼虾的存活率差异不显著（ $\\cdot P { > } 0 . 0 5 )$ )。饲料LNA含量对日本沼虾饲料系数以及摄食率的影响不显著 $( P 5 0 . 0 5 )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/57aa826b4f7c23f2b38fedb99a2d296e15417c38516acade8be936fe0d1854d7.jpg",
+        "table_caption": [
+            "表3各组日本沼虾的生长性能",
+            "Table 3 Growth performance of oriental river prawn (Macrobrachium nipponense) in different ",
+            "groups $\\scriptstyle ( n = 5 )$ "
+        ],
+        "table_footnote": [
+            "同行数据肩标不同小写字母表示差异显著，相同或无字母表示差异不显著。表4和表5同。"
+        ],
+        "table_body": "<html><body><table><tr><td>组别</td><td>初始体重</td><td>终末体重</td><td>增重率</td><td>特定生率</td><td>存活率</td><td>饲料系数</td><td>摄食率</td></tr><tr><td>Groups</td><td>IBW/g</td><td>FBW/g</td><td>WGR/% 326.80±50.90</td><td>SGR/(%/d) 2.58±0.21</td><td>SR/%</td><td>FCR</td><td>FR/%</td></tr><tr><td>L0 L0.5</td><td>0.12±0.01</td><td>0.53±0.06 0.57±0.10</td><td>355.90±83.92</td><td>2.69±0.33</td><td>83.00±8.08 88.00±5.47</td><td>1.51±0.01 1.52±0.06</td><td>3.58±0.13 3.56±0.10</td></tr><tr><td>L1.0</td><td>0.12±0.01 0.12±0.01</td><td>0.63±0.07</td><td>391.68±59.77</td><td>2.83±0.22</td><td>91.20±5.76</td><td>1.48±0.09</td><td>3.16±0.13</td></tr><tr><td>L1.5</td><td>0.12±0.01</td><td>0.62±0.04</td><td>399.11±32.76</td><td>2.86±0.12</td><td>87.20±10.64</td><td>1.48±0.02</td><td>3.29±0.08</td></tr><tr><td>L2.0</td><td>0.12±0.01</td><td>0.52±0.04</td><td>310.27±36.13</td><td>2.51±0.16</td><td>84.00±11.58</td><td>1.56±0.01</td><td>3.44±0.02</td></tr><tr><td>L2.5</td><td>0.12±0.01</td><td>0.47±0.10</td><td>309.89±86.99</td><td>2.49±0.38</td><td>84.80±7.95</td><td>1.58±0.03</td><td>3.60±0.16</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Values in the same row with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with no or the same letter superscripts mean no significant difference ( $( P { < } 0 . 0 5 )$ . The same as Table 4 and Table 5 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2饲料LNA含量对日本沼虾肝胰腺脂肪含量的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，日本沼虾肝胰腺粗脂肪含量随饲料LNA含量的增加而下降，在L2.5 组达到最低，显著低于其他各组（ $_ { _ { P < 0 . 0 5 ) } }$ ，但L0、L0.5、L1.0及L1.5组间不存在显著性差异（ $. P { > } 0 . 0 5 )$ ）°",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "数据柱标注不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )。图2同。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a2c96dc00aa416efba39ceab0fbd83f8352f23e6fa577aa98ad34729951749b.jpg",
+        "img_caption": [
+            "图1饲料LNA含量对日本沼虾肝胰腺脂肪含量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Date columns with different small letters mean significant difference $( P { < } 0 . 0 5 )$ .The same as Fig.2. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Effects of dietary LNA content on hepatopancreas lipid content of oriental river prawn(Macrobrachium nipponense）",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3饲料LNA含量对日本沼虾肝胰腺和肌肉脂肪酸组成的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表4和表5可知，在肝胰腺和肌肉中，含量最多的是饱和脂肪酸，其次是单不饱和脂肪酸。在肝胰腺中，L0.5 组的饱和脂肪酸含量显著高于除L0 组外的其余各组（ $_ { _ { P < 0 . 0 5 ) } }$ ，而L0 组的单不饱和脂肪酸含量显著高于其余各组（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ )。在肌肉中，L1.0 组的饱和脂肪酸含量显著高于其余各组（ $. P { < } 0 . 0 5 )$ ，而L0组的单不饱和脂肪酸含量显著高于其余各组（P<0.05)。C18:3n-3(即LNA)的含量在肝胰腺和肌肉中都随饲料LNA含量的增加而增加。而C20:5n-3(即 EPA)和C22:6n-3(即 DHA)含量在肝胰腺和肌肉中都随饲料LNA含量的增加呈先升后降趋势。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表4各组日本沼虾的肝胰腺脂肪酸组成（占总脂肪酸的百分比）",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/d102b212b1acac223de163704686f077c0c803a0370c5b7f41b7a61fb08b3f0e.jpg",
+        "table_caption": [
+            "Table 4Hepatopancreas fatty acid composition of oriental river prawn（Macrobrachium nipponense） in different groups ( $\\scriptstyle \\cdot = 3$ , percentage of total fatty acids） $\\%$ （20 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>脂肪酸</td><td colspan=\"6\">组别Groups</td></tr><tr><td>Fatty acids</td><td>L0</td><td>L0.5</td><td>L1.0</td><td>L1.5</td><td>L2.0</td><td>L2.5</td></tr><tr><td>C14:0</td><td>3.25±0.02</td><td>2.68±0.83</td><td>3.30±0.15</td><td>2.86±0.15</td><td>2.88±0.15</td><td>3.18±0.01</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/610276bcb7ba3aef799faf1dc287a3b604518ea12a99a2394b5907491c952fd0.jpg",
+        "table_caption": [
+            "表5各组日本沼虾的肌肉脂肪酸组成（占总脂肪酸的百分比）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>C15:0</td><td>0.28±0.01ab</td><td>0.30±0.02bc</td><td>0.29±0.02ab</td><td>0.26±0.02a</td><td>0.32±0.01c</td><td>0.37±0.02d</td></tr><tr><td>C16:0</td><td>25.34±0.18d</td><td>26.11±0.66d</td><td>22.80±0.07c</td><td>21.43±0.52b</td><td>19.78±0.96a</td><td>20.10±0.09a</td></tr><tr><td>C18:0</td><td>8.41±0.08cd</td><td>9.56±0.16e</td><td>8.52±0.30d</td><td>7.99±0.07bc</td><td>7.07±0.26a</td><td>7.83±0.44b</td></tr><tr><td>SFA</td><td>37.28±0.30d</td><td>39.13±0.99d</td><td>34.92±0.39c</td><td>32.56±0.63b</td><td>30.06±1.36a</td><td>31.47±0.04ab</td></tr><tr><td>C16:1n-7</td><td>15.24±0.13f</td><td>11.73±0.49e</td><td>9.01±0.01d</td><td>7.56±0.22c</td><td>6.50±0.38b</td><td>5.24±0.05a</td></tr><tr><td>C18:1n-7</td><td>0.30±0.08</td><td>0.38±0.01</td><td>0.25±0.15</td><td>0.63±0.46</td><td>0.48±0.48</td><td>0.28±0.03</td></tr><tr><td>C18:1n-9</td><td>40.61±0.10c</td><td>36.07±0.80b</td><td>37.01±0.55b</td><td>34.59±0.40b</td><td>36.94±2.36b</td><td>30.99±0.05a</td></tr><tr><td>C20:1n-9</td><td>0.66±0.01d</td><td>0.04±0.01a</td><td>0.27±0.04c</td><td>0.02±0.01a</td><td>0.10±0.01b</td><td>0.03±0.01a</td></tr><tr><td>MUFA</td><td>56.54±0.52e</td><td>48.21±1.31d</td><td>46.55±0.65cd</td><td>42.80±0.64b</td><td>44.03±2.48bc</td><td>36.54±0.04a</td></tr><tr><td>C18:2n-6</td><td>0.16±0.01a</td><td>2.02±2.65a</td><td>5.28±0.12b</td><td>6.04±0.06bc</td><td>6.73±0.27bc</td><td>8.31±0.05c</td></tr><tr><td>C20:4n-6</td><td>0.34±0.01b</td><td>0.38±0.01c</td><td>0.28±0.01a</td><td>0.28±0.03a</td><td>0.34±0.01b</td><td>0.36±0.01bc</td></tr><tr><td>n-6 PUFA</td><td>0.50±0.01a</td><td>2.40±2.63a</td><td>5.56±0.13b</td><td>6.31±0.04bc</td><td>7.08±0.27bc</td><td>8.67±0.06c</td></tr><tr><td>C18:3n-3</td><td>0.53±0.01a</td><td>4.93±0.13b</td><td>7.66±0.08c</td><td>11.66±0.05d</td><td>12.86±0.35e</td><td>17.32±0.08f</td></tr><tr><td>C20:5n-3</td><td>1.30±0.04c</td><td>1.41±0.05d</td><td>1.07±0.04a</td><td>1.18±0.01b</td><td>1.11±0.02ab</td><td>1.19±0.05b</td></tr><tr><td>C22:5n-3</td><td>0.18±0.01e</td><td>0.15±0.01d</td><td>0.10±0.02b</td><td>0.13±0.01c</td><td>0.07±0.01a</td><td>0.07±0.01a</td></tr><tr><td>C22:6n-3</td><td>2.06±0.06d</td><td>2.03±0.09d</td><td>1.41±0.06b</td><td>1.75±0.02c</td><td>1.13±0.01a</td><td>1.34±0.07b</td></tr><tr><td>n-3 PUFA</td><td>4.07±0.11a</td><td>8.52±0.27b</td><td>10.24±0.20c</td><td>14.71±0.78d</td><td>15.16±0.38d</td><td>19.91±0.20e</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/46439e7f1cb266c0e0000e8fa178b7753ce42e76ab8410c274711606d3727a62.jpg",
+        "table_caption": [
+            "Table 5Muscle faty acid composition of oriental river prawn （Macrobrachium nipponense） indifferent groups ( $\\scriptstyle \\overbrace { n = 3 }$ ，percentage of total fatty acids） $\\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>脂肪酸</td><td colspan=\"6\">组别Groups</td></tr><tr><td>Fatty acids</td><td>L0</td><td>L0.5</td><td>L1.0</td><td>L1.5</td><td>L2.0</td><td>L2.5</td></tr><tr><td>C14:0</td><td>1.50±0.09bc</td><td>1.40±0.04b</td><td>1.62±0.04c</td><td>1.39±0.01b</td><td>1.17±0.06a</td><td>1.22±0.06a</td></tr><tr><td>C16:0</td><td>25.67±0.31c</td><td>22.03±0.17a</td><td>27.15±0.18d</td><td>22.36±0.13a</td><td>22.04±0.27b</td><td>22.48±0.02a</td></tr><tr><td>C18:0</td><td>7.67±0.06b</td><td>6.94±0.08a</td><td>8.33±0.09c</td><td>8.63±0.02d</td><td>9.10±0.06e</td><td>8.48±0.04cd</td></tr><tr><td>SFA</td><td>34.84±0.27d</td><td>30.38±0.22a</td><td>37.09±0.31e</td><td>32.37±0.15b</td><td>34.30±0.27c</td><td>32.17±0.03b</td></tr><tr><td>C16:1n-7</td><td>7.57±0.02f</td><td>5.24±0.05e</td><td>4.67±0.08d</td><td>2.67±0.03c</td><td>2.00±0.11a</td><td>2.31±0.12b</td></tr><tr><td>C18:1n-7</td><td>0.32±0.15</td><td>0.21±0.15</td><td>0.65±0.01</td><td>0.11±0.01</td><td>0.10±0.02</td><td>0.24±0.01</td></tr><tr><td>C18:1n-9</td><td>33.69±0.61d</td><td>29.63±0.48c</td><td>27.43±0.98b</td><td>24.88±0.13a</td><td>23.60±0.23a</td><td>24.88±0.24a</td></tr><tr><td>MUFA</td><td>41.58±0.44e</td><td>35.08±0.30d</td><td>32.75±0.91c</td><td>27.66±0.15b</td><td>25.70±0.10a</td><td>27.43±0.12b</td></tr><tr><td>C18:2n-6</td><td>3.64±0.01a</td><td>5.97±0.07c</td><td>5.55±0.09b</td><td>6.49±0.01d</td><td>7.52±0.07e</td><td>7.19±0.05f</td></tr><tr><td>C20:4n-6</td><td>2.30±0.06b</td><td>2.76±0.01c</td><td>1.93±0.05a</td><td>2.98±0.03e</td><td>2.93±0.01de</td><td>2.84±0.02cd</td></tr><tr><td>n-6 PUFA</td><td>5.94±0.04a</td><td>8.73±0.07c</td><td>7.48±0.14b</td><td>9.47±0.04d</td><td>10.44±0.06f</td><td>10.03±0.03e</td></tr><tr><td>C18:3n-3</td><td>1.30±0.02a</td><td>5.85±0.09b</td><td>6.27±0.05c</td><td>8.91±0.01d</td><td>10.44±0.12e</td><td>10.97±0.09f</td></tr><tr><td>C20:5n-3</td><td>9.30±0.20b</td><td>12.12±0.03e</td><td>8.16±0.62a</td><td>12.06±0.10e</td><td>10.95±0.09d</td><td>10.64±0.03c</td></tr><tr><td>C22:5n-3</td><td>0.23±0.07</td><td>0.26±0.01</td><td>0.25±0.06</td><td>0.24±0.01</td><td>0.18±0.01</td><td>0.20±0.02</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/891834f43d1f9d666e5978b1b56eee7d5405bce715dbf747ed9ebe035d55a87b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "42.4饲料LNA含量对日本沼虾肝胰腺抗氧化指标的影响"
+        ],
+        "table_body": "<html><body><table><tr><td>C22:6n-3</td><td>6.03±0.33b</td><td>6.64±0.05c</td><td>5.14±0.19a</td><td>7.55±0.13d</td><td>5.97±0.25b</td><td>6.10±0.14b</td></tr><tr><td> n-3 PUFA</td><td>16.86±0.62a</td><td>24.87±0.01c</td><td>20.17±0.33b</td><td>28.76±0.25e</td><td>27.54±0.21d</td><td>27.91±0.07d</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，随着饲料LNA 含量的增加，日本沼虾肝胰腺 SOD、GSH-Px活力和T-AOC基本呈现先升后降的趋势，并均L1.0组平达到最高，其中 SOD 活力显著高于其余各组（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ，GSH $\\mathbf { \\cdot P x }$ 活力显著高于除L0 组外的其余各组（ $( P { < } 0 . 0 5 )$ )，T-AOC 显著高于L1.5、L2.0、L2.5组（ $. P { < } 0 . 0 5 )$ )。L0 组肝胰腺 MDA含量最高，显著高于L0.5、L1.0、L1.5、L2.0、L2.5组（ $. P { < } 0 . 0 5 )$ 。在 $1 . 5 \\% \\sim 2 . 5 \\%$ 范围内，随着饲料LNA含量的增加，日本沼虾肝胰腺MDA含量有一定的递增趋势。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb9492571c90826febc34525765311ef05d16707740a1e9edd1e9273eae3a5f2.jpg",
+        "table_caption": [
+            "表6各组日本沼虾的肝胰腺抗氧化指标",
+            "Table 6Hepatopancreas antioxidant indices of oriental river prawn（Macrobrachiumnipponense） in different groups $\\scriptstyle { \\cdot _ { n = 3 } }$ ）"
+        ],
+        "table_footnote": [
+            "同列数据肩标不同小写字母表示差异显著，相同或无字母表示差异不显著。表7同。"
+        ],
+        "table_body": "<html><body><table><tr><td>组别</td><td>丙二醛</td><td>超氧化物歧化酶</td><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mg prot)</td><td>总抗氧化能力 T-AOC(U/mg prot)</td></tr><tr><td>Groups L0</td><td>MDA/(nmol/mg prot) 8.16±2.77d</td><td>T-SOD/(U/mg prot) 7.29±0.94a</td><td>7.75±2.68ab</td><td>0.87±0.22bc</td></tr><tr><td>L0.5</td><td>2.81±0.15a</td><td>7.86±0.17a</td><td>2.23±0.15a</td><td>1.00±0.13bc</td></tr><tr><td>L1.0</td><td>6.21±2.51c</td><td>12.17±1.03b</td><td>11.67±4.62b</td><td>1.26±0.22c</td></tr><tr><td>L1.5</td><td>3.25±1.57ab</td><td>6.15±0.02a</td><td>2.62±1.30a</td><td>0.38±0.14a</td></tr><tr><td>L2.0</td><td>3.81±2.23b</td><td>7.27±2.10a</td><td>1.62±0.59a</td><td>0.53±0.13ab</td></tr><tr><td>L2.5</td><td>4.33±0.10bc</td><td>4.99±0.59a</td><td>4.05±0.66a</td><td>0.55±0.14ab</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Values in the same column with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ while with no or the same letter superscripts mean no significant difference ( $( P { < } 0 . 0 5 )$ .The same as Talie7. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.5饲料LNA含量对日本沼虾肝胰腺非特异性免疫指标的影响",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，L0.5、L1.0及L1.5 组肝胰腺ACP活力均显著高于L0组（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ，且以L1.0 组的活力最高，但L1.0 和L1.5 组之间不存在显著性差异（ $. P { > } 0 . 0 5 \\$ 。随着饲料LNA含量的增加，肝胰腺LYZ活力呈先升后降的趋势，在L1.5 组达到最高，显著高于其他各组（ $. P { < } 0 . 0 5 )$ °",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5672c8d88ccccbd8e1a3d0c6f8db5b7a50330619bf0413b84a1476b337fe4e45.jpg",
+        "img_caption": [
+            "图2饲料LNA含量对日本沼虾肝胰腺 ACP和LYZ 活力的影响",
+            "Fig.2Effects of dietary LNA contents on hepatopancreas ACP and LYZ activities of oriental river prawn（Macrobrachium nipponense) "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.6饲料LNA含量对日本沼虾抗氨氮胁迫能力的影响",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由表7可知， $2 4 \\mathrm { h }$ 氨氮胁迫后，L0.5、L1.5、L2.0、L2.5组的肝胰腺MDA含量显著低于LO组（ $. P { < } 0 . 0 5 )$ ，且以L1.5组MDA含量最低，显著低于其余各组（ $P { < } 0 . 0 5 )$ 。肝胰腺SOD 活力和T-AOC 随着饲料LNA含量的增加呈先上升后下降趋势，L1.5组 SOD 活力达到最高，显著高于其余各组 $( P { < } 0 . 0 5 )$ ，而L1.0组T-AOC达到最高，显著高于其余各组( $. P { < } 0 . 0 5 )$ 。肝胰腺GSH-Px活力以LO 组最高，但与L1.0组差异不显著（ $P { > } 0 . 0 5 )$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "依据表7的试验结果，以肝胰腺 SOD 活力（y）为纵坐标，饲料LNA含量 $( x )$ 为横坐标得到二者之间的一元二次回归方程 $y = - 0 . 4 0 2 \\ 1 x ^ { 2 } + 0 . 9 5 3 \\ 9 x + 0 . 5 1 2 \\ 5$ ， $R ^ { 2 } { = } 0 . 7 1 8 ~ 4$ （图3），经计算，饲料中LNA的最适含量为 $1 . 1 9 \\%$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "表7氨氮胁迫后各组日本沼虾的肝胰腺抗氧化指标",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/00b4c9c895c68c349a3f0600ab470e5815ef129b98c4d216668536510ed26909.jpg",
+        "table_caption": [
+            "Table 7Hepatopancreas antioxidant indices of oriental river prawn（Macrobrachium nipponense）in different groups after ammonia-nitrite stress( $\\scriptstyle { \\cdot - n = 3 }$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别 Groups</td><td>丙二醛 MDA/(nmol/mg prot)</td><td>0 超氧化物歧化酶 SOD/(U/mg prot)</td><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mg prot)</td><td>总抗氧化能力 T-AOC(U/mg prot)</td></tr><tr><td></td><td>4.16±0.19d</td><td>0.52±0.01a</td><td>7.09±0.52d</td><td>1.20±0.14a</td></tr><tr><td>L0 L0.5</td><td>3.73±0.04c</td><td>0.84±0.03b</td><td>5.06±0.06b</td><td>1.63±0.02b</td></tr><tr><td>L1.0</td><td>3.96±0.13cd</td><td>1.06±0.05c</td><td>6.84±0.03cd</td><td>4.47±0.18d</td></tr><tr><td>L1.5</td><td>1.97±0.02a</td><td>1.27±0.05d</td><td>5.03±0.03b</td><td>2.28±0.03c</td></tr><tr><td>L2.0</td><td>3.22±0.02b</td><td>0.52±0.04a</td><td>6.46±0.11c</td><td>2.29±0.01c</td></tr><tr><td>L2.5</td><td>3.09±0.04b</td><td>0.49±0.05a</td><td>4.18±0.09a</td><td>2.16±0.04c</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/610301f536ef517ddd80d771b607e2b7ffaf558da3024af23629d24c6ea452c1.jpg",
+        "img_caption": [
+            "图3日本沼虾肝胰腺 SOD 活力与饲料LNA含量的回归关系",
+            "Fig.3Regression relation between hepatopancreas SOD activity and dietary LNA content of of oriental river prawn（Macrobrachium nipponense） "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.1饲料LNA含量对日本沼虾生长性能的影响",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "研究表明，饲料中添加一定量的LNA可促进鱼类生长，但摄食过量的LNA对生长不仅无促进作用，反而有抑制作用[1]。与这一结果相似，本试验结果也发现饲料中LNA 含量为 $0 { \\sim } 1 . 5 \\%$ 时，日本沼虾的特定生长率和增重率呈升高趋势，但当LNA含量超过 $1 . 5 \\%$ 时，其特定生长和增重率有下降趋势。类似的研究结果也在鱼类中发现，如草鱼（Ctenopharyngodon idellus）摄食含 $0 { \\sim } 0 . 2 5 \\%$ n-3HUFA饲料时生长性能随饲料n-3HUFA含量的增加而上升，但当饲料n-3HUFA含量达到 $0 . 8 3 \\%$ 或 $1 . 1 3 \\%$ 时，其生长性能显著下降[21]。此外，对草鱼进行为期3个月的n-3HUFA饲喂后，进行肝胰脏的转录组学分析，发现n-3HUFA 能够影响36个注释蛋白质代谢相关基因的表达，上调了包括胰蛋白酶、胰凝乳蛋白酶等蛋白质消化基因，RNA、RNA 聚合酶II核心启动序列和真核翻译起始因子(eIF-4A)等蛋白质翻译基因的表达，下调了泛素蛋白连接酶及泛素等蛋白质分解基因的表达[22]，说明饲料中PUFA可能通过节约蛋白质的机制促进生长。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "通过二次回归分析发现，日本沼虾获得最大肝胰腺 SOD 活力时，LNA的需求量为 $1 . 1 9 \\%$ 高于中国对虾 $( 0 . 7 \\% { \\sim } 1 . 0 \\%$ ）[9]和日本对虾（Penaeus japonicas）（ $1 . 0 \\%$ ）[23]，但低于印度对虾( $2 . 0 \\%$ )[1对LNA的需求量。这可能是不同虾类对LNA的代谢率不同，从而导致对 LNA需求量存在差异。此外，虾类对LNA的需求量还与饲料的组成、试验虾类规格、投喂次数及试验条件等多种因素有关。已有研究显示，饲料中添加LNA可降低机体脂肪含量[24I。与该研究结果一致，本研究发现日本沼虾肝胰腺脂肪含量随饲料LNA含量的增加而下降。这与瓦氏黄颡鱼（Pelteobagrus vachelli）机体脂肪含量随饲料LNA含量的增加而下降的研究结果一致[25],但与在草鱼[2I]上的研究结果相反，在草鱼上的研究得出，随着饲料n-3 PUFA 含量的增加，草鱼机体脂肪含量也随之增加[2I]。这可能与草鱼对脂肪的需求量比较低有关。机体脂肪酸组成基本上与饲料脂肪酸组成是一致的[25-26]。在鲍鱼（Haliotis discus hannaiIno）的研究中发现，饲喂高含量LNA的饲料后，其肌肉LNA含量也随之升高[27]。与该研究结果一致，本试验结果也显示，随着饲料LNA含量的增加，日本沼虾肝胰腺和肌肉中LNA含量也随之增加。此外，日本沼虾肝胰腺和肌肉中EPA和DHA含量随着饲料LNA含量的增加呈先升后降的趋势，这可能与适宜的LNA含量可增强脂肪酸去饱和酶和延长酶的活力，从而促进十八碳 PUFA 转化成HUPA有关[27-28]。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.2饲料LNA含量对日本沼虾抗氧化能力、非特异性免疫性能的影响",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "已有研究表明，瓦氏黄颡鱼肝胰腺非特异性免疫酶活力随饲料LNA含量的增加而增强，然而，当LNA含量超过 $1 \\%$ 时，其非特异性免疫酶活力显著下调[29]。与该结果一致，本试验结果显示，日本沼虾肝胰腺 SOD、GSH-Px活力和T-AOC 随饲料LNA 含量的增加基本呈现先升后降的趋势，且均在L1.0 组达到最高，说明过量的LNA 诱发了脂质过氧化，脂质的过氧化能产生众多有毒的活性氧簇（ROS)，如超氧阴离子自由基（ $\\mathrm { O } ^ { 2 - } \\cdot \\mathrm { \\mathrm { ) } }$ 、 $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 和臭氧等。为了清除过多的 ROS，SOD 将ROS 催化为 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ，从而缓解 ROS 对机体的损伤[30-32]。在本研究中，日本沼虾肝胰腺 SOD 活力随饲料LNA含量的增加呈现先升高后降低的趋势，L1.0组显著高于其余各组，但在L0、L0.5、L1.5、L2.0 和L2.5 组之间并不存在显著性差异。这说明饲料中添加1.0%LNA 可增强肝胰腺 SOD 活性，但PUFA 过氧化产物超过该临界值时不能增强 SOD 活力。T-AOC 是机体内抗氧化能力的总体体现，是酶促[SOD、CAT、谷胱甘肽硫转移酶（GST）等]和非酶促（维生素、氨基酸和金属蛋白等）两方面因子抗氧化能力的总合。本试验结果显示，当饲料中LNA含量达到 $1 . 0 \\%$ 时，肝胰腺 T-AOC 达到最大值。与本试验结果相似，潘瑜等[33]也发现，亚麻油替代 $2 5 \\%$ 鱼油时鲤鱼（Cyprinus carpio）肝胰脏 T-AOC 达到最大值。这说明饲料中适宜的LNA 含量可以提高机体的抗氧化能力。MDA是氧自由基攻击生物膜中的PUFA引发脂质过氧化作用形成的产物，MDA含量的多少常常可反映机体内脂质过氧化的程度，间接地反映机体细胞受自由基攻击的严重程度，即细胞受损程度。本试验结果显示，LO 组肝胰腺MDA含量显著高于其余各组，说明饲料中缺乏LNA可引起一定程度的细胞受损，这可能与机体缺乏必需脂肪酸有关[34]。但是，在 $1 . 5 \\% { \\sim } 2 . 5 \\%$ 范围内，随着饲料LNA含量的增加，日本沼虾肝胰腺 MDA含量有一定的递增趋势。这与在褐菖（Sebastiscus marmoratus）中发现的高含量的 n-3 HUFA 引起机体积累MDA 的结果[35]相似。综上所述，以肝胰腺抗氧化能力为判据，认为饲料中LAN 的适宜含量为 $1 . 0 \\%$ 。研究还发现，适度的HUFA供应可强化淡水鱼类的免疫力，而过量则有可能造成负面影响[36-37]。因此，本试验测定了肝胰腺中非特异性免疫指标 ACP 和LYZ活力。ACP 能参与对外源生物大分子的降解[38]，而且是巨噬细胞溶酶体的水解酶，其活力的提高能增加巨噬细胞清除病原的能力[39]。而LYZ 是非特异性免疫反应的媒介，能抵制寄生虫、细菌与病毒的感染[17,40]。本试验结果显示 L1.0 组肝胰腺 ACP 活力显著高于其他各组，而从LYZ 活力来看,L1.5 组显著高于其余各组。关于n-3PUFA对机体免疫系统的影响在鱼类中报道较多，各研究结果不尽相同。杨鸢劫等[41]研究发现，黄鳝（Monopterus albus）血清LYZ活力和血细胞吞噬能力随饲料LNA含量的增加而增强，并在LNA含量达到 $1 . 5 5 \\%$ 时达到最高。Li等[5]在瓦氏黄颡鱼的研究中发现， $6 \\%$ 亚麻油组的抗体效价显著高于 $4 \\%$ 和 $2 \\%$ 亚麻油组。以上结果说明饲料中适宜含量的LNA对机体免疫力有一定的促进作用。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.3饲料LNA含量对日本沼虾抗氨氮胁迫能力的影响",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "经过 $2 4 \\mathrm { h }$ 的氨氮胁迫后,L0组的肝胰腺MDA含量均高于其余各组，同时其肝胰腺 SOD活力和T-AOC均低于其余各组。这可能与LO组缺乏LNA有关。本试验结果显示，氨氮胁迫后肝胰腺 SOD 活力和T-AOC 均随饲料LNA 含量的增加呈先升后降的趋势。赵亚婷等[42]对中华绒螯蟹（Eriocheir sinensis）的研究发现，在低氧胁迫下，饲料中添加适量的DHA显著提高了幼蟹血淋巴中 SOD 活力，并且降低了MDA含量，与本试验结果类似，；但饲料中过量的DHA使血淋巴中MDA含量显著升高，这可能是由于过量的DHA氧化产生了较多的 MDA，机体产生的 SOD 等抗氧化酶难以对其有效保护。但Ji等[2对草鱼幼鱼的研究发现，饲料中高含量的HUFA 能显著提高草鱼幼鱼的肝胰腺 SOD 活力和 MDA 含量，说明过量的HUFA 能诱发鱼体的氧化应激，在对奥尼罗非鱼(Oreochromis niloticus)的研究中也发现了相似的结果[43]。由此提示，在适宜的脂肪酸含量范围内，随着饲料中PUFA含量的提高，机体的抗氧化性能也随之升高。本试验结果显示，经过 $2 4 \\mathrm { h }$ 的氨氮胁迫后，饲料LNA含量为 $1 . 5 \\%$ 时，肝胰腺MAD含量最低，SOD 活力和T-AOC 最高，由此表明，1.5%LNA 能增强机体抗氧化能力，从而改善日本沼虾对氨氮胁迫的应激反应能力。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 综合考虑饲料LNA含量对生长、抗氧化能力、非特异性免疫性能及抗氨氮胁迫能力的 影响，认为日本沼虾饲料中亚麻酸的适宜含量为 $1 . 0 \\% { \\sim } 1 . 5 \\%$ 。   \n$\\textcircled{2}$ 本试验条件下，通过二次回归分析，认为饲料LNA含量为 $1 . 1 9 \\%$ 时，日本沼虾可获得最   \n高的肝胰腺 SOD 活力。   \n致谢：衷心感谢李景芬、张荣飞、邵仙萍、赵建华等老师，及严超、费嘉诚等同学在试验和   \n论文撰写过程中提供的热心帮助。   \n参考文献:   \n[1]CHEN C Y,SUN B L,GUAN W T,et al.N-3 essential fatty acids in Nile tilapia,Oreochromis niloticus:effects of linolenic acid on non-specific immunity and anti-inflammatory responses in juvenile fish[J].Aquaculture,2016,450:250-257.   \n[2]GEAY F,MELLERY J,TINTI E,et al.Effects of dietary linseed oil on innate immune system of Eurasian perch and disease resistance after exposure to Aeromonas salmonicida achromogen[J].Fish & Shellfish Immunology,2015,47(2):782-796.   \n[3] XU H G,AIQ H,MAI K S,et al.Effects of dietary arachidonic acid on growth performance,survival,immune response and tissue fatty acid composition of juvenile ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Japanese seabass,Lateolabrax japonicus[J].Aquaculture,2010,307(1/2):75-82.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[4]ZUO R T,AI Q H,MAI K S,et al.Effects of dietary n-3 highly unsaturated fatty acids on growth,nonspecific immunity,expression of some immune related genes and disease resistance of large yellow croaker (Larmichthys crocea) following natural infestation of parasites (Cryptocaryon irritans)[J].Fish & Shellfish Immunology,2012,32(2):249-258. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[5] LI M,CHEN L Q,QIN J G,et al.Growth performance,antioxidant status and immune response in darkbarbel catfish Pelteobagrus vachelli fed different PUFA/vitamin E dietary levels and exposed to high or low ammonia[J].Aquaculture,2013,406-407:18-27.   \n[6] CHEN S,ZHANG H Y,PU H J,et al.n-3 PUFA supplementation benefits microglial responses to myelin pathology[J].Scientific Reports,2014,4:7458.   \n[7]WU FC,CHEN H Y.Effects of dietary linolenic acid to linoleic acid ratio on growth,tissue fatty acid profile and immune response of the juvenile grouper Epinephelus malabaricus[J].Aquaculture,2012,324-325:111-117.   \n[8]NRC.Nutrient requirements of fish and shrimp[S].Washington,D.C.:National Academies Press,2011.   \n[9]XU X L,JI W J,CASTELL JD,et al.Essential faty acid requirement of the Chinese prawn,Penaeus chinensis[J].Aquaculture,1994,127(1):29-40.   \n[10] SHEWBART K L,MIES W L.Studies on nutritional requirements of brown shrimp-the effect of linolenic acid on growth of Penaeusaztecus[J].Journal of the World Aquaculture Society,1973,4(1/2/3/4):277-287.   \n[11] READ G HL.The response of Penaeus indicus (Crustacea:Penaeidea) to purified and compounded diets of varying fatty acid composition[J].Aquaculture,1981,24:245-256.   \n[12] FU H T,JIANG S F,XIONG Y W.Current status and prospects of farming the giant river prawn (Macrobrachium rosenbergii) and the oriental river prawn (Macrobrachium nipponense) in China[J].Aquaculture Research,2012,43(7):993-998.   \n[13] XIU Y J,WU T,MENG X H,et al.Identification and isolation of a spiroplasma pathogen from diseased oriental river prawn,Macrobrachium nipponense,in China:a new freshwater ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "crustacean host[J].Aquaculture,2015,437:270-274. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[14] DING Z F,SUN ML,LIU H Y,et al.A new microsporidium,Potaspora macrobrachium n.sp.infecting the musculature of pond-reared oriental river prawn Macrobrachium nipponense (Decapoda:Palaemonidae)[J].Journal of Invertebrate Pathology,2O16,136:57-64. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[15] DE BOER A A,MONK J M,LIDDLE D M,et al.Fish-oil-derived n-3 polyunsaturated fatty acids reduce NLRP3 inflammasome activity and obesity-related inflammatory cross-talk between adipocytes and CD11b+ macrophages[J].The Journal of Nutritional Biochemistry,2016,34:61-72. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[16] ARITA M.Eosinophil polyunsaturated fatty acid metabolism and its potential control of inflammation and allergy[J].Allergology International,2016,65:S2-S5. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[17] 赵利斌,王鑫磊,黄旭雄,等.饲料中花生四烯酸水平对凡纳滨对虾免疫相关基因表达及抗菌能力的影响[J].水产学报,2016,40(5):763-775.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[18]邹李昶,任夙艺,王志铮,等.氨氮急性胁迫对日本沼虾(Macrobrachiumnipponensis)死亡率、耗氧率及室息点的影响[J].海洋与湖沼,2015,46(1):206-211.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[19] FOLCH J,LEES M,SLOANE STANLEY G H.A simple method for the isolation and purification of total lipids from animal tissue[J].The Journal of Biological Chemistry,1957,226(1):497-509. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[20]常国亮,成永旭,吴旭干,等.中华绒螯蟹白化症、正常肝胰腺组织结构及脂肪酸组成的比较研究[J].水生生物学报,2008,32(5):687-693.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[21] JI H,LI J,LIU P.Regulation of growth performance and lipid metabolism by dietary n-3 highly unsaturated fatty acids in juvenile grass carp,Ctenopharyngodon idellus[J].Comparative Biochemistry and Physiology Part B:Biochemistry and Molecular Biology,2011,159(1):49-56. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[22] TIAN JJ,LU R H,JI H,et al.Comparative analysis of the hepatopancreas transcriptome of grass carp (Ctenopharyngodon idellus) fed with lard oil and fish oil diets[J].Gene,2015,565(2):192-200. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[23] KANAZAWA A,TESHIMA S,ENDO M.Requirements of prawn,Penaeus japonicus,for essential fatty acids[J].Memoirs of Faculty of Fisheries,Kagoshima University,1979,28:27-33. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[24] FRANCIS D S,TURCHINI G M,JONES PL,et al.Effects of dietary oil source on growth and fillet fatty acid composition of Murray cod,Maccullochella peelii peelii[J].Aquaculture,2006,253(1/2/3/4):547-556. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[25] LI M,CHEN L Q,LI E C,et al.Growth,immune response and resistance to Aeromonas hydrophila of darkbarbel catfish,Pelteobagrus vachell (Richardson),fed diets with different linolenic acid levels[J].Aquaculture Research,2015,46(4):789-800. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[26] CHAIYAPECHARA S,CASTENMT,HARDYR W,et al.Fish performance,fillet characteristics,and health assessment index of rainbow trout (Oncorhynchus mykiss) fed diets containing adequate and high concentrations of lipid and vitamin E[J.Aquaculture,2003,219(1/2/3/4):715-738. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[27] LI M Z,MAI K S,AI Q H,et al.Effects of dietary grape seed oil and linseed oil on growth,muscle fatty acid composition and expression of putative $\\Delta 5$ fatty acyl desaturase in abalone Haliotis discus hannai Ino[J].Aquaculture,2013,406-407:105-114. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[28] KARTIKASARI L R,HUGHES R J,GEIER M S,et al.Dietary alpha-linolenic acid enhances omega-3 long chain polyunsaturated fatty acid levels in chicken tissues[J].Prostaglandins,Leukotrienes,and Essential Fatty Acids,2O12,87(4/5):103-109. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[29] LI M,CHEN L,QIN JG,et al.Growth,immune response and resistance to Aeromonas hydrophila of darkbarbel catfish Pelteobagrus vacheli fed diets with different linolenic acids,vitamins C and E levels[J].Aquaculture Nutrition,2016,22(3):664-674. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[30] FATTMAN C L,SCHAEFER L M,OURY T D.Extracellular superoxide dismutase in biology and medicine[J].Free Radical Biology and Medicine,2003,35(3):236-256. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[31] NOZIK-GRAYCK E,SULIMAN HB,PIANTADOSI C A.Extracellular superoxide dismutase[J].International Journal of Biochemistry & Cell Biology,2005,37(12):2466-2471. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[32] AKERELE O A,CHEEMA S K.A balance of omega-3 and omega-6 polyunsaturated fatty acids is important in pregnancy[J].Journal of Nutrition & Intermediary ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Metabolism,2016,5:23-33. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[33]潘瑜,陈文燕,林仕梅,等.亚麻油替代鱼油对鲤鱼生长性能、肝胰脏脂质代谢及抗氧化能力 的影响[J].动物营养学报,2014,26(2):420-426. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[34] LALL S P.Disorders of nutrition and metabolism[M]//LEATHERLAND J F,WOO P T K.Fish diseases and disorders:2.Non-infectious disorders.2nd ed.Oxfordshire:CAB International,2010:202-237. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[35]岳彦峰,彭士明,施兆鸿,等.饲料n-3HUFA水平对褐菖血清生化指标、主要脂代谢酶活力及抗氧化能力的影响[J].海洋渔业,2013,35(4):460-467.",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[36] TIAN JJ,JI H,OKU H,et al.Effects of dietary arachidonic acid (ARA) on lipid metabolism and health status of juvenile grass carp,Ctenopharyngodon idellus[J].Aquaculture,2014,430:57-65. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[37] KHOZIN-GOLDBERG I,COHEN Z,ZILBERG D,et al.Feeding with arachidonic acid-rich triacylglycerols from the microalga Parietochloris incisa improved recovery of guppies from infection with Tetrahymena sp.[J].Aquaculture,2006,255(1/2/3/4):142-150. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[38] XUE Q G,RENAULT T.Enzymatic activities in European flat oyster,Ostrea edulis,and pacific oyster,Crassostrea gigas,hemolymph[J].Journal of Invertebrate Pathology,2000,76(3):155-63. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[39] CONG M,SONG L S,WANG L L,et al.The enhanced immune protection of Zhikong scallop Chlamys farreri on the secondary encounter with Listonella anguillarum[J].Comparative Biochemistry and Physiology Part B:Biochemistry and Molecular Biology,2008,151(2):191-196. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[40] WU CL,YE J Y,GAO JE,et al.The effects of dietary carbohydrate on the growth,antioxidant capacities,innate immune responses and pathogen resistance of juvenile Black carp Mylopharyngodon piceus[J].Fish & Shellfish Immunology,2016,49:132-142. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[41]杨鸢劫,邴旭文,徐增洪.不饱和脂肪酸对黄鳝部分非特异性免疫和代谢指标的影响[J].中国水产科学,2008,15(4):600-605.",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[42] 赵亚婷,吴旭干,常国亮,等.饲料中DHA含量对中华绒螯蟹幼蟹生长、脂类组成和低氧胁",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "迫的影响[J].水生生物学报,2013,37(6):1133-1144.[43]甘晖,李坚明,冯广朋,等.饲料脂肪水平对奥尼罗非鱼幼鱼生长和血浆生化指标的影响[J].上海海洋大学学报,2009,18(1):35-41.",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Linolenic Acid Content on Growth, Antioxidant Capacity, Non-Specific Immunity and Anti-Ammonia-Nitrite Stress Ability in Oriental River Prawn （Macrobrachium nipponense） LUO Na1.2DING Zhili²ZHANG Yixiang²KONG Youqin² WU Chenglong² JIANG ZhiqianglYE Jinyun2\\* (1. College of Fisheries and Life Science,Dalian Ocean University,Dalian 116oo0, China; 2. Zhejiang Provincial Key Laboratory of Aquatic Resources Conservation and Development, Key Laboratory of Aquatic Animal Genetic Breeding and Nutrition of Chinese Academy of Fishery Sciences, College of Life Science, Huzhou University,Huzhou 313o0o, China) Abstract: Linolenic acid (C18:3n-3,LNA） is one of the important polyunsaturated fatty acids (PUFA) for the regulation of growth, immunity and environmental stress resistance of crustacean. This experiment was investigated to study the eects of dietary LNA content on growth, antioxidant capacity， non-specific immunity and anti-ammonia-nitrite stress ability in oriental river prawn （Macrobrachium nipponense）,and to discuss the suitable dietary LNA content. LNA was added to the diets to formulate six isonitrogenous and isolipidic semipurified diets containing   \n0 (LO,control), $0 . 5 \\%$ (L0.5), $1 . 0 \\%$ (L1.0), $1 . 5 \\%$ (L1.5), $2 . 0 \\%$ (L2.0) and $2 . 5 \\%$ (L2.5) LNA, respectively. Each diets fed 5 tanks (replicates) with 50 prawns per tank. After 8 weeks of feeding,   \n10 prawns from each tank were exposed to ammonia nitrogen（total ammonia nitrogen concentration in water was $7 . 9 2 2 \\mathrm { m g / L }$ ）for $2 4 \\mathrm { h }$ . The results showed as follows: with the dietary LNA content increasing, the specific growth rate, weight gain rate and survival rate of prawns were increased firstly and then decreased, but the differences were not significant among all groups $( P { > } 0 . 0 5 )$ . The contents of LNA in hepatopancreas and muscle were all increased with the ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "dietary LNA content increasing. The superoxide dismutase (SOD)，glutathione peroxidase (GSH-Px) activities and total antioxidant capacity (T-AOC) in hepatopancreas basically showed an trend of first increasing and then decreasing with the dietary LNA content increasing,and al of them reached the highest values in L1.O group. The hepatopancreas malondialdehyde (MDA) content in L0.5,L1.0, L1.5, L2.0 and L2.5 groups was significantly lower than that in LO group （204号 $( P { < } 0 . 0 5 )$ . The prawn fed the diet with $1 . 0 \\%$ LNA showed the highest hepatopancreas acid phosphatase (ACP), however, there was no significant difference between L1.0 and L1.5 groups （204号 $( P { > } 0 . 0 5 )$ . Hepatopancreas lysozyme (LYZ) activity increased at first and then decreased with the dietary LNA content increasing，and it reached highest activity in L1.5 group which was significantly higher than that in other groups $( P { < } 0 . 0 5 )$ . After $2 4 \\mathrm { ~ h ~ }$ ammonia-nitrite stress, hepatopancreas MDA content in LO.5,L1.5,L2.0 and L2.5 groups was significantly lower than that in LO group $( P { < } 0 . 0 5 )$ ，and the L1.5 group had the lowest MDA content which was significantly lower than that in other groups $( P { < } 0 . 0 5 )$ ; hepatopancreas SOD activity and T-AOC showed an trend of first increasing and then decreasing with the dietary LNA content increasing, and them reached the highest values in L1.5 and L1.O groups,respectively; hepatopancreas GSH-Px activity reached the highest value in LO group,however,there was no significant difference between LO and L1.O groups $( P { > } 0 . 0 5 )$ ). Taking hepatopancreas SOD activity as the indicator, the requirement of LNA for oriental river prawn was $1 . 1 9 \\%$ according to quadratic regression analysis. As a consequence of the above, the suitable dietary LNA content ( $1 . 0 \\%$ to $1 . 5 \\% )$ ）can improve the growth,antioxidant capacity, non-specific immunity,and can relax the negative effect caused by anti-ammonia-nitrite stress of oriental river prawn. Key words: oriental river prawn (Macrobrachium nipponense); linolenic acid; growth; antioxidant; non-specific immune; anti-ammonia-nitrite stress ",
+        "page_idx": 21
+    }
+]

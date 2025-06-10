@@ -1,0 +1,491 @@
+[
+    {
+        "type": "text",
+        "text": "Novel near-infrared BiFC systems from a bacterial phytochrome for imaging protein interactions and drug evaluation under physiological conditions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Minghai Chen a,C, Wei Li a, Zhiping Zhang a, Sanying Liu a,C, Xiaowei Zhang a, Xian-En Zhang a,b, Zongqiang Cui d\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aStateKey LaboratoryofVirologyWuhan Instituteof VirologyChineseAcademyofSciences,Wuhan43071,China bNationalKeybratorfcroomoleculessitteofiosicsseeyofieceeing ‘Graduate University of Chinese Academy of Sciences,Beijing 1ooo49, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history: Received 3 October 2014 Accepted 20 January 2015 Available online 11 February 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nNear-infrared   \nBiFC   \nBacterial phytochrome iRFP   \nHIV IN-LEDGF/p75 interaction   \nDrug evaluation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Monitoring protein-protein interactions (PPIs)in live subjects is critical for understanding these fundamental biological processes. Bimolecular fluorescence complementation (BiFC) provides a good technique forimaging PPIs; however,a BiFC system with along wavelength remains tobe pursued for in vivo imaging. Here,we conducted systematic screening of split reporters from a bacterial phytochrome-based,nearinfrared fluorescent protein (iRFP).Several new near-infrared phytochrome BiFC systems were built based on selected split sites including the amino acids residues 97/98,99/100,122/123,and 123/124.These new near-infrared BiFC systems froma bacterial phytochrome were verified as powerful tools for imaging PPIs under physiologicalconditions in live cells and in live mice.The interaction between HIV-1 integrase (IN) and cellular cofactor protein Lens epithelium-derived growth factor(LEDGF/p75) was visualized in live cells using the newly constructed iRFP BiFC system because ofits important roles in HIV-1 integration and replication.Because the HIV IN-LEDGF/p75 interaction is an attractive anti-HIV target,drug evaluation assays to inhibit the HIV IN-LEDGF/p75 interaction were also performed using the newly constructed BiFC system.The results showed that compound 6and carbidopa inhibit the HIVIN-LEDGF/p75 interaction in a dose-dependent manner under physiologicalconditions in the BiFCassays.This study provides novel nearinfrared BiFC systems for imaging protein interactions under physiological conditions and provides guidance for spliting other bacterial phytochrome-like proteins to construct BiFC systems.The study also provides a new method for drug evaluation in live cels based on iRFP BiFC systems and supplies some new information regarding candidate drugs for anti-HIV therapies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2015 Elsevier Ltd.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Protein-protein interactions (PPIs）are basic biological processes.MonitoringPPIs in livingcellsis very helpful to understand the mechanisms of physiological and biochemical processes. Several methods are currently available for studying PPIs in living cells,such as fluorescence resonance energy transfer (FRET) [1,2] and protein fragment complementation [3-5]. Bimolecular fluorescence complementation(BiFC）is an attractive and valuable approach to detect PPIs in living cells because of its simplicity, lack of invasion and high sensitivity [6].The BiFC assay relies on the reconstruction of a fluorescent protein from its two nonfluorescent splits fused with two interacting proteins [7]. BiFC reporters have been developed using many different fluorescent proteins and their mutants to study various PPl events in living cells [7-10].However, theyare almost entirely developed from GFP-like proteins.Most BiFC systems based on GFP-like proteins have short wavelengths that vastly restrict their applications,especially for in vivo imaging.Moreover,some of the BiFC systems based on GFPlike proteins,such as our recently constructed mNeptune BiFC system that has the longest wavelength,maturate at low temperatures (below $3 7 ^ { \\circ } C _ { \\cdot } ^ { \\cdot }$ [11].Therefore,these systemshave drawbacks in their applicability under physiological conditions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phytochromes,different from GFP-likeproteins,are bacterial or plant photopigments that naturallyabsorb red and near-infrared light[12]. Recently,phytochromes have been explored for use in in vivo imaging with infrared fluorescence spectrum[13,14].For example,iRFPisa bacterial phytochrome-based near-infrared fluorescent protein,with excitation and emission maxima at $6 9 0 \\ \\mathrm { n m }$ and $7 1 3 \\ \\mathrm { n m }$ ，respectively [14].iRFP possesses a high brightness and low cytotoxicity in vivo and utilizes physiological levels of biliverdin (BV） chromophore to acquire fluorescence. Considering the superiorities of phytochromes for in vivo imaging, newphytochrome-based BiFC systems will be very attractive for PPIs imaging.Phytochromes have a different structure compared with GFP-like proteins,which havea $\\beta$ -barrel structure.The split sites in BiFC systems based on GFP-like proteinsare unable to be applied and aligned in phytochrome-based systems.A systematic study of splitting the phytochrome is in crucial for the construction ofphytochrome-based BiFC systems,althougha polypeptide break between the PAS and GAF domains has been recently reported for the construction of an iRFP BiFC system [15]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because PPIs often playkey roles in pathological processes such as virus infection,targeting of PPIs is also a promising approach for designing novel therapeutic drugs.The visualization of the eficacy of potent compounds to inhibit PPIs in live subjects will provide a good method for drug screening.However,this method remains to be explored.Molecular imagingof PPIs in live cells or liveanimals treated with drugswill providea direct evaluation of drugs under physiological conditions.Here,based on the construction of novel near-infrared BiFC system from the bacterial phytochrome iRFP,we performed drug evaluation of the ability to inhibit PPIs in live cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lens epithelium-derived growth factor(LEDGF/p75) isa cellular cofactor ofHIV-1 integrase (IN) thatis critical for tethering the IN and viral pre-integration complex to the host chromatin [16].The important roles of the IN-LEDGF/p75 interaction in HIV-1 integration and replication make it an attractive antiviral target [17,18]. Recently，efforts to disrupt the IN-LEDGF/p75 interaction have resulted in the discovery of some new potent inhibitorsand drugs foranti-HIV therapies [19-23].However,these inhibitors were usuallyevaluated in vitro.For example,carbidopawas found to have the capacity to inhibit the IN-LEDGF/p75 interaction with moderate IC50 values $( 6 . 5 4 ~ \\mu \\mathrm { M } )$ using AlphaScreen [24].However, further investigations are needed under physiological conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work,we conducted a systematic research on splitting the bacterial phytochrome iRFP for the construction of near-infrared BiFC systems.Twelve sites on iRFP were chosen for splitting,and four sites were found to be useful for constructing novel BiFC systems.Based on thephytochrome iRFP-based BiFC system, the intracellular interaction of IN-LEDGF/p75 was imaged,and compounds to inhibit the INLEDGF/p75 interaction were studied in live cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materialsand methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Construction of plasmids ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The iRFP protein was split at twelve positions between amino acids 38/39,46/47, 61/62,97/98,99/100,112/113,122/123,123/124,166/167,179/180,193/194,and 248/ 249.The fragment pairs obtained were named iRN38/iRC39,iRN46/iRC47,iRN61/ iRC62,iRN97/iRC98,iRN99/iRC100,iRN112/iRC113,iRN122/iRC123,iRN123/iRC124, iRN166/iRC167,iRN179/iRC180,iRN193/iRC194,and iRN248/iRC249,which correspond to the amino acid sequences of 1-38 and 39-316,1-46 and 47-316,1-61 and 62-316,1-97 and 98-316,1-99 and 100-316,1-112 and 113-316,1-122 and 123-316,1-123 and 124-316,1-166 and 167-316,1-179 and 180-316,1-193 and 194-316,1-248 and 249-316,respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the construction of plasmids containing the fusion proteins EGFP-iRN and iRCEGFP,the N- and C-terminal coding regions of iRFP were amplified by PCR from plasmid pcDNA3.1-iRFP.iRN38,iRN46,iRN61,iRN97,iRN99,iRN112,iRN122,iRN123, iRN166,iRN179,iRN193 and iRN248 shared the same forward primer: $5 ^ { \\prime }$ -GAAGATCTATGGCTGAAG GATCCGTC- ${ \\boldsymbol { \\cdot } } 3 ^ { \\prime }$ (Bglll included). The reverse primers were $5 ^ { \\prime }$ 1 AAGGTACCGTCGGCGGCGAGGGCGAGCAGCAG-3'(foriRN38)， $5 ^ { \\prime }$ -AAGGTACCG TCGCTGCCGGCAACGATCGTCATG- $3 ^ { \\prime }$ (for iRN46), $5 ^ { \\prime }$ -AAGGTACCGCCGATCAGGGCGCC ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GATCG- ${ \\boldsymbol { \\cdot } } 3 ^ { \\prime }$ (for iRN61), $5 ^ { \\prime }$ -AAGGTACCCATCGTGAAGCCGACAGTG ${ \\boldsymbol { \\cdot } } 3 ^ { \\prime }$ (for iRN97)，5'- AAGGTACCCTTTCGCATCGTGAAGCCGACAGTG- ${ \\cdot } 3 ^ { \\prime }$ (for iRN99), $5 ^ { \\prime }$ -AAGGTACC CTGATCATGGCGATGCCAGGAG- $3 ^ { \\prime }$ (foriRN112)， $5 ^ { \\prime }$ -AAGGTACCCTGGGGAGGCTCGAGCTCGAGG- ${ \\boldsymbol { \\cdot } } 3 ^ { \\prime }$ (for iRN122), $5 ^ { \\prime }$ -AAGGTACCCCGCTGGGGAGGCTCGAGCTCGAGGAAGATG ${ \\boldsymbol { \\cdot } } 3 ^ { \\prime }$ (foriRN123)， $5 ^ { \\prime }$ -AAGGTACCATCGAAGCCGGTAATC- ${ \\cdot } 3 ^ { \\prime }$ (foriRN166)， $5 ^ { \\prime }$ -AAGGTACCGCCGCTGAAGTCGGAGG- ${ \\cdot } 3 ^ { \\prime }$ (for iRN179), $5 ^ { \\prime }$ -AAGGTACCTTTTGACTCGACCTCGG -3(for iRN193),and $5 ^ { \\prime }$ -AAGGTACCCAGGATGGCGAAGCTAAG- ${ \\cdot } 3 ^ { \\prime }$ (for iRN248) (the KpnI site was contained in each reverse primer). Each fragment was cut by BglI and Kpnl and then inserted into the same pEGFP-C1 sites. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theforward primersforthe iRCswere $5 ^ { \\prime }$ -GAAGATCTATGACGATCGTTGCCGG- $3 ^ { \\prime }$ (foriRC39), $5 ^ { \\prime }$ -GAAGATCTATGAACCTTCCCGAACTCACCGGACTGGC- ${ \\cdot } 3 ^ { \\prime }$ (for iRC47), 5'- GAAGATCTATGCGCTCTGCGGCCGATGTC-3'(foriRC62)， $5 ^ { \\prime }$ -GAAGATCTATGA TGCGAAAGGACG- $3 ^ { \\prime }$ (foriRC98), $5 ^ { \\prime }$ -GAAGATCTATGGACGCAGGCTTCATCGGCTCCTG- $3 ^ { \\prime }$ (for iRC100), $5 ^ { \\prime }$ -GAAGATCTATGCTCATCTTCCTCGAGCTCGAGCCTC- ${ \\boldsymbol { \\cdot } } 3 ^ { \\prime }$ (for iRC113), $5 ^ { \\prime }$ 1 GAAGATCT ATGCGGGACGTCGCCGAGCCG- $3 ^ { \\prime }$ (for iRC123), $5 ^ { \\prime }$ -GAAGATCTATGGACGT CGCCGAGCCGC- ${ \\cdot } 3 ^ { \\prime }$ (for iRC124), $5 ^ { \\prime }$ -GAAGATCTATGCGGGTGATGATCTATCGC- $3 ^ { \\prime }$ (for iRC167), $5 ^ { \\prime }$ -GAAGATCTATGGAAGTGATCGCAGAGG- ${ \\cdot } 3 ^ { \\prime }$ (for iRC180), $5 ^ { \\prime }$ -GAAGATCTA TGCTAGGCCTGCACTATCCTGCCTC- ${ \\cdot } 3 ^ { \\prime }$ (foriRC194)，and $5 ^ { \\prime }$ -GAAGATCTATGCG CAGCGTCTCGCCCGTCC- $3 ^ { \\prime }$ (for iRC248)(the BglI site was included in each forward primer).The same reverse primer $5 ^ { \\prime }$ -CCCAAGCTTCTCTTCCATCACGCCGATCTGCCAGG- ${ \\cdot } 3 ^ { \\prime }$ Was used for iRC39,iRC47,iRC62,iRC98,iRC100,iRC113,iRC123,iRC124, iRC167,iRC180,iRC194,and iRC248 (HindII contained).Each iRC fragment was digested by BglI and HindllI and then inserted into the corresponding sites of pEGFP-N1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The plasmids of piRN and piRC were generated through the deletion of EGFP from plasmids of pEGFP-iRN and pEGFP-iRC.For the construction of pbJun-iRN97,pbJuniRN99,pbJun-iRN122 and pbJun-iRN123 plasmids,bJun was amplified by PCR from plasmid pcDNA3.1-Jun (kindly provided by Professor Luo Qingming, Huazhong University of Science and Technology,Wuhan 43oo74).The forward primer was: $5 ^ { \\prime }$ 1 CGGCTAGCGCCACCATGAAGGCGGAGAGGAAGCG- ${ \\boldsymbol { \\cdot } } 3 ^ { \\prime }$ (Nhel and Kozaksequences included) and the reverse primer was $5 ^ { \\prime }$ -CCCAAGCTTAAACGTTTGCAACTGC ${ \\boldsymbol { \\cdot } } 3 ^ { \\prime }$ (HindIII included).iRN97,iRN99,iRN122 and iRN123 shared the same forward primer: 5'- GGGGTACCGAGCCACCCCCTCCTATGGCTGAAGGATCCGTC- ${ \\cdot } 3 ^ { \\prime }$ (KpnI included). The reverse primerswere $5 ^ { \\prime }$ -ATTTGCGGCCGCTTACATCGTGAAGCCGACAG- ${ \\boldsymbol { \\cdot } } 3 ^ { \\prime }$ (foriRN97)， $5 ^ { \\prime }$ 1 ATTTGCGGCCGCTTACTTTCGCATCGTGAAGCCGACAG- ${ \\boldsymbol { \\cdot } } 3 ^ { \\prime }$ (for iRN99), $5 ^ { \\prime }$ -ATTTGCGGCCG CTTACTGGGGAGGCTCGAGCTC- ${ \\cdot } 3 ^ { \\prime }$ (for iRN122),and $5 ^ { \\prime }$ -ATTTGCGGCCGCTTACCGCTGGGGAGGCTCGAGCTC-3' (for iRN123)(the NotI site Was included in each reverse primer)and they were inserted into the corresponding sites of pcDNA3.1.The plasmids of piRC98- bFos，piRC10O-bFos,piRC123-bFos and piRC124-bFos Were constructed as follows: bFos Was amplified by PCR from plasmid pcDNA3.1-Fos (kindly provided by Professor Luo Qingming）andtheforward primer was $5 ^ { \\prime }$ -GGGGTACCGAGCCACCCCCT CCTGGTCGTGCGCAGTCC-3'(KpnIincluded).Thereverseprimerwas $5 ^ { \\prime }$ ， ATTTGCGGCCGCTTAACCCAGGTCGTTCGGGATTTTGC-3'(NotI included).The forward primers for iRC98，iRC100，iRC123 and iRC124 were $5 ^ { \\prime }$ -CGGCTAGCGCCACCATGCGAAAGGACGCAGGCTTCATC- $3 ^ { \\prime }$ (for iRC98), $5 ^ { \\prime }$ -CGGCTAGCGCCACCATGGACGCAGGCTTCATCGG- ${ \\cdot } 3 ^ { \\prime }$ (for iRC100), $5 ^ { \\prime }$ -CGGCTAGCGCCACCATGCGGGACGTCGCCGAGCCG-3'(for iRC123),and $5 ^ { \\prime }$ -CGGCTAGCGCCACCATGGACGTCGCCGAGCCGC-3' (for iRC124) (the NheI site and Kozak sequence were included in each forward primer).The same reverse primer $5 ^ { \\prime }$ -CCCAAGCTTCTCTTCCATCACGCCGATCTGCC- ${ \\boldsymbol { \\cdot } } 3 ^ { \\prime }$ was used for iRC98,iRC100,iRC123,and iRC124(HindIlI contained) and then inserted into the corresponding sites of pcDNA3.1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The plasmids of piRC98-mbFos,piRC100-mbFos,piRC123-mbFos and piRC124- mbFos were constructed by replacing bFos with mbFos at the same sites of piRC98-bFos,piRC100-bFos,piRC123-bFos and piRC124-bFos.mbFos was amplified by PCR from plasmid pcDNA3.1-mbFos (kindly provided by Professor Luo Qingming).The forward primer was $5 ^ { \\prime }$ -GGGGTACCGAGCCACCCCCTCCTATGGGTCGTGCGCAGTC- ${ \\cdot } 3 ^ { \\prime }$ (Kpnl included） and the reverse primer was $5 ^ { \\prime }$ -ATTTGCGGCCGCTTAA CCCAGGTCGTTCGGGATTTTGC- $3 ^ { \\prime }$ (Notl included). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The construction of plasmids of pp75-iRN97 and piRC98-IN were conducted as follows:p75 was PCR-amplified from random-primed HeLa cDNA using the following primers: $5 ^ { \\prime }$ -CGGCTAGCGCCACCATGACTCGCGATTTCAAACCTGGAGACC- $3 ^ { \\prime }$ (NhelandKozaksequencesincluded)， $5 ^ { \\prime }$ -CCCAAGCTTGTTATCTAGTGTAGAATCCTTCAGAGATATTTCAG- $3 ^ { \\prime }$ (HindI included) and bJun was substituted with pbJun-iRN97 at the same position.IN was amplified by PCR from the plasmids of pcDNA3.1-AD8 of HIV-1. The forward primer was $5 ^ { \\prime }$ -GGGGTACCGAGCCACCCCCTCCTTTTTTGGATGGAATAGAT ${ \\cdot } 3 ^ { \\prime }$ (Kpnl included)and the reverse primer was $5 ^ { \\prime }$ -ATTTGCGGCCGCTTAATCCTCATCCTGTCTACTTGC- $3 ^ { \\prime }$ (NotI included). bFos was replaced with piRC98-bFos at the same position. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the western blot analysis and immunostaining assays,HA or Flag tag gene was inserted into the plasmids of piRN97,pEGFP-iRN97,piRC98,pEGFP-iRC98,piRC98- bFos,piRC98-mbFos,piRC98-IN and piRC98-IN(R166A) to construct the plasmids piRN97-HA，pEGFP-iRN97-HA,piRC98-Flag，pEGFP-iRC98-Flag，piRC98-bFos-HA, piRC98-mbFos-HA,piRC98-IN-HA and piRC98-IN(R166A)-HA. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All of the sequences were verified by DNA sequencing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Cell culture and transfection ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HeLa and 293T cells were grown in Dulbecco's modified Eagle's medium (DMEM) containing $10 \\%$ fetal calf serum, $1 0 0 \\mathrm { U / m l }$ penicillin, and $1 0 0 ~ \\mathrm { \\mu g / m l }$ streptomycin at $3 7 ^ { \\circ } C$ and $5 \\% \\thinspace { \\mathrm { C O } } _ { 2 }$ in a humidified incubator.The cells were seeded the day before transfection in $3 5 \\mathrm { - m m }$ glass bottom cover slips at $7 0 \\mathrm { - } 8 0 \\%$ confluency. Transfection of the HeLa cells with the plasmids was conducted using of $4 \\mu \\mathrm { g }$ of each component.In addition, $4 ~ { \\mu \\mathrm { g } }$ of $\\mathtt { p } 7 5$ -iRN97, $6 ~ { \\mu \\mathrm { g } }$ of iRC98-IN and $2 ~ { \\mu \\mathrm { g } }$ of pEGFP- $\\cdot \\mathsf { C } _ { 1 }$ were used to transfect the 293T cells using Lipofectamine 2ooo (Invitrogen; United States)and following the manufacturer's instructions.For the experiment to evaluate the PPIs inhibitors in living cells,a series concentration of carbidopa and compound 6 were also added to the medium (equally diluted hydrochloric acid and DMSO were set as the control) apart from the fetal calf serum at $^ { 5 \\mathrm { ~ h ~ } }$ after transfection.The transfected cells were incubated at $3 7 ^ { \\circ } \\mathsf { C }$ （204 $( 5 \\% \\thinspace \\mathrm { C O } _ { 2 } )$ for $1 8 { - } 2 0 \\ \\mathrm { h }$ before imaging.The cells were imaged using a confocal laser scanning microscope after replacing the medium with serum-free Opti-MEM (Invitrogen). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.Fluorescence microscopy,image acquisition and data analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The cells were imaged using an UltraVIEW VOX Confocal system (PerkinElmer, Co.)usinga $6 0 \\times$ ,1.4NA,oil immersion objective lens.The green fluorescence from the EGFP channel was excited at $4 8 8 \\mathrm { n m }$ .The red fluorescence from the iRFP channel was excited at $6 4 0 \\ \\mathrm { n m }$ .The nuclei were stained using Hoechst 33342 that was excited at $4 0 5 \\mathrm { n m }$ .In this work,all of the BiFC fluorescence signals were detected in live cells. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For fluorescent quantitative analysis,the red and green fluorescence intensity was acquired from their original images by subtracting their background fluorescence.The background values were the average fluorescence intensities obtained from a region $( 5 0 \\times 5 0 ~ \\mathrm { p i x e l } ^ { 2 } .$ without red signal in the iRFP channel and the corresponding region in the green fluorescence channel. The red-to-green fluorescent intensity ratio was calculated by dividing the intensity of the red fluorescence by that of the green fluorescence.For each combination,the average fluorescence intensities from approximately 5O fluorescent cells were used for the relative BiFC effciency calculations.To evaluate the PPIs inhibitors in living cells,the quantitative analysis of the red fluorescence was similar as described above；however,the background values were the average fluorescence intensities obtained from a region $( 5 0 \\times 5 0 \\mathrm { p i x e l } ^ { 2 } ;$ without red signal in the iRFP channel and the corresponding region in the Hoechst channel and only the red fluorescence was counted (i.e.,rather than calculating the ratio). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.Western blot analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Western blot analysis was carried out to determine the expression levels of various fusion proteins.The cell lyses were subjected to sodium dodecyl sulfatepolyacrylamide gel electrophoresis and then transferred onto polyvinylidene fluoride (PVDF) membranes.The PVDF membranes were incubated with specific antibodies against the HA or Flag epitopes of the fusion proteins (Abcam),followed by horseradish peroxidase-conjugated goat anti-rabbit or goat anti-mouse IgG (Abcam).The signal was detected with a chemiluminescent detection system (BioRad). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.Immunostaining assays ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For immunostaining assays,cells grown in $3 5 \\mathrm { - m m }$ glass bottom cover slips were fixedbyincubationwith $4 \\%$ fresh formaldehyde inPBS for $1 5 \\mathrm { m i n }$ ,washed with PBS, and permeabilized with $0 . 5 \\%$ TritonX-1oo.The cells were then blocked in $10 \\%$ fetal calf serum to prevent nonspecific staining and incubated with monoclonal anti-HA or Flag antibodies (with a dilution of 1:5oO),followed by FITC-conjugated goat antirabbit or Rhodamine B-conjugated goat anti-mouse antibodies (Abcam). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6.Fluorescence imaging of live mice ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In vivo fluorescent images were obtained using a Maestro 2 in vivo imaging system (Cri,Woburn,MA,USA).The 293T cells transiently expressing the BiFC systems were fist analyzed ex vivo in tubes using the Maestro 2 in vivo imaging system.In each corresponding combination,equal amounts of cells were injected subcutaneously into 5-6 week-old $\\mathsf { B A L B / c }$ -numice.The fluorescence intensitiesof the regions of interest were measured using Maestro 3.O software to quantify the BiFC signals. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Systematic research of splittingiRFP forthe constructionof phytochrome-based BiFC systems ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because the iRFP's parental RpBphP2 has a known crystal structure [25],we conducted sequence aliments between iRFP and RpBphP2 to design polypeptide breaks.Twelve sites,localized within the unstructured loops,were selected for the introduction of polypeptide breaks to test the possibility of BiFC construction (Fig.1A).These twelve split sites between amino acid residues 38-39，46-47，61-62，97-98，99-100，112-113，122-123, 123-124,166-167,179-180,193-194 and 248-249 were used to split iRFP to create the N-terminal and C-terminal split reporters iRN38andiRC39,iRN46and iRC47,iRN61andiRC62,iRN97and iRC98,iRN99 and iRC100,iRN112 and iRC113,iRN122 and iRC123, iRN123and iRC124,iRN166and iRC167,iRN179and iRC18O,iRN193 and iRC194,iRN248 and iRC249,respectively.The coding sequences of these iRFP split reporter fragments were inserted into two types of plasmids:pEGFP-N1 and pEGFP-C1.Because EGFP has a propensity for dimerization and enhanced fluorescence [26,27],it was used asa test model of PPIs in HeLa cells.EGFP also served asa fluorescent tag to monitor the expression of iRFP fragments,as well asa standard for quantifying the relative red fluorescence.As a negative control,iRN/iRC fragments without EGFP were also expressed in HeLa cellsbydeleting EGFP from each fusionprotein ofEGFP-iRNoriRC-EGFP.TherelativeBiFCefficienciesoftheiRN and iRC fragments of iRFP were calculated by dividing the intensity ofthe red fluorescence by that of the green fluorescence after subtraction of the background fluorescence [28]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When the twelve pairs of EGFP-iRN and iRC-EGFP were coexpressed in HeLa cells,four split reporter pairs were able to recover fluorescence,and another eight split reporter pairs did not resultinany observable red fluorescence(Table1). Of the fourpositive split reporter pairs,the combination of EGFP-iRN97 and iRC98- EGFP produced the strongest red fluorescence(Fig.1B).The combinations of EGFP-iRN99 and iRC1OO-EGFP and EGFP-iRN123 and iRC124-EGFP yieldedamoderate BiFC signal (Fig.1CandE),and the combination of EGFP-iRN122 and iRC123-EGFP yielded a weak but still functional BiFC signal (Fig.1D).The transient expression of either iRN or iRC fragments alone or their co-expression in HeLa cells did not result in a red BiFC signal. Quantitative analyses of the complementary fluorescence of the four sites are shown as in Fig.1F. Western blot(Fig.1G) and immunostaining analysis(Fig.1H) also showed that the iRFP fragments such as iRN97 and iRC98 were expressed at the same levels and locations independently of the EGFP fusions.These results showed that four split sites in iRFP are useful for the construction of phytochrome-based BiFC systems. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Imaging of protein-protein interactions in living cells with the noveliRFP-based BiFCsystems ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Then,the protein pair of bJun and bFos was selected for their well-known strong interactions to assess the validity and reliability of the iRFP-based BiFC system for studying PPIs in living cells[7].As shown in Fig.2A,when the fusion proteins bJun-iRN97 and iRC98- bFos were co-expressed in HeLa cells,strong red fluorescence signals were detected.As a negative control,bJun and mutant bFos (bFos△179-193 named as mbFos),a pair of proteins deprived of interaction[7],were also used to assess the new BiFC systems.It has known that the deletion of 179-193 amino acids in bFos has no detectable effect on its interaction with other interaction partners. The co-expression of bJun-iRN97 and iRC98-mbFos in HeLa cells did not result in red fluorescence (Fig.2A).The other three iRFP-based BiFC systemsat different split siteswereassessed using the same procedure,and the results were similar to the former test model of EGFP.As shown in Fig.2,the combinations of bJun-iRN99 and iRC100-bFosandbJun-iRN123and iRC124-bFosacquired moderate red complementary BiFC signals(Fig.2B and D),and the combination of bJun-iRN122 and iRC123-bFos obtained a weak BiFC fluorescence signal (Fig.2C). The combinations of bJun-iRN99 and iRC100-mbFos,bJun-iRN123and iRC124-mbFos,and bJun-iRN122 and iRC123-mbFos did not show obvious red BiFC signals.Western blot and immunostaining analysis were also carried out to show that bFos and mbFos were expressed at the same expression level (Fig.2E) and had the same nuclear localization (Fig.2F). These results further verified that these newly constructed iRFP-based BiFC systemsare faithworthy for studying PPIs in live cells. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f389dc848c5d65a584ea0c38a1d478e4f83345109e8056bd48d59a2f296f8053.jpg",
+        "img_caption": [
+            "g i d of of were determined by immunostaining.All of the fluorescence images were acquired using a $6 0 \\times$ ,1.4 NA,oil immersion objective lens.Scale bars: $2 0 ~ { \\mu \\mathrm { m } }$ 、All data are given as the mean $\\pm 5 . \\mathrm { D }$ 一 $\\mathrm { \\Delta } [ { \\mathrm { n } } = 5 0 ]$ ).ThestatisticalsignificancewasevaluatedusingatotailedStudentst-testelvelsofsigficanceareindicatedasfllows $\\mathfrak { p } < 0 . 0 1 .$ (For interpretation of the references to colour in this figure legend,the reader isreferred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/cda8c56ff8219bc40dea187d124194a739b0100d58303d33da844665bd095fd3.jpg",
+        "table_caption": [
+            "Table 1 BiFC signal detected when various N-terminal and C-terminal iRFP fragments at different split sites fused with EGFP were co-expressed in HeLa cells. "
+        ],
+        "table_footnote": [
+            "$^ { + + + }$ ,strong fluorescence; $+ + ,$ moderate fluorescence; $^ +$ weak fluorescence;-,no fluorescence. "
+        ],
+        "table_body": "<html><body><table><tr><td>Split sites</td><td>BiFC signal</td><td>Split sites</td><td>BiFC signal</td></tr><tr><td>iRN38-iRC39</td><td>1</td><td>iRN122-iRC123</td><td>+</td></tr><tr><td>iRN46-iRC47</td><td>1</td><td>iRN123-iRC124</td><td>++</td></tr><tr><td>iRN61-iRC62</td><td>1</td><td>iRN166-iRC167</td><td>1</td></tr><tr><td>iRN97-iRC98</td><td>+++</td><td>iRN179-iRC180</td><td>1</td></tr><tr><td>iRN99-iRC100</td><td>++</td><td>iRN193-iRC194</td><td>1</td></tr><tr><td>iRN112-iRC113</td><td>1</td><td>iRN248-iRC249</td><td>1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.In vivo imaging of protein-protein interactions using iRFPbased BiFC systems ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Following the verification of the novel near-infrared BiFC systems as reliable to study PPIs in live cells,the iRFP-based BiFC systems were then tested for imaging of the protein-protein interactions of bJun and bFos in live mice.The combination of bJun-iRN/iRC-bFos/EGFP or bJun-iRN/iRC-mbFos/EGFP was co-expressed in 293T cells and then analyzed invitro using the Maestro 2 invivo imagingsystem.EGFPwas co-expressed in the cells as an internal control during these experiments.As shown in Fig.3A,the red BiFC fluorescence of the cells expressing bJun-iRN97/iRC98-bFos,bJun-iRN99/iRC10O-bFos,bJuniRN122/iRC123-bFos or bJun-iRN123/iRC124-bFos Was greater than the cells expressing bJun-iRN97/iRC98-mbFos,bJun-iRN99/iRC100- mbFos,bJun-iRN122/iRC123-mbFos orbJun-iRN123/iRC124-mbFos, respectively (Fig.3A,left).The corresponding cell lines exhibited similar EGFP signals (Fig.3A,right).The statistical analyses of the combinations of the four split sites were consistent with the microscopyanalysis.The BiFC/EGFP(red/green) fluorescence intensityratios of the combinations of bJun and bFos were significantly higher than the combinations of bJun and mbFos (Fig.3B). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cells co-expressing each combination of the split proteins were subcutaneously injected into mice (Fig.3C) for imaging.In the live mice，the combinations of bJun-iRN97/iRC98-bFos,bJun-iRN99/ iRC100-bFos,and bJun-iRN123/iRC124 acquired significantly higher BiFCsignals than the combinations of bJun-iRN97/iRC98-mbFos, bJun-iRN99/iRC100-mbFos，andbJun-iRN123/iRC124-mbFos, respectively. The combination of bJun-iRN122/iRC123-bFos obtained a weak but detectable BiFC signal (Fig.3D,top).Each corresponding combination displayed similar EGFP signals(Fig.3D, bottom). The FC emission light spectra from the split iRFP fragments were recorded to identify the correct emission spectra for iRFP(Supplementary Fig.1). As shown in Fig.3E, the quantitative analysis of the fluorescence intensity ratios of BiFC/EGFP (red/ green）in mice revealed that the novel iRFP-based BiFC systems includingiRN97/iRC98,iRN99/iRC100and iRN123/iRC124 couldbe well used for in vivo imaging. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/827e0167da44481da2c65cc1d7d40d2c33cfe4a78838b9765a49931e3e8d393e.jpg",
+        "img_caption": [
+            "bdo 2 tre using a $6 0 \\times$ ,1.4 NA,oil immersion objective lens. Scale bars: $2 0 ~ { \\mu \\mathrm { m } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2baa3a7cd49e6cb488d1f9680a0a358538c0227ed780b2e0ced5fe70e4b021cc.jpg",
+        "img_caption": [
+            "Fg esi al locations of the 293Tcell samples transiently co ssing combinationsoffusion proteinsare indicated.(D)Imagingofthe interactionofbJunand bFos withtheiRFP-based BiFC s mbFos inlive mice based onthefluorescence intensityratioof BiFC/EGFP.Quantitativeanalysis data are givenas the mean $\\pm \\mathsf { S } . \\mathsf { D }$ $\\left( \\mathfrak { n } = 3 \\right)$ .The statistical significance was evaluated using a two-tailed Student's t-test.The levels of significance are indicated as follows: \\*\\*\\*, $\\mathfrak { p } < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4.Visualization of LEDGF/p75 tethering HIV-1 integrase to the host chromosome using iRFP-based BiFC in live cells ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Next,the iRFP-based BiFC system was used for visualizing the interaction of LEDGF/p75 and HIV-1 integrase because of its crucial rolein HIV-1 integration and replication.The iRFP BiFC system based on the split site between amino acid residues 97 and 98, which had the best complementary efficiency,was used for imaging the interaction of LEDGF/p75 and HIV-1 integrase in live cells. LEDGF/p75 was fused to the N-terminal of iRN97,and INwas fused to the C-terminal of iRC98.EGFP was also co-expressed to assess the transfection efficiency.As shown in Fig.4A,the coexpression of LEDGF/p75-iRN97andiRC98-IN resultsina bright red BiFC fluorescence signal in the cell nuclei that is colocalized with the cellular chromosomes stained with Hoechst 33342,indicating that LEDGF/ p75 and IN interact on the host chromosome in live cells.A mutant IN(R166A）being impaired for interaction with LEDGF/p75but remaining enzymatically active [29],was also fused to the C-terminal of iRC98 and tested for its interaction with LEDGF/p75-iRN97. As shown in the Fig.4A,IN(R166A) and LEDGF/p75 in the iRFP BiFC system did not result in complementary BiFC signal.The result further verified the specific interaction of p75 and IN in the BiFC system.Western blot and immunostaining analysis were also carried out to show that the mutant IN(R166A)and IN were expressed at the same expression level (Supplementary Fig.2A) and had the same cellular localization (Supplementary Fig. 2B). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b271336e4f3b195af9e6beb08f49f41f670dfb65d8cfb6f7206ce65611dc4b8.jpg",
+        "img_caption": [
+            "Fig4H combination of $\\mathtt { p } 7 5$ iR97ad.tofiasfteciilso during mitosis,spaced $0 . 4 ~ { \\mu \\mathrm { m } }$ apartTheIN-LEDF/p75interactiopresentscolocalizatiowithcodensedchomosoes(stainedwithHoechst34)duringiosis.CD reconstruction images ofthecolocalizationofLEDGF/p75and IN(red)withcondensed chromosomes(blue).Scale bars: $2 0 \\mu \\mathrm { m }$ (For interpretation of the references to colour in this figure legend,the readeris referred to the web version of thisarticle.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A commendable colocalization of the red BiFC fluorescence of LEDGF/p75 and INwith the condensed chromosomes stained with Hoechst 33342 is also clearly traced during mitosis.As shown in Fig.4B,a series of selected optical sections of such a cell along the zaxis using confocal microscopy(spacing $0 . 4 ~ { \\mu \\mathrm { m } } ^ { \\cdot }$ ）aredepicted.At different sections of the 293T cell during mitosis,the BiFC signal of the IN-LEDGF/p75 interactionwas well colocalized with condensed chromosomes during mitosis.A3D reconstruction of the living cell could also be conducted to help understand the localization of signalsin living cells.As shownin Fig.4C,the three-dimensional images more clearlyand accurately displayed the colocalization of the IN-LEDGF/p75 interaction with condensed chromosomes during mitosis.These results demonstrate that LEDGF/p75 assists the tethering of HIV-1 integrase to chromosomes in human cells. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5.Drug evaluation in live cells based on the iRFP BiFC systen ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Following the construction of the iRFP BiFC systems and live cell imaging of the IN-LEDGF/p75 interaction,we further developed a drugevaluation system using live cell imaging based on the iRFP BiFC system.A known inhibitor to the IN-LEDGF/p75 interaction, compound 6,was first used for the drug evaluation assay in the iRFP BiFC system.During the assay,293T cellswere transfected with a combination of p75-iRN97 and iRC98-IN and then treated with different concentrations of compound 6 at $^ { 5 \\mathrm { ~ h ~ } }$ after transfection. EGFP was also co-expressed to assay the impact of compound on the transfection efficiency.After $1 8 { - } 2 0 \\mathrm { h }$ offurther incubation, the cells were imaged using confocal microscopy,and the BiFC fluorescence signals were quantified.As shown in Fig.5,the BiFC fluorescence signals of the IN-LEDGF/p75 interaction were clearly affected by compound 6(Fig.5A),and the signals decreased as the drug concentration increased (Fig.5B).293T cells treated with different concentrations of DMSO were used as the control,and no obvious influence was detected on the BiFC fluorescence signals due to the IN-LEDGF/p75 interaction.There were no obvious differences in the transfection efficiencies of the treatment and control groups.The IN was expressed at the same levels under the treatment of different concentrations (such as $0 ~ \\mu \\mathrm { M } , ~ 5 ~ \\mu \\mathrm { M }$ and $1 2 5 ~ \\mu \\mathrm { M } )$ of compound 6 (Supplementary Fig.3A). These results showed that the IN-LEDGF/ p75 interaction was inhibited by compound 6 ina dose-dependent manner in the iRFP BiFC system,suggesting that the iRFP BiFC system could be used as a drug evaluation assay. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bf49948b12f6c860584e97e44fad3719358790536cf72f5c15e79718d46c251.jpg",
+        "img_caption": [
+            "Fig based BiFC system using 293T cells treated with a series of concentrations of compound 6.Scale bar: $2 0 ~ { \\mu \\mathrm { m } }$ 、DMSO was used as the control for the compound 6. EGFP was coexpe All data are givenas the mean $\\pm \\ : \\mathrm { S . D }$ 1 $\\mathrm { i n } = 5 0$ 一 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In our experiments,we also tested whether compound 6 can deprive of the existing IN-LEDGF/p75 interaction in the iRFPBiFC system.293T cells transfected with a combination of p75-iRN97 and iRC98-IN were incubated for approximately $2 0 { - } 2 4 \\ \\mathrm { h }$ at $3 7 ^ { \\circ } \\mathsf { C }$ and showed a strong red BiFC signal.Then, the cells were treated with different concentrations of compound 6.The same samples treated with DMSO were used as the control.After $5 \\mathrm { - } 1 0 \\mathrm { h }$ of further incubation,the cells were imaged using confocal microscopy,and the BiFC fluorescence signals were quantified. There was no obvious difference in the BiFC fluorescence signals between the cell samples treated with or without compound 6(data not shown). This result suggested that drug treatment might be difficult to deprive of the existed interaction in the iRFP BiFC system. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.6.Imaging of carbidopa inhibiting the interaction of LEDGF/p75 and HIV-1 integrase using the iRFP BiFC system ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Then,another possible drug,carbidopa,which has been preliminarily studied in vitro,wasassayed for its ability to inhibit the IN-LEDGF/p75 interaction in live cellsusing the iRFP BiFC system. Similarly to the above assayprocedure,293Tcells were transfected with a combination of p75-iRN97 and iRC98-IN,treated with different concentrations ofcarbidopaat $^ { 5 \\mathrm { h } }$ after post transfection andthenanalyzedafter $1 8 { - } 2 0 \\mathrm { h }$ further incubation.EGFPwasalso co-transfected.Diluted hydrochloric acid was used as the control because carbidopa was dissolved in hydrochloric acid.As shown in Fig.6，the ability of carbidopa to inhibit the IN-LEDGF/p75 interaction was imaged using the iRFP BiFC system in live cells (Fig.6A).The BiFC fluorescence signals decreased as the carbidopa concentration increased (Fig.6B).The transfected efficiencies were similar between the treatment and control groups.The expression of IN was also tested and it was expressed at the same levels under thetreatmentofdifferentconcentrationsofcarbidopa (Supplementary Fig.3B). These results indicate that the IN-LEDGF/ p75 interaction was inhibited by carbidopa in a dose-dependent manner. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/4027141c185f9a80d5aebb21ba1ddf97c5ba35f522c35929324783fedd280bee.jpg",
+        "img_caption": [
+            "FigE bei expressed in the cells as a transfection control. Scale bar: $2 0 \\ { \\mu \\mathrm { m } } .$ (B)Quantitative analysis of the iRFP BiFC signal in (A)using 293Tcels treated with a series of concentrations of carbidopa. All data are given as the mean $\\pm \\ : S . \\mathrm { D }$ 一 $\\mathrm { \\Delta } \\mathrm { T } = 5 0$ 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fluorescence systems with long wavelengths are often pursued because of their superiorities in molecular imaging in live subjects. The combination of the near-infrared spectrum of bacterial phytochromes and the BiFC technique provide an opportunity to develop new near-infrared phytochrome-based BiFC systems for PPIs imaging.In the present work,we systematically screened the split sites of the bacterial phytochrome iRFP to construct novel near-infrared BiFC systems.To decrease the influence of the reconstructed protein structure,all of the split siteswere located in the unstructured loops.Considering that the bacterial phytochrome iRFP has a distinctly different structure from the GFP-like proteins [14],this initial systematical screeningwork on iRFP split reporters willprovide guidance for BiFC development using other phytochrome-based fluorescent proteins. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Four split sites,including the amino acid residue sites 97/98,99/ 100,122/123,123/124,were found to be applicable for constructing phytochrome BiFC systems.The BiFC system based on the 97/98 split site acquired the strongest red fluorescence and best signal-tobackground ratio in the BiFC assays.These four split sites are localized in two different regions.Recently,a site that was located in an unstructured loop between amino acid residues 120-123 (between the PAS and GAF domains） was reported for the construction of a BiFC system [15].We also compared the efficiency of the split site with the other four sites in the BiFC system.The split reporters at the reported site and the 123/124 site had similar fluorescence efficiencies,which was significantly lower (approximately1/2) than the reportersat 97/98 split site.Thisresult means that splitting at the 97-10O region is more appropriate than the 120-124 region for the construction of BiFC systems.Considering that the concentration of BV chromophore for iRFP to acquire fluorescence may change in different cells,the fluorescence intensity of the iRFP-based BiFC system may vary in different cells accordingly. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The split phytochrome-based iRFP reporters support BiFC at $3 7 ^ { \\circ } \\mathsf C .$ This result is also a great advantage in imaging protein interactions under physiological conditions,eliminating the preincubation of the cells at lower temperatures that is often performed in many GFP-like BiFC systems [1O,11].Thus，the phytochrome-based iRFP BiFC offers a good platform to study PPIs under physiological conditions,especially when BiFC isused in live animals. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "iRN97 and iRC98 were used as the reporters for imaging the INLEDGF/p75 interaction in live cells.The IN-LEDGF/p75 interaction plays a key role in HIV-1 replication and integration.The fluorescence imaging using the iRFP BiFC system clearly showed that IN and LEDGF/p75 interact on the host chromosome in live cells, demonstrating that the IN-LEDGF/p75 interaction can bridge the HIV-1 pre-integration complex to tether to the chromosome in host cells[16]. Because blocking IN-LEDGF/p75 interaction could preventreplication of the HIV virus,the IN-LEDGF/p75 interaction represents an attractive target for anti-HIV therapy[17,18,30,31]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The BiFC system was also used as a new type of drug evaluation system for visualizing the inhibition of protein interactions.Here, compound 6 and carbidopa were visualized to inhibit the INLEDGF/p75interaction inlivecellsat $3 7 ^ { \\circ } C$ using the phytochrome-based iRFP BiFC system.The inhibition efficiency of compound 6 and carbidopa were functioned in a dose-dependent manner in the iRFP BiFC system.After the IN and LEDGF/p75 formed a stable interaction in the iRFP BiFC system,the drugs could not separate them from each other. One of the reasons for this result might be that the iRFP BiFC system is irreversible,like some other BiFC systems.Regardless,using the iRFP BiFC system,the efficacyand efficiencyofa drug for inhibitingprotein interactions could be visualized and evaluated in live cells and under physiological conditions. Considering the superiority of the long wavelength of the phytochrome-based iRFP BiFC system,further studies should be dedicated to visualizing drug inhibition in live animals. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.Conclusion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This study provided a systematic screening of iRFP split reporters.Several new phytochrome-based iRFP BiFC systems were builtbased on the selected split sites.These new near-infrared BiFC systems froma bacterial phytochrome could be powerful tools for imaging protein interactions under physiological conditions.Based on the novel BiFC system,drug evaluation assays were conducted by visualizing the inhibition of the interaction between HIV-1 IN and cellular cofactor protein LEDGF/p75,whichalso providesa new method for drug evaluation in live cells and helps to validate candidate drugs foranti-HIV therapies. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ZQ Cui is supported by the National Nano Project (no. 2011CB9336oO）and the National Natural Science Foundation of China (no.31470269). ZP Zhang is supported by the National Natural Science Foundation of China (no.3147O837).XE Zhang is grateful for support from the Chinese Academy of Sciences. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Appendix A.Supplementarydata ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data related to this article can be found at 10. 1016/j.biomaterials.2015.01.038. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] Stryer L. Fluorescence energy-transfer as a spectroscopic ruler. Annu Rev Biochem 1978;47:819-46.   \n[2] Jares-Erijman EA, Jovin TM. Imaging molecular interactions in living cells by FRET microscopy. Curr Opin Chem Bio 2006;10:409-16.   \n[3] Paulmurugan R, Gambhir SS. Firefly luciferase enzyme fragment complementation for imaging in cells and living animals. Anal Chem 2o05;77: 1295-302.   \n[4] Galarneau A, Primeau M, Trudeau LE, Michnick SW. Beta-Lactamase protein fragment complementation assays as in vivo and in vitro sensors of proteinprotein interactions. Nat Biotechnol 2002;20:619-22.   \n[5] Michnick SW,Remy I, Campbell-Valois FX,Vallee-Belisle A，Pelletier JN. Detection of protein-protein interactions by protein fragment complementation strategies. Method Enzymol 2000;328:208-30.   \n[6] Anderie I, Schmid A. In vivo visualization of actin dynamics and actin interactions by BiFC.Cell Biol Int 2007;31:1131-5.   \n[7] Hu CD, Chinenov Y, Kerppola TK. Visualization of interactions among bZip and Rel family proteins in living cells using bimolecular fluorescence complementation. Mol Cell 2002;9:789-98.   \n[8]Demidov VV, Dokholyan NV,Witte-Hoffmann C, Chalasani P, Yiu HW, Ding F, et al.Fast complementation of split fluorescent protein triggered by DNA hybridization. Proc Natl Acad Sci U S A 2006;103:2052-6.   \n[9] Shyu YJ, Liu H,Deng XH,Hu CD. Identification of new fluorescent protein fragments for bimolecular fluorescence complementation analysis under physiological conditions. Biotechniques 2oo6;40:61-6.   \n10] Fan JY, Cui ZQ, Wei HP, Zhang ZP, Zhou YF,Wang YP,et al. Split mCherry as a new red bimolecular fluorescence complementation system for visualizing protein-protein interactions in living cells. Biochem Biophys Res Commun 2008；367:47-53.   \n[11] Han Y,Wang S, Zhang Z, Ma X,Li W, Zhang X, et al. In vivo imaging of proteinprotein and RNA-protein interactions using novel far-red fluorescence complementation systems. Nucleic Acids Res 2014;42.e103.   \n[12] Fankhauser C. The phytochromes,a family of red/far-red absorbing photoreceptors.JBiol Chem 2001;276:11453-6.   \n[13] Shu XK,Royant A, Lin MZ, Aguilera TA,Lev-Ram V, Steinbach PA,et al. Mammalian expression of infrared fluorescent proteins engineered from a bacterial phytochrome. Science 2009;324:804-7.   \n[14] Filonov GS,Piatkevich KD,Ting LM, Zhang J, Kim K, Verkhusha VV. Bright and stable near-infrared fluorescent protein for in vivo imaging. Nat Biotechnol 2011;29:757-61.   \n[15] Filonov GS, Verkhusha VV. A near-infrared BiFC reporter for in vivo imaging of protein-protein interactions. Chem Biol 2013;20:1078-86.   \n[16] Maertens G, Cherepanov P,Pluymers W, Busschots K, De Clercq E, Debyser Z, et al.LEDGF/p75 is essential for nuclear and chromosomal targeting of HIV-1 integrasein human cells.JBiol Chem 2003;278:33528-39.   \n[17] Shun MC,Raghavendra NK,Vandegraaff N,Daigle JE,Hughes S, Kellam P, et al.LEDGF/p75 functions downstream from preintegration complex formation to effect gene-specific HIV-1 integration. Gene Dev 2007;21: 1767-78.   \n[18]Vandekerckhove L, Christ F,Van Maele B,De Rijck J,Gijsbers R,Van den Haute C,et al. Transient and stable knockdown of the integrase cofactor LEDGF/p75 reveals its role in the replication cycle of human immunodeficiency virus. J Virol 2006;80:1886-96.   \n[19] Du L, Chen J, Yang LM, Zheng YT, Tang Y,Shen X, et al. D77,one benzoic acid derivative, functions as a novel anti-HIV-1 inhibitor targeting the interaction between integrase and cellular LEDGF/p75. Biochem Biophys Res Commun 2008；375:139-44.   \n[20] Cavalluzzo C, Christ F, Voet A, Sharma A, Singh BK, Zhang KYJ, et al. Identification of small peptides inhibiting the integrase-LEDGF/p75 interaction through targeting the cellular co-factor.J Pept Sci 2013;19:651-8.   \n[21] Christ F, Shaw S, Demeulemeester J, Desimmie BA,Marchand A, Butler S,et al. Small-molecule inhibitors of the LEDGF/p75 binding site of integrase block HIV replication and modulate integrase multimerization. Antimicrob Agents Chem0ther 2012;56:4365-74.   \n[22] Tsiang M, Jones GS,Niedziela-Majka A, Kan E, Lansdon EB, Huang W, et al. New class of HIV-1 integrase (IN) inhibitors with a dual mode of action. J Biol Chem 2012;287:21189-203.   \n[23] Christ F, Voet A,Marchand A,Nicolet S,Desimmie BA,Marchand D,et al. Rational design of small-molecule inhibitors of the LEDGF/p75-integrase interaction and HIV replication. Nat Chem Biol 2010;6:442-8.   \n[24] Hu GP,Li X, Sun XQ, Lu WQ, Liu GX, Huang J, et al. Identification of old drugs as potential inhibitors of HIV-1 integrase - human LEDGF/p75 interaction via molecular docking.JMol Model 2012;18:4995-5003.   \n[25] Bellini D, Papiz MZ. Dimerization properties of the RpBphP2 chromophorebinding domain crystallized by homologue-directed mutagenesis. Acta Crystallogr D Biol Crystallogr 2012;68:1058-66.   \n[26] Phillips GN. Structure and dynamics of green fluorescent protein. Curr Opin Struc Biol 1997;7:821-7.   \n[27] Zacharias DA, Violin JD, Newton AC, Tsien RY. Partitioning of lipid-modified monomeric GFPs into membrane microdomains of live cells. Science 2002;296:913-6.   \n[28] Jach G,Pesch M, Richter K,Frings S, Uhrig JF. An improved mRFP1 adds red to bimolecular fluorescence complementation. Nat Methods 2oo6;3:597-600.   \n[29] Busschots K, Voet A, De Maeyer M,Rain JC,Emiliani S,Benarous R,et al. Identification of the LEDGF/p75 binding site in HIV-1 integrase.JMol Biol 2007;365:1480-92.   \n[30] Llano M, Saenz DT,Meehan A,Wongthida P, Peretz M,Walker WH, et al. An essential role for LEDGF/p75 in HIV integration. Science 2006;314:461-4.   \n[31] Schrijvers R,De Rijck J, Demeulemeester J, Adachi N, Vets S, Ronen K,et al. LEDGF/p75-Independent HIV-1 replication demonstrates a role for HRP-2 and remains sensitive to inhibition by LEDGINs. Plos Pathog 2012;8. e1002558. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

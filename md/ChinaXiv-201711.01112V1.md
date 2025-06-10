@@ -1,0 +1,248 @@
+# 胡麻产量形成模拟模型研究
+
+李　玥吴 兵³刘 栋」高珍妮}谢亚萍4 剡　斌² 张中凯²牛俊义2\*\*
+
+(1．甘肃农业大学信息科学技术学院 兰州730070;2．甘肃农业大学农学院兰州 730070;3．甘肃农业大学生命科学技术学院兰州730070;4．甘肃省农业科学院作物研究所兰州730070)
+
+摘要胡麻产量形成模型是胡麻生长模型中的重要子模型，其准确性关系到整个模型的模拟性能。本研究拟构建能较准确预测不同生产情况下胡麻的产量形成模型，为胡麻实际生产提供科学指导。模型利用2012—2013年胡麻西北主产区定西和榆中试验站不同肥料、不同播种方式、不同种植密度和不同氮磷水平的试验结果，以胡麻生理生态过程为主线，分别构建了产量构成因素法(基于品种遗传参数：单位面积蒴果数、每果粒数、粒重与水肥胁迫因子、累积光合速率)的产量形成模型和基于粒壳比法(基于粒壳比和蒴果干物质总量)的产量形成模型；利用2014—2015年试验区实测数据对模型进行较广泛验证。验证结果表明，产量构成因素法对定西地区不同肥料、不同播种方式、不同种植密度产量模拟值的RMSE平均为 $1 3 3 . 4 7 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，粒壳比法的RMSE平均为 $1 9 5 . 5 1 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ；利用最小二乘法计算的决定系数 $R ^ { 2 }$ 产量构成因素法与粒壳比法分别为0.8198和 $0 . 7 4 3 \ 9$ 。榆中地区12个氮磷处理水平产量构成因素法平均RMSE值为 $1 4 0 . 7 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，粒壳比法的RMSE平均为 $1 9 3 . 2 2 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ；产量构成因素法与粒壳比法预测的产量值与观测值 $R ^ { 2 }$ 分别为0.8329和0.8058。结果表明，产量构成因素法对产量的模拟效果优于粒壳比法，针对不同品种不同栽培方式，把单位面积蒴果数、每果粒数与粒重作为品种遗传参数的产量构成因素法能更精确模拟胡麻的产量，具有较高的预测性和通用性。
+
+关键词胡麻产量形成模型产量构成因素法粒壳比法遗传参数中图分类号：S565.3;S3-33 文献标识码：A 文章编号:1671-3990(2016)09-1246-08
+
+# Simulation model for yield formation of oilseed flax based on APSIM\*
+
+LI Yuel,WU Bing³,LIU Dong1,GAO Zhenni1,XIE Yaping4,YAN $\mathrm { B i n } ^ { 2 }$ , ZHANG Zhongkai², NIU Junyi² (1.ColegeofInformationSienceandTechnology,GansuAgriculturalUniversityLanzhou73oo,hina;2.CollgeofAgroomy GansuAgriculturalUniversityLanzhou30oo,China;3.ColegeofLifeScienceandechnologyGansuAgriculturalUivsity Lanzhou 73o070,China; 4.Crop Research Institute,Gansu Academy of Agricultural Sciences,Lanzhou 730070,China)
+
+AbstractThe oilseed flax yield formation model was developedto predict biomass yield and provide scientific guidance for oilseed flax production,which wasan importantsub modelof oilseed flax development model,APSIM-Oilseed flax.Its accuracy was related to the performanceof APSIM-Oilseed flax.In the study,the oilseed flax yield formation model was developed for Northwest China using data generated from experiments,and was calibrated and validatedunder varying fertilizers，seding methods，planting densities，nitrogenand phosphorus aplicationconditions.Theexperimentswere conductedat Dingxi and YuzhongofGansu Province from 2012 to 2015.Calibration was done using data for2012-2013 and validation withdata for2O14-20l5.Two methods,yieldcomponent factors methodand grainpodratio method,wereused to buildoilseed flaxyield formation model.The oilsed flax yield formation modelofyield component factors was basedon genetic parameters,such as,numberof pods perunitarea,grains number per pod,grain weightand waterand fertilizer stress factors.Theoilseedflaxyield formation modelofthegrain podratiowas basedon grain podratioand total dry mater.The results showedthattheaverageRMSEforthemodel-simulatedandfieldvaluesrelatedtotheyieldcomponentfactors method under different fertilizers,sowing densities in Dingxi was $1 3 3 . 4 7 ~ \mathrm { k g }$ per $\mathrm { h m } ^ { 2 }$ . Then it was $1 9 5 . 5 1 ~ \mathrm { k g }$ per $\mathrm { h m } ^ { 2 }$ for the grain pod ratio method. Then $R ^ { 2 }$ values were 0.819 8 and 0.743 9 for the yield component factors and grain pod ratio,respectively. The average RMSE was $1 4 0 . 7 0 ~ \mathrm { k g }$ per $\mathrm { h m } ^ { 2 }$ for the yield component factors method under varying nitrogen and phosphorus levels in Yuzhong and it was $1 9 3 . 2 2 ~ \mathrm { k g }$ per $\mathrm { h m } ^ { 2 }$ for the grain pod ratio method. The $R ^ { 2 }$ values were 0.832 9 and 0.805 8 of yield componentfactors and grain podratio,respectively.The validationresults showed thatthe yield component factors method was beter than the grain podratio methodin simulating oilseedflaxyield formation.In viewofdifferentvarietiesofoilseed flaxundervaryingexperimental treatments,the yield component factors method simulated oilseed flax yield with high accuracy and versatility using the number of pods per unit area,seeds number per pod and grain weight as genetic parameters.
+
+KeywordsOilseedflax;Yieldformation model; Yield component factors method; Grainpod ratio method; Genetic parameter
+
+作物产量即单位土地面积上作物群体的产量作物产量通常分为生物产量和经济产量，一般产量指的是籽粒收获量，即经济产量。经济产量占生物产量的比例，即生物产量转化为经济产量的效率，为经济系数或收获指数。通常，经济产量与生物产量呈正比[1]。在实际生产中，加强作物生物量累积动态与产量形成的研究有利于从总体上把握作物生产过程[2]。因此，作物产量的形成与器官分化、发育及光合产物的分配和累积密切相关，了解其形成规律是实现作物高产的基础[1]。本研究旨在通过构建胡麻(LinumusitatissimumL.)产量形成模型，以期对胡麻实际生产进行科学指导。
+
+目前，有关作物产量形成模型的研究已非常广泛，从单一性模型到综合性的模拟模型，从一种作物的模型到多作物的整合模型都有较多的研究，但已有的产量形成模拟方法的研究存在较大差异。目前作物产量的模拟方法主要有产量构成法[3-9]、收获指数法[10-11]、分期转移法[12-14]、Logistic方程法[15],以及全球气候变化对作物产量的影响模型[16-17]和采用地面遥感和高空遥感观测数据估算作物产量等模型[18-19]。邹薇等[3]在大麦(Hordeum vulgare L.)产量构成模型研究中采用产量构成法构建了适用于不同地区不同品种的大麦产量模拟模型；郑秀琴等[9沿用小麦(Triticum aestivumL.)产量构成因素方法，建立了模拟冬小麦产量形成模拟模型；汤亮等[20]通过粒壳比和角果物质量的关系计算油菜(BrassicacampestrisL.)最终的籽粒产量；张亚杰[21的研究中也采用了衡量角果本身干物质合理分配和库源关系的重要指标一粒壳比计算直播油菜的籽粒产量；王新等[22]构建了基于收获指数的加工番茄(LycopersiconesculentumMill.)产量预测模型；尹红征等[23和郑国清等[24]根据玉米(Zea mays L.)籽粒干物质的来源构建玉米产量形成模型；陈兵兵[25]在有关苎麻[Boehmerianivea(L.)Gaudich.]产量模型的优化研究中，运用产量构成因素法、多元线性回归、BP神经网络和GA-BP神经网络(采用遗传算法对BP神经网络进行参数优化)分别建立苎麻产量模型，然后进行估测比较，最终确定最优化模型。目前对胡麻产量模拟模型的研究除了本课题组在文献[26]中的研究之外鲜见报道。胡麻产量形成模型是胡麻生长模型中的重要子模型，其准确性关系到整个模型的模拟性能。胡麻生长模拟模型是依托胡麻的生长发育特征在计算机上模拟胡麻生长发育、器官建成和产量品质形成等与环境之间的数学关系，主要包括物候期子模型[27]、叶面积指数子模型[28]、光合生产子模型(后续发表)、器官建成(后续发表)以及产量形成子模型等。
+
+本研究在现有作物生长发育模型研究的基础上，以胡麻的生理生态过程为主线，分别采用产量构成因素法和粒壳比法建立胡麻产量形成模型，通过估测比较各模型的模拟精度，最终确定能更精确预测胡麻产量的模拟方法，为胡麻的实际生产提供指导。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+试验I：肥料试验，试验因素为油渣、磷酸二铵、复合肥。试验设不施肥作对照(CK)，设油渣施用量分别为 $6 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } ( \mathrm { Y } 1 ) .$ 、 $1 ~ 2 0 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } \left( \mathrm { Y } 2 \right)$ 人$2 ~ 4 0 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ （Y3）3个水平，磷酸二铵施用量分别为 $9 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ (R1)、 $1 8 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ (R2)、 $2 7 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ (R3)3个水平，复合肥施用量分别为 $1 5 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ (F1)$3 0 0 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ (F2)、 $4 5 0 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ (F3)3个水平，共10个处理，每个处理3次重复，共30个小区。小区面积 $2 0 ~ \mathrm { m } ^ { 2 }$ 。试验用胡麻品种为‘定亚22号'。
+
+试验Ⅱ：覆盖试验，设3个试验处理，分别为残膜直播(T1)；残膜覆至春天，播种前揭残膜，覆盖新膜播种(T2)；残膜覆至春天，播种前揭残膜后直接播种(T3)。各小区氮、磷、钾施肥量均分别为$1 1 2 . 5 \mathrm { k g ( N ) } { \cdot } \mathrm { h m } ^ { - 2 } , 7 5 \mathrm { k g } ( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) { \cdot } \mathrm { h m } ^ { - 2 } , 5 2 . 5 \mathrm { k g } ( \mathrm { K } _ { 2 } \mathrm { O } ) { \cdot } \mathrm { h m } ^ { - 2 }$ 共3个处理3次重复。小区面积 $2 0 ~ \mathrm { m } ^ { 2 }$ ，试验用胡麻品种为‘陇亚10号’。
+
+试验Ⅲ：播种量试验，设7个播种量处理，分别为$3 { \times } 1 0 ^ { 6 }$ 粒 $\cdot \mathrm { h m } ^ { - 2 }$ (D1) $4 . 5 { \times } 1 0 ^ { 6 }$ 粒 $\cdot \mathrm { h m } ^ { - 2 }$ (D2) $6 { \times } 1 0 ^ { 6 }$ 粒 $\cdot \mathrm { h m } ^ { - 2 }$ (D3)、 $7 . 5 { \times } 1 0 ^ { 6 }$ 粒 $\cdot \mathrm { h m } ^ { - 2 }$ (D4)、 $9 \times { 1 0 } ^ { 6 }$ 粒 $\cdot \mathrm { h m } ^ { - 2 }$ (D5)、$1 . 0 5 \times 1 0 ^ { 7 }$ 粒 $\cdot \mathrm { h m } ^ { - 2 }$ (D6)、 $1 . 2 \times 1 0 ^ { 7 }$ 粒 $\cdot \mathrm { h m } ^ { - 2 }$ (D7)；各处理的穴距和行距均为 $1 1 \ \mathrm { c m }$ 和 $1 5 \mathrm { c m }$ ，每穴播种籽粒数对应种植密度分别为6粒、9粒、12粒、15粒、18粒、21粒、24粒。小区面积 $1 3 . 3 \mathrm { m } ^ { 2 }$ ，重复3次。各小区氮、磷、钾施肥量均分别为 $1 1 2 . 5 \mathrm { k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ （ ${ 7 5 \mathrm { k g } ( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) } { \cdot } \mathrm { h m } ^ { - 2 } .$ $5 2 . 5 \mathrm { k g } ( \mathrm { K } _ { 2 } \mathrm { O } ) { \cdot } \mathrm { h m } ^ { - 2 }$ ，胡麻品种选用‘陇亚10号'。
+
+试验I\~Ⅲ于 2012—2015年在甘肃省定西市西巩驿镇 $( 1 0 4 ^ { \circ } 3 7 ^ { \prime } 1 2 ^ { \prime \prime } \mathrm { E }$ ， $3 5 ^ { \circ } 3 4 ^ { \prime } 4 8 ^ { \prime \prime } \mathrm { N } ,$ 进行。试验区属旱地。前茬为全膜双垄沟玉米，前一年玉米收获后保护地膜，以草木灰或砂土覆盖破损处，冬季避免牲畜践踏和人为损坏地膜，翌年春天免耕直接播种。供试地膜为聚乙烯吹塑农用地膜，厚度 $0 . 0 0 8 \mathrm { ~ m m }$ 甘肃省天水天宝塑业有限责任公司生产。氮、磷、钾肥品种分别为尿素、过磷酸钙和硫酸钾。磷、钾肥均作为基肥施用；氮肥的2/3作为基肥，1/3作为追肥于现蕾前追施。小区间走道 $3 0 ~ \mathrm { c m }$ ，重复间走道$5 0 \mathrm { c m }$ ，四周设 $\mathrm { ~ 1 ~ m ~ }$ 的保护行。试验I和试验Ⅱ的播种密度为750万株 $\cdot \mathrm { h m } ^ { - 2 }$ ，行距 $1 5 \ \mathrm { c m }$ ，穴距 $1 1 \ \mathrm { c m }$ 每穴播10粒左右种子。4月1日播种，8月5日收获。栽培管理同大田生产。
+
+试验IV：氮磷施肥试验，于2012—2015年在甘肃省兰州市榆中县育种繁殖场 $( 1 0 3 ^ { \circ } 4 9 ^ { \prime } 1 5 ^ { \prime \prime } \mathrm { E } \sim$
+
+$1 0 4 ^ { \circ } 3 4 ^ { \prime } 4 0 ^ { \prime \prime } \mathrm { E }$ ， $3 5 ^ { \circ } 3 4 ^ { \prime } 2 0 ^ { \prime \prime } \mathrm { N } { \sim } 3 6 ^ { \circ } 2 6 ^ { \prime } 2 0 ^ { \prime \prime } \mathrm { N } )$ 进行。试验区属水地。试验因素为氮和磷，采用二因素随机区组设计。氮设3个水平，分别为 $0 \mathrm { \ k g ( N ) \cdot h m } ^ { - 2 } \ t$ NO)、$7 5 ~ \mathrm { k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ (N1)和 $1 5 0 \mathrm { k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ (N2)；磷设4个水平，分别为 $0 \mathrm { k g } ( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) { \cdot } \mathrm { h m } ^ { - 2 } ( \mathrm { P } 0 ) \mathrm { . } 7 5 \mathrm { k g } ( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) { \cdot } \mathrm { h m } ^ { - 2 } ( \mathrm { P } 1 ) ,$ $1 5 0 \mathrm { k g } ( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) { \cdot } \mathrm { h m } ^ { - 2 }$ (P2)和 $2 2 5 \mathrm { k g } ( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) { \cdot } \mathrm { h m } ^ { - 2 }$ (P3)。共12个处理，重复3次，共36个小区。各小区均施钾肥 $5 2 . 5 ~ \mathrm { \ k g } ( \mathrm { K } _ { 2 } \mathrm { O } ) { \cdot } \mathrm { h m } ^ { - 2 }$ 。氮、磷、钾肥与施用方法同上。各小区灌溉定额均为 $2 . 7 { \times } 1 0 ^ { 3 } \ \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ （分茎期灌$1 . 2 { \times } 1 0 ^ { 3 } \ \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ 、现蕾期灌 $1 . 5 { \times } 1 0 ^ { 3 } \ \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 } ,$ 。胡麻品种选用‘陇亚杂1号'，种植密度为 900 万株 $\cdot \mathrm { h m } ^ { - 2 }$ ，条播，播深 $3 \mathrm { c m }$ ，行距 $2 0 ~ \mathrm { c m _ { \circ } }$ 小区长 $5 \mathrm { m }$ 、宽 $4 ~ \mathrm { m }$ 面积 $2 0 ~ \mathrm { m } ^ { 2 }$ 。2012年3月24日播种，8月4日收获，2013年4月15日播种，8月9日收获，2014年4月1日播种，8月5日收获，2015年3月25日播种，8月5日收获。栽培管理同大田生产。
+
+定西地区地处黄河中游黄土高原沟壑区，海拔高度 $1 \ 7 9 3 \ \mathrm { m }$ ，年均气温 $7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，年日照时数 $2 \ 5 0 0 \ \mathrm { h }$ 无霜期146d，年降水量 $3 0 0 { \sim } 4 0 0 \ \mathrm { m m }$ ，年均蒸发量$1 5 2 4 . 8 \mathrm { m m } _ { \circ }$ 供试土壤为黑泸土，土壤理化性状见表 $1 _ { \circ }$
+
+榆中地区地处黄河中游黄土高原沟壑区，海拔高度 $1 \ 7 9 3 \ \mathrm { m }$ ，年均气温 $6 . 7 \mathrm { ~ \textdegree ~ }$ ， $\geqslant 1 0 \ ^ { \circ } \mathrm { C }$ 积温 $2 \ 3 5 0 \ \mathrm { { ‰ } }$ 年日照时数 $2 ~ 5 6 3 ~ \mathrm { h }$ ，无霜期146d，年降水量 $3 0 0 \sim$ $4 0 0 \mathrm { m m }$ ，年均蒸发量 $1 3 4 1 \mathrm { m m }$ ，年辐射量 $1 3 1 0 \mathrm { M J } { \cdot } \mathrm { m } ^ { - 2 }$ 。供试土壤为砂壤土，土壤理化性状见表1。
+
+表1定西和榆中试验站土壤理化性状 Table 1Basic physical-chemical properties of soil in Dingxi and Yuzhong experiment sites   
+
+<html><body><table><tr><td>试验站 Experiment site</td><td>土壤类型 Soil type</td><td>有机质含量 rgagig myter</td><td>全氮 ggN</td><td>碱解氮 Availagle N</td><td>速效磷 Availagle P</td><td>速效钾 AvailagleK</td><td>pH</td></tr><tr><td>定西Dingxi</td><td>黑泸士 Heilu soil</td><td>11.06</td><td>0.99</td><td>72.15</td><td>8.31</td><td>247.02</td><td>8.30</td></tr><tr><td>榆中Yuzhong</td><td>砂壤土 Sandy loam</td><td>16.56</td><td>1.10</td><td>59.01</td><td>13.83</td><td>127.62</td><td>7.75</td></tr></table></body></html>
+
+# 1.2 数据来源与测定
+
+模型运行所需参数为气象数据(逐日最高、最低气温、降水量、辐射)，来自甘肃省气象局农业气象观测站；土壤数据(土壤类型、质地、典型土壤分层饱和含水量、田间持水量、萎蔫系数、容重、有机质含量、全氮、pH、土壤碳氮比等)来自农业气象观测站和中国土壤数据库；品种数据(品种类型、发育速率、干物质分配系数、比叶面积等)、田间管理(播种期、播种深度、种植密度、施肥量、灌溉量及其时间等)和实际产量数据来自试验实际观察测定。
+
+试验观测项目包括胡麻生育时期，各生育时期各器官根、茎、叶、果的干物质量、叶面积，收获时测定产量构成要素及产量，播种前和收获后分别测定土壤理化性状及土壤水分动态。
+
+1)土壤基础参数：播种前分别测定 $0 { \sim } 3 0 ~ \mathrm { c m }$ 土壤的铵态氮含量、硝态氮含量、有机质含量和土壤含水率，在收获后测定土壤水分特征曲线和容重。
+
+2)物候期：分别记录苗期、现蕾期、盛花期、子实期和成熟期。
+
+3)叶面积和干物质量：在苗期、现蕾期、盛花期、子实期和成熟期进行取样和测定。叶面积每小区定株10株进行叶面积的连续观测；生物量每小区随机取样10株，分别测定茎、叶和蒴果的干鲜重量。
+
+4)产量：成熟期按小区进行实产测定，考种测定产量构成三要素。
+
+采用SPSS20.0统计分析软件进行数据整理和分析。
+
+# 1.3 模型调参方法
+
+本模型是综合胡麻生长发育模型(APSIM-Oilseedflax)的一个子模型。模型采用VB.NET设计,APSIM已建立的作物模型有鹰嘴豆(CicerarietinumL.)、绿豆[Vignaradiata(L.)Wilczek.]、大豆[Glycinemax (L.) Merr.]、柱花草(Stylosanthes guianensias SW.)、花生(Arachis hypogaea L.)、蚕豆(Vicia faba L.)、紫花苜蓿(Medicago sativaL.)、加拿大油菜(BrassicanapusL.)、小麦等。本研究通过借鉴APSIM-Canola加拿大油菜模型[29-30]，根据胡麻生长发育的生理生态过程，确定影响胡麻产量的品种遗传参数。确定作物参数过程：首先调查收集研究区作物性状介绍与试验资料，作为估计作物品种资料遗传参数的基本依据；其次，采用基于神经网络的投影寻踪自回归 BPPPAR(projection pursuit auto-regression basedon error back propagation)模型[31]，用 RAGA(realcoded acceleratinggenetic algorithm)优化投影指标函数[31]，调整品种遗传特性参数。
+
+# 1.4 模型检验方法
+
+采用模型校准与验证评价中常用的统计指标：均方根误差 RMSE(root mean square error)、决定系数$R ^ { 2 }$ (determination coefficient)和相对误差RE(relativeerror)对模型进行检验，其中 $\textstyle R ^ { 2 }$ 用于评价模型的预测能力，RE、RMSE用于显示模型预测中的误差。
+
+$$
+{ \mathrm { R M S E } } = { \sqrt { \frac { \sum _ { i = 1 } ^ { n } ( M _ { i } - S _ { i } ) ^ { 2 } } { n } } }
+$$
+
+$$
+R ^ { 2 } = \left( { \frac { \sum _ { i = 1 } ^ { n } ( M _ { i } - { \overline { { M } } } ) ( S _ { i } - { \overline { { S } } } ) } { \sqrt { \sum _ { i = 1 } ^ { n } ( M _ { i } - { \overline { { M } } } ) ^ { 2 } { \sqrt { \sum _ { i = 1 } ^ { n } ( M _ { i } - { \overline { { M } } } ) ^ { 2 } } } } } } \right) ^ { 2 }
+$$
+
+$$
+\operatorname { R E } = \left| { \overline { { M } } } - { \overline { { S } } } \right| / { \overline { { M } } }
+$$
+
+式中： $S _ { i }$ 和 $M _ { i }$ 分别为模拟值和实测值， $\overline { { \boldsymbol { M } _ { i } } }$ 为 $M _ { i }$ 的平均值, $n$ 为观察值的数目。
+
+# 2模型的构建
+
+前人关于作物产量预测研究有多种方法。本研究通过比较产量构成因素法[3]和粒壳比[20-21]两种方法的模拟结果，旨在找出能更精确预测胡麻产量的模拟方法。
+
+# 2.1产量构成因素法产量形成模型
+
+胡麻产量结构由单位面积上的蒴果数、每果粒数和粒重3个因素构成。因此，本模型胡麻潜在产量表示为：
+
+$$
+Y _ { \mathrm { p } } = N _ { \mathrm { g } } \times P _ { \mathrm { n } } \times W _ { \mathrm { g } } \times 1 0 ^ { - 6 }
+$$
+
+$$
+P _ { \mathrm { n } } = P _ { 0 } \times D
+$$
+
+式中： $Y _ { \mathfrak { p } }$ 是胡麻潜在产量 $( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } )$ ， $N _ { \mathrm { g } }$ 为每果粒数,$P _ { \mathrm { n } }$ 是单位面积蒴果数（个 $\cdot \mathrm { h m } ^ { - 2 }$ ）， $W _ { \mathrm { g } }$ 是千粒重 $\mathbf { \tau } ( \mathbf { g } )$ $P _ { 0 }$ 是单株蒴果数, $D$ 为胡麻群体密度(株 $\cdot \mathrm { h m } ^ { - 2 }$ ）
+
+单株作物的籽粒数 $( N _ { \mathrm { p } } )$ 由开花期茎重决定[5]:
+
+$$
+N _ { \mathrm { p } } = R _ { \mathrm { g } } \times W _ { \mathrm { s } }
+$$
+
+式中： $\theta _ { \mathrm { s } }$ 是开花期茎干重 $\mathbf { \tau } ( \mathbf { g } )$ ， $R _ { \mathrm { g } }$ 是每克茎的籽粒 数（个 $\cdot \mathrm { g } ^ { - 1 }$ ，取值133个 $\cdot \mathbf { g } ^ { - 1 }$ 。
+
+因而，每果粒数表示为：
+
+$$
+N _ { \mathrm { g } } = N _ { \mathrm { p } } / P _ { 0 }
+$$
+
+胡麻实际产量受水肥胁迫因子[5]影响，水肥亏缺因子取水分和氮肥胁迫因子的最小值。表示为：
+
+$$
+Y = Y _ { \mathrm { p } } \times \operatorname* { m i n } ( f _ { \mathrm { w } } , f _ { \mathrm { n } } )
+$$
+
+$$
+f _ { \mathrm { w } } = T _ { \mathrm { c } } / T _ { \mathrm { p } }
+$$
+
+$$
+f _ { \mathrm { n } } = \frac { C _ { \mathrm { N } } - C _ { \mathrm { N , m i n } } } { C _ { \mathrm { N , c r i t } } - C _ { \mathrm { N , m i n } } }
+$$
+
+式中: $Y$ 为胡麻实际产量 $( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } )$ ； $f _ { \mathrm { w } }$ 、 $f _ { \mathrm { n } }$ 是水分和氮肥亏缺因子； $T _ { \mathrm { c } }$ 为胡麻群体实际蒸腾量； $T _ { \mathfrak { p } }$ 为胡麻群体潜在蒸腾，由水分平衡模型计算得出； $C _ { \mathrm { N } }$ 是进入叶组织的实际氮浓度; $C _ { \mathrm { N , c r i t } } \setminus \mathrm { } C _ { \mathrm { N , m i n } }$ 是临界氮浓度与叶片自由生长氮浓度，由氮平衡模型计算得出。土壤水分平衡、氮平衡模型由本研究组后续发表。
+
+# 2.2粒壳比法产量形成模型
+
+前人研究表明粒壳比 $( W _ { \mathrm { g } } / W _ { \mathfrak { p } }$ ，籽粒重和果壳重的比值)是衡量蒴果本身干物质合理分配和“库源"关系的重要指标之一[21,32]，不同品种作物粒壳比有显著差异。因此，本研究采用粒壳比计算胡麻的籽粒产量，且该参数为品种参数，计算公式如下：
+
+$$
+Y _ { \mathrm { p } } = C _ { \mathrm { p } } \times \frac { W _ { \mathrm { g } } / W _ { \mathrm { p } } } { 1 + W _ { \mathrm { g } } / W _ { \mathrm { p } } }
+$$
+
+式中： $Y _ { \mathfrak { p } }$ 为籽粒潜在产量 $( \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } )$ ， $C _ { \mathfrak { p } }$ 为胡麻收获时的蒴果干物质总量 $( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ）
+
+# 3结果与分析
+
+# 3.1 参数确定
+
+胡麻产量形成模型参数主要包括：单位面积蒴果数、每果粒数、粒重、单株蒴果数、氮肥胁迫因子等各项指标，如表2所示。
+
+# 3.2 模型验证
+
+# 3.2.1产量构成因素法与粒壳比法的对比检验
+
+分别采用产量构成因素法和粒壳比法计算胡麻产量，通过选择两个试验站相应的肥料、播种方式、种植密度和氮磷水平，调整相应参数，运行模型得出产量模拟结果，其RMSE和 $R ^ { 2 }$ 值见表3、图1。
+
+表2胡麻产量形成模型品种遗传参数  
+
+<html><body><table><tr><td>品种 Cultivar</td><td>单位面积蒴果数 Number of pods per unit area (pods·hm-2)</td><td>每果粒数 Number of grains per pod</td><td>粒重 (g)</td><td>单株蒴果数 per plant</td><td>单株籽粒数 Grain weight Number of pods Number of grains per plant</td><td>水分胁迫因子 Stress factor of water</td><td>氮肥胁迫因子 Stress factor of nitrogen</td><td>粒壳比 Grain/pod ratio</td></tr><tr><td>陇亚杂1号 Longyaza_1</td><td>8148</td><td>7.60</td><td>7.50</td><td>15.52</td><td>118</td><td>0.75</td><td>0.68</td><td>1.05</td></tr><tr><td>陇亚10号 Longya 10</td><td>11 655</td><td>8.20</td><td>8.13</td><td>22.20</td><td>182</td><td>0.75</td><td>0.68</td><td>1.12</td></tr><tr><td>定亚22号 Dingya 22</td><td>10 920</td><td>8.15</td><td>7.43</td><td>20.80</td><td>170</td><td>0.75</td><td>0.68</td><td>1.25</td></tr></table></body></html>
+
+Table 2 Genetic parameters of oilseed flax yield formation model   
+表3胡麻产量形成模型产量构成因素法与粒壳比法结果比较 Table 3 Comparison of simulation results between yield component factors and grain pod ratio methods   
+
+<html><body><table><tr><td rowspan="2">试验 Experiment</td><td rowspan="2">处理 Treatment</td><td rowspan="2">平均观测产量 Mean measured yield</td><td colspan="2">平均预测值 Mean simulated yield (kg·hm-2)</td><td colspan="2">RMSE</td><td colspan="2">R²</td></tr><tr><td>产量构成因素法</td><td>粒壳比法 Yield component Grain pod ratio</td><td>产量构成因素法 Yield component</td><td>粒壳比法 Grain pod</td><td>产量构成因素法 Yield component</td><td>粒壳比法 Grain pod</td></tr><tr><td>试验I(定西)</td><td>CK</td><td>(kg·hm-2) 1 059.47</td><td>factors method 956.13</td><td>method 1 189.50</td><td>factors method 214.11</td><td>ratio method 391.31</td><td>factors method 0.82</td><td>ratio method 0.65</td></tr><tr><td>肥料试验</td><td>Y1</td><td>1 030.67</td><td>760.10</td><td>1 242.80</td><td>112.14</td><td>97.56</td><td>0.75</td><td>0.62</td></tr><tr><td>Experiment I</td><td>Y2</td><td>1 021.93</td><td>867.70</td><td>1 204.40</td><td>261.35</td><td>236.74</td><td>0.61</td><td>0.76</td></tr><tr><td>(Dingxi): Experiment of</td><td>Y3</td><td>949.07</td><td>861.80</td><td>1 107.20</td><td>205.45</td><td>59.53</td><td>0.92</td><td>0.66</td></tr><tr><td rowspan="6">fertilizer</td><td>R1</td><td>938.67</td><td>889.00</td><td>1 021.20</td><td>71.66</td><td>202.61</td><td>0.97</td><td>0.59</td></tr><tr><td>R2</td><td>914.73</td><td>947.90</td><td>942.20</td><td>24.38</td><td>206.76</td><td>0.81</td><td>0.89</td></tr><tr><td>R3</td><td>1 006.80</td><td>1 045.70</td><td>1 088.40</td><td>27.93</td><td>278.39</td><td>0.91</td><td>0.94</td></tr><tr><td>F1</td><td>1 117.40</td><td>1 125.70</td><td>1 132.60</td><td>31.48</td><td>264.50</td><td>0.92</td><td>0.66</td></tr><tr><td>F2</td><td>1 104.73</td><td>1 061.00</td><td>1 240.00</td><td>161.11</td><td>105.13</td><td>0.75</td><td>0.64</td></tr><tr><td>F3</td><td>1 127.36</td><td>1 062.13</td><td>1 274.00</td><td>86.03</td><td>305.33</td><td>0.96</td><td>0.58</td></tr><tr><td>试验Ⅱ(定西)</td><td>T1</td><td>1 099.13</td><td>814.75</td><td>1 334.88</td><td>62.55</td><td>20.90</td><td>0.87</td><td>0.66</td></tr><tr><td>播种方式试验 Experiment Ⅱ (Dingxi):</td><td>T2</td><td>934.96</td><td>965.00</td><td>938.50</td><td>213.59</td><td>12.62</td><td>0.89</td><td>0.81</td></tr><tr><td>Experiment of sowing method</td><td>T3</td><td>1 144.33</td><td>1088.63</td><td>1 295.13</td><td>35.68</td><td>250.27</td><td>0.92</td><td>0.71</td></tr><tr><td>试验Ⅲ(定西)</td><td>D1</td><td>1 147.67</td><td>1158.33</td><td>1 329.17</td><td>133.88</td><td>269.55</td><td>0.61</td><td>0.85</td></tr><tr><td>种植密度试验</td><td>D2</td><td>1 078.72</td><td>1 235.50</td><td>1 391.00</td><td>189.89</td><td>268.04</td><td>0.63</td><td>0.87</td></tr><tr><td>Experiment Ⅲ</td><td>D3</td><td>1 240.22</td><td>953.50</td><td>1 225.33</td><td>34.70</td><td>398.18</td><td>0.81</td><td>0.98</td></tr><tr><td>(Dingxi): Experiment of</td><td>D4</td><td>1 247.83</td><td>933.83</td><td>1 067.00</td><td>95.19</td><td>172.83</td><td>0.89</td><td>0.51</td></tr><tr><td rowspan="5">planting density</td><td>D5</td><td>902.89</td><td>1 106.17</td><td>911.50</td><td>203.37</td><td>89.65</td><td>0.85</td><td>0.96</td></tr><tr><td>D6</td><td>942.33</td><td>891.33</td><td>959.83</td><td>230.54</td><td>43.45</td><td>0.64</td><td>0.58</td></tr><tr><td>D7</td><td>931.17</td><td>800.17</td><td>954.00</td><td>274.34</td><td>236.92</td><td>0.89</td><td>0.96</td></tr><tr><td>NOPO</td><td>1 160.33</td><td>858.50</td><td>1 166.50</td><td>48.29</td><td>343.72</td><td>0.80</td><td>0.90</td></tr><tr><td>NOP1</td><td>1 284.33</td><td>1001.00</td><td>1 371.50</td><td>206.63</td><td>21.31</td><td>0.87</td><td>0.97</td></tr><tr><td rowspan="10">氮磷处理试验 Experiment IV (Yuzhong): Experiment of nitrogen and phosphorus level</td><td>NOP2</td><td>998.33</td><td>814.50</td><td>1 449.50</td><td>197.61</td><td>62.48</td><td>0.88</td><td>0.60</td></tr><tr><td>NOP3</td><td>953.50</td><td>585.00</td><td>1 352.00</td><td>66.77</td><td>307.45</td><td>0.66</td><td>0.92</td></tr><tr><td>N1P0</td><td>756.83</td><td>541.50</td><td>874.50</td><td>41.64</td><td>86.30</td><td>0.61</td><td>0.76</td></tr><tr><td>N1P1</td><td>1 116.67</td><td>1 396.50</td><td>974.50</td><td>146.05</td><td>237.40</td><td>0.94</td><td>0.91</td></tr><tr><td>N1P2</td><td>920.00</td><td>971.50</td><td>885.50</td><td>20.38</td><td>358.92</td><td>0.90</td><td>0.65</td></tr><tr><td>N1P3</td><td>946.33</td><td>950.50</td><td>1 019.50</td><td>251.80</td><td>38.48</td><td>0.95</td><td>0.76</td></tr><tr><td>N2P0</td><td>833.83</td><td>879.50</td><td>957.00</td><td>173.51</td><td>234.73</td><td>0.99</td><td>0.94</td></tr><tr><td>N2P1</td><td>1 217.17</td><td>1 030.50</td><td>1 605.50</td><td>208.46</td><td>322.86</td><td>0.72</td><td>0.54</td></tr><tr><td>N2P2</td><td>1 669.67</td><td>1 796.50</td><td>1 195.50</td><td>129.92</td><td>293.71</td><td>0.75</td><td>0.94</td></tr><tr><td>N2P3</td><td>856.67</td><td>648.00</td><td>1 422.50</td><td>197.34</td><td>11.27</td><td>0.91</td><td>0.77</td></tr></table></body></html>
+
+CK为不施肥对照,Y1\~Y3分别为油渣施用量 $\overline { { 6 0 0 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } } }$ 、 $\overline { { { 1 \ 2 0 0 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } } } }$ 和 $\overline { { 2 4 0 0 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } } }$ ${ \mathrm { R 1 } } { \sim } { \mathrm { R } } 3$ 分别为磷酸二铵施用量 $\overline { { 9 0 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } } }$ 、 $\overline { { { 1 8 0 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } } } }$ 和 $2 7 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ,F1\~F3分别为复合肥施用量 $1 5 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、 $3 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $4 5 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。T1为残膜直播;T2为残膜覆至春天，播种前揭残膜，覆 盖新膜播种;T3为播种前揭残膜后直接播种。 ${ \bf D } 1 { \sim } { \bf D } 7$ 为7个播种量处理，分别为 $3 \times 1 0 ^ { 6 }$ 粒 $\cdot \mathrm { h m } ^ { - 2 }$ $4 . 5 \times 1 0 ^ { 6 }$ 粒 $\cdot \mathrm { h m } ^ { - 2 }$ $6 \times 1 0 ^ { 6 }$ 粒 $\cdot \mathrm { h } \mathrm { m } ^ { - 2 }$ $7 . 5 \times 1 0 ^ { 6 }$ 粒 $\cdot \mathrm { h m } ^ { - 2 }$ ， $9 \times { 1 0 } ^ { 6 }$ 粒 $\cdot \mathrm { h m } ^ { - 2 }$ ， $1 . 0 5 \times 1 0 ^ { 7 }$ 粒 $\cdot \mathrm { h m } ^ { - 2 }$ 和 ${ \phantom { - } 1 . 2 \times 1 0 ^ { 7 } }$ 粒 $\cdot \mathrm { h m } ^ { - 2 }$ 。NOP0\~N2P3分别代表3个水平氮 $0 \mathrm { k g ( N ) \cdot h m } ^ { - 2 } ( \mathrm { N } 0 )$ ， $7 5 \mathrm { k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 } ( \mathrm { l }$ N1)、 $1 5 0 \mathrm { k g ( N ) } { \cdot } \mathrm { h m } ^ { - 2 } \left( \mathrm { N } 2 \right)$ 和4个水平磷 $0 ~ \mathrm { k g } ( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) { \cdot } \mathrm { h m } ^ { - 2 } ~ ( \mathrm { P } 0 ) \mathrm { , ~ } 7 5 ~ \mathrm { k g } ( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) { \cdot } \mathrm { h m } ^ { - 2 } ~ ( \mathrm { P } 1 )$ 、 $1 5 0 \ \mathrm { k g } ( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) { \cdot } \mathrm { h m } ^ { - 2 } \ ( \mathrm { P } 2 )$ 、 $2 2 5 \mathrm { \ k g ( P _ { 2 } O _ { 5 } ) } { \cdot } \mathrm { h m } ^ { - 2 } ( \mathrm { P } ?$ )的12种组合。CK represents no fertilization as control.Y1,Y2 and Y3 represent sludge fertilizer application rates of $6 0 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ $1 \ 2 0 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ and $2 ~ 4 0 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ,respectively. R1, R2 and R3 represent diammonium phosphate fertilizer application rates of $9 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ， $1 8 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ and $2 7 0 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ,respectively.F1,F2 and F3 represent compound fertilizer application rates of $1 5 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ $3 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ and $4 5 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ respectively.T1,T2 and T3 represent sowing methods of directowingialia removing in spring,respectively. D1-D7 represent 7 sowing densities of $\bar { 3 } \times 1 0 ^ { 6 }$ $4 . 5 \times 1 0 ^ { 6 }$ $6 \times 1 0 ^ { 6 }$ 5 $7 . 5 \times \mathrm { i } 0 ^ { 6 }$ $9 \times 1 0 ^ { \bar { 6 } }$ $1 . 0 5 \times 1 0 ^ { 7 }$ and $1 . 2 \times 1 0 ^ { 7 }$ seeds per $\mathrm { h m } ^ { 2 }$ NOPO to N2P3 are 12 combinations of 3 levels nitrogen and 4 levels phosphorus.
+
+http://www.ecoagri.ac.cn
+
+2000 a □产量构成因素法 1800 Yield component factors □ 1600 。粒壳比法 0 Grain pod ratio 1400 o% 1200 O 1000 800 600 □ □ 400 200 / 0 0 500 1000 1500 2000 10种肥料 Ten levels of fertilizer □ 3种播种方式 Three sowing methods $\Delta$ 7个种植密度 Seven planting densities $\textbf { \em x } 1 2$ 个氮磷水平 Twelve levels of nitrogen and phospl 2000 b 1800 \*   
+1   
+1600 1400 \* 1200 △   
+ID A A 海   
+nmWnig 1000 ? 8@ 800 600 x \*   
+tM 200 0 0 500 1000 1500 2000 1800 c 1600 \* 1400 \*\*\* \* 1200 8 \* 8 A 1000 \*\* \*\* 800 10种肥料 Ten levels of fertilizer 600 □ 3种播种方式 Three sowing methods 400 △ 7个种植密度 Seven planting densities 200 2个氮磷水平 Twelve levels of nitrogen and phosphorus 0 0 500 1000 1500 2000 实测值 Measured value (kg·hm-2)   
+图1胡麻产量形成模型产量构成因素法与粒壳比法 Fig.1Comparison of simulation results between yield component factors and grain pod ratio methods (a),and simulated results by yield component factors method (b) and   
+grain pod ratio method(c) with measured values under various   
+fertilizers,sowing methods,sowing densities and N and P levels
+
+测值与模拟值结果(a)、产量构成因素法(b)和粒壳比法(c) 对不同肥料、播种方式、种植密度和氮磷水平实测值与模 拟值结果比较
+
+# 3.2.2 定西试验站的检验比较
+
+采用两种产量形成方法分别对试验I\~Ⅲ定西站的10种肥料、3种播种方式和7个种植密度的产量进行对比检验。结果表明，产量构成因素法对产量的模拟效果优于粒壳比法。采用产量构成因素法所得不同肥料、不同播种方式、不同种植密度产量的模拟值RMSE 值介于 $2 4 . 3 8 { \sim } 2 7 4 . 3 4 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，平均为 $1 3 3 . 4 7 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，而粒壳比法的RMSE介于 $1 2 . 6 2 \sim$ $3 9 8 . 1 8 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，平均为 $1 9 5 . 5 1 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。利用最小二乘法计算的决定系数 $R ^ { 2 }$ 检验预测值与观测值的拟合效果，产量构成因素法预测的产量值与观测值 $R ^ { 2 }$ 介于 $0 . 6 0 7 8 { \sim } 0 . 9 6 7 5$ ，平均为0.8198，而粒壳比法的$R ^ { 2 }$ 介于 $0 . 5 1 4 2 { \sim } 0 . 9 7 8 0$ ，平均为 $0 . 7 4 3 \ 9 .$ 。
+
+# 3.2.3 榆中试验站的检验对比
+
+采用两种方法对试验IV榆中试验站的12个氮磷处理水平的产量进行对比检验。采用产量构成因素法所得产量模拟值的平均 RMSE 值为 $1 4 0 . 7 0 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 而粒壳比法的RMSE平均为 $1 9 3 . 2 2 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。利用最小二乘法计算的决定系数 $\textstyle R ^ { 2 }$ 验证预测值与观测值的拟合效果，产量构成因素法预测的产量值与观测值$R ^ { 2 }$ 平均为0.8329，而粒壳比法的 $R ^ { 2 }$ 平均为 $0 . 8 0 5 ~ 8 _ { \circ }$
+
+# 4讨论与结论
+
+# 4.1讨论
+
+在产量构成三因素当中，单位面积蒴果数是胡麻生产中对产量影响最大的因素[32]，变异最大，不同栽培条件可相差1\~5倍，长期试验得出基本上6万个蒴果可以获得 $0 . 5 ~ \mathrm { { k g } }$ 籽粒。另外两个因素，每果粒数和粒重在不同栽培条件下，对产量影响相对较小[33]，变异幅度相差不超过1倍，若为同一品种,则一般每果粒数变化范围在 $10 \%$ 以内，千粒重在 $5 \%$ 以内。而当单位面积蒴果数达到一定数量，产量比较高时，则每果粒数与粒重对产量的影响呈显著性[33]。因此，在本模型中将这3个变量作为品种遗传参数，针对不同品种不同栽培方式，输入的单位面积蒴果数、每果粒数与粒重都不同，由模型的验证结果得出，本模型能较精确地模拟胡麻产量。
+
+在汤亮等[20]和张亚杰[21]的研究中，采用粒壳比作为预测油菜籽粒产量的方法，研究中指出，油菜不同品种的粒壳比在不同环境下有一定变化，其变化受到库源关系的限制，机理较为复杂；在傅寿仲[32]的研究中指出粒壳比与作物产量呈极显著正相关。由于影响胡麻产量的因素除遗传因素、水分、氮素、播期外，还受其他矿物质磷、钾等胁迫的影响，本研究中采用粒壳比法模拟了胡麻籽粒潜在产量，并未考虑到上述因素以及胡麻粒壳比的变化规律对胡麻产量形成的影响，因而，导致粒壳比法的模拟精度
+
+低于产量因素构成法。
+
+# 4.2结论
+
+本研究构建了基于品种遗传参数单位面积蒴果数、每果粒数、粒重与水肥胁迫因子、累积光合速率的产量形成模型，和基于粒壳比和蒴果干物质总量的产量形成模型。利用定西试验站10种肥料、3种播种方式、7个种植密度和榆中试验站12个氮磷处理水平的试验数据资料对两种模型进行了较充分的统计分析与对比检验。结果表明，产量构成因素法对产量的模拟效果优于粒壳比法，产量构成因素法具有较高的预测性和通用性，在西北胡麻种植区定西和榆中地区具有较好的适用性。但由于试验资料的限制，本研究建立的胡麻产量形成模型并未把影响胡麻产量的所有因素都考虑进去，如病虫害、气候变化等，以及该模型在其他胡麻主产区，如内蒙古、河北、山西等的适应性验证都将是今后进一步完善研究的内容，旨在能探索出精确预测各地区胡麻产量的模拟方法。
+
+# 参考文献References
+
+[1]史密斯,HameC．作物产量：生理学及形成过程[M]．王璞, 译．北京：中国农业大学出版社,2001:10-30 Smith D L,Hame C.Crop Yield: Physiology and Processes[M]. Wang P, trans.Beijing: China Agricultural University Press, 2001:10-30   
+[2]张竹琴，周顺利，乔嘉，等．冬小麦产量形成过程模型及群 体优化设计方法[J]．中国农业大学学报,2010,15(6):13-19 Zhang Z Q,Zhou S L,Qiao J,et al. Studies on design methods for winter wheat optimal population based on model ofgrain yield formation process[J]. Journal of China Agricultural University,2010,15(6):13-19   
+[3]邹薇，刘铁梅，孔德艳，等．大麦产量构成模型[J]．应用生 态学报,2009,20(2):396-402 Zou W,Liu TM,KongDY,et al. Simulation model on barley yield formation[J].Chinese Journal of Applied Ecology,2009, 20(2): 396-402   
+[4] Ritchie JT, Schulthess U.GCTE Crops Network Metadata for CERES-Wheat V3.0 Crop Growth Model[Z].1994   
+[5]APSRU. The APSIM-Wheat Module-(wheat),APSIM Document, Apsuite V2.1[Z].2001   
+[6]王琳，郑有飞，于强，等．APSIM 模型对华北平原小麦-玉 米连作系统的适用性[J]．应用生态学报，2007，18(11): 2480-2486 Wang L, Zheng YF, Yu Q,et al. Applicability of agricultural production systems simulator (APSIM) in simulating the production and water use of wheat-maize continuous cropping system in North China Plain[J].Chinese Journal of Applied Ecology,2007,18(11): 2480-2486   
+[7]沈禹颖，南志标,BellottiB，等.APSIM模型的发展与应用[J]. 应用生态学报,2002,13(8):1027-1032 1027-1032   
+[8] Porter JR,Jamieson P D,Wilson D R.Comparison of the wheat simulation models AFRcWHEAr2， CEREs-Wheat and SwHEAr for non-limiting conditions of crop growth[J].Field Crops Research,1993,33(1/2): 131-157   
+[9] 郑秀琴，冯利平，刘荣花．冬小麦产量形成模拟模型研 究[J].作物学报,2006,32(2):260-266 Zheng X Q,Feng L P,Liu R H.A simulation model for yield components and final yield in winter wheat[J].Acta Agronomica Sinica, 2006,32(2): 260-266   
+[10] Moot D J, Jamieson PD,Henderson AL,et al. Rate of change in harvest index during grain-filling of wheat[J]. The Journal of Agricultural Science,1996,126(4): 387-395   
+[11] Meinke H. Improving wheat simulation capabilitiesin Australia from a cropping systems perspective[D]. Wageningen: Wageningen Agricultural University,1996   
+[12] Gent M P N.Photosynthate reserves during grain filling in winter wheat[J].Agronomy Journal,1994,86(1): 159-167   
+[13] Porter JR.AFRCWHEAT2:A model of the growth and development of wheat incorporating responses to water and nitrogen[J]. European Journal of Agronomy，1993，2(2): 69-82   
+[14]高亮之，金之庆，郑国清，等．小麦栽培模拟优化决策系统 (WCSODS)[J].江苏农业学报,2000,16(2): 65-72 Gao L Z,Jin Z Q,Zheng G Q,et al.Wheat cultivational simulation-optimization-decision making system (WCSODS)[J]. Jiangsu Journal of Agricultural Sciences,20o0,16(2): 65-72   
+[15]Bell M A,Fischer R A.Using yield prediction models to assess yield gains:A case study for wheat[J].Field Crops Research,1994,36(2): 161-166   
+[16] Saxton K E,Porter MA,NcMahon TA. Climatic impacts on dryland winter wheat yields by daily soil water and crop stress simulations[J]. Agricultural and Forest Meteorology, 1992, 58(3/4): 177-192   
+[17]张建平，赵艳霞，王春乙，等．气候变化对我国华北地区冬 小麦发育和产量的影响[J]．应用生态学报，2006，17(7): 1179-1184 Zhang JP,Zhao Y X,Wang C Y,et al. Effects of climate change on winter wheat growth and yield in North China[J]. Chinese Journal of Applied Ecology,2006,17(7): 1179-1184   
+[18] Wahbi A, Sinclair T R.Simulation analysis of relative yield advantage of barley and wheat in an eastern Mediterranean climate[J]. Field Crops Research,2005,91(2/3): 287-296   
+[19]Travasso MI,Magrin G O.Utility of CERES-Barley under Argentine conditions[J]. Field Crops Research,1998,57(3): 329-333   
+[20]汤亮，朱艳，鞠昌华，等．油菜地上部干物质分配与产量形 成模拟模型[J]．应用生态学报,2007,18(3):526-530 Tang L, Zhu Y, Ju C H,et al. Dynamic simulation on shoot dry matter partitioning and yield formation of rapeseed[J]. Chinese Journal of Applied Ecology,2007,18(3): 526-530   
+[21]张亚杰．直播油菜生长模拟模型的研究[D]．武汉：华中农 业大学,2013:49-58 Zhang Y J. Study on direct-seeding rapeseed growth simulation model[D].Wuhan: Huazhong Agricultural University, 2013:49-58   
+[22]王新，马富裕，刁明，等．加工番茄地上部干物质分配与产 量预测模拟模型[J]．农业工程学报,2013,29(22):171-179 Wang X,Ma F Y,Diao M,et al.Simulation of shoot dry matter partitioning and yield prediction of processing tomato[J].Transactions of the CSAE,2013,29(22):171-179   
+[23]尹红征，吕冰清，郑国清，等．玉米产量形成模拟模型研 究[J]．华北农学报,2004,19(3):73-76 Yin H Z,Lü BQ,Zheng GQ,et al. Simulation models of the maize yield formation[J].Acta Agriculturae Boreali-Sinica, 2004,19(3): 73-76   
+[24]郑国清，张曙光，段韶芬，等．玉米光合生产与产量形成模 拟模型[J].农业系统科学与综合研究,2004,20(3):193-197 Zheng G Q,Zhang S G, Duan S F,et al. Simulation models of the photosynthetic production and yield formation in maize[J]. System Sciences and Comprehensive Studies in Agriculture, 2004,20(3): 193-197   
+[25]陈兵兵．苎麻产量模型的优化研究[D]．长沙：湖南农业大 学,2013:6-26 Chen B B.Optimization research on model of ramie yield[D]. Changsha:Hunan Agricultural University,2013:6-26   
+[26]李玥，牛俊义，郭丽琢，等.AquaCrop 模型在西北胡麻生物 量及产量模拟中的应用和验证[J]．中国生态农业学报, 2014,22(1):93-103 LiY,NiuJY,Guo L Z,etal.Application and validation of AquaCrop model in simulating biomass and yield of oil flax in Northwest China[J]. Chinese Journal of Eco-Agriculture, 2014,22(1):93-103   
+[27]李玥，牛俊义，吴兵，等．基于APSIM的胡麻陇亚杂1号 的生育时期模拟模型[J]．核农学报,2015,29(5):972-979 Li Y,Niu JY,Wu B,et al.Simulation of oilseed flax development duration based on APSIM[J].Journal ofNuclear Agricultural Sciences,2015,29(5): 972-979   
+[28]李玥，牛俊义，谢亚萍，等．基于 APSIM 的油用亚麻叶面 积指数模型构建[J]．中国油料作物学报，2015，37(3): 329-335 LiY,Niu JY,Xie YP,et al. Simulation of oilseed flax leaf area index based on APSIM[J]. Chinese Journal of Oil Crop Sciences,2015,37(3):329-335   
+[29]Farré I,Robertson M J，Walton G H,et al.Simulating response of canola to sowing date in Western Australia[C]// Proceedings of the lOth Australian Agronomy Conference. Hobart,Tasmania: AAC,2001   
+[30]Robertson MJ,Holland JF,Cawley S,et al.Phenology of canola cultivars in the northern region and implications for frost risk[C]//Proceedings of the 1Oth Australian Agronomy Conference.Hobart,Tasmania:AAC,2001   
+[31]付强．数据处理方法及其农业应用[M]．北京：科学出版社, 2006:326-344 Fu Q.Data Processing Method and its Application in Agriculture[M].Beijing: Science Press,2006:326-34   
+[32]傅寿仲．油菜的光合作用和产量形成[J]．江苏农业科学, 1980(6): 37-45 Fu S Z.Photosynthesis and yield formation of rapeseed[J]. Jiangsu Agricultural Sciences,1980(6): 37-45   
+[33]油菜产量构成因素[EB/OL].[2015-8-3].http://baike.sogou. com/v71294640.htm Yield components of rapeseed[EB/OL]. [2015-8-3]. http://baike. sogou.c0m/v71294640.htm
+
+# 《中国种业》2017年征订启事
+
+# 全国优秀农业期刊 中国核心期刊(遴选)数据库收录期刊
+
+《中国种业》是由农业部主管，中国农业科学院作物科学研究所和中国种子协会共同主办的全国性、专业性、技术性种业科技期刊。刊物目标定位：以行业导刊的面目出现，并做到权威性、真实性和及时性。覆盖行业范围：大田作物、蔬菜、花卉、林木、果树、草坪、牧草、特种种植、种子机械等，信息量大，技术实用。读者对象：各级种子管理、经营企业的领导和技术人员，各级农业科研、推广部门人员，大中专农业院校师生，农村专业户和广大农业生产经营者。
+
+月刊，大16开，每期8元，全年96元。国内统一刊号:CN11-4413/S，国际标准刊号:ISSN1671-895X，全国各地邮局均可订阅，亦可直接汇款至编辑部订阅，挂号需每期另加3元。邮发代号：82-132。
+
+地址:(100081)北京市中关村南大街12号 中国种业编辑部；电话:010-82105796(编辑部),010-82105795(广告发行部),传真：010-82105796；网址：www.chinaseedqks.cn，E-mail: chinaseedqks $@$ 163.c0m，QQ 群：115872093，微信公众号：zgzy2000。

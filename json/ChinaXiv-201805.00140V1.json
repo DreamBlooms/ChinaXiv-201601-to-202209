@@ -1,0 +1,539 @@
+[
+    {
+        "type": "text",
+        "text": "转基因水稻BPL9K-2事件特异性检测方法的建立\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "崔帅1²，王作平1³，于江辉¹，肖国樱1\\*\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．中国科学院亚热带农业生态研究所，亚热带农业生态过程重点实验室，长沙 410125；2．中国科学院大学，北京 100049;3．北京市农林科学院，北京农业生物技术研究中心，北京市农业基因资源和生物技术重点实验室，北京 100097; $^ { * * }$ 通讯作者，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "xiaoguoying@isa.ac.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要利用 hiTAIL-PCR(High efficient thermal asymmetric interlaced PCR)法扩增获得了转基因水稻 BPL9K-2的外源基因插入位点的左旁侧序列450 bp，与水稻参考基因组数据比对发现其左边界插入在水稻基因组第10号染色体短臂的1037765 位核苷酸残基之后。根据水稻参考基因组序列和外源基因右边界序列，设计引物扩增得到485bp的特异片段，通过数据库比对发现其右边界插入在水稻基因组第10号染色体短臂的1037825位核苷酸残基之前。因为外源基因插入和非正常重组，水稻基因组上缺失了59个核苷酸。基于左右旁侧序列，建立了转基因水稻BPL9K-2的事件特异性定性PCR 检测方法，可以分别扩增到片段大小为 449 bp和485bp 的特异条带。该方法特异性好，灵敏度高，能够在BPL9K-2基因组DNA 相对含量为0.1%的模板中检测出转基因成份。依据旁侧序列，建立了快速鉴定转基因后代植株外源基因型的三引物 PCR 检测方法。这些方法的建立，为转基因水稻 BPL9K-2的应用和检测提供了技术支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 转基因水稻 旁侧序列 事件特异性检测 基因型鉴定",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Event-specific detection methods of genetically modified rice ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BPL9K-2 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CUI Shuai1,2, WANG Zuoping1,3, YU Jianghui1, XIAO Guoying1\\* (KeyLaboratoryofAgroecologicalProcesssinSubtropicalRegion,nstituteofubtropicalAgriculture,ChineseAcademyfcieces Changsha41015,China;2.UniversityofCineseAcademyofSciencesBijingo49,China;3.BejingKeyLaboratoryofAicural ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Beijing100097,China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract The hiTAIL-PCR (high-efficiency thermal asymmetric interlaced PCR) was adopted to study the characteristic of insertion site in geneticall modified rice BPL9K-2.As a result,a 450 bp fragment of left flanking sequence was discovered. By comparison with rice genome database, we found that the insertion site of exogenous gene located on No.1037765 of chromosome 10. A 485 bp fragment of right flanking sequence was amplified using the primers that were designed according to the sequence of integration site on rice genome and right sequence of exogenous gene.The event-specific PCR detection method was developed based on the left and right flanking sequences，which produced 449 bp and 485 bp fragment respectively in genetically modified rice BPL9K-2,specifically.The event-specific PCR detection method, with high specificity and sensitivity， could detect the genetically modified ingredients in samples containing $0 . 1 \\%$ genomic DNA of BPL9K-2. Based on the flanking sequence，a tri-primer PCR method was developed to identify its genotype of exogenous gene in segregation generation quickly and accurately. The above methods established in this research provide technical supports for the utilization and detection of genetically modified rice BPL9K-2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words Genetically modified rice Flanking sequence Event-specific detection Genotyping ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "旁侧序列是指染色体中特定位点两侧的脱氧核糖核酸（DNA）序列，在转基因生物中系指外源基因表达框两侧的DNA序列。外源基因的旁侧序列，不仅对外源基因的正常转录、翻译和调控具有重要的影响，而且是转基因作物的重要身份信息，是区别不同转化事件的唯一性标识，对研究转基因作物的遗传稳定性和转基因作物的产权保护、检测和监管均具有重要意义，受到了业界的广泛重视。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于遗传转化时外源基因的插入具有随机性，转基因水稻中外源基因在基因组中插入某个特定位置的几率极小（约为1/466兆）、不确定性极大；外源基因与基因组序列拼接成的新序列几乎没有可能重复出现，具有唯一性，是进行转基因水稻身份认证的物质基础，是建立转基因水稻品系特异性检测方法的重要技术资料。基于旁侧序列建立的事件特异性检测方法是区分不同转化事件高效准确的检测方法，很多基于旁侧序列的事件特异性检测方法已经申请了专利保护。如：王恒波等[1建立了抗草甘麟转基因大豆GTS40-3-2的品系特异性 PCR 检测方法。翟志芳等[2采用修饰接头连接PCR获得了转基因玉米 LY038 的外源基因与玉米基因组之间的5'端旁侧序列，据此建立了转基因玉米LY038转化事件特异性定性检测方法。就水稻而言，汪小福等[3]使用TAIL-PCR方法确定转Cry1Ab 基因水稻的插入位点信息，并据此建立了相应的定性与定量PCR检测方法。苏长青等[4测定了的转Cry1Ab/Cry1Ac 融合基因水稻品系\"Bt 汕优63\"的外源插入DNA全序列，建立了实时荧光定量PCR方法。蒋利平、魏岁军、郭超等采用hiTAIL-PCR方法分别获得了转基因水稻 B2A68、EB7001S 和 BarKasalath-01的旁侧序列，并根据旁侧序列信息分别建立了事件特异性 PCR 检测方法[5\\~7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "获得阳性转化植株后，在转基因作物后代中快速筛选出纯合株系不仅是外源基因功能验证的必要步骤，也是转基因作物育种的重要环节。传统筛选方法是通过转基因作物的多代自交，分析自交后代的性状分离情况或用常规PCR鉴定外源基因的分离情况来判断外源基因是否纯合。这种方法从 ${ \\sf T } _ { 1 }$ 代（转基因当代）开始，至少需要对转基因材料连续跟踪检测两个世代，每代需要单株收种，耗时长，检测样本数量多，且操作过程繁琐，不利于快速获得纯合体。实时荧光定量PCR法用于鉴定纯合株系特异性好、灵敏度高，但操作复杂，实验仪器和耗材成本较高，而且遇到多拷贝的情况还会影响检测准确性。杜春芳等8根据外源基因的旁侧序列信息设计3条引物进行多重PCR，在一次PCR过程中可以扩增出多条目的片段，根据片段的大小和数量判断其基因型，方便快捷，在 $\\mathsf { T } _ { 2 }$ 代一个分离世代中就可以快速准确地找到纯合体，提高了鉴定转基因材料基因型的效率。这一方法由于准确便捷，已被应用于多个转基因水稻品种的纯杂合检测[5\\~7,9,10]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究利用hiTAIL-PCR技术确定了转基因水稻 BPL9K-2的外源基因左右旁侧序列，并据此建立了该转化事件的特异性PCR检测方法和外源基因基因型三引物检测法，为今后该水稻品系的应用提供了技术支持。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法：",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 水稻材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单拷贝转基因水稻 BPL9K-2（Oryza sativa L.）是本课题组培育的转基因水稻新品系，含有CaMV35S 启动子驱动的抗草铵麟基因Bar 和水稻谷蛋白启动子Gt13aP 驱动的植酸酶-抗菌肽融合基因PhyLf；PhyLf基因是由大肠杆菌植酸酶基因AppA2和牛乳铁蛋白肽基因LfcinB 融合后按水稻密码子偏爱性优化得到[11]。非转基因水稻材料9K19-1、9K19-5、11C2277、11C2292、科108A为本课题组培育的灿型水稻新品系，7001S、广占63S 和R106 为本课题组引进繁殖品种。转基因水稻材料 BPL9K-1、BPL9K-4、EB7001S-5、B1C893、EB185BS、B2A68、BarKasalath和 Bar9K29-9-2为本课题组培育的转基因水稻新品系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验试剂",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TransTaq DNA Ploymerase Hifi Fidelity (HiFi)试剂盒购自北京全式金生物技术有限公司，dNTPs 购自宝日医生物技术(北京)有限公司， $2 \\times$ Taq MasterMix（Dye）购自康为世纪生物科技有限公司。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3水稻基因组DNA提取 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用 CTAB 法提取水稻新鲜叶片的基因组DNA[12]。取 $2 \\mu \\iota$ 用 Thermo ScientificNano Drop 2000 微量紫外分光光度计检测 DNA的浓度和纯度，另取 $2 \\mu \\iota$ 用 $1 . 0 \\%$ 琼脂糖凝胶电泳检测所提DNA的完整性。其他常规试剂购自国药集团化学试剂有限公司。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4鉴定左旁侧序列 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参照Liu 等[13]的 hiTAIL-PCR（High efficient thermal asymmetric interlacedPCR）法扩增转基因水稻BPL9K-2的左旁侧序列。其中4条长简并引物LAD1、LAD2、LAD3和LAD4的序列为文献提供，特异巢式引物LB-0a、LB-1a、LB-2a的序列根据载体pCB-Gt13aP-PhyLf的T-DNA左边界序列设计，引物序列见表1。以受体水稻材料9K19-5为对照，将水稻DNA浓度调整至 $2 0 { - } 3 0 ~ \\mathrm { n g / \\mu L }$ ，以长简并引物LAD1\\~LAD4分别和特异引物LB-0a进行第1轮扩增，反应体系 $2 0 ~ \\mu \\mathrm { L }$ 。将第1轮扩增产物稀释40倍为模板，用引物AC1和LB-1a组合进行第2轮扩增，反应体系$2 5 ~ \\mu \\mathrm { L }$ 。将第2轮扩增产物稀释10倍作为模板，用引物AC1和LB-2a组合进行第3轮扩增，反应体系 $2 5 \\mu \\mathrm { L }$ 。将第2轮和第3轮的扩增产物用 $1 . 0 \\%$ 的琼脂糖凝胶电泳分离检测，选择大小相差45bp的特异性条带回收测序。测序结果与水稻参考基因组比较，确定外源基因表达框的左旁侧序列。引物合成由深圳华大基因科技有限公司完成，测序由湖南擎科生物技术有限公司完成，下同。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a9906b7fee2b393b9ea88830d0110e7bdf2c72d7629620e6103a2d751b0320b.jpg",
+        "table_caption": [
+            "表1hiTAIL-PCR和事件特异性PCR检测的引物序列",
+            "Table 1The primer sequence for hiTAIL-PCR and event-specific PCR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>引物名称</td><td>引物序列(5'-3')</td></tr><tr><td>Primer</td><td>Sequence</td></tr><tr><td>LAD1</td><td>ACGATGGACTCCAGAGCGGCCGCVNVNNNGGAA</td></tr><tr><td>LAD2</td><td>ACGATGGACTCCAGAGCGGCCGCBNBNNNGGTT</td></tr><tr><td>LAD3</td><td>ACGATGGACTCCAGAGCGGCCGCVVNVNNNCCAA</td></tr><tr><td>LAD4</td><td>ACGATGGACTCCAGAGCGGCCGCBDNBNNNCGGT</td></tr><tr><td>AC1</td><td>ACGATGGACTCCAGAG</td></tr><tr><td>LB-0a</td><td>CAAGCACGGGAACTGGCATG</td></tr><tr><td>LB-1a</td><td>CCTGCCCGTCACCGAGATTT</td></tr><tr><td>LB-2a</td><td>GTGAGTAGTTCCCAGATAAG</td></tr><tr><td>LB-F</td><td>GAAGGATTTGACGAGCGAGC</td></tr><tr><td>LB-R</td><td>CTGGCATGACGTGGGTTTCT</td></tr><tr><td>RB-F</td><td>CCAGCTCGAATTTCCCCGAT</td></tr><tr><td>RB-R</td><td>AGCACAAATGTGGACGCTCA</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5鉴定右旁侧序列 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将上述获得的左旁侧序列与NCBI网站（https://blast.ncbi.nlm.nih.gov/Blast.cgi）的水稻基因组序列数据库比对，推测外源基因在水稻基因组的插入位点。根据T-DNA右边界序列设计正向引物RB-F（5'-CCAGCTCGAATTTCCCCGAT-3'），根据插入位点下游的水稻基因组序列设计反向引物RB-R（ $5 \\%$ AGCACAAATGTGGACGCTCA-3'）。以受体材料9K19-5为对照，用该引物进行PCR扩增，用 $1 . 0 \\%$ 的琼脂糖凝胶电泳分析PCR产物，选择特异性条带回收测序，获得转基因水稻BPL9K-2的右旁侧序列。 $2 5 ~ \\mu \\mathrm { L }$ PCR反应体系包括 $2 ~ \\mathrm { m M }$ dNTPs $2 \\mu \\mathrm { L }$ ， $1 0 \\times$ Buffer $2 . 5 ~ \\mu \\mathrm { L }$ ， ${ 5 } \\mathrm { U / \\mu L }$ HiFi Taq $0 . 2 5 { \\mu \\mathrm { L } }$ ， $1 0 \\mu \\mathrm { M }$ 正向和反向引物各 $1 ~ { \\mu \\mathrm { L } }$ ， $1 0 0 ~ \\mathrm { { n g / \\mu L } }$ 的DNA模板 $1 \\mu \\mathrm { L }$ ，用水补齐至 $2 5 ~ \\mu \\mathrm { L }$ 。PCR反应程序为： $9 5 ^ { \\circ } \\mathrm { C }$ 5min；35个循环（ $9 5 ^ { \\circ } \\mathrm { C }$ 30s， $5 6 . 4 ^ { \\circ } \\mathrm { C }$ 30s， $7 2 ^ { \\circ } \\mathrm { C }$ 30s）； $7 2 \\mathrm { { ^ \\circ C } }$ 10min。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6建立事件特异性PCR检测方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据左旁侧序列中的水稻基因组序列和左旁侧序列中的T-DNA序列分别设计正向引物LB-F和反向引物LB-R，建立基于左旁侧序列的事件特异性PCR检测方法。根据右旁侧序列中的T-DNA序列和右旁侧序列中的水稻基因组序列分别设计正向引物RB-F和反向引物RB-R，建立基于右旁侧序列的事件特异性PCR检测方法。两对引物序列见表1。以不同的转基因水稻和非转基因水稻的DNA为模板进行PCR扩增，检测事件特异性PCR方法的可靠性。 $2 5 { \\mu \\mathrm { L } }$ PCR反应体系包括$2 \\times$ Taq MasterMix $1 0 ~ \\mu \\mathrm { L }$ ， $1 0 ~ \\mu \\mathrm { M }$ 正向和反向引物各 $1 ~ \\mu \\mathrm { L }$ ， $1 0 0 ~ \\mathrm { { n g / \\mu L } }$ 的DNA模板$1 \\mu \\mathrm { L }$ ，用水补齐至 $2 5 \\mu \\mathrm { L }$ 。PCR反应程序为 $9 5 ^ { \\circ } \\mathrm { C } ~ 5 ~ \\mathrm { m i n }$ ；35个循环（ $9 5 ^ { \\circ } \\mathrm { C }$ 45s左/30s右， $5 7 . 4 ^ { \\circ } \\mathrm { C }$ 30s， $7 2 ^ { \\circ } \\mathrm { C } ~ 3 0 \\mathrm { s } \\mathrm { i }$ ）； $7 2 ^ { \\circ } \\mathrm { C } \\ 1 0 \\mathrm { m i n }$ 。用 $1 . 0 \\%$ 的琼脂糖凝胶电泳分析PCR产物。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.7事件特异性PCR检测方法的灵敏度分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将转基因水稻BPL9K-2和非转基因水稻9K19-5的基因组DNA浓度调整到$1 0 0 ~ \\mathrm { { n g / \\mu L } }$ ，按照不同的体积比例混合，使转基因水稻DNA相对含量分别为 $100 \\%$ 、$20 \\%$ 、 $5 \\%$ 、 $2 \\%$ 、 $1 \\%$ 、 $0 . 5 \\%$ 和 $0 . 1 \\%$ 。取混合后的DNA样品 $1 ~ \\mu \\mathrm { L }$ 作为模板，分别用引物对RBG-F/RBG-R和LB-F/LB-R进行PCR扩增，扩增体系和扩增程序同1.6,每个样品重复三次。取 ${ 5 } \\mu \\mathrm { L }$ PCR产物用 $1 . 0 \\%$ 的琼脂糖凝胶电泳，电泳图谱使用Bio-RadImageLab3.0进行定量分析，以DL2000分子量标记中的 $7 5 0 \\mathrm { b p }$ 条带作为参考（上样量为 ${ 5 \\mu \\mathrm { L } }$ 时 $7 5 0 \\mathrm { b p }$ 条带的DNA含量为 $1 5 0 ~ \\mathrm { n g }$ ），比较不同泳道内目标条带相对亮度，计算扩增条带的DNA相对含量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.8三引物法鉴定外源基因的纯杂合性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据插入位点下游水稻基因组序列设计反向引物GB-R（5'-GGATTTGACGAGCGAGCGAT-3'），与基于右旁侧序列的事件特异性检测引物对RB-F/RB-R组合，用于对转基因材料不同株系及其后代的基因组DNA进行PCR扩增。 $2 0 { \\mu \\mathrm { L } }$ PCR扩增体系包括 $1 0 \\times$ Taq MasterMix $1 0 \\mu \\mathrm { L }$ ， $1 0 \\mu \\mathrm { M }$ 引物各 $1 \\mu \\mathrm { L }$ $1 0 0 ~ \\mathrm { { n g / \\mu L } }$ 的DNA模板 $1 \\mu \\mathrm { L }$ ，其他体积用水补齐。PCR扩增程序为 $9 5 ^ { \\circ } \\mathrm { C } ~ 5 \\operatorname* { m i n }$ ；35个循环（ $9 5 \\mathrm { ^ \\circ C }$ 45s， $5 6 . 4 ^ { \\circ } \\mathrm { C }$ 30s； $7 2 ^ { \\circ } \\mathrm { C } ~ 3 0 \\mathrm { s } .$ ）； $7 2 ^ { \\circ } \\mathrm { C } \\ 1 0 \\mathrm { m i n }$ 。将PCR产物用 $1 . 0 \\%$ 的琼脂糖凝胶电泳，根据条带数量和大小判断外源基因的纯杂合性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1hiTAIL-PCR扩增结果及左旁侧序列特征 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将hiTAIL-PCR的第2轮和第3轮扩增产物用1.0琼脂糖凝胶进行电泳分离，第3轮产物应比第2轮小 $4 5 ~ \\mathrm { b p }$ 、且对照组DNA不能扩增出来的条带为特异条带。4条随机引物与特异巢式引物结合的第2轮和第3轮扩增结果如图1所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "选择随机引物LAD3的第3轮扩增产物进行测序，序列长度为 $4 5 0 \\mathrm { b p }$ 。将该序列与水稻基因组序列数据库比对，发现其第1至234位核苷酸序列与水稻日本晴第10号染色体上第1037532至1037765位核苷酸序列（NCBI登录号为AP014966.1）一致，第235至450位核苷酸序列与左边界一侧的外源基因序列一致，外源基因在T-DNA左边界内第49个核苷酸残基处断裂，T-DNA左边界缺失了49 bp的序列(5'-TGGCAGGATATATTGTGGTGTAAACAAATTGACGCTTAGACAACTTAAT-3'）（图2）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/777eff73a100af95ba9548bc4faff26c343b706f7eb26306fbd39701297a6b2e.jpg",
+        "img_caption": [
+            "图1转基因水稻BPL9K-2左旁侧序列hiTAIL-PCR扩增结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "M:DL2000分子量标记；1：9K19-5的第2轮产物（AC1/LB-la）；2：9K19-5的第3轮产物（AC1/LB-2a）；3：BPL9K-2的第2轮产物（AC1/LB-1a）；4：BPL9K-2的第3轮产物（AC1/LB-2a）；LAD1\\~LAD4：随机引物。  \nM: DL200 DNmarker;1:thesecondaryTAIL-PCRproductsof9K19-5(AC1/LB-1a);2:thetertiaryTAIL-PCRproductsof9K19-5(AC1/LB-2a);3:thesecondaryTAIL-PCRproductsof BPL9K-2(AC1/LB-la);4:thetertiaryTAIL-PCR productsof BPL9K-2(AC1/LB-2a); LAD1-LAD4: arbitrary primers.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 GGAATACGGGGTGAGAGTCGGCGCAGTGCGAGGCGTGGGAGGTGGAGGCCGCCGCCACGC+   \n61 GGGAGCACATGGAGAATTAATGGGAGCAGGAGACGGAGTCGTCGCCGGCATCGAGCGCGG   \n121 CGGGCGGGGGCAGCCGAGGGTGGCGCCGCCGCCGCCGGGGAATTCGGGGAGGAGAGGAAG   \n181 GATTTGACGAGCGAGCGATATCCACCGTTGATTACCATCCAACGGTCACTTGATAACACA+   \n241 TTGCGGACGTTTTTAATGTACTGAATTAACGCCGAATTAATTCGGGGGATCTGGATTTTA   \n301 GTACTGGATTTTGGTTTTAGGAATTAGAAATTTTATTGATAGAAGTATTTTACAAATACA   \n361 AATACATACTAAGGGTTTCCTATATGCTCAACACATGAGCGAAACCCTATAGGAACCCTA+   \n421 ATTCCCTTATCTGGAAACTTACTTCACATT ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0843c000c2e9f9b0154542c715200418f7e1221d1e994869b9cfc19f7edddfd2.jpg",
+        "img_caption": [
+            "Figure1 The hiTAIL-PCR resultsofleft flanking sequence ofBPL9K-2 ",
+            "图2BPL9K-2左旁侧序列及拼接位置特征",
+            "Figure 2 The left flanking sequence of BPL9K-2 and characteristics of junction region "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A.BPL9K-2左旁侧序列。下划线部分：T-DNA左侧序列！ $( 2 3 5 { \\sim } 4 5 0 \\mathrm { b p }$ )，其他为水稻基因组序列。B.左边界拼接位置特征。Vector: 包括T-DNA左边界在内的T-DNA序列；BPL9K-2：扩增到的左旁侧序列；AP01496.1：日本晴第10号染色体上T-DNA插入位置 附近序列；箭头指示T-DNA与水稻基因组的拼接位置。   \nA.TheleftflankingsequenceofBPL9K-2.TeuderlinedpartistheleftsequenceofT-DNA(235\\~450bp),andtherestisicegome sequence.B.Characteristicsofjuctionegionateleftborder.Vector:theleftsequenceofDicudingtseftbrderBL9K-2: theobtained leftflankingsequenceof BPL9K-2；AP014966.1:thericegenomic sequenceonchromosome10 where theT-DNA was inserted into; the arrowheads indicate the splicing site of T-DNA and rice genome. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2右旁侧序列检测及其特征",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以转基因水稻BPL9K-2的DNA为模板，使用引物对RB-F/RB-R进行PCR扩增，得到长度为485bp的特异片段。片段测序结果表明，第1至309位核苷酸序列与载体右边界序列完全一致，第310至485位核苷酸序列与水稻日本晴第10号染色体上第1037825至1037986位核苷酸序列（NCBI登录号为AP014966.1）一致。外源基因在T-DNA左边界内侧第32个核苷酸残基处断裂，T-DNA右边界缺失了32bp的序列（5'-TGGCGGGTAAACCTAAGAGAAAAGAGCGTTTA-3'）（图3）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据左右旁侧序列信息，并与水稻基因组数据库比对，发现外源基因插入在水稻第10号染色体短臂的基因非编码区（NCBI登录号为AP014966.1），左边界插入在1037765位核苷酸残基之后，右边界插入在1037825位核苷酸残基之前。由于外源基因插入导致T-DNA左边界缺失49个核苷酸残基，右边界缺失32个核苷酸残基，水稻第10号染色体上缺失59个核苷酸残基（1037766至1037824位，NCBI登录号为AP014966.1）。在插入位点上游170 bp和下游977bp分别存在一个基因编码区和ncRNA编码区（图4）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1 TTTCAAAGCTCGCGAAATCCCCGATCGTTCAAACATTTGGCAATAAAGTTTCTTAAGATT   \n61 GAATCCTGTTGCCGGTCTTGCGATGATTATCATATAATTTCTGTTGAATTACGTTAAGCA   \n121 TGTAATAATTAACATGTAATGCATGACGTTATTTATGAGATGGGTTTTTATGATTAGAGT   \n181 CCCGCAATTATACATTTAATACGCGATAGAAAACAAAATATAGCGCGCAAACTAGGATAA   \n241 ATTATCGCGCGCGGTGTCATCTATGTTACTAGATCGGGAATTAAACTATCAGTGTTTGAT   \n301 ATGACGCTATTGTAGATAGTAGAGCAGAGTAGAATACTATAATTACTTAAAATGGGATAC   \n361 TAACATATGGTTTTTTATTATTTATTAATTATAGAGAATGTGTATGTCTTCATTTTATTA   \n421 TAAAGATTAGCCATGATGATGCTCTCCTAGCTATGATAATAATAGGACATGTCGAGCAGT   \n481 AGGAGt ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Vector AAACTATCAGTGTTTGACAGGATATATTTGGCGGGTAAACCTAAG...   \nBPL9K-2 AAACTATCAGTGTTTGATATGACGCTATTGTAGATAGTAGAGCAGA   \nAP014966.1 TTGTAGATAGTAGAGCAGA 3 B ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 The right flanking sequence of BPL9K-2 and characteristics of junction region ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A.BPL9K-2右旁侧序列。下划线部分：T-DNA右侧序列 $( 3 1 0 { \\sim } 4 8 5 \\mathrm { b p }$ ），其他为水稻基因组序列。B.右边界拼接位置特征。Vector:包括T-DNA右边界在内的T-DNA序列；BPL9K-2：扩增到的右旁侧序列；AP01496.1：日本晴第10号染色体上T-DNA插入位置附近序列；箭头指示T-DNA与水稻基因组的拼接位置。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A.TherightflankingsequenceofBPL9K-2.TeunderlinedpartistherightsequenceofT-DNA(310\\~485bp),andthstisrice genomeequene.B.Characteristisofjunctionreginatterightborder.Vector:tightsequeneofT-DNAincludingitsrhtboder; BPL9K-2:the obtainedright flanking sequence of BPL9K-2;AP0l4966.1: the rice genomic sequenceonchromosome10 where the T-DNA was inserted into; the arrowheads indicate the splicing site of T-DNA and rice genome. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0070feb37104589486b2fccb6caffa24c253368c1666092685fb2cb1076231fd.jpg",
+        "img_caption": [
+            "图3BPL9K-2右旁侧序列及拼接位置特征",
+            "图4转基因水稻BPL9K-2的T-DNA插入位置",
+            "Figure 4 The insertion site of T-DNA in genome of genetically modified rice BPL9K-2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3事件特异性PCR检测方法的建立",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分别使用基于左、右旁侧序列信息设计的引物对LB1-F/LB1-R和RBG-F/RBG-R检测转基因水稻BPL9K-2，以其他非转基因水稻和转基因水稻为对照。结果显示：只有转基因水稻BPL9K-2可以扩增出片段大小分别为449 bp和485 bp的特异条带，其他非转基因材料9K19-1、9K19-5、11C2277、11C2292、7001S、广占63S、科108A、R106和转基因材料BPL9K-1、BPL9K-4、EB7001S-5、",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "B1C893、EB185BS、B2A68、BarKasalath-01、Bar9K29-9-2均不能扩增出相应片段（图5）。说明该检测方法具有很好的特异性。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/653c339eefb4a3f9681dad1a043d54338909fb6353b331a032415064cf376dd9.jpg",
+        "img_caption": [
+            "图5左右旁侧序列的事件特异性PCR检测"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 Event-specific qualitative PCR detection based on the left and the right flanking sequence ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A．左旁侧序列的事件特异性PCR检测。B.右旁侧序列的事件特异性PCR检测。M：DL2000分子量标记；0：空白对照；3：转基因水稻BPL9K-2；1，2，6\\~11：非转基因水稻9K19-1、9K19-5、11C2277、11C2292、7001S、广占63S、科108A和R106；4,5，12\\~17：转基因水稻BPL9K-1、BPL9K-4、EB7001S-5、B1C893、EB185BS、B2A68、BarKasalath-01和Bar9K29-9-2。A.Event-specificqualiativePCRdetectionasedontheleftflankingsequeneofBPL9K-2.B.Event-specificqualitativePCRdetectionbasedontherightflankingsequenceofBPL9K-2.M:DL20Amarker;B:blankcontrol;:geneticalymodifiedriceBPL9K-2;1,2,6\\~11:conventioalrice9K19-1,9K19-5,C227,92,7Guangzan63,Ke108A,nd06;4,5,\\~17:tlymodified rice BPL9K-1,BPL9K-4,EB7001S-5,B1C893,EB185BS,B2A68,BarKasalath-01,and Bar9K29-9-2.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.4事件特异性PCR检测灵敏度分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "分别使用基于左、右旁侧序列信息设计的引物LB1-F/LB1-R和RBG-F/RBG-R对各混合样品进行PCR检测，电泳分析结果见图6。以电泳图谱中DL2000分子量标记的750bp条带为对照，测定目标条带的亮度并计算相应的DNA含量。结果表明，当模板中BPL9K-2全基因组DNA相对含量为 $0 . 1 \\%$ （约 $0 . 1 ~ \\mathrm { { n g } }$ ）时，相应泳道条带中DNA含量与相似大小的分子量标记条带 $( 5 0 0 \\mathrm { b p }$ )中DNA含量相差不大（图7）。说明所建立的事件特异性PCR检测灵敏度高，在转基因成分相对含量 $0 . 1 \\%$ 时即可检测到。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/e08561d65e46e4f3de449d6b36d69b6b8e7857106b8b7e72686214483b6a160e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/26a4bd72b01c8eb96d5b6f45b39172968c96f43458448f44bd908c898266a266.jpg",
+        "img_caption": [
+            "图6左右旁侧序列的事件特异性检测方法检测限度测定"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 6Detection limit of event-specific detection method based on the left and the right flanking sequences A．左旁侧序列的事件特异性检测方法检测限度测定。B.右旁侧序列的事件特异性检测方法检测限度测定。M：DL2000分子量 标记；0：空白对照；CK：非转基因对照9K19-5； $100 \\%$ 、 $20 \\%$ 、 $5 \\%$ 、 $2 \\%$ 、 $1 \\%$ 、 $0 . 5 \\%$ 和 $0 . 1 \\%$ ：模板中转基因水稻BPL9K-2基因 组DNA相对含量（V/V）。 A.Detectionlimitofevent-specificdetectionmethodbasedontheleftflankingsequences.B.Detectionlimitofevent-specificdetection method basedonthe right flankingsequence.M:DL20oo DNA marker; 0:blank control; CK: non-transgenic rice9K19-5; $100 \\%$ $20 \\%$ $5 \\%$ $2 \\% , 1 \\%$ $0 . 5 \\%$ ,and $0 . 1 \\%$ : the relative content of genetically modified BPL9K-2 genomic DNA in the template (V/V). ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5cb3ca8f909ef8388d7c29f303b4f2292df4935ee7aede7164e8de6d6bd9e174.jpg",
+        "img_caption": [
+            "图7左右旁侧序列的事件特异性检测PCR扩增产物相对含量"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 7The relative content ofPCR amplification products of event-specific detection based on the left and the right flanking sequences ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A．左旁侧序列的事件特异性检测PCR扩增产物含量。B.右旁侧序列的事件特异性检测PCR扩增产物含量。Marker：DL 2000分子量标记750 bp条带对应DNA含量；0：空白对照；CK：非转基因对照9K19-5； $100 \\%$ 、 $20 \\%$ 、 $5 \\%$ ， $2 \\%$ 、 $1 \\%$ 、 $0 . 5 \\%$ 和 $1 0 . 1 \\%$ ：模板中转基因水稻BPL9K-2基因组DNA相对含量（V/V）。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A.TherelativecontentofPCRamplificatioproductsofevent-specificdetectionbasedntheleftfankingsequences.B.Therelative contentofPCRamplificationproductsofevent-specificdetectionbasedontherightflankingsequences.Marker:therelativecontentf DNA in 750 bp brand of DL 20o0 marker; 0: blank control; CK: non-transgenic rice 9K19-5; $100 \\%$ $20 \\%$ $5 \\%$ $2 \\%$ $1 \\% , 0 . 5 \\%$ ,and $0 . 1 \\%$ 0 the relative content of genomic DNA of geneticaly modified rice BPL9K-2 in the template (V/V). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.5三引物法快速鉴定外源基因基因型",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "利用三引物组合RBG-F/RBG-R/GEB-R对转基因材料BPL9K-2不同株系单株进行三引物PCR检测。在有限时间内，外源基因纯合体中由于插入外源基因片段太长，引物对RB-F/GB-R引物无法完成扩增，只有RB-F/RB-R能扩增出325 bp的产物。非转基因水稻9K19-5由于没有外源基因，RB-F/GB-R可以扩增出水稻基因组序列，得到485bp的条带。杂合体一条染色体上存在外源基因，另一条染色体没有外源基因，扩增后能同时得到325bp和485bp的两条带（图8）。本研究通过对转基因水稻BPL9K-2不同株系及其后代进行PCR检测验证了此方法的准确性。该研究方法缩短了获得转基因纯合体的时间，对加快转基因水稻BPL9K-2的育种应用具有实用价值。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/28cdb259f7fa7adb9e98bbe2126f603761c82e897f89c1fe2e99e1c40c275411.jpg",
+        "img_caption": [
+            "图8转基因水稻BPL9K-2基因型鉴定",
+            "Figure 8 Genotyping of genetically modified rice BPL9K-2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "M:DL2000分子量标记；0：空白对照；CK：非转基因水稻9K19-5；1：转基因水稻BPL9K-2纯合体；2：转基因水稻BPL9K-2杂合体。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "M:DL2000 marker;0:blankcontrol; CK:non-transgenicrice9K19-5;1:homozygoteof geneticall modifiedriceBPL9K-2;2: heterozygote of genetically modified rice BPL9K-2. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "采用hiTAIL-PCR等方法获得了转基因水稻BPL9K-2的左旁侧序列和右旁侧序列。外源基因插入在水稻基因组第10号染色体短臂1037765位核苷酸残基之后、1037825位核苷酸残基之前。外源基因插入导致T-DNA左边界缺失 $4 9 \\ : \\mathrm { b p }$ 、右边界缺失32bp，水稻第10号染色体上缺失59bp。基于左右旁侧序列信息，建立了转基因水稻BPL9K-2的事件特异性定性PCR检测方法和检测外源基因纯杂合性的三引物PCR检测方法。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "不同转化事件外源基因插入到受体基因组位点不同，那么与插入位点相邻的基因组序列也不同，因而可以利用该特异性位点来区分不同的转化事件[14]。事件特异性PCR检测法便是通过扩增受体基因组和插入片段的特异连接区域，鉴定含有相同外源片段的不同转化事件的转基因生物[15]。该方法因其简单、快捷、特异性强、灵敏度高的优点，广泛应用于油菜、大豆、小麦、玉米、棉花、水稻等多种转基因作物及其产品的检测。本研究鉴定了转基因水稻BPL9K-2的外源基因旁侧序列，并建立了其事件特异性PCR检测方法，该方法特异性好、灵敏度高，为转基因水稻BPL9K-2的应用和监管提供了技术基础。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "农杆菌介导的T-DNA插入属于非正常重组。通常会导致宿主基因组整合位点序列的缺失或重复以及T-DNA序列缺失[16,17]。Tzfira等[18]认为双链断裂修复机制是T-DNA插入和整合进宿主基因组的主要路径，农杆菌中的稀有位点限制性内切酶在宿主中表达，使宿主基因组DNA产生双链断裂，并且在宿主体内消化T-DNA，从而导致T-DNA左右边界和插入位点附近水稻基因组的部分碱基缺失。转基因水稻BPL9K-2中，外源基因整合进水稻基因组时，T-DNA的左右边界部分碱基降解，外源基因左边界断裂处和水稻基因组断裂处分别具有4个碱基(ACTT)和3个碱基(ATT)的微同源性(图2)，外源基因右边界断裂处和水稻基因组断裂处有3个碱基(ATT)的微同源性(图3)。整合时载体左边界缺失 $4 9 \\mathrm { b p }$ ，右边界缺失32bp，水稻基因组染色体上缺失 $5 9 ~ \\mathrm { b p }$ ，转基因材料BPL9K-2中的外源基因依靠微同源序列转移进入宿主细胞内。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "外源片段的插入可能会对受内源基因的表达和调控产生不利影响，导致功能上的缺失，引起育性降低或缺失、株高变矮、分蘖数减少、生育期延长等非期望效应。如在转 $B t$ 基因抗虫水稻T51-1中，外源Bt基因插入在水稻内源类抗病基因Os10g0183000的启动子中，导致该转基因水稻相对于其非转基因受体明恢63结实率明显降低，且叶尖枯萎，叶色发黄[19]。抗虫抗除草剂转基因水稻B1C893双拷贝转化体完全不育，单拷贝转化体的外源基因插入在水稻第8号染色体短臂的近端粒区的非编码区，其插入位点上游 $1 4 0 ~ \\mathrm { b p }$ 是一个ncRNA的编码区域，可能是因为近端粒区染色体结构的特殊性，使得外源基因的插入产生了非期望效应，如株高降低、有效穗增加、穗长变短、每穗总粒数减少、结实率下降、花粉育性降低、千粒重下降、播始历期延长、生育期延长等[20]。转基因水稻EB7001S外源基因整合到水稻基因组的非编码区，且未有载体其他骨架序列的插入。上游和下游的基因编码区均距离插入位点较远（分别为4050bp和5576bp），外源基因的插入并未对其农艺性状带来显著改变[2I]。类似的，转基因水稻B2A68外源基因是单拷贝，插入在水稻第3号染色体的第36170位核苷酸残基处，位于水稻的非编码区，相对于受体材料，其外观表现和农艺性状均为发生改变[5]。因此，虽然外源基因插入影响水稻性状的机理尚不清楚，但可以推断与外源基因拷贝数、外源基因插入位点及其与上下游基因编码区的距离有关。若外源基因拷贝数较多，插入在内源基因内部或染色体特殊区域（如近端粒区）、插入位点与上下游的基因编码区或ncRNA编码区的距离太近，则外源基因的插入极有可能导致水稻原有性状发生改变。单拷贝转基因水稻BPL9K-2的外源基因插入在水稻第10号染色体非编码区，距离插入位点上游最近的基因编码区 $1 7 0 \\mathrm { b p }$ ，距离插入位点下游最近的是一个ncRNA编码区有977bp。就分子水平而言，外源片段整合对原有基因组的改变较小，也未破坏原有基因结构，因而对原有基因的表达产生的影响很小，具有实际应用价值。农艺性状方面的考察也验证了这一结论，相对于对照9K19-5，除播始历期和生育期稍有延长以外，转基因水稻BPL9K-2的株高、穗长、单株有效分蘖数、结实率、千粒重和单株产量等均未发生显著改变。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1] 王恒波，陈平华，郭晋隆，等．转基因大豆GTS40-3-2转化事件特异性PCR 检 测．基因组学与应用生物学,2010,29(6):1177-1183. Wang H B, Chen P H, Guo P L, et al. Specific PCR validation of transformation event for transgenic soybean GTS40-3-2. Genomics and Applied Biology， 2010，29(6): 1177-1183.   \n[2] 翟志芳，许文涛，张南，等．转基因玉米 LY038 转化事件的特异性检测．农业 生物技术学报,2011,19(3): 577-582. Zhai Z F， Xu W T, Zhang N. Event-specific transgenic detection of genetically modified maize LY038. Journal of Agricultural Biotechnology, 2011, 19(3): 577-582. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[3] 汪小福，陈笑芸，张小明,等．转Cry1Ab 基因水稻分子特征及其特异性PCR 检测方法．遗传,2012,34(2):208-214.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Wang X F, Chen X Y, Zhang X M, et al. Molecular characteristics and specific PCR detection of transgenic rice containing Cry1Ab. Hereditas, 2012,34(2): 208-214. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[4] 苏长青，谢家建，王奕海，等．转基因水稻 Bt 汕优63 的整合结构和品系特异 性定量 PCR 方法．农业生物技术学报,2011,19(3):434-441. Su C Q, Xie JJ, Wang Y H,et al. Integrated construction and event-specific real-time PCR of transgenic rice Bt Shanyou 63.Journal of Agricultural Biotechnology, 2011, 19(3): 434-441.   \n[5]蒋利平，翁绿水，肖国樱．转基因水稻 B2A68 事件特异性检测方法的建立．杂 交水稻,2013(5): 60-67. Jiang L L, Wang L S, Xiao G Y. Establishment of an event-specific method to detect transgenic rice B2A68. Hybrid Rice,2013(5): 60-67.   \n[6] 魏岁军，邓力华，肖国樱．转基因水稻 EB7001S事件特异性检测方法的建立. 农业生物技术学报,2014,22(5):621-631. Wei S J, Deng L H, Xiao G Y. Establishment of an event-specific method to detect transgenic rice (Oryza sativa) EB7001S. Journal of Agricultural Biotechnology, 2014, 22(5): 621-631.   \n[7] 郭超，何行健，邓力华，等．转基因水稻 BarKasalath-01事件特异性检测．分子植物 育种,2017, 15(11): 4466-4475. Guo C，He X J，Deng L H，et al. Event-specific detection of genetically modified rice BarKasalath-01. Molecular Plant Breeding, 2017,15(11): 4466-4475.   \n[8] 杜春芳，李朋波，李润植．一种快速鉴定转基因植物纯合体的新方法．生物技 术通讯,2004,15(6): 585-587. Du C F, Li M B, Li R Z. A new method for the rapid identification of homozygous transgenic plants. Letters in Biotechnology, 2004, 15(6): 585-587.   \n[9]张斌，何福林．三引物法鉴定转基因水稻U5 纯合体．分子植物育种,2017, 15(11): 4476-4482. Zhang B, He F L. Identification of transgenic rice U5 homozygote by three primers. Molecular Plant Breeding, 2017, 15(11): 4476-4482. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[10] 张焕春，汪小福，李玥莹，等．转Cry1Ab 水稻纯合体快速准确的PCR 鉴定方 法．浙江农业学报,2012,24(4):549-554. Zhang H C，Wang X F，Li Y Y,et al. A rapid and accurate PCR method for homozygous lines screening for genetically modified rice containing Cry1Ab. Acta Agriculturae Zhejiangensis, 2012, 24(4): 549-554. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[11] Wang Z P, Deng L H,Weng L S,et al. Transgenic rice expressing a novel phytase-lactoferricin fusion gene to improvephosphorus availabilityand antibacterial activity. Journal of Integrative Agriculture, 2017,16(4): 774-788.   \n[12] Surzycki S. Preparation of Genomic DNA from Plant Cells// Basic Techniques in Molecular Biology. Springer Berlin Heidelberg,2000: 57-78.   \n[13] Liu Y G，Chen Y. High-efficiency thermal asymmetric interlaced PCR for amplification of unknown flanking sequences. Biotechniques, 20o7, 43(5): 649.   \n[14] 许文涛，白卫滨，罗云波,等．转基因产品检测技术研究进展．农业生物技术 学报,2008,16(4): 714-722. Xu W T, Bai W B, Luo Y B. Research progress in detection technique for genetically modified organisms. Journal of Agricultural Biotechnology, 2008, 16(4): 714-722.   \n[15]薛达元．转基因生物安全与管理[M]．北京:科学出版社,2009. Xue D Y. Biosafety and regulation for genetically modified organisms. Beijing: Sciences Press,2009.   \n[16] Gheysen G,Villarroel R,Montagu M V. Ilegitimate recombination in plants: a model for T-DNA integration. Genes & Development, 1991, 5(2): 287.   \n[17] 杨琳，付凤玲，李晚忱．农杆菌介导转基因植物T-DNA 的整合方式．遗传, 2011,33(12): 1327-1334. Yang lin,Fu F L, Li W Z. T-DNA integration patterns in transgenic plants mediated by A gro bacterium tumefaciens. Hereditas, 2011,33(12): 1327-1334.   \n[18] Tzfira T, Li J, Lacroix B, et al. Agrobacterium T-DNA integration: molecules and models. Trends in Genetics, 2004,20(8): 375-383.   \n[19]王良超.OsLSR:一个调控免疫反应和花发育的水稻基因[D]．浙江大学,2016. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Wang L C，OsLSR: a rice gene that regulates immune response and floral differentiation[D]. Zhejiang University, 2016. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[20]邓力华，邓晓湘，魏岁军，等．抗虫抗除草剂转基因水稻B1C893的获得与鉴 定[J]．杂交水稻,2014,29(1):67-75. Deng L H, Deng X X,Wei S J,et al. Development and identification of herbicide and insect resistant transgenic plant B1C893 in rice[J]. Hybrid Rice, 2O14,29(1): 67-75.   \n[21] 魏岁军．转基因水稻 EB7001S 和 BIC893 的分子特征鉴定和相关性状评价[D]. 中国科学院大学,2014. Wei S J，Molecular ldentification and Evaluation of Transgenic Rice EB7Oo1S and BIC893[D]. University of Chinese Academy of Sciences, 2014. ",
+        "page_idx": 16
+    }
+]

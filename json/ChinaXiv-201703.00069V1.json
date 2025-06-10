@@ -1,0 +1,336 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201607051377 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王霖娇，盛茂银，杜家颖，温培才.西南喀斯特石漠化生态系统土壤有机碳分布特征及其影响因素.生态学报,2017,37（4)：1358-1365.WangLJhgtrdcoiecosystem of Southwest China.Acta Ecologica Sinica,2017,37(4）:1358-1365.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "西南喀斯特石漠化生态系统土壤有机碳分布特征及其影响因素",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王霖娇1,²，盛茂银1,2,3，\\*，杜家颖l，温培才1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1贵州师范大学喀斯特研究院，贵阳550001  \n2 国家喀斯特石漠化防治工程技术研究中心，贵阳550001  \n3 贵州省喀斯特山地生态环境国家重点实验室培育基地，贵阳550001",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：喀斯特石漠化已成为制约我国西南地区社会经济可持续发展最严重的生态地质环境问题，其恢复重建已成为我国社会经济建设中一项重要内容。土壤有机碳作为土壤质量评价的重要指标,可以综合反映土地生产力、环境健康功能,另一方面土壤有机碳也间接影响了陆地生物碳库,是陆地生态系统碳平衡的主要因子,它的转化和积累变化直接影响全球碳循环动态,已成为生态科学领域研究的热点之一。系统的总结了西南喀斯特石漠化地区不同土地覆被/土地利用、不同等级石漠化环境土壤有机碳的空间和季节分布特征。结合前人研究成果，进一步分析了影响喀斯特石漠化地区土壤有机碳分布的自然（气候、地形与土壤性质、植被等)和人为(土地覆被/土地利用变化、农业管理措施等)各因素,并提出增加喀斯特石漠化地区土壤有机碳含量的对策。研究结果为喀斯特石漠化退化生态系统恢复重建、石漠化地区土壤综合利用、增加碳截存应对全球碳循环减源增汇等提供了重要的科学参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：喀斯特;石漠化；土壤有机碳；分布特征;影响因素",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Distribution characteristics of soil organic carbon and its influence factors in t karst rocky desertification ecosystem of Southwest China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Linjiao1.²， SHENG Maoyin1,2.3.\\*， DU Jiaying1，WEN Peicail 1Karst Research Institute,Guizhou Normal University,Guiyang 55ooo1,China 2National Engineering Research Center for Karst Rocky Desertification Control,Guiyang 550o01,China 3State KeyLaboratoryIncubationBaseforKarst MountainEcologyEnvironmentofGuizhouProvince,Guiyang55o1China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Karstrockydesertification has becomeaverysignificant isse inecologicalandgeological environments，and it seriouslyrestricts the sustainable developmentof societyand economy in Southwest China.Rehabilitationandrestorationof karstrockydesertification havebecomevery importantforthe societyand economyof China.Soil organiccarbon isan importantparameterusedfor evaluatingsoil quality.Itcan indicate the statusofland productivityand environmental health. Soil organiccarbonis themainfactorforthecarbonbalanceofaterestrialecosystemandcanindirectlyaffcttheteestrial biologicalcarbonpool.Changesinthe transformationandaccumulationofsoilorganiccarboncan directlyaffect the dynamicsof theglobal carbon cycle.Thus，soilorganiccarbonhas becomearesearch hotspotinthefieldof ecology.Inthe presentstudy，first，wesystematicallysummarized thespatialandseasonal distributioncharacteristicsof soilorganiccarbon amongdiffrentlandcover/landuseanddiferentrockydesertificationdegreesofthekarstrockydesertificationecosystem in Southwest China.Second，on the basis of previous studiesand field surveys，we deduced the influence factors，including natural and human factors such as climate,landform，soil properties，vegetation cover，land cover/land usechange，and agricultural management practices，related tothedistributionof soil organiccarbon.Finall，weproposed measures to improve thesoil organiccarboncontentof thekarstrockydesertification ecosystem.Ourresultscanoferanimportant scientificbasisfortherehabilitationandrestorationof karstrockydesertificationandrationalsoilutilizationinthekarst rockydesertification ecosystemand improve soilcarbonsequestrationto increasethecarbonsink intheglobalcarboncycle. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: karst；rocky desertification；soil organic carbon；distribution characteristic；influence factor ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "喀斯特地貌分布在世界各地的可溶性岩石地区,总面积达5.1亿 $ { \\mathrm { k m } } ^ { 2 }$ ,占地球总面积的 $1 0 \\% ^ { [ 1 ] }$ 。中国西南喀斯特区面积超过55万 $\\mathrm { k m } ^ { 2 }$ ,是世界面积最大的喀斯特连片核心分布区[1-2],也是具有景观异质性强、环境容量小、植被不连续、土层浅薄、土地承载力小、抗干扰能力弱的典型生态脆弱区[3-4]。喀斯特石漠化是在喀斯特地区脆弱生态环境下,人类不合理的社会经济活动造成人地矛盾突出、植被破坏、水土流失、岩石逐渐裸露、土地生产力衰退甚至丧失,地表呈现石质荒漠景观的演变过程或结果[1,5]。喀斯特石漠化已成为制约中国西南地区可持续发展最严重的生态地质环境问题[6。土壤处于喀斯特生态系统物质循环的纽带和核心部分,喀斯特地区土壤生态系统对环境响应敏感[。该区 $\\mathrm { C O } _ { 2 } – \\mathrm { H } _ { 2 } \\mathrm { O - C a C O } _ { 3 }$ 系统活跃的生物过程和化学过程,导致其具有强大的 $\\mathrm { C O } _ { 2 }$ 吸收能力,碳贮存潜力很大,对减缓大气 $\\mathrm { C O } _ { 2 }$ 浓度升高具有重要的作用[7-8],可能是全球碳循环背景下一个重要的碳汇[2,9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤碳是陆地碳库的重要组成部分,是构成土壤肥力的重要基础，土壤有机碳量约为陆地生物量碳的2.4倍,占土壤碳库的一半以上,并以 ${ \\mathrm { C O } } _ { 2 } \\ 、 { \\mathrm { H C O } } _ { 3 } ^ { - }$ 和 DOC 的形式进入相邻圈层陆地生态系统[10],一方面影响了土壤结构、土壤酶活性、土壤肥力、植物生长和产量,常被选作土壤质量评价的重要指标,用来综合反映土地生产力、环境健康功能,另一方面土壤有机碳也间接影响了陆地生物碳库,是陆地生态系统碳平衡的主要因子[11],它的转化和积累变化直接影响全球碳循环动态,成为生态科学领域研究的热点之一。土壤有机碳作为岩溶作用与碳循环的动力学媒介和碳流通的主要途径，土壤有机碳的存在使岩溶系统中 $\\mathrm { C O } _ { 2 }$ 同化量与有机碳分解和呼吸排出量达到动态平衡[12]。因此,了解喀斯特石漠化生态系统土壤有机碳分布特征及其影响因素,对岩溶动力学系统的驱动作用、石漠化生态系统恢复重建、增加碳截存、土壤的综合利用及应对全球碳循环具有深远的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1土壤有机碳分布特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1不同土地覆被/土地利用土壤有机碳分布",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土地覆被变化从质和量上使生态系统的结构和功能发生变化，一方面直接影响土壤有机碳储量和分布，另一方面使土壤结构、土壤理化性质、土壤微生物等的变化间接影响了土壤有机碳的形成和转化。大量研究表明(表1)西南喀斯特不同土地覆被土壤有机碳的含量存在明显差异,表现出原生林 $>$ 次生林 $>$ 灌丛 $>$ 草丛>农业用地(玉米地、菜地、旱田等)[4,8,13,2-23]。朱双燕等研究结果显示处于同一次生演替序列的灌丛、藤刺灌丛、乔灌丛的土壤有机碳贮量随演替阶段上升呈增高趋势。土壤有机碳含量随土地利用强度的增加也显示出明显的变化[24]。杨丰等研究结果表明,草地转变为农田土壤有机碳含量及密度降幅分别为 $1 9 . 6 4 \\% - 5 7 . 1 2 \\%$ 和 $1 2 . 2 2 \\% - 5 0 . 7 3 \\% ^ { [ 2 5 ] }$ 。张文娟等的研究表明水田可作为喀斯特山区长期固碳的优势土地利用类型[16]。靳振江等的研究同样也显示,喀斯特溶洞湿地土壤有机碳含量比旱田土壤高 $4 1 . 3 0 \\%$ ,稻田有利于维持湿地生态系统较高的土壤有机碳含量[26]。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/996e08741217e9b93b5e8f1de14b56f1a32b0232deaea4656c4972fd273446b4.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "（10>）（开用/\\*"
+        ],
+        "table_body": "<html><body><table><tr><td>喀斯特地貌类型 Type of karst landform</td><td>研究区 Study area</td><td>土层 Soil layer/cm</td><td>土地覆被/土地利用类型(土壤有机碳含量）* Type of land cover/land use（SOC content）/（g/kg)</td><td>参考文献 Reference</td><td>备注 Remark</td><td></td></tr><tr><td rowspan=\"10\">喀斯特峰丛洼地 Karst plateau laeuna</td><td>广西环江毛南族自治县</td><td>0-10</td><td>原生林(51.01a)、次生林(36.69a)灌丛(30.64a）草丛(30.2a)</td><td>[8]</td><td></td><td></td></tr><tr><td></td><td>10-20</td><td>原生林(38.78a）、次生林(22.54ab）灌丛(21.5ab）、草丛(18.24b)</td><td></td><td></td><td></td></tr><tr><td></td><td>20-30</td><td>原生林(31.47a)、次生林(20.44ab）、灌丛(19.09ab）、草丛(14.52b)</td><td></td><td></td><td></td></tr><tr><td></td><td>30-40</td><td>原生林(27.77a)、次生林(18.46ab）灌丛(15.68b）草丛(16.33b)</td><td></td><td></td><td></td></tr><tr><td></td><td>40-50</td><td>原生林(20.47a)、次生林(16.98a)灌丛(14.79a）草丛(13.63a)</td><td></td><td></td><td></td></tr><tr><td></td><td>50-60</td><td>原生林(15.47a)、次生林(17.93a）、灌丛(15.26a）、草丛(12.3a)</td><td></td><td></td><td></td></tr><tr><td>广西环江毛南族古周村</td><td>平均</td><td>原生林(30.83a）、次生林(22.17ab）灌丛(19.49ab)草丛(17.54b)</td><td></td><td>不同土地利用土壤</td><td></td></tr><tr><td></td><td>0-10</td><td>次生林(44.29）、灌草丛(36.26)、玉米地(22.13）、牧草地(31.98)</td><td>[13]</td><td></td><td></td></tr><tr><td></td><td>10-20</td><td>次生林(32.54）、灌草丛(27.70）、玉米地(17.63）、牧草地(29.84)</td><td></td><td>著差异（P<0.05)，</td><td>有机碳含量存在显</td></tr><tr><td></td><td>20-30</td><td>次生林(24.44）、灌草丛(18.86)、玉米地(14.66)、牧草地(27.56)</td><td></td><td>原文未做多重比较</td><td></td></tr><tr><td></td><td>广西平果县龙何屯</td><td>平均</td><td>次生林(33.76)灌草丛(27.60)玉米地(18.14）、牧草地(29.59) 次生林(42.01a）、灌丛(31.11b)、荒草地(10.32d）、农田(18.36c）、裸地(4.01e)</td><td>[14]</td><td></td></tr><tr><td></td><td>贵州省安顺市普定县城关镇</td><td>0-15</td><td>乔木林（65.56±10.74aA）、灌木林(49.68±20.50bB）灌草丛(51.32±11.70bB)</td><td>[15]</td><td></td><td></td></tr><tr><td></td><td>贵州普定试验示范区</td><td>0-10</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0-10</td><td>从3年（9））早（</td><td>[16]</td><td></td><td>干 深</td></tr><tr><td></td><td></td><td>10—20</td><td>灌丛（27.81±2.54ab）、水田(31.90±2.47aA）、旱地(22.77±3.51bc）、 退耕3年草丛(17.69±0.80cAB）退耕15年草丛(18.39±0.31cAB)</td><td></td><td></td><td>索</td></tr><tr><td></td><td></td><td>20-30</td><td>灌丛（28.90±2.34a）、水田（23.26±1.85abB）旱地（18.88±3.17bc）、 退耕3年草丛(15.39±1.33cB）退耕15年草丛(17.60±1.43bcB)</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0-30</td><td>3年37（17.9）5早（..</td><td></td><td></td><td></td></tr><tr><td>喀斯特高原峡谷</td><td>广西环江毛南族自治县</td><td>0-20</td><td></td><td>[17]</td><td></td><td></td></tr><tr><td>Karst plateau gorge</td><td>贵州省晴隆县孟寨河</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0-10</td><td>水田（29.42)旱地(23.98）、草地(25.34)灌草丛(33.90）、人工林(43.43）、次生林(48.57)</td><td>[4]</td><td>原文未对各土层不</td><td></td></tr><tr><td></td><td></td><td>10-20</td><td>水田(21.28）、旱地(19.61）、草地(25.17）、灌草丛(18.96)、人工林(37.97)、次生林(45.22)</td><td></td><td>同土地利用土壤有</td><td></td></tr><tr><td></td><td></td><td>20-30</td><td>水田（14.94)、旱地(14.50)草地(19.98）灌草丛(11.65）人工林(27.33）、次生林(38.55)</td><td></td><td>机碳含量进行差异</td><td></td></tr><tr><td></td><td></td><td>30-50</td><td>水田（11.50）、旱地(15.00）、草地(15.85）、人工林（8.82）、</td><td></td><td>性分析</td><td></td></tr><tr><td></td><td></td><td>50—100</td><td>水田（10.68）、旱地(10.40）、草地（12.72)</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>平均值</td><td>水田（17.56c）旱地(16.70c）、草地(19.8lc）灌草丛(21.50c）、人工林(29.39Bb）、次生林(44.11Aa)</td><td></td><td></td><td></td></tr><tr><td>喀斯特高原盆地</td><td>贵州省贞丰县板围村</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Karst plateau basin</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0-20</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>贵州省普定县陈家寨</td><td>0-20</td><td>乔木林地(68.61aA）、灌木林地(55.61bB）、草地(42.33cC）、旱地(26.78dD）、裸地(7.82eE)</td><td></td><td></td><td></td></tr><tr><td></td><td>贵州省普定县后寨</td><td></td><td>稀灌草丛(40.79）、藤刺灌丛(44.41）、灌木林(68.66）、乔灌过度林(46.2）、乔木林(60.24)</td><td>[21]</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>[20]</td><td>原文未做差异性分析</td><td></td></tr><tr><td></td><td>贵州省清镇市王家寨</td><td></td><td>灌木林（40.62±14.10a）、旱地(25.38±5.10b)、水田(18.11±1.96b)</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0-20</td><td>乔木(42.97a)、灌木(35.19b）、草本(19.98c）、裸地(11.13d)</td><td>[18]</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>[19]</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0-10</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2土壤有机碳空间和季节分布特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "喀斯特土壤强烈的空间异质性导致土壤有机碳分布在空间上具有显著差异。当前关于喀斯特土壤有机碳水平上的分布差异研究较少,主要集中在不同土地利用/土地覆被土壤有机碳分布特征研究(表1)。关于喀斯特土壤有机碳垂直分布特征,许多学者都开展了该方面的研究。张伟等研究显示喀斯特峰丛洼地土壤有机碳与地形因子具有显著的相关性,与高程、坡度及裸岩率显著正相关,与地形湿度指数显著负相关,具有中等程度的空间自相关[9]。何宁等研究显示峰丛洼地土壤有机碳具有明显的垂直分布特征,表层土壤有机碳含量极显著高于其他土层,随着土层深度的增加,土壤有机碳含量呈下降趋势,其降低程度与土壤深度有较好的线性关系[27]。徐杰等对湘西南石漠化地区同一林分下的土壤有机碳分布研究同样得出土壤有机碳含量变化为下坡 $>$ 中坡 $\\mathrm { > }$ 上坡[28]。小生境决定了喀斯特峰丛洼地土壤有机碳的分布格局[22]。吴敏等研究表明土壤有机碳上、中、下坡位存在一定得空间垂直分布格局,微地貌地形显著影响土壤有机碳的空间分布[2]。张伟等研究表明喀斯特地区地形因子与土壤养分之间的关系与其他地区明显不同,在强烈的岩溶作用下,微地貌形态的发育对土壤养分积累和循环具有重要的影响,在坡度较陡、坡位较高的地段容易形成石槽、石洞等阴暗生境,有利于有机质的积累,土壤养分含量也相对较高[23]。喀斯特坡地石槽、石洞等阴暗生境的发育导致土壤有机碳和总氮与坡度和裸岩率等地形因子显著正相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "喀斯特土壤有机碳还表现出季节变化。朱双燕等研究显示广西环江喀斯特灌丛、藤灌丛、乔灌丛群落雨季后有机碳均有降低,其原因可能是雨季期间凋落物迅速分解,地表凋落物分解量大于当季凋落量[24]。李孝良等研究显示土壤有机碳含量季节性变化特征明显,夏秋季低,冬季高[29]。本文作者对典型喀斯特高原峡谷区的喀斯特土壤有机碳研究同样得到类似结果,夏季土壤有机碳低于冬季[30]。李菲等分析了贵州普定喀斯特地区同一植被类型样地土壤有机碳在不同季节间的差异,结果显示土壤有机碳含量及储量在各个季节有一定变化,表现出春秋较高,夏冬较低[31]。土壤有机碳的季节变化主要受温度和水分因子的影响,西南喀斯特地处亚热带季风区,年温差小,降雨量丰富,季节变化对土壤有机碳有一定的影响,但影响土壤有机碳含量分布的首要因素是土地利用/土地覆被变化,季节因素是次要因素[31]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3不同石漠化等级土壤有机碳分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与其它地带性生态系统相比,喀斯特石漠化土壤有机碳明显偏低,文献报道最小值为 $9 . 8 1 ~ \\mathrm { g / k g }$ ,最大值为 $7 6 . 4 9 ~ \\mathrm { g / k g }$ （表2）,且不同等级石漠化土壤有机碳有明显差异。石漠化是在喀斯特脆弱生态环境下，人类不合理的社会经济活动造成植被破坏、水土流失、岩石逐渐裸露、土地生产力衰退甚至丧失,地表呈现石质荒漠景观的演变过程或结果[30,35]。石漠化过程势必对土壤有机碳造成明显的影响。长期以来,一直认为随着石漠化、土壤退化程度的加剧,土壤有机碳含量显著下降,强度石漠化土壤有机碳含量最低[1,13,36]。然而,事实并非如此。魏兴琥等对峰丛洼地石漠化土壤有机碳的研究结果显示,极强度石漠化土壤有机碳含量显著大于中度、轻度和潜在石漠化[34]。吴敏等研究结果显示土壤有机碳空间分布高值区域为岩石出露率明显大于其他生境类型的石缝和石槽,土壤有机碳与岩石出露率呈极显著正相关[2。除此之外,大量研究均得到同样结果[30,32.37]。盛茂银等基于大量系统的定点监测结果表明,喀斯特石漠化土壤有机碳含量的演变并不是随着石漠化等级的增加而一直退化,而是一个先降低后增加的趋势,极强度石漠化土壤有机碳含量最高[38]。这一反常现象应与喀斯特石漠化地表的土-石二元非均质结构有关。当严重石漠化时,面上土壤被侵蚀殆尽，仅现于缝隙、溶蚀槽中,该类土壤有低等植物如苔藓、地衣等形成结皮,有效地避免土壤侵蚀流失,加上微负地形有效截留地表径流携带的枯落物和土壤细粒物等使土壤中养分累积优势明显,最终导致强度石漠化土壤有机碳含量反而上升。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2土壤有机碳分布的影响因素",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 自然因素",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 气候 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "影响生态系统光合和呼吸过程的气候、地形、土壤质地等都是控制土壤有机碳库的动态变化因子[39]。温度、降水、二氧化碳浓度影响输入土壤中有机碳含量、分解速率,对土壤有机碳蓄积有重要作用[40]。其中,对土壤有机碳输入与分解过程起关键作用的气候因子主要是温度和水分。土壤有机碳含量呈现出与温度变化正相关，当温度 ${ \\mathrm { > } } 2 0 { ^ { \\circ } } \\mathrm { C }$ 时与土壤湿度正相关[41]。降水变化会影响土壤含水量、土壤植物凋落物的输入与土壤呼吸速率的改变,引起土壤有机碳库的变化。土壤含水量与土壤有机碳含量呈显著正相关,在旱季和雨季呈极显著正相关[40]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3613c1d4c5cb161238b61bd9354937a5fdf4bc7d569b071cd362618dfbf84f7e.jpg",
+        "table_caption": [
+            "表2不同等级石漠化土壤有机碳含量分布",
+            "Table 2Distribution of SOC content among different degrees of karst rocky desertification "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>研究区 Study area</td><td>土层 Soil layer/cm</td><td>石漠化等级 Degree of rocky desertification</td><td>土壤有机碳含量(均值) SOC content (Average）/（g/kg)</td><td>参考文献 References</td></tr><tr><td rowspan=\"4\">贵州花江</td><td rowspan=\"4\">0-30</td><td>轻度</td><td>15.33</td><td rowspan=\"4\">[32]</td></tr><tr><td>中度</td><td>9.81</td></tr><tr><td>强度</td><td>12.77</td></tr><tr><td>极强度</td><td>10.17</td></tr><tr><td rowspan=\"4\">贵州普定、荔波</td><td rowspan=\"4\">0-15</td><td>无</td><td>78.90</td><td rowspan=\"4\">[29]</td></tr><tr><td>潜在</td><td>42.30</td></tr><tr><td>轻度</td><td>19.20</td></tr><tr><td>中度</td><td>14.20</td></tr><tr><td rowspan=\"4\">湖南中部5县</td><td rowspan=\"4\">0-20</td><td>无</td><td>28.86</td><td rowspan=\"4\">[33]</td></tr><tr><td>轻度</td><td>21.13</td></tr><tr><td>中度</td><td>19.52</td></tr><tr><td>强度</td><td>16.61</td></tr><tr><td rowspan=\"5\">贵州毕节、清镇、安顺</td><td rowspan=\"5\">0-15</td><td>无</td><td>30.59</td><td rowspan=\"5\">[30]</td></tr><tr><td>潜在</td><td>20.44</td></tr><tr><td>轻度</td><td>27.54</td></tr><tr><td>中度</td><td>26.96</td></tr><tr><td>强度</td><td>26.36</td></tr><tr><td rowspan=\"4\">广东英德</td><td rowspan=\"4\">0-10</td><td>潜在</td><td>26.98</td><td rowspan=\"4\">[34]</td></tr><tr><td>轻度</td><td>30.27</td></tr><tr><td>中度</td><td>35.54</td></tr><tr><td>强度</td><td>76.49</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 地形因子",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "喀斯特地区土壤有机碳空间分布主要控制因素有地形、小生境类型、岩石裸露率和土层深度[42]。地形控制水分、溶质和沉积物的迁移方向和通量来决定土壤性质空间发育的梯度和格局[9]。一般认为土壤有机碳密度与贮量随着坡度的增大而减少,从阳坡到阴坡,随坡向角度的增加土壤碳密度不断增加[39]。沟坡的光热条件比塬面好,而雨水资源低于塬面,土壤有机碳的矿化作用强于塬面[39]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 植被 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植被类型主要通过植被根系分泌物和凋落物影响土壤有机碳[43]。植被破坏直接导致土壤流失、养分和有机碳减少[43]。植被盖度与土壤有机碳含量显著相关,张伟等得出典型喀斯特峰丛洼地土壤有机碳与 NDVI指数呈显著正相关[9]。茂兰喀斯特区不同植被类型表层土壤有机碳含量呈显著差异,原始林>次生林 $>$ 竹林[29]。退化喀斯特植被恢复过程中,土壤微生物生物量碳明显增加,微生物生物量碳与土壤有机碳呈显著正相关[18]。黄宗胜等也同样得出喀斯特森林植被的自然恢复有利于土壤碳的累积和土壤质量的提高[39]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.4 土壤理化性质 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳是土壤固相部分的重要组分,它与土壤矿物质共同作为林木营养的来源[44],土壤的一系列物理、化学和生物学性质对土壤有机碳具有直接和间接的影响。王霖娇等研究表明,土壤有机碳与土壤其它绝大多数理化因子具有明显的相关性，与土壤总氮、水解氮、速效钾、总孔隙度、自然含水量、毛管持水量、田间持水量和上层渗透性存在极显著地正相关,与总磷、下层渗透性存在显著地正相关,与容重存在极显著地负相关,而与 $\\mathrm { \\ p H }$ 、总钾、有效磷、土壤呼吸、毛管孔隙度、非毛管孔隙度无明显相关性[30]。李菲等研究也表明,土壤理化性质对土壤有机碳含量有明显的影响,土壤有机碳含量与土壤全氮、土壤碳氮比呈极显著正相关,与土壤容重呈极显著负相关。而与土壤含水量的相关性则在0— $1 5 \\ \\mathrm { c m }$ 和 $1 5 \\mathrm { - } 3 0 ~ \\mathrm { c m }$ 土层有所不同，0— $1 5 \\ \\mathrm { c m }$ 土层土壤有机碳与土壤含水量呈极显著正相关,15- ${ \\cdot 3 0 } \\ \\mathrm { c m }$ 土层则相关性较弱[31]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.5 土层深度",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表层土壤是植被凋落物和动物残体、粪便积累的主要场所,因此土壤微生物将凋落物等分解转化为养分后首先对土壤表层进行补给,再随土壤水分逐步向深层土壤转移，故表现为土壤有机碳含量随土层深度增加而递减。李菲等研究表明,0— $1 5 \\ \\mathrm { c m }$ 土层土壤有机碳含量及其储量和全氮含量及其储量均高于15— $3 0 \\ \\mathrm { c m }$ 土层[31]。贾晓红等的研究也得到同样的结果[45]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 人为因素",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1土地利用/土地覆被的变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土地利用/土地覆被通过影响土壤碳的动态变化,是土壤碳库最直接的影响因素[10]。喀斯特地区不同土地利用方式下土壤微环境、植被构成等因素导致了土壤有机碳存在差异。林地转变为农用地时,土壤开垦耕作破坏了土壤团聚体的结构,使土壤有机质失去植被保护暴露空中,造成碳素的分解释放[43]。退耕还林(草)增加喀斯特峰丛洼地景观类型土壤有机碳的储量[39]。与林地转变为农用地作用机制类似,草地开垦耕作也造成土壤有机碳库的损失,原来碳素总量将损失 $3 0 \\%$ 一 ${ . 5 0 \\% } ^ { [ 4 ] }$ 。因此,在喀斯特地区土地利用过程中合理保护与恢复地上植被尤为重要。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 农业管理措施",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "农业管理措施的不同可改变土壤性质,影响土壤有机碳库。合理的农业管理措施可增加土壤有机碳储量。喀斯特地区土壤土层浅薄,生态环境脆弱,土壤有机碳易受土地利用变化、耕地、施肥等活动的影响[41]。单施有机肥或有机肥与化肥配施,能显著提高土壤有机碳含量,提高土壤活性有机碳和碳库管理指数[33]。另外,秸秆还田、擢荒、轮作、灌溉等其他耕种方式与管理也会对土壤有机碳产生一定影响[34]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3增加喀斯特石漠化土壤碳汇的对策",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1改良土地利用/土地覆被",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)开展喀斯特区退耕还林和森林植被恢复。封山育林与人工造林相结合,恢复与重建森林生态系统。森林可降低雨水对土壤的直接侵蚀能力,土壤有机质层可涵养水源,林木根系可使土壤内聚力增加1—2$\\mathrm { k P a } ^ { [ 3 9 ] }$ 。在坡度较缓,基岩露头少、土层厚立地条件较好的山丘适当发展农林混作,恢复与重建以林为主的复合农林生态林[1]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)优化土地利用/土地覆被结构,提高土壤有机碳含量。西南喀斯特不同土地利用/土地覆被土壤有机碳的含量存在明显差异;原生林 $>$ 次生林 $>$ 灌丛 $>$ 草丛 $>$ 农业用地(玉米地、菜地、旱田等)[4,8,13.22-23]。尽量减少玉米地、菜地、旱田等土地利用,增加坡耕地水保林、经济林种植、提高水土保持效益的同时提高土壤碳汇能力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)加强喀斯特石漠化综合治理。石漠化综合治理工程的林草植被保护和建设、基本农田建设与水资源开发利用、工程能源建设等项目都会产生额外的固碳效益[1]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2建立科学的农业管理措施",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)促进喀斯特地区农-草-畜牧业的协调发展,实现生态环境保护与农牧业经济的可持续发展。积极推进传统畜牧业向可持续生态畜牧业转变,建立“草业-养畜-致富-生态环境改善\"的良性循环模式[1],降低草地",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "开垦,有利于土壤有机碳的积累[32] C",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)注重喀斯特地区耕地生产方式的合理性。建立良好的耕作制度,合理施肥,实施秸秆还田,增加土壤有机碳,提高土壤肥力。在人为干扰不可避免的情况下,选择以林地为主的土地利用方式。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3提高喀斯特地区农牧民的素质教育",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注重农村科技人员的吸收和引进,广泛深入开展环境保护、资源合理利用宣传教育,树立自觉珍惜资源，增强全民可持续发展意识。同时,发挥农村科技人员知识才能,完善各类农村科技培训,形成学科学、惜资源、爱环境的良好氛围。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4亟待解决的科学问题",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "石漠化已成为制约中国西南喀斯特山区可持续发展最严重的生态环境问题。仅1999—2005 年间,西南石漠化(约 $5 5 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 } .$ )导致的有机碳流失通量年增加量就超过 $2 8 ~ \\mathrm { T g } ^ { [ 4 2 ] }$ 。喀斯特石漠化土壤有机碳已经成为科学治理石漠化和应对全球碳循环减源增汇的研究热点和前沿。尽管已开展了大量的科学研究,但该领域仍存在几个重要的科学问题亟待解决。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)喀斯特石漠化土壤有机碳稳定性主导机制不清。喀斯特土壤有机碳本身的高度异质、动态变化和影响因素的复杂性,导致其稳定性主导机制不清楚，开展多种稳定机制的综合研究显得尤为重要。(2)喀斯特石漠化土壤有机碳储量和空间分布测算机理方法缺乏。喀斯特石漠化土壤具有分布不连续、土层薄、土壤存量少等基本特征,加之基岩裸露、小生境多样等严重制约了土壤有机碳精确测算,增加了区域碳平衡研究中的不确定性。(3)喀斯特石漠化土壤有机碳分布的影响因素研究不足。继续深入开展土壤有机碳与土壤理化性质、土壤微生物、土壤管理措施、地表覆被的相关性及其积累机制研究,对提高有机碳固定,发挥土壤有机碳的生态功能、制定适宜的土壤管理措施有重要意义。(4)环境小气候对土壤有机碳影响研究仍未空白。喀斯特石漠化地区小生境多种多样,小气候特征有较大差异,小气候如何影响土壤有机碳影响研究尚无报道,严重制约了科学治理石漠化和土壤碳汇的提高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］熊康宁，周文龙，龙健，罗井升.喀斯特石漠化综合治理区表层土壤有机碳时空动态特征与趋势探讨.中国岩溶,2011,30（4）：384-390.  \n[2］吴敏，刘淑娟，叶莹莹，张伟，王克林，陈洪松.典型喀斯特高基岩出露坡地表层土壤有机碳空间异质性及其储量估算方法.中国生态农业学报，2015,23(6)：676-685.  \n[3]XuEQgQ,iXsptialifoatititeeouoofastsertaidisadiChangshun，China.Science of the Total Environment，2013，458-460：419-426.  \n［4」谭秋锦，宋同清，彭晚霞，曾馥平，杨钙仁，杜虎，鹿士杨，范夫静.西南峡谷型喀斯特不同生态系统的碳格局.生态学报，2014，34(19):5579-5588.  \n[5]Sweeting MM.Karst in China：its geomorphology and environment.Berlin：Springer-Verlag，1995：112-18.  \n[6］姚长虹，蒋忠诚，袁道先.西南岩溶地区植被喀斯特效应.地球学报，2001，22(2)：159-164.  \n[7]LeiteLFC,DeSMendoncaE,DeAlmeida MachadoPLO,FioEIF,NvesJCLSiulating rendsinsoilorganiccarbonofAcrisolunder no-tillage and disc-plow systems using the century model. Geoderma，2004,120(3/4）： 283-295.  \n[8］杜虎，宋同清，曾馥平，王克林，彭晚霞，付威波，李莎莎.喀斯特峰丛洼地不同植被类型碳格局变化及影响因子.生态学报，2015，35(14):4658-4667.  \n[9］张伟，王克林，陈洪松，张继光.典型喀斯特峰丛洼地土壤有机碳含量空间预测研究.土壤学报，2012,49（3）：601-606.  \n[10] 陈朝，吕昌河，范兰，武红.土地利用变化对土壤有机碳的影响研究进展.生态学报，2011,31（18）：5358-5371.  \n[11]Paul E A， Harris D,Colins HP,SchulthessU，Robertson $_ { \\textrm { G P } }$ Evolution of $\\mathrm { C O } _ { 2 }$ and soil carbon dynamics in biologicallymanaged，row-cropagroecosystems.Applied Soil Ecology，1999，11(1）：53-65.  \n12]Slinsellabdaltofled)：65-105.  \n[13］宋希娟，王克林，刘淑娟，曾朝霞，寻瑞.桂西北喀斯特地区不同土地利用方式土壤的有机碳含量及养分特征.湖南农业大学学报：自然科学版，2013,39(6)：655-659.  \n[14」徐）平，顾大形，潘复静，孙央杰，罗义漥，何成新，更玉清.不间土地利用方式对桂四南石浴山地土壤酶沽任的影啊.）四植物,2014，34(4) : 460-466.  \n[15］胡忠良，潘根兴，李恋卿，杜有新，王新洲.贵州喀斯特山区不同植被下土壤C、N、P 含量和空间异质性.生态学报，2009，29（8)：4187-4195.  \n[16］张文娟，廖洪凯，龙健，李娟，刘灵飞．贵州喀斯特山区土地利用对土壤有机碳及其周转速率的影响.生态学杂志,2014，33（5)：1297-1303.  \n[17］刘艳，宋同清，蔡德所，曾馥平，彭晚霞，杜虎.喀斯特峰丛洼地不同土地利用方式土壤肥力特征.应用生态学报，2014，25（6)：1561- 1568.  \n[18] 魏媛，喻理飞，张金池.退化喀斯特植被恢复过程中土壤微生物活性研究——以贵州花江地区为例.中国岩溶，2008,27(1)：63-67.  \n[19］邱虎森，苏以荣，陈香碧，黎蕾，李杨，何寻阳.喀斯特高原典型小流域土壤有机碳及其组分的分布特征.农业环境科学学报，2012，31(10）:1956-1964.  \n[20] 刘兴，王世杰，刘秀明，黄天志，李勇.贵州喀斯特地区土壤细菌群落结构特征及变化.地球与环境，2015,43（5)：490-497.  \n[21] 訾伟，王小利，段建军，张林.喀斯特小流域土地利用对土壤有机碳和全氮的影响.山地农业生物学报，2103，32（3）：218-223.  \n[22］吴海勇，曾馥平，宋同清，彭晚霞，黎星辉，欧阳资文.喀斯特峰丛洼地土壤有机碳和氮素空间变异特征．植物营养与肥料学报，2009,15(5）：1029-1036.  \n[23］张伟，王克林，刘淑娟，叶莹莹，潘复静，何寻阳.喀斯特峰丛洼地植被演替过程中土壤养分的积累及影响因素.应用生态学报，2013，24(7):1801-1808.  \n[24］朱双燕，王克林，曾馥平，曾昭霞，宋同清.广西喀斯特次生林地表碳库和养分库特征及季节动态.水土保持学报，2009，23（5)：237- 242.  \n[25] 杨丰，唐文汉，王建立，姚红艳，程巍，刘洪来.贵州喀斯特山区草地生态系统类型转变对土壤有机碳的影响.草地学报，2015，23(4)：733- 737.  \n[26] 靳振江，程亚平，李强，曾鸿鹄，罗望，黄静云，陆文体，唐志琴.会仙喀斯特溶洞湿地、稻田和旱田土壤有机碳含量及其与养分的关系.湿地科学，2014，12(4)：485-490.  \n[27] 何宁，宋同清，彭晚霞，曾馥平，王克林，杜虎，鹿士杨，卢凌霄.喀斯特峰丛洼地次生林土壤有机碳的剖面分布特征.植物营养与肥料学报，2012,18(2)：374-381.  \n[28］徐杰，邓湘雯，方晰，黄小健，刘豪健，彭长辉．湘西南石漠化地区不同植被恢复模式的土壤有机碳研究.水土保持学报，2012，26（6)：171-174，179.  \n[29] 李孝良，陈晓民，周炼川，周方方.贵州省喀斯特地区石漠化土壤有机碳和全氮变异特征.南京农业大学学报，2010,33（4)：75-80.  \n[30] 王霖娇，盛茂银，李瑞.中国南方喀斯特石漠化演替过程中土壤有机碳的响应及其影响因素分析.生态科学，2016，35(1)：47-55.  \n[31] 李菲，李娟，龙建，廖洪凯，刘灵飞，张文娟.典型喀斯特山区植被类型对土壤有机碳、氮的影响.生态学报，2015，34(12)：3374-3381.  \n[32] 郭红艳，崔明，周金星，但新球，丁访军，吕相海.贵州岩溶峡谷区石漠化对土壤碳库的影响.林业科学研究，2014，27(6)：822-829.  \n[33] 王纳伟，吴立潮，钟杰，赵京，张景.湘中石漠化区土壤有机碳和全氮的变化特征.南方农业学报，2013，44(4)：616-620.  \n[34] 魏兴琥，徐喜珍，雷俐，周红艳，李忠云.石漠化对峰丛洼地土壤有机碳储量的影响——以广东英德市岩背镇为例.中国岩溶，2013，32(4): 371-376.  \n[35]LiYB,aoJA,YngH,aiXYrelatiosbetwnndusedarstoyserifatiotyicalarstarea,a.EtalGeology，2009,57(3):621-627.  \n[36］闫俊华，周传艳，文安邦，刘兴诏，褚国伟，李坤.贵州喀斯特石漠化过程中的土壤有机碳与容重关系.热带亚热带植物学报，2011，19(3): 273-278.  \n[37] 卢红梅，王世杰.喀斯特石漠化过程中的土壤物理组分有机碳氮研究.水土保持通报，2009,29(5）：50-55.  \n[38] 盛茂银，刘洋，熊康宁.中国南方喀斯特石漠化演替过程中土壤理化性质的响应.生态学报，2013，33（19)：6303-6313.  \n[39] 黄宗胜，符裕红，喻理飞.喀斯特森林植被自然恢复过程中土壤有机碳库特征演化.土壤学报，2013，50(2)：306-314.  \n[40] Zhang XB,BaiXY,He $\\mathrm { ~ X ~ B ~ }$ .Soil creeping inthe weathering crust of carbonaterocksand underground soillosses in the karst mountain areasofsouthwest China.Carbonates and Evaporites，2011，26(2）：149-153.  \n［41］徐海，朴河春，洪叶汤.喀斯特地区土壤表层 $\\mathrm { C O } _ { 2 }$ 释放通量的影响因素I：规律.生态学杂志，2003，22（2）：12-15.  \n[42] WangSJ,LiuQ,angDFarstocksertiftioinsoutesteinaeooologdsepactndabiliadDegradation& Development，2004，15（2）：115-121.  \n[43] 范文娟，容丽，张振球.喀斯特峡谷型流域主要生态系统的碳分布——以晴隆孟寨流域为例.山地学报，2015，33（4）：457-464.  \n[44] 刘鸿雁，黄建国.缙云山森林群落次生演替中土壤理化性质的动态变化.应用生态学报，2005，16(11)：2041-2046.  \n[45] 贾晓红，李新荣，周玉燕，李元寿.干旱沙区人工固沙植被演变过程中土壤有机碳氮储量及其分布特征.环境科学，2012，33（3)：938-945.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

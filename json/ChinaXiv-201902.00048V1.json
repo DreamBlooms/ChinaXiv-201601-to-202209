@@ -1,0 +1,331 @@
+[
+    {
+        "type": "text",
+        "text": "昌化江河谷隔离对海南岛特有植物盾叶苣苔遗传多样性的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李 歌1，凌少军1，陈伟芳1，任明迅1，唐 亮1,2\\*（海南大学热带农林学院，环南海陆域生物多样性研究中心，海口570228;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "海南大学热带雨林国家公园研究院，海口570228）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：盾叶苣苔(Metapetrocosmea peltata（Merr.et Chun）W．T.Wang)是海南岛特有植物，分布在海南岛中南部山区。该研究采集了盾叶苣苔11个种群共172份材料，通过PCR扩增和测序分析核糖体转录间隔区(ITS)序列的变异式样，评估盾叶苣苔的遗传多样性与遗传分化格局，并探索影响盾叶苣苔遗传变异地理分布的因素。结果表明盾叶苣苔物种水平的遗传多样性很高 $\\langle H _ { \\mathrm { T } } = 0 . 9 9 8$ $\\pi = 0 . 0 2 3 5$ ，种群间基因流很弱 $( N _ { \\mathrm { m } } = 0 . 0 4 )$ 且存在强烈的遗传分化( $\\langle G _ { \\mathrm { S T } } = 0 . 3 7 5 \\rangle$ 。单倍型分析显示盾叶苣苔的单倍型大多是种群特异的，仅白马岭与南茂岭种群有共享单倍型。Manteltest表明遗传距离和地理距离存在一定相关性(相关系数 $r =$ 0.322， $P = 0 . 0 1 0 ^ { \\cdot }$ )。Structure 聚类分析将盾叶苣苔划分为6种遗传成分，其地理分布与昌化江河谷导致的隔离样式基本一致，基于Nei遗传距离的种群聚类分析也支持这一结果，显示盾叶苣苔遗传多样性的分布受到昌化江河谷的隔离作用。AMOVA分析确定 $67 \\%$ 的变异来自地区间，表明地理隔离是盾叶苣苔种群分化的重要因素。该研究揭示昌化江及其支流所引起的海南岛山地内部隔离是盾叶苣苔种群发生强烈遗传分化的重要原因，也导致盾叶苣苔在物种水平具有较高的遗传多样性。上述研究结果不但能对海南特有苦苣苔资源盾叶苣苔的保护和可持续利用提供理论指导，也将有助于理解海南岛特有植物和其他海岛植物遗传变异的地理分布及其影响因素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：盾叶苣苔，遗传多样性，遗传结构，地理隔离，岛屿特有种中图分类号：Q948.15 文献标识码：A' 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of geographic isolation caused by Changhua River on genetic diversity of Hainan-endemic Metapetrocosmea peltata (Gesneriaceae) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Gel, LING Shaojun1, CHEN Weifang1, REN Mingxun1, TANG Liang1,2\\* (1. Research Center for Terrestrial Biodiversity ofthe South China Sea,Institute ofTropical Agriculture and Forestry, Hainan University, Haikou 570228, China; 2. Institute of Tropical Rain Forest National Park, Hainan University,Haikou 570228,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Metapetrocosmea peltata (Gesneriaceae) is an endemic species distributed inthe middle and southern mountainous area of Hainan Island. In this study,we collected $1 7 2 \\ M .$ peltata individuals from 11 natural populations,and assssed the genetic diversity and differentiation of this species based on sequence variation of intergenic transcribed spacer (ITS)region. In addition,the factors that may impact the level and distribution of genetic diversity were explored. The analysis revealed that $M .$ peltata has a high level of genetic diversity at its species level ( $\\mathrm { \\Delta } H _ { \\mathrm { T } } = 0 . 9 9 8$ ， $\\pi = 0 . 0 2 3 5$ ), however, the gene flow between populations was very weak ( $\\langle N _ { \\mathrm { m } } = 0 . 0 4 \\rangle$ ， whereas the genetic differentiation was quite strong ( $\\langle G _ { \\mathrm { S T } } = 0 . 3 7 5$ ).Mosthaplotypesof $M .$ peltata were population specific,only except for the BM and NM population,which shared a few haplotypes.Mantel test showed that the genetic distances between haplotypes were correlated with their geographic distances (correlation index $r = 0 . 3 2 2$ ， $P = 0 . 0 1 0 ^ { \\cdot }$ ). Structure analysis clustered individuals of $M .$ peltata into six genetic groups, whose geographic distribution is largely concordant with the isolation patern of Hainan mountainous area caused by Changhua River. The geographic distribution of genetic clusters was further supported by population cluster analysis based on Nei's genetic distance.This study manifests the isolation efect of Changhua River on the distribution of genetic diversity of M. peltata. AMOVA showed that $67 \\%$ genetic variation was partitioned among populations, suggesting genetic diferentiation of this species was mainly caused by geographic isolation.In conclusion, geographic isolation of Hainan mountainous area caused by Changhua River and its tributaries should be the driving force for the strong genetic differentiation among $M .$ peltata populations,and also may lead to the high genetic diversity detected at the species level of M. peltata.This study not only provides recommendation for efficient conservation and utilization of $M .$ peltata,a potential ornamental plant species,but also facilitates the understanding of geographic distribution of genetic variation for Hainan Island endemic and other plant species. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Metapetrocosmea peltata， genetic diversity，genetic diferentiation, geographic isolation， island endemic species ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "岛屿物种的分布区通常比较狭小，种群规模小，基因流受岛屿复杂地形的影响而减弱或阻断，是研究种群遗传分化的理想材料(王中生等,2004)。岛屿的气候、地形等因素会影响种群的大小与分布，进而影响其遗传多样性与遗传结构(Stuessy etal.,2014)。海南岛具有明显的地形特征，五指山和鹦哥岭为海南最高峰，以其为中心向外围海拔逐渐降低(邢福武,2012)。昌化江为海南第二大河，它发源于琼中空禾岭，横贯海南岛的中西部，自东北向西南流经琼中五指山，在乐东县转向西北，经东方市和昌江县向西汇入北部湾(周祖光,2015)。昌化江支流众多，将海南岛中南部山地分割为不连续的地理区域，这种地形特点对海南特有植物遗传多样性和遗传分化的影响目前并没有得到深入研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "苦苣苔科(Gesneriaceae)植物大多具有独特的花形与花色，良好的耐荫性，观赏价值极高，因此受到广泛关注(温放,2008；代正福和罗冠勇,2009；史佑海等,2011)。中国苦苣苔科植物均属于苦苣苔亚科，海南岛及其附近地区是苦苣苔亚科的多样性热点地区之一(李振宇和王印政,2005；韦毅刚,2010；许为斌等，2017)。海南岛共有 24 种苦苣苔亚科植物，其中包括2个特有属和8个特有种(含1变种)(韦毅刚,2010；邢福武,2012)。由于昌化江及其支流是导致海南岛中南部山地彼此隔离的重要因素，因此海南苦苣苔科植物的起源与进化很可能受到昌化江河谷以及岛屿地质历史的影响(王策等,2015；凌少军等,2017)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "盾叶苣苔(Metapetrocosmea peltata (Merr.et Chun)W.T.Wang)隶属于苦苣苔科盾叶苣苔属，为单种属，海南特有种，通常生长在海拔400-800米的湿润岩壁上或石壁夹缝中，种群呈斑块分布，对生境要求严格。近年来由于气候变化，局部地区干旱加剧，溪流干涸，导致盾叶苣苔部分种群缩减甚至灭绝，现已被列入易危物种名单(韦毅刚,2010)。盾叶苣苔现存种群的遗传变异是否充足？昌化江引起的海南岛中南部山地隔离是否影响了盾叶苣苔遗传变异的地理分布？如何有效地保护盾叶苣苔的遗传多样性？这些问题尚未得到解答。核糖体转录间隔区(ITS)替换速率快、测序难度小，常用于近缘类群的系统发育与种群遗传学研究(段义忠等,2010；王晓雄等,2011)。本文选用ITS 标记分析海南特有种盾叶苣苔的种群遗传多样性与遗传结构，探究海南岛地理格局对盾叶苣苔种群遗传变异水平与空间分布的影响，为海南特有种的起源、进化和保育",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "提供理论洞察。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1．材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1实验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究采集了盾叶苣苔11个种群共172份样本，采样点覆盖该种在海南岛的主要分布地点(韦毅刚，2010)。野外采集生长良好，无病斑的幼叶，用硅胶快速干燥后带回实验室，每种群采集11-21个体(表1)。昌化江及其支流将这11个种群分割在3块不连续的区域中，其中猕猴岭(JX)、鹦哥岭(YG)、霸王岭(BW)、南高岭(NG)与黎母山(LM)种群位于昌化江以北侧,尖峰岭(JF)与仙安石林(XA)种群大体位于昌化江的西南，其余种群分布在昌化江的东南。同侧种群被沟谷与河流进一步分割(图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1盾叶苣苔种群的采样信息、变异位点数、单倍型、单倍型多样性和核苷酸多样性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed36224487c0ea13050fe9ec0eedd38fa22d52043f66cdb231841904cfc63c0a.jpg",
+        "table_caption": [
+            "Table1 Sampling location, number of polymorphic sites,haplotypes,haplotype diversityand nucleotide diversity for each Metapetrocosmea peltata population. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>采样地点</td><td>种群编号</td><td>样本数量</td><td>经纬度</td><td>海拔</td><td>变异位点个数(百分比%)</td><td>单倍型及数量</td><td>单倍型多样性</td><td>核苷酸多</td></tr><tr><td>Location</td><td>Population</td><td>Sample</td><td>Longitude(E)/</td><td>Altitude</td><td>No. of polymorphic sites</td><td>Haplotype (number)</td><td>Hd</td><td>样性</td></tr><tr><td>840</td><td>code</td><td>size</td><td>Latitude(N)</td><td>(m)</td><td>(Percentage %)</td><td></td><td></td><td>π</td></tr><tr><td>黎母山 D</td><td>LM</td><td>11</td><td>109°44'/19°10'</td><td>900</td><td>4(0.62)</td><td>H1(5), H2(5), H3(1)</td><td>0.6363</td><td>0.001 5</td></tr><tr><td>■ Mt. Limu</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9霸王岭</td><td>BW</td><td>14</td><td>109°09'/1907'</td><td>1013</td><td>2(0.31)</td><td>H4(4),H5(7), H6(2), H7(1)</td><td>0.692 3</td><td>0.001 4</td></tr><tr><td>Mt. Bawang</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>南高岭</td><td>NG</td><td>21</td><td>109°19'/1910'</td><td>600～750</td><td>0(0.00)</td><td>H8(21)</td><td>0.0000</td><td>0.0000</td></tr><tr><td>Mt. Nangao a</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>猴猕岭 h</td><td>JX</td><td>14</td><td>10908'/18°53'</td><td>700～800</td><td>2(0.31)</td><td>H9(9),H10(2),H11(3)</td><td>0.560 4</td><td>0.0013</td></tr><tr><td>CMt. Houmi</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>鹦哥岭</td><td>YG</td><td>21</td><td>109°33'/1903'</td><td>700～1000</td><td>1(0.15)</td><td>H12(16),H13(5)</td><td>0.3810</td><td>0.000 6</td></tr><tr><td>Mt. Yingge</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>尖峰岭</td><td>JF</td><td>20</td><td>10852'/18°46'</td><td>900～1100</td><td>4(0.62)</td><td>H14(10), H15(3),H16(1), H17(5),</td><td>0.694 7</td><td>0.0017</td></tr><tr><td>Mt. Jianfeng</td><td></td><td></td><td></td><td></td><td></td><td>H18(1)</td><td></td><td></td></tr><tr><td>仙安石林</td><td>XA</td><td>12</td><td>109°26'/18°35'</td><td>679</td><td>5(0.77)</td><td>H19(3),H20(1), H21(4), H22(2),</td><td>0.848 5</td><td>0.0031</td></tr><tr><td>Mt.Xian'an</td><td></td><td></td><td></td><td></td><td></td><td>H23(1),H24(1)</td><td></td><td></td></tr><tr><td>白马岭</td><td>BM</td><td>11</td><td>110°12'/1904'</td><td>450～700</td><td>6(0.92)</td><td>H25(3),H26(1),H27(1),H28(2),</td><td>0.909 1</td><td>0.004 6</td></tr><tr><td>Mt. Baima</td><td></td><td></td><td></td><td></td><td></td><td>H29(1), H30(1), H31(2)</td><td></td><td></td></tr><tr><td>南茂岭</td><td>NM</td><td>17</td><td>110°06'/1901'</td><td>600～870</td><td>5(0.77)</td><td>H26(1),H30(7), H31(4),H32(4),</td><td>0.7574</td><td>0.002 3</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7c669c820373eae22edb028759ea67c21dbf30c8be887b3a10245632a7400be.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">Mt. Nanmao H33(1)</td></tr><tr><td>七仙岭</td><td>QX</td><td>17</td><td>109°41'/18°42'</td><td>417~590</td><td>6(0.92)</td><td>H34(6),H35(3),H36(2),H37(1),</td><td>0.7868</td><td>0.0042</td></tr><tr><td>Mt. Qixian</td><td></td><td></td><td></td><td></td><td></td><td>H38(5)</td><td></td><td></td></tr><tr><td>五指山</td><td>WZ</td><td>14</td><td>109°41'/18°53'</td><td>800～1530</td><td>3(0.46)</td><td>H39(9),H40(1),H41(2),H42(2)</td><td>0.582 4</td><td>0.0015</td></tr><tr><td>Mt. Wuzhi</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总计 Total</td><td></td><td>172</td><td></td><td></td><td>64(9.89)</td><td></td><td>0.958 0</td><td>0.023 5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2DNA 提取和PCR扩增、测序",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用改良CTAB 法(Doyle,1990)从硅胶干燥的叶片中提取总DNA。由通用引物 ITS4(5TCCTCCGCTTATTGATATGC 3')和 ITS 5HP(5' GGAAGGAGAAGTCGTAACAAGG 3))(White et al.,1990)扩增盾叶苣苔的 ITS 片段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PCR扩增体系为 $2 5 { \\mu \\mathrm { L } }$ ，包括 $1 7 \\mu \\mathrm { L }$ 去离子水， $2 . 5 ~ \\mu \\mathrm { L }$ $1 0 \\times$ 缓冲液， $0 . 5 \\mu \\mathrm { L } 1 0 \\mathrm { m M } \\mathrm { d N T p s }$ ， ${ 5 \\mu \\mathrm { M } }$ 引物各$0 . 5 ~ \\mu \\mathrm { L }$ ， $1 ~ \\mu \\mathrm { L }$ DNA 模板和 $0 . 5 ~ \\mu \\mathrm { L } \\ 5 ~ \\mathrm { U / \\mu L }$ Taq 酶。ITS片段扩增程序为： $9 4 ^ { \\circ } \\mathrm { C }$ 预变性 $4 \\mathrm { m i n }$ ： $9 4 ^ { \\circ } \\mathrm { C }$ 变性 $1 \\mathrm { m i n }$ ，$5 5 \\mathrm { ^ \\circ C }$ 退火 $4 0 ~ \\mathrm { s }$ ， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $1 \\mathrm { m i n }$ ，循环36次，最后 $7 2 \\mathrm { { ^ \\circ C } }$ 延伸 $1 0 \\mathrm { m i n }$ 。PCR产物经琼脂糖凝胶电泳检测后送广州天一辉远生物科技有限公司测序。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用ContigExpress 2014 对测序结果手工校正，然后通过 MEGA 6.0 (Kumar et al.,2008)程序构建序列比对。用DnaSP5.1(Librado&Rozas,2009)确定单倍型，并计算单倍型多样性 $( H _ { \\mathrm { d } } )$ 、核苷酸多样性 $( \\pi )$ 、种群间平均基因流 $( N _ { \\mathrm { m } } )$ 和居群间遗传分化系数 $( F _ { \\mathrm { S T } } )$ 。采用PERMUT(Pons&Petit,1996)软件计算种群内平均遗传多样性 $( H _ { \\mathrm { S } } )$ 、物种水平总遗传变异 $( H _ { \\mathrm { T } } )$ ，以及遗传分化系数( $\\langle G _ { \\mathrm { S T } }$ 和 $N _ { \\mathrm { S T } } )$ 。 $G _ { \\mathrm { S T } }$ 只考虑单倍型的频率，而NsT考虑了单倍型的频率和序列差异(Raymond&Rousset,1995)。 $N _ { \\mathrm { S T } }$ 大于 $G _ { \\mathrm { S T } }$ 通常表明种群存在谱系地理结构，其显著性通过1000 次置换进行检验。使用 GenAIEx 6.5 (Peakall& Smouse,2012)进行 AMOVA(Analysis of Molecular Variance)分析，将总遗传变异在种群内、种群间与地区间三个层次上进行剖分。用Mantel检验(Mantel,1967)比较盾叶苣苔种群遗传距离与地理距离之间的相关性，通过10000 次随机重复检验显著性。采用 Network 5.0 (Bandelt,1999)的中点连接法(Median-joining networks)对盾叶苣苔11个种群构建单倍型网络图。种群遗传结构用Structure2.3.4分析，MCMC 链起始的 $1 0 ^ { 5 }$ 世代不计入似然值计算，随后重复抽样 $1 0 ^ { 6 }$ 世代。 $K$ 代表遗传成分的种数，其取值范围设置为1-11，对于每个 $K$ 重复10次聚类分析，将10 次运算的平均似然值作为每个 $K$ 的似然值。聚类模型假定种群可以混合，并且等位基因频率是相关的(Pritchard etal.,200O)。使用 Structure Harvester 进行 DeltaK 作图分析，以确定最优 $K$ 值，即最可能的遗传成分的数目(Evanno et al.,2005)。将 Structure 输出结果上传至CLUMPAK server 绘制遗传结构图(Jakobsson& Rosenberg,2007)。基于 Nei遗传距离使用 MEGA 6.0 中的邻接法构建盾叶苣苔地理种群的聚类关系图(Tamura et al.,2013)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0207b8d5bb91c49da27e711dcf0fbdb081b118f75fa29be351c4cf7dafbf96b7.jpg",
+        "img_caption": [
+            "图1盾叶苣苔种群单倍型的组成与地理分布。"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 The constitution and geographical distribution of haplotypes of studied M. peltata populations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1序列变异 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "比对后ITS序列的长度为647bp，一共检测到64个变异位点，包括7个碱基插入缺失突变。种群 BM和QX的变异位点比例最高，为 $0 . 9 2 \\%$ ；种群NG的ITS序列没有变异；其余种群的变异位点比例在$0 . 1 5 { - } 0 . 7 7 \\%$ 之间(表1)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2单倍型多样性与地理分布",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于ITS 序列共发现42个单倍型，盾叶苣苔种群的单倍型个数从1到7不等(表1)。大部分种群拥有独特的单倍型，只有地理距离较近的种群 BM和NM共享了单倍型H28、H30 和H31。盾叶苣苔种群的单倍型多样性较高，除种群 NG仅有一种单倍型外，其余种群均有两种以上的单倍型，单倍型多样性在0.3810-0.9091之间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "盾叶苣苔的单倍型网络具有清晰的地理结构。不同种群的单倍型在网络图上处于相对独立的位置，地理距离近的种群其单倍型的遗传距离也较近(图2)。根据单倍型网络可以大致将盾叶苣苔的11个采样种群划分为6组。分别是 $\\boldsymbol { \\mathrm { I } } : \\mathrm { Y G }$ ；II: JX；III: NG与 BW；IV: LM；V: JF与 XA；VI: BM、NM、QX与WZ(图2)。组内单倍型的遗传距离 $( 0 . 0 0 4 \\pm 0 . 0 0 3$ ，远小于组间单倍型的遗传距离 $( 0 . 0 2 6 \\pm 0 . 0 0 6 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8844cf22947ffde91d0de963c6b5758b9c6b91bf1093ea3010ba0a68d32eb8da.jpg",
+        "img_caption": [
+            "图2基于ITS序列构建的盾叶苣苔单倍型网络图。"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 M. peltata haplotype network constructed based on ITS sequence variation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3种群遗传结构与遗传分化",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Delta $K$ 作图分析发现 $K = 6$ 时Delta $K$ 取得最大值(图3：A)。盾叶苣苔6种遗传成分的地理分布与基于单倍型网络划分的6组种群完全对应(图3：B)。位于昌化江以北的5个种群，除BW与NG共享同一成分(II)，其余种群均由独特遗传成分构成。位于昌化江西侧及南侧的 JF与XA由成分V构成，而位于昌化江东南的4个种群(QX、WZ、NM与BM)由成分VI构成(图3：B)。这6种遗传成分的地理分布与海南岛中南部山地的隔离样式基本吻合(图1)。盾叶苣苔种群聚类分析结果与单倍型网络图和 Structure 分析结果一致。相同遗传成分的种群首先聚为单系进化支。昌化江东南侧4个种群构成的进化支与其余种群的遗传距离较远，分布在昌化江北侧和西南的种群则构成另一进化支(图4)。种群YG 和西南部的JF、XA 聚在一起，而位于昌化江以北的种群 JX、BW、NG与LM构成一单系，其单倍型彼此遗传距离较小(图 2)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d15f9c11900734c9876acb7dae91ccfffb69a411df52def6e897bef1ec0433a7.jpg",
+        "img_caption": [
+            "图3(a)不同 $K$ 值的DeltaK变化图; (b) $K = 6$ 对应的 Structure 结果图。"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 (a) DeltaK plotting; (b) Distribution of cluster memberships at population level when $K = 6$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b49196ca40ea07f67e0245ef5155f022768996de0cbe7c94ad161254b046e255.jpg",
+        "img_caption": [
+            "图4基于Nei遗传距离构建的盾叶苣苔种群聚类关系图。 Fig.4 Population tree based on Nei's genetic distance to illustrate the relationship among 1l populations of $M$ peltata. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将上述6种遗传成分所在种群的地理分布区作为地区层次进行AMOVA分析。结果显示地区间、种群间与种群内的遗传变异分别占总变异量的 $6 7 \\% . 2 7 \\%$ 和 $6 \\%$ ，揭示盾叶苣苔的遗传变异主要来源于不同地区种群的遗传差异(表2)。DnaSP 估计种群间的平均基因流 $N _ { \\mathrm { m } } = 0 . 0 4$ ，种群间遗传分化系数 $F _ { \\mathrm { S T } } = 0 . 8$ 。Manteltest显示地理距离和遗传距离存在一定相关性(相关性系数 $r = 0 . 3 2 2$ ， $P = 0 . 0 1 0 ^ { \\cdot }$ 。基于单倍型计算的盾叶苣苔总遗传多样性 $H _ { \\mathrm { T } } = 0 . 9 9 8 ( \\pm 0 . 0 1 2 1 )$ ，种群内平均遗传多样性 $H _ { \\mathrm { S } } = 0 . 6 2 4 ( \\pm 0 . 0 7 6 8 )$ ，而基于DNA序列计算的盾叶苣苔物种水平核苷酸多样性 $\\pi = 0 . 0 2 3 5$ ，单种群核苷酸多样性在0-0.0046之间，远低于物种水平的遗传多样性。度量种群遗传分化的指数 $G _ { \\mathrm { S T } }$ 和 $N _ { \\mathrm { S T } }$ 分别为 $0 . 3 7 5 \\left( \\pm 0 . 0 7 8 1 \\right)$ 和 $0 . 9 3 3 \\left( \\pm 0 . 0 1 5 2 \\right)$ ， $N _ { \\mathrm { S T } }$ 显著大于 $G _ { \\mathrm { S T } } \\left( P < 0 . 0 0 1 \\right)$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/95bc66a6e63d16b92a2ff9c86654efb6d0bc187633e496fdfa32839b05dd69dc.jpg",
+        "table_caption": [
+            "表2盾叶苣苔AMOVA分析结果。",
+            "Table 2 Results of analyses of molecular variance(AMOVA) for M. peltata. "
+        ],
+        "table_footnote": [
+            "注：\\*以 Structure 分析确定的6种遗传成分所在地区作为地区层次进行AMOVA分析。 Note:\\*AMOVAanalysis was carredout at theregional level with thesix geneticcomponents identifiedby Structureanalysis. "
+        ],
+        "table_body": "<html><body><table><tr><td>变异来源</td><td>自由度</td><td>平方和</td><td>均方</td><td>估测变异</td><td>百分比(%)</td><td>P值</td></tr><tr><td>Source of variation</td><td>df</td><td>SS</td><td>MS</td><td>Estimated Variation</td><td>Percentage</td><td>P value</td></tr><tr><td>地区间*</td><td>5</td><td>1129.178</td><td>225.836</td><td>6.758</td><td>67%</td><td>0.001</td></tr><tr><td>Among Regions</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>种群间</td><td>5</td><td>209.993</td><td>41.999</td><td>2.739</td><td>27%</td><td></td></tr><tr><td>Among Populations</td><td></td><td></td><td></td><td></td><td></td><td>0.001</td></tr><tr><td>种群内</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Within Populations</td><td>161</td><td>90.899</td><td>0.565</td><td>0.565</td><td>6%</td><td>0.001</td></tr><tr><td>总计</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>171</td><td>1430.070</td><td></td><td>10.062</td><td></td><td></td></tr><tr><td>Total</td><td></td><td></td><td></td><td></td><td>100%</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3．讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1海南岛地理隔离对盾叶苣苔遗传变异空间分布的影响 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "昌化江河谷将海南岛中南部山地分割，形成山地内部彼此隔离的地理格局(图1)。隔离将减弱甚至阻断基因交流，是种群遗传分化的主要原因(Slatkin,1987; Ouborg,1999;Manel etal.,2003)。通常 $G _ { \\mathrm { S T } } > 0 . 2 5$ 即表明种群间有很强的遗传分化(Buso etal.,1998)。盾叶苣苔的 $G _ { \\mathrm { S T } } = 0 . 3 7 5$ ，显示不同地理种群存在强烈的遗传分化。基因流可以降低种群分化，但如果基因流较弱 $( N _ { \\mathrm { m } } < 1 )$ ，则不能抵挡由隔离引起的种群趋异(Slatkin,1985)。盾叶苣苔生长在林下、溪边及石缝中，植株矮小，其花粉和种子传播的距离很有限。加之昌化江河谷的隔离作用，不同地理种群发生基因流的可能性较小。本研究估计盾叶苣苔的基因流 $N _ { \\mathrm { m } } = 0 . 0 4$ ，远小于1，显示种群间基因交流很有限，这与盾叶苣苔种群存在强烈遗传分化的结果一致。Structure 分析确定了6种遗传成分，其中4种（I、II、III、IV)分布在昌化江以北，成分V和VI分布在昌化江的西南与东南，同侧种群因山谷与昌化江支流的隔离作用而进一步分化为不同的遗传成分。单倍型网络和种群聚类分析揭示，分布在昌化江东南的盾叶苣苔与其余种群有较大的遗传分化(图2，图4)。昌化江河谷阻断了东南种群与北部种群的基因交流，而五指山与仙安石林间的山谷导致东南与西南两地种群隔离，形成昌化江以北、东南和西南三地彼此隔离的地理格局(图1)。盾叶苣苔6种遗传成分的地理分布，以及地理种群的聚类关系与海南岛中南部山地的隔离样式大致吻合，进一步证实海南岛昌化江河谷造成的地理隔离是导致盾叶苣苔遗传分化的重要原因。邢婀娜等(2018)利用ITS序列变异研究海南特有种毛花马铃苣苔Oreocharis dasyanthaChun 遗传变异的水平与地理分布，结果发现毛花马铃苣苔在昌化江河谷两侧有较明显的分化，推测隔离是河谷两侧种群遗传趋异的主要原因。苦苣苔科植物受到地理隔离的影响容易发生明显的遗传分化。比如报春苣苔属中国特有种牛耳朵 Primulina eburnean (Hance)Yin Z.Wang 生长在中国西南部的石灰岩地区，有东西两个主要分布区，间隔距离大约200 公里。Gao etal.(2015)发现西部与东部的牛耳朵种群存在明显分化（20 $( F _ { \\mathrm { S T } } = 0 . 6 6 5 )$ ，认为地理隔离是导致东西两地种群出现遗传分化的重要因素。综上，本研究揭示盾叶苣苔遗传变异的地理分布与海南山地的隔离样式基本一致，表明地理隔离是促使盾叶苣苔遗传分化格局形成的重要因素。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2盾叶苣苔的遗传多样性 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "一般认为特有种、狭域种或濒危种的遗传多样性较低(Elstrand & Elam,1993;Hamrick& Godt,1996)，但也有研究显示这些物种仍能维持较高水平的遗传变异。这可能是由于种群间发生了剧烈遗传分化，虽然单个种群的多样性不高，但整个物种却具有较高水平的遗传变异(Dixo etal.,2009)。例如青藏高原濒危植物唐古特大黄Rheum tanguticum Maxim.exBalf.的种群稀少，但总遗传多样性较高 $( H _ { \\mathrm { T } } = 0 . 6 3 2 )$ (王爱兰和李维卫,2017)。唐古特大黄经历了漫长的种群分化，不同地理种群的遗传分歧很大，导致物种水平的遗传多样性较高。同时唐古特大黄异交的繁育系统也使得遗传变异能长期维持在种群中。使用ITS序列我们估计盾叶苣苔物种水平的遗传多样性( $\\mathrm { \\Delta } H _ { \\mathrm { T } } = 0 . 9 9 8$ ， $\\pi = 0 . 0 2 3 5 )$ 远高于单个种群的变异(种群内平均遗传变异 $H _ { \\mathrm { S } } =$ 0.624， $\\pi = 0 { - } 0 . 0 0 4 6 ) ( ☉$ 1)。海南岛中南部山地被昌化江河谷及山谷分割，导致盾叶苣苔种群显著分化，在物种水平具有较丰富的遗传变异。Song&Thomas (2007)研究多年生草本植物 Boechera fecunda 发现，该种遗传结构受地理隔离影响，基因流被阻断，种群显著分化 $( F _ { \\mathrm { S T } } = 0 . 5 7 )$ ，导致物种整体维持较高水平的遗传变异 $( H _ { \\mathrm { T } } = 0 . 4 6 )$ 。与盾叶苣苔地理分布和繁育系统类似的 Elymus glaucus，岛屿特有多年生草本植物Lithophragmamaximum，以及海南岛特有植物毛花马铃苣苔，均因地理隔离引起种群强烈分化，使得物种的遗传多态性水平较高(Furches et al.,2008; Hufford et al.,2013；邢婀娜等,2018)。物种维持高水平遗传变异的另一原因是祖先多态性没有发生显著丧失(Frankham& Briscoe,2005)。苦苣苔科报春苣苔(Primulinatabacum Hance)是我国华南石灰岩地区的特有种，仅分布在湖南和广东交界的狭窄地区，但物种水平的遗传多样性较高 $( \\mathrm { P P B } { = } 8 5 . 6 \\%$ ， $\\scriptstyle H _ { \\mathrm { E } } = 0 . 3 3 9$ ， $\\scriptstyle I = 0 . 4 9 5$ )(Ni et al.,2006)。Ni etal.(2006)认为报春苣苔在冰期通过避难所保留了大部分祖先多态性，因此该种目前的遗传变异仍然比较丰富。由于盾叶苣苔分布在低纬度热带地区，第四纪冰期的扰动对其影响甚微，故遗传变异能够稳定的维持在种群中(颜家安,2006；陈冬梅等，2011)。因此盾叶苣苔种群间遗传分化和祖先多态性维持可能是其物种水平具有较高遗传多样性的主要原因。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3盾叶苣苔的保护措施",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "岛屿特有种一般种群规模小，生境脆弱，且分布范围狭窄，比大陆种群或物种更易濒危或灭绝(Ortegaet al.,2000)。盾叶苣苔为海南特有种，对生境要求严格，只生长在湿润崖壁上或石壁夹缝中，目前因生境退化种群持续缩减(韦毅刚,2010)。本研究揭示盾叶苣苔 $67 \\%$ 的遗传变异存在于地区间，因此需要尽可能多的保护不同地理种群，以维持盾叶苣苔物种水平的遗传多样性。11个种群中， $\\mathrm { N G } ( \\pi = 0 . 0 0 0 0$ $H _ { \\mathrm { d } } = 0 . 0 0 0 0$ 在ITS序列上无变异，YG( $\\mathfrak { \\pi } = 0 . 0 0 0 6$ $\\begin{array} { r } { H _ { \\mathrm { d } } = 0 . 3 8 1 0 \\} } \\end{array}$ 的变异水平很低，应作为重点种群优先保护，同时引入不同基因型个体以增加NG与YG的遗传变异。考虑到盾叶苣苔具有6种遗传成分，因此每种成分都应予以保护，并且昌化江以北的YG(I)、JX(II)与LM(IV)各自具有独特遗传成分，且只存在于单个种群，因此这些种群也应优先保护。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BANDELT HJ,FORSTER P, ROHL A,1999. Median-joining networks for inferring intraspecific phylogenies[J]. Mol Biol Evol, 16(1): 37-48.   \nBUSO GSC,RANGEL PH,FERREIRA ME,1998. Analysis of genetic variability of South American wild rice populations (Oryza glumaepatula) with isozymes and RAPD markers[J]. Mol Ecol, 7(1): 107-117.   \nCHEN DM,KANG HZ,LIU CJ,2011. An Overview on the Potential Quaternary Glacial Refugia of Plants in China Mainland[J],Bull Bot Res,31(5):623-632.[陈冬梅，康宏樟，刘春江,2011．中国大陆第四纪冰期 潜在植物避难所研究进展[J]．植物研究,31(5):623-632.]   \nDAI ZF,LUO GY,2009.Resources of Wild Gesneriaceae Ornamental Plant in Tropical Region of China[J], Guizhou Acta Sci,37(1):13-15.[代正福，罗冠勇,2009.中国热带特有野生苦苣苔科观赏植物资源[J]. 贵州农业科学,37(1):13-15.]   \nDIXO M,METZGER JP,MORGANTE JS,et al.，2009.Habitat fragmentation reduces genetic diversity and conectivity among toad populations in the Brazilian Atlantic Coastal Forest[J]. BIOL CONSERV,142(8), 1560-1569.   \nDOYLE J,1990. Isolation of plant DNA from fresh tissue[J]. Focus,12(1), 13-15.   \nDUAN YZ, ZHANG DJ, GAO QB, et al., 2010. Characteristic of Molecular Evolution of Sibiraea angustata Based on nrDNA ITS and cpDNA trnL-F Squnece Analysis[J]. Bull Bot Res,30(2): 146-151.[段义忠，张 得钧，高庆波，等,2010．窄叶鲜卑花(Sibiraea angustata) nrDNA ITS 和 cpDNA trnL-F 序列分子进化特 点的分析[J]．植物研究,30(2):146-151.]   \nELLSTRAND NC, ELAM DR,1993. Population genetic consequences of small population size: implications for plant conservation[J]. Ann Rev Ecol Syst, 24(24): 217-242.   \nEVANNO G,REGNAUT S,GOUDET J,2005. Detecting the number of clusters of individuals using the software STRUCTURE: A simulation study[J]. Mol Ecol, 14(8): 2611-2620.   \nFRANKHAM R,BRISCOE DA (translated by HUANG HW, KANG M),2005. Introduction to Conservation Genetics[M],Beijing: Science Press.[FRANKHAMR,BRISCOE DA（黄宏文，康明，译）,2005．保育遗 传学导论[M]．北京：科学出版社.]   \nFURCHES MS, WALLACE, LE, HELENURM K, 2009.High genetic divergence characterizes populations of the endemic plant Lithophragma maximum(Saxifragaceae) on San Clemente Island[J]. Conserv Genet,10(1), 115-126.   \nGAO Y,AIB,KONG H,et al.,2015. Geographical paternof isolation and diversification in karst habitat islands: a case study in the Primulina eburnea complex[J]. J Biogeogr, 42(11): 2131-2144.   \nHAMRICK JL, GODT MJW,1996.Effects of life history traits on genetic diversity in plant species[J]. Phil Trans Roy Soc B-Biol Sci, 351(1345): 1291-1298.   \nHUFFORD KM, MAZER SJ,HODGES SA,2013. Genetic variation among mainland and island populations of a native perennial grass used in restoration[J]. AoB Plants, 6(3): 623-626.   \nJAKOBSSON M, ROSENBERG NA,2007. CLUMPP: A cluster matching and permutation program for dealing with label switching and multimodality in analysis of population structure[J]. Bioinformatics，23(14): 1801-1806.   \nKUMAR S, NEI M, DUDLEY J, et al., 2008. MEGA: A biologist-centric software for evolutionary analysis of DNA and protein sequences[J]. Brief Bioinform, 9(4): 299-306.   \nLI ZY,WANG YZ, 2005. Plants of Gesneriaceae in China[M]. Zhengzhou: Henan Science and Technology Publishing House.[李振宇，王印政,2005．中国苦苣苔科植物[M]．郑州：河南科学技术出版社.]   \nLIBRADO P,ROZAS J, 2009.DnaSP v5: A software for comprehensive analysis of DNA polymorphism data[J]. Bioinformatics, 25(11): 1451-1452.   \nLING SJ，MENG QW，TANG L，et al.，2017. Gesneriaceae on Hainan Island: distribution patterns and phylogenetic relationships[J],Biodivers Sci,25(8): 807-815.(in Chinese with English abstract)[凌少军，孟 千万，唐亮，等,2017.海南岛苦苣苔科植物的地理分布格局与系统发育关系[J].生物多样性,25(8): 807-815.]   \nMANEL S, SCHWARTZ MK, LUIKART G, et al., 2003.Landscape genetics: combining landscape ecology and population genetics[Review][J]. Trend Ecol Evolut, 18(4): 189-197.   \nMANTEL N，1967. The Detection of Disease Clustering and a Generalized Regression Approach[J]. Appl Microbiol Biotechnol, 59(2-3): 209-220.   \nNI X,HUANG Y,WU L,et al.,2006.Genetic diversity of the endangered Chinese endemic herb Primulina tabacum (Gesneriaceae） revealed by amplified fragment length polymorphism (AFLP)[J]. Genetica, 127(1-3): 177-183.   \nORTEGA JF,GUERRA AS, KIM SC,et al.,2000. Plant genetic diversity in the Canary Islands: a conservation perspective[J]. Amer JBot, 87(7): 909-919.   \nOUBORG NJ,PIQUOT Y, GROENENDAEL JMV,1999. Population genetics, molecular markers and the study of dispersal in plants[J]. JEcol, 87(4): 551-568.   \nPEAKALL R, SMOUSE PE, 2012. GenAlEx 6.5: genetic analysis in Excel. Population genetic software for teaching and research-an update[J]. Bioinformatics, 28(12): 2537-2539.   \nPONS O,PETITRJ,1996. Measuring and testing genetic differentiation with ordered versus unordered aleles[J]. Genetics,144(3): 1237-1245.   \nPRITCHARD JK, STEPHENS M, DONNELLY P,2000.Inference of Population Structure Using Multilocus Genotype Data[J]. Genetics,155(2): 945-959.   \nRAYMOND M, ROUSSETF,1995. An exact test for population diferentiation[J]. Evolution, 49(6): 1280-1283.   \nSHI YH, XU SS,HUANG JW,2011. Evaluation of wild plant resources and their ornamental characteristics of Hainan chicory[J].N Hortic,2011(11),79-82.[史佑海，徐世松，黄觉武,2011．海南苦苣苔科野生植物 资源及其观赏特性评价[J].北方园艺,2011(11):79-82.]   \nSLATKIN M,1985. Gene flow in natural populations[J]. Annu Rev Ecol Syst, 16(1): 393-430.   \nSLATKIN M,1987. Gene flow and the geographic structure of natural populations[J]. Science,236(4803): 787-792.   \nSONG BH, THOMAS MO,2007. High genetic diversity and population diferentiation in Boechera fecunda,a rare relative of Arabidopsis[J]. Mol Ecol, 16(19),4079-4088.   \nSTUESSY TF, TAKAYAMA K, LOPEZSEPULVEDA P, et al.， 2014.Interpretation of paterns of genetic variation in endemic plant species of oceanic islands[J]. Bot JLinn Soc,174(3),276-288.   \nTAMURA K, STECHER G, PETERSON D,et al.， 2013. MEGA6:Molecular evolutionary genetics analysis version 6.0.[J]. Mol Biol Evol, 30(12),2725-2729.   \nWANG AL,LI WW,2017. Genetic diversityofan endangered species,Rheum tanguticum (Polygonaceae),on the Qinghai-Tibetan Plateau[J].Acta Ecol Sin,37(21):7251-7257.[王爱兰，李维卫,2017．青藏高原濒危植 物唐古特大黄的遗传多样性[J].生态学报,37(21):7251-7257.]   \nWANG C,LIANG XQ,ZHOU Y,et al.,2015. Construction ofage frequencies of provenances on the eastern side of the Yinggehai Basin: Studies of LA-ICP-MS U-PB ages of detrital zircons from six modern rivers, western Hainan,China[J].Earth Sci Front,22(4):277-289.[王策，梁新权，周云，等,2015．莺歌海盆地东 侧物源年龄标志的建立:来自琼西6条主要河流碎屑锆石LA-ICP-MS U-PB 年龄的研究[J].地学前缘, 22(4): 277-289.]   \nWANG XX,LE JP,SUNH, et al.,2011. Phylogeographical Studyon Eriophyton wallichii (Labiatae)from Alpine Scree of Qinghai-Tibetan Plateau[J].Plant Divers Resour,33:605-614.[王晓雄，乐霁培，孙航，等,2011. 青藏高原高山流石滩特有植物绵参的谱系地理学研究[J]．植物分类与资源学报,33,605-614.]   \nWANG ZS,AN SQ,LENG X,et al., 2004. Population genetic diversity of the insular plant Neolitsea sericea based on random amplified polymorphic DNA (RAPD)[J]. Acta Ecol Sin,24(3): 414-422.[王中生,安树青, 冷欣，等,2004．岛屿植物舟山新木姜子居群遗传多样性的RAPD 分析[J]．生态学报,24(3):414–422.]   \nWEI YG,2010. Gesneriaceae of South China[M]. Nanning: Guangxi Science and Technology Publishing House. [韦毅刚,2010.华南苦苣苔科植物[M]．南宁:广西科学技术出版社.]   \nWEN F,2008.Studies on Investigation and Introduction of Wild Ormamental Resources of Gesneriaceae in Guangxi,PhD dissertation[D],Beijing:Beijing Forestry University.[温放,2008．广西苦苣苔科观赏植物 资源调查与引种研究[D].北京：北京林业大学.]   \nWHITE TJ, BRUNS T,LEE S,et al.,1990. Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In: PCR Protocols: a guide to methods and applications (eds Innis MA, Gelfand DH, Sninsky JJ,White TJ)[J]. New York: Academic Press: 315-322.   \nXING EN, XU ST,REN MX, 2018. Age structure and gene flows of fine-scale populations of Oreocharis dasyantha (Gesneriaceae),anAlpine herb endemic to Hainan Island[J].JTrop Biol,1(9): 37-46.[邢婀娜, 徐诗涛，任明迅,2018．海南特有毛花马铃苣苔小尺度局域种群的年龄结构与基因流[J]．热带生物学报 ,1(9): 37-46.]   \nXINGFW,2012.Inventory of Plant Species Diversity of Hainan[M].Wuhan: Huazhong University of Science and Technology Press.[邢福武,2012．海南植物物种多样性编目[M]．武汉：华中科技大学出版社.]   \nXING GY,2004.Starting from the initial establishment of Hainan Island[J].Hainan Arch,3: 43-47.[邢关英, 2004．从海南岛最初设治说起[J]．海南档案,3:43-47.]   \nXU WB,GUO J,PAN B, ZHANG Q,et al.,2017. Diversity and distribution of Gesneriaceae in China[J], Guihaia,37(10),1219-1226.[许为斌，郭婧，盘波，等,2017．中国苦苣苔科植物的多样性与地理分布 [J].广西植物,37(10):1219-1226.]   \nYAN JA,20o6.Paleontology and ecologic environmental evolution of the quaternary in Hainan Island[J].J Palegeogr,8(1):103-115.[颜家安,2006.海南岛第四纪古生物及生态环境演变[J]．古地理学报,8(1): 103-115.]   \nYU ZY,2012.Regulation Mechanism of Tourist Ecological Effect Must be Established to Build Hainan into International Tourism Island of Hainan[J].Ecol Environ,1:166-170.[余中元,2012．国际旅游岛建设旅游 用地生态效应调控机制研究[J].生态经济(中文版),1:166-170.]   \nZHOU ZG,2015.Analysis on the ecological compensation mechanism of the three major rivers in Hainan Island[C].The Chinese lake BBS.Changchun.[周祖光,2015．海南岛三大河流生态补偿机制探析[C]．中 国湖泊论坛.长春] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

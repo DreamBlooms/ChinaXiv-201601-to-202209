@@ -1,0 +1,555 @@
+[
+    {
+        "type": "text",
+        "text": "宁夏地区汉代丝绸之路沿线村落遗址空间分布及其影响因素分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李冀宁，刘晚莹",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(陕西师范大学西北历史环境与经济社会发展研究院，陕西 西安710119)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：主要运用历史文献分析法和GIS空间分析法，总结宁夏地区汉代丝绸之路沿线98个村落遗址空间分布特征。结果表明：该区域村落遗址空间上已呈现1个集聚中心和4个次集聚中心，且在今固原市辖域内形成一处“西北一东南\"空间集聚分布区。古遗址具有较为明显的濒水特征,距水源 $1 ~ \\mathrm { k m }$ 以内者占总数的 $5 4 . 0 8 \\%$ ，且多集中于坡度 $2 ^ { \\circ } { \\sim } 6 ^ { \\circ }$ 的丘陵、台地阳坡上。为更加准确地探求自然环境和人文社会各影响因子对研究区域内村落遗址空间格局的影响作用，故引入地理探测器予以分析。可知除以水源为典型代表的自然环境等要素制约村落的形成与发展外，中心聚落和交通区位共同构成主要影响因素，前者更是主导因素。至迟于汉代，已出现人文社会诸要素对村落选址分布的决定程度远超自然环境各要素这一变化趋势。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：汉代；丝绸之路；村落遗址；空间分布；影响因素",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "丝绸之路是起始于中国，连接亚洲、非洲和欧洲的古代商业贸易和文化交往陆路要道。我国近现代丝绸之路研究始于20世纪70年代，现有成果多以历史文献为主、辅以近现代考古发掘报告作为资料来源，核心研究议题集中在道路沿革轨迹、兴衰变迁原因、经济贸易成就、中外文化交流、城镇发展建设、民族关系演变、宗教民俗异同、作物传入传播及出土文物保护等方面，这与丝绸之路研究自身交叉综合性特点有关。近数十年来学界虽对丝绸之路问题关注较多，研究对象也渐趋多元化，但缺少就其沿线分布古代村落空间文脉方面分时段或划区域的综合性研究。现零星可见者又多以明清以降且保留至今的传统村落和传统民居建筑为切入点[1-4],研究深度相对不足，研究内容过于宽泛，大多仅对村落形成发展影响因素简单罗列，而不予深究[5-7]。另从研究区域来看，现阶段对宁夏地区丝绸之路所作研究工作较陕西、甘肃、新疆三地整体较为薄弱，研究成果不够丰富。再者，目前定性研究居多却少有以庞大而精细数据信息为支撑的系统性实证研究。因此，应加强对宁夏地区历史时期丝绸之路沿线村落建设发展及其相关史实的关注与挖掘，这无疑具有重要历史意义和学术价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着共建“一带一路”的内涵不断深化，学界关于丝绸之路的研究仍方兴未艾，其中尚有诸多问题需继续探索。在既有研究基础上，现代地理学所常用遥感影像、环境复原、空间分析等新型技术手段与历史学、考古学、建筑学等传统学科体系相互交叉结合[8-11],建立完整的数据信息平台[12-14],借助技术方法优化数据处理路径[15-16],并尝试构建理论模型[17-18],从而为定量化、可视化、数字化阐释历史现象和看待历史问题提供了更新的思路和更多的参考。鉴于此，本文主要运用历史文献分析法和GIS空间分析法，复原宁夏地区汉代丝绸之路沿线村落遗址空间格局,总结分布特征,并引入地理探测器探究各影响因子对其的决定程度，寻求最为重要的主导因素，以揭示自然地理环境及其各要素",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与人类活动的密切关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "两汉时期,丝绸之路东段北道开辟时间早于南道、中道，行程总长偏短，平坦易行，是当时关中平原通往河西走廊的主干道，其路线经今宁夏境内长达近 $2 0 0 ~ \\mathrm { k m }$ 。综合考虑当时政治、经济、文化等方面影响辐射范围，遵循不破坏县(市、区)行政辖域原则，确定以宁夏地区汉代丝绸之路所经今固原市1区2县(即原州区、彭阳县和泾源县)和中卫市1县(即海原县)为本文研究区域范围(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2村落遗址认定标准",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "至迟于秦汉，村落相对于城郭来说是更为广泛的存在。乡里之制既成定制，十分完备，成为当时乡村社会的基本组织单位。现聚落考古学研究已表明，有关日常生产生活方面的住宅、窖穴、水井、陶窑、广场、道路、庙宇、村墙、壕沟、墓地诸内容均是当时村落的基本构成。其中，住宅与坟莹是村落最为核心的构成要素，无住宅则无村落，凡有村落处必有坟莹，且多邻近村居。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如是，按已勘汉代城址遗迹及其他史料记载，除现已发掘各类汉代县级(含县级)行政区划以上驻地(包括郡都尉治、县治）宫观建筑(群）长城等军事防御设施及诸如驿馆、卫城等人口达到一定规模、主要从事非农业生产活动的居民聚居地辖域按实勘范围而论，本文以规模较大城邑不超 $1 . 0 \\mathrm { k m } ^ { 2 }$ ）规模一般城邑面积 $0 . 1 \\mathrm { k m } ^ { 2 }$ 左右、规模较小城邑范围大至 $0 . 0 1 \\ \\mathrm { k m } ^ { 2 }$ 作为非汉代乡村区域。查阅《西汉安定郡属县治城新探》《汉书》2以及已有考古调查报告等文字资料，又参照第二次全国文物普查成果之《中国文物地图集·宁夏回族自治区分册》2中大量序图、专题文物图、市县文物图和重点文物图，如《宁夏回族自治区历史图 $( - ) \\rangle$ ,确定出宁夏地区汉代丝路沿线高平等郡县治所、瓦亭故城等关堡要塞及回中宫等皇家宫苑各类汉代城邑位置范围。基于此，在各类汉代城邑城域以外范围，且有可作为直接判定标志的古遗址，包括白灰居住面、红烧土层、夯层、灰坑、灰层、砖瓦、柱础石、铺地砖、灶坑、圈栏、水井、水渠、围沟、村墙、广场、庙宇、道路、窑场、窖藏、粮食朽壳、动物骸骨、工艺装饰品、生产工具及日常生活用具等相关居址信息，亦或可视为间接指代指标的古墓葬(群)为汉代村落遗址，并以此作为本文择址选点标准。需要强调的是，为避免发生重复认定情况，则视古遗址和古墓葬(群)同名者、非同名古遗址和古墓葬(群)或非同名古墓葬(群)之间直线距离 $\\leqslant 5 0 0 \\mathrm { ~ m ~ }$ 者为同一村落遗址点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数据来源与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以第二次全国文物普查成果之《中国文物地图集·宁夏回族自治区分册》所列各文物单位简介为主要依据，并查阅补充《固原县志》22《泾源县志》[23]《海原县志》[24]以及《彭阳县文物志》[25]等沿途市县地方方志、文物志中的有关内容。同时，继续注：该图基于由国家测绘地理信息局标准地图服务网站下载的审图号为GS(2017)1267号标准地图制作，底图边界无修改。下同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8e92c2125ccdbd97a32a40cc83bbec469914262e66ffbff3aa6722b52a5d78f.jpg",
+        "img_caption": [
+            "图1研究区示意图",
+            "Fig.1 Schematic diagram of study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "增添《彭阳县志(下卷)》2《原州区文物志》7和《彭阳历史文物》[28]等近来公开出版史籍专著章节及附录名录中的最新内容，对中卫、固原二市县(市、区)内符合上述汉代村落遗址点筛选标准的文物单位予以归纳整理。并结合《宁夏回族自治区秦汉遗存图》2等专题文物图和中卫、固原二市下辖各区（县）文物图参照比对，使用BIGEMAP软件获取宁夏地区汉代丝路沿线村落遗址地理坐标，最终提取出98条遗址遗存点数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文研究区域大部分位于六盘山区，历史时期地貌状况较现代未发生较大变化，故地形数据采用地理空间数据云网站(http://www.gscloud.cn/)GDEMV2 $3 0 \\mathrm { m }$ 分辨率的DEM数据。在ArcGIS10.2地理信息系统软件中加载DEM数据进行处理，以获取研究区域内坡度、坡向和起伏度的分布状况。因现已知的98个村落遗址点地理坐标主要依据各遗址遗存的中心经纬度而确定，故以此点数据进一步提取出其相应所处位置的坡度、坡向和起伏度数据作为各村落遗址所在地形地貌区的典型代表；汉代水源数据主要由河流、湖泊共同构成。研究区域内河流总体流向与历史时期基本一致，则以《水经注》[29]《中国历史地图集》[30]为基础，参照现代河网数据保留自然河流，绘制出汉代河流。又据今人研究成果[31，补绘汉代湖泊，以最大限度复原当时水源基本情况;研究区域内汉代道路主要包括有瓦亭道、鸡头道、回中道、茹河道、泾河道和河陇北道，其矢量数据基于河陇地区历史交通研究成果[32-35]中提及的汉代道路途经地点、现存遗址遗迹等基础信息最终生成。此外，考虑研究区域多处于山地地带，古道整体走向变化不大。则既有研究资料不足者，可依据地形地貌状况再结合现代道路补充完善，尽可能地复原出该地区汉代主要交通网络；现代河网与道路数据均来源于全国地理信息资源目录服务系统（www.webmap.cn)1:1000000全国基础地理信息数据库。以上所有数据均为WGS-1984坐标系，并采用阿尔伯斯(AIbers)等积圆锥投影。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主要运用历史文献分析、平均最邻近指数和核密度估计方法认识村落遗址空间分布特征。在探究村落遗址空间分布影响作用时，则采用地理探测器单因子分析来确定各影响因子决定程度强弱。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1历史文献分析多角度、多途径、多手段搜集查阅各类史料文献，从而最大限度地满足原始数据积累。再依照相应标准科学合理地筛选整理现有资料，实现数据标准化处理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2平均最邻近指数采用平均最邻近指数（Averagenearestneighbor，ANN)来判别村落遗址空间分布特征。主要将村落遗址点的中心及其最近邻村落遗址点间的平均距离与假设随机分布情况下的期望平均距离进行比较，获取二者比值即平均最邻近指数 $\\boldsymbol { R } _ { n }$ ,其公式如下[36]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { _ n } = \\frac { \\bar { D } _ { \\mathrm { 0 } } } { \\bar { D } _ { \\mathrm { E } } } = \\frac { 2 \\sqrt { n / A } } { n } \\sum _ { i = 1 } ^ { n } d _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\bar { D } _ { \\mathrm { o } }$ 为村落遗址点与其最邻近村落遗址点的观测平均距离； $\\bar { D } _ { \\mathrm { E } }$ 为村落遗址点随机分布情况下的预测平均距离； $n$ 为村落遗址点数量；A为研究区面积； $d _ { i }$ 为村落遗址点 $i$ 与其最邻近村落遗址点间的距离。若 $R _ { n } < 1$ ，村落遗址分布特征为聚类；反之，若 $R _ { n } > 1$ ，则分布特征趋向离散。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.3核密度估计核密度估计(Kernel density es-timation，KDE)是一种应用较为广泛的密度分析方法。通过空间平滑技术处理离散的点状数据，再根据单位空间范围内点的密度估算出样本点周围邻域中的密度，并将其拟合成光滑表面[37],核密度值越高，则表明研究区域内村落遗址空间分布越集中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.4地理探测器地理探测器中的因子探测工具可用于分析自然诸要素和人文诸要素对村落遗址分布的影响作用，即探求某因子 $X$ 在多大程度上解释了属性Y的空间分异[38]。使用 $q$ 值度量,其表达式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq = 1 - \\frac { \\displaystyle \\sum _ { h = 1 } ^ { L } N _ { h } \\sigma _ { h } ^ { 2 } } { N \\sigma ^ { 2 } } = 1 - \\frac { \\mathrm { S S W } } { \\mathrm { S S T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $h { = } 1 , \\cdots , L$ 为变量Y或因子 $X$ 的分层(Strata），即分类或分区； $N _ { h }$ 和 $N$ 分别为层 $h$ 和全区的单元数; $\\sigma _ { h } ^ { 2 }$ 和 $\\sigma ^ { 2 }$ 分别为变量 $Y$ 在层 $h$ 和全区的方差；SSW和SST分别为层内方差之和及全区总方差； $q$ 的值域为[0,1]， $q$ 值越大，表示 $X$ 和Y的空间分布越一致，自变量 $X$ 对属性Y的解释力越强，反之则越弱。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1村落遗址空间分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用ArcGIS10.2地理信息系统软件平均最邻",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近距离工具，可计算出村落遗址观测平均距离为$3 9 5 0 . 6 2 \\mathrm { ~ m ~ }$ ,预测平均距离为 $5 3 9 3 . 8 4 \\mathrm { ~ m ~ }$ ,平均最邻近指数 $\\boldsymbol { R } _ { n }$ 为0.73。满足 $R _ { n } < 1$ ，表明研究区域内村落遗址呈集聚分布。进而利用ArcGIS10.2地理信息系统软件核密度分析工具，在对搜索半径多次赋值试验后，最终确定以 $1 0 \\mathrm { k m }$ 为搜索半径对宁夏地区汉代丝路沿线村落遗址集聚分布情况以分析处理，效果最佳，并获得遗址点核密度空间分布特征（图2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c9af7cd37301a7ea0ceeca18f6751316327c1852b851174ca2cfd448d0fc8d2.jpg",
+        "img_caption": [
+            "图2宁夏地区汉代丝绸之路沿线村落遗址核密度空间分布特征",
+            "Fig.2 Spatial distribution characteristics of nuclear density of village sites along the Han Dynasty Silk Road in Ningxia "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图所示，汉高平城西南广大地区，即今原州区开城镇、中河乡一带，核密度值最大，空间集聚度最高，是整个宁夏地区汉代丝路沿线村落遗址分布唯一一个集聚中心。此外，还有4个次集聚中心，其分别为：(1)汉朝那城西南山地地带，即今彭阳县古城镇、新集乡一带；(2)汉朝那城东茹河河谷，即今彭阳县城阳乡一带；(3)汉高平城东南与朝那城北之间山地地带，即今原州区河川乡一带；(4)汉高平城西北西河河谷（直线距离约 $1 0 0 \\mathrm { k m } ,$ ，即今海原县西安镇一带。其中，今固原市所辖的1个集聚中心和3个次集聚中心已共同构成了一处“西北一东南”空间集聚分布区。若以汉高平城为界分析可知，其以北村落遗址分布密度为0.0035个， $\\cdot \\mathrm { k m } ^ { - 2 }$ ,其以南村落遗址分布密度则为0.0554个， $ { \\mathrm { k m } } ^ { - 2 }$ ,北部分布密度值亦远小于南部。综上所述，宁夏地区汉代丝路沿线村落遗址在整体空间格局上具有集中分布且南多北少的显著特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2村落遗址空间分布影响因素",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "村落空间格局形成、发展、演变等过程受各种因素共同影响和制约，各因素之间存在着复杂而紧密的联系。综合考虑本文研究范围区域特征、数据易获取性和指标代表性，从坡度、坡向、起伏度、水源、交通区位和中心聚落6个方面对宁夏地区汉代丝绸之路沿线村落遗址空间分布结果以分析认识。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1坡度按《第三次全国国土调查技术规程》中对耕地坡度的分级方法[39],可分为 $< 2 ^ { \\circ } ( \\mathrm { ~ I ~ } ) \\ 、 2 ^ { \\circ } { \\sim } 6 ^ { \\circ }$ (Ⅱ） $6 ^ { \\circ } \\sim 1 5 ^ { \\circ }$ （Ⅲ） $. 1 5 ^ { \\circ } { \\sim } 2 5 ^ { \\circ } ( \\mathrm { ~ W ~ } )$ 和 ${ > } 2 5 ^ { \\circ } ( \\mathrm { ~ V ~ } ) 5$ 个级别。目前，除 $\\mathrm { \\Delta V }$ 级坡度无村落遗址，其余各级坡度村落遗址数量分别占总数的 $6 . 1 2 \\% , 5 4 . 0 8 \\% , 3 4 . 7 0 \\%$ 和 $5 . 1 0 \\%$ 。若按毕硕本等[40]分级方法，则可将坡度分为 $< 1 ^ { \\circ } \\ 、 1 ^ { \\circ } \\sim 3 ^ { \\circ } \\ 、 3 ^ { \\circ } \\sim 6 ^ { \\circ } \\ 、 6 ^ { \\circ } \\sim 1 0 ^ { \\circ } \\ 、 1 0 ^ { \\circ } \\sim 1 5 ^ { \\circ }$ 及 $> 1 5 ^ { \\circ } \\ 6$ 个等级，再进一步将坡度分为 $< 3 ^ { \\circ }$ 为非常适宜、适宜人类居住， $3 ^ { \\circ } { \\sim } 6 ^ { \\circ }$ 为较适宜人类居住， $6 ^ { \\circ } \\sim 1 0 ^ { \\circ }$ 为不太适宜人类居住三类。按此分类，除无坡度 $< 1 ^ { \\circ }$ 的村落遗址外，其余各级村落遗址数量分别占总数的$2 0 . 4 1 \\% , 3 9 . 8 0 \\% , 2 3 . 4 7 \\% , 1 1 . 2 2 \\%$ 和 $5 . 1 0 \\%$ 。可见，研究区域内村落遗址所在位置不同于郑洛等地势平坦地区，其更趋于选择略有坡度范围内。该区域以山地地带为主，虽地势平坦之处便于出行、取水以及从事农业生产等日常活动，然也因这类地形自然条件较好却范围有限，故偏向于将其辟为耕地以解决首要生计问题，而非在此居住。同时，宁夏南部属季风气候区，降水多集中，择略有坡度之处定居既可最大限度避免泥石流、山体滑坡等地质灾害的侵扰，又能在一定程度上减弱洪涝等不良影响，保证排水畅通。概之，因自身环境特性，研究区域内村落遗址多在坡度 $2 ^ { \\circ } { \\sim } 6 ^ { \\circ }$ 范围内。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2坡向现按坡向 $9 0 ^ { \\circ } { \\sim } 2 7 0 ^ { \\circ }$ 为光照条件良好、坡向 $4 5 ^ { \\circ } { \\sim } 9 0 ^ { \\circ }$ 和 $2 7 0 ^ { \\circ } { \\sim } 3 1 5 ^ { \\circ }$ 为光照条件一般,坡向 $0 { \\sim } 4 5 ^ { \\circ }$ 和 $3 1 5 ^ { \\circ } { \\sim } 3 6 0 ^ { \\circ }$ 为光照条件偏差对所生成的村落遗址坡向数据予以分类，并依次统计不同坡向区间内遗址点数量，其分别占总数的 $7 3 . 4 7 \\% . 1 7 . 3 5 \\%$ 和$9 . 1 8 \\%$ 。此外，村落遗址是由古遗址和古墓葬(群)两大部分组成。若以 $9 0 ^ { \\circ } { \\sim } 2 7 0 ^ { \\circ }$ 为阳坡，其余为阴坡，则可知：虽古遗址和古墓葬(群)处阳坡者均占半数以上，但古墓葬(群)于阴坡比例明显高出古遗址，前者占比达 $3 5 . 1 9 \\%$ ,后者尚不足其一半，仅$1 5 . 9 1 \\%$ ;而村落遗址于阴坡者中，古墓葬(群)数量占比已高达 $7 3 . 0 8 \\%$ (表1)。古代坟莹择址除重视邻近村居这一原则，还常在大方向上体现着阴宅特性,如坟莹之依山而建则多在山之阴[2]。如上述分析，研究区域内村落遗址恰反映了“阳宅阴坟”的特点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3起伏度使用均值变点法计算确定最佳统计单元为 $1 8 \\times 1 8$ ，并运用ArcGIS10.2地理信息系统软件邻域分析工具提取该统计单元下的起伏度数值。再参考中国陆地1:1000000数字地貌分类体系中的基本地貌类型分类[41-43],按起伏度 $< 3 0 \\mathrm { ~ m ~ }$ 为平原 ${ . 3 0 } { \\sim } 7 0 \\mathrm { m }$ 为台地、 $. 7 0 { \\sim } 2 0 0 ~ \\mathrm { m }$ 为丘陵、 $> 2 0 0 \\mathrm { ~ m ~ }$ 为山地依次划分。因研究区域内起伏度均未超过200$\\mathrm { ~ m ~ }$ ，故只包括有平原、台地、丘陵3种地貌类型。经统算，丘陵地貌村落遗址分布数量最多，共57个，占总数的 $5 8 . 1 6 \\%$ · $3 4 . 6 9 \\%$ 村落遗址分布于台地上；而仅有 $7 . 1 4 \\%$ 村落遗址地处平原地区(表2)。其中，丘陵和台地多于汉高平城以南，汉高平城以北则主要为平原地貌。结合前文所述,汉高平城以南村落遗址集聚程度远高于其以北地区，这与村落遗址起伏度分布特征基本一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "宁夏南部属半湿润、半干旱气候区交界地带，南部六盘山区地处半湿润区，而其北为半干旱区。就水资源条件而言，南部明显优于北部。该区域位于黄土高原边缘地带，土质疏松，降水多且集中，河流冲刷切割作用较强。在保证水源供应基础上，择地势高印且相对平坦丘陵、台地而居，在一定程度上可降低致灾隐患。再者，宁夏南部位据咽喉要冲，是边地游牧少数民族和中原农耕封建王朝必争之地，村落自身安全防御功能在这一背景下渐予强化。自西汉晚期，尤其东汉末年以来，为满足防御而筑的村墙开始兴起并不断发展。根据迄今发掘的汉代村落遗址保存现状来看，以黄土夯筑为主的围墙遗迹已有出现，还不乏壕沟等其他维护村落安全的基础保障设施。相较于同时期远离战争威胁的中原腹地，应对对外防御要求成为当地村落建设一大特点。则,该区域村落多建于地势高亢且略有坡度的丘陵、台地上，除考虑规避自然灾害影响外，凭借山险屏障，居高临下，便于攻防，亦是积极发挥防御守卫作用在这一选址原则上的体现。综上，地形起伏较大的汉高平城一带及其以南区域多村落遗址分布。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.4水源使用ArcGIS10.2地理信息系统软件邻近分析功能，可计算出村落遗址点距水源的欧氏距离。结果表明，村落遗址点距水源 $1 ~ \\mathrm { k m }$ 以内者，共53个，占总数的 $5 4 . 0 8 \\%$ ;有29个村落遗址点距水源$1 { \\sim } 3 \\ \\mathrm { k m }$ ，占比为 $2 9 . 5 9 \\%$ ;而距水源 $3 { \\sim } 5 \\ \\mathrm { k m }$ 和大于5$\\mathrm { k m }$ 的村落遗址点各有14个、2个，分别占总数的$1 4 . 2 9 \\% , 2 . 0 4 \\%$ 。临近水源以便取水灌溉，是人类择址定居基本原则之一。特别是在干旱、半干旱气候区，河流、湖泊等天然水源极其重要，村落选址往往会呈现出较为明显的濒水特征。由此可见，水资源状况同样是影响该区域村落遗址空间分布的重要因素之一。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.5交通区位在复原研究区域内汉代交通要道的基础上，计算出村落遗址点距道路的欧式距离。再按二者所距距离划分 $< 1 \\mathrm { ~ k m } , 1 { \\sim } 3 \\mathrm { ~ k m } , 3 { \\sim } 5 \\mathrm { ~ k m } , > 5$ $\\mathrm { k m } 4$ 个等级，相应各级村落遗址分布数量分别为34个、23个、11个、30个。在相距 $5 \\mathrm { k m }$ 距离范围以内，村落遗址分布数量与其距交通道路距离呈反比，即距交通道路越远，受交通区位辐射作用越小，遗址点数量越少(图3)。但在相距距离大于 $5 \\mathrm { k m }$ 距离范围时，遗址点数量反而增加，占总数的 $3 0 . 6 1 \\%$ 。由此可知，交通区位对空间距离的作用应存在一个阀值。若超过这一阈值，交通区位对村落遗址空间格局形成与发展的影响便会减弱，从而转由其他因素主导。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/568045a88898aab95244a048b5c483b1e8263c2980cb904672dc64c880dc50c9.jpg",
+        "table_caption": [
+            "表1不同坡向村落遗址分布数量及其占比",
+            "Tab.1Distribution quantity and percentage of village sites in different slope directions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>坡向/()</td><td>村落遗址/个</td><td>百分比/%</td><td>古遗址/个</td><td>百分比/%</td><td>古墓葬(群)/个</td><td>百分比/%</td></tr><tr><td>0~45</td><td>6</td><td>6.12</td><td>1</td><td>2.27</td><td>5</td><td>9.26</td></tr><tr><td>45~90</td><td>13</td><td>13.27</td><td>3</td><td>6.82</td><td>10</td><td>18.52</td></tr><tr><td>90~270</td><td>72</td><td>73.47</td><td>37</td><td>84.09</td><td>35</td><td>64.82</td></tr><tr><td>270~315</td><td>4</td><td>4.08</td><td>2</td><td>4.55</td><td>2</td><td>3.70</td></tr><tr><td>315~360</td><td>3</td><td>3.06</td><td>1</td><td>2.27</td><td>2</td><td>3.70</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2不同地貌类型村落遗址分布数量及其占比",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e88aaadcf9587975c8759d4134f29449c7fb4158631cd0263b116f7f9b7dec03.jpg",
+        "table_caption": [
+            "Tab.2 Distribution number and percentage of village sites in different geomorphic types "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地貌类型</td><td>村落遗址/个</td><td>百分比/%</td></tr><tr><td>平原</td><td>7</td><td>7.14</td></tr><tr><td>台地</td><td>34</td><td>34.69</td></tr><tr><td>丘陵</td><td>57</td><td>58.16</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f90d617c5bcc0ae4a07252cf52167ee59202cb81ba0007e9c5d4321dbf92b75.jpg",
+        "img_caption": [
+            "图3距交通道路 ${ < } 5 \\mathrm { k m }$ 村落遗址分布数量 Fig.3Number of village sites less than $5 \\mathrm { k m }$ awayfrom traffic roads "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.6中心聚落本文以研究区域内各类汉代县级(含县级)行政区划以上驻地(包括郡都尉治、县治）、宫观建筑(群）、长城等军事防御设施及诸如驿馆、卫城等城邑辖域为中心聚落范畴。中国择址筑城历史悠久。这些较高等级聚落集政治核心、经济枢纽、文化圣地和军事重镇等多种功能于一体，往往能凭借其自身在区位条件、生产资源、人口规模等方面的一己之兴衰而决定某一国家或地区的历史发展进程，足见其历史地位之重要，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "现将村落遗址距中心聚落距离以每 $1 0 \\mathrm { k m }$ 为间隔划分成6个等级： $< 1 0 \\ \\mathrm { k m } \\ , 1 0 { \\sim } 2 0 \\ \\mathrm { k m } \\ , 2 0 { \\sim } 3 0 \\ \\mathrm { k m } \\ ,$ （20$3 0 { \\sim } 4 0 \\ \\mathrm { k m } \\ . 4 0 { \\sim } 5 0 \\ \\mathrm { k m } \\ . > 5 0 \\ \\mathrm { k m }$ 。经分析，在相距50$\\mathrm { k m }$ 距离范围以内，村落遗址分布数量与其距中心聚落距离呈明显负相关(图4)。此外，汉高平城西南一带是宁夏地区汉代丝路沿线村落遗址唯一集聚中心,且在汉高平城址、汉朝那城址、汉南山堡城址和汉闫家庄城址4个中心聚落附近已形成一处“西北一东南\"空间集聚分布区。元鼎三年(公元前114年），汉武帝为加强西北边防，置安定郡，治高平（即今固原市城区）。作为当时州郡级城池建设规格之高，设备之齐全，素称\"高平第一城”。终汉一代，高平始终发挥吸收各类优势自然资源和社会便利条件的效能，促使周边区域人力、资源、技术等生产生活要素向其集中聚合，再通过扩散效应实现对较低",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6fe7278c42d9a7251409fcdd3f70d0f63f9b6dc739a65daf2c90b34c6163991.jpg",
+        "img_caption": [
+            "图4距中心聚落 ${ < } 5 0 \\mathrm { k m }$ 村落遗址分布数量 Fig.4 Number of village sites less than $5 0 \\mathrm { k m }$ from the central settlement "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "等级普通聚落的辐射。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同时，与中心聚落相距 $5 0 \\mathrm { k m }$ 以上时,村落遗址分布却较多，共20个，占总数的 $2 0 . 4 1 \\%$ 。且需强调的是，这20个相距 ${ > } 5 0 \\mathrm { k m }$ 距离范围的村落遗址均在汉高平城以北地区(图5f)，并于今海原县西安镇一带形成了1个村落遗址次集聚中心。对其产生辐射作用的中心聚落暂不在本文研究区域内，而属其他邻近行政区域，故未在图中标明。若将邻近行政区域中心聚落纳入计算，亦可得出负相关结论。譬如,结合史料文献记载和考古发掘现状,这一现象之所以出现，除因该地占据河网遍布、地势和缓等较为优越自然条件，更赖于积极发挥盐资源贸易及盐道运销经济效益。位于今中卫市海原县西部的十盐池，又名甘盐池，是汉唐时期著名的河池，四周环山，中原坦夷，蕴藏着盐、泉及矿石等丰富的自然资源。汉代,干盐池已是全国具有影响的产盐地之一，所产之盐销至今固原、西安、兰州、西宁等周边各地。干盐池不仅是当时丝绸之路必经之地,其食盐贸易更使得依托盐湖而衍生的盐茶马古道纵横交错。作为盐业商贸重镇,干盐池与盐茶马贸易直接发生经济关系，加强人口流动，促进社会兴盛。今干盐池管委会附近的东堡子一带就曾出土有汉五铢钱多枚。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为更准确探求各影响因子对研究区域内村落遗址空间分布决定程度，寻求最为重要的主导因素，运用地理探测器工具44依次按照坡度、坡向、起伏度、距水源距离、距交通道路距离、距中心聚落距离的分类等级值对 $X$ 进行离散化处理(图5)，并分别进行单因子探测。鉴于现存村落遗址自带考古遗存特性，故采用毕硕本等45的方法，将小于各要素均值且遗址点核密度值为零的采样点排除，求得各影响因子对村落遗址核密度分布决定程度由强到弱依次为：距中心聚落距离 $\\mathrm { > }$ 距交通道路距离>距水源距离 $>$ 坡度 $>$ 坡向 $>$ 起伏度，且各影响因子的 $P$ 值均通过了0.01水平的显著性检验(表3)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/121c4564680c26b5b20faa8bb7dcf5ed0175bd82f8a84598cf4b7cd691b4e493.jpg",
+        "img_caption": [
+            "图5村落遗址与影响因子的空间分布",
+            "Fig.5Spatial distributions of village sites and influencing factors "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "距水源距离是影响最大的自然环境因子，达$2 0 . 1 3 \\%$ ,反映出汉代村落选址具有较为明显的近水性。水源是人类生存和发展的基本要素之一，其重要性在干旱、半干旱地区尤为显著。终汉一代，生产力与技术水平虽较史前时期均已有较大跨越，但人类对水源等基本生存条件的依赖性和需求性仍很大。可见，该地区汉代村落选址首要考虑的自然环境因素仍为水源，其是影响村落兴衰的关键因素，具有重要导向性，可谓“向水而生”。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "坡度、坡向、起伏度同属地形因子，其对该地区村落遗址空间分布决定程度总体差别不大，且相对",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/78d70976818723a843068c2c19b6a6d1718c0c02c231135cdea1a9590f35031e.jpg",
+        "table_caption": [
+            "表3影响因子单因子探测结果",
+            "Tab.3 Single factordetectionresults of influence factors "
+        ],
+        "table_footnote": [
+            "注：q值为因子 $X$ 对村落遗址空间分异的影响程度； $P$ 值为对应 $q$ 值的显著性程度。"
+        ],
+        "table_body": "<html><body><table><tr><td>影响因子</td><td>坡度</td><td>坡向</td><td>起伏度</td><td>距水源距离</td><td>距交通道路距离</td><td>距中心聚落距离</td></tr><tr><td>q值</td><td>0.0979</td><td>0.0841</td><td>0.0682</td><td>0.2013</td><td>0.3161</td><td>0.3408</td></tr><tr><td>P值</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "偏弱，各数值均在 $1 0 \\%$ 以下。结合研究区域干湿环境和地形分区来看，以汉高平城为界，其以南六盘山区属于半湿润区，以北黄土高原丘陵区及地势相对平坦的清水河洪积一冲积平原区则为半干旱区，而村落遗址大多分布于南部丘陵、台地上，同为丘陵、台地地貌的北部广大地区却少有村落遗址。可见，在地形条件相似地区，村落遗址分布状况却截然不同，则地形因子或非为影响该地区村落遗址空间分布主要因素。另需指出的是，本文所筛选认定的村落遗址包括有相当一部分数量的古墓葬(群），以此作为间接指代指标使用。而历史时期聚落与坟莹在坡向择址原则上存在一定本质区别，进而导致坡向和村落遗址空间分布相关性分析结果可能偏小。因此，使用地理探测器探讨坡向对村落遗址空间分布决定程度时应更为谨慎。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "距中心聚落距离和距交通道路距离对村落遗址空间格局的决定程度远大于其他影响因子，分别为 $3 4 . 0 8 \\%$ 和 $3 1 . 6 1 \\%$ 。通常情况下，中心聚落凭其为国家或地区综合性区域中心这一得天独厚的区位优势，能为村落的兴起与发展奠定坚实的物质基础，吸引人口聚居，促使村落形成。道路交通条件反映着不同区域之间与区域内部联系的通达程度，也是居民点彼此之间进行各种政治、经济、文化和军事活动的重要通道和纽带。在秦既有道路基础上，汉代陆路交通线路由少到多，逐步开辟、延伸，并不断演变发展为四通八达的交通网络。无论是自发选择还是被迫迁移，邻近交通孔道都会为古代村落提供对外传播与交流的便利条件，进而对其空间分布格局产生一定影响。概之，中心聚落和交通区位二者相互作用，共同构成影响该地区村落遗址空间分布的主要影响因素。其中前者影响作用更为显著，是最为重要的主导因素。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "相较于人为因素作用结果，自然环境因素往往是影响早期聚落选址的首要条件。随着时间的推移，社会韧性呈增强趋势，人地关系演变的主导因素也整体呈现由自然因素向人为因素的偏移[46]不同于史前聚落时期，至迟于汉代，人文社会诸要素的决定程度在整体上已远超以水源为典型代表的自然环境各要素。虽仍以小农经济为主导，但人类主观能动性不断增强，逐渐具备一定有意识地利用自然和改造自然的能力，自然环境本身是否优越已不再是唯一或首要衡量标准。因此，在探讨历史时期各种地理事物或地理现象形成与演变问题时，人文社会自身影响作用应被予以重视",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）研究区域内汉代村落遗址共计98个，形成1个集聚中心，即今原州区开城镇、中河乡一带，以及4个次集聚中心，即今彭阳县古城镇和新集乡一带、今彭阳县城阳乡一带、今原州区河川乡一带与今海原县西安镇一带。其中，今固原市所辖的1个集聚中心和3个次集聚中心已共同构成了一处“西北一东南\"空间集聚分布区。究其形成原因，除自然环境影响作用外，更与秦汉以来交通区位、中心聚落等诸多人文社会因素密切相关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）研究区域内汉代村落遗址空间分布格局受坡度、坡向、起伏度和水源等自然要素制约。古遗址具有较为明显的濒水特征，距水源 $1 \\mathrm { k m }$ 以内者占总数的 $5 4 . 0 8 \\%$ 。因研究区域地理环境自身特性，古遗址多分布于坡度 $2 ^ { \\circ } { \\sim } 6 ^ { \\circ }$ 、坡向 $9 0 ^ { \\circ } { \\sim } 2 7 0 ^ { \\circ }$ 光照条件良好的丘陵和台地上。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）运用地理探测器能更准确量化分析各影响因子对研究区域内村落遗址空间分布决定程度。目前，按单因子探测结果由强到弱依次为距中心聚落距离、距交通道路距离、距水源距离、坡度、坡向及起伏度。其中，距中心聚落距离和距交通道路距离影响程度远大于其他因子，二者共同发挥着主要影响作用，前者更是主导因素。可见，至迟于汉代，虽仍受自然条件所限，人类主观能动性却愈发凸显，并渐成影响村落形成发展的关键因素。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前，考古发掘资料之欠缺为本文所遗憾者，特别是较为完整的汉代聚落考古研究个案十分少见，仍可继续深入探讨。此外，暂只能主要依据现已公开出版的沿途市县地方方志和文物志中的有关内容及近来公开出版史籍专著章节与附录名录中的最新内容进行相关研究，则应考虑数据来源局限性对本文结论的影响。随着考古发掘工作不断深人，现有资料不断更新完善，某些结论还有待进一步论证与检验,从而更加准确地推原出宁夏地区汉代丝路沿线乡村社会发展面貌。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "致谢：本文撰写期间，导师周宏伟教授对文稿内容等方面予以悉心指导，并提出修改建议。作者在此谨表谢忱。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "奓污乂啊(KeIerences) ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]高小强.从堡寨到村堡:明清河西走廊堡寨民居的功能演变[J]. 中国边疆史地研究,2016,26(4):37-45,180.[Gao Xiaoqiang.From fort to fort-village: The evolution of residential function of fort in the Hexi Corridor during the Ming and Qing Period[J].China's Borderland HistoryandGeographyStudies,2016,26(4):37-45,10.]   \n[2]李琰君,齐向颖.“丝绸之路\"甘肃武威地区传统民居建筑形态 分析[J].西安建筑科技大学学报(社会科学版),2019,38(6):19- 25,34.[Li Yanjun, Qi Xiangying.An analysis on the architectural form of traditional dwelings along the“Silk Road”in Wuwei, Gansu[J].Journal of Xi'an Universityof Architecture&Technology (Social Science Edition),2019,38(6): 19-25,34.]   \n[3]张惠婷,马利刚,王宏卫,等.新疆乡村聚落特征及其区域融合 发展探析[J].干旱区地理,2020,43(6):1667-1678.[Zhang Huiting,Ma Ligang,Wang Hongwei, et al. Characteristics and regional integration development of rural setlements in Xinjiang[J].Arid Land Geography,2020,43(6): 1667-1678.]   \n[4]李琰君,黄镜帆.“丝绸之路\"青海段传统民居建筑现状调查及 类型分析[J].西安建筑科技大学学报(社会科学版),2021,40 (4): 25-32.[Li Yanjun, Huang Jingfan.A status survy and type analysis of the traditional residence in the Qinghai section along“the Silk Road\"[J]. Journal of Xi'an University of Architecture& Technology (Social Science Edition),2021,40(4): 25-32.]   \n[5]黄雪,冯玉良,李丁,等.西北地区传统村落空间分布特征分析 [J].西北师范大学学报(自然科学版),2018,54(6):117-123. [Huang Xue,Feng Yuliang,Li Ding,etal.Analysis on the spatial distribution characteristics of traditional villages in northwest China[J].Journal of Northwest Normal University (Natural Science Edition),2018,54(6): 117-123.]   \n[6]陈蓉,马耀峰.青海省传统村落空间分布格局及影响因素研究 [J].青海社会科学,2019(6): 239-244.[Chen Rong,Ma Yaofeng. Research on the distribution and influencing factors of the traditional villages in Qinghai Province[J]. Qinghai Social Sciences, 2019(6): 239-244. ]   \n[7]古力孜热·买买提,马利刚,王宏卫,等.孔雀河流域聚落分布特 征及驱动力解析[J].江苏农业科学,2020,48(16):25-31.[Maimaiti Gulizire,Ma Ligang,Wang Hongwei, etal.Analysis of distribution characteristics and driving forces of settlements in Peacock River Basin[J]. Jiangsu Agricultural Sciences,2020,48(16): 25-31.]   \n[8]张萍.GIS 技术与二千年丝绸之路道路复原研究的新思路[J]. 中国史研究动态,2017(2): 57-61.[Zhang Ping.A new idea about GIS technology and study on recovering the route of the Silk Road in the past two thousand years[J]. Trends of Recent Researches on the History of China,2017(2): 57-61.]   \n[9]雷祖康,张宝庆.基于GIS与肌理分析的天山北麓聚落类型分 析[J].南方建筑,2019(1):1-6.[Lei Zukang,Zhang Baoqing.Analysis of settlement types at the north piedmont of Tianshan Mountains based on GIS and texture analysis[J]. South Architecture, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2019(1): 1-6.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10]孙应魁,翟斌庆.基于人类聚居学理论的南疆传统村落演进及 病理化研究[J].建筑学报,2019(增刊1):47-52.[Sun Yingkui, Zhai Binqing.Evolution and pathology of traditional villges in southern Xinjiang based on human settlement theory[J].Architectural Journal, 2019(Suppl. 1): 47-52.]   \n[11]王春燕,昝梅,施国芳,等.新疆文化资源空间分布特征及成因 分析——以非物质文化遗产为例[J].干旱区地理,2021,44(2): 584-593.[Wang Chunyan, Zan Mei, Shi Guofang,et al. Spatial distribution and cause of cultural resources in Xinjiang: Taking intangibleculturalheritageasanexample[J].AridLand Geography, 2021, 44(2): 584-593.]   \n[12] 胡宇蒙,晏波,张萍.两汉丝绸之路交通数据集[J].中国科学数 据,2018,3(3): 37-44.[Hu Yumeng,Yan Bo,Zhang Ping.Traffic data of the Silk Road in the Han Dynasty[J]. China Scientific Data, 2018, 3(3): 37-44.]   \n[13]徐雪强,张萍.唐代丝绸之路东中段交通线路数据集(618—907 年)[J].中国科学数据,2018,3(3): 23-29.[Xu Xueqiang, Zhang Ping. A dataset of the east-central sectionof the Silk Road in Tang Dynasty(618—907 A.D.)[J]. China Scientific Data,2018,3(3): 23- 29.]   \n[14] 薛樵风,成一农,金晓斌.明清时期丝绸之路沿线城市建成区范 围GIS 数据集[J].中国科学数据,2018,3(3): 6-14.[Xue Qiaofeng, Cheng Yinong,Jin Xiaobin.A GIS dataset of urban built-up area along the Silk Road inthe Mingand Qing Dynasties[J]. China Scientific Data,2018,3(3): 6-14.]   \n[15]王芳,张小雷,杨兆萍,等.历史时期伊犁河谷文化遗址时空特 征及驱动力分析[J].地理学报,2015,70(5):796-808.[Wang Fang,Zhang Xiaolei, Yang Zhaoping, et al. Spatio-temporal characteristics of cultural sitesandananalysis oftheir driving forces in the Ili River Valley in historical periods[J].Acta Geographica Sinica,2015,70(5): 796-808.]   \n[16] 林金萍,雷军,吴世新,等.新疆绿洲乡村聚落空间分布特征及 其影响因素[J].地理研究,202039(5):1182-19.[Lininping Lei Jun, Wu Shixin,et al. Spatial patern and influencing of oasis rural settments in Xinjiang,China[J].Geographical Research, 2020,39(5): 1182-1199.]   \n[17] 姜梦迪,张鹏丽,梁博毅,等.兰州盆地新石器时期遗址分布与 地形的关系研究[J].干旱区地理,2020,43(1):27-37.[Jiang Mengdi, Zhang Pengli,Liang boyi, etal. Relationship between the distribution of Neolithic cultural sites and topography in the Lanzhou Basin[J].Arid Land Geography,2020,43(1): 27-37.]   \n[18]田达睿,唐皓,谭静斌.陕北黄土高原丘陵沟壑区聚落适宜空间 模式研究——以米脂县东沟为例[J].干旱区地理,2022,45(1): 263-276.[Tian Darui,Tang Hao,TanJingbin.Suitablespatialpatterns for settlements in hilly-gully region of the Loess Plateau in northern Shaanxi: A case of Donggou, Mizhi County[J].Arid Land Geography,2022,45(1): 263-276.]   \n[19] 李小明.西汉安定郡属县治城新探[J].宁夏大学学报(人文社会 科学版),2017,39(6): 50-60.[Li Xiaoming.A new exploration of ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "the county governing in the western Han Dynasty[J]. Journal of Ningxia University (Humanities & Social Sciences Edition),2017, 39(6): 50-60.]   \n[20](汉)班固.汉书[M].北京:中华书局,2007.[(Han)Ban Gu.The history of the former Han Dynasty[M].Beijing: Zhonghua Book Company,2007.]   \n[21]国家文物局.中国文物地图集·宁夏回族自治区分册[M].北京: 文物出版社,2010.[National Cultural Heritage Administration. Atlas of Chinese Cultural Relics: Fascicule of Ningxia Hui Autonomous Region[M]. Beijing: Cultural Relics Press,2010.]   \n[22]固原县志编纂委员会.固原县志[M].银川:宁夏人民出版社, 1993. [Guyuan County Annals’Committee. Guyuan County annals [M]. Yinchuan: Ningxia People's Press,1993.]   \n[23]泾源县地方志编纂委员会.泾源县志[M].银川:宁夏人民出版 社,1995.[Jingyuan County Annals’Commitee.Jingyuan County annals[M]. Yinchuan: Ningxia People's Press,1995.]   \n[24]海原县志编纂委员会.海原县志[M].银川:宁夏人民出版社, 1999.[Haiyuan County Annals’Commitee.Haiyuan County annals[M]. Yinchuan: Ningxia People's Press,1999.]   \n[25]杨宁国.彭阳县文物志[M].银川:宁夏人民出版社,2003.[Yang Ningguo.Pengyang County cultural relics[M]. Yinchuan: Ningxia People's Press, 2003.]   \n[26] 彭阳县地方志编纂委员会编.彭阳县志(下卷)[M].兰州:甘肃文 化出版社,2011.[Pengyang County Local Records Compilation Commitee.Pengyang County records (Volume I)[M]. Lanzhou: Gansu Culture Press, 2011.]   \n[27]马东海,王金铎.原州区文物志[M].银川:宁夏人民出版社, 2013.[Ma Donghai,Wang Jinduo.Cultural relics of Yuanzhou District[M]. Yinchuan: Ningxia People's Press,2013.]   \n[28] 杨宁国.彭阳历史文物[M].银川:宁夏人民教育出版社,2017. [Yang Ningguo.Historical relicsof Pengyang[M]. Yinchuan: Ningxia People's Education Press,2017.]   \n[29] (北魏)郦道元,陈桥驿.水经注校证[M].北京:中华书局,2007. [(Northern Wei) Li Daoyuan, Chen Qiaoyi. Collation on Shui Jing Zhu[M]. Beijing: Zhonghua Book Company,2007.]   \n[30]谭其骧.中国历史地图集[M].北京:中国地图出版社,1982. [Tan Qixiang.The historical atlas of China[M].Beijing: China Cartographic Publishing House,1982.]   \n[31] 罗丰.秦汉朝那湫渊遗址与万年以来东海子气候变迁[J].考古 与文物,2020(3): 65-74.[Luo Feng. On the Chaona Qiuyuan Site of the Qin-Han Periods and the climatic change of Donghaizi in the past tenthousand years[J].Archaeology and Cultural Relics, 2020(3): 65-74.]   \n[32]刘满.秦汉陇山道考述[J].敦煌学辑刊,2005(2):264-269.[Liu Man.The compilation of Longshan Route in Qin and Han Dynasties[J]. Journal of Dunhuang Studies,2005(2): 264-269.]   \n[33] 马建军.丝绸之路上的萧关道[J].文博,2010(3):50-55.[Ma Jianjun. Xiaoguan Pass Road of the Silk Road[J]. Relics and Museolgy,2010(3): 50-55.]   \n[341 刘满 奉阜汉武巡幸陇右地名路线考释-兼论历中卜的鸡斗道 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[J].敦煌学辑刊,2015,1(2): 1-20.[Liu Man.Research on places and route in Longyou area which was inspected by the Emperors Qin Shihuang and Han Wudi: Concurrently discuss the Jitou Route in the history[J]. Journal of Dunhuang Studies,2015,1(2):1-20.]   \n[35] 王怀宥.唐宋时期安化峡、安化县及安化镇位置考辨-兼谈秦 汉时期的鸡头道[J].西夏研究,2017(4):96-100.[Wang Huaiyou.The textual research on the geographic position of Anhuaxia, Anhuaxian and Anhuazhen in the Tang Dynasty and the Song Dynasty[J]. Tangut Research,2017(4): 96-100.]   \n[36] 马晓冬,李全林,沈一.江苏省乡村聚落的形态分异及地域类型 [J].地理学报,2012,67(4): 516-525.[Ma Xiaodong,Li Quanlin, Shen Yi. Morphological differentiation and regional types of rural settlements inJiangsu Province[J]. Acta Geographica Sinica, 2012, 67(4): 516-525. ]   \n[37] 王长松,段蕴歆,张然.历史时期黄河流域城市空间格局演变与 影响因素[J].自然资源学报,2021,36(1):69-86.[Wang ChangSong,Duan Yunxin, Zhang Ran.Spatial pattern evolution of cities and influence factors in the historical Yellow River Basin[J]. Journal of Natural Resources,2021,36(1): 69-86.]   \n[38] 王劲峰,徐成东.地理探测器:原理与展望[J].地理学报,2017, 72(1): 116-134.[Wang Jinfeng,Xu Chengdong. Geodetector: Principle and prospective[J]. Acta Geographica Sinica,2O17,72(1): 116-134.]   \n[39] TD/T1055-2019.第三次全国国土调查技术规程[S].北京:地质 出版社,2019:12.[TD/T 1055-2019.Technical regulation of the third nationwide land survey[S]. Beijing:Geological Publishing House, 2019: 12.]   \n[40] 毕硕本,郭文政,闾国年.郑洛地区史前聚落遗址坡向坡度分析 [J].测绘科学,2010,35(6):139-141.[Bi Shuoben,Guo Wenzheng, Lu Guonian.Aspect and slope analysis of prehistoric settlement sites in Zhengzhou-Luoyang Region[J]. Science of Surveying and Mapping,2010,35(6): 139-141.]   \n[41] 中国科学院地理研究所.中国1:1000000地貌图制图规范(试 行)[M].北京:科学出版社,1987.[Institute of Geography,Chinese Academyof Sciences.1:100000 geomorphologicalmapping specification[M]. Beijing: Science Press,1987.]   \n[42] 周成虎,程维明,钱金凯,等.中国陆地1:100万数字地貌分类 体系研究[J].地球信息科学学报,2009,11(6):707-724.[Zhou Chenghu, Cheng Weiming, Qian Jinkai,et al.Research on the clasification systemof digital land geomorphologyof 1:1000000 in China[J]. Journal of Geo-information Science,2009,11(6): 707- 724.]   \n[43] 章金城,周文佐.四川省地形起伏度与人口/经济的空间自相关 关系[J].水土保持通报,2019,39(1):250-257.[Zhang Jincheng, Zhou Wenzuo.Spatial autocorrelation between topographic relief and population/economy in Sichuan Province[J].Bulltinof Soil and Water Conservation,2019,39(1): 250-257.]   \n[44]Wang JF,Li X H, Christakos G,et al. Geographical detectorsbased health risk assessment and its application in the neural tube defects study of the Heshun Region, China[J]. International Jour",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "nal of Geographical Information Science,2010,24(1):107-127. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[45]毕硕本,计晗,陈昌春,等.地理探测器在史前聚落人地关系研 究中的应用与分析[J].地理科学进展,2015,34(1):118-127. [Bi Shuoben, Ji Han, Chen Changchun,et al.Application of geographical detectors in human-environment relationship study of prehistoric settlements[J]. Progress in Geography,2015,34(1):118- ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "127.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[46]董广辉,仇梦晗,李若,等.探讨过去人地关系演变机制的\"支 点\"概念模型[J].地理学报,2021,76(1):15-29.[Dong Guang hui, Qiu Menghan,Li Ruo,et al. Using the fulcrum cognitive model to explore the mechanism of past human-land co-evolution[J]. Acta Geographica Sinica,2021,76(1): 15-29.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Spatial distribution and influencing factors of village sites along the Silk Road in the Han Dynasty in Ningxia ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LI Jining, LIU Wanying ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(NorthwestInstituteofHstoricalEnvironmentandocio-EconomicDevelopment,ShaanxiNormalUniversity,Xi'an709, Shaanxi, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The issue of the Silk Road hasalways been a hotspot in the field ofhistory; however,comprehensive quantitative research is lacking in the spatiotemporal divisions of the villages in the Middle Ages along the Silk Road.This knowledge gap needs to be addressed in research on the Silk Road.Ancient vilages were more widespread than the majority of the medium-sized cities,as indicated throughout history.A village is not only a place where people work,live,and perform various social activities but also a microcosm of the ancient middleand lower-classsociety.Itcarries richand broad historical information and cultural connotations.Furthermore, villages are primarily established by geographyor blood relationships and have maintained the cultural and national identities of Chinese descendants for thousands of years.Considering 98 vilage sites along the Silk Road in the Han Dynasty, Ningxia Province as an example,this study comprehensively uses historical literature analysis，Geographic Information Systemspatial analysis,and geographical detector technology to restore and summarize the overall spatial distribution characteristics of villages for the selection of basic geographic information of vilage sites and the preliminary vectorization of relevant auxiliary analysis data such as topography, water sources,roads,and cities.Furthermore,this study analyzes and explores the six influencing factors,namely,slope,aspect,fluctuation,water source,traffic location,andcentral city,and their determination degree on the spatial distribution of village sites.Results show one agglomeration center and four subagglomerationcenters inthearea,andanorthwest-southeast spatial agglomerationareais formed inthe jurisdiction of Guyuan City. The ancient ruins have obvious water-enduring characteristics,accounting for $54 . 0 8 \\%$ of the total population within $1 ~ \\mathrm { k m }$ of the water source, and are mostly concentrated on hills and sunny terraced slopes of $2 ^ { \\circ _ { - } }$ $6 ^ { \\circ }$ . In addition to the natural environment and other factors that are typically represented by water sources that restrict the formation and development of villages,central settements and traffc locations are primary factors, with the former being the dominant factor.Inthe man-land relationship in the medieval vilage stage,the superiority of the natural environment itself is no longer the only or primary measure,and the influence of the humanistic society itself is becoming increasingly obvious.As aresult,the determination of various elements of humanities and society on the location and distribution of villages substantially exceeds that of various elements of the natural environment,as observed during the periods no later than the Han Dynasty. In view of this situation, with the constant updates and improvements in existing data and thorough investigations,the development of ancient rural society along the Silk Road and the relationship between the geographical environment factors and human activities still needs further exploration. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: Han Dynasty； Silk Road; village sites; spatial distribution; influencing factors ",
+        "page_idx": 10
+    }
+]

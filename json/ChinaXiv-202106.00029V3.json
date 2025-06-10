@@ -1,0 +1,1124 @@
+[
+    {
+        "type": "text",
+        "text": "引入眼动注视点的联合-交叉负载多模态认知诊断建模",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "詹沛达1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(浙江师范大学教师教育学院心理学系，金华 321004)(浙江省智能教育技术与应用重点实验室，金华 321004)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要多模态数据为实现对认知结构的精准诊断及其他认知特征(如，认知风格)的全面反馈提供了可能性。为实现对题目作答精度、作答时间(RT)和视觉注视点数(FC)的联合分析，本文基于联合-交叉负载建模法提出三个多模态认知诊断模型。实证研究及模拟研究结果表明：(1)联合分析比分离分析更适用于多模态数据；(2)新模型可直接利用RT和FC 中信息提高潜在能力或潜在属性的估计准确性；(3)新模型的参数估计返真性较好；(4)忽略交叉负载所导致的负面结果比冗余考虑交叉负载所导致的更严重。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词认知诊断，多模态数据，题目作答时间，注视点，学习风格，眼动",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "个体的外显行为(如，学习行为或问题解决行为)是由相互关联的多种认知过程及心理建构所共同决定的。因此，在特定问题(任务)情境下，对问题解决行为的合理分析不仅可以挖掘个体的认知结构，还能反映个体的认知风格或认知流畅性等其他认知特征。认知风格是个体组织和处理信息的特征及相对稳定的方式，反映了个体在感知、记忆、思维、判断和解决问题等方面的偏好或典型模式(Riding,1997)，有助于调节认知加工过程的持续时间、强度、范围和速度(Gardner et al.,1959;Messck,1989)。比如，根据个体加工信息或解决问题的速度和精度，可将个体分为沉思型或冲动型(Kagan,1965)；通常，沉思型个体反映速度较慢但精度较高，而冲动型个体反应速度较快但容易发生错误。再比如，根据个体注意力的广度和专注度，可将个体分为扫描者和聚焦者(Gardner etal.,1959)。在解决问题时，扫描者的注意力广度宽但专注度低，而聚焦者的注意力广度窄但专注度高。有研究表明在解决问题时扫描者的精度高于聚焦者的(Gardner et al.,1959; Holzman,1966)；另有研究指出聚焦者对目标的注意力持续时间久于扫描者(Raheef& Zainab,2009，也见 Rimawi et al.,2020)。也有研究认为扫描和聚焦是两种可分离的风格(Messick,1989)，根据扫描范围(即注意力广度)可将个体分为窄扫描者和宽扫描者，根据聚焦程度(即专注度)可将个体分为聚焦者和非聚焦者；而且，两种风格还能相互组合。与具有相对稳定性的认知风格不同，认知流畅性通常是指个体对信息处理或解决问题的难易程度的主观体验(Unkelbach,2006)，流畅性可能会随所处理的信息、所解决的问题或所属的领域的不同而不同(Biancarosa& Shanley,",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2015)。通常，在有关流畅性测量的研究中，流畅性被视为一种速度和精度的综合反映。已有研究表明达到流畅性水平的个体可以又快又好地解决问题(Wang＆Chen,2020)。总之，为实现对个体学习现状的全面反馈，对个体问题解决行为的分析应尝试从多视角切入，不仅提供可反映认知结构的，还要提供可反映认知风格或认知流畅性等其他认知特征的反馈信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近些年，以促进个体学习为目的，客观量化个体学习现状并提供诊断反馈的测评模式日益受到关注。其中，认知诊断作为一种有代表性的诊断测评方式，主要功能是诊断个体的学习现状(如，知识掌握程度)并提供相应的反馈，为促进个体学习提供了方法学支持(Ren et al.,2021; Tang& Zhan,2021；王立君等,2020)。作为认知诊断的核心技术环节之一，认知诊断模型(cognitive diagnosis model,CDM)或诊断分类模型的合理性影响着诊断结果的准确性、有效性和可解释性。CDM作为一种有约束的潜在类别模型，描述了潜在属性和外显题目作答行为之间概率关系。通常，潜在属性为类别变量(如,\"0\"表示\"未掌握”，“1\"表示\"掌握\")，是根据个体完成复杂学习任务或解决复杂问题时所需具备的潜在技能或知识来确定的。目前，针对不同的测验情境和理论假设，已有许多CDM被提出(Rupp et al.,2010;von Davier& Lee,2019)，比如常见的 DINA 模型(Junker& Sijtsma,2001)及其一般化模型(de la Torre,2011)。然而，绝大多数 CDM 是基于题目作答精度(response accuracy,RA)这种单一且传统的数据源开发的(詹沛达，2018)，导致它们所提供的诊断反馈范围有限：仅关注对问题解决所需的认知技能或学科知识的诊断，仅能提供可反映认知结构的反馈信息；忽略问题解决时的信息加工速度和专注力(或视觉参与度)等其他相关建构，难以提供可反映认知风格或认知流畅性等其他认知特征的反馈信息。换句话说，目前绝大多数CDM提供的反馈信息有限，不能全面反映个体间学习现状之间的差异，进而可能限制有针对性干预的效果。导致这种局限性的可能原因之一是在传统的(基于纸笔测验的)认知诊断测评中很难采集到诸如题目作答时间(response time,RT)等数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近些年，随着计算机(网络)化测验的普及，对过程数据的采集已趋于常态化。过程数据是指由计算机记录的反映个体问题解决过程的含有时间戳的行为序列数据(Zhan&Qiao,2020; Zoanet,2010；李美娟等,2020；刘耀辉等,2022)。对过程数据的分析不仅可以挖掘个体的问题解决策略(Qiao&Jiao,2018;Zhu et al.,2016)，还可以探究个体的问题解决能力(Liu et al.,2018; Zhan&Qiao,2020)。目前，RT数据作为一种有代表性的过程数据，因为其具有标准化数据结构1，符合心理计量模型的建模与分析要求，得到了研究者们的高度关注。已有研究表明，RT数据作为传统RA数据的补充，不仅能够提供个体在问题解决过程中的加工速度信息,还可以提高对潜在能力的估计精度(Bolsiova& Tijmstra,2018；詹沛达,2019)和潜在属性的分类准确性(Zhan,Jiao et al.,2018)。实际上，计算机化测验的自动化特性使得它能够在个体解决问题过程中实时记录不限于过程数据的多种类型数据，即多模态数据。多模态数据是指对于同一个描述对象，通过多种仪器、测量设备或采集仪器获得到的互补的多样性数据(Lahat etal,",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2015)。比如，除结果数据(如,RA 数据)和过程数据(如,RT数据)外，通过嵌入式传感器或实验设备(如,眼动仪)，计算机化测验还可以同步记录诸如眼动、身体运动及神经活动等生物计量数据。生物计量数据可用于提供有关个体与任务情境互动效果的反馈，比如，解决问题时个体的视觉参与度(Man &Harring,2019；Zhan et al.,2021)或大脑激活水平(Jeon et al.2021)。在技术增强测评环境中，随着多模态数据采集技术的不断发展，针对多模态数据的联合分析技术也应得到相应的关注和发展。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但是，多模态数据的分析也给心理计量模型带来了挑战：仅凭借单一的测量模型无法满足分析多模态数据的需求。因此，在智能时代背景下，基于技术增强测评环境，建立心理与教育测量新范式，探究多模态数据分析方法具有重要的理论意义和实践价值。对此，遵循联合-层级建模法(van derLinden,2007)，Zhan 等(2021)基于联合-层级认知诊断建模框架(Zhan,Jiao et al.,2018)提出了联合-层级多模态认知诊断模型(joint-hierarchical multimodal CDM,H-MCDM)；首次在认知诊断领域实现对结果数据、过程数据和生物计量数据进行联合分析。其研究结果表明联合分析多模态数据不仅能为个体提供更全面的反馈还能提高诊断精度。然而，Ranger (2013)指出联合-层级建模的一个主要理论局限是仅当潜在变量之间的相关不等于0时，各模态数据之间的信息才能相互被利用；进而才有可能实现利用辅助数据所提供的信息提高对核心特质(如，潜在能力)的估计精度(Bolsinova& Tijmstra,2018)。对此，有研究者提出联合-交叉负载建模法(Bolsinova& Tijmstra,2018;Molenaar et al.,2015)。联合-交叉负载建模法可视为是对联合-层级建模法的拓广，理论上可以通过交叉负载实现直接利用辅助数据(如,RT)为核心特质(如,潜在能力)提供信息。鉴于H-MCDM是遵循联合-层级建模法构建的，理论上也必然存在上述局限性；这在一定程度上可能会影响该模型的实践应用性。对此，本文聚焦于认知诊断领域，针对结果数据、过程数据和生物计量数据，拟基于联合-交叉负载建模法构建多模态认知诊断模型(joint-cross-loadingMCDM, C-MCDM)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先，简单回顾两种可联合分析多模态数据的联合建模法：联合-层级建模法和联合-交叉负载建模法；其次，简单介绍视觉注视点数(visual fixation count,FC)，一个重要的眼动指标；然后，以传统的分离建模法为始，分别介绍有关RA、RT和FC 数据的测量模型，继而引出H-MCDM；接着，阐述本研究新提出的三个C-MCDM，基于实证研究将新模型与已有模型进行对比分布以展现新模型的现实可应用性及相对优势，并通过两则模拟研究分别探究新模型的参数估计返真性和相对于H-MCDM的优势；最后，总结了研究结果并探讨了未来的研究方向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2多模态数据的联合分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1两种联合建模框架 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前，联合-层级建模是使用最广泛的联合分析多模态数据的心理计量建模方法，如图1(a)所示。如上文所述，RT数据作为一种有代表性的过程数据近些年受到高度关注，研究者们提出了多个可联合分析RA 和RT数据的联合-层级模型(De Boeck& Jeon,2019；郭磊等,2017；詹沛达,2018)。在典型的联合-层级建模中，第一层中构建RA数据和RT数据的测量模型：潜在能力完全解释RA数据，潜在加工速度完全解释RT数据；而潜在能力和潜在加工速度之间的关系以二元正态分布的形式被建模在第二层结构模型中。尽管几乎所有的联合-层级模型都局限于分析RA和RT这两类数据，但由于该建模思路具有较强的可扩展性，基于该建模框架可以实现对更多类型数据的分析和对更多类型潜在建构的测量。比如，Jeon 等(2021)通过联合分析 RA数据和大脑激活这一生物计量数据，测量了个体的潜在能力和大脑激活水平。Man 和Harring(2020)通过联合分析RA数据、RT数据和FC数据，测量了个体的潜在能力、潜在加工速度和视觉参与度。Bezirhan等(2021)联合分析了RA数据、RT数据和重访题目次数，测量了个体的潜在能力、潜在加工速度和重访题目倾向。基于联合-层级建模，在认知诊断领域，Zhan和Jiao 等(2018)首次将 RT数据引入认知诊断建模中提出了联合-层级认知诊断建模框架，如图1(b)所示;该建模法同样具有可扩展性,通过加入其他模态数据的测量模型,实现多模态数据的联合分析(e.g.,Zhanet al., 2021)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与仅关注的RA数据的传统模型相比，Ranger(2013)指出联合-层级建模的主要理论局限是仅当潜在能力和潜在加工速度之间的相关系数不等于0时，额外引入RT数据的联合-层级模型才能够提高对潜在能力参数的估计精度。Bolsinova 和Tijmstra(2018)指出联合-层级建模未充分利用RT数据所提供的信息，即假设RT数据仅受潜在加工速度的影响，不受潜在能力的影响。然而，在实际测验中，可能存在潜在能力和潜在加工速度之间的相关系数较小(Bolsinova et al.,2017; Zhan,Liao et al.,2018)以及不同能力的个体在解决问题时所花费的时间可能不同(Schaeffer et al.,1993)的情况。对此，联合-交叉负载建模假设RT数据同时受个体的潜在能力和潜在加工速度的影响，如图1(c)所示；理论上，无论潜在能力与潜在加工速度之间的相关系数多大，RT数据都可以直接为潜在能力参数的估计提供信息，增加潜在能力参数的估计精度。但目前，尚未有研究将该建模方法引入认知诊断领域，这是本文要做的一项工作。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/becd591caa72bf5260a97734f1c0237ca6cf974f3d424213711aff80c98be76e.jpg",
+        "img_caption": [
+            "图1多模态联合建模示意图(以作答精度和作答时间数据为例)注:0为潜在能力;t为潜在加工速度; $\\mathbf { \\boldsymbol { a } }$ 为潜在属性;Y为题目作答精度; $T$ 为题目作答时间;I为题目数量; $K$ 为属性数量;IRT为项目反应理论."
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2注视点数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在计算机化测验中，通过嵌入式传感器可以记录个体解决问题时的生物计量数据；其中，眼动仪是被关注较多的一种，已被用于大规模测评项目之中(Bos et al.,2005，也见Rupp et al.,2010)。眼动指标可以提供有关个体在解决问题时的认知过程的证据。常见的眼动指标有注视点(提供眼睛看哪里信息)、眼跳(提供注视点位置发生变化的信息)、感兴趣区(提供注视点聚集区域的信息)和回视次数(提供个体将注视点返回到特定目标上的次数信息)等；其中，注视点是最常用的指标，它可以反映个体对视觉目标区域的专注度(An et al.,2017)，或视觉目标区域对个体的重要性和吸引力(Poole et al.,2004)。聚焦在计算机化测验中，作答题目时的注视点数(即FC 数据)可以反映个体解决问题时的视觉参与度(Man&Harring, 2019; Zhan et al., 2021)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3多模态数据分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文以分析RA数据、RT数据和FC数据为例，涉及三种可分析多模态数据的建模法：分离建模法，联合-层级建模法和联合-交叉负载建模法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1分离建模法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分离建模法延续传统心理计量学模型的做法，对不同模态的数据分别建模、独立分析。为便于下文撰写，将采用分离建模法分析多模态认知诊断数据的方法称为分离多模态认知诊断模型(separateMCDM,S-MCDM)。在 S-MCDM中，本文选用三个具有代表性的测量模型分别来分析RA数据、RT数据和FC数据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，选用高阶 DINA (higher-order DINA,HO-DINA)(de la Torre & Douglas,2004)模型作为 RA 数据的测量模型，主要原因是为与基于联合-层级建模法的H-MCDM 做对比。HO-DINA 模型可描述为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( Y _ { n i } = 1 ) = g _ { i } + ( 1 - s _ { i } - g _ { i } ) \\eta _ { n i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { l o g i t } ( P ( \\mathfrak { a } _ { n k } = 1 ) ) = \\gamma _ { 1 k } \\theta _ { n } - \\gamma _ { 0 k } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $Y _ { n i }$ 为被试 $n$ 作答题目 $i$ 的精度； $g _ { i }$ 和 $s _ { i }$ 分别为题目 $i$ 的猜测参数和失误参数； $\\begin{array} { r } { \\eta _ { n i } = \\displaystyle \\prod _ { k = 1 } ^ { K } \\mathbf { a } _ { n k } ^ { q _ { i k } } } \\end{array}$ 为被试 $n$ 对题目 $i$ 的理想作答; ${ \\mathfrak { a } } _ { n k }$ 为被试 $n$ 对属性 $k$ 的掌握情况， $\\mathbf { q } _ { n k } = 1$ 表示“掌握”, ${ \\bf { a } } _ { n k } = 0$ 表示“未掌握”;$q _ { i k }$ 为Q矩阵中元素，表示题目 $i$ 对属性 $k$ 的考查情况， $q _ { i k } = 1$ 表示“考查”， $q _ { i k } = 0$ 表示“未考查”； $\\gamma _ { 1 k }$ （204号和 $\\gamma _ { 0 k }$ 分别为属性的区分度参数和难度参数；此时，被试的潜在能力水平越高，则被试对属性的掌握概率越大。HO-DINA 模型假设潜在属性之间满足连接缩合规则，即被试只有掌握题目所考查的所有属性时其理想作答结果才是1，进而才有较高概率正确解决问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其次，选用对数正态RT(lognormal RT,LRT)模型(van der Linden,2006)作为RT数据的测量模型，该模型可描述为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { n i } \\sim f ( t _ { n i } ; \\tau _ { n } , \\boldsymbol { \\omega } _ { i } , \\boldsymbol { \\xi } _ { i } ) = \\frac { \\omega _ { i } } { t _ { n i } \\sqrt { 2 \\pi } } \\exp ( - \\frac { \\omega _ { i } ^ { 2 } } { 2 } ( \\log t _ { n i } - ( \\xi _ { i } - \\tau _ { n } ) ) ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $T _ { n i }$ 为被试 $n$ 作答题目 $i$ 的时间(常以秒为单位)； $\\tau _ { n }$ 为被试 $n$ 的潜在加工速度，表示被试投入到整个测验中的平均工作速度； $\\ \\xi _ { i }$ 为题目 $i$ 的时间强度参数，表示完成题目 $i$ 所必需的时间； $\\boldsymbol { \\omega } _ { i }$ 为题目 $i$ 的时间精度参数。LRT 模型假设当被试的潜在加工速度较高时则其RT较小。LRT模型也可简单记为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\log ( T _ { n i } ) \\sim N ( \\xi _ { i } - \\tau _ { n } , \\ \\mathfrak { O } _ { i } ^ { - 2 } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最后，为实现对个体视觉参与度的测量，Man 和Harring (2019)提出了可分析 FC 数据的负二项注视点(negative binomial fixation,NBF)模型。NBF 模型假设FC 服从负二项分布，并将 FC 解释为个体的视觉参与度与题目所需的必要注视点数量之间的权衡关系的产物。NBF模型描述了被试 $n$ 在作答题目$i$ 时，在贯序、独立的 $V _ { n i }$ 次观察后成功提取了 $h _ { i }$ 次关键信息的概率分布，即：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { n i } \\sim f ( \\nu _ { n i } ; \\mathtt { E } _ { n } , h _ { i } , m _ { i } ) = \\frac { \\Gamma ( \\nu _ { n i } + h _ { i } ) } { \\nu _ { n i } ! \\Gamma ( h _ { i } ) } \\left( \\frac { h _ { i } } { \\exp ( \\varepsilon _ { n } + m _ { i } ) + h _ { i } } \\right) ^ { h _ { i } } \\left( \\frac { \\exp ( \\varepsilon _ { n } + m _ { i } ) } { \\exp ( \\varepsilon _ { n } + m _ { i } ) + h _ { i } } \\right) ^ { \\nu _ { n i } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $V _ { n i }$ 为被试 $n$ 解答题目 $i$ 时的FC； $\\scriptstyle { \\mathtt { E } } _ { n }$ 为被试 $n$ 的潜在视觉参与度，可反映被试对问题情境中各种刺激的专注度； $m _ { i }$ 为题目 $i$ 的视觉强度参数，表示完成题目 $i$ 所必需的注视点数； $h _ { i }$ 为题目 $i$ 上FC的离散程度参数。NBF模型也可简单记为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { n i } \\sim N B ( \\exp ( \\varepsilon _ { n } + m _ { i } ) , d _ { i } ^ { - 2 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中，d=ya+u²/ (其中 $u _ { \\cdot i } = ^ { \\Sigma _ { n = 1 } ^ { N } \\mu _ { n i } } \\bigg / _ { N }$ )为题目 $i$ 的视觉区分度参数。NBF 模型的基本假设是，对于特定的题目，被试的视觉参与度越高则其在该题目上的FC越多。NBF 模型的另一个假设是被试对测验",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "中所有题目的视觉参与度是恒定的；该假设类似于LRT模型中潜在加工速度恒定的假设。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.2联合-层级建模法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近年来，人们越来越有兴趣去结合多模态数据所提供的信息对感兴趣的心理现象提供统一的解释。实际上，在计算机化测验中，对RA数据、RT数据和FC数据的采集几乎是同时进行的，且它们提供的是被试在作答相同题目时的平行信息(如，被试正确作答某题目耗时 20秒并投入30个注视点),因此，也有研究者将这类多模态数据称之为平行数据(Jeon et al.,2021)。平行数据最大的优势在于它们包含有关同一个问题解决过程的平行信息，如果这些信息可以被联合分析并相互利用，不仅可以直接分析不同潜在变量之间的关系，还有可能提高各自测量模型的参数估计准确性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于联合-层级认知诊断建模，Zhan 等(2021)提出可同时分析RA数据、RT数据和FC 数据的H-MCDM。如图2(a)所示，H-MCDM包含两层级模型：测量模型和结构模型。在第一层测量模型中，对三种模态数据分别建模，这与 S-MCDM类似，不再赘述；在第二层结构模型中，通过三元正态分布来描述潜在能力、潜在加工速度和潜在视觉参与度三者之间的关系：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\boldsymbol { \\Theta } _ { n } = \\left( \\begin{array} { l } { \\boldsymbol { \\Theta } _ { n } } \\\\ { \\boldsymbol { \\tau } _ { n } } \\\\ { \\boldsymbol { \\tau } _ { n } } \\\\ { \\boldsymbol { \\varepsilon } _ { n } } \\end{array} \\right) \\sim M V N \\left( \\left( \\begin{array} { l } { \\mathsf { \\mu _ { \\mu } } } \\\\ { \\mathsf { \\mu _ { \\mu } } } \\\\ { \\mathsf { \\mu _ { \\tau } } } \\\\ { \\mathsf { \\mu _ { \\mu _ { \\tau } } } } \\end{array} \\right) , ~ \\boldsymbol { \\Sigma } _ { \\mathrm { p e r s o n } } \\right) , ~ \\boldsymbol { \\Sigma } _ { \\mathrm { p e r s o n } } = \\left( \\begin{array} { l l l } { \\boldsymbol { \\sigma } _ { \\theta } ^ { 2 } } & & \\\\ { \\boldsymbol { \\sigma } _ { \\theta _ { \\tau } } } & { \\boldsymbol { \\sigma } _ { \\tau } ^ { 2 } } & \\\\ { \\boldsymbol { \\sigma } _ { \\theta _ { \\mu } } } & { \\boldsymbol { \\sigma } _ { \\tau } } & { \\boldsymbol { \\sigma } _ { \\ast } ^ { 2 } } \\end{array} \\right) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mu _ { \\mathrm { p e r s o n } } = ( \\mu _ { \\mathrm { 0 } } , \\mu _ { \\tau } , \\mu _ { \\\\mathrm { { \\varepsilon } } } ) ^ { \\mu }$ 为三个潜在变量的均值向量； $\\pmb { \\Sigma } _ { \\mathrm { p e r s o n } }$ 为三个潜在变量的方差协方差矩阵。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.3联合-交叉负载建模法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如上文所述，联合-层级建模的主要局限之一是：理论上，仅当潜在变量之间相关不为0时，各模态属性之间的信息才能相互被利用。为了更直接地利用RT和FC这两个附属数据中的信息，可使用联合-交叉负载建模法，将潜在属性或潜在能力直接建模在RT测量模型和FC 测量模型中。基于该逻辑，本文提出三个C-MCDM，如图 $2 ( \\boldsymbol { \\mathrm { b } } ) \\sim 2 ( \\boldsymbol { \\mathrm { d } } )$ 所示，分别为基于潜在能力的C-MCDM(C-MCDM-0)、基于连接缩合规则的 C-MCDM(C-MCDM-D)和基于补偿缩合规则的C-MCDM(C-MCDM-C)。三个模型遵循不同的逻辑假设，其中，C-MCDM-0假设被试的潜在能力的变化会影响其完成该题目的耗时及所用注视点数；而C-MCDM-D和C-MCDM-C均假设被试的潜在属性掌握情况会影响其完成该题目的耗时和注视点数，两者差异在于前者认为仅有被试掌握了题目所考查的所有属性后才会影响RT和FC，而后者认为被试掌握该题目所考查的属性的数量会影响 RT 和FC(即掌握的越多影响越大)。另外，为保证与 S-MCDM 和H-MCDM具有可比性，本文设定在C-MCDM-D 和C-MCDM-C 中也存在高阶潜在结构，但是否存在高阶潜在结构不影响建模。再有，为了保证模型的可识别性(即 $\\theta _ { n }$ 和 $\\tau _ { n }$ 之间的以及 $\\theta _ { n }$ 和$\\mathbf { \\delta } _ { \\mathbf { \\& } { n } }$ 之间的相关性已经被交叉负载解释)，在三个C-MCDM中并没有使用三元正态分布来联接潜在能力、潜在加工速度和潜在视觉参与度这三个潜在变量(Bolsinova& Tijmstra,2018;Molenaar et al.,2015)。小规模模拟研究结果显示在当前C-MCDM基础上再采用三元正太分布联接三个潜在变量后会导致参数估计不收敛，尤其是三元正太分布中的方差和协方差。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为便于表达，用统一模型来表示三个C-MCDM。首先，对RA数据而言仍选用HO-DINA 模型作为其测量模型(见公式(3))。其次，对RT数据和FC 数据而言，它们的测量模型可分别表示为：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\log ( T _ { n i } ) \\sim N ( ( \\xi _ { i } - \\varphi _ { i } f ( \\Theta _ { n } , { \\bf a } _ { n } , { \\bf q } _ { i } ) ) - \\tau _ { n } ) , \\ \\Theta _ { i } ^ { - 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { n i } \\sim N B ( \\exp ( ( m _ { i } + \\lambda _ { i } f ( \\Theta _ { n } , { \\bf a } _ { n } , { \\bf q } _ { i } ) ) + \\varepsilon _ { n } ) , ~ d _ { i } ^ { - 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中，函数 $f ( \\boldsymbol { \\theta } _ { n } , \\boldsymbol { \\mu } _ { n } , \\boldsymbol { \\ q } _ { i } )$ 表示对于考查给定属性的题目 $i$ ，潜在能力或潜在属性如何影响其RT 和FC:",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( \\boldsymbol { \\theta } _ { _ { n } } , \\mathbf { a } _ { _ { n } } , \\mathbf { q } _ { \\mathrm { i } } ) = \\left\\{ \\begin{array} { c l } { \\boldsymbol { \\theta } _ { _ { n } } } & { \\mathrm { f o r } \\mathrm { C - M C D M - } \\boldsymbol { \\Theta } } \\\\ { \\displaystyle \\prod _ { k = 1 } ^ { K } \\alpha _ { n k } ^ { q _ { i k } } } & { \\mathrm { f o r } \\mathrm { C - M C D M - D } . } \\\\ { \\displaystyle \\sum _ { k = 1 } ^ { K } \\mathbf { a } _ { _ { n k } } q _ { _ { i k } } \\mathrm { f o r C - M C D M - C } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\varphi _ { i }$ 和 $\\lambda _ { i }$ 分别为函数 $f ( \\boldsymbol { \\theta } _ { n } , \\boldsymbol { \\mu } _ { n } , \\boldsymbol { \\ q } _ { i } )$ 对RT和FC的加权系数或交叉载荷；以C-MCDM-D为例， $\\varphi _ { i }$ 和 $\\lambda _ { i }$ 分别表示，对于题目 $i$ ，理想作答为1的被试和理想作答为0的被试之间(对数)RT和FC 的均值的差异。鉴于已有研究表明潜在能力与潜在加工速度之间并不总是正相关(Zhan,Jiao et al.,2018)，因此，三个模型中并不限制 $\\varphi _ { i }$ 和 $\\lambda _ { i }$ 的正负号，而由数据驱动决定。对于题目 $i$ ，当 $\\varphi _ { i } > 0$ 时，一定程度反映了题目 $i$ 对被试作答时需付出的认知负荷的要求相对较低(如，速度测验中的题目)，进而能力较高(或属性掌握越多)的被试会使用相对更少的时间来作答，而能力较低的被试会使用相对更多的时间来作答；而当 $\\varphi _ { i } < 0$ 时，一定程度反映了题目 $i$ 对被试作答时需付出的认知负荷的要求相对较高(如，难度测验中的题目)，进而能力较高的被试会使用相对更多的时间来作答，而能力较低的被试会使用相对更少的时间来作答(可能是动机较低导致的(Wise&Kong,2005; Zhan,Jiao et al.,2018))。同理，对于题目 $i$ ，当 $\\lambda _ { i } > 0$ 时，一定程度反映了题目 $i$ 所涉及的关键信息的数量较多，进而能力较高的被试在作答该题目时会使用相对更多的注视点，而能力较低的被试会使用相对较少的注视点(即难以提取到所有的关键信息)；而当 $\\lambda _ { i } < 0$ 时，一定程度反映了题目 $i$ 所涉及的关键信息的数量较少，进而能力较高的被试在作答该题目时会使用相对更少的注视点，而能力较低的被试会使用相对较多的注视点(可能是受到无关信息干扰，难以确定关键信息的位置)。另外，由于 $\\varphi _ { i }$ 和 $\\lambda _ { i }$ 是同一道题目的参数，所以理论上有4种组合，如表1所示；当然，表1中的描述只是一种可能性，实践中还需要针对具体问题具体分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c2d017c3f9a565d2723f96a56e57bdbb56eee4e33c24c11b8fcd5a5bcb6e5e1.jpg",
+        "table_caption": [
+            "表1C-MCDM中 $\\varphi _ { i }$ 和 $\\lambda _ { i }$ 参数的正负取值可能反映的题目信息"
+        ],
+        "table_footnote": [
+            "注： $\\varphi _ { i }$ 和 $\\lambda _ { i }$ 分别为函数 $f ( \\boldsymbol { \\theta } _ { n } , \\boldsymbol { \\mu } _ { n } , \\boldsymbol { \\ q } _ { i } )$ 对 RT 和FC 的交叉载荷；0为潜在能力； $\\mathbf { \\alpha } _ { \\mathrm { ~ \\mathfrak { ~ a ~ } ~ } }$ 为潜在属性； $q$ 为题目所考查的属性；↑为增加，为下降；RT为题目作答时间；FC 为注视点数"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td></td></tr><tr><td rowspan=\"4\">>0</td><td>v0</td><td><0</td></tr><tr><td>关键信息多，认知负荷要求低：</td><td>关键信息少，认知负荷要求低：</td></tr><tr><td>若f(0n,αn,qi)↑，则 RT↓,FC↑;</td><td>若f(0n,αn,qi)↑，则 RT↓,FC↓;</td></tr><tr><td>若f(On,αn,qi）↓，则 RT↑,FC↓；</td><td>若f(0n,αn,qi)↓，则 RT↑,FC↑；</td></tr><tr><td rowspan=\"3\">pi <0</td><td>关键信息多，认知负荷要求高：</td><td>关键信息少，认知负荷要求高：</td></tr><tr><td>若f(On,αn,qi）↑，则 RT↑,FC↑；</td><td>若f(0n,αn,qi)↑，则RT↑,FC↓；</td></tr><tr><td>若f(On,αn,qi)↓，则RT↓,FC↓；</td><td>若f(0n,αn,qi)↓，则RT↓,FC↑；</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "另外，鉴于在认知诊断中提高潜在属性的诊断准确率才是关键，三个C-MCDM均未考虑潜在加工速度和潜在视觉参与度对RA的影响，即不考虑利用RA数据信息提高这两个潜在变量的参数估计准确性；也没有考虑RT数据和FC数据之间信息的相互利用，仍假设潜在加工速度和潜在视觉参与度之间存在相关。此时，可以用二元正态分布描述潜在加工速度和潜在视觉参与度之间的关系：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\boldsymbol { \\Theta } _ { n } = \\left( \\begin{array} { l } { \\tau _ { n } } \\\\ { \\varepsilon _ { n } } \\end{array} \\right) \\sim M V N \\left( \\left( \\begin{array} { l } { \\mathsf { \\mu } _ { \\tau } } \\\\ { \\mathsf { \\mu } _ { \\varepsilon } } \\end{array} \\right) , ~ \\pmb { \\Sigma } _ { \\mathrm { p e r s o n } } \\right) , ~ \\pmb { \\Sigma } _ { \\mathrm { p e r s o n } } = \\left( \\begin{array} { l l } { \\sigma _ { \\tau } ^ { 2 } } & \\\\ { \\sigma _ { \\tau \\varepsilon } } & { ~ \\sigma _ { \\varepsilon } ^ { 2 } } \\end{array} \\right) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/67bfd9acbb097774ad080b1e2d9f01c098dcee98ab1ff7538e410a70ef8415b0.jpg",
+        "img_caption": [
+            "图2联合-层级和联合-交叉负载多模态认知诊断建模示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注:0为潜在能力;t为潜在加工速度;ε为潜在视觉参与度； $\\mathbf {  { a } }$ 为潜在属性;Y为题目作答精度;T为题目作答时间;V为注视点数；I为题目数量;K为属性数量.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3.4认知结构诊断及认知特征推断",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实际上，相比于传统的仅分析RA数据的CDM而言，S-MCDM、H-MCDM和三个C-MCDM均能实现对多模态数据的分析，研究者也均可以基于分析结果实现对个体认知结构的诊断及其他认知特征的推断。具体而言，首先，在 MCDM中，作为RA数据的测量模型，HO-DINA 模型的主要功能就是诊断个体对潜在属性的掌握情况；因此，潜在属性模式的诊断结果可以较为直接地反映个体的认知结构。其次，在MCDM中，额外使用了LRT模型和NBF 模型分别作为RT和FC数据的测量模型。与 HO-DINA模型中将被试参数设为类别变量不同，LRT模型和NBF 模型中的被试参数为连续变量；因此，无法像对潜在属性的诊断一样直接对个体的潜在加工速度和潜在视觉参与度进行分类，进而无法直接实现对个体认知特征的分类。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对此，一种较为简单明了的方式是利用均值作为切点：当个体的潜在能力大于均值时表明该个体属于认知能力(如，问题解决能力)相对较高的一类，反之则反；当个体的潜在加工速度大于均值时表明该个体属于加工速度相对较快的一类，反之则反；当个体的潜在视觉参与度大于均值时表明该个体属于专注度较高的一类，反之则反。理论上，三者进一步组合，可得到8种认知特征综合类别(Zhan et al.,2021)；表2呈现了这8种认知特征综合类别及可能的原因或行为表现。当然，需要强调的是这种分类方式是比较粗糙的，适用于对个体认知特征的粗略推断，并非精确的测量或诊断结果。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b03f86714273bed59513d2e513d7b602e6e14a7b86de88bf893dddf0c5302f52.jpg",
+        "table_caption": [
+            "表28种认知特征综合类别及可能的原因或行为表现(Zhan etal.,2021)."
+        ],
+        "table_footnote": [
+            "注：0为潜在能力;t为潜在加工速度;为潜在视觉参与度; $+$ 为大于均值;-为小于均值"
+        ],
+        "table_body": "<html><body><table><tr><td>0</td><td>T</td><td>8</td><td>认知特征推断</td><td>可能的原因或行为表现</td></tr><tr><td>+</td><td>+</td><td>+</td><td>认知流畅+聚焦者</td><td>有能力全面提取题目中的关键信息</td></tr><tr><td>+</td><td>+</td><td>一</td><td>认知流畅+非聚焦者</td><td>有能力排除干扰，提取题目中少有的关键信息</td></tr><tr><td>+</td><td></td><td>+</td><td>沉思型+聚焦者</td><td>基于已提取的关键信息，对可能问题解决方法深思熟虑</td></tr><tr><td>+</td><td></td><td>一</td><td>沉思型+非聚焦者</td><td>有能力排除干扰，基于少量的关键信息进行深思熟虑</td></tr><tr><td>一</td><td>+</td><td>+</td><td>冲动型+聚焦者</td><td>快速提取一些信息，快速验证问题解决方法</td></tr><tr><td>一</td><td>+</td><td>一</td><td>冲动型+非聚焦者</td><td>未充分提取信息，倾向于快速猜测</td></tr><tr><td></td><td>一</td><td>+</td><td>认知不流畅+聚焦者</td><td>有作答动机但认知能力较低</td></tr><tr><td></td><td>一</td><td></td><td>认知不流畅+非聚焦者</td><td>缺乏作答动机</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.4贝叶斯参数估计 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文使用全贝叶斯马尔可夫链蒙特卡洛算法对 S-MCDM、H-MCDM和三个C-MCDM进行参数估计，并基于JAGS (Plummer,2015)实现。附录 S1章节中呈现了模型参数估计对高、中和低信息先验分布的鲁棒性分析结果，结果表明新模型对包含不同信息量的先验分布具有一定的鲁棒性。结合已有实证数据分析经验和已有研究结果(Man&Harring,2019;Zhan et al.,2021)，正文所有参数估计均采用中信息先验分布。示例数据及相应的JAGS 代码已分享在附录中，关于如何使用JAGS 进行贝叶斯参数估计可参见 Zhan 等(2019)",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3实证数据分析 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "鉴于本文所提出模型中包含 $\\varphi _ { i }$ 和 $\\lambda _ { i }$ 两个新参数，暂缺乏对它们的取值范围的了解，难以进行恰当的模拟研究(即，不知根据何种分布来生成它们的真值)；因此需要先进行实证研究，以展现新模型的实践可应用性，并为模拟研究中参数真值生成提供参考依据。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1数据描述和分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为对比三种多模态数据分析方法(即5个MCDM)的表现，我们选用来自一项技术增强测评环境下的数学测验的数据。该数据2在美国东海岸一所大学的眼动实验室采集的(Man&Harring,2019)，其中包括 $N = 9 3$ 名(矫正)视力正常的大个体对 $I = 1 0$ 道题目的作答。该测验考查 $K = 4$ 个潜在属性： $\\left( \\mathsf { a } _ { 1 } \\right)$ 算数(arithmetic)、 $\\left( \\alpha _ { 2 } \\right)$ 代数(algebra)、 $\\left( { \\mathfrak { a } } _ { 3 } \\right)$ 几何(geometry)和 $\\left( \\alpha _ { 4 } \\right)$ 数据分析(data analysis)，测验Q矩阵见图3。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "该数据包含三种同时采集的数据：结果数据(即 RA)、过程数据(即RT)和生物计量数据(即 FC)。另外，有关该数据更详细的描述请参阅 Man 和 Harring (2019)。注意，Man 和 Harring (2019)使用的是语言推理数据，而 Zhan 等(2021)及本文使用的是同一批次采集的数学测验数据。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "分别使用 S-MCDM、H-MCDM和三个C-MCDM分析该数据。五个模型均使用两条马尔可夫链(随机起点)，每条链包含 60,000 次迭代(预热 40,000 次)，稀疏值1；最终剩余 40,000 次迭代用于计算后验均值和后验标准差。使用潜在量尺缩减因子 $( \\mathrm { P S R F } ) < 1 . 2$ (Brooks&Gelman,1998)作为参数估计收敛检验标准(Brooks & Gelman,1998;de la Torre&Douglas,2004)。使用后验预测模型检验(posterior predictivemodel checking)(PPMC; Gelman et al.,2014)来评估模型-数据绝对拟合，其中后验预测概率(posteriorpredictive probability,ppp)接近0.5表示模型与数据拟合(通常， $p p p < 0 . 0 5$ 或 $p p p > 0 . 9 5$ 可被视为不拟合(Gelman et al.,2014))。在 PPMC 中使用测验统计量(test statistics)(即仅关注真实数据与预测数据之间的差异，不涉及具体模型参数)(Levy&Mislevy,2016)。由于目前缺乏针对联合模型的绝对拟合评价指标，在三个模型中，我们均分别评估不同模态数据与其测量模型之间的拟合关系。此外，使用DIC 作为模型-数据的相对拟合指标用于模型选择；两指标都是指标值越小表示模型与数据拟合的越好。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/81b92ab945619dc591267ccfba07220747deb3fc524ad6d7ecae29973096af55.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td>α1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>α2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>α3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>a4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2结果",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表3呈现了5个多模态模型对该数据的拟合情况。需要强调的是，由于C-MCDM-D中约 $3 9 . 7 1 \\%$ 的待估计参数(包括 $g _ { i } , \\ { s } _ { i } , \\ \\xi _ { i } , \\ \\Theta _ { i } , \\ m _ { i } , \\ d _ { i } , \\ \\Theta _ { i } , \\ \\lambda _ { i } , \\ \\gamma _ { 0 k } , \\ \\gamma _ { 1 k } , \\ \\mathbf { a } _ { m k } , \\ \\Theta _ { n } , \\ \\tau _ { n } , \\ \\varepsilon _ { n } , \\ \\sigma _ { \\Theta } ^ { 2 } , \\ \\sigma _ { \\tau } ^ { 2 } , \\ \\sigma _ { \\varepsilon } ^ { 2 } , \\ \\sigma _ { \\Theta \\tau } , \\ \\sigma _ { \\Theta \\varepsilon } , \\ \\sigma _ { \\mathtt { q } \\varepsilon } , \\ \\sigma _ { \\mathtt { r } \\varepsilon } \\ \\} \\sharp \\vdash \\left\\{ \\begin{array} { l l l } \\end{array} \\right.$ （204C-MCDM-C中约 $2 9 . 3 5 \\%$ 的待估计参数(同上)并未达到收敛标准 $\\left( \\mathrm { P S R F } < 1 . 2 \\right)$ ，因此，这两个模型与数据的拟合结果仅供参考，在实证研究中不再参与后续探讨。首先，根据 $p p p$ 值，表明 S-MCDM、H-MCDM和C-MCDM-0中的测量模型均拟合该数据。进一步，DIC指标值判断C-MCDM-0对该数据的相对拟合最好，H-MCDM其次，S-MCDM最差。该结果说明，对于提供平行信息的多模态数据而言，两种联合建模法均比分离建模法的表现更优；且基于联合-交叉负载建模法的C-MCDM表现优于基于联合-层级建模法的H-MCDM。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "通过观察H-MCDM中潜在能力与潜在加工速度的估计值之间的相关系数 $( - 0 . 0 0 8 , \\mathrm { S E } = 0 . 2 7 8 )$ 和潜在能力与潜在视觉参与度的估计值之间的相关系数 $( 0 . 0 0 4 , \\mathrm { S E } = 0 . 2 5 2 )$ ，可发现两相关系数均接近于0，理论上难以发挥H-MCDM相较于S-MCDM的优势；反观，由于C-MCDM-0可以直接利用RT和FC数据中的信息来降低对潜在能力参数的估计标准误(见图4)，所以导致该模型对数据的拟合相对更好。下文将基于C-MCDM-0模型的分析结果进行阐述。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表4呈现了C-MCDM-0模型中三个测量模型的参数估计值及 $\\displaystyle { \\boldsymbol { \\Phi } } i$ 和 $\\lambda _ { i }$ 的估计值。首先，对测量模型中参数而言，该结果与 Zhan 等(2021)的估计结果基本一致。其中，前两题的猜测参数较大，而第6题的失误参数较大。各题目的时间强度参数的平均值约为3.33，表明被试完成这些题目所必须的平均耗时约为28秒(接近该数据中RT的均值33.99)。各题目的视觉强度参数的平均值约为4.68，表明被试完成这些题目所必须的注视点数约为107个(接近该数据中FC 的均值114.53)。其次，对 $\\varphi _ { i }$ 和 $\\lambda _ { i }$ 而言，一个显著特点是对于同一道题目两参数的正负号相反。结合表1中的描述，表明该测验中题目所包含的关键信息数量与认知负荷要求相匹配，即关键信息多则认知负荷要求高，反之则反。进一步，图5呈现 $\\displaystyle { \\boldsymbol { \\wp } } _ { i }$ 和 $\\lambda _ { i }$ 的估计值分布。发现 $\\varphi _ { i }$ 估计值的中位数 $\\because 0$ ，一定程度反映该测验中多数题目的认知负荷要求相对较高，进而个体的潜在能力越高则其解题时所消耗的时间越长；另外，发现 $\\lambda _ { i }$ 估计值的中位数 $> 0$ ，一定程度反映该测验中多数题目所包含的关键信息数量较多，进而个体的潜在能力越高则其解题时所呈现的注视点数越多。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "表5呈现了基于C-MCDM-0模型的反馈样例，包括对认知结构和其他认知特征的反馈信息，以展现联合分析多模态数据的优势。以被试5、10和65为例，3人在潜在属性上的诊断结构相同，但他/她们在潜在能力、潜在加工速度和潜在视觉参与度上的估计值有较大差异；这表明即便他/她们具有相同的认知结构，他/她们在认知风格或认知流畅性等认知特征方面也可能不同。另外，对于认知结构有缺失的被试，若实施有针对性干预，除缺失的潜在属性外，还应考虑不同个体的认知特征，采取更恰当的干预措施。比如，被试34和67均缺失属性2和4，但由于两者的认知特征不同，或许可以尝试不同的有针对性干预措施。对于被试34(冲动型 $+$ 非聚焦者)而言，由于其倾向于仅根据从问题情境中提取的部分信息就仓促做出决定，除缺失的潜在属性外，还可以尝试培养该被试的视觉参与度，并鼓励其认真审题、谨慎作答。而被试67(认知不流畅 $^ +$ 聚焦者)似乎有解决问题的动机或欲望但由于能力有限即便视觉参与度较高也无法提取题目中的关键信息；所以对该被试而言，应该着重补救其所缺失的潜在属性。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/55bf65b20c41ec51ced941917e26452c4e9bb0e0ef455152bb46458f12a70935.jpg",
+        "table_caption": [
+            "表3实证数据中模型-数据拟合指标"
+        ],
+        "table_footnote": [
+            "注： $- 2 \\mathrm { L L } = - 2$ log likelihood; DIC $\\mathbf { \\Sigma } =$ deviance information criterion; $p p p =$ 后验预测概率; $\\mathrm { R A } =$ 作答精度; $\\mathbf { R } \\mathbf { T } =$ 作答时间 FC $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 注视点数. "
+        ],
+        "table_body": "<html><body><table><tr><td>Model</td><td>-2LL</td><td>DIC</td><td>pppRA</td><td>pppRT</td><td>pppFC</td></tr><tr><td>S-MCDM</td><td>11104.13</td><td>11890.70</td><td>0.42</td><td>0.52</td><td>0.78</td></tr><tr><td>H-MCDM</td><td>11040.62</td><td>11804.00</td><td>0.42</td><td>0.51</td><td>0.57</td></tr><tr><td>C-MCDM-0</td><td>10275.27</td><td>11542.78</td><td>0.43</td><td>0.51</td><td>0.68</td></tr><tr><td>C-MCDM-D</td><td>10127.21</td><td>10549.14</td><td>0.40</td><td>0.52</td><td>0.64</td></tr><tr><td>C-MCDM-C</td><td>10009.65</td><td>10434.95</td><td>0.36</td><td>0.51</td><td>0.67</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/f68d1f2df0635e10dd90c3a6971bad11a783e42b53e388215c608dd83b7efc74.jpg",
+        "img_caption": [
+            "图4 实证数据中潜在能力参数估计后验标准差(标准误)"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/c67b6c7ea9b0a2f7bc7e3bb54cba2c62413673b5ce69731a2bcd0b6211374d9f.jpg",
+        "table_caption": [
+            "表4实证数据中C-MCDM-0模型的题目参数估计值，"
+        ],
+        "table_footnote": [
+            "注： $\\mathbf { g } = \\mathbf { \\partial }$ 猜测参数; $\\mathbf { s } = \\mathbf { \\partial }$ 失误参数; $\\xi =$ 时间强度参数; $\\omega =$ 时间精度参数; $m =$ 视觉强度参数; $d =$ 视觉区分度参数；括号内为标准误(后验标准差)."
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">题目</td><td rowspan=\"2\">考查 属性</td><td colspan=\"2\">作答精度</td><td colspan=\"2\">作答时间</td><td colspan=\"2\">注视点数</td><td rowspan=\"2\"></td><td rowspan=\"2\">入</td></tr><tr><td>g</td><td>S</td><td></td><td>@</td><td>m</td><td>d</td></tr><tr><td>1</td><td>(1010)</td><td>0.71 (0.23)</td><td>0.06 (0.04)</td><td>2.89 (0.04)</td><td>3.78 (0.340)</td><td>4.23 (0.04)</td><td>0.08 (0.011)</td><td>0.25 (0.05)</td><td>-0.22 (0.04)</td></tr><tr><td>2</td><td>(1100)</td><td>0.60 (0.22)</td><td>0.05 (0.04)</td><td>3.43 (0.05)</td><td>2.56 (0.20)</td><td>4.85 (0.04)</td><td>0.03 (0.002)</td><td>-0.07 (0.06)</td><td>0.13 (0.04)</td></tr><tr><td>3</td><td>(1100)</td><td>0.33 (0.13)</td><td>0.38 (0.11)</td><td>2.60 (0.06)</td><td>2.65 (0.25)</td><td>3.87 (0.05)</td><td>0.07 (0.010)</td><td>0.43 (0.07)</td><td>0.40 (0.05)</td></tr><tr><td>4</td><td>(0100)</td><td>0.31 (0.21)</td><td>0.18 (0.08)</td><td>3.34 (0.05)</td><td>2.56 (0.20)</td><td>4.68 (0.04)</td><td>0.03 (0.003)</td><td>-0.11 (0.06)</td><td>0.15 (0.04)</td></tr><tr><td>5</td><td>(0010)</td><td>0.49 (0.20)</td><td>0.25 (0.07)</td><td>3.13 (0.07)</td><td>1.83 (0.14)</td><td>4.50 (0.05)</td><td>0.03 (0.002)</td><td>0.21 (0.08)</td><td>-0.18 (0.06)</td></tr><tr><td>6</td><td>(0100)</td><td>0.09 (0.04)</td><td>0.86 (0.07)</td><td>3.08 (0.08)</td><td>3.14 (0.42)</td><td>4.42 (0.07)</td><td>0.05 (0.012)</td><td>-0.65 (0.08)</td><td>0.61 (0.07)</td></tr><tr><td>7</td><td>(0001)</td><td>0.43 (0.19)</td><td>0.22 (0.11)</td><td>3.74 (0.06)</td><td>1.98 (0.16)</td><td>5.06 (0.05)</td><td>0.02 (0.001)</td><td>-0.22 (0.07)</td><td>0.19 (0.06)</td></tr><tr><td>8</td><td>(1001)</td><td>0.15 (0.08)</td><td>0.61 (0.16)</td><td>3.92 (0.06)</td><td>2.88 (0.29)</td><td>5.18 (0.06)</td><td>0.02 (0.002)</td><td>-0.43 (0.07)</td><td>0.41 (0.06)</td></tr><tr><td>9</td><td>(0001)</td><td>0.44 (0.13)</td><td>0.36 (0.10)</td><td>3.41 (0.10)</td><td>1.22 (0.10)</td><td>4.82 (0.07)</td><td>0.01 (0.001)</td><td>-0.07 (0.12)</td><td>0.17 (0.08)</td></tr><tr><td>10</td><td>(1001)</td><td>0.11 (0.06)</td><td>0.73 (0.15)</td><td>3.80 (0.12)</td><td>1.13 (0.10)</td><td>5.18 (0.09)</td><td>0.01(0.001)</td><td>0.31 (0.14)</td><td>-0.29 (0.10)</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/0cd640d6c7d5c442d517682edbff60a8f140c00c98d1f15ceef13a38e2249c6f.jpg",
+        "img_caption": [
+            "图5实证数据中C-MCDM-0模型的φi和 $\\lambda _ { i }$ 估计值分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/641cc08e0371efcde4fd7f78f675fdfb03601b99890f1eda2721ce0c8ca344c7.jpg",
+        "table_caption": [
+            "表5实证数据中个体认知结构诊断及其他认知特征推断样例."
+        ],
+        "table_footnote": [
+            "注： $\\theta =$ 潜在能力; $\\tau =$ 潜在加工速度; $\\varepsilon =$ 潜在视觉参与度；括号内为标准误(后验标准差)."
+        ],
+        "table_body": "<html><body><table><tr><td>被试</td><td>α1</td><td>α2</td><td>α3</td><td>04</td><td>0</td><td>T</td><td>认知特征推断</td></tr><tr><td>5</td><td>1</td><td>1</td><td>1</td><td>1</td><td>0.12(0.25) -0.17 (0.11)0.20(0.09)</td><td></td><td>沉思型+聚焦者</td></tr><tr><td>9</td><td>1</td><td>1</td><td>1</td><td>1</td><td>0.31 (0.23) 0.05 (0.11) 0.06 (0.08)</td><td></td><td>认知流畅+聚焦者</td></tr><tr><td>34</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0.19(0.26) 0.20(0.11) -0.06(0.08)</td><td></td><td>冲动型+非聚焦者</td></tr><tr><td>65</td><td>1</td><td>1</td><td>1</td><td>1</td><td>0.25 (0.24) 0.20 (0.11) -0.22 (0.09)</td><td></td><td>认知流畅+非聚焦者</td></tr><tr><td>67</td><td>1</td><td>0</td><td>1</td><td>0</td><td>-1.52 (0.27)-0.18 (0.11) 0.10 (0.09)</td><td></td><td>认知不流畅+聚焦者</td></tr><tr><td>76</td><td>1</td><td>1</td><td>1</td><td>0</td><td></td><td>0.56 (0.25) -0.01 (0.11)-0.12 (0.09)</td><td>沉思型+非聚焦者</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4模拟研究",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "上文已经通过实证研究展示了新模型的实用性及相对优势。本节通过两则模拟研究进一步探究新模型的心理计量学性能。其中，研究1拟在多种模拟测验条件下探究新模型的参数估计返真性；研究 2拟对比新模型和H-MCDM的相对表现，以展现新模型的相对优势及考虑交叉负载的必要性。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.1模拟研究1",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.1.1数据生成与分析",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "模拟研究中，设定三个操纵变量： (1)样本量 $N$ ：100和500，考虑到CDM的实际应用场景及眼动研究目前可能的被试数量，本研究主要关注新模型在小样本条件下的表现；(2)测验长度I：15 和 30,固定潜在属性数量 $K = 5$ ，Q矩阵见图6(该Q矩阵满足DINA 模型的参数可识别性要求(Gu& Xu,2021))； (3)交叉载荷 $C L$ ： $\\lambda _ { i } = - \\varphi _ { i } = 0$ 、0.2 和0.5，其中，0.2和0.5的设定参考实证数据分析结果(见表4)，而设置0的目的是为了探究当不存在交叉负载时新模型的表现。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "被试的潜在能力、潜在加工速度和潜在视觉参与度按如下方法生成：",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left( \\begin{array} { c } { \\Theta _ { n } } \\\\ { \\tau _ { n } } \\\\ { \\varepsilon _ { n } } \\end{array} \\right) \\sim M V N \\left( \\left( \\begin{array} { c } { 0 } \\\\ { 0 } \\\\ { 0 } \\\\ { 0 } \\end{array} \\right) , \\left( \\begin{array} { c c c } { 1 } & { } & { } \\\\ { 0 } & { 0 . 2 5 } & { } \\\\ { 0 } & { - 0 . 1 2 5 } & { 0 . 2 5 } \\end{array} \\right) \\right) _ { \\left( \\begin{array} { c } { \\rho _ { 0 } } \\\\ { 0 } \\end{array} \\right) } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "该设定中 $\\rho _ { \\mathrm { \\tau g } } = - 0 . 5$ 参考了上文实证研究结果及 Zhan 和 Jiao 等(2018)和 Man 和 Harring (2019)的设定：假设个体的加工速度越慢则视觉参与度越高(即沉思型多匹配聚焦者)；同时，个体学习的加工速度越快则视觉参与度越低(即冲动型多匹配非聚焦者)；另外，遵循图 $2 ( \\boldsymbol { \\mathsf { b } } ) { \\sim } 2 ( \\boldsymbol { \\mathsf { d } } )$ 中的设定，设定 $\\rho _ { \\Theta \\tau } = 0$ 和 ${ \\rho } _ { \\nmid \\mathrm { { g } } } = 0$ 原因是在交叉负载认知诊断建模法中0与t之间的关系及0与ε之间的关系已经由交叉载荷来描述。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "另外，参考上文实证研究结果及 Zhan 等(2018)和 Man 和 Harring (2019)的设定，题目参数按如下方法生成",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv预印本",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\begin{array} { c } { x x _ { i } } \\\\ { y y _ { i } } \\\\ { \\xi _ { i } } \\\\ { m _ { i } } \\end{array} ) \\sim M V N ( ( \\begin{array} { c } { - 2 . 1 9 7 } \\\\ { 4 . 3 9 4 } \\\\ { 4 } \\\\ { 4 } \\end{array} ) , \\begin{array} { c c c c } { 1 } & { } & { } & { } \\\\ { 0 . 5 } & { 1 } & { } & { } \\\\ { - 0 . 2 5 } & { - 0 . 2 5 } & { 0 . 2 5 } & { } \\\\ { - 0 . 2 5 } & { - 0 . 2 5 } & { 0 . 1 2 5 } & { 0 . 2 5 } \\end{array} ) ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "此时，题目的 $g _ { i }$ 愛和樂 $s _ { i }$ 参数分别为 $g _ { i } = { ^ { \\mathrm { e x p } ( x x _ { i } ) } } { \\Big / } _ { 1 + \\mathrm { e x p } ( x x _ { i } ) }$ 愛和樂 $s _ { i } = 1 - \\Psi _ { } ^ { } \\Psi _ { } ^ { } ( x x _ { i } + y y _ { i } ) \\Big / _ { 1 + \\exp ( x x _ { i } + y y _ { i } ) }$ 。该设定 $( \\rho _ { \\beta \\delta } = 0 . 5 .$ P际$= - 0 . 5 \\cdot \\ \\rho \\rho \\rho = - 0 . 5 \\cdot \\ \\rho \\delta \\xi = - 0 . 5 \\cdot \\ \\rho \\rho \\rho = - 0 . 5$ 和 $\\rho \\zeta m = 0 . 5 )$ 假设题目的猜测参数越高则其时间强度参数和视觉强度参数越小。此外，题目时间精度参数和视觉离散程度参数分别从均匀分布和逆Gamma分布生成：$\\mathfrak { O } _ { i } \\sim U ( 1 . 2 5 , 2 )$ 和 $h _ { i }$ \\~InvGamma(2,6)。另外，属性区分度参数被固定为 $\\gamma _ { 1 k } = 1 . 5$ ，属性难度参数被固定为 $\\pmb { \\gamma } _ { 0 } = ( - 1 . 5 , - 0 . 5 , 0 , 0 . 5 , 1 . 5 ) ^ { \\mathnormal { , } }$ ，并依据公式2生成被试的属性模式。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "最后，在6种(2样本量 $\\cdot { \\times } 2$ 测验长度 $\\times 2$ 交叉载荷)模拟测验条件下，分别依据C-MCDM-0、C-MCDM-D和 C-MCDM-C 各生成 30 组平行数据(RA 数据、RT数据和FC 数据)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "在每种模拟测验条件中，使用数据生成模型作为分析模型。对于每组数据，三个分析模型均使用两条马尔可夫链(随机起点)，除每条马尔可夫链长减少至10,000 次迭代(预热5,000次)，各模型的参数估计设定与模拟研究中保持一致。使用 $\\mathrm { P S R F } < 1 . 2$ 作为参数估计收敛指标。使用 $p p p$ 值作为模型-数据绝对拟合指标，使用 DIC 作为模型-数据相对拟合指标；使用属性判准率 $\\begin{array} { r } { \\mathrm { A C C R } = \\sum _ { r = 1 } ^ { R } , \\sum _ { n = 1 } ^ { N } { \\mathbb { I } ( \\hat { \\alpha } _ { n k r } = \\alpha _ { n k r } ) \\Big / _ { N R } } } \\end{array}$ 和属性模式判准率 $\\begin{array} { r } { \\mathrm { P C C R } = \\sum _ { r = 1 } ^ { R } \\sum _ { n = 1 } ^ { N } { \\mathrm { I } ( \\hat { \\mathbf { u } } _ { n r } = \\mathbf { u } _ { n r } ) } \\Big / _ { N R } } \\end{array}$ 作为潜在属性的判准率指标，并使用偏差（204号 $\\begin{array} { r } { \\mathrm { b i a s } ( \\hat { x } ) = \\sum _ { r = 1 } ^ { R } \\hat { x } - x \\bigg / _ { R } } \\end{array}$ 、均方根误差 $\\begin{array} { r l } & { \\mathrm { R M S E } ( \\hat { x } ) = \\sqrt { \\sum _ { r = 1 } ^ { R } \\left( \\hat { x } - x \\right) ^ { 2 } \\bigg / _ { R } } } \\end{array}$ 及参数估计值与真值之间的相关系数(Cor)来评估其他参数估计的返真性，式中 $R = 3 0$ 为数据组数。",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/a61027b3fbf9918056170cd9dd4ddfde9a9cbe226fa53de65888409b76029838.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "图6模拟研究Q矩阵 $( K \\times I )$ 空白为 $^ { \\ast } 0 ^ { \\ast }$ ，灰色为\"1”，\\*表示 $I = 1 5$ 测验条件下用题，"
+        ],
+        "table_body": "<html><body><table><tr><td>*</td><td>*</td><td>*</td><td>*</td><td>*</td><td></td><td></td><td></td><td></td><td>*</td><td></td><td></td><td></td><td>* *</td><td></td><td></td><td>*</td><td></td><td>*</td><td>*</td><td></td><td></td><td>*</td><td></td><td></td><td>*</td><td>*</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.1.2结果",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "在所有模拟测验条件下，三个分析模型中的所有参数的PSRF值均满足 $\\mathrm { P S R F } < 1 . 2$ 的收敛标准(且$98 \\%$ 以上的参数满足相对更严苛的 $\\mathrm { P S R F } < 1 . 1$ 收敛标准(Brooks& Gelman,1998))。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "图7分别呈现了三个模型的属性(模式)判准率。首先，当交叉载荷为0时，三个模型在不同测验条件的表现基本一致。其次，随着交叉载荷的提高，可发现三个模型的ACCR和PCCR在不同测验条件下均有所提升，其中C-MCDM-C 提升幅度最大，C-MCDM-D次之，C-MCDM-0最小。这表明，在联合-交叉负载建模法中，为提高诊断分类准确性，直接利用RT和FC数据为被试对属性的掌握情况提供辅助信息比先为高阶潜在能力提供辅助信息再间接影响被试对属性的掌握更有效。对此，一种可能的原因是，在C-MCDM-0中，HO-DINA 模型(RA数据的测量模型)中的高阶潜在能力作为一种辅助参数其参数估计返真性通常较差(de la Torre & Douglas,2004; Zhan,2020; Zhan et al.,2020)；因此，尽管利用RT 和FC 数据中的辅助信息可以适当提高高阶潜在能力的参数估计准确性，但或许是提升幅度有限，难以有效促进潜在属性的估计准确性。这点在图7中也可以得到印证。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "图8分别呈现了三个模型的潜在能力、潜在加工速度和潜在视觉参与度的参数估计返真性。首先，三个模型在所有条件的参数估计偏差都接近于0。其次，对C-MCDM-0而言，随着交叉载荷的提高，潜在能力的RMSE 逐渐下降且Cor逐渐提高，表明随着RT和FC数据中的辅助信息的提高，潜在能力的估计返真性会随之增加；但值得注意的是，随着交叉载荷的提高，尽管潜在能力的估计返真性有所提升，但潜在加工速度和潜在视觉参与度的估计返真性却出现下降现象。然后，对C-MCDM-D 和C-MCDM-C 而言，由于RT和FC数据并未直接为潜在能力提供辅助信息系；因此，随着交叉载荷的提高，两模型中潜在能力的RMSE 略微下降且Cor 略微提高。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "由于篇幅限制，三个模型的题目参数估计返真性呈现在附录表 S2-S4中。整体而言，在不同测验条件下，三个模型的题目参数估计返真性都较好，呈现出较为一致的趋势：被试数量增加有助于提高题目参数估计返真性，而测验长度和交叉载荷大小的影响似乎很小。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) C-MLDM-0 (b) C-MLDM-D (c) C-MLDM-C   \n1.0 1.0 1.0 0.973 0.977 0.934 GO840N6 0.8570.878 0.900   \n0.9 0.847 0.8520.855 0.863 0.8670.869 0.9 0.9 0.855 0.8280.880 0.860- · 0.871   \n0.8 0.8 0.8 1 0.754 0.759   \n0.7 0.7 1 0.7 0.71   \n0.6 0.641 0.650 0.665 0.681 0.682 0.688 0.6 0.629 0.651 0.667 0.689 0.6 1.620.67 1 0.671   \n0.5 0.5 0.5 0'0=T T=T S=T 0'0-1 T'=T S0=1 0'0=1 T=1 0=T 0'0=1 T'=T S=T 0'0-1 T=T S'0=T 0'0=T '=T S=T 0'0=T T'=T S=T 0'0=T T=1 0=T 0'0=T T'O=T S=1 0'0=T C=1 S'=T 0'0=1 C'=1 S=T 0'0=T C=1 S=T I=15 I=30 I=15 I=30 I=15 I=30 I=15 I=30 I=15 I=30 I=15 I=30 N=100 N=500 N=100 N=500 N=100 N=500 ACCR_A1ACCR_A2ACCR_A3 ACCR_A1ACCR_A2ACCR_A3 ACCR_A1ACCR_A2ACCR_A3 ACCR_A4ACCR_A5→-PCCR ACCR_A4ACCR_A5→PCCR ACCR_A4ACCR_A5→-PCCR ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4692a342720966e00a6ca768d19df63a7931197697fb0bc41e74b8b70bcd272.jpg",
+        "img_caption": [
+            "图7模拟研究1中三个C-MCDM的属性(模式)判准率."
+        ],
+        "img_footnote": [
+            "图8模拟研究1中三个C-MCDM的潜在能力、潜在加工速度和潜在视觉参与度的参数估计返真性."
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "注： ${ \\bf N } =$ 样本量; $\\boldsymbol { \\mathrm { I } } =$ 测验长度; $\\mathrm { C L } =$ 交叉载荷; $\\scriptstyle \\Theta =$ 高阶潜在能力; $\\tau =$ 潜在加工速度; $\\varepsilon =$ 潜在视觉参与度;Bias $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 偏差;RMSE $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 均方根误差;Cor $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 估计值与真值的相关系数",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.2模拟研究2",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.2.1数据生成与分析",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "为进一步探究新模型的相对优势及交叉-负载的必要性，模拟研究2中分别使用三个新模型和H-MCDM作为数据生成模型，然后对比探究几个模型的表现。当三个新模型作为数据生成模型时，被试的潜在能力、潜在加工速度和潜在视觉参与度的生成方法与模拟研究1保持一致(公式12)；交叉载荷 $\\ C L \\left( \\lambda _ { i } = - \\varphi _ { i } \\right)$ 从均值为0.1、标准差为0.3的正态分布中抽取，表明交叉载荷在题目之间存在差异(该设定参考了上文实证数据的结果)。当H-MCDM作为数据生成模型时，被试的潜在能力、潜在加工速度和潜在视觉参与度按如下分布生成：",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\binom { \\theta _ { n } } { \\tau _ { n } } \\sim M V N \\left( \\left( \\begin{array} { l } { { 0 } } \\\\ { { 0 } } \\\\ { { 0 } } \\end{array} \\right) , \\left( \\begin{array} { l l l } { { 1 } } & { { } } & { { } } \\\\ { { - 0 . 2 5 } } & { { 0 . 2 5 } } & { { } } \\\\ { { 0 . 2 5 } } & { { - 0 . 1 2 5 } } & { { 0 . 2 5 } } \\end{array} \\right) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "此时， ${ \\rho } _ { \\mathrm { { \\scriptsize { \\ t } } } } = - 0 . 5$ 、 $\\rho _ { \\theta \\varepsilon } = 0 . 5$ 和 $\\rho _ { \\mathrm { \\tau g } } = - 0 . 5$ ，该设定参考了已有实证数据的结果(Zhan etal.,2018;Man&Harring,2019)：假设学生能力越高则加工速度越慢且视觉参与度水平越高；同时，学生学习能力越低则加工速度越快且视觉参与度水平越低。另外，每种模拟条件下均固定被试量 $N = 5 0 0$ 和测验长度 $I =$ 30，其他设定均与模拟研究1保持一致。每种模拟条件下生成30 组数据。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "当三个新模型作为数据生成模型时，仅使用数据生成模型和H-MCDM分析数据；当H-MCDM作为数据生成模型时，使用 H-MCDM和三个新模型分析数据。参数估计设定(如，链数和链长等)、收敛指标和返真性指标等均与模拟研究1保持一致。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.2.2结果",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "表6呈现不同条件下各数据分析模型与数据的拟合情况。首先，无论何种条件下，数据生成模型本身对模拟数据的拟合均相对更好。其次，根据DIC可发现，当C-MCDM作为数据生成模型时，C-MCDM较H-MCDM的相对优势较大；而当H-MCDM作为数据生成模式时，H-MCDM较C-MCDM的相对劣势较小；表明C-MCDM对不同测验条件的兼容性比H-MCDM更好。即忽略可能存在的交叉负载所导致的模型-数据不拟合比冗余考虑存在交叉负载所导致的模型-数据不拟合的程度更大。表7呈现了不同条件下各数据分析模型的属性判准率。结果的整体趋势与DIC的类似，即忽略可能存在的交叉负载对PCCR 的负面影响比冗余考虑存在交叉负载对PCCR的负面影响更大。另外，潜变量的和题目参数的返真性也均呈现类似的趋势(见附录表S5-S6)。总之，模拟研究2结果表明忽略可能存在的交叉负载所导致的负面结果比冗余考虑存在交叉负载所导致的更严重，即C-MCDM对测验情境的兼容性优于H-MCDM的。",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/1edcbcf512415ae6f2d53f600325dcea6b1efb3ba276d1f5e47fc80f020f62b3.jpg",
+        "table_caption": [
+            "表6模拟研究2中模型-数据拟合情况."
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据生成模型</td><td>数据分析模型</td><td>DIC</td></tr><tr><td>C-MCDM-0</td><td>H-MCDM</td><td>186481.5</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba4cb3c09994d43850a946c47bb2e2804da57434876c32077617e76a243f8952.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>C-MCDM-0</td></tr><tr><td>181029.5 C-MCDM-D H-MCDM 183774.8</td></tr><tr><td>C-MCDM-D 181720.3</td></tr><tr><td>C-MCDM-C H-MCDM 189775.6</td></tr><tr><td>C-MCDM-C 183881.5</td></tr><tr><td>H-MCDM H-MCDM 180286.2</td></tr><tr><td>C-MCDM-0 180395.0</td></tr><tr><td>C-MCDM-D 180347.8</td></tr><tr><td>C-MCDM-C 180351.9</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae907687428a601c80a7fc8cc9ac64fef646753851d2110519b341189070861f.jpg",
+        "table_caption": [
+            "表7模拟研究2中潜在属性(模式)判准率."
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据生成模型</td><td rowspan=\"2\">数据分析模型</td><td colspan=\"5\">ACCR</td><td rowspan=\"2\">PCCR</td></tr><tr><td>A1</td><td>A2</td><td>A3</td><td>A4</td><td>A5</td></tr><tr><td>C-MCDM-0</td><td>H-MCDM</td><td>0.957</td><td>0.966</td><td>0.967</td><td>0.975</td><td>0.977</td><td>0.862</td></tr><tr><td rowspan=\"3\">C-MCDM-D</td><td>C-MCDM-0</td><td>0.961</td><td>0.969</td><td>0.969</td><td>0.977</td><td>0.979</td><td>0.874</td></tr><tr><td>H-MCDM</td><td>0.953</td><td>0.966</td><td>0.966</td><td>0.971</td><td>0.982</td><td>0.860</td></tr><tr><td>C-MCDM-D</td><td>0.960</td><td>0.970</td><td>0.984</td><td>0.980</td><td>0.987</td><td>0.894</td></tr><tr><td rowspan=\"2\">C-MCDM-C</td><td>H-MCDM</td><td>0.955</td><td>0.961</td><td>0.969</td><td>0.970</td><td>0.980</td><td>0.858</td></tr><tr><td>C-MCDM-C</td><td>0.991</td><td>0.990</td><td>0.988</td><td>0.990</td><td>0.995</td><td>0.958</td></tr><tr><td rowspan=\"4\">H-MCDM</td><td>H-MCDM</td><td>0.960</td><td>0.958</td><td>0.967</td><td>0.977</td><td>0.977</td><td>0.863</td></tr><tr><td>C-MCDM-0</td><td>0.960</td><td>0.957</td><td>0.967</td><td>0.977</td><td>0.977</td><td>0.863</td></tr><tr><td>C-MCDM-D</td><td>0.957</td><td>0.958</td><td>0.967</td><td>0.977</td><td>0.976</td><td>0.861</td></tr><tr><td>C-MCDM-C</td><td>0.957</td><td>0.957</td><td>0.966</td><td>0.976</td><td>0.976</td><td>0.859</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5总结与展望 ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5.1总结 ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "个体的问题解决行为是彼此相关的多种认知过程及心理建构所共同决定的。在技术增强测评环境中，通过多种仪器或测量设备采集的多模态数据为实现对个体认知结构的精准诊断及其他认知特征的全面反馈提供了可能性。本文以对RA数据、RT数据和FC数据的分析为例，基于联合-交叉负载建模法提出了三个具有不同理论假设的C-MCDM。其中，C-MCDM-0假设被试的潜在能力的变化会影响其完成该题目的耗时和所用注视点数；而C-MCDM-D 和C-MCDM-C均假设被试的潜在属性掌握情况会影响其完成该题目的耗时和所用注视点数，两者差异在于前者认为仅有被试掌握了题目所考查的所有属性后才会影响RT和FC，而后者认为被试掌握该题目所考查的属性的数量会影响RT和FC。然后，本文以一则实证数据为例对比探究了5个MCDM的表现，包括基于传统分离建模法的S-MCDM、基于联合-层级建模法的H-MCDM 和新提出的三个C-MCDM。实证研究结果表明(1)联合分析(即H-MCDM和C-MCDM)比分离分析(即 S-MCDM)更适用于提供平行信息的多模态数据；且(2)从模型-数据拟合角度看，新模型比H-MCDM更拟合该数据。此外，实证研究也向读者展示了如何根据数据分析结果来实现对个体认知结构的诊断及其他认知特征(如，认知风格)的推断。最后，使用两则模拟研究进一步探讨新模型的表现。模拟研究1作为对实证研究的补充，探究了三个新模型在不同模拟测验条件的参数估计返真性。模拟研究2对比探讨了三个新模型和H-MCDM的表现，以展示新模型的相对优势及考虑交叉负载的必要性。模拟研究1结果表明(1)全贝叶斯MCMC算法能够为三个新模型提供较好的参数估计返真性，且三个新模型中各参数估计均可有效收敛；(2)实践应用中，充足的题目数量是保证被试参数估计准确性的必要条件之一；(3)在不以题库建设为目标的(或其他题目参数相对不重要的)应用场景中，100人的小样本量足以满足提供较为精准的被试参数估计值。模拟研究2结果表明忽略可能存在的交叉负载所导致的负面结果比冗余考虑存在交叉负载所导致的更严重，即C-MCDM对测验情境的兼容性优于H-MCDM的。总之，本文通过实证研究阐明了新模型的现实可应用性，并通过模拟研究阐明了新模型具有良好的心理计量学性能。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "综上所述，对本文的理论创新、理论贡献和应用价值做如下总结：",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(1)理论创新：首次将联合-交叉负载建模法引入认知诊断领域，提出三种不同假设的C-MCDM;(2)理论贡献：填补了在认知诊断领域缺少联合-交叉负载模型的空白；(3)应用价值：从全面反馈视角出发，以认知风格和认知流畅性为例，尝试在认知诊断中提供认知结构以外其他认知特征的反馈；丰富了认知诊断反馈的范围，增加了认知诊断的实践价值。另外，本文遵循 Zhan 等(2021)的做法，将实验心理学与心理与教育测量相结合，尝试将眼动数据引入心理计量模型；这在一定程度上拓展了心理与教育测量的研究范式，为今后进一步将实验心理学基于仪器的测量或量化研究方法引入传统心理与教育测量中提供了新视角。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "值得强调的是由于新提出的三个C-MCDM与H-MCDM是基于不同联合建模方法构建的，即它们基于不同的理论假设。在本文中，尽管三个C-MCDM对实证数据的拟合程度优于H-MCDM，这并不代表它们三者在任何测验情境下都优于H-MCDM；比如，H-MCDM的相对优势是理论结构简单、待估计参数数量较少。因此，本文更多的是在认知诊断领域向读者提供一种基于联合-交叉负载建模法的多模态数据分析视角和方法，以期进一步丰富多模态诊断数据分析模型的可选项。我们建议后续使用者针对特定的实证数据，同时使用多个MCDM对数据进行联合分析，并基于数据-模型拟合指标来选择相对最合适的模型，并结合模型的构建理论对分析结果做进一步解读。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "5.2局限与展望 ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "本文仍有一些局限性，值得后续做进一步探究。第一，与已有联合分析RA数据和RT数据的研究相比，尽管本文仅额外分析了一种眼动数据——注视点数(FC)，但鉴于联合-层级建模法和联合-交叉负载建模法的灵活扩展性，其他类型的眼动数据或其他模态数据(如，脑电[Jeon et al.,2021])也可尝试被纳入分析中，进而提出更全面的可联合分析更多模态数据的认知诊断模型。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "第二，本文以三个代表性的测量模型(即 HO-DINA 模型、LRT 模型和 NBF 模型)为例阐述了联合-交叉负载认知诊断模型的构建。同样，鉴于联合-交叉负载建模法的灵活扩展性，后续针对不同的测验情境可分别替换不同的测量模型。当然，需要强调的是测量模型的更换并不影响本文的主要创新点—",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "联合-交叉负载认知诊断建模法。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "第三，遵循 Zhan 等(2021)，利用多模态诊断数据本文只关注到对有限认知特征的推断，如沉思型-冲动型认知风格、聚焦者认知风格和认知流畅性。实际上，个体的认知特征还有很多，仅认知风格就还有其他的分类方式，比如场独立性-场依存性、言语型-视觉型等；从全面反馈的视角看，未来是否有可能利用多模态的数据实现对更多认知特征的推断，甚至对是一些非认知因素(如，动机、情绪和信念)的识别，是非常值得关注的研究方向。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "第四，本文主要是提供了一种多模态诊断数据的分析方法，实际上，对多模态数据的利用可以延伸到很多已有模型中。比如，后续研究可以将多模态数据引入多策略CDM(Ma&Guo,2019)、多水平CDM(Wang& Qiu,2018)和多级评分CDM(Ma&de la Torre,2016)中，甚至考虑将多模态数据引入到一些非参数诊断法中(如，聚类分析)等。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "第五，本文提出的三个C-MCDM均未考虑潜在加工速度和潜在视觉参与度对RA的影响，即未考虑利用RA数据信息提高这两个潜在变量的参数估计精度。后续，若有必要也可尝试C-MCDM做进一步拓广，纳入上述未考虑的路径(郑天鹏等,in press)，开发全交叉负载模型；只不过要额外注意模型可识别性问题。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "第六，如2.3.4节中所述，由于在RT和FC测量模型中的被试参数为连续变量，无法像对潜在属性的诊断一样直接对个体的潜在加工速度和潜在视觉参与度进行分类，进而无法直接实现对个体认知特征的分类。对此，本文采用了以均值为切点的分类方法，并依据潜在能力、潜在加工速度和潜在视觉参与度的分类组合，尝试对个体认知特征的推断。需要强调的是(1)这种分类方法是比较粗糙的，适用于对个体认知特征的粗略推断，并非精确的测量或诊断结果；(2)这种分类方法所利用的信息尚有限，仅利用了潜在能力、潜在加工速度和潜在视觉参与度这三个潜在变量的估计值作分类依据。未来，为实现对个体认知特征的更精准推断甚至是测量，可尝试从三个角度突破：(1)综合利用更多模态的数据来实现对个体认知特征的推断，以期为推断性分类提供更多的参考信息；(2)尝试借鉴计算机化分类测验中对连续变量的分类方法(Ferguson,1969)，以期改进以均值为切点的分类方法；(2)直接通过类别变量构建特定认知特征的被试参数(Wang&Chen,2020)，以期实现对个体认知特征的测量而非推断。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "第七，由于现实硬件条件的限制(如，没有大批量眼动仪)，本文所分析的实证数据仍属于小规模测验(由于成本仪器成本原因，在未来一段时间，涉及实验仪器采集数据的研究都会受限于被试量的问题)。尽管模拟研究结果现实，在不考虑建立题库的应用场景下小样本量(100人)也可以满足要求，但在大规模测验和涉及题库的应用场景(如，计算机化自适应测验)中，这些硬件条件的限制都会制约多模态数据分析方法的实际应用。随着测量方式及数据分析技术的不断发展，充分利用计算机(网络)技术，尤其是人工智能的介入，并结合便携式和低成本的心理学实验仪器，我们期待也有理由相信未来可以突破硬件条件的限制，在大规模测验中实现对多模态数据的采集与分析。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "最后，在贝叶斯参数估计值中，先验分布的选择反映了数据分析者对模型参数的信念或已有经验。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "根据已有数据分析经验以及已有研究结果(Man&Harring,2019; Zhan et al.,2021)，本文选取了特定的先验分布。尽管鲁棒性分析表明模型的参数估计结果受包含不同信息量的先验分布的影响较小，但这并不意味着本文所用的先验分布适用于所有测验情境。在后续的实践应用中，针对全新的实证数据，数据分析者也可尝试使用超先验分布来探索恰当的先验分布。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "An,L.,Wang,Y.,&Sun,Y.(2O17).Reading words orpictures:Eye movement patterns inadultsandchildren diffrbyage group and receptive language ability.Frontiers in Psychology,8:791. htps://doi.org/10.3389/fpsyg.2017.00791   \nBezirhan,U.,vonDavier,M.,&Grabovsky,I.(2O21).Modelingitemrevisitbehavior:Theierarchicalspeed-accuracyrevisits model. Educational and Psychological Measurement, 81(2),363-387.   \nBiancarosa,G.,&Shanley,L. (2O15).Whatisfluency(p.1-18).Cummings,K.D.,&Petscher,Y.(Eds.).Thefluencycostruct: Curriculum-based measurement concepts and applications. Springer.   \nBolsinova,M.,de Boeck,P.,&Tijmstra,J.(20l7).Modeling conditionaldependence betweenresponsetime andaccuracy Psychometrika,82,112-1148.https://doi.0rg/10.1007/s11336-016-9537-6   \nBolsinova,M.,&Tijmstra,J.(2Ol8).Improving precisionofabilityestimation:Geting more fromresponsetimes.British JournalofMathematical and Statistical Psychology,71,13-38.   \nBos,W.,Lankes,.-,rezel,,hipprt,KValtinR,& Walthe,G.(Eds.).().IGU: VertiefendeAnal Leseverstandnis,Rahmenbedingungen und Zusatzstudien [IGLU: Supplementary in-depth analyses ofreading comprehension, context effects,and additional studies].Miinster: Waxmann.   \nBrooks,S.P.,& Gelman,A. (1998). General methods for monitoring convergence ofiterative simulations.Journal of Computational and Graphical Statistics,7,434-455.https://doi.org/10.2307/1390675   \nDe Boeck,P.,&Jeon,M.(2019).An overview of models forresponse timesand processes incognitive tests.Frontiers in Psychology,10:102.   \nde la Torre,J. (2011).The generalized DINA model framework.Psychometrika,76,179-199.   \ndelaTorre,J,&Douglas,J.(o4).Higher-orderatentraitmodelsforognitivediagnosis.Psychometrika,69,-5. https://doi.0rg/10.1007/BF02295640   \nGardner,R.W.,Holzman,P.S.,Klein,G.S.,Linton,H.B,&Spence,D.(959).Cognitivecontrol: Astudyof individual consistencies in cognitive behavior.Psychological Issues,1,Monograph 4.   \nGelman,A.,Carlin,JB.,Stern,H.S.,Dunson,D.B.,Vehtari,A.,&Rubin,D.B.(24).Bayesiandataanalyss.BocaRaton: CRC Press.   \nGu,Y.,&Xu,G.(2O21).Suficientand necessaryconditions for theidentifiabilityof the Q-matrix.Statistica Sinica,31, 449-472.   \nGuo,L.Shang,P.,&Xia,L. (2017).Advantagesand ilustrations ofapicationofresponsetime model inpsychologicaland educational testing.Advances in Psychological Science,25(4),701-712.   \n[郭磊，尚鹏丽，夏凌翔.(2017).心理与教育测验中反应时模型应用的优势与举例．心理科学进展,25(4),701-712.]   \nHolzman,P.S. (1966). Scanning: Aprinciple of reality contact. Percepcual and Motor Skills,23,835-844.   \nJeon,M.,DeBoeck,P,LuoJ,Li,X.,&Lu,Z.-L.(1).odelingwithn-itemdependenciesinparaleldataotestsposes and brain activation.Psychometrika,86,239-271. https:doi.org/10.1007/s11336-020-09741-2   \nJunker,B.W.,&Sijtsma,K. (2ool).Cognitiveassessment models withfewassmptions,andconnections with nonparametric item response theory.Applied Psychological Measurement, 25,258-272.   \nKagan,J.(1965).Reflection-impulsivityand readingability in primary gradechildren.Child Development,36,609-628.   \nLahat,D.,Adah,T.,& Jutten, C.(2015).Multimodal data fusion: An overviewof methods,challengesand prospects. Proceedings of the IEEE,103(9),1449-1477.   \nLevy,R.,& Mislevy,R.J.(2016). Bayesian psychometric modeling. Boca Raton,FL: CRC Press.   \nLi,M.,Liu,Y.,&Liu,H. (02).Analysisof th problem-solving strategies incomputer-baseddynamicassssment:The extension and application of multilevel mixture IRT model.Acta Psychologica Sinica, 52(4),528-540.   \n[李美娟，刘玥，刘红云.(2020).计算机动态测验中问题解决过程策略的分析：多水平混合IRT模型的拓展与应用．心理 学报,52(4),528-540.]   \nLiu,H.,LiuY.,&Li,M. (2018)Analysis ofprocess dataofPISA2012 computer-based problemsolving: Applicationof the modified multilevel mixture IRT model. Frontiers in Psychology, 9:1372.   \nLiu,Y.,Xu,H.,Chen,Q.,&Zhan,P.(2).The measurementofproblem-solving competenceusing processdata.Advancesin Psychological Science.Advanced Online.   \n[刘耀辉，徐慧颖，陈琦鹏，詹沛达.(2022).基于过程数据的问题解决能力测量及数据分析方法．心理科学进展.预发表]   \nMa,W.,& de laTore,J.(016).Asequentialcognitive diagnosis model for polytomous responses.BritishJournalof Mathematical and Statistical Psychology, 69,253-275.   \nMa,W.,&Guo,W.(2019).Cognitive diagnosis models for multiplestrategies.BritishJournalofMathematicalandStatistical ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Psychology, 72(2),370-392. Man,K.,&Harring,J.R. (2O19).Negative binomial models for visual fixation counts ontest items.Educational and Psychological Measurement, 79(4), 617-635. http://doi.org/0.1177/0013164418824148 Man,K.,& Harring,J.R. (220). Assssing pre-knowledge cheating via innovative measures: Amultiplegroupanalysis of jointly modeling itemresponses,response times,and visualfixation counts.Educationaland Psychological Measurement. Advanced Online.https://doi.org/10.1177/0013164420968630 Messick, S. (1989). Cognitive styleand personality: Scanning and orientationtoward afect.ETS Research Report Series, RR-89-16.https://doi.0rg/10.1002/j.2330-8516.1989.tb00342.x Molenaar,D.,Tuerlinckx,F.,&vanderMaas,H.L. (2Ol5).Abivariate generalized linearitemresponsetheory modeling Plummer,M.(2015).Jags: Just another Gibbs sampler (version 4.0.0).Retrieved from htp:/mcmc-jags.sourceforge.net/ Poole,A.,Bal,L.J.,&Phillps,P. (2Oo4).Insearchofsaliene: Aresponse-time and eye movementanalysisofbookmark recognition.In S.Fincher,P.Markopoulos,D.Moore &R.Ruddle (Eds.),People andcomputers xvi: Designforlife. London,England: Springer. Raheef &Zainab (2oo9).Distinctivecognitive styles and their relationship tothepersonalitytraitsof Baghdd University students (Unpublished Master Thesis). Collge of Education, Ibn Rushd, University of Baghdad, Iraq. Ranger,J. (20i3).Anote on the hierarchical model for responses and response times in tests ofvan derLinden (2007). Psychometrika,78,3,538-544. Ren,H.,Xu,N.,Lin,Y.,Zhang,S.,& Yang,T. (2O21).Remedial teaching and learning fromacognitive diagnosticmodel perspective: Taking the data distribution characteristics as an example. Frontiers in Psychology,12:628607. https://doi.org/10.3389/fpsyg.2021.628607 Riding,R. J. (1997). On the nature of cognitive style. Educational psychology, 17(1-2),29-49. Rimawi,O.,Halabiyah,F.,&Hussein,O.(2020).Thecognitive style (focusing-scaning)among Al-Quds Universitystudents. International Journal of Humanities and Cultural Studies,7(1),143-154. Rupp,A.A.,Templin,J.L.,&Henson,R.(20l0).Diagnostic measurement:eorymethods，andaplications.NewYork: Guilford Press. Schaefer, G.A.,Reese,C.M.,Stefen,M.,McKinley,R.L,&Mils,C.N.(993).Field testofacomputer-basedGREgenral test (ETS Research report No. 93-07). Princeton, NJ: Educational Testing Service. Tang,F.,& Zhan,P.(2021).Does diagnostic feedback promote learning?Evidence fromalongitudinalcognitivediagnostic assessment. AERA Open. Advanced Online, URL https://doi.org/10.1177/23328584211060804 Unkelbach,C. (2006).The learned interpretation of cognitive fluency.Psychological Science,17(4),339-345. van derLinden,W.J.(2o6).Alognormal modelforresponse times ontest items.Journalof Educationaland Behavioral Statistics,31(2),181-204. vander Linden,W.J. (20o7).Ahierarchical framework formodeling speed andaccuracyontestitems.Psychometrika,72(3), 287-308. von Davier,.,&L,Y-S.(19).Handbookofdiagnosticclaificaionmodels: Modelsadmodel extensionsapplications, software packages. New York, NY: Springer. Wang,L.,Tang,F.,&Zhan,.(02).Efectanalysisofindivdualremedialteachngbasedoncognitivedagnosticassssnt: Taking“linear equation with one unknown”as an example.Journal of Psychological Science,43(6),1490-1497. [王立君，唐芳，詹沛达.(2020).基于认知诊断测评的个性化补救教学效果分析：以“一元一次方差\"为例．心理科学,43(6), 1490-1497.] Wang,S.,& Chen,Y.(2020). Using response times andresponse accuracytomeasure fluencywithincognitive diagnosis models. Psychometrika,85,600-629. Wang, W.C.,& Qiu,X.L. (2019). Multilevel modeling ofcognitivediagnostic assssment: the multilevel DINA example. Applied Psychological Measurement, 43(1),34-50. Wise,S.L.,& Kong,X.(25).Response time efort: Anew measureofexaminee motivation incomputer-based tests.Applied Measurement in Education,18,163-183 Zhan,P.(2018).Bayesiancognitivediagnosis modelingincorporatingtimeinformation:jointanalysisofresponsetimesand response accuracy data (Unpublished doctoral dissertation). Beijing Normal University. [詹沛达.(2018)．引入时间信息的贝叶斯认知诊断建模：对作答时间和作答精度数据的联合分析.北京师范大学，博士学 位论文.] Zhan,P.(2019).Joint modeling forresponse times andresponse accuracy incomputer-based multidimensionalasesments. Journal of Psychological Science, 42,170-178. [詹沛达.(2019).计算机化多维测验中作答时间和作答精度数据的联合分析．心理科学,42,170-178.] Zhan,P.(2O20).A Markov estimation strategy forlongitudinal learning diagnosis: Providing timely diagnostic fedback. Educational and Psychological Measurement,80(6),1145-1167. htps://doi.org/10.1177/0013164420912318 Zhan,P.,Jiao,H.&Liao,D.(2018).Cognitive diagnosis modeling incorporating itemresponse times.British Journalof Mathematical and Statistical Psychology, 71,262-286. Zhan,P.,Jiao,H.,Man,K,& Wang,L. (2O19).Using JAGSforBayesiancognitive diagnosis modeling:Atutorial.Jouralof Educational and Behavioral Statistics,44,473-503. Zhan,P.,Liao,M.,&Bian,Y.(2O18).Jointtestletcognitivediagnosismodeling forpairedlocalitemdependenceinsponse times and response accuracy. Frontiers in Psychology, 9:607. Zhan,P.,Man,K.,& Malone,J. (2O21).Cognitivediagnosis modellingincorporatingresponse timesandfixationcounts: ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv预印本",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Providing comprehensive fedbackand accurate diagnosis.PsyArxiv Preprint. htps://oi.org/10.31234/osf.io/5bprq   \nZhan,P.,& Qiao,X. (02).Adiagnosticclassificationanalysisofproblem-solvingcompetenceusing processdata: Anitem expansion method.PsyArxiv Preprint. https://doi.org/10.31234/osf.io/wtyae   \nZheng,T.,Zhou,W.,&Guo,L.(inpress).Cognitive diagnosis modellingbasedonresponse times.JournalofPsychological Science.   \n[郑天鹏，周文杰，郭磊.(in press).基于题目作答时间信息的认知诊断模型．心理科学   \nZoanet,N. (20l0).Interactivecomputerbasedassssmentasks: Howproblem-solvingprocess data can informinstruction. Australasian JournalofEducational Technology,26(5),585-606. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Joint-Cross-Loading Multimodal Cognitive Diagnostic Modeling Incorporating Visual Fixation Counts ZHAN Peida1,2 ( Department of Psychology, College of Teacher Education, Zhejiang Normal University, Jinhua 321004, China) (2 Key Laboratory of Inteligent Education Technology and Application of Zhejiang Province, Zhejiang Normal University,Jinhua 321004,China) ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Students'observed behavior (e.g.， learning behavior and problem-solving behavior） comprises of activities that represent complicated cognitive processes and latent conceptions that are frequently systematically related to one another. Cognitive characteristics such as cognitive styles and fluency may difer between students with the same cognitive/knowledge structure.However, practically allcognitive diagnosis models (CDMs) that merely assessitem response accuracy (RA) data are currently incapable of estimating or inferring individual differences in cognitive traits.With advances in technology-enhanced assessments,it is now possible to capture multimodal data, such as outcome data (e.g., response accuracy), process data (e.g., response times (RTs)，and biometric data (e.g.， visual fixation counts (FCs))，automaticallyand simultaneously during the problem-solving activity. Multimodal data alows for precise cognitive structure diagnosis as well as comprehensive feedback on various cognitive characteristics. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "First, using joint analysis ofRA,RT,and FC data as an example,this study elaborated three multimodal data analysis methods and models, including separate modeling (whose model is denoted as S-MCDM), joint-hierarchical modeling (whose model isdenoted asH-MCDM) (Zhan et al.，2021)，and joint-cros-oading modeling (whose model is denoted as C-MCDM).Follwing that, three C-MCDMs with distinct hypotheses were presented based on joint-cros-loading modeling， namely， the C-MCDM-0, C-MCDM-D,and C-MCDM-C,respectively. Three C-MCDMs, in comparison to the H-MCDM, introduce two item-level weight parameters (i.e., $\\boldsymbol { \\Phi } \\boldsymbol { i }$ and $\\lambda _ { i }$ ） into the RT and FC measurement models,respectively, to quantify the impact of latent ability or latent atributes on RTand FC.The Markov Chain Monte Carlo method was used to estimate model parameters using a full Bayesian approach.To illustrate the three proposed models' application and compare them to the S-MCDM and H-MCDM, multimodal data for a real-world mathematics test was used. Data was gathered at a prominent university on the East Coast ofthe United States in an eye-tracking lab. An $I = 1 0$ mathematics items test was given to $N = 9 3$ university students with normal or corrected vision. The test included $K = 4$ attributes,and the related Q-matrix is shown in Figure 3. The data is divided into three modalities: RA,RT,andFC,which were allcollected at the same time.The data was fitted to all five multimodal models. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "In addition,two simulation studies were conducted further to explore the psychometric performance of the proposed models.The purpose of simulation study 1 was to explore whether the parameter estimates of the proposed models can converge effectively and explore the recovery of parameter estimation under different simulated test situations.The purpose of simulation study 2 was to explore the relative merits of C-MCDMs and H-MCDM,that is,to explore the necessity of considering cross-loading in multimodal data analysis. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "The results of the empirical study showed that (1） the C-MCDM-0 has the best model-data fitting, followed by the H-MCDM and the S-MCDM. Although the DIC showed that the C-MCDM-D and C-MCDM-C also fittd the data well,the results were only for reference because some parameter estimates in these two models did not converge;that (2）the correlation coeficients between latent ability and latent processing speed and that between latent abilityand latent concentration were weak, making it difficult to fully exploit the theoretical advantages of H-MCDM over S-MCDM (Ranger,2013).By contrast,since the C-MCDM-0 can directly utilize the information from RTand FC data,the standard errorof the estimates of its latent ability was significantly lower than that of the previous two competing models; and that (3)the median of the estimates of $\\boldsymbol { \\Phi } _ { i }$ was less than O, which indicated that for most items, the higher the participant's latent ability is,the longer the time it will take to solve the items; and the median of the estimates of $\\lambda _ { i }$ was higher than O,which indicated that for most items,the higher the participant's latent ability is,the more number of fixation counts he/she shown in problem-solving. Furthermore,it should be noted that the estimates of $\\varphi _ { i }$ and $\\lambda _ { i }$ do not always have the same sign for diferent items,indicating that the influence of latent abilities on RT andFC has diferent directions (i.e.,facilitation or inhibition）for different items.Furthermore，simulation studyl indicated that the parameter estimation of the proposed three models could converge efectively and the recovery of model parameters was good under different simulated test situations.The results of simulation study 2 indicated that the adverse efects of ignoring the possible cross-loadings are more severe than redundantly considering the cross-loadings. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Overall,the results of this study indicate that (1) fusion analysis is more suitable for multimodal data that provides parallel information than separate analysis; that (2) through cross-loading,the proposed models can directly use information from RTand FC data to improve the parameter estimation accuracy of latent ability or latent atributes; that (3) the results ofthe proposed models can be used to diagnose cognitive structure and infer other cognitive characteristics such as cognitive styles and fluency; and that (4) the proposed models have better compatibility with different test situations than H-MCDM. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Keywordscognitive diagnosis,multimodal data,item response times，fixation counts，cognitive style, eye-tracking ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "在线附录：",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "引入眼动注视点的联合-交叉负载多模态认知诊断建模",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "S1参数估计对先验分布的鲁棒性分析",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "S1.1高、中和低信息先验分布",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "S1.1.1中信息先验分布",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "在贝叶斯参数估计值中，先验分布的选择反映了数据分析者对模型参数的信念或已有经验。根据已有数据分析经验以及已有研究结果(如,Man& Harring,2019; Zhan et al.,2021)，包含适量信息的先验分布(即中信息先验分布)设定如下(对三个C-MCDM通用):",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "首先，根据局部独立性假设，有",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { Y _ { n i } \\sim \\mathrm { B e r n o u l l i } ( P ( Y _ { n i } = 1 ) ) , } \\\\ & { ~ \\log ( T _ { n i } ) \\sim N ( \\xi _ { i } - \\tau _ { n } , ~ \\mathfrak { w } _ { i } ^ { - 2 } ) , } \\\\ & { V _ { n i } \\sim N B ( \\exp ( \\varepsilon _ { n } + m _ { i } ) , ~ d _ { i } ^ { - 2 } ) , } \\\\ & { ~ \\mathfrak { a } _ { n k } \\sim \\mathrm { B e r n o u l l i } ( P ( \\mathfrak { a } _ { n i } = 1 ) ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "其次，对题目参数而言，有",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { s _ { i } \\sim B e t a ( 1 , 1 ) , g _ { i } \\sim B e t a ( 1 , 1 ) \\mathrm { I } ( g _ { i } < 1 - s _ { i } ) , } } \\\\ { { \\xi _ { i } \\sim N ( 4 , 2 ) , \\theta _ { i } \\sim \\sqrt { I n \\nu G a m m a ( 1 , 1 ) } , } } \\\\ { { m _ { i } \\sim N ( 4 , 2 ) , h _ { i } \\sim I n \\nu G a m m a ( 1 , 1 ) , } } \\\\ { { \\displaystyle \\phi _ { i } \\sim N ( 0 , 0 . 5 ) , \\lambda _ { i } \\sim N ( 0 , 0 . 5 ) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "然后，对被试参数而言，有",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Theta _ { n } \\sim N ( 0 , 1 ) , } \\\\ & { \\Big ( \\underline { { \\tau } } _ { n } \\Big ) \\sim M V N \\Bigg ( \\binom { 0 } { 0 } , \\pmb { \\Sigma } _ { \\mathrm { p e r s o n } } \\Bigg ) , } \\\\ & { \\qquad \\Sigma _ { \\mathrm { p e r s o n } } \\sim I n \\nu W i s h a r t \\Bigg ( \\binom { 1 } { 0 } , \\ 0 \\Bigg ) , 2 \\Bigg ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "再有，对高阶潜在结构参数而言，有",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { 1 } \\sim N ( 0 , 2 ) , \\gamma _ { 1 } \\sim N ( 1 . 5 , 2 ) { \\mathrm I } ( \\gamma _ { 1 } > 0 ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "S1.1.2低信息先验分布",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "低信息先验分布的设定以\"无知\"为前提，并以大方差(如,10)为变异范围。在 S1.1.1的基础上，低",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "信息先验分布设定如下：",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { s _ { i } \\sim B e t a ( 1 , 1 ) , g _ { i } \\sim B e t a ( 1 , 1 ) \\operatorname { I } ( g _ { i } < 1 - s _ { i } ) , } \\\\ & { \\xi _ { i } \\sim N ( 0 , 1 0 ) \\operatorname { I } ( \\xi _ { i } > 0 ) , \\sigma _ { i } \\sim \\sqrt { I n \\nu G a m m a ( 1 , 1 0 ) } , } \\\\ & { m _ { i } \\sim N ( 0 , 1 0 ) \\operatorname { I } ( m _ { i } > 0 ) , h _ { i } \\sim I n \\nu G a m m a ( 1 , 1 0 ) , } \\\\ & { \\phi _ { i } \\sim N ( 0 , 1 0 ) , \\lambda _ { i } \\sim N ( 0 , 1 0 ) , } \\\\ & { \\gamma _ { 1 } \\sim N ( 0 , 1 0 ) , \\gamma _ { 1 } \\sim N ( 0 , 1 0 ) \\operatorname { I } ( \\gamma _ { 1 } > 0 ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "其他参数的先验分布保持不变。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "S1.1.3高信息先验分布",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "高信息先验分布的设定以\"先知\"为前提，围绕参数\"真值\"进行，并以小方差(如,0.5)为变异范围。在 S1.1.1的基础上，高信息先验分布设定如下：",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { s _ { i } \\sim B e t a ( 1 , 1 0 ) , g _ { i } \\sim B e t a ( 1 , 1 0 ) \\mathrm { I } ( g _ { i } < 1 - s _ { i } ) , } } \\\\ { { \\xi _ { i } \\sim N ( 4 , 0 . 5 ) , \\omega _ { i } \\sim \\sqrt { U ( 1 . 5 , 4 ) } , } } \\\\ { { m _ { i } \\sim N ( 4 , 0 . 5 ) , h _ { i } \\sim I n \\nu G a m m a ( 2 , 6 ) , } } \\\\ { { \\phi _ { i } \\sim N ( - 0 . 5 , 0 . 5 ) , \\lambda _ { i } \\sim N ( 0 . 5 , 0 . 5 ) , } } \\\\ { { \\gamma _ { 1 } \\sim N ( 0 , 1 ) , \\gamma _ { 1 } \\sim N ( 1 . 5 , 0 . 1 ) \\mathrm { I } ( \\gamma _ { 1 } > 0 ) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "其他参数的先验分布保持不变。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "S1.2 参数估计一致性",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "选用正文模拟研究中 $N = 1 0 0 , I = 1 5 , C L = 0 . 5$ 条件下生成的数据作为分析数据；该模拟测验条件属于小样本短测验情境，理论上，参数估计结果受到先验分布的影响更大。因此，随样本量增大及测验长度提高，参数估计结果受先验分布中所含信息量的影响会逐渐降低(即鲁棒性会增加)。三个模型的参数估计设定(如，马尔可夫链长)与模拟研究中保持一致。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "图S1-S2和表S1分别呈现了三个模型在不同信息量先验分布下各参数的返真性。可发现随着先验分布的信息量的提高，各参数的返真性均有小幅度提升；其中，提升幅度相对较大的是由低信息量先验到中信息量先验时，而由中信息量先验到高信息量先验的提升幅度微弱。考虑到实际应用中很少使用如此低信息的先验分布且无法像高信息先验分布那样围绕各参数的\"真值\"进行设定，中信息先验分布的普适性是相对较高的：即避免了不实际的\"无知\"或\"先知”，同时又保证了较高的参数估计精度。因此，正文中我们选用中信息先验分布进行后续的分析。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "整体而言，当采用包含不同信息量的先验分布时，每个模型的参数估计结果均较为稳定，即新模型对不同先验分布具有一定的鲁棒性。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv预印本",
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/78f23f0f6a0aadeeaf2f0f45b13a107399ff47847dc14da5cca527b9b10e883f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "图S1三模型在不同信息量先验分布下的属性(模式)判准率注： ${ \\bf N } =$ 样本量; $\\boldsymbol { \\mathrm { I } } =$ 测验长度; ${ \\mathrm { C L } } =$ 交叉载荷;ACCR $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 属性判准率;PCCR $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 属性模式判准率.",
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/5161f1c2351738e27b3ab57acc3915254546d857c0d0e7dd767a7fd7ba988149.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "主： ${ \\bf N } =$ 样本量; $\\boldsymbol { \\mathrm { I } } =$ 测验长度; $\\mathrm { C L } =$ 交叉载荷; $\\scriptstyle \\Theta =$ 高阶潜在能力; $\\tau =$ 潜在加工速度; $\\varepsilon =$ 潜在视觉参与度;Bias $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 偏差；RMSE $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 均方根误差;  \n$\\mathrm { C o r } =$ 估计值与真值的相关系数.",
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/78c3dde138357c0bde0292396bf3ab9f9971b15292bd2f7497eeef70732c8743.jpg",
+        "table_caption": [
+            "表S1三模型在不同信息量先验分布下的题目参数返真性"
+        ],
+        "table_footnote": [
+            "注： $g =$ 猜测参数; $s =$ 失误参数; $\\xi =$ 时间强度参数; $\\omega =$ 时间精度参数; $m =$ 视觉强度参数; $d =$ 视觉区分度参数; $\\varphi =$ 作答时间上的交叉载荷;λ$\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 注视点上的交叉载荷."
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">模型</td><td rowspan=\"2\">先验分布 信息量</td><td colspan=\"2\">g</td><td colspan=\"2\">S</td><td colspan=\"2\">@</td><td colspan=\"2\">d</td><td colspan=\"2\">中</td></tr><tr><td>Bias</td><td>RMSE Cor</td><td>BiasRMSECor</td><td>BiasRMSECor</td><td>BiasRMSECor</td><td>m</td><td>Bias RMSE Cor Bias RMSE CorBias RMSE Bias RMSE</td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">C-MCDM-0</td><td>低</td><td></td><td></td><td></td><td></td><td>0.0160.0510.875005500860950063008809930.3320.3550.88006700950920001000409850.0420.112004934</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>中</td><td></td><td></td><td></td><td></td><td>0.0140.0500.8750.0560086095200020.0620.99300150.110.8690.00000670.9900000040.9850.1520.1820.4188</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>高</td><td></td><td></td><td>0.0100.0460.882002200780.95400020060300030.100890000300650.99000000309850030.10006</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"4\">C-MCDM-D</td><td>低</td><td></td><td></td><td></td><td></td><td>0.0210.0490914084070301130709130330.580.82012027091000000309800660809</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>中</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.0140.045092300330069095900050086098600130.1240.82500090.0730.989000000.98200290.1520032</td><td></td><td></td><td></td></tr><tr><td>高</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.0070.041093002808009560004008509860130.11608260003000.98900000309820120150006</td><td></td><td></td><td></td></tr><tr><td>低</td><td></td><td></td><td></td><td></td><td>0.0090.0410.9280.04200800.941-00360.1220.9770.3340.3560.869-00660.1660.952000100030.9870.0010.09600808</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">C-MCDM-C</td><td>中</td><td></td><td></td><td></td><td>0.090.0400.9290.03500730.94700090.1060.981-00210.1210.8640.0010.1000.98100000030.9870.0140.0960.00092</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>高</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.0090.0400.93100240730.949030.1030.980.0040.1030.8740.010.0980.98100.030.987000600950.004091</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/bfa39ec15caee2a5b0b7645f946063db92fdb9803a5f5ea59912cf8d2042fd5b.jpg",
+        "table_caption": [
+            "表S2模拟研究1中C-MCDM-0模型的题目参数返真性"
+        ],
+        "table_footnote": [
+            "注： $\\mathbf { N } =$ 样本量; $\\boldsymbol { \\mathrm { I } } =$ 测验长度; $\\mathrm { C L } =$ 交叉载荷; $g =$ 猜测参数; $s =$ 失误参数; $\\xi =$ 时间强度参数; $\\omega =$ 时间精度参数; $m =$ 视觉强度参数; $d =$ 视觉区分度参数; $\\displaystyle \\mathfrak { \\varphi } =$ 作答时间上的交叉载荷; $\\lambda =$ 注视点上的交叉载荷."
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">N I CL</td><td rowspan=\"2\"></td><td colspan=\"2\">g</td><td colspan=\"3\">S</td><td colspan=\"2\"></td><td colspan=\"2\">@</td><td colspan=\"2\">m</td><td colspan=\"2\"></td><td colspan=\"2\">d</td><td colspan=\"2\"></td><td colspan=\"2\">入</td></tr><tr><td>Bias</td><td>RMSE</td><td>Cor Bias</td><td>RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor</td><td>Bias RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor</td><td></td><td>Bias RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Bias RMSE</td></tr><tr><td>100 15 0.0 0.013</td><td></td><td>0.054</td><td>0.852 0.047 0.080</td><td></td><td>0.950 -0.001</td><td></td><td>0.066</td><td>0.992</td><td>-0.010 0.118</td><td></td><td>0.868 0.001</td><td>0.058</td><td></td><td>0.9930.000</td><td>0.004</td><td>0.9870.003</td><td></td><td>0.104</td><td>0.012</td><td>0.106</td></tr><tr><td></td><td>0.2 0.016</td><td>0.050</td><td>0.894 0.046</td><td>0.084</td><td></td><td>0.9370.002</td><td>0.064</td><td>0.992</td><td>-0.0150.127</td><td></td><td>0.857 -0.006</td><td>0.065</td><td></td><td>0.992 0.001</td><td>0.004</td><td></td><td>0.9840.032</td><td>0.111</td><td>-0.036</td><td>0.112</td></tr><tr><td></td><td>0.5 0.014</td><td>0.050</td><td>0.875 0.056</td><td>0.086</td><td></td><td>0.952 0.002</td><td>0.062</td><td>0.993 -0.015</td><td></td><td>0.121</td><td>0.8690.000</td><td>0.067</td><td></td><td>0.992 0.000</td><td>0.004</td><td></td><td>0.9850.152</td><td>0.182</td><td>-0.148</td><td>0.188</td></tr><tr><td></td><td>30 0.0 0.008</td><td>0.043</td><td>0.927 0.031</td><td>0.065</td><td></td><td>0.960 0.000</td><td>0.064</td><td></td><td>0.992 -0.008 0.116</td><td></td><td>0.878 -0.004 0.062</td><td></td><td></td><td>0.993 0.000</td><td>0.004</td><td></td><td>0.984 -0.013</td><td>0.130</td><td>0.003</td><td>0.126</td></tr><tr><td></td><td>0.2 0.007</td><td>0.041</td><td>0.934 0.034</td><td>0.069</td><td></td><td>0.958 -0.002</td><td>0.064</td><td></td><td>0.992 -0.015 0.114</td><td></td><td>0.878 -0.006 0.057</td><td></td><td></td><td>0.994 0.000</td><td>0.004</td><td></td><td>0.986 0.080</td><td>0.151</td><td>-0.095 0.151</td><td></td></tr><tr><td></td><td>0.5 0.009</td><td>0.040</td><td>0.941 0.032</td><td>0.068</td><td></td><td>0.956 0.000</td><td>0.066</td><td></td><td>0.992 -0.008 0.112 0.872 0.000</td><td></td><td></td><td>0.058</td><td></td><td>0.994 0.000</td><td>0.003</td><td>0.987</td><td>0.270</td><td>0.299</td><td>-0.249</td><td>0.283</td></tr><tr><td>500 15 0.0 0.004</td><td></td><td>0.024</td><td></td><td>0.968 0.010 0.033</td><td></td><td>0.989 0.002</td><td>0.027</td><td>0.9990.000</td><td></td><td>0.052 0.973</td><td>0.001</td><td>0.027</td><td></td><td>0.999 0.000</td><td>0.002</td><td></td><td>0.997 0.004</td><td>0.043</td><td>0.004</td><td>0.043</td></tr><tr><td></td><td>0.2 0.002</td><td>0.025</td><td>0.970 0.008</td><td>0.031</td><td>0.989</td><td>0.001</td><td>0.029</td><td></td><td>0.998 -0.002 0.053</td><td></td><td>0.969 -0.001</td><td>0.026</td><td></td><td>0.999 0.000</td><td>0.002</td><td></td><td>0.997 0.010</td><td>0.046</td><td>-0.010 0.044</td><td></td></tr><tr><td></td><td>0.5 0.003</td><td>0.025</td><td>0.9650.013</td><td>0.035</td><td></td><td>0.988 -0.002</td><td>0.029</td><td>0.9980.000</td><td></td><td>0.052</td><td>0.970 -0.001</td><td>0.027</td><td></td><td>0.999 0.000</td><td>0.002</td><td></td><td>0.9970.035</td><td>0.055</td><td>-0.030</td><td>0.052</td></tr><tr><td>30 0.0 0.002</td><td></td><td>0.020</td><td>0.984 0.007</td><td>0.028</td><td>0.991</td><td>0.003</td><td>0.029</td><td>0.998 -0.002</td><td></td><td>0.053 0.971</td><td>0.000</td><td>0.027</td><td></td><td>0.999 0.000</td><td>0.002</td><td></td><td>0.997 0.000</td><td>0.042</td><td>-0.004</td><td>0.038</td></tr><tr><td></td><td>0.2 0.002</td><td>0.019</td><td>0.985 0.007</td><td>0.029</td><td>0.991</td><td>0.000</td><td>0.028</td><td>0.999</td><td>0.000</td><td>0.051</td><td>0.972 -0.002</td><td>0.027</td><td></td><td>0.999 0.000</td><td>0.002</td><td></td><td>0.997 -0.001</td><td>0.042</td><td>-0.004</td><td>0.045</td></tr><tr><td></td><td>0.5 0.003</td><td>0.019</td><td>0.986 0.006</td><td>0.027</td><td>0.991</td><td>0.000</td><td>0.029</td><td>0.998</td><td>-0.004</td><td>0.054</td><td>0.970 0.001</td><td>0.028</td><td></td><td>0.999 0.000</td><td>0.002</td><td></td><td>0.997 0.040</td><td>0.057</td><td>-0.037</td><td>0.054</td></tr></table></body></html>",
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "images/20c6c51a540ce852e6912eb2f5cd52d7b451b530ad2c72c726ace228ba907154.jpg",
+        "table_caption": [
+            "表S3模拟研究1中C-MCDM-D模型的题目参数返真性"
+        ],
+        "table_footnote": [
+            "注： $\\mathbf { N } =$ 样本量; $\\boldsymbol { \\mathrm { I } } =$ 测验长度; $\\mathrm { C L } =$ 交叉载荷; $g =$ 猜测参数; $s =$ 失误参数; $\\xi =$ 时间强度参数; $\\omega =$ 时间精度参数; $m =$ 视觉强度参数; $d =$ 视觉区分度参数； $\\displaystyle \\mathfrak { \\varphi } =$ 作答时间上的交叉载荷; $\\lambda =$ 注视点上的交叉载荷."
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">N ICL</td><td colspan=\"2\">g</td><td colspan=\"2\">S</td><td colspan=\"2\"></td><td colspan=\"2\">@</td><td colspan=\"2\"></td><td colspan=\"2\">m</td><td colspan=\"2\">d</td><td colspan=\"2\">中</td><td colspan=\"2\">入</td></tr><tr><td>Bias RMSE</td><td>Cor</td><td>Bias RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor Bias</td><td>RMSE</td><td>Cor Bias</td><td>RMSE</td><td>Bias</td><td>RMSE</td></tr><tr><td>100 15 0.0 0.016</td><td>0.051</td><td>0.894 0.037</td><td>0.077</td><td>0.948</td><td>0.001</td><td>0.0840.985</td><td>-0.021</td><td></td><td>0.122 0.8540.000</td><td></td><td>0.078</td><td></td><td>0.988 0.0000.004 0.986</td><td></td><td>0.012</td><td>0.151</td><td>-0.002</td><td>0.148</td></tr><tr><td>0.2 0.019</td><td>0.051</td><td>0.883 0.040 0.077</td><td></td><td>0.940</td><td>0.001</td><td>0.083 0.987</td><td></td><td>-0.014 0.118 0.870 -0.001</td><td></td><td></td><td>0.083</td><td>0.986 0.000</td><td>0.004</td><td>0.984</td><td>0.025</td><td>0.149</td><td>-0.018 0.150</td><td></td></tr><tr><td>0.5 0.014</td><td>0.045</td><td>0.923 0.033</td><td>0.069</td><td>0.959</td><td>0.005</td><td>0.086</td><td></td><td>0.986 -0.013 0.124 0.825</td><td></td><td>0.009</td><td>0.073</td><td></td><td>0.989 0.0000.0030.982</td><td></td><td>0.029</td><td>0.152</td><td>-0.023</td><td>0.132</td></tr><tr><td>30 0.0 0.013</td><td>0.044</td><td>0.925 0.031</td><td>0.068</td><td>0.954 -0.001</td><td></td><td>0.080</td><td>0.987</td><td>-0.020 0.114 0.871</td><td></td><td>0.000</td><td></td><td>0.075 0.988 0.000</td><td></td><td>0.004 0.987 -0.007</td><td></td><td>0.140</td><td>-0.001</td><td>0.135</td></tr><tr><td>0.2 0.013</td><td>0.043</td><td>0.931 0.029</td><td>0.065</td><td>0.963</td><td>0.002</td><td>0.081</td><td>0.988 -0.020</td><td>0.113</td><td>0.873</td><td>0.002</td><td></td><td>0.076 0.989 0.000</td><td>0.003</td><td>0.987</td><td>0.012</td><td>0.139</td><td>-0.011</td><td>0.124</td></tr><tr><td>0.5 0.010</td><td>0.039</td><td>0.939 0.028</td><td>0.067</td><td>0.954</td><td>0.009</td><td>0.081</td><td>0.987</td><td>-0.026 0.120</td><td></td><td>0.8650.007</td><td>0.073</td><td>0.990 0.000</td><td>0.003</td><td>0.987</td><td>0.039</td><td>0.146</td><td>-0.035 0.136</td><td></td></tr><tr><td>500 15 0.0 0.005</td><td>0.026</td><td>0.969 0.008</td><td>0.032</td><td>0.989</td><td>0.000</td><td>0.036 0.997</td><td>-0.001</td><td>0.054</td><td>0.972</td><td>-0.001</td><td>0.037</td><td></td><td>0.997 0.000 0.002</td><td></td><td>0.996 -0.004</td><td>0.072</td><td>0.004</td><td>0.066</td></tr><tr><td>0.2 0.005</td><td>0.023</td><td>0.972 0.007</td><td>0.030</td><td>0.989 0.002</td><td></td><td></td><td></td><td>0.039 0.997 -0.006 0.055</td><td>0.965</td><td>0.003</td><td></td><td></td><td>0.0340.998 0.0000.002</td><td>0.997</td><td>0.002</td><td>0.073</td><td>-0.004</td><td>0.063</td></tr><tr><td>0.5 0.003</td><td>0.021</td><td>0.979 0.009</td><td>0.029</td><td>0.992</td><td>0.001</td><td>0.037</td><td>0.997 0.006</td><td>0.055</td><td>0.971</td><td>0.002</td><td>0.037</td><td>0.997 0.000</td><td>0.002</td><td>0.997</td><td>0.008</td><td>0.066</td><td>-0.011</td><td>0.065</td></tr><tr><td>30 0.0 0.003</td><td>0.019</td><td>0.984 0.007</td><td>0.030</td><td>0.989</td><td>0.001</td><td>0.038 0.997</td><td></td><td>-0.002 0.053</td><td>0.970</td><td>0.003</td><td>0.034</td><td>0.998 0.000</td><td>0.002</td><td>0.997</td><td>0.001</td><td>0.065</td><td>-0.003</td><td>0.065</td></tr><tr><td>0.2 0.002</td><td>0.019</td><td>0.984 0.007</td><td>0.028</td><td>0.992</td><td>0.003</td><td>0.037 0.997</td><td></td><td>-0.002 0.054</td><td>0.970</td><td>0.002</td><td>0.035</td><td>0.998 0.000</td><td>0.002</td><td>0.997</td><td>0.007</td><td>0.064</td><td>-0.007</td><td>0.060</td></tr><tr><td>0.5 0.001</td><td>0.018</td><td>0.987 0.006</td><td>0.027</td><td>0.991</td><td>0.001</td><td>0.037 0.997</td><td>-0.002</td><td>0.053</td><td>0.972</td><td>0.002</td><td>0.035</td><td>0.998 0.000</td><td>0.001</td><td>0.997</td><td>0.006</td><td>0.064</td><td>-0.007 0.058</td><td></td></tr></table></body></html>",
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/66409b0f2a425f4a75e704d70a6eb36c50f1570ab1e76484128e1eb79774f05f.jpg",
+        "table_caption": [
+            "表S4模拟研究1中C-MCDM-C模型的题目参数返真性"
+        ],
+        "table_footnote": [
+            "注： $\\mathbf { N } =$ 样本量; $\\boldsymbol { \\mathrm { I } } =$ 测验长度; $\\mathrm { C L } =$ 交叉载荷; $g =$ 猜测参数; $s =$ 失误参数; $\\xi =$ 时间强度参数; $\\omega =$ 时间精度参数; $m =$ 视觉强度参数; $d =$ 视觉区分度参数; $\\displaystyle \\mathfrak { \\varphi } =$ 作答时间上的交叉载荷; $\\lambda =$ 注视点上的交叉载荷."
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">g NICL</td><td colspan=\"2\">S</td><td colspan=\"2\"></td><td colspan=\"2\"></td><td colspan=\"2\">@</td><td colspan=\"2\">m</td><td colspan=\"2\">d</td><td colspan=\"2\"></td><td colspan=\"2\">入</td></tr><tr><td>Bias</td><td>RMSE Cor Bias</td><td>RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor</td><td>Bias</td><td>RMSE Cor</td><td>Bias</td><td>RMSE Cor</td><td>Bias</td><td>RMSE</td><td>Bias</td><td>RMSE</td></tr><tr><td>100 15 0.0 0.015</td><td>0.049</td><td>0.894 0.0540.089</td><td>0.9480.003</td><td></td><td>0.119</td><td></td><td>0.974 -0.008 0.119</td><td></td><td>0.858 0.010</td><td></td><td>0.109</td><td>0.977 0.000 0.004</td><td></td><td>0.987 0.005</td><td>0.112</td><td>-0.007</td><td>0.106</td></tr><tr><td>0.2 0.014</td><td>0.046 0.916 0.045</td><td>0.079</td><td>0.951</td><td>0.001</td><td>0.119 0.974</td><td></td><td>-0.029</td><td>0.120</td><td>0.837 -0.007</td><td>0.113</td><td></td><td>0.976 0.0000.003</td><td>0.987</td><td>0.009</td><td>0.108</td><td>-0.008</td><td>0.112</td></tr><tr><td>0.5 0.009</td><td>0.040 0.929 0.035</td><td>0.073</td><td>0.947</td><td>0.009</td><td>0.106</td><td>0.981 -0.021</td><td></td><td>0.121</td><td>0.864 -0.001</td><td>0.100</td><td></td><td>0.981 0.0000.0030.987</td><td></td><td>0.014</td><td>0.096</td><td>-0.012 0.188</td><td></td></tr><tr><td>30 0.0 0.009</td><td>0.043 0.921 0.034 0.069</td><td></td><td>0.952 -0.007</td><td></td><td>0.108</td><td></td><td>0.977 -0.018 0.112</td><td></td><td>0.880 -0.010 0.101</td><td></td><td>0.980 0.000</td><td></td><td>0.004 0.987 -0.006</td><td></td><td>0.096</td><td>0.006</td><td>0.126</td></tr><tr><td>0.2 0.013</td><td>0.040 0.944 0.029</td><td>0.069</td><td>0.953</td><td>0.010</td><td>0.107 0.977</td><td></td><td>-0.018</td><td>0.115</td><td>0.868 0.000</td><td>0.101</td><td>0.980 0.000</td><td>0.003</td><td></td><td>0.986 0.009</td><td>0.093</td><td>0.000</td><td>0.151</td></tr><tr><td>0.5 0.012 0.041</td><td>0.935 0.029</td><td>0.065</td><td>0.958 0.017</td><td></td><td>0.104 0.980</td><td></td><td>-0.019 0.117 0.873</td><td></td><td>0.010</td><td>0.094</td><td>0.983 0.000</td><td>0.002</td><td>0.987</td><td>0.021</td><td>0.094</td><td>-0.018</td><td>0.283</td></tr><tr><td>500 15 0.0 0.005 0.025</td><td>0.970 0.010 0.029</td><td></td><td>0.991 -0.002</td><td></td><td>0.051</td><td>0.995</td><td>-0.001</td><td>0.055</td><td>0.966</td><td>-0.0050.051</td><td></td><td>0.995 0.000 0.002</td><td></td><td>0.997 -0.001</td><td>0.050</td><td>0.002</td><td>0.043</td></tr><tr><td>0.2 0.001 0.022</td><td>0.973 0.007 0.029</td><td></td><td>0.991</td><td>0.000</td><td>0.048</td><td>0.996 -0.003</td><td></td><td>0.053</td><td>0.970</td><td>0.004</td><td></td><td>0.0470.996 0.000 0.001</td><td></td><td></td><td>0.997 -0.0030.046</td><td>-0.0070.044</td><td></td></tr><tr><td>0.5 0.003 0.020</td><td>0.9830.009 0.0300.991</td><td></td><td></td><td>0.008</td><td>0.049</td><td>0.996</td><td>-0.0090.056 0.971</td><td></td><td>0.003</td><td>0.043</td><td>0.996 0.000</td><td></td><td>0.001 0.9970.010</td><td></td><td>0.044</td><td>-0.003</td><td>0.052</td></tr><tr><td>30 0.0 0.002 0.019</td><td>0.983 0.006</td><td>0.028</td><td>0.991</td><td>-0.001</td><td>0.047</td><td>0.996</td><td>-0.003</td><td>0.052</td><td>0.972</td><td>0.000 0.039</td><td>0.997 0.000</td><td>0.002</td><td>0.997</td><td>0.002</td><td>0.043</td><td>0.000</td><td>0.038</td></tr><tr><td>0.2 0.002 0.018</td><td>0.987 0.006</td><td>0.027</td><td>0.991</td><td>0.004</td><td>0.047</td><td>0.996 -0.005</td><td></td><td>0.054 0.971</td><td></td><td>-0.001 0.043</td><td>0.996 0.000</td><td>0.001</td><td>0.997</td><td>0.006</td><td>0.041</td><td>-0.001</td><td>0.045</td></tr><tr><td>0.5 0.002 0.018</td><td>0.988 0.006</td><td>0.027</td><td>0.991</td><td>0.001</td><td>0.048</td><td>0.996</td><td>-0.006</td><td>0.055</td><td>0.969 0.006</td><td></td><td>0.044 0.996 0.000</td><td>0.001</td><td>0.998</td><td>0.001</td><td>0.042</td><td>-0.006</td><td>0.054</td></tr></table></body></html>",
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "images/d15e297c6524c1e46357476d3797847023e27902da95b893eef1302d6d49e71c.jpg",
+        "table_caption": [
+            "表 S5.模拟研究2中潜在能力、潜在加工速度和潜在视觉参与度的参数估计返真性."
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据生成模型</td><td rowspan=\"2\">数据分析模型</td><td colspan=\"3\">0</td><td colspan=\"3\">T</td><td colspan=\"3\"></td></tr><tr><td>Bias</td><td>RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor</td></tr><tr><td>C-MCDM-0</td><td>H-MCDM</td><td>0.001</td><td>0.600</td><td>0.796</td><td>-0.001</td><td>0.137</td><td>0.961</td><td>0.001</td><td>0.217</td><td>0.912</td></tr><tr><td rowspan=\"3\">C-MCDM-D</td><td>C-MCDM-0</td><td>0.001</td><td>0.239</td><td>0.972</td><td>-0.001</td><td>0.109</td><td>0.976</td><td>0.001</td><td>0.098</td><td>0.980</td></tr><tr><td>H-MCDM</td><td>0.001</td><td>0.625</td><td>0.775</td><td>0.000</td><td>0.110</td><td>0.975</td><td>0.000</td><td>0.104</td><td>0.978</td></tr><tr><td>C-MCDM-D</td><td>0.000</td><td>0.614</td><td>0.784</td><td>0.001</td><td>0.108</td><td>0.976</td><td>-0.002</td><td>0.083</td><td>0.986</td></tr><tr><td rowspan=\"3\">C-MCDM-C H-MCDM</td><td>H-MCDM</td><td>0.000</td><td>0.625</td><td>0.775</td><td>-0.001</td><td>0.134</td><td>0.963</td><td>0.000</td><td>0.113</td><td>0.974</td></tr><tr><td>C-MCDM-C</td><td>0.000</td><td>0.601</td><td>0.795</td><td>0.001</td><td>0.108</td><td>0.976</td><td>-0.001</td><td>0.087</td><td>0.984</td></tr><tr><td> H-MCDM</td><td>0.000</td><td>0.571</td><td>0.817</td><td>0.000</td><td>0.108</td><td>0.976</td><td>0.000</td><td>0.082</td><td>0.986</td></tr><tr><td rowspan=\"4\"></td><td>C-MCDM-0</td><td>-0.001</td><td>0.589</td><td>0.805</td><td>0.001</td><td>0.214</td><td>0.907</td><td>0.000</td><td>0.204</td><td>0.916</td></tr><tr><td>C-MCDM-D</td><td>0.000</td><td>0.622</td><td>0.778</td><td>0.001</td><td>0.109</td><td>0.976</td><td>-0.001</td><td>0.082</td><td>0.986</td></tr><tr><td>C-MCDM-C</td><td>0.000</td><td>0.622</td><td>0.779</td><td>0.000</td><td>0.110</td><td>0.975</td><td>0.000</td><td>0.083</td><td>0.986</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "images/d1ad2afeef45647b822c9ab72105ed5dde5c2971721f387a04247aafaef8a9d6.jpg",
+        "table_caption": [
+            "表S6模拟研究2中题目参数返真性"
+        ],
+        "table_footnote": [
+            "注： $g =$ 猜测参数; $s =$ 失误参数; $\\xi =$ 时间强度参数; $\\mathbf { \\omega } _ { \\omega } = \\mathbf { \\rho } _ { }$ 时间精度参数; $m =$ 视觉强度参数; $d =$ 视觉区分度参数; $\\displaystyle \\boldsymbol { \\varphi } =$ 作答时间上的交叉载荷; $\\lambda =$ 注视点上的交叉载荷."
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据生成模型</td><td rowspan=\"2\">数据分析模型</td><td rowspan=\"2\"></td><td colspan=\"3\">g</td><td colspan=\"3\">S</td><td colspan=\"3\"></td><td colspan=\"3\">m</td><td colspan=\"3\"></td><td colspan=\"3\">d</td><td colspan=\"3\">fai</td><td colspan=\"3\"></td><td colspan=\"3\">lamda</td></tr><tr><td></td><td>RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor</td><td>Bias</td><td></td><td>RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor</td><td>Bias</td><td></td><td>RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor</td><td>Bias</td><td>RMSE</td><td>Cor</td></tr><tr><td rowspan=\"2\">C-MLDM-0</td><td>H-MLDM</td><td>0.003</td><td>0.019</td><td>0.986</td><td>0.004</td><td>0.027</td><td></td><td>0.992</td><td>0.000</td><td>0.028</td><td>0.998</td><td>0.032</td><td>0.047</td><td>0.995</td><td>-0.145</td><td>0.170</td><td></td><td>0.683</td><td>-0.004</td><td>0.007</td><td>0.952</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C-MLDM-0</td><td>0.003</td><td>0.019</td><td>0.986</td><td>0.004</td><td></td><td>0.027</td><td>0.992</td><td>0.000</td><td>0.028</td><td>0.998</td><td>-0.001</td><td>0.026</td><td>0.999</td><td>-0.007</td><td>0.053</td><td></td><td>0.970</td><td>0.000</td><td>0.002</td><td></td><td>0.997 0.003</td><td>0.035</td><td>0.996</td><td></td><td>0.002</td><td>0.032</td><td>0.995</td></tr><tr><td rowspan=\"3\">C-MLDM-D</td><td>H-MLDM</td><td>0.002</td><td>0.019</td><td>0.984</td><td>0.006</td><td></td><td>0.027</td><td>0.991</td><td>0.020</td><td>0.072</td><td>0.988</td><td>0.056</td><td>0.108</td><td>0.968</td><td>-0.028</td><td>0.065</td><td>0.958</td><td></td><td>-0.002</td><td>0.004</td><td>0.981</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> C-MLDM-D</td><td>0.002</td><td>0.019</td><td>0.984</td><td>0.005</td><td></td><td>0.027</td><td>0.991</td><td>0.002</td><td>0.036</td><td>0.997</td><td>0.001</td><td>0.036</td><td>0.997</td><td>-0.004</td><td>0.054</td><td></td><td>0.971</td><td>0.000</td><td>0.002</td><td>0.997</td><td>0.003</td><td>0.062</td><td>0.969</td><td>0.004</td><td></td><td>0.062</td><td>0.982</td></tr><tr><td>H-MLDM</td><td>0.003</td><td>0.020</td><td>0.984</td><td>0.005</td><td></td><td>0.028</td><td>0.991</td><td>0.139</td><td>0.292</td><td>0.821</td><td>0.138</td><td>0.281</td><td>0.789</td><td>-0.120</td><td></td><td>0.148</td><td>0.763</td><td>-0.003</td><td>0.006</td><td>0.967</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"4\">H-MLDM</td><td>C-MLDM-C</td><td>0.003</td><td>0.019</td><td>0.985</td><td>0.004</td><td>0.027</td><td></td><td>0.992</td><td>0.004</td><td>0.048</td><td>0.996</td><td>0.003</td><td>0.045</td><td>0.996</td><td>-0.001</td><td>0.054</td><td></td><td>0.970</td><td>0.000</td><td>0.002</td><td>0.997</td><td>0.003</td><td>0.041</td><td>0.994</td><td>-0.003</td><td>0.039</td><td></td><td>0.992</td></tr><tr><td> H-MLDM</td><td>0.003</td><td>0.021</td><td>0.983</td><td>0.007</td><td>0.028</td><td>0.991</td><td></td><td>0.000</td><td>0.028</td><td>0.998</td><td>-0.002</td><td>0.028</td><td>0.999</td><td>-0.002</td><td>0.052</td><td>0.972</td><td></td><td>0.000</td><td>0.002</td><td>0.998</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C-MLDM-0</td><td>0.003</td><td>0.021</td><td>0.983</td><td>0.007</td><td>0.028</td><td></td><td>0.991</td><td>0.000</td><td>0.028</td><td>0.998</td><td>-0.002</td><td>0.028</td><td>0.999</td><td>-0.001</td><td>0.052</td><td></td><td>0.972</td><td>0.000</td><td>0.002</td><td>0.997</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> C-MLDM-D</td><td>0.003</td><td>0.021</td><td>0.982</td><td>0.007</td><td></td><td>0.028</td><td>0.991</td><td>-0.006</td><td>0.037</td><td>0.997</td><td>-0.005</td><td>0.037</td><td>0.997</td><td>-0.002</td><td></td><td>0.052</td><td>0.972</td><td>0.000</td><td>0.002</td><td>0.998</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>C-MLDM-C</td><td>0.003</td><td>0.021</td><td>0.982</td><td>0.007</td><td>0.028</td><td>0.991</td><td></td><td>-0.018</td><td>0.051</td><td>0.996</td><td>-0.012</td><td>0.048</td><td>0.996</td><td>-0.002</td><td>0.052</td><td>0.972</td><td></td><td>0.000</td><td>0.002</td><td>0.998</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "S2 MCDM参数估计JAGS代码",
+        "text_level": 1,
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "#篇幅限制，仅呈现C-MLDM-C的JAGS代码  \nt对C-MCDM-0而言，仅需将RT和FC 测量模型中的 inprod(atribute[n,], Q[i,])替换为 theta[n,i]即可  \n对 C-MCDM-D 而言，仅需将RT和FC 测量模型中的 inprod(attribute[n,],Q[i,])替换为 prod(w[n,i,])即可  \nnodelfor (n in 1:N) {for (i in 1:1){Score[n, i] $\\sim$ dbern(prob[n,il) #Score 题目作答精度for(k in1:K){w[n,i,k] $<$ -pow(attribute[n,k], Q[i,k])} #attribute 属性;Q矩阵prob[n,i] $<$ guess[i] $^ +$ (1-slip[i]-guessi])\\*prod(w[n,i,]) #guess猜测参数;slip失误参数FC[n,i] $\\sim$ dnegbin(p[n,i],h[i])#FC 注视点数p[n,i] $\\ll$ h[i]/(h[i] $+$ mu[n,i])mu[n,i] $\\llcorner$ exp(m[i]+lamda[i]\\*inprod(attribute[n,],Q[i,]) $^ +$ epsilon[n])#m视觉强度参数;lamda交叉载荷;epsilon 潜在视觉参与度logT[n, i] $\\sim$ dnorm(mu_logt[n,i],den_omega[i]) #logT对数题目作答时间mu_logt[n,i] $\\ll$ zeta[i]-(tau[n] $^ +$ phi[i]\\*inprod(attribute[n,],Q[i,D))# zeta 时间强度参数;tau 潜在加工速度;phi交叉载荷}for(n in 1:N) {for(k in 1:K){logit(att_prob[n,k]) $\\mid <$ gamma1[k]\\*theta[n]-gamma0[k] #gamma1 属性区分度;gamma0 属性截距;theta 高阶潜在能力attribute[n,k]\\~dbern(att_prob[n,k])$\\} \\}$ （204号for (n in 1:N) {theta[n] $\\sim$ dnorm(0,1)person_parameter[n,1:2] $\\sim$ dmnorm(person_mu[1:2],prec.theta[1:2,1:2])tau[n] $< -$ person_parameter[n,1]epsilon[n] $\\llcorner$ person_parameter[n,2]for (i in 1:I) {slip[i]\\~dbeta(1,1)guessi]\\~dbeta(1,1)T(,-slip[i])zeta[i]\\~dnorm(4,0.5)m[i]\\~dnorm(4,0.5)h[i] <- 1/prec.h[i]v[i] $\\llcorner$ mean(mu[,i]) $^ +$ (1/h[i])\\*pow(mean(mu[,i]),2)d[i]<-1/sqrt(v[i]) #d时间区分度参数den_omega[i] $\\sim$ dgamma(1, 1)omega[i] $\\llcorner$ sqrt(den_omega[i])#omega 时间精度参数prec.h[i] $\\sim$ dgamma(1,1)phi[i]\\~ dnorm(0,2)lamda[i]\\~dnorm(0,2)for(k in 1:K){gamma0[k]\\~dnorm(0,0.5)gamma1[kj\\~dnorm(1.5,0.5) T(0,)person_mu[1] <-0person_mu[2] <-0R[1,1] <- 1$\\mathbb { R } [ 1 , 2 ] < - 0$ $\\mathbb { R } [ 2 , 1 ] < - 0$ （204号$\\mathbb { R } [ 2 , 2 ] < - 1$ （204号prec.theta[1:2,1:2]\\~dwish(R[1:2,1:2],2)Sigma_person $<$ -inverse(prec.theta[1:2,1:2])$\\mathrm { \\bf ~ r } _ { - } 1 _ { - } 2 < .$ Sigma_person[1,2]/(sqrt(Sigma_person[1,1])\\*sqrt(Sigma_person[2,2]))#r_1_2加工速度与视觉参与度之间的(总体)相关系数",
+        "page_idx": 34
+    }
+]

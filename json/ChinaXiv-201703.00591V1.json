@@ -1,0 +1,313 @@
+[
+    {
+        "type": "text",
+        "text": "数字化技术在核谱学时间测量中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郑凌雲1,2 况鹏²　曹兴忠²　张鹏²　覃章健」 张玉包²　章志明²王宝义²1（成都理工大学成都 610059)2（中国科学院高能物理研究所北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要应用数字化技术对核谱学测量中的探测器输出信号进行处理，特别是针对高效率闪烁体探测器输出的时间信号，利用数字化单元的多ADC交错采集、多条件触发等方法实现了时间谱测量中伽马射线的高效率采集、快速响应触发和高分辨定时等信号的数字化处理。通过研究典型的时间信号—一 $^ { 2 2 } \\mathrm { { N a } }$ 放射源衰变放出的正电子湮没前后的伽马信号，对探测器探测到的脉冲信号下降沿进行符合甄别和时间差计算等相应算法处理，实现核电子学信号处理方法中时幅转换、多道计数等核谱学时间谱符合测量模块的多信号数字化处理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词数字化技术；核谱学；时间测量中图分类号TL824",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着高速ADC采集卡、CPU处理技术和多功能数字处理技术的快速发展，数字化技术在核谱学测量中探测器输出信号的分析和处理过程中得到了快速的发展与应用[1-3]。数字化技术通过模数转换和数字运算实现信号处理，具有灵活、稳定、抗干扰等特点。众所周知，核谱学实验测量中通常采用核电子学插件实现探测器输出信号有效事例的判选和符合采集等处理，但要进一步提升时间分辨、信号探测效率和大数据处理能力等性能指标和关键参数，则受到单功能电子学插件多方面的制约，比如环境温度、湿度、噪声，以及电子学器件死时间、多级连接引入的实验误差等因素影响。因此，采用数字化技术处理核谱学测量中信号的分析和采集是核谱学发展的主要方向之一[4-7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文针对核谱学测量中典型的时间谱测量方法，采用数字化技术对探测器输出信号进行高效率采集、快速响应触发和高分辨定时等过程进行分析和处理，利用符合甄别和相应算法实现时幅转换、多道计数等皮秒级脉冲信号的并行处理。其中，时间信号的处理需要兼顾响应速度快、时间分辨率高、时间信息完整等特点，对包含诸多信息的脉冲波形信号的处理及核谱学仪器的要求极为严苛。进行核谱学时间探测信号的数字化处理，能实现仪器的整机化，为数字信号的后续处理和算法修正提供信息溯源条件[8,9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1核谱学时间测量系统",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于 $^ { 2 2 } \\mathrm { N a }$ 放射源的正电子湮没寿命谱测量技术，是核谱学实验中最典型的时间谱测量方法。 $^ { 2 2 } \\mathrm { N a }$ 放射源在衰变释放正电子的同时，伴随释放能量为$1 . 2 8  { \\mathrm { M e V } }$ 的伽马光子，通常作为时间谱测量的起始信号，而正电子湮没后释放的能量为0.511MeV的伽马光子作为终止信号。正电子湮没时间谱测量原理如图1所示,闪烁体和光电倍增管(photomultipliertubes，PMT）组成的探测器将探测到的伽马信号转化为电信号，输出的模拟信号经恒比定时器(constant fraction timingdiscriminators，CFD)实现起始和终止信号阈值选择和恒比定时输出方波信号，经延时器后(Delay)由时幅转换器（atime-to-amplitudeconverter，TAC）甄别“对事件”伽马信号的符合判选，并将时间差信转化为脉冲幅度信息，多道计数器（amulti-channel analyzer，MCA）对大量脉冲幅度信息进行分道计数，采集的实验数据采用计算机（PC）进行分析处理获取最终的时间谱[10,11]。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/267ba99267457df83fb16911b8bbd06fed84a825c95210e36d9829b77a65f7e9.jpg",
+        "img_caption": [
+            "图1正电子湮没时间谱测量原理 Fig.1 The time spectrum measurement principle of positron annihilation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "闪烁体探测器具有探测效率高、灵敏度高的特点，10微居的 $^ { 2 2 } \\mathrm { N a }$ 放射源每秒约发射 $1 0 ^ { 4 } { \\sim } 1 0 ^ { 5 }$ 量级个伽马信号对，闪烁体探测器每秒探测大于 $1 0 ^ { 3 }$ 量级的伽马信号对，其输出的起始信号和终止信号之间仅相差十几皮秒到几百皮秒，其中每个伽马信号宽度约为10\\~20ns。时幅转换不仅要精确的将时间差转化为幅度值，还要实现信号的快速响应和准确的信号符合。多道计数保证各通道内准确计数的同时要尽量缩短死时间。所以，要实现对探测器输出信号数字化处理尤其是时幅转换、多道计数、PC的数字化处理及整合，必须实现高速率采样，同一对事件的信号高效率符合甄别以及高分辨的定时和时间计算等[12,13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，实验采用数字化单元（thedigitalunit）取代部分核电子学的信号处理功能。探测器探测到的信号经恒比定时器转化为稳定的方波后通过延时器输至数字化单元。数字化单元是集数据采集、A/D转换、软件编程等数字化技术于一身的模块，具有多种分析、测量和存储功能，可实现对复杂波形的完整保存和快速处理[14]。本实验采用LeCroy公司的Waverunner640Zi信号分析仪（signalanalyzer)，内置多个ADC同时对信号进行交错采集，单通道最大采用率可达到40GSPS，能够同时捕捉多通道瞬态信号，内置边沿触发、条件触发等多种触发模式，具有测量幅度、时间等参数的多种测量功能和运算方式。信号的数字处理方法的好坏直接影响整个系统性能的好坏，通过更改采样率、时基、触发模式等设置实现对信号采样、触发的研究，得到符合时间信号，并通过对信号所需算法研究，选择skew测量方法进行定时和计算时间差，用直方图统计运算对时间差值分道计数，从而得到",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "伽马信号的时间谱。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1bd8efcb1d61a018b63b503abb4058ab649975f1be78ecc1b69fc59cbbd2151f.jpg",
+        "img_caption": [
+            "图2时间谱测量的数字化处理技术Fig.2 The digital processing technology of time spectrummeasurement."
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数字化处理技术的应用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 采样率",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "时间信号的波形包含时间信息，ADC对信号采样时引入的量化误差和幅度亏损直接影响后续信号处理尤其是触发、定时的准确性[15]。设伽马信号脉冲宽度为10ns，当采样率为500MSPS时，一个波形约仅采集5个点，信号因欠采样而失真，导致信号的触发或定时出现误差[16]。由图3可知采样率越高，波形越接近模拟波形，在模数转化过程中引入的误差越小，且对时间信号触发和定时也越精确。根据 $^ { 2 2 } \\mathrm { { N a } }$ 源时间信号特点和数字化单元性能，采样率为20GSPS 时信号失真最小[17,18]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a29858782dc85b25df67c4c3e68a26e8b937ed35cb9af22684c98eb6c1e0fd9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f87acfe432ef04cc0ed633097197385b47b229819147e4684badb9b718342b70.jpg",
+        "img_caption": [
+            "图3不同采样率下伽马信号波形对比 Fig.3 Comparison of gamma waveforms at different sampling rates. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 触发 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "触发是保证采集和显示稳定信号的关键，合适的触发方式是高效获取有效信号和进行数字处理的前提[19,20]。多条件触发即符合触发，两路信号符合为同一事件时进行触发，它可以有效获取核谱学的时间信号。在缓存区域内，数字化单元持续对起始通道进行跟踪，当它满足事件A的限定幅值条件时，再跟踪终止通道；终止通道满足事件B限定幅值条件时，判断满足A、B事件的两个事件点之间的时间差t<tsetting，则触发满足事件B时间点其前后设定的一段时间内的起始通道和终止通道的信号采集显示，其示意图如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e57cfcdc18f1129fcd5f032edd1ae4ac78a9f165b5e162eb407bd1ade8d062c.jpg",
+        "img_caption": [
+            "图4时间信号多条件触发Fig. 4 Multi-conditional trigger on time signal."
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用时间谱测量的数字化处理方法对正电子在样品镍中的寿命进行测量，结果表明以电平为条件对单个通道幅值判断的边沿触发每秒仅获取20\\~70个计数，而多条件触发方式下的计数率为100\\~150。所以多条件触发方式可以有效提高计数率，因为它获取的多为有效事件",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 定时处理和时间测量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "时间信号的前沿包含时间信息，定时方式的选定直接影响时间测量的精确性。数字化单元 skew测量方法可实现对信号的定时和时间测量。在图5中，定时点为 $\\boldsymbol { n \\% }$ ，则信号源的定时幅值",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { _ { t i \\operatorname* { m i n } _ { g } } } = A _ { _ { \\operatorname* { m i n } } } + \\left( A _ { _ { \\operatorname* { m a x } } } - A _ { _ { \\operatorname* { m i n } } } \\right) \\times n \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其对应的时间即为其定时时间，由图可知信号源1、2的定时幅值分别为 $A 1 _ { \\iota i \\mathrm { \\scriptsize ~ m i n } _ { g } } A 1 _ { \\mathrm { \\scriptsize ~ t i m i n g } } .$ ，（204号 $A 2 _ { t i \\operatorname* { m i n } g }$ ，对应定时分别为 $t 1$ 、 $t 2$ ，进而得到时间差",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta t = t 2 - t 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/96898126bb6dd37131a8f6a3c582edcc6d1ce1dadc1ae86ead2ee084b0313fb0.jpg",
+        "img_caption": [
+            "图5时间信号定时示意图 Fig.5 An illustration of the timing of the time signal. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "探测器输出信号前沿、幅值变化很大，直接在百分处定时影响时间测量精度，本系统用恒比定时器将不稳定的信号转化为稳定的方波信号，然后对方波信号进行再次定时和计算[21]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 多道计数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "时间测量最终以统计大量结果的时间测量谱分析核信号与物质相互作用的物理问题。数字化单元直方图统计实现对时间测量结果的多道计数得到时间谱，其中道宽是影响时间谱结果的重要参数。 $^ { 6 0 } { \\bf C } 0$ 在衰变时几乎同时发射能量分别为 $1 . 3 3 \\mathrm { M e V }$ 和1.17MeV的伽马信号，多道分析谱上对两个伽马光子的响应即时间分辨曲线。用时间谱测量的数字化处理技术对 $^ { 6 0 } { \\bf C } 0$ 进行测量，更改不同道宽，结果如图6所示，由此可得谱仪时间分辨率即时间测量谱半高宽（FWHM）如表1所示，其道宽越小，半高宽越小，故可得在一定范围内道宽越小时间分辨率",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/988d0c2cc95d81ab56e32dff27cae3c59a310a3df1f49d19e255f653c239a4e8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f63e11516be4a9840ba63d10076c53db0d7452ffd333b2647352113437d6ed92.jpg",
+        "table_caption": [
+            "表1不同道宽下Co-60时间谱半高宽Table1 Time-spectrum FWHMof Co-60 in differentchannel widths."
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>道宽 Channel width</td><td>半高宽</td></tr><tr><td>4ps</td><td>232</td></tr><tr><td>13ps</td><td>239</td></tr><tr><td></td><td>244</td></tr><tr><td>16ps</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3核谱学时间测量的数字化处理结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了检测核谱学时间测量数字化处理结果的可靠性和性能参数，用时间谱测量数字化处理方法与正电子湮没时间测量方法对正电子在样品镍中的湮没寿命及 $^ { 6 0 } { \\bf C } { \\bf o }$ 进行测量，其对比结果如图7、8,其中con为正电子湮没时间测量方法结果，dig为时间谱测量数字化处理方法结果。由图7可以看出时间谱测量数字化处理方法结果与正电子时间谱测量方法的时间谱基本上吻合。测得图8正电子湮没测量方法结果FWHM为 $2 1 4 . 3 8 \\mathrm { p s }$ ，时间谱测量数字化处理方法结果FWHM为 $2 3 9 \\mathrm { p s }$ ，由此可得时间谱测量数字化处理方法与正电子湮没时间谱测量方法的时间分辨率比较接近，但是仍有一定的差距。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0a769cc637732ca07b2848a39a6043cfab7c287a3e16589f3b23b3a46e06ab5.jpg",
+        "img_caption": [
+            "图7各方法对Ni测量结果对比 Fig.7 The comparison of the measurement results of Ni with each method. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ff134c9db63cad916a2b28f62a617bbded5e237dacc60d9394dd1b3d4792824.jpg",
+        "img_caption": [
+            "图6不同道宽下Co-60时间谱结果Fig.6 Time-spectrum results of Co-6O in different channelwidths.",
+            "图8各方法对Co-60 测量结果对比 Fig.8 The comparison of the measurement results of Co-60 with each method. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "时间测量的各种数字化技术分析结果表明，采样率、触发、定时、道宽对核谱学时间测量有很大的影响。通过数字化单元较高的采样率和多条件触发方式可快速采集到优质波形，以便对信号的甄别、时间定时的精确性等进一步分析，有效的定时方式和合理的计数道宽能得到更好时间测量谱。本文研究的时间谱测量的数字化处理技术，可以实现同时间谱测量谱仪相同的功能，实现设备简化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "受现有数字化单元信号甄别方式、插值方式等因素的限制，时间谱测量数字化方法得到的结果难以达到与常规时间谱测量谱仪相同的时间分辨率，仍需对数字化技术研究以优化系统，下一步任务是将经采集、触发后的符合信号存储下来，或用软件实现信号多方式甄别、高精度定时和收集计数等，搭建一套具有高时间分辨率的数字化时间谱测量系统。研究数字化技术在核谱学时间测量中的应用在于得到更高速、有效的时间信号，以便对其用软件进行在线或离线处理，得到更好的时间谱结果，同时将数字化技术推广，实现其他核谱测量方法的数字化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "YI H,LU L M, ZHANG Z,et al. A Flash-ADC data acquisition system developed for a drift chamber array and a digital filter algorithm for signal processing[J]. Chinese Phys C,2016,40(11):116102   \n2敖奇，魏义祥，文向阳．基于DSP 的数字化多道脉冲幅 度分析器设计 [J]．核技术,2007,30(6):58-62. AO Qi,WEI Yixiang,WEN Xiangyang. Design of digital multi-channelpulseheightanalyzer[J].Nuclear Techniques,2007,30(6): 58-62.   \n3张怀强，汤彬，吴和喜．数字核谱仪系统中脉冲幅度提 取方法研究[J]．核技术,2013,(05):71-75. ZHANG Huaiqiang,TANG Bin,WU Hexi, et al. The study of digitizing nuclear pulse discriminator method[J]. Nuclear Techniques,2013,( 05): 71-75.   \nX LI H, SHAO Y D, ZHOU K,et al. A simplified digital positron lifetime spectrometer based on a fast digital Oscilloscope [J]. Nucl Instrum Meth A,2011,625(1): 29-34.   \n5 SAITO H, NAGASHIMA Y, KURIHARA T, et al. A new positron lifetimespectrometerusinga fast digital Oscilloscope and BaF2 scintillators [J]. Nucl Instrum Meth A,2002, 487(3): 612-7.   \n6 曾雅丹．数字化核谱仪关键技术研究 [D]．合肥：中国 科学技术大学,2015. ZENG Yadan. Research on key technologies of digital nuclear spectrometer [D].Hefei: University of Science and Technology of China,2015   \n7 张怀强．数字核谱仪系统中关键技术的研究[D]．成都 成都理工大学,2011. ZHANG Huaiqiang. Study on key technologies of digital nuclear spectrometer system [D]. Chengdu: Chengdu University of Teehnology，2011   \n8 NISSILA J， RYTSOLA K， AAVIKKO R，et al. Performance analysis of a digital positron lifetime spectrometer [J].Nucl Instrum Meth A,2005,538(1-3): 778-89.   \n9 RYTSOLA K,NISSILA J, KOKKONEN J,et al.Digital measurement of positron lifetime [J].Appl Surf Sci,2002, 194(1-4): 260-3.   \n10安然．一维及二维数字化正电子寿命谱仪的研制 [D]. 合肥：中国科学技术大学,2013. AN Ran. The study of one dimensional and two dimensional digital positron lifetime spectrometer [D]. Hefei: University of Science and Technology of China   \n11高鑫，白雪宁，陈宜保,等.LaCl_3:Ce- $^ { ( 3 + ) }$ 闪烁体正电 子湮没寿命谱仪 [J]．核电子学与探测技术，2007,(02): 243-245. GAO Xin， BAI Xuening， CHEN Yibao. et al. LaCl_3:Ce\\~ $( 3 + )$ scintillator positron annihilation lifetime spectrometer[J].NuclearElectronics&Detection Technology,2007, (02): 243-245.   \n12姚永刚，邓长明，李建伟，等．改进型闪烁体探测器信 号处理电路设计 [J]．核电子学与探测技术，2014,(10): 1226-30. YAO Yonggang,DENG Changming, LI Jianwei, et al. The design of improved scintillator signal processing circuit[J]. Nuclear Electronics & Detection Technology, 2014, (10): 1226-30.   \n13赵健，贺国珠，颜拥军，等.BaF_2闪烁体探测器信号数 字化方法研究 [J]．原子能科学技术,2013,(04):669-73. ZHAO Jian,HE Guozhu, YAN Yongjun,et al. Study on digitizing method of BaF_2 scintillator detector signals[J]. ATOMIC ENERGY SCIENCE AND TECHNOLOGY, 2013, (04): 669-73.   \n14李辉．数字式正电子寿命谱仪及其在半导体研究中的 应用 [D].武汉：武汉大学,2011. LI Hui. Digital positron lifetime spectrometer and its application in semiconductor research[D]. Wuhan: Wuhan University,2011.   \n15郝德建，张软玉，闫洋洋，等．数字化核测量系统中参 数可调的前端控制器 [J]．核技术,2013,(11):51-6. HAO Dejian, ZHANG Ruanyu, YAN Yangyang, et al. Parameters-adjustable front-end contrioller in digital nuclear mesaurement system [J]. Nuclear Techniques, 2013, (11): 51-6.   \n16 汪进进．关于示波器的采样率[J]．中国集成电路,2015, (11): 60-5. WANG Jinjin. On the sampling rate of the oscilloscope [J]. China Integrated Circuit, 2015,(11): 60-5.   \n17杨扩军.TIADC 系统校准算法研究与实现 [D]．成都： 电子科技大学,2015. YANG Kuojun. Reseach and implementation of mismatches calibration algorithm in TIADC system [D]. Chengdu:UniversityofElectronicScienceand Technology of China,2015.   \n18杨扩军，田书林，蒋俊,etal.基于TIADC 的 $2 0 \\mathrm { G S / s }$ 高 速数据采集系统[J]．仪器仪表学报,2014(04):841-9. Yang Kuojun,Tian Shulin,JIANG Jun,et al.2O GS／ s high-speed data acquisition system based on TIADC [J]. Chinese Journal of Scientific Instrument, 2O14,(04):   \n841-9   \n19 秦塬淋．示波器触发原理和应用[J].计量与测试技术,   \n2012,(02):36-8. QINYuanlin. Oscilloscopetriggerprincipleand application [J].Measurement and Testing Technology,   \n2012,(02):36-8.   \n20王全宇．示波器扫描与触发方式的选择[J]．大学物理 实验,2010,(03):20-2. WANG Quanyu. Selection of oscilloscope scan and trigger [J].Physical Experiment of College,2O10,(03):   \n20-2.   \n21 安琪．粒子物理实验中的精密时间间隔测量[J]．核技 术,2006,(06): 453-62. AN Qi. Precise time interval measurement in particle physics experiment [J].Nuclear Techniques,2OO6,(06):   \n453-62. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Application of digital technology in time measurement of nuclear spectroscopy ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ZHENG Lingyun1,2 KUANG Peng² CAO Xingzhong² ZHANG Peng² QIN Zhangjian1 ZHANG Yubao²ZHANG Zhiming2 WANG Baoyi2 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1(Chengdu University of Technology s,Chengdu 6l0o59,China) 2(Institute of High Energy Physics,Chinese Academy of Sciences,Beijing 10o049,China) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AbstractBackground: With the rapid development of high-speed ADC acquisition card and CPU processing technology,digital technology has been developed and applied widely in the nuclear spectrum measurement.It can avoid the environmental impact on nuclear electronic devices and their own limitations such as dead time.Purpose: Theaim is touse digital technology torealize the functions of time-to-amplitude converter,multi-channelanalyzer and other signal processing modules of nuclear electronic devices,which are used for time-spectrum measurements. Methods:The time signal outputed by the high eficiency scintilltor detector is processed by the multi-ADC interleaved acquisition,multi-conditional trigger and other methodsof the digitalunit，througth which to study the gamma signal high-efficiencyacquisition,fast trigger,high-resolution timing,inlinewith screening,time diference calculation and other digital processing methods.Results:The paper have realized the digital processing for the detector output signal,and have goten the result similar to the traditional method.Conclusions: The analysis result of time measurement shows that sampling rate,trigger,timing and channal width have a great influence on the time spectrum.The digital processng technology used in time spectrum measurement can achieve the same function of nuclear electronics hardware,and realize the simplification of the equipment. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "KeywordsDigital technology,Nuclear spectroscopy, Time measurement CLC TL824 ",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,541 @@
+[
+    {
+        "type": "text",
+        "text": "骨骼肌细胞中UBXD8的敲除及 其对脂质代谢的影响 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邹飞1)\\*刁志清2)\\*张红超徐式孟3刘平生3）梁斌4)\\*\\*魏璇ə)\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(安徽医科大学研究生学院，合肥230032；安徽大学生命科学学院，合肥230039；3)中国科学院生物物理研究所，生物大分子国家重点实验室，北京100101;4中国科学院昆明动物研究所，中国科学院和云南省动物模型与人类疾病机理重点实验室，昆明 650223;5)中国人民解放军空军总医院，北京100142)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要UBXD8是能与p97/VCP相互作用共同参与内质网相关的泛素化后蛋白质降解过程的膜蛋白，新近的脂滴蛋白质组学研究表明 UBXD8 能够定位到脂滴上，同时有研究表明 UBXD8调控甘油三酯的代谢．但是UBXD8调控甘油三酯代谢的分子机制并不清楚．因此我们采用改良的CRISPR/Cas9技术敲除小鼠成骨骼肌细胞C2C12中的UBXD8．从筛选出来的 26个可能的UBXD8敲除单克隆细胞系中鉴定获得了2个确切的UBXD8敲除单克隆细胞系．研究表明，敲除UBXD8没有显著改变脂滴上蛋白质的分布，但敲除UBXD8增加了细胞内中性脂的累积．同时敲除UBXD8可缓解棕榈酸引起的胰岛素抵抗和抵抗棕榈酸引起的细胞凋亡．当在敲除UBXD8的细胞中重新过表达UBXD8后，细胞再次出现了棕榈酸引起的胰岛素抵抗及细胞凋亡，这些数据表明UBXD8在细胞脂质代谢及其异常所引起的胰岛素信号和细胞凋亡中起着十分重要的作用.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词UBXD8，脂滴，CRISPR/Cas9，脂质代谢学科分类号 Q2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UBXD8(ubiquitin regulatory X domain-containingprotein 8)， 亦 称 ETEA 或 FAF2 (Fas associatedfactor 2)，是一个含有 UBX (ubiquitin regulatory X)结构域的膜蛋白．UBXD8最初发现在特应性皮炎(atopicdermatitis)患者的外周血CD3阳性细胞和嗜酸性粒细胞中高表达，但是UBXD8在特应性皮炎这一疾病的发生发展过程中所起的作用并没有被阐明[．在哺乳动物中共有13个含UBX结构域的蛋白，根据这些含UBX结构蛋白自身结构域组成的不同，可以将它们分成两类：一类是同时含UBX和UBA(ubiquitin-associated domain)结构域的蛋白;另一类是只含UBX结构域的蛋白．对UBXD8的氨基酸序列分析发现，UBXD8含有4个结构域，从N端开始依次是UBA结构域、疏水结构域(HP结构域)、UAS(ubiquitin-associating domain)结构域和UBX 结构域，因此UBXD8属于含UBX-UBA结构域蛋白[3]．UBXD8与内质网(endoplasmicreticulum，ER)膜蛋白UBAC2共定位在内质网膜",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI:10.16476/j.pibb.2015.0147上，在受到油酸刺激后，UBXD8转移到脂滴上[4]脂滴蛋白质组学分析表明，UBXD8是一个脂滴蛋白[5-6].",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2010年，Lee等7-8研究表明UBXD8是细胞内不饱和脂肪酸的一个感受器．当细胞培养液中缺乏脂肪酸时，E3泛素连接酶 $\\mathrm { g p } 7 8$ 将insig-1泛素化，泛素化的insig-1募集UBXD8/p97复合物并与之结合，而p97通过水解ATP将insig-1从ER 膜上分离下来进入细胞质中，泛素化的insig-1在细胞质中被26S 蛋白酶体降解，这一过程被称作 ER 结合蛋白降 解 途径 (ER-associated protein degradation,ERAD)．Insig-1 的 降 解 释 放了 Scap，Scap 将SREBP-1前体转运到高尔基体，SREBP-1前体在高尔基体中被酶解激活释放出有活性的N端片段，该活性片段进入细胞核激活脂肪酸合成基因的转录表达．同时，敲低UBXD8可使细胞在缺乏脂肪酸的条件下抑制DAG向TAG的转变从而抑制TAG的合成．当向细胞培养液中加入不饱和脂肪酸时，UBXD8多聚化失活，insig-1虽然仍被泛素化但不被蛋白酶体降解，因此insig-1仍与Scap 结合而抑制SREBP-1的酶解活化．另有研究报道，过表达UBXD8可明显增大LD的大小和数量，其可能的机制是转移到脂滴上的UBXD8/p97复合物将ATGL从ATGL/CGI-58复合物中解离下来从而抑制了ATGL的活性，最终抑制了细胞中TAG的水解[4．这一结果与Lee等凹的结果不一致．此外UBXD8参与了I型组织相容性复合物重链、神经纤维瘤蛋白(neurofibromin)[1o]、mRNP [11]、Apo100[12]的降解或调控.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用的CRISPR/Cas9属于II型CRISPR/Cas系统．CRISPR/Cas系统广泛存在于细菌和古细菌中，是细菌抵御外源遗传物质入侵的获得性免疫系统[13-15]．CRISPR/Cas9 由于其操作简单、成本低、突变效率高[，因而已被广泛应用于真核细胞的基因敲除和基因组编辑[17-18]．其基本原理是，Cas9 在指导 RNA (single guide RNA，sgRNA)的引导下，以碱基互补配对的形式结合到靶序列上，Cas9的核酸酶活性将靶双链DNA切开，产生双链断裂(double strand break，DBS)，随后细胞启动非同源末端连接(non-homologous end joining;NHEJ)DNA损伤修复机制，最终导致碱基的缺失和插入，从而实现基因敲除[17-19].",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "骨骼肌是人体重要的运动和代谢器官，它吸收了血液循环中约 $80 \\%$ 的葡萄糖[20-21]．骨骼肌所吸收的葡萄糖除部分用于氧化供能和合成肌糖原外，大部分转化为脂质储存于骨骼肌细胞的脂滴中．骨骼肌细胞中脂质代谢紊乱，主要表现为脂滴稳态的异常，会引起骨骼肌胰岛素抵抗，进而发展为Ⅱ型糖尿病[22-24]．因此我们选用骨骼肌成肌细胞C2C12作为研究载体来研究脂滴蛋白UBXD8对骨骼肌脂质代谢的影响，以进一步阐明骨骼肌脂质代谢的分子机制及糖尿病的致病机理.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上，在本研究中，我们运用改良的CRISPR/Cas9基因编辑技术[在小鼠骨骼肌成肌细胞C2C12 中敲除UBXD8，首次获得 $\\mathrm { C } 2 \\mathrm { C } 1 2 ^ { \\mathrm { U B X D 8 \\mathrm { - } / - } }$ 细胞系．为了进一步阐明UBXD8敲除后对C2C12细胞脂质代谢的影响，设计了一系列的实验以探讨",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UBXD8的功能．实验数据表明，敲除UBXD8后没有明显引起脂滴上蛋白的变化但增加了细胞内中性脂的积累，同时可以对抗PA引起的胰岛素抵抗和细胞凋亡.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小鼠骨骼肌成肌细胞C2C12购自ATCC公司；大肠杆菌TOP10购自天根公司；DMEM，青-链霉素以及胰蛋白酶购自迈晨科技公司；胎牛血清购自Hyclone公司．Cas9敲除质粒 $\\mathtt { p X 2 6 0 a }$ 由张峰教授惠赠；限制性内切酶BbsI购自NEB公司；T4连接酶，DNA胶回收试剂盒购自Takara公司；T载体连接试剂盒购自GenStar公司；质粒大量提取试剂盒购自威格拉斯公司；棕榈酸钠和油酸钠购自Sigma 公 司 ；PARP、 p-AKT、 AKT、 ATGL、p-PERK抗体购自Cell SignalingTechnology公司；Bip抗体购自BD公司；UBXD8抗体购自Proteintech公司；ADRP抗体购自Abcam公司；CGI-58购自Abclonal公司；Myc抗体购自CelSignaling公司；GAPDH抗体购自Millipore公司；辣根过氧化物酶偶联的山羊抗兔及山羊抗小鼠二抗购自中杉金桥公司．ECL曝光底物购自PerkinElmer公司．质粒测序分析由擎科生物公司完成，其他试剂均为国产分析纯.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 质粒构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据 http://www.genome-engineering.org 网站靶序列筛选设计原则分析，结合小鼠UBXD8的基因序列，在UBXD8 基因上游约1/3处的UBA结构域附近选择一条特异性靶序列，设计并合成Cas9敲除引物，然后按Cas9引物退火程序使Cas9的正反向引物形成双链DNA，退火后的Cas9引物与已经过BbsI 酶切的pX260 载体进行T4DNA连接酶酶连反应，连接产物转化大肠杆菌TOP10感受态细胞，挑取单克隆菌落测序，选取酶连正确的pX260a-UBXD8克隆菌，进行扩大培养并提取pX260a-UBXD8质粒用于电转.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UBXD8CRISPR/Cas9敲除引物序列：正向引物， ${ \\boldsymbol { 5 } } ^ { \\prime }$ CACCGTTAACCTGTAGGGGCCGAGC $3 ^ { \\prime }$ ：反向引物， ${ \\boldsymbol { 5 } } ^ { \\prime }$ AAACGCTCGGCCCCTACAGGTTA-AC $3 ^ { \\prime }$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了验证UBXD8KO的表型确实是由UBXDKO引起的，将经过PCR定点突变的、可抵抗Cas9 蛋白核酸酶活性的UBXD8(UBXD8Mut)回转到UBXD8KO4 细胞中．pQCXIP-UBXD8Mut质粒设计过程如下，以之前设计的pCDNA3.1-UBXD8-Myc/His质粒为模板，PCR扩增出UBXD8-Myc/His片段，然后将该片段与pQCXIP质粒连接，连接产物转化TOP10大肠杆菌感受态细胞，获得含 pQCXIP-UBXD8-Myc/His 质粒的阳性大肠杆菌克隆．将pQCXIP-UBXD8-Myc/His大肠杆菌扩大培养后大提获得pQCXIP-UBXD8-Myc/His质粒，以pQCXIP-UBXD8-Myc/His质粒为模板，设计特异的引物，用TranstartFastPfuDNA聚合酶对质粒进行环状PCR，扩增得到已经定点突变的pQCXIP-UBXD8 Mut-Myc/His 质粒，用该质粒转化TOP10大肠杆菌感受态细胞，筛选得到正确的阳性克隆，再扩大培养并质粒获得一定量pQCXIP-UBXD8Mut-Myc/His质粒，用该质粒电转UBXD8KO4细胞，检测细胞由PA引起的胰岛素抵抗和细胞凋亡情况.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从pCDNA3.1-UBXD8-Myc/His 质 粒上扩增UBXD8-Myc/His片段的引物序列：正向引物，${ \\boldsymbol { 5 } } ^ { \\prime }$ ATTTAATTAAGCCACCATGGCGGCGCCTGA-GGAGCA $3 ^ { \\prime }$ ；反向引物， ${ \\boldsymbol { 5 } } ^ { \\prime }$ TAGGATCCTCAGC-GGGTTTAAACTCAAT $3 ^ { \\prime }$ ．对 pQCXIP-UBXD8-Myc/His质粒进行环状PCR 获得 pQCXIP-UBXD8Mut-Myc/His质粒的引物序列：正向引物， ${ \\boldsymbol { 5 } } ^ { \\prime }$ GC-CAGCAAGGCCATTGCAGGTTAAT $3 ^ { \\prime }$ ；反向引物， ${ \\boldsymbol { 5 } } ^ { \\prime }$ CAATGGCCTTGCTGGCGGTGGATTG $3 ^ { \\prime }$ ·",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 转染及筛选 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将密度长至约 $80 \\%$ 的野生型C2C12细胞用胰蛋白酶消化下来， $1 0 0 0 ~ \\mathrm { r / m i n }$ 离心沉淀细胞后，用适量的电转缓冲液 $\\mathrm { ( 8 8 ~ m m o l / L ~ K H _ { 2 } P O _ { 4 } }$ ， $1 1 . 3 \\mathrm { m m o l / L }$ ${ \\mathrm { N a H C O } } _ { 3 }$ ,2.2 mmol/L葡萄糖,7.25 mmol/L ATP·2Na,$1 1 . 8 \\ \\mathrm { m m o l / L \\ M g C l _ { 2 } \\bullet 6 H _ { 2 } O ) }$ 重悬细胞，然后用血球计数板计数后，取约 $1 0 ^ { 7 }$ 个C2C12细胞放于电转杯中，再加入 ${ 5 } ~ { \\mu \\mathrm { g } }$ 测序正确的pX260a-UBXD8敲除质粒，选用AmaxaNucleofector电转仪中的B-032程序进行质粒电转．电转结束后的细胞重新接种于 $1 0 \\ \\mathrm { c m }$ 培养皿中， $4 8 \\mathrm { ~ h ~ }$ 后换用含终浓度为$1 \\mathrm { m g / L }$ 的嘌呤霉素细胞培养液筛选细胞．约15天后将存活的细胞按密度梯度稀释法接种于96孔板，约2周后挑取96孔板中单克隆细胞群落扩大培养并鉴定.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4细胞DNA提取、PCR扩增及UBXD8 敲除细胞的测序鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取一定量UBXD8敲除细胞，用生理盐水润洗一遍后室温低速离心 $5 ~ \\mathrm { m i n }$ ，弃去上清后加入$1 0 0 ~ \\mu \\mathrm { l }$ 细胞裂解液 $( 6 7 ~ \\mathrm { m m o l / L }$ Tris-Cl, 16.6 mmol/L$\\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ $5 \\mathrm { \\ m m o l / L }$ 巯基乙醇，6.7mmol/L $\\mathrm { M g C l } _ { 2 } ,$ $6 . 7 \\ \\mathrm { \\ m m o l / L }$ EDTA $\\mathrm { ( p H 8 . 0 ) }$ ， $1 . 7 ~ \\mathrm { \\ m m o l / L }$ SDS,$5 0 \\mathrm { m g / L }$ 蛋白酶K)， $3 7 ^ { \\circ } \\mathrm { C }$ 裂解 $^ { \\textrm { 1 h } }$ 后置于 $9 5 \\mathrm { ^ \\circ C }$ 金属浴上变性 $2 0 ~ \\mathrm { { m i n } }$ ．此裂解液即可作为PCR反应的DNA模板扩增UBXD8突变区，将PCR产物连接至T载体中并转化大肠杆菌TOP10感受态细胞，挑取单克隆菌落测序，用ClustalX2软件对测序结果进行比对以鉴定UBXD8敲除细胞的基因型.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "UBXD8CRISPR/Cas9敲除后测序验证引物序列：正向引物， ${ \\boldsymbol { 5 } } ^ { \\prime }$ GGGAGACTTCCCATTACCCC-AC $3 ^ { \\prime }$ ；反向引物， ${ \\boldsymbol { 5 } } ^ { \\prime }$ GCTGCTCAAAATGAGGC-CCA $3 ^ { \\prime }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 细胞培养 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将C2C12细胞培养在含 $10 \\%$ 胎牛血清的DMEM培养基中，同时添加终浓度 $1 0 0 \\mathrm { U / m l }$ 青霉素和 $0 . 1 \\ \\mathrm { g / L }$ 链霉素，置于 $3 7 ^ { \\circ } \\mathrm { C }$ ， $5 \\% \\mathrm { C O } _ { 2 }$ 饱和湿度条件下培养．在纯化C2C12细胞脂滴前，用$2 0 0 \\mu \\mathrm { m o l / L }$ 的油酸钠(oleate acid，OA)预处理细胞$1 2 \\mathrm { h }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6 C2C12细胞脂滴纯化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "脂滴纯化参照Ding等[25的方法：C2C12细胞用油酸钠处理 $1 2 \\mathrm { ~ h ~ }$ 后，将细胞刮下置于含有$2 0 0 \\mu \\mathrm { m o l / L }$ PMSF 的缓冲液 A(buffer A)中 $( 2 5 \\mathrm { m m o l / L }$ tricine $\\mathrm { p H } 7 . 6$ ， $2 5 0 \\ \\mathrm { m m o l / L }$ 蔗糖)，离心收集细胞并用适量的bufferA重悬细胞，放置冰上 $1 5 \\mathrm { m i n }$ 氮泵破碎细胞(500 psi，冰上 $1 5 \\mathrm { m i n } )$ 后离心 $( 3 \\ 0 0 0 \\ g ,$ $1 0 \\ \\mathrm { \\ m i n } )$ ）获得去 核上清(postnuclear supernatant,PNS)．先将约 $8 ~ \\mathrm { m l }$ 的PNS放于SW40 管底部，然后再铺上约 $4 ~ \\mathrm { m l }$ 的缓冲液 B(buffer B) $( 2 0 \\ \\mathrm { m m o l / L }$ HEPES pH 7.4, 100 mmol/L KCl， $2 ~ \\mathrm { m m o l / L } ~ \\mathrm { M g C l _ { 2 } } ,$ ，$3 8 0 0 0 \\mathrm { r / m i n }$ ， $4 ^ { \\circ } \\mathrm { C }$ 离心 $^ { \\textrm { 1 h } }$ ．收集脂滴至新的 $1 . 5 \\mathrm { m l }$ 离心管中， $2 0 \\ 0 0 0 \\ g$ 离心 $5 ~ \\mathrm { m i n }$ ，小心移除底部的 buffer B，再加 $2 0 0 ~ \\mu \\mathrm { l }$ buffer B， $2 0 ~ 0 0 0 ~ g$ 离心$5 \\mathrm { m i n }$ ，小心移除底部的bufferB，如此重复洗涤脂滴3次直至得到纯净的脂滴.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.7银染 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "固定：电泳结束后，将胶块完整取出，去离子水润洗1次，加入 $1 0 0 \\mathrm { m l }$ 固定液，室温条件下放于摇床上固定 $3 0 ~ \\mathrm { m i n }$ ．固定液配方为：无水乙醇$4 0 ~ \\mathrm { m l }$ 、乙酸 $1 0 ~ \\mathrm { m l }$ 、去离子水 $\\mathrm { 5 0 m l }$ ，摇晃混匀.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "致敏：去除固定液，加入 $1 0 0 ~ \\mathrm { m l }$ 致敏液，放于摇床上致敏 $3 0 \\mathrm { m i n }$ ．致敏液配方为：五水合硫代硫酸钠 $0 . 3 1 4 { \\mathrm { ~ g ~ } }$ 、三水合乙酸钠 $1 1 . 2 8 \\ \\mathrm { g }$ 、无水乙醇$3 0 ~ \\mathrm { m l }$ 以及去离子水 $7 0 ~ \\mathrm { m l }$ ，放于磁力搅拌器上搅拌溶解混匀.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "水洗：去除致敏液，用去离子水润洗4次，每次 5min.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "银染：加入 $1 0 0 ~ \\mathrm { m l }$ 银染液，放于摇床上银染 $2 0 \\mathrm { m i n }$ ．银染液配方为：硝酸银 $0 . 2 5 { \\mathrm { ~ g } } .$ ， $3 7 \\%$ 甲醛 $4 0 ~ \\mu \\mathrm { l }$ ，加去离子水至 $1 0 0 \\mathrm { m l }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "显色：弃去银染液，用去离子水润洗1次，加显色液显色．显色液配方如下： $\\mathfrak { s } _ { \\mathrm { g } }$ 碳酸钠、 $4 0 \\mu \\mathrm { l }$ $3 7 \\%$ 甲醛(现加)，去离子水定容至 $2 0 0 \\mathrm { m l }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "终止：显色至合适程度加入终止液终止显色反应．终止液配方如下： $1 . 9 6 ~ \\mathrm { g }$ EDTA，去离子水定容至 $1 0 0 \\mathrm { m l }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.8用激光共聚焦扫描显微镜观察脂滴 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "向放有盖玻片的12孔板中加入 $1 ~ \\mathrm { m l }$ 培养基，加入适量的细胞，使细胞密度保持在 $30 \\%$ 左右，$2 4 \\mathrm { h }$ 后换成含有脂肪酸的培养基， $( 5 0 0 ~ \\mathrm { \\mu m o l / L }$ 棕榈酸钠， $2 0 0 \\mu \\mathrm { m o l / L }$ 油酸钠)继续孵育 $1 2 \\mathrm { h }$ ．将盖玻片取出后用预冷的PBS润洗3次， $4 \\%$ 多聚甲醛室温固定 $3 0 \\mathrm { m i n }$ ，然后弃去 $4 \\%$ 多聚甲醛溶液，再次用PBS 润洗3次，LipidTox和Hoechst 染色液用PBS按 $1 : 1 \\ 0 0 0$ 的比例配制，室温避光染色$3 0 ~ \\mathrm { m i n }$ ，润洗3遍．在载玻片上滴加 $1 \\sim 2 ~ \\mu \\mu 1$ 抗荧光衰减剂，将细胞面液体吸干，扣在载玻片上，用指甲油封片，然后放于OlympusFV1000 激光共聚焦扫描显微镜下观察脂滴形态及其分布.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.9 免疫印迹 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12孔板中的细胞经处理后，用PBS润洗2遍，加入 $2 0 0 ~ \\mu 1 ~ 2 \\times \\mathrm { S D S }$ 缓冲液，室温裂解 $5 \\mathrm { m i n }$ ，然后200W超声功率超声 $1 8 \\mathrm { ~ s ~ }$ 后在 $9 5 \\mathrm { ^ \\circ C }$ 金属浴变性$5 \\mathrm { m i n }$ ，冷却后高速离心取上清进行蛋白质电泳.蛋白样品经 $10 \\%$ SDS-PAGE进行分离后，以恒流模式 $( 2 0 0 \\mathrm { m A } , \\ 2 \\mathrm { h } )$ ，将蛋白质电转至PVDF 膜上，电转结束后，印迹膜用TBST润洗2次，放于含$5 \\%$ 脱脂奶粉的封闭液中室温封闭 $^ { \\textrm { 1 h } }$ ，然后加入一抗，在室温中孵育1h(或者 $4 ^ { \\circ } \\mathrm { C }$ 缓慢摇动孵育过夜)，用洗涤缓冲液(washingbuffer)洗膜3次，每次$5 \\mathrm { m i n }$ ；放于二抗稀释液中于室温中孵育1h(二抗稀释液中辣根过氧化物酶偶联的山羊抗小鼠或山羊抗兔第二抗体的浓度为 $8 0 \\sim 1 6 0 ~ \\mathrm { m g / L } \\$ ，washingbuffer洗膜3次后用ECL压片显影.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 UBXD8Cas9敲除引物设计及实验流程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CRISPR/Cas9基因敲除实验需要考虑以下一些因素：细胞类型、所需试剂、实验策略、阳性克隆的鉴定以及可能的脱靶效应．因此根据小鼠UBXD8基因序列以及生物信息学网站(http://www.genome-engineering.org)的分析，将UBXD8Cas9敲除引物设计在UBXD8基因上游约1/3处的UBA结构域附近(图1a)．将退火产物与经BbsI酶切后的pX260a载体连接、转化、挑取单克隆细胞，然后同时鉴定UBXD8蛋白的表达情况和UBXD8基因的突变情况，最终获得UBXD8蛋白表达阴性，遗传背景清晰的C2C12UBXD8KO单克隆细胞系(图1b).",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) (b) sgRNA 3' CGAGCCGGGGAUGTCCAAUU 5' pX260aCas9 UBXD8 KO 5'CCACCGCCAGCTCGGCCCCTACAGGTTAATACAGC 3' plasmid Cas9 primer 3'GGTGGCGGTCGAGCCGGGGATGTCCAATTATGTCG5' PAM X T4 DNA ligase linking reaction Electrotransfered pX260a-UBXD8 C2C12 cells ObtainedUBXD8 KO 中 四 ↓ ↓ The protein expression identification of Isolated clonal populations of UBXD8 UBXD8KO C2C12 cells by Western blot KO cells by limiting dilution Double-strand DNA breaks(DSBs) Nonhomologous end joining Obtained UBXD8 KO monoclonal cell-lines (NHEJ) DNA repair The sequencing identification of that were negative-protein expression and Base pair(s) deletion or insertion UBXD8 KO monoclonal cell-lines defined genetic background ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a)DesigntheCas9cleavageiteinthe3rdexonneartheUBAdomainofUBXD8.(b)TheflowchartofUBXD8KObyCRISPR/Cas9technolog ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 UBXD8敲除克隆细胞系的筛选 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将测序正确的质粒提取纯化后电转C2C12细胞， $^ { 4 8 \\mathrm { ~ h ~ } }$ 后换用终浓度为 $1 \\ \\mathrm { m g / L }$ 的嘌呤霉素细胞培养液进行筛选．每2天换1次细胞培养液，2周后将存活下来的细胞按密度梯度稀释法接种到96孔板中筛选单克隆细胞系．2周后在显微镜下选取单克隆细胞系，共获得26个单克隆细胞系，依次编号为 $\\phantom { - } I ^ { \\sim } 2 6$ ．通过蛋白质印迹(Westernblot)检测UBXD8蛋白表达水平(图2)．检测结果显示，只有4号单克隆细胞系和26号单克隆细胞系是UBXD8蛋白表达阴性，分别命名为UBXD8KO4和UBXD8KO26，其他的单克隆细胞系均能检测到UBXD8蛋白表达．此外对所有的单克隆细胞系进行全细胞DNA测序，测序结果比对表明26个单克隆细胞系的DNA序列存在不同程度的碱基缺失或插入突变(附件图 S1).",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfbea4215bc32f0afd1bff54e0876e9b86c145ce7a9e4d194b2fde297e280c91.jpg",
+        "img_caption": [
+            "Fig.2The protein expression identification of UBXD8 KO C2C12 clones by Western blo ",
+            "Fig.3Verification of UBXD8 KO clones 4 and 26 by Western blot and sequencing "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) The protein expression identification of UBXD8 KO $I { \\sim } I 3$ clones by Western blot.(b) The protein expression identification of UBXD8 KO $I 4 { \\sim } 2 6$ clones by Western blot.Con: Control. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3UBXD8敲除单克隆细胞系UBXD8蛋白表达再确认和测序鉴定基因型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了再次确认UBXD8是否真实敲除，我们将UBXD8KO4和UBXD8KO26与NCBI数据库中的小鼠UBXD8基因序列进行对比．免疫印迹结果显示，UBXD8KO4和UBXD8KO26均不表达UBXD8（图3a)．DNA 测序结果表明UBXD8KO 4和UBXD8KO26都是杂合子，2个UBXD8同源基因序列产生了不同程度的缺失：UBXD8KO4一条染色体缺失4个碱基，另外一条染色体缺失了2",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) (b) 19780 19790 19800 19810 19820 19830   \nku WT 4 26 UBXD8mOUSE gENeGTTCAATCCACCGCCAGCTCGGCCCTACAGGTTAATACAGCTGACCACAGG   \n180 P UBXD8-Cas9-Primer R GCTCGGCCCTACAGTALA 19790 19820 19830 UBXD8 mOUSe geneSTGrTTTCAATcCACCGCCAG CTCGG TAC CAGGTTAATACAGCTGACCACAGG   \n100 0 UBXD8-Ca-PrrRG CGTTTATACCTGAGACACGAG 19780 19790 19800 19810 19820 19830   \n75 O UBXD8 mOUSe gene GrTCAATcCACC CCAGCTCGGCCCCTACAGGTTAATACAGCTGACCACAGG UBXD8-Cas9-PrimerR GCTCG- CCCTACAGGTTAA ...   \n63 0 TheoneHCof4iTGrrrrcAATccAccd CAG TACAGGTTAATACAGCTGACCACAGG UBXD8 UBXD8 mouseo TACAGGTTATACAGCTGACCACAGG UBXD8-Cas9-PrimerR ---GCTC CCCTACAGGTTAA   \n48 9 Theother OneHC of4TGrrTCAAccAccGcCAG CCTACAGGTTAATACAGCTGACCACAGG 19780 19790 19800 19810 19820 19830 UBXD8 mOUSe gene;GITTTCAATCCACCGCCAG GCTCGGCCCCTACAGGTTAATACAGCTGACCACAGG   \n35 UBXD8-Cas9-Primer-- 85 GCTCGGCCCCTACAGGTTAA0 26TGITTTCAATCCACCGCCGGCTT-----CTACCCGITAATGTTAATGACCCTGAE 19780 19790 19800 19810 19820 19830 UBXD8 mOUSe gene TGrITTCAATCCACC CAGCT CTACAGGTTAATACAGCTGACCACAGG UBXD8-Cas99-Primmer?R---------------c---- CGGCCCCTACAGGTTAA---------------- The one HC of26GTTTTCAATCCACCG CGGGCCCTACAGGTTAATACAGCTGACCACAGG   \n25 19780 19790 19800 19810 19820 19830 UBXD8 mOUSe geneSTGTTTICAATCCACCGCCA CGO CCCTACAGGTTAATACAGCTGACCACAG GAPDH UBXD8-Cas9-PrimerR--------- CGGCCCCTACAGGTTAA--------- TheotherOneHCof26stGrrTTCAATcCACCGCCA CCTACAGGTTAATACAGCTGACCACAG ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) The Western blot verification of UBXD8 KO clones $^ { 4 }$ and 26.(b) The sequencing identification of UBXD8 KO clones $^ { 4 }$ and 26.The UBXD8 KO clone 4 cells have respectively 2 and $^ { 4 }$ nucleotides deletion in two homologous chromosomes while the UBXD8 KO clone $2 6$ cells have 5 nucleotides deletion and 1 nucleotide insertion respectively.WT: Wild type. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "个碱基；UBXD8KO26一条染色体缺失了5个碱基，另外一条染色体插入了1个碱基 (图 3b)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4敲除UBXD8引起细胞内中性脂的积累 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "UBXD8被认为是细胞内不饱和脂肪酸的感受器，它调控细胞不同生理状态下脂肪酸和甘油三酯的代谢．为了研究UBXD8与脂肪酸之间的相互作用，我们对C2C12WT、UBXD8KO4和UBXD8KO26细胞进行不同的脂肪酸处理(图4a).实验结果表明，在不对细胞做任何处理的情况下(Con)，C2C12WT细胞几乎观察不到脂滴，但UBXD8KO细胞内脂滴数目增多，脂滴变大，说明UBXD8参与了细胞内脂质的代谢.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "UBXD8KO导致了细胞内脂滴数目和大小的变化，因此UBXD8KO可能会影响细胞内脂滴蛋白质的表达和分布．为了验证这个假设，我们提取细胞内的脂滴并通过SDD-PAGE 银染观察脂滴蛋白质表达和分布的差异．银染结果表明，与C2C12WT细胞脂滴蛋白相比，UBXD8KO细胞脂滴蛋白并没有发生显著的变化(图4b)．说明UBXD8可能并不影响脂滴蛋白的表达和分布，需要分辨精度更高的蛋白质质谱实验来进一步验证.",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a2c42b20a014535371eb146b97cb1f6b3c65930211529230caf89acf992cf49.jpg",
+        "img_caption": [
+            "Fig.4UBXD8 KO lead to the accumulation of neutral lipid but did not significantly affectedlipid droplet proteins expression pattern "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a)C2C12cell(UBXDKdoovessaipioddopesdtsted with the fatty acids (Con; $5 0 0 ~ \\mu \\mathrm { m o / L }$ PA; $2 0 0 ~ \\mu \\mathrm { m o / L }$ OA; $5 0 0 ~ \\mathrm { \\mu m o / L }$ PA plus $2 0 0 ~ \\mathrm { \\mu m o / L }$ OA) for $1 2 \\mathrm { h }$ .Bar, $5 \\mu \\mathrm { m }$ (b) Isolated LDs from C2C12 cells (WT,UBXD8 KO $^ { 4 }$ )after treatedwith OA ${ ( 2 0 0 ~ \\mu \\mathrm { m o / L } ) }$ for $^ { 1 2 \\mathrm { ~ h ~ } }$ ，Then LD proteins were loaded and seprated by $10 \\%$ SDS-PAGE along with equal amounproteisfromposuclearsupeatants(),yosol(Cytoandtotalmber(.Sileraidgelwasuedtoomparetheoten profiles of different fractions.WT:Wild type; Con: Control. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5UBXD8参与骨骼肌细胞棕榈酸引起的胰岛素 抵抗和细胞凋亡的调控 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "之前的研究结果证实棕榈酸(palmiticacid,PA)可引起C2C12细胞产生胰岛素抵抗，而油酸可阻断PA引起的胰岛素抵抗[2．因此我们推测UBXD8敲除后可能会缓解PA引起的胰岛素抵抗．为了验证这一假设，我们用不同的脂肪酸处理细胞，然后检测相关蛋白的表达．免疫印迹结果表明UBXD8敲除后可缓解PA引起的胰岛素抵抗(图5a)．此外有研究显示UBXD8可能参与了T细胞和嗜酸性粒细胞的细胞凋亡过程[1．我们的实验结果表明，C2C12WT细胞在PA处理情况下发生了PARP的活化剪接，而在UBXD8敲除的情况下，PA不能引起PARP的活化剪接(图5a)，说明UBXD8敲除后可抵抗PA引起的细胞凋亡．与此同时，也检测了在UBXD8 敲除情况下，ADRP、TIP47、ATGL、CGI-58、ACSL1等蛋白的表达，实验结果表明，这些蛋白的表达均没有发生显著变化(附件图 S2).",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了更进一步证明UBXD8参与了PA引起的胰岛素抵抗和细胞凋亡的调控，我们在UBXD8KO细胞中重新过表达UBXD8突变体(UBXD8Mut)，该突变体的UBXD8基因序列在Cas9靶序列处进行了氨基酸密码子的同义突变，以抵抗UBXD8KO4细胞内Cas9蛋白的核酸酶活性．实验结果表明，在UBXD8KO细胞中重新过表达",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "UBXD8Mut后，PA又可以引起细胞的胰岛素抵抗和细胞调亡(PARP的剪接激活再次出现)(图5b).",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以上实验结果表明UBXD8参与了PA引起的胰岛素抵抗和细胞凋亡的调控.",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbd43ab9c3cf7db8d114a30580a0229536a7eac1e000e3ab9ed2d0e9f4aa61f9.jpg",
+        "img_caption": [
+            "Fig.5UBXD8 was involved in the regulations of PA-induced insulin resistance and apoptos "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) WT and UBXD8 KO $^ { 4 }$ cells were incubated with the fatty acids (Con; $5 0 0 ~ \\mu \\mathrm { m o l / L }$ PA; $2 0 0 \\mu \\mathrm { m o l / L }$ OA; $5 0 0 \\ \\mathrm { \\mu m o l / L }$ PA plus $2 0 0 \\ \\mu \\mathrm { m o l / L }$ OA） for $1 2 \\mathrm { ~ h ~ }$ before insulin stimulation ${ 2 0 0 } \\ \\mathrm { n m o l / L }$ for $1 0 ~ \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathrm { C }$ ). After incubation,the cells were lysed in $2 \\mathrm { { x S D S } }$ sample buer and proteins were examined by immunoblot analysis. (b) Transient overexpression of UBXD8 Mut in UBXD8 KO $^ { 4 }$ cells can result in insulin resistance and apoptosis all induced by PA again.WT:Wild type; Con: Control. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "骨骼肌是人体重要的运动和代谢器官，骨骼肌脂质代谢紊乱会引起胰岛素抵抗，进而发展成为糖尿病[27-28]．骨骼肌细胞中的脂质主要以中性脂的形式储存在脂滴中[22]，脂滴上的蛋白质和相关蛋白质调控着脂滴及脂质代谢的稳态．深入研究骨骼肌细胞的脂滴稳态，有助于阐明骨骼肌胰岛素抵抗的发生机制，为治疗糖尿病提供坚实的理论依据.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "UBXD8是一个脂滴蛋白[5，属于含UBX结构域蛋白家族的一员．但UBXD8在骨骼肌脂质代谢中的作用还未阐明，因此本研究采用新近发展起来的CRISPR/Cas9技术[19，成功地敲除了骨骼成肌细胞C2C12中的UBXD8，并获得了2株UBXD8敲除的细胞系，分别是UBXD8KO4和UBXD8KO26，考虑到UBXD8KO4细胞的形态和生长状态比UBXD8KO26要好，因此选用UBXD8KO 4细胞系做进一步的功能分析.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究表明，UBXD8抑制TAG的合成和水解4，敲低UBXD8造成的TAG合成的增加可能大于TAG的水解，最终表现为细胞中脂滴数目的增加和脂滴的变大．因此在我们的研究中，敲除C2C12细胞中UBXD8后，C2C12细胞中的脂滴大小和数目明显增多．但是，细胞经PA、OA和$\\mathrm { \\ P A + O A }$ 处理后，UBXD8敲除细胞与对照组细胞相比，脂滴的变化不明显．可能是大量脂肪酸对细胞脂质合成促进作用远大于UBXD8敲除后对脂质合成的促进作用，因此观察不到明显变化.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "脂滴上分布着大量的蛋白质，这些蛋白质参与了脂滴稳态的调控[29．脂滴蛋白银染结果表明，敲除UBXD8并未引起脂滴上蛋白质的变化．可能的原因及进一步探索的方法包括：蛋白质银染的分辨率有限，不能观察到蛋白质表达的微小变化，进一步的分析应采用 shot-gun质谱分析法；或者UBXD8对互作蛋白的影响发生在翻译后水平上，如磷酸化作用，因此需要采用生化分子手段来发现这些作用.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对野生型细胞和UBXD8敲除细胞分别进行对照、PA、OA和 $\\mathrm { P A + O A }$ 处理．敲除C2C12细胞中的UBXD8后，解除了UBXD8对TAG合成的抑制作用，因此PA处理细胞导致合成增加的DAG被进一步转化为TAG，消除了DAG引起的胰岛素抵抗．PA转化合成TAG也消除了PA诱导PARP介导的细胞凋亡作用.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "附件图 S1、S2 见本文网络版附录(http://www.pibb.ac.cn)",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Imai Y,Nakada A,Hashida R,et al. Cloning and characterization ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "dermatitis patients.Biochem Biophys Res Commun,2002,297(5): 1282-1290   \n[2]Alexandru G,Graumann J, Smith G T,et al. UBXD7 binds multiple ubiquitin ligases and implicates p97 in HIFlalpha turnover. Cell,2008,134(5): 804-816   \n[3] Kim H, Zhang H,Meng D,et al. UAS domain of Ubxd8 and FAF1 polymerizes upon interaction with long-chain unsaturated fatty acids. JLipid Res,2013,54(8): 2144-2152   \n[4]Olzmann JA,Richter C M,Kopito R R.Spatial regulation of UBXD8 and p97/VCP controls ATGL-mediated lipid droplet turnover.Proc Natl Acad Sci USA,2013,110(4):1345-1350   \n[5] Zehmer JK,Bartz R, Bisel B,et dl. Targeting sequences of UBXD8 and AAM-B reveal that the ER has a direct role in the emergence and regression of lipid droplets.J Cell Sci,2009,122 (Pt 20): 3694-3702   \n[6] Zehmer JK,Bartz R,Liu,et al.Identification of a novel N-terminal hydrophobic sequence that targets proteins to lipid droplets.J Cell Sci,2008,121(Pt 11): 1852-1860   \n[7]Lee JN,Kim H, Yao H,et al.Identification of Ubxd8 protein as a sensor for unsaturated fatty acids and regulator of triglyceride synthesis. Proc Natl Acad Sci USA,2010,107(50): 21424-21429   \n[8]Ye J. Cellular responses to unsaturated fatty acids mediated by their sensor Ubxd8.Frontiers in Biology,2012,7(5): 397-403   \n[9] Mueller B,Klemm E J, Spooner E,et al. SEL1L nucleates a protein complex required for dislocation of misfolded glycoproteins.Proc Natl Acad Sci USA,2008,105(34): 12325-12330   \n[10] Phan VT,Ding VW,Li F,et al. The RasGAP proteins Ira2 and neurofibromin are negatively regulated by Gpbl in yeast and ETEA in humans.Mol Cell Biol,2010,30(9): 2264-2279   \n[11] Zhou HL,Geng C,Luo G,et al. The p97-UBXD8 complex destabilizes mRNA by promoting release of ubiquitinated HuR from mRNGenes Dev,2013,27(9): 1046-1058   \n[12] Suzuki M,Otsuka T,Ohsaki Y,et al.Derlin-l and UBXD8 are engaged in dislocation and degradation of lipidated ApoB-100 at lipid droplets.Mol Biol Cell,2012,23(5): 800-810   \n[13] Bhaya D,Davison M,Barrangou R.CRISPR-Cas systems in bacteria and archaea: versatile small RNAs for adaptive defense and regulation. Annu Rev Genet,2011,45: 273-297   \n[14] Terns M,Terns R M. CRISPR-based adaptive immune systems. Curr Opin Microbiol,2011,14(3): 321-327   \n[15] Wiedenheft B, Sternberg S H, Doudna JA. RNA-guided genetic silencing systems in bacteria and archaea.Nature,2012,482(7385): 331-338   \n[16] Mussolino C,Cathomen T.RNA guides genome engineering. Nat Biotechnol,2013,31(3): 208-209   \n[17] Cong L,Ran F A, Cox D,et al. Multiplex genome engineering using CRISPR/Cas systems. Science,2013,339(6121): 819-823   \n[18] Mali P, Yang L,Esvelt K M,et al. RNA-guided human genome engineering via Cas9. Science,2013,339(6121): 823-826   \n[19] Doudna JA,Charpentier E.Genome editing. The new frontier of genome engineering with CRISPR-Cas9.Science,2014,346(6213): 1258096   \n[20] Thiebaud D,Jacot E,DeFronzo R A,et al.The effect of graded doses of insulin on total glucose uptake,glucose oxidation，and glucose storage in man.Diabetes,1982,31(11): 957-963   \n[21] DeFronzo RA,Ferrannini E, Sato Y,et al. Synergistic interaction between exercise and insulin on peripheral glucose uptake.J Clin Invest,1981,68(6): 1468-1474   \n[22] Watt MJ, Hoy A J.Lipid metabolism in skeletal muscle: generation ofadaptive and maladaptive intracellular signals for cellular function．Am J Physiol Endocrinol Metab,2012,302 (11): E1315-1328   \n[23] Schrauwen-Hinderling VB,Hesselink M K,Schrauwen,et al. Intramyocellular lipid content in human skeletal muscle. Obesity (Silver Spring),2006,14(3): 357-367   \n[24] Meex R C, Schrauwen,Hesselink MK.Modulation of myocellular fat stores:lipid droplet dynamics in health and disease.Am J Physiol Regul Integr Comp Physiol,2009,297(4): R913-24   \n[25] Ding Y,Zhang S,Yang L,et al. Isolating lipid droplets from multiple species. Nat Protoc,2013,8(1):43-51   \n[26] Peng G,Li L,Liu Y,et al. Oleate blocks palmitate-induced abnormal lipid distribution,endoplasmic reticulum expansion and stress,and insulin resistance in skeletal muscle. Endocrinology, 2011,152(6): 2206-2218   \n[27] Jacob S,Machann J,Rett K,et al．Association of increased intramyocellular lipid content with insulin resistance in lean nondiabetic offspring of type 2 diabetic subjects.Diabetes,1999, 48(5): 1113-1119   \n[28] Perseghin G，Scifo，De CobelliF，et al.Intramyocellular triglyceride content is a determinant of in vivo insulin resistance in humans:a 1H-13C nuclear magnetic resonance spectroscopy assessment in offspring of type 2 diabetic parents.Diabetes,1999, 48(8): 1600-1606   \n[29]FareseR V Jr,Walther TC.Lipid droplets finally geta little R-E-S-P-E-C-T. Cell,2009,139(5): 855-860 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Effect of UBXD8 Deletion on Lipid Metabolism in Skeletal Muscle Cells ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ZOU FeiD\\*, DIAO Zhi-Qing $^ { 2 ) ^ { * } }$ , ZHANG Hong-Chao, XU Shi-Meng) LIU Ping-Sheng, LIANG Bin $^ { 4 ) ^ { * } }$ \\*，WEI Xuan5)\\*\\*   \n（ $^ { ( 1 ) }$ GraduateSchlfdiclUsityefena;eolofifiencsfiUesityHefe; 3)NationalLaboratoryofiomacromolecules,Istituteofophysics,ChineseAcademyofSciences,BeijingOo,Cha; （2 $^ { 4 ) }$ Key LaboratoryofAnimal Models and Human Disease Mechanisms of the Chinese Academy of Sciences & Yunnan Province,   \nKumingIsttefdefieei;nalHspalfre ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AbstractUBXD8 is a membrane protein that mediates endoplasmic reticulum-associated protein ubiquitination and degradation by interacting with p97/VCP.Recently,lipid droplet proteomic studies show the lipid droplet localization of UBXD8.Besides,UBXD8 is also involved in triglyceride metabolism.However,the molecular mechanism by which UBXD8 regulates triglyceride metabolism is stillobscure. Here we knocked out UBXD8 in mouse C2C12 myoblasts by CRISPR/Cas9.We selected 2 UBXD8 knockout (KO) clone cell lines from 26 possible KO clones. UBXD8 KO did not change the lipid droplet proteins expression pattern. However, UBXD8 KO led to the accumulation of neutral lipid. Furthermore，our data show that UBXD8 KO could alleviate palmitate-induced insulin resistance and rescue palmitate-induced apoptosis which was characterized by PARP splicing.In addition,the phenotype of palmitate-induced insulin resistance and apoptosis was reappeared after overexpresing UBXD8 in UBXD8 KO cells. These data suggested that UBXD8 plays an important role in lipid metabolism and its abnormity related insulin signal and apoptosis. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key wordsUBXD8, lipid droplet, CRISPR/Cas9, lipid metabolism DOI: 10.16476/j.pibb.2015.0147 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "附录",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a)   \nUBXD8 mOUSe gene TTCAATCCACCGCCAGCTCGGCCCCTACAGGTTAATACAGCTGACCA UBXD8-Cas9-Primer R GCTCGGCCCCTACAGGTTAA 1,-8TTCAATCCACCGCCC-CTCGG GGTTAATACGTTTGACCA 2,-2TTCAATCCACCGCCAGCGC--CCCCTCCTAGTTGTTACTACTGATCA 3,-3 TTCAATCCACCGCCG---CGGCCCCTACAGGTTAATACAGCTGACCA 4,-2 TTCAATCCACCGCCAGGGC--CCCCCACGTGTTTATACCTGAGACCA 5,-6 TTCAATCCACCGCCAGCTT TACAGGTTAATACAGCTGACCA 6,-81 7,-1 TTCAATCCACCGCCAGCTCTACCC-TATAGTACAATTGACCTGACGA 8,-5TTCAATCCACCGCCAGCT-GGCC -AGGTTAATACAATTGACCT 9，-19 TTCCCCCCACCGCCA ATTCCTCTGACCA 10,-2 TTCAATCCACCGCCAGCT--GCCCCTACAGGTTAATACAGCTGACCA 11,-3 TTCAATCCACCGCCAGCTC CCCCACCTTTATATACATGACACCA 12，-1 TTCAATCCACCGCCACCG-GCCCCCTACGGGAATACACCTCACACCA 13,-9 TTCAATCCACCGCC CCTTCCGGTCCCTACAGGTGACCA   \n(b)   \nUBXD8 mOUSe gene TTCAATCCACCGCCAGCTCGGCCCCTACAGGTTAATACAGCTGACCA UBXD8-Cas9-PrimerR GCTCGGCCCCTACAGGTTAA 14，-4 TTCAATCCACCGCCACCT-GCCCCC--CAGGTGATAACA-CTGAACA 15，-9TTCAATCCACCGCCC-CTCCGCCTTTATACGTT TGACCA 16，-6TTCAATCCACCGCCAGCTC TACAGGTTAATACAGCTGACCA 17，-1TTCAATCCACCGCCAGCT-GGCCCCTACAGGTGAATCCACCTGACCT 18,-16 TTC GGCCCCTACAGGTTAATACAGCTGACCA 19,-11 TTCAATCC GGCCCCTACTGGTTCCTACAGGTGACCA 20,+1 TTCAATCCACCGCATCCTCCGGCCCCTACTTGTTAATGCAGCTGACC $2 l , + 1$ （ TTCAATCCACCGCCAGCTGGGGCCCCTACAGGTTAATACAGCTGACC 22,-2 TTCAATCCACCGCCAGCT- GCCCCTACAGGTTAATACAGCTGACCA 23，-1TTCAATCCACCGCCAGCT-GTACCCTACAGTACAATTGACCTGACCA 24,+1 TTCAATCCACCGCCAGCTGCCCCCCCTACGTGTTAACACCTGAGACC 25,-20 TTCCCTCCAC GTTAATGCCCCTGACCG 26,-5 TTCAATCCACCGCCGGCTT CTACCCGTTAATGTTAATGACCC ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) Detailed sequencing results of UBXD8 KO monoclones $I \\sim I 3$ ：(b)Detailed sequencing results of UBXD8 KO monoclones $I 4 \\sim 2 6$ (-）or $( + )$ represent the amount of deleted or inserted base pairs. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/664b0b7c9827332c3f5ed6cfa3fafddc59fbd5c4659d95d0aac0d24f20cd3e39.jpg",
+        "img_caption": [
+            "Fig.S1Sequencing results of UBXD8 KO monoclones ",
+            "Fig.S1The comparison of lipid droplet-associated proteins "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WTand Clone 4cells were treated with the fatty acids(Con; $5 0 0 \\mu \\mathrm { m o l / L }$ PA; $2 0 0 ~ \\mu \\mathrm { m o l / L }$ OA; $5 0 0 ~ \\mathrm { \\mu m o l / L }$ PA plus $2 0 0 ~ \\mu \\mathrm { m o l / L }$ OA) for $^ { 1 2 \\mathrm { ~ h ~ } }$ before insulin stimulation $( 2 0 0 \\ \\mathrm { n m o l / L }$ for $1 0 ~ \\mathrm { { m i n } }$ at $3 7 ^ { \\circ } \\mathrm { C }$ ).After incubation,the cells were lysed in $2 \\mathrm { { x S D S } }$ sample buffer and proteins were examined by immunoblot analysis.WT:Wild type; Con: Control. ",
+        "page_idx": 9
+    }
+]

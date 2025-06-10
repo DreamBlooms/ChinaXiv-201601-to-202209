@@ -1,0 +1,92 @@
+# 柱状微结构浸没喷射沸腾强化换热实验研究
+
+张永海，魏进家\*，孔新（西安交通大学动力工程多相流国家重点实验室，西安710049）
+
+摘要：对电子芯片在FC-72工质中浸没喷射沸腾换热进行了实验研究。通过干腐蚀技术在硅片表面加工出 ${ 5 0 \mu \mathrm { m } }$ $\times 6 0 ~ \mu \mathrm { m }$ ， $5 0 ~ { \mu \mathrm { m } } \times 1 2 0 ~ { \mu \mathrm { m } }$ （宽 $\mathrm { . }$ 高)的柱状微结构,硅片尺寸为 $1 0 \mathrm { m m } { \times } 1 0 \mathrm { m m } { \times } 0 . 5 \mathrm { m m }$ ，过冷度分别为25、35K，喷射速度 $V _ { \mathrm { j } }$ 分别为0.5、1.0、 $1 . 5 \mathrm { m / s }$ 。实验表明，临界热流密度随着喷射速度和过冷度的增加而增加，增加过冷度和喷射速度可减小气泡脱离时的尺寸，增加气泡脱离频率，因此提高了临界热流密度并且降低了壁面温度。此外，在单相对流换热区对流换热占据主导地位，热流密度随着壁面过热度线性增加；在核态沸腾换热区，对流换热与核态沸腾换热同时影响着换热过程。当喷射速度较小时，核态沸腾区曲线的斜率比单相对流区曲线的斜率大的多，显示出浸没喷射沸腾的优良换热性能。
+
+关键词：射流冲击；沸腾；强化换热；柱状微结构中图分类号：TK124 文献标识码：A
+
+# Enhanced Boiling Heat Transfer of FC-72 over Micro-Pin-Finned Surfaces with Submerged Jet lmpingement
+
+ZHANG Yong-hai, WEI Jin-jia\*, KONG Xin (State Key LaboratoryofMultiphaseFlow in Power Engineering, Xi'an Jiaotong University,Xi'an 710o49,China)
+
+Abstract: The experiment was made of boiling heat transfer ofFC-72 on micro-pin-finned chips with submerged jet impingement.The experimental conditions cover two different liquid subcoolings (25,35K),three different jet velocities $( V _ { \mathrm { j } } = 0 . 5 , 1 . 0 , 1 . 5 \ : \mathrm { m / s ) }$ in the direction perpendicular to chip surface. The dimension of the silicon chips is $1 0 \mathrm { m m } \times 1 0 \mathrm { m m } \times 0 . 5 \mathrm { m m }$ (length $\times$ width $\times$ thickness) on which micro-pin-fins with the two dimensions of 50 $\times 5 0 \times 6 0 ~ \mathrm { { \textmu m } } ^ { 3 }$ (width $\times$ thickness $\times$ height, named PF50-60) and $5 0 \times 5 0 \times 1 2 0 ~ \mu \mathrm { m } ^ { 3 }$ (named PF50-120) were fabricated using the dry etching technique.For micro-pin-fins,the critical heat flux $q _ { \mathrm { C H F } }$ increases with jet velocity and liquid subcooling. Increasing liquid subcooling and jet velocity can decrease the size of bubbles’separation, increase the detachment frequency and thus decrease the wallsuperheat and increase the critical heat flux.The heat transfer process is dominated by the forced convection in single-phase heat transfer region,and the heat flux increases linearly with increasing wall superheat.In the nucleate boiling region,the heat transfer is afected by both theforced convection and nucleate boiling heat transfer.The slope of nucleate boiling curve is larger than that in single-phase region when the jet velocity is small, indicating beter heat transfer performance of boiling.
+
+Key words: jet impingement; pool boiling; heat transfer enhancement; micro-pin-fins;
+
+# 0引言
+
+高频化和集成化是微电子技术发展有两大趋势，由此带来的电子器件高散热率问题越来越受到重视。传统的风冷散热已经不能满足高散热率的要求，沸腾换热和表面微结构等都是有效的强化换热方式。同时，射流冲击因其能够高速冲击换热表面，在其表面形成很薄的速度和温度边界层，减小传热热阻，也是一种提供高传热率的有效手段。
+
+近年来国内外学者对不同表面微结构表面池沸腾和流动沸腾的换热性能做了许多相关研究[-3],而魏进家等[4]对柱状微结构表面的池沸腾强化换热进行了研究，表明柱状微结构在电子器件的散热中具有很大的应用潜力。此外，国内外学者对射流冲击换热同样进行了许多相关研究，在实验和数值模拟方面都取得了巨大的进展[5-7]。袁敏哲等[8]研究发现，高热流密度时，柱状微结构芯片表面被气膜覆盖，传热热阻增大，换热恶化，而射流冲击具有较强的冲击力度，期望能有效地击碎气泡或气膜来延缓临界状态的发生。
+
+本文将研究柱状微结构在浸没喷射条件下的沸腾换热特性，包括过冷度，喷射速度及不同微结构对其换热性能的影响，同时与流动沸腾、流动-喷射复合式沸腾换热进行了对比，为进一步改进芯片换热性能提供更加系统的依据。
+
+# 1实验系统
+
+如图1所示，储液罐用于盛放制冷剂FC-72，并且用来稳定系统的压力，制冷剂由储液罐经换热器加热到预定温度后，一路经支路流量计后进入横流段，另一路进入喷射段，两股流体与芯片表面换热后汇合流回储液罐，完成一个循环。实验系统通过阀门的调节可以进行流动沸腾、流动-喷射复合式沸腾及浸没喷射沸腾换热的研究。测试段结构的具体细节与文献[8]中的测试段结构一致。
+
+![](images/4292873618016dca092dc25c889db23ae6a5a3a718192eaed8dfc51f0bcd9797.jpg)  
+$\textcircled{1}$ 泵 $\textcircled{2}$ 换热器 $\textcircled{3}$ 流量计 $\textcircled{4}$ 测试段 $\textcircled{5}$ 电源 $\textcircled{6}$ 喷嘴 $\textcircled{7}$ 储液罐 $\textcircled{8}$ 冷凝器 $\textcircled{9}$ 制冷机  
+图1系统装置示意图
+
+$\textcircled{1}$ Pump $\textcircled{2}$ Heat exchanger $\textcircled{3}$ Flowmeter $\textcircled{4}$ Test section $\textcircled{5}$ Direct current $\textcircled{6}$ Jet $\textcircled{7}$ Tank $\textcircled{8}$ Condenser $\textcircled{9}$ Cooling unit Fig.1 Boiling heat transfer test loop
+
+芯片的长 $\times$ 宽 $\times$ 厚为 $1 0 \mathrm { m m } \times 1 0 \mathrm { m m } \times 0 . 5 \mathrm { m m }$ 采用干式腐蚀技术在硅片表面上加工出长度和宽度为 ${ 5 0 } \mu \mathrm { m }$ ，高度分别为60、 $1 2 0 \mu \mathrm { m }$ 的柱状微结构，即芯片PF50-60、PF50-120。喷嘴直径 $3 \mathrm { m m }$ ，喷射距离 $5 \mathrm { m m }$ ，研究了在常压下过冷度为25、35K，喷射速度 $V _ { \mathrm { j } }$ 为0.5、1.0、 $1 . 5 \mathrm { m / s }$ 的浸没喷射沸腾强化换热性能。
+
+# 2结果分析及讨论
+
+# 2.1喷射速度及过冷度对换热的影响
+
+图2显示了过冷度为25K及35K时，柱状微结构芯片PF50-120在不同喷射速度条件下的沸腾曲线。在低热流密度区域，换热以单相对流换热为主，在过冷度 $\varDelta T _ { \mathrm { s u b } }$ 以及其它工况一定时，热流密度 $q$ 随着壁面过热度 $\varDelta T _ { \mathrm { s a t } }$ 的增加而增大。沸腾曲线的斜率随着喷射速度的增加而增加，表明换热效率随喷射速度的增加而提高。当进入中高热流密度区域时，随着喷射速度的增加，对流换热和核态沸腾换热共同存在并且互相影响，沸腾换热性能受喷射速度的影响很大，在一定的壁面过热度条件下，热流密度$q$ 随着喷射速度的增加而增加，但是沸腾曲线的斜率却随之减小。此现象表明当喷射速度很大时，除了核态沸腾换热，强制对流换热在喷射沸腾换热中占据越来越大的比重。如图2所示，当 $V _ { \mathrm { j } } = 1 . 5 \mathrm { m / s }$ 时，核态沸腾换热阶段沸腾曲线的斜率几乎和对流换热阶段曲线的斜率相同，表明此时强制对流换热在整个沸腾换热过程中都起着主导作用。
+
+![](images/f266e1502dbd54a5f83b8607f2762377b726e014a51636545621c2cf01ba4652.jpg)  
+图2不同喷射速度及过冷度条件下换热性能曲线Fig.2Effect of jet velocities and liquid subcooling
+
+随着过冷度的增加，沸腾起始温度和壁面过热度都随之降低。在强制对流换热区，相同喷射速度不同过冷度条件下的沸腾换热曲线斜率基本一致，在核态沸腾换热区，沸腾换热曲线的斜率要比强制对流换热区的大，特别是当喷射速度较小时（ $\mathrm { \Delta } \cdot \mathrm { \Delta } V _ { \mathrm { j } } =$ $0 . 5 { \mathrm { m } } / { \mathrm { s } } )$ ，表明此时换热由核态沸腾换热主导。当过冷度较大时，气泡脱离半径变小，脱离频率变高，小气泡使得聚合和合并变得困难，因此新鲜的过冷液体仍然可以进入换热表面从而进行对流换热。此外，随着喷射速度的增加，过冷度的影响程度也随之增加，因为较大的喷射速度可以使热边界层变得更薄。因此，大喷射速度和高过冷度条件下的喷射沸腾换热可以得到较高的临界热流密度。
+
+# 2.2不同表面微结构对换热的影响
+
+![](images/a030848f66109c69df081b44a608a71149b182befe6f19f49a1dae666b0674f1.jpg)  
+图3分别给出了柱状微结构PF50-60和PF50-120在35K过冷度时不同喷射速度下的沸腾换热曲线。
+
+从图中可以看出对 $V _ { \mathrm { j } } = 0 . 5 ~ \mathrm { m / s }$ ， $1 . 0 ~ \mathrm { m / s }$ 和1.5$\mathrm { m / s }$ 三种工况而言，同一工况下壁面过热度按照PF50-60、PF50-120的顺序减小，临界热流密度按照此顺序增加。PF50-60和PF50-120相对于光滑表面的面积强化比分别为2.2和3.4，由于PF50-120的表面积强化比大于PF50-60，因此在相同的工况条件下PF50-120的换热性能要优于PF50-60。此外，沸腾换热的强化还受柱状微结构之间的微对流影响，微结构间距和高度决定了毛细力的平衡和流动阻力的大小，因而柱状微结构的高和间距之比 hp和喷射速度是影响微对流的主要因素。当hp很小或者喷射速度很大的时候，在柱状微结构底部和侧面的汽化核心很容易受到影响，这样就阻止了核态沸腾的发生，增加了强化对流换热的比重。因此柱状微结构之间的微对流换热也是强化换热的一个重要原因。PF50-60 和PF50-120 柱状微结构的高和间距之比h/p分别是0.6和1.2，因此PF50-60 更容易受到射流的影响，对流换热的比重增加，导致其沸腾曲线的斜率要小于PF50-120。另外，喷射速度增加时，射流冲击驻点区位于芯片尺寸之内，高速冲击使得柱状微结构间的微对流加剧，同时喷射进一步减小了边界层厚度，换热以强制对流换热为主，在低热流密度区，只产生少量的气泡，对流换热占据主导地位。然而在高热流密度区，射流冲击能够激活更多柱状侧面，增加换热面积，强化微对流流动，同时能及时击碎并带走芯片下游二次生成的气泡或聚集而成的气膜，因此当 $V _ { \mathrm { j } } = 1 . 5 ~ \mathrm { m / s }$ 时的临界热流密度 $q _ { \mathrm { C H F } }$ 要比其它两种工况的大，壁面过热度要比其它两种工况的小。
+
+# 2.3三种沸腾换热方式的换热性能比较
+
+图4显示了不同过冷度、不同流动速度条件下PF50-120流动、流动-喷射复合式和浸没喷射沸腾换热三种不同换热方式的实验结果。如图4（a）和（b）所示，在较低流动和喷射速度条件下，浸没喷射沸腾换热的 $q _ { \mathrm { C H F } }$ 要高于流动沸腾换热的 $q _ { \mathrm { C H F } }$ ，但是要低于流动-喷射复合式沸腾换热的 $q _ { \mathrm { C H F } }$ 。同时浸没喷射沸腾换热壁面过热度是三种换热方式中最低的，表明其换热性能最好。当 $V _ { \mathrm { j } } { = } V _ { \mathrm { c } } { = } 0 . 5$ 和 $1 . 0 \ \mathrm { m / s }$ 时对于三种不同的换热方式存在着许多共同的换热特性，在低热流密度区，换热由单相对流换热主导，热流密度随着壁面过热度的增加而线性增加，在核态沸腾区，沸腾曲线的斜率要大于单相对流区的斜率，主要原因是相变提高了换热效率。当$V _ { \mathrm { j } } { = } V _ { \mathrm { c } } { = } 1 . 5 \mathrm { m / s }$ 时，相比于 $0 . 5 \mathrm { m / s }$ 和 $1 . 0 \mathrm { m / s }$ 两种工况，无论是强制对流换热还是核态沸腾换热都强化了，并且强制对流换热逐渐在整个换热过程中占据主导地位。此时，浸没喷射沸腾换热的临界热流密度要低于其它两种换热方式，如图4（c）所示。
+
+![](images/6ebef5e4bee1a1e701e2d2cffc5a2d423c9e67c06d455c2c05de69f52125e115.jpg)  
+图3不同表面结构芯片换热性能曲线Fig.3Effect of micro-pin-fins  
+(b) $V _ { \mathrm { j } } { = } V _ { \mathrm { c } } { = } 1 . 0 \mathrm { m / s }$ （204号
+
+![](images/18a51ac87c95854eda024025247f3708423b839c25d7ce71db19dc25f4eb7c69.jpg)  
+图4不同表面结构芯片换热性能曲线  
+Fig.4 Comparison of different boiling heat transfermodes
+
+对于三种不同沸腾换热方式， $q _ { \mathrm { C H F } }$ 都随着 $V _ { \mathrm { j } }$ 或者 $V _ { \mathrm { c } }$ 和过冷度的增加而增加。在低热流密度区,随着 $V _ { \mathrm { j } }$ 或者 $V _ { \mathrm { c } }$ 的增加，边界层的厚度变薄从而减小了热阻并强化了强制对流换热。在高热流密度下，我们可以看到不同换热方式的沸腾曲线明显不同，当 $V _ { \mathrm { c } } { = } V _ { \mathrm { j } } { = } 0 . 5$ 和 $1 . 0 \mathrm { m / s }$ 时，随着喷射速度的增加延迟了沸腾起始时间，如图4(a)-(b)所示。当 $V _ { \mathrm { c } } { = } V _ { \mathrm { j } } { = } 1 . 5$ $\mathrm { m / s }$ 时，沸腾曲线的斜率要比其他两种工况的大并且与低热流密度区的曲线斜率几乎相同，表明强制对流换热在整个换热过程中占据主导地位，使芯片能能够在较高的热流密度下工作并且保持壁温较低。在高热流密度条件下，对于流动沸腾换热而言，大气泡覆盖在芯片上不能及时的被带走导致了换热恶化；对于浸没喷射沸腾而言，虽然射流冲击能够击碎大气泡，但是由于单个喷嘴不能覆盖所有换热区域而导致了芯片的局部恶化，同时射流冲击产生的二次气泡也会阻塞流道从而导致换热的恶化；对于流动-喷射复合式沸腾换热而言，其临界热流密度$q _ { \mathrm { C H F } }$ 比其他两种换热方式大的多，主要原因就是随着 $V _ { \mathrm { j } }$ 和 $V _ { \mathrm { c } }$ 的增加高速的射流冲击和横流可以击碎并及时带走大气泡从而避免二次成核，气泡从换热表面的脱离可以使新鲜的冷流体到达加热表面进行单相对流换热，因而可以获得更高的临界热流密度。
+
+# 3结论
+
+本文用硅片模拟实际芯片散热，进一步分析了在FC-72中，浸没喷射条件下芯片的沸腾换热特性，并且与流动沸腾及流动-喷射复合式沸腾换热进行了比较，得到以下结论：
+
+(1)对于柱状微结构的浸没喷射沸腾换热，临界热流密度 $q _ { \mathrm { C H F } }$ 随着喷射速度和过冷度的增加而增加。相比较于PF50-60而言，PF50-120的换热性能更好，因为PF50-120的实际换热面积更大。
+
+(2）在较低的流动和喷射速度（ $\mathrm { { \langle 0 . 5 m / s } }$ ， $1 . 0 \mathrm { m / s } )$ （4号条件下，临界热流密度 $q _ { \mathrm { C H F } }$ 按照流动沸腾换热、浸没喷射沸腾换热、流动喷射复合式沸腾换热的顺序儿依次增加，同时浸没喷射沸腾换热壁面过热度是三种换热方式中最低的，表明其换热性能很好。然而在高流动和喷射速度 $( 1 . 5 \mathrm { m / s } )$ 条件下，浸没喷射沸腾的 $q _ { \mathrm { C H F } }$ 最低，而流动喷射复合式沸腾换热的换热能力最强。
+
+# 参考文献
+
+[1] EL-GENK M S,ALI. AF. Subcooled Boiling of PF-5060 Dielectric Liquid on Microporous Surfaces [J]. Journal of Heat Transfer, 2011,133 (8):081503.   
+[2] Chang W R, Chen C A, Ke JH, Lin T F. Subcooled Flow Boiling Heat Transfer and Associated Bubble Characteristics ol FC-72 on A Heated Micro-Pin-Finned Silicon Chip [J] International Journal of Heat and Mass Transfer,2O10,53 5605-5621.   
+[3] Lu MC, CHENR,Vinod S.et al. Critical Heat Flux of Pool Boiling on Si Nanowire Array-Coated Surface [J]. International Journal ofHeat and Mass Transfer,2011, 54:5359-5367.   
+[4] WEI Jinjia, Honda. H. Effects of fin geometry on boiling heat transfer from silicon chips with micro-pin-fins immersed in FC-72 [J].International Journal of Heat and Mass Transfer, 2003,46: 4059-4070.   
+[5] AIDABBAGH L B Y, SWZAI I,MOHAMAD A A. Three-Dimensional Investigation of A Laminar Impinging Square Jet Interaction with Cross-Flow [J]. Journal of Heat Transfer, 2003,125(2): 243-249.   
+[6] VADER D T,CHRYSLER G M, CHU R C，et al. Experimental Investigation of Subcooled Liquid Nitrogen Impingement Cooling of a Silicon Chip [J]. IEEE Transactions on Components, Packaging, and Manufacturing Technology-Part A,1995,18(4): 788-794.   
+[7] LOU Z Q, MUJUMDAR A S, YAP C. Effects of Geometric Parameters on Confined Impinging Jet Heat Transfer [J]. Applied Thermal Engineering,2005,25: 2687-2697.   
+[8] YUAN Minzhe,WEI Jinjia,XUE Yanfang,FANG Jiabin. Subcooled flow boiling heat transfer of FC-72 from silicon chips fabricated with micro-pin-fins [J]. International Journal of Thermal Sciences,2009,48(7): 1416-1422.   
+通讯作者：魏进家   
+通讯地址：陕西省西安市咸宁西路28号西安交通大   
+学动力工程多相流国家重点实验室   
+手机号码：13072958698   
+电话：029-82664462   
+电子邮箱：jjwei@mail.xjtu.edu.cn

@@ -1,0 +1,151 @@
+# 饲粮代谢能及粗蛋白质水平对绍兴鸭产蛋性能、蛋品质及血浆生化指标的影响
+
+王爽」马维英²陈伟 $^ 1$ 阮　栋」郑春田」沈军达²徐翼虎³林映才1\*卢立志2\*
+
+(1．广东省农业科学院动物科学研究所，畜禽育种国家重点实验室，农业部华南动物营养与饲料重点实验室，广东省动物育种与营养公共实验室，广东省畜禽育种与营养研究重点实验室，广州510640；2.浙江省农科院畜牧兽医所，杭州310021；3．浙江武义田歌实业有限
+
+公司，武义 321200)
+
+摘要：本试验旨在研究饲粮代谢能（ME）及粗蛋白质（CP）水平对绍兴鸭产蛋性能、蛋品质及血浆生化指标的影响，探讨绍兴鸭饲粮中代谢能及粗蛋白质的适宜水平。采用 $3 { \times } 3$ 二因子完全随机分组设计，选择972只健康的38周龄绍兴鸭，随机分为9个处理，每个处理6个重复，每个重复18只鸭。饲粮代谢能和粗蛋白质各设3个水平，代谢能水平：11.30、10.88、 $1 0 . 4 6 ~ \mathrm { M J / k g }$ ；粗蛋白质水平： $1 8 \%$ 、 $1 7 \%$ 、 $1 6 \%$ 。试验期为12周。结果表明：1）饲粮代谢能水平对绍兴鸭产蛋率、平均蛋重、平均日采食量和料蛋比均无显著影响（ $( P { > } 0 . 0 5 )$ ，但饲粮代谢能水平显著影响了绍兴鸭日产蛋重( $( P { < } 0 . 0 5 )$ ；饲粮代谢能水平为 $1 1 . 3 0 \mathrm { M J / k g }$ 时，日产蛋重最高，料蛋比最低。饲粮粗蛋白质水平对产蛋率、平均蛋重、日产蛋重、平均日采食量、料蛋比均无显著影响（ $( P { > } 0 . 0 5 )$ ；饲粮粗蛋白质水平为 $1 8 \%$ 时，产蛋率及日产蛋重最高。2）蛋黄色泽随饲粮代谢能水平升高而显著升高（ $( P { < } 0 . 0 5 )$ ，但随饲粮粗蛋白质水平的升高而显著下降（ $_ { _ { P < 0 . 0 5 } }$ ，且饲粮代谢能与粗蛋白质水平对蛋黄色泽存在显著的交互作用（ $P { < } 0 . 0 5$ )。3）饲粮代谢能和粗蛋白质水平对血浆中总蛋白、白蛋白含量无显著影响（ $. P { > } 0 . 0 5 \$ )。饲粮代谢能水平增加显著提高了肝脏中甘油三酯的含量（ $. P { < } 0 . 0 5 \mathrm { ~ }$ )。随饲粮粗蛋白质水平升高，肝脏中脂肪含量有降低的趋势（ $\scriptstyle P = 0 . 0 8$ )。由此可见，在本试验中，饲粮代谢能水平为 $1 1 . 3 0 \mathrm { M J / k g }$ ，粗蛋白质水平为 $1 8 \%$ 时，绍兴鸭的生产性能达到最佳。
+
+关键词：绍兴鸭；代谢能；粗蛋白质；产蛋性能；蛋品质中图分类号：S834
+
+中国是世界上水禽遗传多样性最丰富的国家之一。近年来，我国水禽业迅速发展，成为世界水禽生产第一大国。绍兴鸭属于麻鸭中的小型品种，是我国优良的蛋用型麻鸭品种,在江南水乡广为饲养，具有体形小、成熟早、产蛋多、耗料省、抗病力强、适应性广等特点[1-2]，其生产性能已达到蛋用型鸭品种的国际先进水平。但目前，有关于绍兴鸭饲粮成分及关键营养素的适宜水平等方面研究较少。因此，开展绍兴鸭营养需要的研究对最大限度发挥其生产潜力有重要意义。在生产中，饲料原料中代谢能（ME）和粗蛋白质（CP）的高效利用是控制饲料成本的关键。饲粮代谢能和粗蛋白质水平是影响家禽生产力的主要营养因素[3-5],而目前对地方品种代谢能和粗蛋白质需要量的研究较少。在已有的鸭营养标准中，美国 NRC（1994）、日本农林水产省（1992）、法国AEC（1993）等制订的鸭营养需要标准均针对北京鸭，台湾畜牧学会（1993）制订的鸭营养需要标准主要针对大型番鸭和 Tsaiya 蛋鸭。因此，本试验旨在通过研究饲粮代谢能和粗蛋白质水平对绍兴鸭产蛋期产蛋性能、蛋品质及血浆生化指标的影响，从而确定绍兴鸭产蛋期适宜的饲粮代谢能和粗蛋白质水平，为配制优质高效蛋鸭饲粮提供数据支持。
+
+# 1材料与方法
+
+# 1.1 试验动物与试验设计
+
+将972只健康、采食正常、体况相近、遗传背景一致的38周龄绍兴鸭，随机分为9个处理，每个处理6个重复，每重复18只鸭，每笼2只鸭。采用 $3 { \times } 3$ 二因子完全随机分组试验设计。各组试验鸭分别饲喂相应的试验饲粮。试验期为12周。试验期间每天记录06：00、12：00和18：00的天气情况及鸭舍的温度、湿度。
+
+# 1.2 试验饲粮
+
+试验采用玉米-豆粕型基础饲粮。试验饲粮代谢能水平分别为1130、10.88、10.46 MJ/g粗蛋白质水平分别为 $1 8 \%$ 、 $1 7 \%$ 、 $1 6 \%$ 。饲粮赖氨酸和蛋氨酸水平随粗蛋白质水平作相应调整。试验饲粮组成及营养水平见表1
+
+表1试验饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of experimental diets (air-dry basis) %   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="9">组别 Groups</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td colspan="10">原料 Ingredients</td></tr><tr><td>玉米 Corn</td><td>55.83</td><td>58.05</td><td>52.55</td><td>59.17</td><td>59.57</td><td>54.08</td><td>62.47</td><td>61.11</td><td>56.00</td></tr><tr><td>豆粕 Soybean meal</td><td>31.00</td><td>30.40</td><td>28.76</td><td>28.03</td><td>27.27</td><td>25.62</td><td>25.14</td><td>24.11</td><td>22.65</td></tr><tr><td>小麦麸Wheat bran</td><td></td><td>0.24</td><td>7.38</td><td></td><td>1.84</td><td>8.98</td><td></td><td>3.42</td><td>10.00</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>1.37</td><td>1.36</td><td>1.31</td><td>1.38</td><td>1.36</td><td>1.31</td><td>1.39</td><td>1.36</td><td>1.32</td></tr><tr><td>石粉 Limestone</td><td>8.40</td><td>8.43</td><td>8.45</td><td>8.43</td><td>8.45</td><td>8.47</td><td>8.45</td><td>8.47</td><td>8.49</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.20</td><td>0.20</td><td>0.21</td><td>0.18</td><td>0.18</td><td>0.19</td><td>0.16</td><td>0.17</td><td>0.17</td></tr></table></body></html>
+
+<html><body><table><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl</td><td>0.00</td><td>0.02</td><td>0.04</td><td>0.02</td><td>0.03</td><td>0.05</td><td>0.04</td><td>0.06</td><td>0.07</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>预混料 Premix</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>豆油 Soybean oil</td><td>1.90</td><td></td><td></td><td>1.49</td><td></td><td></td><td>1.05</td><td></td><td></td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>11.30</td><td>10.88</td><td>10.46</td><td>11.30</td><td>10.88</td><td>10.46</td><td>11.30</td><td>10.88</td><td>10.46</td></tr><tr><td>粗蛋白质 CP</td><td>18.00</td><td>18.00</td><td>18.00</td><td>17.00</td><td>17.00</td><td>17.00</td><td>16.00</td><td>16.00</td><td>16.00</td></tr><tr><td>钙Ca</td><td>3.60</td><td>3.60</td><td>3.60</td><td>3.60</td><td>3.60</td><td>3.60</td><td>3.60</td><td>3.60</td><td>3.60</td></tr><tr><td>非植酸磷 AP</td><td>0.35</td><td>0.35</td><td>0.35</td><td>0.35</td><td>0.35</td><td>0.35</td><td>0.35</td><td>0.35</td><td>0.35</td></tr><tr><td>总磷TP</td><td>0.57</td><td>0.57</td><td>0.61</td><td>0.56</td><td>0.57</td><td>0.60</td><td>0.55</td><td>0.57</td><td>0.60</td></tr><tr><td>蛋氨酸Met</td><td>0.46</td><td>0.46</td><td>0.46</td><td>0.43</td><td>0.43</td><td>0.43</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>赖氨酸 Lys</td><td>0.95</td><td>0.95</td><td>0.95</td><td>0.89</td><td>0.89</td><td>0.89</td><td>0.84</td><td>0.84</td><td>0.84</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.74</td><td>0.74</td><td>0.74</td><td>0.70</td><td>0.70</td><td>0.70</td><td>0.65</td><td>0.65</td><td>0.66</td></tr></table></body></html>
+
+预混料可为每千克饲粮提供 The premix provides the following per $\mathbf { k g }$ of diet:VA 12 000 IU，VD 2 000 IU,VE 26 mg，VK1.0 mg, $\mathrm { V B } _ { 1 } 3 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 9 . 6 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 6 . 0 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 3 ~ \mathrm { m g }$ ，胆碱choline $5 0 0 \mathrm { m g }$ ， $D .$ 泛酸钙 $D$ -calcium pantothenate $2 8 . 5 \mathrm { m g }$ ，叶酸 folic acid $0 . 6 \mathrm { m g }$ ，烟酸 nicotinic acid $5 0 \mathrm { m g }$ ，生物素 biotin 0.15mg，Fe $5 0 \mathrm { m g }$ ， $\mathrm { C u } 1 0 \mathrm { m g }$ ， $ { \mathrm { M n } } 9 0  { \mathrm { m g } }$ ， $\mathrm { Z n 9 0 ~ m g }$ ， $\mathrm { ~ I 0 . 5 0 ~ m g }$ ，Se $0 . 4 0 \mathrm { m g }$ 。
+
+# 1.3测定项目
+
+# 1.3.1产蛋性能测定
+
+试验期间，根据采食状况调整饲料喂量，保证试验鸭采食量一致。试验期间自由采食及饮水，每天08：00和15：00各饲喂1次。准确记录每组鸭每日采食量、总蛋重及产蛋量。计算平均产蛋率、平均蛋重、平均日采食量、料蛋比及日产蛋重。
+
+# 1.3.2蛋品质指标测定
+
+试验进行12周后，采集蛋样。每个重复采集4枚蛋，用于测定蛋形指数、蛋壳厚度、蛋壳强度、蛋白高度及蛋黄色泽。蛋形指数用数显游标卡尺（111-101）量出其纵径和横径，计算蛋形指数（蛋形指数 $\varXi$ 纵径/横径)；蛋壳强度、哈氏单位、蛋白高度和蛋黄色泽由ORKA全自动蛋品分析仪（EA-01，ORKAFood Technology）和强度仪（EFR-01）测定，测定在$4 8 \mathrm { { h } }$ 内完成。
+
+# 1.3.3血浆生化指标测定
+
+试验进行12周后，每个重复中随机抽取2只试鸭，翅静脉采血 $1 0 ~ \mathrm { m L }$ 于抗凝处理的采血管中， $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下 $3 0 0 0 \mathrm { r / m i n }$ 离心制备血浆，-20℃冷冻保存备用。测定血浆中总蛋白、白蛋
+
+白、尿素氮、甘油三酯含量。试剂盒由南京建成生物工程研究所提供。
+
+# 1.3.4肝脏指标测定
+
+试验鸭采血后放血致死。打开腹腔，取出肝脏右叶中部约 $\mathrm { ~ 1 ~ g ~ }$ ，立即放入液氮中速冻过夜，之后于-80℃保存，用索氏抽提法测定肝脏脂肪及甘油三酯含量，试剂盒由南京建成生物工程研究所提供。
+
+# 1.4统计分析
+
+试验数据采用SAS9.0软件的GLM程序进行双因素方差分析，统计模型中包括代谢能水平、粗蛋白质水平和代谢能 $\times$ 粗蛋白质的交互作用，方差分析有显著效应时再进行Student-Newman-Keuls多重比较分析。 $P { < } 0 . 0 5$ 为差异显著。
+
+# 2结果与分析
+
+2.1饲粮代谢能及粗蛋白质水平对绍兴鸭产蛋性能的影响
+
+由表2可知，饲粮代谢能及粗蛋白质水平对绍兴鸭产蛋率、平均蛋重、平均日采食量及料蛋比均无显著影响（ $. P { > } 0 . 0 5 )$ ，但饲粮代谢能水平对绍兴鸭日产蛋重影响显著（ $. P { < } 0 . 0 5 \$ ）随饲粮粗蛋白质水平升高，产蛋率、平均蛋重及日产蛋重有升高的趋势，但差异不显著（ $. P { > } 0 . 0 5 \$ )。当饲粮粗蛋白质水平为 $1 8 \%$ 时，产蛋率、日产蛋重达到最高；饲粮代谢能水平为 $1 1 . 3 0 \mathrm { M J / k g }$ 时，日产蛋重达到最高，料蛋比最低。
+
+表2饲粮代谢能及粗蛋白质水平对绍兴鸭产蛋性能的影响  
+Table 2 Effects of dietary ME and CP levels on laying performance of Shaoxing ducks   
+
+<html><body><table><tr><td colspan="2">饲粮处理 Dietary treatments</td><td rowspan="2">产蛋率</td><td rowspan="2">平均蛋重</td><td rowspan="2">平均日采食量 ADFI/(g/d)</td><td rowspan="2">料蛋比 Feed to egg</td><td rowspan="2">日产蛋重 Daily egg mass/(g/d)</td></tr><tr><td colspan="2"></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>白质 CP/%</td><td>Egg production/%</td><td>Average egg weight/g</td><td></td><td>ratio</td><td></td></tr><tr><td>11.30</td><td>18</td><td>81.63</td><td>71.49</td><td>167.31</td><td>2.91</td><td>58.30</td></tr><tr><td>10.88</td><td>18</td><td>73.05</td><td>70.43</td><td>167.63</td><td>3.39</td><td>51.25</td></tr><tr><td>10.46</td><td>18</td><td>79.06</td><td>70.29</td><td>167.63</td><td>3.08</td><td>55.44</td></tr><tr><td>11.30</td><td>17</td><td>79.59</td><td>70.16</td><td>167.50</td><td>3.08</td><td>55.77</td></tr><tr><td>10.88</td><td>17</td><td>75.26</td><td>70.40</td><td>167.58</td><td>3.25</td><td>52.92</td></tr><tr><td>10.46</td><td>17</td><td>77.18</td><td>69.72</td><td>167.37</td><td>3.18</td><td>53.80</td></tr><tr><td>11.30</td><td>16</td><td>74.29</td><td>70.30</td><td>167.61</td><td>3.25</td><td>54.30</td></tr></table></body></html>
+
+表3饲粮代谢能及粗蛋白质水平对绍兴鸭蛋品质的影响  
+
+<html><body><table><tr><td>10.88</td><td>16</td><td>74.45</td><td>68.75</td><td>167.58</td><td>3.42</td><td>54.30</td></tr><tr><td>10.46</td><td>16</td><td>76.18</td><td>69.50</td><td>167.58</td><td>3.33</td><td>54.40</td></tr><tr><td>主效应Main effect</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质</td><td>18</td><td>77.91</td><td>70.74</td><td>167.52</td><td>3.13</td><td>55.00</td></tr><tr><td>CP/%</td><td>17</td><td>77.35</td><td>70.09</td><td>167.48</td><td>3.17</td><td>54.16</td></tr><tr><td></td><td>16</td><td>75.18</td><td>69.56</td><td>167.60</td><td>3.32</td><td>54.31</td></tr><tr><td>代谢能</td><td>11.30</td><td>78.51</td><td>70.65</td><td>167.47</td><td>3.08</td><td>56.12a</td></tr><tr><td>ME/(MJ/kg)</td><td>10.88</td><td>74.67</td><td>70.03</td><td>167.59</td><td>3.33</td><td>52.80b</td></tr><tr><td>变异来源 Source of</td><td>10.46</td><td>77.25</td><td>69.71</td><td>167.54</td><td>3.21</td><td>54.55ab</td></tr><tr><td rowspan="7">variation M 11490 P值 10'1 P-value</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>代谢能</td><td>0.24</td><td>0.28</td><td>0.65</td><td>0.10</td><td><0.01</td></tr><tr><td>ME</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CP</td><td>0.47</td><td>0.15</td><td>0.65</td><td>0.22</td><td>0.71</td></tr><tr><td>代谢能×</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质</td><td>0.44</td><td>0.90</td><td>0.54</td><td>0.64</td><td>0.14</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SEM</td><td>MExCP</td><td>2.74</td><td>0.72</td><td>0.15</td><td>0.14</td><td>1.33</td></tr></table></body></html>
+
+同列数据肩标相同字母或无字母为差异不显著（ $. P { > } 0 . 0 5 )$ ，相邻字母为差异显著（ $. P { < } 0 . 0 5 )$ 。下表同。
+
+In the same column, values with the same letter or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ , while with adjacent letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ： The same as below.
+
+2.2饲粮代谢能及粗蛋白质水平对绍兴鸭蛋品质的影响
+
+由表3可知，饲粮代谢能及粗蛋白质水平均显著影响蛋黄色泽（ $P { < } 0 . 0 5 \$ )。蛋黄色泽随饲粮代谢能水平升高而显著升高（ $P { < } 0 . 0 5 \rangle$ ，但随饲粮粗蛋白质水平的升高而显著下降（ $P { < } 0 . 0 5 \mathrm { ) }$ ，且饲粮代谢能与粗蛋白质水平对蛋黄色泽存在显著的交互作用（ $_ { \cdot \cdot P < 0 . 0 5 }$ )。饲粮代谢能水平对蛋形指数有显著影响（ $P { < } 0 . 0 5 \$ ， $1 1 . 3 0 \mathrm { \ M J / k g }$ 组显著高于 $1 0 . 8 8 ~ \mathrm { M J / k g }$ 组（ $P { < } 0 . 0 5 )$ 。饲粮代谢能及粗蛋白质水平对蛋壳厚度、蛋壳强度及蛋白高度等蛋品质指标无显著影响 ( $( P { > } 0 . 0 5 )$ 。
+
+Table 3Effects of dietary ME and CP levels on egg quality of Shaoxing ducks   
+
+<html><body><table><tr><td colspan="2">饲粮处理 Dietary treatments</td><td rowspan="2"></td><td rowspan="2">蛋壳厚度 Eggshell thickness/mm</td><td rowspan="2">蛋壳强度 Eggshell</td><td colspan="2">蛋黄 色泽</td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>粗蛋 蛋形指数 Eggshell index 白质</td><td> strength/N</td><td>蛋白高度 Yolk Albumen color height/mm</td></tr><tr><td></td><td>CP/%</td><td></td><td></td><td></td><td>score</td><td></td></tr><tr><td>11.30</td><td>18</td><td>1.37</td><td>0.33</td><td>47.77</td><td>7.73</td><td>6.04</td></tr><tr><td>10.88</td><td>18</td><td>1.30</td><td>0.32</td><td>46.38</td><td>6.78</td><td>6.41</td></tr><tr><td>10.46</td><td>18</td><td>1.37</td><td>0.32</td><td>46.01</td><td>6.97</td><td>5.98</td></tr><tr><td>11.30</td><td>17</td><td>1.38</td><td>0.32</td><td>47.90</td><td>8.23</td><td>6.92</td></tr><tr><td>10.88</td><td>17</td><td>1.33</td><td>0.32</td><td>47.45</td><td>8.40</td><td>6.75</td></tr><tr><td>10.46</td><td>17</td><td>1.33</td><td>0.33</td><td>46.92</td><td>8.12</td><td>5.53</td></tr><tr><td>11.30</td><td>16</td><td>1.34</td><td>0.32</td><td>46.48</td><td>8.64</td><td>6.70</td></tr><tr><td>10.88</td><td>16</td><td>1.33</td><td>0.33</td><td>45.83</td><td>8.14</td><td>6.17</td></tr><tr><td>10.46</td><td>16</td><td>1.36</td><td>0.32</td><td>44.64</td><td>7.95</td><td>6.51</td></tr><tr><td>主效应Main effect</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质</td><td>18</td><td>1.35</td><td>0.32</td><td>46.72</td><td>7.16b</td><td>6.14</td></tr><tr><td>CP/%</td><td>17</td><td>1.35</td><td>0.32</td><td>47.42</td><td>8.24a</td><td>6.39</td></tr><tr><td></td><td>16</td><td>1.34</td><td>0.32</td><td>45.65</td><td>8.24a</td><td>6.46</td></tr><tr><td>代谢能</td><td>11.30</td><td>1.36a</td><td>0.32</td><td>47.38</td><td>8.20a</td><td>6.55</td></tr><tr><td>ME/(MJ/kg)</td><td>10.88</td><td>1.32b</td><td>0.32</td><td>46.53</td><td>7.76b</td><td>6.43</td></tr><tr><td>变异来源 Source of variation</td><td>10.46</td><td>1.35ab</td><td>0.32</td><td>45.86</td><td>7.68b</td><td>6.01</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="7">P值 P-value</td><td>代谢能</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ME</td><td><0.05</td><td>0.99</td><td>0.61</td><td><0.01</td><td>0.40</td></tr><tr><td>粗蛋白质</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CP</td><td>0.98</td><td>0.98</td><td>0.52</td><td><0.01</td><td>0.73</td></tr><tr><td>代谢能×</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质</td><td></td><td></td><td></td><td>0.02</td><td></td></tr><tr><td>MExCP</td><td>0.16</td><td>0.61</td><td>1.00</td><td></td><td>0.50</td></tr><tr><td>SEM</td><td></td><td>0.03</td><td>0.01</td><td>2.66</td><td>0.23</td><td>0.72</td></tr></table></body></html>
+
+2.3饲粮代谢能及粗蛋白质水平对绍兴鸭血浆生化指标及肝脏脂类指标的影响
+
+由表 4 可知，饲粮代谢能及粗蛋白质水平对血浆中总蛋白、白蛋白含量并无显著影响（ $. P { > } 0 . 0 5 )$ ，但饲粮粗蛋白质水平为 $1 7 \%$ 时，血浆尿素氮含量最高（ $scriptstyle \cdot { \cal P } = 0 . 0 9$ )。饲粮代谢能水平为11.30 MJ/kg 时，肝脏中甘油三酯的含量显著高于饲粮代谢能水平为 $1 0 . 8 8 ~ \mathrm { M J / k g }$ 时（ $P { < } 0 . 0 5 )$ ，饲粮代谢能水平为 $1 1 . 3 0 \mathrm { M J / k g }$ 时肝脏中脂肪及甘油三酯含量最高。饲粮粗蛋白质水平与肝脏中脂肪含量呈负相关 $[ y = - 4 . 1 9 x + 9 2 . 3 6 7$ （ $R ^ { 2 } { = } 0 . 8 7 2$ ， $\scriptstyle { r = 0 . 9 3 4 } ]$ 。饲粮代谢能与粗蛋白质水平对肝脏甘油三酯含量存在明显的交互作用（ $_ { _ { P < 0 . 0 5 } ) }$ 。
+
+表4饲粮代谢能及粗蛋白质水平对绍兴鸭血浆生化指标及肝脏脂类指标的影响  
+Table 4Effects of dietary ME and CP levels on plasma biochemical indexes and liver lipids   
+indexes of Shaoxing ducks   
+
+<html><body><table><tr><td colspan="9">nidext OfShdoxingducks</td></tr><tr><td colspan="3"></td><td colspan="3">血浆总蛋 白Plasma</td><td colspan="3">血浆尿素</td></tr><tr><td colspan="3">饲粮处理</td><td colspan="3">血浆白蛋白 Plasma</td><td colspan="3">氮Plasma</td></tr><tr><td colspan="3">Dietary treatments</td><td>protein/</td><td>albumin/</td><td>血浆甘油三酯 Plasma</td><td>urea nitrogen/</td><td>肝脏脂肪</td><td>肝脏甘</td></tr><tr><td colspan="3">粗蛋白质</td><td>（mg/mL）</td><td>（g/L）</td><td>TG/(mmol/L)</td><td>（mg/L)</td><td>Fat in liver/%</td><td>live</td></tr><tr><td>代谢能 ME/(MJ/kg) 64</td><td></td><td>CP/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>11.30</td><td>18</td><td>47.45</td><td>28.30</td><td>5.17</td><td>6.51</td><td>14.56</td><td>0.25</td></tr><tr><td>LO"1</td><td>10.88</td><td>18</td><td>45.17</td><td>27.33</td><td>4.75</td><td>5.20</td><td>16.41</td><td>0.27</td></tr><tr><td></td><td>10.46</td><td>18</td><td>44.72</td><td>28.03</td><td>6.95</td><td>8.28</td><td>17.10</td><td>0.38</td></tr><tr><td>∠</td><td>11.30</td><td>17</td><td>43.16</td><td>28.35</td><td>9.38</td><td>9.37</td><td>27.74</td><td>0.45</td></tr><tr><td></td><td>10.88</td><td>17</td><td>44.74</td><td>27.38</td><td>7.56</td><td>7.54</td><td>23.63</td><td>0.27</td></tr><tr><td></td><td>10.46</td><td>17</td><td>46.47</td><td>28.14</td><td>4.89</td><td>5.52</td><td>17.58</td><td>0.36</td></tr><tr><td></td><td>11.30</td><td>16</td><td>42.36</td><td>26.26</td><td>8.14</td><td>7.85</td><td>27.36</td><td>0.44</td></tr><tr><td></td><td>10.88</td><td>16</td><td>43.44</td><td>27.04</td><td>6.17</td><td>7.30</td><td>28.05</td><td>0.28</td></tr><tr><td></td><td>10.46</td><td>16</td><td>43.95</td><td>27.94</td><td>6.68</td><td>7.10</td><td>17.79</td><td>0.25</td></tr><tr><td>三效应Main effect</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>粗蛋白质</td><td>18</td><td>45.78</td><td>27.89</td><td>5.63</td><td>51.08</td><td>16.02</td><td>0.30</td></tr><tr><td></td><td>CP/%</td><td>17</td><td>44.79</td><td>27.96</td><td>7.28</td><td>59.04</td><td>22.99</td><td>0.36</td></tr><tr><td></td><td></td><td>16</td><td>43.25</td><td>27.08</td><td>7.00</td><td>47.02</td><td>24.40</td><td>0.32</td></tr><tr><td></td><td>代谢能</td><td>11.30</td><td>44.32</td><td>27.64</td><td>7.57</td><td>59.34</td><td>23.22</td><td>0.38a</td></tr><tr><td>ME(MJ/kg)</td><td></td><td>10.88</td><td>44.45</td><td>27.25</td><td>6.16</td><td>49.99</td><td>22.70</td><td>0.27b</td></tr><tr><td></td><td></td><td>10.46</td><td>45.05</td><td>28.04</td><td>6.18</td><td>47.81</td><td>17.49</td><td>0.33ab</td></tr><tr><td>variation</td><td>变异来源 Source of</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>代谢能 ME</td><td>0.85</td><td>0.64</td><td>0.36</td><td>0.09</td><td>0.27</td><td><0.01</td></tr><tr><td></td><td>P值</td><td>粗蛋白质 CP</td><td>0.20</td><td>0.51</td><td>0.29</td><td>0.09</td><td>0.08</td><td>0.20</td></tr><tr><td></td><td>P-value</td><td>代谢能×粗蛋</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>白质MExCP</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>0.49</td><td>0.83</td><td>0.22</td><td>0.20</td><td>0.60</td><td><0.01</td></tr><tr><td>SEM</td><td></td><td></td><td>1.71</td><td>1.01</td><td>1.38</td><td>7.86</td><td>4.71</td><td>0.04</td></tr></table></body></html>
+
+3讨论:
+
+# 3.1饲粮代谢能及粗蛋白质水平对绍兴鸭产蛋性能的影响
+
+本试验中，饲粮代谢能水平显著影响绍兴鸭日产蛋重，饲粮代谢能水平为11.30 MJ/kg时，日产蛋重达到最大值，料蛋比最低。饲粮粗蛋白质水平对产蛋性能无显著影响，饲粮粗蛋白质水平 $1 7 \%$ 与 $1 8 \%$ 处理产蛋率接近， $1 8 \%$ 处理日产蛋重和料蛋比数值上最好，并且饲粮代谢能和粗蛋白质水平为 $1 1 . 3 0 \mathrm { M J / k g }$ 和 $1 8 \%$ 时，生产性能最好。这与前人试验结果不尽相同。尹兆正等研究得出，绍兴鸭饲粮粗蛋白质水平为 $1 7 . 5 \%$ 、代谢能水平为11.09 MJ/kg时，可获得较好的生产性能。不同品种蛋鸭对饲粮代谢能和粗蛋白质的需要量也略有不同，林哲敏等[7]在对海南蛋鸭的研究时发现，饲粮中 $1 7 \%$ 的粗蛋白质水平即可满足海南蛋鸭生产需要，且有较好的产蛋性能，魏立民等[8-9的研究与其一致，饲粮代谢能水平显著影响海南蛋鸭的采食量和产蛋率，在海南地区产蛋期蛋鸭代谢能水平为 $1 1 . 3 \mathrm { M J / k g }$ 、粗蛋白质水平为 $1 7 \%$ 时效果较好。米玉玲等[10]对笼养金定鸭蛋鸭的研究表明，饲粮代谢能水平为11.51MJ/kg时，可满足笼养蛋鸭的产蛋需要，其相应的蛋能比为 $1 4 . 7 7 \ \mathrm { g / M J }$ 。王强等[11]研究表明，高能高蛋白质饲粮的采食量低于其他组，饲粮代谢能、粗蛋白质水平分别为 $1 1 . 3 0 \mathrm { M J / k g }$ 和 $1 7 . 0 7 \%$ 时其蛋重、料蛋比和产蛋数最高。蛋鸭对代谢能、粗蛋白质的需要可能受到品种、气候、天气情况、地域等因素的影响，本试验在浙江春季开展，多雨潮湿天气也可能是导致与以上结果不同的原因。在本试验条件下，饲粮代谢能和粗蛋白质水平为 $1 1 . 3 0 \mathrm { M J / k g }$ 和 $1 8 \%$ 时，生产性能最好。
+
+# 3.2饲粮代谢能及粗蛋白质水平对绍兴鸭蛋品质的影响
+
+本试验中饲粮粗蛋白质及代谢能水平显著影响蛋黄色泽，随饲粮代谢能水平升高，蛋黄色泽显著提高；而随饲粮粗蛋白质水平的升高，蛋黄色泽显著降低；且饲粮代谢能与粗蛋白质水平对蛋黄颜色存在显著的交互作用。田博等[12的研究与本试验一致，与对照组相比，高能组肉种鸡35、40周龄的蛋黄颜色有显著提高，低能组无显著变化，且饲粮代谢能水平对其他蛋品质指标无显著影响。付胜勇等[13-14]的研究也表明，饲粮粗蛋白质水平与蛋黄颜色有密切关系，随着饲粮粗蛋白质水平的降低，蛋黄颜色显著加深。具体原因可能是由于蛋黄的色泽深浅主要取决于饲粮中叶黄素、胡萝卜素等成分的含量[15]，而以上结果均为玉米-豆粕型饲粮，因此低粗蛋白质水平饲粮中玉米用量相对增加影响蛋黄颜色的沉积。
+
+3.3饲粮代谢能及粗蛋白质水平对绍兴鸭血浆生化指标及肝脏脂类指标的影响。
+
+血浆总蛋白含量可在一定程度上反映饲粮蛋白质营养水平及动物对蛋白质的消化吸收程度。罗洪明等[16]对仔猪的研究表明，随着饲粮粗蛋白质水平的增加，血浆中的总蛋白、白蛋白含量以及白蛋白/球蛋白的值先增加后下降，当饲粮粗蛋白质水平为 $23 \%$ 时，血浆中的总蛋白、白蛋白含量达最高。本试验中，饲粮代谢能及粗蛋白质水平对血浆中总蛋白、白蛋白含量并无显著影响，这可能与饲粮粗蛋白质水平及品种不同有关。本试验中代谢能水平的提高和粗蛋白质水平降低增加了脂类在蛋鸭肝脏的沉积。肝脏是禽类脂肪合成的主要场所，机体几乎全部脂肪都在肝脏合成与代谢，因此肝脏对脂类代谢起着重要的作用。曹华斌等[7]对蛋鸡的研究与本试验结果相一致，高能低蛋白质组蛋鸡肝湿重、肝脏脂肪含量和肝脂率均显著或极显著高于相应的对照组。由于高能饲料的摄入，肝脏将大量的多余能量转化成脂类物质[18]，然而低蛋白质饲料可能导致将肝中的脂类运输到肝外组织所必需的脂蛋白或载脂蛋白供应不足，肝脂肪转运受阻，破坏了肝细胞、脂肪、血浆之间脂肪代谢的动态平衡，导致以中性脂肪为主的脂质在肝细胞过度沉积，因此适宜的能蛋比对维持家禽正常脂类和蛋白质代谢十分关键[17]。
+
+4结论
+
+综合产蛋性能、蛋品质结果，饲粮代谢能水平为11.30 MJ/kg、粗蛋白质水平为 $1 8 \%$ 时，绍兴鸭的生产性能达到最佳。
+
+参考文献：
+
+[1]．宋卫涛,李慧芳,韩威,等.我国地方蛋鸭品种遗传结构及遗传分化[J].四川农业大学学报,2010,28(1):93-98.  
+[2]．陈海燕.绍兴鸭生产性能及其影响因素的研究[D].硕士学位论文.杭州:浙江大学,2004.  
+[3]．崔玉铭,齐利枝,胡大君,等.低蛋白日粮对肉仔鸡生长性能和屠宰性能的影响[J].饲料工业,2010,31(2):42-45.  
+[4]．汤建平,蔡辉益,常文环,等.饲养密度与饲粮能量水平对肉仔鸡生长性能及肉品质的影响[J].动物营养学报,2012,24(2):239-251.  
+[5]．李勇,蔡辉益,刘国华,等.能量和蛋白质水平对 $_ { 1 \sim 2 1 }$ 日龄肉仔鸡生长性能、体蛋白质及体脂肪沉积的影响[J].动物营养学报,2010,22(4):886-893.  
+[6]．尹兆正,余东游,祝春雷.绍鸭产蛋期适宜日粮能量水平的研究[J].浙江大学学报:农业与生命科学版,2000,26(4):451-454.  
+[7]．林哲敏,魏立民,林大捷,等.笼养蛋鸭产蛋期适宜日粮粗蛋白水平的研究[J].饲料研究,2011(1):49-51.  
+[8]．魏立民,孙瑞萍,林哲敏,等.笼养蛋鸭日粮能量水平对生产性能的影响[J].黑龙江畜牧兽医,2011(19):63-65.
+
+[9]．魏立民,孙瑞萍,林哲敏,等.日粮能量和蛋白质水平对蛋鸭生产性能的影响[J].中国畜牧兽医,2013,40(12):81-84.
+
+[10]米玉玲,王安.不同能量水平饲粮对笼养蛋鸭产蛋初期生产性能影响的研究[J].饲料工业,2001,22(12):16-18.
+
+[1]王强,邹剑敏,童海兵,等.日粮能蛋值对高邮鸭产蛋性能及蛋品质的影响[J].贵州农业科学,2011,39(11):162-165.
+
+[12]田博,黄芳芳,徐良梅,等.饲粮不同能量水平对产蛋初期肉种鸡产蛋性能、蛋品质和蛋组分
+
+的影响[J].动物营养学报，2012,24(2):327-333.[13]付胜勇,武书庚,张海军,等.标准回肠可消化氨基酸模式下降低饲粮粗蛋白质水平对蛋鸡
+
+生产性能、蛋品质及氮平衡的影响[J].动物营养学报,2012,24(9):1683-1693.[14]付胜勇,武书庚,张海军,等.饲粮代谢能和粗蛋白质水平对 $2 1 { \sim } 3 4$ 周龄海兰灰蛋鸡生产性
+
+能与蛋品质的影响[J].动物营养学报,2013,25(11):2601-2611.[15]尹兆正,童莲芳.蛋黄色素的研究进展[J].中国家禽,1994(4):32-33.[16]罗洪明,陈代文.不同蛋白水平对早期断奶仔猪生产性能、血液生化指标的影响[J].饲料研究,2005(8):3-8.[17]曹华斌,胡国良,郭小权,等.高能低蛋白日粮饲养蛋鸡肝脏脂肪沉积及其组织病理学观察[J].中国兽医学报,2010,30(7):1009-1012.[18]吕刚.不同饲喂方式下肉鸭体脂沉积规律及机制研究[D].博士学位论文.雅安:四川农业大学,2011.
+
+Effects of Dietary Metabolizable Energy and Crude Protein Levels on Laying Performance, Egg Quality and Plasma Biochemical Indexes of Shaoxing Ducks
+
+WANG Shuang1 MA Weiying2 CHEN Wei'RUAN Dong1 ZHENG Chuntian1 SHEN
+
+Junda² XUN Yihu³ LIN Yingcai1\* LU Lizhi2\*
+
+(1. Institute of Animal Science, Guangdong Academy of Agricultural Sciences, State Key   
+Laboratory of Livestock and Poultry Breeding, Key Laboratory of Animal Nutrition and Feed Science in South China, Ministry of Agriculture, Guangdong Public Laboratory of Animal Breeding and Nutrition, Guangdong Key Laboratory of Animal Breeding and Nutrition,   
+Guangzhou 51O640, China;2. Institute of Animal Science, Zhejiang Academy of Agricultural   
+Science, Hangzhou 310021, China; 3. Zhejiang WuyiTiange Industrial Co. Ltd., Wuyi 321200, China)
+
+Abstract: This study was conducted to evaluate the effects of dietary metabolizable energy (ME) and crude protein (CP) levels on laying performance, egg quality and plasma biochemical indexes of Shaoxing ducks,and to estimating the optimum levels of metabolizable energy and crude protein. Three dietary metabolizable energy levels (11.30,10.88 and $1 0 . 4 6 \mathrm { M J / k g } ,$ and three dietary crude protein levels ( $1 8 . 0 0 \%$ $1 7 . 0 0 \%$ and $1 6 . 0 0 \%$ ） were examined using a $3 \times 3$ factorial arrangement of treatments. A total of 972 healthy Shaoxing ducks were randomly allotted to 9 groups with 6 replicates per group and 18 birds per replicate. The experiment lasted for 12 weeks. The results showed as follows: 1) dietary metabolizableenergy and crude protein levels did not affect the egg production, average egg weight average daily feed intake and deed to egg ratio （2 $( P { > } 0 . 0 5 )$ . But dietary metabolizable energy level significantly affected daily egg mass $( P { < } 0 . 0 5 )$ The best feed to egg ratio and daily egg mass can be obtained at dietary metabolizable energy level of $1 1 . 3 0 \mathrm { M J / k g }$ . The best egg production and daily egg mass can be obtained at dietary crude protein level of $18 \%$ . 2) The yolk color score was significantly increased with dietary metabolizable energy level increasing $( P { < } 0 . 0 5 )$ , but it was significantly decreased with dietary crude protein level increased ( $\scriptstyle \cdot { \cal P } \ll 0 . 0 5 )$ . There were interaction effect between dietary metabolizable energy and crude protein level on the egg yolk color $\scriptstyle ( P < 0 . 0 5 )$ ). 3) Dietary metabolizable energy and crude protein levels did not affect the plasma total protein and albumin content $( \mathrm { P } { > } 0 . 0 5 )$ . The liver triglyceride content was significantly increased with dietary metabolizable energy level increasing ( $( P { < } 0 . 0 5 ) \$ ）. The liver lipid content trended to be decreased with dietary crude protein level increasing ( $\scriptstyle \overbrace { P = 0 . 0 8 } ^ { }$ ). The results indicate that the optimal dietary metabolizable energy and crude protein level for performance of Shaoxing ducks were 11.30 （202 $\bf { M J / k g }$ and $18 \%$ , respectively.
+
+Key words: Shaoxing ducks; metabolizable energy; crude protein; laying performance; egg quality

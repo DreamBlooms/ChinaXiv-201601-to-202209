@@ -1,0 +1,152 @@
+# 宫颈癌放疗中基于精确表面剂量累加的直肠并发症预测模型
+
+陈嘉伟，陈海斌，何强，廖煜良，甄鑫南方医科大学生物医学工程学院，广东广州510515摘要：目的 提出并验证一种应用于宫颈癌放疗的基于精确表面剂量累加的直肠并发症预测方法。方法 回顾性采集到42例宫颈癌患者数据，对各个治疗分次的直肠壁进行精确点配准得到变形场，利用该变形场对直肠壁受照剂量进行变形和叠加，得到3D总剂量。将3D直肠总剂量分布映射到2D平面，分别提取出剂量体积特征和剂量几何特征，并筛选出有显著性差异( $\scriptstyle P <$ 0.05)的剂量分布特征，建立基于序列前向选择算法和逻辑回归的直肠并发症预测模型。结果直肠壁表面配准的精度较高，4个相似度评价指标表明，配准后不同治疗分次的直肠表面配准程度有显著性提高。五折交叉验证结果显示准确性、敏感性、特异性和AUC分别为： $7 9 . 5 \% , 8 1 . 3 \% , 7 5 . 0 \%$ 和 $0 . 8 8 \AA$ 。结论本文提出基于精确表面剂量累加的直肠并发症预测模型具有可行性，为宫颈癌患者直肠毒性预测提供可靠的支持。
+
+关键词：宫颈癌放疗；直肠并发症；精确点配准；剂量累加;逻辑回归
+
+# Rectal toxicity prediction based on accurate rectal surface dose summation for cervical cancer radiotherapy
+
+CHENJiawei,CHENHaibin,HE Qiang,LIAO Yuliang,ZHENXin School of Biomedical Engineering,Southern Medical University,Guangzhou 51o515,China
+
+Abstract: Objective To propose arectal toxicity prediction method based on deformable surface dose accumulation.Methods Theclinical data werecolectedretrospectivelyfrom 42patientsreceiving radiotherapyforcervical cancer.With the first fraction as thereference,the other fractions of rectum surface were registered to thereference fraction to obtain the deformationvectorfields(DVFs),whichwereusedtodeformandsumthefractionalrectaldoses toyieldthecumulativerectal dose.Thecumulative rectal dose was flattened via 3D-2D mapping to generate a 2Drectum surface dose map.Twodosimetric features,namelyDVPsandDGPs were extracted.Logisticregression embedded with sequential forward feature selection was usedasthe predictionmodel.Thepredictive performance was evaluatedintermsof theaccuracysensitivityspecificityand the area under the receiver operating characteristic (ROC)curve (AUC). Results Significant improvements for rectum surface DIR were achieved.The best predictive results were achieved byusing both DVPs and DGPsas thefeatures with a sensitivity of $7 9 . 5 \%$ ,a specificity of $8 1 . 3 \%$ and an AUC of O.88. Conclusion The proposed method is feasible for predicting clinical rectal toxicity in patients undergoing radiotherapy for cervical cancer.
+
+Keywords: cervical cancer; rectum toxicity; deformable registration; dose accumulation; logistic regression
+
+局部晚期宫颈癌的主要放疗方案1是外照射(EBRT)和近距离放疗(BT)，同时提高靶区的放射剂量是提高宫颈癌局控率的有效手段[2]。然而，高剂量照射必然会增加危及器官(OAR)，如直肠、乙状结肠、膀胱、阴道等的放射毒性,增加其发生放疗并发症的风险[3-4]。
+
+目前临床上评价OAR放射毒性的指标主要沿用ICRU89号报告[5推荐的剂量体积参数 $\mathbf { D } _ { \mathrm { 0 . 1 c c } } \mathbf { , D } _ { \mathrm { 1 c c } } \mathbf { , D } _ { \mathrm { 2 c c } }$ （最高受照剂量体积 $0 . 1 , 1 . 2 \mathrm { c m } ^ { 3 }$ 内的最小点剂量)。 $\mathbf { D } _ { 0 . 1 / 1 / 2 \mathrm { c c } }$ 是基于最坏条件假设提出的，即完全不考虑器官的形变，认为OAR的高剂量点在不同放疗分次是静止的[6]。然而分次治疗间必然存在病人摆位误差、OAR的位移和变形等问题，导致放疗计划中OAR的 $\mathrm { D } _ { 0 . 1 / 1 / 2 \mathrm { c c } }$ 比真实受照剂量的高。该假设通过高估受照剂量来保护OAR，但同时也约束了靶区剂量的提高。目前已有研究都是通过基于灰度信息的图像配准算法实现分次间的剂量累加，以获取真实的累加受照剂量。然而其所得的剂量体积参数与基于最坏条件假设的并不存在显著性差异，未能得到真实精确的剂量分布[8-10]。另外,剂量体积参数 $\mathrm { D } _ { 0 . 1 / 1 / 2 \mathrm { c c } }$ 是一维点剂量,它并不包含剂量的空间几何分布信息。许多研究表明[1-14],直肠局部剂量分布信息与直肠毒性密切相关。然而，这些基于统计分析的方法仍然无法直接预测OAR并发症的发生概率。随着近年来机器学习的兴起，受其启发，我们引入了受照剂量的空间分布信息建立预测模型以评价其放射毒性，旨在充分理解放射剂量分布与OAR器官放射毒性之间的关系。
+
+本研究创新性提出了一种基于精确表面剂量累加的宫颈癌放疗直肠并发症预测方法，以预测直肠受照剂量与直肠放射毒性的关系，在减少OAR受照剂量的同时能充分提高靶区受照剂量。
+
+# 1资料和方法
+
+# 1.1研究对象
+
+本研究回顾性采集42例宫颈癌放疗病人临床数据，包括计划CT图像和治疗计划。患者均接受了外照射放疗(EBRT)和近距离放疗(BT)，其中EBRT放疗剂量为 $5 0 \mathrm { G y } / 2 5 \mathrm { F }$ ，每分次剂量为2Gy，以及BT放疗剂量为 $2 8 \mathrm { G y } / 4 \mathrm { F }$ ，每分次剂量为7Gy，或 $3 0 \mathrm { G y } / 5 \mathrm { F }$ ，每分次剂量为6Gy。病人在治疗后每2\~3个月进行一次随访检查，并且对伴随便血症状的患者进行进一步的结肠镜检查。根据直肠毒性评分等级将42例病人数据划分为经放疗后直肠有无发生并发症两类，其中直肠毒性Grade ${ \geqslant } 2$ 作为直肠发生并发症一类(12例)，而Grade $0 \sim$ 1作为直肠无发生并发症一类(30例)。
+
+# 1.2方法概述
+
+临床医生手动勾画直肠外轮廓线得到直肠掩模图像，利用基于点颗粒各向异性表面网格生成方法[15，将放疗期间各个治疗分次的直肠轮廓线转化成均匀的直肠表面网格点。以第1个治疗分次的直肠壁表面网格点作为参考点集，采用我们提出的一种精确点配准算法(TOP-DIR)[16对各个治疗分次的直肠壁进行配准，利用计算获得的变形场对各个治疗分次的直肠壁受照剂量进行变形和叠加，得到总累加剂量后并转换为2Gy生物等效剂量(EQD2)[17-19]。通过3D-2D变换将3D的直肠总剂量分布映射到2D平面，然后分别从3D剂量分布和经过映射后的2D剂量分布提取出剂量体积特征(DVPs)和剂量几何特征(DGPs)，并筛选出有显著性差异 $_ { ( P < 0 . 0 5 ) }$ 的剂量分布特征。利用基于序列前向选择算法20进行特征选择，并以逻辑回归算法建立直肠并发症预测模型(LR-SFS)。采用五折交叉验证评估该模型的预测性能。另外，将DVPs和DGPs与传统基于最坏条件假设下沿用的剂量体积参数 $\mathbf { D } _ { \mathrm { 0 . 1 c c } } \setminus \mathbf { D } _ { \mathrm { 1 c c } } \setminus \mathbf { D } _ { \mathrm { 2 c c } }$ (WS-${ \sf D } 0 . 1 / 1 / 2 \mathrm { c c } )$ 对直肠并发症的预测能力进行了对比分析。1.2.1TOP-DIR直肠表面点配准 TOP-DIR是基于TPS-RPM算法的非刚性点配准方法：定义三维浮动点集 $V = \left\{ \vec { \nu } _ { i } = ( \nu _ { i } ^ { x } , \nu _ { i } ^ { y } , \nu _ { i } ^ { z } ) | i = 1 , 2 , . . . , K \right\}$ 和参考点集
+
+$X = \left\{ \vec { x } _ { j } = ( x _ { j } ^ { x } , x _ { j } ^ { y } , x _ { j } ^ { z } ) | j = 1 , \cdots , N \right\}$ ,TPS-RPM算法通过最小化下面的能量函数 $E$ ,迭代求解两点集之间的匹配矩阵 $M$ 和映射函数 $f$ ：
+
+$$
+\begin{array} { l } { \displaystyle \arg \underset { M , f } { \operatorname* { m i n } } E ( M , f ) = \sum _ { i = 1 } ^ { K + 1 } \sum _ { j = 1 } ^ { N + 1 } m _ { i j } \Big \| \vec { x } _ { j } - f ( \vec { \nu } _ { i } ) \Big \| ^ { 2 } + \lambda \Big \| L f \Big \| ^ { 2 } + } \\ { \displaystyle T \sum _ { i = 1 } ^ { K } \sum _ { j = 1 } ^ { N } m _ { i j } \log m _ { i j } + T _ { 0 } \sum _ { j = 1 } ^ { N } m _ { N + 1 , j } \log m _ { N + 1 , j } + } \\ { \displaystyle T _ { 0 } \sum _ { i = 1 } ^ { K } m _ { i , K + 1 } \log m _ { i , K + 1 } } \end{array}
+$$
+
+其中 $L$ 为薄板样条平滑正则化算子， $M$ 为浮动点集和参考点集之间的模糊匹配矩阵。TOP-DIR算法在这基础上，对于迭代更新匹配矩阵的步骤中使用加入了邻域信息约束的新匹配矩阵 $P _ { _ { i j } }$ 代替原始的匹配矩阵Mij :
+
+$$
+\begin{array} { l } { { \displaystyle P _ { i j } = \frac { m _ { i j } S _ { i j } } { \displaystyle \sum _ { k = 1 } ^ { N } m _ { i k } S _ { i k } } } } \\ { { \displaystyle S _ { i j } = \sum _ { s \in N _ { t } ^ { j } \in { \cal N } _ { x } } { \displaystyle \sum _ { k } } _ { t \in { \cal N } _ { x } } { \cal R } _ { i j } ( s , t ) m _ { s t } } } \end{array}
+$$
+
+其中 $R _ { i j } \big ( s , t \big ) = \alpha \beta$ ，且有
+
+$$
+\begin{array} { r l } & { \alpha ( i , s ; j , t ) = 1 - | \frac { ( d ( i , s ) - d ( j , t ) ) } { \displaystyle \operatorname* { m a x } _ { m \in \mathcal { N } , n \in N _ { x } } ( d ( i , m ) - d ( j , n ) ) } | } \\ & { \beta ( i , s ; j , t ) = ( 1 - d ( i , s ) / \operatorname* { m a x } _ { m \in \mathcal { N } _ { y } } ( d ( i , m ) ) ) } \\ & { ( \frac { 1 - d ( j , t ) / } { \displaystyle \operatorname* { m a x } _ { n \in \mathcal { N } _ { x } } ( d ( j , n ) ) } ) } \end{array}
+$$
+
+其中 $d$ 表示两点的空间欧式距离。 $\scriptstyle a$ 表示相邻点对 $( \nu _ { i } , \nu _ { s } )$ 的距离与相邻点对 $( x _ { j } , x _ { t } )$ 的距离相似程度,距离越相似则 $\alpha$ 越大。 $\beta$ 表示点 $\nu _ { i }$ 与其邻域点 $\nu _ { s }$ ，以及点 $x _ { j }$ 与其邻域点 $x _ { \iota }$ 的距离权重， $\nu _ { s }$ 越靠近 $\nu _ { i }$ 以及 $x _ { t }$ 越靠近 $x _ { j }$ 则 $\beta$ 越大。
+
+1.2.2剂量累加及3D-2D剂量映射点配准后得到直肠表面上各个点的变形场，通过B-spline插值2计算整个3D剂量分布的变形场，然后利用该变形场对3D剂量分布进行变形和累加，最后得到所有放疗分次直肠壁的总受照3D剂量。将直肠壁的3D总剂量分布映射到2D平面上，其过程如下：对于每一层的直肠壁轮廓线，计算出该层轮廓线的几何中心，以该几何中心为始点作$n \left( n = 3 0 \right)$ 条等间隔 $( 1 2 ^ { \circ } )$ 的射线，各射线对应相交于直肠壁上 $n$ 个点，记录其对应的剂量值。考虑到直肠的腔体结构，将每一层记录的直肠壁轮廓线上的点剂量值展开，3D剂量分布则被映射为 $z \times n$ 的2D剂量矩阵，其中$z$ 为直肠物理长度， $n$ 为采样点大小。直肠展开的初始部位为直肠的正后方(图1)。
+
+![](images/1a286468a63b1cf787021aa25dd4c557cf807d4dfa82e9ac485cbadf566cdd01.jpg)  
+图13D-2D剂量映射示意图 Fig.1 Illustration of unfolding the 3D rectum surface dose(left) to a 2D rectum surface dose map (left).
+
+1.2.3剂量特征提取分别从3D剂量分布和经过映射后的2D剂量分布中提取出DVPs和DGPs两类剂量特征。其中DVPs定义为剂量体积特征Dx-cc，即最高受照剂量体积 $\scriptstyle \mathbf { X } - \mathbf { C } \mathbf { m } ^ { 3 }$ 内的最小点剂量，其中 $\mathbf { \Delta x } { \in } [ 0 . 1 , 1 0 ]$ ，间隔为 $0 . 5 \mathrm { c m } ^ { 3 }$ ，共21个剂量体积特征。DGPs定义为不同剂量水平下 $( 4 5 \mathrm { ~ G y } { \sim } 1 0 0 \mathrm { ~ G y } )$ 的剂量区域(剂量区间的间隔为1Gy)提取的几何特征，包括：相对面积、周长、相对横向宽度、纵向高度，共224个剂量几何特征。
+
+1.2.4直肠并发症预测模型本文采用序列前向选择算法作为逻辑回归特征参数的筛选方法，特征选择的目的是寻找最优特征子集，剔除不相关或冗余的特征，降低特征个数，提高模型精确度。假设给定一特征集$F { = } ( f _ { 1 } , f _ { 2 } , . . . , f _ { n } )$ ,模型目标函数为 $J ( \cdot )$ ,通过特征选择从特征集 $F$ 中筛选出子集 $s$ ,对于任何的子集 $T$ 都有$J ( S ) { > } J ( T )$ 。在序列前向选择算法中，特征子集 $X$ 从空集开始，通过五折交叉验证首先从所有特征中寻找出使得目标函数 $J$ 达到最优的第一个特征，此后每次只从未选择的特征集中选择一个特征 $x$ 加入特征子集 $X$ 使得 $J$ 最优。重复上述过程，直到 $J$ 达到最优结果为止。
+
+逻辑回归分类表示为： $h _ { \theta } ( x ) = 1 / ( 1 + e ^ { - \theta x } )$ ,其中$h _ { \theta } ( x )$ 为预测值, $x = ( x _ { 1 } , x _ { 2 1 } , . . . , x _ { n } ) ^ { T }$ 为模型中特征向量,$\theta = ( \theta _ { \scriptscriptstyle 0 } , \theta _ { \scriptscriptstyle 1 } , \theta _ { \scriptscriptstyle 2 } , . . . , \theta _ { \scriptscriptstyle n } )$ 为特征向量参数， $n$ 为特征向量个数。由于该模型是基于最大似然估计来计算模型参数 $\theta$ ，即由条件概率 $P \big ( y = 1 | x \big ) = h _ { \theta } \big ( x \big )$ 和 $P \big ( y = 0 | x \big ) = 1 - h _ { \theta } \big ( x \big )$ 可得 $P \big ( y | x \big ) = \big ( h _ { \theta } \big ( x \big ) \big ) ^ { y } \big ( 1 - h _ { \theta } \big ( x \big ) \big ) ^ { 1 - y }$ 。假设有 $\mathbf { \nabla } _ { m }$ 个数据,则最大似然估计：
+
+$$
+L ( \theta ) = \prod _ { i = 1 } ^ { m } P \big ( y ^ { i } | x ^ { i } \big ) = \prod _ { i = 1 } ^ { m } \big ( h _ { \theta } \big ( x ^ { i } \big ) \big ) ^ { y ^ { i } } \big ( 1 - h _ { \theta } \big ( x ^ { i } \big ) \big ) ^ { 1 - y ^ { i } }
+$$
+
+1.2.5统计分析采用两独立样本秩和检验(Mann-WhitneyUtest)分析DVPs和DGPs对于并发症实验组和无并发症对照组之间的统计学差异。 $P { < } 0 . 0 5$ 表示为
+
+两组数据差异有统计学意义。
+
+# 2结果
+
+# 2.1直肠表面点配准
+
+直肠壁配准结果如图2所示。可以看到，在直肠发生小形变，大形变以及形变较为复杂的情况下，TOP-DIR均获得满意的配准结果，显示其较好的鲁棒性。评价配准精度的定量指标包括：Dice相似性系数(DC)，百分误差(PE)，点对点的平均距离(VVD)和豪斯多夫距离(HD)。其中DC越大表示精度越高，PE、VVD、HD越小表示精度越高。从表1可见，直肠壁表面配准的精度较高，配准后DC从0.71提高到 $0 . 8 6 \left( P \mathrm { < } 0 . 0 0 1 \right)$ ，PE、VVD和HD分别从 $0 . 6 2 , 1 . 5 1 \ \mathrm { m m }$ 和 $7 . 0 2 ~ \mathrm { m m }$ 降低至$0 . 2 6 \left( P \mathrm { < } 0 . 0 0 1 \right) , 0 . 7 4 \mathrm { m m } \left( P \mathrm { < } 0 . 0 0 1 \right)$ 和 $3 . 9 7 \mathrm { m m } ( P { < } 0 . 0 0 1 )$
+
+# 2.2 预测模型定量分析
+
+对DVPs和DGPs进行统计学分析后，筛选出具有显著性差异 $( P { < } 0 . 0 5 )$ 的剂量分布特征，包括13个DVPs和19个DGPs,然后采用基于序列前向特征选择算法和逻辑回归的模型对直肠放射毒性进行预测，并通过五折交叉验证评估该模型的预测性能。准确性评价指标包括敏感性(SEN)、特异性(SPE）、准确性(ACC)以及ROC曲线下的面积(AUC),其中 $S E N { = } T P / ( T P { + } F N )$ $S P E \mathrm { = } T N / ( T N \mathrm { + } F P ) , A C C \mathrm { = } ( T P \mathrm { + } T N ) / ( T P \mathrm { + } F P \mathrm { + } F N \mathrm { + } T N )$ 其中TP为真阳性，TN为真阴性，FP为假阳性，FN为假阴性。实验结果如表1所示,可以看到,传统WS-D.1/2ce的预测敏感性、特异性、准确性和AUC分别为 $6 8 . 3 \%$ $6 7 . 6 \% , 6 8 . 0 \%$ 和0.74。而DVPs的预测能力相对于WS-$\mathbf { D } _ { 0 . 1 / 1 / 2 \mathrm { c c } }$ 有较大提高，这说明除了 $\mathrm { D } _ { 0 . 1 / 1 / 2 \mathrm { c c } }$ ，其他剂量体积特征同样与直肠毒性存在相关性。并且在加入具有剂量空间信息的DGPs后， $\mathrm { D V P s + D G P s }$ 的预测能力最优，其敏感性、特异性、准确性和AUC分别为 $8 1 . 3 \% , 7 5 . 0 \%$
+
+<html><body><table><tr><td>Status</td><td>DC</td><td>PE</td><td>VVD</td><td>HD</td></tr><tr><td>Before TOP-DIR</td><td>0.71±0.04</td><td>0.62±0.12</td><td>1.51±0.19</td><td>7.02±1.30</td></tr><tr><td>After TOP-DIR</td><td>0.86±0.02</td><td>0.26±0.03</td><td>0.74±0.06</td><td>3.97±0.68</td></tr></table></body></html>
+
+DC: Dice's coefficient; HD:Percent error; VVD:Mean vertex to vertex distance; HD: Hausdorff distance
+
+![](images/ca5e1bba22067e9f821a745cb5423e2a2cbd36c313c3b950ed1ce47fa4fbb1aa.jpg)  
+图2直肠形变较小(左)、较大(中)以及形变较复杂(右)3种情况下TOP-DIR的配准结果 Fig.2Three examples of rectum TOP-DIR with small, large and complex deformation.
+
+$7 9 . 5 \%$ 和0.88。图3为不同特征组合所建立的LR-SFS模型的ROC曲线对比分析，可以看出 $\mathrm { D V P s + D G P s }$ 对应的ROC曲线最优。
+
+表1配准前后DC,PE,VVD和HD的比较 Tab.1 The DC,PE,VVD and HD before and after rectum surface registration by TOP-DIR (Mean±SD)   
+表1不同特征组合的预测准确性比较  
+Tab.1LR-SFS prediction based on different features and their combinations   
+
+<html><body><table><tr><td>Type</td><td>SEN</td><td>SPE</td><td>ACC</td><td>AUC</td></tr><tr><td>WS-D.1/1/2cc</td><td>68.3%</td><td>67.6%</td><td>68.0%</td><td>0.74</td></tr><tr><td>DVPs</td><td>77.9%</td><td>76.5%</td><td>77.5%</td><td>0.87</td></tr><tr><td>DGPs</td><td>76.2%</td><td>58.6%</td><td>71.2%</td><td>0.75</td></tr><tr><td>DVPs+DGPs</td><td>81.3%</td><td>75.0%</td><td>79.5%</td><td>0.88</td></tr></table></body></html>
+
+# 3讨论
+
+目前临床上沿用ICRU89号报告8推荐的剂量体积参数 $\mathbf { D } _ { 0 . \mathrm { { l c c } } } \mathbf { , D } _ { \mathrm { { l c c } } } \mathbf { , D } _ { \mathrm { { 2 c c } } }$ ，以评价OAR的放射毒性。然而，对于直肠毒性的评价和预测仍然是宫颈癌放疗研究的热门问题。有研究表明[23,24],在预测直肠黏膜病变和晚期直肠并发症风险中， $\mathbf { D } _ { 5 \mathrm { c c } }$ 相比其他剂量体积参数更具可靠性。与这些已报导的研究类似,本研究的实验结果也表明，DVPs所构建的直肠毒性预测模型相比WS-$\mathbf { D } _ { 0 . 1 / 1 / 2 \mathrm { c c } }$ 所构建的对直肠毒性有更高的预测准确性，某种程度上反映出除了常规剂量体积参数 $\mathbf { D } _ { \mathrm { 0 . 1 c c } } \mathbf { , D } _ { \mathrm { 1 c c } } \mathbf { , D } _ { \mathrm { 2 c c } }$ 以外，存在其他剂量参数对评价OAR放射毒性具有相关重要性。
+
+![](images/03f41c2ea4fd975a28fb36d602b03a376fde0ed5c3e067b1e39a5ce6ff953e57.jpg)  
+图3不同特征组合所建立的LR-SFS模型的ROC曲线对 比分析 Fig.3ROC analysis for different features and their combinations via LR-SFS.
+
+由于 $\mathrm { D } _ { 0 . 1 / 1 / 2 \mathrm { c c } }$ 是在不考虑器官形变的基础上计算得到的，即认为OAR的高剂量点在不同放疗分次是静止的[13-14]。然而在不同的放疗分次间,直肠、膀胱等OAR的形变往往较大，这样估算得到的 $\mathrm { D } _ { 0 . 1 / 1 / 2 \mathrm { c c } }$ 往往不能真实反映受照剂量。因此，需要通过一种准确有效的变形配准算法对直肠表面进行精确配准，以实现直肠剂量的精确累加。在目前的图像配准算法中，基于图像强度的图像配准算法并不适用于直肠的配准，因为直肠与周围组织的对比度较低，尤其是在CT图像中。在缺少组织轮廓线或是标记点的条件下，基于图像强度的图像配准算法无法完成形变较大的直肠的配准。相关研究[25-26也证实了该问题。相反，针对大形变或弱对比度的器官，基于结构或基于特征点的变形配准算法[27-33]具有更高的配准精度。由我们研究小组提出的一种基于TPS-RPM21并且能保持局部拓扑结构的精确点配准算法TOP-DIR[16]更为适用于形变较大的空腔器官，如膀胱、直肠等,能解决分次间直肠的形变问题，精确获取直肠表面的剂量分布，进而更准确的反映出剂量与直肠毒性之间的关系，为进一步提高靶区剂量提供了可能。
+
+另外,由于 $\mathrm { D } _ { 0 . 1 / 1 / 2 \mathrm { c c } }$ 是一维点剂量，它并不包含剂量的空间几何分布信息。已报导的相关研究表明，空间剂量分布信息与剂量毒性之间存在着较高相关性。例如，Drean等34发现直肠出血风险主要与直肠前半部分到肛管上端之间的区域存在关联;Munbodh等35报道直肠晚期毒性与直肠上端区域所接受剂量存在显著性关系。由于直肠为腔体结构，有利于将3D剂量分布投影映射到2D平面上，利用2D剂量分布提取剂量几何特征，能够保留剂量的空间分布信息，对直肠并发症预测模型的建立提供更多有利的帮助。本文实验结果表明，加入DGPs剂量几何特征比单独使用DVPs剂量体积特征能获得更高的预测准确率，佐证了剂量空间分布信息与剂量毒性之间存在一定的相关性。
+
+在宫颈癌放疗中，靶区周围正常组织和OARs不可避免会受到一定射线剂量的损伤，这些器官发生放射并发症概率与受照剂量的大小和分布存在密切的关系。而简单的利用剂量体积参数 $\mathbf { D } _ { \mathrm { 0 . 1 c c } } \mathbf { , D } _ { \mathrm { 1 c c } } \mathbf { , D } _ { \mathrm { 2 c c } }$ ，进行基于统计分析方法来评估直肠毒性与剂量之间的关系并不能直接反映出毒性发生几率。随着机器学习的迅速兴起，在放疗领域中越来越多研究者[36-39]利用其预测正常组织并发症概率或局部肿瘤控制概率。例如,Chen等[36利用支持向量机的模型对非小细胞肺癌放疗的放射性肺炎进行预测，得到了较理想的预测精度(AUC0.76)。但上述研究仅仅利用一维剂量体积参数或病人信息作为特征信息，并未利用剂量的空间分布信息。在本研究中，我们提出应用机器学习算法对宫颈癌放疗中直肠毒性进行预测，不仅包含一维剂量体积参数信息，同时加人了直肠受照的空间几何分布信息作为特征参数，实验结果证明了该方法能够有效的提高模型的预测能力。
+
+虽然直肠的受照剂量是导致放射性直肠炎的最直接原因，但病人的性别、年龄、直肠放射耐受性等诸多因素都可能与放射性直肠炎的发生及严重程度相关，本研究并未考虑到这些临床因素，而是主要针对临床的剂量学参数进行分析和研究，我们会在后续研究中加入相关的临床因素做进一步的分析验证。另外，由于采集到的宫颈癌患者数据样本量较少，而提取出的特征数量却比患者样本量大得多，为了降低产生过拟合的可能性，我们利用了统计分析筛选出具有显著性的特征，以及采用序列前向特征选择算法进行特征选择以实现特征的降维，并且通过交叉检验的验证方法去尽可能地保证该模型的鲁棒性。尽管目前的实验结果是基于交叉验证分析得到，但是从实验结果可以看到本研究所提出的直肠毒性预测模型是可行的，它为我们后续研究直肠受照剂量与直肠放射毒性的关系提供了新的方向。
+
+本研究通过TOP-DIR点配准得到精确的直肠表面总剂量，并从直肠表面剂量分布提取3D和2D剂量分布特征，建立直肠放射毒性预测模型。实验结果表明，本文所提出的基于精确表面剂量累加的预测模型能较准确的预测直肠在宫颈癌放疗中的放射毒性，能够帮助放疗科医生更好的设计放疗计划，有望更有效、安全的提高靶区剂量，从而提高局部晚期宫颈癌的局控率。
+
+# 参考文献：
+
+[1] Torre LA,Bray F, Siegel RL,et al. Global cancer statistics,2012[J]. CA Cancer JClin,2015,65(2): 87-108.   
+[2]Haie-Meder C,Morice P,Castiglione M. Cervical cancer:ESMO clinical practice guidelines for diagnosis,treatment and follow-up [J].Ann Oncol,2010(Suppl 5): v37-40.   
+[3]Gray HJ. Primary management of early stage cervical cancer (IA1- IB) and appropriate selection of adjuvant therapy[J]. JNatl Compr Canc Netw,2008,6(1): 47-52.   
+[4]Green JA,Kirwan JM, Tierney JF,et al. Survival and recurrence after concomitant chemotherapy and radiotherapy for cancer of the uterine cervix: a systematic review and meta-analysis[J].Lancet, 2001,358(9284): 781-6.   
+[5]Montana GS,Fowler WC, Varia MA,et al. Carcinoma of the cervix, stage III.Results of radiation therapy[J].Cancer, 1986,57(1):148- 54.   
+[6]Horiot JC,Pigneux J,Pourquier H,et al. Radiotherapy alone in carcinoma of the intact uterine cervix according to G.H.Fletcher guidelines:a French cooperative study of 1383 cases [J].Int J Radiat Oncol Biol Phys,1988,14(4): 605-11.   
+[7]Rose PG,Ali S,Whitney CW,et al. Outcome of stage IVA cervical cancer patients with disease limited to the pelvis in the era of chemoradiation: a Gynecologic Oncology Group study[J].Gynecol Oncol,2011,121(3): 542-5.   
+[8］ICRU. Prescribing,recording,and reporting brachytherapy for cancer of the cervix[J].JICRU,2013,13(1/2): NP.   
+[9]Monk BJ,Tewari KS,Koh WJ.Multimodality therapy for locally advanced cervical carcinoma: state of the art and future directions [J].J Clin Oncol, 2007,25(20): 2952-65.   
+[10] Tanderup K,Fokdal LU,Sturdza A,et al. Effect of tumor dose, volume and overall treatment time on local control after radiochemotherapy including MRI guided brachytherapy of locally advanced cervical cancer[J]. Kadiother Oncol, 2U16,120(3): 441-6.   
+[11]Barilot I, Horiot JC,Maingon P, et al. Impact on treatment outcome and late effects of customized treatment planning in cervix carcinomas: baseline results to compare new strategies [J]. Int J Radiat Oncol Biol Phys,2000,48(1): 189-200.   
+[12] Perez CA,Grigsby PW,Lockett MA,et al. Radiation therapy morbidity in carcinoma of the uterine cervix: dosimetric and clinical correlation[J]. Int JRadiat Oncol Biol Phys,1999,44(4): 855-66.   
+[13] Kirisits C,Potter R,Lang S,et al. Dose and volume parameters for MRI-based treatment planning in intracavitary brachytherapy for cervical cancer[J]. Int JRadiat Oncol Biol Phys,2005,62(3): 901- 11.   
+[14]Jamema SV,Mahantshet U,Tanderup K,etal. Inter-application variation of dose and spatial location of $\mathrm { D } ( 2 \mathrm { c m } ( 3 ) )$ volumes of OARs during MR image based cervix brachytherapy[J].Radiother Oncol,2013,107(1): 58-62.   
+[15]Zhong ZC,Guo XH, Wang WP, et al. Particle-Based anisotropic surface meshing[J].ACM Trans Graph,2013,32(4): 99.   
+[16] Chen H, Zhong Z,Liao Y, et al.A non-rigid point matching method with local topology preservation for accurate bladder dose summation in high dose rate cervical brachytherapy[J].Phys Med Biol,2016,61(3): 1217-37.   
+[17]Bentzen SM,Dörr W, Gahbauer R,et al. Bioeffect modeling and equiefective dose concepts inradiation oncology-terminology, quantities and units[J].Radiother Oncol,2012,105(2): 266-8.   
+[18] Moulton CR, House MJ,Lye V, et al. Prostate external beam radiotherapy combined with high-dose-rate brachytherapy: dosevolume parameters from deformably-registered plans correlate with late gastrointestinal complications[J].Radiat Oncol,2016,11(1): 144.   
+[19]Michalski JM,Gay H,Jackson A,et al.Radiation dose-volume effects in radiation-induced rectal injury[J]. Int JRadiat Oncol Biol Phys,2010, 76(3 Suppl): S123-9.   
+[20]Jain A, Zongker D.Feature selection: Evaluation,application,and small sample performance[J]. IEEE Trans Pattern Anal Mach Intell, 1997,19(2): 153-8.   
+[21]Chui HL,Rangarajan A.A new point matching algorithm for nonrigid registration[J]. Comput Vis Image Underst,2003,89(2/3): 114-41.   
+[22] Zhen X,Chen H,Yan H,et al. A segmentation and point-matching enhanced efficient deformable image registration method for dose accumulation between HDR CT images［J].Phys Med Biol,2015, 60(7): 2981.   
+[23]Kim TH,Kim JY,Sohn DK,et al.A prospective observational study with dose volume parameters predicting rectosigmoidoscopic findings and late rectosigmoid bleeding in patients with uterine cervical cancer treated by definitive radiotherapy[J]. Radiat Oncol, 2013,8(1): 28.   
+[24]Kim Y,Kim YJ,Kim JY,et al. Toxicities and dose-volume histogram parameters of MRI-based brachytherapy for cervical cancer[J]. Brachytherapy,2016,16(1):116-25.   
+[25]Abe T, Tamaki T, Makino S,et al. Assessing cumulative dose distributions in combined radiotherapy for cervical cancer using deformable image registration with pre-imaging preparations [J]. Radiat Oncol,2014, 9(1): 293.   
+[26]Sabater S,Andres I, Sevillano M,et al. Dose accumulation during vaginal cuff brachytherapy based on rigid/deformable registration vs. single plan addition[J].Brachytherapy,2014,13(4): 343-51.   
+[27] Xiong L, Viswanathan A, Stewart AJ, et al. Deformable structure registration of bladder through surface mapping[J].Med Phys, 2006,33(6): 1848-56.   
+[28]Kaus M, Brock K,Pekar V, et al. TU-C-ValA-05:assessment of a model-baseddeformableimageregistrationapproachfor radiotherapy planning[J].Med Phys,2006,33(6Part16):2186.   
+[29] Vasquez Osorio EM,Hoogeman MS,Bondar L,et al.A novel flexible framework with automatic feature correspondence optimization for nonrigid registration in radiotherapy[J]. Med Phys,2009,36(7): 2848-59.   
+[30]Bondar L,Hoogeman MS,Vasquez Osorio EM,et al.A symmetric nonrigid registration method to handle large organ deformations in cervical cancer patients[J].Med Phys,2010,37(7): 3760-72.   
+[31]Noe KO, Tanderup K， Sorensen TS. Surface membrane based bladder registration for evaluation of accumulated dose during brachytherapy in cervical cancer: IEEE International Symposium on Biomedical Imaging: From Nano To Macro,2011[C].   
+[32]Andersen ES,Muren LP,Sorensen TS,et al． Bladder dose accumulation based on a biomechanical deformable image registration algorithm in volumetric modulated arc therapy for prostate cancer[J].Phys Med Biol,2012,57(21):7089-100.   
+[33]Wognum S,Bondar L,Zolnay AG,et al. Control over structurespecific flexibility improves anatomical accuracy for point-based deformable registration in bladder cancer radiotherapy［J].Med Phys,2013,40(2): 021702.   
+[34]Dréan G,Acosta O,Ospina JD,et al.Identification of a rectal subregion highly predictive of rectal bleeding in prostate cancer IMRT[J]. Radiother Oncol, 2016,119(3): 388-97.   
+[35]Munbodh R,Jackson A,Bauer J,et al.Dosimetric and anatomic indicators of late rectal toxicity after high-dose intensity modulated radiation therapy for prostate cancer[J].Med Phys,2008,35(5): 2137-50.   
+[36]Chen S, Zhou S,Yin FF, et al. Investigation of the support vector machine algorithm to predict lung radiation-induced pneumonitis [J].Med Phys,2007,34(10): 3808-14.   
+[37]Naqa IE,Deasy JO,Mu Y,et al. Datamining approaches for modeling tumor control probability[J].Acta Oncol,2010,49(8): 1363-73.   
+[38]Klement RJ,Allgäuer M,Appold S,et al. Support vector machinebased prediction of local tumor control after stereotactic body radiation therapy for early-stage non-small cell lung cancer[J]. Int J Radiat Oncol Biol Phys,2014,88(3): 732-8.   
+[39]Kim KH,Lee S,Shim JB,et al. Predictive modellng analysis for development of a radiotherapy decision support system in prostate cancer: a preliminary study[J].JRadiother Pract,2017,16(2):161-70.

@@ -1,0 +1,442 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCH ARTICLE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Characterization of a novel mouse model with genetic deletion of CD177 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qing Xie1²2,Julia Klesney-Tait²,KathyKeck²,CoreyParlet²,Nicholas Borcherding²,Ryan Kolb²,WeiLi², Lorraine Tygrett²，Thomas Waldschmidt² Alicia Olivier²,Songhai Chen4, Guang-Hui Liu56, Xiangrui Li, Weizhou Zhang2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Veterinary Medicine,Nanjing AgriculturalUniversity,Nanjing 210o95,China   \n2 DepartmentofPathologyHodenComprehensiveCancerCenter,CarverCollegeofMedicineUniversityoflowalowaA   \n52242, USA   \n3 Department of Internal Medicine, Carver Collge of Medicine/University of lowa,lowa, IA 52242,USA   \n4DepartmentofarmacologyCarverColegeofedicine/UiversityoflowalowaI52242UA   \n5NationalLaboratoryofomacromoleulessituteofiosicCinesecademyofienceseiingCina   \n6 Beijing Institutefor Brain Disorders,Beijing 10o069， China   \n区Correspondence: lixiangrui@njau.edu.cn (X.Li),weizhou-zhang@uiowa.edu (W. Zhang) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received September 1,2014 Accepted September 25,2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Neutrophils play an essential role in the innate immune response to infection. Neutrophils migrate from the vasculature into the tissue in response to infection. Recently, a neutrophil cell surface receptor, CD177, was shown to help mediate neutrophil migration across the endothelium through interactions with PECAM1.We examined a publicly available gene array dataset of CD177 expression from human neutrophils following pulmonary endotoxin instillation. Among all 22,214 genes examined, CD177 mRNA was the most upregulated following endotoxin exposure. The high level of CD177 expression is also maintained in airspace neutrophils, suggesting a potential involvement of CD177 in neutrophil infiltration under infectious diseases.To determine the role of CD177 in neutrophils in vivo, we constructed a CD177-genetic knockout mouse model. The mice with homozygous deletion of CD177 have no discernible phenotype and no significant change in immune cells, other than decreased neutrophil counts in peripheral blood. We examined the role of CD177 in neutrophil accumulation using a skin infection model with Staphylococcus aureus. CD177 deletion reduced neutrophil counts in inflammatory skin caused by S. aureus.Mechanistically we found that CD177 deletion in mouse neutrophils has no significant impact in CXCL1/ KC- or fMLP-induced migration, but led to significant cell death. Herein we established a novel genetic mouse model to study the role of CD177 and found that CD177 plays an important role in neutrophils. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS CD177,neutrophil, mouse model, genetic deletion ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CD177 is a polymorphic gene that has been linked to several important clinical diseases including polycythemia vera, Wegner's granulomatosis,and immune mediated neonatal neutropenia (Lalezari et al.，1971；Bettinotti et al.，2002; Caruccio et al.， 2006). The NB1/CD177 glycoprotein was initiallyidentified in several cases of neonatal neutropenia (Lalezari et al.,1971),where the maternal antibodies react specificallywith neonatal neutrophil-specific epitope HNA-2a derived from NB1 glycoprotein.In several cases of transfusion-related acute lung injury，CD177-specific antibodies from donor blood were identified as the primary cause (Bux et al.，1996).CD177 has been established as a diagnostic marker for various myeloproliferative diseases including polycythemia vera, thrombocythemia,and idiopathic myelofibrosis (Stroncek etal.，2004;Sirhan et al.，2005；Martini et al.，2006； Michiels et al.，2007).This 58-64 kDa glycophosphatidylinositol (GPl)-linked N-glycosylated extracellular surface protein (Goldschmeding et al.,1992；Dillon et al.,2oo8) is expressed on a subpopulation of neutrophils (Matsuo et al.， 2000). In general, $2 0 \\% - 8 0 \\%$ of circulating neutrophils are CD177 positive，with $3 \\% - 5 \\%$ of population having no CD177+ neutrophils (Matsuo et al., 2000). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CD177 belongs to the uPAR/CD59/Ly6 snake toxin superfamilyand is conserved in many species (Kissel etal., 2001; Stroncek，2007).While percentages of ${ \\mathsf { C D } } 1 7 7 ^ { + }$ circulating neutrophils are constant in the same individuals (Goldschmeding et al., 1992; Stroncek et al., 1998), CD177 mRNAand proteinexpressionare increased inresponse to inflammatory stimulation.Granulocyte colony stimulating factor(G-CSF） strongly induces CD177 expression (Stroncek et al., 1998). Expression of CD177 is also altered during pregnancy(Caruccio et al., 2oo3) and during severe bacterial infections (Gohring et al.,20o4). The function of CD177 in neutrophil biology is largely unknown.Recent literature indicates that CD177 mediates themigration ofneutrophils across endothelial cells via interactions with proteinase 3 (Kuckleburg et al.，2012；Kuckleburg and Newman,2013) and PECAM-1 (CD31) (Sachs et al.，2007；Bayat et al., 2010),as well as the degranulation and superoxide generation in a Mac-1-dependent manner (Jerke et al.，2011). These in vitro studies suggest a role for CD177 in neutrophil transmigration.However，a recent study indicated that CD177'and $\\mathtt { C D 1 7 7 ^ { + } }$ neutrophils accumulate similarly in the peritoneal cavity of human peritonitis patients (Wang et al., 2013)，suggesting that CD177 expression in neutrophils provides no transmigration advantage into this site. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using a murine CD177 knockout model, the present study demonstrates that CD177 plays a crucial role in neutrophil viability,but has no impact on chemotaxis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CD177 mRNA expression is increased in human neutrophils following pulmonary endotoxin instillation and in neutrophils isolated from septic patients ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To understand how neutrophils respond to bacterial stimulus atthe transcriptional level,weanalyzedapublishedmicroarraydataset (GSE2322) (Coldren et al.,2006) using circulating neutrophils before and after bacterial endotoxin (LPS) instillation，and neutrophils from bronchoalveolar lavage (BAL）after endotoxin instillation from human volunteers. Endotoxin treatment alone did not induce CD177 expression inpurified blood neutrophils in vitro (Fig.1A).However, CD177 is the most significantly upregulated gene (13 fold induction） in circulating neutrophils among all the genes inducedby endotoxin in vivo (Table1and Fig.1A).Another 13 genes were co-upregulated with CD177 with a more than two fold increase,and $P$ values less than O.05 (Table1).The expression of CD177 mRNA was also high after pulmonary endotoxin exposure (Table1 and Fig.1A).The significant upregulation of CD177in both circulating and airway neutrophils implies an important role for CD177 in neutrophil function in response to bacterial infection in the lung.As expected，pulmonary endotoxin exposure leads to significantly elevated pro-inflammatory pathwaysidentifiedby gene sets enrichment analysis (GSEA) (Subramanian et al., 2005),including the IL-1R pathway, TH1/TH2 pathway, LPSinduced inflammatory pathway and other pathways related to inflammation (Fig.1B, Tables S1-3). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Toexamine the influence of bacterial infection on CD177 expression，we downloaded another dataset GSE5772 (Tang et al.,20o7) profiling neutrophil transcripts from normal individuals or septic patients with gram-negative，grampositive,or mixed bacterial infections.We found that only septic patients with mixed bacterial infections exhibited significantly increased CD177 expression in their neutrophils; whereas septic patients infected with either gram-negative or gram-positive bacteria had a moderate but not significant increase of CD177 expression (Fig.1C).These data indicate that CD177 expression in neutrophils can be induced by bacterial infection．Induction of CD177，however，isnot necessarily mediated through toll-like receptor-mediated signaling since in vitro treatment with endotoxin alone failed to induce CD177 expression. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Generation of CD177 genetic knockout mouse models ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To understand the physiological role of CD177 in neutrophils, we generated a CD177 genetic knockout mouse by deleting the whole mouse CD177 gene locus via homologous recombination (Fig.2A).We developed a genotyping protocol to differentiate wild type (wt, $C D 1 7 7 ^ { + / + }$ )，heterozygous (he， $C D 1 7 7 ^ { + / - 1 }$ ），or homozygous(ko， $C D 1 7 7 ^ { \\prime - } )$ animals (Fig. 2B). ${ \\mathsf { L } } { \\mathsf { y } } { \\mathsf { - } } { 6 } { \\mathsf { G } } ^ { + }$ neutrophils from $C D 1 7 7 ^ { - 1 - }$ mice lack mRNA and surface expression of CD177,indicating loss of CD177 at both the RNA and protein levels (Fig.2C and 2D, P2 gate).As observed in human，neither lymphocytes (R1 gate) normonocytes (P5 gate) expressed CD177 in wt mice (Fig. 2D). $C D 1 7 7 ^ { - }$ mice were fertile and litters were born at anormal Mendelian ratio without any discernible phenotype (data not shown).We collected various tissues from the $C D 1 7 7 ^ { - }$ mice for histological assessment and found no gross or fine histological differences between wt, $C D 1 7 7 ^ { + / - }$ and $C D 1 7 7 ^ { \\scriptscriptstyle { - } }$ mice (data not shown). Immunophenotyping of different lineages of immune cells was performed by flow cytometry.There was no significant difference in Tand B cell frequencies from all the compartments tested，including bone marrow,blood, thymus (data not shown),and spleen (Fig.3A).We did not see any major defects in myeloid lineages from the different compartments (Fig.3A-D).We did observe a significant decrease of CD11b+Ly-6C+Ly-6G+ circulating neutrophils from $C D 1 7 7 ^ { - }$ mice relative to WT and $C D 1 7 7 ^ { + / - }$ mice (Fig.3B), but no difference could be detected in the spleen (Fig.3A)， lymph nodes (Fig.3C)，and bone marrow (Fig. 3D). Our results indicate that CD177 is dispensable for normal neutrophil development in mouse bone marrow or distribution within secondary lymphoid tissues, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A C 1500 0.0008 101 0.193 0.143 0.007 T 0.008 500- 2 0 0 Con Endo Con Endo Endo Con Mix Gram- Gram+ Blood Blood BAL In vitro In vitro   \nB Biocarta_IL-1R_pathway SEKI_inflammatory _response_LPS_up Zhou_inflemmatory   \ntueteen 8 FD=0.00% 0.5 0.7 FDR=0.4% 0.5 0.3 PDR=1.3% 8 8 0.2 品 0.2 0.1 0.1 0.0 0.0 0.0   \n游 Zero cross at 5405 1 'ClassB' (negativelycorrelated 1 'ClassB'(negativelycorelated) 'ClassB' (negatively correlated) 0 2,500 5,0007,500 10,000 12,500 0 2,500 5,0007,500 10,000 12,500 0 2,500 5,000 7,500 10,00012,500 Endo<— neutrophils ->Con Endo<— neutrophils -→Con Endo<— neutrophils —>Con ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "which agrees with the observation that up to $5 \\%$ of individuals have normal neutrophil counts and function with no detectable CD177 expression (Matsuo et al., 2000). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CD177-deficiency leads to decreased neutrophil accumulationearlyafterinfection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Toexamine the role of CD177 in a bacterial infection model, we used a mouse model of Staphylococcus aureus skin infection.WTand $C D 1 7 7 ^ { \\scriptscriptstyle - }$ mice were infected with bacteria at day O.Skin was collected from infected mice，and $\\mathsf { C D } 1 1 \\mathsf { b } ^ { + } \\mathsf { L y } \\mathsf { - } 6 \\mathsf { C } ^ { + } \\mathsf { L y } \\mathsf { - } 6 \\mathsf { G } ^ { + }$ neutrophils were quantitated by flow cytometryat differentdaysafter infection.We found an initial significant decrease of neutrophils in wounded skin of $C D 1 7 7 ^ { - }$ mice at day one after administration of Staphylococcus aureus (Fig.4A).The trend was maintained at three daysafter infection,but the difference was not statistically significant between infected WT or $C D 1 7 7 ^ { - }$ mice (Fig. 4A). After seven days of infection when the wound was already recovered，there was no difference in neutrophil counts between the two groups (Fig. 4A).We also observed a significant decrease of CD11b+Ly- ${ \\cdot } 6 0 ^ { + }$ Ly-6G' monocytes in the wounded skin of $C D 1 7 7 ^ { \\scriptscriptstyle - }$ mice at day one after infection (Fig.4B) and there was no difference after 3 or 7 days of infection (Fig.4B)，which may reflect the importance of neutrophils in initial recruitment of monocytes.In the same model,we did not identify any significant difference in wound healing (Fig.4C)and body weight recovery (Fig.4D)after infection. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since it was reported that CD177'and $\\mathtt { C D 1 7 7 ^ { + } }$ neutrophilsaccumulate similarly in the peritoneal cavity of human peritonitis patients (Wang et al.，2013)，we included a thioglycollate-induced peritonitis model to examine the effect of CD177 on neutrophil accumulation into the peritoneal cavity. Congruently,we did not find a significant difference in totalperitonealCD11b+Ly6C+Ly6G+neutrophils or CD11b+Ly6C+Ly6G\" monocytes between WT and $C D 1 7 7 ^ { - 1 - }$ mice (Fig. 5A and 5B), confirming that CD177 has no role in peritoneal accumulation of neutrophils in peritonitis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4111bc80851412cb85a301667cc38fc55ddbe0b4e1a294338a26e9edce63a6a6.jpg",
+        "table_caption": [
+            "Table 1. Genes were induced by pulmonary endotoxin treatment "
+        ],
+        "table_footnote": [
+            "GEOdatasetGSE2322wasdowloadedincldingtranscriptsfromcirculatingneutrophilsandbronchoalveolarlavageneutrophilsotaind fromumanvountersfoeadfteedotoxinistiltioGenstateresinifcantlyducedydotointreatmetarelistedit least two-fold change and $P$ values less than 0.05. $ { n } = 1 4$ forcirculating neutrophils prior to endotoxin treatment; $n = 1 7$ for circulating neutrophils post endotoxin treatment; $n = 1 7$ for airway neutrophils post endotoxin treatment. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Probe_ID</td><td rowspan=\"2\">Gene symbol</td><td colspan=\"2\">Blood Neuafter/before endotoxin</td><td colspan=\"2\">BAL Neu/Blood Neu</td></tr><tr><td>Fold change</td><td>P value</td><td>Fold change</td><td>P value</td></tr><tr><td>219669_at</td><td>CD177</td><td>12.98</td><td>4.11 × 10-3</td><td>20.34</td><td>4.34 × 10-3</td></tr><tr><td>203021_at</td><td>SLPI</td><td>3.48</td><td>1.28 × 10-3</td><td>9.11</td><td>1.49 × 10-5</td></tr><tr><td>207500_at</td><td>CASP5</td><td>3.25</td><td>5.98 × 10-3</td><td>15.66</td><td>1.29 × 10-4</td></tr><tr><td>204860_s_at</td><td>NAIP</td><td>3.05</td><td>8.37 × 10-4</td><td>4.03</td><td>1.33 × 10-2</td></tr><tr><td>209369_at</td><td>ANXA3</td><td>2.97</td><td>2.71 × 10-3</td><td>4.48</td><td>6.84 × 10-6</td></tr><tr><td>208771_s_at</td><td>LTA4H</td><td>2.58</td><td>6.06 × 10-4</td><td>4.20</td><td>1.79 × 10-3</td></tr><tr><td>200985_s_at</td><td>CD59</td><td>2.55</td><td>7.02 × 10-3</td><td>3.94</td><td>3.44 × 10-5</td></tr><tr><td>210166_at</td><td>TLR5</td><td>2.55</td><td>2.80 × 10-4</td><td>2.99</td><td>4.67 × 10-3</td></tr><tr><td>200984_s_at</td><td>CD59</td><td>2.53</td><td>1.40 × 10-3</td><td>3.60</td><td>2.48 × 10-5</td></tr><tr><td>203233_at</td><td>IL4R</td><td>2.51</td><td>1.28 × 10-4</td><td>2.34</td><td>6.66 × 10-4</td></tr><tr><td>201554_x_at</td><td>GYG1</td><td>2.45</td><td>1.49 × 10-3</td><td>3.60</td><td>2.60 × 10-7</td></tr><tr><td>217823_s_at</td><td>UBE2J1</td><td>2.27</td><td>7.10 × 10-4</td><td>2.30</td><td>1.19 × 10-4</td></tr><tr><td>209835_x_at</td><td>CD44</td><td>2.22</td><td>2.53 × 10-3</td><td>21.12</td><td>5.31 × 10-10</td></tr><tr><td>206697_s_at</td><td>HPR</td><td>2.14</td><td>8.11 × 10-3</td><td>2.61</td><td>2.89 × 10-2</td></tr><tr><td>212135_s_at</td><td>ATP2B4</td><td>2.09</td><td>4.05 × 10-5</td><td>2.29</td><td>1.78 × 10-3</td></tr><tr><td>204232_at</td><td>FCER1G</td><td>2.05</td><td>6.75 × 10-4</td><td>4.07</td><td>1.47 × 10-7</td></tr><tr><td>212136_at</td><td>ATP2B4</td><td>2.01</td><td>3.80 × 10-3</td><td>2.32</td><td>5.98 × 10-3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CD177-deficiency leads to increased neutrophil cell death ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since CD177 is reported to be involved in neutrophil chemotaxis and transmigration，we examined the impact of CD177 on neutrophil chemotaxis and found that CD177- deficiency have no significant impact on CXCL1-and fMLPinduced chemotaxis when using naive bone marrow cells (Fig.6A),or using activated neutrophils present in thioglycolate-induced peritoneal exudate cells (Fig.6B). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To identify the potential reason why CD177-deficiency resulted in significantly fewer neutrophils in the skin early afterbacterial infection，we searched GEO profilesand found that deletion of $1 \\mathsf { K K } \\mathsf { \\beta }$ led to a significant increase in CD177 expression from neutrophils (Fig.6C). IKKβ is a wellknown factor whose inactivation leads to neutrophilia in the mouse and human due to increased neutrophil survival (Hsu et al.,2011). Curiously,we found that CD177-deficiency led to increased cell death of bone marrow neutrophils when cultured ex vivo (Fig.6D), suggesting that CD177 could be the downstream effector of IKKβ deletion leading to increased neutrophil survival. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Here we established a novel CD177 genetic deletion model to study its role in neutrophil biology.We found that CD177 is onlyexpressed on neutrophils but not monocytes or lymphocytes (Fig. 2)，similar to the expression patterns in human. Although CD177 had been suggested to serve as an adhesive molecule mediating migration towards chemokine gradients in human neutrophils (Sachs et al., 20o7；Bayat et al.,2010; Jerke et al.,2011),we did not find any role for CD177 in promoting mouse neutrophil migration in response to CXCL1and fMLP. Instead,we found decreased neutrophil counts in blood and infected skin from the CD177 ko animals.The CD177-deficiency led to decreased survival of bonemarrow neutrophils ex vivo,which could potentially be used to explain the decreased neutrophil phenotype in CD177 ko mice.Among the many factors that have been shown to be involved in neutrophil death, $1 \\mathsf { K K } \\mathsf { \\beta }$ hasattracted attention given its role in inflammatory diseases and cancer (Hsu et al.,2011).However, one of the common complications for $1 \\mathsf { K K } \\mathsf { \\beta }$ inhibition in patients is neutrophilia (Hsu et al., 2011),which isalso observed in mice when $1 \\mathsf { K K } \\mathsf { \\beta }$ isdeleted in the myeloid lineage.The $1 \\mathsf { K K } \\beta$ deletion was found to increase neutrophil life span by inducing pro-survival molecules (Hsu et al., 2011). CD177 is upregulated in neutrophils with IKKβ deletion and at the same time is involved in neutrophil survival (Fig.6),suggesting that CD177 could be one of the factors mediating $1 \\mathsf { K K } \\mathsf { \\beta }$ -inhibition-induced survival and neutrophilia. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/92f119b1bbd1e4db533d20cdfd9024f83b73b1ec48b93614315a65cca97a5b87.jpg",
+        "img_caption": [
+            "Figure2.Geneticdeletionof CD177inmice.(A)Schematicdepictionof theCD177targeting construct.TheentireCD177locus wasreplaced byLacZand Neomycin byhomologous recombination.(B)Imagerepresentativeforgenotyping CD177genetic knock out mice.GenomicDNAwaspurfiedfromtaillipsandamplified with specificprimerslistedinthe Materialsand Methods.he: heterozygous knockout; ko: homozygous knockout; wt: wildtype. (C)mRNA expresionofCD177inbone marrowcels fromWTor $C D 1 7 7 ^ { \\scriptscriptstyle - }$ mice,analyzed by real-time PCR, $n = 3$ (D) Surface expression of CD177 in blood and bone marrow cells from WT or $C D 1 7 7 ^ { \\scriptscriptstyle - }$ mice. Blood and bone marrow cells (marrow) were collected and stained with anti-Ly-6G-FITC,and anti-CD177-PE antibodies,followed by flow cytometry, $n = 3$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Another interesting observation is that CD177-deletion only impacts neutrophil numbers in blood and bacteria-infected skin,but not in bone marrow or secondary lymphoid tissues. These results suggest that the role of CD177 in neutrophil survival depends on the context where neutrophils are located and if other survival signals exist. It is known that neutrophils are adhesive and interact with many cell types (Geering et al., ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2013). Some of the cell-cell interactions provide strong survival signal for neutrophils (Geering et al.,2013). Upon infection,however, neutrophils are recruited from the bone marrow microenvironment andlosethesepro-survival signals. Importantly，certain infections lead to an upregulation of CD177 on human neutrophils (Fig.1), leading to potentially prolonged neutrophil survival for efficient clearance of the bacteria.It isworth noting that CD177may facilitatebut isnot required for survival,since there are stillsignificant numbers of neutrophils in the blood of CD177 ko mice.Human CD177- negative neutrophils may also utilize alternative survival signals since $3 \\% - 5 \\%$ of individuals who lack CD177 expression on their neutrophils have normal neutrophil counts and a normal defense towards bacteria(Stroncek etal.,2o04).An interesting future avenue would be if the deletion of CD177 in human CD177-positive neutrophils has an impact on their survival under physiological or pathological conditions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/06012f48fc5827018c77a9f202c6bcc4ce50987674277db17acacb725b4e1a13.jpg",
+        "img_caption": [
+            "Figure 3. Normal development of myeloid cell lineages in $c D 1 7 7 ^ { \\scriptscriptstyle { I ^ { - } } }$ mice.(A) Splenic cells from seven-week-old mice were stainedwithanti-CD45,anti-Ly-6C,anti-Ly-6G,anti-CD11b，anti-CD11c,anti-CD3,anti-CD4,anti-CD8,andanti-B220antibodies, followed with flow cytometry $( n = 4  – 5 )$ . (B-D) Seven-week old mice were euthanized and different organs were collected.Single cell suspensionserepreparedforimmunolabelingwithdiferentantibodiesandanalyzedwithflowcytometryBloodcels (B)single cellsfrom lymphnodes(C)，orbone marrowcells (D)werelabeledanti-CD45，anti-Ly-6C,anti-Ly-6G，anti-CD11b,anti-CD11c, followed with flow cytometry. $\\mathsf { C D 4 5 ^ { + } C D 1 1 b ^ { + } L y - 6 C ^ { + } L y - 6 G ^ { + } }$ cells are defined as neutrophils;CD45+CD11b+Ly-6C+Ly-6G\" cels are defined as monocytic cells. $n = 4 – 5$ $^ { \\star } P < 0 . 0 5$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The skin infection model clearly shows that CD177 ko mice have an early decrease in neutrophils in infected skin, but the initial neutrophil defect has no significant impact on bacterial clearance as reflected by the normal wound size and body weight recovery (Fig.5). It has beenacknowledged that neutrophils,and as well as other leukocytes,need to maintain a critical threshold concentrationfor efficient clearance of infection (Li et al.，2002，2004). This could explain the normal recovery in CD177 ko mice where reduced neutrophil numbers are still in suficient quantity to eliminate Staphylococcus aureus. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A role for CD177 in neutrophil survival could be dependentupon particular physiological or pathological conditions. Ramirez-Velazquez et al. showed that $\\mathsf { C D 1 7 7 ^ { + } }$ neutrophils co-expressing IL-17 are increased in moderate to severe allergic asthma (Ramirez-Velazquez et al., 2013). Our analysis based on published datasets demonstrated that CD177 expression is increased in circulating and BAL neutrophils whenhumanvolunteerswere instilled with endotoxin (Fig.1),a condition mimicking bacterial infection.All together,we believe that in certain respiratory diseases,especially those that can be exacerbated by secondary bacterial infection and involve neutrophilic inflammation (Simpson et al.，2007； Simpson et al.， 2008;Essilfie et al.， 2011), CD177 could be a potential contribution to the accumulation of neutrophils in the lung airway.This process,if uncontrolled, could lead to tissue damage and more severe disease.Thus CD177 may provide a target to treat respiratory diseases that are worsened by uncontrolled neutrophilic inflammation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CD177 knockout mice construction ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "All animals were maintained under specific pathogen-free conditions according to the IACUC guidelines.The CD177 knockout mouse strain used for this research project was created from ES cell clone (12120a-B11),obtained from the KOMP Repository (www.komp.org) and generated by Regeneron Pharmaceuticals, Inc(Valenzuelaetal., 2003).We purchased mouse sperm carrying the CD177 deletion allele from the UC Davis KOMP Repository and sent it to Jackson Laboratories for in vitro fertilization.Seven mice were obtained with 3 carrying a heterozygous deletion of CD177.Mice were backcrossed to C57BL/ 6 for 6 generations.Genotyping of the CD177 knockout mice was performed through standard PCR procedures.Primers used for genotyping are:WTallele (135 bp):forward primer ${ \\boldsymbol { 5 } } ^ { \\prime }$ -GGTGATCTGG CTCAGGACAG ${ \\cdot } 3 ^ { \\prime }$ and reverse primer ${ \\boldsymbol { 5 } } ^ { \\prime }$ -CACCTGTGGGTGTAGGT ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6b0dbfd5f963051055c57607b534df2ceeafd0c04b10cfb8c54351248088332.jpg",
+        "img_caption": [
+            "Figure 4.CD177 deficiency leads to decreased neutrophil accumulation in infected skin. (A) CD45+CD1b+Ly-6C+Ly-6G+ neutrophils inthewounded skinof Staphylococcus Aureu-infectedmiceatdferentdays.(B)CD1b+F4/80+macrophages nthe wounded skinof Staphylococcus Aureus-infected mice.Woundedarea (C)and body weight (D)after Staphylococcus Aureus infection. $^ { \\star } P$ values $< 0 . 0 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c75a6c54401d185d9aa4b31f33634dbd733cffcfd37aaabd78fab4ba2fcd8593.jpg",
+        "img_caption": [
+            "Figure 5.CD177deficiencyhas no impacton peritonealaccumulationof neutrophils in thioglycolate-inducedperitonitis. (A)Schematicshowingflowcytometrytodetermineneutrophilnumbers.Peritonealcelswerestainedwithantibodies,followedby flowcytometrytodeterminethetotal numbersof neutrophilsandmonocytes.(B)CD45+CD11b+Ly-6C+Ly-6G+neutrophilswere counted and graphed. (C) $C D 4 5 ^ { + }$ CD11b+Ly-6C+Ly-6G' monocytes were graphed. $n = 6$ in WT group and $\\begin{array} { r } { n = 8 } \\end{array}$ in $C D 1 7 7 ^ { \\scriptscriptstyle - }$ group. $P$ values were indicated. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AGC- $3 ^ { \\prime }$ ; mutant allele $( 5 6 3 ~ \\mathsf { b p } )$ :forward primer ${ \\pmb 5 } ^ { \\prime }$ -ATTCGGCTATGA CTGGGCAC ${ \\cdot } 3 ^ { \\prime }$ and reverse primer ${ \\boldsymbol { 5 } } ^ { \\prime }$ -TGAATCCAGAAAAGCGGC CA-3'. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A 50 B 30   \n0% sle eieelit% 20 10 + 平 0 中 品生 0 wt kowt kowt ko wtko wtko hrs 1 2 3 3 3 10 nmol/L CXCL1 fMLP CXCL1   \nC D 7   \n62251 10 w % 20- 0 01 Ikkβ-- wt 0 2 4 6 18 Time (h) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Flow cytometric analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Single-cell suspensions were prepared from spleen，bone marrow, thymus and blood,and red blood cells were lysed with red blood lysis buffer containing 155 mmol/L $N H _ { 4 } C l$ ，12 mmol/L $N a H C O _ { 3 }$ and $0 . 1 \\ : \\mathrm { m m o l / L }$ EDTA.Cells were stained with different isotype controls or antibodies with different fluorophores,supplemented with CD16/CD32 FcR blockers.After being stained for $3 0 \\mathrm { m i n }$ ,cells were washed twice and fixed in PBS containing $1 \\%$ paraformaldehyde.Labeled cellswere collected ona FACS Canto II (BD Biosciences) orLSR II (BD Biosciences) using Diva acquisition software,and analyzed using FlowJo (TreeStar, Stanford,CA,USA).The following antibodies were used: anti-CD3 (145-2C11, Ebiosciences),anti-CD4 (GK1.5,Ebiosciences), anti-CD8 (53-6.7,Ebiosciences),anti-B220 (RA3-6B2,Ebiosciences), CD45 (30-F11，Ebiosciences)，Ly-6C (HK1.4，Ebiosciences)，Ly-6G (1A8,BD Pharmingen),CD11b (M1/70, Ebiosciences),and the ratantimouse CD177 mAb was developed in our own laboratory. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Thioglycollate-induced peritonitis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Eight-week old WTor $C D 1 7 7 ^ { \\scriptscriptstyle - }$ mice were injected i.p.with 1 mL of $4 \\%$ sterile thioglycollate.Four hours later，mice were anesthetized and peritoneal cells were recovered using $1 0 \\mathsf { m L }$ of ice cold PBS and stained with an antibody cocktail including anti-CD45,anti-CD11b, anti-Ly-6C， anti-Ly-6Gantibodiestoquantitateperitoneal neutrophils. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Transmigration assay ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Bone marrow cells or peritoneal cells harvested after thioglycollate stimulation were seeded into the top chamber of a modified Boyden chamber with $0 . 5 ~ { \\mu \\mathrm { m } }$ pore size filter.The lower chamber included medium containing 10 nmol/Lof $\\mathsf { C X C L 1 / K C }$ or left untreated.Three hours later,all cells were collected and stained with anti-CD11b,antiLy-6C,anti-Ly-6G antibodies to quantitate neutrophil migration into the lower chamber by flow cytometry.Random neutrophil transmigration was subtracted from the CXCL1-treated chambers. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Staphylococcusaureus skin infectionmodel ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A USA 100，methicillin sensitive，spa type O02 Staphylococcus aureus clinical isolate (347）was grown in TSB medium（ $( 1 . 7 \\%$ enzymatic digest of casein, $0 . 3 \\%$ enzymatic digest of soybean meal, $0 . 5 \\%$ NaCl, $0 . 2 5 \\%$ ${ \\sf K } _ { 2 } { \\sf H P O } _ { 4 }$ ， $0 . 2 5 \\%$ dextrose,pH7.3) overnight at $3 7 ^ { \\circ } \\mathsf { C }$ at200 rpm.Mid-logarithmic phase bacteriawere obtained after $2 . 5 \\mathsf { h }$ subculture of a1:1oo dilution of the overnight culture.Bacterial cellswere pelleted and resuspended in PBS.Spectrophotometric readingsofabsorbanceat $6 0 0 ~ \\mathsf { n m }$ wereusedtoestimate bacterial concentration,and $2 0 ~ \\mu \\iota$ ofStaphylococcusaureusat $5 \\times 1 0 ^ { 7 }$ colony forming units was used for inoculations.Mice were anesthetized with isoflurane,abdominal skin was shaved with Accuedge microtome blades(CardinalHealth,Dublin,OH) and exposed skin was gently stroked 15 times with 200 grit sandpaper. $2 0 ~ \\mu \\iota$ of bacterial suspension or PBS was applied to this surface and a gentle stream of air was aimed at the inoculation site until the inoculum suspension on the skinwas dry.Finally, infected skin sites were covered with a Band Aid for $1 \\ h$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The lesions and weight were recorded at day 0,1,3,7，10,14 and21 after infection.Digital photos of skin lesions were recorded andanalyzed for lesion area using the Image J Software.Skin lesions were then carefully excised.Single-cell suspensions from infected skin were prepared by incubating with $0 . 6 \\%$ trypsin for 90 min at $3 7 ^ { \\circ } \\mathsf { C }$ .Trypsin-digested skin was then chopped into small pieces and incubated with $5 0 0 ~ { \\mu \\ g / \\ m L }$ collagenase type I (Gibco BRL,Grand Island,NY,USA) for $9 0 ~ \\mathrm { { m i n } }$ at $3 7 ^ { \\circ } \\mathsf { C }$ and dissociated by passing through 16,18 and 20 gauge needles.The resulting cell suspensions were incubated for an additional $9 0 \\ \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathsf { C }$ to allow for recovery of surface antigens.All samples were passed through a $7 0 \\mu \\mathrm { m }$ filterand single cells were stained with a cocktail of antibodies includinganti-CD45,anti-CD11b,anti-Ly-6C,anti-Ly-6G, anti-F4/80 antibodies and analyzed by flow cytometry.The total cell recovery of various populationswas divided by the area of lesion skin and the resulting quotient was represented as cells/cm². ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Microarrayanalysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "GEO datasets GSE2322 (Coldren et al., 2006) and GSE5772 (Tang et al.,2007）were downloaded.Expression levels of CD177 were analyzedand compared in different patient groups.GSE2322 contains 58 samples representing transcript profiles from neutrophils under different in vitro and in vivo treatments.GSE5772 has 94 samples of neutrophil transcripts from patients without sepsis,or patients with infections of gram-negative，gram-positive or mixed bacterial infections. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Statistics ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Statistical significance was determined using non-parametric Twotailed Mann-Whitney test without assuming Gaussian distribution. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We sincerely thank Drs.Tang and Coldren for sharing the microarray datasets.The CD177 mouse strain used for this research project was created from an ES cell clone(12120a-B11) obtained from the KOMP Repository (www.komp.org) and generated by Regeneron Pharmaceuticals, Inc. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by NIH grant CA158055 (W.Z.) and NIH T32 GM007337 (N.B.).Additionally，W.Z.was supported by departmental start up funds,and seed grants from the Department of Pathologyatthe University of lowa Carver College ofMedicine and from the American Cancer Society. G.H.L.was supported by the National Basic Research Program (973 Program) (Nos.2015CB964800 and 2014CB964600), the Strategic Priority Research Program of the Chinese Academy of Sciences (XDA01020312)，the National Natural Science Foundation of China(Grant Nos.81271266，31222039, 81330008,31201111,and 81300677), Beijing Natural Science Foundation (71410o5),and the Thousand Young Talents program of China, and State Key Laboratory of Drug Research (SIMM1302KF-17). Q.X. was supported bya scholarship from the China Scholarship Council. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "COMPLIANCEWITHETHICSGUIDELINES",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "QingXie，JuliaKlesney-Tait,Kathy Keck,Corey Parlet,Nicholas Borcherding，Ryan Kolb，Wei Li，Lorraine Tygrett，Thomas Waldschmidt,Alicia Olivier,Songhai Chen,Guang-Hui Liu,Xiangrui Li, and Weizhou Zhang declare that they have no conflict of interest. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This article does not contain any studies with human subjects performed by the any of the authors.For studies with animals,all institutional and national guidelines for the care and use of laboratoryanimalswere followed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "OPENACCESS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Thisarticle is distributed under the terms of the Creative Commons Attribution License which permitsany use， distribution，and reproduction in any medium，provided the original author(s)and the source are credited. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Bayat B,Werth S,Sachs UJ,Newman DK,Newman PJ,Santoso S (2010)Neutrophil transmigration mediated by the neutrophilspecific antigen CD177 is influenced by the endothelial S536 N dimorphism of platelet endothelial cell adhesion molecule-1. JImmunol 184:3889-3896 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Bettinotti MP, Olsen A, Stroncek D (2002) The use of bioinformatics to identify the genomic structure of the gene that encodes neutrophil antigen NB1, CD177. Clin Immunol 102:138-144   \nBux J，Becker F， Seeger W,Kilpatrick D,Chapman J,Waters A (1996） Transfusion-related acute lung injury due to HLA-A2- specific antibodies in recipient and NB1-specific antibodies in donor blood.Br J Haematol 93:707-713   \nCaruccio L,Betinotti M，Matsuo K,Sharon V, Stroncek D (2003) Expression of human neutrophil antigen-2a (NB1) is increased in pregnancy. Transfusion 43:357-363   \nCaruccio L,Bettinotti M,Director-Myska AE,Arthur DC,Stroncek D (2006)The gene overexpressed in polycythemia rubra vera, PRV-1,and the gene encoding a neutrophil alloantigen, NB1,are alleles of a single gene, CD177, in chromosome band $1 9 9 1 3 . 3 1$ ： Transfusion 46:441-447   \nColdren CD, Nick JA, Poch KR,Woolum MD,Fouty BW, O'Brien JM, Gruber MP,Zamora MR,Svetkauskaite D,Richter DA etal (2006) Functional and genomic changes induced by alveolar transmigration in human neutrophils.Am JPhysiol Lung Cell Mol Physiol 291:L1267-L1276   \nDillon M, Minear J,Johnson J,Lannuti BJ(20o8)Expression of the GPlanchored receptor Prv-1 enhances thrombopoietin and IL-3-induced proliferation in hematopoietic cellines.Leuk Res 32:811-819   \nEssilfie AT,Simpson JL,Horvat JC,Preston JA,Dunkley ML,Foster PS，Gibson PG，Hansbro PM (2011） Haemophilus influenzae infection drives IL-17-mediated neutrophilic allergic airways disease.PLoS Pathog 7:e1002244   \nGeering B, Stoeckle C,Conus S, Simon HU (2013) Living and dying forinflammation:neutrophils，eosinophils，basophils.Trends Immunol 34:398-409   \nGohring K，Wolff J， Doppl W， Schmidt KL，Fenchel K，Pralle H, Sibelius U，Bux J (2004) Neutrophil CD177 (NB1 gp,HNA-2a) expression is increased in severe bacterial infections and polycythaemia vera.Br J Haematol 126:252-254   \nGoldschmeding R,van Dalen CM, Faber N, Calafat J, Huizinga TW, van der Schoot CE,Clement LT,von dem Borne AE(1992) Further characterization ofthe NB 1 antigen as a variably expressed 56-62 kD GPl-linked glycoprotein of plasma membranes and specific granules of neutrophils. Br J Haematol 81:336-345   \nHsu LC,Enzler T,Seita J,Timmer AM,Lee CY,Lai TY,Yu GY, Lai LC,Temkin V, Sinzig U et al (2011) IL-1beta-driven neutrophilia preserves antibacterial defense in the absence of the kinase IKKbeta.Nat Immunol 12:144-150   \nJerke U, Rolle S,Dittmar G,Bayat B, Santoso S, Sporbert A, Luft F, Kettritz R (2011) Complement receptor Mac-1 is an adaptor for NB1 (CD177)-mediated PR3-ANCA neutrophil activation.J Biol Chem 286:7070-7081   \nKissel K，Santoso S，Hofmann C， Stroncek D，Bux J (2001) Molecular basis of the neutrophil glycoprotein NB1 (CD177) involved in the pathogenesis of immune neutropenias and transfusion reactions. Eur J Immunol 31:1301-1309   \nKuckleburg CJ, Newman PJ (2013) Neutrophil proteinase 3 acts on protease-activated receptor-2 to enhance vascular endothelial cell barrier function.Arterioscler Thromb Vasc Biol 33:275-284   \nKuckleburg CJ，Tilkens SB，Santoso S，Newman PJ (2012) Proteinase 3 contributes to transendothelial migration of NB1- positive neutrophils. J Immunol 188:2419-2426   \nLalezari P,Murphy GB,Allen FH Jr(1971) NB1,a new neutrophilspecific antigen involved in the pathogenesis of neonatal neutropenia.J Clin Invest 50:1108-1115   \nLi Y, Karlin A, Loike JD,Silverstein SC (20o2)A critical concentration ofneutrophils is required for effective bacterial killing in suspension.Proc Natl Acad Sci U S A 99:8289-8294   \nLi Y,Karlin A,Loike JD,Silverstein SC (2004) Determination of the critical concentration of neutrophils required to block bacterial growth in tissues.J Exp Med 200:613-622   \nMartini M，Teofili L，Larocca LM (2006) Overexpression of PRV-1 gene in polycythemia rubra vera and essential thrombocythemia. Methods Mol Med 125:265-273   \nMatsuo K，Lin A，Procter JL，Clement L，Stroncek D (2000) Variations in the expression of granulocyte antigen NB1.Transfusion 40:654-662   \nMichiels JJ,Bernema Z,Van Bockstaele D,De Raeve H,Schroyens W(2007) Current diagnostic criteria for the chronic myeloproliferative disorders (MPD) essential thrombocythemia (ET)，polycythemia vera (PV) and chronic idiopathic myelofibrosis (CIMF). Pathol Biol (Paris) 55:92-104   \nRamirez-Velazquez C,Castillo EC,Guido-Bayardo L,Ortiz-Navarrete V (2013) IL-17-producing peripheral blood CD177 $^ +$ neutrophils increase in allergic asthmatic subjects.Allergy Asthma Clin Immunol 9:23   \nSachs UJ,Andrei-Selmer CL,ManiarA,Weiss T,Paddock C,Orlova VV, Choi EY, Newman PJ,Preissner KT,Chavakis Tet al (2007) The neutrophil-specific antigen CD177 is a counter-receptor for platelet endothelial cell adhesion molecule-1 (CD31).J Biol Chem 282:23603-23612   \nSimpson JL,Grissell TV,Douwes J, Scott RJ,Boyle MJ,Gibson PG (2007） Innate immune activation in neutrophilic asthma and bronchiectasis.Thorax 62:211-218   \nSimpson JL，Powell H，Boyle MJ，Scott RJ，Gibson PG (2008) Clarithromycin targets neutrophilic airway inflammation in refractoryasthma.Am JRespir Crit Care Med 177:148-155   \nSirhan S,Lasho TL，Elliott MA,Tefferi A (2005) Neutrophil polycythemia rubra vera-1 expression in classic and atypical myeloproliferative disorders and laboratory correlates. Haematologica 90:406-408   \nStroncek DF (2007） Neutrophil-specific antigen HNA-2a，NB1 glycoprotein,and CD177.Curr Opin Hematol 14:688-693   \nStroncek DF,Jaszcz W,Herr GP,Clay ME，McCullough J (1998) Expression of neutrophil antigens after 10 days of granulocytecolony-stimulating factor.Transfusion 38:663-668   \nStroncek DF,Caruccio L，Bettinotti M (2004) CD177:a member of the Ly-6 gene superfamily involved with neutrophil proliferation and polycythemia vera.J Transl Med 2:8   \nSubramanian A，Tamayo P,Mootha VK,Mukherjee S,Ebert BL, Gillette MA,PaulovichA,Pomeroy SL,Golub TR,Lander ES et al (2005）Gene set enrichment analysis:a knowledge-based approach for interpreting genome-wide expression profiles.Proc NatlAcad Sci U SA 102:15545-15550   \nTang BM,McLean AS,Dawes IW,Huang SJ,Lin RC (2007)The use of gene-expression profiling to identify candidate genes in human sepsis.AmJRespir Crit Care Med 176:676-684   \nValenzuela DM,Murphy AJ,Frendewey D,Gale NW,Economides AN,Auerbach W,Poueymirou WT,Adams NC,Rojas J,Yasenchak J et al (20o3) High-throughput engineering of the mouse genome coupled with high-resolution expression analysis.Nat Biotechnol 21:652-659   \nWangL，Ge S,Agustian A,Hiss M,Haller H,von Vietinghoff S (2013) Surface receptor CD177/NB1 does not confer a recruitment advantage to neutrophilic granulocytes during human peritonitis.Eur J Haematol 90:436-437 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,531 @@
+# 基于动态事件触发机制的网络化系统有限频域故障检测
+
+朱淇1,2，姜顺1,2，潘丰1,2
+
+(1.江南大学 物联网工程学院，江苏 无锡 214122;2.轻工过程先进控制教育部重点实验室，江苏 无锡 214122)
+
+摘要：针对通信带宽受限的网络环境，引入一种基于动态事件触发机制的数据传输策略，研究了一类非线性网络化系统在随机网络攻击下的有限频域故障检测问题。首先，在考虑故障灵敏性和扰动鲁棒性的前提下，利用状态增广的方法将原系统的故障检测问题转换成 $H _ { - } / H _ { \infty }$ 滤波问题；然后，在考虑扇区有界非线性和随机网络攻击的情况下，将故障的有限频域特性考虑到 $H _ { - }$ 性能指标的设计中，并结合有限频输入特性，给出有限频故障输入下的故障检测滤波器与动态事件触发机制的联合设计算法；最后，通过搅拌釜式反映器系统的仿真算例验证了该方法的有效性。
+
+关键词：故障检测；网络化系统；动态事件触发机制；有限频域；网络攻击中图分类号：TP doi:10.19734/j.issn.1001-3695.2022.02.0081
+
+Dynamic event-triggered fault detection for networked systems in finite-frequency domain
+
+Zhu $\mathrm { Q i } ^ { 1 , 2 }$ , Jiang Shun1,2†, Pan Feng1,2 (1.ColegeofInternetofThings Engineeing,Jiangnan UniversityWuxi Jiangsu 214122,China;2.KeyLaboratoryof Advanced Process Control ofLight Industry (Ministry of Education),Wuxi Jiangsu 214122,China)
+
+Abstract:This paper investigated thefault detection problem in finite-frequencydomain fornonlinear networked systems understochasticcyber-atacks.To save limited network resource,this paper introduced anovel dynamicevent-triggered scheme.Firstlyundertheconsideratiooffaultsensitivityanddisturbancerobustne,thepaperconvertedtheaddreedfault detection problem into an auxiliary $H _ { - } / H _ { \infty }$ filtering problem by augmenting the states of the original system and the fault detection filter.Taking sector bounded nonlinearityand stochastic cyber-atacks intoconsideration,the designof $H _ { - }$ performanceindex included the frequencycharacteristics of fault signals.Combinedwith finite-frequency input characteristics,the paper proposedthe joint designalgorithm forfault detection filter and dynamic event-triggered scheme under the finite-frequencyfault input.Finaly,asimulationexampleof stired tankreactor systemverifiedthe effectiveness of the proposed method.
+
+Keywords:faultdetection; networked systems; dynamic event-triggered scheme; finite-frequencydomain;cyber-attacks
+
+# 0 引言
+
+网络化系统是指被控对象和传感器、控制器、执行器以及其他系统组件之间通过共享通信网络连接而形成的复杂控制系统。随着通信技术和计算机网络技术的高速发展，控制系统也向网络化与智能化方向转变，网络化系统逐渐被广泛地应用于实际工业领域中，如移动无线传感器网络[1]、无人机[2]、远程医疗[3]等。然而，共享通信网络为网络化系统带来诸多便利的同时，也带来了一系列挑战，如网络时延[4]、数据丢包[5]、通信约束[6等问题，甚至引起故障。近年来，随着人们对控制系统可靠性与安全性要求的不断提高，针对非理想环境下网络化系统的故障检测问题已成为控制领域的热点研究问题[7,8]。
+
+在另一个研究前沿，为了有效地利用系统中有限的通信资源，事件触发机制应运而生[9,10]。其主要策略是通过给出一个预先设定的事件触发条件来判断是否将测量输出传输至滤波器，这是一种"按需执行"的非等周期触发方式。文献[11,12]在故障检测方法中引入了静态事件触发机制，当最新触发时刻的测量值与当前测量值之间的差值超出给定阈值时，更新数据传输的触发时刻。然而，上述静态事件触发机制的低触发参数灵活度限制了其适用范围，因此有学者在此基础上，提出了动态事件触发机制[13\~15]。文献[16]考虑了一类连续时间非线性随机系统的故障检测问题，通过设计自适应事件触发控制率，使得触发函数的阈值随着测量输出的变化动态调整。文献[17]针对离散时间网络化系统，在设计故障检测观测器的基础上，构建了基于集员估计的残差评估动态阈值，进一步降低网络资源占用且满足更为灵活的系统设计要求。此外，在网络信道传输数据过程中，系统可能会遭受网络攻击。与周期采样机制相比，事件触发机制下按需发送的数据包数量减少，但对系统性能的影响更大，若这些数据包被网络攻击窜改，则会破坏系统的稳定性[18]。因此，在针对动态事件触发机制下故障检测的研究中设计抵御网络攻击的故障检测策略至关重要。
+
+需要注意的是，上述基于事件触发机制的故障检测方法只考虑了全频域内系统的整体性能，然而实际工程中的故障信号往往发生在有限频率范围内，例如：缓变故障处于低频域，卡死型故障的频率为零[9]。为了更好地刻画有限频域特性，文献[19]提出的广义Kalman-Yakubovich-Popov (KYP)引理提供了一种处理故障信号频率特性的有效方法。为了将广义KYP引理的适用范围推广至非线性系统，文献[20]研究了基于静态事件触发机制的有限频域故障检测问题，并将非线性误差动态系统转换成一类线性时变参数系统来处理。然而，目前基于动态事件触发机制的非线性网络化系统的有限频域故障检测问题尚未引起关注，更不用说考虑网络攻击的情况，这也是本文研究的主要动机和出发点。
+
+基于以上讨论，本文研究了随机网络攻击下非线性网络化系统的有限频域故障检测问题，主要贡献体现在：a）所设计的故障检测滤波器同时考虑 $H _ { \infty }$ 扰动鲁棒性能和 $H _ { - }$ 故障敏感性能；b)为了进一步节约网络资源，采用一种具有更高灵活度参数的动态事件触发机制；c）依据有限频域不等式的时域解释[21]，直接在时域上设计有限频域故障检测滤波器。
+
+# 1 问题描述
+
+# 1.1系统建模
+
+考虑离散时间非线性网络化系统如下：
+
+$$
+\begin{array} { r } { \left\{ \pmb { x } ( k + 1 ) = \pmb { A } \pmb { x } ( k ) + \Phi ( k , \pmb { x } ( k ) ) + \pmb { B } \pmb { w } ( k ) + \pmb { F } \pmb { f } ( k ) \right. } \\ { \left. \left\{ \pmb { y } ( k ) = \pmb { C } \pmb { x } ( k ) + \pmb { D } \pmb { w } ( k ) \right. \qquad \right.} \end{array} 
+$$
+
+其中， $\boldsymbol { x } ( k ) \in \mathbb { R } ^ { n _ { x } }$ 为系统的状态向量， $w ( k ) \in \mathbb { R } ^ { n _ { w } }$ 为外部扰动且满足 $\boldsymbol { \ell } _ { 2 } [ 0 , \infty )$ 范数有界； $f ( k ) \in \mathbb { R } ^ { n _ { f } }$ 为待检测的有限频域故障信号；$\boldsymbol { y } ( k ) \in \mathbb { R } ^ { n _ { \mathrm { y } } }$ 是测量输出向量；系统参数矩阵 $A \ , B \ , F \ , C$ 和$\textbf {  { D } }$ 为已知的适维常数矩阵且 $( C , A )$ 可观测。非线性向量值函数 $\Phi ( k , x ( k ) )$ 满足如下扇形有界条件：
+
+$$
+\begin{array} { r l } & { \bigl [ \Phi ( k , x ( k ) ) - \Phi ( k , \hat { x } ( k ) ) - S _ { 1 } ( x ( k ) - \hat { x } ( k ) ) \bigr ] ^ { \mathrm { T } } } \\ & { \qquad \times \bigl [ \Phi ( k , x ( k ) ) - \Phi ( k , \hat { x } ( k ) ) - S _ { 2 } ( x ( k ) - \hat { x } ( k ) ) \bigr ] < 0 } \end{array}
+$$
+
+其中， $S _ { 1 }$ （204号 $S _ { 2 } \in \mathbb { R } ^ { n _ { x } \times n _ { x } }$ 为已知常数矩阵且 $\Phi ( k , 0 ) = 0$ 。
+
+故障信号所处的频率域可分为低频段、中频段与高频段，统一描述为如下集合：
+
+$$
+\Omega _ { \theta } \triangleq \{ \theta \in \mathbb { R } \mathrm { w } | \theta _ { 1 } \leq \theta \leq \theta _ { 2 } \}
+$$
+
+当 $0 < \theta _ { 2 } - \theta _ { 1 } \leq 2 \pi$ 时，式(3)中的集合 $\Omega _ { \theta }$ 表示中频段， $\theta _ { 1 }$ 和$\theta _ { 2 }$ 分别为中频段的下界和上界。
+
+当 $\theta _ { 1 } = - \theta _ { 2 } = - \theta _ { l }$ 时，式(4)中的集合 $\Omega _ { \theta }$ 表示低频段， $\theta _ { l }$ 为低频段的上界。
+
+$$
+\Omega _ { \theta } \triangleq \{ \theta \in \mathbb { R } \mathrm { w } | | \theta | \leq \theta _ { l } \}
+$$
+
+当 $\theta _ { 1 } = \theta _ { h }$ ， $\theta _ { 2 } = 2 \pi - \theta _ { h }$ 时，式(5)中集合 $\Omega _ { \theta }$ 表示高频段， $\theta _ { h }$ 为高频段的下界。
+
+$$
+\Omega _ { \theta } \triangleq \{ \theta \in \mathbb { R } \mathrm { w } | | \theta | \geq \theta _ { h } \}
+$$
+
+定义1考虑如下离散时间系统：
+
+$$
+\pmb { \eta } ( k + 1 ) = \pmb { A } \pmb { \eta } ( k ) + \pmb { B } \pmb { \nu } ( k )
+$$
+
+若在输入信号 $\nu ( k ) \in \ell _ { 2 } [ 0 , \infty )$ 的作用下，系统状态 $\pmb { \eta } ( k )$ 满足：
+
+$$
+\sum _ { k = 0 } ^ { \infty } [ \pmb { \eta } ( k + 1 ) - \pmb { \eta } ( k ) ] \big [ \pmb { \eta } ( k + 1 ) - \pmb { \eta } ( k ) \big ] ^ { \mathrm { T } } \le \bigg ( 2 \mathrm { s i n } \frac { \theta _ { l } } { 2 } \bigg ) ^ { 2 } \sum _ { k = 0 } ^ { \infty } \pmb { \eta } ( k ) \pmb { \eta } ^ { \mathrm { T } } ( k )
+$$
+
+$$
+e ^ { j \theta _ { f _ { c } } } \sum _ { k = 0 } ^ { \infty } \bigl [ \pmb { \eta } ( k + 1 ) - e ^ { j \theta _ { f _ { 1 } } } \pmb { \eta } ( k ) \bigr ] \bigl [ \pmb { \eta } ( k + 1 ) - e ^ { j \theta _ { f _ { 2 } } } \pmb { \eta } ( k ) \bigr ] ^ { \mathrm { T } } \le 0
+$$
+
+$$
+\sum _ { k = 0 } ^ { \infty } [ \pmb { \eta } ( k + 1 ) - \pmb { \eta } ( k ) ] \big [ \pmb { \eta } ( k + 1 ) - \pmb { \eta } ( k ) \big ] ^ { \mathrm { T } } \geq \left( 2 \sin \frac { \theta _ { h } } { 2 } \right) ^ { 2 } \sum _ { k = 0 } ^ { \infty } \pmb { \eta } ( k ) \pmb { \eta } ^ { \mathrm { T } } ( k )
+$$
+
+则称 $\nu ( k ) \in \ell _ { 2 } [ 0 , \infty )$ 分别为对应于 $[ - \theta _ { l } , \theta _ { l } ]$ 的低频输入，对应于 $[ \theta _ { 1 } , \theta _ { 2 } ]$ 的中频输入或对应于 $( - \infty , \ - \theta _ { h } ] \cup [ \theta _ { h } , + \infty )$ 的高频输入。式(7)\~(9)中的 $\theta _ { f }$ 表示故障信号 $f ( k )$ 的频率， $\theta _ { f _ { 1 } }$ 和$\boldsymbol { \theta } _ { f _ { 2 } }$ 分别表示故障频率范围的边界值， $\theta _ { f _ { p } } = ( \theta _ { f _ { 1 } } + \theta _ { f _ { 2 } } ) / 2$ ，$\theta _ { f _ { c } } = ( \theta _ { f _ { 2 } } - \theta _ { f _ { 1 } } ) / 2$ 。
+
+注释1定义1借鉴了文献[21]中对于有限频域不等式的时域解释。输入信号的有限频域特性表现为对系统状态的驱动能力，如：频域处于 $[ - \theta _ { l } , \theta _ { l } ]$ 的低频输入 $\pmb { \nu } ( k ) \in \ell _ { 2 } [ 0 , \infty )$ 满足不等式(7)，意味着在输入 $\nu ( k )$ 的作用下，系统状态 $\pmb { \eta } ( k )$ 的相对变化速率低于 $2 \sin \left( \theta _ { l } / 2 \right)$ 。
+
+# 1.2动态事件触发机制的建模
+
+测量输出 $\mathbf { \boldsymbol { y } } ( \boldsymbol { k } )$ 通过带宽有限的通信网络进行传输，为了节省网络资源，采用如下动态事件触发机制：
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { \displaystyle k _ { i + 1 } = \operatorname* { i n f } _ { k \in N ^ { + } } \left\{ k > k _ { i } \big | \lambda _ { 1 } \vartheta ( k ) + \sigma _ { 1 } \mathbf { y } ^ { \intercal } ( k ) \mathbf { y } ( k ) - \varepsilon e _ { y } ^ { \intercal } ( k ) \pm \vartheta e _ { y } ( k ) \le 0 \right\} } \\ { \displaystyle \mathcal { S } ( k + 1 ) = \lambda _ { 2 } \vartheta ( k ) + \sigma _ { 2 } \mathbf { y } ^ { \intercal } ( k ) \mathbf { y } ( k ) - \varepsilon e _ { y } ^ { \intercal } ( k ) \Omega e _ { y } ( k ) } \end{array} \right. } \end{array}
+$$
+
+其中， $k _ { i }$ 表示第 $i$ 个触发时刻且 $k _ { 0 } = 0$ ； $\vartheta ( k )$ 是柔性变量且$\mathcal { S } ( 0 ) \geq 0$ ； $\lambda _ { 1 }$ 、 $\lambda _ { 2 }$ 、 $\sigma _ { 1 }$ 、 $\sigma _ { 2 }$ 和 $\varepsilon$ 均为给定的非负实数； $\mathbf { \boldsymbol { y } } ( \boldsymbol { k } )$ 为当前测量输出且 ${ \pmb e } _ { y } ( k ) = \tilde { \bf y } ( k ) - { \bf y } ( k )$ ，表示上一触发时刻的测量输出与当前测量输出 $\mathbf { \boldsymbol { y } } ( \boldsymbol { k } )$ 之间的差值，$\widetilde { \mathbf { y } } ( k ) = \mathbf { y } ( k _ { i } ) , k \in [ k _ { i } , k _ { i + 1 } ) , i , k \in \mathbb { N }$ 。只有当 $\mathbf { \boldsymbol { y } } ( \boldsymbol { k } )$ 满足触发条件(10)时，测量输出数据才会被传输至滤波器的输入端。图1给出了动态事件触发机制下采样和释放瞬间的时间序列，由此可见，传感器发送数据是非等周期的。
+
+Oh 1h 2h 3h 4h 5h 6h 7h ·.  
+传感器节点 R R P R P:1 :1 :1 ：1 ：1二 1 二 二 二 11 1 1 1 … 1 1一 1 1 一 1 1 1 1 一 1 1 1  
+执行器节点 T ： 中 = 中 ： 中 ·4 中 . 中 ：5中x x x x x Tx xx0 𝑥1○采样瞬间 释放瞬间 到达瞬间
+
+注释2当 $\lambda _ { 1 }$ 趋于0时，触发条件式(10)可改写为
+
+$$
+k _ { i + 1 } = \operatorname* { i n f } _ { k \in N ^ { + } } \left\{ k > k _ { i } \middle | \sigma _ { 1 } { \mathbf { y } } ^ { \mathrm { T } } ( k ) { \mathbf { y } } ( k ) - \varepsilon e _ { y } ^ { \mathrm { T } } ( k ) \pmb { \mathscr { Q } } e _ { y } ( k ) \leq 0 \right\}
+$$
+
+可知式(11)退化为静态事件触发机制。相比于文献[11,12]中考虑的具有固定触发阈值的静态事件触发机制，本文所考虑的动态事件触发机制更具一般性与灵活性。
+
+# 1.3故障检测滤波器的设计
+
+为了检测系统中的执行器故障，设计如下形式的滤波器：
+
+$$
+\left\{ \begin{array} { l l } { \hat { \pmb { x } } ( k + 1 ) = \pmb { A } \hat { \pmb { x } } ( k ) + \Phi ( \hat { \pmb { x } } ( k ) ) + \pmb { L } \big [ \tilde { \pmb { y } } ( k ) - \pmb { C } \hat { \pmb { x } } ( k ) \big ] } \\ { r ( k ) = \tilde { \pmb { y } } ( k ) - \pmb { C } \hat { \pmb { x } } ( k ) } \end{array} \right.
+$$
+
+其中， $\hat { \pmb x } ( k ) \in \mathbb { R } ^ { n _ { x } }$ 和 $r ( k ) \in \mathbb { R } ^ { n _ { y } }$ 为滤波器的状态向量和残差向量，$\pmb { L } \in \mathbb { R } ^ { n _ { x } \times n _ { y } }$ 为待设计的滤波器增益矩阵。本文考虑网络中存在虚假数据注入攻击，其通过窜改数据包内容而破坏数据的真实性和完整性。滤波器端在随机网络攻击下的输入信号 $\tilde { \mathbf { y } } ( k )$ 可以表示为
+
+$$
+\widetilde { y } ( k ) = [ 1 - \alpha ( k ) ] C g ( \pmb { x } ( k ) ) + \alpha ( k ) \overline { { y } } ( k )
+$$
+
+$\alpha ( k )$ 为服从Bernoulli分布的白噪声序列。
+
+$$
+\begin{array}{c} \begin{array} { r l } & { [ \mathbb { P } \{ \alpha ( k ) = 1 \} = \mathbb { E } \big \{ \alpha ( k ) \big \} = \overline { { \alpha } } } \\ & { \{ \mathbb { P } \{ \alpha ( k ) = 0 \} = 1 - \mathbb { E } \big \{ \alpha ( k ) \big \} = 1 - \overline { { \alpha } } } \\ & { [ \mathbb { V } \{ \alpha ( k ) \} = \mathbb { E } \Big \{ \big ( \alpha ( k ) - \overline { { \alpha } } \big ) ^ { 2 } \Big \} = \overline { { \alpha } } ( 1 - \overline { { \alpha } } ) } \end{array}   \end{array}
+$$
+
+其中， $\overline { { \alpha } } \in [ 0 , 1 ]$ 是已知常数， $\mathbb { P } \{ \bullet \}$ 表示事件发生概率， $\mathbb { E } \{ \bullet \}$ 表示数学期望， $\mathbb { V } \{ \bullet \}$ 表示方差。当 $\alpha ( k ) = 0$ 时，表示信号在传输中可能受到网络攻击干扰，其概率为 $1 - \overline { { \alpha } }$ 。当 $\alpha ( k ) = 1$ 时，表示信号在传输中没有遭受网络攻击，系统正常工作的概率为$\bar { \alpha }$ 。 $\bar { \alpha }$ 越小，网络攻击出现的概率越高。由于网络攻击的攻击效力是非线性的，故假设 $g ( \pmb { x } ( k ) )$ 是一个非线性函数，且满足下列二次约束条件：
+
+$$
+g ^ { \mathrm { T } } ( k , { \pmb x } ( k ) ) g ( k , { \pmb x } ( k ) ) \leq \kappa ^ { 2 } { \pmb x } ^ { \mathrm { T } } ( k ) { \pmb H } ^ { \mathrm { T } } { \pmb H } { \pmb x } ( k )
+$$
+
+其中， $\kappa { > } 0$ 为已知非线性函数 $g ( k , x ( k ) )$ 的有界参数， $\textbf {  { H } }$ 为常数矩阵。
+
+定义 $\xi ( k ) = [ \mathbf { \boldsymbol { x } } ^ { \mathrm { { T } } } ( k )$ $e ^ { \mathrm { { T } } } ( k )$ JT、 ${ \pmb e } ( { \boldsymbol { k } } ) = { \pmb x } ( { \boldsymbol { k } } ) - \hat { \pmb x } ( { \boldsymbol { k } } )$ 和 $\Delta \Phi ( k ) = \Phi ( k , \pmb { x } ( k ) ) -$ $\Phi ( k , { \hat { x } } ( k ) )$ ，并结合式(1)(12)和(13)，通过状态增广可以得到如下滤波误差系统：
+
+$$
+\begin{array} { r l } & { \Bigg [ \xi ( k + 1 ) = \Big ( \overline { { A } } _ { 1 } - \tilde { \alpha } ( k ) \overline { { A } } _ { 2 } \Big ) \xi ( k ) + \Big ( \overline { { B } } _ { 1 } - \tilde { \alpha } ( k ) \overline { { B } } _ { 2 } \Big ) w ( k ) + } \\ & { \qquad \overline { { F } } f ( k ) + \big ( \overline { { E } } _ { 1 } - \tilde { \alpha } ( k ) \overline { { E } } _ { 2 } \big ) e _ { y } ( k ) + \overline { { E } } _ { 3 } \Phi ( k , x ( k ) ) + } \\ & { \qquad \overline { { E } } _ { 4 } \Delta \Phi ( k ) + \big ( \overline { { G } } _ { 1 } + \tilde { \alpha } ( k ) \overline { { G } } _ { 2 } \big ) g ( k , x ( k ) ) } \\ & { \Bigg ) r ( k ) = \big ( \overline { { C } } _ { 1 } + \tilde { \alpha } ( k ) \overline { { C } } _ { 2 } \big ) \xi ( k ) + \big ( \overline { { D } } _ { 1 } + \tilde { \alpha } ( k ) \overline { { D } } _ { 2 } \big ) w ( k ) + } \\ & { \qquad \big ( \overline { { E } } _ { 5 } + \tilde { \alpha } ( k ) \overline { { E } } _ { 6 } \big ) e _ { y } ( k ) + \big ( \overline { { G } } _ { 3 } - \tilde { \alpha } ( k ) \overline { { G } } _ { 4 } \big ) g ( k , x ( k ) ) } \\ & { \Bigg . \Bigg . \Bigg . \Bigg \ } _ { y ( k ) = \overline { { C } } _ { 2 } \xi ( k ) + \overline { { D } } _ { 2 } w ( k ) } \end{array}
+$$
+
+其中， $\bullet$ 代表适当维数的零矩阵， $\textbf { \textit { I } }$ 代表适当维数的单位矩
+
+阵，其余参数矩阵为
+
+$$
+\begin{array} { r l } & { \overline { { A } } _ { 1 } = \left[ \begin{array} { c c } { A } & { \theta } \\ { ( 1 - \overline { { \alpha } } ) L C } & { A - L C } \end{array} \right] , \overline { { A } } _ { 2 } = \left[ \begin{array} { c c } { \theta } & { \theta } \\ { L C } & { \theta } \end{array} \right] , \overline { { B } } _ { 1 } = \left[ \begin{array} { c c } { B } \\ { B - \overline { { \alpha } } L D } \end{array} \right] , \overline { { B } } _ { 2 } = \left[ \begin{array} { c c } { \theta } \\ { L D } \end{array} \right] , } \end{array}
+$$
+
+$$
+\begin{array} { r } { \bar { E } _ { 1 } = \left[ \begin{array} { c } { \pmb { \theta } } \\ { - \bar { \alpha } \pmb { L } } \end{array} \right] , \bar { E } _ { 2 } = \left[ \begin{array} { c } { \pmb { \theta } } \\ { \pmb { L } } \end{array} \right] , \bar { E } _ { 3 } = \left[ \begin{array} { c } { \pmb { I } } \\ { \pmb { \theta } } \end{array} \right] , \bar { E } _ { 4 } = \left[ \begin{array} { c } { \pmb { \theta } } \\ { \pmb { I } } \end{array} \right] , \bar { F } = \left[ \begin{array} { c } { \pmb { F } } \\ { \pmb { F } } \end{array} \right] , \bar { G } _ { 1 } = \left[ \begin{array} { c } { \pmb { \theta } } \\ { ( \bar { \alpha } - 1 ) \pmb { L } \pmb { C } } \end{array} \right] , } \end{array}
+$$
+
+$$
+\bar { G } _ { 2 } = \left[ \begin{array} { c } { { \theta } } \\ { { L C } } \end{array} \right] \ , \quad \bar { C } _ { 1 } = \left[ ( \bar { \alpha } - 1 ) C \quad C \right] \ , \quad \bar { C } _ { 2 } = \left[ C \quad \theta \right] \ , \quad \bar { D } _ { 1 } = \bar { \alpha } D \ , \ \bar { D } _ { 2 } = D \ ,
+$$
+
+$$
+\bar { E } _ { 5 } = \bar { \alpha } I \ , \ \bar { E } _ { 6 } = I \ , \ \bar { G } _ { 3 } = ( 1 - \bar { \alpha } ) C \ , \ \bar { G } _ { 4 } = C \ , \tilde { \alpha } ( k ) = \alpha ( k ) - \bar { \alpha } _ { \mathrm { ~ \scriptsize ~ o ~ } } = 0 .
+$$
+
+本节的目的是设计动态事件触发机制与故障检测滤波器，使得滤波误差系统式(16)均方渐近稳定且满足 $H _ { - } / H _ { \infty }$ 性能指标，即满足下列要求：
+
+a）滤波误差系统式(16)是均方渐近稳定的。b)当 $f ( k ) = 0$ 时，系统满足如下 $H _ { \infty }$ 性能指标：
+
+$$
+\sum _ { k = 0 } ^ { \infty } \left\| r ( k ) \right\| ^ { 2 } \leq \gamma ^ { 2 } \sum _ { k = 0 } ^ { \infty } \left\| w ( k ) \right\| ^ { 2 }
+$$
+
+并使得／尽可能的小。 $\gamma$ 越小，扰动信号对残差越鲁棒。c）当 ${ \pmb w } ( k ) = { \pmb \theta }$ 时，系统满足如下 $H _ { - }$ 性能指标：
+
+$$
+\sum _ { k = 0 } ^ { \infty } \left\| r ( k ) \right\| ^ { 2 } \geq \beta ^ { 2 } \sum _ { k = 0 } ^ { \infty } \left\| f ( k ) \right\| ^ { 2 }
+$$
+
+并使得 $\beta$ 尽可能的大。 $\beta$ 越大，故障信号对残差越敏感。
+
+# 1.4残差评估机制
+
+结合故障检测滤波器生成的残差，选取残差评价函数$J ( k )$ 与阈值 $J _ { { t h } }$ 来检测故障。 $J ( k )$ 与 $J _ { { t h } }$ 分别为
+
+$$
+J ( k ) = \mathbb { E } \left\{ \sum _ { s = 0 } ^ { k } { r ^ { \mathrm { { T } } } ( s ) } \mathbf { { r } } ( s ) \right\} ^ { 1 / 2 }
+$$
+
+$$
+J _ { { t h } } = \operatorname* { s u p } _ { w \in \mathscr { c } _ { 2 } , f = 0 } J ( T )
+$$
+
+其中： $T$ 表示有限的评估时间长度。通过比较 $J ( k )$ 与 $J _ { { t h } }$ 的大小来判断故障是否发生：
+
+$$
+\begin{array} { r }  \left\{ { J ( k ) > J _ { \iota h } \Rightarrow \frac { + \xi \{ \beta \} } { | { J ( k ) \} | } \Rightarrow } \right. } \\ { \left. { J ( k ) \leq J _ { \iota h } \Rightarrow \overline { { \mathcal { L } } } \frac { + \xi } { | \mathrm { J } | \frac { \partial \varphi } { \partial \mathrm { H } } } } \right. } \end{array}
+$$
+
+# 2 主要结果
+
+本节以线性矩阵不等式的形式给出了使得滤波误差系统式(16)满足 $H _ { \infty }$ 性能指标 $\gamma$ 与 $H _ { - }$ 性能指标 $\beta$ 的充分条件，并通过求解凸优化问题得到滤波器的参数。下面给出推导过程中将用到的引理。
+
+引理1[22]对于一个向量值函数 $\Phi ( k , x ( k ) )$ 和已知常数矩阵不等式 $S _ { 1 } , S _ { 2 } \in \mathbb { R } ^ { n \times n }$ ，若存在：
+
+$$
+\big [ \Phi ( k , \pmb { x } ( k ) ) - S _ { 1 } \pmb { x } ( k ) \big ] ^ { \operatorname { T } } \big [ \Phi ( k , \pmb { x } ( k ) ) - S _ { 2 } \pmb { x } ( k ) \big ] < 0
+$$
+
+则有如下不等式成立：
+
+$$
+\begin{array} { r l } { \big [ { \pmb x } ^ { \mathrm { \scriptscriptstyle T } } ( k ) } & { { } \Phi ^ { \mathrm { \scriptscriptstyle T } } ( k , { \pmb x } ( k ) ) \big ] \bigg [ \hat { S } _ { 1 } \quad \hat { S } _ { 2 } \bigg ] \bigg [ \pmb { x } ( k ) } \\ { * } & { { } \ I \bigg ] \bigg [ \Phi ( k , { \pmb x } ( k ) ) \bigg ] < \theta } \end{array}
+$$
+
+其中， $\hat { S } _ { 1 } = ( S _ { 1 } ^ { \mathrm { T } } S _ { 2 } + S _ { 2 } ^ { \mathrm { T } } S _ { 1 } ) / 2$ ， $\hat { S } _ { 2 } = - ( S _ { 1 } ^ { \mathrm { T } } + S _ { 2 } ^ { \mathrm { T } } ) / 2$ 。
+
+引理 $2 ^ { [ 2 3 ] }$ 对于矩阵 $A$ ， $Q = Q ^ { \mathrm { { r } } }$ 和 $\scriptstyle P > \pmb { \theta }$ ，矩阵不等式$- Q + A ^ { \mathrm { T } } P A < \pmb { \theta }$ 成立当且仅当存在一个矩阵 $\textbf { \em G }$ ，满足：
+
+$$
+\left[ \begin{array} { l l } { - { Q } } & { { A ^ { \mathrm { T } } G } } \\ { { G ^ { \mathrm { T } } A } } & { { P - G - G ^ { \mathrm { T } } } } \end{array} \right] < \pmb { \theta }
+$$
+
+# 2.1稳定性及残差对扰动的鲁棒性条件
+
+定理1给定满足 $0 < \lambda _ { 1 } \leq \lambda _ { 2 }$ 、 $\lambda _ { 1 } + \lambda _ { 2 } < 1$ 、 $0 \leq \sigma _ { 1 } \leq \sigma _ { 3 }$ 和 $\varepsilon > 0$ 的实数 $\lambda _ { 1 }$ 、 $\lambda _ { 2 }$ 、 $\sigma _ { 1 }$ 、 $\sigma _ { 2 }$ 和 $\boldsymbol { \varepsilon }$ ，如果存在正定对称矩阵 $\pmb { P } _ { d }$ ，矩阵 $W _ { 1 }$ 、 $\scriptstyle { \mathbf { \boldsymbol { X } } }$ 和滤波器参数矩阵 $\scriptstyle { \mathbf { { \mathit { L } } } }$ ，使得如下矩阵不等式成立：
+
+$$
+\big [ N _ { p , q } \big ] _ { 1 5 \times 1 5 } < \pmb { \theta }
+$$
+
+则称滤波误差系统式(16)均方渐近稳定，且满足 $H _ { \infty }$ 性能指标〉。其中，对称矩阵 $\boldsymbol { N } _ { p , q }$ 中的非零项如下：
+
+$\begin{array} { r } { N _ { 1 , 1 } = - { \cal P } _ { d 1 } + \kappa ^ { 2 } H ^ { \top } H - \hat { S } _ { 1 } \quad , \quad N _ { 1 , 2 } = - { \cal P } _ { d 2 } \quad , \quad N _ { 1 , 6 } = - \hat { S } _ { 2 } \quad , \quad N _ { 1 , 9 } = - A ^ { \top } W _ { 1 1 } - \hat { S } _ { 1 } \quad . } \end{array}$ $| - \overline { { { \alpha } } } ) { \cal C } ^ { \mathrm { T } } X , N _ { 1 , 1 0 } = - A ^ { \mathrm { T } } W _ { 1 2 } - ( 1 - \overline { { { \alpha } } } ) { \cal C } ^ { \mathrm { T } } X , N _ { 1 , 1 1 } = \mu _ { 1 } \hat { \alpha } { \cal C } ^ { \mathrm { T } } X ,$ $N _ { 1 , 1 2 } = \hat { \alpha } C ^ { \mathrm { T } } X$ ，$N _ { 1 , 1 3 } = C ^ { \top } ~ , ~ N _ { 1 , 1 4 } = - ( 1 - \bar { \alpha } ) C ^ { \top } ~ , ~ N _ { 1 , 1 5 } = \hat { \alpha } C ^ { \top } ~ , ~ N _ { 2 , 2 } = - P _ { d 3 } - \hat { S } _ { 1 } ~ , ~ N _ { 2 , 7 } = \hat { S } _ { 2 } ~ ,$ （204号
+
+$N _ { 2 , 9 } = - \mu _ { 1 } A ^ { \mathsf { T } } W _ { 1 1 } + \mu _ { 1 } C ^ { \mathsf { T } } X \ , \quad N _ { 2 , 1 0 } = \ - A ^ { \mathsf { T } } W + C ^ { \mathsf { T } } X \ , \ N _ { 2 , 1 4 } = C ^ { \mathsf { T } } \ , \quad N _ { 3 , 3 } = - \gamma ^ { 2 } I$ N $\begin{array} { c c } { \mathrm { ~  ~ \psi ~ } _ { 1 , 9 } = - B ^ { \mathrm { T } } W _ { 1 1 } - \mu _ { 1 } B ^ { \mathrm { T } } X + \mu _ { 1 } \overline { { \alpha } } D ^ { \mathrm { T } } X \qquad , \qquad N _ { 3 , 1 0 } = - B ^ { \mathrm { T } } W _ { 1 2 } - B ^ { \mathrm { T } } W + \nonumber \overline { { \alpha } } D ^ { \mathrm { T } } X } \end{array}$ 1 （204号 $N _ { _ { 3 , 1 1 } } = \mu _ { 1 } \hat { \alpha } D ^ { \mathrm { T } } X , N _ { _ { 3 , 1 2 } } = \hat { \alpha } D ^ { \mathrm { T } } X , N _ { _ { 3 , 1 3 } } = D ^ { \mathrm { T } } , N _ { _ { 3 , 1 4 } } = \overline { { { \alpha } } } D ^ { \mathrm { T } } , N _ { _ { 3 , 1 5 } } = \hat { \alpha } D ^ { \mathrm { T } } .$ ${ \cal N } _ { 3 , 1 5 } = \hat { \alpha } D ^ { \mathrm { { r } } }$ （204号 $N _ { 4 , 4 } = - 2 \varepsilon \Omega , N _ { 4 , 9 } = \mu _ { 1 } \overline { { \alpha } } X , N _ { 4 , 1 0 } = \overline { { \alpha } } X , N _ { 4 , 1 1 } = \mu _ { 1 } \hat { \alpha } X , N _ { 4 , 1 2 } = \mu _ { 2 } \hat { \alpha } X $ $\mathbf { { N } } _ { 4 , 1 2 } = \hat { \alpha } \pmb { { X } }$ （20 $N _ { 4 , 1 4 } = \overline { { { \alpha } } } I \quad , \quad N _ { 4 , 1 5 } = \hat { \alpha } I \quad , \quad N _ { 5 , S } = ( \lambda _ { 1 } + \lambda _ { 2 } - 1 ) I \quad , \quad N _ { 6 , 6 } = N _ { 7 , 7 } = N _ { 8 , 8 } = \hat { \alpha } 1 .$ =-I N ${ \bf \psi } _ { , 9 } = - W _ { 1 1 } \qquad , \qquad N _ { 6 , 1 0 } = - W _ { 1 2 } \qquad , \qquad N _ { 7 , 9 } = - \mu _ { 1 } W \qquad , \qquad N _ { 7 , 1 0 } = - W _ { 1 2 } \qquad $ 1 N $\begin{array} { r l r l r l r l } { \mathrm {  ~ \lambda ~ } _ { \mathrm { s } , 9 } = \mu _ { \mathrm { i } } ( 1 - \overline { { \alpha } } ) C ^ { \top } X } & { { } } & { , } & { { } } & { { } } & { N _ { \mathrm { s } , 1 0 } = ( 1 - \overline { { \alpha } } ) C ^ { \top } X } & { } & { { } , } & { } & { { } \ N _ { \mathrm { s } , 1 1 } = - \mu _ { \mathrm { i } } \hat { \alpha } C ^ { \top } X } \end{array}$ 1 N8.12= $\begin{array} { r l r } { - \hat { \alpha } C ^ { \top } X } & { { } , \quad N _ { 8 , 1 4 } = ( 1 - \overline { { \alpha } } ) C ^ { \top } } & { , \quad N _ { 8 , 1 5 } = - \hat { \alpha } C ^ { \top } } & { { } , \quad N _ { 9 , 9 } = N _ { 1 1 , 1 1 } = P _ { d 1 } - \hat { \alpha } C ^ { \top } } \end{array}$ W-W1T, $N _ { 9 , 1 0 } = N _ { 1 1 , 1 3 } = P _ { d 2 } - W _ { 1 2 } - \mu _ { 1 } W ^ { \top } , N _ { 1 0 , 1 0 } = N _ { 1 2 , 1 2 } = P _ { d 3 } - W - W ^ { \top } ,$ $N _ { 1 3 , 1 3 } = - ( \sigma _ { 1 } + \sigma _ { 2 } ) ^ { - 1 } I \ , \quad N _ { 1 4 , 1 4 } = N _ { 1 5 , 1 5 } = - I ,$
+
+证明 构造如下Lyapunov-Krasovskii 泛函
+
+$$
+V _ { d } ( k ) = \xi ^ { \mathrm { { T } } } ( k ) P _ { d } \xi ( k ) + \mathcal { G } ( k )
+$$
+
+沿系统式(16)的轨迹求偏差可知：
+
+$$
+\begin{array} { r l } { \mathbb { E } \{ \Delta V _ { d } ( k ) \} = \mathbb { E } \{ V _ { d } ( k + 1 ) \} - \mathbb { E } \{ V _ { d } ( k ) \} \ : = \ : \ : } & { } \\ { \quad } & { \xi ^ { \top } ( k + 1 ) P _ { d } \xi ( k + 1 ) - \xi ^ { \top } ( k ) P _ { d } \xi ^ { \top } ( k ) + \mathcal { G } ( k + 1 ) - \mathcal { G } ( k ) \ : = \ : } \\ { \quad } & { \big [ \xi ^ { \top } ( k ) \big ( \overline { { A } } _ { 1 } ^ { \top } - \tilde { \alpha } ( k ) \overline { { A } } _ { 2 } ^ { \top } \big ) + w ^ { \top } ( k ) \big ( \overline { { B } } _ { 1 } ^ { \top } - \tilde { \alpha } ( k ) \overline { { B } } _ { 2 } ^ { \top } \big ) + \overline { { \Phi } } ( k ) + } \\ { \quad } & { e _ { y } ^ { \top } ( k ) \big ( \overline { { E } } _ { 1 } ^ { \top } + \tilde { \alpha } ( k ) \overline { { E } } _ { 2 } ^ { \top } \big ) + g ^ { \top } ( x ( k ) ) \big ( \overline { { G } } _ { 1 } ^ { \top } + \tilde { \alpha } ( k ) \overline { { G } } _ { 2 } ^ { \top } \big ) \big ] \times } \\ { \quad } & { P _ { d } \big [ \big ( \overline { { A } } _ { 1 } ^ { \top } - \tilde { \alpha } ( k ) \overline { { A } } _ { 2 } \big ) \xi ( k ) + \big ( \overline { { B } } _ { 1 } ^ { \top } - \tilde { \alpha } ( k ) \overline { { B } } _ { 2 } \big ) w ( k ) + \overline { { \Phi } } ( k ) + } \\ { \quad } & { \big ( \overline { { E } } _ { 1 } + \tilde { \alpha } ( k ) \overline { { E } } _ { 2 } \big ) e _ { y } ( k ) + \big ( \overline { { G } } _ { 1 } + \tilde { \alpha } ( k ) \overline { { G } } _ { 2 } \big ) g ( x ( k ) ) \big ] - } \\ { \quad } & { \xi ^ { \top } ( k ) P _ { d } \xi ( k ) + ( \lambda _ { 3 } - 1 ) \mathcal { G } ( k ) + \sigma _ { 3 } y ^ { \top } ( k ) y ( k ) - e _ { y } ^ { \top } ( k ) \mathcal { Q } e _ { y } ( k ) } \end{array}
+$$
+
+根据扇形有界条件式(2)和引理1可得：
+
+$$
+\begin{array} { r l } & { \left[ \Phi ( k , \pmb { x } ( k ) ) - S _ { 1 } \pmb { x } ( k ) \right] ^ { \operatorname { T } } \left[ \Phi ( k , \pmb { x } ( k ) ) - S _ { 2 } \pmb { x } ( k ) \right] = \left[ \Phi ( k , \pmb { x } ( k ) ) - S _ { 1 } \overline { { E } } _ { 7 } \xi ( k ) \right] ^ { \operatorname { T } } ( 0 ) } \\ & { \left[ \Phi ( k , \pmb { x } ( k ) ) - S _ { 2 } \overline { { E } } _ { 7 } \xi ( k ) \right] = \eta ^ { \operatorname { T } } ( k ) \Lambda _ { 1 } \eta ( k ) < 0 } \\ & { \qquad \left[ \Delta \Phi ( k ) - S _ { 1 } e ( k ) \right] ^ { \operatorname { T } } \left[ \Delta \Phi ( k ) - S _ { 2 } e ( k ) \right] = } \\ & { \qquad \left[ \Delta \Phi ( k ) - S _ { 1 } \overline { { E } } _ { 8 } \xi ( k ) \right] ^ { \operatorname { T } } \left[ \Delta \Phi ( k ) - S _ { 2 } \overline { { E } } _ { 8 } \xi ( k ) \right] = \eta ^ { \operatorname { T } } ( k ) \Lambda _ { 2 } \eta ( k ) < 0 } \end{array}
+$$
+
+其中， $\pmb { \eta } ^ { \mathsf { T } } ( k ) = \left[ \xi ^ { \mathsf { T } } ( k ) \quad \pmb { w } ^ { \mathsf { T } } ( k ) \quad e _ { \pmb { y } } ^ { \mathsf { T } } ( k ) \quad \overline { { \mathcal { J } } } ^ { \mathsf { T } } ( k ) \quad \Phi ^ { \mathsf { T } } ( k , \pmb { x } ( k ) ) \quad \Delta \Phi ^ { \mathsf { T } } ( k ) \quad g ^ { \mathsf { T } } ( x ( k ) ) \right] ,$ $\overline { { \mathcal { S } } } ( k ) = \mathcal { S } ^ { 1 / 2 } ( k ) \mathrm { ~ , ~ } \hat { S } _ { 1 } = ( S _ { 1 } ^ { \mathrm { { T } } } S _ { 2 } + S _ { 2 } ^ { \mathrm { { T } } } S _ { 1 } ) / 2 \hat { S } _ { 2 } = - ( S _ { 1 } ^ { \mathrm { { T } } } + S _ { 2 } ^ { \mathrm { { T } } } ) / 2 \mathrm { ~ c ~ }$ （
+
+$$
+\Lambda _ { 1 } = \left[ \begin{array} { c c c c c c c c } { \overline { { E } } _ { 1 } ^ { \top } \hat { S } _ { 1 } \overline { { E } } _ { 2 } } & { \theta } & { \theta } & { \hat { \cal U } _ { 1 } ^ { \top } \hat { S } _ { 2 } } & { \theta } & { \theta } \\ { * } & { \theta } & { \theta } & { \theta } & { \theta } & { \theta } & { \theta } \\ { * } & { * } & { \theta } & { \theta } & { \theta } & { \theta } & { \theta } \\ { * } & { * } & { * } & { \theta } & { \theta } & { \theta } & { \theta } \\ { * } & { * } & { * } & { * } & { \cal I } & { \theta } & { \theta } \\ { * } & { * } & { * } & { * } & { * } & { \theta } & { \theta } \\ { * } & { * } & { * } & { * } & { * } & { * } & { \theta } \end{array} \right]
+$$
+
+$$
+\Lambda _ { 2 } = \left[ \begin{array} { c c c c c c c c } { \overline { { E } } _ { \mathrm { S } } ^ { \top } \hat { S } _ { 1 } \overline { { E } } _ { \mathrm { S } } } & { \theta } & { \theta } & { \theta } & { \bar { U } _ { \mathrm { S } } ^ { \top } \hat { S } _ { 2 } } & { \theta } \\ { * } & { \theta } & { \theta } & { \theta } & { \theta } & { \theta } & { \theta } \\ { * } & { * } & { \theta } & { \theta } & { \theta } & { \theta } & { \theta } \\ { * } & { * } & { * } & { \theta } & { \theta } & { \theta } & { \theta } \\ { * } & { * } & { * } & { * } & { \theta } & { \theta } & { \theta } \\ { * } & { * } & { * } & { * } & { * } & { I } & { \theta } \\ { * } & { * } & { * } & { * } & { * } & { * } & { \theta } \end{array} \right]
+$$
+
+其中， $\overline { { E } } _ { 7 } = \left[ I \quad \pmb { \theta } \right] , \overline { { E } } _ { 8 } = \left[ \pmb { \theta } \quad I \right]$ 。
+
+结合式(27)\~(29)，动态事件触发机制式(10)和引理2可推导出：
+
+$$
+{ \mathrm { E } } \{ \Delta V _ { d } ( k ) \} =
+$$
+
+$$
+\begin{array} { r } { \mathrm { E } \big \{ \Delta V _ { d } ( k ) \big \} + g ^ { \mathrm { { T } } } ( k , \pmb { x } ( k ) ) g ( k , \pmb { x } ( k ) ) - g ^ { \mathrm { { T } } } ( k , \pmb { x } ( k ) ) g ( k , \pmb { x } ( k ) ) \leq } \end{array}
+$$
+
+$$
+\begin{array} { r } { \mathrm { E } \big \{ \Delta V _ { d } ( k ) \big \} + \kappa ^ { 2 } \xi ^ { \mathrm { T } } ( k ) H _ { 0 } ^ { \mathrm { \scriptscriptstyle T } } H _ { 0 } \xi ( k ) - g ^ { \mathrm { \scriptscriptstyle T } } ( k , { \pmb x } ( k ) ) g ( k , { \pmb x } ( k ) ) - } \end{array}
+$$
+
+$$
+\eta ^ { \mathrm { { T } } } ( k ) \Lambda _ { 1 } \eta ( k ) - \eta ^ { \mathrm { { T } } } ( k ) \Lambda _ { 2 } \eta ( k ) - \xi ^ { \mathrm { { T } } } ( k ) { \cal P } _ { d } \xi ( k ) +
+$$
+
+$$
+\begin{array} { r l } { ( \lambda _ { 1 } + \lambda _ { 2 } - 1 ) \mathcal { G } ( k ) + ( \sigma _ { 1 } + \sigma _ { 2 } ) \mathbf { y } ^ { \mathrm { { T } } } ( k ) \mathbf { y } ( k ) - 2 \varepsilon e _ { y } ^ { \mathrm { { T } } } ( k ) \pmb { \mathscr { Q } } e _ { y } ( k ) = } & { { } } \end{array}
+$$
+
+$$
+\begin{array} { r } { \eta ^ { \mathrm { { T } } } ( k ) \big [ \Xi _ { 1 1 } - \Xi _ { 1 2 } \Xi _ { 2 2 } \Xi _ { 1 2 } ^ { \mathrm { { T } } } - d i a g \{ \theta , - \gamma ^ { 2 } I , \theta , \theta , \theta , \theta , \theta \} - \Xi _ { 1 3 } \Xi _ { 3 3 } \Xi _ { 1 3 } ^ { \mathrm { { T } } } \big ] \eta ( k ) } \end{array}
+$$
+
+当 ${ \pmb w } ( k ) = { \pmb \theta }$ 时，等式 $\pmb { \eta } ^ { \mathrm { { T } } } ( k ) d i a g \{ \pmb { \theta } , - \gamma ^ { 2 } \pmb { I } , \pmb { \theta } , \pmb { \theta } , \pmb { \theta } , \pmb { \theta } \} \pmb { \eta } ( k ) = \pmb { 0 }$ 成立。根据 Schur补引理及不等式(30)，可知 $\Xi _ { 1 1 } - \Xi _ { 1 2 } \Xi _ { 2 2 } \Xi _ { 1 2 } ^ { \mathrm { T } } - \Xi _ { 1 3 } \Xi _ { 3 3 } \Xi _ { 1 3 } ^ { \mathrm { T } } < \pmb { \theta }$ 成立的充分条件为
+
+$$
+\left[ { \begin{array} { c c c c c } { { \Xi _ { 1 1 } } } & { { \Xi _ { 1 2 } } } & { { \Xi _ { 1 3 } } } & { { \Xi _ { 1 4 } } } \\ { * } & { { \Xi _ { 2 2 } } } & { \pmb { \theta } } & { \pmb { \theta } } \\ { * } & { * } & { { \Xi _ { 3 3 } } } & { \pmb { \theta } } \\ { * } & { * } & { * } & { { \Xi _ { 4 4 } } } \end{array} } \right] < \theta
+$$
+
+$$
+\begin{array} { r } { \Xi _ { 1 } = - P _ { d } - \hat { E } _ { I } ^ { \intercal } \hat { S } _ { 1 } \hat { E } _ { 7 } - \hat { E } _ { S } ^ { \intercal } \hat { S } _ { 1 } \hat { E } _ { 8 } + \kappa ^ { 2 } H _ { 0 } ^ { \intercal } H _ { 0 } , \Xi _ { 1 2 } = \left[ \begin{array} { l l } { \hat { A } _ { 1 } ^ { \intercal } } & { - \hat { \alpha } \hat { A } _ { 2 } ^ { \intercal } } \\ { \hat { B } _ { 1 } ^ { \intercal } } & { - \hat { \alpha } \hat { B } _ { 2 } ^ { \intercal } } \\ { \hat { E } _ { 1 } ^ { \intercal } } & { - \hat { \alpha } \hat { E } _ { 2 } ^ { \intercal } } \\ { \hat { E } _ { 2 } ^ { \intercal } } & { - \hat { \alpha } \hat { E } _ { 3 } ^ { \intercal } } \\ { \hat { E } _ { 3 } ^ { \intercal } } & { \theta } \\ { \hat { E } _ { 4 } ^ { \intercal } } & { \theta } \\ { \hat { G } _ { 1 } ^ { \intercal } } & { \hat { \alpha } \hat { G } _ { 2 } ^ { \intercal } } \end{array} \right] , \Xi _ { 1 3 } = \left[ \begin{array} { l } { \hat { C } _ { 2 } ^ { \intercal } } \\ { \hat { D } _ { 2 } ^ { \intercal } } \\ { \theta } \\ { \theta } \\ { \theta } \\ { \theta } \\ { \theta } \\ { \hat { \alpha } \hat { e } _ { 3 } ^ { \intercal } } \end{array} \right] } \end{array}
+$$
+
+$$
+\begin{array} { r l } & { \Xi _ { 1 4 } = \left[ \begin{array} { c c } { \overline { { C } } _ { 1 } ^ { \top } } & { \hat { \alpha } \overline { { C } } _ { 2 } ^ { \top } } \\ { \overline { { D } } _ { 1 } ^ { \top } } & { \hat { \alpha } \overline { { D } } _ { 2 } ^ { \top } } \\ { \overline { { E } } _ { 5 } ^ { \top } } & { \hat { \alpha } \overline { { E } } _ { 6 } ^ { \top } } \\ { \theta } & { \theta } \\ { \theta } & { \theta } \\ { \theta } & { \theta } \\ { \bar { G } _ { 3 } ^ { \top } } & { - \hat { \alpha } \bar { G } _ { 4 } ^ { \top } } \end{array} \right] , \quad \Xi _ { 2 2 } = d i a g \left\{ - P _ { d } ^ { - 1 } , - P _ { d } ^ { - 1 } \right\} ~ , \quad \Xi _ { 3 3 } = - ( \sigma _ { 1 } + \sigma _ { 2 } ) ^ { - 1 } I ~ , } \end{array}
+$$
+
+$$
+\Xi _ { 4 4 } = d i a g \left\{ - I , - I \right\} , \quad H _ { 0 } = \left[ { \cal H } \quad \theta \right] , \quad \hat { \alpha } = \sqrt { \bar { \alpha } ( 1 - \bar { \alpha } ) } \mathrm { ~ , ~ }
+$$
+
+故有 $\begin{array} { r } { | \Xi _ { 1 1 } - \Xi _ { 1 2 } \Xi _ { 2 2 } \Xi _ { 1 2 } ^ { \mathrm { T } } - \Xi _ { 1 3 } \Xi _ { 3 3 } \Xi _ { 1 3 } ^ { \mathrm { T } } - \eta ^ { \mathrm { T } } ( k ) d i a g \{ \theta , - \gamma ^ { 2 } I , \theta , \theta , \theta , \ \theta , \theta \} \eta ( k ) < \theta } \end{array}$ 成立。因此，滤波误差系统式(16)均方渐近稳定。
+
+为了证明滤波误差系统式(16)在零初始条件下满足期望的 $H _ { \infty }$ 性能指标 $\gamma$ ，考虑如下评估指标函数：
+
+$$
+\begin{array} { l l } { { J _ { \infty } = \displaystyle { \mathrm { E } \Bigg \{ \sum _ { k = 0 } ^ { \infty } { r ^ { \mathrm { T } } ( k ) r ( k ) - \gamma ^ { 2 } w ^ { \mathrm { T } } ( k ) w ( k ) \Bigg \} } \ } \ \leq } } \\ { { \displaystyle { \mathrm { E } \Bigg \{ \sum _ { k = 0 } ^ { \infty } { r ^ { \mathrm { T } } ( k ) r ( k ) - \gamma ^ { 2 } w ^ { \mathrm { T } } ( k ) w ( k ) \Bigg \} } - \mathrm { E } \{ V _ { d } ( 0 ) \} + \mathrm { E } \{ V _ { d } ( \infty ) \} } \ = } } \\  { \displaystyle { \mathrm { E } \Bigg \{ \sum _ { k = 0 } ^ { \infty } { r ^ { \mathrm { T } } ( k ) r ( k ) - \gamma ^ { 2 } w ^ { \mathrm { T } } ( k ) w ( k ) + \Delta V _ { d } ( k ) \Bigg \} } = } } \\  { \displaystyle { \eta ^ { \mathrm { T } } ( k ) \big [ \Xi _ { 1 1 } - \Xi _ { 1 2 } \Xi _ { 2 2 } \Xi _ { 1 2 } ^ { \mathrm { T } } - \Xi _ { 1 3 } \Xi _ { 3 3 } \Xi _ { 1 3 } ^ { \mathrm { T } } - \Xi _ { 1 4 } \Xi _ { 4 4 } \Xi _ { 1 4 } ^ { \mathrm { T } } \big ] \eta ( k ) } } \end{array}
+$$
+
+根据 Schur补引理和式(31)，可得 $\Xi _ { 1 1 } - \Xi _ { 1 2 } \Xi _ { 2 2 } \Xi _ { 1 2 } ^ { \mathrm { T } } - \Xi _ { 1 3 } \Xi _ { 3 3 } \Xi _ { 1 3 } ^ { \mathrm { T } } -$ $\Xi _ { 1 4 } \Xi _ { 4 4 } \Xi _ { 1 4 } ^ { \mathrm { T } } < \pmb { \theta }$ ，则评估指标函数满足 $J _ { _ { \infty } } < \pmb { \theta }$ ，即
+
+$$
+\sum _ { k = 0 } ^ { \infty } \pmb { r } ^ { \mathnormal { \operatorname { T } } } ( k ) \pmb { r } ( k ) \leq \gamma ^ { 2 } \sum _ { k = 0 } ^ { \infty } \pmb { w } ^ { \mathnormal { \operatorname { T } } } ( k ) \pmb { w } ( k )
+$$
+
+因此，滤波误差系统式(16)满足期望的 $H _ { - }$ 性能指标 $\beta$ □
+
+结合Shur补引理和引理2可知，式(31)可改写为如下矩阵不等式：
+
+$$
+\left[ \begin{array} { c c c c } { \Xi _ { 1 1 } } & { \hat { \Xi } _ { 1 2 } } & { \Xi _ { 1 3 } } & { \Xi _ { 1 4 } } \\ { * } & { \hat { \Xi } _ { 2 2 } } & { \pmb { \theta } } & { \pmb { \theta } } \\ { * } & { * } & { \Xi _ { 3 3 } } & { \pmb { \theta } } \\ { * } & { * } & { * } & { \Xi _ { 4 4 } } \end{array} \right] < \pmb { \theta }
+$$
+
+其中， $\begin{array} { r } { \hat { \Xi } _ { 1 2 } = \left[ \begin{array} { c c c c c c } { W _ { 1 } ^ { \top } \overline { { A } } _ { 1 } } & { W _ { 1 } ^ { \top } \overline { { B } } _ { 1 } } & { W _ { 1 } ^ { \top } \overline { { E } } _ { 1 } } & { \theta } & { W _ { 1 } ^ { \top } \overline { { E } } _ { 3 } } & { W _ { 1 } ^ { \top } \overline { { E } } _ { 4 } } & { W _ { 1 } ^ { \top } \overline { { G } } _ { 1 } } \\ { - \hat { \alpha } W _ { 1 } ^ { \top } \overline { { A } } _ { 2 } } & { - \hat { \alpha } W _ { 1 } ^ { \top } \overline { { B } } _ { 2 } } & { - \hat { \alpha } W _ { 1 } ^ { \top } \overline { { E } } _ { 2 } } & { \theta } & { \theta } & { \theta } & { \hat { \alpha } W _ { 1 } ^ { \top } \overline { { G } } _ { 2 } } \end{array} \right] } \end{array}$ $\hat { { \boldsymbol { \Xi } } } _ { 2 2 } = d i a g \left\{ P _ { d } - W _ { \mathrm { 1 } } - W _ { \mathrm { 1 } } ^ { \mathrm { 1 } } , P _ { d } - W _ { \mathrm { 1 } } - W _ { \mathrm { 1 } } ^ { \mathrm { 1 } } \right\}$ 。
+
+将 $\pmb { P } _ { d } = \left[ \begin{array} { c c } { \pmb { P } _ { d 1 } } & { \pmb { P } _ { d 2 } } \\ { * } & { \pmb { P } _ { d 3 } } \end{array} \right] , \pmb { W } _ { 1 } = \left[ \begin{array} { c c } { \pmb { W } _ { 1 1 } } & { \pmb { W } _ { 1 2 } } \\ { \mu _ { 1 } \pmb { W } } & { \pmb { W } } \end{array} \right] , \pmb { X } = \pmb { L } ^ { \operatorname { T } } \pmb { W }$ 代入式(34)，可得式(25)成立。定理证毕。
+
+# 2.2残差对有限频域故障的敏感性条件
+
+定理2给定满足 $0 < \lambda _ { 1 } \leq \lambda _ { 2 }$ 、 $\lambda _ { 1 } + \lambda _ { 2 } < 1$ 、 $0 \leq \sigma _ { 1 } \leq \sigma _ { 3 }$ 和 $\varepsilon > 0$ 的实数、 $\lambda _ { 2 }$ 、 $\sigma _ { 1 }$ 、 $\sigma _ { 2 }$ 和 $\varepsilon$ ，如果存在正定对称矩阵 $\smash { P _ { f \mathrm { ~ h ~ } } }  { \boldsymbol { Q } } _ { f }$ ，使得如下不等式成立：
+
+$$
+\left[ \begin{array} { c c c c c c c } { \overline { { A } } _ { 1 } } & { \overline { { F } } } & { \overline { { E } } _ { 1 } } & { \theta } & { \overline { { E } } _ { 3 } } & { \overline { { E } } _ { 4 } } \\ { - \hat { \alpha } \overline { { A } } _ { 2 } } & { \theta } & { - \hat { \alpha } \overline { { E } } _ { 2 } } & { \theta } & { \theta } & { \hat { \alpha } \overline { { G } } _ { 2 } } \\ { I } & { \theta } & { \theta } & { \theta } & { \theta } & { \theta } \end{array} \right] ^ { \intercal } \Xi _ { f } \left[ \begin{array} { c c c c c c c } { \overline { { A } } _ { 1 } } & { \overline { { F } } } & { \overline { { E } } _ { 1 } } & { \theta } & { \overline { { E } } _ { 3 } } & { \overline { { E } } _ { 4 } } & { \overline { { G } } _ { 1 } } \\ { - \hat { \alpha } \overline { { A } } _ { 2 } } & { \theta } & { - \hat { \alpha } \overline { { E } } _ { 2 } } & { \theta } & { \theta } & { \theta } & { \hat { \alpha } \overline { { G } } _ { 2 } } \\ { I } & { \theta } & { \theta } & { \theta } & { \theta } & { \theta } \end{array} \right] +
+$$
+
+$$
+\begin{array} { r } { \left[ \begin{array} { c c c c c c c } { \overline { { C } } _ { 1 } } & { \bullet } & { \overline { { E } } _ { s } } & { \bullet } & { \theta } & { \theta } & { \overline { { G } } _ { 3 } } \\ { \widehat { \alpha } \overline { { C } } _ { 2 } } & { \theta } & { \widehat { \alpha } \overline { { E } } _ { 6 } } & { \theta } & { \theta } & { \theta } & { - \widehat { \alpha } \overline { { G } } _ { 4 } } \\ { \theta } & { I } & { \theta } & { \theta } & { \theta } & { \theta } \end{array} \right] ^ { \mathrm { T } } I _ { f } \left[ \begin{array} { c c c c c c } { \overline { { C } } _ { 1 } } & { \theta } & { \overline { { E } } _ { s } } & { \theta } & { \theta } & { \theta } & { \overline { { G } } _ { 3 } } \\ { \widehat { \alpha } \overline { { C } } _ { 2 } } & { \theta } & { \widehat { \alpha } \overline { { E } } _ { 6 } } & { \theta } & { \theta } & { \theta } & { - \widehat { \alpha } \overline { { G } } _ { 4 } } \\ { \theta } & { I } & { \theta } & { \theta } & { \theta } & { \theta } \end{array} \right] + } \end{array}
+$$
+
+$$
+\left[ \begin{array} { c c c c c c c c } { \Gamma _ { 0 } } & { \theta } & { \theta } & { \theta } & { - \bar { E } _ { T } ^ { \top } \hat { S } _ { 2 } } & { - \bar { E } _ { s } ^ { \top } \hat { S } _ { 2 } } & { \theta } \\ { * } & { \theta } & { \theta } & { \theta } & { \theta } & { \theta } & { \theta } \\ { * } & { * } & { - 2 \varepsilon \Omega } & { \theta } & { \theta } & { \theta } & { \theta } \\ { * } & { * } & { * } & { ( \lambda _ { 1 } + \lambda _ { 2 } - 1 ) I } & { \theta } & { \theta } & { \theta } \\ { * } & { * } & { * } & { * } & { - I } & { \theta } & { \theta } \\ { * } & { * } & { * } & { * } & { * } & { - I } & { \theta } \\ { * } & { * } & { * } & { * } & { * } & { * } & { - I } \end{array} \right] < \theta
+$$
+
+则系统式(16)满足有限频域 $H _ { - }$ 性能指标 $\left\| r ( k ) \right\| _ { 2 } \geq \beta \left\| f ( k ) \right\| _ { 2 }$ 。其中， $\Gamma _ { 0 } = ( \sigma _ { 1 } + \sigma _ { 2 } ) \overline { { { C } } } _ { 2 } ^ { \mathrm { T } } \overline { { { C } } } _ { 2 } + \kappa ^ { 2 } H _ { 0 } ^ { \mathrm { T } } H _ { 0 } - H _ { 2 } ^ { \mathrm { T } } \hat { S } _ { 1 } H _ { 2 }$ ， $\pmb { \eta } _ { f } = \left[ \begin{array} { c c c } { - \pmb { I } } & { \pmb { 0 } } & { \pmb { 0 } } \\ { \ast } & { - \pmb { I } } & { \pmb { 0 } } \\ { \ast } & { \ast } & { \beta ^ { 2 } \pmb { I } } \end{array} \right] , \Xi _ { f }$ 在不同频域率下的取值如表1所示。
+
+表1集合 $\theta$ 与矩阵三在不同频域的取值  
+Tab.1 $\theta$ And $\Xi$ for different frequency ranges   
+
+<html><body><table><tr><td>频域</td><td>0</td><td colspan="3"></td></tr><tr><td>低频</td><td>0≤0</td><td>Pf0</td><td>Qf</td><td></td></tr><tr><td rowspan="3">中频</td><td rowspan="3"></td><td>* Pf</td><td>0</td><td></td></tr><tr><td>* *</td><td>-Pf -2cos(0,)Q]</td><td></td></tr><tr><td>Pf 0</td><td>e,Q</td><td></td></tr><tr><td rowspan="3"></td><td rowspan="3">0≤0≤0</td><td>*Pf</td><td>0</td><td></td></tr><tr><td>[</td><td>-P-2cos(0,)Q]</td><td></td></tr><tr><td>[P0</td><td>-Qf</td><td></td></tr><tr><td rowspan="2">高频</td><td rowspan="2">10≥0n</td><td>P</td><td>0</td><td></td></tr><tr><td>**</td><td>-Pf +2cos(0f)Qf</td><td></td></tr></table></body></html>
+
+证明首先考虑无外部扰动下滤波误差系统(16)的中频段情况。分别对式(35)左乘和右乘矩阵$\eta ( k ) = [ \xi ^ { \mathnormal { \mathrm { T } } } ( k ) f ^ { \mathnormal { \mathrm { T } } } ( k ) e _ { y } ^ { \mathnormal { \mathrm { T } } } ( k ) \Phi ^ { \mathnormal { \mathrm { T } } } ( k , { \pmb x } ( k ) ) \Delta \Phi ^ { \mathnormal { \mathrm { T } } } ( k ) g ^ { \mathnormal { \mathrm { T } } } ( { \pmb x } ( k ) ) \overline { { \mathcal { G } } } ^ { \mathnormal { \mathrm { T } } } ( k ) ]$ 及其转置，并结合迹运算关系式 $u ^ { \mathrm { { T } } } Q \nu = t r ( Q \nu u ^ { \mathrm { { T } } } )$ ，可以推导出：
+
+$$
+\begin{array} { r l } & { - \xi ^ { \operatorname { T } } ( k ) P _ { f } \xi ( k ) + \xi ^ { \operatorname { T } } ( k + 1 ) P _ { f } \xi ( k + 1 ) - r ^ { \operatorname { T } } ( k ) r ( k ) + \beta ^ { 2 } f ^ { \operatorname { T } } ( k ) f ( k ) + } \\ & { t r \Big [ \pmb { Q } _ { f } \cdot \big ( e ^ { - j \theta _ { f _ { p } } } \xi ( k + 1 ) \xi ^ { \operatorname { T } } ( k ) + e ^ { j \theta _ { f _ { p } } } \xi ( k ) \xi ^ { \operatorname { T } } ( k + 1 ) - } \\ & { 2 \cos \theta _ { f _ { c } } \xi ( k ) \xi ^ { \operatorname { T } } ( k ) \big ) \Big ] + \kappa ^ { 2 } \xi ^ { \operatorname { T } } ( k ) H _ { 0 } ^ { \operatorname { T } } H _ { 0 } \xi ( k ) - } \\ & { g ^ { \operatorname { T } } ( k , \pmb { x } ( k ) ) g ( k , \pmb { x } ( k ) ) - \eta ^ { \operatorname { T } } ( k ) ( \Lambda _ { 1 } + \Lambda _ { 2 } ) \eta ( k ) + } \\ & { ( \lambda _ { 1 } + \lambda _ { 2 } - 1 ) \mathcal { S } ( k ) + ( \sigma _ { 1 } + \sigma _ { 2 } ) \mathbf { y } ^ { \operatorname { T } } ( k ) \mathbf { y } ( k ) - 2 \varepsilon e _ { \mathrm { y } } ^ { \operatorname { T } } ( k ) \pmb { \Omega } e _ { y } ( k ) \le 0 } \end{array}
+$$
+
+考虑到非线性项的扇形有界条件、网络攻击函数的二次约束条件以及动态事件触发机制式(2)，对于 $k \in [ k _ { i } , k _ { i + 1 } )$ ，可推导出：
+
+$$
+\begin{array} { r l } & { \xi ^ { \mathrm { { T } } } ( k + 1 ) { \cal P } _ { f } \xi ( k + 1 ) - \xi ^ { \mathrm { T } } ( k ) { \cal P } _ { f } \xi ( k ) + \vartheta ( k + 1 ) - \vartheta ( k ) - } \\ & { r ^ { \mathrm { { T } } } ( k ) r ( k ) + \beta ^ { 2 } f ^ { \mathrm { { T } } } ( k ) f ( k ) + t r \big [ Q _ { f } \cdot \big ( e ^ { - j \theta _ { f _ { p } } } \xi ( k + 1 ) \xi ^ { \mathrm { { T } } } ( k ) + } \\ & { e ^ { j \theta _ { f _ { p } } } \xi ( k ) \xi ^ { \mathrm { { T } } } ( k + 1 ) - 2 \cos \theta _ { f _ { c } } \xi ( k ) \xi ^ { \mathrm { { T } } } ( k ) \big ) \big ] \le 0 } \end{array}
+$$
+
+选取Lyapunov-Krasovskii 泛函为 ${ \cal V } _ { f } ( k ) = \xi ^ { \mathrm { T } } ( k ) { \cal P } _ { f } \xi ( k )$ $+ \mathcal { S } ( k )$ ，则有：
+
+$$
+\begin{array} { c } { { \Delta { V } _ { f } ( k ) - r ^ { \mathrm { T } } ( k ) r ( k ) + \beta ^ { 2 } f ^ { \mathrm { T } } ( k ) f ( k ) + t r \Big [ Q _ { f } \cdot ( e ^ { - j \theta _ { f _ { p } } } \xi ( k + 1 ) \xi ^ { \mathrm { p } } \xi ( k ) + \xi ^ { \mathrm { p } } \xi ( k ) \xi ^ { \mathrm { p } } \xi ( k ) \Big ) \Big ] = 0 , } } \\ { { \cdot \xi ^ { \mathrm { T } } ( k ) + e ^ { j \theta _ { f _ { p } } } \xi ( k ) \xi ^ { \mathrm { T } } ( k + 1 ) - 2 \cos \theta _ { f _ { c } } \xi ( k ) \xi ^ { \mathrm { T } } ( k ) \Big ) \Big ] \leq 0 } } \end{array}
+$$
+
+在零初始条件下，对式(38)两边同时取 $\mathbf { k }$ 从0到 $\infty$ 进行累加可得：
+
+$$
+\sum _ { k = 0 } ^ { \infty } \bigl [ - r ^ { \operatorname { T } } ( k ) { r } ( k ) + \beta ^ { 2 } f ^ { \operatorname { T } } ( k ) f ( k ) \bigr ] + t r \bigl ( Q _ { f } M \bigr ) \le 0
+$$
+
+其中， $M : = \sum _ { k = 0 } ^ { \infty } \Bigl [ - e ^ { - j \theta _ { f _ { p } } } \xi ( k + 1 ) \xi ^ { \mathrm { { T } } } ( k ) - e ^ { j \theta _ { f _ { p } } } \xi ( k ) \xi ^ { \mathrm { { T } } } ( k + 1 ) ~ + ~ 2 \cos \theta _ { f _ { c } } \xi ( k + 1 ) ~ + ~ 3 \xi ( k + 1 ) ~ \xi ^ { \mathrm { { T } } } ( k ) { } ^ { \mathrm { { T } } } ( k + 1 ) ~ + ~ { } ~ \eta _ { s } { } ^ { \mathrm { { T } } } ( k ) { } ^ { \mathrm { { T } } } ( k ) \xi ( k ) { } ^ { \mathrm { { T } } } ( k + 1 ) ~ + ~ { } ~ .$ $1 ) \xi ^ { \mathrm { T } } ( k + 1 ) ]$ 。
+
+根据欧拉公式， $- M$ 可以在计算后转换为定义1中不等式(8)的左侧项，故 $\textbf { \em M }$ 是半正定的。由于 $\pmb { Q } _ { f } > \pmb { \theta }$ ，当式(39)成立时，式(39)左侧的最后一项为非负项。因此，可以得到$\sum _ { k = 0 } ^ { \infty } r ^ { \mathrm { { T } } } ( k ) r ( k ) \geq \beta ^ { 2 } \sum _ { k = 0 } ^ { \infty } f ^ { \mathrm { { T } } } ( k ) f ( k )$ ，即定义1中的有限频域 $H _ { - }$ 性能指标 $\beta$ 得到满足。
+
+同理，令 $\theta _ { f _ { 1 } } = - \theta _ { f _ { 2 } } = - \theta _ { f _ { l } }$ 可以得出执行器故障发生在低频段时的结果；令 $\theta _ { f _ { 1 } } = \theta _ { f _ { h } }$ 和 $\theta _ { f _ { 2 } } = 2 \pi - \theta _ { f _ { h } }$ 可得出执行器故障发生在低频段时的结果，其证明过程与上述中频段类似。定理证毕。
+
+注释3不等式(35)给出了有限频域 $H _ { - }$ 故障敏感性的设计条件，是广义KYP引理在事件触发机制与系统存在非线性项情况下的推广。
+
+# 2.3滤波器参数计算
+
+结合定理1-2，使用MATLAB中的YALMIP工具箱求解如下凸优化问题，可以获得最优滤波器参数 $\textbf { \em L }$ ，以及 $H _ { - } / H _ { \infty }$ 性能指标 $\gamma _ { \mathrm { m i n } }$ 和 $\beta _ { \mathrm { m a x } }$ ：
+
+$$
+\operatorname* { m i n } _ { P _ { d } > 0 , P _ { f } > 0 , Q _ { f } > 0 } \gamma - \beta
+$$
+
+其中，滤波器增益矩阵可由 $\ b { L } = \ b { W } ^ { - \mathrm { T } } \ b { X } ^ { \mathrm { T } }$ 计算求得。
+
+注释4为了降低事件触发机制式(10)的数据发送率触发阈值参数， $\varepsilon$ 应取较小值，然而 $\varepsilon$ 取值较小可能导致定理1-2中的约束条件无解。因此，为了在保证故障检测性能的前提下获得较低数据发送率，提出滤波器式(12)与动态事件触发机制式(10)的联合设计算法如下：
+
+算法1有限频故障输入下的 $H _ { - } / H _ { \infty }$ 故障检测滤波器与动态事件触发机制的联合设计a）初始化事件触发参数 $\lambda _ { 1 }$ 、 $\lambda _ { 2 }$ 、 $\sigma _ { 1 }$ 、 $\sigma _ { 2 }$ 、 $\scriptstyle { \varepsilon _ { 0 } }$ 和步长增量 $\Delta \varepsilon$ 。b）若定理1-2中的线性矩阵不等式可解，保存 $\varepsilon = \varepsilon _ { \mathrm { 0 } }$ 、 $\scriptstyle { \mathfrak { a } }$ 、 $\textbf { \em L }$ ，进入步骤c)；否则，重置步骤a)中参数。c）计算 $\boldsymbol { \varepsilon } = \boldsymbol { \varepsilon } + \Delta \boldsymbol { \varepsilon }$ ，若定理1-2中条件可行且 $\varepsilon > 0$ ，更新 $\varepsilon$ 、 $\scriptstyle { \mathfrak { a } }$ 、$\textbf { \em L }$ ，重复步骤c)；否则，进入步骤d)。d）输出动态事件触发机制式(10)的参数 $( \varepsilon , \pmb { \mathscr { \Omega } } )$ 、滤波器参数 $\textbf { \em L }$ 以及$H _ { - } / H _ { \infty }$ 性能指标 $\gamma _ { \mathrm { m i n } }$ 和 $\beta _ { \mathrm { m a x } }$ 。e）选取残差评价函数 $J ( k )$ 与阈值 $J _ { { t h } }$ ，并通过式(21)进行故障检测决策，判断故障是否发生。
+
+# 3 仿真实验与结果分析
+
+本节以搅拌釜式反映器系统[24]为例来说明所提方法的有效性，其平衡方程为
+
+$$
+\begin{array} { r l } { { } } & { { \cfrac { d C _ { A } } { d t } } = { \cfrac { F } { V } } \left( C _ { A _ { \mathrm { 0 } } } - C _ { A } \right) - k _ { \mathrm { 1 } } C _ { A } e ^ { - { \frac { E } { R T } } } } \\ { { } } & { { \cfrac { d C _ { B } } { d t } } = - { \cfrac { F } { V } } C _ { B } + k _ { \mathrm { 1 } } C _ { A } e ^ { - { \frac { E } { R T } } } - k _ { \mathrm { 2 } } C _ { B } e ^ { \frac { E } { R T } } } \\ { { } } & { { \cfrac { d T } { d t } } = { \cfrac { F } { V } } \left( T _ { \mathrm { 0 } } - T \right) + { \cfrac { k _ { \mathrm { \omega } } A _ { R } } { \rho V C _ { p } } } \left( T _ { \mathrm { c } } - T \right) - { \cfrac { k _ { \mathrm { 1 } } C _ { A } \Delta H _ { R } ^ { A B } + k _ { \mathrm { 2 } } C _ { B } \Delta H _ { R } ^ { B C } } { \rho C _ { p } } } e ^ { \frac { E } { R T } } } \end{array}
+$$
+
+其中， $C _ { A }$ 为反映物浓度， $C _ { A _ { 0 } }$ 为进料浓度， $C _ { B }$ 为生成物浓度，$C _ { B }$ 为生成物浓度， $T$ 为反映温度， $T _ { c }$ 为冷却剂温度， $V$ 为反映器容积， $F$ 为容积流量， $\rho$ 为液体密度， $E / R$ 为反映激活能， $\textstyle A _ { R }$ 为热交换系数， $\Delta H$ 为反映热。图1为搅拌釜式反映器系统的示意图，选取 $x ( t ) = \left[ x _ { 1 } ( t ) \quad x _ { 2 } ( t ) \quad x _ { 3 } ( t ) \right] ^ { \mathrm { T } }$ 作为状态变量，其中$x _ { 1 } ( t )$ 表示进料物 $A$ 在 $t$ 时刻的浓度， $x _ { 2 } ( t )$ 表示出料物 $B$ 在 $t$ 时刻的浓度， $x _ { 3 } ( t )$ 表示 $t$ 时刻反映室的温度。图2为搅拌釜式反映器系统的示意图。
+
+取步长 $\Delta t = 0 . 1 s$ 对系统式(41)进行欧拉离散化处理，可得形如系统式(1)的状态空间表达式：
+
+$$
+\begin{array} { r } { \left\{ \pmb { x } ( k + 1 ) = \pmb { A } \pmb { x } ( k ) + \Phi ( k , \pmb { x } ( k ) ) + \pmb { B } \pmb { w } ( k ) + \pmb { F } \pmb { f } ( k ) \right. } \\ { \left. \left. \begin{array} { r l } { \pmb { y } ( k ) = \pmb { C } \pmb { x } ( k ) + \pmb { D } \pmb { w } ( k ) } & { { } } \end{array} \right. \right. } \end{array}
+$$
+
+$A = \left[ \begin{array} { l l l } { 0 . 3 8 7 2 } & { 0 . 0 2 2 2 } & { 0 . 0 1 8 3 } \\ { 0 . 2 4 4 4 } & { 0 . 3 8 9 7 } & { 0 . 0 0 0 7 } \\ { - 0 . 0 6 8 5 } & { 0 . 9 7 1 1 } & { 0 . 4 0 0 8 } \end{array} \right]$ [0.0095]其中，参数矩阵为 ， $\pmb { B } = \left| \begin{array} { l } { 0 . 6 4 7 4 } \end{array} \right|$ 0.6779${ \pmb F } = \left[ \begin{array} { l } { - 0 . 1 5 } \\ { 0 . 0 7 } \\ { - 0 . 0 1 } \end{array} \right] , { \pmb C } = \left[ 1 \quad 0 \quad 0 \right] , { \pmb D } = 0 . 2 \ { \circ }$ （20
+
+仿真过程中，假定执行器故障发生在低频域 $\left. \theta \right. \leq \pi / 1 0$ ，选取参数 $\lambda _ { 1 } = 0 . 1$ ， $\lambda _ { 2 } = 0 . 3$ ， $\sigma _ { 1 } = 0 . 1$ ， $\sigma _ { 2 } = 2$ ， $\varepsilon _ { \mathrm { 0 } } = 3$ ， $\kappa = 1$ ，非线性函数 $\Phi ( { \pmb x } ( k ) ) = 0 . 5 ( S _ { 1 } + S _ { 2 } ) { \pmb x } ( k ) + 0 . 5 ( S _ { 2 } - S _ { 1 } ) { \pmb x } ( k )$ $\sin ( { \pmb x } ( k ) )$ ，$\sin ( { \pmb x } ( k ) ) : = d i a g \{ \sin ( { \pmb x } _ { 1 } ( k ) ) , \ \sin ( { \pmb x } _ { 2 } ( k ) ) , \ \sin ( { \pmb x } _ { 3 } ( k ) ) \} \ ,$ $S _ { 1 } = \{ 0 . 1 , 0 . 1 5 , 0 . 2 \}$ ，$S _ { 2 } = \{ 0 . 0 5 , 0 . 1 , 0 . 1 5 \}$ ， $\scriptstyle H = [ 1 \quad 0 \quad 0 ]$ ，随机网络攻击的函数为$g ( { \pmb x } ( k ) ) = - \operatorname { t a n h } [ 0 . 3 { \pmb x } _ { 1 } ^ { \operatorname { \scriptscriptstyle T } } ( k ) 0 . 2 { \pmb x } _ { 2 } ^ { \operatorname { \scriptscriptstyle T } } ( k ) 0 . 1 { \pmb x } _ { 3 } ^ { \operatorname { \scriptscriptstyle T } } ( k ) $ ，系统的状态初值与滤波器初值分别为 $\pmb { x } ( 0 ) { = } [ 0 \quad - 1 \quad 0 . 8 ] ^ { \mathrm { T } }$ ， $\hat { \pmb { x } } ( 0 ) = [ 0 \quad 0 \quad 0 ] ^ { \mathrm { T } }$ ，外部扰动信号为
+
+$$
+\pmb { w } ( k ) = 0 . 2 e ^ { - 0 . 0 2 k } \sin ( 0 . 8 k ) , 0 \leq k < 5 0 0
+$$
+
+通过求解凸优化问题式(40)，可以得到最优性能指标$\gamma = 0 . 0 8 3 9$ 与 $\beta = 0 . 8 1 9 4$ ，滤波器增益矩阵为$\pmb { L } = [ - 0 . 2 5 2 9$ 0.0217-0.4418]。此外，为了验证本文所提方法的有效性，将故障检测结果与不考虑故障频率特性的 $H _ { \infty }$ 滤波器(参考文献[16])进行对比，选取与上述有限频域方法相同的值，即 $\gamma = 0 . 0 8 3 9$ ，求得滤波器增益矩阵为 ${ \pmb { L } } _ { f u l l } =$ [-0.47200.0217-0.0795]T。
+
+![](images/c40cbec60dc33f3391f8f10cafd045455c81ea0f0aa1cf1aa587c5a94bffd0b9.jpg)  
+图2搅拌釜式反映器截面图
+
+本节主要考虑两种类型的执行器故障，分别为突变故障和缓变故障。首先，假设执行器在时刻 $1 3 0 < k \leq 3 0 0$ 内发生幅值为0.4的突变故障，表达式为
+
+$$
+f ( k ) = { \left\{ \begin{array} { l l } { 0 . 4 , } & { 1 3 0 \leq k < 3 0 0 } \\ { 0 , } & { { \stackrel { \mathrm { H } } { \times } } { \stackrel { \cdot } { \mathrm { E } } } } \end{array} \right. }
+$$
+
+图3给出了残差信号在有故障和无故障时的波动情况，对比可以看出在系统发生故障的时间段 $1 3 0 \leq k < 3 0 0$ 内，残差信号有较为明显的波动。图4表示在突变故障发生前后残差评价函数 $J ( k )$ 随时间变化的曲线。系统在 $k = 1 3 0$ 时刻发生故障后， $J ( k )$ 逐渐超过阈值 $J _ { { \mathit { t h } } }$ ，红色实线表示有限频域故障检测方法下的残差评价函数，蓝色虚线表示无故障时的残差评价函数，根据残差评价机制式(19)\~(21)进行计算比较可得$J ( 1 3 4 ) { = } 0 . 3 6 4 9 > J _ { t h } = 0 . 3 6 4 3$ ，即4个时间步长内检测出故障的发生。黑色点划线表示全频域故障检测方法下的残差评价函数，6个时间步长后检测出故障。如图5所示，在500个评估时刻内，采样的次数为500次，而传感器发送数据的次数为217次，意味着数据传输率仅有 $4 3 . 4 \%$ ，节约了 $56 . 6 \%$ 的网络资源。
+
+![](images/d0363e9232370929faca0a5bc00ec164515f7cbf1e4b677089e3c34eeb70d806.jpg)  
+Fig.2The cross-sectional diagram of stirred tank reactor   
+图3针对突变故障的残差信号 Fig.3Residual signal for abrupt faults
+
+![](images/3c4aa94d1e7b6f311e166d1888ede36dea255f3e510a455163affabfe922e392.jpg)  
+图4针对突变故障的残差评价函数
+
+![](images/c4098f8e06b492680ec07ff2436d67785ea2dd824be84bc9cdbbd659eeeb2518.jpg)  
+Fig.4Residual evaluation function for abrupt faults
+
+其次，考虑执行器在时刻 $k = 1 3 0$ 后发生缓变故障，表达式为
+
+$$
+f ( k ) = \left\{ \begin{array} { l l } { 0 . 0 0 5 ( k - 1 3 0 ) , } & { 1 3 0 \leq k < 2 0 0 } \\ { 0 . 3 5 + 0 . 0 3 \sin ( 0 . 3 \pi ( k - 2 0 0 ) ) , } & { 2 0 0 \leq k < 3 0 0 } \\ { 0 , } & { \sharp : \overset { . . . } { \mapsto } } \end{array} \right.
+$$
+
+与突变故障类似，缓变故障同样处于低频域段。在系统发生故障的时间段 $1 3 0 \leq k < 3 0 0$ 内，图6中的残差信号有明显的波动。图7表示在缓变故障发生前后残差评价函数 $J ( k )$ 随时间变化的曲线。系统在 $k = 1 3 0$ 时刻发生故障后， $J ( k )$ 逐渐超过阈值 $J _ { \mathit { t h } }$ ，红色实线表示有限频域故障检测方法（ $H _ { - } / H _ { \infty }$ 滤波器）下的残差评价函数，蓝色虚线表示无故障时的残差评价函数，根据残差评价机制(19)\~(21)进行计算比较可得$J ( 1 3 5 ) = 0 . 9 5 4 7 > J _ { \iota h } = 0 . 9 5 4 2$ ，即5个时间步长内检测出故障的发生。黑色点划线表示全频域故障检测方法（ $H _ { \infty }$ 滤波器）下的残差评价函数，12个时间步长后检测出故障。结合图4与7可知，相比于传统的全频域方法[16采用的 $H _ { \infty }$ 滤波器，本文中有限频域故障检测方法选用的 $H _ { - } / H _ { \infty }$ 滤波器能够充分考虑故障的频率特性，所生成的残差对故障有更大的敏感度且能更快速地检测出故障的发生。
+
+![](images/9ca54cbe8ecfe82f6d9522e1c68f9764b37540a7d4a6fe4479327f07f9934c3e.jpg)  
+Fig.5Release instants and intervals for abrupt faults   
+图6针对缓变故障的残差信号 Fig.6Residual signal for incipient faults
+
+![](images/1220b926709b0c969944359f4fc3d73ac920f1bfae30b210163ce4937dc99bf8.jpg)  
+图7针对缓变故障的残差评价函数
+
+此外，图8给出了缓变故障下的触发时刻与触发间隔。如图8所示，500个评估时刻内，采样的次数为500次，而传感器发送数据的次数为208次，意味着数据传输率仅有 $4 1 . 6 \%$ 节约了 $5 8 . 4 \%$ 的网络资源。图9、10给出在缓变故障的影响下，周期性事件触发机制与静态事件触发机制下的触发时刻与触发间隔。对比图8\~10可知，事件触发机制避免了每个采样周期都传输测量输出数据，且动态事件触发机制能进一步降低传输率。相应地，表2给出了本文方法与不同传输机制下的故障检测方法的数据传输率对比。可以看出，在突变与缓变故障情况下本文采用的动态事件触发机制均能更显著地节约网络资源。
+
+![](images/271dd9fe6901bd546280206916f9a5671fc9afbdd6dea6d0cc5ef876d9b6c4e2.jpg)  
+图5针对突变故障的触发时刻与触发间隔  
+图8本文中动态事件触发机制的触发时刻与触发间隔 Fig.8Release instants and intervals under the dynamic eventtriggered scheme in this paper
+
+![](images/755014235de3183fdb574ff331536183277598f5f281cd20048f0abc8131982d.jpg)  
+Fig.7Residual evaluation function for incipient faults   
+图9文献[9\~10]中周期性时间触发机制的触发时刻与触发间隔 Fig.9Release instants and intervals under the periodic time-triggered scheme in reference [9\~10]
+
+综上所述，本文所设计的 $H _ { - } / H _ { \infty }$ 故障检测滤波器可以将故障的有限频域特性考虑到 $H _ { - }$ 性能指标的设计中，且快速地检测网络攻击下搅拌釜式反映器系统中故障的发生。表3清晰地呈现了本文仿真实验数据。此外，引入的动态事件触发传输策略可以进一步地减少输出测量数据向滤波器的发送量，更显著地节约网络资源。
+
+# 4 结束语
+
+本文提出一种动态事件触发机制下非线性网络系统的有限频域故障检测方法。在考虑扇区有界非线性和随机网络攻击的情况下，将故障的有限频域特性考虑到 $H _ { - }$ 性能指标的设计中，利用Lyapunov 稳定性理论和线性矩阵不等式方法得到故障检测滤波器存在的充分条件，并使用凸优化方法获取最优滤波器参数。仿真结果表明，与全频域故障检测方法相比，有限频域方法对故障更加敏感，具有更快的检测速度，且动态事件触发机制能更显著地节约网络资源。此外，将本文所提出的故障检测方法推广至多智能体系统[25]与信息物理系统[26]，是下一步需要研究的问题。
+
+![](images/99d255d10627eaffbdaa2215547ead30bbae196be54672ab935076b1de411400.jpg)  
+图10文献[11\~12]中静态事件触发机制的触发时刻与触发间隔 Fig.l0Release instants and intervals under the static event-triggered scheme in reference [11\~12]
+
+Tab.2 Comparison of different data transmission schemes   
+
+<html><body><table><tr><td rowspan="2">触发机制</td><td colspan="2">数据传输率</td></tr><tr><td>突变故障</td><td>缓变故障</td></tr><tr><td>周期性时间触发机制[9:10]</td><td>100%</td><td>100%</td></tr><tr><td>静态事件触发机制[11:12]</td><td>58.1%</td><td>56.8%</td></tr><tr><td>本文动态事件触发机制</td><td>43.4%</td><td>41.6%</td></tr></table></body></html>
+
+表3不同方法下故障检测性能的比较
+
+表2不同传输机制的数据传输率比较  
+Tab.3Comparison of the fault detection performances by different methods   
+
+<html><body><table><tr><td rowspan="2">故障检测方法</td><td rowspan="2">H性能指标H_性能指标</td><td colspan="2">故障检测时间</td></tr><tr><td>突变故障</td><td>缓变故障</td></tr><tr><td>全频域方法[16]</td><td>0.0839</td><td></td><td>6个时间步长12个时间步长</td></tr><tr><td>本文有限频域方法</td><td>0.0839</td><td>0.8194</td><td>4个时间步长5个时间步长</td></tr></table></body></html>
+
+# 参考文献：
+
+[1]Zhang Wenan,Dong Hui,Guo Ge,et al.Distributed sampled-data filtering for sensor networks with nonuniform sampling periods [J].IEEE Transactions on Industrial Informatics,2014,10 (2):871-881.   
+[2]Cuenca A,Antunes D J,Castillo A,et al.Periodic event-triggered sampling and Dual-Rate Control for a wireless networked control system with applications to UAVs [J].IEEE Transactions on Industrial Electronics,2019,66 (4):3157-3166.   
+[3]Meng Cai,Wang Tianmiao,Chou Wusheng,et al. Remote surgery case: robot-assisted teleneurosurgery [J].IEEE International Conference on Robotics and Automation,2004,1: 819-823.   
+[4]黄可望，刘艳，潘丰．时延网络化控制系统的量化输出反馈耗散控 制[J].计算机应用研究,2018,35(10):3053-3056.(Huang Kewang, Liu Yan,Pan Feng.Quantitied output feedback dissipative control networked control systems with time-delay[J].Application Research of Computers,2018,35 (10):3053-3056.)
+
+[5]Yan Huaicheng,Qian Fengfeng,Yang Fuwen,et al.filtering for nonlinear networked systems with randomly occurring distributed delays, missing measurements and sensor saturation [J].Information Sciences, 2016,370-371:772-782.
+
+[6] 汪浩，姜顺，潘丰．基于 Round-Robin 协议网络化系统的故障检测 [J]．信息与控制,2019,48(5):595-602.(Wang Hao,Jiang Shun,Pan Feng.Fault detection for networked control systems based on RoundRobin protocol. Information and Control, 2019,48 (5): 595-602.)   
+[7]Li Hongyi, Gao Yabin,Shi Peng,et al. Observer-based fault detection for nonlinear systems with sensor fault and limited communication capacity [J].IEEE Transactions on Automatic Control,2016,61 (9): 2745-2751.   
+[8] 黎煊，吴晓蓓．具有长时延和丢包的网络控制系统的故障检测[J]. 计算机工程与应用，2008,44(33):221-223.(Li Xuan,WuXiaobei. Fault detection for networked control systems with long time-delay and packet dropout [J]. Computer Engineering and Applications,2008, 44 (33): 221-223.)   
+[9]刘健辰．事件触发通信机制下的有限频故障检测[J].信息与控制, 2017,46 (1):13-18. (Liu Jianchen.Fault detection in the finite frequency domain with an event-triggered communication scheme.Information and control,2017,46 (1): 13-18.)   
+[10] 李炜，陈文婧．事件触发非均匀传输 NCS 少保守性鲁棒主动优化选 择容错控制[J].计算机应用研究,2019,36(7):2049-2053.(Li Wei, Chen Wenjing. Active optimization choice of NCS less conservative robustfault-tolerant controller under event trigger non-uniform transmission[J].Application Research of Computers,2019,36(7): 2049- 2053.)   
+[11] Ren Weijian,Sun Shibo,HOU Nan,et al.Event-triggered non-fragile fault detection for discrete time-delayed nonlinear systems with channel fadings [J]. Journal of the Franklin Institute,2018,355 (1): 436-457.   
+[12]李艳辉，陶莹莹．事件触发机制下分布时滞网络化控制系统故障检 测[J]．控制与决策，2019,35(12):3059-3065.(Li Yanhui，Tao Yingying.Event-triggered $\mathrm { H } \infty$ fault detection for networked control systems with distributeddelays[J]. Control and Decision,2019,35 (12): 3059-3065.)   
+[13] Mousavi S H,Marquez HJ. Integral-based event triggering controller design for stochastic LTI systems via convex optimization [J]. International Journal of Control,2016,89 (7): 1416-1427.   
+[14] Dolk V S,Borgers D P,Heemels W P M H. Output-based and decentralized dynamic event-triggered control with guaranteedgain performance and zeno-freeness [J]. IEEE Transactions on Automatic Control,2017,62 (1): 34-49.   
+[15] Liu Yan, YANG Guanghong,LI Xiaojian. Event-triggered fault detection observer design for affine fuzzy systems [J].Neurocomputing,2017,267: 564-571.   
+[16] Ning Zhaoke,Wang Tong，Song Xiaona,et al.Fault detection of nonlinear stochastic systems via a dynamic event-triggered strategy [J]. Signal Processing,2020,167,107283.   
+[17] Wang Xudong,Fei Zhongyang, YAN Huangcheng,et al. Dynamic eventtriggered fault detection via Zonotopic residual evaluation and its application to vehicle lateral dynamics [J].IEEE Transactions on Industrial Informatics,2020,16 (11):6952-6961.   
+[18]Hu Songlin, Yue Dong, Xie Xiangpeng,et al. Resilient event-triggered controller synthesis of networked control systems under periodic DoS jamming attacks[J]. IEEE Trans Cybernetics,2019,49 (12): 4271-4281.   
+[19] Iwasaki T, Hara S.Generalized KYP lemma: unified frequency domain inequalitieswith design applications [J].IEEE Transactions on Automatic Control,2005,50 (1): 41-59.   
+[20] Gu Ying, Yang Guanghong.Event-triggered fault detection for discretetime Lipschitz nonlinear networked systems in finite-frequency domain
+
+[J].Neurocomputing,2017,260: 245-256.   
+[21] Iwasaki T,Hara S,Fradkov A L.Time domain interpretations of frequency domain inequalities on (semi) finite ranges [J]. Systems & Control Letters,2005,54(7):681-691.   
+[22] Gu Ying,Yang Guanghong.Reliablefilter design for a class of discrete-time nonlinear systems with time-varying delay. Optimal Control Applications and Methods 2009;31 (4):303-322.   
+[23] De Oliveira M C,Geromel JC,Bernussou J.Extended andnorm characterizations and controller parametrizations for discrete-time systems [J].International Journal of Control,2002,75 (9): 666-679.   
+[24] Chen Bo,Hu Guoqiang,HO DW C,et al.Distributed Robust Fusion Estimation with Application to State Monitoring Systems [J].IEEE Transactions on Systems,Man,and Cybernetics: Systems,2017,47(11): 2994-3005.   
+[25]李富强，豆根生，郑宝周．基于事件触发机制的多智能体网络平均 一致性研究[J].计算机应用研究,2017,34(3):665-670.(LiFuqiang, Dou Gensheng,Zheng Baozhou. Study on average consistency of multiagent networks based on event-triggered mechanism [J].Application Research of Computers,2017,34 (3): 665-670.)   
+[26] Gu Zhou,Zhou Xiaohong,Zhang Tao,et al. Event-triggered filter design for nonlinear cyber-physical systems subject to deception attacks [J].ISA Transactions,2020,104:130-137.

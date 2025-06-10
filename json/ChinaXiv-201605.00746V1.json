@@ -1,0 +1,357 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Resting-state functional connectivity between the dorsal anterior cingulate cortex and thalamus is associated with risky decision-making in nicotine addicts ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: 08 July 2015   \nAccepted: 01 February 2016   \nPublished:16 February 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhengde Wei1\\*, Nannan Yang1,\\*,Ying Liu²,Lizhuang Yang1, Ying Wang1,Long Han1, Rujing Zha1, Ruiqi Huang1, Peng Zhang³,Yifeng Zhou1 & Xiaochu Zhang1,4,5,6 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nicotineaddiction is associated with risky behaviors and abnormalities in local brain areas related to riskydecision-making such as the dorsal anterior cingulate cortex(dACC),anteriorinsula(Al),and thalamus.Although these brain abnormalities are anatomically separated,they mayin fact belong to one neural network. However, it is unclear whether circuit-levelabnormalities lead to riskydecisionmaking in smokers. In the current study, we used task-based functional magnetic resonance imaging (fMRI) and examined resting-statefunctional connectivity(RSFC)to study how connectivity between the dACC,insula,and thalamus influence risky decision-making in nicotine addicts.Wefound that an increase in risky decision-making was associated with stronger nicotine dependence and stronger RSFC of the dACC-rAI(right AI),thedACC-thalamus,the dACC-IAI(left AI),and the rAl-IAI,butthat risky decision-making was notassociated with risk level-related activation.Furthermore,the severity of nicotine dependence positively correlated with RSFCofthe dACC-thalamus but was not associated with risk level-related activation.Importantly,the dACC-thalamus coupling fully mediated the effect of nicotine-dependent severity on risky decision-making.These results suggest that circuit-level connectivity may be a critical neurallink between risky decision-making and severity of nicotine dependence in smokers. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nicotine addiction is associated with risky behaviors,²andabnormalities inbrain areas related to decision making34 such as the dorsal anterior cingulate cortex $( \\mathrm { d A C C } ) ^ { 5 , 6 }$ ,insula7,8,thalamus9,10 and striatum11,12. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The dACC is primarily responsible for evaluation in decision makingl3.Abnormal activity in the dACC has been linked to cravings for cigarettes9.The anterior insula (AI) plays a key role in mediating the relationship between nicotine dependence and risky decision making [e.g.,Risky-Gains taskl4].Abnormal activity in the thalamus has also been associated with cigarette cravings15. Although brain abnormalities associated with risky decision making and nicotine addiction are found in anatomicall separated regions (e.g.,the dACC,AI and thalamus),these regions may in fact be parts of one neural network. Changes in this neural network may revealimportant informationabout global deficits in the organizationof the brain16.Sofar,it is unclear whether circuit-level abnormalities lead to behavioral deficit in riskydecision making in population ofnicotine addicts. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/496bd83c66aab1f16fcc9ee27a01adabf208b33f575d0f544b265a25d5e356dc.jpg",
+        "img_caption": [
+            "Figure1. The BART paradigm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8df868ef58cbe3e034aa9c485b3a34dcc4e5424791d334106ba5fd6035322022.jpg",
+        "img_caption": [
+            "Figure 2. The mean pumps positively correlated with nicotine dependence severity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The dACC,AI and thalamus are critical nodes of the salience network,a well-defined functional brain network17 that mainly serves to identify relevant internal and external stimuli to guidebehaviorl8. Risky stimuli(e.g., a risky choice), which are associated with strong subjective excitement and strong interoceptive change19, maybe highly salient.Previous studies found stronger connectivity within the salience network in nicotineaddiction20,21. In the present study, we hypothesized that in population of nicotine addicts,greater connectivity between the dACC, AI,and thalamus may enhance the salience processing of risky stimuli, resulting in an increase in risky decision making. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To study how functional connectivity influence risky decision making in population of nicotine addicts,we used task-based functional magnetic resonance imaging (fMRI) in conjunction with the Balloon Analogue Risk Task (BART2; Fig.1) and resting-state functional connectivity (RSFC), which can acquire temporal correlations betwee spontaneous regionalactivities inthe absence of externallycontrolled tasks or stimuli23.We frsttested the relationship between the severity of nicotine dependence and risky decision making using BART.Then, we used correlation and causal mediation analyses,statistical methods thatcan inform understanding ofhow brain regions interact to result inbehavior,thus,whether the RSFCwas the link between riskydecision making and the severity of nicotine dependence. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Task performance.The BART used in this study is a sequential decision-making task, widely used as a tool for assessing risky behavior22 It provides participants a chance to pump virtual balloons to win potential monetaryreward.However,each pump simultaneously increases the risk tolose accumulated reward for that balloon2. The mean pumps (the mean number of pumps acrosstrials for balloons that did not explode,which is a typical behavior index of risky decision making in the BART) were $5 . 7 \\pm 1 . 4$ and the FTND (Fagerstrom Test of Nicotine Dependence, which is used to measure the severity of nicotine dependence) score was $4 . 2 \\pm 1 . 9$ . The mean pumps were positively correlated with the FTND scores across participants ( $\\mathbf { \\check { r } } = 0 . 4 4 2$ $\\mathtt { p } = 0 . 0 4 5$ ;Fig.2). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Relationship of task-based activation to task performance and severity of nicotine dependence.During pumping,significant risk level-related activations $( \\mathtt { p } < 0 . 0 0 5$ ,family-wise error corrected) were found in the bilateral dorsal anterior cingulate cortex (dACC),right anterior insula (rAI),leftanterior insula (IAI), bilateralthalamus,right precentral gyrus,right inferior parietal lobe(rIPL)and left inferior parietal lobe (IIPL)(Table1).None ofthe activations of these regions significantly correlated with the mean pumps or FTND scores (Table 1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8fe53b0bc1abbfe456d482f6afdbd306fff1679fb4d8b6a9b90490d98ba3a995.jpg",
+        "table_caption": [
+            "Table 1.The risk level-related activation derived froma whole-brain analysis and its relationship to the mean pumps and severity of nicotine dependence. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Regions</td><td rowspan=\"2\">X</td><td rowspan=\"2\">y</td><td rowspan=\"2\">Z</td><td rowspan=\"2\">Max z</td><td rowspan=\"2\">Cluster size (voxels)</td><td colspan=\"2\">Mean pumps</td><td colspan=\"2\">FTND</td></tr><tr><td>r</td><td>P</td><td>r</td><td>P</td></tr><tr><td>R precentral gyrus</td><td>-34</td><td>14</td><td>52</td><td>5.35</td><td>249</td><td>0.288</td><td>0.205</td><td>-0.008</td><td>0.972</td></tr><tr><td>R anterior insula</td><td>-32</td><td>-23</td><td>-1</td><td>6.65</td><td>146</td><td>0.399</td><td>0.074</td><td>0.192</td><td>0.405</td></tr><tr><td>Bilateral dACC</td><td>-8</td><td>-2</td><td>47</td><td>7.20</td><td>132</td><td>0.368</td><td>0.101</td><td>0.180</td><td>0.435</td></tr><tr><td>R IPL</td><td>-56</td><td>25</td><td>32</td><td>4.59</td><td>82</td><td>0.244</td><td>0.286</td><td>0.034</td><td>0.883</td></tr><tr><td>Bilateral thalamus</td><td>-8</td><td>22</td><td>-4</td><td>3.60</td><td>63</td><td>0.305</td><td>0.179</td><td>0.152</td><td>0.511</td></tr><tr><td>L anterior insula</td><td>31</td><td>-17</td><td>11</td><td>6.07</td><td>42</td><td>0.335</td><td>0.138</td><td>0.260</td><td>0.255</td></tr><tr><td>L IPL</td><td>55</td><td>28</td><td>35</td><td>4.47</td><td>40</td><td>0.257</td><td>0.262</td><td>0.011</td><td>0.961</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RSFC and relationship to task performance and severity of nicotine dependence. The RSFCs between the bilateraldACC,r-AI,l-AIand bilateral thalamus (Fig.3)were calculated and the relationship to the mean pumps and FTND score was tested.Mean pumps positively correlated with the RSFC of dACC-rAI 0 $\\mathbf { r } = 0 . 5 2 5$ 0 $\\mathrm { p } = 0 . 0 1 5 ^ { \\cdot }$ ,dACC-thalamus $\\mathrm { ' } \\mathbf { r } = 0 . 5 7 6$ $\\mathtt { P } = 0 . 0 0 6 )$ ,dACC-IAI $\\mathrm { \\Phi } _ { \\mathrm { { r } } } = 0 . 5 6 4$ $\\mathtt { p } = 0 . 0 0 8$ ),and rAI-lAI 0 $\\mathrm { \\Delta } \\cdot \\mathrm { \\Delta } \\mathrm { r } = 0 . 4 6 5$ 0 $\\mathsf { p } = 0 . 0 3 4 )$ ,but did not correlate with the other RSFC.The FTND score positively correlated with the RSFC of the dACC-rAI $\\mathbf { \\tilde { r } } = 0 . 4 7 3$ $\\mathrm { p } { = } 0 . 0 3 1$ )and dACC-thalamus( $\\mathrm { { ' } r } = 0 . 6 4 7$ $\\begin{array} { r } { \\mathtt { p } = 0 . 0 0 2 , } \\end{array}$ ),but did not correlate with the other RSFC.We performed a FDR-correction for multiple comparisons $\\left( \\mathrm { F D R } < 0 . 0 5 \\right)$ .Correlation between the mean pumps and the RSFC of dACC-thalamus ( ${ \\mathrm { \\Delta } } \\mathrm { r } = 0 . 5 7 6$ 0 $\\mathtt { p } = 0 . 0 3 6$ ,corrected),dACC-lAI $_ { \\mathrm { ( r = 0 . 5 6 4 } }$ $\\mathtt { p } = 0 . 0 2 4$ ,corrected),dACC-rAI $\\mathrm { \\Delta r } = 0 . 5 2 5$ 0 $\\mathtt { p } = 0 . 0 3 0$ ,corrected),and rAI-lAI $( \\mathbf { r } = 0 . 4 6 5$ $\\mathrm { p } { = } 0 . 0 5 1$ ， corrected),and correlation between the FTND score and the RSFC of dACC-thalamus ( ${ \\bf \\ddot { r } } = 0 . 6 4 7$ 0 ${ \\tt p } = 0 . 0 1 2$ 0 corrected) survived the correction.However, correlation between the FTND score and the RSFCof dACC-rAI $\\mathrm { \\Delta } \\cdot \\mathrm { r } = 0 . 4 7 3$ 0 $\\mathtt { p } = 0 . 0 9 3$ ,corrected) did not survive. Only the RSFC of the dACC-thalamus correlated with both the mean pumps and the FTND score (Fig. 4). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Other RSFC between regions related to risk level except couplings between bilateral dACC,bilateral AI and bilateral thalamus were calculated and then relationship to mean pumps and FTND score was tested (see details in supplementary materials).We did not find any coupling that significantly correlated with both mean pumps and FTND score. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RSFC mediation effect.Mediation analysis is a statistical method widely used in psychology research to examine correlated pathways among relational variables and tests whether asociation between an independentand dependent variable could be explained bya third variable24.To examine whether the RSFC of the dACC-thalamus pathway might mediate the effect ofthe FTND score on mean pumps, we performed a mediation analysis24,25(see details in methods section).The mediation efect was considered tooccurif the relationship between the FTND score (independent variable)and mean pump (dependent variable) could be partially or totally accounted forby the RSFCofthe dACC-thalamus (hypothesized mediator).In the first step of the mediation analysis,the hypothesized mediator of the RSFC of dACC-thalamus was regressed on the FTND scores.Higher FTND score predicted a stronger RSFC of dACC-thalamus $[ \\beta = 0 . 6 4 7$ 0 $\\mathrm { S E } = 0 . 0 1 5$ 0 $\\mathrm { t } ( 1 9 ) = 3 . 6 9 4$ 0 $\\mathtt { p } = 0 . 0 0 1 \\$ . Secondly, the mean pumps were regressed on the FTND score,and the higher FTND score significantly predicted more mean pumps $[ \\beta = 0 . 4 4 2$ 0 $\\mathrm { S E } = 0 . 2 7 5$ 0 $\\mathrm { t } ( 1 9 ) = 2 . 1 4 5$ $\\mathtt { p } = 0 . 0 2 3 ]$ . Thirdly, the mean pumps wereregressed on theFTND score together with the hypothesized mediator. Stronger RSFCofdACC-thalamus significantly predicted more mean pumps $[ \\beta = 0 . 4 9 9$ ， $\\mathrm { S E } = 2 . 1 5 1$ ， $\\mathrm { t } ( 1 8 ) = 1 . 9 9 0$ $\\mathrm { p } = 0 . 0 3 1 \\dot { }$ 1.The relationship between the FTND score and mean pumps decreased in strength with the presence of the mediator (RSFC of dACC-thalamus) and was not significant $[ \\beta = 0 . 1 1 9 , \\mathrm { S E } = 0 . 1 8 8 , \\mathrm { t } ( 1 8 ) = 0 . 4 7 3 , \\mathrm { p } = 0 . 3 2 1 ]$ .The mediation analysis indicated that the RSFCof dACC-thalamus fully mediated the effectof the severityof nicotine dependence on the mean pumps (Fig.5).A partial corelation analysis was employed to support the mediation effect.The FTND score was not correlated with the mean pumps whilecontrollingforthe influenceofRSFCin thedACC-thalamus pathway ( ${ \\mathrm { ~ r ~ } } ( 1 8 ) = 0 . 1 1 1$ ， $\\mathtt { p } = 0 . 6 4 2 ^ { \\cdot }$ (see the detail in supplementarymaterials). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the present study, we found that the FTND was positively associated with mean pumps. More importantly, greater RSFC among the dACC,AI, and thalamus was associated with higher mean pump values and more severely nicotine dependence in smokers. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Our results that showed association between greater RSFC of dACC-rAI,dACC-thalamus,dACC-lAI and rAI-lAI and increased risky decision making(i.e.,the mean pumps) suggested that circuit-level engagement of the salience network may be required in riskydecision making.One study has shown that the activity in a large network of brain regions tasked with processing risk during BARTcould predict choices in future risky decisions26.The dACC,AI,and thalamus have been suggested as important nodes of the salience network that respond tothedegreeofsubjective salience,whetheremotional,cognitive,orhomeostatic2,28.Thus,itisposible thatfacilitated communication within the salience network is represented to enhance the processng of salient stimuli29. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/41b5ae4d63a63693b67b5039486907c9eff0f0367a15b7dfca8d69a9b38a301b.jpg",
+        "img_caption": [
+            "Figure 3.Significant risk level-related activation during risky decision making (regions of interest for RSFC).Panel (a).During risky decision making,risk level-related activation was found inthe bilateral dorsal anterior cingulate cortex (dACC).Panel (b).Bilateral thalamus.Panel(c).Right anterior insula (rAI).Panel (d). Left anterior insula (lAI). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Risk level-related activations ofbrain areas were not associated with mean pumps in the present study, which was consistent with previous studies using $\\mathrm { B A R T } ^ { 2 , 4 , 3 0 - 3 3 }$ . It is possble that because decision making employs a complex setofcognitive functions, circuit-level engagement posssses more explanatory power than the function of a single region.Furthermore,recent evidence suggests that decision making is mediated bya brain network centeredonthe dACCand thatelements of the network are interconnectedl3.Functional networks,rather than single brain nodes,have amassed the ability to support complex functions such as decision making34. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Studies of resting-state35 and task-based6 functional connectivity in population of nicotine addicts have shown tat connectivity with thedACC is modulated as afunction of severity of nicotine dependence.However, whether the link between risky decision making and severity of nicotine dependencecan be explained by changes in functionalconnectivityin populationof nicotineaddicts has notbeen directly tested.The present study found thatthe dACC-thalamus coupling fully mediated the relationship between severity of nicotinedependence and mean pumps in population of nicotine addicts.The partialcorrelationdata showed consistent result (see the partial correlationanalysis insupplemental materials).These results suggest thatchanges in the RSFCofthesalience network (i.e.,the dACC-thalamus) may be the potential underlying neural mechanism of riskydecision making and nicotine dependence in population of nicotine addicts.The thalamus carries fedback from the basal ganglia to the $\\mathrm { d A C C ^ { 3 7 } }$ .The dACC,which is part of the salience network and motor planning circuits36 and is associated with increased risk-seeking decisions38, initiates appropriate control signals to regulatebehavior9.Combined with our results,these findings suggest that severely dependent smokers might engage in enhanced approach motivation when seeking motivationall salient stimuli,leading to an increase in risky behavior. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/51b7bb3ef1db88ad60e8d0c60560f14fcca0dc286c399fddc4cbdf506f3bb517.jpg",
+        "img_caption": [
+            "Figure 4.RSFCand its relationship to theFTND score and the mean pumps.The RSFC of the dACCthalamus positively correlated with the FTND score and the mean pumps. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/22ce090e246d8b0ce777aa1d6ab8b5c67f427a9347e015c8dce39f28953691f7.jpg",
+        "img_caption": [
+            "Figure 5.RSFC mediation effect.The RSFCof the dACC-thalamus fully mediated the effect of severity of nicotine dependence on the mean pumps.Values presented are the standardized regression coefficients.The value in parentheses represents the coeficient for the direct (i.e.,unmediated) path. $^ { * } \\mathrm { p } < 0 . 0 5 , ^ { * * } \\mathrm { p } < 0 . 0 1$ ,onetailed. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although we also tested other RSFCs,we did not find any couplings that significantlycorrelated with both the mean pumps and the FTND score (see details in the supplemental materials).Two disociable networks are involved inalarge-scale brain network calld the task-positive network4:one,termed thesalience network,is anchored in thedACCand anterior insula,whereas thesecond is composedofthe parietaland lateral prefrontalregions and is termed the executive control network39.Inthis study,we found RSFCs that were significantly correlated with both the mean pumps and the FTND score only between key nodes of the salience network (i.e., RSFCs of dACC-thalamus).We did not observe these results within the executive control network,suggesting thata specific circuit-level change inthe salience network might be the underlying neural mechanism of risky decision making and nicotine dependence in population of nicotine addicts. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition,the RSFC of the dACC-thalamus positively correlated with severity of nicotine dependence. According tocognitive control deficit theory4,poor self-controlabilityof drug addicts may result in drug use. It is therefore expected that the activation of regions of the frontal cortex suchas the DLPFC4,which plays a key role in cognitive control42,should be inversely correlated with severity of nicotine dependence.According to theincentive sensitization theory43 and the interoception theory4,severely dependent smokers show increased activation ofthe insula and dACCas compared to less-dependent smokers,which may represent increased interoceptive processngand motor preparation thatlead tomotivationaldrive tosmoke445 In the present study, we found positive correlation between the RSFCof the dACC-thalamus and severityof nicotinedependence, which may support the incentive sensitization theoryand the interoception theory. However,we did not find significant task-based activation of the frontal cortex442.But, the frontal cortex had a trend to activate (see thedetails in supplementarymaterials),making itdificult toexplainthecognitivecontroldeficit theory,andmore evidence is needed to support this theory. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In previous studies,smokers took more pumps than non-smokers on the BARTl,46.Thus,we inferred that smokers were more likely to take risks than non-smokers.In the population of nicotine addicts,we found a positive correlation between the FTND and the mean pumps,suggesting that severity of nicotine dependence may influence risk taking. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This study had several limitations.Firstly, the lack of a control group of non-smokers made it hard to directly assss whether smokers actually took more risks and had stronger connectivity of salience network than non-smokers.Our results showed that severityof nicotine dependence could influence risk taking behavior by influencing connectivity of salience network in population of nicotine addicts.Our results suggest that circuit-level changes in the salience network might be the underlying neural mechanism of nicotine addiction and abnormal riskydecision making.However, more studies are required to conclusively ascertain this claim. Secondly,somedecision-making phases,such as anticipation and selection,cannot be isolated by BART. However,the present study focused on the influence of risk levelon risky decision making rather than on specific decision-making phases.Thirdly,only one female participated in the present study,so we could not analyze the roleof gender.Though gender was notconsidered in this study, it might bean important factor and merits further research inthe future.Fourthly,the diffcultyof decisionunder inflation,which increased with increasing risk levels,could notbe isolated.Dificultyisan important factor that should be considered before makingadecision. In addition,anticipated rewardsandlosses are also considered in evaluationofrisk-taking.While risk-taking is aresult of evaluation of many variables,this specific variable (e.g.,difficulty) was not considered in this study. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we found thatcircuit-level connectivitybetween key nodes ofthe salience network,which impacts riskydecision making,is associated with severityof nicotinedependence.These results suggest that in population of nicotine addicts,circuit-level changes in the salience network mightbe the underlying neural mechanismof nicotine dependence and riskydecision making.Thus,interventions,such as transcranial direct current stimulationand transcranial magnetic stimulation,tobalancethe functionalconnectivityofthesalience network may enhance the treatments for risky decision making and nicotine addiction. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Participants.Internet advertisements were used to recruit healthy daily smokers ( ${ \\it \\Omega } > 1 0$ cigarettes per day for atleast1.5 years).Twenty-one smokers (mean age: $2 6 . 3 8 \\pm 4 . 3 1$ ,range l8-40 years,1 female)participated in the study.Allparticipants had normal or corrected-to-normal visionand were right-handed.Potential participants were excluded if they reported a diagnosis ofa psychiatric disorder, the use ofaddictive drugs (except nicotine),a prior head injury,or any contraindications for participating inan MRI study(e.g.,non-removable metallc implants).The severity of nicotine dependence was assessd using the Fagerstrom Test of Nicotine Dependence $\\mathrm { [ \\bar { F } T N D ^ { 4 7 } ] }$ . The study was approved by the Research Ethics Committee of the University of Science and Technology of China,and writen informed consent in agreement with the Declaration of Helsinki was obtained fromallparticipants.The methods and procedures were carried out in accordance with the approved guidelines. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Task and procedure.The implementation of BART was modified from a previous study4. During this task, participants pressed buttons to sequentially pump a computer-simulated balloon image.Pressing the rightbutton led to two posible outcomes that were immediately fed back to the participants: a no-explosion baloon pumping event in whichalarger balloon with an increased wager was displayed,oraloss event in whicha picture of an explodingballonand the text“You Lose!”was displayed immediately.If the balloon exploded,participants would lose the wager and the virtual monetary amount lost was subtracted from the cumulative earnings as a penalty.Ifthe participants chose to discontinue pumping (pressing the left buton),a cash-out eventin which the text “You Win!”was displayed and the amount of the reward was added to the cumulative earnings. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Therewasa jittered $2 { - } 4 s$ interval prior to the beginning of each balloon and a jittered $1 . 5 \\mathrm { - } 2 . 5 \\mathrm { s }$ interval between two continuous pumps.Twelve pump responses were possible for a given balloon, with a parametric increase in the probability of explosion over successive pump responses (i.e.,take a risk with $0 \\%$ probability of explosion for $\\yen 0.0$ $2 . 1 \\%$ for $\\yen 0.05$ 0 $4 . 2 \\%$ for $\\yen 0.15$ $6 . 3 \\%$ for $\\yen 0.25$ · $1 4 . 6 \\%$ for $\\yen 0.55$ $2 3 . 9 \\%$ for $\\yen 0.95$ $3 1 . 3 \\%$ for ¥1.45; $4 3 . 8 \\%$ for ¥2.05; $5 6 . 3 \\%$ for $\\yen 2.75$ $6 8 . 8 \\%$ for $\\yen 3.45$ $7 9 . 2 \\%$ for $\\yen 4.25$ ; and $8 9 . 6 \\%$ for ¥5.15). The maximum number of pumps and the exact probabilityof explosion associated with a given inflation were not provided to participants.The risk level in the BART was directlyand ecologically defined as the probability of explosion for each balloon. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Behavior analysis.Consistent with previous studies2,4.31,risky decision making inthis task is typically measured as the mean number of pumps,or“mean pumps\",acrosstrials for balloons that did not explode.To investigate whetherthe nicotine addicts risky decision making was specifically affected bythe severity of nicotine dependence,we used Pearson corelation analysis to compute the correlation between the FTND score and the mean pumps. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MRI data acquisition. Gradient echo-planar magnetic resonance imaging data were obtained during the whole task procedure ona 3T Siemens Magnetom Trio scanner(Siemens Medical Solutions,Erlangen,Germany) atthe Anhui Provincial Hospital.Task stimuli were projected onto adisplay screen at the back of the magnet's bore,and participants viewed the stimuli through a mirror. Button-press responses on an fMRI-compatible responsebox were made using the leftand the rightthumbs.Acircularly polarized head coil was used for radio frequency transmission and reception,with foam padding to restrict head motion. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Resting-state fMRI data (240 volumes,8minutes) were acquired by asking participants to keep their eyes closed and to remain at rest.This was followed by another 8minute functional scan corresponding to BART. Functional images were acquired with a $\\mathrm { T } 2 ^ { * }$ -weighted echo-planar imaging sequence ( $\\mathrm { T E } = 3 0 \\mathrm { m s }$ $\\mathrm { T R } = 2 0 0 0 \\mathrm { m } s$ 0 $\\mathrm { F O V } = 2 4 0 \\mathrm { m m }$ ,Matrix $= 6 4 \\times 6 4$ flip angle $= 8 5 ^ { \\circ }$ )with 33 axial slices (no gaps,voxel size: $3 . 7 5 \\times 3 . 7 5 \\times 3 . 7 \\mathrm { { m m } ^ { 3 } , }$ covering the whole brain.In addition,high-resolution T1-weighted spin-echo images were also acquired. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Image data preprocessing. The imaging data were processed using AFNI [Analysis of Functional Neuroimages48] and MATLAB (version 7.6.0.324; Mathworks).Each participant's raw data were corrected for temporal shifts between slices,corrected for motion,spatially smoothed witha Gaussian kernel(full width athalf maximum $\\mathbf { \\tau } = 8 \\mathbf { m } \\mathbf { m }$ ),and temporally normalized (for each voxel, the signal of each volume was divided by the temporally averaged signal). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Analysis offunctional imaging data.Three types of events were included in the general linear model of the BART task: pumps,cash outs and baloon explosions.Each type of event included two regressors in the generalinear model.For the pumps,which represented risk-taking in this task,two regressors were defined: (1) ${ \\mathrm { P u m p s } } _ { \\mathrm { p a r a m e t r i c } }$ , the only regressor we were interested in, which represented the parametrically modulated activity by the risk level associated with each pump (i.e.,the probability of explosion)and modeled all of the pump events at the onset time of pumping; and (2) $\\mathrm { P u m p s } _ { \\mathrm { a v g } } { \\mathrm { : } }$ the averaged activity acrossall pumps without parametric modulation by the individual average risk level (i.e., the mean pumps correspond to the probability of explosion)using the same onset time².For acash-out event,two regressors (similar to pumps)were defined: (1) Cash-outparametrc;and (2)Cash-outavg.Foran explosion event, two regressors similar to pumps were defined: (1) Explosionparametrcand(2)Explosion ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "These six regressors were convolved with the gamma function to approximate the hemodynamic response of the brain.Head motion parameters in 6 directions were also included as covariates.The resultant Z-statistic map (transferred from the t-value map from the GLM result)of Pumpsparametric (i.e.,the risk level) was transformed to the Talairach space.To test the activation of risk level,a group-level one-sample $t$ -test was used and the responses were identified if theysurvived whole brain correction for family-wise erorsatacluster-level threshold of $\\mathtt { p } < 0 . 0 0 5$ (cluster size 30 voxels, $8 1 0 \\mathrm { m m } ^ { 3 }$ )anda voxel-level threshold of $\\mathrm { p } < 0 . 0 0 0 1$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Risk level-related activation and relationship to task performance and severity of nicotine dependence.For the z-statistic map of risk level,the averaged z-value of every voxel within each significantlyactivated region related to risklevel was calculated for each participant.Then,Pearsoncorelationanalysis was used toassess the relationship between risklevel-related brain activationand task performance as wellas the severity of nicotine dependence. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The same analysis was also applied to cash-out and explosion events to clarifyto influence of outcome on risky decision making and the results were provided in the supplementary materials. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "RSFC and its relationship to task performance and severity of nicotine dependence. For the resting-state fMRIdata,we regressed the motion data out ofthe time series and performed bandpass temporal fltering $( 0 . 0 1 \\mathrm { - } 0 . 0 \\mathrm { H z } )$ on the residual signals.Then,to further reduce nuisance signals,the average white matter and CSF signals were regressed out.The white matter mask was determined from the high-resolution structuralimage using the FAST segmentation program (Functional MRIofthe Brain software library; www.fmrib. ox.ac.uk).Each participant's CSF mask was manuallydrawn to fit the anatomical boundaries ofa standardized Talairach atlas brain,which was transformed onto the image space ofeach participant and modified according to thecortical structures of the participant's brain by referencingthe anatomical boundaries in the high-resolution structural image.These nuisance signals were used toaccount forfluctuations that were unlikelytobe relevant to neuronal activity49.Then,data scrubbing was performed,and any volume with aframewise-dependent value for the temporal derivative of a time course's root mean squared head motion variance exceeding O.5 was excluded. The resultant resting-state fMRI data were then used for functional connectivity analysis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We defined the AI,dACC,and thalamus activated by risk level during BARTas regions of interest (ROIs) in the RSFC analysis.The preprocessed resting-state fMRI time series were averaged within each ROI. Correlations between the averaged ROI time series were calculated and then transformed to Fisher $\\mathbf { z }$ -values.Finally, the correlations between RSFCs and the mean pumps and the severity of nicotine dependence were calculated. We performed a FDR-correction for multiple comparisons $( \\mathrm { F D R } < 0 . 0 5 ) \\$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Mediation analysis.To examine whether the RSFCofthe dACC-thalamus pathway might mediate the effect of the FTND score on mean pumps,we performed a causal mediationanalysis24,25.First, the hypothesized mediator (the RSFC of the dACC-thalamus) was regressed on the independent variable (FTND score);second,the dependent variable (mean pumps) was regressed on the independent variable; and third,the dependent variable was regressed on both the independent variable and the hypothesized mediator in one equation. Coeficients for the equation were estimated,and mediation was considered tooccurifthe relationship betweenthe independent and dependent variables could be partially or totally accounted for by the hypothesized mediator. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.Lejuez,C.W.etal.TheBalloAalogueRskTask(BARdifentiatessmokersndnonsmokers.ExpClinsyhoaco1, 26-33 (2003).   \n2.Galvan,Atal.Greatersksesitivityoforsoatealprefrontalrtexinyoungsmokerstainonsmokers.Psyhocology (Berl) 229,345-355 (2013).   \n3.Krain,A.,o,A.,rbuckle,,stelos,FX&,.Psticteualmesrsity: meta-analysis of decision-making.NeuroImage 32,477-484 (2006).   \n5.Zhang,X.etal.AnatomicaldiferencesandnetworkcharacteristicsunderlyingsmokingcuereactivityNeuromage54,13-141 (2011).   \n6. Mashoon,Yetal.Anteroringulateprotospectroyutamatelevelsdiferasafuntionofsoingesatioouoe.rog Neuropsychopharmacol Biol Psychiatry35,1709-1713(2011)   \n7. Zhang,X.etal.Factorsunderlying prefrontalandinsulastructuralalterationsinsmokers.Neuromage54,4-48(2011).   \n8.Forget,shaj&llalareciatieleticaeoecol Psychiatry 68,265-271 (2010).   \n9.Tabibnia,G.etal.Commonprefrontalregionsactiateduringself-ontrolofavingmotio,ndmotompulssiokers.Clin Psychol Sci2,611-619 (2014)   \n10.Vafaee,M.S.etalSmokingnormalizescerebralbloodowandoxygenconsumptionafter-ourabstention.JCerebBloodFlow Metab 35,699-705 (2015).   \n11Rose,E.Jetal.Chronicexposuretcotieisssociatedwitheducedeward-relatedctivityinthtrauutotteidbain. BiolPsychiatry71,206-213(2012).   \n12.Franklin,TR.etal.Limbicactivationtocigaretesmokingcuesindependentofnicotine withdrawal:aperfusionfMRIstudy. Neuropsychopharmacology 32,2301-2309 (2007).   \n13.Asadi,S.MYucel,M.&antelis,C.Dopaminemodulatesneuralnetworksivoedifortbaseddecision-aing.Neuroci Biobehav Rev33,383-393 (2009).   \n14.Lee,T.M,Chan,C.CLung,A.WFox,T.&GaoJ.H.ex-relateddiferenceineralactivityuringristaing:I study.Cereb Cortex19,1303-1312 (2009).   \n15.Koob,G.F& Moal,M.L.Addiction and the brain antireward system. Annu Rev Psychol59,29-53(2008).   \n16.HulshofPol,H.&ullmore,E.Neuralnetworksinpsyhatry.EurNeuropsychoharmacol23,1-6(2013).   \n17.Menon,V.&Uddin,L.QSiencyswitcing,entioandcontrol:aetworkmodelofinsulafunctionBainSructFnct14, 655-667 (2010).   \n18.Seeley,WWetal.Dissociableintrinsiconnectivitynetworks forsalienceprocessingandexecutivecontrol.JNeurosci27, 2349-2356 (2007).   \n19.Goudriaa,A.E,Oosteraan,JdeBeurs,E.&Vandnrink,WPatholgicalmbling:ompreheniereviewoobial findings.Neurosci Biobehav Rev 28,123-141(2004).   \n20.Yu,R.etal.Regionalhomogeneitychangesinheavyalesmokers:arestig-statefunctionalmagneticresonanceimagingstudy. Addict Biol18,729-731(2013)   \n21.Janes,A.C.,ickerson,L.D.,FrederickBde,B.&Kaufman,M.J.Prefrontalandlimbicrestingtatebrainnetworkfunctial connectivitydifersbetweennicotine-dependentsmokersandnon-smokingcontrols.DrugAlcoholDepend125,252-259(2012).   \n22.Lejuez,C.Wetal.Evaluationfehavioralmeasureofrisktaking:theBaloonAnalogueRiskTask(BAR).JExpsycolApl8, 75-84 (2002)   \n23.Fox,M.D.&Raichle,M.E.Spontaneousfluctuations inbrainactivitybserved withfunctionalmagneticresonanceimaging.Nat Rev Neurosci8,700-711 (2007)   \n24.YamamtoD.JoogTF&bJeoolatealpfrotaloea on risk avoidance in addiction: a mediation analysis.Drug Alcohol Depend 149,10-17 (2015).   \n25.MacKinnon,D.P.,Fairchild,A.J.&Fritz,M.S.Mediation analysis.Annu RevPsychol58,593-614 (2007).   \n26.Helfinstein,S.M.etal.Predictingriskychoicesfrombainactivitypaterns.ProcNatlAcdSciUSA11,247-2475(2014).   \n27.Craig,A.D.Howdoyoufel?Interoception:thesenseofthephysiologicalconditionofthebodyNatRevNeurosci3,65-666 (2002).   \n28.Craig,A.D.Howdo you fel-now? The anteriorinsulaand human awarenessNat RevNeurosci10,59-70 (2009).   \n29.Janes,A.C.armer,S.,Pechatka,A.L,Frederickde,B.&Lukas,S.E.Insula-DorsalAnteriorCingulateCortexCouplngis Associated with Enhanced Brain Reactivity to Smoking Cues. Neuropsychopharmacology 40,156l-1568 (2015).   \n30.FukunagaRro,JW.&og,TeisionkinginelooAaogeRsTask(BA):anteriogulatecoras loss aversion but not the infrequency of risky choices.Cogn Affect Behav Neurosci 12,479-490 (2012).   \n31.Congdo.talrsialciiosostaingtskmesrontroi7).   \n32.Claus,E.D.&Hutchison,K.E.Neuralmechanismsofrisktaingandrelationshipswithhazardousdrinking.AlcoholClnExRes 36,932-940 (2012)   \n33.Kohno,M.,orales,A.M.,Ghahremani,D.G.,Helemann,G.&London,E.D.skydecisionmaking,prefrontalcortex,n mesocorticolimbic functionalconnectivityinmethamphetamine dependence.JAMA Psychiatry71,812-820 (2014).   \n34.Goldenberg,D.&Galvan,A.Theuseoffunctionalandefectiveconectivitytechnques tounderstandthedevelopingbrain.Dev Cogn Neurosci 12,155-164 (2015).   \n35.Hong,L.Eetal.AeneicallyodlatedntrsicingulateuitsupportsumancotieaddictinProcNatlAdciUA 107,13509-13514(2010)   \n36.Claus,E.e,.y,.utco,K.E.oteoieei response to smoking cues,and functional connectivity.Neuropsychopharmacology 38,2363-2372 (2013).   \n37.Dosenbach,N.U.etal.Distinctbrainnetworksforadaptiveandstabletaskontrolinhumans.ProcNatlAcadSciUSA104, 11073-11078 (2007).   \n38. Xue,G,Luevn,.&ecara,A.eimpactfporsexpencesonubeuetsydeisioaing: teleoft insula.NeuroImage 50,709-716 (2010).   \n39.Bresler,SL.&eno,VLargescaleainetworksiogitio:emergngmetodsadpcipls.endsCognci4,79 (2010).   \n40.Fox,M.Dtaleumanbinisintriicalloanedintodaicntiorelaedfuncalnetorks.ProcNatlAcdSci USA 102,9673-9678 (2005).   \n41.Jentsch,J.D.&Taylor,JR.Impulsivityresultingfromfrontostriataldysfunctionindrugbuse:implicationsfortheotrolof behaviorbyreward-relatedtimuli.sychoarmacology(Berl)1467-390(1999).   \n42.Botviic.ceCJgdieoro 624-652(2001)   \n43.Robinson,TE.&errdge,K.C.Review.Teincentivesesitzationtheoryofaddiction:somecurrentisses.PhilosTansRSoc Lond B Biol Sci 363,3137-3146 (2008).   \n44.Naqvi,N.H.&Bechara,A.The hidden island of addiction: the insula.Trends Neurosci 32,56-67 (2009).   \n45.Bechara,ADcisionaingmpulseontrolandlossofiloertosistdugs:aeurocogitiveprspectiveNateosci8, 1458-1463 (2005).   \n46.Lejuez,C.nosisiii and never-smokers.Nicotine Tob Res 7,71-79 (2005).   \n47.Heatherton,T.,Klowki,LTFecker,.C.&Fagerstro,K.OeFgerstroTstforcotineepdenceisio the Fagerstrom Tolerance Questionnaire.BrJAddict 86,1l19-1127(1991).   \n48.Cox,R.WAFNI:softarefornalysisandvisualizationoffunctionalmagneticresonanceneuromages.ComputBomed Res9, 162-173 (1996).   \n49.Birn,R.iod,J.ih,..&dei,.paatingespatorarioelatedctuatiofrool activity-related fluctuations in fMRI.NeuroImage 31,1536-1548 (2006). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from the National Natural Science Foundation of China (31230032, 31171083,31471071,31500917)and the Fundamental Research Funds for the Central Universities of China (WK2070000033), Natural Science Fund Project of Anhui Province (1208085MH179),and 10 Talents Programme of The Chinese Academy of Sciences (KJ207000018),and Hefei Science Center, CAS “User with Potential\"(2015HSC-UP0l7).A portion of the numerical calculations in this study were performed with the supercomputing system at the Supercomputing Centre of USTC.We thank Yamikani Ndasauka for proof-reading the manuscript. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Author X.Z.designed the studyand wrote the protocol. Authors Z.W.,L.Y.,Y.W.,L.H.,R.Z.,R.H.and N.Y. analysed the literature.Z.W.and N.Y.anaysed thedataand wrote the first draftof the manuscript.Y.L.,P.Z.and Y.Z.revised the manuscript.All authors contributed to and have approved the final manuscript. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Additional Information ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information accompanies this paper at http://www.nature.com/srep ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "How tocite this article: Wei,Z.et al.Resting-state functional connectivitybetween the dorsal anterior cingulate cortex and thalamus is associated with risky decision-making in nicotine addicts.Sci.Rep.6,21778; doi:10.1038/srep21778 (2016). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is notincluded under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material.To viewa copy of this license,visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 8
+    }
+]

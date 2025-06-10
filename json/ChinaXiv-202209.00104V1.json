@@ -1,0 +1,407 @@
+[
+    {
+        "type": "text",
+        "text": "杏叶防风的化学成分及抗炎活性研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李丽1,，雷艳1,，汪洋1，马雪1，陆苑²，刘春花²，王永林1,2\\*（1．贵州医科大学民族药与中药开发应用教育部工程研究中心/省部共建药用植物功效与利用国家重点实验室，贵阳550004；2.贵州医科大学贵州省药物制剂重点实验室，贵阳550004；3.贵州医科大学药学院，贵阳550004）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：杏叶防风（Pimpinella candolleana）为贵州苗族习用草药，用于黄疸型肝炎、急性胆囊炎等病症的治疗。为研究杏叶防风的化学成分及其抗炎活性，该文采用硅胶、凝胶、ODS等色谱技术对杏叶防风全草 $70 \\%$ 乙醇提取物进行分离纯化，通过NMR、MS等波谱数据鉴定化合物结构，采用脂多糖（LPS）诱导的RAW264.7巨噬细胞作为炎症模型，评价单体化合物的抗炎活性。结果表明：（1）从杏叶防风中分离并鉴定了20个化合物，分别为香草醛(1)、芝麻素(2)、2-甲基-2-羟基-5-甲氧基苯并[d]氢化呋喃-3-酮(3)、原儿茶醛(4)、1,5-dihydroxy-2,3-dimethoxyxanthone (5)、异鼠李素(6)、山奈酚(7)、8-羟基-2-甲基色原酮(8)、木犀草素(9)、槲皮素 (10)、1-O- $\\cdot \\beta$ -D-葡萄糖- $( 2 S , 3 S , 4 R , 8 E ) - 2 \\cdot [ ( 2 ^ { \\prime } R ) - 2 ^ { \\prime } -$ 羟基棕榈酰胺]-8-十八烯-1,3,4-三醇(11)、异鼠李素-3-O- $\\cdot \\beta$ -D-半乳糖苷 (12)、异槲皮苷 (13)、去甲当药醇苷(14)、木犀草素-6-C-α-L-阿拉伯糖苷(15)、山奈酚-3-O- $\\cdot \\beta \\cdot$ -D-半乳糖苷(16)、山奈酚-7-O $\\cdot \\beta \\cdot$ D-葡萄糖苷 (17)、木犀草素-7-O $\\cdot \\beta$ -D-葡萄糖苷(18)、异牡荆苷(19)、芦丁 (20)。其中化合物1、3、4、6、7、10、13、16、18、20首次从该植物中分离得到。（2）抗炎结果显示，化合物2-10、12、18、19均可显著抑制LPS诱导RAW264.7细胞NO释放量（ $P { < } 0 . 0 5$ ，$P { < } 0 . 0 1 \\ \\cdot$ )，其中化合物4、7、10、18在浓度为 $2 5 \\ \\mathrm { \\mu m o l { \\cdot } L ^ { - 1 } }$ 时，抑制率分别为 $5 7 . 3 7 \\%$ ，$8 3 . 6 0 \\%$ ， $6 8 . 1 6 \\%$ 、 $8 1 . 1 4 \\%$ 。该研究丰富了杏叶防风的化学成分，明确黄酮类化合物是其发挥抗炎功效的活性成分，为杏叶防风的进一步研究与开发利用提供一定的参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：杏叶防风，化学成分，分离鉴定，RAW264.7细胞，抗炎活性，中图分类号： 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chemical constituents of Pimpinella candolleana and their ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "anti-inflammatory activities ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Li1,3, LEI Yan1,3, WANG Yang1, MA Xue], LU Yuan², LIU Chunhua², WANG Yonglin1,2 \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1. Engineering Research Center for the Development and Application of Ethnic Medicine and TCM/State Key Laboratory of Functions and Applications of Medicinal Plants, Guizhou Medical University, Guiyang 550004, China; 2. Guizhou Provincial Key Laboratory of Pharmaceutics, Guizhou Medical University, Guiyang 55o004, China; 3. School of Pharmacy, Guizhou Medical University, Guiyang 550004, China） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Pimpinella candolleana is known as Miao ethnic herbal medicine in Guizhou for the treatment of icteric hepatitis,acute cholecystitis and other diseases.To investigate the chemical constituents of $P .$ candolleana and their anti-inflammatory activities, the chemical constituents from the $70 \\%$ ethanol extract of $P .$ candolleana were separated by silica gel, Sephadex LH-20, Toyopearl HW-40F, Toyopearl HW-40C, ODS and other column chromatography，and their structures were elucidated by extensive spectroscopic analysis such as nuclear magnetic resonance (NMR) and mass spectrum (MS). The inflammatory cell model, built by LPS-induced RAW264.7 macrophage cells, was used to evaluate the anti-inflammatory activity. The results were as follows: (1):Detailed phytochemical study on $P .$ candolleana led to the isolation and identification of twenty compounds were including vanillin (1), sesamin (2), 2-methyl-2-hydroxy-5-methoxy berz (d)hydrofuran-3-one(3)， procatechin(4)， 1,5-dihydroxy-2,3-dimethoxyxanthone(5), isorhamnetin (6), kaempferol (7),8-hydroxy-2-methylchromone (8),luteolin (9), quercetin (10), 1-0 $\\cdot \\beta$ -D-glucopyranosyl- $( 2 S , 3 S , 4 R , 8 E )$ -2-[ $( 2 ^ { \\prime } R )$ -2'-hydroxypalmitoylamino]-8-octadecene-1,3,4- triol (11),isorhamnetin-3-O- $\\beta$ -D-galactopyranoside (12), isoquercitrin (13),norswertianolin (14), luteolin-6-C-α-L-arabinoside (15), kaempferol-3-O $\\cdot \\beta$ -D-galactopyranoside (16), kaempferol-7-O$\\beta$ -D-glucopyranoside (17), luteolin-7-O $\\cdot \\beta$ -D-glucopyranoside (18)，isovitexin (19)，rutin (20). Compounds 1,3,4,6,7,10,13,16,18,and 20 were obtained from this plant for the first time. (2) The anti-inflammatory results showed that compounds 2-10,12,18 and 19 could significantly inhibit the LPS-induced NO content in RAW264.7 cells $( P { < } 0 . 0 5 , P { < } 0 . 0 1 )$ ,and the inhibition rates of compounds 4,7,10, and 18 at a concentration of $2 5 \\ \\mathrm { \\textmu m o l { \\cdot } L ^ { - 1 } }$ were $5 7 . 3 7 \\%$ ， $8 3 . 6 0 \\%$ ， $6 8 . 1 6 \\%$ $8 1 . 1 4 \\%$ ,respectively. Overall, this study enriches the chemical constituents of $P .$ candolleana,and clarifies that flavonoids are the active ingredients in the course of anti-inflammatory, which may provide a theoretical basis for further research and exploitation of $P .$ candolleana. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Pimpinella candolleana， chemical constituents， isolation and identification, RAW264.7 cells,anti-inflammatory activity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "杏叶防风（Pimpinella candolleana）为伞形科（Umbelliferae）茴芹属（PimpinellaL.）多年生草本植物，又名杏叶茴芹、山当归、骚羊古、蜘蛛香等，为贵州民间常用草药之一，收载于《贵州省中药材、民族药材质量标准》（2003版）中，广泛分布在我国广西及西南一带。其味辛、微苦、性温，归肝、肺、脾、胃经，以全草入药用于治疗上腹部疼痛、消化不良、痢疾和蛇咬伤等症（危英等，2005；赵超等，2007)，在许多地方药志中均有记载，如《贵阳民间药草》述其“温中散寒止痛，治中寒、发痧、胃痛、腹痛”，《四川中药志》记载其“消食健脾，截疟；用于中寒腹痛、寒疝偏坠、风湿痹痛、脾虚食滞和疟疾；近有用于治淋巴结结核”。近年来该药已被研制用于治疗慢性乙型肝炎、脂肪乳致静脉炎等复方制剂（曾德祥，2007；孙霞，2016)。据报道，目前杏叶防风已分离鉴定的化学成分主要有黄酮类、甾醇类及挥发油类等（梁光义等，2003；常星，2011；邢煜君等，2011)，有关杏叶防风化学成分文献报道较少，对其化学成分的活性研究更少，除已报道的 $\\alpha \\cdot$ -葡萄糖苷酶抑制活性、抗氧化活性及抗菌活性外（Chang＆Kang,2012)，未见该植物其他药理作用的有关报道，其抗炎物质基础不明确。因此，为深入了解杏叶防风化学成分，探究其抗炎活性物质，本研究对否叶防风全草 $70 \\%$ 乙醇提取物进行分离纯化，分离并鉴定了20个化合物，并对其中的18个化合物进行了抗炎活性测定，以期为杏叶防风的深入研究和开发利用提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1仪器与材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "药材：杏叶防风药材采收于贵州花溪高坡，经贵州中医药大学药学院孙庆文教授鉴定为伞形科茴芹属植物杏叶防风（Pimpinellacandolleana）的干燥全草。凭证样品（20190901）保存于贵州省药物制剂重点实验室。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "细胞株：小鼠单核巨噬细胞RAW264.7购自ATCC中心。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2仪器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "JEOL-ECS $4 0 0 \\mathrm { M H z }$ 核磁共振波谱仪（日本电子株式会社)；BrukerAV-600型超导核磁共振仪（德国 Bruker 公司)；ACQUITY-UPLC-TQD超高液相色谱-三重四极杆串联质谱仪（美国Waters公司）。 $\\mathrm { C O } _ { 2 }$ 细胞培养箱（Thermo scientific 公司）；VarioskanLUX多功能酶标仪（美国Thermo 公司)；TS100 倒置显微镜（日本 Nikon公司）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3试剂",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "D-101型大孔树脂（天津市海光化工有限公司)，柱层析硅胶、薄层层析硅胶（青岛海洋化工有限公司），葡聚糖凝胶 Sephadex LH-20（瑞士 Pharmacia Biotech 公司），ToyopearlHW-40C 凝胶、ToyopearlHW-40F 凝胶（日本东曹株式会社），ODS（日本YMC 公司），试剂均为分析纯。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "胎牛血清 FBS、DMEM高糖培养基（美国Gibco 公司)；脂多糖（LPS）、青链霉素混合液、二甲基亚砜、PBS 缓冲液（北京 Solarbio 科技有限公司)；CCK-8 试剂盒(美国Glpbio 公司)；NO试剂盒（南京建成生物工程研究所)；地塞米松（DEX，上海甄准生物科技有限公司）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1提取与分离",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取干燥的杏叶防风全草（ $1 2 \\mathrm { k g }$ ）切成粗段，用 $70 \\%$ 乙醇加热回流提取三次，合并提取液，减压回收溶剂得浸膏 $( 1 . 3 \\mathrm { k g } )$ ，过D-101大孔吸附树脂，用水（2倍柱体积）、 $80 \\%$ 乙醇（5倍柱体积）依次洗脱，得水段浸膏（ $\\mathrm { 9 7 2 } \\mathrm { g }$ 、 $80 \\%$ 乙醇段浸膏（ $5 3 0 \\ \\mathrm { g } { \\cdot }$ 。 $80 \\%$ 乙醇段经正相硅胶柱层析，以二氯甲烷-甲醇（ $7 { : } 3 { \\longrightarrow } 6 { : } 4$ ）进行等度洗脱，回收溶剂，浓缩后得干浸膏 $2 9 0 ~ \\mathrm { g }$ ，再经正相硅胶柱层析，以石油醚-乙酸乙酯（ $1 0 { : } 0 { \\longrightarrow } 0 { : } 1 0 \\ )$ ，乙酸乙酯-甲醇（ $\\cdot 1 0 { : } 0 { \\longrightarrow } 7 { : } 3$ ）进行梯度洗脱，分段收集，各段进行TLC检测合并后浓缩，得到10个组分(Fr.1-10)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fr.4过正相硅胶柱，以石油醚-二氯甲烷（ $3 { : } 1 \\{ \\to 0 { : } 1 \\}$ 、二氯甲烷-甲醇（ $\\cdot 7 0 { : } 1 {  } 2 0 { : } 1$ ）梯度洗脱，TLC检测合并后浓缩，得到7个组分（Fr.4.1-4.7)。其中，Fr.4.3反复过 SephadexLH-20（二氯甲烷-甲醇1:1）、ToyopearlHW-40F（甲醇)，得化合物1（ $1 0 . 5 \\mathrm { m g } \\cdot$ 、化合物2 ( $\\mathrm { 7 . 0 ~ m g \\cdot }$ 。Fr.4.5反复过正相硅胶、Sephadex LH-20（二氯甲烷-甲醇1:1）、Sephadex LH-20（甲醇）、ToyopearlHW-40F（甲醇)，得化合物3（ $\\mathrm { ~ : ~ } 3 0 . 0 \\ : \\mathrm { m g } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fr.5 过 SephadexLH-20（二氯甲烷-甲醇1:1），TLC 检测合并后浓缩，得到5个组分（Fr.5.1-5.5）。其中Fr.5.2反复过 Toyopearl HW-40F（甲醇）、Sephadex LH-20（甲醇），得化合物4（ $1 0 . 0 ~ \\mathrm { m g } \\cdot$ 、化合物5（ $2 4 . 4 ~ \\mathrm { m g } \\dot { }$ 。Fr.5.4过 Toyopearl HW-40F（甲醇）、SephadexLH-20（甲醇)，得化合物6（ $\\mathrm { 1 0 . 0 ~ m g } \\mathrm { \\cdot }$ ）。Fr.5.5过ToyopearlHW-40F（甲醇），得化合物7（ $\\mathrm { . 1 7 . 0 \\ m g \\cdot }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fr.6过SephadexLH-20（甲醇），TLC检测合并后浓缩，得到5个组分（Fr.6.1-6.5）。其中Fr.6.2 过 Toyopearl HW-40C（甲醇）、Toyopearl HW-40F（甲醇）、Sephadex LH-2(（ $50 \\%$ 丙酮水）、ODS柱色谱（ $2 0 \\% { \\sim } 5 0 \\%$ 甲醇水），得化合物8（ $1 1 . 0 ~ \\mathrm { m g }$ )。Fr.6.4过Toyopearl HW-40C（甲醇）、Toyopearl HW-40F（甲醇）、Sephadex LH-20（甲醇），得化合物9 （ $8 0 . 0 \\mathrm { m g } ,$ 。 $\\mathrm { F r } . 6 . 5$ 过ToyopearlHW-40F（甲醇)，得化合物10（ $8 7 . 0 \\mathrm { m g } { \\cdot }$ ）°",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fr.8 过正相硅胶，以二氯甲烷-甲醇（ $2 0 { : } 1  3 { : } 1$ ）进行梯度洗脱，得到6个组分（Fr.8.1-8.6）。Fr.8.4 过 Toyopearl HW-40C（甲醇）、Toyopearl HW-40F（甲醇）、ToyopearlHW-40F（二氯甲烷-甲醇1:1）、ODS 柱色谱（ $20 \\% { \\sim } 4 0 \\%$ 甲醇水)，Sephadex LH-20（甲醇）、Sephadex LH-20（ $50 \\%$ 丙酮水)，得化合物11（ $1 5 0 . 0 \\mathrm { m g } .$ ）、化合物12（ $4 4 . 0 \\mathrm { m g } \\cdot$ 、化合物13 ( $3 6 . 4 \\mathrm { m g }$ )。Fr.8.5过 ToyopearlHW-40C（甲醇）、Toyopearl HW-40F（甲醇）、ODS 柱色谱( $20 \\% { \\sim } 6 0 \\%$ 甲醇水）、SephadexLH-20（甲醇）、SephadexLH-20（ $50 \\%$ 丙酮水)，得化合物14（ $5 . 2 \\mathrm { m g } \\cdot$ ）、化合物15（ $\\left( 3 . 7 \\thinspace \\mathrm { m g } \\right)$ 、化合物16（ $7 . 0 \\mathrm { m g } \\cdot$ ）、化合物17（ $\\cdot 2 . 7 \\mathrm { m g } \\cdot$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fr.9 过 SephadexLH-20（甲醇)，得到2个组分（Fr.9.1-9.2）。其中 $\\mathrm { F r } . 9 . 2$ 过 ToyopearlHW-40C（甲醇）、Toyopearl HW-40F（甲醇）、Sephadex LH-20（ $50 \\%$ 丙酮水)、正相硅胶柱、二氯甲烷-甲醇（8.5:1.5)，得化合物18（ $2 6 . 0 \\mathrm { m g }$ 、19( $2 5 . 0 \\mathrm { m g } \\cdot$ 、化合物20（ $8 7 . 0 \\mathrm { m g } ,$ ）°",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2抗炎活性评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取对数生长期的RAW264.7细胞，调整细胞浓度为 $3 \\times 1 0 ^ { 5 }$ 个 $\\mathrm { m } \\mathrm { L } ^ { - 1 }$ ，每孔 $1 0 0 ~ \\mu \\mathrm { L }$ 接种于96孔板中，放置 $3 7 ^ { \\circ } \\mathrm { C }$ 、 $5 \\% \\mathrm { C O } _ { 2 }$ 培养箱中培养 $2 4 \\mathrm { h }$ 。实验设置空白组、模型组、阳性对照组和给药组，每组设置3个复孔，阳性对照为地塞米松（DEX)。空白组和模型组加入完全培养基，阳性对照组加入终浓度为 $2 5 \\ \\mathrm { \\mu m o l { \\cdot } L ^ { - 1 } }$ DEX，给药组加入安全浓度范围内的化合物。培养 $3 \\mathrm { h }$ 后，除空白组外其他组均加入终浓度为 $0 . 2 5 \\mu \\mathrm { g } { \\cdot } \\mathrm { m L } ^ { - 1 }$ 的LPS，培养 $2 4 \\mathrm { h }$ 后收集上清液，按NO检测试剂盒说明书测定上清液NO水平，重复3次实验。按公式1计算NO含量，按公式2计算NO抑制率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NO含量 $( \\mu \\mathrm { m o l } { \\cdot } \\mathrm { L } ^ { - 1 } ) =$ (测定OD值-空白OD值)/(标准OD值-空白OD值) $\\times$ 标准品浓度$( 2 0 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { L } ^ { - 1 } ) \\times$ 稀释倍数(4倍）（1)NO 抑制率 $\\mathrm { ( \\% ) = ( N O }$ 含量 LPs-NO含量 $\\yen 123,456,7$ NO含量 $_ { \\mathrm { L P S ^ { - } N O _ { \\Xi [ \\bar { H } } ] } } \\times 1 0 0 \\%$ (2)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3统计学分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS22.0和GraphPad Prism 8.0软件进行数据的分析处理，组间差异比较采用单因素方差分析（One-WayANOVA）进行比较，两组间比较采用LSD法，检验水准 $P { < } 0 . 0 5$ 为有统计学意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结构鉴定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物1：白色针状结晶。ESI-MSm/z:153 $[ \\mathrm { M } \\mathrm { + H } ] ^ { + }$ ，分子式 $\\mathrm { C } _ { 8 } \\mathrm { H } _ { 8 } \\mathrm { O } _ { 3 }$ 。 $^ 1 \\mathrm { H }$ -NMR(600 MHz, CDCl3) δ: 9.80 (1H,s, H-7),7.40 (1H,overlap,H-6),7.40 (1H,overlap,H-2),7.02 (1H, d,J $= 8 . 4 \\ : \\mathrm { H z }$ ,H-5), 6.24 (1H,brs,-OH),3.94 (3H, s, ${ \\mathrm { - O C H } } _ { 3 } { \\mathrm { . } }$ ） $^ { 1 3 } \\mathrm { C }$ -NMR( $1 5 0 ~ \\mathrm { M H z }$ ,CDCl3) $\\delta$ ：191.1 (C-7),151.9 (C-3),147.4 (C-4),130.1 (C-1),127.8 (C-6),114.6 (C-5),109.0 (C-2), 56.3 (-OCH3). 以上数据与文献（陈美安等，2020）基本一致，故鉴定该化合物为香草醛（vanillin)。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物2：白色针状结晶。分子式 $\\mathrm { C _ { 2 0 } H _ { 1 8 } O _ { 6 } }$ 。 $^ 1 \\mathrm { H }$ -NMR( $4 0 0 \\mathrm { M H z }$ ,DMSO- $\\cdot d _ { \\delta }$ )δ: 6.92 (2H, d, $J { = } 1 . 6 ~ \\mathrm { H z }$ H-2,2),6.86 (2H, d, $J { = } 8 . 0 \\ \\mathrm { H z }$ ,H-5,5), 6.83 (2H, dd, $J = 8 . 0$ ， $1 . 6 ~ \\mathrm { H z }$ H-6,6), 5.99 (4H, s, $2 { \\times } \\mathrm { O C H } _ { 2 } \\mathrm { O } \\$ ),4.64 (2H, d, $J { = } 4 . 4 \\ : \\mathrm { H z }$ ,H-7,7),4.11(2H,m,H-9a, $9 \\mathrm { { ^ { \\prime } a } }$ ),3.75(2H,dd,J $= 9 . 2$ ， $4 . 4 ~ \\mathrm { H z }$ ,H-9b,9'b),2.99 (2H, m,H-8, 8); $^ { 1 3 } \\mathrm { C }$ -NMR( ${ 1 0 0 } \\mathrm { M H z }$ ,DMSO- $. d _ { \\delta }$ ) δ: 147.4 (C-4, 4),146.5 (C-3,3), 135.5 (C-1,1), 119.4 (C-5, 5),108.0 (C-6,6), 106.6 (C-2,2),100.9 （204号 $( 2 \\mathrm { { x O C H } _ { 2 } O } ) _ { \\mathrm { { \\ell } } }$ ),84.9(C-7,7),71.0(C-9,9),53.8(C-8,8)。以上数据与文献（吴美婷等，2021) 基本一致，故鉴定该化合物为芝麻素（sesamin） ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物3：白色粉末。ESI-MS $m / z$ :193[M-H],分子式 $\\mathrm { C _ { 1 0 } H _ { 1 0 } O _ { 4 } }$ 。 $\\mathrm { ^ { 1 } H }$ -NMR ${ \\bf \\zeta } 4 0 0 ~ \\mathrm { M H z }$ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta \\colon 7 . 3 1$ (1H, dd, $J = 9 . 2$ ， $2 . 8 \\ : \\mathrm { H z }$ ,H-6),7.07 (1H,d, $J { = } 2 . 8 ~ \\mathrm { H z }$ ,H-4), 7.00 (1H, d, $J = 9 . 2$ Hz,H-7),3.79 (3H, s, $5 \\mathrm { - O C H } _ { 3 }$ ),1.52 (3H,s, $\\mathrm { C H } _ { 3 } \\mathrm { \\cdot }$ ） $^ { 1 3 } \\mathrm { C }$ -NMR( ${ \\mathrm { 1 0 0 } } \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ )δ:202.1 (C-3), 167.1 (C-9),156.6 (C-5),129.9 (C-6), 119.8 (C-8), 115.5 (C-7),106.1 (C-4),105.9 (C-2),56.5 (5- $\\mathrm { O C H } _ { 3 } \\mathrm { . }$ ),22.2(-CH3)。以上数据与文献（石慧丽等，1998）基本一致，故鉴定该化合物为2- 甲基-2-羟基-5-甲氧基苯并[d]氢化呋喃-3-酮（2-methyl-2-hydroxy-5-methoxy berz (d) hydrofuran-3-one）。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物4：白色粉末。ESI-MS m/z:139 $[ \\mathrm { M } \\mathrm { + H } ] ^ { + }$ ，分子式 $\\mathrm { C _ { 7 H _ { 6 } O _ { 3 } } }$ 。 $^ 1 \\mathrm { H }$ -NMR $( 6 0 0 ~ \\mathrm { M H z }$ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta \\colon 9 . 6 7$ (1H,s,H-7),7.30 (1H, dd, $J = 7 . 8$ ， $1 . 8 \\ : \\mathrm { H z }$ ,H-6),7.29(1H,d, $J = 1 . 8 ~ \\mathrm { H z }$ ,H-2),6.89 (1H, d, $J = 7 . 8 ~ \\mathrm { H z }$ ,H-5); $^ { 1 3 } \\mathrm { C }$ -NMR( $1 5 0 ~ \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta$ :193.2 (C-7), 154.7 (C-3), 147.5(C-4),130.6 (C-1),126.8 (C-6),116.5 (C-5),115.3 (C-2)。以上数据与文献（杨超等，2021)基本一致，故鉴定该化合物为原儿茶醛（procatechin）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物5：黄色粉末。 $\\mathrm { E S I - M S \\ m / z : } 2 8 9 \\ [ \\mathrm { M + H } ] ^ { + }$ 分子式 $\\mathrm { C _ { 1 5 } H _ { 1 2 } O _ { 6 } }$ 。 $^ 1 \\mathrm { H }$ -NMR $( 6 0 0 \\mathrm { M H z }$ DMSO- $d _ { \\boldsymbol { \\delta } }$ ) δ: 12.75 (1H, s,1-OH),10.51 (1H,brs,5-OH),7.54 (1H, dd, $J = 7 . 8$ ， $1 . 2 ~ \\mathrm { H z }$ H-8), 7.31 (1H, dd, $J { = } 7 . 8$ ， $1 . 2 \\mathrm { H z }$ ,H-6),7.25 (1H, t, $J { = } 7 . 8 \\mathrm { H z }$ ,H-7),6.75(1H,s,H-4),3.95 (3H, s, 3- $\\mathrm { O C H } _ { 3 } ,$ ), 3.74 (3H, s,2-OCH3); $^ { 1 3 } \\mathrm { C }$ -NMR( $1 5 0 \\mathrm { M H z }$ ,DMSO- $d _ { 6 }$ ) δ: 180.8 (C-9), 160.0 (C-3), 153.2 (C-1), 152.7 (C-4a),146.3 (C-5), 145.0 (C-4b),131.1 (C-2),124.2 (C-7),120.6 (C-8a),120.5 (C6),114.4 (C-8), 103.2 (C-8b), 91.4 (C-4), 60.1 ( $\\Omega \\mathrm { - O C H } _ { 3 } ,$ ，56.5（ $3 \\mathrm { - O C H } _ { 3 } $ )。以上数据与文献 （Yuan et al.,2006）基本一致，故鉴定该化合物为1,5-dihydroxy-2,3-dimethoxyxanthone。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物6：黄色粉末。 $\\mathrm { E S I - M S \\ } m / z : 3 1 7 \\ [ \\mathrm { M + H } ] ^ { + }$ ，分子式 $\\mathrm { C _ { 1 6 } H _ { 1 2 } O _ { 7 } }$ 。 $^ 1 \\mathrm { H }$ -NMR ${ \\bf \\zeta } 6 0 0 { \\bf M H z }$ DMSO- $d _ { 6 }$ )δ: 12.46(1H, s,5-0H),7.75(1H, d, $J { = } 1 . 8 \\mathrm { H z }$ ,H-2), 7.68 (1H, dd, $J { = } 8 . 4$ ， $1 . 8 \\mathrm { H z }$ ,H6), 6.94 (1H, d, $J = 8 . 4 ~ \\mathrm { H z }$ ,H-5), 6.46 (1H, d, $J = 1 . 8 ~ \\mathrm { H z }$ ,H-8), 6.18 (1H, d, $J = 1 . 8 ~ \\mathrm { H z }$ ,H-6), 3.84 (3H, s, $3 ^ { \\prime } { \\mathrm { - O C H } } _ { 3 } { \\cdot }$ ） $^ { 1 3 } \\mathrm { C }$ -NMR( $1 5 0 ~ \\mathrm { M H z }$ ,DMSO- $d _ { 6 }$ ) δ: 175.9 (C-4), 164.3 (C-7), 160.7 (C-5), 156.2 (C-9),148.8 (C-4), 147.4 (C-3), 146.5 (C-2),135.9 (C-3),122.0 (C-1), 121.7 (C-6), 115.5 (C-5), 111.7 (C-2), 102.9 (C-10), 98.3 (C-6), 93.6 (C-8), 55.8 ( $3 ^ { \\prime } { \\mathrm { - O C H } } _ { 3 } )$ )。以上数据与文献（董 丽华等，2019）基本一致，故鉴定该化合物为异鼠李素（isorhamnetin）。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物7：黄色粉末。 $\\mathrm { E S I - M S \\ } m / z : 2 8 7 \\ [ \\mathrm { M + H } ] ^ { + } ;$ ，分子式 $\\mathrm { C _ { 1 5 } H _ { 1 0 } O _ { 6 } }$ 。 $^ 1 \\mathrm { H }$ -NMR $( 6 0 0 ~ \\mathrm { M H z }$ DMSO- $d _ { 6 }$ )δ:12.47(1H, s, 5-OH),8.04(2H, d, $J { = } 9 . 0 \\operatorname { H z }$ ,H-2',6),6.93 (2H, d, $J { = } 9 . 0 \\operatorname { H z }$ ,H-3', 5), 6.44 (1H, d, $J { = } 2 . 4 \\ : \\mathrm { H z }$ ,H-8), 6.19 (1H, d, $J { = } 2 . 4 ~ \\mathrm { H z }$ ,H-6); $^ { 1 3 } \\mathrm { C }$ -NMR ( $1 5 0 ~ \\mathrm { M H z }$ ,DMSO- $d _ { 6 }$ ） δ: 175.9 (C-4),163.9 (C-7), 160.7 (C-5), 159.2 (C-4), 156.2 (C-9), 146.8 (C-2),135.7 (C-3), 129.5 (C-2',6),121.7 (C-1),115.4 (C-3', 5),103.0 (C-10),98.2 (C-6), 93.5 (C-8)。以上数据与 文献（Jung etal.,2003）基本一致，故鉴定该化合物为山奈酚（kaempferol)。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物8：白色粉末。ESI-MS $m / z$ ：177 $[ \\mathrm { M } \\mathrm { + H } ] ^ { + }$ ，分子式 $\\mathrm { C _ { 1 0 } H _ { 8 } O _ { 3 } }$ 。 $^ 1 \\mathrm { H }$ -NMR $( 4 0 0 ~ \\mathrm { M H z }$ $\\mathrm { C } _ { 5 } \\mathrm { D } _ { 5 } \\mathrm { N } ,$ δ:7.98(1H,dd, $J = 8 . 0$ ， $1 . 6 \\mathrm { H z }$ ,H-5),7.44 (1H, dd, $J = 8 . 0$ ， $1 . 6 \\mathrm { H z }$ ,H-7),7.29 (1H, t, $J =$ $8 . 0 \\mathrm { H z }$ ,H-6), 6.28 (1H, s,H-3),2.05 (3H, s,2-CH3); $^ { 1 3 } \\mathrm { C }$ -NMR( ${ \\bf \\Lambda } ^ { } 1 0 0 { \\bf M H z }$ $\\mathrm { C _ { 5 } D _ { 5 } N }$ ) δ: 178.4 (C-4),166.3 (C-2),148.6 (C-10), 147.5 (C-8),126.0 (C-9),125.8 (C-7), 120.2 (C-6),115.5 (C-5),111.1(C-3),20.4 (2-CH3)。以上数据与文献（王洪玲等，2011）基本一致，故鉴定该化合物为8-羟基-2-甲基色原酮（8-hydroxy-2-methylchromone）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物9：黄色粉末。ESI-MS $m / z$ ：287 $[ \\mathrm { M } \\mathrm { + H } ] ^ { + }$ ，分子式 $\\mathrm { C _ { 1 5 } H _ { 1 0 } O _ { 6 } }$ 。 $^ 1 \\mathrm { H }$ -NMR ${ ( 4 0 0 ~ \\mathrm { M H z } }$ DMSO- $d _ { 6 }$ ) δ: 7.33 (2H,m,H-2',6),6.84 (1H, d, $J { = } 8 . 8 \\mathrm { H z }$ ,H-5), 6.51 (1H, s,H-3), 6.35 (1H, d, $J { = } 2 . 0 ~ \\mathrm { H z }$ ,H-8), 6.10 (1H, d, $J { = } 2 . 0 ~ \\mathrm { H z }$ H-6); $^ { 1 3 } \\mathrm { C }$ -NMR( ${ 1 0 0 } \\mathrm { M H z }$ ,DMSO- $. d _ { 6 }$ ) δ: 181.0 (C-4), 166.8 (C-2), 163.7 (C-7), 161.3 (C-5), 157.4 (C-9),151.3 (C-4), 146.3 (C-3), 120.4 (C-1), 118.7 (C-6),115.9 (C-5),112.6 (C-2),102.6 (C-10),102.0 (C-3), 99.4 (C-6),94.1 (C-8)。以上数据与 文献（陈林等，2018）基本一致，故鉴定该化合物为木犀草素（luteolin）。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物10：黄色粉末。ESI-MS $m / z$ : 303 $[ \\mathrm { M } \\mathrm { + H } ] ^ { + }$ ，分子式 $\\mathrm { C _ { 1 5 } H _ { 1 0 } O _ { 7 } }$ 。 $^ 1 \\mathrm { H }$ -NMR $( 4 0 0 \\mathrm { M H z }$ DMSO- $d _ { 6 }$ ） $\\delta$ :12.50(1H,s,5-OH),7.68 (1H, d, $J { = } 2 . 4 \\ : \\mathrm { H z }$ ,H-2),7.54 (1H, dd, $J { = } 8 . 4 , 2 . 4 \\mathrm { H z } .$ H6), 6.89 (1H, d, $J = 8 . 4 ~ \\mathrm { H z }$ ,H-5), 6.41 (1H, d, $J { = } 2 . 0 \\ \\mathrm { H z }$ ,H-8), 6.19 (1H, d, $J { = } 2 . 0 \\ \\mathrm { H z }$ ,H-6); $^ { 1 3 } \\mathrm { C }$ -NMR ( ${ 1 0 0 } \\mathrm { M H z }$ ,DMSO- $d _ { 6 }$ ) δ: 175.9 (C-4),163.9 (C-7), 160.8 (C-9),156.2 (C-5),147.7 (C",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4), 146.8 (C-2), 145.1 (C-3), 135.8 (C-3),122.0 (C-1), 120.0 (C-6), 115.6 (C-2), 115.1 (C-5),103.0(C-10),98.2(C-6),93.4(C-8)。以上数据与文献（王晓阳等，2020）基本一致，故鉴定该化合物为槲皮素（quercetin）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "化合物11：白色无定型粉末。ESI-MSm/z:732 $[ \\mathrm { M } \\mathrm { + H } ] ^ { + }$ ，分子式 $\\mathrm { C _ { 4 0 } H _ { 7 7 } N O _ { 1 0 } }$ 。 $^ 1 \\mathrm { H }$ -NMR 0 $4 0 0 ~ \\mathrm { { M H z } }$ ,DMSO- $\\cdot d _ { 6 }$ )δ: 7.54 (1H, d, $J { = } 9 . 2 \\operatorname { H z }$ N-H), 5.34 (2H,m,H-8,9),4.13 (1H, d, $J = 7 . 6$ Hz,H-1\"),4.08 (1H, m, H-2),3.83 (1H, m,H-1b), 3.82 (1H, m, H-2),3.66 (1H, m, $\\mathrm { H } { - } 6 ^ { \\prime } \\mathfrak { b }$ ),3.64 (1H, m,H-1a),3.42 (1H, m, $\\mathrm { H } { - } 6 \\mathrm { ^ { \\prime } } \\mathrm { \\tilde { a } }$ ),3.39 (2H,m,H-3,4),1.22[s, $\\left( \\mathrm { C H } _ { 2 } \\right) \\mathrm { n ] }$ ,0.84 (6H, t, $J { = } 6 . 8 \\mathrm { H z }$ $2 { \\times } \\mathrm { C H } _ { 3 } ,$ ） $^ { 1 3 } \\mathrm { C }$ -NMR( ${ \\mathrm { ~  ~ \\Omega ~ } } ^ { \\mathrm { ~ \\tiny ~ 1 0 0 ~ M H z } }$ ,DMSO- $. d _ { 6 }$ )δ: 173.8 (C-1), 130.3 (C-8),129.6 (C-9), 103.5 (C-1\"), 76.9 (C-5\"), 76.5 (C-3\"), 74.0 (C-3), 73.5 (C-2\"), 71.0 (C-2), 70.5 (C-4), 70.0 (C-4\"), 69.1 (C-1), 61.1 (C-6\"), 49.9 (C-2), 34.4,32.4,32.1,31.6,31.4,29.2, 29.1,29.0,28.8,28.7,25.6,24.5,22.2 (均为 $\\mathrm { C H } _ { 2 } \\mathrm { \\cdot }$ ),13.9(Me)。以上数据与文献（黄朝辉等，2005）基本一致，故鉴定该化合物为 1-0 $\\cdot \\beta$ -D-葡萄糖 $( 2 S , 3 S , 4 R , 8 E ) \\ - 2 \\AA [ ( 2 ^ { \\prime } R ) - 2 ^ { \\prime } \\scriptscriptstyle -$ 羟基棕榈酰胺]-8-十八烯-1,3,4-三醇（1-O- $\\cdot \\beta$ -Dglucopyranosyl-(2S,3S,4R,8E)-2-[(2 'R)-2'-hydroxypalmitoylamino]-8-octadecene-1,3,4-triol)。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "化合物12：黄色粉末。ESI-MS $m / z$ : 479 $[ \\mathrm { M } \\mathrm { + H } ] ^ { + }$ ，分子式 $\\mathrm { C } _ { 2 2 } \\mathrm { H } _ { 2 2 } \\mathrm { O } _ { 1 2 }$ 。 $^ 1 \\mathrm { H }$ -NMR ${ ( 6 0 0 ~ \\mathrm { M H z } }$ ， DMSO- $d _ { 6 }$ ） $\\delta$ : 12.61 (1H,brs, 5-OH),8.03 (1H, d, $J { = } 2 . 4 \\ : \\mathrm { H z }$ ,H-2),7.50 (1H, dd, $J { = } 8 . 4 , 2 . 4 \\mathrm { H z }$ H-6), 6.91 (1H, d, $J { = } 8 . 4 \\ : \\mathrm { H z }$ ,H-5), 6.43 (1H,brs,H-8),6.20 (1H,brs,H-6),5.52(1H, d, $J = 7 . 8$ Hz,H-1\"), 3.85 (3H, s, $3 ^ { \\prime } { \\mathrm { - O C H } } _ { 3 } ^ { \\prime }$ ), $3 . 3 6 { \\sim } 3 . 6 9$ (6H,糖上的质子); $^ { 1 3 } \\mathrm { C }$ -NMR( $1 5 0 \\mathrm { M H z }$ ,DMSO- $d _ { 6 }$ ） δ: 177.4 (C-4),164.7 (C-7),161.3 (C-5),156.5 (C-9), 156.2 (C-2), 149.5 (C-3), 147.1 (C-4), 133.2 (C-3),121.9 (C-6),121.1 (C-1), 115.2 (C-2), 113.6 (C-5),103.9 (C-10),101.7 (C-1\"), 98.9 (C-6), 93.8 (C-8), 76.0 (C-5\"), 73.2 (C-3'), 71.3 (C- $2 ^ { \\prime \\prime }$ ,68.0(C $. 4 ^ { \\prime \\prime } )$ ,60.4 (C-6\"), 56.0（ $3 \\%$ $\\mathrm { O C H } _ { 3 } )$ 。以上数据与文献（张涛等，2021）基本一致，故鉴定该化合物为异鼠李素-3-O $\\cdot \\beta \\cdot$ （2 D-半乳糖苷（isorhamnetin-3-O- $\\boldsymbol { \\cdot } \\beta$ -D-galactopyranoside）。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "化合物13：黄色粉末。ESI-MS $m / z$ ：465 $[ \\mathrm { M } \\mathrm { + H } ] ^ { + }$ ，分子式 $\\mathrm { C } _ { 2 1 } \\mathrm { H } _ { 2 0 } \\mathrm { O } _ { 1 2 }$ 。 $^ 1 \\mathrm { H }$ -NMR ${ ( 6 0 0 \\mathrm { M H z } }$ DMSO- $d _ { 6 }$ )δ:12.63(1H,s,5-OH),7.58 (1H, dd, $J { = } 9 . 0 , 2 . 4 \\mathrm { H z } , 1$ H-6),7.58 (1H, d, $J { = } 2 . 4 \\ : \\mathrm { H z }$ ,H-2), 6.84 (1H, d, $J { = } 9 . 0 ~ \\mathrm { H z }$ ,H-5), 6.38 (1H, d, $J = 1 . 8 ~ \\mathrm { H z }$ ,H-8), 6.18 (1H, d, $J = 1 . 8 ~ \\mathrm { H z }$ H-6),5.46 (1H, d, $J { = } 7 . 2 ~ \\mathrm { H z }$ ,H-1\"), $3 . 0 7 { \\sim } 3 . 5 9$ (6H,糖上的质子); $^ { 1 3 } \\mathrm { C }$ -NMR( $1 5 0 \\mathrm { M H z }$ ,DMSO- $d _ { 6 }$ ） $\\delta$ ：177.4 (C-4), 164.8 (C-7), 161.3 (C-5),156.4 (C-2),156.1 (C-9), 148.6 (C-4), 144.9 (C-3), 133.3(C-3),121.6 (C-6),121.2 (C-1),116.2 (C-5),115.3 (C-2),103.8 (C-10),101.0 (C-1\"),98.9 (C-6),93.6 (C- $8 ) , 7 7 . 6 ~ ( \\mathrm { C - 5 ^ { \\prime \\prime } } ) , 7 6 . 6 ~ ( \\mathrm { C - 3 ^ { \\prime \\prime } } ) , 7 4 . 2 ~ ( \\mathrm { C - 2 ^ { \\prime \\prime } } ) , 7 0 . 0 ~ ( \\mathrm { C - 4 ^ { \\prime \\prime } } ) , 6 1 . 0 ~ ( \\mathrm { C - 6 ^ { \\prime \\prime } } ) , 7 9 . 0 ~ ( \\mathrm { C - 3 ^ { \\prime } } )$ 。以上数据与文献（余邦伟等，2021）基本一致，故鉴定该化合物为异槲皮苷（isoquercitrin）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "化合物14：黄色粉末。ESI-MS $m / z$ :421[M-H]-,分子式 $\\mathrm { { C } _ { 1 9 } \\mathrm { { H } _ { 1 8 } \\mathrm { { O } _ { 1 1 } } } }$ 。 $^ 1 \\mathrm { H }$ -NMR $( 4 0 0 \\mathrm { M H z }$ DMSO- $d _ { 6 }$ ) δ: 7.22 (1H, d, $J { = } 9 . 2 \\operatorname { H z }$ ,H-6),7.12 (1H, d, $J { = } 9 . 2 \\operatorname { H z }$ ,H-7), 6.32 (1H, d, $J { = } 2 . 0 \\mathrm { H z }$ 0 H-4), 6.12 (1H, d, $J { = } 2 . 0 \\mathrm { H z }$ ,H-2),4.75 (1H, d, $J { = } 7 . 6 \\ \\mathrm { H z }$ ,H-1), $3 . 1 7 { \\sim } 3 . 7 6$ (糖上的质子); $^ { 1 3 } \\mathrm { C } .$ NMR ( ${ \\bf \\Lambda } ^ { } 1 0 0 ~ \\mathrm { M H z }$ ,DMSO- $d _ { 6 }$ ） $\\delta$ :180.2 (C-9),167.0 (C-3),162.9 (C-1),156.5 (C-4a),149.3 (C-8), 144.8 (C-4b),141.0 (C-5),120.6 (C-6), 112.7 (C-7), 111.9 (C-8a),103.6 (C-1), 102.1 (C-8b), 98.5 (C-2), 93.8 (C-4),77.4 (C-5),75.9 (C-3), 73.5 (C-2), 69.8 (C-4),60.9 (C-6)。以上数据与献 （Sakamoto etal.,1982）基本一致，故鉴定该化合物为去甲当药醇苷（norswertianolin）。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "化合物15：黄色粉末。ESI-MS $m / z$ : 419 $[ \\mathrm { M } \\mathrm { + H } ] ^ { + }$ 分子式 $\\mathrm { C _ { 2 0 } H _ { 1 8 } O _ { 1 0 } }$ 。 $^ 1 \\mathrm { H }$ -NMR( ${ \\bf \\zeta } 4 0 0 ~ \\mathrm { M H z }$ DMSO- $d _ { 6 }$ ) δ: 7.40 (2H,overlap,H-2', 6), 6.89 (1H, d, $J { = } 8 . 0 \\ \\mathrm { H z }$ ,H-5), 6.64 (1H, s,H-8), 6.49 (1H, s, H-3), 4.55 (1H, d, $J { = } 9 . 6 \\mathrm { H z }$ ,H-1\", $3 . 3 9 { \\sim } 4 . 1 7 ( 5 \\mathrm { H } _ { \\cdot }$ 糖上的质子); $^ { 1 3 } \\mathrm { C }$ -NMR ${ \\bf \\Lambda } ^ { } 1 0 0 ~ \\mathrm { M H z }$ DMSO- $d _ { 6 }$ ) δ: 181.7 (C-4), 163.7 (C-2), 163.1 (C-7),159.9 (C-5), 156.2 (C-9),149.8 (C-4), 145.7 (C-3),121.3 (C-1),118.9 (C-6),115.9 (C-5),113.2 (C-2),108.9 (C-6),103.3 (C-10),102.7 (C3), 93.9 (C-8), 74.5 (C-3\"), 74.0 (C-1\"), 70.2 (C- $\\cdot 5 ^ { \\prime \\prime }$ ),68.9(C-4\"),68.5(C-2\")。以上数据与文献 （Liaw et al.,2022;Wang et al.,2011）基本一致，故鉴定该化合物为木犀草素-6-C-a-L-阿拉 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "伯糖苷（luteolin-6-C-α-L-arabinoside）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "化合物16：黄色粉末。ESI-MS $m / z$ : 449 $[ \\mathrm { M } \\mathrm { + H } ] ^ { + }$ ，分子式 $\\mathrm { C } _ { 2 1 } \\mathrm { H } _ { 2 0 } \\mathrm { O } _ { 1 1 }$ 。 $^ 1 \\mathrm { H }$ -NMR $( 4 0 0 \\mathrm { M H z }$ DMSO- $d _ { 6 }$ ) δ: 8.06 (2H, m,H-2', 6), 6.86 (2H, m, H-3', 5), 6.41 (1H, d, $J = 2 . 0 ~ \\mathrm { H z }$ ,H-8), 6.19 (1H, d, $J { = } 2 . 0 \\mathrm { H z }$ ,H-6), 5.37 (1H, d, $J { = } 7 . 6 \\mathrm { H z }$ ， $\\mathrm { H } { - } 1 ^ { \\prime \\prime }$ ) $3 . 2 9 { \\sim } 3 . 6 8$ (糖上的质子); $^ { 1 3 } \\mathrm { C }$ -NMR（100 MHz,DMSO- $d _ { 6 }$ ) δ: 177.4 (C-4),164.6 (C-7), 161.1 (C-5), 159.9 (C-4), 156.4 (C-2), 156.2 (C-9), 133.2 (C-3),130.8 (C-2', 6),120.8 (C-1),115.0 (C-3', 5), 103.7 (C-10), 101.8 (C-1\"), 98.7 (C-6), 93.6 (C-8), 75.7 (C-5'), 73.1 (C-3'), 71.2 (C-2'), 67.8 (C- $4 ^ { \\prime \\prime }$ ,60.1(C-6\"。以上数据与文献 （石舒雅等，2019）基本一致，故鉴定该化合物为山奈酚-3-O- $\\boldsymbol { \\cdot } \\beta$ -D-半乳糖苷（kaempferol3-0- $\\boldsymbol { \\cdot } \\beta$ -D- galactopyranoside）。 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "化合物17：黄色粉末。ESI-MS $m / z$ : 449 $[ \\mathrm { M } \\mathrm { + H } ] ^ { + }$ ，分子式 ${ \\mathrm { C } } _ { 2 1 } { \\mathrm { H } } _ { 2 0 } { \\mathrm { O } } _ { 1 1 }$ 。 $^ 1 \\mathrm { H }$ -NMR ${ ( 6 0 0 ~ \\mathrm { M H z } }$ DMSO- $d _ { 6 }$ )δ:12.50(1H,s, 5-0H),10.16 (1H, s,3-OH),9.56(1H, s, $4 ^ { \\prime }$ -OH), 8.08 (2H, d, $J = 9 . 0$ Hz,H-2',6), 6.94 (2H, d, $J = 9 . 0$ Hz,H-3',5), 6.80 (1H, d, $J { = } 2 . 4 ~ \\mathrm { H z }$ ,H-8),6.42 (1H, d, $J = 2 . 4$ Hz, H-6), 5.07 (1H, d, $J = 7 . 2 ~ \\mathrm { H z }$ ,H-1\"),3.16\\~3.72 (6H,糖上的质子); $^ { 1 3 } \\mathrm { C }$ -NMR( $( 1 5 0 ~ \\mathrm { M H z }$ DMSO- $d _ { 6 }$ ) δ: 176.1 (C-4), 162.7 (C-7),160.4 (C-5), 159.4 (C-4), 155.8 (C-9), 147.5 (C-2), 136.0(C-3),129.7 (C-2', 6), 121.5 (C-1), 115.5 (C-3', 5), 104.7 (C-10), 99.9 (C-1\"), 98.8 (C-6), 94.4(C-8),77.2 (C-3\"),76.4 (C-5\"),73.1(C-2\"),69.5 (C-4\"),60.6 (C-6\")。以上数据与文献（李彦等，2018）基本一致，故鉴定该化合物为山奈酚-7-O $\\boldsymbol { \\cdot } \\beta$ -D-葡萄糖苷（kaempferol-7-O- $\\boldsymbol { \\cdot } \\beta$ -D-glucopyranoside）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "化合物18：黄色粉末。 $\\mathrm { E S I - M S \\ m / z }$ ：449 $[ \\mathrm { M } \\mathrm { + H } ] + _ { : }$ ，分子式 $\\mathrm { C } _ { 2 1 } \\mathrm { H } _ { 2 0 } \\mathrm { O } _ { 1 1 }$ 。 $^ 1 \\mathrm { H }$ -NMR(400$\\mathrm { \\mathbf { M H z } }$ ，DMSO- $d _ { \\boldsymbol { \\delta } }$ )δ:7.45(1H,dd, $J = 8 . 0$ $2 . 0 \\ : \\mathrm { H z }$ ,H-6),7.42(1H, d, $J { = } 2 . 0 \\ \\mathrm { H z }$ ,H-2),6.90(1H,d, $J { = } 8 . 4 \\ : \\mathrm { H z }$ ,H-5),6.79 (1H, d, $J { = } 2 . 4 \\ : \\mathrm { H z }$ ,H-8),6.76 (1H, s,H-3), 6.44(1H, d, $J { = } 2 . 4 \\ : \\mathrm { H z }$ ,H-6),5.09 (1H, d, $J { = } 7 . 6 \\ \\mathrm { H z }$ ,H-1\"), $3 . 1 5 { \\sim } 3 . 7 2$ (6H,糖上的质子); $^ { 1 3 } \\mathrm { C }$ -NMR( $[ 1 0 0 \\mathrm { M H z }$ ,DMSO-d6) $\\delta$ ：182.0 (C-4),164.5 (C-2), 163.0 (C-7),161.2 (C-5),157.0 (C-9),150.0 (C-4), 145.8 (C-3), 121.4(C-1),119.2 (C-6),116.0 (C-5),113.6 (C-2),105.4 (C-3),103.2 (C-10),99.9 (C-1\"), 99.6 (C-6),94.7 (C-8),77.2 (C-4\"),76.4 (C-3\"),73.1 (C-2\"),69.5 (C-5\"),60.6 (C-6\")。以上数据与文献（肖春荣等，2019）基本一致，故鉴定该化合物为木犀草素-7-O $\\cdot \\beta$ -D-葡萄糖苷（luteolin-7-0 $\\cdot \\beta$ -D-glucopyranoside）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "化合物19：黄色粉末。ESI-MS $m / z$ : 433 $[ \\mathrm { M } \\mathrm { + H } ] ^ { + }$ ，分子式 ${ \\mathrm { C } } _ { 2 1 } { \\mathrm { H } } _ { 2 0 } { \\mathrm { O } } _ { 1 0 }$ 。 $^ 1 \\mathrm { H }$ -NMR $( 4 0 0 \\mathrm { M H z }$ DMSO- $d _ { 6 }$ ) δ: 7.93 (2H, d, $J { = } 8 . 8 \\mathrm { H z }$ ,H-2', 6), 6.92 (2H, d, $J { = } 8 . 8 \\mathrm { H z }$ ,H-3',5), 6.79 (1H, s,H-3), 6.51 (1H, s, H-8), 4.59 (1H, d, $J = 1 0 . 0 \\ : \\mathrm { H z }$ ,H-1\", $3 . 0 9 { \\sim } 4 . 0 8 \\$ (6H,糖上的质子); $^ { 1 3 } \\mathrm { C }$ -NMR(100 MHz,DMSO- $d _ { 6 }$ ) δ: 182.0 (C-4),163.6 (C-2), 163.5 (C-7), 161.3 (C-9), 160.8 (C-4), 156.3 (C-5), 128.6 (C-2', 6),121.2 (C-1),116.1 (C-3', 5),109.0 (C-6), 103.4 (C-10), 102.8 (C-3), 93.7 (C-8), 81.7 (C-5\"),79.0 (C-1\"),73.1 (C-2\"),70.7 (C-3\"),70.2 (C-4\"),61.6 (C-6\")。以上数据与文献 （任英杰等，2021）基本一致，故鉴定该化合物为异牡荆苷（isovitexin））。 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "化合物20：黄色粉末。ESI-MS $m / z$ : 611 $[ \\mathrm { M } \\mathrm { + H } ] ^ { + }$ ，分子式 $\\mathrm { C } _ { 2 7 } \\mathrm { H } _ { 3 0 } \\mathrm { O } _ { 1 6 }$ 。 $^ 1 \\mathrm { H }$ -NMR $( 4 0 0 \\mathrm { M H z }$ DMSO- $d _ { 6 }$ ) δ: 7.54 (1H, dd, $J = 8 . 0$ ， $2 . 4 \\ : \\mathrm { H z }$ ,H-6),7.53 (1H, d, $J { = } 2 . 4 ~ \\mathrm { H z }$ ,H-2),6.85 (1H,d, $J =$ $8 . 8 \\mathrm { H z }$ H-5),6.39(1H,d, $J { = } 2 . 0 \\mathrm { H z }$ ,H-8),6.19(1H, d, $J { = } 2 . 0 \\mathrm { H z }$ H-6),5.33(1H,d, $J { = } 7 . 6 \\ \\mathrm { H z } .$ $\\mathrm { H } { - } 1 ^ { \\prime \\prime } )$ ,4.38 (1H, d, $J { = } 1 . 6 \\mathrm { H z }$ $\\mathrm { H } { - } 1 ^ { \\prime \\prime \\prime }$ ),0.98 (3H, d, $J { = } 6 . 4 ~ \\mathrm { H z }$ $\\mathrm { H } { - } 6 ^ { \\prime \\prime \\prime }$ ), $3 . 0 5 { \\sim } 3 . 7 1$ (糖上的质子); $^ { 1 3 } \\mathrm { C }$ -NMR( $1 0 0 ~ \\mathrm { M H z }$ ,DMSO- $d _ { 6 }$ ) δ: 177.2 (C-4), 164.5 (C-7), 161.1 (C-5), 156.4 (C-2, 9), 148.4 (C-4),144.7 (C-3),133.3 (C-3),121.5 (C-6),121.0 (C-1),116.2 (C-5),115.2 (C-2),103.7 (C10), 101.2 (C-1\"),100.6 (C-1\"), 98.7 (C-6), 93.5 (C-8), 76.5 (C-3\"), 75.8 (C-5\"), 74.0 $( { \\bf C } { - } 2 { ' } )$ 5 71.9 (C-4\"), 70.6 (C-3 \"), 70.2 (C-4\"), 70.0 (C-2\"), 68.1 (C-5\"), 66.9 (C- $\\cdot 6 ^ { \\prime \\prime }$ ,17.5 (C-6\")。以上 数据与文献（Zhuetal.,2020）基本一致，故鉴定该化合物为芦丁（rutin）。 ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0f18d67782f475048985d9a2af3a77ce1f29e918cf0208b79015adccb09a0c7.jpg",
+        "img_caption": [
+            "图1化合物1-20的结构式",
+            "Fig.1 Chemical structures ofcompounds1-20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4抗炎活性筛选结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利用CCK-8法测定RAW264.7细胞在不同化合物浓度环境下的存活率来评价对应化合物的细胞毒性作用。根据细胞毒性测试结果对本实验化合物的给药浓度进行设计，结果显示，化合物2、3、14、16、20在浓度为 $1 0 0 \\ \\mathrm { \\textmu m o l { \\cdot } L ^ { - 1 } }$ ；化合物1、5、6、8、9、11-13、19在浓度为 $5 0 ~ \\mathrm { \\textmu m o l { \\cdot } L ^ { - 1 } }$ ；化合物4、7、10、18在浓度在 $2 5 \\ \\mathrm { \\mu m o l \\cdot L ^ { - 1 } }$ 内细胞存活率均为 $90 \\%$ 以上，表明在此给药浓度范围内无细胞毒性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "采用LPS造模 $2 4 \\mathrm { h }$ 后，与空白组相比，模型组细胞的NO分泌量显著增加（ $\\cdot P { < } 0 . 0 1 )$ ，表明造模成功。与模型组相比，除6个化合物（化合物1、11、13、14、16、20）对细胞的 NO分泌量无显著影响外，化合物4、7、10、18在浓度为 $2 5 \\ \\mathrm { \\mu m o l \\cdot L ^ { - 1 } }$ 时；化合物5、6、8、9、12、19在浓度为 $5 0 ~ \\mathrm { \\textmu m o l { \\cdot } L ^ { - 1 } }$ 时；化合物2、3在浓度为 $1 0 0 \\ \\mathrm { \\textmu m o l { \\cdot } L ^ { - 1 } }$ 时均可显著降低细胞的NO分泌量 $( P { < } 0 . 0 5$ ， $P { < } 0 . 0 1 \\rangle$ ，见表1。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表1杏叶防风化合物对LPS 诱导RAW264.7细胞产生NO 的抑制率 $( \\mathrm { n } { = } 3 )$ 号",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e506849fb5519751d8a5e2d0dd7e8d11112c0d588762e931be39724d6bb71d9.jpg",
+        "table_caption": [
+            "Table 1 Inhibition ratio of constituents on production of NO in LPS-induced RAW 264.7 cells $( \\mathrm { n } { = } 3 )$ （ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>化合物 Compound</td><td>浓度 (μmol·L-1) concentration (μmol·L-1)</td><td>NO 抑制率 (%) NO inhibition ratio (%)</td><td>化合物 Compound</td><td>浓度 （μmol·L-1) concentration (μmol·L-1)</td><td>NO 抑制率 (%) NO inhibition ratio (%)</td></tr><tr><td>DEX</td><td>25</td><td>91.08</td><td>9</td><td>50</td><td>79.80</td></tr><tr><td>2</td><td>100</td><td>78.36</td><td>11</td><td>50</td><td>15.76</td></tr><tr><td>3</td><td>100</td><td>76.51</td><td>12</td><td>50</td><td>62.14</td></tr><tr><td>14</td><td>100</td><td>45.06</td><td>13</td><td>50</td><td>38.20</td></tr><tr><td>16</td><td>100</td><td>30.29</td><td>19</td><td>50</td><td>71.26</td></tr><tr><td>20</td><td>100</td><td>34.24</td><td>4</td><td>25</td><td>57.37</td></tr><tr><td>1</td><td>50</td><td>32.11</td><td>7</td><td>25</td><td>83.60</td></tr><tr><td>5</td><td>50</td><td>80.82</td><td>10</td><td>25</td><td>68.16</td></tr><tr><td>6</td><td>50</td><td>64.88</td><td>18</td><td>25</td><td>81.14</td></tr><tr><td>8</td><td>50</td><td>61.21</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5讨论与结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究从杏叶防风全草 $70 \\%$ 乙醇提取物中分离鉴定了20个化合物，包括15个黄酮类化合物（5-10、12-20)，2个酚类化合物（1、4)，一个木脂素类化合物（2)，一个苯丙烷类化合物（3）和一个酰胺类化合物（11)。其中化合物2、5、8、11、12、14、15、17首次从茴芹属植物中分离得到，化合物1、3、4、6、7、10、13、16、18、20首次从杏叶防风中分离得到。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "炎症是机体稳态受到干扰时常见的病理状态，许多疾病的发生会伴随着炎症的产生，即“十病九炎”。炎症的发生是由多种炎症介质、细胞因子及信号通路共同参与调节来完成的，NO作为一种同时拥有促炎和抗炎双重作用的生物活性物质（曹谨玲等，2021；李潭等，2021)，在炎症级联反应中，特别是在炎症反应的发生和信号传导方面起到关键的调节作用（羊波等，2016)。因此，本研究利用LPS诱导RAW264.7细胞产生NO为评价模型，从实验结果来看，木脂素类化合物（2）、苯丙烷类化合物（3）、黄酮类化合物（5-10、12、18-19）及酚类化合物（4）在安全浓度范围内对LPS诱导RAW264.7细胞产生的NO具有显著抑制作用，其抑制率分别为 $78 . 3 6 \\%$ 、 $7 6 . 5 1 \\%$ 、 $8 0 . 8 2 \\%$ 、 $6 4 . 8 8 \\%$ 、 $8 3 . 6 0 \\%$ 、 $6 1 . 2 1 \\%$ 、$7 9 . 8 0 \\%$ 、 $6 8 . 1 6 \\%$ 、 $6 2 . 1 4 \\%$ 、 $8 1 . 1 4 \\%$ 、 $7 1 . 2 6 \\%$ 、 $5 7 . 3 7 \\%$ 。其中，化合物5在 $5 0 ~ \\mathrm { \\textmu m o l { \\cdot } L ^ { - 1 } }$ 浓度下；化合物7、18在 $2 5 \\mu \\mathrm { m o l \\cdot L ^ { - 1 } }$ 浓度下的NO抑制率与阳性对照药地塞米松在 25$\\mu \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 浓度下的NO抑制率相当。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目前茴芹属民间药用植物的药理活性研究多为粗提物，单体化合物的药理活性尤其是抗炎活性方面的研究较少，仅见短果茴芹甲醇提取物中分离得到的奎宁酸衍生物对LPS 诱导 BV-2 细胞的抗炎活性（Lee etal.,2013)。本研究对杏叶防风进行了化学成分和抗炎活性研究，一定程度上丰富了杏叶防风的化学成分，初步探明黄酮类化合物是其发挥抗炎作用的活性成分，为进一步研究和开发其药理活性奠定了基础，同时也为进一步扩大茴芹属药用植物的化学成分及活性研究提供了重要的参考依据。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CAO JL,CHEN JJ,LI LJ,et al.，2021. Effects of artemisia argyi essential oils on anti-inflammatory of macrophages induced by lipopolysaccharide[J]. Chin J Anim Nutr, 33(6):  \n3479-3486.[曹谨玲，陈剑杰，李丽娟，等，2021.艾叶挥发油对脂多糖诱导的巨噬细胞的抗炎作用[J].动物营养学报，33(6)：3479-3486.]CHANG X, 2011. Studies on the Active Constituents of Tamarix Ramosissma Ledeb. andPimpinella Candolleana Wight Et Arn[D]. Henan: Henan University,[常星，2011.多枝柽柳和杏叶茴芹活性成分研究[D].河南：河南大学.]CHANG X, KANG WY, 2012. Antioxidant and $a$ glucosidase inhibitory compounds fromPimpinella candollana Wight et Arn[J]. Med Chem Res,21(12): 4324-4329.CHEN L,WANG Q, WU B,et al.， 2018. Isolation and identification of chemical constituentsfrom Disporum cantoniense (II)[J]. Chin Trad Herb Drugs,49(20): 4803-4807.[陈林，王琦,吴蓓，等，2018.百尾参化学成分的分离与鉴定(II)[J].中草药，49(20)：4803-4807.]CHENG MA, ZHEN DD, 2020. Chemical constituents from Feikangming[J]. Chin Trad Pat Med,  \n42(07):1786-1790.[陈美安，甄丹丹，2020.肺康明化学成分的研究[J].中成药，42(07):  \n1786-1790.]DONG LH, ZHU YY, GE F, et al., 2019. Chemical constituents of flavonoids from Polygonumdivaricatum[J].JChin Med Mat,42(3): 567-569.[董丽华，朱玉野，葛菲，等，2019.叉分蓼黄酮类化学成分研究[J].中药材，42(3)：567-569.]Guiyang Municipal Health Bureau, 1959. Guiyang folk herbs[M]. Guiyang: Guizhou People'sPublishing House:276-277.[贵阳市卫生局，1959.贵阳民间药草[M].贵阳：贵州人民出版社:276-277.]Guizhou Provincial Drug Administration， 20o3.Quality Standards for Chinese MedicinalMaterials and Ethnic Medicinal in Guizhou Province[S]. Guiyang: Guizhou Science andTechnology Press:230.[贵州省药品监督管理局，2003.贵州省中药材、民族药材质量标准[S].贵阳：贵州科技出版社：385.]HUANG ZH, XU KP, ZHOU YJ, et al., 2005. Studies on chemical constituents of Polygalaaureocauda[J].Nat Prod Res and Dev,17(3): 298-300.[黄朝辉，徐康平，周应军，等,  \n2005.黄花倒水莲化学成分研究[J].天然产物研究与开发，17(3)：298-300.]JUNG HA，KIM JE,CHUNG HY,et al.， 2003. Antioxidant principles of Nelumbonucifera stamens[J]. Arch Pharm Res, 26(4): 279-285.LEE SY, MOON E, KIM SY,et al.， 2013. Quinic acid derivatives from Pimpinellabrachycarpa exert anti-neuroinflammatory activity in lipopolysaccharide-inducedmicroglia[J]. Bioorg Med Chem Lett, 23(7): 2140-2144.LIANG GY，WANG DP, XU BX, et al.，2003. Studies on the compounds from Pimpinellacandolleana[J].Guizhou Sci,21(1):58-60.[梁光义，王道平，徐必学，等，2003.民族药骚羊古化学成分的研究[J].贵州科学，21(1)：58-60.]LIAW CC,LIN YC,WU SY, et al., 2022. Anti-inflammatory constituents from Phyllostachysmakinoi Hayata[J]. Nat Prod Res, 36(6): 1425-1432.LI T,SUN YH,LI GF, 2021. Anti-inflammatory mechanism of phloretin on RAW264.7 cellsinduced by lipopolysaccharide in vitro[J]. Chin JImmunol,37(7): 812-818.[李潭，孙一涵,李国峰，2021.根皮素对脂多糖诱导的RAW264.7细胞的体外抗炎作用机制[J].中国免疫学杂志，37(7)：812-818.]  \nLI Y, ZHOU BP, ZHANG WJ,et al.， 2018. Chemical constituents from aerial parts of Ribesmandshuricum[J].Chin Trad Herb Drug,49(4): 772-779.[李彦，周宝萍，张皖晋，等，2018.东北茶藨子化学成分研究[J].中草药，49(4)：772-779.]  \nREN YJ, CAO YG, ZENG MN, et al., 2021. Chemical constituents from the stems and leaves ofDioscorea opposite Thunb.[J].Chin Pharm J,56(12): 963-970.[任英杰，曹彦刚，曾梦楠,等，2021.薯预茎叶化学成分研究[J].中国药学杂志，56(12)：963-970.]  \nSHI HL，MI CF,QIAO BL，et al.，1998. Study on the chemical constituents of the root ofPimpinella thellungiana[J].JChin Med Mat,21(5): 236-237.[石慧丽，米彩峰，乔博灵,等，1998.羊红腹根的化学成分研究[J].中药材，21(5)：236-237.]  \n\"Sichuan Traditional Chinese Medicine\" collaborative writing group,1979. Sichuan TraditionalChinese Medicine Chronicle (Vol.1)[M]. Chengdu, Sichuan People's Publishing House:125-126.[《四川中药志》协作编写组，1979.四川中药志.第一卷[M].成都：四川人民出版：125-126]  \nSAKAMOTO I, TANAKA T, TANAKA O, et al., 1982. Xanthone glucosides of Swertia japonicaMakino and a related plant: structure of a new glucoside, isoswertianolin and structurerevision of Swertianolin and Norswertianolin.[J]. Chem Pharm Bull, 30(11): 4088-4091.  \nSHI SY, CUI HH, YIN YQ, et al., 2019. Chemical constituents from Calystegia sepium[J]. ChinTrad Herb Drugs,50(1):772-779.[石舒雅，崔红花，尹永芹，等，2019.宽叶打碗花化学成分研究[J].中草药，50(1)：36-41.]  \nSUI X,2016.A kind of pharmaceutical composition for treating phlebitis caused by fatemulsion[P].CN105412449A.[孙霞，2016.一种治疗脂肪乳致静脉炎的药物组合物[P].CN105412449A.]  \nWANG HL, CHEN H, GENG CA, et al., 2011. Chemical constituents of Halenia elliptica[J]. ChinJChin Mat Med,36(11):1454-1457.[王洪玲，陈浩，耿长安，等.2011.椭圆叶花锚的化学成分研究[J].中国中药杂志，36(11)：1454-1457.]  \nWANG XY,2020. Chemical constituents from Lobelia chinensis[J]. Chin Trad Pat Med, 42(12):3208-3210.[王晓阳，2020.半边莲化学成分的研究[J].中成药，42(12)：3208-3210.]  \nWANG Y, CHEN M, ZHANG J，et al.，2011. Flavone $C$ glycosides from the Leaves ofLophatherum gracile and their in vitro Antiviral Activity[J]. Planta Med, 78(1): 46-51.  \nWEI Y, ZHANG X, WEI L,et al., 2005. Analysis of chemical constituents of volatile oil ofPimpinella candolleana[J]. JGuizhou Univ Trad Chin Med,27(4): 56-57.[危英，张旭，危莉，等，2005.杏叶防风挥发油化学成分分析[J].贵阳中医学院学报，27(4)：56-57.]  \nWU MT,LIU SY，HUANG DL，et al.，2021.Chemical constituents from the leaves ofCinnamomum camphora var. linaloolifera and their anti-inflammatory activities[J]. Chin JChin Mat Med,46(14):3592-3598.[吴美婷，刘诗瑶，黄达龙，等，2021.芳樟叶的化学成分及其抗炎活性研究[J].中国中药杂志，46(14)：3592-3598.]  \nXIAO CR, TU LF, ZHANG RZ, et al., 2019. Study on chemical constituents of flavonoids inTurpinia arguta[J].Acta Pharm Sin, 54(9):1620-1626.[肖春荣，涂林锋，张睿增，等，2019.山香圆叶黄酮类化合物的研究[J].药学学报，54(9)：1620-1626.]  \nXING YJ, CHANG X, ZHANG Q, et al., 2011. Analysis of Volatile Compounds from Pimpinellacandolleana in Guizhou by SPME-GC-MS[J]. Chin JExp Trad Med Form,17(4): 93-95.[邢煜君，常星，张倩，等，2011.固相微萃取-气相色谱-质谱联用分析贵州产杏叶茴芹挥发性成分[J].中国实验方剂学杂志，17(4)：93-95.]  \nYANG B, YING Y, CHENG LL, et al., 2016.advance in studies on anti-inflammatory mechanismof flavonoids[J].Chin Pharm,19(7):1369-1373.[羊波，应茵，陈苓丽，等，2016.黄酮类化合物抗炎作用机制研究进展[J].中国药师，19(7)：1369-1373.]  \nYANG C， WANG LK, TIAN WY, et al.， 2021. Study on fatty acid constituents of Lianzixin(Plumula nelumbinis)[J]. Chin Arch Trad Chin Med,39(10): 35-37.[杨超，王立抗，田文月，等，2021.莲子心脂肪酸类成分研究[J].中华中医药学刊，39(10)：35-37.]  \nYUAN W, ZHANG LP, CHENG KD, et al., 2006. Microbial $O$ -demethylation,hydroxylation,sulfation, and ribosylation of a xanthone derivative from Halenia elliptica[J]. JNat Prod,69(5): 811-814.  \nYU BW, SONG XH, CHEN YF,et al, 2021. Chemical constituents from the stems and leaves ofArgyreia acuta[J/OL].JChin Med Mat, 44(4): 873-876.[余邦伟，宋雪慧，陈艳芬，等,2021.白鹤藤的化学成分研究[J/OL].中药材，44(4)：873-876.]  \nZENG DX,2007. A kind of preparation method of Huang Xuan Yi gan Pill[P]. CN1947773.[曾德祥，2007.一种黄萱益肝丸剂的制备方法[P].CN1947773.]  \nZHAO C, CHEN HG,CHENG L, et al.，2007. Analysis of volatile oil in herb of Pimpinellacandolleana by SPME-GC-MS[J]. Chin JChin Mat Med, 32(17):1759-1762.[赵超，陈华国，程力，等，2007.杏叶防风挥发油成分SPME-GC-MS分析[J].中国中药杂志，32(17): 1759-1762.]  \nZHANG T, LV S JIA HM， et al.， 2021. Glycosides from the pericarps of Zanthoxylumbungeanum[J].Chin Pharm J,56(8): 626-632.[张涛，吕双，贾红梅，等，2021.花椒果皮中糖苷类化学成分研究[J].中国药学杂志，56(8)：626-632.]  \nZHU H, CHEN L, YU JQ,et al.,2020. Flavonoid epimers from custard apple leaves, a rapidscreening and separation by HSCCC and their antioxidant and hypoglycaemic activitiesevaluation[J]. Sci Rep, 10(1): 8819-8830.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

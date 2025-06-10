@@ -1,0 +1,166 @@
+·协和 MDT·
+
+# 黄疸，糖链抗原199升高，胰胆管狭窄，胰腺肿胀
+
+赵邦博¹，王维斌¹，陆菁菁²，谭蓓³，杨爱明³，霍力4，吴迪，陈苗，赵玉沛
+
+中国医学科学院北京协和医学院北京协和医院」基本外科²放射科3消化内科“核医学科5风湿免疫科血液内科，北京100730
+
+通信作者：赵玉沛电话：010-69152600，E-mail：zhao8028@ 263.net
+
+【关键词】IgG4相关性疾病；自身免疫性胰腺炎
+
+【中图分类号】R593 【文献标志码】A 【文章编号】1674-9081（2019)02-0000-07   
+DOI:10.3969/j.issn.1674-9081.2019.02.000
+
+# 1病历简介
+
+患者男性，80岁，主诉“尿色加深1月，发现胆管壁增厚、胰体低回声1周”于2016年3月5日收入北京协和医院基本外科。
+
+# 1' 现病史
+
+患者2016年2月无明显诱因发现尿色较前加深，为茶水色，不伴皮肤黄染、瘙痒，大便为黄色软便,无发热、腹痛，于外院就诊查血常规示血红蛋白（he-moglobin，Hb） $1 1 0 \ \mathrm { g / L }$ ，白细胞（albumin，WBC）$7 . 9 \mathrm { { b } } \times 1 0 ^ { 9 } / \mathrm { { L } }$ ，血小板（platelet，PLT） $2 8 5 \times 1 0 ^ { 9 } / \mathrm { L }$ ；血生化示总胆红素（total bilirubin，TBil） $4 2 . 4 ~ \mu \mathrm { m o l / L }$ 直接胆红素（directbilirubin,
+
+DBil) $2 9 . 5 ~ \mu \mathrm { m o l / L }$ ，谷氨酰转肽酶（gamma glu-tamyl transpeptidase，GGT） $6 9 5 \ \mathrm { \ U / L }$ ，碱性磷酸酶（alkaline phosphatase，ALP） $3 1 3 \mathrm { ~ \ U / L }$ ，谷丙转氨酶（alanine aminotransferase，ALT） $1 1 3 \ \mathrm { ~ U / L }$ ，谷草转氨酶（aspartate aminotransferase，AST） $8 2 ~ \mathrm { U / L }$ ；红细胞沉降率（erythrocyte sedimentation rate，ESR） $3 7 \mathrm { \ m m / h }$ 肿瘤标志物示糖链抗原 $1 9 9 \ 1 2 1 . 1 0 \ \mathrm { U / m l }$ ，甲胎蛋白、癌胚抗原、糖链抗原724（-)；肝、胆、胰、脾及泌尿系统多普勒超声检查示肝回声不均匀，肝右叶可见约 $7 \ \mathrm { m m } { \times } 6 \ \mathrm { m m }$ 高回声，胆囊壁毛糙、增厚，呈“双边征”，胆囊强回声大小约 $7 ~ \mathrm { m m }$ ，肝内外胆管无扩张，胰腺形态欠规则，内部回声不均匀，主胰管无扩张，胰体见 $4 2 ~ \mathrm { m m } { \times } 2 7 ~ \mathrm { m m }$ 低回声，边界不清晰，形态欠规则，考虑肝血管瘤、胆囊炎、胆囊结石、胰体低回声；进一步行胰腺增强磁共振成像（magnetic reso-nance imaging，MRI） $^ +$ 磁共振胰胆管造影（magneticresonance cholangiopancreatography，MRCP）提示 胰腺略肿胀，胰周T1低信号、脂肪欠清，炎症可能，胆囊壁均匀增厚，胆总管（十二指肠上段及后段）管壁弥漫性环形增厚伴强化，肝内胆管扩张，肝动脉左前方见肿大淋巴结影，考虑胆总管管壁弥漫性增厚伴强化、胆管癌可能、胆囊炎；行上腹部增强CT扫描提示胆总管管壁增厚伴腹部淋巴结增大，不除外恶性，胰头形态不规则，胰腺体尾部肿胀。肝右叶血管瘤或异常灌注，肝小囊肿。予注射用头孢哌酮钠舒巴坦钠治疗无明显好转，拟予患者行胰十二指肠切除术，患者及家属拒绝。3月初开始出现皮肤巩膜黄染，伴皮肤瘙痒，尿色为浓茶水色，便色无明显改变，1次/d。患者于我院门诊复查血生化提示 TBil $1 5 5 . 2 ~ \mu \mathrm { m o l / L }$ ，DBil $1 2 1 . 7 ~ \mu \mathrm { m o l / L }$ ，GGT 545 U/L，ALP $4 0 3 \ \mathrm { \ U / L }$ ，ALT $7 8 ~ \mathrm { U / L }$ ， $\mathrm { A S T } ~ 8 6 ~ \mathrm { U / L }$ ，超敏C-反应蛋白（hyper-sensitive C-reactive protein，hsCRP） $9 . 2 4 ~ \mathrm { m g / L }$ ，糖链抗原 $1 9 9 \ 9 8 . 2 \ \mathrm { U / m l }$ 。起病以来，患者精神可，能够正常进食，尿色黄，大便色浅，体重无明显下降。
+
+# 1. 2 既往史
+
+高血压病、右脑内囊出血史（无后遗症）、慢性胆囊炎、腰椎管狭窄病、过敏性鼻炎病史。发现糖尿病半个月，空腹血糖最高（fastingblood glucose,FBG） $5 . 5 \ \mathrm { m m o l / L }$ ，餐后2小时血糖（2hPBG）13.8mmol/L，糖化血红蛋白 $6 . 8 0 \%$ 。对磺胺类药物过敏。
+
+# 1.3个人史及家族史
+
+既往职业为骨科医生，曾频繁接触放射线；吸烟史50余年，现2支/d；饮酒史40余年，已戒酒17年；母亲因直肠癌去世。
+
+# 1.4 入院查体
+
+生命体征平稳，全身皮肤、巩膜黄染，左颌下可触及1枚直径约 $1 ~ \mathrm { c m }$ 淋巴结，质软、活动度好、无压痛。心肺查体无特殊。腹部平软，无压痛、反跳痛及肌紧张，肝脾肋下未触及，肝区无压痛、叩击痛。墨菲氏征（-）。腹部叩鼓音，移动性浊音（-）。肠鸣音正常，3次/分。
+
+# 1.5实验室常规检查
+
+血常规、尿常规、粪常规 $^ +$ 潜血正常，其中嗜酸性粒细胞比例 $1 . 5 \%$ 、绝对数 $0 . 1 1 \times 1 0 ^ { 9 } / \mathrm { L }$ ，ESR$8 4 \mathrm { m m }$ ，hsCRP $7 . 8 2 ~ \mathrm { \ m g / L }$ ，复查肝功能示ALP284 U/L，GGT 299 U/L， TBil $1 5 5 . 2 ~ \mu \mathrm { m o l / L }$ ，DBil121.7 $\mu \mathrm { m o l / L }$ ，血清淀粉酶及脂肪酶正常，糖链抗原$1 9 9 . 9 8 . 2 \mathrm { U } / \mathrm { m l }$ ，血清 $\mathrm { I g G }$ 亚类测定提示 $\mathrm { I g G 4 } 3 2 . 5 \mathrm { \ g / L } _ { \odot }$
+
+# 影像学检查
+
+腹部盆腔增强 $\mathrm { C T ^ { + } }$ 胰腺三维重建示胆总管管壁近全程环形增厚，下端管腔狭窄，增强扫描明显强化，狭窄处以上肝内外胆管明显扩张，胰腺呈弥漫性肿周围脂肪密度影增高，胰腺实质呈肝静脉延迟强化，周围可见低密度囊状边缘，胰管未见明显扩张，脾静脉与胰腺关系密切，走形僵直，中段管腔重度狭窄(图1)。
+
+# 2第一次多学科讨论
+
+# h
+
+# 2.1放射科
+
+患者入院后复查MRCP提示肝内胆管近段多发节段狭窄扩张，左右肝管分叉处、肝总管、胆总管近全长可见管壁明显环周增厚，呈短T1中等T2信号，弥散加权成像呈明显高信号，胰内段管腔狭窄，壶腹段管腔基本完好，病灶呈跳跃式，近端胆管受累为著，胰腺弥漫性肿胀，小叶间隔消失，胰周见T1低信号、T2中低信号包鞘，胰尾周围包鞘呈长T2水肿信号，胰腺实质T1信号不均匀减低，信号减低区域对应弥散加权成像信号增高，表观弥散系数减低（图2）。结合患者腹部CT，从影像学上，考虑胰腺及胆道系统形态及信号异常，符合免疫相关疾病。
+
+# 2.2核医学科
+
+正电子发射断层显像/计算机体层成像（positronemission tomography/computed tomography，PET/CT）
+
+![](images/a7dfd587e372f816150760f2b6649771c8a25dfa883105db58b75a82e428329f.jpg)  
+图1腹部盆腔增强CT及胰腺薄层扫描，见胰腺呈弥漫性肿大（A，箭头），周围脂肪密度影增高，脾静脉中段管腔重度狭窄，胆总管管壁全程环形增厚，下端管腔狭窄（B，箭头），狭窄处以上肝内外胆管明显扩张
+
+![](images/1572d93929853cdaf67775ee3f4870d2fec8806f652137fdf3a79baf755d54cd.jpg)  
+图2磁共振胰胆管造影A.横断面（胰腺弥漫性肿胀)；B.冠状面（胰管多发节段管腔轻微狭窄，呈“胰管穿通征”，箭头)
+
+提示肝内胆管明显扩张，放射性分布不均匀，左右肝管及胆总管放射性摄取明显增高，最大标准摄取值(maximum standard uptakevalue，SUVmax） $6 . 1 \sim 6 . 4$ 。胆总管增粗，放射性摄取增高，范围约 $1 . 5 ~ \mathrm { c m } \times$
+
+$1 . 8 ~ \mathrm { c m } { \times } 2 . 3 ~ \mathrm { c m }$ ， $\mathrm { S U V m a x } ~ 6 . 1$ 。胰腺体积略增大，放射性摄取弥漫性增高，SUVmax5.3，肝门区、腹主动脉旁可见数个小结节，约 $0 . 2 { \sim } 0 . 4 ~ \mathrm { c m }$ ，放射性摄取略增高， $\mathrm { S U V m a x } ~ 1 . 2 \sim 1 . 9 \$ 。考虑胰腺弥漫性肿胀伴代谢增高，胆总管、左右肝管代谢异常增高，肝门及胰周代谢增高淋巴结，自身免疫性炎性疾病可能，恶性疾病不除外。
+
+# 2.3 消化内科
+
+患者入院后进一步完善超声内镜检查（endoscopicultrasonography，EUS）提示胰腺体、尾边界欠光整，似可见包鞘样改变，实质回声减低，内部回声不均，胰管未见扩张，胰头饱满，实质回声减低，内部回声不均，可见片状强回声，未见明确占位，所见胆总管壁对称性明显增厚， $5 . 9 \ \mathrm { m m }$ ，呈“三明治征”，胆管内可见絮状物，胰周见大小 $1 . 0 \ \mathrm { c m }$ 肿大淋巴结，考虑符合自身免疫性胰腺炎（autoimmune pancreatitis,AIP、自身免疫性硬化性胆管炎改变。2011年 $\mathrm { I g } \mathrm { G } 4$ 相关性疾病（ $\mathrm { I g } \mathrm { G } 4$ -related disease，IgG4-RD）综合诊断标准为：（1）一个或多个器官存在典型的弥漫性/局限性肿大或团块；（2）血清 $\mathrm { I g } \mathrm { G } 4$ 水平增高（ $\geqslant$ $1 3 5 0 \mathrm { m g / L }$ )；（3）组织病理学特征： $\textcircled{1}$ 弥漫性淋巴浆细胞浸润及纤维化， $\textcircled { 2 } \mathrm { I g } \mathrm { G } 4$ 阳性浆细胞浸润。确诊：上述条件 $( 1 ) + ( 2 ) + ( 3 )$ ；可能性大：上述条件$( \widehat { \mathbb { F } } _ { \sharp } ^ { \mathrm { l l } } +$ （3）；可能：上述条件（2） $^ +$ （3)。且均需排除恶性肿瘤、结缔组织病及其他临床表现与 $\mathrm { I g ( \it {4 } \mathrm { - R D } }$ 相似的疾病[1]。该患者因 EUS下表现典型，符合$\mathrm { I g } \textcircled { 6 4 - R D }$ 表现，故未进一步型细针穿刺活检。结合影像学及血清学检查，考虑 $\mathrm { I g } \mathrm { G } 4$ 相关自身免疫性疾病可能，需完善行甲状腺、涎腺等外周腺体超声明确病变累及范围。2015年国际首个 $\mathrm { I g ( \it {4 } \mathrm { - R D } }$ 诊治和管理共识指南声明，在无禁忌的请况下，对于所有活动性、未治疗IgG4-RD患者，糖皮质激素是诱导缓解的一线药物[2]。建议完善结核感染T细胞斑点试验、巨细胞病毒DNA、EB 病毒DNA、胸部CT以除外感染，之后可考虑使用激素治疗。
+
+# 2.4 风湿免疫科
+
+患者以黄疸起病，影像学提示胰胆管多发节段性狭窄伴扩张、胰腺弥漫性肿胀，另有腮腺可疑受累证据，血清学提示 $\mathrm { I g } \mathrm { G } 4$ 明显升高，目前考虑 $\mathrm { I g ( \it {4 } \mathrm { - R D } }$ 中的 $\mathrm { A I P + I g G 4 }$ 相关性硬化性胆管炎（ $\mathrm { I g } \mathrm { G } 4$ -related scle-rosingcholangitis，IgG4-SC），需与其他免疫相关疾病鉴别：（1）AIP方面，2011年提出的诊断标准国际共识要求从胰腺实质影像、胰管影像、血清学指标、其他器官受累及组织学共5个方面做出AIP诊断[3]]
+
+AIP分为1、2两型，区别主要在于1型中更常见血清$\mathrm { I g } \mathrm { G } 4$ 升高及其他器官受累，而二者的确定诊断均需依靠组织学，即1型为淋巴浆细胞性硬化性胰腺炎、2型为特发性导管中心性胰腺炎；1型AIP属IgG4-RD范畴，而2型AIP 则不属于，其多合并炎性肠病[4]。（2）胆管病变方面，国际共识将硬化性胆管炎分为原发性硬化性胆管炎（primarysclerosingcholangitis,PSC）、IgG4-SC、继发性硬化性胆管炎（secondarysclerosingcholangitis，SSC）三类，并依据病变累及的范围将 $\mathrm { I g } \mathrm { G } 4 { \cdot } \mathrm { S C }$ 分为4型[5]。SSC 常有细菌性胆道炎症、胆道畸形、酒精、缺血等促发因素，1型IgG4-SC主要累及低位胆管、需与胰头癌、胆管下端癌、慢性胰腺炎鉴别，2型 $\mathrm { I g } \mathrm { G } 4 { \cdot } \mathrm { S C }$ 需与PSC 相鉴别，3、4型$\mathrm { I g } \mathrm { G } 4 { \cdot } \mathrm { S } \mathrm { C }$ 主要累及高位胆管，需与高位胆管癌、胆囊癌鉴别。PSC 无血清 $\mathrm { I g } \mathrm { G } 4$ 升高，且内镜下逆行胰胆管造影术/MRCP常可见肝内胆管带状、串珠状、树枝状狭窄及憩室样隆起，而 $\mathrm { I g } \mathrm { G } 4 { \cdot } \mathrm { S C }$ 则常表现为（长）节段性狭窄或胆总管下段狭窄（图3)。该患者在胰腺实质影像、胰管影像、血清学指标、其他器官受累4个方面符合1型AIP诊断，血清学及影像学方面符合$\mathrm { I g } \mathrm { G } 4 { \cdot } \mathrm { S } \mathrm { C }$ 诊断，故目前考虑 $\mathrm { I g ( \it {4 } \mathrm { - R D } }$ 可能，不能完全明确。因胰腺、胆管获取病理组织难度及风险大，可评估患者有无外周淋巴结及涎腺受累，若有则可行外周淋巴结或涎腺穿刺以获得组织学证据，以明确IgG4-RD 诊断。
+
+# 2.5 基本外科
+
+患者老年男性，病程1个月，梗阻性黄疸诊断明确，且近期发现血糖升高，伴糖链抗原199升高，需高度警惕胰腺癌、肝外胆管癌可能。患者目前已完善相关影像学检查加以鉴别，梗阻性黄疸常导致糖链抗原199假阳性[6]。作为肿瘤标志物，糖链抗原199 对于胰腺癌、胆管癌等消化系统肿瘤具有协助诊断、评估可切除性、判断预后、监测复发转移等能力。1997
+
+![](images/dff0c1c3f74c7f51e96d56ad8c4ef8ea3482c4ce129cf10eef60bb98ba424e58.jpg)  
+图3原发性硬化性胆管炎
+
+A.与 $\mathrm { I g } \mathrm { G } 4$ 相关性硬化性胆管炎；B.中胆管狭窄特点示意图[5]
+
+年德国学者通过在体外培养人胆囊上皮细胞发现其分泌的胆道黏蛋白携带糖链抗原199片段且黏蛋白促分泌素可增加糖链抗原199水平[7]，回顾性研究表明在良性疾病中，糖链抗原199水平大致与血清胆红素水平呈正相关，在黄疸解除后绝大多后患者糖链抗原199 水平将恢复正常，而恶性肿瘤中则不存在上述相关关系[8]。综上，患者下一步可转入消化内科完善相关检查，除外感染后考虑使用激素治疗，监测TBil、$\mathrm { I g } \mathrm { G } 4$ 及糖链抗原199水平，若激素治疗无效可考虑行手术探查。
+
+# 3第一次讨论后处理
+
+患者转入消化内科，完善相关检查，甲状腺多普勒超声示甲状腺右叶多发小囊肿、甲状腺左叶实性结节（良性可能性大)；涎腺多普勒超声示双侧颌下腺回声欠均、不除外炎性改变，故考虑涎腺受累可能。查肝炎病毒、结核感染T细胞斑点试验、巨细胞病毒DNA、EB病毒DNA、胸部CT无明确感染表现及证据，故予泼尼松 $4 0 ~ \mathrm { { m g / d } }$ 口服，两周后复查TBil246.4$\frac { \sqrt { 7 4 } . 5 ~ \mu \mathrm { m o l / L } } { \frac { \hslash } { \mathrm { m e l } } }$ 、 $\mathrm { I g G 4 3 2 5 0 0 { \ - } } \mathrm { - } 1 9 7 0 0 \mathrm { m g / L }$ 、ESR $8 3 \longrightarrow$ $3 3 ^ { \mathrm { { ‰} } }$ 、hsCRP $9 . 7 { \longrightarrow } 1 . 0 6 \ \mathrm { \ m g / L } _ { \odot }$ 。后患者出现血糖升高（2hPBG最高 $1 5 . 5 \mathrm { \ m m o l / L }$ ），同时WBC、中性粒细胞较前呈进行性上升（ $\mathrm { W B C } \ 2 0 . 0 3 { \times } 1 0 ^ { 9 } / \mathrm { L }$ ，中性粒细胞 $1 5 . 5 6 \times 1 0 ^ { 9 } / \mathrm { L }$ )，无发热、咳嗽、咳痰，尿频、尿痛，腹痛、腹泻等感染征象，胸片较加用激素前无明显变化，完善血涂片未见异常。为进一步评价糖皮质激素治疗反应、探讨白细胞升高及血糖控制不佳原因，故组织了第二次多学科讨论。
+
+# 4第二次多学科讨论
+
+# 4.1 消化内科
+
+患者转入消化内科病房后应用糖皮质激素治疗，Tbil、IgG4、ESR、hsCRP均呈下降趋势，建议维持目前治疗。在此次病程初期患者发现血糖升高，且在激素治疗过程中出现2hPBG峰值较前升高，FBG波动在$5 . 5 { \sim } 6 \ \mathrm { m m o l / L }$ 、2hPBG波动在 $9 \mathrm { \sim } 1 5 . 5 \ \mathrm { m m o l / L }$ ，由于AIP常导致胰腺间质纤维化、大量浆细胞浸润进而破坏正常胰岛组织[4]，且糖皮质激素的应用亦可影响糖代谢导致血糖升高。故本例中血糖升高原因除考虑2型糖尿病外，更需考虑AIP相关胰腺内分泌功能异常以及糖皮质激素相关血糖升高，可继续密切监测血糖变化，若随着病情好转及糖皮质激素减量血糖水平较前好转则后者可能性大。若如此亦需警惕胰腺外分泌功能异常，如出现脂肪泻等情况可酌情外源性补充胰酶。
+
+# 4.2 风湿免疫科
+
+该患者糖皮质激素反应良好，可应用 $\mathrm { I g } \mathrm { G 4 - R D }$ 反应指数进行评估[9]。治疗方面，糖皮质激素作为诱导缓解的一线药物，该患者在维持初始剂量（ $4 0 \ \mathrm { m g / d ) }$ （204号2\~4周后可逐渐减量，减量方案为（1）每1\~2周减量$5 \sim 1 0 ~ \mathrm { m g }$ 至 $2 0 ~ \mathrm { m g / d }$ ，之后每2周减量 $5 ~ \mathrm { m g }$ ；（2）每周减量 $5 ~ \mathrm { m g }$ ，无论应用何种减药方案，诱导缓解的总疗程不应短于12周[2]。关于是否需在初始治疗即加用免疫抑制剂问题，国际共识中专家存在的分歧较大， $8 0 \%$ 的日本专家不建议在初始治疗时即加用免疫抑制剂，但亦有专家建议 $\mathrm { I g ( \it {4 } \mathrm { - R D } }$ 出现胰腺、胆道同时受累，可考虑初始治疗即加用免疫抑制剂（硫唑嘌呤 $5 0 \sim 1 0 0 ~ \mathrm { m g }$ 或麦考酚酯 $0 . 7 5 \sim 1 . 5 \mathrm { g }$ /次/d)[2]。该患者高龄，术前存在梗阻性黄疸，胆道等全身感染风险高，可考虑暂不加用免疫抑制剂。
+
+# 4.3 血液内科
+
+患者应用激素后出现WBC升高，中性粒细胞为主，单核细胞 $< 1 \times 1 0 ^ { 9 } / \mathrm { L }$ ，完善血涂片检查未提示明显异常。应用糖皮质激素后，WBC升高常见，以中性粒升高为主，机制为糖皮质激素影响白细胞与血管壁间的黏附，导致边缘池释放至循环池，边缘池以中性粒细胞为主，数量约为循环池之中性粒细胞数量，本患者符合上述数量关系。激素应用后感染风险升高，WBC亦可上升，但目前ESR、hsCRP等感染指标仍呈下降趋势、无明确感染证据，建议再次行血涂片检查，密切监测感染迹象，暂无需调整激素治疗。
+
+# 5最终诊断
+
+IgG4-RD（1型AIP，IgG4-SC、腮腺受累可能）。
+
+# 6 随访
+
+患者定期服用泼尼松并逐渐减量， $\mathrm { I g } \mathrm { G } 4$ 、TBil、ESR、hsCRP水平均较前下降，但 $\mathrm { I g } \mathrm { G } 4$ 水平于泼尼松减量至 $2 5 \mathrm { \ m g / d }$ 时出现反弹（距初始治疗11周），而其他指标无明显上升趋势（图4）。患者于2017年1月减停糖皮质激素，1年后随访IgG4波动在$2 0 0 0 0 ~ \mathrm { { m g / L } }$ ，未再出现腹痛、黄疸等症状，TBil、ESR、hsCRP水平无明显上升，血糖大致同前。2016年5月及2016年10月复查MRCP提示肝内外胆管病变明显减轻，肝内胆管无扩张，管壁未见明显增厚，胆总管胰内段残留部分狭窄，胰腺较前明显萎缩变细，胰腺实质信号改变，炎症缓解可能大（图5，6）。
+
+# 7讨论
+
+本例患者以肝内外胆管及胰腺病变致梗阻性黄疸为主要表现，经腹部CT、MRCP、PET/CT、EUS等多项检查，使用经验性激素治疗后既解决了胆道梗阻的问题，同时胰腺弥漫性肿大也有明显好转。整个临床诊治过程主要围绕IgG4-RD的诊断、与胰腺癌、胆管癌的鉴别诊断、糖皮质激素及免疫抑制剂的应用、治疗过程中副反应的处理及随访而进行。
+
+IgG4-RD是近年逐渐被认识的累及全身多个脏器的慢性炎性伴纤维化风湿免疫性疾病，主要表现为受累器官弥漫/局灶性肿大硬化伴血清 $\mathrm { I g } \mathrm { G } 4$ 升高，病理特点为受累组织中可见 $\mathrm { I g } \mathrm { G } 4$ 阳性浆细胞浸润[10]。诊断主要依据 2011年IgG4-RD 综合诊断标准[1]，治疗方面强调个体化，症状轻、浅表器官受累且无明显进展者可密切观察，对于需要药物治疗的 $\scriptstyle \log \mathrm { G 4 - R D }$ 患者，其一线药物为糖皮质激素，传统免疫抑制剂主要用于辅助激素减量、维持疾病稳定或用于复发难治性患者，极少数病情严重及难治性患者可使用利妥昔单抗治疗，除糖皮质激素应用外目前均无充分循证医学证据，而长期高度纤维化的病灶可选择手术切除。IgG4-RD反应指数及血清 $\mathrm { I g } \mathrm { G } 4$ 、ESR、hsCRP水平可用于评价治疗反应和随访的指标。
+
+胰腺及胆道为 $\mathrm { I g ( \it {4 } \mathrm { - R D } }$ 常见受累部位，北京协和医院对于346例 $\mathrm { I g } \mathrm { G 4 - R D }$ 患者的临床特征进行分析，结果显示所有患者中胰腺受累率为 $3 8 . 4 \%$ （男$4 1 . 7 \%$ 、女 $3 1 . 9 \%$ )、胆道受累率为 $2 5 . 4 \%$ （男$2 7 . 8 \%$ 、女 $2 0 . 7 \%$ )，该比例与国外报道均存在统计学差异[1]。 $\mathrm { I g ( \it {4 } \mathrm { - R D } }$ 的胰腺受累主要表现为1型AIP,我院报道了中国最大的单中心AIP研究，总结194例1型AIP中 $4 2 . 3 \%$ 的患者合并其他器官受累表现，其中最常见的胰外受累即为 $\mathrm { I g } \mathrm { G } 4 { \cdot } \mathrm { S C }$ ( $4 7 . 6 \%$ )[12]，本例中 $\mathrm { I g } \mathrm { G 4 - R D }$ 累及器官即为胰腺、胆道，腮腺受累可能。我院也进行过关于36例 $\mathrm { I g } \mathrm { G } 4 { \cdot } \mathrm { S C }$ 的回顾性研究,发现胆管病理的阳性率并不理想，而EUS下发现非狭窄段胆管壁均匀增厚有较高的诊断价值[13]
+
+![](images/bd66113e29900157d87ba94890604615fb420568484ed8d5e7e32930c0345496.jpg)  
+图4糖皮质激素(泼尼松）治疗反应趋势图(灰色实现及虚线代表正常值)A.IgG4及TBil对于糖皮质激素（泼尼松）治疗的反应；B.ESR及hsCRP对于糖皮质激素治疗的反应TBil：总胆红素；ESR：红细胞沉降率；hsCRP：超敏C-反应蛋白
+
+![](images/cc04c271cf3ac8620f5a824cf62e3d9ab6dfb9d31376dcfc6cdd4eba781147c8.jpg)  
+图5患者于初始治疗后9周MRCP检查A.胰腺肿胀程度减轻；B.胰胆管狭窄程度减轻
+
+![](images/dc4e55a67128d03c108908d165e92c33c4d1a4bbb1dd9bc9aed91b3f7f2b360f.jpg)  
+图6患者于初始治疗后28周MRCP检查A.胰腺形态基本恢复正常；B.胰胆管内径基本恢复正常
+
+另外，从外科方面着眼，拟诊胰头或胆管下段恶性肿瘤考虑行胰十二指肠切除术时，尽量做好完备的辅助检查，必要时需经EUS或ERCP完善组织活检，可最大程度明确诊断而避免不必要的手术创伤。一项病例总数为2439的荟萃分析显示，行胰十二指肠切除术的病例中病理结果为良性为225例 $( 9 \% )$ ,而良性病理结果中 $3 0 \sim 4 3 \%$ 为 $\mathrm { A I P ^ { [ 1 4 ] } }$ 。另有一项纳入274 例行胰十二指肠切除术患者的回顾性研究显示，23例术后病理为良性,其中包括AIP6例（占良性病例总数的 $2 6 . 1 \%$ ）、$\mathrm { I g } \mathrm { G } 4 { \cdot } \mathrm { S } \mathrm { C } \ 1$ 例（占良性病例总数的 $4 . 3 \%$ )[15]。不同于慢性胰腺炎、硬化性胆管炎等疾病， $\mathrm { I g } \mathrm { G } 4$ -RD如能早期及时诊断，可经过糖皮质激素治疗得到很大程度的缓解，因此 $\mathrm { I g G 4 - R D }$ 与胰腺癌及胆管下段癌的鉴别十分必要，鉴别流程见图7。
+
+通过本例患者的多学科协作（multidisciplinaryteam,MDT)，从各专科多方面提出适于患者的诊疗方案,既明确诊断,也解决了主要临床问题,凸显MDT模式在疑难病诊治过程中的重要作用。
+
+# 专家点评
+
+# 9北京协和医院基本外科赵玉沛院士
+
+2IgG4-RD临床中较少见，其特殊之处在于该病起病隐匿,且常累及多系统、多器官,误诊率高。AIP、 $\mathrm { I g G 4 - }$
+
+SC与胰腺癌、胆管癌有着相似的临床和影像学表现，但术前全面而精准检查，适时地进行MDT讨论，加强对IgG4-RD的认识和了解，对于明确诊断、精准治疗意义重大。该患者虽有肿瘤标志物糖链抗原199升高、PET/CT提示病变高代谢，存在恶性病变可能，但其血清 $\mathrm { I g } \mathrm { G } 4$ 水平显著升高、MRI及EUS提示符合IgG4-RD影像学改变且诊断性糖皮质激素治疗有效，最终将我们导向了 $\mathrm { I g ( \it {4 } \mathrm { - R D } }$ 的正确诊断。作为21世纪后才被命名的风湿免疫性疾病，相信IgG4-RD会伴随着基础免疫学进展而得到更加深人的研究[17],相信随着多学科、多角度、多维度研究的深入，我们对于 $\mathrm { I g ( \it {4 } \mathrm { - R D } }$ 在发生机制、诊断流程、治疗方法及病情监测等方面的认识会有更大的进展。
+
+肝胆胰外科医师应进一步强化对于累及肝胆胰系统的少见甚至罕见疾病认识，与放射科、核医学科、消化内科、内分泌科、免疫内科等多学科的协作，在疾病诊断、治疗及随访工作中发挥着巨大作用。肝胆胰外科MDT由欧美发起，如今在国内也进入了快速发展模式，包括我院在内的目前国内多数胰腺中心设有配套的MDT团队，其通过提高良恶性病变鉴别率，最大程度降低漏诊率和误诊率。但在大力发展MDT的同时，我们需对纳入病例进行合理筛选，避免不必要的医疗资源浪费。此外，如何在我国将MDT常态化、全面提高肝胆胰疾病诊治水平仍充满挑战。
+
+![](images/6280e8727b4d28df1ed19183de3554a91d5c4739defed420824d1acf430ad0ec.jpg)  
+图7IgG4-RD( $\mathrm { A I P / I g G 4 { \mathrm { - } } S C }$ )与胰腺癌/胆管下段癌鉴别流程图[16]IgG4-RD: $\mathrm { I g } \mathrm { G } 4$ 相关性疾病;AIP：自身免疫性胰腺炎； $\mathrm { I g } \mathrm { G } 4 { \cdot } \mathrm { S C }$ ： $\mathrm { I g } \mathrm { G } 4$ 相关性硬化性胆管炎;OOI：其他器官受累
+
+# 参考文献
+
+[1]Umehare H,Okazaki K,Masaki Y，et al. Comprehensive diagnostic criteria for IgG4-related disease（IgG4-RD）[J].Mod Rheumatol,2012，22：21-30.   
+[2]Khosroshahi A，Wallace ZS,Crowe JL，et al.International consensus guidance statement on the management and treatment of IgG4-related disease[J].Arthritis Rheumatol,2O15，67： 1688-1699.   
+[3]Kazuichi O,Suresh TC,Luca F,et al.International consensus for the treatment of autoimmune pancreatitis［J].Pancreatology, 2017,17:1-6.   
+[4］Shounak M，Naoki T，Suresh TC.Autoimmune Pancreatitis [J].Dig Dis Sci,2017,62:1762-1769.   
+[5] Ohara H,Okazaki K，Tsubouchi H,et al.Clinical diagnostic ary Pancreat Sci，2012，19：536-542. Liu W,Liu Q,Wang W,et al.Differential diagnostic roles of the serum CA19-9，total bilirubin（TBIL）and the ratio of VonRC,Eder MI,StieberP,etal.Biliary mucin secreted by cultured human gallbladder epithelial cells carries the epitope of CA19-9［J].Anticancer Res，1997，17：2931-2934. DVMann,REdwards，S Ho，et al.Elevated tumour marker CA19-9：clinical interpretation and influence of obstructive jaundice［J].EurJSurg Oncology，2000,26：474-479.   
+[9]Carruthers MN，Stone JH，Deshpande V，et al.Development of an IgG4-RD Responder Index[J].Int JRheumatol,2012, 2012:259408.   
+[10]Kamisawa T,Zen Y,Pillai S,et al.IgG4-related disease [J]. Lancet，2015,385：1460-1471.   
+[11］张盼盼,赵继志，王木，等. $\mathrm { I g } \mathrm { G } 4$ 相关性疾病346 例临床特 征分析[J].中华内科杂志,2017,56：644-649.   
+[12］赖亚敏,吴东,杨红,等.1型自身免疫性胰腺炎的流行病学 及临床特点[J].基础医学与临床,2017,37：1607-1610.   
+[13］冯云路,杨爱明,姚方，等.36例 $\mathrm { I g } \mathrm { G } 4$ 相关硬化性胆管炎临 床特点[J].协和医学杂志,2015,2：102-105.   
+[14］HJAsbun，K Conlon，L Fernandezcruz，et al．When to perform a pancreatoduodenectomy in the absence of positive histology?A consensus statement by the International Study Groupof Pancreatic Surgery[J]．Surgery，2O14，155： 887-892.   
+[15］van Heerde MJ，Biermann K，Zondervan PE，et al.Prevalence of autoimmune pancreatitis and other benign disorders in pancreatoduodenectomy for presumed malignancy of the pancreatic head[J].Dig Dis Sci,2012，57:2458-2465.   
+[16]Chari ST,Takahashi N，Levy MJ,et al.A diagnostic strategy to distinguish autoimmune pancreatitis from pancreatic cancer [J].Clin Gastroenterol Hepatol,2009，7:1097-1103.   
+[17］张奉春.风湿免疫性疾病：我们需要了解什么［J].协和医 学杂志,2017,8:204-206.
+
+（收稿日期：2019-00-00)

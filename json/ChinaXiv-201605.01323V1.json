@@ -1,0 +1,311 @@
+[
+    {
+        "type": "text",
+        "text": "The Use of Index-Matched Beads in Optical Particle Counters ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhishang Hu ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Center for Computational and Systems Biology,   \nInstitute of Biophysics,   \nChinese Academy of Sciences,   \nBeijing, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dean C. Ripple ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "National Institute of Standards and Technology, Gaithersburg,MD20899 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "dean.ripple @ nist.gov ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inthis paper,wedemonstrate theuseof2-pyridinemethanol(2P)aqueoussolutionsasarefractive indexmatchingliquid.Thehigh refractive indexandlowviscosityof2P-watermixtures enablesrefractiveindex matchingofbeadsthatcannotbeindex matchedwith glycerol-wateror sucrose-water solutions,such as silicabeads that have the refractive indexof bulk fused silica orof polymethylmethacrylatebeads.Suspensionsofbeads inanearlyindex-matchingliquidareausefultooltounderstandtheresponseof particlecountinginstruments toparticlesoflowoticalcontrast,schasaggregated proteinparticles.Datafromflowimagingand light obscuration instruments are presented for bead diameters ranging from $6 \\mu \\mathrm { m }$ to $6 9 \\mu \\mathrm { m }$ ,in a matrix liquid spanning the point of matched refractive index. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: bead; flow imaging; flow microscopy; light obscuration; particles; refractive index. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted:November 26,2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published: January 8,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Proper assessment of the concentration of particles in protein drugs within specified diameter limits [1,2] requires that particle counters accurately measure both particle count and diameter. However, proteinaceous particles that form by self-association of protein molecules (termed “protein particles\" in this paper)are known to give particle concentrations that difer by a factor of ten or more on diferent types of particle counting instruments [3-5]. Protein particles have an irregular morphology, possbly fibrous or elongated structure,and low optical contrast (equivalent to a small difference in refractive index between the particle and the matrix fluid)[6,7]. Of these atributes,the low refractive index is known to cause a reduction in the reported diameter in optical counting instruments. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The two optical particle-counting methods most commonly used to measure particle concentrations in the size range from $2 \\mu \\mathrm { m }$ to $2 0 0 \\mu \\mathrm { m }$ are flow imaging and light obscuration. Flow imaging (FI) systems measure the projected area of particles passing through a flow cell Light obscuration (LO) instruments measure the atenuation of a light beam caused by the combined light scattering and absorption of a particle. Both aggregated protein and the polystyrene latex (PSL)beads commonly used for instrument calibration are highly transparent, so the light attenuation is predominantly due to light scattering. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consequently,the LO instrument reports the diameter of a PSL bead that scatters the same amount of light as the actual particle. Theoretical calculations [8] and experimental results [9] indicate that the low refractive index of protein particles causes a lack of sensitivity for allof the optically based methods. Condensed,amorphous protein has a refractive index of $\\approx 1 . 4 0$ [10]. Aqueous solutions have a refractive index of 1.33 for nearly pure water and rising with increasing solute concentration (e.g.,both protein monomer and excipients). From the difference of these values,a highly compact protein particle would have $\\Delta n \\approx 0 . 0 7$ as a maximum value; increased solute concentration or a high level of particle hydration or porosity would drive $\\Delta n$ to lower values.In contrast, PSL beads in a water matrix have $\\Delta n \\approx 0 . 2 5$ ： Calculations of the response of light obscuration counters reveal that as $\\Delta n$ increases above $\\approx 0 . 1 5$ ,the scattering strength approaches a plateau and is insensitive to further increases in $\\Delta n$ [8]. For $\\Delta n < < 0 . 1 5$ the scattering intensity is proportional to $\\Delta n ^ { 2 }$ .As a result, calibration of LO counters with PSL beads is primarily a problem for particles with $\\Delta n < 0 . 1 5$ ,as is the case with protein particles. Consequently, particles with small $\\Delta n$ are reported as being undersized when measured in an instrument calibrated with PSL beads. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table1 presents the refractive indices (at a wavelength of $5 8 9 \\mathrm { n m }$ )ofPSL beadsand several other types of beads.The response of particle counting instruments to particles of low optical contrast can be evaluated by measuring suspensions of beads in a liquid of varying $\\Delta n$ .Silica beads fabricated by the Stober-Fink-Bohn (STB)process [11] have typical refractive indices in the range 1.42 to 1.43, which is readily matched by glycerol-water or sucrose-water solutions.Limitations of STB silica beads are that the refractive index of the beads varies with details of the processing and that STB silica beads are not available at diameters of $\\approx 1 0 \\mu \\mathrm { m }$ and larger.Poly(methylmethacrylate) (PMMA) and fused silica beads are available at larger sizes and have refractive indices close to the bulk-material values,but cannot be matched with common aqueous mixtures. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/86d96936b12ac6b58f6e2df2493c502ba2559c58ab9cd34fc831be1ffc2eb7ba.jpg",
+        "table_caption": [
+            "Table1.Refractive indices of materials commonly available as beads,at $5 8 9 \\mathrm { n m }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Bead type</td><td>Refractive index</td></tr><tr><td>PSL [12]</td><td>1.5915</td></tr><tr><td>PMMA [12]</td><td>1.4905</td></tr><tr><td>Silica, STB [11]</td><td>1.38 to 1.45 max.range 1.42 to 1.43 typical</td></tr><tr><td>Silica, fused [13]</td><td>1.4584</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ideal index-matching liquid should have a refractive index up to 1.49,be water soluble to promote ready instrument cleaning,and have a sufficiently low viscosity to alow ready clearing of air bubbles on sample mixing. Aqueous mixtures of sucrose, ethylene glycol, or glycerol have all been used as refractive index matching liquids [14], but these solutions are limited to a refractive index of approximately 1.44 for viscosities less than $6 0 \\mathrm { m P a \\cdot s }$ ,or1.46 for viscosities less than $3 0 0 \\mathrm { m P a \\cdot s }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We examine in this paper the use of STB silica,fused silica,and PMMA beads of known size, suspended in a fluid of known refractive index,as a means of characterizing the response of a light obscuration instrument and a flow imaging instrument to particles of low optical contrast. Both 2- pyridinemethanol (2P)and glycerol were used as the high refractive-index diluent for silica beads (refractive index of $\\approx 1 . 4 3$ and $\\approx 1 . 4 7$ for different lots of beads used for this work) and PMMA (refractive index of 1.49).We demonstrate that 2P-water solutions work well at refractive indices up to 1.52 in these instrument counters. Zols et al. have used sucrose solutions successfully for refractive index matching of STB silica beads in a similar study [9]. Use of 2P-water mixtures has two advantages relative to other aqueous solutions: 2P has a high refractive index $( \\approx 1 . 5 4 )$ and relatively low viscosity,which allows creation of aqueous mixtures over a wide range of refractive indices with acceptable viscosities.There are two potential disadvantages to the use of 2P: the material degrades with exposure to light or long-term storage,and the liquid is slightly optically absorbing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To prepare and use a bead standard of known diameter and concentration, beads of known size are first dispersed in water.The refractive index of water differs sufficiently from that of common bead material to enable accurate calibration of the count of the aqueous suspension against commercial PSL count standards.The bead suspension is then mixed with filtered, water-miscible solvents that increase the refractive index of the liquid and reduce the optical contrast between the beads and liquid in a controlled manner. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because of the variability of refractive index of silica beads,the refractive index must be measured for each lot of beads.A series of suspensions with fixed bead concentration and known liquid refractive index, spanning the expected refractive index of the bead,is prepared first.Then the relative optical contrast of the beads can be measured in one of two ways. Zols et al.[9] measured the apparent absorbance of the beads in a platereader, which is highly insensitive to mixture viscosityand particle sedimentation.The minimum in absorbance corresponds to the point of refractive index matching.We report a different method in this paper,in which the series of suspensions is measured in a light obscuration counter.The light obscuration counter should have diameter bins adjusted to appropriately match the apparent particle size distribution of the silica beads.The minimum in the reported diameter as a function of refractive index corresponds to the point of refractive index matching. Measurement of the contrast by use of standard UV-VIS absorption spectrometers is not practical due to settling of the beads during the measurement. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PMMA beads are available at larger sizes than silica beads, have good optical homogeneity,and have a predictable refractive index. The refractive index of PMMA is appreciably lower than that of PSL (1.49 versus 1.59)[12], enabling the mixing of index-matched aqueous bead solutions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Materials ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Silica beads of reported $6 . 1 \\mu \\mathrm { m }$ diameter were obtained from Bangs Laboratories (Fishers,IN),and of reported $1 0 . 3 \\mu \\mathrm { m }$ and $2 5 . 0 \\mu \\mathrm { m }$ diameter from Corpuscular, Inc.(Cold Spring,NY).1 Bead sizes were verified by measurement of the beads suspended in water on calibrated flow imaging and light obscuration particle counters (see 2.2 Methods for instrument details). The nominal $2 5 \\mu \\mathrm { m }$ diameter beads gave unexpectedly low diameters. Subsequently, the $1 0 . 3 \\mu \\mathrm { m }$ and $2 5 . 0 \\mu \\mathrm { m }$ were measured by brightfield microscopy on a calibrated optical microscope ( $2 0 \\times$ magnification), resulting in measured diameters of $1 0 . 2 \\mu \\mathrm { m }$ and $1 9 . 9 \\mu \\mathrm { m }$ 、PMMA beads of a nominal size range $6 3 \\mu \\mathrm { m }$ to $7 5 { \\mu \\mathrm { m } }$ were obtained from Cospheric (Santa Barbara, CA).Both bead types were supplied in dry form.We formed suspensions in water by adding dry beads to water, shaking vigorously for $4 0 ~ \\mathrm { s }$ ,and then sonicating for $6 0 ~ \\mathrm { s }$ .The counts of the bead stock were determined by diluting the stock solution 1O:1 and then measuring the diluted sample on a calibrated light obscuration instrument. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the matrix fluids,ultrafiltered water (Barnstead NANOpure system, Dubuque,IA) was combined with either 2P ( $98 \\%$ nominal purity from Sigma Aldrich, St.Louis,MO) or glycerol (ACS Reagent Grade, from Mallinckrodt Baker, Phillpsburg,NJ). Prior to use, the solutions were filtered through a $0 . 2 2 \\mu \\mathrm { m }$ PVDF membrane filter (Millipore GV syringe filter). Particle suspensions were stored in polyethylene sample bottles that had been precleaned by agitation in $0 . 1 \\%$ mass concentration sodium dodecyl sulfate solution,followed by two rinses with ultrafiltered water.Lack of appreciable particles in the water and other solutions was confirmed by measurement by light obscuration and flow imaging. The refractive index of prepared mixtures was measured at the sodium D line ( $5 8 9 \\mathrm { n m }$ wavelength),using an Abbe refractometer that had been calibrated using ultrafiltered water and NIST Standard Reference Material 1922,a mineral oil with known refractive index. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The prepared samples were measured by light obscuration and by flow imaging. The light obscuration particle counter (PAMAS model SVSS-C with a HCB-LD-25/25 sensor head,Leonberg, Germany) had a size range from $1 \\mu \\mathrm { m }$ to $2 0 0 \\mu \\mathrm { m }$ diameter.To minimize the effects of particle settling during the span of each measurement, the measurement volume was only $0 . 4 ~ \\mathrm { m L }$ and the sampling needle was positioned halfway down into the bead suspension. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the flow imaging results,a Micro-Flow Imaging DPA-420O (ProteinSimple, San Jose, CA; settings: $1 0 0 \\mu \\mathrm { m }$ thick flow cell, at “SP3” optical configuration) was used. Because the silica beads settle much more rapidly than PSL beads,the measurement protocol was modified.The instrument illumination was optimized with a particle-free sample of the same liquid used to suspend the particles. A particle-laden sample of $0 . 4 2 ~ \\mathrm { m L }$ was then added to the instrument inlet,and the measurement commenced without further priming.As a result, the measured volume consisted of the particle-free liquid in the inlet tube between the counting chamber and the inlet,and the added particle-laden sample.The measurement volume was adjusted so that the measurement terminated with no more than $1 0 \\mu \\mathrm { L }$ of liquid remaining above the counting chamber. The particle concentration results were multiplied by a constant factor to account for the volume of particle-free liquid included in the measurement. Although this method accounts for particle settling, there were stilldifficulties with beads adhering to the sides of the inlet tubing. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For each bead type and matrix-fluid refractive index,the particle size distribution was inspected,and upper and lower diameter limits were adjusted to exclude any extraneous particles that were clearly not beads.This adjustment can be done in the data analysis step for flow imaging,but for light obscuration, the instrument setings were adjusted.The reported concentration is the number of particles per unit volume between these diameter limits. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Both light obscuration and flow imaging counters were checked for correct operation by measuring nearly particle-free filtered water as a blank and by measuring commercial PSL bead count standards (ThermoScientific,Fremont, CA). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To study how indicated diameter varied with the refractive index difference $\\Delta n$ ， $6 . 1 \\mu \\mathrm { m }$ ， $1 0 . 2 \\mu \\mathrm { m }$ ，and $1 9 . 9 \\mu \\mathrm { m }$ diameter silica beads and $6 9 \\mu \\mathrm { m }$ PMMA beads were measured by flow imaging and light obscuration.The beads were immersed in either glycerol-water or 2P-water mixtures of varying refractive index.Data were obtained for particle diameter and, where not prevented by fast sedimentation, bead concentration. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Both light obscuration and flow imaging instruments gave results for the particle diameter that agreed with manufacturer's value for $6 . 1 \\mu \\mathrm { m }$ $1 0 . 2 \\mu \\mathrm { m }$ ,and $6 9 { \\mathrm { u m } }$ beads,and with the brightfield microscopy value for $1 9 . 9 \\mu \\mathrm { m }$ beads,when the particles were immersed in water (data not shown). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figures 1-4 illustrate the undersizing of beads by light obscuration and flow imaging for small $\\Delta n$ for silica and PMMA beads ranging in diameter from $6 . 1 \\mu \\mathrm { m }$ to $6 9 \\mu \\mathrm { m }$ (In the figures,light obscuration and flow imaging data sets are designated LO and FI,respectively.2P-water and glycerol-water mixtures are designated 2P and Gly.) The dashed vertical lines indicating $\\Delta n = 0$ is only approximately determined for the silica beads;additional data on solutions with small $\\Delta n$ would be necessary to find the index-matching point accurately. As $\\Delta n$ approaches zero,the light-obscuration diameter of each bead drops.The number of particles,however,remains relatively constant. Once $\\Delta n$ becomes small enough that the particle size distribution of the beads is near the lower limit of the instrument,the particle count drops precipitously. Note that the reported diameter never drops below the lower threshold of the particle counter ( $1 \\mu \\mathrm { m }$ for the counter used here): at very small $\\Delta n$ when no peak is observed in the particle size distribution,the particle counter only reports particles having larger than average scattering. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6385c984ec6a3b60ad1b9c6167acdb2016d468dae01919c64e99b5c7e69343f5.jpg",
+        "img_caption": [
+            "Fig.1.Measured concentration (A) and indicated diameter (B) of silica beads ( ${ \\mathrm { 6 . 1 ~ } \\mu \\mathrm { m } }$ diameter) suspended in 2P-water mixtures of varyingrefractive index.Erorbars indicatestandarddeviationsofthreerepeat measurementsofsinglesamples.Erorbars for indicateddiameteraresmallrthanthsymbolsize.Thedashedverticallineindicatesteapproximatepointofefractiveidexatch between the beads and the matrix liquid. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/af568d3b8cea35bb7ec3e21f47459f0f13549d66b9fb9196fe86b19718b6a582.jpg",
+        "img_caption": [
+            "Fig.2.Measured concentration (A) and indicated diameter(B) of silica beads ( $1 0 . 2 \\mu \\mathrm { m }$ diameter) suspended in 2P-water mixtures of varyingrefractive index.Errorbars indicate standarddeviationsofthreerepeat measurementsofsingle samples.Erorbars for indicateddiameteraresmallrthanthesymbolsize.Thedashedverticallineindicatestheapproximatepointofrefractiveidexmatch between the beads and the matrix liquid. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f34cfae51d80e0dfcf4bfe62c7e92eb216012ffa1781b62d803807cd74930a0.jpg",
+        "img_caption": [
+            "Fig.3.Measured concentration(A) and indicated diameter(B) of silica beads ( $1 9 . 9 \\mu \\mathrm { m }$ diameter) suspended in 2P-water and glycerolwater mixturesofvaryingrefractiveindex.Erorbars indicatestandarddeviationsofthrerepeatmeasurementsofsinglesamples. Errorbars for indicateddiameteraresmaller than thesymbol size.Thedashed vertical lineindicatestheapproximate pontof refractive index match between the beads and the matrix liquid. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfc34f67e7ea956c18789d2cfacb11f046523857137385190157087f20ddb63d.jpg",
+        "img_caption": [
+            "Fig.4.Indicated diameter of PMMA beads ( $\\stackrel { \\cdot } { \\approx } 6 9 \\mu \\mathrm { m }$ diameter) suspended in 2P-water mixtures of varying refractive index. Standard deviations of repeat measurements are smaller than the symbol size.At the highest refractive index $\\mathit { \\check { n } = 1 . 4 8 4 }$ $\\Delta n \\approx 0 . 0 0 7 _ { , }$ ,flow imagingresults wereinterpretedeitherasfullfiledcircles (filedrdcircle)orasarcs (openedcircle).Tedashedverticaline indicates the pointof refractive index matchbetween the beads andthe matrix liquid,basedon literature values forPMMA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The refractive index of the fluid where the beads have the smallest indicated diameter (corresponding to $\\Delta n \\approx 0$ ）varied substantially among the measured silica bead lots.For the smaller $6 . 1 \\mu \\mathrm { m }$ beads, the minimum diameter occurs at a fluid refractive index of $\\approx 1 . 4 3$ ,consistent with the refractive index expected for amorphous silica beads fabricated by the Stober-Fink-Bohn process [11]. For the larger $1 0 . 2 \\mu \\mathrm { m }$ and $1 9 . 9 \\mu \\mathrm { m }$ beads,the minimum diameter occurred at a fluid refractive index of $\\approx 1 . 4 7$ ,which is much closer to the refractive index expected of bulk silica $( \\approx 1 . 4 5 6 )$ [13]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the flow imaging results, the reported diameter of the $6 . 1 \\mu \\mathrm { m }$ and $1 0 . 2 \\mu \\mathrm { m }$ beads drops as $\\Delta n$ （204号 approaches zero,but not as rapidly as with light obscuration.The reason forthe decrease in diameter of the $6 . 1 \\mu \\mathrm { m }$ beads is that the optical resolution of the instrument is approximately $2 \\mu \\mathrm { m }$ to $3 \\mu \\mathrm { m }$ as $\\Delta n$ （202 decreases,the optical image of a particle of diameter near the diffraction limit retains the same size and shape,but with reduced contrast. As the contrast drops,the particle recognition algorithm identifies the particle boundaries as being closer and closer to the particle center. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the large $6 9 \\mu \\mathrm { m }$ PMMA beads,the diameters reported by flow imaging change less than $4 \\%$ until $\\mid \\Delta n \\mid < 0 . 0 1$ . At a value of $\\Delta n = 0 . 0 0 7$ , some beads are correctly identified as particles of nearly correct diameter (shown as the filled red symbol at the right of Fig.4),whereas other beads have greatly reduced effective diameters (shown as the open red symbol at the right ofFig. 4).To illustrate this efect,Fig. 5 shows three images of different PMMAbeads,with diameters of $6 3 \\mu \\mathrm { m }$ $7 2 \\mu \\mathrm { m }$ ,and $7 2 \\mu \\mathrm { m }$ for beads (A) through (C),respectively. Beads (B) and (C) are correctly sized by the flow imaging system. Bead (A), however,is reported as having an effective diameter of only $2 6 \\mu \\mathrm { m }$ ,compared to an actual diameter of $6 3 \\mu \\mathrm { m }$ Bead (A) is undersized because the particle identification algorithm recognizes only a portion of the bead outline; thus,the particle is seen as an arc,rather than as a disc of identified boundary.For the （202 $1 9 . 9 \\mu \\mathrm { m }$ beads,the effect is not as dramatic (see Fig. 6),but many beads were identified by the software as only partial circles. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b6b08f355654cdf84201ac197b5e9db803b96b1f67548b1c24278b7db0d7e08.jpg",
+        "img_caption": [
+            "Fig.5.Three flow-imaging micrographs of PMMA beads $( \\approx 6 9 \\mu \\mathrm { m }$ diameter) suspended ina 2P-water mixture $( \\Delta n \\approx 0 . 0 0 7 )$ ).Bead (A)was identifiedbyautomated software as onlyanarc;beads (B)and(C) were identifiedas fullfilled circles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/720573d44c2a71f79f6be30803d459aba53674b9e2f9284aca390487413035f6.jpg",
+        "img_caption": [
+            "Fig.6.Three flow-imaging micrographs of silica beads $\\approx 2 0 \\mu \\mathrm { m }$ diameter) suspended in a 2P-water mixture (refractive index of matrix liquid $= 1 . 4 6 8 6 \\$ .Bead (A)was identified by automated software as only a partial circle; beads (B)and(C) were identified as full, filled circles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In addition to the large drop in apparent concentration near $\\Delta n \\approx 0$ ,there were smaller variations in concentration with refractive index atlarger values of $\\mid \\Delta n \\mid$ ，with an overall trend in particle concentration increasing with higher refractive index.The cause of this trend is not known. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For the $1 9 . 9 \\mu \\mathrm { m }$ silica beads,measurements were obtained using both glycerol-water and 2P-water mixtures.The apparent diameter versus refractive index values for the two mixtures appear to be slightly shifted, by the equivalent of $\\approx 0 . 0 2$ in refractive index. The cause of this shift is unknown, but may be a consequence of preferential adsorption of one liquid component on the bead. The apparent concentration versus refractive index agrees for the two mixtures for refractive index values below 1.38, but diverges slightly at higher refractive index values.This divergence is possbly due to problems in suspending the silica beads. Homogeneous suspension of the silica beads was diffcult to obtain in the glycerol-water mixtures without entraining air bubbles for refractive indices greater than $\\approx 1 . 4 1$ , leading to increasing scatter for the concentration measurements. It was not possible to reach the index-matching point for the $1 9 . 9 \\mu \\mathrm { m }$ silica beads with a glycerol-water mixture of sufficiently low viscosity to allow measurements. The $1 0 . 2 \\mu \\mathrm { m }$ silica beads and $6 9 \\mu \\mathrm { m }$ PMMA beads have refractive indices equal to or larger than the $1 9 . 9 \\mu \\mathrm { m }$ silica beads and would have presented the same difficulty in matching the bead refractive index with a glycerol-water solution. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The disadvantages of 2P-water mixtures (material degradation with exposure to light or long-term storage,and slight optical absorbance) were not significant problems in the present measurements.The refractive index of the mixtures was measured with a refractometer rather than being inferred from literature values,so shifts in refractive index due to degradation did not affect the measurements.The optical extinction also did not impair the measurements because the solutions remained largely transparent over the small-path-lengths of the flow cells used for light obscuration and flow imaging. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The stability of 2P-water mixtures was evaluated by remeasuring the refractive index of four retained samples (two samples at a 2P volume fraction of 0.62 and two samples at volume fraction 0.72, each approximately $5 ~ \\mathrm { m L }$ sample volume,held in $3 0 ~ \\mathrm { m L }$ ,low molecular-weight polyethylene bottles).After storage in the dark for 24 months,the refractive index of the mixtures shifted by $+ 0 . 0 0 6 4 \\pm 0 . 0 0 2 2$ (mean and standard deviation offour samples).The magnitude of this shift is small enough that 2P-water mixtures are sufciently stable for studying instrument performance; the shift is large enough that year or longer shelf lives of 2P-water mixtures are not attainable for $\\Delta n$ values smaller than $\\approx 0 . 0 2$ .We also evaluated the stability of PMMA beads in the same retained samples.The diameter of nominally $7 0 \\mu \\mathrm { m }$ PMMA beads at the initial measurement and after 24 months was $( 6 8 . 8 9 \\pm 0 . 0 8 ) \\mu \\mathrm { m }$ (mean and standard error of the mean) and $( 6 9 . 1 3 \\pm 0 . 1 2 ) \\mu \\mathrm { m }$ ,respectively.A t-test confirmed that there was no statistically significant change in the measured diameter.We conclude that PMMA is chemically compatible with 2P. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The use of 2P-water mixtures enables the measurement of refractive-index matched beads over a much broader refractive index range than other aqueous matrix liquids,such as glycerol-water or sucrose-water solutions.This broader range,in turn,alows use of silica beads made from bulk silica glass or PMMA beads,which are available in larger sizes than STB-processilica beads.The low viscosity of the 2P-water mixtures ensured that particles could be resuspended without significant air bubble entrainment. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The data obtained for flow imaging and light obscuration instruments demonstrate the significant shifts in measured diameter that occur when the refractive index of the particle is close to that of the matrix liquid. A challenge for future work is to understand how the response of these instruments for a homogeneous bead sample can be related to the response for inhomogeneous particles,such as aggregated protein particles. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] J.C.Carpenter,T.W.Randolph,W.Jiskoot,D.J.Crommelin,C.R.Middaugh,G.Winter,Y.-X.Fan,S.Kirshner,D. Verthelyi,S.Kozlowski,K.A.Clouse,P.G.Swann,A.Rosenberg,andB.Cherney,Overlooking subvisible particles in therapeutic proteinproducts:Gaps thatmaycompromiseproductquality,JournalofPharmaceutical Sciences98(4),201-1205 (2009). http://dx.doi.org/10.1002/jps.21530   \n[2] A.S.Rosenberg,D.Verthelyi,andB.W.Cherney,Managinguncertainty:Aperspectiveonrisk pertainingtoproductquality atributesastheybearonimmunogenicityof therapeutic proteins,JouralofPharmaceuticalSciences01(10),560-3567 (2012). http://dx.doi.org/10.1002/jps.23244   \n[3] S.K.Singh,N.Afonina,.Awwad,K.Bechtold-Peters,J.T.Blue,D.hou,.CromwellH.-J.Krause,H.-C.Mahler,B.K. Meyer,L.Narhi,D.P.Nesta,ndT.Spitznagel,Anindustryperspectiveonthemonitoringofsubvisibleparticlesasauality attribute for protein therapeutics,Journal of Pharmaceutical Sciences 99 (8),33o2-3321 (2010). http://dx.doi.org/10.1002/jps.22097   \n[4] D.K.Sharma,D.King,P.Oma,J.J.Pollo,andM.Sukumar,QuantificationandCharacterizationofSubvisibleroteiaceous Particles in Opalescent mAbFormulations Using Micro-FlowImaging,JournalofPharmaceutical Sciences 99(6),628-2641 (2010).http://dx.doi.org/10.1002/jps.22046   \n[5] C.T.Huang,D.harma,P.Oma,ndR.KrishnamurthyQuantitationof proteiparticlesinparenteralsolutionsusing icr flow imaging,Journal ofPharmaceutical Sciences 98(9),3058-3071(2009).htp://dx.doi.org/10.1002/jps.21575   \n[6] M.K.Joubert,Q.Luo,Y.Nashed-Samuel,J.Wypych,andL.O.Narhi,Classificationandcharacterizatiooftherapeutic antibody aggregates,Journal of Biological Chemistry 286 (28),25118-25133 (011). http://dx.doi.org/10.1074/jbc.m110.160457   \n[7] D.C.Ripple andM.N.Dimitrova,ProteinParticles: What We Knowand What We Don'tKnow,Journal ofPharmaceutical Sciences 101 (10),3568-79 (2012). htp://dx.doi.org/10.1002/jps.23242   \n[8] R.G.Knollenberg andR.C.Gallant,Refractive Index Effects onParticle Size Measurement inLiquid MediabyOptical Extinction,inProceedingsofteInternationalConferenceonParticleDetection,MetrologyandControl,Instituteof Environmental Sciences,154-182(1990).   \n[9] S. Zols,M.Gregoritza,R.Tantipolphan,M.Wiggenhorn,G.Winter,W.FriessandA.Hawe,How subvisible particles becomeinvisible—relevanceoftherefractive indexforproteinparticleanalysis,JouralofPharmaceuticalSciences102,434- 46 (2013). http://dx.doi.org/10.1002/jps.23479   \n[10] J.Voros,The densityand refractive index of adsorbing protein layers,Biophysics Journal 87(1),553-561(2004). http://dx.doi.org/10.1529/biophysj.103.030072   \n[11] F.Garcia-Santamaria,H.Miguez,M.Ibisate,F.Meseguer,andC.opez,Refractive Index Propertiesof Calcinedilica Submicrometer Spheres,Langmuir 18 (5),1942-1944 (2002). http://dx.doi.org/10.1021/la010813g   \n[12] S.N.Kasarova,N.G.Sultanova,C.D.Ivanov,andID.Nikolov,Analysisofthe dispersionof optical plastic materials, Optical Materials 29 (11),1481-1490 (2007). http://dx.doi.org/10.1016/j.optmat.2006.07.010   \n[13] I H.Malitson,IterspecimenComparisonoftheRefractiveIndexofusedSilica,JuraloftheOpticalSocietyofAeric55 (10),1205-1208 (1965). http://dx.doi.0rg/10.1364/josa.55.001205   \n[14] ConcentrativePropertiesof Aqueous Solutions:Density,Refractive Index,FreezingPoint Depression,and Viscosity,CRC Handbook of ChemistryandPhysics,95th ed,2014-2015,htp://www.hbcpnetbase.com (Accessed October6,2014). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "About the authors: Dean Ripple is Leader of the Bioprocess Measurements Group, Biomolecular Measurement Division, National Institute of Standards and Technology (NIST).His present research focuses on the development of new standards for protein particles. Zhishang Hu is a guest researcher visiting from the Institute of Biophysics of the Chinese Academy of Sciences.His work involves research on characterizing the extent of aggregation in a variety of therapeutic proteins. The National Institute of Standards and Technology is an agency of the U.S Department of Commerce. ",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,119 @@
+# 临床研究
+
+# 胎膜早破对胎龄<37周早产儿并发症的影响
+
+段顺艳1,孔祥永1,2\*,徐凤丹1\*,吕红艳3\*,巨 容4\*,李占魁5\*,曾淑娟6\*,武辉7\*,张雪峰8\*，刘卫鹏\*,刘 芳 $^ { 1 0 * }$ . 程红斌1\*,丁艳洁12\*,陈铁强13,许平14\*,杨李红³,吴素静³,汪瑾4,彭 立4,赵小林5,丘惠娴,温伟溪,李 莹7， 李楠,文峥",郭果8,王凤',李改梅”,李薇",赵晓英",许云波",陈文超",尹欢",王晓亮,单瑞艳,韩梅盈14， 杨春燕14,封志纯1,2
+
+南方医科大学陆军总医院临床医学院附属八一儿童医院极早产NICU,北京100700;陆军总医院附属八一儿童医院极早产NICU,北京100700;邯郸市妇幼保健院新生儿科,河北 邯郸 056001;"成都市妇女儿童中心医院新生儿科,四川 成都 610091;陕西省妇幼保健院新生儿科,陕西 西安 710003;深圳市龙岗中心医院新生儿科,广东 深圳 518116;吉林大学第一医院新生儿科,吉林 长春 130021;中国人民解放军第三O二医院新生儿科，北京100039；海军总医院新生儿科,北京10048;白求恩国际和平医院新生儿科,河北石家庄050082;黄石市妇幼保健院新生儿科,湖北 黄石 435000;烟台毓璜顶医院新生儿科,山东 烟台 264000;3长沙市妇幼保健院新生儿科,湖南 长沙 410007；14聊城市人民医院新生儿科,山东 聊城 252000
+
+摘要：目的 探讨胎膜早破（premature rupture ofthe membrane,PROM)对早产儿并发症的影响。方法 收取课题组各协作单位产科登记信息在2014年1月1日\~2014年12月31日出生的胎龄 $^ { \cdot } < 3 7$ 周的早产儿共7684例。各协作单位派专人培训后填写统一的表格,记录相关信息,包括患儿性别、胎龄、出生体质量、有无PROM、胎盘早剥、产前激素使用、Apgar评分、羊水污染、并发症等。按有无PROM分为PROM组与对照组,统一对其临床资料进行分析。结果（1)PROM组病死率小于对照组,颅内出血、坏死性小肠结肠炎、早产儿视网膜病、支气管肺发育不良发生率均高于对照组，两组间比较差异均有统计学意义（ $_ { ( P < 0 . 0 5 ) }$ ；OR值$9 5 \%$ CI分析：病死率<1;颅内出血、坏死性小肠结肠炎、早产儿视网膜病、支气管肺发育不良并发症>1。(2)调整胎龄、出生体质量、性别、分娩方式、胎盘早剥、前置胎盘、产前激素、妊娠期糖尿病、妊娠期高血压病和 $5 \mathrm { m i n }$ Apgar评分 $^ { < 7 }$ 分等因素后，坏死性小肠结肠炎、早产儿视网膜病、支气管肺发育不良的发生率两组间差异均有统计学意义( $P { < } 0 . 0 5 )$ ，且OR $9 5 \%$ CI>1,但病死率和ICH比较，差异均无统计学意义（ $P { > } 0 . 0 5$ )。结论PROM是早产儿并发症坏死性小肠结肠炎、早产儿视网膜病、支气管肺发育不良发生的危险因素，规范处理PROM可减少早产儿并发症NEC、早产儿视网膜病、支气管肺发育不良的发生。
+
+关键词：胎膜早破;早产儿;病死率;合并症
+
+# Impact of premature rupture of membranes on neonatal complications in preterm infants with gestational age $< 3 7$ weeks
+
+DUANSunyan,NGiangyong\*Xengdan1\*Vongyan\*JRong4\*,Zanku'\*ZENGShujuan6\*Wu Xuefeng\*\*LIU Weipeng\*，LIUFang0\*，CHENGHongbin\*，DINGYanjie\*，CHENTeqiang13\*，XUPing14\*，YANGLiong，W Sujing²,WANGJin,NGLi,ZHAOiaolin，Huixian，WENWeixi,ing,an,AWenzheng，G $G u ^ { s } ,$ WANG Feng9, LIGaimei’,LWeiHAOXioyingnbo,HWenchao,uan,ANGXiaoliang,HAuan,Hng YANG Chunyan14,FENGZhichun   
+DepartmentofVeryreteuilden'sHospitalAflatedtClicalMedicalollgeinAryGenealHspitalOfoth MedicalUniesityoaepmntoVeryreteden'spitalfdtl HospitalBeiingoina;oataltesieCaetHadanateitydhidrentersHadain NeonatalInteiereigdun&den'stalsptaldaoaltesee Shanxiateadidererei';talteieetggstrcttl ofShenzhenlin;ontaltesieCaenitstoitalfJnesityg0inatl IntesieCl 10048Cinaotalsieeiteeialceialge CareUnit,HuangshiaternalandhildHealthHospital,Huangshi,350on; $^ { 1 2 }$ Neonatal Intensive Care Unit, Yantai Yuhuangding Hospitalt;aleeeialtele China;14Neonatal Intensive CareUnit,LiaochengPeople'sHospital,Liaocheng,252ooo,China
+
+Abstract: Objective To investigate the efectof premature rupture of the membrane (PROM)onneonatal complications in premature infants. Methods The registration information of 7684 preterm infants with gestational age $< 3 7$ weeks were colected from thecooperativeunitsinthetask groupbetween January1，2014 toDecember31，2014.Specially trained personnelfromeachcooperativeunitsfilled intheunifiedforminastandardizedformat torecordthegender,gestationalage, birth weight,OM,pacetalruptionteatalrtioterid,Agarore,iotifidpolionandlatisf theinfants.The data were analyzed comparatively betweenthecases with PROMand those without (control).Results The preterm mortalityrate was significantly lower but the incidences of ICH,NEC,ROPand BPD were significantly higher in PROM group than in the control group $_ { ( P < 0 . 0 5 ) }$ . The $9 5 \%$ confidence interval of the OR value was $_ { < 1 }$ for mortality, and was ${ > } 1$ for ICH,NEC,ROPandBP.Afteradjustmentforgestationalage,bth weght,gender,modeofdeliveryplacentalaruption, placenta previa,prenatalhormones,gestational diabetes melitus (GDM),gestational period hypertensionand5-min Apgar score $\scriptstyle < 7 ,$ the incidences of NEC, ROP and BPD were significantly diferent between the two groups $_ { ( P < 0 . 0 5 ) }$ with $9 5 \%$ confidence interval of OR value ${ \mathrm { > } } 1 .$ ,but the mortality rate and incidence of ICH were not significantly different between the two groups $( P { > } 0 . 0 5 )$ . Conclusion PROM is a risk factor for NEC, ROP and BPD in preterm infants,and adequate intervention of PROM can reduce the incidences of such complications as NEC, ROP and BPD in the infants.
+
+Key words: premature rupture of membranes; premature infant; mortality; complication
+
+胎膜早 破(premature rupture of membrane,PROM)是指包裹胎儿和羊水的胎膜在分娩前自然破裂,羊水经阴道流出。依据其发生的孕周可分为足月PROM和未足月PROM,PROM发生率占全部的妊娠的 $20 \% { \sim } 3 6 \%$ ,其导致的早产占所有早产的 $30 \% { \sim } 4 0 \%$ ，是导致早产的主要原因之一。导致PROM常见的原因有：宫颈内口松弛，羊膜腔压力增高，感染，胎儿先露部与骨盆入口衔接不良，胎膜发育差、流产引产史、医源性创伤、微量元素、酶类作用、细胞凋亡等2。PROM是围产期最常见的并发症之一，因为感染和炎症反应产生的一系列的炎症因子对胎儿-新生儿常态化的生长发育及健康成长造成不可忽视的影响3：常见的包括宫内感染、胎儿宫内窘迫、脐带脱垂及胎肺发育不足等，从而影响早产儿的围生期结局[4。本研究旨在通过多中心研究探讨PROM对早产儿并发症发生率及预后的影响，以指导产科及新生儿科医生的临床决策。
+
+生长因子结合蛋白-1及胎盘α微球蛋白-1的检测和超声检查辅助诊断[56]。
+
+# 1.3方法
+
+1.3.1数据收集本课题由陆军总医院附属八一儿童医院新生儿科作为发起者，与各协作单位成立了调查协作组，制定统一的资料收集表，收集地域跨东北、华北、华南、华中、西北、西南6大区共13家医院产科出生的早产儿的资料。我院负责对协作单位的资料收集人员进行专项培训,并与其维持稳定持续的通讯联系以追踪进度及确保资料收集的质量。各协作单位收集好纸质资料后定期向我院递送，我院负责用Epidata录入汇总后分析。资料收集内容包括早产儿及母亲一般情况、PS及呼吸机使用、血气分析结果、辅助检查、并发症、出院诊断、预后等信息。
+
+1.3.2死亡判定 (1)产房内室息复苏失败者;(2)住院期间院内抢救无效死亡者；(3)放弃治疗自动出院经电话回访确定已死亡者；
+
+# 1 资料和方法
+
+# 1.1研究对象
+
+纳入标准：参加"2014年早产儿RDS发生率及其影响因素多中心调查"的13家协作医院于2014年1月1日\~2014年12月31日产科分娩的胎龄 $^ { < 3 7 }$ 周所有的早产儿，共7684例。由外院产科出生而转入协作医院新生儿病房的早产儿不纳入本研究。排除标准：死胎、产房内死产、因严重先天性畸形产房内放弃治疗患儿。按有无PROM分组，PROM组2889例，对照组4795例。
+
+1.3.3各主要并发症判定标准颅内出血(ICH)支气管肺发育不良(BPD）坏死性小肠结肠炎(NEC）、早产儿视网膜病(ROP)动脉导管未闭(PDA）败血症及肺出血的诊断均参照相关文献资料[7-9]。
+
+# 1.4统计学处理
+
+所有调查数据用SPSS20.0软件进行分析，计量资料用t检验进行组间比较，计数资料用x检验和Fisher确切概率计算，多因素分析采用logistic回归分析。 $P <$ 0.05为差异有统计学意义。
+
+# 1.2 诊断标准
+
+诊断PROM需结合临床表现及检查：(1)孕妇主诉突然出现阴道流液或无控制的"漏尿”，少许孕妇仅感觉较平时湿润，窥阴器检查可见含胎脂的羊水自子宫颈口流出;(2)阴道液酸碱度检查 $\mathrm { p H } { > } 6 . 5$ ;(3)阴道液干燥片检查见羊齿状植物叶状结晶;(4)必要时结合胰岛素样
+
+# 2结果
+
+# 2.1两组患儿基本情况
+
+两组间胎龄、出生体质量、剖宫产率、产前使用激素、胎盘早剥、妊娠期糖尿病、妊娠期高血压、前置胎盘差异均存在统计学意义 $( P { < } 0 . 0 5 )$ ,性别和 $5 \mathrm { m i n }$ Apgar评分 $\scriptscriptstyle < 7$ 分两组比较，差异无统计学意义(表1)。
+
+表1两组早产儿的一般临床资料比较Tab.1 General clinical data of the premature infants in PROM and control groups  
+
+<html><body><table><tr><td>Parameter</td><td>PROM group (n=2889)</td><td>Control group (n=4795)</td><td>tx</td><td>P</td></tr><tr><td>GA (Mean±SD, w)</td><td>34.3±2.1</td><td>34.6±2.1</td><td>-5.797</td><td>0.000</td></tr><tr><td>BW (Mean±SD, g)</td><td>2269.2±550.0</td><td>2230.1±579.1</td><td>2.920</td><td>0.004</td></tr><tr><td>Male/Total</td><td>1640/2889 (56.8%)</td><td>2642/4795 (55.1%)</td><td>2.033</td><td>0.154</td></tr><tr><td>C-sect</td><td>1376/2889 (47.6%)</td><td>3445/4795 (71.8%)</td><td>452.268</td><td>0.000</td></tr><tr><td>ACS</td><td>1024/2889 (35.4%)</td><td>1855/4795 (38.7%)</td><td>8.084</td><td>0.004</td></tr><tr><td>placental abruption</td><td>57/2889 (2.0%)</td><td>154/4795 (3.2%)</td><td>10.358</td><td>0.001</td></tr><tr><td>GDM</td><td>293/2889 (10.1%)</td><td>419/4795 (8.7%)</td><td>4.225</td><td>0.040</td></tr><tr><td>HDCP</td><td>151/2889 (5.2%)</td><td>771/4795 (16.1%)</td><td>201.085</td><td>0.000</td></tr><tr><td>placenta praevia</td><td>73/2889 (2.5%)</td><td>300/4795 (6.3%)</td><td>54.298</td><td>0.000</td></tr><tr><td>5-min Apgar score<7</td><td>121/2628 (4.6%)</td><td>230/4225 (5.4%)</td><td>0.013</td><td>0.909</td></tr></table></body></html>
+
+GA:Gestational age;BW:Birthweight; C-sect:Caesarean section;ACS:Antenatalcorticosteroid;GDM:Gestationaldiabetes mellitus; HDCP: Hypertensive disorder complicating pregnancy.
+
+# 2.2两组患儿病死率和并发症情况
+
+两组间病死率和并发症比较，发现PROM组病死 率低于对照组，差异有统计学意义 $( P { < } 0 . 0 5 )$ ，且OR值 $9 5 \%$ CI<1,提示胎膜早破可能为病死率的保护因素;
+
+ICH、NEC、ROP、BPD的发生率均高于对照组，差异有统计学意义 $( P { < } 0 . 0 5 )$ ，且OR值 $9 5 \%$ CI>1,提示胎膜早破为ICH、NEC、ROP、BPD并发症的危险因素,NRDS、PDA、败血症发生率两组间比较差异无统计学意义(表2)。
+
+表2两组早产儿的病死率和主要并发症比较 Tab.2 Comparison of mortality and major complications in the premature infants between PROMand control group   
+
+<html><body><table><tr><td>Complication</td><td>PROM group (n=2889)</td><td>Control group (n=4795)</td><td>OR</td><td>95% CI</td><td>P</td></tr><tr><td>Mortality</td><td>47/2889 (1.6%)</td><td>125/4795 (2.6%)</td><td>0.618</td><td>0.440-0.867</td><td>0.005</td></tr><tr><td>NRDS</td><td>448/2889 (15.5%)</td><td>729/4795 (15.2%)</td><td>1.024</td><td>0.901-1.163</td><td>0.720</td></tr><tr><td>ICH</td><td>371/2889 (12.8%)</td><td>532/4795 (11.1%)</td><td>1.181</td><td>1.025-1.360</td><td>0.021</td></tr><tr><td>NEC</td><td>60/2889 (2.1%)</td><td>66/4795 (1.4%)</td><td>1.520</td><td>1.068-2.162</td><td>0.020</td></tr><tr><td>PDA</td><td>491/2889 (17.0%)</td><td>852/4795 (17.8%)</td><td>0.948</td><td>0.839-1.071</td><td>0.387</td></tr><tr><td>ROP</td><td>55/2889 (1.9%)</td><td>53/4795 (1.1%)</td><td>1.736</td><td>1.187-2.539</td><td>0.004</td></tr><tr><td>Sepsis</td><td>99/2889 (3.4%)</td><td>153/4795 (3.2%)</td><td>1.077</td><td>0.832-1.392</td><td>0.574</td></tr><tr><td>BPD</td><td>83/2889 (2.9%)</td><td>98/4795 (2.0%)</td><td>1.418</td><td>1.054-1.906</td><td>0.021</td></tr></table></body></html>
+
+NRDS:Neonatal respiratorydistress syndrome;ICH:Intraventricular hemorrhage;NEC:Necrotizing enterocolitis;PDA:Patent ductus arteriosus; ROP: Retinopathy of prematurity; BPD: Bronchopulmonary dysplasia.
+
+调整胎龄、出生体质量、性别、分娩方式、胎盘早剥、前置胎盘、产前激素、妊娠期糖尿病、妊娠期高血压疾病和5minApgar评分 $^ { < 7 }$ 分等因素后分析，NEC、ROP、BPD的发生率两组间差异有统计学意义（ $_ { ( P < 0 . 0 5 ) }$ ，但病死率和ICH比较，差异无统计学意义 $( P { > } 0 . 0 5 )$ ，OR值$9 5 \%$ CI>1,提示胎膜早破为合并症NEC、ROP、BPD的危险因素（表3）。
+
+# 3讨论
+
+近年来随着经济社会的进步及辅助妊娠技术的使用、产妇年龄的不断增加等因素，早产儿发生率逐步增加， $2 0 0 2 { \sim } 2 0 0 3$ 年中国城市早产儿流行病学初步调查报告显示早产儿发生率为 $7 . 8 \%$ ,PROM发生率为 $1 9 . 8 \% ^ { [ 1 1 ] }$ ;2005年中国城市产科新生儿出生状况调查显示早产儿发生率为 $8 . 1 \%$ ,早产儿胎膜早破发生率为 $2 8 . 6 \% ^ { [ 1 2 ] }$ 2011年中国城市产科出生早产儿多中心调查报告显示早产儿发生率为 $9 . 9 \%$ ,PROM发生率为 $2 8 . 4 ^ { [ 1 3 ] }$ ;本研究“2014年早产儿RDS发生率及其影响因素多中心调查”显示早产儿发生率为 $1 0 . 2 \%$ ,PROM发生率为 $3 7 . 6 \%$ ○以上全国多中心调查研究资料显示早产儿发生率呈逐年上升趋势，PROM在导致早产的原因中所占比例也逐年上升,逐渐成为导致早产的最主要原因之一[10-12]。
+
+表3两组早产儿的病死率和主要并发症发生率的多因素回归分析  
+Tab.3Multivariate regression analysis of mortality and major complications in the premature infants in PROM and control groups   
+
+<html><body><table><tr><td>Complication</td><td>Adjusted OR</td><td>95% CI</td><td>P</td></tr><tr><td>Mortality (%)</td><td>0.959</td><td>0.625-1.470</td><td>0.998</td></tr><tr><td>NRDS</td><td>0.953</td><td>0.804-1.129</td><td>0.580</td></tr><tr><td>ICH</td><td>1.098</td><td>0.939-1.283</td><td>0.243</td></tr><tr><td>BPD</td><td>1.560</td><td>1.096-2.222</td><td>0.014</td></tr><tr><td>NEC</td><td>1.585</td><td>1.067-2.355</td><td>0.023</td></tr><tr><td>ROP</td><td>1.592</td><td>1.029-2.461</td><td>0.037</td></tr><tr><td>Sepsis</td><td>1.045</td><td>0.782-1.398</td><td>0.764</td></tr><tr><td>PDA</td><td>0.938</td><td>0.818-1.076</td><td>0.363</td></tr></table></body></html>
+
+NRDS:Neonatal respiratory distress syndrome; ICH: Intracerebral hemorrhage; BPD: Bronchopulmonary dysplasia; NEC: Necrotizing enterocolitis;ROP: Retinopathy of prematurity;PDA: Patent ductus arteriosus.
+
+胎膜早破(PROM)是孕产期常见并发症，严重影响胎儿-新生儿的生长发育和健康成长，故有关PROM的研究一直受到国内外临床医师的高度重视[1415]。引起PROM的病因及其发病机制复杂，但流行病学、临床、组织学、微生物学和分子生物学资料证实感染是PROM的主要原因,且与PROM互为因果[16]。PROM不但可致产妇绒毛膜羊膜炎、子宫内膜炎，剖宫产率、产后出血、难产、死胎率增加，还使胎儿发生宫内窘迫、新生儿感染、新生儿败血症、肺透明膜病、慢性肺疾病等的几率增加[17-19]。因此，有关PROM的研究已引起国内外的广泛重视。其中，PROM后由于感染与炎症反应等因素所致的肺发育成熟障碍及多种严重肺疾病是导致胎儿-新生儿预后不良甚至死亡的重要原因之一。PROM导致胎儿-新生儿肺损伤的机制包括：羊水过少；导致早产以致影响胎肺的发育成熟；毛细血管的通透性增加；感染、炎症反应及炎症因子的作用;基质金属蛋白酶-9的缺乏等[20]。本研究中PROM组患儿BPD发生率均高于对照组，与PROM对胎儿-新生儿肺损伤的机制相符。
+
+本研究中，探讨PROM对早产儿相关并发症的影响，发现ICH、NEC、ROP、BPD的发生率均高于对照组，差异有统计学意义，但NRDS、PDA、败血症的发生率两组间比较无差异。考虑胎龄、出生体质量、性别、分娩方式、胎盘早剥、前置胎盘、产前激素、妊娠期糖尿病、妊娠期高血压疾病和5minApgar评分<7分等其他影响因素可影响并发症的发生，通过调整这些因素后，发现两组间NEC、ROP、BPD差异有统计学意义，ICH的发生率无差异。此外,根据OR值 $9 5 \%$ CI>1,提示胎膜早破为
+
+NEC、ROP、BPD并发症发生率的危险因素
+
+Jean-Charles等进行的一项PROM持续时间对胎龄为 $2 4 { \sim } 3 3 ^ { + 6 }$ 周的早产儿生后2年内病死率的影响的研究表明21：胎龄 ${ < } 3 0$ 周的早产儿，PROM持续时间越短，婴儿病死率越高，相反地，胎龄 $> 3 0$ 周的早产儿其PROM持续时间越短，婴儿病死率越低。其进行的另一项PROM后生产方式对胎龄 $2 4 { \sim } 3 4 ^ { + 6 }$ 周早产儿结局影响的研究表明：与自发性早产相比，选择性剖宫产组病死率更低22；因此，PROM对早产儿病死率的影响与多个因素有关。本研究中进行两组间病死率比较，PROM组病死率 $1 . 6 \%$ ，低于对照组 $2 . 6 \%$ ,差异有统计学意义，但通过调整其他危险因素后分析，两组间病死率比较差异无统计学意义( $\scriptstyle P = 0 . 9 9 8 )$ 。考虑此与PROM组较低的剖宫产率、胎盘早剥、妊娠期高血压疾病、前置胎盘和5分钟Apgar评分 $\cdot < 7$ 分有关以外，同时随着围产医学的进步，产科和新生儿科协作加强，PROM的产前处理及产后治疗均规范化，并且本多中心调查的协作单位均为当地产科、儿科医疗水平的代表单位等为PROM组病死率低的原因，当然，这需要在以后的多中心流行病学调查中予以验证及深入探讨。因此，尽管PROM可导致NEC、ROP、BPD等并发症发生率高，但通过积极治疗，并未引起高的病死率[21]。
+
+综上所述，PROM作为引起早产的主要原因之一，对新生儿有多方面的影响，可增加NEC、ROP、BPD等并发症的发生率。尽管通过规范产前处理及产后治疗未增加病死率，我们在临床上仍需重视存在PROM的早产儿，根据综合情况予以判断，做出适当临床决策，以尽可能减少相关并发症的发生，提高早产儿生存率及生活质量。
+
+# 参考文献：
+
+[1]Ellestad SC,Swamy GK,Sinclair T,et al.Preterm premature rupture of membrane management--inpatient versus outpatient:a retrospective review[J].AmJPerinatol, 2008,25(1): 69-73.   
+[2]Estrada-Gutierrez G,Gomez-Lopez N,Zaga-Clavellina V,et al. Interaction between pathogenic bacteria and intrauterine leukocytes triggers alternative molecular signaling cascades leading to labor in women[J].Infect Immun,2010,78(11): 4792-9.   
+[3] Greenough A. Prenatal factors in the development of chronic lung disease[J]. Semin Fetal Neonatal Med,2009,14(6): 339-44.   
+[4]Ganor-Paz Y,Kailer D,Shechter-Maor G,et al. Obstetric and neonatal outcomes after preterm premature rupture of membranes among women carrying group B streptococcus[J]. Int J Gynaecol Obstet,2015,129(1):13-6.   
+[5] Chen CY,Chang CC,Lin CW. Clinical application of immunomagnetic reduction for quantitative measurement of insulin-like growth factor binding protein-1 in the prediction of pregnant women with preterm premature rupture of membranes [J].Clin Chim Acta,2015,438(1):337-41.   
+[6]Di Renzo GC,Roura LC,Facchinetti F,et al.Guidelines for the management of spontaneouspreterm labor:identification of spontaneous preterm labor, diagnosis of preterm premature rupture of membranes,and preventive tools for preterm birth[J].JMatern Fetal Neonatal Med,2011,24(5): 659-67.   
+[7]邵肖梅,叶鸿瑁,丘小汕.实用新生儿学[M].4版.北京:人民卫生出版 社,2011:418-20.   
+[8］中华医学会儿科学分会新生儿学组,余加林,吴仕孝.新生儿败血症诊 疗方案[J].中华儿科杂志,2003,41(12):897-9.   
+[9]叶鸿瑁,樊绍曾,陈克正.新生儿肺出血的诊断与治疗方案[J].现代实 用医学,2003,15(6):395.   
+[10]中华医学会儿科学分会新生儿学组.中国城市早产儿流行病学初步 调查报告[J].中国当代儿科杂志,2005,7(1):25-8.   
+[11]李 娟,王庆红,吴红敏,等.2005年中国城市产科新生儿出生状况调 查[J].中国当代儿科杂志,2012,14(1):7-10.   
+[12]陈 超,朱燕.2011年产科出生早产儿多中心调查报告[C]第四届围 产医学新进展高峰论坛论文集,广州,2012:59-60.   
+[13]孔祥永,黄俊谨,陈 颖,等.2010年至2012年新生儿监护病房胎龄小 于32周极早产儿的病死率及并发症[J].中华实用儿科临床杂志, 2013,28(20): 1566-70.   
+[14]Liu J,Feng ZC,Wu J. The incidence rate of premature rupture of membranes and its influence on fetal-neonatal health:a report from mainland China[J].J Trop Pediatr,2010,56(1):36-42.   
+[15]Lee T, Silver H.Etiology and epidemiology of preterm premature rupture of the membranes[J].Clin Perinatol, 2001,28(4): 721-34.   
+[16]Lee SM,Park JW,Kim BJ,et al.Acute histologic chorioamnionitis is a risk factor for adverse neonatal outcome in late preterm birth after preterm premature rupture of membranes[J].PLoS One,2013, 8(12): e79941.   
+[17]吴 静,刘 敬,封志纯,等.胎膜早破对新生儿健康危害的研究[J].中 华儿科杂志,2009,47(6):452-6.   
+[18]Coolen J,Kabayashi K,Wong K,et al． Influence of oligohydramnios on preterm premature rupture of the membranes at 30 to 36 weeks'gestation[J].J Obstet Gynaecol Can,2010,32(11): 1030-4.   
+[19]杨 娜,刘 敬.胎膜早破与胎儿-新生儿肺损伤的相关性及其机制[J]. 中华围产医学杂志,2011,14(11):693-6.   
+[20]Pasquier JC,Bujold E,Rabilloud M,et al. Effect of latency period after premature rupture of membranes on 2 years infant mortality (DOMINOS study)J].Eur JObstet Gynecol Reprod Biol,2007,135 (1): 21-7.   
+[21]Pasquier JC,Picaud JC,Rabilloud M,et al.Neonatal outcomes after elective delivery management of preterm premature rupture of the membranes before 34 weeks' gestation (DOMINOS study)[J].Eur J Obstet Gynecol Reprod Biol,2009,143(1): 18-23.
+
+(编辑：经媛)

@@ -1,0 +1,563 @@
+[
+    {
+        "type": "text",
+        "text": "RPG_HATPRO_G4型地基微波辐射计温度数据质量控制方法与效果分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙艳桥12.3，汤达章’，桑建人23，王洋，吕晶晶， 田磊2,3(1 南京信息工程大学大气科学学院,江苏南京210044；2 中国气象局旱区特色农业气象灾害监测预警与风险管理重点实验室,宁夏银川750002；3宁夏气象防灾减灾重点实验室,宁夏银川750002；4平凉市气象局,甘肃平凉744000；5南京信息工程大学大气物理学院,江苏南京 210044)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对隆德站地基微波辐射计温度资料，根据数据本身规律及各类疑误数据表现形式，结合历史探空资料，利用垂直变化强度极值检查、标准差检查、极值检查、奇异值检查和僵值检查5种检查方法进行质量控制实验，与同期探空资料比对,分析其应用效果。结果表明：各质量检查结果对数据质量均有一定的区分能力，且对控制参数是敏感的;数据质量以晴空最优、云天次之、降水稍差，各高度层数据质量基本相当。质量控制结果相关性分析表明各高度层上晴空相关性最好，云天次之，降水稍差，相关性都处在较高的水平上；降水情况下质量控制效果最显著。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：地基微波辐射计；温度；探空；质量控制 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着气象科学事业的不断深人与发展，新型仪器仪表有力地推动着气象观测能力和技术手段的提高，气象观测的数据量不断增加，然而气象资料质量往往受到测站位置、观测仪器、观测技术、观测时间、观测方法等非气象因素的影响[1-3]。气象资料的质量控制是气象资料处理中一项十分重要的工作[4」，观测研究必须对其所用的资料首先进行质量检查与处理，这样才能揭示真实的天气、气候变化特征与规律[5]。因此,结合气象数据特点和新型仪器仪表的信息获取原理与方法，开展新型气象仪器仪表的观测数据验证和质量控制研究，可为气象观测和数据应用提供技术保障[6]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地基微波辐射计是观测不同高度大气参数的新型探测设备，可同时反演高垂直分辨率的大气温度、湿度、液态水廓线和大气垂直积分水汽、云液态水总量等数据，具有可无人值守连续工作、高时间和空间分辨率、操作简洁方便等优点，是对常规探空的有益补充，已逐渐成为遥感大气温度、湿度、液态水廓线以及大气水汽和云液态水总量的有力工具[7-14]利用地基微波辐射计，可高效、准确观测降水前后云中水汽、液态水含量分布和变化，为暴雨天气预报、人工增雨作业提供有力的监测手段[15-19]。不同季节和天气条件下微波辐射计探测资料的精度有差异[20-23],微波辐射计反演系数不当、天线罩上的积水、电磁干扰、电源、通信等外界影响会导致观测数据出现异常，因此，开展系统的质量控制是合理有效使用微波辐射计探测资料的基础[24-25] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对常规气象观测数据，国内外气象工作者提出了多种质量控制方案。COLLINS[26]给出了针对大气探空资料中高度和温度的质量控制方法，发展和完善了常规质量控制方法。DURRE[27]针对全球探空数据集设计了一套完整的质量控制系统，对温度超过气候极值、垂直一致性差、僵值、时间突变等多种类型的疑误数据设计了不同的检查方法。熊安元[28]介绍了北欧国家对实时和非实时气象资料进行质量控制的流程以及采用的方法、技术等。张志富[29]研制了适用于自动站土壤水分小时数据的质量控制方案。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "微波辐射产品属非常规气象探测数据，产品一般分为3级，其中Level-0为原始电压，Level-1为亮温，Level-2为温、湿度廓线及垂直积分水汽、液态水含量等产品。因其时间分辨率更高，探测原理、错误来源、疑误数据表现形式与常规气象资料存在差异，针对常规气象观测资料的质量控制方法不完全适用于微波辐射计[25]。鉴于此,国内部分气象工作者对微波辐射计数据质量控制进行了研究。李青等基于辐射传输理论,检验了一台多通道微波辐射计亮温数据的“晴空”观测和数值模拟结果之间的一致性。朱雅毓等[24]针对地基微波辐射计,研究其亮温数据的质量控制方案,提出极值、时间一致性、辐射传输计算、多通道亮温交叉检查。敖雪等[3 通过个例分析微波辐射计观测值与计算值的一致性,并判断各通道观测值的合理性。这些质量控制方法主要针对Level-1数据展开，而针对Level-2数据研究较少。目前，国内应用较多的是以美国MP-3000A为代表，以“串行常规合成器变频技术”为基础的地基微波辐射计。而德国RPG公司研制的RPG-HATPRO-G4型地基多通道微波辐射计（以下简称RPG)采用“多通道并行测量技术”，其工作原理与MP-3000 A型地基微波辐射计不同,有其自身的技术特点[31]。本研究利用甘肃平凉气象站历史探空资料和宁夏隆德县气象站RPG-HATPRO-G4型地基多通道微波辐射计资料，在总结前人数据质量控制方法的基础上，根据数据本身的特点及各种类型疑误数据表现形式，首次给出了一套针对RPG-HATPRO-G4型地基多通道微波辐射计Level-2温度数据的质量控制方法，为业务中有效使用其温度资料提供技术支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选用隆德气象站 $( 3 5 . 3 7 ^ { \\circ } \\mathrm { N } , 1 0 6 . 0 7 ^ { \\circ } \\mathrm { E }$ ,海拔$2 \\ 0 7 8 \\ \\mathrm { m }$ )2017年6月10日 $\\sim 2 0 1 7$ 年12月31日（仪器于6月9日完成标定)RPG温度数据展开研究,其时间分辨率为 $1 ~ \\mathrm { m i n }$ ,垂直高度 $( H ) 0 \\sim 1 0 ~ \\mathrm { k m }$ 内共93层，垂直分辨率见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选用甘肃平凉站， $( 3 5 . 5 5 ^ { \\circ } \\mathrm { N } , 1 0 6 . 6 7 ^ { \\circ } \\mathrm { E }$ ,海拔$1 \\ 4 6 8 \\ \\mathrm { m }$ ,距隆德气象站 $4 9 \\ \\mathrm { k m }$ )2013—2017年 $6 \\sim 1 2$ 月每日两次(08时，20时)的探空数据，作为确定质量控制阈值的样本。每组数据时间分辨率为1s,垂直分辨率为 $6 \\sim 7 \\mathrm { ~ m ~ }$ 。探空资料已通过台站级质量控制，可直接使用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1RPG温度廓线垂直分辨率／m",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/6654895149dd14c22e5355ad6071083ef749b1ba9c29b5ef0f8eaddb97ef2ebf.jpg",
+        "table_caption": [
+            "Tab.1Vertical resolution of the RPG temperature profile／m "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>H</td><td>分辨 率</td><td>分辨 H 率</td><td>H</td><td>分辨 率</td></tr><tr><td>0~10</td><td>10</td><td>500~1200</td><td>40 3 500~4500</td><td>160</td></tr><tr><td>10~25</td><td>15</td><td>1 200~1800</td><td>60 4 500~6000</td><td>200</td></tr><tr><td>25~100</td><td>25</td><td>1 800~2 500</td><td>90 6 000~9 800</td><td>300</td></tr><tr><td>100~500</td><td>30</td><td>2 500~3 500</td><td>120 9 800~10 000</td><td>200</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对RPG数据和探空数据做如下处理：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）统一高度：将探空数据插值到对应RPG93个高度层上，共获得探空廓线样本2139个，探空数据样本197065个。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）统一时间：将RPG时间格式转换为北京时，根据2017年6月 $\\sim 2 0 1 7$ 年12月插值后探空数据起止时间，选取对应时间范围内的RPG温度数据，共获得温度廓线样本9679个，数据样本900147个。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 质量控制方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对RPG温度廓线数据特点，根据ZAHUMEN-SKY[1]、马小红[2]、王伯民[4]等质量控制设计思路和方法，设计垂直一致性检查、极值检查和时间一致性检查3类检查方法（含5个单项检查方法），并最终给出组合和加权2种综合检查结果（图1）。综合考虑检查结果的区分度和效果，均将3类、5项检查结果分成4档，分别用数据质量标识符0、3、6、9区分标识[24]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1垂直一致性检查相邻高度上温度差异应在一定范围内，探空温度资料质量控制一般都包含垂直一致性检查[27]。常见不满足垂直一致性的情况主要有垂直方向存在奇异值、层际变化大等特征[25]。RPG 温度廓线数据记为 $T$ ,垂直变化强度记为 $d T _ { h } ^ { \\ [ 3 2 ] }$ [单位： $\\mathrm { ~  ~ \\mathcal ~ { ~ C ~ } ~ } \\cdot \\mathrm { ~  ~ ( ~ \\imath 0 0 ~ \\ m ~ ) ~ } ^ { - 1 } \\cdot \\mathrm { ~  ~ \\chi ~ } _ { \\mathrm { ~ \\tiny ~  ~ } }$ 1,计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd T _ { h } = 1 0 0 \\times { \\frac { \\Delta T } { \\Delta H } } = 1 0 0 \\times { \\frac { T _ { h + 1 } - T _ { h } } { H _ { h + 1 } - H _ { h } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $T _ { h } , T _ { h + 1 }$ 为第 $h , h + 1$ 层温度； $H _ { h } \\setminus H _ { h + 1 }$ 为对应的高度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）垂直变化强度极值检查",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "垂直变化强度极值检查就是 $d T _ { h }$ 应在历史探空样本垂直变化强度 $\\left( d T s \\right)$ 的最大、最小值之间取值。考虑 $d T _ { h }$ 存在显著的季节性，且在各高度上存在差异，开展检查时，以自然月各高度层为划分单位，参考探空资料统计结果，针对6\\~12月92层分别设置检查阈值,最大、最小值分别记为 $d T s _ { h m a x } \\backprime T s _ { h m i n }$ ，定义δ为二者之差除以100。依据所获阈值，逐廓线逐层开展检查，数据质量标识符用 $n _ { 1 }$ 表示，含义见表2。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/388dfa6d0e5aa47770d429edec4ff2069ea25fc16edaf3b4d132ec436ea61ea2.jpg",
+        "img_caption": [
+            "图1RPG 温度数据质量控制方案流程",
+            "Fig.1Flow chart for quality control procedure of RPG temperature data "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）垂直变化强度标准差检查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "垂直变化强度标准差检查以温度层际变化不应太大为依据,将垂直变化强度标准差记为 $\\sigma ^ { [ 2 5 ] }$ ，见(2)式，其中 $m$ 为廓线样本数。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = \\sqrt { \\frac { 1 } { m } \\sum _ { \\mathfrak { h } = 1 } ^ { m } \\left( d T _ { \\mathfrak { h } } - \\overline { { d T _ { h } } } \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "垂直变化强度标准差检查采用动态阈值，即当日当层 $\\sigma$ 值由当天为中心，步长为 $1 5 \\mathrm { ~ d ~ }$ 的该层dTs样本求得。根据朱雅毓[24]分档和质量标识方法，逐廓线逐层进行检查，对满足一定条件的数据进行质量标识。考虑六盘山区相邻时刻温度变化及垂直变化强度较东部沿海地区大，质量控制阈值进行一定尺度放宽，数据质量标识符用 $n _ { 2 }$ 表示，含义见表3。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/001053603e7f965794deefe13baf6edfb69afcd8ea620daa783006bf2a0aa53a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>n1</td><td>检查条件</td></tr><tr><td>0</td><td>dTh ∈[dTshmin,dTshmax]</td></tr><tr><td>3</td><td>dTh ∈[dTshmin-38,dTshmin]U[dTshmax,dTshmax +38]</td></tr><tr><td>6</td><td>dTh ∈[dTshmin-6δ,dTshmin-38]U[dTs hmax +38,dTshmax +68]</td></tr><tr><td>9</td><td>dTh ∈[-∞,dTshmin-6δ]U[dTshmax +6δ,+∞]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3垂直变化强度标准差检查数据质量标识符 $\\mathbf { n } _ { 2 }$ 取值解释",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d4fd5a6e12a1c5737072753f00891217151c2a926398e0d755ad14b1c71014ef.jpg",
+        "table_caption": [
+            "Tab.3Values of quality identifier $\\mathbf { n } _ { 2 }$ for standard deviation check of vertical change intensity and the corresponding meaning "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>n2</td><td>检查条件</td></tr><tr><td>0</td><td>dTh ∈[dTh ±2g]</td></tr><tr><td>3</td><td>dTh ∈[dTh-2.5σ,dTh-2σ]U[dTh+2o,dTh +2.5σ]</td></tr><tr><td>6</td><td>dTh ∈[dTh-3σ,dTh -2.5σ]U[dTh +2.5σ,dTh +3σ]</td></tr><tr><td>9</td><td>dTh ∈[-∞,dTh-3σ]U[dTh+3σ，+∞]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）垂直一致性综合检查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合加权判别技术[4 和数据质量分档标识方法[24],垂直一致性综合检查数据质量标识符用 $N _ { 1 }$ 表示，含义见表4。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2极值检查极值检查就是 $T$ 应在历史探空样本温度最大、最小值之间取值。开展极值检查时，以自然月各高度层为划分单位，参考探空历史资料统计结果，针对6月 $\\sim 1 2$ 月93层分别设置极值检查阈值，分别记为 $T _ { s _ { m a x } }$ 和 $T _ { S _ { m i n } }$ ，定义 $\\mathbf { \\chi } _ { t }$ 为二者之差除以100，数据质量标识用 $N _ { 2 }$ 表示，含义见表5。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b4f9c570a8de942591dc2fbf71259938f9ab5f96f2fce57ecf3aa58e1c5f874.jpg",
+        "table_caption": [
+            "表2垂直变化强度极值检查数据质量标识符 ${ \\pmb n } _ { 1 }$ 取值解释 Tab.2Values of quality identifier ${ \\pmb n } _ { 1 }$ for extreme value check of vertical change intensity and the corresponding meaning ",
+            "表4垂直一致性综合检查数据质量标识符 $N _ { 1 }$ 取值解释 Tab.4Values of quality identifier $N _ { 1 }$ for comprehensive check of vertical consistency and the corresponding meaning "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>N</td><td>检查条件</td><td>N</td><td>检查条件</td></tr><tr><td>0</td><td>n+n=0</td><td>6</td><td>n1 +n=6</td></tr><tr><td>3</td><td>n +n=3</td><td>9</td><td>n+n≥9</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表5极值检查数据质量标识符 $N _ { 2 }$ 取值解释 表8时间一致性综合检查数据质量标识符 ${ \\cal N } _ { 3 }$ 取值解释",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9654df2da86b450f1e1e0d7dc46c4c8dbcf2528144fe9f9a86722b68731e414a.jpg",
+        "table_caption": [
+            "Tab.5Values of quality identifier $N _ { 2 }$ for extreme value check and the corresponding meaning "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>N2</td><td>检查条件</td></tr><tr><td>0</td><td>T∈[Tsmin,Tsmax]</td></tr><tr><td>3</td><td>T∈[Tsmin -3t,Tsmin]U[Tsmax,Tsmax +3t]</td></tr><tr><td>6</td><td>T∈[Tsmin -6t,Tsmin -3t]U[Tsmax +3t,Tsmax +6t]</td></tr><tr><td>9</td><td>T∈[-∞,Tsmin -6t]U[Tsmax +6t,+∞]</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. 2.3 时间一致性检查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）奇异值检查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "奇异值检查，适用于温度随时间变化存在突变的数据。定义相邻时次变化值超过其平均值 $m$ 倍标准差的数据为疑误数据[25]（定义见(3）、（4)式）。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| ~ d T _ { t } - \\overline { { d T _ { t } } } ~ \\right| ~ > m \\times \\sigma\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd T _ { t } = T _ { t } - T _ { t + 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $d T _ { t }$ 为温度随时间的变化值； $\\boldsymbol { T } _ { t }$ 和 $\\boldsymbol { T } _ { { t + 1 } }$ 分别为$\\mathbf { \\Phi } _ { t }$ 和 $( t + 1 )$ 时刻温度； $m$ 为偏离标准差的倍数； $\\sigma$ 定义见(2)式。质量控制阈值 $\\sigma$ 仍采用动态阈值，数据质量标识符用 $n _ { 4 }$ 表示，含义见表6。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）僵值检查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "僵值检查适用于温度随时间变化而无变化的数据，依据相邻时次廓线值连续不变的条数（记为 $\\mid m$ )划分数据质量等级，质量标识符用 $n _ { 5 }$ 表示，含义见表7。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3）时间一致性综合检查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "时间一致性综合检查数据质量标识符用 ${ \\cal N } _ { 3 }$ 表示，含义见表8。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表6奇异值检查数据质量标识符 ${ \\pmb n } _ { 4 }$ 取值解释",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c461100c2295db852d85841ff43fac3b0010a3775f639bace821a8a48657aef.jpg",
+        "table_caption": [
+            "Tab.6Values of quality identifier ${ \\pmb n } _ { 4 }$ for singular value check and the corresponding meaning "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>n4</td><td>检查条件</td></tr><tr><td>0</td><td>dT,∈[dT,±2σ]</td></tr><tr><td>3</td><td>dT,∈[dT,-3σ,dT,-2σ]U[dT,+2σ,dT,+3σ]</td></tr><tr><td>6</td><td>dT,∈[dT,-4σ,dT,-3σ]U[dT,+3σ,dT,+4σ]</td></tr><tr><td>9</td><td>dT,∈[-∞,dT,-4σ]U[dT,+4σ,+∞]</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表7僵值检查数据质量标识符 $\\mathbf { \\delta } _ { \\pmb { n } _ { 5 } }$ 取值解释",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/35d49a548f4d774cdc691f315b2158c6abce58818613f7548accf28e4dfa2fa0.jpg",
+        "table_caption": [
+            "Tab.7Values of quality identifier $\\pmb { n } _ { 5 }$ forinvariable value check and the corresponding meaning "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>n5</td><td>检查条件</td><td>n5</td><td>检查条件</td></tr><tr><td>0</td><td>m=0</td><td>6</td><td>m∈[6,9]</td></tr><tr><td>3</td><td>m∈[2,5]</td><td>9</td><td>m∈[10,+∞]</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6e85fce73207672dc49d9f443bfa85fb95323901555a3a4c393424a704faa777.jpg",
+        "table_caption": [
+            "Tab.8Values of quality identifier $N _ { 3 }$ for comprehensive check of time consistency and the corresponding meaning "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>N3</td><td>检查条件</td><td>N3</td><td>检查条件</td></tr><tr><td>0</td><td>n4+n5=0</td><td>6</td><td>n4+n5=6</td></tr><tr><td>3</td><td>n4 +n5 =3</td><td>9</td><td>n4+n5≥9</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4综合检查完成3类检查后，进行综合检查。综合检查中，组合检查定义为3类检查质量标识符的各类组合( $\\mathrm { ~ ' ~ } N = N _ { 1 } N _ { 2 } N _ { 3 } \\mathrm { ~ ) ~ }$ ， $N$ 各数位值越大,相应数据疑点越大；加权检查定义为3类检查质量标识符之和( $F = N _ { 1 } + N _ { 2 } + N _ { 3 } ,$ ）， $F$ 值越大，数据疑点越大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 三类质量检查结果分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为对比不同天气背景、不同高度的数据质量检查结果,将 $N _ { 1 } \\setminus N _ { 2 }$ 和 $N _ { 3 }$ 的93层数据间隔 $5 0 0 \\mathrm { ~ m ~ }$ 分割为20层，并按不同天气背景条件分别进行频率分布统计（图2）。其中晴空（各高度层相对湿度 $\\vert <$ $8 5 \\ \\%$ [33]）、云天(无降水且有1层及以上相对湿度$9 \\%$ ）、降水样本数分别为477834、326802、95 511个。晴空背景下各高度层 $N _ { 1 } = 0 , N _ { 2 } = 0$ 、$N _ { 3 } = 0$ 的数据占比均分别高于 $9 4 . 2 8 \\% . 9 9 . 9 1 \\%$ 、$9 2 . 6 4 \\%$ ;云天背景下各高度层 $N _ { 1 } = 0 \\ : { \\mathrm { , } } \\ : N _ { 2 } = 0 \\ : { \\mathrm { , } } \\ : N _ { 3 } = 0$ 的数据占比均分别高于 $9 5 . 5 3 \\% . 9 8 . 2 6 \\%$ $9 3 . 2 7 \\%$ ;降水背景下各高度层 $N _ { 1 } = 0 \\ : { \\mathrm { , } } \\ : N _ { 2 } = 0 \\ : { \\mathrm { , } } \\ : N _ { 3 } = 0$ 的数据占比均分别高于91. $8 3 \\%$ 、91. $6 2 \\%$ 、$7 8 . 7 7 \\%$ 。3类检查方法对数据质量均有一定的指示能力，数据质量均以晴空最优、云天次之、降水最低 $, N _ { 1 } = 9 \\ : _ { \\cdot } N _ { 2 } = 9 \\ : _ { \\cdot } N _ { 3 } = 9$ 均以降水背景贡献最大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2综合质量检查结果与区分度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综合检查中 $N$ 各位数的取值或 $F$ 值的大小,对应着一定的数据质量区分能力,称为区分度[24]。对$N$ 进行全样本统计，对 $F$ 进行不同天气背景及全样本的分类统计，具体分析如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）全样本900147个数据随 $N$ 的变化如表9所示， $N = 0 0 0$ 数据个数为811859，占数据总量的90. $19 \\%$ $N$ 各位数最大的组合为 $N = 3 9 9$ ,其数据个数仅为94，占数据总量的 $0 . 0 1 \\%$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）全样本及不同天气背景下数据样本随 $F$ 的变化如表10所示，取 $F \\leqslant 3$ ,则全样本、晴空、云天、降水情况下，可能高质量数据分别占各自数据量表9全样本组合检查 $N ( N _ { 1 } N _ { 2 } N _ { 3 } )$ 对应数据个数的 $9 6 . 5 1 \\% . 9 7 . 8 6 \\% . 9 7 . 8 3 \\%$ 和 $8 4 . 2 1 \\%$ 。数据个数不为0的 $F$ 最大值为21，全部出现在降水数据中。可见，晴空和云天背景数据质量都很高，均优于降水背景数据，但即使是数据质量相对较差的降水背景数据， $F { \\leqslant } 3$ 数据个数依然占降水背景数据样本总量的 $8 4 . 2 1 \\%$ ，这说明微波辐射计观测性能优良。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/200d9dc34000999ac1d232700e1e1ce30a652406aef9f6b15a3f2fd3ba932615.jpg",
+        "img_caption": [
+            "图2不同天气背景、不同高度、不同检查方式微波辐射计温度数据质量检查结果频率分布 Fig.2Frequencydistributionofmicrowaveradiometertemperaturedataqualitycheckresults indiferent weatherconditions, at different heights and through different check methods "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a3ec8dd5e5594e027938fd7b9c33b000ea21dbc5572adf9c11cbf7cdfc67c2f7.jpg",
+        "table_caption": [
+            "Tab.9Corresponding data number of combination check result $N$ $\\textit { \\textbf { \\langle } ( N _ { 1 } N _ { 2 } N _ { 3 } ) }$ with full sample size "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>N</td><td>数据个数</td><td>N</td><td>数据个数</td><td>N</td><td>数据个数</td><td>N</td><td>数据个数</td></tr><tr><td>000</td><td>811 859</td><td>300</td><td>21 592</td><td>600</td><td>6169</td><td>900</td><td>1 333</td></tr><tr><td>003</td><td>34 846</td><td>303</td><td>1 197</td><td>603</td><td>295</td><td>903</td><td>61</td></tr><tr><td>006</td><td>7390</td><td>306</td><td>333</td><td>606</td><td>187</td><td>906</td><td>15</td></tr><tr><td>009</td><td>11 729</td><td>309</td><td>475</td><td>609</td><td>144</td><td>909</td><td>4</td></tr><tr><td>030</td><td>408</td><td>330</td><td>2</td><td>630</td><td>0</td><td>930</td><td>1</td></tr><tr><td>033</td><td>66</td><td>333</td><td>0</td><td>633</td><td>0</td><td>933</td><td>0</td></tr><tr><td>036</td><td>27</td><td>336</td><td>7</td><td>636</td><td>0</td><td>936</td><td>0</td></tr><tr><td>039</td><td>121</td><td>339</td><td>13</td><td>639</td><td>0</td><td>939</td><td>0</td></tr><tr><td>060</td><td>106</td><td>360</td><td>4</td><td>660</td><td>0</td><td>960</td><td>0</td></tr><tr><td>063</td><td>36</td><td>363</td><td>1</td><td>663</td><td>0</td><td>963</td><td>0</td></tr><tr><td>066</td><td>33</td><td>366</td><td>6</td><td>666</td><td>0</td><td>966</td><td>0</td></tr><tr><td>069</td><td>135</td><td>369</td><td>13</td><td>669</td><td>0</td><td>969</td><td>0</td></tr><tr><td>090</td><td>319</td><td>390</td><td>22</td><td>690</td><td>2</td><td>990</td><td>1</td></tr><tr><td>093</td><td>327</td><td>393</td><td>16</td><td>693</td><td>1</td><td>993</td><td>0</td></tr><tr><td>096</td><td>78</td><td>396</td><td>2</td><td>696</td><td>0</td><td>996</td><td>0</td></tr><tr><td>099</td><td>677</td><td>399</td><td>94</td><td>699</td><td>0</td><td>999</td><td>0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 敏感度分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "垂直变化强度标准差检查结果 $n _ { 2 }$ 和时间一致性奇异值检查结果 $n _ { 4 }$ 依赖于各自的 $\\sigma$ 值。如果分别以各自 $\\sigma$ 为阈值参考值，分别做“放宽阈值”（增大 $\\sigma$ ），则相应地“ $n _ { 2 }$ 取小值”、“ $n _ { 4 }$ 取小值”的发生频率应该增加。这就是质量检查结果对质量检查阈值的敏感度[24]。n 和n4分别以各自σ作为参考值,将其百分比增量记为 $\\Delta , \\Delta$ 从 $- 2 5 \\% \\sim 2 5 \\%$ 每隔$2 . 5 \\%$ 取一值，重新对微波辐射计温度全样本数据进行检查结果的频率分布统计，如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可见，随 $\\Delta$ 增大, $n _ { 2 } = 0$ 和 $n _ { 4 } = 0$ 的频率逐渐增大， $n _ { 2 } > 0$ 和 $n _ { 4 } > 0$ 各档的频率均逐渐减小，表明数据质量控制结果对控制参数是敏感的。在微波辐射计温度数据的后续使用中，用户可根据需要，通过设置质量控制符门限来控制使用的数据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 相关性分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据同期探空资料起止时间选取获得RPG 温度廓线样本9679条，其中晴空、云天、降水样本分别为5138、3514、1027条。基于综合质量加权检",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表10不同天气背景下加权检查 $F ( N _ { 1 } + N _ { 2 } + N _ { 3 } )$ 对应数据个数及频率",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/18997d79981eb739f0228b14f0c6845757288d37695570eb778494be9e1d0106.jpg",
+        "table_caption": [
+            "Tab.10 Corresponding data number and frequency of weighted check result $F$ $( N _ { 1 } + N _ { 2 } + N _ { 3 }$ 一 in different weather conditions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">F</td><td>全样本</td><td>晴空</td><td>云天</td><td>降水</td></tr><tr><td>数据个数(频率／%)</td><td>数据个数(频率／%)</td><td>数据个数(频率／%)</td><td>数据个数(频率／%)</td></tr><tr><td>0</td><td>811 859(90.192)</td><td>436 926(91.439)</td><td>301 201(92.166)</td><td>73 732(77. 197)</td></tr><tr><td>3</td><td>56 846(6.315)</td><td>30 681(6.424)</td><td>18 512(5.665)</td><td>7 653(8.013)</td></tr><tr><td>6</td><td>14 930(1.659)</td><td>7 255(1.518)</td><td>5 139(1.573)</td><td>2 536(2.655)</td></tr><tr><td>9</td><td>14 076(1.564)</td><td>2 791(0.584)</td><td>1 855(0.568)</td><td>9 430(9.873)</td></tr><tr><td>12</td><td>1 235(0.137)</td><td>161(0. 034)</td><td>83(0.025)</td><td>991(1. 038)</td></tr><tr><td>15</td><td>409(0.045)</td><td>17(0.004)</td><td>12(0.004)</td><td>380(0.398)</td></tr><tr><td>18</td><td>698(0. 078)</td><td>3(0.001)</td><td>695(0.728)</td><td></td></tr><tr><td>21</td><td>94(0.010)</td><td></td><td>94(0.098)</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f7e1d02f3fcde4f9c4988d89b31d646241e07114f8a01ec5cae6873120d128e.jpg",
+        "img_caption": [
+            "图3垂直变化强度标准差检查( $\\dot { \\left. n _ { 2 } \\right. }$ )和时间一致性奇异值检查 $\\left( n _ { 4 } \\right)$ 各档取值频率随 $\\Delta$ 的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/27ffc9fbc50bc0558418625b52609f1d42ab2e881e4c440910213cf155d6dca4.jpg",
+        "img_caption": [
+            "Fig.3Variation of frequency distribution at all data quality levels along with the change of $\\Delta$ values in the cases of standard deviation check $\\left( n _ { 2 } \\right)$ ）of vertical change intensity and time consistency check（ $\\left( n _ { 4 } \\right)$ ）of singular value check ",
+            "图4不同天气背景下加权检查( $F = 0$ 作为质量控制符门限)质量控制前后相关系数 $( R )$ 随高度的变化 Fig.4Variation of correlation coefficients $( R )$ along with height before and after the quality control of weighted check method $( F )$ in different weather conditions "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "查结果 $F$ 设置质量控制符门限为例，首先根据不同的 $F$ 值分别对RPG温度廓线数据进行质量控制，再将单次探空时段内RPG温度资料逐层进行平均，共获得与探空温度廓线一一对应的廓线分别为232、$^ { 1 6 8 , 6 4 }$ 条。最后按不同高度与对应的探空数据进行相关统计，得到不同天气背景下加权检查质量控制前后相关系数随高度的变化结果，如图4所示，图中各相关系数均通过了显著性水平为0.01的显著性检验。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "可见，各高度层上晴空背景下相关性最好，云天次之，降水较晴空和云天稍差，但总体相关性处在较高水平上。以 $F = 0$ 作为质量控制符门限为例，质量控制后对应整层相关系数平均值分别为晴空0.967、云天0.934、降水0.880。降水情况下质量控制后相关系数有一定提高， $F = 0 , F \\cong 3$ 所对应数据的相关系数与质量控制前数据的相关系数相比分别提高0.015和0.008。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综合以上分析,得出主要结论如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）各类数据质量检查结果对数据质量均具有一定的区分能力，数据质量以晴空最优、云天次之、降水稍差，微波辐射计观测性能优良。（2）数据质量控制结果对控制参数是敏感的，在微波辐射计温度数据的后续使用中，通过设置质量控制符门限来控制使用的数据。(3）质量控制前后，各高度层上晴空背景下数据相关性最好，云天次之，降水较晴空和云天稍差，相关性都处在较高的水平上，降水情况下的数据质量控制效果最显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] ZAHUMENSKY I,SHMI J.Guidelines on quality control procedures for data from automatic weather stations[S].World Meteorological Organization,2004. [2] 马小红,苏永红,鱼腾飞,等.荒漠河岸胡杨林生态系统涡度相 关通量数据处理与质量控制方法研究[J].干旱区地理,2015，   \n38(3）:626-635.[MA Xiaohong,SU Yonghong,YU Tengfei,et al.Data processing and quality control of eddy covariance in desert riparian forest[J].Arid Land Geography,2015,38（3）:626-   \n635.] [3］刘小宁,任芝花.地面气象资料质量控制方法研究概述[J].气 象科技,2005,33（3）：199-203.[LIU Xiaoning,REN Zhihua. Progress in quality control of surface meteorological data[J].Meteorological Science and Technology,2005,33（3）:199-203] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[4]王伯民.基本气象资料质量控制综合判别法的研究[J].应用 气象学报,2004,15（增刊）:50-58.[WANG Bomin.A study on synthetic differentiation method for basic meteorological data quality control[J].Journal of Applied Meteorological Science,2004,15 （Suppl.）:50-58.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[5］任芝花,刘小宁,杨文霞.极端异常气象资料的综合性质量控 制与分析[J].气象学报,2005,63（4）:526-533.[REN Zhihua,LIU Xiaoning,YANG Wenxia. Complex quality control and analysis of extremely abnormal meteorological data[J].Acta Meteorologica Sinica,2005,63(4） :526-533.]   \n[6]李青,胡方超,楚艳丽,等.北京一地基微波辐射计的观测数据 -致性分析和订正实验[J].遥感技术与应用,2014,29（4）： 547-556.[LI Qing,HU Fangchao,CHU Yanli,et al.A consistency analysis and correction of the brightness temperature data observed with a ground based microwave radiometer in Beijing[J]. Remote Sensing Technology and Application,2014,29(4）:547 - 556.]   \n[7］黄建平,何敏,阎虹如,等.利用地基微波辐射计反演兰州地区 液态云水路径和可降水量的初步研究[J].大气科学,2010,34 (3）:548-558.[HUANG Jianping,HE Min,YAN Hongru,et al. A study of liquid water path and precipitable water vapor in Lanzhou area using ground-based microwave radiometer[J]. Chinese Journal of Atmospheric Sciences,2010,34(3）:548-558.]   \n[8］陈添宇,陈乾,丁瑞津.地基微波辐射仪监测的张掖大气水汽 含量与雨强的关系[J].干旱区地理,2007,30（4）：501－506. [CHEN Tianyu,CHEN Qian,DING Ruijin.Relationship between atmospheric vapor content monitored by ground-based microwave radiometer and rain intensity in Zhangye Prefecture[J].Arid Land Geography,2007,30(4）:501-506.]   \n[9］赵维忠,孙艳桥,桑建人.利用地基双频段微波辐射计遥感宁 夏大气汽态水含量[J].宁夏工程技术,2011,10（1)：7-11. [ZHAO Weizhong,SUN Yanqiao,SANG Jianren,et al.Remote measuring water vapor distribution of Ningxia atmosphere with ground-based dual-channel microwave radiator[J].Ningxia Engineering Technology,2011,10（1）:7-11.]   \n[10］田磊,孙艳桥,胡文东,等.银川地区大气水汽、云液态水含量 特性的初步分析[J].高原气象,2013,32（6）：1774-1779. [TIAN Lei,SUN Yanqiao,HU Wendong,et al.Preliminary analysis of he characteristics of atmosphere water vapor and cloud liquid water in Yinchuan area[J].Plateau Meteorology,2013,32 (6) :1774 -1779.]   \n[11］刘红燕,王迎春,王京丽,等.由地基微波辐射计测量得到的北 京地区水汽特性的初步分析[J].大气科学,2009,33（2）： 388-396.[LIU Hongyan,WANG Yingchun,WANG Jingli,et al. Preliminary analysis of the characteristics of precipitable water vapor measured by the ground-based 12-channel microwave radiometer in Beijing[J].Chinese Journal of Atmospheric Sciences, 2009,33(2) :388 -396.]   \n[12］姚俊强,杨青,韩雪云,等.乌鲁木齐夏季水汽日变化及其与降 水的关系[J].干旱区研究,2013,30（1）:67-73．［YAO Junqiang,YANG Qing,HAN Xueyun,et al. Analysis on daily variation of water vapor and its relationship with rainfall in Urumqi in summer[J].Arid Zone Research,2013,30(1) :67 -73.]   \n[13］张秋晨,龚佃利,冯俊杰.RPG-HATPRO-G3 地基微波辐射计反 演产品评估[J].海洋气象学报,2017,37（1)：104－110.[ ZHANG Qiuchen,GONG Dianli,FENG Junjie.Analysis and evaluation of retrieval products of RPG-HATPRO-G3 ground-based microwave radiometers[J].Journal of Marine Meteorology,2017,37 (1) :104 -110.] [14］郭丽君,郭学良.利用地基多通道微波辐射计遥感反演华北持 续性大雾天气温、湿度廓线的检验研究[J].气象学报,2015,   \n73（2）:368 -381.[GUO Lijun,GUO Xueliang.Verification study of the atmospheric temperature and humidity profiles retrieved from the ground-based multi-channels microwave radiometer for persistent foggy weather events in northern China[J].Acta Meteorologica Sinica,2015,73(2):368-381.] [15］朱元竞,胡成达,甄进明,等.微波辐射计在人工影响天气研究 中的应用[J].北京大学学报（自然科学版）,1994,30（5）：   \n597-606.[ZHU Yuanjing,HU Chengda,ZHEN Jinming,et al. The role of microwave radiometer in weather modification research [J].Acta Scientiarum Naturalium Universitatis Pekinensis,1994,   \n30(5):597 -606.] [16］雷恒池,魏重,沈志来,等.微波辐射计探测降雨前水汽和云液 水[J].应用气象学报,2001,12（增刊):73－79.[LEI Hengchi,WEI Chong,SHEN Zhilai,et al.Microwave radiometric measurement on water vapor and cloud liquid water before rainfall[ J]. Quarterly Journal of Applied Meteorology,2001,12（Suppl）:73-   \n79.] [17］黄治勇,徐桂荣,王晓芳,等.地基微波辐射资料在短时暴雨潜 势预报中的应用[J].应用气象学报,2013,24（5）:576-584. [HUANG Zhiyong,XU Guirong,WANG Xiaofang,et al.Applications of ground-based microwave radiation data to short-term rainstorm and potential forecast[J].Quarterly Journal of Applied Meteorology,2013,24(5）:576-584.] [18］党张利,张京朋,曲宗希,等.微波辐射计观测数据在降水预报 中的应用［J].干旱气象,2015,33（2）：340－343.［DANG Zhangli,ZHANG Jingpeng,QU Zongxi,et al. The application of microwave radiometer observation data on precipitation forecast [J].Journal of Arid Meteorology,2015,33(2）:340 -343.] [19］汪小康,徐桂荣,院琨.不同强度降水发生前微波辐射计反演 参数的差异分析[J].暴雨灾害,2016,35（3):227-233.［ WANG Xiaokang,XU Guirong,YUAN Kun.Diffrent characteristic analysis of inversion parameters for heavy rainfall and weak rainfall by microwave radiometer data[J].Torrential Rain and Disasters,2016,35(3):227-233.] [20］张文刚,徐桂荣,廖可文,等.降水对地基微波辐射计反演误差 的影响[J].暴雨灾害,2013,32（1）:70-76.[ZHANGWengang,XU Guirong,LIAO Kewen,et al.Impact of precipitation on the retrieval deviation of ground-based microwave radiometer[J].Torrential Rain and Disasters,2013,32(1) :70-76.] [21］刘红燕.三年地基微波辐射计观测气温廓线的精度分析[J]. 气象学报,2011,69(4）:719-728.[LIU Hongyan.The temperature profile comparison between the ground-based microwave radiometer and the other instrument for the three years[J].Acta Meteorologica Sinica,2011,69(4） :719-728.] [22］刘建忠,何晖,张蔷.不同时次地基微波辐射计反演产品评估 [J].气象科技,2012,40（3）:332-339.[LIU Jianzhong,HE Hui,ZHANG Qiang.Evaluation andanalysisof retrieval products of ground-based microwave radiometers at different times[J].Meteorological Science and Technology,2012,40(3）:332-339.]   \n[23］韩珏靖,陈飞,张臻,等.MP-3000A 型地基微波辐射计的资料 质量评估和探测特征分析[J].气象,2015,41（2)：226－233. [HAN Juejing,CHEN Fei, ZHANG Zhen,et al. Assessment and characteristics of MP-3oooA ground-based microwave radiometer [J].Meteorological Monthly,2015,41(2）:226-233.]   \n[24］朱雅毓,王振会,楚艳丽,等.地基微波辐射计亮温观测数据的 综合质量控制与效果分析[J].气象科学，2015,35（5）：621- 628.[ZHU Yayu,WANG Zhenhui,CHU Yanli,et al. Comprehensive quality control and eficiency analysis on brightness temperature data by ground-based microwave radiometer[J]. Journal of the Meteorological Sciences,2015,35（5）:621-628.]   \n[25］傅新姝,谈建国.地基微波辐射计探测资料质量控制方法[J]. 应用气象学报,2017,28(2）:209-217.[FU Xinshu,TAN Jianguo.Quality control of temperature and humidity profile retrievals from ground-based microwave radiometer[J]. Journal of Applied Meteorological Science,2017,28(2）:209 -217.]   \n[26]COLLINS W G.The operational complex quality control of radiosonde heights and temperatures at the national centers for environmental prediction[J].Journal of Applied Meteorology.2001,40 (2) :152-168.   \n[27]DURRE IM,VOSE R S,WUERTZ D B.Robust automated quality assurance of radiosonde temperatures[J]. Journal of Applied Meteorology and Climatology,2008,47(8）:2081-2095.   \n[28］熊安元.北欧气象观测资料的质量控制[J].气象科技,2003, 31(5）:314 -320.[XIONG Anyuan. Quality control of meteorological observational data in Nordic countries[J].Meteorological Science and Technology,2003,31(5）:314 -320.]   \n[29］张志富.自动站土壤水分资料质量控制方案的研制[J].干旱 区地理,2013,36(1）:101-108.[ZHANG Zhifu.Quality control schemes for hourly soil moisture from automatic weather stations in China[J].Arid Land Geography,2013,36(1):101-108.]   \n[30］敖雪,王振会,徐桂荣,等.微波辐射计亮温观测质量控制研究 [J].气象科学,2013,33（2）:130-137.[AO Xue,WANG Zhenhui,XU Guirong,et al.Study on the quality control of brightness temperature data observed with ground-based microwave radiometer[J].Journal of the Meteorological Sciences,2013,33（2）： 130 - 137.]   \n[31］李建强,李新生,董文晓,等.RPG-HATPRO 微波辐射计反演的 温度和湿度数据适用性分析[J].气象与环境学报,2017,33 （6）:89 -95.[LI Jianqiang,LI Xinsheng,DONG Wenxiao,et al. Applicability analysis of air temperature and humidity data retrieved from a RPG-HATPRO microwave radiometer[J]. Journal of Meteorology and Environment,2017,33(6）):89 -95.]   \n[32］刘增强,郑玉萍,李景林,等.乌鲁木齐市低空大气逆温特征分 析[J].干旱区地理,2007,30(3）:351-356.[LIU Zengqiang, ZHENG Yuping,LI Jinglin,et al.Temperature inversion characteristics of low-air atmosphere of Urumqi City[J].Arid Land Geography,2007,30(3):351-356.]   \n[33］黄润恒,邹寿详.两波段微波辐射计遥感云天大气的可降水和 液态水[J].大气科学,1987,11(4）:397-403.[HUANG Runheng,ZOU Shouxiang.Remote sensing of total water vapor and liquid content of cloudy atmosphere by two-wavelength microwave ra diometry[J]. Scientia Atmospherica Sinica,1987,11（4）:397 - 403.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Quality control method and efficiency analysis on temperature data by RPG-HATPRO-G4 type ground-based microwave radiometer ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SUN Yan-qiao $^ { 1 , 2 , 3 }$ ,TANG Da-zhang',SANG Jian-ren²3, WANG Yang4,LYUJing-jing,TIALe23 (1CollegeoftmosphericSences,njing UniversityfIformationSiencendTechology,njingo44,ngsu,ina; 2KeyLaboratoryfor MeteorologicalDisaster MonitoringandEarly WarningandRisk ManagementofCharacteristicAgriculture inArid Regions,Yinchuan750o02,Ningxia,China；3Ningxia KeyLaboratoryofMeteorological Disaster Preventionand Reduction,Yinchuan75oo02,Ningxia,China；4Pingliang Meteorological Bureau,Pingliang 7440o,Gansu,China; 5SchoolofAtmospherichsics,NnjingUniversityfIformationienceandTechnology,Nnjing0,Jngsu,na) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The quality control of meteorological data is avery important work in the processng of meteorological data,because the microwaveradiation products are unconventional meteorologicalobservation data,so the method of qualitycontrol for conventional meteorological observation data is notfully applicable to microwaveradiometer.In order to study thequality control method on the temperature data by RPG-HATPRO-G4 type ground-based multichannel microwave radiometer and provide technical support for efective use of temperature data,this paper proposes five methods according to the rules of data itself and various types of the wrong data using the temperature data collected by RPG-HATPRO-G4 type ground-based multichannel microwave radiometer at Longde Station,Ningxia Province,China,combined with the 5-year historical sounding data from Pingliang Station,Gansu Province,China which is 49 kilometers far from the Longde Station.The five methods include extreme value check of vertical change intensity,standard deviation check of vertical change intensity,extreme value check,singular value check and invariable value check.Theyare further combined into threetypes:comprehensive check of vertical consistency,extreme value check and comprehensive check of time consistency.And then the combination check and weighted check results aregivenbysynthesizing the three types of check results.Finally,inorder toanalyzethe effectof these methods,we applied these methods to the collcted data and compared the results with the sounding data in the same period.Theresults show thatthe data quality in thecase of clear weatheris beterthan that inthe case of cloud and precipitation weather,and the data in thecloud weather is beter than that in the precipitation weather.For the abovementioned 3 weather conditions,the data portion of high quality accounts for $9 7 . 8 6 \\%$ $9 7 . 8 3 \\%$ and $8 4 . 2 1 \\%$ of their corresponding overall data respectively.The data qualityateach layer is basically equal,the data of poor qualityare mostly contributed bythe precipitation weather.Combinationcheck and weighted check both have better ability to measure data quality and the respective quality control results are sensitive to the corresponding control parameters.The corelation analysis ofthequalitycontrol results shows thatthecorrelation is thebest in thecaseof clear weather at each altitude,followedbythe cloudy weather,and the worst for the precipitation weather,and their correlationcoeffcientsareallathighlevels.The effectof data qualitycontrolis the mostobvious inthecase of precipitation weather.Theexperiment inthis studydemonstrated this scheme of dataqualitycontrol is feasible and provided the mechanism to distillthe temperaturedata from the RPG-HATPRO-G4 type ground-based multichannel microwave radiometer for other applications. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:ground-based microwave radiometer;temperature ;sounding data;quality control ",
+        "page_idx": 8
+    }
+]

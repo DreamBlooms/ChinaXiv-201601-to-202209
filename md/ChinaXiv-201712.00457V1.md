@@ -1,0 +1,90 @@
+# 临床研究
+
+# 介入栓塞术中灌注不同化疗药物治疗子宫疤痕妊娠
+
+卢 斌',徐美芳',刘 淮²,黄齐香²,刘丹平²  
+无锡市妇幼保健院妇产科,江苏 无锡 214000；江西省妇幼保健院妇产科,江西 南昌 330006
+
+摘要：目的 探讨介人栓塞术中灌注不同化疗药物治疗子宫疤痕妊娠的临床疗效。方法 选择2013年2月\~2015年8月在江西省妇幼保健院住院的55例子宫疤痕妊娠患者为研究对象。采用随机对照原则进行分组，甲氨蝶呤组30例，卡铂组25例，甲氨蝶呤组介入栓塞术中灌注甲氨蝶呤 $^ +$ 术后 $2 4 \mathrm { h }$ 术后B超监护下行清宫术，卡铂组介入栓塞术中灌注卡铂 $\mid +$ 术后 $2 4 \mathrm { h }$ B超监护下行清宫术，比较两种治疗方法治疗疤痕妊娠的临床疗效。结果 甲氨蝶呤组与卡铂组的平均住院时间分别为 $7 . 9 3 { \pm } 1 . 7 4 \mathrm { ~ d ~ } . 6 . 4 8 { \pm }$ 1.36d,两组比较，差异有统计学意义( $P { < } 0 . 0 5 )$ ；甲氨蝶呤组与卡铂组患者血β-HCG值降至正常的时间分别为 $3 1 . 2 7 { \scriptstyle \pm 7 . 2 9 \mathrm { ~ d ~ } }$ 、$2 7 . 4 4 { \scriptstyle \pm 6 . 6 8 \mathrm { ~ d ~ } }$ ，组间比较，差异有统计学意义 $( P { < } 0 . 0 5 )$ ;甲氨蝶呤组与卡铂组发生药物不良反应分别为5、6例,组间比较差异无统计学意义( $\scriptstyle P = 0 . 4 9 8 4 ,$ 。结论介入栓塞术中灌注卡铂，能缩短住院时间以及缩短血 $_ { \mathrm { ~ \tiny ~ \beta ~ } }$ -HCG值降至正常时间，不良反应少,疗效确切。
+
+关键词：疤痕妊娠;介入栓塞;甲氨蝶呤;卡铂
+
+疤痕妊娠是指妊娠囊着床在子宫疤痕处，是较难处理的异位妊娠，既往有剖宫产史的女性，再次妊娠时，妊娠囊着床在子宫原疤痕处，临床表现主要是停经后阴道不规则流血，常导致的阴道大量流血以及清宫过程中发生难于控制的出血，在此疾病未被认识前，盲目的钳刮导致阴道大量出血，致子宫切除，甚至危及患者生命安全，是较难处理的异常妊娠[。随着剖宫产率的增加,疤痕妊娠的发生率显著增加，目前国内常用的治疗方法是手术,药物和栓塞等[3-5],其中双侧子宫动脉栓塞术联合手术或者药物可作为疤痕妊娠的基础治疗，甲氨蝶呤用于异位妊娠的治疗由来已久，并且栓塞术中经子宫动脉灌注可显著提高局部药物浓度[6],卡铂作为滋养细胞肿瘤化疗的基础用药，对滋养细胞具有更强的杀伤力，研究表明卡铂联合紫杉醇治疗滋养细胞肿瘤的化疗提高了治愈率，并且卡铂的杀胚效果优于甲氨蝶呤(MTX)8]。因此,栓塞术中经子宫动脉灌注卡铂治疗疤痕妊娠存在理论上的可行性，但国内尚未见相关报道。本研究通过分析2013年2月\~2015年8月在江西省妇幼保健院妇科收治住院的疤痕妊娠患者55例，旨在探讨子宫动脉栓塞术中灌注甲氨蝶呤与卡铂治疗疤痕妊娠的临床疗效。现将研究结果，报道如下。
+
+# 1资料与方法
+
+# 1.1临床资料
+
+选择2013年2月\~2015年8月在江西省妇幼保健院妇科住院治疗的子宫疤痕妊娠患者55例，采用抽签法随机分为甲氨蝶呤组(30例)和卡铂组(25例)。子宫疤痕妊娠的纳入标准：(1)子宫下段剖宫产史，停经后有或无阴道流血，妇科检查宫颈形态及长度正常，子宫峡部膨大；(2)影像学检查：宫腔内及宫颈管内无妊娠囊，妊娠囊或混合性包块位于子宫峡部前壁，妊娠囊及包块内可见低阻血流;妊娠囊切面子宫肌壁层不连续[910]，两组之间的年龄、孕周、术前血 $\beta$ -HCG值比较差异无统计学意义( $( P { > } 0 . 0 5 )$ 。
+
+# 1.2治疗方法
+
+利多卡因局部麻醉右侧股动脉区域，经皮穿刺右侧股动脉，成功后，置人5F-Cobra导管，在数字减影血管造影下，通过同轴导丝的引导，超选择性插管至子宫动脉，甲氨蝶呤组使用明胶海绵颗粒栓塞之前灌注MTX（总剂量为 $1 \mathrm { m g / k g } )$ ,卡铂组使用明胶海绵颗粒栓塞之前灌注卡铂(总剂量为 $3 0 0 \mathrm { m g / m } ^ { 2 }$ )。两组术后 $2 4 \mathrm { h }$ 均在B超监护下行清宫术，比较两组住院时间，血$\beta$ -HCG下降至正常时间及药物的不良反应。
+
+两组住院时间、血 $\beta$ -HCG下降至正常时间及药物的不良反应，两组患者术前抽血查血常规、肝肾功能、血脂、凝血功能、血 $\beta$ -HCG、心电图及胸片检查，均需排除介人栓塞禁忌及化疗禁忌症，抽签法随机分组，清宫术后第1天抽血 $\beta$ -HCG，随访时间为血β-HCG第1次下降至正常值以下。化疗药物的不良反应主要有骨髓抑制、胃肠道反应、肝、肾、心脏功能、神经毒性、耳毒性、脱发及头晕等、过敏反应(皮疹或瘙痒，偶见喘鸣)发生以上任何一项即判断为有药物不良反应。
+
+# 1.3统计学方法
+
+应用SPSS13.0统计学软件做统计处理，计量资料
+
+以 $\stackrel { - } { x } \pm s$ 表示，两组比较采用 $\mathbf { \chi } _ { t }$ 检验，计数资料组问比较采用 $\dot { \chi } ^ { 2 }$ 检验， $P { < } 0 . 0 5$ 差异有统计学意义
+
+# 2结果
+
+甲氨蝶呤组与卡铂组的住院时间分别为 $7 . 9 3 \pm$ $1 . 7 4 \mathrm { ~ d ~ } . 6 . 4 8 { \pm } 1 . 3 6 \mathrm { ~ d ~ }$ ，组间比较，差异有统计学意义( $\scriptstyle ( P <$ 0.05,表1);甲氨蝶呤组与卡铂组的血 $\beta$ -HCG水平降至正常的时间分别为 $3 1 . 2 7 { \pm } 7 . 2 9 \mathrm { ~ d ~ } . 2 7 . 4 4 { \pm } 6 . 6 8 \mathrm { ~ d ~ }$ ，组间比较，差异亦有统计学意义( $\scriptstyle \phantom { + } ( P < 0 . 0 5$ ,表1);甲氨蝶呤组与卡铂组发生药物不良反应的例数分别为5、6例，组间比较差异无统计学意义( $\mathrm { \ P { > } 0 . 0 5 }$ ，表2)。
+
+表1两组住院时间与血β-HCG降至正常时间比较  
+
+<html><body><table><tr><td>组别</td><td>例数</td><td>平均住院时间(d) 血β-HCG降至正常时间(d)</td></tr><tr><td>甲氨蝶呤组</td><td>30</td><td>7.93±1.74 31.27±7.29</td></tr><tr><td>卡铂组</td><td>25</td><td>6.48±1.36 27.44±6.68</td></tr><tr><td>t</td><td>3.4538</td><td>2.0523</td></tr><tr><td>P</td><td>0.0005</td><td>0.0224</td></tr></table></body></html>
+
+表2两组发生不良反应例数  
+
+<html><body><table><tr><td>组别</td><td>例数</td><td>不良反应例数</td><td>无不良反应数</td></tr><tr><td>甲氨蝶呤组</td><td>30</td><td>5</td><td>25</td></tr><tr><td>卡铂组</td><td>25</td><td>6</td><td>19</td></tr><tr><td>x²</td><td></td><td>0.4583</td><td></td></tr><tr><td>P</td><td></td><td>0.4984</td><td></td></tr></table></body></html>
+
+# 3讨论
+
+疤痕妊娠的病因尚不完全明确，目前认为前次剖宫产，子宫内膜损伤是导致疤痕妊娠的主要病因，主要的临床表现为停经后阴道不规则流血，常导致的阴道大量流血以及清宫过程中发生难于控制的出血，临床表现缺乏特异性，容易被误诊，病程进展可导致不可控制的子宫出血，严重者需切除子宫，因此,早期诊断尤为重要[13]。因此对于前次有剖宫产手术史的患者,如果出现了停经后不规则阴道出血，应予高度重视,最好联系有经验的B超医师做详细的超声检查，必要时可予MRI检查，及早发现疤痕妊娠，以尽早制定合适的治疗方案，改善患者的预后.
+
+目前疤痕妊娠尚缺乏规范统一的治疗方案，目前国内常用的治疗方法是手术、药物和栓塞等[3-5],药物治疗所需时间长，治疗过程中存在发生子宫大量出血，需切除子宫的潜在风险。开腹或腹腔镜手术治疗病灶成功率高，但创伤大，而且再次妊娠有胎盘前置、粘连的风险[15],患者不易接受。双侧子宫动脉栓塞术联合手术或者药物可作为疤痕妊娠的基础治疗，甲氨蝶呤作为一种叶酸还原酶抑制剂,主要抑制二氢叶酸还原酶而使二氢叶酸不能还原成有生理活性的四氢叶酸,从而使嘌呤核苷酸和嘧啶核苷酸的生物合成过程中一碳基团的转移作用受阻,导致DNA的生物合成受到抑制。因此MTX用于子宫疤痕妊娠的治疗临床上较为常见，有研究认为,局部MTX注射化疗优于全身化疗,特别是对胚囊≥$2 . 5 \mathrm { c m }$ 血 $\mathrm { . \beta \mathrm { . } H C G { > } 1 0 0 0 } \mathrm { U / L }$ 的患者[12]。因此,介入栓塞术中经子宫动脉灌注MTX,通过对子宫动脉的栓塞，阻断子宫的血供,经子宫动脉灌注MTX,使病灶中的MTX浓度显著增加,加速胚胎死亡,有效控制出血。而本研究结果显示，所有病例经UAI $\Vec { \Vec { \mathbf { \mu } } } + \mathbf { M T X }$ 治疗后，治愈率达 $100 \%$ ,平均住院时间为 $7 . 9 3 { \pm } 1 . 7 4 \mathrm { d }$ ，血 $\beta$ -HCG降至正常时间 $3 1 . 2 7 { \scriptstyle \pm 7 . 2 9 \mathrm { ~ d ~ } }$ ，共有5例发生不良反应,其中3例为皮疹,1例为白细胞轻度下降,1例为头晕,经对症治疗后,恢复正常，不影响再次给药。本研究结果与国内黄骁昊4的研究结果一致。卡伯作为第二代铂类复合物,其抗肿瘤活性较强,消化道反应及肾毒性较低，它能与DNA结合,形成交叉键,破坏了DNA的功能,使其不能再复制合成,对生长各期的肿瘤细胞均有杀伤作用,理论上其杀胚能力优于MTX，且有研究表明卡铂联合紫杉醇治疗耐药及复发滋养细胞肿瘤的化疗取得了很好的治疗效果,并且卡铂的杀胚效果优于MTX8。因此双侧子宫动脉栓塞术中灌注卡铂,一方面提高卡铂在病灶中的浓度，另一方面可以减少卡铂的副作用,从而提高疗效，降低药物的不良反应。本研究表明,双侧子宫动脉栓塞术中灌注卡铂,总的治愈率为 $100 \%$ ,平均住院时间为 $6 . 4 8 { \pm } 1 . 3 6 \mathrm { ~ d ~ }$ ，血 $\beta$ -HCG降至正常时间 $2 7 . 4 4 \pm$ 6.68d,25例患者有6例发生了药物不良反应，其中4例出现白细胞下降，1例皮疹，1例肝功能轻度损害，经治疗后复查正常，由于卡铂抗肿瘤活性较强，且对生长各期的肿瘤细胞均有杀伤作用，所以其杀死胚胎的能力优于甲氨蝶呤。而本研究表明，介入栓塞术中经子宫动脉灌注卡铂可以缩短患者的住院时间,缩短患者血β-HCG降至正常水平的时间，且不良反应与灌注MTX比较，无差异,其疗效优于甲氨蝶呤组,故本研究认为子宫动脉栓塞术中灌注卡铂治疗，能缩短住院时间以及缩短血$\beta$ -HCG值降至正常的时间,不良反应少,疗效确切。但因本研究样本量较小,今后仍需要更大样本、前瞻性、随机对照实验来进一步评价介入栓塞术中灌注卡铂治疗疤痕妊娠的临床疗效。
+
+# 参考文献：
+
+[1]Elysia MD,Sreedevi MD,Twickler DM.First-trimester diagnosis of cesarean scar ectopic pregnancy|J].Jof Clinic Ultrasound,2O08,36 (8): 504-11.
+
+（下转70页）
+
+# 参考文献：
+
+[1]Chen Y,Swanson RA SR.Astrocytes and brain injury[J].JCereb BloodFlow Metab,2003,23(2):137-49.   
+[2]Gunnarson E, Zelenina M, Aperia A.Regulation of brain aquaporins [J].Neuroscience,2004,129(4): 947-55.   
+[3]Tang Z,Liao Z, Shi Q,et al. Blocking p38 signal pathway lowers MMP-9 expression and reduces brain edema in rats with traumatic brain injury[J].J South Med Univ,2012,32(7):928-31.   
+[4]Bouzat P,Francony G,Thomas S,et al. Reduced brain edema and functional deficits after treatment of diffuse traumatic brain injury bycarbamylated erythropoietin derivative[J].Crit Care Med,2011, 39(9):2099-105.   
+[5]Lopez AB,Acaz FE,Viveros MP,et al. Changes in cannabinoid receptors,aquaporin 4 and vimentin expression after traumatic brain injury in adolescent male mice,association with edema and neurological deficit[J].PLoS One,2015,10(6): e0128782-8.   
+[6]Yao XM, Derugin N,Manley GT, et al. Reduced brain edema and infarct volume in aquaporin-4 deficient mice after transient focal cerebral ischemia[J].NeurosciLett,2015,584(4):368-72.   
+[7]Deng JS,Zhao F,Yu XY,et al. Expression of aquaporin 4 and breakdown of the Blood-Brain barrier after Hypoglycemia-Induced brain edema in rats[J].PLoS One,2014,9(9): e107022-7.   
+[8]Rao KV,Verkman AS,Curtis KM.Aquaporin-4 deletion in mice reduces encephalopathy and brain edema in experimental acute liver failure[J].Neurobiol Dis,2014,63(3): 222-8.   
+[9]Fazzina G,Amorini AM,Marmarou CR,et al. The protein kinase C activator phorbol myristate acetate decreases brain edema by aquaporin 4 downregulation after middle cerebral artery occlusion in the rat[J].J Neurotrauma,2010,27(2): 453-61.   
+[10] Garcia JH,Wagner S,Liu KF, etal.Neurological deficit and extent of neuronal necrosis attributable to middle cerebral artery occlusion in rats: Statistical validation[J]. Stroke,1995,26(4): 627-35.   
+[11]Pasantes MH,Cruz RS.Brain volume regulation: osmolytes and aquaporin perspectives[J].Neuroscience,2010,168(4): 871-84.   
+[12]Manley GT,Binder DK,Papadopoulos MC,et al.New insights into water transport and edema in the central nervous system from phenotype analysis of aquaporin-4 null mice [J]. Neuroscience, 2004,129(4): 983-91.   
+[13]Vajda Z,Pedersen M,Doczi T,et al. Studies of mdx mice[J]. Neuroscience,2004,129(4): 993-8.   
+[14]Hoshi A,Yamamoto TK. Chemical preconditioning induced reactive astrocytosis contributes to the reduction of post ischemic edema throngh aquaporin_4 downregulation[J].Exp Neurol,2011,227(1): 89-95.   
+[15]Harada K,Maekawa T, Shama KM,et al. Translocation and down regulation of protein kinase C alpha,beta,and gamma isoforms during ischemia_reperfusion in rat brain[J].Neurochem,1999,72 (6): 2556-64.   
+[16]孙国柱.水通道蛋白-4在脊髓空洞前状态的表达变化及甲基强的松 龙干预作用研究[D].石家庄:河北医科大学,2006.
+
+# （上接61页）
+
+[2]Feng XL,Wang Y,An L,et al. Cesarean section in the People's Republic of China:current perspectives[J].IntJWomens Health, 2014,6(9): 59-74.   
+[3］周应芳,杨慧霞.重视剖宫产术后子宫瘢痕妊娠的预防和处置[J].中 华妇产科杂志,2014,49(1):3-5.   
+[4]Litwicka K,Greco E. Caesarean scar pregnancy:a review of management options[J].Curr Opin Obstet Gynecol,2011,23(6): 415-21.   
+[5］王建华,张晟宁.孕囊注射MTX联合中药灌肠终止剖宫产切口痕妊 娠疗效观察[J].山东医药，2013,53(45):79-81.   
+[6]Yamaguchi M,Honda R, Uchino K,et al. Transvaginal methotrexate injection for the treatment of cesarean scar pregnancy:efficacy and subsequent fecundity[J].J Minim Invasive Gynecol, 2014,21(5): 877-83.   
+[7]Brasic N,Warden M,Vargas JE.Conservative management of cesarean scar pregnancy with sonographically guided transvaginal methotrexate injection[J]. J Ultrasound Med,2013,32(6):1061-3.   
+[8]田树旭,杨隽钧,任彤,等.紫杉醇联合铂类治疗持续耐药及复发性妊 娠滋养细胞肿瘤的疗效分析[J].实用妇产科杂志,2014,30(10): 764-7.   
+[9]Godin PA,Bassil S,Donnez J.An ectopic pregnancy developing in a previous caesarian section scar[J].Fertil Steril,1997,67(2): 398-400.   
+[10]Mckenna DA,PoderL,Goldman M,et al.Role of sonography in the recognition,assessment,and treatment of cesarean scar ectopic pregnancies[J].J Ultrasound Med,2008,27(5): 779-83.   
+[11]Ghezzi F,Lagana D,Franchi M,et al. Conservative treatment by chemotherapy and uterine arteries embolization of a cesarean scar pregnancy[J].Eur J Obstet Gynecol Reprod Biol,2002,103(1): 88-91.   
+[12]Rotas MA，Haberman S,Levgur M.Cesarean scar ectopic pregnancies: etiology，diagnosis,and management [J].Obstet Gynecol,2006,107(6):1373-81.   
+[13]Alnazer A, Omar L,Wahba M,et al. Ectopic intramural pregnancy developing at the site of a cesarean section scar:a case report[J]. Cases J,2009,2(1): 9404-8.   
+[14]黄晓昊,周 雪.双侧子宫动脉注入MTX加栓塞术联合清宫术治疗子 宫切口瘢痕妊娠的临床观察[J].中国实用医药,2013,21(35):107-8.   
+[15]王怡芳.剖宫产术后子宫瘢痕妊娠的临床诊治[J].中国优生与遗传杂 志,2009,10(17):127-8.

@@ -1,0 +1,321 @@
+[
+    {
+        "type": "text",
+        "text": "Rotational properties of the superheavy nucleus $^ { 2 5 6 }$ Rf and its neighboring even-even nuclei in particle-number conserving cranked shell model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhen-Hua Zhang,1 Jie Meng, $^ { 1 , 2 , 3 }$ En-Guang Zhao, $^ { 4 , 1 , 5 }$ and Shan-Gui Zhou $^ { 4 , 5 }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（20 $^ { 1 }$ State Key Laboratory of Nuclear Physics and Technology, School of Physics，Peking University，Beijing 10o871，China （ $^ 2$ School of PhsicsandNuclear EnergyEngineering，eang UnversityBeijing （20 $^ 3$ Department of Physics， University of Stellenbosch， Stellenbosch 7602, South Africa 1 $^ 4$ State Key Laboratory of Theoretical Physics, Instituteof Theoretical Physics, Chinese Academy of Sciences，Beijing 10019o，China $^ { 5 }$ Center of Theoretical Nuclear Physics,National Laboratory of Heay Ion Accelerator，Lanzhou 730o,China (Dated:July 30,2017) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The ground state band was recently observed in the superheavy nucleus $^ { 2 5 6 }$ Rf. We study the rotational properties of $^ { 2 5 6 } \\mathrm { R f }$ and its neighboring even-even nuclei by using a cranked shell model (CSM)with the pairing correlations treated by a particle-number conserving (PNC)method in which the blocking efects are taken into account exactly.The kinematic and dynamic moments of inertia of the ground state bands in these nuclei are well reproduced by the theory.The spin of the lowest observed state in $^ { 2 5 6 }$ Rf is determined by comparing the experimental kinematic moments of inertia with the PNC-CSM calculations and agrees with previous spin assignment. The effects of the high order deformation $\\varepsilon _ { 6 }$ on the angular momentum alignments and dynamic moments of inertia in these nuclei are discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:21.60.-n;21.60.Cs;23.20.Lv; 27.90.+b ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years,the in-beam spectroscopy of the nuclei with $Z \\approx 1 0 0$ has become a hot topic [1-5]. These transfermium nuclei bring important information for the structure of superheavy nuclei. Experimental results show that these nuclei are well deformed. Due to deformation effects,the orbitals originating from spherical subshells which are important to the magic number in superheavy nuclei may come close to the Fermi surface in these deformed nuclei. For example, the $\\pi 1 / 2 ^ { - }$ [521] and $\\pi 3 / 2 ^ { - }$ [521] orbitals are of particular interest since they stem from the spherical $\\pi 2 f _ { 5 / 2 , 7 / 2 }$ orbtials; the splitting between these spin doublets is very important to the location of the next proton shell closure. The high spin rotational states of these transfermium nuclei can give valuable information about the single particle orbitals near the Fermi surface,especially the high- $j$ intruder orbitals $( \\nu j _ { 1 5 / 2 }$ or $\\pi i _ { 1 3 / 2 }$ ）which are sensitive to the Coriolis interaction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In a recent work [6],the spectroscopy of the nuclei with $Z \\approx 1 0 0$ is systematically investigated by a particlenumber conserving(PNC）method based on a cranked shell model (CSM) [8, 9] with a new Nilsson parameter set which is obtained by fitting the experimental singleparticle spectra in these nuclei. The calculated bandhead energies of the one-quasiproton and one-quasineutron bands in odd- $A$ nuclei are improved dramatically comparing with those calculated by using the traditional Nilsson parameter [1o].In contrary to the conventional Bardeen-Cooper-Schrieffer(BCS) or Hartree-Fock",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bogolyubov(HFB）approach,in the PNC method,the CSMHamiltonian is solved directly ina truncated Fockspace [11]. Therefore the particle-number is conserved and the Pauli blocking effects are taken into account exactly. The experimental kinematic moments of inertia (MOI's) for the rotational bands in even-even,odd- $A$ ， and odd-odd nuclei with $Z \\approx 1 0 0$ are reproduced quite well by the PNC-CSM calculations. The PNC scheme has also been implemented both in relativistic and nonrelativistic mean field models [12,13] in which the single particle states are calculated from self-consistent mean field potentials instead of the Nilsson potential. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Quite recently, the ground state bands(GSB) were observed in the even-even nuclei $^ { 2 4 6 }$ Fm ( $Z = 1 0 0$ ）[14]and $2 5 6$ Rf( $Z = 1 0 4$ )[15]. It is worthwhile to mention that Rf is the first element whose stability is entirely due to the quantum shell effects and it marks the gateway to superheavy elements [16]. The spectrum and MOI's of $2 5 6$ Rf can give information about the single-particle structure and the pairing interaction of the superheavy nuclei and provide a test for current nuclear models. $^ { 2 4 6 }$ Fm has been included in our systematic investigation [6,7]. In this pa per,we extend the PNC-CSM to the study of the rotational properties of $2 5 6$ Rf and its neighboring even-even nuclei. The spin of the experimentally observed lowestlying state in $2 5 6$ Rf will be determined by comparing the kinematic MOI's with the PNC-CSM calculations. We further study the effects of high order deformation $\\varepsilon _ { 6 }$ on the angular momentum alignment and dynamic MOI's in these nuclei. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The paper is organized as follows.A brief introduction of the PNC-CSM is presented in Sec.II. The results and discussions are given in Sec.III.Finally we summarize our work in Sec.IV. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "II. THEORETICALFRAMEWORK ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The cranked Nilsson Hamiltonian of an axially symmetric nucleus in the rotating frame can be written as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { \\mathrm { C S M } } = H _ { 0 } + H _ { \\mathrm { P } } = H _ { \\mathrm { N i l } } - \\omega J _ { x } + H _ { \\mathrm { P } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $H _ { \\mathrm { N i l } }$ is the Nilsson Hamiltonian, $- \\omega J _ { x }$ is the Coriolis interaction with the cranking frequency $\\omega$ about the $x$ axis (perpendicular to the nuclear symmetry $z$ axis). $H _ { \\mathrm { P } } = H _ { \\mathrm { P } } ( 0 ) + H _ { \\mathrm { P } } ( 2 )$ is the pairing interaction, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle H _ { \\mathrm { P } } ( 0 ) = - G _ { 0 } \\sum _ { \\xi \\eta } a _ { \\xi } ^ { \\dagger } a _ { \\bar { \\xi } } ^ { \\dagger } a _ { \\bar { \\eta } } a _ { \\eta } ~ , } } \\\\ { { \\displaystyle H _ { \\mathrm { P } } ( 2 ) = - G _ { 2 } \\sum _ { \\xi \\eta } q _ { 2 } ( \\xi ) q _ { 2 } ( \\eta ) a _ { \\xi } ^ { \\dagger } a _ { \\bar { \\xi } } ^ { \\dagger } a _ { \\bar { \\eta } } a _ { \\eta } ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\xi$ $( \\bar { \\eta } )$ labels the time-reversed state of a Nilsson state $\\xi ~ ( \\eta )$ ， $q _ { 2 } ( \\xi ) ~ = ~ \\sqrt { 1 6 \\pi / 5 } \\langle \\xi | r ^ { 2 } Y _ { 2 0 } | \\xi \\rangle$ is the diagonal element of the stretched quadrupole operator,and $G _ { 0 }$ and $G _ { 2 }$ are the effective strengths of monopole and quadrupole pairing interactions,respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Instead of the usual single-particle level truncation in conventional shell-model calculations,a cranked manyparticle configuration（CMPC） truncation (Fock space truncation) is adopted [9,17]. An eigenstate of $H _ { \\mathrm { C S M } }$ can be written as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\Psi \\rangle = \\sum _ { i } C _ { i } | i \\rangle , \\qquad ( C _ { i } \\mathrm { r e a l } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $| i \\rangle$ is a CMPC (an eigenstate of the one-body operator $H _ { 0 }$ ). By diagonalizing the $H _ { \\mathrm { C S M } }$ in a sufficiently large CMPC space, sufficiently accurate solutions for lowlying excited eigenstates of $H _ { \\mathrm { C S M } }$ are obtained [6]. The angular momentum alignment for the state $\\left| \\Psi \\right.$ is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\Psi | J _ { x } | \\Psi \\rangle = \\sum _ { i } C _ { i } ^ { 2 } \\langle i | J _ { x } | i \\rangle + 2 \\sum _ { i < j } C _ { i } C _ { j } \\langle i | J _ { x } | j \\rangle .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Considering $J _ { x }$ to be a one-body operator, the matrix element $\\langle i | J _ { x } | j \\rangle$ for $i \\neq j$ is nonzero only when $| i \\rangle$ and $| j \\rangle$ differ by one particle occupation [9]. After a certain permutation of creation operators, $| i \\rangle$ and $| j \\rangle$ can be recast into ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| i \\rangle = ( - 1 ) ^ { M _ { i \\mu } } | \\mu \\cdot \\cdot \\cdot \\rangle , \\qquad | j \\rangle = ( - 1 ) ^ { M _ { j \\nu } } | \\nu \\cdot \\cdot \\cdot \\rangle ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the ellipsis $\\cdots$ ” stands for the same particle occupation and $( - 1 ) ^ { M _ { i \\mu ( \\nu ) } } = \\pm 1$ according to whether the permutation is even or odd. Therefore,the kinematic MOI $J ^ { ( 1 ) }$ of $| \\Psi \\rangle$ can be separated into the diagonal and the off-diagonal parts ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\displaystyle J ^ { ( 1 ) } = \\frac { 1 } { \\omega } \\left. \\Psi \\big | J _ { x } \\big | \\Psi \\right. = \\frac { 1 } { \\omega } \\left( \\sum _ { \\mu } j _ { x } ( \\mu ) + 2 \\sum _ { \\mu < \\nu } j _ { x } ( \\mu \\nu ) \\right) ( \\stackrel { . } { \\rrangle } } } \\\\ { { \\displaystyle j _ { x } ( \\mu ) = \\langle \\mu \\big | j _ { x } \\big | \\mu \\big \\rangle n _ { \\mu } ~ , ~ } } & { { ~ ( \\mathstrut \\mathfrak { s } ~ } } \\\\ { { \\displaystyle j _ { x } ( \\mu \\nu ) = \\langle \\mu \\big | j _ { x } \\big | \\nu \\rangle \\sum _ { i < j } ( - 1 ) ^ { M _ { i \\mu } + M _ { j \\nu } } C _ { i } C _ { j } ~ , ~ } } & { { ~ ( \\mathstrut \\mathfrak { s } ~ } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { n _ { \\mu } = \\sum _ { i } | C _ { i } | ^ { 2 } P _ { i \\mu } } \\end{array}$ is the occupation probability of the cranked Nilsson orbital $| \\mu \\rangle$ and $P _ { i \\mu } = 1$ （0）if $| \\mu \\rangle$ is occupied (empty). The expression of the dynamic MOI $J ^ { ( 2 ) } = d \\left. \\Psi | J _ { x } | \\Psi \\right. / d \\omega$ is similar. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "III. RESULTS AND DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The parameters used in this work are all taken from Ref.[6]. We note that due to the velocity-dependent $l ^ { 2 }$ term, the MOI's of very high-spin states can not be well described by a cranked Nilsson model [18-25]. However, we are mainly focusing on relatively low-spin states. The MOIs are mainly determined by the pairing interaction and the single particle levels near the Fermi surface,especially the location of the high- $j$ intruder orbitals.As will be seen in the following,the calculated MOI's with our model agree well the experiment. The traditional Nilsson parameters ( $\\kappa$ and $\\mu$ ）[10,23] are optimized to reproduce the experimental level schemes for the rareearth and actinide nuclei near the stability line.However, this parameter set can not describe well the experimental level schemes of transfermium nuclei. Therefore the new set of Nilsson parameters ( $\\kappa$ and $\\mu$ ）obtainedby fitting the experimental single-particle spectra in these nuclei in Ref.[6l is adopted here.Note that this set of parameters has been used to study rotational bands in $^ { 2 4 7 , 2 4 9 }$ Cm and 249Cf in Ref. [26]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experimental values of the deformation parameters for the transfermium nuclei are very scare and the predictions of different theories are not consistent with each other [27-29]. In the PNC-CSM calculations,the deformations are chosen to be close to existing experimental values and change smoothly with the proton and the neutron numbers. The deformation parameters of ${ } ^ { 2 5 6 } \\mathrm { R f }$ can be extrapolated from Table II in Ref. [6] as $\\varepsilon _ { 2 } = 0 . 2 5 5$ and $\\varepsilon _ { 4 } = 0 . 0 2 5$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The CMPC space in this work is constructed in the proton $N = 4 , 5 , 6$ shells and the neutron $N = 6 , 7$ shells. The dimensions of the CMPC space are about 1ooo both for protons and neutrons. The effective pairing strengths are $G _ { p } = 0 . 4 0$ MeV, $G _ { 2 p } = 0 . 0 3 5$ MeV, $G _ { n } = 0 . 3 0$ MeV, and $G _ { 2 n } = 0 . 0 2 0$ MeV,which are the same for all eveneven nuclei in this mass region (see Table III in Ref. [6]). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows the calculated cranked Nilsson levels near the Fermi surface of $2 5 6$ Rf. The positive (negative) parity levels are denoted by blue (red) lines. The signature $\\alpha = + 1 / 2$ （ $\\alpha = - 1 / 2$ )levels aredenoted by solid (dotted) lines.From Fig. $1$ it can be seen that there exist a proton gap at $Z = 1 0 0$ and a neutron gap at $N = 1 5 2$ ， which is consistent with the calculation by using WoodsSaxon potential [28, 30]. The $Z = 1 0 4$ proton energy spacing in our calculation is about O.5 MeV,which is much larger than that of $Z = 1 0 2$ .This situation is the opposite in Ref. [28]. Nevertheless, the $Z ~ = ~ 1 0 4$ gap in our calculation is not very significant comparing with that calculated by the self-consistent mean field models [29,31],which is usually larger than 1 MeV. For pro",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6.9 (a) proton (b) neutron ses sn [5]112 7.8 [61|1) 6.8 [725]11/2 [512]5/2 7.7 6.7 [613]7/2 [622]3/2 6.6 [624]9/2 Z=104 7.6 [620]1/2 N=152 [514]7/2 [734]9/2 [521]1/2 7.5 [624]7/2 6.5 [606]13/2 [633]7/2 [622]5/2] 6.4 [521/2] , 7.4 [74112] [642]5/2] 6.3 [402]5/2 7.3 [752]5/2 [505]11/2 [631]3/2 1 0.00.10.20.30.4 0.0 0.10.20.3 0.4 hω (MeV) hω (MeV) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "tons,the sequence of single-particle levels near the Fermi surface in our calculation is quite similar with that determined from the experimental information of $^ { 2 5 5 }$ Lr [32], in which the energies of $\\pi 1 / 2 ^ { - } [ 5 2 1 ]$ and $\\pi 7 / 2 ^ { - } [ 5 1 4 ]$ are nearly degenerate.For neutrons,it is shown experimentally that the ground state of ${ } ^ { 2 5 5 } \\mathrm { R f }$ is $\\nu 9 / 2 ^ { - }$ [734] [33], which is also consistent with our calculation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/88f5f3330425ce2352d1fc09bddcfb17240421e8b80df27480c87852c6f55abe.jpg",
+        "img_caption": [
+            "FIG.1.(Color online) The cranked Nilsson levels near the Fermi surface of ${ } ^ { 2 5 6 } \\mathrm { R f }$ (a) for protons and (b） for neutrons. The positive (negative) parity levels are denoted by blue (red) lines.The signature $\\alpha = + 1 / 2$ （ $\\alpha = - 1 / 2$ )levels are denoted by solid (dotted） lines. The deformation parameters $\\varepsilon _ { 2 } ~ =$ 0.255 and $\\varepsilon _ { 4 } = 0 . 0 2 5$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because of the dominance of internal conversion,the lowest $\\gamma$ transitions in $2 5 6$ Rf were not detected and spins of states in the observed rotational band were not determined experimentally. There are many ways to make spin assignments by fitting the rotational band with various empirical rotational formulae or models 34-41]. The $a b$ -formula [35-38] and the Harris formula [34] have been used to assign the spin and to extrapolate the energies corresponding to unobserved transitions in $^ { 2 4 6 }$ Fm and $2 5 6$ Rf. The spin assignment for the rotational band observed in $^ { 2 5 3 }$ No [42] has already been made in Ref. [43] by using the ab formula which supports the configuration assignment of $\\nu 7 / 2 ^ { + }$ [624] for this rotational band. The kinematic MOI's depend sensitively on the spin assignment; this feature can also be used to make spin assignments for those rotational bands whose spins are not experimentally determined.In Fig.2 we show the comparison of experimental kinematic MOI's of the GSB in $2 5 6$ Rf extracted from different spin assignments with the PNC-CSM calculations. The red up-triangles,black solid circles,and blue down-triangles denote the experimental MOI's extracted by assigning the observed lowest-lying 161 keV transition as $8 ^ { + }  6 ^ { + }$ ， $6 ^ { + }  4 ^ { + }$ ,and $4 ^ { + }  2 ^ { + }$ ， respectively. Our calculation agrees very well with the $6 ^ { + }  4 ^ { + }$ assignment,and is also consistent with the spin assignment using the Harris formula [15]. So in the following calculations,the 161 keV transition is assigned as $6 ^ { + }  4 ^ { + }$ and the deduced energies of $4 ^ { + }  2 ^ { + }$ (104 keV) and $2 ^ { + }  0 ^ { + }$ (44 keV) in Ref.[15] are also used to calculate the experimental kinematic and dynamic MOI's in the GSB of ${ } ^ { 2 5 6 } \\mathrm { R f }$ . This method has also been used to make the spin assignment for the ground state band established in $^ { 2 4 6 }$ Fm and the spin of the lowest state (fed by the 167 keV transition）is determined to be $4 \\hbar$ [7], which is consistent with Ref.[14]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a13516023f9d8f6df092bc5fdd4d7199fff75fd60a526ce09b4d6df29d65f1f3.jpg",
+        "img_caption": [
+            "FIG．2． (Color online）The comparison of experimental kinematic MOI's of the GSB in $^ { 2 5 6 }$ Rf with the PNC-CSM calculations. The red up-triangles，black solid circles,and blue down-triangles denote the experimental MOI's extracted by assigning the 161 keV transition as $8 ^ { + }  6 ^ { + }$ ， $6 ^ { + }  4 ^ { + }$ and $4 ^ { + }  2 ^ { + }$ ,respectively. The data are taken from Ref.[15]. ",
+            "FIG.3.(Color online） The experimental (solid circles） andcalculated kinematic MOI's $J ^ { ( 1 ) }$ with (solid black lines） andwithout (dotted blue lines） pairing correlations for $^ { 2 5 6 } \\mathrm { R f }$ andthe neighboring even-even nuclei $^ { 2 5 0 }$ Fm [44] and $^ { 2 5 2 , 2 5 4 }$ No [45,46]."
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To study the influence of pairing correlations on rotational properties,experimental (solid circles）and calculated kinematic MOI's $J ^ { ( 1 ) }$ with (solid black lines) and without (dotted blue lines） pairing correlations for $^ { 2 5 6 }$ Rf and the neighboring even-even nuclei $2 5 0$ Fm [44] and $^ { 2 5 2 , 2 5 4 }$ No [45, 46] are shown in Fig. 3. The pairing interaction is very important in reproducing the experimental MOI's.It can be seen that the MOI's of these four nuclei are roughly overestimated by a factor of two at the bandhead when the pairing interaction is switched off. When the pairing interaction is switched on,the observed MOI's are reproduced quite well, especially for 256Rf. This indicates that the single-particle levels we adopted here are reasonable in this mass region,which shows that there exist a proton gap at $Z = 1 0 0$ and a neutron gap at $N = 1 5 2$ and the proton gap at $Z = 1 0 4$ is not so pronounced. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5aaf81f560350f6978bea4920fbbe875a90e74b88a6be522238fef166dc88990.jpg",
+        "img_caption": [
+            "FIG.4． (Color online）The experimental (solid circles) and calculated (solid black lines）dynamic MOI's $J ^ { ( 2 ) }$ for （204号 $^ { 2 5 6 } \\mathrm { R f }$ and the neighboring even-even nuclei $^ { 2 5 0 } \\mathrm { F m }$ [44] and $^ { 2 5 2 , 2 5 4 }$ No[45,46].Thereliesaretheresultswhenthehigh order deformation parameter $\\varepsilon _ { 6 }$ _is_considered in the PNCCSM calculation. $\\varepsilon _ { 6 }$ for $^ { 2 5 0 }$ Fm, $^ { 2 5 2 , 2 5 4 }$ No, and $^ { 2 5 6 } \\mathrm { R f }$ are 0.044, 0.040，0.042,and O.038,respectively，which are taken from Ref. [27]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 4 we show the experimental (solid circles） and calculated (solid black lines) dynamic MOI's $J ^ { ( 2 ) }$ for ${ } ^ { 2 5 6 } \\mathrm { R f }$ and the neighboring even-even nuclei $2 5 0$ Fm [44] and $^ { 2 5 2 , 2 5 4 }$ No [45, 46]. The experimental dynamic MOI's $J ^ { ( 2 ) }$ for $^ { 2 5 6 }$ Rf are reproduced perfectly by the PNC-CSM calculation.For the other three nuclei the results are also satisfactory compared with the experiment though there are some deviations. As pointed out in Ref.[15],the alignment of $N = 1 5 0$ isotones ( ${ } ^ { 2 5 0 } \\mathrm { F m }$ and $2 5 2$ No) occurs a little earlier than that of $N = 1 5 2$ isotones ( $^ { 2 5 4 }$ No and $2 5 6$ Rf) and is delayed in $^ { 2 5 4 }$ No relative to $^ { 2 5 6 } \\mathrm { R f }$ The upbending mechanism in this mass region has been investigated in detail in our previous work [6]. Similar results have been achieved by other models [29,47].However, we can not reproduce the alignment delay in $^ { 2 5 4 }$ No.In $N = 1 5 0$ isotones,more shape degrees of freedom other than $\\varepsilon _ { 2 }$ and $\\varepsilon _ { 4 }$ ，e.g.，the $Y _ { 3 2 }$ correlation and nonaxial octupole deformation may play important roles [48, 49]. Inparticular,Liuet al. explained the fast alignment in $^ { 2 5 2 }$ No and slow alignment in $2 5 4$ No in terms of $\\beta _ { 6 }$ deformation which decreases the energies of the neutron $j _ { 1 5 / 2 }$ intruder orbitals below the $N = 1 5 2$ gap [50]. Here in Fig. 4 we show our results for the dynamic MOI's after considering this high order deformation. The red lines are the results when $\\varepsilon _ { 6 }$ is considered in the PNCCSM calculation. The values of $\\varepsilon _ { 6 }$ for $2 5 0$ Fm, $^ { 2 5 2 , 2 5 4 }$ No, and $2 5 6$ Rf are 0.044, 0.040, 0.042, and 0.038,respectively, which are taken from Ref.[27]. It can be seen that the $\\varepsilon _ { 6 }$ deformation have prominent effect in the high rotational frequency region. The results are improved after considering this deformation in the PNC-CSM.Note that the deformation parameter $\\varepsilon _ { 6 }$ is fixed in our calculation while it changes with the rotational frequency in the Total Routhian Surface(TRS) calculation in Ref.[5O].We expect that after considering this effect,the results can beimprovedfurther. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3abd3f6eee49e7de48b2c4bf769d36fbb00399970dd87f453775d3691befd952.jpg",
+        "img_caption": [
+            "FIG.5. (Color online）Contribution of each proton and neutron major shell to the angular momentum alignment （204号 $\\langle \\Psi | J _ { x } | \\Psi \\rangle$ for the GSB in $^ { 2 5 6 }$ Rf.The left (right) part is the result without (with) $\\varepsilon _ { 6 }$ deformation. The diagonal $\\textstyle \\sum _ { \\mu } j _ { x } ( \\mu )$ calculated from Eq. (8) and off-diagonal parts $\\begin{array} { r } { \\sum _ { \\mu < \\nu } j _ { x } ( \\mu \\nu ) } \\end{array}$ from Eq.(9) for the proton $N = 6$ and neutron $N = 7$ shells are shown by dashed lines. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It should be stressed that although the similar effects of $\\varepsilon _ { 6 }$ deformation on MOI's are obtained by both TRS method and PNC-CSM, the upbending mechanisms are different. The contribution of each proton and neutron major shell to the angular momentum alignment （204号 $\\langle \\Psi | J _ { x } | \\Psi \\rangle$ for the GSB in $2 5 6$ Rf is shown in Fig. 5 to illustrate this point.The left(right） part of Fig.5 is the result without (with) $\\varepsilon _ { 6 }$ deformation. The diagonal parts $\\textstyle \\sum _ { \\mu } j _ { x } ( \\mu )$ calculated from Eq.(8） and off-diagonal parts ∑μ<v Jx(μv) from Eq. (9) for the proton N = 6 and the neutron $N = 7$ shells are shown by dashed lines. It can be seen from the left part of Fig.5 that the alignments of protons and neutrons take place simultaneously in $^ { 2 5 6 } \\mathrm { R f }$ and the neutron contribution seems just a little larger than the proton,which is due to the off-diagonal part of the neutron $N = 7$ major shell. After considering the $\\varepsilon _ { 6 }$ degree of freedom,both the contribution from protons and neutrons are reduced,but the competition of alignments still exists. The conclusion by the TRS method in Ref.[5O] is different,which indicate that the neutron $\\nu j _ { 1 5 / 2 }$ orbital contributes a lot to the alignment,while the contribution from proton $\\pi i _ { 1 3 / 2 }$ is very small. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6.8 7.8 rryslll llieeeilei grind [512] 5/2 [761]1/2 [725] 11/2 n sile lireeileii grnnn 6.7 [613]7/2 7.7 [624] 9/2 [622]3/2 6.6 [521] 1/2 [620] 1/2 7.6 N=152 [514] 7/2 [624]7/2 6.5 Z=100 7.5 [606]13/2 [734] 9/2 [633] 7/2 6.4 [631]1/2 7.4 [521]3/2 [622] 5/2 [642] 5/2 [743] 7/2 6.3 7.3 0.00 0.04 0.08 0.04 0.08 Deformation &6 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "model with pairing correlations treated by a particlenumber conserving method in which the blocking effects are taken into account exactly. Both the experimental kinematic and dynamic MOI's are reproduced quite well by the PNC-CSM calculations. The spin of the experimentally observed lowest-lying state in the GSB of $2 5 6$ Rf is determined by comparing the MOI's extracted from different spin assignments with the calculations. Thus determined spin for the observed lowest-lying state is $4 \\hbar$ and consistent with the spin assignment made by using the Harris formula in Ref. [15]. We paid much attention to the different rotational behaviors among $^ { 2 5 6 } \\mathrm { R f }$ and its neighboring even-even nuclei and the effects of the high order deformation $\\varepsilon _ { 6 }$ on the angular momentum alignment. The $\\varepsilon _ { 6 }$ deformation has a noticeable effect on the dynamical moments of inertia in the high rotational frequency region. The calculation results for the dynamical moments of inertia are improved after considering this high order deformation in the PNC-CSM.In present calculation, the Nilsson potential has been used, it will be interesting to perform similar investigation with a Woods-Saxon potential to generate the basis states in the future. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The single particle levels near the Fermi surface of ${ } ^ { 2 5 6 } \\mathrm { R f }$ as a function of $\\varepsilon _ { 6 }$ deformation is shown in Fig. 6. The proton and neutron intruder orbital are denoted by blue and red lines,respectively. It can be seen that the $\\varepsilon _ { 6 }$ deformation lowers not only the neutron $\\nu j _ { 1 5 / 2 }$ intruder orbitals below the $N = 1 5 2$ subshell,but also the proton T𝑖13/2 intruder orbitals below the $Z = 1 0 0$ subshell. This is the reason why both proton and neutron contributions to the upbending are reduced when the $\\varepsilon _ { 6 }$ deformation is included in the PNC-CSM. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IV. SUMMARY ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The recently observed high-spin rotational ground state band in $2 5 6$ Rf [15] and those in its neighboring even-even nuclei are investigated byusinga cranked shell ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We thank P.T.Greenlees for sending us the data of $^ { 2 5 6 }$ Rf prior to publication. Helpful discussions with P. T.Greenlees，J. Piot，and P. W. Zhao are gratefully acknowledged. This work has been supported by National Key Basic Research Program of China (Grant No. 2O13CB83440O),National Natural Science Foundation of China（Grant No.10975008,No. 10975100,No. 10979066,No．11121403,No.11175002,No．11175252, No.11120101005,No．11120101005,and No.11275248), Knowledge Innovation Project of Chinese Academy of Sciences (Grant No. KJCX2-EW-N01 and No. KJCX2- YW-N32), the Research Fund for the Doctoral Program of Higher Education under Grant No. 20110001110087. The results described in this paper are obtained on the ScGrid of Supercomputing Center, Computer Network Information Center of Chinese Academy of Sciences. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] M. Leino and F. Hefberger, Annu. Rev. Nucl. Part. Sci. 54,175 (2004).   \n[2] R.-D. Herzberg, J. Phys. G: Nucl. Part. Phys. 30, R123 (2004).   \n[3] R.-D. Herzberg and P. Greenlees, Prog. Part. Nucl. Phys. 61, 674 (2008).   \n[4]D.Ackermann,Acta Phys.Pol. B 42, 577 (2011).   \n[5] P. T. Greenlees,Acta Phys. Pol. B 42, 587 (2011).   \n[6] Z.-H. Zhang,X.-T.He, J.-Y. Zeng, E.-G. Zhao，and S.- G. Zhou, Phys. Rev. C 85,014324 (2012).   \n[7] Z.-H. Zhang,Theoretical investigation of the spectroscopy ofthe transfermium and the super-heavy nuclei,Ph.D. thesis,Institute of Theoretical Physics,Chinese Academy of Sciences (2012),in Chinese.   \n[8] J.Y. Zeng and T. S. Cheng, Nucl. Phys. A 405,1(1983).   \n[9] J. Y. Zeng, T. H. Jin, and Z. J. Zhao, Phys. Rev. C 50, 1388 (1994).   \n[10] S.G.Nilsson,C.F.Tsang,A. Sobiczewski,Z.Szymaski, S.Wycech,C.Gustafson，I.L.Lamm，P.Moller，and B. Nilsson, Nucl. Phys. A 131, 1 (1969).   \n[11] C. S. Wu and J. Y. Zeng, Phys. Rev. C 39,666 (1989).   \n[12] J.Meng,J.-y. Guo, L. Liu, and S.-q. Zhang,Frontiers Phys. China 1, 38 (2006).   \n[13] N. Pillet, P. Quentin，and J. Libert, Nucl. Phys.A 697, 141 (2002).   \n[14] J.Piot，B.J.-P. Gall, O. Dorvaux,P. T. Greenlees, N. Rowley， L. L. Andersson, D. M. Cox, F.Dechery, T. Grahn, K. Hauschild, G. Henning, A. Herzan, R.- D.Herzberg,F. P. HeBberger,U. Jakobsson,P. Jones, R.Julin，S. Juutinen，S. Ketelhut，T.-L.Khoo, M. Leino,J. Ljungvall，A.Lopez-Martens,P. Nieminen，J.Pakarinen，P. Papadakis，E. Parr，P. Peura, P.Rahkila, S. Rinta-Antila, J. Rubert,P. Ruotsalainen, M.Sandzelius，J. Sarén，C. Scholey，D. Seweryniak, J. Sorri, B. Sulignano, and J. Uusitalo, Phys.Rev.C 85, 041301R (2012).   \n[15] P.T.Greenlees,J.Rubert,J. Piot,B. J.P.Gall, L.L. Andersson，M. Asai,Z. Asfari,D. M. Cox,F.Dechery,O.Dorvaux, T.Grahn, K.Hauschild, G. Henning, A.Herzan,R.-D. Herzberg,F.P. HeBberger, U. Jakobsson，P. Jones,R.Julin，S. Juutinen，S.Ketelhut,T.- L.Khoo，M.Leino，J.Ljungvall，A.Lopez-Martens, R.Lozeva,P. Nieminen，J.Pakarinen,P.Papadakis, E. Parr,P.Peura,P. Rahkila, S.Rinta-Antila, P. Ruotsalainen,M. Sandzelius, J. Sarén, C. Scholey, D. Seweryniak,J. Sorri,B. Sulignano,C.Theisen, J. Uusitalo,and M. Venhart, Phys.Rev.Lett.109, 012501 (2012).   \n[16] M. Schädel, Angew. Chem. Int. Ed. 45,368 (2006).   \n[17] H. Molique and J. Dudek,Phys. Rev. C 56,1795 (1997).   \n[18] M. Brack and B. Jennings,Nucl. Phys. A 258,264 (1976).   \n[19] K. Neergärd, V. Pashkevich, and S. Frauendorf, Nucl. Phys. A 262, 61 (1976).   \n[20] G.Andersson，S.E. Larsson，G. Leander，P. Moller, S. G. Nilsson, I. Ragnarsson, S. Aberg, R. Bengtsson, J. Dudek,B. Nerlo-Pomorska,K. Pomorski, and Z. Szymanski, Nucl. Phys. A 268, 205 (1976).   \n[21] K. Neergard, H. Toki, M. Ploszajczak, and A. Faessler, Nucl. Phys. A 287, 48 (1977).   \n[22] R. Bengtsson, I. Hamamoto, and R. H. Ibarra, Phys. Scr. 17, 583 (1978).   \n[23] T. Bengtsson and I. Ragnarsson, Nucl. Phys. A 436,14 (1985).   \n[24] R. Bengtsson, I. Ragnarsson, S. Aberg, A. Gyurkovich A. Sobiczewski, and K. Pomorski, Nucl. Phys. A 473, 77 (1987).   \n[25] R.Bengtsson,J.Dudek,W.Nazarewicz,and P. Olanders, Phys. Scr.39,196 (1989).   \n[26] Z.-H. Zhang, J.-Y. Zeng, E.-G. Zhao, and S.-G. Zhou, Phys. Rev. C 83, 011304R (2011).   \n[27] P. Moller and J. Nix, At. Data and Nucl. Data Tables 59, 185 (1995).   \n[28] A. Sobiczewski, I. Muntian, and Z. Patyk, Phys. Rev. C 63, 034306 (2001).   \n[29] A.V. Afanasjev,T.L. Khoo,S.Frauendorf,G.A. Lalazissis， and I. Ahmad，Phys. Rev. C 67,024309 (2003).   \n[30] R.R.Chasman,I.Ahmad,A.M. Friedman，and J.R. Erskine,Rev. Mod. Phys.49，833 (1977)； Rev. Mod. Phys. 50, 173 (1978).   \n[31] M. Bender,P. Bonche, T. Duguet， and P. H. Heenen, Nucl. Phys. A 723, 354 (2003).   \n[32] A.Chatillon，C. Theisen，P._ Greenlees，G. Auger, J.Bastin，E.Bouchez，B. Bouriquet，J. Casandjian，R.Cee,E. Clément，R. Dayras,G. de France, R.de Toureil, S.Eeckhaudt，A. Gorgen，T. Grahn, S.Grévy,K.Hauschild,R.Herzberg,P.Ikin,G. Jones, P.Jones,R.Julin,S.Juutinen,H.Kettunen,A.Korichi，W.Korten，Y.Le Coz，M.Leino，A.LopezMartens,S.Lukyanov,Y.Penionzhkevich,J.Perkowski, A.Pritchard,P.Rahkila,M. Rejmund, J. Saren, C. Scholey,S. Siem, M. Saint-Laurent,C. Simenel, Y. Sobolev, C. Stodel, J. Uusitalo,A. Villari, M. Bender,P.Bonche, and P. Heenen, Eur.Phys. J. A 30,397 (2006).   \n[33] F.HeBberger, S. Hofmann, D. Ackermann, S. Antalic, B.Kindler,I. Kojouharov,P. Kuusiniemi, M. Leino, B.Lommel, R. Mann, K. Nishio, A. Popeko, B. Sulignano,S. Saro,B.Streicher,M. Venhart,and A.Yeremin, Eur.Phys. J. A 30, 561 (2006).   \n[34] S. M. Harris, Phys.Rev. Lett. 13,663 (1964); Phys. Rev. 138, B509 (1965).   \n[35] P. Holmberg and P. Lipas, Nucl. Phys. A 117, 552 (1968).   \n[36] C. S.Wu and J.Y. Zeng,Commu. Theor. Phys.8,51 (1987).   \n[37] J. Y. Zeng, J. Meng, C. S. Wu, E. G. Zhao, Z. Xing, and X. Q. Chen, Phys. Rev. C 44, 1745R (1991).   \n[38] C. S. Wu, J. Y. Zeng, Z. Xing, X. Q. Chen, and J. Meng, Phys. Rev. C 45,261 (1992).   \n[39] F. Xu and J. Hu, Phys. Rev. C 49,1449 (1994)； Phys. Rev. C 52,431 (1995).   \n[40] S.-G. Zhou, C. Zheng, F. Xu, and J. Hu, Nucl. Phys. A 615, 229 (1997).   \n[41] S.-G. Zhou and C. Zheng, Phys. Rev. C 55, 2324 (1997).   \n[42] R.Herzberg， S. Moon，S. Eeckhaudt，P. Greenlees, P.Butler, T. Page,A. Afanasjev, N. Amzal, J. Bastin, F. Becker,M. Bender,B. Bruyneel, J. Cocks,I. Darby, O.Dorvaux,K.Eskola，J.Gerl，T.Grahn，C.GrayJones,N. Hammond, K. Hauschild, P. Heenen,K. Helariutta,A.Herzberg,F.Hessberger,M.Houry,A.Hirstel, R.Humphreys, G. Jones,P. Jones, R. Julin, S. Juutinen，H.Kankaanpaa,H.Kettunen，T.Khoo，W.Korten,P.Kuusiniemi,Y.LeCoz,M.Leino,A.Leppanen, C.Lister, R.Lucas, M. Muikku, P. Nieminen, M. Nyman, R.Page,T.Page,J.Pakarinen,A.Pritchard,P.Rahkila, P.Reiter,M. Sandzelius,J. Saren, C. Schlegel, C. Scholey, C.Theisen,W.Trzaska,J.Uusitalo,A.Wiens,and H. Wollersheim, Eur. Phys. J.A 42,333 (2009).   \n[43] K. Wen, Z.-H. Zhang, E.-G. Zhao, and S.-G. Zhou, Sci. Sin.-Phys.Mech.Astron.42, 22 (2012),in Chinese.   \n[44] J.E.Bastin,R.-D.Herzberg,P.A.Butler,G.D. Jones, R.D.Page, D.G. Jenkins,N. Amzal, P.M. T. Brew, N. J. Hammond, R.D.Humphreys, P. J. C. Ikin, T.Page, P.T.Greenlees,P.M.Jones,R.Julin，S.Juutinen, H. Kankaanpaa, A. Keenan, H. Kettunen, P. Kuusiniemi, M.Leino，A.P.Leppänen，M.Muikku，P.Nieminen，P. Rahkila,C. Scholey，J.Uusitalo,E. Bouchez, A.Chatillon，A. Hurstel, W. Korten，Y. L.Coz, C.Theisen,D.Ackermann,J.Gerl, K.Helariutta,F.P. Hessberger， C. Schlegel， H. J.Wollerscheim， M.Lach, A.Maj，W.Meczynski,J. Styczen，T.L.Khoo,C.J. Lister，A.V. Afanasjev,H.J. Maier, P.Reiter,P.Bednarczyc,K. Eskola, and K. Hauschild, Phys. Rev.C 73, 024308 (2006).   \n[45]R.-D.Herzberg，N.Amzal，F.Becker，P.A.Butler， A. J. C. Chewter， J. F. C. Cocks, O.Dorvaux, K.Eskola，J.Gerl,P.T.Greenlees,N.J.Hammond, K.Hauschild, K. Helariutta,F. HeBberger，M. Houry, G.D.Jones,P.M. Jones,R.Julin,S.Juutinen, H.Kankaanpää,H.Kettunen,T.L.Khoo,W.Korten, P.Kuusiniemi,Y.L. Coz,M. Leino, C.J. Lister,R.Lucas，M. Muikku,P.Nieminen,R.D. Page,P.Rahk",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ila，P.Reiter，C.Schlegel，C.Scholey，O.Stezowski, C.Theisen,W.H.Trzaska,J.Uusitalo,and H.J.Wollersheim,Phys.Rev.C 65,014303 (2001). [46] S.Eeckhaudt，P.Greenlees，N．Amzal，J.Bastin, E.Bouchez,P.Butler,A.Chatillon,K.Eskola,J.Gerl, T.Grahn，A.Gorgen，R.Herzberg，F.Hessberger, A．Hürstel，P.Ikin，G.Jones，P.Jones，R.Julin, S.Juutinen,H.Kettunen,T.Khoo,W.Korten,P.Kuusiniemi,Y.Le Coz,M.Leino,A.Leppänen,P.Nieminen,J.Pakarinen,J.Perkowski,A.Pritchard,P.Reiter, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "P.Rahkila, C. Scholey, C.Theisen,J.Uusitalo,K.Van de Vel,and J.Wilson, Eur.Phys.J.A 26, 227 (2005).   \n[47]F.Al-Khudair, G.-L. Long， and Y. Sun, Phys. Rev. C 79,034320 (2009).   \n[48] Y.-S. Chen, Y. Sun, and Z.-C. Gao, Phys. Rev. C 77, 061305R (2008).   \n[49] J. Zhao,B.-N. Lu, E.-G. Zhao, and S.-G. Zhou, Phys. Rev. C 86,057304 (2012)   \n[50] H.L. Liu,F.R. Xu, and P. M. Walker, Phys.Rev. C 86, 011301R (2012). ",
+        "page_idx": 6
+    }
+]

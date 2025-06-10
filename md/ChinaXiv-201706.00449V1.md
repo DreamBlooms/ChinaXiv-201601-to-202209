@@ -1,0 +1,194 @@
+# DOI: 10.5846/stxb201603230516
+
+陈媛媛,江波，王效科,李丽.北京典型绿化树种幼苗光合特性对硬化地表的响应.生态学报,2017,37(11)：3673-3682. ChenYYJgB，WagXK,Litofetoefoticacerisofliofhes（s tabulaeformis,Fraxinuschinensis，andAcertruncatum）inBeijing.ActaEcologicaSinica,2Ol7,37(11):367-3682.
+
+# 北京典型绿化树种幼苗光合特性对硬化地表的响应
+
+陈媛媛,²,江 波³,王效科1，\*，李 丽1,2
+
+1中国科学院生态环境研究中心,城市与区域生态国家重点实验室,北京城市生态系统研究站，北京100085  
+2中国科学院大学，北京100049  
+3长江水资源保护科学研究所，武汉430051
+
+摘要：以北京典型绿化树种油松（Pinus tabulaeformis）、白蜡（Fraxinus chinensis）和元宝枫（Acer truncatum）幼苗为试验材料,设置透水硬化地表、不透水硬化地表和对照3个水平的地表类型,通过监测地表温度、土壤含水量( $2 0 ~ \mathrm { { c m } ) }$ 和光合参数等指标，分析3种树木叶片光合特性对硬化地表的响应特征。结果表明：城市硬化地表极显著地提高了地表温度( $P { < } 0 . 0 1 \mathrm { \stackrel { . } { } }$ )，表现为透水地表$>$ 不透水地表 $\mathrm { > }$ 对照;不透水地表极显著地降低了3种树木土壤含水量( $P { < } 0 . 0 1 \rangle$ );透水地表极显著地提高了油松和元宝枫土壤含水量( $\scriptstyle P < 0 . 0 1 { \mathrm { ~ } }$ )。两种硬化地表下油松、元宝枫和不透水地表下白蜡幼苗叶片的净光合速率、蒸腾速率和气孔导度降低,株高和基径生长受到抑制。硬化地表对油松和元宝枫的影响主要源于硬化地表形成的高温胁迫,对白蜡的影响主要源于不透水地表形成的干旱胁迫。因此,在配置和种植城市绿化植物时,为缓解硬化地表对城市树木生长发育的不利影响,应选择适应高温和干旱的植物,并采取降温和灌溉措施来降低硬化地表的影响。（
+
+关键词：硬化地表;油松；白蜡；元宝枫;光合特性
+
+# Effect of pavement on the leaf photosynthetic characteristics of saplings of three common tree species (Pinus tabulaeformis ， Fraxinus chinensis ， and Acer truncatum） in Beijing
+
+CHEN Yuanyuan1'²， JIANG Bo³，WANG Xiaoke1,\*，LI Li1,2   
+1StateKeLboatorfUrbadegaleseacheterfcootaliecs，inecdefieceseU   
+Ecosystem Research Station，Beijing 100085,China   
+2University of Chinese Academy of Sciences，Beijing 10o049,China   
+3Changjiang Water Resources Protection Institute，Wuhan 43Oo51,China
+
+Abstract：Pavement isone of the most important factorscausing environmental changes inurbanareas.Inthis study, saplings ofthree common treespecies （pine，Pinus tabulaeformis；ash，Fraxinuschinensis；and maple，Acer truncatum） were planted in three diferent treatment plots:pervious brick pavement with a permeabilitycoeffcientof more than 0.4 mm/s,impervious brick pavement with a permeabilitycoefficient near zero，and non-pavement （control）.In response to thepavement treatments，leaf photosynthetic characteristicsof thepine，ash，and maple trees were determined by measuring surface temperature， soil moisture content ( $2 0 \ \mathrm { c m }$ ），and photosynthetic parameters.The results showed that surface temperature was significantly higher in the pavement treatments than in the control treatment ( $\cdot ^ { P < 0 . 0 1 }$ ），witha higher surface temperature noted for theperviouspavement than for the imperviouspavement.For all the treespecies (especially ash），soil moisturecontent was significantly lower inthe impervious pavement treatmentthan inthe pervious pavement and control treatments ( $P { < } 0 . 0 1 \ )$ .Soil moisture content was significantly higher for pine and maple in the pervious pavement treatment than in the impervious pavement and control treatments ( $( P { < } 0 . 0 1 )$ .For pine and maple，the total number of days with a maximum surface temperature exceeding $4 0 \%$ accounted for $5 3 . 3 \%$ （pervious pavement treatment）and $3 6 . 1 \%$ （impervious pavement treatment）of the entire growing period.For ash，the total number of days with daily mean soil moisture content less than $1 5 \%$ accounted for $8 8 . 5 \%$ （impervious pavement treatment）of the entire growing period.The pavement caused heat stress on pine and maple growth，and the impervious pavement caused drought stress onash growth,leading toa decrease innetphotosyntheticrate,transpirationrate，and stomatalconductance，and, subsequently，a decrease in tree height and basal diameter.For pine，significantly lower tree height ( $1 2 . 6 \%$ and $1 8 . 5 \% \rangle$ and basal diameter ( $1 8 . 5 \%$ and $1 7 . 1 \%$ ）were noted for the pervious and impervious pavement treatments,respectively, than for the control treatment.For maple，significantly lower tree height ( $4 5 . 1 \%$ and $2 6 . 8 \%$ ）and basal diameter ( $4 0 . 9 \%$ （204 and $2 0 . 3 \%$ ）were noted for the pervious and impervious pavement treatments，respectively，than for the control treatment. For ash，significantly lower tree height （ $1 1 . 1 \%$ and $1 4 . 6 \%$ ）and basal diameter ( $9 . 4 \%$ and $\Pi . 3 \% )$ ）were noted for the impervious pavement treatment，than for the pervious pavementandcontrol treatments.Inconclusion，itis necesary to selectheat and drought toleranttree species，and manageland withshadowing or irigation，inorder to guarantee tree growth in paved urban environments. O
+
+Key Words:pavement;； Pinus tabulaeformis ；Fraxinus chinensis ；Acer truncatum；photosynthetic characteristics
+
+城市硬化地表是指采用沥青、水泥、混凝土等覆盖城市自然土壤的现象,主要包括城市道路、广场和停车场等[1]。硬化地表面积扩大是城市化进程加速的重要表征之一[-4]。城市植物具有涵养水源、缓解热岛效应、净化空气、减少噪音等重要生态功能,在维持城市生态平衡和改善城市生态环境方面发挥着重要的作用[5]。然而,扩大的城市硬化地表在阻碍土壤和大气间水分和气体的交换时[1],改变了城市植物赖以生存的气候、土壤和生物等环境因子[6]。当水分、营养物质和热量等条件无法满足城市植物生长的要求时,城市植物就会出现生长减弱甚至死亡的现象[7-8]。伴随城市化进程的加快,硬化地表引起的热效应、水文效应及对城市植物生长的影响已成为当前城市生态学研究的热点问题。
+
+近年来,有学者采用现场观测的方法研究城市硬化地表下植物生理生态的变化特征[1,9-15],但这种方法存在一定的局限性,由于植物来源、实验环境、人为因素及土壤本底存在较大不确定性,很难保证实验条件的一致性。因此,本研究通过建立较大面积的原位模拟实验场以解决现场观测时影响因素过多的问题,并设置透水硬化地表、不透水硬化地表和对照3个水平的地表类型,以北京典型绿化树种油松（Pinus tabulaeformis）、白蜡（Fraxinus chinensis）和元宝枫（Acer truncatum)1年生幼苗为研究材料,通过观测地表温度、土壤含水量（20cm)和光合特性参数等指标,分析油松、白蜡和元宝枫光合特性对硬化地表的响应特征。主要目的是客观科学地探讨不同地表类型对城市植物生理生态特征的影响及其影响机理,为城市绿化管理提供参考。
+
+# 1材料与方法
+
+# 1.1 试验地点
+
+试验地设在北京市昌平区马池口镇丈头村种子管理站 $( 4 0 ^ { \circ } 1 2 ^ { \prime } \mathrm { N } , 1 1 6 ^ { \circ } 0 8 ^ { \prime } \mathrm { E } )$ 。该站位于北京市西北部,属暖温带大陆性季风气候,全年四季分明。年均气温 $1 2 . 1 \mathrm { { ^ { \circ } C } }$ ,年平均降水量 $5 5 0 . 3 ~ \mathrm { m m }$ ,集中于夏季的6—8月份。土壤类型为潮土,质地为砂壤,土壤基本理化性质为：有机质含量为 $1 6 . 4 ~ \mathrm { g / k g }$ ，全氮 $0 . 9 ~ \mathrm { g / k g }$ ,速效磷38.1$\mathrm { m g / k g }$ ,速效钾 $1 0 2 . 1 ~ \mathrm { m g / k g }$ ,土壤 $\mathrm { \ p H }$ 值为8.3。
+
+# 1.2试验设计和材料
+
+2012年4月12日整地。试验共占地约 $3 5 1 0 ~ \mathrm { m } ^ { 2 } ( 5 4 ~ \mathrm { m } { \times } 6 5 ~ \mathrm { m }$ ，东西 $\times$ 南北），按照东西向平均分成3个区域,从东至西分别设置为对照、透水地表和不透水地表处理,以自然地表作为对照,渗透率超过 $0 . 4 ~ \mathrm { m m / s }$ 的透水砖铺设地面作为透水地表,渗透率几乎为0的不透水砖铺设地面作为不透水地表。每种地表类型在南北向上等分3个区域,作为3个重复，每个重复内平均划分3个 $8 0 ~ \mathrm { m } ^ { 2 } ( ~ 1 0 ~ \mathrm { m } { \times } 8 ~ \mathrm { m } )$ 小区，分别种植北京市典型绿化树种油松、白蜡和元宝枫。每个小区种植同种树木18棵,分4行,行距和株距均为 $2 \mathrm { ~ m ~ }$ 。油松、元宝枫、白蜡树均种植162棵,共计486棵。硬化地表上树木根围留有 $2 0 \ \mathrm { c m } { \times } 2 0 \ \mathrm { c m }$ 的方形树坑。试验所用砖的大小为20$\mathrm { c m } { \times } 1 0 \ \mathrm { c m } { \times } 6 \ \mathrm { c m }$ （长 $\times$ 宽 $\times$ 高）,购买于北京亚泰雨洪技术开发有限公司。试验样地分布示意图见图1。
+
+供试材料均选用1年生幼苗,其中油松和元宝枫购买于北京市怀柔区倚众绿篱苗圃,白蜡购买于北京市通州区瀚隆伟业园林工程有限公司。油松、白蜡和元宝枫初始平均株高分别为 $( 7 7 . 3 \pm 1 . 9 )$ 、（ $1 1 8 . 5 \pm 2 . 4 )$ 、（202 $( 4 4 . 5 { \pm } 7 . 4 ) \mathrm { c m }$ ,初始平均基径分别为( $\cdot 1 4 . 0 { \pm } 0 . 5 \rangle$ 、 $( 1 4 . 8 \pm 1 . 0 ) \$ 、 $( 6 . 7 { \pm } 0 . 3 ) \mathrm { m m }$ ,于2012年4月16日移栽。
+
+![](images/dc507916c337dbcb52a201a4ecb833922a83133f4e1e52009ec33af6e16a65e2.jpg)  
+图1试验样地分布示意图  
+Fig.1Sketch map of the sample sites
+
+# 1.3 观测方法
+
+# 1.3.1 地表温度和土壤含水量
+
+采用红外温度传感器测定地表温度,将红外温度传感器(Optris CS，Optris GmbH，Germany)垂直安装在距离地面1m的支架上,并在传感器顶部安装透明塑料罩以防止降水的影响,另一端连接在CR1000数据采集器上,采集间隔为 $1 0 ~ \mathrm { m i n }$ ;采用 $\mathrm { E C H } _ { 2 } \mathrm { O }$ 监测系统（Decagon Devices Inc.，Pullman，WA，USA）测定土壤含水量,该系统由 EM50数据采集器和EC-5 土壤含水量传感器组成,EC-5传感器埋于土壤表面以下 $2 0 ~ \mathrm { c m }$ 处，EM50数据采集器数据采集间隔为 $1 0 ~ \mathrm { m i n }$ 。各传感器均安装在样地中心位置。
+
+# 1.3.2光合特性季节变化
+
+2013年7月—10月,采用便携式光合仪（Li-Cor 6400，Li-Cor Inc.，Lincoln，USA)测定叶片气体交换参数,每月测定1次。记录净光合速率 $( P _ { n } , \mathrm { \mu m o l { C O } _ { 2 } \mathrm { \ m } ^ { - 2 } \mathrm { \ s } ^ { - 1 } } ,$ 、蒸腾速率( $T _ { r }$ ，mmol $\mathrm { H } _ { 2 } \mathrm { O } \mathrm { ~ m } ^ { - 2 } \mathrm { ~ s } ^ { - 1 }$ ）、气孔导度 $( G _ { s }$ ，mol $\mathrm { H } _ { 2 } \mathrm { O ~ m } ^ { - 2 } \mathrm { ~ s } ^ { - 1 }$ ）。具体测定方法为：晴天8:00—11:00,每个小区随机选取2株植株,并于每株植株上选取顶部受光方向一致的全展叶3—5片进行测定,取平均值作为该植株测定值。测定前根据当日光照强度设置光强， $\mathrm { C O } _ { 2 }$ 浓度采用缓冲瓶控制为环境 $\mathrm { C O } _ { 2 }$ 浓度,空气流速为 $5 0 0 ~ \mu \mathrm { m o l / s }$ ，气温控制在环境温度 $\pm 2 \%$ ,相对湿度（20 $( 5 5 \pm 5 ) \%$ 。
+
+# 1.3.3 光合特性日变化
+
+2013年8月9日、8月10日和8月27日（选择晴朗和无风的天气),采用便携式光合仪（同上)分别测定元宝枫、白蜡和油松的光合日动态。测定时间为8：00一18：00，每隔 $^ { 2 \mathrm { ~ h ~ } }$ 测定1次，每个小区随机选取2株植株。测定时选择每株顶部受光方向一致的全展叶3片,首次测完1个叶片对其挂牌标记,便于下次测定。记录净光合速率( $\boldsymbol { P } _ { n }$ ， $\mu \mathrm { m o l C O } _ { 2 } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ ）、蒸腾速率( $T _ { r }$ ，mmol $\mathrm { H } _ { 2 } \mathrm { O } \mathrm { ~ m } ^ { - 2 } \mathrm { ~ s } ^ { - 1 }$ )和气孔导度( $G _ { s }$ ，mol $\mathrm { H } _ { 2 } \mathrm { O } \mathrm { ~ m } ^ { - 2 } \mathrm { ~ s } ^ { - 1 }$ ）。
+
+# 1.3.4 株高和基径
+
+在 2013年10月,测定所有树木的株高和基径。株高采用钢卷尺手动测定树木从地面上根茎到树梢的高度。基径采用有数字显示的游标卡尺（CD-15，Mitutoyo，Japan)测定地面根颈处的树干直径,游标卡尺精度为 $0 . 0 1 \ \mathrm { m m }$ 。
+
+# 1.4 数据分析
+
+利用 SPSS 20.0(SPSS for windows，version 20.0，Chicago，Illinois，USA)和 Excel $2 0 0 7$ 进行数据处理和分析。使用配对样本T检验分析硬化地表对环境因子的影响,使用单因素方差分析(One-way ANOVA）检验硬化地表对光合参数和生长指标的影响,使用Duncan多重检验方法进行不同地表类型间的比较， $\textstyle P < 0 . 0 5$ 表示差异显著， $P { < } 0 . 0 1$ 表示差异极显著。
+
+# 2结果与分析
+
+2.1不同地表类型间地表温度和土壤含水量变化
+
+3种树木生长季,硬化地表对地表温度季节性变化影响基本一致,且均表现为透水地表 $>$ 不透水地表 $>$ 对照(图2)。与对照相比,油松、白蜡和元宝枫平均地表温度在透水地表和不透水地表上分别极显著地提高了$5 . 8 8 \ 、 5 . 6 0 、 6 . 4 4 \mathrm { ^ { \circ } C }$ 和 $2 . 4 2 , 2 . 9 0 , 1 . 3 0 ^ { \circ } \mathrm { C }$ （ $P { < } 0 . 0 1 \$ );与不透水地表相比,平均地表温度在透水地表分别极显著地提高了 $2 . 5 7 \ 、 1 . 9 5 \ 、 4 . 3 7 \mathrm { { ^ circ C } } ( P { < } 0 . 0 1 )$ （表1)。在树木生长旺盛季(6—9月）,地表温度日最高值大于 $4 0 ^ { \circ } \mathrm { C }$ 的天数在2种硬化地表上明显增加。在透水地表和不透水地表上,油松和元宝枫地表温度日最高值大于 $4 0 ^ { \circ } \mathrm { C }$ 的天数分别占整个生长旺盛季的 $5 3 . 3 \%$ 和 $3 6 . \%$ ，白蜡地表温度日最高值 ${ \cdot } { > } 4 0 ^ { \circ } \mathrm { C }$ 的天数相比于油松和元宝枫有所降低。
+
+表1不同地表类型间地表温度和土壤含水量配对样本 $T$ 检验及地表温度日最高值 $\bf > 4 0 \%$ 和土壤日均含水量 $< 1 5 \%$ 的天数 Table1PairedTtestofsufacetemperatureandsoiloistureamongdierentesoflandpavementsoftr trespeciesadthetotalda hen the maximum value of surface temperature was more than $\mathbf { 4 0 \% }$ or the daily mean value of soil moisture content was less than $15 \%$ （204   
+
+<html><body><table><tr><td></td><td colspan="3">不同地表类型间均值差值 Paired differences of the mean value</td><td colspan="3">天数Days/d 日最高温>40℃与日均含水量<15%</td></tr><tr><td>Tree species</td><td>透水-对照 Control</td><td>不透水-对照 Control</td><td>不透水-透水 Pervious</td><td>对照 Control</td><td>透水 Pervious</td><td>不透水 Impervious</td></tr><tr><td> Surface temperature/C</td><td>5.88±4.85 **</td><td>2.42±2.28 **</td><td>-2.57±1.10 **</td><td>19</td><td>65</td><td>44</td></tr><tr><td>白蜡</td><td>5.60±5.11 **</td><td>2.90±3.17**</td><td>-1.95±1.46 **</td><td>0</td><td>43</td><td>38</td></tr><tr><td>元宝枫</td><td>6.44±4.86 **</td><td>1.30±2.43 **</td><td>-4.37±1.45 **</td><td>19</td><td>65</td><td>44</td></tr><tr><td>油松</td><td>1.00±1.71 **</td><td>-3.10±2.57 **</td><td>-4.11±2.55 **</td><td>0</td><td>0</td><td>8</td></tr><tr><td>白蜡</td><td>-1.61±2.24 **</td><td>-8.96±2.83**</td><td>-7.35±2.53 **</td><td>0</td><td>3</td><td>108</td></tr><tr><td>元宝枫</td><td>1.00±2.10 **</td><td>-2.45±4.79 **</td><td>-3.45±3.91 **</td><td>0</td><td>0</td><td>28</td></tr></table></body></html>
+
+\*\* $P { < } 0 . 0 1$
+
+不透水地表因其低渗透性,其土壤含水量极显著低于对照和透水地表( $P { < } 0 . 0 1 )$ （图3和表1）。整个生长季，油松和元宝枫生长下的透水地表平均土壤含水量比对照高 $1 \%$ ，而白蜡生长下的透水地表土壤含水量比对照低 $1 . 6 1 \%$ 。3种树木不透水地表土壤日均含水量均极显著降低,降低幅度最大的是白蜡。白蜡不透水地表土壤日均含水量低于 $1 5 \%$ 的天数占整个生长旺盛期的 $8 8 . 5 \%$ 。
+
+http://www.ecologica.cn
+
+50 50油松 白蜡45 4540 4035 3530 3025 25 W NNM20 20限 Heeeeeeees 1510 5 151006-0106-21 07-11 07-3108-20 09-09 09-29 10-18 11-08 06-0106-21 07-1107-3108-20 09-0909-29 10-1811-0850 日期Date元宝枫454035 对照透水30 不透水25205 Y10 109506-0106-21 07-11 07-3108-20 09-09 09-2910-18 11-08日期Date
+
+2.2油松、白蜡和元宝枫不同地表类型间光合特性季节变化
+
+从图4中可以看出,油松叶片的净光合速率、蒸腾速率和气孔导度均为对照最高,不透水地表次之,透水地表最低。油松叶片净光合速率7月透水和不透水地表分别比对照低 $1 9 . 8 \%$ 和 $7 . 2 \%$ ,9月分别比对照显著低$1 3 . 3 \%$ 和 $1 1 . 5 \%$ （ $\scriptstyle P < 0 . 0 5 )$ 。油松叶片蒸腾速率在8月透水和不透水地表分别比对照显著低 $2 4 . 7 \%$ 和 $1 8 . 3 \%$ （ $_ { P < 0 . 0 5 ) }$ 。油松叶片气孔导度在7月达到最大值,透水和不透水地表分别比对照显著降低了 $4 3 . 8 \%$ 和 $1 7 . 8 \%$ （ $P { < } 0 . 0 5 )$ ,8月分别比对照显著低 $3 0 . 3 \%$ 和 $2 2 . 5 \% ( P { < } 0 . 0 5 )$ 。
+
+白蜡叶片的净光合速率、蒸腾速率和气孔导度总体上以透水地表上最高,对照次之,不透水地表最低,且随季节变化表现出一定的差异。白蜡叶片净光合速率8月不透水地表比对照和透水地表分别显著降低了$1 3 . 4 \%$ 和 $1 5 . 8 \%$ ,9月不透水地表上比透水地表显著低 $1 2 . 4 \% ( P { < } 0 . 0 5 )$ 。白蜡叶片蒸腾速率9月不透水地表比对照和透水地表分别显著降低了 $1 9 . 0 \%$ 和 $1 3 . 2 \% ( P { < } 0 . 0 5 )$ 。白蜡叶片气孔导度9月不透水地表比对照和透水地表分别显著降低了 $2 1 . 2 \%$ 和 $2 5 . 3 \%$ （ $P { < } 0 . 0 5 )$ 。
+
+? 元宝枫叶片净光合速率、蒸腾速率和气孔导度总体上以透水地表最低,不透水地表和对照之间的差异随季节变动发生相应的变化。8月透水地表和不透水地表上生长的元宝枫叶片净光合速率、蒸腾速率和气孔导度显著降低( $\scriptstyle P < 0 . 0 5$ )。9月透水地表上生长的元宝枫叶片净光合速率、蒸腾速率和气孔导度分别为12.21$\mathrm { \mu \mathrm { m o l } C O _ { 2 } \ m ^ { - 2 } \ s ^ { - 1 } , 1 . 9 4 \ m m o l { H } _ { 2 } O \ m ^ { - 2 } \ s ^ { - 1 } }$ 和 $\mathrm { 0 . 1 4 ~ m o l H _ { 2 } O ~ m ^ { - 2 } ~ s ^ { - 1 } }$ ,比对照显著降低了 $2 1 . 1 \%$ ） $4 0 . 8 \%$ 和 $3 8 . 8 \%$ ，比不透水显著降低了 $2 6 . 9 \% . 3 0 . 3 \%$ 和 $3 3 . 7 \% ( P { < } 0 . 0 5 )$ 。
+
+2.3油松、白蜡和元宝枫不同地表类型间光合特性日变化
+
+油松和元宝枫叶片净光合速率在早晨8:00 出现峰值,14:00 达到低谷后存在一个缓冲变化,之后在16:00有所回升,但回升的速率远小于中午下降的速率（图5）。在硬化地表上生长的油松和元宝枫叶片净光合速率日均值均显著低于对照( $P { < } 0 . 0 5 )$ （表2），2种硬化地表间差异不显著。透水和不透水地表上生长的油松叶片净光合速率分别比对照低 $1 9 . 9 \%$ 和 $2 4 . 6 \%$ ,元宝枫叶片净光合速率分别比对照低 $4 0 . 1 \%$ 和 $2 8 . 9 \%$ 。
+
+![](images/423effe8a488449dae73221fdad7e997711ab1afd0e98e9d6e1855e6ef1d4fe0.jpg)  
+图33种树木不同地表类型间土壤含水量的变化  
+Fig.3Changes of soil moisture content among diferent types of land pavements of three tree species
+
+白蜡净光合速率日变化呈单峰型曲线（图5）,日最高值出现在10:00—12:00。白蜡叶片净光合速率日变化过程虽然表现为硬化地表高于对照,但3种地表类型间叶片净光合速率日均值差异不显著。
+
+油松、白蜡和元宝枫3种地表类型下叶片气孔导度日变化趋势和净光合速率日变化趋势相似。
+
+对照和透水地表上生长的油松和元宝枫叶片蒸腾速率呈单峰曲线,不透水地表上则呈双峰曲线,透水和不透水地表上生长的油松和元宝枫叶片蒸腾速率日均值显著低于对照( $P { < } 0 . 0 5 )$ （表2）。3种地表类型上生长的白蜡叶片蒸腾速率均呈单峰曲线,且3种地表类型间叶片蒸腾速率日均值差异不显著。
+
+表23种树木不同地表类型间光合特性日均值比较  
+Table2Comparisonsofdailymeansofphotosyntheticcharactersticsamongdiferenttypesoflandpavementsofthretrespecies   
+
+<html><body><table><tr><td>树种 变量 Tree species</td><td>Variables</td><td>对照 Control</td><td>透水 Pervious</td><td>不透水 Impervious</td></tr><tr><td>油松 Pinus tabulaeformis</td><td>净光合速率Pn/（μmolCOm-²s-1)</td><td>6.75±2.81 a</td><td>5.41±2.48 b</td><td>5.09±2.67 b</td></tr><tr><td rowspan="2"></td><td>蒸腾速率T,/(mmolHOm-²s-1)</td><td>3.49±1.26 a</td><td>2.43±0.87 b</td><td>2.60±1.08 b</td></tr><tr><td>气孔导度Gs/（molHOm-² s-1)</td><td>0.09±0.04 a</td><td>0.06±0.03 b</td><td>0.07±0.04 b</td></tr><tr><td>白蜡Fraxinus chinensis</td><td>净光合速率Pn/（μmolCOm-²s-1)</td><td>14.80±7.0 a</td><td>16.70±6.9 a</td><td>15.90±6.7 a</td></tr><tr><td rowspan="4">元宝枫Acer truncatum</td><td>蒸腾速率T,/（mmolHO m-²s-1)</td><td>5.17±2.90 a</td><td>5.68±2.93 a</td><td>4.93±2.57 a</td></tr><tr><td>气孔导度Gg/(molHOm-²s-1)</td><td>0.25±0.13 a</td><td>0.29±0.13 a</td><td>0.23±0.12 a</td></tr><tr><td>净光合速率Pn/（μmolCOm-²s-1）</td><td>8.27±5.06 a</td><td>4.95±3.30 b</td><td>5.88±4.17 b</td></tr><tr><td>蒸腾速率 T,/(mmolHOm-²s-1) 气孔导度Gg/（molHOm-² s-1)</td><td>3.96±1.61 a 0.11±0.06 a</td><td>2.47±1.34 b 0.07±0.04 b</td><td>2.73±1.42 b 0.07±0.05 b</td></tr></table></body></html>
+
+同一行数据后不同小写字母代表不同地表类型间光合特征差异显著( $\scriptstyle P < 0 . 0 5 )$ ，数据为平均值±标准差
+
+# 2.4油松、白蜡和元宝枫不同地表类型间株高和基径变化
+
+硬化地表显著抑制了油松和元宝枫的株高和基径的生长( $\scriptstyle \left( P < 0 . 0 5 \right)$ 。不透水地表上生长的油松株高显著低于透水地表( $P { < } 0 . 0 5 )$ ,而油松基径在2种硬化地表间差异不显著;透水地表上生长的元宝枫株高和基径均
+
+![](images/b5f672575142c79ea6ac89194d20f685328bca1b50995c2fca610fd1f847408f.jpg)  
+图43种树木不同地表类型间光合特性的季节变化  
+Fig.4Seasonal changes of photosynthetic characteristics among different types of land pavements of three tree species图中不同小写字母表示同一月份不同地表类型间光合特征差异显著( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ;图中数据为平均值 $\cdot \pm$ 标准差
+
+显著低于不透水地表( $P { < } 0 . 0 5 )$ （表3)
+
+不透水地表显著抑制了白蜡株高和基径的生长 ( $P { < } 0 . 0 5 )$ ,不透水地表上生长的白蜡株高比对照和透水地表分别降低了 $1 4 . 6 \%$ 和 $1 1 . \dot { 1 } \%$ ,基径分别降低了 $1 1 . 3 \%$ 和 $9 . 4 \%$ (表3）。
+
+表33种树木不同地表类型间株高和基径比较  
+Table 3Comparisons of tree height and basal diameteramong diferent types of landpavementsof three tree species   
+
+<html><body><table><tr><td rowspan="3">变量 Variables</td><td colspan="3">油松Pinus tabulaeformis</td><td colspan="3">白蜡Fraxinus chinensis</td><td colspan="3">元宝枫Acer truncatum</td></tr><tr><td>对照 Control</td><td>透水 Pervious</td><td>不透水 Impervious</td><td>对照 Control</td><td>透水 Pervious</td><td>不透水 Impervious</td><td>对照 Control</td><td>透水 Pervious</td><td>不透水 Impervious</td></tr><tr><td>株高 Height/cm</td><td>111.1±1.3 a</td><td>97.1±0.3 b</td><td>90.6±0.9 c</td><td>323.5±7.4 a</td><td>311.0±5.5 a</td><td>276.4±1.2 b</td><td>210.2±3.7 a</td><td>115.4±4.9 c</td><td>153.9±2.7 b</td></tr><tr><td>基径 Basal diameter/mm</td><td>35.6±1.0 a</td><td>29.0±0.2 b</td><td>29.5±0.1 b</td><td>61.1±2.5 a</td><td>59.8±1.0 a</td><td>54.2±0.3 b</td><td>36.9±4.2 a</td><td>21.8±0.5 c</td><td>29.4±1.7 b</td></tr></table></body></html>
+
+同一行数据后不同小写字母代表同一树种不同地表类型间株高和基径差异显著( $\cdot P { < } 0 . 0 5 )$ ,数据为平均值±标准差
+
+# 3讨论
+
+城市硬化地表对温度的影响主要表现在2个方面：一方面,硬化地表改变了城市下垫面。在自然条件一致的情况下,硬化地表相比于自然土壤存在较高的吸热性、导热性和热储存能力[16-17],吸收和存储的太阳净辐射能更大;另一方面,自然土壤通过蒸散发增加太阳净辐射在潜热的分配比例,相比硬化地表显热比例较小[18-19],地表温度较硬化地表较低。本研究结果表明,在油松、白蜡和元宝枫生长季,透水地表和不透水地表相比于对照地表温度分别显著增加了5.60— $6 . 4 4 ^ { \circ } \mathrm { C }$ 和1.3- $- 2 . 9 \mathrm { ^ { \circ } C }$ ,这一结论与 Montague[16]、宋英石[1]等关于硬化地表的研究结论一致。此外,本研究结果也表明硬化地表对地表温度的影响可能与硬化地表的物理属性有关。相比于不透水地表,透水地表具有较大的孔隙度和粗糙度[20],其高的储热功能使得透水地表比不透水地表温度显著增加1.95— $\cdot 4 . 3 7 ^ { \circ } \mathrm { C }$ 。1
+
+![](images/6a33849c061e71c4cf6f7913d60e08f9da5ea11c66e08db3597475176d2801a9.jpg)  
+图53种树木不同地表类型间光合特性的日变化  
+Fig.5Diurnal changes of photosynthetic characteristics among diferent types of land pavements of three tree species
+
+6—9月份是北京全年最为炎热的季节,也是树木生长的旺盛期,温度过高,容易对树木造成热胁迫,抑制叶片的光合作用,进而影响树木生长。本研究中硬化地表显著提高了油松和元宝枫地表温度,以透水地表对地表温度的影响更为显著。在生长旺盛期,透水地表导致油松和元宝枫地表日最高温超过 $4 0 \%$ 的天数达到65d,长期的高温环境对油松和元宝枫幼苗造成了热胁迫。白蜡株高达 $3 \mathrm { ~ m ~ }$ 左右,在生长旺盛期有较大冠幅,郁闭度高。因此,其地表日最高温超过 $4 0 \%$ 的天数相比于油松和元宝枫有所降低，白蜡对于硬化地表形成的热胁迫有一定的缓解作用。
+
+城市硬化地表对水分的影响也表现在2个方面：一方面,硬化地表覆盖导致降水难于下渗,径流损失增加;另一方面硬化地表减少了土壤孔隙度,土壤透水性较差且有效水分难以储存,导致土壤含水量下降。这一现象在本研究中也得到了体现,不透水地表下土壤含水量显著低于对照,尤其是白蜡整个生长季 $8 8 . 5 \%$ 的天数土壤含水量日均值基本都处于 $1 5 \%$ 以下，土壤含水量显著降低对白蜡构成了干旱胁迫。为了改善不透水路面造成的水分胁迫,国内外城市建设普遍推广使用透水材料[21],以期望透水地表能有效增加土壤含水量，同时促进土壤与大气之间水分和气体的交换与流通,改善土壤理化性质[22]。本研究比较了透水地表和不透水地表下土壤含水量,结果发现透水地表相比于不透水地表确实提高了土壤含水量。油松和元宝枫整个生长季3种地表类型下土壤含水量均维持在 $20 \%$ 左右，不透水地表对油松和元宝枫未造成明显的干旱胁迫。
+
+硬化地表能够造成树木叶片净光合速率显著下降及株高和基径生长减缓。硬化地表对油松和元宝枫幼苗的影响主要源于硬化地表形成的高温胁迫,而对白蜡幼苗的影响主要源于不透水地表形成的干旱胁迫。
+
+温度与酶活性紧密相关，叶片酶活性的最适范围为25一 $- 3 0 \mathrm { { ^ { \circ } C } }$ 。当温度低于最适范围时，随着温度升高，光合酶的活性增加[23],而光合速率也会相应增大。当温度超过最适范围时,光合酶的活性会随着温度升高而降低,而光合速率也会相应降低[24]。因此,光合作用对空气温度高度敏感[25]。高温下光合速率下降的原因主要有：一方面,为避免高温下植物蒸腾导致过量失水,植物会采取降低气孔导度的适应策略,但同时会使$\mathrm { C O } _ { 2 }$ 传导受限,植物光合速率下降[26]。另一方面,光呼吸随温度的增加而增加,当温度过高时,光呼吸大幅度上升,光合速率急剧下降[27]。长期高温胁迫可显著降低植物光合速率。本研究中,油松和元宝枫硬化地表温度日最高值达到 $4 0 \%$ 以上的天数达65d,造成油松和元宝枫的光合速率显著下降。7—10月,透水和不透水地表上生长的油松幼苗叶片净光合速率分别比对照降低了 $1 6 . 5 \%$ 和 $1 0 . 8 \%$ ,元宝枫幼苗叶片净光合速率分别降低了 $2 0 . 5 \%$ 和 $4 . 3 \%$ ;光合日变化中透水和不透水地表上生长的油松叶片净光合速率日均值分别比对照降低 $1 9 . 9 \%$ 和 $2 4 . 6 \%$ ,元宝枫分别降低了 $4 0 . 1 \%$ 和 $2 8 . 9 \%$ 。这与宋英石[1,13]、赵丹[14]等的研究结果基本一致。
+
+干旱胁迫引起植物叶片水分亏缺,加速植物组织、器官和个体的衰老,破坏植物的正常生长[28]。植物受到干旱胁迫时光合作用受阻,净光合速率下降[29-30],进而影响植物的生长发育。本研究中,不透水地表上生长的白蜡幼苗受到了长期的干旱胁迫,白蜡幼苗叶片净光合速率、气孔导度和蒸腾速率降低,影响了白蜡幼苗株高和基径的生长。白蜡幼苗不透水地表株高比对照和透水地表分别降低了47.1cm 和 $3 4 . 6 ~ \mathrm { c m }$ ,白蜡通过降低株高的方式来降低蒸腾量以保证水资源的有效利用。 √
+
+# 4结论
+
+(1)城市硬化地表极显著地提高了地表温度,且表现为透水地表>不透水地表。不透水地表极显著地降低了3种树木土壤日均含水量,白蜡受到的影响最大。透水地表因其高渗透性,极显著地提高了油松和元宝枫土壤含水量。
+
+(2)硬化地表在不同树木下形成的环境条件不同,对树木生长的影响也表现出一定的差异。硬化地表对油松和元宝枫幼苗的影响主要源于硬化地表形成的高温胁迫,其中透水地表对地表温度的影响更为显著。生长旺盛期,透水地表和不透水地表导致油松和元宝枫地表日最高温超过 $4 0 ^ { \circ } \mathrm { C }$ 的天数分别达到 $6 5 \mathrm { ~ d ~ }$ 和44d,长期的高温环境对油松和元宝枫幼苗造成了热胁迫,导致净光合速率显著下降,株高和基径生长受到抑制。生长旺盛期,白蜡冠幅较大、郁闭度高,对硬化地表形成的热胁迫有一定的缓解作用。硬化地表对白蜡幼苗的影响主要源于不透水地表形成的干旱胁迫,白蜡不透水地表土壤日均含水量低于 $1 5 \%$ 的天数占整个生长期的$8 8 . 5 \%$ ,长期的干旱胁迫导致白蜡净光合速率下降,株高和基径生长受到抑制。
+
+(3)对油松和元宝枫幼苗而言,透水地表显著提高了土壤含水量,但并没有缓解地表温度极显著升高对植物造成的热胁迫。在配置和种植城市绿化植物时,为缓解硬化地表对城市树木生长发育的不利影响,应选择适应高温和干旱的植物,并采取降温和灌溉措施降低硬化地表的影响。
+
+# 参考文献（References）
+
+[1]宋英石,李锋，王效科，付芝红，赵丹.城市地表硬化对银杏生境及生理生态特征的影响.生态学报，2014，34（8)：2164-2171.  
+[2］李伟峰，欧阳志云，陈求稳，毛劲乔.基于遥感信息的北京硬化地表格局特征研究.遥感学报，2008,12(4)：603-612.  
+[3]LehmannA,StarK.Natureandsignificanceofanthropogenicurbansoils.JoualofSoilsandSediments,Oo,7（4）：247-260.  
+[4]ZhaoD,LiFagResoffepasooloalasrogectisiBeijing，China.Acta Ecologica Sinica，2012，32(3）：144-149.  
+[5］李锋，王如松.城市绿地系统的生态服务功能评价、规划与预测研究——以扬州市为例.生态学报，203，23（9)：1929-1936.  
+[6］宋英石，李晓文，李锋，李海梅.北京市奥林匹克公园不同地表类型对土壤动物多样性的影响.应用生态学报,2015,26(4)：1130-1136.  
+[7]Buhler,istofnseSUhoftrsiopwisisoofettablishtpts.Arboriculture andUrbanForestry，2007，33(5）：330-337.  
+[8]VolderA，ViswanathanB，WatsonWPerviousandimperviouspavementreduceproductionanddcreaselifespanoffinerotsofmatureSweetgum trees.Urban Ecosystems，2014，17(2）：445-453.  
+[9］付芝红，呼延佼奇，李锋，宋英石，赵丹，李慧.城市不同地表覆盖类型对土壤呼吸的影响.生态学报，2013,3（18)：5500-5508.  
+0orgeovdotalistsbe&bs1-5.  
+[11]MulluckeT,unSJTtofpeablepaveentsiderlingselaeohohdutriausfubatrees.Urban Forestry & Urban Greening，2015,14(1）：19-29.  
+[12]VolderAWatsoViswaataBotetiasefpvceefoaintaigeisigmaturetrringteurbeeltUrbanForestry &Urban Greening，2009，8(4)：249-256.  
+[13] 宋英石，李锋，付芝红，赵丹.城市地表硬化对银杏光合特性的季节影响及其胁迫因子分析.城市环境与城市生态,2013,26(4)：27-30.  
+[14] 赵丹，李锋，宋英石，倪红山.城市不同地表覆盖类型下银杏光合日变化及与环境因子的关系.城市环境与城市生态,2012,25(6)：5-9.  
+[15] 王晓娟，毕拥国，黄秋娴，厉月桥，王志刚.地面硬覆盖对青桐光合生理特征的影响.河北农业大学学报，2009,32（5）：59-62.  
+[16] MontagueT,jelgrenRK.Energybalanceofsixomonlandscapesufacesandtheifuenceofsurfacepropertiesongasexchangeoffourcontainerized tree species.Scientia Horticulturae，2004，100(1/4）：229-249.  
+[17] 赵丹，李锋，王如松.城市地表硬化对植物生理生态的影响研究进展.生态学报，2010，30(14)：3923-3932.  
+[18] AsaedaT,CaV,WakeA.HeatstoragofavementadtsetontheloweramospreAtmospicEnviont99,0）4-427.  
+[19] KjelgrenR,MontagueT.Urban treetranspirationoverturfandasphalt surfacesAtmospheric Environment,998，32(1）：35-41.  
+[20] MontagueT,Keueecetsgsecgofseoulofcure98,（262.  
+[21] Mullaney J,Lucke T.Practical review of pervious pavement designs.Clean-Soil，Air，Water,2014,42(2）：111-124.  
+22]MorgotGlsuedatiatpet&Urst）：135- 141.  
+[23]HaldiaelUofoossisgperatureinoaQuecusubesL）agodatualdiocloselycoeiibepdtuctofiaaefsostebgstand Environment，2004，27（9)：1169-1183.  
+[24]SalvucirafosaifcoPhysiologia Plantarum，2004,120(2）：179-186.  
+[25]XuQasdpebeea）：1368- 1374.  
+[26］宋于洋，塔依尔，王炳举，蔡永革，周源.沙棘叶片光合速率与其环境因子的日变化规律研究.西北林学院学报，2007,22（1)：8-11.  
+［27］高煜珠，王忠.关于光呼吸与光合作用关系的研究- -Ⅱ 环境因素对光合作用的影响及其与光呼吸的关系.植物生理与分子生物学学报，1982，8(4)：373-382.  
+[28] RodiyatiAslsisaiagspsoferusbefsotb.）ssdCysiEdsoil water availability.Environmental and Experimental Botany，2Oo5,53(3）：259-269.  
+[29］尹丽，胡庭兴，刘永安，姚史飞，马娟，刘文婷，何操.干旱胁迫对不同施氮水平麻疯树幼苗光合特性及生长的影响.应用生态学报，2010,21(3): 569-576.  
+[30]裴斌，张光灿，张淑勇，吴芹，徐志强，徐萍.土壤干旱胁迫对沙棘叶片光合作用和抗氧化酶活性的影响.生态学报，2013，33（5)：1386-1396.

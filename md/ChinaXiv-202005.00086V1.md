@@ -1,0 +1,315 @@
+# 流域生态系统空间结构量化研究进展及新指标体系
+
+王震洪1\*，蔡庆华²，赵斌，徐耀阳4，唐涛
+
+1长安大学水利与环境学院，西安 710054  
+2 中国科学院水生生物研究所，武汉 43000  
+3复旦大学生命科学学院，上海200433  
+4中国科学院城市环境研究所，厦门361021
+
+摘要：以流域作为山水林田湖草生命共同体的研究尺度和载体，流域生态学在国家生态文明建设中所发挥的学科支撑作用日益重要。流域生态系统的空间结构-过程-功能-机制-调控是流域生态学的研究范式，其中空间结构量化及其指标体系构建是流域生态学开展定量研究的一个关键途径。尽管流域生态系统空间结构的指标体系涉及到淡水生态学、陆地生态学、水土保持学、农业环境学和水利工程学等等多个学科，但仍未在流域尺度上形成生态系统空间结构整合量化框架体系。对此，本研究总结了多个关联学科在流域生态系统空间结构数量特征的研究方法和成果，着重分析了流域生态学在流域尺度上量化生态系统空间结构的难点，并以等级结构理论和集合生态系统理论为基础构建了流域生态系统空间结构数量特征整体指标及流域各结构成分指标和结构成分间关系指标体系，为量化流域空间结构和结构组成之间关系提供了新方法，对尝试推动流域生态学在山水林田湖草生命共同体的耦合定量研究及评估应用具有重要的科学价值。
+
+# 关键词：流域生态学，流域空间结构指标体系，高地，网间带，河网，山水林田湖草生命共同体 Review on quantitative characteristics of spatial structure for watershed ecosystem and corresponding new index systems
+
+Wang Zhenhong', Cai Qinghua², Zhao $\mathrm { B i n } ^ { 3 }$ , Xu yaoyang4, Tang Tao²   
+1 School of Water and Environment, Chang'an University, Xi'an 710054   
+2 Institute of Hydrobiology, Chinese Academy of Sciences,Wuhan 43000   
+3 School of Life Sciences, Fudan University, Shanghai 200433   
+4 Institute of Urban Environment, Chinese Academy of Sciences, Xiamen 361021
+
+Abstract: As the carrier and theoretical support of life community consisting of mountain, water, forest, field,lake and grass, watershed and watershed ecology are playing an increasingly important role in the construction of national ecological civilization. The research on spatial structure，process,function, mechanism and regulation of watershed ecosystem and progressively variable emphasis on these contents are the research paradigm of watershed ecology. However, watershed ecology has not established its own endogenous model framework of index systems to describe spatial structure of watershed ecosystem, which is able to make a close link between the structural components of watershed ecosystem, between land and water body, between upstream and downstream, or between terrestrial and aquatic organisms. Therefore, the researches of watershed ecology are scattred in freshwater ecology, terrestrial ecosystem ecology, soil conservation, water conservancy engineering and agricultural environmental science. The core theory of watershed ecology has not been significantly developed till now.This study analyzed the botleneck in the development of watershed ecology, reviews the research methods and achievements of the quantitative characteristics of spatial structure describing watershed ecosystem based on geography and landscape ecology.The progress of the quantitative characteristics of spatial structure describing watershed ecosystem developed using hierarchical mechanism theory and meta-ecosystem theory was also discussed. In order to provide methodology to quantify the spatial structure of watershed ecosystem and relationships between structural components in watershed ecosystem， the overall index and indices of structural components and structural component relationships of watershed ecosystem are suggested.
+
+Key words:Watershed ecology，watershed ecosystem structure， highland， inter network zone，river network, spatial structure index system
+
+流域生态学是以流域为研究对象，运用现代生态学和相关学科的理论和方法研究流域内各结构成分如高地、滨岸带和水体结构和功能，以及结构成分之间相互影响和作用的一个生态学分支（蔡庆华等，1998；尚宗波和高琼，2001）。流域生态学与湖泊（包括天然湖泊、水库和坝塘）水环境保护、治理、河流生态健康、小流域生态修复和综合治理等密切相关，广泛受到生态学、环境科学、水土保持、水利工程等学科的关注（邓红兵等，1998；Ward，1998；Yang，2018）。随着生态文明建设国家战略的确立，特别是党的十九大提出山-水-林-田-湖-草是一个生命共同体，生态文明建设要统筹山-水-林-田-湖-草治理，流域和流域生态学作为山-水-林-田-湖-草生命共同体的载体和理论支撑，其战略地位正在发挥着日益重要的作用（杨海军等，2004；潘家华，2019）。
+
+过去 20 年，具有水生生物学学科背景的流域生态学家，对河流和湖泊的植物、动物、微生物类群的结构和功能，这些类群对水体环境质量的效应和作用机制做了系统研究（王志强等，2017）；以环境科学和化学为学科背景的流域生态学家，对河流和湖泊水质变化、水化学、沉积物地球化学循环和调控机制进行系统研究（Yuet al.，2018）；以植被生态学、水土保持、农业生态环境为背景的学者，在陆地植物群落结构、功能、土壤侵蚀和面源污染的调控效应及机制进行了系统的研究（尚宗波和高琼，2001；Potter et al，2004）；以水文、水利工程为背景的学者，在流域水循环过程和机制、生态水利、水利工程的水环境效应、调控机制和管理领域进行了系统的研究（陈求稳和欧阳志云，2005；Yin et al.，2018）。
+
+回顾这些研究工作，生态学家发现一个显著的特点是：流域生态学的研究和成果分散在不同的学科中；流域结构组成如高地、滨岸带和水体之间的相互关系和作用认识很少，没有一套流域生态学内生的空间结构数量特征指标体系来量化流域结构及流域结构组成之间的关系和作用，使不同学科背景的流域生态学家的研究得到整合，形成流域生态学的核心理论（阎水玉和王祥荣，2001；王震洪等，2012；杨海乐和陈家宽，2016）。然而，流域生态学的兄弟学科景观生态学很早就建立了刻画景观的空间结构的数量特征指标体系（即景观格局指数），如斑块数、面积、形状指数、破碎度、连接度、临近指数、多样性指数等（Forman，1995；傅伯杰等，2011）。这些景观格局指数的构建，一个方面，生态学家可利用这些指数，研究域景观中基底、缀块和廊道结构及相互关系，揭示景观格局特征（茹克亚·萨吾提等，2020）；另一方面，以景观格局指数为基础，结合种群、群落和生态系统生态学研究，建立景观格局指数与生态过程和功能的关系，揭示中尺度生态功能和机制，并把这些知识应用到生态规划中(赵彦伟等，2010；赵鹏等，2012)。因此，景观生态学获得了长足发展。种群、群落和生态系统结构数量特征指标体系和理论则建立得更早，只不过（除了生态系统的非生物成分外）它们的结构是生物结构。只有景观和比景观尺度更大的流域结构是物理空间结构。
+
+当然，有不少生态学者利用景观格局指数量化流域生态系统空间结构，并和流域生态过程联系起来，揭示过程机制（冯异星等，2010;巩杰等，2014；Randhir 和 Tsvetkova，2011;Rutledge 和Chow-Fraser，2019）。然而，流域界限明确，是由河网、网间带和湖泊（水库坝唐）构成的汇水区域；在网间带内是一系列生态系统的集合（集合生态系统）；以流域水循环为核心和驱动的流域生态过程涉及到尺度远大于景观的陆地和水体关系、上下游关系、水生和陆地生物关系（王震洪等，2013；杨海乐和陈家宽，2018）。因此，流域生态系统的空间结构与无明确边界的景观是不同的，需要不同的指标体系来量化(Price etal.，2011；赵斌，2014)。有了这套指标体系，一方面，可以很好的刻画流域生态系统空间结构，建立结构组成之间的空间关系，使流域陆地和水体、水生和陆生、上游和下游联系起来，发展流域生态系统空间结构数量特征理论。另一方面，在流域生态系统空间结构指标体系模型框架下，开展流域种群、群落、生态系统和景观尺度水环境、面源污染和水土流失问题的生态研究，揭示流域空间结构对流域生态过程、功能和健康的影响和机制，创新相关知识，指导山-水-林-田-湖-草统筹规划、治理和管理。因此，本研究对现有流域生态系统空间结构研究进行回顾，分析存在得问题，并提出新的指标体系。
+
+# 1．国内外关于流域空间结构的研究现状
+
+# 1.1基于地貌类型的流域生态系统空间结构
+
+流域是地球陆地上闭合的汇水单元。在这个客观明确的范围内，构造运动造就了流域的原始地貌，水流塑造过程与植被、人类活动相互作用，形成了今天的流域地貌。地理学家从地貌学的视角分析流域生态系统结构组成。按地貌形态划分,流域地貌由山地、高原、平原、丘陵和盆地五大基本类型构成。山地又分为低山、中山、高山和极高山。高原则按地域和基质特征进行划分，如青藏高原和黄土高原。平原和盆地一般按形成原因划分，如冲积平原、侵蚀平原和构造平原；断陷盆地、裂谷盆地、前陆盆地等。丘陵常按高度和陡峭度划分成高丘、低丘、陡丘和缓丘等。小流域由于面积小，常常仅包含一种地貌类型，只有大型流域才有五种类型。对局域尺度流域地貌的刻画，常常用山谷、山脊、鞍部、山顶、洼地、陡崖、阳坡、阴坡、河谷、沟谷、台地、三角洲、冲积扇、河岸、河床等术语（Pennock etal．1987；陆中臣，1991）。
+
+量化流域地貌结构常常采用海拔、坡度、坡向、形态密度、地形能量值、面积大小、沟谷等级（许书林等，1998；张国平等，2010；Priceet al.，2011）。靳长兴（1993）关注河网结构的数量特征，分析了不同级别河流频率、长度、密度、面积和河流比降的关系，发现这些指标有很好的相关性。Wondzell等（1996）研究了北美奇瓦瓦沙漠干旱区流域地形梯度变化导致水分和侵蚀环境变异，并描述了植物群落的响应和土壤侵蚀调控。刘金涛等（2015）选择淮河流域11个中小流域，利用流域长度、形态因子、身长比、圆度、流域坡度、水平曲率、坡面曲率、河网分形维数、面积高程曲线斜率刻画流域结构，研究流域结构对对径流特征的影响，发现流域径流系数与流域坡度、坡面曲率呈显著正负相关（表1）。有学者基于遥感和GIS 提取流域地貌参数如面积、坡度、坡向、地貌类型、河网指标、地质因子数据，量化流域结构，并建立与水文过程的关系（Khandayand Javed,2017）。何福宏等（2013）用正射影像（DOM）和数字高程模型（DEM）数据，选择地形、湿度指数、坡度坡长因子、水流动力指数、坡向、平面曲率和地表粗糙度等地貌因子，评价小流域土壤侵蚀敏感性，发现 $9 6 . 4 \%$ 的冲沟多发生在坡度坡长较大、水流动力强、地表湿度较低的阳坡凹面。Price etal.(2011)研究了美国乔治州 35个小流域排水沟道密度、崩积层面积、地形变异和河网百分比对河流枯水流量变化的影响等。
+
+在这个领域，传统的方法是通过现场调查，划分不同地貌单元，用测量学手段定量地貌数量特征，进一步设置径流小区、小集水区、小流域等观测系统，研究地表物质过程与地貌特征间关系（Hornbergeret al.，1985；Fujimotoet al.，2011）。但是本领域的发展趋势是利用遥感、GIS和GPS 技术，提取流域地貌数据，量化地貌结构特征，发现流域地貌规律（张国平等，2010）。在应用方面，结合流域水文过程和土壤侵蚀，利用水文模型和土壤侵蚀模型，预测流域地貌特征差异对地表物质过程的影响 (Naik 2012；Krishna et al．2015)。
+
+表1刻画流域的地貌学指标  
+
+<html><body><table><tr><td>地貌结构因子</td><td>计算公式</td><td>说明</td></tr><tr><td>流域长度</td><td>L</td><td>从流域出口断面至分水线的最大直线距离</td></tr><tr><td>形态因子</td><td>AE</td><td>A为流域面积</td></tr><tr><td>伸长比</td><td>DL</td><td>D为面积等于流域面积圆的直径</td></tr><tr><td>圆度</td><td>AA</td><td>A'为等于流域周长的圆的面积</td></tr><tr><td>流域坡度</td><td>S</td><td>过该点的切平面与水平地面的夹角</td></tr><tr><td>水平曲率</td><td>fS,-2ssS,+f, cc= +f,)32</td><td>fxfyfxxfy和fsy分别为x、y和交互方向上高程函数</td></tr><tr><td>剖面曲率</td><td>ff+2fxSS,+f,f, +,）+,+1）/2</td><td>Cccp均为z=f(x,y)的二阶导数</td></tr><tr><td>河网分形维数</td><td>InN() Dil Imr</td><td>N(r)为非空网格数，r为网格大小</td></tr><tr><td>面积高程曲线斜率</td><td>A =(h/HDox-(/).</td><td>h为流城流域高处高程，</td></tr></table></body></html>
+
+# 1.2基于景观格局的流域生态系统空间结构
+
+景观格局是大小、形状各异、排列不同的斑块、廊道和基底的组合体，是复杂的物理、生物和社会因子相互作用的结果（傅伯杰等，2001）。流域包括各种斑块、廊道和基底，尺度比景观大，因此流域结构可用景观格局指数来量化，认识流域结构的物理空间镶嵌性、多样性、复杂性和优势性（Yen-ChuWeng，2007）。流域景观格局的研究包括景观组成、异质性、斑块间关系、格局等级结构、源-汇景观格局、格局动态、景观格局与功能等（Luck and Wu，2002;许申来等，2006；王震洪等，2014）。格局与过程是研究的核心，景观格局指数是定量分析流域景观的主要方法(卢玲等，2001；Lee et al.，2009)。流域作为具有客观明确界限的水文响应单元，能够通过流域出口径流、土壤侵蚀、面源污染物输出量观测，建立起景观格局与过程的关系，并应用于流域管理。因此，景观生态学家常常选择流域为景观生态学研究的最佳单元之一（陈利顶等，2006；张爱静等，2012；Kändler etal.，2017）。
+
+在具体研究中，流域景观格局动态及驱动力、景观格局与水质、径流量、侵蚀产沙、生态服务价值、生态功能分区的关系研究比较多。如陈俊华等（2010）用两期 KON0S4多光谱卫星影像，对长江上游防护林重点工程区流域林地景观格局，包括纯林、混交林、竹林、经济林、耕地、交通用地、水体、建筑用地景观进行研究，发现纯林太多，景观破碎度增加。任嘉衍等（2017）基于伊河流域1987-2003年4期土地覆被数据、气象资料及社会经济数据，分析流域景观格局动态及其驱动机制，发现社会经济发展与人口增加是耕地、未利用地向建设用地转化的主要驱动力；气温上升与蒸散发增加是流域水域面积减小的直接原因；政策是林地、草地等景观发生变化的根本原因。赵鹏等（2012）、刘怡娜等（2019）利用卫星影像研究了广东省淡水河流域和长江流域景观格局与水质关系，前者直接观测水质，后者用InVEST 模拟，发现景观组成、配置、森林优势景观面积都影响流域水质。林炳青(2014）、孙天成等（2019)利用4期遥感影像（1995-2015)量化流域景观格局，结合野外多年实测数据，建立景观格局指数与径流量、产沙量间关系，发现“源"景观面积持续下降，“汇”景观面积持续增长。樊灏等（2016）基于GIS 子流域划分，比较子流域物理、化学与生物特征差异性和相似性，划分出滇池流域三级水生态功能区，为流域管理提供了依据。
+
+国外学者的研究也集中在上述方面。如Yen-Chu Weng(2007)研究了美国威星康星州丹县城市中心到外围的土地利用是显著不同的，表明了城市化对景观格局的驱动。韩国的研究表明，流域内不同土地利用类型高度分散会导致流域湿地水质下降（Leeet al.，2009）；在德国-捷克-波兰三角地区，土地利用聚类分析能够指示流域水体物理化学指标，密集的居住区降低了流域水质（Kandleret al.，2017）。Gonzales-Inca(2015)等利用 Separated Land Use/Land Cover Information System,获得芬兰16 个流域农业用地、林地、建筑用地、水体和其他土地面积并揭示了流域景观格局，观测了 21年水质指标，分析了水质指标与景观格局关系，发现滨岸带林地是水质提升是关键。Cuo等在泰国那迈瑞流域研究了1989-2002年森林和道路对径流量的影响，发现森林砍伐增加了全年的径流量，但是对旱季的径流量影响很小；道路对径流量的峰值影响很大。
+
+# 1.3基于集合生态系统的流域空间结构
+
+集合生态系统（meta-ecosystem）由法国Loreau等(2003)提出，是指“跨生态系统边界的物质流、能量流和生物体流所连接起来的一系列生态系统的集合”，是集合种群（meta-population）和集合群落（meta-community）概念的外推，是生态系统空间异质性研究的重要分析路径。我国学者吕拉昌(1998)之前曾提出类似的概念，认为流域生态系统是由山脉、冰川、森林、草原、农田、荒漠、湖泊等几个或全部生态系统类型通过水系联系起来的有机整体，各子系统之间存在物质、能量和信息的耦合。李长安（2009）则提出，流域生态系统是山-江-河-海联通的体系，海的生态过程如潮汐、鱼类洄游入江河也会影响河流和陆地岸带，流域整合了各种格局和过程。最近的研究认为，集合生态系统适合用来描述和阐释具有特定物理空间且细分物理空间区域之间有密切相互作用的流域生态系统的结构、过程和功能（Jenerette和Lal，2007；Grave et al.，2010；杨海乐和陈家宽，2018）。
+
+流域集合生态系统在空间结构上如何集合，目前的研究包括3种类型：水平异域集合、垂直异域集合和同域集合 (Largaespada et al.，2012；Jager and Diehl,2014；Ryabov and Blasius,2014）。水平异域集合指不同局域生态系统在流域空间上呈水平展布，各个生态系统间都有相对明确的边界，在垂直方向上不需要区分结构特征，生态系统间存在物质、能量、信息和生物流。如流域内森林、农田、村落、河网和湖泊的物理空间配置和联系。垂直异域集合指不同局域生态系统在空间上呈垂直展布，各个生态系统在垂直方向上都有相对明确的边界，在水平方向上不需要区分结构特征，生态系统之间也存在各种流。如流域森林土壤中动物微生物构成的生态系统、地表动物微生物构成的生态系统、树木枝叶分布空间内生活的鸟类昆虫构成的生态系统等。同域集合指不同局域生态系统在物理空间上具有重合，但不同生态系统的过程整体上相对独立，只通过几个特定生态系统过程而相互连接。如一个流域内的自然-经济-社会复合系统，自然、经济和社会是不同的生态系统，但是在一个物理空间内。
+
+对于定量集合生态系统的方法，目前发展了六维相空间半定量方法(图1）（杨海乐和陈家宽，2018）。第一维，开放度（ $\mathrm { \cdot } \mathrm { M _ { o p e n } } \mathrm { \cdot }$ ）， $\mathrm { ~ x ~ } \in \mathrm { ~ [ ~ 0 ~ , ~ 1 ~ ] ~ }$ ，集合生态系统间有物质流动，是开放的，取值为1，不开放为0；第二维，集合生态系统个数（ $\mathrm { \Delta M _ { n u m } }$ ），其中 $\mathrm { ~ x \in ~ [ ~ 2 ~ , ~ n ~ ] ~ }$ ，最小值是2，含2个生态系统，最大值是n，n元集合系统；第三维，集合生态系统内部局域生态系统的异质性， $\langle \mathrm { M } _ { \mathrm { t y p e . } } \rangle$ ），其中 $\mathrm { ~ x ~ } \in \ [ \mathrm { ~ 1 ~ } , \mathrm { ~ n ~ } ]$ ，最小值是1，最大值是n，取值1表示集合生态系统是同类型的，如多块草地构成的流域；第四维，集合生态系统内生态过程的方向性，其中 $\mathrm { ~ x \in ~ [ ~ 1 ~ , ~ 2 ~ ] ~ }$ ， $\mathbf { \boldsymbol { x } }$ 为实数，如果 $\mathbf { x } = 1$ ，即集合生态系统内的物质流动只是从一个局域生态系统流向另一个，称之为“单向”；如果 $\mathbf { x } > 1$ ，即还存在某种形式的反向流动，则称之为“双向”；第五维，集合生态系统的等级， $\mathrm { ~ x \in ~ [ ~ 2 ~ , ~ n ~ ] ~ }$ ，通常 $\mathrm { \Delta } _ { \mathrm { X } } = 2$ ，即整个集合生态系统只有局域生态系统-生态系统要素和集合生态系统-局域生态系统2个结构等级，称之为“两级”；如果 $\mathbf { \tau } _ { \mathrm { X } } > 2$ ，即生态系统要素内部还有更为精细的需要研究的结构，则称之为“多级”。第六维，集合生态系统复杂度， $\mathrm { L _ { c o m p l e x } \in \Omega \left[ \textbf { a } , \textbf { b } \right] }$ ，a 和b在此分别预设为生态系统复杂度的2个边界。集合生态系统复杂度是由集合生态系统开放度、个数、同质性、内部过程方向性、等级、生态系统复杂度6个因子构成,其中,复杂度是嵌套式的，它既是6维之一，同时又反映6维的状况。
+
+Fx=Mopen XMnumX MtypeX MdirX MhierarXLcomplex[0] 封闭 [2] 二元  
+Mopen = x 有限开放 Mnum= X 三元[1] 开放开放 Ln] 多元 四元[1] 同型 [1] 单向  
+Mtype = [] 异型 三型 Mdir= [2] 双向[2] 两级 三级 $L _ { \mathrm { c o m p l e x } } = \ \left[ { \begin{array} { l } { a } \\ { x } \\ { b } \end{array} } \right]$ 简单  
+Mhierar= x多级一 四级 复杂n：
+
+# 1.4基于等级结构的流域生态系统空间结构
+
+1997年蔡庆华等从淡水生态学家的视角出发，为克服传统淡水生态学只关注水体的局限性，提出流域生态学是以流域为单元，利用等级结构理论研究流域内高地、滨岸带和水体之间物质、能量和信息传递规律的科学。这个概念突出了三个方面信息，第一是流域由高地、滨岸带和水体构成，三者是同一水平的并列关系。第二是利用等级结构理论去研究，等级结构理论表明了流域具有不同尺度等级，可以从宏观到微观（Liu等，2012）。等级结构包括结构等级和功能等级，低层次结构是高层次结构的基础，高层次结构对低层次结构进行制约（邓红兵等，1998）；从学科发展上看，也有不同尺度等级研究范围之间相互融合的趋势，如从水生生态学发展到流域生态学（小到大），景观生态学发展到景观遗传学（大到小）（吴刚和蔡庆华，1998）。第三是研究三个结构组成之间物质、能量和信息传递规律，这些属于生态系统功能范畴，在研究中必然涉及非生物环境、生产者、消费者和还原者，因此流域生态学是有明确边界（分水岭）的生态系统生态学，其生态系统的研究方法可用于流域生态学（尚宗波和高琼，2001）。
+
+在实际研究中，王道君等（2007）用等级结构理论研究了黄土高原小流域沟道等级结构顺序的拓扑关系，发现黄土高原小流域尺度上，存在一个最小集水面积与最短沟道长度的适宜取值区间，使得流域河网和网间带结构在数量特征上存在规律性，并能应用到基于DEM沟道数据提取。熊森等（2011）利用GIS进行三峡库区东河流域河流的等级体系研究，将东河流域河网分为6级,发现河溪在由低等级向高级变化时,其流域物理空间分布范围逐渐由坡度大、海拔高向坡度小、低海拔平缓地带过渡;低等级溪流两边植被状况好于高等级溪流。Cohen和Brown（2007）利用等级结构方法建立了一个动态模型模拟流域湿地洪水和污染物特征，发现具有等级结构的流域湿地网络能增加约 $3 0 \%$ 洪水和氮磷储蓄，有等级结构的流域明显增加了环境容量，降低了水质恶化、藻类暴发几率。Yeo and Guldmn利用多级优化方法对Lake Erie (Ohio)流域不同等级流域土地利用进行优化，并输出面源污染物，模拟和应用结果可以减少 $4 6 \%$ 面源污染峰值输出，保护区面积可以维持在流域土地面积的$3 0 \%$ ，城市和农业用地控制在 $12 \%$ 和 $7 0 \%$ 以下。
+
+王震洪等（2013）在长江流域二级支流猫跳河流域，把流域生态系统的三个结构组成高地、滨岸带和水体，按照等级结构理论和还原论思想进行了发展，把水体划分成具有结构和功能差异比较大的河网和湖泊（水库坝塘），高地由各种集合生态系统如阔叶林、针叶林、坡耕地、居民区等土地类型构成，在不同土地开展了面源污染观测，发现网间带不同土地利用类型具有一个氮磷最小临界流失率和流失-吸附平衡值（王震洪等，2013；Wangetal，2018）。在对天然河流的研究中，发现连结成网的天然河流，特别是山区河流，由重复出现的急流、深潭和河滩系统构成，它们的周长和面积在上下游间具有显著的相关性，系统构成中的植物多样性维持功能、对河流水体的净化功能也不同（马振等，2014；陈晨等，2015；Wangetal.，2019）。在对流域整体性特征刻画中，也曾用流域圆度、狭长度刻画流域形态；用平均坡度刻画流域物理空间变异（王震洪等，2012；阴晓路，王震洪，2012）。这些实践表明，流域作为一个等级结构体系，在研究上能够发现一些好的规律，应用上能够达到好的结果。因此，结合其他生态学和湖泊学工作者的研究，根据流域生态学既涉及宏观也关注微观的研究状况，以等级结构理论和还原论思想为指导，在首届生态流域生态论坛初步提出流域生态系统五级结构体系（图2;王震洪，2013，2018）。在这个体系中，高地、滨岸带和水体作为流域生态系统二级结构得到了发展。高地和网间带作为对等的概念，包括了各种集合生态系统。
+
+![](images/5b1073d3bc9f71b43b20fdfa6946496cc35fe2dac1418a34981ab5da943b1065.jpg)  
+图2流域生态系统五级结构
+
+# 1.4流域生态系统空间结构数量特征研究的不足
+
+1.4.1流域生态系统空间结构数量特征研究并没有形成自己的体系
+
+生态学发展表明，生态学家善于进行“结构-过程-功能-机制-调控”这一相互联系和递进的研究。发展成熟的种群、群落、生态系统和景观生态学，都形成了“结构-过程-功能-机制-调控”的研究范式，如种群结构-过程-功能-机制-调控研究。这是因为在不同尺度上，“结构”影响着“过程”和“功能”，“过程”和“功能”对结构具有反馈作用；在“结构-过程-功能”相互作用认识的基础上，一般才能全面把握“机制”，并实现“调控”目的。目前，流域生态学已经成为生态学的一个重要分支，在水体或陆地的“过程-功能-机制-调控”研究已经开展了不少工作。如淡水生态学和水环境学长期关注河流和湖泊植物、动物和微生物，建立了河流连续统理论、湖泊水环境动态理论，揭示了连续统中生物类群结构和功能特征、河流和湖泊健康机制等（蔡庆华等，2003;唐涛等，2004；Ruhala and Zarnetske，2016；Tao et al.，2018）。陆地上的植被、水土保持和面源污染控制研究，认识了植被和景观对地表物质过程的各种效应，揭示了一系列结构和功能规律及工程效应机制（Potter etal.，200 4；王震洪等，2014；Djuma etal.，2016）。水体和陆地上的生态学工作，随着学科自身发展和统筹山-水-林-田-湖-草的现实需要，有着把各自的研究放在流域这个客观尺度下整体地、陆地-水体紧密联系地研究“流域生态系统结构-过程-功能-机制-调控”的需求，发展流域生态学。但目前的现实是流域生态系统空间结构的数量特征研究没有自己的模型框架体系，无法使流域水体和陆地在理论上真正整合，形成自己的研究范式。现有的体系是借用景观生态学和地貌学的体系(Liu 等,2012;Khanday and Javed,2017;Kandler et al.，2017)。一个学科的生命力来源于内生或自生的概念体系和理论的建立，因此要在流域空间结构的数量特征研究上实现创新。
+
+# 1.4.2现有流域生态系统空间结构数量特征理论的不足
+
+尽管基于地貌和景观的流域空间结构数量特征指标体系可以借用到流域结构的量化中，并使陆地和水体的研究在理论上实现整合，完成流域结构-过程-功能-机制-调控。但是这些指标体系属于地貌学、自然地理和景观生态学学科内生的概念体系，在实际应用中，以流域生态系统为单元开展研究，研究成果反而丰富和加强了地貌学、自然地理和景观生态学。而且，地貌和景观的流域空间结构数量特征指标体系应用到流域生态学中也存在不足。具体地，流域生态系统空间结构的刻画常常用下列结构组成的概念体系：高地、滨岸带、水体、河网、网间带、湖泊（水库坝塘）、浅水带、深水带、光亮带、急流、深潭、河滩以及不同类型的集合生态系统等（图3）。流域生态学家关注这些结构组成的等级结构、功能、相互关系以及结构组成中的生物。而基于地貌的流域生态系统空间结构组成概念体系是高山、中山、沟谷、平原、丘陵、山脊、盆地等地貌类型，少考虑生物。而且在流域中，水体不仅是流域结构组成，而且塑造流域，是流域功能和健康维持的关键。基于地貌学的流域空间结构数量特征指标体系对水这个流域组成没有考虑。
+
+基于景观的流域生态系统空间结构数量特征在流域结构的刻画上具有很多应用，而且景观生态方法功能强大，在刻画流域生态系统结构特征上有广泛应用（Zhang et al.,2011）。但是流域生态学不仅关注流域结构组成（如河网、网间带和湖泊）二维平面上的特征，更重要的是要建立流域生态系统结构组成之间空间关系的模型框架，使流域陆地和水体、水生和陆生、上游和下游的空间关系有机地联系起来。流域是一个有明确界限的生态系统，流域生态学也特别关注流域生态系统整体特征对流域生态过程的影响。换句话说，景观生态方法可以作为刻画流域空间结构数量特征的模型框架体系，但是不能完全满足以流域水循环为核心和驱动、尺度大于景观的流域生态系统研究的要求。
+
+基于集合生态系统和基于等级结构的流域生态系统空间结构研究具有学科内生性，但其数量特征的研究处于起步阶段。本研究就是基于集合生态系统和基于等级结构研究的发展。
+
+# 2流域空间结构数量特征指标体系
+
+# 2.1流域整体指标
+
+流域狭长度（Watershednarrowness, $\mathbb { W } _ { \mathrm { n } }$ ）：流域狭长度表示具有等流域面积圆的直径 $\mathrm { D } _ { \mathrm { r } } ,$ 与流域主轴线平行的最大轴线长度 $\mathrm { L } _ { \mathrm { m } }$ 之比(公式1)。当 $\mathbb { W } _ { \mathrm { n } } { < } 1$ ，流域长形；当 $\mathbb { W } _ { \mathrm { n } } \mathrm { = ~ 1 ~ }$ ，流域是圆形；当 $\mathbb { W } _ { \mathrm { n } } > \mathrm { ~ 1 ~ }$ 时，流域是方形。圆形流域降雨汇流快，短时间洪水量大，泄洪河道宽（亚马逊河流域)；长形流域降雨汇流慢，短时间汇集洪水没有同面圆形流域大，泄洪河道相对较窄（长江流域）（图3）。流域圆度和河网结构指标中河道宽度、深度、长度具有相关性，并影响着流域水文地球化学循环及相关的生态过程和功能。
+
+$$
+\begin{array} { r } { W _ { n } = \frac { D _ { r } } { L _ { m } } = { \sqrt [ 2 ] { A / \pi } } \Bigg / _ { L _ { m } } = \frac { 1 . 1 2 9 \sqrt { A } } { L _ { m } } } \end{array}
+$$
+
+式中，A：等面积圆的面积； $\pi \colon 3 . 1 4$ 。
+
+![](images/a9bc4c02367d88ca74a1783584392c10e8dd87ca560a9f190596740d629405af.jpg)  
+图3长形的长江流域（a）和圆形的亚马逊河流域 (b)
+
+流域平均坡度（Mean slope，MS）：流域内不同坡度的土地加权平均值（公式2）。随着流域平均坡度增大，流域地表径流量和地表物质（营养物质）输出量增加，流域生产力下降，耕地和人口数量减少；这种减少对流域生态系统又具有反馈作用。流域平均坡度调控着流域的主要生态过程和功能，并对经济社会产生深远影响。
+
+$$
+\begin{array} { r } { \mathbf { M } \mathbf { S } = \sum _ { i = 1 } ^ { n } P _ { i } S _ { i } } \end{array}
+$$
+
+$\mathrm { { P } _ { i } }$ ：第i坡度级土地占流域面积的百分比； $\mathrm { S _ { i } }$ ：第i坡度级土地坡度。
+
+流域平均地形起伏度（Topgraphicalundulating degree，TUD）：地形起伏度是某地理单元内最高海拔与最低海拔之差。流域平均地形起伏度是流域内全部地理单元地形起伏度的加权平均（公式3）。对于任意两个地理单元，地形起伏度大者比小者表面积大，环境异质性更高。根据环境异质性-多样性原理，能容纳更多不同环境适应性的生物种，生物多样性高。
+
+$$
+T U D = \sum _ { i = 1 } ^ { n } P _ { i } U _ { i } = \sum _ { i = 1 } ^ { n } P _ { i } ( E _ { i - m a x } - E _ { i - m i n } )
+$$
+
+式中， $P _ { i }$ ：第 $\mathrm { ~ i ~ }$ 地理单元面积占整个流域面积的百分比; $U _ { i }$ ：第地理单元的地形起伏度； $E _ { i - m a x }$ ：第i地理单元的最高海拔； $E _ { i - m i n }$ ：第i地理单元的最低海拔。
+
+# 2.2网间带指标
+
+生态系统垂直分布优势比（Dominant ratio of ecosystem vertical distribution，DREVD）：指流域内某类型的生态系统在不同海拔范围内分布的优势程度（公式4）。通过该指标可刻画流域生态系的垂直分布规律。
+
+$$
+\begin{array} { r } { \mathrm { D R E V D } = \frac { \sum _ { i = 1 } ^ { n } a _ { i j } } { A } } \end{array}
+$$
+
+式中， $a _ { i j }$ ：第 $\mathrm { ~ j ~ }$ 个海拔范围内某类型生态系统第i个独立斑块的面积；A：流域面积。
+
+生态系统面积变异系数（Coefficient of variation for ecosystem area，CVEA）：流域内分离存在的某生态系统类型面积大小的变异程度（公式5）。变异系数越大，生态系统各类型面积离散程度越大。
+
+$$
+\begin{array} { r } { C V E A = \frac { 1 0 0 s _ { j } } { \textrm { m } } } \end{array}
+$$
+
+式中，第j类分离存在生态系统面积的标准差；第i类生态系统面积的平均值。
+
+生态系统连通度（Ecosystemconnectivity，EC）：指流域内生态系统类型分离斑块之间物理连通形成结合体的程度；分生态系统类型水平（公式6）和流域水平（公式7）。该指标反映了流域内集合生态系统物质流通水平。
+
+$$
+\begin{array} { r } { E C _ { u v } = \sum _ { i = 1 } ^ { n } A R C _ { i v - u } \bigg / \sum _ { i = 1 } ^ { n } P _ { i u } } \end{array}
+$$
+
+$$
+\begin{array} { r } { E C = \sum _ { v = 1 } ^ { m } \sum _ { i = 1 } ^ { n } A R C _ { i v - u } \bigg / _ { \sum _ { u = 1 } ^ { m } \sum _ { i = 1 } ^ { n } P _ { i u } } } \end{array}
+$$
+
+式中， $E C _ { u v }$ ：第 $\boldsymbol { u }$ 类生态系统类型与第 $\mathbf { \Omega } _ { V }$ 类的连通度； $E C$ ：流域内所有生态系统类型连通度； $A R C _ { i v - u }$ ：流域内第 $u$ 类生态系统类型与第 $\nu$ 类生态系统类型中第 $\mathbf { \nabla } _ { j }$ 斑块联通的弧长(Arc);$P _ { i u }$ ：第 $\boldsymbol { u }$ 类生态系统类型第 $\mathbf { \nabla } _ { \boldsymbol { j } } ^ { j }$ 斑块边界周长。
+
+生态系统异质性指数（Ecosystem heterogeneity，EH）：指异质性生态系统分布在流域中的程度（公式8）。值越大，流域内生态系统类型越多，异质性越高；值越小，同质性越高。
+
+$$
+\begin{array} { r } { E H = - \sum _ { i = 1 } ^ { n } ( P _ { i } ) l n \left( P _ { i } \right) } \end{array}
+$$
+
+式中， $P _ { i }$ ：第i类生态系统类型面积占整个流域面积的百分比。
+
+生态系统分散度（Ecosystemdispersity，ED）：指生态系统类型独立地不和同类生态系统类型关联地分布的程度（公式10）。流域内包括农田、不同类型森林、草地、城市、居民区等生态系统类型。流域生态系统类型分散度反映了该类生态系统对干扰的抵抗力，如森林火灾的发生，分离的森林斑块越多，对火灾的阻挡作用越强。该指标还包括流域生态系统类型总分散度（Total ecosystemdispersity，TED，公式11）和生态系统类型平均分散度(Meanecosystemdispersity，MED，公式12）两个扩展指标。
+
+$$
+{ \cal T } E D = \left. \sum _ { i = 0 } ^ { n } { \cal N } _ { i } \right/ _ { A }
+$$
+
+$$
+M E D = \left. \sum _ { i = 0 } ^ { n } N _ { i } \right/ _ { n A }
+$$
+
+$N _ { i }$ :第i种生态系统类型独立或分离开的斑块数量；A：流域面积；n:生态系统类型数。
+
+# 2.3河网结构指标
+
+河网密度(River density，RD)：指单位流域面积上河流的长度。该指标间接反映了流域地表物质输出能力。
+
+沟谷密度(Gorge density，GD)：指单位流域面积上沟谷的长度。该指标间接反映了河流源区物质输出能力。
+
+河流长度、平均宽度和深度(Mean river width，depth and length，MRW，MRD，MRL)：这三个指标间接反映了流域远距离物质输出的能力。
+
+急流、深潭和河滩面积和周长(Rapid-pool-bench land area and perimeter，RPBLA，RPBLP)：这些指标间接反映了河道不同生境和发挥河流功能的优势性。
+
+河流纵比降(River longitudinal gradient，RLG)：指河道最高点和最低点的海拔差与这两点间的水平距离之比。该指标间接反映了河流势能、流动速率和水流对河道的冲刷力。
+
+沟谷/河道纵比降比（Ratio of river and gorge longitudinal gradient，RRGLG）：该指标反映了流域内物质产生-沉积的程度及湖泊维持的能力。比值大，上游河道比较陡，物质容易沉积在下游，填平湖泊；比值小，物质沉积在上游较多，中下游湖泊不容易被淤积。
+
+河岸带长度（Riparianlength，RL）：该指标反映了河流发挥边缘效应的能力。
+
+# 2.4湖泊结构指标
+
+滨岸带（Littoral zone area，LZA）、深水带（Deep water zone area，DWA）和浅水带面积（Shallow water zone area，SWZA）及比值：三个指标反映了湖泊不同功能区域的大小及相对重要性。如果浅水带和滨岸带占优势，表明湖泊趋向于退化。
+
+湖泊平均水深（Lake average water depth，LAWD）：该指标反映了湖泊水体功能水平的强弱。  
+湖泊周长（Lake perimeter，LP）：该指标反映了流域湖泊发挥边缘效应的能力。
+
+湖泊库容（Lakevolume，LV）：该指标反映了流域湖泊水资源提供能力。
+
+# 2.5网间带-河网-湖泊相互关系指标
+
+网间带生态系统类型-湖泊平均距离（Average ecosystem-lake distance，AELD）：指湖泊汇水区某种陆地生态系统类型斑块中心到湖泊中心的平均距离。如果是农田生态系统，指标值越大，污染物输送过程中水体自净作用的机会增多，有利于湖泊健康；反之不利。如果是森林生态系统，距离近则有利于湖泊健康。
+
+湖泊-陆地生态系统边缘连通度 (Terrestrial ecosystem and lake edge connectivity,TELEC)：指陆地生态系统类型和湖泊有共同边界连通的程度（公式12），包括一个湖泊水的计算和流域所有湖泊的平均值。该指标反映了不同陆地生态系统类型和湖泊连接可能导致相互作用的水平。如果某流域森林生态系统的ELEC 高于农田或城市生态系统，表明森林-湖泊间具有比农田或城市-湖泊间具有更多的相互作用，有利于湖泊健康。
+
+$$
+\mathrm { T E L E C } = \sum _ { i = 1 } ^ { n } { E E _ { i j } } _ { \big / L E }
+$$
+
+式中， $E E _ { i j }$ ：流域内第j种生态系统类型第i段边界和湖泊贴近连通的长度；LE:湖泊周长。
+
+湖泊-网间带面积比（Lake-innet belt arearatio，LIBAR）：该指标反映了湖泊和陆地生态系统的优势性水平。
+
+湖泊汇水区生态系统类型-湖泊面积比（Catchment ecosystem type-lake area ratio,CETLAR）：指湖泊汇水区不同生态系统类型面积分别与湖泊面积比，包括一个湖泊计算和整个流域的值。该指标反映了流域的湖泊主要受哪种生态系统类型的影响更大。
+
+湖泊库容-灌溉的生态系统类型面积比（Lake storage-irrigated ecosystem area ration,LSIEAR）：指湖泊的水量与水资源所送达的生态系统类型面积之比。该指标反映了湖泊水资源对陆地生态系统的水源效应大小。
+
+汇水区生态系统类型面积-湖泊库容比（Ecosystem area-lake arearation，EALAR）：指流域某种类型生态系统面积对湖泊库容的比值。该指标反映了某种生态系统对湖泊水资源的贡献度。
+
+湖泊周长-河长比（Lake and river perimeterratio，LRPR）:指湖泊周长与河长的2倍之比（公式13）。该指标反映了河流和湖泊对陆地生态系统的影响的相对优势性。
+
+$$
+{ \mathrm { E L E C } } = \left. \sum _ { j = 1 } ^ { n } L E _ { j } \right/ _ { 2 \sum _ { i = 1 } ^ { n } R E _ { i } }
+$$
+
+式中， $L E _ { i }$ ：流域内第i个湖泊周长；LE:流域内第j条河流长度。
+
+河流面积-湖泊面积比(River-lake area ratio，RLAR)：该指标反映了湖泊和河流生态系统的优势性水平。
+
+河流面积-网间带面积比(River-internet belt area ratio，RIBAR)：河流作为物质输出的通道，该指标反映了单位面积陆地生态系统物质输出水平，也反映河流和陆地生态系统的相对优势性水平。
+
+# 3结论
+
+流域生态系统结构-过程-功能-机制-调控相联系的递进关系是流域生态学的研究范式。流域生态系统空间结构指标体系的构建并揭示流域生态系统空间结构数量特征是流域生态学发展的基础。尽管流域生态学借助于地貌学、景观生态学的理论和方法可以分析和刻画流域的空间结构数量特征，但是满足不了流域生态学以水文循环为核心和驱动的、能刻画尺度大于景观的陆地和水体关系、上下游关系、水生和陆地生物关系的要求。而且流域生态系统空间结构指标体系如果内生于自身学科，并形成概念体系，会有效促进流域生态学理论的发展。基于流域等级结构和集合生态系统进一步发展的流域生态系统空间结构指标体系，包括刻画流域整体特征的指标、网间带集合生态系统指标、河网指标、湖泊指标以及网间带-河网-湖泊关系指标，这些指标能体现陆地和水体关系、上下游关系、水生和陆生生物关系。指标体系的构建同时提出了一些流域生态学新的术语，丰富了学科概念体系。
+
+# 参考文献
+
+1.Ahmadi, H.,Das,A.，Pourtaheri, M.,Komaki,C.B., Khairy, H. Redefining the watershed line and stream networks via digital resources and topographic map using GIS and remote sensing (case study: the Neka River's watershed).Natural Hazards,2014， 72(2): 711-722.   
+2. Amuti,T., Luo, G. Analysis of land cover change and its driving forces in a desert oasis landscape of Xingjiang, Northwest China. Solid Earth, 2014, 5(2): 1071-1085.   
+3. Castro-Esau K.L., Sanchez-Azofeifa, G.A., Revard, B., Wright,S.J., Quesada, M.   
+4. Cohen, M.， Brown, M. A Model examining hierarchical wetland networks for watershed storm water
+
+management. Ecological Modelling, 2007， 201(2): 179-193.
+
+5.Djuma， H., Bruggeman, A.， Camera, C.， Zoumides,C. Combining qualitative and quantitative Huuus Iul sull ciusiull assessHums.all app\uauul I a siupIIg Iuiiialical wauisHcu, ypius. Qualitative and quantitative assessment of soil erosion (Cyprus). Land Degradation and Development, 2017, 28(1): 243-254.
+
+6. Forman R,Gordron M．肖笃宁等译．景观生态学．北京：科学出版社,1990.   
+》 Forman, R.T. Some general principles of landscape and regional ecology. Landscape ecology, 1995, 10:133-142.   
+8. Fujimoto， M.， Ohte,N.， Tani, M. Effects of hillslope topography on runoff response in a small catchment in the Fudoji Experimental Watershed, central Japan. Hydrological Processes, 2011, 25(12):1874 -1886.   
+9. Gemesi,Z., Downing, J., Cruse,R., Anderson,P.F. Effects of watershed configuration and composition on downstream lake water quality. Journal of Environmental Quality, 2011, 40(2):517-27.   
+10. Gilmore， M.S.， Wilson， E.H.， Barrett， N.Civco， D.L.,Prisloe， S.， Herd， G.D.， Chadwick， D.C. Integrating multi-temporal spectral and structural information to map wetland vegetation in a lower Connecticut River tidal marsh. Remote Sensing of Environment, 2008, 112(11): 4048-4060.   
+11. Gonzales-Inca, C.A., Kalliola,R, Kirkkala, T.,Lepisto, A. Multiscale landscape patern affecting on stream water quality in agricultural watershed, SW Finland. Water Resource Management, 2015 29: 1669-1682.   
+12. Grave, ID., Guichard, F., Loreau, M., Mouquet, N. Source and sink dynamics in meta-ecosystems. Ecology, 2010, 91 (7): 2172-2184.   
+13.Hornberger, G. M., Beven, K., Cosby Jr, B.J, Sappington, D.E.. Shenandoah watershed study: calibration of a topography-based, variable contributing area hydrological model to a smal forested catchment. Water Resources Research, 1985, 21(12):1841-1850.   
+14. Jager, C.G., Diehl, S. Resource competition across habitat boundaries: asysmmetric interactions between benthic and pelagic producers. Ecological Monographs, 2014, 84(2): 287-302.   
+15. Jenerete, G.D., Lal, R. Modeled carbon sequestration variation in a link erosion-deposition system.
+
+Ecological Modelling, 2007, 200(1): 207-216.
+
+16. Kallel, A.， Hégarat, S.L., Ottle,C.， Hubert-Moy, L. Determination of vegetation cover fraction by inversion of a four-parameter model based on isoline parametrization. Remote Sensing of Environment, 2007, 111(4); 553-566.   
+17. Kändler M, BlechingerK, Seidler C,Pavl V, Sanda M,Dostal T,Krasa J, Vitvar T, Stich M.Impact of land use on water quality in the upper Nisa catchment in the Czech Republic and in Germany. Science of the Total Environment, 2017, 586:1316-1325.   
+18. Khanday, M.Y., Javed, A. Hydrological investigations in the semi-arid Makhawan watershed, using morphometry. Appl Water Sci, 2017, DOI 10.1007/s13201-017-0545-1   
+19. Krishna,B, Jagannath, A,Rotchanatch,D.A geospatial approach to assessing soil erosion in a watershed by integrating socio-economic determinants and the RUSLE model. Natural Hazards， 2015, 75: 321-329.   
+20. Largaespada, C., Guichard, F., Archambault, P. Meta-ecosystem engineering: nutrient fluxes reveal intraspecific and interspecific feedbacks in fragmented mussel beds. Ecology, 2012, 93(2): 324-333.   
+21. Lee S W, Hwang S J,Lee S B, Hwang H S, Sung H C. Landscape ecological approach to the relationships of land use paterns in watersheds to water quality characteristics. Landscape and Urban Planning,2009, 92(2):80-89.   
+22. Liu, W.Z., Zhang Q.F, Liu, G.H. Influences of watershed landscape composition and configuration on lake-water quality in the Yangtze River basin of China. Hydrological Process,2012， 26(4): 570-578.   
+23．Loreau M, Mouquet N, Holt R.D. Meta-ecosystems: A theoretical framework for a spatial ecosystem ecology. Ecology letters, 2003, 6(8): 673-679.   
+24. Luck， M.A., Wu,J. A Gradient Analysis of Urban Landscape Pattern: A Case Study from the Phoenix Metropolitan Region, Arizona, USA， Landscape Ecology， 2002， 17(4):327-339   
+25. Mendas,A. The contribution of the digital elevation models and geographic information systems in a watershed hydrologic research. Applied Geomatics, 2010, 2(1):33-42.   
+26. Naik, G.M. Diffusion wave based modeling of watershed for soil erosion and sediment yield using FEM, GIS, and remotely sensed data. Watershed Management Conference, 2012, https://doi.0rg/10.1061/41143(394)21.   
+27． Pennock, D.J., Zebarth,B.J., Jong,E.D.Landform classification and soil distribution in hummocky terrain, Saskatchewan, Canada. Geoderma, 1987, 40(3):297-315.
+
+28. Poter K.， Cubbage,F.， Blank, G.B.， Schaberg, R.H. A Watershed-scale model for predicting nonpoint pollution risk in north Carolina. Environmental Management, 2004, 34(1):62-74.
+
+29. Price,K., C.R. Jackson, A. J. Parker, T.Reitan, J. Dowd,and M. Cyterski (2011),Effects of watershed land use and geomorphology on stream low flows during severe drought conditions in the southern Blue Ridge Mountains, Georgia and North Carolina, United States, Water Resour. Res., 47, W02516, doi:10.1029/2010WR009340.
+
+30. Quan, J., Zhan, W., Ma, T., Y. Du, Z. Guo, B. Qin. An integrative model for generating hourly Landsatlike land surface temperature over heterogeous landscape. Remote Sensing of Environment, 2018, 206: 403-423.
+
+31．Randhir,T.O., Tsvetkova,O. Spatiotemporal dynamics of landscape patern and hydrologic process in watershed systems.Journal of Hydrology,2011,404（1） :1-12.
+
+32. Ruhala， S.S， Zarnetske,J. Using in-situ optical sensors to study dissolved organic carbon dynamics of streams and watersheds: A review. Science of the total environment, 575:713-723.
+
+33.Rutledge,JM., Chow-Fraser,P.Landscape characteristics driving spatial variation in total phosphorus and sediment loading from sub-watersheds of the Nottawasaga River, Ontario Journal of Environmental Management 234 (2019) 357-366
+
+34. Ryabov, A.B., Blasius, B.Depth of the biomass maximum affects the rules of resource competition in a water column. The American Naturalist, 2014, 184(5): E132-E146.
+
+35.Shahapure,S.S., Eldho, T.I., Rao,E. P. Coastal urban flood simulation using FEM, GIS and remote sensing. Water Resources Management, 2010, 24(13):3615-3640.
+
+36. Tao,Y., Dan,D., Kun,L., et al. S15N and nutrient stoichiometry of water, aquatic organisms and environmental implications in Taihu lake, China. Environmental Pollution, 2018, 237:166-173.
+
+37.Variability in leaf properties of Mesoamerican trees and a potential for species classification. American Journal of botany, 2006,93 （4） :517-530.
+
+38. Ward J.V. Riverine landscapes: biodiversity patterns, disturbance regimes, and aquatic conservation. Biological conservation, 1998, 83(3): 269-278.
+
+39.WondzellS.M., Cunningham, G.L., Bachelet, D. Relationships between landforms, geomorphic processes, and plant communities on a watershed in the northern Chihuahuan Desert. Landscape Ecology, 1996,11(6):351-362.
+
+40. Xin-An Yin， Zhifeng Yang， Enze Zhang, Zhihao Xu,Yanpeng Cai,Wei Yang. A new method of assessing environmental flows in channelized urban rivers. Engineering, 2018, 4: 590-596.   
+41. Yen-Chu Weng. Spatiotemporal changes of landscape patern in response to urbanization. Landscape and Urban Planning,2007, 81(4):341-353   
+42. Yeo,I.Y., Guldmann, J.M. Multistage hierarchical optimization for land use alocation to control nonpoint source water pollution. Thesis of the Ohio State University, 2005.   
+43． Zhang, Z.M, Van Coillie.F.B., DE WULF R. R., DeClercq, E.M. Comparison of surface and planimetric landscape metrics for mountainous land cover pattern quantification in Lancang Watershed, China. Mountain Research and Development， 2011, 32(2): 213-225.   
+44. Zhenhong Wang, Chen Chen, Qing Wu, et al. Microbial abundance and enzyme activity in sediments of the rapid-pool-benchland systems in the natural Duliu River of China. Journal of Earth Sciences & Environmental Studies, 2019, 4(6): 749-762.   
+45. Zhenhong Wang,Li Wan, Chanmin Xu. Spectrums of Nitrogen and Phosphorus Leaching Los from Different Land-Use Types. CLEAN-Soil, Air, Water, 46(9),1700538.   
+46. Zhenhong Wang, Xiaole, He, Amit Patile. Microbial abundance and enzyme activity in sediments of the rapid-pool-benchland systems in the natural Duliu River of China. Journal of Earth Sciences & Environmental Studies, 2019, 9(5): 717-725.   
+47. Zhifeng Yang. Watershed ecology and its applications. Engineering, 2018, 4: 582-583.   
+48．蔡庆华，吴刚，刘建康．流域生态学：水生态系统多样性研究和保护的一个新途径．科技 导报，1997,15(5): 24-26.   
+49．蔡庆华，唐涛，刘建康．河流生态学研究中的几个热点问题.2003,14（9）:1573-1577.   
+50．陈晨，王震洪，吴庆，马振．都柳江河道急流-深潭-沙（砾）滩系统水质差异研究．环境科学与 技术，2015，38（3）：182-188.   
+51．陈俊华,慕长龙，龚固堂,朱志芳.官司河流域防护林结构调整及景观格局变化.山地学报，2010, 28: 85-95.   
+52．陈利顶，傅伯杰，赵文武.“源"汇”景观理论及其生态学意义．生态学报,26（5)：1444-1449.   
+53．陈求稳，欧阳志云．流域生态学及模型系统．生态学报，2005，25（5）：1184-1190.   
+54．邓红兵，王庆礼，蔡庆华．流域生态学—新学科、新思想、新途径．应用生态学报，1998, 9(4): 443-449.
+
+<html><body><table><tr><td>王震洪等</td></tr><tr><td>55．丁志雄，黄诗峰，邓炯．流域洪灾监测评估与预警技术体系框架.水利水电科技进展,2007,27(S2):</td></tr><tr><td>19-22. 56．樊灏，黄艺，曹晓峰，等．基于水生态系统结构特征的滇池流域水生态功能三级分区．环境科</td></tr><tr><td>学学报，2016，36（4）：1447-1456. 57．冯异星,罗格平,周德成,韩其飞,鲁蕾,许文强,朱磊,尹昌应,戴丽,李艳忠.景观格局的影响—以新疆</td></tr><tr><td>玛纳斯河流域为例.生态学报,2010,30(16):4295-4305.</td></tr><tr><td>58．傅伯杰,陈利顶,马克明,王仰麟．景观格局原理和应用．北京：科学出版社，2001 59．巩杰，赵彩霞，谢余初，高彦净基于景观格局的甘肃白龙江流域生态风险评价与管理。应用生</td></tr><tr><td>态学报，2014,25(7): 2041-2048. 60．何福红，高丙舰，王焕芝，王瑞，赛莉莉．基于GIS的侵蚀冲沟与地貌因子的关系．地理研究，</td></tr><tr><td>32: 1856-1864.</td></tr><tr><td>61．靳长兴．流域地貌结构中的定量关系及理论揭示．陕西机械学院学报，1993,9：45-51. 62．李硕，孙波，曾志远，赵其国．遥感和GIS辅助下流域养分迁移过程的计算机模拟．应用生态学</td></tr><tr><td>报,2004,(2): 278-282. 63．李长安，陈进，陈中原，王建，王超，范北林．长江流域水环境问题研究之思考-基于流</td></tr><tr><td>域演化"山-河-湖-海互动理论"的认识．长江科学院院报，2005,26(5):11-17. 64．林炳青,陈兴伟,陈莹,刘梅冰.流域景观格局变化对洪枯径流影响的SWAT模型模拟分析.生态学</td></tr><tr><td>报, 2014,34(7): 1772-1780.</td></tr><tr><td>65．刘家宏,王光谦,王开.数字流域研究综述.水利学报,2006,37(2):0240-0246. 66．刘金涛，王爱花，韦玉，程兵峰，韩小乐．流域地貌结构因子对径流特征的影响分析.水科</td></tr><tr><td>学进展,2015，26: 631-638.</td></tr><tr><td>67．刘怡娜，孔令桥，肖燚，郑华．长江流域景观格局与生态系统水质净化服务的关系．生态学报， 2019，39（3）: 844-842.</td></tr><tr><td>68．卢玲,李新,程国栋,肖洪浪.黑河流域景观结构分析.生态学报,2001,21(8):1217-1224.</td></tr><tr><td>69．陆中臣，贾绍凤，黄克新．流域地貌系统，大连：大连出版社，1991. 70．吕拉昌．试论我国西北内陆流域生态系统的特征—以塔里木河流域为例．干旱区资源与环境，</td></tr><tr><td>1998,2(3):45-51.</td></tr><tr><td>71．马振，王震洪，陈晨．都柳江上中下游急流—深潭—沙(砂）滩系统河道参数调查研究．山地农业 生物学报,2014,33(1) : 049-052.</td></tr></table></body></html>
+
+<html><body><table><tr><td>土震洪等</td></tr><tr><td>72．聂艳，马泽玥，周逍峰，于雷，于婧．阿克苏河流域土壤湿度反演与监测研究．生态学报，2019,</td></tr><tr><td>39(14): 5138-5148.</td></tr><tr><td>73．潘家华．以习近平生态文明思想为指导建设美丽中国．光明日报，2019年3月26日. 74．任嘉衍,刘慧敏,丁圣彦,王美娜,卞子元．伊河流域景观格局变化及其驱动机制．应用生态学报，</td></tr><tr><td>2017, 28(8): 2611-2620.</td></tr><tr><td>75．茹克亚·萨吾提，阿斯娅·曼力克，李虎，等．乌鲁木齐山地草地生态系统服务价值变化评估—基 于遥感与GIS．生态学报，2020，40（2）：522-539.</td></tr><tr><td>76．尚宗波， 高琼． 流域生态学——生态学研究的一个新领域． 生态学报，2001,21(3):468-473.</td></tr><tr><td>77．孙天成，刘婷婷，褚琳，李朝霞，王天巍，蔡崇法．三峡库区典型流域"源"汇"景观格局时空 变化对侵蚀产沙的影响．生态学报，2019，39（20）：7476-7492.</td></tr><tr><td>78．唐涛，黎道丰，潘文斌，渠晓东，蔡庆华．香溪河河流连续统特征研究．应用生态学报，2004， 15(1): 141~144</td></tr><tr><td>79．王道军，龚建华，马蔼乃，等．整合等级与顺序的黄土高原小流域沟道结构理论研究．地理与地</td></tr><tr><td>理信息科学，2007，23（4）：1-4. 80．王思梦，黄昌．基于遥感和GIS的流域自然生态环境质量监测与评价一以无定河流域为例.2008，</td></tr><tr><td>41(1):134-141.王传辉,吴立,王心源,王官勇,孙叶根,胡降临.基于遥感和GIS 的巢湖流域生态功能 分区研究.生态学报,2013，33（18）：5808-5817.</td></tr><tr><td>81．王震洪，李菊，余丹,等.云贵高原典型陆地生态系统（III）：喀斯特植物生态、景观格局与水土 流域．北京：科学出版社，2014.</td></tr><tr><td>82．王震洪,吴永贵，张崇玉，等．云贵高原典型陆地生态系统（II）：典型流域陆地生态系统、水生 态过程与面源污染控制.北京：科学出版社，2012.</td></tr><tr><td>83．王震洪．流域生态学有关理论的思考—在两种思维模式下的流域生态学．中国生态学会流域生 态专业委员会成立大会暨首届流域生态论坛．福州，2018.</td></tr><tr><td>84．王志强，崔爱花，缪建群，王海，黄国勤．淡水湖泊生态系统退化驱动因子及修复技术研究进 展．生态学报，2017,37(18):6253-6264.</td></tr><tr><td>85．吴刚和蔡庆华．流域生态学研究内容的整体表述．生态学报，1998,18(6):575-581.</td></tr><tr><td>86．熊森，刘红，王强，等．三峡库区东河河流等级及生态结构分析．重庆师范大学学报，28（5）：</td></tr><tr><td>29-32.</td></tr><tr><td>87．许林书，长洪岩，李琦．小流域地貌结构与农林牧综合发展关系研究．东北师范大学学报自然科</td></tr></table></body></html>
+
+<html><body><table><tr><td>学版，1998，（3）：95-101</td></tr><tr><td>88．许申来，李秀珍，何兴元．岷江上游不同景观结构小流域水量平衡的比较[J]．应用生态学报， 2006, 17(10): 1832-1838.</td></tr><tr><td>89．阎水玉，王祥荣．流域生态学与太湖流域防洪、治污与可持续发展．湖泊科学，2001,13(1):1-8.</td></tr><tr><td>90．杨海军，内田泰三、盛联喜，王德利．受损河岸生态系统修复研究进展.东北师范学报，36(1): 95-100.</td></tr><tr><td>91．杨海乐，陈家宽．基于学科评价的流域生态学学科构建策略分析.中国人口资源与环境，2016，</td></tr><tr><td>26 (11): 382-387. 92．杨海乐，陈家宽．流域生态学的发展困境—来自河流景观的启示.生态学报，2016，16,36（10)：</td></tr><tr><td>3084-3095. 93．阴晓路,许昌敏,王震洪*，等.2012．贵州红枫湖大冲小流域农业面源污染负荷特征研究.长江流</td></tr><tr><td>域资源与环境,21(3):349-354. 94．余丹，孙丽娜，于俊峰，王震洪．基于SWAT的猫跳河流域径流及土壤侵蚀模拟研究中国农学通</td></tr><tr><td>报, 2012,28(17):256-261. 95．张爱静，董哲仁，赵进勇，等．流域景观格局分析研究进展．水利水电技术，2012，43（7）：</td></tr><tr><td>17-20. 96．张国平，赵琳娜，许凤雯，徐新良．基于流域结构分析的中国流域划分方案.北京师范大学学报</td></tr><tr><td>（自然科学版），2010，46（3）：417-423.</td></tr><tr><td>97．赵斌．流域是生态学研究的最佳自然分割单元．科技导报，2014,32(1):12-12. 98．赵鹏,夏北成,秦建桥,赵华荣．流域景观格局与河流水质的多变量相关分析．生态学</td></tr><tr><td>报,2012,32(8): 2331-2341. 99．赵鹏,夏北成,秦建桥,赵华荣.流域景观格局与河流水质的多变量相关分析.生态学报,2012,32(8):</td></tr><tr><td>2331-2341. 100.赵彦伟，汪思慧，于磊等，流域景观格局变化的河流生物响应研究进展．生态学杂志，</td></tr><tr><td>2010,29(6):1228-1234. 101.祖拜代·木依布拉，夏建新，普拉提·莫合塔尔，张润．克里雅河中游土地利用／覆被与景观格局 变化研究．生态学报，2019,39(7):2322-2330.</td></tr></table></body></html>

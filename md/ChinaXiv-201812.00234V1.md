@@ -1,0 +1,230 @@
+张旭晖」吴元媛」汪贵斌」曹福亮1\*李岱龙²王文文²
+
+3 (1.南京林业大学林学院，南京 210037；2.山东永春堂集团有限公司，泗水 273200)  
+4 摘要：本试验旨在研究并比较元宝枫叶发酵前后对育肥猪生产性能、肉品质和肠道菌群的  
+5 影响。选用48头体重相近的育肥猪（公母各占1/2)，随机分为3个组，每组4个重复，每个重  
+6 复4头猪。对照（CON）组饲喂基础饲粮，未发酵元宝枫叶（UFA）组和发酵元宝枫叶（FA）  
+7 组饲粮分别在基础饲粮中用 $12 \%$ 未发酵元宝枫叶和发酵元宝枫叶粉末替代等量的麸皮。预试  
+8 期7d，正试期 $6 3 \mathrm { ~ d ~ }$ 。结果表明：1）与对照组相比，未发酵元宝枫叶组和发酵元宝枫叶组育  
+9 肥猪的平均日增重（ADG）和肌肉的红度值显著增加（ $P { < } 0 . 0 5 )$ ，肌肉的剪切力显著降低  
+10 （ $_ { . P < 0 . 0 5 ) }$ ；发酵元宝枫叶组的红度值与未发酵元宝枫叶组相比显著增加（ $_ { . P < 0 . 0 5 ) }$ ；发酵元  
+11 宝枫叶组的系水力显著高于对照组和未发酵元宝枫叶组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )。2）与对照组相比，发酵  
+12 元宝枫叶组育肥猪肌肉中亚麻酸、花生烯酸、单不饱和脂肪酸（MUFA）、多不饱和脂肪酸  
+13 （PUFA）的含量和多不饱和脂肪酸/饱和脂肪酸（PUFA/SFA）显著增加（ $. P { < } 0 . 0 5 \$ ，硬脂酸、  
+14 花生酸和饱和脂肪酸（SFA）含量显著降低（ $P { < } 0 . 0 5 )$ ；发酵元宝枫叶组的亚麻酸和MUFA  
+15 含量显著高于未发酵元宝枫叶组（ $_ { . } { \cal P } { < } 0 . 0 5$ )。3）与对照组和未发酵元宝枫叶组相比，发酵元  
+16 宝枫叶组育肥猪直肠内容物中大肠杆菌数量显著降低（ $P { < } 0 . 0 5 \$ )，乳酸杆菌数量显著增加  
+17 （ $\scriptstyle P < 0 . 0 5 .$ )。综上，饲粮中添加发酵元宝枫叶能在一定程度上改善育肥猪的生产性能、肉品  
+18 质和肠道健康。
+
+关键词：发酵元宝枫叶；猪；肉品质；脂肪酸；肠道菌群中图分类号：S816.7；S828 文献标识码： 文章编号：
+
+随着我国居民生活水平的不断提高，人们对肉类食品的质量要求也越来越高。猪肉作为我国居民的日常消费产品，其品质安全在很大程度上取决于饲料的安全状况。饲粮中添加抗生素可以显著提高猪的生产性能和对营养物质的利用率[]，但也会带来猪肉产品抗生素残留和环境污染等问题[2]。因此，开发一类无污染、无残留、具有防病和促生长等作用的饲料或饲料添加剂来代替抗生素，对提高猪肉品质安全等问题具有重要的现实意义。近年来，为减少抗生素的使用，微生物发酵植物饲料是国内外养殖领域研究的重点。许多猪和鸡的试验表明，微生物发酵植物中含有促进动物生长的生物活性成分，该活性成分可提高饲料转化率，增加饲粮适口性[3]，改善动物肠道菌群结构[4]、肌肉脂肪酸组成和肉品质，延长货架期[4-6]等。元宝枫是槭树科槭树属的落叶乔木，元宝枫叶营养成分丰富，氨基酸含量高达 $1 1 . 7 9 \%$ ，属优质蛋白质资源；并含有总黄酮、绿原酸、有机酸、鞣质、强心甙、萜和酚等生物活性成分，其中总黄酮和绿原酸含量较高。目前，动物营养领域中有关元宝枫叶生物饲料的研究应用比较少。因此，可在充分利用元宝枫叶优良蛋白质资源的同时，利用其中特有的黄酮、绿原酸和多糖等天然活性物质，从而改善动物的肉品质。本试验首次探讨在育肥猪饲粮中添加元宝枫叶发酵物对其生产性能、肉品质及肠道菌群的影响，并将其与未发酵元宝枫叶进行比较，以期为元宝枫叶生物饲料在育肥猪中的应用提供理论依据。
+
+1材料与方法
+
+# 1.1发酵元宝枫叶的制备及其有效成分分析
+
+发酵元宝枫叶的主要制备步骤包括：营养盐溶液的配制、固体培养基的制备、发酵培养基的准备、产肮假丝酵母（Candidautilis，购自中国普通微生物菌种保藏管理中心菌种库，ACCC2060）和黑曲霉（Aspergillusniger NL-1，购自中国普通微生物菌种保藏管理中心菌种库，ACCC30005）的菌种接种发酵（2个菌种均由南京林业大学化工院2304保藏）、干燥粉碎。
+
+1）按每 $1 0 0 ~ \mathrm { { m L } }$ 营养盐溶液中含有2g葡萄糖、3g尿素、2g磷酸二氢钾、 $0 . 5 \ \mathrm { g }$ 七水合硫酸镁配制成营养盐溶液，调pH至5.0。
+
+2）按元宝枫叶粉末：麸皮：豆粕 $\lvert = 8 : 1 : 1$ 的比例制备固体培养基。
+
+3）按每 $1 0 \mathrm { { g } }$ 固体培养基中加 $1 1 \mathrm { m L }$ 营养盐溶液的比例配制成发酵培养基，将配制好的发咅养基在121℃下灭菌 $5 0 \mathrm { m i n }$ 。
+
+4）将发酵培养基首先接种产肮假丝酵母菌种，采用种子液体培养法， $2 8 \mathrm { ~ \textdegree C }$ 、 $1 5 0 ~ \mathrm { r / m i n }$ 下振荡培养，每10g发酵培养基接种 $1 . 2 \mathrm { m L }$ 产肮假丝酵母，( $2 8 \pm 1$ ）℃下培养（12±1）h;之后按同样的比例接种黑曲霉菌种，（ $2 8 \pm 1$ ）℃下培养（ $3 6 \pm 1$ ）h。按照常规发酵方法进
+
+行发酵。
+
+5）在低于40℃条件下完成发酵物料的干燥，粉碎即得发酵元宝枫叶样品。6）随机抽取4个未发酵的元宝枫叶样品及分批次发酵所制备的4个发酵元宝枫叶样品，进行有效成分含量分析。分光光度法以芦丁为标准品测定总黄酮和绿原酸含量，凯氏定氮法测定粗蛋白质含量，硫酸铜沉淀法测定真蛋白质含量，液相色谱法测定氨基酸含量。
+
+# 1.2试验设计与试验动物
+
+本试验采用单因素随机设计，将48头胎次、初始体重[（55.20±1.40）kg]、日龄基本一致的“杜 $\times$ 长 $\times$ 大”育肥猪（公母各占1/2，全部去势）随机分为3个组，每组4个重复，每个重复4头猪。对照（CON）组饲喂基础饲粮，未发酵元宝枫叶（UFA）组和发酵元宝枫叶（FA）组饲粮分别在基础饲粮中用 $12 \%$ 未发酵元宝枫叶和发酵元宝枫叶粉末替代等量的麸皮。预试期7d，正试期 $6 3 \mathrm { ~ d } .$
+
+# 1.3试验饲粮与饲养管理
+
+元宝枫叶发酵前后的代谢能实测值分别为8.87和9.38MJ/kg。基础饲粮参照NRC（2012）分阶段配制成粉料，其组成及营养水平见表1。
+
+试验前先对供试猪舍进行消毒，测定试验猪体重，并编号、分组。按照猪场常规饲养管理程序进行驱虫和防疫。试验期间每天饲喂3次，计量不限量，自由饮水。各组试验猪饲养在同一猪舍，各重复皆分隔为相同的圈，饲养管理条件一致。试验期间试验猪没有进行免疫接种，全期无死淘。试验结束前1天进行限饲，最后1天将所有试验猪称重后用电击棒( $\mathrm { . 1 1 0 V }$ 5A）击晕，悬挂颈动脉放血，整个过程在30s内完成以确保试验猪的痛苦降到最低。待试验猪没有角膜反射后，进行胴体性状测定；采集背最长肌样品，用于肉品质检测。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1Composition and nutrient levels of basal diets (air-dry basis) %
+
+组别Groups
+
+项目Items 对照 未发酵元宝枫叶 发酵元宝枫叶
+
+原料Ingredients
+
+玉米Corn 70.00 70.00 70.00
+
+<html><body><table><tr><td>麸皮Wheat bran</td><td colspan="2">12.00</td><td></td></tr><tr><td>豆粕 Soybean meal</td><td>15.00</td><td>15.00</td><td>15.00</td></tr><tr><td>石粉 Limestone</td><td>0.85</td><td>0.85</td><td>0.85</td></tr><tr><td>未发酵元宝枫叶</td><td></td><td>12.00</td><td></td></tr><tr><td>Unfermented Acer truncatum leaves</td><td></td><td></td><td></td></tr><tr><td>发酵元宝枫叶</td><td></td><td></td><td>12.00</td></tr><tr><td>Fermented Acer truncatumleaves</td><td></td><td></td><td></td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.80</td><td>0.80</td><td>0.80</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl</td><td>0.15</td><td>0.15</td><td>0.15</td></tr><tr><td>食盐 NaCl</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>预混料 Premix1) 合计Total</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>13.17</td><td>13.20</td><td>13.26</td></tr><tr><td>粗蛋白质 CP</td><td>15.73</td><td>15.59</td><td>16.73</td></tr><tr><td>钙Ca</td><td>0.71</td><td>1.37</td><td>1.32</td></tr><tr><td>有效磷 AP</td><td>0.58</td><td>0.71</td><td>0.73</td></tr><tr><td>赖氨酸Lys</td><td>0.80</td><td>0.86</td><td>0.87</td></tr><tr><td>蛋氨酸Met</td><td>0.27</td><td>0.28</td><td>0.29</td></tr></table></body></html>
+
+3 1 预混料为每千克饲粮提供 Premix provided the following per $\mathbf { k g }$ of diets: VA 6 000 IU,   
+4 VB1 2 mg, $\mathrm { V B } _ { 2 }$ 4 mg, $\mathrm { V B } _ { 5 } 1 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 3 1 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } \mathrm { ~ 1 ~ m g ~ }$ ， $\mathrm { V D } _ { 3 } 8 0 0 \mathrm { I U }$ ，VE $2 0 \mathrm { \Pi I U }$ ， $\mathrm { V K } _ { 3 } 2 \mathrm { m g }$ ，   
+； 生物素 biotin $0 . 0 2 \mathrm { m g }$ ，叶酸 folic acid $2 0 ~ \mathrm { m g }$ $D .$ 泛酸 $D$ -pantothenic acid $1 1 \mathrm { m g }$ ，烟酸nicotinic   
+5 acid $1 0 ~ \mathrm { m g }$ ， $\mathrm { C u }$ (as copper sulfate) $2 1 ~ \mathrm { m g }$ ，Fe (as ferrous sulfate) $1 0 0 ~ \mathrm { { m g } }$ ，Mn (as manganese   
+7 sulfate) $9 0 ~ \mathrm { m g }$ ， Zn (as zinc sulfate) $6 0 ~ \mathrm { m g }$ ， I(as potassium iodide) $1 \ : \mathrm { m g }$ ， Se (as sodium selenite)   
+3 （20 $0 . 3 0 \mathrm { m g }$ 。
+
+2）营养水平为计算值。Nutrient levels were calculated values.
+
+1.4指标测定与方法
+
+1.4.1 生产性能
+
+于试验第1、28和63天早上空腹称重所有试验猪，并准确记录各重复试验猪的喂料量与余料量，计算平均日增重（ADG）、平均日采食量（ADFI）和料重比（F/G)。
+
+# 1.4.2 胴体性状
+
+试验结束时，每个重复选取体重接近平均体重的1头试验猪（每组4头)，采集血样，称重后屠宰。放血、烫毛和退毛后进行胴体分割，屠宰率、平均背膘厚的测定参照《瘦肉型种猪性能测定技术规程》（GB 8467—87）进行；眼肌面积的测定参照郭理洋[]的方法进行[用铅笔在硫酸纸上画出眼肌轮廓，测定眼肌的高和宽，根据公式（高 $\times$ 宽 $\times 0 . 7$ ）计算出眼肌面积]。
+
+# 1.4.3 肉品质
+
+取胴体左侧最后肋骨处背最长肌，吸干表面血液，用自封袋将肉样保存并做好标记，用于肉品质和肌肉营养成分的测定。
+
+利用testo 205酸度计测定肌肉的pH；Salter剪切力仪测定肌肉的剪切力；允许膨胀压缩仪PY-1测定肌肉的系水力；色彩色差仪测定肌肉的亮度（L\*）、红度（a\*）和黄度（b\*）值。肌肉中粗蛋白质含量参照周贵9的方法进行测定；粗脂肪含量按照《猪肌肉品质测定技术规范》（NY/T821—2004）[10]的方法进行测定；脂肪酸含量按照《食品中总脂肪、饱和脂肪酸、不饱和脂肪酸的测定》（GB/T22223—2008）[1]的方法进行测定。
+
+# 1.4.4直肠粪样微生物菌群数量
+
+试验猪屠宰后无菌收集直肠粪样，其中大肠杆菌选用麦康凯琼脂培养基、乳酸杆菌选用乳酸细菌培养基（MRS）进行培养，培养后采用平板菌落计数法进行细菌计数。
+
+# 1.5 数据统计与分析
+
+试验数据用平均值和标准误表示，采用SPSS19.0软件进行单因素方差分析（one-wayANOVA)，采用Duncan氏多重比较法进行显著性检验，差异显著性水平设为 $\scriptstyle \cdot - P < 0 . 0 5$ 。
+
+# 2结果与分析
+
+2.1元宝枫叶发酵前后主要营养成分含量的变化
+
+由表2可见，与发酵前相比，元宝枫叶发酵后的总黄酮（ ${ \it P } { > } 0 . 0 5$ 、绿原酸（ ${ \cdot } P { > } 0 . 0 5$ ）和总糖（ $_ { . P < 0 . 0 5 }$ ）含量降低，粗纤维含量降低了 $60 . 6 0 \%$ ( $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ；粗蛋白质、真蛋白质、还
+
+原糖、总氨基酸和总必需氨基酸含量分别增加了 $7 3 . 5 4 \%$ 、 $6 7 . 6 3 \%$ 、 $1 3 1 . 3 0 \%$ 、 $2 1 . 2 0 \%$ 和 $14 . 7 4 \%$ $( P { < } 0 . 0 5 )$ 。
+
+# 表2元宝枫叶发酵前后主要营养成分含量的变化
+
+fermentation %
+
+Table 2Changes of main nutrient contents of Acer truncatum leaves before and after   
+
+<html><body><table><tr><td>项目</td><td>发酵前</td><td>发酵后</td><td>标准误</td><td>P值</td></tr><tr><td>Items</td><td>Before fermentation</td><td>After fermentation</td><td>SE</td><td>P-value</td></tr><tr><td>水分 Moisture</td><td>11.38（自然风干）</td><td>11.68(烘干后回潮）</td><td>0.23</td><td>0.075</td></tr><tr><td>粗脂肪Etherextract</td><td>2.56</td><td>2.48</td><td>0.03</td><td>0.062</td></tr><tr><td>粗纤维 Crude fiber</td><td>12.41</td><td>4.89</td><td>0.23</td><td>0.032</td></tr><tr><td>粗灰分 Ash</td><td>10.40</td><td>12.42</td><td>0.85</td><td>0.052</td></tr><tr><td>总黄酮 Total flavonoids</td><td>5.47</td><td>5.13</td><td>0.59</td><td>0.623</td></tr><tr><td>绿原酸 Chlorogcnic acid</td><td>4.78</td><td>4.24</td><td>0.41</td><td>0.548</td></tr><tr><td>粗蛋白质 Crude protein</td><td>13.04</td><td>22.63</td><td>1.19</td><td>0.041</td></tr><tr><td>真蛋白质 True protein</td><td>12.82</td><td>21.49</td><td>1.01</td><td>0.037</td></tr><tr><td>总糖 Total sugar</td><td>8.86</td><td>7.16</td><td>0.53</td><td>0.040</td></tr><tr><td>还原糖 Reducing sugar</td><td>4.09</td><td>9.46</td><td>0.45</td><td>0.026</td></tr><tr><td>总氨基酸 Total amino acids</td><td>11.46</td><td>13.89</td><td>0.85</td><td>0.039</td></tr><tr><td>总必需氨基酸 Total essential amino acids</td><td>4.75</td><td>5.45</td><td>0.34</td><td>0.033</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )。下表同。
+
+In the same row, values with different small leter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.2发酵元宝枫叶对育肥猪生产性能的影响
+
+由表3可见，与对照组相比，未发酵元宝枫叶组和发酵元宝枫叶组育肥猪第 $_ { 1 \sim 2 8 }$ 天、第$2 9 { \sim } 6 3$ 天和第1\~63天的ADG分别增加了 $3 . 0 3 \%$ 和 $2 . 6 5 \%$ 、 $1 . 9 8 \%$ 和 $3 . 6 3 \%$ 、 $2 . 5 1 \%$ 和 $3 . 1 4 \%$ 中 $_ { , P < 0 . 0 5 ) }$ ；发酵元宝枫叶组的ADG与未发酵元宝枫叶组相比无显著差异（ $. P { > } 0 . 0 5 )$ 。各组育肥猪的ADFI和F/G无显著差异（ $_ { . P > 0 . 0 5 ) }$ 。
+
+2 Table 3Effects of dietary fermented Acer truncatum leaves on performance of finishing pigs   
+
+<html><body><table><tr><td colspan="4">组别Groups</td><td rowspan="2">标准误</td><td rowspan="2">P值</td></tr><tr><td>项目Items</td><td>对照</td><td>未发酵元宝枫叶</td><td>发酵元宝枫叶</td></tr><tr><td></td><td>CON</td><td>UFA</td><td>FA</td><td>SE</td><td>P-value</td></tr><tr><td>体重BW/kg</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第1天Day 1</td><td>55.50</td><td>54.90</td><td>55.10</td><td>5.61</td><td>0.132</td></tr><tr><td>第28天Day 28</td><td>81.90</td><td>82.10</td><td>82.20</td><td>8.63</td><td>0.146</td></tr><tr><td>第63天Day 63</td><td>112.20</td><td>113.00</td><td>113.60</td><td>12.21</td><td>0.178</td></tr><tr><td>第1~28天 Days 1 to 28</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/g</td><td>754.00b</td><td>777.00a</td><td>774.00a</td><td>44.41</td><td>0.041</td></tr><tr><td>平均日采食量 ADFI/g</td><td>2 356.00</td><td>2 460.00</td><td>2 413.00</td><td>267.90</td><td>0.241</td></tr><tr><td>料重比F/G</td><td>3.12</td><td>3.17</td><td>3.12</td><td>0.25</td><td>0.365</td></tr><tr><td>第29~63天 Days 29 to 63</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/g</td><td>866.00b</td><td>883.00a</td><td>897.00a</td><td>43.21</td><td>0.035</td></tr><tr><td>平均日采食量 ADFI/g</td><td>2 681.00</td><td>2 732.00</td><td>2 751.00</td><td>301.80</td><td>0.426</td></tr><tr><td>料重比F/G</td><td>3.10</td><td>3.09</td><td>3.07</td><td>0.25</td><td>0.234</td></tr><tr><td>第1~63天 Days1 to 63</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/g</td><td>810.00b</td><td>830.00a</td><td>835.00a</td><td>39.33</td><td>0.048</td></tr><tr><td>平均日采食量 ADFI/g</td><td>2 519.00</td><td>2 596.00</td><td>2 582.00</td><td>284.90</td><td>0.513</td></tr><tr><td>料重比F/G</td><td>3.11</td><td>3.13</td><td>3.09</td><td>0.22</td><td>0.415</td></tr></table></body></html>
+
+2.3发酵元宝枫叶对育肥猪肉品质的影响
+
+由表4可见，饲粮中添加发酵元宝枫叶对育肥猪的屠宰率、平均背膘厚、眼肌面积、肌肉亮度值、黄度值、pH、肌内脂肪和粗蛋白质含量均无显著影响（ $. { \cal P } { > } 0 . 0 5$ )。与对照组相比，未发酵元宝枫叶组和发酵元宝枫叶组育肥猪肌肉的剪切力显著降低（ $. P { < } 0 . 0 5 )$ ，红度值显著增加（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ；发酵元宝枫叶组的红度值与未发酵元宝枫叶组相比显著增加（ $\cdot P { < } 0 . 0 5 \$ 。发酵元宝枫叶组的系水力显著高于对照组和未发酵元宝枫叶组（ $_ { . } P { < } 0 . 0 5 )$ ）°
+
+Table 4Effects of dietary fermented Acer truncatum leaves on meat quality of finishing pigs   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">组别Groups</td><td rowspan="2">标准误</td><td rowspan="2">P值</td></tr><tr><td>对照</td><td>未发酵元宝枫叶</td><td>发酵元宝枫叶</td></tr><tr><td></td><td>CON</td><td>UFA</td><td>FA</td><td>SE</td><td>P-value</td></tr><tr><td>屠宰率 Dressing percentage/%</td><td>75.30</td><td>77.60</td><td>77.30</td><td>8.42</td><td>0.127</td></tr><tr><td>平均背膘厚 Average backfat</td><td>18.20</td><td>18.30</td><td>18.20</td><td>2.41</td><td>0.583</td></tr><tr><td>thickness/mm</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>眼肌面积 Loin muscle area/cm²</td><td>40.28</td><td>41.16</td><td>41.53</td><td>4.94</td><td>0.134</td></tr><tr><td>亮度 L*</td><td>43.56</td><td>43.98</td><td>42.23</td><td>2.36</td><td>0.568</td></tr><tr><td>红度a*</td><td>11.74c</td><td>12.99b</td><td>14.86a</td><td>1.23</td><td>0.031</td></tr><tr><td>黄度b*</td><td>7.32</td><td>6.78</td><td>6.59</td><td>1.35</td><td>0.425</td></tr><tr><td>pH45 min</td><td>6.16</td><td>6.24</td><td>6.34</td><td>0.76</td><td>0.416</td></tr><tr><td>pH24 h</td><td>5.56</td><td>5.64</td><td>5.79</td><td>0.46</td><td>0.425</td></tr><tr><td>肌内脂肪 Intramuscular fat/%</td><td>3.86</td><td>3.78</td><td>3.79</td><td>0.52</td><td>0.342</td></tr><tr><td>粗蛋白质 Crude protein/%</td><td>79.65</td><td>81.65</td><td>80.67</td><td>8.26</td><td>0.131</td></tr><tr><td>剪切力 Shear force/N</td><td>32.15a</td><td>26.33b</td><td>24.73b</td><td>2.62</td><td>0.024</td></tr><tr><td>系水力 Water holding capacity/%</td><td>18.34b</td><td>18.62b</td><td>21.00a</td><td>1.33</td><td>0.040</td></tr></table></body></html>
+
+2.4发酵元宝枫叶对育肥猪肌肉脂肪酸含量的影响
+
+由表5可见，与对照组相比，饲粮中添加发酵元宝枫叶显著增加了育肥猪肌肉中亚麻酸、花生烯酸、单不饱和脂肪酸（MUFA）、多不饱和脂肪酸（PUFA）的含量和多不饱和脂肪酸/饱和脂肪酸（PUFA/SFA）（ $. P { < } 0 . 0 5 )$ ；发酵元宝枫叶组的亚麻酸和MUFA含量显著高于未发酵元宝枫叶组 （ $\scriptstyle P < 0 . 0 5$ )。与对照组和未发酵元宝枫叶组相比，发酵元宝枫叶组肌肉中硬脂酸和花生酸含量显著降低（ $\scriptstyle \cdot P < 0 . 0 5 .$ )。发酵元宝枫叶组肌肉中饱和脂肪酸（SFA）含量显著低于对照组（ $. P { < } 0 . 0 5 )$ 。
+
+表5饲粮中添加发酵元宝枫叶对育肥猪肌肉脂肪酸含量的影响Table 5Effects of dietary fermented Acer truncatum leaves on muscle fatty acids contents of
+
+2.5发酵元宝枫叶对育肥猪直肠内容物微生物菌群的影响
+
+Table 6Effects of dietary fermented Acer truncatum leaves on rectal contents   
+
+<html><body><table><tr><td colspan="4">组别 Groups</td><td></td><td></td></tr><tr><td rowspan="2">项目</td><td rowspan="2">对照</td><td rowspan="2">未发酵元宝枫叶</td><td rowspan="2">发酵元宝枫叶</td><td rowspan="2">标准误 SE</td><td rowspan="2">P值</td></tr><tr><td></td></tr><tr><td>Items</td><td>CON</td><td>UFA</td><td>FA</td><td></td><td>P-value</td></tr><tr><td>肉豆蔻酸 Myristic acid（C14:0)</td><td>1.39</td><td>1.39</td><td>1.28</td><td>0.13</td><td>0.192</td></tr><tr><td>棕榈酸 Palmitic acid（C16:0）</td><td>25.95</td><td>25.41</td><td>23.29</td><td>2.16</td><td>0.121</td></tr><tr><td>棕榈油酸 Palmitoleic acid（C16:1）</td><td>3.51</td><td>3.63</td><td>4.16</td><td>0.33</td><td>0.368</td></tr><tr><td>硬脂酸 Stearic acid（C18:0）</td><td>12.48a</td><td>11.13a</td><td>9.89b</td><td>0.92</td><td>0.023</td></tr><tr><td>油酸Oleinic acid（C18:1）</td><td>48.48</td><td>49.09</td><td>50.53</td><td>4.69</td><td>0.052</td></tr><tr><td>亚油酸 Linoleic acid（C18:2)</td><td>6.13</td><td>7.15</td><td>7.98</td><td>0.66</td><td>0.223</td></tr><tr><td>亚麻酸 Linolenic acid（C18:3）</td><td>0.86b</td><td>0.89b</td><td>1.43a</td><td>0.10</td><td>0.043</td></tr><tr><td>花生酸 Arachidic acid（C20:0）</td><td>0.42a</td><td>0.38a</td><td>0.28b</td><td>0.03</td><td>0.035</td></tr><tr><td>花生烯酸 Arachidonic acid（C20:1)</td><td>0.78b</td><td>0.93ab</td><td>1.16a</td><td>0.09</td><td>0.027</td></tr><tr><td>饱和脂肪酸 SFA</td><td>40.24a</td><td>38.31ab</td><td>34.74b</td><td>3.43</td><td>0.016</td></tr><tr><td>单不饱和脂肪酸 MUFA</td><td>52.77b</td><td>53.65b</td><td>55.85a</td><td>4.92</td><td>0.041</td></tr><tr><td>多不饱和脂肪酸PUFA</td><td>6.99b</td><td>8.04ab</td><td>9.46a</td><td>0.74</td><td>0.049</td></tr><tr><td>多不饱和脂肪酸/饱和脂肪酸</td><td>1.49b</td><td>1.61ab</td><td>1.88a</td><td>0.15</td><td>0.036</td></tr></table></body></html>
+
+由表6可见，饲粮中添加发酵元宝枫叶对育肥猪直肠内容物微生物菌群产生了显著影响。与对照组和未发酵元宝枫叶组相比，发酵元宝枫叶组育肥猪直肠内容物中大肠杆菌数量分别降低了 $1 4 . 9 3 \%$ 和 $1 4 . 5 8 \%$ （ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )，乳酸杆菌数量分别增加了 $1 9 . 7 7 \%$ 和 $1 5 . 6 4 \%$ （ $_ { P < 0 . 0 5 ) }$ 。
+
+表6饲粮中添加发酵元宝枫叶对育肥猪直肠内容物微生物菌群的影响
+
+microflora of finishing pigs lg(CUF/g)项目 标准误 P值
+
+<html><body><table><tr><td></td><td>CON</td><td>UFA</td><td>FA</td><td></td><td></td></tr><tr><td>大肠杆菌E.coli</td><td>7.69a</td><td>7.66a</td><td>6.54b</td><td>0.86</td><td>0.042</td></tr><tr><td>乳酸杆菌Lactobacilli</td><td>8.15b</td><td>8.44b</td><td>9.76a</td><td>0.93</td><td>0.035</td></tr></table></body></html>
+
+3讨论
+
+3.1元宝枫叶发酵前后主要营养成分含量的变化
+
+微生物发酵已被确定为一个富有成效的过程，它是一种产生具有健康促进作用的生物物质的有效手段。发酵过程可以改变中草药的原始生物活性物质和营养成分，经过微生物发酵处理后的中草药富含维生素、酶和生长因子[12-13]。元宝枫叶富含总黄酮、多糖、绿原酸等物质，而总黄酮是一类酚类化合物，研究已经揭示其生物学作用源于它们的甙元[14-15]，发酵后黄酮甙元可更容易、更迅速被肠道吸收[16]。本试验中，元宝枫叶发酵后的粗蛋白质、还原糖、总氨基酸和总必需氨基酸含量均显著高于发酵前。粗蛋白质含量的增加可归因于细菌的生长和增殖、酶的分泌（所有酶都是蛋白质）和通过分解作用释放的被螯合或束缚的蛋白质[4]。还原糖含量的增加可能是因为发酵后碳水化合物含量的增加[17]。然而发酵后总黄酮含量略有降低，这说明发酵过程中来源于黑曲霉的β-葡萄糖甙酶可能已经将黄酮转化为甙元，而产生的不同苷类的甙元可能是本试验中具有有益作用的生物活性组分[18]。总氨基酸和总必需氨基酸含量的增加是有益的，氨基酸的含量和比例是决定蛋白质营养价值的主要因素，肌肉中必需氨基酸的含量越高，蛋白质营养价值越高[19]。
+
+3.2发酵元宝枫叶对育肥猪生产性能的影响
+
+本试验中，与对照组相比，饲粮中添加未发酵元宝枫叶和发酵元宝枫叶均能显著增加育肥猪的ADG，生产性能的提高可能是由于添加发酵元宝枫叶后蛋白质、还原糖、氨基酸等活性物质含量的增加。乔艳明等[2]研究了多菌种发酵饲粮对育肥猪生产性能的影响，结果发现，多菌种发酵饲粮组育肥猪的ADG比另外2个常规全价饲粮组分别提高了 $5 . 3 \%$ 和 $5 . 6 \%$ ，与本试验结果基本一致。各组育肥猪的ADFI和F/G无显著差异，可能是因为各组饲粮的风味和适口性差异不大。
+
+# 3.3发酵元宝枫叶对育肥猪肉品质的影响
+
+猪肉的食用品质往往是消费者和生产者最关心的，肉的嫩度、色泽和保水性等是用来评判猪肉品质的重要指标。猪肉品质的下降大多是由于屠宰后肌肉中大量脂质过氧化物发生氧化反应，破坏细胞膜，从而造成嫩度下降、肉色变淡和系水力下降等[20]。本试验结果表明，发酵元宝枫叶组育肥猪肌肉的系水力显著高于其他2组，这表明饲粮中添加发酵元宝枫叶可以提高猪肉的多汁性，口感更好，其原因可能是黄酮通过阻止肌细胞膜上磷脂的氧化，保证了细胞膜的完整性，减少了肌浆液的丢失，从而改善了系水力[21]。猪肉的嫩度反映了肉的质地，肌肉嫩度可通过剪切力来衡量，剪切力越大，肉质越老化，口感就越差[22]。本试验中，未发酵元宝枫叶组和发酵元宝枫叶组育肥猪肌肉的剪切力显著低于对照组，其中发酵元宝枫叶组的剪切力更低，说明肉的嫩度得到改善。肉色是消费者对猪肉外观性状最直接的选择标准，通常认为亮红色的猪肉质量相对较好[23]。本试验研究发现，发酵元宝枫叶组的红度值显著高于对照组和未发酵元宝枫叶组。红度值是鲜肉切块中肌红蛋白转换为高铁蛋白的标识，黄酮的抗氧化作用能延缓这一反应。
+
+# 3.4发酵元宝枫叶对育肥猪肌肉脂肪酸含量的影响
+
+脂肪酸是构成脂肪的重要化学物质，肌内脂肪的氧化会导致自由基的产生，进而导致肉的酸败，产生不良气味[24]。不饱和脂肪酸（UFA）能保证细胞的正常生理功能，改善血液微循环，增强记忆力和思维能力。随着人们生活水平的提高，更多的消费者希望从食物中摄入更多的UFA[25]。植物多酚黄酮类作为抗氧化剂是一种主要的具有终止自由基反应的化合物基团之一，参与细胞的抗氧化体系并与其他的细胞抗氧化剂发挥协同作用[26]。Havsteen[27]指出，存在于细胞膜中的黄酮类物质能够像维生素C一样保护UFA免遭氧化，这一点也支持了本试验结果。本试验中，饲粮中添加发酵元宝枫叶显著增加了育肥猪肌肉中MUFA、PUFA的含量和PUFA/SFA。SFA含量的降低是由于硬脂酸和花生酸含量的显著降低所致，而PUFA含量的增加是由于亚麻酸和花生烯酸含量的显著增加所致，其原因可能与过氧化物酶清除酶的活性有关，该酶能够降低总不饱和脂肪酸氧化。以上结果说明，饲粮中添加发酵元宝枫叶可以提高猪肉中UFA的含量，改变猪肉的脂肪酸结构，从而提高了猪肉的品质。
+
+# 3.5发酵元宝枫叶对育肥猪肠道菌群的影响
+
+研究表明，发酵饲料可以提高饲粮适口性、改善动物胃肠菌群[28]、提高胃肠对饲料营养物质的分解、消化、吸收和利用[29]。已有研究表明，用假丝酵母或米曲霉发酵药草能产生大量水解酶（如纤维素酶、麦芽糖酶、蛋白酶等)，增强消化酶活性，改善胃肠道系统以及断奶仔猪的健康状况，这将有助于提高营养物质的消化率[30-31]。张娜娜等[32]研究发现，发酵饲料桑粉中粗纤维含量降低，蛋白质含量增加，且发酵过程可以产生大量益生菌，调节家畜胃肠道的菌群环境，提高家畜的免疫机能与抗病能力。这些研究结果也支持了本试验结果。肠道微生物菌群是消化系统的一个重要组成部分，乳酸杆菌和大肠杆菌常被作为研究仔猪和生长育肥猪肠道菌群的主要代表菌，其活菌含量与猪的健康密切相关；仔猪和育肥猪腹泻时肠道菌群发生很大变化，主要表现为大肠杆菌数量增加，而乳酸杆菌数量降低[33]；乳酸杆菌能够增强动物免疫力，是动物体内的有益菌群。本试验结果显示，与对照组和未发酵元宝枫叶组相比，发酵元宝枫叶组育肥猪直肠内容物中大肠杆菌数量显著降低，乳酸杆菌数量显著增加。这种现象的可能原因是可发酵纤维刺激后肠中微生物的发酵，发酵生成了乳酸和可挥发性脂肪酸，抑制了一些肠道病原体如大肠杆菌和沙门氏菌的生长[34]。此外，梁英等[35]研究发现，黄芩黄酮对肉仔鸡肠道中大肠杆菌和沙门氏菌有显著抑制作用，对乳酸杆菌有促进作用，这也支持了本次试验的结果。发酵元宝枫叶通过对育肥猪肠道菌群的调节，提高了育肥猪的免疫机能和抗病能力，从而改善了生产性能。
+
+4结论
+
+饲粮中添加发酵元宝枫叶能够改善育肥猪肌肉的脂肪酸组成和肠道菌群，并在一定程度 上改善其生产性能、肉品质和肠道健康。   
+参考文献：   
+[1] 涂小丽,钟芳,邓伏清,等.微生物发酵饲料对生长猪生产性能和营养物质利用率的影响[J]. 饲料工业,2015,36(4):36-38.   
+[2]乔艳明,杨茉莉,陈文强,等.多菌种复合发酵饲料对杜长大育肥猪生产性能的影响[J].家畜 生态学报,2016,37(1):31-36.   
+[3]周小辉,李彪.发酵饲料在中大猪上的应用[J].国外畜牧学:猪与禽,2014,34(9):62-63. [4] AHMED S T,MUN H S,ISLAM M M,et al.Effects of dietary natural and fermented herb combination on growth performance,carcass traitsand meat qualityin grower-finisher pigs[J].Meat Science,2016,122:7-15.   
+[5] 胡新旭,周映华,卞巧,等.无抗发酵饲料对生长育肥猪生产性能、血液生化指标和肉品质的 影响[J].华中农业大学学报,2015,34(1):72-77.   
+[6]王娟娟,王顺喜,陆文清,等.发酵饲料对生长肥育猪脂肪品质的影响[J].粮食与饲料工 业,2010(6):59-62.   
+[7]刘祥义,付惠,邱宗海.云南元宝枫叶营养评价[J].天然产物研究与开发,2003,15(3):222-223. [8] 邬理洋.微生态制剂和牛膝多糖对猪生长性能和肉质品质影响研究[D].博士学位论文.长 沙:湖南农业大学,2011:23-24.   
+[9] 周贵.畜禽生产学实验教程[M].北京:中国农业大学出版社,2006:173-181.   
+[10] 中华人民共和国农业部.NY/T821-2004 猪肌肉品质测定技术规范[S].北京:中国农业出 版社,2004.   
+[11]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 22223-2008 食品中总脂肪、饱和脂肪(酸)、不饱和脂肪(酸)的测定 水解提取-气相色谱法[S]. 北京:中国标准出版社,2008.   
+[12] NG C C,WANG C Y,WANG Y P,et al.Lactic acid bacterial fermentation on the production of functional antioxidant herbal Anoectochilus formosanus Hayata[J].Journal of Bioscience and Bioengineering,2011,111(3):289-293.   
+[13] YAMAMOTO M,SALEH F,TAHIR M,et al.The effect of koji-feed (fermented distillery by-product) on the growth performance and nutrient metabolizability in broiler[J].The Journal of Poultry Science,2007,44(3):291-296.   
+[14]HENDRICHS.Bioavailabilityofisoflavones[J].JournalofChromatography B,2002,777(1/2):203-210.   
+[15]KAWAKAMI Y,TSURUGASAKI W,NAKAMURAS,etal.Comparisonof regulative functions between dietary soy isoflavones aglycone and glucoside on lipid metabolism in rats fed cholestero[J].The Journal of Nutritional Biochemistry,2005,16(4):205-212.   
+[16] IZUMI T,PISKULA M K,OSAWA S,et al.Soy isoflavone aglycones are absorbed faster and in higher amounts than their glucosides in humans[J].Journal of Nutrition,2000,130(7):1695-1699. [17] HONG K J,LEE C H,KIM S W.Aspergillus oryzae GB-107 fermentation Improves nutritional qualityoffoodsoybeansandfeedsoybeanmeals[J].JournalofMedicinal Food,2004,7(4):430-435.   
+[18] HSU M F,CHIANG B H.Effect of Bacillus subtilis natto-fermented Radix astragali on collgen production in human skin fibroblasts[J].Process Biochemistry,2009,44(1):83-90. [19]张福娟,孙成行,韩玲,等.蕨麻猪猪肉营养成分研究[J].辽宁师专学报:自然科学 版,2014,6(2):98-101.   
+[20] 晁娅梅,陈代文,余冰,等.茶多酚对育肥猪生长性能、抗氧化能力、胴体品质和肉品质的 影响[J].动物营养学报,2016,28(12):3996-4005.   
+[21] LI X L,HE L P,YANG Y,et al.Effects of extracellular polysaccharides of Ganoderma lucidum supplementation on the growth performance,blood profile,and meat quality in finisher pigs[J].Livestock Science,2015,178:187-194.   
+[22]贺长青.不同营养水平日粮饲喂长白 $\times$ 沙子岭杂交猪的效果研究[D].硕士学位论文.长沙: 湖南农业大学,2012.   
+[23] TROY D J,KERRY J P.Consumer perception and the role of science in the meat industry[J].Meat Science,2010,86(1):214-226.   
+[24] FAUSTMAN C,CASSENS R G.The biochemical basis for discoloration in fresh meat:a review[J].Journal of Muscle Foods,1990,1(3):217-243.   
+[25]李瑞丽,胡丽芳,唐书升,等.玉山黑猪肉营养特性分析[J].肉类研究,2013,27(5):10-13. [26] SINGH G,MARIMUTHU P,DE HELUANI C S,et al.Antimicrobial and antioxidant potentials of essential oil and acetone extract of Myristica fragrans Hout.(Aril Part)[J].Journal of Food Science,2005,70(2):M141-M148.   
+[27] HAVSTEEN B.The biochemistry and medical significance of the flavonoids[J].Clinical Pharmacology & Therapeutics,2002,96(2/3):67-202.   
+[28] 杨帆.微生物发酵饲料的作用机理及利用[J].新疆畜牧业,2014(10):11-13.   
+[29]贾明辉,郭洪新,李国军,等.微生态发酵饲料菌群变化及其应用[J].饲料博 览,2009(3):24-27.   
+[30] LYBERG K,LUNDH T,PEDERSEN C,et al.Influence of soaking,fermentation and phytase supplementation on nutrient digestibility in pigs offered a grower diet based on wheat and barley[J].Animal Science,2006,82(6):853-858.   
+[31] FENG JK,LIU X Q,XU Z R,et al.Effect of fermented soybean meal on intestinal morphology   
+anddigestiveenzymeactivitiesinweanedpiglets[J].DigestiveDiseasesand   
+Sciences,2007,52(8):1845-1850.   
+[32] 张娜娜,曹洪战,李同洲,等.发酵饲料桑粉对育肥猪生长性能和猪肉品质的影响[J].中国兽   
+医学报,2016,36(12):2166-2170.   
+[33] 刘辉,季海峰,张董燕,等.饲粮添加短乳杆菌对生长猪生长性能和血清生化指标的影响[J].   
+动物营养学报,2013,25(1):182-189.   
+[34] MONTAGNE L,PLUSKE JR,HAMPSON D J.A review of interactions between dietary fibre   
+and the intestinal mucosa,and their consequences on digestive health in young non-ruminant   
+animals[J].Animal Feed Science and Technology,2003,108(1/2/3/4):95-117.   
+[35] 梁英,任成财,金迪,等.黄芩黄酮对肉仔鸡生长性能和肠道菌群的影响[J].中兽医医药杂   
+志,2012,31(4):39-42. Effect of Fermented Acer Truncatum Leaves on Meat Quality and Intestinal Microflora of Finishing Pigs ZHANG Xuhui1WU YuanyuanlWANG Ginbin1CAO Fuliang1\* LI Dailong²WANG Wenwen² (1. College ofForestry, Nanjing Forestry University, Nanjing 210037,China; 2. Shandong Yongchuntang Group Ltd., Sishui 273200, China)   
+Abstract: This study was conducted to investigate and compare Acer truncatum leaves before and   
+after fermentation on performance, meat quality and intestinal microflora of finishing pigs. Forty   
+eight finishing pigs (males and female in half) with the similar body weight were randomly   
+assigned to 3 groups with 4 replicates per group and 4 pigs per replicate. The pigs in control group   
+were fed a basal diet, and the others in unfermented Acer truncatum leaves (UFA) and fermented   
+Acer truncatum leaves (FA) groups were fed the basal diet supplemented with $12 \%$ UFA and FA,   
+respectively, instead of the same amount of wheat bran. The pretest lasted for 7 days and the test   
+lasted for 63 days. The results showed as follows: 1） compared with control group,the average   
+daily gain (ADG) and muscle red value of finishing pigs in UFA and FA groups were significantly
+
+# ChinaXiv合作期刊
+
+increased and muscle shear force was significantly decreased $( P { < } 0 . 0 5 )$ . The red value in FA group was significantly higher than that in UFA group $( P { < } 0 . 0 5 )$ ，and the water holding capacity in FA group was significantly higher than that in control and UFA groups $( P { < } 0 . 0 5 )$ .2) Compared with control group,the contents of linolenic acid, arachidonic acid, monounsaturated fatty acid (MUFA) and polyunsaturated fatty acid (PUFA) and the ratio of PUFA to saturated fatty acid (SFA) in muscle of finishing pigs in FA group were significantly increased $( P { < } 0 . 0 5 )$ ， and the contents of stearic acid, arachidic acid and SFA in FA group were significantly decreased $( P { < } 0 . 0 5 )$ . The contents of linolenic acid and MUFA in FA group were significantly higher than that in UFA group （204 $( P { < } 0 . 0 5 )$ . 3) Compared with the control and UFA groups, the numbers of $E$ ，coli in rectal contents of finishing pigs in FA group was significantly decreased and the numbers of Lactobacilli was significantly increased $( P { < } 0 . 0 5 )$ . In conclusion, dietary FA can improve the performance,meat quality and intestinal health of finishing pigs to some extent. Key words: fermented Acer truncatum leaves; pigs; meat quality; fatty acids; intestinal microflora

@@ -1,0 +1,617 @@
+[
+    {
+        "type": "text",
+        "text": "Developmental Cell ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Diacylglycerol Guides the Hopping of ClathrinCoated Pits along Microtubules for Exo-Endocytosis Coupling ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Graphical Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Authors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7345269fc39e5cf2d99584b93297ca327ef70ae34d945cedb4c843072626b9d5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Highlights ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tianyi Yuan, Lin Liu, Yongdeng Zhang,., Jean Salamero, Yanmei Liu, Liangyi Chen ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pre-formed CCPs hop to nascent fusion sites to couple   \nendocytosis with exocytosis   \nCortical microtubules anchored on the plasma membrane   \nprovide tracks for CCP hopping   \nLocal, transient diacylglycerol gradients guide the direction   \nof CCP hopping   \nCoupled endocytosis mediates rapid clearance of fusion   \nsites for sustained exocytosis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondence yanmeiliu@pku.edu.cn (Y.L.), lychen@pku.edu.cn (L.C.) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "InBrief ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yuan et al. demonstrate that pre-formed clathrin-coated pits move to vesicle fusion sites along tracks provided by cortical microtubules, guided by local diacylglycerol concentration.This coupling mechanism mediates fast recycling of both plasma membrane and vesicularproteins,and itis required for the sustained exocytosis during repetitive stimulations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Diacylglycerol Guides the Hopping of Clathrin-Coated Pits along Microtubules for Exo-Endocytosis Coupling ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tianyi Yuan,1,2,7LinLiu,1,2,7 Yongdeng Zhang,3,7 Lisi Wei,1,2,7 Shiqun Zhao,1,2 Xiaolu Zheng, $^ { 1 , 2 }$ Xiaoshuai Huang,1,2   \nJeromeBoulanger,4CharlesGueudry,56ngzeLu,anXie,12enu,3WeijnZong2uang,12JeanSlaro4,5   \nYanmei Liu,1,2,\\* and Liangyi Chen1,2,\\*   \n1StateKeyLaboratoryfembraneologyBejingKeyaboratoryfCardiometabolicolecularMedicine,stituteofoleculardicne   \nPeking University, Beijing 100871,China   \n2National Center for Nanoscience and Technology, Beijing 10o871, China   \n3NationalKeyLaboratoryofBiomacromolecules,InstituteofBiophysics,ChineseAcademyofSciences,Beijing1000,China   \n4UMR144 CNRS/UPMC,Institut Curie,75005 Paris,France   \n5PICT Celland Tissue Imaging Core Facility, Institut Curie,75005 Paris,France   \n6Roper Scientific SAS,91017 Evry,France   \n7Co-first author   \n\\*Correspondence: yanmeiliu@pku.edu.cn (Y.L.), lychen@pku.edu.cn (L.C.)   \nhttp://dx.doi.org/10.1016/j.devcel.2015.09.004 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SUMMARY ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many receptor-mediated endocytic processes are mediated by constitutive budding of clathrin-coated pits (CCPs) at spatially randomized sites before slowly pinching off from the plasma membrane (60- 100 s). In contrast, clathrin-mediated endocytosis (CME) coupled with regulated exocytosis in excitable cells occurs at peri-exocytic sites shortlyafter vesicle fusion $( \\sim 1 0 \\ s )$ . The molecular mechanism underlying this spatiotemporal coupling remains elusive.We show that coupled endocytosis makes use of preformed CCPs，which hop to nascent fusion sites nearby following vesicle exocytosis. A dynamic cortical microtubular network,anchored at the cell surface by the cytoplasmic linker-associated protein onmicrotubulesandtheLL5β/ELKScomplexon the plasma membrane,provides the track for CCP hopping.Local diacylglycerol gradients generated upon exocytosis guide the direction of hopping. Overall, the CCP-cytoskeleton-lipidinteractiondemonstrated here mediates exocytosis-coupled fast recycling of both plasma membrane and vesicular proteins,and it is required for the sustained exocytosis during repetitive stimulations. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Clathrin-mediated endocytosis (CME) mediates constitutive, receptor-mediated endocytosis in all eukaryotic cells.In neuronand endocrine cells,rapid release of neurotransmitters and hormones is accompanied by massive addition of newly fused vesicle membrane to the plasma membrane.Subsequently，coupled endocytosis rapidly initiates to clear the plasma membrane for the next round of fusion (Neher, 2010) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and maintain the balance of cell surface membrane (Haucke et al., 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CME initiates with the budding of clathrin-coated pits (CCPs) that recruit numerous proteins,which bend surface membrane, interact with specific cargo proteins,facilitate clathrin coat assembly,and mediate final membrane scission (McMahon and Boucrot,2011). In non-excitable cells, CCPs constitutively bud at spatially random sites before slowly pinching off from the plasma membrane with cargo proteins to be retrieved (60- 100 s) (Ehrlich et al., 2004; Loerke et al., 2009). In neuron and endocrine cells，membrane depolarization evokes massive exocytosis followed by coupled fast CME (time constants, 3-10 s) (Artalejo et al., 2002; He et al.， 2008; Jockusch et al., 2005;Wu et al., 2009; Zhu et al., 2009). Moreover, regulated CME occurs mostly at the spatially confined peri-active zone after stimulation in neurons (Marie et al., 2oo4; Roos and Kelly, 1999;Wahl et al.,2013).How the slow，spatially randomized CMEis synchronized to regulated exocytosis in time and space in excitable cells remains enigmatic. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using dual-color total internal reflection fluorescence (TIRF) microscopy to monitor discrete exocytic and endocytic events simultaneously，here we visualize elementary exocytosis-coupled CME in insulin-secreting INS-1 cells.In addition to direct hits of exocytosis onto sites close to pre-formed CCPs or de novo formation of CCPs at fusion sites after exocytosis,we reveal an unexpected hopping of pre-formed CCPs to nearby nascent fusion sites.These hopping CCPs move on the plasma membrane,with cargo proteins such as Syt VIl,to fusion sitesbefore endocytosis.Cortical microtubulesunderneath the plasma membrane provide tracks for the hopping of CCPs, and transient diacylglycerol (DAG) gradients at fusion sites convey the spatial orientation of the movement. Overall, we present a concept that lateral hopping of CCPs with directionality precisely couples CME with exocytosis in space and time. In conjunction with membrane-cytoskeleton interaction and DAG gradient,hopping of CCPs may represent an efficient method to actively recycle vesicular componentsand clear fusion sites in excitable cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(A)Spatiotemporal association of clathrin with exocytosis in INS-1 cells co-transfected with VAMP2-pHluorin and LCa-DsRed. (Left) Timelapse images show the average VAMP2-pHluorin signal (467 fusion events) at fusion sites (top) and the corresponding average LCa signal at fusion sites (middle) and at random sites $\\mathrm { \\Delta } \\mathfrak { n } = 4 6 7$ ，bottom).(Right) Time courses of normalized fluorescence signals fromaverage images on the left (top)and spatial profiles of the average VAMP2- pHluorin and LCa signals at fusion sites (bottom). Inset is the overlaid image. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/83c3c0df499217d4b9d58f7e95ccd1b4387b21935de8a2e89fbfe835993dc6a4.jpg",
+        "img_caption": [
+            "Figure 1. Pre-formed LCa Puncta Hop toward NascentFusion Sites forthe ExoEndocytosis Coupling ",
+            "RESULTS "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(B)An example of a hopping CCP(arrowheads,see also Movie S1). (Left) Time-lapse images show VAMP2-pHluorin (top) and LCa signal (middle) at a fusion site,at 3-s intervals.Kymographs (bottom) are $1 5 0 \\mathrm { ~ s ~ }$ and $1 . 3 ~ { \\mu \\mathrm { m } }$ high.(Right) Time courses show normalized VAMP2-pHluorin (green)and LCa (red) signals at the fusion site.The dotted line represents the time course of normalized LCa signal at the original site before hopping，and departure time (t) represents the latency of a CCP departureaftera fusion event. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(C)Normalized histogram of all exocytosiscoupled CCP departure times at fusion sites is shown $( \\mathsf { n } = 2 1 5 )$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(D) Normalized histogram of departure times of hopping ${ \\mathsf { C C P s } }$ at fusion sites $( \\mathsf { n } = 7 4 )$ is shown. Scale bars, $5 0 0 ~ \\mathsf { n m }$ .Seealso Figure S1 for other types of CCP recruitments at fusion sites and hopping CCP dynamics analysis and Figure S2 for coupled recruitment of Dyn1 at fusion sites. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Elementary Couplingbetween CMEand Exocytosis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We labeled VAMP2 with the fluorophore pHluorin,which remains quenched byacidic luminal pH until a vesicle fuses.Ata cell footprint,a sudden focal brightening indicates afusion pore opening; and the ensuing circular spread of the pHluorin signal signifies VAMP2 proteins diffusing away from the fusion site (Figure S1A; Allersma et al., 20o4).To simultaneously detect endocytosis,we tagged the light chain of clathrin (LCa) with DsRed (Ehrlich et al., 2004;Merrifield et al., 2002),so that the budding off of a CCP could be recorded as the sudden disappearance of an LCa punctum (Figures S1A and S1B; Ehrlich et al.，2004; Loerke et al., 2009; Merrifield et al., 2005). Stimulation with high glucose and high potassium evoked massive exocytosis and the disappearance of LCa puncta over the entire cell footprint. Visual examination of individual VAMP2-pHluorinand LCa image pairs revealed that,withinanobservationwindowof $1 5 0 \\mathsf { s }$ ,discernible LCa puncta transiently existed in close proximity to $3 8 \\%$ of fusionsites ( $1 4 9 \\pm 7 { \\mathsf { n m } }$ ,151events). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Toestablish an unbiased correlation between exocytosis and LCa puncta,we aligned and averaged time-lapse image segments of all fusion events and the corresponding LCa signals,using the sharply defined pHluorin peak signals to guide the spatiotemporal alignment.Ensemble averages revealed that exocytosis $( \\mathsf { n } = 4 6 7 ^ { \\circ } ,$ evoked a focal LCaaccumulation that overlapped with the VAMP2-pHluorin peak in space (Figure 1A). The departure time of an LCa punctum from the fusion site (t) was calculated as the interval between the moments that the VAMP2-pHluorin signal reached a peak and the sudden disappearance of the LCa punctum (Figure 1B).We found that the histogram of departure time followeda two-Gaussian distribution,with the centers at 6.9 and 28.9 s (Figure 1C). Thus,direct visualization reveals fast and slow exocytosis-coupled clathrin recruitments. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In addition to the endocytosis of CCPs,some of the LCa puncta disappearance events might have been due to the nonproductive disassembly of clathrin clusters (Aguet et al., 2013; Ehrlich etal., 2004; Loerke etal.,2009).To exclude that possibility,we investigated the spatiotemporal correlation of exocytosis with labeled dynamin-1 (Dyn1) (Figure S2A),a mechanochemical enzyme required for the membrane scission (Aguet et al., 2013; Ferguson and De Camilli，2012). The average Dyn1 signal at fusion sites rose immediately upon fusion (Figure S2B). The subsequent Dyn1 departure displayed fast and slow Gaussian kinetics,withaverage times of10.2and 23.1s,similar to those of LCa puncta (Figure S2C). These results suggest that the recruitment of LCa to fusion sites and the ensuing fast and slow departures represent coupled CME rather than non-productive events.Collectively，CME is exquisitely orchestrated and spatiotemporally coupled with exocytosis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Byanalyzing individual events from time-lapse movies，we identified three elementary types of coupled LCa recruitment. Some LCa puncta resided closely to future fusion sites $( \\sim 3 1 \\%$ Figure S1A),as if the fusing vesicles directly hit upon pre-existing CCPs,whereas the rest involved LCa puncta either formed de novo at fusion sites $( \\sim 3 5 \\%$ ， Figure S1B) or that were rapidly recruited in toto (hopping) from nearby regions to fusion sites $( \\sim 3 4 \\%$ ,Figure 1B;Movie S1) after exocytosis.On average, the disappearance of pre-existingLCa puncta from the fusion sites occurred with a mean latency of $1 3 . 1 \\pm 1 . 6 \\mathsf { s } ( \\mathsf { n } = 8 0 )$ after exocytosisandacceleratedcoupled CME5-to 7-fold overclassical CME(60-100 s in non-excitable cells) (Ehrlich et al.,2004; Loerke et al., 2009；Merrifield et al.,2005). This result agrees with the concept ofareadilyretrievable pool,inwhichpre-assembled vesicle membrane proteins wait on the pre-synaptic membrane tobe rapidly retrievedafterexocytosis (Hua et al.,2011).The coupled endocytosis of CCPs formed de novo at fusion sites was relatively slow (Figure S1B). About $30 \\%$ of these CCPs did not disappear during the observation window of $\\mathsf { 1 5 0 s }$ ,andthe other $70 \\%$ disappeared from the fusion sites at $3 5 . 6 \\pm 3 . 1$ S $( \\mathsf { n } = 6 1 ^ { \\cdot }$ ）after exocytosis,which was three times slower than pre-existing LCa puncta $( \\mathsf { p } < 0 . 0 0 1 )$ .Thus，the exocytosiscoupled de novo CCP formation and ensuing endocytosis operate ona timescale comparable to classical CME (Ehrlich et al., 2004; Loerke et al., 2009; Merrifield et al., 2005). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The discovery of fusion-site-directed, sudden translocation of pre-formed LCa puncta was a surprise,because the CCP might be thought of as an immobile structure where membrane invagination,protein recruitment,and vesicle fission occur at the same location (Ehrlich etal., 2004; Loerke et al., 2009; McMahonand Boucrot,2011; Merrifield etal., 2005). In search of the possible mechanism,we first quantified the movement of LCa puncta. On average,an LCa punctum traversed $3 6 8 \\pm 3 2 { \\mathsf { n m } }$ at speeds rangingfrom $3 6 \\ \\mathsf { n m / s }$ to $1 . 0 8 ~ { \\mu \\mathrm { m / s } }$ 1 $( { \\mathsf n } = 7 4$ ，Figures $\\mathsf { s 1 C }$ and S1D)，via smooth and sometimes linear trajectories,to reach nascent fusion sites (Figure 1B). Once initiated, this hopping was completed within ${ \\sim } 2 . 2 \\pm 0 . 2$ s.These characteristics are distinct from the long-range (Keyel etal.,20o4), dynactin-dependent fast lateral movement of endosomal clathrin (Zhao et al., 2007).On average,LCa puncta initiated hopping ${ \\sim } 1 5$ Safter exocytosis,withabroad latency ranging from immediate (2s, $2 5 ^ { \\mathrm { t h } }$ percentile) to delayed (21 s, $7 5 ^ { \\mathrm { t h } }$ percentile, Figure S1E), indicatingthat hoppingLCa puncta participate in both the fast and the slow coupled CME.The average departure timewas $2 8 . 2 \\pm 2 . 2 \\mathsf { s }$ (exclusive of events outlasting the observation window, Figure1D),whichwas ${ \\sim } 1 5$ s slower than that of pre-existing CCP-mediated CME but ${ \\sim } 7$ s faster than that of CCPs formed de novo at fusion sites.Combined, the direct targeting of exocytosis onto sites close to pre-existing CCPs and the lateral hopping of LCa puncta toward fusion sites provide a long-sought local mechanism of rapidly supplying endocytic structures during exocytosis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Pre-formed CCPs Hopwith Cargo Proteinson the Plasma MembranetowardNascent Fusion Sites for ProteinRetrieval ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It has been postulated that clathrin can be a component of the fusing granules in retinal bipolar neurons (Pelassa et al., 2014), which may contribute to the hopping LCa puncta and couples ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CME with exocytosis.We used a fast incidence angle-scanning and azimuthal-averaging TIRF microscope to perform superresolution reconstruction in the zaxis to directly test that possibility (Boulanger et al.， 2014; Zong et al., 2014). As shown in Figure 2A，the sudden approaching of a secretory vesicle (labeled with VAMP2-EGFP) along the zaxis was not colocalized withany LCa puncta before collapsing into the plasma membrane.After the completion of the exocytosis,a nearby preformed LCa punctum,seen onlyat the plane $0 { - } 5 0 ~ \\mathsf { n m }$ beneath the plasma membrane，moved toward the fusion site and docked there.Afteradelayof ${ \\sim } 3 9 \\ \\mathsf { s }$ ,the shallow clathrin structure started to invaginate and appeared in the plane thatwas $1 0 0 { - } 1 5 0 ~ \\mathrm { n m }$ beneath the plasma membrane.Finally, it sequentially disappeared from both planes,indicative of internalization of a clathrin-coated vesicle (Figures 2A-2C).This result indicates that hopping LCa puncta represent CCPs associated with the plasma membrane. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Next we explored whether hopping CCPs contain cargo proteins and other membrane components.Synaptotagmin Vll (Syt VIll) is a vesicular ${ \\mathsf { C a } } ^ { 2 + }$ sensor mediating glucose-induced insulin secretion (Gustavsson et al., 20o8),and it needs to be retrieved from the plasma membrane by CME after vesicle exocytosis (Haucke and De Camilli， 1999). By photo-activating Syt VIl-PA-GFP/PA-mCherry under TIRF illumination,we visualized all Syt Vll proteins on the plasma membrane as well as a small fraction of vesicular Syt VIl close to the plasma membrane; furthermore,by briefly incubating cells with a cell-impermeable dye (30 s),we visualized a fraction of CLIP-SytVIl proteins localized specifically on the plasma membrane.With both protocols, we observed discrete patches of Syt Vll left on the cell surface after stimulation (Figure S3A), similar to previous observations in synapses (Hua et al., 2011; Willig et al., 2006). Most Syt Vll patches co-localized and laterally moved with LCa puncta on the plasma membrane before ultimately disappearingaltogether (Figures 2D, S3B,and S3C; Movie S2). In addition, hopping Syt Vll puncta traveled to vesicle fusion sites (Figure 2E) and disappeared there 4.8 or 17.2 s after exocytosis (Figure 2F),qualitatively matching the kinetics of LCa puncta.This demonstrates that clathrin hops to fusion sites along with Syt Vll to be internalized together.We also proved that these LCa puncta slid with membrane curvatures.FCHO2 binds and stabilizes shallow curvatures on the surface membrane (Shen et al., 2012). Most LCa puncta co-localized with FCHO2（ $7 1 . 4 \\% \\pm 0 . 9 \\%$ ，seven cells), and many LCa puncta laterally shifted on the plasma membrane with FCHO2 (Figure 2G; Movie S3). The laterally shifted FCHO2 puncta also moved to the fusion sites defined by the transient brightening of the large-dense-core vesicle marker NPYpHluorin (Figure S4A).Finally，AP2,an adaptor protein critical for the cargo sorting of CCPs,also was found to laterally move on the plasma membrane toward the fusion site after vesicle exocytosis (Figure S4B).Taken together,we conclude that membrane-protein assemblies in toto,i.e.,CCPs,hop to the fusion sites to mediate recycling of vesicular proteins. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cortical Microtubules Provide Tracks for the Hopping of CCPs ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The cortical cytoskeleton，which regulates diffusion of membrane receptors on the plasma membrane (Jaqaman et al., 2011), interacts with CCPs (Montagnac et al., 2013). Thus,we ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/beee7cf3e7b31527ab8f2fb94295cb4bf78a7fa0cb9db33b422193fd06e89900.jpg",
+        "img_caption": [
+            "Figure2.Pre-formed CCPs Hopwith Cargo Proteinsonthe Plasma Membrane toward NascentFusion Sites to Be Internalized ",
+            "(A)ArepresntatialisiotandoednCaceetSllrasdid DsRed,stimulated with $7 0 \\mathrm { \\ m M } \\mathsf { K C l }$ and $1 5 ~ \\mathsf { m M }$ glucose.(Left)The cartoon shows diferent clathrin-coated structures visualized by the super-axial resolution incidenceagadueaioetasottaia middle,LCa[s])at the plane $_ { 0 - 5 0 \\mathsf { n m } }$ beneath plasma membrane and the LCa signal at the plane $1 0 0 \\mathrm { - } 1 5 0 \\mathrm { n m }$ beneath plasma membrane (blue,bottom,LCa[d]). Montagesare shown at $3 2 - 5$ intervals.Arrows indicate the moving CCP. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "B)Time courses of normalized VAMP2-EGFP(green)and LCa (red) signals at the fusion site from the plane $_ { 0 - 5 0 \\mathsf { n m } }$ beneath plasma membrane.The dotted line 'epresents the time course of normalized LCa signal at the original site before hopping. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(C) Time courses of normalized LCa signals at the fusion site from the planes $_ { 0 - 5 0 \\mathsf { n m } }$ (red) or $1 0 0 { - } 1 5 0 \\mathsf { n m }$ (blue dotted) beneath plasma membrane are shown. (D)Arepresetilteottatadp MovieS2).CLPytVlwabeldit-perableCurface488tagmagesreat9.823.26.3.06,49 $4 9 . 5 \\ \\mathsf { s }$ Kymographs (bottom) are $3 . 2 \\mu \\mathrm { m }$ high.Redarowindicatesthetimepointoflinearmovement;arowheadsindicatesiteswhere intensitiesareplotedontheright graph.TimecoursesofnomalizedSytV(en)andLCa(red)signalsoftheventresow(rigt.Insetdescibesthelabelingstrategy ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(E)Aepresetatieapofoddadtsioa (top) and of Syt VIl-PA-mCherry signal (middle) at a fusion site are shown at $1 . 5 \\cdot \\mathsf { s }$ intervals.Kymographs (bottom) are $2 . 4 \\mu \\mathrm { m }$ high. Green arrow, time point of vsiusiofao labeling strategy. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(F) Histogram of Syt Vll cluster departure times (t)at fusion sites is shown $( \\mathsf { n } = 1 4 4 ^ { \\cdot }$ 一 (G)Arepresentativeeaoaodstatca beforedisappearingaltogether (seealso MovieS3).Montage images(top)areat3-sintervals.Kymographs (bottom)are $1 . 7 ~ { \\mu \\mathrm { m } }$ high.Redarrowmarksthe initiation of LCa/FCHO2 movement. Scale bars. $5 0 0 ~ \\mathrm { { n m } }$ (A) and $1 ~ { \\mu \\mathrm { m } }$ (D,E,and G). See also Figure S3 for the co-localization and co-movement of plasma membraneassodSiduretdaptorotesowdstsiieda ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "hypothesized that the cytoskeletal network immediately beneath the plasma membrane might provide tracks for the CCP hopping.By labeling microtubules with EGFP-Tubulin, weobserved that a CCP moved alonga cortical microtubule filament and stalled at the intersection of two filaments；as this microtubule re-oriented，the CCP went along with the sliding filament (Figure 3A; Movie S4). To quantitatively correlate CCP motions with cytoskeleton network，we tracked trajectories of all CCPs and identified $\\sim 1 0 \\%$ linearly moving CCPs, using methods proposed previously (Jaqaman et al.，2008, 2011; Figures 3B [inset] and 3C). These linear CCP movements were preferentiallyoverlappedwithcorticalmicrotubules more thanwith actin filaments (labeled with Lifeact-EGFP,Figure 3B). Consistently，the proportion of CCPs that exhibited linear motion was reduced by disruption of the microtubular network with nocodazole，but not by depolymerization of filamentous actin with either cytochalasin D (CytoD) or latrunculin A (Figures 3Cand S5A).This is different from the actin-dependent lateral movement of clathrin structures reported previously (Gaidarov et al.,1999).We propose that CCP hopping is a subset of linear CCP movements,since nocodazole treatment reduced both the overall CCP recruitment and the hopping of CCPs to fusion sites,whereas CytoD treatment reduced neither (Figures 3D and 3E). In addition, inhibition of kinesin 5,dynactin,or myosin 5 all failed to reduce the linearly motile population of CCPs (Figure 3C). Given the relatively slow speed of CCP hopping (Figure S1D), these results suggest that linear CCP motion is unlikelyto be regulatedbyclassicalmotorproteins,butmay result from an association of CCPs with dynamic cortical microtubules (Montagnac et al., 2013). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c10c2530e2b076e9bf0d62e8d63d20475ae187595369f8d1bf92c91d779a054.jpg",
+        "img_caption": [
+            "igure3.CLASPMediates theAnchoringofCorticalMicrotubulesontheSurface Membrane,whichRegulatesBothLateralMovemento DCPs and Regulated Exocytosis "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(A)Time-lapeasooledos)cotubfnt(Glinitelid redirected by the sliding microtubule.See also Movie S4.   \n(B)Tatiosfc trajectories from nine cels, $\\mathsf { p } < 0 . 0 0 1$ ).Inset shows representative linear CCP trajectory (blue) overlaid on EGFP-Tubulin (white).   \n(C)Percentages of linearly moving CCPs in LCa-DsRed-expressing control cells $( \\mathsf { n } = 1 4 )$ ; in LCa-DsRed-expressing cells incubated with CytoD $( 2 0 \\mu \\mathsf { M }$ $2 0 ~ \\mathrm { m i n }$ $n = 1 6 )$ ,latrunculinA( $1 0 \\mu \\mu$ ,30min, ${ \\mathsf n } = 2 7 ,$ ,ornocodazole( $1 0 \\mu \\mathsf { M } .$ 2 hr, $\\mathsf { n } = 7$ ${ \\mathsf p } < 0 . 0 0 1$ ); or in LCa-DsRed-expressing cells co-transfected with KHC-DN $( \\mathsf { n } = 4 )$ 一 ${ \\sf > } 5 0 \\left( \\mathsf { n } = 7 , \\mathsf { p } < 0 . 0 1 \\right)$ ,ormyo5a-DN $( \\mathsf { n } = 9$ $\\mathsf { p } < 0 . 0 5 )$ ,which inhibitkinesin,dynein,ormyosin5,respectively.Unlessspecifiedotherwise,allstatisticaldiffrencesre between the control cells and the designated treated cells.   \n(D)The percentage of exocytosis associated with CCP recruitment in control cells $( \\mathsf { n } = 6 )$ and cells pre-treated with CytoD $( \\mathsf { n } = 5 )$ or nocodazole $\\mathtt { \\Pi } \\mathtt { N } = 5$ ${ \\mathsf { p } } < 0 . 0 0 1$ )is shown.   \n(E)The percentage of hopping CCP among the total CCP recruitment at fusion sites in control cels $( \\mathsf { n } = 6 )$ and cells pre-treated with CytoD $( \\mathsf { n } = 5 )$ or nocodazole 1 $\\mathrm { \\dot { \\boldsymbol { n } } } = 5$ ${ \\mathsf { p } } < 0 . 0 1 )$ is shown.   \n(F)Axamplelttca stimulation is shown.See also Movie S5.Simplified cartoons are shown (bottom).   \n(G)Mcotbs Tubulin,left) and cels co-transfected with EGFP-Tubulin and mTagBFP2-CLASP2-△C (right) are shown.   \n(H) The percentage of linearly moving CCPs in control cells $( \\mathsf { n } = 8 )$ and cells overexpressing CLASP2-△C( ${ \\bf \\dot { n } } = 9$ $\\mathsf { p } < 0 . 0 0 1$ )is shown.   \n$( 1 )$ The percentage of exocytosis associated with CCP recruitment in control cells $( \\mathsf { n } = 1 9 )$ and cells overexpressing CLASP2-△C $\\mathtt { \\tilde { I } } \\mathtt { \\tilde { I } } = 8$ $\\mathsf { p } < 0 . 0 1$ )isshown. (J) The membrane capacitance increment evoked by trains of depolarization in control cells $( \\mathsf { n } = 1 0 )$ and cells overexpressing CLASP2-△C $\\mathtt { \\Delta } \\mathtt { N } = 7$ $\\mathsf { p } < 0 . 0 5 )$ is shown. Scale bars, $1 \\mu \\mathrm { m }$ (A), $5 0 0 \\mathsf { n m }$ (B), $2 \\mu \\mathrm { m }$ (F),and $5 \\mu \\mathrm { m }$ (G).See also Figure S5Aforthe disruptionofactin filamentby CytoDorlatrunculinAtreatment,Figures S5B-SDforthaedcloftetabdreforapaciaacil and in cells transfected with CLASP2-△C mutant. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Next we tried to search for proteins anchoring cortical micro tubules to the plasma membrane.Microtubule filaments are found in close proximityto the active zone in synapses (Westrum and Gray,1986),and they are attached to the cell cortex via the interaction of cytoplasmic linker-associated protein (CLASP) on the microtubules with LL5β/ELKS on the plasma membrane in ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "HeLa cells (Lansbergen et al.， 2Oo6). In INS-1 cells co-transfected with TagRFP-T-Tubulin and EGFP-ELKS,we found that most cortical microtubules traversed ELKS puncta;afterstimulation,more LL5β/ELKS puncta appeared on the plasma membrane (Figures S5B-S5D).Correspondingly，segmented filaments frequently slid between different pairs of ELKS puncta itive trains of depolarization in control cellsand in cellspretreated with eitherpitstop ordynasore,we examined evoked exocytosis and endocytosis. Inhibition of cellular dynamin function with dynasore eliminated most of the exocytosis-coupled endocytosis (Figures 5A,5B,and 5D).Pitstop pretreatment increased the time constant of the fast capacitance decay (control: $0 . 3 5 ~ \\pm$ $0 . 0 4 \\ : \\mathsf { s }$ ${ \\mathsf n } = 8$ pitstop treated: $0 . 6 6 \\pm 0 . 0 8 \\mathtt { s }$ ${ \\mathsf n } = 8$ $\\mathsf { p } < 0 . 0 1$ ) (Figure 5A),and it reduced the membrane retrieval within 4 s after a train of depolarization by half (Figure 5D). Combined, CME contributes to ${ \\sim } 5 0 \\%$ of the fast membrane retrieval after exocytosis. On the other hand,inhibition of CME failed to affect exocytosis evoked by the first train of depolarization，but significantly inhibited subsequent exocytosis evoked by the fourth and fifth trains of depolarization (Figures 5A-5C). Inhibition of coupled endocytosisalso reduces the fast release of synaptic vesicles evoked by repetitive stimulations delivered at intervals less than ${ \\sim } 1 0 ~ \\mathsf { s }$ in Calyx synapses (Hosoi et al.,20o9). Therefore, fast coupled CME plays an important role in sustaining multiple rounds of exocytosis during prolonged stimulations in neurons and endocrine cells,as proposed previously (Neher, 2010). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Local, TransientDAG Gradients ConveytheSpatial OrientationfortheHoppingofCCPs ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To initiate and direct CCP hopping along the microtubular track, the triggering signal must be exocytosis specific,local,and transient.In this regard,depolarization-triggered ${ \\mathsf { C } } { \\mathsf { a } } ^ { 2 + }$ influx that is required for exocytosis may activate phospholipase C,which hydrolyzes phosphatidylinositol 4,5-bisphosphate to generate DAG (Kadamur and Ross,2013). DAG is a non-bilayer lipid with a negative curvature (Carrasco and Mérida, 2o07),and its accumulation may reduce the elastic energy of membrane deformationand facilitate lateral CCP movement.Therefore,we used the EGFP-tagged tandem C1 domains of protein kinase D (PKD) as a DAG indicator (PKD-C1ab-EGFP) (Kim et al., 2011), and we tested whether the local DAG gradient could be a triggering signal.Global increases in DAG concentration were detected in cells stimulated with carbachol (Figure S6).More importantly, by spatiotemporal averaging,we found that the local DAG concentration began to increase at the fusion sites prior to exocytosis,reached a plateau when the fusion pores fully opened, and stayed elevated for some time after exocytosis (Figures 4A and 4B). Incubating cells with a DAG analog,1-oleoyl-2-acetylsn-glycerol (OAG)，reduced the surface membrane tension as measured by optical tweezers (Figures 4C-4E) and increased the speed of linear CCP movement (Figure 4F). In contrast, inhibition of phospholipase C with U73122,which blocked DAG generation, reduced the speed of linear CCP movement (Figure 4G). The speed of linearly moving CCPs was consistently faster close to the fusion sites than elsewhere (Figure 4H).Hence,our data suggest that the exocytosis-associated local DAG gradient initiates and directs the hopping of CCPs toward nascent fusion sites by reducing the energy barrier against intra-membrane movement of CCPs.This also highlights a general, unappreciated role of membrane microdomains with transient curvatures: they may attract curved sub-cellular structures in addition to the recruitment of cytosolic proteins with curvatures as proposed recently (Galic et al., 2012). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Exocytosis-Coupled CME Contributes to the Fast RecyclingofBothPlasmaMembraneandVesicular Proteins ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In pancreatic $\\beta$ cells,membrane depolarization triggers CMEand clathrin-independent endocytosis;both processes are dynamin dependent (He et al., 20o8).Thus,we used pitstop (von Kleist et al., 2011) to block CME and dynasore (Macia et al., 2006) to block CME plus clathrin-independent endocytosis. Using repet",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Next we explored how CME contributed to the vesicular protein recycling process by studying endocytosis of surface VAMP2 protein tagged with fluorogen-activating protein (FAP) (Szent-Gyorgyi et al.,20o8). Because the fluorogen dye alone remains dark until binding to the FAP,its fluorescence intensity is directly correlated with the amount of VAMP2-FAP protein labeled.Usinga cell non-permeable αRED fluorogen,we found that surface VAMP2-FAP was internalized and transported to puncta and Golgi-like structures in the cytosol during $1 0 \\min$ of stimulation. In contrast,most recycling of VAMP2 protein after stimulation was blocked in cells pretreated with pitstop，while dynasore pretreatmentonlyslightly enhanced theaccumulation of VAMP2-FAP on the plasma membrane than pitstop pretreatment (Figures 5E and 5F).Therefore,although CMEonlyacts as acomplementary route of plasmamembrane retrieval,it playsa dominant role in the recycling of VAMP2 protein on the plasma membrane. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Overall,we have unraveled an exquisite,DAG-guided and microtubule-assisted mechanism for the spatiotemporal regulation of exo-endocytosis coupling in excitable cells.We envision that pre-formed CCPs are motile structures on the plasma membrane.Excitable cells make use of these pre-formed CCPs to accelerate exocytosis-coupled CME,both by directly targeting them close to fusion sites and by moving them from nearby regions.Upon stimulation,pre-formed CCPs laterally hop along dynamic cortical microtubules mediated by CLASP on the microtubules and LL5β/ELKS on the surface membrane,and they aredriven bya transient, local DAG gradient toward nascent fusion sites (Figure 6).This enables CCPs that initially assembled at spatially randomized sites to retrieve vesicle membrane proteinsat preferred nascent fusion sites ina timely fashion. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Now we have shown that exocytosis-coupled CME and clathrin-independent endocytosis each contributed to ${ \\sim } 5 0 \\%$ of the fast membrane retrieval after depolarization (Figure 5D). In contrast,almostall of the VAMP2 internalization afterstimulation was mediated by coupled CME (Figures 5E and 5F).These data (A)Local DAG indicated by PKD-C1ab-GFP transiently accumulated at vesicle fusion sites indicated by VAMP2-mOrange2.Time-lapse images show the average VAMP2-mOrange2 signal (of 193 fusion events，top) and the corresponding average DAG signal (bottom) at fusionsites.Scale bars, $5 0 0 ~ \\mathsf { n m }$ .Time courses of average fluorescence signals are shown (right). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(B) Surface plots of the mean DAG gradient (colormap coded) around fusion sites at times before (28 s),during (32 s),and after exocytosis (36 s) are shown. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(C)A representative example of a membrane tether formed as the bead was retracted away from the cell is shown. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/704d344e7195cd6741c5bdd45ab8c8c42274b75c5c9202c0a34bba3d23d1641a.jpg",
+        "img_caption": [
+            "Figure 4.Local DAG Gradient Generated upon Exocytosis Directs the Hopping of CCPs toward Nascent Fusion Sites ",
+            "(27trajectories)compared to thatatrandom,non-fusionsites (control,mean velocityoflinearCCPmovement, $5 4 3 \\pm 6 { \\mathsf { n m } } / { \\mathsf { s } }$ ，1,256 trajectories, $\\mathsf { p } < 0 . 0 5 )$ . See alsoFigureS6fortheglobalincrease incelularDAGconcentrationdetectedbyPKD-C1ab-GFPuponcarbacholstimulation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(D)Examples showtether force versus distance froma control INS-1 cell (left) and an OAG-treated cell ( $1 0 0 ~ \\mu \\mu$ right).Red, the force required for retracting the beadaway from the cell at a speed of $1 \\ \\mu \\mathrm { m / s } ;$ gray,the baseline force required for moving the bead toward the cell at $1 \\ \\mu \\mathrm { m } / \\mathsf { s }$ The difference betweenthese two forces isthe calibrated tether force. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(E) Surface membrane tension measured by optical tweezers in control $( { \\mathsf { n } } = 3 2 )$ and OAG-treated $1 0 0 ~ \\mu \\mathsf { M }$ $1 5 { - } 2 0 ~ \\mathrm { m i n }$ ${ \\mathfrak { n } } = 3 2$ $\\mathsf { p } < 0 . 0 0 1$ cellsis shown. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(F)The velocity of linear CCP movement in OAGtreated cells as compared to the control. INS-1 cellswere stimulated with high KCl and high glucose in absence or presence of OAG $( 0 ~ \\mu \\mathsf { M }$ as control,mean velocity of linear CCP movement, $5 9 8 ~ \\pm ~ 1 4 ~ \\mathsf { n m / s }$ ，2,704 trajectories from nine cells；10 $\\mu \\mathsf { M }$ ，2,724trajectories from nine cells; $1 0 0 \\mu \\mathsf { M } .$ ，4,451 trajectories from twelve cells, $\\mathsf { p } < 0 . 0 0 1$ ） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(G)The velocity of linear CCP movement in cells pre-incubated with the phospholipase C inhibitor U73122 $( 1 0 \\mu \\mathsf { M } )$ for15 min (3,447 trajectories from eight cells) as compared to control cells (mean velocity of linear CCP movement, $5 3 2 \\pm 4 0 ~ \\mathsf { n m / s }$ 1,142 trajectories from four cells, $\\textsf { p } < 0 . 0 1$ is shown. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(H)Linear movement of CCPs at fusion sites highlight a selective recycling of vesicular proteins via fast exocytosis-coupled CME. Conceptually,lateral hopping of CCPs represents an active paradigm in retrieving vesicular proteins on the plasma membrane,in contrast to the conventional view of CCPs as spatially stationary pits that passively collect cargos passing by.By moving toward nascent vesicle fusion sites enriched with cargo proteins,shallow CCPs may act as an active sortingmachinery to recruit vesicular proteins,especially for those non-diffusing ones such as phogrin (Tsuboi et al., 2004). The merge of shallow CCPs with cargos reduces abortive CCP events and facilitates CCP maturation and effective endocytosis, as others have suggested (Swan, 2013). Although pre-existing CCPs and de novo formation of CCPs at fusion sites share some of these advantages,only hopping CCPs can rapidly and continuously supply partially assembled endocytic machinery to the vesicle release sites.As compared to the control, exocytosis evoked by repetitive stimulations was gradually reduced in cells with compromised CME,and the reduction started to reach statistical significance at the fourth train of depolarization (Figures 5A-5C). Given that the reduced exocytosis is mostly likely to be due to the disruption of fusion sites by prior exocytosis,our data further support that hopping CCPs may be importantfor the local, fast,and efficient clearance of vesicular components left at the fusion sites during repetitive stimulations. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The microtubule-dependent linear movement of CCP is intriguing.It may be a passive process through which the sliding microtubules push CCPs attached to them toward fusion sites. The $\\alpha$ -tubulin acetyltransferase (αTAT1) in the CCPs,which acetylates and stabilizes the microtubules (Montagnac et al.,2013), could be the physical linker between microtubules and CCPs. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7adfb2ba04d26226f226aa573ffce27f02e40b53f4a28aeb4eb382c707a68216.jpg",
+        "img_caption": [
+            "Figure5.IhibitionofCMESignificantlyReducedRecyclingofPlasmaMembrane,VesicularProteins,andLocalClearanceofFusioites uponRepetitive Stimulations "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Five consecutive rounds of depolarization stimulations were delivered to control INS-1 cells $( n = 1 0$ ,black) and INS-1 cells pretreated with either pitstop $( 2 4 \\mu \\mu$ $1 0 \\min$ ${ \\mathsf n } = 8$ ，blue) ordynasore $( 8 0 ~ \\mu \\ M$ ，10min, ${ \\mathsf n } = 1 4$ ，green).The time interval between different rounds of depolarization was 5 s.   \n(AandB)eediaaiodisoaitidrti stimulation (B) are shown.   \n(C)vokdeoisldllsedioioiti stimulations are shown (statistical significances as indicated on the graph).   \n(D)Withinspdsdsr calculated as decreases in membrane capacitance from 6.2 to 10.2s in (A).   \n(E)Representative images show INS-1 cels transfected with VAMP2-FAP (red) treated with $7 0 \\mathsf { m } \\mathsf { M }$ KCl,15 mM glucose solution containing DMSO vehicle $( 0 . 8 \\% )$ pitstop $( 2 5 ~ \\mu \\mathsf { M } )$ ,ordynasore $( 8 0 ~ \\mu \\mathsf { M } )$ for $1 0 \\mathrm { m i n }$ .Scalebar, $5 \\mu \\mathrm { m }$   \n(Feci with $0 . 8 \\%$ DMSO $\\mathrm { [ n = 1 } 2 0 )$ ,pitstop $\\mathtt { \\tilde { m } } = 1 4 4$ $\\mathsf { p } < 0 . 0 0 1 ^ { \\cdot }$ ，ordynasore $\\mathtt { \\tilde { n } } = 1 3 2$ ${ \\mathsf { p } } < 0 . 0 0 1$ ).The difference in the VAMP2 recycling isalso significant between pitstoptreated cells and dynasore-treated cells $( \\mathsf { p } < 0 . 0 1 ) .$ 1 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Alternatively, cortical microtubule filaments could serve as cages thatconvert random CCP mobility into linearmotion,similar to the linear diffusion of CD36 receptors on the plasma membrane due to the cytoskeletal confinement (Jaqaman et al.， 2011). Furtherwork is needed to delineate these possibilities.Nevertheless,we did observe an increase in the numberof ELKS clusters onthe plasma membrane upon stimulation (Figures S5B-S5D), which was accomplished with dynamic reorganization of cortical microtubule networks (Figure 3F).Moreover, CLASP-dependent anchoring of cortical microtubules to the plasma membrane were required for vesicle fusions,linear CCP motion,and CCP recruitment at fusion sites (Figures 3H-3J).Thus,the threedimensional cortical microtubules anchored around ELKSdefined fusion sites may represent a spatiotemporal coupling framework，which increases the probability of cargo proteins mergingwith mobile CCPsand enablesefficient clearanceof plasmamembraneat fusionsites. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although this study was conducted in an endocrine cell, functions of the proteins involved (such as ELKS and CLASP)are conserved in synapses,suggesting that a conserved mechanism also may account for the fast CME critical for the sustained neurotransmission in synapses (Kawasaki etal.,2011).Moreover, the transient increase in DAG on the plasma membrane close to exocytic sites observed here also may facilitate generation ofclathrinindependent invaginationsobserved shortlyafterdepolarization in synapses (Kononenko et al., 2014; Watanabe et al., 2013). Themicrotubule-dependentmovementof CCPs facilitatesactive sortingof vesicle membrane proteins on the plasma membrane toward designated sites to be internalized,which also may participatein other extracellular signal-regulated fine-tuning of cel membrane components in othereukaryotic cells. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALPROCEDURES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Live-Cell Imaging and Fluorescence Microscopy ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "All experiments were performed at $3 7 ^ { \\circ } \\mathsf { C }$ .INS-1 cellswere planted on glass coverslips and incubated with bath solution containing the following (in mM): 136 NaCl,4.2 KCl, $2 . 4 \\mathsf { C a C l } _ { 2 }$ $1 . 2 \\mathsf { K H } _ { 2 } \\mathsf { P O } _ { 4 }$ $1 . 2 \\mathsf { M g } \\mathsf { S } \\mathsf { O } _ { 4 }$ ,4 glucose,10 HEPES, and1L-glutamine $\\left( \\mathsf { p H 7 . 4 } \\right)$ . Individual coverslips were then placed ina metal chamber mounted ona heated stage. Unless specified otherwise, INS-1 cells were stimulated with a solution containing the following (in mM):70 NaCl,70 KCI, $2 . 4 \\mathsf { C a C l } _ { 2 }$ $1 . 2 \\mathsf { K H } _ { 2 } \\mathsf { P O } _ { 4 }$ $1 . 2 \\mathsf { M g } \\mathsf { S } \\mathsf { O } _ { 4 }$ ,15 glucose,10 HEPES,and 1L-glutamine (pH7.4) to trigger exocytosis and endocytosis. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ba6bf907825ded7a7d7609ca55d325827048f5133f5c3d595a9976c0a9ed1e6.jpg",
+        "img_caption": [
+            "Figure 6. Model of How Fast CME Is Coupled with Regulated Exocytosis "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The local DAG gradient steers the hopping of a mobile CCP toward the fusion sitealong tracks provided by cortical microtubule filaments,which also help the delivery of secretory vesicles to fuse with the plasma membrane. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For Figures 1, 2D-2F,and S1-S3,a TIRF microscope was equipped with a Sensicam EM682KX camera (PCO AG) and a $1 0 0 \\times 1 . 4 9$ numerical aperture (NA) oil-immersion TIRF objective (Olympus).Most images were acquired at $2 H z$ ,except for Figures 2D,2E,and S3 $( 3 . 3 \\mathsf { H z } )$ .Each pixel from the camera was $6 7 \\times 6 7 \\ : \\mathrm { n m }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A different TIRF setup was used for Figures 2G,3,4,5,and S4-S6.We used an Olympus IX81 inverted microscope equipped with a $1 5 0 \\times$ 1.45 NA oil-immersion TIRF objective (Olympus). Fluorescence signals were acquired using an electron-multiplying charge-coupled device (EMCCD,Andor iXon3 888) at a sampling rate of $6 . 7 \\mathsf { H z }$ controlled by MetaMorph (Molecular Devices).Each pixel from the Andor camera was $8 7 \\times 8 7$ nm.A 473-nm laser was used to excite GFP/pHluorin，a 561-nm laser to excite mCherry/RFP/DsRed/ TagRFP-T,and a 405-nm laser to excite mTagBFP2.For two-color imaging, $1 0 0 \\mathrm { - } \\mathsf { n m }$ fluorescent beads (TetraSpecK Microspheres，Life Technologies) were deposited onto a coverslipand imaged as markers for lateralignment. To visualize surface VAMP2-FAP internalization (Figure 5E),the TIRF illumination was adjusted to wide field. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The fast incidence angle-scanning and azimuthal-averaging TiRF microscope was built on a commercial microscopy (iX81, Olympus) equipped with anapochromatic objective lens (APC $) 1 0 0 \\times / 1 . 6 5$ NA, Olympus) (Figures 2A2C).Two excitation lasers (Sapphire 488LP and Sapphire 561LP,Coherent) were colimated and combined by an AOTF and projected onto a two-axis MEMS (A1B2.2,Mirrorcle Tech),which enabled fast incidence angle scanning or the scanning of a circle at the back focal plane of the objective for azimuthal averagingat1kHz.The emitted fluorescence was captured by an EMCCD camera (iXon 897U,Andor).The whole system was controlled by Labview (Zong et al.，2014). Cells were cultured on customized N-LAF21 coverslip with an index of refraction of 1.78.To achieve 50-nm axial resolution,sequential dual-color TIRF imaging at ten different incidence angles (51.34,51.45, 51.59,51.795,52.085,52.54,53.29,54.67,57.72,and 67.38)were recorded at a frequency of 0.8 s/vol.Image reconstruction was conducted as reported previously (Boulanger et al., 2014). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "VisualizationofSurfaceVAMP2-FAPInternalization ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In experiments aimed to visualize VAMP2-FAP internalization,INS-1 cells were transfected with VAMP2-FAP vector and labeled with a bath solution containing 70 mMKCl, $1 5 \\mathsf { m M }$ glucose,and non-permeable αRED fluorogen ( $1 0 0 { \\mathsf { n M } }$ SpectraGenetics) for 10 min at $3 7 ^ { \\circ } \\mathsf { C }$ .These cells were transferred to an imaging chamberwithout washing and imaged under wide-field illumination. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SelectivelyHighlightingorLabelingSurfaceSyt Vll ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Two methods were used to label the surface pool of Syt Vll. In experiments using Syt Vll-PA-GFP/PA-mCherry (Figures 2E,2F,and S3C),cells were first illuminated with a 405-nm laser for15 s to photo-activate the Syt Vll population close to the cell surface and then imaged during stimulation.In experiments using CLIP-Syt Vll,cells were first incubated in a stimulation solution containing KCl, glucose,and non-permeable CLIP-Surface 488 (New England Biolabs) (Figures 2D,S3A,and 3B;20 mM)for 30 s,which was used to labelthe surface pool of Syt VIlthat was transiently inserted into the plasma membrane due to vesicle exocytosis.Cells were then washed three times in normal bath solution for2 min before imaging under stimulation with a solution containing KCl and glucose. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Electrophysiology ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Electrophysiological experiments were conducted by standard whole-cell recording using an EPC-10 patch-clamp amplifier (HEKA)as previously described (Liang et al.,2011).The capacitance was measured using the sine $+ { \\mathsf { D C } }$ mode of the lock-in extension in the Pulse software,with an 800- Hz,20-mV peak-to-peak sinusoid voltage applied onto a DC holding potential of $- 7 0 \\mathsf { m V } .$ In Figure 5,the intracellular pipette solution contained the following (in mM):125 Cs-glutamate,10 NaCl,0.05 EGTA, $1 \\mathsf { M g C l } _ { 2 }$ ,and 5 HEPES,with pH adjusted to 7.35 using CsOH.Five trains of stimulation were sequentially delivered to the control cells orcells pretreated with inhibitors.Each train of stimulation $( \\mathsf { C } \\mathsf { m } 5 { + } 8 )$ consisted of five 50-ms and eight 500-ms depolarizations (from $- 7 0$ to $0 \\mathsf { m V }$ to evoke release from the immediately releasable pool (IRP) and the readily releasable pool (RRP) of vesicles,respectively.The inter-pulse interval was $1 0 0 \\mathsf { m } \\mathsf { s }$ (Merrinsand Stuenkel, 2oo8)and the time interval between each train of stimulation was 5 s.The exocytosis was calculated as the increase in membrane capacitance at the end of eight 5oo-ms depolarization, and the endocytosiswas calculated as the decrease inmembrane capacitanceat 4safter depolarizationas compared to that at the end of depolarization.The decays in membrane capacitance were fitted with either single or double exponential functions to extract time constants of the fast and the slowendocytosis,as shown previously (He et al.,20o8).In Figure S5E, the pipette solution contained the following (in mM):125 Cs-glutamate,2 MgATP, $0 . 3 \\ N a _ { 2 }$ -GTP，1 $\\mathsf { M g C l } _ { 2 }$ ，and 0.1 EGTA (pH 7.2 adjusted with CsOH). Capacitance increases were evoked by eight trains of depolarization (from $- 7 0$ to $0 \\mathrm { m V }$ for $5 0 0 \\mathrm { m } \\mathrm { s } ;$ 1 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "OpticalTweezerExperiments ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The JPK NanoTracker optical tweezers system was used to measure the membrane tether force,which indicates the cell membrane tension.Data were collected and calibrated using the PFMSoftware Release 2.2 equipped with the JPK system.To forma tether,a $4 \\mathrm { - } \\mu \\mathrm { m }$ polystyrene beadapproached the cell at $1 \\mu \\mathrm { m } / \\mathsf { s }$ ,arrivedat the cell surface,stopped for10 s forattachment, andthenwasretractedat $1 ~ { \\mu \\mathrm { m / s } }$ = ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Imaging Data Analysis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Alignment of two-color images,semi-automated vesicle-fusion detection,and spatiotemporal averaging of local fluorescence signals from multiple events were done using a self-written program in MATLAB (MathWorks) (Yuan et al., 2015).A 5-pixel $( 3 3 5 - \\mathsf { n m } )$ diameter circle that encloses the centerofa fusion spot was selected to calculate the average fluorescence signal of VAMP2-pHluorin.LCa-DsRed or Dyn1-mKO signals were calculated from the same spot,accordingly,and fluorescence intensity changes above $10 \\%$ of the original base value were considered positive for recruitment of the marker.The distance betweena local maximum VAMP2-pHluorin signal and the neighboring LCa punctum was calculated for each fusion event that recruited endocytic markers.The departure time (t) was defined as the time difference between the opening of the fusion pore (as indicated byan increase in the fluorescence intensity of pHluorin) and the decrease of the LCa/Dyn1/Syt VIl puncta signal (Figure 1B).The histograms of t were fitted with a Gaussian function (fast population) plus one or two Rayleigh functions (slow populations) (Loerke et al., 2009). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Toobtain spatiotemporal averages,all exocytic events were aligned temporally according to the frame that exhibited maximum pHluorin fluorescence intensity and spatially according to the weighted centroid of the punctum. Correspondingly，local endocytic signals $( \\mathsf { L C a } / \\mathsf { D y n } 1 )$ and the DAG signal (PKD-C1ab-GFP) from the other channel were spatiotemporally aligned according to the same time and position.For comparison,the same number of signals from the other channel at random frames and sites that was not colocalized with exocytosis also were aligned and averaged. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To detect CCPs,we first de-noised images with a wavelet transform function (Olivo-Marin,2oo2),determined positions of puncta by finding local maxima with a mask of $5 \\times 5$ pixels,and then calculated weighted centroids of these puncta to yield sub-pixel accuracy.Single-particle trackingwas accomplished using spatially and temporally global particle assignment,as described previously (Jaqaman et al., 20o8).Tracks with lengths above ten frames were kept and classified as either linear or confined CCP diffusion based on a statistical testing algorithm,as previously described (Jaqaman etal.,2011).Once the trajectory of a CCP intersected within 5 pixels from any fusion site,itwas considered as possibly related to exocytosis,while others were regarded as unrelated to exocytosis.Based on these criteria, we compared average velocities of CCPs that were related and unrelated to exocytosis (Figure 4H). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Analysis of microtubule images was performed with Fiji (lmageJ).They were first de-convolved using the Richardson-Lucy algorithm (Vonesch and Unser, 2008),background subtracted (roling ball radius $= 2 0 \\AA$ ,and then filtered using the steerable plugin (Aguet et al., 2005). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Statistical Analysis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "All data were analyzed and final images were prepared using Igor Pro software (Wavemetrics).Average resultsare presented as the mean value $\\pm$ SEM from the number of experiments indicated.Statistical significance was evaluated using either Student's t test for single Gaussian-distributed datasets or the Mann-Whitney rank-sum test for non-single Gaussian-distributed datasets (\\*，\\*\\*,and \\*\\*\\* denote p values $< 0 . 0 5$ ,0.01,and 0.001,respectively). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SUPPLEMENTALINFORMATION ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Information includes Supplemental Experimental Procedures, six figures,and five movies and can be found with this article online at http://dx.doi.org/10.1016/j.devcel.2015.09.004. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AUTHORCONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Conceptualization,L.C.; Methodology,T.Y., L.L.,L.W.,and X.H.; Software, Y.Z.,J.B., C.G.,and J.S;Validation,L.X.,J.L.,W.D.,and L.Y.; Investigation, T.Y.,L.C., L.L., L.W., X.Z.,and S.Z.; Resources,J.L.; Visualization, W.Z.and T.Y.; Data Curation: T.Y.and Y.Z.; Writing- Original Draft, L.C.; Writing- Review & Editing,L.C.and Y.L.; Supervision,L.C.and Y.L.; Funding Acquisition, L.C., Y.L., and J.S. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We thank Professors M.McNiven,J.Lippincott-Schwartz,V.Verkhusha,D. Arnold,H.Gerdes,R.Vallee,F.Meunier,T.Balla,R.Tsien,A.Akhmanova, M.Davidson,T.Kirchhausen,and C.Merrifield for plasmids.We thank Professor H. Cheng for his discussions during the preparation of this paper,and Professors B.Hille,D.Koh,I.Bruce,and Z.Wu and Dr.S.Jung for their critical comments on the manuscript.This work was supported by grants from the National Science Foundation of China (81222020，31221002，31327901, 31570839，and 31301186)，the Beijing Municipal Science & Technology Commission (7121008), the Major State Basic Research Program of P.R. China (2013CB531200)，and the National Key Technology R&D Program (SQ2011SF11B01041).The PICT Cell and Tissue Imaging Core Facility of the Institut Curie is part of the France-Biolmaging national infrastructure supported by the French National Research Agency (ANR-10-INBS-04, PIA). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Received:March9,2015   \nRevised: August 5,2015   \nAccepted:September10,2015   \nPublished: October 1,2015 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Aguet,F.,Jacob,M.,and Unser,M.(2oo5).Three-dimensional feature detection using optimal steerable filters.20o5 International Conference on Image Processing (ICIP),Vols 1-5,2109-2112. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Aguet,F.,Antonescu, C.N.,Mettlen, M.,Schmid,S.L.,and Danuser, G.(2013). Advances in analysis of low signal-to-noise images link dynamin and AP2 to the functions of an endocytic checkpoint. Dev. Cell 26,279-291.   \nAllersma, M.W., Wang, L., Axelrod, D.,and Holz, R.W. (2004). Visualization of regulated exocytosis with a granule-membrane probe using total internal reflection microscopy. Mol. Biol. Cell 15, 4658-4668.   \nArtalejo, C.R., Elhamdani, A., and Palfrey, H.C. (2002). Sustained stimulation shifts the mechanism of endocytosis from dynamin-1-dependent rapid endocytosis to clathrin- and dynamin-2-mediated slow endocytosis in chromafin cells. Proc. Natl. Acad. Sci. USA 99,6358-6363.   \nBeffert, U., Dillon, G.M., Sullivan,J.M., Stuart, C.E., Gilbert, J.P., Kambouris, J.A.,and Ho, A. (2012). Microtubule plus-end tracking protein CLASP2 regulates neuronal polarity and synaptic function. J. Neurosci. 32,13906-13916. Boulanger,J., Gueudry, C., Münch,D., Cinquin, B., Paul-Gilloteaux,P., Bardin, S.,Guérin, C., Senger, F., Blanchoin, L., and Salamero,J. (2014). Fast highresolution 3D total internal reflection fluorescence microscopy by incidence angle scanning and azimuthal averaging. Proc. Natl. Acad. Sci. USA 111, 17164-17169.   \nCarrasco, S.,and Mérida, I. (2007). Diacylglycerol, when simplicity becomes complex. Trends Biochem. Sci. 32,27-36.   \nEhrlich,M., Bol,W., Van Oijen, A., Hariharan,R., Chandran, K., Nibert, M.L. and Kirchhausen, T. (20o4). Endocytosis by random initiation and stabilization of clathrin-coated pits. Cell 118, 591-605.   \nFerguson, S.M.,and De Camili, P. (2012). Dynamin,a membrane-remodelling GTPase. Nat. Rev. Mol. Cell Biol. 13,75-88.   \nGaidarov,I., Santini, F., Warren, R.A., and Keen, J.H. (1999). Spatial control of coated-pit dynamics in living cels. Nat. Cell Biol. 1, 1-7.   \nGalic,M., Jeong, S., Tsai, F.C., Joubert,L.M., Wu, Y.I., Hahn, K.M., Cui, Y.,and Meyer，T. (2012). External push and internal pull forces recruit curvaturesensing N-BAR domain proteins to the plasma membrane. Nat. Cel Biol. 14, 874-881.   \nGustavsson, N., Lao, Y. Maximov,A., Chuang, J.C., Kostromina, E.，Repa, J.J., Li,C., Radda, G.K., Sudhof, T.C.,and Han, W. (20o8). Impaired insulin secretion and glucose intolerance in synaptotagmin-7 null mutant mice. Proc. Natl. Acad. Sci. USA 105, 3992-3997.   \nHaucke,V.,and De Camill, P. (1999). AP-2 recruitment to synaptotagmin stimulated by tyrosine-based endocytic motifs. Science 285,1268-1271.   \nHaucke, V., Neher, E.,and Sigrist, S.J. (2011). Protein scaffolds in the coupling of synaptic exocytosis and endocytosis. Nat. Rev. Neurosci. 12, 127-138. He,Z.,Fan,J.,Kang,L.,Lu,J., Xue,Y.,Xu,P., Xu,T.,and Chen,L. (2008) $\\mathsf { C a 2 + }$ triggers a novel clathrin-independent but actin-dependent fast endocytosis in pancreatic beta cells. Traffic 9, 910-923.   \nHosoi, N., Holt, M., and Sakaba, T. (20o9). Calcium dependence of exo- and endocytotic coupling at a glutamatergic synapse. Neuron 63,216-229. Hua,Y., Sinha, R., Thiel, C.S., Schmidt, R., Huve, J., Martens, H., Hell S.W. Egner, A.,and Klingauf, J. (2011). A readily retrievable pool of synaptic vesicles. Nat. Neurosci. 14, 833-839.   \nJaqaman, K.,Loerke,D., Metlen, M., Kuwata, H.,Grinstein, S., Schmid, S.L, and Danuser, G. (2008). Robust single-particle tracking in live-cel time-lapse sequences. Nat. Methods 5, 695-702.   \nJaqaman, K., Kuwata, H., Touret, N., Collins, R., Trimble, W.S., Danuser, G., and Grinstein, S. (2011). Cytoskeletal control of CD36 diffusion promotes its receptor and signaling function. Cell 146, 593-606.   \nJockusch，W.J.，Praefcke，G.J.，McMahon，H.T.，and Lagnado，L. (2005). Clathrin-dependent and clathrin-independent retrieval of synaptic vesicles in retinal bipolar cells. Neuron 46, 869-878.   \nKadamur,G.,and Ross, E.M.(2013). Mammalian phospholipase C.Annu. Rev. Physiol. 75,127-154.   \nKawasaki, F., lyer, J.， Posey, L.L.， Sun, C.E.， Mammen， S.E., Yan,H.，and Ordway，R.W. (2011). The DISABLED protein functions in CLATHRIN-mediated synaptic vesicle endocytosis and exoendocytic coupling at the active zone. Proc. Natl. Acad. Sci. USA 108, E222-E229. Keyel, P.A., Watkins, S.C.,and Traub, L.M. (2004). Endocytic adaptor molecules reveal an endosomal population of clathrin by total internal reflection fluorescence microscopy.J. Biol. Chem.279,13190-13204.   \nKim,Y.J., Guzman-Hernandez, M.L., and Balla, T. (2011). A highly dynamic ER-derived phosphatidylinositol-synthesizing organelle supplies phosphoinositides to cellular membranes. Dev. Cell 21, 813-824.   \nKononenko，N.L.， Puchkov，D., Classen，G.A.，Walter，A.M.， Pechstein,A., Sawade， L.， Kaempf, N., Trimbuch，T., Lorenz，D.， Rosenmund， C.,et al. (2014). Clathrin/AP-2 mediate synaptic vesicle reformation from endosomelike vacuoles but are not essential for membrane retrieval at central synapses. Neuron 82, 981-988.   \nLansbergen，G.，Grigoriev,I.，Mimori-Kiyosue，Y.，Ohtsuka，T.，Higa，S., Kitajima, I.，Demmers,J.，Galjart，N.，Houtsmuller， A.B.，Grosveld, F.，and Akhmanova, A. (2006). CLASPs attach microtubule plus ends to the cell cortex through a complex with LL5beta. Dev. Cell11, 21-32.   \nLiang, K., Du, W., Zhu, W., Liu, S., Cui, Y., Sun, H., Luo, B., Xue, Y., Yang, L., Chen,L.,and Li, F. (2011). Contribution of different mechanisms to pancreatic beta-cell hyper-secretion in non-obese diabetic (NOD) mice during pre-diabetes.J. Biol. Chem.286,39537-39545.   \nLoerke, D.,Metten, M., Yarar, D., Jaqaman, K.,Jaqaman, H., Danuser, G., and Schmid, S.L. (20o9). Cargo and dynamin regulate clathrin-coated pit maturation. PLoS Biol. 7, e57.   \nMacia,E., Ehrlich,M.,Massol, R.,Boucrot,E.,Brunner,C.,and Kirchhausen, T. (2006). Dynasore，a cel-permeable inhibitor of dynamin. Dev. Cell 10, 839-850.   \nMarie, B., Sweeney， S.T.， Poskanzer, K.E., Roos, J., Kelly, R.B., and Davis, G.W. (2004). Dap160/intersectin scaffolds the periactive zone to achieve high-fidelity endocytosis and normal synaptic growth. Neuron 43,207-219. McMahon, H.T.,and Boucrot, E. (2011). Molecular mechanism and physiological functions of clathrin-mediated endocytosis. Nat. Rev. Mol. Cell Biol. 12, 517-533.   \nMerrifield, C.J., Feldman, M.E., Wan,L.,and Almers, W. (2002). Imaging actin and dynamin recruitment during invagination of single clathrin-coated pits. Nat. Cell Biol. 4, 691-698.   \nMerrifield, C.J., Perrais, D.,and Zenisek, D. (2005). Coupling between clathrincoated-pit invagination， cortactin recruitment，and membrane scission observed in live cells. Cell 121, 593-606.   \nMerrins,M.J.，and Stuenkel, E.L. (2008). Kinetics of Rab27a-dependent actions on vesicle docking and priming in pancreatic beta-cells. J. Physiol. 586, 5367-5381.   \nMontagnac, G., Meas-Yedid, V., Irondele,M., Castro-Castro, A., Franco, M., Shida,T., Nachury，M.V.,Benmerah,A., Olivo-Marin, J.C.,and Chavrier,P. (2013).αTAT1 catalyses microtubule acetylation at clathrin-coated pits. Nature 502, 567-570.   \nNeher, E. (2010). What is Rate-Limiting during Sustained Synaptic Activity: Vesicle Supply or the Availability of Release Sites. Front. Synaptic Neurosci. 2, 144.   \nOhara-lmaizumi, M., Ohtsuka, T., Matsushima, S., Akimoto, Y., Nishiwaki, C., Nakamichi, Y.， Kikuta， T.， Nagai, S.， Kawakami， H.，Watanabe，T.，and Nagamatsu， S. (2005). ELKS,a protein structurally related to the active zone-associated protein CAST,is expressed in pancreatic beta cells and functions in insulin exocytosis: interaction of ELKS with exocytotic machinery analyzed by total internal reflection fluorescence microscopy. Mol. Biol. Cell 16,3289-3300. Olivo-Marin, J.C. (2002). Extraction of spots in biological images using multiscale products. Pattern Recognit. 35, 1989-1996.   \nPelassa, I.， Zhao，C.，Pasche，M.，Odermatt， B.，and Lagnado,L. (2014). Synaptic vesicles are “primed\" for fast clathrin-mediated endocytosis at the ribbon synapse. Front. Mol. Neurosci. 7, 91.   \nRoos,J.,and Kelly, R.B. (1999). The endocytic machinery in nerve terminals surrounds sites of exocytosis. Curr. Biol. 9, 1411-1414.   \nShen,H.， Pirruccello，M.，and De Camill，, P. (2012). SnapShot: membrane curvature sensors and generators. Cell 150,1300.   \nSwan, L.E. (2013). Initiation of clathrin-mediated endocytosis: all you need is two? BioEssays 35, 425-429.   \nSzent-Gyorgyi, C., Schmidt, B.F., Creeger, Y., Fisher, G.W., Zakel, K.L.,Adler, S.，Fitzpatrick, J.A.，Woolford, C.A.， Yan，Q.， Vasilev，K.V.，et al. (2008). Fluorogen-activating single-chain antibodies for imaging cell surface proteins. Nat. Biotechnol. 26, 235-240.   \nTsuboi, T., McMahon, H.T.,and Rutter, G.A. (2004). Mechanisms of dense core vesicle recapture following “kiss and run\"(\"cavicapture\" exocytosis in insulin-secreting cels. J. Biol. Chem. 279, 47115-47124.   \nVon Kleist，L.，Stahlschmidt，W.，Bulut，H.，Gromova，K.，Puchkov，D., Robertson，M.J.，MacGregor，K.A.，Tomilin，N.， Pechstein，A.，Chau，N.. et al. (2011). Role of the clathrin terminal domain in regulating coated pit dynamics revealed by small molecule inhibition. Cell 146,471-484.   \nVonesch,C.,and Unser,M. (20o8).A fast thresholded landweber algorithm for wavelet-regularized multidimensional deconvolution. IEEE Trans. Image Process. 17, 539-549.   \nWahl, S., Katiyar, R.,and Schmitz, F. (2013). A local, periactive zone endocytic machinery at photoreceptor synapses in close vicinity to synaptic ribbons. J.Neurosci.33,10278-10300.   \nWatanabe, S., Rost, B.R., Camacho-Pérez, M.,Davis,M.W., Sohl-Kielczynski, B.，Rosenmund, C.，and Jorgensen，E.M. (2013). Ultrafast endocytosis at mouse hippocampal synapses. Nature 504, 242-247.   \nWestrum,L.E., and Gray, E.G.(1986). New observations on the substructure of the active zone of brain synapses and motor endplates. Proc. R. Soc. Lond. B Biol. Sci. 229, 29-38.   \nWillig, K.I., Rizzoli, S.O.,Westphal, V., Jahn,R., and Hell, S.W. (2006). STED microscopy reveals that synaptotagmin remains clustered after synaptic vesicle exocytosis. Nature 440, 935-939.   \nWu, X.S., McNeil, B.D., Xu,J., Fan, J., Xue,L., Melicoff, E., Adachi, R., Bai,L., and Wu, L.G. (2009). ${ \\mathsf { C a } } ( 2 + )$ and calmodulin initiate all forms of endocytosis during depolarization at a nerve terminal. Nat. Neurosci. 12, 1003-1010. Yuan,T.,Lu, J.， Zhang， J., Zhang,Y.，and Chen,L. (2015). Spatiotemporal detection and analysis of exocytosis reveal fusion “hotspots” organized by the cytoskeleton in endocrine cells.Biophys.J.108,251-260.   \nZhao，Y.，Gaidarov, I.，and Keen，J.H. (2007). Phosphoinositide 3-kinase C2alpha links clathrin to microtubule-dependent movement. J. Biol. Chem. 282,1249-1256.   \nZhu, Y., Xu, J.,and Heinemann, S.F. (2009). Two pathways of synaptic vesicle retrieval revealed by single-vesicle imaging. Neuron 61, 397-411.   \nZong,W., Huang, X., Zhang, C., Yuan, T., Zhu, L.L., Fan, M., and Chen, L. (2014). Shadowless-illuminated variable-angle TIRF (siva-TIRF) microscopy for the observation of spatial-temporal dynamics in live cells. Biomed. Opt. Express 5,1530-1540. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,358 @@
+[
+    {
+        "type": "text",
+        "text": "饲粮纤维对猪肠道屏障功能的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冯江鑫 陈代文 余冰何军郑萍\\*（四川农业大学动物营养研究所，动物抗病营养教育部重点实验室，成都611130）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：肠道屏障主要包括肠道内正常菌群、黏液层、肠上皮细胞以及免疫屏障，肠道屏障功能与饲粮有着密不可分的关系。饲粮纤维是指在哺乳动物肠道内不能被其内源消化酶消化吸收的碳水化合物，通常被称为非淀粉多糖（NSP)，主要包括纤维素、半纤维素、木质素和β-葡聚糖等，具有增强肠道黏膜屏障、改善微生物群落结构以及改善益生菌和致病菌的比例等作用。本文综述了饲粮纤维对猪肠道屏障功能的影响及作用机理，以期促进纤维在猪生产中被合理、有效地利用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：纤维；猪；肠道屏障；肠道微生物中图分类号：S828",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肠道是机体重要的消化和免疫器官，不仅决定了营养物质的消化和吸收状况，还对机体是否能有效地抵抗致病微生物的侵袭，保障机体免疫水平、决定机体的健康状况起到至关重要的作用。纤维具有消化率低、能值低两大特点，在猪生产中，传统观点认为纤维会使饲粮的消化率降低，稀释饲粮中营养物质的水平并降低动物的生长性能。因此有大量学者研究如何使用外源酶制剂消化动物内源酶不能消化的纤维素或半纤维素，以期降低纤维对猪生长的影响。然而，近期有越来越多的研究发现，纤维及其代谢产物对猪肠道健康有不可忽视的积极作用，尤其是在调节肠道微生物和增强肠道免疫等方面。本文就纤维对猪肠道屏障的调节作用及相关机理做出综述，以期帮助人们对纤维的深入认识和科学利用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 纤维的定义及理化性质",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1纤维的定义",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "纤维广泛存在于各种植物饲料中，具有复杂的组成成分，因此至今仍没有一个确切且公认的定义。最早为纤维定义的是Hipsley，该学者于1953年定义纤维为\"植物细胞壁中不可消化的部分\"I]。2001年美国谷物化学学会（AACC）定义纤维为在小肠中不被消化酶消化利用，但能被大肠中某些微生物发酵的可食碳水化合物及类似物的总称。虽然历史上不同学者对纤维的定义说法不一，但是对其作用却有着共同的认可，即在小肠中不能被消化吸收但是可以在大肠中被微生物发酵利用的植物性物质。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 纤维的理化性质 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 黏性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "纤维的黏性对纤维功能的发挥有重要影响。纤维的黏性主要取决于纤维中多糖分子与共价键或非共价键的相互缠绕结合，其结合形成的网状结构使纤维溶解后的水溶液呈现出一定的黏性。纤维黏性的高低主要与多糖分子量和侧链有关，一般而言，纤维素、木质素等不溶性纤维的黏度较低，阿拉伯木聚糖、果胶等可溶性纤维的黏度较高[2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 水合作用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "纤维的水合作用主要包括水溶性和持水性。纤维的水溶性是纤维分类的重要依据之一，指的是纤维与水结合形成胶状悬浊液的能力[3]。根据水溶性的不同，纤维可分为可溶性纤维和不溶性纤维，木质素和纤维素等属于不溶性纤维，瓜尔胶和果胶则属于水溶性纤维。持水性是指每单位质量的纤维所能吸收的水分的质量，是纤维与水结合能力大小的体现[4。可溶性纤维与不可溶性纤维都具有较强的持水性，但是通常情况下不溶性纤维的持水性小于可溶性纤维。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 可发酵性 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "纤维的可发酵性与其来源和木质化程度有关，不同来源的纤维可发酵性不同，木质化程度高的纤维可发酵性低。如果胶和木质素，果胶的可发酵性很强，但木质素却几乎不发酵。一般来讲，纤维的木质化程度越高，可发酵性越低。饲粮纤维不能被单胃动物内源酶所消化，只能在大肠中被微生物发酵生成短链脂肪酸（SCFAs）后被利用。纤维发酵产生的SCFAs的总量和种类随纤维来源的变化而变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 纤维对肠道屏障功能的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肠道不仅是机体内消化吸收营养物质的重要场所，还是机体抵御异物的第1道防线。肠道将肠腔环境与机体内组织环境分隔开，保护机体免受食物中抗原、病原微生物及其产生的有害代谢产物损害，是保持机体内环境稳定的先天性屏障。肠道屏障主要由肠道内正常菌群、黏液层、肠道上皮和肠道免疫系统组成（图1）[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c013acf3f6c8820b10d0de5b99d11419d6ae1383bf75f4b5c11b8c5a1542ec68.jpg",
+        "img_caption": [
+            "SIgA：分泌型免疫球蛋白A secretory immunoglobulinA。",
+            "图1肠道屏障功能",
+            "Fig.1 Intestinal barrier function[5] "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1纤维对肠道内正常菌群的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "机体的肠道是一个非常复杂的相对稳定的生态系统，肠道内寄居着大量的细菌，小肠内细菌数量较少，其中十二指肠中细菌数量为 $1 0 ^ { 3 } { \\sim } 1 0 ^ { 4 }$ 个 $\\cdot / \\mathrm { m L }$ ，回肠末端细菌数量约为$1 0 ^ { 8 }$ 个/mL，大肠中细菌数量较多，约为 $1 0 ^ { 1 1 }$ 个 $/ \\mathrm { m L } ^ { [ 6 ] }$ ，种类在 500 种以上[7]。肠道微生物是肠道防御屏障的重要组成部分，对机体健康有重要作用。正常情况下，各种属微生物在肠道内相互制约，互相依赖，肠道微生态系统维持相对平衡，机体处于健康水平。饲粮纤维不仅会影响肠道内各种属微生物的数量、多样性，还会对微生物的活性产生影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有研究表明，在断奶仔猪饲粮中添加 $4 \\%$ 的麦麸可降低回肠食糜中大肠杆菌的数量，并提高乳酸菌的数量[8]。Owusu-Asiedu 等[9]研究表明，与对照组相比，添加 $7 \\%$ 可溶性的瓜尔胶纤维饲粮组显著提高了生长猪回肠中总需氧菌、总厌氧菌、乳酸菌、梭菌属和肠杆菌的数量，添加 $7 \\%$ 不溶性纤维的纤维素饲粮组极显著地提高了回肠中双歧杆菌和肠杆菌的数量，总需氧菌和总厌氧菌的数量也有一定的增加。Che 等[10]在育肥猪上的试验表明，饲喂豌豆纤维饲粮可显著提高猪结肠中乳酸菌的数量，对双歧杆菌和大肠杆菌的数量没有显著影响。Chen 等[]在断奶仔猪上的试验表明，与对照组相比，豌豆纤维组可显著提高结肠中乳酸菌的数量，小麦麸纤维组可显著提高结肠中双歧杆菌的数量;与大豆纤维组相比，豌豆纤维组和小麦麸纤维组均显著降低结肠中大肠杆菌的数量。以上结果表明，不同类型的纤维均对肠道菌群的数量的调节作用不同，可溶性纤维较不溶性纤维而言更有利于肠道菌群数量的增加。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不溶性纤维可被部分肠道微生物利用，进而影响微生物菌群的丰度及活性。王嘉为等[12]在育肥猪饲粮中添加 $10 \\%$ 不溶性纤维—苜蓿草粉，试验结果表明，对照组结肠中第1优势菌门（厚壁菌门）相对丰度为 $7 9 . 8 4 \\%$ ， $10 \\%$ 苜蓿草粉组中其相对丰度提高到$8 1 . 2 8 \\%$ ；对照组结肠中第2优势菌门（拟杆菌门）相对丰度为 $8 . 3 3 \\%$ ， $10 \\%$ 苜蓿草粉组中其相对丰度为 $7 . 5 6 \\%$ 。Haenen 等[13]研究表明，与对照组相比，饲喂添加抗性淀粉的猪结肠中普拉梭菌（Faecalibacterium prausnitzii）和埃氏巨型球菌(Megasphaera elsdenii)的相对丰度增加，钩端螺旋体属等致病性微生物数量与对照组相比有所降低。通过测量ATP 浓度，发现饲喂高纤维饲粮的猪后肠微生物的活力提高了5\\~6倍。研究表明，猪的肠道微生物区系中存在高活性的纤维分解细菌和半纤维分解细菌，如白色瘤胃球菌（Ruminococcusalbus）、溶纤维丁酸弧菌（Butyrivibrio spp.）、产琥珀酸丝状杆菌（Fibrobacter succinogenes）等[14]。这些微生物可通过自身发酵纤维获取自身生长的能源，发酵后生成的SCFAs可被肠上皮细胞吸收利用，尤其是丁酸。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2纤维对肠道黏液层的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肠道黏液层分外黏液层和内黏液层，外黏液层靠近肠腔，较稀薄，是寄居在机体肠道内的共生菌的栖息场所；内黏液层紧贴肠道上皮，浓度高，与肠上皮细胞紧密结合在一起，形成一层屏障将细菌与肠道上皮分隔开，保护肠道免受细菌和外部机械刺激的损害。因此，黏液层受损将直接威胁肠道的健康。黏液主要由水、无机盐和杯状细胞与肠上皮细胞分泌的黏蛋白组成，此外，黏液中还存在肠三叶肽、分泌型免疫球蛋白A（SIgA）和一些细胞因子等[7]。黏液层不是稳定不变的，而是受杯状细胞合成与分泌黏蛋白的调控，处于动态平衡状态中[15]。肠三叶因子是由杯状细胞分泌的小分子多肽，它能与黏液中的糖蛋白结合形成稳定的凝胶复合物，增强黏液层的防御屏障功能，减少有害物质或机械力等因素对肠道黏膜的损伤。纤维可通过增加杯状细胞的数量促进黏蛋白分泌，增加肠三叶因子水平，进而增强肠道屏障的功能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Zhou 等[16研究表明，与对照组相比，高抗性淀粉可显著提高结肠黏蛋白水平。Vila[17研究表明，与对照组相比，玉米纤维和小麦麸纤维均可显著提高猪回肠和结肠中黏蛋白2水平。Che等[10]研究表明，豌豆纤维饲粮组猪结肠中黏蛋白水平比对照组高 $1 6 \\%$ 。Chen 等[18]在断奶仔猪上的试验表明，与对照组相比，小麦麸纤维饲粮可显著增加回肠杯状细胞数量和结肠三叶因子水平，豌豆纤维和大豆纤维组杯状细胞数量与对照组相比虽没有显著差异，但均有不同程度的增加。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3纤维对肠道上皮的影响 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "肠道上皮细胞可通过选择通透性选择性地吸收肠腔内的物质，是肠道黏膜屏障的重要内容。在允许营养成分被吸收的同时可阻止病原微生物和其他肠腔内的有毒害的物质进入体内[19]。细胞间通过紧密连接、黏附连接、间隙连接、桥粒等相连，其中由多种蛋白质相互作用而成的紧密连接在肠道营养物质的吸收和抵御病原微生物过程中起重要作用，如调节上皮细胞的选择通透性、调控细胞增殖[20]。小肠绒毛高度与隐窝深度是反映肠道通透性的重要指标，绒隐比（绒毛高度/隐窝深度）增加表明肠道黏膜功能完善，吸收能力增强[20]。张叶秋等[21研究表明，饲粮中添加 $7 . 5 \\%$ 的米糠可显著提高育肥猪空肠绒隐比。吴维达等[22]研究表明，菊粉纤维和微晶纤维均可显著提高猪回肠绒毛高度，微晶纤维可显著降低十二指肠的隐窝深度，菊粉纤维可显著提高回肠的绒隐比，对十二指肠的绒隐比有增加的趋势；与对照组相比，菊粉组和微晶纤维组均显著增加结肠上皮杯状细胞的数量。研究表明，小麦纤维饲粮和豌豆纤维饲粮都可显著增加回肠和结肠上皮细胞紧密连接蛋白正闭锁小带蛋白1(zonula occludens 1,ZO-1)和 Toll 样受体 2 的 mRNA 表达量[18]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4纤维对肠道免疫功能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "肠道免疫系统由弥散分布在肠道黏膜上皮和固有层的免疫细胞（如巨噬细胞、树突状细胞）、免疫分子（如 SIgA和各种细胞因子）及派伊尔结等肠相关性淋巴组织组成[23]，在防御和抵制细菌、病毒和毒素的入侵中发挥重要作用。肠道免疫系统收到刺激后，可分泌免疫球蛋白、干扰素和白细胞介素等蛋白和因子，通过免疫调节作用维持肠道健康。其中由B细胞转化为浆细胞产生，并穿过肠上皮细胞分泌至肠腔的 SIgA是肠道免疫的重要内容[24]，SIgA不仅能抵抗病毒、中和毒素及其他生物活性抗原，更重要的是在阻止细菌对上皮细胞表面的黏附中发挥重大作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究表明，与对照组相比，长期饲喂豌豆纤维饲粮可显著提高猪结肠黏膜中SIgA 的含量[10]，进而增强黏膜免疫功能。在断奶仔猪上的试验表明，豌豆纤维组猪结肠黏膜中主要组织相容性复合体ⅡI类和转化生长因子 $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ 含量显著高于对照组[]。纤维调节肠道免疫功能的重要途径是通过其在后肠的发酵产物—SCFAs发挥作用。SCFAs可促进促炎细胞因子白细胞介素-6（IL-6）、肿瘤坏死因子-α(TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ）以及抗炎细胞因子白细胞介素-10（IL-10）、趋化因子单核细胞趋化蛋白-1(MCP-1)的分泌[25]，以增强肠道免疫屏障功能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 纤维对肠道屏障的调节机理",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "纤维通过微生物调节肠道屏障功能是其发挥作用的重要途径。肠道内微生物、黏液层、肠道上皮与肠道黏膜免疫四者之间相互影响，密切相关。首先，肠道微生物代谢可以产生 SCFAs，也可以在特定的情况下降解黏液层；其次，黏液层的变化直接关系到肠道上皮的完整性以及通透性；再次，SCFAs 可以直接对肠道免疫屏障和肠道上皮细胞产生影响。因此，任何一个屏障功能的受损都会影响其他屏障功能的正常发挥，其相互作用关系如图2。饲粮中纤维从2个方面对肠道微生物产生影响：第一是纤维本身的持水性，通过增加食糜中的含水量及减少胄肠道排空时间对微生物产生影响；第二是它作为某些微生物的直接或间接能量来源,增加微生物的数量、丰度以及增强微生物活性，从而提高肠道微生物屏障功能。此外，纤维可在肠道中被微生物发酵产生 SCFAs，进而对肠道内微生物生长和肠道的免疫功能产生重要的促进作用。在此过程中，不仅微生物可获得生存所需的能量，产生的 SCFAs还可以降低后肠内环境的pH，促进肠上皮细胞的增殖[26]。肠道内环境pH的降低为双歧杆菌属、乳酸杆菌属等有益菌提供了适宜的生长环境[27]，促进肠道内有益菌的生长繁殖，使有益菌成为优势菌群占据肠道内大量的生存空间，从而抑制有害菌的扩增，防止病原微生物入侵定植。一般而言，可溶性纤维能够被充分地发酵，不可溶性纤维可发酵性较低且主要在肠道后端被微生物发酵，但能增加食糜的持水力，减少肠道胃排空的时间[28]，从而降低有害菌在肠道内产生毒害作用的可能性。大量的研究表明，饲粮纤维可增加肠道内细菌的相对丰度，降低潜在致病菌的相对丰度，有利于有益菌成为肠道内的优势菌群，在维持肠道健康过程中发挥重要作用。不同的纤维有着不同的离散结构，如单糖类型、糖之间的连接的类型、构象和构型等，这种不同决定了纤维对微生物的选择性刺激作用[29]。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f062607f68a3d2816550344832dca3575f54a1f741806d8ababc29c14949343d.jpg",
+        "img_caption": [
+            "图2饲粮纤维对肠道屏障的调节作用"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，纤维还可通过微生物对黏液层产生影响。Desai等[30]研究表明，纤维与结肠黏液屏障之间可相互作用，在缺乏纤维的情况下，肠道内微生物能以结肠黏液中的黏蛋白为营养源维持自身生长，而这必然导致黏液屏障遭到腐蚀性的破坏（图3)，这些腐蚀黏液的微生物能增大肠道上皮细胞的通透性和由柠檬酸杆菌导致的致命性结肠炎。这说明纤维对黏液层和肠道上皮产生影响的过程中，微生物也起到关键作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b05dd3eb29de9a3c6ac283dc745280333f94baa10ae719f34480c171b83c500.jpg",
+        "img_caption": [
+            "Fig.2Regulation effects of dietary fiber on intestinal barrier ",
+            "图3纤维剥夺肠道微生物介导结肠黏液屏障降解并提高病原菌易感性的模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Model ofhow a fiber-deprived gut microbiota mediates degradation of the colonic mucus barrier and heighted pathogen susceptibility[30] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "纤维本身并不能对肠道免疫发挥调节作用，但是其代谢产物 SCFAs可直接对肠道免疫与肠上皮细胞的增殖产生影响。结肠上皮细胞所需能量的 $6 0 \\% \\sim 7 0 \\%$ 都由SCFAs 提供，其中丁酸的作用最为显著[31]。研究表明，长期饲喂豌豆纤维可显著提高断奶仔猪盲肠食糜中乙酸、丙酸、丁酸以及总 SCFAs 的含量，显著提高育肥猪盲肠食糜中乙酸和总 SCFAs 含量[32]。Carneiro 等[33]研究表明，小麦纤维可显著降低盲肠和结肠中的 $\\mathfrak { p H }$ ，同时显著提高盲肠中乙酸和丁酸的含量，结肠中丁酸含量也显著提高。SCFAs 主要通过抑制组蛋白去乙酰化酶（histone deacetylase，HDAC）的活性和结合并激发G蛋白偶联受体参与免疫调节。此过程主要作用载体为丁酸[34]。一般情况下，组蛋白的乙酰化有利于DNA 与组蛋白八聚体的解离，核小体结构松弛，从而使各种转录因子和协同转录因子能与DNA结合位点特异性结合，激活基因的转录，而组蛋白去乙酰化的作用却与之相反。在细胞核内，组蛋白乙酰化与组蛋白去乙酰化过程处于动态平衡，并由组蛋白乙酰化转移酶（histone acetyltransferase，HAT）和HDAC 共同调控。HAT的作用是将乙酰辅酶A的乙酰基转移到组蛋白氨基末端特定的赖氨酸残基上，而HDAC 则使组蛋白去乙酰化，与带负电荷的DNA紧密结合，使染色质致密卷曲，进而抑制基因的转录。研究表明，丁酸钠作为一种 HDAC 抑制剂(HDACi)，在基因转录过程中发挥重要作用[35]。丁酸钠可通过抑制 HDAC 活性进而激活肠上皮细胞中的激活蛋白1（AP-1）信号通路，从而调节白细胞介素-2（IL-2）、IL-6、白细胞介素-8（IL-8）和 TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 等炎症因子的释放，达到调节肠道免疫功能的积极作用[36]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "G 蛋白偶联受体（GPRs）在炎症反映中发挥重要作用，已有研究表明，丁酸钠可通过受体GPR43与GPR41对单核细胞功能进行调节，从而发挥抗炎作用[37]。GPRs 的激活可引起多种转录因子的活化，如环磷腺苷效应元件结合蛋白（cAMP responseelement bindingprotein，CREB）、c-Jun、核转录因子κB（nuclear factor-kB，NF-kB）和信号传导子及转录激活子3(signal transducer and activator of transcrip-tion3,STAT3)，这些特异性的受体影响着巨噬细胞在炎症部位的迁移和聚集，从而加重炎症反应和帮助巨噬细胞对细菌等外源性物质的识别和吞噬。研究表明，丁酸钠可通过对GPRs发挥作用进而影响其下游通路丝裂原激活蛋白激酶的激酶(mitogen-activated protein kinase kinase，MEK)-细胞外信号调节激酶(extracellularsignal-regulated kinase,ERK)，从而促进抗菌肽LL-37的分泌，达到抑制炎症反应的目的[23],此外，丁酸钠可通过其受体GPR43 有效调节T淋巴细胞的功能，显著降低炎症因子IL-2 水平，显著提高抗炎因子白细胞介素-4（IL-4）水平[38]，最终达到抑制炎症反应，保障肠道健康的目的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同的纤维对猪肠道屏障有着不同的调节作用。越来越多的试验证明，饲粮纤维在增强肠道屏障功能、促进肠道健康方面有重要意义。此外，肠道各屏障之间相互连接紧密，相互影响。近些年，纤维在猪上的研究逐渐得到重视，但是仍存在以下问题：1)纤维对猪肠道屏障调节的机制尤其是对免疫系统的调节等方面仍有很大的不足；2）不同种类的纤维的使用仍缺乏较为完善且可量化的统一标准。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "总之，继续深入、全面、系统地研究纤维对猪肠道健康的改善及调节机制，对实现抗生素的替代、促进生猪绿色生产、保障食品安全以及保护环境有着重大意义。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5参考文献: [1]HIPSLEY E H.Dietary “fiber”and pregnancy toxaemia[J].British Medical Journal,1953,2(4833):420-422. [2]DIKEMAN C L,FAHEY G C,Jr.Viscosity as related to dietary fiber:a review[J].Critical Reviews in Food Science and Nutrition,2006,46(8):649-663. [3]BALANDRAN-QUINTANA R R,BARBOSA-CANOVAS G V,ZAZUETA-MORALES J J,et al.Functional and nutritional properties of extruded whole pinto bean meal (Phaseolus Vulgaris L.)[J].Journal of Food Science,2010,63(1):113-116. [4]王向峰.水溶性和不溶性纤维在幼龄单胃动物日粮中的功能研究[D].硕士学位论文.福 州:福建农林大学,2008. [5] MAYNARD C L,ELSON C O,HATTON R D,et al.Reciprocal interactions of the intestinal microbiota and immune system[J].Nature,2012,489(7415):231-241. [6] SENDER R,FUCHS S,MILO R.Revised estimates for the number of human and bacteria cells in the body[J].PLoS Biology,2016,14(8):e1002533. [7] LESER T D,AMENUVOR J Z,JENSEN T K,et al.Culture-independent analysis of gut bacteria:the pig gastrointestinal tract microbiota revisited[J].Applied and Environmental Microbiology,2002,68(2):673-690. [8] MOLIST F,DE SEGURA A G,PEREZ J F,et al.Effect of wheat bran on the health and performance of weaned pigs challenged with Escherichia coli $\\mathrm { K 8 8 ^ { + } [ J ] }$ .Livestock Science 2010,133(1/2/3):214-217. [9] OWUSU-ASIEDU A,PATIENCE JF,LAARVELD B,et al.Effects of guar gum and cellulose on digesta passage rate,ileal microbial populations ,energy and protein digestibility,and performance of grower pigs[J].Journal of Animal Science,2006,84(4):843-852. [10] CHE L Q,CHEN H,YU B,et al.Long-term intake of pea fiber affects colonic barrier function,bacterial and transcriptional profile in pig model[J].Nutrition and Cancer,2014,66(3):388-399. [11] CHEN H,MAO X B,CHE L Q,et al.Impact of fiber types on gut microbiota,gut environment and gut function in fattening pigs[J].Animal Feed Science and Technology,2014,195(9):101-111. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12]王嘉为,张蕾,祝皎月,等.饲粮中添加苜蓿草粉对生长猪结肠微生物区系及其代谢产物的影响[J].动物营养学报,2016,28(9):2715-2723.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[13] HAENEN D,DA SILVA C S,ZHANG J,et al.Resistant starch induces catabolic but suppresses immune and cell division pathways and changes the microbiome in the proximal colon of male pigs[J].The Journal of Nutrition,2013,143(12):1889-1898. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[14] VAREL V H,YEN J T.Microbial perspective on fiber utilization by swine[J].Journal of Animal Science,1997,75(10):2715-2722. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[15] SATCHITHANANDAM S,KLURFELD D M,CALVERT R J,et al.Effects of dietary fibers on gastrointestinal mucin in rats[J].Nutrition Research,1996,16(7):1163-1177. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[16] ZHOU L P,FANG L D,SUN Y,et al.Effects of a diet high in resistant starch on fermentation end-products of protein and mucin secretion in the colonsof pigs[J].Starch,2017,69(7/8):1600032. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[17] VILA F M.Effects of dietary fiber on swine intestinal epithelial and immune response[D].Master's Thesis.Minnesota:University of Minnesota,2017. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[18] CHEN H,MAO X B,HE J,et al.Dietary fiber affects intestinal mucosal barrier function andregulatesintestinalbacteriainweaningpiglets[J].BritishJournalof Nutrition,2013,110(1):1837-1848. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[19] PODOLSKY D K.Mucosal immunity and inflammation.Innate mechanisms of mucosal defense and repair:the best offense isa good defense[J].American Journal of Physiol0gy,1999,277(1):G495-G499. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[20] FURUSE M.Molecular basis of the core structure of tight junctions[J].Cold Spring Harbor Perspectives in Biology,2010,2(1):a002907. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[21]张叶秋,郝帅帅,高硕,等.米糠高纤维日粮对苏淮猪生长性能及肠道功能的影响[J].南京农业大学学报,2016,36(5):807-813.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[22]吴维达,解竞静,张宏福.不同日粮纤维对生长猪养分消化率和肠道结构形态的影响[J].畜牧与兽医,2016,48(6):57-60.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[23] MACPHERSON A J,MCCOY K D,JOHANSEN F E,et al.The immune geography of IgA induction and function[J].Mucosal Immunology,20o8,1:11-22. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[24] VINOLO M A R,RODRIGUES H G,HATANAKA E,et al.Suppressve effect of short-chain fatty acids on production of proinflammatory mediators by neutrophils[J].The Journal of Nutritional Biochemistry,2011,22(9):849-855. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[25] MONTAGNE L,PLUSKE J R,HAMPSON D J.A review of interactions between dietary fibre and the intestinal mucosa,and their consequences on digestive health in young non-ruminant animals[J].Animal Feed Science and Technology,2003,108(1/2/3/4):95-117. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26] BOUHNIK Y,RASKINEL,SIMONEAU G,et al.The capacity of nondigestible carbohydratestostimulatefecalbifidobacteriainhealthyhumans:a double-blind,randomized,placebo-controlled,parallel-group,dose-response relation study[J].The American Journal of Clinical Nutrition,2004,80(6):1658-1664.   \n[27] KNUDSEN K E B,HEDEMANN M S,LERKE H N.The role of carbohydrates in intestinal health of pigs[J].Animal Feed Science and Technology,2001,83(2):41-53.   \n[28] FREIRE J P B,GUERREIRO A J G,CUNHA L F,et al.Effect of dietary fibre source on total tract digestibility,caecum volatile fatty acids and digestive transit time in the weaned piglet[J].Animal Feed Science and Technology,2000,87(1/2):71-83.   \n[29] HAMAKER B R,TUNCIL Y E.A perspective on the complexity of dietary fiber structures and their potential effect on the gut microbiota[J].Journal of Molecular Biology,2014,426(23):3838-3850.   \n[30] DESAI M S,SEEKATZ A M,KOROPATKIN N M,et al.A dietary fiber-deprived gut microbiotadegradesthecolonicmucusbarrierandenhancespathogen susceptibility[J].Cell,2016,167(5):1339-1353.e21.   \n[31] TOPPING D L,CLIFTON P M.Short-chain fatty acids and human colonic function:roles of resistant starch and nonstarch polysaccharides[J].Physiological Reviews,2001,81(3):1031-1064.   \n[32]罗玉衡,陈洪,余冰,等.短期或长期饲喂高水平豌豆纤维对猪盲肠微生物群落结构和代 谢产物的影响[J].畜牧兽医学报,2017,48(8):1459-1467.   \n[33] CARNEIRO M S C,LORDELO M M,CUNHA L F,et al.Effects of dietary fibre source and enzyme supplementation on faecal apparent digestibility,short chain fatty acid production and activity of bacterial enzymes in the gut of piglets[J].Animal Feed Science and Technology,2008,146(1/2):124-136.   \n[34] COX M A,JACKSON J,STANTON M,et al.Short-chain fatty acids act as antinflammatory mediators by regulating prostaglandin E(2) and cytokines[J].World Journal of Gastroenterology,2009,15(44):5549-5557.   \n[35] PUERTOLLANO E,KOLIDA S, YAQOOB P.Biological significance of short-chain fatty acid metabolism by the intestinal microbiome[J].Current Opinion in Clinical Nutrition and Metabolic Care,2014,17(2):139-144.   \n[36] TAN J,MCKENZIE C,POTAMITIS M,et al.The role of short-chain fatty acids in health and disease[J].Advances in Immunology,2014,121:91-119.   \n[37] BAILEY M,PLUFIKEU F J,ROTHKOTTER H J,et a1.Regulation of mucosal immune responses in effector sites[J].Proceedings of the Nutrition Society,2001,60(4):427-435. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[38] CLEOPHAS M C,CRISAN T O,LEMMERS H,et al.Suppression of monosodium urate crystal-induced cytokine production by butyrate is mediated by the inhibition of class I histone deacetylases[J].Annals of the Rheumatic Diseases,2016,75(3):593-600. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Effect of Dietary Fiber on Intestinal Barrier Function in Pigs FENG Jiangxin CHEN Daiwen YU Bing HE Jun ZHENG Ping\\* (Institute ofAnimal Nutrition, Sichuan Agricultural University, Key Laboratory of Animal Disease-Resistance Nutrition of Education Ministry, Chengdu 611130, China) Abstract: The intestinal barrier mainly includes normal gut bacteria,mucus layer, intestinal epithelial cells and immune barrier，whose function is closely related to dietary. Dietary fiber refers to carbohydrates that cannot be digested and absorbed by their endogenous digestive enzymes in the intestinal tract of mammals,commonly known as non-starch polysaccharides (NSP),which mainly includes cellulose,hemicellulose, lignin and $\\beta$ -glucan, etc. Dietary fiber can enhance intestinal mucosal barrier, improve the structure of microbial community and improve the ratio of probiotics to pathogenic bacteria, etc. The present review summarizes the efect and mechanism of dietary fiber on intestinal barrier function of pigs for promoting the rational and effective utilization of dietary fiber in swine industry. Key words: fiber; pigs; intestinal barrier; gut bacteria ",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,178 @@
+# 适用于入侵害虫治理的遗传调控技术 \*
+
+![](images/e476883da137aad3d3364a301426b836d7ed2635128d87fe127f4bfa83ff7e0f.jpg)
+
+李芝倩陈 凯杨芳颖黄勇平\*\*中国科学院上海生命科学研究院上海200032
+
+摘要“生物入侵”是指某种生物从外地自然传入或人为引种后成为野生状态，并对本地生态系统造成一定危害的现象。在缺乏天敌和其他制约因子存在的前提下，入侵种能够快速繁殖和扩增并对当地的生态环境、生物多样性和经济造成严重的损失。随着全球化进程的发展，生物入侵变得更加普遍并且危害更加严重，加强入侵种的治理至关重要。由于传统的物理和化学方法在入侵种防治中存在着一些难以解决的问题，开发和利用无污染、无公害的遗传调控技术在生物入侵种的综合治理方面就显得非常迫切。文章针对我国入侵害虫的现状、主要入侵方式及目前的防治措施进行了总结，同时对遗传调控技术及其在生物入侵种综合治理方面的应用进行了阐述，以期为我国生物入侵的科学治理提供参考。
+
+关键词生物入侵，综合防治，遗传调控
+
+DOI 10.16418/j.issn.1000-3045.2017.08.005
+
+生物入侵严重危害着农业、林业、生态和人类健康，是造成全球生物多样性下降的第二大因素。随着全球化进程的加快，生物入侵也日益严重。在我国已经发生的入侵物种案例中， $7 5 \%$ 存在于沿海经济发达地区和边境口岸，生物入侵给我国经济发展造成了严重的损失[1]。目前，我国主要采用化学和物理等措施对生物入侵种进行治理，在抑制外来人侵物种的同时也带来了严重的环境污染和高昂的防治成本等问题。因此，开发和利用无污染、无公害的新型防治措施在生物入侵种的综合治理方面就显得非常迫切。本文针对我国生物入侵的现状、主要入侵方式及目前的防治措施进行了总结。同时对用遗传操作进行生物入侵种的调控进行了展望，期望能够为我国生物入侵的预防和科学治理提供参考。
+
+\*资助项目：国家自然科学基金国际（地区）合作与交流项目31420103918  
+\*\*通讯作者  
+修改稿收到日期：2017年7月30日
+
+# 1 外来入侵物种的危害
+
+# 1.1 生物入侵途径
+
+生物入侵的途径主要分为两大类：自然途径和人为途径[2。自然途径是指生物依靠自身的扩散作用或者风力、水流甚至其他动物等自然媒介进行传播入侵。由于这种途径不依赖于人为活动，扩散的区域几乎无法控制，因此造成的危害也难以估量。在我国，紫茎泽兰是通过自然途径进行入侵的典型案例。这种原产于中美的植物被引入到缅甸以后，通过自然途径沿中缅边境进入中国，成为危害严重的入侵植物。而人为途径则可以分为有意引入和偶然带入两种。有意引入往往是为了达到某个目的而进行的。例如，在20 世纪60一80年代，为了保护滩涂，我国从英美等国家引进了大米草。其抗逆性强、繁殖速度极快，最终造成了滩涂生态失衡、近海生物的栖息环境被破坏、附近航道被阻塞等严重后果。随着全球化进程的发展，世界各国交流密切，这也增加了偶然带入物种人侵的可能性。偶然带入的途径包括贸易、旅游、交通运输等[3]。20 世纪70年代，美国白蛾通过飞机、轮船等交通工具无意间被带入我国。由于其为广食性昆虫，几乎能取食所有的绿色乔木，因此对我国的农林业造成了巨大的危害。
+
+# 1.2我国生物入侵现状
+
+我国地域辽阔，热带季风气候、亚热带季风气候、温带季风气候等多种气候类型并存，是受生物入侵危害最严重的国家之一。早在2003年，经原国家环保总局调查统计，我国的外来入侵物种已多达283种，而且每年都在以惊人的速度增加[4]。据2014年11月的统计数据显示，仅中国境内的外来人侵植物已多达515种。这些入侵物种每年都对我国造成不可估量的经济损失。表1列举了我国外来人侵物种相关的直接经济损失和防治费用。其中，仅11种入侵中国的病虫草害，每年造成的经济损失就多达500多亿元人民币。其余种类所造成的直接和间接危害更是难以估量[5]
+
+# 1.3生物入侵的危害
+
+# 1.3.1造成巨大经济损失
+
+生物入侵已成为全球性的问题。由于其造成巨大的经济损失，因此受到各国政府关注。一方面，入侵的病虫害每年会对农林业的生产造成巨大的破坏。以我国为例，仅松材线虫、湿地松粉玠、松突圆纷、美国白蛾等几种入侵害虫每年都会导致数百万公顷的森林受灾，而马铃薯甲虫、非洲大蜗牛等入侵害虫每年可造成数百万公顷农田受灾。另一方面，每年防治入侵生物的花费数以亿计。据不完全统计，我国每年仅打捞防治水葫芦一项就要花费数十亿元。事实上，入侵种在其他国家都造成类似的严重危害。美国也是深受入侵生物危害的国家，其每年因生物入侵造成的损失达1000多亿美元[7]。
+
+# 1.3.2 破坏生物多样性
+
+由于在人侵地缺乏天敌和环境等制约因子，入侵生物的数量往往呈指数增长。它们会占领本地生物的栖息地或捕食掠夺本地生物，导致本地生物数量不断下降，并最终使得某些物种从本地消失，降低本地生物的多样性。而当生物多样性被进一步破坏时，会导致生态结构改变并可能导致生态灾害[5]。例如，20世纪70年代，美国引进亚洲鲤鱼以改善当地的生态环境。这种来自亚洲的“客人”在缺乏天敌、食物充足的条件下，种群增长迅猛并占领其他鱼类的栖息地和生存环境，最终导致其他鱼的种类和数量急剧下降，严重破坏了当地的生物多样性。另外一个植物方面的例子也从侧面印证了这种灾难：杉叶蕨藻原产于澳大利亚，曾作为观赏种被引入地中海地区，这种有毒植物会形成密集的单一族群，阻止本地海草建立族群，并且几乎能排挤掉其他所有海洋生物，对当地的生态环境造成严重的破坏。由于生物入侵而导致生物多样性降低的实例不胜枚举，并且新的案例仍在不断地发生，因此生物入侵对生物多样性的严重破坏可见一斑。
+
+表1外来入侵物种相关的直接经济损失和防治费用[5  
+
+<html><body><table><tr><td>外来入侵物种</td><td>调查地</td><td>经济损失变量</td><td>时期</td><td>防治费用 (人民币)</td></tr><tr><td>紫茎泽兰</td><td>四川凉山州，云南</td><td>畜牧业损失及控制费用</td><td>每年</td><td>>100万元</td></tr><tr><td>凤眼莲</td><td>全国</td><td>人工打捞费用</td><td>1999</td><td>>1亿元</td></tr><tr><td>豚草</td><td>全国</td><td>感染花粉病损失</td><td>每年</td><td>>100万元</td></tr><tr><td>空心莲子草</td><td>全国</td><td>经济损失</td><td>每年</td><td>6亿元</td></tr><tr><td>美洲斑潜蝇</td><td>全国</td><td>经济损失及防治费用</td><td>1995</td><td>5.7亿元</td></tr><tr><td>松材线虫</td><td>安徽、浙江、广东</td><td>经济损失</td><td>每年</td><td>5亿元</td></tr><tr><td>互花米草</td><td>福建宁德市，东吴洋一带</td><td>水产业一年的损失</td><td>每年</td><td>>1亿元</td></tr><tr><td>禽流感病毒</td><td>香港</td><td>销毁活鸡的费用，以及赔偿鸡农鸡贩的损失</td><td>1997</td><td>1.4亿港币</td></tr><tr><td>11种主要外来入侵物种</td><td>全国</td><td>农林业损失及防治费用</td><td>每年</td><td>574.3亿元</td></tr></table></body></html>
+
+# 1.3.3威胁人类健康
+
+入侵生物对人类的健康也会造成严重的危害[8。入侵我国的豚草原产自北美洲。该草的花粉中含有水溶性蛋白，与人接触后可迅速释放而引起过敏性反应。这是秋季花粉过敏症的主要致病原，易导致有害健康的“枯草热症”。原产于南美洲的红火蚁自2004年在我国台湾地区发现之后，已扩大到我国广东、香港、澳门、湖南、广西和海南等地。它们除了对作物、动物和基础设施等造成危害以外，还对人类健康造成直接损害。人体被红火蚁叮蛰后出现火灼般疼痛，伤口继而出现化脓红肿，个别过敏体质者可出现休克。除了直接危害人类健康，入侵生物还会间接对人类造成伤害。许多传染性疾病，如疟疾、乙脑、登革热等，都是以入侵生物为媒介进行传播，严重威胁了人类的健康。登革热由伊蚊传播，每年就有100多个国家的超过5000万人口被传染，并有多个死亡的案例[8]。
+
+综上所述，人侵生物已经对我国经济、环境和人类健康都造成了严重的危害。因此，对于入侵生物的防治刻不容缓。
+
+# 2目前对外来物种的主要治理方法
+
+对于外来物种，我们应该防患于未然，采取各种措施减少有害生物入境，以减少其对该国家或地区环境、经济和人类健康的影响。针对外来人侵物种的防治，较常用的方法是通过机械（或物理）、化学、生物等方法或者将这些方法结合起来综合治理，恢复和重建生态系统。
+
+# 2.1机械（或物理）防治
+
+根据外来入侵物种的相关特性，利用专门设计制造的机械设备直接除去人侵动植物。这类机械或者物理防治措施在短时间内可以迅速清除一定范围内的外来动植物，且对环境友好[。在陕西和辽宁等地人工操作机械剪除幼虫网幕、高截树头成功控制了美国白蛾的泛滥。但是机械设备成本高，且属于劳动力密集型；此外，机械防除后，若未妥善处理有害植物残株，这些残株依靠无性繁殖可能成为新的传播源[9]。
+
+# 2.2化学防治
+
+使用化学方法见效快、使用方便、易于大面积应用。但该防治方法成本高，并且常常在消除外来入侵物种的同时也会对当地原有物种、生态环境和人类健康造成不良影响，还易使外来物种产生抗药性。对于大面积山林及自身经济价值相对较低的生态环境，化学农药的使用往往不切实际。而对于湖泊、河流和水库等一些特殊环境，化学农药也是限制使用的[9。除草剂是进行入侵物种防治的重要化学方法，根据其作用方式，除草剂可分为内吸型和触杀型两类。内吸型除草剂一般用于多年生杂草，但防治效果较慢；触杀型除草剂见效快，常适用于一年生杂草。由于很多外来入侵植物系多年生，应用内吸性除草剂效果较为持久。虽然用化学制剂进行入侵物种的防治取得了一定的成功，但随之而来的环境污染、抗药性等问题无疑又带来了新的考验。
+
+# 2.3 生物防治
+
+对分布面积大且已基本稳定的外来入侵物种，建议采用生物防治，即通过引进入侵种的原产地天敌（昆虫和真菌）。在进行安全性、专一性和生态适应性等研究的基础上释放天敌，以达到控制外来入侵物种的目的[1]。生物防治的突出特点是对环境安全、经济合算、效果明显且持久。
+
+世界上第一个引进天敌防治外来害虫的成功范例是美国从澳大利亚引进澳洲瓢虫（Rodoliacardinalismulsant）抑制吹绵壳虫的发生与危害，一举挽救了加利福尼亚州濒于毁灭的柑橘种植业。目前，我国的生物防治也有了一定成果。如利用链格孢菌（Alternariaalternata）防治紫茎泽兰（Eupatorium adenophorum）;通过种黑麦草（Loliumperenne）或种植木豆（Cajanuscajan）并养殖紫胶虫（Lacciferlacca）来阻止阳生性紫茎泽兰的发生和生长；以及引进水葫芦象来治理水葫芦等[1]
+
+但是，采用生物防治需要特别注意避免所使用的生物制剂本身成为外来入侵物种。1935年澳大利亚从夏威夷引进了甘蔗蟾蜍（Bufomarinus）来防治本地的甘蔗甲虫（Dermolepida albohirtum）。甘蔗蟾蜍不仅繁殖能力强，与本地野生生物竞争食物，而且还能分泌致死毒液，捕食各种生物。在捕食对象有选择的情况下，它不会选择甘蔗甲虫进行捕食[]，最终造成这一生物防治措施彻底失败。因此，在利用释放天敌进行入侵物种防治前，必须进行天敌的安全性测定[12]。
+
+# 3遗传调控是入侵害虫治理的理想技术
+
+# 3.1遗传调控技术简介
+
+利用物理和化学方法进行的人侵物种治理虽然能够抑制外来物种的扩增，但是这种方法带来的问题也显而易见。长期使用化学农药造成害虫抗药性逐渐增强、环境污染和农药残留等严重问题。基于此，新型无公害的入侵物种防治措施是未来入侵物种防治技术发展的趋
+
+势。
+
+利用遗传调控技术进行入侵物种防治的思路来自于近年来该技术在害虫防治方面取得的进展。种群的遗传调控是指利用昆虫自身生长发育的关键基因，采用性别控制开关，通过遗传转化使雄虫成为携带导致后代雌虫发育异常或雌性不育的遗传控制复合体（性别开关元件和靶标基因的复合体），在自然种群中通过改变性别比例来实现种群的逐步下降。
+
+遗传调控技术具有多种优点：（1）从原理设计上仅针对目标对象本身发挥作用，是一种物种内部的调控机制，不会对其他物种（特别是各种作物）造成影响。（2）不会使用任何化学农药，对环境不会产生化学防治所带来的各种危害。（3）借助于种群的遗传能力，一旦所释放的遗传调控个体在自然界中成功的定居，这种能力将会在目标害虫种群内加以扩散而持续性地发挥作用，而对其他的物种不造成任何影响。因此，害虫种群的遗传调控是未来治理害虫危害的理想选择。
+
+尽管目前还没有利用遗传调控进行入侵物种防治的成功案例，但是其在害虫种群中的应用值得借鉴。
+
+# 3.2组成遗传调控技术的关键元素
+
+# 3.2.1遗传转化与基因组编辑技术
+
+自1982 年首例转基因果蝇获得成功以来[13]，遗传转化技术在昆虫中的应用也日益推进。遗传转化是指利用显微注射或者其他介导技术将目标基因的DNA序列引入到早期胚胎内，再通过酶的作用将外源DNA整合到受体物种的基因组之中。由于受到转座子（动物体内可以移动的遗传元件，又称跳跃基因或者转座因子）和显微注射技术的限制，在昆虫中成功实现转基因并稳定遗传的种类仍然屈指可数。这些种类主要集中在双翅目昆虫和鳞翅目昆虫之中。
+
+基因组编辑技术是近年发展的重要技术。虽然应用的时间不长，但对生命科学研究和应用都具有极大的推进作用。从2000年左右开始出现的锌指核酸酶（zinc finger nuclease，ZFN）技术[14]，到类转录激活因子核酸酶（transcription activator-like effector nuclease,TALEN）技术[14.15]，以及 2013 年开始兴起的 RNA靶向编辑（clustered regularly interspaced short palindromicrepeats/Cas9，CRISPR/Cas9）技术，使得包括非模式生物在内的诸多生物的基因组编辑成为可能，并且有望在未来运用到入侵物种的遗传调控中去。目前，这几项技术在昆虫中都得以成功地运用。Wang 等[6通过注射Cas9mRNA和体外转录的sgRNA，成功敲除了家蚕 BmBLoS2基因，得到了可遗传的油蚕表型。相对于ZFarray或TALEarray的构建而言，sgRNA的构建在难度、时间以及成本方面都有无与伦比的巨大优势，并且在多位点编辑方面的优势更加明显。基因组编辑技术由于具有定点敲除和插入的潜力，为各种基因功能研究和应用提供了无限的可能。因此，在入侵物种防治方面也应该具有无限的应用潜力。特别是将遗传转化与基因组编辑技术相结合更好地推进了基因组编辑技术的应用。
+
+# 3.2.2重要的靶标基因与元件的发掘与应用
+
+无论是利用转基因技术还是基因组编辑技术进行入侵物种的防治，都需要挖掘一批特异的调控元件和靶标基因。这里以昆虫作为治理对象进行阐述。
+
+# 3.2.2.1转座元件
+
+昆虫中进行的转基因主要依靠转座子进行外源序列的导入。最早使用的转座子是在果蝇利用 $P$ 因子进行转基因。随后，Minos[17]，Hermes[1]和 piggyBac[]等被广泛应用于昆虫转基因。在诸多的转座子中，来源于鳞翅目昆虫的粉蚊夜蛾（Trichoplusiani）的piggyBac转座子使用较多。因其可携带的外源基因大小受限较小，转座不受物种和生殖种系的限制，从单细胞生物到哺乳类都有应用成功的先例，是目前应用范围最为广泛的转座子载体。至今piggyBac转座子载体已经被成功用于转化双翅目、鳞翅目、鞘翅目和膜翅目等多种昆虫[20]。
+
+# 3.2.2.2性别特异的调控元件
+
+（1）性别特异的启动子。借鉴害虫防治的成功案例，有效治理入侵物种首先需要获得一批时空特异性的启动子。使得驱动表达的致死或者毒素因子能够在特定的性别、组织或者发育时期进行表达。在昆虫中，运用比较多的特异启动子包括有： $\textcircled{1}$ 性别特异的启动子。如卵黄蛋白（ $\mathrm { Y p }$ ）与卵黄原蛋白启动子（ $\mathrm { v } _ { \mathrm { g } }$ ）[21]、精巢特异表达的 $\beta 2$ -tubulin启动子等[22]。 $\textcircled{2}$ 特定时期表达启动子。如在果蝇胚胎的胚盘时期表达的nullo 和 serendipity$\mathrm { ~ a ~ }$ 启动子等[23,24]。 $\textcircled{3}$ 特定的组织与环境中表达的启动子。如脂肪体特异表达的 $\Upsilon { \mathfrak { p } } ^ { 3 ^ { [ 2 2 ] } }$ 、生殖细胞特异的Vasa 启动子[25]、伊蚊间接飞行肌（indirect flight muscle,IFM）中特异的Act-4启动子和受到温度调控的Hsp70启动子等[26]。这些特异表达的启动子，能够有效地调控不育和致死系统，在转基因种群饲养过程中的雌雄区分和种群的数量调控方面有重要意义。
+
+（2）性别特异剪接系统。利用昆虫性别决定通路中的选择性剪切元件，新一代的遗传调控系统将性别特异剪接整合到其中，并取得了成功。2007年，Fu等首次将性别剪接系统应用到地中海实蝇（Ceratitiscapitata）遗传调控中去。他们把雌性特异性剪接信号（tra 基因的雌特异性内含子片段）与单组分的Tet-off系统整合，使tTA只在雌性个体中表达，引起雌性个体致死。在雄性个体中，剪接信号不被识别激活，致死基因不表达，故而雄性个体正常存活。Ant等[28在橄榄实蝇中利用地中海实蝇的雌性特异性剪接信号（Cctra）同样实现了特异性杀死雌性个体。实验室的笼子实验表明，在释放雌性特异致死的转基因种群24周后，野生种群的产卵率和雌性个体数目几乎降低为0。这些实验说明有效地利用性别调控中的可变剪接信号，能够很好地实现雌性特异致死，从而达到调控昆虫种群密度的目的。
+
+# 3.2.2.3特异的致死与缺陷基因
+
+特异的致死或缺陷基因的筛选对于构建昆虫种群遗传调控系统至关重要。目前使用的致死或缺陷基因主要有与细胞凋亡相关的基因，如果蝇中的hid（headinvolutiondefective）[29]，reap[30]和grim31]等；对细胞有毒性的基因，如果蝇中的Ras64B，还有如Tet系统自身
+
+的tTA等。
+
+2011年，Thailayil等[32]发现雌性疟蚊在受精后会发生一系列的行为变化，包括一次受精后终身不再受精、吸血后诱导产卵等现象。通过对疟蚊的zpg基因进行RNAi，他们成功培育了无精子的雄性疟蚊，而这种无法产生精子的雄性疟蚊与野生型雌蚊交配后会严重影响后者的生殖。这一体系的建立为通过筛选种类或物种特异的基因并进行RNAi来实现昆虫种群遗传调控提供了很好的例证。
+
+# 3.3遗传调控技术的应用
+
+目前至少已经在4个目20余种昆虫中成功开展了遗传转化研究。结合转基因技术，英国的Oxford InsectTechnologies（Oxitec）公司发明了一种DNA重组来得到遗传改造过的昆虫的技术——RIDL（releaseof insectscarryingadominantlethal）。这种技术主要是将一个可以控制的“显性致死”基因通过转基因导入昆虫体内，这个基因可以杀死昆虫，但是会被抑制物抑制，这样可以保证昆虫在人工条件下进行饲养。在此基础上，Fu 等[27]于2007年利用性别特异性剪接构建了雌性特异致死系统。他们将transformer（tra）基因的外显子插入到Tet-off系统控制的顺式激活因子中，成功构建了性别特异的致死体系。近年来，这项技术在开曼群岛和相对孤立的环境中进行了尝试，已经取得了理想的效果。
+
+为了减少劳动力的使用，科学家们正在开发一种基因驱动（genedrive）技术。基因驱动是指整合入基因组的外源片段能通过非孟德尔遗传定律的方式快速扩散到目标害虫种群并快速降低种群的密度。在该系统中，科学家将其与CRISPR/Cas9 相结合，开发了MutagenicChainReaction（MCR）系统，在斯氏按蚊中获得了两个快速扩增外源插入片段的品系[33]。该系统在减少携带有登革热、寨卡等病毒的蚊类种群方面有巨大的应用潜能。而基因驱动技术能将致死或者毒素因子快速引入到害虫种群中，因此在入侵物种的防治方面也有着巨大的应用潜能。转基因技术在一些入侵物种中的成功应用，推进了其在入侵物种防治方面的应用。特别是一些昆虫，包括棉红铃虫、美国白蛾等物种中已经有转基因成功的案例。为实现利用转基因技术进行入侵物种的防治奠定了基础。
+
+在益虫利用方面，浙江省农业科学院利用从俄罗斯引进的性连锁平衡致死系构建了能够专养雄蚕的家蚕品种（雄蚕品种比雌蚕品种能够在效益上提升 $1 5 \%$ 以上），并在生产应用上有了一定推广。为了更好地建立专养雄蚕的体系，谭安江等与Oxitec公司合作建立了家蚕雌性致死的新品系（图1）[34]。并且随着家蚕遗传转化与基因组编辑平台的优化，新型的雄蚕品系研究正在不断地向产业推出。
+
+P2e 心 .1cm左侧为存活的三龄雄性个体，右侧为同一蛾区致死的雌性个体
+
+# 4总结与展望
+
+面临日益严峻的生物入侵问题，除了不断完善现有的综合治理技术以外，还需要加强新技术的开发。新技术需要满足多种要求。如，对入侵种以外的生物无害、不污染环境、能够长期发挥作用等。而遗传调控技术将能够基本满足这样严格的需求。外来入侵种本来就不是当地的种类，它们进人到入侵地后定居，将这样的外来者移除对于人侵地不会产生特别的生态危害。针对入侵种采用遗传调控技术所积累的理论和方法，无疑将服务于对其他入侵害虫种类的种群调控。
+
+参考文献   
+1 张雪梅.我国生物入侵现状及防治对策思考．中国科技信息, 2012, (6): 41.   
+2 范爱保，梁家林.外来生物入侵的突进及控制方式.河北林业, 2004, (4): 21.   
+3 邓启明，张秋芳．我国生物入侵的现状、危害及安全管理问 题.首届长三角科技论坛——生态环境与可持续发展分论坛 论文集.杭州:浙江省科学技术协会,江苏省科学技术协会,上 海市科学技术协会,2004:14-24.   
+4 张亚平,蒋有绪,张润志，等.我国生物入侵现状与对策.中国 科学院院刊，2009,24(4): 411-413.   
+5 高建亮，赵林艳,赵林峰.我国外来入侵物种的危害及防治对 策初探.湖南林业科技,2005,32(6):72-75.   
+6 胡淑恒，汪家权，聂磊,等.生物入侵的危害及防治措施.生物 学杂志,2003,20(5): 12-15.   
+7吴金泉,MichaelT Smith.发达国家应战外来入侵生物的成功 方法.江西农业大学学报,2010,(5):1040-1055.   
+8 林培群，余雪标.生物入侵的现状及其危害与防治.华南热带 农业大学学报,2006,12(2):61-65.   
+9 赵运涛，李新华，张征文.中国主要外来入侵物种的危害及防 治措施.林业调查规划,2005,(6):113-117.   
+10 胡隐昌,宋红梅,牟希东,等.浅议我国外来物种入侵问题及其 防治对策.生物安全学报,2012,(4):256-261.   
+11 孔祥海．外来入侵物种的危害及防治对策．龙岩师专学报, 2004, (6): 56-60.   
+12 缪绅裕，李冬梅.广东外来入侵物种的生态危害与防治对策. 广州大学学报（自然科学版）,2003,(5):414-418.   
+13 Rubin G M, Spradling A C. Genetic transformation of Drosophila with transposable element vectors. Science,1982, 218: 4570- 4576.   
+14 Klug A. The discovery of zinc fingers and their applications in gene regulation and genome manipulation. Annu Rev Biochem, 2010, 79: 213-231.   
+15 Boch J, Bonas U. Xanthomonas AvrBs3 family-type ii effectors: discovery and function. Annu Rev Phytopathol, 2010, 48: 419- 436.   
+16 Wang Y, Li Z, Xu J, et al. The CRISPR/Cas System mediates efficient genome engineering in Bombyx mori. Cell Res,2013,23: 1414-1416.   
+17 Pavlopoulos A, Berghammer A J, Averof M, et al. Eficient transformation of the beetle Tribolium castaneum using the Minos transposable element: Quantitative and qualitative analysis of genomic integration events. Genetics,2004,167: 737-746   
+18 Jasinskiene N, Coates C J, James A A. Structure of Hermes integrations in the germline of the yellow fever mosquito, Aedes aegypti.Insect Mol biol,2000,9: 11-18.   
+19 Fraser MJ, Cary L, Boonvisudhi K, et al. Assay for movement of Lepidopteran transposon IFP2 in insect cells using a baculovirus genome as a target DNA. Virology,1995,211: 397-407.   
+20 Handler A M. Use of the piggyBac transposon for germ-line transformation of insects.Insect Biochem Mol Biol, 2002,32: 1211-1220.   
+21 Xu J,Wang Y,Li Z, et al.Functional characterization of the vitellogenin promoter in the silkworm, Bombyx mori. Insect Mol Biol. 2014,23(5): 550-557.   
+22 Catteruccia F, Benton JP, Crisanti A. An Anopheles transgenic sexing strain for vector control. Nat Biotechnol. 20o5,23: 1414- 1417.   
+23 Horn C, Wimmer E A. A transgene-based, embryo-specific lethality system for insect pest management. Nat Biotechnol,2003, 21: 64-70.   
+24 Schetelig M F, Caceres C, Zacharopoulou A,et al. Conditional embryonic lethality to improve the sterile insect technique in Ceratitis capitata (Diptera: Tephritidae) .BMC Biology,2009, 7: 4.   
+25 Nolan T, Papathanos P,Windbichler N,et al. Developing transgenic Anopheles mosquitoes for the sterile insect technique. Genetica,2011,139:33-39.   
+26 Fu G,Lees R S,Nimmo D,et al.Female-specific flightless phenotype for mosquito control.Proc Natl Acad Sci USA,2010, 107:4550-4554.   
+27 Fu G,Condon K C,Epton MJ,et al.Female-specific insect lethality engineered using alternative splicing.Nat Biotechnol, 2007,25:353-357.   
+28 Ant T,Koukidou M,Rempoulakis P,et al.Control of the olive fruit fly using genetics-enhanced sterile insect technique.BMC Biology,2012,10:51.   
+29Heinrich JC,Scott M J.A repressible female-specific lethal genetic system for making transgenic insect strains suitable for a sterile-release program.Proc Natl Acad Sci USA,2000,97: 8229- 8232.   
+30 White K,Tahaoglu E,Steller H.Cell killing by the Drosophila gene reaper. Science,1996,271: 5250-5253.   
+31 Chen P,Nordstrom W,Gish B,et al. Grim,a novel cell death gene in Drosophila.Genes Dev,1996,10:1773-1782.   
+32 Thailayil J,Magnusson K,Godfray HC,et al. Spermless males elicit large-scale female responses to mating in the malaria mosquito Anopheles gambiae.Proc Natl Acad SciUSA,2011,   
+108:13677-13681.   
+33 Gantz V,Jasinskiene N,Tatarenkova O,et al.Highly efficient Cas9-mediated gene drive for population modification of the malaria vector mosquito Anopheles stephensi.Proc Natl Acad Sci USA. 2015,112(49): E6736-43.   
+34 Tan A,Fu G, Jin L,et al.Transgene-based,female-specific lethality system for genetic sexing of the silkworm, Bombyx mori. Proc Natl Acad Sci USA,2013,110:6766-6770.
+
+# Application of Genetic Regulation Technique for Invasive Pest Management
+
+Li Zhiqian Chen Kai Yang FangyingHuang Yongping （Shanghai Institutes for Biological Sciences,Chinese Academy of Sciences,Shanghai 2Ooo32, China）
+
+AbstractBiological invasionisdefiedasexoticspeciesinvadinganewareanaturallorartificialltusbringinghartothelocal ecologicalsystem.Sincenaturaleemiesforthexoticspecieseistedinthelocaleological envioment,populationofteiasio species increassamaticallndstroslocalolgicalvioentodiversityndooyeentlfrqucydadf biologicalinvasioeeasgogiobliHwertotrolatforassslical andchemicalmetodslrgelyhichbringssverepolutiontotheenviromentandlivingrganisms.Threfore,developingofeethod suchasgenetcregulatioechque(GToflesslabor-dependentandenviomentalfendlyisurgentlyeded.Hereesumrzedthe curentsitationofbiologicalinvasininChinaanddescribedthedevelopmentofGRTmethod.Itisourexpectationthattheifoation included in this paper will offer a general view for future biological invasion management.
+
+Keywordsbiological invasion, integrated management, genetic regulation李芝倩中科院上海植物生理生态所助理研究员。主要从事利用遗传转化和基因组编辑技术进行家蚕性别决定的遗传调控研究，并将这些原理和方法应用于其他鳞翅目昆虫。相关研究成果以第一作者身份发表在Proceedingsof the RoyalSocietyB:Biologicaliences,ternationalJounalofologicalSiences,sectchemistrydolecularBology
+
+上。E-mail: lizhiqian@sibs.ac.cn
+
+LiZhiqianAsistantProfessrofanghaiIstituteoflantPyologndEcolgyCinseAademyofciences(CA).Sheaduated fromtheShanghaiIstituteofPlantPhysiologandEcologyCASat2O15andhrsupervisorasProfesorHuangYongping.Hac cover tegeneticregulationofinsectsexualratioincludingsilkwormandafewlepdopteranpests.heelatedresearchfidingshaveben publiseditetilalsnoftaltogleteaallfcl Sciences,Insect Biochemistry and Molecular Biology,and so on.E-mail: lizhiqian@sibs.ac.cn
+
+黄勇平男，中科院上海植物生理生态所研究员。中国昆虫学会副理事长，昆虫分子遗传与昆虫基因组领域专家。曾任亚太化学生态学学会主席。主要研究领域包括：昆虫性别决定的分子机理及其在种群遗传调控中的应用。E-mail: yphuang@sibs.ac.cn
+
+HuangYongpingMale,ProfessorofShanghai InstituteofPlantPhysiologyandEcology,CAS.Heisthe VicePresidentofChinese EntomologicalSocietyndtheexpertofisectmoleculrgeneticsndgeoicso.Andeastehanofsian-PacificAoio ofChemicalEcologyHiscurrentresearchinterestsidetemolecularechanisfinsectsexdeterminationnditslicatioin population genetic management. E-mail: yphuang@sibs.ac.cn

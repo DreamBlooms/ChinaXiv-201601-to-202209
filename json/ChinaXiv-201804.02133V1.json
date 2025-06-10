@@ -1,0 +1,729 @@
+[
+    {
+        "type": "text",
+        "text": "改进的单幅近红外掌纹掌静脉图像融合识别",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "江晓龙，王华彬，王东旭，朱颜，陶亮(安徽大学 计算机科学与技术学院，合肥 230601)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：现有的单幅近红外掌静脉掌纹融合识别算法不能很好地突出掌纹与掌静脉结构。针对这个问题，提出一种改进的融合识别算法。首先，采用分块模型去除图像中的掌静脉得到掌纹结构，通过隶属度函数对掌纹结构进行模糊化，再进行反锐化掩模增强，突出掌纹结构信息；然后，使用边缘检测加权引导滤波对掌静脉结构进行增强，突出掌静脉结构；最后，将掌纹与掌静脉图像进行融合。实验结果表明，改进后的融合识别算法的识别率达到了 $9 9 . 8 1 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：掌纹；掌静脉；融合识别；隶属度函数；模糊化；反锐化掩模中图分类号：TP391.4 doi: 10.3969/j.issn.1001-3695.2018.01.0055",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Improved fusion recognition for near infrared palmprint and palm vein image ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jiang Xiaolong, Wang Huabin†,Wang Xudong, Zhu Yan, Tao Liang (School ofComputer Science&Technology Anhui University,Hefei230601,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The palmprint enhancement algorithmand the palmvein enhancement algorithm in single near infrared palm vein palmprint fusion recognitionalgorithmcan not highlightthepalmprint structure and palm vein structure well.To solvethis problem,this paper proposedanimproved palmprint andpalmvein fusionalgorithm.First,itused the block modeltoremove thepalmtoget thestructureofthepurepalmprint,anddefinedanewmembershipfunctiontomakepalmprintstructurefuzified, thenit combined the fuzzy palmprint structure withthe anti sharpening mask method to highlightthepalmprint structure information.Secondly,itusededgedetection weightedguided filtering toenhance thestructureofthepalmveinsothatthepalm veinstructure was highlighted.Finaly,it acquired the palmprintand palmvein images for adaptive weight fusion.The experimental results show that the recognition rate of the improved fusion recognition algorithm reaches $9 9 . 8 1 \\%$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: palmprint; palm vein; fusion recognition; membership function; fuzzification; anti sharpening mask ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着社会经济快速发展，人们对识别技术的要求越来越高。由于磁卡，密码等传统身份认证方式存在丢失和盗取的风险，不能满足当今社会的需要，与此同时，生物识别技术[1]的出现，在安全性和便捷性得到了很大的改善，因此，生物识别技术得到了广泛的应用。生物识别技术有单一生物特征识别技术和多特征融合识别技术[2].人体不同部位生物特征识别技术也存在很大差别。比如人脸识别技术[3]，其精度相对较低;虹膜识别技术[4相对更安全可靠但是采集费用比较大。相比于这些生物特征识别技术，基于手部生物识别技术的信息更容易采集且采集花费相对较低。基于手部的单一生物识别技术包括指纹识别[5]、手指静脉识别[、掌纹识别[7]、手背静脉识别[8]、手掌静脉识别[9]等。多特征融合技术包括基于离散余弦变换的人脸、手掌静脉和掌纹图像特征层融合[10]。该方法采用局部统计方法，用预先定义的DCT系数块计算标准偏差，并将其存储为特征向量，利用测试向量与训练数据集之间的距离进行匹配。手形、掌纹和掌静脉融合识别[I]，该方法在同一设备不同光源下采集掌静脉和掌纹图像。首先，将手指的相对长度作为手形特征进行初次匹配；然后，采用分块纹理基元模型进行掌静脉和掌纹融合图像的特征提取；最后，进行二次匹配并作为最终识别结果。掌纹与手背静脉融合[12]，该方法通过低分辨率数字扫描仪和红外相机拍摄掌纹和静脉图像，采用混合融合规则进行特征融合。多特征融合识别技术需要采集更多的信息，信息量的增多，加大了信息采集、信息融合，识别等的难度，这些问题也给多生物特征识别技术研究带来了新的挑战。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，大多数研究者在多特征融合时，是采集不同光照下的多个特征图像，然后进行融合，采集过程较为复杂。文献[13]根据近红外手掌图像同时包含掌纹和掌静脉结构信息，尝试从一幅图像中获取掌纹、掌静脉结构，然后进行融合，这样就可以在提高图像识别率的同时减小图像采集和降低系统融合的难度。但是该融合识别算法未能很好地突出掌纹结构和掌静脉结构。因此本文提出了一种改进的掌纹和掌静脉多特征融合识别方法。利用同一采集设备在近红外光源下采集手掌图像，对一幅近红外图像分别提取掌纹结构和掌静脉结构，然后进行掌纹和掌静脉融合识别。其步骤如下：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)将近红外手掌图像作为输入图像，通过分块增强模型提取掌纹的纹理结构同时去除掌静脉，使用自定义的一种隶属度函数对提取的掌纹结构进行模糊化，再将模糊化理论和反锐化掩膜结合来突出掌纹的纹理结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)将近红外手掌图像作为输入图像，先使用改进后的自引导滤波进行去除掌纹信息，然后对掌静脉细节进行增强。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)提取增强后的掌纹和掌静脉图像的特征，然后对掌纹、掌静脉进行特征融合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文改进后算法，对一幅红外手掌图像在掌纹、掌静脉融合识别时，取得更好的识别效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 近红外手掌图像掌纹结构增强",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1分块增强模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近红外手掌图像包含掌纹和掌静脉结构信息。掌纹线条结构窄细、平缓，掌静脉结构相对较宽。与掌静脉相比，掌纹的像素值较大且明显偏离局部区域的均值[13]。因此，可以使用Zhou等人[14]提出的分块增强模型提取掌纹的线条结构。分块增强算法步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）将 $\\pmb { I }$ 待增强图片分割成 $R ^ { * } R$ 的小块（每个小块重叠$3 ^ { * } R$ 个像素），计算每个小块像素灰度值的均值，得到维度变小的背景矩阵Iback°",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）对分块处理后得到的背景矩阵 $\\pmb { I } _ { b a c k }$ 进行双三次插值，使背景矩阵的维数和待增强图片矩阵 $\\pmb { I }$ 的维数相同，此时背景矩阵记为 $\\pmb { I } _ { b a c k } ^ { ' }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）将 $\\pmb { I }$ 待增强图片减去双三次插值处理后的背景矩阵$\\boldsymbol { I } _ { b a c k } ^ { ' }$ ，对 $\\pmb { I } - \\pmb { I } _ { b a c k } ^ { ' }$ 进行直方图均衡化，得到增强的掌纹结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过上述分块增强算法，虽然突出了掌纹主线条结构，但是引入了噪声，如1.2节中图1(b)所示。针对此问题，本文在分块增强的基础上，提出了改进的模糊反锐化掩模增强算法，通过改进后的算法对掌纹结构进行增强。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2模糊反锐化掩模掌纹增强算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在1.1节中，通过分块模型算法获取掌纹结构时，引入了噪声。通过sobel算子检测分块增强后的掌纹图像，出现一些不连续的断点噪声，如图1(c)所示。这些噪声是由于在像素点位置的梯度大于阈值，被误认为边缘而产生的。可以使用均值滤波来消除这些噪声。为了突出图像的掌纹结构，提高掌纹结构的对比度，本文将模糊理论和反锐化掩模框架[15]结合，以实现掌纹结构的增强。隶属函数是将图像像素的灰度值映射到[0,1]内，实现图像的模糊化。如何区分图像的高灰度区域和低灰度区域至关重要。为了将图像的高灰度区域与低灰度区域分开，在反锐化增强时，可以很好地突出图像的纹理结构。本文定义的隶属度函数将论域中较小值的元素映射为0，将论域中元素值在中间区域的元素映射到1附近，将论域中较大值的元素映射到0.5附近。定义的隶属度函数如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu A = \\left\\{ \\begin{array} { c c } { 0 } & { x < c 1 } \\\\ { \\frac { 1 } { 2 } + \\frac { 1 } { 2 } \\mathrm { c o s } \\Bigg ( \\displaystyle \\frac { \\pi \\left( c 2 - x \\right) } { c 2 - c 1 } \\Bigg ) } & { c 1 \\leq x < c 2 } \\\\ { 1 - \\frac { 1 } { 4 } \\bigg ( \\displaystyle \\frac { x - c 2 } { c 3 - c 2 } \\Bigg ) ^ { 2 } } & { c 2 \\leq x < c 3 } \\\\ { \\frac { 1 } { 2 } + \\frac { 1 } { 4 } \\bigg ( \\displaystyle \\frac { c 4 - x } { c 4 - c 3 } \\bigg ) ^ { 2 } } & { c 3 \\leq x \\leq c 4 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $X$ 为某一论域， $X = \\left\\{ x \\imath , x \\imath , x \\imath , . . . , x \\imath \\right\\}$ ， $\\displaystyle x _ { i } \\big ( \\boldsymbol { \\mathsf { \\iota } } _ { i \\in \\left( 1 , n \\right) } \\big )$ 为$X$ 中某一个元素。 $A$ 是 $X$ 经过隶属度函数 $\\mu _ { A } { \\big ( } x { \\big ) }$ 映射的模糊集合，模糊集合的范围为[0,1]， $c 1 , c 2 , c 3 , c 4$ 是三个参数，这三个参数的值是由论域 $X$ 的统计值决定的[15],文献[15]提供$c 1 , c 2 , c 3 , c 4$ 的值，如式(2)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { c 1 = m - \\delta / 2 } \\\\ { c 2 = m + 3 \\delta / 2 } \\\\ { c 3 = m + 5 \\delta / 2 } \\\\ { c 4 = X _ { \\mathrm { m a x } } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\delta$ 为论域 $X$ 的标准差； $m$ 为论域 $X$ 的均值。式(1)代表的隶属度函数如图2所示。不同图像的均值和标准差会有差异，为了确保式(2)中 $c 1 > 0 , c 3 < c 4$ 条件成立，本文通过对式(2)中的标准差进行惩罚，此时公式变为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left\\{ c 1 = m - \\delta / n \\right. } \\\\ & { \\left. c 2 = m + 3 \\delta / n \\right. } \\\\ & { \\left. c 3 = m + 5 \\delta / n \\right. } \\\\ & { \\left. c 4 = X _ { \\mathrm { m a x } } \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由 $c 1 > 0 , c 3 < c 4$ ，推出 $\\begin{array} { r } { n > \\delta / m , } \\end{array}$ （20 $n > 5 \\delta / \\mathopen { } \\mathclose \\bgroup \\left( X _ { \\mathrm { m a x } } - m \\aftergroup \\egroup \\right)$ 。为了使不等式同时成立， $n$ 取$\\left\\lceil \\operatorname* { m a x } \\left\\{ \\delta / m , 5 \\delta / \\left( X _ { \\operatorname* { m a x } } - m \\right) \\right\\} \\right\\rceil$ 。其中“「]\"代表取上限值。因为每一个图像的均值和标准差不同，所以每一个图像对应的上限 $n$ 可能不同。为了使数据库样本图像对应的不等式恒成立，求出样本中所有图像对应的上限 $n _ { i }$ 值，然后取 $n _ { i }$ 的最大值, $\\operatorname* { m a x } \\left\\{ n _ { i } \\right\\} , i = 1 , 2 , . . . , l$ ,其中, $l$ 是数据库图像的个数。此处计算出香港理工大学近红外掌纹图像数据库[20]中3000 张图像上限 $n _ { i }$ 的最大值52。为了进一步对隶属度函数的参数值进行优化，此处对隶属度函数中的参数 $^ { c 1 , c 2 , c 3 }$ 中的标准差乘以一个变量，修改后隶属度函数的参数如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { c 1 = m - k 1 \\times \\delta / n } \\\\ { c 2 = m + k 2 \\times \\delta / n } \\\\ { c 3 = m + k 3 \\times \\delta / n } \\\\ { c 4 = X _ { \\mathrm { m a x } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（20 $\\boldsymbol { k } \\boldsymbol { 1 } , \\boldsymbol { k } \\boldsymbol { 2 } , \\boldsymbol { k } \\boldsymbol { 3 }$ 其中：n=52， 为待求变量。式(4)满足下列条件：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { c 1 > 0 } \\\\ { k 2 < k 3 } \\\\ { c 3 < c 4 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式(4)(5)推出",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { k 1 < n \\times m / \\delta } \\\\ { k 2 < k 3 } \\\\ { k 3 < n \\mathopen { } \\mathclose \\bgroup \\left( X _ { \\mathrm { m a x } } - m \\aftergroup \\egroup \\right) / \\delta } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（6）可知，每一张图像对应的 $k 1 , k 2 , k 3$ 上限可能不同，为了保证所有样本经过隶属度函数处理时，式(4)恒成立。在计算 $k 1$ 时，需要计算出数据库中每一幅图像对应的$k \\mathbf { 1 } _ { i } = \\lfloor n \\times m / \\delta \\rfloor$ ，然后取所有样本对应的 $k \\mathbf { l } _ { i }$ 最小值，即$\\operatorname* { m i n } \\{ k 1 _ { i } \\} , i = 1 , 2 . . . , l$ ，其中 $l$ 为所有数据库图像的个数。同理取得 $k 3$ 的下限值 $\\operatorname* { m i n } \\{ k 3 _ { i } \\} , i = 1 , 2 . . . , l$ ；此时得到的$k 1 , k 2 , k 3$ 的取值范围为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { 1 \\leq k 1 \\leq \\operatorname* { m i n } \\left\\{ k 1 _ { i } \\right\\} \\quad } & { i = 1 , 2 , . . . , l } \\\\ { 1 \\leq k 2 < k 3 } \\\\ { k 3 \\leq \\operatorname* { m i n } \\left\\{ k 3 _ { i } \\right\\} \\quad } & { i = 1 , 2 , . . . , l } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过本文掌纹结构增强算法，最终得到掌纹识别效果最好时的 $k 1 , k 2 , k 3$ 的取值,分别为12、27、50。因此，式(4)中，$k 1 , k 2 , k 3 , n$ 的取值分别为12、27、50、52。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/88f9db1d6ebf6f39dbdc8acac1ada7e64094b4a659acdf6677902e73f325db0e.jpg",
+        "img_caption": [
+            "图2隶属度函数"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文使用自定义的隶属度函数，并通过反锐化增强算法来增强掌纹结构。模糊反锐化增强算法[13]表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { I _ { e n h a n c e } } = \\pmb { I } _ { 0 } - \\lambda \\pmb { I _ { f u z z y } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：Ienhance 是增强后掌纹图像； $\\pmb { I } _ { 0 }$ 为分块增强处理后的掌纹图像； $\\pmb { I } _ { f u z z y }$ 为 $\\scriptstyle { I _ { 0 } }$ 经过隶属度函数模糊化后的图像矩阵； $\\lambda$ 是细节增强系数。综上所述，掌纹结构增强的步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)通过1.1节中的分块增强算法对掌纹图像处理，得到分块增强后的图像 ${ \\mathbf { } } I _ { b a c k }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)用sobel算子检测 $\\pmb { I _ { b a c k } }$ 中的掌纹纹理结构，对检测后的图像进行均值滤波去噪，去噪后的图像矩阵记为 $\\pmb { I } _ { s o b e l }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)通过自定义的隶属度函数对去噪后的图像矩阵 ${ \\pmb I } _ { s o b e l }$ 进行模糊化操作，得到模糊化后的图像矩阵，记为 $\\pmb { I } _ { f u z z y }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)使用式(8)对图像进行增强，得到增强后结果记为Ienhance",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)将Ienhance归一化到[0,255]，得到增强后掌纹结构图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用上文的增强算法，当 $\\lambda = 5 0$ 时，分块半径 $R = 9$ 时，得到增强后的掌纹图像如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8154b5165f05afea9740944511c7318095b3c4846772bc0cdc8a6959931357bb.jpg",
+        "img_caption": [
+            "图1掌纹结构增强"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过上述步骤得到的增强后的掌静脉图像（图1(d)）。观察图像图1(d)可知，本文算法在增强掌静脉结构的同时去除了近红外手掌图像中的掌纹结构。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 近红外手掌图像掌静脉结构增强",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 引导滤波理论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "引导滤波在图像处理时，可以在平滑图像的同时保持图像边缘信息，因此被广泛的运用在图像预处理中。在引导滤波原理中，假设在以 $k$ 为中心的像素、半径为 $r$ 的邻域窗口内,引导图像 $\\pmb { I }$ 和输出图像 $\\boldsymbol { z }$ 存在如下线性关系：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { Z } \\left( i \\right) = a _ { k } \\pmb { I } \\left( i \\right) + b _ { k } , i \\in \\Omega _ { r } \\left( k \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $a _ { k } , b _ { k }$ 是窗口的线性系数[16]。该线性模型表明，输出图像和引导图像的边缘信息具有相同的线性关系。线性系数可以通过输出图像 $\\boldsymbol { z }$ 和输入图像 $P$ 差值最小化求出，即通过最小化代价函数的值求出线性系数。代价函数定义如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE { \\big ( } a _ { k } , b _ { k } { \\big ) } = \\sum _ { i \\in \\Omega r ( k ) } \\left( \\left( a _ { k } I \\left( i \\right) + b _ { k } - p \\left( i \\right) \\right) ^ { 2 } + \\lambda _ { 0 } { a _ { k } } ^ { 2 } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lambda _ { 0 }$ 是规整化因子。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2基于边缘检测加权引导滤波的掌静脉结构增强",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由2.1节引导滤波内容可知，引导滤波在处理图像时，使用同一线性模型和归整化因子[17]对图像的边缘区域和光滑区域进行处理，在掌静脉结构增强时不能很好地突出掌静脉结构，而边缘检测加权引导滤波[17]对图像静脉结构区域和平滑区域进行了自适应处理，具有更好的边缘保护特性。因此，本文使用该引导滤波增强掌静脉结构。该引导滤波提供了一种改进的评价函数，如式(11)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE { \\big ( } a _ { k } , b _ { k } { \\big ) } = \\sum _ { i \\in \\Omega r ( k ) } \\left( { \\big ( } a _ { k } I { \\big ( } i { \\big ) } + b _ { k } - p { \\big ( } i { \\big ) } { \\big ) } ^ { 2 } + { \\frac { \\lambda _ { 0 } } { \\psi _ { _ { I ( k ) } } } } a _ { k } ^ { \\circ } { } ^ { 2 } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算改进后代价函数最小值，可求出 $a _ { \\boldsymbol { k } } , b _ { \\boldsymbol { k } }$ 的值。结果如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { k } = \\frac { u _ { I \\bullet p , r } \\left( k \\right) - u _ { I , r } \\left( k \\right) u _ { p , r } \\left( k \\right) } { \\sigma _ { I , r } ^ { 2 } \\left( k \\right) + \\displaystyle \\frac { \\lambda _ { 0 } } { \\psi _ { I \\left( k \\right) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { k } = u _ { p , r } \\left( k \\right) - a _ { k } u _ { I , r } \\left( k \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式（1）中的 $\\psi _ { I ( k ) }$ 是引导图像中像素点的权值，此函数定义如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { I ( k ) } = \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } \\frac { \\left| f \\left( k \\right) \\right| + \\gamma } { \\left| f \\left( i \\right) \\right| + \\gamma }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在式 $( 1 1 ) \\sim ( 1 4 )$ 中， $N$ 为半径为 $r$ 领域窗口中包含像素的个数； $f \\left( x \\right)$ 是指在 $x$ 处的像素值; $\\gamma$ 正则化因子； $u$ 是均值;（204号 $\\boldsymbol { a } _ { \\scriptscriptstyle k }$ 和 $\\boldsymbol { b } _ { \\scriptscriptstyle k }$ 是某个窗口的线性系数。式(12)(13)是改进后线性关系的常系数。因为一个像素点可能存在多个窗口中，所以将该像素点在多个窗口的线性系数的均值作为像素点的线性系数[17]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文使用的是近红外手掌图像，图像中包含掌纹结构和掌静脉结构信息，观察图3(a)可知，掌静脉主线条结构特点如下：掌静脉结构的线条比较宽，边缘比较明显，像素的灰度值较低，局部区域像素值的方差较大。掌纹结构特点如下：线条结构较窄，像素的灰度值值较大，在局部区域中像素值方差较小。因此，本文在掌静脉增强时，使用两次引导滤波处理：第一次使用较小的滤波半径来保存掌静脉结构，第二次使用较大的半径来去除掌纹信息。具体步骤如下（下文中使用的引导滤波是指边缘检测加权引导滤波）：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)使用自引导滤波对输入的手掌图像进行滤波处理，取$r = 2$ 和 $\\lambda _ { 0 } = 0 . 0 1$ ,得到滤波后的结果 ${ \\pmb q } _ { 1 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)将 ${ \\pmb q } _ { 1 }$ 作为引导滤波的引导图像和输入图像，选取$r = 1 6$ 和 $\\lambda _ { 0 } = 0 . 0 1$ ，进行自引导滤波处理后，得到平滑掌纹后的图像q2",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)通过线性增强模型 $\\pmb { I } ^ { ' } = \\left( \\pmb { q } _ { 1 } - \\pmb { q } _ { 2 } \\right) \\cdot \\pmb { t } + \\pmb { q } _ { 2 }$ 对掌静脉结 构进行增强，得到增强后的掌静脉图像 $\\boldsymbol { I ^ { \\prime } }$ 。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d）重复步骤 $\\mathbf { a } ) { \\sim } \\mathbf { c } ,$ ，进一步增强掌静脉结构。此时，输出图像即为掌静脉增强后的图像。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述步骤中， $r$ 为滤波半径， $t$ 是掌静脉结构增强的系数；取 $\\lambda _ { 0 } = 0 . 0 1 , t = 5$ 。按照上述步骤对掌静脉进行增强，结果如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9afb920bd3beaf29b7aa052fd9cca15bbe9432437e69a5ec1d6a46f389234cea.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b6716e9ad40811e648d56142610ee696cc60caebb244a49ca326a24ccfc1771.jpg",
+        "img_caption": [
+            "图3掌静脉结构增强"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过上述步骤得到增强后的掌静脉图像（图3(d)）。观察图3(d)可知，本文算法在增强掌静脉结构的同时去除了近红外手掌图像中的掌纹结构。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 融合识别 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图像融合有三种方式：第一种为像素级图像融合；第二种是特征级图像融合；第三种是决策级图像融合。本文通过二级二维小波分解[17]提取图像掌纹和掌静脉低频分量，然后进行特征融合，属于图像融合中第三种决策级图像融合。且经过二级二维小波分解后的低频分量保持了图像的主要全局特征，此时，图像矩阵的大小为 $3 2 ^ { * } 3 2$ 。设 $A \\cdot B$ 为大小为 $\\mathrm { { \\mathbf { M } ^ { * } N } }$ 的两个矩阵，则相似系数 $R _ { s }$ 如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { s } = { \\frac { \\displaystyle \\sum _ { m = 0 } ^ { M - 1 } \\sum _ { n = 0 } ^ { N - 1 } [ A ( m , n ) - { \\overline { { A } } } ] [ B ( m , n ) - { \\overline { { B } } } ] } { \\displaystyle \\sqrt { \\sum _ { m = 0 } ^ { M - 1 } \\sum _ { n = 0 } ^ { N - 1 } [ A ( m , n ) - { \\overline { { A } } } ] ^ { 2 } \\sum _ { m = 0 } ^ { M - 1 } \\sum _ { n = 0 } ^ { N - 1 } [ B ( m , n ) - { \\overline { { B } } } ] ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在识别过程中，阈值是对数据库中500个样本中3000 幅  \n图像进行训练得到一个识别阈值 $R _ { t h r e s h o l d }$ ；在测试时，选取另  \n外3000 个样本作为测试样本，求出第 $i$ 个样本的第 $j$ 个图像  \n与第 $k$ 个样本的第1张图像的相似系数 $R _ { s } ( i , j , k )$ ；根据识别  \n阈值和相似系数大小关系定义正确识别和错误识别，如下：正确识别为 $R _ { s } \\left( i , j , k \\right) \\geq R _ { t h r e s h o l d }$ ，且满足条件： $\\mathbf { i } { = } \\mathbf { k }$ 。识别率（correct recognition rate,CRR）定义如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "识别率 $\\ c =$ 正确识别图像个数/图像识别总个数",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文使用文献[13提供的基于图像质量的掌静脉掌纹自适应权值的融合识别方法，加权后的相似系数表达式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R _ { s } ^ { ' } \\left( i \\right) = w _ { 1 } \\left( i \\right) R _ { v e i n } \\left( i \\right) + \\left( 1 - w _ { 1 } \\left( i \\right) \\right) R _ { p r i n t } \\left( i \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { \\mathrm { 1 } } = 1 / 3 \\sum _ { m = 1 } ^ { 3 } \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\left( L V _ { \\mathrm { m } } / \\left( L V _ { m } + L P _ { m } \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\right) \\aftergroup \\egroup \\aftergroup \\egroup \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $i \\in \\left( 1 , 2 , 3 , . . . , G \\right)$ ; $w _ { 1 }$ 是掌静脉相似系数的权值。识别阈值为 $R _ { t h r e s h o l d } = \\operatorname* { m i n } \\left( R _ { s } ^ { ' } \\left( i \\right) \\right) ; L V _ { 1 } , L V _ { 2 } , L V _ { 3 }$ ，是衡量掌静脉图像质量的三个指标。 $\\cal L P _ { 1 } , L P _ { 2 } , L P _ { 3 }$ 是衡量掌纹图像质量的三个指标。 $R _ { \\nu e i n } \\left( i \\right)$ 是训练样本中掌静脉的相似系数的最小值； $R _ { \\mathrm { \\it { p r i n t } } } ( i )$ 是训练样本中掌纹的相似系数的最小值[13]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 实验过程与结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1数据库选择",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文使用的是香港理工大学提供的近红外掌纹图像数据库[18],该数据库提供了500个样本，每个样本12 幅图像，总共6000幅图像。数据库经过感兴趣区域（ROI）提取，图像大小为 $1 2 8 ^ { * } 1 2 8$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2掌纹增强和掌纹识别实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "测试选取不同的分块半径和增强系数，得到掌纹增强图像如图4所示。不同分块半径和增强系数下，掌纹增强后的识别率如表1所示。在不同分块半径下，将本文掌纹的识别率与文献[13]进行对比，得到的识别率对比图，如图5所示。图中蓝色（见电子版）为本文算法，红色为文献[13]算法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3掌静脉增强和掌静脉识别实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在选取不同滤波半径 $( r _ { 1 } , r _ { 2 } )$ 和增强系数 $t$ ,得到掌静脉增强后的图像，如图6所示。不同滤波半径 $( r _ { 1 } , r _ { 2 } )$ 和增强系数$t$ 下，掌静脉增强后的识别率如表2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/43eace88baf93c59d34bf1c8a63c715d37bc6e73d0efbd2537c7c77ce49aa38c.jpg",
+        "img_caption": [
+            "图4不同分块半径和增强系数的掌纹结构增强图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b32ea5e5a78330be7e7e1fd7f9d99e17720c50722ea541257334808dc34684e0.jpg",
+        "img_caption": [
+            "图5不同半径下掌纹图像识别率对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/53a07548558bfe38f1d5d46f7e43a7e1dbf757cefbcf0ab67b7705628ec6c261.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8422394e86dd080cd82bfc3a5ddb056db3088d39d2ce2b78ad27cf4901c00170.jpg",
+        "img_caption": [
+            "图6不同滤波窗口和增强系数的掌静脉增强图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7e0674e042d21faa4bad9bd67cfe57c53a448cb63cb52668d4189f706b0c08e.jpg",
+        "table_caption": [
+            "表1不同分块半径和增强系数的掌纹识别率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">R</td><td colspan=\"5\"></td><td></td></tr><tr><td></td><td>10</td><td>20</td><td>30</td><td>40</td><td>50</td></tr><tr><td rowspan=\"2\">3</td><td>Rthreshold</td><td>0.5916</td><td>0.5897</td><td>0.5777</td><td>0.5725</td><td>0.5736</td></tr><tr><td>CRR</td><td>92.27%</td><td>92.31%</td><td>90.94%</td><td>89.72%</td><td>90.26%</td></tr><tr><td rowspan=\"2\">5</td><td>Rthreshold</td><td>0. 5776</td><td>0.5757</td><td>0.5781</td><td>0.5830</td><td>0.5772</td></tr><tr><td>CRR</td><td>94.69%</td><td>94.75%</td><td>95. 41%</td><td>95.06%</td><td>94.70%</td></tr><tr><td rowspan=\"2\">7</td><td>Rthreshold</td><td>0.5838</td><td>0.5744</td><td>0.5495</td><td>0.5485</td><td>0.5399</td></tr><tr><td>CRR</td><td>94. 47%</td><td>93. 46%</td><td>94.08%</td><td>93.89%</td><td>94.53%</td></tr><tr><td rowspan=\"2\">9</td><td>Rthreshold</td><td>0.5866</td><td>0.5882</td><td>0.5812</td><td>0. 5817</td><td>0.5828</td></tr><tr><td>CRR</td><td>94.29%</td><td>93.13%</td><td>94. 74%</td><td>95.31%</td><td>95.68%</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b00187db18047e59a6cb0f5e4261bd4b95bf1be22edebf1b4ba0f0a6a955a1cc.jpg",
+        "table_caption": [
+            "表2不同滤波窗口和增强系数的掌静脉识别率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>(r1,r2)</td><td colspan=\"5\">t</td></tr><tr><td></td><td></td><td>5</td><td>10</td><td>15</td><td>20</td></tr><tr><td>(2,8)</td><td>Rthreshold</td><td>0.6315</td><td>0.6930</td><td>0.7759</td><td>0.8131</td></tr><tr><td></td><td>CRR</td><td>98.48%</td><td>96.23%</td><td>88.81%</td><td>83.84%</td></tr><tr><td>(4,8)</td><td>Rihreshold</td><td>0.6616</td><td>0.6503</td><td>0.7379</td><td>0.7933</td></tr><tr><td></td><td>CRR</td><td>99.05%</td><td>98.45%</td><td>96.21%</td><td>92.45%</td></tr><tr><td>(2,16)</td><td>Rthreshold</td><td>0.6559</td><td>0.7653</td><td>0.8252</td><td>0.8436</td></tr><tr><td></td><td>CRR</td><td>99.28%</td><td>96.43%</td><td>94.01%</td><td>91.52%</td></tr><tr><td>(4,16)</td><td>Rthreshold</td><td>0.6751</td><td>0.7558</td><td>0.8251</td><td>0.8539</td></tr><tr><td></td><td>CRR</td><td>99.02%</td><td>97.83%</td><td>93.78%</td><td>90.39%</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.4不同隶属度函数识别实验",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不同的隶属度函数对图像模糊效果不同，导致模糊反模糊锐化增强算法对掌纹结构的增强效果也有所不同，下文将与传统常用的隶属度函数进行比较。由表1可知，当 $R = 9$ ，$\\lambda = 5 0$ 时，掌纹识别率最高。此处，在 $R = 9$ ， $\\lambda = 5 0$ 条件下，比较不同隶属函数对掌纹结构增强的影响。识别率效果如表2所示。四种隶属度函数分别为本文隶属度函数(proposedmembershipfunction)以及文献[19]提供的S型隶属度函数(S-membershipfunction)、正弦隶属度函数(sine-membershipfunction)、改进的正弦隶属度函数(improved sine-membershipfunction)。不同隶属函数下掌纹结构增强后的识别率如表3所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4618534e559b688be05c0e6d5a6fafcab1377c4f02477795f5c27b8fa03eedd9.jpg",
+        "table_caption": [
+            "表3不同隶属函数下掌纹结构增强后的识别率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Membership function</td><td>CRR</td></tr><tr><td>Proposed Membership Function</td><td>95.68%</td></tr><tr><td>S-Membership Function</td><td>95.03%</td></tr><tr><td>Sine-Membership Function</td><td>94.13%</td></tr><tr><td>Improved Sin-Membership Function</td><td>92.88%</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.5掌纹和掌静脉融合识别实验 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，当 $R = 9$ ， $\\lambda = 5 0$ 时，掌纹结构增强效果最好。由表2可知，当 $( r _ { 1 } , r _ { 2 } ) = ( 2 , 1 6 ) , t = 5$ 时，掌静脉结构增强效果最好。所以，在此条件下进行融合。使用3.1节提出的自适应权值的掌纹掌静脉融合识别方法，选取掌纹、掌静脉增强效果最好的系数时，获得的识别阈值为0.6135，自适应掌纹掌静脉融合识别率为 $9 9 . 8 1 \\%$ ，此时，对应的掌纹、掌静脉及融合识别率如表4所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff27ab39c43984a43393c971901af49bdcfc7508fbc6427842a8335e4d9d339b.jpg",
+        "table_caption": [
+            "表4掌纹、掌静脉及融合识别率对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>掌纹 识别</td><td>掌静 脉识别</td><td>融合 识别</td></tr><tr><td>参数</td><td>(R,2)</td><td>(r,r2,t)</td><td>(R,2,r,r2,t)</td></tr><tr><td>参数值</td><td>(9,50)</td><td>(2,16,5)</td><td>(9,50,2,16,5)</td></tr><tr><td>识别率</td><td>95.68%</td><td>99.28%</td><td>99.81%</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.6与单模掌静脉识别算法对比",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "文献[20\\~22]是研究单模态掌静识别，但是与本文使用相同的数据库，因此，本文和这些算法进行了识别效果的对比，识别率对比如表5所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c9cccb94f2ba79d856d25cdd3514bcd32cffeca328d98725ccb16fc69a569e1.jpg",
+        "table_caption": [
+            "表5本文与单模态掌静脉识别率对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法</td><td>CRR</td></tr><tr><td>本文算法</td><td>99.81%</td></tr><tr><td>文献[20]-SIFT 算法</td><td>95.60%</td></tr><tr><td>文献[21]算法</td><td>99.12%</td></tr><tr><td>文献[22]算法</td><td>99.12%</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.7 时间性能分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文实验在MATLABR2014a上进行，计算机配置为Corei52.50GHzCPU/4GBRAM。本文的掌纹掌静脉融合识别算法的运行时间计算公式的定义如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { _ { t o t a l } } = T _ { _ { \\nu _ { - } e } } + T _ { _ { \\nu _ { - } w } } + T _ { _ { p _ { - } e } } + T _ { _ { p _ { - } w } } + T _ { _ { c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其中： $T _ { \\nu _ { - } e }$ 是掌静脉结构增强时间; $T _ { \\nu _ { - } w }$ 是掌静脉小波特征提取时间； $T _ { p _ { - } e }$ 是掌纹结构增强的时间； $T _ { p _ { - ^ { w } } }$ 是提取掌纹小波特征的时间； $T _ { c }$ 是掌纹掌静脉融合识别时间； $T _ { t o t a l }$ 是掌纹掌静脉增强、特征提取、融合识别三个阶段的总时间。在$R = 9 , \\lambda = 5 0$ ， $( r _ { 1 } , r _ { 2 } ) = \\left( 2 , 1 6 \\right) , t = 5$ 时，掌纹掌静脉自适应权值融合时，识别效果最好，本文也在此条件下，从样本中选取500幅图像进行识别并计算出平均识别时间，如表6所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5de27f56d2fdbb3ffdf8e7c2a4b93e8c549d05da85a73152d71d83be15911be.jpg",
+        "table_caption": [
+            "表6掌纹掌静脉自适应权值融合识别时间"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>阶段</td><td>运行时间/s</td></tr><tr><td>Tpe</td><td>0.119448</td></tr><tr><td>T p_w</td><td>0.079889</td></tr><tr><td>T_e</td><td>0.168085</td></tr><tr><td>Tv_w</td><td>0.076189</td></tr><tr><td>T</td><td>0.475991</td></tr><tr><td>Total</td><td>0.919602</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 实验对比和分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于对一幅红外手掌图片中的掌纹、掌静脉进行增强并进行特征融合的论文仅有一篇，即文献[13]，所以本文与该文献作对比。同时，本文还选择了与本文使用相同数据库的单模态掌静脉识别算法进行对比。在文献[13]中，使用反锐化掩模对掌纹结构进行增强，虽然可以在去噪的同时增强掌纹纹理结构，但是不能很好地突出掌纹纹理结构。而本文通过定义一个改进的隶属度函数，将模糊理论与反锐化掩模结合，在去噪的同时能更好地突出掌纹纹理结构。由表2可知，使用本文定义隶属度函数在掌纹增强时，识别率最高。分块算法增强掌纹结构信息时，分块半径的大小会影响掌纹结构质量和图像的噪声，分块较小时留下来的掌静脉信息较少，而掌纹的对比度不高，不利于增强掌纹结构；分块较大时，掌纹结构更加突出，而掌静脉等不必要的噪声信息较多；细节增强系较小时，掌纹结构增强效果不明显，细节增强系较较大时，引入过多不必要的的噪声信息。通过调节参数 $R , \\lambda$ 进行实验，获取掌纹结构增强效果最好且引入较小的噪声信息的参数值，如表1所示。通过表1可知，在 $R = 9$ ， $\\lambda = 5 0$ 时，掌纹的识别率达到最高值，其值为 $9 5 . 6 8 \\%$ ，比文献[13]最高识别率 $9 4 . 0 0 \\%$ 高出 $1 . 6 8 \\%$ 。综上所述，可知，本文的掌纹增强算法更优。在文献[13]中，通过引导滤波对掌静脉图像进行处理时，使用同一线性模型和归整化因子对图像的边缘区域和光滑区域进行处理，在去噪的同时保留掌静脉结构信息，但并没有更好地突出掌静脉结构信息。而本文使用了边缘检测加权引导滤波，该方法对图像静脉结构区域和平滑区域进行了自适应处理，具有更好的边缘保护特性。通过表2数据可知，本文的掌静脉增强算法在滤波窗口$( r _ { 1 } = 2 , r _ { 2 } = 1 6 )$ 取得最优识别率 $9 9 . 2 8 \\%$ 略高于文献[13]中最优值 $9 9 . 2 3 \\%$ ，因此，本文掌静脉增强算法更优。由于本文的掌纹、掌静脉增强算法要好于文献[13]，所以与文献[13]使用相同的自适应权值掌纹掌静脉融合识别方法时，本文的识别效果也会更好。由实验可知，本文融合后的识别率为 $9 9 . 8 1 \\%$ ，大于文献[13]中融合识别率 $9 9 . 6 9 \\%$ 。文献[20\\~22]是使用与本文相同数据库不同方法的单模态掌静脉识别，与单模态掌静脉识别算法相比，本文在一幅手掌图像上同时提取了掌纹和掌静脉信息，具有更多的特征信息。理论上，提取图像的特征信息越多，识别效果也会更好。由表5可知，本文的算法的识别率 $9 9 . 8 1 \\%$ 要高于其他三种单模态掌静脉识别算法的识别率。综上所述，可知本文的掌纹掌静脉融合识别算法更好，更具有实用性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文针对单幅近红外掌静脉掌纹融合识别算法的不足，提出了一种改进的单幅近红外手掌图像掌纹掌静脉融合识别算法。首先，为了突出分块模型去除掌静脉后的掌纹结构，采用自定义的隶属度函数对掌纹结构图像进行模糊化，再通过模糊理论与反锐化掩膜算法结合，突出掌纹结构信息；其次，使用了边缘检测加权引导滤波对掌静脉图像进行增强，因该引导滤波对图像静脉结构区域和平滑区域进行了自适应处理，具有更好的边缘保护特性，可以更好地突出掌静脉结构信息；最后，对改进后的掌纹、掌静脉增强算法进行自适应融合。结果表明，单特征掌静脉识别率达到了 $9 9 . 2 8 \\%$ ，提高了 $0 . 0 5 \\%$ ；掌纹识别率达到了 $9 5 . 6 8 \\%$ ，提高了 $1 . 6 8 \\%$ ；融合后的识别率达到了 $9 9 . 8 1 \\%$ 提高了 $0 . 1 2 \\%$ ；与使用相同数据库的单模态识别相比，本文的识别率也是最高的。因此，本文算法识别率更高，更具有实用性。由于sobe1算子在检测时对倾斜方向的检测不敏感,所以下一步研究工作可以对边缘检测算子进行改进，提高算法的普适性和鲁棒性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Haghighat M,Zonouz S,Abdel-Mottaleb M.CloudID: trustworthy cloudbased and cross-enterprise biometric identification [J]. Expert Systems with Applications,2015,42 (21): 7905-7916.   \n[2]Huang L,Tang J,Ling C,et al. Pattern recognition for partial discharge based on multi-feature fusion technology[J]. Gaodianya Jishu//high Voltage Engineering,2015,41 (3): 947-955.   \n[3]夏军，裴东，王全州，等．融合Gabor 特征的局部自适应三值微分模式 的人脸识别[J].激光与光电子学进展,2016(11):110-116.   \n[4]RaghavendraR,Raja KB,Busch C.Exploring the usefulness of light Field cameras for biometrics: an empirical study on face and iris recognitin [J].   \nIEEE Trans on Information Forensics& Security,2016,11(5): 922-936. 」Λuiiai A,ΛwuugC. auauiuiaiJD fingerprint identification [J].IEEE Trans on Pattern Analysis & Machine Intelligence,2015,37 (3): 681-696.   \n[6] 徐天扬，惠晓威，林森．基于小波灰度曲面的近红外手指静脉识别方法 [J]．激光与光电子学进展,2016(4):88-96.   \n[7] 张善文，张晴晴，张云龙，等．加权自适应CS-LBP 与局部判别映射相 结合的掌纹识别方法 [J].计算机应用研究,2017,34(11):3482-3485.   \n[8]王一丁，王聪聪．基于多模板融合的异质手背静脉身份识别[J].计算 机应用研究,2017,34(3):928-932.   \n[9] 张祺深，周雅，胡晓明，等．基于三维点云匹配的手掌静脉识别[J]. 光学学报,2015,35(1):0115005.   \n[10] Gupta A, Malage A, More D,et al. Feature level fusion of face,palm vein and palm print modalities using discrete cosine transform [C]// Proc of IEEE International Conference on Advances in Engineering and Technology Research. 2015: 1-5.   \n[11]桑海峰，武红娇，何大阔.手形、掌纹和掌静脉多特征融合识别[J].仪 器仪表学报,2015,36(6):1356-1362.   \n[12]LinCL,Wang SH,ChengHY,etal.Bimodal biometric verification using the fusion of palmprint and infrared palm-dorsum vein images [J]. Sensors, 2015,15 (12): 31339-31361.   \n[13]李俊林．基于单幅近红外手掌图像的掌静脉和掌纹融合识别方法研究 [D]．合肥：安徽大学,2017.   \n[14] Zhou Y, Kumar A. Human identification using palm-vein images [J]. IEEE Trans on Information Forensics & Security,2011,6(4):1259-1274.   \n[15]王艳霞，阮秋琦．一种新的掌纹图像预处理方法[J]．中国图象图形学 报,2008,13 (6): 1115-1122.   \n[16]王新磊，何凯，王晓文．引导滤波算法的CUDA 加速实现[J]．吉林大 学学报：信息科学版,2016,34(1):104-110.   \n[17]曹伟，王华彬，石军，等．基于边缘检测加权引导滤波的指静脉图像增 强算法[J].激光与光电子学进展,2017(2):166-174.   \n[18] Polyu.Multispectralpalmprint database[DB/OL].[2015-06-24]. http://www.comp. polyu. edu. hk/biometrics/MultispectralPalmprint/MSP. htm.   \n[19]舒金龙，于振红，朱振福．一种改进的红外图像模糊增强方法[J]．系 统工程与电子技术,2005,27(6):957-959.   \n[20] Pan M, Kang W.Palm vein recognition based on three local invariant feature extraction algorithms [M// Biometric Recognition.Berlin: Springer, 2011: 116-124.   \n[21]徐笑宇，姚鹏．基于HOG 与改进的 SVM的手掌静脉识别算法[J].计 算机工程与应用,2016,52(11):175-180.   \n[22] Lee JC.A novel biometric system based on palm vein image [J].Pattern Recognition Letters,2012,33 (33):1520-1528. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,243 @@
+# 基于CMIP5的中国区域气溶胶变化及其对降水的影响 ①
+
+赵洪飞1,²，杨怡¹,²，董嘉琪²，李玉珍1,²，李龙辉1,3(1．中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011;2．中国科学院大学,北京100049；3．南京师范大学地理科学学院,江苏南京210023)
+
+摘要：基于第5次国际耦合模式比较计划(CMIP5)提供的气溶胶光学厚度(AOD)数据和气溶胶单因子历史试验降水数据,采用线性趋势分析、相关分析、经验正交分解(EOF)方法,从时间和空间维度上分析了自工业革命以来中国 AOD的变化及其对降水的影响。1860—2000 年,中国区域的 AOD 整体呈显著增加的趋势( $P < 0 . 0 0 1$ ），AOD的增加趋势以胡焕庸线为界呈现出“东高西低”的空间分布格局,并在1945年以后AOD的增加趋势！ $( 0 . 3 8 0 7 \cdot$ $\left( 1 0 0 \mathrm { a } \right) ^ { - 1 }$ ]显著大于1945年以前的趋势 $\left[ 0 . 0 2 9 \ 0 \cdot \ ( 1 0 0 \mathrm { { a } ) \ ^ { - 1 } } \right]$ 。在气溶胶单因子驱动试验中，中国有 $8 9 . 1 \%$ 区域的降水呈显著减少的趋势( $\textstyle P < 0 . 0 0 1 { \mathrm { ~ . ~ } }$ ),其中东南部、四川盆地以及青藏高原东南部是降水减少最明显的区域,西北地区降水减少趋势较弱，并在1962年以后降水的减少趋势 $\left( 1 1 8 . 0 4 \mathrm { ~ m m } \cdot \left( 1 0 0 \mathrm { a } \right) ^ { - 1 } \right)$ 显著大于1962年以前的趋势（20 $\left[ 2 6 . 6 7 \ \mathrm { m m } \cdot \left( 1 0 0 \mathrm { a } \right) ^ { - 1 } \right]$ 。气溶胶主要通过抑制弱降水显著降低了降水事件发生的频率与降水强度,降低速率分别为 $3 . 1 6 0 \mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ 1 0 0 a ~ ) ~ } ^ { - 1 } \mathrm { ~ , ~ } 0 . 1 6 2 \mathrm { ~ 4 ~ } \mathrm { ~ m m ~ } \cdot \mathrm { ~ d ~ } ^ { - 1 } \cdot \mathrm { ~ ( ~ 1 0 0 a ~ ) ~ } ^ { - 1 }$ 。研究工业革命以来气溶胶对降水的气候效应,为更好的应对区域气候变化问题提供科学依据。
+
+关键词：CMIP5；气溶胶光学厚度(AOD)；降水变化；经验正交分解(EOF）；中国
+
+大气气溶胶是由大气介质和混合于其中的固态和液态颗粒物组成的体系，主要包括以人为排放为主的硫酸盐、黑碳、有机碳、硝酸盐等气溶胶和自然排放的沙尘、海盐气溶胶[1]。已有研究[2]表明,虽然大气中气溶胶含量很少，但其对大气中发生的众多物理化学过程都有着重要影响，是影响区域乃至全球气候变化的重要因子之一。
+
+工业革命以来，人类活动的增强造成了大量的气溶胶排放，在1850一1980年，中国区域的总人为气溶胶呈现出增加的趋势[3]。近年来,随着气溶胶排放的增多，气溶胶的气候效应问题引起了国内外学者广泛的关注。气溶胶可以通过改变云的辐射和光学特性，对全球及区域气候产生非常显著的影响，从而改变了大气中降水形成的物理过程。气溶胶粒子作为云凝结核(CCN)和冰核(IN），在云雨形成和增长过程中起着重要作用，不但可以导致降水量变化,而且可以改变云雨的类型,从而影响降水(4)
+
+当气溶胶活化成CCN时，其浓度的增加可以使云滴浓度增加，若水汽含量保持不变，云滴的尺度将变小，云滴在大气中会更加稳定，不易相互碰撞形成降水,从而延长了云的寿命,抑制了降水的形成[5-6]。已有研究表明，气溶胶与降水之间存在着一种正反馈机制，即气溶胶增加导致降水减少，从而使气溶胶更多，并且气溶胶的增多可能是中国降水减少的主要原因[7]，随着中国区域气溶胶排放的增多，很多地区的降水呈现出减少的趋势[8-10] O
+
+在中国，关于工业革命以来气溶胶变化及其对降水影响的研究较少。由于受数据的限制，已有的研究大多数是基于1960年以后气象数据反演得出的结果，且研究区域小、时间短，分析所用的降水数据大多是观测降水数据，很难分析出长期的气溶胶降水效应[11-13]。气溶胶对降水影响的研究需要大范围长期的资料[14],第5次国际耦合模式比较计划（CMIP5）为研究长时间序列的气溶胶及气候变化提供了可靠的数据来源，其中气溶胶单因子历史试验为检测气溶胶的气候效应提供了重要的科学依据。本研究基于CMIP5多模式历史试验提供的气溶胶光学厚度（AOD）和气溶胶单因子历史试验降水数据，采用线性趋势分析、相关分析和基于场域的经验正交分解(EOF)方法，并结合弱降水日数、强降水日数、降水日数、弱降水平均日降水强度、强降水平均日降水强度、平均日降水强度6个降水指数，从时间和空间上，分析了1860—2000年中国区域气溶胶的时空变化特征，以期揭示中国气溶胶排放对于降水的气候效应，为工业革命以来气溶胶排放及其对区域气候、生态环境影响的相关研究工作提供重要的科学依据。
+
+# 数据与方法
+
+# 1.1数据
+
+本研究选用了CMIP5提供的AOD历史试验数据、气溶胶单因子强迫（AA)历史试验降水数据以及用于评估CMIP5对中国气溶胶变化模拟能力的美国国家航空和航天局(NASA)提供的AOD数据。
+
+参与CMIP5试验的50多个模式中，大多数模式均能提供考虑所有外在影响因子（自然因素和人为因素)的ALL历史试验，但是能够同时提供AOD历史试验数据和仅考虑气溶胶变化的单因子控制变量试验（AA历史试验）的只有CESM1-CAM5、CSIRO-MK3.6、GFDL-CM3、GISS-E2-H、GISS-E2-R、IPSL-CM5-LR、NorESM1-M7 个模式（http://cmip-pcmdi.llnl.gov/cmip5/）。将所选的CMIP5模式数据时间跨度统一为1860一2005年，并且都应用双线性插值方法将数据内插到统一空间分辨率 $0 . 5 ^ { \circ } \times$ $0 . 5 ^ { \circ }$ 的格网上，具体试验信息如表1所示。
+
+用于评估CMIP5对中国气溶胶变化模拟能力的AOD数据是由NASA发布的MODISLevel3，波段为 $5 5 0 \ \mathrm { n m }$ 的气溶胶数据集（MOD08），时间跨度为2000年3月至2005年12月，空间分辨率为 $1 ^ { \circ } \times$ $1 ^ { \circ }$ 的月值 AOD 数据(https://search.earthdata.nasa.gov）。
+
+# 1.2方法
+
+1.2.1模式评估研究表明,CMIP5气候模式能够较好地模拟出中国的降水[15],但是在使用气候模式进行气溶胶单因子驱动试验之初，需要使用一些具有相对意义的复合统计量模式对区域气溶胶变化模拟能力进行评估。本研究采用综合评估模式模拟能力的空间技巧评分指数(SS)和用于描述模拟场上每一个点的时间序列与该点观测时间序列年际变率偏差的时间技巧评分指数 $( M 2 ) ^ { [ 1 6 - 1 7 ] }$ ,以 NASA 提供的AOD数据为真值，评估CMIP5全球气候模式对中国气溶胶变化的模拟能力，为接下来的研究提供可靠的数据支撑。
+
+表1CMIP5多模式试验信息  
+Tab.1Experimental information of CMIP5 models   
+
+<html><body><table><tr><td rowspan="3">模式</td><td colspan="2">历史试验</td></tr><tr><td>ALL</td><td>AA</td></tr><tr><td>气溶胶光学厚度(AOD)</td><td>降水</td></tr><tr><td>GFDL-CM3</td><td>√</td><td>√</td></tr><tr><td>GISS-E2-H</td><td>√</td><td>√</td></tr><tr><td>GISS-E2-R</td><td>√</td><td>√</td></tr><tr><td>CESM1-CAM5</td><td>√</td><td>√</td></tr><tr><td>CSIRO-MK3.6</td><td>√</td><td>√</td></tr><tr><td>NorESM1-M</td><td>√</td><td>√</td></tr><tr><td>IPSL-CM5-LR</td><td>√</td><td>√</td></tr></table></body></html>
+
+注：ALL历史试验为综合考虑自然因素和人为因素变化影响下进行的试验;AA历史试验为仅考虑气溶胶变化影响下进行的试验。
+
+计算空间技巧评分（SS），当评估场与观测场的空间结构完全一致时， $S S$ 值为1，如果评估场与观测场差异较大，SS值将低于 $_ { 0 , S S }$ 值越接近1，说明评估资料的空间精度越高。计算公式如下所示：
+
+$$
+S S = 1 - \frac { M S E ( M , O ) } { M S E ( \bar { O } , O ) }
+$$
+
+式中： $M S E ( \bar { O } , O )$ 为实测数据均值和实测数据之间的空间均方误差； $M S E ( M , O )$ 为模式数据和实测数据之间的空间均方误差，计算公式如下所示：
+
+$$
+M S E ( \mathrm {  ~ M , O ~ } ) \ = \frac { 1 } { N } { \sum _ { k = 1 } ^ { N } } ( \ M _ { k } - O _ { k } ) \ ^ { 2 }
+$$
+
+式中： $M _ { k }$ 和 $O _ { k }$ 分别为CMIP5多模式所有外强迫历史试验AOD数据和AOD真值数据; $N$ 为空间格点数。
+
+计算时间技巧评分指数（M2）， $M 2$ 用于评价模拟气候场上每一个点的时间序列相对于该点上观测时间序列的月际变率的差值，主要以标准差来衡量。当模拟年际变率与观测年际变率相等时， $M 2 = 0$ 表明模拟结果最好， $M 2$ 值越大时，说明模拟变率与观测变率差的越多，模拟效果越差。计算公式如下所示：
+
+$$
+M 2 = \left( { \frac { S T D _ { \mathrm { { m } } } } { S T D _ { \mathrm { { o } } } } } - { \frac { S T D _ { \mathrm { { o } } } } { S T D _ { \mathrm { { m } } } } } \right)
+$$
+
+式中： $S T D$ 表示的是模式和观测变量的标准差。
+
+采用最小二乘法来分析AOD、气溶胶单因子驱动下降水的变化趋势，回归系数 $b$ 表示变量 $x$ 的趋势倾向， $b > 0$ ，说明趋势是上升的， $b < 0$ ，说明趋势是下降的。
+
+$$
+b = { \frac { \displaystyle \sum _ { i = 1 } ^ { n } x _ { i } t _ { i } - { \frac { 1 } { n } } \left( \sum _ { i = 1 } ^ { n } x _ { i } \right) \left( \sum _ { i = 1 } ^ { n } t _ { i } \right) } { \displaystyle \sum _ { i = 1 } ^ { n } t _ { i } ^ { 2 } - { \frac { 1 } { n } } \left( \sum _ { i = 1 } ^ { n } t _ { i } \right) ^ { 2 } } }
+$$
+
+式中： $x _ { i }$ 为样本量为 $n$ 的变量; $t _ { i }$ 为 $x _ { i }$ 所对应的时间。
+
+1.2.2时空变化基于场域的 EOF分析方法可以将变量场的时空结构分离，以获取变量场变化的区域特征，用尽可能少的模态表达出主要的时间和空间变化，实现在时间、空间两个维度上对变量场变化进行更为细致的研究，用以分析AOD、气溶胶单因子驱动下降水的时空变化特征。EOF将观测数据分解成正交的空间矩阵 $V$ 与正交的时间矩阵 $T$ 乘积之和，空间矩阵 $V$ 可由公式(5)计算得出，时间矩阵 $T$ 由公式(6)计算得出。计算公式如下所示：
+
+$$
+C = { X X } ^ { T } = { V T T } ^ { T } V ^ { T } = V \wedge V ^ { \mathrm { { T } } }
+$$
+
+$$
+\boldsymbol { T } = \boldsymbol { V } ^ { T } \boldsymbol { X }
+$$
+
+式中： $X = (  x _ { m n } ) = (  x _ { i } , x _ { 2 } , \cdots , x _ { n } ) $ 。 $x _ { 1 } , x _ { 2 } , \cdots , x _ { n }$ 为维数是 $\mathbf { \nabla } _ { m }$ 的列向量。
+
+空间模态的贡献率 $R _ { k }$ 可由公式(7)计算得出：
+
+$$
+R _ { k } = { \frac { \lambda _ { k } } { \displaystyle \sum _ { i = 1 } ^ { m } \lambda _ { i } } } , k = 1 , 2 , \cdots , p ( p < m )
+$$
+
+式中： $\lambda _ { k }$ 为 $\boldsymbol { X } \boldsymbol { X } ^ { T }$ 的特征值; $\mathbf { m }$ 为列向量的维数。
+
+在进行结果分析前还需要检验分解出来的空间模态是否有物理意义，本文采用特征值误差范围的方法来进行检验(18]。当相邻的特征值 $\lambda _ { k } \setminus \lambda _ { k + 1 }$ 满足公式(8)时，就认为这两个特征值所对应的空间模态是有意义的。
+
+$$
+\lambda _ { k } - \lambda _ { k + 1 } \geqslant \left( { \frac { 2 } { n } } \right) ^ { \frac { 1 } { 2 } }
+$$
+
+式中： $n$ 为行向量的维数。
+
+空间模态的贡献率越大，越能反映变量场的空间分布特征，空间模态数值的绝对值越大，说明其随着时间的变化幅度越大。时间系数是空间模态的权重，描述空间模态的时间变化信息时，数值越大，表明对应年份的空间分布特征与该空间模态越相似。
+
+1.2.3相关分析采用相关性分析来检验AOD和气溶胶单因子强迫降水的线性相关程度，并进行显著性检验。相关系数 $\boldsymbol { r }$ 的取值在 $- 1 \sim 1$ 之间，当$r > 0$ 时,表示两变量呈正相关,越接近于1,正相关越显著；当 $r < 0$ 时，表明两变量呈负相关，越接近于负1，负相关越显著；当 $r = 0$ 时，则表示两变量相互独立。
+
+1.2.4极端降水指数为了能够更好地分析气溶胶排放对我国降水的影响，本研究在平均降水率的基础上又增加了6个降水指数（表2），其中所使用的降水等级划分标准是根据区域不同年降水量进行降水等级划分的（表3）[19]，避免了因地域辽阔，降水时空差异大造成的不合理划分。
+
+Tab.2Definition of the precipitation index   
+
+<html><body><table><tr><td>指数名称</td><td>指数定义</td></tr><tr><td>强降水日数/d</td><td>每年发生不低于大雨降水阈值的日数</td></tr><tr><td>弱降水日数/d</td><td>每年发生低于中雨降水阈值的降水日数</td></tr><tr><td>降水日数/d</td><td>每年发生降水的日数</td></tr><tr><td>强降水平均日降水强度/mm</td><td>强降水总降水量/强降水日数</td></tr><tr><td>弱降水平均日降水强度/mm</td><td>弱降水总降水量/弱降水日数</td></tr><tr><td>平均日降水强度/mm</td><td>总降水量/有雨日数</td></tr></table></body></html>
+
+表2降水指数的定义  
+表3降水等级划分标准  
+Tab.3 Classification of precipitation level   
+
+<html><body><table><tr><td rowspan="2">降水 等级</td><td colspan="3">年降水量/mm</td></tr><tr><td>≥500.0地区</td><td>45.0~499.9地区</td><td><45.0地区</td></tr><tr><td>小雨</td><td>1.0~9.9</td><td rowspan="3">前一列标准× √年降水量/500</td><td>0.1~2.9</td></tr><tr><td>中雨</td><td>10.0~24.9</td><td>3.0~7.4</td></tr><tr><td>大雨</td><td>25.0~49.9</td><td>7.5~14.9</td></tr><tr><td>暴雨</td><td>≥50.0</td><td></td><td>≥15.0</td></tr></table></body></html>
+
+# 2 结果和分析
+
+# 2.1CMIP5全球气候模式对中国气溶胶变化模拟能力的评估
+
+由于气溶胶单因子强迫历史试验的各个模式对中国气溶胶模拟能力的不确定性以及气溶胶时空差异大，所以基于时空评估指标的方法，即CESM1-CAM5、CSIRO-MK3.6、GFDL-CM3、GISS-E2-H、GISS-E2-R、IPSL-CM5-LR、NorESM1-M7个CMIP5模式对中国AOD的模拟能力进行评估（图1）。
+
+图1CMIP5 多模式数据对中国区域 AOD 模拟能力评估Fig.1Evaluation on the simulation capability of AOD inChina based on CMIP5 models  
+![](images/9adc9cd251bd0107363cb032d91751a11ae858567a6c099243419c35ec4dcf2d.jpg)  
+注：虚线为所有模式评估结果的平均值，灰色阴影为 $10 \%$ 标准差。AOD表示气溶胶光学厚度。下同。
+
+对计算得出的时间、空间评估指标进行数据标准化处理,使得评估值都为正值，且数值越接近0，说明评估结果越好。综合时间、空间评估指标可以发现，CSIRO-MK3.6、GFDL-CM3、GISS-E2-H、GISS-E2-R、NorESM1-M5个模式对中国AOD的模拟能力较好,评估值都在平均值加 $10 \%$ 标准差的范围内，而CESM1-CAM5、IPSL-CM5-LR2个模式的评估值明显高于整体的平均值。表明CSIRO-MK3.6、GFDL-CM3、GISS-E2-H、GISS-E2-R、NorESM1-M5个模式可以较好地模拟出中国区域AOD的时空变化特征，而CESM1-CAM5、IPSL-CM5-LR2个模式对中国区域AOD的模拟能力较差。基于本次模式评估的结果，选择CSIRO-MK3.6、GFDL-CM3、GISS-E2-H、GISS-E2-R、NorESM1-M5个模式作为气AOD数据以及气溶胶单因子驱动降水数据的数据源。
+
+# 2.2基于CMIP5多模式的中国气溶胶时空变化特征分析
+
+基于CMIP5提供的AOD数据年均值的年际变化趋势分析（图2），1860—2000年中国区域AOD整体呈现出显著增加的趋势( $P < 0 . 0 0 1$ ），Mann-Kendall检验发现，1945年为AOD突变年，1945年以后AOD 的增加趋势远远大于1945年以前的增加趋势。在1945年以前，中国区域AOD的增加趋势较小,增加速率为 $0 . 0 2 9 0 \cdot \left( 1 0 0 \mathrm { { a } } \right) ^ { - 1 }$ ,但在1945年以后，中国区域AOD迅速增加，其增加速率为$0 . 3 8 0 7 \cdot \left( 1 0 0 \mathrm { a } \right) ^ { - 1 }$ ,增加的幅度更为明显。
+
+AOD的EOF分析结果表明，第一个空间模态的方差贡献率为 $9 9 . 0 8 \%$ （表4），能够很好地表达
+
+![](images/ae7ab38a864620dc1585ae964b4176df8a3af13174c34702594a72d884050cdf.jpg)  
+图2基于CMIP5多模式的1860—2000 年中国区域AOD 年际变化  
+Fig.2Interannual variation of AOD in China based on CMIP5 models from 1860 to 2000
+
+# 表4基于CMIP5多模式的中国区域AOD的EOF分析前3个模态的方差贡献率
+
+Tab.4The variance contribution rates by analyzing the first three modes of AOD in China based on   
+CMIP5 models   
+
+<html><body><table><tr><td>模态</td><td>方差贡献/%</td><td>累计方差贡献/%</td></tr><tr><td>1</td><td>99.08</td><td>99.08</td></tr><tr><td>2</td><td>0.67</td><td>99.75</td></tr><tr><td>3</td><td>0.01</td><td>99.76</td></tr></table></body></html>
+
+1860—2000年中国AOD变量场的空间分布特征，并且通过了特征根误差范围的检验。第一空间模态的数值均为正值,在空间上具有很好的一致性,结合其时间系数分析可以得到该空间模态的时间变化特征（图3a），即在1860—2000年，第一空间模态所表达的AOD空间分布格局整体呈现出增加的趋势，中国的东南部是AOD增加最为明显的区域,20世纪中叶以后中国AOD的增加趋势显著高于20世纪中叶以前。基于像元的线性趋势分析结果与EOF分析结果基本一致（图3b），1860一2000年，中国区域AOD整体呈现出显著增加的趋势( $P < 0 . 0 0 1 _ { \cdot }$ ），增加趋势以胡焕庸线为界呈现出“东高西低”的空间分布格局，增加趋势的高值区聚集在中国的东南区域，其中四川盆地、长江中下游平原增加趋势最为显著,增加趋势的低值区聚集在中国西部区域，青藏高原AOD的增加趋势最低。
+
+# 2.3基于CMIP5多模式的中国气溶胶变化对降水的影响分析
+
+基于CMIP5提供的气溶胶单因子驱动降水的年际变化趋势分析（图4），1860—2000年，在气溶胶单因子的影响下，中国区域的降水呈现出显著减三：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS（2016)1549 号的标准地图制作，下同;
+
+![](images/0cd6c3d95b2c9b6b03109560bdd5c4ed166bdf3057334ce613ef1c737781de63.jpg)  
+图3基于CMIP5 多模式的1860—2000 年中国区域 AOD的EOF分析的第一空间模态(a)及线性变化趋势(b)ig.3The first spatial mode（a）and linear change trend（b）of AOD in China based on CMIP5 models from 1860 to 20(
+
+(b)中点代表此像元变化显著( $P < 0 . 0 0 1$ )；(c)图为第一模态的时间系数。
+
+![](images/26b9ad60fdcae8ce0b3c8309101a841ca105ec83a31d6c1275c04536560a1f51.jpg)  
+图4基于CMIP5多模式的1860—2000 年气溶胶单因子驱动下降水年际变化  
+Fig.4Interannual variation of precipitation under the influence of aerosol in China based on CMIP5 models from 186O to 2000
+
+少的趋势( $P < 0 . \ 0 0 1 \$ ）。Mann-Kendall检验发现，1962年为气溶胶单因子驱动降水的突变点，1962 年以后降水的减少趋势远远大于1962年以前。在
+
+1962年以前，降水的减少趋势较小，减少速率为$2 6 . 6 7 ~ \mathrm { { m m } } \cdot \mathrm { { ( 1 0 0 a ) } } ^ { - 1 }$ ,但在1962年以后降水的减少趋势变大,减少速率为 $1 1 8 . 0 4 \ \mathrm { m m } \cdot \left( 1 0 0 \mathrm { a } \right) ^ { - 1 }$ ，降水的减少幅度更为明显。
+
+气溶胶单因子驱动试验降水数据的EOF分析，第一空间模态的方差贡献率为 $3 9 . 9 2 \%$ （表5），且通过了特征根误差范围显著性检验，能够较好地表
+
+# 表5基于CMIP5多模式的气溶胶单因子驱动降水的EOF分析前3个模态的方差贡献率
+
+Tab.5The variance contribution rates by analyzing the first three modes of precipitation under the influence of aerosol in China based on CMIP5 models   
+
+<html><body><table><tr><td>模态</td><td>方差贡献/%</td><td>累计方差贡献/%</td></tr><tr><td>1</td><td>39.92</td><td>39.92</td></tr><tr><td>2</td><td>8.92</td><td>48.84</td></tr><tr><td>3</td><td>7.50</td><td>56.34</td></tr></table></body></html>
+
+示1860一2000年气溶胶驱动下降水变量场的主要空间分布特征。在第一空间模态中，除新疆、西藏与克什米尔接壤的地区存在数值为正值的区域外，中国大部分区域的数值均为负值，并且数值的绝对值整体呈现出“东高西低，南高北低”的空间分布格局。结合其时间系数分析（图5a），在1860—2000年，该空间模态正值区域的降水呈现增加趋势，负值区域的降水呈现减少的趋势，即以中国东南地区为主的大部分区域的降水呈现出减少趋势，而西北地区降水减少趋势较弱，并且20世纪中叶以后降水的减少趋势大于20世纪中叶以前。基于像元的线性趋势分析结果与EOF分析第一空间模态的结果基本一致(图5b)，在气溶胶单因子的驱动下，中国大部分区域的降水均呈显著减少的趋势( $P < 0 . 0 0 1 )$ ，中国有 $8 9 . 1 \%$ 的区域降水呈显著减少趋势，其余区域降水的变化不显著。降水的减少趋势呈现出“东高西低、南高北低”的分布格局，降水减少趋势较高的区域主要集中在中国东南部、四川盆地以及青藏高原东南部，而西北地区降水的减少趋势较弱。
+
+基于气溶胶单因子驱动降水计算得出的6个降水指数（弱降水日数、强降水日数、降水日数、弱降水平均日降水强度、强降水平均日降水强度、平均日降水强度)与AOD年均值进行相关分析。结果表明，中国区域内的弱降水日数、弱降水平均日降水强度以及降水日数、平均日降水强度都与AOD呈显著负相关( $P < 0 . \ 0 0 1$ ），相关系数分别为-0.385、-0.796和 $- 0 . 3 9 2 、 - 0 . 8 0 1$ （图6），而强降水日数、强降水平均日降水强度与AOD的相关性不显著。随着气溶胶排放的增多，弱降水日数、降水日数以及弱降水平均日降水强度、平均日降水强度在显著减少( $P < 0 . \ 0 0 1 \$ ），减少速率分别为3.103d·$\mathrm { ^ { ' } 1 0 0 a ) ^ { - 1 } , 3 . 1 6 0 \ d \cdot ( 1 0 0 a ) ^ { - 1 } }$ 和 $0 . 1 5 7 5 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 }$ ·（204号 $( 1 0 0 \mathrm { { a } ) ^ { - 1 } \mathrm { { \Omega } _ { 0 } . 1 6 2 4 \mathrm { { \ m m } \cdot \mathrm { { d } ^ { - 1 } \cdot ( 1 0 0 \mathrm { { a } ) ^ { - 1 } \mathrm { { \Omega } _ { 0 } } } } } } }$ 1
+
+![](images/671c126ad656f83866257dd1b75b7b6d85a2580562ef76886bd49255220c8274.jpg)  
+注：（b）中点代表此像元变化显著( $P < 0 . 0 0 1$ )；（c）图为第一模态的时间系数。  
+图5基于CMIP5 多模式的1860—200 年气溶胶单因子驱动下降水的EOF分析的第一空间模态(a)及线性变化趋势（b) Fig.5Thefirstspatialmode（a）andlinearchange trend（b）obtainedfromempiricalorthogonalfunctionofprecipitationunder the influence of aerosol in China based on CMIP5 models from 186O to 2000
+
+![](images/684e34690764ee3c4382c1837a950450e3dbbfef948204a33a0904987a872233.jpg)  
+注： $* * *$ 代表通过 $P < 0 . 0 0 1$ 的显著性检验。  
+图6基于CMIP5多模式的1860—2000 年中国区域AOD及其单因子驱动下降水指数的相关性分析Fig.6Correlation analysis of AOD and precipitation index inChina based on CMIP5 models from 186O to 2000
+
+# 3讨论
+
+# 3.1 AOD的时空变化特征
+
+中国区域的AOD总体呈显著增加的趋势，增加趋势在空间上呈现出以胡焕庸线为界“东高西低”的空间分布格局。AOD增加趋势的高值区聚集在中国的东南腹地，四川盆地、长江中下游平原增加趋势最高，增加趋势的低值区聚集在中国西部区域，青藏高原增加趋势最低，并在20世纪50年代以后AOD的增加趋势更为明显。本研究结果与已有的AOD 研究结果基本一致,秦世广等[20]在分析1960—2005年中国区域A0D长期变化特征中发现，AOD呈现逐年增加的趋势。罗云峰等[2]发现,1961—1990 年中国区域A0D总体呈显著增加趋势,其中西南地区东部，长江中、下游地区及青藏高原主体，大气气溶胶增加最为明显，华北地区、山东半岛、青海东部和广东沿海，大气气溶胶增加也较明显，西北地区和东北地区大部气溶胶增加相对较小。罗云峰等的结论中关于青藏高原为AOD增加最为显著的区域主体与本研究的结论不一致，本研究发现青藏高原虽然为显著增加区域,但是其并不是AOD增加最为明显的区域。造成这种差异的主要原因可能与研究所用数据来源及时间跨度有关，因为使用不同数据源与不同时间跨度的数据进行分析，得到的结果会有很大的不确定性和差别。罗云峰等所使用的AOD 数据是由47个日射站数据反演获得，时间跨度为1961一1990年；本研究所采用的A0D数据为CMIP5提供的多模式历史试验数据,时间跨度为
+
+1860—2000 年，从时间、空间上研究了自工业革命以来中国区域AOD的变化特征，
+
+1860年以来，随着人类活动的增强，中国区域气溶胶的排放量在不断增加。中国东部区域人口密度大，社会发展速度远远大于西部，并且20世纪中叶以后，国家进人了高速发展的时代，人类活动、社会工业化程度远远大于前期，这可能是导致“中国东部的AOD增长速度大于西部，20世纪中叶以后AOD的增长速度远远大于前期”的主要原因。
+
+# 3.2气溶胶变化对降水的影响
+
+在气溶胶单因子的影响下，中国区域的年均降水量呈现出显著减少的趋势，中国有 $8 9 . 1 \%$ 区域的降水呈显著减少趋势，其余区域降水变化不显著。综合已有的对中国区域人为气溶胶、沙尘气溶胶降水气候效应的研究发现，气溶胶排放的增多抑制了中国区域的降水[9-10,22],这与本研究得出的结论一致。在气溶胶的影响下，中国西北地区降水的减少趋势较低，这可能与地处干旱与半干旱区的地理位置有关，此区域云水含量较少，并且气溶胶成分以沙尘气溶胶为主，气溶胶历史变化趋势不明显，故降水受气溶胶的影响不大。
+
+中国区域内的弱降水日数、弱降水平均日降水强度以及降水日数、平均日降水强度与AOD呈显著负相关，而强降水日数、强降水平均日降水强度与AOD的相关性不显著。岳治国等[23]采用WRF模式分析了气溶胶对不同类型降水影响中发现，气溶胶增加会造成不同等级降水的降水量减少，这与本文关于AOD与平均日降水强度呈显著负相关的结论一致。气溶胶增多导致了小雨及微量降水的减少[24-25],本研究也发现中国区域内的AOD与弱降水日数呈显著负相关,即中国区域气溶胶排放的增加抑制了弱降水的发生。中国区域内的弱降水日数、弱降水平均日降水强度与AOD呈显著负相关,而强降水日数、强降水平均日降水强度与AOD的相关性不显著，其原因可能是相对于较大量级的降水，小量级降水对气溶胶的变化更为敏感[26-27]。近40a来我国降水日数的减少主要是由小雨日数减少造成的[28]，而小雨日数减少的主要原因可能是气溶胶排放的增加抑制了弱降水的发生所致。气溶胶排放增多抑制了降水，其主要通过抑制弱降水的发生、降低弱降水平均日降水强度，来减少降水事件的发生，降低平均日降水强度。
+
+# 4结论
+
+（1）1860—2000 年，中国区域的 AOD 整体呈现出显著增加的趋势，增加趋势在空间上呈现出以胡焕庸线为界“东高西低”的空间分布格局，其中中国的东南腹地为AOD增加趋势最明显的区域，青藏高原AOD的增加趋势最低。人类活动是影响气溶胶变化的主要因素，20世纪中叶人类活动强度较高，中国AOD的增加趋势显著大于人类活动强度较弱的20世纪中叶以前，人类活动强度较高的东部区域AOD增加趋势显著大于人类活动强度较弱的西部区域。
+
+（2）气溶胶排放增多抑制了降水。1860—2000年，在气溶胶单因子的影响下，中国区域的年均降水量呈显著减少的趋势，并且20世纪中叶以后降水的减少趋势显著大于20世纪中叶以前。在气溶胶单因子的影响下，中国有 $8 9 . 1 \%$ 的区域降水量呈现出显著减少的趋势，其中中国的东南部、四川盆地以及青藏高原东南部是降水减少最为明显的区域，中国西北地区降水的减少趋势较低。气溶胶排放的增多，显著降低了中国降水事件发生的频率与降水强度，并且气溶胶对弱降水事件发生频率与降水强度的抑制作用显著大于对强降水的作用，这表明小量级降水较大量级降水对气溶胶变化的敏感性更高。气溶胶排放的增多主要通过抑制弱降水的发生、降低弱降水平均日降水强度，使得中国区域降水日数显著减少，平均日降水强度显著降低。
+
+# 参考文献(References）:
+
+[1］沈新勇,黄文彦,黄伟,等.亚洲地区沙尘和人为气溶胶的分布 及气候效应[J].解放军理工大学学报（自然科学版），2013，14 (6):687-697.[Shen Xinyong,Huang Wenyan,Huang Wei,et al.Distributions and direct climate effects of dust and anthropogenicaerosolsover Asia[J].Journal ofPLAUniversityof Scienceand Technology（Natural Science Edition）,2013,14(6）:687-697.]   
+[2]吕萍，黄建平,董志宝.黑碳和有机碳气溶胶对中国气候影响 的模拟[C]//第二十六届中国气象学会年会大气成分与天气 气候及环境变化分会场论文集.2009：8.［LuPing，Huang Jianping,Dong Zhibao.Numerical simulations of effect of black carbon and organic carbon aerosols on regional climate in china $[ \mathrm { ~ C ~ } ] / \prime$ Thesis Collection of the 26th China Meteorological Society and Weather,Climate and Environmental Change Branch.2Oo9 :8.]   
+[3]杨冬冬.全球和中国地区 $\mathrm { P M } _ { 2 . 5 }$ 时空变化的模拟研究[D].南 京：南京信息工程大学，2016.［YangDongdong.Simulation of Distribution of Temporal and Spatial Variation of $\mathrm { P M } _ { 2 . 5 }$ over China and the Globe[D].Nanjing:Nanjing Universityof Information Science&Technology,2016.]   
+[4]赖鑫,杨复沫,贺克斌.大气气溶胶对天气与气候的影响[J] 三峡生态环境监测,2016,1（1）:2-8.[LaiXin,YangFumo,He Kebin.The impacts of atmospheric aerosols on weather and climate [J].EcologyandEnvironmental Monitoringof Three Gorges, 2016,1(1) :2 -8.]   
+[5]Twomey S.The influence of pollution on the shortwave albedo of clouds[J]. Jatmossci,1977,34(7）:1 149 -1 154.   
+[6]Albrecht B A. Aerosols,cloud microphysics,and fractional cloudiness[J].Science,1989,245(4 923）:1 227-1 230.   
+[7]Zhao C,Tie X,Lin Y.A possible positive feedback of reduction of precipitation and increase in aerosols over eastern central China [J]. Geophysical Research Letters,2006,33（11）:229 - 239.   
+[8］吉振明,高学杰,张冬峰,等.亚洲地区气溶胶及其对中国区域 气候影响的数值模拟[J].大气科学,2010,34（2）:262-274. [Ji Zhenming,Gao Xuejie,Zhang Dongfeng,et al. Simulation of the aerosols over Asia and its climate effct on China[J]. Chiese Journal of Atmospheric Sciences,2010,34(2）:262 -274.]   
+[9]Liu HN,Zhang L,Wu J.A modeling study of the climate effects of sulfate and carbonaceous aerosols over China[J].Advances in Atmospheric Sciences,2010,27(6):1 276 -1 288.   
+[10］张喆,丁建丽,王瑾杰,等.新疆干旱区气溶胶间接效应区域性 分析[J].中国环境科学,2016,36(12）:3 521-3 530.[Zhang Zhe,Ding Jianli,Wang Jinjie,etal.Regionalanalysis of aerosol indirect effects in Xinjiang region[J].China Environmental Science, 2016,36(12) :3 521 -3 530.]   
+[11］李深林,陈晓宏,赖成光,等.珠江三角洲地区近30 年降雨变 化趋势及其与气溶胶的关系[J].水文,2016,36(4）：31-36. [LiShenlin,Chen Xiaohong,Lai Chengguang,et al.Precipitation change trend in pearl river delta area and relation with aerosol from 1980 to 2010[J].Journal of China Hydrology,2016,36(4）:31- 36.]   
+[12］江琪,银燕,单云鹏,等.人为气溶胶对地形云降水的影响：以 黄山地区为例[J].大气科学学报,2014,37（4）：405－413. [Jiang Qi,Yin Yan,Shan Yunpeng,etal.Theeffectof artificial aerosols on orographic precipitation:A case study over the Yellow Mountain[J].Transactions of Atmospheric Sciences,2014,37 (4) :405 -413.]   
+[13]陈思宇,黄建平，付强,等.气溶胶对我国中东部地区秋季降水 的影响[J].热带气象学报,2012,28（3）:339－347.[Chen Siyu,Huang Jianping,Fu Qiang,et al.Effects of aerosols onautumn precipitation over Mid-eastern China[J]. Journal of Tropical Meteorology,2012,28(3）:339 -347.]   
+[14]段婧,毛节泰.华北地区气溶胶对区域降水的影响[J].科学通 报,2008,53(23）:2947-2 955.[Duan Jing,Mao Jietai.Effect of aerosol to the regional precipitation in North China[J]. Chinese Science Bulletin,2008,53(23）:2 947 -2 955.]   
+[15］陈晓晨,徐影,许崇海,等.CMIP5 全球气候模式对中国地区降 水模拟能力的评估〔J].气候变化研究进展,2014,10（3）： 217 -225.[Chen Xiaochen,Xu Ying,Xu Chonghai,et al.Assessment of precipitation simulations in China by CMIP5 Multi-models [J].Climate Change Research,2014,10(3）:217 -225.]   
+[16]Pierce DW,Barnet TP,Santer BD,et al.Selecting global climate models for regional climate change studies[J].Proceedings of the National Academy of Sciences,2009,106(21）:8 441-8 446.   
+[17]Chen W,Jiang Z,Li L.Probabilistic projections of climate change over China under the SRES A1B Scenario Using 28 AOGCMs[J]. Journal of Climate,2011,24(17):4 741-47 56.   
+[18]魏凤英.现代气候统计诊断与预测技术[M].北京：气象出版 社,2007.[Wei Fengying.Modern Climate Statistical Diagnosis and Prediction Technology[M].Beijing:China Meteorological Press, 2007.]   
+[19］陈晓燕.中国北方极端降水事件特征及成因研究[D].兰州： 兰州大学,2O12.［Chen Xiaoyan.Studies on the Characteristics and Formative Causes of Extreme Precipitation Events in the Northern China[D].Lanzhou:Lanzhou University,2012.]   
+[20]秦世广，石广玉，陈林，等.利用地面水平能见度估算并分析中 国地区气溶胶光学厚度长期变化特征[J].大气科学,2010,34 (2）:449-456.[Qin Shiguang,Shi Guangyu,Chen Lin,et al. Long-term variation of aerosol optical depth in China based on meteorological horizontal visibility observations[J].Chinese Journal of Atmospheric Sciences,2010,34(2）:449-456.]   
+[21]罗云峰，吕达仁，李维亮，等.近30年来中国地区大气气溶胶 光学厚度的变化特征[J].科学通报,2000,45（5）：549-554. [Luo Yunfeng,Lu Daren,Li Weiliang,et al.Characteristics of atmospheric aerosol optical depth variation over China in recent 30 years[J].Chinese Science Bulletin,2000,45(5）:549-554.]   
+[22]宿兴涛，许丽人，魏强，等.东亚地区沙尘气溶胶对降水的影响 研究[J].高原气象,2016,35（1）:211-219.[Su Xingtao,Xu Liren,Wei Qiang,etal.Study of impacts of dust aerosol on precipi
+
+tation over East Asia[J].Plateau Meteorology,2016,35（1）：211
+
+-219.]   
+[23］岳治国,刘晓东,梁谷.气溶胶对北京地区不同类型云降水影 响的数值模拟[J].高原气象,2011,30（5)：1356-1367. [Yue Zhiguo,Liu Xiaodong,Liang Gu.Numerical simulation of influence of aerosols on diferent cloud precipitation types in Beijing area[J].Plateau Meteorology,2011,30(5）:1 356-1 367.]   
+[24]高艳春,吴涧.气溶胶影响中国东部微量降水的初步分析[J]. 中国科学院大学学报,2014,31（3）:314-321.[Gao Yanchun, Wu Jian.Preliminary analysis of effects of aerosol on slight rain reduction in Eastern China[J]. Journal of University of Chinese Academy of Sciences,2014,31(3）:314-321.]   
+[25]Qian Y,Gong D,Fan J,et al.Heavy pollution suppresses light rain in China:Observations and modeling[J]. Journal of Geophysical Research Atmospheres,2009,114（D7）:D00k02.   
+[26]王健颖，郑小波，赵天良，等.四川盆地气溶胶变化对弱降水的 影响：基于干能见度的气候分析[J].生态环境学报，2016,25 (4）:621-628.[Wang Jianying,Zheng Xiaobo,Zhao Tianliang,et al.The effects of aerosol variation on light rain over the Sichuan Basin:Base on dry visibility[J].Ecology and Environmental Sciences,2016,25(4) :621-628.]   
+[27]王晖，隆霄，马旭林，等.近50a中国西北地区东部降水特征 [J].干旱区研究,2013,30(4）:712-718.[Wang Hui,Long Xiao,Ma Xulin,et al.Precipitation in the eastern part of Northwest China in recent 50 years[J].Arid Zone Research,2013,30（4）： 712 -718.]   
+[28]闵,钱永甫.我国近40 年各类降水事件的变化趋势[J].中 山大学学报,2008,47（3）:105-111.[Min Shen,Qian Yongfu. Trends in all kinds of precipitation events in China over the past 40 years[J].Acta Scientiarum Naturalium Universitatis Sunyatseni, 2008,47(3):105 -111.]
+
+# Variation of Aerosol and Its Effects on Precipitation in China Based on CMIP5 Models
+
+ZHAO Hong-fei $^ { 1 , 2 }$ ，YANG Yi1²，DONG Jia-qi1²2，LIYu-zhen1²，LI Long-hui1.3 (1.State KeyLaboratoryof DesertandOasis Ecology,Xinjiang Instituteof EcologyandGeography,ChineseAcademyof Sciences ,Urumqi 830011,Xinjiang,China; 2. University of Chinese Academy of Sciences,Beijing 10049,China ; 3.School of Geography,Nanjing Normal University,Nanjing 210o23,Jiangsu,China)
+
+Abstract:Aerosol plays an important role in the physical and chemical processes in the atmosphere.As more and more aerosolsare discharged into the atmosphere due to the enhancement of human activities,the climate problems caused by aerosol emissions have also atracted wide attention.The purposes of this study were to analyze the change of aerosoloptical thickness（AOD）and its efects on precipitation byapplying the linear trend analysis,correlation analysisand empiricalorthogonal function（EOF).The spatiotemporal variationof aerosoland its efects onprecipitation since the industrial revolution in China was also approached based on the multi-mode experimental data provided bythe Phase Five of the Coupled Model Intercomparison Project（CMIP5).The result showed that the variation of AOD in China was in an increase trend from 186O to 2000 （ $P < 0 . 0 0 1$ ）,the increase trend was more significant inthe area eastof the“Hu's Line”than that in the area west of itand after 1945.The increase rate after 1945 （204号 $\left[ 0 . 3 8 0 7 \cdot \left( 1 0 0 \mathrm { { a } } \right) ^ { - 1 } \right]$ was significantly higher than that before 1945 $\left[ 0 . 0 2 9 \mathrm { ~ 0 ~ } \cdot \mathrm { ~ ( ~ 1 0 0 a ) ~ } ^ { - 1 } \right]$ .In the experiments in whichthe aerosol change was considered only,as the aerosol emisions were increased,precipitation wasobviously decreased in $8 9 . 1 \%$ area of China ( $P < 0 . 0 0 1$ ).Precipitation was reduced predominantly in most of the southeast China,Sichuan Basinand southeast of Qinghai-Tibet Plateau,whilethe trend of precipitationreduction in northwest China was moderate.The decrease trend of precipitation was more significant after 1962 than that before it. The decrease rates were $1 1 8 . 0 4 \ \mathrm { m m } \cdot \left( 1 0 0 \mathrm { a } \right) ^ { - 1 }$ in period after 1962 and $2 6 . 6 7 ~ \mathrm { { m m } \cdot ( 1 0 0 a ) ^ { - 1 } }$ in period beforel962.The increase of aerosol emision served a role in the lessening of rainfall events frequency and precipitation intensity by inhibiting the light precipitation,and their reduction rates were $3 . 1 6 \mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ } 1 0 0 \mathrm { { a } ) ~ } ^ { - 1 }$ $, 0 . 1 6 2 4 \ \mathrm { m m } \ \cdot$ （20 （204号 $\mathrm { d } ^ { - 1 } \cdot \left( 1 0 0 \mathrm { a } \right) ^ { - 1 }$ ,respectively. It provides an important scientific basis to study the climatic effects of AOD's change on precipitation since the industrial revolution for beter response to regional climate change in the future.
+
+Key words：CMIP5；aerosol optical thickness（AOD）；precipitation change；empirical orthogonal function （EOF）；China

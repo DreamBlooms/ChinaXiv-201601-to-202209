@@ -1,0 +1,399 @@
+[
+    {
+        "type": "text",
+        "text": "黄土区冻融期不同土地利用土壤水分与温度的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴芹芹，莫淑红，程圣东，李鹏，李占斌（西安理工大学省部共建西北旱区生态水利国家重点实验室，陕西 西安710048)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了研究冻融期土壤水分与温度的变化及其关系，通过监测野外不同土地利用径流小区土壤水分与温度数据,分析了不同深度土层土壤水分和温度的时空变化规律,阐明了研究区土壤水分与温度的相关关系。结果表明：冻融期,坡耕地 $2 0 ~ \\mathrm { c m }$ 土层含水率变幅最大,草地和林地均为 $4 0 ~ \\mathrm { c m }$ 土层含水率变幅最大;坡耕地 $2 0 ~ \\mathrm { c m }$ 土层含水率变异程度最大,而草地和林地的最强活跃层分别为： $: 3 0 \\ \\mathrm { c m }$ 和 $1 0 \\ \\mathrm { c m }$ ;草地最先进入冻结期和融解期,且冻结和融解时间逐层滞后;3种地类(坡耕地、林地、草地)土壤含水率与温度均呈二次函数关系。林地土壤水分与温度的相关性最强,更有利于黄土区土壤水－热保持,该结果可为黄土区土壤水分对植被恢复影响研究以及环境建设保护提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：冻融期；土地利用；土壤水分；土壤温度；相关关系；安塞县",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤的冻融现象是指土壤受到温度、气候环境、含水量及其本身特性等因素制约与影响，发生在一定土壤深度的冻结和融解过程[1-3]。大量研究成果表明，土地利用类型也会影响冻融期的土壤水分和温度的时空变化[4-6]。白晓等[7]通过对祁连山区7种土地利用的土壤水分变异性研究，发现降水是导致土壤水分在夏、秋季变化的主要因素，而土壤冻融过程则是导致其在冬春季变化的主要因素。黄土高原属于水土流失严重和生态环境脆弱地区[8],近几十年来，随着大量生态建设措施的开展，其水土流失问题已经得到改善[9-10],冻融期土壤水－热保持程度是衡量该区域生态环境的重要参考，也为进一步解决水土流失问题提供依据[10-12]。因此,研究黄土区不同土地利用土壤水热关系，得出最有利于土壤水-热保持的土地利用类型显得尤为必要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大多数季节性冻融发生在干旱和半干旱地区[13]。近年来,随着对旱区水土资源的深人研究,许多专家学者对土壤冻融过程中的水、盐运移规律进行了大量研究。付强等[14]通过分析不同积雪覆盖条件下土壤液态含水率的空间分布情况，揭示季节性冻土区积雪覆盖条件下土壤垂直坡面各层次液态含水率序列的变化过程。唐文政等[15]通过对秸秆、地膜、活性炭3种地表覆盖和裸地对照研究季节性冻融期土壤水盐时空动态变化规律，证实地表覆盖比裸地具有更好地保熵、降盐效果。刘小燕等[16]用统计方法对研究区草甸地冻融期土壤温度、水分、盐分的变化规律进行了分析，发现土壤冻结温度与含盐量呈负相关关系，且冻融期盐分变异性大于水分变异性。同时，温度是影响土壤水分的重要因子之一[17]。国内外学者关于冻融土壤水热的变化也有一定的研究。Yanai等[18]对冻融过程的蓄水效应及其对土壤水热变化的影响进行了研究，发现冻融作用对深层土壤水热运移的影响区别于表层。郭志强等[19]考虑到冰和雪覆盖对土壤水热运移的影响，采用参数优化方案较好地模拟了不同深度土壤温度的变化，与现有生态系统模型进行比较，发现此方案能够显著提高不同深度土壤温度的模拟效果。目前，关于人为实验地的冻融水热变化特征以及数值概念模型研究较多，而对于野外实地监测的季节性冻融水热研究较少，同时，黄土高原的生态建设活动对土壤水热运移的影响还处于初始阶段，因此，对黄土区生态建设治理措施，开展不同地类土壤水热迁移研究显得尤为重要[20]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "季节性冻融土壤水热运移过程复杂且多变，运移机制也因地理环境、实验条件设置的不同而发生一定的变化[2I-23]。安塞地处黄土高原区,属于季节性冻土地区，其水热运移方面的研究还不多见。本研究以安塞地区的坡耕地、林地和草地为研究对象，揭示季节性冻融期不同土地利用类型下土壤水分及温度的变化特征，阐明流域不同地类土壤水热动态变化及其相关关系，以期为黄土区土壤水分对植被恢复影响研究和土地利用管理以及土壤水肥高效利用提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Y 研究区与数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "安塞县位于陕西省北部（ $\\langle 3 6 ^ { \\circ } 5 1 ^ { \\prime } \\mathrm { N } , 1 0 9 ^ { \\circ } 1 9 ^ { \\prime } \\mathrm { E } \\rangle$ （图1），黄土高原丘陵沟壑区，地貌复杂多样，该区属中温带大陆性半干旱季风气候,海拔 $1 ~ 0 6 8 \\sim$ $1 \\ 3 0 9 \\ \\mathrm { m }$ ,年平均气温 $8 . 8 ~ \\mathrm { { ^ { 8 } C } }$ ,最高气温出现在6月，平均气温为 $2 0 . 6 ~ \\mathrm { ^ { \\circ } C }$ ;最低气温出现在1月，平均气温为 $- 4 . 3 7 \\mathrm { ~ \\textdegree C }$ 。年平均降水量 $5 0 5 . 3 ~ \\mathrm { m m }$ ，最多为$6 4 5 ~ \\mathrm { m m }$ ,最少为 $2 9 6 . 6 \\ \\mathrm { m m }$ 。年日照时数为2395.6h,日照百分率达 $54 \\%$ ,全年无霜期 $1 5 7 \\mathrm { ~ d ~ }$ 。地下水埋深 $1 0 0 \\sim 2 0 0 \\mathrm { ~ m ~ }$ 以下。研究区主要植被类型为刺槐林、柠条、沙棘、铁杆蒿等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究通过野外实地监测获取土壤水分数据与气象数据，监测期为2016年11月15日至2017年4月2日。在本次监测时间段内安塞区多次出现降雪天气，初雪出现在2016年12月20日14：00；终雪出现在2017年3月23日14：00。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据及样品采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该实验观测及采样在无人为干扰且仅以降雨条件作为水分补给的3种土地利用类型（坡耕地、林地、草地)径流小区坡面进行，小区长 $4 0 \\mathrm { ~ m ~ }$ 、宽 $5 \\mathrm { ~ m ~ }$ 面积约 $2 0 0 \\mathrm { ~ m } ^ { 2 }$ ,坡度约 $3 0 ^ { \\circ }$ 。气象资料收集到的是安塞水保所气象站的逐日系列资料，主要包括降雨、气温、风速等气象要素。本研究的野外监测数据通过云智能管式土壤水分温度监测仪（ET100-5AH,北京东方润泽生态科技股份有限公司)获取，主要监测了坡耕地、林地和草地的土壤含水率（本文所涉及的土壤含水率均为未冻水）以及土壤温度数据，野外测量精度为 $\\pm 4 \\%$ 。其中，监测系统的安装深度均为 $1 \\mathrm { ~ m ~ }$ ,监测深度空间分辨率为 $1 0 \\ \\mathrm { c m }$ ,即 $0 \\sim$ $1 0 0 \\ \\mathrm { c m }$ 深度范围内垂向共10个监测部位，监测频率为1次 $\\cdot \\mathrm { h } ^ { - 1 }$ 。各地类土壤理化性质组成见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d1fec0a3df65a1eb1d750e481d2e1eb1b355732102187e77201db889636af67.jpg",
+        "img_caption": [
+            "图1研究区地理位置",
+            "Fig.1Location map of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1土壤理化性质组成成分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b629aad9d96a5cd7ea3fcaddfaeaea6661159e14574d1e5a8369064d4e48430a.jpg",
+        "table_caption": [
+            "Tab.1 Soil physical and chemical properties composition table "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">地类</td><td rowspan=\"2\">土壤干容重 /(g·cm-³)</td><td rowspan=\"2\">土壤孔隙度 /%</td><td rowspan=\"2\">土壤有机质含量 /%</td><td colspan=\"3\">土壤颗粒组成质量分数/%</td></tr><tr><td>黏粒</td><td>砂粒</td><td>粉粒</td></tr><tr><td>坡耕地</td><td>1.30</td><td>51.11</td><td>4.80</td><td>0.25</td><td>36.76</td><td>62.99</td></tr><tr><td>林地</td><td>1.25</td><td>52.73</td><td>6.28</td><td>0.20</td><td>32.40</td><td>67.40</td></tr><tr><td>草地</td><td>1.19</td><td>55.04</td><td>5.13</td><td>0.22</td><td>39.57</td><td>60.21</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "统计分析前对数据进行预处理，通过自编的VB程序代码在Excel2010的开发工具模块运行程序得到逐日平均数据，采用SPSS22.0对土壤含水率进行统计与分析，图表绘制分别采用Origin9.0、Excel2010绘制。采取单因素方差和标准差分析方法对土壤含水率的差异性进行分析，采用Pearson相关性确定土壤含水率与温度之间的相关关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1土壤温度时间尺度变化特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤温度的变化是决定土壤冻融强度和过程的主要因素，通常认为，当气温 $\\leqslant 0 \\ \\mathrm { { \\leqslant C } }$ 时，水开始发生冻结，同理可以近似认为，当土壤温度 $\\leqslant 0 \\ \\mathrm { ~ \\% ~ }$ 时，土壤开始发生冻结[24]。图2为研究区3种土地利用类型各层土壤温度数据以及当地气温数据。根据温度划分出3种地类 $1 0 \\ \\mathrm { c m }$ 王层的冻融阶段，具体可分为5个阶段：未冻期、交替冻结期、冻结期、交替融解期和融解期。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图2可以看出，在整个冻融期气温呈现出先波动下降后上升的状态。坡耕地、草地和林地 $1 0 \\ \\mathrm { c m }$ 土壤温度基本与气温的变化趋势保持一致，只是波动幅度略低于气温。草地表层进入冻结期的时间要早于林地和坡耕地，而进入融解期的时间：草地 $>$ 坡耕地 $>$ 林地，各土层进入冻结期和融解期的时间逐层滞后。坡耕地 $1 0 \\sim 5 0 ~ \\mathrm { c m }$ 土层进入冻结期，林地10～60cm 土层进入冻结期,草地 $1 0 \\sim 7 0 \\ \\mathrm { c m }$ 土层进入冻结期。因此，坡耕地、林地和草地在此监测期的最大冻结深度分别为： $: 5 0 \\ \\mathrm { c m } \\ . 6 0 \\ \\mathrm { c m }$ 和 $7 0 ~ \\mathrm { c m }$ ,各层的冻结持续时间均随着土层深度的增加而减小。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/43e225e18286a7323601dd9b08f996106cd244845c1f4befa3374da7a9ca4eb2.jpg",
+        "img_caption": [
+            "图23种地类土壤气温-地温变化",
+            "Fig.2Curve of temperature and ground temperature in three land types "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤水分时空变化规律 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "冻融土壤水分的变化主要受环境及土壤水、热状况的影响，不同土地利用类型也会改变土壤的微气象、微地形条件，使土壤内部的冻融状况发生变化,进而影响土壤含水率的时空分布特征[25]。研究区冻融期间不同土地利用类型浅层( $1 0 \\sim 5 0 ~ \\mathrm { c m } ,$ 以及深层（ $6 0 \\sim 1 0 0 ~ \\mathrm { c m } ,$ 土壤含水率变化情况见图3。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "整体而言，监测期间3种地类浅层土壤含水率随时间的推移变化较为剧烈，而深层土壤含水率变化相对于浅层较为平稳。随着气温的降低，表层土壤开始冻结，土壤含水率降低。因此，浅层土壤含水率在冻融期间呈现出先降低后增加的趋势。而深层土壤受到外界气温变化的影响较小，冻结程度低，固态水含量少，因此较为稳定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "已有研究表明，环境及气象因素是冻融期间土壤水分变化的主要影响因素。此外，植被类型差异也会影响水分的变化[26],浅层 $1 0 \\ \\mathrm { c m }$ 和深层 $6 0 \\ \\mathrm { c m }$ 含水率变化幅度( $\\left( \\varDelta \\theta = \\theta _ { 2 } - \\theta _ { 1 } \\right)$ 保持一致：林地 $>$ 草地 $>$ 坡耕地,坡耕地 $4 0 \\ \\mathrm { c m }$ 土层含水率变化幅度最大,而草地和林地均在 $2 0 \\ \\mathrm { c m }$ 土层最大，无论是哪种地类深层 $7 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 含水率变化幅度均随土层深度的增加而降低，这是由于 $7 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 土层并未进入冻结期且受外界环境干扰较小，所以，含水率变化幅度逐层减弱且不明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤水分差异性分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了更好地分析不同土地利用各土层土壤含水率的复杂变化过程，本文对不同地类 $1 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 深度的含水率进行了差异性分析，结果见表2。变异系数 $( C v )$ 用来衡量土壤水分的变异程度： $C v \\leqslant 1 0 \\%$ 为弱变异， $1 0 \\% < C v < 1 0 0 \\%$ 为中等变异， $C v \\geqslant 1 0 0 \\%$ 为强变异[27]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3种地类 $1 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 土壤含水率变异程度均处于弱变异和中等变异,其中坡耕地、林地和草地变异程度最大的土层分别为： $2 0 \\ \\mathrm { c m } \\setminus 1 0 \\ \\mathrm { c m }$ 和 $3 0 \\ \\mathrm { c m }$ ，属于中等变异,其变异程度：林地 $>$ 坡耕地 $>$ 草地。3种地类在达到最大变异土层后各层的含水率变异程度均随土层深度的增加而减小，坡耕地在 $6 0 \\sim$ $1 0 0 \\ \\mathrm { c m }$ 土层土壤含水率变异程度达到弱变异,而草地和林地均在 $7 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 土层达到弱变异,且处于弱变异的土层并未进入冻结期",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b9430efdee1677f7b96cabe3bf15e0bc442a432972a740fe368cdd68317f002.jpg",
+        "img_caption": [
+            "图33种地类各土层土壤含水率变化",
+            "Fig.3Change process of moisture content in different soil layers in three land types "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/31e6088a488fa0de7ba628c2506470b6316cfe6534899635b8d58bd0767ec843.jpg",
+        "table_caption": [
+            "Tab.2Difference analysis of soil moisture content in three land types "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土层深 度/cm</td><td colspan=\"3\">坡耕地</td><td colspan=\"3\">林地</td><td colspan=\"3\">草地</td></tr><tr><td>平均值</td><td>标准差</td><td>变异系数</td><td>平均值</td><td>标准差</td><td>变异系数</td><td>平均值</td><td>标准差</td><td>变异系数</td></tr><tr><td>10</td><td>7.720 4</td><td>2.573 5</td><td>0.333 3</td><td>7.264 1</td><td>3.306 7</td><td>0.4552</td><td>8.866 9</td><td>3.112 1</td><td>0.3510</td></tr><tr><td>20</td><td>8.819 5</td><td>3.288 9</td><td>0.372 9</td><td>10.339 9</td><td>3.969 8</td><td>0.383 9</td><td>6.7368</td><td>2.372 9</td><td>0.352 2</td></tr><tr><td>30</td><td>11. 882 8</td><td>3.648 3</td><td>0.307 0</td><td>10.766 0</td><td>3.401 7</td><td>0.316 0</td><td>8.778 9</td><td>3.093 3</td><td>0.352 4</td></tr><tr><td>40</td><td>14.486 8</td><td>3.761 1</td><td>0.259 6</td><td>11. 324 4</td><td>3.048 4</td><td>0.269 2</td><td>10.294 7</td><td>3.0201</td><td>0.293 4</td></tr><tr><td>50</td><td>16.603 2</td><td>2.804 6</td><td>0.168 9</td><td>12.044 0</td><td>2.188 5</td><td>0.181 7</td><td>9.191 8</td><td>2.052 3</td><td>0.223 3</td></tr><tr><td>60</td><td>18.108 6</td><td>1.592 2</td><td>0.0879</td><td>10.425 8</td><td>1.067 2</td><td>0.102 4</td><td>8.237 2</td><td>0.972 2</td><td>0.118 0</td></tr><tr><td>70</td><td>17.966 0</td><td>1.313 0</td><td>0.0731</td><td>10.000 2</td><td>0.499 6</td><td>0.050 0</td><td>8.318 0</td><td>0.274 0</td><td>0.032 9</td></tr><tr><td>80</td><td>18.168 4</td><td>1. 156 9</td><td>0.063 7</td><td>8.176 5</td><td>0.516 1</td><td>0.063 1</td><td>7.196 8</td><td>0.118 8</td><td>0.0165</td></tr><tr><td>90</td><td>20.609 1</td><td>1.032 3</td><td>0.050 1</td><td>7. 654 1</td><td>0.356 0</td><td>0.046 5</td><td>7.988 2</td><td>0.070 3</td><td>0.008 8</td></tr><tr><td>100</td><td>19.846 0</td><td>0.798 7</td><td>0.0402</td><td>6.987 3</td><td>0.1785</td><td>0.0255</td><td>8.1759</td><td>0.074 4</td><td>0.009 1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据3种地类各层土壤含水率变异程度的分析，可以将变异程度最大土层及以上划为活跃层，达到弱变异及以下的土层划为稳定层，中间部分划为缓和层。具体划分结果见表3。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1fbbcfa9b05cce6efe6745778ed424a03060ee49c045125cf93ee0d145cb03c1.jpg",
+        "table_caption": [
+            "表23种地类土壤含水率差异性分析",
+            "表33种地类土壤水分垂直剖面分层",
+            "Tab.3Vertical sections of soil moisture in three land types are stratified "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分层</td><td>坡耕地/cm</td><td>林地/cm</td><td>草地/cm</td></tr><tr><td>活跃层</td><td>0~20</td><td>0~10</td><td>0~30</td></tr><tr><td>缓和层</td><td>20~60</td><td>10~70</td><td>30~70</td></tr><tr><td>稳定层</td><td>60~100</td><td>70 ~100</td><td>70~100</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4土壤水分与温度的关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过以上分析可知，冻融过程中土壤水分与温度的联系密不可分。温度决定着水的相变，水的相变影响着水的入渗速度，且水相变时释放相变热[28]。为了更好地研究水分与温度之间的相关关系，现将温度和各层次土壤含水率进行相关性分析，并且采用多种曲线进行拟合，以相关系数作为主要指标，探讨不同土地利用土壤不同层位水分与温度的相关关系，最终得到拟合结果（图4）。需要说明的是 $7 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 土层土壤水分与温度的确定性系数 $R ^ { 2 } < 0 . 4 5$ ,拟合结果较差,并且坡耕地和林地$7 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 土层土壤并未进入冻结期,考虑到本研究主要目的是分析冻融期的土壤水分与温度的相关关系，因此这里不对其进行探讨。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过 $P < 0 . 0 0 1$ 的显著检验,说明在冻融期，坡耕地、林地和草地土壤水分与温度密切相关且相互影响。3种地类基本呈现出含水率随土壤温度的增加达到一个最大值后，又随土壤温度的增加呈逐步减小的趋势，这正是由于土壤水分开始处于冻结状态，其后随着土壤温度的升高，冻土逐渐融解，未冻水增加，而伴随着温度的进一步增加，土壤中的水分部分蒸发和升华，导致未冻水含量有逐渐减小的趋势[29]。其中,坡耕地 $1 0 \\sim 6 0 ~ \\mathrm { c m }$ 土层含水率与温度的相关关系随着土壤温度的增加而逐渐减弱，可见，在整个冻融期，随着土层深度的增加，温度对于水分的影响是逐渐减弱的；林地 $1 0 \\sim 3 0 ~ \\mathrm { c m }$ 土层土壤含水率与温度的相关关系是逐渐增大的，并且在整个冻融期林地 $3 0 \\ \\mathrm { c m }$ 王层水分与温度的相关性最密切，在 $4 0 \\sim 6 0 \\ \\mathrm { c m }$ 土层土壤含水率与温度的相关关系则逐层减弱；而草地在 $1 0 ~ \\mathrm { c m }$ 土层处, $R ^ { 2 }$ 仅为$0 . 6 1 8 , 5 0 \\ \\mathrm { c m }$ 王层拟合效果最好,此时土壤含水率与温度呈良好的二次函数变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "冻融过程对不同土地利用土壤含水率的影响存在一定的差异，这种差异与植被的耗水特征也存在一定的关系[23]。笔者认为,坡耕地在 $1 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 土层内， $2 0 ~ \\mathrm { c m }$ 土层含水率离散程度最大,这是土壤在经历冻融循环时，上层土壤受到外界大气环境等影响较大所致，林地在 $1 0 \\ \\mathrm { c m }$ 土层土壤含水率变异程度最大；而草地则在 $3 0 \\ \\mathrm { c m }$ 王层土壤含水率变异系数达到峰值。为解决上述问题，未来还需要进一步研究多个采样周期，以确定不同土地利用土壤水分年际变化，并且加入根系、土壤孔隙(各层）坡向、",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20 (a1）y=-0.053x2+0.757x+8.203 20(b1) y=-0.037x²+0.911x+7.842 15「(c1)   \n15 R²=0.760,P<0.001 0 15 R²=0.747,P<0.001 %12 ， 9 壤 6 J   \n土 5 土 5 土 3 y=-0.033x2+0.612x+6.929 0 R²=0.618,P<0.001 0 0 20 (a2) 20(b2) 15 (c2) y=-0.125x2+1.347x+8.782   \n15 R²=0.723,P<0.001 15 12   \n6/率 山 /率 6/ 9   \n0 1 6   \n土 5 土 5 -0.077x²+1.038x+9.125 y=-0.128x²+1.599x+10.260 3 R²=0.746,P<0.001 R²=0.771,P<0.001 0 0 0 20 (a3) 20(b3) 15(c3) 16 南1 . 0 v 率 d 9 10 5 =0.23x.x0.82 王 4 y=-0.141,0x y=-0.112x0x589 0 0 0 20 (a4) 20「(b4) 15(c4) 16 16 12   \n0 %/率王 0   \n王 1 12 /率 9 8 6 y=-0.308x²+2.755x+12.352 4 y=-0.263x2+2.246x+9.976 土 3 y=-0.153x2+1.663x+9.053 R²=0.664,P<0.001 R²=0.829,P<0.001 R²=0.758,P<0.001 0 上 0 0 21 20 15 (a5) (b5) (c5) 12 6 9 963 y=-0.24x2+2.2x×13.690 y=-0.2101.00x\\*10.136 王 63 y=-0.178x2+1.26x7.802 0 上 0 0 24 20 15 (a6) (b6) (c6)   \n%20 012 12 8 壤 6   \n18 土 y=-0.108xx 4 xy=-0.087x20.0x9.409 3 x=-0.075x20.007.518 上 J 0 J 0 上 -10 -5 0 5 10 15 -10 -5 0 5 10 15 -10 -5 0 5 10 15 土壤温度/℃ 土壤温度/℃ 土壤温度/℃ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "降水等因素分析，细分土壤水分的冻融循环过程，这将有助于了解不同土地利用类型对区域冻融土壤水分时空变化的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文重点研究冻融期过程对黄土区不同土地利用土壤水分与温度的变化过程影响及其相关关系。各土地利用土壤在冻融期间的含水率变化幅度和变异系数均在浅层某一深度达到最大后，随土层深度的增加而减小,这与唐文政等[15]和付强等[30]的研究结果一致。另外，在对土壤水分与温度的相关性研究中发现，林地 $2 0 \\ \\mathrm { c m } \\ . 3 0 \\ \\mathrm { c m }$ 和草地 $2 0 \\ \\mathrm { c m }$ 土层的确定性系数 $( R ^ { 2 } )$ 均相对 $1 0 \\ \\mathrm { c m }$ 有所提高，这表明二者 $1 0 \\ \\mathrm { c m }$ 土层土壤水分受其他因素影响较多，例如：植物根系、土壤孔隙等;3种地类深层土壤水分与温度的相关性较弱，笔者认为这与冻结深度有关，前文已经得出，稳定层并未进入冻结期，并且此时土壤温度本身的变化幅度基本处于 $0 \\sim 1 0 \\mathrm { ~ } \\mathrm { ~ \\textdegree ~ }$ ，温度对于未冻水含量的影响较弱。韩璐等[31]研究柴达木盆地一年周期内土壤温湿度相关关系发现，浅层土壤( $1 0 \\ \\mathrm { c m } \\ . 3 0 \\ \\mathrm { c m } \\ . 5 0 \\ \\mathrm { c m } \\$ 温度与湿度呈二次函数变化，而深层土壤( $7 0 \\ \\mathrm { c m } \\ . 9 0 \\ \\mathrm { c m } \\ ,$ 呈线性变化。本研究得出，随着土层深度的增加，土壤含水率与温度的相关性越来越弱且在深层二者之间并未呈现出良好的线性变化，可见，季节性冻融期土壤水分与温度的关系与年际变化并不相同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "另外，本文只考虑坡耕地、林地和草地3种土地利用类型在冻融期间土壤水分与温度的变化情况，后期工作会考虑更多地类来探讨黄土区冻融土壤水热变化规律。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）不同土地利用土壤的冻融阶段不同。草地表层土壤进人冻结期的时间要早于林地和坡耕地，而进入融解期的时间：草地 $>$ 坡耕地 $>$ 林地，3种地类的冻结深度：草地 $>$ 林地 $>$ 坡耕地。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）不同土地利用土壤各层含水率时空变化不同。土壤浅层 $1 0 \\ \\mathrm { c m }$ 和深层 $6 0 ~ \\mathrm { c m }$ 土壤含水率变化幅度保持一致：林地 $>$ 草地 $>$ 坡耕地,坡耕地 $4 0 \\ \\mathrm { c m }$ 王层土壤含水率变化幅度最大，而草地和林地均在$2 0 \\ \\mathrm { c m }$ 王层最大,且无论是哪种地类深层 $7 0 \\sim 1 0 0$ cm土壤含水率变化幅度均随着土层深度的增加而降低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）不同土地利用类型会影响土壤各层次含水率的变异程度。坡耕地、林地和草地变异程度最大的土层分别为， $: 2 0 \\ \\mathrm { c m } \\ . 1 0 \\ \\mathrm { c m }$ 和 $3 0 \\ \\mathrm { c m }$ ,且变异系数：林地 $>$ 坡耕地 $>$ 草地。3种地类在达到最强活跃层后，各土层的土壤含水率变异程度均随着土层深度的增加而减小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）3种地类土壤含水率与温度之间呈二次函数关系。林地土壤水分与温度的相关性最为密切，更加有利于黄土区冻融期间土壤水-热保持，选择林地作为黄土区主要生态建设地类将更有利于改善水土流失问题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]王荣军,刘志辉,李诚志,等.融雪期季节性冻土湿度变化对融 雪洪水的影响[J].水土保持研究,2013,20（4）：277－281. [Wang Rongjun,Liu Zhihui,Li Chengzhi,et al.Impact of change in seasonal frozen soil moisture on snowmelt flood in snowmelt season[J].Research of Soil and Water Conservation,2O13,20（4）： 277 -281.]   \n[2]Liu T,Huang Y,Zhang R,et al. Experiment study on the law of thermal motion of water of soil freeze-thaw on the black land[C]// Second International Conference on Mechanic Automation & Control Engineering,2011.   \n[3］郑思嘉,刘宛宜,丁珊珊,等.莫莫格湿地不同下垫面土壤冻融 期的水热状况[J].湿地科学,2019,17（1）:68-73.［Zheng Sijia,Liu Wanyi,Ding Shanshan,et al.Hydrothermal regime of the soil during freezing and thawing period under different underlying surfaces in Momoge Wetlands[J].Wetland Science,2019,17（1）: 68 -73.]   \n[4］程圣东,张辉,李占斌,等.解冻期坡面降雨入渗特征及模拟试 验研究[J].水土保持学报,2018,32（4）:14-19.[Chen Shengdong,Zhang Hui,Li Zhanbin,et al. Study on rainfall infiltration characteristics and simulation test of slope surface during thawing period[J]. Journal of Soil and Water Conservation,2018,32（4）： 14 -19.]   \n[5］王祥,朱亚琼,关正,等.昭苏山地草甸4 种典型土地利用方 式下的土壤呼吸特征[J].植物生态学报,2017,42(3):382- 396.[Wang Xiang,Zhu Yaqiong,Guan Zhengwei,et al. Soil respiration features of mountain meadows under four typical land use types in Zhaosu Basin[J].Chinese Journal of Plant Ecology,2017, 42(3) :382 -396.]   \n[6]Guo D,Yang M,Wang H. Characteristics of land surface heat and water exchange under different soil freeze/thaw conditions over the central Tibetan Plateau[J].Hydrological Processes,2011,25 (16):2531-2541.   \n[7］白晓,张兰慧,王一博,等.祁连山区不同土地覆被类型下土壤 水分变异特征[J].水土保持研究,2017,24（2)：17-25.［Bai Xiao,Zhang Lanhui,Wang Yibo,et al.Variations of soil moisture under different land use and land cover types in the Qilian Moun",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "tain,China[J].Researchof Soil and Water Conservation,2O17,24 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) :17 -25.]   \n[8］姚宝林,李光永,王峰,等.冻融期灌水和覆盖对南疆棉田水热 盐的影响[J].农业工程学报,2016,32（7）：114－120.［Yao Baolin,Li Guangyong,WangFeng,etal.Efectsof winterigation and soil surface mulching during freezing-thawing period on soil water-heat-salt for cotton fields in south Xinjiang[J].Transactions of the Chinese Society of Agricultural Engineering,2016,32（7）: 114 - 120. ]   \n[9]程圣东,杭朋磊,李占斌,等.初始解冻深度对冻融坡面侵蚀产 沙过程的影响[J].西安理工大学学报,2018,34（3)：9-15， 45.[Cheng Shengdong,Hang Penglei,Li Zhanbin,et al.Study of the influence of initial thawing depth on the erosion and sediment yield processes on freezing-thawing slope[J]. Journal of Xi'an University of Technology,2018,34(3）:9-15,45.]   \n[10]Pan Y,Lyu S,Li S,et al. Simulating the role of gravel in freezethaw process on the Qinghai-Tibet Plateau[J].Theoretical & Applied Climatology,2017,127(3-4）:1-12.   \n[11］吴谋松,王康,谭霄,等.土壤冻融过程中水流迁移特性及通量 模拟[J].水科学进展,2013,24（4）:543-550.[Wu Mousong， Wang Kang,Tan Xiao,et al.Water movement in soil freezing and thawing cycles and flux simulation[J].Advances in Water Science,2013,24(4） :543-550.]   \n[12］李陆生,赵西宁,高晓东,等.黄土丘陵区不同树龄旱作枣园土 壤水分动态[J].农业工程学报,2016,32（14）：145-152.［Li Lusheng,Zhao Xi'ning,Gao Xiaodong,et al.Soil water dynamic of rain-fed jujube(Ziziphus jujube）with stand age on Loess Plateau [J].Transactions of the Chinese Society of Agricultural Engineering,2016,32(14) :145 -152.]   \n[13]LiGY,Fan HM.Effect of freeze-thaw on water stability of aggregates in a black soil of Northeast China[J].Pedosphere,2014,24 (2):285-290.   \n[14］付强,侯仁杰,刘东,等.积雪覆盖条件下土壤液态含水率空间 分布[J].农业工程学报,2016,32（8）：120-126.[Fu Qiang, Hou Renjie,Liu Dong,et al. Spatial distribution of soil moisture content under condition of snowcover[J].Transactions of the Chinese Society of Agricultural Engineering,2016,32（8）:120- 126.]   \n[15］唐文政,王春霞,范文波,等.积雪与地表联合覆盖条件下冻融 土壤水盐运移规律[J].水土保持学报,2017,31（3）:337 - 343.[Tang Wenzheng,Wang Chunxia,Fan Wenbo,et al.A study on water and salt movement law of freezing and thawing soil under snow and surface coverage[J]. Journal of Soil and Water Conservation,2017,31(3) :337-343.]   \n[16］刘小燕,刘巧玲,刘廷玺,等.科尔沁草甸地冻融期土壤水热盐 动态迁移规律[J].水科学进展,2015,26（3）：331-339.［Liu Xiaoyan,Liu Qiaoling,Liu Tingxi,etal.Rules of the dynamic water-heat-salt transfer in soil of Horqin meadow during freezing and thawingperiod[J].AdvancesinWater Science,2015,26(3）:331 -339.]   \n[17]Musa A,Ya L,Anzhi W,etal. Characteristics of soil freeze-thaw cycles and their efects on water enrichment in the rhizosphere[J]. Geofisica Internacional,2016,264(11）:132-139.   \n[18]Yanai Y,Toyota K,Okazaki M. Effects of successive soil freezethaw cycles on soil microbial biomass and organic matter decomposition potential of soils[J].Soil Science& Plant Nutrition,2004, 50(6) :821 -829.   \n[19］郭志强,彭道黎,徐明,等.季节性冻融土壤水热耦合运移模拟 [J].土壤学报,2014,51（4）:816-823.[Guo Zhiqiang,Peng Daoli,Xu Ming,et al. Simulation of coupling transmission of water and heat in soil under seasonal freezing and thawing[J].Acta Pedologica Sinica,2014,51(4）:816-823.]   \n[20］赵宾华,李占斌,李鹏,等.黄土区生态建设对流域不同水体转 化影响[J].农业工程学报,2017,33（23）：179－187.［Zhao Binhua,Li Zhanbin,Li Peng,etal.Effcts of ecological construction on transformation of different water bodies in typical watershed on Loess Plateau[J].Transactions of the Chinese Society of Agricultural Engineering,2017,33（23）:179 -187.]   \n[21］陈军锋,郑秀清,秦作栋,等.冻融期秸秆覆盖量对土壤剖面水热 时空变化的影响[J].农业工程学报,2013（20)：102－110. [Chen Junfeng,Zheng Xiuqing,Qin Zuodong,et al.Effects of maize straw mulch on spatiotemporal variation of soil profile moisture and temperature during freeze-thaw period[J].Transactions of the Chinese Society of Agricultural Engineering,2013（20）:102-110.]   \n[22]Zhang D,Wang S.Mechanism of freeze-thaw action in the process of soilsalinizationiNortheast ChinaJ].EnvironmentalGeology 2001,41(1 -2) :96-100.   \n[23］黄鹏.黄土丘陵区不同土地利用类型下土壤水分运移模拟研 究［D].西安理工大学,2018.［Huang Peng.Simulation of Soil Moisture Movement Under Different Land Use Types in Loess Hilly Area[D]. Xi'an：University of Technology,2018.]   \n[24］李静.粗颗粒盐渍土路基冻融室内试验研究[D].西安：长安 大学,2015.[Li Jing.Experimental Study on Freezing and Thawing of Coarse Granular Saline Soil Roadbed[D]. Xi'an:Chang'an University,2015.]   \n[25］陈军锋,郑秀清,臧红飞,等.季节性冻融期灌水对土壤温度与 冻融特性的影响[J].农业机械学报,2013,44（3）:104－109. [Chen Junfeng,Zhen Xiuqin,Qi Hongfei,etal.Effectsof irrigation on soil temperature and soil freeze-thaw characteristics during seasonal freeze-thawperiodJ].TransactionsoftheChinese Society for Agricultural Machinery,2013,44(3）:104-109.]   \n[26］高永,胡春元,董智,等.土壤冻结过程中水分迁移动向的研究 [J].林业科学,2000,36(4）:126-128.[Gao Yong,Hu Chunyuan,Dong Zhi,et al.A study on water movement trend during soil freezing[J]. Scientia Silvae Sinicae,2000,36（4）:126- 128.]   \n[27］赵培培.黄土高原小流域典型坝地土壤水分和泥沙空间分布 特征[D].北京:中国科学院研究生院(教育部水土保持与生 态环境研究中心）,2010.[Zhao Peipei.Spatial Distribution of SoilWater Content and Sediment in the Dam Farmlands of A Small ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Catchment on the Loess Plateau[D].Beijing:Graduate School of the Chinese Academy of Sciences（Center for Soil and Water Conservation and Ecological Environment,Ministry of Education）, 2010.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[28］李慧，靳志锋，岳胜如,等.冻融期不同地表覆盖模式对土壤水 分的影响[J].节水灌溉，2018（10）：29-31，37.[LiHui，Jin Zhifeng,Yue Shengru,et al.Effects of different soil surface mulching method during freezing-thawing period on soil water[J].Wa ter Saving Irrigation,2018（10）:29-31,37.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[29」常娟，王根绪，高永恒，等.青藏高原多年冻土区积雪对沼泽、 草甸浅层土壤水热过程的影响[J].生态学报,2012,32（23）： 7289-73O1.[Chang Juan,Wang Genxu,Gao Yongheng,etal. Impacts of snow cover change on soil water-heat processes of swamp and meadow in Permafrost Region,Qinghai-Tibetan Plateau[J] ActaEcologica Sinica,2012,32(23）:7289-7301.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[30］付强，侯仁杰,王子龙，等.积雪覆盖下土壤热状况及其对气象 因素的响应研究[J].农业机械学报，2015，46（7）：154-161. [FuQiang,Hou Renjie,Wang Zilong,et al.Soil thermal regime under snow cover and its response to meteorological factors[J]. Transactions of the Chinese Society for Agricultural Machinery, 2015,46(7):154-161.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[31］韩璐，陈辉，陈同同，等.柴达木盆地土壤温湿度变化特征及相 关关系分析[J].水土保持研究，2016，23（6)：166-173.［Han Lu,Chen Hui,Chen Tongtong,et al.Variations of the soil temperature and moisture in Qaidam Basin and their relationship[J].Re searchof Soil andWater Conservation,2016,23(6):166-173.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Study on the correlation between soil moisture and temperature of different land uses in the loess area during a freezing-thawing period ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "WU Qin-qin， MO Shu-hong， CHENG Sheng-dong， LI Peng， LI Zhan-binState Key Laboratory of Eco-hydraulics in Northwest Arid Region ofChina,Xi'an 71O048,Shaanxi,China)",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：To study the changes in soil moisture and temperature during afreezing-thawing period,the space-time change law of soil moisture and temperature of diffrent soil depth layers were analyzed by monitoring the soil moistureand temperature dataof diferent land use runoff plots in the field.The relationship between soil moisture and temperature in the study area was then clarified. The results showed that the variation degree of the $2 0 ~ \\mathrm { c m }$ soil layer in sloped farmland was the largest,while the strongest active layers in the grassland and woodland were $3 0 ~ \\mathrm { c m }$ and $1 0 \\ \\mathrm { c m }$ ,respectively. The $2 0 ~ \\mathrm { c m }$ soil layer in the sloped farmland had the largest dispersion of water content,while the active layers in grassland and forestland were $3 0 \\ \\mathrm { c m }$ and $1 0 \\ \\mathrm { c m }$ ,respectively. The grassland first entered the freezing periodandthe thawing period,and freeze and melt time lags layer by layer,and the soil moisture content and temperatureof the three land types followedquadratic functions.The hydrothermal relationshipof the soil in forestland was the strongest,which is more conducive tothe soil water-heatretention inthe loess area.This study provides a scientific basis fortheresearch ofsoil moisture on vegetation restoration andthe protection of the environment from construction in the loess area. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:frezing-thawing period;land use；soil moisture；soil temperature；correlation；Ansai County ",
+        "page_idx": 8
+    }
+]

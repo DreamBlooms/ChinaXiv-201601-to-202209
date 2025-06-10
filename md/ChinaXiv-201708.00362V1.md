@@ -1,0 +1,1811 @@
+# Cutting through form factors and cross sections of non-protected operators in $\mathcal { N } = 4$ SYM
+
+# Dhritiman Nandan,1,2 Christoph Sieg,1,2 Matthias Wilhelm,1,2 and Gang Yang1
+
+1 Institut fir Physik   
+2Institut fir Mathematik   
+Humboldt-Universitat zu Berlin   
+IRIS Gebäude, Zum Groβen Windkanal 6,12489 Berlin   
+E-mail: dhritiman@physik.hu-berlin.de, csieg@physik.hu-berlin.de,   
+mwilhelm@physik.hu-berlin.de, gang.yang@physik.hu-berlin.de
+
+ABSTRACT: We study the form factors of the Konishi operator, the prime example of nonprotected operators in $\mathcal { N } = 4$ SYM theory, via the on-shell unitarity method. Since the Konishi operator is not protected by supersymmetry, its form factors share many features with amplitudes in QCD, such as the occurrence of rational terms and of UV divergences that require renormalization. A subtle point is that this operator depends on the spacetime dimension. This requires a modification when calculating its form factors via the on-shell unitarity method. We derive a rigorous prescription that implements this modification to all loop orders and obtain the two-point form factor up to two-loop order and the three-point form factor to one-loop order. From these form factors,we construct an IR-finite crosssection-type quantity, namely the inclusive decay rate of the (off-shell) Konishi operator to any final (on-shell state. Via the optical theorem, it is connected to the imaginary part of the two-point correlation function. We extract the Konishi anomalous dimension up to two-loop order from it.
+
+# Contents
+
+1 Introduction 2
+
+# 2 Cross sections for two-point correlation functions in a nutshell 7
+
+2.1 Renormalization of composite operators and their two-point functions 7   
+2.2Two-point correlation functions and cross sections 9
+
+3 Form factors for $\kappa _ { 6 }$ via unitarity 12
+
+3.1 Some BPS form factor results 12   
+3.2 Tree-level two- and three-point form factors 14   
+3.3 One-loop two-point form factor 14   
+3.4 Two-loop two-point form factor 18   
+3.5 One-loop three-point form factor 23
+
+4 Konishi vs. $\kappa _ { 6 }$ （20 29
+
+4.1 A subtlety in choosing a regularization scheme 29   
+4.2From ${ { \cal { K } } _ { 6 } }$ to $\kappa$ （204号 31   
+4.3 Final Konishi form factors 33
+
+5 BPS and Konishi cross sections 34
+
+5.1 BPS cross section up to one-loop order 34   
+5.2Konishi cross section up to two-loop order 36   
+5.2.1One-loop result 37   
+5.2.2Two-loop result 38
+
+6Conclusion and outlook 43
+
+A Fourier transformation of the two-point function 46   
+B Feynman integrals 46   
+C Passarino-Veltman reductions 49   
+D Checks of the three-point one-loop Konishi form factor 50   
+E Phase-space parametrization 52   
+F Anomalous dimensions via two-point form factors 53   
+G Renormalization-scheme transformations 56
+
+H Feynman diagrams 58
+
+# 1 Introduction
+
+So far, the framework of quantum field theories (QFTs) is very successful in describing the high-energy processes measured at colliders such as the LHC. However, theoretical predictions are usually restricted to the weak-coupling regime, which admits a perturbative expansion in terms of the small coupling constants. The individual contributions to the perturbation series can be calculated via Feynman diagrams. Thereby, a large proliferation of diagrams is in general encountered when one proceeds to higher-order corrections,and hence concrete calculations are mainly restricted to the first few orders.
+
+The investigation of alternative techniques that bypass this limitation is thus of high importance. It might not only allow to push perturbation theory to higher orders, but could also deepen our understanding of the fundamental principles and mechanisms encoded in QFTs. The so-called ‘on-shel' techniques are such an alternative. They allow one to build amplitudes from simpler amplitudes with a lower number of external legs and loops via recursion relations [1, 2] and unitarity [3, 4]. They have been successfully used in supersymmetric gauge theories as well as in QCD, see [5-7] for pedagogical reviews and references therein.
+
+In particular, the maximally supersymmetric Yang-Mills ( $\mathcal { N } = 4$ SYM) theory with gauge group $S U ( N _ { \mathrm { c } } )$ in four dimensions has played an important role in the aforementioned developments. According to the AdS/CFT correspondence [8-10], it has a dual description in terms of a string theory, allowing its study also at strong coupling. Moreover, in the planar limit [11], it shows signs of integrability at weak as well as at strong coupling, which is believed to be present even at any coupling. Based on the conjectured integrability, new predictions for the spectrum, i.e. for the anomalous scaling dimensions of gauge-invariant composite operators, were made; see [12] for a review. This rises the hope that the theory is exactly solvable,and it is hence sometimes even referred to as the “harmonic oscillator of the $2 1 ^ { \mathrm { s t } }$ century".
+
+Given the success of the aforementioned on-shell techniques for amplitudes, it is an intriguing question whether they can be applied for determining off-shell quantities such as correlation functions or the anomalous dimensions as well. A bridge between the purely on-shell amplitudes and the purely off-shell correlation functions is provided by form factors. In particular, they also contain the information necessary to determine the anomalous dimensions. An $n$ -point form factor describes the overlap of an off-shell initial state, described by a composite operator, into an on-shell final state consisting of $n$ elementary fields. It is given by
+
+$$
+\mathcal { F } _ { \mathcal { O } } ( 1 , \dots , n ) = \int \mathrm { d } ^ { D } x \mathrm { e } ^ { - i q \cdot x } \langle 1 \cdot \cdot \cdot n | \mathcal { O } ( x ) | 0 \rangle = ( 2 \pi ) ^ { D } \delta ^ { ( D ) } \Big ( q - \sum _ { i = 1 } ^ { n } p _ { i } \Big ) \langle 1 \cdot \cdot \cdot n | \mathcal { O } ( 0 ) | 0 \rangle \ ,
+$$
+
+where the particles labeled by $i = 1 , \ldots , n$ carry individual on-shell momenta $p _ { i }$ and the operator $\boldsymbol { \mathcal { O } }$ carries off-shell momentum $q$ .If the number $n$ of the external fields exactly matches the number of fields contained in $\mathcal { O }$ ,the form factor is called minimal. Minimal form factors with $n = 2$ points are denoted as Sudakov form factors.
+
+In $\mathcal { N } = 4$ SYM theory, the most intensively studied form factors are the ones of the half-BPS operator
+
+$$
+\mathcal { O } _ { \mathrm { B P S } } = \mathrm { t r } ( \phi _ { ( I } \phi _ { J ) } ) \ ,
+$$
+
+where the parentheses denote traceless-symmetrization of the indices $I , J = 1 , \ldots , N _ { \phi }$ of the $N _ { \phi }$ scalar field favors. This operator belongs to the stress-tensor supermultiplet. Its Sudakov form factor was first studied by van Neerven [13] and analyzed up to four loops [14,15] in the recent past. The Sudakov form factor exhibits exponentiation [16-18],a feature which was seen to be the key for predicting the al-loop IR behavior of scattering amplitudes [19].
+
+The form factors of the stress-tensor multiplet with general $n$ external legs can be analyzed in analogy to scattering amplitudes with modern on-shell techniques. The $n$ # point form factor of the bosonic operator (1.2） was first studied in [20, 21]，and later generalized to the full stresstensor multiplet in [22, 23]. Up to one-loop order, compact expressions for general $n$ -point maximally-helicity-violating(MHV) as well as some next-toMHV (NMHV) form factors have been computed in [20, 22-26]. The two-loop three-point form factor was computed in [27]. The form factors of half-BPS operators with $k$ scalar fields,as well as the corresponding supermultiplets, have been studied in [21, 28, 29]; $n$ point tree and one-loop MHV results are presented in [28] and the mininal form factors (for $n = k$ ） were computed at two-loop [29]. Form factors have also been studied at strong coupling via the AdS/CFT correspondence [30], and a Y-system formulation was given in [31] for AdS $^ 3$ and in [32] for AdS $^ { 5 }$ ：
+
+The aforementioned studies have shown that form factors share very similar recursive and analytic properties with scattering amplitudes, at least for the protected operators. Moreover, the robust set of on-shell techniques for computing on-shell objects is also applicable in this case. This rises the hope that also fully off-shell quantities can be studied using on-shel methods,and that such an enhancement of the toolkit allows to detect new features of the theory. Indeed, it was found that certain correlation functions can be constructed via generalized unitarity from amplitudes, form factors and their generalizations involving several operator insertions [25]. In the recent parallel work [33], one of us has determined at tree level the minimal form factors of a generic operator and at one-loop order their cut-constructible parts. The one-loop results yield the complete one-loop dilatation operator of the theory.
+
+Scattering amplitudes as well as form factors are themselves not physical observables, since they contain infrared (IR) divergences from the integration of loop momenta. Adding the so-called bremsstrahlung contributions, their IR divergences from the real emissions of soft and collinear particles cancel the IR divergences coming from virtual loop corrections according to the Kinoshita-Lee-Nauenberg theorem [34, 35],and one obtains an observable. In particular,the cross sections are free of IR divergences and hence physical observables. They are, however, in general not well defined in a CFT such as ${ \mathcal { N } } = 4$ SYM theory, where asymptotic states are ill defined. Some cross-section-type quantities have been defined by using coherent states as asymptotic states [36]. Alternatively, we can consider the decay of an initial off-shell state created by an operator $\mathcal O ( q )$ with timelike momentum $\dot { q } ^ { 2 } > 0$ ））
+
+into any final on-shel multi-particle state. The probability of this inclusive decay is the total decay rate of $\mathcal O ( q )$ . This decay process may occur as part of a total cross section of a scattering process in which $\mathcal O ( q )$ is produced as an intermediate state.1 The probability for the inclusive decay of $\mathcal O ( q )$ into a final state $X$ with total momentum $q = p _ { X }$ is defined by
+
+$$
+\sigma _ { \cal O } ( q ) = \sum _ { X } \delta ^ { ( D ) } ( q - p _ { X } ) \left| \langle X | { \cal O } ( 0 ) | 0 \rangle \right| ^ { 2 } ,
+$$
+
+where the sum ensures that the quantity is inclusive,i.e. all contributions, which are specified by the number and type of the particles in the final states,are integrated over the respective phase space and are summed up. This cross-section-type quantity depends on the matrix element $\langle X | \mathcal { O } ( 0 ) | 0 \rangle$ ，which is precisely the form factor of $\boldsymbol { \mathcal { O } }$ with final state $X$ . Via the optical theorem, (1.3) is related to the imaginary part of the (time-ordered) two-point correlation function $\langle 0 | \mathcal { O } ( x ) \mathcal { O } ( 0 ) | 0 \rangle$ after transforming to momentum space.
+
+Finally,although not considered in this paper，we would like to mention that by modifying (1.3),‘event shapes' such as energy or charge correlation functions were studied in $\mathcal { N } = 4$ SYM theory [25, 38-40]. Also,Wilson coeffcients for deep inelastic scattering were considered [41]. For simplicity, we will follow the terminology of [39] and denote the cross-section-type quantity defined in (1.3) as total cross section, or simply cross section.
+
+In this paper, we will study the form factor (1.1) and the cross section (1.3) for the Konishi operator as a first example for an operator that is not protected by supersymmetry. Hence, UV divergences appear in addition to the aforementioned IR divergences that already emerge for protected operators. The Konishi primary operator is given by
+
+$$
+\begin{array} { r } { K = \delta ^ { I J } \operatorname { t r } ( \phi _ { I } \phi _ { J } ) \ , } \end{array}
+$$
+
+where sums over all $I , J = 1 , \ldots , N _ { \phi }$ scalar feld favors are implicitly understood. In strictly $D = 4$ dimensions, we have $N _ { \phi } = 6$ . The Konishisaligdimsion $\Delta _ { \mathcal { K } } = \Delta _ { \mathcal { K } } ^ { ( 0 ) } + \gamma _ { \mathcal { K } }$ consists of the bare dimension $\Delta _ { \mathcal { K } } ^ { ( 0 ) } = 2$ and an anomalous dimension $\gamma \kappa$ . It is a power series in the coupling constant
+
+$$
+g ^ { 2 } = \frac { g _ { \mathrm { { \scriptscriptstyle Y M } } } ^ { 2 } N _ { \mathrm { c } } } { ( 4 \pi ) ^ { 2 } } ( 4 \pi e ^ { - \gamma _ { \mathrm { { E } } } } ) ^ { \epsilon } ~ ,
+$$
+
+which depends on the Yang-Mills coupling constant $g _ { \mathrm { Y M } }$ as well as the number of colors $N _ { \mathrm { c } }$ and is the loop-counting parameter in the modified dimensional reduction ( $\mathrm { D R }$ ）scheme in
+
+$D = 4 - 2 \epsilon$ dimensions.2 In the planar limit, the Konishi anomalous dimension is given by3
+
+$$
+\begin{array} { r l } & { \gamma _ { K } = 6 [ 2 g ^ { 2 } - 8 g ^ { 4 } + 5 6 g ^ { 6 } - 1 6 ( 2 6 - 6 \zeta _ { 3 } + 1 5 \zeta _ { 5 } ) g ^ { 8 } } \\ & { \qquad + 1 6 ( 1 5 8 + 7 2 \zeta _ { 3 } - 5 4 \zeta _ { 3 } ^ { 2 } - 9 0 \zeta _ { 5 } + 3 1 5 \zeta _ { 7 } ) g ^ { 1 0 } ] + { \mathcal O } ( g ^ { 1 2 } ) ~ , } \end{array}
+$$
+
+where the one- and two-loop contributions,which we reproduce as a check in this paper, were obtained by explicit Feynman diagram calculations in [45, 46] and [47-49].4
+
+The operator (1.4） is the primary operator of the Konishi supermultiplet. Its anomalous dimension given in (1.6） was mainly obtained by considering certain descendent operators within the Konishi multiplet rather than the Konishi primary operator (1.4). This is possible since all members of a supermultiplet have the same anomalous dimension.5 In fact, we will see that the Konishi primary defned in (1.4) and involving a sum over the $N _ { \phi }$ （204号 scalar field flavors depends on the dimension $D$ ，since $N _ { \phi } = 1 0 - D$ is required to ensure supersymmetry. This becomes important when regulating the divergences by continuing the theory from $D = 4$ to $D = 4 - 2 \epsilon$ dimensions.
+
+We will apply four-dimensional unitarity in order to compute the form factors. Within this framework,all on-shell component fields can be conveniently combined into Nair's （20 ${ \mathcal { N } } = 4$ on-shell superfield [65]. The on-shell superfield reads
+
+$$
+\Phi ( p , \eta ) = g _ { + } ( p ) + \eta ^ { A } \psi _ { A } ( p ) + \frac { \eta ^ { A } \eta ^ { B } } { 2 ! } \phi _ { A B } ( p ) + \frac { \varepsilon _ { A B C D } \eta ^ { A } \eta ^ { B } \eta ^ { C } } { 3 ! } \tilde { \psi } ^ { D } ( p ) + \eta ^ { 1 } \eta ^ { 2 } \eta ^ { 3 } \eta ^ { 4 } g _ { - } ( p ) ,
+$$
+
+where $\eta ^ { A }$ are Grassmann variables that encode the flavor and helicity of the component fields. Pairs of upper and lower $S U ( 4 )$ R-symmetry indices $A , B , C , D = 1 , \ldots , 4$ are always understood to be summed. In the above superfield, the six real on-shell scalars $\phi _ { I }$ transforming in the fundamental representation of $S O ( 6 )$ are represented via the anti-symmetric product representation of two fundamental $S U ( 4 )$ representations, $\phi _ { A B } = \phi _ { I } ( \sigma _ { I } ) _ { A B }$ ，employing the isomorphism of the Lie-algebras ${ \mathfrak { s o } } ( 6 )$ and $\mathfrak { s u } ( 4 )$ induced by the $\sigma$ -matrices $( \sigma _ { I } ) _ { A B } = - ( \sigma _ { I } ) _ { B A }$
+
+Using (1.7), each $n$ -point scattering amplitude with fixed total helicity can be effciently packed into a single superamplitude. In analogy, also the form factors for the BPS operator
+
+4The Konishi anomalous dimension $\gamma \kappa$ is currently known up to five loops from field theory calculations and up to nine loops from the conjectured integrability. The thre-loop result was conjectured in [50] and confirmed in [51,52]. The four-loop result was determined by calculating the wrapping corrections to the integrability-based asymptotic dilatation operator in [53,54] and by a computer-based direct calculation in[55].The integrability-based four-loop expression of [56] matches this result.The five-loop result was predicted from integrabilityin [57-59],and confirmed in [60] from an OPE analysis of the four-point correlation function of stres-tensor multiplets.The results at six [61],seven 62],eight 63]and nine loops [64] are so far only based on the conjectured integrability.
+
+5Working with certain descendants which are non-singlet states of the $S U ( 4 )$ R-symmetry instead of the primary operator(1.4),which is an $S U ( 4 )$ singlet,simplifies the calculations in both,the field theory and integrability-basedapproach.
+
+(1.2) can be packed into super form factors if the BPS operator is expressed in terms of the scalar fields $\phi _ { A B } $ as
+
+$$
+\mathcal { O } _ { \mathtt { B P S } } = \mathrm { t r } ( \phi _ { A B } \phi _ { C D } ) - \frac { 1 } { 1 2 } \varepsilon _ { A B C D } \ \mathrm { t r } ( \phi ^ { E F } \phi _ { E F } ) \ ,
+$$
+
+where the last term subtracts the trace in the space of scalar flavors.6
+
+Without loss of generality， we will focus in the rest of this paper on its particular component
+
+$$
+\mathcal { O } _ { \mathrm { B P S } } = \mathrm { t r } ( \phi _ { A B } \phi _ { A B } ) \ ,
+$$
+
+where doubled indices are not summed. Expressing also the Konishi operator in terms of the scalar fields $\phi _ { A B } $ yields
+
+$$
+{ \cal K } _ { 6 } = \frac 1 8 \varepsilon ^ { A B C D } \mathrm { t r } ( \phi _ { A B } \phi _ { C D } ) = \mathrm { t r } ( \phi _ { 1 2 } \phi _ { 3 4 } ) - \mathrm { t r } ( \phi _ { 1 3 } \phi _ { 2 4 } ) + \mathrm { t r } ( \phi _ { 1 4 } \phi _ { 2 3 } ) \ ,
+$$
+
+where the subscript 6 reminds us that the operator is identical to the Konishi primary (1.4) only for $N _ { \phi } = 6$ , i.e. only in strictly $D = 4$ dimensions.
+
+There is a subtlety originating from the fact that in $D \neq 4$ dimensions the Konishi operator $\mathcal { K }$ in（1.4） cannot be identified with ${ { \ K } _ { 6 } }$ in (1.1O). The four-dimensional unitarity method directly applies to the operator ${ { \ K } _ { 6 } }$ .In this formulation，the operator stays the same if the encountered IR and UV divergences are regularized by changing the spacetime dimension from $D = 4$ to $D = 4 - 2 \epsilon$ . But in $D = 4 - 2 \epsilon$ dimensions the Konishi operator （204号 $\mathcal { K }$ is not identical to the operator ${ { \ K } _ { 6 } }$ . Hence, the unitarity-based results for ${ { \ K } _ { 6 } }$ do not directly yield those for the Konishi operator $\mathcal { K }$ . Instead, modifications have to be made which take into account that one should have used $\mathcal { K }$ and not ${ { \cal { K } } _ { 6 } }$ in order to obtain the results for the Konishi operator regularized in $D = 4 - 2 \epsilon$ dimensions.
+
+In the main part of the paper, we elaborate on the ideas mentioned above. In section 2, we discuss two-point correlation functions of gauge-invariant local operators, their renormalization and the transformation to momentum space. We identify the imaginary part of such a correlation function with the cross section defined in (1.3). Finally, we present the general strategy of computing the total cross section for a given operator using its form factors as building blocks.
+
+In section 3, we present our computation of the form factors for ${ { \ K } _ { 6 } }$ at the one- and two-loop orders, which are based on the unitarity method and on-shel superspace. Since the Konishi operator is not protected, several interesting features appear in the results which have not occurred for amplitudes or BPS form factors in $\mathcal { N } = 4$ SYM theory, e.g. UV divergences and rational terms.
+
+In section 4，we discuss in detail the aforementioned subtleties arising from the fact that in $D = 4 - 2 \epsilon$ dimensions the Konishi operator $\mathcal { K }$ cannot be identified with ${ { \ K } _ { 6 } }$ .We derive a rigorous prescription of how to implement the substitution of ${ { \cal { K } } _ { 6 } }$ by $\mathcal { K }$ in the results of the previous section and give final results for $\mathcal { K }$ ：
+
+In section 5,we present the computation of the cross section starting with the BPS operator up to one-loop order as a simple example to make the reader familiar with our strategy. We find the expected non-trivial cancelation of the IR divergences between real and virtual channels. Then, we compute the cross section for the Konishi operator up to two loops. We extract the renormalization constant and hence the anomalous dimension from the UV divergence of the bare result. They match the known expressions. We present the finite result for the renormalized cross section and discuss its dependence on the renormalization scheme.
+
+Finally, in section 6 we summarize the main results of our paper and the interesting features associated with them. We also present some future directions and open questions.
+
+In the appendices A, B and C,we give some further conventions and explicit results for the occurring loop integrals as well as Passarino-Veltman (PV） reduction formulae. Appendix D provides some cross checks for the one-loop three-point Konishi form factors. In appendix E, we present some details on the phase space integrals occurring in section 5. A way to extract the anomalous dimension directly from the two-point Konishi form factor is given in appendix F.In appendix G, we discuss the renormalization-scheme dependence of the cross section. In the final appendix H, we summarize direct Feynman-diagrammatic calculations of the one- and two-loop form factors for the BPS and the Konishi operator, which serve as checks for our approach and guided us to the modifications discussed in section 4.
+
+# 2Cross sections for two-point correlation functions in a nutshell
+
+In this section, we review some facts about the form of the two-point correlation function of a renormalized composite operator in spacetime and in momentum space. Via the optical theorem, its imaginary part yields a cross-section-type quantity. We present our strategy of computing this quantity from the form factors of the respective operator.
+
+# 2.1 Renormalization of composite operators and their two-point functions
+
+Gauge-invariant local composite operators can be regarded as external states of $\mathcal { N } = 4$ （20 SYM theory, and they can occur in correlation functions in the same way as the elementary fields. Such correlation functions in general contain UV divergences which are associated with the presence of these operators, requiring their renormalization in analogy to that of the elementary fields and vertices of the theory. In this paper, we only consider composite operators that are eigenstates under renormalization. Such a renormalized operator is given in terms of the bare operator as
+
+$$
+\mathcal { O } _ { \mathrm { R } } = \mathcal { Z } _ { \mathcal { O } } ( g , \epsilon ) \mathcal { O } _ { \mathrm { B } } \ .
+$$
+
+The renormalization constant $\mathcal { Z } _ { \mathcal { O } }$ depends on the coupling constant $g$ and absorbs the UV divergences，which appear as poles in $\epsilon$ when the theory is regularized by changing the spacetime dimension from $D = 4$ to $D = 4 - 2 \epsilon$ . The renormalization constant determines the anomalous dimension
+
+$$
+\gamma _ { \mathcal { O } } = \sum _ { \ell = 1 } ^ { \infty } g ^ { 2 \ell } \gamma _ { \mathcal { O } } ^ { ( \ell ) } = \operatorname* { l i m } _ { \epsilon \to 0 } \epsilon g \frac { \partial } { \partial g } \log \mathcal { Z } _ { \mathcal { O } } ~ ,
+$$
+
+![](images/1a0fca223107b058272ea21f9a653e48835158dad522007023c401c15a8d831c.jpg)  
+Figure 1: The two-point function in position space and momentum space.
+
+which is added to the bare scaling dimension $\Delta _ { \mathcal { O } } ^ { ( 0 ) }$ in order to obtain the conformal dimension $\Delta _ { \mathcal { O } }$ . Since $\gamma _ { \mathcal { O } }$ is finite when the limit $\epsilon  0$ is taken in the above equation,the form of $\scriptstyle { \mathcal { Z } } _ { \mathcal { O } }$ as a power series in $g$ is fixed to
+
+$$
+\mathcal { Z } _ { \mathcal { O } } = \exp \bigg ( \sum _ { \ell = 1 } ^ { \infty } \frac { g ^ { 2 \ell } } { 2 \ell \epsilon } \gamma _ { \mathcal { O } } ^ { ( \ell ) } \bigg ) = 1 + g ^ { 2 } \frac { \gamma _ { \mathcal { O } } ^ { ( 1 ) } } { 2 \epsilon } + g ^ { 4 } \bigg ( \frac { ( \gamma _ { \mathcal { O } } ^ { ( 1 ) } ) ^ { 2 } } { 8 \epsilon ^ { 2 } } + \frac { \gamma _ { \mathcal { O } } ^ { ( 2 ) } } { 4 \epsilon } \bigg ) + \mathcal { O } ( g ^ { 6 } ) \ .
+$$
+
+Conformal symmetry also completely fixes the form of the two-point function of the operator $\mathcal { O } _ { \mathrm { R } }$ . In Minkowski spacetime,it reads
+
+$$
+G _ { 2 \mathcal O , \mathrm { R } } ( x ) = \langle 0 | \bar { \mathcal O } _ { \mathrm { R } } ( x ) \mathcal O _ { \mathrm { R } } ( 0 ) | 0 \rangle = \frac { M } { ( - x ^ { 2 } + i 0 ) ^ { \Delta _ { \mathcal O } } \mu ^ { 2 \gamma _ { \mathcal O } } } ~ , \qquad \Delta _ { \mathcal O } = \Delta _ { \mathcal O } ^ { ( 0 ) } + \gamma _ { \mathcal O } ~ ,
+$$
+
+where our conventions for the $i 0$ description are given in appendix A. The parameter $\mu$ has the dimension of mass and is introduced in order to fix the mass dimension of $G _ { \mathrm { 2 } \mathcal { O } , \mathrm { R } }$ to （20 $2 \Delta _ { \mathcal { O } } ^ { ( 0 ) }$ . Thecoupling-dependent dimensionlessfactor $M$ has a perturbative expansion as
+
+$$
+{ \cal M } = \sum _ { \ell = 0 } ^ { \infty } g ^ { 2 \ell } { \cal M } ^ { ( \ell ) } ~ ,
+$$
+
+and it can be absorbed into the normalization of $\mathcal { O } _ { \mathrm { R } }$
+
+We will work in momentum space,and hence need the Fourier transformation of (2.4). According to appendix A,it is given by
+
+$$
+\tilde { G } _ { 2 \mathcal O , \mathrm { R } } ( q ^ { 2 } ) = \int \mathrm { d } ^ { D } x \mathrm { e } ^ { i q \cdot x } G _ { 2 \mathcal O , \mathrm { R } } ( x ) = ( - i ) 2 ^ { D - 2 \Delta _ { \mathcal O } } \pi ^ { \frac { D } { 2 } } \frac { \Gamma ( \frac { D } { 2 } - \Delta _ { \mathcal O } ) } { \Gamma ( \Delta _ { \mathcal O } ) } \frac { M } { ( - q ^ { 2 } - i 0 ) ^ { \frac { D } { 2 } - \Delta _ { \mathcal O } } \mu ^ { 2 \gamma _ { \mathcal O } } } \mathrm { ~ . ~ }
+$$
+
+When expanding the above expression first for small $g$ and then for small $\epsilon$ , one obtains $\textstyle { \frac { 1 } { \epsilon ^ { k } } }$ -poles for any $k \geq 1$ ，which for $k \geq 2$ are proportional to powers of $\gamma _ { \mathcal { O } }$ [66]. Since $G _ { 2 \mathcal { O } , \mathrm { R } } ( x )$ is the finite (renormalized） Green function, these poles cannot come from UV divergences. In fact， they arise from integrating over the origin $x \ = \ 0$ of spacetime, where $G _ { 2 \mathcal { O } , \mathrm { R } } ( x )$ is singular. This can be most easily seen for the half-BPS operator $\mathcal { O } _ { \mathrm { B P S } }$ （2 defined in (1.2). Since this operator is protected, $\gamma _ { \mathrm { { B P S } } } = 0$ ， and all poles of order $k \geq 2$ （204号 disappear,but a simple $\frac { \mathrm { ~ \underline { ~ } { ~ } } } { \epsilon }$ -pole remains. In momentum space, this pole is associated with the one-loop bubble integral. It is obtained when inserting Fourier expressions for the two scalar propagators7 (-x2+i0)1-c connecting the two operators as depicted in figure 1 and performing the integration over $x$ in (2.6),which yields a $\delta$ -function of momentum conservation. For the tree-level two-point function, the steps are as follows:
+
+$$
+\frac { 1 } { ( - x ^ { 2 } + i 0 ) ^ { 2 - 2 \epsilon } } \quad \overrightarrow { \mathrm { F T } } \quad \int \frac { \mathrm { d } ^ { D } l } { ( 2 \pi ) ^ { D } } \frac { 1 } { l ^ { 2 } ( l - q ) ^ { 2 } } \sim \frac { 1 } { ( - q ^ { 2 } - i 0 ) ^ { \epsilon } \epsilon } .
+$$
+
+This simple pole (for the BPS operator） and all the further $\textstyle { \frac { 1 } { \epsilon ^ { k } } }$ -poles, $k \geq 2$ ， (for nonprotected operators) are absent when taking the imaginary part of the momentum-space Green function (2.6).
+
+As we will see in the next subsection, via the optical theorem the imaginary part of (2.6) yields a cross-section-type quantity: the probability of the inclusive decay of the renormalized operator $\mathcal { O } _ { \mathrm { R } }$ .It has to be finite in the limit $\epsilon  0$ ，since it is free of IR divergences and — due to renormalization — also of UV divergences.
+
+# 2.2 Two-point correlation functions and cross sections
+
+Via the optical theorem,the imaginary part of a two-point correlation function is related to the inclusive decay width of the renormalized operator $\mathcal { O } _ { \mathrm { R } }$ with off-shell momentum $q$ ， where $q ^ { 2 } > 0$ . As motivated in the introduction, we will simply denote this as cross section （204号 $\sigma _ { \mathcal { O } , \mathrm { R } }$ in this paper. It is given by8
+
+$$
+\sigma _ { \mathcal O , { \mathrm R } } = \mathrm { I m } [ 2 i \tilde { G } _ { 2 \mathcal O , { \mathrm R } } ( q ^ { 2 } ) ] = \sum _ { X } ( 2 \pi ) ^ { D } \delta ^ { ( D ) } ( q - p _ { X } ) | \langle X | \mathcal O _ { \mathrm { R } } ( 0 ) | 0 \rangle | ^ { 2 } \ ,
+$$
+
+where one sums over all final on-shell states $X$ ，and the squared matrix element is given by the product of two form factors9
+
+$$
+\hat { \mathcal { F } } _ { \mathcal { O , X } } = \langle X \vert \mathcal { O } ( 0 ) \vert 0 \rangle \ .
+$$
+
+The form factor has the perturbative expansion
+
+$$
+\hat { \mathcal { F } } _ { \mathcal O , X } = \sum _ { \ell = 0 } ^ { \infty } g ^ { 2 \ell } \hat { \mathcal { F } } _ { \mathcal O , X } ^ { ( \ell ) } \ ,
+$$
+
+where $g$ is the parameter of the loop expansion. Concretely, in $\mathcal { N } = 4$ SYM theory in the modified dimensional reduction ( $\mathrm { \overline { { D R } } }$ ） scheme, the coupling constant is given in (1.5). Moreover, the summation over all final states $X$ in (2.8) involves in particular a summation overthenumbernofparticlesinthefinalstateie.often-pointforfactors FOn over （20 $n$ . The number $n$ is directly related to powers of the Yang-Mills coupling constant $g _ { \mathrm { Y M } }$ . In analogy to amplitudes (see e.g. [67]), the $n$ -point form factors possess a decomposition in terms of the possible color structures as
+
+$$
+\begin{array} { l } { { \displaystyle \hat { \mathcal { F } } _ { \mathcal { O } , n } ^ { ( \ell ) } ( \{ a _ { i } , p _ { i } , \eta _ { i } \} ) = g _ { \mathrm { Y M } } ^ { n - 2 } \sum _ { \sigma \in S _ { n } / Z _ { n } } \mathrm { t r } ( \mathrm { T } ^ { a _ { \sigma ( 1 ) } } \cdot \cdot \cdot \mathrm { T } ^ { a _ { \sigma ( n ) } } ) \mathcal { F } _ { \mathcal { O } , n } ^ { ( \ell ) } ( \{ p _ { \sigma ( i ) } , \eta _ { \sigma ( i ) } \} ) } } \\ { { \displaystyle \qquad + \mathrm { m u l t i - t r a c e ~ t e r m s } ~ , } } \end{array}
+$$
+
+where $\mathrm { T } ^ { a }$ ， $a = 1 , \ldots , N _ { \mathrm { c } } ^ { 2 } - 1$ , are the gauge-group generators of $S U ( N _ { \mathrm { c } } )$ normalized as
+
+$$
+\mathrm { t r } ( \mathrm { T } ^ { a } \mathrm { T } ^ { b } ) = \delta ^ { a b } \ .
+$$
+
+In (2.11), the $i ^ { \mathrm { t h } }$ particle, $i = 1 , \ldots , n$ ， with momentum $p _ { i }$ carries the adjoint gauge-group Grasst index $a _ { i }$ . Via Nair's superfield (1.7), its flavor and helicity are encoded in terms of the imn varables $\eta _ { i }$ h $\mathcal { F } _ { { O , n } } ^ { ( \ell ) }$ on the hs. also depend.
+
+The imaginary part of (2.6) can be obtained by taking the discontinuity, which for timelike ( $q ^ { 2 } > 0$ ）momentum reads10
+
+$$
+2 i \mathrm { I m } ( - q ^ { 2 } - i 0 ) ^ { x } = ( - q ^ { 2 } - i 0 ) ^ { x } - ( - q ^ { 2 } + i 0 ) ^ { x } = \frac { 2 \pi i } { \Gamma ( x ) \Gamma ( 1 - x ) } ( q ^ { 2 } ) ^ { x } \ .
+$$
+
+Using this relation in order to determine the imaginary part of (2.6) and then inserting the result into (2.8) yields
+
+$$
+\frac { \sigma _ { \mathcal { O } , \mathrm { R } } } { \sigma _ { \mathcal { O } } ^ { ( 0 ) } } = \frac { M ( g ) } { M ^ { ( 0 ) } } \frac { \Gamma ( \Delta _ { \mathcal { O } } ^ { ( 0 ) } ) \Gamma ( \frac { D } { 2 } - \Delta _ { \mathcal { O } } ) } { \Gamma ( \Delta _ { \mathcal { O } } ) \Gamma ( \frac { D } { 2 } - \Delta _ { \mathcal { O } } ^ { ( 0 ) } ) } \frac { \Gamma ( \Delta _ { \mathcal { O } } ^ { ( 0 ) } - \frac { D } { 2 } ) \Gamma ( 1 + \frac { D } { 2 } - \Delta _ { \mathcal { O } } ^ { ( 0 ) } ) } { \Gamma ( \Delta _ { \mathcal { O } } - \frac { D } { 2 } ) \Gamma ( 1 + \frac { D } { 2 } - \Delta _ { \mathcal { O } } ) } \Big ( \frac { q ^ { 2 } } { 4 \mu ^ { 2 } } \Big ) ^ { \gamma _ { \mathcal { O } } } \ ,
+$$
+
+where we have divided $\sigma _ { \mathcal { O } , \mathrm { R } }$ by its classcal pat $\sigma _ { \mathcal { O } } ^ { ( 0 ) } = \mathrm { I m } [ 2 i \tilde { G } _ { 2 \mathcal { O } , \mathrm { R } } ^ { ( 0 ) } ( q ^ { 2 } ) ]$ Indeed, as mentionedattheendoftheprevioussubsetiooth $\sigma _ { \mathcal { O } } ^ { ( 0 ) }$ and $\sigma _ { \mathcal { O } , \mathrm { R } }$ are free f $\textstyle { \frac { 1 } { \epsilon } }$ -poles, since the poles are canceled by the extra $\Gamma$ -functions introduced via (2.13). This can also directly be seen for the bubble integral in (2.7): its imaginary part is obtained by applying a double-cut, which just yields a finite constant.
+
+By taking the logarithm of (2.14),we can expose the dependence on $q ^ { 2 }$ as follows:
+
+$$
+\log \left( \frac { \sigma _ { \mathcal { O , \mathrm { R } } } } { \sigma _ { \mathcal { O } } ^ { ( 0 ) } } \right) = \gamma _ { \mathcal { O } } \log \frac { q ^ { 2 } } { \mu ^ { 2 } } + C + O ( \epsilon ) \ ,
+$$
+
+where the constant $C$ is scale-independent but depends on $\gamma _ { \mathcal { O } }$ and the expansion coefficients of the normalization factor (2.5） as
+
+$$
+\begin{array} { l } { { C = g ^ { 2 } \bigg ( \displaystyle \frac { M ^ { ( 1 ) } } { M ^ { ( 0 ) } } - ( 1 - 2 \gamma _ { \mathrm { E } } ) \gamma ^ { ( 1 ) } \bigg ) } } \\ { { \displaystyle \phantom { \bigg ( \frac { M ^ { ( 2 ) } } { M ^ { ( 0 ) } } - \frac { 1 } { 2 } \bigg ( \frac { M ^ { ( 1 ) } } { M ^ { ( 0 ) } } \bigg ) ^ { 2 } + \frac { 3 - \pi ^ { 2 } } { 6 } \big ( \gamma ^ { ( 1 ) } \big ) ^ { 2 } - ( 1 - 2 \gamma _ { \mathrm { E } } ) \gamma ^ { ( 2 ) } \bigg ) + O ( g ^ { 6 } ) ~ . } } } \end{array}
+$$
+
+It is also renormalization-scheme-dependent as discussed at the end of section 5. However, the $\log { q ^ { 2 } }$ term is universal and scheme-independent. The anomalous dimension is given by the coefficient of $\log { \frac { q ^ { 2 } } { \mu ^ { 2 } } }$ . Inthis paper,wewillverifythisstructurefortheKonishioperator up to two loops.
+
+# Strategy of computing cross sections
+
+The cross section is obtained from (2.8） in more detail as follows:
+
+$$
+\sigma = \sum _ { n } \int \mathrm { d } \mathrm { P S } _ { n } \sum _ { \mathrm { c o l o r s } } \sum _ { \mathrm { h e l i c i t i e s } } \left\{ \Longrightarrow \bigoplus _ { \hat { \tau } _ { n } } \sum _ { \hat { \tau } _ { n } ^ { \prime } } \bigoplus _ { \hat { \tau } _ { n } ^ { \prime } } \right\} .
+$$
+
+This relation holds for both,the bare and the renormalized cross section, if ${ \hat { \mathcal { F } } } _ { n }$ represents the bare and the renormalized form factors, respectively. The evaluation of (2.17) requires three main steps: (1） determining the form factors ${ \hat { \mathcal { F } } } _ { n }$ ，(2） taking the absolute square of ${ \hat { \mathcal { F } } } _ { n }$ ，and (3） performing the $n$ particle phase-space integrals.More concretely, (2.17） is expanded in powers of $g$ as follows:
+
+$$
+\sigma = \sum _ { \ell = 0 } ^ { \infty } g ^ { 2 \ell } \sigma ^ { ( \ell ) } \ , \qquad \sigma ^ { ( \ell ) } = \sum _ { n = 2 } ^ { \ell + 2 } g ^ { 2 ( 2 - n ) } \int \mathrm { d P S } _ { n } \mathcal { M } _ { n } ^ { ( \ell + 2 - n ) } \ ,
+$$
+
+where the squared matrix elements are given by
+
+$$
+\mathcal { M } _ { n } ^ { ( \ell ) } = \frac { 1 } { n ! } \sum _ { a _ { i } } \int \prod _ { i = 1 } ^ { n } \mathrm { d } ^ { 4 } \eta _ { i } \sum _ { k = 0 } ^ { m } \sum _ { l = 0 } ^ { \ell } \hat { \mathcal { F } } _ { \mathcal { O } , n } ^ { \mathrm { N } ^ { k } \mathrm { M H V } , ( l ) } \big ( \{ a _ { i } , p _ { i } , \eta _ { i } \} \big ) \hat { \mathcal { F } } _ { \mathcal { O } , n } ^ { * , \mathrm { N } ^ { m - k } \mathrm { M H V } , ( \ell - l ) } \big ( \{ a _ { i } , p _ { i } , \eta _ { i } \} \big ) ,
+$$
+
+in which $\hat { \mathcal { F } } _ { n } ^ { ( \ell ) } ( \{ a _ { i } , p _ { i } , \eta _ { i } \} )$ is the $\ell$ -loop $n$ point non-color-ordered super form factor defined in (2.11), and $\hat { \mathcal { F } } _ { n } ^ { * } ( \{ a _ { i } , p _ { i } , \eta _ { i } \} )$ is its complex conjugate.11 Moreover, $k$ in ${ \mathrm { N } } ^ { k } { \mathrm { M H V } }$ is called the MHV degree, which refers to terms in $\hat { \mathcal { F } } _ { n } ^ { ( \ell ) }$ with a specific degree in $\eta$ For the BPS and Konishi operator considered in this paper, the MHV form factors have degree 4 in $\eta$ （20 and $m = n - 2$ is fixed. The squared matrix element involves sums over all numbers $n$ and types of external particles as well as their color degrees of freedom. The sum over the types of particles is given in terms of integrations over the fermionic variables $\eta _ { i } ^ { A }$ ， $A = 1 , 2 , 3 , 4$ ， and a sum over the MHV degree $k$ ：
+
+Given the squared matrix elements, as a next step, the integration over the phase space of the $n$ particles in the final state has to be performed. The respective measure is given by
+
+$$
+\mathrm { d } \mathrm { P S } _ { n } = \biggl ( \prod _ { i = 1 } ^ { n } \frac { \mathrm { d } ^ { D } p _ { i } } { ( 2 \pi ) ^ { D } } 2 \pi \delta _ { + } ( p _ { i } ^ { 2 } ) \biggr ) ( 2 \pi ) ^ { D } \delta ^ { ( D ) } \biggl ( q - \sum _ { i = 1 } ^ { n } p _ { i } \biggr ) \ ,
+$$
+
+where $\delta _ { + } ( p ^ { 2 } ) = \delta ( p ^ { 2 } ) \theta ( p _ { 0 } )$ with $\theta ( p _ { 0 } )$ being the Heaviside step function which imposes the positivity condition on $p _ { 0 }$ .In appendix $\mathrm { E }$ ， we give explicit parametrizations of the two-particle and three-particle phase-space integrals.
+
+Finally, the sum over the different channels, i.e. over the different particle numbers $n$ ， has to be performed. This leads to a cancellation among the different soft and collinear IR divergences such that the final result is IR finite. If non-protected operators are involved, as in the Konishi case, their renormalization constants have to be taken into account.
+
+# 3 Form factors for $\kappa _ { 6 }$ via unitarity
+
+In the previous section, we have defined the cross section for gauge-invariant operators $\mathcal { O }$ （20 in ${ \mathcal { N } } = 4$ SYM theory in terms of its squared matrix elements. As discussed around (2.19), the building blocks of these squared matrix elements are the non-color-ordered super form factors for the respective operator. In this section，we will present the building blocks necessary for computing the cross section of the Konishi operator (1.4） up to two loops, which are the two-point form factor up to two-loop order and the three-point form factor at one-loop order.12
+
+We use the notation $\hat { \mathcal { F } } _ { \mathcal { O } , n } ^ { ( \ell ) } ( \{ a _ { i } , p _ { i } , \eta _ { i } \} )$ for the non-color-ordered super form factors and $\mathcal { F } _ { \mathcal { O } , n } ^ { ( \ell ) } ( \{ p _ { i } , \eta _ { i } \} )$ for the color-ordered super form factors,as introduced in (2.11).We denotethe bosonic color-ordered form factors with fixed external states by $F _ { \mathcal { O } , n } ^ { ( \ell ) } ( \{ p _ { i } \} )$ If necessary, we specify the external states by subscripts,e.g. in case of two scalars and one gluon as $F _ { \mathcal { O } } ^ { ( \ell ) } ( 1 _ { \phi } , 2 _ { \phi } , 3 _ { g } )$ or simply $F _ { \mathcal { O } , ( \phi , \phi , g ) } ^ { ( \ell ) }$ s from $\mathcal { F } _ { \mathcal { O } , n } ^ { ( \ell ) } ( \{ p _ { i } , \eta _ { i } \} )$ by taking a specific term in the $\eta _ { i }$ expansion. We also introduce the normalized bosonic form factors $f _ { \mathcal { O } , n } ^ { ( \ell ) }$ as the ratio etween the $\ell$ loop and tree-level colorordered bosonic form factors:
+
+$$
+f _ { \mathcal { O } , n } ^ { ( \ell ) } ( \{ p _ { i } \} ) = \frac { F _ { \mathcal { O } , n } ^ { ( \ell ) } ( \{ p _ { i } \} ) } { F _ { \mathcal { O } , n } ^ { ( 0 ) } ( \{ p _ { i } \} ) } .
+$$
+
+Our computation will focus on the colored-ordered form factors; via (2.11), it is straightforward to obtain the full non-color-ordered super form factor from them.
+
+The computation of form factors in this section are based on the on-shell superspace formthe o e ${ { \ K } _ { 6 } }$ form edlir 1 $\mathcal { K }$ $F _ { \boldsymbol { \mathcal { K } } _ { 6 } , n } ^ { ( \ell ) }$ Inordertoatsco $F _ { \boldsymbol { \mathcal { K } } , n } ^ { ( \ell ) }$ weaetooif in this section,as will be discussed in detail in section 4.
+
+# 3.1 Some BPS form factor results
+
+We start by presenting some known results for BPS form factors, which are also useful building blocks for the Konishi form factors. Unless otherwise specified, the BPS form factor in this paper will always refer to that of the half-BPS operator $\mathrm { t r } ( \phi _ { A B } ^ { 2 } )$ defined in (1.9),ndweuethbiatio $\mathcal { F } _ { { \mathrm { B P S } } , n } ^ { ( \ell ) } = \mathcal { F } _ { \mathrm { t r } ( \phi _ { A B } ^ { 2 } ) , n } ^ { ( \ell ) }$
+
+The $n$ -point MHV tree-level BPS super form factor is given by [22]
+
+$$
+\mathcal { F } _ { \mathrm { B P S } , n } ^ { ( 0 ) , \mathrm { M H V } } ( 1 , 2 , \ldots , n ) = \frac { \delta ^ { ( 4 ) A B } ( \sum _ { i = 1 } ^ { n } \lambda _ { i } \eta _ { i } ) } { \langle 1 2 \rangle \langle 2 3 \rangle \ldots \langle n 1 \rangle } ,
+$$
+
+where $\delta ^ { ( 4 ) A B } ( \textstyle \sum _ { i } \lambda _ { i } \eta _ { i } )$ is understood as taking $\eta$ in the deltafunction with only $A , B$ indices, or more explicitly
+
+$$
+\delta ^ { ( 4 ) A B } ( \sum _ { i } \lambda _ { i } \eta _ { i } ) = \Bigl ( \sum _ { i < j } \langle i j \rangle \eta _ { i } ^ { A } \eta _ { j } ^ { A } \Bigr ) \Bigl ( \sum _ { k < l } \langle k l \rangle \eta _ { k } ^ { B } \eta _ { l } ^ { B } \Bigr ) \ .
+$$
+
+Note that in this and all following expressions for form factors we do not explicitly write the momentum-conserving delta function $( 2 \pi ) ^ { 4 } \delta ^ { ( 4 ) } ( q - \textstyle \sum _ { i = 1 } ^ { n } p _ { i } )$ ，where $q$ is the four-momentum carried by the gauge-invariant operator.
+
+We give the loop corrections to the BPS MHV form factor in terms of the normalized form factor defined in (3.1). In this paper, we only need the folowing three results [13, 20, 21]:
+
+$$
+\begin{array} { r l } & { f _ { \mathrm { B P S , 2 } } ^ { ( 1 ) } = - 2 s _ { 1 2 } \Longrightarrow { \small \mathscr { T } \sum _ { p _ { 2 } } ^ { p _ { 1 } } } , } \\ & { f _ { \mathrm { B P S , 2 } } ^ { ( 2 ) } = s _ { 1 2 } ^ { 2 } \left( 4 = < \mathscr { T } \mathscr { T } _ { \mathrm { \textsc { \textsc { \textsc { p } } } } ^ { p _ { 1 } } } ^ { p _ { 1 } } + \Longrightarrow { \small \mathscr { T } \sum _ { p _ { 2 } } ^ { p _ { 1 } } } \right) , } \\ & { f _ { \mathrm { B P S , 3 } } ^ { ( 1 ) } = - \frac { s _ { 1 2 } s _ { 2 3 } } { 2 } \Longrightarrow { \small \mathscr { T } \sum _ { p _ { 3 } } ^ { p _ { 1 } } } - \frac { s _ { 1 3 } + s _ { 2 3 } } { 2 } \Longrightarrow { \small \mathscr { T } \sum _ { p _ { 2 } } ^ { p _ { 1 } } } - \frac { s _ { 1 2 } + s _ { 3 1 } } { 2 } = < \mathscr { T } \mathscr { \mathbf { \Phi } } _ { p _ { 3 } } ^ { p _ { 1 } } } \end{array}
+$$
+
+where $s _ { i j \ldots k } = ( p _ { i } + p _ { j } + \cdot \cdot \cdot + p _ { k } ) ^ { 2 }$ . Each graph corresponds to a Feynman integral which is defined in appendix B. Throughout this paper, all external on-shell momenta $p _ { i }$ are understood as outgoing.
+
+For the two-point case only the MHV configuration exists,while at three points there are the MHV and the next-to-MHV (NMHV) configuration. The NMHV tree-level form factor can be obtained from (3.2) by first taking the conjugation $\lambda  \tilde { \lambda }$ and $\eta ^ { A } \to \tilde { \eta } _ { A }$ ,and then applying a fermionic Fourier transformation as13
+
+$$
+\mathcal { F } _ { \overline { { \mathrm { B P S } } } , 3 } ^ { ( 0 ) , \mathrm { N M H V } } ( 1 , 2 , 3 ) = \bigg ( \prod _ { i = 1 } ^ { 3 } \int \mathrm { d } ^ { 4 } \tilde { \eta } _ { i } \mathrm { e } ^ { \eta _ { i } ^ { C } \tilde { \eta } _ { i , C } } \bigg ) \frac { \delta _ { A B } ^ { ( 4 ) } ( \sum _ { j = 1 } ^ { 3 } \tilde { \lambda } _ { j } \tilde { \eta } _ { j } ) } { [ 1 2 ] [ 2 3 ] [ 3 1 ] } .
+$$
+
+The loop correction to both, the MHV and the NHMV three-point form factor, is given by (3.6).
+
+# 3.2 Tree-level two- and three-point form factors
+
+We now turn to the form factors of ${ { \ K } _ { 6 } }$ . In this subsection,we consider its tree-level form factors. They are identical to those of the Konishi operator $\mathcal { K }$ .The expression for ${ { \ K } _ { 6 } }$ （204号 in (1.1O） contains the individual fields $\phi _ { A B } \phi _ { C D }$ where $A , B , C , D$ assume distinct values instead of $\phi _ { A B } ^ { 2 }$ as is the case for the BPS operator. For the tree-level bosonic form factor with specified external particles, however, the index structure of the external scalars and fermions do not play any role in the result,which is obvious from the Feynman diagram computation. Therefore, the tree-level bosonic form factors for the Konishi operator are identical to the corresponding BPS form factors.
+
+The super form factors,on the other hand, take different forms. Taking into account all the components, the two-point super form factor reads14
+
+$$
+\mathcal { F } _ { K _ { 6 } } ^ { ( 0 ) } ( 1 , 2 ) = - \frac { 1 } { 4 } \frac { \langle 1 2 \rangle ^ { 2 } } { \langle 1 2 \rangle \langle 2 1 \rangle } \varepsilon _ { A B C D } ( \eta _ { 1 } ^ { A } \eta _ { 1 } ^ { B } ) ( \eta _ { 2 } ^ { C } \eta _ { 2 } ^ { D } ) ~ ,
+$$
+
+where $\varepsilon _ { 1 2 3 4 } = 1$ . The bosonic two-point form factor
+
+$$
+F _ { \mathcal { K } _ { 6 } } ^ { ( 0 ) } ( 1 _ { \phi _ { 1 2 } } , 2 _ { \phi _ { 3 4 } } ) = - \frac { \langle 1 2 \rangle ^ { 2 } } { \langle 1 2 \rangle \langle 2 1 \rangle } = 1
+$$
+
+canbe obtained bytaking the (nin2)(nn）componentof the tre-level form factor Fo2 in (3.8); it is identical to the BPS result as can be seen by taking the $( \eta _ { 1 } ^ { A } \eta _ { 1 } ^ { B } ) ( \eta _ { 2 } ^ { A } \eta _ { 2 } ^ { B } )$ （20 component of (3.2） at $n = 2$ . There are two other possible scalar field configurations at the external legs, namely $\{ ( \phi _ { 1 3 } , \phi _ { 2 4 } ) , ( \phi _ { 1 4 } , \phi _ { 2 3 } ) \}$ ，and for both these cases we obtain the same bosonic form factor as above.
+
+The three-point MHV super form factor is given by the following expression:
+
+$$
+\begin{array} { r l } & { \mathcal { F } _ { K _ { 6 } } ^ { ( 0 ) } ( 1 , 2 , 3 ) = \frac { - 1 } { 4 \left. 1 2 \right. \left. 2 3 \right. \left. 3 1 \right. } \bigg ( \left. 1 2 \right. ^ { 2 } \varepsilon _ { A B C D } ( \eta _ { 1 } ^ { A } \eta _ { 1 } ^ { B } ) ( \eta _ { 2 } ^ { C } \eta _ { 2 } ^ { D } ) } \\ & { \phantom { \mathcal { F } _ { K _ { 6 } } ^ { ( 0 ) } ( 1 , 2 , 3 ) = } + 2 \left. 1 3 \right. \left. 2 3 \right. \varepsilon _ { A B C D } \eta _ { 1 } ^ { A } \eta _ { 2 } ^ { B } ( \eta _ { 3 } ^ { C } \eta _ { 3 } ^ { D } ) + \mathrm { c y c l i c ~ p e r m . } \bigg ) \ . } \end{array}
+$$
+
+It has two distinct configurations of the external states: scalar-scalar-gluon and fermionfermion-scalar. Taking the coefficients of $( \eta _ { 1 } ^ { 1 } \eta _ { 1 } ^ { 2 } ) ( \eta _ { 2 } ^ { 3 } \eta _ { 2 } ^ { 4 } )$ and $\eta _ { 1 } ^ { 1 } \eta _ { 2 } ^ { 2 } ( \eta _ { 3 } ^ { 3 } \eta _ { 3 } ^ { 4 } )$ ， we find
+
+$$
+F _ { \mathcal K _ { 6 } } ^ { ( 0 ) } ( 1 _ { \phi _ { 1 2 } } , 2 _ { \phi _ { 3 4 } } , 3 _ { g _ { + } } ) = - \frac { \langle 1 2 \rangle ^ { 2 } } { \langle 1 2 \rangle \langle 2 3 \rangle \langle 3 1 \rangle } \ , \qquad F _ { \mathcal K _ { 6 } } ^ { ( 0 ) } ( 1 _ { \psi _ { 1 } } , 2 _ { \psi _ { 2 } } , 3 _ { \phi _ { 3 4 } } ) = - \frac { \langle 1 3 \rangle \langle 2 3 \rangle } { \langle 1 2 \rangle \langle 2 3 \rangle \langle 3 1 \rangle } \ ,
+$$
+
+which are also identical to the corresponding BPS form factors. The NMHV form factor can be obtained from the MHV result in a similar way as in the BPS case (3.7).
+
+# 3.3 One-loop two-point form factor
+
+In this and the following subsection, we compute the form factor of ${ { \ K } _ { 6 } }$ at one- and two-loop level via four-dimensional unitarity [3, 4].
+
+![](images/0cbe792ce8e9a238f3ee867d1fbb817f70a0c858775db6d4ca6a0ab6a037015b.jpg)  
+Figure 2: The simple $( p _ { 1 } + p _ { 2 } ) ^ { 2 }$ double cut.
+
+The general idea of unitarity in this context is to reconstruct loop corrections to the form factors at the integrand level from their discontinuities,i.e.by applying cuts. Here, a cut denotes setting a propagator on-shell according to
+
+$$
+\frac { i } { l _ { i } ^ { 2 } }  2 \pi \delta _ { + } ( l _ { i } ^ { 2 } ) ~ ,
+$$
+
+where $\delta _ { + } ( l _ { i } ^ { 2 } )$ was defined after (2.2O). On the cut, the loop expression factorizes into a product of (known) tree-level or lower-loop form factors and amplitudes. These have to be summed over all possible particles exchanged in the cut channel, which can be achieved by integrating the super form factors as wel as the super amplitudes over the Grassmannian degrees of freedom in the cut legs. Then,one can apply the spinor algebra to write the result in a form that can be identified as a sum of cut integrals. In this way, an ansatz for the uncut integrals occurring in the loop correction is assembled. In general, not all integrals appear in a given cut,and additional cuts have to be taken to complement the ansatz. The complete ansatz has to be consistent with all possible cut.Finally, the cut integrals have to be lifted to the uncut integrals,as discussed in appendix B.
+
+In the following,we apply this technique to the form factor of ${ { \ K } _ { 6 } }$ . We start with the computation of the one-loop two-point form factor. For the sake of explicitness, we choose a fixed combination of external scalar states, namely $\{ \phi _ { 1 2 } , \phi _ { 3 4 } \}$ . As in the tree-level case, the other two choices of external scalars $\{ \phi _ { 1 3 } , \phi _ { 2 4 } \}$ and $\left\{ \phi _ { 1 4 } , \phi _ { 2 3 } \right\}$ lead to the same result. We abbreviate $F _ { \mathcal { K } _ { 6 } } ^ { ( \ell ) } ( 1 _ { \phi _ { 1 2 } } , 2 _ { \phi _ { 3 4 } } )$ as $F _ { { \boldsymbol { \mathcal { K } } } _ { 6 } , ( \phi , \phi ) } ^ { ( \ell ) }$ （
+
+Only one cut needs to be considered: the two-particle cut in the channel $( p _ { 1 } + p _ { 2 } ) ^ { 2 } =$ （20 $q ^ { 2 }$ .15 It cuts the internal propagators carrying momenta $l _ { 1 }$ and $l _ { 2 }$ as shown in figure 2. The building blocks on the two sides of the cut are the color-ordered two-point form factor (3.8) and the color-ordered four-point MHV amplitude given in the standard MHV form [68] as16
+
+$$
+\mathcal { A } _ { n } ^ { ( 0 ) } = i \frac { \delta ^ { ( 8 ) } ( \sum _ { i = 1 } ^ { n } \lambda _ { i } \eta _ { i } ) } { \langle 1 2 \rangle \langle 2 3 \rangle \dots \langle n 1 \rangle } .
+$$
+
+The sum over all possible particles exchanged along the cut is considered by integrating over the fermionic coordinates of the exchanged particles as $\begin{array} { r } { \int \mathrm { d } ^ { 8 } \eta _ { l _ { 1 , 2 } } = \int \mathrm { d } ^ { 4 } \eta _ { l _ { 1 } } \mathrm { d } ^ { 4 } \eta _ { l _ { 2 } } } \end{array}$ while keeping the external state fixed.
+
+The $q ^ { 2 }$ -cut integral reads17
+
+$$
+\begin{array} { r l } & { \left. F _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 1 ) } \right| _ { q ^ { 2 } } = \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \mathrm { d } ^ { 8 } \eta _ { l _ { 1 , 2 } } \mathcal { F } _ { K _ { 6 } , 2 } ^ { ( 0 ) } ( - l _ { 1 } , - l _ { 2 } ) \times \left. A _ { 4 } ^ { ( 0 ) } ( p _ { 1 } , p _ { 2 } , l _ { 2 } , l _ { 1 } ) \right| _ { ( \eta _ { 1 } ^ { 1 } \eta _ { 1 } ^ { 2 } ) ( \eta _ { 2 } ^ { 3 } \eta _ { 2 } ^ { 4 } ) } } \\ & { \qquad = F _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 0 ) } i \underbrace { \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \frac { \langle l _ { 1 } 2 \rangle ^ { 2 } \langle l _ { 2 } 1 \rangle ^ { 2 } + 4 \langle l _ { 1 } 1 \rangle \langle l _ { 1 } 2 \rangle \langle l _ { 2 } 1 \rangle \langle l _ { 2 } 2 \rangle + \langle l _ { 1 } 1 \rangle ^ { 2 } \langle l _ { 2 } 2 \rangle ^ { 2 } } { \langle l _ { 1 } 1 \rangle \langle l _ { 2 } \rangle \langle l _ { 2 } l _ { 1 } \rangle } } _ { \mathcal { C } _ { ( \phi , \phi ) } } . } \end{array}
+$$
+
+Since the external states are fixed to be $\{ \phi _ { 1 2 } , \phi _ { 3 4 } \}$ ，we take the $( \eta _ { 1 } ^ { 1 } \eta _ { 1 } ^ { 2 } ) ( \eta _ { 2 } ^ { 3 } \eta _ { 2 } ^ { 4 } )$ component of the cut integrand. The phase-space integration measure, $\mathrm { d P S _ { 2 , \{ l \} } }$ , is defined according to (2.20),with the integration variables being the momenta of the cut propagators $\{ l _ { 1 } , l _ { 2 } \}$ hence the subscript in the notation for dPS2,{}·
+
+The cut integral can be simplified at the integrand level as18
+
+$$
+\begin{array} { r l } & { \frac { \varepsilon } { \varepsilon } _ { ( \phi , \phi ) } = \displaystyle \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \left( \frac { \langle l _ { 1 } l _ { 2 } \rangle \langle 1 2 \rangle } { \langle l _ { 1 } 1 \rangle \langle l _ { 2 } 2 \rangle } + 6 \frac { \langle l _ { 1 } 2 \rangle \langle l _ { 2 } 1 \rangle } { \langle 1 2 \rangle \langle l _ { 1 } l _ { 2 } \rangle } \right) = \displaystyle \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \left( \frac { - s _ { 1 2 } } { ( l _ { 1 } + p _ { 1 } ) ^ { 2 } } + 6 \frac { \langle l _ { 1 } + p _ { 2 } \rangle ^ { 2 } } { s _ { 1 2 } } \right) } \\ & { \quad \quad = - s _ { 1 2 } = \displaystyle { \longrightarrow } \sum _ { p _ { 2 } } ^ { p _ { 1 } } + 6 \frac { ( l _ { 1 } + p _ { 2 } ) ^ { 2 } } { s _ { 1 2 } } = \mathrm { C } \displaystyle { \bigcup _ { p _ { 2 } } ^ { p _ { 1 } } } , } \end{array}
+$$
+
+where the flow of the momenta is as specified in figure 2. In the above equation, the integral over the two-particle phase space is shown by the dashed cut line of the triangle and bubble graph. For the triangle graph,the denominator in the integrand is the uncut propagator $\frac { 1 } { ( l _ { 1 } + p _ { 1 } ) ^ { 2 } }$ and the numerator coefficient is $- s _ { 1 2 }$ . The shown bubble graph has no uncut propagator,but is has a loop-momentum-dependent numerator factor, which is written in front of the graph.
+
+As described in appendix B, the cut integrals (3.15) can be lifted to the fullintegrals. The full normalized form factor as defined in (3.1) then becomes19
+
+$$
+f _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 1 ) } = 2 \left( - s _ { 1 2 } { = - \int _ { p _ { 2 } } } ^ { p _ { 1 } } + 6 \frac { s _ { 2 l } } { s _ { 1 2 } } { = - \int _ { - p _ { 2 } } } ^ { l } \right) ,
+$$
+
+where the factor of 2 is due to the permutation of the two external legs,and we use the short notation $s _ { i l } = ( p _ { i } + l ) ^ { 2 }$ . Note that the prefactors that depend on the loop momentum are understood to appear in the integrand of the integral represented by the respective graph it multiplies.
+
+The bubble integral with loop momentum in the numerator can be reduced to the scalar bubble integral via Passarino-Veltman (PV) reduction, see appendix C for details. Thus,we obtain the form factor20
+
+![](images/d89b0f6ea3080dd5f9f13e16594c40e4b09d54c36d2471bdb92a85ac1a0a7d82.jpg)
+
+The integrals corresponding to the graphs are given in appendix B. Note that the contribution to the form factor involving the triangle integral is the same as the BPS form factor （204号 $f _ { \mathrm { B P S , 2 } } ^ { ( 1 ) }$ in(3).Adedttatiofltia in appendix H.
+
+From the above calculation at one-loop,we see that the IR-divergent part of the form factor of ${ { \ K } _ { 6 } }$ is the same as the one of the BPS operator. The extra contribution coming from the UV divergent bubble integral yields a non-vanishing anomalous dimension unlike in the BPS case. We will equally organize all subsequent results for the form factor in terms of a part that is identical to the BPS form factor and an additional contribution that is unique to the form factor of ${ { \ K } _ { 6 } }$
+
+# Vanishing one-loop form factors
+
+Before proceeding to two-loop order, we briefly discuss two other possble form factors with $F _ { \mathcal { K } _ { 6 } } ^ { ( 1 ) } ( 1 _ { g _ { - } } , 2 _ { g _ { + } } )$ $F _ { \mathcal { K } _ { 6 } } ^ { ( 1 ) } ( 1 _ { \psi _ { 1 } } , 2 _ { \psi _ { 2 3 4 } } )$ 1.t At tree level, they are zero since no Feynman diagram for this configuration exists. At higher loops this is not obvious. Here,we use unitarity to show explicitly that they are zero at least at one-loop order. Consider the $q ^ { 2 }$ cut as in (3.14), but toobtain $F _ { K _ { 6 } } ^ { ( 1 ) } ( 1 _ { g _ { - } } , 2 _ { g _ { + } } )$ （20号 and $F _ { \mathcal { K } _ { 6 } } ^ { ( 1 ) } ( 1 _ { \psi _ { 1 } } , 2 _ { \psi _ { 2 3 4 } } )$ take the components $\eta _ { 1 } ^ { 1 } \eta _ { 1 } ^ { 2 } \eta _ { 1 } ^ { 3 } \eta _ { 1 } ^ { 4 }$ and $\eta _ { 1 } ^ { 1 } ( \eta _ { 2 } ^ { 2 } \eta _ { 2 } ^ { 3 } \eta _ { 2 } ^ { 4 } )$ of the cut integrand, respectively. This yields for the two cases
+
+$$
+\begin{array} { l } { { F _ { \hat { K } _ { 6 } , ( g _ { - } , g _ { + } ) } ^ { ( 1 ) } \Big \vert _ { q ^ { 2 } } = i \displaystyle \int \mathrm { d } { \mathrm { P S } _ { 2 , \{ l \} } } \frac { 6 \langle l _ { 1 } 1 \rangle \langle l _ { 2 } 1 \rangle ^ { 2 } } { \langle 1 2 \rangle \langle l _ { 1 } l _ { 2 } \rangle \langle l _ { 2 } 2 \rangle } = - i \displaystyle 6 \frac { \langle 1 | l _ { 1 } | 2 | ^ { 2 } } { s _ { 1 2 } } = < \mathrm { C } _ { \mathrm { ~ \iota ~ } , } ^ { p _ { 1 } } , } } \\ { { F _ { \hat { K } _ { 6 } , ( \psi _ { 1 } , \psi _ { 2 3 4 } ) } ^ { ( 1 ) } \Big \vert _ { q ^ { 2 } } = i \displaystyle \int \mathrm { d } { \mathrm { P S } _ { 2 , \{ l \} } } \frac { 3 \langle l _ { 1 } 1 \rangle \langle l _ { 1 } 2 \rangle \langle l _ { 2 } 1 \rangle ^ { 2 } + 3 \langle l _ { 1 } 1 \rangle ^ { 2 } \langle l _ { 2 } 1 \rangle \langle l _ { 2 } 2 \rangle } { \langle 1 2 \rangle \langle l _ { 1 } l _ { 2 } \rangle \langle l _ { 1 } 1 \rangle \langle l _ { 2 } 2 \rangle } } } \\ { { = i 3 \langle 1 | l _ { 1 } | 2 | = \mathrm { ell e } \ll \llangle _ { p _ { 2 } } ^ { p _ { 1 } } + i 6 \frac { \langle 1 | l _ { 1 } | 2 \rangle } { s _ { 1 2 } } = \iff \ll \binom { p _ { 1 } } { p _ { 2 } } . } } \end{array}
+$$
+
+When we lift these expressions to the full triangle and bubble integrals and perform the PV reduction, we obtain zero. Since we use four-dimensional unitarity, we also have to check that there is no contribution from potential rational terms.A similar (but simpler) study as in appendix D shows that rational terms are indeed absent.
+
+Finally, there is an easy way to see that $F _ { \mathcal { K } _ { 6 } } ( 1 _ { g _ { - } } , 2 _ { g _ { + } } ) = 0$ to all loop orders. Using the gauge freedom, we can choose the polarization vectors of the outgoing gluons as $\varepsilon _ { 1 } ^ { - } =$ $\varepsilon _ { 2 } ^ { + } \propto \lambda _ { 1 } \tilde { \lambda } _ { 2 }$ . It is then obvious that the form factor must be zero,since it is proportional to or $\varepsilon _ { 1 } \cdot \varepsilon _ { 2 }$ ：
+
+put Oine ca alsopate $F _ { { \ K } _ { 6 } , ( g , g ) } ^ { ( 1 ) }$ e
+
+$$
+F _ { \ K _ { 6 } , ( g , g ) } ^ { ( 1 ) } = \biggl [ 2 ( \varepsilon _ { 1 } \cdot \varepsilon _ { 2 } ) - \frac { ( \varepsilon _ { 1 } \cdot p _ { 2 } ) ( \varepsilon _ { 2 } \cdot p _ { 1 } ) } { s _ { 1 2 } } \biggr ] I _ { 3 } ^ { D } [ \ell _ { \epsilon } ^ { 2 } ] \ ,
+$$
+
+where the integral $I _ { 3 } ^ { D } [ \ell _ { \epsilon } ^ { 2 } ] = \textstyle { \frac { 1 } { 2 } } + { \mathcal { O } } ( \epsilon )$ is given in (B.10） for $p _ { 2 } \to 0$ and the relabeling （204号 $p _ { 3 }  p _ { 2 }$ . This result holds for the polarization vectors $\varepsilon _ { 1 , 2 } ^ { \pm }$ taken to be in general $D = 4 - 2 \epsilon$ dimensions. Since $I _ { 3 } [ \ell _ { \epsilon } ^ { 2 } ]$ is finite and its prefactor is of order $\mathcal { O } ( \epsilon )$ (as it vanishes when D = 4), the form factor itself F(1)(g. F6(g9)isofr(c).sssistt itait based calculation.
+
+# 3.4 Two-loop two-point form factor
+
+Next，we compute the two-loop two-point form factor of ${ { \ K } _ { 6 } }$ . As in the one-loop case, we specify the external states to be $\{ \phi _ { 1 2 } , \phi _ { 3 4 } \}$
+
+# Two-particle cut
+
+We first study the two-particle cut in the $q ^ { 2 }$ -channel. We follow a similar procedure as the one being used in computing the BPS form factor [27]. We first quote the $q ^ { 2 }$ -cut integral given in (2.6) of [27]:21
+
+$$
+F _ { ( \mathcal { O } , 2 ] } ^ { ( 2 ) } \Big | _ { q ^ { 2 } } = \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \mathrm { d } ^ { 8 } \eta _ { l _ { 1 , 2 } } \mathcal { F } _ { \mathcal { O } , 2 } ^ { ( 0 ) } ( - l _ { 1 } , - l _ { 2 } ) \Big ( 4 A _ { 4 } ^ { ( 1 ) } ( p _ { 1 } , p _ { 2 } , l _ { 2 } , l _ { 1 } ) + A _ { 4 } ^ { ( 1 ) } ( p _ { 1 } , l _ { 1 } , p _ { 2 } , l _ { 2 } ) \Big ) \ ,
+$$
+
+where the building blocks are the two-point tree-level form factor (3.8）and the one-loop color-ordered four-point amplitude [69]
+
+$$
+\begin{array} { r } { A _ { 4 } ^ { ( 1 ) } ( p _ { 1 } , p _ { 2 } , p _ { 3 } , p _ { 4 } ) = A _ { 4 } ^ { ( 0 ) } ( p _ { 1 } , p _ { 2 } , p _ { 3 } , p _ { 4 } ) ( - s _ { 1 2 } s _ { 2 3 } ) I _ { 4 } ^ { ( 1 ) } ( p _ { 1 } , p _ { 2 } , p _ { 3 } , p _ { 4 } ) \ . } \end{array}
+$$
+
+The tre-level super amplitude $\mathcal { A } _ { 4 } ^ { ( 0 ) } ( p _ { 1 } , p _ { 2 } , p _ { 3 } , p _ { 4 } )$ in (3.22）contains all the dependence on the fermionic coordinates, and the term multiplying it is a massess scalar box integral $I _ { 4 } ^ { ( 1 ) }$ defined in (B.9).22
+
+Let us briefly explain (3.21)； see [27] for a derivation in full details. The above cut integral is obtained by taking the product of the two-point form factor and the non-colorordered four-point amplitude. The one-loop four-point amplitude contains a single-trace contribution, as well as a double-trace contribution which is sub-leading in color. However, after the contraction of the color factors with the two-point form factor, both contribute to the cut integral with the single-trace color factor $\delta ^ { a b } = \mathrm { t r } ( \mathrm { T } ^ { a } \mathrm { T } ^ { b } )$ .23 The final building blocks in the cut integral are the color-ordered form factor and amplitude as given in (3.21). The two contributions in the parentheses of (3.21) are depicted in figures 3 and 4 respectively.24 We consider them one by one below.
+
+![](images/957c463d6c795fc72ecf006e604a425a476cb5fc452695a5744874eb1ed3bb80.jpg)  
+Figure 3: The $( p _ { 1 } + p _ { 2 } ) ^ { 2 }$ double cut at two loops that contributes to the planar ladder integral. The building blocks are the color-ordered tree-level form factor and the colorordered one-loop amplitude.
+
+We first study the contribution from the first term in the parentheses of (3.21),which is shown in figure 3. Using the one-loop result (3.22) for the amplitude and taking the external states to be $\{ \phi _ { 1 2 } , \phi _ { 3 4 } \}$ , the corresponding cut integral can be written as
+
+$$
+\begin{array} { r l r } {  { F _ { \mathcal { K } _ { 6 , } ( \phi , \phi ) } ^ { ( 2 ) } \Big | _ { q ^ { 2 } } ^ { \mathrm { I } } = \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \mathrm { d } ^ { 8 } \eta _ { l _ { 1 , 2 } } \mathcal { F } _ { \mathcal { K } _ { 6 , } 2 } ^ { ( 0 ) } ( - l _ { 1 } , - l _ { 2 } ) A _ { 4 } ^ { ( 0 ) } ( p _ { 1 } , p _ { 2 } , l _ { 2 } , l _ { 1 } ) \Big | _ { ( \eta _ { 1 } ^ { 1 } \eta _ { 1 } ^ { 2 } ) ( \eta _ { 2 } ^ { 3 } \eta _ { 2 } ^ { 4 } ) } } } \\ & { } & { \times \ ( - ) s _ { 1 2 } s _ { 1 l _ { 1 } } I _ { 4 } ^ { ( 1 ) } ( p _ { 1 } , p _ { 2 } , l _ { 2 } , l _ { 1 } ) \ . } \end{array}
+$$
+
+The first line in (3.23) given by the product of tree factors is the same as the cut integrand of the previously studied one-loop case in (3.14). Therefore,we can perform exactly the same calculation as in(3.15) and obtain
+
+$$
+\begin{array} { r l } & { F _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 2 ) } \Big | _ { q ^ { 2 } } ^ { \Gamma } = - F _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 0 ) } \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \Big ( \frac { - s _ { 1 2 } } { s _ { 1 l _ { 1 } } } + 6 \frac { s _ { 2 l _ { 1 } } } { s _ { 1 2 } } \Big ) s _ { 1 2 } s _ { 1 l _ { 1 } } I _ { 4 } ^ { ( 1 ) } \big ( p _ { 1 } , p _ { 2 } , l _ { 2 } , l _ { 1 } \big ) } \\ & { \qquad = F _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 0 ) } \Big ( s _ { 1 2 } ^ { 2 } - 6 s _ { 1 l _ { 1 } } s _ { 2 l _ { 1 } } \Big ) \frac { l _ { 1 } } { l _ { 2 } ^ { 2 } } \qquad \quad \int _ { p _ { 2 } } ^ { p _ { 1 } } . } \end{array}
+$$
+
+The above cut integral can be lifted to the two-loop planar ladder integral. This integral can be drawn in two different ways,namely
+
+![](images/a1242ec3a3a812b9a1c9b780e789652ea111f1748f07d5f78057b94887a1d632.jpg)
+
+![](images/43035b5c09590d1704bbf17fa508b851b23d09c92c66511f9c7b805e1459ae8b.jpg)  
+Figure 4: The $q ^ { 2 }$ -cut at two loops that contributes to the crossed ladder integral. The building blocks are the color-ordered tree-level form factor and the color-ordered one-loop amplitude.
+
+Furthermore, there are two other planar graphs obtained by permuting the external legs （204号 $p _ { 1 }  p _ { 2 }$ .So,altogether we have four diagrams which are drawn in different ways but all give equivalent planar ladder integrals. This provides a diagrammatic interpretation of the factor 4 in the frst term of (3.21). As we willsee later in the triple cut, it is also important to separately draw the ladder graphs in diffrent ways according to (3.25） in order to compute the cut integrand correctly.
+
+Next,we consider the second term inside the parentheses in (3.21),which is depicted in figure 4. The corresponding cut integral is given by
+
+$$
+\begin{array} { r l } { \left. F _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 2 ) } \right| _ { q ^ { 2 } } ^ { \mathrm { I I } } = - \displaystyle \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \mathrm { d } ^ { 8 } \eta _ { l _ { 1 , 2 } } \mathcal { F } _ { K _ { 6 } , 2 } ^ { ( 0 ) } ( - l _ { 1 } , - l _ { 2 } ) \mathcal { A } _ { 4 } ^ { ( 0 ) } ( p _ { 1 } , l _ { 1 } , p _ { 2 } , l _ { 2 } ) } & { } \\ { \times \left. s _ { 1 2 } s _ { 1 l _ { 1 } } I _ { 4 } ^ { ( 1 ) } ( p _ { 1 } , l _ { 1 } , p _ { 2 } , l _ { 2 } ) \right| _ { ( \eta _ { 1 } ^ { 1 } \eta _ { 1 } ^ { 2 } ) ( \eta _ { 2 } ^ { 3 } \eta _ { 2 } ^ { 4 } ) } . } & { } \end{array}
+$$
+
+Following similar steps as in the previous case, the cut integral is expressed as a two-particle cut of the two-loop crossed ladder integral as shown below
+
+$$
+F _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 2 ) } \big | _ { q ^ { 2 } } ^ { \mathrm { I I } } = F _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 0 ) } \Big ( s _ { 1 2 } ^ { 2 } - 6 s _ { 1 l _ { 1 } } s _ { 2 l _ { 1 } } \Big ) { p _ { 1 } - \bigoplus \limits _ { \substack { - \infty } } ^ { \prime } } \qquad \mathrm { ~ ( 2 ) ~ }
+$$
+
+Now, lifting the cut integrals of the combined contributions (3.27) and (3.24) as described in appendix B, we find the following contribution to the two-loop form factor of ${ { \ K } _ { 6 } }$
+
+$$
+4 f _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 2 ) , \mathrm { I } } + f _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 2 ) , \mathrm { I I } } = \left( s _ { 1 2 } ^ { 2 } - 6 s _ { 1 l } s _ { 2 l } \right) ( 4 = - 4 \int \limits _ { p _ { 2 } } ^ { \infty } + \ s - \sum \limits _ { p _ { 2 } } ^ { l } ) ,
+$$
+
+where,as explainedaround (3.25),thefactor 4isincludedfor f), 中
+
+There is another $q ^ { 2 }$ -cut which is similar to the one in figure 3. It has the one-loop two-point form factor on the left hand side and the tree-level four-point amplitude on the right hand side. This case is a bit subtle. Naively, one would expect that only the oneloop two-point form factor with scalar external states F(1) Fx6,(,) can occur on the left hand side,since the other possbly contributing form factors with gluon and fermion external states F(1) K6(9-9+）and F(1) FK6,(41,234)，espectivelyanishassowninthprevioussuctin However, this expectation turns out to be incorrect. There are non-vanishing contributions from these two cases: only the integrated one-loop form factors are zero, but the integrands are not,as we can see from (3.18) and (3.19). Their integrands have to be taken into account in the unitarity cuts and then yield a result which is consistent with the one found from the $q ^ { 2 }$ -cut of figure 3.25
+
+![](images/f362ab9eee6fd7cdc63e03b8724babc02d77a2fa74d858f14ab687748e7313db.jpg)  
+Figure 5: The two loop $( p _ { 1 } + p _ { 2 } ) ^ { 2 } = q ^ { 2 }$ triple cut.
+
+The result (3.28) obtained by using only the two-particle cuts is not guaranteed to give the full form factor. One problem is that the numerator coefficients of both integrals are ambiguous w.r.t. terms that are proportional to $l ^ { 2 }$ . Due to the on-shell condition of the cut propagators, such terms are not detected by the double cuts. Moreover, there may be other basis integrals which cannot be detected by the double cuts. Both these issues can be fixed by studying the three-particle cuts,which we do next.
+
+# Three-particle cut
+
+The three-particle cut, or triple cut (TC),across the $q ^ { 2 }$ -channel is shown in figure 5. Unlike for the BPS form factor, the triple cut willindeed give some new contribution to the form factor of ${ { \ K } _ { 6 } }$ ， which is not detectable by the previous double cut.
+
+The cut integral is given as
+
+$$
+\begin{array} { r l r }   { F _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 2 ) } \Big \vert _ { \mathrm { T C } } = \int \mathrm { d } \mathrm { P S } _ { 3 , \{ l \} } \prod _ { i = 1 } ^ { 3 } \mathrm { d } ^ { 4 } \eta _ { i _ { i } } \Big ( \mathcal { F } _ { \mathcal { K } _ { 6 } , 3 } ^ { ( 0 ) , \mathrm { M H V } } ( - l _ { 1 } , - l _ { 2 } , - l _ { 3 } ) A _ { 5 } ^ { ( 0 ) , \mathrm { N M H V } } ( p _ { 1 } , p _ { 2 } , l _ { 3 } , l _ { 2 } , l _ { 1 } ) } \end{array}
+$$
+
+Note that besides the MHV form factors and amplitudes also the NMHV form factors and amplitudes appear as building blocks in (3.29). The two terms in the above sum are in fact conjugate to each other.
+
+![](images/f3444e3df0e87be7fa595c2396e35e782b1e14ce18f21f6a9f243833dfc49562.jpg)  
+Figure 6: Triple cut of the integrals that correspond to the frst five terms in (3.30). The flow of the momenta is as specified in figure 5.
+
+After performing the fermionic integrations $^ { 2 6 }$ and some spinor algebra, the cut integral can be simplified at the integrand level to obtain the following form: $^ { 2 7 }$ （204号
+
+$$
+\begin{array} { r l } & { { \mathcal { C } } _ { \mathrm { T C } } = \displaystyle \int \mathrm { d } { \mathrm { P S } } _ { 3 , \{ l \} } \left( \frac { s _ { 1 2 } ^ { 2 } - 6 s _ { 1 l _ { 1 } } s _ { 2 l _ { 1 } } } { s _ { 2 l _ { 3 } } s _ { l _ { 1 } l _ { 2 } } s _ { 3 l _ { 2 } l _ { 3 } } } + \frac { s _ { 1 2 } ^ { 2 } - 6 s _ { 1 l _ { 3 } } s _ { 2 l _ { 3 } } } { s _ { 1 l _ { 1 } } s _ { l _ { 1 } l _ { 2 } } s _ { l _ { 2 } l _ { 3 } } } + \frac { s _ { 1 2 } ^ { 2 } - 6 s _ { 1 l _ { 2 } } s _ { 2 l _ { 2 } } } { s _ { 2 l _ { 3 } } s _ { l _ { 1 } l _ { 2 } } s _ { l _ { 1 } l _ { 3 } } } \right. } \\ & { \quad \quad \quad \quad \left. + \frac { s _ { 1 2 } ^ { 2 } - 6 s _ { 1 l _ { 2 } } s _ { 2 l _ { 2 } } } { s _ { 1 l _ { 1 } } s _ { l _ { 1 } l _ { 3 } } s _ { l _ { 2 } l _ { 3 } } } + \frac { s _ { 1 2 } ^ { 2 } - 6 s _ { 1 l _ { 2 } } s _ { 2 l _ { 2 } } } { s _ { 1 l _ { 1 } } s _ { 2 l _ { 3 } } s _ { l _ { 1 } l _ { 3 } } } + \frac { 1 8 } { s _ { 1 2 } } - \frac { 1 8 s _ { 1 l _ { 3 } } } { s _ { 1 2 } s _ { l _ { 1 } l _ { 2 } } } - \frac { 1 8 s _ { 2 l _ { 1 } } } { s _ { 1 2 } s _ { l _ { 2 } l _ { 3 } } } \right) _ { , } . } \end{array}
+$$
+
+Note that the first five terms in (3.3O) can be obtained directly from the result determined by the two-particle cut in the previous paragraph,namely the planar ladder contribution in (3.24) and the crossed ladder in (3.26). Let us first look at the first term in (3.28),the contribution from the planar ladder, which contains the numerical prefactor 4. As mentioned earlier, this factor 4 stems from the four different ways of drawing the planar ladder graph. The two configurations shown in (3.25) contribute to the above triple cut. In order to account for all possible triple cuts on these two diagrams,we cut each in two ways as shown in figure 6. Thus, the first four terms in (3.3O) correspond to the first four diagrams in figure 6, which are just the planar ladder integrals. The remaining fth term in (3.30) correspond to the last diagram in figure 6,which is the crossed ladder integral with only one possible triple cut. Hence, the frst five terms in (3.30) do not result in any new contribution but reproduce the double-cut result in (3.28).
+
+The remaining three terms in (3.30), however,are new contributions to the two-loop ansatz detected by the three-particle cut. They can be expressed as the three-particle cut
+
+of the following three integrals:
+
+$$
+f _ { \mathcal { K } _ { 6 } , ( \phi , \phi ) } ^ { ( 2 ) } \Big | _ { \mathrm { T C } } ^ { \mathrm { I I I } } = i \mathrm { 1 } 8 \left( \frac { 1 } { s _ { 1 2 } } \bigoplus _ { p _ { 2 } } ^ { p _ { 1 } } - \frac { s _ { 1 l _ { 3 } } } { s _ { 1 2 } } \bigoplus _ { p _ { 2 } } ^ { p _ { 1 } } - \frac { s _ { 2 l _ { 1 } } } { s _ { 1 2 } } \bigoplus _ { p _ { 2 } } ^ { p _ { 1 } } \right) .
+$$
+
+These three cut integrals can be lifted to full integrals,which can be simplified further at the integral level to give a single scalar integral:
+
+$$
+f _ { \mathcal { K } _ { 6 } , ( \phi , \phi ) } ^ { ( 2 ) , \mathrm { I I I } } = 1 8 \Longrightarrow { \binom { \mathcal { D } ^ { 1 } } { p _ { 2 } } } .
+$$
+
+# Complete two-loop result
+
+Now, we combine the results from all the cuts, (3.28) and (3.32),and obtain the two-loop two-point form factor,28
+
+$$
+\begin{array} { c } { { f _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 2 ) } = 4 f _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 2 ) , \mathrm { I } } + f _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 2 ) , \mathrm { I I } } + 2 f _ { K _ { 6 } , ( \phi , \phi ) } ^ { ( 2 ) , \mathrm { I I I } } } } \\ { { = - 6 ( l + p _ { 1 } ) ^ { 2 } ( l + p _ { 2 } ) ^ { 2 } \biggl ( 4 = - 1 \biggl [ \displaystyle \prod _ { p _ { 2 } } ^ { \ : p _ { 1 } } +  \mathop {  } \sum _ { p _ { 2 } } ^ { p _ { 1 } } ) } } \\ { { + 3 6 = \mathop { \longleftrightarrow } \sum _ { p _ { 2 } } ^ { p _ { 1 } } + \underbrace { s _ { 1 2 } ^ { 2 } \biggl ( 4 = - 1 \biggl [ \displaystyle \prod _ { p _ { 2 } } ^ { \ : p _ { 1 } } +  \mathop {  } \sum _ { p _ { 2 } } ^ { p _ { 1 } } ) } _ { e ^ { ( 2 ) } } } } \end{array}
+$$
+
+where the integrals corresponding to the graphs are given in appendix B. Note that we have $f _ { \mathcal { K } _ { 6 } , ( \phi , \phi ) } ^ { ( 2 ) , \mathrm { I I I } }$ that legs $p _ { 1 }  p _ { 2 }$ . As in the one-loop case, we have presented the result by separating a part cal to the BPS form factor $f _ { \mathrm { B P S , 2 } } ^ { ( 2 ) }$ given in (3.5).
+
+The double and triple cuts we have considered should be able to detect all possible basis integrals up to potential rational terms that might be missing when using four-dimensional unitarity. Comparing our result (3.33) with the one we obtained for ${ { \ K } _ { 6 } }$ from the Feynman diagrams of appendix H, we have confirmed that such rational terms are absent.
+
+As will be explained in section 4, the result given by (3.33) is, however,only valid for the operator ${ { \ K } _ { 6 } }$ defined in (1.1O),but not for the Konishi operator $\mathcal { K }$ defined in (1.4). This subtlety will be discussed in details in section 4. We will see that by a rigorous prescription we can modify the above result in order to obtain the Konishi form factor.
+
+# 3.5 One-loop three-point form factor
+
+In this subsection,we compute the one-loop three-point form factor of ${ { \ K } _ { 6 } }$ . The computation is similar to what we have done for the previous two-point case. We need to consider cuts in all possible kinematic channels,which,apart from the $q ^ { 2 }$ -cuts employed earlier for the two-point form factors, contain also the $s _ { a b }$ -cuts,where $( a , b ) = ( 1 , 2 ) , ( 2 , 3 ) , ( 3 , 1 )$ , as shown in figure 7. Combining the results from both types of cuts ensures that no contribution to the ansatz is missed.
+
+![](images/2ec0db08a502a969502b25c887c01bf859b01cf0e6aee081f88c2703923175eb.jpg)  
+Figure 7: The cuts needed to compute the one-loop three-point form factor of ${ { \ K } _ { 6 } }$
+
+Unlike for the BPS form factor, the loop corrections of the form factors of ${ { \ K } _ { 6 } }$ turn out to be different for different configurations of external particles. Therefore,we need to consider the form factors with specific configurations of the external states individually. We consider the scalar-scalar-gluon and fermion-fermion-scalar cases.29 We will discuss the scalar-scalar-gluon case in some detail. The fermion-fermion-scalar result can be obtained in the same way and we only present the final result.
+
+$$
+F _ { \mathcal { K } _ { 6 } } ^ { ( 1 ) } ( \mathbf { 1 } _ { \phi _ { A B } } , \mathbf { 2 } _ { \phi _ { C D } } , \mathbf { 3 } _ { g _ { \pm } } )
+$$
+
+We first consider the form factor of ${ { \ K } _ { 6 } }$ with scalar-scalar-gluon external states. For the sake of expliss wefcuson $F _ { \mathcal { K } _ { 6 } } ^ { ( 1 ) } ( 1 _ { \phi _ { 1 2 } } , 2 _ { \phi _ { 3 4 } } , 3 _ { g _ { + } } )$ ， which we abrevite as $F _ { { \tiny K } _ { 6 } , ( \phi , \phi , g ) } ^ { ( 1 ) } .$ The result applies to all other non-vanishing cases,where $A , B , C , D$ are distinct and the （20 $g$ may have positive or negative helicity. As shown in figure 7, we need to consider both the $q ^ { 2 }$ -cut and the $s _ { a b }$ -cut. Since the operator is a color singlet，we need to consider all possible cyclic permutations of external on-shell legs in the cuts, as they contribute to the same color-ordered form factor. Explicitly, we need to consider three cases for each channel in figure 7:
+
+$$
+\{ a , b , c \} ~  ~ ( \mathrm { I } ) ~ \{ 1 _ { \phi _ { 1 2 } } , 2 _ { \phi _ { 3 4 } } , 3 _ { g _ { + } } \} , ~ ( \mathrm { I I } ) ~ \{ 2 _ { \phi _ { 3 4 } } , 3 _ { g _ { + } } , 1 _ { \phi _ { 1 2 } } \} , ~ ( \mathrm { I I I } ) ~ \{ 3 _ { g _ { + } } , 1 _ { \phi _ { 1 2 } } , 2 _ { \phi _ { 3 4 } } \} ~ .
+$$
+
+In total, there are six cut channels to consider: (a-I),(a-II), (a-II) and (b-I),(b-II),(b-III), where (a-I)-(a-III) are the $q ^ { 2 }$ -cuts while (b-I)-(b-III) are the $s _ { a b }$ -cuts.Note the (I） and (III) cases are actually related to each other by a flipping symmetry.
+
+# (a-I)-cut:
+
+This is the $q ^ { 2 }$ -cut in figure 7 with the choice of external legs $\{ p _ { a } , p _ { b } , p _ { c } \}$ corresponding to the particles $\{ 1 _ { \phi _ { 1 2 } } , 2 _ { \phi _ { 3 4 } } , 3 _ { g _ { + } } \}$ . The cut integral is given by the following equation:
+
+$$
+\begin{array} { r l } & { F _ { K _ { 6 } , ( \phi , \phi , g ) } ^ { ( 1 ) } \Big | _ { ( \mathrm { a - l } ) } = \displaystyle \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \mathrm { d } ^ { 8 } \eta _ { l _ { 1 , 2 } } \mathscr { F } _ { K _ { 6 , 2 } } ^ { ( 0 ) } ( - l _ { 1 } , - l _ { 2 } ) A _ { 5 } ^ { ( 0 ) , \mathrm { M H V } } ( p _ { 1 } , p _ { 2 } , p _ { 3 } , l _ { 2 } , l _ { 1 } ) \Big | _ { ( \eta _ { 1 } ^ { 1 } \eta _ { 1 } ^ { 2 } ) ( \eta _ { 2 } ^ { 3 } \eta _ { 2 } ^ { 4 } ) } } \\ &  = F _ { K _ { 6 , ( \phi , \phi , g ) } } ^ { ( 0 ) } i \underbrace { \displaystyle \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \frac { \langle l _ { 1 } 2 \rangle ^ { 2 } \langle l _ { 2 } 1 \rangle ^ { 2 } + 4 \langle l _ { 1 } 1 \rangle \langle l _ { 1 } 2 \rangle \langle l _ { 2 } 1 \rangle \langle l _ { 2 } 2 \rangle + \langle l _ { 1 } 1 \rangle ^ { 2 } \langle l _ { 2 } 2 \rangle ^ { 2 } } { \langle l _ { 1 } 1 \rangle \langle 3 l _ { 2 } \rangle \langle l _ { 2 } l _ { 1 } \rangle } \underbrace { \langle 1 3 \rangle } _ { \langle l _ { 2 } 2 \rangle } , } \end{array}
+$$
+
+where the tree-level form factor F(o) $F _ { \mathcal { K } _ { 6 } , ( \phi , \phi , g ) } ^ { ( 0 ) } = F _ { \mathcal { K } _ { 6 } } ^ { ( 0 ) } ( 1 _ { \phi _ { 1 2 } } , 2 _ { \phi _ { 3 4 } } , 3 _ { g _ { + } } )$ is given in (3.11).
+
+The above result can be reduced to an appropriate cut of integrals by using some spinor algebra. Without going through the detail, we present the result:
+
+$$
+\begin{array} { r l r } { \mathcal { C } _ { ( \mathsf { a } - 1 ) } = - \frac { S _ { 1 2 } s _ { 2 3 } } { 2 } \displaystyle = et { } { ' } { \sum } _ { p _ { 2 } } - \frac { s _ { 1 2 } + s _ { 1 3 } } { 2 } \displaystyle = et { } { ' } { \sum } _ { p _ { 3 } } } & \\ { \quad \quad \quad - \left[ \frac { s _ { 1 3 } + s _ { 2 3 } } { 2 } - \frac { 3 s _ { 2 l _ { 1 } } \left( \left( s _ { 1 3 } + s _ { 2 3 } \right) s _ { 1 l _ { 1 } } + s _ { 1 2 } s _ { 2 3 } \right) } { s _ { 1 2 } ^ { 2 } } \right] \displaystyle = et { } { ' } { \sum } _ { p _ { 2 } } ^ { p _ { 1 } } } & \\ { \quad \quad \quad + 3 \left[ \frac { \left( q ^ { 2 } - 2 s _ { 1 3 } \right) \left( s _ { 1 3 } + s _ { 1 l _ { 2 } } \right) } { s _ { 1 2 } ^ { 2 } } - \frac { s _ { 1 3 } \left( s _ { 1 3 } s _ { 3 l _ { 2 } } - s _ { 1 2 } s _ { 2 l _ { 2 } } \right) } { s _ { 1 2 } ^ { 3 } s _ { 1 2 } } \right] \displaystyle = et { } { ' } { \sum } _ { p _ { 2 } } ^ { p _ { 1 } } . } & \end{array}
+$$
+
+# (a-II)-cut:
+
+This is the $q ^ { 2 }$ -cut in figure 7 with the choice of external legs $\{ p _ { a } , p _ { b } , p _ { c } \}$ corresponding to a different order of particles, namely $\{ 2 _ { \phi _ { 3 4 } } , 3 _ { g _ { + } } , 1 _ { \phi _ { 1 2 } } \}$ . The cut integral can be computed as
+
+$$
+\begin{array} { r l r } {  { F _ { K _ { 6 } , ( \phi , \phi , g ) } ^ { ( 1 ) } \Big | _ { ( \mathrm { a - I I } ) } = \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \mathrm { d } ^ { 8 } \eta _ { l _ { 1 , 2 } } \mathcal { F } _ { \mathcal { K } _ { 6 , 2 } ( - l _ { 1 } , - l _ { 2 } ) , A _ { 5 } ^ { ( 0 ) , \mathrm { M H V } } ( p _ { 2 } , p _ { 3 } , p _ { 1 } , l _ { 2 } , l _ { 1 } ) } \Big | _ { ( \eta _ { 1 } ^ { 1 } \eta _ { 1 } ^ { 2 } ) ( \eta _ { 2 } ^ { 3 } \eta _ { 2 } ^ { 4 } ) } } } \\ & { } & { = F _ { K _ { 6 } , ( \phi , \phi , g ) } ^ { ( 0 ) } i \underbrace { \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \frac { \langle l _ { 1 } 1 \rangle ^ { 2 } \langle l _ { 2 } 2 \rangle ^ { 2 } + 4 \langle l _ { 1 } 1 \rangle \langle l _ { 1 } 2 \rangle \langle l _ { 2 } 1 \rangle \langle l _ { 2 } 2 \rangle + \langle l _ { 1 } 2 \rangle ^ { 2 } \langle l _ { 2 } 1 \rangle ^ { 2 } } { \langle l _ { 1 } 2 \rangle \langle l _ { 1 } l _ { 2 } \rangle \langle l _ { 2 } l _ { 1 } \rangle } } _ { \mathcal { C } _ { ( \mathrm { a - I I } ) } } \ . } \end{array}
+$$
+
+After some spinor algebra, the above result can be expressed as cut of the following integrals:
+
+$$
+\begin{array} { r l } & { { \mathscr C } _ { ( \mathrm { a - I I } ) } = - \frac { s _ { 2 3 } s _ { 3 1 } } { 2 } = \mathscr { C } \Longleftrightarrow \sum _ { p _ { 1 } } ^ { p _ { 2 } } - \frac { s _ { 1 2 } + s _ { 1 3 } } { 2 } \Longrightarrow \mathscr { C } \Longleftrightarrow \sum _ { p _ { 1 } } ^ { p _ { 2 } } - \frac { s _ { 1 2 } + s _ { 2 3 } } { 2 } = \mathscr { C } \Longleftrightarrow \mathscr { P } _ { p _ { 1 } } ^ { p _ { 2 } } } \\ & { \phantom { { \mathscr C } } - 3 \Big ( 1 + \frac { s _ { 1 I _ { 1 } } s _ { 2 I _ { 2 } } - s _ { 2 I _ { 1 } } s _ { 1 I _ { 2 } } } { s _ { 1 2 } s _ { 1 2 3 } } \Big ) = \mathscr { C } \Longleftrightarrow \binom { p _ { 2 } } { p _ { 1 } } \ . } \end{array}
+$$
+
+# (b-I) cut:
+
+This is the $s _ { 1 2 }$ -cut in figure 7 with the choice of external legs $\{ p _ { a } , p _ { b } , p _ { c } \}$ corresponding to the particles $\{ 1 _ { \phi _ { 1 2 } } , 2 _ { \phi _ { 3 4 } } , 3 _ { g _ { + } } \}$ . In this case,one of the building blocks is the tree-level three-point form factor in (3.1O). The cut integral is given by,
+
+$$
+\begin{array} { r l } & { F _ { K _ { 6 } , ( \phi , \phi , g ) } ^ { ( 1 ) } \vert _ { ( \mathrm { b } - 1 ) } = \displaystyle \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \mathrm { d } ^ { 8 } \eta _ { l _ { 1 , 2 } } \mathcal { F } _ { K _ { 6 } , 3 } ^ { ( 0 ) , \mathrm { M H V } } ( - l _ { 1 } , - l _ { 2 } , p _ { 3 } ) A _ { 4 } ^ { ( 0 ) } ( p _ { 1 } , p _ { 2 } , l _ { 2 } , l _ { 1 } ) \Big \vert _ { ( \eta _ { 1 } ^ { 1 } \eta _ { 1 } ^ { 2 } ) ( \eta _ { 2 } ^ { 3 } \eta _ { 2 } ^ { 4 } ) } } \\ &  = F _ { K _ { 6 } , ( \phi , \phi , g ) } ^ { ( 0 ) } i \underbrace { \displaystyle \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \frac { \langle l _ { 1 } 2 \rangle ^ { 2 } \langle l _ { 2 } 1 \rangle ^ { 2 } + 4 \langle l _ { 1 } 1 \rangle \langle l _ { 1 } 2 \rangle \langle l _ { 2 } 1 \rangle \langle l _ { 2 } 2 \rangle + \langle l _ { 1 } 1 \rangle ^ { 2 } \langle l _ { 2 } 2 \rangle ^ { 2 } } { \langle l _ { 1 } 1 \rangle \langle 2 l _ { 2 } \rangle \langle l _ { 2 } 1 \rangle } \frac { \langle 1 3 \rangle \langle 2 3 \rangle } { \langle l _ { 1 } 2 \rangle ^ { 2 } } \ . } \end{array}
+$$
+
+It can be written as cut of integrals as
+
+$$
+\begin{array} { c } { { { \mathcal { C } _ { ( { \ b } - 1 ) } = - { \frac { s _ { 1 2 } s _ { 1 3 } } { 2 } } \displaystyle = \Longleftrightarrow \sum _ { p _ { 2 } } ^ { p _ { 3 } } \ - { \frac { s _ { 1 2 } s _ { 2 3 } } { 2 } } \displaystyle = \Longleftrightarrow \sum _ { p _ { 2 } } ^ { p _ { 1 } } } } } \\ { { \ + \left[ - { \frac { s _ { 1 3 } + s _ { 2 3 } } { 2 } } + { \frac { 3 s _ { 1 l _ { 2 } } \left( \left( s _ { 1 3 } + s _ { 2 3 } \right) s _ { 2 l _ { 2 } } + s _ { 1 2 } s _ { 1 3 } \right) } { s _ { 1 2 } ^ { 2 } } } \right] \displaystyle = \Longleftrightarrow \sum _ { p _ { 2 } } ^ { p _ { 3 } } } } \\ { { \ } } \\ { { \ + \left[ - { \frac { s _ { 1 3 } + s _ { 2 3 } } { 2 } } + { \frac { 3 s _ { 2 l _ { 1 } } \left( \left( s _ { 1 3 } + s _ { 2 3 } \right) s _ { 1 l _ { 1 } } + s _ { 1 2 } s _ { 2 3 } \right) } { s _ { 1 2 } ^ { 2 } } } \right] \displaystyle = \Longleftrightarrow { \sum _ { p _ { 2 } } ^ { p _ { 1 } } } . } } \end{array}
+$$
+
+# (b-II) cut:
+
+This is the case of the $s _ { 2 3 }$ -cut,the last of the independent cut channels, in figure 7 with the choice of external legs $\{ p _ { a } , p _ { b } , p _ { c } \}$ corresponding to the particles in the order of $\{ 2 _ { \phi _ { 3 4 } } , 3 _ { g _ { + } } , 1 _ { \phi _ { 1 2 } } \}$ . The cut integral is given by
+
+$$
+\begin{array} { l } { { F _ { K _ { 6 } , ( \phi , \phi , g ) } ^ { ( 1 ) } | _ { ( \mathrm { b - I I } ) } = \displaystyle \int \mathrm { d } { \mathrm { P S } _ { 2 , \{ l \} } } \mathrm { d } ^ { 8 } \eta _ { l _ { 1 , 2 } } \mathscr { F } _ { K _ { 6 } , 3 } ^ { ( 0 ) , \mathrm { M H V } } ( - l _ { 1 } , - l _ { 2 } , p _ { 1 } ) A _ { 4 } ^ { ( 0 ) } ( p _ { 2 } , p _ { 3 } , l _ { 2 } , l _ { 1 } ) \Big | _ { ( \eta _ { 1 } ^ { 1 } \eta _ { 1 } ^ { 2 } ) ( \eta _ { 2 } ^ { 3 } \eta _ { 2 } ^ { 4 } ) } } } \\ { { = F _ { K _ { 6 } , ( \phi , \phi , g ) } ^ { ( 0 ) } i \underbrace { \displaystyle \int \mathrm { d } { \mathrm { P S } _ { 2 , \{ l \} } } \frac { \left( \langle l _ { 1 } 1 \rangle \langle l _ { 2 } 2 \rangle - \langle l _ { 1 } 2 \rangle \langle l _ { 2 } 1 \rangle \right) ^ { 2 } } { \langle l _ { 1 } 2 \rangle \langle 3 l _ { 2 } \rangle \langle l _ { 1 } l _ { 2 } \rangle \langle l _ { 1 } 1 \rangle } \frac { \langle 3 1 \rangle } { \langle 2 1 \rangle } } _ { \mathcal { C } _ { ( \mathrm { b - I I } ) } } , } } \end{array}
+$$
+
+whichleadsto
+
+$$
+\begin{array} { r } { \mathcal { C } _ { \mathrm { ( b - I I ) } } = - \frac { s _ { 1 2 } s _ { 2 3 } } { 2 } \Longrightarrow { \bigoplus _ { l _ { 2 } ^ { \prime } } ^ { l _ { 1 } } \sum _ { p _ { 3 } } ^ { p _ { 1 } } } \ - \frac { s _ { 2 3 } s _ { 3 1 } } { 2 } \Longrightarrow { \bigoplus _ { l _ { 2 } ^ { \prime } } ^ { l _ { 1 } } \sum _ { p _ { 1 } } ^ { p _ { 2 } } } } \\ { \qquad - \frac { s _ { 1 2 } + s _ { 1 3 } } { 2 } \Longrightarrow { \bigoplus _ { l _ { 2 } ^ { \prime } } ^ { l _ { 1 } } \sum _ { p _ { 3 } } ^ { p _ { 1 } } \ - \frac { s _ { 1 2 } + s _ { 1 3 } } { 2 } \Longrightarrow { \bigoplus _ { l _ { 2 } ^ { \prime } } ^ { l _ { 1 } } \sum _ { p _ { 3 } } ^ { p _ { 2 } } } } . } \end{array}
+$$
+
+As previously mentioned, the cuts (a-III) and (b-III) give similar results to (a-I) and (b-I) and can be obtained by exchanging $p _ { 1 }  p _ { 2 }$ in the latter. Hence,we will not give them explicitly.
+
+# From the cuts to the full form factor
+
+We find that all the above cut results are consistent with each other, i.e. the prefactors of the graphs are identical when the same graph appears in different cut channels apart from terms that vanish due to the on-shell condition for the cut momenta in the individual channels. Given all these cut results, it is straightforward to lift the cut integrals，as described in appendix B, to obtain the full form factor30
+
+$$
+\begin{array} { r } { f _ { K _ { 6 } , ( \phi , \phi , g ) } ^ { ( 1 ) } = \bigg \{ 3 \bigg [ \frac { \big ( s _ { 1 2 3 } - 2 s _ { 1 3 } \big ) \big ( s _ { 1 3 } + s _ { 1 l } \big ) } { s _ { 1 2 } ^ { 2 } } - \frac { s _ { 1 3 } \big ( s _ { 1 3 } s _ { 3 l } - s _ { 1 2 } s _ { 2 l } \big ) } { s _ { 1 2 } ^ { 2 } s _ { 1 2 3 } } - \frac { 1 } { 2 } \bigg ] = \bigcup _ { \stackrel { p _ { 2 } } { p _ { 3 } } } ^ { p _ { 1 } } } \\ { + \frac { 3 s _ { 2 l } \big ( s _ { 1 l } \big ( s _ { 1 3 } + s _ { 2 3 } \big ) + s _ { 1 2 } s _ { 2 3 } \big ) } { s _ { 1 2 } ^ { 2 } } = \bigoplus _ { \stackrel { l } { p _ { 2 } } } ^ { l } + \big \{ p _ { 1 }  p _ { 2 } \big \} \bigg \} + f _ { \mathrm { B P S } , 3 } ^ { ( 1 ) } } \end{array}
+$$
+
+where $f _ { \mathrm { B P S , 3 } } ^ { ( 1 ) }$ denotes the BPS part that is given in (3.5).
+
+$$
+F _ { \mathcal { K } _ { 6 } } ^ { ( 1 ) } ( \mathbf { 1 } _ { \psi _ { A } } , \mathbf { 2 } _ { \psi _ { B } } , \mathbf { 3 } _ { \phi _ { C D } } )
+$$
+
+For the form factor with fermion-fermion-scalar external states with distinct $A , B , C , D$ ,e.g. $F _ { \mathcal { K } _ { 6 } } ^ { ( 1 ) } ( 1 _ { \psi _ { 1 } } , 2 _ { \psi _ { 2 } } , 3 _ { \phi _ { 3 4 } } )$ ,onecanprocgtheaboetepsfoomputigtetitad in all possble channels and lifting the cut result to the full answer. Without giving details, $f _ { \mathcal { K } _ { 6 } , ( \psi , \psi , \phi ) } ^ { ( 1 ) }$
+
+$$
+\begin{array} { l } { { f _ { k _ { 6 } , ( \xi , \psi , \psi , \phi ) } ^ { ( 1 ) } = \left\{ \begin{array} { l l } { { - { \frac { 3 s _ { 2 3 } } { 2 } } \displaystyle \sum _ { p _ { 1 } } \displaystyle \sum _ { \gamma = 1 } ^ { p _ { 2 } } - 3 \left( 1 - { \frac { s _ { 1 2 } - s _ { 1 3 } } { s _ { 2 3 } } } \right) _ { p _ { 1 } } \sqrt { \displaystyle \sum _ { p _ { 3 } } ^ { p _ { 2 } } } } } \\ { { + 3 \left( { \frac { s _ { 1 2 } s _ { 2 1 } - s _ { 1 3 } s _ { 3 3 } } { s _ { 2 3 } s _ { 1 2 3 } } } - { \frac { s _ { 2 4 } - s _ { 3 3 } } { s _ { 2 3 } } } \right) = \overset { i } { \longleftrightarrow } \left. \begin{array} { l l } { { n } } & { { } } \\ { { n } } \end{array} \right. } } \\ { { + 3 \left( { \frac { s _ { 1 2 } + s _ { 1 3 } } { 2 } } + { \frac { s _ { 1 2 } s _ { 3 4 } - s _ { 1 3 } s _ { 2 4 } } { s _ { 2 3 } } } \right) = \overset { i } { \longleftrightarrow } \left. \begin{array} { l l } { { n } } & { { } } \\ { { n } } \end{array} \right. } } \\ { { + { \frac { 3 s _ { 2 3 } s _ { 3 1 } } { 2 } } = \overset { s _ { 2 4 } } { \longleftrightarrow } \left( { \frac { 1 } { n } } + { \frac { s _ { 1 4 } - s _ { 2 3 } } { s _ { 2 4 } } } \right) } } \end{array} \right. } } \end{array}
+$$
+
+Note that in the above result not all contributions from box graphs are incorporated in the corresponding BPS part given in (3.5), unlike in the expression for the scalar-scalar-gluon form factor (3.43). Moreover, there is an additional one-mass triangle integral in the first line of (3.44), which does not appear in (3.43).
+
+# PV reduction and some interesting features of the results
+
+We have obtained the full integral expressions for the form factors (3.43) and (3.44) of ${ { \ K } _ { 6 } }$ The results are obtained by using the unitarity method fully at the integrand level. As
+
+a result, the integrals still contain loop-momentum-dependent numerators. Such integrals can be reduced further via PV reduction, see appendix C for details.
+
+After PV reduction, the results (3.43) and (3.44) are simplified to
+
+$$
+\begin{array} { r l r } { f _ { K _ { 2 } ; ( \delta , \phi , \delta ) } ^ { ( 1 ) } = - 3 \left[ 1 + \frac { s _ { 3 } ^ { 2 } s _ { 3 } ^ { 2 } + s _ { 2 3 } ^ { 2 } } { \left( s _ { 1 3 } + s _ { 2 3 } \right) ^ { 2 } } \right] = \longleftrightarrow \longleftrightarrow \longleftrightarrow \left( \frac { s _ { 1 3 } ^ { \prime } } { s _ { 2 3 } } - \frac { 6 s _ { 1 3 } s _ { 2 3 } } { \left( s _ { 1 3 } + s _ { 2 3 } \right) ^ { 2 } } \right) \ O \times { \mathscr Y } _ { _ { P } } ^ { s } } & \\ & { + \frac { 1 2 s _ { 1 3 } \varepsilon _ { 3 2 } } { s _ { 1 2 } \left( s _ { 1 3 } + s _ { 2 3 } \right) ^ { 2 } } I _ { \delta } ^ { ( 1 ) } [ \delta _ { \varepsilon } ^ { \pi } + f _ { u \alpha ^ { * } , \delta } ^ { ( 1 ) } , } & \\ { f _ { K _ { 2 } ; ( \delta , \phi , \delta ) } ^ { ( 1 ) } = 3 \left( \frac { s _ { 1 3 } ^ { \prime } - s _ { 1 3 } } { s _ { 1 2 } + s _ { 1 3 } } + \frac { s _ { 1 3 } ^ { \prime } - s _ { 2 3 } } { s _ { 1 2 } + s _ { 2 3 } } \right) = \longleftrightarrow \sum _ { p _ { 3 } } ^ { \prime } } & \\ & { - 3 \left( 1 + \frac { s _ { 1 2 } ^ { \prime } - s _ { 1 3 } } { s _ { 1 2 } + s _ { 1 3 } } \right) ^ { p _ { 1 } } \ O \times { \mathscr Y } _ { _ { P } } ^ { s } - 3 \left( 1 + \frac { s _ { 1 2 } - s _ { 2 3 } } { s _ { 1 2 } + s _ { 2 3 } } \right) _ { p _ { 2 } } \ O \times { \mathscr Y } _ { _ { P } } ^ { s } } & \\ & { + \frac { 3 s _ { 2 3 } s _ { 3 1 } } { 2 } \mathrm { F i n } \left( = < \sum _ { p _ { 3 } } ^ { p _ { 1 } } \right) + f _ { u \alpha ^ { * } , \delta } ^ { ( 1 ) } , } & { \langle 3 . 4 4 \rangle } & \end{array}
+$$
+
+where all relevant integrals are given in appendix B,and Fin extracts the finite part FB of the box integral defined in (4.8).
+
+There are several interesting features in the above results we would like to comment on.
+
+· Going back to the expressions (3.43) and (3.44)，we notice that - besides a part   
+identicaltotheBSformfactor $f _ { \mathrm { B P S , 3 } } ^ { ( 1 ) }$ trerestileo， which separately contain IR divergences. This might cause a net IR divergences in   
+additiontotheonecontained in $f _ { \mathrm { B P S , 3 } } ^ { ( 1 ) }$ ,ieitouldslel divergence. However,as evident from the results (3.45） and (3.46), these additional IR divergences cancel after PV reduction and hence only the universal IR divergence of the BPS part remains; see also [20].   
+· There are remaining divergences given by bubble integrals. These are the UV divergences which have to be canceled by renormalizing the composite operator ${ { \ K } _ { 6 } }$ . See section 5 for a further discussion.   
+· Besides the common BPS part, the two results (3.45) and (3.46) are quite different from each other. This directly shows that the form factors of ${ { \ K } _ { 6 } }$ with different external legs (even with the same MHV degree） have very different structure and need to be studied case by case.   
+· There is a term in (3.43) involving the integral $I _ { 3 } ^ { D } [ \ell _ { \epsilon } ^ { 2 } ]$ given in (B.1O). It evaluates to a rational term. Interestingly, we have found this contribution by applying fourdimensional unitarity. This is possible, since we apply the four-dimensional unitarity to compute the integrand expressed in terms of a tensor-integral basis. The rational term only appears after the PV reduction when the basis is reduced to scalar integrals. In the usual one-loop (generalized) unitarity computation [72, 73], one computes the
+
+coefficients of the scalar integrals directly and hence one would miss this rational term.In appendix D,we have checked that the rational term in (3.43) matches with an independent Feynman diagrammatic computation,and hence the final result for the form factor is complete.
+
+· The integral coefficients of the form factors in (3.45) and (3.46) appear to contain unphysical poles, such as $\begin{array} { r } { \frac { 1 } { s _ { 1 3 } + s _ { 2 3 } } = \frac { 1 } { s _ { 1 2 3 } - s _ { 1 2 } } } \end{array}$ These are,however, just spurious poles which cancel when all contributions are taken into account. We demonstrate this in detail in appendix D.
+
+Finally, we would like to mention that most of the above features (except the IR divergence) do not occur for the one-loop scattering amplitudes and BPS form factors of the $\mathcal { N } = 4$ （204号 SYM theory. In QCD, they are, however, common and appear e.g. for one-loop amplitudes [5].
+
+Last but not least, recall that the above form factor results for ${ { \ K } _ { 6 } }$ still need to be modified to obtain the correct ones for the Konishi operator,as will be described in the next section. This does not affect any of the above listed properties.
+
+# 4Konishi vs. $\kappa _ { 6 }$
+
+In this section, we discuss some important subtleties that arise when regulating the theory by continuing the spacetime dimension from $D = 4$ to $D = 4 - 2 \epsilon$ . Our unitarity-based calculation made use of the on-shellsuperfield (1.7) that only captures all degrees of freedom in strictly $D = 4$ dimensions.Hence, this approach does not directly yield the correct form factors of dimension-dependent operators. We explain this problem and its resolution in details below, taking the Konishi form factor as a concrete example.
+
+# 4.1 A subtlety in choosing a regularization scheme
+
+When regulating the theory by continuing the spacetime dimension to $D = 4 { - } 2 \epsilon$ , one has to also specify how the various fields are continued. In conventional dimensional regularization (CDR)[74] and the 't Hooft Veltman (HV） scheme [75], the number of fermion flavors $N _ { \psi }$ （204号 and also the number of scalar flavors $N _ { \phi }$ remain as in four dimensions and are hence kept as $N _ { \psi } = 4$ and $N _ { \phi } = 6$ , respectively. This does, however,break supersymmetry, since the polarization vector $\epsilon ^ { \mu }$ is taken in $D = 4 - 2 \epsilon$ dimensions.
+
+A scheme that preserves supersymmetry is dimensional reduction (DR） from ten dimensions [42, 43]. In this scheme, the number of scalar fields is changed to $N _ { \phi } = 6 { + } 2 \epsilon$ , such that $D + N _ { \phi } = 1 0$ is independent of $\epsilon$ . It exploits the fact that four-dimensional $\mathcal { N } = 4$ （204号 SYM theory can be obtained by dimensional reduction of ten-dimensional $\mathcal { N } = 1$ SYM theory. Performing the dimensional reduction to $D = 4 - 2 \epsilon$ rather than four dimensions, one obtains a regulated theory that preserves ${ \mathcal N } = 4$ supersymmetry. The ten-dimensional gauge field $A _ { M }$ ， $M = 1 , \dots , 1 0$ , then reduces to the $D$ -dimensional gauge field $A _ { \mu }$ and to （20 $N _ { \phi } = 1 0 - D = 6 + 2 \epsilon$ scalar fields $\phi _ { I }$ . Similarly, the ten-dimensional metric $g ^ { M N }$ reduces to the $D$ -dimensional metric $g ^ { \mu \nu }$ and $\delta ^ { I J }$ ：
+
+In a modified version of the DR scheme,known as four-dimensional-helicity (FDH) scheme [76，77]，the $2 \epsilon$ scalar degrees of freedom are absorbed into the gluons. This apparently preserves supersymmetry in the sense that bosonic and fermionic degrees of freedom still match. In particular, it allows to use the ${ \mathcal { N } } = 4$ on-shell superfield (1.7） and polarization vectors in $D = 4$ dimensions. So far, the FDH scheme has been successfully used in computing amplitudes and BPS form factors in ${ \mathcal { N } } = 4$ SYM theory. However, as we will discuss below,the FDH scheme is incompatible with dimension-dependent operators, i.e.operators that are sensitive to the absorption of the $2 \epsilon$ scalar degrees of freedom into the gluons.In particular,the Konishi operator (1.4) is dimension-dependent, since it contains a trace over $N _ { \phi } = 6 + 2 \epsilon$ scalars in $D = 4 - 2 \epsilon$ dimensions. The incompatibility arises in the FDH scheme since the $2 \epsilon$ scalars are absorbed into the gluons, giving direct results only for ${ { \ K } _ { 6 } }$ in (1.10).
+
+In order to detect the differences between working with the FDH and the DR scheme, we examine the underlying Feynman diagrams. In Feynman diagrams, explicit factors of $D = g ^ { \mu } { } _ { \mu }$ and $N _ { \phi } = \delta ^ { I } { } _ { I }$ arise whenever a gauge or scalar field runs in a loop in which the respective Lorentz or flavor index also forms a loop. We call such a loop an index loop. Moreover， we call an index loop externally closed if fields of the composite operator are involved in the index loop and internally closed if the operator is not involved in the index loop.31
+
+We look at internally closed index loops first. From the dimensional reduction from ten dimensions, we know that an internally closed vector index loop always occurs together with an internally closed scalar index loop. This is illustrated in figure 8. Hence,each $\longrightarrow$ X $^ +$ V factor of $D$ for a Lorentz index loop is accompanied by a factor of $N _ { \phi }$ for a scalar flavor index loop. This can also be seen in the concrete Feynman diagrams in appendix H,e.g. by comparing the first two lines in table 2. The sum of both contributions is proportional to $D + N _ { \phi } = 1 0$ ,both in the DR scheme and in the FDH scheme.Hence,as far as internally closed index loops are concerned, one is free to work in the FDH scheme.
+
+The situation changes for externally closed index loops. Generically, the fields of a composite operator involved in such a loop are only a subset of the fields in the theory, e.g. only the scalar felds. In this case,a diagram in which the externally closed scalar loop generates a factor $N _ { \phi }$ is not paired with a diagram in which a vector field can circulate in the loop and generate a factor $D$ . Hence,the result in the FDH scheme differs from the one in the DR scheme. In scattering amplitudes and form factors of BPS operators such as $\mathrm { t r } ( \phi _ { 1 2 } ^ { k } )$ ， no externally closed index loops can occur. This is why the FDH scheme is directly applicable for calculating these quantities.
+
+Let us consider the particular example of the Konishi primary operator (1.4)； it is defined as the trace over all scalars and can hence be part of an externally closed scalar index loop. The Konishi primary is the highest-weight state of a so-called long supermultiplet of ${ \mathfrak { p s u } } ( 2 , 2 | 4 )$ . Supersymmetry guarantees that all members of this supermultiplet have the same anomalous dimension (1.6)— unless it is broken by the regularization scheme. In the supersymmetry-preserving DR scheme, the Konishi primary is defined as the trace over all $N _ { \phi } = 1 0 - D = 6 + 2 \epsilon$ scalars. While the expression(1.4） can easily be modified to sum over this regularization-dependent number of scalars, the expression (1.10) is only valid for $N _ { \phi } = 6$ and hence it is not the highest-weight state of the superconformal multiplet. In particular, its anomalous dimension is not given by (1.6), which is usually calculated using a descendent of the Konishi operator in the $S U ( 2 )$ or $S L ( 2 )$ sector.32
+
+A priori, this discrepancy requires one to abandon the unitarity techniques that employ the ${ \mathcal N } = 4$ on-shell superspace. Fortunately, this is not the case. In the following,we will show that - at least for the cases at hand — the strictly four-dimensional result can be lifted to the $D$ -dimensional result with a simple prescription.
+
+# 4.2 From $\kappa _ { 6 }$ to $\kappa$
+
+Consider a generic multi-loop diagram contributing to the two-point form factor of the operator $\mathrm { t r } \big ( \phi _ { I } \phi _ { J } \big )$ with outgoing scalar fields $\phi _ { K }$ and $\phi _ { L }$ . It can only have one of the three types of $R$ -charge flow depicted in figure 9 together with the respective tensor structures. Only in the case (c) an externally closed scalar index loop exists. The BPS operator $\mathrm { t r } \big ( \phi _ { ( I } \phi _ { J ) } \big )$ defined in (1.2） obtains contributions from the cases (a） and (b) but not from case (c). The Konishi operator $\mathrm { t r } \big ( \phi _ { I } \phi _ { I } \big )$ defined in (1.4) obtains contributions from al three cases. The contributions it receives from the cases (a) and (b) are identical to those of the BPS operator since the coefficients of the tensor structures in figure 9 do not depend on the $R$ -charge. Thus, we can isolate the contribution from case (c) by subtracting the result for the BPS operator from the result for the Konishi operator. In $D = 4 - 2 \epsilon$ dimensions, the single externally closed scalar index loop present in the case (c） should not generate a factor 6 as found in the FDH scheme but instead the factor $N _ { \phi } = 1 0 - D = 6 + 2 \epsilon$ as prescribed in the DR scheme.Hence,in order to obtain the result for $\mathcal { K }$ in the DR scheme from the one for ${ { \ K } _ { 6 } }$ in the FDH scheme,we simply have to multiply the contributions of case (c),i.e. the difference of the Konishi and BPS case,by the ratio
+
+![](images/8ac5b5d624135850aff8e3f4b74b46c390cc6a94b16671b41e874886f981a701.jpg)  
+Figure 9: According to $R$ -charge conservation，only three different contractions of the scalar flavors can exist in a generic multi-loop diagram with incoming operator $\mathrm { t r } \big ( \phi _ { I } \phi _ { J } \big )$ （20 and outgoing scalar fields $\phi _ { K }$ and $\phi _ { L }$ ： (a) $\delta _ { I K } \delta _ { J L }$ (blue)， (b) $\delta _ { I L } \delta _ { J K }$ (green) and (c) $\delta _ { I J } \delta _ { K L }$ （204号 (red).
+
+$$
+r _ { \phi } = { \frac { N _ { \phi } } { 6 } } = { \frac { 6 + 2 \epsilon } { 6 } } \ .
+$$
+
+Similar arguments are valid for the three-point form factor of the Konishi operator. In our calculation, only its components with either two scalar legs and one gluon leg or two fermion legs and one scalar leg appear. While in the former case the previous arguments directly apply, in the latter case a slight modification is necessary as shown in the following. A generic multi-loop diagram of the latter type,which has incoming operator $\mathrm { t r } \big ( \phi _ { I } \phi _ { J } \big )$ and outgoing fields $\phi _ { K }$ ， $\psi _ { A }$ and $\psi _ { B }$ ，can only have one of the three possible $R$ -charge flows show in figure 1O. In addition to the Kronecker $\delta$ , the tensor structures contain the flavor $\left( \sigma _ { I } \right) _ { A B }$ matrices obeying the Clifford algebra. An externally closed scalar index loop exists only in the case (c). In analogy to the case of the two-point form factor,we can isolate this case by subtracting the result for the BPS operator from the result for the Konishi operator. Then, we modify the number of scalars by multiplying this difference by $r _ { \phi }$
+
+![](images/358fca346e44f5785b3daeee667dbcc2dbc1c109303687987b6d1f87a3c76bf2.jpg)  
+Figure 10: According to $R$ -charge conservation,only three different contractions of the scalar flavors can exist in a generic multi-loop diagram with incoming operator $\mathrm { t r } \big ( \phi _ { I } \phi _ { J } \big )$ ， outgoing scalar fields $\phi _ { K }$ and outgoing fermion fields $\psi _ { A }$ and $\psi _ { B }$ ：a) $\delta _ { I K } ( \sigma _ { J } ) _ { A B }$ (blue),b) $( \sigma _ { I } ) _ { A B } \delta _ { J K }$ (green） and c) $\delta _ { I J } ( \sigma _ { K } ) _ { A B }$ (red).
+
+The above arguments can be generalized to any number $n$ of points. Moreover, they also hold when reexpressing the real scalars $\phi _ { I }$ in terms of the complex scalars $\phi _ { A B } $ . This allws us to perform the calculations in the FDH scheme,using the superfields (1.7） of （20 ${ \mathcal N } = 4$ on-shell super space,as done in the previous section. We formulate the modification necessary to obtain the correct results of the DR scheme explicitly below.
+
+In the previous section,we have split the form factor ratios of ${ { \ K } _ { 6 } }$ as
+
+$$
+f _ { \mathrm { K } _ { 6 } , n } ^ { ( \ell ) } = f _ { \mathrm { B P S } , n } ^ { ( \ell ) } + \tilde { f } _ { \mathrm { K } _ { 6 } , n } ^ { ( \ell ) } \ ,
+$$
+
+where $f _ { \mathrm { B P S } , n }$ coming from (a) and (b) in figures 9 and 10 is the part identical to the BPS form factor and $\tilde { f } _ { K _ { 6 } , n }$ coming from (c) is the part unique for the operator (1.1O). To obtain the form factor ratio for $\mathcal { K }$ （204号
+
+$$
+f _ { \mathcal { K } , n } ^ { ( \ell ) } = f _ { \mathrm { B P S } , n } ^ { \left( \ell \right) } + \tilde { f } _ { \mathcal { K } , n } ^ { ( \ell ) } \ ,
+$$
+
+we apply the replacement rule
+
+$$
+\tilde { f } _ { \mathcal { K } _ { 6 } , n } ^ { ( \ell ) } \quad \stackrel { r _ { \phi } } { \longrightarrow } \quad r _ { \phi } \tilde { f } _ { \mathcal { K } _ { 6 } , n } ^ { ( \ell ) } = \tilde { f } _ { \mathcal { K } , n } ^ { ( \ell ) } \ ,
+$$
+
+where $r _ { \phi }$ is defined in (4.1). According to our discussion, it should be valid to all loop orders.33
+
+We have focused on the form factor of the Konishi operator. A similar discussion should also be applicable to other operators containing a contraction of favor or vector   
+indices.As in the Konishi case, it is essential to be able to formulate the results in terms of   
+two parts,one that contains an externally closed index loop and the other that does not.   
+The part without externally closed index loop should be independently computable, such as the BPS part in the Konishi form factor. Given such a decomposition, one can then use the efficient on-shell techniques, together with a simple modification rule as (4.4). Another   
+example of an operator with contracted flavor indices is $\mathrm { t r } ( \phi _ { I } \phi _ { I } \phi _ { K } )$ ，which has one-loop   
+anomalous dimension 8. An example with contracted vector indices is $\mathrm { t r } ( D ^ { \mu } \phi _ { 1 2 } D _ { \mu } \phi _ { 1 2 } )$ ， which has one-loop anomalous dimension 12. In the latter case, the differences in the   
+one-loop two-point form factor between intermediate states in $D = 4$ and $D = 4 - 2 \epsilon$   
+Smilaly dimensions are precisely given by the rational terms in the PV reduction formula (C.5). $f _ { \mathcal { K } , n } ^ { ( 1 ) }$ and $f _ { \mathcal { K } _ { 6 } , n } ^ { ( 1 ) }$ d (4.4); these rational terms arise when multiplying the the term in $r _ { \phi }$ that is linear in $\epsilon$ ：
+
+# 4.3 Final Konishi form factors
+
+Finally, we list the non-vanishing results for the Konishi form factor, which will be used as the input in the next section to calculate the cross section. They can be obtained by using the form factors computed in section 3 and integral results in appendix B. Note that the formfactors canbe obtained as $\tilde { f } _ { \mathcal { K } }$ parts have been modified by the $f _ { \mathrm { \tiny { K , } } n } ^ { ( \ell ) } = f _ { \mathrm { \tiny { B P S , } } n } ^ { ( \ell ) } + \tilde { f } _ { \boldsymbol { K , } n } ^ { ( \ell ) }$ $r _ { \phi }$ factor according to the prescription (4.4). The full .I the folwigeguatons $\big ( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \big ) ^ { \ell \epsilon }$ always undersod as $\textstyle { \bigl ( \frac { \mu ^ { 2 } } { - q ^ { 2 } - i 0 } \bigr ) ^ { \ell \epsilon } }$ and analogously for $s _ { a b }$ .
+
+# Two-point one-loop
+
+$$
+\begin{array} { r l r } {  { f _ { \mathrm { B P S , 2 } } ^ { ( 1 ) } = ( \displaystyle \frac { \mu ^ { 2 } } { - q ^ { 2 } } ) ^ { \epsilon } [ - \displaystyle \frac { 2 } { \epsilon ^ { 2 } } + \frac { \pi ^ { 2 } } { 6 } + \frac { 1 4 } { 3 } \zeta _ { 3 } \epsilon + \frac { 4 7 } { 7 2 0 } \pi ^ { 4 } \epsilon ^ { 2 } ] + { \mathcal O } ( \epsilon ^ { 3 } ) ~ , } } \\ & { } & { \tilde { f } _ { K , ( \phi , \phi ) } ^ { ( 1 ) } = ( \displaystyle \frac { \mu ^ { 2 } } { - q ^ { 2 } } ) ^ { \epsilon } [ - \frac { 6 } { \epsilon } - 1 4 - \Big ( 2 8 - \frac { \pi ^ { 2 } } { 2 } \Big ) \epsilon - \Big ( 5 6 - \frac { 7 \pi ^ { 2 } } { 6 } - 1 4 \zeta _ { 3 } \Big ) \epsilon ^ { 2 } ] + { \mathcal O } ( \epsilon ^ { 3 } ) ~ . } \end{array}
+$$
+
+# Two-point two-loop
+
+$$
+\begin{array} { r l } & { f _ { \mathrm { B P S , 2 } } ^ { ( 2 ) } = \displaystyle \left( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \right) ^ { 2 \epsilon } \left[ \frac { 2 } { \epsilon ^ { 4 } } - \frac { \pi ^ { 2 } } { 6 \epsilon ^ { 2 } } - \frac { 2 5 \zeta _ { 3 } } { 3 \epsilon } - \frac { 7 \pi ^ { 4 } } { 6 0 } \right] + \mathcal { O } ( \epsilon ) \ , } \\ & { \tilde { f } _ { K , ( \phi , \phi ) } ^ { ( 2 ) } = \displaystyle \left( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \right) ^ { 2 \epsilon } \left[ \frac { 1 2 } { \epsilon ^ { 3 } } + \frac { 4 6 } { \epsilon ^ { 2 } } + \frac { 1 5 2 - 2 \pi ^ { 2 } } { \epsilon } + \left( 4 8 4 - \frac { 3 5 \pi ^ { 2 } } { 3 } - 5 6 \zeta _ { 3 } \right) \right] + \mathcal { O } ( \epsilon ) \ . } \end{array}
+$$
+
+# Three-point one-loop
+
+$$
+\begin{array} { r l } & { f _ { \mathrm { n o s s , 3 } } ^ { ( 1 ) } = - \frac { c \Gamma } { \epsilon ^ { 2 } } \Big [ \Big ( \frac { \beta ^ { 2 } } { - s _ { 1 2 } } \Big ) ^ { c } + \Big ( \frac { \beta ^ { 2 } } { - s _ { 2 3 } } \Big ) ^ { c } + \Big ( \frac { \mu ^ { 2 } } { - s _ { 3 1 } } \Big ) ^ { c } \Big ] } \\ & { \qquad + \mathrm { F B } ( p _ { 1 } , p _ { 2 } , p _ { 3 } , - q ) + \mathrm { F B } ( p _ { 2 } , p _ { 3 } , p _ { 1 } , - q ) + \mathrm { F B } ( p _ { 3 } , p _ { 1 } , p _ { 2 } , - q ) , } \\ & { \tilde { f } _ { \mathrm { K , ( \beta , 6 , 6 , 6 ) } } ^ { ( 1 ) } = - \frac { c _ { \mathrm { g } } c _ { \mathrm { { P } } } } { ( 1 - 2 \alpha ) } \Bigg \{ 3 [ 1 + \frac { s _ { 1 3 } ^ { 2 } } { ( s _ { 1 3 } + s _ { 2 3 } ) ^ { 2 } } ] ( \frac { \mu ^ { 2 } } { - q ^ { 2 } } ) ^ { c } + \frac { 6 s _ { 1 3 } s _ { 2 3 } } { ( s _ { 1 3 } + s _ { 2 3 } ) ^ { 2 } } \Big ( \frac { \mu ^ { 2 } } { - s _ { 1 2 } } \Big ) ^ { c } } \\ & { \qquad + \frac { 1 2 \alpha _ { 1 } s _ { 2 3 } } { s _ { 1 2 } ( s _ { 1 3 } + s _ { 2 3 } ) } \frac { \xi } { ( 2 - 2 \epsilon ) } \frac { 1 } { s _ { 1 3 } + s _ { 2 3 } } \Big [ s _ { 1 2 } \Big ( \frac { \mu ^ { 2 } } { - s _ { 1 2 } } \Big ) ^ { \epsilon } - q ^ { 2 } \Big ( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \Big ) ^ { \epsilon } \Big ] \Bigg \} , } \\ & { \tilde { f } _ { \mathrm { K , ( \beta , 6 , 6 ) } } ^ { ( 1 ) } = - \frac { r _ { 0 } \epsilon \alpha _ { 1 } } { \epsilon ( 1 - 2 \alpha ) } \Bigg \{ 3 ( 1 + \frac { s _ { 1 2 } - s _ { 1 3 } } { s _ { 1 2 } + s _ { 1 3 } } ) \Big ( \frac { \mu ^ { 2 } } { - s _ { 2 3 } } \Big ) ^ { c } + 3 ( 1 + \frac { s _ { 1 2 } - s _ { 2 3 } } { s _ { 1 2 } + s _ { 2 3 } } ) \Big ( \frac { \beta ^ { 2 } } { - s _ { 1 3 } } \Big ) ^ { c } } \\ &  \qquad - 3 ( \frac { s _ { 1 2 } - s _ { 1 3 } }  s _ { 1 2 } + s _ \end{array}
+$$
+
+where $c _ { \Gamma }$ is given in (B.5), $q ^ { 2 } = s _ { 1 2 } + s _ { 2 3 } + s _ { 3 1 }$ and we have defined the (rescaled) finite part of the one-mass box integral as
+
+$$
+\begin{array} { r l } & { \mathrm { F B } ( p _ { 1 } , p _ { 2 } , p _ { 3 } , - q ) } \\ & { \qquad = - \frac { C _ { \Gamma } } { \epsilon ^ { 2 } } \biggl [ \biggl ( \frac { \mu ^ { 2 } } { - s _ { 1 2 } } \biggr ) ^ { \epsilon } h \biggl ( - \frac { s _ { 3 1 } } { s _ { 2 3 } } \biggr ) + \biggl ( \frac { \mu ^ { 2 } } { - s _ { 2 3 } } \biggr ) ^ { \epsilon } h \biggl ( - \frac { s _ { 3 1 } } { s _ { 1 2 } } \biggr ) - \biggl ( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \biggr ) ^ { \epsilon } h \biggl ( - \frac { s _ { 3 1 } q ^ { 2 } } { s _ { 1 2 } s _ { 2 3 } } \biggr ) \biggr ] } \end{array}
+$$
+
+with $h ( x ) = { } _ { 2 } F _ { 1 } ( 1 , - \epsilon , 1 - \epsilon , x ) - 1$
+
+# 5 BPS and Konishi cross sections
+
+In this section，we compute the cross section discussed in section 2. We first discuss in detail the case of the BPS operator (1.2） as a warm-up example. Then, we compute one of our main results: the Konishi cross section to two-loop order. We will use the Konishi form factors $f _ { \kappa , n } ^ { ( \ell ) }$ and $\tilde { f } _ { \mathcal { K } , n } ^ { ( \ell ) }$ givennubsotatweadto of ${ { \ K } _ { 6 } }$ computed in section 3 by applying the prescription of section 4.
+
+# 5.1 BPS cross section up to one-loop order
+
+As a warm-up,we first consider in detail the cross section corresponding to the imaginary part of the two-point correlation function of the BPS operator $\operatorname { t r } ( \phi _ { 1 2 } ^ { 2 } )$ and its conjugate $\mathrm { t r } ( \phi _ { 3 4 } ^ { 2 } )$ ， $\langle 0 | \operatorname { t r } ( \phi _ { 1 2 } ^ { 2 } ) ( x ) \operatorname { t r } ( \phi _ { 3 4 } ^ { 2 } ) ( 0 ) | 0 \rangle$ . Since the operators are protected, the cross section has no UV-divergent loop corrections. Moreover, finite corrections do not occur either [83, 84], i.e.
+
+$$
+\sigma _ { \mathrm { B P S } } = \sigma _ { \mathrm { B P S } } ^ { ( 0 ) } + \mathcal { O } ( \epsilon ) ~ .
+$$
+
+We check this explicitly up to one-loop level.
+
+![](images/124b6cdfa4b288e5c6eebefd82decb279749cac481c65fcbe130e0fd8bb8d785.jpg)  
+Figure 11: Tree-level squared matrix element.
+
+![](images/ccd8836ad17feadca691d051f1ac50e14b9a82c3b75ff25fb5cd6011be72511c.jpg)  
+Figure 12: One-loop squared matrix elements.
+
+# Tree level
+
+Let us start with the tree-level cross section. The squared matrix element,as shown in figure 11, is the product of two two-point tree-level BPS form factors, one for $\operatorname { t r } ( \phi _ { 1 2 } ^ { 2 } )$ and one for its conjugate $\mathrm { t r } ( \phi _ { 3 4 } ^ { 2 } )$ . The tree-level non-color-ordered BPS super form factor can be obtained from (2.11) and (3.2). It is easy to perform the color factor summation and the fermionic integration. This yields the squared matrix element
+
+$$
+\mathcal { M } _ { \mathrm { B P S } , 2 } ^ { ( 0 ) } = \frac { 1 } { 2 ! } \sum _ { a _ { 1 } , a _ { 2 } } \int \mathrm { d } ^ { 4 } \eta _ { 1 } \mathrm { d } ^ { 4 } \eta _ { 2 } \hat { \mathcal { F } } _ { \mathrm { B P S } } ^ { ( 0 ) } ( 1 , 2 ) \hat { \mathcal { F } } _ { \mathrm { B P S } } ^ { * ( 0 ) } ( 1 , 2 ) = \frac { N _ { \mathrm { c } } ^ { 2 } - 1 } { 2 } \ .
+$$
+
+The tree-level cross section is given by the integral (E.2) of $\mathcal { M } _ { \mathrm { B P S } , 2 } ^ { ( 0 ) }$ over the two-particle phase space in $D = 4 - 2 \epsilon$ dimensions.This yields
+
+$$
+\sigma _ { \mathrm { B P S } } ^ { ( 0 ) } = \int \mathrm { d P S } _ { 2 } { \mathcal M } _ { \mathrm { B P S } , 2 } ^ { ( 0 ) } = \Bigl ( \frac { \mu ^ { 2 } } { q ^ { 2 } } \Bigr ) ^ { \epsilon } \frac { 1 } { 4 ( 1 6 \pi ) ^ { \frac { 1 } { 2 } - \epsilon } \Gamma ( \frac { 3 } { 2 } - \epsilon ) } \frac { N _ { \mathrm { c } } ^ { 2 } - 1 } { 2 } .
+$$
+
+# One loop
+
+The one-loop cross section is given by the sum of a two-particle and a three-particle channel, as shown in figure 12:
+
+$$
+\sigma _ { \mathrm { B P S } } ^ { ( 1 ) } = \int \mathrm { d } \mathrm { P S } _ { 2 } \mathcal { M } _ { \mathrm { B P S } , 2 } ^ { ( 1 ) } + \frac { 1 } { g ^ { 2 } } \int \mathrm { d } \mathrm { P S } _ { 3 } \mathcal { M } _ { \mathrm { B P S } , 3 } ^ { ( 0 ) } ~ .
+$$
+
+# Two-particle channel
+
+The squared matrix element of the two-particle channel corresponds to the first two graphs of figure l2. As an equation, it reads
+
+$$
+\mathcal { M } _ { \mathrm { B P S , 2 } } ^ { ( 1 ) } = \frac { 1 } { 2 ! } \sum _ { a _ { 1 } , a _ { 2 } } \int \mathrm { d } ^ { 4 } \eta _ { 1 } \mathrm { d } ^ { 4 } \eta _ { 2 } \left[ \hat { \mathcal { F } } _ { \mathrm { B P S , 2 } } ^ { ( 1 ) } \hat { \mathcal { F } } _ { \mathrm { B P S , 2 } } ^ { * ( 0 ) } + \hat { \mathcal { F } } _ { \mathrm { B P S , 2 } } ^ { ( 0 ) } \hat { \mathcal { F } } _ { \mathrm { B P S , 2 } } ^ { * ( 1 ) } \right] = 2 \mathcal { M } _ { \mathrm { B P S , 2 } } ^ { ( 0 ) } \mathfrak { R } \big ( f _ { \mathrm { B P S , 2 } } ^ { ( 1 ) } \big ) \ ,
+$$
+
+where $\Re$ denotes the real part, and $f _ { \mathcal { O } , n } ^ { ( \ell ) }$ is the ratio between the $\ell$ -loop and tree-level $n$ -point form factor of the operator $\mathcal { O }$ as defined in (3.1). The tree-level form factor is absorbed into MPs.2: . For short notation, we denote $\hat { \mathcal { F } } _ { \mathcal { O } } ( 1 , \dots , n )$ as $\hat { \mathcal { F } } _ { \mathcal { O } , n }$
+
+There is an important point related to the $i 0$ -prescription to be explained here. The two-point formfactors acquireafactorof (-q²-i0)-foreach loop.Thefunction f(,2 （204号
+
+月 $f _ { \mathrm { B P S , 2 } } ^ { ( 1 ) }$ $\left( - q ^ { 2 } - \right.$ $i 0 ) ^ { - \epsilon }$ $( - q ^ { 2 } + i 0 ) ^ { - \epsilon }$ $f _ { \mathrm { B P S , 2 } } ^ { ( 1 ) }$ $( - q ^ { 2 } \pm i 0 ) ^ { - \epsilon }$ $q ^ { 2 } > 0$
+
+$$
+\Re ( - q ^ { 2 } \pm i 0 ) ^ { x } = \frac { \Gamma ( 1 + x ) \Gamma ( 1 - x ) } { \Gamma ( 1 + 2 x ) \Gamma ( 1 - 2 x ) } ( q ^ { 2 } ) ^ { x } ~ .
+$$
+
+Using this result to determine the real part of the form factor (4.5) and then inserting it into (5.5) together with the tree-level result (5.2) and performing the two-particle phase space integral (E.2),we obtain for the first term in (5.4):
+
+$$
+\sigma _ { \mathrm { B P S } , 2 } ^ { ( 1 ) } = \int \mathrm { d } \mathrm { P S } _ { 2 } \mathcal { M } _ { \mathrm { B P S } , 2 } ^ { ( 1 ) } = \sigma _ { \mathrm { B P S } } ^ { ( 0 ) } \left( \frac { \mu ^ { 2 } } { q ^ { 2 } } \right) ^ { \epsilon } \left( - \frac { 4 } { \epsilon ^ { 2 } } + \frac { 7 \pi ^ { 2 } } { 3 } \right) + \mathcal { O } ( \epsilon ) \ .
+$$
+
+# Three-particle channel
+
+The squared matrix element of the three-particle channel is given by the last graph of figure 12.The MHV and NMHV tree-level three-point non-color-ordered form factor (2.11) can be obtained using (3.2) and (3.7). Performing the color summation and fermionic integration, we find the squared matrix element
+
+$$
+\begin{array} { r l } { \mathcal { M } _ { \mathrm { B P S , 3 } } ^ { ( 0 ) } = \displaystyle \frac { 1 } { 3 ! } \sum _ { a _ { 1 } , a _ { 2 } , a _ { 3 } } \int \mathrm { d } ^ { 4 } \eta _ { 1 } \mathrm { d } ^ { 4 } \eta _ { 2 } \mathrm { d } ^ { 4 } \eta _ { 3 } \left[ \hat { \mathcal { F } } _ { \mathrm { B P S , 3 } } ^ { \mathrm { M H V , ( 0 ) } } \hat { \mathcal { F } } _ { \mathrm { B P S , 3 } } ^ { \mathrm { s M H V , ( 0 ) } } + \hat { \mathcal { F } } _ { \mathrm { B P S , 3 } } ^ { \mathrm { N M H V , ( 0 ) } } \hat { \mathcal { F } } _ { \mathrm { B P S , 3 } } ^ { \mathrm { s M H V , ( 0 ) } } \right] } & { } \\ { \displaystyle } & { = \displaystyle \frac { 2 } { 3 } g _ { \mathrm { Y M } } ^ { 2 } N _ { \mathrm { c } } \left( N _ { \mathrm { c } } ^ { 2 } - 1 \right) \frac { ( q ^ { 2 } ) ^ { 2 } } { s _ { 1 2 } s _ { 2 3 } s _ { 3 1 } } \ . } \end{array}
+$$
+
+Performing the three-particle phase space integral via (E.3), we obtain for the second term in (5.4):
+
+$$
+\sigma _ { \mathrm { B P S } , 3 } ^ { ( 1 ) } = \frac { 1 } { g ^ { 2 } } \int \mathrm { d P S } _ { 3 } { \mathcal M } _ { \mathrm { B P S } , 3 } ^ { ( 0 ) } = \sigma _ { \mathrm { B P S } } ^ { ( 0 ) } \left( \frac { \mu ^ { 2 } } { q ^ { 2 } } \right) ^ { \epsilon } \left( \frac { 4 } { \epsilon ^ { 2 } } - \frac { 7 \pi ^ { 2 } } { 3 } \right) + \mathcal O ( \epsilon ) \ .
+$$
+
+Summing (5.7) and (5.9) together as prescribed by (5.4), we see that both contributions cancel and hence that (5.1) holds at one-loop level.
+
+# 5.2 Konishi cross section up to two-loop order
+
+Next,we compute the Konishi cross section. We start with the discusson of an important simplifcation for the computation,which exploits the fact that a part of the Konishi cross section is identical to the BPS cross section (5.1)，which is protected.
+
+At tree level, the squared matrix elements of the Konishi and the BPS cross section satisfy the following simple relation34
+
+$$
+\mathcal { M } _ { K , n } ^ { ( 0 ) } = \sum _ { \mathrm { c o l o r s } } \sum _ { \mathrm { h e l i c i t i e s } } \hat { \mathcal { F } } _ { K , n } ^ { ( 0 ) } \hat { \mathcal { F } } _ { K , n } ^ { * ( 0 ) } = 6 \sum _ { \mathrm { c o l o r s } } \sum _ { \mathrm { s p i n s } } \hat { \mathcal { F } } _ { \mathrm { B P S } , n } ^ { ( 0 ) } \hat { \mathcal { F } } _ { \mathrm { B P S } , n } ^ { * ( 0 ) } = 6 \mathcal { M } _ { \mathrm { B P S } , n } ^ { ( 0 ) } \ ,
+$$
+
+where the factor 6 originates from the contribution of all scalar flavor degrees of freedom in the two-point function of the Konishi operator (1.4), which does not occur for the BPS operator.35
+
+Furthermore, the loop correction to the Konishi form factor can be written as linear combination of two contributions as defined in (4.3): one that is identical to the BPS form factor and the other that is unique for the Konishi operator. We can introduce a corresponding squared matrix element that includes a subtraction of the BPS part as
+
+$$
+\tilde { \mathcal { M } } _ { K , n } ^ { ( \ell ) } = \mathcal { M } _ { K , n } ^ { ( \ell ) } - 6 \mathcal { M } _ { \mathrm { B P S } , n } ^ { ( \ell ) } ~ ,
+$$
+
+where the factor 6 takes into account that at any loop order l the contribution MPs built from two BPS-type components of the Konishi form factor receives a factor 6 as in (5.10).
+
+Since the BPS cross section (5.1） receives no loop corrections,
+
+$$
+\sigma _ { \kappa } ^ { ( \ell ) } = \sum _ { n = 2 } ^ { \ell + 2 } g ^ { 2 ( 2 - n ) } \int \mathrm { d } \mathrm { P S } _ { n } \mathcal { M } _ { \kappa , n } ^ { ( \ell + 2 - n ) } = \sum _ { n = 2 } ^ { \ell + 1 } g ^ { 2 ( 2 - n ) } \int \mathrm { d } \mathrm { P S } _ { n } \tilde { \mathcal { M } } _ { \kappa , n } ^ { ( \ell + 2 - n ) } ~ , ~ \ell \geq 1 ~ .
+$$
+
+Note in particular that $\tilde { \mathcal { M } } _ { \mathcal { K } , n } ^ { ( 0 ) } = 0$ . Hence, the sum over $n$ can be terminated already at $\ell + 1$ . As we will see, this simplifies the computation dramatically.
+
+From (5.1O),it immediately follows that the tree-level cross section for the Konishi operator also contains an extra factor 6 compared to the one of the BPS-operator, i.e.
+
+$$
+\sigma _ { K } ^ { ( 0 ) } = \int \mathrm { d } { \mathrm P } \mathrm { S } _ { 2 } \mathcal { M } _ { K , 2 } ^ { ( 0 ) } = 6 \sigma _ { \mathrm { B P S } } ^ { ( 0 ) } \ .
+$$
+
+At loop-level, it is convenient to factor out $\sigma _ { \mathcal { K } } ^ { ( 0 ) }$
+
+# 5.2.1 One-loop result
+
+The bare one-loop Konishi cross section receives contributions from products of tree-level and one-loop two-point form factors and of tree-level three-point form factors as shown in figure 12. The squared matrix element of the two-particle channel is given by
+
+$$
+\mathcal { M } _ { K , 2 } ^ { ( 1 ) } = \frac { 1 } { 2 ! } \sum _ { a _ { 1 } , a _ { 2 } } \int \mathrm { d } ^ { 4 } \eta _ { 1 } \mathrm { d } ^ { 4 } \eta _ { 2 } \left( \hat { \mathcal { F } } _ { K , 2 } ^ { ( 1 ) } \hat { \mathcal { F } } _ { K , 2 } ^ { * ( 0 ) } + \hat { \mathcal { F } } _ { K , 2 } ^ { ( 0 ) } \hat { \mathcal { F } } _ { K , 2 } ^ { * ( 1 ) } \right) = 2 \mathcal { M } _ { K , 2 } ^ { ( 0 ) } \Re \big ( f _ { K , ( \phi , \phi ) } ^ { ( 1 ) } \big ) \ ,
+$$
+
+where we use the abbreviation $f _ { \mathcal { K } , ( \phi , \phi ) } ^ { ( 1 ) } = f _ { \mathcal { K } , 2 } ^ { ( 1 ) } ( 1 _ { \phi _ { 1 2 } } , 2 _ { \phi _ { 3 4 } } )$ 36
+
+![](images/a9e0b6016f5746b9192d11881a8e6c0b29f207d9efaefb565792fec15c7a8a97.jpg)  
+Figure 13: One-loop correction from one-loop renormalization constant.
+
+As discussed above, the result for the three-particle channel cancels with the BPS part in the two-particle channel. Therefore, we can subtract the BPS part from (5.14),as in (5.11). This yields
+
+$$
+\tilde { \mathcal { M } } _ { \mathcal { K } , 2 } ^ { ( 1 ) } = 2 \mathcal { M } _ { \mathcal { K } , 2 } ^ { ( 0 ) } \Re \big ( \tilde { f } _ { \mathcal { K } , ( \phi , \phi ) } ^ { ( 1 ) } \big ) ~ ,
+$$
+
+where Fre.o F(ω) is given in (4.5).Performing the two-particle phase space integral (E.2),the one-loop bare Konishi cross section reads
+
+$$
+\sigma _ { \mathcal K } ^ { ( 1 ) } = \int \mathrm { d } \mathrm { P S } _ { 2 } \tilde { \mathcal M } _ { K , 2 } ^ { ( 1 ) } = \sigma _ { \mathcal K } ^ { ( 0 ) } \left( \frac { \mu ^ { 2 } } { q ^ { 2 } } \right) ^ { \epsilon } \left( - \frac { 1 2 } { \epsilon } - 2 8 \right) + \mathcal O ( \epsilon ) \ .
+$$
+
+The divergence in (5.16) has to be canceled by the one-loop correction of the Konishi operator obtained from the one-loop term $\mathcal { Z } _ { \mathcal { K } } ^ { ( 1 ) }$ in the operator renormalization constant Zx. As shown in figure 13, 2(1) ）contributes as
+
+$$
+\sigma _ { \mathcal Z ^ { ( 1 ) } \mathcal K } ^ { ( 1 ) } = 2 \mathcal Z ^ { ( 1 ) } \sigma _ { \mathcal K } ^ { ( 0 ) } .
+$$
+
+Requiring the sum of (5.16) and (5.17) to be finite,we immediately find
+
+$$
+\mathcal { Z } _ { \kappa } ^ { ( 1 ) } = \frac { 6 } { \epsilon } .
+$$
+
+Comparing this result with the one-loop term of the expansion (2.3) reproduces the known one-loop Konishi anomalous dimension )=12, which was first obtained in [45,46].
+
+The renormalized one-loop cross section is hence given by
+
+$$
+\sigma _ { { \tiny K } , { \mathrm R } } ^ { ( 1 ) } = \sigma _ { { \tiny K } } ^ { ( 1 ) } + \sigma _ { { \tiny \mathcal Z } ^ { ( 1 ) } K } ^ { ( 1 ) } = \sigma _ { K } ^ { ( 0 ) } \Big ( 1 2 \log \frac { q ^ { 2 } } { \mu ^ { 2 } } - 2 8 \Big ) + { \mathcal O } ( \epsilon ) ~ .
+$$
+
+As predicted in (2.15),the coefficient of $\begin{array} { r } { \log { \frac { q ^ { 2 } } { \mu ^ { 2 } } } } \end{array}$ also reproduces the correct one-loop anomalous dimension.
+
+# 5.2.2 Two-loop result
+
+The two-loop cross section is obtained from the contributions to the squared matrix elements depicted in figure 14. As discussed at the beginning of this subsection， we can neglect the contribution that is proportional to the BPS cross section. In particular, it is not necessary to consider the contribution from the four-particle channel in figure 14c, which involves the complicated four-particle phase space integral. This simplifies the computation significantly. In the following,we separately compute the contributions from the two-particle and three-particle channel.
+
+![](images/d1ac532ab900eea963496c1e2084d7a1900ba90b47d8319ac87e242688d8ecf9.jpg)  
+Figure 14: The two-loop bare squared matrix element.
+
+# Two-particle channel
+
+The full contribution of the two-particle channel consists of the three terms
+
+$$
+\int \mathrm { d } \mathrm { P S } _ { 2 } \tilde { \mathcal { M } } _ { K , 2 } ^ { ( 2 ) } + \int \mathrm { d } \mathrm { P S } _ { 2 } \mathcal { M } _ { \mathcal { Z } ^ { ( 1 ) } K , 2 } ^ { ( 2 ) } + \int \mathrm { d } \mathrm { P S } _ { 2 } \mathcal { M } _ { \mathcal { Z } ^ { ( 2 ) } K , 2 } ^ { ( 2 ) } \ ,
+$$
+
+where the first term is the bare contribution,and the second and the third term involve the one- and two-loop contributions of the renormalization constant $\mathcal { Z } \kappa$ ，respectively. We compute the first two terms. After having considered also the three-particle channel, we will determine $\mathcal { Z } _ { \mathcal { K } } ^ { ( 2 ) }$ from the condition that all divergences are canceled.
+
+The squared matrix element obtained from the bare form factors is shown in figure 14a. In analogy to (5.15), the first two graphs yield
+
+$$
+\tilde { \mathcal { M } } _ { \mathcal { K } , 2 } ^ { ( 2 ) , \mathrm { I } } = 2 \mathcal { M } _ { \mathcal { K } , 2 } ^ { ( 0 ) } \Re \big ( \tilde { f } _ { \mathcal { K } , ( \phi , \phi ) } ^ { ( 2 ) } \big ) ~ ,
+$$
+
+where $\tilde { f } _ { \mathcal { K } , ( \phi , \phi ) } ^ { ( 2 ) }$ is given in (4.6).
+
+The third graph of figure 14a has no lower-loop counterpart and needs to be discussed in detail. It is the product of two one-loop Konishi form factors,and each of them is a linearcombinationoftheBPSpart $f _ { \mathrm { B P S , 2 } } ^ { * ( 1 ) }$ and the additional $\tilde { f } _ { \mathcal { K } , 2 } ^ { ( 1 ) }$ part. After subtracting the product of two BPS parts,we obtain
+
+$$
+\tilde { \mathcal { M } } _ { K , 2 } ^ { ( 2 ) , \mathrm { I I } } = \mathcal { M } _ { K , 2 } ^ { ( 0 ) } \left[ 2 \Re \Big ( \tilde { f } _ { K , ( \phi , \phi ) } ^ { ( 1 ) } f _ { \mathrm { B P S } , 2 } ^ { * ( 1 ) } \Big ) + \tilde { f } _ { K , ( \phi , \phi ) } ^ { ( 1 ) } \tilde { f } _ { K , ( \phi , \phi ) } ^ { * ( 1 ) } \right] ,
+$$
+
+where the form factors are given in (4.5).37
+
+Integrating the sum of the two previous contributions over the two-particle phase space (E.2) yields the bare cross section of the two-particle channel with its BPS part subtracted. It explicitly reads
+
+$$
+\begin{array} { r l r } {  { \tilde { \sigma } _ { K , 2 } ^ { ( 2 ) } = \int \mathrm { d } \mathrm { P S } _ { 2 } ( \tilde { \mathcal { M } } _ { K , 2 } ^ { ( 2 ) , \mathrm { I } } + \tilde { \mathcal { M } } _ { K , 2 } ^ { ( 2 ) , \mathrm { I I } } ) } } \\ & { } & { = \sigma _ { K } ^ { ( 0 ) } ( \frac { \mu ^ { 2 } } { q ^ { 2 } } ) ^ { 2 \epsilon } [ \frac { 4 8 } { \epsilon ^ { 3 } } + \frac { 1 8 4 } { \epsilon ^ { 2 } } + \frac { 5 8 4 - 5 6 \pi ^ { 2 } } { \epsilon } + 1 7 2 4 - \frac { 6 6 8 } { 3 } \pi ^ { 2 } - 2 2 4 \zeta _ { 3 } ] + { \mathcal O } ( \epsilon ) ~ . } \end{array}
+$$
+
+![](images/042101d368ca834f13348a3711c48178216ca1c9809af7b0375e4d3cee6ab34b.jpg)  
+Figure 15: The contribution from the one-loop renormalization constant to the twoparticle channel.
+
+Next,we consider the contribution involving the one-loop renormalization constant. It is shown in figure 15 and leads to the squared matrix element
+
+$$
+\mathcal { M } _ { \mathcal { Z } ^ { ( 1 ) } K , 2 } ^ { ( 2 ) } = \mathcal { M } _ { K , 2 } ^ { ( 0 ) } \Big [ 4 \Re \big ( f _ { K , ( \phi , \phi ) } ^ { ( 1 ) } \big ) \mathcal { Z } _ { K } ^ { ( 1 ) } + \big ( \mathcal { Z } _ { K } ^ { ( 1 ) } \big ) ^ { 2 } \Big ] ~ .
+$$
+
+Inserting the explicit expressions (4.5) into (5.24) and performing the two-particle phase space integration (E.2),we obtain
+
+$$
+\begin{array} { l } { { \displaystyle \sigma _ { \mathcal { Z } ^ { ( 1 ) } K , 2 } ^ { ( 2 ) } = \int \mathrm { d } { \mathrm { P S } _ { 2 } } \mathcal { M } _ { \mathcal { Z } ^ { ( 1 ) } K , 2 } ^ { ( 2 ) } } \ ~ } \\ { { \displaystyle ~ = \sigma _ { \mathcal { K } } ^ { ( 0 ) } \left[ \left( \frac { \mu ^ { 2 } } { q ^ { 2 } } \right) ^ { \epsilon } \left( - \frac { 4 8 } { \epsilon ^ { 3 } } - \frac { 1 4 4 } { \epsilon ^ { 2 } } - \frac { 3 3 6 - 2 8 \pi ^ { 2 } } { \epsilon } - 6 7 2 + 8 4 \pi ^ { 2 } + 1 1 2 \zeta _ { 3 } \right) \ ~ \right. } } \\ { { \displaystyle ~ \left. ~ + \frac { 3 6 } { \epsilon ^ { 2 } } - \frac { 1 2 } { \epsilon } + 4 \right] + \mathcal { O } ( \epsilon ) ~ . } } \end{array}
+$$
+
+# Three-particle channel
+
+There are two contributions to the two-loop cross section in the three-particle channel:
+
+$$
+\frac { 1 } { g ^ { 2 } } \biggl [ \int \mathrm { d } \mathrm { P S } _ { 3 } \tilde { \mathcal { M } } _ { K , 3 } ^ { ( 1 ) } + \int \mathrm { d } \mathrm { P S } _ { 3 } \mathcal { M } _ { \mathcal { Z } ^ { ( 1 ) } K , 3 } ^ { ( 1 ) } \biggr ] \ .
+$$
+
+The contribution involving the bare form factor is determined from the diagrams of figure 14b. The resulting expression reads
+
+$$
+\begin{array} { l } { \displaystyle \mathcal { M } _ { K , 3 } ^ { ( 1 ) } = \frac { 1 } { 3 ! } \sum _ { a _ { i } } \int \prod _ { i = 1 } ^ { 3 } \mathrm { d } ^ { 4 } \boldsymbol { \eta } _ { i } \sum _ { \ell = 0 } ^ { 1 } \left[ \hat { \mathcal { F } } _ { K , 3 } ^ { ( \ell ) , \mathrm { M H V } } \hat { \mathcal { F } } _ { K , 3 } ^ { * ( 1 - \ell ) , \mathrm { N M H V } } + \hat { \mathcal { F } } _ { K , 3 } ^ { ( \ell ) , \mathrm { N M H V } } \hat { \mathcal { F } } _ { K , 3 } ^ { * ( 1 - \ell ) , \mathrm { M H V } } \right] } \\ { \displaystyle \quad = 6 \mathcal { M } _ { K , 3 } ^ { ( 0 ) } \left[ 2 \Re \Big ( f _ { K , ( \phi , \phi , g ) } ^ { ( 1 ) } \Big ) \frac { s _ { 1 2 } ^ { 2 } } { ( q ^ { 2 } ) ^ { 2 } } + 2 \Re \Big ( f _ { K , ( \psi , \psi , \phi ) } ^ { ( 1 ) } \Big ) \frac { s _ { 1 3 } s _ { 2 3 } } { ( q ^ { 2 } ) ^ { 2 } } \right] . } \end{array}
+$$
+
+In the second line, we have not indicated the MHV degree, since the loop correction is the same for the MHV and the NMHV form factor. This allows us to use the abbreviation $f _ { \mathcal { K } , 3 } ^ { ( 1 ) } = f _ { \mathcal { K } , 3 } ^ { ( 1 ) , \mathrm { M H V } } = f _ { \mathcal { K } , 3 } ^ { ( 1 ) , \mathrm { N M H V } }$ f(),NMHV foranyfixed three-particlefinal state.Moreover,weve ab$f _ { \mathcal { K } , ( \phi , \phi , g ) } ^ { ( 1 ) } = f _ { \mathcal { K } } ^ { ( 1 ) } ( 1 _ { \phi _ { 1 2 } } , 2 _ { \phi _ { 3 4 } } , 3 _ { g _ { + } } )$ and f(1） $f _ { \mathcal { K } , ( \psi , \psi , \phi ) } ^ { ( 1 ) } = f _ { \mathcal { K } } ^ { ( 1 ) } ( 1 _ { \psi _ { 1 } } , 2 _ { \psi _ { 2 } } , 3 _ { \phi _ { 3 4 } } )$ . Since the one-loop corrections for different external states differ from each other, as given in (4.7)，we need to treat the contribution of these twoforfactosseparatelyeacto $\frac { s _ { 1 2 } ^ { 2 } } { ( q ^ { 2 } ) ^ { 2 } }$ and $\begin{array} { c } { { \frac { s _ { 1 3 } s _ { 2 3 } } { ( q ^ { 2 } ) ^ { 2 } } } } \end{array}$ stem from the squares of the corresponding tree-level form factors divided by the tre-level matrix element M(3
+
+![](images/5646a946c9e07ac0155bd6a9e3d7828e0d79d29384b3b63385b093d5ae79cd7c.jpg)  
+Figure 16: The contribution from the one-loop renormalization constant to the threeparticle cross section.
+
+After subtracting the BPS part,we find
+
+$$
+\tilde { \mathcal { M } } _ { K , 3 } ^ { ( 1 ) } = 6 \mathcal { M } _ { K , 3 } ^ { ( 0 ) } \left[ 2 \Re \Big ( \tilde { f } _ { K , ( \phi , \phi , g ) } ^ { ( 1 ) } \Big ) \frac { s _ { 1 2 } ^ { 2 } } { ( q ^ { 2 } ) ^ { 2 } } + 2 \Re \Big ( \tilde { f } _ { K , ( \psi , \psi , \phi ) } ^ { ( 1 ) } \Big ) \frac { s _ { 1 3 } s _ { 2 3 } } { ( q ^ { 2 } ) ^ { 2 } } \right] .
+$$
+
+Inserting the explicit results (4.7) and performing the three-particle phase space integration (E.3),we find that the contribution to the cross section is given by
+
+$$
+{ \tilde { \sigma } } _ { K , 3 } ^ { ( 2 ) } = \sigma _ { K } ^ { ( 0 ) } \left( \frac { \mu ^ { 2 } } { q ^ { 2 } } \right) ^ { 2 \epsilon } \bigg [ - \frac { 4 8 } { \epsilon ^ { 3 } } - \frac { 1 1 2 } { \epsilon ^ { 2 } } - \frac { 2 2 4 - 5 6 \pi ^ { 2 } } { \epsilon } - 5 4 4 + \frac { 6 3 2 } { 3 } \pi ^ { 2 } + 8 4 8 \zeta _ { 3 } \bigg ] + { \mathcal O } ( \epsilon ) .
+$$
+
+The one-loop renormalization constant (5.18) contributes as shown in figure 16. The squared matrix element reads
+
+$$
+\mathcal { M } _ { \mathcal { Z } ^ { ( 1 ) } \backslash \mathrm { K } , 3 } ^ { ( 1 ) } = 2 \mathcal { M } _ { \mathcal { K } , 3 } ^ { ( 0 ) } \mathcal { Z } _ { \mathcal { K } } ^ { ( 1 ) } \ .
+$$
+
+The corresponding contribution to the cross section can be computed as in (5.9),and it is given by
+
+$$
+\sigma _ { \mathcal { Z } ^ { ( 1 ) } K , 3 } ^ { ( 2 ) } = \frac { 1 } { g ^ { 2 } } \int \mathrm { d } \mathrm { P S } _ { 3 } { \mathcal M } _ { \mathcal { Z } ^ { ( 1 ) } K , 3 } ^ { ( 1 ) } = \sigma _ { K } ^ { ( 0 ) } \left( \frac { \mu ^ { 2 } } { q ^ { 2 } } \right) ^ { \epsilon } \left[ \frac { 4 8 } { \epsilon ^ { 3 } } - \frac { 2 8 \pi ^ { 2 } } { \epsilon } - 4 0 0 \zeta _ { 3 } \right] + \mathcal { O } ( \epsilon ) \ .
+$$
+
+Summing (5.23), (5.25), (5.29) and (5.31), we find
+
+$$
+\begin{array} { l } { { \displaystyle { \tilde { \sigma } } _ { \kappa , 2 } ^ { ( 2 ) } + \sigma _ { \mathcal { Z } ^ { ( 1 ) } K , 2 } ^ { ( 2 ) } + \tilde { \sigma } _ { K , 3 } ^ { ( 2 ) } + \sigma _ { \mathcal { Z } ^ { ( 1 ) } K , 3 } ^ { ( 2 ) } } } \\ { { \displaystyle \quad = \sigma _ { K } ^ { ( 0 ) } \left[ - \frac { 3 6 } { \epsilon ^ { 2 } } + \frac { 2 4 } { \epsilon } + 7 2 \log ^ { 2 } \frac { q ^ { 2 } } { \mu ^ { 2 } } - 3 8 4 \log \frac { q ^ { 2 } } { \mu ^ { 2 } } + 5 0 8 + 7 2 \pi ^ { 2 } + 3 3 6 \zeta _ { 3 } \right] + { \mathcal O } ( \epsilon ) \ . } } \end{array}
+$$
+
+Since the one-loop UV subdivergences in the bare contributions are canceled by the second and fourth terms,all divergences in the above result originate from the two-loop overall UV divergence.38
+
+# Two-loop renormalization constant
+
+The two-loop overall UV divergence has to be canceled by the third contribution of (5.20), which involves the two-loop renormalization constant. In analogy to (5.17), this contribution reads
+
+$$
+\sigma _ { \mathcal Z ^ { ( 2 ) } \ K } ^ { ( 2 ) } = 2 \sigma _ { \ K } ^ { ( 0 ) } \mathcal Z _ { \ K } ^ { ( 2 ) } \ .
+$$
+
+Requiring the sum of (5.32) and (5.33) to be finite, we immediately find
+
+$$
+\mathcal { Z } _ { K } ^ { ( 2 ) } = \frac { 1 8 } { \epsilon ^ { 2 } } - \frac { 1 2 } { \epsilon } ~ .
+$$
+
+Comparing this with the expansion of (2.3) in terms of the anomalous dimension to twoloop order yields the known one- and two-loop Konishi anomalous dimension first obtained in [45, 46]:
+
+$$
+\gamma _ { \kappa } ^ { ( 1 ) } = 1 2 \ , \qquad \gamma _ { \kappa } ^ { ( 2 ) } = - 4 8 \ .
+$$
+
+# Final result
+
+Summing(5.33) and (5.32) yields the renormalized two-loop cross section
+
+$$
+\sigma _ { K , { \mathrm R } } ^ { ( 2 ) } = \sigma _ { K } ^ { ( 0 ) } \left[ 7 2 \log ^ { 2 } \frac { q ^ { 2 } } { \mu ^ { 2 } } - 3 8 4 \log \frac { q ^ { 2 } } { \mu ^ { 2 } } + 5 0 8 + 7 2 \pi ^ { 2 } + 3 3 6 \zeta _ { 3 } \right] + \mathcal { O } ( \epsilon ) ~ .
+$$
+
+Finally, we compute the second order term in the expansion of (2.15） and obtain
+
+$$
+\left[ \log \left( \frac { \sigma _ { K , \mathrm { R } } } { \sigma _ { K } ^ { ( 0 ) } } \right) \right] ^ { ( 2 ) } = \frac { \sigma _ { K , \mathrm { R } } ^ { ( 2 ) } } { \sigma _ { K } ^ { ( 0 ) } } - \frac { 1 } { 2 } \left( \frac { \sigma _ { K , \mathrm { R } } ^ { ( 1 ) } } { \sigma _ { K } ^ { ( 0 ) } } \right) ^ { 2 } = - 4 8 \log \frac { q ^ { 2 } } { \mu ^ { 2 } } + 1 1 6 + 7 2 \pi ^ { 2 } + 3 3 6 \zeta _ { 3 } + \mathcal { O } ( \epsilon ) .
+$$
+
+We find that the coefficient of $\log { \frac { q ^ { 2 } } { \mu ^ { 2 } } }$ gives the correct two-loop anomalous dimension，as expected from (2.15).
+
+Including also the one-loop result (5.19), the logarithm of the normalized Konishi cross section is given by
+
+$$
+\log \left( \frac { \sigma _ { K , \mathrm { R } } } { \sigma _ { K } ^ { ( 0 ) } } \right) = g ^ { 2 } \left( 1 2 \log \frac { q ^ { 2 } } { \mu ^ { 2 } } - 2 8 \right) + g ^ { 4 } \left( - 4 8 \log \frac { q ^ { 2 } } { \mu ^ { 2 } } + 1 1 6 + 7 2 \pi ^ { 2 } + 3 3 6 \zeta _ { 3 } \right) + \mathcal { O } ( g ^ { 6 } , \epsilon )
+$$
+
+The finite terms that are independent of $\log { \frac { q ^ { 2 } } { \mu ^ { 2 } } }$ yield the constant $C$ , and by a comparison with (2.16) they determine the one- and two-loop terms of the constant $M$ in (2.4).In particular, this yields the full two-point function (2.4) up to two-loop order.
+
+# Some discussion
+
+The renormalized cross section can be computed in diferent ways. In the above presentation,we have treated the bare contribution and the terms involving the renormalization constant separately at the cross section level. One can also first perform the renormalization of the operators via form factors, as described in appendix F,and then compute the renormalized cross section directly from them. Furthermore, the terms involving the renormalization constant can be obtained directly by expanding relation (G.1),which gives the renormalized cross section in terms of the bare one and the renormalization constant. For example, the sum of (5.25) and (5.31) that involve the one-loop renormalization constant can be obtained as39
+
+$$
+\sigma _ { \mathscr Z ^ { ( 1 ) } K , 2 } ^ { ( 2 ) } + \sigma _ { \mathscr Z ^ { ( 1 ) } K , 3 } ^ { ( 2 ) } = 2 \mathscr Z _ { K } ^ { ( 1 ) } \sigma _ { K } ^ { ( 1 ) } + ( \mathscr Z _ { K } ^ { ( 1 ) } ) ^ { 2 } \sigma _ { K } ^ { ( 0 ) } \ .
+$$
+
+We have checked that these different ways give the same result.
+
+As discussed in appendix G, the above result depends on the renormalization scheme. One can define the new coupling at which the subtraction is performed as $g _ { \varrho } ~ = ~ g \mathrm { e } ^ { \varrho \epsilon }$ （204号 and then expand the expressions in terms of the original coupling . This scheme change can be implemented byreplacing $\mathcal { Z } _ { \mathcal { K } } ^ { ( \ell ) } \to \mathcal { Z } _ { \mathcal { K } } ^ { ( \ell ) } \mathrm { e } ^ { 2 \varrho \ell \epsilon }$ inalltheaoqoWithc modification in the above computation, one finds that the renormalized cross section (5.38) acquires a finite additive contribution $2 \gamma _ { K \varrho }$ ，demonstrating that $M$ in(2.4） is schemedependent. This agrees with the expectation from (G.7),since the scheme change can be understood as a change of the ’t Hooft mass $\mu \to \mu \mathrm { e } ^ { - \varrho }$ ：
+
+Finally, let us briefly comment on the FDH scheme we have chosen in the computation. In the FDH scheme, we set the number of external scalars to 6 and use polarization vectors in $D = 4$ dimensions for the form factors. As discussed in section 2,this corresponds to the prescription given in (2.19), where the sum of the degrees of freedom for the external legs is performed by the $\eta$ -integration based on the $S U ( 4 )$ representation.One can also perform a detailed analysis at the diagrammatic level, as for the form factors in section 4,which leads to an alternative prescription for obtaining the cross section in $D = 4 - 2 \epsilon$ （20 dimensions. We will not present the details in the paper,but we have checked that both prescriptions give identical results at least up to the two-loop order.
+
+# 6 Conclusion and outlook
+
+In this paper, we have studied form factors of non-protected operators in ${ \mathcal { N } } = 4$ SYM theory, specifically of the Konishi operator, using on-shell unitarity techniques. Importantly, we have found that this requires an extension of these techniques. We have obtained explicit new results of the three-point form factor at one-loop and two-point form factors up to two-loop order, given in (4.5)-(4.7). The application of on-shell methods to determine such form factors,which are partial of-shell quantities involving both, composite operators and on-shell states, provides a step to deepen our understanding of the connection between modern on-shell techniques and the off-shell world of correlation functions.
+
+Another important aspect of this paper is to provide a physical observable within $\mathcal { N } = 4$ SYM theory， given by a cross-section-type quantity: the inclusive decay rate of a state， described by a composite operator carrying timelike off-shell momentum $q$ ，into any final on-shell multi-particle state. We gave a formulation of how to compute this observable. Using the Konishi form factor results mentioned above, we performed an explicit computation of the total cross section up to two-loop order, given in (5.38). Via the optical theorem, this also yields the two-point function up to this order.
+
+The UV divergences appearing in the Konishi form factors together with the IR divergences require the renormalization of the operator. This is carried out explicitly in the computation of the total cross section in which the IR divergences cancel. We have reproduced the known Konishi anomalous dimension up to two-loop order from the renormalization constant and also identified itas the coeffcientof the $\log { \frac { q ^ { 2 } } { \mu ^ { 2 } } }$ term in the renormalized cross section (5.38).
+
+Since the Konishi operator is not protected by supersymmetry, interesting subtleties and new features appeared, which we now summarize.
+
+First,an important subtlety occurs in the unitarity-based computation of the Konishi form factors. The Konishi primary is a trace of all scalars. In order to preserve supersymmetry, the Konishi operator has to be continued to $D = 4 - 2 \epsilon$ dimensions,i.e. the number of scalar field flavors that is summed over has to be $N _ { \phi } = 1 0 - D$ .However，working with four-dimensional unitarity based on Nair's on-shell superspace, one can only directly compute the form factor for the different operator ${ { \ K } _ { 6 } }$ ，which in $D = 4 - 2 \epsilon$ dimensions has $N _ { \phi } = 6$ scalars rather than $N _ { \phi } = 6 + 2 \epsilon$ . In order to find the Konishi form factor, the results based on four-dimensional unitarity have to be modified when they are lifted to $D = 4 - 2 \epsilon$ dimensions where the occurring divergences are regularized. We provide a rigorous prescription (4.4) for this modification that yields the form factors of the Konishi operator.
+
+Second, the Konishi form factors contain some interesting features that are not present in other on-shell quantities studied in ${ \mathcal N } = 4$ SYM theory studied so far, such as scattering amplitudes or the BPS form factors as partial off-shell quantities. The bare Konishi form factor contains bubble integrals and bubble subintegrals, which are UV divergent. Moreover, the one-loop three-point result contains a rational term.40 In addition, the coeffcients of the individual integrals occurring in the form factor results involve spurious poles,which only disappear after multiplication with the integrals and summation over all contributions. Last but not least,the loop corrections of the Konishi form factors with different external states turn out to have quite different structures, even if they are in the same MHV sector. The emergence of these features that are familiar from QCD can be traced back to the fact that a non-protected operator has been inserted into the action, formally breaking its supersymmetry.
+
+Finally, let us briefly mention some further directions one can pursue following this work.
+
+First, it should be straightforward to generalize the computation of the one-loop Konishi form factors to the higher-point cases. It is also interesting to proceed to higher loop orders. In particular, using the known IR exponentiation property of the Sudakov form factor,the knowledge of the two-point Konishi form factor alone is sufficient to extract the Konishi anomalous dimension. We explain this in appendix F. Turning the logic around, we also give a prediction for the three-loop two-point Konishi form factor apart from finite terms there, only using the known three-loop anomalous dimension and the IR exponentiation in addition to our form factor results.
+
+Second, our detailed example of how to apply four-dimensional unitarity to compute the Konishi form factor by understanding an encountered subtlety and providing a solution is a solid stepping stone for further studies of other non-protected operators, based on generalizing the prescription we give in section 4. Combining our insights with those from the recent one-loop calculation in [33],it should be possible to compute the minimal form factors for general operators at two-loop order via on-shell methods. This would allow us to determine the complete two-loop dilatation operator of ${ \mathcal N } = 4$ SYM theory which yields all two-loop anomalous dimensions as eigenvalues. Besides the anomalous dimensions, the other important CFT data is given by the structure constants,which can be computed from three-point functions. It would be very interesting to use similar unitarity-based techniques to compute them.
+
+Furthermore, as given in [25,38-40], the so-called energy energy correlation function can be computed as a weighted cross section which is very similar to the total cross section studied in this paper. In [39, 40], different techniques not relying on cross sections have been used to evaluate them up to two-loop order. It would be interesting to obtain them also from direct cross section computations. The interpretation of the cross-section-type quantities at strong coupling via the AdS/CFT correspondence is also an open problem. In particular, it would be interesting to consider the phase-space integration with strong coupling form factors in the framework of string theory.
+
+Finally, as a cousin of ${ \mathcal N } = 4$ SYM, the so-called ABJM theory 86] has been intensively studied in recent years. In particular, the form factors for half-BPS operators have been determined in this theory as well [87-90]. It would be interesting to pursue a similar study as in this paper for the ABJM theory, especially for the form factors of non-protected operators.
+
+# Acknowledgments
+
+It is a great pleasure to thank Lance Dixon and Gregory Korchemsky for enlightening discussions and suggestions. We would also like to thank Zvi Bern，Andreas Brandhuber,Burkhard Eden, Valentina Forini, Sergey Frolov, Laura Koster, Brenda Penante, Jan Plefka,Radu Roiban, Matthias Staudacher, Gabriele Travaglini, Peter Uwer and Vitaly Velizhanin for helpful discussions. We are grateful to Camille Boucher-Veronneau,Lance Dixon and Jeffrey Pennington for sharing their unpublished notes. GY would also like to thank Andreas Brandhuber and Gabriele Travaglini for initial collaboration on the Konishi form factor. We thank the Marie Curie network GATIS (gatis.desy.eu) of the European Unions Seventh Framework Programme FP7/2007-2013/ under REA Grant Agreement No 317089 for support. DN's research is supported by the SFB 647 “Raum-Zeit-Materie. Analytische und Geometrische Strukturen”. MW dankt der Studienstiftung des deutschen Volkes fiir ein Promotionsforderstipendium. GY is supported by a DFG grant in the framework of the SFB 647 “Space-Time-Matter”,and he also thanks the KITPC/ITP-CAS in Beijing for hospitality during the workshop “Quantum Gravity, Black Holes and Strings”, where part of this work was done. The work of DN and MW was supported by the Marie Curie International Research Staff Exchange Network UNIFY (FP7-People-2010-IRSES under grant agreement number 269217)，which allowed them to visit Stony Brook University. Furthermore,DN and MW thank the Simons Center for Geometry and Physics and the C.N. Yang Institute for Theoretical Physics, Stony Brook, for warm hospitality during the final stage of this project.
+
+# A Fourier transformation of the two-point function
+
+In this appendix,we give our conventions for the Fourier transformation and for the transition from Euclidean to Minkowski signature.
+
+In Euclidean signature, the coordinate dependence of the two-point function has the following representation in terms of the momentum space integral:
+
+$$
+\frac { 1 } { ( x _ { \mathrm { E } } ^ { 2 } ) ^ { \Delta } } = 2 ^ { D - 2 \Delta } \pi ^ { \frac { D } { 2 } } \frac { \Gamma ( \frac { D } { 2 } - \Delta ) } { \Gamma ( \Delta ) } \int \frac { \mathrm { d } ^ { D } q _ { \mathrm { E } } } { ( 2 \pi ) ^ { D } } \frac { \mathrm { e } ^ { i q _ { \mathrm { E } } \cdot x _ { \mathrm { E } } } } { ( q _ { \mathrm { E } } ^ { 2 } ) ^ { \frac { D } { 2 } - \Delta } } ,
+$$
+
+where $\begin{array} { r } { q _ { \mathrm { E } } \cdot x _ { \mathrm { E } } = q _ { \mathrm { E } , 0 } x _ { \mathrm { E } , 0 } + \sum _ { i = 1 } ^ { D - 1 } q _ { i } x _ { i } } \end{array}$
+
+In Minkowski signature with a mostly-minus metric, the exponent in the momentum space integral is given by $- i q \cdot x$ ，and the integrand has poles at $q _ { 0 } = \pm | \vec { q } |$ .We want positive energies $q _ { 0 } > 0$ to propagate into the future $x _ { 0 } > 0$ . Hence, the pole at $q _ { 0 } = | \vec { q } |$ （20 has to be picked when for $x _ { 0 } > 0$ the integral over $q _ { 0 }$ is closed in the negative imaginary half plane such that the exponential factor vanishes for $q _ { 0 } \to - i \infty$ . This is guaranteed if we replace $q _ { \mathrm { E } } ^ { 2 }  - q ^ { 2 } - i 0$ in the denominator of the above expression. The position of the poles fixes the Wick-rotation to be counterclockwise in momentum space, i.e. $q _ { 0 } = i q _ { \mathrm { E } , 0 }$ ， and for $x _ { 0 } = - i x _ { \mathrm { E , 0 } }$ to be clockwise in configuration space. This leaves the exponential invariant, and it can be transformed to Minkowski signature by flipping the sign of the spatial momenta $q _ { i }$ . We hence find
+
+$$
+\frac { 1 } { ( - x ^ { 2 } + i 0 ) ^ { \Delta } } = ( - i ) 2 ^ { D - 2 \Delta } \pi ^ { \frac { D } { 2 } } \frac { \Gamma ( \frac { D } { 2 } - \Delta ) } { \Gamma ( \Delta ) } \int \frac { \mathrm { d } ^ { D } q } { ( 2 \pi ) ^ { D } } \frac { e ^ { - i q \cdot x } } { ( - q ^ { 2 } - i 0 ) ^ { \frac { D } { 2 } - \Delta } } \ ,
+$$
+
+where $\begin{array} { r } { q \cdot x = q _ { 0 } x _ { 0 } - \sum _ { i = 1 } ^ { D - 1 } q _ { i } x _ { i } } \end{array}$
+
+# B Feynman integrals
+
+In this appendix, we present all integrals that enter the form factor results in section 3,as well as our conventions.Moreover, we show how the cut integrals are lifted to fullintegrals.
+
+As a regularization procedure, the four-dimensional $\mathcal { N } = 4$ SYM theory can be continued to $D = 4 - 2 \epsilon$ dimensions. Both IR and UV divergences are then captured as poles in $\epsilon$ . Moreover, the Yang-Mils coupling constant $g _ { \mathrm { Y M } }$ has to be replaced by $g _ { \mathrm { Y M } } \mu ^ { \epsilon }$ ，where （20 $\mu$ is the 't Hooft mass which is introduced in order to keep $g _ { \mathrm { Y M } }$ dimensionless [91]. Hence, the combination $g \mu ^ { \epsilon }$ with $g$ given in (1.5） occurs as the effective loop expansion parameter of the perturbation series in the large- $N _ { \mathrm { c } }$ expansion.
+
+From Feynman diagrams, the following combination of the coupling constant, the 't Hooft mass $\mu$ and the loop integral occurs at $\ell$ -loop order
+
+$$
+( g _ { \mathrm { Y M } } \mu ^ { \epsilon } ) ^ { 2 \ell } N _ { \mathrm { c } } ^ { \ell } ( - i ) ^ { \ell } \int \frac { \mathrm { d } ^ { D } l _ { 1 } } { ( 2 \pi ) ^ { D } } \cdot \cdot \cdot \frac { \mathrm { d } ^ { D } l _ { \ell } } { ( 2 \pi ) ^ { D } } \frac { f ( l _ { 1 } , \dots , l _ { \ell } ) } { \prod _ { j } D _ { j } } = g ^ { 2 \ell } I ^ { ( \ell ) } [ f ( l _ { 1 } , \dots , l _ { \ell } ) ] ,
+$$
+
+where the integral $I ^ { ( \ell ) }$ is of the following form:
+
+$$
+I ^ { ( \ell ) } [ f ( l _ { 1 } , \dots , l _ { \ell } ) ] = ( \mathrm { e } ^ { \gamma _ { \mathrm { E } } } \mu ^ { 2 } ) ^ { \ell \epsilon } \int \frac { \mathrm { d } ^ { D } l _ { 1 } } { i \pi ^ { \frac D 2 } } \cdot \cdot \cdot \frac { \mathrm { d } ^ { D } l _ { \ell } } { i \pi ^ { \frac D 2 } } \frac { f ( l _ { 1 } , \dots , l _ { \ell } ) } { \prod _ { j } D _ { j } } \ .
+$$
+
+In these formulae, the $D _ { j }$ 's are the propagators, i.e. $D _ { j } = k _ { j } ^ { 2 } + i 0$ for $k _ { j }$ being the combination of external momenta and loop momenta that flows through the propagator.
+
+# Lifting the cut integral
+
+Let us explain our procedure and conventions for lifting the cut integrals to the fullintegrals Consider the triangle term in (3.15) as an explicit example. We have
+
+$$
+g _ { \mathrm { Y M } } ^ { 2 } N _ { \mathrm { c } } \int \mathrm { d } \mathrm { P S } _ { 2 , \{ l \} } \frac { s _ { 1 2 } } { ( l _ { 1 } + p _ { 1 } ) ^ { 2 } } = g _ { \mathrm { Y M } } ^ { 2 } N _ { \mathrm { c } } s _ { 1 2 } = \overset { l _ { 1 } } { \underset { l _ { 2 } } { \overset { l _ { 1 } } { \sum } } } \quad \underset { p _ { 2 } } { \overset { p _ { 1 } } { \longrightarrow } } \quad \overset { - i g ^ { 2 } s _ { 1 2 } } { \longrightarrow } \quad \overset { - \overset { p _ { 1 } } { \bigcup } } \underset { p _ { 2 } } { \overset { p _ { 2 } } { \longrightarrow } } ,
+$$
+
+where the phase-space integration measure dPS2 $\{ l \}$ is defined according to (2.20） with measure factor Tliftthtintegalttflintegalotsete performed.
+
+One is to replace the cut propagator as
+
+$$
+2 \pi \delta _ { + } ( l _ { j } ^ { 2 } ) \longrightarrow \frac { i } { l _ { j } ^ { 2 } } .
+$$
+
+The other is to change the measure factor and coupling constant as in (B.1), such that the integrals of uncut graphs are defined in terms of (B.2). This prescription is employed throughout section 3.
+
+# List of integrals
+
+In order to present the expressions for the required integrals in a compact form, we define $q = \textstyle \sum _ { i } p _ { i }$ and introduce the factor
+
+$$
+c _ { \Gamma } = \mathrm { e } ^ { \gamma _ { \mathrm { E } } \epsilon } \ \frac { \Gamma ( 1 - \epsilon ) ^ { 2 } \Gamma ( 1 + \epsilon ) } { \Gamma ( 1 - 2 \epsilon ) } \ .
+$$
+
+Moreover, in the results for the integrals, all $( - q ^ { 2 } ) ^ { \ell \epsilon }$ should be understood as $( - q ^ { 2 } - i 0 ) ^ { \ell \epsilon }$ and similarly for $( - s _ { i j } ) ^ { \ell \epsilon }$ ：
+
+In the conventions introduced in (B.2)， the one-loop integrals that are required to compute the one-loop form factors read
+
+$$
+\begin{array} { l } { { - { \displaystyle C } \sum _ { p _ { 2 } = } ^ { p _ { 1 } } = \left( \mathrm { e } ^ { \Re } \mu ^ { 2 } \right) ^ { \mathrm { { c } } } \displaystyle \int \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac { D } { 2 } } } \frac { 1 } { l ^ { 2 } ( l + q ) ^ { 2 } } = \frac { c \Gamma } { \epsilon ( 1 - 2 \epsilon ) } \Bigl ( \frac { - q ^ { 2 } } { \mu ^ { 2 } } \Bigr ) ^ { - \epsilon } \ , } } \\ { { \displaystyle - \sum _ { p _ { 2 } = } ^ { p _ { 1 } } = \left( \mathrm { e } ^ { \Re } \mu ^ { 2 } \right) ^ { \mathrm { { c } } } \displaystyle \int \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac { D } { 2 } } } \frac { 1 } { ( l + p _ { 1 } ) ^ { 2 l ^ { 2 } } ( l - p _ { 2 } ) ^ { 2 } } = - \frac { c \Gamma } { \epsilon ^ { 2 } } \frac { 1 } { ( - q ^ { 2 } ) } \Bigl ( \frac { - q ^ { 2 } } { \mu ^ { 2 } } \Bigr ) ^ { - \epsilon } \ , } } \\ { { \displaystyle - \sum _ { p _ { 3 } = } ^ { p _ { 2 } } = \left( \mathrm { e } ^ { \Im } \mu ^ { 2 } \right) ^ { \epsilon } \displaystyle \int \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac { D } { 2 } } } \frac { 1 } { ( l + p _ { 1 } + p _ { 2 } ) ^ { 2 } l ^ { 2 } ( l - p _ { 3 } ) ^ { 2 } } } } \\ { { \displaystyle \quad \quad = - \frac { c \Gamma } { \epsilon ^ { 2 } } \frac { 1 } { s _ { 1 3 } + s _ { 2 3 } } \Bigl [ \Bigl ( \frac { - s _ { 1 2 } } { \mu ^ { 2 } } \Bigr ) ^ { - \epsilon } - \Bigl ( \frac { - q ^ { 2 } } { \mu ^ { 2 } } \Bigr ) ^ { - \epsilon } \Bigr ] \ , } } \end{array}
+$$
+
+$$
+\begin{array} { r l r } {  { \sum _ { p _ { 1 } } ^ { p _ { 1 } } = ( \mathrm { e } ^ { \gamma \mathrm { g } } \mu ^ { 2 } ) ^ { \epsilon } \int _ { i \pi ^ { \frac { p } { 2 } } } ^ { \mathrm { d } D } \overline { { l ^ { 2 } ( l ^ { 2 } + p _ { 1 } ) ^ { 2 } ( l + p _ { 1 } + p _ { 2 } ) ^ { 2 } ( l - q ) ^ { 2 } } } } } \\ & { } & { = \frac { c _ { \mathrm { F } } } { \epsilon ^ { 2 } } \frac { 2 } { s _ { 1 2 } s _ { 2 3 } } \Big [ - \Big ( \frac { - q ^ { 2 } } { \mu ^ { 2 } } \Big ) ^ { - \epsilon } { _ 2 F _ { 1 } } \big ( 1 , - \epsilon , 1 - \epsilon , - \frac { q ^ { 2 } s _ { 1 3 } } { s _ { 1 2 } s _ { 2 3 } } \big ) } \\ & { } & { + \Big ( \frac { - s _ { 1 2 } } { \mu ^ { 2 } } \Big ) ^ { - \epsilon } { _ 2 F _ { 1 } } \big ( 1 , - \epsilon , 1 - \epsilon , - \frac { s _ { 1 3 } } { s _ { 2 3 } } \big ) } \\ & { } & { + \Big ( \frac { - s _ { 2 3 } } { \mu ^ { 2 } } \Big ) ^ { - \epsilon } { _ 2 F _ { 1 } } \big ( 1 , - \epsilon , 1 - \epsilon , - \frac { s _ { 1 3 } } { s _ { 1 2 } } \big ) \Big ] \ , } \end{array}
+$$
+
+where ${ } _ { 2 } F _ { 1 }$ denote the Gaussian hypergeometric function. The results (B.6)-(B.9) can be found for example in [92-94].
+
+Furthermore, we need the following integral, which evaluates to a rational term [92]:
+
+$$
+\begin{array} { l } { { \displaystyle I _ { 3 } ^ { D } [ l _ { \epsilon } ^ { 2 } ] = ( \mathrm { e } ^ { \gamma _ { \mathrm { E } } } \mu ^ { 2 } ) ^ { \epsilon } \int \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac D 2 } } \frac { l _ { \epsilon } ^ { 2 } } { ( l + p _ { 1 } + p _ { 2 } ) ^ { 2 } l ^ { 2 } ( l - p _ { 3 } ) ^ { 2 } } } } \\ { { = - \displaystyle \frac { c \Gamma } { ( 1 - 2 \epsilon ) ( 2 - 2 \epsilon ) } \frac { 1 } { s _ { 1 3 } + s _ { 2 3 } } \Big [ s _ { 1 2 } \Big ( \frac { - s _ { 1 2 } } { \mu ^ { 2 } } \Big ) ^ { - \epsilon } - q ^ { 2 } \Big ( \frac { - q ^ { 2 } } { \mu ^ { 2 } } \Big ) ^ { - \epsilon } \Big ] ~ , } } \end{array}
+$$
+
+where the momentum $l _ { \epsilon }$ in the $2 \epsilon$ dimensions is introduced in (C.1)
+
+To compute the two-loop two-point form factor,we need the following two-loop integrals.Using IBP identities as e.g. implemented in LiteRed [95], they can be reduced to master integrals as41
+
+$$
+\bigcirc X _ { p _ { 2 } } ^ { p _ { 1 } } = \frac { 2 - 3 \epsilon } { \epsilon ( - q ^ { 2 } ) } = \bigcirc X _ { p _ { 2 } } ^ { p _ { 1 } } ,
+$$
+
+$$
+\begin{array} { c } { { s _ { 1 l } s _ { 2 l } = \displaystyle { \mathop { = } ^ { l } \sum _ { p _ { 2 } } ^ { p _ { 1 } } = \frac { ( 1 - 2 \epsilon ) ( 2 - 3 \epsilon ) ( 3 - 5 \epsilon ) } { \epsilon ^ { 2 } ( 1 - 4 \epsilon ) ( - q ^ { 2 } ) } = \sum _ { p _ { 2 } } ^ { p _ { 1 } } } \phantom { \frac { ( 1 - 2 \epsilon ) ^ { 2 } } { ( 1 - 4 \epsilon ) ^ { 2 } } = } ( } } \\ { { - \displaystyle { \frac { ( 1 + \epsilon ) ( 1 - 2 \epsilon ) } { \epsilon ( 1 - 4 \epsilon ) } = - \sum _ { p _ { 2 } } ^ { p _ { 1 } } - \frac { \epsilon ( - q ^ { 2 } ) ^ { 2 } } { ( 1 - 4 \epsilon ) } = - \sum _ { p _ { 2 } } ^ { p _ { 1 } } } , } } \end{array}
+$$
+
+where the master integrals are [96]
+
+$$
+\begin{array} { r l } & { \begin{array} { r l } & { \langle \widetilde { \mathscr { A } } _ { p } ^ { x } \rangle = e ^ { 2 \pi \nu } \frac { \Gamma ( 1 - e ^ { \nu } ) ^ { \alpha } \Gamma ( 1 - 2 e ^ { \alpha } ) } { 2 \pi ^ { 2 } ( 1 - 2 e ) \Gamma ( 3 - 3 e ) } ( - \frac { \sigma ^ { 2 } } { \mu e ^ { 2 } } ) ^ { - 2 } , } \\ & { - \sqrt { 2 } _ { p } - e ^ { \nu \alpha } \frac { \Gamma ( 1 - e ^ { \nu } ) ^ { 2 } \Gamma ( 1 + 2 e ) \Gamma ( 1 - 2 e ) \Gamma ( 1 - 2 e ) } { 2 \pi ^ { 2 } ( 1 - 2 e ) \Gamma ( 2 - 3 e ) } \Big ( - \frac { \sigma ^ { 2 } } { \mu e ^ { 2 } } \Big ) ^ { \alpha } , } \end{array} } \\ &  \begin{array} { r l } & { \longrightarrow \begin{array} { r l } & { e ^ { 2 } } \\ & { 1 - e ^ { 2 \pi \nu } \frac { \Gamma ( 1 - e ^ { \alpha } ) ^ { 2 } } { ( - \alpha ) ^ { 2 } } \Big ( \frac { - \sigma ^ { 2 } } { \mu e ^ { 2 } } \Big ) ^ { - 2 } \Big [ \frac { \Gamma ( 1 - e ^ { \alpha } ) ^ { \alpha } \Gamma ( 1 + 2 e ) \Gamma ( 1 - e ^ { \alpha } ) } { 4 \pi ( 1 - 4 e ) \Gamma ( 1 - 4 e ) \Gamma ( 1 - 4 e ) } } \\ & { + \frac { \Gamma ( 1 - e ^ { \alpha } ) ^ { \alpha } \Gamma ( 1 - e ^ { \alpha } ) } { 4 \pi ( 1 + 2 e ) \Gamma ( 1 - 4 e ) \Gamma ( 1 - 4 e ) \Gamma ( 1 - 4 e ) \Gamma ( 1 + 2 e ) \Gamma ( 1 - 4 e ) } } \end{array} } \\ &  \begin{array} { r l } & { + \frac { \Gamma ( 1 - e ^ { \alpha } ) \Gamma ( 1 - 2 e ^ { \alpha } ) \Gamma ( 1 - 2 e ^ { \alpha } ) } { 2 \pi ^ { 2 } ( 1 - 2 e ) \Gamma ( 1 - 4 e ) } \beta _ { 0 } ( 1 , 1 , 1 + 2 e ^ { \alpha } ) ^ { - 2 } , } \\ &  + \frac { \Gamma ( 1 - e ^ { \alpha } ) ^ { \alpha } \Gamma ( 1 - 2 e ^ { \alpha } ) \Gamma ( 1 - 2 e ^ { \alpha } ) \Gamma ( 1 - 2 e ^ { \alpha } ) \mathcal { B } ( e ^ { 2 } , e ^ { - 2 } - e , 1 ) } { 2 \pi ^ { 2 } ( 1 - 4 e ) \Gamma ( 1 - 4 e ^ { \alpha } ) } \\ &  + \frac { \Gamma ( 1 - e ^ { \alpha } ) ^ { \alpha } \Gamma ( 1 - 2 e ^ { \alpha } ) \Gamma ( 1 - 2 e ^ { \alpha } ) \mathcal { B } ( e ^ { 2 } , e ^ { - 2 } , e , 1 - 2 e , 1 ) }  2 \pi ^ { 2 } ( 1 - 4 e ) \Gamma ( 1 - 4 e ^  \alpha  \end{array} \end{array} \end{array}
+$$
+
+and the one-loop bubble integral is given in (B.6).
+
+# C Passarino-Veltman reductions
+
+In this appendix, we summarize some results on Passarino-Veltman (PV) reduction [97], which we need in section 3.
+
+We use the four-dimensional-helicity (FDH） scheme of [76,77], and decompose the $D$ -dimensional loop momentum $l$ into a four-dimensional part $l _ { ( 4 ) }$ and a $( D - 4 ) = - 2 \epsilon$ dimensional part $l _ { \epsilon }$ ，where we assume that $\epsilon < 0$ . This yields the following decomposition of the scalar product:
+
+$$
+\eta _ { \mu \nu } l ^ { \mu } l ^ { \nu } = l _ { ( 4 ) } ^ { 2 } = l ^ { 2 } + l _ { \epsilon } ^ { 2 } ~ ,
+$$
+
+where $\eta _ { \mu \nu }$ is the four-dimensional metric.42 Arbitrary four-dimensional external reference momenta are denoted as $k _ { i }$
+
+Bubble.The $D$ -dimensional bubble integral with external momentum $q$ defined in (B.6) may include a non-trivial polynomial $f ( l )$ of the loop momentum $l$ and the reference momenta $k _ { i }$ in its numerator. Denoting this integral as $I _ { 2 } ^ { D } [ f ( l ) ] ( q ^ { 2 } )$ ，we find the following relations for the reduction of tensor integrals to scalar integrals:
+
+$$
+\begin{array} { c } { { I _ { 2 } ^ { D } [ ( l \cdot k _ { 1 } ) ] ( q ^ { 2 } ) = - \displaystyle \frac { ( q \cdot k _ { 1 } ) } { 2 } I _ { 2 } ^ { D } ( q ^ { 2 } ) ~ , } } \\ { { I _ { 2 } ^ { D } [ ( l \cdot k _ { 1 } ) ( l \cdot k _ { 2 } ) ] ( q ^ { 2 } ) = \displaystyle \left( \frac { ( q \cdot k _ { 1 } ) ( q \cdot k _ { 2 } ) } { 3 } - \frac { q ^ { 2 } ( k _ { 1 } \cdot k _ { 2 } ) } { 1 2 } \right) I _ { 2 } ^ { D } ( q ^ { 2 } ) } } \\ { { - \displaystyle \left( \frac { ( q \cdot k _ { 1 } ) ( q \cdot k _ { 2 } ) } { 3 q ^ { 2 } } - \frac { ( k _ { 1 } \cdot k _ { 2 } ) } { 3 } \right) I _ { 2 } ^ { D } [ l _ { \epsilon } ^ { 2 } ] ( q ^ { 2 } ) ~ . } } \end{array}
+$$
+
+Triangle. Next，we consider the $D$ -dimensional triangle integral with numerator $f ( l )$ ， which depends on two arbitrary momenta $q _ { 1 }$ and $q _ { 2 }$ . It is defined as
+
+$$
+I _ { 3 } ^ { D } [ f ( l ) ] ( q _ { 1 } , q _ { 2 } ) = ( \mathrm { e } ^ { \gamma _ { \mathrm { E } } } \mu ^ { 2 } ) ^ { \epsilon } \int \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac D 2 } } \frac { f ( l ) } { l ^ { 2 } ( l + q _ { 1 } ) ^ { 2 } ( l + q _ { 2 } ) ^ { 2 } } .
+$$
+
+We find
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { I _ { 3 } ^ { D } [ ( l \cdot k _ { 1 } ) ] ( q _ { 1 } , q _ { 2 } ) = \displaystyle { \sum _ { i = 0 } ^ { 2 } \frac { a _ { i } } { 2 } I _ { 2 } ^ { D , ( i ) } } - \sum _ { i = 1 } ^ { 2 } \frac { a _ { i } q _ { i } ^ { 2 } } { 2 } I _ { 3 } ^ { D } ~ , } } \\ { { } } & { { } } & { { \displaystyle I _ { 3 } ^ { D } [ ( l \cdot k _ { 1 } ) ( l \cdot k _ { 2 } ) ] ( q _ { 1 } , q _ { 2 } ) = \sum _ { i = 0 } ^ { 2 } C _ { 2 } ^ { ( i ) } I _ { 2 } ^ { D , ( i ) } + C _ { 3 , 0 } I _ { 3 } ^ { D } + C _ { 3 , \epsilon } I _ { 3 } ^ { D } [ l _ { \epsilon } ^ { 2 } ] ( q _ { 1 } , q _ { 2 } ) ~ , } } \end{array}
+$$
+
+where $I _ { 2 } ^ { D , ( 0 ) } = I _ { 2 } ^ { D } ( ( q _ { 1 } - q _ { 2 } ) ^ { 2 } )$ ， $I _ { 2 } ^ { D , ( 1 ) } = I _ { 2 } ^ { D } ( q _ { 2 } ^ { 2 } )$ ， $I _ { 2 } ^ { D , ( 2 ) } = I _ { 2 } ^ { D } ( q _ { 1 } ^ { 2 } )$
+
+$$
+\begin{array} { l } { { { \displaystyle C _ { 2 } ^ { ( n ) } = - \frac { 1 } { 4 } \biggl ( \sum _ { i = 1 } ^ { 2 } a _ { 1 i } q _ { i } ^ { 2 } \biggr ) a _ { 2 1 } - \frac { 1 } { 4 } a _ { 1 1 } ( q _ { 2 } \cdot k _ { 2 } ) + \frac { 1 } { 8 } \bigl [ ( k _ { 1 } \cdot k _ { 2 } ) - b \bigr ] q _ { 2 , \ldots } ^ { 2 } \biggl ( A ^ { - 1 } \bigr ) a _ { 1 } } , } } \\ { { { \displaystyle C _ { 2 } ^ { ( 2 ) } = - \frac { 1 } { 4 } \biggl ( \sum _ { i = 1 } ^ { 2 } a _ { 1 i } q _ { i } ^ { 4 } \biggr ) a _ { 2 2 } - \frac { 1 } { 4 } a _ { 1 2 } ( q _ { 1 } \cdot k _ { 2 } ) + \frac { 1 } { 8 } \bigl [ ( k _ { 1 } \cdot k _ { 2 } ) - b \bigr ] q _ { 1 , \ldots } ^ { 2 } \biggl ( A ^ { - 1 } \bigr ) _ { 1 i } } , } } \\ { { { \displaystyle C _ { 2 } ^ { ( n ) } = - \sum _ { i = 1 } ^ { 2 } C _ { 2 } ^ { ( i ) } + \frac { 1 } { 4 } \bigl ( k _ { 1 } \cdot k _ { 2 } \bigr ) } , } } \\ { { { \displaystyle C _ { 3 , 0 } = \frac { 1 } { 4 } \biggl ( \sum _ { i = 1 } ^ { 2 } a _ { 1 i } q _ { i } ^ { 2 } \biggr ) \biggl ( \sum _ { i = 1 } ^ { 2 } a _ { 2 j } q _ { i } ^ { 2 } \biggr ) + \frac { 1 } { 8 } \bigl [ b - ( k _ { 1 } \cdot k _ { 2 } ) \bigr ] q _ { 1 } ^ { 2 } q _ { 2 } ^ { 2 } \tilde { A } _ { 2 } } , } } \\ { { { \displaystyle C _ { 3 , * } = \frac { ( k _ { 1 } \cdot k _ { 2 } ) - b } { 2 } - b } } } \end{array}
+$$
+
+with
+
+$$
+\begin{array} { l } { { \displaystyle a _ { i j } = \sum _ { m = 1 } ^ { 2 } ( k _ { i } \cdot q _ { m } ) ( A ^ { - 1 } ) _ { m j } ~ , ~ A _ { i j } = q _ { i } \cdot q _ { j } ~ , ~ i , j = 1 , 2 ~ , } } \\ { { } } \\ { { \displaystyle a _ { 0 } = - \sum _ { i = 1 } ^ { 2 } a _ { i } ~ , ~ a _ { i } = a _ { 1 i } ~ , } } \\ { { } } \\ { { \displaystyle b = \sum _ { i , j = 1 } ^ { 2 } ( k _ { 1 } \cdot q _ { i } ) ( A ^ { - 1 } ) _ { i j } ( q _ { j } \cdot k _ { 2 } ) ~ , ~ \tilde { A } = \sum _ { i , j = 1 } ^ { 2 } ( A ^ { - 1 } ) _ { i j } ~ . } } \end{array}
+$$
+
+The integrals involving $l _ { \epsilon } ^ { 2 }$ give rational terms [92]. The rational term for the rank-two tensor triangle integral is given in (B.10).
+
+# D Checks of the three-point one-loop Konishi form factor
+
+# Rational term in $F _ { \mathcal { K } } ^ { ( 1 ) } ( \mathbf { 1 } _ { \phi _ { 1 2 } } , \mathbf { 2 } _ { \phi _ { 3 4 } } , \mathbf { 3 } _ { g ^ { + } } )$
+
+An interesting feature of the Konishi form factor is the occurrence of rational terms at one loop.
+
+$$
+\ll \lesssim \lesssim \lesssim \lesssim \lesssim \lesssim \ll \lesssim \lesssim \ll \lesssim \sqrt [ 4 ] { \frac { p ^ { 9 } } { p _ { 2 } } } = \frac { - i N _ { \oplus } g _ { \mathrm { v M } } ^ { 3 } } { 2 \sqrt { 2 } s _ { 1 2 } } \int \frac { \mathrm { d } ^ { D } l } { ( 2 \pi ) ^ { D } } \frac { ( 2 l + p _ { 1 } + p _ { 2 } ) \cdot ( p _ { 1 } - p _ { 2 } ) ( 2 l - p _ { 3 } ) \cdot \epsilon _ { 3 } ^ { + } } { l ^ { 2 } ( l + p _ { 1 } + p _ { 2 } ) ^ { 2 } ( l - p _ { 3 } ) ^ { 2 } }
+$$
+
+For the form factor $F _ { \mathcal { K } } ^ { ( 1 ) } ( 1 _ { \phi _ { 1 2 } } , 2 _ { \phi _ { 3 4 } } , 3 _ { g ^ { + } } )$ , denoted as FK,(Φ,g),tsrponds tthe triangle integral containing the $l _ { \epsilon } ^ { 2 }$ -term; see (3.45). Using (B.10), the rational term, denoted by $\mathcal { R } [ \bullet ]$ ， can be computed as
+
+$$
+\mathcal { R } [ F _ { K , ( \phi , \phi , g ) } ^ { ( 1 ) } ] = F _ { K , ( \phi , \phi , g ) } ^ { ( 0 ) } \frac { N _ { \phi } s _ { 1 3 } s _ { 2 3 } } { s _ { 1 2 } ( s _ { 1 3 } + s _ { 2 3 } ) } .
+$$
+
+Since the computation in section 3 is based on the four-dimensional unitarity method, one might be concerned whether additional rational terms are missed in this approach. In the following, we show that the above result is actually complete by comparing with a Feynman diagram computation following the strategy of [98].
+
+First,from the power counting criterion given in [4], a one-loop integral can generate rational-term contributions only if it has a high enough power of the loop momentum $l$ in the numerator of the loop integrand,which is given by
+
+$$
+\begin{array} { r l r l } & { m > n - 2 \quad } & { \mathrm { f o r } } & { I _ { n } ^ { D } [ ( l ) ^ { m } ] \quad \mathrm { ~ w i t h ~ } n > 2 \ , } \\ & { m > 1 \quad } & { \mathrm { f o r } } & { I _ { 2 } ^ { D } [ ( l ) ^ { m } ] \ . } \end{array}
+$$
+
+Second, we can safely neglect Feynman diagrams that appear in the computation of the BPS form factor, since the sum of them is known to be free of rational terms [20]. From these findings,it turns out that only two diagrams need to be considered, which are shown in figure 17.
+
+Using standard color-ordered Feynman rules (see e.g. [67]), these two graphs give
+
+$$
+F _ { K , ( \phi , \phi , g ) } ^ { ( 0 ) } \left( - \frac { 4 N _ { \phi } } { \sqrt { 2 } s _ { 1 2 } } \right) \frac { \langle 2 3 \rangle \langle 3 1 \rangle } { \langle 1 2 \rangle } ( \mathrm { e } ^ { \gamma _ { \mathrm { E } } } \mu ^ { 2 } ) ^ { \epsilon } \int \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac { D } { 2 } } } \frac { ( l \cdot \epsilon _ { 3 } ^ { + } ) [ l \cdot ( p _ { 1 } - p _ { 2 } ) ] } { l ^ { 2 } ( l - p _ { 3 } ) ^ { 2 } ( l + p _ { 1 2 } ) ^ { 2 } } ,
+$$
+
+where the polarization vector is given by $\begin{array} { r } { \epsilon _ { 3 } ^ { + } = \frac { \sqrt { 2 } \xi \lambda _ { 3 } } { \langle \xi \lambda _ { 3 } \rangle } } \end{array}$ and $\xi$ is an arbitrary reference spinor. Then, applying the identity43
+
+$$
+\mathcal { R } \bigg [ \int \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac { D } { 2 } } } \frac { ( l \cdot k _ { 1 } ) ( l \cdot k _ { 2 } ) } { l ^ { 2 } ( l + q _ { 1 } ) ^ { 2 } ( l + q _ { 2 } ) ^ { 2 } } \bigg ] = \frac { k _ { 1 } \cdot k _ { 2 } } { 2 } - \frac { ( k _ { 1 } \cdot k _ { 2 } ) ( k _ { 2 } \cdot q _ { 1 } ) } { 2 q _ { 1 } \cdot q _ { 2 } } , \qquad k _ { 1 } \cdot q _ { 1 } = q _ { 1 } ^ { 2 } = 0 \ ,
+$$
+
+we can extract the rational term of (D.3) immediately, which,after some simple spinor algebra, turns out to be identical to that given in (D.1). Thus,we have shown that the unitarity method gives the complete rational terms.
+
+# Spurious poles
+
+The coeffcients of the integrals in (3.45) and (3.46) contain unphysical poles, such as the pole $\begin{array} { r } { \frac { 1 } { s _ { 1 3 } + s _ { 2 3 } } = \frac { 1 } { s _ { 1 2 3 } - s _ { 1 2 } } } \end{array}$ . Such poles cannot originate from propagators in the underlying Feynman diagrams. Physical consistency requires that they must cancel when multiplying the coefficients with the respective integrals and summing all contributions.44 Here, we checkthatthisisindedthecaseWefocuotheole $\frac { 1 } { s _ { 1 3 } + s _ { 2 3 } }$ ; the other poles can be treated in a similar way.
+
+Let us first consider the case of $F _ { \mathcal { K } } ^ { ( 1 ) } ( 1 _ { \psi } , 2 _ { \psi } , 3 _ { \phi } )$ . Only the coefficients of the bubble integrals contain spurious poles. Summing over all bubble integrals, the $\frac { 1 } { \epsilon }$ term is free of the pole,and at finite order we find
+
+$$
+- 3 \frac { s _ { 1 2 } s _ { 1 3 } } { s _ { 1 2 } + s _ { 1 3 } } \log \left( \frac { s _ { 1 2 3 } } { s _ { 2 3 } } \right) .
+$$
+
+This is indeed finite for $s _ { 1 2 } + s _ { 1 3 } \to 0$ ,as can be seen from the expansion
+
+$$
+{ \frac { \log ( 1 + x ) } { x } } = 1 - { \frac { x } { 2 } } + { \frac { x ^ { 2 } } { 3 } } + O ( x ^ { 3 } )
+$$
+
+with $\begin{array} { r } { x = \frac { s _ { 1 2 } + s _ { 1 3 } } { s _ { 2 3 } } } \end{array}$
+
+The $F _ { \mathcal { K } } ^ { ( 1 ) } ( 1 _ { \phi } , 2 _ { \phi } , 3 _ { g } )$ case is a little more complicated. In this case, both the bubble and triangle integral contain the pole $\frac { 1 } { s _ { 1 3 } + s _ { 2 3 } }$ in their coefficients. Expanding to finite order and extracting the terms that contain this pole,we find
+
+$$
+- 6 \frac { s _ { 1 3 } s _ { 2 3 } } { ( s _ { 1 3 } + s _ { 2 3 } ) ^ { 2 } } \log \left( \frac { s _ { 1 2 3 } } { s _ { 1 2 } } \right) + 6 \frac { s _ { 1 3 } s _ { 2 3 } } { s _ { 1 2 } ( s _ { 1 3 } + s _ { 2 3 } ) } ,
+$$
+
+where the first term stems from the sum of bubble integrals and the second term is the rational term. Each term itself is divergent when taking the limit $s _ { 1 3 } + s _ { 2 3 } \to 0$ ; however, the sum of the two terms is finite in this limit.
+
+# E Phase-space parametrization
+
+In this appendix, we provide formulae for the parametrization of the phase-space integrals. Furthermore, we give details on the non-trivial three-particle phase-space integration encountered in section 5.
+
+The $n$ -particle phase-space integral is defined as
+
+$$
+\int \mathrm { d } \mathrm { P S } _ { n } ( \bullet ) = \int \bigg ( \prod _ { j = 1 } ^ { n } \frac { \mathrm { d } ^ { D } p _ { j } } { ( 2 \pi ) ^ { D } } 2 \pi \delta _ { + } ( p _ { j } ^ { 2 } ) \bigg ) ( 2 \pi ) ^ { D } \delta ^ { ( D ) } \bigg ( q - \sum _ { j = 1 } ^ { n } p _ { j } \bigg ) ( \bullet ) ,
+$$
+
+where $( \bullet )$ denotes the integrand, i.e. the squared matrix element.
+
+When $n = 2$ , the squared matrix element depends only on $q ^ { 2 }$ , and we can evaluate the two-particle phase-space integral independently:
+
+$$
+\int \mathrm { d } \mathrm { P S } _ { 2 } \left( \bullet \right) = f _ { \mathrm { P S 2 } } \left( \bullet \right) \ : , \qquad f _ { \mathrm { P S 2 } } = \frac { ( q ^ { 2 } ) ^ { - \epsilon } } { 4 ( 1 6 \pi ) ^ { \frac { 1 } { 2 } - \epsilon } \Gamma ( \frac { 3 } { 2 } - \epsilon ) } \ : .
+$$
+
+The three-particle phase space can be parametrized as
+
+$$
+\int \mathrm { d } \mathrm { P S } _ { 3 } \left( \bullet \right) = f _ { \mathrm { P S 3 } } \int _ { 0 } ^ { 1 } \mathrm { d } x x ^ { 1 - 2 \epsilon } ( 1 - x ) ^ { - \epsilon } \int _ { 0 } ^ { 1 } \mathrm { d } y [ y ( 1 - y ) ] ^ { - \epsilon } \left( \bullet \right) ,
+$$
+
+with
+
+$$
+f _ { \mathrm { P S 3 } } = \frac { ( q ^ { 2 } ) ^ { 1 - 2 \epsilon } } { 2 ( 4 \pi ) ^ { 3 - 2 \epsilon } \Gamma ( 2 - 2 \epsilon ) } \ .
+$$
+
+The ratios of Mandelstam variables occurring in the squared matrix element are parametrized as
+
+$$
+\Big \{ \frac { s _ { i j } } { q ^ { 2 } } , \frac { s _ { j k } } { q ^ { 2 } } , \frac { s _ { k i } } { q ^ { 2 } } \Big \} = \Big \{ x ( 1 - y ) , 1 - x , x y \Big \} ,
+$$
+
+in which $( i , j , k )$ can be any permutation of $( 1 , 2 , 3 )$ , since the phase-space measure is totally symmetric in $p _ { 1 } , p _ { 2 } , p _ { 3 }$ ：
+
+# Some details about the three-particle phase-space integral
+
+The phase-space integration becomes non-trivial for the squared matrix element involving the three-point one-loop form factor. It contains the finite part of the box integral (4.8), which involves the hypergeometric functions ${ } _ { 2 } F _ { 1 }$
+
+The corresponding phase-space integrals, which are necessary to evaluate (5.26), are
+
+$$
+\begin{array} { r l } & { \displaystyle \int \mathrm { d } \mathrm { P S } _ { 3 } \frac { 1 } { s _ { 1 3 } } \Bigl ( \frac { \mu ^ { 2 } } { - s _ { 2 3 } } \Bigr ) ^ { \epsilon } \frac { 1 } { \epsilon ^ { 2 } } 2 F _ { 1 } \Bigl ( 1 , - \epsilon , 1 - \epsilon , - \frac { s _ { 1 3 } } { s _ { 1 2 } } \Bigr ) } \\ & { = \frac { f _ { \mathrm { P S } 3 } } { q ^ { 2 } } \Bigl ( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \Bigr ) ^ { \epsilon } \frac { 1 } { \epsilon ^ { 2 } } \int _ { 0 } ^ { 1 } \mathrm { d } x x ^ { - 2 \epsilon } \bigl ( 1 - x \bigr ) ^ { - 2 \epsilon } \int _ { 0 } ^ { 1 } \mathrm { d } y y ^ { - 1 - \epsilon } ( 1 - y ) ^ { - \epsilon } 2 F _ { 1 } \Bigl ( 1 , - \epsilon , 1 - \epsilon , - \frac { y } { 1 - y } \Bigr ) } \\ & { = \frac { f _ { \mathrm { P S } 3 } } { q ^ { 2 } } \Bigl ( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \Bigr ) ^ { \epsilon } \frac { \Gamma \bigl ( 1 - 2 \epsilon \bigr ) \Gamma \bigl ( - \epsilon \bigr ) ^ { 2 } } { 4 \epsilon ^ { 2 } \Gamma ( 2 - 4 \epsilon ) } \biggl [ \bigl ( 1 + 6 \epsilon \bigr ) _ { 2 } F _ { 1 } \Bigl ( 1 , 1 , 1 - 2 \epsilon , 1 \Bigr ) } \\ & { \qquad - \left( 8 \epsilon \right) _ { 3 } F _ { 2 } \Bigl ( 1 , 1 , - \epsilon ; 1 - \epsilon , - 2 \epsilon ; 1 \Bigr ) \biggr ] } \end{array}
+$$
+
+and
+
+$$
+\begin{array} { l } { { \displaystyle \int \mathrm { d } \mathrm { P S } _ { 3 } \frac { 1 } { s _ { 1 3 } } \Bigl ( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \Bigr ) ^ { \epsilon } \frac { 1 } { \epsilon ^ { 2 } } \ : { } _ { 2 } F _ { 1 } \Bigl ( 1 , - \epsilon , 1 - \epsilon , - \frac { q ^ { 2 } } { s _ { 1 2 } s _ { 2 3 } } \Bigr ) } } \\ { { = \frac { f _ { \mathrm { P S } 3 } } { q ^ { 2 } } \Bigl ( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \Bigr ) ^ { \epsilon } \frac { 1 } { \epsilon ^ { 2 } } \int _ { 0 } ^ { 1 } \mathrm { d } x { x } ^ { - 2 \epsilon } ( 1 - x ) ^ { - \epsilon } \int _ { 0 } ^ { 1 } \mathrm { d } y y ^ { - 1 - \epsilon } ( 1 - y ) ^ { - \epsilon } } } \\ { { { } _ { 2 } F _ { 1 } \Bigl ( 1 , - \epsilon , 1 - \epsilon , - \frac { 1 } { 1 - x } \frac { y } { 1 - y } \Bigr ) } } \\ { { = \frac { f _ { \mathrm { P S } 3 } } { q ^ { 2 } } \Bigl ( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \Bigr ) ^ { \epsilon } \left[ - \frac { 1 } { \epsilon ^ { 3 } } - \frac { 3 } { \epsilon ^ { 2 } } - \frac { 9 - \frac { 5 \pi ^ { 2 } } { 6 } } { \epsilon } + \Bigl ( - 2 7 + \frac { 1 7 \pi ^ { 2 } } { 6 } + 2 1 \zeta _ { 3 } \Bigr ) + \mathcal { O } ( \epsilon ) \right] . } } \end{array}
+$$
+
+# F Anomalous dimensions via two-point form factors
+
+In the main part of this paper, we have determined the anomalous dimension of the Konishi operator from its cross section,i.e. from the imaginary part of its two-point function. It is also possble to determine the anomalous dimension of the Konishi operator from its two-point form factor alone. As seen throughout this paper, form factors of non-protected operators contain both UV and IR divergences. To extract the UV divergences, one needs to subtract the IR divergences. The computation of the cross section, as done in section 5, is one of the safest ways to do so. On the other hand, the IR divergences, in particular for Sudakov form factors, have an universal structure [16-18]. This allows us to subtract the IR divergences directly from the form factors. The remaining divergences are purely UV divergences, from which we can read off the anomalous dimension of the operator.45
+
+In terms of the effective planar coupling constant (1.5), the logarithm of any (renormalized and diagonally renormalizing) Sudakov form factor in ${ \mathcal N } = 4$ SYM theory has the following structure; see e.g. [19]:46
+
+$$
+\log f _ { \mathcal { O , \mathrm { R } } } = \sum _ { \ell = 1 } ^ { \infty } g ^ { 2 \ell } \ ( \log f _ { \mathcal { O , \mathrm { R } } } ) ^ { ( \ell ) } = \sum _ { \ell = 1 } ^ { \infty } g ^ { 2 \ell } \Big ( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \Big ) ^ { \ell \epsilon } \bigg ( - \frac { \gamma _ { \mathrm { c u s p } } ^ { ( \ell ) } } { ( 2 \ell \epsilon ) ^ { 2 } } - \frac { \mathcal { G } _ { 0 } ^ { ( \ell ) } } { 2 \ell \epsilon } + \mathrm { F i n } ^ { ( \ell ) } \bigg ) + \mathcal { O } ( \epsilon ) ,
+$$
+
+where the pole terms originate from the IR divergences and are determined by the universal cusp and collinear anomalous dimensions
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { \gamma _ { \mathrm { c u s p } } ( g ) = \displaystyle \sum _ { \ell = 1 } ^ { \infty } \gamma _ { \mathrm { c u s p } } ^ { ( \ell ) } g ^ { 2 \ell } = 8 g ^ { 2 } - 1 6 \zeta _ { 2 } g ^ { 4 } + 1 7 6 \zeta _ { 4 } g ^ { 6 } + { \mathcal O } ( g ^ { 8 } ) ~ , } } \\ { { } } & { { } } & { { \mathcal { G } _ { 0 } ( g ) = \displaystyle \sum _ { \ell = 1 } ^ { \infty } { \mathcal G } _ { 0 } ^ { ( \ell ) } g ^ { 2 \ell } = - 4 \zeta _ { 3 } g ^ { 4 } + 1 6 \Big ( 2 \zeta _ { 5 } + \frac { 5 } { 3 } \zeta _ { 2 } \zeta _ { 3 } \Big ) g ^ { 6 } + { \mathcal O } ( g ^ { 8 } ) ~ . } } \end{array}
+$$
+
+The finite terms of the logarithm of the form factor depend on the specific properties of the form factor such as the choice of the operator. In particular, they contain a remainder function,which was studied in [27, 29].
+
+For non-protected operators, renormalization is required. The renormalized form factor is given by
+
+$$
+f _ { \mathcal { O , \mathrm { R } } } ^ { ( L ) } = \sum _ { \ell = 1 } ^ { L } \mathcal { Z } ^ { ( \ell ) } f _ { \mathcal { O , \mathrm { B } } } ^ { ( L - \ell ) } \ ,
+$$
+
+where the renormalization constant is related to the anomalous dimension as shown in (2.3).
+
+The universal structure of IR divergences, together with the bare Konishi form factor, allw us to determine the renormalization constant and therefore the anomalous dimension. In the following,we employ the two-loop Konishi form factor to reproduce the Konishi anomalous dimension (1.6） up to two-loop order. Reversing the logic，we then give a prediction for the bare three-loop two-point Konishi form factor up to and including $\mathcal { O } ( \epsilon ^ { - 1 } )$ （204号 order by using the known three-loop anomalous dimension.
+
+# One-loop form factor
+
+The one-loop bare form factor is given in (4.5). From the universal IR structure, we know that
+
+$$
+( \log f _ { \mathcal K , \mathrm { R } } ) ^ { ( 1 ) } = f _ { \mathcal K , \mathrm { R } } ^ { ( 1 ) } = f _ { \mathcal K , \mathrm { B } } ^ { ( 1 ) } + \mathcal Z _ { \mathcal K } ^ { ( 1 ) } = \Bigl ( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \Bigr ) ^ { \epsilon } \Bigl ( - \frac { \gamma _ { \mathrm { c u s p } } ^ { ( 1 ) } } { 4 \epsilon ^ { 2 } } - \frac { \mathcal G _ { 0 } ^ { ( 1 ) } } { 2 \epsilon } \Bigr ) + \mathcal O ( \epsilon ^ { 0 } ) \ ,
+$$
+
+where the one-loop cusp and collinear anomalous dimensions are given in (F.2). The simple pole in $f _ { \mathcal { K } , \mathrm { B } } ^ { ( 1 ) }$ hastobecancedbhirtroatio constant,which yields
+
+$$
+\mathcal { Z } _ { \kappa } ^ { ( 1 ) } = \frac { 6 } { \epsilon } \ ,
+$$
+
+in agreement with (5.18) and the known one-loop anomalous dimension. Thus, the one-loop renormalized form factor is
+
+$$
+f _ { \mathcal { K , \mathrm { R } } } ^ { ( 1 ) } = \Bigl ( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \Bigr ) ^ { \epsilon } \frac { 2 ( 1 + \epsilon + \epsilon ^ { 2 } ) e ^ { \epsilon \gamma _ { E } } \Gamma ( - \epsilon ) ^ { 2 } \Gamma ( 1 + \epsilon ) } { ( - 1 + 2 \epsilon ) \Gamma ( 1 - 2 \epsilon ) } + \frac { 6 } { \epsilon } ~ . ~ 
+$$
+
+# Two-loop form factor
+
+The two-loop bare Konishi form factor is given in (4.6). From the universal IR structure, we know that
+
+$$
+\begin{array} { l } { { ( \log f _ { \mathcal K , \mathrm { R } } ) ^ { ( 2 ) } = f _ { \mathcal K , \mathrm { R } } ^ { ( 2 ) } - \displaystyle \frac 1 2 \left( f _ { \mathcal K , \mathrm { R } } ^ { ( 1 ) } \right) ^ { 2 } = \left( f _ { \mathcal K , \mathrm { B } } ^ { ( 2 ) } + \mathcal Z _ { \mathcal K } ^ { ( 1 ) } f _ { \mathcal K , \mathrm { B } } ^ { ( 1 ) } + \mathcal Z _ { \mathcal K } ^ { ( 2 ) } \right) - \displaystyle \frac 1 2 \left( f _ { \mathcal K , \mathrm { R } } ^ { ( 1 ) } \right) ^ { 2 } } } \\ { { \displaystyle \qquad = \left( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \right) ^ { 2 \epsilon } \Big ( - \frac { \gamma _ { \mathrm { c u s p } } ^ { ( 2 ) } } { 1 6 \epsilon ^ { 2 } } - \frac { \mathcal G _ { 0 } ^ { ( 2 ) } } { 4 \epsilon } \Big ) + \mathcal O ( \epsilon ^ { 0 } ) \ : , } } \end{array}
+$$
+
+where the two-loop cusp and colinear anomalous dimensions are given in (F.2). This determines the two-loop term of the renormalization constant as
+
+$$
+\mathcal { Z } _ { \kappa } ^ { ( 2 ) } = \frac { 1 8 } { \epsilon ^ { 2 } } - \frac { 1 2 } { \epsilon } \ ,
+$$
+
+which perfectly agrees with (5.34) and yields the known two-loop anomalous dimension. Hence, the two-loop renormalized form factor is
+
+$$
+\begin{array} { r l } & { f _ { \mathcal { K } , \mathrm { R } } ^ { ( 2 ) } = \Bigl ( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \Bigr ) ^ { 2 \epsilon } \biggl [ \frac { 2 } { \epsilon ^ { 4 } } + \frac { 2 8 - \frac { \pi ^ { 2 } } { 6 } } { \epsilon ^ { 2 } } + \frac { 5 6 - \pi ^ { 2 } - \frac { 2 5 \zeta _ { 3 } } { 3 } } { \epsilon } + \Bigl ( 3 1 6 - \frac { 2 6 \pi ^ { 2 } } { 3 } - 2 8 \zeta _ { 3 } - \frac { 7 \pi ^ { 4 } } { 6 0 } \Bigr ) } \\ & { \qquad + \Bigl ( 1 1 7 2 - \frac { 1 3 1 \pi ^ { 2 } } { 3 } - \frac { 5 7 2 \zeta _ { 3 } } { 3 } - \frac { 5 3 \pi ^ { 4 } } { 1 2 0 } + \frac { 2 3 \pi ^ { 2 } \zeta _ { 3 } } { 1 8 } + \frac { 7 1 \zeta _ { 5 } } { 5 } \Bigr ) \epsilon \biggr ] + { \mathcal O } ( \epsilon ^ { 2 } ) \ . } \end{array}
+$$
+
+# Prediction for the three-loop bare Konishi form factor
+
+Now,we reverse the logic. From the universal IR structure, we know that
+
+$$
+\begin{array} { l } { { \displaystyle ( \log f _ { K , \mathrm { R } } ) ^ { ( 3 ) } = f _ { K , \mathrm { R } } ^ { ( 3 ) } - f _ { K , \mathrm { R } } ^ { ( 2 ) } f _ { K , \mathrm { R } } ^ { ( 1 ) } + \frac { 1 } { 3 } \left( f _ { K , \mathrm { R } } ^ { ( 1 ) } \right) ^ { 3 } } \ ~ } \\ { { \displaystyle ~ = \left( f _ { K , \mathrm { B } } ^ { ( 3 ) } + \mathcal { Z } _ { K } ^ { ( 1 ) } f _ { K , \mathrm { B } } ^ { ( 2 ) } + \mathcal { Z } _ { K } ^ { ( 2 ) } f _ { K , \mathrm { B } } ^ { ( 1 ) } + \mathcal { Z } _ { K } ^ { ( 3 ) } \right) - f _ { K , \mathrm { R } } ^ { ( 2 ) } f _ { K , \mathrm { R } } ^ { ( 1 ) } + \frac { 1 } { 3 } \left( f _ { K , \mathrm { R } } ^ { ( 1 ) } \right) ^ { 3 } } \ ~ } \\ { { \displaystyle ~ = \left( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \right) ^ { 3 \epsilon } \Big ( - \frac { \gamma _ { \mathrm { c u s p } } ^ { ( 3 ) } } { 3 6 \epsilon ^ { 2 } } - \frac { \mathcal { G } _ { 0 } ^ { ( 3 ) } } { 6 \epsilon } \Big ) + \mathcal { O } ( \epsilon ^ { 0 } ) ~ , } } \end{array}
+$$
+
+where the three-loop cusp and colinear anomalous dimensions are given in (F.2). Using the known one- and two-loop form factors,and together with the renormalization constant up to three loops obtained from (2.3),(1.6) and given by
+
+$$
+\mathcal { Z } _ { K } ^ { ( 3 ) } = \frac { ( \gamma _ { K } ^ { ( 1 ) } ) ^ { 3 } } { 4 8 \epsilon ^ { 3 } } + \frac { \gamma _ { K } ^ { ( 1 ) } \gamma _ { K } ^ { ( 2 ) } } { 8 \epsilon ^ { 2 } } + \frac { \gamma _ { K } ^ { ( 3 ) } } { 6 \epsilon } = \frac { 3 6 } { \epsilon ^ { 3 } } - \frac { 7 2 } { \epsilon ^ { 2 } } + \frac { 5 6 } { \epsilon } \ ,
+$$
+
+we can predict the three-loop bare Konishi form factor as:
+
+$$
+\begin{array} { c } { f _ { K , \mathrm { B } } ^ { ( 3 ) } = \displaystyle \left( \frac { \mu ^ { 2 } } { - q ^ { 2 } } \right) ^ { 3 \epsilon } \Big [ - \frac { 4 } { 3 \epsilon ^ { 6 } } - \frac { 1 2 } { \epsilon ^ { 5 } } - \frac { 6 4 } { \epsilon ^ { 4 } } - \frac { 2 8 4 - 2 \pi ^ { 2 } - \frac { 2 2 \zeta _ { 3 } } { 3 } } { \epsilon ^ { 3 } } - \frac { 1 1 8 0 - \frac { 6 5 \pi ^ { 2 } } { 3 } - 7 8 \zeta _ { 3 } - \frac { 2 4 7 \pi ^ { 4 } } { 3 2 4 0 } } { \epsilon ^ { 2 } } } \\ { - \frac { 4 7 4 4 - 1 4 1 \pi ^ { 2 } - 5 5 4 \zeta _ { 3 } - \frac { 5 1 \pi ^ { 4 } } { 4 0 } + \frac { 8 5 \pi ^ { 2 } \zeta _ { 3 } } { 5 4 } + \frac { 8 7 8 \zeta _ { 5 } } { 1 5 } } { \epsilon } \Big ] + \mathcal { O } ( \epsilon ^ { 0 } ) ~ . } \end{array}
+$$
+
+This should be compared with a direct computation.
+
+# G Renormalization-scheme transformations
+
+In this appendix, we review transformations between different mass-independent renormalization schemes and derive the behavior of the cross section (2.15) under such transformations.
+
+A renormalization scheme specifies a regularization procedure for the UV divergences encountered in perturbation theory beyond tree-level and a prescription for the subtraction of these divergences into renormalized fields, coupling constants and composite operators. The subtraction prescription specifies how the UV divergences are removed from the perturbation series.In particular,it has to be indicated which finite parts are absorbed together with the UV divergences into the counter terms or - equivalently - the renormalization constants determining the relations between the bare and renormalized quantities.
+
+A modified renormalization scheme,which contains a different prescription for subtracting the UV divergences from the perturbation series in $g$ , can be described by applying the subtraction of the original scheme but to the perturbation series in a modified coupling constant $g _ { \rho } = g \mathrm { e } ^ { \varrho \epsilon }$ . Thereby, the parameter $\varrho$ specifies the finite terms that are subtracted together with the UV divergences. Since the combination $g \mu ^ { \epsilon }$ of the coupling constant （204号 $g$ and 't Hooft mass $\mu$ is the expansion parameter of the perturbation series, the change between schemes,i.e. between $g$ and $g _ { \varrho }$ , can easily be implemented by changing $\mu$ . If we demand $g _ { \varrho } \mu _ { \varrho } ^ { \epsilon } = g \mu ^ { \epsilon }$ , the transformation of the perturbation series to the scheme $\varrho$ ，but written in terms of the original coupling constant $g$ , is given by replacing $\mu \to \mu _ { \varrho } = \mu \mathrm { e } ^ { - \varrho }$ ：
+
+A widely used renormalization scheme is the dimensional reduction (DR) scheme, which combines regularization by dimensional reduction with a minimal subtraction of the divergences into counter terms or 一 equivalently — renormalization constants. Minimal subtraction means that no finite terms are subtracted. In the DR scheme, minimal subtraction isappliedtoebiieost $\textstyle { \frac { \sqrt { \lambda } } { 4 \pi } }$ ， $\lambda = g _ { \mathrm { Y M } } ^ { 2 } N _ { \mathrm { c } }$ ：
+
+In this paper, we work in the modified dimensional reduction ( $\mathrm { D R }$ ）scheme.It employs dimensional reduction as a regularization procedure,but the subtraction is non-minimal in terms of the coupling constant $\textstyle { \frac { \sqrt { \lambda } } { 4 \pi } }$ ， $\lambda = g _ { \mathrm { Y M } } ^ { 2 } N _ { \mathrm { c } }$ . It is,however,minimalin termsof the coupling constant $g$ defined in (1.5). Hence, the subtraction procedures of the DR and $\overline { { \mathrm { D R } } }$ （20 scheme are related in the same way as those of the famous MS and $\mathrm { \overline { { M S } } }$ schemes defined in [91] and [44], respectively, that employ dimensional regularization as a regularization procedure. The expressions in the former schemes are obtained from the ones in the latter schemes by replacing $\mu \to \mu \mathrm { e } ^ { - \varrho }$ ，where $\varrho = { \textstyle { \frac { 1 } { 2 } } } ( \log 4 \pi - \gamma _ { \mathrm { { E } } } )$ ：
+
+Consider the renormalized cross section $\sigma _ { \mathrm { R } }$ . Inserting (2.1) into (2.8), it is given as the product of the squared operator renormalization constant $\mathcal { Z } _ { \mathcal { O } }$ introduced in (2.1） and the bare cross section $\sigma _ { \mathrm { B } }$ ：
+
+$$
+\sigma _ { \mathrm { R } } = \mathcal { Z } _ { \mathcal { O } } ( g , \epsilon ) ^ { 2 } \sigma _ { \mathrm { B } } ~ .
+$$
+
+The logarithm of the ratio of the bare and the tree-level cross section $\boldsymbol { \sigma } ^ { ( 0 ) }$ then has the following expansion up to two-loop order:
+
+$$
+\log \frac { \sigma _ { \mathrm { B } } } { \sigma ^ { ( 0 ) } } = g ^ { 2 } \Big ( \frac { \mu ^ { 2 } } { q ^ { 2 } } \Big ) ^ { \epsilon } \bigg ( - \frac { \gamma _ { \mathcal { O } } ^ { ( 1 ) } } { \epsilon } + s _ { 0 } ^ { ( 1 ) } \bigg ) + g ^ { 4 } \left( \frac { \mu ^ { 2 } } { q ^ { 2 } } \right) ^ { 2 \epsilon } \bigg ( - \frac { \gamma _ { \mathcal { O } } ^ { ( 2 ) } } { 2 \epsilon } + s _ { 0 } ^ { ( 2 ) } - \frac { ( s _ { 0 } ^ { ( 1 ) } ) ^ { 2 } } { 2 } \bigg ) + { \mathcal O } ( g ^ { 6 } , \epsilon ) .
+$$
+
+The finite terms So s become thecoeficients of the perturbative expansion of the ratio of the renormalized and the tree-level cross section
+
+$$
+\frac { \sigma _ { \mathrm { R } } } { \sigma ^ { ( 0 ) } } = \Bigl ( \frac { q ^ { 2 } } { 4 \mu ^ { 2 } } \Bigr ) ^ { \gamma _ { \mathcal { O } } } \bigl [ 1 + g ^ { 2 } s _ { 0 } ^ { ( 1 ) } + g ^ { 4 } s _ { 0 } ^ { ( 2 ) } + { \mathcal O } ( g ^ { 6 } , \epsilon ) \bigr ]
+$$
+
+in the $\overline { { \mathrm { D R } } }$ scheme where the coupling constant is (1.5).
+
+The condition $g _ { \varrho } \mu _ { \varrho } ^ { \epsilon } = g \mu ^ { \epsilon }$ implies that the expression (G.2) is the same in all schemes. However,only the subtraction prescription of the $\overline { { \mathrm { D R } } }$ scheme leads to the expression (G.3) for the renormalized cross section.
+
+The renormalization constant $\mathcal { Z } _ { \mathcal { O } } ( g , \epsilon )$ of the $\overline { { \mathrm { D R } } }$ scheme obtained by performing minimal subtraction at the coupling constant $g$ can be expressed as the renormalization constant $\mathcal { Z } _ { \mathcal { O } , \varrho } = \mathcal { Z } _ { \mathcal { O } } ( g _ { \varrho } , \epsilon )$ in the scheme $\varrho$ obtained by performing minimal subtraction at the coupling constant $g _ { \varrho }$ times a factor without poles in $\epsilon$ . Hence, the difference of the logarithms of these constants is finite and given by
+
+$$
+\begin{array} { r } { \log \mathcal { Z } _ { \mathcal { O } } ( g , \epsilon ) = \log \mathcal { Z } _ { \mathcal { O } , \varrho } + g _ { \varrho } ^ { 2 } \Delta \mathcal { Z } _ { \mathcal { O } } ^ { ( 1 ) } + g _ { \varrho } ^ { 4 } \Delta \mathcal { Z } _ { \mathcal { O } } ^ { ( 2 ) } + \mathcal { O } ( g _ { \varrho } ^ { 6 } ) \ , } \end{array}
+$$
+
+where
+
+$$
+\begin{array} { r l } & { \Delta \mathcal { Z } _ { \mathcal { O } } ^ { ( 1 ) } = \left( \left( \frac { g } { g _ { \varrho } } \right) ^ { 2 } - 1 \right) \mathcal { Z } _ { \mathcal { O } } ^ { ( 1 ) } = - \gamma _ { \mathcal { O } } ^ { ( 1 ) } \varrho ( 1 - \varrho \epsilon ) + \mathcal { O } ( \epsilon ^ { 2 } ) \ , } \\ & { \Delta \mathcal { Z } _ { \mathcal { O } } ^ { ( 2 ) } = \left( \left( \frac { g } { g _ { \varrho } } \right) ^ { 4 } - 1 \right) \mathcal { Z } _ { \mathcal { O } } ^ { ( 2 ) } - \frac { ( \Delta \mathcal { Z } _ { \mathcal { O } } ^ { ( 1 ) } ) ^ { 2 } } { 2 } - \mathcal { Z } _ { \mathcal { O } } ^ { ( 1 ) } \Delta \mathcal { Z } _ { \mathcal { O } } ^ { ( 1 ) } = - \gamma _ { \mathcal { O } } ^ { ( 2 ) } \varrho + \mathcal { O } ( \epsilon ) \ . } \end{array}
+$$
+
+We have used the expansion given in (2.3). In the expression $\Delta \mathcal { Z } _ { \mathcal { O } } ^ { ( 1 ) }$ we have kept the term linear in $\epsilon$ , since it leads toafinite term in $\epsilon$ in the expression $\Delta \mathcal { Z } _ { \mathcal { O } } ^ { ( 2 ) }$ , when it is multiplied by x(1)
+
+Adding (G.2) and (G.5) leads to the following relation of the renormalized cross sections in both schemes
+
+$$
+\log \frac { \sigma _ { \mathrm { R } , \varrho } } { \sigma ^ { ( 0 ) } } = \log \frac { \sigma _ { \mathrm { R } } } { \sigma ^ { ( 0 ) } } - 2 \big ( g ^ { 2 } \Delta \mathcal { Z } _ { \mathcal { O } } ^ { ( 1 ) } + g ^ { 4 } \Delta \mathcal { Z } _ { \mathcal { O } } ^ { ( 2 ) } \big ) + \mathcal { O } ( g ^ { 6 } , \epsilon ) = \log \frac { \sigma _ { \mathrm { R } } } { \sigma ^ { ( 0 ) } } + 2 \gamma \varrho \varrho + \mathcal { O } ( g ^ { 6 } , \epsilon ) ,
+$$
+
+where we have inserted $g _ { \varrho } = g \mathrm { e } ^ { \varrho \epsilon }$ and neglected terms that vanish when $\epsilon  0$ .This relation can be interpreted in two ways, as follows.
+
+First, one can insert the expansion (G.3） for $\sigma _ { \mathrm { R } }$ and the same expression for $\sigma _ { \mathrm { R } , \varrho }$ but with $\mu$ replaced by $\mu _ { \varrho }$ . Then，one obtains the relation $\mu _ { \varrho } = \mu \mathrm { e } ^ { - \varrho }$ mentioned already at the beginning of this appendix. This shows that a scheme change can be performed by changing $\mu$ ：
+
+wtte (G3a co $\sigma _ { \mathrm { R } }$ 1 hienrit $\sigma _ { \mathrm { R } , \varrho }$ $s _ { 0 } ^ { ( \ell ) }$ of the finite terms under a scheme change,given by the relations
+
+$$
+s _ { 0 , \varrho } ^ { ( \ell ) } = s _ { 0 } ^ { ( \ell ) } + 2 \gamma _ { \mathcal { O } } ^ { ( \ell ) } \varrho \ .
+$$
+
+# HFeynman diagrams
+
+In this appendix,we compute the unrenormalized form factors of section 3 to two-loop order via Feynman diagrams. See e.g. [99] for the Feynman rules of the ${ \mathcal N } = 4$ SYM theory in our conventions. In particular, we demonstrate how the analysis of section 4 works for the concrete diagrams and that we did not miss any rational terms in section 3.
+
+# One-loop self energies
+
+For the calculation of the unrenormalized two-loop form factors,we need the one-loop self-energies of the gauge and scalar felds. They occur as subdiagrams in certain two-loop diagrams.
+
+The one-loop self-energy of the gauge field is determined from diagrams in which the scalar fields, the fermion fields, the gauge field itself or the ghost field propagates in the loop. They evaluate to
+
+$$
+\begin{array} { l l } { { { \displaystyle {  ~ \Lambda ~ } } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } } } \\ { { { \displaystyle {  ~ \Lambda ~ } } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } } } \\ { { { \displaystyle {  \Lambda ~ } } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } \mathrm {  ~ \Lambda ~ } } } \end{array}
+$$
+
+where $g$ is the coupling in the $\overline { { \mathrm { D R } } }$ scheme defined in (1.5),and besides the number of scalar flavors $N _ { \phi } = 6 + 2 \epsilon$ we have also introduced the number of fermion flavors $N _ { \psi } = 4$ of （20 ${ \mathcal N } = 4$ SYM theory. Moreover, we have split the contribution from the gauge loop into the tensor integrals $I _ { \mathrm { s } \mu \nu }$ ， $I _ { \mathrm { g h } \mu \nu }$ occurring in case of the scalar- and ghost-loop contribution, respectively, and into $I _ { \mathrm { p h } \mu \nu }$ ， which is associated with the remaining physical degrees of freedom of the gauge-field polarizations. The occurring integrals are expressed in terms of the simple bubble integral in (B.6) as
+
+$$
+I _ { \mathrm { s } \mu \nu } = ( \mathrm { e } ^ { \gamma \mathrm { g } } \mu ^ { 2 } ) ^ { \epsilon } \int \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac { D } { 2 } } } \frac { ( q - 2 l ) _ { \mu } ( q - 2 l ) _ { \nu } } { l ^ { 2 } ( q - l ) ^ { 2 } } = \frac { 1 } { D - 1 } ( q _ { \mu } q _ { \nu } - q ^ { 2 } g _ { \mu \nu } ) = \big ( \bigcirc \ ,
+$$
+
+$$
+\begin{array} { c } { { \begin{array} { c } { { ^ { \prime } \ a ^ { \prime } } } \\ { { ^ { I } { \mathrm { f } } _ { \mathrm { f } \mu \nu } = ( \mathrm { e } ^ { \Upsilon \kappa } \ \mu ^ { 2 } ) ^ { \epsilon } \displaystyle \int \displaystyle \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac D 2 } } \displaystyle \frac { \mathrm { t r } \tilde { \sigma } _ { \mu } ( q - l ) \tilde { \sigma } _ { \nu } l } { l ^ { 2 } ( q - l ) ^ { 2 } } = \displaystyle \frac { D - 2 } { D - 1 } ( q _ { \mu } q _ { \nu } - q ^ { 2 } g _ { \mu \nu } ) = \displaystyle \bigcup _ { \scriptstyle \lambda = 1 } ^ { \infty } , } } \\ { { { \cal I } _ { \mathrm { p h } \mu \nu } = ( \mathrm { e } ^ { \Upsilon \kappa } \ \mu ^ { 2 } ) ^ { \epsilon } \displaystyle \int \displaystyle \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac D 2 } } \displaystyle \frac { 1 } { l ^ { 2 } ( q - l ) ^ { 2 } } ( - 6 q _ { \mu } q _ { \nu } + 4 q _ { \mu } ( q - l ) _ { \nu } + 4 ( q - l ) _ { \mu } q _ { \nu } - 8 ( q - l ) _ { \mu } ( q - l ) _ { \nu } + \frac { 1 } { ( q - l ) _ { \nu } } ) } } \\ { { + \ ( 5 q ^ { 2 } - 2 q \cdot ( q - l ) + 2 ( q - l ) ^ { 2 } ) g _ { \mu \nu } ) } } \end{array} } } \end{array}
+$$$$
+\begin{array} { l } { { \mathrm { p h } \mu \nu = ( \mathrm { e } ^ { \gamma \mathcal { R } } \mu ^ { 2 } ) ^ { \epsilon } \displaystyle \int \displaystyle \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac { D } { 2 } } } \displaystyle \frac { 1 } { l ^ { 2 } ( q - l ) ^ { 2 } } ( - 6 q _ { \mu } q _ { \nu } + 4 q _ { \mu } ( q - l ) _ { \nu } + 4 ( q - l ) _ { \mu } q _ { \nu } - 8 ( q - l ) _ { \mu } ( q - l ) _ { \nu } ) } } \\ { { + ( 5 q ^ { 2 } - 2 q \cdot ( q - l ) + 2 ( q - l ) ^ { 2 } ) g _ { \mu \nu } ) } } \\ { { = - \displaystyle \frac { 4 D - 2 } { D - 1 } ( q _ { \mu } q _ { \nu } - q ^ { 2 } g _ { \mu \nu } ) = \displaystyle \longrightarrow = } } \\ { { \mathrm { g h } \mu \nu = ( \mathrm { e } ^ { \gamma \mathcal { R } } \mu ^ { 2 } ) ^ { \epsilon } \displaystyle \int \displaystyle \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac { D } { 2 } } } \displaystyle \frac { ( l - q ) _ { \mu } l _ { \nu } } { l ^ { 2 } ( q - l ) ^ { 2 } } = \displaystyle \frac { 1 } { 4 ( D - 1 ) } ( - ( D - 2 ) q _ { \mu } q _ { \nu } - q ^ { 2 } g _ { \mu \nu } ) = \displaystyle \bigodot = . } } \end{array}
+$$
+
+Inserting the results for the tensor integrals into (H.1) and summing all contributions, we obtain
+
+$$
+\begin{array} { l } { { { \displaystyle - \frac { g ^ { 2 } } { 2 } \delta ^ { a b } ( ( N _ { \phi } + D ) I _ { s \mu \nu } + 2 N _ { \psi } I _ { \mathrm { f } \mu \nu } + I _ { \mathrm { p h } \mu \nu } ) } } } \\ { { { } } } \\ { { { \displaystyle ~ = \frac { g ^ { 2 } } { 2 } \delta ^ { a b } \frac { N _ { \phi } + D + 2 ( D - 2 ) N _ { \psi } - ( 4 D - 2 ) } { D - 1 } ( q _ { \mu } q _ { \nu } - q ^ { 2 } g _ { \mu \nu } ) = \mathrm { C } ) = } } } \\ { { { } } } \\ { { { \displaystyle ~ = 2 g ^ { 2 } \delta ^ { a b } ( q _ { \mu } q _ { \nu } - q ^ { 2 } g _ { \mu \nu } ) = } \mathrm { C } ) = . } }  \end{array}
+$$
+
+The first line shows that our decomposition of the gauge-loop contribution in (H.1） is advantageous: $D$ and $N _ { \phi }$ only appear in the combination $D + N _ { \phi }$ which is insensitive to the simultaneous continuation of $D$ and $N _ { \phi }$ as prescribed by the $\overline { { \mathrm { D R } } }$ scheme,cf.the discussion in section 4. We note that when inserting the appropriate numbers flavors in the second line, the dependence on $D$ originating from the tensor integrals is also canceled.
+
+The remaining one-loop self energies for the scalar and fermion fields read
+
+$$
+\begin{array} { c } { { { \bf - \sigma - } } } \\ { { { \bf - \sigma - } } } \\ { { { \bf - \sigma - } } } \end{array} .
+$$
+
+# One-loop form factors
+
+In the Feynman-diagram approach, the one-loop form factors for the BPS operator (1.2) and the Konishi operator (1.4) are obtained from the two diagrams given in table 1. Completing
+
+<html><body><table><tr><td>diagram</td><td>A</td><td>g²(A1 + BT) B</td><td>f(1)</td><td></td></tr><tr><td>Q</td><td>1</td><td>-1</td><td>(l + p2)²</td><td rowspan="2">f()</td></tr><tr><td></td><td>1</td><td>0</td><td>(l + 2q- p2) · (l - p2)</td></tr></table></body></html>
+
+the numerator of the second integral in table 1 to squared momenta occurring in the denominator,it can be transformed to the expression
+
+$$
+( l + 2 q - p _ { 2 } ) \cdot ( l - p _ { 2 } ) = 1 = - q \alpha + 2 + \ldots + ( p _ { 1 } ^ { 2 } + p _ { 2 } ^ { 2 } - 2 q ^ { 2 } ) = 1 .
+$$
+
+Only the frst three integrals are UV divergent. Moreover, they develop IR divergences if the corresponding external momentum square $q ^ { 2 }$ ， $p _ { 1 } ^ { 2 }$ or $p _ { 2 } ^ { 2 }$ vanishes. In this case, the respective integral vanishes identically in dimensional reduction since its IR pole and its UV pole cancel. The fourth integral is UV finite, but it becomes IR divergent if at least one of the three momentum squares vanishes. In case that $p _ { 1 } ^ { 2 }$ ， $p _ { 2 } ^ { 2 }$ are not zero,also the self-energy corrections of the scalar fields contribute to the form factor. Using the expression for the one-loop scalar self energy given in (H.4), the respective contribution can be written as
+
+$$
+\frac { 1 } { 2 } [ 1 - \llap { / } ^ { \star } + \llap { / } ^ { \star } ] = - g ^ { 2 } \Big [ - \llap { / } + \llap { / } \llap { / } ] ,
+$$
+
+where the factor $\textstyle { \frac { 1 } { 2 } }$ originates from the fact that the square root of the renormalization constant determined from the self-energy contribution renormalizes the corresponding elementary field. When added to the sum of the two diagrams given in table 1,this contribution exactly cancels the second and third term in the expansion of the second integral given in (H.5), irrespective of the vanishing or non-vanishing of $p _ { 1 } ^ { 2 }$ ， $p _ { 2 } ^ { 2 }$ . In the case of the BPS operator,where both diagrams of table $1$ only contribute with the coefficient $A$ ，the remaining UV divergence contained in the bubble integral cancels among the two diagrams given in table 1. Hence, in the BPS case, there is only a contribution from the triangle integral of (H.5). In the case of the Konishi operator, the contributions of the bubble integral do not cancel for the flavor-trace contribution, which comes with the coefficient $B$
+
+The one-loop form factors for the BPS operator and the Konishi operator hence read
+
+$$
+\begin{array} { r l } & { f _ { \mathrm { B P S } , 2 } ^ { ( 1 ) } = ( p _ { 1 } ^ { 2 } + p _ { 2 } ^ { 2 } - 2 q ^ { 2 } ) = < 1 , } \\ & { } \\ & { f _ { K , ( \phi , \phi ) } ^ { ( 1 ) } = - N _ { \phi } = < \mathcal { O } \preccurlyeq + ( p _ { 1 } ^ { 2 } + p _ { 2 } ^ { 2 } - 2 q ^ { 2 } ) = < \mathcal { T } \ . } \end{array}
+$$
+
+We have calculated the above form factors for generic off-shell momenta $p _ { 1 } ^ { 2 } \neq 0$ and $p _ { 2 } ^ { 2 } \neq 0$ Hence, they are generalizations of the respective expressions with $p _ { 1 } ^ { 2 } = p _ { 2 } ^ { 2 }$ ， given for the BPS operator in (3.4) and for the operator ${ { \ K } _ { 6 } }$ in(3.16） into which the factor $r _ { \phi }$ has to be introduced as prescribed in (4.4) in order to obtain the Konishi form factor.
+
+The contribution $\tilde { f } _ { \mathcal { K } , n } ^ { ( \ell ) }$ in (4.3)is free of any contribution from the triangle integral, and it is in particular independent of $p _ { 1 } ^ { 2 }$ and $p _ { 2 } ^ { 2 }$ . This explicitly confirms that the IR divergence is universal, i.e. the same for the BPS and the Konishi operator. Moreover, the UV divergence of the Konishi operator can be extracted from the final $\epsilon$ expansions of the Konishi and the BPS form factor given in (4.5) in the on-shell case $p _ { 1 } ^ { 2 } = p _ { 2 } ^ { 2 } = 0$ where the the $\frac { 1 } { \epsilon }$ -poles originate from both, the UV and the IR divergences.
+
+# Two-loop form factors
+
+The one-particle-irreducible (1PI) diagrams for the two-loop form factors of the BPS operator (1.2) and the Konishi operator (1.4) are displayed in table 2. The occurring integrals are given by
+
+$$
+\begin{array} { r l } & { \mathrm { ~ \ , ~ } = f ( k , l ) \mathord { \mathop { \longleftrightarrow } } \left( \mathrm { e } ^ { \gamma _ { \mathrm { E } } } \mu ^ { 2 } \right) ^ { 2 \epsilon } \displaystyle \int \frac { \mathrm { d } ^ { D } k } { i \pi ^ { \frac { D } { D } } } \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac { D } { 2 } } } \frac { f ( k , l ) } { k ^ { 2 } ( k + q ) ^ { 2 } ( k - l ) ^ { 2 } l ^ { 2 } ( l + q ) ^ { 2 } ( l + p _ { 1 } ) ^ { 2 } } \mathrm { ~ , ~ } } \\ & { \mathrm { ~ \ } = f ( k , l ) \mathord { \mathop { \longleftrightarrow } } \left( \mathrm { e } ^ { \gamma _ { \mathrm { E } } } \mu ^ { 2 } \right) ^ { 2 \epsilon } \displaystyle \int \frac { \mathrm { d } ^ { D } k } { i \pi ^ { \frac { D } { D } } } \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac { D } { 2 } } } \frac { f ( k , l ) } { k ^ { 2 } ( k + q ) ^ { 2 } ( k + p _ { 1 } ) ^ { 2 } ( k - l ) ^ { 2 } l ^ { 2 } ( l + p _ { 1 } ) ^ { 2 } } \mathrm { ~ , ~ } } \\ & { \mathrm { ~ \ } = f ( k , l ) \mathord { \mathop { \longleftrightarrow } } \left( \mathrm { e } ^ { \gamma _ { \mathrm { E } } } \mu ^ { 2 } \right) ^ { 2 \epsilon } \displaystyle \int \frac { \mathrm { d } ^ { D } k } { i \pi ^ { \frac { D } { D } } } \frac { \mathrm { d } ^ { D } l } { i \pi ^ { \frac { D } { 2 } } } \frac { f ( k , l ) } { ( k + l ) ^ { 2 } ( k + l + q ) ^ { 2 } k ^ { 2 } ( k + p _ { 1 } ) ^ { 2 } l ^ { 2 } ( l + p _ { 2 } ) ^ { 2 } } \mathrm { ~ . ~ } } \end{array}
+$$
+
+For $p _ { 1 } ^ { 2 } \neq 0$ ， $p _ { 2 } ^ { 2 } \neq 0$ , contributions from diagrams involving the two-loop self-energy of the scalar fields have to be considered in addition to the 1PI diagrams shown in table 2. Also,the second diagram coming with the integral $I _ { \mathrm { b t } }$ yields a non-vanishing contribution, while it vanishes otherwise. All graphs are then IR finite,and the UV divergence can easily be extracted by setting e.g. one external momentum to zero and the other one to $q ^ { 2 }$ （20 such that no new IR divergences are accidentally created. Moreover, since all integrals are superficially logarithmically divergent, one can neglect external momenta in the numerators as convenient for maximal simplifications. We have checked that this produces the known result for the two-loop overall UV divergence of the Konishi operator when subdivergences are subtracted by considering also the corresponding counter-term diagrams. This also produces a vanishing result for the BPS operator.
+
+Table 2 - continued on next page   
+
+<html><body><table><tr><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>diagram</td></tr><tr><td>0</td><td>I</td><td>0</td><td></td><td>N</td><td>(N-</td><td></td><td></td><td>0</td><td>0</td><td>I</td><td>0</td><td>I</td><td>0</td><td>I</td><td>g4（A1 + BT）</td></tr><tr><td>I</td><td>0</td><td>1 8</td><td>0</td><td>0</td><td>c</td><td></td><td>→</td><td>I</td><td></td><td></td><td></td><td>I</td><td>a</td><td>N 中 一 7</td><td></td></tr><tr><td>(- 2k -q)·(l + p2-q)(𝑙- 2k)·(l+2 2p2）</td><td>(k+l -l)·(k +l+ 2q)(𝑙- p2)·(l + 2q- p p2)</td><td>九 2(l-k)·(l+q)t·(l+p 一 k)·l(l + p2) )(+)-2(-) (+.( .(+q) /</td><td>(l +q)²(k +l)·(𝑙- p2)</td><td>²(l+q) 乙</td><td>l²(l+q)</td><td>(l+q)²(l + p2)²</td><td>(l+ p2)²(l-2k)·(l- 2k- b</td><td>(k-l)²(l+2p2)·(l+ 2p2-q b</td><td>(k -l)²(- p2)· (l+ + 2q-p2)</td><td>(l +q)²(l-2k)·(l+ 2p2）</td><td>(l+ p2)2(k+l).(k+l+2 2q)</td><td>(k -1)²(l + P2）²</td><td>(k -1)²(l + p2)²</td><td></td><td>f(k,l）</td></tr><tr><td></td><td colspan="9">Itb</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+Continued from previous page   
+
+<html><body><table><tr><td rowspan="2">diagram</td><td colspan="2">g4(A1 + BT)</td><td>f(k,l)</td><td></td></tr><tr><td>A</td><td>B</td><td></td><td rowspan="7"></td></tr><tr><td></td><td></td><td>0</td><td>(l+ p2)²(k+l) · (k + 2q-P2)</td></tr><tr><td></td><td>32</td><td>0</td><td>(k -l)²(l-p2) ·(k +2q-P2)</td></tr><tr><td></td><td>1-2</td><td>0</td><td>(𝑙- 2k)·(l+2p2)(k-2l-p2)·(k+2q-p2) (2k-l+p2) ·(𝑙-p2)(k+l)·(k+2q-p2)</td></tr><tr><td></td><td>1</td><td>0</td><td>-(k+𝑙+2p2)·(k+l)(k+2q-p2)·(𝑙-P2) Ibt +(2l-k+p2)·(k+2q-p2)(k+l)·(𝑙-p2) 2l·(-l-p2)(k+2q-p2)·(k-l)</td></tr><tr><td></td><td>-4</td><td>0</td><td>- 2l·(k+2q-p2)(-l-p2)·(k-l) + 2l·(k-l)(k+2q-p2):(-l- p2) l²(k-p2)·(k+2q-P2)</td></tr><tr><td></td><td>-2</td><td>0</td><td>(k+p2）2(k+p2）.(k-p2）(k+p2）·(k+2q-p2）</td></tr><tr><td></td><td>-2</td><td>0</td><td>(𝑙+ p2)²(k-p2)·(k +2q-p2)</td><td rowspan="2"></td></tr><tr><td></td><td>-4</td><td>2</td><td>2l ·(l+p2)(k+q-p2)·k-2l·(k+q-p2)k·(l+ p2) + 2l · k(𝑙 + p2) ·(k+q- p2)</td></tr><tr><td></td><td>12</td><td>0</td><td>(2k +l+2q-P2)·(l-p2)(k +2l)·(k+ 2q-2p2)</td><td>Ibb</td></tr></table></body></html>
+
+Table 2: Diagrams for the unrenormalized two-loop form factors. The prefactors $g ^ { 4 } ( A \mathbb { 1 } +$ $B$ T) of each diagram consist of the identity and the trace operator in flavor space, $^ { 1 }$ and $\mathbb { T }$ ， respectively. For the BPS operator (1.2) and for the Konishi operator (1.4), the prefactors reduce to $g ^ { 4 } A$ and $g ^ { 4 } ( A + B N _ { \phi } )$ ， respectively. They multiply the corresponding integral $I _ { \mathrm { t b } }$ ， $I _ { \mathrm { b t } }$ or $I _ { \mathrm { b b } }$ ，which are given in (H.8） and contain the numerator factors $f ( k , l )$ .For all diagrams which are not symmetric under a reflection at the horizontal axis,also the corresponding reflected version has to be considered.
+
+For $p _ { 1 } ^ { 2 } = p _ { 2 } ^ { 2 } = 0$ , where the 1PI diagrams shown in table 2 are the only contributions to the form factors, it is advantageous to express the scalar products in the numerators in terms of squares of momenta found in the denominator from the propagators. Then, one can use IBP reduction as e.g. implemented in LiteRed [95] in order to further reduce the integrals to a set of master integrals. The results exactly match the ones given in (4.6). This confrms the absence of further rational terms that might not have been detected in the unitarity-based approach.
+
+# References
+
+[1] R. Britto,F. Cachazo,and B.Feng,“New recursion relations for tree amplitudes of gluons,” Nucl.Phys. B715 (2005) 499-522, arXiv:hep-th/0412308 [hep-th].   
+[2] R. Britto,F. Cachazo,B.Feng,and E. Witten,“Direct proof of tree-level recursion relation in Yang-Mils theory,” Phys.Rev.Lett. 94 (2005) 181602, arXiv:hep-th/0501052 [hep-th].   
+[3] Z. Bern, L. J. Dixon, D. C. Dunbar,and D. A. Kosower,“One loop n-point gauge theory amplitudes,unitarity and collinear limits,” Nucl.Phys.B425 (1994) 217-260, arXiv:hep-ph/9403226 [hep-ph].   
+[4] Z. Bern, L. J. Dixon, D. C. Dunbar, and D. A. Kosower,“Fusing gauge theory tree amplitudes into loop amplitudes,” Nucl.Phys. B435 (1995) 59-101, arXiv:hep-ph/9409265 [hep-ph].   
+[5] Z. Bern, L. J. Dixon,and D.A. Kosower,“On-Shell Methods in Perturbative QCD," Annals Phys.322 (2007) 1587-1634, arXiv:0704.2798 [hep-ph].   
+[6] H. Elvang and Y.-t. Huang,“Scattering Amplitudes,” arXiv:1308.1697 [hep-th].   
+[7] J. M. Henn and J. C. Plefka,“Scattering Amplitudes in Gauge Theories,” Lect.Notes Phys. 883 (2014) 1-195.   
+[8] J. M. Maldacena,“The large $N$ limit of superconformal feld theories and supergravity,” Adu. Theor. Math. Phys. 2 (1998) 231-252,arXiv:hep-th/9711200.   
+[9] S. S.Gubser, I. R. Klebanov,and A. M. Polyakov,“Gauge theory correlators from non-critical string theory,” Phys. Let. B428 (1998) 105-114, arXiv:hep-th/9802109.   
+[10] E.Witten,“Anti-de Sitter space and holography,” Adu. Theor. Math. Phys. 2 (1998) 253-291, arXiv:hep-th/9802150.   
+[11] G.'t Hooft,“A Planar Diagram Theory for Strong Interactions,” Nucl.Phys. B72 (1974) 461.   
+[12] N. Beisert et al.，“Review of AdS/CFT Integrability: An Overview,” Lett.Math.Phys. 99 (2012) 3-32,arXiv:1012.3982 [hep-th].   
+[13] W. van Neerven,“Infrared behavior of on-shell form-factors in a ${ \mathcal N } = 4$ supersymmetric Yang-Mills field theory,” Z.Phys. C30 (1986) 595.   
+[14] T.Gehrmann, J. M. Henn,and T. Huber,“The three-loop form factor in ${ \mathcal N } = 4$ super Yang-Mils,” JHEP 1203 (2012) 101, arXiv:1112.4524 [hep-th].   
+[15] R.H. Boels, B.A. Kniehl, O. V. Tarasov,and G. Yang,“Color-kinematic Duality for Form Factors,” JHEP 1302 (2013) 063,arXiv:1211.7028 [hep-th].   
+[16] A.H. Mueller,“On the Asymptotic Behavior of the Sudakov Form-factor,” Phys.Rev. D20 (1979) 2037.   
+[17] J. C. Collins,“Algorithm to Compute Corrections to the Sudakov Form-factor,” Phys.Rev. D22 (1980) 1478.   
+[18] A. Sen,“Asymptotic Behavior of the Sudakov Form-Factor in QCD,” Phys.Rev. D24 (1981) 3281.   
+[19] Z. Bern, L. J. Dixon, and V.A. Smirnov,“Iteration of planar amplitudes in maximally supersymmetric Yang-Mills theory at three loops and beyond," Phys.Rev. D72 (2005) 085001, arXiv:hep-th/0505205 [hep-th].   
+[20] A.Brandhuber,B. Spence,G. Travaglini,and G. Yang,“Form Factors in ${ \mathcal N } = 4$ Super Yang-Mills and Periodic Wilson Loops,” JHEP 1101 (2011） 134, arXiv:1011.1899 [hep-th].   
+[21] L. Bork, D. Kazakov,and G. Vartanov,“On form factors in ${ \mathcal N } = 4$ sym," JHEP1102 (2011) 063,arXiv:1011.2440 [hep-th].   
+[22] A. Brandhuber, O. Gurdogan, R. Mooney, G. Travaglini, and G. Yang,“Harmony of Super Form Factors,” JHEP 1110 (2011) 046,arXiv:1107.5067 [hep-th].   
+[23] L. Bork, D. Kazakov,and G. Vartanov,“On MHV Form Factors in Superspace for ${ \mathcal N } = 4$ SYM Theory,” JHEP 1110 (2011) 133,arXiv:1107.5551 [hep-th].   
+[24] L. Bork,“On NMHV form factors in ${ \mathcal { N } } = 4$ SYM theory from generalized unitarity," JHEP1301 (2013) 049,arXiv:1203.2596 [hep-th].   
+[25] O. T. Engelund and R. Roiban,“Correlation functions of local composite operators from generalized unitarity,” JHEP 1303 (2013) 172, arXiv:1209.0227 [hep-th].   
+[26] L. Bork,“On form factors in ${ \mathcal N } = 4$ SYM theory and polytopes,” JHEP 1412 (2014) 111, arXiv:1407.5568 [hep-th].   
+[27] A. Brandhuber, G. Travaglini, and G. Yang,“Analytic two-loop form factors in ${ \mathcal N } = 4$ （ SYM,” JHEP 1205 (2012) 082, arXiv:1201.4170 [hep-th].   
+[28] B. Penante, B. Spence, G. Travaglini, and C. Wen,“On super form factors of half-BPS operators in ${ \mathcal { N } } = 4$ super Yang-Mills,” JHEP 1404 (2014) 083, arXiv:1402.1300 [hep-th].   
+[29] A.Brandhuber,B. Penante, G. Travaglini,and C. Wen,“The last of the simple remainders," JHEP 1408 (2014) 100, arXiv:1406.1443 [hep-th].   
+[30] L. F. Alday and J. Maldacena, “Comments on gluon scattering amplitudes via AdS/CFT,” JHEP0711 (2007) 068,arXiv:0710.1060 [hep-th].   
+[31] J. Maldacena and A. Zhiboedov,“Form factors at strong coupling via a Y-system,” JHEP1011 (2010)104, arXiv:1009.1139 [hep-th].   
+[32] Z. Gao and G. Yang,“Y-system for form factors at strong coupling in $A d S _ { 5 }$ and with multi-operator insertions in $A d S _ { 3 }$ ,” JHEP 1306 (2013) 105,arXiv:1303.2668 [hep-th].   
+[33] M.Wilhelm,“Amplitudes,Form Factors and the Dilatation Operator in ${ \mathcal N } = 4$ SYM Theory,” JHEP 1502 (2015) 149, arXiv:1410.6309 [hep-th].   
+[34] T. Kinoshita,“Mass singularities of Feynman amplitudes,” J.Math.Phys. 3 (1962) 650-677.   
+[35] T. Lee and M. Nauenberg,“Degenerate Systems and Mass Singularities,” Phys.Rev. 133 (1964) B1549-B1562.   
+[36] L. Bork, D. Kazakov, G. Vartanov,and A. Zhiboedov,“Construction of Infrared Finite Observables in N = 4 Super Yang-Mills Theory,” Phys.Rev. D81 (2010) 105028, arXiv:0911.1617 [hep-th].   
+[37] C. R. Schmidt, “ $H \to g g g ( g q \bar { q } )$ at two loops in the large $M _ { t }$ limit,” Phys.Lett. B413 (1997) 391-395, arXiv:hep-ph/9707448 [hep-ph].   
+[38] D.M. Hofman and J. Maldacena,“Conformal colider physics: Energy and charge correlations,” JHEP 0805 (2008) 012,arXiv:0803.1467 [hep-th].   
+[39] A.Belitsky, S. Hohenegger, G. Korchemsky, E. Sokatchev,and A. Zhiboedov,“From
+
+correlation functions to event shapes,” Nucl.Phys. B884 (2014) 305-343,
+
+arXiv:1309.0769 [hep-th].   
+[40] A. Belitsky, S. Hohenegger, G. Korchemsky, E. Sokatchev,and A. Zhiboedov,“Event shapes in $\mathcal { N } = 4$ super-Yang-Mils theory,” Nucl.Phys. B884 (2014) 206-256, arXiv:1309.1424 [hep-th].   
+[41] L. Bianchi, V. Forini, and A.V. Kotikov,“On DIS Wilson coefficients in ${ \mathcal N } = 4$ super Yang-Mills theory,” Phys.Lett. B725 (2013) 394-401, arXiv:1304.7252 [hep-th].   
+[42] W. Siegel,“Supersymmetric Dimensional Regularization via Dimensional Reduction,” Phys. Lett. B84 (1979) 193.   
+[43] D. Capper, D. Jones,and P. van Nieuwenhuizen,“Regularization by Dimensional Reduction of Supersymmetric and Nonsupersymmetric Gauge Theories,” Nucl.Phys. B167 (1980) 479.   
+[44] W.A. Bardeen, A. Buras, D. Duke, and T. Muta,“Deep Inelastic Scattering Beyond the Leading Order in Asymptotically Free Gauge Theories,” Phys.Rev. D18 (1978) 3998.   
+[45] D.Anselmi, M. T. Grisaru,and A. Johansen,“A Critical Behaviour of Anomalous Currents, Electric- Magnetic Universality and CFT $^ 4$ ," Nucl. Phys. B491(1997) 221-248, arXiv:hep-th/9601023.   
+[46] D. Anselmi, D. Z. Freedman,M. T. Grisaru,and A.A. Johansen,“Universality of the operator product expansions of SCFT(4),” Phys. Lett. B394 (1997) 329-336, arXiv:hep-th/9608125.   
+[47] M. Bianchi, S. Kovacs,G.Rossi, and Y. S. Stanev,“On the logarithmic behavior in ${ \mathcal N } = 4$ （20 SYM theory,” JHEP 08 (1999) 020, arXiv:hep-th/9906188.   
+[48] M. Bianchi, S. Kovacs,G. Rossi, and Y. S. Stanev,“Anomalous dimensions in ${ \mathcal N } = 4$ SYM theory at order $g ^ { 4 }$ ," Nucl. Phys. B584 (2000) 216-232, arXiv:hep-th/0003203.   
+[49] B.Eden,C. Schubert,and E. Sokatchev,“Three-loop four-point correlator in ${ \mathcal { N } } = 4$ SYM," Phys.Lett. B482 (2000) 309-314, arXiv:hep-th/0003096 [hep-th].   
+[50] A.V. Kotikov, L.N. Lipatov,A.I. Onishchenko,and V. N. Velizhanin,“Three-loop universal anomalous dimension of the Wilson operators in ${ \mathcal N } = 4$ SUSY Yang-Mills model," Phys. Lett. B595 (2004) 521-529, arXiv:hep-th/0404092.   
+[51] B.Eden, C.Jarczak,and E. Sokatchev,“A three-loop test of the dilatation operator in （20 ${ \mathcal N } = 4$ SYM,” Nucl. Phys. B712 (2005) 157-195, arXiv:hep-th/0409009.   
+[52] C. Sieg,“Superspace calculation of the three-loop dilatation operator of ${ \mathcal N } = 4$ SYM theory,” Phys.Rev. D84 (2011) 045014, arXiv:1008.3351 [hep-th].   
+[53] F.Fiamberti, A. Santambrogio, C. Sieg,and D. Zanon,“Wrapping at four loops in ${ \mathcal { N } } = 4$ （20 SYM,” Phys.Lett. B666 (2008) 100-105,arXiv:0712.3522 [hep-th].   
+[54] F. Fiamberti, A. Santambrogio, C. Sieg, and D. Zanon,“Anomalous dimension with wrapping at four loops in ${ \mathcal N } = 4$ SYM,” Nucl. Phys. B805 (2008) 231-266, arXiv:0806.2095 [hep-th].   
+[55] V. Velizhanin,“The four-loop anomalous dimension of the Konishi operator in ${ \mathcal N } = 4$ supersymmetric Yang-Mills theory,” JETP Lett. 89 (2009) 6-9, arXiv:0808.3832 [hep-th].   
+[56] Z. Bajnok and R. A. Janik,“Four-loop perturbative Konishi from strings and finite size effects for multiparticle states,” Nucl. Phys. B807 (2009) 625-650, arXiv:0807.0399 [hep-th].   
+[57] Z. Bajnok,A. Hegedus, R. A. Janik,and T. Lukowski,“Five-loop Konishi from AdS/CFT, Nucl. Phys. B827 (2010) 426-456, arXiv:0906.4062 [hep-th].   
+[58] G. Arutyunov, S. Frolov,and R. Suzuki,“Five-loop Konishi from the Mirror TBA,” JHEP 04 (2010) 069,arXiv:1002.1711 [hep-th].   
+[59] J.Balog and A. Hegedus,“5-loop Konishi from linearized TBA and the XXX magnet,” JHEP06(2010) 080,arXiv:1002.4142 [hep-th].   
+[60] B.Eden,P. Heslop,G.P. Korchemsky,V.A. Smirnov,and E. Sokatchev,“Five-loop Konisl in ${ \mathcal N } = 4$ SYM,” Nucl.Phys.B862 (2012) 123-166, arXiv:1202.5733 [hep-th].   
+[61] S.Leurent,D. Serban,and D. Volin,“Six-loop Konishi anomalous dimension from the Y-system,” Phys.Rev.Lett.109 (2012) 241601, arXiv:1209.0749 [hep-th].   
+[62] Z. Bajnok and R.A. Janik,“Six- and seven-loop Konishi from Lüscher corrections,” JHEP1211 (2012) 002, arXiv:1209.0791 [hep-th].   
+[63] S.Leurent and D. Volin,“Multiple zeta functions and double wrapping in planar ${ \mathcal N } = 4$ （204号 SYM,” Nucl.Phys. B875 (2013) 757-789, arXiv:1302.1135 [hep-th].   
+[64] D. Volin,“Quantum spectral curve for AdS $^ { 5 }$ /CFT $_ 4$ spectral problem.” Talk given at Integrability in Gauge and String Theory (IGST) 2013.   
+[65] V. Nair,“A Current Algebra for Some Gauge Theory Amplitudes," Phys.Lett. B214 (1988) 215.   
+[66] S. Penati and A. Santambrogio,“Superspace approach to anomalous dimensions in ${ \mathcal N } = 4$ （204号 SYM,” Nucl. Phys. B614 (2001) 367-387, arXiv:hep-th/0107071.   
+[67] M. L. Mangano and S. J. Parke,“Multiparton amplitudes in gauge theories,” Phys.Rept. 200 (1991) 301-367, arXiv:hep-th/0509223 [hep-th].   
+[68] E. Witten，“Perturbative gauge theory as a string theory in twistor space," Commun.Math.Phys. 252 (2004) 189-258, arXiv:hep-th/0312171 [hep-th].   
+[69] Z. Bern, L. J. Dixon, and D. A. Kosower,“Progress in one-loop QCD computations,” Ann.Rev.Nucl.Part.Sci. 46 (1996) 109-148, arXiv:hep-ph/9602280 [hep-ph].   
+[70] C. Sieg and A. Torrielli,“Wrapping interactions and the genus expansion of the 2-point function of composite operators,” Nucl.Phys. B723 (2005) 3-32, arXiv:hep-th/0505071 [hep-th].   
+[71] C. Boucher-Veronneau, L. Dixon, and J. Pennington, Unpublished notes.   
+[72] R. Britto,F. Cachazo,and B. Feng,“Generalized unitarity and one-loop amplitudes in ${ \mathcal N } = 4$ super-Yang-Mills,” Nucl.Phys.B725 (2005) 275-305, arXiv:hep-th/0412103 [hep-th].   
+[73] D. Forde,“Direct extraction of one-loop integral coeffcients,” Phys.Rev. D75 (2007) 12501: arXiv:0704.1835 [hep-ph].   
+[74] J.C. Collins, Renormalization. An introduction to renormalization, the renormalization group, and the operator product expansion. Cambridge University Press, 1984.   
+[75] G.'t Hooft and M. Veltman, “Regularization and Renormalization of Gauge Fields,” Nucl.Phys. B44 (1972) 189-213.   
+[76] Z. Bern and D. A. Kosower,“The Computation of loop amplitudes in gauge theories,” Nucl.Phys. B379 (1992) 451-561.   
+[77] Z. Bern, A. De Freitas, L. J. Dixon, and H. Wong,“Supersymmetric regularization, two-loop QCD amplitudes and coupling shifts,” Phys.Rev. D66 (2002) 085002, arXiv:hep-ph/0202271 [hep-ph].   
+[78] A. J. Buras and P. H. Weisz,“QCD Nonleading Corrections to Weak Decays in Dimensional Regularization and 't Hooft-Veltman Schemes,” Nucl.Phys. B333 (1990) 66.   
+[79] W. Siegel, “Inconsistency of Supersymmetric Dimensional Regularization,” Phys. Lett. B94 (1980) 37.   
+[80] L.Avdeev, G. Chochia,and A. Vladimirov,“On the Scope of Supersymmetric Dimensional Regularization,” Phys.Lett. B105 (1981) 272.   
+[81] L. Avdeev,“Noninvariance of Regularization by Dimensional Reduction: An Explicit Example of Supersymmetry Breaking,” Phys.Lett. B117 (1982) 317.   
+[82] L. Avdeev and A. Vladimirov,“Dimensional Regularization and Supersymmetry,” Nucl.Phys. B219 (1983) 262.   
+[83] S. S. Gubser and I. R. Klebanov,“Absorption by branes and Schwinger terms in the world volume theory,” Phys.Let B413 (1997) 41-48, arXiv:hep-th/9708005 [hep-th].   
+[84] D.Anselmi, D. Freedman, M. T.Grisaru,and A. Johansen,“Nonperturbative formulas for central functions of supersymmetric gauge theories,” Nucl.Phys. B526 (1998) 543-571, arXiv:hep-th/9708042 [hep-th].   
+[85] W. van Neerven,“Dimensional Regularization of Mass and Infrared Singularities in Two-Loop On-shell Vertex Functions,” Nucl.Phys. B268 (1986) 453.   
+[86] O. Aharony, O. Bergman, D. L. Jafferis,and J. Maldacena,‘ $\mathcal { N } = 6$ superconformal Chern-Simons-matter theories,M2-branes and their gravity duals,” JHEP 10 (2008) 091, arXiv:0806.1218 [hep-th].   
+[87] A. Brandhuber,O. Gurdogan, D. Korres,R. Mooney, and G. Travaglini,“Two-loop Sudakov Form Factor in ABJM,” JHEP 1311 (2013) 022, arXiv:1305.2421 [hep-th].   
+[88] D. Young,“Form Factors of Chiral Primary Operators at Two Loops in ABJ(M),” JHEP 1306 (2013) 049,arXiv:1305.2422 [hep-th].   
+[89] M. S. Bianchi, M. Leoni, M. Leoni, A. Mauri, S. Penati, and A. Santambrogio,“ABJM amplitudes and WL at finite $N$ ,” JHEP 1309 (2013) 114, arXiv:1306.3243 [hep-th].   
+[90] L.Bianchi and M. S.Bianchi,“Non-planarity through unitarity in ABJM," Phys.Rev. D89 (2014) 125002, arXiv:1311.6464 [hep-th].   
+[91] G.'t Hooft,“Dimensional regularization and the renormalization group,"” Nucl.Phys. B61 (1973) 455-468.   
+[92] Z. Bern and G. Chalmers,“Factorization in one-loop gauge theory,” Nucl.Phys. B447 (1995) 465-518, arXiv:hep-ph/9503236 [hep-ph].   
+[93] C.Anastasiou,E. N. Glover,and C. Oleari,“Application of the negative dimension approach to massless scalar box integrals,” Nucl.Phys. B565 (2000) 445-467, arXiv:hep-ph/9907523 [hep-ph].   
+[94] V.A. Smirnov,“Evaluating Feynman integrals,” Springer Tracts Mod.Phys. 211 (2004) 1-244.   
+[95] R. Lee,“Presenting LiteRed: a tool for the Loop InTEgrals REDuction,” arXiv:1212.2685 [hep-ph].   
+[96] T.Gehrmann, T. Huber,and D.Maitre,“Two-loop quark and gluon form-factors in dimensional regularisation,” Phys.Lett. B622 (2005) 295-302, arXiv:hep-ph/0507061 [hep-ph].   
+[97] G.Passarino and M.Veltman，“One-Loop Corrections for $e ^ { + } e ^ { - }$ Annihilation Into $\mu ^ { + } \mu ^ { - }$ in the Weinberg Model,” Nucl.Phys.B160 (1979) 151.   
+[98] Z. Xiao, G. Yang,and C.-J. Zhu,“The Rational Part of QCD Amplitudes. I. The General Formalism,” Nucl.Phys. B758 (2006) 1-34, arXiv:hep-ph/0607015 [hep-ph].   
+[99]J.Fokken,C.Sieg，and M.Wilhelm，“Non-conformality of $\gamma _ { i }$ -deformed ${ \mathcal N } = 4$ SYM theory," J.Phys. A47 no. 45, (2014) 455401, arXiv:1308.4420 [hep-th].

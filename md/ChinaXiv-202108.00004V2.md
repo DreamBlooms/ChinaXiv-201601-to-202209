@@ -1,0 +1,197 @@
+# 语言产生中词频效应老化的神经基础与时间进程
+
+章丽娜 宣宾
+
+(安徽师范大学教育科学学院，芜湖241000)
+
+摘 要词频效应指语言产生中人们对高频词汇的加工比低频词汇更快更准确的一种现象，它可能发生在语言产生中的不同阶段。对青年人和老年人词频效应上的不同特点和加工机制进行比较，可以考察语言产生中的认知老化机制。通过语言产生理论可对词频效应的老化进行预测，提出词频效应在个体发展和老化阶段的相对稳定性，分析老化导致词频效应相关的神经基础和加工时间进程的改变。未来研究可进一步分离词频效应与习得年龄效应对语言产生老化的影响，并扩展至神经退行性疾病患者中。
+
+关键词 语言产生，词频效应，老化，时间进程，神经机制
+
+# 1引言
+
+在日常生活中，我们会基于心理词典来判断词的熟悉度。对于“熟悉"词，我们总是一眼就能识别出来、快速地对这个词的读音和意义进行加工，对于“生僻"词却很难进行识别与提取，这种现象与词频效应密切相关。词频效应是指人们对高频词汇的命名或书写要比低频词汇更快、更准确的一种现象(Strijkers et al.,2010; Brysbaert et al.,2018)，在语言理解和语言产生等多个领域分别得到证实(高晓雷 等,2020;Liu et al.,2019;Gertel et al.,2020;Wang &Zhang,2021)，并且效应相对稳定。王晓彤（2015）的研究发现，阅读中的词频效应在无意识阅读中可能不存在或者很微弱，并且阅读中词频效应随年龄增加而改变，老年人的词频效应比青年人更大（Whitford& Titone,2017;Wang et al.,2018b; Li et al.,2019）。但语言产生中的词频效应与阅读中的研究结果差异较大。首先，目前大多数研究表明语言产生中的词频效应是稳定存在的，在图片命名、图词干扰等经典语言产生任务中都发现了稳定的词频效应(杨群，张清芳,2015,2019;Gertel etal.,2020)。其次，语言产生中词频效应的老化研究结果存在差异。有研究报告老年人的词频效应比青年人更大(何洁莹，张清芳,2017；杨群，张清芳,2015; Balota &Ferraro,1993,1996; Gollan et al.,2008; Qu et al.,2016)，也有研究发现老年人与青年人不存在差异甚至更小(Allen et al.,1993; Newman& German,2005; Cohenshikora,2015)。语言产生中词频效应是否存在年龄差异，词频效应的老化与哪些因素相关，在认知加工进程和神经基础上，老年人与青年人存在哪些差别，这些问题还需要进一步探明。因此，深入探究语言产生中的词频效应，有利于理解语言产生的老化效应，也利于加深对认知老化机制的理解。
+
+语言产生就是将头脑中的思想转换成可以大声说出或书写下来的单词或句子的心理过程，包括口语产生和书写产生(杨玉芳,2015；张清芳,2019;Dell&Jacobs,2016)。在语言产生研究领域，已有研究表明随着个体的老化，老年人经常报告词汇检索困难(Shafto& Tyler,2014)，语言产生障碍也逐渐增加，对低频词的产生尤为困难。最近一项研究发现老年人和青年人在命名低频词时存在差异：与青年人相比，老年人命名低频词时准确率更低，语言区（脑岛）和认知控制区（扣带回）等脑区的激活程度也更低(Gerteletal.,2020)，这表明语言产生中的词频效应的确出现老化现象，并且有其对应的神经基础。在此基础上进一步从行为和神经基础两个方面探究老年人语言产生的词频效应的变化，便于理清老年群体语言产生变化的具体原因机制以及对应的神经机制参与情况。而其中最重要和最具有争议的两个问题就是，语言产生中词频效应老化的特点和神经基础是什么，老年人加工不同频率词汇的时间进程是否发生改变。
+
+本文将综述语言产生中词频效应的认知年老化特点和时间进程，探讨年龄与词频在语言产生中的交互影响，分析词频效应的老化机制，以便更加深入理解语言产生中的词频效应，为老年人词频效应的改变提供理论和证据支持。
+
+# 2词频效应的认知年老化
+
+# 2.1视觉单词识别模型对词频效应认知年老化的预测
+
+词频效应在成年后随年龄增长如何变化，一直都是研究者关注的问题。如表1所示，几乎所有的视觉单词识别模型都考虑到了词频效应，并对词频效应随年龄发生的变化做出了预测。
+
+# 2.1.1 传递缺陷模型（Transmission deficits hypothesis）
+
+传递缺陷模型认为语言信息存储在一个由相互连接的节点组成的庞大网络中，这些节点被组织成语义系统以及语音和正字法系统，语义系统用来表示词义；语音和正字法系统用来表示词音和拼写，而老化削弱了节点之间的连接，导致整个词汇系统中的传递减弱。Burke和 Shafto（2004）的传递缺陷模型解释了语言产生的某些表现随着年龄的增长而下降，包括词汇检索速度减慢(Hardy et al.,2018)、言语停顿增加(Ross& Diaz,2016)以及词汇检索失败增加，如舌尖效应(Lee＆ Choi,2016; James et al.,2018)等；而语义过程却能得到很好的维持(Diaz etal.,2018)。他们还发现在词汇产出和检索上，老年人比青年人的错误率更高，尤其是对于低频词的检索，老年人更容易出现检索失败的情况。Rizio等人（2017）的研究也发现了频繁使用和最近使用的高频词保持较强的连接，有助于检索，而低频词因为不常使用或近期未使用容易受到传递缺陷的影响导致连接减弱，从而影响产出和检索。因此，传递缺陷模型预测老年人比青年人的词频效应更大。
+
+# 2.1.2 秩频理论(The Rank Frequency Account)
+
+秩频理论将词汇组织成频率有序的存储单元，该理论假设用一个词的相对频率来确定该词在频谱中的位置或搜索路径，高频词被定位在序列的起始位置，低频词则被定位在序列的结尾位置。按照这种理论，无论经过多少次练习，只要相对频率不发生变化，词频效应的大小就不会有变化。因此，秩频理论预测无论年龄如何变化，单词的相对频率是不会随着接触单词次数的增加而发生改变的，也是就是说词频效应在不同年龄组中是不存在差异的，即青年人与老年人的词频效应是相当的。Murray 和Forster（2004）的研究为这一理论预测提供了证据，他们认为词频效应是具有年龄恒常性的，不会因为接触次数和频率的增多而发生改变，并且词频效应与绝对频率是毫无关系的，即使所有单词的绝对频率在稳步增长，高频词和低频词的搜索时间差异依旧保持不变。
+
+# 2.1.3 Logogen 模型
+
+Logogen 模型认为随着经验和接触的增加，低频词慢慢转变成高频词，其反应时间和检索速度也相应变得跟高频词类似。因此，在不考虑其他年龄相关因素的情况下，该模型预测词频效应随着年龄的增加而减小。Morton 和John（1969）认为，Logogen 模型中单词检测器的阈值会随着单词的暴露程度而降低，所以相较于低频词，高频词的检测器需要较少的检索就可达到阈限。但是随着练习和接触，对低频词的单词检测器阈值就会降低，与高频词一样，低频词不需要较多的检索就可达到阈值。故而随着年龄的增长，低频词的检索变得相对容易，老年人的词频效应相对也更小。
+
+表1不同理论模型对词频效应认知老化的预测  
+
+<html><body><table><tr><td>模型</td><td>主要观点</td><td>对老化效应的预测</td></tr><tr><td>传递缺陷假说</td><td>老化削弱了存储语言信息的节点之间的连接，导致</td><td>词频效应增加</td></tr><tr><td>（Burke& Shafto,2004）</td><td>整个词汇系统中的传递减弱</td><td></td></tr><tr><td>秩频理论</td><td>每个单词在频谱中有其固定的相对频率，只要相对</td><td>词频效应不变</td></tr><tr><td>(Murray&Forster,2004)</td><td>频率不发生改变，词频效应就不会变化</td><td></td></tr><tr><td>Logogen 模型 (Morton&John,1969)</td><td>词频会随着经验和接触的增加而增加</td><td>词频效应减少</td></tr></table></body></html>
+
+# 2.2 词频效应的老化特征
+
+对应上述理论的不同预测结果，研究者对年龄相关的词频效应的研究结果也不尽一致。一些研究发现随着年龄的增长，老年人比青年人表现出更大的词频效应(杨群，张清芳,2015;何洁莹，张清芳,2017; Whitford & Titone,2017; Warrington et al.,2018; Liu et al.,2020)，还有一些研究发现老年人与青年人的词频效应没有差别(Allen etal.,1993;Newman&German,2005;Wang et al.,2018a)，而只有极少数研究表明青年人的词频效应更大(Gollan et al.,2008)。对词频效应的老化研究大多只涉及单个任务，例如单独的图片命名任务或者词汇判断任务，在这两类任务中都发现了显著的词频效应以及老年人词频效应的变化情况，然而同时采用多个任务可能更有利于探索老年人的词频效应的改变。Balota 等人（2004）使用了超过 2800个单词的图片命名任务和词汇判断任务来考察青年人和老年人的词频效应，结果发现，在图片命名任务上，老年人的反应时更长，表现出更大的词频效应；而在词汇判断任务中则相反，青年人的反应时更长，词频效应也更大。Cohenshikora（2015）采用了图片命名任务、词汇判断任务和语义分类任务考察词频效应的老化，发现在图片命名任务中，随着年龄的增长，高频词的准确率越来越低，词频效应呈增长趋势；而在语义分类和词汇判断任务中，随着年龄的增长，高频词的准确率逐渐升高，词频效应呈下降趋势。
+
+对这些研究的分析表明，任务的差异、研究刺激的选择和认知差异等一些因素都可能影响了词频效应。老年人在不同任务中表现出的词频效应有较大的差异，因此采用多任务研究时可以更清晰地观察到其中的差异及其可能的原因。图片命名任务通常可以看到词频对青年人与老年人在词汇搜索和语言产生的影响，词汇判断任务通常可以观察到两者在词汇识别和理解中的改变，通过多任务研究可以考察青年人和老年人在整个语言加工中的词频效应的变化和差异情况。但即使是相同的任务，实验中选择的不同刺激材料仍可能进一步调节词频效应，也就是说，不同研究中选择的图片库和语料库千差万别，并且在不同语言的词典中，高低频词的频度范围也有非常大的差异，因此对研究结果可能造成一定的影响与差异。例如，Spieler 和Balota（2000）以及Newman 和German（2005）这两项研究都使用了图片命名任务，前者采用的是Plaut等人（1996）提出的训练语料库（The training corpus），其单词的词频从 $0 { \sim } 6 8 2 4 6$ 不等，单词的长度从两个字母到七个字母不等，研究结果表明词频效应随着年龄的增长而逐渐增加；后者采用的是青少年/成年人词汇查找测试（The test of adolescent/adult word finding，TAWF），结果表明词频效应随着年龄的增长而逐渐减小。此外，认知能力差异也会影响词频效应的变化。首先，Cohenshikora（2015）的研究发现青年人与老年人的视觉认知差异会导致词频效应的变化。该研究表明随着年龄的增长，视觉认知能力会逐渐下降(Cynthia,2016;Zang et al.,2016)，老年人需要更多的认知努力来识别视觉信息，结果发现青年人和老年人的视觉差异导致了年龄和词频之间的显著相关，即随着年龄增长，视觉认知能力下降，词频效应也会减小，提示视觉认知能力下降可能有助于调节词频效应，但这一结果仍需要未来更多直接证据的支持。其次，Verhaeghen（2003）的研究还发现语言加工能力差异也会导致词频效应的变化。该研究显示老年人的语言加工能力（如词汇量水平）高于青年人，其词频效应却随着年龄的增长而减小，提示语言加工能力可能有助于词频效应的调节。
+
+总之，语言产生中词频效应的老化可能因为任务差异、刺激选择差异和认知能力差异所导致的，但毋庸置疑的是，词频效应在健康成年人的整个生命周期内都是稳定存在的，与高频词相比，青年人和老年人都更难命名低频词，未来需要进一步探索的是上述因素如何影响词频效应的年龄差异。
+
+# 3语言产生中词频效应老化的神经基础
+
+# 3.1 低频词加工的老化机制
+
+尽管青年人与老年人都在语言产生中表现出较为稳定的词频效应，但其神经基础和时间加工进程可能随着年龄的增长而有所变化。对青年人口语产生中词频效应的研究发现，低频词在左额下回、左后颞上回、左侧梭状回以及左侧前扣带回皮层比高频词诱发了更高水平的激活，却并未找到高频词的激活水平高于低频词的任何脑区(Chee et al.,2003;Graves et al.,2007)。还有研究探讨了书写产生中词频效应的神经基础(Chen et al.,2016;Yang et al.,2018;Yang etal.,2019)，结果表明书写低频词比书写高频词在左侧额下回、梭状回和枕中回等区域都诱发了更高水平的激活，激活的脑区也更多，包括双侧额中回、额下回、上顶叶和下顶叶等。这提示在语言产生领域，低频词的检索需要更多的努力，消耗更多的认知资源，并且低频词在左侧额下回、梭状回、颞上回、前扣带回和枕中回区域比高频词有更高的激活水平;而高频词的产出则不需要消耗太多认知资源，其脑区激活水平相对较低。
+
+已有研究还探讨了高低频词激活脑区的特异性(Wilson et al.,2010;Malutina et al.,2012;Vlasova etal.,2013)。Vlasova等人采用 fMRI技术和图片命名任务，考察了16 名青年人词频效应的神经机制，结果显示检索低频词激活的脑区更多，并且检索低频词比高频词在前扣带回皮层更活跃，说明了低频词的检索需要更多认知控制脑区的参与。Malutina等人还发现高低频词都有其特定的激活脑区，他们采用了动作图片命名任务，结果显示命名高频词主要激活了与视觉处理相关的脑区（双侧枕叶和眶额皮层等），高频词与操作的熟悉程度相关，会自动唤起更多的语义关联和视觉表征；而命名低频词主要激活了与认知控制相关的脑区（双侧前扣带回皮层、额下回、前辅助运动区等），这是因为低频词的熟悉程度低，在心理词汇中不容易被检索到，需要更多认知控制进行有意识的检索。这两项研究得到不一致的结果可能是因为名词表达通常是对某一客体的指代，而动词表达会涉及与其相关的其他概念，它相较于名词更复杂(娄昊 等,2019;Feng etal.,2020; Bayram et al.,2021)，相应的两者神经基础也存在差异：在动作图片命名任务下，高频词也会激活特定的脑区；而名词任务中，只有低频词呈现出特定脑区的激活。因此，未来采用图片命名任务考察语言产生中词频效应的神经机制研究，需要严格控制单词的词性，进一步探索高低词频激活的脑区特异性情况。
+
+最近一项研究采用fMRI技术考察了老年人和青年人图片命名中词频效应的神经基础(Gerteletal.,2020)，他们发现从行为表现上来看，青年人与老年人都表现出词频效应，其中低频词的命名准确率都较低，但高频词没有太大差异，表明词频效应稳定存在于健康成年人的不同发展阶段。这项研究还发现老年人和青年人具有不同的神经词频效应，，两组被试对高频词的激活水平类似，但是老年人在低频词的条件下，随着词汇需求的增加，双侧脑岛、前扣带回皮层和双侧额上回的参与程度较少。已有研究发现双侧脑岛参与了语言产生的发音控制和协调(Oh etal.,2014)，前扣带回和双侧额上回通常分别参与了抑制控制和语音产生过程(Scott,2017; Thothathiri et al.,2017; Meekings & Scott2020; Yuan et al.,2021)，因此，在命名低频词时，虽然青年人和老年人都表现出准确率较低和反应时间较长的情况，但是老年人语言区和认知控制区的激活较少。Rizio等人（2017）探讨了图词干扰任务下年龄相关的差异，研究结果同样表明青年人和老年人在高频词下的脑区激活没有差异，但在低频词下差异较大，表现为青年人在扣带回皮层、梭状回以及颞上回和颞中回等涉及语音、语义处理区域的激活程度较高，却没有发现老年人在这些区域的明显激活。这一结果与以往采用图词干扰任务的研究是一致的(Abeletal.,2012;Diaz et al.,2014)，提示低频词条件下青年人在脑岛、扣带回皮层、颞上回、颞中回和梭状回表现出比老年人更高的激活水平。
+
+目前的研究表明老年人与青年人在行为表现和神经机制层面上都表现出检索高频词时没有明显差异，但是他们在加工低频词时存在年龄差异，即青年人的准确率更高，在一些语言区（如脑岛、颞中回等）和认知控制区（如扣带回皮层等）的激活水平也更高，而老年人的准确率以及这些区域激活水平都较低，但这一结论仍需要未来研究中更多直接证据的支持。此外，未来的研究可以采用 tDCS或MEG 等技术来探讨词频效应中的老化和语言区、认知控制脑区的相互关系，以进一步理解语言产生的老化机制。
+
+# 3.2 语言产生中词频效应的时间进程研究
+
+词频效应主要发生在语言产生的哪个加工阶段，口语产生和书写产生是否有所不同，这个加工进程是否随年龄增加而发生改变？这是词频效应研究中另一个值得关注的问题，借助事件相关电位等技术方法，研究者们对词频效应发生的具体时间进程及其年龄差异展开了进一步的探索。
+
+# 3.2.1 □语产生中词频效应的时间进程研究
+
+一般认为口语产生过程主要包括概念准备、词汇选择、单词形式编码或音韵编码、音节化、语音编码和发音六个阶段(Levelt etal.,1999)。如图1所示，研究者们普遍认为口语产生中的词频效应可能发生在其中的三个阶段：词汇选择阶段(Jescheniak etal.,2003;Almeida etal.,2007; Strijkers etal.,2010)、词汇选择和单词形式编码的联系阶段(Bonin&Fayol,2002)以及单词形式编码阶段(Jescheniak et al.,2003;Kandel et al.,2006; Almeida et al.,2007)，但其具体的时间进程仍存在一定的争议。
+
+![](images/1dcc167c2c1e8e57665fb1c90e25117812bfe745a9f73b4e5120bea10a43f4a5.jpg)  
+图1口语产生中词频效应的发生阶段
+
+先前的研究表明口语产生的每个阶段具体的时间进程如表2所示(Indefrey&Levelt,2004;Indefrey,2011)。Strijkers 等人（2012）在图片命名任务中运用 ERP 技术来考察青年人的词频效应，研究发现在命名过程中，低频词诱发的事件相关脑电位早在刺激出现后152ms就开始与高频词产生分化，而对口语产生时间进程的元分析表明词汇选择阶段发生在图片呈现后的 $1 5 0 \mathrm { m s }$ 到 $2 7 5 \mathrm { m s }$ 之间(Indefrey&Levelt, 2004; Indefrey,2011)，这说明了词频效应在词汇选择阶段已经出现，与之前的研究结果是一致的(Strijkers etal.,2010)。何洁莹和张清芳（2017）采用图片命名任务考察青年人和老年人口语产生和书写产生中的词频效应，结果表明老年人口语产生中的词频效应在图片呈现后 $2 5 0 \mathrm { { m s } }$ 附近出现，虽晚于青年人，但是仍处于词汇选择阶段。Almeida等人（2007）调查了48名大学生的图片命名中词频效应的时间进程，他们通过操纵反应不确定性和反应延迟两个因素，设置了三种实验任务：图片再认任务、图片（即时）命名任务和延迟命名任务，发现只在图片命名任务中发现了显著的词频效应。已有研究表明图片再认任务主要涉及的是口语产生中的概念准备阶段，延迟命名任务主要涉及口语产生中的语音编码和发音阶段(Indefrey,2011)，而在图片再认和延迟命名任务中都未发现词频效应的存在，也就是说，词频效应并不发生在概念准备、语音编码和发音阶段，提示口语产生中的词频效应发生在词汇选择和单词形式编码阶段。但是目前还没有进一步证据证明老年人口语产生中的词频效应也发生在单词形式编码阶段。
+
+表2口语产生各阶段的开始时间和加工持续时间  
+
+<html><body><table><tr><td>阶段</td><td>开始时间/ms</td><td>加工持续时间/ms</td></tr><tr><td>概念准备</td><td>0</td><td>0～150</td></tr><tr><td>词汇选择</td><td>150</td><td>150~275</td></tr><tr><td>单词形式编码/音韵编码</td><td>275</td><td>275~355</td></tr><tr><td>音节化</td><td>355</td><td>355~455</td></tr><tr><td>语音编码</td><td>455</td><td>455~600</td></tr><tr><td>发音</td><td>600</td><td>/</td></tr></table></body></html>
+
+注：改编自 Indefrey,P.(2011).The Spatial and Temporal Signatures of Word Production Components: A Critical Update.
+
+词汇选择和单词形式编码是词汇通达即词汇化过程的两个阶段，这一过程主要是将头脑中的概念转换成具体的单词表征并进一步转化成声音(张清芳，杨玉芳,2003)。目前研究提示，词频效应主要发生于词汇通达过程，作为词汇通达的一个重要的特征，可能定位在词汇选择阶段和单词形式编码阶段。而对于老年人来说，随着年龄的增加和一般认知能力衰退，词频效应的时间进程略有延后，但仍可归于词汇通达过程，但这一结论仍需要未来更多研究的进一步验证与支持。
+
+# 3.2.2书写产生中词频效应的时间进程研究
+
+对于语言产生领域，人们往往更加倾向于关注口语产生过程，而对书写产生过程的研究较少。目前关于书写产生中词频效应的时间进程主要有两大理论争议：语音中介假说和正字法自主性假说。前者认为书写产生依赖于先前词汇音韵信息的提取，也就是说书写产生中词频效应的时间进程发生在单词形式编码阶段(何洁莹，张清芳,2017)；后者认为书写过程中的正字法信息是直接从词汇的语义表征中激活得到的，也就是说书写产生中词频效应的时间进程发生在正字法阶段（Wang&Zhang,2021）。
+
+研究者们普遍认为书写产生过程的认知机制与口语产生过程是类似的。就词频效应而言，语音中介假说认为，词频效应的时间进程应与口语产出相同，即书写产生中的词频效应也发生于词汇通达过程。Perret 和Laganaro（2012）采用 ERP 技术比较了口语产生和书写产生中词频效应的时间进程，结果表明口语产生和书写产生均在图片呈现后的260ms 左右出现了高低频词汇的分离，提示二者可能共享概念准备和词汇选择加工。Qu等人（2016)调查了书写产生中词频效应的时间进程，22名青年人写出不同词频的目标对象名称，并测量书面命名次数和事件相关电位，ERP 结果显示高频词和低频词引起的电生理活动早在图片出现后 $1 6 8 \mathrm { m s }$ 就开始分化，提示书写中的词频效应也发生在词汇选择阶段，这与之前的研究结果一致(王成,2015)。在书写产生过程中，与青年人相比，老年人存在更多提笔忘字的现象，产生更多的拼写错误，故而老年人词频效应的时间进程与青年人存在差异，即老年人的词频效应出现延迟。何洁莹和张清芳（2017）采用图片命名范式和ERP技术考察了老年人书写产生中词频效应的时间进程，发现老年人书写产生中存在词频效应，表现为书写低频词比书写高频词长约 $2 7 \mathrm { m s }$ ，ERP研究结果显示老年人词频效应出现在图片呈现后的$2 1 2 \mathrm { m s }$ ，比青年人词频效应出现略有延后(王成,2015;Qu etal.,2016)，但他们发现分别具有高低词频的同音词的命名潜伏期存在差异，高频同音词命名潜伏期短于低频同音词，研究结果认为书写产生不依赖先前语音信息的提取，不支持词频效应来源于语音单词形式编码阶段的假说，因此他们认为老年人书写产生中词频效应的时间进程更有可能来源于正字法单词形式阶段，验证了正字法自主性假设。
+
+Baus 等人（2013）运用ERP技术探讨了打字过程中词频效应的时间进程，20名大学生被要求为给定的图片输出相应的名称,ERP结果显示在图片出现后约 $3 5 0 \mathrm { m s }$ ，也就是在 $3 3 0 \mathrm { m s }$ 到 $4 3 0 \mathrm { m s }$ 之间的时间窗口内出现词频效应，与直接书写相比，打字出现的词频效应更晚。已有研究表明 $3 0 0 \mathrm { m s }$ 后的效应一般被认为是正字法的指标(Indefrey&Levelt,2004)，这验证了正字法自主性假设，即可以直接从语义规范中获取正字法表征，词频效应最有可能的源头是正字法阶段。但是相关的老年人研究目前还没有，未来研究可以着手探讨老年人打字过程中词频效应的时间进程以及与青年人的差异，打字与书写产生两者词频效应的差异是源于词汇获取时间、正字法加工、词汇输出形式还是单纯源于熟练程度的差异。
+
+# 4总结与展望
+
+词频效应广泛存在于人类的语言认知加工中，通过图片命名、图词干扰、词汇和语义判断以及词汇书写等研究范式，研究者们探讨了词频效应的神经基础和加工的时间进程，目前对语言产生中词频效应的老化研究还相当缺乏，研究范式也多采用图片命名任务等较为单一的范式(何洁莹，张清芳,2017; Malutina et al.,2012; Vlasova et al.,2013; Gertel et al.,2020)。未来研究可以探究不同语言产生范式中的词频效应的年龄差异，以及这些差异具体的神经机制和时间进程。
+
+除了词频效应在不同年龄中的差异，一些研究也涉及到词频效应在特殊群体中的改变，例如精神分裂症(Juhasz et al.,2012; Fernandez et al.,2016)和阿尔茨海默症 (Beber et al.,2015;White et al.,2016; Shin et al.,2017; Ostrand & Gunstad,2020） 等患者。Juhasz 等人（2012）研究了14 例精神分裂症患者和14 例健康对照组（年龄、性别和词汇得分匹配）在语言流畅性（包括字母流畅性和语义流畅性）任务上的表现，在语言流畅性任务中被试需要在给定时间内尽可能多地产生符合特定类别的单词或句子,结果表明精神分裂症患者比健康对照组产生的单词更少，并且在字母流畅性和语义流畅性任务中，精神分裂症患者的词频与健康对照组的词频没有差异，但这一结果仍需要未来更多直接证据的支持。Beber等人（2015）比较轻度、中度阿尔茨海默症患者和健康老年人动词命名中的词频效应，结果表明对于患者来说，名词图片命名的速度比动作图片更快，错误率更少(Feng et al.,2020;Bayram et al.,2021)，研究还发现阿尔茨海默症患者不仅在名词命名中存在词频效应，动词命名中也存在显著的词频效应，表现为命名低频词比中高频词更困难。这个结果提示词频效应是否可作为一个敏感的指标应用于阿尔茨海默症患者的早期检测和诊断，还需要未来研究提供更多直接证据的支持。
+
+值得注意的是，近年来研究者们关注的习得年龄（Age of acquisition，AoA）需要和词频相区别。习得年龄是指个体以口语或书面语的形式接触某个词汇并且理解其意义的年龄，通常也叫作获得年龄。习得年龄效应是指生命早期习得的词汇比生命晚期习得的词汇检索和加工更容易，速度也更快，它也被认为在词汇加工中有重要影响(Bakhtiar et al.,2016;Elsherifet al.,2019;Xu etal.,2020)。研究者们利用图片命名等任务进行的研究表明，两者共同作用影响词汇加工的过程(Catling et al.,2010; Catling et al.,2013)，提示某些词频效应可能掺杂了习得年龄效应的影响。但是也有一些研究报告了词频效应和习得年龄效应之间的分离，即在语言产生中两者都存在，但是没有交互作用，习得年龄和词频作用于词汇加工的不同阶段：习得年龄影响词汇的视觉和语义处理；词频则局限于词汇检索(Catling&Elsherif,2020;Chang&Lee,2020)。阿尔兹海默症和正常老化也影响习得年龄效应(Catling& South,2013;Raling et al.,2016; Can& Kuruoglu,2018; Kileciolu et al.,2020)。未来关于词频效应的相关研究，需要严格控制习得年龄对词频的影响，还需要采用相应的研究设计如析因设计和特定的统计方法，来分离两者对语言产生的影响。关于词频效应和习得年龄效应在语言产生中的年龄差异以及两者时间进程上的不同也是未来需进一步解决的问题。
+
+# 参考文献
+
+高晓雷，李晓伟，孙敏，白学军，高蕾.(2020)．藏语阅读中中央凹词频效应及对副中央凹预视效应的影响. 心理学报,52(10),1143-1155.   
+何洁莹，张清芳.(2017).老年人书写产生中词汇频率和音节频率效应的时间进程:ERP研究．心理学报， 49(12),1483-1493.   
+娄昊，李丛，张清芳.(2019).习得年龄对客体和动作图画口语命名的不同影响:ERP研究．心理学报,51(02), 143-153.   
+王成.(2015).汉语书写产生中正字法信息提取的认知机制（博士学位论文）．中国科学院大学，北京.   
+王晓彤.(2015).中文阅读中的眼动行为研究：不同阅读任务中的词频效应（硕士学位论文）．辽宁师范大 学.   
+杨群，张清芳.(2015).口语产生中的认知年老化及其神经机制．心理科学进展,23(12),2072-2084.   
+杨群，张清芳.(2019).汉语图画命名过程的年老化机制：非选择性抑制能力的影响．心理学报,51(10), 1079-1090.   
+杨玉芳.(2015).心理语言学.科学出版社.   
+张清芳.(2019)．语言产生：心理语言学的视角.华东师范大学出版社.   
+张清芳，杨玉芳.(2003)．影响图画命名时间的因素．心理学报(04),447-454.   
+Abel,S.,Dressel,K.,Weiller,C.,& Huber, W. (2Ol2).Enhancement and suppression inalexical interference fMRI-paradigm. Brain & Behavior,2(2),109-127.   
+Alln,P.A.,Madden,D.J., Weber,T.A.,& Groth,K.E. (1993). Influence of age and processing stage on visual word recognition. Psychology and Aging, 8(2),274-282.   
+Almeida,J., Knobel,M.,& Caramazza,F.A. (2Oo7). The locus ofthe frequency effect in picture naming: When recognizing is not enough.Psychonomic Bulletin & Review.   
+Bakhtiar, M., Su,I.F.,Lee,H. K.,& Weekes,B. S. (2016). Neural correlates of age of acquisition on visual word recognition in Persian. Journal of Neurolinguistics,39,1-9.   
+Balota,D.A., Cortese,M.J.,Sergent-Marshall,S.D.,Spieler,D.H.,&Yap,M. (2O04). Visual word recognition of single-syllable words. Journal of experimental psychology,133(2),283-316.   
+Balota,D.A.,&Ferraro,F.R. (1993). A Dissociation of Frequency and Regularity Effects in Pronunciation Performance Across Young-Adults, Older Adults,and Individuals With Senile Dementia of the Alzheimer-Type. Journal of Memory & Language, 32(5),573-592.   
+Balota,D.A.,&Ferraro,F.R. (1996).Lexical,sublexical,and implicit memory processes inhealthy young and healthy older adults and in individuals with dementia of the Alzheimer type. Neuropsychology, $^ { I O ( 1 ) }$ 82-95.   
+Baus, C., Strijkers,K.,& Costa, A. (2O13). When does word frequency influence written production? Frontiers in Psychology.   
+Bayram,E., Yilmaz,R., Qiu, Y., Yalap,O.,Aydin, O.,Ergenc,H.,& Akbostanci, M. (2021). The effect of Subthalamic nucleus deep brain stimulation on verb and noun naming in Turkish-Speaking Parkinson's disease patients. Brain and Language, 212.   
+Beber,B.C., Cruz,A.N.,& Chaves,M.L. (2O15). Abehavioral study of the nature of verb production deficits in Alzheimer's disease. Brain and Language,149,128-134.   
+Bonin,P.,& Fayol,M.(2Oo2).Frequency effects in the writen and spoken production of homophonic picture names.European Journal of Cognitive Psychology,14(3),289-313.   
+Burke,D. M.,& Shafto,M. A. (2004). Aging and language production. Current Directions in Psychological Science, 13(1), 21-24.   
+Brysbaert,M.,Mandera,P.,& Keuleers,E. (2O18).The word frequency effect in word processing: areview update. Current Directions in Psychological Science,27(1).   
+Can,E.,& Kuruoglu, G. (2018). A comparison of Sentence Production of Turkish Patients with Early ad Late-Onset Alzheimer's Disease.   
+Catling,J. C., Dent,K., Johnston,R.A.,& Balding,R. (201O). Age of acquisition, word frequency,and picture-word interference. Quarterly Journal of Experimental Psychology, 63(7),1304-1317.   
+Catling,J.C.,& Elsherif,M.M.(2O2O).The hunt for the age of acquisition effect: It's in the links! Acta psychologica, 209,103-138.   
+Catling,J.C.,& South,F.(2O13).The efect of age ofacquisition on older individuals withand without cognitive impairments.The Quarterly Journal of Experimental Psychology, 66(10).
+
+Chang,Y.N.,&Lee,C.Y.(2O20).Age of acquisition effects on traditional Chinese character naming and lexical decision.Psychonomic Bulletin& Review,27(6),1317-1324.
+
+Chee,M. W.L., Westphal, C., Goh, J., Graham, S.,& Song,A. W. (2003). Word frequency and subsequent memory effects studied using event-related fMRI. Neuroimage, 20(2),1042-1051.   
+Chen,H.Y.,Chang,E.C.,Chen,S.H.Y.,Lin,Y.C.,&Wu,D.H.(O16).Functionaland anatomicaldissociation between the orthographic lexicon and the orthographic buffer revealed in reading and writing Chinese characters by fMRI. Neuroimage, 129.   
+Cohenshikora,E. (2O15). The Influence of Word Frequency and Aging on Lexical Access. Journal of Great Lakes Research,20(1),179-195.   
+Cynthia, O. (2016). Vision and aging. Annual review of vision science, 2.   
+Dell, G. S. & Jacobs, C.L. (2016). Successul speaking: Cognitive mechanisms of adaptation in language production. In H. Gregory& L.S. Steven (Eds.), Neurobiology of language (pp. 209-219). Academic Press.   
+Diaz,M.,Hogstrom,L.,Zhuang,J., Voyvodic,J.,Johnson,M.,& Camblin,C. (2O14).Writen distractor words influence brain activity during overt picture naming. Frontiers in Human Neuroscience, 8,167.   
+Diaz,M.,Johnson,M.,Burke,D.,Truong,T.K.,&Madden,D. (2o18).Age-related diferences inthe neuralbases of phonological and semantic processes in the context of task-irrlevant information. Cognitive,Affective, & Behavioral Neuroscience,19.   
+Elsherif,M., Catling,J.C.,& Frisson, S. (O19).Two words as one: A multi-naming investigation of the age-of-acquisition effect in compound-word processing. Memory & Cognition, 48.   
+Feng,S., Qi,R.,Yang,J.,Yu,A.,& Yang,Y.(2O2O). Neural correlates for nouns and verbs in phrases during syntactic and semantic processing: an fmri study. Journal of Neurolinguistics, 53.   
+Fernandez, G., Sapognikof,M., Guinjoan,S., Orozco,D.,& Agamennoni, O. (2016). Word processing during reading sentences in patients with schizophrenia: Evidences from the eyetracking technique. Comprehensive Psychiatry, 68.   
+Gertel,V.H.,Karimi,H.,Dennis,N.A.,Neely,K.A.,&Diaz,M.T. (22O).Lexical frequencyaffects functional activation and accuracy in picture naming among older and younger adults. Psychology & Aging, 35(4).   
+Gollan,T.H.,Montoya,R.I., Cera, C.,&Sandoval,T. C.(2O08). More use almost always a means a smaller frequency effect: Aging, bilingualism,and the weaker links hypothesis. Journal of Memory & Language, 58(3), 787-814.   
+Graves,W.W.,Grabowski,T.J.,Mehta,S.,& Gordon,J.K.(2OO7). A neural signature of phonological access: distinguishing the effects of word frequency from familiarity and length in overt picture naming. Journal of Cognitive Neuroscience,19(4),617-631.   
+Hardy,S.M.,Segaert, K.,& Wheeldon,L. (2O18). Healthy ageing and sentence production: Impaired lexical access in the context of intact syntactic planning.   
+Indefrey,P.(2Ol1).The spatial and temporal signatures of word production components: Acritical update. Frontiers in Psychology, 2.   
+Indefrey,P.,&Levelt, W. J. (2O04). The spatial and temporal signatures of word production components. Cognition, 92(1-2),101-144.   
+James,L. E.,Schmank, C.J., Castro,N.,& Buchanan,T.W. (2018). Tip of the tongue states increase under evaluative observation. Journal of Psycholinguistic Research,47(1).   
+Jescheniak,J.D.,Meyer,A.S.,&Levelt, W.J.M.(2Oo3).Specific-word frequency is not allthat counts in speech production: Comments on Caramazza, Costa, et al. (2oo1) and new experimental data. Journal of experimental psychology.Learning,memory, and cognition, 29(3).   
+Juhasz,B., Chambers,D.,Shesler,L.,Haber,A.,& Kurtz,M. (2O12).Evaluating lexicalcharacteristicsof verbal fluency output in schizophrenia.Psychiatry research, 200.   
+Kandel, S., Alvarez, C.J., & Valee,N. (20o6). Morphemes also serve as processing units in handwriting production. Journal of Experimental Psychology Human Perception & Performan, 32(1),18-31.   
+Kileciolu,E., Raman,I.,&Raman,E. (2O2O).The influence of age of acquisition onrecall and recognition in Alzheimer's patients and healthy ageing controls in Turkish. Applied Neuropsychology Adult(1),1-10.   
+Lee,Y.N.,& Choi,S.Y. (2O16). Differences in tip-of-the-tongue phenomenon and resolving patterns according to vocabulary characteristics between young and elderly adults. Communication Sciences & Disorders, 21(1), 139-150.   
+Levelt,W.J.,Roelofs,A.,& Meyer,A.S.(1999). Atheoryof lexical access in speech production. Behavioral and Brain Sciences,22(1),1-38.   
+Li,S.,Oliver-Mighten,L.,Li,L.,White,S.J.,Paterson,K.B.,& Wang,J. (2019). Adult age diferences in effects of text spacing on eye movements during reading. Frontiers in psychology,9,2700.   
+Liu,Y.,Yu,L.,Fu,L.,Li, W.,Duan,.,&Reichle,E.D. (2o19). The effects of parafoveal word frequencyand segmentation on saccade targeting during Chinese reading. Psychonomic Bulletin & Review, 26(4).   
+Liu, Z.,Tong, W.,& Su, Y. (2O2O). Interaction effects of aging, word frequency,and predictabilityon saccade length in Chinese reading. PeerJ, 8, e8860.   
+Malutina, S. A., Dragoy, O.V., Petrushevskiy, A. G., Fedina, O.N.,& Gutyrchik,E.F.(2012). Neurophisiological correlates of word frequency during naming task. International Symposium on Functional Neuroimaging: Basic Research and Clinical Applications.   
+Meekings, S.,& Scott S. (2O2O). Error in the superior temporal gyrus? A systematic review and activation likelihood estimation meta-analysis of speech production studies.Journal of Cognitive Neuroscience, 33, 1-23.   
+Morton,& John. (1969). Interaction of information in word recognition. Psychological Review,76(2),165-178.   
+Murray,W.S.,&Forster,K.I. (2o04).Serial mechanisms in lexicalacces: the rank hypothesis. Psychological review,111(3), 721.   
+Newman,R. S.,& German,D.J. (2Oo5).Life span effects of lexical factors on oral naming.Language and Speech, 48(Pt 2), 123-156.   
+Oh,A.,Duerden,E.G.,&Pang,E.W. (2O14).The role ofthe insulain speechand language processing.Brain and Language, 135(1), 96-103.   
+Ostrand,R.,& Gunstad,J. (2O2o). Using automatic assessment of speech production to predict current and future cognitive function in older adults.Journal of Geriatric Psychiatry and Neurology, O89198872093335.   
+Perret, C., & Laganaro, M. (2O12). Comparison of electrophysiological correlates of writing and speaking: a topographic ERP analysis. Brain Topography,25(1), 64-72.   
+Plaut,D.C.,MCc Lelland,J.L.,Seidenberg,M.S.,& Patterson, K.(1996). Understanding normal and impaired word reading: computational principles in quasi-regular domains. Psychological Review,103(1), 56-115.   
+Qu, Q.,Zhang, Q.,& Damian,M.F.(2O16).Tracking the time course of lexical accessin orthographic production: An event-related potential study of word frequency effects in written picture naming. Brain and Language,159,118-126.   
+Raling,R.,Schroder,A.,& Wartenburger,I. (2016).The origins of age of acquisition and typicality effects: semantic processing in aphasia and the ageing brain. Neuropsychologia, 86,80-92.   
+Rizio,A. A.,Moyer,K.J.,& Diaz,M.T. (2O17). Neural evidence for phonologically based language production deficits in older adults: An fMRI investigation of age-related diferences in picture-word interference. Brain and behavior, 7(4).   
+Rossi,E.,& Diaz,M. (2O16). How aging and bilingualism influence language processing: Theoretical and neural models. Linguistic Approaches to Bilingualism, 6.   
+Scott S. (2O17). The neural processing of phonetic information: The role of the superior temporal gyrus. In M., Maria(Ed.), Neural Mechanisms of Language(pp.11-25). Springer US.   
+Shafto,M. A.,& Tyler,L. K. (2014).Language in the aging brain: the network dynamics of cognitive decline and preservation. Science, 346(6209), 583-587.   
+Shin,S.,Kwon,M.,Lee,J.H.,& Sim,H. (2017). Verb naming and comprehension in patients with Alzheimer's disease: Focusing on instrumentality of action verbs. Communication Sciences & Disorders, 22, 190-204.   
+Spieler,D.H.,& Balota,D.A. (2oo).Factors influencing word naming in younger and older adults.Psychology and Aging,15(2), 225-231.   
+Strijkers,K., Costa, A.,&Thierry, G. (O10).Tracking lexical access in speech production: electrophysiological correlates of word frequency and cognate effects. Cerebral Cortex, 20(4), 912-928.   
+Strijkers K.,Holcomb P.J. & Costa A. (2Ol2). Conscious intention to speak proactively facilitates lexical access during overt object naming. Journal of memory and language(4).   
+Thothathiri M, Ratinger M, Trivedi B. (2O17). Cognitive control during sentence generation. Cognitive neuroscience, 8(1): 39-49.   
+Verhaeghen,P. (2003). Aging and vocabulary scores: a meta-analysis. Psychology and Aging,18(2),332-339.   
+Vlasova,R.,Pechenkova,E,& Sinitsyn, V. (2O13). fMRIcorrelates of the word frequency effect in russian. Social Science Electronic Publishing.   
+Wang,C.,&Zhang, Q.(2O21). Word frequency effect in written production: evidence from erps and neural Oscillations. Psychophysiology(1).   
+Wang,J.,Li,L.,Li,S., Xie,F.,Chang,M.,Paterson,K.B.,etal. (2018a).Adult agedifferencesineye movements during reading: the evidence from Chinese. Journals of Gerontology(4),584-593.   
+Wang, J.,Li,L.,Li,S., Xie,F.,Liversedge,S.P.,&Paterson, K.B. (2018b). Efects ofaging and text stimulus quality on the word frequency effect during Chinese reading. Psychology and aging,33,693-712.   
+Warrington,K.L.,Mcgowan, V. A.,Paterson,K.B.,& White,S.J. (2018). Efects of aging, word frequency, and text stimulus quality on reading across the adult lifespan: Evidence from eye movements.Journal of Experimental Psychology Learning Memory & Cognition,44(11).   
+Whitford,V.,& Titone,D. (2O17).The effects of word frequency and word predictability during first- and second-language paragraph reading in bilingual older and younger adults. Psychology and Aging,32, 158-177.   
+White,S.,Drieghe,D.,Liversedge,S.,& Staub,A.(2O16).The word frequency effect during sentence reading: A linear or nonlinear effect of log frequency? The Quarterly Journal of Experimental Psychology,71, 1-11.   
+Wilson,S. M., Isenberg,A.L.,& Hickok, G. (2010). Neural correlates of word production stages delineated by parametric modulation of psycholinguistic variables. Human Brain Mapping,30(11),3596-3608.   
+Xu, X.,Li,J.,& Guo,S. (2020). Age of acquisition ratings for 19,716 simplified Chinese words. Behavior Research Methods(24).   
+Yang,Y.,Jun,Z.,Long,M.Z.,Li, Q.,Fei,L.Y.,& Yan,B.H. (2O18). Neural correlates of orthographic accessin Mandarin Chinese writing: An fMRI study of the word-frequency effect. Frontiers in Behavioral Neuroscience.   
+Yang,Y., Zuo,.,Tam,F., Graham,S.,Tao,R., Wang,N.,& Bi,H.Y. (2O19). Brain activation and functional connectivity during Chinese writing: An fMRI study. Journal of Neurolinguistics,51,199-211.   
+Yuan Q.,Wu J.,Zhang M.,Zhang Z.,Chen M.,Ding G.,& Guo T.(2021).Patterns and networks of language control in bilingual language production. Brain structure & function(4).   
+Zang,C., Zhang,M.,Bai,X., Yan, G.,& Liversedge,S.P. (2016). Effects of word frequency and visual complexity on eye movements of young and older chinese readers. Quarterly Journal of Experimental Psychology,69(7),1409-1425.
+
+# Neural Mechanisms and Time Course of the Age-Related Word Frequency Effect in Language production
+
+ZHANGLina; XUAN Bin (College ofEducational Science,Anhui Normal University,Wuhu 241ooo,China)
+
+Abstract: The word frequency effect refers to the phenomenon of processing high-frequency words faster and more accurately than processing low-frequency words in different stages of language production. The cognitive ageing mechanisms of language production can be investigated by exploring the different characteristics and mechanisms of the word frequency effect between young people and elderly people.We suggested that the word frequency effect exhibited relative stability across the individual developing stages,predicted the age-related word frequency effect based on different theories of visual word recognition,and analysed the changes in neural substrates and time course of the word frequency effect caused by ageing. In future, we can further distinguish the word frequency effect from the age of acquisition effect on language production,and extend the studies to patients with neurodegenerative diseases.
+
+Key words: language production, word frequency effect, aging, time course, neural mechanism

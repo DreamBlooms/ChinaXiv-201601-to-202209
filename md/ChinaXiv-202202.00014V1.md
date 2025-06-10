@@ -1,0 +1,214 @@
+# 呼吸道传染病疫情背景下的民众社交距离保持行为：影响因素与理论解释\*
+
+孙世月 张煜
+
+（北京林业大学心理学系，北京100083）
+
+摘要民众遵守社交限制措施和主动扩大社交距离对遏制呼吸道传染病疫情非常重要。疫情背景下的民众社交距离保持行为，与疫情情境、疫情相关认知和情绪、社会文化背景以及个体心理特质有关，可基于计划行为理论、保护动机理论和行为免疫系统理论进行解释，可能存在威胁管理机制、自我效能感机制和社会认同机制的多重作用。未来研究应进一步考察情绪认知过程及其与社会文化背景和个体心理特质的交互，构建双系统模型，结合追踪及实验研究，检验疫情背景下社交距离保持行为的内在机制。
+
+关键词呼吸道传染病，疫情，社交距离保持行为，个体心理特质
+
+2020 年1月起，一种新型呼吸道传染病 2019 冠状病毒病(COVID-19，也称新冠病毒)迅速发展为全球性流行病，成为近100年来人类所经历的最严重疫情。当出现新的传染病，尤其在缺乏有效疫苗和精准治疗方案的疫情初期时，及时采取非药物干预措施往往可有效且低成本地遏制疫情蔓延。为了应对COVID-19 疫情所采取的一些非药物干预措施，包括勤洗手、戴口罩、扩大社交距离，以及政策层面的社交限制措施，均已被证实可有效遏制或缓解疫情(Teslya et al.,2020)。一项元分析研究显示，保持1米及以上社交距离可使病毒传播风险降低 $10 . 2 \%$ (Chu et al.,2020)，也有研究者提出社交距离保持行为是应对COVID-19 的最有效举措(Sturman et al.,2021)。在当前全球仍面临 COVID-19 疫情威胁的背景下，如何促进民众更普遍地实施社交距离保持行为？为了回答这一问题，我们需要理解疫情背景下民众社交距离保持行为的内在机制。
+
+虽然疫情背景下的社交距离保持行为是COVID-19疫情之后才引起心理学、公共卫生领域研究者关注的新问题，但以往围绕呼吸道传染病疫情背景下的各类健康防护行为所开展的研究已经积累了较为丰富的证据，有必要对其中与社交距离保持行为相关的内容进行梳理，为应对当前COVID-19及未来可能出现的全新传染病疫情提供科学依据。因此，本研究首先回顾呼吸道疫情背景下民众社交距离保持行为相关研究背景；其次，梳理以往研究中涉及社交距离保持行为影响因素的研究进展，并阐释相关理论解释；最后，针对当前研究存在的不足提出展望。本文围绕近20 年来几次影响较大的呼吸道传染病疫情背景进行讨论，综述以健康人为对象展开的调查和实验研究，主要涉及 SARS、H5N1人传人禽流感、H1N1甲型流感、H7N9人传人禽流感，以及COVID-19疫情。一些研究者以实际疫情为背景或参照，设置预期或假想疫情情境考察社交距离保持行为，这也是本研究关注的内容。
+
+# 1疫情背景下民众社交距离保持行为
+
+呼吸道传染病疫情背景下，社交距离保持行为和个人卫生行为是民众在实践中最普遍采取的非药物干预类健康防护行为(Bults et al.,2015; SteelFisher et al.,2012)。其中，社交距离保持行为(social distancing behaviors)，是对一系列旨在扩大社交距离的相关行为及行为意向的概括，既包括个体层面的回避行为，如避免去往人口密集场所、避免乘坐公共交通、减少外出、减少聚集性活动等，也包括了民众对政府或公共卫生部门所采取的关闭学校、取消大型集会、旅行限制、社区隔离等社交限制措施的认同、遵守意愿及行为。个人卫生行为(improved hygiene practice)强调个人取向的非药物预防行为，主要包括勤洗手、戴口罩/面罩、咳嗽或打喷嚏时掩口鼻、物品或家居清洁等(Bish&Michie,2010;Moran& DelValle,2016;Rashid et al.,2015)。Bish 和 Michie(2010)的系统性综述分析发现，疫情背景下的社交距离保持行为与个人卫生行为受到疫情知识、感知疫情严重性等因素的共同影响，并且两者的影响路径存在差异，例如，行为线索、状态焦虑仅预测个人卫生行为，而社会规范仅预测社交距离保持行为。
+
+虽然国内外均有一些最新研究直接围绕居家隔离意愿(申鑫 等,2021)、自我隔离意愿(Zhang et al.,2020)、社交距离保持行为(Frounfelker et al.,2021; Roberto et al.,2021; Xu &Cheng,2021)展开探索，但以往大部分健康防护研究将社交距离保持行为与勤洗手、消毒、外出戴口罩等各类行为综合为一个指标分析其现状和影响因素(例如，Liu,2021;Luo et al,2020;Moran&DelValle,2016)，且主要基于疾病相关威胁管理机制进行理论解释，重点关注疫情严重性和风险认知的影响(Stangier et al.,2021; Lau, Yang,Tsui,& Pang,2004; Lau etal.,2007a)。与个人取向的个人卫生行为相比，社交距离保持行为往往涉及更复杂的社会认知过程，与亲社会动机、人际信任等有关(Oosterhoff et al.,2020; Pedersen&Favero,2020),两类行为的内在心理机制存在不同，有研究者明确提议有必要探索"恐惧/威胁"机制之外可能影响社交距离保持行为的新路径(Jorgensen et al.,2021)。为了更准确地理解促进或妨碍民众社交距离保持行为的相关因素，并指导疫情防控实践，未来研究有必要更具体、更有针对性、更深入地考察疫情背景下的社交距离保持行为及其内在机制。
+
+# 2疫情背景下普通民众社交距离保持行为的影响因素
+
+在呼吸道传染性疾病疫情背景下民众心理和行为相关研究中，健康防护行为的影响因素是广受关注的一个问题。Bish 和Michie(2010)对人口学因素和态度因素如何影响个人卫生行为、社交回避行为、疾病管理行为进行了综述，重点分析了疫情情境下的风险认知、严重性认知、可控性认知、疫情知识、社会规范和焦虑在健康保护行为中的作用，强调个体因素的作用。近年来的研究进展显示，疫情背景下民众社交距离保持行为不仅与疫情情境引起的认知和情绪因素有关，还与独立于疫情之外的社会文化背景和个体心理特征因素有关。一方面，从"情境-认知/情绪-行为"的心理过程来看，疫情情境是与疫情中的行为反应直接相关的微观环境因素，可由疫情客观指标及时间空间特征所反映；而疫情相关认知和情绪是指个体基于疫情客观现实，形成的有关疫情情境的认识和情绪感受，疫情情境因素主要通过个体在疫情情境下的认知和情绪反应进而影响社交距离保持行为，且疫情认知与情绪反应之间存在相互影响。另一方面，社会文化背景因素作为宏观环境因素，个体的人格、认知等心理特质因素作为个体因素，虽然与疫情情境无直接相关，但与社交距离保持行为有关，且可能通过疫情情绪相关认知和情绪反应间接影响社交距离保持行为。基于对以往研究的分析，我们提出一个整合框架(见图1)，对影响疫情背景下社交距离保持行为的环境和个体因素进行概括。根据该理论框架，本部分将分别梳理疫情情境、疫情相关认知情绪过程、社会文化背景和个体心理特质这四个方面的因素与社交距离保持行为之间的关系。
+
+![](images/02476497fbf31c121b79df58a2c05e22b8c3d9cea7319ebe0d0f01a1c95a9e3a.jpg)  
+图1疫情背景下社交距离保持行为的理论框架
+
+# 2.1疫情情境
+
+疫情严重性可反映在受疫情影响城市或地区的新增及累计确诊病例数、死亡病例数等客观指标上。值得注意的是，民众的社交距离保持行为与疫情严重性之间的关系并非简单线性相关。一般在疫情初期，民众自我报告的社交距离保持行为与新增确诊病例数、累积病例数等疫情进展成正相关(Lau,Yang,Tsui,& Pang,2004)。一项研究基于移动手机定位数据在群体水平上评估并分析了美国COVID-19疫情初期(2020 年3月下旬)民众的社交距离保持行为，并以疫情前的基线作为参照，结果显示，随着确诊病例数的增加，当地民众更普遍地实施社交距离保持行为(Barrios&Hochberg,2020)。但 2020 年8月在美国疫情爆发期进行的一项调查并未发现确诊病例数对社交距离保持行为的预测作用(Xu&Cheng,2021)，这可能是由于疫情爆发期，政府采取更严格的社交限制措施，民众配合度也更高。同时，上述研究也提示，除了疫情严重性，对疫情防控行为的考察还应结合疫情时间进程。
+
+时间进程方面，2009 年H1N1疫情(Bults et al.,2015)、香港 SARS 疫情二次爆发(Lau etal.,2003)，以及香港 H7N9 疫情期间(Liao et al.,2015)的多项调查一致发现，疫情早期民众避免乘坐公共交通工具等行为有随时间而增强的趋势，但报告曾调整旅行计划、避免聚集等行为的比例则表现出先升后降的趋势，且与疫情严重性进展并不一致。COVID疫情初期，2020年3\~4月初，美国的调查中超过 $70 \%$ 对民众自我报告有高水平社交距离保持行为(Jorgensen etal.,2021)。2020 年 5\~6月，期间美国疫情形势仍然很严重，日新增病例数均迅速上升，但民众社交距离保持行为却持续下降，在7月则未进一步变化(Reinders Folmeret al.,2021)，这期间英国民众对各项防控措施的遵守度总体上也呈现下降趋势(Wright &Fancourt,2021)。另一项取样范围更大、覆盖周期更长的“抗疫疲劳”研究于2020 年3月至11月调查了全球14个国家近24万民众自我报告的防护行为，以30天为一个时间窗口进行分析，发现社交距离保持行为模式整体上呈现出“U型”曲线，民众社交距离保持行为水平最初随时间逐步下降，约半年后降至最低点，之后大部分地区又有所上升(Pethericket al.,2021)。上述研究均显示，疫情期间社交距离保持行为的时程特征值得进一步关注。
+
+此外，疫情背景下社交距离保持行为还存在地区差异，疫情首发地的民众对社交距离保持的遵守意愿和行为可能更为主动和持久。SteelFisher 等(2012)对墨西哥、阿根廷、日本、英国和美国这5个国家的民众在H1N1流感疫情期间的健康保护行为进行了调查，结果显示，各个国家的多数人群均能做到与具有流感症状的人保持距离，作为疫情首发地的墨西哥有 $46 \small { \sim } 5 6 \%$ 民众报告会改变诸如拥抱、亲吻、握手等社交行为习惯，而其他欧美国家只有不到 $30 \%$ 的民众改变上述行为。 $4 6 \sim 6 9 \%$ 的墨西哥民众疫情期间采取了与保持社交距离相关的防控措施，而该比例在阿根廷、日本、美国和英国分别仅为 $1 5 \small { \sim } 3 8 \%$ 、 $4 \small { \sim } 2 5 \%$ ，$4 \%$ 、 $5 \%$ 。研究者提出上述地区差异可能反映了疫情严重性、政府疫情应急响应、媒体的作用、不同地区文化与价值观的差异。上述研究的调查实施于疫情后期，美国的累积确诊和死亡病例数都很高，但调查中美国民众对于保持社交距离的实践程度远低于墨西哥。类似地，COVID-19新冠疫情期间，各国疫情严重程度不一，但普遍看来，作为疫情首发地的中国，尤其是武汉地区，民众更倾向于严格实施与社交距离保持相关的行为、对社交限制措施认同度更高(聂胜楠 等,2020；赵莹颖 等,2020)。这可能是由于在最先受到新型传染病疫情冲击的地区，居民更直接、更近距离地体验到健康威胁，同时又缺乏充分的参考信息，不确定性程度更高。
+
+综上，疫情客观情境与民众的社交距离保持行为之间的关系较为复杂。目前对疫情严重性和疫情时间进程的发现并不一致，对于疫情首发地的特殊性也缺乏针对性考察，未来研究有必要结合疫情期间民众社交距离保持行为主观报告和客观活动指数的持续追踪，进一步明确与疫情严重性、时空动态相关的行为模式。此外，Wright 和 Fancourt(2021)以“情境强度”解释了民众健康防护行为的情境依赖性，即在社会行为规范尚未形成时，情境可能发挥更重要的作用，同时，伴随疫情情境的动态变化，民众的社交距离保持行为可能涉及不同的行为策略和心理机制，未来对疫情背景下社交距离保持行为的进一步考察不应忽视调查取样时间、地点及疫情形势变化等信息。
+
+# 2.2疫情情境相关认知和情绪
+
+# 2.2.1疫情知识
+
+疫情知识主要指公众对疫情现状的了解，包括疫情意识，对传染性疾病病理、症状、传播途径等疾病知识的了解，以及对公共卫生部门推荐的、有效的疫情和疾病预防等防控知识的了解情况。在测量方式上，对疫情知识的评估通常要求被试判断某一陈述的对错或同意某一陈述的程度，一般以正确知识作为参照点，评估个体对疫情与疾病的了解程度。
+
+疫情知识可显著预测COVID-19、H5N1禽流感疫情背景下民众遵守社交限制的意愿(Lau et al., $2 0 0 7 \mathrm { a }$ ; Sturman et al.,2021；申鑫 等,2021)和社交距离保持行为(van Stekelenburget al.,2021)。澳大利亚研究者进行了一项实验研究来考察疫情知识的作用，研究中首先询问受调查者在流感疫情中保持社交距离的情况，然后在解释了假想的新型流感疫情知识之后再次询问同样的问题，结果发现民众自我报告社交距离保持行为倾向显著提高(Eastwoodet al.,2009)。但是，该研究的结果来自对同一批被试两次回答的比较，缺乏对照组，易受到期望效应的干扰。van Stekelenburg 等(2021)进行的随机对照组追踪研究也显示疫情知识与社交距离保持行为之间存在显著正相关，但该研究并未发现疫情知识干预对美国民众社交距离保持行为的促进作用。可见，疫情知识与社交距离保持行为之间是否存在因果关系尚不明确。
+
+# 2.2.2疫情情境感知
+
+疫情情境感知是指个体基于疫情客观现实和对疫情知识的了解，从主观感受的角度做出的评估，包括个体感知的疫情风险性、严重性、可控性以及主观规范(即对疫情防控相关社会规范的感知)。其中，疫情风险认知，尤其疾病感染风险，是最受关注的一个心理因素(Tooher etal.,2013)。SARS 和 H5N1流感疫情期间香港的研究、COVID-19 疫情期间北美的研究均表明疫情风险认知对社交距离保持行为有着显著预测作用，认为健康人不容易被传染的民众，更倾向于忽视社交限制要求(Lau etal.,2007a;Lau,Yang,Tsui,Pang,& Kim,2004;Taylor etal.,2020)。其中，Taylor 等(2020)的调查发现，疫情风险认知是影响民众社交距离保持行为的最重要预测变量，且具有大效应量。
+
+知觉到的疫情严重性或疫情威胁，主要反映民众对于疾病或疫情危害个体健康、社会经济的严重程度的认识，一般可正向预测社交距离保持行为。例如，认为疫情威胁性被夸大了、疫情对于个体或社会经济的影响不严重的民众，更倾向于忽视社交限制要求(Lau,etal.,2007b; Lau, Yang,Tsui, Pang,& Kim,2004; Taylor et al.,2020)。 Teasdale 等(2012)在英国HIN1疫情流行期以假想疫情情境为背景进行随机分组实验，发现当民众认为新发疫情的疾病致死率高、严重扰乱正常生活时，更倾向于居家不外出，甚至即便身体健康也不去上班。
+
+疫情不仅影响个人健康，还会妨碍经济民生，故而知觉到的疫情严重性也并非单维度的变量。有研究显示，感知疫情威胁个人健康的严重性可预测社交距离保持行为，但感知疫情对社会经济的妨碍却不能预测社交距离保持行为(Lauet al.,2007b)。此外，疫情严重性感知虽然促进社交距离保持，但也伴随更高的心理健康风险。感知疫情严重性更高的民众，更有可能出现与社交距离保持相关的过度反应，如避免去往任何公共场所，自我隔离状态下的应激反应也更严重(Taylor et al.,2020)。
+
+知觉到的疫情可控性反映出民众对疫情是否可控的认知，以及对防控措施是否有效的认可。对疫情防控措施的认可程度可预测社交距离保持行为(Bashirian etal.,2020；申鑫 等，2021; Roberto et al.,2021)，但具有针对性，例如，认为"公共场所戴口罩”、“隔离感染者"两项措施对遏制疫情很重要的人群更愿意保持社交距离，对个人卫生行为、“人群大筛查"措施的认可度则缺乏可预测性(Lau etal.,2007a)。
+
+主观规范是指个体在决策是否采取特定行为时感知到的社会压力，反映了重要他人或团体对个体行为决策的影响。与社交距离保持行为相关的社会规范影响个体在疫情情境下感知到的社会压力，进而表现出主观规范对社交距离的正向预测作用(Bish&Michie,2010;Frounfelker,et al.,2021)。主观规范与过往社交距离保持行为呈现出正相关，可能存在主观规范与健康行为之间的相互促进。值得注意的是，主观规范与对疫情相关社会分类的感知之间存在负相关；当个体感知自己在涉及COVID-19 疫情时由于年龄、性别、健康状况、种族、居住社区等各种原因曾被区别对待的程度越高，主观规范越低，社交距离保持的行为意向也更低，显示出群体影响的复杂性(Frounfelker etal.,2021)。
+
+# 2.2.3 疫情相关情绪体验
+
+恐惧和担忧是疫情情境下民众常体验到的情绪(温芳芳 等,2020)，当前的初步证据显示，恐惧、担忧等负性情绪体验，对社交距离保持行为有正向预测作用(Frounfelker et al.,2021; Jorgensen et al.,2021; Liao,et al.,2014)。虽然 Bish 和 Michie(2010)根据系统性综述分析提出焦虑对社交距离保持行为的预测不显著，但也有研究发现，疫情相关焦虑情绪体验更强的个体，更认同社交隔离，行为上也更遵守社交距离保持措施(Makhanova＆ Shepherd,2020;Xu& Cheng,2021)。此外，Roberto 等(2021)的研究发现，同时纳入了疫情威胁感知、恐惧情绪和可控性感知构建的结构方程模型可解释社交距离保持行为变异量的 $64 \%$ 其中，感知疫情威胁通过增强恐惧情绪体验，正向预测社交距离保持行为意向，进而正向预测社交距离保持行为。
+
+综上，在客观疫情情境、主观疫情知识之外，现有研究一致发现，疫情相关的风险认知、严重性认知、可控性认知，对传染病疫情背景下民众的社交距离保持行为有重要影响，同时，疫情相关情绪体验的作用也在一些研究中得到了初步检验。但是，感知疫情威胁个人健康、社会经济发展这两个方面对社交距离保持行为的不同影响、与疫情情境感知相关的心理健康风险和社交距离保持行为之间的权衡、以及各种疫情相关认知情绪因素之间的相互影响，如疫情可控性认知在疫情严重性认知、恐惧情绪与社交距离保持行为之间的间接作用，均有待进一步厘清。
+
+# 2.3社会文化背景因素
+
+COVID-19疫情期间，中国民众对社交限制等防控措施的配合和支持程度，与众多西方国家形成鲜明对比。除了各国政府防疫思路和指导性政策的不同，社会文化差异值得探究。调查数据也显示，疫情背景下不同国家的民众社交距离保持行为存在不同，例如，HIN1疫情期间，与日本、阿根廷和墨西哥相比，英国和美国受调查者对疫情中社交距离限制措施的认同度更低(SteelFisher et al.,2012)。此外，COVID-19 疫情期间，Petherick 等(2021)进行的大样本调查发现，在控制了气候、疫情情境等因素之后，大部分国家的民众社交距离保持行为随时间进程呈现“U型”模式，但该行为模式并未见于中低收入国家。
+
+Huynh(2020)的研究参考以往研究对 58个国家或地区文化层面的评估，以国家的权力等级指标、个人主义-集体主义指标、不确定性回避指标三个重要文化属性为自变量，以
+
+COVID-19 疫情期间社交距离保持水平为因变量，进行了回归分析，结果发现，在控制了经济发展水平、社会福利因素之后，社会文化层面上不确定性回避程度越高的国家，商超、公园、车站等场所的民众聚集度越低，但该研究未发现国家权力等级或个人主义-集体主义对社交距离保持行为的显著预测作用。个体层面，一项在瑞士进行的追踪研究显示，持有个人主义价值观的个体，对社交距离保持措施的认同程度更低(Siegrist& Bearth,2021)。同时，个人主义价值观还可能通过降低民众的疫情风险感知对社交距离保持行为产生间接影响，一项对欧、美、亚洲10个国家共6,991名样本的调查显示，个人主义价值观是疫情风险感知的最主要影响因子，与之相反，亲社会价值观既能直接促进社交距离保持行为，也能通过疫情风险感知产生间接影响(Dryhurst et al.,2020)。
+
+可见，作为社会文化背景的不确定性回避程度、个人主义-集体主义价值观等因素，可能影响民众在疫情背景下社交距离保持行为及心理。
+
+# 2.4个体心理特质
+
+近期COVID-19疫情背景下的多项研究提示，对疫情中民众健康防护行为的考察应充分考虑个体心理特质的作用(Xu& Cheng,2021; Zajenkowski et al.,2020)，人格、认知特点、社会认知等变量也与疫情中健康保护行为有关。其中，人格特质上，宜人性得分较低、黑暗三联征得分高的个体更倾向于违背社交限制措施，责任感、回避倾向则对社交距离保持行为有促进作用(Wright & Fancourt,2021; Zajenkowski et al.,2020)。Liu(2021)的研究也发现，责任心是影响COVID-19 疫情期间中国民众健康防护行为的重要个体特质。不过，另一项美国疫情高峰期进行的大样本调查并未发现大五人格因素与社交距离保持行为之间的相关(Shook,et al.,2020)。
+
+个体认知特征方面， Xu 和 Cheng(2021)的研究发现，自我控制、认知需求水平越高，COVID-19 疫情中社交距离保持行为的实施程度越高。可见，疫情背景下的社交距离保持行为不仅仅涉及到疫情相关的启发式思考，还包括个体经过主动认知努力做出的决策，因而是有认知资源需求的。与疫情可控性认知类似，个体认知水平上的自我效能感也可正向预测社交距离保持行为(Jorgensen et al.,2021; Roberto et al.,2021)，这将为理解疫情下的民众的健康保护行为开拓新的思路。
+
+情绪动机特质相关的研究显示，个体特质性健康风险回避倾向越高的人群，更认同社交隔离，行为上也更遵守社交距离保持措施(Makhanova& Shepherd,2020; Xu& Cheng,
+
+2021)。并且，个体的厌恶敏感性还可能影响人际认知，降低对周围他人的信任度(Olivera-LaRosa etal.,2020)，进而影响疫情背景下的社交距离保持行为。此外，一项针对青少年社交距离保持行为动机的调查中，青少年最普遍提及的行为动机是社会责任和保护他人免受传染，并且，回归分析显示亲社会动机显著正向预测社交距离保持行为(Oosterhoff et al.,2020)。
+
+从社会认知的视角分析，一方面，社会信任，包括对科学的信任、对政府和公共卫生部门的机构信任，可促进民众保持社交距离的防控行为(Bicchieri et al.,2021; Dryhurst et al,2020; Siegrist＆Bearth,2021)，国内研究还发现民众对国家应急响应的满意度对居家隔离执行情况有正向预测作用(申鑫 等,2021)。相反，持有阴谋论、宿命论信念的民众，则更有可能忽视社交限制措施(Resnicow et al.,2021；黎藜，李孟,2021)。另一方面，COVID-19 疫情期间多个大样本追踪研究显示，一般人际信任水平越高，民众感知与他人接触的风险更低，则更容易忽视社交限制措施(Cruwys et al.,2021; Siegrist& Bearth,2021)。并且，社会信任和一般人际信任这两种不同类型的信任不仅对疫情中的健康防护行为有直接影响，还可能通过民众风险感知进而分别对 COVID-19疾病传播产生积极和消极影响(Ye& Lyu,2020)。不过，也有研究显示，感知到来自家庭、朋友的社会支持程度越高，越倾向于遵守社交限制措施(Paykani et al.,2020)，高人际信任水平可一定程度上调节抗疫疲劳，缓和社交距离保持行为水平随时间进程的降低程度(Petherick etal.,2021)。英国 2020 年3月封锁期间的一项大样本调查研究还发现，个体的共情水平，尤其是情绪共情子维度，可正向预测疫情背景下民众的健康防护行为实施(Wright＆ Fancourt,2021)，而与COVID 疫情相关病耻感、社会分类(如，基于“是否来自疫区”对群体分类)则分别正向、负向预测社交距离保持行为(Tomczyk et al.,2020; Frounfelker et al.,2021)。可见，对同处疫情中的他人的理解可能以多种方式影响社交距离保持行为。
+
+综上，个体在疫情背景下的行为受到环境因素与个体因素的共同影响，疫情客观特征会改变个体对疫情情境的感知，进而影响民众社交距离保持行为。同时，社会文化背景因素和个体心理特质既可能直接影响其社交距离保持行为，也可能通过改变个体对环境刺激的认知和情绪反应产生间接影响。但目前这方面的研究尚不够深入，未能清楚阐述哪些个体心理特质对社交距离保持行为的影响是疫情特异性的。例如，个体对健康风险线索的厌恶敏感性越高，其特质性的人际距离偏好也越高(Park,2015)，但现有研究考察疫情中社交距离保持行为时并未将人际距离偏好纳入分析。此外，Xu 和Cheng(2021)的研究探索了美国民众政治取向对健康防护行为的调节作用，结果显示，虽然与保守派倾向相比，自由派倾向民众社交距离保持、戴口罩的行为遵守水平都更高，但政治倾向仅在认知需求和自我控制与戴口罩行为之间有调节作用，并未发现其对社交距离保持行为的显著调节，Petherick 等(2021)也发现，一般人际信任水平会调节随时间进程动态变化的社交距离保持行为模式。上述研究提示，一些社会文化背景和个体心理特质因素之间可能存在交互作用，也有可能在情境相关认知和情绪反应和社交距离保持行为之间起调节作用，但目前大部分研究主要关注各影响因素与社交距离保持行为之间的直接路径，对多重因素的综合考察较为缺乏。对于社会信任、一般人际信任、社会支持等社会认知因素如何影响疫情中社交距离保持行为，现有研究存在分歧，也缺乏整合性解释，因此上述问题有待进一步考察。
+
+# 3疫情背景下社交距离保持行为的理论解释
+
+# 3.1理论发展
+
+在疫情相关健康行为的理论探索中，最受关注的是计划行为理论(TheoryofPlannedBehavior,TPB)。该理论认为行为意向是影响行为最直接的因素，而行为意向由态度、主观规范和知觉行为控制三个主要因素决定，这三个因素基于个体的知识信念而逐渐形成(见综述：Bosnjak et al.,2020；段文婷，江光荣,2008)。实证研究显示，民众保持社交距离行为的影响因素符合计划行为理论的解释(Frounfelker et al.,2021; Taylor et al.,2020）。一些研究发现态度是预测自我隔离、社交距离保持行为的首要因子(Pedersen&Favero,2020; Zhang etal.,2020)，并且态度也在疫情知识和社交距离保持行为意向之间起到中介作用(Pedersen &Favero,2020)。知觉行为控制和主观规范的解释路径也得到多项研究的支持(Bashirian et al.,2020；申鑫 等,2021; Roberto et al.,2021; Frounfelker et al.,2021)。
+
+其次，根据保护动机理论(Protection Motivation Theory,PMT)，个体首先根据威胁评估和应对评估两方面的综合判断形成保护动机，继而形成影响行为的决策意向，其中，威胁评估包括个体感知易感性、严重性、内部回报、外部回报四方面要素，应对评估包括个体感知的反应效能、自我效能及反应代价三方面要素(Rogers,1975；见综述：林丹华 等，2005)。Teasdale 等(2012)最早基于保护动机理论考察流感疫情下的健康保护行为，并首次强调疫情背景下健康保护行为研究应重视自我效能感的作用。后续多项研究基于保护动机理论(Bashirian et al.,2020; Dryhurst et al.,2020; Timpka et al.,2014)、或是构建计划行为理论和保护动机理论的整合模型(Prasetyo,et al.,2020)，对疫情背景下的健康保护行为进行了检验，发现了自我效能感、感知健康行为收益对健康保护行为的正向预测作用以及宿命感、感知行为障碍的负向预测作用(Shahnazi et al.,2020)，支持了保护动机理论。
+
+另外，自 Makhanova 和 Shepherd(2020)首次将行为免疫系统理论(Behavioral ImmuneSystem,BIS)应用于检验COVID-19疫情下的健康行为以来，已有多项研究围绕行为免疫系统理论进行了探索（例如，Kempthorne & Terrizzi,2021; Shook et al.,2020; Stangier et al.,2021)。按照行为免疫系统理论，为了应对流行病威胁，人类进化出了一套特殊的行为反应倾向，旨在以各种反应性和前瞻性行为反应的方式阻止病菌进入体内，包括对疾病线索的警觉、厌恶，和对外群体的排斥(Schaller,2011；杨盈 等,2020)。行为免疫系统是引导个体无意识层面行为反应的感知动机系统，当个体知觉到环境中具有潜在传染风险线索(如恶心的气味)时，会立刻采取回避行为，并且感知系统的探测和动机系统的回避均不需要个体主观努力即可完成(Ackerman et al.,2021)。对病菌相关线索的厌恶和敏感性可反映行为免疫系统的激活，且存在个体差异。个体的疾病线索厌恶和敏感性水平与COVID-19疫情背景下的感知疫情威胁、焦虑水平、社交距离保持行为有关(Makhanova& Shepherd,2020; Shooket al.,2020; Olivera-LaRosa et al.,2020;Stangier et al.,2021)，这为应用行为免疫系统理论解释疫情背景下的健康防护行为提供了支持。
+
+上述三个理论均以疫情背景下个体如何应对疾病传染、以及与健康相关的威胁管理机制为核心。其中，计划行为理论和保护动机理论均源自理性行为理论，强调个体对行为情境、成本、结果、他人反应的有意识感知和计算，是高认知资源需求的，而行为免疫系统理论则主要强调在传染病威胁下自动化水平的感知和行为改变。计划行为理论中的主观规范在解释社会背景因素及亲社会动机、社会信任等因素的影响时有优势。保护动机理论强调除了感知的反应效能，还存在个体特质水平上的自我效能、以及基于经验综合评估得出的反应代价，为理解影响疫情背景下社交距离保持行为的个体心理特质因素提供了基础。行为免疫系统理论提示健康保护行为背后存在自动化层面的威胁探测、评估和反应，为理解和考察非理性因素的影响提供了理论支撑。
+
+同时，在应用上述理论解释疫情背景下社交距离保持行为时也存在一些局限。首先，以计划行为理论为例，其自身常常面临"意向行为鸿沟"的质疑(段文婷，江光荣,2008)，而目前疫情背景下的健康行为调查研究以自我报告的行为意向为主，一些研究显示高认同度并不一定能转化为高水平行为实施，例如，2020年1月底至2月初，中国大部分地区采取了严格的社交隔离措施，调查中超过 $98 \%$ 的民众自我报告认同社交距离保持行为(赵莹颖等,2020)，但同一时期的调查也显示 $1 6 . 8 \%$ 的受调查者在前一周曾参加过家庭亲朋聚会(蔡欢乐 等,2020)，提示未来对社交距离保持行为的考察应注意区分并综合分析变量对行为意向与实际行为的综合预测。其次，疫情背景下与社交距离保持行为决策过程中往往涉及对可能面临隔离、流调信息公布的顾虑等心理过程，而这些社会取向的认知情绪活动既可能直接影响社交距离保持行为相关决策，也可能与亲社会动机等个人特质和社会信任等认知因素产生综合的间接影响，但三个理论均未清楚解释这些社会认知加工过程，这是当前理论发展中的一个薄弱点。最后，针对行为免疫系统理论在疫情健康行为中的应用，Ackerman 等(2021)也曾提出质疑，认为行为免疫系统理论不适用于解释现代呼吸道传染病疫情相关的行为。一方面，行为免疫系统作为进化选择机制，具有行为起源的特定时代背景，即行为源自适应当时所面临的传染病威胁，但当今疫情下的时代背景已经发生巨大变化，尤其是在人口密度、全球化水平方面。另一方面，呼吸道传染病疫情中缺乏行为免疫系统所依赖的感知探测线索，并且行为免疫系统的反应以厌恶情绪为核心，但现有研究尚未厘清厌恶或焦虑与健康保护行为的关系，因此有必要进一步围绕疫情情境中不同情绪反应类型与行为的关系补充实证证据。
+
+# 3.2解释机制
+
+根据对计划行为理论、保护动机理论和行为免疫系统理论的归纳和梳理，结合有关社交距离保持行为的最新研究进展，本文提出，疫情背景下社交距离保持行为的解释涉及三种机制：威胁管理机制、自我效能感机制和社会认同机制。
+
+首先，威胁管理机制以疫情情境为焦点，涉及个体如何评估和应对疾病传染、健康风险，是现有研究和疫情防控实践中最主要的关注点，也是上述三个理论共同强调的核心。在疫情中，恐惧、焦虑是民众常见的情绪反应，而情绪、动机因素是影响健康相关行为的重要变量(Roberto etal.,2021；温芳芳 等,2020; Bish& Michie,2010)，且情绪动机因素的作用常常并不依赖于个体有意识的感知和计算。Frounfelker 等(2021)在应用计划行为理论检验 COVID-19 疫情中社交距离保持行为时也发现，计划行为过程在COVID 疫情中的恐惧情绪、知觉到的COVID-19疾病偏见与社交距离保持行为意向之间发挥部分中介作用。因此，疫情背景下民众的社交距离保持行为可能受自动化层面和有意识加工层面威胁管理的共同影响。
+
+其次，当个体相信自己能够保持社交距离且这一行为有助于保护自己和他人免受疫情威胁时，就更倾向于实施社交距离保持行为。保护动机理论中的应对评估、计划行为理论所强调的知觉行为控制，以及疫情背景下健康防护行为研究对自我效能感这一变量的直接检验(Teasdale et al.,2012; Shahnazi et al.,2020; Jorgensen et al.,2021），为基于自我效能感机制解释疫情中的社交距离保持行为提供了依据。
+
+自我效能感不仅直接影响疫情背景下的社交距离保持行为，同时还可调节恐惧情绪对社交距离保持行为的影响，使高自我效能感个体的恐惧情绪与社交距离保持行为之间的相关减弱，据此，Jorgensen 等(2021)提出，自我效能感机制可独立于威胁管理机制之外，即使民众并不担心疫情威胁，也有可能因自我效能感的作用而有意识地主动扩大社交距离。本文认为疫情知识相关研究发现支持这一观点。具体而言，对疫情知识的了解通常可缓解恐惧和担心情绪，但疫情知识仍然可正向预测社交距离保持行为(van Stekelenburg et al.,2021;Eastwood et al.,2009)，与威胁管理机制的预测不完全相符，可能正是由于掌握正确的疫情知识有利于形成自我效能感，进而促进社交距离保持行为。同时，自我效能感机制也能更全面地解释个体特质因素如认知需求水平、自我控制水平、宿命论信念等对社交距离保持行为的不同预测作用(Xu& Cheng,2021; Resnicow et al.,2021；黎藜，李孟,2021)。例如，高认知需求个体更经常主动获取疫情知识因而自我效能感更高，而低自我控制水平和持有宿命论信念的个体更有可能体验到自我效能感不足。另外，Petherick 等(2021)指出，社交距离保持行为具有高成本和高认知情绪需求特征，不容易成为行为习惯，当疫情持续时间较长时，除了风险认知的变化，民众的保护动机和能力的逐渐减弱也妨碍了社交距离保持行为，表现出“抗疫疲劳”，这一现象一定程度上也体现出自我效能感的作用。
+
+最后，本文认为，除了威胁管理机制和自我效能感机制，疫情下民众的社交距离保持行为可能同时还受到社会认同机制的影响。社会认同(socialidentity）指个体认识到自己属于特定的社会群体，这种群体归属感进而会影响个体的自我概念、信念和态度，并表现出与群体规范相符的行为(Tajfel& Turner,1979)。社会认同理论从个体与群体、宏观与微观、感性与理性相结合的角度，揭示了群际关系的内在心理机制，主要用于解释群际态度和群际行为的发生、发展机制。乐国安 等(2014)以“中日撞船事件”为情境，考察了大学生参与不同程度集体行动的意愿，发现国家认同和学校认同可影响态度进而影响集体行动意向，社会认同机制可解释群体遵从规范的行为，并据此提出理性行为理论与社会认同理论可彼此互补作为解释民众参与集体行动的整合性框架。
+
+疫情下的社交距离保持行为受各类社会文化因素的影响，涉及集体行动参与，因此整合社会认同理论和计划行为理论，有利于更全面地解释主观规范如何与社会背景因素及亲社会动机、社会信任等个体心理因素综合影响社交距离保持行为。疫情相关社会分类、一般人际信任水平等对社交距离保持行为有负向预测作用(Frounfelker et al.,2021; Jorgensen etal.,2021)，病耻感对社交距离保持行为的正向预测作用(Tomczyk et al.,2020)，提示当个体将周围他人划分为内群体或外群体时，可分别缓冲或促进社交距离保持行为。同时，高共情水平的个体更倾向于高水平实施社交距离保持行为(Wright&Fancourt,2021)、对国家应急响应满意程度也可正向预测居家隔离意愿(申鑫 等,2021)，提示个体对遭受疫情影响的他人身处困境、以及对抗击疫情的他人和国家的感同身受与体谅，可能促进其遵守所在群体的社会规范，从而促进社交距离保持行为。上述研究为支持疫情背景下影响社交距离保持行为的社会认同机制提供了初步证据。
+
+综上，疫情背景下社交距离保持行为的解释涉及三种机制：威胁管理机制、自我效能感机制和社会认同机制。第一，威胁管理机制得到了三个理论的共同支持，计划行为理论和保护动机理论强调有意识的威胁管理；行为免疫系统支持自动化威胁管理机制。第二，自我效能感机制是保护动机理论所着重强调的应对评估的重要内容，也是对计划行为理论的知觉行为控制这一要素的扩展，并且自我效能感机制与威胁管理机制有一定的独立性，重视自我效能感有助于更全面地理解疫情情境、疫情情境认知特别是疫情知识、个体认知特征的预测作用。第三，社会认同机制可整合社会认同理论和计划行为理论中的主观规范要素，更综合地体现个体与群体、理性和非理性因素的作用，即民众在认同所属群体、认同其价值观和防疫行为时，更有可能遵守符合社会规范的社交限制措施和建议。
+
+# 4小结与展望
+
+疫情背景下的社交距离保持行为和个人卫生行为是普通民众最普遍采用、且已被证实可有效遏制呼吸道传染病疫情的两类典型非药物干预措施，但两类行为的内在机制并不完全相同，必须有针对性地分析和考察社交距离保持行为的影响因素。其中，疫情特征、与疫情相关的认知包括疫情严重性知觉、风险知觉、可控性知觉和主观规范，以及疫情下的情绪反应，对民众社交距离保持行为的影响受到已有研究的长期关注和反复检验。近期研究则提示，社会文化背景等宏观环境因素，以及宜人性、尽责性、黑暗人格、认知需求水平、健康风险敏感性、社会信任、共情等个体心理特质，也与疫情背景下民众社交距离保持行为有关。已有研究主要基于计划行为理论、保护动机理论，以及行为免疫系统理论这一新视角，针对疫情背景下包括社交距离保持行为在内的健康保护行为进行了理论解释；具体而言，社交距离保持行为可能存在威胁管理机制、自我效能感机制和社会认同机制的综合作用。未来还应进一步整合现有不同理论，例如根据社会认同理论和计划行为理论，构建双系统模型，从而更全面地理解疫情背景下的社交距离保持行为及其内在机制。
+
+从2003 年"非典"到当前的新冠疫情，国内研究者们在疫情对民众情绪与应激反应、心理健康、风险认知、群际认知等领域开展了大量研究，并取得了一些很有价值的发现(温芳芳 等,2020；严亚琼 等,2004；周宓，王皓,2020)，为我国开展对突发公共卫生事件中民众过度反应的心理疏导工作提供了支持。与民众过度反应同样值得重视的是民众低估风险，反应不足。然而，与国外围绕计划行为理论、保护动机理论、行为免疫系统理论持续关注疫情背景下非医学干预措施的作用及影响机制不同，国内有关疫情背景下非药物干预行为的研究仍然以知信行调查为主，虽然少数研究对行为影响机制进行了检验(例如：申鑫 等，2021;Liu,2021)，但是目前对疫情相关健康行为内在机制的理论探索尚不足够。为了更清楚地阐释疫情背景下社交距离保持行为的影响机制并探索行为促进的实践方案，未来研究应从研究内容、理论发展和研究方法三个方面推进。
+
+首先，从变量选择上看，疫情背景下社交距离保持行为的现有研究对个体心理特质和社会文化因素如自我控制、社会信任等的考察尚处初步探索阶段，情绪动机因素，包括焦虑、厌恶、亲社会动机、群体认同等的具体影响机制也尚不明确。对疫情的担心或焦虑是疫情下民众最常见的情绪反应(van der Velden et al.,2020；温芳芳 等,2020)，有关疫情焦虑情绪的研究侧重疫情对个体心理健康的影响，虽然有研究显示焦虑对社交距离保持行为缺乏直接预测作用(Bish& Michie,2010)，但仍然有必要进一步考察其在疫情情境认知、自我效能感等变量与社交距离保持行为之间可能产生的间接影响。类似地，应用行为免疫系统理论解释疫情中健康保护行为时面临的一个主要质疑也源自目前该领域缺乏对疫情相关厌恶情绪体验的考察。此外，在面对类似COVID-19 这类致死率相对低、传染率较高的呼吸道疾病时，亲社会动机对于促进民众社交距离保持行为有着重要作用(Oosterhoff et al.,2020)，尤其在国内集体主义文化背景下，担心传染他人可能比担心自己染病更能促进社交距离保持，进一步明确各类情绪、亲社会动机、及其他社会认知因素的综合影响有利于丰富对疫情背景下社交距离保持行为的理解。
+
+其次，有必要进一步整合疫情背景下社交距离保持行为的理论解释。以Strack 和Deutsch(2004)所提出的社会行为的熟虑-冲动双系统模型为例，该模型综合考虑了影响社会行为的理性和非理性因素，其中，熟虑系统的作用路径与计划行为理论大体一致，冲动系统作用路径则包括了由知觉到刺激，继而激发冲动系统网络中的成分，并进一步激活行为图式。在健康行为如戒烟、身体锻炼，冒险行为，亲社会行为等研究领域，双系统模型是一个研究热点，得到了较多实证研究的支持。疫情防控背景下保持社交距离，既可以认为是个体在风险认知驱动下的健康相关行为，存在威胁管理机制，也可认为是个体在自由活动和群体利益之间权衡的亲社会行为，存在社会认同机制，而当前有关疫情中社交距离保持行为的理论解释分别从理性行为、自动化行为的解释思路出发，缺乏对理性与非理性影响因素的综合考虑，有必要参考健康行为领域的理论发展趋势，构建整合性理论框架，从而更全面地理解疫情背景下民众保持社交距离的心理机制。
+
+最后，应扩展该领域研究方法的多样性。一方面，现有大部分研究主要采用横断设计的调查研究，追踪研究相对较少，对各种影响因素与民众社交距离保持行为之间是否存在因果关系的理解十分有限。为数不多的几项研究采用实验法探讨了疫情知识和疫情情境认知对社交距离保持行为的影响(Eastwood et al.,2009; Teasdale et al.,2012; van Stekelenburg etal.,2021)，但存在实验设计简单或变量混淆的问题。未来研究应当基于现有研究发现和理论框架，结合追踪研究和实验检验，更直接地检验各种影响因素的干预作用，为疫情防控实践提供启示，通过优化政府及公共卫生部门的信息发布、媒体传播等途径，促进民众社交距离保持行为。另一方面，疫情背景下社交距离保持的行为意向和民众对实际行为实施的回溯性报告之间存在不一致(Hagger et al.,2020)。这种不一致可能源自从行为意向到实际行为的转化不足，也可能是由于现有研究采用主观报告的方式评估行为遵守意向，易受到社会赞许性的干扰，未来研究可结合内隐联想测验，以及虚拟现实等技术开发更客观的行为测量工具。
+
+致谢：感谢北京林业大学王明怡教授和审稿专家在论文修改过程中提出的宝贵建议。
+
+# 参考文献
+
+蔡欢乐，朱言欣，雷璐碧，潘程浩，朱乐玮，李菁华,..．郝元涛.(2020).新型冠状病毒肺炎相关知识、行为 和心理应对：基于网络的横断面调查．中国公共卫生,36(02),152-155.   
+段文婷，江光荣.(2008)．计划行为理论述评．心理科学进展,16(02),315-320.   
+黎藜,李孟.(2021).打破健康传播中的"无形之墙”——宿命论信念和信息传播对疫情中公众防护行为倾向 的影响研究．传媒观察(06),44–51.   
+林丹华，方晓义，李晓铭.(2005).健康行为改变理论述评．心理发展与教育,21(04),122-127.   
+聂胜楠，曹俊，廣安写，郑远翠.(2020).公众新冠肺炎知信行现状及影响因素分析．上海预防医学,32(06), $4 8 1 - 4 8 6 + 4 9 1$ ：   
+申鑫，姜恒，李丽清，甘勇，卢祖洵，田坤明.(2021)．新型冠状病毒肺炎疫情期间居民居家隔离意愿的影响 因素分析——基于结构方程路径分析模型．现代预防医学,48(02),325-328+344.   
+温芳芳，马书瀚，叶含雪，齐玥，佐斌.(2020).“涟漪效应"与"心理台风眼效应"：不同程度COVID-19疫情地 区民众风险认知与焦虑的双视角检验．心理学报,52(9),1087-1104.   
+严亚琼，陈冬峨，郭蕊，邓树嵩，谭晓东.(2004).公众对 SARS 的理性认知与风险认知相关分析．中国公共 卫生,20(01),10-11.   
+杨盈，朱慧珺，周婉，张明杨，谢怡萍，包寒吴霜，..．蔡华俭.(2020).行为免疫系统理论及其研究：新视野 下的再考察．心理科学进展,28(11),1865-1879.   
+乐国安，赖凯声，姚琦，薛婷，陈浩.(2014).理性行动-社会认同整合性集体行动模型．心理学探新,34(02), 158-165.   
+赵莹颖，胡建功，张艳艳,李征，白如冰，李长青，李印东.(2020).北京市顺义区居民新型冠状病毒肺炎知 信行调查研究．中国健康教育,36(08),693-696.   
+周宓，王皓.(2020)．新型冠状病毒肺炎疫情全球爆发期间民众群体心理研究．国防科技,41(03),5-10.   
+Ackerman, J.M.,Tybur,J.M.,& Blackwell,A.D. (021). Whatrole does pathogen-avoidance psychologyplay in pandemics? Trends in Cognitive Science, 25(3),177-186.   
+Barrios,J.M.,& Hochberg,Y.V. (2020). Risk perception through the lens of politics in the time of the COVID-19 pandemic (April 2020). NBER Working Paper; No. w27008,http://dx.doi.0rg/10.2139/ssrn.3568766   
+Bashirian,S.,Jenabi,E.,Khazaei,S.,Barati,.,Karimi-Shahanjarin,A.,Zareian,S..oeini,B. (22).Facto associated with preventive behaviours of COVID-19 among hospital staff in Iran in 2020: An application of the protection motivation theory. Journal of Hospital Infection, 105(3), 430-433.   
+Bicchieri,C.,Fatas,E.,Aldama,A.,Casas,A.,Deshpande,I.,Lauro,M...Wen,R.(2O21). Inscience we (should) trust: Expectations and compliance across nine countries during the COVID-19 pandemic.PLoS ONE, 16(6),Article e0252892. https://doi.org/10.1371/journal.pone.0252892   
+Bish, A.,& Michie, S. (2010). Demographic and atitudinal determinants of protective behaviours during a pandemic: A review. British Journal of Health Psychology,15(Pt 4),797-824.   
+Bosnjak,M.,Ajzen,I.,& Schmidt,P. (202O). The theory of planned behavior: Selected recent advances and applications. Europe's Journal of Psychology,16(3),352-356.   
+Bults,M.,Beaujean,D.J.,Richardus,J.H.,& Voeten,H.A.(2Ol5).Perceptionsand behavioral responses of the general public during the 2009 influenza A(H1N1) pandemic:Asystematic review. Disaster Medicine and Public Health Preparedness, 9(2),207-219.   
+Chu,D.K.,Akl,E.A.,Duda,S.,Solo,K.,Yaacoub,S.Schunemann,H.J.,&authors,C.-S.U.R.G.E.s.(2020). Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARSCoV-2 and COVID-19: A systematic review and meta-analysis. Lancet, 395(10242),1973-1987.   
+Cruwys,T.,Stevens,M.,Donaldson,J.L.,Cardenas,D,Platow,.J.Reynolds,K.J.,&Fong,P.(21).Perceived COVID-19 risk is attenuated by ingroup trust: Evidence from three empirical studies. BMC Public Health, 21(1), 869-880.   
+Dryhurst,S.,Schneider, C.R., Kerr,J.,Freeman,A.L.J.,Recchia,G., Van Der Bles,A. ... Van DerLinden,S. (2020). Risk perceptions of COVID-19 around the world. Journal of Risk Research, 23(7-8), 994-1006.   
+Eastwood,K.,urrheim,D.,Francis,J.L.,dEspaignet,E..,uncan,S.,sam,F.,&Speare,R.(29).Knowledge about pandemic influenza and compliance with containment measures among Australians. Bulletin of the World Health Organization, 87(8), 588-594.   
+Frounfelker,R.L., Santavicca,T.Li, Z.Y.,Miconi,D.,Venkatesh, V.，& Rousseau,C. (2021).COVID-19 experiences and social distancing: Insights from the theory of planned behavior. American Journal of Health Promotion,35(2),Article 089011712110209.https://doi.org/10.1177/08901171211020997   
+Hagger,M.S.,Smith,S.R.,Keech,J.J.,Moyers,S.A.,&Hamilton,K. (2O2).Predicting social distancing intention and behavior during the COVID-19 pandemic: An integrated social cognition model. Annals of Behavioral Medicine, 54(10),713-727.   
+Huynh,T.L.D. (2020). Does culture mater social distancing under the COVID-19 pandemic? Safety Science,130, Article 104872. htps://doi.org/10.1016/j.ssci.2020.104872   
+Jorgensen,F.,Bor,A.,& Petersen,M.B.(O21).Compliance without fear: Individual-level protective behaviour during the first wave of the COVID-19 pandemic. British Journal of Health Psychology, 26(2), 679-696.   
+Kempthorne, J. C.,& Terrizz, J. A., Jr. (2O21). The behavioral immune system and conservatism as predictors of disease-avoidant atitudes during the COVID-19 pandemic.Personality and Individual Diffrences,178, Article 110857. https://doi.org/10.1016/j.paid.2021.110857   
+Lau, J.T.F.,Kim,J.H.,Tsui,H.,& Griiths,S.(2o7a).Anticipated and current preventive behaviors iresponse to an anticipated human-to-human H5N1 epidemic in the Hong Kong Chinese general population. BMC Infectious Diseases,7, Article 18. https://doi.0rg/10.1186/1471-2334-7-18   
+Lau, J.T.F.,Kim,J.H.,Tsui,H.,& Grifiths,S. (2Oo7b).Perceptions related to humanavian influenza and their associations with anticipated psychological and behavioral responses at the onset of outbreak in the Hong Kong Chinese general population. American Journal of Infection Control, 35(1),38-49.   
+Lau, J. T.F., Yang, X.,Tsui, H.,& Kim, J. H. (2003). Monitoring community responses to the SARS epidemic in Hong Kong: From day 10 to day 62.Journal of Epidemiology and Community Health,57(11),864-870.   
+Lau,J.T.F.,Yang,X.,Tsui,H,Pang,E.,& Kim, J.H.(O04).SARS preventive andrisk behavioursofHong Kong air travellers.Epidemiologyand Infection,132(4),727-736.   
+Lau, J.T.F.,Yang,X.,Tsui,H.,& Pang,E.(2Oo4). SARS related preventive and risk behaviours practiced by Hong Kong-mainland China crossborder travellers during the outbreak of the SARS epidemic in Hong Kong. Journal of Epidemiology and Community Health, 58(12), 988-996.   
+Liao, Q.,Cowling,B.J.,Lam, W. W.,Ng,D.M., &Fielding,R. (2014). Anxiety, worry andcognitiverisk estimate in relation to protective behaviors during the 2009 influenza A/H1N1 pandemic in Hong Kong: Ten crosssectional surveys. BMC Infectious Diseases,14,Article 169. https://doi.org/10.1186/1471-2334-14-169   
+Liao, Q.,Cowling,B.J., Wu,P.,Leung, G. M.,Fielding,R.,&Lam, W. W. (2015).Population behavior paterms in response to the risk of influenza A(H7N9) in Hong Kong, December 2013-February 2014.International Journal of Behavioral Medicine,22(5), 672-682.   
+Liu, P.L.(2021). COVID-19 information on social media and preventive behaviors: Managing the pandemic through personalresponsibility.SocialScience&Medicine，277,Article 113928. https://doi.org/10.1016/j.socscimed.2021.113928   
+Luo,Y.,Yao,L., Zhou,L., Yuan,F.，& Zhong, X.(2020). Factors influencing health behaviours during the coronavirus disease 2019 outbreak in China: An extended information-motivation-behaviour skils model. PublicHealth,185,298-305.   
+Makhanova,A.,& Shepherd, M.A. (2020). Behavioral immune system linked to responses to the threat of COVID19. Personality and Individual Differences, 167, Article 110221. https://doi.0rg/10.1016/j.paid.2020.110221   
+Moran,K.R.,& Del Valle,S.Y. (2016).Ameta-analysis of the association between gender and protectivebehaviors inresponse to respiratory epidemics and pandemics. PLoS ONE, $I I ( 1 0 )$ ，Article e0164541. https://doi.org/10.1371/journal.pone.0164541   
+Olivera-La Rosa,A., Chuquichambi, E. G.,& Ingram, G.P.D. (2020). Keep your (social) distance: Pathogen concerns and social perception in the time of COVID-19.Personality and Individual Diferences,166, Article 110200. https://doi.org/10.1016/j.paid.2020.110200   
+Oosterhoff,B.,Palmer,C.A.,Wilson,J.,&Shook,N.(02).Adolescents' motivations to engage insocialdistancing during the COVID-19 pandemic: Associations with mental and social health. Journal of Adolescent Health, 67(2), 179-185.   
+Park, J. H. (20l5). Introversion and human-contaminant disgust sensitivity predict personal space. Personality and Individual Differences,82,185-187.   
+Paykani,T.,Zimet, G.D.,Esmaeili,R.,Khajedaluee,A.R.,&Khajedaluee,M. (202O).Perceived social supportand compliance with stay-at-home orders during the COVID-19 outbreak: Evidence from Iran. BMC Public Health,20(1),Article 1650. https://doi.0rg/10.1186/s12889-020-09759-2   
+Pedersen,M.J.,& Favero,N. (2O20).Social distancing during the COVID -19 pandemic: Who are the present and future noncompliers? Public Administration Review, 80(5), 805-814.   
+Petherick,A., Goldszmidt,R.,Andrade,E.B.,Furst,R.,Hale,T.,Pot,A.,& Wood,A.(2021).A worldwide assessment of changes in adherence to COVID-19 protective behaviours and hypothesized pandemic fatigue. Nature Human Behaviour, 5(9),1145-1160.   
+Prasetyo, Y.T.， Castillo,A.M.， Salonga,L.J., Sia,J. A.,& Seneta, J. A. (202O).Factors affcting perceived effectiveness of COVID-19 prevention measures among Filipinos during enhanced community quarantine in Luzon,Philippines: Integrating protection motivation theory and extended theory of planned behavior. International Journal of Infectious Diseases, 99,312-323.   
+Rashid,H.,Ridda,1.,King,C.Begun,M.,Tekin,H.,Wood,J.G.,& Booy,R.(2015).Evidence compendiumand advice on social distancing and other related measures for response to an influenza pandemic.Paediatric Respiratory Reviews, 16(2),119-126.   
+Reinders Folmer,C.P.,Brownlee,M.A.,Fine,A.D., Kooistra,E.B.,Kuiper,M.E., Olthuis,E.H.,.. VaRooij, B.(2021). Social distancing in America: Understanding long-term adherence to COVID-19 mitigation recommendations. PLoS ONE,16(9),Article e0257945. https://doi:10.1371/journal.pone.0257945   
+Resnicow, K.,Bacon,E.,Yang,P.,Hawley,S.,VanHorn,M.L.,&An,L. (2021).Novel predictors ofCoronavirus protective behaviors among US adults: The role of trait reactance,conspiracy beliefs,and belief in the apocalypse.JournalofMedicalInternetResearch,23(4)，Article 23488. https://doi.org/10.2196/preprints.23488   
+Roberto,A.J.,Zhou,X.,&Lu,A. H. (2O21).The effects ofperceived threatand efficacy oncollege students' social distancing behavior during the COVID-19 pandemic. Journal of Health Communication, 26(4),264-271.   
+Rogers,R. W. (1975).Aprotection motivation theoryof fear appeals and attitude change1.The Journal ofPsychology, 91(1), 93-114.   
+Schaler, M. (2011). The behavioural immune system and the psychology of human sociality. Philosophical Transactions of the Royal Socociety Lond B: Biological Science, 366(1583),3418-3426.   
+Shahnazi, H.,Ahmadi-Livani,M.,Pahlavanzadeh,B.,Rajabi,A., Hamrah,M.S.,& Charkazi,A. (2o2O).Assessing preventive health behaviors from COVID-19: A cross sectional study with health belief model in Golestan Province， NorthernofIran.InfectiousDiseasesofPoverty，9(1)， Article157. https://doi.0rg/10.1186/s40249-020-00776-2   
+Shook,N.J.,Sevi,B.,Lee,J.,Oosterhoff,B.,&Fitzgerald,H.N. (202O).Disease avoidance inthe time ofCOVID19: The behavioral immune system is associated with concern and preventative health behaviors. PLoS ONE,15(8),Article e0238015. https://doi.org/10.1371/journal.pone.0238015   
+Siegrist,M.,& Bearth,A. (2021). Worldviews, trust, and risk perceptions shape public acceptance of COVID-19 public health measures.Proceedings of the National Academy of Sciences ofthe United States of America, 118(24),Article 2100411118. https://doi.org/10.1073/pnas.2100411118   
+Stangier, U., Kananian, S.,& Schuller,J. (2021).Perceived vulnerability to disease, knowledge about COVID-19, and changes in preventive behavior during lockdown in a German convenience sample. Current Psychology, Article 10227. https://doi.0rg/doi:10.1007/s12144-021-01456-6   
+SteelFisher,G.K.,Blendon,R.J., Ward,J.R.M.,Rapoport,R,Kahn,E.B.,&Kohl,K.S. (202).Public respose to the 2009 influenza AH1N1 pandemic: Apoling study in five countries. The Lancet Infectious Diseases, 12(11), 845-850.   
+Strack,F.,& Deutsch,R. (2o04).Reflective and impulsive determinants of social behavior.Personality and Social Psychology Review, 8(3),220-247.   
+Sturman,D.,Auton,J. C.，& Thacker,J.(2021). Knowledge of social distancing measures and adherence to restrictions during the COVID-19 pandemic. Health Promotion Journal of Australia, 32(2),344-351   
+Tajfel,H.，& Turner, J. (1979). An integrative theoryof intergroupconflict. Social Psychology of Intergroup Relations,33,94-109.   
+Taylor,S.,Landry, C.A.,Paluszek, M. M.,& Asmundson, G.J. G. (2020). Reactions to COVID-19: Differential predictors of distress, avoidance, and disregard for social distancing. Journal of Affective Disorders, 277, 94-98.   
+Teasdale,E.,Yardley,L., Schlotz,W.,& Michie,S.(2012). The importance of coping appraisal in behavioural responses to pandemic flu. British Journal of Health Psychology, 17(1), 44-59.   
+Teslya,A.,Pham,T.M., Godijk,N.G.,Kretzschmar,M.E.,Bootsma,M.C.J.,&Rozhnova, G. (2020).Impactof self-imposed prevention measures and short-term government-imposed social distancing on mitigating and delaying a COVID-19 epidemic: A modeling study. PLoS Medicine,17(7),Article e1003166. https://doi.org/10.1371/journal.pmed.1003166   
+Timpka,T.,Spreco,A.,Gursky,E.,Eriksson,O.,Dahlstrom,O.,Stromgren,M.,.Holm,E. (2014). Intentions to Perform Non-Pharmaceutical Protective Behaviors during Influenza Outbreaks in Sweden: A CrossSectional Study following a Mass Vaccination Campaign. PLoS ONE， 9(3)，Article e91060. https://doi.org/10.1371/journal.pone.0091060   
+Tomczyk, S.,Rahn, M.,& Schmidt, S.(2020). Social distancing and stigma: Association between compliance with behavioral recommendations, risk perception, and stigmatizing atitudes during the COVID-19 outbreak. Frontiers in Psychology,11, Article 1821. https://doi.org/10.3389/fpsyg.2020.01821   
+Tooher,R.,Collins,J.E.，Street,J.M.， Braunack-Mayer, A.，& Marshal, H. (2013). Community knowledge, behaviours and atitudes about the 2O09 H1N1 Influenza pandemic: A systematic review. Influenza and Other Respiratory Viruses, 7(6),1316-1327.   
+van der Velden,P.G. Contino,C.,Das,M.,van Loon,P.,& Bosmans,M. W. G. (202O). Anxiety and depression symptoms, and lack of emotional support among the general population before and during the COVID-19 pandemic: A prospective national study on prevalence and risk factors. Journal of Afective Disorders, 277, 540-548. van Stekelenburg,A.,Schaap, G.,Veling,H.,& Buijzen,M. (2021).Investigating and improving the accuracyof US citizens' beliefs about the COVID-19 pandemic: Longitudinal survey study. Journal of Medical Internet Research,23(1),Article e24069.https://doi.org/10.2196/24069 Wright,L.,& Fancourt, D.(2O21).Do predictors of adherence to pandemic guidelines change over time? A panel study of 22,000 UK adults during the COVID-19 pandemic.Preventive Medicine,153,Article 106713. https://doi.org/10.1016/j.ypmed.2021.106713 Xu,P.,& Cheng,J. (2021). Individual diffrences in social distancing and mask-wearing in the pandemic ofCOVID  
+19: The role of need for cognition,self-control and risk atitude.Personality and Individual Differences,   
+175,Article 110706.https://doi.org/10.1016/j.paid.2021.110706 Ye,M.,&Lyu, Z. (2020).Trust, risk perception,and COVID-19 infections: Evidence from multilevel analyses of combined original dataset in China. Social Science & Medicine， 265，Article 113517. https://doi.org/10.1016/j.socscimed.2020.113517 Zajenkowski,M.,Jonason,P.K.,Leniarska,M.,&Kozakiewicz,Z.(2O20).Who complies with therestrictions to reduce the spread of COVID-19? Personality and perceptions of the COVID-19 situation. Personality and Individual Differences,166,Article 110199.https://doi.org/10.1016/j.paid.2020.110199 Zhang,X., Wang,F., Zhu,C.,& Wang,Z.(2020).Wilingnessto self-isolate when facing a pandemic risk: Model, empirical test,and policy recommendations.International Journal of Environmental Research and Public Health,17,Article 197.https://doi.org/10.3390/ijerph17010197
+
+# Social distancing during a respiratory disease pandemic: Correlates
+
+# and determinants
+
+SUN Shiyue, ZHANG Yu
+
+(Department of Psychology,Beijing Forestry University，Beijing，100083)
+
+Abstract:The public's high-level of compliance and practice of social distancing measures is instrumental in reducing the spread of respiratory infectious diseases in epidemic or pandemic contexts. However, public atitudes and behaviors regarding social distancing fluctuate throughout a pandemic. Factors such as pandemic severity, perceptions of and emotional response to the disease or pandemic, socio-cultural aspects of the society and individual differences in psychological traits are associated with public engagement in social distancing. In this article, the theories of planned behavior,protective motivation theory and the theory of behavioral immune system are discussed to explain how people protect themselves against pandemic threats.Based on previous research findings and theoretical explorations, this review proposes that threat management, self-efficacy,and social identity could have combined influences on people's intentions and behaviors regarding social distancing.To clarify the mechanisms underlying public engagement in social distancing in pandemic contexts, further investigation is necessary on the influences of emotion, social cognition, and psychological traits, based on integrating theories such as the two-system model, with longitudinal surveys and experimental studies.
+
+Key words:respiratory infectious disease, pandemic/epidemic, social distancing, psychological traits

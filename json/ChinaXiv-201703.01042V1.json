@@ -1,0 +1,423 @@
+[
+    {
+        "type": "text",
+        "text": "Experimental Study of Improved HAWT Performance in Simulated Natural Wind by an Active Controlled Multi-Fan Wind Tunnel ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kazuhiko Toshimitsu1, Takahiko Narihara², Hironori Kikugawa³, Arata Akiyoshi4, Yuuya Kawazu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Dept.of Informationand Systems Engineeing,FacultyofInformation Enginering,Fukuoka Instituteof Technology,   \n3-30-1 Wajiro-higashi,Higashi-ku, Fukuoka 811-0295, Japan   \n2.Dept.of Energyand EnvironmentalEngineering,Interdisciplinary Graduate SchoolofEngineering Sciences,Kyushu   \nUniversity   \n3.Dept. of Mechanical Engineering, Oita National College of Technology   \n4. IHI Corporation   \n5. Mechanical-Environmental System Engineering Major, Oita National College of Technology ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The effects of turbulent intensity and vortex scale of simulated natural wind on performance of a horizontal axis wind turbine (HAWT)are mainly investigated in this paper. In particular,the unsteadinessand turbulence of wind in Japan are stronger than ones in Europe and North America in general.Hence,Japanese engineers should take account of the velocity unsteadiness of natural wind at installed open-air location to design a higher performance wind turbine. Using the originally designed five wind turbines on the basis of NACA and MEL blades,the dependencies ofthe wind frequency and vortex scale of the simulated natural wind are presented.As the results,the power coeficient of the newly designed MEL3-type rotor in the simulated natural wind is $1 3 0 \\%$ larger than one in steady wind. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Wind Turbine,Wind Energy,Natural Wind, Unsteady Flow,Rotor Design,Turbulence ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A wind turbine is developed through the following procedure in general. Firstly,a design developer evaluates performance of a newly designed wind turbine in steady wind through a wind tunnel test to determine the basic design. Secondly, performance of a scaled model of a prototype wind turbine is investigated at the installation location for a year to evaluate the performance.Finally, the developer determines the design. For these procedures,it needslong time and large cost to developanew wind turbine. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently,it is important that one should consider the effects of unsteadiness and turbulence of the wind on the performance for high output power. This is because that a wind turbine in natural wind with velocity fluctuation and turbulence show larger power than one in steady wind for some installation locations [1].For the reasons, the current wind turbine design is developed in consider ation of disturbance effect of the wind [2, 3]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The purpose of this study is to establish the method of a wind turbine design,which is tailor-made for the naturalwindatinstallationlocationwithoutthefieldtest.In order to evaluate the performance in natural wind, simu",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nomenclature ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c3e3a959c5a40a0691d09abe955d1e1588cc7df0f5ed176f288926a4fa9e6feb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>A</td><td>Wind received area (m²]</td><td>U，u</td><td>Wind velocity (m/s)</td></tr><tr><td>C</td><td>Torque coefficient</td><td colspan=\"2\">Greek letters</td></tr><tr><td>Cw</td><td>Power coefficient</td><td>p</td><td>Fluid density (kg/m3)</td></tr><tr><td>Cws</td><td>Maximum power coefficient in steady wind</td><td>9</td><td>Standard deviation of wind velocity</td></tr><tr><td>Cwlt</td><td>Maximum power coefficient in unsteady wind</td><td>@</td><td>Circular frequency (rad/s)</td></tr><tr><td>f</td><td>Wind oscillation frequency (Hz)</td><td></td><td>Tip speed ratio</td></tr><tr><td>I</td><td>Turbulent intensity (%)</td><td>Subscripts</td><td></td></tr><tr><td>L</td><td>Vortex scale (m)</td><td>D</td><td>Design value</td></tr><tr><td>P</td><td>Output power of wind turbine (W)</td><td>S</td><td>Steady wind, steady component</td></tr><tr><td>Su</td><td>Power spectrum density function (m²/s)</td><td>u</td><td>Unsteady wind, unsteady component</td></tr><tr><td>T</td><td>Torque (Nm)</td><td>0</td><td>Time averaged value</td></tr><tr><td>Tw</td><td>Wind oscillation period (s)</td><td></td><td>Unsteady value</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/63f72e89b022f4f06a4e2be37c17b5bc0742abf35f405ef33da675d39badc93a.jpg",
+        "img_caption": [
+            "Fig.1Schematics of experimental system to measure wind turbine performance. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c5df4c55174cc6798628290f9468a371e6267caf22aafaea5a52722d3239c5e.jpg",
+        "table_caption": [
+            "Table1 Design condition of rotor "
+        ],
+        "table_footnote": [
+            "$\\lambda _ { D } =$ Designed Tip speed ratio,AOA $\\underline { { = } }$ Angle of attack,POT=Position of torsional axis from leading edge,MOI=Moment of int "
+        ],
+        "table_body": "<html><body><table><tr><td>Rotor</td><td>U</td><td>2D</td><td>A0</td><td>POT</td><td>M1</td><td>M</td></tr><tr><td>NACA1</td><td>10</td><td>5.0</td><td></td><td>50%</td><td>1.52×10-4</td><td>120</td></tr><tr><td>NACA2</td><td>6.5</td><td>3.5</td><td>8</td><td>35%</td><td>8.65×10-5</td><td>102</td></tr><tr><td>MEL1</td><td>6</td><td>5.0</td><td>10</td><td>33%</td><td>2.81×10-5</td><td>67</td></tr><tr><td>MEL2</td><td>6</td><td>4.0</td><td>15</td><td>33%</td><td>3.95×10-5</td><td>71</td></tr><tr><td>MEL3</td><td>6</td><td>2.5</td><td>15</td><td>33%</td><td>1.42×10-4</td><td>104</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "lated natural wind is generated by a multi-fan type active control wind tunnel. In this study, output powers of five rotors are examined in the simulated natural wind which is made on the basis of Karman's power spectrum density function.The effect of vortex scale on the wind turbine performance and appropriate design point are shown [4]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental Procedure ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental apparatus ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows the measuring system in experiment. The wind turbine type is a horizontal axis with three blades.The cross section of the wind tunnel is $\\scriptstyle 1 \\mathrm { m } \\times 1 \\mathrm { m }$ The flow is generated by the actively controlled 66 fans. The wind turbine power measuring system is consisted of the torque detector, the rotational speed sensor, the torque converter (Onosokki, SS-005，MP-981)，the DC motor (Maxon,RE25,20W) and the DC electric power supply. The DC motor works as a power generator to control the rotor load and the rotational speed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WindTurbineModels ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 1 and Figure 2 show the design conditions of rotors, its schematic and photo respectively. The rotors of ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NACA are designed on the basis of NACA $6 3 2 \\mathrm { x x }$ series blade of Reynold number $\\mathrm { R e } = 3 . 0 \\times 1 0 ^ { 6 }$ .The rotor NACA1 is designed by Furukawa et al. for a long type wind lens turbine [5],which the profile is formed from NACA63218 at root to NACA63212 at tip along a span. The characteristics and performance for steady and sinusoidally oscillating velocity wind have been studied in the authors' previous papers [6]. The rotor NACA2 and MEL1-3 are newly designed on the basis of NACA63218 with $\\mathrm { R e } =$ $3 . 0 \\times 1 0 ^ { 6 }$ and MEL002 with $\\mathrm { R e } = 9 . 0 \\times 1 0 ^ { 4 }$ respectively. Here, the MEL series blade (MELo02) was developed by the National Institute of Advanced Industrial Science and Technology(AIST) for wind turbine in Japan. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2e933b2d6344ec8b05ab2b4a140c5bc6b97b8885e3b3156d16b78e11ec87175.jpg",
+        "img_caption": [
+            "Fig.2Schematic and photograph of the wind turbine model, MEL3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this experiment, two kinds of Reynolds number should be considered.One is Rotor Reynolds Number, $\\mathrm { R e } { = } 9 . 0 { \\times } 1 0 ^ { 4 }$ , which is calculated by steady velocity $7 \\mathrm { m / s }$ and rotor diameter $0 . 1 9 4 \\mathrm { ~ m ~ }$ as a characteristic length. Another is local blade Reynolds number.For example, when inflow velocityof the blade isassumed as $2 ~ \\mathrm { m / s }$ ，it is determined as $\\mathrm { R e } = 1 . 8 \\times 1 0 ^ { 4 } \\sim 3 . 7 \\times 1 0 ^ { 4 }$ with tip speed ratio $\\lambda = 2 \\sim 4$ and blade chord length 2cm as a characteristic length.Then, the local blade Reynolds number is the same orderas one ofMEL002. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Definition of Power and Torque Coefficients ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The power and torque coefficients of wind turbines are defined by following equations; ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { C _ { w } = \\displaystyle \\frac { P } { \\frac { 1 } { 2 } \\rho A \\overline { { U } } ^ { 3 } } } } \\\\ { { C _ { t } = \\displaystyle \\frac { T } { \\frac { 1 } { 2 } \\rho A r \\overline { { U } } ^ { 2 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda = \\frac { r \\omega } { \\overline { { U } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here, $P , T , \\rho , A$ and $\\overline { { U } }$ denote generated power and torque of a wind turbine, fluid density, rotor swept area and the upstream time averaged flow velocity, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Wind Turbine Performance in Steady Flow ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 and 4 show the effect of rotor type on the power and torque coefficients in steady wind of $7 ~ \\mathrm { m / s }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The rotors NACA1 and MEL3 show larger power coefficients O.32 than other rotors. The maximum power coefficientofNACA2andMEL1-3 existat $\\lambda = 3 . 0$ ，3.8,4.1 and 2.3, respectively. The tip speed ratios are more of the same as the design tip speed ratios.Thus,it means that the authors’design is appropriate in this study. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bdb9dd9a949447f56e9c1c80eff00efe8a97f92b50e98a62d3cb464d91773a2.jpg",
+        "img_caption": [
+            "Fig.3Power coefficient of the wind turbines in steady wind at ${ \\overline { { U } } } = 7 \\mathrm { m / s }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d792ce03454748982e7e8861c9710ab24054bbdd89a018c60670a56e2edd6c45.jpg",
+        "img_caption": [
+            "Fig.4Torque coefficient of the wind turbines in steady wind at ${ \\overline { { U } } } = 7 \\mathrm { m / s }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Performance in Sinusoidally Oscillating Velocity Flow ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Wind conditions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The upstream wind velocity of the wind turbine is undergoing identical harmonic oscillated as follow: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ( t ) = \\overline { { U } } + \\widetilde { u } \\sin ( 2 \\pi f t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The performances of the wind turbines are investigated as the upstream mean velocities ${ \\overline { { U } } } = 7 \\mathrm { { m / s } }$ with oscillating amplitudes $\\widetilde { u } = 1 . 4 \\mathrm { { m } / \\mathrm { { s } } }$ 0 $20 \\%$ of $7 \\mathrm { m / s }$ ).The wind velocity oscillates at frequencies $\\mathnormal { f } = 0 . 0 3 3$ ，0.05, 0.083 and $0 . 2 5 \\mathrm { H z }$ and their periods $T _ { w } = 3 0 \\mathrm { s }$ ,20s,12s,8s, 4s.Here, the amplitude,frequencies and periods are determined on the basis of the natural wind data of Kasuga campus of Kyushu University in Japan [7]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Increasing ratio of power coefficient ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The maximum power coefficient ratio $C _ { w u } / C _ { w s }$ is defined to compare the performances with unsteady and steady winds.Here, $C _ { w s }$ and $C _ { w u }$ are maximum power coefficients in the steady and the sinusoidally oscillating velocity wind respectively.Figures 5 and6 show the ratio $C _ { w u } / C _ { w s }$ at $\\lambda = 2 . 0$ 0 $( 1 4 0 0 \\mathrm { m i n } ^ { - 1 } )$ and $\\lambda = 3 . 9$ $( 2 7 0 0 \\mathrm { m i n } ^ { - 1 } )$ ） MEL3 has the large increasing ratio for all period $T _ { w }$ at $\\lambda$ $= 2 . 0$ （ $1 4 0 0 \\mathrm { { m i n } ^ { - 1 } ) }$ and $T _ { \\nu } { < } 1 2 \\mathrm { s }$ at $\\lambda = 3 . 9$ 1 $( 2 7 0 0 \\mathrm { m i n } ^ { - 1 } )$ . In particular, its largest increasing ratio is $130 \\%$ at $T _ { \\nu } = 2 0 \\mathrm { s }$ and $\\lambda = 3 . 9$ .While $C _ { w u } / C _ { w s }$ of NACA1 and MEL1 are larger than one of MEL3 at $T _ { \\nu } = 4 \\mathrm { s }$ and $\\lambda = 3 . 9$ (2700 $\\operatorname* { m i n } ^ { - 1 }$ ).As the results,one can conclude that MEL3 is most appropriate rotor for the oscillating velocity wind. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/942ab402e65a761739e10ef64c9ad89f5f89d55ab6e9347e2637ecc8b79cf782.jpg",
+        "img_caption": [
+            "Fig.5Power coefficient ratio with wind turbine type and wind period in the oscillating velocity wind at $\\lambda { = } 2 . 0$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/edc15ddf208a1310d99f4cf5a60f6fcdc4e581d8ae7ff70e65aeaf9ef14ba686.jpg",
+        "img_caption": [
+            "Fig.6Power coefficient ratio with wind turbine type and wind period in the oscillating velocity wind at $\\lambda { = } 3 . 9$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Performance in Simulated Natural Fluctuating Velocity Flow ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The simulated natural wind with fluctuating velocity based on Karman's power spectrum density function (PSD) of Eqs. (5) and (6). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { u } ( f ) = 4 I ^ { 2 } L \\overline { { U } } \\frac { 1 } { \\left[ 1 + 7 0 . 8 \\bigg ( \\frac { f L } { \\overline { { U } } } \\bigg ) ^ { 2 } \\right] ^ { 5 / 6 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = \\frac { \\sigma } { \\overline { { U } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Here, $I$ and $L$ mean turbulent intensity and vortex scale respectively. The velocity data of time history are generated through inverse Fourier transformation with random phase in this study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Wind conditions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 2 shows the conditions of the simulated natural wind to examine the effect of $I$ and $L$ on power coefficient. The experimental duration time is 1O minutes for each case. The mean velocity, $I$ and $L$ of the experimental simulated wind do not accurately correspond to target conditions. Hence they are monitored during measurementbyhot-wire anemometer.The data showthe column of “Measurement”in Table 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 presents the comparison between theoretical data and experimental result of PSD $[ S _ { u } ( f ) ]$ at target conditions $\\overline { { U } } = 6 . 5 \\mathrm { m / s }$ $I = 5 . 0 \\%$ and $L = 6 ~ \\mathrm { m }$ .The theoretical and experimental data is almost the same for the frequency $0 . 0 3 < f < 1 . 0$ .It means that the simulated wind is appropriatelygenerated onthebasisofKarman'sPSD of Eq. (5). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/da101301274c01bc3207270ecf3a6bdc251b7b21b97536e4664796db1382a493.jpg",
+        "table_caption": [
+            "Table 2 Conditions of turbulent wind. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"3\">Target</td><td colspan=\"2\">Measurement</td></tr><tr><td>U [m/s]</td><td>1 [%]</td><td>L [m]</td><td>U [m/s]</td><td>1 [%]</td></tr><tr><td rowspan=\"3\">NACA1</td><td></td><td></td><td>3</td><td>6.8</td><td>4.5</td></tr><tr><td>6.5</td><td>5</td><td>6</td><td>6.4</td><td>5.1</td></tr><tr><td></td><td></td><td>10</td><td>7.1</td><td>5.5</td></tr><tr><td rowspan=\"3\">MEL3</td><td></td><td></td><td>3</td><td>6.5</td><td>4.5</td></tr><tr><td>6.5</td><td>5</td><td>6</td><td>6.4</td><td>5.0</td></tr><tr><td></td><td></td><td>10</td><td>6.3</td><td>5.4</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/72db71d022595370b6d9bcf64ca1b6bfcf9a8e1070382a4ee6a734d019576835.jpg",
+        "img_caption": [
+            "Fig.7Comparison of power spectrum between theory and experiment for fluctuating wind velocity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Experimental resultsand discussions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure8 and 9 show the effect of vortex scale $L$ on the power coefficients of NACA1 and MEL3 with the target turbulent intensity $I = 5 \\%$ in Table 2. In addition,power coefficient in steady wind of $\\mathrm { 7 m / s }$ is also presented in the figures as reference. The gray region of “resonance\" show that rotor axis mechanically resonates with rotation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hence the data of resonance region are omitted. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The maximum power coefficient of MEL3 is the same as one of NACA1. The maximum power coefficient ratios $( C _ { w u } / C _ { w s } )$ of MEL3 and NACA1 are 1.30 and 1.16 respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The power coefficient of NACA1 at $L = 6 ~ \\mathrm { m }$ is almost the same as one at $L = 1 0 ~ \\mathrm { m }$ .Thus,the effect of $L$ is not large on the power coefficient of NACA1 at $1 \\%$ While the power coefficient of MEL3 increases with increasing $L$ .Hence,the effect $L$ is large on the power coefficient ofMEL3 at $I = 5 \\%$ . The maximum $C _ { w u }$ is occurred with $L = 1 0 \\mathrm { ~ m ~ }$ .This is because that local blade Reynolds number is the same order as Reynolds number of MEL-type blade.Thus,it seems that MEL3 rotor is responsible for the vortex scale.According to the results, MEL3 shows the highest performance for the natural winds. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0.5 ！ = 1 ！ = 一 ！ 1 1 1 1 ！ = 1 二 ！ 1 1 ！ = 1 = 1 1 g == = 1 1 品 □ iresonanice =   \n0.3 二 1 □ 1 □ 4 = 1 □ 7 1 ！ 1 + 二 1 1 +   \n0.2 L L ⊥ = QNACA1I=5%, L=3m = 1 □ = 1 □   \n0.1 - NACA1I=5%,L=6m 1 □ + 1 ■NACA1I=5%,L=10m = === -- +NACA1 steady flow I □ 0 = · 1 一 1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 Tip Speed Ratio,λ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0.5 = = -- = 二 1 1 1 = 二 ！ = = 0.4 二 Pheeroe geeen = 1 1 00 = 1 8 ioo 86 1 。 。 resonahce 1 0.3 q T 。 = = I = 1 1 . 1 0.2 C . L OMEL3I=5%,L=3m 二= = + = 1 OMEL3I=5%,L=6m 二 8 . 0.1 ·MEL3 1-5%,L=10m ----- ------ 1 1 。 ！ ！ 上 = 0 1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 Tip SpeedRatio,λ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The paper presents the performances of the five prototype wind turbines for the unsteady fluctuating velocity wind - sinusoidally oscillating velocity wind and simulated natural wind. The rotors with four blades are newly designed on the basis of NACA five number series (NACA63xxx) and MEL002blades. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According to the experimental results, the conclusions   \nare as follows.   \n1.It is better that the designed tip speed ratio is in lower range in the sinusoidally oscillating velocity wind.   \n2.The rotor MEL3 shows the highest performance in the five rotors for three kind of winds - steady, sinusoidally oscillating and simulated natural winds.In particular, the maximum power coefficient in the simulated natural wind is as $1 3 0 \\%$ large as one in the steady wind.   \n3.Wind turbine performance can be increased through tailoring wind rotor design to turbulent character of installing location wind. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This investigation was partially supported by Hatakeyama Grant-in-Aid (2014) of Turbomachinery of Japan. The authors gratefully acknowledge the support of Dr. Hikaru Matsumiya and Dr. Tetsuya Kogaki (National Institute of Advanced Industrial Science and Technology of Japan) for providing MEL blade data. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Okino,M., Iba, S., Karasudani, T., Ohya, Y. and Watanabe,K.,Effect of Atmospheric Turbulence on Wind Turbine Performance,Proceedings of the 29-th Symposium of Wind Energy Utilization，Tokyo,Japan,2007, pp.310-313 (in Japanese).   \n[2] Hasegawa, Y.,Kikuyama,K.,and Karikomi, K.,Aerodynamic Loads on a Horizontal Axis Wind Turbine Rotor Exerted by Turbulent Inflow,AIAA Paper 2nd International Energy Conversion Engineering Conference,2004, Rhode Island, USA.   \n[3] Imamura,H., Tsumanuma, T.,Kurokawa, J.,Matsumiya, H.and Inomata,N.,Study on the Wind Measurement and Performance Evaluation of a WTGS in Complex Terrain $2 ^ { \\mathrm { n d } }$ Report, Influence of Wind Characteristics and Turbulent Intensity），Transactions of the Japan Society of Mechanical Engineers Series B,Vol.70 (2004),No.693, pp.1223-1229 (in Japanese).   \n[4]Toshimitsu,K.,Narihara,T.,Kikugawa,H.,Akiyoshi,A., andKawazu,Y.,Experimental Studyof Improved HAWT Performance in Simulated Natural Wind with Fluctuating Velocity using an Active Controlled Multi-fan Wind Tunnel,Proceedings of the 6th Asian Joint Workshop on Thermophysics and Fluid Science 2016 (6th AJWTF), Sep.20-23,2016,Guilin,China.   \n[5]Sugita,Y.,Ueda,M.and Furukawa,M.,Flow Structure Around a Wind Turbine Shrouded by Compact-type ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Brimmed Diffuser, Proceedings of JSME Fluid Engineering Conference,2nd International Energy Conversion EngineeringConference， Kanazawa, Japan， 2005 (CD-ROM), No.1819,(in Japanese). [6]Toshimitsu,K.,Kikugawa,H., Sato,K.and Sato,T., Experimental Investigation of Performance of the Wind Turbine with the Flanged-diffuser Shroud in Sinusoidally ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Oscillating and Fluctuating Velocity Flows,Open Journal of Fluid Dynamics, pp.215-221,2012. [7]Iba, S.,Karasudani, T.,Ohya,Y.and Watanabe,K., Characteristics of Wind Turbine in the turbulent Atmosphere, Proceedings of the 28-th Symposium of Wind Energy Utilization，Tokyo,Japan，2006,pp.377-380 (in Japanese). ",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,198 @@
+# 气候变化情景下少花蒺藜草在中国的分布区变化
+
+张小丽1,²，陈泽柠1,2\*，武正军1,2（1.珍稀濒危动植物生态与环境保护教育部重点实验室（广西师范大学），广西桂林 541006；2.广西师范大学 生命科学学院，广西 桂林 541006)
+
+摘要：少花蒺藜草(Cenchrus spinifex)是我国植物入侵种之一，严重影响我国牧场、草场的畜牧养殖，预测未来气候变化情景下，少花蒺藜草的适生分布区变化将为我国防治入侵种植物提供重要的理论依据和防治手段。本研究基于MaxEnt模型，利用103个少花蒺藜草的地理分布数据和19个气候环境因子，分析预测在RCP4.5、RCP8.5两种气候变化情景下,2050s和 2070s 我国范围内少花蒺藜草的适生分布区。结果表明： (1)少花蒺藜草的当前适生分布区占研究区域面积百分比为 $4 . 0 0 \%$ ，主要分布于内蒙古自治区、吉林省、辽宁省三省接壤的东北地区。 (2)未来少花蒺藜草的适生分布区面积有所增加，其中中等适生区所占面积百分比扩张程度最大，达到 $3 8 . 2 6 \%$ 。(3)年平均气温、温度季节性变化标准差、最湿季降水量是影响少花蒺藜草分布的主要气候因子。(4)未来少花蒺藜草的分布质心总体向西移动。上述结果表明，目前在中国范围内，少花蒺藜草的已入侵区域还远小于潜在可入侵区域，未来还可能向我国干旱半干旱区进一步扩散。为了预防少花蒺藜草在我国北方地区大面积扩散带来的危害，未来需要重点关注对其的预防措施和入侵态势。
+
+关键词：少花蒺藜草，气候变化，MaxEnt模型，分布预测，分布质心中图分类号：Q948 文献标识码：A
+
+# Distribution area changes of Cenchrus spinifexin China under climate change scenarios
+
+ZHANG Xiaoli1,2, CHEN Zening1,2\*,， WU Zhengjun1,2 (1.KeyLaboratoryofRareand Endangered SpeciesofFloraandFauna Ecologyand Environmental Protectionof the State Ministry of Education,Guangxi Normal University,Guilin 541006,Guangxi, China; 2. Guangxi Key Laboratory of Rare and Endangered Animals Ecology,Guilin 541oo6,Guangxi, China)
+
+Abstract: Cenchrus spinifex is one of the invasive plant species in China, which seriously affects the animal husbandry of pastures and pastures in China. Therefore,the response of suitable distribution of $C$ ，spinifex to climate change under future climate change scenarios will provide important management basis and control measures for the prevention of invasive plants in China. Therefore,based on the MaxEnt model, this study used 1O3 geographical distribution data of $C .$ spinifex and 19 climatic and environmental factors to analyze and predict the suitable distribution area of $C .$ ，spinifex in China under two climate change scenarios of $\mathrm { R C P } 2 . 6$ and $\mathrm { R C P } ~ 8 . 5$ in the 2050s and 2O7Os. The results showed that: (1) The current suitable distribution area of $C .$ spinifex occupies $4 . 0 0 \%$ of the study area,which was mainly distributed in Northeast China borderline by Inner Mongolia, Jilin and Liaoning.(2） Under the two future climate change scenarios,the suitable distribution areas for each grade of $C .$ ，spinifex will expand to a certain extent compared with the current one.Hereinto,the medium climatically suitable areas might increase by $3 8 . 2 6 \%$ (3）Annual mean temperature， standard deviation of seasonal temperature variation,and precipitation in the wettst season are the main climatic factors affecting the distribution of $C .$ spinifex.(4) In the future,the distribution centroid of $C .$ spinifex will generally move westward. The above results indicate that the currently invaded areas of $C$ ，spinifex in China are far smaller than the potentially invaded areas,and it may further spread to the arid and semi-arid regions of my country. In order to prevent the harm caused by the widespread spread of C. spinifex in northern my country, we need to focus on its preventive measures and invasion situation in the future.
+
+Key words: Cenchrus spinifex, climate change， MaxEnt model, distribution prediction, distribution centroid
+
+近百年来，受全球气候变暖的影响，中国近地面气温呈现显著上升的趋势，气候变化问题已成为当今人类社会面临的重大挑战之一(巢清尘等，2020)。气候被认为是影响物种繁殖发育、物种分布、生物多样性等的重要环境因子(Araujoetal.,2005；刘勤等，2016；张华等，2020；李海东和高吉喜，2020)，气候变化将引起生物多样性和生物地理分布的改变(吴建国等，2009)，对生物入侵的影响更为复杂。一方面由于气温以及降水模式的变化，改变与天敌的互作关系，削弱现有生态系统的抵抗能力(Winder et al.,2011；吴昊，2017)；另一方面可能使原本气候不适合入侵生物生长的地区适生度提高，从而提高外来入侵生物的竞争能力(Bellard et al.,2013；潘绪斌等，2018)。张乔英等(2018)对世界性杂草马缨丹(Lantana camara)的研究结果表明，增温提高了其同化作用和环境竞争力，全球气候变暖成为马缨丹扩大分布范围的重要入侵因素。黄花刺茄(Solanum rostratum)入侵新疆以来，在绿洲、荒漠草原、荒漠这3种生境中表现出极强的综合适应力，且以绿洲中尤为突出，已处于快速蔓延期(宋佳佳等，2013)。从综合速度和变化规模上看，气候变化已然导致全球范围内的生物反应(Pecl etal.,2017)，海洋、淡水、陆地生态系统中的生物为寻求更适合于自身生长的环境条件，加快改变它们的分布范围(Chen et al.,2011; Lawing et al.,2011; Lenoir et al.,2015; Poloczanska etal.,2013)。Chen 等(2011)依据 meta 分析，预估到目前物种分布将以每十年 $1 1 . 0 \mathrm { m }$ 的中位速率移动到更高的海拔，以每十年 $1 6 . 9 \mathrm { k m }$ 的中位速率移动到更高的纬度。
+
+物种分布模型(species distribution models,SDMs)通过将物种的分布数据与环境数据、地图数据等进行关联，依据选定的算法估计物种的生态位，反映物种对生境的偏好程度，以此模拟物种潜在适宜分布区和预测物种未来分布区(李国庆等，2013)。随着气候变化预测方法的成熟，物种分布模型在动物（Silva et al.,2018；张嘉容等，2020)、植物(Ashraf et al.,2016;Coban et al.,2020;Li etal.,2020)、微生物(Shadman et al.,2020)适生区方面有着广泛应用（李宁宁等，2019)。塞依丁·海米提等(2019)基于 MaxEnt 模型对入侵植物刺苍耳(Xanthiumspinosum)在新疆的潜在分布格局研究表明，刺苍耳在新疆的分布未达到饱和，且呈现出辐射状扩散的趋势。陈剑等(2021)研究结果表明，入侵种肿柄菊(Tithonia diversifolia)的已入侵区域远小于潜在可入侵区域，未来该物种还将进一步扩散。
+
+少花蒺藜草(Cenchrus pauctflotus)是禾本科蒺藜草属一年生草本植物，原产于北美洲及热带沿海地区(孙忠林等，2020)，目前入侵到西印度群岛、阿根廷、南非等国，20 世纪 30年代在我国首次发现(曲波等，2011)。少花蒺藜草具有庞大的种子库，种子数范围在每平方米 $2 1 3 { \sim } 1 4 0 5 0$ 粒，平均每平方米能达到5712粒，变异系数高达 $9 3 \%$ (孙忠林等,2020)。其耐旱、耐寒和耐贫瘠的特性(Jiang etal.,2019)，在沙壤土中易成活，一经引入容易形成大面积的单一优势种群。同时，其刺苞状的果实被牛羊等牲畜食用后，容易刺伤牛羊的口腔、肠胃，引发一系列动物疾病，严重时造成胃穿孔，导致死亡(王巍等，2005)。随着传播的加剧，少花蒺藜草入侵区域天然草地生物多样性降低(王坤芳等，2015)，对农牧业生产造成严重的经济损失。据保守估算，在入侵区域内每年造成直接经济损失1.4亿元(按照当年的损失估算，林地未考虑)(王波等，1999；王巍和韩志松，2005；孙忠林等,2020)。少花蒺藜草已然成为我国农牧区危害较大的外来入侵植物。到目前为止，对于少花蒺藜草的研究大多数学者主要关注其生理生化特性、遗传机制、入侵防治等方面(吕林有等，2011；徐军等，2011;王坤芳等，2014；周立业等，2014；曲婷等，2020)，在地理分布方面暂时未见报道。鉴于少花蒺藜草的强大适生性和入侵性，以及不断加快的气候变化趋势，本研究基于RCP4.5、RCP8.5两个气候排放情景，以我国北部为研究区域，采用MaxEnt模型，拟探讨以下问题：(1)当前气候条件下，少花蒺藜草的分布潜力，影响分布的关键因子；(2)未来气候条件对少花蒺藜草的适生区将造成的影响。
+
+# 1材料与方法
+
+# 1.1分布数据获取与研究区确定
+
+通过查阅有关少花蒺藜草的学术期刊、学位论文、报道，以及检索中国数字标本馆(http://www.cvh.Ac.cn/)等相关平台，共收集少花蒺藜草种群的自然分布数据108 条，其中有部分数据缺乏精确的地理坐标，通过Google Earth 进行坐标拾取及校准。去除描述模糊和经纬度重复的分布点，同时为避免过拟合，每个 $1 \mathrm { k m } \times 1 \mathrm { k m }$ 的栅格内只保留一个分布点，最终得到103个分布点记录，将样本数据的经纬度坐标储存在Excel数据表中，并转换成csv格式，用于模型建立。
+
+目前，少花蒺藜草主要分布在辽宁省西北部、内蒙古自治区东部、吉林省南部三省交会地区。以此为基础，向上下左右各扩展一定距离作为研究区域 $( 9 2 ^ { \circ } 1 3 ^ { \prime } \mathrm { \_ } 1 3 5 ^ { \circ } 0 5 ^ { \prime }$ E、$3 1 ^ { \circ } 1 ^ { \prime } \mathrm { - } 5 2 ^ { \circ } 1 3 ^ { \prime } \mathrm { N } )$ ，主要包括内蒙古自治区、黑龙江省、吉林省、辽宁省、河北省、北京市、天津市、山西省、陕西省、宁夏回族自治区、甘肃省和山东省。
+
+![](images/089d68765010c16fed5353eaa156aaafc83011c2c3e8f467b48e51df35e0fafb.jpg)  
+图1少花蒺藜草在中国的分布点数据Fig.1 Occurrence of Cenchrusspinifex in China
+
+# 1.2环境变量数据
+
+本研究所用的当前气候数据(1970—2000 年)以及未来气候数据(2050s 和 2070s)均下载于全球气候数据网站(WorldClim Global Climate Data Version 1.4，http://www.worldclim.org）,包含年平均气温、年平均降水等19个生物气候环境数据。数据选择在中国区域具有较强模拟能力的 BCC-CSM1-1模式(Yang et al.,2016)，该模式包括 IPCC 第五次报告中采用的四种新的排放情景，即典型浓度路径(representative concentration pathways，RCP)，主要包括 RCP2.6、RCP4.5、RCP6.0、RCP8.5四种排放情景(董思言等，2014)。本研究基于RCP4.5、RCP8.5这两个气候排放情景下的未来气候数据对2050s和2070s进行未来分布区预测，当前气候数据和未来气候数据分辨率皆为30角秒(arc-second)。建模前，为了避免变量的多重共线性，消除高度相关(Pearsonrl>0.8)的气候变量，最后得到7个变量用于模型构建，这些变量分别为：年平均气温(bio1)、温度季节性变化标准差(bio4)、最湿季降水量(bio16)、等温性(bio3)、降水量季节性变异性系数(bio15)、最干月降水量(bio14)、最热月最高温(bio5)。以上所有数据均以上述研究区域为掩膜进行剪裁，并统一以WGS1984为投影坐标系进行投影，统一转换为ASCII格式。
+
+# 1.3矢量图及模型来源
+
+中国行政区划图来源于国家地理信息公共服务平台网站(http://zdt.ch.mnr.gov.cn/)，审图号为GS(2020)4619 号。最大熵模型软件版本为 MaxEnt3.4.1(Phillips et al.,2006;Merow etal.,2013)，地理信息系统软件版本为 ArcGIS10.6 (Environmental Systems Research Institute,America)。
+
+# 1.4模型的构建
+
+最大熵模型(MaxEnt 模型)是目前综合表现较好、应用范围较广的生态位模型(张路，2015)，其主要依据最大熵理论，基于已知的物种分布点数据对未来物种的时空分布进行无偏推断(邢丁亮和郝占庆，2011)。该模型由 Phillips (2006)提出，是一种通用的机器学习方法(巢清尘等，2020)。由于MaxEnt 模型易操作、准确性高的特性，在国内外预测物种分布研究中得到了广泛关注。
+
+本研究中，将筛选过后的少花蒺藜草地理分布数据和环境变量数据导入MaxEnt软件中，选择 $2 5 \%$ 分布点数据作为测试集，剩余分布点数据作为训练集，进行建模运算。参数设置方面，选择响应曲线和刀切法，以分析环境因子的相关性程度，选择Logistic 格式输出测试结果，重复运行类型选择“Bootstrap”，其余保持默认设置，模型重复运行20 次。将模型输出结果导入GIS，基于模型运算得到的阈值(maximum training sensitivity plus specificitythreshold，MTSS)(Liu etal.,2016)对模型预测结果进行重分类，区分少花蒺藜草不同适宜度分布区。
+
+# 1.5模型的预测准确度
+
+选用受试者工作特征曲线(receiver operating characteristic curve，ROC)进行模型精度验证，曲线下面积(area under curve，AUC)以真阳性率、假阳性率作为模型预测的判断标准(Yunsheng,2007)。由于AUC 值不受判断阈值的影响，可用于不同模型之间的比较，因此被大多数学者应用。AUC的取值范围为 $0 { \sim } 1$ ，值越大，随机分布相距越远，预测的效果越好，其标准为 $0 . 7 { \sim } 0 . 8$ 较准确， $0 . 8 { \sim } 0 . 9$ 很准确， $0 . 9 { \sim } 1$ 极准确(Phillips et al., 2008)。
+
+# 2结果与分析
+
+# 2.1模型的验证
+
+根据 MaxEnt 模型的运算结果，图2为MaxEnt模型预测得到的ROC 曲线。ROC 曲线的 AUC 值为0.987，显著大于随机预测模型的AUC 值(0.5)。AUC 值越大，曲线下的面积值越接近于1，说明模型准确性越高。由此分析可以知道，MaxEnt 模型在少花蒺藜草的分布预测方面具有很高的准确性。
+
+![](images/e6d9ac11fbfb107edfc984dfca69df469432c644a62000bad02368a918e1914c.jpg)
+
+由图3可知，少花蒺藜草在我国的适生范围主要集中在东北地区、华北地区。其中：（1)高适生区主要包括内蒙古自治区、吉林省以及辽宁省三省接壤地区，内蒙古主要包括通辽市、赤峰市的中部、东部和南部，其中通辽市高适生区面积占比最大；吉林省的白城市南部、松原市、四平市东部，辽宁省的朝阳市的东北部、阜新市的中部、东北部以及锦州市、沈阳市、铁岭市北部都有小部分的高适生分布区。高适生区面积占研究区总面积的 $2 . 1 0 \%$ 。（2）中适生区主要包括内蒙古通辽市的北部、赤峰市的东部、兴安盟的南部，吉林省的白城市中南部、松原市西南部、四平市西部，辽宁省的沈阳市、铁岭市、朝阳市、葫芦岛北部及锦州市全市大部分地区。中适生区面积占研究区总面积的 $1 . 4 8 \%$ 。（3）低适生区主要环绕在高适生区和中适生区的外围，主要包括内蒙古、吉林、辽宁。低适生区面积占研究区总面积的$0 . 4 2 \%$ 。
+
+![](images/bac49813f9bd3a8456da8dae56227822efa6364e08af610565ca990487bd22c0.jpg)  
+图2ROC分析法检验模型预测所得到的AUC值Fig. 2 AUC value obtained from ROC analysis to test model prediction：少花蒺藜草当前潜在地理分布适生区  
+图3当前气候条件下少花蒺藜草的潜在分布
+
+Fig. 3 Potential distribution of Cenchrus pauctflotus under contemporary climate conditions
+
+# 2.3少花蒺藜草潜在适生区的气候影响因子
+
+用于 MaxEnt 模型预测的 7个相关环境变量中(表1)，贡献率前三的环境变量分别为bio1(年平均气温， $3 5 . 4 \%$ ）、bio4（温度季节性变化标准差， $3 1 . 4 \%$ )和bio16(最湿季降水量，$2 0 . 3 \% )$ ，贡献率总和高达 $8 7 . 1 \%$ 。其余环境变量贡献率分别为bio3(等温性， $9 . 0 \%$ ）、bio15（降水量季节性变异系数， $2 . 5 \%$ ）、bio14(最干月降水量， $0 . 8 \%$ ）、bio5（最热月最高温， $0 . 5 \% \cdot$ 。
+
+表1相关环境因子贡献率  
+Table1 Contribution rates of relevant environmental factors   
+
+<html><body><table><tr><td>因子Factor</td><td>描述Description</td><td>贡献率Contribution rate (%)</td></tr><tr><td>bio1</td><td>年平均气温 Annual mean temperature</td><td>35.4</td></tr><tr><td>bi04</td><td>温度季节性变化标准差 Standard deviation of seasonal temperature variation (×100)</td><td>31.4</td></tr><tr><td>bio16</td><td>最湿季降水 Precipitation of the wettest season</td><td>20.3</td></tr><tr><td>bi03</td><td>等温性 Isothermality (BIO2/BIO7) (×100)</td><td>9.0</td></tr><tr><td>bio15</td><td>降水量季节性变异系数 Precipitation seasonality (coefficient of variation)</td><td>2.5</td></tr><tr><td>bio14</td><td>最干月降水量 Precipitation of the driest month</td><td>0.8</td></tr><tr><td>bio5</td><td>最热月最高温 Max temperature of the warmest month</td><td>0.5</td></tr></table></body></html>
+
+为进一步探讨气候因子对少花蒺藜草的影响，分别绘制贡献率前四的环境因子（累积贡献率 $8 7 . 1 \%$ )响应曲线，分析少花蒺藜草存在概率对主要气候因子的响应曲线(图4)以及各情景下少花蒺藜草分布区的年平均降雨量(图5)。结果显示，年平均气温(bio1，图4：a)在$6 { \sim } 7 \ \mathrm { ~ \textdegree C }$ 时少花蒺藜草的存在概率最高，约为0.7，随着年均温的升高，少花蒺藜草的存在概率迅速降低， $1 0 ^ { \circ } \mathrm { C }$ 之后存在概率为0；当年均温为 $\mathrm { ~ - ~ } 8 \mathrm { { \mathcal { C } } }$ 左右时，少花蒺藜草的存在概率逐渐升高，到 $\mathrm { ~ - ~ } 1 0 ^ { \circ } \mathrm { C }$ 时，存在概率保持稳定，在0.3左右。温度季节性变化标准差(bio4，图4：b)在1350时，少花蒺藜草的最高生存概率达到0.7，随着标准差的增加，到1500时该物种的生存概率迅速降低。最湿季降水量(bio16，图4：c)在 $3 0 0 \ \mathrm { m m }$ 时，少花蒺藜草存在概率较高，但随着降雨增多，其生存概率迅速下降。此外，等温性(bio3，图4：d)在 $2 6 ^ { \circ } \mathrm { C }$ ，少花蒺藜草的生存概率最高。当前气候条件下，少花蒺藜草的适生分布区主要在 $4 0 0 \mathrm { m m }$ 等降雨量线上下，该地区年平均降雨量在 $3 5 9 { \sim } 6 6 0 ~ \mathrm { m m }$ 之间(图5)。 ${ \tt R C P 4 . 5 }$ 情景下，少花蒺藜草未来适生分布区的年平均降雨量在 $1 5 { \sim } 1 4 1 7 \ \mathrm { m m }$ 之间；RCP8.5 情景下，少花蒺藜草未来适生分布区的年平均降雨量在 $3 9 { \sim } 1 2 1 2 \mathrm { m m }$ 之间。综合而言，气温上，少花蒺藜草具备较好的耐寒特性，对于北方寒冷环境具有很强的适应能力。降水方面，各气候变化情景下少花蒺藜草未来潜在分布区主要分布在年平均降雨量 $1 5 \sim 7 0 0 \mathrm { m m }$ 的地区中，且主要位于温带大陆性季风气候的内蒙古地区，少花蒺藜草的生长周期与该地区的降雨周期高度吻合。
+
+![](images/7a719df4c402e34e64fbe18eb1896d86d2eb307d2e0e147441dbaa96fc2e20af.jpg)  
+图4少花蒺藜草存在概率对主要气候因子的响应曲线
+
+Fig. 4 Response curve of survival probability of Cenchrus pauctflotus to major climatic factors
+
+![](images/e289195db3ab92b845f745322f851f00916882558f0d1d3d7369aaf27cfaffab.jpg)  
+图5少花蒺藜草在各气候情景下分布区的年平均降雨量
+
+Fig.5 Annual mean precipitation of the distribution area of Cenchrus pauctflotus under various
+
+# climate scenarios
+
+利用刀切法对环境因子进行正规化检验，由图6可知，若只使用单一环境因子变量，对正规化训练增益影响最大的主要环境因子变量依次为年平均气温(bio1)、温度季节性变化标准差(bio4)、最热月最高温(bio5)。其中年平均气温(bio1)是影响当前少花蒺藜草适生分布区最主要的环境因子
+
+![](images/c38271aef4f5988aa1a6177f5405f1de1e09f2d083ada9aec96025447a758cb9.jpg)  
+图6少花蒺藜草刀切法检验结果  
+Fig.6 Test results of Cenchrus pauctflotus withknife method
+
+# 2.4气候变化对少花蒺藜草分布范围的影响预测
+
+基于未来气候情景RCP4.5(中排放情景)和 $\mathsf { R C P 8 . 5 }$ (高排放情景)，利用MaxEnt模型模拟少花蒺藜草在 2050s和 2070s 的气候环境下的地理分布状况。根据模型运行得到的阈值$( \mathrm { M T S S { = } 0 } . 1 5 7 ,$ 对预测结果进行重采样，将研究区域少花蒺藜草在未来气候情景下生境适宜性分为4类，分别是不适生(<MTSS)、低适生 $( \mathrm { M T S S } { \sim } 0 . 2 )$ 、中适生 $( 0 . 2 { \sim } 0 . 4 )$ 及高适生$( > 0 . 4 )$ ，最终得到不同气候情景下少花蒺藜草的空间分布(图7)、各适生生境面积(表2)。
+
+由图7可知，未来RCP4.5、RCP8.5 两种情景下，在2050s 和2070s，少花蒺藜草的分布范围有扩张的趋势且高适生区域较当前分布区大幅度扩张。在2050s，RCP4.5和RCP8.5两种情景下高适生生境面积分别占比 $2 7 . 0 3 \%$ 和 $12 . 6 9 \%$ 。其中，在 $\mathsf { R C P 4 . 5 }$ 情景下，高适生区面积占比 $2 7 . 0 3 \%$ ，高适生区由原来的三省扩张到黑龙江、河北、山东、山西、陕西、甘肃、宁夏及北京、天津等地区，而内蒙古依旧是入侵最严重的地区。在 2070s，RCP 4.5 和$\mathsf { R C P ~ } 8 . 5$ 两种情景下，我国少花蒺藜草高适生区面积占比分别为 $1 1 . 5 6 \%$ 和 $1 0 . 8 5 \%$ 。高适生区相较 2050s有所减少，只在内蒙古、辽宁、河北、山东等省份小区域存在，而吉林、山西两省的分布区域则非常小。
+
+当前气候生境下少花蒺藜草的中适生区 $( 0 . 2 { \sim } 0 . 4 )$ 占比为 $1 . 4 8 \%$ ，到2050s 和2070s，少花蒺藜草中适生区面积占比分别为 $2 5 . 0 2 \%$ (RCP4.5) $34 . 4 0 \%$ (RCP 8.5)、 $3 9 . 7 4 \%$ (RCP 4.5)、$3 9 . 7 2 \%$ (RCP8.5）。而低适生区 $( \mathbf { M T S S } { \sim } 0 . 2 )$ 占比为 $0 . 4 2 \%$ ，2050s和2070s，少花蒺藜草低适生区面积占比分别为 $1 0 . 3 4 \%$ (RCP4.5)、 $9 . 7 9 \%$ (RCP 4.5)、 $9 . 8 8 \%$ (RCP 4.5)、 $1 4 . 9 6 \%$ (RCP4.5)。
+
+低适生区环绕着中高适生区外围都有较小的分布区域，最北可扩散至黑龙江省的大兴安岭地区，最西扩散至甘肃省的酒泉市，最南扩散至陕西省南部的汉中市。
+
+![](images/038c1d9199e58db2f4630fb4acca6a7a0e0939974e838dd0f109a9aadddd3cfb.jpg)  
+图7不同气候变化情景下少花蒺藜草的适应分布
+
+在 RCP4.5这一情景下，从2050s到2070s，高适生区、低适生区面积均出现一定程度的缩减，其中高适生区面积缩小近 $1 5 . 4 7 \%$ ，但中适生区面积有所扩大，扩大约 $1 4 . 7 2 \%$ 。而在RCP8.5这一情景下，2050 年至2070年，高适生区面积缩减 $1 . 8 4 \%$ ，中适生、低适生区均有扩大的趋势，中适生分布区扩大约 $5 . 5 2 \%$ 、低适生分布区扩大约 $5 . 1 7 \%$ 。其中，在 2050s、RCP4.5情景下，少花蒺藜草在内蒙古大部分地区入侵最为严重，高适生分布区面积占比最大。
+
+表2不同气候情景下各适生生境面积  
+Table2 Suitablehabitatareasunder different climatic scenarios   
+
+<html><body><table><tr><td></td><td colspan="7">适生等级 Suitable level</td></tr><tr><td>时期</td><td colspan="3">低适生Low（MTSS～0.2）</td><td colspan="2">中适生Medium（0.2～0.4)</td><td colspan="2">高适生 High（>0.4)</td></tr><tr><td>Period</td><td>占比 Percentage (%)</td><td>面积 Area (x104 km²)</td><td>占比 Percentage (%)</td><td>面积 Area (x104 km²)</td><td>占比 Percentage (%)</td><td></td><td>面积 Area (x104 km²)</td></tr><tr><td>RCP 4.5 2050s</td><td>10.34</td><td>28.90</td><td>25.02</td><td>69.92</td><td></td><td>27.03</td><td>75.54</td></tr><tr><td>RCP 4.5 2070s</td><td>9.88</td><td>27.61</td><td>39.74</td><td></td><td>111.06</td><td>11.56</td><td>32.31</td></tr><tr><td>RCP 8.5 2050s</td><td>9.79</td><td>27.36</td><td>34.40</td><td></td><td>96.14</td><td>12.69</td><td>35.47</td></tr><tr><td>RCP 8.5 2070s</td><td>14.96</td><td>41.81</td><td>39.72</td><td></td><td>111.01</td><td>10.85</td><td>30.32</td></tr></table></body></html>
+
+不同时段及气候变化情景下适生分布区的质心定量描述了少花蒺藜草适生分布区的变化情况(图8)。当前气候条件下，少花蒺藜草的分布质心在内蒙古自治区的通辽市。未来气候情景下，该物种的质心均出现较大幅度的迁移。RCP4.5情景下，少花蒺藜草的分布质心自东向西迁移，在2050s，从内蒙古通辽市迁移至河北省承德市丰宁满族自治县，随后 2070s则一直向西迁移至河北省张家口市张北县。 $\mathsf { R C P 8 . 5 }$ 情景下，少花蒺藜草的分布质心先自东向西迁移，再由西向东北迁移，在 2050s内蒙古通辽市西迁至河北省张家口市洁源县，至2070s由西向东北迁移至内蒙古锡林郭勒盟多伦县西部。
+
+![](images/5262e06891ec3a549e035719dd9ab396411ba886c77582caf171d627be2e7407.jpg)  
+图8气候变化下少花蒺藜草最适分布区的质心及其移动轨迹
+
+Fig. 8 Changes in centroid of the most suitable distribution areas and its moving trajectory of Cenchrus pauctflotus under climate change
+
+# 3讨论与结论
+
+# 3.1气候变化下少花蒺藜草空间分布的变化
+
+本研究基于MaxEnt模型，结合103个物种分布点数据和7个气候因子,通过建模运算，展示了在基准气候(当前)、未来气候(RCP4.5、RCP8.5)条件下，入侵植物少花蒺藜草在我国北部范围内的潜在分布情况。研究结果表明，少花蒺藜草在我国的分布未达到饱和，处于逐步扩散的趋势，呈现以内蒙古通辽市为中心，向各个区域辐射状扩散。这一研究结果与孙中林等(2020)的实地调查结果一致，即少花蒺藜草发生面积呈快速蔓延趋势，且以点状、带状以及片状等不同模式在小范围内扩散，这一入侵情况已经严重影响到北方农牧产业和生态环境。同时，在未来气候情景下，我国半湿润区极大可能受到该物种的入侵。气候变化对不同物种分布格局的影响不同，有些物种受到气候变化的威胁，面临濒危甚至灭绝(刘策等，2021)；而有些物种将受益于气候变化，不断扩展其分布区域(马瑞骏等，2005)。本研究中，少花蒺藜草显然属于后一种情况，这与塞依丁·海米提等(2019)对黄花刺茄在新疆潜在分布研究，马倩倩等(2020)对三叶豚草的潜在地理分布的研究结果一致，即入侵种以其强大的适应性，在气候条件改变后迅速扩张其生存范围，成为群落中的优势种。
+
+相关学者研究发现少花蒺藜草入侵后具有繁殖快，耐旱性强的特点，适合在我国农牧交错带的干旱半干旱沙地繁殖传播(宋振等，2019)。我国荒漠化土地种类多、分布范围广，荒漠化土地面积大于荒漠面积，占国土面积的 $1 3 . 4 5 \%$ ，广泛分布于除台湾、上海外的其余三十个省(自治区)市 (周日平,2019)。 $\mathrm { \Delta X u }$ 等(2018,2019)通过构建土地检验敏感性指数(LDSI)，预测到RCP4.5、RCP8.5气候变化情景下，我国华北地区对荒漠化敏感性低、中度的地区占主导地位，高敏感性地区有所减少，但在新疆、甘肃等地区对荒漠化则表现得更为敏感。
+
+另外，相关学者也指出，2001—2015年华北地区沙漠化重心有从高纬度向低经度地区移动的趋势(Feng etal.,2018)。但近年来，我国荒漠化呈现出加重区减小、减弱区增大，荒漠化强度明显减弱的发展趋势，尤其是长江以南减弱程度明显高于长江以北地区(周日平，2019)。我国不断变化的荒漠化情形，改变少花蒺藜草的入侵方向，如果该种发生入侵，将严重影响草地的健康发展(吕有林等，2011)。由此推断，在未来气候变化情景下，少花蒺藜草向西部和南部扩张可能是全球气候变暖、极端气候事件频发、植被覆盖度改变等一系列气候变化及人类活动加剧造成的；而我国西北沙漠（荒漠）化以及景观格局的改变，影响了少花蒺藜草的入侵方向。
+
+# 3.2少花蒺藜草与环境因子的关系
+
+根据模型检验结果，年平均气温(bio1)、温度季节性变化标准差(bio4)、最湿季降水量(bio16)这三个环境因子的贡献率居于前三，表明限制少花蒺藜草未来分布的重要环境因子为降水和气温。在RCP4.5和 $\mathrm { R C P ~ } 8 . 5$ 情景下，2050s和2070s时段该植物的潜在分布区都将大幅度扩张，且向年平均降雨量增加的地区入侵。未来气候情景下，整个华北平原和山东北部的年平均降雨量大致在 $4 0 0 { \sim } 7 0 0 \ \mathrm { m m }$ 之间，雨水较为丰沛。内蒙古中北部、陕西、山西、宁夏北部、甘肃中部等地区年平均降雨量在 $1 5 { \sim } 4 5 0 \ \mathrm { m m }$ 之间，年平均降雨量远低于年均蒸发量，且受风蚀影响，土壤沙质，植被单一，这为少花蒺藜草提供了适宜的生长环境。董文信、周立业等(董文信等，2010；周立业等，2012)对少花蒺藜草生物学特性的调查结果也表明，在一定的温度和充足的水分条件下，少花蒺藜草可全年萌发，其生活史周期与降雨丰沛期高度吻合。可以看出，降雨量和温度对少花蒺藜草的潜在分布影响很大。影响植物地理分布的因素除了温度和降水外，光照强度、土壤质地、种间相互作用等因素都会对植物的分布有一定影响，后续研究可以考虑对更多的影响因子进行研究，得到更加精确的结果，进一步分析少花蒺藜草地理分布区对气候变化的响应，为我国防治入侵植物物种提供理论支撑和实践指导。
+
+# 参考文献：
+
+ARAUJO MB，PEARSON RG，THUILLER W, et al., 2005. Validation of species climate impact models under climate change[J]. Glob Change Biol,11(9): 1504-1513.   
+ASHRAF U, ALI H, CHAUDRY MN, et al., 2016. Predicting the potential distribution of olea ferruginea in Pakistan incorporating climate change by using MaxEnt model[J]. Sustainability, 8(8): 722.   
+BELLARD C, THUILLER W,LEROY B,et al.，2013.Will climate change promote future invasions?[J]. Glob Change Biol, 19(12): 10233-10238.   
+CHAO QC, YAN ZW, SUN Y, et al., 2O2O. A recent scientific understanding of climate change in China[J]. Chin Pop $\cdot$ Resour Environ,30(3):1-9.[巢清尘，严中伟，孙颖，等，2020．中 国气候变化的科学新认知[J]．中国人口·资源与环境，30(3):1-9.]   
+CHEN IC,HILL JK, OHLEMULLER R,et al., 2011. Rapid range shifts of species associated with high levels of climate warming[J]. Science,333(6045): 1024-1026.   
+CHEN J,WANG SH, ZHU F, et al.,2O21,Risk evaluation of Tithonia diversifolia dispersal in Yunnan Province,China[J].Guihaia,41(5): 789-798.[陈剑，王四海，朱枫，等，2021．外 来入侵植物肿柄菊在云南的扩散风险研究[J].广西植物，41(5):789-798.]   
+COBAN HO, ORUCU, OK, ARSLAN ES, 2020. MaxEnt modeling for predicting the current and future potential geographical distribution of Quercus libani Olivier[J]. Sustainability,12(7): 2671.   
+DONG SY, GAO XJ, 2014, Long-term climate change-interpretation of IPCC fifth assessment report[J].Clim Change Res，10(1):56-59.[董思言，高学杰，2014．长期气候变化- IPCC 第五次评估报告解读[J]．气候变化研究进展，10(1):56-59.]   
+DONG WX, ZHAO GL, CHEN MC, 2010. Investigation on the biological characteristics of Cenchrus pauctflotus[J].Inner Mongol For,(1): 22.[董文信，赵桂玲，陈明川，等，2010. 光梗蒺藜草生物学特性调查[J].内蒙古林业，(1): 22.]   
+FENG LL, JIA ZQ,LI QX, et al.， 2018. Spatiotemporal change of aeolian desertification land distribution in northern China from 2001 to 2O15[J]. J Indian Soc Remote，46(10): 1555-1561.   
+HANG L, 2015. Application of MaxEnt maximum entropy model in predicting the potential distribution range of species[J]. Bull Biol, 50(11): 9-12.[张路，2015.MaxEnt 最大熵模型 在预测物种潜在分布范围方面的应用[J].生物学通报,50(11):9-12.]   
+JIANG Y, CAI TG, TANG FD, 2019. Effect of diferent drought stress on seedling growth and physiological characteristics of Cenchrus pauciflorus Benth[J]. Open Access Lib J, 6(12): 1-14.   
+LAWING AM, POLLY PD,2011. Pleistocene climate, phylogeny, and climate envelope models: an integrative approach to better understand species' response to climate change[J]. PLoS ONE,6(12): e28554.   
+LENOIR J， SVENNING JC，2015. Climate-related range shifts-a global multidimensional synthesis and new research directions[J]. Ecography, 38(1): 15-28.   
+LI GQ,LIU CC,LIU YG, et al.，2013. Advances in theoretical issues of species distribution models[J].Acta Ecol Sin,33(18): 4827-4835.[李国庆，刘长成，刘玉国，等，2013．物种 分布模型理论研究进展[J].生态学报，33(18):4827-4835.]   
+LI HD, GAO JX., 2O20. Management strategy for biodiversity conservation to adapt to climate change in China[J].Acta Ecol Sin,40(11):3844-3850.[李海东，高吉喜，2020.生物多样 性保护适应气候变化的管理策略[J].生态学报，40(11):3844-3850.]   
+LI NN, ZHANG AP, ZHANG L, et al., 2019. Predicting potential distribution of two species of spruce in Qinghai-Tibet Plateau under climate change[J]. Bull Bot Res, 39(3): 395-406.[李 宁宁，张爱平，张林，等，2019.气候变化下青藏高原两种云杉植物的潜在适生区预测 [J]．植物研究，39(3):395-406.]   
+LI YC,LI MY,LI C, et al., 2020. Optimized Maxent model predictions of climate change impacts on the suitable distribution of Cunninghamia lanceolata in China[J]. Forests,11(3): 302.   
+LIU CR, NEWELL G, WHITE M, 2016. On the selection of thresholds for predicting species occurrence with presence-only data[J]. Ecol Evol, 6(1): 337-348.   
+LIU C, ZHANG R, DU HR, et al., 2O21. Impact of climate change on potential habitat of Sika Deer in China[J].Chin JWildlife,42(2):329-340.[刘策，张日，杜海荣，等，2021．气候 变化对中国梅花鹿潜在栖息地影响[J]．野生动物学报，42(2):329-340.]   
+LIU Q，WANG YK,PENG PH,et al., 2016. Characteristics of distribution and migration of species in sichuan under the climate change[J].Mountain Res,34(6):716-723.[刘勤,王玉宽, 彭培好，等，2016.气候变化下四川省物种的分布规律及迁移特征[J]．山地学报， 34(6):716-723.]   
+LU YL, ZHAO Y, WANG HX, et al., 2011. Efects of mowing on plant regrowth and reproduction characteristics of invasive Cenchrus pauciflorus[J]. Pratac Sci,28(1): 100-104.[吕林有，赵 艳，王海新，等，2011．刈割对入侵植物少花蒺藜草再生生长及繁殖特性的影响[J]．草 业科学，28(1): 100-104.]   
+MA QQ,LIU T, DONG HG, et al., 2020. Potential geographical distribution of Ambrosia trifida in Xinjiang under climate change[J].Pratacul Sci,29(12): 73-85.[马倩倩，刘彤，董合干，等， 2020．气候变化下三裂叶豚草在新疆的潜在地理分布[J]．草业科学，29(12):73-85.]   
+MA RJ, JIANG ZG, 2005. Impact of global climate change on wildlife[J]. Acta Ecol Sin, 25(11): 3061-3066.[马瑞骏，蒋志刚，2005．全球气候变化对野生动物的影响[J]．生态学报， 25(11): 3061-3066.]   
+MEROW C, SMITH MJ, SILANDER JR JA, 2013.A practical guide to MaxEnt for modeling species' distributions: what it does, and why inputs and settings matter[J]. Ecography, 36(10): 1058-7590.   
+PAN XB,WANG C, YAN J, et al., 2018. Impacts of economic globalization and climate change on biological invasion[J].Chin Plant Protect,38(4): 65-69,33.[潘绪斌，王聪，严进，等， 2018．经济全球化与气候变化对生物入侵的影响浅析[J]．中国植保导刊，38(4)：65-69, 33.]   
+PHILLIPS SJ, ANDERSON RP, SCHAPIRE RE, 2006. Maximum entropy modeling of species geographic distributions[J]. Ecol Model,190(3-4): 231-259.   
+PHILLIPS SJ, DUDIK M, 2008. Modeling of species distributions with Maxent: new extensions and a comprehensive evaluation[J]. Ecography, 31(2): 161-175.   
+POLOCZANSK ES, BROWN CJ, SYDEMAN WJ, et al.,2013. Global imprint of climate change on marine life[J]. Nat Clim Change, 3(1O): 919-925.   
+QU B,ZHU MX, WANG W, et al., 2011. Effect of four kinds of environment factors on seed germination of Cenchrus pauciflorus Benth[J]. Seed,30(3):28-30.[曲波，朱明星，王巍，等, 2011.4种环境因子对少花蒺藜草(Cenchrus pauci florus Benth.)种子萌发的影响[J].种子, 30(3): 28-30. ]   
+QU T, TIAN X, ZHOU LY, 2020. Seed heteromorphism and population maintenance strategy of invasive plant Cenchrus pauciflorus[J]. Chin JEcol,39(8): 2622-2628.[曲婷，田迅,周立业, 2020.入侵植物少花蒺藜草种子异型性及种群维持策[J].生态学杂志，39(8): 2622-2628.]   
+SAYIT H, NURBAY A, XU ZL, et al., 2019. Simulation of potential distribution patterns of the invasive plant species Xanthium spinosum L.(Bathurst burr) in Xinjiang under climate change[J].Acta Ecol Sin,39(5):1551-1559.[塞依丁·海米提，努尔巴依·阿布都沙力克， 许仲林，等，2019.气候变化情景下外来入侵植物刺苍耳在新疆的潜在分布格局模拟[J]. 生态学报，39(5): 1551-1559.]   
+SAYIT H, NURBAY A，ARMAN J,et al.， 2019. Impact of human activities on potential distribution of Solanum rostratum Dunal in Xinjiang[J]. Acta Ecol Sin, 39(2): 629-636. [塞 依丁·海米提，努尔巴依·阿布都沙力克，阿尔曼·解思斯，等，2019．人类活动对外 来入侵植物黄花刺茄在新疆潜在分布的影响[J].生态学报，39(2):629-636.]   
+SHADMAN M，MESHGI B，FATHI S，et al.，2O20. Mapping habitat suitability for gastrointestinal nematodiasis of ruminants in southern Caspian Sea littoral: a predicted risk pattern model based on the MaxEnt[J]. Trop Anim Health Prod, 52(6): 3843-3854.   
+SILVA C，LEIVA F,LASTRA J，2O18.Predicting the current and future suitable habitat distributions of the anchovy (Engraulis ringens) using the MaxEnt model in the coastal areas off central-northern Chile[J]. Fish Oceanogr, 28(2): 171-182.   
+SONG Z, ZHANG YL, FU WD, et al., 2019. Genetic diversity analysis of different populations of Cenchrus spinifex in northern China[J].Ecol Environ Sci,28(8): 1499-1506.[宋振,张衍雷, 付卫东，等，2019．少花蒺藜草在中国北方地区的不同种群遗传多样性分析[J].生态环 境学报，28(8): 1499-1506.]   
+SONG ZZ, TAN DY, ZHOU GL,2013. Distribution and community characteristics of invasive Solanum rostratum Dunal. in Xinjiang[J].Arid Zone Res,30(1): 129-134.[宋珍珍，谭敦炎, 周桂玲，2013．入侵植物黄花刺茄(Solanum rostratum Dunal.)在新疆的分布及其群落特 点[J].干旱区研究，30(1):129-134.]   
+SUN ZL, SHU Q, GAO K, et al.,2020. Invasion status, adaptive mechanism and control strategy of field sandbur:A review[J].Acta Agr Sin,28(5):1196-1202.[孙忠林，淑琴，高凯，等， 2020．少花蒺藜草入侵现状、适应机制和防控策略[J]．草地学报，28(5):1196-1202.]   
+WANG B, JIANG ZC,1999. C. calyculata and its harmfulness in grassland of Shuangliao[J]. Pratacul Sci,16(6):70.[王波，姜正春，1999．双辽市草场的蒺藜草及其危害[J]．草业科 学，16(6): 70.]   
+WANG KF, JI MS, YAO FJ, et al.,2014. Efects of methylated vegetable oil on two phytotoxicity of herbicides to Cenchrus pauciflorus Benth[J]. J Shenyang Agric Univ, 45(2): 225-227.[王 坤芳，纪明山，姚凤军，等，2014．甲基化植物油对2种除草剂防除少花蒺藜草效果的 影响[J]．沈阳农业大学学报，45(2):225-227.]   
+WANG KF, JI MS, PENG S, 2015. Effect of different invasion degrees of Cenchrus pauciflorus on plant communities characteristics[J].JNE Agric Univ, 46(11): 16-21.[王坤芳，纪明山, 彭爽，2015．不同入侵程度下少花蒺藜草对植物群落特征影响[J]．东北农业大学学报， 46(11): 16-21.]   
+WANG T, 2009. Review and prospect of research on oasification and desertification in arid regions[J].JDesertRes,29(1):1-9.[王涛，2009.干旱区绿洲化、荒漠化研究的进展与趋 势[J]．中国沙漠，29(1):1-9.]   
+WANG W, HAN ZS,2O05. Damage and distribution of Cenchrus panciflorus,an outside invader, in Liaoning Province[J].Pratacul Sci,22(7): 63-64.[王巍，韩志松，2005．外来入侵生物 -少花蒺藜草在辽宁地区的危害和分布[J]．草业科学，22(7):63-64.]   
+WANG YS, XIE BY, WAN FH, et al., 20O7. Application of ROC curve analysis in evaluating the performance of alien species' potential distribution models[J]. Biodivers Sci, 15(4): 365-372.   
+WINDER M, JASSBY AD，NALLY RM， 2011. Synergies between climate anomalies and hydrological modifications facilitate estuarine biotic invasions[J]. Ecol Lett, 14(8): 749-757.   
+WU H,2017. A bibliometrical analysis of biological invasions under the global climate change[J]. Guihaia,37(7):934-947.[吴昊，2017．气候变化背景下生物入侵研究态势的文献计量分 析[J]．广西植物，37(7):934-947.]   
+WU JG,LU JJ, AI L, 2O09. The impacts of climate change on the biodiversity: vulnerability and adaptation[J].Ecol Environ Sci,18(2): 693-703.[吴建国，吕佳佳，艾丽，2009．气候变化 对生物多样性的影响：脆弱性和适应[J].生态环境学报，18(2):693-703.]   
+XIE DF, TONG F, YANG LJ, et al., 2017. Potential distributions of an invasive species Conyza bonariensis (Compositae) in China as predicted by MaxEnt[J]. J Sichuan Univ (Nat Sci Ed), 54(2):423-428.[谢登峰，童芬，杨丽娟，等，2017.MaxEnt 模型下的外来入侵种香丝 草在中国的潜在分布区预测[J].四川大学学报(自然科学版)，54(2):423-428.]   
+XING DL, HAO ZQ, 2011. The principle of maximum entropy and its applications in ecology[J]. Biodivers Sci,3:295-302.[邢丁亮，郝占庆，2011．最大熵原理及其在生态学研究中的应 用[J]．生物多样性，19(3):295-302.]   
+XU DY, YOU XG, XIA CHL, 2019. Assessing the spatial-temporal pattern and evolution of areas sensitive to land desertification in North China[J]. Ecol Indic, 97(FEB.):150-158.   
+XU DY, SONG AL,LI DJ, et al., 2018. Assessing the relative role of climate change and human activities in desertification of North China from 1981 to 2O10[J]. Front Earth Sci-Prc,13(1): 43-54.   
+XU J,LI QF, WANG SY, et al., 2O11. Research on flowering behavior and seed germination of Cenchrus pauciflorus[J].Chin JGrassland,33(2):12-16.[徐军，李青丰，王树彦，等，2011. 少花蒺藜草开花习性与种子萌发特性研究[J]．中国草地学报，33(2):12-16.]   
+YANG H, JIANG ZH, LI L, 2016. Biases and improvements in three dynamical downscaling climate simulations over China[J]. Clim Dynam, 47(9-1O): 3235-3251.   
+ZHANG H, ZHAO HX，WANG H, 2020. Potential geographical distribution of Populus euphratica in China under future climate change scenarios based on MaxEnt model[J]. Acta Ecol Sin,40(18):6552-6563.[张华，赵浩翔，王浩，2020．基于MaxEnt 模型的未来气候 变化情景下胡杨在中国的潜在地理分布[J]．生态学报，40(18):6552-6563.]   
+ZHANG JR, YANG XM, TIAN SQ, 2020. Analysis of albacore (Thunnus alalunga) habitat distribution in the south Pacific using maximum entropy model[J]. J Fish Sci Chin, 27(10): 1222-1233.[张嘉容，杨晓明，田思泉，2020.基于最大熵模型的南太平洋长鳍金枪鱼 栖息地预测[J]．中国水产科学，27(10):1222-1233.]   
+ZHANG QY, PENG SL， 2018.Effects of warming on the biomass allocation and allometric growth of the invasive shrub Lantana camara[J]. Acta Ecol Sin,38(18): 6670-6676.[张桥英, 彭少麟，2018．增温对入侵植物马缨丹生物量分配和异速生长的影响[J].生态学报， 38(18): 6670-6676.]   
+ZHOU LY, LIU HY,GAO HM, et al.， 2012. Study on growth characteristics of Cenchrus Pauciflorus Benth. in the entire growth period[J]. J Inner Mongol Univ Natl, 27(6): 674-676. [周立业，刘海宇，高鸿蒙，等，2012．少花蒺藜草全生育期生长特性研究[J]．内蒙古民 族大学学报(自然科学版)，27(6):674-676.]   
+ZHOU LY, ZHANG YX, YANG XM, et al.,2014. Soil nutrients of Cenchrus Pauciflorus in the Artificial sand-fixation forest community of Horqin[J]. Acta Agr Sin, 22(6): 1381-1384.[周 立业，张玉霞，杨秀梅，等，2014．科尔沁沙地典型人工固沙林群落中少花蒺藜草入侵 地土壤特性[J]．草地学报，22(6):1381-1384.]   
+ZHOU RP, 2019. Zonation and spatiotemporal evolution of China's desertification[J].J Geo-Information Sci,21(5): 675-687.[周日平，2019.中国荒漠化分区与时空演变[J]．地 球信息科学学报,21(5):675-687.]

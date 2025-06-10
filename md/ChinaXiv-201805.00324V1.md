@@ -1,0 +1,200 @@
+# DOI:10.5846/stxb201705270985
+
+卓嘎，陈思蓉，周兵.青藏高原植被覆盖时空变化及其对气候因子的响应.生态学报,2018,38（9);3208-3218. ZhuoGChZalaoeatdiatccc Sinica,2018,38(9) :3208-3218.
+
+# 青藏高原植被覆盖时空变化及其对气候因子的响应
+
+卓嘎1,2,\*，陈思蓉³，周兵4
+
+1中国气象局成都高原气象研究所拉萨分部，拉萨850000  
+2西藏自治区气候中心，拉萨850000  
+3广西省气候中心，南宁530000  
+4中国气象局国家气候中心，北京100081
+
+摘要;研究青藏高原植被覆盖时空分布特征对加深气候变化的认识及生态环境保护具有重要的生态价值和现实意义。利用2000—2016 年 MODIS NDVI $1 \mathrm { k m / }$ 月分辨率数据以及气象观测数据,采用最大合成法、趋势性分析以及相关分析方法,探讨了不同时间尺度青藏高原地区NDVI的分布特征及其与降水、气温的关系。结果表明：（1)青藏高原东南部植被状况明显好于西北部,植被覆盖的分布格局与区域水热条件的时空分布保持了较好的一致性;近17年来青藏高原植被覆盖改善的地区要比退化的地区面积大,严重退化的区域主要位于青藏高原西南部;青藏高原NDVI值在 2000一2016年呈幅度较小的增加趋势。（2）除夏季降水量外,研究时段内其他季节降水量均呈增加趋势;气温均呈增加趋势,尤其以春季增加最为显著,整体上青藏高原气候呈现"暖湿化"趋势。总体上年降水量与年最大合成 NDVI呈较好的正相关;年平均气温与年最大合成NDVI在高原东南部呈正相关,西南部呈负相关。降水量和热量条件均是高原植被生长的影响因素,降水与植被覆盖的影响较气温密切。
+
+关键词：归一化植被指数;青藏高原；时空特征；气候变化
+
+# Spatio-temporal variation of vegetation coverage over the Tibetan Plateau and its responses to climatic factors 1
+
+ZHUO Ga1,2,\* ,CHEN Sirong²,ZHOU Bing4
+
+1Lhasa Branchof Chengdu Instituteof Plateau Meteorology，China Meteorological Administration，Lhasa 85Oo,China   
+2TibetClimate Center，Lhasa 850000，China   
+3 GuangXi Climate Center，Nanning 53000o,China   
+4National Climate Center，Beijing 1Oo081，China
+
+Abstract:The studyofthespatio-temporal distribution of vegetation over the Tibetan Plateau hasan important ecological value ad practical significance forincreased understanding ofclimate change and ecological environmental protection.Using the monthly normalized diferencevegetation index(NDVI）with 1km resolution，determined using the moderate-resolution imaging spectrometer（MODIS），from 20O0 to2016，and meteorological observations，this study analyzed the distribution of the NDVIover diferent time scalesanditsrelationship with precipitation and temperatureover the Tibetan Plateau based on maximum value composites（MVC），linear trends，and corelation analysis method.Theresultsshowed that：1) Vegetation status in the southeastern partof the plateau was healthy than that in thenorthwest.Thedistribution pattemof thevegetation wasconsistentwiththespatio-temporal distributionof theregional hydrothermalcondition.Thecoveragearea of improved vegetation waslarger thantheareaswith degraded vegetationoverthepast17 years，andserious degradation areas were mainlysituated in the southwestern partofthe plateau.The NDVIexhibitedan increasing variation tendency with smallamplitudes from 20O to 2O16 over the Tibetan Plateau.2）Seasonal precipitation showedan increasing tendency during the study period except insummer，whileseasonal temperature presentedanincreasing trend，withthe temperature inspring increasing at the highestrate.Generaly，climate change exhibiteda“warmand humid”variation trendover the plateau.Annual precipitation was positivelycorrelated with the annual maximum NDVI.Mean annual temperature was positivelycorelated with the NDVIin thesoutheasten plateau，and showedaninverserelationshipwith the NDVI inthe southwesternpart.Both precipitationand heatconditionsafected vegetationgrowth，andtheefectof precipitationon the vegetation was more significant than that of temperature. C N
+
+Key Words:normalized diffrence vegetation index；the Tibetan Plateau；spatio-temporal distribution；climate change
+
+在全球气候变化、人类活动以及温室气体增加的背景下,青藏高原作为气候变化的敏感区和生态脆弱带，呈现出变暖趋势,促使高原冰川退缩、湿地面积萎缩、积雪融化、冻土活动层厚度减薄,草原冻融等问题愈发突出,导致区域性的农牧区草地退化和沙漠化发生[1-4]。高寒草原和草甸是当地牧民的主要牧草来源,植被覆盖特征、生物量生产和分配、群落结构等的改变,直接影响到农牧民的经济生活,并且青藏高原生态环境变化对世界生态系统具有深刻的影响[5-8]。因此,对高寒植被的分布特征和变化规律及其对气候的响应进行研究,能够加深对青藏高原气候和生态变化机理的认识,具有十分重要的生态价值和现实意义。
+
+以往针对青藏高原植被覆盖的研究主要包括植被覆盖的时空分布特征、影响植被生长的气候因子以及高寒草甸的物候信息等方面。高原植被时空分布特征研究主要采用不同来源卫星遥感监测的分析方法。朴世龙等[9]对我国1982—1999 年以来的植被覆盖动态变化进行了分析,指出20 世纪80年代和90年代青藏高原是植被覆盖度下降的主要分布区之一。对青藏高原局部地区植被变化而言,卓嘎等[10-I]分析了西藏地区植被的分布与变化趋势,讨论了气候变化以及人类活动因素对不同区域植被变化特征的影响。边多、除多等[12-14]认为阿里植被长势有所改善,那曲草地退化出现先快后慢的现象,拉萨植被与降水量的关系较气温密切。吕洋等[15]基于趋势分析法和 Hurst 指数法,指出 2001—2012 年雅鲁藏布江流域植被覆盖总体上呈现上升趋势。廖清飞等[16]分析了青海省东部农业区植被覆盖度时空变化趋势及突变特征,认为研究区降水量的变化以及退耕还林措施是植被覆盖度变化的重要影响因素。
+
+在对高原整体植被覆盖特征研究中,Peng 等[17]基于 Hurst 指数指出青藏高原植被具有增长趋势,而刘军会等[18]利用生态模型揭示出植被变化趋势呈现整体升高局部退化的现象。不同时间尺度植被的时空变化表明[19]青藏高原植被整体变化呈波动上升的趋势。李斌等[20]利用半变异函数分析等方法探讨了青藏高原植被的时空变化特征。李辉霞等[21]通过分离气候要素与人类活动对植被指数的贡献,定量评估三江源地区生态保护与建设工程的实施效果。青藏高原降水量偏多能够促进植被的生长,两者呈现较好的正相关[2-23],降水量与植被覆盖相关较好的区域主要位于高原东北部[24]。气温升高有利于高山植物生长[25],而气温过高不利于高寒草地生长发育[24.26]。徐满厚等[27]则对高寒草甸植被进行增温模拟试验,认为适当的增温与降水均可极显著促进高寒草甸植被生长。针对青藏高原植被物候研究,马晓芳等[28-31]提取了青藏高原高寒草地的物候信息(植被返青期、枯黄期和生长季长度),分析了不同高寒草地植被物候10 年平均状况的变化趋势、空间分异特征及其对气候变化的响应规律。
+
+综上所述,以往对青藏高原植被覆盖研究多数采用美国大气海洋局（National Oceanic and AtmosphericAdministration，NOAA)植被资料,且侧重青藏高原不同区域植被覆盖分布特征或者高寒草甸物候信息的时空变化规律。研究很少涉及在全球变暖大背景下,近期青藏高原整体的植被覆盖特征[32-33],尤其是不同时间尺度植被覆盖动态变化,青藏高原降水量、气温与植被覆盖之间究竟呈正相关还是负相关等问题不甚明确。本文利用时空分辨率相对较高的 MODIS（Moderate-resolution imaging spectrometer）NDVI卫星产品以及青藏高原区域101个气象站点的降水、气温资料,采用最大合成法（Maximum Value Composites,MVC）、趋势性分析以及相关分析方法，旨在分析在全球气候变暖背景下，近17年来青藏高原植被覆盖在不同时间尺度上的空间分布和时间变化规律,探讨降水和气温变化对植被覆盖的影响,为高原地区环境保护、生态安全屏障建设提供理论依据。
+
+# 1研究区、资料和方法
+
+# 1.1 研究区域
+
+青藏高原(图1)位于我国西南部，在我国境内部分西起帕米尔高原、东至横断山脉、南自喜马拉雅山、北迄昆合山祁连山北侧；东西长约 $2 9 4 5 \mathrm { k m }$ ，南北宽达$1 5 3 2 \mathrm { k m }$ ,跨新疆、青海、甘肃、西藏等6个省区，总面积为 $2 . 6 2 \times 1 0 ^ { 6 } \mathrm { k m } ^ { 2 }$ ,占我国陆地总面积的 $2 6 . 8 \% ^ { [ 2 8 , 3 4 ] }$ 。青藏高原作为世界上平均海拔最高的高原，在各种地理因素的共同作用下，东南部属于暖湿性气候,西北部属于干冷性气候。高原气候基本特点是太阳辐射强烈，气温低，气温日较差大，年变化较小，干湿季节分明，气温和降水自东南到西北呈现递减的趋势。
+
+# 1.2 资料来源
+
+![](images/d117669f650e81d3b705cbd330f9696d8a061f61fe0267b79a638989572e1502.jpg)  
+图1青藏高原海拔高度及气象站位置分布  
+Fig.1Altitude and location of meteorological stations over the Tibetan Plateau
+
+归一化植被指数(Normal Difference Vegetation Index，NDVI)通过红外与近红外波段的组合实现对植被信息状态的表达,可以用来表征植被覆盖程度和植被生长状况、叶面积指数、生物量以及吸收的光合有效辐射等植被参数[35-37]。NDVI可以对植被生长动态变化进行监测,同时能够在较大时空尺度上客观反映植被覆盖程度和植被生长状况[38-40],其时序数据也已成为基于生物气候特征开展大区域植被的基本手段[41],归一化植被指数在全球及区域大尺度植被变化与气候相互作用中已被广泛应用。
+
+文中 NDVI数据来自美国 LP DAAC 数据中心(Land Processes Distributed Active Archive Center,http://lp.daac.usgs.gov/main.asp）MODIS 仪器提供的 2000—2017年2月逐月 NDVI数据,分辨率为 $1 \mathrm { k m }$ ,数据格式为HDF-EOS,投影方式为 Sinusoidal。MODIS 数据是植被遥感监测领域中重要的数据源之一。文中对遥感数据的合成、再投影处理是通过投影软件 MRT（MODIS Reprojection Tool）、遥感影像处理软件 ENVI（Theenvironmental for visualizing Images)实现。把下载的数据依据青藏高原范围进行拼接,使其投影为标准的经纬度网格坐标,将软件输出的MODIS 资料保存为GEOTIF 格式;在 ENVI里完成青藏高原矢量边界裁剪,获得研究区的 NDVI数据。为反映研究区不同时间尺度植被覆盖状况,计算月、季节、生长季和年的NDVI平均值,将数据转存为ASCII格式,以便用于植被指数与气象要素的相关计算。文中使用GIS（Geographic InformationSystem)绘制植被空间分布和变化趋势图,IDL绘制曲线图。
+
+气象数据来源于中国气象科学数据共享服务网（htp://cdc.cma.gov.cn）,选取 2000 年1月—2016 年12月青藏高原地区101个气象站的月降水和温度数据,气象站包括青海和西藏的全部站点;新疆的塔什库尔干、甘肃的乌哨岭、玛曲和合作;云南的德钦、贡山和中甸;四川的石渠、若尔盖、德格、甘孜、色达、道孚、阿坝、马尔康、红原、小金、松潘、巴塘、新龙、理塘、稻城、康定、得荣、木里和九龙。
+
+# 1.3分析方法
+
+文中将研究时段划分为年际、生长季、季节、月等4种时间尺度。季节划分采用气象学上的标准;春季3—5月,夏季6—8月，秋季9—11月，冬季从12月到次年2月,生长季选取4—9月。采用最大合成法（Maximum value Composites，MVC)获得各研究时段(月、季节、生长季和年)内最大NDVI值作为不同时段的NDVI值,该方法在一定程度上能够消除云对植被指数的影响。由于文中关注植被覆盖及其变化趋势,没有单独考虑云、积雪、水体和无数据区域的植被状况。对植被覆盖的等级划分采用等间隔等分方法[32],认为植被不同等级之间的变化速率一致,依据植被变化速率大小划分为严重退化、中度退化、轻度退化、基本不变、轻度改善、中度改善以及明显改善7个等级。
+
+NDVI随时间的变化趋势利用趋势线分析[42],即对每个栅格的 NDVI数值进行一元线性回归分析。slope为 NDVI回归方程的变化速率,即斜率,若slope $> 0$ ,则该像元17年间的植被覆盖变化趋势增加,且数值愈大植被覆盖度增加趋势愈明显;反之表明植被变化趋势减少; $\mathrm { s l o p e } = 0$ 表示此像元的植被覆盖无变化。采用最小二乘法法拟合NDVI和气候要素随时间的变化速率,即 NDVI和气候要素 $x$ 随时间 $\mathbf { \chi } _ { t }$ 的线性回归。在分析植被指数和气候要素关系时,先通过插值计算出各观测站点上的 NDVI,再计算年 NDVI和年降水量、年平均气温的相关系数。在变化趋势或相关系数分析中,如果相关系数大于显著性检验表中自由度N对应的临界值,说明变化速率或相关系数通过指定显著性水平 $P$ 值的检验。
+
+# 2结果分析
+
+# 2.1 NDVI空间变化
+
+图2为 2000—2016年青藏高原不同季节、生长季和年合成平均植被指数的空间分布图。可以看出,无论季节、生长季或全年NDVI,青藏高原东南部植被状况明显好于高原西北部。由于受到东亚夏季风的影响,东南部能够得到较好的水热条件,分布着常绿阔叶林以及针叶林,而青藏高原西北部基本属于干旱、半干旱区域,水热条件较差,分布着草原及荒漠,表明植被覆盖的分布格局与该区域水热条件的时空分布保持了较好的一致性。
+
+春季高原地区植被覆盖整体状况比较差,植被状况最好的区域（NDVI>0.8)位于西藏东南部的林芝、昌都等地,这些区域分布着比较茂密的森林,相对于其他地表类型具有更高的 NDVI值;植被覆盖较好的区域${ \mathrm { N D V I } } { > } 0 . 4 { \rangle }$ 位于青藏高原东部和东南部,即青海省东部、川西高原以及西藏东南部;高原大部分区域的 NDVI均小于0.4,尤其在高原西部和北部柴达木盆地,NDVI甚至小于0.2,基本对应着青海西部和藏北辽阔的荒漠和半荒漠区域。
+
+随着夏季和雨季来临,高原植被状况有所好转，NDVI $> 0 . 4$ 的区域由高原东南部向高原西北部逐渐增加,青海省东部和南部、川西高原以及西藏中东部 $\mathrm { \ N D V I { > } } 0 . 6$ ,尤其是川西高原和西藏东南部 $\mathrm { N D V I } { > } 0 . 8$ 。秋季高原雨季结束,气温逐渐下降,植被覆盖与夏季植被空间分布比较相似,但是随着温度降低,植被趋于枯黄,高原东南部的 NDVI较夏季有所降低,基本处于0.4—0.8之间,NDVI大于0.8的区域明显减少。冬季高原地区异常寒冷,NDVI大于0.4的区域急剧南缩,主要位于川西高原东部和南部以及西藏东南部， $\mathrm { N D V I } { > } 0 . 8$ 的区域基本位于西藏东南部。由于青藏高原植被的生长期较平原地区短,植被生长最快时段基本集中在夏季。因此，高原生长季和全年植被覆盖的空间分布与夏季植被覆盖特征比较接近,仅在个别区域存在着差别,比如生长季和年植被覆盖 NDVI>0.8 的区域较夏季范围偏大。
+
+图3为青藏高原2000—2016年不同研究时段植被的变化趋势。由图可见，高原植被既有增长又有退化趋势,植被覆盖变化具有明显的季节和区域差异。春季高原大部分区域植被呈增加趋势,增加地区分布在青海东部和南部、川西高原北部、西藏东南部,而西藏那曲中东部、川西高原南部退化比较严重。夏季植被增加区域位于高原北部以及青海省大部,植被覆盖减少区域位于西藏中西部,尤其以藏北最为明显。秋季高原植被减少最为明显,减少区域集中在高原东南部以及青海省南部。冬季高原大部植被覆盖呈增加趋势,减少区域位于青海省东北部和南部。生长季和年植被覆盖变化空间分布与夏季特征接近。整体上青藏高原植被覆盖改善区域大于退化区域,改善面积达到高原面积的 $7 2 \% - 7 5 \%$ ,退化面积占 $2 5 \% - 2 8 \%$ 。
+
+根据年平均 NDVI变化斜率数据及其分布规律,采用等间隔等分法[32]将变化斜率分为7个等级（表1)。结果表明,严重退化的区域主要位于青藏高原西南部,尤其是西藏那曲中东部,退化面积为 $9 . 0 9 \mathrm { k m } ^ { 2 }$ ,占总面积的 $0 . 0 0 0 3 \%$ ;中度退化区域分布于西藏中西部以及青海南部,退化面积为 $1 3 6 . 3 7 \mathrm { k m } ^ { 2 }$ ,占总面积的 $0 . 0 0 4 5 \%$ ：轻度退化区域范围相对较广，几乎分布于除西藏东南部之外的大部分区域,退化面积为 $3 4 2 4 . 3 2 \mathrm { k m } ^ { 2 }$ ，占总面积的 $0 . 1 1 3 \%$ ;基本不变的区域面积为 $2 7 1 1 8 5 9 . 9 3 \mathrm { k m } ^ { 2 }$ ，占总面积 $8 9 . 4 8 9 4 \%$ ;轻度改善面积 $3 1 9 5 6 1 . 6 1 \mathrm { k m } ^ { 2 }$ ，占总面积 $1 0 . 5 4 5 3 \%$ ；中度改善面积 $2 2 3 9 . 4 4 \mathrm { k m } ^ { 2 }$ ，占总面积 $0 . 0 7 3 9 \%$ ；明显改善面积 $1 3 9 . 4 0 \mathrm { k m } ^ { 2 }$ ，仅占总面积$0 . 0 0 4 6 \%$ 。由此可见,近年来高原地区退耕还林、草原生态补偿机制等生态环境保护措施的实施,使得高原地区植被中度和轻度改善面积增大,青藏高原大部分区域的植被状况有了明显的改善,但仍然存在植被的不同
+
+![](images/1c6a9f1b497110995a008b2660825a46c6b2a4a6e25685d0a2e0e285aa49d69c.jpg)  
+图22000一2016年青藏高原地区季节、生长季和年最大NDVI多年平均的空间分布  
+Fig.2 Distribution of maximum NDVI during different seasons over the Tibetan Plateau from 20oo to 2016
+
+表1 2000一2016年青藏高原NDVI年变化趋势统计  
+Table 1 The annual NDVI variation over the Tibetan Plateau from 20oo to 2016   
+
+<html><body><table><tr><td>NDVI斜率变化范围 The range of slope</td><td>变化程度 The degree of slope</td><td>所占面积 Area/km²</td><td>占全区面积百分比 The percentage of total area/%</td></tr><tr><td>-0.0682<slope<-0.0503</td><td>严重退化</td><td>9.09</td><td>0.0003</td></tr><tr><td>-0.0503<slope<-0.0324</td><td>中度退化</td><td>136.37</td><td>0.0045</td></tr><tr><td>-0.0324<slope<-0.0145</td><td>轻度退化</td><td>3424.32</td><td>0.1130</td></tr><tr><td>-0.0145<slope<0.0034</td><td>基本不变</td><td>2711859.93</td><td>89.4894</td></tr><tr><td>0.0034<slope<0.0212</td><td>轻度改善</td><td>319561.61</td><td>10.5453</td></tr><tr><td>0.0212<slope<0.0391</td><td>中度改善</td><td>2239.44</td><td>0.0739</td></tr><tr><td>0.0391<slope<0.0570</td><td>明显改善</td><td>139.40</td><td>0.0046</td></tr></table></body></html>
+
+slope:斜率
+
+http://www.ecologica.cn程度退化区域。
+
+![](images/6d84e695e0c9a9f08b9e65925c892a2752b6ff97623584d0c030940a4afc6780.jpg)  
+图32000—2016年青藏高原季节和年最大NDVI变化斜率
+
+# 2.2 NDVI时间变化
+
+依据青藏高原月植被指数统计出的近17年NDVI的月平均值(图4)可以看出，随着季节更替 NDVI相应地发生改变。由于高原冬半年时段长，降水较少且天气寒冷，1—3月NDVI值较小，基本维持在0.15左右，4月以后随着气温升高和降水增加，植被开始返青，尤其以高原东南部较为显著，NDVI值也迅速增大，不同类型植被生长旺盛,在8月NDVI值达到最大值（0.3393），9月后随着农作物的成熟，大部分植被开始落叶，植被覆盖逐渐减少，NDVI值急剧下降，至次年2月下降为全年中的最低值(0.1572）。2000—2016年多年平均的标准误差为0.0021，最大误差值出现在6月，仅达到0.0038，说明随着夏季到来，植被覆盖呈现明显变化，NDVI反映的植被状况较实际情况略微偏大,其他月份误差较小,其中最小误差出现在1月（0.0014)。由此可见,高原植被指数月际变化的标准误差均非常小,NDVI能很好地反映呈“单峰型"的年变化规律。
+
+![](images/cc487ec1636cef34288126006443d9868fe96e2ca6449a3fdbda24acd8dc0f84.jpg)  
+Fig.3The slope of maximum NDVIduring different seasons over the Tibetan Plateau from 2ooo to 2016   
+图4青藏高原2000一2016年NDVI月变化（短线为误差线）Fig.4The monthly variation of NDVI over the Tibetan Plateau$\mathbf { f r o m } \ 2 0 0 0$ to 2016（Shot line refers to the error line)
+
+图5显示了青藏高原地区不同季节、生长季和年NDVI随时间的变化趋势。从年均值曲线及其线性趋势上看,植被指数呈显著的上升趋势,增幅为 $0 . 0 0 7 / 1 0 \mathrm { a }$ ,相关系数为0.619,通过显著性水平检验( $P { < } 0 . 0 1 \ \cdot$ 。2000 年的 NDVI值为0.337,为植被指数最低值,而后 NDVI持续上升,2005年达到0.3641,以后 2006—2012年经历了幅度较小的波动后逐渐上升,2012年达到近17年来NDVI最大值(0.3726),随后呈现微弱的下降趋势,2015年NDVI值为0.3559。不同季节的NDVI值变化曲线表明,植被指数均呈明显上升趋势,春、夏、秋、冬季和生长季的 NDVI增幅分别为 $0 . 0 1 / 1 0 \mathrm { { a } } \cdot 0 . 0 0 8 / 1 0 \mathrm { { a } } \cdot 0 . 0 0 3 / 1 0 \mathrm { { a } } \cdot 0 . 0 0 7 / 1 0 \mathrm { { a } }$ 和 $0 . 0 0 8 / 1 0 \mathrm { a }$ ,对应的相关系数分别为0.686,0.629,0.242,0.672 和0.621。青藏高原地区不同时段 NDVI值呈幅度较小的增加趋势,除秋季外,其他季节和生长季植被变化均通过显著性水平检验( $_ { , } P { < } 0 . 0 1 \$ 。
+
+# 2.3 气候因子变化特征
+
+多年月平均降水量和平均气温(表2)表明降水量和气温呈现基本一致的单峰型变化,即1一3月降水量较小,气温较低,最低温度出现在1月,12月降水最少;4月以后无论是气温还是降水量均呈显著增加,降水量和气温都在7月份达到一年中的最大值。结合NDVI月际变化和表2可以看出,降水量、平均气温和 NDVI具有类似的年变化特征,NDVI值的最大值略微滞后于降水量和气温的峰值。
+
+表22000一2016年青藏高原地区多年平均月降水量和月平均气温  
+Table 2The monthly precipitation and temperature over the Tibetan Plateau from 20   
+
+<html><body><table><tr><td rowspan="2">气候因子 Climate factors</td><td colspan="10">月份Month</td></tr><tr><td>1</td><td></td><td>3</td><td>4</td><td>6</td><td></td><td>8</td><td>9</td><td>10</td><td></td></tr><tr><td>降水量 Precipitation/mm</td><td>4.22</td><td>6.50</td><td>14.00</td><td>26.87</td><td>2 50.72 84.26</td><td>104.98</td><td>91.82</td><td>68.92</td><td>26.39</td><td>4.86</td><td>1.75</td></tr><tr><td>温度 Temperature/C</td><td>-6.22</td><td>-3.26</td><td>0.71</td><td>5.00</td><td>8.96</td><td>12.47 14.07</td><td>13.40</td><td>10.49</td><td>4.95</td><td>-1.11</td><td>-5.17</td></tr></table></body></html>
+
+近17年来不同时段的降水量和气温变化趋势表明,冬季降水量和温度最低,夏季温度最高,生长季降水量最大。由降水量的变化趋势可见,除夏季降水量呈减少趋势 $\cdot 4 . 0 9 \mathrm { { m m } / 1 0 a }$ )外,其他季节降水量均呈增加趋势,以秋季和春季变化较为明显,增幅分别为 $2 . 5 1 \mathrm { m m } / 1 0 \mathrm { a }$ 和 $1 . 9 9 \mathrm { { m m } / 1 0 \mathrm { { a } } }$ ,但是总体上降水量增加的变化趋势不显著,没有通过显著性水平检验( $\scriptstyle ( P < 0 . 0 1 )$ 。冬季、春季和秋季降水量的年际波动较小,夏季和生长季降水量年际波动较大。不同研究时段的气温均呈增加趋势,尤其以春季增加最为显著,可以达到 $0 . 6 3 ^ { \circ } \mathrm { C } / 1 0 \mathrm { a }$ ;秋季、夏季和生长季次之，增温幅度分别达到 $0 . 4 6 , 0 . 4 3 \mathrm { ^ { \circ } C } / 1 0 \mathrm { a }$ 和 $0 . 4 3 ^ { \circ } \mathrm { C } / 1 0 \mathrm { a }$ ;冬季增温幅度最小,仅为 $0 . 1 4 \mathrm { ^ { \circ } C } /$ $1 0 \mathrm { a }$ 。除冬季气温外,其他季节气温变化趋势均通过显著性水平检验( $\scriptstyle P < 0 . 1 0 )$ ,尤其是春季和生长季平均气温通过 $P { < } 0 . 0 1$ 显著性水平检验。不同时段平均气温的年际波动总体较小,其中,冬季和秋季的变化相对较大。 3Z
+
+对青藏高原地区2000—2016年101个气象站观测的降水量和平均气温实测资料分析（图6)发现,近17年青藏高原地区年平均气温变化幅度较大,多年年平均气温为 $4 . 5 6 ^ { \circ } \mathrm { C }$ ;气温从2000 年至 2009 年呈在波动之中显著增加,2009 年之后到 2012年持续下降,随后急剧增加;平均气温最低值出现在 2000 年 $( 3 . 7 9 ^ { \circ } \mathrm { C }$ )，气温最高值( $5 . 1 5 \%$ )出现在2016年;整体上年平均气温呈显著上升趋势,增幅为 $0 . 4 5 / 1 0 \mathrm { a }$ ,相关系数为0.613，通过显著性水平检验( $P { < } 0 . 0 1 \rangle$ 。在全球气候变暖的大背景下,区域气候呈现显著的变暖趋势。由年均降水量可见,近17年青藏高原地区降水变化幅度不大,多年平均年降水量为 $4 8 5 . 8 3 \mathrm { m m }$ ;降水量从2000 年至 2006 年呈减少—增加一减少的变化趋势,并在 2006 年达到近17 年来的最小值( $4 3 2 . 1 1 \mathrm { m m } ^ { \cdot }$ ),随后呈现波动变化，2015年达到次低值 $4 3 7 . 1 3 \mathrm { m m }$ ,2016年达到最大值( $5 3 7 . 3 7 \mathrm { m m }$ );降水量总体上呈缓慢增加趋势，增幅为$2 . 0 4 \mathrm { m m } / 1 0 \mathrm { a }$ ,相关系数为0.032,未通过显著性水平检验( $\stackrel { \cdot } { P } < 0 . 0 1$ )。综上所述，青藏高原气候变化呈现“暖湿化”趋势。
+
+# 2.4植被覆盖与气候因子的响应
+
+植被指数与气候因子关系密切,并且气候条件能够调节和改变植被覆盖的分布状况[43-44]。从 2000—
+
+![](images/f19e67cfb013b64e4c564cd8052d12ab89ea37faaf5ac768644e31177fce53bd.jpg)  
+图5青藏高原地区不同季节、生长季和年NDVI随时间的变化趋势 Fig.5The variation trend of NDVI during different seasons over the Tibetan Plateau
+
+2016 年多年平均的高原地区年最大合成NDVI、年降水量、年平均气温的突变规律来看,降水量的变化不存在显著突变现象,平均气温和 NDVI则分别在 2003 年和2004年表现出了显著增加的突变现象,NDVI的突变时间滞后于平均气温的增加,表明近年来平均气温与植被覆盖呈基本一致的增加趋势。
+
+将青藏高原多年平均的各像元的年最大合成NDVI插值到各气象站点上,得到了NDVI和降水量、气温的散点分布图。无论年降水量还是年平均气温,总体上均与年最大合成NDVI呈较好的正相关,通过 $\scriptstyle P < 0 . 1 0$ 显著性水平检验。年降水量较年平均气温在空间尺度上与植被指数有更好的对应,降水量增加可极显著地促进高寒草甸植被的生长。温度升高在一定程度上可以满足植被正常生长所需的热量供应,适当增温可促进高原植被生长,但是温度过高时,过高的温度会改变植物群落的小气候环境,直接或间接影响到植被的生长发育禾生物量生产,对植被覆盖起到抑制作用[24,26]。 C S
+
+![](images/56f3b448ece8da6cfd8099aa749a261e699cdf8eaac9a8f94d7ec46246b67394.jpg)  
+图62000一2016年青藏高原降水量和平均气温的年际变化
+
+为了解植被指数对降水量、平均气温在青藏高原不同区域的响应,分别计算了各高原观测站年降水量和年平均气温与对应植被指数的相关系数(图7)。结果表明,年降水量和植被指数在青藏高原大部分区域呈正相关,尤其是青藏高原东北部,包括青海大部、西藏大部以及川西高原北部,体现了降水对草原植被生长有利[22-23];负相关区主要位于青海东南部、西藏北部和东南部以及川西高原南部。年平均气温和植被指数的正相关区主要位于青海大部、西藏西北部和川西高原南部;负相关区位于高原西南部,尤其是西藏中东部,说明气温对植被的生长在特定区域具有不利的影响。
+
+![](images/dbaeab92f66df96cdd9d2c1db3cd0952d3f2e6009d66862b92feb01757399ff0.jpg)  
+The variation of annual precipitation and temperature over the Tibetan Plateau from 2ooo to 2016   
+图7年降水量、年平均气温与年最大合成植被指数的相关系数  
+Fig.7 Correlation coefficients between annual NDVIand annual precipitation or annual mean temperature
+
+J 由此可见,对高原西部降水较少和气温较低的区域(以西藏阿里为例),降水量和热量条件都会影响植被生长,并且与植被均呈正相关;对于高原东南部降水相对充沛的部分区域,降水量和热量条件对植被生长影响不显著,甚至降水偏多,可能还会抑制植被生长[24]。从不同类型下垫面来看,草原和荒漠覆盖区域的 NDVI与降水量、气温表现为较密切的正相关["],尤其以草原更为显著,通过 $\scriptstyle P < 0 . 1 0$ 显著性水平检验;森林区NDVI与降水量、气温关系不显著。总体来说,青藏高原降水量、气温分别与植被指数既存在正相关,也存在负相关，降水量对植被覆盖的影响大于平均气温对植被覆盖的影响。
+
+http://www.ecologica.cn
+
+# 3讨论
+
+综上所述,无论不同季节、生长季或年最大合成的植被状况，青藏高原植被均呈现逐渐增加的趋势。但是,有研究[45]应用增强的植被指数（Enhanced Vegetation Index，EVI)分析 2000—2012 年青藏高原生长期植被覆盖变化,认为青藏高原植被呈现不显著的减少趋势,因为植被减少的速率大于植被增加的速率,并且气候变化的初始状态会导致不同植被类型对气候变化的敏感性的差异。文中研究结果与此结论存在着研究时段以及植被增加、减少速率定量化分析上的差异,没有涉及气候初始状态对植被覆盖变化的影响。降水量、气温与植被覆盖存在着正、负相关的区域,气温与植被覆盖的正相关区主要位于高原东北部,负相关区位于西南部,降水量对植被覆盖的影响较气温明显,这与以往研究[24,46]结论接近一致,并且指出了植被指数和气候要素的相关存在着区域性差异。由于青藏高原观测站点主要位于高原中东部,高原西部大多数区域没有站点或者站点很少,研究结论的适用性局限于高原中东部。文中关注的气候因子主要限于降水量和气温的站点资料,今后需要采用格点数据、卫星估算降水以及相对湿度等其他资料,进一步开展青藏高原不同区域、尤其是高原东、西部植被类型差异特征及其对气候变化的响应和互馈作用。
+
+# 4结论
+
+本文分析了2000—2016年青藏高原地区植被的时空特征和变化趋势,得出以下结论：
+
+(1)青藏高原东南部植被状况明显好于高原西北部,植被覆盖的分布格局与区域水热条件的时空分布保持了较好的一致性。近年来青藏高原大部分区域的植被状况有明显改善,严重退化区域主要位于青藏高原西南部。除秋季外,青藏高原地区NDVI值在 2000—2016年呈幅度较小的增加趋势,各时段植被变化均通过显著性水平检验( $P { < } 0 . 0 1 \rangle$ 。
+
+(2)除夏季降水量呈减少趋势（减幅为 $4 . 0 9 \mathrm { { m m } / 1 0 \mathrm { { a } } ) }$ 外，其他季节降水量呈增加趋势;不同研究时段的气温均呈增加趋势,整体上青藏高原气候变化呈现“暖湿化"趋势。降水量和平均气温总体上与年最大合成NDVI呈较好的正相关,但也存在负相关区域,青藏高原上降水量对植被覆盖的影响较平均气温明显。
+
+# 参考文献（References）：
+
+［1］孙鸿烈，郑度.青藏高原形成演化与发展.广州：广东科技出版社，1998.  
+［2］牛亚菲.青藏高原生态环境问题研究.地理科学进展，1999，18(2)：163-171.  
+[3］王一博，王根绪，常娟.人类活动对青藏高原冻土环境的影响.冰川冻土，2004，26(5)：523-527.  
+[4］樊启顺，沙占江，曹广超，曹生奎.气候变化对青藏高原生态环境的影响评价.盐湖研究,2015，13(1)：12-18.  
+[5］潘保国，李吉均.青藏高原：全球气候变化的驱动机与放大器：青藏高原隆起对气候变化的影响.兰州大学学报：自然科学版，1996，32(1): 108-115.  
+[6］冯松，汤懋苍，王冬梅.青藏高原是我国气候变化启动区的新证据.科学通报，1998，43(6)：633-636.  
+［7］何红艳.青藏高原森林生产力格局及对气候变化响应的模拟[D].北京：中国林业科学研究院，2008.  
+[8］孙鸿烈，郑度，姚檀栋，张镜锂.青藏高原国家生态安全屏障保护与建设.地理学报，2012，67(1)：3-12.  
+[9］朴世龙，方精云.1982-199年我国陆地植被活动对气候变化响应的季节差异.地理学报，2003，58(1)：119-125.  
+[10] 卓嘎，李欣，罗布，王彩云.西藏地区近期植被变化的遥感分析.高原气象，2010，29（3）：563-571.  
+[11] 卓嘎，阿旺尼玛，杨秀海.西藏地区植被覆盖特征与气象因子的相关分析.气象科学，2007,27(5)：488-494.  
+[12]边多，普布次仁，尼珍，刘奎军.基于MODIS-NDVI时序数据的西藏阿里地区草地覆盖时空变化.中国草地学报，2014，36(3)：73-78.  
+[13］戴睿，刘志红，娄梦筠，梁津，于明洋.藏北那曲地区草地退化时空特征分析.草地学报,2013,21(1)：37-41,99-99.  
+[14] ChuD,LuLXZagsitiofolddiereceeatioiex（）tasalditeaalliaeodiLhasa area，Tibetan Plateau，China.Arctic，Antarctic，and Alpine Research，2OO7,39(4）：635-641.  
+[15］吕洋，董国涛，杨胜天，周秋文，蔡明勇.雅鲁藏布江流域NDVI时空变化及其与降水和高程的关系.资源科学,2014，36(3）：603-611.  
+[16]廖清飞，张鑫，马全，姚瑶，于东平.青海省东部农业区植被覆盖时空演变遥感监测与分析.生态学报，2014，34（20)：5936-5943.  
+[17]PegJ,LiuZH,LiuYH,WuJS,HaiYTrendnalysisofvegetatiodamicsinQinghai-TbetPlateausigHurstExpontEcoloicalIndicators,2012，14(1)：28-39.  
+[18］刘军会，高吉喜，王文杰.青藏高原植被覆盖变化及其与气候变化的关系.山地学报，2013，31（2)：234-242.  
+[19］王青霞，吕世华，鲍艳，马迪，李瑞青.青藏高原不同时间尺度植被变化特征及其与气候因子的关系分析.高原气象，2014，33（2)：301-312.  
+［20］李斌.青藏高原植被时空分布规律及其影响因素研究[D].北京：中国地质大学，2016.  
+[21] 李辉霞，刘国华，傅伯杰.基于NDVI的三江源地区植被生长对气候变化和人类活动的响应研究.生态学报，2011,31（19)：5495-5504.  
+[22] SunJ,CengGW,LiWP,ShaYK,YangYC.OnthevariationofNDVIwiththeprincipalclaticelementsintheTbetanPlateau.RemoteSensing，2013,5(4）：1894-1911.  
+23]HuFuHdlieeaadelaioateriver-source region.International Journal of Applied Earth Observation and Geoinformation,2011,13(1)：24-33.  
+[24]Zhang,D,Ji,eiL,WgCZ,YD,iB,iJVeatgreesrdtO）delateosQinghai-Tibetan Plateau. Journal of Applied Remote Sensing，2013,7(1)：073572.  
+[25]ZhangGL,ZhangYJ,DongJW,XiaoXM.Gren-updatesinthe TibetanPlateauhavecontiuouslyadvancedfrom1982to21Pof the National Academy of Sciences of the United States of America,2013,110(11）:4309-4314.  
+[26]FuG,Zhang X Z,ZhangYJ，ShiPL,LiYL,ZhouYT,YangPW,ShenZ X.Experimental warmingdoes notenhancegros primaryproduction andabove-ground biomassin thealpine meadowof Tibet.Journalof Applied Remote Sensing，2013,7(1):073505.  
+[27] 徐满厚，薛娴.青藏高原高寒草甸植被特征与温度、水分因子关系.生态学报，2013，33（10)：3158-3168.  
+[28] 马晓芳，陈思宇，邓婕，冯琦胜，黄晓东.青藏高原植被物候监测及其对气候变化的响应.草业学报，2016，25(1)：13-21.  
+[29] 宋春桥，游松财，柯灵红，刘高焕，钟新科．藏北高原植被物候时空动态变化的遥感监测研究.植物生态学报，2011，35(8)：853-863.  
+[30] 宋春桥，游松财，柯灵红，刘高焕，钟新科.藏北高原典型植被样区物候变化及其对气候变化的响应.生态学报，2012，32（4)：1045-1055.  
+[31] 贾文雄，赵珍，俎佳星，陈京华，王洁，丁丹.祁连山不同植被类型的物候变化及其对气候的响应.生态学报,2016,36(23)：7826-7840.  
+[32] 袁沫汐，邹玲，林爱文，朱弘纪.湖北省地区植被覆盖变化及其对气候因子的响应.生态学报，2016，36(17)：5315-5323.  
+[33] 管磊，王华军，王玉宽.基于GIMMS NDVI数据的四川植被覆盖度时空变化特征.科技通报，2016,32(6)：31-36,41-41.  
+[34] 张镜锂，李炳元，郑度.论青藏高原范围与面积.地理研究，2003，21（1)：  
+[35] Tucker C J,Fung IY，Keeling C D,Gammon R H. Relationship betwee atmospheric $\mathrm { C O } _ { 2 }$ variatiosandasatelite-erivedvegetation index.Nature，1986,319(6050）：195-199.  
+[36]SellrsPJ，MesonBW,HallFG,AsrarG,MurphyRE,SchifferRA，BrethertonFP,DickinsonRE，EligsonRG,FieldCB,Huemmrich KF,JusticeCO,MelackJM,RouletNT,ShimelDS,TryPDRemotesensingofthelandsurfaceforsudiesof globalchange:models-algorithms-experiments. Remote Sensing of Environment，1995,51(1): 3-26.  
+[37]DeFriesRS,FielCB,FungI,JusticeCO,LsS,MatsoPA,MathewsE,MoneyHA,PoterCS,PrenticeK,SelersPJ,TowshendJRG,TuckerCJUtiSVitousekP.appingthlandsufaceforglobalatmospere-biosperemodelswardotiuousitribtiosfvegetation's functional properties.Journal of Geophysical Research：Atmospheres，1995，100(D10）:20867-20882.  
+[38]Carlsopley.Onhelatetfractalvgeoo，deeReotesigoft997,62(3):241-252.  
+[39]YiSH,ZZY,RnSL,XuQinY,S,YeBfetsofperosdegadatoolpigrassadiiQinghai-Tibetan Plateau. Environmental Research Letters，2011,6(4）: 045403.  
+[40]PurevdoatesdelatissteatioedeatioeaaolfRemote Sensing，1998, 19(18) : 3519-3535.  
+[41]ShenMG,TangYenJZuXL,ZgYHIueesfperatureadpreiitoeforhegroeassprgingrasslandsofthecentralandeasternQinghai-TibetanPlateauAgriculturalandForestMeteorology，2011,151（12）：7-2.  
+[42］张含玉，方怒放，史志华.黄土高原植被覆盖时空变化及其对气候因子的响应.生态学报，2016,36(13)：3960-3968.  
+[43]GurgelteilirldsieeaalJeSensing，2003，24(18）: 3595-3609.  
+[44] MilichLWeisE.ies：eatsifalotetialapoilsft（）dthecroplandsoftheNiger-Nigeriaborder（southern Sahel).International Journalof Remote Sensing，2Oo,21（2）：261-280.  
+[45] Shen ZX,FuG,uCQ,Sun W,ZhangXZ.Relatioshipetwenthegowingseasonmaximuenancedvegetationindexandimaticfactoon the Tibetan Plateau. Remote Sensing，2014,6(8）:6765-6789.  
+[46]DingMJ,ZhangYL,LiuLS,ZhangW,WangZF,BaiWQ.TherelatonsipbetweeNDVandprecitationontheTbetanPlateaJoualof Geographical Sciences，2007,17(3）:259-268.

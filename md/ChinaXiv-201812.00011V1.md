@@ -1,0 +1,144 @@
+# 1药物基因组学的临床部署策略及流程
+
+王飞¹，武志慧¹，闵浩巍¹，余乐¹，姜召芸¹，朱翀¹，弓孟春¹，史文钊¹，朱卫国²，向炎珍²
+
+1神州数码医疗科技股份有限公司，北京100080²中国医学科学院 北京协和医院，北京100730通讯作者：向炎珍E-mail：xiangyz $@$ pumch.cn；朱卫国，E-mail:zhuwg@pumch.cn
+
+【摘要】随着测序技术的飞速发展，临床上积累了大量的个体化用药案例，相应的循证医学数据日益丰富，促进了药物基因组的快速发展，然而只有在临床上进行规范合理的部署，才能发挥其价值。药物基因组的临床部署目前主要有被动执行和预先执行两种策略。具体的实施流程包含电子病历整合、基因-药物对的选择、成本效益、教育培训等多种因素。本文主要对药物基因组学的临床部署策略及实施流程进行综述，并对面临的挑战进行讨论，以期为我国药物基因组学的临床部署提供指导。
+
+【关键词】药物基因组学；临床部署；策略；实施流程
+
+# Clinical deployment strategies and processes for pharmacogenomics
+
+WANG Fei1，WU Zhi-hui1，MIN Hao-wei1，YU $\mathrm { L e } ^ { 1 }$ ， JIANG Zhao-yun¹，ZHU Chong¹，GONGMeng-chun²， SHI Wen-zhao'， ZHU Wei-guo²， XIANG Yan-zhen²
+
+1Digital China Health Technologies Corporation，Beijing 100080，China   
+2Chinesse Academy of Medical Sciences & Peking Union Medical College， Beijing 100730, China   
+Corresponding author: XIANG Yan-zhen E-mail: xiangyz $@$ pumch.cn； ZHU Wei-guo, E-mail: zhuwg@pumch.cn
+
+【Abstract】 With the rapid development of sequencing technology,a large number of clinical cases for personalized medicine have been accumulated.Evidence-based medical data has been abundant and promoted the rapid development of the pharmacogenomics. However, it would play the important role only if it would be deploymented in clinical. There are two strategies for the clinical deployment of pharmacogenomics: reactive strategy and preemptive strategy. Different deployment strategies require different deployment processes. The specific implementation process involves integration of EMR,selection of gene-drug pairs, cost-effectiveness, education and training， etc. Thispaper reviews the strategy and implementation workflow of pharmacogenomics clinical deployment, and discusses the challenges so as to provide guidance for the clinical deployment of pharmacogenomics in China.
+
+【 Key words 】pharmacogenomics， clinical deployment, strategies， implementationworkflow
+
+# 1药物基因组临床部署策略的介绍
+
+# 1.1意义及重要性
+
+药物基因组学是一门应用遗传信息指导临床选择最佳的药物，以最适合的剂量提高药物疗效、减少或避免不良反应、改善预后和节约医疗成本的交叉学科，自创立以来发展缓慢。2015 年之后随着精准医学计划的提出，药物基因组学开始飞速发展。美国临床药物基因组学应用委员会（The Clinical Pharmacogenetics Implementation Consortium， CPIC）发布了35个药物的临床药物基因组学应用指南，国家卫生计生委也推出了两部试行版指南，以规范个体化治疗基因检测市场。这些指南是目前最为重要的知识参考体系，然而这些指南中繁复的规则对医生提出巨大的挑战，靠个人的记忆基本不能实现。另一方面，随着科研的快速进展，药物基因组的知识更新迭代非常快，靠个人不可能做到实时跟踪这些更新。最好的办法是将这些规范指南变成用药规则整合入知识库系统中，并保证知识库的更新迭代，通过临床决策支持系统将基因变异和用药建议以直观的方式展现给医生。因此，药物基因组的临床应用必须依靠临床部署来实现。
+
+目前药物基因组学不仅是精准医疗的重要组成部分，同时还是最终落实个性化医疗的桥梁，只有合理规范的在临床上进行部署，药物基因组的价值才能更好的实现。然而药物基因组的临床部署并不是一蹴而就的，需要政策、技术、医院、患者等多方的支持和配合，利用正确的方法论作为指导，遵照一定的规则规范进行。本文对药物基因组临床部署的策略及相应的实施流程进行阐述。
+
+# 1.2 执行策略
+
+在药物基因组的临床部署过程中存在两种策略，即被动执行策略（Reactive Strategy）和预先执行策略（Preemptive Strategy)。目前普遍较为推崇“预先执行策略”。
+
+# 1.2.1被动执行策略
+
+被动执行策略在临床部署的早期阶段应用广泛。医生开立医嘱时一般参考经验性的剂量，并通过记忆性的经验（某些基因变异会导致药物疗效受到影响）对可能使用高危药物的患者进行特定基因检测，检测的结果可用于与其他因素联合制定药物的剂量。如华法林的剂量制定策略中，就是联合使用遗传和非遗传性因素来制定个体化用药剂量。在执行过程中，这种“逐个进行”的被动执行策略暴露出很多弊端，如费用高昂、报告回复时间较长，同时需要医生对于目标药物与基因之间的相互作用有足够的知识储备等等，以至于可能延误医嘱开立。因此，尽管此类单个基因的检测已在检验服务中存在已久，但临床应用一直推进缓慢。经常有高危药物在进行药物基因组学评估之前被开立给那些可能出现治疗失败或不良反应严重的患者身上。
+
+# 1.2.2预先执行策略
+
+在临床部署过程中，相比被动执行策略，预先执行策略更受推崇，并逐渐成为临床实践规范[1-3]。预先执行策略在临床部署上具备很多有优点。首先，预先执行可以避免大量的药物副反应的发生[4.5]。在一项针对 52942 例患者的回顾性研究中[发现，使用预先执行策略可以避免至少398例严重不良反应事件的发生。在开立医嘱之前就将目标药物相关高危基因变异的检测结果纳入日常的临床药物决策制定过程中，可以显著改善患者的用药安全。其次，预先执行在成本效益分析中体现出显著的优势[7]。范德比尔特大学医学中心的 PREDICT（Pharmacogenomic Resource for Enhanced Decisions in Care and Treatment）项目的研究结果显示：人群中超过 $9 9 \%$ 的个体都携带至少一个可以进行干预的药物基因组变异位点，预先执行可以通过一次检测将个体基因组变异信息整合到临床诊疗过程中，实现终生受用。相比于被动执行策略，预先执行策略显著减少检测次数8。
+
+由此可见，这种在尚没有任何高危用药指征出现时，即进行多个与药物代谢相关的重要基因的检测，并将检测结果整合在电子病历中，与其他临床信息一起构成处方开立时的决策参考因素，更符合临床部署的现实场景。以下就药物基因组学临床部署实施流程进行详细阐述。
+
+# 2药物基因组学临床部署实施流程
+
+# 2.1药物基因组学临床评估委员会
+
+实现药物基因组的临床部署首先需要建立规范的临床评估委员会。临床评估委员会对适合本机构临床服务特点的“基因-药物对”进行分析，以决定是否将其迁移至电子病历系统。药物基因组学临床评估委员会的主要职责包括：
+
+1）提出临床基因-药物对实施的需求。此过程需要收集药物和基因的相关研究、基因变异在种群中的频率、药物在种群中造成影响的频率、FDA（US Food and Drug Administration）药物记录、CPIC 指南、基因-药物对相互作用的证据及当前医生按照药学/医学标准进行实际操作的总览等信息;
+
+2）建立基因-药物对决策表。此过程需要参考的信息包括基因不同变异的分类、CPIC推荐的单核苷酸多态性（Single Nucleotide Polymorphism，SNP）、预测的表型和代谢状态、结果的临床重要性、患者基因型等;
+
+3）建立药物基因组临床部署实施推荐。需要参考的因素包括其他诊疗方案的证据和/或剂量推荐的总览、CPIC 指南、产品标记、其他诊疗方案的禁忌和注意事项、诊疗方案推荐的优先级及基因诱导物和抑制剂;
+
+4）建立临床决策支持系统的内容或进行其他干预。此过程需考虑的因素包括建立临床决策支持系统的步骤、临床决策支持系统的类型、临床决策支持系统的语种、病理学报告的语言表述方式及临床决策支持系统的其他支持系统。
+
+# 2.2药物基因组相关的分子检测技术的临床标准化和规范化
+
+药物基因组学的临床部署还需要以每位患者的遗传信息为基础来制定个体化治疗方案，常用的检测技术主要为针对遗传物质的分子检测。在分子检测的过程中，必须遵守临床检测的规范和标准。
+
+为保证检测结果和报告准确及时必须采取一系列的质量控制措施，按照分析前、分析中和分析后3个环节采取不同的质控措施。分析前阶段主要包括患者签署知情同意书、样本采集、样本运输和接收等方面。分析中质量控制包括室内质量控制和室间质量评价两大方面。室内质量控制包括实验室的设计和环境、仪器设备的适用、维护和保养、人员培训、标准操作流程（Standard Operating Procedure，SOP）的制订与执行、检测方法和试剂的确认与性能验证、质控方法的应用等。在临床检测中，为保证检测结果的准确，应当遵守 SOP 和实验室管理制度。分析结果的报告和解释，是医学检测是否能有效应用于临床用药指导的关键，检测报告发放不当，可能延误患者的治疗。分析后的质控主要包括检测结果的生成、审核和发放，检测结果的解释及与临床的沟通，检测后样本的储存与处理等。
+
+# 2.3药物基因组和电子病历记录数据的整合
+
+药物基因组与电子病历记录（Electronic Medical Record,EMR）数据的整合在临床部署过程中尤为重要，是其向临床实践转化的重要纽带。目前研究成果的转化较为缓慢，其中一个重要原因是缺乏相应的途径帮助医生了解如何在确定药物治疗方案时根据基因检测结果进行临床决策[1,10]。将药物基因组的知识库与智能电子病历整合后，可以帮助医生根据患者的基因型，选择最佳的用药方案，同时最大限度的避免药物不良反应的发生，从而实现个体化医疗[11]
+
+将药物基因组信息系统嵌入医院电子病历等信息系统，实现实时处方审核、不合理处方预警、药物信息咨询及历史回顾分析等，为事前干预、实时监测、事后分析提供强有力工具，为安全用药铸起防火墙。医生开具处方时，系统会出现要点提示，并对每一张处方进行药物相互作用、注射液配伍、药物过敏史、药品超剂量、给药途径以及特殊人群用药审查等。按照合理性评价进行分级，从而获得高质量的临床诊疗效果。在实际执行中，要对现有的电子病历系统进行改造，引进相关的术语标准、推理规则、知识库等，可参考电子医疗档案与基因组网络（Electronic Medical Records and Genomics，eMERGE）和药物基因组学科研网络（The Pharmacogenomics Research Network,PGRN）联合开展的 eMERGE PGx项目：即将已知的药物基因组学研究结果整合入电子健康档案中，为临床用药提供决策支持；多中心合作利用基因测序方法探索遗传多态性与药物之间的关联；创建大型基因数据库，并将其与从电子健康档案中获得的表型数据库相连接，为开展药物基因组学研究奠定基础[12]。
+
+# 2.4联合分析结果的信息翻译：构建基因-药物对翻译表及知识库的应用
+
+基因-药物对（gene-drug pair，GDP）是药物基因组学临床部署的先决条件，确定与疾病相关的最有临床意义的"基因-药物对"是当前的挑战之一。知识库可辅助确定"基因-药物对”，是药物基因组临床部署的核心部分。PharmGKB（ThePharmacogenetics&Pharmacogenomics Knowledgebase)数据库是目前全球最重要的药物基因组学知识库，依据其制定的CPIC 指南是PGx 临床部署遵循的主要规范。2015年FDA列出140 种在药品说明书中提及药物基因组学生物标志物的药物。因此，在对基因-药物对进行翻译时，应充分参考CPIC 和FDA 的药品说明书，根据其具体证据等级进行分类。在应用基因-药物对指导药物临床使用前，必须确定纳入的基因-药物对符合临床科室的实际需求，采用的剂量调整治疗策略能否真正改善该患者的治疗结局。传统上，药物基因组学研究关注的是直接与药物分布或作用相关的基因，但疾病遗传易感基因（如果被确证）也可以指导合适的治疗选择[40]。
+
+# 2.5测试上线与医生培训
+
+测试上线与医生培训是药物基因组学临床部署必不可少的一环。随着科学技术的飞速发展，越来越多的医护人员开始认同基于药物基因组学指导的个体化用药[13]，但在结合药物基因组学的知识来解答患者的咨询并进行用药指导这方面，医护人员尚未有完全的自信能够胜任。这在很大程度上是因为医护人员之前的专业课程体系中并未涵盖药物基因组学相关知识[14]。因此，需要建立完善的培训体制和机制，对现有医护人员进行系统的药物基因组学培训，并在系统测试上线后，组织医护人员学习并使用药物基因组学辅助临床决策支持系统。还可专门培养临床药师，由临床药师负责药学知识的临床应用，通过了解和熟悉临床上急需解决的用药相关问题，更有针对性地开展药物基因组学方面的研究，进而更容易将研究成果转化为解决临床问题的实践应用[15]。此外，还可将药物基因组学纳入医学生课程中，从学生时代开始，打牢遗传学领域相关知识基础。
+
+# 2.6成本效益分析
+
+药物基因组学临床部署还需要进行成本效益分析。药物基因组学指导的临床个体化用药虽然可以提高药效、降低不良反应以及节约治疗成本，然而碍于有限的医疗资源，在其进行广泛地临床部署之前[16]，进行成本-效益分析是至关重要的。
+
+现行的药物经济学评价方法主要有4种：成本-效益分析（cost-benefit analysis，CBA）、成本效果分析（cost-effectiveness analysis，CEA）、最小成本分析（cost-minimization analysis,CMA）和成本-效用分析（cost-utilityanalysis，CUA）。它们的主要区别在于对治疗方案健康产出的不同测量上，CBA[7是将不同治疗方案的健康结果用货币形式来表示，适用于不同目标、不同健康结果的治疗方案的比较；CEA一般以特定的临床治疗目的（生理参数、功能状态、增寿年等）为衡量指标，计算不同方案或疗法的每单位治疗效果的成本，相对容易获得；CMA[18-20]是假定或已验证相比较的治疗方案所导致的健康结果是等同的，分析重点仅在于不同方案成本的比较上；CUA[21-23]采用质量调整生命年（QALYs）为指标，对于衡量医学干预效果非常有意义。目前，对于药物基因组学的临床评价主要采用CEA[24-26]，因为其所使用的临床指标相对容易获得。在不考虑空间资源、人力成本及设备折旧等情况，可以绘制出成本收益曲线如图1所示。
+
+![](images/44dbb357427242b8c19527cc0566dbfd6d6c91f966b5c66e825af9ef1fbfdf9d.jpg)  
+图1药物基因组学成本-效益分析
+
+# 2.7临床专家评估
+
+药物基因组学的潜在益处取决于药物基因组学知识库本身的质量。在PGx系统开发过程中采用适当的方法和严密的策略，对于保证最终形成合适的用药指导建议十分重要。因此，开发药物基因组学的临床专家评估工具的目的是帮助评估药物-基因对以及药物基因组学系统的质量差别[27,28]。
+
+临床专家评估系统的目的是为下列问题提供框架：评估药物基因组学用药指导的质量；为新药物的基因组学指导的开发提供方法学策略；明确什么信息应当在用药指导中加以报告及如何报告。评估员可以选择临床医生、卫生保健提供者、药物基因组学系统开发人员、政策制订者和教育者等[27]。推荐 2-4名评估员来评价每个药物基因组学用药指导，以增加评价的可靠性。可以针对药物基因组学的应用范围和目的、人员配备、严谨性、应用性等方面进行评估，设置具体条目进行打分，对分数进行统计而得出结论。
+
+# 2.8完善医学伦理学规范与标准
+
+除了以上的实施流程以外，完善医学伦理规范和标准也是必不可少的。药物基因组学基于患者的基因信息，给与正确的药物和剂量，对准确用药具有重要的指导作用，但是还需要进一步了解基因的其它功能，特别是潜在的保护功能，避免过分夸大基因在病因中的作用，导致过度治疗。其次，在药物基因组的临床部署和应用中，需要首先获得病人的样本和遗传信息，除了必须取得病人的知情同意外，样本和遗传信息的归属、保存和利用也都需要专门的人员来进行维护。最后，生物样本和其携带的生物信息资源，不仅涉及个人隐私保护的问题，如果利用不当还会造成我国人类遗传资源的流失，如何合理的利用这些生物资源也是非常突出的伦理要求。
+
+这些工作最好由独立的医学伦理委员会执行，以保证样本和信息的合理有效利用，同时加强医院临床研究者的伦理意识，进一步提高医院临床研究伦理管理水平，从而使伦理委员会切实起到保护受试者权益的功能，同时提供科学、真实、准确、完整、可靠的证据[29]。
+
+医学伦理委员会在工作中的需要注意工作的规范化和标准化，进而保护临床和科研工作的合理合规。委员会在制定规则的过程中需要特别注意：一、形成书面规范文件,以提高医学伦理委员会运行的规范性；二、制定严格合理程序，以体现医学伦理委员会运作的程序性;三、审查议题提前通知，以免医学伦理委员会的审查流于形式；四、通报最后表决意见，以使医学伦理委员会委员能明确职责；五、追踪审查意见执行，以使医学伦理委员会审查起实际作用；六、合理支付相关报酬，以可追究医学伦理委员会委员的失职[30]。
+
+# 3结语：挑战与展望
+
+药物基因组学的提出已有数十年时间，是目前将基因组信息整合到临床实践的首选领域，因此，国内外临床医生和相关企业对其发展十分关注。近年来，PGx得到了较快发展，取得了令人瞩目的成就，如各类疾病中大量与药物相关的基因位点变异的意义逐步得到解析。目前 PGx 应用较多的是糖尿病、高血压、心血管疾病、精神类疾病等慢性疾病。尽管PGx 的基础研究取得了较大突破，但是将相关数据应用于临床实践的过程却相对缓慢。不管是在欧美发达国家，还是在我国，PGx的临床应用遇到了不少的困难和挑战。比如，缺乏药物基因组的基础大数据；药物代谢相关信息由于是动态数据，需要长期跟踪；患者的检测数据能否有效保留在医院的电子病历系统中；诊疗中患者对相关检测的不解和抵触；对于相关检测产生的医疗费用存在顾虑等。
+
+随着国家对精准医学的科研及产业方面支持力度的加大，PGx临床部署的生态系统和基础设施将逐步得到完善。目前亟需在一个或数个机构内完成PGx 临床部署的试点，以探索在伦理法规、测序技术、机器可读的PGx信息翻译、CDSS 构建、电子病历改造等过程中的技术难点及方法论，并将成本效益分析、医生及患者教育、基础技术研发等纳入研究体系，为多中心的预先执行的多基因 PGx 的大规模临床部署建立可推广的模型，引导精准医学临床实践的发展方向[31]。
+
+# 参考文献
+
+[1] Dunnenberger H M，Crews K R，Hoffman J M，et al. Preemptive Clinical Pharmacogenetics Implementation: Current Programs in Five United States Medical Centers. [J]. Annual Review of Pharmacology & Toxicology, 2015, 55(1):89.   
+[2] Carpenter J S, Rosenman M B,Knisely M R, et al. Pharmacogenomically actionable medications in a safety net health care system [J]. Sage Open Medicine, 2016, 4.   
+[3] Jaja C, Bowman L，Wells L, et al. Preemptive Genotyping of CYP2C8 and CYP2C9 Allelic Variants Involved in NSAIDs Metabolism for Sickle Cell Disease Pain Management [J]. Clinical & Translational Science, 2015, 8(4):272-280.   
+[4] Saldivar J S,Taylor D, Sugarman E A,et al. Initial assessment of the benefits of implementing pharmacogenetics into the medical management of patients in a long-term care facility [J]. Pharmacogenomics & Personalized Medicine, 2O16, 9(Issue 1):1.   
+[5] Finkelstein J, Friedman C, Hripcsak G, et al. Potential utility of precision medicine for older adults with polypharmacy: a case series study [J]. Pharmacogenomics& Personalized Medicine, 2016, 9(Issue 1):31-45.   
+[6] Schildcrout J S,Denny JC,Bowton E,et al. Optimizing Drug Outcomes Through Pharmacogenetics: A Case for Preemptive Genotyping [J]. Clinical Pharmacology & Therapeutics,2012, 92(2): 235-242.   
+[7] Plumpton C O, Roberts D, Pirmohamed M, et al. A Systematic Review of Economic Evaluations of Pharmacogenetic Testing for Prevention of Adverse Drug Reactions [J]. Pharmacoeconomics, 2016, 34(8):771-793.   
+[8] Van Driest S L, Shi Y, Bowton E A, et al. Clinically actionable genotypes among 10.000 patients with preemptive pharmacogenomic testing [J]. Clinical Pharmacology & Therapeutics,2014, 95(4):423-31.
+
+[9] 阳国平 郭成贤．药物基因组学与个体化治疗用药决策 [B].2016 [10] Shuldiner A R,Relling M V, Peterson JF, et al. The Pharmacogenomics Research Network Translational Pharmacogenetics Program: overcoming challenges of real-world implementation [J]. Clinical Pharmacology & Therapeutics, 2013, 94(2):207-10.
+
+[11］孙可欣，詹思延，胡永华．医学大数据在药物基因组学领域中的应用与发展 [J]. 药物流行病学杂志,2017(1):68-73.   
+[12] Rasmussentorvik L J， Stallings S C, Gordon A S,et al. Design and Anticipated Outcomes of the eMERGE-PGx Project: A Multicenter Pilot for Preemptive Pharmacogenomics in Electronic Health Record Systems [J]. Clinical Pharmacology & Therapeutics, 2014, 96(4):482-489.   
+[13]Demmer L A, Waggoner D J. Professional Medical Education and Genomics [J]. Annual Review of Genomics & Human Genetics, 2014,15(15):507-516.   
+[14] Nickola T J，Green J S,Harralson A F, et al. The current and future state of pharmacogenomics medical education in the USA. [J]. Pharmacogenomics， 2012, 13(12):1419-25.   
+[15］许景峰．药物基因组学应用于临床药学是个体化用药的必然趋势 [J]．药学服务与 研究,2009,9(3):161-165.   
+[16]Verbelen M, Weale M E, Lewis C M. Cost-effectiveness of pharmacogenetic-guided treatment: are we there yet? [J]. Pharmacogenomics Journal, 2016,17(5).   
+[17］谭重庆，彭六保，曾小慧,等．药物基因组学领域药物经济学评价的问题探讨 [J]. 中国医院药学杂志,2016,36(16):1339-1342.   
+[18]Tavadia S M B, Mydlarski PR, Reis M D, et al. Screening for azathioprine toxicity: A pharmacoeconomic analysis based on a target case [J]. Journal of the American Academy of Dermatology, 2000, 42(4):628-632.   
+[19]Desta Z, Zhao X, Shin JG, et al. Clinical significance of the cytochrome P450 2C19 genetic polymorphism [J]. Clinical Pharmacokinetics, 2002, 41(12):913.   
+[20] Chou W H, Yan F X,De L J,et al. Extension of a pilot study: impact from the cytochrome P450 2D6 polymorphism on outcome and costs associated with severe mental illness[J]. Journal of Clinical Psychopharmacology, 2000,20(2):246-251.   
+[21]Priest VL, Begg E J, Gardiner S J, et al. Pharmacoeconomic Analyses of Azathioprine,
+
+Methotrexate and Prospective Pharmacogenetic Testing for the Management of Inflammatory Bowel Disease [J]. Pharmacoeconomics, 2O06, 24(8):767-81.
+
+[22] Perlis R H,Ganz D A，Avorn J,et al. Pharmacogenetic testing in the clinical management of schizophrenia: a decision-analytic model. [J]. Journal of Clinical Psychopharmacology, 2005,25(5):427-434.   
+[23]Meckley L M, Veenstra D L. Screening for the alpha-adducin Gly46OTrp variant in hypertensive patients: a cost-effectiveness analysis.[J]. Pharmacogenet Genomics, 2006, 16(2):139-147.   
+[24]Winter J, Walker A, Shapiro D, et al. Cost-effectiveness of thiopurine methyltransferase genotype screening in patients about to commence azathioprine therapy for treatment of inflammatory bowel disease [J]. Alimentary Pharmacology & Therapeutics， 2004, 20(6):593-599.   
+[25]Me V D A M, Gurwitz D, Detmar S B, et al. Cost-effectiveness of pharmacogenomics in clinical practice: a case study of thiopurine methyltransferase genotyping in acute lymphoblastic leukemia in Europe. [J]. Pharmacogenomics, 2006,7(5):783-792.   
+[26]Ah M V D Z, Klungel O H, Stricker B H, et al. Pharmacoeconomic evaluation of testing for angiotensin-converting enzyme genotype before starting beta-hydroxy-beta-methylglutaryl coenzyme A reductase inhibitor therapy in men [J]. Pharmacogenetics, 2004,14(1):53.   
+[27]Weiskopf N G, Weng C. Methods and dimensions of electronic health record data quality assessment: enabling reuse for clinical research [J]. Journal of the American Medical Informatics Association Jamia, 2013, 20(1):144-51.   
+[28]Zhang J, Johnson T R, Patel V L,et al. Using usability heuristics to evaluate patient safety of medical devices. [J]. Journal of Biomedical Informatics, 2OO3, 36(1/2):23-30.   
+[29]柴怡，赵俊，孙宁生,等．医学伦理审查规范流程的探讨[C]// 中华医学会第 12 次 全国医学科学研究管理学学术年会.2010.   
+[30］王维嘉．医学伦理委员会规范运行中应注意的几个问题[C]// 中华医学会医学伦 理学分会学术年会.2007.   
+[31］弓孟春，王慧君，卢宇蓝,等．药物基因组学临床部署的顶层设计 [J]．中国循证儿 科杂志,2016,11(3):161-167.

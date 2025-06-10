@@ -1,0 +1,563 @@
+[
+    {
+        "type": "text",
+        "text": "相对的时空标度和绝对的时空背景",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈驰一1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（杭州师范大学物理学院 杭州 310036）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本文首先从自然哲学层次出发讨论了最基础的时空的概念架构。提出时空概念应该细分为两个层次：时空的标度和时空的背景。其中时空的标度是人为地根据具体物质实体中发生或存在的固有物理现象而定义的单位时间和单位长度，因为标度的定义依赖具体物质中的物理现象，所以自然会受到各种相互作用的影响，因此标度可以自然地承担狭义相对论和广义相对论所预言的变化。时空的背景则作为时空标度的长短或大小变化的必备基础和参考背景，应该是绝对的。特别是空间的背景可以理解为移去所有物质以后的虚空或真空，因为没有任何形式的物质，所以无法参与任何具体的相互作用，因此，宇宙存在绝对的背景是非常自然的。由此，空间（或时间）标度的长短尺度在本质上应该理解为定义标度的物理现象在空间（或时间）的绝对背景上截取的线段的长度。根据这一时空概念的基础架构，在经典力学框架下，可以唯一自然地推导正确的新质点动力学方程；在狭义相对论中，绝对的背景则和“事件”在时空中有客观的唯一确定的位置是相符的，因此狭义相对论实际上是默认或允许有绝对的背景的；在广义相对论中，由于惯性力的本质解释为参考物的真实受力，所以建议放弃爱因斯坦等效原理和广义相对性原理，而且提议修改观测理论，放弃原标准钟和四标架理论，在保留爱因斯坦引力场方程作为引力几何化正确的数学形式前提下，建议度规中的时空坐标的标度（即单位时空的长度）理解为根据观测者自带的钟尺在全时空复制的。由此，太阳系的引力红移实验成功得到重新解释，而宇宙学度规应该在时间项增加一个因子b(t)，反映宇宙的平均引力场势能虽然在空间上均匀，但是在时间纵向上随膨胀而逐渐增高，继而在地球观测者分析超新星的光谱信号时存在引力红移的物理，最终根据定性分析表明即便当前的观测无误，可能依然可以避免引入暗能量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：时空物理图像绝对背景宇宙学度规分类号：0301",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Relativistic Spacetime Based On Absolute Background ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen ChiYi1 1(Department of Physics， Hangzhou Normal University， Hangzhou 310036, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This paper first discusses the basic conceptual framework of time and space from the natural philosophy level. The concept of space-time should be subdivided into two levels: the scale of space-time and the background of space-time. The scale of space-time is the basic units of space and time that are artificially defined according to the inherent physical phenomena that occurred in material entities. The definition of scale depends on the physical phenomenon of concrete material，so it will be naturally influenced by all kinds of interaction，and the scale of space-time is able to naturally bear the changes predicted by Einstein' s special theory of relativity and the general theory of relativity. The background of space-time should be absolute as the necessary basis and reference background for changes in the length of the space-time scale. In particular， the background of space can be understood as the void or vacuum after removing all matter from the universe. Since there is no matter, the background itself cannot participate in any specific interaction. Therefore, it is quite natural that the universe has an absolute background. In this sense,the length of the spatial (or temporal） scale should be understood as the length of the line segment cut by the physical phenomena that define the scale from the absolute background of space (or time). According to the basic conceptual framework of space-time, the new particle dynamics equation can be derived only naturally under the framework of classical mechanics. In the special theory of relativity， the absolute background is consistent with the existence of the objective position of \"events\" in space-time. Therefore， the special theory of relativity actually acquiesces to or permits the existence of absolute background. In the general theory of relativity， because the nature of inertial forces is interpreted as the real force acting on the reference object, Einstein' s equivalence principle and the principle of general relativity are suggested to be abandoned. We propose a modified observation theory to geometrize the gravitation. Keeping Einstein's gravitational field equation as the correct mathematical form for the gravitation to be geometrized, it is suggested that the scale of space-time coordinates in the metric (i.e. the length of basic units of space and time） should be understood as being replicated in all space-time according to the observer's scale. On this basis, the gravitational redshift experiment of the solar system can also be successfully reinterpreted, and the cosmological metric should add a new factor b(t） to reflect the time dilation effect in the increasing of the gravitational potential energy of the universe with expansion， in analogy with b(r) to reflect the time dilation effect in the Schwarzschild metric. In light of this indispensable physics, there emerges the additional effect of gravitational redshift when the earth observer analysis the spectral signal from the supernova. Finally， qualitative analysis suggests that even if the current observations are correct， dark energy could still be avoided. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Space-time Physical Picture Absolute Background Cosmological Metric ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当前关于时空物理图像的主流理论是爱因斯坦的狭义相对论和广义相对论。其中狭义相对论到目前为止几乎在所有的推论和预言的检验上都取得了成功[1-2]，尤其是建立在狭义相对论基础上的量子场论在极高精度上的成功，表明狭义相对论的核心逻辑不可动摇。爱因斯坦广义相对论则是关于引力的时空理论，当目前为止最为公认的检验仍然是太阳系引力在静态球对称史瓦西度规下的三大传统验证实验[3-4]。因此，根据静态球对称史瓦西度规成功解释实际观测结果是所有可能的时空物理图像应该满足的“试金石”。由此可见，关于时空的物理图像是几乎所有现代物理理论的基础，已经获得很大的成功，若在此基础上再作修改，牵一发而动全身。本文对时空物理图像的微调，也因此只能从最基本自然哲学开始给出概念架构，然后逐个根据相关的主要物理理论内含的核心逻辑充实对时空物理图像的理解。全文组织如下：第一部分为引言。第二部分，从最基本的自然哲学层次，完全从自然性和逻辑性出发，给出时空概念的基本架构。第三部分，通过正确的新的质点动力学方程的逻辑推演，证明时空具有绝对的背景是其中自然合理推导的必备基础。第四部分，回顾狭义相对论，说明洛伦兹坐标变换给出的是时空标度之间的相对变换，而事件在时空具有客观唯一确定的位置，实质上要求时空具有绝对的背景。第五部分，重新给出引力几何化的物理图像，并重新解释太阳系的引力红移实验。第六部分，根据微调的时空物理图像，对标准宇宙学度规提出了更普适的修正，以此挽救引力红移效应在宇宙学观测中的贡献，给出相应的宇宙学的动力学方程，并讨论了宇宙加速膨胀疑难问题的实质。第七部分给出总结。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2时空在自然哲学层次的概念架构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先，从逻辑的基本要求看，相对和绝对是对立统一体的两个面，相辅相成，既相对立又不可能完全脱离对方而独立存在。任何时间上的相对的变化，空间上的相对的不平坦，相对的不均匀等概念，都是必定是参考一个更基本的绝对的参考背景而言的。以直观的空间为例，如果作为整个宇宙万物背景的无限大三维空间背景被视作为最深层次的背景，当然在观测者看来（或者说定义)，它就被先天地认为是绝对的，均匀的和平坦的。因为一旦背景本身有相对变化或不平坦，不均匀的概念，它又必须要借助一个更基本层次的背景参考物才能得到上述论断。而我们已经从物理图像上，把无限大三维空间本身作为整个宇宙背景置为了最基本层次的背景。所以，我们这里可以讲作为整个宇宙背景的三维无限大空间本身是绝对的，均匀的和平坦的。目前对宇宙的创生讨论比较多 $^ { \\lfloor 9 , 1 0 \\rfloor }$ ，但是必须澄清一点，所谓创生的宇宙仅仅是指我们的可观测宇宙，或者说是周围的具体物质组成的宇宙。而不应该包括作为整个宇宙万物背景的时空背景。因为如果宇宙产生真的是从彻底的无到有，那么产生的前提条件就无从说起，或者说根本没有条件。而且，既然当前我们生活的宇宙可以产生，那么新的宇宙可以随时随地在产生。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其次，从自然哲学的最基本层次看，时空作为现代物理理论最基本的核心概念，触及到所有基本相互作用的本质。如果时空的标度出现相对变化的概念，则根据对立统一的基本原则，对时空概念中的相对和绝对必须加以区分。本文把参考坐标系中定义的单位时间和单位空间命名为时空的标度。比如国际度量衡大会对秒的精确定义，其精神是根据静止铯133原子在绝对零温，零磁场的理想状态下，由两个超精细能阶之间的跃迁所发出的辐射的周期稳定性来定义。所以，时空的标度在物理本质上是根据具体物体上的固有物理现象定义的时空基本单位的长度或跨度，因此时空的标度并不代表时空的所有一切。因此，时空概念应该细分为两个层次：时空的标度和时空的背景。其中时空的标度是人为地根据具体物质实体中发生或存在的固有物理现象而定义的单位时间和单位长度，因为标度的定义依赖具体物质中的物理现象，所以自然会受到各种相互作用的影响，因此标度可以自然地承担狭义相对论和广义相对论所预言的变化。时空的背景则作为时空标度的长短或大小变化的必备基础和参考背景，应该是绝对的。以直观的空间为例，空间的背景可以理解为移去所有物质以后的虚空或真空，因为没有任何物质，所以无法参与任何具体的相互作用，因此，宇宙空间存在绝对的背景也是非常自然的。由此，空间（或时间）标度的长短尺度在本质上可以自然地理解为定义标度的物理现象在空间（或时间）的绝对背景上截取的线段的长度。具体来说，空间的标度的变化，即长度标准单位的变化，相当于定义单位“米”所对应的物理现象在空间背景中截出来的长度发生了变化。类似地，时间的标度发生变化，即时间标准单位的变化，则是定义“秒”所对应的物理现象在时间背景中截出来的跨度发生了变化。至于这种标度的变化是物理的，本征的变化，还是观测的效果，根据各个物理理论的融合了实验检验的物理图像确定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最后，时空的标度和时空的背景是时空辩证统一的两个方面，而不是两个时空。因为背景是客观存在的某种主体事物的基本依托，其并不包含主体事物，但是主体事物的某种变化必须发生在这个背景之中才是真实的。在此基础上，空间背景是宇宙中所有物质实体的位置发生变化的（参考）背景；而时间背景则是宇宙中所有物质实体的状态发生变化的（参考）背景。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "反映到具体数学上，时空标度的大小体现为固有物理事件间隔在时空背景中截出来的片段的长短。片段有长短之分，时空标度也就有大小之分。因此，时间标度的大小可以由用来定义时空标度的固有物理事件间隔在作为背景的时间流形中截取的长度 $\\overline { { \\Delta \\tau ( = 1 ) } }$ 来表示。原则上，时钟和尺子的读数则是根据经历的单位固有物理事件间隔的次数来计量的，因此，时钟和尺子的读数并不直接包含时空标度的信息。因为任何物理事件在作为宇宙背景的时空背景中都有客观的位置，只有当比较的双方在时空背景中取相同的两个客观位置时，才可以对不同的时钟和尺子的读数进行比较，从而确定时空标度的变化。固有时钟的读数就是通常人们所记录的数值，可以由 $\\Delta \\tau$ 表示。因此，物理概念上完全可以区分描述事件间隔的固有时钟读数 $\\Delta \\tau$ 和其在作为背景的时间流形中截取的长度 $\\Delta \\tau$ 。通常在时空不变间隔 $\\mathtt { d } s$ 中出现的 $\\mathrm { d } t$ ，dr均表示时钟和尺子的读数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3绝对背景是推导新质点动力学方程的最强暗示和最低要求",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在经典力学框架下，传统的动力学方程是牛顿第二定律，但是理论上牛顿第二定律只在惯性系成立，若在非惯性系中应用则需要额外加入惯性力，而惯性力的大小依赖于非惯性系和惯性系的相对加速度。因此经典动力学是彻底建立在惯性系的概念基础上[8,1]。但是一个众所周知的事实是在实践应用中找不到一个严格的惯性系，这显然是不能令人满意的[4.2]。另外在实践中，大家根深蒂固接受的，应用得非常成功的质点动力学规律实际上是经验规律，并不完全等同于理论的牛顿第二定律。因为牛顿第二定律适用的前提严格上仅为惯性系，但是实践中用到的实际参考系都不是严格的惯性系！而且从而没有真正实现过对质点所有受力的全部统计。因此，明白牛顿第二定律和真正广受检验的经验规律之间的微妙区别是理解下面推导的新形式的质点动力学方程物理意义的关键。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实际上，当前理论形式的牛顿第二定律实际上存在形式上的因果不对称。为了看清楚这一点，不妨假定牛顿第二定律在某类实际的参考系 $o$ 成立，根据现有形式，牛顿第二定律应该表示为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. F \\right| _ { p } = m _ { p } \\left. a \\right| _ { p - O }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中方程的左边为所研究物体 $p$ 的全部受力，只和所研究物体 $p$ 有关；理论公式中对受力的定义只能为统计全部的受力，否则在应用理论公式到具体的问题时，不知道到底哪些受力该统计在内，哪些受力不该统计在内。而方程的右边包含物体 $p$ 相对参考系的加速度 $\\left. \\pmb { a } \\right| _ { p - O }$ ，即物体 $p$ 相对于固定在参考系中的参考物的加速度，实际上既和所研究物体 $p$ 有关，又和参考物 $o$ 有关。如果把受力看作是因，加速效应看作是果，暂不考虑受力和加速度的具体细节，以任意的运动物体为形式变量，则在形式逻辑上有，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left. \\begin{array} { r l } { \\pmb { F } \\big | _ { p } } & { { } \\Leftrightarrow \\quad \\mathbb { E } \\big | \\big ( p \\big ) } \\\\ { \\pmb { a } \\big | _ { p - O } } & { { } \\Leftrightarrow \\quad \\mp \\big ( p , o \\big ) } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "请注意待考察物体 $p$ 和参考物 $o$ 的选择是完全独立的，因此，牛顿第二定律存在形式上的因果不对称和不一致。正是这一点导致牛顿第二定律理论上只能在惯性系成立，而实践中找不到一个严格的惯性系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "既然在应用动力学的过程中必须使用参考系，那么待考察物体的加速度的确定直接和所选取参考系的自身运动相关，作为因果对应法则，参考系的受力就没有道理可以缺位，实际上，一个相对于宇宙空间的背景不自转的参考系的物理可以归结在定义参考系原点的参考物上。因此，参考系的受力也就完全可以根据参考物的受力在动力学的因果关系中得到落实。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "能否在经典力学框架下得到一个令人满意的质点动力学方程呢？其关键线索正在于因果关系在动力学方程两边的对称和一致。首先，我们接受大量经典力学实验共同而直接指向的经验规律。在牛顿力学中，从经典力学实验中直接总结的，以及作为确定常见力计算公式依据的，从来不是牛顿第二定律，因为惯性系从未找到过，而且牛顿第二定律所要求的全部合力从来没有被真正做到全部统计过。真正依据的经验规律是，作为体现因果关系的差分方程，即物体在前一个力学状态的基础上所受到的新增加的",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "力和由此导致的新的相对加速度之间满足因果关系：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta { \\pmb { F } } = m \\Delta { \\pmb { a } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本质上，从受力的统计来源讲，直接的经验规律只能是一个差分关系，而非积分关系。对常见力公式和对物体质量的确定应是基于此式。在此基础上通过逻辑推演来寻找新的质点动力学方程。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "但是如要经验规律要上升为理论公式，理论公式中的受力项必须统计质点的全部受力。因为如果不是这样，公式每次换一个新的场合应用时，就不知道哪些力应该考虑进去，哪些力不应该考虑进去。所以，理论的质点动力学方程要处理质点的全部受力，但是仍然必须是一个因果理论（根据差分关系$\\Delta { \\pmb F } = m \\Delta { \\pmb a }$ ，微分的因果关系可表示为 $\\mathrm { d } F = m \\mathrm { d } { \\pmb { a } }$ ）。那么，根据质点动力学中的因果一致条件，顾名思义，对于一个质点所受到的来自整个宇宙的全部受力，其对应的果应该怎么来表示呢？质点的全部受力应该是客观的，不随参考系的选择的不同而变化。因为参考系的选择带有观测者的意识上的任意性，因此，与此相对应的果，也必须是客观的，不能和任何参考系有关。一个质点的完全客观的加速度只能表示为在宇宙空间的背景中的加速度，",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. F \\right| _ { p } = m _ { p } \\frac { \\mathrm { { \\bf d } } ^ { 2 } } { \\mathrm { { \\bf d } } t ^ { 2 } } \\Omega \\Bigr | _ { p }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这里的宇宙空间背景是指去掉所有可演化的万事万物之后，宇宙中留下的空白或真空。这里的客观性仅仅意味着它与人类意识做出的任何人为选择无关。而质点在宇宙空间背景中的位置天生是客观的，因为参照系没有被人为引入。这里特别用字母 $\\Omega _ { p }$ 表示质点 $p$ 在宇宙空间背景中的客观位置（注：时空基本单位的长短我们称之为时空标度，应该由观测者定义附加!)。这一点与狭义相对论中“事件”的概念完全相似。在任何时刻，任何质点的客观位置实际上构成了一个事件。同样，在狭义相对论中，任何事件本身都被假定在时空背景中具有客观位置，从而，同一事件的坐标值可以在不同的惯性参照系中关联起来。退一步说，在任何时刻，任何质点在宇宙空间背景中具有客观的位置，也是牛顿绝对时空观的一个必要而不是充分的组成部分。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进一步深入挖掘，一个质点或事件在宇宙空间的背景中具有客观位置的事实最强烈地暗示着宇宙空间的背景是绝对的。为了与相对论物理的实验相兼容，有必要将绝对概念存在的程度最小化。时空的概念可以进一步分为时空的背景和时空的标度。时空的标度实际上是时空基本单位的长度，是由观测者根据自然物质世界固有的物理现象来定义的，因此它应该可以受到各种相互作用的影响，可以是相对的。但在时空中，反映时空标度的长度的背景必须是绝对的。因为时空的背景本身不是一个特定的物质，没有任何相互作用可以作用于它。因此，这里的逻辑推导表明最低的要求，是只有宇宙空间的背景是绝对的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "尽管任何质点在空间背景中的位置可以真实感知，但是对质点在空间背景中的客观位置则不能直接度量。我们真正能够度量的是两个客观位置之间的差异，比如两个物体 $p$ 和 $o$ ，其客观上构成一个数学的矢量：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { r } \\big | _ { p - o } = \\Omega \\big | _ { p } - \\Omega \\big | _ { o } \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "宇宙中任何物体在最基本的动力学规律上都应该是等价的。包括任意被研究的物体 $p$ 和实际的参考物$o$ ，都满足同样的基本动力学。因此对参考物 $o$ ，其动力学也应该满足：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. F \\right| _ { o } = m _ { o } \\frac { \\mathrm { \\bf d } ^ { 2 } } { \\mathrm { \\bf d } t ^ { 2 } } \\Omega \\Bigr | _ { o } \\mathrm { \\bf ~ \\mathrm { \\mathrm { \\Large ~ . ~ } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "这里时空的标度可以看作是观测者一开始就随机定义的但严格均匀的时空标度，在选取参考物之后，即可以自然地由参考物上的固有物理现象定义时空的标度。当目前为止尚只引入一个参考物 $o$ （请注意，本文为区分，参考系一律用大写英文字母标记，参考物一律为小写字母标记，如参考系 $o$ 表示以参考物 $o$ 为参考原点的参考系），因此还没涉及到参考系之间时空标度的变换法则问题。选择参考系的本质就是为了对运动作相对度量，作为因果对应，受力也自然具有相对性。其中参考物 $o$ 通常可以自然地对应到参考系的参考原点，由此建立相对宇宙的绝对背景（即空间本身）无转动的参考系。最后化简得到（方程右边可看作受力的相对统计）：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\left. F \\right| _ { p } } { m _ { p } } - \\frac { \\left. F \\right| _ { o } } { m _ { o } } = \\frac { \\mathrm { d } ^ { 2 } } { \\mathrm { d } t ^ { 2 } } [ \\Omega \\Big | _ { p } - \\Omega \\Big | _ { o } ] = \\frac { \\mathrm { d } ^ { 2 } \\left. r \\right| _ { p - o } } { \\mathrm { d } t ^ { 2 } } = \\pmb { a } \\Big | _ { p - o } = \\pmb { a } \\Big | _ { p - o }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由此，我们即在经典力学的框架下得到了新形式的质点动力学方程。这一方程在经典力学框架下的正确性以及和力学经验规律的比对已经得到了充分反复的验证[13]。但更重要的是，上述新形式的质点动力学方程在形式上具备了因果一致性要求。从而使得经典动力学的物理图像更为自然和简洁[13]。从实用的角度讲，在（6）式的直接应用中不再需要依赖惯性系的概念。而相对于整个宇宙背景无自转的任何实际参考系而言，惯性力的本质就是参考物体所受到的真实力，其需要在受力的相对统计中被扣除。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "新动力学方程（7）式的正确性在经典力学的框架下，不管在理论上，还是实践上都已经得到严格的逻辑验证[13]。而对这个新动力学方程在物理上的追根溯源，我们可以发现新质点动力学方程的因果对称形式在经典力学框架下的确凿性强烈暗示时空存在绝对的背景。值得注意的是，第（7）式可以做一个简单的变形得到",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. F \\right| _ { p } - \\frac { m _ { p } } { m _ { o } } \\left. F \\right| _ { o } = m _ { p } \\left. \\pmb { a } \\right| _ { p - O }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与理论的牛顿第二定律相比，整整净多出了一项： $- { \\frac { m _ { p } } { m _ { o } } } { \\pmb F } \\big | _ { o }$ ，其他形式和物理含义完全相同。尽管这",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "个净多出的项解释为惯性力，但是相比牛顿第二定律，这不是一个小的，可以忽略的修正，也不等同于质点从低速到高速时所引入的物理量的修正，而是形式上引入一个整项的修正。通过因果一致条件，它有力地反映了作为整个宇宙空间的绝对背景的客观存在。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4绝对背景是事件在时空中有客观唯一位置的隐含条件",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先，鉴于狭义相对论在各个方面的成功检验，接受并保留狭义相对论的核心逻辑架构是恰当的。但是仔细推敲狭义相对论的公理化体系，可以发现狭义相对论实际否定的只是时间测量的绝对性和空间测量的绝对性。正如后面提到的，这实际上仅仅是对时空标度的绝对性的否定。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其次，在狭义相对论的逻辑推演中，所有的事件（event）不管在什么惯性系之间变换，都被假定在空间有一个客观的，唯一确定的位置。否则就得不到不同惯性系之间的洛仑兹坐标变换公式。这里的客观位置实质上就可以看作是事件的发生点在作为宇宙背景的空间背景中的位置反映。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "因此，在狭义相对论中推导事件在不同的惯性系中的坐标值之间的联系时，实际上依赖事件在时空中有客观位置的假定的。否则不同的惯性系去看同一个事件，怎么去说明是同一个事件呢？所以，狭义相对论在内在逻辑上是容许并默认时空存在绝对的背景的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5引力几何化的时空物理图像和太阳系引力红移的重新解释 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据新的质点动力学方程（8）式，惯性力的本质揭示为，",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. \\pmb { f } \\right| _ { \\mathcal { H H A } } = - \\frac { m _ { p } } { m _ { o } } \\pmb { F } \\big | _ { o }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "因为惯性力的疑难问题根源于牛顿第二定律的形式体系，所以，要从根本上解释惯性力的本质问题，最干净的做法是，在完全相同的框架下找到完全等价的物理对应或替换；而要从根本上取消惯性力的概念，则最彻底的做法是，在原来的框架下彻底消除惯性力问题。上面对惯性力的逻辑解释正是在原经典力学的框架下实现的，因此，对惯性力本质的解释是完全合理有效的。而惯性力的解释（9）式表明惯性力的本质是参考物体 $o$ 的经过质量加权平均后的真实受力，可以是引力，也可以是非引力相互作用的其他常见力，更重要的是，这个力不是施加在所研究物体上，而是施加在参考物体上。这一惯性力的本质揭示从物理上彻底否决了爱因斯坦的（中强）等效原理。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "爱因斯坦等效原理是爱因斯坦提出广义相对性原理的最大依据。爱因斯坦的（中强）等效原理的被否，相当于广义相对性原理在物理上没有可行的路线图。另一方面，从数学上分析，众所周知，对于转动的物理刚体参考系，确定刚体参考系的全部运动学自由度，至少需要确定其上4个不同面的质点。因此，参考前面质点动力学方程形式改造的成功经验，构建动力学方程时，必须满足因果对应和一致法则。如果选取的是物理的转动参考系，动力学方程理论上必须同时纳入至少4个参考质点的受力和运动描述而在方程的两边保持因果的对称和一致。这一点显然从未被自然地实现过。因此，广义相对性原理在数学上更是存在难以跨越的鸿沟。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其实在实验检验上，广为接受的太阳系引力验证实验主要是对静态史瓦西度规的检验，并未真正涉及任意参考系的变换，也不涉及引力场中自由下落的物理情形。因此，本文建议修改引力几何化理论的理论框架，作如下微调：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1，放弃爱因斯坦（中强）等效原理，取消局域惯性系的概念和由线长定义标准钟，在标准的广义相对论中，引力场中任何一点的局域惯性系就是该处瞬时相对静止的自由下落参考系。因为加速度没有时钟延缓效应，所以根据惯性力的本质解释，自然下落的参考系，哪怕是局域的，也不能在时空度规上和无引力场中的惯性系等价。正确的引力几何化应该是根据观测者自带定义的时空的标度，首先假想性地复制到全时空，然后以此为背景，本地时空标度和观测者自带的时空标度的差异构成了时空度规的弯曲，也就是引力在时空标度基础上的几何化。因此，时空度规中的坐标是有物理意义的，是直接和观测者的物理相关联的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2，时空概念细分为两个层次，时空的标度和时空的背景。服从引力几何化理论的是时空的标度。而时空的背景是绝对的。有了时空的背景做参考，时钟的走时快慢也就有了意义。在引力场中的本地钟和本地尺相对于在时空的背景中全域假想复制的观测者自带的观测钟和观测尺的差异，反映了时空弯曲的程度。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3，放弃广义相对性原理，取消观测者的四标架理论和可观测量必须是广义坐标不变量的假定。一个自然合理的引力几何化理论的观测理论直接拓展于狭义相对论的观测理论，根据坐标和度规给出。在新的观测理论中，观测者和所在参考系的物理应该充分结合在引力几何化的度规中。结合引力的几何化思想[1-2]和基于时空标度 $^ { + }$ 时空背景的基本物理图像[13]，引力场中由各地的固有事件间隔定义的本地的时空标度和由观测者的固有事件间隔统一定义并在全时空复制的观测者的时空标度之间，存在差异。因此，引力几何化到时空度规的物理图像应该是，首先选择无自转参考系，确定引力相对统计的范围。其次，在引力的统计范围内，以参考原点为坐标系的原点，建立严格均匀的坐标系。时空坐标标度是根据观测者自带的观测尺和观测钟在整个受统计的时空范围内定义并复制的。最后，以此为背景参考系，根据各地的本地钟和本地尺与作为背景的观测者的时空坐标标度的比较，确定时空弯曲的程度。根据这一精神，太阳系的引力红移效在上述时空物理图像下可以得到自然严格的解释[14]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4，因为太阳系的引力检验实验取得显著成功，保留爱因斯坦引力场方程作为引力几何化的正确数学方程。至于爱因斯坦引力场方程的相对性原理，应该充分参考质点动力学中对相对性原理的拓展，根据参考系在引力几何化过程中的真实物理在因果一致的前提下来确定相对性原理的范围。所以根据因果对应一致法则，时空弯曲几何量和能动量张量呈线性关系，所以能动量张量是因，时空几何弯曲量是果。不同的参考系，参考系的速度和位置可以影响对能动量张量的计算，但张量同时具有协变性，从而不影响引力几何化的爱因斯坦引力场方程的成立。至于参考系的平动加速度，被动观点下的参考系加速度，相当于主动观点下的物质的加速度，根据能动量张量的数学定义 参考系的加速度对此没有影响，对于时空几何量而言，因为一个可瞬时跳变的加速度不会影响全时空的弯曲状况，所以原则上参考系的瞬时加速度也不影响对时空几何量的描述。在高能物理实验中已经有证据表明：一个带负电的缪子的固有寿命和它的加速度无关。在太阳系表面的引力红移实验中，其实太阳系表面的原子除了处于恒定的引力场中，自身的加速度实际上是千变万化的，但是我们依然观测到了确定的红移值，也从侧面佐证了加速度和时空延缓无关。在受力方面，非引力相互作用的受力不会对时空几何化产生影响，但引力相互作用受力会改变参考系所在原点的观测者的时空标度。所以根据引力几何化的因果一致性要求，要始终以参考系原点所在的观测者（引力为零即相当于无穷远处）自带的观测尺和观测钟复制到全时空，以此为背景引力几何化。对于转动参考系，根据能动量张量的定义，其中的物质的四速度是空间矢量，空间的转动将改变对四速度的描述，所以转动参考系将改变对能动量张量的描述。时空几何量也会有显著的影响，但是无法保证两者的变化是协变的。综上论述，作为引力几何化数学公式的爱因斯坦引力场方程满足的是任意平动加速度的参考系。是适度的相对性原理。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为进一步检验本文提议的引力几何化的物理图像，接下来尝试重新解释太阳系引力的时钟延缓效应。已知在选取观测者在离太阳无穷远处的情形下，太阳系引力几何化之后的史瓦西度规满足[3],",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\textrm { d } s ^ { 2 } = - ( 1 - \\frac { 2 G M } { r } ) \\mathrm { d } t ^ { 2 } + ( 1 - \\frac { 2 G M } { r } ) ^ { - 1 } \\textrm { d } r ^ { 2 } + r ^ { 2 } ( \\mathrm { d } \\theta ^ { 2 } + \\sin ^ { 2 } \\theta \\mathrm { d } \\phi ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在上式中， $\\mathrm { d } t , \\mathrm { d } r$ 的单位标度就是由观测者自带的观测钟和观测尺定义的。或者说在太阳系整个范围内大量复制了观测者自带的观测钟和观测尺。所谓时钟的延缓就反映为本地的时钟读数$\\mathbf { d } \\tau = { \\sqrt { 1 - { \\frac { 2 G M } { r } } } } \\mathrm { d } t$ 和无穷远处观测者所带的时钟读数dt在相同的时间背景片段 $\\mathrm { d } t$ 上的读数值差异。显然，在太阳表面， $\\sqrt { 1 - \\frac { 2 G M } { r } } < 1$ 。因此，在相同的时间背景片段 $\\mathrm { d } t$ 上，根据固有事件计数定义的太阳表面的时钟读数比无穷远处的观测者的时钟读数要小。换句话说，太阳表面的时钟走得比无穷远处的观测者的时钟要慢。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在史瓦西度规中，坐标时 $t$ 应该被认为在引力几何化前后都一样，是一种严格均匀的，可以由当前的观测者时钟在全时空复制的数学时钟12]，因此可称为观测钟。对于发生在同一空间坐标点上的两个事件，由本地钟度量的时间间隔和由观测钟度量的时间间隔之间的差异则反映了时空的弯曲。关于太阳系中光信号的引力红移效应，严格地说，应该结合实际的传播过程来计算。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "因为太阳系的引力场是真空球对称的，所以其度规是静态的，即 $g _ { \\mu \\nu }$ 和时间 $t$ 无关。现假定有两个空间点，一个为 $p _ { 1 } ( pmb { r } _ { 1 } )$ ，还有一个为 $p _ { 2 } ( { \\pmb r } _ { 2 } )$ ，有一个光信号从 $p _ { 1 }$ 传播到 $p _ { 2 }$ ，其波前在 ${ \\boldsymbol { p } } _ { 1 }$ 处的坐标时间 $t _ { 1 }$ 时刻发出，在 $p _ { 2 }$ 处的坐标时刻 $t _ { 2 }$ 传到了 $p _ { 2 }$ 。因此，由坐标时钟（即观测钟）度量的间隔为（204号 $\\delta t = t _ { 2 } - t _ { 1 }$ 。同理，对于相位差 $2 \\pi$ 的下一个波前的传输，由坐标时钟度量的间隔可以表示为$\\delta t ^ { \\prime } = t _ { 2 } ^ { \\prime } - t _ { 1 } ^ { \\prime }$ 。由于太阳系的引力场是静态球对称的，所以，有理由认为两者所经历的坐标时间间隔相等，",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta t = \\delta t ^ { \\prime } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "进一步有",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { d } t _ { 2 } = t _ { 2 } ^ { \\prime } - t _ { 2 } = t _ { 1 } ^ { \\prime } - t _ { 1 } = \\mathbf { d } t _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "这个等式说明，在静态时空度规下，同一个光信号在传播过程中在经过的各个地方用坐标时钟（也就是观测钟）度量都有相同的周期和频率。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "根据史瓦西度规，对于任意的两个类时事件 $( t _ { 1 } , \\pmb { r } _ { 1 } )$ 和 $( t _ { 2 } , \\pmb { r } _ { 2 } )$ ，参考狭义相对论，可以定义固有时间隔 $d \\tau$ 为",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\mathbf { d } \\tau ^ { 2 } = - ( 1 - \\frac { 2 G M } { r } ) \\mathbf { d } t ^ { 2 } + ( 1 - \\frac { 2 G M } { r } ) ^ { - 1 } \\mathbf { d } r ^ { 2 } + r ^ { 2 } ( \\mathbf { d } \\theta ^ { 2 } + \\sin ^ { 2 } \\theta \\mathbf { d } \\phi ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "对于光信号在 ${ \\boldsymbol { p } } _ { 1 }$ 处分别在 $t _ { 1 }$ 时刻和 $t _ { 1 } ^ { \\prime }$ 时刻发出一个波前，这里的固有时间隔就是由本地静止的时钟度量的时间间隔，根据两个事件的固有时的上述定义（13)，显然有",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\textnormal d \\tau _ { 1 } = ( 1 - \\frac { 2 G M } { r _ { 1 } } ) ^ { \\frac { 1 } { 2 } } \\textnormal d t _ { 1 } = ( 1 - \\frac { 2 G M } { r _ { 1 } } ) ^ { \\frac { 1 } { 2 } } ( t _ { 1 } ^ { ' } - t _ { 1 } ) ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\textnormal { d } \\tau _ { { \\scriptscriptstyle 2 } } = ( 1 - \\frac { 2 G M } { r _ { { \\scriptscriptstyle 2 } } } ) ^ { \\frac { 1 } { 2 } } \\mathrm { d } t _ { { \\scriptscriptstyle 2 } } = ( 1 - \\frac { 2 G M } { r _ { { \\scriptscriptstyle 2 } } } ) ^ { \\frac { 1 } { 2 } } ( { t _ { { \\scriptscriptstyle 2 } } } ^ { \\prime } - t _ { { \\scriptscriptstyle 2 } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "所以有，",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\tau _ { 1 } } { \\mathrm { d } \\tau _ { 2 } } = \\frac { ( 1 - \\displaystyle \\frac { 2 G M } { r _ { 1 } } ) ^ { \\frac { 1 } { 2 } } \\mathrm { d } t _ { 1 } } { ( 1 - \\displaystyle \\frac { 2 G M } { r _ { 2 } } ) ^ { \\frac { 1 } { 2 } } \\mathrm { d } t _ { 2 } } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "因为上述 $\\mathrm { d } \\tau _ { 1 } , \\mathrm { d } \\tau _ { 2 }$ 都是光信号传播过程中的一个周期所花的本地时钟的读数，也即是光波信号在传播的经过点由当地时钟度量的周期值。因此，由当地静止的时钟度量的时间定义的固有频率和上述当地时钟的读数成反比，即有",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathsf { \\nabla } \\mathsf { \\mathsf { U } } _ { 2 } } { \\mathsf { \\nabla } \\mathsf { \\mathsf { U } } _ { 1 } } = \\frac { \\mathbf { d } \\mathsf { \\tau } _ { 1 } } { \\mathbf { d } \\mathsf { \\tau } _ { 2 } } = \\frac { ( 1 - \\frac { 2 G M } { r _ { 1 } } ) ^ { \\frac { 1 } { 2 } } \\mathbf { d } t _ { 1 } } { ( 1 - \\frac { 2 G M } { r _ { 2 } } ) ^ { \\frac { 1 } { 2 } } \\mathbf { d } t _ { 2 } } \\quad ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "而且根据上述分析，光信号在一个相位周期的传播过程中，由坐标时钟（即观测钟）来度量的时间间隔$\\mathrm { d } t _ { 2 } = \\mathrm { d } t _ { 1 }$ 。若进一步假定 ${ \\boldsymbol { p } } _ { 1 }$ 静止在太阳附近， $p _ { \\scriptscriptstyle 2 }$ 在地球表面静止。则有",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathsf { \\partial } \\mathsf { \\partial } _ { \\mathsf { U } _ { 2 } } } { \\mathsf { \\partial } _ { \\mathsf { U } _ { 1 } } } = \\frac { \\mathbf { d } \\textsf { \\tau } _ { 1 } } { \\mathbf { d } \\textsf { \\tau } _ { 2 } } { = } \\frac { ( 1 { - } \\frac { 2 G M } { r _ { 1 } } ) ^ { \\frac { 1 } { 2 } } } { ( 1 { - } \\frac { 2 G M } { r _ { 2 } } ) ^ { \\frac { 1 } { 2 } } } < 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\upsilon _ { 2 }$ 就表示地球上的静止时钟测到的频率， $\\upsilon _ { 1 }$ 就表示太阳附近的静止时钟测到的频率。但是，一般认为不管是否有引力，太阳附近发出的光信号由本地的静止时钟测到的频率 $\\upsilon _ { 1 }$ 应该和地球上同类原子发出的光谱由地球上的静止时钟测到的频率 $\\upsilon _ { 2 } ^ { \\prime }$ 相等，即同种原子在本地发出的特征光谱由本地的时钟度量,其频率是恒定的。而现在发现 $\\upsilon _ { 2 } < \\upsilon _ { 1 }$ ，所以观测到的传播过来的光信号的频率 $\\upsilon _ { \\circ }$ 相比该光信号在太阳附近发出时的本地频率 $\\upsilon _ { 1 }$ 变小了，也即相比地球上的同类原子发出的光信号的本地频率 $\\upsilon _ { 2 } ^ { \\prime }$ 变小了，即发生了红移。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "从上述分析可以看出，引入了严格均匀的坐标时可以实现不同位置的本地时钟走时快慢的比较，而新的引力几何化的时空物理图像可以自洽地解释太阳系的引力红移效应。在主流的理解方案中，认为光信号在传播过程中是因为克服引力势才出现红移，而并不理解为太阳系表面的时钟由于引力而变慢了从而出现红移现象。我们认为对于太阳系的引力红移实验来说，这两种理解方案暂时都可以作为选项。引力红移的本质究竟是时钟的本征速率真的会发生变化，还是只是光信号克服引力势的观测效应而已，最后取决于背后的物理图像的自然性和逻辑的合理性。本文暂且采取时钟的本征速率可以受引力相互作用的影响而发生物理变化的理解方案。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "根据史瓦西度规，对于相同的物理间隔 $\\mathrm { d } s$ ，在同一空间位置，比较坐标观测钟和本地钟的走时速率，则有 $\\mathrm { d } \\tau = b \\big ( r \\big ) \\mathrm { d } t = \\Bigg ( 1 - \\frac { 2 G M } { r } \\Bigg ) \\mathrm { d } t$ 。由于不变线元描写的是两个事件之间的固有物理间隔，而事件在时空的背景中有客观的，唯一确定的位置。所以，前式可以理解为对于相同的时间背景中的线元，有引力时的本地钟测量到的读数 $\\mathrm { d } \\tau$ 小于坐标观测钟测得的读数dt（即相当于无引力场时的本地钟)。因此，直观上可以理解为引力场中的本地钟的背景走时速率由于引力变慢了。同理，对于相同的物理间隔ds，比较坐标观测尺和本地尺的长短，则有 $\\textrm { d } r _ { 0 } = a \\big ( r \\big ) \\mathrm { d } r = \\left( 1 - \\frac { 2 G M } { r } \\right) ^ { - 1 } \\mathrm { d } r$ ，可以理解为对于相同的空间背景中的线元，有引力时的本地尺测量到的读数 $\\mathrm { d } r _ { \\mathrm { 0 } }$ 大于坐标观测尺测得的读数dr（即相当于无引力场时的本地尺)。所以，直观上可以理解为引力场中的本地尺的背景长度由于引力变短了。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6微调的时空物理图像对宇宙学疑难问题的启示",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本文的重点是在时空的物理图像中，提出了时空在概念上必须细分时空的标度和时空的背景，并认为相对的时空标度和绝对的时空背景是辩证统一的。事实上，正如前文指出的，时空的背景可以直接感知。在日常生活中，任何一个虚空的区域就是空间背景的一部分。比如，把一件物品从一个地方拿走，其原本所占据的空间区域并不随物体的移走而凭空消失，这个现象的存在即反映了绝对的空间背景的存在。在宇宙学尺度上，则宇宙中所有万物体现运动的共同背景就是宇宙空间的背景。比如，当宇宙中星系之间相互不断远离，中间空出来的区域就是高度近似的宇宙空间背景，在直观上很难想象，星系之间的宇宙空间的背景会随着中间物质的疏散而消失或变小。因此，宇宙空间的背景，如果假定其为最底层的背景，则应该是无限大的，因此宇宙空间的背景本身没有体积大小的概念。但是通常所说的宇宙是有大小的，实际上指的是可观测宇宙。这个有大小的可观测宇宙从概念上应该和这里的宇宙空间的背景区分。根据这一精神，通常所说的宇宙膨胀应该理解为物质宇宙在宇宙空间的背景中的膨胀式运动，在物质宇宙的边缘之外，即使没有物质，但是我们认为至少作为空间的背景的区域还是存在。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "关于宇宙膨胀的哈勃定律，显示星系远离的速度和距离成正比。在背景绝对的前提下，哈勃定律可以自然地理解为星系对应于宇宙学的共动坐标点，星系之间的远离不是共动坐标值的变化，而是在确定的共动坐标点之间由本地尺的背景长度变长所引起的。根据史瓦西度规中，引力对本地钟和本地尺的物理影响的分析结果，引力作用下的本地尺在空间背景中截取的长度比无引力时的坐标观测尺要来得短，随着宇宙学的膨胀，本地尺在引力不断减弱的情况下逐渐变长。换句话说，空间压缩因子 $a ( t )$ 随着宇宙膨胀而释放长度，从而反过来解释了宇宙均匀膨胀的基本物理图像。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "时空存在绝对的背景，对引力几何化的物理图像带来必要的调整，从而宇宙学度规的形式应该得到物理修正。一个正确的宇宙学度规应该充分满足如下两点：第一，引力几何化应该以一个刚性均匀的观测者坐标系为基础。观测者自身携带的钟作为标准走时速率在全时空大量复制称为观测钟。观测者自身携带的尺作为标准长度在全时空大量复制称为观测尺。引力的几何化效应通过比较本地钟，本地尺和上述数学定义的观测钟，观测尺来描述。第二，我们知道物质密度在宇宙的诞生开始至今有很大的变化，根据太阳系实验已经证实的引力时钟延缓效应，因此宇宙中任何一个共动点上的本地钟在时间纵向上应该存在走时快慢的不同。因此，相对于宇宙学所研究的漫长宇宙演化历史，宇宙学度规中的时间坐标必须严格区分当前时刻的地球观测者时钟和共动的本地时钟。在假定时钟的走时快慢和其相对观测者的加速度无关，并同样受引力场影响的前提下，一个合理，自洽的宇宙学的度规应该表示为",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\textrm { d } s ^ { 2 } = - b ^ { 2 } ( t ) \\textrm { d } t ^ { 2 } + a ^ { 2 } ( t ) [ \\frac { \\textrm { d } r ^ { 2 } } { 1 - k r ^ { 2 } } + r ^ { 2 } \\textrm { d } \\Theta ^ { 2 } + r ^ { 2 } \\sin ^ { 2 } \\theta \\textrm { d } \\phi ^ { 2 } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "可以从数学上验证，实际上（19）式所展示的度规才是满足宇宙学原理的最一般的宇宙学度规。由此得到宇宙学的基本方程[15]：",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle { \\frac { { \\dot { a } } ^ { 2 } } { a ^ { 2 } b ^ { 2 } } } + { \\frac { k } { a ^ { 2 } } } = { \\frac { 8 \\pi G } { 3 } } \\rho } } } \\\\ { { { \\displaystyle { \\frac { 1 } { b ^ { 2 } } } \\Bigg ( { \\frac { { \\ddot { a } } } { a } } - { \\frac { { \\dot { a } } { \\dot { b } } } { a b } } \\Bigg ) = - { \\frac { 4 \\pi G } { 3 } } \\big ( \\rho + 3 p \\big ) } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "由于速度和加速度都不是一个标量，因此在不同的观测者参考系中，加速度的值可以有很大的不同，在当前时刻的地球观测者的宇宙观测坐标系下，描写宇宙加速膨胀的数学表达式不再是 $\\frac { \\operatorname { d } ^ { 2 } a } { \\operatorname { d } \\tau ^ { 2 } }$ ，而是修正为 $\\frac { \\mathrm { d } ^ { 2 } a } { \\mathrm { d } t ^ { 2 } }$ $t$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } ^ { 2 } a } { \\mathrm { d } \\tau ^ { 2 } } = \\frac { 1 } { b ^ { 2 } ( t ) } \\frac { \\mathrm { d } ^ { 2 } a ( t ) } { \\mathrm { d } t ^ { 2 } } - \\frac { 1 } { b ^ { 3 } ( t ) } \\frac { \\mathrm { d } a ( t ) } { \\mathrm { d } t } \\frac { \\mathrm { d } b ( t ) } { \\mathrm { d } t }\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "考虑对宇宙中所有光信号的红移值都是由地球上的当前观测者时钟来度量的，也即由坐标时 $\\pmb { t }$ 来度量的。因此，从当前的观测得到的宇宙的加速膨胀的数值实际上是直接和 $\\frac { \\mathrm { d } ^ { 2 } a } { \\mathrm { d } t ^ { 2 } }$ 相联系的，而不是 dt² $\\frac { \\operatorname { d } ^ { 2 } a } { \\operatorname { d } { \\tau ^ { 2 } } }$ 可以看出两者的正负号并不一定保持一致。为了说明这一点，我们可以类比史瓦西度规里面的引力时钟延缓效应来考察 $b \\big ( t \\big )$ 的演化性质，在史瓦西度规中，时间演化因子 $\\sqrt { 1 - \\frac { 2 G M } { r } }$ 随着距离 $r$ 的增加而增加，等价于时间演化因子随着引力场势能的增加而增加。而在宇宙学中，宇宙早期的平均引力场势能低，现在时刻宇宙中的平均引力场势能高，目前宇宙的膨胀是一个由膨胀主导的引力场势能的逆向增高过程；因为反过来，宇宙在纯引力作用下如果开始出现自发地收缩，就是引力势的释放和降低过程。因此，在宇宙膨胀时，随着引力场势能的增加， $b \\big ( t \\big )$ 将随着时间增加，即 $\\frac { \\partial b ( t ) } { \\partial t } > 0$ 。 另一方面，我们容易看到，在宇宙膨胀时 $\\frac { \\partial a ( t ) } { \\partial t } > 0$ ，因此，即使根据现有的观测数据[10-11]得到 $\\frac {  { \\mathrm { d } } ^ { 2 } a } {  { \\mathrm { d } } t ^ { 2 } } > 0$ ，根据方程（22）我们还是有可能得到一个负的 $\\frac { \\operatorname { d } ^ { 2 } a } { \\operatorname { d } \\tau ^ { 2 } }$ 从而根据方程（21)，还是可以有正的 $\\rho + 3 p$ 。可见，本文引入当前时刻的地球观测者的宇宙学度规和FRW度规相比，对正确判断宇宙的膨胀加速度是有意义的。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "7总结 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "在有关绝对和相对的命题中，有必要充分警惕从一个极端走向另一个极端。本文通过逻辑和辨证的分析，讨论了和经典质点动力学改造，狭义相对论逻辑推演以及太阳系引力实验相容的时空物理图像。在原有的时空标度的概念基础上，着重引入了时空背景的概念。指出时空的标度本质上是观测者根据具体物体中的固有物理事件定义的单位时空间隔（或跨度)。而时空背景是体现这种标度大小或长短所必须的参考基础。因此，时空的标度相当于人为定义的时空基本单位根据固有物理事件间隔在时空背景上截出来的线段长度或跨度。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "相对的时空标度和绝对的时空背景的辩证统一，本文证明可以在各个相关物理理论中得到自然地呈现。首先，只有以此时空基本物理图像为基础，在经典力学的框架下，才可以自然地推导出具有明显形式优越性的新质点动力学方程。从而有力地支持了绝对的时空背景的存在。其次，狭义相对论的事件在时空有客观，唯一确定的位置，而洛伦兹坐标变换可以直接理解为时空的标度之间的变换，因此，狭义相对论事实上是默认存在时空的绝对背景的。最后，在引力几何化理论中，本文提议放弃爱因斯坦的等效原理和广义相对性原理。主要是基于数学和物理两方面的理由。在物理上，惯性力的本质已经揭示为参考物的经过质量平权后的真实受力，所以可以引力，摩擦力，拉力等各种相互作用，更重要的是，惯性力不是作用在被考察物体上，而是作用在参考物体上。因此，爱因斯坦的等效原理是不成立的。而以等效原理为“接生婆”的广义相对性原理也是站不住脚的。另一方面，在数学上，众所周知，对于转动的物理刚体参考系，确定刚体参考系的全部运动学性质，至少需要4个不同面的质点。因此，参考前面质点动力学方程形式改造的成功经验，构建动力学方程时，如果选取的是物理的转动参考系，动力学方程理论上必须同时纳入至少4个参考质点的受力和运动描述而仍保持简洁的形式。这一点显然难度很大，至少在目前还没有被自然地实现。鉴于放弃爱因斯坦的等效原理和广义相对性原理，则引力几何化理论中的观测理论应该重新构建，而不再在观测理论中引入广义相对论中根据线长而定义的标准钟和观测者四标架的概念。而是根据引力几何化的新理解方案，本地钟在引力的作用下在时间背景中的走时速率将变慢，而本地尺在引力作用下在空间背景中截取的长度将变短。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "l]Steven. Weinberg ”Gravitational and Cosmology:Principles and Applications of the General Theory of Relativity”（John Wiley & Sons，Inc，New York)，1972，Part 3. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[2]LI Kang，YANG Jiansong. Introduction to Modern Physics[M]，Tsinghua University Publishing House，2011:8．李康，杨建宋．近代物理概论[M]，清华大学出版社，2011:8.   \n[3]John M. Stewart，Advanced General Relativity， Cambridge University Press， 2003.   \n[4]Liu Liao,General Relativity (High Education Press,Shanghai, China)，1987,26-30；188-190. 刘辽，赵峥，广义相对论[M]．高等教育出版社 第二版，2004，26-30；188-190.   \n[5]Haugen， Mark P.；C. Lmmerzahl 2001，Principles of Equivalence:Their Role in Gravitation Physics and Experiments that Test Them. Springer. arXiv:gr-qc/O103067.   \n[6] Albert Einstein， Relativity: the special and the general theory（a popular exposition), Crown Publishers，196l．Albert Einstein，The Foundation of the Generalised Theory of Relativity，1916.   \n[7]BIPM， Measurement Units，Unit Definitions, http://www.bipm.org/en/publications/si-brochure/second.html。   \n[8]CHEN Shouzhu， JIANG Zhiyong. General Physics[M]， Higher Education Press，Sixth Edition, 2006．程守洙，江之永．普通物理学[M]．高等教育出版社第六版，2006.   \n[9]L.P. Grishchuk, Graviton Creation in the Early Universe，Annals N.Y.Acad.Sci. 302 (1977) 439.   \n[10] Sergio Ferrara, Renata Kallosh,Creation of Matter in the Universe and Groups of Type E7. JHEP 1112（2011）096.   \n[11] DOUGLAS M J. Leibniz on the Foundations of the Calculus:The Question of the Reality of Infinitesimal Magnitudes[J]. Perspectives on Science，1998,6,6-40.   \n[12] ESSEN H. Mechanics，cosmology and Mach's principle[J]，Eur.J.Phys.2013,34,139-145.   \n[13] ChiYi Chen,Journal of Zhejiang University (Science Edition),2014 Vol.41(5)：531-536(in Chinese)．陈驰一，经典质点动力学方程的形式探讨.浙大学报理学版,41(5):531.   \n[14] Chen ChiYi，Relativistic spacetime based on absolute background, physics essays，Volume 28:Pages 244-253,2015. Ohanian， Hans C；Ruffini，Remo. Gravitation and spacetime，Publisher:W. W. Norton Company;Second Edition.   \n[15] J.Bailey，et al.” Measurements of relativistic time dilation for positive and negative muons in a circular orbit” Nature，1977，288-301.   \n[16] Farley F J M, et al. The anomalous magnetic moment of the negative muon. Nuovo Cimento A，1966，45，281. ",
+        "page_idx": 15
+    }
+]

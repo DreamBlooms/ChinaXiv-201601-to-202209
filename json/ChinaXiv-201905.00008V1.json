@@ -1,0 +1,204 @@
+[
+    {
+        "type": "text",
+        "text": "AGN子类的硬X射线光变曲线功率谱幂率指数的分布差异",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张燕，马力，杨星，毛李胜，李涛，龚云露，易庭丰(云南师范大学物理与电子信息学院，云南 昆明 650500)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于Swift/BAT所观测的活动星系核(AGN)在硬X射线波段光变曲线数据，通过离散傅利叶变换法,分析了塞弗特1（Seyfert1）、塞弗特2（Seyfert2）、平谱射电类星体（FSRQ）、BLLac天体功率谱的幂律指数（ $\\propto$ ）的分布特征。发现Seyfert2与I型AGN的α分布有显著差异,而I型AGN各子类之间的 $\\alpha$ 分布差异性不显著。Seyfert2的硬X射线可能来源于吸积盘内区及热冕，而Seyfert1的硬X射线主要来自有外流的冕。我们发现来自相对论性喷流或者外流冕的硬X射线在统计上有更大的幂律指数，而来自吸积盘热冕的硬X射线幂律指数较小。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：硬X射线；活动星系核；光变曲线；幂律指数",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "活动星系核（ActiveGalactic Nuclei，AGN）的中心是一个超大质量黑洞，黑洞周围有一个吸积盘，在黑洞与吸积盘的共同作用下，产生准直性非常好的并且垂直于吸积盘的喷流，并产生从射电到伽马射线波段的辐射。目前流行的理论认为，I型 和II型 AGN 是从不同角度观察的相同对象，假设中心黑洞被一团厚厚的尘埃环包围,从尘埃环的侧面观测是II型 AGN从垂直于环面方向观测来的是I型 AGN，以上便是基于视角的统一模型,此模型有较明显的各项异性[1]。因此，根据观测视角的不同，,在发射线、光度、连续光谱等方面也有所不同。活动星系核大致可分为塞弗特星系、类星体、射电星系、蝎虎座BL型天体等几大类。随着观测技术的进步,我们对这几大类又有了更加细致的划分，例如按照视线方向的辐射是否被尘埃环吸收，塞弗特星系又分为I型塞弗特星系（Seyfert 1）和II型塞弗特星系（Seyfert 2）[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "活动星系核的一个独特性质是在所有波段都存在光变，硬X射线的光变为我们提供了活动星系核最里面区域的信息3。AGN的硬X射线可以产生于吸积盘的热冕中，即软光子被盘上面的热等离子体中的电子康普顿化[4.5]，AGN 中的硬X射线的另一贡献来自于喷流中的相对论性电子同步辐射和逆康普顿散射。在这两种情况下，硬X射线的光变显示出一些不同的特征[6-15]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shimizu 和 Mushotzky 使用 Swift/BAT15-150keV的数据，已经计算了30个AGN在硬 X射线波段的功率谱密度（PSD），发现除了一个之外所有的功率谱可以用简单的幂律进行很好的拟合[6]。本文利用 Swift/BAT 在硬X射线波段的数据对 Seyfert 1、Seyfert 2、Flat SpectrumRadio (FSRQ)、BL Lac 的功率谱进行了统计分析。我们通过拟合不同类型 AGN 的硬 X射线 PSD得到其幂律指数，分析活动星系核不同子类之间幂率指数的分布差异,得到硬X射线光变曲线的PSD 特征与AGN 子类有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1数据样本",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究主要的目标样本来自Swift/BATHardX-rayTransient Monitor(https://swift.gsfc.nasa.gov/results/transients/）,其中包含了1019个源，其硬X射线光变曲线有持续14 年左右的数据，我们的研究对象主要是 AGN，所以我们从中选出了BL Lac、FSRQ、Seyfert 1和 Seyfert 2，该网站数据库中的Quasar子类都是FSRQ。FSRQ 和BL Lac 都属于活动星系核的子类耀变体，但是它们的吸积率以及宽线区都不一样[17，其X射线的产生机制可能不一样，所以我们把它们分开研究。Table1为这四个子类样本个数。在这些AGN 的光变曲线中，光子流量出现了负值，可能有这几个原因：CCD的量子效应，热噪声和天光背景等。我们所研究的X射线光变曲线的功率谱的幂律指数主要与光变的特征有关，因此是否去除背景噪声对本文的分析结果的影响可以忽略不计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1样本统计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/df82f7c86192aa5976f9900ffb5646df446c249296610c21948e6c1f9ca2db41.jpg",
+        "table_caption": [
+            "Tab.1 Sample statistics "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Source type</td><td>BL Lac</td><td>FSRQ</td><td>Seyfert 1</td><td> Seyfert 2</td><td>Total</td></tr><tr><td>Counts</td><td>106</td><td>118</td><td>110</td><td>47</td><td>381</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fd3b4bcbf2456de8b99779eb9429150b55ea176738dba057cc04c5a36747476.jpg",
+        "img_caption": [
+            "图1 NGC 1365功率谱在对数坐标中的线性拟合，拟合所得斜率（slope）即幂律指数 $\\propto$ 9 Fig.1.Linear fitting diagramof power spectrumof NGC1365 inlogarithmiccordinates，and the power law index (α) is a slope of fitting. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通讯作者：易庭丰，男，博士，副教授，研究方向：活动星系核。Email：yitingfeng98@163.com",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对这些源的光变曲线进行快速傅里叶变换（Fast Fourier transform，FFT），得到其功率谱如图Fig．1（以NGC1365为例），再通过线性拟合得到每个源的幂律指数 $( \\alpha )$ ，并对这些不同类型源的幂律指数(α)进行统计分析，得出的结果如图Fig．2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别将AGN 的四个子类的幂律指数统计分布图进行比较： Seyfert 2(Sy2)和 Seyfert1(Sy1)，Seyfert 2和BL Lac，Seyfert 2和FSRQ，Seyfert 1和BL Lac，Seyfert 1和FSRQ,BL Lac 和FSRQ；再将各子类的幂律指数累积归一化图进行比较，其比较结果如图Fig.2所示，左边是幂律指数统计分布对比图，右边是幂律指数累积归一化对比图。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9342d298faa7f2bb6ed9cdb4790d3088bf912da89416a9b5baf28f9772040a52.jpg",
+        "img_caption": [
+            "图2第一、三列是幂律指数分布，第二、四列是累积概率分布。"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2.Thefirstand third colums arethe powerlaw index distributions for subclassesofAGNs,and thesecond and fourth columns are the cumulative probability distributions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用柯尔莫哥洛夫-斯米尔诺夫检验(Kolmogorov-Smirnov test，K-S test)来判断这两种分布的差异性，其结果如表2所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2:K-S检验结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/47e1a9caabd70f469df93706f8fb015e1c016406b0af2f4d0af998c2ee9d3345.jpg",
+        "table_caption": [
+            "Tab.2 The result of K-S test "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>K-S test between subclasses</td><td>Statistic</td><td>p-value</td><td>显著性</td><td>Panel of Fig.2</td></tr><tr><td>Seyfert 2 vs Seyfert 1</td><td>0.200</td><td>0.127</td><td>显著</td><td>a1</td></tr><tr><td>Seyfert 2 vs BL Lac</td><td>0.220</td><td>0.075</td><td>显著</td><td>b1</td></tr><tr><td>Seyfert 2 vs FSRQ</td><td>0.233</td><td>0.044</td><td>显著</td><td>cl</td></tr><tr><td>Seyfert 1 vs BL Lac</td><td>0.072</td><td>0.937</td><td>不太显著</td><td>d1</td></tr><tr><td>Seyfert 1 vs FSRQ</td><td>0.079</td><td>0.855</td><td>不太显著</td><td>e1</td></tr><tr><td>BL Lac Vs FSRQ</td><td>0.122</td><td>0.354</td><td>一般显著</td><td>f1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由以上结果可知差异性非常显著的有 Seyfert1和 Seyfert 2、Quasar 和 Seyfert 2、BL lac和 Seyfert 2，差异性一般显著的有BLLac 和FSRQ，差异性不太显著的有 BL Lac 和 Seyfert1、FSRQ 和 Seyfert 1.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文主要收集了381个AGN，对这些AGN 的硬X射线观测数据的光变曲线进行快速傅里叶变换分析，统计AGN 各子类的功率谱幂律指数 $( \\alpha )$ 分布情况，用K-S检验来判断其差异显著性，分析结果如 Table2所示，Seyfert 2这类有尘埃环遮挡的II型活动星系核与BLLac、FSRQ、Seyfert1这类没有尘埃环遮挡的I型活动星系核差异性显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "活动星系核的硬X射线辐射的能谱成份很复杂，主要有两种可能的来源，一是来自喷流，例如耀变体其具有相对论性喷流且喷流视角较小,因此集束效应较强,观测到的辐射主要来自于喷流；二是来自吸积盘的内区及热冕[1,.9]（例如 Seyfert 星系）。活动星系核的X射线辐射是喷流主导还是冕主导的，会呈现出不同的辐射特征。实际观测的硬X射线辐射流量多是两者的混合，不同类型的AGN可能会有不同的混合比例。Seyfert 星系作为活动星系核的低光度子类，它的盘冕模型表明吸积盘中的软光子在冕区被热康普顿散射而转化为更高能量的X射线光子，这个过程很好地解释了 Seyfert 星系的 X射线光谱能用一个幂律谱拟合的现象。最近的研究也表明活动星系核冕中的X射线辐射是中等程度地各向异性的,这表明冕的形状是两极突出的长条形，并且伴有外流（速度约为0.3-0.5倍光速）[20]。Seyfert1 与 Seyfert 2 的X射线辐射的差异可能主要是因为冕的各向异性而不是尘埃环的吸收，Seyfert1星系的硬X射线主要来自伴有外流的冕（outflowing coronae）[2o]。在吸积率小于某个临界值（ ${ 1 0 } ^ { - 6 }$ 倍爱丁顿吸积率)的低光度活动星系核的X射线辐射更可能来自喷流而不是径移主导的吸积流（advection-dominated accretion flow，ADAF）[21]。根据 AGN 统一模型，一般而言，I型 AGN的硬X射线辐射来自相对论性自喷流或者伴有外流的冕，具有各向异性；而II型AGN 的硬X射线辐射来自吸积盘的热冕，且有吸收。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，我们所得到的硬X射线光变曲线的功率谱幂律指数的分布差异可以得到解释：来自相对论性喷流或者外流冕的硬X射线因为多普勒效应而在统计上有更大的幂律指数 $( \\alpha )$ ，而来自吸积盘热冕的硬X射线幂律指数较小。我们可以把硬X射线光变幂律指数（α）的分布特征差异作为活动星系核I型和II型分类统计上的新判据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] UrryCM,PadovaniP.UnifiedSchemesforRadio-LoudActiveGalacticNuclei[J].PublicationsoftheAstronomicalSocietyof the Pacific,1995,107(715):803-845.   \n[2] 黄克谅.类星体与活动星系核[M]．中国科学技术出版社,2005.   \n[3] Soldi S,BeckmaVumgartrWH,etalLong-terrabilityofGathardXrays[J].Astrooy&Astrosics,4,6: 57(16 pp).   \n[4] HardtF,MaraschiL.X-rayspectra from two-phase acretiondisks[J].Astrophysical Jourmal,1993,413:507(11 pp).   \n[5] McHardyI,LawsonA,NewsamA,etal.SmultaeousX-rayandinfraredvariabilityintheQuasarC273-IIConfirmatioofthe correlation and X-ray lag[J].Monthly Notices of the Royal Astronomical Society,2OO7,375:1521(7 pp).   \n[6] ArevaloP,McHardIM,SummonsDP.X-rayvariabilityoftheSeyfert1Markarian335:powerspectrumandtimelags[J].Monthly Notices of the Royal Astronomical Society,2008,388:211(8 pp).   \n[7] CzernyB,NikolajukM,PaseckiM,etal.Blackhole massesfrompower densityspectra:determinationsandconsequences[J]. Monthly Notices of the Royal Astronomical Society,2001,325: 865(10 pp).   \n[8] McHardIM,KerdngE,KiggeC,etal.Active galactcucleiassaled-upGalacticackholes[J].Nature2,444:(3).   \n[9] UttleyP,McHardyIM.X-rayvariabilityofNGC3227and56andthenatureofactivegalacticnucleus‘states[J].MonthlyNoticesf the Royal Astronomical Society,2005,363: 586(11 PP).   \n[10] Soldi S,TurlealtaiS,talTheultiavelengthariabilityof3C[J].AtroodAtropics,O8,46:4().   \n[11] BellME,TziouisT,UtteyP,eta.X-rayandradiovariabilityintelow-minosityactive galacticuleusNGC73[J].onthly Notices of the Royal Astronomical Society, 2011,411: 402(9 pp).   \n[12] ZoghbiA,FabianAC,UtleyP,etal.BroadironLinendX-rayreverberationin1H077-495[J].MonthlyNoticesoftheRoyal Astronomical Society,2010,401: 2419(14 pp).   \n[13] Cabalero-GarciaM,PapadakisI,AjellM,etal.HardX-rayspectralvariabilityof tebightestSeyfertAGNwithSW/BAC. The X-ray Universe 2O11,Presentations of the Conference held in Berlin,Germany,27-30 June 2011.   \n[14] UttleyP,McHardyIM,PapadakisIE.Measuringthebroad-bandpowerspectraofactive galacticnuclei withRXTE[J].Monthly Notices of the Royal Astronomical Society,2002,332: 231(20 pp).   \n[15] PapadakisIE.ThescalingoftheX-rayvariabilitywithblackholemass inactivegalacticnuclei[J].MonthlyNoticesoftheRoyal Astronomical Society,2004,348: 207(7 pp).   \n[16] ShimizuTT,MushotzkyRFTheFirst HardX-RayPower SpectralDensityFunctions of Active GalacticNucleus[J].The Astrophysical Journal,2013,770: 60(21 pp).   \n[17] Ghiselini G,MaraschiLTavecchioFTheBlazar'sDivideandthePropertiesofFermiBlazars[J].MonthlyNoticesoftheRoyal Astronomical Society,2009,396:L105(5 pp).   \n[18] KamrajN,FabianA,LinkA,etal.robngtheysicalPropertiesofteoroninAcretigBlackHoles[J].aXv:9524, 2019.   \n[19] AntonucciR.UnifiedModels forActive GalacticNuclei and Quasar[J].AnnualReviewof Astronomyand Astrophysics,1993,31(1): 473-521   \n[20] LiuT,WangJX,YangH,etal.AreX-RayEitingCoronaearoundSupermassiveBlackHolesOutflowingJ]?TheAstroical Journal,2014,783:106(14 PP).   \n[21] YuanF,YuZ,Ho,LC.Revisitingthe \"FundamentalPlane\"ofBlack Hole ActivityatExtremelyLowLuminosities[J].The Astrophysical Journal,2009,703:1034(10 PP). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Differences in Power Law Index Distribution of Hard X-ray Light Curves of AGN Subclasses ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yan Zhang, Li Ma, Xing Yang, Li-Sheng Mao, Tao Li, Yun-Lu Gong, Ting-Feng Yi (College of Physics and Electronics，Yunnan Normal University，Kunming，China，650500) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Based on the hard X-ray light curve data of Active Galactic Nucleus (AGNs) observed by Swift/BAT, the distribution characteristics of power law index (α) of the power spectral density of Seyfert 1s, Seyfert 2s,flat spectrum radio quasars (FSRQs) and BL Lac objects are analyzed by Fast Fourier Transform method (FFT). It was found that the index $\\mathfrak { a }$ distribution of Seyfert 2s was significantly different from that of type I AGNs (Seyfert 1s,FSRQs and BL Lac objects).The index α distribution of the subclasses of type IAGNs have not significant diffrence between each other. Therefore, we concluded that the hard X-rays of Seyfert 2s mainly come from the inner region of the accretion disk or Corona,and other AGN subclasses mainly come from the jet and outflowing corona. We found that the hard X-ray from the jet or outflowing corona has a larger $\\mathfrak { a }$ ，while the hard $\\mathrm { \\Delta } X$ -ray from the thermal coronae of the inner region of the accretion disk has a smaller $\\mathfrak { a }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key words: Hard X-ray; Active Galactic Nucleus; Light Curve; Power Law Index ",
+        "page_idx": 4
+    }
+]

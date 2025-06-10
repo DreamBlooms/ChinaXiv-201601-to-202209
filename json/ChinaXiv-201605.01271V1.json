@@ -1,0 +1,501 @@
+[
+    {
+        "type": "text",
+        "text": "Nanozyme-strip for rapid local diagnosis of Ebola ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Demin Duana1, Kelong Fana1, Dexi Zhangä, Shuguang Tanb,Mifang LiangC, Yang LiuC, Jianlin Zhanga, Panhe Zhangd,Wei Liud, Xiangguo Qiue, Gary P. Kobinger, George Fu Gao b.f, Xiyun Yan a,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyLbratorfrotedtideceuticlsSvesityfkyntboatofructualVodunoite   \nBiophysics,Chinese Academy of Sciences,Beijing 100101, China   \nbCASKeyLbatorfogicobosuteoecdeecse   \nNationalIstituteforViralseaseControldrevention,inseCenterforDiseseontrolndPrevetion,eiingoin   \ndStateKeyLbratoryfathogenndosecurityeijingstituteofcrobiologyndEidemiologyeijingoa   \nNationalbtooicsestgebllteyfdi   \nfOffice of Director-General, Chinese Center for Disease Control and Prevention,Beijing i022o6,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 10 March 2015   \nReceived inrevised form   \n4 May 2015   \nAccepted9 May 2015   \nAvailableonline 11 May 2015   \nKeywords:   \nNanozyme   \nImmunochromatographic strip   \nEbola detection ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ebola continues to rage in West Africa. In the absence of an approved vaccine or treatment,the priority in controlling this epidemic is to promptly identifyand isolate infected individuals.To this end,arapid, highly sensitive,and easy-to-use test for Ebola diagnosis is urgently needed.Here,by using $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ magnetic nanoparticle (MNP)as a nanozyme probe,we developed a MNP-based immunochromatographic strip (Nanozyme-strip),which detects the glycoprotein of Ebola virus (EBOV)as low as $1 \\ \\mathrm { n g / m L } ,$ which is 10O-fold more sensitive than the standard strip method.The sensitivity of the Nanozyme-strip for EBOV detection and diagnostic accuracy for New Bunyavirus clinical samples is comparable with ELISA,but is much faster (within $3 0 \\mathrm { m i n }$ )and simpler (without need of specialist facilities).The results demonstrate that the Nanozyme-strip test can rapidly and sensitively detect EBOV,providing a valuable simple screening tool for diagnosis of infection in Ebola-stricken areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2015 Elsevier B.V.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The appearance of Ebola virus disease(EVD) in West Africa in 2014is the largest outbreak since EVD first being identified in 1976 (Jin,2014).As reported by the WHO,up to 14 April 2015,more than 25515 individuals have been infected and 10572 have died from EVD(WHO,2015a).Although several potential drugs,including interferon,vaccines and therapeutic antibodies have been developed (Bishop, 2015;Paragas and Geisbert,2006), no efficient treatment has yet been approved (Jin，2O14).Therefore，an essential approach at the moment for curbing EBOV spread is to make rapid diagnosis and quarantine EBOV-infected people (Vogel, 2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "According to the latest report(Butler,2O14), the WHO has received 17 applications from diagnostic companies,including 13 reverse-transcriptase polymerase chain reaction (RT-PCR）methods for detection of genetic sequences,and four other methods for detectionofEBOVantigenswhichgenerallyusethe immunochromatographic strip (ICS） format.The RT-PCR method, although highly sensitive,requires specialist equipment and skilled staff working in sophisticated labs that have high-level biocontainment measures.Access to consistent power supplies and refrigeration is essential.In contrast,the ICS is simple and cheap for mass production,and does not require electricity or special facilities.Recently,WHO approved an colloidal gold strip method for emergency diagnosis of EBOV (WHO,2O15b).However, it is several orders of magnitude less sensitive than RT-PCR,which means it cannot diagnose Ebola immediately after symptoms ap pear,and with $1 5 \\%$ false positive rate which limits its application. Sofar,thereis notan ideal test for EBOVdetection.Therefore the Ebola experts seek to expand testing methods. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here,we generated a Nanozyme-strip test,capable of detecting glycoprotein (GP) of EBOV(EBOV-GP) at $1 ~ \\mathrm { { n g / m L } }$ by the naked-eye. The sensitivity is more than 1oO-fold higher than the standard colloidal gold strip.Employing this method,as low as $2 4 0 \\mathrm { p f u / m L }$ pseudo-EBOV can be rapidly detected within $3 0 \\mathrm { m i n }$ ，which is comparable with the ELISA method (Daaboul et al., 2014;Ksiazek et al.,1992;Towner et al.,2004). This Nanozyme-strip is based on our previously findings that MNPs possess intrinsic peroxidaselike activity,catalyzing peroxidase substrates and producing an obvious color reaction，which is similar to that of natural peroxidase enzymes (Gao et al.,2Oo7). This type of catalytic inorganic nanomaterial has been termed a nanozyme (Wei and Wang,2O13).Because of their stability,low cost,and ability to be reused,nanozymes have been widely applied in biomedical detection and environmental analysis (Fan et al.,2O12；Liang et al., 2013； Zhuang et al.,2012). In this study,we applied MNPs as a nanozyme probe in place of colloidal gold nanoparticles.After labeling with anti-EBOV antibody,this novel probe is able to recognize,separate,and visualize EBOV on the strip.Owing to the catalytic properties of the probe,the detection sensitivity of the Nanozyme-strip was significantly improved without the need for any special equipment.Given its high sensitivity and simplicity, this novel assay represents a suitable diagnostic tool for Ebolastricken areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Synthesis and characterizationofMNPs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MNPs were synthesized according to the hydrothermal method (Liang etal.，2013). Briefly, $0 . 6 \\ { \\mathrm { g } } \\ { \\mathrm { F e C l } } _ { 3 } \\cdot 6 { \\mathrm { H } } _ { 2 } 0$ （Beijing Chemical Reagents）wasdissolved in $2 0 ~ \\mathrm { m L }$ ethylene glycol (Beijing Chemical Reagents） followed by the addition of $1 . 5 \\mathrm { ~ g ~ } \\mathsf { N a A c }$ （Beijing Chemical Reagents).The mixture was stirred vigorously for $3 0 \\mathrm { m i n }$ ,then sealed in an autoclave,and heated at $2 0 0 ^ { \\circ } { \\mathsf C }$ for $^ { 1 6 \\mathrm { h } }$ The products were washed several times with ethanol (Beijing Chemical Reagents） and dried at $6 0 ^ { \\circ } \\mathsf C .$ Morphology and structure images of MNPswere characterized with a JEOL 2O0OFX $2 0 0  { \\mathrm { k V } }$ transmission electron microscope (TEM). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Preparation of the nanozyme probe and colloidal gold probe ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The nanozyme probe was prepared as described previously (Huang et al., 2009). Briefly, $5 \\mathrm { m g }$ EDC(Sigma-Aldrich） and NHS (Sigma-Aldrich）were dissolved in $1 \\mathrm { m L }$ deionized water by vortexing.Then $5 \\mathrm { m g }$ MNPs were added to the mixed solution and incubated at room temperature for $3 0 \\mathrm { m i n }$ .Functionalized MNPs were collected usinga magnet,washed twice with ultrapure water,and then $1 0 0 \\mu \\mathrm { g / m L }$ of the detection antibody 4G7 was added in NaAcbuffer ( $5 0 ~ \\mathrm { m M }$ $\\mathsf { p H } 6 . 0 \\mathsf { \\cdot }$ ).The mixture was vortexed and incubated at $4 ^ { \\circ } C$ overnight.The conjugate was washed twice with PBS $\\left( \\mathrm { p H } 7 . 0 \\right)$ ,and then incubatedin Tris buffer ( $5 0 ~ \\mathrm { m M }$ pH7.2)at room temperature for $3 0 \\mathrm { m i n }$ .The nanozyme probe thus obtained was washed with PBS ( $\\mathrm {  ~ \\ p H ~ } 7 . 0 \\dot { \\mathrm {  ~ \\Omega ~ } }$ ),and then dispersed into $1 ~ \\mathrm { m L }$ of $5 \\%$ BSA-PBS solution. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The colloidal gold nanoparticles( $2 5 \\mathrm { n m } ,$ ）were purchased from Wantai Biological Co. Ltd.(Beijing,China).And the preparation of colloidal gold probe was according to the description of Shyu et al., (2002). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The number of antibodies conjugated to the MNP probe and colloidal gold probe were determined as described in Supplementary materials and methods.And the average number of antibodies per MNP probe is comparable with the number of antibodies per colloidal gold probe. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Recombinant EBOV-GP expression and purification ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Briefly,cDNA encoding the ectodomain of GP(amino acid residues 33-632）without the mucin domain (amino acid residues 312-463） from Homo sapiens-wt/GIN/2014/Gueckedou-C07 (Genebank:Kj66o347) was synthesized and cloned into the baculovirus vector pFastBac-1.An N-terminal gp67 signal peptide and a C-terminal His-tag were added to facilitate protein secretion and purification (Zhang et al.，2O1O). The recombinant baculovirus particles expressing GP were packaged and amplified in Sf9 cells at ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$2 8 ^ { \\circ } \\mathsf { C }$ and120 RPM/min.High-5 cells were transfected with high titer baculovirus and grown for $3 \\mathsf { d }$ at $2 8 ^ { \\circ } C$ and $1 2 0 \\mathrm { R P M / m i n }$ Cells were then removed by centrifugation at $4 0 0 0 g$ for $4 0 \\mathrm { m i n }$ and the subsequent growth media was applied to a HisTrap FF 5-mL column (GE Health).After elution with $2 0 0 \\mathrm { m M }$ imidazole, GP fractions were then purified by gel filtration chromatography using a Superdex-20O 1O/30O GL column (GE Health) with $2 0 \\mathrm { m M }$ Tris-HCl, $1 5 0 \\mathrm { m M }$ NaCl,pH 8.O as running buffer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Pseudo-EBOV preparation and titration ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The pseudo-EBOV was prepared by co-transfecting 293 T cells with a plasmid encoding an Env-defective,luciferase-expressing HIV-1 genome (pNL4-3.luc.RE),and the pcDNA-4.0-Ebola-GP eXpression plasmid using Lipofectamine 2ooo (Invitrogen）as previously described (Gao et al.,2O13). The pseudo-virus-containing supernatant was harvested $^ { 4 8 \\mathrm { ~ h ~ } }$ after transfection,clarified by centrifugation,and then filtered through a $0 . 4 5 \\mathrm { - } \\mu \\mathrm { m }$ sterilized membrane.Single-use aliquots $( 0 . 5 ~ \\mathrm { m l } )$ were stored at $\\mathrm { ~ - ~ } 8 0 ^ { \\circ } \\mathsf C$ （2 The $5 0 \\%$ tissue culture infectious dose $\\mathrm { ( T C I D } _ { 5 0 } )$ for each pseudovirus preparation was determined by infection of Huh7 cells as previously described (Li et al.,2oo5). The plaque forming unit (pfu) of EBOV was calculated by the formula:1 $\\mathrm { T C I D } _ { 5 0 } = - \\ln$ (1/2)pfu [ATCC:Converting $\\mathrm { T C I D } _ { 5 0 }$ to plaque forming units (pfu)l ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5.Influenza A virus preparation and inactivation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The A/Puerto Rico/8/1934 (H1N1） was propagated in 10-dayold specific pathogen free (SPF) embryonated chicken eggs and the allantoic fluid was harvested 3 days later.Allantoic fluid with $\\mathsf { A } /$ Puerto Rico/8/1934(H1N1）was further inactivated with $\\beta$ -propionolactone（1:1oo0) overnight at $4 ^ { \\circ } \\mathsf C .$ The plaque forming unit (pfu) of influenza A virus was determined by infection of MDCK as described above for pseudo-EBOV. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.6.Recombinant new Bunyavirus nucleoprotein expression and purification ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The nucleoprotein(NP) gene from the S segment of New Bunyavirus strain HB29(Yu et al.,2O11) with His tag was cloned into vectorpET3Oa(Novagen,Madison,USA)and expressed in Escherichia coli (E. coli) as we described previously (Yu et al.,2012). Briefly, the E.coli bacteria transfected with New Bunyavirus-NP expression vector plasmid were induced with $1 \\mathrm { m M }$ isopropyl-1- D-thiogalactopyranoside (IPTG),followed by growth at $3 0 ^ { \\circ } \\mathsf C$ for $^ { 1 6 \\mathrm { h } }$ .The protein was obtained from inclusion bodiesand purified on an AKTA prime plus system equipped with HisTrap HP column (GEHealthcare,Sweden） for affinity chromatography,and the NP was eluted at a gradient from 100 to $3 0 0 \\mathrm { m M }$ imidazole and finally dialyzedagainstPBSbuffer $\\mathrm {  ~ \\ p H ~ } 7 . 2 ^ { \\cdot }$ ).Thepurityof theproteinwas confirmed by SDS-PAGE and western blot analysis.The concentration of New Bunyavirus-NP was determined using a BCA assay kit (Pierce). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.7.New Bunyavirus and purified virus ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The origin and preparation of New Bunyavirus have been described previously(Yu et al.,2012,2011).Briefly,Vero-E6 cells (ATCC CRL-1586)were infected with New Bunyavirus strain HB29 (Yuet al.,2011)at MOl(multiplicity of infection) of1 and cultivated for 14 days.The medium supernatant containing $1 0 ^ { 8 } \\mathrm { m l } ^ { - 1 }$ of virusparticles was harvested and cleared of cell debris by centrifugation,and further purified using ultracentrifugation using a $20 \\%$ sucrose density gradient. The purified virus was analyzed by SDS-PAGE and electron microscope analysis to confirm the quality of the virus particles.The concentration of virus particles was determined using a BCA assay kit (Pierce). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.8.New Bunyavirus clinical samples ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Human serum $\\left( N = 2 0 \\right)$ ）was collected from New Bunyavirus patients in the acute phase,which were confirmed by seroconversion or four-fold increase of virus-specific IgG in paired serum or by virus isolation.Human serum of healthy donors $\\left( N = 3 1 \\right)$ ),who had physical examination and medical history to ensure no fever or other disease symptoms within 2 weeks before the blood donation was collected from New Bunyavirus endemic and non-endemic areas. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.9．Dot blot immunoassay ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The dot blot immunoassay was performed on a nitrocellulose membrane.Firstly, $1 ~ \\mu \\mathrm { g }$ of EBOV-GP,influenza A virus-NP（Sino Biological Inc.),and New Bunyavirus-NP were dropped on the nitrocellulose membrane.After drying for $3 0 \\mathrm { m i n }$ at room temperature,the membrane was incubated with blocking solution $( 5 \\%$ milk in PBS) for $^ { 1 \\mathrm { ~ h ~ } }$ with continuous shaking.Then,the membrane Was incubated with MNP probe for $2 0 \\mathrm { m i n }$ and washed quickly in ultrapure water. The specific binding reaction between the antigen and the MNP probe caused the appearance of a brown dot on the nitrocellulose membrane. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.10.Preparationof the standard colloidal gold strip andNanozymestrip ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The fabrication of the standard colloidal gold strip and Nanozyme-strip was according to the description of Shyu et al.with some modifications(Shyu et al.,2oo2).Briefly, the test line and control line were dispensed ( ${ \\mathrm { [ 0 . 1 ~ \\mu L } }$ per $1 \\mathrm { m m }$ line）along a nitrocellulose membrane sheet (Millipore） pasted to a vinyl backing $( 2 0 \\mathrm { c m } \\times 2 . 5 \\mathrm { c m } )$ ）using an IsoFlowTM Dispenser (Imagene Technology，NewHampshire，USA).Ebola capture antibody 1H3 $( 1 . 2 \\mathrm { m g / m L } )$ in borate buffer (5 mM,pH 8.8) was dispensed as the test line,and goat anti-mouse IgG antibody $\\mathrm { \\langle 1 . 0 ~ m g / m L \\rangle }$ in borate buffer $( 5 ~ \\mathrm { m M } , ~ \\mathrm { p H } ~ 8 . 8 )$ as the control line.The nitrocellulose membrane sheet was dried at $3 7 ^ { \\circ } \\mathsf { C }$ for $^ { 1 \\mathrm { { h } } }$ ，blockedwith $1 \\%$ BSA by incubation for $3 0 \\mathrm { m i n }$ ,washed three times ( $5 \\mathrm { m M }$ borate buffer, $\\mathrm { p H } 8 . 8 \\dot { . }$ ,and thendried again at $3 7 ^ { \\circ } \\mathsf { C }$ for $^ { 3 \\mathrm { h } }$ 、Anabsorbent pad waspasted to the vinyl backing overlapping with the nitrocellulose membrane sheet.Then a strip cutter (Economic Cutter ZQ200o,Shanghai Kinbio Tech Co.Ltd., Shanghai, China) wasused to cut the nitrocellulose membrane sheet into test strips $( 2 5 \\mathrm { m m } \\times 5 \\mathrm { m m } )$ ).Theprepared strips were stored in sealed bags under dry conditions at room temperature. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Nanozyme-strip for New Bunyavirus detection Was prepared as described above.The paired capture antibody and detectionantibody (mouseanti New Bunyavirus-NP antibodies) with different binding sites of New Bunyavirus-NP were generated in our previous work(Yu et al., 2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.11．Nanozyme-strip test ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The MNP probe in $5 \\%$ BSA-PBS solution was diluted to $1 \\%$ BSAPBS With PBS $\\mathrm { \\langle p H ~ } 7 . 0 \\rangle$ .Then ${ 8 \\mu \\mathrm { L } }$ of MNP probe and ${ 8 0 \\mu \\mathrm { L } }$ of samples diluted in the reaction buffer ( $5 0 ~ \\mathrm { m M }$ Tris-HCl, $\\mathrm { p H } ~ 8 . 0$ $1 5 0 ~ \\mathrm { m M }$ NaCl, $1 \\%$ NP40 $( \\boldsymbol { \\mathsf { v } } / \\boldsymbol { \\mathsf { v } } )$ ， $1 \\%$ BSA $\\mathrm { ( w / v ) } .$ ）were mixed in an Eppendorf(EP) tube.The strip was inserted vertically into the EP tube for $1 5 \\mathrm { m i n }$ ,then taken out and put into nanozyme substrates buffer (DAB and $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ )(Sigma) inanother tube for7min.Then,the strip was quickly washed with deionized water to stop the reaction.The color intensity of the test line was estimated by the naked-eye.The visual limit of detection(LOD）of the assaywas defined here as the minimum EBOV-GP,pseudo-EBOV,New Bunyavirus-NP or New Bunyavirus concentration forming the color density of the test line significantly stronger than that in the assay of the negative control sample(meaning $100 \\%$ agreement between result assessments of three repetitions of the same test by five observers). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.12.Enzyme-linked immunosorbent assay(ELISA) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The capture antibody of EBOV-GP (clone 1H3, $5 \\mu \\mathrm { g } / \\mathrm { m L } ,$ was coated onto 96-well polystyrene microwell plates (Corning Inc., USA) in coating buffer and blocked with blocking solution(Wantai, Beijing,China). The coated plates were incubated with the gradient concentrations of EBOV-GP or pseudo-EBOV samples diluted in reaction buffer ( $5 \\%$ BSA in PBS) (each run in triplicate wells). Then,HPR-conjugated detection antibody 4G7 (labeled by Tianjin Sungene Biotech Co.,Ltd.）was reacted.Each incubation was followed by three washes with PBST and one wash with PBS.Finally, the colorwasdeveloped byadding TMBas substrate;absorbance was measured ina microplate reader (Bio-RAD).The results were recorded at $4 5 0 \\mathrm { n m }$ ，and the detection limits for EBOV-GP or pseudo-EBOV were determined based on a cut-off value (mean of the blank control $+ 2 \\times$ standard deviation)(Song et al., 2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The ELISA method for New Bunyavirus-NP,New Bunyavirus and clinical sample assay was developed by employing paired anti New Bunyavirus-NP antibodies generated in our previous work （Yu et al., 2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.13.Ethical consideration ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to the medical research regulations of the Chinese Ministry of Health,all studies involving human samples were reviewed and approved by the ethics committee of the China CDC, which uses international guidelines to ensure confidentiality, anonymity,and informed consent.Written informed consent was provided by the patients. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Strategy for Nanozyme-strip ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To improve the sensitivity of the ICS,we generated a Nanozyme-strip method by using MNPs as a nanozyme probe in place of colloidal gold nanoparticles which are commonly used in the standard strip method.This nanozyme probe labeled with antiEBOV antibodies(Fig.1） has three functions:recognizing,separating,and visualizing EBOV. Owing to the intrinsic nanozyme activity,this probe can generate a color reaction by catalyzing the reaction with peroxide substrates (Gao et al.,2oo7),which significantly enhances the signal on the strip(Fig.1).The amplified signals are very important especially for the trace detection of EBOV.Because of the intrinsic magnetic property of the nanozyme probe,further improvement in sensitivity can be achieved by adding an immunomagnetic separation step.The Nanozyme-strip, with high sensitivity comparable to ELISA,is rapid,simple,and visible to the naked-eye without the need for any special equipment,making ita valuable diagnostic tool for EVDdetection. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Preparationof the nanozyme probe ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Nanozyme probe is a key factor for the performance of the Nanozyme-strip.It is composed of two parts: anti-EBOV antibodies and MNPs with catalytic activity (Fig.S1). First,we prepared the mouse anti-EBOV antibodies (Qiu et al.,2011). Since the GP of EBOV is the key target for EBOV detection and therapy (Sanchez et al.，1999; Yang et al.，200O)，we utilized the recombinant GP as the antigen to produce monoclonal antibodies. The clones 1H3,2G4 and 4G7,which also compose the ZMAb used to treat EVD in nonhuman primates (Qiu et al.,2012,2014),were selected as candidates.All these three antibodies exhibited high binding affinity for EBOV-GP(Fig.2A).To test whether two of these three antibodies could form a sandwich-type complex with EBOV-GP,an ELISA binding analysis was performed.We found the binding site of 1H3 was complementary to 2G4 and 4G7,while the binding sites of 2G4 and 4G7 overlap (Fig.S2),which is also confirmed by Audet et al.(2014). Therefore,we chose 1H3 as a capture antibody for EBOV detection.Based on this result,both 2G4 and 4G7 could be used as the detection antibody in sandwich ELISA analysis for EBOV detection (Fig.2B).As 4G7 exhibited higher sensitivity for EBOV-GP,we chose 4G7 as the detection antibody. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c91e224285c48f9a6c4ef20b1f2536b9921da7cc7352eae10ab47e8ac7c76ab.jpg",
+        "img_caption": [
+            "Fig withnanozectiorctibraciasaloatitisald "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We then fabricated the nanozyme probe by conjugating the anti-EBOV antibody 4G7 to MNPs.After modification,we tested the specificity of the nanozyme probe by dot blot.The results showed thatMNPswere efficiently labeled with 4G7 antibodyand the nanozyme probe could specifically recognize EBOV-GP,but not the nucleoprotein(NP）of Influenza A virus or New Bunyavirus (Fig.2C).To investigate whether MNPs still possess peroxidase-like activity after antibody modification,we employed the prepared nanozyme probe to catalyze the oxidation of $^ { 3 , 3 ^ { \\prime } }$ -diaminobenzidine (DAB), $_ { 3 , 3 ^ { \\prime } , 5 , 5 ^ { \\prime } }$ -tetramethylbenzidine(TMB)and 3-amino-9- ethylcarbazole (AEC),which are typical peroxidase chromogenic substrates and produce insoluble pigmented products.As shown in Fig.2D,the results demonstrate that the nanozyme probe still hassimilar catalytic activity in solution to unmodified MNPs(Gao et al.,2OO7).Together, these results indicate that the nanozyme probe possesses the dual functions of targeting Ebola virus and then allowing its visualization by catalyzinga color reaction with peroxidase substrates. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b1e53aa9e20b25b4c6666a50b3ae8d7275f944d1b4effe6aa78506d4c15c5f0.jpg",
+        "img_caption": [
+            "Figre for the control mouse IgG,there is no binding.(B) Employing 1H3 $( 5 ~ \\mu \\mathrm { g } / \\mathrm { m L } )$ as capture antibody,2G4 and 4G7 can be used as detection antibodies in sandwich ELISA analysis for detecting EBOV-GP $( 2 \\mu \\mathrm { g } / \\mathrm { m L } )$ .(C)Afterconjugationwith4G7,thenanomeprobecansecificallecognieEOv-G,butnotothervirusproteins(nucleoroteinof if can catalyze the reaction of the substrates DAB,TMB and AEC to form colored products. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The efficiency of signal improvements by the nanozyme probe in the Nanozyme-strip directly depends on the type of the peroxidase substrate used.To test which one is more suitable for strip-based detection，EBOV-GP was detected using the Nanozyme-strip with DAB,TMB or AEC as substrate.After catalysis by the nanozyme probe,the oxidation of DAB as substrate could amplify the signal of the strip significantly,while the signal using TMB was poorly resolved,and the signal of strips was not amplified when using AEC (Fig. S3A). The intensity response of the corresponding detection lines on strips for each substrate was also compared,and the results confirmed that DAB could significantly improve the detection sensitivity of the Nanozyme-strip (Fig. S3B). Thus,we chose DAB as the substrate for further analysis of the Nanozyme-strip. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To explore the feasibility of the Nanozyme-strip method for detecting EBOV,we employed this method to detect EBOV-GP.As shown in Fig.S4A,before adding the DAB substrate,it was difficult to distinguish $1 ~ \\mathrm { { n g / m L } }$ ofEBOV-GP from the blank with the nakedeye.However,after adding the substrate,the difference between the blank and the $1 ~ \\mathrm { { n g / m L } }$ sample was evident,and even $0 . 1 ~ \\mathrm { { n g / m L } }$ is faintly visible (Fig.3A).The intensities of the test lines on the strips with and without substrates were quantified and ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.Detecting EBOV-GP ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "analyzed (Fig.S4B).The results further confirmed that the catalytic properties of the nanozyme probe can significantly improve the visual detection limit for EBOV-GP. To directly compare the detection sensitivity of the Nanozyme-strip with the standard strip method,we developed a colloidal gold-based strip method by using the same paired antibodies,1H3 and 4G7,but replacing the MNPs with colloidal gold.The results demonstrate that the detection limit for the standard strip with the naked-eye is $1 0 0 ~ \\mathrm { { n g / m L } }$ (Fig.3B). These results show that the detection sensitivityof the Nanozyme-strip isat least 1oO-fold higher than the standard strip method. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ELISA was also compared with the Nanozyme-strip that we have developed.Both of them are based on the formation of a sandwich immune-complex (1H3-EBOV-4G7).The results show that ELISA can detect as low as $0 . 1 ~ \\mathrm { { n g / m L } }$ EBOV-GP (Fig.3C), suggesting that the detection sensitivity of the Nanozyme-strip is comparable with the ELISA analytical technique. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To investigate the possibility that the complex mixture of components present in human serum might interfere with detection，we tested the ability of the Nanozyme-strip to detect EBOV-GP present in serum.As shown in Fig.S5,the visual detection limit for EBOV-GP was not affected by the substitution of reaction buffer for human serum.The results indicate that the Nanozyme-strip is a robust method for specific detection of EBOVGP. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.Detecting pseudo-EBOV ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The final aim of this work is to provide an effective test for EBOV infection in epidemic areas.Firstly,we fabricated pseudoEBOV by constructing GP from EBOV to envelope protein(Env) defective HIV virus.To mimic the actual blood samples of the infected patients,we added pseudo-EBOV into serum.Influenza A virus,which can cause similar symptoms to EVD,was selected to evaluate the possibility of cross reaction with our approach. Influenza A virus at a concentration of $1 \\times 1 0 ^ { 5 } \\mathrm { p f u / m L }$ was added to all the pseudo-EBOV samples.As shown in Fig.4A, there Was no cross reaction with influenza Avirus and the visual detection limit forEBOV using the Nanozyme-strip was $2 4 0 \\mathrm { p f u / m L }$ The colloidal gold strip was also used to detect pseudo-EBOV,and the detection limit by the naked-eye was 1O-fold higher.We also performed ELISA analysis for pseudo EBOV detection.As with the Nanozymestrip,the detection limit of ELISA for EBOV was 24O pfu/mL.Based on these results,we demonstrate that the Nanozyme-strip can be used to detect EBOV with a comparable detection sensitivity to ELISA.The results of the method we have developed are also comparable with other established antibody-based immunoassays (Daaboul et al., 2014; Ksiazek et al., 1992; Towner et al., 2004), but without the need for specialist facilities or equipment.The specificityand sensitivity in pseudo-EBOV detection indicates that the Nanozyme-strip provides reliable detection for EBOV. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/661e75eb4d5d2d5eb7827606239a7f9bcf2e2884803fa1e19d92b0790a516e5c.jpg",
+        "img_caption": [
+            "Fig.3.(A)Nanozyme-strip,(B)standard colloidal gold stripand(C)ELISA method for EBOV-GP detection.The asterisk $( ^ { * } )$ indicates the limit of visual detection of the test line in strips. # $\\mathrm { O D } _ { 4 5 0 \\mathrm { n m } } >$ cut-off value. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/860c46509d4882a1d494a27d7abd59169209a3201c791fd1b88c2eb7a63a319e.jpg",
+        "img_caption": [
+            "Fig.4.(A)Nanomestrip,(B)coldalgoldstriand(C)ELSmethdsfortheetectionofeudoEBOVinumansuinthepresecef $1 \\times 1 0 ^ { 5 } \\mathrm { p f u / m L }$ influenza A virus. The asterisk $( ^ { * } )$ indicates the limit of visual detection. $^ { \\# } \\mathrm { O D } _ { 4 5 0 \\mathrm { n m } } >$ cut-off value. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5.Diagnosisaccuracy forclinical infectiousviral disease ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Given the current lack of clinical EVD samples in China,we evaluated the diagnostic accuracy of the Nanozyme-strip test for infectious viral disease by detecting New Bunya hemorrhagic fever virus in clinical samples.Employing mouse anti New BunyavirusNP（nucleoprotein） antibodies,we fabricated a nanozyme probe for New Bunyavirus and developed a Nanozyme-strip method for New Bunyavirus detection. Similar to the results of EBOV detection,the visual detection limit for New Bunyavirus-NP(Fig.S6)and New Bunyavirus（Fig. S7）were all significantly improved compared with the colloidal gold strip method. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Forclinical New Bunyavirus disease samples,the standard tests were performed by RT-PCR,and 2O positive samples and 31 negative samples were employed.As shown in Table 1, $60 \\%$ (12/20) ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/29c94e407fdf1d45c360c60f3aa118b1adc1460fa2b5ee652e05bd58dc458eec.jpg",
+        "table_caption": [
+            "Table 1 Comparison of test performance of Nanozyme-strip and ELISA methods for clinical New Bunyavirus disease. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Assay</td><td colspan=\"2\">RT-PCR (standard test)</td></tr><tr><td>Positive (20 cases)</td><td>Negative (31 cases)</td></tr><tr><td>Nanozyme-strip</td><td>12/20</td><td>0/31</td></tr><tr><td>ELISA</td><td>8/20</td><td>0/31</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "of positive clinical samples were detected as positive by the Nanozyme-strip method,and $4 0 \\%$ (8/20) positive samples could be detected by ELISA.None of the negative samples were detected as positive by the Nanozyem-strip or ELISA methods.These results demonstrate that the diagnosis accuracy of the Nanozyme-strip for clinical infectious virus samples is comparable to ELISA,which further confirms that the Nanozyme-strip method is a reliable test for infectious virus detection. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In recent years,efforts have been made to improve the sensitivity of diagnostic strips (Posthuma-Trumpie et al.,2oo9).Various nanomaterials with specific color,light,electrical or magnetic signals have been developed to trace biological responses and enhance signals,but the visual signal amplification process can be complicatedly and costly (Gao et al., 2014;Yen et al.,2015);examples include loading horseradish peroxidase (HRP) conjugated antibody onto gold nanoparticles to catalyze the reaction of peroxidase substrates producing colored precipitates (Han et al., 2007；Parolo et al.，2O13)，or to catalyze a chemiluminescent reaction' (Mirasoli et al., 2012a) (Mirasoli et al., 2012b). Similarly, colloidal gold probe-based silver staining enhancement strips have been developed for detection of abrin-a（Yang et al.，2O11）or cardiactroponin I(cTnl) (Cho et al.,2O1O). These strategies typically provide an improvement of 5- to 1oo-fold in sensitivity compared to the original colloidal gold strip.However, to conjugate HRP with antibody requires an additional process and increases the cost,while silver staining reagents are unstable and difficult to manipulate during the reactions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { F e } _ { 3 } 0 _ { 4 }$ magnetic nanoparticles are the first reported nanozyme and the peroxidase properties of them have been well documented (Gao et al.,2007; Wei and Wang,2013). They can be easily synthesized and modified (Smith et al.,2O11),and have been extensively used in biosensor(Srinivasan et al.,2oo9;Wang et al., 2011； Yang et al.，2009). By employing $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ magnetic nanoparticles as nanozyme probe in place of colloidal gold,we developed the Nanozyme-strip method for EBOV detection. The nanozyme probe,conjugated with anti-EBOV antibodies,has three functions:recognition,separation,and visualization of EBOV on the strip.Due to its intrinsic peroxidase-like activity, the nanozyme probe can catalyze the reaction of peroxidase substrates (such as DAB) to produce colored products,which can significantly amplify the signal. Moreover, the magnetic properties of the nanozyme probe provides a method for rapid separation and enrichment of the component of interest within the samples.Simply byimmunomagnetic separation,the sensitivity of the Nanozymestrip can be further enhanced by 1O-fold (Fig.S8). This is very important for the local detection of EBOV with high-sensitivity, especially in rural areas of West Africa where centrifugation equipment isabsent. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When the symptom of EBOV infected patients appeared,the viremia level would up to $7 0 0 0 \\mathrm { p f u / m L }$ ；during the symptomatic stageof Ebola hemorrhagic fever,theviremia level can exceed $1 0 ^ { 6 } \\mathrm { p f u / m L }$ ，with the peak levels up to $1 0 ^ { 8 }$ or $1 0 ^ { 9 } \\mathrm { p f u / m L }$ (Boumandouki et al., 2005;Lucht et al., 2007; Towner et al., 2004). Thus,we demonstrate that the sensitivity of Nanozyme-strip $( 2 4 0 \\mathrm { p f u / m L } )$ is sufficiently sensitive to detect Ebola infected patients before the symptom appears. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Nanozyme-strip described here isa robust and universal method for the detection of biological molecules.By changing the paired antibodies,we can detect other infectious viruses,such as New Bunyavirus,and the diagnostic accuracy of the Nanozymestrip for clinical infectious virus disease samples is comparable with ELISA.These data suggest that the Nanozyme-strip test, with high sensitivity and simplicity,can be used as a diagnosis platform for visual detection of biomolecules or chemical contaminants. It thus has potential for a wide range of applications,including biomedical diagnosis,environmental monitoring and bioterrorism screening. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The authors thank Prof. Sarah Perrett and Minmin Liang for editing this manuscript and Dr.Lizeng Gao for assistance with the preparation of MNPs.This work was supported in part by grants from the National Science and Technology Major Project (2013ZX10004102， 2012ZX10002009-016)， StrategicPriority Research Program oftheChineseAcademyof Sciences (XDAO9o3o3o6)，National Natural Science Foundation of China (31270908，81201698)， 973 Program （2011CB933503, 2012CB934003)，the Knowledge Innovation Program of the Chinese Academy of Sciences(CXJj-14-M24) and the special project of Ebola virus research from the president foundation of Chinese Academy of Sciences. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Appendix A. Supplementary material ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data associated with this article can be found in the online version at http://dx.doi.org/10.1016/j.bios.2015.05.025. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Audet,J., Wong, G., Wang, H., Lu, G., Gao, G.F., Kobinger, G., Qiu, X.,2014. Molecular characterization of the monoclonal antibodies composing ZMAb: a protective cocktail against Ebola virus. Sci. Rep. 4, 6881.   \nBishop, B.M., 2015. Potential and emerging treatment options for Ebola virus disease. Ann. Pharmacother. 49 (2), 196-206.   \nBoumandouki, P., Formenty, P., Epelboin, A., Campbell, P., Atsangandoko,C., Allarangar, Y., Leroy, E.M., Kone, M.L., Molamou, A., Dinga-Longa, O., Salemo, A., Kounkou, R.Y., Mombouli, V., Ibara, J.R., Gaturuku, P., Nkunku, S., Lucht, A, Feldmann, H., 2O05. Clinical management of patients and deceased during the Ebola outbreak from October to December 2003 in Republic of Congo. Bull.Soc. Pathol. Exot. 98 (3), 218-223.   \nButler,D.,2014. Ebola experts seek to expand testing. Nature 516 (7530), 154-155.   \nCho, LH.,Seo, S.M.,Paek, E.H., Paek, S.H.,2010. Immunogold-silver staining-on-achip biosensor based on cross-flow chromatography's.J. Chromatogr. B 878 (2), 271-277.   \nDaaboul, G.G.,Lopez,C.A., Chinnala,J., Goldberg, B.B., Connor,J.H., Unlu, M.S., 2014. Digital sensing and sizing of vesicular stomatitis virus pseudotypes in complex media: a model for ebola and marburg detection. ACs Nano 8 (6), 6047-6055.   \nFan,K.,Cao, C., Pan, Y., Lu,D., Yang, D., Feng, J., Song, L., Liang, M., Yan, X., 2012. Magnetoferritin nanoparticles for targeting and visualizing tumour tissues. Nat. Nanotechnol. 7 (7), 459-464.   \nGao, J.,Lu, G., Qi,J.,Li, Y., Wu, Y., Deng, Y., Geng, H., Li, H., Wang, Q., Xiao, H., Tan, W, Yan, J., Gao, G.F.,2013. Structure of the fusion core and inhibition of fusion by a heptad repeat peptide derived from the S protein of Middle East respiratory syndrome coronavirus. J. Virol. 87 (24), 13134-13140.   \nGao,L., Zhuang, J., Nie,L, Zhang, J, Zhang, Y., Gu, N., Wang, T., Feng, J., Yang, D., Perrett, S., Yan, X., 2Oo7. Intrinsic peroxidase-like activity of ferromagnetic nanoparticles. Nat. Nanotechnol. 2 (9), 577-583.   \nGao, X.F., Xu, L.P., Zhou, S.F., Liu, G.D., Zhang, X.J., 2014. Recent advances in nanoparticles-based Lateral flow biosensors. Am. J. Biomed. Sci. 6 (1), 41-57.   \nHan,S.M., Cho,J.H,Cho,L.H.,Paek,E.H,Oh, H.B.,Kim, B.S.,Ryu, C.,Lee,K,Kim, Y.K, Paek, S.H., 2oo7. Plastic enzyme-linked immunosorbent assays (ELISA)-on-achip biosensor for botulinum neurotoxin A. Anal. Chim. Acta. 587(1),1-8.   \nHuang, X., Zhuang, J., Chen, D., Liu, H., Tang, F., Yan, X., Meng, X., Zhang, L., Ren, J., 2009. General strategy for designing functionalized magnetic microspheres for different bioapplications.Langmuir 25 (19), 11657-11663.   \nJin, J., 2014. JAMA patient page. Ebola virus disease. J. Am. Med. Assoc. 312 (18), 1942.   \nKsiazek, T.G.,Rollin,PE., Jahrling, P.B., Johnson,E.,Dalgard,D.W, Peters, C.J., 1992. Enzyme immunosorbent assay for Ebola virus antigens in tissues of infected primates. J. Clin. Microbiol. 30 (4), 947-950.   \nLi, M., Gao,F., Mascola, JR., Stamatatos,L., Polonis,V.R., Koutsoukos,M., Voss,G., Goepfert, P., Gilbert, P., Greene, K.M., Bilska, M, Kothe, D.L., Salazar-Gonzalez, J. F., Wei, X., Decker, J.M., Hahn, B.H., Montefiori, D.C., 2005. Human immunodeficiency virus type 1 env clones from acute and early subtype B infections for standardized assessments of vaccine-elicited neutralizing antibodies. J. Virol. 79(16), 10108-10125.   \nLiang,M., Fan, K.,Pan, Y., Jiang, H., Wang,F., Yang, D., Lu,D., Feng,J., Zhao,J., Yang,L. Yan, X., 2013. $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ magnetic nanoparticle peroxidase mimetic-based colorimetric assay for the rapid detection of organophosphorus pesticide and nerve agent. Anal. Chem. 85 (1), 308-312.   \nLucht,A., Formenty,P.,Feldmann, H., Gotz, M., Leroy,E.,Bataboukila,P., Grolla, A., Feldmann, F., Wittmann, T., Campbell, P., Atsangandoko, C., Boumandoki, P., Finke,E.J., Miethe, P., Becker, S., Grunow, R., 2007. Development of an immunofiltration-based antigen-detection assay for rapid diagnosis of Ebola virus infection. J. Infect. Dis.196 (Suppl 2), S184-S192.   \nMirasoli, M., Buragina, A.,Dolci, L.S., Guardigli, M., Simoni, P., Montoya, A., Maiolini, E., Giroti, S.,Roda, A., 2012a. Development of a chemiluminescence-based quantitative lateral flow immunoassay for on-field detection of 2,4,6-trinitrotoluene. Anal. Chim. Acta. 721, 167-172.   \nMirasoli, M., Buragina, A., Dolci,L.S., Simoni, P., Anfosi, L., Giraudi, G., Roda, A., 2012b. Chemiluminescence-based biosensor for fumonisins quantitative detection in maize samples. Biosens. Bioelectron.32 (1), 283-287.   \nParagas, J., Geisbert, T.W., 2oo6. Development of treatment strategies to combat Ebola and Marburg viruses. Expert Rev. Anti Infect. Ther. 4(1), 67-76.   \nParolo, C., de la Escosura-Muniz, A.,Merkoci, A., 2013. Enhanced lateral flow immunoassay using gold nanoparticles loaded with enzymes. Biosens. Bioelectron. 40 (1), 412-416.   \nPosthuma-Trumpie, G.A., Korf, J., van Amerongen, A. 20o9. Lateral flow (immuno) assay: its strengths, weaknesses, opportunities and threats.A literature survey. Anai. Bioanal. Chem. 393 (2), 569-582.   \nQiu, X., Alimonti, J.B., Melito,P.L.,Fernando,L., Stroher, U., Jones,S.M.,2011.Characterization of Zaire ebolavirus_glycoprotein-specific monoclonal antibodies. Clin. Immunol. 141 (2), 218-227.   \nQiu, X., Audet, J., Wong, G., Pillet, S., Bello, A., Cabral, T., Strong, JE., Plummer,F., Corbett, X., Alimonti, J.B., Kobinger, G.P., 2012. Successful treatment of ebola virus-infected cynomolgus macaques with monoclonal antibodies. Sci. Transl. Med.4 (138).   \nQiu,X., Wong, G., Audet, J., Bello, A., Fernando, L., Alimonti, J.B., Fausther-Bovendo, H.,Wei, H., Aviles, J.,Hiatt,E., Johnson, A.,Morton, J., Swope,K., Bohorov, O., Bohorova, N., Goodman, C., Kim, D., Pauly, M.H., Velasco,J., Pettitt,J., Olinger, G. G.,Whaley, K., Xu, B., Strong, J.E., Zeitlin,L., Kobinger, G.P., 2014. Reversion of advanced Ebola virus disease in nonhuman primates with ZMapp. Nature 514 (7520), 47-53.   \nSanchez, A., Ksiazek, T.G.,Rollin,P.E.,Miranda,M.E.,Trappier,S.G., Khan, A.S.,Peters, C.J., Nichol, S.T., 1999. Detection and molecular characterization of Ebola viruses causing disease in human and nonhuman primates.J. Infect. Dis. 179 (Suppl 1), S164-S169.   \nShyu, R.H., Shyu, H.F., Liu, H.W., Tang, S.S., 20O2. Colloidal gold-based immunochromatographic assay for detection of ricin. Toxicon 40 (3), 255-258.   \nSmith, J.E., Sapsford, K.E., Tan,W., Ligler, F.S.,2011. Optimization of antibody-conjugated magnetic nanoparticles for target preconcentration and immunoassays. Anal. Biochem. 410 (1),124-132.   \nSong, J.M., Kim, Y.C.,O.,E.J., Compans, R.W., Prausnitz,M.R.,Kang, S.M., 2O12. DNA Vaccination in the Skin Using Microneedles Improves Protection Against Influenza. Mol. Ther. 20 (7), 1472-1480.   \nSrinivasan, B., Li, Y., Jing, Y., Xu, Y., Yao, X., Xing, C., Wang, J.P., 2OO9. A detection system based on giant magnetoresistive sensors and high-moment magnetic nanoparticles demonstrates zeptomole sensitivity: potential for personalized medicine. Angew. Chem. Int. Ed. Engl. 48(15), 2764-2767.   \nTowner,J.S., Rollin,P.E., Bausch,D.G., Sanchez,A.,Crary, S.M., Vincent,M., Lee,W.F., Spiropoulou, C.F.,Ksiazek,T.G., Lukwiya, M., Kaducu, F.,Downing, R., Nichol, S.., 2004.Rapid diagnosis of Ebola hemorrhagic fever by reverse transcription-PCR in an outbreak setting and assessment of patient viral load as a predictor of outcome. J. Virol. 78 (8), 4330-4341.   \nVogel,G., 2014. Infectious Diseases. Testing new Ebola tests. Science 345 (6204), 1549-1550.   \nWang, Y., Dostalek, J., Knoll, W., 2011. Magnetic nanoparticle-enhanced biosensor based on grating-coupled surface plasmon resonance. Anal. Chem. 83 (16), 6202-6207.   \nWei,H., Wang,E., 2013.Nanomaterials with enzyme-like characteristics (nanozymes): next-generation artificial enzymes. Chem. Soc. Rev. 42(14), 6060-6093.   \nWHO,2015a. Ebola Situation Report. (http://www.who.int/csr/disease/ebola/situa tion-reports/en/>.Accessed (14.04.2015).   \nWHO,2O15b.First Antigen Rapid Test for Ebola through Emergency Assessment andEligible for Procurement. (http://www.who.int/medicines/ebola-treat ment/1st_antigen_RT_Ebola/en/).Accessed (14.04.2015).   \nYang,L., Ren, X., Tang, F., Zhang,L., 2oo9. A practical glucose biosensor based on Fe (3)0(4) nanoparticles and chitosan/nafion composite film. Biosens. Bioelectron. 25 (4), 889-895.   \nYang,W., Li, X.B., Liu, G.W., Zhang, B.B., Zhang, Y., Kong, T., Tang, J.J., Li, D.N., Wang, Z., 2011. A colloidal gold probe-based silver enhancement immunochromatographic assay for the rapid detection of abrin-a. Biosens. Bioelectron. 26 (8), 3710-3713.   \nYang, Z.Y., Duckers, H.J., Sullivan, N.J., Sanchez, A., Nabel, E.G., Nabel, G.J., 2000. Identification of the Ebola virus glycoprotein as the main viral determinant of vascular cell cytotoxicity and injury. Nat. Med. 6 (8), 886-889.   \nYen, C.W., de Puig, H., Tam, J.O., Gomez-Marquez, J., Bosch,I., Hamad-Schifferli, K. Gehrke, L., 2015. Multicolored silver nanoparticles for multiplexed disease diagnostics: distinguishing dengue, yellow fever,and Ebola viruses. Lab Chip 15 (7), 1638-1641.   \nYu,L.,Zhang, L., Sun,L,Lu,J., Wu, W., Li, C.,Zhang, Q., Zhang, F., Jin, C.,Wang, X., Bi, Z.,Li,D., Liang, M., 2012. Critical epitopes in the nucleocapsid protein of SFTS virus recognized by a panel of SFTS patients derived human monoclonal antibodies. PLoS One 7 (6), e38291.   \nYu, X.J., Liang,M.F., Zhang, S.Y., Liu, Y., Li, J.D., Sun, Y.L., Zhang, L., Zhang, Q.F.,Popov, V.L., Li, C., Qu,J.,Li, Q., Zhang, Y.P.,Hai, R., Wu,W., Wang, Q., Zhan, F.X., Wang, X. J., Kan, B., Wang, S.W., Wan, K.L., Jing, H.Q.,Lu, J.X., Yin, W.W., Zhou, H., Guan, X. H., Liu, J.F., Bi, Z.Q., Liu, G.H., Ren, J., Wang, H., Zhao, Z., Song, J.D., He, J.R., Wan, T., Zhang,J.S., Fu, X.P., Sun,L.N.,Dong, X.P.,Feng, Z.J., Yang, W.Z.,Hong,T., Zhang, Y.,Walker, D.H.,Wang, Y., Li, D.X., 2011. Fever with thrombocytopenia associated with a novel bunyavirus in China. N. Engl. J. Med. 364 (16), 1523-1532.   \nZhang, W., Qi,J., Shi, Y., Li, Q., Gao, F., Sun, Y., Lu, X.,Lu, Q., Vavricka, C.J.,Liu, D., Yan, J., Gao, G.F., 2010. Crystal structure of the swine-origin A (H1N1)-2009 influenza A virus hemagglutinin (HA) reveals similar antigenicity to that of the 1918 pandemic virus. Protein Cell 1 (5), 459-467.   \nZhuang, J., Fan, K., Gao, L., Lu, D., Feng, J., Yang, D., Gu, N., Zhang, Y., Liang, M., Yan, X., 2012. Ex vivo detection of iron oxide magnetic nanoparticles in mice using their intrinsic peroxidase-mimicking activity. Mol. Pharm. 9(7), 1983-1989. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

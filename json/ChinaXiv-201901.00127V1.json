@@ -1,0 +1,480 @@
+[
+    {
+        "type": "text",
+        "text": "气相色谱法对狂犬病疫苗灭活工艺中β-丙内酯研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高彦 杜晶晶 王斌 刘琦 申志强\\*（华兰生物工程股份有限公司研发中心新乡453000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要目的：基于GC-FID法，对狂犬病疫苗生产过程中采用的 $\\beta$ -丙内酯灭活剂进行了含量及稳定性研究。方法：气相色谱条件：采用AgilentDB-624( $3 0 \\mathrm { m } { \\times } 0 . 5 3 0$ $\\mathrm { m m } { \\times } 3 . 0 0 \\mu \\mathrm { m } \\cdot$ )毛细管柱；升温程序：初始温度为 $8 0 ~ \\mathrm { ^ { \\circ } C }$ ，保持 $1 \\mathrm { m i n }$ ，以 $2 0 \\ \\mathrm { { ^ circ C / m i n } }$ 的速率升温至 $2 0 0 \\mathrm { ~ \\textdegree ~ }$ ，保持 $3 \\mathrm { m i n }$ ；色谱柱流量： $3 ~ \\mathrm { m L / m i n }$ ；检测器温度： $2 5 0 \\mathrm { ~ \\textdegree C }$ ：进样口温度： $1 5 0 \\ \\mathrm { ^ \\circ C }$ ；载气：氮气，线速度： $2 5 \\mathrm { c m / s e c }$ ；进样量： $1 ~ \\mu \\mathrm { L }$ ，分流比为 2:1，进样方式：手动进样。结果：以乙腈作为稀释剂，BPL 在 $1 { : } 1 0 0 { \\sim } 1 { : } 3 2 0 0 0$ 范围内线性关系良好（ $\\langle \\mathsf { R } ^ { 2 } { \\geq } 0 . 9 9 9$ ）。在1:200、1:1000、1:8000三个浓度水平下，加标回收率在 $9 5 . 0 4 \\% \\sim 1 1 6 . 8 6 \\%$ 之间，相对标准偏差（RSD）为 $2 . 6 \\% { \\sim } 3 . 2 \\%$ ，检测限为 $0 . 1 1 2 ~ \\mu \\mathrm { g / m L }$ 。结论：该方法简便、专属性强、稳定且在室温条件下操作，大大降低了对试验条件和技术操作的要求，能够满足灭活狂犬病病毒工艺中对 BPL 检测的需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 狂犬病疫苗 $\\beta$ -丙内酯气相色谱",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "狂犬病是一种由狂犬病病毒（RabiesVirus）引起的人兽共患病[1]。狂犬病病毒主要通过破损的皮肤或黏膜侵入人体，其最大特点之一，就是具有高度的嗜神经性。一旦发病，死亡率几乎达 $100 \\%$ 。全球范围内每年因狂犬病导致的死亡超过 55000 例，我国位居全球第二[2.3]。鉴于我国是狂犬病高发国家，每年用于狂犬病防疫的费用超过100亿元，注射狂犬病毒疫苗的数量达到 $1 2 0 0 { \\sim } 1 5 0 0$ 万支，使得我国成为全世界狂犬疫苗消费的最大市场。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据相关指导原则要求[4-6]，为提高生物制品的安全性，在制品生产工艺中要具有一定的去除/灭活部分病毒方法。在灭活疫苗制备技术中，常用的病毒灭活剂包括甲醛、福尔马林与 $\\beta \\cdot$ -丙内酯（ $\\beta \\mathrm { \\cdot }$ propiolactone，BPL）。其中， ${ \\beta }$ -丙内酯（ $\\beta$ -propiolactone,BPL）又称3-羟基丙酸内酯，是目前国内预防狂犬病的人用狂犬病纯化疫苗的优良灭活试剂。因不直接作用于蛋白质，主要通过与核酸分子中的嘌呤碱基反应破坏核酸的结构来达到灭活目的，因此能使灭活的病毒保持良好的免疫原性[7,8]。目前，有关BPL 的检测方法有液相色谱法[9,10]、气相色谱法[11-15]。由于BPL紫外吸收较弱，所以致使HPLC-UV法的应用受到一定的限制。相比之下，气相色谱法虽然具有较多优势，但在前处理过程中大多采用水溶液制备BPL 对照品溶液，而据有关资料显示[16]，BPL在水溶液中极不稳定，易水解，从而为实现 $\\beta \\cdot$ -丙内酯的准确测定带来困难。水解方程式如下所示：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/451940e629e3ce6cc834e622cc78869b9d6176215443019c97f4aff6c73b9226.jpg",
+        "img_caption": [
+            "图1 $\\beta$ -丙内酯水解图",
+            "Figure 1 $\\beta$ -propiolactone hydrolysis diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用乙腈作为对照品溶液的溶剂，建立了人用狂犬病毒浓缩液中BPL含量检测方法。该方法在室温条件下进行操作，大大降低了对试验条件和操作技术的要求。此外，本文还通过模拟病毒工艺中BPL的使用操作，绘制了BPL 添加到病毒中间体之前的降解曲线，从而为确定BPL在病毒灭活工艺中适宜的工作浓度及添加时限提供数据参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 主要仪器设备",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气相色谱仪：配有氢火焰离子化检测器（型号：Agilent7890B）；电子天平（型号：常熟市双杰JJ1000）；涡旋混匀器（型号：SilentShakeHYQ-2121A）；Agilent DB-624毛细管柱（规格： $3 0 \\mathrm { m } { \\times } 0 . 5 3 0 \\mathrm { m m } { \\times } 3 . 0 0 \\mu \\mathrm { m }$ ）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试剂与标准品",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "乙腈（色谱级）购自德国Merck公司；无水磷酸二氢钠（分析级）、无水磷酸氢二钠（分析级）均购自上海实验试剂有限公司；氯化钠（分析级）购自天津科密欧化学试剂有限公司；BPL标准品购自德国 Serva公司（含量： $1 . 1 2 3 \\ \\mathrm { g / m L } \\backslash$ ）供试品A由本公司自制（批号:20180723）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 气相色谱条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "初始温度： $8 0 ~ \\mathrm { ^ { \\circ } C }$ ，保持 $1 \\mathrm { m i n }$ ，之后，以 $2 0 \\ \\mathrm { { ^ circ C / m i n } }$ 的速率升温至 $2 0 0 \\mathrm { ~ \\textdegree ~ }$ ，保持 $3 \\mathrm { m i n }$ ；色谱柱流量： $3 ~ \\mathrm { m L / m i n }$ ；检测器温度： $2 5 0 \\mathrm { ~ \\textdegree C }$ ；进样口温度： $1 5 0 \\ \\mathrm { ^ \\circ C }$ 载气：氮气，线速度： $2 5 \\mathrm { c m / s e c }$ ；进样量： $1 \\mu \\mathrm { L }$ ，分流比为2:1，进样方式：手动进样。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 溶液配制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1标准品处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1.1 BPL 标准储备液",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "精密移取 $1 0 0 ~ \\mu \\mathrm { L }$ BPL于离心管中，向其中加入 $9 0 0 ~ \\mu \\mathrm { L }$ 乙腈，混匀，即得BPL 标准储备液（稀释比例：1:10），并于 $2 { \\sim } 8 ^ { \\circ } \\mathrm { C }$ 冰箱中保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1.2 BPL 标准工作液",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "精密移取一定量上述BPL 标准储备液，用乙晴将其梯度稀释为1:100、1:200、1:500、1:1000、1:2000、1:4000、1:8000、1:16000、1:32000一系列标准溶液，并于 $2 { \\sim } 8 ^ { \\circ } \\mathrm { C }$ 冰箱中保存，备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 磷酸盐缓冲溶液（ $\\mathrm { \\ p H } = 7 . 6 \\dot { }$ ）",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "精密称取 $0 . 3 1 1 9 \\ \\mathrm { g }$ 磷酸二氢钠、 $2 . 4 7 0 1 \\ \\mathrm { g }$ 磷酸氢二钠、 $8 . 1 8 1 6 \\mathrm { g } \\mathrm { N a C l }$ 于烧杯中，加适量超纯水充分溶解后定容至 $1 \\mathrm { L }$ 。最后，用NaOH或HCl调节 $\\mathrm { p H } { = } 7 . 6$ 待用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 乙腈最佳添加量确定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因 BPL在水溶液中极不稳定，所以以PBS:乙腈 $\\mathrel { \\mathop : } = 1 { : } 1$ 为稀释起点，结合实际情况，稀释比例最终设为：1:1、1:10、1:20、1:40、1:80，每个梯度平行测定 2次。之后，加入一定量的BPL标准储备液，混匀后即得不同比例乙腈处理下的BPL水溶性样品，最后立即经气相色谱上机测定。通过对比观察各梯度下的响应值，以确定乙腈的最佳添加量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 方法学评价",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.2.1 专属性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "溶剂乙晴作为溶液a，用乙腈配制的1:2000的BPL标准液作为溶液b，含已知浓度BPL的样品溶液作为溶液c，分别进行上机检测，以确定其保留时间和分",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "离度，分离度应大于1.5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.2.2 线性关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取实验1.4.1配制的1:100、1:200、1:500、1:1000、1:2000、1:4000、1:8000、1:16000、1:32000 的一系列BPL标准溶液，在1.3所示的色谱条件下进行上机检测。以峰面积（A）为纵坐标，质量浓度（C， $\\mathrm { m g / m L }$ ）为横坐标绘制标准工作曲线，计算出对应的线性回归方程及相关系数，要求相关系数 $( \\mathbb { R } ^ { 2 } )$ 不小于0.99。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.2.3检出限和定量限 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "精密量取一定量的1:32000 的BPL标准溶液逐步稀释并分别进样，调整检测灵敏度，按照信噪比为3：1确定BPL的检测限，按照信噪比为10:1确定BPL的定量限。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.2.4 准确度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以已知 BPL 浓度的样品为研究对象，在1:200、1:1000、1:8000 三个不同浓度水平下进行加标回收实验，每个添加水平平行测定3次（ $\\scriptstyle \\mathtt { n } = 3$ ）。计算各浓度水平下的加标回收率，要求回收率在 $8 0 \\% \\sim 1 2 0 \\%$ 之间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.2.5 精密度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "配制1:2000的BPL标准溶液重复进样6次（ $\\scriptstyle \\mathbf { n = } 6$ ），计算此条件下峰面积和保留时间的相对标准偏差（RSD），要求 $R \\mathrm { S D } { \\le } 3 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.2.6 耐用性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "室温条件下，取1:4000 的BPL标准溶液分别在 $0 \\mathrm { m i n }$ 、 $4 0 \\mathrm { m i n }$ 、 $1 2 0 \\mathrm { m i n }$ 、$1 8 0 \\mathrm { m i n }$ 、 $2 4 0 \\mathrm { m i n }$ 及 $3 6 0 \\mathrm { m i n }$ 进行上机检测，考察 BPL在乙腈溶液中的稳定性。1.5.3 $2 { \\sim } 8 ^ { \\circ } \\mathrm { C }$ 时，BPL原倍和在稀释液中降解速度考察。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取 $2 { \\sim } 8 \\mathrm { ^ circ C }$ 下的供试品A和BPL 纯品在1.3 所示的色谱条件下分别于 $0 \\mathrm { m i n }$ 、15 min、 $3 0 \\mathrm { m i n }$ 、 $6 0 \\mathrm { m i n }$ 、 $9 0 \\mathrm { m i n }$ 、 $1 2 0 \\mathrm { m i n }$ 进行取样检测，以此来观察 $2 { \\sim } 8 ^ { \\circ } \\mathrm { C }$ 条件下 $\\mathbf { \\dot { \\beta } }$ -丙内酯在不同体系下的降解情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 乙晴最佳添加量确定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以乙腈稀释的BPL纯品为对照，对比了不同乙晴比例处理下的BPL水溶性样品的加标回收率（稀释比例分别为：1:1、1:10、1:20、1:40、1:80）。结果表明，随着乙晴含量的不断增加，BPL的回收率呈现先增后降的变化趋势。当PBS:乙腈 $\\scriptstyle \\mathbf { \\bar { \\rho } } = 1 : 2 0$ 时，回收率为 $9 8 . 2 \\%$ ，当PBS:乙睛 $\\scriptstyle \\mathbf { \\bar { \\rho } } = 1 : 4 0$ 时达到最大值，回收率为 $1 1 3 . 9 \\%$ （高于 $100 \\%$ ）。所以最终选择PBS：乙睛 $\\scriptstyle \\sum 1 \\colon 2 0$ 为最优稀释配比，所得结果见图2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ccf8d97e5b8b7bcf29c09c564efa1b7a0e2973ca34806efef1ec1697635ed59.jpg",
+        "img_caption": [
+            "图2不同乙腈比例下的 BPL回收率"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 方法学验证结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 专属性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/76c2a65eb9c5f1e34ab846abe9c0b4409a79502b386c3e804897bf90e00c6d0c.jpg",
+        "img_caption": [
+            "Figure 2BPL recovery rates at different acetonitrile ratios "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在1.3所示的色谱条件下，分别对溶液a、b、c进行上机检测，所得色谱图见图3。图中显示乙腈和BPL的保留时间分别为2.811min、 $5 . 1 9 7 \\mathrm { m i n }$ ，这与样品中二者的出峰时间保持很好的一致性，且分离度大于1.5，满足了本实验的色谱分离要求。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae631d7f4e2f1f12233a7c2471c3ec3924d844d3c5d417c4c6e07c55d276f09c.jpg",
+        "img_caption": [
+            "图3各溶液对应的气相色谱图",
+            "Figure 3Gas chromatogram "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（a）空白乙晴溶液 （b）1:2000BPL-乙晴标准溶液 （c）已知BPL浓度的样品溶液 (a) Blank acetonitrile(b) 1:20oo BPL-acetonitrile standard solution(c) Sample solution with known BPL concentration ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 线性关系、检出限和定量限 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以BPL峰面积（A）为纵坐标，质量浓度（C， $\\mathrm { m g / m L }$ ）为横坐标绘制的标准工作曲线见图4所示。BPL在 $0 . 0 3 5 { \\sim } 1 1 . 2 3 ~ \\mathrm { m g / m L }$ 的浓度范围内呈现良好的线性关系， $\\scriptstyle \\mathrm { R } ^ { 2 } = 0 . 9 9 9 1$ 。以信噪比为3:1确定BPL 的检测限为 $0 . 1 1 2 \\mu \\mathrm { g / m L }$ ，信噪比为10:1确定BPL 的定量限为 $0 . 5 5 0 ~ \\mu \\mathrm { g / m L }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5926c3a762ef297f48553b9e1ea61d3dec99e77df26c651b485b443bde22d68d.jpg",
+        "img_caption": [
+            "图4BPL峰面积A-质量浓度C的标准曲线图 Figure 4Standard curve of BPL (peak area A-mass concentration C) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 准确度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以已知 BPL 浓度的样品为研究对象，在1:200、1:1000、1:8000三个不同浓度水平下进行加标回收实验（ $\\scriptstyle \\cdot = 3$ ），结果见表1。从表中可知BPL在三个不同浓度水平下的加标回收率在 $9 5 . 0 4 \\% \\sim 1 1 6 . 8 6 \\%$ 之间，相对标准偏差（RSD）为$2 . 6 \\% { \\sim } 3 . 2 \\%$ ，说明了该方法准确度高，可满足相关标准和法规的定量检测要求。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/507848424a0568cbefea57f46d3959014660953c374840ee82c69d8ec7984a78.jpg",
+        "table_caption": [
+            "表1BPL在不同浓度梯度下的加标回收率",
+            "Table 1spiked recovery of BPL under different concentration gradients "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>浓度梯度</td><td>回收率（%)</td><td>RSD (%)</td></tr><tr><td>1:200（高）</td><td>116.86</td><td>2.8</td></tr><tr><td>1:1000（中）</td><td>102.57</td><td>2.6</td></tr><tr><td>1:8000（低）</td><td>95.04</td><td>3.2</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 精密度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在1.3所示的色谱条件下，取1:2000的BPL标准溶液重复进样6次（ $\\scriptstyle \\cdot = 6$ ），得出此条件下BPL保留时间的RSD 为 $0 . 0 3 2 \\%$ ，峰面积RSD为 $2 . 9 3 \\%$ ，说明了该方法精密度良好。详细结果见表2。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a1bf48c5dcd272b4fe3e4d1acc721d874d1178cef9aa85d52775a45dc6396f6.jpg",
+        "table_caption": [
+            "表2气相色谱法检测BPL精密度结果分析表",
+            "Table 2Analysis of BPL precision by gas chromatography "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>进样次数</td><td>保留时间 峰面积</td></tr><tr><td>1</td><td>5.194 1366.4</td></tr><tr><td>2</td><td>5.192 1392.5</td></tr><tr><td>3</td><td>5.193 1384.0</td></tr><tr><td>4</td><td>5.190 1404.8</td></tr><tr><td>5</td><td>5.191 1463.3</td></tr><tr><td>6</td><td>5.194 1343.4</td></tr><tr><td>RSD (%)</td><td>0.032 2.93</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.5 耐用性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，室温条件下，BPL在乙腈溶液中（1:4000）6h内能够稳定存在，RSD为 $1 . 0 7 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/61006d2ec4c686f3f0d5556587294c1f35d011abb17b19ab345cd4ae2419d146.jpg",
+        "img_caption": [
+            "图5室温条件下，BPL响应变化趋势图Figure 5Response trend of BPL at room temperature"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3 $2 { \\sim } 8 \\mathrm { ^ { \\circ } C }$ 时，不同体系下BPL降解速度考察结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以乙腈处理 BPL 纯品（BPL:乙腈 $= 1 { : } 2 0 0 0$ ）和BPL水溶性样品（PBS:乙腈$\\scriptstyle = 1 : 2 0 )$ ，分别研究了 $2 { \\sim } 8 ^ { \\circ } \\mathrm { C }$ 环境下，BPL在不同体系下在 $0 \\operatorname* { m i n } , 1 5 \\operatorname* { m i n } , 3 0 \\operatorname* { m i n } .$ $6 0 \\mathrm { m i n }$ 、 $9 0 ~ \\mathrm { m i n }$ 、 $1 2 0 \\mathrm { m i n }$ 的变化情况。结果发现在 $2 \\mathrm { h }$ 内 BPL纯品的响应总趋势虽有所降低，但变化缓慢，所以在短期处理时间内BPL能够保持所需的灭活水平。与之相似，BPL在PBS 缓冲液中的响应也下降较缓，这可能是因为BPL",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "的水解反应速率与 $\\mathsf { p H }$ 值密切相关[17]。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/688c58f3fa9e3b9a76d4385c0937659b6db7515292918f93316e3255d2f3b157.jpg",
+        "img_caption": [
+            "图6 $2 { \\sim } 8 \\mathrm { { \\overset { \\circ } { C } } }$ 时，BPL在不同体系下降解速度考察Figure 6Degradation rate ofBPL under different systems at $2 { - } 8 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BPL 作为一种理想灭活剂，不仅效率高，而且水解后形成对人体无害的β-羟基丙酸，所以目前在各种病毒疫苗的灭活工艺中得到广泛应用。截止目前，针对 BPL 的方法检测和应用也出现了诸多文献报道[18-21]，然而却未对分析方法的准确度进行讨论。除此之外，虽有研究指明[22.23]按1:4000 比例加入BPL 在 $3 0 \\mathrm { m i n }$ 内即可将人用狂犬病病毒完全灭活，但倘若灭活前滞留时间过长，因自身聚合和水解反应，就会造成BPL实际作用的浓度低于添加值，最终导致在相同的灭活时间内，灭活不完全。故模拟生产工艺中BPL的使用操作，观察其过程中的变化趋势对灭活狂犬病病毒十分重要，而对该方面的研究也鲜见说明。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文利用气相色谱法，采用乙晴作为稀释剂建立了人用狂犬疫苗中BPL含量测定方法，并确定了PBS:乙腈 $\\scriptstyle \\mathbf { \\bar { \\rho } } = 1 : 2 0$ 的稀释配比来提高方法的准确度。通过对该方法进行方法学验证得出，该方法具有专属性强、灵敏度高、准确度和精密度好、检出限低等优点。此外，该方法在室温条件下操作，大大降低了对试验条件和技术操作的要求，可满足灭活狂犬病病毒工艺中对BPL 检测的需求。通过模拟病毒工艺中BPL的使用操作，研究了BPL 添加到病毒中间体之前的变化趋势，也为确定BPL在病毒灭活工艺中适宜的工作浓度及添加时限提供了数据参考。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] 谭寿南，张凤羽．狂犬病及人用狂犬病疫苗研究．临床医学,2011,24(5):2841-2843. Tan S N, Zhang F Y. Rabies and human rabies vaccine research. Clinical Medicine, 2011, 24(5): 2841-2843.   \n[2] 李义．狂犬病的诊断与防治研究．上海畜牧兽医通讯,2018,(4):56-57. Li Y. Diagnosis and prevention of rabies. Shanghai Livestock and Veterinary Communication, 2018, (4): 56-57.   \n[3] 蔡黎，朱政纲，文丽，等．人用狂犬病疫苗研究进展．药物流行病学杂志,2017,26(12): 841-844. Cai L,Zhu Z G, Wen L, et al. Progress in research on human rabies vaccine. Chinese Journal of Pharmacoepidemiology, 2017, 26(12): 841-844.   \n[4] 王春雨，徐琳凯，李超，等．工艺处理过程中病毒的灭活效果研究．实验动物科学,2015, 32(2):15-17. Wang C Y, Xu L K, Li C, et al. Study on the inactivation effect of virus during process. Laboratory Animal Science, 2015, 32(2):15-17.   \n[5]国家药品监督管理局.生物制品生产工艺过程变更管理技术指导原则.[2018-09-15]. http://www.sda.gov.cn/WS01/CL0844/9350.html. State Drug Administration. Biological product production process change management technology guiding principles. [2018-09-15]. http://www.sda.gov.cn/WS01/CL0844/9350.html.   \n[6] 宋清爽，吴恩应，张运佳，等．血液制品病毒灭活及去除工艺进展．生物技术通讯,2012, 23(4): 627-630. Song Q S, Wu E Y, Zhang Y J, et al. Advance in virus inactivation and removal processes of blood products. Letters In Biotechnology,2012,23(4): 627-630.   \n[7] She Y M, Cheng K D,Aaron Farnsworth, et al. Surface modifications of influenza proteins upon virus inactivation by $\\beta$ -propiolactone. Proteomics,2013,13: 3537-3547.   \n[8] Sasaki Y, Yoshino N， Sato S,et al. Analysis of the beta-propiolactone sensitivity and optimization of inactivation methods for human influenza H3N2 virus. Journal of Virological Methods,2016,235: 105-111.   \n[9] Chen W, Li Z, Liu J, et al. Application of $\\beta$ -propiolactone in HFRS vaccine. Chinese Journal of Public Health,2003,19: 669-670.   \n[10] Zhang Y, Gao C, Pan G, et al. Determination of $\\beta$ -propiolactone residues in human rabies vaccine for Vero cells. Chinese Journal of Biologicals,1998,11: 144.   \n[11]杨健，高军，张庆义，等. $\\beta$ -丙内酯含量气相色谱检测方法的建立及其水解情况分析．中 国生物制品学杂志,2010,23(3):323-324. Yang J, Gao J, Zhang Q Y, et al. Development of Gas Chromatography for Determination of Propiolactone(BPL)Content and Analysis of BPL Hydrolysis. Chinese Journal of Biologicals, 2010, 23(3): 323-324.   \n[12]梁婧，李举，马继华，等．气相色谱法检测灭活狂犬病病毒浓缩液中β-丙内酯的含量．中 国生物制品学杂志,2017,30(12):1317-1320. Liang J, Li J, Ma J H, et al. Determination of $\\beta$ -propiolactone content in inactivated rabies virus concentrate by gas chromatography. Chinese Journal of Biologicals, 2017, 30(12): 1317-1320.   \n[13] Shan G, Ma X, Ji H, et al. Determination of residual $\\beta$ -propiolactone in inactivated rabies virus concentrate by gas chromatography. China Pharmacy, 2014,25: 2357-2359.   \n[14] Xu Y, Wei R, Jiang Y, et al. Study on the determination of $\\beta$ -propiolactone in rotavirus vaccine by gas chromatography. Progress in Microbiology and Immunology, 2010, 38: 21-23.   \n[15] Lei S, Gao X, Sun Y, et al. Gas chromatography-mass spectrometry method for determination of $\\beta$ -propiolactone in human inactivated rabies vaccine and its hydrolysis analysis.Journal of Pharmaceutical Analysis,2018, 06(003).   \n[16]山广志，马迅，纪宏，等．气相色谱法检测灭活狂犬病毒浓缩液中残留的 $\\beta$ -丙内酯.中国 药房,2014,25(25): 2357-2359. Shan G Z, Ma X, Ji H, et al. Determination of Residual $\\beta$ -propiolactone in Inactivated Rabies Virus Concentrate by Gas Chromatography. China Pharmacy,2014,25(25): 2357-2359.   \n[17]李福安，窦志勇，潘丽静．狂犬疫苗灭活后 $\\beta$ -丙内酯水解的最佳 $\\mathfrak { p H }$ 值的选择．中国公共 卫生,1999,15(11): 964. Li F A, Dou Z Y, Pan L J. Selection of optimal $\\mathfrak { p H }$ for hydrolysis of $\\beta$ propiolactone after rabies vaccine inactivation. Chinese Journal of Public Health Management, 1999,15(11): 964.   \n[18]徐守振，王新，尹燕博．四种不同灭活剂对新城疫病毒的灭活效果研究．中国家禽,2011, 33(14): 15-19. Xu S Z, Wang X, Yin Y B. Inactivation Efficacy of Newcastle Disease Virus with Four Different Inactivants. China Poultry, 2011, 33(14): 15-19.   \n[19]Delrue I， Verzele D，Madder A，et al. Inactivated virus vaccines from chemistry to prophylaxis: merits, risks and challenges. Expert Rev Vaccines,2012,11(6): 695-719.   \n[20]龚文波，郝伟伟，廖韦萍，等．两种不同灭活剂对基因VI型新城疫病毒灭活效果的影响 研究．四川畜牧兽医,2017,10:21-23. Gong W B,Hao W W, Liao W P,et al. Inactivation Effect of Genotype VIl Newcastle Disease Virus with Two Different Inactivants. Sichuan Animal and Veterinary Sciences, 2017, 10: 21-23.   \n[21]冯若飞，樊得英，韦鹏建，等.β-丙内酯对脑心肌炎病毒灭活效果的试验．中国兽医杂志, 2011, 47(8): 19-21. Feng R F, Fan D Y, Wei P J, et al. Experiment on the inactivation effect of $\\beta$ propiolactone on encephalomyocarditis virus. Chinese Journal of Veterinary Medicine,2011, 47(8): 19-21.   \n[22]姜立民，林晓波，高磊，等. $\\beta$ -丙内酯对狂犬病病毒的灭活效果．国际流行病学传染病学 杂志,2014,41(2): 137-139. Jing L M, Lin X B, Gao L, et al. Inactivation of rabies virus with $\\beta$ propiolactone. Journal of the Chinese Medical Association,2014,41(2): 137-139.   \n[23]国家药典委员会．中国药典．第三部．北京：中国医药科技出版社,2015:146-149. Chinese Pharmacopoeia Commission. Chinese Pharmacopoeia. Third part. Beijing: China Medical Science and Technology Press, 2015: 146-149. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Study on $\\mathbf { \\beta }$ -propiolactone in Inactivation Process of Rabies Vaccine by Gas Chromatography ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "GAO Yan DU Jing-jingWANG Bin LIU QiSHEN Zhi-qiang\\* (Hualan Biological Engineering,INC R&D CenterXinxiang 4530oo, China） ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AbstractObjective: According to GC-FID method, this work systematically studied the content and stability of $\\beta$ -propiolactone which was used as an inactivator in the preparation of rabies vaccines. Methods: Gas chromatography condition: Agilent DB-624（ $3 0 ~ \\mathrm { m } { \\times } 0 . 5 3 0 ~ \\mathrm { m m } { \\times } 3 . 0 0 ~ \\mu \\mathrm { m }$ ）capillary column was adopted. The temperature program: Initial temperature of $8 0 ~ ^ { \\circ } \\mathrm { C }$ was maintained for $1 ~ \\mathrm { m i n }$ , then was raised to $2 0 0 ^ { \\circ } \\mathrm { C }$ at the rate of $2 0 ~ \\mathrm { { ^ { o } C / m i n } }$ and was maintained for 3 min. Column flow: $3 \\mathrm { m L } / \\mathrm { m i n }$ . The temperatures of detector and inlet were $2 5 0 ^ { \\mathrm { { o } C } }$ and $1 5 0 ^ { \\circ } \\mathrm { C }$ respectively. The linear velocity of the carrier gas (nitrogen） was set to $2 5 \\ \\mathrm { c m / s e c }$ . The injection volume was $1 ~ \\mu \\mathrm { L }$ and the split ratio was 2:1. The sampling mode: Manual injection. Results: BPL showed good linear relationship in the range of $1 { : } 1 0 0 \\sim 1 { : } 3 2 0 0 0$ with a correlation coefficient more than O.999.A recovery study of BPL at three diferent concentration (1:200,1:1000,1:8000) of spiked samples with range from $9 5 \\%$ to $1 1 6 . 9 \\%$ with RSD less than $3 . 2 \\%$ further demonstrated the reliability and feasibility of this method. Moreover, the LOD of established method can be achieved as low as $0 . 1 1 2 ~ \\mu \\mathrm { g / m L }$ . Conclusion: The method is simple,specific, stable and can be carried out at room temperature with a satisfactory result, which reduces the requirements of complicated operation.In a word， the proposed method can meet the need that determines BPL in the process of inactivating rabies virus. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key Words Rabies vaccine $\\beta$ -propiolactone(BPL） Gas chromatography",
+        "page_idx": 11
+    }
+]

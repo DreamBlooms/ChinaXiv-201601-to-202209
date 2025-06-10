@@ -1,0 +1,205 @@
+# DOI:10.5846/stxb201609071821
+
+杨升，陈友铃，吴文珊,陈晓娟,包甜甜,叶洁芬,宋天宇,吴怡棱,周莲香,曾喜育.薜荔榕小蜂对薜荔和爱玉子雌花期榕果挥发物的行为反应.生态学报,2017,37(21）：7161-7169.YangS,ChenYL,WuWShenXJ,ao,YeJF,SogTY，WuY,CouLS,TzengHY.BehavioralresosesofWesipiltefemalephasefigvolatiofcuspumilL.var.pumilandFcuspumilaLvar.keotsang.ctaEcologicaSini7)7169.
+
+# 薛荔榕小蜂对薜荔和爱玉子雌花期榕果挥发物的行为反应
+
+杨升¹，陈友铃¹，吴文珊1，\*，陈晓娟'，包甜甜¹，叶洁芬¹，宋天宇,吴怡祲¹，周莲香²，曾喜育³
+
+1福建师范大学生命科学学院，福建省发育与神经学生物学重点实验室,福州350117  
+2 台湾大学生态学与演化生物学研究所，台北10617  
+3台湾中兴大学森林与自然资源学系，台中60004
+
+摘要;薜荔和爱玉子均属雌雄异株桑科榕属植物,两者互为原变种与变种的关系,分别与薜荔传粉小蜂和爱玉子传粉小蜂（二者互为隐存种)建立了专性共生关系,榕树榕果挥发物在维系传粉小蜂与其寄主的共生关系上起着重要作用。利用Y型嗅觉仪测定薜荔榕小蜂(薜荔和爱玉子的传粉小蜂)对薜荔和爱玉子雌花期榕果挥发物的行为反应。结果表明：（1)雌花期果型的大小对薛荔榕小蜂行为反应无显著影响,薜荔大、小果型雌花期雌(雄)榕果挥发物对其传粉小蜂均具有强烈的吸引作用；(2)榕果挥发物浓度影响薜荔榕小蜂行为反应,薛荔、爱玉子雌花期雌(雄)榕果挥发物对其传粉小蜂的吸引作用均可能存在阈值反应,即榕果挥发物浓度未超过阈值时,雌花期榕果挥发物对传粉小蜂的吸引作用与挥发物浓度成正相关关系,而一旦超过阈值,榕果挥发物对传粉蜂的吸引作用显著下降,表明寄主榕果挥发物浓度影响传粉小蜂的寄主定位；（3)薜荔传粉小蜂对低浓度爱玉子雌花期雌(雄)榕果挥发物、爱玉子传粉小蜂对低浓度薜荔雌花期雌(雄)榕果挥发物均既无趋向也无驱避行为;薜荔传粉小蜂对高浓度的爱玉子雌花期雌(雄)榕果挥发物表现为显著的驱避行为,而爱玉子传粉小蜂对高浓度薜荔雌(雄)雌花期榕果挥发物表现为显著的趋向行为,因此,薜荔传粉小蜂与爱玉子传粉小蜂存在寄主专一性不对称现象,爱玉子传粉小蜂进入薜荔雌(雄)果内传粉或产卵的可能性较大,而福州地区的薜荔传粉小蜂可能难以进入爱玉子雌(雄)果内传粉或产卵。本研究结果将为榕-蜂共生体系的化学生态学理论研究以及爱玉子栽培提供科学依据。
+
+关键词：雌雄异株;雌花期;变种;隐存种；Y型嗅觉仪
+
+# Behavioral responses of Wiebesia pumilae to the female phase fig volatiles of Ficus pumila L. var. pumila and Ficus pumila L. var. awkeotsang
+
+YANG Sheng'，CHEN Youling1，WU Wenshan1,\*,CHEN Xiaojuan’，BAO Tiantian’,YE Jiefen’,SONG Tianyu1   
+WU Yiling'， CHOU Liensiang²， TZENG Hsyyu³   
+1ProvincialKbfeetalduolffealUesi   
+2 College of Life Science，Taiwan University， Taipei 10617，China   
+3 Department of Forestry and Natural Resources，Chung-Hsing University,Taichung 6Ooo4,China
+
+Abstract:Ficus pumila L. var. pumila （FPP）and $F$ ：pumila L.var.awkeotsang（Makino）Corner（FPA）are evergreen climbing dioeciousfigplants,therelationshipthatbetweentwokindsoffg trees is theoriginalvariantandvariant.FPPand
+
+FPAarerespectivelypolinated bytheirownobligated pollnator，and therelationshipbetween twopollnating waspsis determined bythecryptic species.FPPandFPA built obligate symbioticrelationships withtheirspecific polinating wasps. Figs volatilesplayanimportantroleinthemaintenanceofpollnating waspsandtheirhostsymbioticrelationship.Polliating waspscan followthe volatiles of specifichost female phasefigs，and enterfigsforovipositionand polination.Inthis study, weuseda Y-tubeolfactometer to testthebehavioral responsesof Wiebesia pumilae（Hill）Wiebes，thepollinating waspsof FPP andFPA,tothefemalephasefig volatilesofFPPandFPA.Theresults showed that:（1）the sizeoffemale phase figs had no significant efect on the behavioral responses of $W$ . pumilae； both female and male receptive phases of large and small type figsofFFPvolatileshadastrongattractivenesstoitsobligatepollnator；（2）theconcentrationoffigvolatiles had a significant effect on $W$ ：pumilae behavior，both female and male receptive phase figs of FPA and FPP volatiles had a thresholdresponse phenomenonon theirobligate pollinators；when the volatileconcentrations did not exceed the threshold value with theincreaseinvolatileconcentration，theatractionofpollinatorsincreased；however，ifthevolatile concentration exceed the threshold value，theatractionof pollinators decreased；（3）the pollnating waspsof FPP to both female and malelow concentration female phase figvolatilesofFPAandpolinating waspsof FPA toboth male and female lowconcentration female phasefigs volatilesofFPP were neitherattractednordeterred.The pollnating wasps of FPA showed significant preferencefor both male and female high concentration female phase fig volatilesof FPP，whereas the polinatorofFPPwas deterredbyboth maleand female high concentration phase figsvolatilesofFPA.Therefore，the polinating waspsofFPAandFPPshowed asymmetrichost specificity.Itisposible thatthepollnating waspsofFPAenter femaleandmalephase figsofFPPforpollnationandoviposition，respectively;however,inFuzhou，itisdificult forthe pollinatig wasps ofFPP toenter the femaleand male phase figsofFPA for polinationandoviposition，respectively.Our results will provide the scientific basis for the studies on chemical signaling mechanisms of fig-wasp mutualismand FPA cultivation.
+
+Key Words: dioecious ； female phase ；variant； cryptic species； Y-tube olfactometer
+
+薛荔［Ficus pumilaL.var.pumila(FPP)]为雌雄异株桑科榕属榕树,主要分布于我国长江以南地区,如福建、台湾、江西、浙江、江苏、安徽、湖南以及四川等地,日本和越南北部也有自然分布,广泛应用于城市园林绿化[1]。爱玉子［Ficus pumila L.var.awketosang（Makino）Corner（FPA）]是我国特有榕属植物,模式产地为台湾[1],在福建、浙江等地均有少量的自然分布[2],是一种具有较高经济价值的特种果树,目前在台湾以及大陆长江以南地区广为栽培[3]
+
+薛荔主要分布于低海拔地区，而爱玉子主要分布于海拔高于 $8 0 0 \mathrm { ~ m ~ }$ 的山地[4」,陈勇等[5在福建宁德低海拔地区有发现野生爱玉子和薜荔同域分布现象。薜荔与爱玉子植株形态相似,仅在叶型和隐花果(榕果)形态上有些差异[6]。林赞标等[4]对薜荔和爱玉子果胶酯酶的化学特性进行研究,结果表明爱玉子的果胶甲酯酶活性为95.8个活性单位,有两个亚型;而薜荔的果胶酯酶仅为4.8个单位,只有一个亚型,暗示薜荔和爱玉子可能是亲缘关系很近的两个不同的种;随着分子生物学技术的发展,分子标记技术被广泛应用于到物种鉴定。李和惠[7]利用3个分子标记[叶绿体基因体中的 trmT-tmL基因区间、核内硝酸盐还原酶基因的第三个内含子（NIA-i3)以及核糖体的内28S至5.8S间的转录区间（ITS II)]对薛荔及爱玉子进行遗传分析,结果显示薛荔与爱玉子并没有发生种间分化;Wang 等[8]发现薜荔传粉小蜂和爱玉子小蜂均能够给薛荔授粉,且薜荔和爱玉子细胞核基因存在重叠部分,说明两者可能存在基因交流;江少华[9]通过薜荔与爱玉子种间交叉授粉试验,发现薛荔与爱玉子能够杂交产生可育后代，尽管杂交后代繁育能力下降,但依然能够说明两者可以进行基因交流。基于 Stuesy[10]判断原种与变种的3个标准,现在人们普遍认为薛荔与爱玉子为原变种与变种的关系。
+
+薜荔与爱玉子的传粉小蜂由于形态极为相似,一直被认为是同一种榕小蜂即薜荔榕小蜂［Wiebesiapumilae（Hill）Wiebes］［4,1-12]。然而,近年来分子生物学、繁殖生态学以及形态学大量证据表明,薛荔传粉小蜂和爱玉子传粉可能是两个种或互为隐存种：李和惠[7]和吴文珊等[13]利用线粒体Cytb 及COI基因部分序列对薛荔传粉蜂和爱玉子传粉蜂进行遗传分析,结果表明二者遗传结构达到种间分化水平。Wang 等[8」对薜荔传粉蜂与爱玉子传粉蜂的mtCOI、延长因子I的第一个内含子序列 352个碱基(EF1-i1)以及12个核微卫星位点进行遗传分析，结果发现两种传粉蜂的 $\mathrm { \ m t { C O I } }$ 存在较大的遗传分化，且核标记基因没有重叠部分，认为两者是不同种榕小蜂。陈勇等[5]对福建宁德野生爱玉子与薜荔进行生活史的物候观察,发现薜荔和爱玉子花期不遇,两者的传粉小蜂已经形成生殖隔离;江少华[9通过对薛荔传粉蜂和爱玉子传粉蜂进行显微以及亚显微形态学观察,发现两者存在12个雌性特征以及5个雄性特征差异。Chen等[14]通过mtDNA COI假基因及核 DNA 微卫星对我国薛荔分布范围内的薛荔榕小蜂进行遗传分析,认为薛荔榕小蜂存在3个隐存种,分别为Wiebesia spp.1,2和3,台湾爱玉子传粉小蜂属于Wiebesia spp.3。综上所述,目前人们认为薛荔传粉小蜂和爱玉子传粉小蜂为形态相似，而遗传结构具有明显差异的隐存种。 ?
+
+榕小蜂寿命通常只有2—3d,因此准确、及时的找到处于雌花期的寄主榕果对榕-蜂共生关系的维持、稳定具有重要作用[15]。研究发现,榕小蜂视觉功能有限[16],主要是依靠发达的触角感觉器,感知榕树释放挥发物的组分及变化,实现对寄主榕果的精准定位[17-18]。目前研究人员主要利用Y型嗅觉生物仪测试榕小蜂对挥发性化学信号的行为反应[19-20]。Yokoyama[21] 发现亲缘关系较近的两种榕树（Ficus nishimurae 和F.boninsimae)的专性传粉蜂对非寄主性雌花期榕果挥发物的行为反应不同,F.nishimurae的传粉小蜂能够区分两种榕树雌花期榕果所释放的化合物,而F.boninsimae 的传粉小蜂则不能区分,表明两种传粉小蜂对寄主存在专一性不对称现象。鸡嗦子榕的两变种榕树［F．semicordata var．semicordata 和 $F$ semicordata var.montana]的传粉小蜂对寄主榕果的挥发物同样存在寄主专一性不对称现象[19]。本研究以薜荔榕小蜂（含薛荔和爱玉子的传粉小蜂)为测试对象,研究薜荔榕小蜂对薜荔和爱玉子雌花期榕果挥发物的行为反应,探究薜荔传粉小蜂与爱玉子传粉小蜂的寄主专性对称性,探究二者之间交叉传粉的可能性。
+
+# 1材料与方法
+
+# 1.1材料
+
+薛荔传粉小蜂(Wiebesia spp.2)和雌花期榕果采自福州国家森林公园( $\langle 1 1 9 ^ { \circ } 2 9 ^ { \prime } \mathrm { E } , 2 6 ^ { \circ } 1 5 ^ { \prime } \mathrm { W } \rangle$ 的薛荔植株,爱玉子传粉小蜂（Wiebesia spp.3)和雌花期榕果采自福建爱玉子栽培园( $\cdot 1 1 8 ^ { \circ } 5 5 ^ { \prime } \mathrm { E } , 2 5 ^ { \circ } 3 1 ^ { \prime } \mathrm { W } )$ 。采集接近出蜂的花序,用100目纱网袋套袋,带回实验室水培观察,待其出蜂。选取当日出飞的活力强健的小蜂用于实验。
+
+# 1.2方法
+
+# 1.2.1 雌花期薛荔雌(雄)榕果果型区分
+
+采样期间,我们观察到同株雌花期薛荔雌(雄)榕果果径差别较大,将之区分为大、小两种果型,其特征见表1。
+
+表1不同发育程度雌花期薛荔雌(雄)榕果体型比较( $n = 2 0$ ， $\bar { \bf x } \pm \mathrm { s D }$ ）  
+Table 1The type of female or male receptive phase figs in diferent decelopmental of Ficus pumila L.var.pumila   
+
+<html><body><table><tr><td>榕果类型 Fig.type</td><td>果直径/cm Diameter</td><td>果托厚度 Wall thickness</td><td>果内花层高度 Height of flowers</td><td>果内空腔直径/cm Diameter of cavity</td></tr><tr><td>大果型雌果 Big female figs</td><td>5.50±0.22</td><td>0.90±0.06</td><td>0.11±0.01</td><td>2.57±0.17</td></tr><tr><td>小果型雌果 Small female figs</td><td>3.42±0.14</td><td>0.57±0.02</td><td>0.08±0.01</td><td>1.99±0.08</td></tr><tr><td>大果型雄果 Big male figs</td><td>4.42±0.25</td><td>0.93±0.05</td><td>0.17±0.01</td><td>1.86±0.11</td></tr><tr><td>小果型雄果 Small male figs</td><td>3.40±0.15</td><td>0.66±0.03</td><td>0.13±0.01</td><td>1.93±0.08</td></tr></table></body></html>
+
+1.2.2行为反应的测定方法以及处理组设置[3]
+
+采用自行设计的玻璃Y型嗅觉仪测定榕小蜂对薜荔以及爱玉子雌花期榕果挥发物的行为反应。Y 型嗅觉仪臂长 $2 0 ~ \mathrm { c m }$ ,内径 $1 \ \mathrm { c m }$ ,两臂夹角 $9 0 ^ { \circ }$ ,柄长 $1 5 \ \mathrm { c m }$ ,管柄上离夹角 $1 0 \ \mathrm { c m }$ 处连接有 $5 \ \mathrm { c m }$ 长的释放管。每个管臂用Tellon管各接一味源瓶,进入味源瓶的空气先经活性炭过滤后再进入蒸馏水加湿瓶以净化和润湿空气,管柄接真空泵,调节抽气速率为 $1 0 0 { - } 1 5 0 ~ \mathrm { m L / m i n }$ 。实验在完全遮光的室内进行。顶灯为3支40W平行灯管，室温 $( 2 5 \pm 2 ) \mathrm { { ^ { \circ } C } }$ ,湿度 $7 0 \% - 7 5 \%$ 。将待测雌蜂单个从释放管放入Y型嗅觉仪的管柄,观察其在 $5 ~ \mathrm { m i n }$ 内对两臂中连接的味源瓶的选择反应。判断标准如下：当小蜂爬至超过某臂的 $3 \ \mathrm { c m }$ 处,并持续 $1 ~ \mathrm { m i n }$ 以上，则认为小蜂对该臂的挥发物作出了选择;若小蜂在给定时间内没有做出选择的则记为无反应,并从分析数据中剔除。每处理组测30 只小蜂,重复6次[3]。每测定3只小蜂,调换两臂方向,每处理组测定分5d进行（即每组合每天测6只小蜂)。每处理组测定完毕须更换Y型管、味源瓶和连接管,并用乙醇和双蒸水清洗并在$1 0 0 \mathrm { ^ { \circ } C }$ 恒温干燥箱中烘干 $3 0 ~ \mathrm { m i n }$ 。
+
+果芽形成时,对果芽进行标记和跟踪观察,在果芽发育至A末期时用100目纱网袋进行套袋,待花序发育进入雌花期(套袋外停集有传粉小蜂，或可闻到花序气味时),采集花序用于实验。薜荔传粉蜂对不同发育程度的薜荔雌花期雌(雄)榕果挥发物行为反应处理设置见表2,以大、小果型雌花期薜荔雌(雄)榕果4种味源(果实个数分别为1、2、3和4个)与洁净空气对照进行单味源实验,以大、小果型雌花期薛荔雌(雄)榕果4种味源进行两两对照的双味源实验,分别测试了薛荔传粉蜂对24种处理组挥发物的行为反应。
+
+Table2etsofavioualtstsofPpollatingwastealeoaleetieasefvolatiofdieteveloptatesf Ficuspumila L.var.pumila   
+
+<html><body><table><tr><td>处理组 Treatments</td><td>味源IOdour I</td><td>个数 Number</td><td>味源Ⅱ Odour II</td><td>个数Number</td></tr><tr><td>1/2/3/4</td><td>大果型雌果</td><td>1/2/3/4</td><td>洁净空气</td><td></td></tr><tr><td>5/6/7/8</td><td>小果型雌果</td><td>1/2/3/4</td><td>洁净空气</td><td></td></tr><tr><td>9/10/11/12</td><td>大果型雄果</td><td>1/2/3/4</td><td>洁净空气</td><td></td></tr><tr><td>13/14/15/16</td><td>小果型雄果</td><td>1/2/3/4</td><td>洁净空气</td><td></td></tr><tr><td>17/18/19/20</td><td>小果型雌果</td><td>1/2/3/4</td><td>大果型雌果</td><td>1/2/3/4</td></tr><tr><td>21/22/23/24</td><td>小果型雄果</td><td>1/2/3/4</td><td>大果型雄果</td><td>1/2/3/4</td></tr></table></body></html>
+
+表中处理组序号与个数依次对应(表3一表5同此)
+
+薜荔传粉蜂对爱玉子雌花期雌(雄)榕果挥发物行为反应处理设置见表3,以雌花期薛荔雌(雄)榕果2种味源与洁净空气对照进行单味源实验,以雌花期薛荔雌(雄)榕果2种味源进行两两对照的双味源实验,分别测试了薛荔传粉蜂对9种处理组挥发物的行为反应。
+
+表2薛荔传粉蜂对不同发育程度薛荔雌花期雌(雄)榕果挥发物行为反应实验处理组设置  
+表3薛荔传粉蜂对爱玉子雌花期雌(雄)榕果挥发物行为反应实验处理组设置  
+Table3SetsofbehaviouraltestsofpoliatingwaspsofPPtothefemaleormalereceptivepasefigvolailsofFicuspumilL.var awketosang(Makino）Corner   
+
+<html><body><table><tr><td>处理组 Treatments</td><td>? 味源IOdour I</td><td>个数 Number</td><td>味源I Odour Ⅱ</td><td>个数Number</td></tr><tr><td>1/2/3</td><td>雌花期雌果</td><td>2/4/6</td><td>洁净空气</td><td></td></tr><tr><td>4/5/6</td><td>雌花期雄果</td><td>2/4/6</td><td>洁净空气</td><td></td></tr><tr><td>7/8/9</td><td>雌花期雄果</td><td>2/4/6</td><td>雌花期雌果</td><td>2/4/6</td></tr></table></body></html>
+
+爱玉子传粉蜂对爱玉子雌花期雌(雄)榕果挥发物行为反应处理设置见表4,以雌花期爱玉子雌(雄)榕果2种味源与洁净空气对照进行单味源实验,分别测试了爱玉子传粉蜂对8种处理组挥发物的行为反应。
+
+爱玉子传粉蜂对薜荔雌花期雌(雄)榕果挥发物行为反应处理设置见表5,以雌花期薛荔雌(雄)榕果2种味源与洁净空气对照进行单味源实验,以雌花期薜荔雌(雄)榕果2种味源进行两两对照的双味源实验,分别测试了爱玉子传粉蜂对9种处理组挥发物的行为反应。
+
+Table4SetsofbehaviouraltestsofpollnatingwaspsofFPAtotefemaleormalereceptivephasefigvolatilesofFicuspumilaLvar awketosang(Makino）Corner   
+表5爱玉子传粉蜂对薛荔雌花期雌(雄)榕果挥发物行为反应实验处理设置  
+
+<html><body><table><tr><td>处理组 Treatments</td><td>味源I Odour I</td><td>个数 Number</td><td>味源Ⅱ Odour II</td><td>个数 Number</td></tr><tr><td>1/2/3/4</td><td>雌花期雌果</td><td>1/2/3/4</td><td>洁净空气</td><td></td></tr><tr><td>5/6/7/8</td><td>雌花期雄果</td><td>1/2/3/4</td><td>洁净空气</td><td></td></tr></table></body></html>
+
+表4爱玉子传粉蜂对爱玉子雌花期雌(雄)榕果挥发物反应实验处理组设置  
+Table 5Setsof behavioural tests of pollnating waspsofFPAto femaleor male receptivefig volatiles of FPP   
+
+<html><body><table><tr><td>处理组 Treatments</td><td>味源I Odour I</td><td>个数 Number</td><td>味源Ⅱ Odour II</td><td>个数 Number</td></tr><tr><td>1/2/3</td><td>雌花期雄果</td><td>2/4/6</td><td>洁净空气</td><td></td></tr><tr><td>4/5/6</td><td>雌花期雌果</td><td>2/4/6</td><td>洁净空气</td><td></td></tr><tr><td>7/8/9</td><td>雌花期雄果</td><td>2/4/6</td><td>雌花期雌果</td><td>2/4/6</td></tr></table></body></html>
+
+# 1.3 数据处理分析
+
+本实验所得数据均运用 Excel 2007和 SPSS 17.0软件进行统计学分析和作图。计量资料采用均数 $\pm$ 标准差( $\bar { \bf x } \pm \mathrm { S D }$ )表示，诱蜂数量差异显著性判断采用卡方检验。
+
+# 2结果与分析
+
+2.1薛荔传粉蜂对薜荔雌花期雌(雄)榕果挥发物的行为反应
+
+薛荔传粉蜂对不同发育程度的雌花期薛荔雌、雄花序挥发物的行为反应结果见图1,数据表明：(1)薜荔大、小果型雌花期雌、雄花序挥发物对其传粉蜂均具有吸引作用,雌花期花序挥发物浓度对传粉蜂的行为反应影响显著,在一定浓度范围内,花序挥发物对薜荔传粉蜂的吸引力与花序挥发物浓度成正相关关系,当挥发物浓度增加到某一阈值,花序挥发物对薜荔传粉蜂的吸引力显著降低。（2)单味源实验中,数量较少的小果型花序(味源为1—2个花序时)对其传粉蜂的吸引作用显著高于数量较多的小果型花序(味源为3—4个花序时),而在以大果型花序为材料的实验中,当味源为2—3个花序时,对其传粉蜂的吸引作用显著高于其他组,由此推测单个小果型释放的花序挥发物浓度可能高于大果型花序。双味源实验中,味源为1个果时,小果型雄花序挥发物对传粉蜂的吸引作用显著高于大果型雄花序(另3个实验组无显著差异),该结果支持上述推测。味源为3个花序时,小果型雌花序挥发物对传粉蜂的吸引作用极显著低于大果型雌花序（另3个实验组无显著差异）,这可能是由于单个挥发物浓度较高的小果型花序,在味源数量增加到3个时,因挥发物浓度超过阈值,故对小蜂的吸引力较小,而单个挥发物浓度较低的大果型花序,在味源数量增加到3个时,其挥发物对小蜂仍保持较高的吸引力的缘故。（3)对单味源实验中的数据进行非参数卡方检验,结果表明大、小果型的雌花序挥发物对薜荔传粉蜂的吸引作用与其雄花序比较均无显著差异 $\left. { \chi ^ { 2 } = 0 . 2 9 3 , P = 0 . 5 8 8 ; \chi ^ { 2 } = 0 . 2 8 7 , P = } \right.$ 0.592),由此说明传粉蜂对雌、雄花序之间的选择可能不存在偏向性,该结果支持雌、雄花在释放挥发物上存在相互模拟的理论[22]。
+
+# 2.2薛荔传粉蜂对爱玉子雌花期雌(雄)榕果挥发物的行为反应
+
+薛荔传粉蜂对爱玉子雌花期雌、雄花序挥发物的行为反应测定结果见图2,结果表明，(1)低浓度爱玉子雌花期花序挥发物(味源为2个花序时)对薜荔传粉蜂既无吸引也无驱避作用,而高浓度花序挥发物（味源为4、6个花序时)对薛荔传粉蜂具有极显著的驱避作用,经非参数卡方检验发现,高浓度雌、雄花序挥发物对薛荔传粉蜂的驱避作用无显著差异 $\left( \ \chi ^ { 2 } = 0 . 3 4 8 \ , P = 0 . 5 5 5 ; \chi ^ { 2 } = 0 . 1 1 8 , P = 0 . 7 3 2 \right)$ ,表明在一定浓度范围内,花序挥发物浓度与薜荔传粉蜂驱避作用成正相关关系,而一旦超过某一阈值,则与花序挥发物浓度无显著的相关性。(2)对单味源实验中的数据进行非参数卡方检验,结果表明爱玉子雌花期雌、雄雌花序挥发物对薛荔传粉蜂
+
+19.67±1.15 1 1BFP CA 10.33±1.15 \*\*   
+24.67±1.15 T 2BFP CA F 5.33±1.15 \*\*   
+25.00±1.00 I 3BFP CA T 5.00±1.00 \*\*   
+17.00±0.82 { 4BFP CA I 13.00±0.82 NS   
+24.00±1.00 I 1SFP CA 6.00±1.00 \*\*   
+25.33±0.58 { 2SFP CA I 4.67±0.58 \*\*   
+21.75±2.08 T 3SFP CA 8.25±2.08 \*\*   
+18.00±0.82 工 4SFP CA I 12.00±0.82 \*   
+18.33±2.08 L 1 BMPCA 11.67±2.08 \*   
+23.33±2.45 2BMPCA 6.67±2.45 \*\*   
+20.81±1.74 3BMPCA 9.19±1.74 \*\*   
+17.72±0.97 I 4BMPCA 12.18±0.97 NS   
+23.00±3.00 1SMPCA 7.00±3.00 \*\*   
+23.00±2.65 2 SMPCA 7.00±2.65 \*\*   
+18.33±0.58 { 3SMPCA 11.67±0.58 \*   
+17.67±0.58 { 4 SMPCA F 12.23±0.58 NS   
+17.00±1.00 I 1SFP 1BFP I 13.00±1.00 NS   
+15.00±1.00 I 2SFP 2BFP F 15.00±1.00 NS   
+8.67±2.08 T 3SFP 3BFP 21.33±2.08 \*\*   
+14.67±2.08 I 4SFP 4BFP 1 15.33±2.08 NS   
+18.73±2.06 T 1SMP 1BMP 11.27±2.06 \*   
+14.59±1.12 工 2SMP 2BMP 15.41±1.12 NS   
+15.23±1.79 1 3SMP3BMP 14.77±1.79 NS   
+15.00±2.04 上 上 1 + 1 4SMP4BMP 1 上 15.00±2.04 NS   
+30 25 20 15 10 5 0 5 10 15 20 25 30   
+小蜂数量/只
+
+Fig.1BehaviorresposesofpollnatingwaspsofFPtothediferentdevelopmtalstatesoffemalermalereceptivephaseofFPI fig volatiles
+
+数据为平均值 $\cdot \pm$ 标准误差。所得数据均经 $\chi ^ { 2 }$ 检验，\*比较具有显著差异( $P { < } 0 . 0 5 )$ ，\*\*比较具有极显著差异( $P { < } 0 . 0 1$ ),NS 比较无显著差异（ $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ );BFP（Big female phase emalefigofFPP);大果型雌花期薛荔雌果;SFP(Smallfemale phase female fig ofFPP):小果型雌花期薜荔雌果;BMP（Big female phase female malefig fFPP):大果型雌花期薛荔雄果;SMP(Smallfemale phase malefigofFPP):小果型雌花期薛荔雄果;CA(Cleanair)：洁净空气对照;矩形框中的数字表示榕果数量
+
+的驱避作用无显著差异 $( \chi ^ { 2 } = 0 . 0 9 8 , P = 0 . 7 7 5 )$ ,由此说明薛荔传粉蜂对雌、雄花序之间的选择可能不存在偏向性。双味源实验中,薛荔传粉蜂对雌、雄花序挥发物未表现出显著的偏向性( $\chi ^ { 2 } = 0 . 0 1 5$ ， $P { = } 0 . 9 0 3$ ),该结果支持上述推测。
+
+# 2.3爱玉子传粉蜂对爱玉子雌花期雌(雄)榕果挥发物的行为反应
+
+从图3中可知，(1)与洁净空气比较，味源瓶中放入4个雌花期爱玉子雌、雄花序时,爱玉子传粉蜂既无显著的吸引作用也无显著的趋避作用;而放入1、2、3个雌花期爱玉子雌、雄花序时,爱玉子传粉蜂具有极显著的吸引作用,这说明爱玉子雌花期雌、雄花序挥发物浓度对爱玉子传粉蜂的行为反应具有显著影响；（2)对单味源数据进行非参数卡方检验发现,爱玉子雌花期雌、雄花序挥发物对爱玉子传粉蜂均有极显著的吸引作用$\left( \chi ^ { 2 } = 7 2 . 9 0 0 , P = 0 . 0 0 0 ; \chi ^ { 2 } = 9 2 . 5 6 4 , P = 0 . 0 0 0 \right)$ ,此外,爱玉子雌花期雌、雄雌花序挥发物对爱玉子传粉蜂的吸引作用无显著差异( $\stackrel { \prime } { \cdot } \chi ^ { 2 } = 0 . 0 4 7 , P = 0 . 8 2 8 )$ ,由此说明爱玉子传粉蜂对雌、雄花序之间的选择可能不存在偏向性,该结果支持雌、雄花在释放挥发物上存在相互模拟的理论[3]。
+
+# 2.4爱玉子传粉蜂对薛荔雌花期雌(雄)榕果挥发物的行为反应
+
+从图4中可知,与洁净空气比较,低浓度雌花期薜荔雌、雄花序的挥发物(味源为2个花序时)对爱玉子传粉蜂既无吸引作用也无趋避作用,高浓度雌花期薜荔雌、雄花序挥发物(味源为4、6个花序时)对爱玉子传粉蜂具有显著的吸引作用,经非参数检验发现,味源分别为4个和6个花序时,其雌、雄挥发物对爱玉子传粉蜂的吸引作用均无显著差异， $\stackrel { \prime } { \chi } ^ { 2 } = 0 . 0 3 4 , P = 0 . 9 2 6$ $\chi ^ { 2 } = 0 . 7 5 4$ $P = 0 . 4 5 7 \cdot$ ）,这说明在一定浓度范围内,花序挥发
+
+![](images/598a19bcfa3a7c088c84e8d6969f6bf6fbaa43f4be766b722e93c9432ba38c2b.jpg)  
+图2薛荔传粉蜂对雌花期爱玉子雌(雄)榕果挥发物的行为反应
+
+Fig.2Behavior responses of pollinating wasps ofFPP to the female or male receptive fig volatiles of FPA数据为平均值 $\pm$ 标准误差。所得数据均经 $\cdot ^ { 2 }$ 检验，\*表示比较具有显著差异( $P { < } 0 . 0 5$ )，\*\*表示比较具有极显著差异( $P { < } 0 . 0 1 \rangle$ ,NS表示比较无显著差异( $P { > } 0 . 0 5 )$ ；FA(Female phase female fig ofFPA）:雌花期爱玉子雌果,MA(Female phase male fig of FPA）：雌花期爱玉子雄果,CA;洁净空气对照
+
+![](images/ea86aa6defe2a6079be2efffd538cde79d90218979223cba16dc962f9999e68c.jpg)  
+图3爱玉子传粉蜂对爱玉子雌(雄)榕果挥发物的行为反应  
+Fig.3Behavior responses of polinating wasps of FPA to the female or male fig receptive volatiles of FPA
+
+数据为平均值 $\cdot \pm$ 标准误差。所得数据均经x检验，\*比较具有显著差异( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ， $* *$ 比较具有极显著差异( $P { < } 0 . 0 1$ ),NS比较无显著差异（ $\scriptstyle P > 0 . 0 5 { \mathrm { ) } }$ ;FA：雌花期爱玉子雌果，MA：雌花期爱玉子雄果,CA;洁净空气对照
+
+物浓度与爱玉子传粉蜂吸引作用成正相关关系,而一旦超过某一阈值,则与花序挥发物浓度无显著的相关性。对单位源实验中的数据进行非参数卡方检验,结果表明爱玉子雌花期雌、雄雌花序挥发物对薛荔传粉蜂的吸引作用无显著差异( $\cdot x ^ { 2 } = 0 . 0 0 2 , P = 1 . 0 0 0 )$ ,由此说明薛荔传粉蜂对雌、雄花序之间的选择可能不存在偏向性。双味源实验中,薜荔传粉蜂对雌、雄花序挥发物未表现出显著的偏向性 $( \ \chi ^ { 2 } = 0 . 0 1 3 , P = 0 . 9 5 4 )$ ,该结果支持上述推测。
+
+# 3讨论
+
+# 3.1薛荔与爱玉子虫媒交叉授粉的可能性
+
+交叉行为反应测定结果显示：薛荔雌花期雌(雄)榕果挥发物对爱玉子传粉蜂具有吸引作用,而爱玉子雌花期雌(雄)榕果挥发物对薜荔传粉蜂具有驱避作用,表明爱玉子传粉蜂可以实现对薜荔雌(雄)榕果的定位，而薛荔传粉蜂可能难以实现对爱玉子雌(雄)榕果的定位,由此推测,福建地区利用爱玉子传粉蜂给薜荔雌花期雌果授粉具有可行性,而利用薜荔传粉蜂给爱玉子雌花期雌果授粉的成功率较低。江少华[9]对台湾地区的薜荔与爱玉子种间虫媒交叉接蜂授粉的研究结果表明;两种传粉小蜂对两变种雌果挥发物没有寄主偏好性数据为平均值 $\cdot \pm$ 标准误差。所得数据均经 $: \chi ^ { 2 }$ 检验，"表示比较具有显著差异( $P { < } 0 . 0 5 )$ -， $* *$ 表示比较具有极显著差异( $P { < } 0 . 0 1 \$ ),NS表示比较无显著差异( $\scriptstyle P > 0 . 0 5 .$ );FP：表示雌花期薛荔雌果，MP：表示雌花期薛荔雄果，CA：洁净空气对照 一 ?
+
+![](images/798f49e25da5359bcf46f41d29915b7d96d48c5924ab836fc46f7e5f86a547ed.jpg)  
+图4爱玉子传粉蜂对雌花期薜荔雌(雄)榕果挥发物的行为反应  
+Fig.44 Behavior responses of polinating wasps of FPA to the female or male receptive fig volatiles of FPP
+
+的差异,但爱玉子传粉蜂受薜荔雄果挥发物所吸引,而薜荔传粉蜂不受爱玉子雄果挥发物吸引。显然,薜荔传粉蜂与爱玉子雌果之间的通讯关系,在台湾和福州两地存在差异。
+
+研究表明冰期时薜荔在南岭南北两侧可能均存在避难所,冰期后南岭以北的薜荔种群向内陆高纬度方向扩散,南岭以南的薜荔种群沿着南岭-戴云山脉往高纬度方向扩散[23]。随着薜荔种群扩散,与之共生的传粉小蜂以更快的速度发生遗传变异,形成3个隐存种:Wiebesia spp.1、2和3。Wiebesia spp.1主要分布于南岭以北的扩散路径,W.spp.2 主要分布于而南岭以南的扩散路径,W.spp.3 主要分布于台湾和舟山群岛[6,14,24]。刘敏等认为分布于舟山群岛的W.spp.3种群从W.spp.1种群演化而来(分子证据表明2者亲缘关系较近,且分布区部分重叠[6]）;W.spp.2种群在台湾海峡形成时,已与共生薛荔共存于台湾岛[6,25],推测冰期后薛荔向高海拔扩散形成爱玉子变种,同期W.spp2种群分化出与爱玉子共生的W.spp.3种群,因此台湾地区的 W.spp.2与W.spp.3种群之间亲缘关系较近,台湾地区的薛荔和爱玉子之间依然存在花粉流,故在台湾地区薜荔传粉蜂能够给爱玉子雌花期花序授粉[9],但大陆地区的 W.spp.2种群因海峡隔绝,与爱玉子无基因交流,因此福建地区的W.spp.2种群无法识别爱玉子雌花期花序。
+
+# 3.2薛荔雌花期果型变化与挥发物释放间的相关性
+
+榕果内小花发育成熟,标志着榕果发育进入雌花期[26],但隐头果内的花是次第开放的,花成熟时才释放挥发物,因此,在薛荔雌花期发育的过程中,果径不断增大,花次第开放,榕果吸引小蜂的挥发物浓度不断升高;当隐头果内的花全部开放时,榕果内挥发物的浓度也达到最高值;若有小蜂进入榕果,被传粉或产卵的花便改变释放的挥发物的质和量作为标识驱避小蜂[3.27],以免重复传粉或产卵,造成能量与资源的浪费;在薜荔果雌花期发育后期(本实验中的大果型),若无小蜂进入榕果,果径依然增大,以维持日渐闭合的苞口宽松度,确保小蜂能够进入果内,此时,随着小花的逐渐萎焉,吸引小蜂的挥发物浓度逐渐下降。若无小蜂进入，雌花期薜荔果对薜荔传粉小蜂大约能维持2周的吸引作用,本实验的大果型薜荔在3—4d后掉落。综上所述，榕果对小蜂的吸引力,应是随着雌花期隐头果直径增大呈现先上升后下降的趋势,Patel等人[28]在研究对叶榕(F.hispida)榕果发育过程中也发现了类似的结果。
+
+# 参考文献（References）:
+
+［1］中国科学院中国植物志编辑委员会.中国植物志.北京：科学出版社，1998.  
+[2]马炜梁,吴翔.薛荔榕小蜂（Blastophaga pumilae Hill)与薛荔(Ficus pumila L.）)的共生关系.生态学报，1989,9（1)：9-14.  
+［3］陈友铃，吴文珊.爱玉子花序挥发物成分以及对其传粉小蜂的吸引作用.生态学报，2010,30（8）：2212-2219.  
+[4］林赞标，刘哲政，杨居源，黄瑞祥，李永生，张森永.爱玉与薛荔隐花果形态与其生化特性比较.林业试验所研究报告季刊，1990,5(1): 37-43.  
+［5］陈勇，李宏庆，马炜梁.薛荔和爱玉及其传粉昆虫繁殖特性.植物生态学报，2002，26(1)：58-63.  
+[6]LiuM,pSGengFE,ZagJXovementsofeseopuasrepollatosoeeiatrsrownor plant genetic markers?Proceedings of theRoyal SocietyB：Biological Sciences，2015,282（1808）：20150290.  
+［7］李和惠.薛荔和爱玉子及其传粉小蜂之遗传分化[D].台北：台湾大学，2009.  
+[8]Wang HY,HsiehCH,HuangCG,KongSW,ChangHC,LeeHH,WangWK,ChenSL,TzengHY,WuWJ.Geneticandphysiologicaldataugest demgaphcnddaptiveresposesiolexinteractiosbetweeolatiosoffgs（Ficuspumil）andteirpolatingwasp（Wiebesia pumilae）.Molecular Ecology，2013,22(14）：3814-3832.  
+［9］江少华.薜荔及爱玉子授粉榕小蜂之形态差异及其寄主专一性的不对称性[D].台北：台湾大学，2011.  
+[10] StuessyTF.Planttaxonomy：Thesystematicevaluationofcomparativedata.NewYork USA：Columbia UniversityPress,1990  
+[11］何坤耀.爱玉授粉小蜂之生态及其在平地立足之可能性调查.中华昆虫，1987，（7)：37-44.  
+［12］林赞标.爱玉子专论.台北：台湾省林业试验所，1997.  
+[13］吴文珊，陈友铃，孙伶俐，毛建萍，杨问新，王爱芳.基于28S,COI和Cytb基因序列的薛荔和爱玉子传粉小蜂分子遗传关系研究.生态学报，2013，33（19)：6049-6057.  
+[14]ChenYtGXistifarialpdsilrfsodipumila.Acta Oecologica，2014,57:142-149.  
+]aellsechange.Perspectives in Plant Ecology，Evolution and Systematics，2013，15(1）：56-67.  
+[16]Blackburn E H. Structure and function of telomeres.Nature，1991,350(6319）：569-573.  
+[17］李宗波，杨培，彭艳琼，杨大荣.木瓜榕传粉榕小蜂雌蜂触角感器的分布和超微形态.昆虫学报，2012，55(11)：1272-1281.  
+[18］孟晶，卜文俊，肖金花，黄大卫.中国榕小蜂触角感受器形态特征及进化适应性分析.昆虫学报，2015,58（7）：800-810.  
+[19]WagGtGJofispepaiiaofccontact cues.Annals of botany，2013,111(2)：173-181.  
+[20]GuD,ComptonSG,PengYQ，YangDR.‘Push’ndpullresponsesbyfigwaspstovolailesreleasedbytheirhostfigs.Cheoecology，2012,22(4): 217-227.  
+21]YkoJpeofseisiua）:249- 256.  
+22]Griso-LeiJrleFeKeyiiteseofrisicFunctional Ecology，2001,15(4): 551-558.  
+[23]ZangJK,iXelodloteltrsispilL（cJournal of Botany,2011, 98(7) : e170-e172.  
+[24]LiuM,ZhaoR,ChenY，ZangJoptonSG,ChengXY.Competiveexcusionaongfigwaspsachevedvitramentoftplantflowering phenology.PLoS One,2014，9（5）:e97783.  
+［25］赵昭晒.台湾海峡演变的初步研究.台湾海峡，1982，1(1)：20-24.  
+[26］陈春，宋启示，张光明，彭艳琼，王秋艳，杨大荣.榕果挥发物对传粉榕小蜂的吸引作用.生态学报，2004，24（12）：2794-2798.  
+[27］郑翠芳，严菊媛，陈友铃，吴文珊，涂淑雯，许毅真，陈晓娟，黄诗雯.两种Eupritina 属小蜂对宿主榕果挥发物和合成信息素的行为反应.生态学报，2016,36(17)：5581-5589.  
+[28]PatelAs，eKFatealftBiology,1995,8(3):301-313.

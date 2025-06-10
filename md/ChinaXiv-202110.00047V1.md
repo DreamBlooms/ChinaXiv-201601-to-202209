@@ -1,0 +1,256 @@
+# 新疆风灾时空分布特征分析
+
+张太西，王慧，余行杰(新疆维吾尔自治区气候中心，新疆 乌鲁木齐830002)
+
+摘要：风灾是新疆危害较重的气象灾害，其灾害的时空分布对风灾防御意义重大。利用1980—2019年新疆86县(市)死亡人数、倒塌房屋数、倒塌棚圈数、牲畜死亡数、农作物受灾面积以及风灾的出现次数6种风灾要素数据，通过构建风灾灾损指数，统计检验各类指数的概率密度服从伽玛分布,并进行灾损等级划分，分析风灾时空分布特征。结果表明：近40a来新疆风灾灾损呈波动性上升趋势，尤其是1998年以后风灾损失呈偏重发生；春季是新疆风灾的高发季节，风灾各要素灾损在4、5月占全年的 $67 \% { \sim } 9 0 \%$ ;夏季风灾损失相对春季较小，秋、冬两季风灾损失最小。全疆各县风灾各要素灾损空间分布表明，南疆风灾发生频次明显多于北疆，农作物受灾面积主要多发、重发在天山两侧各县，死亡人数特重等级出现在南疆;风灾综合灾损特重、严重2个等级的区域主要集中在天山南麓哈密市至阿克苏地区一带以及喀什地区、和田地区等地，其中阿克苏地区风灾灾损最严重。
+
+关键词：风灾；灾损指数；等级划分；时空分布；新疆
+
+# 文章编号：
+
+新疆是中国大风多发地区之一。当强冷空气  
+入侵，既有经过山谷山口形成狭管效应产生大风,  
+也有翻山后下滑产生加速作用形成大风；同时也有  
+强对流天气出现短时雷雨大风；新疆大风日数多，  
+风力强，持续时间长，对工农业生产、交通运输和人  
+们生活常造成极大危害，成为新疆主要灾害性天气  
+之—[1-3]○
+
+国内在风速、大风天气及灾害的时空变化特征及成因机制等方面研究较多，研究表明我国大范围地区大风日数呈线性减少趋势[4-5]、地面风速呈现更显著的降低趋势[6],河西走廊绿洲和吉林省地面年平均风速下降十分明显，大风区或大风季节的风速减小幅度最大[7-8];郭凌曜等[9]构建了湖南历史风雹灾害序列并分析其变化特征;俞海洋等["0]、孙霞等[]对河北致灾性大风时空分布及成灾特征和危险度进行研究；汤浩等[12-13]先后研究新疆"2.28"大风和乌鲁木齐城区2012年3月30日极端东南大风的形成机制;王玉竹等4以累积大风天数、连续大风天数、大风集中期和集中度为指标探究新疆大风天数
+
+的集中程度时空特征。
+
+对于大风灾害，缪霄龙等5从致灾因子、孕灾环境、承灾环境、防灾能力角度对杭州地区雷雨大风灾害进行风险区划；张丽娟等[16运用信息扩散理论计算方法得出发生不同大风日数的概率风险估计值，并用GIS技术进行风险区划;李兰等[17研究湖北省大风灾害的特点及风险度，用受灾人口、成灾面积等指标给出了风灾级别，配合风灾频率确定了风灾影响度，利用风灾危险性评价模型分析风灾风险度；宋建洋等[18]利用自然灾害风险指数法计算综合风险指数，得到我国高速公路大风灾害风险区划。陈文友等[19利用等概率分区原则和三级区划指标体系将新疆高速公路沿线划分为5个风害危险区；潘新民等2分析了南疆铁路线前百公里风区的大风时空分布特征，揭示出当风区铁路沿线走向与大风的主导风向相正交时对列车运行可产生较大的危害；王建等[21研究了2014—2016年新疆大风沙尘分布及其对电网吐哈线路大风灾害风险，表明除了与十三间房毗邻的365号路段大风灾害风险较高
+
+# 干旱区地理
+
+外，其他路段大风灾害风险相对较低;鲁天平等[22]构建了新疆林果产业大风沙尘灾害风险评估模型及基于ArcGIS进行灾害风险评估区划，采用层次分析法结合加权综合评价法对指标进行筛选和确定权重；夏祎萌等[23-24]对新疆大风灾害灾度和危险度进行分析评价。大多学者对大风灾害的研究主要从大风致灾因子、孕灾环境、成灾环境等角度分析研究大风灾害特征、风险区划以及大风对电力、交通、林果业等不同行业、领域带来的影响和风险。但从风灾各种损失角度进行系统、全面分析风灾年际变化、时空分布和危害程度等的研究不多。本文通过对新疆风灾各种要素灾害损失（以下简称灾损)进行统计，构建风灾各种要素灾损指数和综合灾损指数，分析其概率分布，检验符合何种分布函数并进行灾损等级划分，由全疆风灾各要素灾损和综合灾损的时空分布，揭示新疆风灾的危害程度。
+
+# 1 研究区概况
+
+新疆地处欧亚腹地，位于我国西北，地形地貌复杂，山脉与盆地相间排列，独特的地理环境使新疆成为我国大风（瞬时风速达到或超过 $1 7 \ \mathrm { m \cdot s ^ { - 1 } } ) ^ { [ 2 5 ] }$ 盛行地区之一，很多风口和风区，大风多、风力强、危害重(图1)。如阿拉山口、达坂城、“三十里风注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2017)3320号的标准地图制作，底图无修改。下同。
+
+![](images/b153a34938c8f057bd5c727f5d78888733d74f984e63dac601a69e11bbcd21c3.jpg)  
+图1研究区示意图  
+Fig.1 Schematic diagram of the study area
+
+区”、“百里风区”、三塘湖一淖毛湖戈壁、喀什南部的高山区等地全年大风日数超过 $1 0 0 \mathrm { d }$ ；同时，新疆各地大风日数差异很大，年大风日数北疆最多，东疆次之，南疆最少[。大风灾害是新疆的主要气象灾害之一，对新疆经济社会发展和生命财产安全等危害极大。
+
+# 2资料与方法
+
+# 2.1资料
+
+本文采用新疆维吾尔自治区民政厅记载的1980—2019年全疆86个县(市)每次风灾过程的灾情历史数据，主要包括死亡人数（人）、倒塌房屋（间）倒塌棚圈（座）死亡牲畜(头）农作物受灾面积 $\left( \mathrm { h m } ^ { 2 } \right)$ (简称受灾面积)和直接经济损失( $1 0 ^ { 4 }$ 元）6种统计数据，分析得到风灾直接经济损失数据完整率仅有 $4 0 \%$ ，其他5种风灾损失数据完整可用，可作为风灾灾损要素分析；同时，考虑到风灾出现频次的影响，将某县市区域内每出现1次风灾记为1次，可得到各县风灾出现次数(次)，也作为风灾灾损的一种要素,将上述6种风灾要素作为损失的重要判识，由此统计计算出1980—2019年新疆86个县(市)6种风灾要素的逐年、逐月灾损累计值，并进行分析研究。
+
+# 2.2研究方法与步骤
+
+（1）各要素灾损指数( $y _ { i , j }$ )的构建
+
+对每县各要素逐年(1980—2019年)灾损进行求和统计为 $\vert x _ { x , j }$ ,得到86个县（市）6种要素的灾损矩阵 $X _ { m \times n }$ ;由公式(1)进行无量纲处理，则得各县各要素灾损指数矩阵 $Y _ { m \times n }$ .
+
+$$
+y _ { i , j } = x _ { x , j } \big / x _ { i \operatorname* { m a x } }
+$$
+
+式中:i=1,2,,m;j=1,2,…,n;m=6,n=86; xxj 、yij分别为第 $i$ 种要素、第 $j$ 个县的要素灾损值和灾损指数； $x _ { \mathrm { { i m a x } } }$ 为各县第 $i$ 种要素灾损最大值。
+
+(2）县(市)综合灾损指数 $\boldsymbol { z } _ { j }$ 的构建
+
+为了能够表达每县风灾综合灾损，建立各县、各要素灾损指数矩阵 $Y _ { m \times n }$ ,通过比值法确定每个灾损要素的权重，采用无量纲化线性求和的方法得到各县的 $z _ { j }$ 。计算公式定义如下：
+
+$$
+z _ { j } = \sum _ { i } ^ { m } a _ { i } y _ { i , j }
+$$
+
+式中： $z _ { j }$ 为各县的综合灾损指数； $a _ { i }$ 为第 $i$ 种要素灾损
+
+的权重; $y _ { i , j }$ 为第 $i$ 种要素、第 $\cdot j$ 个县的灾损指数。
+
+其中， $a _ { i }$ 计算公式定义如下：
+
+$$
+\boldsymbol { a } _ { i } = \boldsymbol { A } _ { i } / B
+$$
+
+式中： $A _ { i } = \sum _ { j = 1 } ^ { n } y _ { i , j }$ 为第 $j$ 个灾损要素无量纲化的累计值； $B = \sum _ { i = 1 } ^ { m } \sum _ { j = 1 } ^ { n } y _ { i , j }$ 代表全部灾损要素无量纲化的总和。
+
+(3）年综合灾损指数 $\left( \boldsymbol { w } _ { t } \right)$ 的构建
+
+同理，按照(1）、(2)的方法，可以构建1980—2019年逐年各要素灾损指数矩阵 $\boldsymbol { W } _ { m \times n }$ ，得到年综合灾损指数 $\left( \boldsymbol { w } _ { t } \right)$ ,对于年际变化 $t = 1 , 2 , \cdots , n$ ,其中 $n$ 代表年数（ $\scriptstyle ( n = 4 0 )$ 。
+
+(4）灾损指数概率分布、检验和等级划分
+
+以风灾各要素灾损指数为例，根据风灾各要素灾损指数样本序列，计算指数的平均值 $\overset { \cdot } { \mu }$ 、方差 $ { \mathbf { \sigma } } ^ {  { \mathbf { \sigma } } } \mathbf { \sigma } ^ {  { \mathbf { \sigma } } }$ ；对每一样本序列采用概率分布密度图解法，取分组数10得到指数直方图，为了检验其统计学意义，假设直方图显示灾损指数近似服从伽玛分布 $f ( y )$ ，即：
+
+$$
+f ( y ) = { \frac { 1 } { \beta ^ { \alpha ^ { - 1 } } { \cal T } ( \alpha ) } } y ^ { \alpha ^ { - 1 } } \mathrm { e } ^ { - y / \beta }
+$$
+
+式中： $\alpha = \mu ^ { 2 } / \sigma ^ { 2 }$ 为形状参数； $\beta = \sigma ^ { 2 } / \mu$ 为尺度参数； $\boldsymbol { \Gamma } ( \alpha )$ 是伽玛函数，计算公式如下：
+
+$$
+T ( \alpha ) = \int _ { 0 } ^ { \infty } t ^ { \alpha - 1 } \mathrm { e } ^ { - t } \mathrm { d } t
+$$
+
+式中： $\mathbf { \Phi } _ { t }$ 是广义积分变量。由此可以得到伽玛分布函数，取 $\scriptstyle . \alpha = 0 . 0 1$ ，查 $\dot { \chi }$ 分布表得到临界值 $\lambda { = } 1 8 . 4 8$ 。
+
+根据陈家鼎等[2的统计检验方法，计算统计量$V$ ，来判识是否遵从伽马分布。 $V$ 的计算公式如下：
+
+$$
+V { = } \sum _ { i = 1 } ^ { 1 0 } { \frac { \left( n p _ { i } - \nu _ { i } \right) ^ { 2 } } { n p _ { i } } }
+$$
+
+式中： $V$ 为判识统计量； $n$ 为样本总数； $\nu _ { \scriptscriptstyle i }$ 表示样本值落入第 $i$ 段的个数 $( i = 1 , 2 , \cdots , 1 0 )$ ; $p _ { i }$ 表示 $Y$ 取值落人第 $i$ 段的拟合概率；对比 $V , \lambda$ 大小。
+
+当 $V < \lambda$ 确认指数服从伽玛分布 $f ( \boldsymbol { y } )$ ，由累积分布函数 $F ( y ) = \int _ { 0 } ^ { y } f ( t ) \mathrm { d } t$ 确定各要素灾损指数不同等级的阈值并进行灾损等级划分，分为1级、2级、3级、4级，分别对应特重、严重、较重和一般灾损4个等级，反映风灾的危害程度。
+
+同理，对县(市)综合灾损指数、年综合灾损指数做同样检验和等级划分。
+
+# 3风灾灾损指数统计计算和伽玛分布的确定
+
+# 3.1各要素灾损指数统计计算及概率分布
+
+利用1980—2019年新疆86个县(市)6要素灾损统计数据，依据公式(1)计算得到各县(市)6要素风灾灾损指数 $y _ { i , j }$ ,采用概率分布密度的图解法，得到6要素灾损指数直方图，直方图显示灾损指数近似服从伽玛分布，由公式(4)计算出拟合概率（图2)，由公式(6)检验方法得到判识统计量V，且6要素
+
+3 4 (a)出现次数 概率密度 出料爽 8 64 (b)死亡人数 概率密度 出料爽 6「(c)倒塌房屋 4 ： 统概率密度 2 1 2   
+0 0 0 2 0   
+1.021   
+0: 指数间隔 指数间隔 指数间隔   
+10 (d)倒塌棚圈 8 (e)死亡牲畜 8 (f)受灾面积   
+8 统概率密度 出料 64 统概率密度 出料牌 64 统计概率密度   
+2 2 2   
+0 0 0 0.1 1   
+0： .0 0 0 0 0.4 0. 0 0. 0 0 6 0 0 0 0 0. 60 0 9 0 0 0 05 0 0.8-0 指数间隔 指数间隔 指数间隔
+
+Fig.2 Probability density distributions of the six kinds of wind disaster damage indices in Xinjiang
+
+# 干吴区地理
+
+判识统计量V均小于 $\lambda$ ,具体参数指标数为 ${ \boldsymbol { \mu } } \setminus \sigma ^ { 2 }$ 、$\alpha \cdot \beta$ 和V(表1);即每个灾损要素指数服从非正态伽玛分布，满足灾损等级划分条件。
+
+# 3.2风灾综合灾损指数计算和伽玛分布确定
+
+为了更好反映风灾的总体危害程度，将6要素灾损指数，带入构建的公式(2)得到县(市)和年综合灾损指数样本序列；采用计算风灾6要素灾损指数概率分布的方法和步骤，得到县(市)和年综合灾损指数直方图(图3)，同理可以算出县(市)和年综合灾损指数的 $\mu \cdot \sigma ^ { 2 } \cdot \alpha \cdot \beta$ 和V(表1),判识统计量V分别等于4.56、8.23均小于 $\lambda { = } 1 8 . 4 8$ ，均服从伽玛分布，可以进行综合灾损等级划分。
+
+# 4风灾损失的年际变化和季节占比
+
+# 4.1 年际变化
+
+近40a风灾的年综合灾损指数呈线性升高趋势(图4)。通过对年综合灾损等级划分(表2)统计分析表明，一般(4级）较重(3级）严重(2级）特重（1级）4个等级风灾综合灾损出现的年份分别占$5 5 . 0 \% . 2 2 . 5 \% . 7 . 5 \% . 1 5 . 0 \% , 4$ 级出现最多，其次是3级；2级、1级主要发生在1998年以后，占比达
+
+$3 6 . 4 \%$ ;尤其是1级近40a共发生 $6 \mathrm { ~ a ~ }$ ，其中5a出现在1998年以后。由此可见，20世纪末以来，新疆风灾为2级以上的年份增多，究其原因可能是20世纪90年代中期以来新疆农作物播种面积快速扩大，如2015年（ $6 1 2 6 . 1 \ \mathrm { h m } ^ { 2 }$ 较1995年（ $\langle 3 0 5 1 . 4 \mathrm { h m } ^ { 2 }$ 农作物播种面积就增加了1倍(来自新疆统计年鉴），而农业受灾面积权重系数在风灾综合灾损指数中较大，仅次于风灾频次，灾损的加重可能与农作物种植面积增大密切相关。
+
+# 4.2季节变化
+
+春季是风灾损失出现最重时段。分析新疆6种要素灾损在各月的占比(图5)，4月死亡牲畜头数、倒塌棚圈、倒塌房屋、死亡人数、风灾出现频次5种要素灾损占比分别为 $5 8 . 4 \% . 5 5 . 7 \% . 5 2 . 2 \% . 4 0 . 8 \%$ $3 9 . 6 \%$ ，占比均为最多，仅受灾面积为次多；5月受灾面积占比最多，死亡牲畜头数、倒塌房屋、死亡人数、风灾出现频次4种要素灾损占比次之，占比在$1 6 \% { \sim } 4 4 \%$ 之间；4、5月的6种风灾要素灾损占比达到 $67 \% { \sim } 9 0 \%$ ，可能由于春季冷空气活动频繁造成。因此，全年中春季是风灾发生的多发季节、灾损最大，夏季(6—8月)相对春季较小，秋冬季节(9一次年2月)损失最小。冬季12月死亡人数占全年的
+
+表1新疆风灾各要素统计参数指标  
+Tab.1 Statistical parameters of each element index of wind disaster in Xinjiang   
+
+<html><body><table><tr><td>参数</td><td>出现次数 (A)</td><td>死亡人数 (B)</td><td>倒塌房屋数 (C)</td><td>倒塌棚圈数 (D)</td><td>牲畜死亡数量 (E)</td><td>受灾面积 (F)</td><td>县(市)综合 灾损(G)</td><td>年综合 灾损(H)</td></tr><tr><td>实际灾损最大值</td><td>77</td><td>28</td><td>2460</td><td>3572</td><td>46069</td><td>475312</td><td>1</td><td>1</td></tr><tr><td>指数平均值(μ)</td><td>0.30</td><td>0.15</td><td>0.17</td><td>0.09</td><td>0.13</td><td>0.14</td><td>0.19</td><td>0.24</td></tr><tr><td>指数方差(o)</td><td>0.04</td><td>0.03</td><td>0.04</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.02</td><td>0.04</td></tr><tr><td>形状参数(α)</td><td>2.30</td><td>0.74</td><td>0.77</td><td>0.27</td><td>0.53</td><td>0.74</td><td>2.30</td><td>1.54</td></tr><tr><td>尺度参数(β)</td><td>0.13</td><td>0.20</td><td>0.22</td><td>0.32</td><td>0.24</td><td>0.19</td><td>0.08</td><td>0.16</td></tr><tr><td>判识统计量(V)</td><td>3.65</td><td>9.19</td><td>4.80</td><td>9.31</td><td>7.30</td><td>6.27</td><td>4.56</td><td>8.23</td></tr></table></body></html>
+
+5 (a)县(市)综合灾损指数 5 (b)年综合灾损指数料 43 2 统概率密度 出密 43 2 统计概率密度1 10 000 \~0.06 06 0 → 2 0 9 8 3\~0.24 0.24 0. 30 30 0 36 36 0 A 2 0. 8 A 0.54\~ 0 5 0 60 0.03\~ \~0.11 0.11\~ \~0.19 \~0.27 1 0.27\~ \~0.35 0.35\~ 0 3 双 D 5 .51 0 59 59 \~0.67 61 0 0.75\~0.8 5 .830 0 0 0 0. 0. 0 0 0: 0 0 0 0 0 0 0灾损指数间隔 灾损指数间隔
+
+Fig.3Probabilitydensitydistributions oftheannualandcountycomprehensive damage indicesof wind disasters in Xinjiang
+
+![](images/8b09c661ce7bbc3fee1eca260e1345257d3857b5b3ad31aee99ce1ea83e195b4.jpg)  
+图4新疆风灾综合灾损指数 $\left( \boldsymbol { w } _ { t } \right)$ 年际变化 Fig.4 Interannual variation of the composite damage index （204号 $\left( w _ { t } \right)$ of wind disasters in Xinjiang
+
+$1 0 . 5 \%$ ，可能主要是受新疆北部风雪天气的影响。大风灾害受灾面积最大出现在5月、其次是4月，可能与北疆作物播种和出苗比南疆滞后有关；4一5月风灾天气发生次数多、持续时间长，对农牧业生产影响较大且易成灾，此时段应是风灾风险较大时节，也是防范和灾后救助的重点季节。
+
+# 5风灾各级灾损的空间分布
+
+# 5.1风灾各种要素灾损等级空间分布
+
+分析新疆区域内86县(市)6种风灾要素灾损等级分布可知(图6)：
+
+风灾出现频次。1级区域为天山南坡的托克逊县、吐鲁番市高昌区、阿克苏市、库车市、新和县、尉犁县和北疆的福海县、温泉县8个县(市);2级区域主要分布在环塔里木盆地的阿克苏地区温宿县、拜城县、阿瓦提县,喀什地区莎车县、岳普湖县、英吉沙县、麦盖提县、疏附县，和田地区民丰县、洛浦县，巴州(巴音郭楞蒙古自治州)若羌县、和静县和吐鲁番市善县，哈密市伊州区14个县(市），以及北疆乌鲁木齐市、石河子市、精河县3个县(市)。从1、2级分布看，风灾发生频次南疆明显多于北疆。
+
+死亡人数。1级仅吐鲁番市高昌区和墨玉县，其中吐鲁番市高昌区累计死亡人数最多；2级区域为哈密市伊州区、托克逊县、沙雅县、和田市、克拉玛依市、阿勒泰市、乌鲁木齐市、额敏县8个县(市）。其它等级县(市)死亡人数相对较少。全疆有50个县(市)未发生人员死亡，无死亡人数等级。
+
+表2新疆各要素风灾灾损、县(市)综合灾损及年综合灾损等级划分  
+Tab.2 Grade standard of wind disasters and the annual composite damages in the county-level city and the whole regions over Xinjiang   
+
+<html><body><table><tr><td>要素</td><td>特重(1级)</td><td>严重(2级)</td><td>较重(3级)</td><td>一般(4级)</td></tr><tr><td>累积分布函数(K)</td><td>K>0.90</td><td>0.75<K≤0.90</td><td>0.50<K≤0.75</td><td>K≤0.50</td></tr><tr><td>出现次数(A)</td><td>A > 0.56</td><td>0.40<A≤0.56</td><td>0.26<A≤0.40</td><td>A≤0.26</td></tr><tr><td>死亡人数(B)</td><td>B> 0.37</td><td>0.21<B≤0.37</td><td>0.09<B≤0.21</td><td>B≤0.09</td></tr><tr><td>倒塌房屋数(C)</td><td>C>0.41</td><td>0.23<C≤0.41</td><td>0.10<C≤0.23</td><td>C≤0.10</td></tr><tr><td>倒塌棚圈数(D)</td><td>D> 0.26</td><td>0.09<D≤0.26</td><td>0.02<D≤0.09</td><td>D≤0.02</td></tr><tr><td>牲畜死亡数量(E)</td><td>E> 0.34</td><td>0.17<E≤0.34</td><td>0.06<E≤0.17</td><td>E≤0.06</td></tr><tr><td>受灾面积(F)</td><td>F> 0.34</td><td>0.19<F≤0.34</td><td>0.08<F≤0.19</td><td>F≤0.08</td></tr><tr><td>县(市)综合灾损(G)</td><td>G>0.35</td><td>0.25<G≤0.35</td><td>0.16<G≤0.25</td><td>G≤0.16</td></tr><tr><td>年综合灾损(H)</td><td>H>0.51</td><td>0.33<H≤0.51</td><td>0.19<H≤0.33</td><td>H≤0.19</td></tr></table></body></html>
+
+![](images/65667a830243cd17b9e42f14323f0b6d262aee38588221c9017e51fe88028493.jpg)  
+图5新疆6种风灾损失在各月所占百分数  
+Fig.5Proportion of the six wind disaster damages in each month in Xinjiang
+
+![](images/76d88f4a529a4f89d7661b4a0108d1cc1ce8c4cd4f9c313232efda3ca8abf07f.jpg)  
+Fig.6Spatial distributions of the six elements of wind disasters under different grades in Xinjiang
+
+倒塌房屋。1级区域为沙雅县、洛浦县、乌什县、柯坪县、托里县、巩留县、青河县7个县(市);2级区域为哈密市伊州区、吐鲁番市高昌区、墨玉县、于田县、尉犁县、奇台县、额敏县、伊宁县、裕民县、英吉沙县、若羌县、塔城市12个县(市)。1、2级南疆明显较北疆严重。
+
+倒塌棚圈。1级区域为洛浦县、墨玉县、乌什县、柯坪县和沙雅县5个县(市);2级区域为乌恰县、伽师县、英吉沙、奇台县、托里县、吉木萨尔县6个县（市）。1、2级主要出现在南疆阿克苏地区库车市至和田地区民丰县以西地区，北疆仅在塔额盆地和昌吉以东2县出现。
+
+死亡牲畜头数。1级区域为和静县、乌恰县、若羌县、库车市、乌什县、阿图什市、阿克苏市、沙雅县、乌鲁木齐市9个县(市);2级区域为托克逊县、尉犁县、吐鲁番市高昌区、于田县、阿瓦提县、轮台县、拜城县、柯坪县、新和县、布尔津县、温宿县、阿勒泰市12个县(市)。1、2级南疆明显多于北疆。
+
+受灾面积。1级区域为阿克苏市、吐鲁番市高昌区、库车市、石河子市、温宿县、新和县、尉犁县；2级区域为阿瓦提县、乌什县、沙雅县、莎车县、库尔勒市、柯坪县、岳普湖县、乌苏市、福海县、沙湾县、博乐市、泽普县、托克逊县、巴楚县、精河县、玛纳斯县、英吉沙县17个县(市)。1、2级主要分布在天山南北两侧县(市)。
+
+# 5.2风灾综合灾损等级空间分布
+
+分析新疆区域内86个县(市)风灾综合灾损等级分布可知(图7)，1级区域有吐鲁番市高昌区、托克逊县，阿克苏地区的阿克苏市、沙雅县、库车县，巴州的尉犁县和和田地区的洛浦县7个县(市);2级区域主要分布在阿克苏地区的新和县、拜城县、柯坪县等6县(市)，巴州和静县、尉犁县，喀什地区岳普湖县、英吉沙县，和田地区墨玉县，以及哈密伊州区、石河子市、福海县14个县(市);3级、4级主要分布在南疆塔里木盆地西部、南缘和北疆区域。由此可见，新疆风灾灾损最严重(1级、2级)的区域主要集中在南疆、东疆，尤其是南疆天山南麓一带，阿克苏地区风灾损失最严重；上述地区主要地处天山南坡，是天山翻山大风的主要侵害地，东疆有著名百里风区、三十里风区;而南疆阿克苏地区更是中天山翻山大风的必经之地，当较强冷空气翻越天山时，均为下坡风,风力加大,最大风速可达 $4 0 \mathrm { m } \cdot \mathrm { s } ^ { - 1 [ 1 ] }$ ,地处天山南坡的阿克苏地区各县极易遭受大风灾害。王秋香等[2]、满苏尔·沙比提等[27]对大风灾害的研究中也认为南疆、东疆尤其是阿克苏、喀什、巴州是风灾防范和灾后救助的重点地区。
+
+![](images/b13b581e4b8fd652f6bbd9158c4a4ae0a1719a3dffa4e9ca0835880e83619fb6.jpg)  
+图6新疆6种风灾要素灾损等级的空间分布  
+图7新疆风灾综合灾损等级的空间分布 Fig.7 Spatial distribution of the composite damage index of wind disasters in Xinjiang
+
+# 6结论
+
+（1）风灾等级划分。损失中的死亡人数、倒塌房屋数、倒塌棚圈数、牲畜死亡数、受灾面积以及风灾出现次数6种灾情数据，通过无量纲化和比值权重法处理后构建的风灾灾损指数服从伽玛分布并通过信度检验，使得各种风灾灾损要素和综合风灾指数能够遵从伽玛函数概率密度确定不同等级的阈值，有利于等级划分。
+
+(2）近40a来新疆风灾损失呈明显波动上升趋势。风灾灾损4个等级中4级灾损在历年出现的次数最多，占 $5 0 \%$ 以上，其次为3级，1级第三，2级最少；从年代际变化看，20世纪80年代风灾损失最轻，但1986年出现最重的灾损年；20世纪90年代风灾损失最重，主要是末期2a灾损为特重年（对应1级)；21世纪以来尤其是2005年以后风灾均为2级、3级年份。
+
+(3）风灾各要素灾损的季节分布。4月是风灾频次最多、各种风灾损失在全年占比最高的月，5月次之，2个月各灾损要素占全年的 $67 \% { \sim } 9 0 \%$ 。说明春季是新疆风灾的高发季节，灾损最大，也是风灾防范和灾后救助的重点季节；夏季风灾损失相对春季较小，秋、冬两季灾损最小。
+
+（4）风灾各要素灾损南疆明显多于北疆。风灾出现次数南疆明显多于北疆;死亡人数南疆较重，且有50个县(市)没有出现人员死亡;倒塌房屋数、倒塌棚圈数、牲畜死亡数3种风灾南疆明显重于北疆；受灾面积主要多发、重发在天山两侧各县，
+
+(5）综合灾损等级表明，新疆风灾灾损最严重(1级、2级)的区域主要集中在南疆阿克苏地区的8个县(市）、东疆吐鲁番市、尤其是南疆天山南麓一带，阿克苏地区风灾损失最严重。巴州和田地区的6个县(市)，以及喀什地区的英吉沙县、克州的乌恰县、哈密市伊州区、阿勒泰市等地；北疆大部以及南疆、东疆的其它区域多为3级以下。因此，南疆的阿克苏地区、巴州、喀什地区、和田地区以及东疆吐鲁番市、哈密市是风灾多发、重发的重点区域
+
+值得关注的是，本论文从风灾灾损的角度分析讨论了新疆风灾发生的时空分布及危害程度，并未考虑大风等级或风速大小的影响，也未对形成成因进行深人分析，未来有待进一步开展研究。新疆虽然大风日数以及风速均呈减少趋势，尤其南疆地区大风日数相对较少，但风灾灾损严重，这可能与当地防御风灾意识、防灾减灾能力相对较弱有关。
+
+# 参考文献(References)
+
+[1]张学文,张家宝.新疆气象手册[M].北京:气象出版社,2006: 185-189.[Zhang Xuewen,Zhang Jiabao.Xinjiang meteorological manual[M]. Beijing: China Meteorological Press,20o6:185-189.]   
+[2] 王秋香,李红军.新疆近20a风灾研究[J].中国沙漠,2003,23 (5):69-72.[Wang Qiuxiang,Li Hongjun.Analysis on gale disasters of Xinjiang in recent 4O years[J].Journal ofDesert Research, 2003,23(5): 69-72.]   
+[3] 张家宝，史玉光.新疆气候变化及短期气候预测研究[M].北京: 气象出版社,2002:157-159.[Zhang Jiabao,Shi Yuguang.The research on climate change and prediction of short-term climate in Xinjiang[M]. Beijing:China Meteorological Press,20O2:157- 159.]   
+[4] 邱博,张录军,谭慧慧.中国大风集中程度及气候趋势研究[J] 气象科学,2013,33(5): 543-548.[Qiu Bo,Zhang Lujun,Tan Huihui. Study on gale concentration degree and climatic tendency in China[J]. Journal of Meteorological Sciences,2O13,33(5):543- 548.]   
+[5] 王小玲，宋文玲.近30a我国5级以上风日数的时空变化特征 [J].气候变化研究进展,2004,62(2):228-236.[Wang Xiaoling, Song Wenling. Spatial and temporal variations in windy days over category 5 in China during 1975—2005[J].Advances in Climate Change Research,2004,62(2): 228-236.]   
+[6] 张爱英,任国玉，郭军，等.近30年我国高空风速变化趋势分析 [J].高原气象,2018,28(3): 680-687.[Zhang Aiying,Ren Guoyu, Guo Jun, et al. Change trend analyses on upper-air wind speed over
+
+# 干吴区地理 也理
+
+China in past 30 years[J].Plateau Meteorology,2018,28(3): 680- 687.]   
+[7] 王毅荣,张存杰.河西走廊风速变化及风能资源研究[J].高原气 象,2006,25(6):1196-1202.[Wang Yirong,Zhang Cunje.Changes of wind speed and wind energy over Gansu Corridor[J]. Plateau Meteorology,2006,25(6): 1196-1202.]   
+[8]谢今范,刘玉英,李宇凡.吉林地面和高空风速变化特征及成因 分析[J].高原气象,2015,34(5):1424-1434.[Xie Jinfan,Liu Yuying,Li Yufan. Variations and potential causes of surface and free atmospheric wind velocities in Jilin[J].Plateau Meteorology,2015, 34(5): 1424-1434.]   
+[9] 郭凌曜,廖玉芳,李晶,等.湖南历史风雹灾害序列构建及其变 化特征[J].灾害学,2018,33(2):122-127.[Guo Lingyao,Liao Yufang,Li Jing,et al. Construct and variation characteristics of historical gale and hail disasters in Hunan[J].Journal of Catastrophology,2018,3(2): 122-127.]   
+[10] 俞海洋,李婷,陈笑娟,等.河北省近30年大风时空分布及成灾 特征分析[J].灾害学,2017,32(2): 59-63.[Yu Haiyang,Li Ting, Chen Xiaojuan,et al. The spatio-temporal distribution and disaster characteristics analysis of the gale in Hebei Province for nearly 30 years[J]. Journal of Catastrophology,2017,32(2): 59-63.]   
+[11] 孙霞,陈小雷,俞海洋,等.河北省大风灾害及其危险性区划分 析[J].中国农学通报,2016,32(1):183-187.[Sun Xia, Chen Xiaolei,Yu Haiyang,etal.Analysis of wind disaster and its hazard regionalization in Hebei Province[J]. Chinese Agricultural Science Bulletin,2016,32(1): 183-187.]   
+[12] 汤浩,李如漪,贾丽红.新疆"2.28"大风的中尺度数值模拟[J]. 气象,2011,37(11): 1365-1371.[Tang Hao,LiRuqi,JiaLihong. Mesoscale numerical simulation of the 28February 2OO7 gale in Xinjiang[J].Meteorological Monthly,2011,37(11): 1365-1371.]   
+[13] 汤浩,王旭,储长江,等.乌鲁木齐城区一次极端东南大风的形 成机制——重力波与超低空急流耦合[J].干旱区地理,2019, 42(6): 1229-1238.[Tang Hao,Wang Xu, Chu Changjiang, et al. Formation mechanism of a southeast gale event in Urumqi urban area: The coupling of gravity wave and ultra-low level jet[J].Arid Land Geography,2019,42(6): 1229-1238.]   
+[14] 王玉竹,闫浩文,王小平,等.新疆大风集中程度时空特征分析 [J].干旱区地理,2020,43(3): 623-632.[Wang Yuzhu,Yan Haowen,Wang Xiaoping,et al.Spatio-temporal analysis of gale concentration in Xinjiang[J].Arid Land Geography，2020,43(3): 623- 632.]   
+[15] 缪霄龙,缪启龙,宋健,等.杭州地区雷雨大风灾害风险区划[J]. 气象与减灾研究,2012,35(3):45-50.[Miao Xiaolong,Miao Qilong,Song Jian,etal.Risk zoning of thunderstrom gale disaster in Hangzhou[J].Meteorology and Disaster Reduction Research, 2012, 35(3): 45-50.]   
+[16] 张丽娟,陈红,高玉宏,等.黑龙江省大风分布特征及风险区划 研究[J].地理科学进展,2011,30(7):899-905.[Zhang Lijuan, Chen Hong, Gao Yuhong,et al. Study on the distribution and risk zoning of strong winds in Heilongjiang Province[J]. Progress in Geography,2011,30(7): 899-905.]   
+[17] 李兰,周月华,陈波.湖北省大风灾害及其风险度[J].气象科技, 2009,37(2): 205-208.[Li Lan, Zhou Yuehua, Chen Bo.Wind disasters in Hubei Province and their risk degree[J]. Meteorological Science and Technology,2009,37(2): 205-208.]   
+[18] 宋建洋,柳艳香,田华,等.我国高速公路大风灾害风险评估与 区划研究[J].公路,2018,63(12):182-187.[Song Jianyang,Liu Yanxiang,Tian Hua, et al. Risk assessment and zoning of gale disasters on expressway in China[J]. Highway,2018, 63(12):182- 187.]   
+[19] 陈文友,马志福,马淑红,等.新疆公路风害风险区划研究[J].中 国科技信息,2013(15):139-141.[Chen Wenyou,Ma Zhifu,Ma Shuhong,et al. Regionalization research of Xinjiang highway wind damage risk[J]. China Science and Technology Information,2013 (15): 139-141.]   
+[20] 潘新民,彭艳梅,屈梅,等.新疆铁路沿线前百公里风区大风特 征统计分析[J].沙漠与绿洲气象,2019,13(3):66-71.[Pan Xinmin,Peng Yanmei, Qu Mei,et al.Feature of gale along railway of the front 1OO-kilometers wind area in southern Xinjiang[J].Desert and Oasis Meteorology,2019,13(3): 66-71.]   
+[21] 王建,田浩,庄文兵,等.过去三年新疆大风沙尘分布及电网吐 哈线路大风灾害风险分析[J].气象科技进展,2017,7(2): 24- 31.[Wang Jian, Tian Hao, Zhuang Wenbing,et al. Distribution of gale dust in Xinjiang during the past three years and risk[J].Advances in Meteorological Science and Technology,2017,7(2): 24- 31.]   
+[22] 鲁天平,郭靖,陈梦,等.新疆林果产业大风沙尘灾害风险评估 模型构建及区划[J].农业工程学报,2016,32(增刊2):169-176. [Lu Tianping,Guo Jing,Chen Meng,et al.Model establishment and zoning of wind-dust risk assessment to featured forestry and fruit industry inXinjiang[J].TransactionsoftheChineseSocietyf Agricultural Engineering (Transactions of the CSAE),2016,32(Suppl. 2): 169-176.]   
+[23] 夏祎萌,何清,李军,等.新疆大风灾害灾度和危险度分析[J].中 国沙漠,2012,32(4): 1025-1028.[Xia Yimeng,He Qing,Li Jun, et al.Disastedegreendisk dgreeofwiddisastersinXijing [J]. Journal of Desert Research,2012,32(4): 1025-1028.]   
+[24] 杨龙,何清.新疆近3年大风灾害灾度分析与区划[J].灾害学, 2005,20(4): 83-86.[Yang Long, He Qing. Analysis on gale disaster degree in Xinjiang for 3 years and disaster zoning[J].Journal of Catastrophology,2005, 20(4): 83-86.]   
+[25] GB/T35224-2017.中华人民共和国国家标准:地面气象观测规 范——天气现象[S].北京:中国标准出版社,2017.[GB/T 35224-2O17.National standard of the People's Republic of China: Specifications for surface meteorological observation: Weather phenomena[S]. Beijing: Higher Education Press,2017.]   
+[26] 陈家鼎,刘婉如,汪仁官.概率统计讲义[M].第三版.北京:高等 教育出版社,2004: 57-64.[Chen Jiading,Liu Wanru,Wang Ren
+
+guan.Probability and statistics[M]. $3 ^ { \mathrm { r d } }$ ed.edition.Beijing:HigherEducation Press,2004: 57-64.][27]满苏尔·沙比提,娜斯曼·那斯尔丁，陆吐布拉·依明.南疆近60年来风灾天气及灾度时空变化特征[J].地理研究,2012,31(5):
+
+803-810.[Sabit Mansur,Nasirdin Nasima,Imin Lotpulla. The spatio-temporal changes and intensity of gale disasters in southern Xinjiang in recent 6O years[J]. Geographical Research,2O12,31(5): 803-810.]
+
+# Spatial-temporal distribution of wind disasters in Xinjiang
+
+ZHANG Taixi, WANG Hui， YU Xingjie (Xinjiang Climate Center,Urumqi 83OOO2,Xinjiang, China)
+
+Abstract: Wind disaster is one of the most serious meteorological disaster occurrences in Xinjiang,China. Its temporal and spatial distributions are of great significance to wind disaster prevention.Based on the data of six types of disasters that occurred in Xinjiang during the period of 1980—2019,we calculated herein the yearly and monthlyaccumulated values of the corrsponding six disaster factors,namely the number of deaths,collapsed houses,collapsed sheds,number of livestock deaths,affected area of crops,and number of wind disasters from 86 in the county-level city (prefecture-level city). We then constructed a wind disaster damage index $( Z )$ that obeys the $\boldsymbol { { \cal T } }$ distribution and has passed the significance test by using the ratio weighting and linear dimensionless methods to classify the abovementioned six factors into four categories of mild,moderate,severe,and extra severe.The assssment results suggest that the wind disaster losses in Xinjang have shown a wavelike increase in the recent 40 years.These losses reached the extra severe level for the six factors over these 40 years.For disasters that occurred after l998,five of these six factors became more serious beyond 20o5,which may be related to the increase of the crop areas.The result of the wind disaster proportion in each month shows that these wind disasters mainly occur in April and May, accounting for $67 \% - 9 0 \%$ of that of the whole year. This demonstrates that spring is a critical season,during which wind disasters happen with the highest frequency and the biggest loss over Xinjiang. Compared with those during spring,the disaster losses during the other seasons are smaller, especially for autumn and winter. Thus,focusing on disaster prevention and relief during spring is important. As regards the spatial distribution of wind disasters,the disaster areas in southern Xinjiang are always larger han those in northern Xinjiang.The crop losses are frequently located in the sides of Tianshan Mountain.The high rateof the number of deaths was also observed in southern Xinjiang.The distribution of the composite damage index of wind disasters further suggests that the severe and extra severe grades of wind disasters were concentrated in Turpan,Aksu,and Kashi Prefectures.Only severe-grade events happen in Shihezi and Fuhai countylevel cities (prefecture-level cities) innorthern Xinjiang.The losses are the most serious in Aksubecause of ts larger crop areas and intensive flow downward Tianshan Mountain.Aksu,Bayingolin, Kashi,and Hotan Prefectures in souther Xinjiang and Turpan and Hami City in eastern Xinjiang generally always suffer from severe wind damages, requiring the government to provide prevention measures.
+
+Key words: wind disaster; damage index; grade division; spatial-temporal distribution; Xinjiang

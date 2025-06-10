@@ -1,0 +1,552 @@
+[
+    {
+        "type": "text",
+        "text": "Spatial variability and temporal stability of actual evapotranspiration on a hillslope of the Chinese Loess Plateau ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yongkun1,HUANG Mingbin2\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State Key Laboratory of Plateau Ecology and Agriculture, Qinghai University, Xining 810016, China;   \n² Institute of Soiland WaterConservation,Northwest Agriculture andForestry University,Yangling712100,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Actual evapotranspiration $\\left( \\mathrm { E T _ { a } } \\right)$ is a key component of water balance. This study aimed to investigate the spatial variability and time stability of $\\mathrm { E T _ { a } }$ along a hillslope and to analyze the key factors that control the spatiotemporal variability of $\\mathrm { E T _ { a } }$ . The potential evaporation, surface runoff and 0-480 cm soil water profile were measured along a $2 4 3 \\mathrm { ~ m ~ }$ long transect on a hillslope of the Loess Plateau during the normal (2015) and wet (2016) water years. $\\mathrm { E T _ { a } }$ Was calculated using Water balance equation. Results indicated that increasing precipitation during the wet water year did not alter the spatial patern of $\\mathrm { E T _ { a } }$ along the hilslope; time stability analysis showed that a location with high time stability of $\\mathrm { E T _ { a } }$ could be used to estimate the mean $\\mathrm { E T _ { a } }$ of the hilslope. Time stability of $\\mathrm { E T _ { a } }$ was positively correlated with elevation $_ { ( P < 0 . 0 5 ) }$ ,indicating that,on a hilslope in a semi-arid area, elevation was the primary factor influencing the time stability of $\\mathrm { E T _ { a } }$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: relative difference; water balance; surface runof; soil texture; semi-arid areas ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Actual evapotranspiration $\\mathrm { ( E T _ { a } ) }$ is an important component of water and energy cycle,and it accounts for $9 5 \\%$ of water balance in dry ecosystems (Wilcox et al.，2Oo3). Moreover, water-limited environments cover almost half of the Earth's land surface and are expected to increase (Newman et al., 2OO6). Therefore,understanding the spatiotemporal variations of $\\mathrm { E T _ { a } }$ is crucial for water resources management efficiency in water-limited regions (Lian and Huang, 2015, 2016). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { E T _ { a } }$ is perhaps the most difficult and complicated component of the hydrological cycle because it involves the combined effects of climate, terrain, vegetation, soil and its hydraulic properties (Thomas,2000; Xu and Singh, 2005; McVicar et al., 2007; Vivoni et al., 2010; Zhao and Zhao, 2014; Li et al.,2O17). Many studies have focused on the spatiotemporal variability of $\\mathrm { E T _ { a } }$ under different environmental conditions (Thomas,2000; Mo et al.,2004; Gao et al.,2007; McVicar et al.，2007； Vivoni et al.， 2010;Gao et al., 2019).For example,Thomas (2000) reported that evapotranspiration in the arid and semi-arid areas of Northwest China decreased to a large extent in all seasons primarily due to variations in wind, relative humidity and maximum temperature. Nicholls et al. (2O16) analyzed the effect of vegetation cover on $\\mathrm { E T _ { a } }$ in the $5 2 \\mathrm { - h m } ^ { 2 }$ Sandhill Fen watershed of Canada,and found that $\\mathrm { E T _ { a } }$ increased as the peak leaf area index (LAI) increased during the growing season. Mo et al. (2OO4） simulated annual $\\mathrm { E T _ { a } }$ over the Lushi basin in the middle reach of the Yellow River of China, and suggested that spatial pattern of annual $\\mathrm { E T _ { a } }$ was similar to precipitation and LAI patterns. Vivoni et al.(2O1O） explored soil moisture and evapotranspiration distributions using a distributed hydrologic model in a semi-arid mountain basin,and found hysteresis existed between soil moisture and evapotranspiration due to climate variability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The above studies on the spatiotemporal variability of $\\mathrm { E T _ { a } }$ were mainly conducted at the regional or watershed scales.The hillslope is the main unit of measurement in hydrological studies where $\\mathrm { E T _ { a } }$ measurements are used to derive catchment-level $\\mathrm { E T _ { a } }$ (Santiago et al., 2000; Ewers et al., 2OO2). However, systematic studies on the spatiotemporal variability of $\\mathrm { E T _ { a } }$ at the hillslope scale remain scarce. Carey and Woo (2Oo1) investigated the differences in $\\mathrm { E T _ { a } }$ on four hillslopes with different vegetation types，and stated that $\\mathrm { E T _ { a } }$ was mainly limited by the phenology of deciduous forests and shrubs. Because there was only one measurement site for $\\mathrm { E T _ { a } }$ on each hillslope, spatial variability of $\\mathrm { E T _ { a } }$ within the hillslope was ignored in the study of Carey and Woo (2001).Mitchell et al. (2012） evaluated the differences in $\\mathrm { E T _ { a } }$ at different hillslope positions in a mixed-species eucalypt forest, and discovered that $\\mathrm { E T _ { a } }$ in the upper slope position is $40 \\%$ lower than that in the middle and lower slope positions.Because the $\\mathrm { E T _ { a } }$ measurement sites in the study of Mitchell et al. (2O12） were located on different hillslopes in the catchment, differences in $\\mathrm { E T _ { a } }$ between measurement sites was not necessarily due to slope position. However, many environmental factors might cause differences in $\\mathrm { E T _ { a } }$ along a hillslope (Majidi et al., 2015). And just measuring $\\mathrm { E T _ { a } }$ at one monitoring site on a hillslope is difficult to understand the spatiotemporal variability of $\\mathrm { E T _ { a } }$ at the hillslope scale. In this study,a transect line was established on a hillslope with single vegetation type to obtain the $\\mathrm { E T _ { a } }$ at different positions of the hillslope,so as to understand the spatial variability of $\\mathrm { E T _ { a } }$ inside the hillslope. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { E T _ { a } }$ always presents temporal variability at different positions on the hillslope.A time stability analysis can be performed to investigate the spatial variability and time stability of $\\mathrm { E T _ { a } }$ at the hillslope scale.In previous studies,this method has been successfully applied to examine the spatiotemporal variability of soil moisture at hillslope and catchment scales.And the most time stable location (MTSL) in the studied field is identified to represent the mean soil moisture of the field (Vachaud et al.,1985; Starr,2005; Hu et al.,2010; Gao et al.,2011; Gao and Shao,2012; Jia and Shao,2013; Hu and Si, 2014; Zhang et al., 2016; Liao et al.,2017). Recently, two indices (soil salinity and soil sulfur content) except for soil moisture have applied time stability analysis to analyze the spatiotemporal variability (Douaik et al., 2O06; Piotrowska-Dlugosz et al.,2017). However, no study has been conducted to investigate the spatiotemporal variability of $\\mathrm { E T _ { a } }$ by a time stability analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study，we assume that time stability analysis can be utilized for investigation of spatiotemporal variability of $\\mathrm { E T _ { a } }$ at a hillslope scale. The objectives of the present study are: (1) to investigate the spatial variability of water balance components along a hillslope; (2) to explore the spatial variability and time stability of $\\mathrm { E T _ { a } }$ along the hillslope；and（3） to determine the primary factors controlling the spatiotemporal variability of $\\mathrm { E T _ { a } }$ on the hillslope. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study was conducted on a hillslope located in Liudaogou Watershed $( 3 8 ^ { \\circ } 4 6 ^ { \\prime } - 3 8 ^ { \\circ } 5 1 ^ { \\prime } \\mathrm { N } _ { \\cdot }$ $1 1 0 ^ { \\circ } 2 1 ^ { \\prime } { - } 1 1 0 ^ { \\circ } 2 3 ^ { \\prime } \\mathrm { E } )$ on the Chinese Loess Plateau (Fig.1). The watershed is characterized by semi-arid continental climate conditions (Peel et al., 2Oo7),with a mean annual air temperature and precipitation of $8 . 4 ^ { \\circ } \\mathrm { C }$ and $4 3 7 ~ \\mathrm { m m }$ (1980 to 2O15),respectively. The annual precipitations in 2015 ( $4 3 5 \\mathrm { m m } )$ and 2016 ( $( 6 1 2 \\mathrm { m m } )$ are equal to or $2 5 \\%$ higher than the mean annual precipitation $( 4 3 7 ~ \\mathrm { m m } )$ ,thus the years of 2O15 and 2O16 are termed as normal and wet water years (Zhang et al., 2016). The watershed covers an area of $6 . 8 9 \\mathrm { ~ k m } ^ { 2 }$ and features a series of deep gullies and large slopes.The dominant soil is Inceptisols with texture of silt loam (Fu et al., 2O12). The soil forms in loess parent material. As a result, it has substantial macropores and vertical fractures, leading to good drainage. The annual potential evapotranspiration is approximately $7 8 5 ~ \\mathrm { m m }$ (Hu and Si, 2014). The elevation ranges from 1094 to $1 2 7 4 \\mathrm { ~ m ~ }$ (Bo et al., 2011). The studied hillslope is approximately $2 4 3 \\mathrm { ~ m ~ }$ long and $2 0 ~ \\mathrm { m }$ wide and runs from southeast to northwest with mean slope gradient of about $1 9 . 8 ^ { \\circ }$ . The hillslope is mainly vegetated with Korshinsk peashrub (Caragana korshinskii Kom). The relevant soil properties,terrain attributes，and vegetation features are provided in Table 1. Three plots were established at the upper, middle and lower slope positions.Each plot was $2 \\mathrm { ~ m } { \\times } 5 \\mathrm { ~ m ~ }$ with the longest side in the direction of the slope gradient.Five,five and six shrubs( $C$ ，korshinskii） with similar canopies are successively distributed in the upper, middle and lower plots on the hilslope,respectively. The mean slope gradients of upper, middle and lower slope positions are $2 7 . 7 ^ { \\circ }$ ， $2 2 . 7 ^ { \\circ }$ and $1 2 . 1 ^ { \\circ }$ ，respectively, as displayed in Table1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d359059426be3a53be5a4eeeee2af310f5b2ce65d6dd37833b1d30d09f246d77.jpg",
+        "img_caption": [
+            "Fig.1Sampling sites in (a) Liudaogou watershed and (b)layout of 38 soil water content monitoring locations spaced at $5 \\mathrm { ~ m ~ }$ intervals on a hilslope. Surface runoff experimental plots and evaporation pans at the upper (sampling site,1-13),middle (sampling site,14-27),and lower (sampling site,28-38) slope positions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A transect running down the middle of the hilslope was used for soil water content (SWC) measurements in 4O sampling locations established at approximately $5 \\mathrm { ~ m ~ }$ intervals (Fig. 1b). Sampling locations were referred to as locations 1 to 38 from the top to the bottom of the slope because measurements at locations 39 and 40 ceased in 2016.Locations 1 to 13,14 to 26,and 27 to 38 represented the upper, middle，and lower slope positions,respectively. A $5 \\mathrm { - m }$ long aluminum neutron probe access tube was installed at each sampling location. Considering that the root system of Korshinsk peashrub was distributed in the $0 { - } 5 0 0 ~ \\mathrm { c m }$ soil profile (Cheng et al., 2009), SWC was measured at $_ { 1 0 \\mathrm { - c m } }$ depth intervals between the depths of 1O and $1 0 0 \\mathrm { c m }$ and at $2 0 \\mathrm { - c m }$ intervals between the depths of 120 and $4 8 0 \\ \\mathrm { c m }$ .Measurements were made approximately every $1 2 { \\mathrm { ~ d ~ } }$ during the observation periods (1 May to 26 October 2015 and 15 April to 29 October 2016). Volumetric SWC was measured by a neutron probe (CNC503DR hydro probe; Beijing Super Power Company, China). In the O-1O and $1 0 { - } 2 0 ~ \\mathrm { c m }$ soil profiles,loss of fast thermal neutrons from the soil usually occurs and requires a separate calibration of the neutron probe for each of the two layers (Bromley et al.，1997). Calibration of the neutron probe was performed with standard methods by measuringthe counts at fixed depths in seven $4 8 0 \\mathrm { - c m }$ long access tubes installed in the hillslope along the transect with a wide range of SWCs (soil water contents). ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b34013af2eff503df97e072b9e69097a8cb1661d5386cc0577c2daabadc0f9ae.jpg",
+        "table_caption": [
+            "Table 1Soil properties,topographic attributes,and vegetation features at different slope positions along the hillslope "
+        ],
+        "table_footnote": [
+            "Note:ELE,mean elevation; ${ \\bf K } _ { \\mathrm { s } }$ ,saturated hydraulic conductivity;BD,bulk density; $\\mathrm { L A I _ { m } }$ ,maximum leaf area index (measured on 12 August 2015).Uppr,idleandlowerslopepositiosrespectivelyrepresentthesamplingsites1-13,147and28-38.Thesae lowercase letters within a row indicate no significant difference at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Property</td><td rowspan=\"2\">Soil profile (cm)</td><td rowspan=\"2\">Statistical parameter</td><td colspan=\"3\">Slop position</td></tr><tr><td>Upper</td><td>Middle</td><td>Lower</td></tr><tr><td>ELE (m)</td><td></td><td>Max</td><td>1170</td><td>1151</td><td>1140</td></tr><tr><td rowspan=\"5\">Slope (°)</td><td rowspan=\"5\"></td><td>Min</td><td>1152</td><td>1141</td><td>1131</td></tr><tr><td>Mean±SD</td><td>1159±4.72a</td><td>1146±3.83b</td><td>1136±3.13c</td></tr><tr><td>Max</td><td>24.32</td><td>16.56</td><td>9.21</td></tr><tr><td>Min</td><td>34.10</td><td>25.43</td><td>16.23</td></tr><tr><td>Mean±SD</td><td>27.69±2.90a</td><td>22.69±3.09b</td><td>12.12±2.07c</td></tr><tr><td rowspan=\"3\">Ks (cm/h)</td><td>0-30</td><td>Max</td><td>6.20</td><td>7.66</td><td>6.31</td></tr><tr><td></td><td>Min</td><td>1.57</td><td>1.97</td><td>0.89</td></tr><tr><td></td><td>Mean±SD</td><td>3.00±1.52a</td><td>3.76±1.78b</td><td>2.52±1.65a</td></tr><tr><td rowspan=\"3\">BD (g/cm³)</td><td rowspan=\"3\">0-30</td><td>Max</td><td>1.61</td><td>1.73</td><td>1.74</td></tr><tr><td>Min</td><td>1.25</td><td>1.32</td><td>1.13</td></tr><tr><td>Mean±SD</td><td>1.39±0.09a</td><td>1.48±0.1a</td><td>1.53±0.11a</td></tr><tr><td rowspan=\"2\">LAIm (m²/m²)</td><td rowspan=\"2\"></td><td>Max</td><td>1.86</td><td>2.32</td><td>2.96</td></tr><tr><td>Min</td><td>0.62</td><td>0.61</td><td>0.55</td></tr><tr><td rowspan=\"3\">Clay (%)</td><td rowspan=\"3\">0-200</td><td>Mean±SD</td><td>1.13±0.33a</td><td>1.56±0.22b</td><td>1.47±0.25b</td></tr><tr><td>Max</td><td>16.62</td><td>16.26</td><td>16.80</td></tr><tr><td>Min</td><td>9.42</td><td>12.33</td><td>5.46</td></tr><tr><td rowspan=\"3\">Silt (%)</td><td rowspan=\"3\">0-200</td><td>Mean±SD</td><td>13.56±2.24a</td><td>14.70±1.2a</td><td>12.97±3.15a</td></tr><tr><td>Max</td><td>40.33</td><td>41.71</td><td>42.44</td></tr><tr><td>Min</td><td>26.55</td><td>31.58</td><td>15.59</td></tr><tr><td rowspan=\"4\">Sand (%)</td><td rowspan=\"4\">0-200</td><td>Mean±SD</td><td>35.26±4.94a</td><td>37.20±2.89a</td><td>31.57±7.28a</td></tr><tr><td>Max</td><td>64.02</td><td>55.65</td><td>78.95</td></tr><tr><td>Min</td><td>43.32</td><td>42.69</td><td>40.76</td></tr><tr><td>Mean±SD</td><td>51.19±7.01a</td><td>48.10±4.00a</td><td>55.46±10.38a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The standard count was obtained when the probe was immersed in water. The relation between soil moisture counts and standard counts was then calibrated against the volumetric SWC of 200 soil cores extracted from each of the fixed depths and at the same horizontal distance from the access tube measured with standard methods(Gardner et al.,2001). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "During the installation of the neutron probe access tubes,disturbed soil samples were collected for soil texture determination. The soil samples were collected at $2 0 \\mathrm { - c m }$ depth intervals down to a depth of $2 0 0 \\ \\mathrm { c m }$ in each neutron probe access tube location. Soil texture was relatively homogeneous throughout the entire soil profile,except for the soil surface during the installation of neutron probe access tubes.Thus,only the soil particle size distribution of the $0 { - } 2 0 0 ~ \\mathrm { c m }$ soil profile was measured. Soil particle size distribution was determined by laser diffraction using Mastersizer 2OoO (Malvern Ltd.,UK).In addition,at each location, three $4 0 \\mathrm { - c m }$ deep soil profile pits were excavated at distances of $5 0 \\mathrm { c m }$ from the tube.Undisturbed soil samples were collected from the pit walls at a depth of $3 0 \\mathrm { c m }$ by using standard pre-weighed $1 0 0 ~ \\mathrm { { m l } }$ Kopecky rings.The soil samples were used to determine bulk density (BD) through the gravimetric method (Baker, 1990)and saturated hydraulic conductivity $( \\operatorname { K } _ { \\mathrm { s } } )$ through the constant-head method (Libardi et al., 1980). Three replicated samples were collected in each location. The statistics of BD and $\\mathrm { K _ { s } }$ are listed in Table 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LAI was measured with an LAI-22OO canopy analyzer (Li-Cor, Inc., USA). Plots with a size of $2 \\mathrm { m } { \\times } 2 \\mathrm { m }$ were created and centered on the access tube in each location.From each of these plots, three Korshinsk peashrub plants were selected to determine the LAI in each month of the monitoring period. Each plant was considered a replicate,and the LAI values of the three plants were utilized to calculate the mean LAI in that SWC monitoring location. The maximum LAI values were measured on 12 August 2O15 and 18 August 2016.The mean values of the maximum LAI for the three slope positions are shown in Table 1. The elevation (E） and slope in each location were determined with an RTK-GPS receiver(Trimble 57O0, Trimble Inc.,USA）and a dinometer (PDCO1，Everte Inc.， China). The mean elevations and slopes of the three slope positions are shown in Table 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Three plots sized $2 ~ \\mathrm { m } { \\times } 5 ~ \\mathrm { m }$ were created for measurements of surface runoff and centered at locations 6,18 and 30, which were representatives of the upper, middle,and lower slope positions (Fig.1b). Surface runoff was measured for each rainfall event that produced runoff in 2O15 and 2016. Three D2O evaporation pans (diameter, $2 0 \\ \\mathrm { c m }$ ; height, $1 0 \\ \\mathrm { c m } \\backslash$ ）with 5-cm mesh-wire screen covers were installed next to the runoff monitoring plots at the upper, middle,and lower slope positions. The D2O pan was placed on a frame $7 0 \\mathrm { c m }$ above the ground and had a 5-cm mesh-wire screen cover to prevent birds from drinking from the pan.Pan evaporation was measured every three days during the observation periods of 2O15 and 2016. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A meteorological station was installed adjacent to the upper slope position to monitor daily solar radiation,air temperature,wind speed,relative humidity, precipitation,and other factors. The distributions of daily rainfall and mean air temperatures in the study site from 2O15 to 2016 are shown in Figure 2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d2688777febdfe596cc5aab06913b8f8b9be33c6790c5a221f06c045ffa0aa4.jpg",
+        "img_caption": [
+            "Fig.2Distributions of daily precipitation and temperature in the study area during the observation period in 2015 and 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Data analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Variation in potential evapotranspiration (PET) along the hillslope ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Daily PET was calculated using the Penman equation (Shuttleworth,1993). The PET calculated by Penman equation in the meteorological monitoring station was regarded as the PET at the upper slope position. Comparisons of PET values were respectively calculated by evaporation pan and Penman equation at the upper slope position on the hillslope (Fig. 3). And the mean ratios of the measured D2O pan evaporation in the upper, middle,and lower slope positions were assumed to be equal to those of PET.Therefore,the ratios of PET in the upper, middle,and lower slope positions were 1.O0:0.98:0.83 based on the measurements of D20 pan evaporation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2Actual evapotranspiration $\\left( \\mathrm { E T _ { a } } \\right)$ （20 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Considering that the temporal interval of soil water measurements along the hillslope was $1 2 { \\mathrm { ~ d } } .$ the $1 2 \\mathrm { - d } \\mathrm { E T _ { a } }$ $\\mathrm { ( m m / d ) }$ was estimated using the water balance method, which was from a reduced equation (Eq. 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E T a } _ { j + 1 } = P _ { j + 1 } - R _ { j + 1 } - ( \\mathrm { S W S } _ { j + 1 } - \\mathrm { S W S } _ { j } ) - G _ { j + 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathsf { S W S } _ { j }$ is the soil water storage $\\left( \\mathrm { m m } \\right)$ in the $4 8 0 \\mathrm { - c m }$ profile at the $j$ measurement; $\\boldsymbol { \\mathrm { S W S } } _ { j + 1 }$ is the soil water storage in the $4 8 0 \\ \\mathrm { c m }$ .profile at the $j { + } 1$ measurement; $P _ { j + 1 }$ is accumulated precipitation $\\left( \\mathrm { m m } \\right)$ between the $j ^ { \\mathrm { t h } }$ and $j ^ { \\mathrm { t h } } { + } 1$ measurements; $R _ { j + 1 }$ is the accumulated runoff depth between the $j$ and $j { + } 1$ measurements (mm)； and $G _ { j + 1 }$ is deep percolation $( \\mathrm { m m } )$ ，which was disregarded because the annual rainfall infiltration depth hardly exceeds $1 0 0 \\mathrm { c m }$ depth in this area (Yang et al.，2O11） and the groundwater table was generally below $2 0 \\mathrm { ~ m ~ }$ in the study site (Shangguan and Zheng,2Oo6). Precipitation was assumed to be homogenous along the hillslope, whereas the measured runoff depths in the three plots located at the upper, middle,and lower slope positions were assumed valid for the locations 1-13,14-26,and 27-38,respectively. The underground water was not involved in the soil water cycle due to the high underground water level (Shangguan and Zheng，2Oo6). Therefore，the influence of groundwater and deep percolation on water balance was disregarded in this study. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 Time stability analysis of $\\mathrm { E T _ { a } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The relative difference method of time stability analysis (Vachaud et al.，1985) was used in this study. The relative difference of $\\mathrm { E T _ { a } }$ and $\\delta _ { i j }$ for $i$ location at $j$ time was defined by Equation 2. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { i j } = \\frac { \\mathrm { E T _ { a } } _ { i j } - \\overline { { \\mathrm { E T _ { a } } _ { j } } } } { \\overline { { \\mathrm { E T _ { a } } _ { j } } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $i$ is the measurement location $( i { = } 1 , 2 , 3 , . . . , n , . . . , 3 8 )$ ; and $j$ is the measurement counting during 2015 and 2016（ $\\scriptstyle { j = 1 }$ ，2，3，...， $m$ ，...，24).Due to the lack of datasets，hold-out cross-validation method is used to evaluate time stability analysis for estimating the mean $\\mathrm { E T _ { a } }$ A random number generator is utilized to randomly select 14 data sets from 24 data sets to form a training set to determine the representative sites.The remaining 1O data sets constitute validation sets,which is to evaluate the prediction accuracy of representative sites for hillslope-mean $\\mathrm { E T _ { a } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "And $\\overline { { \\mathrm { E T } _ { \\mathrm { a } j } } }$ is the mean $\\mathrm { E T _ { a } }$ for all locations at the $j$ measurement and is expressed as Equation 3. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { \\mathrm { E T a } _ { j } } } = \\frac { 1 } { n } { \\sum } _ { i = 1 } ^ { n } { \\mathrm { E T } _ { { \\mathrm { a } _ { i j } } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Then, the temporal mean relative difference (MRD), $\\overline { { \\delta } } _ { i } .$ ,and its standard deviation (SDRD),or $\\sigma ( \\delta _ { i } )$ ,were calculated by Equations 4 and 5. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M R D } = \\frac { 1 } { m } \\sum _ { j = i } ^ { m } \\delta _ { i j } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S D R D } = \\sum _ { j = 1 } ^ { m } \\left( \\frac { ( \\delta _ { i j } - \\overline { { \\delta _ { i } } } ) ^ { 2 } } { m - 1 } \\right) ^ { \\frac { 1 } { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Generally, sampling locations that have relatively low SDRD can be regarded as the locations with high time stability (Grayson and Western,1998). If the MRD values of sampling locations are close to zero, the $\\mathrm { E T _ { a } }$ values in these locations would be close to the area-mean $\\mathrm { E T _ { a } }$ . Jacobs et al. (2004) suggested an index of time stability (ITS) considering MRD and its SDRD to determine time-stable locations (Eq. 6). ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { I T S } _ { i j } = \\sqrt { \\sigma ( \\delta _ { i } ) ^ { 2 } + \\overline { { \\delta _ { i } } } ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The location with the lowest ITS value was regarded as the MTSL representative of the mean value in $\\mathrm { E T _ { a } }$ on the hillslope. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.4 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The significance level of correlation was tested through a two-tailed $t \\cdot$ -test.The relationships between $\\mathrm { E T _ { a } }$ in each sampling location and the influencing factors were characterized by a non-parametric Spearman's test. The differences of soil properties at different slope positions were tested through one-way analysis of variance. Tukey's honest significance difference (HSD) method was used as a post hoc test for multiple mean comparisons. K-S (Kolmogorov-Smirnov) test was used to evaluate the normal and non-normal distributions of the time series of SWC.All statistical programs were from SPSS19.O (IBM Corp.,USA). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6bdad1cda227c4e5249fc1c5dde1f2834b3346e940b4fff96b7e62897d9f24dd.jpg",
+        "img_caption": [
+            "Fig.3Comparisons of potential evapotranspiration (PET) values respectivelycalculated by evaporation pan and penman equation at the upper slope position on the hillslope "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 Variations in PET and surface runoff at different slope positions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the variations in PET at different slope positions during the normal (2O15) and wet (2016) water years. The mean values of PET at the upper and middle slope positions were significantly higher $( P { < } 0 . 0 5 )$ than that at the lower slope position both in 2015 and 2O16.PET in the wet water year was higher $\\scriptstyle \\overbrace { P = 0 . 0 8 } ^ { } ,$ ） than that in the normal water year for all slope positions. Comparisons of runoff between the three slope positions are presented in Figure 5. Only 12 surface runoff events occurred on the hilslope in 2O15 and 2O16.The mean values exhibited a declining trend from the upper $( 6 . 1 \\ \\mathrm { m m } / \\mathrm { d } )$ ）and middle $( 3 . 9 \\ \\mathrm { m m } / \\mathrm { d } )$ to thelower $( 1 . 9 \\ \\mathrm { m m } / \\mathrm { d } )$ slope positions. Significant difference was observed only between the upper and lower slope positions $( P { < } 0 . 0 5 )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Variations in SWC along the hillslope ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Normal and non-normal distributions of the time series of SWC were observed at each depth for all locations by a K-S test. Therefore,median and interquartile ranges were used to characterize the central and discrete tendency of SWC during the normal and wet water years (Fig. 6). Areas with the highest SWCs during the normal water year mainly occurred in the $2 4 0 { - } 4 8 0 ~ \\mathrm { c m }$ soil layer at the locations of 13,14,15,33,34,35 and 36 (Fig.6a). The other areas with the highest SWCs were the $3 0 { \\mathrm { - } } 1 8 0 \\ { \\mathrm { c m } }$ soil layer for all locations in 2O16 because of the approximately doubled precipitation in 2016 compared with 2015 (Fig. 6b). In 2015,the areas with the lowest SWCs were within the $3 0 { \\mathrm { - } } 1 8 0 ~ { \\mathrm { c m } }$ soil layer for the most of measurement locations (Fig. 6a). In 2016, the driest soil layer typically occurred at the soil surface $( 0 { - } 2 0 \\mathrm { c m } )$ (Fig. 6b). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The temporal variability in SWC was characterized by the interquartile range (Fig. 6c and d) for 2015 and 2016.In 2015,the highest temporal variability in SWC was observed in the $0 { - } 3 0 \\mathrm { c m }$ soil layer for all locations and in the $4 0 { - } 4 8 0 ~ \\mathrm { c m }$ soil layer for the locations 13 and 14 (Fig. 6c), whereas,in 2O16,the highest temporal stability of SWC extended to the $2 0 0 ~ \\mathrm { c m }$ depth (Fig. 6d). During the transition from dry to wet period, the SWCs of the $2 0 0 { - } 4 8 0 ~ \\mathrm { c m }$ soil layer also remained relatively constant (Fig. 6c and d). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9cbf3649dc1df85a3ae134f63d5fcf60597ff81b668f0cc766db6597fc3aee9.jpg",
+        "img_caption": [
+            "Fig.4Daily potential evapotranspiration (PET）at the upper, middle,and lower slope positions during the normal (2O15,a)and wet (2O16,b)water years.Vertical bars represent standard deviations,the same lowercase letters labelled over the boxes indicate no significant difference at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2262c538fda06d4f9bcdb9a1339161b8ab4744e045611160d8b3d1ade06e572.jpg",
+        "img_caption": [
+            "Fig.5Variations in surface runoff depth at different slope positions in 2015and 2016.Vertical bars represent standard deviations,the same lowercase letters labelled over the boxes indicate no significant difference at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 Variations in $\\mathbf { E T _ { a } }$ along the hillslope ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 presents the $\\mathrm { E T _ { a } }$ in each measurement location along the hillslope during the growing seasons of 2015 and 2016.Despite the different absolute values,the $\\mathrm { E T _ { a } }$ along the hillslope exhibited a similar trend during normal and wet water years (Fig. 7). $\\mathrm { E T _ { a } }$ rapidly decreased between locations 1 and 11 to reach the minimum of $2 2 6 ~ \\mathrm { m m }$ in 2015 and $5 2 2 ~ \\mathrm { m m }$ in 2016 in location 11 (Fig. 7). Then, $\\mathrm { E T _ { a } }$ increased and reached the maximum of $2 9 1 ~ \\mathrm { m m }$ in location 13 in 2015 and $6 8 7 ~ \\mathrm { \\ m m }$ in location 15 in 2016 (Fig.7). After reaching the peak, $\\mathrm { E T _ { a } }$ gradually decreased. $\\mathrm { E T _ { a } }$ decreases of 41 and $1 7 7 \\ \\mathrm { m m }$ in 2015 and 2O16,respectively,were observed. The mean $\\mathrm { E T _ { a } }$ in the lower slope positions (locations 27 to 38) was lower than that at the middle slope positions (locations 13 to 26) in the normal and wet years.Furthermore,the $\\mathrm { E T _ { a } }$ on the hillslope in 2016 was significantly $( P { < } 0 . 0 1 )$ higher than that in 2O15,with averaged values of 593 and 270 $\\mathrm { m m }$ ,respectively, due to different amounts of precipitation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/69346601642c382f6a88bfb1c78be806110b95e4be83e564b6bc2c2a228a6072.jpg",
+        "img_caption": [
+            "Fig.6Median and interquartile ranges of soil water content (SWC) in the time domains of 2O15 (a and c)and 2016 (b and d) for various depths and sampling locations "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4 Time stability of $\\mathbf { E T _ { a } }$ ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A relative difference analysis was performed to quantitatively identify the location where $\\mathrm { E T _ { a } }$ was consistently equal to the mean $\\mathrm { E T _ { a } }$ of the study area. Such location identified could approximately represent the area-averaged value of the $\\mathrm { E T _ { a } }$ ，therefore reducing the time,labor and costs for monitoring $\\mathrm { E T _ { a } }$ . Figure 8 presents the ranked MRD in $\\mathrm { E T _ { a } }$ ，the associated SDRD and the ITS for each sampling location on the hilslope. The mean, minimum,maximum and range values of MRD, SDRD and ITS of $\\mathrm { E T _ { a } }$ are displayed in Table 2.The ranges (differences between the minimum and maximum values) of MRD, SDRD and ITS were $6 4 . 0 4 \\%$ ， $9 1 . 9 6 \\%$ and $9 9 . 2 2 \\%$ ，respectively (Table 2). The minimum values of MRD,SDRD and ITS in $\\mathrm { E T _ { a } }$ were $- 2 0 . 9 2 \\%$ ， $2 1 . 4 4 \\%$ and $2 2 . 1 0 \\%$ ，respectively. A significantly positive correlation $( P { < } 0 . 0 1 )$ was found between MRD and SDRD values in $\\mathrm { E T _ { a } }$ .In this study, the MTSL with the lowest ITS value was selected to estimate the mean $\\mathrm { E T _ { a } }$ of the hillslope.As shown in Figure 8,location 13 with an ITS value of $2 2 . 1 0 \\%$ was identified for estimation of hillslope mean $\\mathrm { E T _ { a } }$ .Thevalidation dataset verified that the $\\mathrm { E T _ { a } }$ at the MTSL (location 13） can be used to predict the mean $\\mathrm { E T _ { a } }$ of the hillslope $\\scriptstyle ( R ^ { 2 } = 0 . 9 3 1$ ， $P { < } 0 . 0 1$ ; Fig. 9). ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/60a796c9250cd3022a8188aa96549576a2e3a88e731554d941d649eeba2ed1b3.jpg",
+        "table_caption": [
+            "Table 2Descriptive statistics of MRD,SDRD,and ITS values in $\\mathrm { E T _ { a } }$ in each sampling location along the hillslope "
+        ],
+        "table_footnote": [
+            "Note:MRD,meanrelative diffrence;SDRD,standard deviationof relative difference;ITS,index of time stability; $\\mathrm { E T _ { a } }$ ，actual evapotranspiration;SD,standarddeviation. "
+        ],
+        "table_body": "<html><body><table><tr><td>Parameter</td><td>Maximum</td><td>Minimum</td><td>Mean</td><td>SD</td><td>Kurtosis</td><td>Skewness</td></tr><tr><td>MRD (%)</td><td>43.12</td><td>-20.92</td><td>0.00</td><td>15.86</td><td>1.373</td><td>1.265</td></tr><tr><td>SDRD (%)</td><td>113.40</td><td>21.44</td><td>42.10</td><td>20.24</td><td>5.061</td><td>2.131</td></tr><tr><td>ITS (%)</td><td>121.32</td><td>22.10</td><td>44.32</td><td>21.54</td><td>5.738</td><td>2.287</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/df0c1eb64859c364d124d0847bc3926f520a21560d7c29f32922bc60ab8be141.jpg",
+        "img_caption": [
+            "Fig.7Variations in accumulated actual evapotranspiration $\\mathrm { ( E T _ { a } ) }$ in each sampling location along the hillslope during normal (2015) and wet (2016) water years "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/712ff336dbcecc86d4a2df6d11b29f0c21b0281afedc192eb6b8dd0269523463.jpg",
+        "img_caption": [
+            "Fig.8Ranked mean relative difference (MRD) of actual evapotranspiration $\\mathrm { ( E T _ { a } ) }$ and the index of time stability (ITS）for each monitoring location on the hillslope.Vertical bars represent $\\pm 1$ standard deviation of relative difference (SDRD).The dashed curve indicates ITS,and the most time stable location (MTSL） with the lowest ITS values is marked in grey. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/41cb99f87460bd117b321d1a6d7525fb61e0070687e74c3c2646e57528018b73.jpg",
+        "img_caption": [
+            "Fig.9Predicted versus measured $\\mathrm { E T _ { a } }$ on the hillslope.The dashed line is the 1:1 line. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.5 Factors controlling the time stability of $\\mathbf { E T _ { a } }$ ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 3 presents the correlations between indices (MRD, SDRD and ITS) exhibiting time stability of $\\mathrm { E T _ { a } }$ and the factors,i.e.,clay contents, ${ \\bf K } _ { \\mathrm { s } }$ ，BD,elevation,maximum LAI $\\mathrm { { ( L A I _ { m } ) } }$ and SWS. The MRD of $\\mathrm { E T _ { a } }$ is another manifestation of evapotranspiration size.As shown in Table 3,MRD values of $\\mathrm { E T _ { a } }$ had the highest positive correlation with SWS $( P { < } 0 . 0 1 )$ ； besides,ELE and PCC (mean clay contents for the profile) was also correlated with MRD of $\\mathrm { E T _ { a } }$ 1 $( P { < } 0 . 0 5 )$ . SDRD and ITS values in this study represent the time stability of $\\mathrm { E T _ { a } }$ . According to Table 3,only ELE was significantly correlated with SDRD and ITS values of $\\mathrm { E T _ { a } }$ $( P { < } 0 . 0 5 )$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Among the influencing factors, $\\mathrm { L A I _ { m } }$ and BD were positively correlated ( $( P { < } 0 . 0 1 )$ .ELE had a significant relationship with $\\mathrm { L A I _ { m } }$ ，BD and SCC (surface clay contents) $( P { < } 0 . 0 1 )$ . The SCC was negatively correlated with BD $( P { < } 0 . 0 1 )$ .In addition,a significantly positive correlation existed between SWS and PCC $( P { < } 0 . 0 5 )$ . A relatively weak correlation, however, was presented between MRD of $\\mathrm { E T _ { a } }$ and $\\mathrm { L A I _ { m } }$ $( P { > } 0 . 0 5 )$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/256a6e87c7447d8d5cf340f35e610b6617cf42e8f3d919c7977acf8ea508e6f9.jpg",
+        "table_caption": [
+            "Table 3Matrix of Spearman rank correlation coeffcients for factors influencing the mean relative difference (MRD)，standard deviation of relative difference(SDRD）and index of time stability(ITS）of actual evapotranspiration $( \\mathrm { E T _ { a } } )$ （20 "
+        ],
+        "table_footnote": [
+            "Note:MRD,SDRDandISindicate meanrelative diference(MRD),standarddeviationofrelativediference(SDRD)and indexof time stability (ITS) of actual evapotranspiration $\\mathrm { ( E T _ { a } ) }$ .SCC,surface clay contents;PMCC,profile mean clay contents; SWS,soil water storage;“and \\*\\* indicate that the correlation is significant at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels, respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>MRD</td><td>SDRD</td><td>ITS</td><td>BD</td><td>Ks</td><td>ELE</td><td>LAIm</td><td>SWS</td><td>SCC</td><td>PMCC</td></tr><tr><td>MRD</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SDRD</td><td>0.787**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ITS</td><td>0.784**</td><td>0.996**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BD</td><td>0.066</td><td>-0.055</td><td>-0.041</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ks</td><td>0.240</td><td>0.324*</td><td>0.308</td><td>0.187</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ELE</td><td>0.375*</td><td>0.335*</td><td>0.331*</td><td>-0.543**</td><td>0.007</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>LAIm</td><td>-0.306</td><td>-0.309</td><td>-0.308</td><td>0.426**</td><td>0.191</td><td>-0.698**</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>SWS</td><td>0.504**</td><td>0.316</td><td>0.312</td><td>0.029</td><td>0.165</td><td>0.150</td><td>-0.099</td><td>1.000</td><td></td><td></td></tr><tr><td>SCC</td><td>0.140</td><td>0.022</td><td>0.032</td><td>-0.502**</td><td>-0.057</td><td>0.466**</td><td>-0.316</td><td>0.265</td><td>1.000</td><td></td></tr><tr><td>PMCC</td><td>0.322*</td><td>0.015</td><td>0.011</td><td>0.239</td><td>0.328*</td><td>-0.070</td><td>0.081</td><td>0.370*</td><td>0.217</td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/c38291c6011c6317fafdd64e1edb98b7f452b347c4d0515cc4b89b5da37a9f03.jpg",
+        "table_caption": [
+            "Table 4Matrix of Spearman rank correlation coefficients between potential evapotranspiration (PET) and five climatic factors "
+        ],
+        "table_footnote": [
+            "Note: Sig.,significant level; $N _ { : }$ sample size; $\\mathrm { T } _ { \\mathrm { m a x } }$ ,maximum temperature; $ { \\mathrm { T } } _ { \\mathrm { m i n } }$ ,minimum temperature;Rs,solar radiation;Ws,wind speed; Td,dewpoint temperature.\\*\\* indicates that the correlation is significant at $P { < } 0 . 0 1$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Parameter</td><td>Tmax (C)</td><td>Tmi (C)</td><td>(M/m2)</td><td>Ws (m/s)</td><td>Td (C)</td></tr><tr><td rowspan=\"3\">PET</td><td>Pearson correlation</td><td>0.816**</td><td>0.700**</td><td>0.890**</td><td>0.185**</td><td>0.429**</td></tr><tr><td>Sig. (2-tailed)</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>N</td><td>1025</td><td>1025</td><td>1025</td><td>1025</td><td>1025</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1 Variations of components in water balance along the hillslope ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "PET was influenced by climatic conditions,such as solar radiation, air temperature,wind speed and relative humidity,which can be used to estimate $\\mathrm { E T _ { a } }$ in the water balance calculations.Given that one of the important environmental controls in PET is solar radiation (Table 4),the small PET in the lower slope position (Fig. 4) might be due to reduced solar radiation (Carey and Woo, 2011; Fyllas et al.,2017). The precipitation in 2016 was much more than that in 2015; however, PET in both years did not show a significant difference (Fig. 4). The results indicated that PET exhibited less inter-annual variability than precipitation in the studied area. This observation was consistent with that in the study of Oishi et al.(2O1O),who studied the evapotranspiration of a mature oak-hickory forest in North Carolina of USA and found that despite the large inter-annual variation in precipitation (ranging from 934 to $1 3 4 6 ~ \\mathrm { m m }$ ),annual evapotranspiration varied much less ( $6 1 0 { - } 6 6 8 ~ \\mathrm { m m }$ .This was because inter-annual evapotranspiration variability can be mitigated by vegetation responses through decreasing soil water storage during drought period (Jones, 2011). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Surface runoff is affected by many factors,such as rainfall intensity, rainfall duration, presence of vegetation, soil and microtopography (Dunne et al., 1991; El-Hassanin et al.,1993). Surface runoff decreased gradually from upper to lower slope position (Fig. 5). Given that rainfall was consistent across the hilslope，variations in surface runoff could be mainly attributed to the difference in the slope gradient (Table 1).This conclusion was also supported by El-Hassanin et al. (1993), who reported that runoff increased as the slope gradient increased.The median values of runoff for the three slope positions were as small as $3 . 5 \\ \\mathrm { m m / d }$ ，and only 12 runoff events occurred during the two years.These results indicated that in the semi-arid area,the amount and frequency of runoff events was so limited that it had litte influence on the water balance calculations. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Larger water storage was concentrated in the deep soil layer (i.e., $2 4 0 { - } 4 8 0 ~ \\mathrm { c m } )$ of the lower slope position (Fig. 6a and b).A similar observation was obtained by Fu et al. (2O13)，who reported that soil water downhill accumulation occurred in a deep soil layer (i.e., $3 0 0 { \\ - } 4 0 0 \\ \\mathrm { c m } )$ for fallow and cropland due to elevation. Due to rapidly increased precipitation,spatial pattern of SWC in the vertical profile has significantly changed from 2015 to 2016 (Fig. 6). For instance, the $3 0 { \\mathrm { - } } 1 8 0 ~ { \\mathrm { c m } }$ soil layer of the hillslope was the driest layer in 2O15.This is because this layer was the main distribution area of the root system of $C .$ 、korshinskii (Cheng et al.，2OO9)，and became the driest soil layer for the root water uptake.Then，the $3 0 { \\mathrm { - } } 1 8 0 \\ { \\mathrm { c m } }$ soil layer was converted to the wetest areas because of the doubled precipitation in 2O16 compared with 2015 (Fig. 6b). This result agreed with the findings of Chen et al. (2OO8),who observed that stored water in grassland in the $2 0 0 { - } 3 0 0 ~ \\mathrm { c m }$ soil layer greatly increased due to doubled precipitation in the Chinese Loess Plateau. The highest temporal variability of SWC in 2O15 and 2016 was observed in O-30 and $0 { - } 2 0 0 ~ \\mathrm { c m }$ soil layer, respectively (Fig. 6c and d). The former was due to the combined effects of precipitation, solar radiation, soil evaporation and topography on the surface soil layer (i.e., $0 { - } 3 0 ~ \\mathrm { c m }$ soil layer in this study) (Wythers et al.,1999;Pan and Wang,2OO9;Gao et al.,2015); the latter was probably a result of precipitation recharge to root zone SWC,which resulted in the transition from driest to wettest in the root zone. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { E T _ { a } }$ varied with terrain,climate,soil,and plant characteristics. $\\mathrm { E T _ { a } }$ in this study exhibited a slightly declining trend (Fig.7). Based on the simplified water balance on the studied hillslope (not considering rainfall, deep percolation and groundwater recharge (Shangguan and Zheng, 2006;Yang et al.，2O11))，variations of $\\mathrm { E T _ { a } }$ were mainly ascribed to variations of SWS and surface runoff.For SWS, no significant difference was found for temporal variability (displayed by interquartile range） of SWC among sampling sites along the hilslope (Fig. 6c and d), indicating that variation degrees of water storage for all measurement sites were similar. Therefore, the slightly declining trend in $\\mathrm { E T _ { a } }$ along the hillslope mainly resulted from variations of surface runoff (Fig. 5). Besides, the significantly low PET $( P { < } 0 . 0 5 )$ at the lower slope position (Fig.4) also supported the declining trend in $\\mathrm { E T _ { a } }$ on the hillslope in this study. $\\mathrm { E T _ { a } }$ along the hillslope exhibited a similar trend during the normal and wet water years (Fig.7).This indicated that the horizontal spatial pattern of $\\mathrm { E T _ { a } }$ on the hillslope was hardly altered by precipitation in semi-arid areas.The reason was that, based on the simplified water balance, $\\mathrm { E T _ { a } }$ was mainly affected by variations of SWS and surface runoff depth.For the former, the horizontal spatial patern of SWS on the hillslope changed little because the increased SWS in the semi-arid areas typically resulted in water flow in the vertical profile by soil properties (Grayson et al.,1997; Green and Erskine,2O11).For the latter,horizontal overland flow could indeed influence soil water horizontal distribution. However, the amount and frequency of runoff were quite limited in this study (Fig. 5). Among locations 1-17 (Fig.7),location 11 had almost the lowest $\\mathrm { E T _ { a } }$ in both 2015 and 2016.Location 11 also had the lowest SWC of the whole hillslope (Fig. 6). The reason for the low $\\mathrm { E T _ { a } }$ in location 11 might be that low SWC limited the plant growth in semi-arid areas (Linacre,2OO4),and resulted in lower water consumption by transpiration. $\\mathrm { E T _ { a } }$ around location ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "14 was higher than that in most of the hillslope (Fig.7). High $\\mathrm { E T _ { a } }$ around location 14 could be ascribed to the high water storage in this area (Fig. 6a and b). This was because that increased water storage in arid and semi-arid areas could greatly promote plant growth, thus leading to high $\\mathrm { E T _ { a } }$ (Garcia and Tague, 2014). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2 Time stability of $\\mathbf { E T _ { a } }$ and its influencing factors ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Time stability has been substantially applied to SWC in previous studies (Vachaud et al.,1985; Jacobs et al.,2004; Gao and Shao,2012; Zhang et al., 2016). In addition to SWC, time stability, as an effective method to analyze spatiotemporal variability，was first applied to soil sulfur content and soil salinity (Douaik et al.,2OO6; Piotrowska-Dlugosz et al.,2017). In this study, a time stability analysis was performed to investigate the spatiotemporal variability of $\\mathrm { E T _ { a } }$ for the first time. The ranges of SDRD and ITS in $\\mathrm { E T _ { a } }$ were 145.38 and 151.42 (Table 2),which were significantly higher than those in SWC (Gao and Shao，2012； Zhang et al.，2016).The phenomenon indicated that $\\mathrm { E T _ { a } }$ had a relatively higher temporal variability than SWC. It was because that the components (soil evaporation and transpiration） of $\\mathrm { E T _ { a } }$ and the corresponding controls in the components were so numerous and the variability of $\\mathrm { E T _ { a } }$ was greatly increased (Zeng and Cai,2016). The minimum SDRD and ITS in $\\mathrm { E T _ { a } }$ were not significantly higher than those in SWC (Table 2).The results indicated that the location with the lowest ITS values could be used to accurately estimate the hillslope mean $\\mathrm { E T _ { a } }$ . The MRD and SDRD values in $\\mathrm { E T _ { a } }$ at each measurement location had a significantly positive relationship $( P { < } 0 . 0 1 )$ ．The correlation suggested that a high $\\mathrm { E T _ { a } }$ (presented as high MRD) would cause high temporal variability of $\\mathrm { E T _ { a } }$ (presented as high SDRD).A similar observation was obtained by Vivoni et al. (2O1O),who investigated the spatiotemporal variability of soil moisture and evapotranspiration in a mountainous basin within the North American monsoon region. This finding also indicated that the location with high time stability in $\\mathrm { E T _ { a } }$ (presented as low SDRD) tended to be in the area with relatively low $\\mathrm { E T _ { a } }$ (presented as low MRD） along the hillslope. Figure 8 shows that MTSL (location 13) could be used to estimate the hillslope mean $\\mathrm { E T _ { a } }$ （ $\\scriptstyle { \\bar { R } } ^ { 2 } = 0 . { \\bar { 9 } } 3 1$ ， $P { < } 0 . 0 1 \\$ )，which could be estimated with MTSL identified from the time stability analysis.In the future monitoring process, the $\\mathrm { E T _ { a } }$ value at the MTSL can be continuously monitored by an automatic device,and can represent the average $\\mathrm { E T _ { a } }$ of the whole hillslope. This method will also save a great deal of labor, time and expenditure. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { E T _ { a } }$ involves soil evaporation and plant transpiration through the stomata of plants,and is influenced by hydrological processes， such as precipitation，runoff and underground water. Therefore,the time stability of $\\mathrm { E T _ { a } }$ was directly or indirectly affected by terrain, soil, climate and vegetation characteristics.MRD of $\\mathrm { E T _ { a } }$ can represent the $\\mathrm { E T _ { a } }$ size.In this study,a significantly positive relationship $( P { < } 0 . 0 1 )$ existed between SWS and MRD of $\\mathrm { E T _ { a } }$ (Table 3).With regard to this point,Manabe(1969) proposed two SWC thresholds, namely, $\\mathbf { S } \\mathbf { W } \\mathbf { C } _ { \\mathbf { C R I T } }$ (critical water content above which $\\mathrm { E T _ { a } }$ equals PET) and SWCwiLr (soil wilting coefficient below which $\\mathrm { E T _ { a } }$ is zero), and suggested that $\\mathrm { E T _ { a } }$ increased with increasing SWC between the two SWC thresholds. Shuttleworth (1993） found that $S \\mathrm { W C } _ { \\mathrm { C R I T } }$ was typically equal to $5 0 \\% - 8 0 \\%$ of $\\mathbf { S } \\mathbf { W } \\mathbf { C } _ { \\mathrm { F C } }$ (field capacity). In this study,most of SWCs were within these two thresholds. The positive relationship between $\\mathrm { E T _ { a } }$ and sws $( P { < } 0 . 0 5 )$ also supported the conclusion of Manabe (1969)，who considered $\\mathrm { E T _ { a } }$ increased with the increasing SWC， as SWC values were between SWCcRIT and SWCwILT. Similar observations were also obtained in other studies (Vivoni et al.,2O1O; Garcia and Tague,2014). Furthermore,a significantly positive relationship existed among MRD of $\\mathrm { E T _ { a } }$ ，SWS and PMCC (profile mean clay contents) (Table 3).Thus, it can be inferred that soil texture influenced the SWS distribution and resulted in the spatial variability of $\\mathrm { E T _ { a } }$ because soil texture controlled the vertical water distribution in the profile(Grayson et al.，1997). Moreover,lateral overland flow was so infrequent (Fig. 4) that horizontal soil water redistribution seldom occurred. Besides,only ELE had significant correlation with SDRD and ITS of $\\mathrm { E T _ { a } }$ (Table 3) because ELE could affect the time stability of $\\mathrm { E T _ { a } }$ by indirectly influencing soil and vegetation on a hillslope. This was also supported by Table 3,which displayed that ELE was negatively correlated with BD and LAI but positively correlated with SCC $( P { < } 0 . 0 1 )$ ． A weak correlation existed between $\\mathrm { L A I _ { m } }$ and $\\mathrm { E T _ { a } }$ (Table 3) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "because considerable areas of bare soil between shrubs during the growing season causing high evaporation. Soil evaporation, however, was not associated with plant productivity compared with plant transpiration (Kool et al.,2O14） and eventually weakened the positive correlation between $\\mathrm { E T _ { a } }$ and $\\mathrm { L A I _ { m } }$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this study，soil water storage，surface runoff and precipitation along a hilslope were determined during the normal (2015） and wet(2016) water years. $\\mathrm { E T _ { a } }$ was calculated from a simple water balance equation. The spatial variability and time stability of $\\mathrm { E T _ { a } }$ along the hillslope were investigated,and the key factors that influence the spatiotemporal variability of $\\mathrm { E T _ { a } }$ were analyzed. The conclusions were obtained as follow: (1) lower slope position showed less potential evapotranspiration probably due to reduced solar radiation compared with the upper and middle slope positions;(2） horizontal spatial pattern of $\\mathrm { E T _ { a } }$ on the hillslope was hardly altered by precipitation in semi-arid areas although doubled precipitation increased $\\mathrm { E T _ { a } }$ ; (3） time stability analysis indicated that the location with high time stability of $\\mathrm { E T _ { a } }$ tended to be in the area with relatively low $\\mathrm { E T _ { a } }$ . The location with the highest time stability of $\\mathrm { E T _ { a } }$ can be used to accurately estimate the mean $\\mathrm { E T _ { a } }$ of the hillslope;and (4） time stability of $\\mathrm { E T _ { a } }$ was mainly ascribed to elevation on the hillslope of Chinese Loess Plateau. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This research was financially supported by the Programme of Introducing Talents of Discipline to Universities of China (D180l3),the independent subjectof State Key Laboratory of Plateau Ecologyand Agriculture,Qinghai University,China (2019-ZZ-05),the Project of Qinghai Science & Technology Department (2019-ZJ-Y01),the Natural Science Foundation of Qinghai Province, China (2O20-ZJ-967Q),the Thousand High Innovative Talents Program of Qinghai Province (2O19),and the Program for Changjiang Scholars and Innovative Research Team in University,Ministryof Education,China (IRT_17R62).Theauthors would alsolike tothank thestaffof Shenmu Erosion and Environment Station of the Institute of Soil and Water Conservation,Chinese Academy of Sciences. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Baker JM.1990.Measurement of soil water content. Remote Sensing Reviews,5(1): 263-279.   \nBoX,Wang QH,FanJ,etal.O11Aplicationofthe SCS-CNmodeltorunoff estimationinasmall watershedwithhigh spatial heterogeneity.Pedosphere,21(6):738-749.   \nBromleyJ,BrouwerJ,BarkerA,etal.1997.Theroleofsurfacewaterredistribution inanareaofpateredvegetation ina semi-arid environment,south-west Niger. Journal of Hydrology,198(1-4):1-29.   \nCareySK,WooM.2Oo1.Spatial variabilityof hillslope waterbalance,wolf creek basin,subarcticyukon.Hydrological Process,15(16): 3113-3132.   \nChen HS,ShaoMG,LiYY.2O08.The characteristicsofsoil water cycleand waterbalanceonstep grassandunder natural and simulated rainfallconditions in the Loess Plateau of China.Journal of Hydrology,36O(1-4):242-251.   \nCheng XR,Huang MB,Shao MG,et al.2Oo9.Acomparisonoffine root distributionand water consumptionof mature Caragana korshinkii Kom grown in two soils in asemiarid region,China.Plant and Soil,315(1-2):149-161.   \nDouaik A,vanMeirvenneM,TothT.Oo6.Temporalstabilityofspatialpaternsofsoilsalinitydeterminedfromlaboratoryand field electrolytic conductivity.Arid Land Research and Management,2O(1):1-13.   \nDune T,Zhang W,AubryBF.1991.Efectsofrainfallvegetation,and microtopographyon infiltrationandrunoff.Water Resources Research,27(9): 2271-2285.   \nEl-Hassanin AS,Labib TM,GaberEI1993.Efectof vegetationcoverand land slopeonrunoffand soillosss from the watersheds of Burundi.Agriculture Ecosystems & Environment,43(3-4): 301-308.   \nEwersBE,MackayDS,GowerST,etal.2Oo2.Tree species efectsonstandtranspiration innorthern Wisconsin.Water Resources Research,38(7):1103,doi:10.1029/2011WR010636.   \nFu W,HuangMB,GaichandJ,etal.2Ol2.OptimzationofplantcoverageielationtowaterblaneintheLoesPateauof China. Geoderma,173-174: 134-144.   \nFu XL,ShaoMG,WeiXR,etal.2O13.Efectsofmonovegetationrestorationtypesonsoil waterdistributionandbalanceona   \nFylls NM,BentleyLP,ShenkinA,etal.2O17.Solarradiationandfunctional traitsexplainthedeclineofforestprmary productivity along a tropical elevation gradient.Ecology Letters,2O(6):730-740.   \nGao G,ChenDL,XuCY,etal.2007.Trendof estimatedactual evapotranspirationover Chinaduring196O-2002.Journalof Geophysical Research-Atmospheres,112: D11120,doi: 10.1029/2006JD008010.   \nGao L,Shao M.2Ol2.Temporal stabilityofshallowsoil watercontent forthreeadjacent transectsonahilslope.Agricultural Water Management,110: 41-54.   \nGao L,LvYJ,Wang DD,et al.2015.Can shallow-layer measurements at asingle locationbeused to predict deepsoil water storage at the slope scale?Journal of Hydrology, 531: 534-542.   \nGao X D, WuPT, Zhao XN,et al.2O.Estimating spatial meansoil watercontents ofsloping jujubeorchards usingtemporal stability. Agricultural Water Management,102(1): 66-73.   \nGao YF, ZhaoCY,Muhammad WA,et al.2019.Actual evapotranspiration of subalpine meadows in the Qilian Mountains, Northwest China. Journal of Arid Land,11(3): 371-384.   \nGarciaE,TagueC.2O14. Climateregimeandsoil storagecapacityinteract toefect evapotranspiration inwestern United States mountain catchments.Hydrology And Earth System Sciences,11(2):2277-2319.   \nGardner CMK,Robinson D,Blyth K,etal.2001.Soil water content.In:Smith KA,MullnsCE.SoilandEnvironmental Analysis: Physical methods $2 ^ { \\mathrm { n d } }$ ed.). New York: Marcel Dekker,1-64.   \nGraysonR B,Western AW,ChiewFH,et al.997.Preferred states inspatial soil moisture paterns:Localand nonlocal controls. Water Resources Research,33(12): 2897-2908.   \nGrayson R B,Western A W.1998.Towards areal estimation of soil water content from point measurements: time and space stability of mean response.Journal of Hydrology,207(1-2): 68-82.   \nGreenTR,ErskineR H.2O11Measurement andinferenceof profile soil-waterdynamics atdiferent hilslopepositions ina semiarid agricultural watershed. Water Resources Research,47(12): W00H15,doi: 10.1029/2010WR010074.   \nHu W,Shao,MA,HanF,etal.2010.Watershedscale temporalstabilityofsoil watercontent.Geoderma,158(3-4):181-198.   \nHu W,Si B C.2O14.Can soil water measurements at acertain depth beused to estimate mean soil water contentof a soil profile at a point or at a hilslope scale? Journal of Hydrology,516: 67-75.   \nJacobsJM,MohantyBP,HsuEC,etal.2O04.SMEX2:Fieldscalevarabilitytimestabilityandsimilarityofsoilmoisture. Remote Sensing of Environment, 92(4): 436-446.   \nJia Y H,Shao MA.2013.Temporal stabilityof soil water storage under four typesof revegetation onthe northern Loess Plateau of China.Agricultural Water Management,117: 33-42.   \nJonesJ.2011.Hydrologicresponses to climate change:Considering geographic contextand alternative hypotheses. Hydrological Process,25(12): 1996-2000.   \nKool D,Agam N,LazarovitchN,etal.2O14.Areviewof aproaches for evapotranspiration partitioning.Agricultural and Forest Meteorology,184: 56-70.   \nLi QY,SunYW,Yuan WL,etal.2O17.Streamflow responses toclimatechange andLUCC inasemi-arid watershedof Chinese Loess Plateau. Journal of Arid Land, 9(4): 609-621.   \nLian J,Huang M.2O15.Evapotranspiration estimation foran oasis area in the Heihe River Basin using Landsat-8images and the METRIC model. Water Resources Management,29(14): 51-57.   \nLianJ,Huang M.2O16.Comparisonofthreeremotesensing based models toestimate evapotranspiration inanoasis-desert region. Agricultural Water Management,165:153-162.   \nLiao K,ZhouZ,Lai X,etal.2O17.Evaluationofdiferentapproaches forientifingoptimalsites toredict meanhislope soil moisture content. Journal of Hydrology,547: 10-20.   \nLibardiPL,Reichardt K,NielsenDR,etal.1980.Simple field methods forestimatingsoil hydraulicconductivity.Soil Science Society of America Journal,44(1): 3-7.   \nLinacre E. 20o4. Evaporation trends.Theoretical and Applied Climatology,79: 11-21.   \nMajidiM,AlizadehA,Vazifedoust M,etal.2Ol5.Analysisoftheeffectofmising weatherdataon estimatingdailyreference evapotranspiration under diferent climatic conditions.Water Resources Management,29(7): 2107-2124.   \nManabe S.1969.Climate and the oceancirculation: I. The atmospheric circulation and the hydrologyof the earth's surface. Monthly WeatherReview,97(11):739-774.   \nMcVicarTR,vanNielTG,LiLT,etal.2Oo7.Spatialldistributing monthlyreference evapotranspirationand pan evaporation considering topographic influences.Journal of Hydrology, 338(3-4):196-220.   \nMitchell PJ,Benyon RG,LanePN.2O12.Responsesof evapotranspirationat diferenttopographic positionsandcatchment water balance following a pronounced drought ina mixedspecies eucalyptforest,Australia.Journalof Hydrology,40441:   \nMo XG,LiuSX,LinZH,etal.Oo4.Simulating temporalandspatialvariationofevapotranspirationovertheLushibasin. Journal of Hydrology,285(1-4): 125-142.   \nNewman BD,WilcoxBP,ArcherSR,etal.2O06.Ecohydrologyof water-limited environments:Ascientific vision.Water Resources Research,42(6):W06302,doi:10.1029/2005WR004141.   \nNichols E M,Carey SK,Humphreys ER,etal.2O16.Multi-year waterbalance assessment of anewlyconstructed wetland, Fort McMurray,Alberta.Hydrological Processes,3O(16):2739-2753.   \nOishi ACR,Oren KA,Novick S,etal.2Olo.Interannual invariabilityofforestevapotranspirationand itsconsequence to water flow downstream.Ecosystems,13: 421-436.   \nPanYX,Wang XP.2O09.Factorscontrolingthespatialvariabilityofsurfacesoilmoisture withinrevegetated-stabilized desert ecosystems of the Tengger Desert, Northern China.Hydrological Process,23(11): 1591-1601.   \nPel MC,Finlayson BL,McMahon TA.2007. Updated world mapof the Koppen-Geiger climate clasification.Hydrology and Earth System Sciences Discussions,4(2): 439-473.   \nPiotrowska-DlugoszA,Siwik-Ziomek A,Dlugosz J,etal.2O17.Spatio-temporal variabilityof soilsulfurcontentand arylsulfatase activity at a conventionally managed arable field. Geoderma,295:1O7-118.   \nSantiagoLS,GoldsteinG,MeinzerFC,etal.2Ooo.Transpirationand forest structure inrelation tosoil waterlogging ina Hawaiian montane cloud forest. Tree Physiology,20(1O): 673-681.   \nShangguan ZP,Zheng SX.2O06.Ecological propertiesof soil waterand effectson forest vegetation intheLoess Plateau. International Journal of Sustainable Development & World Ecology,13(4):307-314.   \nShuttleworth WJ.1993.Evaporation.In: Maidment DR.Handbook of Hydrology.Sydney: McGraw-Hill.   \nStarrG.20o5.Assessng temporal stabilityand spatial variabilityof soil water patters with implications for precision water management. Agricultural Water Management,72(3): 223-243.   \nThomas A.2Ooo.Spatialand temporal characteristicsofpotential evapotranspiration trendsoverChinaInternationalJournalof Climatology,20(4): 381-396.   \nVachaud G,Passeratde SilansA,BalabanisP,etal.1985.Temporal stabilityof spatiallymeasuredsoil waterprobability density function. Soil Science Society of America Journal,49(4): 822-828.   \nVivoniER,Rodriguez JC,Watts CJ.20l0.Onthe spatiotemporal variabilityof soil moistureandevapotranspiration ina mountainous basin withinthe North American monsoon region．Water Resources Research，46(2):Wo2509，doi: 10.1029/2009WR008240.   \nWilcox BP,Breshears DD,SeyfriedMS.2Oo3.Waterbalanceonrangelands.In:StewartBA,HowellTA.Encyclopediaof Water Science.New York: Marcel Dekker,Inc.,791-794.   \nWythers KR,Lauenroth WK,ParueloJM.199.Bare-soil evaporationundersemiaridfieldconditions.Soil Science Society of America Journal,63(5):1341-1349.   \nXuCY,Singh VP.2Oo5.Evaluationof threecomplementaryrelationshipevapotranspirationmodels by waterbalance approach to estimate actual regional evapotranspiration indifferentclimatic regions.Journalof Hydrology,3O8(1-4):105-121.   \nYangL,WeiW,MoB,etal.2Ol1.Soilwaterdeficitunderdierentartificialvegetationrestorationinthesem-aridhillygion of the Loess Plateau.Acta Ecologica Sinica,31: 3060-3068.(in Chinese)   \nZeng RJ,CaiXM.2O16.Climaticandterestrialstoragecontrolonevapotranspration temporal varability:Analysisofriver basins around the world. Geophysical Research Letters,43(1):185-195.   \nZhang DB,YaoPW,NaZ,etal.2O16.Soil waterbalanceand wateruseeficiencyof drylandwheatidiferentprecipitation years in response to green manure approach. Scientific Reports,6: 26856,doi: 10.1038/srep26856.   \nZhangYK,XiaoQL,Huang MB.O16.Temporal stabilityanalysis identifies soil water relationsunder diferentlanduse types in an oasis agroforestry ecosystem. Geoderma, 271:150-160.   \nZhao LW,Zhao WZ.2O14.Evapotranspirationof anoasis-desert transition zone inthe middle streamof Heihe River, Northwest China. Journal of Arid Land,6(5): 529-539. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

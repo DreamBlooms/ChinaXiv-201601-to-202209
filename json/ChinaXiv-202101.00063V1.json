@@ -1,0 +1,596 @@
+[
+    {
+        "type": "text",
+        "text": "running head: Psychopathy and Moral Decision Making ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Psychopathy and Moral Decision Making: A Data Reanalysis Exploration ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chuanjun Liul and Jiangqun Liao² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Sichuan University ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.Tsinghua University ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Author Note \\*Correspondence concerning this article should be addressed to Jiangqun Liao, Department of Psychology, School of Social Sciences, Tsinghua University, Haidian District, Beijing, China, 100084. E-mail: liaojq@tsinghua.edu.cn. Tel & Fax: (86-10) 62787208. This work was supported by the National Social Science Foundation of China [Grant No.18BSH114]; and Tsinghua University Initiative Scientific Research Program [Grant No. 2017THZWYY11J. Author Contribution Statement Liu developed the idea, analyzed the data,and drafted the manuscript. Liao commented and revised the manuscript ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Previous research found that people with higher level of psychopathy trait would endorse more to the harmful but beneficial action in traditional moral dilemmas.Three possibilities for this effect were confounded: People with higher psychopathy trait,1) care more about the beneficial consequences; 2） care less about the “no harm” norms; 3) just prefer action irrespective of consequences and norms. A multinomial processing tree model named “CNI” was developed and claimed to dissociated these three possibilities.Four studies have applied CNI model to study the psychopathy-moral decision relationship. However, the CNI model presupposes the agent sequentially processes consequences-norms-generalized inaction/action preferences, which makes the estimated parameters biased and untenable. More recently, an alternative algorithm named “CAN” was developed based on the same data structure to overcome the limitations of CNI model. We applied CAN algorithm and reanalyzed the raw data of the four studies on psychopathy-moral decision relationship. The results demonstrated that people with higher psychopathy trait have weaker consequences and norms sensitivities, stronger overall action preferences， stronger inaction/action preferences irrespective of normsand consequences, and weaker moral principles obedience. Furthermore, the mediation and moderation reanalysis explorations demonstrated that instrumental harm and moral identity partly mediate the psychopathy-moral decision relationship and that perceived societal standards rather than personal standards when making moral decisions can alleviate the positive effects of psychopathy on overall action preference and action preference irrespective of norms and consequences. Present reanalysis exploration study clarified and deepened our insights on the relationship between psychopathy and moral decisions. Theoretical and methodological implications were also discussed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: psychopathy; moral dilemma; CAN algorithm; CNI model; moral decision-making ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION   \nThe relationship between subclinical psychopathy traits and moral dilemma decisionmaking has been debated for a long time. Bartels and Pizarro (2011) found that people with higher scores in psychopathy scale tend to endorse more to the harmful and beneficial action proposal (Bartels & Pizarro, 2011). Take the trolley problem as an example,“An uncontrollable trolley car is rushing approach five workers in the main track and there is only one worker in the side track. All the workers do not notice this emergency. You can press a button besides your hand so that the trolley car would be turned into the sidetrack and save the five workers but sacrifice the one. Is it morally acceptable to press the button? /Would you press the button?\" According to Bartels and Pizarro's study, it means that more psychopathic people would approve more to pressing the button, sacrificing one and saving five workers. Many researches conceptually replicated the effect in the following years (Djeriouat & Tremoliere, 2014; Gao & Tang,2013; Koenigs et al., 2012; Patil,2015; Seara-Cardoso et al., 2013; S Tassy et al., 2013).   \nIn the long traditional moral dilemma research history, endorsement of the harmful and beneficial action proposal was treated as Utilitarian judgment because this can obtain greater consequences and overall welbeing (Bentham， 1996； Mill， 1872).On the contrary, disapproving the harmful action proposal was treated as Deontological judgment because the harmful action is forbidden by moral norms (Kant & Gregor, 1997). However, the studies on the relationship between psychopathy trait and moral decision-making leave us a sharp question, does the more psychopathic people care more about the overall human beings? Several scholars tried to answer this tough question. Tassy et al. (2013) found that people with higher level of psychopathic traits and specifically related to affective deficit would give a greater proportion of utilitarian responses under choice perspective but not under judgment perspective (S Tassy et al., 2013). It means that psychopathic people know the moral rules but they do not care (Cima et al.,2010) because of the affective deficit. Patil(2015) found that this effect was partly mediated by reduced aversion to carrying out harmful actions (Patil, 2015). Unlike people who were actively looking for reasons of the psychopathy-utilitarian effect, some scholars queried the effect per se and the methodological paradigm. Kahane argues that there is very litte relation between sacrificial judgments in the hypothetical dilemmas that dominate current research, and a genuine utilitarian approach to ethics (Kahane et al., 2015). Furthermore, they developed a two-dimensional scale to dissociate the negative instrumental harm and positive impartial concern ofutilitarian psychology. They also found that subclinical psychopathy is correlated with instrumental harm but not impartial concern which is more essential for Utilitarianism (Kahane et al., 2018).   \nAlthough Kahane fiercely critiqued the value of moral dilemma paradigm in revealing people's utilitarian inclination, researchers still endeavor to fix the limitations of traditional moral dilemma paradigm. Gawronski proposed that three possibilities were confounded in the traditional moral dilemma when people tend to endorse more to the harmful but beneficial action proposal (Gawronski & Beer, 2017): 1) people care more about the consequences and find sacrificing one to save five beneficial; 2) people care less about the moral norms and are less aversive to the harmful action proposal; 3) people do not care about the consequences and the moral norms at all, and just generalized prefer endorsing the action proposals. To dissociate the above three possibilities, they applied the multinomial processing tree to develop a model ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which can quantify people's Consequences sensitivity， Norms sensitivity and generalized Inaction/action preferences (CNI model, (Gawronski et al.， 2017)). Different from the traditional moral dilemma scenario， four editions of moral dilemma scenarios were comprehensively considered in the CNI model. In the traditional moral dilemma, the proposed action is prohibited by moral norms and the benefits of the consequences are greater than costs. Gawronski et al. (2Ol7) used a factorial scenario design to variate norms and consequences into four editions as shown in Figure 1: 1) the proposed action is prohibited by moral norms and the benefits of the consequences are greater than costs (traditional dilemma)； 2） the proposed action is prohibited by moral norms and the benefits of the consequences are smaller than costs; 3） the proposed action is advocated by moral norms and the benefits of the consequences are greater than costs; 4) the proposed action is advocated by moral norms and the benefits of the consequences are smaller than costs. The task of the participants is to decide whether the proposed action described in the scenario is morally acceptable (judgment framing question) or whether they would perform the proposed action described in the scenario (choice framing question). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The CNI model expanded the moral scenario types so that both the proscriptive and prescriptive norms are considered. These two facets of moral regulation have been emphasized by previous researchers (Janoff-Bulman et al., 20o9). Obtained from CNI model, $C$ parameter depicts to what extent the agent makes moral decisions based on the consequences of the proposed action; $N$ parameter depicts to what extent the agent makes moral decisions based on the moral norms underlying the proposed action; $I$ parameter depicts to what extent the agent makes generally inaction or action decisions irrespective of moral norms and consequences. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "With the CNI model, four studies probed into the relationship between psychopathy and moral decision-making. Gawronski et al. (2O17) found that participants with higher level of psychopathy have weaker consequences sensitivity， weaker norms sensitivity and weaker general preference for inaction.A further individual difference study also confirmed these relationships using individual-level correlation analyses (Korner et al., 2O2O). Moreover, they found the personal and perceived societal standards play different roles on the relationships between different determinants of moral judgment and psychopathy (Luke & Gawronski, 2020). These studies demonstrated that individuals with higher psychopathy traits care less about the consequences of the moral action although they endorsed more to the utilitarian action proposal in the traditional dilemma decisions.Another study conducted in Chinese population with CNI model demonstrated that persons with high psychopathy traits have weaker norm sensitivity, but have no significant differences in consequences sensitivity and generalized inaction/action preferences (Li et al.,2O20). It implies that there might be some culture differences about this relationship. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The theoretical contributions of CNI model is outstanding, especially that it expands the moral dilemma types and provides a method to quantify different determinants of moral decisions. However, limitations remain and it is criticized about the omission bias and so on (Baron & Goodwin, 2O20). The most serious limitation is that it presupposes the agent sequentially considers consequences, norms, and generalized inaction/action preferences (Liu & Liao, 2021).Although Gawronski stressed that the hierarchy structure in CNI model reflects the conditional relations of the parameters in determining the behavioral outcomes but not their temporal order (Gawronski et al., 2O2O), this limitation is still fatal. As analyzed by Liu and ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Liao (2021)， the sequential processing presuppose would result overestimation of $N$ (representing the agent's norm sensitivity) parameter and make the $I$ parameter (representing the agent's general inaction/action preferences) untenable.   \nGiven that the $N$ parameter of CNI model is systematically overestimated and that the $I$ parameter is untenable, the empirical results driven by the CNI model should be re-checked, including the four studies of psychopathy-moral decision relationships. Liu and Liao (2021) proposed a new algorithm named “CAN” to arithmetically quantify the agent's Consequences sensitivity, Norms sensitivity and overall Action/inaction preferences. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/13800032fc36f7e02e039e1e94ecb6944869a4f86e337c1aac1f5d689808fe21.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td colspan=\"2\">Proscriptive Norms Prohibits Action</td><td colspan=\"2\">Prescriptive Norms Prescribes Action</td></tr><tr><td></td><td>Dilemmas</td><td>Benefits of Action Greater than Costs</td><td>Benefits of Action Smaller than Costs</td><td>Benefits of Action Greater than Costs</td><td>Benefits of Action Smaller than Costs</td></tr><tr><td></td><td>1. Immune deficiency</td><td rowspan=\"4\"></td><td></td><td></td><td></td></tr><tr><td></td><td>2．Assisted suicide</td><td></td><td></td><td></td></tr><tr><td>3．Abduction</td><td></td><td>p2</td><td>p3</td><td>p4</td></tr><tr><td>4．Transplant</td><td>p1</td><td></td><td></td><td></td></tr><tr><td>5. Torture</td><td>6.Vaccine</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 1. The dilemma factorial design of CNI model. $p 1 , p 2 , p 3$ and $p 4$ depict the probabilities of the agent's approving the action proposal in the respective types of dilemma scenarios.These four empirically observed probabilities data would be used in the CAN algorithm. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CAN algorithm computed parameters basing on the same empirical data of CNI model   \n$( p 1 , p 2 , p 3$ and $p 4$ are the empirically observed probabilities shown in Figure 1):   \n$C = ( p 1 - p 2 + p 3 - p 4 ) / 2 .$   \n$N = ( p 3 - p 1 + p 4 - p 2 ) / 2 .$   \n$\\begin{array} { r } { A = ( p 1 + p 2 + p 3 + p 4 ) / 4 . } \\end{array}$ $C$ parameter depicts the consequences sensitivity, it quantifies the extent to which the agent   \nmakes moral decisions basing on whether the consequences are beneficial or not. $N$ parameter   \ndepicts the norms sensitivity, it quantifies the extent to which the agent makes moral decisions ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "basing on whether the action proposal is allowed by the moral norms or not. $A$ parameter depicts the overall action versus inaction preferences across the four types of moral scenarios, it quantifies the extent to which agent overally prefers action or inaction. Besides the three parameters, another three new parameters could also be developed based on CAN algorithm. Liu and Liao (2O21) discussed that the probability of agent's generalized inaction preference irrespective of moral norms and consequences could be represented by $( 1 - p 3 )$ . Similarly, the probability of agent's generalized action preference irrespective of moral norms and consequences could be represented by $p 2$ . Moreover, $( p 3 - p 2 )$ can represent the extent to which the agent following moral principles based on the methodological analysis in Liu and Liao (2021). If the agent exactly follows moral principles, $p 3$ would tend to be 1 as both norms and consequences principles advocate the action; $p 2$ would tend to be O as both norms and consequences principles oppose the action. Therefore, $( p 3 - p 2 )$ will vary between O and 1 and represent the extent to which the agent is following moral principles. We termed these three parameters as Irrespectivel, IrrespectiveA, and Moral obedience. In present research, we used CAN algorithm to reanalyze the raw data of the previous studies on psychopathy-moral decision relationships. Before we conducted the reanalysis studies, we pre-registered our research plan which could be retrieved from https://osf.io/pgw2b. The present data reanalysis exploration study is benefitted from the Open Science Framework (OSF). Allthe datasets were downloaded from OSF with the hyperlinks provided in the original papers. The present research is admitted by the Institutional Review Board of Psychology Department of Tsinghua University. In reanalysis study 1, we analyzed the raw data of Study 4a and 4b by Gawronski et al. (2017） to preliminarily discuss the relationships between psychopathy trait and moral decision parameters. In reanalysis study 2, we analyzed the raw data of (Korner et al., 2020), re-inspecting the relationships between psychopathy trait and moral decision parameters and exploring the possble mediation processes based on the dataset. In reanalysis study 3, we re-inspected the psychopathy-moral decision relationships again and discussed the possible moderating roles of personal/perceived societal standards (Luke & Gawronski, 2020). In reanalysis study 4, we re-inspected the correlations between psychopathy traits and moral decision parameters under Chinese culture (Li et al., 2020). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REANALYSIS STUDY 1 Correlations between psychopathy trait and moral decision parameters ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Method ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Participants and Measurement ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Gawronski et al. (2017)'s Study 4a recruited 184 valid participants (175 males and 9 females, aged 18-73, $M = 3 5 . 0 5$ ， $S D = 1 2 . 2 4 ,$ ） via Amazon's MTurk who finished all the measures and passed the instructional attention check. Psychopathy was measure by Paulhus, Neumann,and Hare's (2009) 30-item SRP-III Scale (Paulhus et al., 2009) in the first session and 503 MTurk workers finished allthe measures. Based on their psychopathy scores, they identified 121 participants with scores in the lowest quartile and 122 participants with scores in the highest quartile to take part in the second session of experiment. In the second session of moral decision-making, participants read six moral dilemmas and each of the dilemmas had four variants (as shown in Figure 1). Thus, they read 24 sessions of dilemma scenarios and answer a moral choice problem after each scenario, i.e.,“would you perform the described action?” After filtering the invalid answers, there remains 184 participants as final samples. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "With the background of replicating crisis, Gawronski et al. (2017) conceptually replicated their studies. For Study 4b, they recruited 198 valid participants (195 males and 3 females, aged 19-69, $M = 3 3 . 3 5$ ， $S D = 1 1 . 1 1$ ） via Amazon's MTurk who finished all the measures and passed the instructional attention check. With the same sampling strategy as Study 4a, 504 participants finished the first session of psychopathy evaluation. For the second sesson, 138 participants with lowest quartile of psychopathy scores and 139 participants with highest quartile of psychopathy scores were invited to take part in the second session of moral decision task. Psychopathy was measured using Levenson's 16-item Primary Psychopathy Scale (Levenson et al.,1995) and the participants finished the same moral dilemma decision tasks as Study 4a. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Procedure ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We first downloaded the raw data from https://osf.io/xt66w/. Then, we arithmetically computed the six parameters and conducted correlation analyses between psychopathy and the six parameters. As previous studies demonstrated that moral dilemma decisions had gender differences (Friesdorf et al.，2O15)，we controlled the gender variable when we run the following all analyses. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As shown in Table 1, the correlations analyses demonstrated that persons with higher level of psychopathy trait care less about the moral consequences,care less about the moral norms underlying the proposed action, have stronger inclinations to inaction and action irrespective of moral norms and consequences,and have weaker moral obedience to follow moral principles. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/ddee5dd490232756d70dc89533925300f135b1393e727969cb7ce42a9d205ec5.jpg",
+        "table_caption": [
+            ":21 Table 1.Partial correlations between psychopathy and moral decision parameters after gender controlled in :22 study 4a ( $( n = 1 8 4 )$ and 4b $( n = 1 9 8 )$ by Gawronski et al. (2017). "
+        ],
+        "table_footnote": [
+            "223 Note. † p<.1,\\* p<.05, \\*\\* $p < . 0 1$ \\*， $^ { \\ast \\ast \\ast } p < . 0 0 1$ , same hereinafter. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>M±SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>M±SD</td></tr><tr><td>1. Psychopathy</td><td>3.288±1.107</td><td></td><td>1 -.298***</td><td>-.386***</td><td>0.09</td><td>.365***</td><td>.440***</td><td>-.480***</td><td>1.859±0.671</td></tr><tr><td>2.C</td><td>0.223±0.210</td><td>-.125†</td><td>1</td><td></td><td></td><td>0.028 -.228*** -.375***</td><td>-.567***</td><td>.564***</td><td>0.205±0.223</td></tr><tr><td>3.N</td><td>0.145±0.336</td><td>-.155*</td><td>.069</td><td>1</td><td></td><td>0.003 -.762***</td><td>-.654***</td><td>.842***</td><td>0.144±0.341</td></tr><tr><td>4.A</td><td>0.467±0.101</td><td>.103</td><td>-.152*</td><td>-.048</td><td></td><td>1 -.381***</td><td>.563***</td><td>-.120†</td><td>0.465±0.113</td></tr><tr><td>5. IrrespectiveI</td><td>0.176±0.115</td><td></td><td>.123† -.460*** -.760***</td><td></td><td>-.323***</td><td>1</td><td>.410***</td><td>-.832***</td><td>0.181±0.120</td></tr><tr><td>6. IrrespectiveA</td><td>0.279±0.240</td><td></td><td>.208** -.528*** -.732***</td><td></td><td></td><td>.510*** .507***</td><td>1</td><td>-.847***</td><td>0.290±0.254</td></tr><tr><td>7.Moral obedience</td><td>0.369±0.408 -.192**</td><td></td><td>.570***</td><td>.859***</td><td></td><td>-.118 -.862*** -.874***</td><td></td><td>1</td><td>0.349±0.415</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Gawronski et al. (2O17) artificially divided the participants into high and low psychopathy condition based on their psychopathy scores. Then they run the between condition contrasts of moral decision parameters. We also conducted MANOVA analyses with the parameters obtained from our algorithm as dependent variables, the condition as fixed factor and the gender as controlled variable.For Study 4a of Gawronski et al. (2017), the results demonstrated that: 1) $C$ parameters are of no significant differences between low $M = 0 . 2 4 7$ ， $S D = 0 . 2 0 2 \\mathrm { \\Omega }$ and high ( $M = 0 . 1 9 9$ ， $S D = 0 . 2 1 6 ^ { \\circ }$ psychopathy condition, $F ( 1 , 1 8 1 ) = 2 . 4 8$ ， $p = . 1 1 7$ ， ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } { } ^ { 2 } =$ 0.014; $N$ parameter of low ( $\\scriptstyle { M = 0 . 1 9 0 }$ $S D = 0 . 3 5 2 \\mathrm { \\Omega }$ psychopathy condition is marginally greater than that of high ( $M = 0 . 0 9 7$ ， $S D = 0 . 3 1 3$ ） psychopathy condition, $F ( 1 , 1 8 1 ) = 3 . 6 0 , p = . 0 5 9 _ { \\cdot }$ （204 ${ \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 0 2 0 ; A$ parameters are not significantly diferent between low ( $\\mathcal { M } = 0 . 4 5 8$ ， $S D = 0 . 0 9 7 _ { , }$ and high ( $M = 0 . 4 7 7$ ， $S D = 0 . 1 0 6 \\mathrm { \\Omega }$ psychopathy conditions, $F ( 1 , 1 8 1 ) = 1 . 4 5$ ， $p = . 2 3 1$ ， ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } { } ^ { 2 } =$ 0.008; IrrespectiveI parameters are of no significant differences between low ( $\\mathbf { \\tilde { \\cal M } } = 0 . 1 6 3$ ，SD $= 0 . 1 1 9 )$ and high ( $\\scriptstyle { M = 0 . 1 9 0 }$ ， $S D = 0 . 1 1 0 _ { , } ^ { }$ psychopathy conditions either, $F ( 1 , 1 8 1 ) = 2 . 6 0 , p$ （204 $= . 1 0 8$ ， ${ \\mathfrak { \\eta } _ { \\mathfrak { p } } } ^ { 2 } = 0 . 0 1 4$ ; IrrespectiveA parameter of low ( $M = 0 . 2 3 7$ ， $S D = 0 . 2 2 1$ ）psychopathy condition is significantly smaller than that of high ( $M = 0 . 3 2 4$ ， $S D = 0 . 2 5 2$ ）psychopathy condition, $F ( 1 , 1 8 1 ) = 6 . 2 7$ $p = . 0 1 3$ ， ${ \\mathfrak { \\eta } _ { \\mathfrak { p } } } ^ { 2 } = 0 . 0 3 3$ ; Moral obedience of low $\\left( M = 0 . 4 3 7 , S D = \\right.$ 0.404) psychopathy condition is significantly greater than that of high ( $\\stackrel { \\cdot } { M } = 0 . 2 9 6$ $S D = 0 . 4 0 3$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "psychopathy condition, $F ( 1 , 1 8 1 ) = 5 . 7 0 , p = . 0 1 8 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 0 3 1 .$ （   \nFor Study 4b of Gawronski et al. (2017), the results demonstrated that: 1) $C$ parameter of low $M = 0 . 2 6 5$ ， $S D = 0 . 2 0 8$ ） psychopathy condition is significantly greater than that of high 0 $\\cdot M = 0 . 1 3 1$ ， $S D = 0 . 2 1 9$ ）psychopathy condition, $F ( 1 , 1 9 5 ) = 1 8 . 0 0 , p < . 0 0 1 , \\mathsf { \\eta } _ { \\mathsf { p } } \\sp 2 = 0 . 0 8 4 ; N$ parameter of low $\\scriptstyle { ( M = 0 . 2 6 7 }$ ， $S D = 0 . 3 1 8 \\mathrm { \\Omega }$ psychopathy condition is significantly greater than that of high ( $\\mathit { M } = \\phantom { - } 0 . 0 0 8$ ， $S D = 0 . 3 0 7$ ） psychopathy condition, $F ( 1 , 1 9 5 ) = 3 5 . 4 9$ $p < . 0 0 1$ ， ${ \\mathfrak { n } } _ { \\mathfrak { p } } ^ { 2 }$ （204号 $= 0 . 1 5 4 ; A$ parameters are not significantly diferent between low ( $\\scriptstyle \\cdot M = 0 . 4 5 6$ $S D = 0 . 0 9 1$ and high ( $\\scriptstyle { M = 0 . 4 7 7 }$ ， $S D = 0 . 1 3 4 \\mathrm { \\Omega }$ psychopathy conditions, $F ( 1 , 1 9 5 ) = 1 . 1 5 , p = . 2 8 6 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 0 0 6 ;$ IrrespectiveI parameter of low ( $\\mathit { M } = 0 . 1 4 0$ 0 $S D = 0 . 1 0 9 )$ psychopathy condition is significantly smaller than that of high $\\stackrel { \\triangledown } { \\boldsymbol { M } } = 0 . 2 3 0$ $S D = 0 . 1 1 4 )$ psychopathy condition, $F ( 1 , 1 9 5 ) = 3 1 . 7 6 , p$ （204号 （204号 $< . 0 0 1$ ， $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 1 4 0$ ; IrrespectiveA parameter of low ( $\\mathit { M } = 0 . 1 8 8$ ， $S D = 0 . 1 9 4 \\mathrm { \\Omega }$ psychopathy condition is significantly smaller than that of high ( $M = 0 . 4 1 6$ ， $S D = 0 . 2 6 4 \\mathrm { \\Omega }$ psychopathy condition, $F ( 1 , 1 9 5 ) = 4 4 . 9 9$ ， $p < . 0 0 1$ ， $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 1 8 7$ ; Moral obedience of low $( M = 0 . 5 3 2 , S D =$ 0.363)psychopathy condition is significantly greater than that of high ( $\\scriptstyle { M = 0 . 1 2 4 }$ ， $S D = 0 . 3 6 1$ ） psychopathy condition, $F ( 1 , 1 9 5 ) = 5 8 . 8 0 , p < . 0 0 1 , { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 2 3 2 .$ （204号   \nDiscussion   \nIn Gawronski's original analyses with CNI model, they compared $C , N , I$ parameters between the artificially divided high and low level of psychopathy conditions. They found that people with high psychopathy traits have weaker consequences sensitivity， weaker norms sensitivity and lower level of generalized inaction preferences. However, there are three main concerns about the methodology: First, the sampling participants were almost male. Although we controlled gender variable when reanalyzing the data, the biased sampling also affects the ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "reliability of the results. Researchers also emphasized that the past researches on psychopathy has focused predominantly on samples of White males (Horan et al., 2015). We need to sample more participants of females and of other cultural backgrounds. Second, they artificially divided the participants into two groups, this might lead to biased results (Altman & Royston, 2006;Austin & Brunner, 2004). Such as the $C$ parameter in Gawronski's Study 4a, it is marginally negative correlated with psychopathy scores, but it is of no significant differences in the between group contrast. Third, as analyzed by Liu and Liao (2021), the $N$ parameter obtained from CNI model is overestimated and the $I$ parameter is untenable. From present analyses, psychopathy scores are marginally (for Study 4a of Gawronski et al. (2O17)) and significantly (for Study 4b of Gawronski et al. (2017)) positive correlated with Irrespectivel parameter. It implies that persons with higher level of psychopathy trait would tend to make more inaction choices even though moral norms and consequences principles advocate the action. This conclusion is opposite with the conclusion draw from CNI model's perspective. Empirically, IrrespectiveI parameter depicts the probability that the agent chooses to inaction even though both moral norms and consequences principles request to action. Irrespectivel parameter of present study is more accurate than the $I$ parameter of CNI model to describe the extent to which the agent chooses to generalized inaction irrespective of moral norms and consequences. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In summary, based the data analyses of Gawronski's Study 4a and Study 4b, the results demonstrated that individuals with higher level of psychopathy traits have weaker moral consequences sensitivity， weaker moral norms sensitivity， stronger inaction and action preferences irrespective of norms and consequences， weaker moral obedience. These conclusions would be tested again in the following reanalysis studies considering the biased sampling limitations. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "REANALYSIS STUDY 2 Mediation process between psychopathy trait and moral decision parameters ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The original version of CNI model does not give the individual-level parameter estimations because the observation trials (i.e.， 24 trails) are too small to make unbiased estimations (Gawronski et al., 2017). Gawronski's research team expanded the number of dilemmas to 12, and each of them have four versions based on the factorial scenario design (2 (norms: proscriptive/prescriptive) $\\times 2$ (consequences: benefits greater/smaller than costs)). Thus, there are 48 scenarios for participants to read and make moral decisions. They give individual-level estimations based on the larger moral scenarios library (Korner et al., 2O2O). However, they did not fix the limitation of sequential processing presuppose. Thus, the $N$ parameter is still overestimated and the $I$ parameter is still untenable. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "There are two aims in reanalysis study 2: First, we want to reinspect the relationships between psychopathy trait and moral decision parameters. Second, we want to explore the mediating processes between psychopathy and moral decision parameters, because Korner et al. (2020) also measured empathic concern (Gleichgerrcht & Young, 2013), need for cognition (Conway & Gawronski, 2013), Oxford Utilitarianism Scale (Kahane et al., 2018), behavioral inhibition/activation (Moore et al., 2011; van den Bos et al., 2011), self-importance of moral identity (Glenn et al., 2010),and religiosity (Szekely et al.,2015) based on their relationships with moral judgment implied by previous studies. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Participants ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Korner et al. (2O2O) conducted four studies to discuss the individual differences of moral decisions.They recruited 161,177,196,189 valid participants respective for Study la, 1b,2a and 2b. Under the background of replicating crisis, Study 1b exactly replicated Study la with the same variable manipulations and procedures. Study 2b exactly replicated Study 2a. The only difference is that participants in Study la/1b finish the moral decisions with judgement framing question (i.e.，“Is it morally acceptable to perform the described action?\"） and participants in Study $2 \\mathrm { a } / 2 \\mathrm { b }$ finished the moral decisions with choice framing question (i.e., “Would you perform the described action?\"). Plenty of evidences have demonstrated that people have different answers for these two kinds of questions (Francis et al.,2016; Patil et al., 2014; Pletti et al., 2017; S. Tassy et al., 2013).   \nGiven the similarities and differences between studies, we combined the data of Study la and 1b, combined the data of Study 2a and 2b. Therefore, there 338 participants (137 female, 189 male, 2 other, 4 prefer not to respond, 6 missing; aged 18-71, 6 missing, $M = 3 4 . 7 7 , S D =$ 10.39) in Korner et al. (2020)'s Study 1 and 385 participants (192 female,189 male,2 other, 1 prefer not to respond, 1 missing; aged 19-72, 1 missing, $M = 3 4 . 5 5$ ， $S D = 9 . 8 7 \\ \\AA$ ) in Korner et al. (2020)'s Study 2.   \nProcedure ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "First, we downloaded Korner et al. (2020)'s raw data from https://osf.io/ndf4w/ and then used CAN algorithm to compute the six moral decision parameters. After that, we conducted two parts of analyses,Part 1 is for rechecking the relationships between psychopathy and moral decision parameters， Part 2 is for exploring the possible mediating processes in the relationships. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Part 1. Correlations between psychopathy and moral decision parameters ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "As shown in Table 2, the correlation analyses generally supported Reanalysis Study 1 in present paper. People with higher level of psychopathy traits have weaker consequences sensitivity, weaker norms sensitivity, stronger inaction and action preferences irrespective of moral norms and consequences, weaker moral obedience. Moreover, they have stronger overall action preferences. ",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/16f76c6895cbe37cc358ba58d6f65fa8cfd7fc6b403f52720d6af0ec6722c926.jpg",
+        "table_caption": [
+            "Table 2.Partial correlations between psychopathy trait and moral decision parameters after gender controlled in Study 1 (left, $n = 3 3 8 { \\mathrm { , } }$ and Study 2 (right, $n = 3 8 5$ )byKorner et al. (2020). "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>M±SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>M±SD</td></tr><tr><td>1. Psychopathy</td><td>1.923±0.659</td><td></td><td>1 -.240***</td><td>-.479***</td><td>.211***</td><td>.373***</td><td>.525*** -.539***</td><td></td><td>1.837±0.613</td></tr><tr><td>2.C</td><td>0.175±0.192 -.367***</td><td></td><td>1</td><td></td><td></td><td>-0.031 -.194*** -.420*** -.501***</td><td></td><td>.549***</td><td>0.192±0.193</td></tr><tr><td>3.N</td><td>0.347±0.284 -.564***</td><td></td><td>.064</td><td>1</td><td></td><td>-0.031 -.194*** -.420*** -.501***</td><td></td><td></td><td>0.322±0.284</td></tr><tr><td>4.A</td><td>0.515±0.118 .247*** -.202*** -.244***</td><td></td><td></td><td></td><td></td><td>1 -.292***  .648*** -.253***</td><td></td><td></td><td>0.481±0.104</td></tr><tr><td>5.IrrespectiveI</td><td>0.225±0.185 .476*** -.439*** -.662*** -.311***</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.423*** -.816***</td><td>0.253±0.185</td></tr><tr><td>6.IrrespectiveA</td><td>0.253±0.244 .589*** -.536*** -.716*** .692*** .354***</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1 -.869***</td><td>0.232±0.215</td></tr><tr><td>7.Moral0bedience 0.522±0.353 -.654*** .598*** .838*** -.306*** -.771*** -.869***</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>0.514±0.339</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Part 2. Possible mediating processes between psychopathy and moral decision parameters We conducted mediation analyses using plug-in PROCESS 3.4 program developed by   \n(Hayes,2013) with model 4 and 5Ooo bootstraps.Psychopathy scores was independent variable.   \nEmpathic concern，Need for cognition， Oxford Utilitarianism Scale: Instrumental harm   \n(OUSIH), Oxford Utilitarianism Scale: Impartial beneficence (OUSIB), Behavioral inhibition   \n(BIS),Behavioral activation (BAS), Moral identity and Religiosity were parallel mediating   \nvariables. The six parameters of moral decision were dependent variable one at a time. As   \nStudy 1 and Study 2 used two different question frames (judgment/choice), we conducted the ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "mediation analyses independently. Therefore, we carried out 12 possible mediation model analyses in total. To be rigorous, if the mediating path is significantly in both judgment and choice conditions,we clasify it as reliable mediating path between psychopathy and moral decision parameters. ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/c34f2ad36ee19d677d70a5ed0a47a2dd39f935e1d27306b298fbaa2be22eba51.jpg",
+        "img_caption": [
+            "Figure 2. The mediation processes between psychopathy and II Huiauvn pivvvssvs vvtwun psyenupauiy anu C paIacul VuiaIvu Hvm CAiv aiguiiul. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Note: The solidline represents the significant regression paths and the red solid line represents the mediating process is significant. The path coefficients are unstandardized. Same hereinafter. As shown in Figure 2, only the partial mediating role of OUSIH exists in both judgment (indirect effect $= 0 . 0 3 3$ ， $9 5 \\%$ CI [O.011, O.053]) and choice perspective (indirect effect $= 0 . 0 2 6$ （204号 $9 5 \\%$ CI [0.008, O.O46]). It means that participants with higher psychopathy trait have greater instrumental harm inclination and further resulting in weaker consequences sensitivity. ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ec049c4612eba143daa2e08f79a7715446b12ac722c2496fc2d717291c2cd13.jpg",
+        "img_caption": [
+            "Figure 3. The mediation processes between psychopathy and $N$ parameter obtained from CAN algorithm "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 3, only the partial mediating role of OUSIH exists in both judgment (indirect effect $= - 0 . 0 6 6$ $9 5 \\% C \\mathrm { I } \\left[ - 0 . 0 9 6 , - 0 . 0 3 8 \\right] )$ and choice (indirect effect $= - 0 . 0 6 9$ ， $9 5 \\%$ CI greater instrumental harm inclination and further resulting in weaker norms sensitivity. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/b302641509a1c9c114214c77f5bc2c665fc867e4564ce146b43376cf37b1e3dc.jpg",
+        "img_caption": [
+            "Figure 4. The mediation processes between psychopathy and $A$ parameter obtained from CAN algorithm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 4, the partial mediating role of OUSIH (for judgment: indirect effect $= 0 . 0 1 7$ ， $9 5 \\%$ CI [O.006, O.029]; for choice: indirect effect $= 0 . 0 0 9$ ， $9 5 \\%$ CI [0.001, 0.019]) and Moral identity (for judgment: indirect effect $= 0 . 0 1 9$ ， $9 5 \\%$ CI[0.003, O.037]; for choice: indirect effect $= 0 . 0 2 0$ $9 5 \\%$ CI [0.003, O.040]) exist in both judgment and choice perspective. It means that participants with higher psychopathy trait have greater instrumental harm inclination and weaker moral identity, and further resulting in greater overall action preferences. ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a3a01f34e62c56964d434b694cc0923f54fc296ef3a70438b1bc17b70e0eb69.jpg",
+        "img_caption": [
+            "Figure 5.The mediation processes between psychopathy and IrrespectiveI parameter obtained from CAN algorithm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 5, no significant mediating paths exist in both judgment and choice perspectives. Thus, the mediating processes between psychopathy and individual's generalized ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/225032b9ea736fc3187e51f49fc2ebba1b9d3455a232526092ea75440631ce95.jpg",
+        "img_caption": [
+            "Figure 6.The mediation processes between psychopathy and IrrespectiveA parameter obtained from CAN algorithm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 6, the partial mediating role of OUSIH (for judgment: indirect effect $\\mathbf { \\varepsilon } = 0 . 0 3 1$ ， $9 5 \\%$ CI [O.010, O.052]; for choice: indirect effect $\\mathbf { \\varepsilon } = 0 . 0 3 1$ ， $9 5 \\%$ CI [0.015, 0.048]) and Moral identity (for judgment: indirect effect $= 0 . 0 5 2$ $9 5 \\%$ CI [0.025, 0.085]; for choice: indirect effect $= 0 . 0 4 7$ $9 5 \\%$ CI [0.018, O.078]) exist in both judgment and choice perspective. It means that participants with higher psychopathy trait have greater instrumental harm inclination and weaker moral identity, and further resulting in greater action preferences irrespective of norms and consequences. ",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d7282cefd8658892bbea6636be5da23fc028b054e61745018a51512ad209386.jpg",
+        "img_caption": [
+            "Figure 7. The mediation processes between psychopathy and Moral obedience parameter obtained from CAN algorithm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 7, the partial mediating role of OUSIH (for judgment: indirect effect = - 0.033, 95%CI[- 0.067, - 0.002]; for choice: indirect effect $= - \\ 0 . 0 4 3$ ， $9 5 \\%$ CI [- 0.070, - ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "0.018]) and Moral identity (for judgment: indirect effect $= - \\ 0 . 0 6 8$ ， $9 5 \\%$ CI [- 0.110, - 0.032]; for choice: indirect effect $= - 0 . 0 5 8$ $9 5 \\%$ CI [- 0.1O4,- 0.012]) exist in both judgment and choice perspective. It means that participants with higher psychopathy trait have greater instrumental harm inclination and weaker moral identity,and further resulting in weaker moral obedience. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The results of reanalysis study 2 replicated the main results of reanalysis study 1. It confirmed that higher psychopathic people care less about the consequences of moral action, and care less about the underlying moral norms of action too. Moreover, they have stronger inclinations to action and inaction irrespective of moral norms and consequences.Besides these results, we also found that higher psychopathic people have stronger overall action preferences, and the mediation processes explorations demonstrated that instrumental harm and moral identity partly mediated the relationship between psychopathy and some of the moral decision parameters. Especially that instrumental harm almost mediated all the relationships between psychopathy and moral decision parameters except IrrespectiveI. It is in accordance with Kahane's studies (Kahane et al.,2O18) and further deepens our insights about the relationships between psychopathy and moral decision-making.   \nAnother question deserved to ask is the boundary condition of the psychopathy-moral decision relationship so that we can find the way to intervene the psychopathy's moral effects. Luke and Gawronski (2O2O) discussed that personal/perceived societal standards would moderate the relationships between psychopathy and moral dilemma decision making. They found that the negative association between psychopathy and $N$ parameter obtained from CNI model under personal judgment condition is significantly stronger than that under perceived societal judgment condition and that the negative association between psychopathy and $I$ parameter obtained from CNI model under personal judgment condition is significantly stronger than that under perceived societal judgment condition. As analyzed in Liu and Liao (2021), $N$ and $I$ parameters from CNI model is either overestimated or untenable based on the original processing tree logic, we reanalyzed their data with CAN algorithm to find out whether the moderation role of personal/perceived societal standards is still effective.   \nREANALYSIS STUDY 3 Moderating role of personal/perceived societal standards on the relationships between psychopathy trait and moral decision parameters   \nMethod   \nParticipants and Measurement   \nLuke and Gawronski (202O) recruited a final sample of 337 participants (165 female,169 male and 3 prefer not to answer; aged 18-76, $M = 3 5 . 5 3$ ， $S D = 1 1 . 2 2 ,$ . The participants first finished the 16-item primary psychopathy scale (Levenson et al.,1995),and then finished the 48 scenario trials version of moral decision task which is same with Korner et al. (2O2O). In the moral decision task session， the participants randomly received the instruction of either personal standards or perceived societal standards. In the personal standards condition, the participants were instructed to make decisions based on their personal opinions and in the perceived societal standards condition, the participants were instructed to make decisions based on what is socially acceptable. For details, please refer to Luke and Gawronski (2020). Procedure ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "We first downloaded the raw data ofLuke and Gawronski (2020) from https://osf.io/7nscq/, then computed the six moral decision parameters with CAN algorithm. After that, we conducted two parts of reanalyzes, part 1 for the correlations between psychopathy and moral decision parameters and part 2 for the moderating role of personal/perceived societal standards. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Part 1. Correlations between psychopathy and moral decision parameters ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "As shown in Table 3, no matter in personal or perceived societal standards conditions, psychopathy trait scores are negatively correlated with $C$ and $N$ parameters, positively correlated with A, IrrespectiveI and IrrespectiveA parameters, negatively correlated with moral obedience. ",
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3d4cfa73b3dd72252b44bba01296cb69fe05c209950ea31c0fe531331aa7c3c.jpg",
+        "table_caption": [
+            "Table 3.Partial correlations between psychopathy and moral decision parameters after gender controlled in Luke and Gawronski (2020). ",
+            "Part 2.Moderation role of personal/perceived societal standards "
+        ],
+        "table_footnote": [
+            "Note.The leftis for the condition of personal standards and the right is for the condition of perceived societal standards. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"8\">personal</td><td rowspan=\"2\">societal (n = 163)</td></tr><tr><td>(n = 174)</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>1. Psychopathy</td><td>M±SD 1.795±0.540 1</td><td></td><td></td><td>-.366*** -.449*** .203**</td><td></td><td></td><td></td><td></td><td>M±SD .319*** .566***-.553*** 1.909±0.612</td></tr><tr><td>2. C</td><td>0.183±0.202 -.376***1</td><td></td><td></td><td>.098</td><td>-.094</td><td></td><td>-.490*** -.546*** .635***</td><td></td><td>0.187±0.197</td></tr><tr><td>3.N</td><td>0.362±0.279 -.534*** -.008</td><td></td><td></td><td>1</td><td>-.154*</td><td></td><td>-.654*** -.704*** .831***</td><td></td><td>0.288±0.271</td></tr><tr><td>4.A</td><td>0.499±0.115 .324*** -.254*** -.171*</td><td></td><td></td><td></td><td>1</td><td></td><td>-.418*** .610*** -.172*</td><td></td><td>0.524±0.118</td></tr><tr><td>5. IrrespectiveI</td><td>0.225±0.184 .392*** -.371*** -.670*** -.353***1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>.339***  -.781*** 0.241±0.197</td></tr><tr><td>6. IrrespectiveA</td><td>0.230±0.236 .651***-.558*** -.658*** .697*** .333***1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-.852*** 0.284±0.232</td></tr><tr><td>7. Moral obedience</td><td>0.545±0.343 -.656*** .581*** .809*** -.288*** -.764*** -.863***1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.475±0.353</td></tr></table></body></html>",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "We conducted moderation analyses using PROCESS plug-in developed by (Hayes, 2013) with model 1 and 50oo bootstraps. With psychopathy score as independent variable, personal/perceived societal standards condition as moderating variable, participants gender as controlled variable, each of the six moral decision parameters as dependent variable， we conducted six moderation analyses. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The results were shown in Figure 8. The moderating effect of personal/perceived societal standards is marginally significant between psychopathy and $A$ parameter $( \\beta = - 0 . 0 3 6$ t(332) $= - 1 . 6 7$ $p = . 0 9 7$ ,95%CI[- 0.078, 0.007]), statistically significant between psychopathy and IrrespectiveA parameter ( $\\mathrm { \\Delta } \\mathrm { \\ B } = - 0 . 0 7 0$ ， $t ( 3 3 2 ) = - 1 . 9 8$ $p = . 0 4 9$ , 95%CI[- 0.139,- 0.001]). The standards condition are greater than that under perceived societal standards condition. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/801558a6072dff69193bd7a60e4ee7e5d33d81201b2dfa6cf49efd7534c4bc9a.jpg",
+        "img_caption": [
+            "Figure 8.The possible moderating role of personal/perceived societal standards condition on the relationship between psychopathy and moral decision parameters obtained from CAN algorithm. Notes. The red solid lines represent the moderation effects are statistically significant. "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Luke and Gawronski (2O2O) found that personal/perceived societal standards moderated the relationships between psychopathy and $N$ and $I$ parameters obtained from CNI model. However, we did not find the moderating effect using the $N$ and Irrespectivel parameters obtained from CAN algorithm. This might due to that CNI model overestimated $N$ parameter (Liu & Liao, 2O21） and amplified the coefficient differences.Furthermore, the $I$ parameter based on CNI model is also untenable which has been discussed by Liu and Liao (2O21). When making moral decisions under personal standards condition rather than under perceived societal standards condition, psychopathy trait scores of the participants more strongly predict the overall action preferences and action preferences irrespective of norms and consequences. It implies that the psychopathic individuals would suppress their action impulsions when considering the societal rather than personal standards of moral decision making. These results ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "were completely different from Luke and Gawronski (2O2O), demonstrating again that the $N$ and $I$ parameters from CNI model is incredible.   \nFrom the reanalysis results,we can see that the culture related social standards might influence the relationships between psychopathy and moral decision making. Thus， in reanalysis study 4，we reanalyzed the raw data of a study carried out among Chinese participants. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "REANALYSIS STUDY 4 Relationship between Psychopathy traits and moral decision parameters under Chinese culture ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Method ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Li et al. (2020) recruited 869 valid sample of students (587 female and 282 male; aged 17- 47, $M = 1 9 . 0 3$ ， $S D = 1 . 7 1$ ） to participate the study. The participants finished the self-reported Levenson's psychopathy scales (26 items in total, the first 16 items are primary psychopathy subscale and the rest of 10 items are secondary psychopathy subscale) and the 24 dilemma trials version of moral decision task (Gawronski et al., 2017). ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "As the C, N, $I$ parameters obtained from the original CNI model cannot be used for correlation analysis, Li et al. (2O2O) artificially divided the high (first $20 \\%$ of the psychopathy scores) and low (last $20 \\%$ of the psychopathy scores) level of psychopathy groups so that they could further conduct the between-condition comparisons. They found that people with high psychopathy have significantly weaker norms sensitivity than people with low psychopathy, but these two groups of people have insignificantly different extents of consequences sensitivity and inaction/action preferences irrespective of norms and consequences. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Because the $N$ parameter is overestimated and the $I$ parameter is untenable (Liu & Liao, ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "2021), we downloaded their raw data from htps://osf.io/hcx5a/ and computed the six moral decision parameters with CAN algorithm and then conducted correlation analyses with their 869 samples.   \nResults   \nTable 4.Partial correlations between psychopathy and moral decision parameters after gender controlled in Li et al. (2020). ",
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/d4dd7584b7da9beca2ca59634652887627f1e53cb78bcb5a6af97ed1c1616450.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>M±SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>1.Primary Psychopathy</td><td>39.45±8.86</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2. Secondary Psychopathy</td><td>28.18±6.19</td><td>.374***</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3. Total Psychopathy</td><td>67.64±12.56 .887***</td><td></td><td>.760***</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.C</td><td>0.073±0.092 -.050</td><td></td><td>.003</td><td>-.033</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>5.N</td><td>0.128±0.162 -.184*** -.080</td><td></td><td></td><td>-.169***</td><td>-.027</td><td>1</td><td></td><td></td><td></td></tr><tr><td>A</td><td>0.255±0.056 -.001</td><td></td><td>.102**</td><td>.050</td><td>.062†</td><td>-.063†</td><td>1</td><td></td><td></td></tr><tr><td>7. IrrespectiveI</td><td>0.647±0.111 .166***</td><td></td><td>.016</td><td>.124***</td><td></td><td></td><td>-.407***-.693***  -.487***</td><td>1</td><td></td></tr><tr><td>8. IrrespectiveA</td><td>0.152±0.114 .141***</td><td></td><td>.096**</td><td>.146***</td><td>-.372***</td><td></td><td>-.725*** .514***</td><td>.341***</td><td>1</td></tr><tr><td>9. Moral obedience</td><td>0.200±0.184 -.187*** -.069*</td><td></td><td></td><td>-.165***</td><td>.476***</td><td>.867***</td><td>-.024</td><td></td><td>-.813***  -.824***</td></tr></table></body></html>",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "507 As shown in Table 4, among the parameters computed with CAN algorithm, primary   \n508 psychopathy scores are negatively correlated with $N$ parameter and Moral obedience,   \n509 positively correlated with Irrespectivel and IrrespectiveA parameters; secondary psychopathy   \n510 scores are positively correlated with $A$ and IrrespectiveA parameters, negatively correlated with   \n511 moral obedience; total psychopathy scores are negatively correlated with $N$ parameter and   \n512 Moral obedience, positively correlated with IrrespectiveI and IrrespectiveA parameters.   \n513 Discussion   \n514 Generally, we replicated the results of Li et al. (2020) that high psychopathy people have   \n515 weaker norms sensitivity than low psychopathy people. Furthermore， we replicated our   \n516 reanalysis results that high psychopathy people have stronger inaction and action preferences   \n517 irrespective of norms and consequences, and weaker moral obedience than low psychopathy   \n518 people. These results are very stable and cross-culturally congruent. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Moreover, the subscales of psychopathy have different relationships with moral decision parameters. Specifically, the relationships of primary and secondary psychopathy with moral decision parameters are a litte different, 1) Primary psychopathy is negatively correlated with norms sensitivity while secondary psychopathy is not correlated. 2) Primary psychopathy is not correlated with overall action preferences while secondary psychopathy is positively correlated. 3) Primary psychopathy positively correlated with inaction preferences irrespective of norms and consequences while secondary psychopathy is not correlated. Previous studies have demonstrated that primary psychopathy is generally associated with callousness, interpersonal manipulation， and selfishness while secondary psychopathy is considered as related to emotional disturbance and internal conflict that leads to antisocial or violent behavior (Horan et al., 2015; Wang et al., 2018). These differences might partly explain why primary and secondary psychopathy has different correlations with the moral decision parameters. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "GENERALDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "The main results of present reanalysis study ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Across four reanalysis studies,we unmasked the relationship between psychopathy and moral decision making to be a new appearance. First, the studies from Gawronski's research team convergently demonstrated that psychopathy is negatively associated with consequences sensitivity. It is contradicted with previous conclusions that the psychopathy people care more about the consequences (Bartels & Pizarro, 2011; Djeriouat & Tremoliere, 2014; Gao & Tang, 2013;Koenigs et al., 2012; Patil, 2015; Seara-Cardoso et al.,2013; S Tassy et al., 2013). In fact, they are not. However, the study among Chinese participants did not demonstrate this relationship. This might be due to the different country and culture background of participants, as some studies implied that the relationship between psychopathy and antisocial conduct is significantly moderated by country (Leistico et al.， 2008) and that decision making is moderated by individualism/collectivism cultures (LeFebvre & Franke, 2013). Even so, the sampling bias is also confounded in the culture differences as Li et al. (2O2O) mainly surveyed the college students rather than a wider age range of participants. Therefore, future studies need to check again whether and why the psychopathy traits of Chinese participants could not predict the consequences sensitivity in moral decision making. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Second, all the studies consistently demonstrated that people with higher psychopathy traits have weaker norms sensitivity. Many studies have demonstrated that psychopathy people have affect defects so that they are not so aversive to the harmful actions (Reynolds & Conway, 2018; S Tassy et al., 2013). Therefore, based on dual process model of moral cognition (Greene, 2009; Paxton & Greene,201O), people with high psychopathy traits would care less about the moral norms underlying the proposed action. Furthermore, we found that higher psychopathic persons have stronger action and inaction preferences irrespective of norms and consequences, and weaker moral obedience. These results were new to the original studies.It implies that people with higher psychopathy traits cannot well follow the moral principles. Recently, a meta-analysis study found that psychopathic individuals fail to understand moral principles and they have different moral compass compared to the controls (Marshall et al.,2018). When both norms and consequences principles request to action or inaction, more psychopathic people have stronger inclinations to behave on the other side. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Third, the studies of Korner et al. (2020) and Luke and Gawronski (2020) demonstrated that more psychopathic is positively correlated with more overall action preferences while the other two studies did not demonstrate this response pattern. If the response patern is credible, it might be due to that the psychopathic people has lower levels of behavioral inhibition which has been found to be a potential reason for more endorsing the action proposal (van den Bos et al., 2011). However, this effect also needs to be tested again in the future as it is inconsistent across studies. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Fourth, instrumental harm and moral identity partly mediated the relationship between psychopathy and some of the moral decision parameters. Many studies have demonstrated that Psychopathic people reacted differently to the moral dilemma under judgment and choice perspective (Cima et al., 2010; Pletti et al., 2017; S Tassy et al., 2013). Specifically, these studies found that under choice but not judgment perspective more psychopathic people endorsed more to the harmful actions to save more people. Thus,we mainly considered the choice perspective and found instrumental harm and moral identity frequently mediate the relationship between psychopathy and moral decision parameters. It implies that higher inclinations to conduct instrumental harm and lower level of moral identity explain the why psychopathic people care less consequences and norms， have stronger overall action preferences, stronger action preferences irrespective of norms and consequences, and weaker moral obedience.(Kahane et al.， 2O18) developed the instrumental harm subscale and first found the subclinical psychopathy is correlated with instrumental harm. Our results confirmed and deepened this relationship. Another study by (Glenn et al., 2010) found that people with psychopathic traits may display immoral behavior partially because they do not construe their personal identities in moral terms. Our results further supported this claim and found moral identity is an important mediator between psychopathy and moral decisions. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Fifth,making moral decisions under perceived societal standards rather than personal standards could alleviate the positive predictions of psychopathy on overall action preferences and action preferences irrespective of norms and consequences. The moderation reanalysis results were completely different with the original study. It demonstrated that perceived societal standards could possibly help to suppress the psychopathic people's action impulsion, especially when both norms and consequences principles request to inaction. Previous studies demonstrated that psychopathic people could make moral judgment but they did not care because of the afective deficits (Cima et al.， 2O10; S Tassy et al., 2O13). It means that psychopathic people can understand the societal standards of behaviors. In present study, we further clarify that the societal standards can help to suppress the psychopathy's action impulsion so that they would less endorse the action when norms and consequences principles request them inaction.   \nMethodological contrasts between CNI model and CAN algorithm   \nThe methodology maters whether the results are credible. As discussed by Liu and Liao (2021), CNI model overestimates $N$ parameter because they presuppose that the agent should follow norms principle on the prerequisite of not following the consequences principle. The prerequisite is not required based the corrective dual process model of moral cognition (Baron & Goodwin, 2O20). On the other hand, CAN algorithm does not have this prerequisite and compute $N$ parameter algebraically. CAN algorithm is more accordance with the moral cognition literatures and demonstrated that deontology and utilitarian inclinations could be computed independently (Bago & De Neys, 2019; Greene, 2009).   \nFurthermore, the $I$ parameter of CNI model were untenable as discussed by Liu and Liao ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(2021). $I$ parameter of CNI model is claimed to depict the agent's inaction/action preferences irrespective of norms and consequences. It means that the agent disregards the requirements of norms and consequences principles while choosing to action or inaction. However, based on the connotations of the four editions of scenarios, the probability of agent's endorsement to proposal in the scenario of proscriptive norms and benefits smaller than costs can represent the extent to which the agent chooses to action ignoring that both norms and consequences principles request to inaction; the probability of agent's rejection to proposal in the scenario of prescriptive norms and benefits greater than costs can represent the extent to which the agent chooses to inaction ignoring that both norms and consequences principles request to action. These two probabilities are described respectively as $p 2$ and $( 1 - p 3 )$ in Figure 1. As reasoned by Gawronski et al. (2017), the aggregation of these two probabilities should be 1. In turn, it means that $p 2$ and $p 3$ should be equal. That would be of scarcely possibility which has been stressed by Liu and Liao (2021). Therefore, $I$ parameter in CNI model is untenable. We developed the parameters of Irrespectivel, IrrespectiveA and Moral obedience based on CAN algorithm and these parametersprovide more insightson the relationships between psychopathy and moral decision-making. In a word, CAN algorithm overcomes the limitations of CNI model and sheds more light on the relationship of psychopathy and moral decision making. It is not previously demonstrating that psychopathic people would be more utilitarian in moral decisions, but that they would be less sensitive to consequences and norms,less following to the moral principles, and have stronger inclination of overall action preferences and action/inaction preferences irrespective ofnorms and consequences. We hope more researchers would use this new method ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "to uncover other topics related to moral decision making.   \nContributions and limitations   \nThe most important contribution of present reanalysis research is that it displays as an example that CAN algorithm can give us more insights on the agent's moral decision preferences.We appreciate CNI model extended the scenario library to include the two scenario editions of prescriptive norms. Thus, we can measure the proscriptive and prescriptive aspects of moral cognition (Janoff-Bulman et al.， 2009). However， the processing tree logic is problematic so that the estimated parameters would be biased.In the present reanalysis research, we have provided the evidence for that. Therefore, other researches using CNI model should be careful about the data analyses and we recommend to use CAN algorithm for reanalyzing the data. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "The second contribution is that we give more insights on the relationships between psychopathy and moral decision making. What is new in this data reanalysis exploration study? First，we recomputed the moral decision parameters with CAN algorithm. It further demonstrated that people with higher level of psychopathy traits would care less consequences and norms, have less moral obedience and stronger overall action preferences and action/inaction preferences irrespective of norms and consequences. These results were new form the original studies. Second, we explored the mediation process between psychopathy and moral decisions. It demonstrated that instrumental harm and moral identity play significant mediating roles. This is also new from the original studies. Third, the moderation role of personal/perceived societal standards condition was further clarified which is also new from the original studies. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "However, limitations remain. Present study is mainly reanalyzing the data of previous studies and more empirical studies are needed to further check the mechanism of psychopathy's effect on moral decisions. Previous studies demonstrated that affective defect (S Tassy et al., 2013), lack of empathic concern (Gleichgerrcht & Young,2013)and anxious emotion (Koenigs et al., 2012) were important factors that might explain why psychopathic people make different moral decision compared to controls. Future studies could check whether these factors mater. In addition, the random errors in the parameters need to be treated with care. For example, when the participants had not quite understood the scenario and made decisions, this randomly answering error would be confounded in the parameters,but it is different for different parameters. The computations of $C$ and $N$ parameter involved all the four editions of scenarios. Theoretically, the random errors are balanced in the subtraction computations. Thus, these two parameters are very convincing. However, the parameters of Irrepsectivel, IrresepctiveA and moral obedience were mainly computed basing on the response probabilities in the scenarios that both norms and consequences principles advocate/prohibit the proposed action. These three parameters have nothing to do with the other two editions of scenarios.Thus, they might be biased by some random errors. $A$ parameter which depicts the overall action/inaction preferences also has the random error involved, because it aggregates the action probabilities in all the scenarios. Therefore, these four parameters should be treated and explained with caution. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Reanalyzing four datasets of previous studies with CAN algorithm, we found that people with higher level of psychopathy traits care less about consequences and norms, have less moral obedience but stronger inclinations of overall action preferences and action/inaction preferences irrespective of norms and consequences. Furthermore, instrumental harm and moral identity are two important mediating variables between psychopathy and moral decisions. Perceived societal standards instead of personal standards can alleviate the positive predictions of psychopathy on overall action preference and action preferences irespective of norms and consequences in moral decision making. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "References Altman,D. G.,& Royston,P. (2006).The cost of dichotomising continuous variables.BMJ,332(7549),1080. https://doi.org/10.1136/bmj.332.7549.1080 Austin,P.C.，& Brunner,L.J. (2004).Inflation of the type 丨eror rate when a continuous confounding variable is categorized in logistic regression analyses. Statistics in Medicine， 23(7)，1159-1178. https://doi.org/10.1002/sim.1687 Bago,B.,& De Neys,W. (2019).The intuitive greater good: Testing the corrective dual process model of moral cognition. Journal ofExperimental Psychology: General， 148(10)， 1782-1801. https://doi.0rg/10.1037/xge0000533 Baron,J.,& Goodwin,G.P.(2020). Consequences,norms,and inaction: A critical analysis. Judgement and Decision Making, 15(3), 421-442. Bartels,D.M.，& Pizarro,D.A.(2011).The mismeasure of morals: antisocial personality traits predict utilitarian responses to moral dilemmas. Cognition, 121(1), 154-161. https://doi.org/10.1016/j.cognition.2011.05.010 Bentham,J. (1996).An Introduction to the Principles of Morals and Legislation. Oxford University Press, USA. (Original work published 1781). Cima,M.,Tonnaer,F.,& Hauser,M. D.(2010). Psychopaths know right from wrong but don't care. Soc Cogn Affect Neurosci, 5(1), 59-67. https://doi.org/10.1093/scan/nsp051 Conway,P.,& Gawronski, B. (2013). Deontological and utilitarian inclinations in moral decision making: a process dissociation approach. Journal of Personality and Social Psychology，104(2)， 216-235. https://doi.0rg/10.1037/a0031021 Djeriouat, H.,& Tremoliere,B. (2O14).The Dark Triad of personalityand utilitarian moral judgment: The mediating role of Honesty/Humility and Harm/Care.Personalityand Individual Diferences,67,11- 16. https://doi.org/10.1016/j.paid.2013.12.026 Francis,K.B.,Howard,C.,Howard,I.S.,Gummerum,M.,Ganis,G.,Anderson, G.,&Terbeck,S.(2016).Virtual Morality: Transitioning from Moral Judgment to Moral Action? PLoS One,11(10),e0164374,Article e0164374. https://doi.org/10.1371/journal.pone.0164374 Friesdorf,R.，Conway,P.,& Gawronski, B.(2015). Gender diferences in responses to moral dilemmas: a process dissociationanalysis. PersSocPsychol Bull, 41(5), 696-713. https://doi.0rg/10.1177/0146167215575731 Gao,Y.，& Tang，S.(2013). Psychopathic personality and utitarian moral judgment in college students. 711 Journal Of Criminal Justice, 41(5), 342-349. https://doi.org/10.1016/j.jcrimjus.2013.06.012 712 Gawronski,B.，Armstrong,J., Conway，P.,Friesdorf,R.,& Hutter,M.(2017). Consequences,norms,and 713 generalized inaction in moral dilemmas: The CNl model of moral decision-making. Journal of 714 Personality and Social Psychology,113(3), 343-376. https://doi.org/10.1037/pspa0000086 715 Gawronski, B.,& Beer,J.S.(2017).What makes moral dilemma judgments \"utilitarian\" or \"deontological\"? 716 Soc Neur0sci, 12(6), 626-632. https://doi.0rg/10.1080/17470919.2016.1248787 717 Gawronski,B.,Conway,P.,Hutter, M.,Luke,D.M.,Armstrong,J.,&Friesdorf,R.(202O).On the Validity of 718 the CNl Model of Moral Decision-Making: Reply to Baron and Goodwin (2020). Judgment and 719 Decision Making,15(6), 1054-1072. 720 Gleichgerrcht, E.,& Young,L. (2013).Low levels of empathic concern predict utilitarian moral judgment. 721 PLoS One, 8(4), e60418, Article e60418. https://doi.org/10.1371/journal.pone.0060418 722 Glenn,A.L.,Koleva,S.,lyer,R.,Graham,J.,&Ditto,P.H.(2010).Moral identity inpsychopathy.Judgment 723 and Decision Making, 5(7), 497-505. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Greene,J.D.(20o9). Dual-process morality and the personal/impersonal distinction: A reply to McGuire, Langdon, Coltheart,and Mackenzie. Journal of Experimental Social Psychology，45(3), 581-584. https://doi.org/10.1016/j.jesp.2009.01.003   \nHayes,A.F.(2013).Introduction to mediation,moderation,and conditional processanalysis:Aregressionbased approach. The Guilford Press.   \nHoran,J.M.,Brown,J.L,Jones,S.M.,&Aber,J.L.(2015). Assessing invariance acrosssex and race/ethnicity inmeasures ofyouth psychopathic characteristics.Psychol Assess， 27(2)， 657-668. https://doi.org/10.1037/pas0000043   \nJanoff-Bulman,R.,Sheikh,S.,& Hepp,S.(2009). Proscriptive versus prescriptive morality: two faces of moral regulation.JournalofPersonalityandSocialPsychology，96(3)，521-537. https://doi.0rg/10.1037/a0013779   \nKahane,G.,EverettJ.A.,Earp,B.D.,Farias,M.,& Savulescu,J. (2015).'Utilitarian' judgments in sacrificial moral dilemmas do not reflect impartial concern for the greater good. Cognition，134,193-209. https://doi.org/10.1016/j.cognition.2014.10.005   \nKahane,G.,Everett,J.A.C.,Earp,B.D.,Caviola,L.,Faber,N.S.,Crocket,M.J.,&Savulescu,J.(2018). Beyond sacrificial harm: A two-dimensional model of utilitarian psychology. Psychological Review,125(2), 131-164. https://doi.org/10.1037/rev0000093   \nKant,I.,& Gregor,M.J. (1997). Groundwork of the metaphysics of morals. Cambridge University Press.   \nKoenigs,M.， Kruepke,M., Zeier,J.，& Newman,J.P.(2012).Utilitarian moral judgment in psychopathy. Social Cognitive And Affective Neuroscience, 7(6),708-714. https://doi.org/10.1093/scan/nsr048   \nKorner,A.,Deutsch,R.,& Gawronski, B.(2020). Using the CNI Model to Investigate Individual Diferences in MoralDilemmaJudgments.PersSocPsycholBull，46(9)，1392-1407. https://doi.0rg/10.1177/0146167220907203   \nLeFebvre,R.,& Franke,V.(2013). Culture Matters: Individualism vs. Collectivism in Conflict Decision-Making. Societies, 3(1), 128-146. https://doi.0rg/10.3390/soc3010128   \nLeistico,A.M.,Salekin,R.T., DeCoster,J.,&Rogers,R. (2O08).A large-scale meta-analysis relating the hare measures of psychopathy to antisocial conduct. Law and Human Behavior， 32(1)，28-45 https://doi.0rg/10.1007/s10979-007-9096-6   \nLevenson，M. R.， Kiehl，K. A.，& Fitzpatrick，C. M. (1995).Assessing psychopathic atributes in a noninstitutionalized population. Journal of Personality and Social Psychology， 68(1)，151-158. https://doi.0rg/10.1037/0022-3514.68.1.151   \nLi,S.,Ding,D.,Wu,Z.,Yi,L.,Lai,J.,& Dang,L. (202O).Do High Psychopaths Care More about Moral Consequences than Low Psychopaths in Chinese Culture? An Exploration Using the CNl Model. Healthcare (Basel), 8(4). https://doi.org/10.3390/healthcare8040505   \nLiu,C.,& Liao,J. (2021). CAN Algorithm: An Individual Level Approach to Identify Consequence and Norm Sensitivities and Overall Action/Inaction Preferences in Moral Decision-Making.Frontiers in Psychology, 11, 547916. https://doi.0rg/10.3389/fpsyg.2020.547916   \nLuke,D.,& Gawronski, B.(2020). Psychopathy and Moral Dilemma Judgments: A CNl Model Analysis of Personal and Perceived Societal Standards. Social Cognition.   \nMarshall,J,Wats,A.L.,& Lilienfeld,S.O.(2018). Do psychopathic individuals possess a misaligned moral compass? A meta-analytic examination of psychopathy' s relations with moral judgment. PersonalityDisorders:Theory，Research，and Treatment, （204 $g ( 1 )$ ， 40-50. https://doi.0rg/10.1037/per0000226   \nMill, J. S. (1872). The Logic of the Moral Sciences. Open Court. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Moore,A.B.，Stevens,J.，& Conway,A.R.A. (2011).Individual differences in sensitivity to reward and punishment predict moral judgment. Personality and Individual Diferences， 50(5)， 621-625. https://doi.org/10.1016/j.paid.2010.12.006 Patil, I. (2015).Trait psychopathyandutilitarian moral judgement: The mediating role of action aversion. Journal Of Cognitive Psychology, 27(3), 349-366. https://doi.0rg/10.1080/20445911.2015.1004334 Patil,I.,，Cogoni， C.,Zangrando,N., Chitaro,L.,& Silani, G.(2014). Affective basis of judgment-behavior discrepancyin virtual experiencesof moral dilemmas. Soc Neurosci, 9(1)， 94-107. https://doi.0rg/10.1080/17470919.2013.870091 Paulhus,D.L.,Neumann,C.F.,& Hare,R.D.(2009). Manual for the self-report psychopathy scale.MultiHealth Systems. Paxton,J.M.,& Greene,J.D.(2010). Moral reasoning: hints and alegations.Top Cogn Sci, 2(3), 511-527. https://doi.0rg/10.1111/j.1756-8765.2010.01096.x Pleti,C.,Lotto,L,Buodo,G.，& Sarlo，M.(2017).It's immoral,but I'd do it!Psychopathy traits affect decision-making in sacrificial dilemmas and in everyday moral situations.British Journal of Psychology, 108(2), 351-368. https://doi.0rg/10.1111/bjop.12205 Reynolds,C.J.,& Conway,P. (2018).Not just bad actions: Afective concern for bad outcomes contributes tomoral condemnation ofharmin moraldilemmas. Emotion， 18(7)， 1009-1023. https://doi.0rg/10.1037/emo0000413 Seara-Cardoso,A.，Dolberg，H.,Neumann,C.，Roiser,J.P.，& Viding,E.(2013).Empathy，morality and psychopathic traits in women. Personality and Individual Differences， 55(3)，328-333. https://doi.org/10.1016/j.paid.2013.03.011 Szekely，R. D., Opre,A.,& Miu,A. C.(2015). Religiosity enhances emotion and deontological choice in moral dilemmas. Personality and Individual Differences, 79, 104-109. https://doi.org/10.1016/j.paid.2015.01.036 Tassy,S.,Deruele,C.,Mancini,J.,Leistedt,S.,& Wicker,B.(2013).High levels of psychopathic traits alters moral choice but not moral judgment. Frontiers in Human Neuroscience, 7(4),229. Tassy,S.,Oulier,O.,Mancini,J.,& Wicker,B. (2013). Discrepancies between Judgment and Choice of Action in Moral Dilemmas. Front Psychol, 4,250. https://doi.org/10.3389/fpsyg.2013.00250 van den Bos,K., Muller,P.A.,& Damen,T. (2011).A Behavioral Disinhibition Hypothesis of Interventions in Moral Dilemmas. Emotion Review, 3(3), 281-283. https://doi.0rg/10.1177/1754073911402369 Wang,M. C.,Shou,Y., Deng,Q.,Sellbom,M., Salekin,R.T.,& Gao,Y. (2018).Factor structure and construct ） validity of the Levenson Self-Report Psychopathy Scale (LSRP) in asample of Chinese male inmates. Psycho/ Assess, 30(7), 882-892. https://doi.0rg/10.1037/pas0000537 ",
+        "page_idx": 35
+    }
+]

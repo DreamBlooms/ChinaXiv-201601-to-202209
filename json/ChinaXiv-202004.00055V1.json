@@ -1,0 +1,560 @@
+[
+    {
+        "type": "text",
+        "text": "基于多重网格的射电源条纹搜索算法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙晓彤1.2 童力1.3郑为民1.3,4 余赞1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "，(1.中国科学院上海天文台，上海 200030；2.中国科学院大学，北京 100049；3.中国科学院射电天文重点实验室，江苏 南京 210008；4.上海市导航定位重点实验室，上海 200030)-",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：空间VLBI是未来重要的发展方向，但其观测系统和轨道等不稳定因素会导致VLBI相关处理机所需的预报时延模型与实际时延相差较大，在这种情况下很难获得干涉条纹。本文提出了基于多重网格的射电源条纹搜索算法，可以在不使用时延模型的情况下，使相关处理机在较大范围内从原始数据中自动完成搜索干涉条纹。利用滑动窗口技术提高搜索范围，多重网格技术提高搜索效率。实测数据表明，该算法在能够不依赖先验预报时延模型的情况下成功获得VLBI射电源干涉条纹。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：条纹搜索；射电源；VLBI;多重网格；相关处理机",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "甚长基线干涉测量(VLBI)是20世纪60年代后期发展起来的一种射电干涉技术，具有高分辨率、高精度的特点，在天文观测、大地测量和深空探测等领域得到了广泛应用[。其基本工作方式是位于基线两端的天线接收射电源辐射出的电磁波，VLBI相关处理机利用干涉原理从实测数据中得到时延以及时延变化率，进一步获取射电源和有关基线的位置等信息。因此快速、准确地获得射电源的干涉条纹，对VLBI的数据处理至关重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "相关处理机是VLBI技术的核心数据处理设备，预报时延模型与实际时延的误差直接影响到干涉条纹的处理效果，因此处理机对所需预报时延模型有很高的精度要求。但在实际数据处理中，地球模型误差、大气模型误差、仪器误差以及站坐标误差等都可能导致时延模型不准确甚至无法引导处理机正常工作。在常规地面VLBI中，由于站坐标较稳定，可以通过预先计算获取预报时延模型与实际时延之间的误差，然后采用人工反复尝试后，获得准确的干涉条纹，在一次观察中，通常不需要再次进行搜索。但对于空间VLBI，观测系统和轨道不稳定，误差是随时变化的，情况与地面VLBI有较大区别，因此无法通过预先计算来对时延模型进行一次性修正。目前针对探测器信号的无时延模型条纹搜索研究较为成熟。上海天文台在这一领域取得了大量研究成果，解决的主要思路是利用探测器测控信号自身的信号特征设计条纹搜索算法[2。但由于射电源信号是高斯白噪声信号，也就决定了无法直接利用信号特征进行条纹搜索。目前在实际数据处理中，无时延模型的射电源条纹搜索往往采用半人工的方式进行，主要依赖于操作人员的经验，这种方式费时且费力。对于未来空间VLBI的应用场景，这种常规的半人工方式难以满足需求。因此，解决不依赖时延模型对射电源条纹搜索这一难题，对推动空间VLBI的应用具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对无时延模型的射电源条纹搜索，本文提出了基于多重网格的射电源条纹搜索算法，能够在较大的时延和时延率平面内进行搜索，利用滑窗技术以及多重网格技术快速自动定位到精确的时延、时延率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1VLBI相关处理原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VLBI观测台站接收到射电源信号，经过变频、滤波和二次变频后，被划分成多个频率通道，经过采样量化编码后记录在磁盘上或通过网络传输到VLBI中心[3]。设台站1接收到的信号为 $x _ { 1 }$ ，台站2接收的信号为 $x _ { 2 }$ ，两台站信号之间的关系满足：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { 2 } = x _ { 1 } ( t - \\tau )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为地球自转和射电源相对运动的影响， $\\tau$ 实际上是一个随着时间变化的函数，在很短的时间 $\\Delta t$ 内 $\\tau$ 可近似成一次函数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau ( t ) = \\tau _ { r } + \\dot { \\tau } _ { r } \\Delta t\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\tau _ { r }$ 是不随时间变化到的部分， $\\dot { \\tau } _ { r } \\Delta t$ 是随时间变化的部分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经过下变频后两台站的输出信号分别为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { 1 } ( t ) = x _ { 1 } ( t ) e ^ { - j 2 \\pi f _ { 0 } t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { 2 } ( t ) = x _ { 2 } ( t ) e ^ { - j 2 \\pi f _ { 0 } t } = x _ { 1 } ( t - \\tau ) e ^ { - j 2 \\pi f _ { 0 } t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $f _ { 0 }$ 表示天空频率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将原始数据解码后，固定台站1信号，对台站2信号做时延补偿，设 $\\mathit { \\Pi } _ { \\tau _ { s } }$ 是搜索的补偿时延，它与实际时延 ${ \\bf \\Psi } _ { { \\bf { r } } _ { r } }$ 之间为差为 $\\Delta \\tau _ { s }$ ，表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { s } = \\tau _ { r } - \\varDelta \\tau _ { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于是以数字信号的形式存储数据，采样间隔是 $\\Delta T$ ，则 $| \\tau _ { s }$ 由整数部分 $n \\Delta T$ 和小数部分$\\tau _ { s f }$ 两部分组成：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { s } = n \\Delta T + \\tau _ { s f }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "时延的补偿分为两部分，一部分是在时域完成的整数比特补偿，另一部分是在频域完成",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "的小数比特补偿。对台站2信号进行整数比特补偿后为[3]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { s _ { 2 } ( t \\mathrm { ~ - ~ } n \\Delta T ) = x _ { 2 } ( t - n \\Delta T ) e ^ { \\displaystyle { - j 2 \\pi f _ { 0 } ( t - n \\Delta T ) } } } } \\\\ { { = x _ { 2 } ( t - \\tau _ { r } - \\tau _ { s f } + \\Delta \\tau _ { s } ) e ^ { \\displaystyle { - j 2 \\pi f _ { 0 } ( t - \\tau _ { r } + \\tau _ { s f } + \\Delta \\tau _ { s } ) } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过条纹旋转，消除时延中时变项，引入 $e ^ { - j 2 \\pi f _ { 0 } \\dot { \\tau } _ { s } t }$ 因子,搜索的补偿时延率 $\\dot { \\tau } _ { s }$ 与实际时延率之间的差 $\\Delta \\dot { \\tau } _ { s }$ 满足：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\tau } _ { s } = \\tau _ { r } - \\varDelta \\dot { \\tau } _ { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "进行傅里叶变换后得到其频谱 $S _ { 2 } ( f )$ ，完成小数比特补偿后，得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { 2 f s } ( f ) = X _ { 2 } ( f + f _ { 0 } ) e ^ { - j 2 \\pi f _ { 0 } \\varDelta \\tau _ { s } } e ^ { - j 2 \\pi f _ { 0 } \\varDelta \\dot { \\tau } _ { s } \\varDelta t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对台站1做傅里叶变换，得到两台站之间的互功率谱为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { P _ { 1 2 } = < S _ { 1 } ( f ) , S _ { 2 } ^ { * } ( f ) > } \\\\ { = | X _ { 1 } ( f ) | ^ { 2 } e ^ { - j 2 \\pi f _ { 0 } \\varDelta \\tau _ { s } } e ^ { - j 2 \\pi f _ { 0 } \\varDelta \\dot { \\tau } _ { s } \\Delta t } e ^ { - j ( \\varphi _ { 1 } + \\varphi _ { 2 } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\varphi _ { 1 }$ 和 $\\varphi _ { 2 }$ 分别是两台站信号的原始相位。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过上述分析可以看出，两台站互相关功率谱和补偿时延 $\\tau _ { s }$ 与实际时延的差值$\\varDelta \\tau _ { s }$ ，补偿时延率 $\\dot { \\tau } _ { s }$ 和实际时延率的差值 $\\varDelta \\dot { \\tau } _ { s }$ 有关，因此经过不同时延和时延率补偿后的两台站信号互相关功率谱也就不同。当 $\\varDelta \\tau _ { s }$ 和 $\\varDelta \\dot { \\tau } _ { s }$ 为0时， $s _ { 1 } ( t )$ 和 $s _ { 2 } ( t )$ 两台站信号的互相关功率谱有最大峰值，此时经过补偿后的两台站信号为同一波前信号。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2多重网格的条纹搜索 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基线两端的天线接收由射电源辐射出的电磁波，因为地球和射电源的相对运动使得电磁波的波前到达两个天线的时间差值不断改变。干涉条纹只存在于同一波前信号的互相关功率谱中[4]。因此，只有将接收到的两台站信号进行准确的时延、时延率补偿才可以得到射电源的干涉条纹。本文提出一种基于多重网格技术的算法，可在无预报时延模型情况下对射电源条纹进行搜索。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1多重网格技术基本原理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多重网格的基本思想就是建立多层次不同尺寸的网格，通过这些网格在不同的范围内搜索我们需要的目标值5。如图1所示，搜索空间被划分为L层，每层的网格都由边长相同的单元格构成，单元格的边长称为搜索步长，每个单元格的结点表示不同的搜索值。在划分过程中，随着网层号的降低，网格的尺寸减小，搜索精度提高。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c3448255b657115c797f8f670fc28ef6985de31e2ad3c3a35cc1a8068739fe2.jpg",
+        "img_caption": [
+            "图1多重网格示意图",
+            "Fig.1 Schematic diagram of multiple grids "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对VLBI相关原理的分析，可知每一对补偿时延和补偿时延率都会与其互相关功率谱相对应。条纹搜索需要在时延-时延率平面中将存在条纹的互相关功率谱所对应的时延和时延率找出。将时延-时延率搜索平面划分网格，网格尺寸的大小也就决定了时延和时延率的搜索精度，最底层的网格尺寸由VLBI相关处理机的精度需求决定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "VLBI处理机对时延和时延率的补偿精度有很高要求，否则无法获得条纹。时延补偿的精度必须满足[6]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left. \\Delta \\tau \\right. \\leq \\frac { N } { 2 \\times B W } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，BW为频率通道带宽,N为谱通道个数（FX 型处理机）或时延通道个数（XF型处理机）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "时延率的误差 $\\Delta { \\dot { \\tau } }$ 需要满足：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { | \\Delta \\dot { \\tau } | \\leq \\frac { 1 } { 2 \\times T \\times f } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $T$ 为积分时间， $f$ 为观测频率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "若直接选取满足相关处理机精度要求的单一网格，相应的计算量极大，条纹搜索效率很低。为提高搜索效率，采用粗网格定范围，细网格定终值的策略。首先选取较大的搜索步长，在粗网格的搜索平面内确定正确的时延和时延率补偿所在范围，如图2(a),通过计算确定正确的值落在图中红色区域位置，用于第二步精搜索，这一过程称为粗搜索。缩小搜索范围后，同时缩小网格以满足相关处理机精度要求，如图2(b)所示，进而可在细网格内搜索到更高精度的时延和时延率补偿，完成精搜索。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ad290522b84054724f0e663b3d97aba5c34748ca234d8fe091801d5c5922b02.jpg",
+        "img_caption": [
+            "Fig.2 Schematic diagram of grid operation "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "射电源信号的信噪比较低，需要增加积分时间来解决这一问题，但计算机对相关计算长度和FFT计算的长度都有限制7，通过对信号的分段处理可平衡两者之间的关系。在两路信号中，需要固定一路信号作为参照信号,对另一路信号进行分段处理。第一路的信号与第二路的信号每段进行相关处理即实现滑窗相关。信号滑窗操作方法如图3所示，将台站信号在搜索范围内以网格要求的搜索步长滑动，并在相关计算后记录互相关功率谱，提取相位后计算方差。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f51fc07b4a99666e2d4761a663009268659dfc3d4f08c3631ed5beef1cbd932.jpg",
+        "img_caption": [
+            "图2网格操作示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2评估时延和时延率补偿结果的依据和方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由公式10可知，若补偿准确，互相关功率谱的相位与频率呈线性关系，斜率表示残余时延。如图4(a)表示时延和时延率补偿与实际时延和时延率相近的相位结果，若不能补偿正确的时延和时延率，相频图将会如图4(b)所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图4可以看出，互相关功率谱的相位弥散程度可以衡量时延、时延率补偿的准确性。 补偿时延和时延率与实际时延和时延率误差小，相位弥散程度小；补偿误差大，相位弥散程 度大。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "要度量相位的弥散程度需要先对相频图进行线性拟合，定下基准点的位置。在线性拟合时，采用最小二乘法实现拟合，如图 4(a)。由于最小二乘的曲线拟合方法是通过最小误差的平方找到拟合结果，虽然补偿不准确的相频谱不具备线性关系，但仍然可以拟合出一条与真实数据距离最近的直线，如图4(b)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a430bf19f941c7dd0f1d259e7720a7293c035542842744c5db15c43e0fe2e1ef.jpg",
+        "img_caption": [
+            "图3滑窗操作示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/46a3a542e953d0964c560d0189941533631a02b39db96b9c6d2c904e514eb984.jpg",
+        "img_caption": [
+            "Fig.3 Schematic diagram of sliding window operation ",
+            "图4 在相频图上的拟合结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Fitting result on the phase-frequency diagram ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在相频图中，有一种特殊情况：相位卷绕。由公式10可知，互相关功率谱是共轭相乘得到，可得相位是相加的关系，表示为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi ( f ) = \\varphi _ { 1 } ( f ) + \\varphi _ { 2 } ( f )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "已知 $\\varphi _ { 1 } ( f )$ 、 $\\varphi _ { 2 } ( f )$ 取值范围在之间，但两者相加后取值范围可能不在 $( - \\pi , \\pi )$ 之内。由于计算机在处理相位的时候只能在 $( - \\pi , \\pi )$ 中表示，此时相位图被截断，发生跳变8。如图5(a)所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0baf610793a901f39ab5ea0bee89837864685275e5c3a812da699180b3f3decb.jpg",
+        "img_caption": [
+            "图5卷绕与解卷绕"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 Phase wrapping and phase unwapping_ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图中可以看出条纹是存在的，但相位发生了截断，发生条纹平行出现的现象，导致无法对相位数据进行准确的线性拟合，过大的拟合方差也会影响后续的判断。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过上面的分析知，因为两台站信号互相关功率谱的相位超出 $( - \\pi , \\pi )$ 范围导致相位卷绕现象。为了可以准确表示出互相关功率谱的相位，需要对相位进行解卷绕处理。-解卷绕方法为：规定跳变阈值，当相位跳变超过阈值时，将相位进行搬移，使截断的相位连接在一起。解卷绕后的相位图5(b)所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3多重网格条纹搜索流程",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图6是多重网格条纹搜索的具体流程。首先需要计算相关处理机的精度要求，确定粗搜索的时延和时延率补偿的搜索步长，读取台站记录的信号，解码后在绝对时间上对齐，固定台站1信号，对台站2信号的进行粗搜索的滑窗处理，完成时延和时延率的补偿后计算互相关功率谱，搜索到互相关功率谱弥散程度最小的位置。缩小搜索范围，以满足精度要求的搜索步长进行相关处理，在信号相关后得互相关功率谱，提取相位。计算每组时延、时延率对应相位的方差并记录，最后将记录的方差结果绘制输出，选取峰值对应的时延、时延率，最终得到精确的时延、时延率并输出。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/42c35d8218a88ee39549ce2bc399c8928b2880ab3c81e2e80a81965d70785c33.jpg",
+        "img_caption": [
+            "图6多重网格条纹搜索流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 Multi-grid fringe search flow chart ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3实测信号验证 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了验证多重网格条纹搜索的正确性，我们以嫦娥四号探月工程中一段实测数据进行验证，其观测代码为s8b06a，观测源为3C273B。任务采用的相关处理机为FX型处理机。本次实验选择天马站和乌鲁木齐站两台站的信号。信号的采样率为4MHz，采用2bit量化，划分为16个通道，通道带宽为2MHz，积分时间2s。本次实验选取第一通道的信号，中心频率 $f _ { 0 }$ 为2233.5MHz。由公式11和公式12计算可知，时延、时延率补偿的精度需要满足：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| \\Delta \\tau \\right| \\leq \\frac { 1 6 } { 2 \\times 2 M H z } = 4 \\times 1 0 ^ { - 6 } s\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\Delta \\dot { \\tau } | \\le \\frac { 1 } { 2 \\times 2 s \\times 2 3 3 3 M H z } \\approx 1 \\times 1 0 ^ { - 1 0 } s / s\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "算法本身对时延和时延率的搜索范围在理论上没有硬性约束。但为方便起见，在实验操作时，以先验模型为初值确定了较大的搜索范围。在实际工程应用中，若有更大的搜索范围需求而带来更大的计算量，可通过MPI、CUDA等并行计算技术实现解决。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首先选择粗网格进行搜索：时延搜索步长为 $1 \\times 1 0 ^ { - 5 } s$ ，时延率搜索步长为 $1 \\times 1 0 ^ { - 9 } s / s$ 。在搜索范围内，分别计算不同的时延和时延率所对应的互相关功率谱的相位方差 $\\sigma ^ { 2 }$ ，为了使结果更加直观，取 $\\sigma ^ { 2 }$ 的倒数Q绘制成图7(a)。得峰值位置为补偿时延： $2 . 8 8 \\times 1 0 ^ { - 3 } s$ ，补偿时延率： $7 . 1 5 \\times 1 0 ^ { - 7 } s / s$ 。因此时延补偿的范围是 $2 . 8 7 \\times 1 0 ^ { - 3 } s \\sim 2 . 8 9 \\times 1 0 ^ { - 3 } s$ ，时延率补偿范围为： $7 . 1 4 \\times 1 0 ^ { - 7 } s / s { \\sim } 7 . 1 6 \\times 1 0 ^ { - 7 } s / s ,$ 。后面的条纹搜索在此范围内进行更为精确的搜索，得到时延、时延率补偿的精确值。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/84561e57cc6c723a5bb59d2dd5f3612cc62c8c8850a1a3c6019f6824ded0a472.jpg",
+        "img_caption": [
+            "图7多重网格条纹搜索"
+        ],
+        "img_footnote": [
+            "Fig.7 Multi-grid fringe search "
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "经过上述的操作，确定精搜索时延精搜索范围为： $2 . 8 7 \\times 1 0 ^ { - 3 } s \\sim 2 . 8 9 \\times 1 0 ^ { - 3 } s$ ，时延率精搜索范围为： $\\phantom { - } 7 . 1 4 \\times 1 0 ^ { - 7 } s / s { \\sim } 7 . 1 6 \\times 1 0 ^ { - 7 } s / s$ 。精搜索时延步长为 $1 \\times 1 0 ^ { - 6 } s$ ，-时延率搜索步长为 $1 \\times 1 0 ^ { - 1 0 } s / s$ 。分别计算不同时延、时延率对应的Q值，绘制成图 ${ 7 \\left( \\mathrm { b } \\right) }$ ，求得峰值对应的时延值是 $2 . 8 8 1 \\times 1 0 ^ { - 3 } s$ ，时延率是 $7 . 1 5 1 \\times 1 0 ^ { - 7 } s / s$ 。将搜索到的时延、时延率带入相关处理机中进行验证，得到射电源的条纹，如图8所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/970338bd706dc05337d8cb071307b7661e7c69d97dc7c75890815ff8e79cf564.jpg",
+        "img_caption": [
+            "图8实测数据条纹",
+            "Fig.8 Fringe phases of actual data "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文实验所使用的的CPU型号是Intel(R)Xeon(R)CPUX5650@2.67GHz。多重网格条纹搜索在本次实测数据应用中如窗口大小，程序运行时间等相关参数如表1所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7e259e16a4019cc4df37e4a4dfe611309c8e266f11923d0d613c035dcdb8ab4a.jpg",
+        "table_caption": [
+            "表1多重网格条纹搜索的相关参数",
+            "Tab.1 Parameters of Model-free Fringe Searches "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数名称</td><td>数据</td></tr><tr><td>时延搜索窗大小(s)</td><td>1×10-3</td></tr><tr><td>时延搜索精度(s)</td><td>1×10-6</td></tr><tr><td>时延率搜索窗大小(s/s)</td><td>1×10-8</td></tr><tr><td>时延率搜索精度(s/s)</td><td>1×10-10</td></tr><tr><td>搜索时间(s)</td><td>142.1</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文针对射电源VLBI自动条纹搜索这一难题，基于多重网格的方法，提出了一种射电源信号的条纹搜索算法，并通过嫦娥四号实测信号进行验证。该方法解决了射电源条纹搜索不依赖于时延模型这一难题。基于该算法的应用背景，经过后续深入的研究，有望用于空间VLBI数据处理中。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]钱志瀚，李金岭.甚长基线干涉测量技术在深空探测中的应用[M].中国科学技术出版",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "社.2012:1-2",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2] 郑为民，舒逢春，张冬．应用于深空跟踪测量的VLBI软件相关处理技术[J].宇航学报2008.1(29)",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3]童力.双目标及正交信号并行高速VLBI软件相关处理技术研究[R].中国科学院博士研究报告.2014:4-5",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4] 雷叶子．深空探测中 VLBI 宽带相关技术研究与实现[D].[硕士学位论文].南京：东南大学.2015",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5]Peter F,Kala R.A hierarchical search algorithm for discrete element method of greatly differing particle sizes[J].Engineering Coaindexputations,2Oo9,26:621-634 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6]舒逢春，张秀忠.相关处理软件系统中模型计算的精度分析[J].中国上海天文台年刊.2001.22:102-104",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7] Tianyi Zhang， Qiao Meng. A Model-free CAF Fringe Search Algorithm with Wavelet Boosting for VLBI Observation[J]. Publications of the Astronomical Society of the Pacific.2012 [8] 马英，韦汉韬．一种解决相位卷绕的算法分析[J]．微计算机信息.2012.28(10) [9]任毅，袁晓.matlab语言中两个相位卷绕命令的分析与改进[J].微型电脑应用.2008.24(2) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Research on radio source fringe search algorithm based on multi-grid ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Xiaotong Sun12,Li Tong1,3,Weimin Zheng1,34,Yun Yu1 (1. Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 2Oo030, China; 2. University of Chinese Academy of Sciences, Beijing 1Ooo49, China; 3. Key Laboratory of Radio Astronomy, Chinese Academy of Sciences, Nanjing 21Ooo8, China; 4. Shanghai Key Laboratory of Navigation and Positioning, Shanghai 2Ooo3o, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Space VLBI is an important development direction in the future,but its observation system and orbital instability will cause the forecast delay model to differ greatly from the actual delay. In such case, it is difficult to obtain interference fringes.This paper proposes a radio grid fringe search algorithm based on multiple grids, which can search interference fringes from the original data over a wide range without using a delay model. Use sliding window technology to increase search range,and multi-grid technology to improve search efficiency. The observation data experiment results -show that the algorithm successfully obtains the interference fringes of VLBI radio source without forecasting delay model. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: VLBI; Radio source; Fringe search; Multi-grid; Correlator ",
+        "page_idx": 9
+    }
+]

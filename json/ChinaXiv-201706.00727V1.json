@@ -1,0 +1,378 @@
+[
+    {
+        "type": "text",
+        "text": "Supersonic Cavity Flows over Concave and Convex Walls ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Ran $\\mathbf { Y e ^ { 1 } }$ ,Rajarshi Das1, Toshiaki Setoguchi², Heuy Dong Kim ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Department ofMechanical Engineering,Andong National University,Andong, Korea   \n2. Institute of Ocean Engineering, Saga University, Japan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supersoniccavity flowsare characterized bycompresson and expansion waves,shearlayer,and oscilations nside the cavity.For decades,investigations into cavity flows have been conducted,mostly with flows at zero pressure gradient entering the cavity in straight walls.Since cavity flows on curved walls exert centrifugal force, the features of these flows are likely to differ from those of straight wallflows.The aimofthe present work is to study the flow physics of a cavity that is cut out on a curved wall Steady and unsteady numerical simulations were carried out for supersonic flow through curved channels over the cavity with $L / H = 1$ .A straight channel flow was also analyzed which serves as the base model.The velocity gradient along the width ofthe chanel was observed to increase with increasing the channel curvature for both concave and convex channels.The pressure on the cavity floor increases with the increase in channel curvature forconcave channels and decreases for convex channels.Moreover, unsteady flow characteristics are more dependent on channel curvature under supersonic free stream conditions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Cavity flow,Supersonic Flow, Compressble Flow, Unsteady flow,Pressure Oscillation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The subject of transonic and supersonic flows over a wall mounted cavity has long been of research interest for many engineers and scientists.Although a wall mounted cavity is geometrically very simple, it involves many diverse flow characteristics such as shear layer,shock wave，flow separation,recirculation regions,etc.Much has been learned from previous computational as well as experimental research [1-3]. For a given cavity geometry, both the Mach number as well as the Reynolds number upstream of the cavity have important influence on the flow field inside the cavity. Depending on the shape of the cavity as well as its length to depth ratio $( L / H )$ ，flow over a cavity can be specified as an open cavity flow,a transitional flow or a closed cavity flow.For such cases, the cavity drag and flow oscillation characteristics are well documented [4]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the advent of advanced computing setups, efforts have been made to study the oscillatory flow mechanisms employing various numerical simulation techniques [5-6]. Flow oscillations within the cavity occur predominantly in the spanwise,longitudinal or transverse directions depending on the length to depth ratio of the cavity. According to Plumblee et al.[7] the turbulent shear layer which spans the free boundary of the cavity provides the cavity with a broad band noise source from which the cavity detects certain frequencies to amplify. This mechanism is verified for cavities exhibiting transverse modes of oscillation which exist when the cavity length to depth ratio is equal to or less than 1.As the cavity becomes shallow $( L / H \\geq 1 )$ ，the oscillation mechanism ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nomenclature ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e0b9c8b6512a96641b98a2a1d04c8822f5c1971c34a2a04baff26c8e959bef93.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>A</td><td>surface area (m²)</td><td>U</td><td>free stream velocity (m/s)</td></tr><tr><td>CD</td><td>cavity drag (N)</td><td>u</td><td>axial velocity (m/s)</td></tr><tr><td>Cp</td><td>pressure coefficient</td><td>x,y</td><td>Cartesian coordinates</td></tr><tr><td>D</td><td>drag (N)</td><td>y+</td><td>nondimensional wall distance</td></tr><tr><td>f</td><td>frequency (Hz)</td><td colspan=\"2\">Greek letters</td></tr><tr><td>H</td><td>cavity height (mm)</td><td>T shear stress</td><td>a factor to account for time lag between the passage</td></tr><tr><td>K</td><td>ratio of convective velocity of vor- tices to the freestream velocity</td><td></td><td>ofaradissifaoussath</td></tr><tr><td>L</td><td>cavity length (mm)</td><td>Subscripts</td><td></td></tr><tr><td>M</td><td>Mach number</td><td>0</td><td>stagnation condition</td></tr><tr><td>m</td><td>mode number (1,2,3,...)</td><td>C</td><td>center of the cavity floor</td></tr><tr><td>P</td><td>pressure (Pa)</td><td>floor</td><td>cavity floor</td></tr><tr><td>R</td><td>radius of curvature (mm)</td><td>in</td><td>inlet condition</td></tr><tr><td>SPL</td><td>sound pressure level (dB)</td><td>leading</td><td>leading edge</td></tr><tr><td>Stn</td><td>Strouhal number</td><td>st</td><td>static state</td></tr><tr><td>T</td><td>temperature (K)</td><td>rms</td><td>root mean square</td></tr><tr><td>t</td><td>time (s)</td><td>trailing</td><td>trailing edge</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "shifts from an acoustic response of the cavity to an acoustic feedback mechanism [4]. Extensive research and reports have been presented on flow over cavities exhibiting acoustic feedback mechanism as these types of cavities are practically more applicable [8]. Investigations have pointed out that for cavities of $L / H \\geq 1$ ，the driving mechanism of oscillation is the property of flow over the cavity rather than being the property of the ap proaching boundary layer. However, for deep cavities $( L / H \\leq 1 )$ ,the driving mechanism is the shear layer effects which develop from the incoming boundary layer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Heller and Bliss [9] observed that the transition of the incoming boundary layer from a laminar to a turbulent one more significantly affects the cavity response than that for a turbulent upstream boundary layer. The pressure fluctuations in the cavity are insensitive to the change in the Reynolds number. Gharib and Roshko [10] observed a significant change in the behavior of cavity oscillations when the ratio of cavity length relative to the upstream boundary layer momentum thickness was increased during their incompressible experiment for an axisymmetric cavity. Investigations conducted by several investigators [11-13] underlined the effects of the incoming boundary layer on the shear layer growth over the cavity. The incoming boundary layer separates at the leading edge of the cavity. It then transforms into a free shear layer and interacts with the trailing edge depending on various geometric and fluid dynamic aspects. The shear layer behavior governs the different flow features exhibited in the vicinity of the cavity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Most of the works completed up to now have focused on transonic and supersonic flow over the cavities mounted on a straight wall where the ratio of the radius of the wall curvature to the cavity depth is infinite; the incoming flow has typical laminar or turbulent boundary velocityprofiles.However, many engineering and industrial applications have been made with cavities over curved wall surfaces such as vortex combustors with cavities, external cutouts on aircraft bodies,pipeline-cavity systems,etc.In high-speed flows over a curved surface, the incoming flow upstream of the cavity is subjected to a centrifugal force with its strength depending on the radius of wall curvature and Mach number. The centrifugal force induces a pressure gradient opposite to its direction, leading to a variation in the velocity profile of the upstream flow.Under such conditions, the characteristics of the cavity flow will considerably differ from those presented in many of the previous works involving a straight wall. To the best of the present authors’knowledge,no investigation has been made on high-speed flows over a curved wall mounted cavity.In the present study, a computational fluid dynamics method was applied to investigate high-speed flows over rectangular cavities with an $L / H$ value of1.The cavitiesare installed in curved channels by varying the radius of curvature,with the $L / R$ ratios from O to O.11.Both concave and convex channels are used for the present study. This facilitates the study of flow characteristics in the channel under both the positive and negative effects of the centrifugal force.The setup is such that the cavity mounted on a concave channel is subjected to a positive centrifugal force,whereas that on a convex channel undergoes a negative centrifugal force. TheMachnumberin the channel inlet varies from O.4 to 1.8,with the Reynolds number based on the channel height varying from $0 . 5 6 \\times 1 0 ^ { 6 }$ to $3 . 2 1 \\times 1 0 ^ { 6 }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The present computational fluid dynamics (CFD） results are validated with the existing experimental data. It is found that the cavity pressure loadings and cavity drag depend heavily on the channel curvature.It is observed that the unsteady pressure loadings depend on the type of curvature when compared with the base model. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Numerical Analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Test model and numerical methodology ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The test domain consists of a $5 8 . 4 2 \\mathrm { m m }$ wide channel with a rectangular cavity mounted on the wall. A straight walled channel as shown in Fig.1 (a) isused as the base model and six other channels with curved walls as shown in Figs.1(b) and 1(c) are used for the study. The width of the channel is fixed through an iterative procedure as it is observed that the channel width plays an important role in establishing a uniform flowfield in the vicinity of the inlet region for the curved channels. For a width larger than $5 8 . 4 2 ~ \\mathrm { m m }$ ，the pressure conditions imposed at the channel exit tend to slow down the flow at lower Mach numbers.For a smaller width,the flow tends to become stagnated inside the channel at higher Mach numbers. The channel width is thus fixed such that the freestream flow properties remain similar for the various models at different inlet conditions.The cavity is located approximately $1 0 0 ~ \\mathrm { { m m } }$ downstream of the inlet section of the channel for all the models. The dimensions of the cavity are $L = 2 5 . 4 ~ \\mathrm { m m }$ and of $H = 2 5 . 4 \\ \\mathrm { m m }$ and it therefore has an $L / H$ ratio of 1. The flow channel curvatures are changed by altering the radius of the curve as shown in Fig.1,which thereby provides three $L / R$ ratios of 0.04, 0.08 and O.11. The straight channel is considered to have an infinite radius and hence an $L / R$ ratio of O.O and no centrifugal effects.The geometrical aspects of the different models are provided in Table1.Auniform flow field at $M _ { i n } = 0 . 4$ ,0.8,1.4 and1.8 is established at the inlet of the flow domain. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The analysis is performed using the commercially available computational fluid dynamics package，Ansysl5.The two-dimensional (2D) flow domain is generated using the modeling software,ICEM-CFD.Finer meshes are used adjacent to the walls in order to solve the boundary layer interactions. $1 3 0 0 \\times 3 8 3$ mesh elements are used for the base model,which gives a wall $\\mathbf { y } ^ { + } { \\sim } 1$ for the converged steady solutions at a location 5 mm upstream of the cavity on the bottom wall of the flow channel. Both steady and unsteady Reynolds Averaged Navier-Stokes equations are used to simulate the flow field in the channel.As the flow over the cavity is presumed to be predominantly oscillatory, the unsteady scheme is applied on the converged steady solutions with a time-step of $\\Delta t = 1 0 ^ { - 6 }$ s.Based on the theoretical predictions by Heller et al. [9],this time-step is deemed to be sufficient for resolving the flow periodicity in the currentmodelfortheflowatdifferent $M _ { i n }$ .Pressureinletand outletboundary conditions are used at the entryand exit of the flow domain respectively. Other domain boundaries are designated as adiabatic walls with no-slip boun dary conditions.The inlet total temperature is kept at $T _ { \\boldsymbol { \\theta } } \\mathbf { = }$ $3 0 0 ~ \\mathrm { K }$ for all the test cases.Multiple viscous turbulence schemes suchask-εandk-o and their variationsareused to model turbulence,and the flow analysis results are compared with the available experimental data [14] for the purpose of validation using the base model.Fig.2 shows the variation of the coefficient of pressure on the cavity floor for the different turbulence models used in the flow analysis of the base model at $M _ { i n } = 1 . 5$ .It is observed that the k-ω SST model offers the closest proximity to the experimental results.Numerical simulations are carried out with thek-@ turbulence model for the remainning test cases.To check the dependence of flow parameters on the flow domain mesh,a grid independence study is carried out with three different grids using the base model at $M _ { i n } = 1 . 8$ . The grid is clustered adjacent to the walls to fully resolve the boundary layer effects.The time averaged static pressure at the cavity floor for the different grids used in the study is shown in Fig.3.The static pressure is observed to vary as the grid inside the cavity is changed from coarse $( 1 2 0 \\times 9 4 )$ to fine ( $2 0 0 \\times$ 156).The grid in the main flow channel is also altered in proportion with the cavity grid. However, as the computational time for the fine grid is much longer than that of the coarse grid, the intermediate grid of $1 6 0 \\times 1 2 5$ elements inside the cavity is used.For this grid,the static pressure distribution at the cavity floor is almost equal to that obtained during computation with the fine grid. The periodicity of flow oscillations are determined from the unsteady analysis of the converged steady flow solutions forwhich the mass imbalance between the inlet and outlet falls below the order of $1 0 ^ { - 5 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd1edc969c0b11a789c78b5b3fbfd1e0163cb04bc7878a3230dca82eaea310cd.jpg",
+        "img_caption": [
+            "Fig.1 Schematic diagrams of test setup "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b714896dc123188257c70d3d61f0ab89b5e40fe0df8b22ae9892d7e293ad44e.jpg",
+        "table_caption": [
+            "Table 1 Details of the test models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>L</td><td>R</td><td>L/R</td><td>Model type</td></tr><tr><td rowspan=\"4\">25.4</td><td rowspan=\"4\">8 - 222.6</td><td>0</td><td>Base model</td></tr><tr><td>0.04</td><td>Concave/Convex</td></tr><tr><td>0.08</td><td>Concave/Convex</td></tr><tr><td>0.11</td><td>Concave/Convex</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7267c71aae45e830e10be094c699aa41f4769f1d51e26774d527be74ef2578b4.jpg",
+        "img_caption": [
+            "Fig.2Comparison between experimental results and CFD prediction ( $\\angle / H = 1$ and $M _ { i n } = 1 . 5$ 0 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddd45c5afd90c155863427a274d3540c5155e33d3470e7474b93f859dc2ec4b5.jpg",
+        "img_caption": [
+            "Fig.3Static pressure variations at cavity floor with different grids "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to determine the incoming flow field and the boundary layer structure, the average of the velocity gradient values along the width of the channel at a location approximately $2 8 \\ \\mathrm { m m }$ upstream of the cavity leading edge is plotted for different models as shown in Fig.4. For the convex models, the flow velocity increases along the floor of the channel and decreases along the top wall of the channel as compared to the base model. The concave channels showed a reverse trend compared to that of the convex channels.The maximum flow velocity is observed to occur near the top wall of the concave channel with the minimum velocity occurring near the bottom wall.If the channel is considered to be a part of a much larger circular flow field, the incoming velocity distribution gives an approximation of a vortical flow that occurs over the cavity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To differentiate between the concave and the convex models, the $\\overline { { \\left( \\partial u \\ / \\partial y \\right) } }$ values were considered to be positive for the concave channels and negative for the convex channels.The velocity distribution is obtained from the time averaged steady results of the numerical simulation.Fora uniform flow of $M _ { i n } = 0 . 4$ ,0.8,1.4 and1.8 at the inlet of the channel, the velocity distribution along the channel width shows dependency on the curvature of thechannelas shown inFig.4.As the curvature increases,which is indicated by an increase in the $L / R$ ratio,the $\\overline { { \\left( \\partial u / \\partial y \\right) } }$ value increases for the same $M _ { i n }$ As a result, the shearing effects on the flow field will increase at a higher channel curvature. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The average velocity gradient is also observed to increase as the centrifugal effects on the flow field increase. An increase in the flow of $M _ { i n }$ increases the average velocity gradient. At higher $L / R$ ratios, the effect of change in $M _ { i n }$ is more pronounced than at the lower $L / R$ ratio. It isalso observed thatas the curvature of the flow channel increases from $L / R \\ = \\ 0 . 0 4$ to $L / R \\ = \\ 0 . 1 1$ ，the nonuniformity of the velocity field also increases. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/28cebaaf1f7f5d323155f9eccda1392ca2a32e2785bc753a5c743a1cb678645e.jpg",
+        "img_caption": [
+            "Fig.4Average velocity gradient upstream of the cavity $( x / L =$ 1.1) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since the incoming flow field over the cavity changes due to the channel curvature,it is important to estimate the pressure loadings on the cavity. Static pressure loading on the cavity and its dependency on the flow path curvature is investigated by plotting the time averaged static pressure at the center of the cavity floor for all the test models at different $M _ { i n }$ . To compare the static pressure for different models,the static pressure has been non-dimensionalized using the static pressure at the channel inlet. The plots are shown in Fig.5. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1e01df529b78f2b3d3db5c3021cacabf88c67e1bfc5bc6748b0df0b80170d50.jpg",
+        "img_caption": [
+            "Fig.5Time averaged static pressure at the centre of the cavity floor "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $P _ { c }$ loading in non-dimesionalized form at the floor of the cavity for the base model shows little variation for different $M _ { i n } ,$ as shown in Fig. 5.Quantitatively，the loading is $1 0 1 \\mathrm { k P a }$ for $M _ { i n } = 0 . 4$ and $9 9 \\mathrm { k P a }$ for $M _ { i n } = 1 . 8$ Asthe curvature of the concave channels increase, the $P _ { c }$ increases. The increase is higher at supersonic flow than for the subsonic flow cases.The $P _ { c }$ for the $L / R = 0 . 1 1$ concave channel at $M _ { i n } { = } 1 . 8$ is almost twice that for the $L / R = 0 . 0$ channel.For the convex channels, the $P _ { c }$ on the cavity floor isobservedto decreasewith an increase in $M _ { i n }$ and channel curvature.The pressure loadings on the floor of the cavity mounted on the convex channel wall are found to be lower than those of the base model.A minimum pressure loading is observed for the $L / R = 0 . 1 1$ convex channel among all the models.Earlier studies indicate that,as the fluid mass exchange between the cavity and the freestream increases,higher levels of pressure loadings are observed within the cavity[15,16]. Consequently, the fluid mass exchange rate between the cavity and the freestream is investigated for all models. The time averaged mass exchange between the cavity and the mainstream flow is calculated by integrating the mass flow rate over an imaginary line joining the leading edge and the trailing edge of the cavity which is parallel to thechannelwalls.Itisobservedthatat $M _ { i n } = 1 . 8$ for the $\\mathrm { L } / \\mathrm { R } = 0 . 1 1$ concave model, the mass flow rate of $5 5 . 4 7 \\times$ $1 0 ^ { - 5 } \\mathrm { k g / s }$ is the maximum among all the models analyzed. Conversely, the mass flow rate of $1 0 . 0 4 \\times 1 0 ^ { - 5 } { \\mathrm { k g / s } }$ for the $L / R = 0 . 1 1$ convex model is observed to be the minimum among all the models.The time averaged static pressure level at the cavity floor as shown in Fig.5 seems to depend on the fluid mass interaction between the cavity and the freestream.It is also observed that the variations of $P _ { c }$ for the different models are similar to those shown in Fig.4.The increase in the value of the average velocity gradient indicates greater shearing effects in the flow.This amplification of shearing effects may alter the boundary layer and hence the transport of fluid mass and momentum into the cavity,contributing to higher levels of pressure at the cavity floor. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As the basic fluid dynamic configuration being investigated is also applicable to the external cutouts of aircrafts,investigating the drag generated due to the presence of such configurations is an integral part of such studies. Considering internal flow and applicability to vortex combustors,the drag generated in the flow field provides an estimation in relation to the loss of flow momentum.Fig.6 shows a comparison between the $C _ { D }$ generated in the flow channels of varying curvatures at different flows of $M _ { i n }$ and the $C _ { D }$ generated for the base model at the respective $M _ { i n }$ .The $C _ { D }$ is calculated based on equation (1) [17]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = \\int _ { t r a i l i n g } - \\int _ { l e a d i n g } + \\int _ { f l o o r } \\cal { q } \\it { \\Delta } l\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6365bcf6b4511d516d6d8d516cbd71009d71d560a0286852e36246d6d0a70801.jpg",
+        "img_caption": [
+            "Fig.6Variation of cavity drag for the different models( $\\mathbf { \\bar { a } } = \\mathbf { \\bar { \\rho } }$ concave $^ +$ ,convex-) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here,the channel curvature is differentiated between concave and convex by representing the $L / R$ ratio as positive for the concave channels and as negative for the convex channels.For both the concave and the convex models, the $C _ { D }$ generated is observed to increase with an increase in channel curvature at all $M _ { i n }$ .From Fig. 6,it is observed that as $M _ { i n }$ increases, the ratio of $C _ { D } / C _ { D / L / R = 0 . 0 ) }$ also increases for the same model.This increase is more prominent at supersonic $M _ { i n }$ . The overall drag increase with channel curvature could be an effect of the higher shearing force depending on the average velocity gradient for the respective channel. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The unsteady pressure variations at the centre of the cavity floor are shown in a transformed power spectral density $( P S D )$ vs frequency domain in Figs.7(a) and 7(b) for the different models at $M _ { i n } { = } 0 . 8$ .As the cavity $L / H$ ratio is 1, the unsteady pressure is measured at the centre of the cavity floor, since transverse oscillations are predominant in these types of configurations [7].For the base model, the dominant oscillation mode is observed to be at $1 . 0 3 8 \\mathrm { k H z }$ at $M _ { i n } = 0 . 8$ .For the concave models, the frequency of the dominant mode is observed to remain almost the same as that of the base model. The frequency of the dominant mode is observed as $1 . 0 9 9 \\mathrm { k H z }$ only for the $L / R { = } 0 . 1 1$ concave model.However, the sound pressure level $( S P L )$ of $2 0 ~ \\log$ （204号 $(  { P _ { r m s } } / 2 0 ~  { \\mu \\mathrm { P a } } )$ (reference pressure of $2 0 ~ \\mathrm { \\textmu P a }$ ）of the dominant mode decreases as the curvature of the channel increases for the concave models.For the convex channels,at $M _ { i n } = 0 . 8$ ，the frequency of the dominant mode is also observed to remain almost the same for all models.The frequency of the dominant mode for the $L / R = 0 . 0 4$ convex model is observed to be the same as that of the base model at $1 . 0 3 8 \\mathrm { k H z }$ Forthe $L / R = 0 . 0 8$ and $L / R = 0 . 1 1$ convex models, the frequency of the dominant mode is observed to be $1 . 0 9 9 ~ \\mathrm { k H z }$ Hence,no remarkable change is observed in the dominant mode frequency for the different channels with varying curvatures at $M _ { i n } = 0 . 8$ . The magnitudes of the dominant modes in terms of $S P L$ for the convex channels are observed to be almost the same as that of the base model. The oscillation frequencies at $M _ { i n } = 1 . 8$ are observed to be very high for all the models.The pressure spectra for the different models are shown in Fig. 8. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/dfd935e21a540a72d2353afc542e90e759914bbed90d96ac2c5b5bac2e89ac83.jpg",
+        "img_caption": [
+            "Fig.7PSD of the fluctuating pressure at the centre of the cavity floor( $M _ { i n } = 0 . 8 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the $L / H = 1$ cavities, several previous works indicate that the resonant frequencies are much higher than the cavities with $L / H \\geq 1$ with supersonic flow. The pressure spectra for the concave models are marked mostly by broadband fluctuations for lower $L / R$ ratio channels.As the curvature of the concave channels in creases,the discrete modes are observed.The convex models oscillate at discrete peaks rather than broadband oscillations as the channel curvature increases.For the baseline cavity of $L / R = 0 . 0$ ，the first oscillation mode occurs at $4 7 . 2 \\mathrm { k H z }$ and the dominant mode occurs at 92.1 kHz.These modes correspond to mode 5 and mode 10 of the theoretically calculated mode frequencies,respectively [9].For the $L / R = 0 . 0 4$ concave model, apart from the broadband fluctuations,three other discrete modes are observed and the dominant mode corresponds to a frequency of $8 5 . 4 5 ~ \\mathrm { k H z }$ .This is within $1 0 0 ~ \\mathrm { H z }$ of the theoretically calculated frequency of mode number 9.As the curvature of the concave channels increases,the dominant mode shifts to a lower frequency with the suppression of pressure fluctuations. The dominant amplitude of oscillation for the $L / R = 0 . 0$ model is observed to be higher than the amplitude of the curved concave channel models. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd69643f345e9d8570b907d141bc9b83e51cab0a00ecf635194a0e5b07f6886d.jpg",
+        "img_caption": [
+            "Fig.8 PSD of the fluctuating pressure at the centre of the cavity floor $M _ { i n } = 1 . 8 \\$ 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the convex models,high amplitude discrete modes are observed along with broadband fluctuations. The pressure spectra of the convex models are shown in Fig. 8(b).As the channel curvature increases, the oscillations move from broadband type to discrete modes.As the curvature of the flow channel increases,further high am plitude discrete peaks are observed in the pressure spectra.The dominant modes for the $L / R = 0 . 0 8$ and $L / R =$ 0.11 convex models are observed to be at a frequency of $6 3 . 7 8 \\mathrm { k H z }$ and $2 2 7 . 2 \\mathrm { k H z }$ ,respectively. The sound pressure levels for the convex channels are observed to be higher than those for the concave channels,and this indicates a suppression of oscillation for the concave channels using supersonic flow.The $S P L$ of oscillations for $M _ { i n } = 1 . 8$ flow is much lower than that for the $M _ { i n } =$ 0.8 flow for the curved channels. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In terms of quantitative values of the amplitude of oscillations,it is observed that for subsonic $M _ { i n } = 0 . 8$ ，the values are similar to those for the base model.Previous$\\mathrm { l y , } \\overline { { \\left( \\hat { \\sigma } u / \\hat { \\sigma } y \\right) } }$ at subsonic $M _ { i n }$ was observed to vary slightly between the base model and the curved channel models, as shown in Fig. 4. At supersonic $M _ { i n } ,$ ， $\\overline { { \\left( \\hat { o } u \\ / \\hat { o } y \\right) } }$ is higherand the amplitudes of pressure oscillations are subdued. Higher average velocity gradients and shearing effects are thus observed to attenuate the oscillation amplitude in the flow field. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The mode frequencies at the two $M _ { i n }$ of 0.8 and 1.8 are compared with the theoretically predicted mode frequencies using Rossiter's modified formula[9].The modified Rossiter's formula is given as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS t n = \\frac { f L } { U _ { i n } } = \\frac { m - \\varepsilon } { \\displaystyle { \\frac { M _ { i n } } { \\sqrt { [ 1 + ( \\gamma - 1 ) M _ { i n } ^ { 2 } / 2 ] } } } + \\frac { 1 } { K } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The values of the empirical constants $\\varepsilon$ and $1 / K$ are evaluated through the best fit of the measured data as $\\varepsilon =$ 0.25 and $1 / K = 1 . 7 5$ . The theoretically and numerically obtained Strouhal numbers $( S t n )$ are plotted for different $M _ { i n }$ and are shown in Fig.9.For the subsonic $M _ { i n } = 0 . 8$ the oscillation frequencies are observed to be concentrated in the first four fundamental modes.At supersonic $M _ { i n } = 1 . 8$ ，Stn are mostly spread over high frequency modes.It is observed from Fig.9 that for the curved channels,the oscillation frequencies do not agree with the predicted values at higher $M _ { i n }$ .Quantitatively,the oscillation frequencies exhibited by the base model agree more closelywith the predicted values.For the curved channels,at supersonic $M _ { i n }$ the variations from the predicted frequencies are observed to occur for all the modes. At $M _ { i n } = 0 . 8$ ，the oscillation frequencies do not vary considerably with the channel curvature.However,as the channel curvature increases,the departure from the predicted values of oscillations is observed to increase.For the lower modes,the frequencies are observed to be within ${ 5 0 } \\mathrm { H z }$ of the predicted values.The shift in oscillation frequencies from the predicted values is higher at higher modes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e08c7b9835f765f97fa95918c58bca33f7d2bac5cde7cbbb6a0a60f0ee5cfaab.jpg",
+        "img_caption": [
+            "Fig.9Variation of $S t n$ for different models "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Steady and unsteady numerical simulations were carried out for the flow through curved channels over an $L / H = 1$ cavity for both subsonic and supersonic flows. Flow through a straight channel was also analyzed and served as the base model. Time averaged pressure loadings on the cavity are observed to increase with an increase in the channel curvature for concave channels and a decrease in the channel curvature for convex channels. Asaresultof thefluid mass interactionbetween the cavity and the freestream, the pressure loadings are higher than those for the base model when the cavity is subjected to positive centrifugal force,and are lowerwhen it is subjected to negative centrifugal force.The effect of channel curvature on the steady pressure characteristics is greater at a higher Mach number than at lower Mach number. The quantitatively larger fluid mass exchange between the cavity and the mainstream flow at a higher Mach number seems to be the driving mechanism behind this observation. The drag in the flow channel increases at higher $L / R$ ratio for both concave and convex models. The drag for the curved channels is higher than that for the straight channel. The flow field is observed to be dominated mostly by broadband oscillations for the concave models and discrete oscillations for the convex models at a supersonic Mach number. Unsteady flow characteristics are observed to be more dependent on channel curvature at supersonic Mach numbers.Ashift in the frequency of the dominant mode is observed with a change in channel curvature.The suppression of oscillatory flow at the supersonic Mach number is observed for the concave channels.Frequencies of oscillation modes of the curved channels show a departure from the predicted values of the straight channel. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by Advanced Research Center Program (NRF-2013R1A5A1073861） through the National Research Foundation of Korea(NRF） grant funded by the Korea government(MSIP) contracted through Advanced Space Propulsion Research Center at Seoul National University. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]J.E.Rossiter,“Wind Tunnel Experiments on the Flow over Rectangular Cavities at Subsonic and Transonic Speeds,”Aeronautical Research Council Reports and Memoranda,No.3438,1964,pp.1-36.   \n[2]H.H. Heller, D.G. Holmes and E.E. Covert,“FlowInduced PressureOscillations in Shallow Cavities,\" Journal of Sound & Vibration,Vol.18,No.4,1971,pp. 545-553.   \n[3] D.P.Rizetta,“Numerical Simulations of Supersonic Flows over a Three-Dimensional Cavity,”AIAA Journal, Vol.26,No.7,1988,pp.799-807.   \n[4]D. Rockwell and E.Naudascher,“Review- Self SustainingOscillationsofFlowPastCavities,”JournalofFluids Engineering,Vol. 100,No.6,1978,pp.152-165.   \n[5] X. Zhang and J.A. Edwards,“Computational Analysis of Unsteady Supersonic Cavity Flows Driven by Thick Shear Layers,” Aeronautical Journal, Vol. 92, No. 919, 1988, pp. 365-374.   \n[6] C.W. Rowley, T. Colonius and A.J. Basu,“On Self Sustained Oscillations in Two-dimensional Compressible Flow over Rectangular Cavities,” Journal of Fluid Mechanics, Vol. 455,2002,pp.315-346.   \n[7]H.F. Plumblee, G.S. Gibson and L.W. Lassiter,“A Theoretical and Experimental Investigation of the Acoustic Response of Cavities in an Aerodynamic Flow,” WASDDTR-61-76, 1962.   \n[8]A.J.Bilanin and E.E.Covert,“Estimation of Possible Excitation Frequencies for Shallow Rectangular Cavities,” AIAA Journal, Vol.11, No.3,1973, pp.347-351.   \n[9]H.H Heller, and D.B. Bliss,“The Physical Mechanism of Flow-Induced Pressure Fluctuations in Cavities and Concepts of Their Suppression,” AIAA Paper-75-461, 1975,   \n[10]M. Gharib and A. Roshko,“The Effect of Flow Oscillations on Cavity Drag,”Journal of Fluid Mechanics,Vol. 177,1987, pp. 501-530.   \n[11] S. Kangovi,“Effect of Initial Conditions on Constant Pressure Mixing between Two Turbulent Streams,” Aeronautical Quarterly, Vol. 34,1983, pp. 61-76.   \n[12]S.F. Birch,“Planar Mixing Layer,” in AFOSR-HTTMStanford Conference on Complex Turbulent Flows (1980-1981), Vol. 1-3,1981, pp.170-175.   \n[13]M.R.Rebello,“Analytical and Experimental Investigation of a Turbulent Mixing Layer of Different Gases in a Pressure Gradient,”Ph.D Dissertation,Graduate Aeronautical Laboratories, California Institute of Technology, 1973.   \n[14]R.L. Stallings Jr and F.J. Wilcox Jr,“Experimental Cavity Pressure Distribution at Supersonic Speeds,”NACA-TP2683,1987.   \n[15]A.R. Ye,R. Das and H.D. Kim,“Investigation of Transonic and Supersonic Flows over an Open Cavity Mounted on Curved Wall (1. Steady Flow Characteristics),” Transactions of Korean Society of Mechanical Engineers B, Vol.39,No.3,2015.(Writen in Korean)   \n[16] A.R. Ye, R. Das and H.D. Kim,“Investigation of TranSonic and Supersonic Flows over an Open Cavity Mounted on Curved Wall (2. Unsteady Flow Characteristics),” Transactions of Korean Society of Mechanical Engineers B,Vol.39,No. 6,2015.(Written in Korean)   \n[17]M.Gharib and A. Roshko,“The Effect of Flow Oscillations on Cavity Drag,”Journal ofFluid Mechanics,Vol. 177,1987, pp. 501-530. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

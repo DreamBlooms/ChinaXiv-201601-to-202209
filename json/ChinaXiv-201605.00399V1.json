@@ -1,0 +1,611 @@
+[
+    {
+        "type": "text",
+        "text": "Evolution and protein interactions of AP2 proteins in Brassicaceae: Evidence linking development and environmental responses ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liping Zeng',Yue Yint, Chenjiang You1, Qianli Pan, Duo ${ \\sf X } { \\sf u } ^ { 1 }$ ,Taijie Jin', Bailong Zhang1\\* and Hong Mal1,2\\* 'MinistryfEducatioKeyaboatoryfodivestndoloicalginingstituteofantooyitteofiversitees CenterfoEolutiarygoofifcdUersityga,situtofdicaa Universityng33inasethosontriutedalyotsk.espodences:Hongma@fudanducsul responsible for distributions of all materials associated with this article); bailong.zhang@ucr.edu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractPlants have evolved a large number of transcription factors (TF), which are enriched among duplicate genes, highlighting their roles in complex regulatory networks.The APETALA2/EREBP-like genes constitutea large plant TF family and participate in development and stress responses.To probe the conservation and divergence of AP2/EREBP genes, we analyzed the duplication patterns of this family in Brassicaceae and identified interacting proteins of representative Arabidopsis AP2/EREBP proteins.We found that many AP2/EREBP duplicates generated early in Brassicaceae history were quickly lost，but many others were retained in all tested Brassicaceae species，suggesting early functional divergence followed by persistent conservation.In addition, the sequences of the AP2 domain and exon numbers were highly conserved in rosids.Furthermore，we used 16 A. thaliana AP2/EREBP proteins as baits in yeast screensand identified 1,97o potential AP2/EREBP-interacting proteins, with a small subset of interactions verified in planta.Many AP2 genes also exhibit reduced expression in an antherdefective mutant, providing a possible link to developmental regulation.The putative AP2-interacting proteins participate in many functions in development and stress responses, including photomorphogenesis,flower development，pathogenesis，drought and cold responses，abscisic acid and auxin signaling.Our results present the AP2/EREBP evolution patterns in Brassicaceae,and support a proposed interaction network of AP2/EREBP proteins and their putative interacting proteins for further study. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:APETALA2; EREBP;evolution; Brassicaceae;protein   \ninteraction   \nCitation: ZengL,Yin Y,You C,Pan Q,Xu D,Jin T,Zhang B,Ma H(2015)   \nEvolution and protein interactions of AP2 proteins in Brassicaceae:   \nEvidence linking development and environmental responses.J Integr   \nPlant Biol XX:XX-XX doi: 10.111jipb.12439   \nEdited by:Chung-Mo Park,Seoul National University,Korea   \nReceived Sept.11,2015; Accepted Oct.15,2015   \nAvailable online on Oct.16,2o15 at www.wileyonlinelibrary.com/   \njournal/jipb   \n$\\mathfrak { O }$ 2015 Institute of Botany, Chinese Academy of Sciences ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Plants live in ecosystems with ever changing environments; accordingly,plants have evolved many specific features that facilitate the interactions with their environments.Thus plant-specific functions control complex cellular networks that enable their adaptation to various environmental conditions(ArabidopsisInteractomeMapping2011). Some of the plant-specific functions are carried out by gene families encoding transcription factors,which are key components of comprehensive regulatory and interactive networks mediating plant-environment interactions (Mizoi et al.2o12). During evolution,plant genes have experienced gene and domain duplication and the duplicate genes could then differentiate in terms of expression patterns and interaction partners (Kim et al.2oo6).Thus,the study of the phylogeny and interaction patterns of the plantspecific transcription factor gene family could provide important clues about plant development and growth.In particularly,many groups of plants have experienced wholegenome duplication(s) (WGDs) (e.g., Jiao et al. 2011),but the patterns of gene duplication and loss in genes for transcriptional factors following a WGD have not been examined in detail. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TheAPETALA2-like(AP2-like) and Ethylene-Responsive Element-binding Proteins/Factors (EREBP/ERF) genes form a large plant-specific family encoding proteins that contains one or two DNA-binding domain(s) called the AP2 domain (Weigel 1995; Okamuro et al. 1997; Riechmann and Meyerowitz 1998). AP2/EREBP genes comprise AP2-like genes (with two AP2 domains) and EREBP-like or ERF-like genes(with one AP2 domain) (Riechmann and Meyerowitz 1998).The AP2-like genes form the AP2 subfamily,which can be further divided into the ANT group and the AP2 group in seed plants (Shigyo and Ito 20o4; Mizoi et al. 2012). The EREBP-like genes include DREB,ERF and RAV(with another DNA-binding domain called B3)subfamilies.Moreover,the DREBand ERF subfamilieseach have six subgroups,which are named,respectively,DREB-A1 to DREB-A6 and ERF-B1 to ERF-B6 (Sakuma etal.2oo2; Mizoi et al. 2012). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AP2/EREBP genes participate in many aspects of plant development and stress responses (Kim et al.2oo6;Mizoi etal.2o12). Most of the known functions of AP2-like genes are important for developmental processes,whereas the EREBPlike genesare primarily known for regulating stress responses (Riechmann and Meyerowitz 1998; Kim et al. 20o6).For example， the Arabidopsis thaliana AP2 gene has many important functions in reproductive development, including thespecification of floral organ identitiesand control of floral homeotic gene expression (Bowman et al. 1989; Kunst et al. 1989)，regulation of flowering time and floral meristem (Bowman et al. 1991; Coen and Meyerowitz 1991)，and modulation of seed development (Jofuku et al. 1994; Jofuku et al. 2005; Ohto et al. 2005). Also, homologs of AP2 called TARGETS OF EAT （TOE）affect floWering time in A.thaliana by repressing the expression of flowering regulatory genes FLOWER LOCUS T (FT) and Suppressor of Overexpression of Constans1 (SOC1) (Krizek 2oo3；Mathieu et al.2oo9; Yant et al.201o). The TOE genes include TOE1, TOE2, TOE3，SCHLAFMUTZE (SMZ） and SCHNARCHZAPFEN (SNZ) (Aukerman and Sakai 2oo3) and form a small subgroup with AP2.These AP2 subgroup genes are negatively regulated by microRNA172 (miR172) at the post-transcriptionally (Aukerman and Sakai 2003; Schmid et al. 2003; Chen 2004). We recently showed that the TOE proteins could physically and genetically interact with the key flowering regulator CONSTANS (CO) and repress the transactivation ability of CO,thereby preventing premature flowering(Zhang et al.2o15). In addition,the ANT gene， the namesake for the ANT group of the AP2-like subfamily，regulates ovule development and floral organ growth (Elliott et al. 1996; Klucher et al. 1996). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Members of the EREBP subfamily have been implicated in response to environmental stresses (Kizis et al. 2oo1; Mizoi etal.2o12). Specifically, ERF genesare regulated by hormones and environmental factors such as cold,drought or high salinity(Fujimoto et al. 2ooo). ERF1, ERF2 and ERF5 can bind to the GCC-box and act as transcriptional activators,whereas $E R F 3$ and $E R F 4$ act as repressors in A. thaliana (Fujimoto et al. 2000). Also,the C-Repeat Binding Factor (CBF) genes encoding DREB type proteins act as transcriptional activators of genes important for freezing tolerance in response to cold.The tandem duplicates DREB1A/CBF3，DREB1B/CBF1 and DREB1C/ CBF2 are also induced by cold (Stockinger et al. 1997; Gilmour et al.1998;Medina et al.1999).Some EREBP members are developmental regulators:A. thaliana RAV1 isdownregulated by brassinosteroid and may act as a negative regulator during plant development (Hu et al.2oo4). Further,DREB-A6 (also named WOUND INDUCED DEDIFFERENTIATION 1(WIND1)）is involved in cell dedifferentiation in A. thaliana (lwase et al. 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The phylogeny of the AP2/EREBP family and the pattern of changes in gene structure and protein domain among flowering plants are crucial for elucidating the evolution of this developmentally and physiologically important gene family.The AP2/EREBP domain has not been found outside the plants,so it was considered as plant-specific (Riechmann and Meyerowitz 1998;Krizek 20o3),or its homologs in nonplant organisms have diverged too much to be detectable by sequence comparison. Previous phylogenetic studies classified the AP2/EREBP family into subfamilies and proposed a model for the evolution of domain organization in the AP2 subfamily (Kim et al.2oo6),whose members have two AP2 domains.However， the relationships of AP2/EREBP genes among members of a plant family and the patterns of gene retention followinga WGD remain unclear.Specifically,it is not clear whether the same duplicate(s) generated in an ancestor tend to be lost in all/many species or only lost in some species but retained in others. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Brassicaceae isa large family of eudicot angiosperms with many economically important plants,such as cabbage and oilseed rape,as well as the model plant A. thaliana.There is strong evidence for two WGDs at or near the origin of this family (Blanc et al.2oo3); in addition, the genome sequences of several members of this family have been determined (Dassanayake et al. 2011; Hu et al. 2011; Wang et al. 2011; Slotte et al.2o13), providingan excellent opportunity to examine the gene duplication and loss patterns of the AP2/EREBP family. To investigate the AP2/EREBP phylogeny in Brassicaceae，we searched extensively for AP2/EREBP homologs in Brassicaceae and performed phylogenetic analyses of each subfamily.We investigated retention patterns of duplicated AP2/EREBP genes during Brassicaceae evolution and the conservation and variation of AP2 domain sequences and exon numbers among subfamilies.Furthermore，as a test for functional similarity and differences among different AP2/EREBP proteins,we searched for potential interaction partners of selected representative Arabidopsis AP2/EREBP proteins, using yeast two-hybrid screening.We detected 1,97o candidateinteraction proteins of16 AP2/EREBP proteins,of which 300 highly interconnected proteins form the core AP2/EREBP interactome.Finally，asan example of possible regulatory interaction with other regulatory genes,we examined the expression of AP2 family members in terms of possible effect ofanther developmental regulators. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Identification of AP2/EREBP genes ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To investigate the evolution of the AP2/EREBP family in Brassicaceae,we identified AP2/EREBP genes by performing HMMER to search for the predicted proteins from five representative species of Brassicaceae and two other rosids species(asoutgroups)， whosegenomeshavebeen completely sequenced.After further confirmation using BLAST and SMART searches,we finally identified 144,143, 144,281,140,109 and 209 AP2/EREBP genes from A. thaliand, A.lyrata,Capsella rubella,Brassica rapa,Eutrema salsugineum, Carica papaya (Caricaceae) and Populus trichocarpa (Salicaceae)，respectively.The numbers of AP2/EREBP genes in A.thaliana (144) and P.trichocarpa(2o9) were very close to previously reported findings (147 and 2oo). Except B.rapa, which experienced a lineage-specific recent WGD event and has large numbers of AP2/EREBP genes,other Brassicaceae species contained similar numbers of AP2/EREBP genes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Duplicated copiesof AP2/EREBP familywere partially or completely lost in the MRCA of Brassicaceae ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Besides the conserved AP2 domain (containing about 50-60 amino acids，hereafter aa)，the sequences of AP2/EREBP proteins are highly variable.We initially constructed a preliminary phylogenetic tree(ML tree，usinga maximum likelihood method） based on alignment of full-length sequences of 1,17o AP2/EREBP proteins from the seven species mentioned above and then used the A. thaliana subgroup definition(Dietz etal.2o1o), to divide the sequences in other six species into 14 subfamilies:AP2,RAV,ERF-B1to ERFB6,and DREB-A1 to DREB-A6 (Kim et al.2oo6). Because of the extreme variation in regions flanking the AP2 domain among subfamilies, the initial alignment with 1,17o sequences were divided into 14 clusters according to subfamily classification for generating more accurate alignments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate the evolutionary history of subfamilies in AP2/EREBP family,ML trees of subfamilies were reconstructed. These subfamilies experienced uneven expansion according to the numbers of genes in the most recent common ancestor (MRCA) of rosids (Figures 1,S1-S12).We found that most expansions of AP2/EREBP family genes had occurred before the divergence of Brassicaceae and WGD likely played an important role in the expansion of AP2/EREBP family in Brassicaceae (Figures 1, S1-S12). PGDD analyses found that $8 3$ genes in A.thaliana were duplicates probably due to WGD. Moreover，likely tandem duplication has been identified in the MRCA of Brassicaceae or specific lineages in several ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dff740005f3c5caa8564377ec1e2df5ddb252ae0a83be0ab767f95189b8a4e57.jpg",
+        "img_caption": [
+            "Figure1.A phylogenetic tree of the DREB-A1 subfamilywith several DREB-A4 genes as outgroup "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bootstrap supports $( > 5 0 )$ obtained by RAxML are shown. Gene IDs of each species are shown in different colors.Black circles represent that the common ancestor of rosids contain three ancestor DREB-A1 genes;blue stars stand for tandem duplications in Arabidopsis thaliana，Capsella rubellaand Brassica rapa,respectively;red triangles point to retained genes after two rounds of WGDs in early Brassicaceae. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "subfamilies.In the DREB-A1 subfamily,lineage-specific tandem duplication was associated with CBF homologs AT4G25470, AT4G2548o and AT4G2549o (Stockinger et al. 1997；Medina etal.1999) inA.thaliana, C.rubella and B.rapa(Figure1).In the DREB-A2 subfamily,the pair of AT2G4034O and AT2G40350 resulted from an A. thaliana-specific tandem duplication (Figure S1).In addition，prior to the divergence of the Brassicaceae species sampled here， tandem duplication events in ERF-B3 subfamily resulted in multiple clusters.In A．thaliana these include (i） AT3G23220，AT3G23230 and AT3G23240,(ii) AT4G17490 and AT4G17500,(ii) AT5G47220 and AT5G47230,and (iv) AT5G61590 and AT5G61600.Their orthologs are also retained in four other speciesof Brassicaceae examined here (Figure S7).On the other hand, two A.thaliana tandem genes,AT5G6719o and AT5G67180, havehighly different sequences(Figure S3).Whereas AT5G6719o contains only one AP2 domain and belongs to the DREB-A5 subfamily,AT5G6718o (also called TOE3) has two AP2 domains and belongs to AP2 subfamily (Figures S3,S12), suggesting they are not the result of recent duplication. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The MRCA of Brassicaceae has experienced two rounds of WGD (which are called alpha and beta) (Blanc et al. 2003), such that members of the AP2/EREBP family should form clades of four close copies if none of the duplicates due to the WGDs were lost. However，no such four-copy clades were detected in any subfamilies orany of the Brassicaceae species examined here,suggesting that many of the duplicate $A P 2 /$ EREBP copies were probably lost prior to the divergence of the Brassicaceae species examined here,early in the history of this family. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The AP2 domains in EREBP subfamilies show high conservation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It was reported that the two AP2 domains found in the AP2 clade resulted from a duplication prior to the divergence of euAP2 and ANT groups (Kim et al. 2oo6).We focus on the conservation and diversification the EREBP genes with only one AP2 domain.Unlike the highly variable sequences of the regions outside the AP2 domain of orthologs among A. thaliana,C. papaya and P. trichocarpa，sequences of AP2 domain in subfamilies were strikingly similar and several residues were highly conserved.To examine the conservation and variation of AP2 domain in the DREB and ERF subfamilies, we aligned the AP2 domain of proteins from the five Brassiciceae species，C. papaya and P.trichocarpa and generated amino acids logos for each DREB and ERF subfamily (Figure 2).Except the ERF-B3 subfamily,which hasan insertion of one amino acid, the length of AP2 domain in all remaining DREB and ERF subfamilies is 52 aa (Figure 2). The AP2 DNA binding domain is conserved in Brassicaceae history: 12 residues are entirelyidentical $( 1 0 0 \\% )$ and 13 residues are highlyconserved $( 8 0 \\% - 9 0 \\% )$ among all DREB and ERF subfamilies. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The high degree of amino acid sequence similarity of AP2 domain of DREB and ERF groups in Brassicaceae suggests that the EREBP proteins might be conserved in DNA binding; in contrast, the highly variable sequences of the regions flanking the AP2domain,implies thatmembers ofdifferent subfamilies might differ in their interacting proteins.Strikingly,the ERF-B3 group has an insertion of one amino acid,with potentially different DNA binding properties from other EREBPs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DREB-A1PvYRGVReRNssKWVcEvREPNKKs-R-WLGTE:TeEMAARAHDVAALALRGEDREB-A2 CYRGVRQRIWGKWVAEIREPNRG-RLWLGIEI_EAA-AYDEAARekYGeDREB-A3 RYRGVRQR_WGKWVAEIREP__R_-R__.WLGTF_TA___.AARAYD_.A_YGDREB-A4PYRGVRRWGKWVSEIREPBKKs-RIWLGIEeTPEMAARAXDVAALaLKG.DREB-A5YKGYRRKWGKWVsEIRPNsB-R.WLGSYsIPEeAABAxDAAECLRGPDREB-A6 KLYRGVRQRHWGKWVAEIRLPRNRT-RLWLGTEDTAEEAA-AYDeAAXKLRGEERF-B1 RYRGVRKRPWGRYAAEIRDP.K-RxWLGTFDIAEEAAEAYD_AAReRGERF-B2 NeYRGIRQRPWGKWAAEIRDPRKGx-RvWLGTENTAEEAABAYDEARR|RGERF-B3 YRGVRBRPWGKEAAEIRDBRNGRvWLGTEPIAEEAAEAYDAAEMRGERF-B4BEYRGVRQRPWGKWAAEIRDP_KAA-RVWLGTFeTAEeAAEAYDAALRFRGERF-B5KKERGVRQRPWGKWAAEIRDP_BR-R-WLGTETAEEAA\\~YYDNAALsLRGPERF-BKEGVRQREWGsWVERRPKRxWLGTEETAEEAARAYDEAALG",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AP2-like genes possess multiple exons but EREBPs have singleor fewexons ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Next we examined the exon numbers and found that exon numbers displayed similar patterns between members within each subfamily in Brassicaceae and even in the rosid species weexamined,but were dramatically different between oneAP2-domain lineages and the two-AP2-domain lineage.In the AP2 subfamily，whose members contain two AP2 domains,all genes contained more than five exons in the five Brassicaceae species and P. trichocarpa.However,most genes in the RAV,DREB and ERF subfamilies,whose members have a single AP2 domain (Kim et al. 2oo6; Mizoi et al.2012), have only one exon (Figures 3, S13). All RAV genes lack intron in Brassicaceae species,and only two RAV genes have introns in P. trichocarpa.Besides one A.lyrata and one C. papaya gene, nearly all ERF-B2 genes have two exons in Brassicaceae species and P.trichocarpa.Taken together, these patterns suggested that single or limited exon was the common feature of oneAP2-domain subfamilies，while genes with multiple exons were the characteristic of the AP2 subfamily (two AP2 domains）in the MRCA of Brassicaceae.The results here suggest that the ancestral genes for the one-AP2-domain subfamilies probably had none or one intron;one possibility is that the common ancestor of all AP2 genes had more introns, but all or most introns were lost after the one-AP2-domain clade separated from the two-domain clade. Because retrotransposition is thought to be a major mechanism for gene duplication resulting in intronless genes,it is possible that some of the single AP2-domain genes were duplicated via retrotransposition. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our results on gene structure support the previous classification of the AP2 and EREBP groups using the number of the AP2 domain (Okamuro et al.1997).The two-AP2-domain genes have multiple exons,whereas the one-AP2-domain genes have one or two exons,with only few exceptions with multiple exons. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Screening for interactive proteins of representative AP2/ EREBP proteins ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Although a large-scale protein-protein interaction map of the A.thaliana has uncovered a large number of potential interactive partners,which linked novel functional pathways (Arabidopsis Interactome Mapping 2o11), the AP2 family was not a specific focus of the study and few interactive proteins were identified for AP2 proteins.To investigate possible regulatory mechanisms used by AP2/EREBP proteins using interactive proteins，we selected 56 representative $A P 2 /$ EREBP proteins as baits for yeast two-hybrid (Y2H) screening to identify potential interacting proteins.These 56 proteins were selected using phylogenetic and functional criteria: (i) one to two members were selected from each clade,and (ii) those with known functions were favored.For example, AP2 and TOE1 Were from the AP2 subgroup,and ANT and At1g797oo were from the ANT subgroup.Among these 56 selected AP2-domain proteins，26 showed strong autoactivation in yeast,two showed severe toxicityto yeast cells, and seven were not tested forautoactivation due to technical reasons; these were not used in subsequent analyses (Table 1; Figure S14).The remaining 21 proteins were used to screen for interactive proteins (Table1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Next，we performed Y2H screening of the 21 nonautoactivation bait proteins.Normalized Arabidopsis cDNA libraries generated from mRNA of various tissues and developmental stages were screened and the screens resulted in positive clones for 16 of the bait proteins, including TOE1 (AT2G2855o) (Aukerman and Sakai 2003; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A Arabidopsis thaliana B Capsella rubella   \nuoxeosun ≥6 4 3 2 福 O . O . 。 1 . 。 . ? . O Z44 PAY BBRPTA BR-RAEA BR-RAR3 BA-RAE4 DB-RERS BB-BBE4 RPF BR-PE ER.PE3 BB.B5 A44 PAY DBRPFA BA-REEA BR-REEA DP-BEE4 DA-RER4 BBPBBE4 R-PF BRPE FR-P33 5-PE BR-PE3 B1355 C Brassicarapa D Populus trichocarpa   \nuoxeosequn ≥6 4 3 2 ? 。 O 。。 . O 0。 O A DBRERA BR-REEA DB-RAR3 DA-REE4 DR-RPRS BR-BPE4 EPE BR-PE3 ERPPE3 BR-B5 AM BBPRERA BB-RRRA BBREEA DR-BAA4 DB-RPRS BBPBER4 R-PF BR-PE FR-P33 RPE ER.PE3 BRB5 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Zhang et al.2015),AP2 (AT4G36920,weakly auto-activating but chosen because of its importance as a developmental regulator) (Jofuku et al. 1994; Jofuku et al. 2oo5; Ohto et al. 2005;Yant et al. 2010),WRl4 (AT1G7970o) (Iwase et al. 2011) and DREB-A2 protein AT5G18450， DREB-A4 proteins AT1G71450 and AT2G44940，DREB-A5 pr0tein AT5G21960, DREB-A6 protein AT1G6438o， ERF-B1 proteins ERF4 (AT3G15210) (Yang et al. 2005)，ERF8 （AT1G53170）and ERF12 (AT1G28360)，ERF-B3 pr0teins ERF2 (AT5G47220), AT5G51190 and AT2G2088o and ERF-B6 protein ESE3 (AT5G25190) (Mizoi et al. 2012） and SHN2 (AT5G11190) (Table 2).The numbers of identified prey proteins showed different patterns: the two-AP2-domains proteins had more preys，whereas the one-AP2-domain proteins had many fewer preys (Table 2).The total number of preys for the 16 baits was 197o，including 252 transcription factors，215 proteins with functions for protein modification，335 with protein processes,2o for epigenetics related processes,853 with other functions and 295 unknown function proteins (Figure 4A and Table 2).Taken together,our results have identified putative interaction proteins for representative AP2/EREBP family proteins. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "TOE1and related proteins showed similar interaction patterns ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Asa first step to eliminate false positives,the interactions identified by Y2H were retested in yeast cells.Wecloned some of the full-length prey cDNAs and transformed the plasmids containing the prey cDNAs into yeast to validate the interactions of baits and preys (Figure S15A). In addition,as a casestudy for specificity of interactions,we selected 28TOE1 interacting proteins,and tested their interactions with TOE1 and three other closely related proteins:TOE2,TOE3 and SNZ (Figures 5,S15B).We found that most of the TOE1 interacting proteins could also interact with TOE2,TOE3 and SNZ,with similar patterns of interaction strengths to that with TOE1. However,SNZ was slightly different from the other three bait proteins in that SNZ could not interact with AALPand EMB1374. In particular,COL1had a strong interaction with TOE1,TOE2 and $\\mathsf { T O E } 3$ but only a very weak interaction with SNZ.Also,all of the proteins we identified here that are involved in protein modification could interact with the four TOE-like proteins. Strikingly,the F-box protein ZTL,which was reported to control the circadian clock and influence flowering time (Somers et al. 2000; Somers et al.2oo4; Takase etal.2o11),could interact with TOE-like proteins in our experiments (Figure 5).Based on the genetic experiments showing functions of TOE-like genes in regulation of flowering time，we surmised that these interactions might provide new insights into flowering time regulation.In conclusion,these results showed that several TOE1 paralogs have similar interaction patterns,suggesting that theyare functionally conserved. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Test for in vivo interactions by BiFC ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To examine whether the interactions identified by Y2H reflect in planta interactions， we used Bimolecular ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed3d573dac6e0691c5f66c46da859275222387803c9d33a902ffc455e63cad20.jpg",
+        "table_caption": [
+            "Table 1. AP2/EREBP genes selection and autoactivation test "
+        ],
+        "table_footnote": [
+            "+,strong auto-activation; -,no auto-activation; $+ I - ,$ weak auto-activation; Nd, not detect; Tx, toxicity in yeast cells. "
+        ],
+        "table_body": "<html><body><table><tr><td>Gene ID</td><td>Name</td><td>Subfamily</td><td>Auto-activation</td><td>Gene ID</td><td>Name</td><td>Subfamily</td><td>Auto-activatior</td></tr><tr><td>AT2G28550</td><td>TOE1</td><td>AP2</td><td>1</td><td>AT1G50640</td><td>ERF3</td><td>ERF-B1</td><td>+</td></tr><tr><td>AT4G36920</td><td>AP2</td><td>AP2</td><td>+/1</td><td>AT1G53170</td><td>ERF8</td><td>ERF-B1</td><td>1</td></tr><tr><td>AT1G79700</td><td>WRl4</td><td>AP2</td><td>1</td><td>AT5G13910</td><td>LEP</td><td>ERF-B1</td><td>+/-1</td></tr><tr><td>AT1G13260</td><td>RAV1</td><td>RAV</td><td>1</td><td>AT5G44210</td><td>ERF9</td><td>ERF-B1</td><td>+/1</td></tr><tr><td>AT4G37750</td><td>ANT</td><td>ANT</td><td>+1</td><td>AT1G72360</td><td>ERF73</td><td>ERF-B2</td><td>Nd</td></tr><tr><td>AT1G72570</td><td></td><td>ANT</td><td>Nd</td><td>AT2G47520</td><td>ERF71</td><td>ERF-B2</td><td>Nd</td></tr><tr><td>AT2G41710</td><td></td><td>AP2</td><td>Nd</td><td>AT3G14230</td><td>RAP2.2</td><td>ERF-B2</td><td>Tx</td></tr><tr><td>AT4G25480</td><td>DREB1A</td><td>DREB-A1</td><td></td><td>AT3G16770</td><td>EBP</td><td>ERF-B2</td><td>+</td></tr><tr><td>AT1G63030</td><td>DDF2</td><td>DREB-A1</td><td>十</td><td>AT4G34410</td><td>RRTF1</td><td>ERF-B3</td><td>1</td></tr><tr><td>AT4G25490</td><td>CBF1</td><td>DREB-A1</td><td>+</td><td>AT2G44840</td><td>ERF13</td><td>ERF-B3</td><td>+</td></tr><tr><td>AT5G18450</td><td></td><td>DREB-A2</td><td>Nd</td><td>AT3G23220</td><td>ESE1</td><td>ERF-B3</td><td>Nd</td></tr><tr><td>AT2G40340</td><td>DREB2C</td><td>DREB-A2</td><td>Tx</td><td>AT3G23240</td><td>ERF1</td><td>ERF-B3</td><td>+</td></tr><tr><td>AT5G18450</td><td></td><td>DREB-A2</td><td>1</td><td>AT5G07580</td><td></td><td>ERF-B3</td><td>Nd</td></tr><tr><td>AT2G40220</td><td>AINY</td><td>DREB-A4</td><td>十+</td><td></td><td>ERF2</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AT5G47220</td><td></td><td>ERF-B3</td><td>_-</td></tr><tr><td>AT5G52020</td><td></td><td>DREB-A4</td><td>1</td><td>AT5G13330</td><td>RAP2.6L</td><td>ERF-B4</td><td>+/-1</td></tr><tr><td>AT3G16280</td><td></td><td>DREB-A4</td><td>+/1</td><td>AT5G50080</td><td>ERF110</td><td>ERF-B4</td><td>+</td></tr><tr><td>AT1G71450</td><td></td><td>DREB-A4</td><td></td><td>AT4G23750</td><td>CRF2</td><td>ERF-B5</td><td>+</td></tr><tr><td>AT1G33760</td><td></td><td>DREB-A4</td><td>+/-</td><td>AT5G53290</td><td>CRF3</td><td>ERF-B5</td><td>+</td></tr><tr><td>AT2G44940</td><td></td><td>DREB-A4</td><td>1</td><td>AT1G25470</td><td>CRF12</td><td>ERF-B6</td><td>+</td></tr><tr><td>AT1G71520</td><td></td><td>DREB-A5</td><td>1</td><td>AT1G25470</td><td>CRF12</td><td>ERF-B6</td><td>+</td></tr><tr><td>AT1G74930</td><td>ORA47</td><td>DREB-A5</td><td>+</td><td>AT5G11190</td><td>SHN2</td><td>ERF-B6</td><td>1</td></tr><tr><td>AT4G36900</td><td>DEAR4</td><td>DREB-A5</td><td>1</td><td>AT5G19790</td><td>RAP2.11</td><td>ERF-B6</td><td>+</td></tr><tr><td>AT5G21960</td><td></td><td>DREB-A5</td><td>1</td><td>AT5G25190</td><td>ESE3</td><td>ERF-B6</td><td>1</td></tr><tr><td>AT1G64380</td><td></td><td>DREB-A6</td><td>1</td><td>AT1G49120</td><td>CRF9</td><td>ERF-B6</td><td>+</td></tr><tr><td>AT1G78080</td><td>WIND1</td><td>DREB-A6</td><td>+</td><td>AT5G67000</td><td></td><td>ERF-B6</td><td>1</td></tr><tr><td>At3g15120</td><td>ERF4</td><td>ERF-B1</td><td>1</td><td>At2g20880</td><td>ERF53</td><td></td><td>1</td></tr><tr><td>AT1G28360</td><td>ERF12</td><td>ERF-B1</td><td>1</td><td>AT3G61630</td><td>CRF6</td><td></td><td>1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fluorescence Coupling(BiFC） in tobacco cells to test for interaction of 16 selected pairs of interactive proteins identified using yeast. We found most of the yeast interactions were reproduced in plant cells including the interactions of WRl4 with AT1Go106o,STO (Yan et al.2011), ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/43b0dc41303a610686e20410bfa5dc34e505f552acb7c0695f4536042a37383c.jpg",
+        "table_caption": [
+            "Table 2.AP2/EREBP proteins used for Y2H screening "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Gene ID</td><td>Name</td><td>Subfamily</td><td>Prey No.</td></tr><tr><td>AT2G28550</td><td>TOE1</td><td>AP2</td><td>383</td></tr><tr><td>AT4G36920</td><td>AP2</td><td>AP2</td><td>421</td></tr><tr><td>AT1G79700</td><td>WRI4</td><td>AP2</td><td>341</td></tr><tr><td>AT5G47220</td><td>ERF2</td><td>ERF-B3</td><td>187</td></tr><tr><td>AT3G15210</td><td>ERF4</td><td>ERF-B1</td><td>40</td></tr><tr><td>AT2G44940</td><td></td><td>DREB-A4</td><td>47</td></tr><tr><td>AT2G20880</td><td>ERF53</td><td>ERF</td><td>33</td></tr><tr><td>AT5G18450</td><td></td><td>DREB-A2</td><td>74</td></tr><tr><td>AT1G71450</td><td></td><td>DREB-A4</td><td>39</td></tr><tr><td>AT5G21960</td><td></td><td>DREB-A5</td><td>26</td></tr><tr><td>AT1G64380</td><td></td><td>DREB-A6</td><td>79</td></tr><tr><td>AT1G28360</td><td>ERF12</td><td>ERF-B1</td><td>96</td></tr><tr><td>AT1G53170</td><td>ERF8</td><td>ERF-B1</td><td>78</td></tr><tr><td>AT5G51190</td><td></td><td>ERF-B3</td><td>8</td></tr><tr><td>AT5G25190</td><td>ESE3</td><td>ERF-B6</td><td>81</td></tr><tr><td>AT5G11190</td><td>SHN2</td><td>ERF-B6</td><td>37</td></tr><tr><td>Total</td><td></td><td></td><td>1970</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "HAP5C，COL3 (Datta et al.2006)，and AT2G43770.Also reproduced are interactions of AFO and AT1G77080; AT5G63970 With AT1G71450；AT1G06760 With AT1G64380; AT1G18340 With AT1G64380; AT1G29150 With AT1G28360; AT2G20400 with AT1G2836o， and that of AT3G51880 With AT1G7145o (Figure 6). Strikingly，all YFP signals for these interactions were observed in nuclei,consistent with AP2 members being known or putative transcription factors. However，three pairs of interactions failed to occur in plant cells， including those between AT1G8o42o and AT1G6438o，between AT5G01920 and AT1G2836o，and between AT5G64920 and AT1G6438o (Figure 6). These results indicated that most of the interactions between partners identified in yeast cells could also have occurred in plant cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Interaction network constructions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From the interaction results,we realized that some preys were identified in screens with two or more baits;this isreasonable because the baits are members of the same AP2/EREBP family.To assess the full extent of parallel interactions of AP2/EREBP proteins,we counted the same preys that interacted with different bait proteins and identified 3oo pairs of interactions that show the pattern of the same prey interacting with various baits. We organized these bait-prey pairs into five groups on the basis of the proteins functions including 26 proteins annotated for transcriptional regulation，2o proteins for protein modification,seven proteins predicted for protein processes,nine unknown proteins and 23 proteins with possibly other functions (Figure 4B). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebd5d7da5af8759cb7cd8de4001bf22b300382b6f1390367ff7e87a288ab71ed.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/659bd8dfd10a167cb89ab4860f6ec1e7c5ada0e58d38a92fb807742d43883db0.jpg",
+        "img_caption": [
+            "Figure 4.Functional classifications of prey proteins and core interaction network of AP2/EREBP proteins (A)Functional clasificationof the prey proteins. (B) Core interaction networksconstructed using Cytoscape.Allof the preys shown here interact with at least twobaits.Wedividedthe proteins into five groups including bait proteins,transcriptional regulation，proteinmodification，protein proceses，unknownproteinsand others.Proteinsarerepresented bycircles, interactions are indicated by lines. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The AP2/EREBP proteinsact (potentially)as transcriptional factors that bind to target DNA and recruit other proteins to regulate transcription. Our results suggest that there are 252 transcription factors that could interact with one or more of the selected16 baits,implying that AP2/EREBP proteins might form transcriptional complexes with other transcription factors.Other non-transcription factor proteins might participate in the function and/or regulation of the AP2/EREBP ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PC NC AD PTEN AT4G AT3G AT3G CKA1 SK11 CBL9 AALP EM41 VTI11 ADG1 TIFY8 ARA4 COS1 ZTL STO bHLH COL1 bH4H AT5G AT2G IAA11 AT5G AT14G STH AT3G 18380 FSD1 32620 AT4G A STH AT3G 18380 FSD1 AT4G 32620 DDO ? O 。 O 。 。 . D O O O O 。 O DDO   \nQDO/X/A O · · · . . · O · · . QDO/X/A DDO · · O O 。 O . 福 O ® O O O . # DDO   \nQDO/X/A 福 . · · . O · · 福 ? . O · O O O QDO/X/A DDO . . O O O O O . O O O O O DDO   \nQDO/X/A ● ● ® O · 福 + O O · 福 . ® 福 O QDO/X/A DDO + O 。 B 。 . O 。 O C O O O QDO/X/A DDO O O 。 O O 。 O O O . O O 。 O DDO   \nQDO/X/A . . . O 福 . O + . · 福 QDO/X/A DDO O ® O ® O O O . . O O O O DDO   \nQDO/X/A ? ● · ® · O . O + . O 福 QDO/X/A DDO O O ® O O . O O 。 。 O O Q DDO   \nQDO/X/A O . ? C C . O ? O · C QDO/X/A DDO 2 D E QDO/X/A ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "proteins in another fashion; this will need further studies to understand. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Gene ontology analyses ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To gain some additional clues about the biological significance of the interactions between AP2/EREBP proteins and their prey proteins,we analyzed the gene ontology of the prey proteins.We classified the prey proteins according to their putative functions in three ways,including cellular components，biological processes and molecular functions.With regard to cellular components,most of the prey proteins are predicted to localize in the nucleus, strongly suggesting that the prey proteins function in the same cellular structures as their partners (Figure 7A). For biological processes,most of the prey proteins are annotated to participate in other cellular processes and metabolic processes.In addition，the prey proteins also predicted to participate in developmental processes，response to abiotic，biotic stimuli and various stresses (Figure 7B).Also, transcription and signal transduction were enriched in prey proteins.Finally,the molecular function enrichment showed that the prey proteins participate in various binding functions including nucleotide (DNA or RNA）binding，and protein binding，as well as kinase, transcription factorand otheractivities (Figure 7C).Therefore, several predicted functions of the interactive partners of $A P 2 /$ EREBPs are functionally consistent with their baits. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Effect of anther developmental regulators on expression of AP2 family members ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The putative protein-protein interactions reported above suggest that members of the AP2 family with known developmental functions could be linked to regulators of environmental responses，and vice versa.Another way regulators of development and environmental responses could affect each other is through gene expression.As an illustration,we examined transcriptome datasets generated in our lab from wild-type and mutant anthers (Zhu et al. 2015)(Tables 3，S1) for possible effects of the mutations on the expression of AP2 family members.DYT1 isa key regulator of anther gene expression and the DYT1 protein interacts with three closely-related bHLH proteins, bHLHo10，bHLHo89，and bHLHo91 (Zhang et al.2006; Feng et al. 2o12).Our recent experiments indicate that a triple mutant of the three bHLH genes is severely defective in anther development,with reduced expression of known anther developmental genes (Zhu et al.2015). We found that among the AP2 family members,37 had reduced expression in the bhlh triple mutant anthers, compared with wild-type anthers (Table 3),suggesting that they are regulated positively by these bHLH proteins. Among the 37 AP2 family genes,five were also affected in the dyt1 mutant (Table S1), further supporting the idea that members of the AP2 family are regulated by key anther developmental genes.It is worth noting that many of the affected AP2 family members are annotated to have functions in environmental responses in the EREBP subfamily, including the $C B F 1 / 2 / 3$ genes important for cold tolerance (Stockinger et al. 1997; Gilmour et al. 1998;Medina et al. 1999).Thus,the positive effects on the expression of these known/putative mediators of environmental signal by the three bHLH factors and DYT1 provide an additional link between regulators of development and environmental responses. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f75ef86029e87ead39f6ab9c278482e993eca847fa4762dca05fa6489e3f586.jpg",
+        "img_caption": [
+            "Figure 6.Validation of the interactions in planta by BiFC ",
+            "Bimolecularfluorescencecomplementation (BiFC)analysis was performed tovalidate the interactionbetweenselected baits andpreyproteins.AllbaitswerefusedwithcYFP;allpreys werefusedwithnYP.YFP,fluorescenceofyellwfluorescentprotein; Bright, bright field; Merge,merge of YFPand Bright.The bright dot(s) in the YFP panels represent interaction. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The AP2/EREBP proteins have important functionsin regulating plant development and environmental responses. Our phylogenetic analyses indicate that the AP2/EREBP genes in Brassicaceae exhibited similar patternsamong subfamilies: (i) the expansion of AP2/EREBP genes occurred in the ancestor of Brassicaceae;in B.rapa,which has experienced a recent WGD,additional expansion has occurred;(ii) most of the gene losses following the alpha and beta WGDs had ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A Cellular components ER □ Ribosome 1 Unknown cellular ■ Cell wall □ Golgi apparatus □ Other cellular □ Extracelular □ Mitochondria Cytosol Plastid Other membrane Plasma membrane Other cytoplasmic Other intercellular Nucleus 0 0.1 0.2 B Biological processes DNA or RNA metabolism Electron transportor energy ■ Signal transduction 一 Transcription,DNA-dependent □ Transport □ Unknown biological processes Other biological processes Protein metabolism Cell organization and Response to stress Developmental processes Response to abiotic or biotic Other metabolic processes Other cellular processes 0 0.1 0.2 0.3 C Molecular function Receptor binding or Structural molecule 1 Transporteractivity 1 Nucleic acid binding ■ Other molecular □ Transcription factor Other enzyme activity Hydrolase activity Nucleotide binding DNA or RNA binding Protein binding Kinase activity Unknown molecular Other binding Transferase activity 0 0.1 0.2 r ninr ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f577d0291b883f6b5d55bcabf9702bcd351bce6e9efe3709e4c0949ad35ff79.jpg",
+        "table_caption": [
+            "Table 3.AP2 genesaffected in the bhlh triple mutant "
+        ],
+        "table_footnote": [
+            "\\*Genes in boldface were the baits in the Y2H screening with positive clones,and those in italic were down-regulated in the dyt1-3 mutant as well.\\*\\*GFOLD value could be recognized as the adjusted log2(Fold change),see Feng J,Meyer CA,Wang Q, Liu JS, Liu XS, Zhang Y. GFOLD: a generalized fold change for ranking differentially expressed genes from RNA-seq data. Bioinformatics 2012. $* * *$ tripleis an abbreviation for the bhlho10 bhlho89 amiR-bHLHo91 triple mutant. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"3\"></td><td colspan=\"2\">RPKM</td></tr><tr><td>Gene*</td><td>Alias</td><td>GFOLD**</td><td>Col-o</td><td>triple***</td></tr><tr><td>AT1G12610</td><td>DDF1</td><td>-6.25996</td><td>49.4785</td><td>0.144581</td></tr><tr><td>AT1G13260</td><td>RAV1</td><td>-1.88405</td><td>10.4447</td><td>0.887313</td></tr><tr><td>AT1G19210</td><td></td><td>-1.95568</td><td>6.01208</td><td>0.438025</td></tr><tr><td>AT1G22190</td><td>RAP2.4</td><td>-2.85424</td><td>47.8332</td><td>2.91085</td></tr><tr><td>AT1G25560</td><td>TEM1</td><td>-1.29225</td><td>27.781</td><td>5.27553</td></tr><tr><td>AT1G28360</td><td>ERF12</td><td>-1.61463</td><td>55.6178</td><td>7.71617</td></tr><tr><td>AT1G28370</td><td>ERF11</td><td>-3.48987</td><td>12.5389</td><td>0.379413</td></tr><tr><td>AT1G43160</td><td>RAP2.6</td><td>-6.62988</td><td>40.3182</td><td>0</td></tr><tr><td>AT1G46768</td><td>RAP2.1</td><td>-1.23229</td><td>1.54851</td><td>0.116088</td></tr><tr><td>AT1G53170</td><td>ERF8</td><td>-1.51007</td><td>137.639</td><td>19.7702</td></tr><tr><td>AT1G63030</td><td>DDF2</td><td>-3.6206</td><td>4.18268</td><td>0</td></tr><tr><td>AT1G74930</td><td>ORA47</td><td>-3.39263</td><td>46.6051</td><td>2.0298</td></tr><tr><td>AT1G75490</td><td></td><td>-5.06368</td><td>13.3635</td><td>0.0966472</td></tr><tr><td>AT1G79700</td><td>WRI4</td><td>-1.14185</td><td>52.132</td><td>9.67008</td></tr><tr><td>AT2G20880</td><td>ERF53</td><td>-5.03813</td><td>14.5766</td><td>0.105244</td></tr><tr><td>AT2G38340</td><td>DREB19</td><td>-1.29931</td><td>5.49735</td><td>0.758202</td></tr><tr><td>AT2G44840</td><td>ERF13</td><td>-1.72266</td><td>16.2954</td><td>1.70774</td></tr><tr><td>AT3G15210</td><td>ERF4</td><td>-1.39304</td><td>146.195</td><td>25.5851</td></tr><tr><td>AT3G61630</td><td>CRF6</td><td>-1.04539</td><td>28.3421</td><td>5.94682</td></tr><tr><td>AT4G17490</td><td>ERF6</td><td>-1.06453</td><td>6.92583</td><td>1.28284</td></tr><tr><td>AT4G17500</td><td>ERF1</td><td>-3.00152</td><td>20.7286</td><td>1.14626</td></tr><tr><td>AT4G25470</td><td>CBF2</td><td>-4.05797</td><td>25.2195</td><td>0.534597</td></tr><tr><td>AT4G25480</td><td>CBF3</td><td>-2.03661</td><td>39.4682</td><td>3.63403</td></tr><tr><td>AT4G25490</td><td>CBF1</td><td>-5.33528</td><td>26.5346</td><td>0.123108</td></tr><tr><td>AT4G28140</td><td></td><td>-5.12617</td><td>25.8455</td><td>0.207167</td></tr><tr><td>AT4G34410</td><td>ERF109</td><td>-3.09166</td><td>62.0548</td><td>3.18127</td></tr><tr><td>AT4G36900</td><td>DEAR4</td><td>-1.20982</td><td>17.4523</td><td>3.41191</td></tr><tr><td>AT5G05410</td><td>DREB2A</td><td>-3.29537</td><td>131.018</td><td>6.51857</td></tr><tr><td>AT5G13330</td><td>RAP2.6L</td><td>-1.60165</td><td>33.5581</td><td>4.56017</td></tr><tr><td>AT5G21960</td><td></td><td>-1.94519</td><td>3.13743</td><td>0.246215</td></tr><tr><td>AT5G47220</td><td>ERF2</td><td>-4.08149</td><td>22.286</td><td>0.544771</td></tr><tr><td>AT5G51190</td><td>ERF105</td><td>-1.58481</td><td>5.00341</td><td>0.629135</td></tr><tr><td>AT5G51990</td><td>CBF4</td><td>-5.02734</td><td>30.3583</td><td>0.287555</td></tr><tr><td>AT5G52020</td><td></td><td>-2.56442</td><td>1.72051</td><td>0</td></tr><tr><td>AT5G61600</td><td>ERF104</td><td>-2.21398</td><td>35.3816</td><td>3.21333</td></tr><tr><td>AT5G64750</td><td>ABR1</td><td>-1.59447</td><td>3.87442</td><td>0.515635</td></tr><tr><td>AT5G67190</td><td>DEAR2</td><td>-1.33471</td><td>13.028</td><td>2.02843</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "occurred before the divergence of the Brassicaceae species examined here; (ii) among the ancestral AP2/EREBP genes, some of them have lost all but one copy,while others have retained two or three copies,but few retained all four copies. Our protein-protein interaction results of AP2/EREBP proteins provided an informative dataset for testing regulatory mechanisms and also afforded new insights for uncharacteristicbiological pathways. In addition，our resultsalso suggested that the AP2 subfamily proteins also interact with proteins related to stress response and the EREBP subfamily proteins interact with developmental associated proteins.Therefore,earlier analyses of genes with two AP2 domains (AP2-like) involved in plant development and genes with one AP2 domain (EREBPs)related to environmental response probably represent a subset of their functions. Rather, the results here suggest that plant developmental regulation is likely coupled with pathways for environmental information. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have reported interactomes for specific proteins，including those for G-protein and TOPLESSin Arabidopsis and MAPK and MAPKK in rice (Klopffleisch et al.2011; Causier et al.2012; Singh et al.2012; Wankhede et al.2o13),but not yet for multiple members of a transcription factor family.Our results on the potential protein-protein interaction of representative members of the AP2/EREBP family provide useful information for further functional studies. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Several AP2/EREBP genes have been well studied in A. thaliana,and our selected baits for Y2H screens included many of them.AP2 is known to regulate floral organ identity; two AP2-interacting proteins are key regulators for brassinosteroid signaling， the transcription factors BES1/BZR1 (bri1- Ethylmethane Sulphonate suppressor1/brassinazole-resistant 1) and the 14-3-3 protein GRF1o. BR was found to regulate male fertility by affecting the expression of the anther and pollen development genes (Ye et al.2o1o).Thus,our results of AP2- BES1and AP2-GRF1o interactions might provide information onregulatory mechanisms linking organ identity to other aspects of floral development. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The WRl4 protein was reported to function as a transcription factor to regulate lipid biosynthetic pathways in during Arabidopsis development (To et al.2o12). Our Y2H screening with WRl4 identified over 5o clones for the same prey:the B-BOX protein CO-like 3 (COL3); furthermore,this interaction was verified by a BiFC experiment.A previous study showed that COL3 positively regulates seedling growth under light and shoot branching in a day-length sensitive manner (Datta et al. 2oo6).Our interaction results suggest that WRl4-dependent processes,such as lipid biosynthesis, mightbe regulated by light orday-length viaa COL3-mediated signaling pathway. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The ERF-B1 protein ERF4 and DREB-A4 protein AT2G44940 can both interact with CONSTANS(CO) in yeast.Although AT2G4494o has not been studied genetically,the ERF4 gene actsas transcriptional repressor negatively modulating ethylene and abscisic acid responses (Yang et al. 2oo5). CO isrequired for long-day dependent floweringbyactivating the expression of the FT gene encoding a flowering signal (Amasino 201o; Song et al.2012). However,previous studies have not revealed an interaction between these two type proteins. Flowering time control is modulated by the interactions of endogenous developmental processes and exogenous environmental signals (Amasino 2o1o; Song et al. 2010).As a central regulator of photoperiodic flowering,the abundance of the CO protein and the regulation of its activity are important for flowering time regulation.Consistently,CO could interact with dozens of proteins in modulating its protein stability and activity (Valverde 2o11)，as further supported by our recent findings that TOE1 interacts with CO and inhibits its activity (Zhang et al.2o15). In addition, it is known that environmental stresses,such as water availability, can trigger early flowering. Our finding suggests that stressresponsive regulators ERF4 and AT2G4494o might convey the stress signals to the CO protein to influence photoperiodic flowering. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Data collection of AP2/EREBP family genes ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Whole-genome annotated sequences of Arabidopsis thaliana, Arabidopsis lyrata，Capsella rubella，Brassica rapa，Eutrema salsugineum and Populus trichocarpa were downloaded from public databases of phytozome (http://www.phytozome.net/). Then the HMMER (profile hidden Markov models) tool (v3.1) (Finn et al.2o11) was carried out using the entry AP2 (PFo0847) of Pfam-A downloaded from Pfam (v27.o) (http://pfam.sanger. ac.uk/) to identify AP2 homologous genes from each of the above datasets.To verify the obtained sequenceswere AP2 homologs,all retrieved proteinswere searched forthe AP2 domain using the Pfam tool (http://pfam.sanger.ac.uk/)and SMART (http://smart.embl-heidelberg.de/) with E values setting below 1e-5,and sequences lacking of the AP2 domain were discarded for furtheranalyses. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Phylogeneticanalysesof AP2/EREBP gene family ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Multiple amino acid sequences were firstly aligned by MUSCLE (v3.8.31) (Edgar 2oo4) using default settings. For improving the alignment of variable regions in $5 ^ { \\prime }$ and ${ \\boldsymbol { 3 } } ^ { \\prime }$ ends of genes,a preliminary phylogenetic tree was constructed to divide sequences into several subgroups. Sequences in each subgroup were further aligned by MUSCLE(v3.8.31)and then manually adjusted using MEGA (v5). All aligned subgroups were combined into a global alignment by MUSCLE (v3.8.31) with the“profile”setting. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Maximum likelihood (ML) trees of aligned amino acids matrix were constructed using RAxML (v7.0.4) (Stamatakis 2006） with the JTT $+$ CAT model and 10o bootstrap replicates. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Intragenome syntenic relationships of AP2/EREBP family genes of A. thaliana were implemented by PGDD (http:/ chibba.agtec.uga.edu/duplication/) to detect the contribution of genome duplication in the expansion of AP2/EREBP family. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Exon numbers and domain conservation analyses ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Nucleotide coordinates for the start and end of each exon were extracted from all of the above seven annotated genomes. Exon numbers of each AP2/EREBP homolog were then calculated using custom Perl script. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Amino acid sequence of AP2 domain in each AP2/EREBP homolog was fetched by custom Perl script according to parsed results for domains by HMMER.WebLogo (http:/ weblogo.berkeley.edu/)was applied to generate subfamily specific domain logo for detecting conserved and/or diversified amino acids. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Yeast two-hybrid screening and assays ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Using the phylogenetic tree of all the AP2/EREBP family members in five Brassicaceae species，56 A.thaliana AP2/ EREBP genes either with known functions and/or representing clades containing members from other Brassicaceae species were chosen as baits.These bait genes cover one-third of the AP2/EREBP family in A.thaliana,and distribute in almost all sub-groups for a general representation.The Y2H screening was performed according to Matchmaker Gold Yeast TwoHybrid System User Manual(Clontech).cDNAs for5o of the56 bait genes were successfully cloned into the bait vector pGBKT7 (Clontech),which were introduced Y2H-Gold yeast cells by transformation (Clontech).After the elimination due to autoactivation and toxicity in yeast,21 bait constructs were used for Y2H screening by mating with A. thaliana Y2H cDNA library(Clontech,approximately $1 . 0 \\times 1 0 ^ { 7 }$ transformants).The mating mixtures were screened with the growth selection on media lacking His,Ade,Trp,Leu and with Aba and $x \\mathrm { - } \\alpha$ gal (QDO/X/A). The positive colonies were transferred to new QDO/X/A plates and performed yeast colony PCR to obtain the sequences of the prey.For Y2H assays,the full-length cDNAs Were cloned into pGBKT7 or pGADT7 and introduced into the Y2H-Gold or Y187 yeast strains,respectively.Then the two yeast strains were mated and transferred to the DDOand QDO/X/A plate for selection.Information for all primers in this study is provided in the supplemental materials (Table S2). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Bimolecular fluorescence complementation assays ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "cDNAs of bait genes were cloned into the pXY1o4 vector. cDNAs of prey genes were cloned into the pXY1o6 vector. The resulting cassettes including fusion proteins and constitutive promoters were transformed into Agrobacterium.For BiFC experiments，3-week-old tobacco (Nicotiana benthamiana) leaveswere co-infiltrated with Agrobacterium containing rele vant constructs.After $3 6 - 4 8  h$ ,expressions of various fluorescent proteins were analyzed by confocal microscopy (Zeiss). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Interaction network construction ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To illustrate interactions between baits and preys detected by Y2H screening and partially confirmed with BiFC， the interaction network constructing software Cytoscape was applied to construct primary interaction networks of the A. thaliana AP2/EREBP members in this study. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The authors thank Professor Jianxiang Liu for providing the BiFC plasmids and Engao Zhu and Fang Chang for sharing results before publication，and gratefully acknowledge financial support from the National Natural Science Foundation of China (91131oo7) and funds from Fudan University. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AUTHOR CONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "H.M.and B.Z.designed the study.L.Z.carried out evolutionary analysis.L.Z.and C.Y.carried out the bioinformatics analysis. B.Z.and Y.Y. performed the Y2H screening experiment. B.Z. performed the Y2H confirmation experiment. B.Z., Y.Y.,Q.P., T.J.and D.X. performed BiFC experiments.B.Z., L.Z.and Y.Y. analyzed the results.B.Z.and L.Z.drafted the manuscript and H.M.revised the manuscript.All authors read and approved the final manuscript. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Amasino R (201o) Seasonal and developmental timing of flowering. Plant J 61: 1001-1013 Arabidopsis Interactome Mapping C (2o11) Evidence for network evolution in an Arabidopsis interactome map. Science 333:   \n601-607 Aukerman MJ,Sakai H (2oo3) Regulation of flowering time and floral organ identity by a microRNA andits APETALA2-like target genes. Plant Cell 15: 2730-2741 Blanc G,Hokamp K,Wolfe KH (2oo3)A recent polyploidy superimposed on older large-scale duplications in the Arabidopsis genome. Genome Res 13: 137-144 Bowman JL,Smyth DR, Meyerowitz EM (1989) Genes directing flower development in Arabidopsis.Plant Cell1: 37-52 Bowman JL,Smyth DR,Meyerowitz EM (1991) Genetic interactions among floral homeotic genes of Arabidopsis. Development 112:   \n1-20 Causier B,Ashworth M,Guo W，Davies B(2012） The TOPLESS interactome: A framework for gene repression in Arabidopsis. Plant Physiol 158: 423-438 Chen X(2oo4)A microRNA as a translational repressor of APETALA2 in Arabidopsis flower development. Science 303: 2022-2025 Coen ES,Meyerowitz EM (1991) The war of the whorls: Genetic interactions controling flower development. Nature 353: 31-37 Dassanayake M,Oh DH, Haas JS, Hernandez A, Hong H,Ali S,Yun DJ, Bressan RA,Zhu JK，Bohnert HJ,Cheeseman JM （2011） The genome of the extremophile crucifer Thellungiella parvula.Nat Genet 43: 913-918 Datta S,Hettiarachchi GH,Deng XW，Holm M(2oo6)Arabidopsis CONSTANS-LIKE3 is a positive regulator of red light signaling and root growth. Plant Cell 18:70-84 Dietz KJ,Vogel MO,Viehhauser A(201o) AP2/EREBP transcription factors are part of gene regulatory networks and integrate metabolic， hormonal and environmental signalsin stress acclimation and retrograde signalling. Protoplasma 245: 3-14 Edgar RC (2oo4) MUSCLE: Multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Res 32: 1792-1797 Elliott RC, Betzner AS, Huttner E,Oakes MP,Tucker WQ, Gerentes D, Perez P,Smyth DR (1996)AINTEGUMENTA,an APETALA2-like gene of Arabidopsis with pleiotropic roles in ovule development and floral organ growth. Plant Cell 8: 155-168 Feng B, Lu D,Ma X,Peng Y,Sun Y,NingG,Ma H (2o12) Regulation of theArabidopsisanther transcriptome by DYT1 for pollen development. Plant J72: 612-624 Finn RD,Clements J, Eddy SR (2o11) HMMER web server: Interactive sequence similarity searching. Nucleic Acids Res 39: W29-W37 Fujimoto SY,Ohta M,Usui A,Shinshi H,Ohme-Takagi M (2000) Arabidopsis ethylene-responsive element binding factors act as transcriptional activators or repressors of GCC box-mediated gene expression. Plant Cell 12: 393-404 Gilmour SJ，Zarka DG,Stockinger EJ,Salazar MP,Houghton JM, Thomashow MF (1998) Low temperature regulation of the Arabidopsis CBF family of AP2 transcriptional activators as an early step in cold-induced COR gene expression. Plant J16:   \n433-442 Hu TT,Pattyn P,Bakker EG,Cao J,Cheng JF,Clark RM,Fahlgren N, Fawcett JA,Grimwood J,Gundlach H, Haberer G, Hollister JD, Ossowski S, Ottilar RP,Salamov AA, Schneeberger K,Spannagl M, Wang X,Yang L,Nasrallah ME,Bergelson J,Carrington JC, Gaut BS,SchmutzJ,ayerKFndeeerYrigorievIrog Weigel D,Guo YL(2o11) The Arabidopsis lyrata genome sequence and the basis of rapid genome size change. Nat Genet 43: 476- 481   \nHu YX,Wang YX, Liu XF, Li JY (2004) Arabidopsis RAV1 is downregulated by brassinosteroid and may act as a negative regulator during plant development. Cell Res 14: 8-15   \nIwase A, Mitsuda N, Koyama T, Hiratsu K, Kojima M,Arai T, Inoue Y, Seki M,Sakakibara H, Sugimoto K,Ohme-Takagi M(2o11) The $A P 2 /$ ERF transcription factor WIND1 controls cell dedifferentiation in Arabidopsis. Curr Biol 21: 508-514   \nJiao Y，Wickett NJ,Ayyampalayam S,Chanderbali AS,Landherr L, Ralph PE,Tomsho LP,Hu Y,Liang H, Soltis PS,Soltis DE, Clifton SW，Schlarbaum SE，Schuster SC，Ma H，Leebens-Mack J, dePamphilis CW (2o11) Ancestral polyploidy in seed plants and angiosperms. Nature 473: 97-100   \nJofuku KD,den Boer BG,Van Montagu M,Okamuro JK(1994) Control of Arabidopsis flower and seed development by the homeotic gene APETALA2. Plant Cell 6: 1211-1225   \nJofuku KD,Omidyar PK,Gee Z,Okamuro JK (2oo5) Control of seed mass and seed yield by the floral homeotic gene APETALA2.Proc Natl Acad Sci USA 102: 3117-3122   \nKim S,Soltis PS,Wall K, Soltis DE (2oo6) Phylogeny and domain evolution in the APETALA2-like gene family.Mol Biol Evol 23: 107-120   \nKizis D,Lumbreras V, Pages M (2oo1) Role of AP2/EREBP transcription factors in gene regulation during abiotic stress.FEBS Lett 498: 187-189   \nKlopffleisch K,Phan N,Augustin K, Bayne RS,Booker KS,Botell JR, Carpita NC,CarrT,Chen JG,Cooke TR,Frick-Cheng A,Friedman EJ, Fulk B,Hahn MG,Jiang K,Jorda L，Kruppe L,Liu C,Lorek J, McCann MC,Molina A,Moriyama EN,Mukhtar MS,Mudgil Y, Pattathil S,Schwarz J,Seta S,Tan M,Temp U,TrusovY, Urano D, Welter B，Yang J， Panstruga R， Uhrig JF， Jones AM (2011) Arabidopsis G-protein interactome reveals connections to cell wall carbohydrates and morphogenesis. Mol Syst Biol 7: 532   \nKlucher KM,Chow H, Reiser L, Fischer RL(1996) The AINTEGUMENTA gene of Arabidopsis required for ovule and female gametophyte development is related to the floral homeotic gene APETALA2. Plant Cel 8: 137-153   \nKrizek BA (2oO3) AINTEGUMENTA utilizes a mode of DNA recognition distinct from that used by proteins containing a single AP2 domain. Nucleic Acids Res 31: 1859-1868   \nKunst L, Klenz JE, Martinez-Zapater J, Haughn GW(1989) AP2 gene determines the identity of perianth organs in flowers of Arabidopsis thaliana.Plant Cell1: 1195-1208   \nMathieu J,Yant LJ,Murdter F, Küttner F,Schmid M (2oo9) Repression of flowering by the miR172 target SMZ. PLoS Biol 7: e1000148   \nMedina J,Bargues M,Terol J,Perez-Alonso M,Salinas J(1999)The Arabidopsis CBF gene family is composed of three genes encoding AP2 domain-containing proteins whose expression is regulated by low temperature but not by abscisic acid or dehydration.Plant Physiol 119: 463-470   \nMizoi J,Shinozaki K,Yamaguchi-Shinozaki K (2o12) AP2/ERF family transcription factors in plant abiotic stress responses. Biochim Biophys Acta 1819: 86-96   \nOhto MA,Fischer RL,Goldberg RB,Nakamura K, Harada JJ (2005) Control of seed mass by APETALA2. Proc Natl Acad Sci USA 102: 3123-3128   \nOkamuro JK,CasterB,Villrroel R,Van Montagu M,Jofuku KD(1997) The AP2 domain of APETALA2 defines a large new family of DNA binding proteins in Arabidopsis.Proc Natl Acad Sci USA 94: 7076-7081 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Riechmann JL,Meyerowitz EM(1998) The AP2/EREBP family of plant transcription factors. Biol Chem 379: 633-646 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Sakuma Y, Liu Q,Dubouzet JG,Abe H, Shinozaki K,YamaguchiShinozaki K(2oo2) DNA-binding specificity of the ERF/AP2 domain of Arabidopsis DREBs,transcription factors involved in dehydration- and cold-inducible gene expression. Biochem Biophys Res Commun 290: 998-1009   \nSchmid M,Uhlenhaut NH, Godard F, Demar M, Bressan R,Weigel D, Lohmann JU (2oo3) Dissection of floral induction pathways using global expression analysis. Development 13o: 6o01-6012   \nShigyo M,Ito M (2oo4) Analysis of gymnosperm two-AP2-domaincontaining genes. Dev Genes Evol 214: 105-114   \nSingh R,Lee MO,Lee JE,Choi J,Park JH, Kim EH,Yoo RH,Cho JI,Jeon JS,Rakwal R,Agrawal GK,Moon JS,Jwa NS (2012) Rice mitogenactivated protein kinase interactome analysis using the yeast twohybrid system. Plant Physiol 16o: 477-487   \nSlote T, Hazzouri KM,Agren JA, Koenig D,Maumus F,Guo YL,Steige K,Platts AE, Escobar JS, Newman LK,Wang W, Mandakova T, Vello E,Smith LM, Henz SR,Steffen J,Takuno S, Brandvain Y, Coop G,Andolfatto P,Hu TT, Blanchette M, Clark RM,Quesneville H,Nordborg M,Gaut BS,Lysak MA,Jenkins J,Grimwood J, Chapman J, Prochnik S,Shu S, Rokhsar D,Schmutz J,Weigel D, Wright SI (2o13) The Capsella rubella genome and the genomic consequences of rapid mating system evolution. Nat Genet 45: 831-835   \nSomers DE，Kim WY,Geng R (2o04） The F-box protein ZEITLUPE confers dosage-dependent control on the circadian clock, photomorphogenesis,and flowering time.Plant Cell16: 769   \nSomers DE,Schultz TF,Milnamow M, Kay SA(2ooo) ZEITLUPE encodes a novel clock-associated PAS protein from Arabidopsis.Cell 101: 319-329   \nSong YH,Ito S,Imaizumi T(2o1o) Similarities in the circadian clock and photoperiodism in plants. Curr Opin Plant Biol 13: 594-603   \nSong YH,Smith RW,To BJ, Millr AJ, Imaizumi T (2012) FKF1 conveys timing information for CONSTANS stabilization in photoperiodic flowering. Science 336: 1045-1049   \nStamatakis A (2oo6）RAxML-Vl-HPC: Maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models. Bioinformatics 22: 2688-2690   \nStockinger EJ,Gilmour SJ,Thomashow MF(1997) Arabidopsis thaliand CBF1 encodes an AP2 domain-containing transcriptional activator that binds to the C-repeat/DRE,a cis-acting DNA regulatory element that stimulates transcription in response to low temperature and water deficit. Proc Natl Acad Sci USA 94: 1035-1040   \nTakase T,Nishiyama Y,Tanihigashi H,Ogura Y, Miyazaki Y,Yamada Y, KiyOSUe T(2O11） LOV KELCH PROTEIN2 and ZEITLUPE repress Arabidopsis photoperiodic flowering under non-inductive conditions，dependent on FLAVIN-BINDING KELCH REPEAT F-BOX1. Plant J67: 608-621   \nTo A,Joubes J, Barthole G,Lecureuil A, ScagneliA,Jasinski S,Lepiniec L,Baud S (2o12） WRINKLED transcription factors orchestrate tissue-specific regulation offatty acid biosynthesis in Arabidopsis. Plant Cell 24: 5007-5023   \nValverde F (2011) CONSTANS and the evolutionary origin of photoperiodic timing of flowering. JExp Bot 62: 2453-2463   \nWang X,Wang H,Wang J,Sun R,Wu J,Liu S, BaiY,Mun JH,Bancroft I, Cheng F, Huang S,LiX, Hua W,Wang J,Wang X,Freeling M,Pires JC,Paterson AH, Chalhoub B,Wang B, Hayward A, Sharpe AG, Park BS,Weisshaar B,Liu B, Li B,Liu B,Tong C, Song C,Duran C, Peng C，Geng C，Koh C，Lin C，Edwards D，Mu D，Shen D, Soumpourou E, Li F，Fraser F, Conant G, Lassalle G, King GJ, Bonnema G,Tang H,Wang H, Belcram H,Zhou H, Hirakawa H,Abe H, Guo H,Wang H,Jin H,Parkin IA,Batley J, Kim JS,Just J, Li J,Xu J,DengJ, KimJA,LiJ,YuJ,Meng J,Wang J,Min J,PoulainJ,Wang J,Hatakeyama K,Wu K,Wang L,Fang L,Trick M,Links MG, Zhao M,Jin M,Ramchiary N, Drou N, Berkman PJ,Cai Q,Huang Q,Li R, Tabata S,Cheng S,Zhang S,Zhang S, Huang S,Sato S,Sun S, Kwon SJ,Choi SR,Lee TH,Fan W,Zhao X,Tan X,Xu X,WangY,Qiu Y,Yin Y,LiY,DuY,iaoY,iY,uska,Wang,WangZ,Zng Z,Xiong Z, Zhang Z, Brassica rapa Genome Sequencing Project C (2011)The genome of the mesopolyploid crop species Brassica rapa. Nat Genet 43: 1035-1039   \nWankhede DP，Misra M，Singh P，Sinha AK(2o13）Rice mitogen activated protein kinase kinase and mitogen activated protein kinase interaction network revealed by in-silico docking and yeast two-hybrid approaches.PLoS ONE 8:e65011   \nWeigel D (1995) The APETALA2 domain is related toa novel type of DNA binding domain. Plant Cell 7: 388-389   \nYan H,Marquardt K,Indorf M,Jutt D, Kircher S,Neuhaus G,RodriguezFranco M (2o11) Nuclear localization and interaction with COP1 are required for STO/BBX24 function during photomorphogenesis. Plant Physiol 156: 1772-1782   \nYang Z,Tian L,Latoszek-Green M,Brown D,Wu K (2oo5) Arabidopsis ERF4 is a transcriptional repressor capable of modulating ethylene and abscisic acid responses.Plant Mol Biol 58: 585-596   \nYant L,Mathieu J, Dinh TT,Ott F,Lanz C,Wollmann H,Chen X, Schmid M(2o1o） Orchestration of the floral transition and floral development in Arabidopsis by the bifunctional transcription factor APETALA2. Plant Cell 22: 2156-2170   \nYe Q,Zhu W,LiL,Zhang S,Yin Y,Ma H,WangX(2o1o) Brassinosteroids control male fertility by regulating the expression of key genes involved in Arabidopsis anther and pollen development.Proc Natl Acad Sci USA 107: 6100-6105   \nZhang B,Wang L,Zeng L,Zhang C,Ma H(2o15)Arabidopsis TOE proteins convey a photoperiodic signal to antagonize CONSTANS and regulate flowering time. Genes Dev 29: 975-987   \nZhang W, Sun Y,Timofejeva L, Chen C,G rossniklaus U,Ma H(2006) Regulation of Arabidopsis tapetum development and function by DYSFUNCTIONAL TAPETUM1(DYT1） encoding a putative bHLH transcription factor. Development 133: 3085-3095   \nZhu E,You C,Wang S,Cui J, Niu B,Wang Y,Qi J,Ma H,Fang Chang F (2015）The DYT1-interacting proteins bHLHo1o,bHLHo89 and bHLHo91 are redundantly required for Arabidopsisanther development and transcriptome. Plant J 83: 976-990 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "SUPPORTING INFORMATION ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Additional supporting information may be found in the online version of thisarticle at the publisher's web-site. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Figure S1.A phylogenetic tree of DREB-A2 subfamily with several DREB-A6 genes as outgroup   \nBootstrap supports $( > 5 0 )$ obtained by RAxML are shown. Gene IDs of each species are shown in different colors.Black circles represent the common ancestor of rosids;blue stars stand for tandem duplications in Arabidopsis thaliana;red triangles indicate retained genes after two rounds of WGDs in theancestor of Brassicaceae.   \nFigure S2.A phylogenetic tree of DREB-A4 subfamily with several DREB-A1 genesas outgroup   \nBootstrap supports $( > 5 0 )$ obtained by RAxML are shown. Gray circles represent that the common ancestor of rosids contain fourteen ancestor DREB-A4 genes; black triangles indicate retained genes after two rounds of WGDs in early Brassicaceae. Figure S3.A phylogenetic tree of DREB-A5 subfamily with several DREB-A4 genes as outgroup   \nBootstrap supports $( > 5 0 )$ obtained by RAxML are shown Gray circles represent that the common ancestor of rosids contain ten ancestor DREB-A5 genes;black triangles indicate retained genes after two rounds of WGDs in early Brassicaceae. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Figure S4.A phylogenetic tree of DREB-A6 subfamily with several DREB-A2 genes as outgroup ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Bootstrap supports $( > 5 0 )$ obtained by RAxML are shown. Gray circles represent that the common ancestor of rosids at least contain five ancestor DREB-A6 genes; black triangles indicate retained genes after two rounds of WGDs in early Brassicaceae.   \nFigure S5.A phylogenetic tree of ERF-B1subfamily with several ERF-B6 genes as outgroup   \nBootstrap supports $( > 5 0 )$ obtained by RAxML are shown. Gray circles represent that the common ancestor of rosids at least contain fourteen ancestor ERF-B6 genes; black triangles indicate retained genes after two rounds of WGDs in early Brassicaceae.   \nFigure S6.A phylogenetic tree of ERF-B2 subfamily with several ERF-B6 genes as outgroup   \nBootstrap supports $( > 5 0 )$ obtained by RAxML are shown. Black circles represent that the common ancestor of rosids contain six ancestor ERF-B6 genes； red triangles indicate retained genes after two rounds of WGDs in early Brassicaceae.   \nFigure S7.A phylogenetic tree of ERF-B3 subfamily with several ERF-B6 genes as outgroup   \nBootstrap supports $( > 5 0 )$ obtained by RAxML are shown. Gray circles represent that the common ancestor of rosids at least contain six ancestor ERF-B6 genes； black triangles indicate retained genes after two rounds of WGDs in early Brassicaceae.   \nFigure S8.A phylogenetic tree of ERF-B4 subfamily with several ERF-B6 genes as outgroup   \nBootstrap supports $( > 5 0 )$ obtained by RAxML are shown. Gray circles represent that the common ancestor of rosids contain six ancestor ERF-B4 genes; black triangles indicate retained genes after two rounds of WGDs in early Brassicaceae.   \nFigure S9.A phylogenetic tree of ERF-B5 subfamily with several ERF-B6 genes as outgroup   \nBootstrap supports $( > 5 0 )$ obtained by RAxML are shown. Gray circles represent that the common ancestor of rosids at least contain nine ancestor ERF-B5 genes; black triangles indicate retained genes after two rounds of WGDs in early Brassicaceae.   \nFigure S1o.A phylogenetic tree of ERF-B6 subfamily with Several ERF-B5 genes as outgroup   \nBootstrap supports $( > 5 0 )$ obtained by RAxML are shown. Gray circles represent that the common ancestor of rosids at least contain thirteen ancestor ERF-B6 genes; black triangles indicate retained genes after two rounds of WGDs in early Brassicaceae.   \nFigure S11. A phylogenetic tree of RAV subfamily with several ERF genes as outgroup   \nBootstrap supports $( > 5 0 )$ obtained by RAxML are shown. Gray circles represent that the common ancestor of rosids contain five ancestor RAV genes; black triangles indicate retained genes after two rounds of WGDs in early Brassicaceae.   \nFigure S12.A phylogenetic tree of AP2 subfamily with several ERF genes as outgroup   \nBootstrap supports $( > 5 0 )$ obtained by RAxML are shown. Gray circles represent that the common ancestor of rosids contain ancestor AP2 genes; black triangles figure out retented genes after two rounds of WGDs in the ancestor of Brassicaceae.   \nFigure S13.Exon numbers of each AP2/EREBP subfamily genes in Arabidopsis lyrata and Carica papay   \nAll genes in AP2 subfamily contained multiple exons $( \\geq 6 )$ while most genes in RAV,DREB and ERF subfamilies have single exon or limited exons in both species. Figure S14.Auto-activation test of the AP2/EREBP proteins in yeast cells   \nBlue spots stand for severe autoacivation in yeast cells.Left part are Y2H results; right part are bait genes consistent with the left spots.   \nFigure S15.Auto-activation test of the TOE1 target proteins in yeast cells   \n(A) Schematic diagram of yeast colonies containing the prey proteins of TOE1 are shown in (B). (B) Yeast two-hybrid validation the interactions between TOE1-pery-proteins and pGBKT7 empty vector.   \nTable S1. Expression data for AP2 family members in wild type and mutant anthers   \nTable S2. Primers sequences used in this study ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

@@ -1,0 +1,626 @@
+[
+    {
+        "type": "text",
+        "text": "碳钢在模拟海洋工业大气环境中初期腐蚀行为研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郭明晓1,2潘 晨1\\*王振尧」韩 薇1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院金属研究所材料环境腐蚀研究中心沈阳1100162中国科学技术大学材料科学与工程学院沈阳110016",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要采用失重分析、X射线衍射分析、扫描电镜分析及电化学测试分析方法对Q235碳钢在模拟海洋工业大气环境中的初期腐蚀历程和机理开展深入研究，并着重探究了不同比例 $\\mathrm { S O } _ { 2 }$ 和CI的协同效应对碳钢初期腐蚀行为机制的影响。结果表明，Q235 碳钢在模拟海洋工业大气环境中的初期腐蚀呈现由加速过程向减速过程转化的特点，且加速过程的腐蚀动力学仍遵循幂函数规律 $\\scriptstyle { D = A t ^ { n } }$ ；腐蚀24h后，腐蚀产物呈现双层结构，即疏松的外层和相对致密的内层。 $\\mathrm { S O } _ { 2 }$ 和Cr的协同效应会加速碳钢的腐蚀，但二者比例的变化对碳钢腐蚀失重影响并不明显，也没有改变腐蚀产物成分，$\\mathrm { S O } _ { 2 }$ 促使碳钢腐蚀形态趋向于均匀腐蚀。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 碳钢，大气腐蚀，协同作用中图分类号 TG172.3文章编号 0412-1961(2017)00-0000-00",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Study on the Initial Corrosion Behavior of Carbon Steel Exposed to a Simulated Coastal-Industrial Atmosphere ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GUO Mingxiao 1.2, PAN Chen ', WANG Zhenyao 1, HAN Wei 1 1EnvironmentalCorosionResearchCenteraterials,stitutefetalResearch,ChineseAcademyofScences,henang6 China 2SchoolofMaterials Scienceand Engineering,UniversityofScienceandTechnologyofChina,Shenyang llool6,China Correspondent: PAN Chen, associate professor, Tel: (O24)23893544, E-mail: cpan $@$ imr.ac.cn Supported by National Natural Science Foundation of China (Nos.51671197, 51601199 and51401222) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Manuscript received 2017-04-20，in revised form 2017-06-20 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT Carbon steels as common structural material have been widely used for basic facilities with the development of the city.In these service environments,carbon steel would inevitably encounter the atmospheric corrosion.Especialy,the corrosionofcarbon steels exposed to coastal-industrial atmosphere is very outstanding. However,the initial corosion mechanismofcarbon steel subjected to coastal-industrial environment stillneed to be clarified,which would be vital for predicating the subsequent corrosion process In addition,although many scholars studied the synergism of $\\mathrm { S O } _ { 2 }$ and $\\mathrm { C l } ^ { - }$ ，which obviously accelerates the corrosion of steel and reduces its service life, there is few research about the effect of the synergism of $\\mathrm { S O } _ { 2 }$ and Cl (in different proportion) on the earlycorrosionbehaviorofthe carbon steel.Therefore,itis of great importance to investigate the initial corrosion mechanism of carbon steel and the effect of the synergism of $\\mathrm { S O } _ { 2 }$ and $\\mathrm { C l } ^ { - }$ (in different proportion） in the coastal-industrial atmosphere.In present work,the initial corrosion behavior of Q235 carbon steel exposed to a simulated coastal-industrial atmosphere has been studied by weight los,XRD,SEM and electrochemical measurements.Also,the effect of the synergism of $\\mathrm { S O } _ { 2 }$ and $\\mathrm { C l } ^ { - }$ (in different proportion） on the early corrosion behavior of Q235 carbon steel has been investigated.The results indicate that the initial corrosion behavior of carbon steel exposed to a simulated coastal-industrial atmosphere presented a transition from corrosion acceleration to deceleration,and the kinetics of accelerated corrosion process followed the empirical equation $\\scriptstyle { \\cal D } = A t ^ { n }$ Adouble-layered corrosion product was formed on the surface of carbon steel after $2 4 \\mathrm { ~ h ~ }$ : the loose outer layer and relative dense inner layer; the synergistic effect between $\\mathrm { S O } _ { 2 }$ and $\\mathrm { C l } ^ { - }$ accelerated the corrosion of carbon steel.However, the change in the ratio of $\\mathrm { S O } _ { 2 }$ and $\\mathrm { C l } ^ { - }$ had no significant effect on the corrosion loss of carbon steel, and had not changed the composition of corrosion products formed on carbon steel surface. $\\mathrm { S O } _ { 2 }$ caused the corrosion morphology of carbon steel to tend to uniform corrosion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS carbon steel,atmospheric corrosion, synergism ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "碳钢作为最常用的结构材料被广泛用于交通运输、资源环境、能源动力、建筑和农业等领域[1]。多数情况下，碳钢在服役环境中不可避免地直接与大气接触，发生大气腐蚀2]，因此有关碳钢的大气腐蚀研究一直以来颇受关注。王振尧等[3]对大气暴露下的碳钢腐蚀进行了实验研究，并对我国自然环境的气候条件和大气腐蚀性的概况进行了归纳分类，结果表明，不同地区气候不同，碳钢腐蚀速率存在显著差异。有研究[4-7表明，碳钢暴露在海洋工业大气中的腐蚀情况尤为突出。目前我国许多东南沿海城市受工业快速发展影响， $\\mathrm { S O } _ { 2 }$ 污染越来越严重，已发展为既含有CI又含有 $\\mathrm { S O } _ { 2 }$ 的海洋工业大气，由此，开展碳钢在海洋工业大气中的腐蚀行为研究十分必要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，对于钢在大气环境中的腐蚀研究主要侧重于长期腐蚀行为研究。Kucera等在瑞典及捷克做了8a 的暴露实验，结果表明，碳钢在含 $\\mathrm { S O } _ { 2 }$ 污染物、氯化物的腐蚀环境中，腐蚀速率可以用线性方程来描述，线性系数与 $\\mathrm { S O } _ { 2 }$ 沉积量相关。梁彩凤等在我国选取7个实验点对17种钢开展为期16a的暴露腐蚀实验，结果表明钢在长期大气环境中的腐蚀发展遵循幂函数规律。然而，针对碳钢在海洋工业大气环境中的初期腐蚀行为的研究却鲜有报道。由于碳钢在大气腐蚀初期形成的腐蚀产物因大气环境的差异呈现出不同的成分及结构，从而显著影响碳钢的后续腐蚀行为，因此，探究碳钢在初期阶段的腐蚀行为对于理解腐蚀机制至关重要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "另外， $\\mathrm { S O } _ { 2 }$ 和CI被公认是影响钢铁大气腐蚀的最重要的腐蚀性成分。蔡健平等[1]研究了氯化物、硫污染物对碳钢大气腐蚀的影响，结果表明，腐蚀初期存在着协同作用，但随着腐蚀的进行这种协同作用减弱。屈庆等[]探究了 $\\mathrm { \\Delta N a C l }$ 和低浓度的 $\\mathrm { S O } _ { 2 }$ 对 A3 钢大气腐蚀行为的影响,结果表明，由于 $\\mathrm { { N a C l } }$ 和低浓度的 $\\mathrm { S O } _ { 2 }$ 之间的协同作用，钢腐蚀失重远大于2者单独存在时引起的腐蚀失重。可见，在海洋工业大气腐蚀环境下，$\\mathrm { S O } _ { 2 }$ 和 CI的协同作用会显著加速钢的腐蚀破坏，降低其使用寿命[12-14]。然而， $\\mathrm { S O } _ { 2 }$ 与 CI的比例变化对碳钢初期腐蚀行为协同作用的影响机制尚不明确，需要进一步详细研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上，本工作通过实验室模拟加速方法，利用传统失重分析、扫描电镜、X 射线衍射(XRD)分析及电化学测试等研究方法对碳钢在模拟海洋工业大气环境中的初期腐蚀行为机制开展详细研究，并进一步探究不同比例 $\\mathrm { S O } _ { 2 }$ 与CI对碳钢初期腐蚀行为机制的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验材料为Q235钢，其化学成分(质量分数， $\\%$ 为： $\\mathrm { ~ C ~ } 0 . 1 8$ ，Si 0.25， $\\mathbf { M } \\mathbf { n } \\ : 0 . 5$ ，S 0.018，P0.016，Fe余量。用于失重分析和锈层分析的试样尺寸为 $5 0 \\mathrm { m m } { \\times } 2 5 \\mathrm { m m } { \\times } 2 . 5 \\mathrm { m m }$ 。实验前所有试样经丙酮超声机械清洗除油，再用酒精脱水后置于干燥器中待用， $2 4 \\mathrm { ~ h ~ }$ 后用精度为 $_ { 0 . 0 0 1 \\mathrm { ~ g ~ } }$ 的分析天平对失重分析试样进行称重、记录。用于电化学分析试样尺寸为 $1 0 \\mathrm { m m } { \\times } 1 0 \\mathrm { m m } { \\times } 2 . 5 \\mathrm { m m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2实验室加速模拟实验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用C4-180Pro型高低温湿热试验箱进行加速腐蚀实验。由于 ${ \\mathrm { H S O } } _ { 3 } { \\mathrm { . } }$ 更符合腐蚀过程中 $\\mathrm { S O } _ { 2 }$ 在液膜下的转化行为和特点，本实验采用 ${ \\mathrm { N a H S O } } _ { 3 }$ 和 $\\mathrm { { N a C l } }$ 来模拟大气中的 $\\mathrm { S O } _ { 2 }$ 和CI，构建实验室模拟加速实验方法。以 ${ \\mathrm { N a H S O } } _ { 3 }$ 和 $\\mathrm { \\Delta N a C l }$ 溶液为腐蚀介质，利用微注射器将腐蚀介质在试样表面均匀铺开，然后放入烘箱干燥，最后放入试验箱进行加速腐蚀实验。实验按照\"湿润/干燥\"交替的方法进行，每 $3 \\mathrm { h }$ 循环一次，其中湿润(相对湿度 $90 \\%$ 、温度 $3 0 ^ { \\circ } \\mathrm { C }$ ） $^ { \\textrm { 1 h } }$ ，干燥(相对湿度 $60 \\%$ 、温度 $3 0 ^ { \\circ } \\mathrm { C } ) 2 \\mathrm { h }$ ，每 $2 4 \\mathrm { h }$ 沉积盐一次。为了加深对 $\\mathrm { S O } _ { 2 }$ 和 CI协同效应的认识，同时有利于实现对不同腐蚀环境下碳钢腐蚀行为的控制，本工作还利用室内干湿交替循环加速腐蚀实验方法,在S和CI物质的量之和不变的前提下,通过调整腐蚀介质中 ${ \\mathrm { N a H S O } } _ { 3 }$ 和 $\\mathrm { \\Delta N a C l }$ 的比例，探究不同比例 $\\mathrm { S O } _ { 2 }$ 和CI对碳钢初期腐蚀行为机制的影响，并进一步揭示 $\\mathrm { S O } _ { 2 }$ 和CI的协同作用机制。根据上述干湿交替实验方法开展以下2组加速腐蚀实验：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）加速实验一，模拟海洋工业大气环境下碳钢初期腐蚀行为。将 $0 . 1 5 \\mathrm { \\ m o l / L \\ N a C l { + } 0 . 0 5 \\mathrm { \\ m o l / L \\ N a H S O _ { 3 } } }$ (试样表面沉积盐的量为 $1 0 \\ \\mu \\mathrm { L } / \\mathrm { c m } ^ { 2 }$ ，混合盐比例为3:1)作为腐蚀介质沉积在试样表面进行干湿循环交替腐蚀加速实验。实验周期分别为24、48、72、96和 $1 2 0 \\mathrm { ~ h ~ }$ 。每个周期取出3片平行试样用于失重分析、1片用于形貌分析以及4个电化学平行试样。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）加速实验二，不同比例 $\\mathrm { S O } _ { 2 }$ 与 CI协同效应对碳钢初期腐蚀机制的影响。将单一NaCl $( 0 . 2 \\mathrm { \\ m o l / L }$ NaCl)，单一 ${ \\mathrm { N a H S O } } _ { 3 }$ (0.2 mol/L $\\mathrm { N a H S O } _ { 3 } ;$ 以及不同比例的 $\\mathrm { \\Delta N a C l }$ 和 ${ \\mathrm { N a H S O } } _ { 3 }$ 混合盐(0.15mol/L $\\mathrm { N a C l } { + } 0 . 0 5$ mol/L ${ \\mathrm { N a H S O } } _ { 3 }$ ， $\\mathrm { 0 . 1 \\ m o l / L \\ N a C l + 0 . 1 \\ m o l / L \\ N a H S O _ { 3 } }$ ， $0 . 0 5 \\ \\mathrm { m o l / L \\ N a C l + 0 . 1 5 \\ m o l / L \\ N a H S O _ { 3 } } )$ ，即混合比例分别为3:1、1:1、1:3作为腐蚀介质沉积在试样表面进行干湿循环交替加速腐蚀实验，实验周期均为 $1 2 0 \\mathrm { h }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3腐蚀失重分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "样品采用 ${ 5 0 0 } \\mathrm { m L } \\mathrm { H C l }$ （ $3 8 \\%$ 浓盐酸) $+ 5 0 0 ~ \\mathrm { m L }$ 蒸馏水 $+ 2 0 \\ \\mathrm { g }$ 六次甲基四胺溶液除锈。除锈完毕后，用蒸馏水和酒精清洗试样，最后用吹风机吹干后放入干燥器中， $2 4 \\mathrm { h }$ 后进行称重(精确到 $_ { 0 . 0 0 1 \\ \\mathrm { g } ) }$ 。每个周期的失重数据取3个平行试样失重数据的平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4锈层成分分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将每个周期取出的用于锈层分析的 $5 0 \\ \\mathrm { m m } { \\times } 2 5 \\ \\mathrm { m m } { \\times } 2 . 5 \\ \\mathrm { m m }$ 试样用锯子切成 $1 0 \\mathrm { m m } { \\times } 1 0 \\mathrm { m m } { \\times } 2 . 5 \\mathrm { m m }$ 的小块，然后进行锈层成分分析。主要采用Rigaku-D/max-2500PC 型 XRD 进行物相分析，采用 $\\mathtt { C u }$ 靶，在$5 0 \\mathrm { K V - } 2 5 0 \\mathrm { m A }$ 条件下以 $2 ^ { \\circ } / \\mathrm { m i n }$ 的扫描速率对腐蚀产物进行定性分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5锈层形貌分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用ESEMXL30FEG型扫描电子显微镜(SEM)对腐蚀试样的表面形貌和截面形貌进行观察与分析。其中锈层截面分析试样用环氧树脂在室温下进行封装，固化后用砂纸从600号依次打磨至2000号，然后用W2.5研磨膏进行抛光，抛光后用酒精清洗并在吹风机下吹干。最后将样品放入SEM下观察。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6电化学分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "电化学测量采用PARSTAT2273电化学工作站进行测试，采用标准三电极体系，即采用饱和甘汞电极(SCE)作为参比电极，Pt 电极为辅助电极，腐蚀试样作为工作电极。实验结果中测定的电位均为相对于 SCE的电位。电解液为由分析纯试剂和蒸馏水配置而成的 $\\mathrm { 0 . 1 \\ m o l / L \\ N a _ { 2 } S O _ { 4 } }$ 溶液，实验温度为室温。动电位极化曲线的扫描速率为 $0 . 3 3 \\mathrm { \\ m V / s }$ 。由于测量开始时，工作电极的自腐蚀电位不稳定，所以在进行上述电化学测试前均要稳定到开路电位在 $1 \\mathrm { m i n }$ 内变化不超过 $1 \\mathrm { m V }$ 时再进行测量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2实验结果及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Q235碳钢在模拟海洋工业大气环境中的初期腐蚀机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1腐蚀动力学",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "失重测量法是最常用的大气腐蚀评价方法，通常用每单位表面积的失重或平均腐蚀深度来表示。钢的腐蚀深度可由下式求出：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = { W _ { \\mathrm { t } } } { \\times } { 1 0 ^ { 4 } } / { ( \\rho S ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $D$ 表示腐蚀深度， $\\mu \\mathrm { m }$ ; $W _ { \\mathrm { t } }$ 表示腐蚀失重，g； $\\rho$ 为低Q235 碳钢密度， $7 . 8 6 ~ \\mathrm { g / c m } ^ { 3 }$ ; $s$ 是试样的总面积， $\\mathrm { c m } ^ { 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据碳钢的腐蚀深度，可由下式计算得出平均腐蚀速率 $V _ { \\mathrm { a } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { a } = \\frac { D _ { m } - D _ { m - 1 } } { t _ { m } - t _ { m - 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathbf { \\Psi } _ { t }$ 为腐蚀时间，h； $m$ 表示取样周期(当 $m { = } 1$ 时，代表腐蚀 $2 4 \\mathrm { ~ h ~ }$ ，以此类推，当 $\\scriptstyle m = 2$ 、3、4、5时，腐蚀时间为48、72、96、120 h)。图1为碳钢在模拟海洋工业大气环境中平均腐蚀速率随腐蚀时间的变化趋势。可见，在整个腐蚀周期内，碳钢平均腐蚀速率先逐渐增加，在腐蚀 $9 6 \\mathrm { h }$ 时达到最大值，随后腐蚀速率显著下降。也就是说，Q235碳钢在该环境中的初期腐蚀过程分为2个阶段，即腐蚀加速过程和腐蚀减速过程。这种现象应该与碳钢表面腐蚀产物的演化过程密切相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1923176f7a71d9fceb21dfc8560064737e3a577c8a39a217683a7a07f4f12cd.jpg",
+        "img_caption": [
+            "图1Q235碳钢在模拟海洋工业大气环境中平均腐蚀速率随时间的变化 Fig.1 Average corrosion rate of Q235 carbon steel exposed to a simulated coastal-industrial atmosphere as a function of exposure time "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "传统观点认为，钢的长期大气腐蚀动力学发展规律遵从幂函数规律，如下式所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = A t ^ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $A$ 和 $n$ 是常数，其值与材料和腐蚀环境相关。为了验证该幂函数规律是否适用于碳钢在海洋工业大气环境中的腐蚀动力学发展规律，特别是初期腐蚀加速过程的动力学发展规律，利用该幂函数关系式对Q235 碳钢在模拟海洋工业大气环境下初期腐蚀加速阶段(前 $9 6 \\mathrm { h } )$ 的失重数据进行拟合，拟合结果见图2。相关系数 $R ^ { 2 }$ (0.9998)值接近于1，表明碳钢在模拟海洋工业大气环境中的初期腐蚀行为规律仍遵循幂函数发展规律。本实验中 $n { = } 1 . 3 9 9 8$ ，大于1，说明碳钢在腐蚀初期形成的锈层对基体不具有保护性，随着腐蚀周期(前 $9 6 \\mathrm { h } )$ 的延长，碳钢的腐蚀速率逐渐增大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/35eea05d0c320a63bfbe8129d1a7def1cf949a80b8e93d2f4e8cc92832528c5d.jpg",
+        "img_caption": [
+            "图2Q235碳钢在模拟海洋工业大气环境下的初期腐蚀失重随时间的变化 Fig.2 Thickness reduction of Q235 carbon steel exposed toasimulated coastal-industrial atmosphere asa function of exposure time "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2锈层成分",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3为Q235碳钢在模拟海洋工业大气环境下不同腐蚀周期试样表面形成腐蚀产物的XRD谱。可以看出，腐蚀 $2 4 \\mathrm { h }$ 后腐蚀产物主要有 $\\scriptstyle \\alpha - \\mathrm { F e O O H }$ 和 $\\gamma { \\mathrm { - F e O O H } }$ ，同时还检测出少量 $\\mathrm { F e S O } _ { 3 } { \\cdot } 2 . 5 \\mathrm { H } _ { 2 } \\mathrm { O }$ 。对于碳钢腐蚀初期过程，腐蚀产物主要为y-FeOOH，而 $\\mathrm { S O } _ { 2 }$ 的存在则促进了 $\\scriptstyle \\alpha \\mathrm { - F e O O H }$ 的优先生成[5。腐蚀至 $^ { 4 8 \\mathrm { ~ h ~ } }$ 时，腐蚀产物中开始出现 $\\beta$ -FeOOH, $\\beta \\mathrm { . }$ -FeOOH的形成与CI的存在和浓度有关。此时试样表面CI离子浓度达到临界浓度，为 $\\beta { \\mathrm { - F e O O H } }$ 的形成提供必要条件。 $\\beta { \\mathrm { - F e O O H } }$ 具有很强的还原活性，从而促进了腐蚀过程的进行[6。之后，随着腐蚀时间的延长，腐蚀产物成分及相对含量均不再发生明显变化。此外，在整个腐蚀过程中，始终可以检测到腐蚀产物 $\\mathrm { F e S O } _ { 3 } { \\cdot } 2 . 5 \\mathrm { H } _ { 2 } \\mathrm { O }$ 的存在。该硫酸亚铁盐增大了薄液膜的导电性，促进了试样表面电化学腐蚀反应的进行，同时根据酸的再生循环机制， $\\mathrm { F e S O } _ { 3 }$ 将被氧气氧化形成 $\\mathrm { F e S O _ { 4 } }$ ，随后 $\\mathrm { F e S O _ { 4 } }$ 水解氧化形成羟基氧化铁和游离的硫酸[17,18]，从而加速碳钢的大气腐蚀。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/72ff7b23693b10e1b6dc85d874f7ee840c4e5d3f57fb54907e168ada9e946ac1.jpg",
+        "img_caption": [
+            "图3Q235碳钢不同腐蚀时间内锈层成分的XRD谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 XRD pattrn for the scraped rust formed on Q235 carbon steel surface after different exposure time ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3锈层形貌分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "宏观上，随着暴晒时间延长，腐蚀产物颜色逐渐加深，由橙黄色依次向红褐色、棕褐色转变，腐蚀产物均匀分布在试样表面。图 $4 \\mathrm { a { \\sim } e }$ 为Q235碳钢在模拟海洋工业大气环境下不同腐蚀周期锈层表面微观形貌图。腐蚀最初 $2 4 \\mathrm { h }$ 时，有球状腐蚀产物形成，且腐蚀产物层很薄，导致腐蚀介质很容易接触基体，进而发生腐蚀[9(图4a)；腐蚀时间延长至 $4 8 \\mathrm { { h } }$ 时，试样表面腐蚀产物逐渐增多，但腐蚀产物中含有大量孔洞，不能有效阻止腐蚀性介质的侵入(图4b)；而后随腐蚀时间的延长，表面腐蚀产物致密性逐渐提高(图 4c\\~e)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/42af68a2b9772458d6aa5f5679bb1c0aea2a5878f4ccefd1a32ab8604b975535.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bd772326d7ef934c06f632f4fbc35a57daaf2520f230e88d6c0357e5475a6ab.jpg",
+        "img_caption": [
+            "图4Q235碳钢锈层在不同腐蚀时间的表面形貌"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Surface morphologies of Q235 carbon steel exposed to a simulated coastal-industrial atmosphere for $2 4 \\mathrm { h }$ (a), $4 8 \\mathrm { { h } }$ (b), $7 2 \\mathrm { { h } }$ (c),96 h (d) and $1 2 0 \\mathrm { h }$ (e) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图 5a\\~e为Q235碳钢在模拟海洋工业大气环境下不同腐蚀周期锈层截面微观形貌图。腐蚀最初 $2 4 \\mathrm { ~ h ~ }$ 时，锈层较薄且比较疏松，有许多横向和纵向的裂纹，对 $\\mathbf { O } _ { 2 }$ 和侵蚀性介质无抑制作用，腐蚀产物对钢基体的保护作用很小。腐蚀至 $7 2 \\mathrm { { h } }$ 时，腐蚀产物出现明显的分层现象，即疏松、有大量孔洞的外锈层和有裂纹但相对致密的内锈层[20.21]，但是内锈层和外锈层之间的界限并不明显。随腐蚀时间的延长，内、外锈层厚度逐渐增加且致密性逐渐增强，腐蚀至 $1 2 0 \\mathrm { ~ h ~ }$ 时，内层腐蚀产物致密且无裂纹，能有效地阻止氧气和腐蚀性介质的渗透，此时碳钢的腐蚀速率开始下降。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/49d6988b770ed99ede9f84c66cd99dd120f93276085b91b958a39a13fcf9b9a6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cec412f2bf9cfa406b6c0ff45e490dba86bc6953b0e3c33377f49e1c3c67aa3.jpg",
+        "img_caption": [
+            "图5Q235碳钢锈层在不同腐蚀时间的截面形貌"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 Cross-sectional morphologies of Q235 carbon steel exposed toa simulated coastal-industrial atmosphere for （204号 $2 4 \\mathrm { h }$ (a), $4 8 \\mathrm { { h } }$ (b), $7 2 \\mathrm { { h } }$ (c）, $9 6 \\mathrm { h }$ (d) and $1 2 0 \\mathrm { h }$ (e) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.4电化学分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图6和7分别为碳钢不同腐蚀周期带锈试样与空白试样在 $\\mathrm { 0 . 1 \\ m o l / L N a _ { 2 } S O _ { 4 } }$ 溶液中的动电位极化曲线以及拟合得到的腐蚀电流密度。由图可知，空白试样的阴极过程受溶解氧极限扩散控制，带锈试样阴极电流密度显著大于空白试样，主要与带锈试样阴极腐蚀产物的还原有关。腐蚀 $2 4 { \\sim } 7 2 \\textrm { h }$ ，带锈试样阴极电流密度逐渐增大，表明腐蚀产物的还原反应逐渐成为主要阴极过程。腐蚀 $9 6 \\mathrm { ~ h ~ }$ 后，阴极电流密度变化不大，表明阴极还原过程逐渐趋于稳定。带锈试样阴极过程稳定化可能与腐蚀产物中 $\\gamma { \\mathrm { - } } \\mathrm { F e O O H }$ 相对含量的稳定化有关[22]。对于阳极过程，带锈试样的阳极反应除碳钢基体溶解反应外，还有腐蚀产物 $\\mathrm { F e S O } _ { 3 }$ 的氧化反应,表现为带锈试样的阳极电流密度均大于空白试样。但值得注意的是，随腐蚀时间延长，带锈试样的阳极电流密度逐渐减低，说明阳极反应过程逐渐被抑制。曲线拟合得到的腐蚀电流密度如图7所示。腐蚀 $2 4 { \\sim } 7 2 \\mathrm { h }$ 时，带锈试样的腐蚀电流密度显著增大；而腐蚀 $^ { 7 2 \\mathrm { { h } } }$ 后，带锈试样的腐蚀电流密度增速变小，变化趋于稳定。该结果和失重曲线得到的腐蚀速率结果是相符的。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ff9ddc8a132267de7447bfc9a3c6f2e8c002a19f6c01c2b245c4f4e4538d4b7.jpg",
+        "img_caption": [
+            "图6Q235碳钢不同腐蚀时间的动电位极化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 Potentiodynamic polarization curves of Q235 carbon steel with different exposure time ( $E$ —potential i—current density) ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/dafa0d73eed61e60f0b931d800da2cb818c9de867a4f9ab99185138b81051b30.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 Corrosion current density ${ \\bf \\xi } _ { i _ { c o r r } } )$ of corroded Q235 carbon steel as a function of exposure time ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.1.5初期腐蚀演化过程分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在模拟海洋工业大气环境中，Q235 碳钢在薄液膜下发生基体阳极溶解和溶解氧阴极还原的腐蚀过程，从而形成 $\\mathrm { F e ( O H ) } _ { 2 }$ 的水解产物层，随后干燥过程中 $\\mathrm { F e ( O H ) } _ { 2 }$ 受空气氧化而形成大量Fe的二价和三价氧化物和氢氧化物，部分氧化物转化为 $\\gamma { \\mathrm { - F e O O H } }$ 和 $\\scriptstyle \\alpha \\mathrm { - F e O O H }$ ，其中 $\\mathrm { S O } _ { 2 }$ 的存在促进了 $\\scriptstyle \\alpha \\mathrm { - F e O O H }$ 的优先生成。腐蚀至 $^ { 4 8 \\mathrm { ~ h ~ } }$ 时，由于CI浓度达到临界浓度，为 $\\beta { \\mathrm { - F e O O H } }$ 的形成提供必要条件，此时腐蚀产物中开始出现$\\beta { \\mathrm { - F e O O H } }$ 。模拟环境中的 ${ \\mathrm { H S O } } _ { 3 } { \\mathrm { . } }$ 使样品表面薄液膜呈酸性，从而发生均匀的化学溶解反应[23]，在Q235 碳钢表面逐渐形成 $\\mathrm { F e S O } _ { 3 } { \\cdot } 2 . 5 \\mathrm { H } _ { 2 } \\mathrm { O }$ 。腐蚀初期，锈层较薄，且外锈层疏松，内锈层多裂纹(图5)，这样的腐蚀产物不但不能有效阻挡腐蚀介质的侵蚀，反而能延长腐蚀介质在碳钢表面停留的时间，即延长表面润湿时间，促进腐蚀快速发展，表现为腐蚀速率逐渐增加。直至腐蚀 $1 2 0 \\mathrm { ~ h ~ }$ 时，内、外锈层厚度增加，致密性增强，裂纹减少，腐蚀产物能够有效阻挡 $\\mathbf { O } _ { 2 }$ 和腐蚀介质的侵入，为基体提供一定保护，表现为腐蚀速率开始下降。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2不同比例 $\\mathrm { S O } _ { 2 }$ 和CI对初期腐蚀机制的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.1腐蚀失重分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图8为Q235碳钢在不同腐蚀介质中腐蚀 $1 2 0 \\mathrm { h }$ 后的腐蚀深度对比图。可见，碳钢在 $\\mathrm { S O } _ { 2 }$ 和CI混合腐蚀介质环境中的腐蚀失重明显大于单一腐蚀介质环境，说明腐蚀过程中 $\\mathrm { S O } _ { 2 }$ 和 CI之间存在协同效应，加速了碳钢的腐蚀[24-27]。腐蚀介质对 Q235 碳钢的腐蚀影响为： $\\mathrm { N a H S O _ { 3 } + N a C l > N a H S O _ { 3 } > N a C l }$ 。其中，当$_ { \\mathrm { N a C l : N a H S O _ { 3 } } }$ 比例为1:1时碳钢的腐蚀失重达到极大值。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CI是自然污染物，多存在于海洋大气中。由于体积小， $\\mathrm { C l } ^ { - }$ 可以穿过锈层到达基体表面促进腐蚀反应，且在反应过程中不被消耗起到催化剂的作用[28.29]。同时，CI的存在增加了薄液膜的导电性，促进了腐蚀微电池的作用。CI的存在还会导致Fe基体吸附的 $\\mathrm { F e ( O H ) } _ { 2 }$ 发生部分溶解：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F e } _ { s } [ \\mathrm { F e ( O H ) } _ { 2 } ] + \\mathrm { C l } ^ { - } + \\mathrm { a d s }  \\mathrm { F e } _ { s } [ \\mathrm { F e ( O H ) } _ { 2 } \\mathrm { C l } ] _ { \\mathrm { a d s } } + \\mathrm { e }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F e } _ { \\mathrm { s } } [ \\mathrm { F e ( O H ) } _ { 2 } \\mathrm { C l } ] _ { \\mathrm { { a d s } } } \\Leftrightarrow ( \\mathrm { F e O H ) } _ { \\mathrm { { a d s } } } + \\mathrm { F e O H } ^ { + } + \\mathrm { C l } ^ { - }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "上述作用可能会使原本较为致密的腐蚀产物发生局部溶解而出现疏松的外锈层及微细裂纹(图 5)， $\\mathbf { O } _ { 2 }$ 和腐蚀介质通过裂纹传输到基体表面，促使腐蚀继续发生。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { S O } _ { 2 }$ 是被公认的大气中腐蚀性最强的气体。本实验中 ${ \\mathrm { H S O } } _ { 3 } ^ { - }$ 与基体反应生成 $\\mathrm { F e S O } _ { 3 }$ ，而 $\\mathrm { F e S O } _ { 3 }$ 会被逐渐氧化成 $\\mathrm { F e S O _ { 4 } }$ ，然后 $\\mathrm { F e S O _ { 4 } }$ 水解氧化形成羟基氧化物和游离的硫酸：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n4 \\mathrm { F e S O } _ { 4 } + \\mathrm { O } _ { 2 } + 6 \\mathrm { H } _ { 2 } \\mathrm { O }  4 \\mathrm { F e O O H } + 4 \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ 又加速Fe的腐蚀：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n4 \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } + 2 \\mathrm { O } _ { 2 } + 4 \\mathrm { F e }  4 \\mathrm { F e } \\mathrm { S O } _ { 4 } + 4 \\mathrm { H } _ { 2 } \\mathrm { O }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "新生成的 $\\mathrm { F e S O _ { 4 } }$ 再水解为游离酸，如此循环往复，这样一分子的 $\\mathrm { S O } _ { 2 }$ 可以生成许多分子的铁锈[30-32],且循环过程中产生的游离酸会溶解锈层中不稳定的腐蚀产物，为 $\\mathbf { O } _ { 2 }$ 和腐蚀性介质的侵入提供通道，进一步加速腐蚀。腐蚀产物的局部溶解与酸的再生循环作用产生的协同效应使Q235碳钢在混合腐蚀介质中的腐蚀失重明显高于在单一腐蚀介质中的腐蚀失重。然而，这种协同效应并非随着腐蚀介质中 $\\mathrm { S O } _ { 2 }$ 浓度的升高而持续增强，而是当 $\\mathrm { C l } ^ { \\cdot }$ 和 $\\mathrm { S O } _ { 2 }$ 的比例为1:1时碳钢的腐蚀失重达到最大值。这是由于随着 $\\mathrm { S O } _ { 2 }$ 浓度的升高，酸的再生循环过程中生成的 ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ 增多，锈层更容易被破坏，从而腐蚀加速。然而，当 $\\mathrm { S O } _ { 2 }$ 浓度继续升高至某临界值时， $\\mathrm { S O } _ { 2 }$ 会显著促进腐蚀产物 $\\scriptstyle \\alpha - \\mathrm { F e O O H }$ 的形成。 $\\scriptstyle \\alpha - \\mathrm { F e O O H }$ 是一种稳定的腐蚀产物，具有良好的连续性和致密性，可对基体提供良好的保护作用，表现为碳钢的腐蚀失重有所下降。但是，腐蚀介质中 $\\mathrm { S O } _ { 2 }$ 和CI的比例变化对碳钢腐蚀失重的影响并不显著，说明 $\\mathrm { S O } _ { 2 }$ 和CI的比例变化对协同作用的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "并不明显。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f3c524a311fa507ac408f9298c37766c3e5c33f391aed6c58483c13901b2cd1.jpg",
+        "img_caption": [
+            "图8Q235碳钢在不同腐蚀介质中腐蚀 $1 2 0 \\mathrm { h }$ 后的腐蚀深度 Fig.8 Thickness loss of Q235 carbon steel exposed to different corrosive medium for $1 2 0 \\mathrm { h }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2.2腐蚀产物成分分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图9给出了Q235碳钢在单一 $\\mathrm { \\Delta N a C l }$ 、 ${ \\mathrm { N a H S O } } _ { 3 }$ 腐蚀介质和不同比例NaCl和 ${ \\mathrm { N a H S O } } _ { 3 }$ 腐蚀介质中腐蚀$^ { 1 2 0 \\mathrm { ~ h ~ } }$ 后的 XRD 谱。可见，不同比例混合介质中形成的腐蚀产物主要有 $\\scriptstyle a$ -FeOOH、 $\\beta \\mathrm { . }$ -FeOOH、 $\\gamma$ -FeOOH和 $\\mathrm { F e S O } _ { 3 } { \\cdot } 2 . 5 \\mathrm { H } _ { 2 } \\mathrm { O }$ ，说明腐蚀介质中 $\\mathrm { S O } _ { 2 }$ 与CI的比例变化并没有改变碳钢表面形成的腐蚀产物成分，但随着 $\\mathrm { \\Delta N a C l }$ 比例逐渐降低，腐蚀产物中 $\\beta { \\mathrm { - F e O O H } }$ 的相对含量明显减少，而 $\\scriptstyle \\alpha \\mathrm { - F e O O H }$ 的相对含量逐渐增加。$\\beta { \\mathrm { - F e O O H } }$ 和 $\\mathrm { F e S O } _ { 3 } { \\cdot } 2 . 5 \\mathrm { H } _ { 2 } \\mathrm { O }$ 的同时存在促进了腐蚀过程的进行，表现为碳钢在混合腐蚀介质中的腐蚀失重显著高于单一腐蚀介质。Q235碳钢在单一NaCl 腐蚀环境中，腐蚀产物含有大量的 $\\beta { \\mathrm { - F e O O H } }$ 和少量的$\\gamma { \\mathrm { - } } \\mathrm { F e O O H }$ ，原因在于高浓度CI的存在促进了 $\\beta { \\mathrm { - F e O O H } }$ 的形成；而在单一 ${ \\mathrm { N a H S O } } _ { 3 }$ 环境中腐蚀时，腐蚀产物含有大量的 $\\boldsymbol { a }$ -FeOOH跟少量的 $\\gamma$ -FeOOH，可见 $\\scriptstyle a$ -FeOOH优先在含有 $\\mathrm { S O } _ { 2 }$ 的环境中生成[15]。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf222606261175efc2607107ba3f9171ad2c4f40396f9ca0ebc57fd5bf2faf1e.jpg",
+        "img_caption": [
+            "图9Q235 碳钢在不同腐蚀介质中腐蚀后的XRD 谱 Fig.9 XRD pattern for the sraped rust formed on Q235 carbon steel exposed to different corrosive medium for $1 2 0 \\mathrm { h }$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) the mixed corrosive medium(b) the single corrosive medium ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2.3腐蚀产物形貌分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图 $1 0 \\mathrm { a } \\mathrm { \\sim } \\mathrm { e }$ 为碳钢在不同腐蚀介质中腐蚀 $1 2 0 \\mathrm { ~ h ~ }$ 后的截面形貌图。由图可见，当Q235碳钢在单一NaCl存在的环境中腐蚀时，锈层薄，但有较大的局部腐蚀坑存在，这是由于 NaCl引发点蚀造成的；当Q235碳钢在单一 ${ \\mathrm { N a H S O } } _ { 3 }$ 存在的环境中腐蚀时，锈层同样很薄，但相比较单一NaCl环境没有明显的局部腐蚀发生。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "当Q235 碳钢在NaCl和 ${ \\mathrm { N a H S O } } _ { 3 }$ 同时存在的环境中腐蚀时，形成的腐蚀产物厚度明显高于单一腐蚀介质，表明Q235碳钢在 $\\mathrm { \\Delta N a C l }$ 和 ${ \\mathrm { N a H S O } } _ { 3 }$ 混合腐蚀介质中的腐蚀速率较快，该结果与失重结果一致。值得注意的是，Q235 碳钢在混合比例为3:1的 $\\mathrm { \\Delta N a C l }$ 和 ${ \\mathrm { N a H S O } } _ { 3 }$ 腐蚀介质环境中得到的腐蚀产物层为双层结构，即疏松、有孔洞的外层结构和相对致密的内层结构[2.21，而在其它混合比例的腐蚀环境中没有明显观察到这种腐蚀产物分层现象。由于CI的存在会导致碳钢表面形成的腐蚀产物发生局部溶解，CI浓度越高，腐蚀产物局部溶解越严重，从而导致腐蚀产物出现疏松的外层结构，由此，可以推断碳钢表面腐蚀产物的分层现象与腐蚀介质中CI浓度有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a57a0feed6c1ee087ec57ece681e6c31c5ce1590100bab2f5e536af1e81cbc29.jpg",
+        "img_caption": [
+            "图10Q235碳钢在不同腐蚀介质腐蚀 $1 2 0 \\mathrm { h }$ 后的截面形貌"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.10 Cross-sectional morphologies of Q235 carbon steel exposed to different corrosive medium for $1 2 0 \\mathrm { h }$ (a) NaCl(b) $\\mathrm { N a C l } { \\cdot } \\mathrm { N a H S O } _ { 3 } { = } 3 { \\cdot } 1$ (c） $\\mathrm { N a C l } { \\cdot } \\mathrm { N a H S O } _ { 3 } { = } 1 { \\cdot } 1$ (d) $\\mathrm { N a C l } { \\cdot } \\mathrm { N a H S O } _ { 3 } { = } 1 { \\cdot } 3$ (e) ${ \\mathrm { N a H S O } } _ { 3 }$ （204 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图11a\\~e为Q235碳钢在不同腐蚀介质中腐蚀 $1 2 0 \\mathrm { h }$ 后去除腐蚀产物后的表面形貌图。由图可知，当碳钢在单一NaCl中腐蚀时，去除腐蚀产物后的试样表面呈现出非典型的局部腐蚀特征，腐蚀坑大而少，这是由NaCl引起的腐蚀(图11a)；当碳钢在NaCl和 ${ \\mathrm { N a H S O } } _ { 3 }$ 混合介质中腐蚀时，去除腐蚀产物后可以看到，试样表面的腐蚀坑小而多，且随着混合腐蚀介质中 ${ \\mathrm { N a H S O } } _ { 3 }$ 的比例增大，表面的腐蚀坑变得更加小而密(图11b\\~d)；当碳钢在单一 ${ \\mathrm { N a H S O } } _ { 3 }$ 中腐蚀时，试样表面呈现自身均匀腐蚀特征(图11e)。以上分析表明，碳钢在 $\\mathrm { S O } _ { 2 }$ 和CI共同存在的环境中腐蚀时， $\\mathrm { S O } _ { 2 }$ 促使碳钢腐蚀形态趋向于均匀腐蚀。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1fed17d3216994b7d8c434f26368813f796de0e16cafd9f12e95ea102e5c7b9.jpg",
+        "img_caption": [
+            "图11Q235碳钢在不同腐蚀介质中腐蚀 $1 2 0 \\mathrm { h }$ 后去除腐蚀产物后的表面形貌 Fig.11 Morphologies of Q235 carbon steel exposed to different corrosive medium after removing corrosion products for $1 2 0 \\mathrm { h }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) NaCl(b) $\\mathrm { N a C l } { \\cdot } \\mathrm { N a H S O } _ { 3 } { = } 3 { \\cdot } 1$ （204号 (c） $\\mathrm { N a C l } { \\cdot } \\mathrm { N a H S O } _ { 3 } { = } 1 { \\cdot } 1$ (d) NaCl:NaHSO $_ { 3 } { = } 1 { : } 3$ （204 (e) ${ \\mathrm { N a H S O } } _ { 3 }$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2.4电化学分析",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图12为Q235碳钢在不同腐蚀介质中腐蚀 $1 2 0 \\mathrm { ~ h ~ }$ 后的动电位极化曲线图。由图可见，当Q235碳钢在单一 ${ \\mathrm { N a H S O } } _ { 3 }$ 中腐蚀时的阴极电流密度明显小于在单一 $\\mathrm { \\Delta N a C l }$ 中腐蚀的阴极电流密度。分析其原因是：在单一 $\\mathrm { \\Delta N a C l }$ 中腐蚀时，腐蚀产物主要是 $\\beta { \\mathrm { - F e O O H } }$ ，而在 ${ \\mathrm { N a H S O } } _ { 3 }$ 中腐蚀时，腐蚀产物主要是 $\\scriptstyle a$ -FeOOH。$\\scriptstyle \\alpha - \\mathrm { F e O O H }$ 的还原性小于 $\\beta$ -FeOOH，所以在单一NaCl中腐蚀时，腐蚀产物 $\\beta \\mathrm { . }$ -FeOOH的还原更加活跃，表现为阴极电流密度更大。虽然碳钢在单一 ${ \\mathrm { N a H S O } } _ { 3 }$ 中腐蚀时，阴极过程受到了一定抑制，但其阳极过程得到了明显地促进，这是由于碳钢在单一 ${ \\mathrm { N a H S O } } _ { 3 }$ 环境中的腐蚀产物含有 $\\mathrm { F e S O } _ { 3 }$ ，也就是说阳极反应过程除碳钢基体溶解反应外，还有腐蚀产物 $\\mathrm { F e S O } _ { 3 }$ 的氧化反应，因此阳极电流密度显著高于碳钢在单一NaC1中腐蚀的阳极电流密度。根据动电位极化曲线结果拟合得到了Q235碳钢在不同腐蚀介质中腐蚀 $1 2 0 \\mathrm { ~ h ~ }$ 后带锈试样的腐蚀电流密度(图13)。可见，Q235 碳钢在不同NaCl与 ${ \\mathrm { N a H S O } } _ { 3 }$ 混合介质环境中的腐蚀电流密度相当，但明显大于它在单一NaC1和单一 ${ \\mathrm { N a H S O } } _ { 3 }$ 中的腐蚀电流密度；碳钢在单一 ${ \\mathrm { N a H S O } } _ { 3 }$ 环境中的腐蚀电流密度大于在单一NaCI中的腐蚀电流密度。该结果与腐蚀失重结果一致。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfa59820abc8fe19c2f95535cc6fc58ec100b0789ef41fdd818854eb4c831946.jpg",
+        "img_caption": [
+            "图12Q235碳钢在不同腐蚀介质中腐蚀 $1 2 0 \\mathrm { h }$ 后的极化曲线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.12 Potentiodynamic polarization curves of Q235 carbon steel exposed to different corrosive medium for $1 2 0 \\mathrm { h }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b87bbe9e3e1e9a25d59d483960cad9fdcde989aeef7766ff9a80d502c5ed387.jpg",
+        "img_caption": [
+            "图13Q235碳钢在不同腐蚀介质中腐蚀 $1 2 0 \\mathrm { h }$ 后的腐蚀电流密度 Fig.13 Corrosion current density $( i _ { c o r r } )$ of Q235 carbon steel exposed to different corrosive medium for $1 2 0 \\mathrm { h }$ （204 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1)Q235 碳钢在模拟海洋工业大气环境中的初期腐蚀速率呈先增大后减小的变化趋势，腐蚀加速过程的动力学仍遵循幂函数公式 $\\scriptstyle { D = A t ^ { n } }$ 。(2）腐蚀产物 $\\beta$ -FeOOH和 $\\mathrm { F e S O } _ { 3 }$ 的存在促进了碳钢腐蚀速度的增加。腐蚀 $2 4 \\mathrm { ~ h ~ }$ 后，腐蚀产物出现疏松的外层和相对致密的内层结构，腐蚀产物分层现象可能与腐蚀介质中CI浓度有关。(3）腐蚀初期， $\\mathrm { S O } _ { 2 }$ 与CI的协同效应加速了碳钢的腐蚀，但腐蚀介质中 $\\mathrm { S O } _ { 2 }$ 与CI的比例变化对腐蚀失重影响并不明显且没有改变碳钢表面形成的腐蚀产物成分， $\\mathrm { S O } _ { 2 }$ 促使碳钢腐蚀形态趋向于均匀腐蚀。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]Yu QC,Wang ZY,Wang C.Corrosion behaviors of low alloy steel and carbon steel deposited with NaCl and ${ \\mathrm { N a H S O } } _ { 3 }$ under dry/humid alternative condition [J].Acta Metall. Sin.,2O1o,46:1133 (于全成，王振尧，汪 川.表面沉积 NaCl 和 ${ \\mathrm { N a H S O } } _ { 3 }$ 的低合金钢和碳钢在干湿交替条件下的腐蚀行为[J]．金属学报, 2010, 46: 1133)   \n[2]LeygrafC,GraedelT.translatedbyHanEH,etal.Atmospheric Corrosion[M].Beijing:Chemical IndustryPres,2005:121 (Leygraf C,GraedelT著，韩恩厚等译．大气腐蚀 [M]．北京：化学工业出版社,2005:121)   \n[3]Wang ZY,YuGC,HanW.Asurveyofteatmospericcoosivenessofnaturalenvironments inhina[J].Coos.Prot,03, 24(8): 323 (王振尧，于国才，韩 薇.我国自然环境大气腐蚀性调查[J]．腐蚀与防护,2003,24(8):323)   \n[4]Wang S,Yang S,Gao K,et al.Corrosion behaviorandcorosion productsof alow-alloy weathering steel in Qingdaoand Wanning [J]. Int. J. Miner, Metall. Mater.,2009,16(1): 58   \n[5]WaY,YanCWCaoCN.AtmoshericorosionfA3steldepositedwithdierentsalts[J].Actay.ChiS04,: 659 (万 晔，严川伟，曹楚南．可溶盐沉积对碳钢大气腐蚀的影响 [J].物理化学学报,2004,20:659)   \n[6]MaY,Li,WangFCorrosiooflowarbonstelinmospericoentsofdierentclorideotent[J].oosci, 2009, 51:997   \n[7]Wang ZY, Yuan QC,Wang C,et al. Corrosion behaviors of steels in marine atmospheric environment with $\\mathrm { S O } _ { 2 }$ pollution [J].Sci. Bull, 2012, 57: 2991 (王振尧，于全成，汪 川等．在含硫污染的海洋大气环境中核电用钢的腐蚀行为[J].科学通报,2012,57:2991)   \n[8]Kucera V,KotkoaD,ullmanJ,etal.Corrosionoftructuralmetalsinmospheres withdirentcoosivitytyar's exposure in Sweden and Czechoslovakia [J]. Key Eng. Mater.,1991,20: 167   \n[9]LiangCF,Hou WT.Sixtee-Yearatmosphericcorosionexposure studyof tels[J].J.Chin.Soc.Corros.Prot.,205,25:1 (梁彩凤，侯文泰．碳钢，低合金钢16年大气暴露腐蚀研究 [J].中国腐蚀与防护学报,2005,25:1)   \n[10] Cai JP,Zheng YP,LiuSR.Synergisticeffectofchlorideandsulphur-bearingpolltant inatmosphericcorrosionofmildsteel [J]. J. Chin. Soc. Corros.Prot., 2009,16: 303 (蔡健平，郑逸苹，刘寿荣．氯化物,硫污染物对碳钢大气腐蚀的协同作用 [J].中国腐蚀与防护学报,2009,16:303)   \n[11] Qu Q, Yan C W, Zhang L, et al. Synergism of NaCl and $\\mathrm { S O } _ { 2 }$ in the initial atmospheric corrosion of A3 steel [J]. Acta Metall. Sin.. 2002,38: 1062 （屈庆，严川伟，张 蕾等.NaCl和 $\\mathrm { S O } _ { 2 }$ 在 A钢初期大气腐蚀中的协同效应[J].金属学报,2002,38:1062)   \n[12] NishimuraT,Katayama H,NodaK,etal.Electrochemicalbehaviorofrustformedoncarbonstelinawet/dryeviroment containing chloride ions [J]. Corrosion, 20oo,56: 935   \n[13]Lyo SB,Thompson GE,JohnsonJB,etal.Acceleratedatmosphericcorrosion testingusingacyclic wet/dryexposuretest: aluminum, galvanized steel, and steel [J]. Corrosion,1987,43: 719   \n[14]DunDS,gartM,rosiaCS,etalCorrosioofroudealteatingwetaddryitios[J].Coosio,6: 470   \n[15]YamashitaM,KonishiH,KozakuraT,etal.Insituobservationof initialustformationprocessoncarbonsteeluder $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ and NaCl solution films with wet/dry cycles using synchrotron radiation X-rays [J]. Corros.Sci.,2Oo5,47: 2492   \n[16]AntonyH,PerrinS,DillmanPetal.Electrchemicalsudyofidooratmosphricoosionlyersfoedoncition artefacts [J]. Electrochim. Acta,2007,52: 7754   \n[17] HaoL,Zhang S,Dong J,etal.Rusting evolutionofMnCuPweatheringstelsubmitedtosimulated industrialatmospheric corrosion [J]. Metall. Mater. Trans.,2012, 43A: 1724   \n[18]Hao L.Rusting Evolution and Anti-corrosion Mechanismof MnCu-P/Mo Weathering Stels [D]. Shenyang: Instituteof Metal Research,2011 (郝龙.MnCu-P/Mo 耐候钢的锈蚀演化规律与耐蚀机理 [D].沈阳：中科院金属研究所,2011)   \n[19]Li QX,Wang ZYHan W,etalAnalysisonthecoosionrustofcarbonstelexposedtoSaltLakareafor25months[J].Acta Phys. Chim. Sin.,2008,24: 1459 (李巧霞，王振尧，韩 薇等．盐湖地区暴露 25个月的碳钢表面锈层分析 [J].物理化学学报,2008,24:1459)   \n[20]TianZQ,WangCBKngXD,etal.EfetofustlaeroncorrosioresistanceofhullsteelJ].Equip.Envrong,, 09(3): 66 (田志强，王崇碧，孔小东等．锈层对船体钢耐腐蚀性能影响研究[J]．装备环境工程,2012,09(3):66)   \n[21]BaiYG,TianN,LiuC,etal.StdyoteweaterresistacendcooionprocssofCuEseel[J].J.teeal, 2003,2(1): 63 (白玉光，田 妮，刘春明等.09CuPTiRE 钢耐候性能及腐蚀过程研究 [J].材料与冶金学报,2003,2(1):63)   \n[22]HaoL,ZhangS,DongJ,etal.Astudyof theevolutionofrustonMo-Cu-bearingfire-resistantstelsubmittdtosimulated atmospheric corrosion [J]. Corros. Sci.,2012,54(1): 244   \n[23]SvensonJE,JohanssonLGAlaboratorystudyoftheinitialstagesof theatmosphericcorrosionofzincinthepresenceof NaCl - Influence of $\\mathrm { S O } _ { 2 }$ and $\\mathbf { N O } _ { 2 }$ [J]. Corros. Sci., 1993,24(34): 721   \n[24]XiaoK,DongCF,LiXG,etal.EffctofdepositionofNaClontheinitialatmospericcorosionofQ235[J].J.Chn.Soc. Corros. Prot.,2009,26: 26 (肖 葵，董超芳，李晓刚等. $\\mathrm { { N a C l } }$ 颗粒沉积对Q235 钢早期大气腐蚀的影响 [J]．中国腐蚀与防护学报,2009,26:26)   \n[25]Zhang XY,CaiJP,MaY,etal.Analysisonatmosphericcorrosionofweatheringandcarbonstels[J].Corros.ciro Technol.,2004,16: 389 (张晓云，蔡健平，马颐军等．耐候钢和碳钢大气腐蚀规律分析 [J]．腐蚀科学与防护技术,2004,16:389)   \n[26]MendozaAR,CorvoF.Outdoorand indoor atmospheric corrosionof carbon steel[J]. Corros.Sci.,1999,41(1):75   \n[27]Singh DDN,YdavS,SahaJK.Roleoflimaticconditionsoncorrosioncharacteristicsofstructuralstels[J].Coros.ci, 2008,50(1): 93   \n[28] Dawson JL,Ferreira M G S. Crevice corrosion on 316 stainless steel in $3 \\%$ sodium chloride solution [J]. Corros. Sci.,1986,26: 1009   \n[29] WeisenriederJ,LeygrafC.Insitustudiesoffiliformcorosionof iron[J].J.Electrochem.Soc.,2O4,51:B165   \n[30] Wang JH,Wei FI,Chang Y S,et al.The corrosion mechanisms of carbon steel and weathering steel in $\\mathrm { S O } _ { 2 }$ polluted atmospheres [J].Mater. Chem.Phys.,1997 47(1):1   \n[31] MisawaTHashimotoK,Shimodaira S.Themechanismofformationofironoxideandoxyhydroxides inaqueoussolutionsat room temperature [J].Corros.Sci.,1974,14:131   \n[32] Evans UR,Taylor C AJ. Mechanism of atmospheric rusting [J]. Corros. Sci.,1972,12: 227 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

@@ -1,0 +1,479 @@
+[
+    {
+        "type": "text",
+        "text": "Therocephalian(Therapsida) and chroniosuchian (Reptiliomorpha) from the Permo-Triassic transitional Guodikeng Formation of the Dalongkou Section, Jimsar, Xinjiang, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Jun1,2 Fernando ABDALA³ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate PaleontologyandPaleoanthropology,Chinese Academy ofSciences Beijingl0oo44,China liujun@ivpp.ac.cn) (2 University of Chinese Academy of Sciences Beijing 100039) (3EvolutionaryudiesIstitute,UnversityoftheWitwatersrandrivateag,WIo,Joanesburg,outhfrica ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract The Guodikeng Formation encompasses the terrestrial Permo-Triassic transition sequence in China.This formation crops out in the Dalongkou section,Jimsar,Xinjiang where remains of the dicynodonts Jimusaria and Lystrosaurus were found. We are describing here a therocephalian and a chroniosuchian from the Dalongkou section,which are the first records of these groups for the Guodikeng Formation.Diagnostic characters of the new therocephalian, Dalongkoua fuae gen. and sp.nov., include maxillary ventral margin strongly concave in lateral view;incisors spatulated and rounded;incisors and canines with faint serrations; coronoid process of the dentary with a marked external adductor fossa; triangular reflected lamina of the angular with two smooth concavities.Chroniosuchians are represented by several postcranial elements and the vertebral morphology is similar to Bystrowiana and Bystrowiella.These remains are interpreted as representing a Bystrowianidae indeterminate.The new findings increase the diversity of the Guodikeng Formation that is now represented by three or four dicynodonts,one therocephalian and one chroniosuchian.All these groups survived the massive P-T extinction but disappear from the fossil record in the Middle to Upper Triassic. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key WordsDalongkou, Xinjiang; Permian; Triassic; Guodikeng Formation; chroniosuchian; therocephalian ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation Liu J,Abdala F,2017. Therocephalian (Therapsida) and chroniosuchian (Reptiliomorpha) from the Permo-Triassic transitional Guodikeng Formation of the Dalongkou Section, Jimsar,Xinjiang,China.VertebrataPalAsiatica,55(1):24-40 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dalongkou section, Jimsar, in Xinjiang is a famous terrestrial section with PermoTriassic transitional sequences. The southern limb Dalongkou anticline section (SLS) has been suggested as a candidate for the global non-marine Permian-Triassic boundary (PTB) reference section (Cheng and Lucas,1993,Liu,1994). This section was originally known by its fossil vertebrate bearings. This formation produced the dicynodonts Jimusaria sinkianensis and the first specimen of Lystrosaurus from China (Sun, 1963; Yuan and Young,1934a,b), later the co-occurrence of these taxa on the same horizon of the Dalongkou section were noticed (Cheng,1993).The lowest occurrence of Lystrosaurus at the SLS is at the base of bed 63 or 54 of the measured lithostratigraphic section (Fig. 1), ${ \\sim } 6 5 \\mathrm { ~ m }$ below the base of the Jiucaiyuan Formation (Cheng,1993; Liu et al.,2002). The exact position of the holotype of Jimusaria sinkianensis is unknown, but Cheng (in Yang et al.,1986) suggested it could lies within the top $2 0 ~ \\mathrm { m }$ of the Guodikeng Formation. This is perhaps the reason why Kozur and Weems (2011) located the stratigraphic position of this dicynodont $1 5 \\mathrm { ~ m ~ }$ below the base of the Jiucaiyuan Formation. Besides dicynodonts, the procolophonid Santaisaurus yuani and the archosauriform Chasmatosaurus yuani were discovered from horizons of the Jiucaiyuan Formation at the Dalongkou section (Koh,1940; Li et al., 2008;Young,1958, 1963). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The PTB in the Junggar Basin was traditionally positioned at the base of the Jiucaiyuan Formation, but a joint team of the Chinese Academy of Geological Sciences and the Xinjiang Bureau of Geology and Mineral Resources first proposed the PTB within the Guodikeng Formation (Yang et al., 1986). They tentatively located the PTB at the uppermost Guodikeng Formation; one major reason for this decision was the position of the lowest occurrence of Lystrosaurus. For a long time,Lystrosaurus was a Triassic index fossil,and its lowest occurrence marked (or at least approximate) the base of the Triassic (cf.Lucas,1998). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Based on palynomorph evidence, Ouyang and Norris (1999) placed the PTB at the base ofUnit 3 in the uppermost Guodikeng Formation, $\\sim 5 0 \\mathrm { ~ m ~ }$ below the base of the Jiucaiyuan Formation. Hou (20o4) discovered overlapping interval of sporomorphs from the middle part of the Guodikeng Formation at SLS,and placed the PTB at the base of $\\operatorname { B e d } 5 1$ of the measured lithostratigraphic section 1 (Fig.1). Furthermore,Pang and Jin (2004) observed a distinct turnover in the ostracod assemblages between Bed 54 and 55 in the Guodikeng Formation (Fig.1),approximately $1 0 \\mathrm { ~ m ~ }$ above the PTB suggested by the palynological analysis of Hou (2004).Foster and Afonin (2Oo5) studied the abnormal pollen grains from Russia and China, and suggested that the latest Permian mass extinction level lies at the upper lower Guodikeng Formation,between Bed 63 to 65 on s1. Using conchostracan biostratigraphy, Kozur and Weems (2O11） proposed the continental extinction event horizon at the middle part of the Guodikeng Formation at SLS;and they proposed that the first appearance datum (FAD) of Falsisca verchojanica, ${ \\sim } 2 5 \\mathrm { m }$ below the base of the Jiucaiyuan Formation at SLS,correlates to the PTB.Based on the paleomagnetic data,Li et al. (2O03) put the PTB between their Bed 41 and 42 at the SLS. Cao et al. (2008) suggested an isotopically defined PTB at the base of Bed 65 (Fig. 1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In summary, there are distinct faunal and floral turnovers in the middle part of the Guodikeng Formation.As suggested by Kozur and Weems (2011), their relationships with the end-Permian mass extinction need to be studied carefully, but they must not equate to the PTB. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A recent revision of Dicynodon restricted the name to two species from the African ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Permian and Jimusauria, that was synonymized to Dicynodon,is considered as a valid taxon different of Dicynodon (Kammerer et al., 2011). The phylogeny presented by Kammerer et al. (2011:fig. 156) found Jimusauria as a basal form in a clade of Permian and Triassic dicynodonts.Metcalfe et al. (20o9) points out the poor record of Lystrosaurus in the Guodikeng Formation in opposition to the rich representation of this taxon in the overlying Jiucaiyuan Formation. Considering the faunal composition of the Permo-Triassic transition in South Africa, they argue that the combined presence of Lystrosaurus and the Jimusauria is more likely representing levels of the Late Permian,in which the former taxon is poorly represented (Smith and Botha-Brink,2014).As a result the PTB is interpreted on the top of the Guodikeng Formation, near the base of the Jiucaiyuan Formation. Recently, Gastaldo et al.(2015) reported a dicynodontoid skull of characteristically Permian aspect more than 10 m above the previous last occurrence of Dicynodon and a zircon age of ( $( 2 5 3 . 4 8 \\pm 0 . 1 5 )$ Ma from a layer ${ \\sim } 6 0 ~ \\mathrm { m }$ below the current vertebrate-defined boundary from Karoo Basin. They ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/671e97bb312ef9e67ba3c1c7581b7c09a68839af3b3eef1b1011b48aef4aee38.jpg",
+        "img_caption": [
+            "Fig.1Position of some vertebrate fossils and proposed PTB from the Guodikeng Formation in the SLS The stratigraphic column adapted from Cao et al. (2008).Subunits of lithological stratigraphy listed as sl are from team work of 2ooo (published in Li et al.,2003;Hou,2004 and Pang and Jin,2004), "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "s2 from Yang et al. (1986) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C.IVPPV 23295,a chroniosuchian; J. the possible position of Jimusaria sinkiangensis;L. the lowest occurrence ofLystrosaurus;T.IVPPV23296, the therocephalian Dalongkoua fuae.The continuous lines mean the exact position of PTB,while the dashed lines indicate unsure on the position ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "suggested the PTB should be higher than that recognized by Ward etal. (2005).The work in Karoo Basin suggested an older occurrence of Lystrosaurus,and the PTB could be around the base of the Jiucaiyuan Formation in Junggar Basin. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In 20oo,some bones were collected from the SLS while digging a trench for paleomagnetic study. One specimen (IVPP V 23296) was produced from a green mudstone close to the yellow sandstone in Bed 40.All bones of this specimen are badly weathered, before being buried.Another specimen came from the red mudstone of Bed 70, including several vertebrae and a nearly complete humerus (IVPPV23295).Thesematerials were prepared and identified as a therocephalian and achroniosuchian.Therocephalian therapsids were important component of Middle Permian to Middle Triassic terrestrial faunas (Abdala et al.,2008,2014;Huttenlocker et al., 2015; Ivakhnenko,2011).In China, therocephalians are only known from the Triassic, including Urumchia lii recovered from the Jiucaiyuan Formation of Xinjiang,which was originally assigned as Late Permian (Li et al.,2008; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Young,1952).The new discoveries represent, thus, the first report of a Permian therocephalian for China. Chroniosuchians is an enigmatic and a recent addition to the group of tetrapods. It was first reported in the Permian and Triassic of Russia (Golubev,1998; Novikov and Shishkin, 2000; Shishkin et al.,2014),and later from the Permian of China (Li and Cheng,1999; Young, 1979),and the Triassic of Kyrgyzstan and Germany (Schoch et al., 2010; Witzmann et al., 2008).The new material here presented is a new Permian record for China,and the first one from Xinjiang. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AbbreviationIVPP, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 Systematic paleontology ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TherapsidaBroom, 1905 Therocephalia Broom,1903 Eutherocephalia Hopson & Barghusen,1986 Dalongkoua fuae gen. et sp. nov. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HolotypeIVPP V 23296,incomplete left premaxilla with three teeth, incomplete right premaxille with four teeth, snout and part of the orbital region with the maxilla on both sides featuring functional and replacement canines, isolated vertebrae,left humerus,two phalanges and some bone fragments (Figs. 2-4). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Etymology‘Dalongkou’, the name of locality;‘fu’, dedicated to the preparator Ms. Fu Hua-Lin. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DiagnosisMaxilary ventral margin strongly concave in lateral view; incisors spatulated and rounded; incisors and canines with faint serrations; coronoid process of the dentary with a marked external adductor fossa; triangular reflected lamina of the angular with two smooth concavities. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Description Skull The skull is strongly deformed as a flat plate and broken into small blocks. The anterior portions of the premaxillae are separated from the rest of the skull (Fig. 2). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Both premaxillae are represented as independent elements,with the right being better preserved. It forms a curved plate housing the alveoli for four incisors (Fig. 2C). Posteromedially, it has the process for contacting the vomer. The posterolateral side of the palatal surface curves dorsally, forming the anterior margin of the palatal fenestra for the lower canine (Fig. 2C). There are four preserved teeth, three of them with the main axis of their bases oriented longitudinally,whereas the second is circular in section.The latter tooth, is completely preserved, presenting spatulated crown, concave lingually, and mesiolingual and distal smooth ridges (Fig. 2E). Remaining teeth are incomplete lacking any ridge at their bases, where the external surface is relatively smooth. Based on the preservation, we interpret the probable presence of at least five incisors.Two replacing teeth lie on the lingual side of the first and third functional incisors (Fig.2C). The crown of the first replacement incisor show fainted serrations on the medial margin.A tiny foramen lies posterior to the first replacing incisor. A long diastema separated the last incisor and the canine. The left premaxilla has three poorly preserved incisors and an extra alveolus for the fourth incisor, without tooth.There are pits with replacement teeth behind the second and third incisors. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The maxilla is a long bone with large facial plate.It extends anteriorly and covers the lateral surface of the premaxilla anterior to the canine. Ventrally, there is a concave ventral step.The maxilla is laterally expanded to encapsulate the canine,and the snout seems constricted behind the canine.On the right side,the facial plate is folded medially, and a remarkable longitudinal ridge is present, suggesting a well exposed maxillary platform. The platform is posteriorly concave in lateral view as in Theriognathus microps (Huttenlocker and Abdala, 2016). The root of the left canine is exposed posteriorly. An erupting replacing canine lies anteromedially to the canine on both sides. The maxillary ventral margin is strongly concave in lateral view.The postcanines are not observed on the skull, but some isolated teeth could be postcanines.Two of them preserved the base of the crown,and it is possible to see strong ridges on two margins without serration. One margin is remarkable concave, the other is straight to slightly concave. One preserved tip of postcanine have faint serrations on both margins of the cusp.The putative preserved postcanines are much smaller than the incisors. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7eaee294efaef9796b81e77cafb715a32e4fea7b581adcf979e2548fce8bbef5.jpg",
+        "img_caption": [
+            "Fig.2 Holotype of Dalongkoua fuae gen. et sp. nov. (IVPP V 23296) Skull, including premaxilla inleftlateral(A),right lateral (B)and ventral (C)views;right premaxilain dorsal view (D);the second preserved right incisor in lingual view (E) Abbreviations:F.frontal; J. jugal; M.maxilla; N. nasal; Pf. prefrontal; Pm. premaxilla; Po.postorbital; r.c.replacing canine; t.f. temporal fenestra; V.vomer. Scale bar equals 1 cm "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The nasal is long and forms the dorsal surface of the snout. A middle ridge is present on the posterior portion of the nasal.It is sutured with the frontal on the level of the anterior margin of the orbit (Fig. 2A). Laterally, it contacts the maxilla and the prefrontal. The prefrontal, frontal and postorbital form the dorsal margin of the orbit,whereas the postorbital bar is formed by the postorbital and jugal. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Lower jaw Dentary The symphyseal region and the posterior part of the left dentary is preserved,as well as the right reflected lamina of the angular (Fig.3).The articular symphysis with the right dentary is broken,and the lower margin is incomplete (Fig.3B).The symphyseal region bears a marked constriction lateral to the lower canine where the upper canine rests. The anterior part of this region bears pits and grooves, whereas the surface that will be contacting the medial side of the upper canine is smooth. The posteroventral portion of the dentary forms a thickened lower border that supports the angular in a trough on its medial surface (Fig. 3B). The posteroventral corner of the dentary forms an angle of $1 3 7 ^ { \\circ }$ .The coronoid process is well developed, with a dorsal adductor fossa on the lateral surface (Fig.3A). The posteroventral margin of the dentary, below the bulged ridge that limits ventrally the adductor fossa, forms a descending flange ending in a sharp ridge. Although the posterodorsal corner is incomplete, the preserved portion shows a nearly straight posterodorsal margin. Six teeth are preserved on the symphyseal region. The biggest one is the canine,and anteromedially there is a replacing canine that is partially wrapped by it (Fig. 3C). Faint serrations developed on the anterior margin of the replacing canine.There are four lower incisors, including three preserved teeth and one alveolus (Fig.3C).A tiny tip of an erupting tooth lies immediately anterior to the canines.The last incisor is small and partially preserved; whereas two other incisors, medial to the later, are also preserved. One of them is faceted showing a well-developed ridge laterally (the medial side is not exposed). Very fine serrations,only visible under microscope magnification, are present on the margins of the larger two preserved incisors. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AngularThe right angular is nearly complete.This bone is flat and elongated posteriorly with a triangular-like reflected lamina (Fig.3D,E). The large reflected lamina bears a deep ‘U'-shaped dorsal notch which is posterodorsally directed (Fig. 3D). The lateral surface of the reflected lamina is ornamented by fine,radiating ridges and grooves,and is divided into three parts by large grooves directed ventrally and posteriorly (Fig. 3D). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PrearticularThe prearticular lies on the medial side of the angular (Fig.3E). It is an elongate element forming an anterior rod to contact the splenial.Posteriorly,it is a triangular plate,whose posterior process contacts the articular. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/988bf060b45771bf2e61885d38521b1a2801ffb863213c36347ac5d29e976fa6.jpg",
+        "img_caption": [
+            "Fig.3Holotype of Dalongkoua fuae gen. et sp. nov. (IVPP V 23296) Symphysis and posterior portionof the left dentary in lateral (A)and medial (B)views; left dentary symphysis in dorsal view (C); right angular in lateral (D) and medial(E) views Abbreviations: a.f.adductor fossa; b.s.broken surface; f.a.facenton the dentary for the angular; i. incisor; m.f.mandibular fenestra; Pra.prearticular; r.c.replacing canine.Scale bars equal 1 cm "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "VertebraeTwo partial vertebrae including centra and a left partial neural arch are represented.The complete centrum in one of them, interpreted as dorsal vertebra, is amphicoelous,and deeply hollowed. The second element has an incomplete centrum and a clear suture between the centrum and the right partial neural arch shows lack of synostosis between them (Fig. 4A,B). The transverse process extends dorsolaterally and is angled posterolaterally, with a vertical flange on the ventral side.This is similar to the dorsal vertebra ofPromoschorhynchus platyrhinus (Huttenlocker et al., 2011). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The isolated arch is possible of a cervical vertebra, with its zygapophyses bearing more or less horizontal articulating surfaces (Fig. 4C, D). The transverse process is not preserved and should lie well down on the neural arches.The neural spine is robust and inclines anteriorly. This is similar to the cervical of Olivierosuchus parringtoni (Botha-Brink and Modesto,2011). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sternum A partial posterior margin of the sternum is preserved (Fig. 4G, H). It is a large plate with convex ventral surface and concave dorsal surface. There is no posterior notch,and a weak midline ridge is developed on the ventral surface,as in Promoschorhynchus platyrhinus (Huttenlocker et al., 2011). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3301aa4602d5ae84577d610bce4a8d04542530e63f45263c98600e640f1e5a4c.jpg",
+        "img_caption": [
+            "Fig. 4 Holotype of Dalongkoua fuae gen. et sp. nov. (IVPP V 23296) An incomplete dorsal vertebra in lateral (A)and posterior (B) views; an incomplete cervical neural arch in left lateral (C)and medial (D) views; two phalanges in dorsal (E)and ventral (F) views,distal to the top; sternum in ventral(G) and dorsal (H) views; left humerus in dorsal (I),anterior (J), ventral (K) and posterior (L) views. Scale bars equal $1 \\mathrm { { c m } }$ （204 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HumerusThe humerus is robust with expanded proximal end, missing the distal end and the deltopectoral crest (Fig. 4I-L). The proximal half is curved dorsally relative to the shaft (Fig. 4J,L). A low ridge lies on the rough posterodorsal side, possble representing part of the wide posteroventral ridge described by Kemp (1986). The long shaft is broken on the place of the entepicondylar foramen. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PhalangesTwo phalanges are well preserved (Fig. 4E,F). A longitudinal middle groove develops on the ventral surface. They are nearly as wide as length. Nearly quadrangular phalanges are represented in several therocephalians including the Scylacosauridae Glanosuchus,the Akidnognathidae Olivierosuchus,the Hofmeyriid Mirotenthes and the Whaitsiidae Theriognathus (Atridge,1956; Boonstra,1964; Botha-Brink and Modesto,2011; Fourie and Rubidge,2oo7;Abdala, pers.obs). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chroniosuchia Tatarinov, 1972 Bystrowianidae Vjuschkov, 1957 Genus and species undetermined ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Referred specimenIVPP V 23295, five vertebrae, rib, gastral scales,partial ilium, left femur, and partial fibula (Figs. 5, 6). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Description Vertebrae Three articulated vertebrae show two intercentra, two isolated pleurocentra are fused to the neural arches,and there are three isolated intercentra. Four larger vertebrae are tentatively identified as dorsals and the smallest as caudal. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The morphology of the vertebrae is very similar to that of Bystrowiana sinica or Bystrowiella schumanni (Liu et al., 2014; Witzmann et al., 2008) (Fig. 5). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The length of the large pleurocentrum is approximately $1 4 ~ \\mathrm { m m }$ ，whereas the length in the other two is 12 and $1 0 \\mathrm { m m }$ .The pleurocentrum are roughly twice as long anteroposteriorly as the intercentra. The height of the pleurocentra is about $1 0 ~ \\mathrm { m m }$ . All pleurocentra are deeply amphicoelous with a round cross-section,and they are not perforated by the notochord. In lateral view, the anterior and posterior margins of the pleurocentrum are curved but the ventral margin is nearly straight.A small knob (parapophysis) for the capitulum lies on the middle of the pleurocentrum anterior margin (Fig. 5B,E),and a longitudinal faint ridge runs posterior to it.The parapophysis is separated from the diapophysis by an anterodorsally directed incisure. On the larger pleurocentrum, the ventral surface is slightly convex to smooth (Fig.5E). On the smallest pleurocentrum,two anteroposteriorly directed,low ridges delimit the faintly concave ventral margin (Fig. 5I) as in Bystrowiella schumanni (Witzmann et al.,2008). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b05f3a21bea822d6e8ce17b394816a5cb8f78e4d1d7aecdf5128c00ae0cb03f.jpg",
+        "img_caption": [
+            "Fig.5Chroniosuchian specimen (IVPPV 23295) from Dalongkou section Three dorsal vertebrae in anterior(A),left lateral (B), posterior(C),dorsal (D) and ventral (E)views; one caudal vertebra in anterior (F),left lateral(G),posterior (H),and ventral (I) views; J. gastral scales; caudal intercentrum in anterior (K),left lateral (L),and ventral (M) views Abbreviations: dp. diapophysis; ha. haemal atch; ic. intercentrum; nc. neural canal; ns. neural spine; pc. pleurocentrum; pnc. paraneural canal; poz. postzygapophysis; pp.parapophysis; prz. prezygapophysis; tp.transverse process. Scale bar equals 1 cm "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The intercentra are about as tall as the pleurocentra in lateral view. The articular intercentra show smooth periosteal bone, without haemal arch on the ventral surface. They appear wedge-like in articulation (Fig.5B,E),but actually are ball-like (Fig. 5K-M). On three free caudal intercentra,the ventral surface consists of slightly concave, smooth periosteal bone, and bears the ventrolateral bases of the hemapophyses as in Bystrowiella schumanni (Witzmann et al.,2Oo8).The roughened dorsal surface of the intercentrum is convex and did not articulate with the neural arch, forming part of the base of the neural canal. The largest intercentrum measures $9 . 7 \\mathrm { m m }$ long,while the others range from 8 to $9 \\mathrm { m m }$ . The exposed length of them in ventral view is nearly $5 \\mathrm { m m }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "All neural arches are fused to the pleurocentrum and the spines only preserved at their base.The zygapophyses are widely spaced (Fig. 5D,E) and the facets slope medially at a small angle to the horizontal plane in anterior view. There are two pairs of wel-developed paraneural canals at the base of the zygapophyses,with the anterior openings of the dorsal pair being larger than those of the lateral pair (Fig.5A).As in Bystrowiana permira,the number and shape of the openings on the two sides could be different (Liu et al., 2014). The neural canal is compressed dorsoventrally. The short transverse process lies on the upper half of the pleurocentrum, bearing small, unfinished diapophyses (Fig. 5A-C). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Rib and gastral scalesA proximal rib fragment,and some gastral scales are preserved on a bone plate (Fig. 5J). The gastral scales are thin, some ending in a sharp point. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "IliumThe preserved acetabular area of the right ilium is similar to that of Dendrysecos helogenes or Chroniosaurus (Clack and Klembara, 2009; Holmes et al.,1998; Schoch and Milner, 2014). The anterior margin is slightly concave (Fig. 6A). There is a distinct crescent supra-acetabular buttress,and, anteroventrally, a notch on the anterior margin of acetabulum. The iliac blade is only preserved as a narrow base above the acetabular rim. On the medial side, a strong iliac ridge runs dorsoventrally and divides the medial surface in two portions (Fig. 6B). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FemurThe slender left femur is well-ossified and nearly complete (Fig. 6C-H). The general shape of the bone is same as that of Chroniosaurus (Clack and Klembara, 2009). The length of the bone is $7 3 ~ \\mathrm { m m }$ ，and the width is $2 1 ~ \\mathrm { m m }$ for proximal and distal ends.The distal side deflects ventrally relative to the proximal part, so the bone is curved dorsally. The anterior margin is curved while the posterior margin is relatively straight. Differing from Chroniosaurus dongusensis,the articular surface on the proximal side is smoothly convex and dorsoventrally flattened (Fig. 6C).The dorsoventral height of the articular surface is near half its anteroposterior length (Fig. 6G). The proximal extensor surface of the femur bears some striations on the posterior side (Fig. 6C),indicating the insertion for the ischiotrochantericus. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "On the anteroflexor side, the ventrally directed adductor blade demarcates the anterior side of the deep intertrochanteric fossa (Fig. 6D,E).The broken internal trochanter is separated from the femoral head by a narrow ridge,and it continues distally as a low crest, the fourth trochanter (Fig. 6D). The anterior surface of the adductor blade is rugose with deep muscle scars. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "From the distal end of the fourth trochanter, the adductor crest follows a strongly diagonal course posteroventrally to a point distal to the middle of the shaft (Fig. 6E,F).A low ridge continues distally on the posterior side of the shaft ending on the distal posterior corner. This ridge does not seem to be for muscle attachment. In other groups such as captorhinomorphs, seymouriamorphs and temnospondyls, the adductor crest generally runs towards the popliteal area (Fox and Bowman,1966;Klembara and Bartik,20oo; Pawley, 2007). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The popliteal area is pitted and concave on the flexor side (Fig. 6E). The fibular (posterior) ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fa8afba42c81c34e895a256dc2ae1c1c876be2b425fb9898fa9745aeadfd7b7.jpg",
+        "img_caption": [
+            "Fig.6Chroniosuchian specimen (IVPPV 23295) from Dalongkou section Right ilium in lateral (A) and medial (B) views; left femur in extensor (C),anterior (D),flexor (E), posterior (F),proximal(G),and distal (H) views; left fibula in flexor(I); proximal (J)and extensor(K)views Abbreviations: ab.adductor blade; ac.adductor crest; asn.anterior supracetabular notch; cn.cnemial crest; cnt.cnemial trough;dip.dorsal iliac process; fc.fibular condyle; ff.fibula fossa;icf.intercondylar fossa; it. internal trochanter; itf. intertrochanteric fossa; mir. mesial iliac ridge; pa. popliteal area; pir. posterior intertrochanteric ridge; sab.supracetabular buttress; tc.tibial condyle; t4.fourth trochanter.Scale bar equals 1 cm "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "condyle projects more distally than the tibial (anterior) condyle.Proximal to the fibular condyle is a narrow but deep fibular fossa. In extensor view,a deeply incised intercondylar fossa is oriented posteroventrally towards the midline of the fibular condyle (Fig. 6H). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fibula The proximal end of the left fibula is preserved (Fig. 6I-K). The head is convex to fit on the concave articular surface of the femur. Small striae distribute around the proximal articular surface (Fig. 6I, K),indicating the presence of cartilage or perhaps ligamentous connective tissue.The extensor surface is incised by a cnemial trough,which is bordered anteriorly by the prominent cnemial crest (Fig.6J). Another crest is on the posterior surface of the bone.A striate area on the medial side of this ridge, distal to the proximal articular surface, provided attachment for muscles. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3 Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The new therapsid specimen (IVPP V 23296) can be diagnosed as a therocephalian for the presence of palatal fenestra for the lower caniniform confluent with choana,and the posterventral portion of the dentary forming a thickened lower border that extends below the angular bone and supports the latter in a trough on its medial surface.It has four lower incisors,and can be then diagnosed as an eutherocephalian (Huttenlocker,2Oo9). In addition, the shape of the reflected lamina,lacking an anterodorsal rounded portion in front of the notch that makes this structure circular in basal therocephalians is also an indication that the new species is member of Eutherocephalia. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Dalongkoua fuae show evidence of faint serrations in the margin of a replacement incisor and canine and on the tip of a postcanine.These findings are contrary to the assumed absence of serrations in the dentition of eutherocephalia (e.g.van den Heever, 1994; Abdala et al.,2008;Hutenlocker,2009;and Huttenlocker et al.,2015,for incisors and Huttenlocker and Sidor, 2O12 for anterior dentition). The serrations in the teeth of Dalongkoua fuae are exceedingly faint and it is clear that they will disappear with a minimum wear as demonstrated by the smoothly ridged crown of the preserved elements. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This specimen represents a new species on the basis of the following characters: maxillary ventral margin is strongly concave in lateral view; incisors spatulated and rounded; incisors and canines with faint serrations; coronoid process of the dentary with a marked adductor fossa; triangular reflected lamina with two concavities. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The maxillary ventral margin is convex or nearly straight in most therocephalians, but it is slightly concave in Moschowhaitsia (Ivakhnenko,2011),and strongly concave in Euchambersia and Theriognathus (Broom,1931; Huttenlocker and Abdala, 2016). Recent studies (e.g.,Huttenlocker et al., 2O15) indicate that spatulated incisors are restricted to a group of akidnognathids. In Dalongkoua fuae the completely preserved second left incisor is spatulated, whereas remaining left incisors,although incomplete,show the crown enough preserved to suggest the presence of rounded (non-spatulated) incisors.The adductor fossa is developed in the dorsolateral portion of the coronoid process,above of the through for the postdentary bones. This fossa is different to the one described on the lateral surface of the dentary in the bauriids Microgomphodon oligocynus (Abdala et al.,2014) and in the Russian Notogomphodon danilovi (Abdala,pers. obs.),as in these taxa there is no connection between the fossa and the through for the postdentary bones.The incomplete left dentary of Urumchia lii also seems to have an adductor fossa, although less developed than in $D$ fuae (Fig. 7). A triangular reflected lamina is also present in the holotype of Tetracynodon darti,but the lamina show a more complex lateral surface with several ridges and valley.In the lamina of $D _ { \\cdot }$ fuae there is a posterior deep canal and a dorso-ventrally oriented shallow and wide depression. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Urumchia li is the only known therocephalian from the Xinjiang,documented in the Jiucaiyuan Formation (Sun, 1991; Young,1952). Diagnostic characters in this species are concentrated in the palate and in the postcanine morphology (Li et al.,20o8; Sun,1991). Unfortunately both palate and postcanines are incompletely preserved in Dalongkoua fuae, the postcanines only represented by isolated fragments including two crown bases and one tip.There are however a set of characters shared between these two species indicating perhaps relationships (Fig.7): medial margin of the frontal bones directed dorsally in Dalongkoua fuae indicating the presence of a central ridge in the posterior internasal and interfrontal sutures, the presence of a depressed facial area of the maxilla immediately above of the dental series, also described recently in Ichibengops of East Africa by Huttenlocker et al (2015),an apparent development of an adductor fossa,although clearly smaller, in the left dentary of Urumchia lii; and the presence of spatulated incisors.The putative relationship between these two taxa should be considered as a working hypothesis,whose validation will require finding of additional material. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/312b998e3a6adb3f47a0ce6d97d44a03ad5e31b48eada8fb7ba0822bdadb7749.jpg",
+        "img_caption": [
+            "Fig.7Urumchia li (IVPPV 702) "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Skull in dorsal (A) and right lateral (B) views; lower jaws in left lateral view (C). Showing the sharing   \ncharacters with Dalongkoua fuae:1.the mid-ridge between the posterior portionsofthe nasals and the anterior portions of the frontals; 2.depressed facial area of the maxilla; 3.adductor fossa on the dentary Scale bars equal 1 cm ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The new specimen of Reptiliomorpha (IVPP V 23295) is referred to chroniosuchian for the characteristic ball-and-socket joint between pleurocentra and intercentra (Ivakhnenko and Tverdokhlebova,198O).It can be further assigned to Bystrowianidae for paired paraneural canals on the vertebrae (Novikov et al., 20oo). The vertebrae show the similar morphology as other bystrowianids,and intercentra is similar to the figured for Bystrowiella schumanni (Novikov and Shishkin,20o0;Witzmann et al.,2008).The morphology of ilium,femur,and fibula is consistent with this taxonomic identity(Clack and Klembara,20o9;Ivachnenko and Tverdochlebova,198o). Unfortunately, no dermal scute was discovered, and no further identification could be made. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Chroniosuchian specimens in China were first reported from the Upper Permian Jiyuan fauna (Young,1979),and then from the Middle Permian Dashankou fauna (Li and Cheng, 1999). The new findings here reported represent the latest occurrence of chroniosuchians in ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "China.This group however is known from the Middle/Upper Triassic Madygen Formation of Kyrgyzstan (Schoch et al., 2O1O), indicating their continued presence in Laurasia after the Permian exctinction. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "These new findings allow recognizing that the diversity of tetrapod near the Permo-Triassic boundary in China,and particularly in Xinjiang, was higher than previously recognized. Only dicynodonts were previously reported from the Guodikeng Formation, including Lystrosaurus, Jimsaria, Turfanodon,and possibly Diictodon (Li et al.,2O08). Both chroniosuchians and therocephalians crossed the P-T boundary; therocephalians become extinct in the Middle Triassic (Abdala et al.,2O14), whereas the youngest record of chroniosuchians is in the Middle or Late Triassic (Schoch et al., 2010). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgementsThe authors thank the field crew to Dalongkou in 20oo (Cheng ZhengWu, Pang Qi-Qing,Li Yong-An, Sun Dong-Jiang and Jin Xiao-Chi),FU Hua-Lin prepared the specimens, Jozef Klembara kindly provided some photos of Chroniosaurus.Adam Huttenlocker and Florian Witzmann provided valuable comments.JL is supported by National Basic Research Foundation (973 grant no. 2012CB821902), NSFC grants (41572019), and State Key Laboratory of Palaeobiology & Stratigraphy (Nanjing Institute of Geology & Palaeontology, CAS) grants (No.2016110l).FA research is supported by the National Research Foundation of South Africa and a research trip to China funded by the Chinese Academy of Sciences President's International Fellowship Initiative Grant (2016VBB054). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "新疆吉木萨尔大龙口剖面锅底坑组新发现的兽头类和迟滞鳄类",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "刘俊1,2 Fernando ABDALA ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室 北京 100044)",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2 中国科学院大学北京100039)",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(3 南非金山大学进化研究所 约翰内斯堡WITS2050)",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "摘要：锅底坑组是重要的二叠—三叠系过渡序列，本组在新疆吉木萨尔大龙口出露广泛，产出吉木萨尔兽以及水龙兽两类二齿兽类。本文报道了在大龙口剖面首次发现的兽头类和迟滞鳄类，这也是此二类群在锅底坑组的首次报道。新发现的兽头类被命名为付氏大龙口兽(Dalongkoua fuae)。其鉴定特征包括上颌骨犬后齿齿槽外边缘向背向凹入；切齿有圆形和匙形；切齿和犬齿有微弱的锯齿；齿骨冠状突有显著的收肌窝；反折翼近三角形，有两个平滑的凹陷。锅底坑组目前有3～4属二齿兽类、1属兽头类和1属迟滞鳄类，这一发现增加了其多样性。这些类群都在二叠纪末的大灭绝中幸存下来，直到中晚三叠世才消失。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "关键词：新疆大龙口，二叠纪，三叠纪，锅底坑组，兽头类，迟滞鳄类中图法分类号：Q915.864 文献标识码：A 文章编号：1000-3118(2017)01-0024-17",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "38 References   \nAbdalaF,RubidgeBS,VanDenHeeverJA,2O08.Theoldesttherocephalians(Therapsida,Eutheriodontia)andtheearly diversification of Therapsida.Palaeontology,51(4):1011-1024   \nAbdalaF,KammererCF,DayMOetal.,2014.Adult morphologyof thetherocephalian Simorhinellbaini fromthe Middle Permianof South Africa and the taxonomy,paleobiogeography,and temporal distribution of the Lycosuchidae.J Paleont, 88(6): 1139-1153   \nAttridge J,1956.IV.—The morphologyand relationships of acomplete therocephalian skeleton from the Cistecephalus Zone of South Africa. Proc R Soc Edinburgh B,66(1): 59-93   \nBoonstra L D,1964. The girdles and limbs of the pristerognathid Therocephalia.Ann SAfr Mus,48:121-165   \nBotha-Brink J, Modesto SP,2011.Anew skeletonof the therocephalian synapsid Olivierosuchus paringtoni from the Lower Triassic South African Karoo Basin.Palaeontology,54(3): 591-606   \nBroom R,1931. Notices of some new genera and species of Karroo fosil reptiles.Rec Albany Mus,4: 161-166   \nCao C Q, Wang W,LiuLJet al.,2008.Two episodes of ${ } ^ { 1 3 } \\mathrm { C }$ depletion in organic carbon in the latest Permian: evidence from the terrestrial sequences in northern Xinjiang,China.Earth Planet SciLett, 270: 251-257   \nCheng Z W,1993.Onthe discoveryand significance of the nonmarien Permo-Triasic transition zoneat Dalongkou in Jimsar, Xinjiang,China.New Mexico Mus Nat Hist Sci Bull,3: 65-67   \nCheng ZW,Lucas SG,1993.Apossble nonmarine GSSPfor the Permian-Triasic boundary.Albertiana,12:39-44   \nClackJA,Klembara J,29.Anarticulated specimenofChroniosaurus dongusensisand the morphologyandrelatiosips of the chroniosuchids. Spec Pap Palaeontol,81: 15-42   \nFoster CB,Afonin S A,20o5.Abnormal pollen grains: anoutcome of deteriorating atmospheric conditions around the Permian-Triassic boundary.JGeol Soc,162(4): 653-659   \nFourieH,RubidgeBS,Oo7.Thepostcranialskeletalanatomyofthe therocephalianRegisaurus (Therapsida: Regisauridae) and its utilization for biostratigraphic correlation.Palaeontol Afr,42:1-16   \nFox R C,Bowman M,1966.Osteology and relationships of Captorhinus aguti (Cope)(Reptilia: Captorhinomorpha). Univ Kansas Paleontol Contrib Vertebr,11:1-79   \nGastaldoRA,KamoSL,Neveling Jetal.,2Ol5.Is the vertebrate-defined Permian-Triasicboundaryinthe KarooBasin, South Africa,the terrestrial expressionofthe end-Permian marine event? Geology,43(10): 939-942   \nGolubev VK,1998.Narrow-armored chroniosuchians (Amphibia,Anthracosauromorpha)from the Late Permian ofEastern Europe. Paleontol J,32(3): 278-287   \nHolmes R B,Caroll RL,ReiszRR,998.The frst articulated skeletonof Dendrerpeton acadianum (Temnospondyli, Dendrerpetontidae)fromtheLower Pennsylvanian localityofJoggins,Nova Scotia,andareviewofitsrelationships. J Vert Paleont, 18(1): 64-79   \nHouJP,2004.Two sporo-pollen asemblages of Guodikeng formation and discussion on the Permo-Triassic boundary in Junggar Basin,Xinjiang.Prof Pap Stratigr Palaeont,28:177-204   \nHutenlockerAo09.Aninvestigationintothecladisticrelationshipsand monophylyoftherocephaliantherapsids (Amiota: Synapsida). Zool JLinn Soc,157(4): 865-891   \nHutenlockerAK,AbdalaF,2016.Revisionof thefrsttherocephalian,TheriognathusOwen (Therapsida: Whaitsdae), and implications for cranial ontogeny and allometry in nonmammaliaform eutheriodonts.JPaleont, 89(04):645- 664   \nHutenlockerAK,Sidor CA,2012.Taxonomic revisionof Therocephalians (Therapsida:Theriodontia)fromthe Lower Triassic of Antarctica. Am Mus Novit, 3738:1-19   \nHuttenlockerAK,SidorCA,Smith RMH,2011.Anew specimenofPromoschorhynchus (Therapsida: Therocephalia Akidnognathidae)from the Lower Triasic ofSouth Africaand its implications for theriodont survivorshipacross the Permo-Triassic boundary. JVert Paleont,31(2): 405-421   \nHuttenlockerAK,SidorCA,AngielczykKD,2015.Anew eutherocephalian (Therapsida,Therocephalia)fromthe Upper Permian Madumabisa Mudstone Formation (Luangwa Basin) of Zambia.J Vert Paleont,35(5): e969400   \nIvakhnenko MF,2011.Permianand Triasic therocephals (Eutherapsida)of Eastern Europe.Paleontol J,45(9):981- 1144   \nIvakhnenkoMF,TverdochlebovaGI,1980.Systematics,Morphology,andStratigraphic Significanceofthe UpperPerian Chroniosuchians from the East of the European Part ofthe USSR.Saratov: Izdatel'stvo Saratovskogo Universiteta 1-69   \nKammerer CF,Angielczyk K D,Frobisch J,2011.A comprehensive taxonomic revision of Dicynodon (Therapsida, Anomodontia)and its implications fordicynodont phylogeny,biogeography,andbiostratigraphy.JVertPaleont, 31(sup1): 1-158   \nKemp TS,1986.The skeleton ofabaurioid therocephalian therapsid from the Lower Triassic (Lystrosaurus Zone)of South Africa. J Vert Paleont, 6(3): 215-232   \nKlembara J,Bartik Iooo.Thepostcranialskeletonof iscosauriscus Kuhn,aseymouriamorph tetrapod fromtheLower Permian of the Boskovice Furrow (Czech Republic).Trans R Soc Edinb- Earth Sci, 90(4): 287-316   \nKoh TP,1940.Santaisaurus yuani gen. et sp.nov.,einneues Reptil aus derunteren Trias von China.Bull Geol Surv China, 20: 73-92   \nKozur HW, Weems RE,2011Detailed correlation andageofcontinentallate Changhsingianand earliest Triassic beds: implications for therole of the Siberian Trapin the Permian-Triassic biotic crisis.Palaeogeogr,Palaeoclimatol, Palaeoecol,308(1-2): 22-40   \nLi JL,Cheng Z W,1999.Newanthracosaur and temnospondyl amphibians from Gansu, China- thefth reporton Late Permian Dashankou lower tetrapod fauna. Vert PalAsiat,37(3): 234-247   \nLi JL,Wu X, Zhang F C,2008. The Chinese Fossil Reptiles and Their Kin. $2 ^ { \\mathrm { n d } }$ ed. Beijing: Science Press.1-473   \nLiYA,Jin XCunDJeta.Paleomagneticpropertiesof-marineeric transitialsueofthe Dalongkou Section, Jimsar, Xinjiang. Geol Rev, 49(5): 525-536   \nLiu J,LiJL,ChenZW,2.TheLystrosaurus fosilsfromXijiangandtheirbearingontheterrestrialPermian-riassic boundary. Vert PalAsiat, 40(4): 267-275   \nLiuJ,XuL,Jia SHetal.,2014.The Jiyuan tetrapod faunaof the Upper PermianofChina-2.stratigraphy,taxonomical review,and correlation with other assemblages. Vert PalAsiat, 52(3): 328-339   \nLiu S,1994.The non-marine Permian-Triassic boundaryand Triasic conchostracan fosils in China.Albertiana,13:12- 24   \nLucas SG,998.GlobalTriasictetrapodbiostratigraphyndbiochronology.Palaeogeogr,Palaeocimatol,alaeoecol, 143(4): 347-384   \nMetcalfeI,FosterCB,Afonin SAetal.,2009.Stratigraphy,biostratigraphyand C-isotopesof thePermian-riasic nonmarine sequence at Dalongkou and Lucaogou,Xinjiang Province,China.JAsian Earth Sci,36:503-520   \nNovikovIV,Shishkin MA,2ooo.Triasic chroniosuchians(Amphibia,Anthracosauromorpha)and the evolutionof trunk dermal scutes in bystrowianids.Paleontol J,34(S2):165-178   \nNovikovIV,Shishkin MA,GolubevVK,20o.Permian and Triassic anthracosaur from Eastern Europe.In:Benton M J,Shishkin MA,Unwin DM et al.eds.The Age of Dinosaus in Russiaand Mongolia.Cambridge: Cambridge University Press. 60-70   \nOuyang S,Norris G,999.Earliest Triassc (Induan)sporesand pollenfrom the JunggarBasin,Xinjiang,northwestern China.Rev Palaeobot Palyno,106(1-2): 1-56   \nPang Q,JinXC,2004.Ostracodaofthe GuodikengFormationandthecontinentalPermo-TriasicboundaryofDalongkou section, Jimsar,Xinjiang.Prof Pap Stratigr Palaeont,28:205-246   \nPawley K A T,2007.The postcranial skeleton of Trimerorhachis insignis (Temnospondyli: Trimerorhachidae):a plesiomorphic temnospondyl from the Lower Permian of North America.JPaleont, 81(5): 873-894   \nSchoch RR,Milner AR,2014.Temnospondyli I. Miinchen: Verlag Dr.Friedrich Pfeil.1-150   \nSchoch RR,VoigtS,Buchwitz M,2O10.Achroniosuchidfrom the TriasicofKyrgyzstanandanalysisofchroniosuchian relationships. Zool JLinn Soc,160(3): 515-530   \nShishkin MA,NovikovIV,FortunyJ,2014.New bystrowianid chroniosuchians(Amphibia,Anthracosauromorpha from the Triassic of Russia and diversification of Bystrowianidae.Paleontol J,48(5): 512-522   \nSmith RMH,Botha-Brink J,2014.Anatomyofamassextinction: Sedimentologicalandtaphonomicevidencefordroughtinduced die-offsatthePermo-Triaicboundaryinthe mainKaroo Basin,SouthAfrica.Palaeogeogr,Palaeoclimatol, Palaeoecol,396: 99-118   \nSun AL,1963.The Chinese kannemeyerids.Palaeont Sin,New Ser C,17:1-109   \nSun AL,1991.A review of Chinese therocephalian reptiles. Vert PalAsiat,29(2): 85-94   \nvanden HeeverJA,1994.ThecranialanatomyoftheearlyTherocephalia(Amniota:Therapsida).Ann Univ Stelenbosch, 1994(1): 1-59   \nVjuschkov BP,1957.New kotlassiomorphs from the Tatarianof the European partof the USSR.TrPaleontol Inst,68: 89-107   \nWard PD,Botha J,Buick Retal.,2Oo5.Abrupt and gradual extinctionamong Late Permian land vertebratesin the Karoo Basin, South Africa. Science,307: 709-714   \nWitzmann F,Schoch R R,Maisch M W,20o8.Arelict basal tetrapod from Germany: first evidence ofa Triassic chroniosuchian outside Russia.Naturwissenschaften, 95: 67-72   \nYang JD,QuLF,Zhou HQetal.,1986.Permian and Triasic strata and fossil assemblages in the Dalongkou areaof Jimsar,Xinjiang.Beijing: Geological Publishing House.1-262   \nYoung C C,1952.On a new therocephalian from Sinkiang,China.Acta Sci Sin,2:152-165   \nYoung CC,1958. On the occurrence of Chasmatosaurus from Wuhsiang,Shansi. VertPalAsiat, 2(4): 259-262   \nYoung CC,1963.Additional remains of Chasmatosaurus yuani Young from Sinkiang,China.VertPalAsiat,7(3): 215- 222   \nYoung C C,1979.A Late Permian fauna from Jiyuan, Henan. Vert PalAsiat,17(2): 99-113   \nYuan PL,Young CC,1934a.On the discovery ofa new dicynodon in Sinkiang.Bull Geol Surv China,1934: 563- 573   \nYuan PL,Young CC,1934b.On the OccurrenceofLystrosaurus in Sinkiang.BullGeol Surv China,1934: 575-580 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

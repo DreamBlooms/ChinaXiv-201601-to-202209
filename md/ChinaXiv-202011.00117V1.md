@@ -1,0 +1,199 @@
+# 新疆雪灾的时空分布特征及其等级划分
+
+王勇¹，赵战成²，晏军³，唐冶4，蔡芸瞳
+
+（1新疆生态气象与卫星遥感中心,新疆乌鲁木齐830011；2 新疆巴州气象局,新疆库尔勒841000;3新疆人工影响天气办公室,新疆乌鲁木齐830002；4 新疆维吾尔自治区气象台,新疆乌鲁木齐830002；5乌鲁木齐市天山区气象局,新疆乌鲁木齐830000)
+
+摘要：利用新疆1954—2018年雪灾资料分析其灾害时空特征，时间上雪灾灾损强度在90年代后出现明显加大,2010年出现跃增特点,空间上雪灾灾损强度新疆西部多于东部，北部多于南部，山区多于盆地或平原。用雪灾出现次数、房屋倒塌间数、牲畜棚圈倒塌间数、损坏大棚数、死亡牲畜数、受灾面积、经济损失等多指标综合分析法来客观构建灾损指数，符合 $\boldsymbol { { \cal T } }$ 分布的灾损指数结合 $F$ 分布函数能客观的描绘出雪灾等级，分为一般、较重、严重、特重四个等级。根据构建的雪灾等级，发现新疆雪灾特重灾区集中在天山山区及其以北地区，南疆仅有喀什地区为特重灾区。
+
+关键 词：雪灾；特征；区划；灾损指数；评估
+
+# 文章编号：
+
+中国是一个自然灾害频发的国家，灾害造成的巨大损失往往给当地的经济发展和人们的生活带来极大的影响，甚至影响人们的生命安全，因而了解和关注灾害的特征显得尤为重要。雪灾是众多自然灾害种类中的一种，又被称为白灾,是由于大量降雪与大范围积雪对人们造成危害和损失的一种自然天气现象，雪灾种类目前主要有以下几种类型：暴风雪、暴雪、雪暴、雪崩、牧区雪灾等。在全球气候变化背景下雪灾的形成是一个十分复杂的过程,具有随机性和不确定性，其灾害的产生、发展、消亡和分布均出现了新的特征和新的特点，需要我们加大对雪灾形成机制和演变规律的研究，同时亦要求各级政府的决策者们，在基础设施规划和构筑物建设方面要具备应对各种自然灾害事件发生的能力，这对于我们科学的预防灾害的发生具有重要的突出意义。
+
+国内外学者对雪灾的评估工作由来已久，评估方法从最初侧重于灾害发生的可能性分析不断拓展到对灾害损失的定量化评估并产生众多研究成果，其中代表性的有：综合评估法、类比评估法、地面调查统计法、模糊聚类法、遥感实物评测法等[1],这些评估方法中涉及到的主观因素相对较大，因而雪灾的综合性分析逐渐成为研究的重要方向[2]。20 世纪后，风险评估在欧洲等地以及其他国家正在深入开展，表征承灾体损失的人员伤亡、畜牧死亡、基础设施损坏等灾情指标逐渐被引入到灾情等级的评价中[3-4]。符传博、胡列群等[5-6]用积雪深度、积雪面积和积雪日数揭示了新疆积雪的时空分布特征；马禹等7利用气象历史资料（日平均最低气温，日平均风速，最大积雪深度)对阿勒泰地区白灾等级进行了分析研究，王建忠等[8]分析了牧区雪灾形成机理,建立了牧区雪灾预警指标;庄晓翠等[研究了新疆北部阿勒泰牧区雪灾灾情及成因;许剑辉等[10]利用2000—2010年积雪监测资料探讨了新疆雪灾的时空演变特征,郭晓宁等[]针对青海高原设计了雪灾等级评估指标；但均没有形成一个统一的标准化雪灾等级划分方案。本文中构建的灾损指数方法避开了上述缺点，更加科学合理地来预测灾害的危害程度，便于我们科学决策来应对自然灾害。
+
+# 1研究区域概况
+
+新疆维吾尔自治区古称西域，地处 $7 3 ^ { \circ } 4 0 ^ { \prime } \sim 9 6 ^ { \circ }$ $1 8 ^ { \prime } \ \mathrm { E } , 3 4 ^ { \circ } 2 5 ^ { \prime } \sim 4 8 ^ { \circ } 1 0 ^ { \prime } \mathrm { N }$ 之间，位于祖国的西北边陲亚欧大陆中部，面积有 $1 6 6 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,地域面积广阔，约占中国陆地总面积的六分之一，是最大的省级行政区，其地貌可概括为“三山夹两盆”：南面昆仑山，北面阿尔金山，天山横贯中部，各地地理环境及气候差异较大,气候环境极其恶劣,雪灾发生次数较多，其中阿尔泰山区、伊犁河谷地区、沿天山一带和南疆西部山区，雪灾频率维持较高，也往往是雪灾重灾区。新疆地域概况图略。
+
+# 2 资料与方法
+
+# 2.1资料
+
+使用的雪灾资料时间段为1954一2018年，共计65a的资料，其中2000 年以前的雪灾资料由《气象灾害大典·新疆卷》整理所得，2001一2018年的灾害资料由中国气象局的“灾情直报系统”、当地的民政部门、各媒体报刊等资料核校所得。把房屋倒塌间数、牲畜棚圈倒塌间数、损坏大棚数、死亡牲畜数、受灾面积、经济损失等参数作为评价指标，将记录进行合并、补充、核校，剔除无效记录，无效记录是指有些年份或地区只有灾情没有损失，有些则是只有损失没有明确具体灾损项目，这样的灾损样本不能被有效的利用，均被视为无效记录，最终整理出403例有效雪灾样本资料。
+
+为保证经济损失数据的通用性和可比性，本文中扣除了物价上涨等因素的影响，用雪灾经济损失值除以物价指数，得到经济损失可比值。1980—2018年逐年物价指数来源于《新疆统计年鉴》，1954—1980年期间灾害损失值的订正统一使用1980 年的物价指数，1981—2018年期间灾害损失值使用订正后的可比经济损失值。
+
+# 2.2 方法
+
+2.2.1灾情要素权重设有个因子，每个因子由个样本组成，就得到一个雪灾评价矩阵。则个因子权重计算公式如下：
+
+$$
+a _ { j } ~ = ~ \frac { \displaystyle \sum _ { i = 1 } ^ { n } X _ { i , j } / X _ { j a } } { \displaystyle \sum _ { j = 1 } ^ { m } \ \sum _ { i = 1 } ^ { n } X _ { i , j } / X _ { j a } }
+$$
+
+式中： $i = 1 , 2 , \cdots , n ; j = 1 , 2 , \cdots , m ; X _ { j a }$ 为 $\mathbf { \nabla } _ { m }$ 因子的样本最大值。其中 $m = 7$ ，分别代表出现次数（次）、倒塌房屋（间数）损坏棚圈（间数）损坏温室大棚（间数）死亡牲畜（ $1 0 ^ { 4 }$ 头数）、农作物受灾面积（ $1 0 ^ { 4 }$ $\mathrm { { h m } } ^ { 2 }$ ）、可比经济损失( $1 0 ^ { 4 }$ 元）。
+
+对于空间区划 $\mathbf { n }$ 取76县（市），X为1954—
+
+2018 年累计值。
+
+2.2.2雪灾灾损指数的构建众多文献中在刻划雪灾指数与等级过程中往往加人了大量的主观因素，强调某一项因素超过指定阈值即划归为某一特定级别[12],这一做法缺乏科学性,不能完全客观的反应出雪灾受损强度，因而本文结合前期诸多学者的科研结果，利用本次统计的大量雪灾信息，谋求一种摒弃主观性的相对较合理的雪灾灾损指数，采用多指标综合评估法构建雪灾灾损指数。
+
+雪灾灾损指数 $X Z S$ 的计算公式：
+
+$$
+X Z S _ { i } \ = \ \sum _ { j \ = 1 } ^ { k } a _ { j } \frac { X _ { i , j } } { \bar { X } _ { j } }
+$$
+
+式中： ${ \bar { X } } _ { j }$ 为第 $j$ 个灾情要素的平均值; $X _ { i , j }$ 代表各个指标， ${ \bar { X } } _ { j }$ 代表各指标的平均值,其中 $i = 1 , 2 , \cdots , m$ ，$m = 7$ ,分别代表出现次数（次）、倒塌房屋（间数）、损坏棚圈（间数）损坏温室大棚（间数）、死亡牲畜（ ${ 1 0 } ^ { 4 }$ 头数）、农作物受灾面积( $1 0 ^ { 4 } ~ \mathrm { h m } ^ { 2 }$ ）、可比经济损失( $1 0 ^ { 4 }$ 元）。
+
+首先对各因子进行均值法无量纲处理，消除指标量纲和数量的影响[13]，同时能更加全面反映原始数据中各指标的变异程度和相互影响程度的信息。由公式（1）确定各因子权重，构建雪灾灾损指数$X Z S$ ,得出方程为：
+
+$$
+\begin{array} { c } { { X Z S = 0 . 2 2 0 \displaystyle \frac { X _ { 1 } } { \overline { { { X } } } _ { 1 } } + 0 . 0 9 0 \displaystyle \frac { X _ { 2 } } { \overline { { { X } } } _ { 2 } } + 0 . 0 4 4 \displaystyle \frac { X _ { 3 } } { \overline { { { X } } } _ { 3 } } + } } \\ { { { } } } \\ { { 0 . 0 5 4 \displaystyle \frac { X _ { 4 } } { \overline { { { X } } } _ { 4 } } + 0 . 2 5 3 \displaystyle \frac { X _ { 5 } } { \overline { { { X } } } _ { 5 } } + 0 . 0 4 3 \displaystyle \frac { X _ { 6 } } { \overline { { { X } } } _ { 6 } } + } } \\ { { { } } } \\ { { 0 . 2 9 6 \displaystyle \frac { X _ { 7 } } { \overline { { { X } } } _ { 7 } } } } \end{array}
+$$
+
+# 3新疆雪灾的统计特征
+
+新疆是中国重要的畜牧业生产基地，天然草场众多，其中有中国第二大草原一巴音布鲁克草原、空中草原一那拉提草原、阿勒泰原始草原、巴里坤大草原等等，且绝大部分分布在山区，山区常年积雪不断，雪灾时而发生，因而了解各地历年的雪灾时空特征十分必要。
+
+# 3.1 雪灾的时间变化特征
+
+3.1.1雪灾的年际变化从雪灾出现频次来看，新疆76县(市)共计403次雪灾，但是在最近的短短$2 0 \ a$ 期间(2000—2018 年)就发生了277次，占据近$70 \%$ 的灾害频次，突发性自然灾害明显增多，印证
+
+表11954—2018年雪灾概况 Tab.1 1954—2018 snow disaster survey   
+
+<html><body><table><tr><td></td><td>出现次数/次</td><td>倒塌房屋 /间数</td><td>损坏棚圈 /间数</td><td>温室大棚 /个数</td><td>死亡牲畜 /104头</td><td>受灾面积 /104 hm²</td><td>经济损失 /104元</td></tr><tr><td>合计值</td><td>403.0</td><td>64 439</td><td>13101</td><td>8 440</td><td>363.787 4</td><td>2 042.37</td><td>52 503.82</td></tr><tr><td>平均值</td><td>6.2</td><td>991.37</td><td>201.55</td><td>129.85</td><td>5.596 7</td><td>31.42</td><td>807.75</td></tr><tr><td>最大值</td><td>39.0</td><td>15 145</td><td>6300</td><td>3322</td><td>30.593 2</td><td>1 012.48</td><td>3 771.75</td></tr><tr><td>最大值出现年份</td><td>2010</td><td>2015</td><td>2010</td><td>2006</td><td>2001</td><td>2014</td><td>2001</td></tr></table></body></html>
+
+了世界气象组织(WMO)公约上的声明：全球突发性气候事件增多，我们正处于气候危机当中的结论。其中2010年全疆有39次雪灾发生，是历史中出现次数最多的一年，超出了年平均值6倍多，对应灾损等级也达到了巅峰一特重级别。从表1中可以看出，无论是出现次数，还是倒塌房屋、损坏棚圈、损坏温室大棚、死亡牲畜、受灾面积、经济损失最大值均出现在2000年以后，尤其是2014年的受灾面积占据历史总和的 $4 9 . 6 \%$ ,近似一半的比例,是平均值的32倍多，损害强大之大可想而知，这也意味着新疆当前的雪灾防御工作越来越重。
+
+3.1.2雪灾的年代际变化历史资料的统计信息中评估指标较多，因而我们按照灾损指数计算公式进行综合评估受灾程度的大小，从图1中可以看出，绿色实线为雪灾灾损指数趋势线，从1954年开始一直呈现递增趋势，且从图中蓝色实线中可以看出，灾损强度90年代以后出现明显加大，个别年份灾损强度超过了特重等级，2000年后处于高位震荡区，灾损指数在2010年出现跃增，90年代以前的灾损强度并未出现过一次特重灾害等级。
+
+从趋势线方程可看出，其递增系数为0.0233，若按10a周期来计算，则气候趋势变化明显，每10a增加0.233。从方程拟合系数来看，拟合程度并不是很好，但方程可以明确表达气候变化趋势。
+
+![](images/39e6e1d5c8c8771cb37aded069b35b99068523a89bb7371f4b35f21b5caaad66.jpg)  
+图1雪灾的年代际变化  
+Fig.1Interannual variation of snow disaster
+
+# 3.2 雪灾的空间分布特征
+
+通过分析空间分布图（图2)不难看出，倒塌房屋、损坏大棚和倒塌棚圈严重地区大多在南疆喀什地区、北疆塔城地区和伊犁地区，其他地区则在一般损坏强度上，尤其是温室大棚损坏严重的均在南疆地区，但在巴州南部的若羌、且末地区近65a均未出现损坏大棚的数据，这与当地极少的降水量以及常年无积雪有很大关系（图2a\~2c）。
+
+从图2d(死亡牲畜）和图2f（经济损失)来看，受灾严重的地区在北疆、天山山区和南疆的喀什地区，以及哈密地区、巴里坤大草原，最重的地区在巴州北部的巴音布鲁克地区，因为这里是中国第二大草原一巴音布鲁克大草原，且分布在天山山区海拔较高，常年积雪不断，另外两个较严重受灾地区在阿勒泰地区和巴里坤地区，这两个地区也都是新疆的大草原。由受灾面积(图2e)可以看出，受灾最重和次重地区均在伊犁河谷一带，因这里又被称作为塞外江南，冬季作物种植面积较大，若发生雪灾则受灾的几率越大。
+
+从雪灾出现次数（图 $2 \mathrm { g }$ )可以看出新疆西部多于东部，北部多于南部，山区多于平原，每年大于8次的大部地区在新疆西部及天山山区，新疆东部的巴里坤地区和南部的且末地区。最重的地区亦即频次大于12 次的地区在新源和喀什地区，因喀什地区历来是新疆重镇,人口相对较集中,受灾几率相对较大[14]
+
+# 1 雪灾灾损指数的刻划评估
+
+由灾损指数构建方程(3)计算所得雪灾灾损指数序列，我们人为的定义4个级别：一般、严重、较重、特重[15-16],对应灾损指数分别为：（0,1.2]、(1.2,2.4]、(2.4,3.6]、(3.6,4.8]，大于3.6的均被视为特重级别。
+
+# 4.1 雪灾灾损指数的空间分布
+
+从历年受灾指数来看（图2h），最重的地区在巴
+
+72°E 76°E 80°E 84°E 88°E 92E 96°E 72°E 76°E 80°E 84E 88E 92°E 96°E  
+50°N 50°N 50°N 50N米（ 0,3500] （ 0,5001(3500,70001 500,10001▲（7000,10500] 1000,1500j  
+46°N ■(10 500,14000] 46°N 46°N (1500,2000 46N  
+42°N ※ 42°N 42N ※ 42°N￥  
+38N ※ 38N 38N 38N※ A A(a)倒塌房屋 (b)损坏大棚  
+34N 34N 34°N 34N72°E 76°E 80°E 84°E 88E 92°E 96°E 72°E 76E 80°E 84°E 88E 92E 96E72E 76E 80°E 84°E 88E 92°E 96°E 72°E 76°E 80°E 84°E 88°E 92°E 96E  
+50°N 50°N 50°N 50°N（ 0,710] （013.6]（710,1420] (13.627.2](1420,2 130] (27.240.8]  
+46N (2130,2 8401 46°N 46°N （40.854.4] 46°N福※  
+42°N 42°N 42°N 42°N※ ※  
+38N 38N 38N ※ 38N(c)倒塌棚圈 米 死亡性畜  
+34N 34°N 34N 34°N72E 76E 80°E 84°E 88°E 92°E 96°E 72°E 76E 80°E 84°E 88E 92°E 96°E72°E 76E 80°E 84°E 88E 92°E 96E 72°E 76°E 80°E 84°E 88E 92°E 96E  
+50°N 50°N 50N 50°N（0,220] ※（ 0,1600](220,440] (1600,8200→（440,660] 00400  
+46°N ■(660,880] 46N 46N 46N※  
+42°N 42°N 42°N ※ 42N  
+38N (e)受灾面积38N 38N b 经济损失 38N必J 5  
+34N 34N 34°N 34N72°E 76E 80°E 84°E 88°E 92°E 96°E 72°E 76E 80°E 84°E 88E 92°E 96E72°E 76°E 80°E 84°E 88°E 92°E 96°E 72°E 76°E 80°E 84°E 88E 92°E 96°E  
+50N 150N 50N 50°N（0，4] （0,1.2](1.2,2.4? 8,12] (2.4,3.6  
+46N ■(12,16) 46°N 46°N (3.6,4.8] 46N家米  
+42°N 42°N 42°N ※ 42°N  
+38°N 出现次数38°N 38N ）灵损指数 38N※ ※ A  
+34°N 34°N 34N 34N72°E 76E 80°E 84°E 88°E 92°E 96E 72°E 76°E 80°E 84°E 88E 92°E 96E
+
+音布鲁克草原地区，次重地区在阿勒泰地区、伊犁河谷地区、喀什地区，以及东部的巴里坤草原，其余地区均在一般或较重等级。
+
+# 4.2 雪灾标准化等级
+
+根据雪灾灾损指数统计样本序列，采用概率分布密度的图解方法可以得到灾损指数的直方图，其中分组数我们取为9（图3），从图中可以看出雪灾灾损指数近似服从伽马分布。 $\mu = 1 . \ 0 0 0 \ 2$ ，方差$\sigma ^ { 2 } = 0 . 8 1 8 \ 3$ ，由 $\mu = \alpha _ { 0 } \beta _ { 0 } , \sigma ^ { 2 } = \alpha _ { 0 } \beta _ { 0 } ^ { 2 }$ 关系式计算得到伽马分布的参数 $\alpha _ { 0 } = 1 . 2 2 2 \ 5 \ : , \beta _ { 0 } = 0 . 8 1 8 \ 1 \mathrm { ~ , ~ }$ □
+
+![](images/6fa74862b3297358f09af3c64974b501ed78be9a4451e2e338a1f67e77f0398d.jpg)  
+图3灾损指数的概率密度分布
+
+由概率统计的检验方法计算得到统计量 $\ V =$ $\sum _ { i = 1 } ^ { m + 1 } { \frac { \left( n p _ { i } - v _ { i } \right) ^ { 2 } } { n p _ { i } } } = 3 . 9 6 9$ ，取 $\alpha = 0 . 0 5$ ，查 $\chi ^ { 2 }$ 分布表得到临界值 $\lambda ~ = ~ 1 4 . 0 6 7$ 因 $V < \lambda$ 认为灾损指数服从伽玛分布，其概率密度函数为：
+
+$$
+f ( X = x ; \alpha _ { 0 } , \beta _ { 0 } ) = \frac { 1 } { { \beta _ { 0 } } ^ { \alpha _ { 0 } } \varGamma ( \alpha _ { 0 } ) } x ^ { \alpha _ { 0 } - 1 } e ^ { - x / \beta _ { 0 } }
+$$
+
+由伽玛分布函数 $F ( x _ { p } ) = P ( X { \leqslant } x _ { p } )$ 的概率可确定灾损指数分位点值 $x _ { p }$ ，根据分布函数的概率及对应的灾损指数阈值，下表给出了定量的雪灾等级划分标准。
+
+表2雪灾等级划分标准  
+Tab.2Grade standard of snow disaster   
+
+<html><body><table><tr><td>F分布函数</td><td>≤0.500</td><td>0.501~0.725</td><td>0.726~0.900</td><td>≥0.901</td></tr><tr><td>灾损指数</td><td>≤0.650</td><td>0.651~1.281</td><td>1.282~2.40</td><td>≥2.41</td></tr><tr><td>等级划分</td><td>一般</td><td>较重</td><td>严重</td><td>特重</td></tr></table></body></html>
+
+在表2中我们根据 $F$ 分布函数结合雪灾灾损指数把新疆雪灾灾害的程度划分为了4个等级：一般、较重、严重、特重[17-18],并给出了具体的对应灾损等级的 $F$ 分布函数值和灾损指数值。按照此标准把新疆近65a的雪灾危害程度绘出了灾害等级的空间分布。
+
+由表2可知，新疆雪灾 $5 0 \%$ 的受灾程度在一般等级， $2 2 \%$ 的雪灾危害等级在较重层次，近 $18 \%$ 的雪灾危害等级在严重级别，仅有 $10 \%$ 左右的雪灾危害在特重级别。从图4可见，雪灾特重等级出现在阿勒泰地区、塔城地区、伊犁河谷、喀什地区、巴州北部山区的巴音布鲁克草原、哈密的巴里坤草原，严重等级出现在北疆西部山区以及哈密地区，南疆地区主要在喀什和田等地以及阿克苏地区，其他地区雪灾等级一般或较重。
+
+![](images/2dcee941dffd3863813293d46f895ce4a6cccd3fe7b3cbb71011ed0b1a0b2376.jpg)  
+Fig.3Probability density distribution of damage index   
+图4雪灾灾损等级空间分布  
+Fig.4The spatial distribution of snow hazard grade
+
+# 5结论
+
+（1）从空间分布上新疆雪灾表现为北疆多于南疆,西部多于东部，山区多于平原或盆地，主要集中发生在天山山区及西部地区，灾情最重的地区有巴音布鲁克山区、阿勒泰、伊犁河谷及塔城地区。
+
+（2）从时间分布上，新疆雪灾强度在20世纪90年代明显加大，2000年以后处于高位震荡区，不论是灾害发生频次还是灾害发生强度均有急剧上升，这给我们的防灾减灾带来了更大的挑战。
+
+(3）从承灾体上看基础设施（倒塌房屋、损坏大棚、倒塌棚圈)受灾严重地区在南疆喀什地区、北疆塔城地区和伊犁河谷；从死亡牲畜和经济损失受灾强度上严重地区在阿勒泰地区和巴音布鲁克草原，从受灾面积上严重地区在伊犁河谷一带。
+
+（4）根据 $F$ 函数分布特性结合灾损指数将新疆雪灾灾情进行标准化等级区划，分为：一般、较重、严重、特重4个等级，并给出了相应具体分级阈值，能够客观的反映出新疆雪灾分布特征。其中雪灾特重地区主要分布在天山山区及其以北地区，南疆仅有喀什地区为特重等级。
+
+# 参考文献(References）
+
+[1］吴纬,秦其明,范一大,等.中国雪灾评估研究评估综述[J].灾 害学,2013,28(4）:152-158.[WUWei,QINQiming,FAN Yida,et al.A review of snow disaster assessment in China[J].Jour nal of Catastrophology,2013,28(4）:152-158.]   
+[2］周瑶,王静爱.自然灾害脆弱性曲线研究进展[J].地球科学进 展,2012,27（4）:435-442.[ZHOUYao,WANGJing，ai.Research progress on natural disaster vulnerability curveJ」.Advances in Earth Science,2012,27(4):435-442.]
+
+[3］郭晓宁,李林,王军,等.基于实际灾情的青海高原雪灾等级 （评估）指标研究[J].气象科技，2012，40（4)：676-679. [GUO Xiaoning,LI Lin,WANG Jun,et al. Based on the actual situation of Qinghai Plateau snow disaster level（assessment）index study[J].Meteorological Science and Technology,2012,40（4）: 676 -679.]
+
+[4］董芳蕾.内蒙古锡林郭勒盟草原雪灾灾情评价与等级区划研 究［D].长春：东北师范大学,2008.［DONGFanglei.Study on snow disaster assessment and grading of grassland in Xilin Gol League,Inner Mongolia[D].Changchun:Northeast Normal University,2008.]
+
+[5]符传博,丹利,吴涧,等.新疆地区雪深和雪压的分布及其55a的变化特征分析[J].地球物理学进展，2011，26（1）：182-193.［FU Chuanbo,DANLi,WU Jian,et al.The distribution ofsnow depth and snow pressure in Xinjiang area and their variationcharacteristics in 55 years[J].Progress in Geophysics,2011,26
+
+(1):182 -193.]
+
+[6］胡列群,李帅,梁凤超.新疆区域近50a积雪变化特征分析 [J].冰川冻土,2013,35(4）:793-798.[HULiequn,LI Shuai, LIANG Fengchao.Analysis on the variation characteristics of snow coverin Xinjiang area in recent 5O years[J].Glacial Permafrost, 2013,35(4) :793-798.]
+
+[7］马禹,王昀,王旭.阿勒泰地区白灾的等级划分及致灾暴雪的 环流特征[J].干旱区资源与环境，2014，28（8）：120-124. [MAYu,WANGYun,WANGXu.Classification ofwhitedisaster in Altay area and circulation characteristics of blizzard causing disaster[J].Resources and Environment in Arid Areas,2O14,28 (8):120-124.]
+
+[8]王建忠,陈春燕,贾丽红,等.灾害天气研究与预报[C]//天气预报论文集（S3）.北京：气象出版社，2011：256-267.［WANGJianzhong,CHEN Chunyan,JIA Lihong,et al.Weather forecastingdisaster weather research and forecasting[C]//Proceedings onweather forecasting（S3）.Beijing：China Meteorological Press,2011:256 -267.]
+
+[9］庄晓翠,周鸿奎,王磊,等.新疆北部牧区雪灾评估指标及其成因分析[J].干旱区研究，2015，32（5）：1002-1004.［ZHUANGXiaocui,ZHOUHongkui,WANGLei,etal.Evaluation index andcause analysis of snow disaster in pastoral area of northern Xinjiang[J].Arid ZoneResearch,2015,32(5):1002-1004.]
+
+[10］许剑辉，舒红，刘艳.2000—2010 年新疆雪灾时空自相关分析 [J].灾害学,2014,29（1）:221-226.[XU Jianhui,SHU Hong, LIU Yan.Spatiotemporal autocorrelation analysis of snowstorms in Xinjiang from 200O to 2010[J].Journal of Catastrophology,2014,
+
+29(1):221-226.]   
+[11］郭晓宁,李林,王军,等.基于实际灾情的青海高原雪灾等级 （评估）指标研究[J].气象科技,2012,40（4)：676－679. [GUO Xiaolin,LI Lin,WANG Jun,etal. Based on the actual situation of Qinghai Plateau snow disaster level（assessment）index study[J]. Meteorological Science and Technology,2012,40（4）: 676 -679.]   
+[12］廖红强,邱勇,杨侠,等.对应用层次分析法确定权重系数的探 讨[J].机械工程师,2012,33（6）:22-25.[LIAO Hongqiang, QIU Yong,AGYN Xia,et al. This paper discusses the application of analytic hierarchy process to determine the weight coefficient [J].Mechanical Engineer,2012,33(6）:22-25.]   
+[13］陈彦清,杨建宇,苏伟,等.县级尺度下雪灾风险评价方法[J]. 农业工程学报,2010,26（增刊2）:307-311.[CHEN Yanqing， YANG Jianyu,SU Wei,et al. Risk assessment method for snow disasteratcounty level[J].Journal of Agricultural Enginering, 2010,26(Suppl.2） :307 -311.]   
+[14］向明燕,范丽红,海米提·依米提,等.新疆近45a气象灾害及 其防御措施[J].干旱区研究,2007,24（5）：712-716.[XIANG Mingyan,FANLihong,YIMITIHaimiti,etal.Meteorological disasters in Xinjiang in recent 45 years and their preventive measures [J].Arid Zone Research,2007,24(5):712 -716.]   
+[15］田丰,张军,冉有华,等.不同空间尺度的山洪灾害风险评价模 型对比研究[J].干旱区地理,2019,42（3）:559-569.［TIAN Feng,ZHANG Jun,RAN Youhua,et al. Model comparison of mountain torrent disaster risk assessment in different spatial scale [J].Arid Land Geography,2019,42(3）:559 -569.]   
+[16］徐玉霞,许小明,马楠.县域尺度下的陕西省洪涝灾害风险评 估及区划[J].干旱区地理,2018,41（2）:306-313.[XU Yuxia,XU Xiaoming,MA Nan.Assessment and regionalization of flood disaster risk in Shaanxi Province at the county scale[J].Arid Land Geography,2019,41（2):306-313.]   
+[17］吴美华,王怀军,孙桂丽,等.新疆农业气象灾害成因及其风险 分析［J].干旱区地理,2016,39（6）：1212－1220.［WU Meihua,WANG Huaijun,SUN Guili,et al.Formation and risk analysis of meteorological disasters in XinjiangJ].Arid Land Geography,2016,39(6):1212-1220.]   
+[18］德勒格日玛,韩理,孟雪峰,等.内蒙古牧区暴风雪风险评估研 究[J].干旱区地理,2019,42（3）:469－477.[DE Legerima, HAN Li,MENG Xuefeng,et al. Risk assessment of snowstorm in pasturing areas of Iner Mongolia[J]. AridLand Geography, 2019,42(3) :469 -477. ]
+
+# Spatial and temporal distribution characteristics and its classification of snow disaster in Xinjiang
+
+WANG Yong'， ZHAO Zhan-cheng²,YAN Jun³,TANG Ye4，CAI Yun-tong5 (1. Xinjiang Ecological Meteorology and Satellte Remote Sensing Center,Urumqi 83002,Xinjiang,China; 2. Bazhou Meteorological Bureau of Xinjiang,Korla 841ooo,Xinjiang,China; 3.Xinjiang Weather Modification Office,Urumqi 83ooO2,Xinjiang,China; 4.Xinjiang Meteorological Observatory,Urumqi 83ooo2,Xinjiang,China; 5.Urumqi Tianshan District Meteorological Bureau,Urumqi 83ooOo,Xinjiang,China)
+
+Abstract:Locatedat the centerof Eurasia,Xinjiang has a vast area of1.66 million square kilometers,accounting for one-sixth of China.The landform of Xinjiang can be roughlysummarized as“three mountains sandwiched between two basins,"the mountains being the Kunlun,Altun,and Tianshan Mountains andthe basins being the Tarim and Junggarbasins.Tianshan crosses thecentral part of Xinjiang.Snow exists atthetopofthe mountain year-round, andits environment is extremely harsh,with frequent disasters.This paper analyzes the temporal and spatial characteristics of disasters using 403 effective sample sequences of snow disaster statistics from 1954 to 2018 in order to constructa disaster index using multi-index comprehensive analysis methods,such as the numberof snowstorms,the number of colapsed houses,the number of colapsed livestock sheds,the number of damaged sheds,the numberof dead animals,the area affcted,and economic losses,among other parameters.Subjective factors are therefore excluded.The disaster index consistent with a combination of the $\Gamma$ distribution and the F distribution function can objectivelydepicttherisk of snow disaster.Thisriskcanbedivided into four levels:general,heavier,serious,and extra heavy.The intensity of snow disasters has increased significantly since the199Os,showinga significant increase in 2010.On the spatial scale,the intensityofsnow disasters is higher in western Xinjiangthan in theeast,higher inthe north than inthe south,and higher in the mountains than inthe basins oron the plains.According tothe intensityof snow disaster calculated inthis paper,the snow disaster areain Xinjiang isconcentrated inthe Tianshan Mountains and its northern areas.The Kashi Prefecture in Southern Xinjiang is also a disaster-prone area.Grave disasters account for only approximately $10 \%$ of all snow disasters.By contrast,around $50 \%$ of snow disasters are classified into the general level,whereas heavier and severe snow disaster each account for about $20 \%$ ：
+
+Key words:Snow disaster；Characteristic；Districts；Disaster loss index；Assessment

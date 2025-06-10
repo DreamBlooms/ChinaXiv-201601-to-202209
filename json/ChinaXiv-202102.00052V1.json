@@ -1,0 +1,372 @@
+[
+    {
+        "type": "text",
+        "text": "甘肃省地热流体化学及环境同位素特征和形成年龄分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张凌鹏}，丁宏伟²，张家峰23，王玉玺4，田辽西5",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1甘肃省地矿局第二地质矿产勘查院，甘肃 兰州730020；2 甘肃省地质矿产  \n勘查开发局，甘肃 兰州730000；3甘肃省地矿局第一地质矿产勘查院，甘肃 天水741020；4甘肃省地矿局第三地质矿产勘查院,甘肃 兰州730050;5甘肃省地矿局水文地质工程地质勘察院，甘肃 张掖734000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用大量的地热流体化学成分及环境同位素 $\\left( \\phantom { - } 8 \\mathrm { D } , 8 ^ { 1 8 } \\mathrm { O } , ^ { 1 4 } \\mathrm { C } \\right)$ 测试数据，深入分析了隆起山地构造对流型、沉降盆地传导型地热流体的化学特征及分布规律,进而对地热流体的环境同位素分布特征及形成年龄进行了梳理总结，得出了明确的结论。结果表明：隆起山地构造对流型地热田地热流体主要以断裂上升泉的形式出露,分布于西秦岭-祁连造山带，补给来源为当地及周边大气降水入渗，地热流体形成年龄一般小于 $5 0 0 0 \\sim 3 0 0 0 0 \\mathrm { a }$ ，水质较好，属“开启型”的地热系统；热储层岩性、断裂规模及水热循环方式和深度等明显控制着地热流体化学类型、环境同位素特征和形成年龄。沉降盆地传导型地热田地热流体主要以管井开采的方式出露；热储埋藏深度小于 $1 6 0 0 \\mathrm { m }$ 的地热井，地热流体补给来源为当地及周边大气降水入渗，形成年龄一般小于 $5 0 0 0 \\sim 3 0 0 0 0 \\mathrm { a }$ ，水质相对较好，属“半开启-半封闭型”的地热系统；热储埋藏深度介于 $1 6 0 0 \\sim 2 6 0 0 \\mathrm { m }$ 之间的地热开采井,主要为地质历史时期逐步形成的“古水”,水化学类型复杂且水质较差，地热流体形成年龄介于$3 0 0 0 0 \\sim 5 0 0 0 0 \\mathrm { a } ,$ 属\"封闭型”的地热系统;热储层岩性、埋藏深度、地下水在岩层中的滞留时间与循环深度等明显控制着地热流体化学类型、环境同位素富集程度和形成年龄。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：热流体；水化学；环境同位素；形成年龄；地热系统",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地热系指地球内部所储存的热量，一般构成相对独立的热能储存、运移、转换的系统。按地质成因和能量传递方式可划分为隆起山地构造对流型和沉降盆地传导型二个类型的地热田[1]。甘肃省各时代地层均有分布、地层序列较为完整，新构造运动强烈，岩浆侵入和喷发作用多期次交替发生，火山岩与沉积岩及变质岩相伴出露，各构造单元间或其内褶皱与断裂发育、构造活动复杂，加之山地相对丰富的降水和地质历史时期形成的“古封存水”及沟通山盆之间的导水构造，水热型地热资源禀赋凸显，从而形成了丰富的地热资源。根据60余年地质勘探证实，甘肃境内地热类型齐全，而且具有分布广、埋藏较浅和便于开发的特点，是一个地热资源丰富并具有良好开发利用前景的省份，也是我国的新能源和可再生能源的大省。经初步评价2，省内可供开发利用的水热型地热能资源量达 $1 . 4 1 \\times 1 0 ^ { 1 0 }$ +标准煤,全部开发后可实现供暖面积达 $1 . 5 8 \\times 1 0 ^ { 1 1 } \\mathrm { m } ^ { 2 }$ ，有着巨大的开发利用前景。自2000年以来，有关地学科研人员对甘肃省或某一区域地热资源形成的地质条件、分布特征、成因类型、储存富集规律及开发利用方式和方向等诸多领域进行了富有成效的探索研究，李百祥等[3]、安永康等[4从甘肃省盆山构造格局的角度，定性探讨了对地温场及地热资源类型的控制，概略阐述了地热资源分布特征、开发现状与前景；郑希民等[5]、白福等[6]、张子祥等[7]对兰州-民和断陷盆地地热地质条件进行了深入分析，并提出了热储概念模型;丁宏伟等[8]、王彩霞等[9]、高振荣等\"从不同水体环境同位素含量特征，详细分析论证了河西走廊及祁连山区深层地下水的补给来源和深层地温突变的原因。这些研究成果对加快甘肃省地热资源的勘查及开发利用无疑产生了巨大的推动作用。但从水化学及环境同位素特征角度探讨甘肃省地热流体的形成原因、补给来源及形成年龄等方面的研究成果鲜有公开的报导，本文尚属首次。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "区域地热地质背景条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "甘肃省地处我国五大地质板块交汇地带，具有不同时代的海相火山岩系、多种类型的沉积建造、复杂的沉积型相和种类齐全的变质岩系及强烈的岩浆活动过程,地壳及上地幔主要由变质岩和地壳重熔花岗质岩石组成，发育了不同序列的多个构造单元。多期次挤张收缩、岩层褶皱断裂、陆内地震活跃及沉积作用，控制着形式多样的山盆构造格局和地层分布，区域大地热流值及地温场水平和垂向规律明显，从而也影响着地热资源的形成与分布。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1区域大地热流值特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 隆起山地造山带通过对全省不同地质构造单元热流值的统计[2-4],大地热流与构造活动性及地质年代之间存在着良好的一致性，构造活动区的基底一般隐伏着来自地壳深部或上地幔的高热流，高热流的存在又增加了地壳浅部构造活动区的活动强度。甘肃省构造作用活跃的祁连山-阿尔金山区大地热流值一般大于 $7 0 \\mathrm { m W } \\cdot \\mathrm { m } ^ { - 2 }$ ，西秦岭、北山地区$6 0 \\sim 7 0 ~ \\mathrm { m W } \\cdot \\mathrm { m } ^ { - 2 }$ ,六盘山构造带大地热流值介于$5 0 \\sim 6 0 \\mathrm { m W } \\cdot \\mathrm { m } ^ { - 2 }$ 之间(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2沉降盆地区河西走廊盆地群大地热流值一般为 $5 0 \\sim 6 0 ~ \\mathrm { m W \\cdot m ^ { - 2 } }$ ,总体存在自南向北、从山区到盆地大地热流值由高渐低的变化规律[2-4];陇西黄土高原大地热流值一般为 $6 0 \\sim 7 0 ~ \\mathrm { m W \\cdot m ^ { - 2 } }$ ,局部大于$7 0 \\ \\mathrm { m W } \\cdot \\mathrm { m } ^ { - 2 }$ ;陇东黄土高原大地热流值为 $5 0 \\sim 6 0 \\$ $\\mathrm { m } \\mathrm { W } \\cdot \\mathrm { m } ^ { - 2 }$ ，自西向东逐渐增大,东部子午岭一带大于$7 0 \\mathrm { m W } \\cdot \\mathrm { m } ^ { - 2 }$ 。研究表明,河西走廊花海盆地和陇西黄土高原的兰州-榆中盆地大地热流值较高。花海盆地和相邻的敦煌-瓜州盆地同处于敦煌-阿拉善",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/529eaa27a51ebccd9138a2527f1695dd84a3bf994c3c3dcc40f7133c235d3121.jpg",
+        "img_caption": [
+            "图1甘肃省区域地热地质背景及地热异常点分布图(截止2018年12月）",
+            "Fig.1Regional geothermal geological background and geothermal outliers in Gansu Province "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以元古-太古界为基底的古老地块，是NEE向左行阿尔金走滑断裂带末段效应产生的NNE向拉分盆地，而裂谷拉张阶段一般具有很高的热流值；兰州-榆中盆地处于NWW向西秦岭造山带北缘断裂和北祁连造山带南缘断裂间，属NNW向的反S型走滑压扭盆地，位于盆地边缘的红古区窑街煤矿高地温场特征明显,5个测温点平均大地热流值为 $8 1 . 4 ~ \\mathrm { m W } \\cdot \\mathrm { m } ^ { - 2 }$ ，属甘肃省内最高，这主要是煤层自燃形成烧变岩引起地下温度升高所导致的；另外，窑街矿区的游离$\\mathrm { C O } _ { 2 }$ 含量也较高，这是地下水在深循环过程中引起碳酸盐岩类岩石脱碳作用产生的 $\\mathrm { C O } _ { 2 }$ ，在高温条件下“气-水相溶”并存于热水之中的原因所致，与矿区同处断裂带的永登药水沟、龙王沟温泉亦具有游离 $\\mathrm { C O } _ { 2 }$ 含量较高的特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2区域地温场特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "甘肃省地温梯度一般介于 $2 . 0 \\sim 3 . 5 \\mathrm { ^ c \\cdot ( 1 0 0 m ) ^ { - 1 } }$ 之间，最高达 $4 . 0 ^ { \\circ } \\mathrm { C } \\cdot ( 1 0 0 \\mathrm { m } ) ^ { - 1 }$ ,存在自西向东、由北向南地温梯度逐渐升高的变化规律[2-4]。其中北山地区地温梯度最低，一般小于 $2 . 0 \\operatorname { \\mathrm { ~ ‰ ~ } }$ ；祁连山-阿尔金山及西秦岭地温梯度介于 $2 . 5 \\sim 3 . 5$ $\\mathrm { { } ^ { q } C \\cdot ( 1 0 0 \\ m ) ^ { - 1 } }$ 之间，西秦岭北麓地温梯度平均3.0$\\mathrm { { } ^ { 9 } C \\cdot ( 1 0 0 m ) ^ { - 1 } }$ 以上，局部达 $4 . 0 ^ { \\circ } \\mathrm { C } \\cdot ( 1 0 0 \\mathrm { m } ) ^ { - 1 }$ 。河西走廊盆地群地温梯度一般介于 $2 . 0 \\sim 3 . 0 \\mathrm { ‰ }$ 之间，中西部的敦煌-瓜州盆地、酒泉东盆地、张掖-民乐盆地局部可达 $3 . 5 ~ \\mathrm { { ^ { \\circ } C } } \\cdot ( 1 0 0 ~ \\mathrm { { m } } ) ^ { - 1 }$ ;陇西黄土高原地温梯度一般介于 $2 . 0 \\sim 2 . 5 ~ \\mathrm { ^ c \\cdot ( 1 0 0 ~ m ) ^ { - 1 } }$ 之间,其中兰州-榆中盆地、靖远-会宁盆地较高，兰州-榆中盆地局地和边缘可达 $4 . 0 \\ \\mathrm { { ^ { \\circ } C } \\cdot ( 1 0 0 \\ m ) ^ { - 1 } }$ ，,靖远-会宁盆地局地达 $3 . 0 ^ { \\circ } \\mathrm { C } { \\cdot } ( 1 0 0 \\mathrm { m } ) ^ { - 1 }$ ;陇东黄土高原地温梯度一般介于 $2 . 0 \\sim 3 . 5 ^ { \\circ } \\mathrm { C } \\cdot ( 1 0 0 \\mathrm { m } ) ^ { - 1 }$ 之间，存在自西向东逐渐增大的变化规律，磴口-平凉断裂以西的西缘逆冲褶皱带小于 $2 . 0 \\mathrm { { ^ { \\circ } C } \\cdot ( 1 0 0 \\mathrm { { m } ) ^ { - 1 } } }$ ，以东的白垩系盆地为 $2 . 5 \\sim$ $3 . 5 ^ { \\circ } \\mathrm { C } \\cdot ( 1 0 0 \\mathrm { m } ) ^ { - 1 }$ ,子午岭以东大于 $3 . 5 ^ { \\circ } \\mathrm { C } { \\cdot } ( 1 0 0 \\mathrm { m } ) ^ { - 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此不难看出，甘肃省区域地温场与大地热流值具有基本相同的变化规律，即大地热流值高的区域地温梯度亦高，大地热流值低的区域地温梯度亦较低。区域大地热流值、地温梯度隆起山地造山带一般高于沉降盆地区 $5 \\sim 1 0 \\mathrm { \\ m W } \\cdot \\mathrm { m } ^ { - 2 }$ 和 $0 . 5 \\sim 1 . 0$ $\\mathrm { { } ^ { 9 } C \\cdot ( 1 0 0 m ) ^ { - 1 } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3地热异常点及分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "据最新资料统计[2],截止2018年12月，全省共有地热异常点78处（含水温 $\\geqslant 1 5 \\ \\mathrm { { ^ \\circ C } }$ 的温泉、地热井）。其中温泉24处，占地热点总数的 $3 0 . 7 \\%$ ，均分布于祁连山-阿尔金山、北山及西秦岭，水温均小于$6 0 ^ { \\circ } \\mathrm { C }$ ,其中 $4 0 \\sim 6 0  { \\mathrm { ~ \\circ ~ } }  { \\mathrm { C } }$ 的中低温泉水3处， $2 5 \\sim 4 0 \\mathrm { ^ { \\circ } C }$ 的低温泉水11处， $1 5 \\sim 2 5 ^ { \\circ } \\mathrm { C }$ 的热水异常泉水10处；地热井54眼，占地热点总数的 $6 9 . 3 \\%$ ,分布于祁连山-阿尔金山、北山、西秦岭及河西走廊盆地群、陇西-陇东黄土高原,井口水温一般介于 $1 7 . 5 \\sim 7 7 . 0 \\mathrm { ~ \\textdegree C }$ 之间。其中大于 $6 0 ~ \\mathrm { { ^ { \\circ } C } }$ 的中低温热水井7眼， $4 0 \\sim 6 0 ~ \\mathrm { ^ { \\circ } C }$ 的中低温热水井17眼， $2 5 \\sim 4 0 ~ \\mathrm { ^ { \\circ } C }$ 的低温热水井16眼， $1 5 \\sim 2 5 ^ { \\circ } \\mathrm { C }$ 的热水异常井14眼。现状热流体井口水温大于 $7 0 \\ \\mathrm { { ^ { \\circ } C } }$ 的地热井共计有4眼，主要分布在兰州-榆中盆地和张掖-民乐盆地，分别为兰州市西固区深沟桥天庆国际新城 $7 1 \\ \\mathrm { { ^ { \\circ } C } }$ 、兰州市七里河区西部欢乐园 $7 3 \\mathrm { { ^ \\circ C } }$ 、兰州市安宁区仁寿山庄 $7 2 \\%$ 和张掖市民乐县民乐六坝工业生态园 $7 7 \\mathrm { { ^ \\circ C } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 数据采集与测试",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "项目共采集分析和收集2000一2018年地热井、温泉地热流体及大气降水化学、环境同位素样品146组。其中地热流体化学样品54组，隆起山地造山带20组，沉降盆地区34组；环境同位素样品38组，其中大气降雨样品8组，隆起山地造山带6组，沉降盆地区24组。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "化学成分测试分析项目为 $\\mathrm { C a ^ { 2 + } , M g ^ { 2 + } , N a ^ { + } , C O _ { 3 } ^ { 2 - } }$ 、$\\mathrm { H C O _ { 3 } ^ { - } \\cdot C l ^ { - } \\cdot S O _ { 4 } ^ { 2 - } \\cdot F ^ { - } \\cdot p H }$ 值、游离 $\\mathrm { C O } _ { 2 }$ 、TDS(溶解性总固体）、总硬度、总碱度共计13个因子的浓度；环境同位素分析项目为氘(8D)、氧十八 $( \\mathfrak { F } ^ { 1 8 } \\mathrm { O } ) 2$ 个因子的含量比值和碳十四( $^ { 1 4 } \\mathrm { C } )$ 的年龄。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "化学成分测试分析由甘肃省中心实验室、甘肃地质工程实验室和兰州威立雅水务集团实验室完成，常规阴离子由美国Dionex公司的DX-120离子色谱仪测定，常规阳离子采用ICP-DES(ICAP6300)仪器测定， $\\mathrm { \\ p H }$ 值由便携式 $\\mathrm { \\ p H }$ 计现场测定。环境同位素测试分析由中国地质调查局石家庄水文地质环境地质研究所和河海大学同位素水文学研究所完成。8D、 $\\mathfrak { F } ^ { 1 8 } \\mathrm { O }$ 含量由气体稳定同位素比值质谱仪（型号MAT253)测定，8D分析精度为 $2 . 0 \\text{‰}$ $\\mathbf { 8 ^ { 1 8 } O }$ 分析精度为 $0 . 2 0 \\mathrm { \\ ‰ }$ ，测定采用的标准是“维也纳标准平均海水\"(Vienna Standard Mean OceanWater,简称VSMOW); $^ { 1 4 } \\mathrm { C }$ 采用加速器质谱碳十四断代法（即AMS-AcceleratorMassSpectrometry）,结合湿法氧化和液体闪烁技术(TOC分析仪)综合测定，测试精度小于 $5 \\% \\sim 1 0 \\%$ 。经部分平行样品测试结果对比分析，所有测试结果真实有效。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3地热流体化学特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1隆起山地构造对流型地热流体化学特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据隆起山地构造对流型地热流体水质分析资料(表1),TDS介于 $0 . 2 8 \\sim 2 . 8 7 ~ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ 之间,平均为$1 . 2 5 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ ,地热流体出露形式主要为天然泉群，少量为地热井（自流)。其中TDS小于 $0 . 5 0 \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ 的有5组，集中分布于西秦岭及北麓的迭部卡拉沟、武山县城和天水温家峡，属断层上升泉群或开采井，水化学类型以 $\\mathrm { H C O _ { 3 } \\cdot S O _ { 4 } \\mathrm { - N a } \\left( C a \\cdot M g \\right) }$ 型为主, $\\mathrm { \\ p H }$ 值$7 . 0 7 \\sim 8 . 9 8 \\$ ;TDS介于 $0 . 5 \\sim 1 . 0 ~ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ 之间的仅有1组，分布于西秦岭迭部旺藏，属断层上升泉群，水化学类型为 $\\mathrm { S O _ { 4 } { \\cdot } H C O _ { 3 } { - } C a { \\cdot } M g }$ 型， $\\mathrm { \\ p H }$ 值7.22;TDS介于$1 . 0 \\sim 2 . 0 ~ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ 之间的有6组，分布于西秦岭北麓的通渭汤池沟、清水汤浴沟、麦积中滩和祁连山北麓",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d7269d51b18a2d55b8760bed0b4bce0bda73b83a2224f62e958a31a16f14f81.jpg",
+        "table_caption": [
+            "表1甘肃省部分地热流体化学及环境同位素特征一览表",
+            "Tab.1Hydrochemistryand environmental isotopic characteristics of some geothermalfluids in Gansu Province "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>rab.TTyurocnehstryand 成因类型</td><td>地热田</td><td>水样编号</td><td>CirtarTsotoplChar TDS/g·L-1</td><td>pH值</td><td>lsuiesorsonegeotnerharHudsnrOansuTroviee 水化学类型</td><td>8180/%0</td><td>8D/%0</td><td>14C/104a</td><td>井深/m</td></tr><tr><td>沉降盆地传导型</td><td>敦煌-瓜州盆地</td><td>DR03</td><td>1.81</td><td>8.22</td><td>SO4·CL-Na</td><td>-9.87</td><td>-85.62</td><td>2.12</td><td>1300</td></tr><tr><td></td><td></td><td>DR50</td><td>0.46</td><td>7.41</td><td>HCO4·SO4-Na·Ca</td><td>-9.64</td><td>-72.36</td><td>0.85</td><td>1460</td></tr><tr><td></td><td></td><td>DR51</td><td>1.15</td><td>7.78</td><td>SO4·CL-Na</td><td>-10.16</td><td>-89.36</td><td>2.14</td><td>1600</td></tr><tr><td></td><td>酒泉东盆地</td><td>DR52</td><td>0.53</td><td>7.40</td><td>HCO4·SO4-Na·Mg</td><td>-8.00</td><td>-61.44</td><td>0.67</td><td>1500</td></tr><tr><td></td><td></td><td>DR53</td><td>6.87</td><td>8.14</td><td>CL-Na</td><td>-7.82</td><td>-57.73</td><td>4.25</td><td>1950</td></tr><tr><td></td><td></td><td>DR54</td><td>3.26</td><td>7.45</td><td>CL-Na·Mg</td><td>-7.94</td><td>-59.81</td><td>2.24</td><td>1880</td></tr><tr><td></td><td>张掖-民乐盆地</td><td>DR55</td><td>4.50</td><td>8.52</td><td>CL·SO4-Na</td><td>-10.41</td><td>-76.00</td><td>3.86</td><td>2 270</td></tr><tr><td></td><td></td><td>DR56</td><td>3.43</td><td>7.60</td><td>CL·SO4-Na</td><td>-10.51</td><td>-77.00</td><td>3.84</td><td>1450</td></tr><tr><td></td><td></td><td>DR57</td><td>5.81</td><td>6.80</td><td>CL·SO4-Na</td><td>-9.46</td><td>-71.25</td><td>3.65</td><td>2 600</td></tr><tr><td></td><td>兰州-榆中盆地</td><td>DR32</td><td>28.42</td><td>7.00</td><td>CL-Na</td><td>-10.32</td><td>-78.72</td><td>4.63</td><td>2008</td></tr><tr><td></td><td></td><td>DR33</td><td>4.82</td><td>8.27</td><td>CL-Na·Ca</td><td>-9.31</td><td>-64.83</td><td>3.99</td><td>2003</td></tr><tr><td></td><td></td><td>DR34</td><td>19.94</td><td>7.71</td><td>CL-Na</td><td>-11.46</td><td>-83.82</td><td>4.18</td><td>2 508</td></tr><tr><td></td><td></td><td>DR41</td><td>20.45</td><td>7.83</td><td>CL-Na</td><td>1</td><td>1</td><td>4.04</td><td>2 370</td></tr><tr><td></td><td></td><td>DR58</td><td>11.46</td><td>7.07</td><td>CL-Na</td><td>-10.62</td><td>-83.73</td><td>4.46</td><td>2502</td></tr><tr><td></td><td></td><td>DR59</td><td>45.93</td><td>8.22</td><td>CL-Na</td><td>-11.17</td><td>-82.08</td><td>4.84</td><td>1403</td></tr><tr><td></td><td></td><td>DR60</td><td>15.81</td><td>7.39</td><td>CL-Na</td><td>-10.24</td><td>-82.98</td><td>4.02</td><td>2502</td></tr><tr><td></td><td>陇东白垩系盆地</td><td>DR18</td><td>1.26</td><td>8.10</td><td>SO4·HCO3-Na</td><td>-12.99</td><td>-84.92</td><td>2.88</td><td>680</td></tr><tr><td></td><td></td><td>DR22</td><td>1.25</td><td>8.39</td><td>SO4·HCO3-Na</td><td>-12.12</td><td>-85.74</td><td>2.67</td><td>920</td></tr><tr><td></td><td></td><td>DR31</td><td>2.72</td><td>7.88</td><td>SO4·CL-Na</td><td>-12.22</td><td>-88.11</td><td>2.81</td><td>2 400</td></tr><tr><td></td><td></td><td>DR47</td><td>2.93</td><td>7.70</td><td>SO4·CL-Na</td><td>1</td><td>1</td><td>2.97</td><td>2100</td></tr><tr><td>隆起山地构造对流型</td><td>永登县</td><td>DR35</td><td>2.13</td><td>7.40</td><td>CL·SO4-Na</td><td>-11.34</td><td>-75.16</td><td>2.76</td><td>泉群</td></tr><tr><td></td><td>药水沟</td><td>DR36</td><td>2.04</td><td>7.30</td><td>CL·SO4-Na</td><td>-11.03</td><td>-75.11</td><td>2.85</td><td>泉群</td></tr><tr><td></td><td>凉州药王泉</td><td>DR37</td><td>1.55</td><td>8.10</td><td>CL·SO4-Na</td><td>-10.43</td><td>-74.00</td><td>1.33</td><td>89.0</td></tr><tr><td></td><td>迭部县旺藏</td><td>DR16</td><td>0.88</td><td>7.22</td><td>SO4·HCO3-Ca·Mg</td><td>-12.85</td><td>-84.01</td><td>0.82</td><td>泉群</td></tr><tr><td></td><td>迭部卡拉沟</td><td>DR15</td><td>0.38</td><td>7.07</td><td>HCO3-Ca·Mg</td><td>-13.75</td><td>1</td><td></td><td>泉群</td></tr><tr><td></td><td>麦积区中滩</td><td>DR08</td><td>1.25</td><td>7.60</td><td>SO4·CL·HCO3-Na</td><td>-10.35</td><td>-74.21</td><td>0.46 1.23</td><td></td></tr><tr><td></td><td>武山县城</td><td>DR04</td><td>0.30</td><td>8.88</td><td>HCO3·SO4-Na</td><td>-12.13</td><td>-83.78</td><td>0.30</td><td>1500</td></tr><tr><td></td><td></td><td>DR05</td><td>0.28</td><td>8.93</td><td>HCO3·SO4-Na</td><td>-12.29</td><td>-83.49</td><td></td><td>125</td></tr><tr><td></td><td>清水汤浴沟</td><td></td><td>1.23</td><td>8.13</td><td>SO4-Na·Ca</td><td></td><td>-83.63</td><td>0.38</td><td>泉群</td></tr><tr><td></td><td>天水市温家峡</td><td>DR12</td><td></td><td></td><td></td><td>-11.65</td><td></td><td>1.47</td><td>452</td></tr><tr><td></td><td></td><td>DR10</td><td>0.45 0.36</td><td>8.98 8.94</td><td>HCO3·SO4-Na HCO3·SO4-Na</td><td>-10.35 -11.27</td><td>-74.21 -78.23</td><td>0.45 0.20</td><td>泉群 500</td></tr><tr><td></td><td>通渭县汤池沟</td><td>DR11 DR43</td><td>1.61</td><td>8.24</td><td>SO4·CL-Na·Ca</td><td>1</td><td>1</td><td>1.12</td><td>450</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>DR01</td><td>1.64</td><td>7.68</td><td>SO4·CL-Na·Ca</td><td>-12.21</td><td>-88.42</td><td>1.57</td><td>泉群</td></tr><tr><td></td><td>秦安夫子沟</td><td>DR42</td><td>1.76</td><td>7.93</td><td>C.-SL-Na-Cca</td><td>__</td><td>__</td><td>1.84</td><td>泉群</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "的凉州西营药王泉，属断层上升泉群或开采井，水化学类型以 $\\mathrm { S O _ { 4 } \\cdot C L \\mathrm { - N a \\cdot C a } }$ 型为主， $\\mathrm { \\ p H }$ 值 $7 . 6 0 \\sim$ 8.24;TDS介于 $2 . 0 \\sim 3 . 0 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ 之间的有3组，分布于祁连山北麓的永登药水沟和秦安夫子沟，属断层上升泉群，水化学类型均为 $\\mathrm { C L \\cdot S O _ { 4 } \\mathrm { - } N a }$ 型， $\\mathrm { \\ p H }$ 值$7 . 3 0 \\sim 9 . 6 8 \\$ ○",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2沉降盆地传导型地热流体化学特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据沉降盆地传导型地热流体水质分析资料(表1),TDS介于 $0 . 4 6 \\sim 4 5 . 9 3 \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 之间,变化幅度较大,平均为 $8 . 9 9 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ ,地热流体出露形式均为地热井(部分自流)。其中TDS小于 $1 . 0 \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ 的仅有2组,分布于敦煌-瓜州盆地的敦煌市城区附近和酒泉东盆地的肃州城区东北，热储埋深 $1 0 5 0 \\sim 1 4 0 0 \\mathrm { m }$ ，水化学类型为 $\\mathrm { H C O _ { 3 } { \\cdot } S O _ { 4 } { - } N a { \\cdot } C a ( M g ) }$ 型， $\\mathrm { \\ p H }$ 值7.40左右；TDS介于 $1 . 0 \\sim 3 . 0 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ 之间的有6组，集中分布于陇东白垩系盆地和敦煌-瓜州盆地大部。其中陇东白垩系盆地热储埋深 $6 0 0 \\sim 9 0 0 \\mathrm { m }$ ,水化学类型以$\\mathrm { S O } _ { 4 } \\cdot \\mathrm { H C O } _ { 3 } – \\mathrm { N a }$ 、 $\\mathrm { S O _ { 4 } \\cdot C L - N a }$ 型为主， $\\mathrm { \\ p H }$ 值 $7 . 7 0 \\sim$ 8.39;敦煌-瓜州盆地热储埋深 $1 ~ 1 0 0 \\sim 2 ~ 4 0 0 ~ \\mathrm { m }$ ，水化学类型以 $\\mathrm { S O _ { 4 } { \\cdot } C L { - } N a }$ 型为主, $\\mathrm { \\ p H }$ 值 $7 . 7 8 \\sim 8 . 2 2$ ; TDS介于 $3 . 0 \\sim 5 . 0 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ 之间的有4组，分布于酒泉东盆地、张掖-民乐盆地中和兰州-榆中盆地局部,热储埋深 $1 \\ 4 0 0 \\sim 2 \\ 2 0 0 \\ \\mathrm { m }$ ,水化学类型为 $\\mathrm { C L \\cdot S O _ { 4 } \\mathrm { - N a } }$ 、（204号 $\\mathrm { { C L } \\mathrm { { - N a } \\cdot \\mathrm { { M g } ( C a ) } } }$ 型， $\\mathrm { \\ p H }$ 值 $7 . 4 5 \\sim 8 . 5 2$ ;TDS介于 $5 . 0 \\sim$ $1 0 . 0 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ 的仅有2组，分布于酒泉东盆地、张掖-民乐盆地局部，热储埋深 $1 8 0 0 \\sim 2 4 0 0 \\mathrm { m }$ ，水化学类型为 $\\mathrm { C l { - } N a \\mathrm { \\Omega } , C L { \\cdot } S O _ { 4 } { - } N a }$ 型， $\\mathrm { \\ p H }$ 值 $6 . 8 0 \\sim 8 . 1 4$ ;TDS介于$1 0 . 0 \\sim 5 0 . 0 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ 之间的有6组，集中分布于兰州-榆中盆地，热储埋深 $1 8 0 0 \\sim 2 4 5 0 \\mathrm { m }$ ,水化学类型均为CL-Na型, $\\mathrm { \\ p H }$ 值 $7 . 0 0 \\sim 8 . 2 2 \\$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4地热流体环境同位素特征及形成年龄分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1隆起山地构造对流型地热流体环境同位素特征及地热系统",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据隆起山地对流型地热流体环境同位素测试结果(表1)， $\\mathfrak { \\delta } ^ { 1 8 } \\mathrm { O }$ 值一般介于 $- 1 0 . 3 5 \\% o \\sim - 1 3 . 7 5 \\% o$ 之间，平均为 $- 1 1 . 6 3 \\% o$ ,最大值出现于西秦岭北麓天水麦积中滩，属地热井(井深 $1 5 0 0 \\mathrm { m }$ ，自流），最小值出现于西秦岭迭部卡拉沟，属自流的断层上升泉;8D值一般介于 $- 7 4 . 0 0 \\% o \\sim - 8 8 . 4 2 \\% o$ 之间，平均为$- 7 9 . 4 7 \\% o$ ，最大值出现于祁连山东段北麓凉州药王泉，属断层上升泉，最小值出现于西秦岭北麓通渭汤池沟，属断层上升泉。地热流体的 $8 ^ { 1 8 } 0 . 8 \\mathrm { D }$ 值变化幅度均不大，平均含量接近于当地大气降水背景值（天水站， $\\mathbf { 8 ^ { 1 8 } O }$ 平均值 $\\mathrm { ~ - ~ } 1 0 . 2 4 \\% o$ ,8D平均值$- 8 0 . 1 1 \\text{‰}$ )。从地热流体的 $8 ^ { 1 8 } \\mathrm { O } { - } 8 \\mathrm { D }$ 关系图可以看出（图2)，样品点大部分位于全球大气降水线和西北大气降水线附近和上方，说明大气降水是地热流体的主要补给源，部分流体受到一定程度的蒸发，$8 ^ { 1 8 } 0 , 8 \\mathrm { D }$ 含量与热水中溶解的氢氧离子交换几率小， $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 漂移程度小，总体概化为“开启型”的地热系统。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20- 8D=7.488180+3.530-20 8D=6.898180+7.67-408D=7.05810-2.17  \n%-60  \nD -80-100 X 沉降盆地热流体同位素-120 X 隆起山地热流体同位素全球大气降水线-140 西北地区大气降水线-160 兰州大气降水线8D=8818O+10 张掖大气降水线-180-22-20-18-16-14-12-10 -8 -6 -4 -2 08180/%",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2沉降盆地传导型地热流体环境同位素特征及地热系统",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据沉降盆地传导型地热流体环境同位素测试结果， $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 值一般介于 $- 7 . 8 2 \\% o \\sim - 1 2 . 9 9 \\% o$ 之间，平均为 $- 9 . 2 4 \\% o$ ;8D值一般介于 $- 5 7 . 7 3 \\% o \\sim - 8 9 . 3 6 \\% o$ 之间，平均为 $- 7 6 . 2 3 \\%$ 。对 $\\mathbf { \\delta } ^ { 8 } \\mathbf { 0 }$ 而言，西部酒泉东盆地、张掖-民乐盆地和部分东部陇东白垩系盆地 $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 值明显偏大，介于 $- 7 . 8 2 \\% o \\sim - 1 0 . 0 1 \\%$ 之间，平均为$- 8 . 2 9 \\% o$ ;而中部兰州-榆中盆地和东部陇东白垩系盆地 $\\mathbf { 8 ^ { 1 8 } O }$ 值相对偏小,介于 $- 9 . 3 1 \\% o \\sim - 1 2 . 9 9 \\% o$ 之间，平均为 $- 1 1 . 1 6 \\% o$ 。对8D而言，西部河西走廊盆地群8D值明显偏大，介于 $- 5 7 . 7 3 \\% o \\sim - 8 9 . 3 6 \\% o$ 之间，平均为 $- 7 1 . 2 8 \\% o$ ;中东部兰州-榆中盆地和陇东白垩系盆地8D值相对偏小，介于 $- 6 4 . 8 3 \\% o \\sim - 8 8 . 1 1 \\%$ 之间，平均为 $- 8 0 . 6 6 \\%$ 。总体来说，西部河西走廊盆地群$\\delta ^ { \\mathrm { 1 8 } } \\mathrm { O } , \\delta \\mathrm { D }$ 值平均含量显著高于当地大气降水背景值（张掖站， $\\mathbf { \\delta } ^ { 8 } \\mathbf { { ^ { 1 8 } } } \\mathbf { O }$ 平均值 $- 1 0 . 7 1 \\%$ ,8D平均值 $- 7 9 . 3 0 \\% o$ ，中东部兰州-榆中盆地和陇东白垩系盆地 ${ \\delta } ^ { 1 8 } \\mathrm { O }$ 、8D值平均含量显著低于当地大气降水背景值（兰州站， $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 平均值 $- 1 0 . 2 1 \\%$ ,8D平均值 $- 7 7 . 5 2 \\% o ^ { [ 1 1 ] }$ ；西峰站， $\\mathbf { \\delta } ^ { 8 } \\mathbf { O }$ 平均值 $- 9 . 9 9 \\% o$ ,8D平均值 $- 7 9 . 1 4 \\% o$ 。从地热流体的 $8 ^ { 1 8 } \\mathrm { O } \\mathrm { - } 8 \\mathrm { D }$ 关系图可以看出，共有12个样品点（ $\\scriptstyle n = 3 0$ )位于全球大气降水线和西北大气降水线附近，18个样品点距离降水线较远，其中10个样品点位于降水线左上方，8个样品点位于降水线下方。说明沉降盆地传导型地热流体形成原因相对复杂，循环转化方式多样。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进一步研究发现，位于全球大气降水线和西北大气降水线附近的样品，主要分布于西部敦煌-瓜州盆地、酒泉东盆地和东部陇东白垩系盆地，地热井深度介于 $6 8 0 \\sim 1 ~ 6 0 0 ~ \\mathrm { m }$ 之间，热储埋藏深度相对较浅，盖层(不含第四系松散层)为厚度 $1 5 0 \\sim 3 5 0 \\mathrm { m }$ 的新近系泥质砂岩和下更新统砂岩、砂砾岩，盖层较薄且岩性致密性相对不足，与上覆中上更新统松散岩类孔隙水（主要接受当地大气降水及其地表水径流人渗补给)及其他水体存在不同程度的水力联系，因此热水来源可以认为是当地大气降水，流体受到一定程度的蒸发影响， $8 ^ { 1 8 } 0 . 8 \\mathrm { D }$ 与热水中溶解的氢氧组分交换几率较小， $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 漂移程度较小、较容易富集，总体概化为“半开启-半封闭型\"的地热系统；而距离降水线较远的地热流体，主要分布于西部酒泉东盆地、张掖-民乐盆地、中部兰州-榆中盆地及东部陇东白垩系盆地，地热井深度介于 $1 6 0 0 \\sim$ $2 6 0 0 \\mathrm { ~ m ~ }$ 之间，热储埋藏深度大，盖层为厚度 $8 0 0 \\sim$ $1 0 0 0 \\mathrm { m }$ 的新近系-古近系大厚度的泥岩和砂质泥岩，盖层巨厚且岩性致密，与上覆新统松散岩类孔隙水及其他水体基本不存在水力联系，热流体主要为地质历史时期逐步形成的“古水”，流体受蒸发的程度弱， $8 ^ { 1 8 } \\mathrm { O } , 8 \\mathrm { D }$ 与热水中溶解的氢氧组分交换几率大， $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 漂移程度大、容易富集，总体概化为“封闭型\"的地热系统。评价结果与陕西关中盆地地下热水赋存特征有一定的相似性[12-13]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3地热流体形成年龄及来源分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3.1隆起山地构造对流型地热流体形成年龄及分布特征根据地热流体 $^ { 1 4 } \\mathrm { C }$ 测试结果(表1),隆起山地构造对流型地热流体形成年龄介于（ $0 . 2 0 \\sim$ $2 . 8 5 ) \\times 1 0 ^ { 4 }$ a之间,平均 $1 . 2 3 { \\times } 1 0 ^ { 4 }$ a。按流体化学类型及TDS划分，化学类型为 $_ \\mathrm { H C O _ { 3 } \\cdot S O _ { 4 } - N a , H C O _ { 3 } - C a }$ $\\mathbf { M } \\mathbf { g }$ 型、TDS小于 $0 . 5 \\ : \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ 的热流体，以重碳酸盐占绝对优势， $^ { 1 4 } \\mathrm { C }$ 测试介于 $( 0 . 2 0 \\sim 0 . 4 6 ) \\times 1 0 ^ { 4 } :$ a之间，平均为 $0 . 3 6 \\times 1 0 ^ { 4 } { \\mathrm { : } }$ a,属形成年龄小于5000a的最新地热流体；化学类型为 $\\mathrm { S O _ { 4 } { \\cdot } H C O _ { 3 } { - } C a { \\cdot } M _ { \\Sigma } ^ { } . \\mathrm { S O _ { 4 } { \\cdot } C L { \\cdot } H C O _ { 3 } { - } } }$ $\\mathrm { N a , S O _ { 4 } \\mathrm { - N a \\cdot C a , S O _ { 4 } \\cdot C L \\mathrm { - N a \\cdot C a } } }$ 型、TDS介于 $0 . 8 8 \\sim$ $1 . 7 6 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ 的热流体，以硫酸盐占绝对优势， $^ { 1 4 } \\mathrm { C }$ 测试介于 $( 0 . 8 2 \\sim 1 . 6 4 ) { \\times } 1 0 ^ { 4 }$ a之间，平均为 $1 . 3 1 \\times 1 0 ^ { 4 }$ a，属形成年龄介于 $5 0 0 0 \\sim 1 5 0 0 0$ a的较新地热流体；化学类型为单一的 $\\mathrm { C L \\cdot S O _ { 4 } \\mathrm { - } N a }$ 型、TDS介于 $2 . 0 4 \\sim$ $2 . 8 7 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ 的热流体，以氯化物 $+$ 硫酸盐占绝对优势，$^ { 1 4 } \\mathrm { C }$ 测试介于 $( 1 . 8 5 \\sim 2 . 8 5 ) \\times 1 0 ^ { 4 }$ a之间,平均为 $2 . 4 9 \\times$ $1 0 ^ { 4 }$ a,属形成年龄介于 $1 5 0 0 0 \\sim 3 0 0 0 0$ a的较老地热流体。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分析发现，隆起山地构造对流型地热流体形成年龄小于5000a的样品，主要分布于西秦岭及北麓的迭部卡拉沟、武山县城及天水温家峡;地热流体形成年龄介于 $5 0 0 0 \\sim 1 5 0 0 0$ a之间的样品，主要分布于西秦岭北麓的麦积中滩、迭部旺藏、清水汤浴沟、通渭汤池沟和祁连山北麓东段的凉州药王泉；地热流体形成年龄介于 $1 5 \\ : 0 0 0 \\sim 3 0 \\ : 0 0 0 \\mathrm { a }$ 之间的样品，主要分布于祁连造山带的永登药水沟及秦安夫子沟。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3.2沉降盆地传导型地热流体形成年龄及分布特",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "征根据地热流体 $^ { 1 4 } \\mathrm { C }$ 测试结果(表1)，沉降盆地传导型地热流体形成年龄介于 $( 0 . 6 7 \\sim 4 . 8 4 ) { \\times } 1 0 ^ { 4 }$ a之间,平均 $3 . 2 6 \\times 1 0 ^ { 4 }$ a。按流体化学类型及TDS划分，化学类型为 $\\mathrm { H C O } _ { 3 } \\cdot \\mathrm { S O } _ { 4 } \\mathrm { - N a } \\cdot \\mathrm { M } _ { \\mathrm { g } } ^ { \\mathrm { g } } \\left( \\mathrm { C a } \\right)$ 型、TDS介于$0 . 4 6 \\sim 0 . 5 3 ~ \\mathrm { g \\cdot L ^ { - 1 } }$ （平均 $0 . 5 0 \\ \\mathrm { g \\cdot L ^ { - 1 } } \\ )$ 之间的热流体，以重碳酸盐 $^ +$ 硫酸盐占绝对优势， $^ { 1 4 } \\mathrm { C }$ 测试介于( $( 0 . 6 7 \\sim$ $0 . 8 5 ) \\times 1 0 ^ { 4 }$ a之间(平均 $0 . 7 6 \\times 1 0 ^ { 4 } \\mathrm { a } ,$ ，属形成年龄小于10000a的较新地热流体;化学类型为 $\\mathrm { S O _ { 4 } { \\cdot } C L { - } N a }$ 、$\\mathrm { S O } _ { 4 } \\cdot \\mathrm { H C O } _ { 3 } – \\mathrm { N a }$ 型、TDS介于 $1 . 1 5 \\sim 1 . 8 1 ~ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ （平均$1 . 3 9 \\ \\mathrm { g \\cdot L ^ { - 1 } } \\ )$ 之间的热流体，以硫酸盐占绝对优势， $^ { 1 4 } \\mathrm { C }$ 测试介于 $( 2 . 1 2 \\sim 2 . 9 7 ) { \\times } 1 0 ^ { 4 } :$ a之间(平均 $2 . 6 5 { \\times } 1 0 ^ { 4 } \\mathrm { a } ,$ ，属形成年龄介于 $1 0 0 0 0 \\sim 3 0 0 0 0$ a之间的较老地热流体；化学类型为 $\\mathrm { { C L } \\cdot \\mathrm { { S O } _ { 4 } \\mathrm { { - N a } _ { \\ell } \\mathrm { { C L } \\mathrm { { - N a } \\cdot \\mathrm { { M g } ( C a ) } } } } } }$ 型、TDS介于 $3 . 2 6 \\sim 5 . 8 1 \\ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ (平均 $4 . 3 6 \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 } ,$ )之间的热流体，以氯化物 $+$ 硫酸盐占绝对优势， $^ { 1 4 } \\mathrm { C }$ 测试介于（ $( 2 . 2 4 \\sim 3 . 9 9 ) { \\times } 1 0 ^ { 4 } ,$ a之间(平均 $3 . 5 1 \\times 1 0 ^ { 4 } \\mathrm { a } ,$ ，属形成年龄介于 $3 0 0 0 0 \\sim 4 0 0 0 0 { \\it \\Omega } _ { \\mathrm { { i } } }$ 之间的老地热流体；化学类型为单一的 $\\mathrm { { C L - N a } }$ 型、TDS介于 $6 . 8 7 \\sim 4 5 . 9 3 ~ \\mathrm { g \\cdot L ^ { - 1 } }$ （平均 $2 1 . 2 7 \\ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 } \\ \\rangle$ 之间的热流体，以氯化物占绝对优势， $^ { 1 4 } \\mathrm { C }$ 测试介于 $( 4 . 0 2 \\sim 4 . 8 4 ) \\times 1 0 ^ { 4 }$ a之间(平均$4 . 3 6 \\times 1 0 ^ { 4 } \\mathrm { a } ,$ ),概化为形成年龄介于 $4 0 \\ 0 0 0 \\sim 5 0 \\ 0 0 0$ a",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "之间的古老地热流体。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分析发现，沉降盆地传导型地热流体形成年龄小于10000a的样品，主要分布于西部地热井深度小于 $1 6 0 0 \\mathrm { m }$ 的敦煌-瓜州盆地和酒泉东盆地；地热流体形成年龄 $1 0 0 0 0 \\sim 3 0 0 0 0 { \\mathrm { a } }$ 的样品，主要分布于分布于西部地热井深度 $1 \\ 3 0 0 \\sim 2 \\ 4 0 0 \\ \\mathrm { m }$ 的敦煌-瓜州盆地、酒泉东盆地和东部陇东白垩系盆地;地热流体形成年龄 $3 0 0 0 0 \\sim 5 0 0 0 0$ a的样品，主要分布于地热井深度 $1 ~ 4 0 3 \\sim 2 ~ 6 0 0 ~ \\mathrm { m }$ 的兰州-榆中盆地、张掖-民乐盆地和地热井深度 $6 8 0 \\sim 2 ~ 4 0 0 ~ \\mathrm { m }$ 的陇东白垩系盆地。由此不难看出，地热流体存在随着井深增加、形成年龄逐步增大的变化趋势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3.3影响地热流体形成年龄的因素分析对隆起山地构造对流型地热田而言，地热流体主要以断裂上升泉的形式出露，热储层岩性、断裂规模及水热循环方式和深度等明显控制着地热流体化学类型和形成年龄。地热流体补给来源为当地及周边大气降水入渗，主要沿断裂带循环加热，循环深度浅、交替迅速，地下水在岩层中的滞留时间较短、“水-岩互助\"作用弱， $\\mathbf { 8 } ^ { 1 8 } \\mathbf { 0 } \\mathbf { . 8 } \\mathbf { D }$ 含量与热水中溶解的氢氧离子交换几率小， $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 漂移程度小、不宜富集，热流体TDS含量相对较低，水质相对较好，属地热流体形成年龄一般小于 $5 0 0 0 \\sim 3 0 0 0 0 \\mathrm { a }$ 、“开启型”的地热系统。总体来说，隆起山地构造对流型地热流体形成年龄相对较新。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对沉降盆地传导型地热田而言，地热流体赋存于盆地深部并以管井开采的方式出露(部分自流），热储层岩性、埋藏深度、地下水补给来源与循环深度等明显控制着地热流体化学类型和形成年龄。热储埋藏深度小于 $1 6 0 0 \\mathrm { m }$ 的地热井，盖层厚度薄且岩性致密性相对不足，热流体与上覆松散岩类孔隙水(来源于当地及周边大气降水入渗补给)及其他水体之间存在不同程度的水力联系，但流体补给强度较弱，主要靠来自地壳深部的热传导增温，流体循环深度浅，地下水在岩层中的滞留时间相对较短、“水-岩互助\"作用相对较弱， $8 ^ { 1 8 } \\mathrm { O } , 8 \\mathrm { D }$ 与热水中溶解的氢氧组分交换几率相对较小， $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 漂移程度弱且不容易富集，热流体TDS相对较低，水质相对较好，属地热流体形成年龄一般小于30000a、“半开启-半封闭型\"的地热系统;热储埋藏深度介于$1 6 0 0 \\sim 2 6 0 0 \\mathrm { m }$ 之间的地热井，盖层厚度巨大且岩性致密，热流体与上覆松散岩类孔隙水及其他水体之间基本不存在水力联系，主要为地质历史时期逐步形成的“古水”，流体补给强度极弱或基本没有补给，主要靠来自地壳深部和上地幔的热传导增温，热储埋深大、水循环交替缓慢，地下水在岩层中的滞留时间较长、“水-岩互助\"作用强， $8 ^ { 1 8 } 0 . 8 \\mathrm { D }$ 与热水中溶解的氢氧组分交换几率相对较大， $\\mathbf { 8 ^ { 1 8 } O }$ 漂移程度强且容易富集，地热流体TDS较高，水化学类型复杂且水质较差，属地热流体形成年龄介于$3 0 \\ 0 0 0 \\sim 5 0 \\ 0 0 0$ a、“封闭型”的地热系统。总体来说，沉降盆地传导型地热流体形成年龄相对较老，存在热储埋藏深度越深，地质条件越封闭，8D、 $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 越富集，流体形成年龄越老的地热赋存规律。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）已有的研究结果表明[12-14],热流体环境同位素可以用于研究地下水的补给循环及其赋存环境。地热流体的8D值的变化主要取决于热水接受补给时的环境温度及其补给高程，此外混合作用亦有一定的影响； $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 值的变化除与8D有相同的影响因素外，还主要取决于热水与围岩交换的程度； $^ { 1 4 } \\mathrm { C }$ 属放射性同位素，其值提供了地下热水的形成及滞留时间等宝贵信息。因此，环境同位素技术是一种不可替代的查找地球深部地热流体起源、成因及其运移循环的有效手段[13]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）本次研究发现，甘肃省隆起山地构造对流型地热田水质一般相对较好，形成年龄较新，部分样品中化学成分以重碳酸盐或重碳酸盐 $+$ 硫酸盐占绝对优势，局地TDS小于 $0 . 5 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ 、锶含量为 $0 . 4 1 \\sim$ $1 . 2 9 \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 的地热流体，达到了锶型天然饮用矿泉水的标准[15],可以进一步勘查及开发利用;而沉降盆地传导型地热田水质一般较差，形成年龄相对较老，大部分样品中化学成分以氯化物或氯化物 $^ +$ 硫酸盐占绝对优势，TDS大于 $3 . 0 \\sim 1 0 . 0 \\ \\mathrm { g \\cdot L } ^ { - 1 }$ ,井口水温 $5 5 \\sim 7 7 ~ \\mathrm { ^ { \\circ } C }$ 。这种高盐、高温且伴随大量 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 气体溢出的地热流体对人体健康十分有害，对上下水管道、水泵、供暖设施等均具有高度腐蚀性，开发时应予以重视。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）由于本次未收集到研究区不同海拔高程大气降水、冰川及永久积雪融水的 $\\delta ^ { \\mathrm { 1 8 } } \\mathrm { O } , \\delta \\mathrm { D }$ ） $^ { 1 4 } \\mathrm { C }$ 等环境同位素测试数据，故未能依据氘盈余量[16-17]就地热流体特别是沉降盆地传导型地热流体与水资源形成",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "区的水力联系、转化特征、补给高程、水体温度及导 水通道等方面进行定量分析，有待于今后补充完善。 参考文献(References) [1]中华人民共和国国家质量监督检验检疫总局.GB/T11615-   \n2018 地热资源地质勘查规范[S].北京：中国标准出版社，   \n2018.[General Administration of Quality Supervision, Inspection and Quarantine of the People's Republic of China.GB/T11615-   \n2018 Geologic exploration standard of geothermal resources [S]. Beijing: Standards Press of China,2018.] [2]喻生波,谢娜,赵多慧,等.甘肃省地热资源调查评价与区划报 告[R].兰州:甘肃省地质环境监测院,2008.[YU Shengbo,XIE Na, ZHAO Duohui, et al. Investigation and regionalization of geothermal resources in Gansu Province[R]. Lanzhou: Gansu Institute of Geological Environment Monitoring,2008.] [3]李百祥,施孝.甘肃省盆山构造格局对地温场分布及地热资源 类型的控制[C]//国际地热协会西太平洋论文集,2009年.[LI Baixiang,SHI Xiao. The control of basin mountain structure pattern on the distribution of geothermal field and the types of geothermal resources in Gansu Province[C]/International Geothermal Society Western Pacific Papers,2009.] [4]安永康,孙知新,李百祥.甘肃省地热资源分布特征、开发现状 与前景[J].甘肃地质学报,2005,(2):70-75.[AN Yongkang, SUN Zhixin,LI Baixiang.Distribution characteristics,development status and prospect of geothermal resources in Gansu Province[J].Acta Geologica Gansu,2005,(2): 70-75.] [5]郑希民,王多云,李凤杰,等.兰州-民和断陷盆地地热地质条 件分析及热储概念模型[J].西北地震学报,2003,(3):215-220. [ZHENG Ximin,WANG Duoyun,LI Fengjie,et al. Analysis of geological conditions on geothermal and the conceptual model of geothermal reservoir in Lanzhou-Minhe Basin[J]. Northwestern Seismological Journal,2003,(3): 215-220.] [6]白福,马根喜.兰州地热资源赋存特征浅析[J].水文地质工程地 质,2005,(6): 3-5.[BAI Fu,MA Genxi. Analysis on the occurrence characteristics of geothermal resources in Lanzhou[J]. Hydrogeology and Engineering Geology,2005,(6): 3-5.] [7]张子祥,李文鑫.兰州市永登县地热水成因模式和地质模式[J]. 地质科技情报,2015,(2):194-220.[ZHANG Zixiang,LI Wenxin. Genetic model and geological model of geothermal water in Yongdeng County,Lanzhou City[J]. Geological Science and Technology Information,2015,(2): 194-220.] [8]丁宏伟,姚吉禄,何江海.张掖市地下水位上升区环境同位素特 征及补给来源分析[J].干旱区地理,2009,32(1):1-8.[DING Hongwei, YAO Jilu,HE Jianghai. Environmental isotope characteristics and groundwater recharge in groundwater level rise area in Zhangye City[J].Arid Land Geography,2009,32(1): 1-8.] [9]王彩霞,张杰,董志文,等.基于氢氧同位素和水化学的祁连山 老虎沟冰川区径流过程分析[J].干旱区地理,2015,38(5):927-   \n935.[WANG Caixia,ZHANG Jie,DONG Zhiwen,et al.Glacier meltwater runoff process analysis based on δD and $8 ^ { 1 8 } 0$ isotope and chemistry in the Laohugou glacier basin of the Qilian Mountains[J]. Arid Land Geography,2015,38(5): 927-935.]   \n[10] 高振荣,李红英,曹淑超,等.近31a河西走廊地区深层地温变 化及突变分析[J].干旱区地理,2013,36(6):1006-1012.[GAO Zhenrong,LI Hongying, CAO Shuchao, et al. Deep ground temperature Variation and mutation of the Hexi Corridor region in recent 31 years[J].Arid Land Geography,2013,36(6): 1006-1012.]   \n[11] 陈粉丽,张明军,马潜,等.兰州及其周边区域大气降水 $8 ^ { 1 8 } 0$ 特 征及其水汽来源[J].环境科学,2013,(46):3755-3763.[CHEN Fenli, ZHANG Mingjun,MA Qian,et al. Characteristics of $8 ^ { 1 8 } 0$ in precipitation and water vapor sources in Lanzhou City and its surrounding areas[J]. Environmental Science,2013,(46): 3755-3763.]   \n[12] 马致远,王心刚,苏艳,等.陕西关中盆地中部地下热水H、O同 位素交换及其影响因素[J]).地质通报,2008,27(6):888-894. [MA Zhiyuan,WANG Xingang,SU Yan,et al. Oxygen and hydrogen isotope exchange and its controlling factors in subsurface geothermal waters in the central Guanzhong Basin, Shaanxi[J].Geological Bulletin of China,2008,27(6): 888-894.]   \n[13]秦大军,庞忠和,JEFFREYVT,等.西安地区地热水和渭北岩 溶水同位素特征及相互关系[J].岩石学报,2005,21(5):1489- 1500.[QIN Dajun,PANG Zhonghe,JEFFREY V T,et al. Isotopes of geothermal water in Xi'an area and implicatings on its relation to karstic groundwater in north mountains[J].Acta Petrologica Sinica,2005,21(5): 1489-1500.]   \n[14]杨波,尹观.水体同位素组成及氘过量参数在地热勘探中的示 踪作用——以四川绵竹三箭水温泉开发为例[J].矿物岩石地 球化学通报,2004,23(2):129-133.[YANG Bo,YIN Guan. The tracer function of isotope composition and deuterium excess parameter of water bodies on prospecting for geothermal water: Taking the prospecting for geothermal water in Sanjianshui, Sichuan for example[J].Bulletinof Mineralogy,Petrology and Geochemistry,2004,23(2): 129-133.]   \n[15]中华人民共和国国家质量监督检验检疫总局.GB8537-2018 饮用天然矿泉水[S].2018.General Administration of Quality Supervision,Inspection and Quarantine of the People's Republic of China. GB8537-2O18 drinking natural mineral water[S]. 2018.]   \n[16]韩知明,贾克力,史小红,等.克鲁伦河流域下游水体氢氧同位 素与水化学特征[J].干旱区地理,2019,42(1):85-93.[HAN Zhiming,JIA Keli, SHI Xiaohong,et al.The hydrochemical and hydrogen and oxygen isotopic characteristics of water in the low reach of Kherlen River[J].Arid Land Geography,2019,42(1): 85- 93.]   \n[17] 文广超,王文科,段磊,等.基于水化学和稳定同位素定量评价 巴音河流域地表水与地下水转化关系[J.干旱区地理,2018, 41(4): 734-743.[WEN Guangchao, WANG Wenke, DUAN Lei, et al.Quantitatively evaluating exchanging relationship between river water and groundwater in Bayin River Basin of northwest China using hydrochemistry and stable isotope[J]. Arid Land Geography, 2018,41(4): 734-743.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Hydrochemistry and environmental isotopic characteristics and formation ages analysis of geothermal fluids in Gansu Province ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Ling-peng'， DING Hong-wei²， ZHANG Jia-feng²3， WANG Yu-xi4， TIAN Liao-xi5 (1TheSecondInstituteofGeologyand Minerals Exploration,GansuProvincialBureauofGeologyandMineralsExploration andDevelopment,Lanzhou30o20,Gansu,China；2GansuProvincial BureauofGeologyandMinerals Explorationand Development,Lanzhouo,Gansu,China；3heFrstInstituteofGeologyandMineralsExplorationGansurovincial BureauofGeologyand Minerals ExplorationandDevelopment,Tianshui41o2o,Gansu,China;4TheThirdInstituteof Geologyand Minerals Exploration,GansuProvincial BureauofGeologyandMineralsExplorationandDevelopment,Lanzhou 730050,Gansu,China;5InstituteofHydrogeologyandEngineeringGeology,GansuProvincial BureauofGeologyand Minerals Exploration and Development, Zhangye 7340o0,Gansu, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Based on a large number of chemical composition and environmental isotope (8D, $8 ^ { 1 8 } \\mathrm { { O } }$ ， $^ { 1 4 } \\mathrm { C }$ )test data of geothermal fluid,this paper analyzes the chemical characteristicsand distribution rules of the convective and conductive geothermal fluid in the uplifted mountainous area,Gansu Province,China.The environmental isotope distributioncharacteristicsand formation ages of the geothermal fluidare then then analyzed.Results show that the geothermalfluid in the convective geothermal field in theuplifted mountainous area is mainlyexposed inthe formof fracture rising spring, which is distributed inthe west Qinling and Qilian orogenic belt.The source of supply is the infiltrationoflocalandsurroundingatmospheric precipitation.The formation ageof the geothermal fluid is generally less than 5OOo-3O OOO a and good water qualityis observed.Hence,the geothermal fluid belongs to the“open” geothermal system.The geothermal fluid in the conductive geothermal field in the subsidence basin is mainly exposed by tube wellexploitation.Exploitation wells with a buried depth of less than 1 6OOmare supplied by the infiltrationof local and surounding atmospheric precipitation.Here,the formation agesof the geothermal fluidare generally less than 3OOOO aand the water quality is relatively good.Hence,this belongs tothe“semi-open semiclosed”geothermal system.The geothermal open exhibits a buried depth of 1 600-2 6O0 m.The production wells are mainlythe“ancient water”formed gradualy inthe geological historical period with a complex hydrochemical type and with poor water quality.This then belongs to the“closed”geothermal system with the formation ages of geothermal fluidbetween 30Ooo-50OoO a.Generall speaking,the lithologyof the thermalreservoir,burial depth, retention time,and circulation alternation of groundwater in the rock layer obviously controlthe chemical type, environmental isotope,and formation ages of geothermal fluid.Based on the geothermal occurrence law,if the buried depth of the thermal reservoir is deeper,the geological conditions are more closed,and SD and $\\ S ^ { 1 8 } \\mathrm { O }$ are more enriched,indicating that the formation age of the fluid is older. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: thermal fluid; hydrochemistry; environmental isotope; formation age; geothermal system ",
+        "page_idx": 8
+    }
+]

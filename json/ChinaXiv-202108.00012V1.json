@@ -1,0 +1,499 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of climate change and land-use changes on spatiotemporal distributions of blue water and green water in Ningxia, Northwest China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WU Jun1,2.3, DENG Guoning], ZHOU Dongmei', ZHU Xiaoyanl, MA Jing], CENGuozhang1, JIN Yinli', ZHANG Jun1,2,3\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "l College of Resources and Environmental Science,Gansu Agricultural University,Lanzhou 73oo7o,China; ² Research Center for Water-saving Agriculture in Gansu Province,Lanzhou 73oo7o,China; 3Gansu Provincial Key Laboratory ofArid Land Crop Science,GansuAgriculturalUniversity,Lanzhou 73O070,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Water resources are a crucial factor that determines the health of ecosystems and socio-economic development; however， they are under threat due to climate change and human activities. The quantitative assessment of water resources using the concept of blue water and green water can improve regional water resources management. In this study, spatiotemporal distributions of blue water and green water were simulated and analyzed under scenarios of climate change and landuse changes using the Soil and Water Assessment Tool (SWAT) in Ningxia Hui Autonomous Region，Northwest China,between 2009 and 2014. Green water,a leading component of water resources,accounted for more than $6 9 . 0 0 \\%$ of the total water resources in Ningxia. Blue water and gren water showed a single peak trend on the monthly and annual scales during the study period. On the spatial scale,the southern region of Ningxia showed higher blue water and green water resources than the northern region. The spatiotemporal distribution features of blue water, gren water，and green water flow had strong correlations with precipitation. Furthermore,the simulation identified the climate change in Ningxia to be more influential on blue water and green water than land-use changes. This study provides a specific scientific foundation to manage water resources in Ningxia when encountered with climate change together with human activities. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: blue water; green water; climate change; human activities; SWAT; semi-arid region ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the rapid development of the economy and society and the impact of the global climate change， the problem of water scarcity is becoming more serious， threatening the sustainable development of the ecological environment and human beings (Haddeland et al., 2014). About $4 . 0 { \\times } 1 0 ^ { 6 }$ people in the world live in a place with serious water scarcity for one month and more annualy (Mekonnen and Hoekstra, 2O16). Nearly every sub-national trajectory reveals that water shortage is increasingly aggravated (Kummu et al., 2016). Falkenmark (1995) discussed the blue ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "water and green water concept, which expanded water resources research scope and water footprint assessment (Hoekstra and Mekonnen, 2012; Hoekstra et al., 2012; Velpuri and Senay,2017; Liang et al.，2O2O). This new concept broadens the perspective of water resources evaluation, management,and planning. Blue water consists of surface water and underground water, which can be preserved within ground water, lakes, streams, snow, or glaciers.By contrast, green water consists of green water storage and flow (Falkenmark and Rockstrom, 2Oo6; Zhang and Jia, 2013); that is, green water storage represents water volume within the soil profile and green water flow is evapotranspiration, which includes evaporation from soil and vegetation transpiration. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Traditional water resources assessments were limited to the evaluation of blue water, which plays a vital role in social economy; however, green water accounting for more than $6 0 . 0 0 \\%$ of the water cycle was ignored (Falkenmark and Rockstrom, 2O10). Previous studies reported the change of blue water and green water flow as a result of climate change and human activities (Shrestha et al.,2018; Huang and Han,2019; Lyu et al.,2019). For instance, Zhao et al. (2016a) reported that in the Weihe River Basin, China, climate change reduced blue water, together with gren water storage and flow, and land-use changes reduced green water flow and blue water. Quinteiro et al.(2018） applied characterization factors for assessng the influences of the environment on the green water flow using the Life Cycle Assessment method,and found that evapotranspiration might potentially affect the recycle of green water or the generation of blue water. Moreover, green water mainly depends on rain-fed crops,which play a key role in the stability of the ecosystem across semi-arid or arid regions (Qin et al., 2O16； Karandish and Hoekstra, 2017). Serur (2020) simulated the availability of blue water and green water resources at the basin and sub-basin scales under the representative concentration pathway scenarios in the Weyb River Basin in Ethiopia. Therefore,it is of great practical significance to integrate blue water and green water into water resources management and evaluation to solve the food crisis and ecological security caused by water scarcity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Blue water resources can be estimated using hydrological models and statistical analysis, and the estimation methods of green water resources mainly include the biological methods, hydrological models,and coupled biological-hydrological methods (Zhao et al.， 2016b). The various infiltration capacity models can be used for simulating the equilibrium of energy and water between land and air simultaneously, and the output units are runoff depth and evaporation on each grid (Fan et al.,2O17). In China, the soil and water integrated model has been rarely used; it is still in the suitability assessment stage (Yang et al.,2017). Johansson et al. (2016) identified the \"hot\" regions for the use of fresh water, in which soil water is unable to supply enough water for crops through irrigation, using the Lund-Potsdam-Jena managed Land model, in which the possible water requirements for great land acquisition potentially threaten the elevated competition for water. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Soil and Water Assessment Tool (SWAT),which is based on a distributed hydrological model for the watershed scale and fully considers the different soil types, management patterns, and land-use factors,allows for the direct output of blue water and green water resources in the hydrological response unit (HRU) of each component. Hence,it is considered to be an effective method to estimate the blue water and green water resources (Baker and Miller, 2Ol3; Sellami et al.,2016； Shrestha et al.，2016; Zang and Mao,2019). This approach has been shown to be successful for many applications and a wide variety of hydrologic conditions.For instance, Schuol et al. (2O08) explored the reserves of blue water and green water, along with green water flow, across Africa using the SWAT model. Zhang et al. (2014) estimated the spatial and temporal variation characteristics of blue water and green water within the Yellow River source area in China from 1961 to 2010 using the SWAT model, and found a decreasing trend in both blue water and green water. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ningxia Hui Autonomous Region, which is located at the middle and upper part of the Yellow River Basin,represents an ancient irrigation area in China and has a history of more than 2000 years (Ma et al., 2O14). It is also a region suffers from severe water shortage, with a total water resource per capita of only $3 0 . 0 0 \\%$ of the national average. Ningxia, therefore, plays an important role and is of strategic significance in developing and utilizing water resources as well as developing the economy in Northwest China. The economic development and climate change, particularly the rapid development of Ningxia's coal industry,are exacerbating the stress on water resources. Thus, it is important to study the spatiotemporal characteristics of water resources in this region for the efficient utilization of water resources under the premise of sustainable utilization and the protection of the ecosystem health in Northwest China.In this study, blue water and green water resources in Ningxia were simulated using the SWAT model from the year 2009 to 2014,and the spatiotemporal variability characteristics were analyzed to provide new perspectives for solving the water scarcity of Ningxia. It is our hope that this study can provide scientific reference to manage water resources in Ningxia when encountered with climate change together with human activities. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ningxia Hui Autonomous Region,located in Northwest China, is situated in the middle and upstream of the Yellow River Basin, between $3 6 ^ { \\circ } 0 0 ^ { \\prime } \\mathrm { N } { - } 3 9 ^ { \\circ } 2 3 \\mathrm { N }$ and $1 0 4 ^ { \\circ } 1 7 ^ { \\prime } \\mathrm { E } { - } 1 0 7 ^ { \\circ } 3 9 ^ { \\prime } \\mathrm { E }$ . Its area is $6 . 6 4 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ and elevation is $1 1 0 0 { - } 2 5 0 0 \\ \\mathrm { m }$ . It is in the continental climate zone; the mean temperature in summer (July） is $1 7 ^ { \\circ } \\mathrm { C } { - } 2 4 ^ { \\circ } \\mathrm { C }$ ，while it is between $7 ^ { \\circ } \\mathrm { C }$ and $1 5 ^ { \\circ } \\mathrm { C }$ in winter (January). The annual precipitation ranges between 180 and $4 0 0 ~ \\mathrm { \\ m m }$ ， the average annual evaporation between 10oo and $1 5 0 0 ~ \\mathrm { m m }$ , the annual solar radiation from 5873 to $6 1 \\bar { 0 } 1 \\mathrm { ~ M J } / \\mathrm { m } ^ { 2 }$ ， and the annual average wind speed from 1.7 to $2 . 5 ~ \\mathrm { m / s }$ . Ningxia is a region with severe water shortage,and the total water resources per capita is $1 6 9 \\mathrm { ~ m } ^ { \\bar { 3 } }$ . The land-use types are mainly grassland and agricultural land, accounting for $4 7 . 0 5 \\%$ and $3 9 . 3 1 \\%$ of the total area in Ningxia, respectively, and others are forest land $( 0 . 6 5 \\% )$ ,shrubland $( 1 . 1 8 \\% )$ ,wetland $( 0 . 1 2 \\% )$ ,water body $( 0 . 9 7 \\% )$ , construction land $( 1 . 9 7 \\% )$ , and bare land $( 8 . 7 5 \\% )$ (Li et al., 2016). Soil types are mainly sierozem, aeolian soils,alluvial soils, skeletol soils,and dark loessial soils,accounting for $9 5 . 0 0 \\%$ of the total area ( $\\mathrm { \\Delta X u }$ et al., 2017). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data sources ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The climate data were provided by the China Meteorological Assimilation Driving Datasets (CMADS) for the SWAT model (CMADS V1.0; http://www.cmads.0rg/). The CMADS includes temperature (daily maximum, daily minimum, and average temperatures), daily precipitation, atmospheric pressure,daily relative humidity, solar radiation,and air speed.The resolution for CMADS V1.0 was $1 / 3 ^ { \\circ }$ . Soil data were obtained from the Harmonized World Soil Database V1.2 (http://www.fao.org/soils-portal/soil-survey/soil-maps-and-databases/harmonized-world-soil-data base- ${ \\bf \\cdot v } 1 2 / \\mathrm { e n } /$ ). The spatial resolution of the data was about $1 ~ \\mathrm { k m }$ . We reclassified the soil data according to the SWAT soil database. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Land-use data were obtained from the GlobeLand30 2010 (http://www.globallandcover.com) and Landsat 8 (July-September) interpretation data. We reclassified the land use using ArcGIS 9.3 according to the code of the SWAT model, such as agricultural land (AGRL), forest land (FRST)， grassland (PAST)， shrubland (RNGB)，wetland (WETL)，water body (WART), construction land (URML),and bare land (SWRN), which correspond to eight land-use types. The accuracy of GlobeLand30 2010 was $8 3 . 5 0 \\%$ and the Kappa coefficient was O.78. The map of land use was produced using supervised classification in 2O14 with an overallinterpretation accuracy of $8 5 . 0 0 \\%$ . The spatial resolution of the data was $3 0 \\mathrm { m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Digital elevation model (DEM) information was obtained from the geographical spatial data cloud (http://www.gscloud.cn/search); its spatial resolution was about $3 0 \\mathrm { ~ m ~ }$ .Hydrological data were obtained from the Ningxia Water Resources Bulletin of 2009-2014 in Ningxia (Ningxia Water Conservancy, 2009-2014). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 SWAT model ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The SWAT was developed as a continuous-time， semi-distributed, and semi-physically based model (Tan et al.,2O2O).All hydrological procedures can be simulated using the water balance equation. In SWAT, the watershed heterogeneity is classified as the diverse sub-watersheds according to the topography and river network.Thereafter， the sub-watersheds are further classified into hydrologic response units (HRUs), which integrate land cover, slope combination, and representative soil into land regions. In this study，we divided watersheds into HRUs according to the land cover and soil maps, together with DEM. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The study area Ningxia was classified into 31 sub-basins, which were then additionally divided into 246 HRUs. The Penman-Monteith approach was used to calculate the potential evapotranspiration. The Soil Conservation Service curve number approach was applied in calculating infiltration and surface runoff, and the watershed flow confluence was determined through the Muskingum method (Neitsch et al., 2009). We firstly used ArcSWAT 2009 to set up the model, followed by model calibration and validation by the SUFI-2 algorithm of SWAT-CUP. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We assessed the quality of the model on the basis of the coefficient of determination $( R ^ { 2 } )$ Nash-Sutcliffe efficiency coefficient (NS) (Nash and Sutcliffe,1970),and percent bias (PBIAS): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N S } \\mathrm { = } 1 - \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\bigl ( { \\cal Q } _ { o i } - { \\cal Q } _ { m i } \\bigr ) ^ { 2 } } { \\displaystyle \\sum _ { i = 1 } ^ { n } \\bigl ( { \\cal Q } _ { o i } - \\overline { { { \\cal Q } _ { o } } } \\bigr ) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } \\mathbf { = } \\frac { \\displaystyle { \\left[ \\sum _ { i = 1 } ^ { n } ( \\mathcal { Q } _ { o i } - \\overline { { \\mathcal { Q } _ { o } } } ) ( \\mathcal { Q } _ { m i } - \\overline { { \\mathcal { Q } _ { o } } } ) \\right] ^ { 2 } } } { \\displaystyle { \\sum _ { i = 1 } ^ { n } ( \\mathcal { Q } _ { o i } - \\overline { { \\mathcal { Q } _ { o } } } ) ^ { 2 } ( \\mathcal { Q } _ { m i } - \\overline { { \\mathcal { Q } _ { m } } } ) ^ { 2 } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P B I A S \\ ( ^ { 0 } / _ { 0 } ) } = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } ( { \\mathcal Q } _ { o i } - { \\mathcal Q } _ { m i } ) } { \\displaystyle \\sum _ { i = 1 } ^ { n } { \\mathcal Q } _ { o i } } \\times 1 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $n$ expresses the observation number; $Q _ { o i }$ is the runoff observed (mm); $Q _ { m i }$ is the runoff simulated (mm); $\\overline { { \\boldsymbol { Q } _ { o } } }$ is the mean runoff observed $( \\mathrm { m m } )$ ; and $\\overline { { \\boldsymbol { Q } _ { m } } }$ is the mean runoff simulated (mm).NS varies from $- \\infty$ to 1.00,where an NS value closer to 1.OO indicates a better simulation. Usually, $\\mathrm { N S } { > } 0 . 5 0$ is used as an effective evaluation standard for runoff simulation, and $R ^ { 2 } { > } 0 . 6 0$ is used as the evaluation standard for runoff simulation values close to the measurements (Zang et al., 2012). The value of PBIAS is commonly used for measuring the mean trend of the increased or decreased simulated results compared with observations. The value of PBIAS may be either positive or negative, where zero represents the optimal simulation performance of the model, positive values suggest the presence of underestimated bias of the model, and negative values indicate the presence of overestimated bias of the model. The PBIAS values in the ranges of $< \\pm 1 0 . 0 0 \\%$ ， $\\pm 1 0 . 0 0 \\% - \\pm 1 5 . 0 0 \\%$ ， $\\pm 1 5 . 0 0 \\% - \\pm 2 5 . 0 0 \\%$ ，and $2 { \\pm } 2 5 . 0 0 \\%$ indicate that the model performs very well， favorable，satisfactory， and non-satisfactory, respectively (Moriasi et al., 2007). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Blue water and green water ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Blue water and green water were calculated using the SWAT model output (Arnold and Fohrer, 2005；Zang et al.， 2O12). Green water flow is the actual evapotranspiration of each HRU. Therefore, the calculation formula of blue water and green water is as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\mathrm { b , g } } = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\bigl ( w _ { i } m _ { i } \\bigr ) } { \\displaystyle \\sum _ { i = 1 } ^ { n } m _ { i } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $W _ { \\mathrm { b , g } }$ is the blue water and green water (mm); $n$ is the number of HRUs; $w _ { i }$ is the blue water ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and green water of the inner HRU $( \\mathrm { m m } )$ ; and $m _ { i }$ is the area of the HRU $( \\mathrm { k m } ^ { 2 } )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 Green water coefficient ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The green water coefficient stands for the green water proportion within all water resources. It reflects the ecosystem water use and can be calculated as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = { \\frac { \\mathrm { g w } } { \\left( \\mathrm { b w } + \\mathrm { g w } \\right) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $C$ stands for the green water coefficient $( \\% )$ ; gw is the green water (mm); and bw is the blue water (mm). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Scenario setting ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To assess how land-use changes affect blue water and green water, we constructed three scenarios (Table 1) by altering a factor at a time while keeping the others unchanged.To compare the output between scenario I and scenario II, we analyzed how climate change affected blue water, together with green water storage and green water flow. To compare the output between scenarios Il and III, we analyzed how land-use changes affected blue water, as well as green water storage and green water flow. To compare the output between scenario I and scenario II, we analyzed how land-use changes combined with climate change affected blue water, along with green water storage and green water flow. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6991d5cc0124b1a721bb7d5b5a4af3ead619b888d34d8997b1dcf14a1aea9b2.jpg",
+        "table_caption": [
+            "Table1 Scenario setup in three scenarios "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Scenario</td><td>Land use</td><td>Climate data</td></tr><tr><td>Scenario I</td><td>2010</td><td>2010</td></tr><tr><td>Scenario II</td><td>2010</td><td>2014</td></tr><tr><td>Scenario III</td><td>2014</td><td>2014</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Modelcalibrationand validation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The runoff data were divided into a calibration period (2o09-2011） and a validation period (2012-2014).The outcomes for modeled runoff calibration and validation based on the measured data of Shizuishan hydrological station and the SUFI-2 calibration technique are shown in Figure 1.In the calibration process, the values of NS and $R ^ { 2 }$ were adopted for evaluating the two processes. The NS, $R ^ { 2 }$ ，and PBIAS values were 0.64, 0.77,and $7 . 8 1 \\%$ ，respectively， in the calibration process；while they were 0.72，0.60,and $- 8 . 5 8 \\%$ ，respectively, in the validation process. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2Monthly change trend of blue water and green water ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As observed from Figure 2, blue water and green water showed obvious monthly variations; July, August, and September were the months with higher blue water and green water than the other months. The monthly average precipitation was $1 7 . 9 2 \\ \\mathrm { m m }$ ， the monthly average blue water was $5 . 3 2 ~ \\mathrm { m m }$ , the monthly average green water was $1 2 . 3 3 ~ \\mathrm { m m }$ ， and the monthly average green water storage was $2 . 5 0 \\mathrm { m m }$ , during the period 2009-2014. The average green water coefficient was 0.63, showing the dominance of green water resources within our study region. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Blue water, green water, and green water flow showed obvious seasonal variation characteristics (Fig. 2). The maximum values for blue water and green water were 11.6O and $2 9 . 5 2 \\ \\mathrm { m m }$ respectively, in July, whereas the largest green water flow was $2 9 . 6 9 \\ \\mathrm { m m }$ in July. The minimum values of blue water and green water flow were 2.34 and $1 . 7 1 \\ \\mathrm { m m }$ ， respectively, in January, whereas that of green water resources was $1 . 5 0 \\ \\mathrm { m m }$ in December. In summer (from June to August)，there were more blue water and green water resources,accounting for $4 4 . 0 0 \\%$ and $5 2 . 6 0 \\%$ of the resources in a year, respectively, and the green water flow accounted for $5 0 . 3 0 \\%$ ： The main reason for the seasonal trend was that precipitation was concentrated in summer in the study area. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/25b07698b796c7f14afe81c843a0e96a62b8b5646b2081387bec9355ca946102.jpg",
+        "img_caption": [
+            "Fig.1Comparison of the observed monthly runoff and simulated monthly runoff as well as precipitation in Shizuishan hydrological station from 20o9 to 2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d359887c8a6d680432896a3b3aa4057f456be1e0b191a06b5e8cd75e886fbabf.jpg",
+        "img_caption": [
+            "Fig.2Monthly averages of blue water, green water,and precipitation during the period 2009-2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As observed from Figure 3, blue water and green water were linearly related to precipitation on the monthly scale. This indicates that precipitation has an important impact on blue water and green water, especially with a stronger impact on green water. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 Annual distributions of blue water and green water ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 4,the trends of blue water and green water were divided into two stages. The first stage showed a steady decline from 20o9 to 2011,and the second stage exhibited a gradual increase from 2012 to 2014. This trend was completely consistent with the change of precipitation. The average annual precipitation was $3 0 5 . 0 0 ~ \\mathrm { m m }$ ， the average annual blue water was $6 3 . 8 5 \\ \\mathrm { m m }$ ,and the average annual green water was $1 4 7 . 9 0 ~ \\mathrm { m m }$ ,during the period from 2009 to 2014. The average green water coefficient during this period was 0.70.From 2009 to 2014, the changes in precipitation, blue water, green water, and green water flow were relatively stable, and their coefficients of variation were less than $20 . 0 0 \\%$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/43adb79d65f9520041356e308cc778f45949b690ecd81b5eeb48b9c00ed0f96f.jpg",
+        "img_caption": [
+            "Fig.3Relationships of precipitation with blue water and green water on the monthly scale "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbdfa54939a3305759aa04c4d1243f8bf05f96e59b03cb9767dd4162ec34d869.jpg",
+        "img_caption": [
+            "Fig.4Average annual blue water, green water, and precipitation during 2Oo9-2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The amount of blue water was reduced at first (from 50.87 mm in 2009 to the minimum (48.22 mm） in 2011） and then increased to the maximum $( 8 6 . 3 1 ~ \\mathrm { m m } )$ in 2013 (Fig.4). The average annual growth rate was $2 6 . 0 0 \\%$ . The changes in green water conformed to those in blue water, and the lowest value was observed in 2011,which was related to the minimum precipitation in 2011. Generally, variations of blue water and green water were consistent with the trend of precipitation, decreasing at first and then increasing from the year 2O09 to 2014. There were significant positive correlations among blue water, green water, and precipitation on the annual scale (Fig. 5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4Spatial distributions of blue water and green water ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "There were significant spatial differences in precipitation,blue water, green water flow, green water storage,and green water coefficient in Ningxia (Fig. 6). Precipitation decreased in the northern region compared with the southern region and ranged between 146.0o and $4 0 0 . 0 0 \\ \\mathrm { m m }$ (Fig. 6a). Blue water resources also decreased in the southern region compared with the northern region, ranging from 26.00 to $1 3 6 . 0 0 ~ \\mathrm { m m }$ (Fig.6b). Green water flow decreased in the southern region relative to the northern region, ranging from 1o8.00 to $2 2 3 . 0 0 ~ \\mathrm { m m }$ ，and its distribution characteristics were coupled with the topographic features of Ningxia (Fig. 6c). However, for blue water and green water flow, their distributions in the spatial perspective were coupled with precipitation. Green water storage increased in the southern region compared with the northern region (Fig. 6d). There are two possble reasons for this. As the northern region belongs to the Yellow River irrigation area, the flat terrain,fertile soil, and high vegetation coverage may increase the green water storage capacity. Also, there is less precipitation, stronger wind, and more sparse vegetation in the central region than in the northern and southern regions,so the minimum interval value of green water reserves appeared in the central region. Green water coefficient increased from south to north (Fig. 6e). Specifically, it was about $6 5 . 0 0 \\%$ in the southern region, but over $8 5 . 0 0 \\%$ within the central and northern regions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/92345ede88eec04c8bf37a874c56194b29f1ecefc74d8c69435f821594e841ce.jpg",
+        "img_caption": [
+            "Fig.5Relationships of precipitation with blue water and green water on the annual scale "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a4f67b1ca28e4b794d5519ef02cce711033a713aaa96ccd369bcc1e416fbc30.jpg",
+        "img_caption": [
+            "Fig. 6Spatial distributions of annual precipitation (a), blue water (b),green water flow(c), green water storage (d),and green water coefficient (e) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5Impacts of climate change and land-use changes on blue water ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table 2 and Figure 7 present the average annual blue water distributions simulated using the SWAT model under three temporally and spatially diverse scenarios. As observed from Table 2, blue water increased for scenario I and scenario II, but decreased for scenario II. Blue water increased by $2 1 . 7 2 \\ \\mathrm { m m / a }$ if climate change alone was taken into consideration during this process (scenario II and scenario I), while it declined by $0 . 1 3 ~ \\mathrm { m m / a }$ if land-use changes (scenario III and scenario II) were considered alone.Blue water increased at the rate of $2 1 . 5 9 \\ \\mathrm { m m / a }$ ，when both climate change and land-use changes (scenario II and scenario I) were taken into consideration. The results showed that climate change had increased influence on blue water resources in Ningxia relative to land-use changes.Blue water increased more in the southern region than in the northern region (Fig. 7). The distribution of blue water showed obvious spatial changes,and an increased amount was observed in the south and east of Ningxia (Fig. 7). ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "Table 2Simulated average annual blue water due to climate change and land-use changes "
+        ],
+        "table_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/41c1d566536b0517ef643ec9c90a2ce37f4c11fb4d271b7598de27caf539b281.jpg",
+        "img_caption": [
+            "Fig.7Spatial variability of blue water simulated under different scenarios in Ningxia "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.6Impacts of climate change and land-use changes on green water flow ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table 3 and Figure 8 display the average annual green water flow distributions simulated using the SWAT model under thre temporally and spatially diverse scenarios. As observed, green water flow increased by $4 2 . 1 4 ~ \\mathrm { m m }$ annually(Table 3） when both climate change and land-use changes (scenario III and scenario I) were considered, and it increased by $4 2 . 3 8 ~ \\mathrm { m m }$ annually if climate change (scenario I and scenario I) alone was taken into consideration. Green water flow declined by $0 . 2 4 ~ \\mathrm { m m }$ annually if land-use changes were considered. These results indicated an opposite impact of climate change and land-use changes on green water flow change compared with that on blue water resources. Climate change had increased influence on green water flow (variation of green water flow: $4 2 . 3 8 ~ \\mathrm { m m / a }$ ）relative to land-use changes (variation of green water flow: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$0 . 2 4 ~ \\mathrm { m m / a } ,$ ). In summary， green water flow showed decreased spatial distribution within most sub-basins as a result of both climate change and land-use changes in Ningxia during the period from 2009 to 2014 (Fig. 8). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/45b70720e36cfc51f385d95af352ce5eb52e8fa1a1213f591e5ffd28d68294b8.jpg",
+        "img_caption": [
+            "Fig.8Spatial variability of green water flow simulated under different scenarios in Ningxia "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Green water occupies a very important proportion of water resources in semi-arid and arid regions.Green water has been consumed as green water flow in the process of vegetation evapotranspiration on the surface of the basin,which is suitable for the semi-arid and sub-humid climate characteristics of Ningxia. Studies of Gao et al. (2018) and Pandey et al. (2019) showed similar monthly changes in blue water and green water. According to our results, green water accounted for $6 9 . 0 0 \\%$ of the total water resources in Ningxia,which was consistent with the findings in the headwater of the Yellow River Basin (Zhang et al.,2O14). A similar regular pattern was observed by Gao et al. (2Ol8)； in addition， temperature was also observed to be an importantly influence factor of blue water and green water resources (Gao et al., 2Ol8). Green water flow mainly exists in the form of vegetation evapotranspiration in the semi-arid and arid regions. The reason is that evapotranspiration increases as temperature rises. As summer precipitation is mainly consumed by evapotranspiration, the vegetation cover condition is a key factor for the green water flow within the study area. It makes greater contributions to the health and stability of the ecosystem in the semi-arid and arid regions. This indicates that water is mainly stored in soil for agricultural production in semi-arid and arid areas. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Blue water and green water, along with green water coeficient, showed a single peak trend on the monthly scale,consistent with the findings obtained by Zhu et al. (2018). Xie et al. (2020) also found that green water amount was higher than blue water amount in the Yellow River Basin during 2010-2018. Yuan et al. (2019) reported that the increasing precipitation since 2011 within the Erhai Lake Basin in southwestern China resulted in increased blue water and green water. Precipitation was slightly greater than blue water and green water,and the relative error was $1 . 5 1 \\%$ between the water resources (blue water and green water) and precipitation. There were two reasons for the error: first, there were errors from the parameterization of the SWAT model; and second, factors such as water transfer and vegetation changes were not considered in this study. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Obvious spatiotemporal distributions of blue water, green water, and green water flow were observed across the study area. Blue water and green water, as well as green water coefficient showed certain spatial distribution features across Ningxia. Specifically, blue water and green water were higher in the southern region of Ningxia than in the northern region. However, the southern region had a smaller green water coefficient than the northern region.These trends were similar to the findings of Liu (2O18). Our results indicated that blue water and green water flow increase significantly under climate change; however, slight decreases in the above two factors are induced by land-use changes. Du et al. (2O18) pointed that that climate change influenced both blue water and green water within the Ohio River Basin. Veetil (2O18) also found that the variations of blue water and green water were controlld by climate change and land-use changes, and green water was more sensitive to changes of land use in the Savannah River Basin, USA. Quinteiro (2O18) also revealed a high variability of green water mostly in the Northern Hemisphere. There are two main reasons for these results. First, the Liupan Mountains are located in the southern region of Ningxia with relatively abundant precipitation and low temperature, causing the evaporation of water to be lower than that of the northern region. Second,the northern region is mainly farmland with large evapotranspiration. Therefore,the difference in surface coverage and precipitation results in the spatial differences in blue water and green water, as well as green water coeficient. Our results showed that green water is more sensitive to climate change in the study area,and the main reason is that precipitation variability is greater in the semi-arid and sub-humid regions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study confirmed that diverse land-use types across the upstream， midstream，and downstream areas might result in different water footprints spatially. This implied that the distributions of blue water and green water did not fully match the amount of precipitation from the spatial perspective; however, the spatiotemporal distribution features of blue water and green water as well as green water flow had a strong correlation with precipitation. A possible reason might be the higher elevation of the Liupan Mountains in the southern region of Ningxia. However, our results showed that green water storage in the middle and upstream of the Yellow River Basin was small than that in the upstream of the Yellow River Basin (Gao, 2O18),and was also different from the study of Lyu et al. (2019) conducted in the Xihe River Basin, Northeast China. In Ningxia, climate change exerts an important impact on blue water and green water flow, which might be due to the larger climate change than land-use changes in the semi-arid regions. Findings in this work shed more light on the distributions of blue water and green water, as well as green water flow across Ningxia.In the future, more detailed data are needed to address the relationships of blue water (green water) with climate change and land-use changes. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The model was conducted in accordance with the processes or calibration technologies proposed by Zang et al. (2012） and Pandey et al. (2019). The fraction of the peak was not perfectly obtained; meanwhile, runoff of certain month was underestimated, leading to a slightly lower NS than that of other studies (Arnold and Fohrer, 2Oo5). The simulation results indicated a satisfactory simulation of the hydrological process in Ningxia. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In this study, we analyzed the spatiotemporal distributions of blue water, green water, gren water flow, and green water coefcient across Ningxia from 2009 to 2014 based on the SWAT model. Furthermore, we discussed the trend in the variability of blue water and green water according to three hypothetical scenarios related to climate change and land-use changes. Green water accounted for more than $6 9 . 0 0 \\%$ of the total water resources in this region. There were strong spatiotemporal distribution characteristics of blue water, green water, and green water flow in Ningxia during the study period. The change trends of blue water and green water were consistent with that of precipitation. The simulation identified the climate change in Ningxia to be more influential on blue water and green water than land-use changes. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study lays a specific scientific foundation to manage water resources when encountered with climate change and human activities (land-use changes). Our findings also help to comprehensively understand the spatiotemporal distributions of water resources within this region, which will assist policymakers and administrators in managing water resources for sustainable development of the socio-economic ecological systems in this region. Considering Ningxia as an agricultural region, future studies should consider the role of cropping systems and irrigation in the water cycle to identify their influences on blue water and green water resources. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study was funded by the Science and Technology Innovation Funds of Gansu Agricultural University for Special Funds for Discipline Construction,China (GAU-XKJS-2018-203)，the Supporting Funds for Youth Mentor of Gansu Agricultural University, China (GAU-QDFC-2018-17),and the Inovation Fund of Coleges and Universities in Gansu Province,China (2O2lA-06l)，the Natural Science Foundation of Gansu province (20JR10RA543). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Arnold JG,Fohrer N.2005.SWAT 20:Currentcapabilitiesandresearch opportunities inapplied watershed modelling. Hydrological Processes,19(3): 563-572.   \nBakerTJ,MillrSN.2013.Using the Soiland Water Assessment Tool (SWAT)toassesslanduse impact on waterresources in an East African watershed. Journal of Hydrology, 486:100-111.   \nDuL,RajibA,MerwadeV.2018.Large scale spatiallexplicit modelingofblueand green waterdynamics in atemperate mid-latitude basin.Journal of Hydrology, 562: 84-102.   \nFalkenmark M.1995.Coping with water scarcityunder rapid population growth.In: Conferenceof SADC Minister.Pretoria, South Africa,23-24.   \nFalkenmark M,RockstromJ.2O06.Thenew blueand green waterparadigm:breaking new groundfor water resources planning and management. Journal of Water Resources Planning and Management,132:129-132.   \nFalkenmark M,RockstromJ.2010.Building waterresilience inthefaceof globalchange:fromablue-onlytoagreen-blue water approach to land-water management.Journal of Water Resources Planning and Management,136(6): 606-610.   \nFan H,Xiao H,MaJ,etal.2O17.Studyonrestoringcomputationof runofbasedon VIC model.Journalof North China University of Water Resources and Electric Power (Natural Science Edition),38(2):7-11. (in Chinese)   \nGao X,Zuo DP,Xu Z,etal.2O18.Evaluationof blue and green waterresources in theupper Yellow River basinof China. Proceedings of the International Association of Hydrological Sciences,379:159-167.   \nHadeland I,Heinke J,Biemans H,etal.2O14.Global waterresourcesaffctedbyhuman interventionsand climatechange. Proceedings of the National Academy of Sciences of the United States of America,111(9): 3251-3256.   \nHoekstraAY,MekonnenMM.20l2.The water footprintofhumanity.Proceedings oftheNational AcademyofSciencesofthe United States of America,109(9):3232-3237.   \nHoekstraAY,Mekonnen MM,ChapagainAK,et al.2O12.Global monthlywaterscarcity:blue water footprints versus blue water availability.PLoS ONE,7(2): e32688,doi: 10.1371/journal.pone.0032688.   \nHuang H,HanY,JiaD.2O19.Impactof climatechangeon theblue water footprintofagricultureonaregional scale.Water Science and Technology Water Supply,19(1): 52-59.   \nJohansson EL,FaderM,SeaquistJW,etal.20l6.Grenandbluewaterdemand fromlarge-scale landacquisitions inAfrica. Proceedings of the National Academy of Sciences of the United Statesof America,113(41):11471-11476.   \nKarandishF,HoekstraAY.20l7.Informing national foodand watersecuritypolicythrough water footprint assessment:the case of Iran.Water,9(11):831,doi:10.3390/w9110831.   \nKummu M,GuillumeJ,MoelHD,etal.2016.The world'soadtowatersarcity:shortageandstressinthe2Othcenuryand   \nLiS,Ma W,GuY,etal.2016.Analysisofspatial-temporalchanges inlandscapefragmentationintheNingxiaYellowRiver Valley.Acta Ecologica Sinica,36(11): 3312-3320.(in Chinese)   \nLiang J,Liu Q,Zhang H,etal.2O2o.Interactiveeectsofclimatevariabilityand humanactivitiesonblueandgreen water scarcity inrapidlydeveloping watershed.JournalofCleanerProduction,265:121834,doi:10.1016/j.jclepro.2020.121834.   \nLiu G,ShiL,LiK.2018.Equitable alocationof blue and green water footprints basedonland-use types:Acasestudyof the Yangtze River Economic Belt. Sustainability,10(10): 3556,doi: 10.3390/su10103556.   \nLyuL,Wang X,SunC,et al.2O19.Quantifying the EfectofLand UseChange and Climate Variabilityon Green Water Resources in the Xihe River Basin,Northeast China.Sustainability,11(2):338,doi:10.3390/su11020338.   \nMa X,SunX,ChenL.2014.Applicationof 3S technology in surveyof crop planting structureof Ningxia Yellow River irrigation region.Yellow River,36(11):135-137.(in Chinese)   \nMekonnen MM,HoekstraAY.016.Fourbilionpeople facing severe water scarcity.ScienceAdvances,2(2): e150323,doi: 10.1126/sciadv.1500323.   \nMoriasiDN,Arnold JG,Van Liew M W.2oo7. Model evaluation guidelines for systematicquantification of accuracy in watershed simulations.Transactions of the Asabe,50(3): 885-900.   \nNash JE,Sutcliffe JV.1970.River flow forecasting through conceptual models part I-A discusionof principles.Journalof Hydrology,10(3): 282-290.   \nNeitsch SL,ArnoldJG,KiniryJR,etal.20l1Soiland waterassssmenttoltheoretical documentation versio2009. Colege Station:Texas Water Resources Institute.[2020-06-02].htps:/swat.tamu.edu/media/99192/swat2009-theory.pdf.   \nNingxiaWater Conservancy.2009-2014.Ningxia Water Resources Bulletin.Yinchuan:Ningxia Water Conservancy. [2020-06-08]. http:/slt.nx.gov.cn/xxgk_281/.   \nPandey B K,Khare D,Kawasaki A,et al.2018.Climate change impact assessment on blue and gren water bycouplingof representative CMIP5 climate models with physical based hydrological model. Water Resource Management,3(1):141-158.   \nQinL,Jin Y,DuanP,etal.0l6.Field-basedexperimental waterfotprintstudyofsunflowergrowth iasmiaridregionof China. Journal of the Science of Food and Agriculture,96(9): 3266-3273.   \nQuinteiro P,Rafael S,Villanueva-ReyP,etal.2018.Acharacterizationmodel toddresstheenvironmentalimpactof green water flows for water scarcity footprints.Science of the Total Environment,626:1210-1218.   \nSchuol J,Abbaspour KC,Yang H,etal.2O08.Modeling blueand green wateravailabilityin Africa.WaterResourceResearch, 44(7): 212-221.   \nSellami H,Benabdallah S,Jeunesse LI.216.Quantifying hydrological responsesof sall Mediterraneanacatchmentnder climate change projections.Science of the Total Environment, 543: 924-936.   \nSerur BA.2O20.Modeling blueand green waterresources availabilityat the basinand sub-basin levelunderchanging climate in the Weyb River basin in Ethiopia.Scientific African,7: e00299,doi:10.1016/j.sciaf.2020.e00299.   \nShresthaMK,RecknagelaF,FrizenschafbJ.2O16.Assessing SWATmodelsbasedonsingle andmulti-sitecalibration forthe simulationof flow and nutrient loads in the semi-aridonkaparingacatchment in South Australia.Agricultural water Management, 175: 61-71.   \nShrestha S,BhattaBhrestha M,etal.2O18.Itegratedassssmentoftheclimateandlandusechangeimpactonhydrologyand water quality in the Songkhram River Basin,Thailand.Science of the Total Environment, 643:1610-1622.   \nTanML,GassmanPW,Yang XY,etal.2020.AreviewofSWATappications,performanceandfuture needs forsimulationof hydro-climatic extremes.Advances in Water Resources,143:103662,doi:10.1016/j.advwatres.2020.103662.   \nVeeti A V,Mishra AK.2016.Watersecurity assessment using blueand green water footprintconcepts.Journalof Hydrology, 542: 589-602.   \nVelpuriNM,SenayGB.2Ol7.Partitioning evapotranspiration into greenand blue watersources in the Conterminous United States. Scientific Report,7(1): 6191,doi: 10.1038/s41598-017-06359-w.   \nXie P,ZuoL,Yang X,etal.2O2o.Spatial-temporalvariatios inblueandgreen waterresources,waterfotprintsand water scarcities ina largeriver basin:a case forthe Yellow River Basin.Journal of Hydrology，590:125222，doi: 10.1016/j.jhydrol.2020.125222.   \nXu D M,Xu XZ,Wang GH,etal.20l7.Variations in soil organiccarboncontentand distribution during naturalrestoration succession on the desert steppe in Ningxia.Acta Prataculturae Sinica,26(8):35-42.(in Chinese)   \nYang Z,Gao C,Zang S,et al.2017.Asessing SWIM modelapplicabilityin theblack soilregionofNortheast China:Acase study inthe middle and upper reachesof the Wuyuer River Basin.Acta Geographica Sinica,72(3): 457-470.(in Chinese)   \nYuan Z,XuJ,MengX,etal.2019.Impactof Climate Variabilityon Blueand Green WaterFlows intheErhai LakeBasinof Southwest China.Water,11(3): 424,doi:10.3390/w11030424.   \nZang C,LiuJ,VeldeM,etal.2O12.Assessmentofspatialandtemporalpattersof greeandblue waterflowsininlandriver basins in Northwest China.Hydrology and Earth System Sciences,16(8):2859-2870.   \nZang C,MaoG.2019.Aspatialandtemporalstudyofthe greenandblue waterflow distribution intypical ecosystemsand its ecosystem services function in an arid basin.Water,11(1): 97,doi:10.3390/wl1010097.   \nZhang J,JiaSF.2Ol3.Studyondierenceofblue-greenwaterinHuangshuibasinandgreewaterunderdiferenttypesof land use based on SWAT model. Journal of Water Resources and Water Engineering,24(4): 7-11.   \nZhang W,Zha X,LiJ,etal.2014.Spatiotemporalchangeofblue waterand green waterresources inthe headwaterofYellow River Basin,China.Water Resource Management,28(13):4715-4732.   \nZhao A,ZhaoY,Liu X,etal.2Ol6aImpactofhumanactivitiesandclimatevariabilityongreenandblue waterresources inthe Weihe River Basin of Northwest China.Scientia Geographica Sinica,36(4):571-579.(in Chinese)   \nZhao A,Zhu X,Liu X,etal.20l6b.Impactsoflndusechange andclimatevariabilityongreenandblue waterresources inthe Weihe River Basin of northwest China.Catena,137:318-327.   \nZhu K,Xie ZB,ZhaoY,etal.2018.The Assessmentof green waterbasedontheswat model:acasestudyintheHai River Basin, China.Water,10(6): 798,doi:10.3390/w10060798. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

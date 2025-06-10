@@ -1,0 +1,516 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201612122549 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曹涛,王赛鸽,陈彬.基于多区域投入产出分析的京津冀地区虚拟水核算.生态学报,2018,38(3)：788-799.  \nCaoTWagSGaeahpudeo788-799.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于多区域投入产出分析的京津冀地区虚拟水核算",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曹　涛,王赛鸽,陈彬北京师范大学环境学院环境模拟与污染控制国家重点实验室，北京100875摘要：通过贸易与消费调控实现区域水资源优化配置已成为缓解地区水资源压力的途径之一。跨区域投人产出分析可为地区间虚拟水贸易战略提供依据。基于2012年京津冀地区投入产出表与生产用水量构建了跨地区虚拟水核算模型,计算了隐含在经济贸易中的虚拟水总量及各地区各部门的直接用水系数、完全用水系数和拉动系数,分析了各部门虚拟水进出口情况，识别了重点耗水部门。结果表明：京津冀地区呈现虚拟水净出口状态，其中净出口部门主要为北京的服务与交通业,河北的农业和制造业。京津冀的农业、矿业和水供应业在生产过程中直接消耗水量大,应注重提升用水效率及节水技术的开发;三地制造业、建筑业和服务与交通业的平均拉动系数较大,这说明其他部门生产活动对该部门依赖性较大,其单位产出的提高将带动整个地区更多虚拟水量的投入。此外,河北的农业和制造业为京津冀各部门输送了大量虚拟水,为各部门生产提供了支撑,是节水的重点部门,应着重调整其产业结构，并从直接和间接用水两方面入手减少水资源消耗。计算了京津冀地区不同部门的直接、间接水资源消耗、水资源消耗拉动系数,以及部门间的虚拟水贸易情况,结果可为该地区部门间水资源配置和虚拟水战略的制定提供基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：虚拟水；多区域投入产出分析；京津冀地区；贸易与消费",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Virtual water analysis for the Jing-Jin-Ji region based on multiregional inputoutput model 0 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CAO Tao，WANG Saige，CHEN Bin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Stateeytbt ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The optimization of regional water resources via regulationof trade andconsumption has been considered as an alternative to aleviatethe severityof watershortage.The multiregional input-output （MRIO）analysis makes it possible to explorevirtual watertradeamongregions.Thisstudyestablishedavirtual water accounting modelfortheJing-Jin-Jiregion based onthe MRIO，combining the economic input-output table and sectoral water consumption in 2012.The import and exportofvirtual waterfordiferentregionsand sectors wereanalyzedbycalculating thedirect waterusecoeficient，total water usecoeficient，thefinalconsumptionof virtual water,and virtual watertrade volume.Theresults show thatthe JingJin-Jiregionisanet virtual water exporter.Mainnet exportersof virtual water includetheserviceand transport sector in Beijing andthemanufacturingand agricultural sector in Hebei.From the perspectiveof the driving coeficient, manufacturing，construction，services，and transport in Jing-Jin-Jiregionhave high cumulative waterinput，butlowdirect water input,implyingtheyneedmore indirect water inflow fromothersectors forproduction.Moreover,itis evidentthatthe agriculturalandmanufacturingsectorinHebeihashigh virtual wateroutflow,indicating thatthese shouldbethekeysectors for water-saving management through reducing waterconsumption fromboth directand indirect perspectives.By investigating direct waterconsumption，indirect waterconsumption，waterusecoefficients，drivingcoeffcients，andthevirtual water tradeamongsectors intheJing-Jin-Jiregion，wecould identifythekeysectorsandpathwaysfor waterconsumptionand thus providesasolidfoundation for virtual water trade strategies toallviate waterresourcepressrein the Jing-Jin-Jiregion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: virtual water；multiregional input-output analysis； Jing-Jin-Ji region； trade and consumption",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水资源是人类生存和发展的重要保障,2015年我国水资源总量为27962亿 $\\mathbf { m } ^ { 3 }$ ，总量虽高但人均水资源量仅有 $2 0 3 9 . 2 \\mathrm { m } ^ { 3 }$ ,已十分接近国际缺水警戒线。更为严峻的是,我国水资源空间分布差异大,人口占全国 $4 6 \\%$ 的北方地区仅拥有全国 $2 5 \\%$ 的水资源量,这种水资源分布不均的现状加大了水危机发生的可能性[1-2]。缓解地区水资源匮乏问题已成为当务之急,方法包括大量直接调配地区水资源的硬性措施如南水北调工程、引汉济渭等。此外还有根据当地水资源条件调整地区产业结构,优化贸易网络,以及虚拟水贸易调控等措施[3]。其中虚拟水是指产品或服务在生产过程中所消耗的水资源[4]。虚拟水战略的核心思想是水资源短缺的地区可通过进口水密集型产品,减小本地水资源的使用,缓解局部缺水问题[5]。针对虚拟水战略,程国栋等[6]于2003 年首次明确了虚拟水的定义,并建议在我国缺水的西北干旱区实施虚拟水战略。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "北京市、天津市和河北省(以下简称京津冀)位于中国资源型缺水地区,以不足全国的 $0 . 7 \\%$ 的水资源，承载着全国约 $8 \\%$ 的人口 $6 \\%$ 的粮食生产和 $10 \\%$ 的 $\\mathrm { G D P }$ 。此外,高速发展的工业化和城市化如首都副中心雄安新区的规划建设等将不断刺激各地部门用水需求增长,水资源紧张和供需矛盾等问题制约着京津冀地区可持续发展[7-9]。京津冀三地经济贸易、产业转移等方面关系密切,形成了以北京、天津为经济发展的龙头,带动河北协同发展的格局,使京津冀地区成为中国区域经济增长最快、经济发展水平最高的地区增长极之一。由此,量化分析京津冀三地虚拟水转移情况具有战略性意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文旨在结合京津冀地区经济投人产出表与各部门生产耗水量,运用多区域投人产出法计算隐含在三地经济系统产出产品与服务中的虚拟水量,通过对比各部门直接用水系数、完全用水系数和拉动系数,分析各部门虚拟水进出情况,识别重点耗水部门,探索部门间的水资源关联性,为调控贸易与消费进而优化区域水资源配置提供决策支持，进而为缓解京津冀地区水资源压力提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1虚拟水核算研究现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "虚拟水研究的关键问题是如何核算经济贸易所带来的虚拟水贸易。现有虚拟水核算主要着眼于具体产品和复杂系统两种尺度。前者拟合方法包括 Zimmer 和Renault[1]提出的单位用水量法以及 Hoekstra 和Chapagain 提出的产品生产树方法[11-12]。后者针对复杂系统的投人产出法主要是依据地区经济贸易活动与经济活动的水消耗,基于经济投入产出表与部门水资源消耗情况计算部门间的虚拟水流动关系[13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文所使用的多区域投入产出分析可以估量经济系统中地区、部门间的生产活动的直接与间接联系,以及贸易活动中生产产品或提供服务所需要的直接和间接投入,可从宏观角度把握国民经济系统中各部门间虚拟水的流动关系[14],已被大量应用于虚拟水核算之中[15-9]。该方法基于区域间经济投入产出表,计算产生于某区域经济活动的资源消耗量以及为地区间其他部门生产活动所提供的资源投入量。由于所使用的投入产出表覆盖了经济产品的整个生产过程及使用去向,多区域投入产出分析可在各区域各部门贸易联系中追踪水资源流动。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内外许多学者应用多区域投入产出模型开展了虚拟水贸易与消费的相关研究。在虚拟水贸易格局探索中,王雪妮[20]基于多区域投入产出模型指出区域间虚拟水贸易仅缓解我国部分贫水地区水资源短缺情况，例如部分贫水地区有大量净输出虚拟水,而富水地区虚拟水的大量净流入或仅仅保持了当地虚拟水进出平衡。Guan 和Hubacek[21]使用多区域投入产出表计算了我国南北方的虚拟水流动量,指出水资源估价过低，并未在生产和消费中得到足够重视,导致不可持续的水资源利用模式。除了国内的虚拟水格局研究,也有学者分析了我国在国际虚拟水贸易中的角色。夏冰等[22|运用 2002、2005 和2007年投入产出表数据分析,指出中国是一个虚拟水净出口国,并且虚拟水净出口量始终处于增长状态,主要出口到美洲、欧洲和亚洲。Zhang 和Anadon[23]发现隐含在我国国内贸易中的虚拟水总量是出口国外贸易的虚拟水总量的2倍。在我国省际虚拟水贸易中,Zhang 等[24]运用该方法得到在隐含于工业中的虚拟水贸易网中,江苏省是最大的输出及收入赤字省份,而广东省是虚拟水输入最多的省份。类似的Guo 和 Shen[25]通过此方法分析隐含在消费和国际贸易中的虚拟农田及虚拟水,得出黑龙江省是虚拟农田及虚拟水最大的输出省,而上海则相反。Zhang 等[26]使用该方法研究了北京市的水足迹,发现区域贸易协调对于提高用水效率有着重要意义。张小霞和马忠[27]基于本方法计算了新疆虚拟水流动情况,指出新疆农业作为主要虚拟水贸易部门,其农产品的输出规模及去向决定了新疆的虚拟水输出基本格局。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近年来国家稳步推进京津冀一体化战略的实施,三地在经济贸易、产业转移等方面交流愈加频繁。如何通过调控贸易与消费进而优化区域水资源配置已成为该地区可持续发展的一项焦点议题。京津冀地区的水资源安全是首都生态安全的基础保障,而现有关于京津冀地区的虚拟水核算研究还相对空白。本文将分析京津冀地区不同部门的直接水资源消耗、间接水资源消耗,并分析各部门的水资源消耗拉动系数,以及部门间的虚拟水贸易情况,为京津冀地区水资源部门间配置、虚拟水策略的制定提供方法基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1京津冀地区投入产出表构建",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文使用的京津冀多区域投入产出表是引用自《中国 2012年投人产出表》[28],已被多次应用于相关研究[18,29]。原投入产出表中中间投入部分有i行 $j$ 列(其中 $\\scriptstyle i = j = 3 0$ ,即 30 个地区）,将原表中三地以外( $\\left( i > 3 \\right)$ 的投入值相加即可合并成表中“外地总投入\"部分，同理原表中三地以外 $( j > 3 )$ 部分产出值相加后,再加上流入到其他地区的最终消费得到总的“出口”部分。本文对中国投人产出表进行处理后依据平衡法则对京津冀投出产出表进行了检验,总投入仍等于总产出,表的核心部分即中间投人产出部分未有任何变动,最终构建的京津冀跨区域投入产出表简表见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2京津冀虚拟水投入产出模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设某系统存在 $\\mathbf { \\nabla } _ { m }$ 个区域 $R _ { 1 } , R _ { 2 } , R _ { 3 } , \\cdots , R _ { m }$ 每个区域有 $n$ 个部门 $S _ { 1 } , S _ { 2 } , S _ { 3 } , \\cdots , S _ { n }$ ,则区间内投入产出模型的数学结构由 $\\left( { \\boldsymbol { m } } \\times { \\boldsymbol { n } } \\right)$ 个线性方程构成[30]。地区生产活动存在以下平衡,如公式(1),即每个部门总的输出等于中间使用、最终使用和输出到系统外的出口量之和( $( a , b < m$ ： $\\scriptstyle { m \\leqslant 3 }$ ; $\\scriptstyle i , j < n$ ： $n \\leqslant 7$ ,即表示京津冀3个地区及各地区的7个部门）。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } ^ { R _ { a } } = \\sum _ { b = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } x _ { i j } ^ { R _ { a } R _ { b } } + \\sum _ { b = 1 } ^ { m } y _ { i } ^ { R _ { a } R _ { b } } + e _ { i } ^ { R _ { a } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $x _ { i } ^ { R _ { a } }$ 为 ${ \\mathbf { } } R _ { a }$ 区域 $i$ 部门的总产出; $x _ { i j } ^ { R _ { a } R _ { b } }$ 为 ${ \\mathbf { } } R _ { a }$ 区域 $i$ 部门提供给 $R _ { b }$ 区域的 $j$ 部门的中间投入 $y _ { i } ^ { R _ { a } R _ { b } }$ 为 ${ \\mathbf { } } R _ { a }$ 区域 $i$ 部门对 $R _ { b }$ 区域最终需求的投入量 $e _ { i } ^ { R _ { a } }$ 为 ${ \\mathbf { } } R _ { a }$ 区域 $i$ 部门输出到系统外的出口量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引人直接投入系数 $a _ { i j } ^ { R _ { a } R _ { b } }$ ,其指 $R _ { b }$ 区域 $j$ 部门生产单位产品时， ${ \\mathbf { } } R _ { a }$ 地区 $i$ 部门对其的直接投入量,其计算如公式(2）:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i j } ^ { R _ { a } R _ { b } } = \\mathrm { x } _ { i j } ^ { R _ { a } R _ { b } } / \\mathrm { x } _ { j } ^ { R _ { b } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将(2)式代入(1)式可得(3)式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } ^ { R _ { a } } = \\sum _ { b \\ : = 1 } ^ { m } \\sum _ { j \\ : = 1 } ^ { n } a _ { i j } ^ { R _ { a } R _ { b } } x _ { i } ^ { R _ { a } } \\ : + \\ : \\sum _ { b \\ : = 1 } ^ { m } y _ { i } ^ { R _ { a } R _ { b } } \\ : + \\ : e _ { i } ^ { R _ { a } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1db49c028d2daaa4399c9245c896915537af47c9a50a10f526c72edc5de324ad.jpg",
+        "table_caption": [
+            "r-rrrrirgi lilr lirirtiiriertiriliilitl "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td>北京</td><td colspan=\"6\"></td><td colspan=\"6\">河北</td><td></td><td>总产出</td></tr><tr><td></td><td></td><td></td><td>部门1 Sector 1</td><td></td><td>部门n</td><td>部门1</td><td></td><td>天津</td><td>部门n</td><td>部门1</td><td>：</td><td>部门n</td><td>北京</td><td>天津</td><td>河北</td><td>出口 Export</td><td>Gross output</td><td></td></tr><tr><td>中间投入</td><td>北京</td><td>部门1</td><td>xR1</td><td>：</td><td>Sector n xR</td><td>Sector 1</td><td></td><td></td><td>Sector n ：</td><td>Sector 1 x1R</td><td>：</td><td>Sector n xR3</td><td>y11</td><td>y1R2</td><td>y1R</td><td>e</td><td>x1</td><td>量</td></tr><tr><td>Intermediate</td><td></td><td>：</td><td>：</td><td>：</td><td>0</td><td></td><td></td><td></td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td></td><td></td></tr><tr><td>input</td><td></td><td>部门n</td><td>xR</td><td></td><td>xRR1</td><td></td><td></td><td></td><td>：</td><td></td><td>：</td><td>xR</td><td>y1R1</td><td>y1</td><td></td><td>e1</td><td>x1</td><td>等：基于</td></tr><tr><td></td><td>天津</td><td>部门1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>x23</td><td></td><td></td><td></td><td>y2</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>：：</td><td></td><td></td><td></td><td></td><td></td><td>：</td><td>：：</td><td></td><td></td><td>：</td><td>：</td><td></td><td></td><td></td></tr><tr><td></td><td>河北</td><td>部门n</td><td>xRR1</td><td>：</td><td>xRR1</td><td></td><td></td><td></td><td></td><td></td><td>：</td><td>xR23</td><td>yR21</td><td>y2</td><td>yR2R3</td><td>e2</td><td></td><td></td></tr><tr><td></td><td></td><td>部门1</td><td>xR</td><td></td><td>x</td><td>…</td><td></td><td></td><td></td><td>xR3</td><td>：</td><td>xRR</td><td>yR1</td><td>y3R</td><td>y</td><td>e</td><td></td><td></td></tr><tr><td></td><td></td><td>：</td><td>：</td><td>：</td><td>：</td><td>…</td><td></td><td></td><td></td><td></td><td>：</td><td>：</td><td>：</td><td>：</td><td></td><td>：</td><td></td><td></td></tr><tr><td></td><td></td><td>部门n</td><td>xRR</td><td>：</td><td></td><td></td><td></td><td></td><td></td><td></td><td>：</td><td>xRR</td><td>y3R1</td><td></td><td>y</td><td>e</td><td>xR</td><td></td></tr><tr><td>外地总nput ftm otherprviness</td><td></td><td></td><td></td><td>：</td><td>1</td><td>：</td><td></td><td></td><td></td><td>13</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>非产业性投入(增加值)</td><td></td><td></td><td>V</td><td>：</td><td>V</td><td>：</td><td></td><td></td><td></td><td>V</td><td>：</td><td>V</td><td></td><td></td><td></td><td></td><td></td><td>于多区域投入产出分析的京津冀地区虚拟水</td></tr><tr><td>总投入Gross input</td><td></td><td></td><td>x1</td><td>：</td><td></td><td>：</td><td></td><td></td><td></td><td>x</td><td></td><td>xR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>生产实际用水量</td><td></td><td></td><td>w1</td><td>：</td><td>w1</td><td>：</td><td></td><td></td><td></td><td>wR</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用矩阵表示即为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX ^ { R _ { a } } = A ^ { R _ { a } R _ { b } } X ^ { R _ { a } } + Y ^ { R _ { a } R _ { b } } + E ^ { R _ { a } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $X ^ { R _ { a } } = \\left[ x _ { i } ^ { R _ { a } } \\right]$ ， $\\boldsymbol { A } ^ { R _ { a } R _ { b } } = \\left[ a _ { i j } ^ { R _ { a } R _ { b } } \\right]$ ， $Y ^ { R _ { a } R _ { b } } = \\left[ y _ { i } ^ { R _ { a } R _ { b } } \\right]$ 和 $E ^ { R _ { a } } = \\left[ e _ { i } ^ { R _ { a } } \\right]$ 分别表示总产出矩阵、直接消耗矩阵、最终使用矩阵和出口矩阵。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将上式移项变形可得：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX ^ { R _ { a } } = \\big ( I - A ^ { R _ { a } R _ { b } } \\big ) ^ { - 1 } \\big ( Y ^ { R _ { a } R _ { b } } + E ^ { R _ { a } } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $( I - A ^ { R _ { a } R _ { b } } ) ^ { - 1 } = \\left[ \\lambda ^ { R _ { a } R _ { b } } \\right]$ 为 Leontief 逆矩阵,矩阵内元素 $\\lambda ^ { R _ { a } R _ { b } }$ 表示为了满足 $R _ { b }$ 地区 $j$ 部门一单位产品的生产需要 ${ \\cal R } _ { a }$ 地区 $i$ 部门的投入量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为使经济数据转换成相应的水相关的数据,在此引入直接用水系数行向量：W\\*\"=[W,W,W,,$\\boldsymbol { W } ^ { \\boldsymbol { R _ { m } } }$ 」,该行向量矩阵中元素为矩阵 $\\left[ \\begin{array} { l } { \\boldsymbol { W } ^ { R _ { m } } } \\end{array} \\right]$ ,其中 $\\mathbf { \\Delta } W ^ { R _ { m } } = \\left[ \\mathbf { \\Delta } \\omega _ { 1 } ^ { R _ { m } } , \\omega _ { 2 } ^ { R _ { m } } , \\omega _ { 3 } ^ { R _ { m } } , \\mathbf { \\omega } , \\mathbf { \\omega } , \\omega _ { n } ^ { R _ { m } } \\right] ^ { T }$ ， $\\omega _ { i } ^ { R _ { m } }$ 表示 $R _ { m } .$ 地区生产单位i部门产品所需要消耗的 $i$ 部门的水资源量。计算方式为： D",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { i } ^ { R _ { m } } = w _ { i } ^ { R _ { m } } / x _ { i } ^ { R _ { m } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $w _ { i } ^ { R _ { m } }$ 表示 $\\boldsymbol { R } _ { { \\scriptscriptstyle m } }$ 地区 $i$ 部门的生产所需水资源用量， $x _ { i } ^ { R _ { m } }$ 表示 $\\boldsymbol { R } _ { { \\scriptscriptstyle m } }$ 地区i部门经济产值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由以上推导可求完全用水系数 $Q ^ { R }$ ,该系数表示研究区各部门生产单位产品(以产品价值表示)消耗的整个系统的水资源量，公式如下： 17",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "单个部门贸易中隐含虚拟水量为：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mu _ { i j } ^ { R _ { a } R _ { b } }$ 为区域 ${ \\cal R } _ { a }$ 部门 $i$ 进口自区域 $R _ { b }$ 部门 $\\dot { \\boldsymbol { { j } } }$ 产品的虚拟水贸易量， $c _ { j } ^ { R _ { b } }$ 为区域 $R _ { b }$ 部门 $j$ 产品的经济产出量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "拉动系数 $L$ （有研究者表述为用水乘数[31-32])表示某个部门产出增加单位耗水量后,带动整个经济系统耗水量的增加程度,其可用于研究某一部门因生产变化。用水量随之变化而对整个经济系统耗水量的影响程度。其为完全用水系数 $Q ^ { R }$ 与直接用水系数 $\\boldsymbol { W } ^ { R }$ 的比值。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { R _ { m } i } = Q _ { i } ^ { R _ { m } } / \\omega _ { i } ^ { R _ { m } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为考察京津冀三地区各部门虚拟水流动方向,引入虚拟水产业部门转移矩阵TVW,计算如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV W ^ { R } = W ^ { R } B \\ : ( \\boldsymbol { I } - \\boldsymbol { A } ^ { R _ { a } R _ { b } } ) ^ { - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT V W = V W ^ { R } - \\left( V W ^ { R } \\right) ^ { - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $V \\boldsymbol { \\mathcal { W } } ^ { R }$ 为完全需水矩阵， $\\boldsymbol { W } ^ { R }$ 为直接用水系数行向量， $B$ 为原始经济投入产出表中的中间投入矩阵。TVW为虚拟水转移矩阵,其为完全需水矩阵与其自身转置矩阵之差。该矩阵斜对角线为零表示刨除向自身转移的虚拟水量为零,其内元素 $t v w _ { i j } ^ { R _ { a } R _ { b } }$ 表示区域 ${ \\mathbf { } } R _ { a }$ 部门 $i$ 向区域 $R _ { b }$ 部门 $j$ 转移的虚拟水量,矩阵每一行之和为 $i$ 部门虚拟水净转移量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3数据来源",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "T 本文使用的京津冀投入产出表是引用自《中国2012年投入产出表》[24],其中京津冀农业实际用水数据采用《2012年中国水资源公报》中农业用水量。鉴于建筑业、水供应业和服务与交通业用水量与经济增长有较强的正相关关系,本文中该3个部门的用水数据是基于北京市、天津市和河北省《第一次水利普查公报》的2011年用水数据,将 2012年的经济增长率作为水资源使用增长率推求所得。三地矿业、制造业和电气供应业用水数据分别来自2013年《北京统计年鉴》《天津统计年鉴》和《河北经济年鉴》。结合所获得用水数据及各部门属性,将原有投入产出表中的42个部门合并为7个部门如表2所示：农业( $\\mathrm { A g } { \\dot { } }$ ）、矿业（Mi）制造业（Ma）、电气供应业(El）、水供应业（Wa）、建筑业（Co）、服务与交通业（ST）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7424558e3534ce584a1b915f410e05fa0979c3c0dc44113e13feb2baa693c00.jpg",
+        "table_caption": [
+            "表2投入产出表42部门合并明细表",
+            "Table 2 Compilation of sectors in the IO table "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>合并后部门划分(7部门) Aggregated 7 sectors</td><td>原投入产出表中42部门 42 sectors in the original IO table</td></tr><tr><td>农业 Agriculture</td><td>农林牧渔产品和服务</td></tr><tr><td>矿业 Mining</td><td>煤炭采选产品</td></tr><tr><td></td><td>石油和天然气开采产品</td></tr><tr><td>金属矿采选产品</td><td></td></tr><tr><td></td><td>非金属矿和其他矿采选产品</td></tr><tr><td>制造业 Manufacturing</td><td>食品和烟草</td></tr><tr><td>纺织品</td><td></td></tr><tr><td></td><td>纺织服装鞋帽皮革羽绒及其制品</td></tr><tr><td></td><td>木材加工品和家具</td></tr><tr><td></td><td>造纸印刷和文教体育用品</td></tr><tr><td></td><td>石油、炼焦产品和核燃料加工品</td></tr><tr><td></td><td>化学产品</td></tr><tr><td></td><td>非金属矿物制品</td></tr><tr><td></td><td>金属冶炼和压延加工品</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>电气机械和器材</td><td></td></tr><tr><td>通信设备、计算机和其他电子设备</td><td></td></tr><tr><td>仪器仪表 其他制造产品</td><td></td></tr><tr><td>废品废料</td><td>21 22</td></tr><tr><td></td><td>23</td></tr><tr><td>金属制品、机械和设备修理服务</td><td>24</td></tr><tr><td>电气供应业 Electricity and gas supply 电力、热力的生产和供应</td><td>25</td></tr><tr><td>燃气生产和供应 水的生产和供应</td><td>26</td></tr><tr><td>水供应业 Water supply</td><td></td></tr><tr><td>建筑业 Construction</td><td></td></tr><tr><td>服务与交通业 Services and transport</td><td></td></tr><tr><td></td><td></td></tr><tr><td>批发和零售 住宿和餐饮</td><td>29 31</td></tr><tr><td>信息传输、软件和信息技术服务</td><td>32</td></tr><tr><td>金融</td><td>33</td></tr><tr><td>房地产</td><td>34</td></tr><tr><td>租赁和商务服务</td><td>35</td></tr><tr><td>科学研究和技术服务</td><td>36</td></tr><tr><td>水利、环境和公共设施管理</td><td>37</td></tr><tr><td>居民服务、修理和其他服务</td><td>38</td></tr><tr><td></td><td></td></tr><tr><td>教育</td><td>39</td></tr><tr><td>卫生和社会工作</td><td>40</td></tr><tr><td>文化、体育和娱乐</td><td>41 42</td></tr><tr><td>公共管理、社会保障和社会组织</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1京津冀地区直接用水系数、完全用水系数及拉动系数分析图1反映了京津冀地区不同部门的完全用水系数值(直接用水系数与间接用水系数之和)，其中京津冀3个地区的农业、水供应业、服务业的完全用水系数较高，均超过 $2 0 0 \\mathrm { m } ^ { 3 } .$ /万元。其次是河北的制造业及电气供应业。3个地区建筑业的完全用水系数都较小，均不足 $5 0 \\mathrm { m } ^ { 3 }$ /万元。从完全用水系数构成来看，各地直接用水系数超过间接用水系数的部门有北京的农业、矿业、水供应业,天津的农业、水供应业,河北的农业、电气供应业和水供应业。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a72c948f97e87c024087efe3d52d74e1f1e16ddbd57a80b96cd384ebb0a822ee.jpg",
+        "img_caption": [
+            "图1京津冀各部门直接、间接及完全用水系数",
+            "Fig.1Direct,indirect and total water use coefficients at sectoral level in Jing-Jin-Ji region "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ag:农业,Agriculture;Mi矿业,Mining;Ma:制造业,anufacturingEl气供应业,Electricityndgssuply;Wa;水供应业,Wateruply;Co建筑业,Construction;ST:服务与交通业,Services and transport;前缀\"B-,T-,H-\"分别表示北京市、天津市和河北省",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从产业结构看,北京市工业的完全用水系数最大,农业及服务业次之,工业农业与服务业间差距不大。这表明在北京产业结构中,服务业的投入力度最大,3类产业单位经济活动耗水量均较低,该地区用水效率较高。天津市农业完全用水系数最大、其次为工业和服务业。而河北省工业平均完全用水系数达到 $5 8 0 . 6 \\mathrm { m } ^ { 3 } / \\$ 万元,远高于其他产业。这表明河北省在产业结构上侧重于工业，一方面需要加强工业用水效率的提升,同时应注意对这些耗水效率低的工业部门的整顿升级。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "京津冀三地农业、水供应业、河北矿业及电气供应业的直接用水系数均较大于间接用水系数。若提高该部门直接用水效率(如制定合理的灌溉制度、选择耐旱植物种,降低冷却水用量等),可有效减少水资源消耗量。此外对于间接用水系数大于直接用水系数的部门,其需要大量其他部门产品,尤其以农业的水密集型产品作为投入。在进行节水政策制定时,若仅考虑直接用水,则这些直接用水虽小而间接用水大的部门易被忽略。因此对这些部门来说,需从经济活动的整个生产周期角度考虑节水,才能达到全面节水的目的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（从部门生产带动京津冀所有部门水资源消耗增减的角度分析,部门之间经济联系越少,间接消耗的环节即会越少,拉动系数将越接近于1,反之若联系越密切拉动系数即会越大。从图2和表3中可以看出,三地制造业、建筑业及服务与交通业的平均拉动系数明显高于其他部门,即该3个部门直接与完全用水量间的差距较大这表明这些部门的生产过程中间接消耗的原材料及中间产品里存在对水资源依赖性较高的产品,意味着以上3个部门单位产出的增加将较大程度带动其他部门水资源消耗。此外京津冀三地农业、矿业和水供应业的拉动系数均较接近1。原因在于一方面其直接耗水量大，同时其本身作为其他部门的原材料供给源,需要的原料投入量不大,间接用水量较小,直接和完全用水量差别不大,故而拉动系数接近1。同一地区各部门拉动系数之间的差异主要是由投入原材料及产品生产工艺流程的不同所导致的,而同一部门不同区域拉动系数的不同则主要源于当地与中间投入的生产地用水效率的相对差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bd9ddbbc49aeff5959c5325ef2ccaaee8bd3ac5658ab373ce7915583d443cc7.jpg",
+        "img_caption": [
+            "部门 Sectors",
+            "图2京津冀各部门消耗虚拟水量、生产实际用水量及拉动系数"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Thesectoral virtual waterconsumption，actual waterconsumptionand drivingcoefficients in Jing-Jin-Jiregion ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7677119220289499b971f04fa9ce1a7395e802eaa86c8322ea9a9f5da48ee3ea.jpg",
+        "table_caption": [
+            "表3京津冀各部门拉动系数计算结果",
+            "Table 3The results of driving coefficients at sector level in Jing-Jin-Ji region "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地区 Regions</td><td>农业 Agriculture</td><td>矿业 Mining</td><td>电气供应业 制造业 Manufacturing Eletitr and</td><td>水供应业 Water supply</td><td>建筑业 Construction</td><td>服务与交通业 Servicesand</td></tr><tr><td>北京市</td><td>1.03</td><td>1.19</td><td>73.04 4.02</td><td>1.03</td><td>25.99</td><td>67.16</td></tr><tr><td>天津市</td><td>1.03</td><td>3.03</td><td>130.10</td><td>1.02</td><td>20.59</td><td>21.20</td></tr><tr><td>河北省</td><td>1.20</td><td>2.42</td><td>73.70</td><td>1.01</td><td>16.67</td><td>17.76</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2京津冀地区部门进出口贸易分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为识别京津冀各省市虚拟水贸易中的重点部门,现对各部门虚拟水进出口情况作对比分析。由计算结果可以看出,京津冀地区虚拟水出口量较进口量大 $4 . 0 3 \\times 1 0 ^ { 9 } \\mathrm { m } ^ { 3 }$ ,属于虚拟水净出口区。Wang 等[33]基于单区域投入产出分析得到北京为虚拟水净进口的城市,而运用多区域投入产出分析同样印证了这一结果。此外,本文分析得出2012年北京净进口虚拟水量为 $1 . 2 3 \\times 1 0 ^ { 9 } \\mathrm { m } ^ { 3 }$ ,天津净进口虚拟水 $2 . 9 8 \\times 1 0 ^ { 9 } \\mathrm { m } ^ { 3 }$ ,但河北净出口虚拟水量达到 $8 . 2 6 \\times 1 0 ^ { 9 } \\mathrm { m } ^ { 3 }$ ,远大于北京和天津的净进口量,因此京津冀整体呈现为虚拟水净出口区。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图3反映了京津冀地区进出口总量情况。从图中可以看出,主要进行虚拟水外部交易的部门包括北京的制造业、服务与交通业、天津的制造业、河北的农业和制造业,这些部门在整个地区的水资源消耗系统中扮演着重要的角色。其中净出口部门主要为北京服务与交通业,河北的农业和制造业,分别占京津冀地区净出口总量的 $1 6 \\%$ $6 2 \\%$ 和 $1 7 \\%$ ,意味着这些部门在该地区的水资源消耗系统中扮演生产者的角色。净进口主要部门包括北京的农业和天津的制造业,分别占京津冀地区净进口总量的 $4 2 \\%$ 和 $3 7 \\%$ ,是该地区水资源消耗系统中的重要消费者。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同部门进出口所占比例结果显示制造业和服务与交通业进、出口总量均较大。从制造业看北京以进口虚拟水为主而河北以出口为主,天津则表现为两者相当,可见河北省在制造业生产产品的过程中投入了大量虚拟水并向外转移,这种差别与当地产业结构、政策倾向有关。除此以外,为避免制造业和服务与交通业总量过大导致量小的部门在图中不易识别的问题,现忽略以上两个部门,重点分析其他部门的占比情况。由图4可以看出在虚拟水贸易中,除未列出的制造业、服务与交通业外,北京 天津均以建筑业出口最多,其次为农业和矿业;河北农业出口最多,其次为建筑业和矿业。同时北京的建筑业和农业、天津的电气供应业和农业以及河北的农业和电气供应业在生产过程中输入了较多的虚拟水,为相应地区的虚拟水进口重点部门。根据虚拟水的进出口情况,可以识别需要减少水资源消耗的重点部门,分析不同部门减少水资源消耗的潜力,其中虚拟水进口量大的部门具有较高的减少水资源消耗的潜力。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cf0f5d0d6b7f53a64fe04f65acf41b704ebe730c8365e5d320b046b17aa1c94.jpg",
+        "img_caption": [
+            "Fig.3Virtual water import and export volume at sector level in Jing-Jin-Ji region "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/841c284250e95fc9115c80f21730e3e682193f32ce431f2c5e0902f5f35e3090.jpg",
+        "img_caption": [
+            "图3京津冀各部门进虚拟水进出口量",
+            "图4京津冀当地各部门虚拟水进(出)口比值",
+            "Fig.4Proportions of import(export）of total virtual water consumptionat sector level in Jing-Jin-Ji region "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3京津冀地区间贸易流分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "部门的虚拟水流入与流出量可用以分析部门在整个京津冀地区水资源系统中所扮演的角色。同时对虚拟水流通关键路径的识别是合理调配水资源的重要步骤。图5展示了区域间的虚拟水流动关系,图中内圈最宽圆带的颜色代表对应最外圈文字标明的部门,由这部门圆带向外辐射的流表示该部门输出给其他部门的",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "流,即虚拟水流动去向。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从图中流动情况可以看出,河北省农业部门输出了大量虚拟水以供给其他部门的生产。这表明河北省农业为三地区各部门生产提供了大量的虚拟水支持,其主要供给对象为河北本省的制造业及建筑业,同时对北京、天津各部门也均有输出。在北京市、天津市各部门中,虚拟水进口自河北农业占比较大的部门（来自河北农业的虚拟水量占总进口量比值超过 $5 0 \\%$ )包括北京矿业、制造业、电气供应业和建筑业,天津的制造业和建筑业,可见这些部门对河北农业部门的依赖程度较大。同时河北省的矿业向河北省的建筑业和制造业输出了较多虚拟水（超过目的部门流入流出的 $5 \\%$ ),而河北的制造业向河北的建筑业有较多的虚拟水输出(约占目的部门流入流出总量的 $10 \\%$ ),在调控时需重点关注。此外,就部门虚拟水的输出情况而言,北京农业、水供应业和服务与交通业,天津农业、水供应业和电气供应业,河北农业、矿业和制造业,这些部门输出量与本地其余部门的输出量相比较大且“去向部门\"多元,是虚拟水贸易输出活跃的部门;另一方面,就虚拟水流入情况而言,京津冀三地的制造业、建筑业和服务与交通业均表现流入量较高且“来源部门\"多元的特点,这表明这些部门作为产业链末端的部门,在生产过程中进口了大量来自其他部门的原材料,即中间投入量大且来源广泛。从输入输出这两方面识别的虚拟水贸易活跃部门在调控时需重点关注。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "河北通过向北京、天津提供能源、农产品,并以此为媒介将虚拟水输入至北京、天津的各部门。河北向北京、天津水资源输出总量较大,占北京、天津的水资源消耗的比例较大,为北京、天津的发展提供了大量的水资源支撑。此外,北京、天津的农业部门分别向当地制造业输送了大量虚拟水。这些虚拟水的流通路径是判断部门间的水资源关联关系的重要依据。三地区部门间的虚拟水流动情况对于指导如何调配三地区水资源具有重要意义。 > 冏",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论与建议",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "虚拟水的核算结果反映了水资源在城市系统中经济各部门及地区间的配置关系与配置量,因此可以为识别减少水资源消耗的路径提供新思路。本文探索了京津冀地区不同部门水资源直接和间接消费状况,以及三地间、部门间虚拟水流动情况。结合京津冀各自的水资源分布状况,可进一步分析三地各部门的水资源贸易的合理性。京津冀地区虚拟水流动情况反映了区域水资源在三地部门内部、相互之间以及与区域外部配置状态,可以从水资源消耗的视角为产业政策 贸易政策调整提供依据,进而为虚拟水战略引入该地区水资源配置管理中提供支撑。本文基于多区域投入产出模型对京津冀地区虚拟水贸易及消费做了核算分析,得出结论与建议如下： A",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1)从部门用水的角度来看,直接用水系数较大的部门依次为农业、矿业和水供应业,完全用水系数较大的依次有农业、水供应业和制造业。同时,从直接和间接用水的差异可以分析不同部门的生产活动的用水特征差异。比如制造业在生产过程中虽然直接水消耗不大,但由于有制造原材料等的加入使得间接用水增加，使得虚拟水总的消耗量很大,应重点考虑减少其间接水消耗而非直接水消耗。对不同部门的间接与直接消耗的差异分析,为不同部门节水的措施差异提供理论依据。另外制造业、建筑业和服务与交通业平均拉动系数较大,对这些部门的直接和间接水消耗的调控都将对整个地区的水资源消耗总量增减起到较大的间接效应。(2)北京、天津和河北分别为虚拟水净进口、净进口和净出口区,京津冀地区整体为虚拟水净出口区。这表明北京和天津的产业结构对于减缓其水资源压力比较有利,但河北的产业结构会对加重其水资源压力,京津冀地区整体的产业结构也呈现出加剧该地区水资源压力的特征。鉴于河北总的水资源消耗量较大，且有大量的虚拟水出口,该地区应调整其产业结构,减少其水资源消耗,使其由虚拟水出口地区逐渐转型为进口地区。此外虚拟水净进口主要部门包括北京的农业和天津的制造业,净出口部门主要有北京的服务与交通业，河北的农业和制造业。为减少虚拟水出口,制造业和服务业应致力于调整产业结构使其向节水型产业的方向发展。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3)京津冀区域、部门之间存在一定联系,但主要的虚拟水流动发生在同一地区不同部门间。三地虚拟水流动中,河北农业作为重点耗水部门,向京津冀地区各部门输送了大量虚拟水,为各部门经济生产活动提供了强大的水资源支撑作用。因此为保障京津冀地区整体的水安全及其可持续发展,河北地区农业部门亟需关注其节水问题。河北地区的虚拟水进出口特征的转型及其农业部门的节水,是减少河北乃至整个京津冀地区的水资源消耗,推进该地区向虚拟水进口地区转型的关键。北京农业、水供应业和服务与交通业,天津农业、水供应业和电气供应业,河北农业、矿业和制造业,这些部门输出量与本地其余部门相比较大且“去向部门\"多元,是输出虚拟水活跃的部门;京津冀三地的制造业、建筑业和服务与交通业虚拟水输入量与本地其余部门相比均表现较高且“来源部门\"多元,是虚拟水输入活跃的部门。从这两方面识别的部门在制定调控政策时需重点关注。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca4e0123a96eb7141deed8046a7843b3ec9ed9fae3217baea0d7a11b80d2dae9.jpg",
+        "img_caption": [
+            "图5京津冀各部门间虚拟水流动分布图 ${ } ^ { \\prime } 1 0 ^ { 4 } \\mathrm { m } ^ { 3 }$ ",
+            "Fig.5Virtual water flows among sectors in Jing-Jin-Ji region "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "综上,为保障京津冀地区的水资源安全,河北应重视调整其产业结构,减少其水资源直接和间接消耗,其中河北的农业和制造业是减少水资源消耗的重点部门,应促进其向节水型产业的方向发展。根据直接和间接用水的特征差异分析,应重点考虑减少制造业间接水消耗。这是由于制造业在生产过程中有原材料等的投入,使得间接用水和虚拟水消耗总量增加。根据对不同部门的拉动系数分析,我们发现制造业、建筑业和服务与交通业平均拉动系数较大,因此这3个部门单位产出的提高将对整个地区水资源消耗量的带动作用比较大,其直接和间接水消耗的减少都对于缓解地区水压力都具有重要意义,应当成为节水措施实施的重点部门。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] Oki T,Kanae S.Global hydrological cyclesand world water resources.Science，2006,313(5790）:1068-1072.  \n[2] 贾绍凤，吕爱锋，韩雁，龙秋波，朱文彬，燕华云.中国水资源安全报告.北京：科学出版社，2014.  \n[3] FangD，ChenB.EologicalnetworkanalysisforavirtualwaternetorkEnvioentalSnce&echolog，15,49（）：6630  \n[4] AllnJA.Virtualwater：astrategicresourceglobal solutions toregional deficits.Ground Water，1998,36(4）：545-546.  \n[5] 钟华平，耿雷华.虚拟水与水安全.中国水利，2004(5）：22-23.  \n[6] 程国栋.虚拟水——中国水资源安全战略的新思路.中国科学院院刊，2003，18(4)：260-265.  \n[7] BaoC,FangCLWateresouefloseaedtoubanatioininahalengsdpesptiesfoateraagetandubndetWater Resources Management，2012，26(2):531-552.  \n[8] 中华人民共和国国家统计局.中国统计年鉴-2012.北京：中国统计出版社，2012.  \n[9] 中华人民共和国水利部.中国水资源公报-2012.北京：中国水利水电出版社，2013.  \n[0]ZimmerD，enaultD.VirtualwaterinfodproductiondgobalradereviewofetodologicalisusdpreliinaresulsDelf,eNetherlands：IHE,2002  \n[11]HoestraAY，HungPQ.Virtualwatertrade：aquantficationofvirtualwaterflowetweennatiosinelationtooptradeDelf,eNetherlands：IHE,2002.  \n[12]CapagiKekstaAYalwatereantiftioofvalwaterfloeteatiosinelatioeaoradflivestockandlivestockproductsDelfttheNethelands：E，O./HoekstraAYVirtualWaterTrade：ProcedingsofteIteaonalExpert Meeting on Virtual Water Trade.International Expert Meeting on Virtual Water Trade,2O03,12(12），1-244.  \n[13］刘秀丽，陈锡康.投入产出分析在我国九大流域水资源影子价格计算中的应用.管理评论，2003，15（1)：49-53.  \n[14] 王艳阳，王会肖，张昕.基于投人产出表的中国水足迹走势分析.生态学报，2013，33（11)：3488-3498.  \n[15] 黄晓荣，裴源生，梁川.宁夏虚拟水贸易计算的投入产出方法.水科学进展，2005，16(4)：564-568.  \n[16] 赵旭，杨志峰，陈彬.基于投入产出分析技术的中国虚拟水贸易及消费研究.自然资源学报，2009(2)：286-294.  \n[17] 蔡振华，沈来新，刘俊国,等.基于投入产出方法的甘肃省水足迹及虚拟水贸易研究.生态学报，2012，32（20)：6481-6488.  \n[18] WangSG，ChenBnerwaterexusofurbnaglomerationasedultiregioaliputoutputtablesandcologicaletorkalyiscase study of the Beijing-Tianjin-Hebei region. Applied Energy,2016,178: 773-783.  \n[19] Duan CC,Chen B.Virtual water embodied in international energy trade of China.Energy Procedia,2O16,88：94-99.  \n[20] 王雪妮.基于区域间投入产出模型的中国虚拟水贸易格局及趋势研究.管理评论，2014，26(7)：46-54.  \n[21] GuanDB,HubacekKAssmentfregioaltradeanditalwaterflowsininaEcologicalEcoomics,O,61（）：59-170.  \n[22] 和夏冰，张宏伟，王媛，马水英.基于投入产出法的中国虚拟水国际贸易分析.环境科学与管理,2011,36（3）：7-10  \n[23]ZhangdoDultoapuualsesicialaterdeprovalateftliclEconomics, 2014,100:159-172.  \n[24]ZhangB,ChenZZengL，Qiao,henBDemand-drivenwaterithdraalsbyineseidustryuli-regioaliputoutputals.Frontiers of Earth Science,2016,10(1）: 13-28.  \n[25]GuoS,SenGQMultiegioaliptotputmodelfCina'sfarlnddwateruse.EnviroentalSience&Techolog，，49（）:403-414.  \n[26] ZhangZYYangJlsfetiteoalutooalo(12) : 2494-2502.  \n[27] 张小霞，马忠.基于区域间投入——产出模型的新疆虚拟水流向研究.资源开发与市场，2015,31(9)：1069-1072.  \n[28] 国家统计局国民经济核算司.中国2012年投入产出表编制方法.北京：中国统计出版社，2014.  \n[29] Wang SG,CaoT,Chen B.Urban energy-water nexus basedonmodified input-output analysis.ApliedEnergy，2O17,196:208-217.  \n[30] IsardWInteioaldalipuuutalsisodelofsaceoeviofooicsndatistis（4)：318-328.  \n[31] 王红瑞，王岩，吴崎山，王正平.北京市用水结构现状分析与对策研究.环境科学，1995，16(2)：31-34，72-72.  \n[32] 王维平，戚红，李晖.宏观经济水资源投入产出分析模型.水利经济，1995，（2)：58-65.  \n33]WangZaKnguuaeedaeflof Cleaner Production，2013,42：172-179.",
+        "page_idx": 11
+    }
+]

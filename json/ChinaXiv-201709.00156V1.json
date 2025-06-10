@@ -1,0 +1,434 @@
+[
+    {
+        "type": "text",
+        "text": "Reconstructing the interaction between dark energy and dark matter using Gaussian processes ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tao Yang $^ { 1 }$ ,\\* Zong-Kuan Guo $^ { 1 }$ ,† and Rong-Gen Cai $^ { 1 }$ + $^ { 1 }$ State Key Laboratory of Theoretical Physics， Institute of Theoretical Physics, Chinese Academy of Sciences，P.O.Box 2735，Beijing 100190，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We present a nonparametric approach to reconstruct the interaction between dark energy and dark matter directly from SNIa Union 2.1 data using Gaussian processes,which is a fully Bayesian approach for smoothing data.In this method,once the equation of state( $w$ ）of dark energy is specified,the interaction can be reconstructed as a function of redshift.For the decaying vacuum energy case with $w = - 1$ ，the reconstructed interaction is consistent with the standard $\\Lambda$ CDM model,namely,there is no evidence for the interaction.This also holds for the constant $w$ cases from $- 0 . 9$ to $- 1 . 1$ and for the Chevalier-Polarski-Linder(CPL） parametrization case.If the equation of state deviates obviously from $- 1$ ,the reconstructed interaction exists at $9 5 \\%$ confidence level. This shows the degeneracy between the interaction and the equation of state of dark energy when they get constraints from the observational data. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 95.36.+x, 98.80.-k, 98.80.Es ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It has been more than fifteen years since the universe was found in accelerating expansion[1,2].However,it is fair to say that its origin is still not yet clear.A possible explanation of this cosmic acceleration is provided by the introduction of a fluid with negative pressure called dark energy (DE). The simplest dark energy candidate is the cosmological constant $\\Lambda$ with the equation of state $w = - 1$ . The tiny cosmological constant together with the cold dark matter (CDM) (called the ACDM model) turned out to be the standard model which fits the current observational data sets consistently.In spite of this success,however,it is faced with the fine-tuning problem [3] and the coincidence problem.The former arises from the fact that the present-time observed value for the vacuum energy density is more than 12O orders of magnitude smaller than the naive estimate from quantum field theory. The later is the question why we live in such a special moment that the densities of dark energy anddark matter are of the same order. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Many attempts have been made to tackle those issues, including introducing“dynamical” dark energy or modifying general relativity at the cosmic scales. In particular,to alleviate the coincidence problem,an interaction between dark energy and dark matter has been considered extensively in the literature, for example,in [4-17] and references therein.However,usually the interaction form has to be assumed. The assumed form will lead to a bias when observational data are used to give the constraint on the interaction.In [11] the authors investigated the possible interaction in a way independent of specific interacting forms by dividing the whole range of redshift into a few bins and setting the interacting term to bea constant in each redshift bin.It was found that the interaction is likely to cross the noninteracting line and has an oscillation behavior.Recently, Salvatelli et al. [15] showed that the null interaction is excluded at 99% confidence level (C.L.）when they added the redshift-space distortions (RSD) data to the Planck data for the decaying vacuum energy model (a class of interaction of dark sectors).They parametrized the interaction term to be of the form $q H \\rho$ and also subdivided the redshift into four bins with $q ( z ) = q _ { i } ( i = 1 , \\dots , 4 )$ . More recently, the authors of Ref.[18] have reconstructed the temporal evolution of the coupling strength between dark matter and vacuum energy, $\\alpha ( a )$ in a nonparametric Bayesian ap proach using the combined observational data sets from the cosmic microwave background radiation,supernovae and large scale structure.It was found that an evolving interaction can remove some of the tensions between different types of data sets,and is favored at $\\sim 9 5 \\%$ C.L. if the baryon acoustic oscillations measurements of the BOSS Lyman- $\\alpha$ forest sample are included.Thus,it is quite interesting to see whether there exists some signatureof the interaction from the observational data in a model-independent way. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper we present a nonparametric approach to reconstruct the interaction term between dark energy and dark matter directly from the observational data using Gaussian processes (GP).GP is a model independent method to smooth the data. We set the nonparameterized interaction term $Q ( z )$ as a function of redshift and reconstruct it from SNIa Union 2.1 data sets.We will consider three cases, the decaying vacuum energy case with $w ~ = ~ - 1$ ，the $w$ CDM model and the ChevallierPolarski-Linder (CPL） parametrization of dark energy, respectively,and pay special attention to the first case as discussed in [15]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In Sec.II we give the interacting models of dark energy and dark matter in a flat universe.In Sec.III,we briefly introduce the ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gaussian processes method and create a mock data set to demonstrate the reliability of the GP reconstruction method. Then we apply it to the real data Union 2.1 in the decaying vacuum energy case,followed by different values of $w$ for comparison and the CPL case. We give some discussions and make conclusions in Sec.IV. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. THE MODEL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In a flat universe with an interaction between dark energy and dark matter, the Friedmann equation describing the evolution of the universe is given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ^ { 2 } = \\frac { 8 \\pi G } { 3 } ( \\rho _ { m } + \\rho _ { D E } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\rho _ { m }$ denotes the energy density of dark matter and （204号 $\\rho _ { D E }$ the energy density of dark energy. However,the conservation equations are changed to be ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\rho } _ { m } + 3 H \\rho _ { m } = - Q ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The luminosity distances at redshift $z$ can be expressed as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { L } ( z ) = \\frac { c ( 1 + z ) } { H _ { 0 } } \\int _ { 0 } ^ { z } d z ^ { * } \\frac { H _ { 0 } } { H ( z ^ { * } ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Writing $D ( z ) = ( H _ { 0 } / c ) ( 1 + z ) ^ { - 1 } d _ { L } ( z )$ as the normalized comoving distance,we can arrive at ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { - w q = 2 \\left( \\displaystyle \\frac { 3 D ^ { \\prime \\prime 2 } } { D ^ { \\prime 5 } } - \\displaystyle \\frac { D ^ { \\prime \\prime \\prime } } { D ^ { \\prime 4 } } + \\displaystyle \\frac { w ^ { \\prime } D ^ { \\prime \\prime } } { w D ^ { \\prime 4 } } \\right) ( 1 + z ) ^ { 2 } } } \\\\ { { + \\left[ 2 ( 5 + 3 w ) \\displaystyle \\frac { D ^ { \\prime \\prime } } { D ^ { \\prime 4 } } + \\displaystyle \\frac { 3 w ^ { \\prime } } { w D ^ { \\prime 3 } } \\right] ( 1 + z ) } } \\\\ { { + \\displaystyle \\frac { 9 ( 1 + w ) } { D ^ { \\prime 3 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "From this,we see that using the observed distanceredshift relationship $D ( z )$ ，one can reconstruct the interaction,once the equation of state $w$ of dark energy is given. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\rho } _ { D E } + 3 H ( 1 + w ) \\rho _ { D E } = Q ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $w$ is the equation of state of DE, $H$ is the expansion rate of the universe,and $Q$ describes the interaction between dark matter and dark energy. When $Q = 0$ and $w = - 1$ ,it recovers the standard $\\Lambda$ CDM model. Unlike most of the ways to parametrize the interaction term $Q$ using such a form $q H \\rho$ [5,15], here we use $Q ( z )$ itself and want to reconstruct it directly from data using a modelindependent method.As assumed in [15], the 4-vector $Q ^ { \\nu }$ is proportional to the 4-velocity of dark matter.Hence the perturbation of the interaction is not considered in this paper. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Combining the Friedmann equation and the conservation equations ( $8 \\pi G = 1$ throughout the paper),we can obtain ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { - w Q \\ = 2 \\left( H H ^ { \\prime 2 } + H ^ { 2 } H ^ { \\prime \\prime } - \\displaystyle \\frac { w ^ { \\prime } } { w } H ^ { 2 } H ^ { \\prime } \\right) ( 1 + z ) ^ { 2 } } } \\\\ { { - \\left[ 2 ( 5 + 3 w ) H ^ { 2 } H ^ { \\prime } - \\displaystyle \\frac { 3 H ^ { 3 } w ^ { \\prime } } { w } \\right] ( 1 + z ) } } \\\\ { { + 9 ( 1 + w ) H ^ { 3 } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the prime denotes the derivative with respect to redshift $z$ .Note that here we also assume $w$ is time dependent.For convenience,we use a dimensionless $q$ to characterize the interaction, i.e., $Q \\ : = \\ : q H _ { 0 } ^ { 3 }$ .Note that here $q$ is not the usual deceleration.In this case,we have ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle - w q H _ { 0 } ^ { 3 } \\ = 2 \\left( H H ^ { \\prime 2 } + H ^ { 2 } H ^ { \\prime \\prime } - \\frac { w ^ { \\prime } } { w } H ^ { 2 } H ^ { \\prime } \\right) ( 1 + z ) ^ { 2 } } } \\\\ { { ~ } } \\\\ { { - \\left[ 2 ( 5 + 3 w ) H ^ { 2 } H ^ { \\prime } - \\frac { 3 H ^ { 3 } w ^ { \\prime } } { w } \\right] ( 1 + z ) } } \\\\ { { ~ } } \\\\ { { + 9 ( 1 + w ) H ^ { 3 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "III. RECONSTRUCTIONMETHOD ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to reconstruct the interaction using current data sets,we should find a model-independent method to reconstruct $D ( z )$ and its derivatives.While there are several methods such as principle component analysis [19-21]，Gaussian smoothing [22,23] and Gaussian processes [24-27], in this paper we will reconstruct $D ( z )$ and its derivatives more precisely by using the GP method. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A．Gaussian processes ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Gaussian processes allows one to reconstruct a function from data without assuming a parametrization for it.We use Gaussian processes in Python (GaPP) [27] to derive our GP results. This GP code has been applied in many papers [27-33]. The distribution over functions provided by GP is suitable to describe the observed data. At each point $z$ ，the reconstructed function $f ( z )$ is also a Gaussian distribution with a mean value and Gaussian error.The functions at different points $z$ and $\\ddot { z }$ are related by a covariance function $k ( z , \\tilde { z } )$ ，which only depends on a set of hyperparameters $\\ell$ and . Here $\\ell$ gives $\\sigma _ { f }$ a measure of the coherence length of the correlation in $x$ -direction and $\\sigma _ { f }$ denotes the overall amplitude of the correlation in the $y$ -direction.Both of them will be optimized by GP with the observed data set.In contrast to actual parameters,GP does not specify the form of the reconstructed function.Instead it characterizes the typical changes of the function. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The different choices of the covariance function may affect the reconstruction to some extent.The covariance function is usually adopted as the squared exponential ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "form [27] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk ( z , \\tilde { z } ) = { \\sigma _ { f } } ^ { 2 } \\exp \\Big ( - \\frac { ( z - \\tilde { z } ) } { 2 \\ell ^ { 2 } } \\Big ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "But it is not always the suitable choice.Here we take the Matérn ( $\\nu = 9 / 2$ ） covariance function ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { k ( z , \\tilde { z } ) = { \\sigma _ { f } } ^ { 2 } \\exp { ( - \\frac { 3 | z - \\tilde { z } | } { \\ell } ) } } } \\\\ & { } & \\\\ & { } & { \\qquad \\times [ 1 + \\frac { 3 | z - \\tilde { z } | } { \\ell } + \\frac { 2 7 ( z - \\tilde { z } ) ^ { 2 } } { 7 \\ell ^ { 2 } }  } \\\\ & { } & { \\qquad + \\frac { 1 8 | z - \\tilde { z } | ^ { 3 } } { 7 \\ell ^ { 3 } } + \\frac { 2 7 ( z - \\tilde { z } ) ^ { 4 } } { 3 5 \\ell ^ { 4 } } ] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "according to the analysis made in [29],where they consider various assumed models and many realizations of mock data sets fora test and conclude that the Matérn （ $\\nu = 9 / 2$ ） covariance function can lead to more reliable results than all others when applying GP to reconstructions using $D$ measurements. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Following Refs.[27,3O],in which the detailed technical description of GP can be found,we reconstruct the interaction between dark energy and dark matter using the SNIa Union 2.1 data set [34].Before that we will first show the reliability of the GP method. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "B.Mock data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To demonstrate the ability of the GP method to distinguish different models and recover the correct behaviors of the models,we create mock data sets of future SNIa according to the Dark Energy Survey(DES) [35] for two fiducial models: the standard $\\Lambda$ CDM model and a toy de caying vacuum model: $\\rho _ { D E } = 3 \\alpha H$ with $w = - 1$ .Here we set $\\Omega _ { m 0 } = 0 . 3$ for both. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the $\\Lambda$ CDM model, it is straightforward to calculate the Hubble parameter $H / H _ { 0 }$ and then obtain the simulated data of $D ( z )$ easily. Because there is no interaction,we just want to check whether the reconstruction with this simulated data can recover $q = 0$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As for the decaying vacuum model, on the one hand we should calculate the Hubble parameter and on the other hand,we must get $q ( z )$ for this fiducial model. The Hubble parameter is simply $H / H _ { 0 } = 1 - \\Omega _ { m 0 } + \\Omega _ { m 0 } ( 1 + z ) ^ { 3 / 2 }$ The fiducial interaction is $q H _ { 0 } \\ L ^ { 3 } \\ = \\ - 3 ( 1 \\ - \\ \\Omega _ { m 0 } ) ( 1 \\ +$ $z ) H ^ { \\prime } H$ . The rest of the task is to reconstruct $q ( z )$ from the Hubble parameter,and then test how well the reconstructed $q ( z )$ agrees with the fiducial one. If the GP method can recover both of the fiducial models and has theability to distinguish them,we can demonstrate that GP is a valid method in the reconstruction for our propose.In the following we will create the mock data sets. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The DES is expected to obtain high quality light curves for about 400O SNe Ia from $z = 0 . 0 5$ to $z = 1 . 2$ in the next five years. From Table 14 in [35] we can calculate the errors of $D$ ： $\\textit { O D }$ and the corresponding num bers of SNe Ia for each redshift bin. At every redshift point $z$ ， $D ( z ) _ { s i m }$ is sampled from the normal distribution $D ( z ) _ { s i m } \\sim N ( D ( z ) _ { f i d } , \\sigma _ { D } )$ where $D ( z ) _ { s i m }$ is the simulated data of $D ( z )$ and $D ( z ) _ { f i d }$ is the theoretical value from the fiducial model. Thus we create the mock data sets for these two fiducial model. For each of them we reconstruct $D ( z )$ and its derivatives and then apply to the reconstruction of the interaction term $q ( z )$ .Note that each of the reconstructed $D ( z )$ and its derivatives at every redshift point is a distribution with a mean value and the error regions.However, $D ( z )$ and its derivatives are not independent but correlated by a covariance between them.Using the reconstructed $D ( z )$ and its derivatives also the covariance matrix between them,we can apply Monte Carlo sampling to determine the $q ( z )$ in Eq. (7) for a given $w$ at each point $z$ which we want to reconstruct.The detailed description of the covariance matrix can also be found in [27]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We can see from Fig.1 that the $D ( z )$ and its derivatives are reconstructed very well from the mock data sets assuming the $\\Lambda$ CDM model.The dashed blue line is the mean of the reconstruction and the shaded blue regions are the 68% and 95% C.L.of the reconstruction. The er rors for higher derivative of $D ( z )$ are a litter larger than the lower ones. As expected,at higher redshifts the errors become large due to the poor quality data in that region. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since our reconstruction involves $D ^ { \\prime \\prime \\prime } ( z )$ whose errors are even lager in the higher redshift,and will definitely lead to somehow uncontrollable large errors in high redshift regions when apply it to the Monte Carlo sampling in Eq.(7).For a better show,we introduce a prefactor $( 1 + z ) ^ { - n }$ to $q ( z )$ ,that is, $\\tilde { q } ( z ) = q ( z ) ( 1 + z ) ^ { - n }$ . The choice of $n$ is somehow arbitrary,we take $n = 6$ here.The motivation to introduce the prefactor is comprehensible: we just focus on the interaction in the low and medium redshift range because the quality of observed data in the higher redshift range is so poor that it gives a weak constraint on the reconstructed interaction. Such a prefactor is just considered as a scale transformation with respect to redshift,which does not influence the reconstruction of $q ( z )$ in the low and medium redshift ranges significantly and provides a better show in the higher redshift range.Moreover,our aim is to examine the evidence of the interaction, namely,we are testing the equality of the quantity with zero.As a consequence,we are free to do this without loss of generality like what Ref. [30] has done for the null test of the $\\Lambda$ CDM model. In the rest of this paper,we use $\\tilde { q }$ as our interaction term to test the interaction and we mainly focus on the low and medium redshift ranges because of the poor quality of the observed data in high redshift ranges which will not give a good constraint for the interaction term. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows that the reconstructed interaction $\\tilde { q } ( z )$ is consistent with the fiducial $\\Lambda$ CDM model nicely, falling in the $1 \\sigma$ limit.The reconstruction in the redshift range from O to O.6 isbetter than that in the high redshift where the error is large.Further,we see from Figs 3 and 4 that the reconstructions of the decaying vacuum model also recover the fiducial model very well,and obviously deviate from the $\\Lambda$ CDM model. This shows that the Gaussian processes can capture both the two models very well and correctly distinguish between them. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d42dbdc6550e369ae41c1be28fd80042fc30c62d97d64726a8b759da949beac.jpg",
+        "img_caption": [
+            "FIG.1: Gaussian processes reconstruction of $D ( z )$ ， $D ^ { \\prime } ( z )$ (top)，and $D ^ { \\prime \\prime } ( z )$ ， $D ^ { \\prime \\prime \\prime } ( z )$ (bottom) obtained from a mock data set of future DES and assuming the ACDM model with $\\Omega _ { m 0 } = 0 . 3$ (red line).The dashed blue line is the mean of the reconstruction and the shaded blue regions are the $6 8 \\%$ and $9 5 \\%$ C.L.of the reconstruction,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9d773c70d7715362ae78c3e9f70fb1eacc3c2e6275f44d3e140f271e0ae08f7.jpg",
+        "img_caption": [
+            "FIG. 2: Reconstruction of $\\tilde { q } ( z )$ (dashed line) from the mock data set of future DES and assuming the ACDM model with （204号 $\\Omega _ { m 0 } = 0 . 3$ . The shaded blue regions are the $6 8 \\%$ and $9 5 \\%$ C.L.of the reconstruction. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C. Reconstruction using Union 2.1 data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We now apply the GP method to the real data,Union 2.1 data sets [34],which contains 58O SNeIa data.Let us ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "consider ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm - M + 5 \\log \\left[ \\frac { H _ { 0 } } c \\right] - 2 5 = 5 \\log \\left[ ( 1 + z ) D \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with $H _ { 0 } = 7 0 \\ \\mathrm { k m / ( s \\ M p c ) }$ ， following [34]. Actually our results are not sensitive to the values of $H _ { 0 }$ .The values of $D$ depend on both $H _ { 0 }$ and the absolute magnitude $M$ ： We can fix the $H _ { 0 }$ and only consider the uncertainties in $M$ as adopted in Ref. [30]. We transform the distance modulus $m - M$ given in the data set to $D$ and set the theoretical initial conditions $D ( z = 0 ) = 0$ and $D ^ { \\prime } ( z =$ $0 ) = 1$ . First, let us consider the decaying vacuum energy case with $w = - 1$ [15]. Figure 5 shows the reconstructed $D ( z )$ and its derivatives from Union 2.1 data. The error is a little larger than that for the reconstruction of the DES survey due to the smaller number of SNe Ia and larger measurement errors. The reconstruction of the interaction $\\tilde { q } ( z )$ is shown in Fig.6.We see that both the distance $D ( z )$ and interaction $\\tilde { q } ( z )$ are consistent with the $\\Lambda$ CDM model,which implies that there is no evidence for the existence of the interaction. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7daba56e82b01ed7e7bc90a40daeac94dd2aa79676de9471b79e24a2f734f3bd.jpg",
+        "img_caption": [
+            "FIG. 3: Gaussian processes reconstruction of $D ( z )$ ， $D ^ { \\prime } ( z )$ (top),and $D ^ { \\prime \\prime } ( z )$ ， $D ^ { \\prime \\prime \\prime } ( z )$ (bottom) obtained from a mock data set of future DES and assuming a toy decaying vacuum model: $\\rho _ { D E } = 3 \\alpha H$ with $w = - 1$ and $\\Omega _ { m 0 } = 0 . 3$ (green line).The dashed blue line is the mean of the reconstructions and the shaded blue regions are the $6 8 \\%$ and $9 5 \\%$ C.L.of the reconstruction, respectively. The ACDM model is also shown (red dotted). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e76d9e567c5278dcb474ff5d9e2c8876d9bb22b8bef7b4c9edcb1cdc469a10c.jpg",
+        "img_caption": [
+            "FIG.4: Reconstruction of $\\tilde { q } ( z )$ from a mock data set of future DES and assuming a decaying-vacuum model: $\\rho _ { D E } = 3 \\alpha H$ with （204号 $w = - 1$ and $\\Omega _ { m 0 } = 0 . 3$ (green line).The shaded blue regions are the 68% and $9 5 \\%$ C.L.of the reconstruction．The ACDM model is also shown (red dotted). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We now change the equation of state $w$ to see how much the differences of $w$ will influence the output of our reconstruction.We consider the $w$ CDM model with $w ~ = ~ - 1 . 0 0 6 \\pm 0 . 0 4 5$ from the Planck 2015 [36]，the CPL parametrization $w ( a ) = w _ { 0 } + w _ { a } ( 1 - a )$ with $w _ { 0 } =$ $- 1 . 0 4 6 _ { - 0 . 1 7 0 } ^ { + 0 . 1 7 9 }$ and $w _ { a } = 0 . 1 4 _ { - 0 . 7 6 } ^ { + 0 . 6 0 }$ from HST Cluster Supernova Survey 2O11 [34] and other constant equation of state: $w = - 0 . 7$ ， $- 0 . 8$ ， $- 0 . 9$ ， $- 1 . 1$ ， $- 1 . 2$ and $- 1 . 3$ . respectively, for a comparison. All of the results are presented in Fig.7. Here we emphasize that we have considered the effects of the errors of $w$ on the reconstructed $\\tilde { q } ( z )$ in the cases of(d) and(e) in Fig. 7. Since the constant $w$ for the $w$ CDM model from Planck 2015 is very close to $- 1$ ,so the reconstruction is almost the same as the $w = - 1$ case.While for the CPL case,the error of the reconstruction is a little larger than those in other cases because of the poor constraints on $w _ { 0 }$ and $w _ { a }$ .We see that if $w$ lies between $- 0 . 9$ and $- 1 . 1$ ， $\\tilde { q } ( z ) = 0$ is captured within the $9 5 \\%$ confidence region of the reconstruction,while the interaction is shown up if the equation of state for dark energy deviates significantly from $- 1$ .This shows the fact that there is a degeneracy between the interaction and the equation of state of dark energy,as indicated in Eq.(7). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/57dabc976df561e8646f060138a31c5822d7b13587a35f495ecf1079949b534a.jpg",
+        "img_caption": [
+            "FIG. 5: Gaussian precesses reconstruction of $D ( z )$ ， $D ^ { \\prime } ( z )$ (top),and $D ^ { \\prime \\prime } ( z )$ ， $D ^ { \\prime \\prime \\prime } ( z )$ (bottom) obtained from Union 2.1 data sets The shaded blue regions are the $6 8 \\%$ and $9 5 \\%$ C.L.of the reconstruction. The ACDM model (red line） is also shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6e43140d738db61721bb9ced081a264db523748babb580233e1efdb0069716c.jpg",
+        "img_caption": [
+            "FIG.6:Reconstruction of $\\tilde { q } ( z )$ from Union 2.1 data sets.The shaded blue regions are the $6 8 \\%$ and $9 5 \\%$ C.L.of the reconstruction.The red line corresponds to the $\\Lambda$ CDM model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e2f95955dab2f12a2870ffddd7f66f11b25a1db7b00e0e43c2193f49aa38e75.jpg",
+        "img_caption": [
+            "FIG.7:Reconstructions of $\\tilde { q } ( z )$ for the $w \\mathrm { C D M }$ model and CPL parametrization.(a) $w = - 0 . 7$ ；(b) $w = - 0 . 8$ ；(c） $w = - 0 . 9$ ， 8 $w = - 1 . 0 0 6 \\pm 0 . 0 4 5$ from Planck 201 $w ( a ) = w _ { 0 } + w _ { a } ( 1 - a )$ with $w _ { 0 } = - 1 . 0 4 6 _ { - 0 . 1 7 0 } ^ { + 0 . 1 7 9 }$ and $w _ { a } = 0 . 1 4 _ { - 0 . 7 6 } ^ { + 0 . 6 0 }$ $w = - 1 . 1$ ，； (g） $w = - 1 . 2$ ； (h) $w = - 1 . 3$ ; The shaded blue regions are the $6 8 \\%$ and $9 5 \\%$ C.L.for the reconstruction. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IV. DISCUSSIONS AND CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We have presented an approach to reconstruct the interaction between dark energy and dark matter by using Gaussian processes. To check the reliability of the GP method,we create mock data for two fiducial models, one is the $\\Lambda$ CDM model which has no interaction between dark matter and dark energy, the other isa toy decaying vacuum energy model with $\\rho _ { D E } = 3 \\alpha H$ ，which is of the interaction.It shows that the reconstruction method by using the Gaussian process works well and can capture the features of these two models. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We then applied the method to the real data from Union 2.1 data sets and reconstructed the distance and its derivatives,and then the interaction.It was found that for the decaying vacuum energy model with $w =$ $- 1$ [15],there is no evidence for the existence of the interaction,namely, the $\\Lambda$ CDM model is consistent with the Union 2.1 data sets within $1 \\sigma$ limits. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To check the influence of the equation of state of dark energy on the method,we have also considered several constant values of $w$ from $- 0 . 7$ to $- 1 . 3$ .The results show that $\\tilde { q } = 0$ falls in 95% C.L.of the reconstruction if $w$ lies between $- 0 . 9$ and $- 1 . 1$ .The $w$ CDM model with $w = - 1 . 0 0 6 \\pm 0 . 0 4 5$ from Planck 2O15 falls in this range and $q = 0$ is within the $1 \\sigma$ limits.This also holds for the CPL parametrization case. However,as we can see from ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 7, if $w$ deviates obviously from $- 1$ ，the interaction exists beyond $2 \\sigma$ C.L.. This reflects the degeneracy between the interaction and the equation of state of dark energy. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note that in our reconstruction method,only the observational data on the expansion history of the universe can be used.For example,some measurements ofHubble parameter can also be combined into the above reconstruction. It is certainly of interest to develop a reconstruction method for the interaction between dark matter and dark energy,in which some kinetic data of the universe,for example,the growth factor of large scale structure,can be used for this aim. Our paper shows that the existence of the interaction between dark matter and dark energy found in [15] is mainly due to the data of redshift space distortion. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank Marina Seikel and Vinicius C.Busti for the helpful discussion on Gaussian processes.This work is supported by the Strategic Priority Research Program of the Chinese Academy of Sciences,Grant No.XDB09000000.Z.K.G is supported by the National Natural Science Foundation of China Grants No.11175225 and No.11335012. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] A.G.Riess et al. [Supernova Search Team Collaboration],Astron.J.116,1009(1998) [astro-ph/9805201].   \n[2] S．Perlmutter et al.[Supernova Cosmology Project Collaboration]，Astrophys.J.517，565（1999）[astroph/9812133].   \n[3] S.Weinberg,astro-ph/0005265.   \n[4]G.R.Farrar and P.J.E. Peebles,Astrophys.J.604,1 (2004) [astro-ph/0307316].   \n[5] R.G.Cai and A.Wang,JCAP 0503,002(2005) [hepth/0411025].   \n[6] B.Wang，J. Zang，C.Y.Lin，E. Abdallaand S.Micheletti，Nucl.Phys.B 778，69（2007） [astroph/0607126].   \n[7] L.Amendola,G.C. Campos and R.Rosenfeld, Phys.Rev. D 75,083506 (2007） [astr0-ph/0610806].   \n[8] Z.K. Guo,N. Ohta and S. Tsujikawa, Phys.Rev.D 76, 023508(2007)[astr0-ph/0702015[ASTRO-PH]].   \n[9]J.H.He and B.Wang，JCAP 0806，010 (2008) [arXiv:0801.4233 [astro-ph]].   \n10] G. Caldera-Cabral,R.Maartens and L.A. Urena-Lopez, Phys.Rev.D 79,063518(2009) [arXiv:0812.1827 [gr-qcl].   \n11] R.G.Cai and Q. Su, Phys.Rev.D 81,103514 (2010) [arXiv:0912.1943 [astr0-ph.CO]].   \n12]L.L.Honorez，B.A.Reid,O.Mena，L.Verde and R.Jimenez，JCAP 1009，029(2010)[arXiv:1006.0877 [astro-ph.CO].   \n13] D.Bessada and O.D.Miranda,Phys.Rev.D 88,no.8, 083530(2013)[arXiv:1310.8571 [gr-qc]].   \n14]W.Yang and L.Xu,Phys.Rev.D 89，no.8,O83517 (2014) [arXiv:1401.1286 [astro-ph.CO]].   \n[15]V.Salvatelli，N.Said，M.Bruni，A.Melchiorri and D.Wands,Phys.Rev.Lett.113,no.18,181301 (2014) [arXiv:1406.7297 [astr0-ph.CO]].   \n[16]Y.H.Li,J.F.Zhang and X.Zhang,Phys.Rev.D 90, no.12,123007(2014)[arXiv:1409.7205 [astr0-ph.CO]].   \n[17]C.Skordis,A.Pourtsidou and E.J.Copeland，Phys. Rev.D 91,no.8,083537 (2015) [arXiv:1502.07297 [astroph.CO]].   \n[18] Y.Wang，G. B. Zhao，D.Wands，L. Pogosian and R.G.Crittenden,arXiv:1505.01373 [astro-ph.CO].   \n[19]D.Huterer and G. Starkman,Phys.Rev.Lett.90,031301 (2003)[astro-ph/0207517].   \n[20] C.Shapiro and M.S.Turner，Astrophys.J.649，563 (2006)[astro-ph/0512586].   \n[21]C.Clarkson and C. Zunckel，Phys.Rev.Lett.104, 211301(2010)[arXiv:1002.5004 [astr0-ph.CO]].   \n[22] A.Shafieloo,U.Alam,V. Sahni and A.A. Starobinsky, Mon.Not.Roy.Astron.Soc.366，1081(2006) [astroph/0505329].   \n[23] A．Shafieloo，Mon.Not．Roy.Astron.Soc.380，1573 (2007）[astro-ph/0703034 [ASTRO-PH]].   \n[24] T.Holsclaw,U.Alam,B.Sanso,H.Lee,K.Heitmann, S.Habib and D.Higdon,Phys.Rev.D 82,103502 (2010) [arXiv:1009.5443 [astro-ph.CO]].   \n[25] T.Holsclaw,U.Alam,B. Sanso,H.Lee,K.Heitmann, S.Habib and D.Higdon,Phys.Rev.Lett.105,241302 (2010) [arXiv:1011.3079 [astro-ph.CO]].   \n[26] T.Holsclaw,U.Alam,B.Sanso,H.Lee,K.Heitmann, S.Habib and D.Higdon,Phys.Rev.D 84,083501 (2011) [arXiv:1104.2041 [astro-ph.CO]].   \n[27]M.Seikel,C.Clarkson and MSmith,JCAP1206,036 (2012)[arXiv:1204.2832 [astro-ph.CO].   \n[28] M.Seikel， S. Yahya,R. Maartens and C. Clarkson, Phys.Rev.D 86,083001 (2012) [arXiv:1205.3431 [astroph.CO]].   \n[29] M. Seikel and C. Clarkson， arXiv:1311.6678 [astroph.CO].   \n[30]S.Yahya，M.Seikel，C.Clarkson，R.Maartensand M.Smith，Phys.Rev.D 89，no．2，023503 (2014) [arXiv:1308.4099 [astr0-ph.CO]].   \n[31]V.C.Busti，C.Clarkson and M.Seikel，Mon.Not. Roy.Astron.Soc.441,11 (2014) [arXiv:1402.5429 [astroph.CO]].   \n[32] Y. Zhang,arXiv:1408.3897 [astro-ph.CO].   \n[33] V.C. Busti and C. Clarkson,arXiv:1505.01821 [astroph.CO].   \n[34] N. Suzuki,D.Rubin,C.Lidman,G.Aldering,R.Amanullah,K.Barbary,L.F.Barrientos and J.Botyanszki et al.,Astrophys.J.746,85(2012)[arXiv:1105.3470 [astroph.CO]].   \n[35]J.P.Bernstein，R.Kessler,S.Kuhlmann，R.Biswas, E.Kovacs,G.Aldering,I.Crane and D.A.Finley et al., Astrophys.J. 753,152(2012） [arXiv:1111.1969 [astroph.CO]].   \n[36] P.A.R.Adeetal.[Planck Collaboration], arXiv:1502.01589 [astr0-ph.CO]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

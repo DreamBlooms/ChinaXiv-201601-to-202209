@@ -1,0 +1,315 @@
+[
+    {
+        "type": "text",
+        "text": "Exploring tree diversity and stand structure of savanna woodlands in southeastern Sudan ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ahmed MMHASOBA1\\*,Ahmed AH SIDDIG².3,Yousif E YAGOUB² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Faculty of Forest Sciencesand Technology, University ofGezira,Madani 22212,Sudan; ² Faculty of Forestry, University of Khartoum, Khartoum North 13314, Sudan; Departmentof Environmental Conservation, UniversityofMassachusetts Amherst,AmherstOoo3,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Savanna woodlands in Sudan host great biodiversity, provide a plethora of ecosystem goods and services to local communities,and sustain numerous ecological functions. Although the importance of the Acacia trees in these areas is well known,up-to-date information about these woodlands' diversity is limited and changes in their woody vegetation composition, density, diversity and relative frequency are not monitored over time. This study explored tree diversity and stand stage structure in Nuara Reserved Forest, a typical savanna woodland ecosystem in southeastern Sudan. A total of 638 circular sample plots (1000 $\\mathbf { m } ^ { 2 }$ for each) were established using a systematic sampling grid method. The distance between plots was 200 m. In each plot, all living trees with diameter at breast height (DBH) ${ \\ge } 5 . 0 0 \\mathrm { c m }$ were identified and counted, and their DBH values were recorded. From these data, tree composition, diversity, density and stage structure were assessed.There were12,259 individual trees representing four species (Acacia seyal, Balanites aegyptiaca,Acacia Senegal andAcacia melifera) that belong to two families.Thedominant species wasAcacia seyal. Average tree density was 191 trees/ $\\mathrm { h m } ^ { 2 }$ and the Shannon-Weiner index for trees diversity was 0.204. Overall, young trees comprised $8 6 . 3 0 \\%$ of the forest. The state of tree richness and density in the study area was low compared to other similar environments in the region and around the world. We recommended adoption of a proper management system that includes monitoring of woody vegetation diversity in this forest,and management actions to enhance tree diversity and sustain ecosystem services to local communities. In addition to care for the dominant Acacia seyal stands, more attention and conservation should be devoted to reestablishing Acacia senegal and Acacia melifera trees because of their high ecological and economic values for local communities. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: species diversity;stand structure; savanna woodland ecosystem;forest monitoring; forest management; ecosystem services;Nuara Reserved Forest ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Forests and savanna woodlands contribute ecosystem services such as providing wildlife habitat, safeguarding against erosion and desertification, contributing to soil fertility, and many others (FAO,2016). Sudan is characterized by five climatic zones, which extend from the desert in the far north to the savanna in the south. The Sudan's Fifth National Report to the Convention on Biological Diversity (HECNR, 2O14) and the Sudan's National Biodiversity Strategy and Action Plan 2015-2020 (NBSAP, 2015) stated that forests cover $1 1 . 9 \\%$ of the total country area and are considered rich in terms of ecosystem and species diversity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The forest resources substantially contribute to Sudan's society, economy and environment (Abdel Nour,2O13; Siddig et al.,2019a). However, forests of Sudan are threatened by deforestation, which is motivated primarily by energy needs and land clearance for agricultural expansion. Furthermore, Bakr et al. (2O18) stated that the distribution of these resources is unbalanced (i.e., the greatest amount of the remaining forests is distributed in the south, whereas the poor and sparse woody formations characterize the northern part of Sudan where more people are concentrated and the need for forest goods and services is highest). Forest cover degraded from about $40 \\%$ to $10 \\%$ in Sudan over the last 110 years. The Forest National Corporation (Abdel Nour, 2O13) reported that the desert and semi desert zones cover about $6 2 . 0 \\%$ of Sudan's land area, of which $8 8 . 1 \\%$ is clasified as dry lands. In response to this unprecedented decline of vegetation cover and biodiversity, many conservation efforts were initiated over the last decade, including establishing biodiversity institutions and protected areas, developing the National Biodiversity Strategy and Action Plan 2015-2020, and signing and ratifying of several regional and international agreements (Siddig et al., 2019a). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Despite these significant steps toward the protection of forests and forest action plans, establishing a forest monitoring system remains an essential need. Forest monitoring programs provide information on the status of forests and habitats and are a central process in applying proper sustainable forest management (Millennium Ecosystem Assessment, 2Oo5). Forest monitoring can rigorously estimate potential ecosystem goods and services. Repeated forest assessments based on responses of plants and changes of species composition can be used to evaluate environmental quality and changes over time in response to forest management (Feris-Kaan and Patterson, 1992; Siddig et al., 2016). Vardon and Harris (2017) recognized five indicators of forest ecosystem condition: vegetation, biodiversity, soil, water and carbon. Furthermore, forest monitoring is also regarded as international commitment. For instance, the Convention on Biological Diversity (CBD) highlighted the necesity of monitoring ecosystems, habitats， species, communities and genes (Spellerberg, 2005). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Despite monitoring is important for proper forest management, it faces many challenges worldwide. In Europe， the definitions， approaches and scope of monitoring are continuous challenges that result in collections of forest information are not uniform and problematic, so it is hard to make conclusions over time and place (Vidal et al., 2O16). In China, forest inventory and monitoring programs face difficulties in obtaining information across large areas and high costs (Zhang et al., 2018). Shuaibu and Dagba (2016) stated that in Nigeria, forest monitoring faces many challenges such as site access and inadequate technology, equipment and funds. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sometimes, monitoring is motivated by the economic value of the products that the forest holds. For example, stands of gum arabic producing trees (GAPTs) (i.e., Acacia senegal and Acacia seyal) are considered the most important wooded lands in Sudan for their tremendous economic value to the national economy and local communities' livelihoods. Hence, FNC gives these stands special focus including their management, gum production and threat control. Nevertheless, current reports and field observations indicated a substantial decline in both the abundance of GAPTs and gum production primarily due to a massive expansion of mechanized rain fed agriculture that converts forests to agricultural lands as wellas drought events in recent years (Bakr et al., 2O18). Moreover, Siddig (2014) warned about the potential impacts of instability and conflicts on forest resources in Sudan, particularly in and around the gum Arabic belt (i.e., Darfur and Kordofan) where vast natural stands of GAPTs exist. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Quantitative knowledge about basic stand diversity and structure, and stand health indicators such as canopy health and density of dead standing trees is required for these current efforts toward attaining proper management and use of GAPTs to be successful. Unfortunately, due to the absence of regular and long-term monitoring programs, Sudan currently lacks these vital forest condition indicators in most GAPTs stands (Siddig, 2O19b). Consequently, management and conservation planning are based on rough estimates.Bailie et al. (2OO8) stated that in order to create effective forest management plans, it is obligatory to know which species are present, their relative abundance and species-specific stages, and what factors control their future persistence and dynamics. Clearly, the answer to these questions requires development and adoption of systematic and regular forest monitoring activities as part of the management plans. These forest monitoring programs will not only provide crucial information about current conditions and signals of future trends,but also lay the basis for rational and sustainable use of forests' ecosystem services and goods. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therefore, the aim of this study is to assesstree diversity and stage structure in Nuara Reserved Forest (a typical savanna woodland ecosystem in southeastern Sudan), as recommended by Siddig (2014) and the Sudan's Fifth National Report to the Convention on Biological Diversity (HECNR, 2014). Specific objectives include(1) establishing basic information about the current condition of Nuara Reserved Forest including species composition, diversity, density and stage structure; (2) discussing the significance of monitoring results in planning forest utilization, conservation and management; and (3) developing a protocol for future monitoring program in Nuara Reserved Forest and other similar natural forests in Sudan. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Study area and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study was conducted in Nuara Reserved Forest, which is located in Sennar State, Sudan and approximately $3 6 0 \\mathrm { k m }$ southeast of the capital Khartoum (Ahmed et al., 2O15). The forest covers an area of $2 . 5 6 { \\times } 1 0 ^ { 3 } ~ \\mathrm { h m } ^ { 2 }$ ， and lies between $1 2 ^ { \\circ } 2 0 ^ { \\prime } { - } 1 2 ^ { \\circ } 2 6 \\mathrm { ^ { \\prime } N }$ and $3 4 ^ { \\circ } 0 5 ^ { \\prime } { - } 3 4 ^ { \\circ } 0 8 ^ { \\prime } \\mathrm { E }$ (Mohammed, 2018). It is situated in southeastern Sudan and shares borders with Gezira State to the north, Blue Nile State to the south, Gedaref State to the east and White Nile State to the west (Fig. 1). The region's climate is tropical with the year separated into very humid and rainy autumns, intensely dry winters and hot summers. Winter months (December and January) are relatively cold, with temperatures ranging from $1 6 ^ { \\circ } \\mathrm { C }$ to $2 0 ^ { \\circ } \\mathrm { C }$ . From March to November, the climate is very hot (temperature range of $3 5 ^ { \\circ } \\mathrm { C } { - } 4 1 ^ { \\circ } \\mathrm { C } )$ . The precipitation is motivated by South Atlantic and Congo air masses with little or no influence from the Indian Ocean. The precipitation increases in the southeast with the total annual precipitation between 3OO and $7 0 0 ~ \\mathrm { { m m } }$ ，Most precipitation falls between June and October, with a peak in August (Gadallah, 2019). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/324891dce4126f8e8a6f1cb6659612afa614a0526d6eb4eb0d4c1305daf07aba.jpg",
+        "img_caption": [
+            "Fig.1Sketch maps for the location of Sennar State in southeastern Sudan (a)and the location of Nuara Reserved Forest (study area) in Sennar State (b),as well as the overview of Nuara Reserved Forest (c) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Study design and field measurement ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The data used in this study belong to the Faculty of Forestry, University of Khartoum, which were produced from a student training course on the formulation of forest management plans that were conducted in Nuara Reserved Forest. In February 2O18, 638 circular sample plots were determined in the systematic sampling grid using ArcGIS software (Fig. 2). The grid consisted of several parallel survey lines spaced $2 0 0 \\mathrm { m }$ apart. Along each survey line, circular plots were located every $2 0 0 \\mathrm { m }$ ,and the area of each was approximately $1 0 0 0 \\mathrm { m } ^ { 2 }$ (radius $\\Longrightarrow 1 7 . 8 4 \\ \\mathrm { m }$ ). The first plot in the line was usually located $1 0 0 \\mathrm { m }$ away from the edge to avoid edge effect. All living trees with diameter at breast height (DBH) ${ \\ge } 5 . 0 0$ cm were identified to species and counted. Their DBH and height were measured using calipers and altimeters, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e4cb6d57bb2806cbbaaba39e68ed174d57956df06db7dce5c6467d51e926a05.jpg",
+        "img_caption": [
+            "Fig. 2 Distribution of sample plots in Nuara Reserved Forest "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Data analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Data were organized in a classic site (plot)-by-species table,and then species richness,tree diversity and tree density were computed in the R software (version 3.5.1) using the vegan: Community Ecology Package (R Core Team, 2O15). We computed all analyses based on the plot level data. Species richness is the number of trees species in each plot and for the forest overall, and tree diversity was computed using Shannon-Weiner diversity index ( $H ^ { \\prime }$ ; Eq. 1) (Shannon and Weiner, 1963): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ^ { \\prime } { = } { - } { \\sum } _ { i = 1 } ^ { s } p _ { i } \\ln p _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $H ^ { \\prime }$ is the Shannon-Wiener diversity index; $i$ is the proportion of individuals belonging to species $i$ $s$ is the number of tree species; and $p _ { i }$ is the importance value of a species as a proportion of all species $i$ in each sample plot. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The DBH values were used to classify the trees into different stage classes and then the stage classes were computed in ArcGIS platform. Based on the homogeneity of the study area, we classified the stage of trees into three categories: young (DBH: $5 . 0 0 { - } 1 4 . 9 9 \\ \\mathrm { c m }$ ), pre-mature (DBH: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15.00-24.99 cm) and mature (DBH: ${ \\ge } 2 5 . 0 0 \\mathrm { c m }$ ) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Species richness and diversity ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From surveys of 638 sample plots in Nuara Reserved Forest, we found 12,259 living trees representing four species (Acacia seyal, Balanites aegyptiaca, Acacia Senegal and Acacia mellifera) which belong to two families: Mimosaceae (three species) and Balanitaceae (one species) (Table 1). Acacia seyal was the most abundant and dominant species, with 11,638 individuals. We also identified 577 trees for Balanites aegyptiaca, 40 trees for Acacia senegal and only 4 trees for Acacia melifera in the entire forest. The average tree diversity in Nuara Reserved Forest was 0.2O4 as computed by Shannon-Wiener diversity index, which was very low. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6c4224f6e591733a14ac5bc0e97a9514855d40ee7af58d31627346595f3243f8.jpg",
+        "table_caption": [
+            "Table1Estimates of trees species composition,relative frequency, number of individuals and relative density in Nuara Reserved Forest "
+        ],
+        "table_footnote": [
+            "Note: a, number of sample plots where species present;b,total number of surveyed plots "
+        ],
+        "table_body": "<html><body><table><tr><td>No.</td><td>Species name</td><td>Number of plotsa</td><td>Relative frequency (%)</td><td>Numberof individuals</td><td>Relative density (trees/hm²)</td></tr><tr><td>1</td><td>Acacia seyal</td><td>533</td><td>84.20</td><td>11,638</td><td>218.34</td></tr><tr><td>2</td><td>Balanitesaegyptiaca</td><td>176</td><td>27.80</td><td>577</td><td>32.78</td></tr><tr><td>3</td><td>Acacia senegal</td><td>15</td><td>2.36</td><td>40</td><td>26.60</td></tr><tr><td>4</td><td>Acaciamellifera</td><td>2</td><td>0.31</td><td>4</td><td>20.00</td></tr><tr><td>Total</td><td></td><td>638b</td><td>100.00</td><td>12,259</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Tree density and frequency ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Average tree density was 191 trees $/ \\mathrm { h m } ^ { 2 }$ in the entire forest. Relative density was highest for Acacia seyal (218.34 trees/hm²; Fig. 3), followed by Balanites aegyptiaca (32.78 trees/hm²), Acacia Senegal (26.60 trees/hm2) and Acacia mellfera (20.00 trees/hm2). As shown in Figure 4, the spatial pattern of tree density showed that more than $90 \\%$ of the forest area had medium to high tree density (green and red regions) whereas relatively small areas in the northern tip of the forest were characterized by low tree density (yellow regions). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/edb06d9bcddaa17e26366a08a75506554a7db93cf94717d0c24b888e5ffed4e2.jpg",
+        "img_caption": [
+            "Fig.3 Photo showing very dense sample plot dominated by Acacia seyal trees in Nuara Reserved Forest "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fbf2b2e9f4124e7ad9b62528ab331b9bf2ba8491e4dedede3b76c864d7c5208.jpg",
+        "img_caption": [
+            "Fig.4Spatial distribution of average tree density in Nuara Reserved Forest.The black lines within the figure represent the boundaries of forest compartments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Species occurrence and distribution in the forest area as measured by their relative frequency indicated that Acacia seyal was the dominant species in the forest (Table 1). It occurred in $8 4 . 2 0 \\%$ of the forest, followed by Balanites aegyptiaca, which distributed in $2 7 . 8 0 \\%$ of the forest. In contrast, Acacia Senegal and Acacia mellifera were only present in $2 . 3 6 \\%$ and $0 . 3 1 \\%$ of the forest, respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Tree stage structure ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We used three diameter classes to describe forest stage structure,and the results are shown in Table 2. Trees with DBH ranging from 5.00 to $1 4 . 9 9 \\mathrm { c m }$ were considered as young/juveniles stage-class, which accounted for $8 6 . 3 0 \\%$ of the forest trees. Pre-mature tree stage-class,which included trees with DBH of $1 5 . 0 0 { - } 2 4 . 9 9 \\mathrm { c m }$ , represented $1 3 . 3 5 \\%$ of the total trees. Lastly, only $0 . 3 4 \\%$ of the total trees had a DBH greater than $2 5 . 0 0 \\mathrm { c m }$ and was considered as mature stage-class. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The species-specific stage structure indicated that young trees dominated all species. As shown in Table 2, young stage-class trees comprised $1 0 0 . 0 0 \\%$ ， $9 3 . 1 0 \\%$ ， $9 0 . 0 0 \\%$ and $56 . 4 9 \\%$ of Acacia mellifera, Acacia seyal, Acacia Senegal and Balanites aegyptiaca trees, respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the present study, there were only four species detected with an overwhelming dominance of Acacia seyal and notable rarity of Acacia mellifera. While this number of species was similar to other forests in this transitional zone with precipitation between low and high, it was much lower compared to the species richness found in many dry forests in Africa. For instance, the average number of woody species was 28 in Neotropical continental forests, 48 in Beza Mahafaiytropic dry forests in Madagascar and 110 in Bereku Forest Reserve, Tanzania (Sussman, 1994). The analysis of the trees in our study area revealed that Nuara Reserved Forest was dominated by one species (Acacia seyal),an indicator of change in state of the ecosystem (Thompson, 2O11). This dominant may suppress other tree species' natural regeneration in this area. The tree density in Nuara Reserved Forest of Sudan (Table 1) was similar to those in Oban Forest Reserve of Nigeria (306.00 trees/hm²) as reported by Igbinosa and Ejakhe (2O15) and in lower-altitude Western Himalayan forests of India (235.00 trees/hm²) as reported by Malik and Bhat (2015). However, our estimates on tree density in Nuara Reserved Forest were lower than those in Bereku Forest Reserve of Tanzania $( 6 1 6 . 0 0 \\mathrm { t r e e s } / \\mathrm { h m } ^ { 2 } )$ (Giliba et al., 2O11), higher-altitude Western Himalayan forests of India (505.00 trees $/ \\mathrm { h m } ^ { 2 }$ ) (Malik and Bhatt, 2015) and tropical forests of Costa Rica (446.00 trees/hm2) (Lieberman et al., 1996). Tree species diversity in Nuara Reserved Forest of Sudan $\\scriptstyle ( H ^ { \\prime } = 0 . 2 0 4 )$ was also lower than those in other forests of Africa ( $\\cdot \\boldsymbol { H ^ { \\prime } }$ ranged from O.38O in North-East Nigeria to 4.270 in Bereku Forest Reserve of Tanzania). The lower species diversity in the present study could be due to the size of the study area and environmental heterogeneity as well as deforestation activities (Suratman, 2O12). The low values of tree density and diversity compared to other locations may reflect dissimilarity in precipitation, soil characteristics and landscape in addition to differences in sampling intensity (Wakawa et al., 2017). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d57ab4b6b5f5317f7e0891601739e97a8fa2e531f26d1905138b892f92ec7c5f.jpg",
+        "table_caption": [
+            "Table 2 Percentage of each species in the three tree stand stages in Nuara Reserved Forest "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">No.</td><td rowspan=\"2\">Species</td><td rowspan=\"2\">Number of trees</td><td colspan=\"3\">Percentage of species in the stage (%)</td></tr><tr><td>Young (5.00-14.99 cm)</td><td>Pre-mature (15.00-24.99 cm)</td><td>Mature (≥25.00 cm)</td></tr><tr><td>1</td><td>Acacia seyal</td><td>11,638</td><td>93.10</td><td>6.40</td><td>0.42</td></tr><tr><td>2</td><td>Balanitesaegyptiaca</td><td>577</td><td>56.49</td><td>36.56</td><td>6.93</td></tr><tr><td>3</td><td>AcaciaSenegal</td><td>40</td><td>90.00</td><td>10.00</td><td>0.00</td></tr><tr><td>4</td><td>Acacia mellifera</td><td>4</td><td>100.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Total</td><td></td><td>12,259</td><td>86.30</td><td>13.35</td><td>0.34</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Nuara Reserved Forest greatly contributes to the livelihood of the local communities by providing forest fruits, fallen wood for fuel, forage and crops,and job opportunities (Mohammed, 2018). This study identified some ecological information about the dominant species Acacia seyal, which provides great economic benefits in the region, including the production of charcoal and gum Arabic. It also offers basic information about the current condition of the forest, including species composition, tree diversity, tree density and stage structure, which will help in establishing rigorous future monitoring programs and inform conservation efforts. Overall this study provides information and insights for guiding forest biodiversity restoration and implementing sustainable forest management activities in the savanna woodlands. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5Conclusions and recommendations ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Forest tree diversity, dominant tree species,tree density and tree stage structure are key data needed to design ecosystem management for environmental conservation for a given region. This study showed low tree diversity (0.204) in Nuara Reserved Forest of southeastern Sudan. The forest included only four species (Acacia seyal, Balanites aegyptiaca, Acacia senegal and Acacia mellifera), which typically occur in the savanna woodlands. Acacia seyal was the most abundant species in the Nuara Reserved Forest while Acacia mellifera was very rare. Nuara Reserved Forest may be considered young forest because $8 6 . 3 0 \\%$ of the trees were in the young stage-class (DBH: $5 . 0 0 { - } 1 4 . 9 9 ~ \\mathrm { c m } ,$ ). The state of tree species richness and relative density in the study area was low compared to similar environments in the world. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To secure a sustainable supply of goods and services from Nuara Reserved Forest to local communities while to maintain the highest forest ecological integrity, we suggest implementation of the following management interventions: (1) prioritizing the restoration of Acacia Senegal and Acacia mellfera because they are currently rare species and are at risk of extinction in this area and also because they have high ecological and economic values for local communities; (2) considering the establishment of a comprehensive long-term monitoring program through permanent sample plots in this forest to provide time series data that are essential to assess the overall ecosystem state and evaluate the dynamics of tree populations and the changes of savanna ecosystems; and (3) conducting in-depth research studies that focus on the resilience of savanna ecosystems to climate change and variability, and on the drivers of deforestation that causes the decline of woody vegetation diversity in the savanna woodlands of southeastern Sudan. Since our primary objective in this study is to explore nature and we are limited by the available data, we recommend that future work should focus on revealing relationships and trends of diversity metrics as a function of environmental conditions in the region. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to the Faculty of Forestry, University of Khartoum for allowing us touse the data of this study and in particular to Mr. Elyas DAAK for providing the data. Many thanks to Mr. Nasradeen GADALLAH and Mr. Ali OMER from Faculty of Forestry,University of Khartoum for their notable asistance in the ArcGIS and R software work. Warm thanks also go to Ms. Audrey B PLOTKIN from Harvard Forest, Harvard University for her assistance in language editing and revisions as well as two anonymous reviewers for their comments. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AbdelNourHO.2O13.ThestatusofSudanforestsandthechangesthathaveoccurredduring theperiod20-20l1.Nineteenth AnualForestryConference“Under theSlogan \"TowardsaComprehensivePackagefortheProtectionandReconstructionof Forests\". 24-27 April 2013. Khartoum: FNC (Forests National Corporation).   \nAhmed KMS,HamidAA,DokaA. 2015.Investigationof spatialriskfactors forRVFdiseaseoccurrence usingremotesensing & GIS—a case study: Sennar State, Sudan. Journal of Geographic Information System, 7(2): 226-257.   \nBailie JEM,Colen B,AminR, etal.2008.Toward monitoring global biodiversity.ConservationLeters,1(1):18-26.   \nBakr A,Sidig E,Eltohami A.2018.Threats to gree gumarabic productionin Sudan.Biomedical Journal of Scientificand Technical Research, 3(5). BJSTR.MS.ID.000951, doi: 10.26717/BJSTR.2018.03.000951.   \nFAO (Foodand Agriculture Organizationof the United Nations).2016.Tres,forestsandlanduse indrylands: Thefirst global assessment. FAO. Rome, Italy.   \nFerris-KaanR,PattersonGS.1992.Monitoringvegetationchangesinconservationmanagementofforests.ForestryComission Bulletin,108: 31, doi: https://doi.org/10.4274/npa.y5917.   \nGadallaNAH.2O19.Assessmentofconservativeand protectiveneeds fornaturalforestsindrylands:Caseof WadAl-Bashir Forest,Gedaref State,Sudan.MScThesis.Khartoum:DesertificationandDesert Cultivation Studies Institute,Universityof Khartoum, 1-100.   \nGilibaRA,BoonEK,KayomboCJ,etal.2011.Speciesomposition,richnessnddiversityinMiomboWoodlandofBereku Forest Reserve, Tanzania. Journal of Biodiversity, 2(1): 1-7.   \nHCENR (Higher Council for Environmentand Natural Resources).2O14. Sudan's Fifth National Report to theConvention on BiologicalDiversity.MinistryofEnvironment,NaturalResourcesandPhysicalDevelopment,Sudan. https://www.cbd.int/doc/world/sd/sd-nr-05-en.pdf.   \nIgbinosaH,EjakhG.2O15.TreespeciescompositionanddiversityinObanforest.Journalofagriculturalstudies,3():10-24.   \nLiebermanD,Lieberan,eraltaR,etal.1996.Tropicalforesttructureandompositiononalarge-scalealtitudialgadiet in Costa Rica. The Journal of Ecology, 84(2): 137-152.   \nMalik ZA,BhattAB.2015.Phytosociologicalanalysis ofwoodyspecies in Kedarnath WildlifeSanctuaryanditsadjoiningareas in Western Himalaya, India. Journal of Forest and Environmental Science,31(3): 149-163.   \nMillenniumEcosystemAssessment.2Oo5.Ecosystemsand Human Well-eing:Synthesis.Washington,DC:IslandPress,-137.   \nMohammed M.2018.Decadal working plan for managementof riparian forests in Sennar State.FacultyofForestry,University of Khartoum. Khartoum, Sudan.   \nNBSAP.2015.National Biodiversity Strategy and Action Plan 2015-2O20. Ministryof Environment,Natural Resourcesand Physical Development, Sudan. https://www.cbd.int/doc/world/sd/sd-nbsap-v2-en.pdf.   \nRCoreTeam.2O15.R: ALanguage andEnvironmentforStatisticalComputing.RFoundationforStatisticalComputing, Vienna. https://www.R-Project.org.   \nShanonCE,WeinerW.1963.The MathematicalTheoryofCommunication.Urbana: UniversityofIlinoisPres,29-125.   \nShuaibuRB,Dagba BI.2013.Chalenges offorestinventoryand its effcts on forestmanagement and planning in Nigeria. Forestry Association of Nigeria, 1: 200-206.   \nSiddig AAH.2O14.BiodiversityofSudan: Betweentheharshconditions,politicalinstabilityandcivilwars.BiodiversityJoural, 5(4): 545-555.   \nSiddig AAH,ElisonAM,OchsA,etal.216.Howdoecologists selectanduse indicatorspecies tomonitorecologicalchanges? Insights from 14 years of publication in Ecological Indicators.Ecological Indicators,60: 223-230.   \nSiddig AA H,AbdelMTD,El-NasryHM,etal.2019a.Biodiversityof Sudan.In:PulliahT.GlobalBiodiversity(Vol.3). Selected Countries in Africa. Waretown: Apple Academic Press,275-294.   \nSiddigAA H.219b.Whyis biodiversitydata-deficiencyanongoing conservation dilemma in Africa?Journal for Nature Conservation, 50: 125719,doi: 10.1016/j.jnc.2019.125719.   \nSuratman MN.2O12. Tre species diversityand forest stand structure of Pahang National Park,Malaysia. In: Lameed G A. Biodiversity Enrichment ina Diverse World.Rijeka: IntechOpen,473-492.   \nSussmanRW.1994.PlantdiversityandstructuralanalysisofaropicaldryforestinSouthwesternMadagascarBiotropica,6(3): 241-254.   \nThompson I 2011.Biodiversity,ecosystem thresholds,resilience and forestdegradation. Unasylva,238: 25-30.   \nVardon M， HarrsR. 2017. Reviewof ecosystem condition indicators.Paper for the London Group. https://seea.un.org/sites/seea.un.org/files/lg23_review_of_ecosystem_condition_indicators_vardon-harris.pdf.   \nVidal C,AlberdiI,RedmondJ,etal.2016.TheroleofEuropean NationalForestInventoriesforinterationalforestryeorting. Annals of Forest Science, 73(4): 793-806.   \nWakawaL,SuleimanA,AdamL.2O17.TreespeciesbodiversityofasaelienecosysteminNorthEastNgeria.JouralofBartin Faculty of Forestry, 19(2): 166-173.   \nZhang Q,LiangY,HeHS.2018.Tre-lists estimationforChineseborealforestsbyintegratig Weibulldiameterdistributions with MODIS-based forest attributes from kNN imputation.Forests,9(12): 758,doi: 10.3390/f9120758. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

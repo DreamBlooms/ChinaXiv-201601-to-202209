@@ -1,0 +1,378 @@
+[
+    {
+        "type": "text",
+        "text": "Measurements of the branching fractions for $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } K ^ { + } , K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ and $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ $K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ （20 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M. Ablkim1,M.N.Achasov9,e,S.Ahmed14,X.C.Ai1,O. Albayrak,M. Albrecht4,D.J. Ambrose44,A.Amoroso49A,49C,   \nF.F. $\\mathbf { A } \\mathbf { n } ^ { 1 }$ ,Q $\\mathbf { A n } ^ { 4 6 , a }$ ,J. Z. Bai1,R.BadinFerrolA,YBan31,D.W.Beett19,J.VBeett,N.Berger22,MBertA D.BettonJ..an,Fch $^ { 4 9 A , 4 9 C }$ ,E. Boger23c,Boyk3,R.ABriere,HCi1,XCi,O.Cir4   \nA.Calcaterra20A,G.F.Cao1,S.A.Cetin40B,J.Chai9C,J.F.Chang,G.Chekov23,cd,G.Chen1,H.S.Chen1,J.C.Chen1,   \nM.L.Chen1α,S.Chen41,S.J.Chen29,X.Chen1a,X.R.Chen26,Y. B.Chen1a,H.P.Cheng17,X.K.Chu31,G.CibieoA, H.L.Dai1a,J. P.Dai4,A. Dbeysi4,D.Dedovich23,Z. Y Deng1,A.Denig22,1. Denysenk23,M.Destefanis49A,49C FDeMori49A49CYDing7.Dong30DongL.YDong,YDongZLD2. $\\mathrm { D u } ^ { 5 3 }$ , P.F Duant,   \nJ.Z.Fan3,J.Fang1,S.S.Fang1,X.Fang46，Y.Fang1,R.Farineli2，L.Fav49B49C，O.Fedorov23,FFeldbauer2, G.Felici20A,C.Q.Feng46a,E.Fioravanti21A,M.Fritsch14,22,C.D.Fu,Q.Gao1,X.L.Gao46a,Y.Gao39,Z.Gao46a   \nI Garzia21A,K.Goetzen0,L.Gong30，W.XGog1,WGradl22,.Grec49A4M.H. $\\mathbf { G u } ^ { 1 , a }$ ,Y T $\\mathrm { G u ^ { 1 2 } }$ , Y H. Guan1,   \nA. Q.Guo1,L.B.Guo28,R.P. Guo²,Y. Guo1,Y.P.Guo22,Z.Haddadi25,A.Hafner2,S.Han51,X. Q.Hao15,F.A.Harris42,   \nK.L.He1,F. H. Heinsius4,T. Held4, Y. K. Heng1,a,T. Holtmann4,Z.L.Hou1,C. $\\mathrm { H u ^ { 2 8 } }$ , H. M. $\\mathrm { H u } ^ { 1 }$ ,J.F. $\\mathrm { H u } ^ { 4 9 A , 4 9 C }$ ,T. $\\mathrm { H u } ^ { 1 , a }$ ， Y $\\mathrm { H u ^ { 1 } }$ ,G.S. Huang46a,J.S. Huang15,X.T.Huang33,X Z. Huang29,Y. Huang29,Z.L. Huang27,T. Hussain48,Q $\\mathbf { J } \\mathbf { i } ^ { 1 }$ ， Q. P. Ji15, X. B. Ji1,X. L. $\\mathbf { J i } ^ { 1 , a }$ ,L.W. Jiang51,X. S. Jiang1,α,X. Y. Jiang30,J.B.Jiao3,Z. Jiao17,D. P. $\\operatorname { J i n } ^ { 1 , a }$ ,S. Jin1, T. Johansson50,A. Julin43, N. Kalantar-Nayestanaki25, X.L. Kang1, X. S. Kang30,M. Kavatsyuk25, B. C. $\\mathrm { K e ^ { 5 } }$ ,P. Kiese22, R. Kliemt4,2， $^ { 4 0 B , h }$ B.KopfKocer2，AKupse,WKuh24,ISLange24,La,P   \nLarin14, H. Leithoff²2, C. Leng49C,C. $\\mathrm { L i } ^ { 5 0 }$ , Cheng Li46,a, D. M. $\\mathrm { L i } ^ { 5 3 }$ ,F. $\\operatorname { L i } ^ { 1 , a }$ ,F. Y. Li31, G. $\\mathrm { L i } ^ { 1 }$ ,H. B. $\\mathrm { L i } ^ { \\mathrm { \\hat { 1 } } }$ ,H. J. Li1, J. C. Li1, Jin Li32,K.Li13,K. Li33,Lei ${ \\mathrm { L i } } ^ { 3 }$ ,P.R. $\\mathrm { L i ^ { 4 1 } }$ ,Q.Y. $\\mathrm { L i ^ { 3 3 } }$ ,T. $\\mathrm { L i ^ { 3 3 } }$ , W. D. $\\mathrm { L i } ^ { 1 }$ W. G. $\\mathrm { L i } ^ { 1 }$ ,X. L. Li33, X. N. $\\operatorname { L i } ^ { 1 , a }$ ,X. Q. $\\mathrm { L i ^ { 3 0 } }$ Y. B.Li²,Z.B.Li8,H.Lang46,Y.FLiang36,Y.TLiang24,G.R.Lao,D.XLin14,B.Liu34,B.JLu1,C.X.iu,   \nD.Liu46,a,F.HLiu35,FangLiu1,FengLiu6,H.B.Liu12,H.H.Liu16,HH.Liu1,H.M.Liu1,JLiu1,J.B.Liu46a,J.P.Liu51, J. Y. Liu1, K. Liu39, K. Y Liu27,L.D.Liu31, P.L.Liu1a,Q.Liu41,S. B. Liu46a, X. Liu26,Y. B. Liu30,Y. Y.Liu30,   \nZ.A. Liu1,Zhiqing Liu22,H.Loeher25,X.C.Lou1,a9,H.J.Lu17,J.G.Lula,Y.Lu1,Y.PLu1a,C.L.Luo28,M.X.Lu2, T. Lu042,X.L.Luo1,a, X.R.Lyu41,F.C.Ma²7,H.L.Ma1,L.L. Ma33,M.M.Ma¹,Q.M.Ma1,T.Ma1, X.N. Ma30, X.Y.Ma1a,YM.Ma3,FE.Maas14,M.Maggiora49A49C，Q.A.Malik48,Y.J.Mao31,Z.P.Mao,S.Marcell49449C J. G. Messchendorp25,G.Mezzadri21B,J.Min1,a,R.E. Mitchel19, X. H. Mo1,α,Y.J.Mo6,C.Morales Morales14, N. Yu.Muchnoi9,e, H. Muramatsu43,P.Musiol4, Y. Nefedov2,F.Nerling14,1. B.Nikolaev9,e,Z.Ning1,,S.Nisar8   \nS.L.Niu1a,X.Y.Niu1,S.L.Olsen32,Q.Ouyang,S.PacetiB,Y.Pan46a,P.Pateri20A,M.Pelzaeus4,，H.P.Peng46, K.Peters10,i,JPeterson5o,J.L.Ping28,R. G.Ping1,R.Poling43,V.Prasad,H.R. $\\mathrm { Q i } ^ { 2 }$ ,M $\\mathrm { Q i } ^ { 2 9 }$ , S. Qian1a, C. F. Qiao41 L.Q. Qin3,N. Qin51,X.S.Qin1,Z.H. Qin1,a,J.F. Qiu1,K.H. Rashid48,C.F. Redmer22,M.Ripka22,G.Rong1, Ch. Rosner14,X.D.Ruan12,A.Srantsev23,f,.Sv1B,C.chier4,K.Shoeing50,.Sman22,.ha M.Shao46a,C.P.Shen2,P.X Shen30,X.Y. Shen1,H. Y.Sheng1,M.Shi1,W.M.Song1,X.Y.Song1,S.Sosio49A49C S.Spataro49449G.XSun,J.FSun15,S.S.Sun,X.H.Su,YJ.Sun46,YZSun,ZJ.SuZTSu19   \nC.J.Tang36,XTang1,1TpanE.H.Thomdike4,MTemens25,1Uman40DGSVmer2,BWang30B.L.Wag4 D.Wang31,D.Y. Wang³1,K.Wang1,a,L.L. Wang1,L.S.Wang1,M. Wang33,P.Wang1,P.L.Wang1,S.G.Wang31.   \nW.Wang1a,W.P Wang46a,X.F Wang39,Y. Wang37,Y. D.Wang14,Y.F.Wang1a,Y. Q.Wang22,Z. Wang1a,Z.G.Wang1 Z. H. Wang46a,Z.Y.Wang1,Z.Y Wang1,T.Weber22D.H.Wei1,J.B.We31,P WeidenkaffS.P.Wen1,U.Wieder,   \nM. Wolke50, L. H. ${ \\mathrm { \\mathbf { W } } \\mathrm { \\mathbf { u } } } ^ { 1 }$ ,L. J. ${ \\mathrm { \\mathbf { W } } \\mathrm { \\mathbf { u } } } ^ { 1 }$ ,Z. Wu1α,L. Xia46,a,L. G. Xia39, Y. Xia18,D. Xiao1, H. Xiao47,Z. J. Xiao28, Y.G. Xie1,a, Q. L. Xiu1g, G. F $\\mathrm { X u ^ { 1 } }$ JJ ${ \\mathrm { X u } } ^ { 1 }$ L $\\mathrm { { X u ^ { 1 } } }$ ,Q.J. ${ \\mathrm { X u } } ^ { 1 3 }$ ,Q. N. $\\mathrm { X u ^ { 4 1 } }$ ,x. P. $\\mathrm { X u ^ { 3 7 } }$ ,L. Yan49A,49C,W.B.Yan46a,W.C.Yan46 Y. H. Yan18,H. J. Yang34,H. X. Yang1,L. Yang51, Y. X. Yang11, M. Ye1,α,M. H. Ye7, J. H. $\\mathrm { Y i n ^ { 1 } }$ ,B. X. $\\mathrm { Y u } ^ { 1 , a }$ ,C. X. $\\mathrm { Y u ^ { 3 0 } }$ ， J.S.Yu26,C.Z.Yuan,W.LYuan29，Y Yuan1,A. Yuncu40Bb,A.A.Zafar48,A.Zall20A,YZeng18,Z.Zeng46   \nB.X.Zhang1,B.Y.Zhang1,C.Zhang29,C.C.Zhang1,D.H.Zhang1,H.H.Zhang38,H.Y.Zhang1,,J.Zhang1,J.J.Zhang1,   \nJ.L.Zhang1,J.Q.Zhang1,J.W.Zhang1a,J.Y.Zhang1,J.Z.Zhang1,K.Zhang1,L.Zhang1,S.Q.Zhang30,X.Y.Zhang33,   \nY. Zhang1,Y.H.Zhang1a,Y.N.Zhang41,Y.T.Zhang46a,Yu Zhang41,Z.H.Zhang6,Z.P.Zhang46,Z.Y.Zhang51,G.Zhao, J.W. Zhao1a,J.YZhao1,J.Z.Zhao19,Lei Zhao46a,Ling Zhao1,M.G.Zhao30,Q.Zhao,Q.W.Zhao1,S.J.Zhao53 T.C. Zhao1, Y. B. Zhao1a,Z.G.Zhao46a,A. Zhemchugov23c, B. Zheng47,J. P.Zheng1α,W.J.Zheng33,Y. H. Zheng4i,   \nB. Zhong28,L. Zhou1a, X. Zhou51, X. K. Zhou $^ { 4 6 , a }$ ,X. R. Zhou46a,X. Y. Zhou1, K.Zhu², K.J. Zhu1a,S. Zhu1,S.H. Zhu45, X.L. Zhu39,Y C.Zhu46a,Y.S.Zhu1,Z.A. Zhu1,J.Zhuang1a,L. Zoti49A49C,B.S. Zou1,J.H Zou1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(BESIII Collaboration) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（204号 $^ 3$ Beijing Instituteof Petrochemical TechnologyBeijing02617,People's RepublicofChina   \n（204号 $^ 4$ Bochum Ruhr-University,D-44780 Bochum,Germany   \n5 Carnegie eon Uvesityitsbrgh,enania5U   \n（204 $^ 6$ Central China Normal University, Wuhan 430o79, People's Republic of China   \n（20 $^ 7$ China Center of Advanced Science and Technology, Beijing 100190, People's Republic of China   \n（204号 $^ { 8 }$ COMSAedfd   \n（20 $^ { 9 }$ G.I. Budker Institute of Nuclear Physics SB RAS (BINP), Novosibirsk 630090,Rusia   \n（204号 $^ { 1 0 }$ GSIHelmhceeDsd   \n11GuangxiNalUnivesityGuili4eope'sepbic   \n（20 $^ { 1 2 }$ GuangXi UniversityNanning 530o4,People'sRepublicofin   \n13 HangzhoulUvesitygo6ele'sepubca   \n（2 $^ { 1 4 }$ HelmholtzIstiuteicc4   \n（20 $^ { 1 5 }$ Henan Normal University,Xiniang453oPeople'sRepublicfna   \n（20 $^ { 1 6 }$ Henan UniversityofScienceand Technology,Luoyang 471003,People'sRepublicofChina   \n（ $^ { 1 7 }$ HuangshaColean5oele'sub   \n（ $^ { 1 8 }$ HunanUiveiub   \n（24号 $^ { 1 9 }$ Indiana Uito   \n$^ { 2 0 }$ (A)INFNLbotoolidFttaly;()Uesiyfial   \n$^ { 2 1 }$ (A)IF   \n2JoesebUB   \n（20 $^ { 2 3 }$ Joint Istitteoeech8baio   \n（20 $^ { 2 4 }$ JustusLeb   \n25 KVI-CART, University of Groningen, NL-9747AA Groningen,The Netherlands   \n26LanzhouUnesityuple'sepub   \n27 Liaoning Universityheny 0036,People'sRepublicofChina   \n28 Nanjing Normal Universityanjing 210023,People'sRepublicofChina   \n29Nanjing Usi People'sRepublicofChina   \n30 Nankai UniversityTianjin300071 People'sRepublicofChina   \n31 Peking Universityin ble'sRepublicofChina   \n32 Seoul National Univel sit Seoul,151-747Korea   \n33 Shandong University, ople'sRepublicofChina   \n34 Shanghai Jiao Tong University, 200240,People'sRepublic ofChina   \n35Shanxi Universityaiy 030006 People'sRepublicof China   \n36 Sichuan University, Che gdu 610064,People'sRepublicofChina   \n37 Soochow University,Su 215006,People'sRepublicofChina   \n38 Sun Yat-Sen UniversityGuang 510275,People'sRepublicofChina   \n39TsinguUe   \n40 (A)Ankara Universityndoganaa Turkey;(B)Istanbul Bilgi University,3406O Eyup,Istanbul,Turkey;   \n(C)UludagUniversity659 rsa,urkey;(D)earEast University,Nicosia,NorthCyprus,ersinurkey   \n$^ { 4 1 }$ University of Chinese Academy of Sciences, Beijing 10o049,People's Republic of China   \n42UniversityaouluaU   \n43Universityelis,U   \n$^ { 4 4 }$ UniversityofRochesterRochesterNewYork467USA   \n（20 $^ { 4 5 }$ UniversityofSeeadogogsopesubi   \n（20 $^ { 4 6 }$ Universityfedafeesub   \n47 University of South China, Hengyang 421001,People's Republic ofChina   \n48UnivesityfthejbLo54590ta   \n49 (A)Univeii   \nI-10125, Turin,Italy   \n50UppsalaUse   \n51 WuhanUnivesiWuh30pesepubc   \n52 Zhejiang UnvesityHangzou07eople'sepubc   \n53Zngo   \n@AlsoatStateKeyLboratoryofarticleDetectionndElectronics,Beijingo49,Hefei2306,People'sRepublicofChina   \n（204号 $^ { b }$ Also at Bogazici University, 34342 Istanbul,Turkey   \n（ $c$ Also at the Moscow Institute of Physicsand Technology, Moscow1417ooussia ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "By analyzing $2 . 9 3 ~ \\mathrm { f b ^ { - 1 } }$ of data taken at the $\\psi ( 3 7 7 0 )$ resonance peak with the BESIII detector, we measure the branching fractions for the hadronic decays $D ^ { + } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } ^ { + }$ ， $D ^ { + } ~ \\to ~ K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ ， $D ^ { 0 } \\ \\to \\ K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ and $D ^ { 0 } \\ $ $K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ . They are determined to be l $3 ( D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } K ^ { + } ) = ( 2 . 5 4 \\pm 0 . { \\tilde { 0 5 } } _ { \\mathrm { s t a t . } } \\pm 0 . 1 2 _ { \\mathrm { s y s } }$ .）×10°3, $B ( D ^ { + } $ $K _ { S } ^ { \\bar { 0 } } K _ { S } ^ { \\bar { 0 } } \\pi ^ { \\bar { + } } ) = ( 2 . 7 0 \\pm 0 . 0 5 \\mathrm { s t a t . } \\pm 0 . 1 2 \\mathrm { s y s . } ) \\times 1 0 ^ { - 3 }$ ， ${ \\mathcal B } ( D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } ) = ( 1 . 6 7 \\pm 0 . 1 1 _ { \\mathrm { s t a t . } } \\pm 0 . 1 1 _ { \\mathrm { s y s . } } ) \\times 1 0 ^ { - 4 }$ and $\\mathcal { B } ( D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { S } ^ { 0 } ) = ( 7 . 2 1 \\pm 0 . 3 3 _ { \\mathrm { s t a t . } } \\pm 0 . 4 4 _ { \\mathrm { s y s . } } ) \\times 1 0 ^ { - 4 }$ ,where the second oneis measuredforthe first time and the others are measured with significantly improved precision over the previous measurements. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Keywords: BESIII, $D ^ { 0 }$ and $D ^ { + }$ mesons,Hadronic decays,Branching fractions ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hadronic decays of $D$ mesons open a window to probe for the physics mechanisms in charmed meson decays,e.g., CP violation, $D ^ { 0 } \\bar { D } ^ { 0 }$ mixing and SU(3) symmetry breaking effects. Since the discovery of $D$ mesons in 1976,the hadronic decays of $D$ mesons have been extensively investigated[1].However, the existing measurements of the $D$ hadronic decays containing at least two $K _ { S } ^ { 0 }$ mesons in the final state are still very poor due to limited statistics [1]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this Letter, we report the measurements of the branching fractions for the hadronic decays $D ^ { + } $ $K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ ， $D ^ { 0 } \\ \\to \\ K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ ，5 $D ^ { + } ~ \\to ~ K _ { S } ^ { 0 } K _ { S } ^ { 0 } K ^ { + }$ and $D ^ { \\tilde { 0 } } ~  ~ K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ Throughout this Lettr,，charged conjugate modes are implied. These decays have simpler event topologies and suffer less from combinatorial backgrounds than other decay modes containing two $K _ { S } ^ { 0 }$ in the final state. The comprehensive or improved measurements of three-body decays will benefit the understanding of the interplay between the weak and strong interactions in multibody decays where theoretical predictions are poorer than two-body decays. The improved measurements of two-body decays can serve to better explore the contributions of W-exchange diagrams and final-state interactions [2,3,4,5],as well as SU(3)-flavor symmetry breaking effects [6,7, 8,9,10] in $D$ meson decays.In addition,these measurements will also help to improve background estimations in the precision measurements of $D$ and $B$ meson decays. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The data sample used for this analysis,which has an integrated luminosity of $2 . 9 3 \\mathrm { f b } ^ { - 1 }$ [11],was taken at the $\\psi ( 3 7 7 0 )$ resonance peak with the BESIII detector [12]. The $D ^ { 0 } \\bar { D } ^ { 0 }$ and $D ^ { + } D ^ { - }$ pairs produced in $\\psi ( 3 7 7 0 )$ decay provide cleaner $D ^ { 0 }$ and $D ^ { + }$ meson samples than those used in previous studies at ARGUS [13,14], CLEO[15,16] and FOCUS [17]. To optimize the precision for these measurements,we use a single-tag method, in which either a $D$ or $\\bar { D }$ is reconstructed in an event.We combine the yields measured with previously reported values of the cross sections for $e ^ { + } e ^ { - } \\to D ^ { 0 } \\bar { D } ^ { 0 }$ and $D ^ { + } D ^ { - }$ at the $\\psi ( 3 7 7 0 )$ resonance peak [18]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.BESIIdetectorandMonte Carlo simulation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The BESII detector is a magnetic spectrometer that operates at the BEPCII collider. It has a cylindrical geometry with a solid-angle coverage of $93 \\%$ of $4 \\pi$ It consists of several main components.A 43-layer main drift chamber (MDC) surrounding the beam pipe performs precise determinations of charged particle trajectories and measures the specific ionization $( d E / d x )$ for charged particle identification (PID).An array of timeof-flight counters (TOF) is located outside the MDC and provides additional PID information. A CsI(Tl) electromagnetic calorimeter(EMC) surrounds the TOF and is used to measure the energies of photons and electrons.A solenoidal superconducting magnet outside the EMC provides a $1 \\mathrm { ~ T ~ }$ magnetic field in the central tracking region of the detector. The iron flux return of the magnet is instrumented with $1 2 7 2 ~ \\mathrm { m } ^ { 2 }$ of resistive plate muon counters (MUC) arranged in nine layers in the barrel and eight layers in the endcaps for identification of muons with momentum greater than $0 . 5 \\mathrm { G e V } / c$ More details about the BESIII detector are described in Ref. [12]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A GEANT4-based [19]Monte Carlo (MC)simulation software package,which includes the geometric description and response of the detector,is used to determine the detection efficiency and to estimate background for each decay mode.An inclusive MC sample,which includes the $D ^ { 0 } \\bar { D } ^ { 0 }$ ， $D ^ { + } D ^ { - }$ and non- $. D \\bar { D }$ decays of the $\\psi ( 3 7 7 0 )$ ,initial-state-radiation (ISR) production of the $\\psi ( 3 6 8 6 )$ and $J / \\psi$ ，the $e ^ { + } e ^ { - } \\to q \\bar { q }$ （204号 $( q \\ = \\ u , d , \\ s )$ continuum process,the Bhabha scattering events, the di-muon events and the di-tau events,is produced at ${ \\sqrt { s } } = 3 . 7 7 3 { \\mathrm { G e V } } .$ The equivalent luminosity of the MC sample is ten times of data.The $\\psi ( 3 7 7 0 )$ decays are generated by the MC generator KKMC[20], which incorporates bothISR effects [21] and final-stateradiation(FSR) effects [22].Known decay modes are generated using EvtGen [23] with input branching fractions from the Particle Data Group (PDG) [1]. Unmeasured decays are generated using LundCharm [24]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All charged tracks used in this analysis are required to be within a polar-angle $\\mathbf { \\eta } ( \\theta )$ range of $| \\cos \\theta | < 0 . 9 3$ The good charged tracks,except when used to reconstruct $K _ { S } ^ { 0 }$ mesons,are required to originate within an interaction region defined by $V _ { x y } < 1 . 0 \\mathrm { c m }$ and $V _ { z } <$ $1 0 . 0 \\ \\mathrm { c m }$ ，where $V _ { x y }$ and $V _ { z }$ are the distances of closest approach of the reconstructed track to the interaction point (IP) perpendicular to $( x y )$ and along $( z )$ the beam direction. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The charged kaons and pions are identified by the $d E / d x$ and TOF measurements. The combined confidence levels for pion and kaon hypotheses ( $C L _ { \\pi }$ and $C L _ { K } )$ are calculated,respectively. The charged track is identified as kaon (pion) if $C L _ { K } > C L _ { \\pi }$ 0 $\\because L _ { \\pi } >$ $C L _ { K } )$ is satisfied. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$K _ { S } ^ { 0 }$ candidate mesons are reconstructed through the $\\pi ^ { + } \\pi ^ { - }$ decay mode. Charged pions used in $K _ { S } ^ { 0 }$ candidates mesons are required to satisfy $V _ { z } ~ < 2 0 . 0 \\ \\mathrm { c m }$ The two oppositely charged tracks are assumed to be a $\\pi ^ { + } \\pi ^ { - }$ pair without PID requirements. To reconstruct $K _ { S } ^ { 0 }$ ，the $\\pi ^ { + } \\pi ^ { - }$ combination is constrained to have a common vertex.The candidate is accepted if it has an invariant mass $M _ { \\pi ^ { + } \\pi ^ { - } }$ within $\\mathrm { 1 2 ~ M e V } / c ^ { 2 }$ of the $K _ { S } ^ { 0 }$ nominal mass [1] and satisfies $L / \\sigma _ { L } > 2$ ，where $L$ is the measured flight distance and $\\sigma _ { L }$ is its uncertainty. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Toidentify $D$ candidates， we use two selection variables,the energy difference $\\Delta { \\cal E } ~ \\equiv ~ { \\cal E } _ { D } ~ -$ $E _ { \\mathrm { { b e a m } } }$ and the beam-energy-constrained mass $M _ { \\mathrm { B C } } \\equiv$ $\\sqrt { E _ { \\mathrm { b e a m } } ^ { 2 } / c ^ { 4 } - | { \\vec { p } } _ { D } | ^ { 2 } / c ^ { 2 } }$ ，where $E _ { \\mathrm { { b e a m } } }$ is the beam energy and $E _ { D }$ and $\\vec { p } _ { D }$ are the energy and momentum of the $D$ candidate in the $e ^ { + } e ^ { - }$ center-of-mass system. For each signal decay mode,only the combination with the minimum $\\lvert \\Delta E \\rvert$ is kept in events where more than one candidate passes the selection requirements.Modedependent $\\Delta E$ cuts are determined separately for data and MC based on fits to the respective $\\Delta E$ distributions. These are set at $\\pm 3 \\sigma$ ,where $\\sigma$ is the $\\Delta E$ resolution (Table 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The combinatorial $\\pi ^ { + } \\pi ^ { - } | _ { \\mathrm { n o n } - K _ { S } ^ { 0 } }$ pairs with invariant mass in $K _ { S } ^ { 0 }$ signal region may also satisfy the $K _ { S } ^ { 0 }$ selection criteria and contribute peaking background around the $D$ mass in the $M _ { \\mathrm { B C } }$ distribution.This peaking background is estimated with events in the $K _ { S } ^ { 0 }$ sideband region, defined as $0 . 0 2 0 < | M _ { \\pi ^ { + } \\pi ^ { - } } - M _ { K _ { S } ^ { 0 } } | <$ $0 . 0 4 4 { \\mathrm { ~ G e V } } / c ^ { 2 }$ .Figure 1(a) shows the comparison of the $M _ { \\pi ^ { + } \\pi ^ { - } }$ distribution for $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ candidates in data with the corresponding distribution for the inclusive MC.In the figure,the solid (dashed) arrows delineate the $K _ { S } ^ { 0 }$ signal (sideband) regions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the analyses of the $D ^ { 0 } \\ \\to \\ K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ ， $D ^ { + } { \\bf \\Pi } $ $K _ { S } ^ { 0 } K _ { S } ^ { 0 } K ^ { + }$ and $K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ decays，two-dimensional (2D）signal and sideband regions are defined. Figure 1(b) shows the distribution of $M _ { \\pi ^ { + } \\pi ^ { - } ( 1 ) }$ versus $M _ { \\pi ^ { + } \\pi ^ { - } ( 2 ) }$ for the $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ candidate events in data.The solid box,in which both of the $\\pi ^ { + } \\pi ^ { - }$ combinations lie in the $K _ { S } ^ { 0 }$ signal regions,denotes the 2D signal region.The dot-dashed(dashed) boxes indicate the 2D sideband 1(2) regions,in which one (two) of the $\\pi ^ { + } \\pi ^ { - }$ combinations lie in the $K _ { S } ^ { 0 }$ sideband regions and the others are in the $K _ { S } ^ { 0 }$ signal region. For the $D ^ { 0 } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 }$ decay, $M _ { \\pi ^ { + } \\pi ^ { - } ( 1 ) }$ versus $M _ { \\pi ^ { + } \\pi ^ { - } ( 2 ) }$ versus $M _ { \\pi ^ { + } \\pi ^ { - } ( 3 ) }$ of the candidate events in data is shown in Fig.1(c). The region in which all three $\\pi ^ { + } \\pi ^ { - }$ combinations lie in the $K _ { S } ^ { 0 }$ signal regions is taken as the three-dimensional(3D) signal region. The 3D sideband $i ( i = 1 , 2 , 3 $ ）regions denote those in which $i$ of the three $\\pi ^ { + } \\pi ^ { - }$ pairs lie in the $K _ { S } ^ { 0 }$ sideband regions and the rest are located in the $K _ { S } ^ { 0 }$ signal regions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The resulting $M _ { \\mathrm { B C } }$ distributions of the accepted candidate events in the 2D or 3D signal region,sideband 1 region and sideband 2 region are shown in the subfigures of the first, second and third rows ofFig.2, respectively.By fittingthese $M _ { \\mathrm { B C } }$ distributions as shown in Fig.2,we obtain the fitted yields of $D$ signal in the 2D or 3D signal region,sideband1 region and sideband 2 region, $N _ { K _ { S } ^ { 0 } \\mathrm { s i g } }$ ， $N _ { \\mathrm { s b 1 } }$ ， $N _ { \\mathrm { s b 2 } }$ , which are given in Table 2.In the fits,the $D$ signal is modeled by a MCsimulated shape convoluted with a Gaussian function with free parameters accounting for the difference of detector resolution between data and MC.The combinatorialbackgroundsaredescribedbyanARGUSfunction [25] with an endpoint of $1 . 8 8 6 5 \\ \\mathrm { G e V } / c ^ { 2 }$ .In the $M _ { \\mathrm { B C } }$ fits for the 2D or 3D sideband events,the parameters of the convoluted Gaussian function are fixed at the values determined for the signal region. For the $D ^ { 0 } \\ \\to \\ K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ decays，the peaking backgrounds from sideband 3 region are negligible since few events survive. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/07e8a13d611a7690875522bc1a81eaa60736a523839a70a0dc554a2794d76eba.jpg",
+        "table_caption": [
+            "TABLE 1: $\\Delta E$ requirements (in MeV) for dataand MC samples. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Decay modes</td><td>Data</td><td>MC</td></tr><tr><td>D+→KKK+</td><td>(-17,+19)</td><td>(-16,+16)</td></tr><tr><td>D+→KgKπ+</td><td>(-17,+17)</td><td>(-17,+16)</td></tr><tr><td>D→KgK</td><td>(-19,+17)</td><td>(-17,+14)</td></tr><tr><td>D°→KKgK</td><td>(-14,+16)</td><td>(-13,+13)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/eba118dffaa807ee5dae04280b62cf7c173d8cb37c1b11d420394aee591c471d.jpg",
+        "img_caption": [
+            "FIG.1:(a) Comparison of the distributions of the $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ candidate events between data (dots with error bars) and inclusive MC istoal $K _ { S } ^ { 0 }$ iadebd $M _ { \\pi ^ { + } \\pi ^ { - } ( 1 ) }$ versus $M _ { \\pi ^ { + } \\pi ^ { - } ( 2 ) }$ for the $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ candidate evetsindata.(cDstbtoof $M _ { \\pi ^ { + } \\pi ^ { - } ( 1 ) }$ versus $M _ { \\pi ^ { + } \\pi ^ { - } ( 2 ) }$ versus $M _ { \\pi ^ { + } \\pi ^ { - } ( 3 ) }$ for the $D ^ { 0 } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } \\dot { \\cal K } _ { S } ^ { 0 }$ candidate events in data. In these figures,all selection criteria have been imposed except for the $K _ { S } ^ { 0 }$ mass requirement and $M _ { \\mathrm { B C } }$ is required to be within $5 \\mathrm { { M e V / c ^ { 2 } } }$ around the $D$ nominal mass [1]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5d8287bed082886ae52ae367edf6e3b7362e41a216efbd0bb8fdcb57a8f0948.jpg",
+        "img_caption": [
+            "FIG. 2:Fits to the $M _ { \\mathrm { B C } }$ distributions of the (a) $D ^ { + } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } ^ { + }$ ，(b) $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ ，（c) $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ and (d) $D ^ { 0 } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 }$ （204号 candidateevents.ThedotswitherorbarsaredatathesodurvesarethetotalftsndthedashedcurvesaretheftedbackgroudsTe first,seconddtdespdttstadeeetsioaliosibadiodiebadio respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this analysis, the combinatorial background in the $M _ { \\pi ^ { + } \\pi ^ { - } }$ distribution are assumed to be flat,which implies that the ratio of background yields between the $K _ { S } ^ { 0 }$ signal and sideband regions is O.5.Thus, the net numbers of the $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ ， $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } K ^ { + }$ and （20 $K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ decays can be calculated by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { \\mathrm { n e t } } = N _ { K _ { S } ^ { 0 } \\mathrm { s i g } } - \\frac { 1 } { 2 } N _ { \\mathrm { s b 1 } } + \\frac { 1 } { 4 } N _ { \\mathrm { s b 2 } } - N _ { \\mathrm { o t h e r } } ^ { \\mathrm { b } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and the net number of the $D ^ { 0 } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 }$ decays can be calculated by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { \\mathrm { n e t } } = N _ { K _ { S } ^ { 0 } \\mathrm { s i g } } - \\frac { 1 } { 2 } N _ { \\mathrm { s b } 1 } + \\frac { 1 } { 4 } N _ { \\mathrm { s b } 2 } - \\frac { 1 } { 8 } N _ { \\mathrm { s b } 3 } - N _ { \\mathrm { o t h e r } } ^ { \\mathrm { b } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { K _ { S } ^ { 0 } \\mathrm { s i g } }$ and $N _ { \\mathrm { s b } i }$ are $D$ signal yields from the fit in the 2D or 3D signal regions and sideband $i$ regions, respectively. $N _ { \\mathrm { o t h e r } } ^ { \\mathrm { b } }$ is the normalized number of residual peaking background. For the $D ^ { + } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } ^ { + }$ $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ and $D ^ { 0 } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 }$ decays, the residual peaking background is mainly from the events of $D ^ { + } \\to { \\cal K } _ { S } ^ { 0 } K _ { L } ^ { 0 } K ^ { + }$ ， $D ^ { + } \\to K _ { S } ^ { 0 } K _ { L } ^ { 0 } \\pi ^ { + }$ and $D ^ { 0 } $ （204号 $K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ versus $D ^ { - } ( \\bar { D } ^ { 0 } ) \\to K _ { S } ^ { 0 } X$ （ $X =$ any possible particle combination)． This kind of background peaks around the nominal $D$ mass [1] when the $K _ { S } ^ { 0 }$ from a $D ^ { - } ( \\bar { D } ^ { 0 } )$ decay has momentum similar to that of a $K _ { L } ^ { 0 }$ produced in $D ^ { + } ( D ^ { 0 } )$ decay. These peaking backgrounds cannot be modeled by the events from the 2D or 3D sideband region and are estimated by analyzing the inclusive MC sample.The measured values of $N _ { \\mathrm { o t h e r } } ^ { \\mathrm { b } }$ and $N _ { \\mathrm { n e t } }$ are given in Table 2. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.Branchingfractions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The branching fraction for the hadronic decay $D ^ { + ( 0 ) } \\to f$ is determined by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal B } ( D ^ { + ( 0 ) } \\to f ) = \\frac { { \\cal N } _ { \\mathrm { n e t } } } { 2 \\cdot \\sigma _ { D ^ { + } D ^ { - } } ( D ^ { 0 } \\bar { D } ^ { 0 } ) \\cdot \\mathcal { L } \\cdot \\epsilon } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { \\mathrm { n e t } }$ is the net number of $D ^ { + ( 0 ) } \\to f$ decays in data, $\\epsilon$ is the detection efficiency including the branching fraction of $K _ { S } ^ { 0 } \\  \\ \\pi ^ { + } \\pi ^ { - }$ ， $\\mathcal { L }$ is the integrated luminosity of data[11] and $\\sigma _ { D ^ { + } D ^ { - } } ~ ( D ^ { 0 } \\bar { D } ^ { 0 } )$ is the $D ^ { + } D ^ { - }$ $( D ^ { 0 } { \\bar { D } } ^ { 0 } )$ cross section at the $\\psi ( 3 7 7 0 )$ resonance peak. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The detection efficiencies are determined by analyzing the inclusive MC sample.In this sample, the signal MC events for $\\begin{array} { r l r } { D ^ { + } } & { { } \\to } & { K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + } } \\end{array}$ are produced as a mixed sample containing $90 \\%$ of the $D ^ { + } \\  \\ K _ { S } ^ { 0 } K ^ { * } ( 8 9 2 ) ^ { + } , K ^ { * } ( 8 9 2 ) ^ { + } \\  \\ K _ { S } ^ { 0 } \\pi ^ { + }$ decays and $10 \\%$ of the direct three-body decay in phase space $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ . The signal MC events for $D ^ { + } $ $K _ { S } ^ { 0 } K _ { S } ^ { 0 } K ^ { + }$ ， $\\tilde { D ^ { 0 } } ~  ~ K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ and $K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ are produced using a phase-space model. Detailed studies show that the momentum and polar-angle distributions of the daughter particles in data are well modeled by the MC simulation for each decay mode.By analyzing the inclusive MC sample with the same analysis procedure applied to the data (including the $M _ { \\mathrm { B C } }$ fits and the calculation of the net signal yields),we obtain the net number of $D$ mesons observed for each decay. The detection efficiency $\\epsilon$ is obtained by dividing the net $D$ signal by the total number of signal events,taking into account the efficiency correction discussed in Sect.5. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Inserting the numbers of $N _ { \\mathrm { n e t } } , \\ \\epsilon , \\ { \\mathcal { L } } ,$ ，as well as $\\sigma _ { D ^ { + } D ^ { - } } ~ = ~ ( 2 . 8 8 2 \\pm 0 . 0 1 8 _ { \\mathrm { s t a t . } } \\pm 0 . 0 4 2 _ { \\mathrm { s y s . } } )$ ）nbor $\\sigma _ { D ^ { 0 } \\bar { D } ^ { 0 } } = ( 3 . 6 0 7 \\pm 0 . 0 1 7 _ { \\mathrm { s t a t . } } \\pm 0 . 0 5 6 _ { \\mathrm { s y s . } } )$ ）nb quoted from Ref.[18] into Eq.(3),we obtain the branching fraction for each decay,as listed in Table 2,where the uncertainties are statistical only. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5. Systematic uncertainty ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 3 shows the systematic uncertainties in the branching fraction measurements. Each of them,estimated relative to the measured branching fraction,is discussed below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "·MC statistics:The uncertainties due to the limited MC statistics are $0 . 5 \\%$ $0 . 4 \\%$ 5 $1 . 8 \\%$ and $1 . 3 \\%$ for （20 $D ^ { + } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } ^ { + }$ ， $D ^ { + } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } \\pi ^ { + }$ ， $D ^ { 0 } $ $K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ and $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ , respectively. · Luminosity of data: The uncertainty in the quoted integrated luminosity of data is $0 . 5 \\%$ [11]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6920d4d656104f059e518cd7a6ef99bbbe03918f21d845ce7a5c152fc1b4c3d7.jpg",
+        "table_caption": [
+            "TABL:Iputtidultsfteatioftagfracbdetcetatily "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Decay modes</td><td>Nkgsig</td><td>Nsb1</td><td></td><td>Nsb2</td><td>Nsb3</td><td>Nother</td><td>Nnet</td><td>∈(%)</td><td>B(×10-4)</td></tr><tr><td>D+→KgKK+</td><td></td><td>3616 ± 66</td><td>97±19</td><td>6±8</td><td></td><td>18±2</td><td>3551 ± 67</td><td>8.27 ± 0.04</td><td>25.4±0.5</td></tr><tr><td>D+→KgKπ+</td><td>5643± 88</td><td>1464 ± 68</td><td></td><td>69 ±19</td><td>1 1</td><td>31±3</td><td>4897 ± 94</td><td>10.72 ±0.04</td><td>27.0 ± 0.5</td></tr><tr><td>D→KgK</td><td></td><td>888 ±36</td><td>626 ± 31</td><td>3±6</td><td>1</td><td>0</td><td>576±39</td><td>16.28 ±0.30</td><td>1.67 ± 0.11</td></tr><tr><td>D→KgKK</td><td>622 ± 27</td><td>24±8</td><td></td><td>14±6</td><td>0</td><td>16±3</td><td>597±27</td><td>3.92 ± 0.05</td><td>7.21 ± 0.33</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "· $D \\bar { D }$ cross section:The uncertainties of the quoted $D ^ { + } D ^ { - }$ and $D ^ { 0 } \\bar { D } ^ { 0 }$ cross sections are $1 . 6 \\%$ [18]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "： $B ( K _ { S } ^ { 0 } \\to \\pi ^ { + } \\pi ^ { - } )$ : The uncertainty of the quoted branching fraction for $K _ { S } ^ { 0 }  \\pi ^ { + } \\pi ^ { - }$ is $0 . 1 \\%$ [1]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$K _ { S } ^ { 0 }$ reconstruction: The $K _ { S } ^ { 0 }$ reconstruction efficiency has been studied as a function of momentum by using the control samples $J / \\psi \\ \\to$ $K ^ { * } ( 8 9 2 ) ^ { \\mp } K ^ { \\pm }$ and $J / \\psi \\to \\phi K _ { S } ^ { 0 } K ^ { \\pm } \\pi ^ { \\mp }$ . Small data-MC efficiency differences are found and pre sented in Ref. [26]． To correct the $K _ { S } ^ { 0 }$ reconstruction efficiency,a piecewise fit to these differences as a function of $K _ { S } ^ { 0 }$ momentum is performed. For the efficiencies of detecting the decays $D ^ { + } ~ \\to ~ K _ { S } ^ { 0 } K _ { S } ^ { 0 } K ^ { + }$ ， $D ^ { + } \\ \\to \\ K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ and $D ^ { 0 } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 }$ ,the momentum weighted differences associated with $K _ { S } ^ { 0 }$ reconstruction between data and MC are determined to be $( + 3 . 9 \\pm 1 . 9 ) \\%$ ， $( + 3 . 0 \\pm 1 . 4 ) \\%$ $( + 1 . 8 \\pm 0 . 8 ) \\%$ and $( + 5 . 9 \\pm 2 . 8 ) \\%$ ,respectively, where the uncertainties are statistical. These corrections are applied to the detection efficiencies, afterwhich onlythe statisticaluncertainties ofthe differences are retained. On average, the residual uncertainty for each $K _ { S } ^ { 0 }$ is no more than $1 . 0 \\%$ Furthermore,the difference of the momentumweighted efficienciesbetweendataandMC from the different fits,which is $1 . 0 \\%$ per $K _ { S } ^ { 0 }$ ，isincluded as an additional uncertainty. Finally,we assign $1 . 5 \\%$ per $K _ { S } ^ { 0 }$ as the systematic uncertainty for the reconstruction efficiency . ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "·Tracking [PID] for $K ^ { + } ( \\pi ^ { + } )$ : The tracking [PID] efficiencies for $K ^ { + }$ and $\\pi ^ { + }$ are investigated using doubly tagged $D \\bar { D }$ hadronic events. The difference of momentum weighted efficiencies between data and MC of the tracking [PID] are determined to be $( + 2 . 1 \\pm 0 . 4 ) \\%$ $[ ( - 0 . 3 \\pm 0 . 1 ) \\% ]$ for the $K ^ { + }$ in the $D ^ { + } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } ^ { + }$ decay and $( + 0 . 4 \\pm 0 . 3 ) \\%$ $[ ( - 0 . 3 \\pm 0 . 1 ) \\% ]$ for the $\\pi ^ { + }$ in the $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ decay, where the uncertainties are statistical. After correcting the detection efficiencies by these differences,we take $0 . 5 \\%$ $[ 0 . 5 \\% ]$ as the systematic uncertainties in tracking [PID] for the $K ^ { + }$ and $\\pi ^ { + }$ , respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "： $M _ { \\mathrm { B C } }$ fit: In order to estimate the systematic uncertainty associated with the $M _ { \\mathrm { B C } }$ fit,we repeat the measurements by varying the fit range $( ( 1 . 8 4 1 5 , 1 . 8 8 6 5 ) \\ \\mathrm { G e V } / c ^ { 2 } )$ ，signal shape(with different MC matching requirements） and endpoint of the ARGUS function $( \\pm 0 . 2 ~ \\mathrm { M e V } / c ^ { 2 } )$ ： Quadratically summing the changes of the branching fractions yields $2 . 1 \\% , 1 . 0 \\% , 4 . 2 \\%$ and $2 . 7 \\%$ for $D ^ { + } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } ^ { + }$ ， $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ and $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ , which are assigned as the relevant systematic uncertainties. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "· $\\Delta E$ requirement: To investigate the systematic uncertainty associated with the $\\Delta E$ requirement, we repeat the measurements using alternative $\\Delta E$ requirements of $\\pm ( 4 , 5 , 6 )$ times the resolution around the $\\Delta E$ peaks. The maximum changes of the branching fractions, $2 . 0 \\%$ $1 . 5 \\%$ $2 . 0 \\%$ and $1 . 5 \\%$ for $D ^ { + } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } ^ { + }$ ， $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ and $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ , are taken as the associated systematic uncertainties. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "· Normalization of peaking backgrounds: In the nominal analysis,the normalization factor for the peaking backgrounds,which is the ratio of background yields between the $K _ { S } ^ { 0 }$ signal and sideband regions,has been assumedto be O.5.The branching fractions are recalculated with alternative normalization factors determined by MC simulation. The corresponding changes on the branching fractions, $0 . 5 \\%$ ， $1 . 4 \\%$ ， $2 . 4 \\%$ and $0 . 7 \\%$ for $D ^ { + } \\ \\to \\ K _ { S } ^ { 0 } K _ { S } ^ { 0 } K ^ { + }$ ， $D ^ { + } \\ \\to \\ K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ （20 $D ^ { 0 } \\ \\to \\ K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ and $D ^ { 0 } \\ \\to \\ K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ ,are assigned as the systematic uncertainties associated with the peaking background (PBKG) normalization. On the other hand,the uncertainties of the residual peaking backgrounds are dominated by the uncertainties of the input branching fractions for $D ^ { - } ( \\bar { D } ^ { 0 } ) \\to K _ { S } ^ { 0 } X$ ,which contribute additional uncertainties of $0 . 1 \\%$ $0 . 1 \\%$ and $0 . 4 \\%$ for the measured branching fractions for ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } K ^ { + }$ ， $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ and $D ^ { 0 } $ $K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ , respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "： $K _ { S } ^ { 0 }$ sideband: To evaluate the systematic uncertainty due to the choice of $K _ { S } ^ { 0 }$ sideband region, we remeasure the branching fractions after shifting the $K _ { S } ^ { 0 }$ sideband by $\\pm 2 \\ \\mathrm { M e V } / c ^ { 2 }$ . The corresponding maximum changes in the branching fraction,which are $0 . 5 \\%$ ， $0 . 5 \\%$ ， $2 . 0 \\%$ and $1 . 0 \\%$ for $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } K ^ { + }$ $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ $D ^ { 0 } $ $K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ and $D ^ { 0 } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 }$ , respectively, are taken as the systematic uncertainties. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "·MC modeling:For the three-body decays,we examine the reweighted detection efficiencies by in cluding the possible sub-resonances $a _ { 0 } ( 9 8 0 )$ and $f _ { 0 } ( 9 8 0 )$ in the signal MC samples. The maximum change of the reweighted detection efficiencies, $1 . 0 \\%$ ,is taken as the systematic uncertainty in MC modeling. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Adding all of above systematic uncertainties in quadrature,we obtain the total systematic uncertainties of $4 . 7 \\%$ $4 . 4 \\%$ ， $6 . 8 \\%$ and $6 . 1 \\%$ for $D ^ { + } \\to { \\cal K } _ { S } ^ { 0 } { \\cal K } _ { S } ^ { 0 } { \\cal K } ^ { + }$ $\\begin{array} { r l r } { D ^ { + } } & { { } \\to } & { K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + } } \\end{array}$ ， $D ^ { 0 } \\quad \\to \\quad K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ and $\\begin{array} { r l } { D ^ { 0 } } & { { } \\to } \\end{array}$ $K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ , respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6. Summary ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In summary,by analyzing $2 . 9 3 ~ \\mathrm { f b ^ { - 1 } }$ of data collected at $\\sqrt { s } = 3 . 7 7 3 \\mathrm { G e V }$ with the BESIII detector,we measure the branching fractions for the hadronic decays $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } K ^ { + }$ ， $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ and $D ^ { 0 } \\ {  } \\ \\tilde { K _ { S } ^ { 0 } } K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ using a singletag method.Table 4 presents the comparisons of the measured branching fractions with the PDG values [1]. The branching fraction for $D ^ { + } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + }$ is measured for the first time and the others are consistent with previous measurements,but with much improved precision. We also determine the branching fraction ratios $B ( D ^ { + } \\ \\to \\ K _ { S } ^ { 0 } K _ { S } ^ { 0 } K ^ { + } ) / B ( D ^ { + } \\ \\to$ $K _ { S } ^ { 0 } K _ { S } ^ { 0 } \\pi ^ { + } ) ~ = ~ 0 . 9 4 1 \\pm 0 . 0 2 5 \\mathrm { s t a t . } \\pm 0 . 0 4 0 \\mathrm { s y s } .$ and （204号 $\\tilde { B ( D ^ { 0 }  K _ { S } ^ { 0 } K _ { S } ^ { 0 } ) } / \\mathcal { B } ( D ^ { 0 }  K _ { S } ^ { 0 } K _ { S } ^ { 0 } K _ { S } ^ { 0 } ) = \\bar { 0 . 2 3 2 } \\pm$ $0 . 0 1 9 _ { \\mathrm { s t a t . } } \\pm 0 . 0 1 6 _ { \\mathrm { s y s . } }$ , in which the systematic uncertainties in the $D ^ { + } D ^ { - }$ (or $D ^ { 0 } \\bar { D } ^ { 0 }$ ） cross section, the integrated luminosity of data,as well as the reconstruction efficiencies and the branching fractions of the two $K _ { S } ^ { 0 }$ mesons cancel. The results in this analysis provide helpful experimental data to probe for the interplay between the weak and strong interactions in charmed meson decay[2,3,4,5]. In addition,the measured branching fraction for the two-body decay $D ^ { 0 } \\to K _ { S } ^ { 0 } K _ { S } ^ { 0 }$ can also help to understand SU(3)-flavor symmetry breaking effects in $D$ meson decays [6, 7, 8, 9, 10]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7．Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The BESIIIcollaboration thanks the staffofBEPCII and the IHEP computing center for their strong support.This work is supported in part by National Key Basic Research Program of China under Contract Nos. 2009CB825204 and 2015CB856700；National Natural Science Foundation of China (NSFC) under Contracts Nos. 10935007,11235011,11305180, 11322544，11335008，11425524，11475123；the Chinese Academy of Sciences (CAS) Large-Scale Scientific Facility Program; the CAS Center for Excellence in Particle Physics (CCEPP)；the Collaborative Innovation Center for Particles and Interactions (CICPI); JointLarge-Scale Scientific Facility Funds of the NSFC and CAS under Contracts Nos.U1232201,U1332201, U1532101，U1532257，U1532258；CAS under Contracts Nos. KJCX2-YW-N29,KJCX2-YW-N45;100 Talents Program of CAS;National 1OOO Talents Program of China; INPAC and Shanghai Key Laboratory for Particle Physics and Cosmology;German Research Foundation DFG under Contracts Nos. Collaborative Research Center CRC1044,FOR 2359; Istituto Nazionale di Fisica Nucleare,Italy；Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) under Contract No． 530-4CDP03；Ministry of Development of Turkey under Contract No.DPT2006K-120470; The Swedish Research Council; U. S. Department of Energy under Contracts Nos.DE-FG02-05ER41374,DE-SC0010504，DE-SC0012069，DESC0010118；U.S.National Science Foundation； University of Groningen $( \\mathrm { R u G } )$ and the Helmholtzzentrum fuer Schwerionenforschung GmbH(GSI),Darmstadt; WCU Program of National Research Foundation of Korea under Contract No.R32-2008-000-10155-0. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]C.Patrignani et al.(Particle Data Group),Chin.Phys.C 40, 100001 (2016).   \n[2]X.Y.Pham et al.,Phys.Lett.B 193,331 (1987).   \n[3]R.E.Karlsen and M.D. Scadron et al.,Phys.Rev.D 45,4113 (1992).   \n[4]Y.S.Dai et al.,Phys.Rev.D60,014014(1999).   \n[5]J. O.Eeg et al.,Phys.Rev.D 64,034010 (2001).   \n[6]W.Kwong and S.P.Rosen,Phys.Lett.B 298,413 (1993).   \n[7]H.N.Li et al.,Phys.Rev.D 86,036012(2012).   \n[8]Y.Grossman and D.J.Robinson, JHEP1304,67 (2013).   \n[9]S.Muller et al.,Phys.Rev.D92,014004 (2015).   \n10]A.Biswaset al.,Phys.Rev.D92,014032(2015).   \n[11]M.Ablikim et al.(BESII Collaboration),Chin.Phys.C 37, 123001 (2013); Phys.Lett.B 753,629 (2016).   \n[12]M.Ablikim et al.(BESIII Collaboration),Nucl.Instrum.Meth. A 614,345 (2010).   \n[13]H. Albrecht et al.(ARGUS Collaboration),Z.Phys.C 46,9 (1990).   \n[14]H.Albrecht et al.(ARGUS Collaboration),Z.Phys.C 64,375 (1994).   \n[15]R.Ammar et al.(CLEO Collaboration),Phys.Rev.D 44,3383 (1991).   \n[16]D.M.Asner et al.(CLEO Collaboration),Phys.Rev.D54,4211 (1996).   \n[17]J.M.Link et al.(FOCUS Collaboration),Phys.Lett.B 607,59 (2005).   \n[18]G.Bonvicini et al.(CLEO Collaboration),Phys.Rev.D 89, 072002 (2014).   \n[19] S.Agostinelli et al.(GEANT4 Collaboration),Nucl. Instrum. Meth.A 506,250 (2003).   \n[20]S.Jadach,B.F.L.Ward and Z.Was,Comp.Phys.Commu.130, 260 (2000); Phys.Rev.D 63,113009 (2001).   \n[21]E.A.Kureav and V.S.Fadin, Sov.J.Nucl.Phys.41,466(1985), Yad. Fiz. 41, 733 (1985).   \n[22]E.Richter-Was,Phys.Lett.B 303,63 (1993).   \n[23]D.J.Lange,Nucl.Instrum.Meth.A 462,152 (2001);R.G. Ping,Chin.Phys.C32,599 (2008).   \n[24]J.C.Chen et al.,Phys.Rev.D62,034003 (2000).   \n[25]H.Albrecht et al.(ARGUS Collaboration),Phys.Lett.B 241, 278 (1990).   \n[26]M.Ablikim et al. (BESIII Collaboration),Phys.Rev.D 92, 112008 (2015). ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/381663327b693c0ff3daef85371c90f99321c394c93631f17ea609a4e8376ebe.jpg",
+        "table_caption": [
+            "TABLE3:Systematic uncertainties $( \\% )$ in the branching fraction measurements. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sources</td><td>D+→KKK+</td><td>D→KgKgπ+</td><td>D°→KgKg</td><td>D°→KgKgKg</td></tr><tr><td>MC statistics</td><td>0.5</td><td>0.4</td><td>1.8</td><td>1.3</td></tr><tr><td>Luminosity of data</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td></tr><tr><td>DD cross section</td><td>1.6</td><td>1.6</td><td>1.6</td><td>1.6</td></tr><tr><td>B(Kg→π+π−)</td><td>0.2</td><td>0.2</td><td>0.2</td><td>0.3</td></tr><tr><td>K reconstruction</td><td>3.0</td><td>3.0</td><td>3.0</td><td>4.5</td></tr><tr><td>Tracking for K+(π+)</td><td>0.5</td><td>0.5</td><td>1</td><td>1</td></tr><tr><td>PID for K+(π+)</td><td>0.5</td><td>0.5</td><td>1</td><td>1</td></tr><tr><td>MBc fit</td><td>2.1</td><td>1.0</td><td>4.2</td><td>2.7</td></tr><tr><td>△E requirement</td><td>2.0</td><td>1.5</td><td>2.0</td><td>1.5</td></tr><tr><td>PBKG normalization</td><td>0.5</td><td>1.4</td><td>2.4</td><td>0.8</td></tr><tr><td>Kg sideband</td><td>0.5</td><td>0.5</td><td>2.0</td><td>1.0</td></tr><tr><td>MC modeling</td><td>1.0</td><td>1.0</td><td>二</td><td>1.0</td></tr><tr><td>Total</td><td>4.7</td><td>4.4</td><td>6.8</td><td>6.1</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/27d2b05c87dd2257e4796963052c8c5152260060a5dde0cb37e302553473c310.jpg",
+        "table_caption": [
+            "TABLE 4: Comparisons of the branching fractions $( \\mathrm { i n ~ 1 0 ^ { - 4 } } ) ,$ measured in this work with the PDG values [1]. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Decaymodes</td><td>Thiswork</td><td>PDG</td></tr><tr><td>D→KKgK+</td><td>25.4 ±0.5 ±1.2</td><td>45 ±20</td></tr><tr><td></td><td></td><td></td></tr><tr><td>D→+</td><td>27.0 ±0.11 ± 0.21</td><td>1.7 ± 0.4</td></tr><tr><td>D°→KKgK</td><td>7.21 ± 0.33 ± 0.44</td><td>9.1 ± 1.3</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,103 @@
+# 氧化石墨烯荧光性能在生物医学领域的应用
+
+肖欢 宁宗\*(广西医科大学 南宁 530021)
+
+摘要石墨烯（graphene）作为一种新兴产物在生物医学领域的应用越来越广阔，氧化石墨烯（graphene oxide，G0)作为石墨烯的重要衍生物之一，得益于其异源的电学结构，因而在一定波长范围内可以产生荧光。正是这一性能使得G0 在生物医学领域有着巨大的潜力，本文主要介绍了近年来G0的荧光性能在分子检测、疾病诊断、细胞成像等方面的应用，并展望了其发展前景。
+
+关键词 氧化石墨烯 荧光性能 分子检测 疾病诊断 细胞成像
+
+# 引言
+
+2004年，英国曼彻斯特大学Geim等[采用微机械力处理石墨，从层状石墨中成功剥离出单原子层石墨—一一石墨烯，因此引起了对石墨烯的研究热潮，石墨烯的发现者安德烈·海姆和康斯坦丁·诺沃肖洛夫获得了2010 年诺贝尔物理学奖。石墨烯（Graphene)具有碳六元环构成的二维周期蜂窝状点阵构造，只有单层原子的厚度，它是目前世界上最薄并且最坚硬的二维纳米材料，其厚度仅为$0 . 3 3 5 \ \mathrm { n m } ^ { [ 2 ] }$ 。石墨烯具有优良的光学、力学、热学及化学性能，在生物医学各方面具有良好的应用前景[3-5]。化学衍生的GO(graphene oxide，GO)分子结构中既有 sp²碳原子又有 sp碳原子，其表面的含氧功能基团(羧基，环氧基，羟基)有利于GO分散到各类溶剂中，便于和其他物质进一步反应，并且使其在生物医学领域中的应用更为广泛[6-10]。其次，G0 因其巨大的比表面积可以吸附不同的荧光分子，可以应用于生物检测和疾病诊断[11]。第三，其固有的光学性质使GO 能实现活体细胞的生物成像[12-14]。G0 的蜂窝状平面共轭结构，活泼的含氧官能团，良好的生物相容性以及巨大的比表面积使其在生物医学方面的应用有着独特的优势，并且与其它纳米材料相比，GO的制备成本不高，这些都有利于GO在临床上的应用。本文将介绍GO的荧光性能在生物传感、疾病诊断、生物细胞成像等方面的研究进展。1
+
+# 1G0的荧光性能概述
+
+利用GO的荧光特性和淬灭荧光特性能够构建荧光传感器，然而在传感过程中，G0经常作为受体进行荧光淬灭而非产生荧光[15-18]。其表面的大量共轭 sp2结构使之易与荧光分子发生反应，使荧光分子的荧光减弱。近年来，一系列基于GO0 荧光淬灭特性的传感器成为研究热潮[19-21]。荧光共振能量转移(FRET)效应实际上是荧光的再吸收过程，当两个不同的荧光分子之间的其中一个荧光分子（供体）的发射光谱与另一个荧光分子（受体）的吸收光谱有部分重叠且相隔很近（一般小于 $1 0 \ \mathrm { n m }$ ）时，供体通过偶极子相互作用将能量转移到邻近的受体分子，从而使供体荧光减弱而受体荧光比单独存在时加强。GO与荧光分子的FRET 由受体距离(d)的负六次方决定远远强于传统的荧光共振能量转移速度，这使GO具有更高的淬灭效率。GO自身具有荧光性质，但发光很微弱，因此GO利用自身的光致发光特性在生物医学方面的应用不多。在基于石墨烯氧化物的荧光共振能量转移（FRET）生物传感器中，GO既可以作为供体，又可作为受体。GO自身具有荧光性质，通过一定的功能化后，其光学性能优化，可产生更强的荧光信号而作为荧光供体。对于细胞成像和生物检测来说，低毒性，好的生物相容性，高亮度的荧光材料的制备能为生物医学的发展创造良好的条件。有研究者22]将GO进行酰氯化反应，再共价连接上不同的烷基胺，利用烷基胺的修饰来减少含氧基团造成的电子空穴对的非辐射复合，可以将发光较微弱的GO 转变为具有高量子产率的发光更强的GO，可以达到 $1 3 \%$ 的量子产率，量子产率提高了约640倍，再根据荧光共振能量转移原理，设计与荧光GO光谱匹配的金属纳米颗粒，实现关闭GO荧光的目的。这为基于GO作为荧光供体用于生物医学提供了新方法。近年来，石墨烯及其衍生物已成为研究的热点，GO的荧光性能也在生物传感器、疾病检测、细胞成像等领域发挥越来越重要的作用。
+
+![](images/42be9090d89c311052120192d5ffc6e786b515eedf108aa04a095b1147d775e9.jpg)  
+表一GO荧光性能在生物医学领域应用概图
+
+# 2G0荧光性能用于分子检测
+
+2.1检测 DNA
+
+GO 表面是六元环结构，对包含六元环构造的DNA碱基有非常强的吸附作用，然而GO对不同分子结构的DNA，其结合能力也有很大差异，例如：单链DNA(ssDNA)与GO之间的结合能力远比双链DNA(dsDNA)强烈，通过此种差别和其良好的荧光淬灭能力，石墨烯氧化物在生物传感以及分子检测方面有越来越广泛的应用[23]。G0 与单链 DNA探针（用荧光材料标记）间发生强烈的非共价键吸附作用，通过FRET作用，GO和荧光材料之间发生能量转移而淬灭荧光。目标DNA通过和DNA 探针杂交形成双链DNA分子而使荧光材料与GO分离，通过荧光从淬灭到恢复这种变化检测目标 DNA。2010 年，Lu等人[24]利用GO 的荧光淬灭作用制备了一种新型的荧光分子信标传感器，并用它检测 DNA序列。在此基础上，He 等[2根据荧光发射波长的不同设计出三种不一样的荧光探针用来同一时间检测三种目标 DNA，从而实现了基于GO对多种DNA特定序列的混合检测，这种检测方法具有更加好的灵敏度，还大大减少了检测 DNA 的时间。Zhao等〔26]发现GO 对长链DNA 比短链DNA 亲和力更好。在此基础上，几种GO-DNA 荧光传感器相继被研究出来[27.28]。Fan 等[29]研发出的GO-DNA 传感器能够降低分子信标传感器的荧光背景，增强荧光分子信号，提高了检测目标DNA的灵敏度。Zhang 等[3研发的石墨烯传感器可以免标记检测特定DNA序列。Pang等人l3用GO作为淬灭基团、ssDNA探针（用荧光材料标记）检测金黄色葡萄球菌的特征DNA序列实验中，利用GO对 ssDNA和dsDNA吸附能力不同，通过荧光强度的变化从而检测目标DNA。DNA（脱氧核糖核酸）为染色体主要构成部分，也是主要遗传物质，对DNA的定性、定量检测，对于临床疾病的研究，生物医学检验具有重要意义。
+
+# 2.2检测蛋白质、酶类
+
+蛋白质是生物体的基本组成成分，可与DNA共同组成染色体，与所有的生命活动紧密联系，在机体的新陈代谢，免疫功能，遗传信息的控制等方面有着重要作用。在基于GO 检测蛋白质和酶类的荧光传感器中，研究者主要利用GO 良好的荧光淬灭性能，并且进一步结合相关的化学反应来监测目标蛋白和酶含量[32]。He等人[33利用GO作为平台，建立了一种基于小分子链 DNA末端保护的荧光蛋白检测方法，该设计结果在荧光增强检测中对目标蛋白敏感且有选择性，检出限为0.77ng/mL，进一步提高了灵敏度，该方法可以检测实际样品中的血清浓度。此外，Lin 等[34提出了一种新型生物传感器，使用基于荧光共振能量转移（FRET）的芘共轭麦芽糖组装石墨烯均匀检测刀豆蛋白A（ConA)，在ConA的存在下，ConA与葡萄糖的竞争性结合破坏了芘和石墨烯之间的 $\pi$ 堆叠相互作用，从而荧光恢复。该方法线性范围为 $2 . 0 \times 1 0 ^ { - 2 }$ 至 $1 . 0 \mu \mathrm { M }$ ，检出限低至 $0 . 8 ~ \mathrm { n M }$ ，可在5min内进行，该方法可用于ConA的快速，灵敏和选择性检测，进一步表明石墨烯FRET平台在蛋白质-碳水化合物研究中有巨大潜力，将广泛应用于药物筛选，双分子识别和疾病诊断。Chang 等[35研制出一种基于荧光共振能量转移（FRET）的适配体传感器用于凝血酶检测，由于标记荧光染料的适配体与石墨烯之间的非共价组装，染料的荧光淬灭，凝血酶添加后使染料远离石墨烯表面，形成四聚体-凝血酶复合物，荧光恢复，此方法可获得低达 $3 1 . 3 \mathrm { p M }$ 的检测限，其比基于碳纳米管的荧光传感器的两个数量级低，在缓冲液和血清中均表现出极高的灵敏度和极好的特异性。结合GO 和生物分子识别单元检测蛋白质和酶类在临床诊断中具有广阔的前景，对其测定有利于进一步探索生物遗传和疾病机制，但其发展尚未成熟，需要更多的努力。
+
+# 2.3检测其它生物分子
+
+在生物体内存在着各种各样的分子，它们具有不同的生物学效应。由于荧光分子与GO间的FRET效应，可以研制出基于GO吸附和脱附作用的荧光传感器用来检测ATP、葡萄糖、生物素等生物分子。利用GO独特的吸附与淬灭性能，Zhu等人[3]基于ATP 依赖性酶反应和GO 以及DNA 结构之间的不同吸附亲和力，研制了一种简单方便、无扩增、灵敏度较高以及选择性较好的荧光生物传感器检测ATP。葡萄糖是生命活动中不可缺少的物质，它在人体内能直接参与新陈代谢过程，血糖也是糖尿病人最重要的诊断标准，因此对其快速灵敏的检测具有重要意义。Zhang 等人[3提出了一个用荧光增强方法来检测葡萄含量的GO/DNA 复合体系。体系中如果存在葡萄糖，那么葡萄糖就会被 $\operatorname { G O X }$ 特异性地氧化催化，产生的·OH会不可逆的破坏分解羧基荧光素FAM修饰的长链ssDNA，最后释放出短的FAM-ssDNA碎片。由于GO与短FAM连接的DNA片段之间的弱相互作用，通过添加葡萄糖可以恢复DNA荧光。因GO的优异的荧光淬灭效率和葡萄糖氧化酶的特异性催化，该方法灵敏度和选择性极高，并已成功用于血清中葡萄糖的分析，其线性范围为 $0 . 5 { \sim } 1 0 \ \mathrm { { \textmu } \ m o l / L }$ ，葡萄糖检测限为 $0 . \mathrm { ~ 1 ~ \textmu ~ m o l / L }$ 。生物素 (维生素 H)是一种水溶性维生素，可作为羧化酶，脱羧酶和羧酶转换酶的辅酶[38]，因而在生物体内的新陈代谢和生化过程中扮演着重要的角色[39]。Mock 等人[40]报导了孕妇在妊娠早期会经常缺乏生物素。由于生物素对人类健康有显著影响，所以需要灵敏且快速地检测其含量。Zhang 等人[4设计了一种基于GO与 DNA之间的强相互作用以及生物素与链酶亲合素特异性相互作用的新型荧光感测系统检测生物素，检测限为0.44nmol/L，并将此方式将所提出的荧光感应系统应用于某些实际样品中生物素的测定，这项工作可以提供一个常见的基于蛋白质-小分子配体结合检测小生物分子的共同平台。
+
+以上都是GO作为FRET受体在荧光生物传感器方面的应用，自身具有荧光性能的GO还可以扮演能量供体的角色。Chen等[42报告了的基于GO的光诱导电荷转移（PCT）无标记的荧光生物传感器用于多巴胺（DA）检测，GO和DA之间的多重非共价相互作用以及GO的近红外荧光超快衰减导致DA分子在GO表面上的有效自组装，并且产生显著的荧光淬灭，从而开发出基于PCT的生物传感器，直接读出GO的近红外荧光，用于DA的选择性和灵敏检测，该检测限为94nM，相对标准偏差为 $2 . 0 \%$ ，成功应用于定量回收（ $98 \% 1 1 5 \% )$ ，生物液体中DA 的测定。虽然GO的超荧光淬灭能力已经被广泛用于开发荧光传感器，但是它们自己独特的荧光及其对化学/生物传感的潜力有待进一步研究。相对于传统的传感器，GO可大规模低成本制备，探针无需标记淬灭基团。这类传感器主要利用GO对单链DNA 的吸附比双链DNA强烈，通过供体与受体间的能量转移产生的荧光强弱变化检测各种生物分子。GO 是近年来的新兴产物，其荧光性能在生物医学检测方面需要更多的探索和完善。
+
+# 3G0荧光性能用于临床疾病诊断
+
+GO 的荧光性能有助于临床疾病诊断，Yue 等[43]将Cy5与G0片结合，荧光在正常情况下由于其与GO 的接近而被淬灭，但在到达肿瘤部位时点燃。体外和体内研究均证明该探针具有巨大的肿瘤诊断潜力，由此设计出一种新型的探针检测肿瘤组织。同样地，基于叶酸受体（FR）在许多人类癌细胞表面表达的高亲和力，Feng 等4通过将叶酸（FA）和罗丹明B（RB）通过二硫键共价连接到GO上来对FR 阳性细胞进行靶向成像，开发了一种荧光纳米探针，此方法不仅可以产生高信号/背景比，而且能够避免由非特异性吸附引起的假阳性结果。Gao等[45]用GO-多壁碳纳米管水溶液与HAu Cl4反应，制得Au NPs／GO-MWCNTs，再修饰到玻碳电极上，制出一种α-甲胎蛋白电化学免疫传感器，其检测限为0.003ng/mL，能精确测量血清中肝癌细胞的特异性肿瘤标志物一α-甲胎蛋白，其选择性良好、制作方法简单，在肝癌的临床诊断中有重要的应用价值。此外，Gu等4利用羧基化GO 修饰的光寻址电位传感器（LAPS）检测前列腺癌的循环肿瘤细胞（CTCs），1ml血中能检测到10个循环肿瘤细胞，该方法具有很高的特异度和灵敏度。近年来，基于GO 良好的水溶性、较好的生物相容性与荧光性能、易于表面功能化等特质，GO被成功应用于一系列细菌、癌细胞及疾病蛋白的检测。但GO容易聚集，稳定性还有待提高，因此有必要联合其它技术，融合其它学科，对GO进行表面修饰，制备更高质量的GO。
+
+# 4G0荧光性用于生物细胞成像
+
+石墨烯和GO的光学性质可以促进生物和医学研究，如成像方面。2008 年，Sun 等人[47合成并探索了纳米GO（NGO）的生物学应用，即单层GO片，横向宽度低至几纳米，获得尺寸分离的可溶于缓冲液和血清而没有凝聚的聚乙二醇化的非羟基化合物片，发现 NGO 片在可见光和红外区域是发光的，并且NGO 的固有光致发光（PL）可用于近红外（NIR）（激发光： $6 5 8 \mathrm { n m }$ ，发射光： $1 1 0 0 { \sim } 2 2 0 0 \mathrm { n m } )$ 的活细胞成像，背景干扰很小。最近，Li等人48又报道了石墨烯氧化物纳米颗粒可作为双光子发光成像和细胞治疗的光学探针，利用转铁蛋白和聚乙二醇（PEG)共同修饰GO，并将其作为探针，实现了离体细胞的双光子荧光成像。此外，研究人员[49发现将光敏剂加载到纳米石墨烯可用于多模态成像引导肿瘤光动力疗法，通过超分子π－π堆叠将光敏剂分子（HPPH）加载到聚乙二醇（PEG）官能化的GO（GO）上。得到的GO-PEG-HPPH复合物显示出高的 HPPH负载效率。在（64）Cu放射性标记HPPH后，通过荧光成像以及正电子发射断层扫描（PET）进一步跟踪其在体内的分布和传递。GO 相比于其他的荧光材料，有较稳定的光学特性、在水中的溶解度较好、生物相容性较好、易于表面功能化、便于细胞黏附等优势，这些特质为GO在活体细胞成像奠定了良好的基础。
+
+# 5结论与展望
+
+GO 不仅细胞毒性较低、生物相容性较好而且具有荧光性能，因而在生物医学方面应用广阔，也吸引了越来越多的科研工作者对其性能的研究，本文综述了GO 的荧光性能在生物传感器、生物分子检测、疾病检测及细胞成像等的研究的最新进展，以便能够快速准确的掌握GO的荧光性能在生物医学领域研究的最新动向。GO作为一种新兴的石墨烯衍生物，对其荧光性能的研究刚刚起步，仍有许多问题亟待解决，比如：GO 与细胞及细胞器之间的相互作用，GO 在体内的毒性及代谢机制尚未有确切的答案。其次，需要制备具有合适尺寸的石墨烯片，各种长度尺度上的尺寸控制或尺寸分离对于体外或体内是必要的。GO是良好的荧光淬灭平台，但其自身发光性能微弱，因此需合成和发展更加理想的功能化GO复合材料。石墨烯和GO的生物应用在很大程度上尚未被探索，制备生物相容性更好，并能在生物体内自行降解的GO成为研究热潮，其荧光性能方面的潜力有待研究者进一步发掘。
+
+# 参考文献
+
+[1]Novoselov KS,Geim AK,Morozov SV,Jiang D,Zhang Y, Dubonos SV,etal.Electric field effect in atomically thin carbon films. Science (New York, NY). 2004;306(5696):666-9.   
+[2]Geim AK, Novoselov KS. The rise of graphene. Nature materials.2O07;6(3):183-91.   
+[3]Joe DJ,Hwang J, Johnson C,Cha HY, Lee JW,Shen X,et al. Surface Functionalized Graphene Biosensor on Sapphire for Cancer Cell Detection.JNanosci Nanotechnol. 2O16;16(1):144-51.   
+[4]Gong P, Zhao Q, Dai D, Zhang S, Tian Z, Sun L，et al. Functionalized Ultrasmall Fluorinated Graphene with High NIR Absorbance for Controled Delivery of Mixed Anticancer Drugs. Chemistry (Weinheim an der Bergstrasse, Germany).2017.   
+[5]焦洋，刘恒，塔拉提百克·买买提居马，曹永平．石墨烯及其衍生物在骨科的应用．中国生物 工程杂志.2017(08):78-83.   
+JIAO Yang LIU Heng Talatibaike·Maimaitijuma CAO Yong-ping, et al.The Application of Graphene and Derivatives in Orthopedics. China Biotechnology，2017，37(8) :78-83   
+[6]Shi J,Guo J,Bai G,Chan C, Liu X,Ye W,et al. A graphene oxide based fluorescence resonance energy transfer (FRET) biosensor for ultrasensitive detection of botulinum neurotoxin A (BoNT/A) enzymatic activity. Biosens Bioelectron.2015;65:238-44.   
+[7]Rana VK,Choi M-C, Kong J-Y, KimGY, Kim MJ, Kim S-H,etal.Synthesis and Drug-DeliveryBehavior of Chitosan-Functionalized Graphene Oxide Hybrid Nanosheets. Macromolecular Materials and Engineering.2011;296(2):131-40.   
+[8]Loh KP, Bao Q, Eda G, Chhowalla M.Graphene oxide as a chemicaly tunable platform for optical applications. Nature chemistry. 2010;2(12):1015-24.   
+[9]Huang X，Qi X， Boey F， Zhang H. Graphene-based composites. Chemical Society reviews. 2012;41(2):666-86.   
+[10] Cui Y, Kim SN, Naik RR,McAlpine MC. Biomimetic peptide nanosensors. Accounts of chemical research.2012;45(5):696-704.   
+[11] Xiang X, Han L, Zhang Z, Huang F. Graphene oxide-based fluorescent sensor for sensitive turn-on detection of sinapine. Spectrochimica acta Part A，Molecular and biomolecular spectroscopy. 2017;174:75-9.   
+[12] Li ZJ, Li C, Zheng MG,Pan JD,Zhang LM, Deng YF. Functionalized nano-graphene oxide particles for targeted fluorescence imaging and photothermy of glioma U251 cels. International journal of clinical and experimental medicine. 2015;8(2):1844-52.   
+[13] Mao X, Liu T, Bi J,LuoL, Tian D,Li H.The synthesis of pilar[5]arene functionalized graphene as a fluorescent probe for paraquat in living cells and mice. Chem Commun (Camb).2016;52(23):4385-8. [14] Mei Q, Chen J，Zhao J，Yang L，Liu B,Liu R,et al. Atomic Oxygen Tailored Graphene Oxide Nanosheets Emissions for Multicolor Cellular Imaging. ACS Appl Mater Interfaces.2016;8(11):7390-5. [15] Si J，Volkan-Kacso S，Eltom A，Morozov Y，McDonald MP， Kuno M，et al. Heterogeneous Fluorescence IntermittencyinSingleLayerReducedGrapheneOxide. Nanoletters. 2015;15(7):4317-21. [16] Eng AY, Chua CK,Pumera M. Facile labelling of graphene oxide for superior capacitive energy storageandfluorescenceapplications. Physicalchemistrychemicalphysics: PCCP. 2016;18(14):9673-81.   
+[17] Arvand M，Mirroshandel AA. Highly-sensitive aptasensor based on fluorescence resonance energy transfer between l-cysteine capped ZnS quantum dots and graphene oxide sheets for the determination of edifenphos fungicide. Biosens Bioelectron.2017;96:324-31.   
+[18] Seraj S，Rouhani S. A Fluorescence Quenching Study of Naphthalimide Dye by Graphene: Mechanism and Thermodynamic Properties.Journal of fluorescence.2017.   
+[19] Sun X, Liu B, Li S,Li F. Reusable fluorescent sensor for captopril based on energy transfer from photoluminescent graphene oxide self-assembly multilayers to silver nanoparticles. Spectrochimica acta Part A, Molecular and biomolecular spectroscopy.2016;161:33-8.   
+[20] Xi G,Wang X, Chen T.A reduced graphene oxide-based fluorescence resonance energy transfer sensor for highly sensitive detection of matrix metallproteinase 2. International journal of nanomedicine. 2016;11:1537-47.   
+[21] Adachi N, Yoshinari M, Suzuki E， Okada M. Oligo(p-phenylene ethynylene) with Cyanoacrylate Terminal Groups and Graphene Composite as Fluorescent Chemical Sensor for Cysteine. Journal of fluorescence. 2017;27(4):1449-56.   
+[22] Mei Q, Zhang K,Guan G,Liu B,Wang S, Zhang Z. Highly efficient photoluminescent graphene oxide with tunable surface properties. Chem Commun (Camb). 2010;46(39):7319-21.   
+[23] Ma Y, Chen L, Zhang L, Liao S, Zhao J.A sensitive strategy for the fluorescence detection of DNA methyltransferase activity based on the graphene oxide platform and T7 exonuclease-asssted cyclic signal amplification. The Analyst. 2015;140(12):4076-82.   
+[24] LuCH,LiJ,Liu J,Yang HH,Chen X,Chen GN.Increasing the sensitivity and single-base mismatch selectivity of the molecular beacon using graphene oxide as the "nanoquencher". Chemistry (Weinheim an der Bergstrasse, Germany). 2010;16(16):4889-94.   
+[25] He S, Song B,Li D,Zhu C, Qi W,Wen Y, et al.A Graphene Nanoprobe for Rapid,Sensitive,and Multicolor Fluorescent DNA Analysis. Advanced Functional Materials. 2010;20(3):453-9.   
+[26] Zhao XH,Kong RM,Zhang XB,Meng HM,Liu WN，Tan W, et al. Graphene-DNAzyme based biosensor for amplified fluorescence "turn-on" detection of $\mathsf { P b 2 + }$ with a high selectivity. Analytical chemistry. 2011;83(13):5062-6.   
+[27] Li F,Feng Y, Zhao C,Li P,Tang B.A sensitive graphene oxide-DNA based sensing platform for fluorescence "turn-on" detection of bleomycin. Chem Commun (Camb). 2012;48(1):127-9.   
+[28] Liu M，Zhang Q，Zhao H，Chen S，Yu H， Zhang Y，et al. Controllable oxidative DNA cleavage-dependentregulationofgraphene/DNAinteraction. ChemCommun(Camb). 2011;47(14):4084-6.   
+[29] Li F, Huang Y, Yang Q, Zhong Z, Li D,Wang L, et al. A graphene-enhanced molecular beacon for homogeneous DNA detection. Nanoscale. 2010;2(6):1021-6.   
+[30] Zhang Y, Liu Y,Zhen SJ, Huang CZ. Graphene oxide as an efficient signal-to-background enhancer for DNA detection with a long range resonance energy transfer strategy. Chem Commun (Camb). 2011;47(42):11718-20.   
+[31] Pang S,Gao Y,LiY,Liu S,Su X.Anovel sensing strategy for the detectionofStaphylococcus aureus DNA by using a graphene oxide-based fluorescent probe.The Analyst. 2013;138(9):2749-54.   
+[32] Hong C, Baek A, Hah SS,Jung W, Kim DE.Fluorometric Detection of MicroRNA Using lsothermal Gene Amplification and Graphene Oxide.Analytical chemistry. 2016;88(6):2999-3003. [33] He Y, Xing X,Tang H,Pang D. Graphene oxide-based fluorescent biosensor for protein detection via terminal protection of small-molecule-linked DNA. Small.2013;9(12):2097-101.   
+[34] Chen $\scriptstyle \mathbf { Q } ,$ Wei W， Lin JM. Homogeneous detection of concanavalin A using pyrene-conjugated maltose assembled graphene based on fluorescence resonance energy transfer. Biosens Bioelectron. 2011;26(11):4497-502.   
+[35] Chang H，Tang L，Wang Y， Jiang J，Li J.Graphene fluorescence resonance energy transfer aptasensor for the thrombin detection. Analytical chemistry. 2010;82(6):2341-6.   
+[36] Zhu W, Zhao Z, LiZ,Jiang J,Shen G, Yu R.Aligation-triggered highly sensitive fluorescent assayof adenosine triphosphate based on graphene oxide.The Analyst.2012;137(23):5506-9.   
+[37] Zhang H，Huang H，Lin Z， Su X.A turn-on fluorescence-sensing technique for glucose determination based on graphene oxide-DNA interaction. Analytical and bioanalytical chemistry. 2014;406(27):6925-32.   
+[38] Attwood PV, Wallace JC. Chemical and catalytic mechanisms of carboxyl transfer reactions in biotin-dependent enzymes. Accounts of chemical research. 2002;35(2):113-20.   
+[39] Livaniou E,Costopoulou D,Vassiliadou I,Leondiadis L,Nyalala JO,Ithakissios DS,etal.Analytical techniques for determining biotin.J Chromatogr A. 2000;881(1-2):331-43.   
+[40] Mock DM, Quirk JG, Mock NI. Marginal biotin deficiency during normal pregnancy. The American journal of clinical nutrition. 2002;75(2):295-9.   
+[41] Zhang H, Li Y, Su X. A small-molecule-linked DNA-graphene oxide-based fluorescence-sensing system for detection of biotin. Analytical biochemistry. 2013;442(2):172-7.   
+[42] Chen JL， Yan XP，Meng K，Wang SF. Graphene oxide based photoinduced charge transfer label-free near-infraredfluorescentbiosensorfordopamine.Analytical chemistry. 2011;83(22):8787-93.   
+[43] Yue Z, Lv P, Yue H,Gao Y,Ma D,Wei W, et al. Inducible graphene oxide probe for high-specific tumor diagnosis. Chem Commun (Camb). 2013;49(37):3902-4.   
+[44] Feng D， Song Y， Shi W，Li X，Ma H. Distinguishing folate-receptor-positive cels from folate-receptor-negative celsusing a fluorescence off-on nanoprobe. Analytical chemistry. 2013;85(13):6530-5.   
+[45] Gao Y-S, Zhu X-F, Yang T-T, Xu J-K,Lu L-M, Zhang K-X.Sensitive electrochemical determination of （20 $\mathfrak { a }$ fetoprotein using a glassy carbon electrode modified with in-situ grown gold nanoparticles, grapheneoxideandMwCNTsactingassignalamplifiers.MicrochimicaActa. 2015;182(11-12):2027-35.   
+[46] Gu Y,Ju C,Li Y,Shang Z, Wu Y,Jia Y,etal. Detectionof circulating tumor cels in prostate cancer based on carboxylated graphene oxide modified light addressable potentiometric sensor. Biosens Bioelectron. 2015;66:24-31.   
+[47] Sun X, Liu Z, Welsher K, Robinson JT, Goodwin A, Zaric S,et al. Nano-Graphene Oxide for Cellular Imaging and Drug Delivery. Nano research. 2008;1(3):203-12.   
+[48] Li JL,Bao HC, Hou XL,Sun L, Wang XG,Gu M. Graphene oxide nanoparticles as a nonbleaching optical probe for two-photon luminescence imaging and cell therapy. Angewandte Chemie (International ed in English). 2012;51(8):1830-4.   
+[49] Rong P, Yang K,Srivastan A， Kiesewetter DO,Yue X，Wang F，et al. Photosensitizer loaded nano-graphene for multimodality imaging guided tumor photodynamic therapy. Theranostics. 2014;4(3):229-39.
+
+# The Application of Oxidized Graphene Fluorescence in Biomedical Field
+
+XIAO Huan NING Zong\* (Guangxi Medical University，Guangxi 530021，China)
+
+Abstract Graphene (graphene) as a new product in the field of biomedical application is more and more broad, oxidized graphene (graphene oxide,GO) as one of the important derivatives of graphene, due to its different source of electrical structure,GO can produce fluorescent within a certain wavelength range.This performance is what makes the GO has great potential in biomedical field,This paper mainly introduces the application of the fluorescence properties of GO in molecular detection,disease diagnosis and cell imaging in recent years and prospects its development.
+
+Key words Graphene oxide Fluorescence properties Molecular detection Disease diagnosis Cell imaging

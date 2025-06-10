@@ -1,0 +1,856 @@
+[
+    {
+        "type": "text",
+        "text": "M17 MIR: A Massive Protostar with Multiple Accretion Outbursts\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHIWEI CHEN (陈志维),1 WEI SUN (孙玮),1 ROLF CHINI, $^ { 2 , 3 }$ MARTIN HAAS,² ZHIBO JIANG (江治波),1 AND XUEPENG CHEN(陈学鹏)1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（204号 $^ { 1 }$ Purple Mountain Observatory, Chinese Academy of Sciences, 10 YuanHua Road, 210023 Nanjing, China （204号 $^ 2$ Astronomisches Institut, Ruhr-Universitat Bochum, Universititsstrasse 150, 44801 Bochum, Germany $^ 3$ Instituto de Astronomia, Universidad Cat6lica del Norte, Auenida Angamos O610, Casill 1280 Antofagasta, Chile ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We report the discovery of a massive protostar M17 MIR embedded in a hot molecular core in M17. The multiwavelength data obtained during 1993-2019 show significant mid-IR (MIR) variations, which can be split into three stages: the decreasing phase during 1993.03-mid-2004,the quiescent phase from mid-2004 to mid-2010,and the rebrightening phase from mid-20l0 until now. The variation of the 22 GHz H $_ 2$ O maser emission, together with the MIR variation, indicates an enhanced disk accretion rate onto M17 MIR during the decreasing and rebrightening phases. Radiative transfer modeling of the spectral energy distributions of M17 MIR in the 2005 epoch (quiescent）and 2017 epoch (accretion outburst) constrains the basic stellar parameters of M17 MIR, which is an intermediate-mass protostar （ $M _ { * } \\sim 5 . 4 M _ { \\odot }$ ）with $\\dot { M } _ { \\mathrm { a c c } } \\sim 1 . 1 \\times 1 0 ^ { - 5 } M _ { \\odot } \\mathrm { y r } ^ { - 1 }$ in the 2005 epoch and $M _ { \\mathrm { a c c } } \\sim 1 . 7 \\times 1 0 ^ { - 3 } M _ { \\odot } \\mathrm { y r } ^ { - 1 }$ in the 2017 epoch. The enhanced $\\dot { M } _ { \\mathrm { a c c } }$ during outburst induces the luminosity outburst $\\Delta L \\approx 7 6 0 0 L _ { \\odot }$ ： In the accretion outburst,a larger stellar radius is required to produce $\\dot { M } _ { \\mathrm { a c c } }$ consistent with the value estimated from the kinematics of H $_ { 2 }$ O masers. M17 MIR shows two accretion outbursts ( $\\Delta t \\sim 9 - 2 0 \\mathrm { y r }$ with outburst magnitudes of about 2 mag,separated by a $6 { \\mathrm { y r } }$ quiescent phase.The accretion ourbusrt occupies $8 3 \\%$ of the time over 26 yr. The accretion rate in outburst is variable with amplitude much lower than the contrast between quiescent and ourbusrt phases. The extreme youth of M17 MIR suggests that minor accretion bursts are frequent in the earliest stages of massive star formation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Accretion, accretion disks - Stars: massive - Stars: formation - Stars: protostars - Stars: individual objects (M17 MIR) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "High-mass stars ( $M _ { * } \\gtrsim 8 M _ { \\odot }$ ）have strong impacts on their environment throughtheirvariousfeedbackaffects. However, there is still no consensus on the basic formation mechanism of high-mass stars. The massive star formation models of disk accretion and accumulated observational evidence appear to favor the idea that highmass stars form as lower-mass progenitors that continuously accrete material from their gas-rich circumstellar disks at high accretion rates $\\stackrel { \\prime } { \\gtrsim } ~ 1 0 ^ { - 4 } M _ { \\odot } \\mathrm { y r } ^ { - 1 } )$ (e.g., Hosokawa et al. 2010; Beltrán & de Wit 2016; Haemmerlé et al. 2016; Motte et al. 2018). Observational evidence for episodic accretion extends across a wide range of protostellar mass, from low values (e.g.,Audard et al. 2014, for a review) to a high mass $\\sim 1 0 - 2 0 M _ { \\odot }$ (e.g., Tapia et al. 2015; Caratti o Garatti et al. 2017; Hunter et al. 2017). Although the total periods of multiple bursting accretions constitute only a few percent of the entire accretion phases of massive young stellar objects (MYSOs),bursting accretions can contribute a substantial fraction of the zero-age main-sequence (ZAMS) mass of MYSOs (Meyer et al. 2019b). Moreover，bursting accretions influence the evolutionary tracks of MYSOs; during each bursting accretion,MYSOs experience rapid excursions toward more luminous,but colder,regions of the Hertzsprung-Russel diagram,which are usually occupied by evolved massive stars (Meyer et al. 2019a). This short bloating of MYSOs can occur multiple times up to the end of the pre-main-sequence evolution,different from the spectroscopically confirmed bloating of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MYSOs during the contraction phase toward the main sequence (Chen et al. 2015; Ramirez-Tannus et al. 2017). The discovery of burst-induced photometric variability for MYSOs is impossible at optical wavelengths and difficult in the IR, due to severe extinction and the large distances of MYSOs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "At a distance of ≈ 2.0 kpc (Xu et al. 2011; Chibueze et al. 2016; Wu et al. 2019), M17 is among the best laboratories in the Galaxy for investigating the formations ofhigh-mass stars.Several efforts focused on the highmass stars in M17 have attempted to measure the physical properties of MYSOs,e.g.,Hanson et al. (1997), Nielbock et al. (2001)，Hoffmeister et al. (2006)，and Ramirez-Tannus et al. (2017). Meanwhile detailed studies of several peculiar MYSOs provide better constraints on their evolutionary stages and circumstellar environments, e.g., Chini et al. (2000, 2004, 2006), Kassis et al. (2002)，Nielbock et al. (2007)，Chen et al. (2015)，and Lim et al. (2020). Apart from the classified MYSOs (mostly IR-bright),it is very likely that unknown highmass protostars are deeply embedded in dense cores within M17. There are nine sites of 22GHz H $^ 2$ O masers in M17 (Johnson et al.1998; Breen et al. 2010); however, only one is likely associated with the known massive protostar IRS5A (Chen et al. 2O15); the driving sources of the remaining H2O masers are still unclear. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The expanding shell traced by the l $\\mathbf { I } _ { 2 }$ O maser spots (Chibueze et al. 2016,hereafter CJO16）motivates the search for the driving source. The coordinates of the putative driving source are determined as $\\mathrm { R . A . ( J 2 0 0 0 ) = }$ $1 8 ^ { \\mathrm { h } } 2 0 ^ { \\mathrm { m } } 2 3 ^ { \\mathrm { s } } 0 1 7 , \\mathrm { d e c l . } ( \\mathrm { J } 2 0 0 0 ) = - 1 6 ^ { \\circ } 1 1 ^ { \\prime } 4 7 ^ { \\prime \\prime } 9 8$ with positional errors of the order of 1mas (CJO16)，which coincides with a faint point source (hereafter M17 MIR) with Spitzer 4.5 and $5 . 8 \\mu \\mathrm { m }$ magnitudes of 9.97 and 7.82 mag，respectively (see more descriptions of GLIMPSE in Sect.2.3). On the other hand,none of the compact radio sources reported by Rodriguez et al. (2012) matches M17 MIR，which eliminates the association with a hyper- or ultracompact H I region,and thus indicates a very early stage for M17 MIR. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thispaper reports the analyses of the multiwavelenth dataavailable for M17 MIR.The multiwavelength data are described in Sect.2.The analyses of these data and the results are presented in Sect.3. The variability of M17MIR is classified in Sect.4.The derived properties of M17 MIR are discussed in Sect.5,and the conclusions are summarized in Sect.6. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.OBSERVATIONS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.IR Imaging Data from the Very Large Telescope ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The wide-field $J H K _ { s }$ -and $L ^ { \\prime }$ -band images were ob tained with ISAAC at the Very Large Telescope (VLT) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "in 2002 September and 2004 May to September，respectively. The pixel scale is $0 . ^ { \\prime \\prime } 1 4 8$ and O'o7,and the FWHM is O'6 and $0 . 5$ for the $J H K _ { s }$ -and $L ^ { \\prime }$ -band images，respectively (see more details of observations in Hoffmeister et al. 2008). These $J H K _ { s } L ^ { \\prime }$ -band images and photometric data were published by Hoffmeister et al. (2008). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The MIR images were obtained toward the M17 SW photodissociation region (PDR) (e.g., Crété et al. 1999; Pérez-Beaupuits et al. 2012)with the VLT imager and spectrometer for mid-infrared (VISIR;Lagage et al. 2004)at the VLT in 2006 April through the SiC filter （ $\\lambda = 1 1 . 8 \\mu \\mathrm { m }$ ， $\\Delta \\lambda = 2 . 1 \\mu \\mathrm { m }$ ).The data were taken with the VISlR_img-obs_AutoChopNod template.The photo metric standard star was HD178345 during this obser vation. The data were reduced and calibrated using the EsoReflex workflows(Freudling et al. 2013) and the VISIR pipeline recipes 4.3.71. The image is of good quality with FWHM $\\approx 0 . 4$ ,reaching the diffraction limit. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.The Infrared Space Observatory (ISO) Data $^ 2$ ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The archival imaging data of ISO (Kessler et al.1996) were obtained for the M17 SW PDR from the ISO Data Archive³.The ISO observations for the M17 SW PDR were carried out in 1997 March and published in Crété et al. (1999)；they aim at the interstellar medium inside the PDR. The calibrated ISO/ISOCAM images in the threebroad filters(LW1,LW4,andLW6)with central wavelengths of 4.5,6.0,and 7.7 μm are used in this paper. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.The Spitzer Data ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Galactic Legacy Infrared Mid-Plane Survey Extraordinaire(GLIMPSE;Benjamin et al. 2003;Churchwell et al. 2Oo9) is a legacy science program of the Spitzer Space Telescope that surveyed the inner Galactic plane in the 3.6,4.5, 5.8 and $8 . 0 \\mu \\mathrm { m }$ bands with the IR camera IRAC.The angular resolution in the four bands (I1,I2,I3,andI4) isabout 2'5.The GLIMPSE mosaicked images of M17 were obtained from the NASA/IPAC Infrared Science Archive4；the median observation date was 2005 September.The GLIMPSE point sources were retrieved from the GLIMPSE I Spring O7 Archive $^ { 5 }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cace96ccbf2023604b2d46fa47b06c657904c00a93942bf2a6557e666a2b2cc.jpg",
+        "img_caption": [
+            "Figure1.Multiwavelength images centeredon M17MIR.Proper motions of H2O maser spots (CJOl6)are overlaid on the image at $4 . 5 \\mu \\mathrm { { m } }$ ， "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "M17 was revisited by Spizter in the warm phase in 2017 July.During these observations,only the two bluest bands (3.6 and $4 . 5 \\mu \\mathrm { m }$ ）were available,and the flux-calibrated images (program ID:13117,observer: Robert Benjamin） were obtained from the Spitzer Heritage Archive6. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.The HerschelData ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to cover the far-IR regime,we incorporated the publicly available imaging observations from the Herschel Space Observatory (Herschel) and its PACS instrument at 70,100,and $1 6 0 \\mu \\mathrm { m }$ (Poglitsch et al. 2010). The Herschel data used in this work are Level 3.O products (eight observations with IDs from 1342192767 to 1342192774) provided by the Herschel Science Archive7. The pixel scales are 1'6,1'6,and 3'2 at 70,100,and $1 6 0 \\mu \\mathrm { m }$ ,and the measured resolutions are 8'0,8'O,and $1 2 . 0$ ,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.The WISE/NEOWISE data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TheWide-field Infrared Survey Explorer(WISE. Wright et al. 2010) is a $4 0 \\mathrm { c m }$ telescope in a low earth orbit that surveyed the entire sky in 2OlO using four IR bands at 3.4,4.6,12,and $2 2 \\mu \\mathrm { m }$ . The angular resolution in the four bands(W1,W2,W3,and W4) are 6'1,64, 6'5,and $1 2 . 0$ ，respectively. Only the WISE W1 and W2 data of M17 are considered in this work,because the M17 H I region is saturated in the W3 and W4 bands. With the primary aim of studying near-Earth Objects，NEOWISE observations resumed in 2013 December and continue to date,after the telescope's cryogen tanks were depleted. Due to the orbit of the telescope，WISE/NEOWISE observations visit M17 twice a year,in March and September.From the NEOWISE 2020 data release containing W1 and W2 observations from 2013 December until 2019 December,the singleexposure data of M17 collected over 6 yr (12 epochs) are analyzed in this work,in addition to the WISE allsky survey image of M17 (two epochs). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The single-exposure images of the WISE/NEOWISE mission toward M17 were retrieved from the WISE data hosted on IRSA 8,with the service of WISE/NEOWISE Coadder. The single exposures were coadded to obtain higher-quality W1/W2 images with enhanced resolution of O'6875/pix. Finally WISE/NEOWISE images from 14 epochs of M17 were used in this work. Aperture photometry with a fixed radius of 8.5 pixel ( $= 5 . 8$ ）is applied to all WISE/NEOWISE images with a field of view of $3 ^ { \\prime } \\times 3 ^ { \\prime }$ . Because the WISE/NEOWISE W2 band is very similar to the Spitzer I2 band,the photometric results from multi epochs are checked against the isolated star G015.0198-00.6768 located $3 3 ^ { \\prime \\prime }$ south of the image center. G015.0198-00.6768 is not cataloged in the ALLWISE catalog (Cutri et al. 2021) or in the unWISE catalog (Schlafly et al. 2O19),but has a cataloged Spitzer I2 magnitude of 8.55 (Spitzer Science 2009). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6．SOFIA Data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The SOFIA $^ { 9 }$ (Young et al. 20l2) observations toward the M17 SW PDR were carried out with the FORCAST instrument (Herter et al. 2013) at $1 9 \\mu \\mathrm m$ ( $\\lambda _ { \\mathrm { e f f } } = 1 9 . 7 \\mu \\mathrm { m }$ $\\Delta \\lambda = 5 . 5 \\mu \\mathrm { m }$ ）and $3 7 \\mu \\mathrm { { m } }$ ( $\\lambda _ { \\mathrm { e f f } } = 3 7 . 1 \\mu \\mathrm { m }$ $\\Delta \\lambda = 5 . 5 \\mu \\mathrm { m }$ ） on 2017 August 2(PI: James M. De Buizer). The calibratedLevel 3 images at 19 and $3 7 \\mu \\mathrm { { m } }$ were downloaded from the SOFIA Data Cycle System 10. The resolutions at 19 and $3 7 \\mu \\mathrm { { m } }$ are $3 { } ^ { \\prime \\prime } 3$ and 3'5, respectively (De Buizer et al. 2017). The SOFIA/FORCAST images fill the gap between the VLT/VISIR and Herschel images in wavelength coverage. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.7.JCMT SCUBA2 Submillimeter data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The JamesClerk Maxwell Telescope(JCMT) SCUBA2 submillimeter observations were taken at $4 5 0 \\mu \\mathrm { m }$ and $8 5 0 \\mu \\mathrm { m }$ on 2016 April 10 for M17,as a part of the JCMT large program “SCOPE: SCUBA2 Continuum Observations of Pre-protostellar Evolution”(JCMT program code: M16AL003). The pipelinereduced and calibrated maps of M17 at $4 5 0 \\mu \\mathrm { m }$ and $8 5 0 \\mu \\mathrm { m }$ were retrieved from Canadian Astronomy Data Centre 11. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.RESULTS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1. A very early high-mass protostellar object driving a protostellar outflow ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The earliest detection of M17 MIR was at $3 . 9 \\mu \\mathrm { m }$ $L$ band by the Canada-France-Hawaii Telescope (CFHT) observations in 1992 December and 1993 May with a spatial resolution of $1 ^ { \\prime \\prime }$ (Giard et al. 1994). This object,named as source 2 by the authors,and six other extremely red objects are suggested to be young stars in very early evolutionary stages (see Table 1 in Giard et al.1994). Figure 1 presents the multiwavelength images centered on M17 MIR.A summary of the IR flux densities obtained by the various facilities except for the earliest CFHT observation is presented in Table 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The source sizes in the various IR images are in proportional to FWHMs of the corresponding images. In the 11.8μm image of 0'4 resolution (= 800 au), M17 MIR is still a single source. M17 MIR appears as a compact point source at $3 - 3 7 \\mu \\mathrm { m }$ .At Herschel $7 0 \\mu \\mathrm { m }$ and $1 6 0 \\mu \\mathrm { m }$ ,the far-IR emission is dominated by the contamination from M17 IRS5 and M17 UC1 to the northeast.M17 MIR is not resolved at its IR location of M17 MIR, likely due to the strong ambient far-IR emission. For M17 MIR,we estimated an upper limit $< 7 7$ Jy at $7 0 \\mu \\mathrm { m }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/29d5bded371839c886a060a7801f38b8c0997b59f36166d2286a197a118d34a0.jpg",
+        "table_caption": [
+            "Table 1.IR flux densities "
+        ],
+        "table_footnote": [
+            "NoTE—Central wavelengths and effective bandwidths are adopted from the SVO Filter Profile Service (Rodrigo & Solano 2020). "
+        ],
+        "table_body": "<html><body><table><tr><td>Telescope</td><td>Xeff (μm)</td><td>Epoch</td><td>Flux Densities (mJy)</td><td>FWHM (arcsec)</td></tr><tr><td>VLT</td><td>3.78</td><td>2004.09</td><td>1.91 ± 0.17</td><td>0.5</td></tr><tr><td>Spitzer</td><td>4.50</td><td>2005.07</td><td>18.4± 2.2</td><td>2.0</td></tr><tr><td>Spitzer</td><td>5.71</td><td>2005.07</td><td>85.0 ± 8.0</td><td>2.0</td></tr><tr><td>ISO</td><td>7.72</td><td>1997.03</td><td>(2.2 ±0.3) × 10²</td><td>3.7</td></tr><tr><td>Spitzer</td><td>7.85</td><td>2005.07</td><td>(1.4±0.3) × 10²</td><td>2.0</td></tr><tr><td>VLT</td><td>11.80</td><td>2006.04</td><td>(1.4±0.07) × 10²</td><td>0.4</td></tr><tr><td>SOFIA</td><td>19.7</td><td>2017.08</td><td>(5.1±1.2) × 10²</td><td>3.3</td></tr><tr><td>SOFIA</td><td>37.1</td><td>2017.08</td><td>(7.3±1.2) × 10</td><td>3.5</td></tr><tr><td>Herschel</td><td>70</td><td>2010.03</td><td>< 7.7 × 104</td><td>8.0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The faint IR brightness of M17 MIR suggests that it is a low-luminosity object or the extinction to M17 MIR is quite high.From a quick examination of the IR images of M17 MIR,we think high extinction is the more likely reason.M17 MIR's brightness shows a steep rise in the $3 - 8 \\mu \\mathrm { m }$ range (see also Figure 8).However, M17 MIR is not visible in the ISO broad flter image at $9 . 6 \\mu \\mathrm { m }$ (see Figure 2a-f; Crété et al. 1999). We know that the silicate absorption feature at $9 . 7 \\mu \\mathrm { { m } }$ can cause high and broad absorption to a highly obscured object at around this wavelength.The high extinction to M17 MIR can explain the nondetection at $9 . 6 \\mu \\mathrm { m }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The IR flux densities of M17 MIR are at least two orders of magnitude lower than those of the IR-bright high-mass protostar IRS5A (Chen et al. 2015） within the same M17 SW PDR.On the other hand, the outwards motion of the CJO16 H $^ 2$ O masers very likely traces the shocked gas accompanying the protostellar outflow driven by M17 MIR.In the earliest stage of high-mass protostars,the mass loss might evolve from a highly uncollimated expanding shell to a collimated outflow (e.g.， Carrasco-Gonzalez et al. 2015). The dynamical age of the expanding shell driven by M17 MIR is 12.5 yr (CJO16)，younger than the dynamical age (\\~ 25 yr) of W75N(B)-VLA2 (Carrasco-Gonzalez et al. 2015). The faint IR brightness of M17 MIR and the young dynamical age of the CJO16 H $^ 2$ O masers suggest that M17 MIR is a promising candidate for a high-mass protostar in the earliest stage. The analysis of the spectral energy distribution(SED) constructed from Table 1 will help to better constrain the fundamental properties of M17 MIR (Sect. 5.3). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/99871f4c36cf7efb2d14009ed74d39026c537d478877489e6b7f4db6bea7bf2f.jpg",
+        "img_caption": [
+            "Figure 2. JCMT-SCUBA2 $8 5 0 \\ \\mu \\mathrm { { m } }$ map of M17 SW in left,and the HCO $^ +$ （204 $J = 9  8$ integrated intensity map of M17 SW in right(Pérez-Beaupuits et al. 2015). The $2 2 \\mathrm { { G H z } }$ water maser sources detected by Johnson et al. (1998)are denoted by crosses with numbers as same as Johnson et al.(1998).The white circle in both maps denote the position of M17 UC1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The warm area close to the central object emits radiation mostly at MIR wavelengths,while the surrounding envelope of much larger size is expected to radiate at submillimeter to millimeter wavelengths due to a much lower effective temperature. Figure 2 presents maps of the $8 5 0 \\mu \\mathrm { m }$ dust continuum emission and the HCO $^ +$ $J = 9  8$ line integrated intensity of M17 SW PDR. M17 MIR,represented by the H $\\mathbf { 1 } _ { 2 }$ O maser source 2 detected by VLA observations (Johnson et al.1998,hereafter JDG98),is located exactly in the secondary peak of the $8 5 0 \\mu \\mathrm { m }$ dust continuum emission.This dust continuum emission peak,along with the other two peaks, make up the northern condensation in M17 SW PDR that was first noticed by Stutzki & Guesten (1990). The three main components in the northern condensation in M17 SW PDR were studied in detail through submillimeter and millimeter observations.Their physical properties were estimated by Hobson et al. (1993) (their Table 4). M17 MIR is located within the FIR3 source in Hobson et al.(1993). On the other hand, the map of integrated line intensity (range: $0 - 4 0 \\mathrm { k m s ^ { - 1 } }$ peak velocity $\\sim + 2 0 \\mathrm { k m s ^ { - 1 } }$ ）of theHCO $^ +$ $J = 9  8$ line shows clumpy structures similar to the dust continuum emission.A dense core whose size is comparable to the beam size of the observations ( $\\sim 8 ^ { \\prime \\prime }$ ，or 0.08 pc) is coinciding with M17 MIR. Given the critical density $n _ { \\mathrm { c r i t } } = 9 \\times 1 0 ^ { 7 } \\mathrm { c m ^ { - 3 } }$ and an excitation temperature $E _ { \\mathrm { u p } } = 1 9 2 . 5 8 \\mathrm { K }$ of the 802.458 GHz HCO $^ +$ $J = 9  8$ line (Pérez-Beaupuits et al. 2O15), the dense core associated withM17MIRislikelya candidate forahot molecular core (HMC;Cesaroni 20o5).HMCs commonly cor responds to a hydrogen column density $N _ { \\mathrm { H } } \\gtrsim 1 0 ^ { 2 3 }$ or even higher (e.g. Bonfand et al.2017). Although a highmass protostar embedded in an HMC is undetectable at short wavelengths due to high extinction,the detection of the central protostar becomes possible at MIR wavelengths.For instance, the IR counterpart F4 of the HMC G9.62+0.19-F appears at $3 . 8 \\mu \\mathrm { { m } }$ in the $L ^ { \\prime }$ band and at longer wavelengths (Linz et al. 2005). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a230c3c5c298d0f750df82152c2ecd68a090b6fd3d8ce6d62117265cccc6a7b.jpg",
+        "table_caption": [
+            "Table 2. $L$ -band magnitudes of embedded YSOs in M17SW during the 1993.03 and 2004.09 epochs. "
+        ],
+        "table_footnote": [
+            "NOTE—See Figure 3 for the positions of these sources on the Spitzer I1 and I2 images. "
+        ],
+        "table_body": "<html><body><table><tr><td>Name</td><td>R.A. (J2000)</td><td>Decl. (J2000)</td><td>1993.03 (mag)</td><td>2004.09 (mag)</td></tr><tr><td>2= M17 MIR</td><td>18:20:23.02</td><td>-16:11:47.9</td><td>10.2</td><td>12.78</td></tr><tr><td>3</td><td>18:20:23.91</td><td>-16:11:43.4</td><td>10.8</td><td>10.38</td></tr><tr><td>5</td><td>18:20:24.10</td><td>-16:11:40.1</td><td>11.2</td><td>10.99</td></tr><tr><td>7</td><td>18:20:22.34</td><td>-16:11:28.7</td><td>8.8</td><td>8.76</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The multiwavelength data of M17 MIR and the submillimeter to millimeter data of its surrounding medium indicate that M17 MIR is a very early high-mass protostar embedded in an HMC and is also driving a protostellar outflow. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.VARIABILITY ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1.Infrared variability ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For M17 MIR,the photometric magnitude in the 1993 CFHT observation was $1 0 . 2 \\pm 0 . 2$ (source 2 in Table 2; Giard et al.1994),while the magnitude in the 2004 VLT observation was $1 2 . 7 8 \\pm 0 . 1 4$ (Hoffmeister et al. 2008). The flter profiles in the two observations are almost identical. Table 2 lists the $L$ -band magnitudes of the embedded YSOs in the two observations.Interestingly, M17 MIR is about 1O times fainter in the 2004.09 epoch thanin the 1993.03 epoch,whereas the other sources are fairly stable. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The VLT $L ^ { \\prime }$ -band observations in 20o4.09 were one year earlier than the Spitzer observations in 20o5.09.By interpolating the Spitzer flux densities at I2 and I3 to that at $L ^ { \\prime }$ under the assumption of a blackbody radiation,the flux density of M17 MIR in the $L ^ { \\prime }$ band isabout 2.2 mJy in the 2005.09 epoch.This predicted flux density in 2005.09 is close to the $1 . 9 1 \\pm 0 . 1 7$ mJy measured in 2004.09. We therefore speculate that M17 MIR's luminosity is stable during 2004.09-2005.09. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M17 MIR shows variabilities in the Spitzer I1 and I2 images from 2005.09 and 2017.07 (see Figure 3).Comparing the flux densities at I1 in the two epochs for an aperture radius of 1'6,we find an increase by a factor of 2.9.Similarly, the flux densities at I2 show an increase by a factor of 3.3 in an aperture radius of $3 { } ^ { \\prime \\prime } 2$ . In contrast,the other sources are stable in the two bands(see Table 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The MIR variabilities ofM17 MIR found for different epochs motivate us to compare its flux densities from the ISO observations in 1997.03 and the Spitzer observations in 2005.09 and 2017.07.Table 4 showsthe flux densities of M17 MIR and other nonvariable sources in the ISO/LW1 and Spitzer/I2 bands,which have almost identical filter profiles centered at 4.5 μm. Figure 4 compares the ISO LW1 and Spitzer I2 images obtained in 1997.03 and 20o5.09，respectively. Direct comparison from Figure 4 clearly indicates that M17 MIR is significantly brighter than sources 3 and5 in theISOLW1 image in the 1997.03 epoch,while it becomes fainter than sources 3 and 5 in the Spitzer I2 image in the 2005.09 epoch.Given that sources 3 and 5 are unchanged (see context above)，M17 MIR is varying between 1997.03 and 2005.09. The aperture photometry of M17 MIR in the $4 . 5 \\mu \\mathrm { { m } }$ band shows variability from 1997 to 2017. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ForM17，WISE/NEOWISE imagesin14epochs,in cluding 2010.03 and 2010.09,and March and September in 2014 to 2019,were analyzed in this work.M17 MIR is only detected in the W2band.The WISE W1 flux densities,extrapolated from its flux densities in the Spitzer Il and I2 bands,are about O.6 and 1.8 mJy during the 2005.09 and 2017.07 epochs,respectively. The extreme faintness at W1 is consistent with the nondetection of M17 MIR in the corresponding W1 images. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac64585f6c72a158831033f1bb998746862f0bd2fa1cccfda42390b5a2ab0947.jpg",
+        "img_caption": [
+            "Figure 3. Top panel: Spitzer/I1 images in 2005.09 (left) and 2017.07 (right). Bottom panel: Spitzer/I2 images in 2005.09 (left）and 2017.07 (right)．The embedded YSOs 3, 5,and 7 are the same as in Table 2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cdc91c18fb07dfa957e0701cc288dbf78a3bf149087013794e47f104a6a29166.jpg",
+        "img_caption": [
+            "Figure 4.ISO/LW1 image in 1997.03 (left)and Spitzer/I2 image in 2005.09 (right)．The embedded YSOs 3,5,and 7 are identical to those in Figure 3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 presents the WISE/NEOWISE W2 images centered on M17 MIR in 14 epochs.The pixel resolution of $0 . 6 8 7 5$ clearly separates M17 MIR from the nearby IR source Anon 3 to the southwest.The photometric re sults of M17 MIR, source 7,and G015.0198-00.6768 are tabulated in Table 5 for 14 epochs.In 2010.03,the W2 flux density of M17 MIR was $1 7 . 7 \\pm 4 . 4$ mJy,which is very close to the value 18.4±2.0 in the Spitzer I2 band in 2005.09.Given the fact that the WISE/NEOWISE W2 band is very similar to the Spitzer I2 band,M17 MIR was roughly stable in brightness from 20o4 to 2010. However,six months later M17 MIR was twice as bright in 2010.09,with a flux density of $3 3 . 7 \\pm 4 . 4$ mJy. It is very likely that the rebrightening of M17 MIR started between 2010.03 and 2010.09.In the observations of NEOWISE,M17 MIR generally shows a steady rise in brightness,but with a jump and fall motion epoch by epoch in its light curve (see Figure 6). Between 2016 and 2017,M17 MIR underwent a steep rise in brightness with an amplitude of 1.7. In 2018 M17 MIR's brightness dropped back to the level of 2o16.and was followed by a rise with a mean amplitude of 1.5 between 2018 and 2019. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bfbb1ff78151bd5e17569ac287449527cf7cc15fece9bcbcf56bc658cce6155.jpg",
+        "img_caption": [
+            "Figure 5.WISE/NEWOWISE W2 images centered on M17 MIR in 14 epochs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2.Combined light curve in the $L ^ { \\prime }$ and W2 bands ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The MIR flux measurements of M17 MIR span several wavelengths and observation epochs.The $3 . 8 \\mu \\mathrm { m } \\ L ^ { \\prime }$ filter is closest to the $L$ filter of the 1993.03 epoch observation(Giard et al.1994),while the observations of other epochs provided flux densities in at least two filters.For a direct comparison from 1993 to 2017, the flux density in the 3.8 μm $L ^ { \\prime }$ filter is estimated for 1993.03,1997.03, 2005.09,and 2017.O7.The multiwavelength flux densities of M17 MIR in 1997.03,2005.09,and 2017.07 epochs yield a reasonable estimate for the continuum in the range $3 - 8 \\mu \\mathrm { m }$ ,assuming blackbody emission.The flux density of M17 MIR in the $3 . 8 \\mu \\mathrm { m } \\ L$ filter is the continuum emission inside the transmission curve of the $L ^ { \\prime }$ filter.Note that the blackbody temperatures for the three different epochs are different.For the $L$ -bandobservations in 1993，the three blackbody temperatures are used for estimating the $L ^ { \\prime }$ flux density of M17 MIR. We find that the largest difference among the three values is less than $1 5 \\%$ ,thus the mean value is used as the $L ^ { \\prime }$ filter flux density. For 1993.03,1997.03,2005.09,and 2017.07 we obtain $L ^ { \\prime }$ flux densities; for 2004.09 there is direct $L ^ { \\prime }$ -band photometry for M17 MIR.Figure 6 presents the combined light curve of M17 MIR in the $L ^ { \\prime }$ and W2 bands. The time span of the multiepoch data is 26.5 yr. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b790d2d23ab1f8bc5dbda6f5732c84fa69587e38d461d5c38c6bd3ba28b1791b.jpg",
+        "table_caption": [
+            "Table 3.Flux densities of M17 MIR Measured from the Spitzer Observations in 2005 and 2017 "
+        ],
+        "table_footnote": [
+            "NOTE—Aperture photometry on the sources in this table uses fixed in positions,aperture size,and circular annulus size in the 2005 and 2017 epochs, for direct comparison between the two epochs. "
+        ],
+        "table_body": "<html><body><table><tr><td>Name</td><td>Spitzer Band</td><td>2005 (mJy)</td><td>2017 (mJy)</td><td>Aperature (arcsec)</td></tr><tr><td rowspan=\"2\">M17 MIR</td><td>I1</td><td>1.0 ±0.4</td><td>2.9 ± 0.5</td><td>1.6</td></tr><tr><td>I2</td><td>19.0 ± 2.5</td><td>52.9 ± 4.7</td><td>3.6</td></tr><tr><td rowspan=\"2\">3</td><td>I1</td><td>9.7±0.9</td><td>9.6 ±0.8</td><td>2.0</td></tr><tr><td>I2</td><td>33.8 ± 3.7</td><td>33.7± 3.9</td><td>2.5</td></tr><tr><td rowspan=\"2\">5</td><td>I1</td><td>10.7 ±0.7</td><td>8.3±0.6</td><td>2.0</td></tr><tr><td>I2</td><td>23.8 ±1.5</td><td>20.9 ±1.3</td><td>2.0</td></tr><tr><td rowspan=\"2\">7</td><td>I1</td><td>37.8 ± 5.0</td><td>31.3 ± 3.7</td><td>2.7</td></tr><tr><td>I2</td><td>201.2 ±17.2</td><td>193.0±6.9</td><td>4.0</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/39df1e503b412a1cc1d9a8ab7aa14010092b34ca4cf11a1b357b4436b1f4755d.jpg",
+        "table_caption": [
+            "Table 4.Flux densities of M17 MIR at $4 . 5 \\mu \\mathrm { { m } }$ measured with ISO/ISOCAM in 1997 and Spitzer in 2005 and 2017. "
+        ],
+        "table_footnote": [
+            "NOTE—The aperture photometry of M17 MIR in the ISO/LW1 image might be affected by the row of bad pixels lying below M17 MIR, thus its fux density might be underestimated. "
+        ],
+        "table_body": "<html><body><table><tr><td>Name</td><td>1997 (mJy)</td><td>2005 (mJy)</td><td>2017 (mJy)</td><td>Aper. ()</td></tr><tr><td>M17MIR</td><td>32.1 ± 11.1</td><td>19.0 ± 2.5</td><td>52.9 ± 4.7</td><td>3.6</td></tr><tr><td>7</td><td>202.7 ± 31.9</td><td>201.2 ±17.2</td><td>193.0±6.9</td><td>4.0</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "M17 MIR shows decreasing,quiescent and rebrightening phases in its MIR light curve,as shown in Figure 6. Due to the lack of $3 - 4 \\mu \\mathrm { m }$ observations before 1993 and during 1997-2004, the duration of the decreasing phase is poorly constrained. From the available data, the quiescent phase between the decreasing and rebrightening phase might last about 6 yr, from mid-2004 to mid-2010. Because M17 MIR seems to continue the trend of rebrightening,the timescale of the rebrightening phase is $\\gtrsim 9$ yr. The continuing NEOWISE observations will provide vital information on the rebrightening timescale. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3. $H _ { 2 } O$ Maser Variability ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 6 summarizes the 22GHz H $_ 2$ O maser observations from 1984 to 2008. The earliest H2O maser detection associated with M17 MIR was achieved at the VLA in C configuration in 1984 June (Forster & Caswell 1989,hereafter FC89). The complete catalog of H $^ 2$ 0 masers found by Forster & Caswell (1989)was compiled by Forster & Caswell (1999). Three FC89 HzO masers are associated with M17 MIR,and show two velocity components of $1 6  { \\mathrm { ~ - ~ } } 1 8  { \\mathrm { k m s ^ { - 1 } } }$ and $2 3 . 3 \\mathrm { k m s ^ { - 1 } }$ ．One H2O maser coinciding with M17 MIR was detected with the VLA in D configuration and shows a flux density of 18.57 Jy (Massi et al. 1988,hereafter MCF88). One ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/22afe9a23ba98de7ac42dbf21b44596af16f31df7e76d4a9b679f7cf714df6aa.jpg",
+        "img_caption": [
+            "Figure 6.Top:light curve of M17 MIR at $3 . 8 \\mu \\mathrm { m }$ in the $L ^ { \\prime }$ band;Bottom:light curve at $4 . 6 \\mu \\mathrm { m }$ in the W2 band.The time span is over 26 yr from 1993 to 2019. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/db0ee33589839426a388866d3c557b59ec477d9a12a79faf74dede75a5666114.jpg",
+        "table_caption": [
+            "Table 5.WISE/NEOWISE flux densities of M17 MIR and other IR sources "
+        ],
+        "table_footnote": [
+            "aThe Spitzer I2 magnitude of this source is 8.55, corresponding to 68.05 mJy,while its WISE/NEOWISE W2 mean flux density is 70.49 mJy. "
+        ],
+        "table_body": "<html><body><table><tr><td>Epoch</td><td>MJD</td><td>M17MIR W2 (mJy)</td><td>source 7 W2 (mJy)</td><td>W2 (mJy) G015.0198 a</td></tr><tr><td>2010.03</td><td>55,280.5</td><td>17.6 (4.4)</td><td>250.0 (5.1)</td><td>70.7 (2.4)</td></tr><tr><td>2010.09</td><td>55,463.5</td><td>33.7 (4.4)</td><td>257.8 (5.7)</td><td>72.4 (2.3)</td></tr><tr><td>2014.03</td><td>56,745.5</td><td>50.2 (4.1)</td><td>210.3 (6.4)</td><td>71.9 (2.3)</td></tr><tr><td>2014.09</td><td>56,924.6</td><td>82.0 (4.1)</td><td>180.5 (6.4)</td><td>72.0 (2.4)</td></tr><tr><td>2015.03</td><td>57,107.5</td><td>62.0 (4.4)</td><td>177.3 (6.4)</td><td>69.9 (2.4)</td></tr><tr><td>2015.09</td><td>57,284.5</td><td>81.7 (4.6)</td><td>203.3 (7.7)</td><td>69.0 (3.2)</td></tr><tr><td>2016.03</td><td>57,471.5</td><td>71.5 (4.7)</td><td>180.2 (7.5)</td><td>68.9 (2.8)</td></tr><tr><td>2016.09</td><td>57,645.5</td><td>82.5 (4.5)</td><td>212.8 (7.7)</td><td>66.3 (3.3)</td></tr><tr><td>2017.03</td><td>57,838.5</td><td>95.6 (5.3)</td><td>199.4 (7.7)</td><td>69.2 (2.9)</td></tr><tr><td>2017.09</td><td>58,006.5</td><td>126.0 (4.2)</td><td>193.4 (6.3)</td><td>72.2 (2.4)</td></tr><tr><td>2018.03</td><td>58,202.6</td><td>72.7 (4.3)</td><td>195.0 (5.8)</td><td>67.3 (2.4)</td></tr><tr><td>2018.09</td><td>58,366.5</td><td>110.5 (4.4)</td><td>189.2 (6.3)</td><td>70.0 (3.5)</td></tr><tr><td>2019.03</td><td>58,566.5</td><td>118.0 (3.9)</td><td>185.7 (5.1)</td><td>74.9 (1.6)</td></tr><tr><td>2019.09</td><td>58,730.5</td><td>95.7 (4.2)</td><td>228.5 (7.8)</td><td>68.3 (2.4)</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f17f064385fc87d9e41a03622fb7e3388bc8ffa971b5ebf651a12b923ebc36a1.jpg",
+        "table_caption": [
+            "Table6.Water masers observations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Epoch</td><td>Obs.</td><td>R.A. (J2000)</td><td>Decl. (J2000)</td><td>Sep. (arcsec)</td><td>V peak (kms-1)</td><td>S peak (Jy)</td><td>Beam</td><td>Ref.</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td><td>(8）</td><td>(9)</td></tr><tr><td>1984.06</td><td>VLA-C</td><td>18:20:22.91</td><td>-16:11:48.29</td><td>1.7</td><td>23.32</td><td>1.5</td><td>4'1 × 2'2</td><td>FC89</td></tr><tr><td>1984.06</td><td>VLA-C</td><td>18:20:23.12</td><td>-16:11:48.29</td><td>1.5</td><td>18.05</td><td>6.7</td><td>4'1 × 2'2</td><td>FC89</td></tr><tr><td>1984.06</td><td>VLA-C</td><td>18:20:23.05</td><td>-16:11:48.20</td><td>0.5</td><td>16.73</td><td>6.9</td><td>4''1 × 2'2</td><td>FC89</td></tr><tr><td>1984.08</td><td>VLA-D</td><td>18:20:23.07</td><td>-16:11:49.2</td><td></td><td>17.4</td><td>18.57</td><td>5'6 × 7'1</td><td>MCF88</td></tr><tr><td>1996.09</td><td>VLA-D</td><td>18:20:22.98</td><td>-16:11:47.97</td><td>0.6</td><td>15.8</td><td>121</td><td>5'0 ×3'4</td><td>JDG98</td></tr><tr><td>1996.09</td><td>VLA-D</td><td>18:20:22.98</td><td>-16:11:47.97</td><td>0.6</td><td>27.7</td><td>17</td><td>5''0 × 3''4</td><td>JDG98</td></tr><tr><td>2003.10</td><td>ATCA-EW352</td><td>18:20:23.04</td><td>-16:11:48.4</td><td>0.6</td><td>19</td><td>197</td><td>8\"×29\"</td><td>B10</td></tr><tr><td>2003.10</td><td>ATCA-EW352</td><td>18:20:23.04</td><td>-16:11:48.4</td><td>0.6</td><td>24</td><td>60</td><td>8\" ×29″</td><td>B10</td></tr><tr><td>2004.07</td><td>ATCA-H168</td><td>18:20:23.04</td><td>-16:11:48.4</td><td>0.6</td><td>20</td><td>67</td><td>13\" × 9\"</td><td>B10</td></tr><tr><td>2004.07</td><td>ATCA-H168</td><td>18:20:23.04</td><td>-16:11:48.4</td><td>0.6</td><td>24</td><td>17</td><td>13\"×9\"</td><td>B10</td></tr><tr><td>2008.08</td><td>ATCA-6B</td><td>18:20:23.02</td><td>-16:11:47.8</td><td>0.2</td><td>21</td><td>4.2</td><td>1.7 × 0.5</td><td>BE11</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "JDG98 H2O maser (source 2 in JDG98) with two velocity components is detected around the same source. The velocities of the FC89 HO masers are consistent with those of the two components of the JDG98 HzO maser source 2. Both the FC89 and JDG98 $\\mathrm { H } _ { 2 }$ O masers are likely pumped by the interaction between the outflow from M17 MIR and the surrounding gas. Interestingly, the flux density of the JDG98 H $_ 2$ O maser source 2 in the 1996.09 epoch is ten times higher than that of the FC89 HzO maser in 1984.06. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Several years after the last VLA observations,three water maser observations were taken by ATCA during three epochs. A fast fading of the water maser intensity from 197Jy in 2003.10 (Breen et al. 2010，hereafter B10)，through 67Jy in 2004.07 (B10)，to 4.2Jy in 2008.08 (Breen & Ellingsen 2011，hereafter BE11) was observed.In the earlier two epochs,the spectra of water maser emission show two components- a stronger blueshifted one at $\\sim 1 9 - 2 0 \\mathrm { { k m s ^ { - 1 } } }$ and a weaker redshifted one at $\\mathrm { 2 4 k m s ^ { - 1 } }$ , which are consistent with the VLA observations in the earlier epochs.In the 2008.08 epoch,two components were observed in the spectrum - a weaker blueshifted one at $\\sim 1 8 \\mathrm { k m s ^ { - 1 } }$ and a stronger redshifted one at $2 1 \\mathrm { k m s ^ { - 1 } }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The latest water maser observations were conducted by very long baseline interferometry (VLBI) with VLBI Exploration of Radio Astrometry（VERA） in 2009.10- 2010.12 and consist of six epochs(CJO16).The VERA observations detected 2O3 water maser spots in these observations. The dominant blueshifted maser spots 0 $V _ { l s r } \\lesssim 2 2 \\mathrm { k m s ^ { - 1 } } \\gamma$ ）are mostly distributed to the south of M17 MIR, while a few redshifted maser spots ( $V _ { l s r } \\gtrsim$ $2 2 \\mathrm { k m s ^ { - 1 } }$ ）are distributed north to the north of it (see ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 7). This feature is consistent with the stronger blue-shifted component and the weaker red-shifted component observed by the VLA and ATCA. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.1.The Connection between the IR Variability and $H _ { 2 } O$ Maser Emission Variability ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The IR variability of M17 MIR overlaps with the surrounding H $^ 2$ O maser variability in time.The connection between them helps to clarify the physical origin of these variabilities. The flux density of the JDG98 H $^  \\lfloor 2 \\$ O maser source 2 in 1996.09 is ten times higher than that of the FC89 H2O maser source in 1984.06. This HzO maser variation from 1984 to 1996 and the decreasing phase in the IR light curve during 1993 and 2004 suggest that the brightness peak likely occurred between 1984 and 1993.Moreover, the fast fading of the H2O maser emission from 2003 to 2008 and the quiescent phase in the IR light curve during 2oo4 and 201O together constrain the occurrence of the quiescent phase to between mid-2004 and mid-2O1O, characterized by both low IR brightness and HO maser emission. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "VERA observations in the earliest two epochs (2009.10 and 2010.01) were made in the quiescent phase, while the later observations in the epochs 2010.04, 2010.09，2010.1l，and 2010.12 took place in the rebrightening phase. The proper motions of the H2O masers spots are traced in more than three epochs (J. O.Chibueze 2021, private communication).The proper motions of the H2O maser spots are measured in the transient phase between quiescent and rebrightening phases from 2009.10 to 2010.12.The 3D motions of the $\\mathbf { H } _ { 2 }$ O maser spots detected by the VERA observations show an expanding bubble originating from M17 MIR Together with the rebrightening，we suggest that both phenomena are due to the accretion/outflow activity of M17 MIR. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Similar flaring of the H2O masers associated with the outflow from the high-mass protostar NGC 6334IMM1Bshowsa mean factor of 6.5 before and after the burst of MM1B in the submillimeter range (Brogan et al. 2018).Those authors attribute the enhanced accretion rate to the coincident flaring in the submillimeter continuum and the H2O maser emission of NGC 6334I-MM1B. For M17 MIR,we suggest an accretion outburst to explain both the MIR variations and the correlated H2O maser variations. Accompanied by the expanding motions of $\\mathrm { H } _ { 2 }$ O maser spots measured during the transient phase from quiescent to rebrightening and the close positive relation between mass loss and accretion rate, the most promising explanation for the outburst in MIR brightness since 2O1O.O3 is an enhanced accretion rate. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.2.Outflow rate and disk accretion rate of M17 MIR ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The proper motions and radial velocities of the CJO16 H2O masers are overlaid on the VLT $L ^ { \\prime }$ image,as shown in Figure 7. The 3D motions of the $\\mathbf { \\delta } \\mathbf { H } _ { 2 }$ O maser spots can be used to estimate the momentum rate of the gas flow,given the assumption that all the momentum of the ejected gas is transferred to the surrounding molecular environment.The momentum rate $\\dot { P }$ is then estimated from the relation (Goddi et al. 2011) ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { P } = 1 . 5 \\times 1 0 ^ { - 3 } V _ { 1 0 } ^ { 2 } R _ { 1 0 0 } ^ { 2 } \\left( \\Omega / 4 \\pi \\right) n _ { 8 } M _ { \\odot } \\mathrm { y r } ^ { - 1 } \\mathrm { k m s } ^ { - 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { 1 0 }$ is the mean maser velocity in units of $\\mathrm { 1 0 k m s ^ { - 1 } }$ ， $R _ { 1 0 0 }$ is the average distance of $\\mathrm { H } _ { 2 }$ O masers from the driving source in units of 1OO au, $\\Omega$ is the solid angle of the gas flow,and $n _ { 8 }$ is the gas volume density in units of $1 0 ^ { 8 } \\mathrm { c m } ^ { - 3 }$ ： $R _ { 1 0 0 }$ is calculated as 0.85 by averaging the distances of the $\\mathrm { H } _ { 2 }$ O masers from the dynamical center,which is determined at the position of $\\mathrm { R . A . ( J 2 0 0 0 ) = 1 8 ^ { h } 2 0 ^ { m } 2 3 . 0 1 7 , d e c l . ( J 2 0 0 0 ) = }$ $- 1 6 ^ { \\circ } 1 1 ^ { \\prime } 4 7 . 9 8$ (CJO16).The gas density is about $1 0 ^ { 8 } \\mathrm { c m } ^ { - 3 }$ according to the discussion in Sect. 3.1. $\\Omega$ is about $4 \\pi$ for an expanding bubble. The above physical properties from observations yield a momentum rate $\\dot { P } \\sim 4 \\times 1 0 ^ { - 3 } M _ { \\odot } \\mathrm { y r } ^ { - 1 } \\mathrm { k m s } ^ { - 1 }$ for the protostellar outflow of M17 MIR. This is comparable to outflows of $1 0 ^ { - 3 } - 1 0 ^ { 0 } M _ { \\odot } \\mathrm { y r ^ { - 1 } k m s ^ { - 1 } }$ driven by MYSOs (Moscadelli et al. 2O16),and one magnitude higher than the outflow from a low-mass YSO in IRAS 20231+3440 (Ogbodo et al. 2017). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The protostellar outflow provides an indirect measure of the disk accretion rate.The outflow mass rate is derived by dividing the outflow momentum rate $\\dot { P }$ by the outflow velocity. Given $\\dot { P } \\sim 4 \\times 1 0 ^ { - 3 } M _ { \\odot } \\mathrm { y r ^ { - 1 } k m s ^ { - 1 } }$ estimated in this work and $V _ { 1 0 } ~ \\approx ~ 1 . 9 \\mathrm { k m s ^ { - 1 } }$ determined by CJO16, the outflow mass rate $\\dot { M } _ { o u t }$ is $\\sim$ $2 \\times 1 0 ^ { - 4 } M _ { \\odot } { \\mathrm { y r } } ^ { - 1 }$ . Assuming a ratio of outflow mass rate to disk accretion rate of $3 0 \\%$ (Beltrán & de Wit 2016), the disk accretion rate onto M17 MIR is $\\dot { M } _ { \\mathrm { a c c } } \\sim$ $7 \\times 1 0 ^ { - 4 } M _ { \\odot } { \\mathrm { y r } } ^ { - 1 }$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd4221313626f5381bc9159b95c0bab30cc575dc8a297136ccbe39d42abfc9d0.jpg",
+        "img_caption": [
+            "Figure 7.The proper motions and $V _ { \\mathrm { L S R } }$ of the CJO16 $_ \\mathrm { H _ { 2 } O }$ maser. The background grayscale image is the VLT $L ^ { \\prime }$ image. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This disk accretion rate is estimated from the $\\mathbf { H } _ { 2 }$ 0 maser observations during 2009 to 2010,when M17 MIR just started to rebrighten.The MIR emission between 2010.09 and 2010.03 varies by a factor of about 2 in the WISE W2 band. Johnstone et al. (2013) simulate the MIRflux variation induced by an enhanced disk accretion rate and find that the MIR flux variation is proportional to the disk accretion rate.The W2flux between 2010 and 2O19 varies by an average factor of 3. We speculate that the disk accretion rate in 2O19 is likely 3 times the rate estimated above,reaching $\\sim 2 \\times 1 0 ^ { - 3 } M _ { \\odot } \\mathrm { y r } ^ { - 1 }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.3.Modelingof the SED in Quiescent and Rebrightening phases ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "During the quiescent phase from mid-2oo4 to mid2010 (hereafter the 2Oo5 epoch)，we collect IR fux densities at six wavelengths to construct the SED of M17 MIR.During the rebrightening phase,the flux densities obtained in 2017.07(Spitzer I1 and I2 bands) and 2017.08(SOFIA/FORCAST $1 9 \\mu \\mathrm { m }$ and $3 7 \\mu \\mathrm { m }$ bands) areseparatedby14days.TheNEOWISEW2flux density was obtained at the end of 2Ol7 September,nearly two months later than the Spitzer and SOFIA observations.We collect only the Spitzer and SOFIA observations in 2017.07/08 to construct the SED of M17 MIR during the outburst phase (hereafter the 2Ol7 epoch). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3827e1d0f62beb0a3bd676db467da1f87caf66dd66bb318705cf0208cab9366.jpg",
+        "img_caption": [
+            "Figure 8. SEDs of the R17 sp-s-i models that satisfy $\\chi ^ { 2 } - \\chi _ { \\mathrm { b e s t } } ^ { 2 } < 3 n _ { \\mathrm { d a t a } }$ for $\\mathrm { ~ M ~ 1 7 ~ M I R }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The flux densities ofM17 MIR in the 20O5 and 2017 epochs are tabulated in Table 7.The $3 \\sigma$ upper limit of the Herschel $7 0 \\mu \\mathrm { m }$ image is 77 Jy for M17 MIR,which is considered as the upper limit in both the 2Oo5 and 2017 epochs. The additional input parameters besides the flux densities are distance and foreground extinction $A _ { V }$ ．The distance to M17 MIR is fixed to 2.0 kpc.We assume a wide range of 1O-2oo mag for the foreground extinction $A _ { V }$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We employed the SED model grid for YSOs that spans a wide range of evolutionary stages, from the youngest deeply embedded protostars to pre-main-sequence stars withdebris or no disk,and which coversa wide anduniform region of parameter space (Robitaille 2Ol7a, hereafter R17). We fit the SED of M17 MIR using several R17 model sets of different model components,using the Python-based fitting tool (1.3 version; Robitaille 2017b). Based on the prior knowledge of M17 MIR, it is a highly embedded massive protostar with an accretion disk.The model sets we used are sp-s-i,sp-smi,spu-smi,spubsmi. All four model sets have a passive disk with an inner radius equal to the dust sublimation radius.sp-s-i is the simplest model set including only the central star and passive disk. The other three model sets include ambient gas (sp-smi),envelope+ambient gas (spu-smi),and envelope+ambient $^ +$ cavity (spubsmi). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fitting the SED of M17 MIR to the individual models of the four model sets returns a $\\chi ^ { 2 }$ value for each individual model. The criterion $\\chi ^ { 2 } - \\chi _ { \\mathrm { b e s t } } ^ { 2 } < 3 n _ { \\mathrm { d a t a } }$ can generally split good and bad fits.We used this criterion to select good fits from the four model sets. Among these good fits,we use the following criteria to pick reasonable models. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Disk mass $\\geqslant \\ 0 . 0 1 M _ { \\odot }$ . The disk accretion of M17 MIR estimated from H $^ { - 2 }$ O maser motions is $7 \\times 1 0 ^ { - 4 } M _ { \\odot } { \\mathrm { y r } } ^ { - 1 }$ 业 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To sustain such a high accretion rate,we require this criterion. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Disk inclination angle $\\geqslant 3 0 ^ { \\circ }$ ．Because the blue- and redshifted H2O maser spots are distinctly separated in the vicinity of M17 MIR，the disk inclination angle should not be small. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Exclude unphysical models. Some models are unphysical with too small radii but too high temperatures. We compute the Stefan-Boltzmann luminosity $( 4 \\pi R _ { * } ^ { 2 } \\sigma T _ { * } ^ { 4 } )$ from the radius and temperature of each model. These unphysical models are below the ZAMS track in the HR diagram. We keep only the models that are lying on/above the ZAMS track in the H-R diagram. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The above criteria for the four model sets return reasonably good fits for the SEDs of M17 MIR in the 2005 and 2O17 epochs. Because of the degeneracy of the four model sets,one has to score these sets not only based on $\\chi ^ { 2 }$ values.In order to assess the model sets in comparison with each other in a statistically robust way， Robitaille (2O17a） suggested calculating $P ( D | M ) \\propto N _ { \\mathrm { g o o d } } / N$ ，where $N _ { \\mathrm { g o o d } }$ is the total number of models from a given model set,and $N$ is the total number of models in that set. Towner et al.(2019) used the R17 model sets to find the best YSO models for 12 MYSOs based on the overall assessment of $\\chi ^ { 2 }$ and $P ( D | M )$ scores.For the good fits of M17 MIR,we show the $\\chi _ { \\mathrm { b e s t } } ^ { 2 }$ and $P ( D | M )$ scores of the four model sets in Table 8.In the 2005 and 2017 epochs,sp-s-i is the \"best representation” model set according to both the $\\chi _ { b e s t } ^ { 2 }$ and $P ( D | M )$ scores. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Among the sp-s-i model set, 44 and 13 models remain for the SEDs of M17 MIR in the 2005 and 2017 epochs, respectively.In the 2017 epoch，the SOFIA observations at 19.7μm and 37.1μm are very useful in distinguishing the various models of a given model set (Figure 8). Among the 13 models in the 2017 epoch (Ta",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/b38d7ca377444ee6c511266cf61f75f3e4bbffe1e2888d4cc543d422cc5af6f9.jpg",
+        "table_caption": [
+            "Table 7.Flux densities of M17 MIR in the 2005 and 2017 epoch "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Epoch State</td><td>Spitzer 3.6μm</td><td>VLT 3.78μm (mJy)</td><td>Spitzer 4.5μm (mJy)</td><td>Spitzer 5.71μm (mJy)</td><td>Spitzer 7.8μm (Jy)</td><td>VLTa 11.8μm (Jy)</td><td>19.7μm (Jy) SOFIA6</td><td>SOFIAb 37.1μm (Jy)</td><td>HerschelC 70μm</td></tr><tr><td>2005</td><td></td><td>2.29 ± 0.21</td><td>21.3 ± 2.9</td><td>85.0 ±8.0</td><td>0.14± 0.03</td><td>0.139 ± 0.007</td><td>< 0.51 ± 0.12</td><td>< 7.3± 1.2</td><td>(Jy) <77</td></tr><tr><td>2017</td><td>3.8± 0.7</td><td>…</td><td>59.7 ± 5.9</td><td>…</td><td>…</td><td>> 0.139 ±0.007</td><td>0.51 ± 0.12</td><td>7.3 ± 1.2</td><td><77</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（204号 $a$ The flux density at $1 1 . 8 \\mu \\mathrm { m }$ in the 2005 epoch is considered as the lower limit in the 2017 epoch. $b$ The flux densities at19.7μm and $3 7 . 1 \\mu \\mathrm { m }$ in the 2017 epochareconsidered as theupper limitsin the2005 epoch. （204号 $c$ The measurement at 70μm in the 2010.03 epoch is considered as the upper limit. ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d6e083b3049d22edf8fddfeab864764a982d716376cc9b36c13cb460f57aca5.jpg",
+        "table_caption": [
+            "Table 8. $\\chi ^ { 2 }$ and $P ( D | M )$ scores of R17 model sets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">2005 epoch</td><td colspan=\"3\">2017 epoch</td></tr><tr><td>Model</td><td>x²</td><td>P(D|M)</td><td>Model</td><td>x²</td><td>P(D|M)</td></tr><tr><td>sp-s-i</td><td>9.034</td><td>0.0044</td><td>sp-s-i</td><td>2.41</td><td>0.0013</td></tr><tr><td>sp-smi</td><td>8.241</td><td>0.0022</td><td>sp-smi</td><td>15.99</td><td>0.0017</td></tr><tr><td>spu-smi</td><td>14.54</td><td>0.0012</td><td>spu-smi</td><td>14.46</td><td>0.0009</td></tr><tr><td>spubsmi</td><td>9.42</td><td>0.00065</td><td>spubsmi</td><td>11.14</td><td>0.0005</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ble 9),two models correctly reproduce the SED slope between 19.7μm and $3 7 . 1 \\mu \\mathrm { m }$ .Indeed, the $\\chi _ { \\mathrm { b e s t } } ^ { 2 }$ model is different from the second fit only in the disk inclination angle. Aided by the observations at $1 9 . 7 \\mu \\mathrm { m }$ and $3 7 . 1 \\mu \\mathrm { { m } }$ in the 2017 epoch, the $\\chi _ { \\mathrm { b e s t } } ^ { 2 }$ model is distinctly better than the other sp-s-i models. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the 2005 epoch, the 44 sp-s-i models show a degeneracy in the long-wavelength SED beyond $1 2 \\mu \\mathrm { m }$ ，due to the lack of observations at long wavelengths.Povich et al. (2O11) found similar SED degeneracy at long wavelengths for a deeply embedded YSO with hard X-ray emission (PCYC source 699 from Povich et al. (2011)) in the Carina nebula region,when they fitted the SED of this object to YSO model SEDs from Robitaille et al. (2006). In Figure 9 of Povich et al. (2011),the distributions of the well-fit YSO models show two distinct groups: intermediate-mass YSOs with relatively high circumstellar extinction and low-mass YSOs with lower circumstellar extinction. The group with high circumstellar extinction is consistent with the high absorption of the X-ray source (Povich et al. 2O11). For the 44 sp-s-i models of M17 MIR in the 2005 epoch, two distinct families are found in the plot of infrared luminosity integrated between 12 and $5 0 0 \\mu \\mathrm { m }$ versus disk maximum radius $R _ { \\mathrm { m a x } } ^ { \\mathrm { d i s k } }$ : high infrared luminosity with $R _ { \\mathrm { m a x } } ^ { \\mathrm { d i s k } } ~ > ~ 1 0 0 0 \\mathrm { a u }$ and lumnasis $R _ { \\mathrm { m a x } } ^ { \\mathrm { d i s k } } < 1 0 0 0 \\mathrm { a u }$ $R _ { \\mathrm { m a x } } ^ { \\mathrm { d i s k } } > 1 0 0 0 \\mathrm { a }$ consistent with the general understanding of MYSOs, which are luminous at long infrared wavelengths and have large circumstellar disks. Moreover, the $\\chi _ { \\mathrm { b e s t } } ^ { 2 }$ sp-s-i model in the 2O17 epoch also suggests a large cir cumstellar disk for M17 MIR. The $R _ { \\mathrm { m a x } } ^ { \\mathrm { d i s k } } ~ > ~ 1 0 0 0 \\mathrm { a u }$ family of the sp-s-i models is preferred for the SED of M17 MIR in the 2005 epoch. Among the nine sp-si models with $R _ { \\mathrm { m a x } } ^ { \\mathrm { d i s k } } ~ > ~ 1 0 0 0 \\mathrm { a u }$ in Table 9, two models with $T _ { e f f } = 2 4 , 5 4 0 \\mathrm { K }$ likely produce significant 22 GHz continuum emission that could be detected by the ATCA observations during 2003-2008 (B10,BE11). However,no 22 GHz continuum source was reported around M17 MIR according to the ATCA observations. We excluded the two very hot sp-s-i models in the following analysis.On the other hand,stellar luminosity in the 2Oo5 epoch should be much lower than that in the 2017 epoch. This constraint leads to a final collection of only three reasonable sp-s-i models. For the three sp-s-i models,we calculated the mean $\\langle T _ { \\mathrm { e f f } } \\rangle$ ， $\\langle R _ { * } \\rangle$ $\\left. L _ { * } \\right.$ . and foreground $\\langle A _ { V } \\rangle$ ， weighted by $\\textstyle { \\frac { 1 } { \\chi ^ { 2 } } }$ . These values are listed in Table 10 for the 2005 epoch. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the above analysis for the R17 models satisfying $\\chi ^ { 2 } - \\chi _ { \\mathrm { b e s t } } ^ { 2 } < 3 n _ { \\mathrm { d a t a } }$ ，noconstraintontheforegound extinction $A _ { V }$ was applied. The good SED models in the 2005 and 2017 epochs converge on a narrow range of foreground extinction $A _ { V } = 1 2 0 - 1 5 0$ mag, despite a broad $A _ { V }$ range of $1 0 - 2 0 0$ mag used in the SED fitting procedure. This narrow $A _ { V }$ range still holds for the other “bad” SED models. The observations at $7 . 8 \\mu \\mathrm { m }$ and $1 1 . 8 \\mu \\mathrm { m }$ in the 2Oo5 epoch that cover the broad absorption feature at $9 . 7 \\mu \\mathrm { m }$ yield a strong constrain on the foreground extinction.This is consistent with the deep absorption feature at $9 . 7 \\mu \\mathrm { { m } }$ caused by the large absorption of silicate grains,which is commonly observed for deeply embedded high-mass protostars (e.g., Morales et al. 2009; Pitts et al. 2018). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The difference in luminosity between the 2Oo5 and 2017 epochs indicates the luminosity burst of $\\Delta L =$ $7 6 0 0 { \\pm } 9 0 0 L _ { \\odot }$ during an accretion outburst of M17 MIR. If $\\Delta L$ is entirely attributed to increased accretion，we can predict the flux density of M17 MIR in the Spitzer I1 and I2 bands during the outburst.We assume that the blackbody temperature of $\\Delta L$ during outburst is $1 0 0 0 \\mathrm { K }$ .Reddenning the blackbody radiation from $\\Delta L$ with a certain amount of extinction essentially matches the flux density in the Spitzer I1 and I2 bands.We assume a total extinction to M17 MIR of 150 mag,which is the sum of a foreground extinction of 130 mag according to the good SED models for M17 MIR and an additional extinction of 2O mag from the circumstellar disk. The blackbody radiation from $\\Delta L = 7 6 0 0 \\pm 9 0 0 L _ { \\odot }$ suffers from a total extinction of 15O mag，equivalent to $0 . 0 6 6 \\times 1 5 0 \\mathrm { m a g }$ and $0 . 0 5 2 \\times 1 5 0 \\mathrm { { m a g } }$ in the Spitzer I1 and I2 bands. This toy model yields flux density of 5.8 mJy and 52.5 mJy in the Spitzer I1 and I2 bands,respectively,which are comparable to the observed values $3 . 8 \\pm 0 . 7$ mJy and $5 9 . 7 \\pm 5 . 9$ mJy in the 2017 epoch, differing by a factor of less than 2. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The luminosities of M17 MIR in Table 1O are indeed the total luminosites,i.e.，the combination of photospheric luminosity ( $L _ { * }$ ）and accretion luminosity $\\left( L _ { \\mathrm { a c c } } \\right)$ ）, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL = 4 \\pi R _ { * } ^ { 2 } \\sigma T _ { \\mathrm { e f f } } ^ { 4 } + G M _ { * } \\dot { M } _ { \\mathrm { a c c } } / R _ { * } .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In the 2005 epoch，we assume that half of $L _ { 2 0 0 5 } \\ =$ $1 4 0 0 L _ { \\odot }$ arises from a ZAMS photosphere with a solar metalicity,and the progenitor's properties are: mass $M _ { * } = 5 . 4 M _ { \\odot }$ ，radius $R _ { * } = 2 . 7 R _ { \\odot }$ ，and effective temperature $T _ { \\mathrm { e f f } } = 1 8 0 0 0 \\mathrm { K }$ (Tout et al.1996),which lies between spectral type B2.5V and B3V (Pecaut $\\&$ Mamajek 2013). The accretion rate $\\dot { M } _ { \\mathrm { a c c } }$ in the 2005 epoch needed to produce the half of $L _ { 2 0 0 5 }$ is $\\sim 1 . 1 \\times 1 0 ^ { - 5 } M _ { \\odot } \\mathrm { y r } ^ { - 1 }$ . comparable to the steady accretion rates for the bursting MYSO of Hunter et al. (2021） and for the $6 M _ { \\odot }$ formation model of Haemmerlé et al. (2013). In the 2017 epoch，we assume $L _ { \\mathrm { a c c } } \\approx 8 3 0 0 L _ { \\odot }$ ，which yields $M _ { \\mathrm { a c c } } \\approx 1 . 7 \\times 1 0 ^ { - 3 } M _ { \\odot } \\mathrm { y r } ^ { - 1 }$ in the 2017 epoch，where $M _ { * } = 5 . 4 M _ { \\odot }$ and $R _ { * } = 3 4 . 1 R _ { \\odot }$ are assumed. The value of $\\dot { M } _ { \\mathrm { a c c } }$ in the 2Ol7 epoch estimated from the stellar parameters agrees with the value of $\\sim 2 \\times 1 0 ^ { - 3 } M _ { \\odot } { \\mathrm { y r } } ^ { - 1 }$ （204号 obtained from the proper motions of $\\mathrm { H } _ { 2 }$ O maser spots (Sect.5.2).In the 2017 epoch,a larger stellar radius is required to produce an accretion rate comparable to the value estimated from observations.This fact is consistent with the simulation prediction that a large accretion rate may cause the protostellar photosphere to bloat,resulting inlarger radius(Yorke & Bodenheimer 2008; Hosokawa & Omukai 2009; Meyer et al. 2019a). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.4.Accretion History of M17 MIR ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The amplitude of MIR flux variation is directly proportional to the enhanced $L _ { \\mathrm { a c c } }$ .Nevertheless,the enhanced $L _ { \\mathrm { a c c } }$ is a reduced version of enhanced $\\dot { M } _ { \\mathrm { a c c } }$ ，due to the significant inflation of the central object during the burst accretion phase.In the burst accretion phase, the $\\dot { M } _ { \\mathrm { a c c } }$ is amplified by a factor of hundreds compared with that in the quiescent phase.M17 MIR even shows a WISE/NEOWISE W2 flux variation in a cadence of six months,despite the overall trend of becoming continuously brighter. The overall trend is suggested to originate from the increasing $\\dot { M } _ { \\mathrm { a c c } }$ . On the other hand, the smaller variation in the cadence of six months might imply unsteady $\\dot { M } _ { \\mathrm { a c c } }$ with a smaller amplitude.For instance,the variation in the W2 flux density is $- 4 2 \\%$ between 2017.09 and 2018.03. This variation corresponds to $\\Delta \\dot { M } _ { \\mathrm { a c c } } = - 4 2 \\%$ , if we assume the stellar radius to remain unchanged. This is the largest variation in $\\dot { M } _ { \\mathrm { a c c } }$ during the burst accretion phase. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Considering the MIR variation during the decreasing phase 1993.03-2004.09，M17 MIR is about three times brighter in 1993.03 than in 2017.08.We speculate that $\\dot { M } _ { \\mathrm { a c c } }$ in 1993.03 is $\\sim 5 \\times 1 0 ^ { - 3 } M _ { \\odot } \\mathrm { y r } ^ { - 1 }$ ,three times that in the rebrightening phase.However, $\\dot { M } _ { \\mathrm { a c c } }$ in 1993.03 is probably even higher, since M17 MIR may expand to even larger size than that in the rebrightening phase. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The MIRlight curve of M17 MIR exhibits three phases characterized by M17 MIR'sMIR variation in flux density over 26 yr.From the above results and analyses，we conclude that the decreasing and rebrightening phase of M17 MIR indeed reflect the two accretion bursts,which are separated by the quiescent phase lasting about 6 yr The first accretion burst likely began between 1984 and 1993,and lasted longer than 11 yr but less than 20 yr. Thus we use a middle value of 15 yr. We fortunately caught the initial stage of the second accretion burst, aided by the multiepoch observations of the Spitzer and WISE/NEOWISE space telescopes. The duration of the second accretion burst is definitely longer than 9 yr.It is very likely that M17 MIR has not yet reached to its peak brightness,and the duration of the second accretion burst is similar to that of the first epoch.M17 MIR is the first MYSO showing multiple accretion bursts with durations of tens of years and a burst magnitude of about 2 mag. The observed properties of the accretion bursts of Ml7 MIR agree with the prediction from theoretical simulation that 2 mag bursts have a mean duration of about $2 0 { \\mathrm { y r } }$ (Meyer et al. 2019b). ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/f1af294eddd21a1e53b8b6d37b16ca8226d832d64281efd37792c4b78a04f11b.jpg",
+        "table_caption": [
+            "Table 9. The Parameters of R17 sp-s-i Models that Satisfy $\\chi ^ { 2 } - \\chi _ { \\mathrm { b e s t } } ^ { 2 } < 3 n _ { \\mathrm { d a t a } }$ for M17 MIR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Epoch</td><td>Model Name</td><td>x²</td><td>Av (mag)</td><td>R* (Ro)</td><td>Teff (K)</td><td>Mdisk (Mo)</td><td>Rdisk (AU)</td><td>Inclination （）</td><td>Comments</td></tr><tr><td>(1)</td><td>(2)</td><td>3)</td><td>(4)</td><td>(5）</td><td>(6）</td><td>（7)</td><td>(8）</td><td>(9)</td><td>(10)</td></tr><tr><td rowspan=\"12\">2005</td><td>7Px1sJu9_07</td><td>11.387</td><td>137.259</td><td>8.678</td><td>11330.0</td><td>0.03119</td><td>2707.0</td><td>60.37</td><td>good fit</td></tr><tr><td>ORya6h0F_07</td><td>13.715</td><td>138.992</td><td>18.77</td><td>12710.0</td><td>0.01624</td><td>1362.0</td><td>68.83</td><td>L2005~ L2017</td></tr><tr><td>e6RRFGdF_04</td><td>15.246</td><td>143.522</td><td>8.979</td><td>17560.0</td><td>0.03541</td><td>1359.0</td><td>38.46</td><td>L2005 L2017</td></tr><tr><td>1EHMCdxi_07</td><td>15.652</td><td>135.411</td><td>17.09</td><td>13690.0</td><td>0.07064</td><td>4221.0</td><td>63.84</td><td>L2005~ L2017</td></tr><tr><td>e6RRFGdF_05</td><td>16.029</td><td>143.569</td><td>8.979</td><td>17560.0</td><td>0.03541</td><td>1359.0</td><td>41.11</td><td>L2005  L2017</td></tr><tr><td>wRz4n9OE_04</td><td>16.72</td><td>120.122</td><td>7.19</td><td>10480.0</td><td>0.02166</td><td>3444.0</td><td>37.77</td><td>good fit</td></tr><tr><td>LwIekVA6_04</td><td>19.687</td><td>147.335</td><td>16.18</td><td>10510.0</td><td>0.03299</td><td>2554.0</td><td>31.59</td><td>good fit</td></tr><tr><td>kskLMN4Y_05</td><td>20.179</td><td>149.157</td><td>5.494</td><td>24540.0</td><td>0.0622</td><td>3640.0</td><td>47.86</td><td>too hot</td></tr><tr><td>kskLMN4Y_06</td><td>20.859</td><td>148.937</td><td>5.494</td><td>24540.0</td><td>0.0622</td><td>3640.0</td><td>51.65</td><td>too hot</td></tr><tr><td>8UXTjAhl_08</td><td>2.412</td><td>134.181</td><td>34.14</td><td>9631.0</td><td>0.07883</td><td>4067.0</td><td>72.06</td><td>good fit</td></tr><tr><td rowspan=\"14\">2017</td><td>8UXTjAhl_07</td><td>7.531</td><td>134.866</td><td>34.14</td><td>9631.0</td><td>0.07883</td><td>4067.0</td><td>63.34</td><td>good fit</td></tr><tr><td>yTvNrh2o_04</td><td>10.444</td><td>117.76</td><td>4.789</td><td>22810.0</td><td>0.07566</td><td>316.5</td><td>32.15</td><td>bad fit at 19.7,37.1μm</td></tr><tr><td>REwCcjZc_05</td><td>10.863</td><td>132.046</td><td>39.91</td><td>8132.0</td><td>0.017</td><td>4539.0</td><td>48.53</td><td>bad fit at 19.7,37.1μm</td></tr><tr><td>REwCcjZc_04</td><td>11.187</td><td>134.554</td><td>39.91</td><td>8132.0</td><td>0.017</td><td>4539.0</td><td>32.8</td><td>bad fit at 19.7,37.1μm</td></tr><tr><td>yTvNrh2o_05</td><td>11.204</td><td>119.925</td><td>4.789</td><td>22810.0</td><td>0.07566</td><td>316.5</td><td>42.77</td><td>bad fit at 19.7,37.1μm</td></tr><tr><td>REwCcjZc_06</td><td>11.619</td><td>130.341</td><td>39.91</td><td>8132.0</td><td>0.017</td><td>4539.0</td><td>56.39</td><td>bad fit at 19.7,37.1μm</td></tr><tr><td>REwCcjZc_07</td><td>12.488</td><td>129.402</td><td>39.91</td><td>8132.0</td><td>0.017</td><td>4539.0</td><td>60.18</td><td>bad fit at 19.7,37.1μm</td></tr><tr><td>V5ttV0Uz_07</td><td>12.517</td><td>145.476</td><td>59.43</td><td>7264.0</td><td>0.0982</td><td>4549.0</td><td>67.08</td><td>bad fit at 19.7,37.1μm</td></tr><tr><td>h2UvYxug-09</td><td>13.188</td><td>139.651</td><td>76.3</td><td>9036.0</td><td>0.01695</td><td>1770.0</td><td>82.7</td><td>bad fit at 19.7,37.1μm</td></tr><tr><td>LZEBw0DZ_08</td><td>13.556</td><td>138.967</td><td>38.38</td><td>11690.0</td><td>0.01377</td><td>941.7</td><td>71.79</td><td>bad fit at 19.7,37.1μm</td></tr><tr><td>LZEBw0DZ_07</td><td>14.313</td><td>139.677</td><td>38.38</td><td>11690.0</td><td>0.01377</td><td>941.7</td><td>60.78</td><td>bad fit at 19.7,37.1μm</td></tr><tr><td>jzCvPxfT_06</td><td>14.323</td><td>126.138</td><td>47.92</td><td>8185.0</td><td>0.0576</td><td>4076.0</td><td>52.93</td><td>bad fit at 19.7,37.1μm</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/a920a1d35c536be485b3f640aea84fed3945ae4464a4fb63df1fd939d5d290c2.jpg",
+        "table_caption": [
+            "Table10.Basic stellar parameters of M17 MIR in the 2005 and 2017 epochs. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Epoch</td><td>R* (Ro)</td><td>Teff (K)</td><td>L* (Lo)</td><td>Av (mag)</td><td>M* (Mo)</td><td>Macc (Mo yr-1)</td><td>(Lo) Lacc</td></tr><tr><td>2005</td><td>10.1(3.6)</td><td>10863(415)</td><td>1400(897)</td><td>134.7(10.4)</td><td>5.4</td><td>1.1 × 10-5</td><td>7.0 ×10²</td></tr><tr><td>2017</td><td>34.1</td><td>9631</td><td>9034</td><td>134</td><td>5.4</td><td>1.7 × 10-3</td><td>8.3×10</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We assume a bursting accretion timescale of $1 5 \\ \\mathrm { y r }$ which is comparable to the duration of the decreasing phase in the MIR light curve (somewhere between 1984 and 1993 to mid-2004). If M17 MIR can sustain this enhanced disk accretion rate of $\\sim 2 \\times 1 0 ^ { - 3 } M _ { \\odot } \\mathrm { y r } ^ { - 1 }$ ，it could gain about $0 . 0 3 M _ { \\odot }$ during one accretion burst. This amount of accreted mass is an order of magnitude higher than the mass accretion onto S255IR-NIRS3 (Caratti o Garatti et al. 2O17)and two orders higher than that onto G358.93-MM1 (Stecklum et al. 2021). The quiescent phase of M17 MIR lasts about $6 { \\mathrm { y r } }$ . During the time span of 26 yr,the fraction of time in accretion burst is about $8 3 \\%$ . The main accretion phase of a high-mass protostellar object in an HMC lasts a few times $1 0 ^ { 4 }$ yr (Furuya et al. 2005; Bonfand et al. 2017). A crude estimate,assuming $t _ { \\mathrm { a c c } } = 1 \\times 1 0 ^ { 4 } \\mathrm { y r }$ ,is that this fraction of time in accretion burst yields $\\sim 1 4 M _ { \\odot }$ mass that M17 MIR could accrete from its circumstellar disk. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/483aea02a7cc55d8e1b9882d9198198cd8054b29811ad3149a0f1b224b0e601a.jpg",
+        "table_caption": [
+            "Table 11.Key parameters of six MYSOs with accretion Burst "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Name</td><td>d (kpc)</td><td>Lpre (10Lo)</td><td>(10Lo) Lburst</td><td>Lpost (10³Lo)</td><td>△FIR</td><td>△Fmm</td><td>△t (yr)</td><td>Maser Flaring</td><td>Note</td></tr><tr><td>V723 Car</td><td>2.5</td><td></td><td>-</td><td>4</td><td>~10</td><td>一</td><td>5</td><td>1</td><td>K≥12.9</td></tr><tr><td>S255IR-NIRS3</td><td>1.8</td><td>29</td><td>160</td><td>1</td><td>>10</td><td>2</td><td>2</td><td>CH3OH, H2O</td><td>K≥9</td></tr><tr><td>NGC 6334I-MM1</td><td>1.3</td><td>2.9</td><td>47.6</td><td>1</td><td>16.3</td><td>3.9 ± 0.6</td><td>>6</td><td>CH3OH, H2O</td><td>K-band invisible</td></tr><tr><td>G323.46-0.08</td><td>4.8</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>CH3OH</td><td>K-band visible</td></tr><tr><td>G358.93-MM1</td><td>6.75</td><td>7.6</td><td>19.3</td><td>12.7</td><td>>2</td><td>1</td><td>≤0.5</td><td>CH3OH</td><td>K≥15</td></tr><tr><td>M17 MIR</td><td>2.0</td><td>1.4</td><td>9.0</td><td>1.4</td><td>≥10</td><td>二</td><td>~2×15</td><td>H2O</td><td>K≥ 22</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.5.Comparisonsto other variableMYSOs ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The sample of MYSO accretion bursts is still small. Six MYSOs show a luminosity increase due to an accretion burst: V723 Car (Tapia et al. 2015)，S255IRNIRS3 (Caratti o Garatti et al. 2017; Liu et al. 2018), NGC 6334I-MM1 (Hunter et al. 2017, 2021), G323.46- 0.08 (Proven-Adzri et al. 2019)，G358.93-0.03 MM1 (Stecklum et al. 2021),and M17 MIR in the present work.However,these MYSOs are in different pre-mainsequence (PMS） evolutionary stages. The durations of accretion bursts are poorly constrained except for M17 MIR.To qualitatively describe the relation between the PMS evolutionary stage and an accretion burst, their key parameters are summarized in Table 11.Relatively evolved MYSOs are commonly brighter in the near-IR $K$ band,while the earliest MYSOs are very faint or even invisible in the same band.Generally the $K$ -band brightness of these MYSOs is representative of the PMS evolutionary stage. Among the six MYSOs tabulated in Table 11,four sources show variabilities in the $K$ band, indicating relatively late PMS stages. In particular,G323.46-O.08 was the first one that showed periodic 6.7 GHz methanol maser emission with a period of about 90 days (Proven-Adzri et al. 2O19). Later- on the basis of multiepoch IR data-it was confirmed as an accretion burst MYSO (see Stecklum et al. 2021，and references therein). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "For V723 Car，S255IR-NIRS3，and G358.93-MM1 the duration of the accretion burst $\\Delta t$ was constrained from their IR luminosity changes. The durations of their luminosity increases are of order of years and thus comparable to each other. The two earliest MYSOs, NGC 6334I-MM1 and M17 MIR,are both embedded in HMCs. The progenitor of NGC 6334I-MM1 in its preburst phase might be able to produce a hypercompact region MM1B (Brogan et al. 2016), implying that NGC 6334I-MM1 is more massive and at a later evolutionary stage than M17 MIR.Acoording to the schematic evolutionary sequence of a massive protostar (Motte et al. 2018),M17 MIR might be the earliest MYSO with accretion outbursts. Considering the extreme youth of ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "M17 MIR,its multiple accretion bursts suggest that minor accretion bursts are frequent in the very early stages of massive star formation. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "6.CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The multiwavelength and multiepoch data of the massive protostar M17 MIR and the subsequent analyses of these data yield the following major results. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "1. By analyzing the IR data of M17 SW in the （204号 $3 - 7 0 \\mu \\mathrm { m }$ range,M17 MIR is identified as the driving source of the expanding structure traced by H2O maser motions.The sub-mm dust continuum emission and molecular line emission indicates that M17 MIR is embedded within a HMC. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2.The unified flux density of M17 MIR at the $3 . 8 \\mu \\mathrm { m }$ $L ^ { \\prime }$ band and the $4 . 6 \\mu \\mathrm { m }$ WISE W2 band clearly shows three stages in the light curve: i） the decreasing phase during 1993.03 to mid 2004 with an amplitude of 10 at $3 . 8 \\mu \\mathrm { { m } }$ ，ii）the quiescent phase during mid 2004 to mid 2OlO,and iii） the rebrightening phase since mid 2010 until now with an amplitude of 5 at $4 . 6 \\mu \\mathrm { m }$ .The 22 GHz H2O maser emission associated with M17 MIR also shows fux variations. They are correlated with the MIR flux variation in time space,which together indicate enhanced disk accretion rate onto M17 MIR during the decreasing and rebrightening phase. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.The kinematics of $\\mathrm { H } _ { 2 }$ O maser spots,measured in 2009.1O-2010.12,in the close vicinity of M17 MIR yield a disk accretion rate $M _ { \\mathrm { a c c } } \\sim 7 \\times 1 0 ^ { - 4 } M _ { \\odot } \\mathrm { y r } ^ { - 1 }$ . In the later stage of the rebrightening phase after 2014, $\\dot { M } _ { \\mathrm { a c c } }$ is $\\sim 2 \\times 1 0 ^ { - 3 } M _ { \\odot } \\mathrm { y r } ^ { - 1 }$ ， given by the $4 . 6 \\mu \\mathrm { m }$ fux increased by a factor of $\\sim 3$ compared to the initial stage in 2010. 4.Radiative transfer modeling for the SEDs in the 2005 and 2O17 epoch constrains the basic stellar parameters of M17 MIR.In the quiescent phase in the 2005 epoch，M17 MIR likely has total luminosity $L _ { 2 0 0 5 } \\ =$ $1 4 0 0 \\pm 8 9 7 L _ { \\odot }$ ，stellar mass $M _ { * } \\sim 5 . 4 M _ { \\odot }$ ，stellar radius $R _ { * } ~ = ~ 1 0 . 1 \\pm 3 . 6 R _ { \\odot }$ ，and accretion rate $\\dot { M } _ { \\mathrm { a c c } } \\sim$ $1 . 1 \\times 1 0 ^ { - 5 } M _ { \\odot } { \\mathrm { y r } } ^ { - 1 }$ . In the accretion burst phase (e.g. in the 2017 epoch), $L _ { 2 0 1 7 } = 9 0 3 4 L _ { \\odot } ($ 、 $\\Delta L \\approx 7 6 0 0 L _ { \\odot }$ ), $R _ { * } = 3 4 . 1 R _ { \\odot }$ ，and $M _ { \\mathrm { a c c } } \\sim 1 . 7 \\times 1 0 ^ { - 3 } M _ { \\odot } \\mathrm { y r } ^ { - 1 }$ .In the accretion outburst,a larger stellar radius is required to produce $\\dot { M } _ { \\mathrm { a c c } }$ consistent with the value estimated from the kinematics of H2O maser spots. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5.The decreasing and rebrightening phase of M17 MIR reflect two accretion bursts ( $\\Delta t \\sim 9 - 2 0 :$ yr)， which are separated by the quiescent phase lasting about $6 { \\mathrm { y r } }$ .During the time span of 26 yr, the fraction time of accretion burst is about $8 3 \\%$ .M17 MIR is the first discovered massive protostar showing multiple accretion bursts with durations of tens of years and a burst magnitude of about 2mag. Among the limited sample of accretion burst MYSOs,the extreme youth of M17 MIR suggest that minor accretion bursts are frequent at very early stages of massive star formation. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6.Even during the current accretion burst (since mid 2010 to until now)，the W2 flux density of M17 MIR shows variations of small amplitude up to a factor of 3, indicating variable accretion rate with amplitutde much lower than the overall contrast between queiscent and outburst state.Long time monitoring at MIR bands will record the bursting accretion activity of M17 MIR in the near future. Because M17 MIR is stillin its earliest stage of evolution,it will be a unique testbed for probing the earliest phases of massive star formation. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The authors would like to thank the anonymous referee for a detailed and thoughtful review that has improved the scientific contents of the paper. This work issupported by National Key Research & Development Program of China (2017YFA0402702). We acknowledge support from the general grants 11903083, U2031202，11873093，11873094，and 12041305 of National Natural Science Foundation of China,and support from the DFG grant CH 71/33-1. We thank Tie Liu for informing us of the JCMT SCUBA2 observations in 2016 April that are used in this research.We thank J. O. Chibueze for the discussion of VERA observations. This research has made use of the observations performed with the Herschel Space Observatory, which is an ESA space observatory with science instruments provided by European-led Principal Investigator consortia and with important participation from NASA. This research has made use of the NASA/IPAC Infrared Science Archive,which is operated by the Jet Propulsion Laboratory, California Institute of Technology, under contract with the National Aeronautics and Space Administration. This work is based in part on observations made with the Spitzer Space Telescope,which is operated by the Jet Propulsion Laboratory, California Institute of Technology under a contract with NASA. This publication makes use of data products from the Near-Earth Object Wide-field Infrared Survey Explorer (NEOWISE),which is a joint project of the Jet Propulsion Laboratory/California Institute of Technology and the University of Arizona.NEOWISE is funded by the National Aeronautics and Space Administration. This research is based in part on observations made with the NASA/DLR Stratospheric Observatory for Infrared Astronomy (SOFIA). SOFIA is jointly operated by the Universities Space Research Association，Inc. (USRA), under NASA contract NNA17BF53C,and the Deutsches SOFIA Institut (DSI) under DLR contract 50 OK 090l to the University of Stuttgart. This research used the facilities of the Canadian Astronomy Data Centre operated by the National Research Council of Canada with the support of the Canadian Space Agency. This research has made use of the SVO Filter Profile Service (http://svo2.cab.inta-csic.es/theory/fps/） supported from the Spanish MINECO through grant AyA2014-55216. This research has made use of NASA's Astrophysics Data System. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Audard,M.,Abrahäm,P.,Dunham,M.M.,et al. 2014, in Protostars and Planets VI,ed.H.Beuther,R.Klessen, C.Dullemond,& T.Henning(University of Arizona Press)，387-410 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Belträn,M.T.,&deWit,W.J.2016,A&ARv,24,6, doi: 10.1007/s00159-015-0089-z ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "PASP,115, 953, doi: 10.1086/376696   \nBonfand,M.,Belloche,A., Menten,K.M., Garrod,R. T., & Müller,H. S.P. 2017, A&A,604,A60, doi: 10.1051/0004-6361/201730648   \nBreen, S.L., Caswell, J. L., Ellingsen, S. P.,& Phillips, C.J. 2010,MNRAS,406,1487, doi: 10.1111/j.1365-2966.2010.16791.x   \nBreen,S.L.,& Ellingsen,S.P.2011,MNRAS,416,178, doi: 10.1111/j.1365-2966.2011.19020.x   \nBrogan, C.L., Hunter,T.R., Cyganowski, C.J.,et al. 2016,ApJ, 832, 187, doi: 10.3847/0004-637X/832/2/187 . 2018,ApJ, 866, 87, doi: 10.3847/1538-4357/aae151   \nCaratti o Garatti, A., Stecklum, B., Garcia Lopez, R., et al. 2017, Nature Physics, 13, 276, doi: 10.1038/nphys3942   \nCarrasco-Gonzalez, C., Torrelles, J. M., Cant6, J., et al. 2015,Science,348,114,doi: 10.1126/science.aaa7216   \nCesaroni, R. 2005, in IAU Symposium, Vol. 227, Massive Star Birth: A Crossroads of Astrophysics, ed. R. Cesaroni, M. Fell, E. Churchwell,& M. Walmsley (Cambridge: Cambridge University Press),59-69   \nChen, Z., Nirnberger,D.E.A., Chini,R., Jiang, Z.,& Fang,M. 2015,A&A,578,A82, doi: 10.1051/0004-6361/201424895   \nChibueze, J. O., Kamezaki, T., Omodaka, T.,et al. 2016, MNRAS, 460, 1839, doi: 10.1093/mnras/stw1019   \nChini,R., Hoffmeister, V., Kimeswenger,S., et al. 2004, Nature,429,155, doi: 10.1038/nature02507   \nChini,R.,Hoffmeister,V.H.,Nielbock,M.,et al. 2006, ApJL,645,L61, doi: 10.1086/505862   \nChini,R.,Nielbock,M.,& Beck,R.2000,A&A,357,L33   \nChurchwell,E.,Babler,B.L.,Meade,M.R.,et al. 2009, PASP,121, 213, doi: 10.1086/597811   \nCrété,E.,Giard,M.,Joblin,C.,et al.1999,A&A,352,277   \nCutri,R.M.,Wright,E.L.,Conrow, T.,et al. 2021,VizieR Online Data Catalog,II/328   \nDe Buizer, J.M.,Liu,M., Tan,J.C.,et al. 2017,ApJ,843, 33, doi: 10.3847/1538-4357/aa74c8   \nForster, J.R.,& Caswell, J. L.1989,A&A,213,339 .1999,A&AS,137,43,doi: 10.1051/aas:1999479   \nFreudling,W.,Romaniello,M.,Bramich,D.M.,et al. 2013, A&A,559,A96,doi: 10.1051/0004-6361/201322494   \nFuruya, R. S., Cesaroni, R., Takahashi, S., et al. 2005,ApJ, 624,827, doi: 10.1086/429286   \nGiard,M., Bernard, J. P., Lacombe,F., Normand,P.,& Rouan,D.1994,A&A,291,239   \nGoddi, C.,Moscadelli,L.,& Sanna,A.2011,A&A,535, L8, doi: 10.1051/0004-6361/201117854 & Charbonnel, C. 2013,A&A,557,A112, doi: 10.1051/0004-6361/201321359 . 2016,A&A, 585,A65, doi: 10.1051/0004-6361/201527202   \nHanson,M.M.,Howarth,I.D.,& Conti, P.S.1997,ApJ, 489,698, doi: 10.1086/304808   \nHerter, T.L., Vacca,W.D.,Adams, J.D.,et al.2013, PASP,125,1393, doi: 10.1086/674144   \nHobson, M.P., Padman,R., Scott, P.F., Prestage,R.M., & Ward-Thompson, D.1993,MNRAS, 264, 1025, doi: 10.1093/mnras/264.4.1025   \nHoffmeister,V.H., Chini,R., Scheyda,C.M.,et al. 2006, A&A,457, L29, doi: 10.1051/0004-6361:20065946 .2008,ApJ,686,310,doi: 10.1086/591070   \nHosokawa,T.,& Omukai,K.2009,ApJ,691,823, doi: 10.1088/0004-637X/691/1/823   \nHosokawa,T.,Yorke,H.W.,& Omukai,K.2010,ApJ,721, 478, doi: 10.1088/0004-637X/721/1/478   \nHunter, T.R.,Brogan, C.L., MacLeod,G., et al. 2017, ApJL,837, L29, doi: 10.3847/2041-8213/aa5d0e   \nHunter,T.R.,Brogan, C.L.,De Buizer, J.M.,et al. 2021, ApJL, 912,L17, doi: 10.3847/2041-8213/abf6d9   \nJohnson, C. O., Depree, C.G.,& Goss, W. M. 1998,ApJ, 500,302 (JDG98), doi: 10.1086/305717   \nJohnstone, D., Hendricks,B., Herczeg,G.J.,& Bruderer, S. 2013,ApJ, 765,133, doi: 10.1088/0004-637X/765/2/133   \nKassis,M.,Deutsch,L.K., Campbell,M.F.,et al. 2002, AJ,124,1636, doi: 10.1086/341819   \nKessler,M. F., Steinz, J. A., Anderegg, M. E., et al. 1996, A&A,500,493   \nLagage, P. O., Pel, J. W., Authier,M. et al. 2004, The Messenger,117,12   \nLim,W.,De Buizer,J.M.,& Radomski,J.T. 2020,ApJ, 888, 98, doi: 10.3847/1538-4357/ab5fd0   \nLinz,H., Stecklum, B., Henning, T., Hofner, P.,& Brandl, B. 2005,A&A,429, 903, doi: 10.1051/0004-6361:200400035   \nLiu, S.-Y., Su, Y.-N., Zinchenko, I., Wang, K.-S.,& Wang, Y. 2018,ApJL, 863,L12, doi: 10.3847/2041-8213/aad63a   \nMassi,M.,Felli,M.,& Churchwell,E.1988,A&A,194,116   \nMeyer,D.M.-A.,Haemmerlé,L.,& Vorobyov,E.I.2019a, MNRAS, 484, 2482, doi: 10.1093/mnras/sty3527   \nMeyer,D.M.-A.,Vorobyov,E.I.,Elbakyan,V.G.,et al. 2019b,MNRAS, 482, 5459,doi: 10.1093/mnras/sty2980   \nMorales,E.F.E.,Mardones,D.,Garay,G.,Brooks,K.J., & Pineda, J. E. 2009,ApJ,698, 488, doi: 10.1088/0004-637X/698/1/488   \nMoscadelli,L., Sänchez-Monge,A.,Goddi, C., et al. 2016, A&A, 585,A71, doi: 10.1051/0004-6361/201526238   \nMotte, F.,Bontemps, S.,& Louvet, F. 2018,ARA&A,56, 41, doi: 10.1146/annurev-astro-091916-055235   \nNielbock,M., Chini,R., Hoffmeister,V.H.,et al.2007, ApJL,656,L81,doi: 10.1086/512972   \nNielbock,M.,Chini,R.,Jütte,M.,& Manthey,E.2001, A&A,377, 273, doi: 10.1051/0004-6361:20011053   \nOgbodo,C.S.,Burns,R.A.,Handa,T.,et al. 2017, MNRAS, 469, 4788, doi: 10.1093/mnras/stx1154   \nPecaut,M. J.,& Mamajek, E. E. 2013,ApJS,208, 9, doi: 10.1088/0067-0049/208/1/9   \nPérez-Beaupuits, J. P., Wiesemeyer, H., Ossenkopf, V., et al.2012,A&A,542,L13, doi: 10.1051/0004-6361/201218929   \nPérez-Beaupuits, J.P., Güsten,R., Spaans,M.,et al.2015, A&A,583,A107, doi: 10.1051/0004-6361/201526441   \nPitts,R.L., Barnes,P.J.,Ryder, S.D.,& Li, D.2018, ApJL,867, L7, doi: 10.3847/2041-8213/aae6ce   \nPoglitsch,A.,Waelkens,C.,Geis,N.,et al. 2010,A&A, 518,L2, doi: 10.1051/0004-6361/201014535   \nPovich,M. S., Smith,N.,Majewski, S.R.,et al. 2011, ApJS,194,14, doi: 10.1088/0067-0049/194/1/14   \nProven-Adzri,E., MacLeod, G. C.,Heever,S.P.v.d., et al. 2019,MNRAS, 487, 2407, doi: 10.1093/mnras/stz1458   \nRamirez-Tannus,M. C., Kaper, L., de Koter, A., et al. 2017,A&A,604,A78,doi: 10.1051/0004-6361/201629503   \nRobitaille, T.P. 2017a,A&A, 600,A11 (R17), doi: 10.1051/0004-6361/201425486   \n.2017b,sedfitter:a Python SED ftting tool- v1.0 release, doi: 10.5281/zenodo.235786. https://doi.org/10.5281/zenodo.235786   \nRobitaille,T.P.,Whitney,B.A., Indebetouw,R.,Wood, K.,& Denzmore,P.2006,ApJS,167,256, doi: 10.1086/508424   \nRodrigo,C.,& Solano,E. 2020,in XIV.0 Scientific Meeting (virtual) of the Spanish Astronomical Society,182   \nRodriguez,L.F.,Gonzalez,R.F.,Montes,G.,et al. 2012, ApJ,755, 152, doi: 10.1088/0004-637X/755/2/152   \nSchlafly,E.F.,Meisner,A.M.,& Green,G.M.2019, ApJS,240,30, doi: 10.3847/1538-4365/aafbea   \nSpitzer Science, C. 2009,VizieR Online Data Catalog, II/293   \nStecklum,B.,Wolf,V.,Linz,H.,et al. 2021,A&A,646, A161,doi: 10.1051/0004-6361/202039645   \nStutzki,J.,& Guesten,R.1990,ApJ,356,513, doi: 10.1086/168859   \nTapia,M.,Roth,M.,& Persi,P.2015,MNRAS,446,4088, doi: 10.1093/mnras/stu2362   \nTout,C.A.,Pols,O.R.,Eggleton,P.P.,& Han, Z.1996, MNRAS, 281, 257, doi: 10.1093/mnras/281.1.257   \nTowner, A. P. M., Brogan, C.L., Hunter, T. R., Cyganowski, C.J.,& Friesen,R.K. 2019,ApJ,875,135, doi: 10.3847/1538-4357/ab1140   \nWright,E.L.,Eisenhardt,P.R.M.,Mainzer,A.K.,et al. 2010,AJ,140,1868,doi: 10.1088/0004-6256/140/6/1868   \nWu,Y.W.,Reid, M. J., Sakai, N., et al. 2019,ApJ, 874, 94, doi: 10.3847/1538-4357/ab001a   \nXu,Y.,Moscadelli, L.,Reid,M.J.,et al. 2011,ApJ,733, 25, doi: 10.1088/0004-637X   \nYorke,H.W.,& Bodenheimer,P.20o8,in Astronomical Society of the Pacific Conference Series,Vol.387, Massive Star Formation: Observations Confront Theory, ed.H.Beuther,H.Linz,& T.Henning,189   \nYoung,E.T.,Herter,T.L.,Güsten,R.,et al. 2012,in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series,Vol. 8444,Ground-based and Airborne Telescopes IV,ed.L.M. Stepp,R.Gilmozzi,& H. J.Hall, 844410 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    }
+]

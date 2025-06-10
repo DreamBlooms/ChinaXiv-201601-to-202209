@@ -1,0 +1,352 @@
+[
+    {
+        "type": "text",
+        "text": "1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 李月珠郭锦心 司丽鸽 王 昱隋金玲\\*（北京林业大学，自然保护区学院，北京100083）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4摘要：糖皮质激素（GC）可以用来反映鸟类的应激水平、监测鸟类的应激状况，进而了  \n5 解环境对鸟类生存和繁殖的影响。以往的研究中，血液、粪便以及羽毛均可作为鸟类糖皮质激素检测的材料，但目前在我国主要采用血液和粪便，而对羽毛糖皮质激素的检测及其生态学研究尚属于空白，需要对激素的检测方法进一步完善。本文介绍了血液、粪便和羽毛这3种采样技术的研究进展，包括每种采样技术的优缺点、影响检测的因素，论述了羽毛作为一项非损伤或微损伤采样技术在鸟类应激监测中的重要性，并建议在激素研究中，羽毛的采样技术可以作为血液和粪便采样的补充手段，而不是替代手段。在此基础上，本文还就羽毛糖皮质激素检测的应用展开了探讨，其形成机制及其生态学意义是未来研究的重点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：糖皮质激素；应激；皮质酮；羽毛；血液；粪便中图分类号： 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "加拿大生理学家 Selye[1]最早对应激进行了研究，他指出，当面对环境应激源时，动物机体为了克服外界和内部的各种异常刺激而产生应激反应，从而保持机体在极端条件下的平衡。随后，关于动物应激的研究越来越多，其中应激研究的指标包括糖皮质激素（glucocorticoid，GC）水平、免疫功能、代谢、氮平衡等[2]，在鸟类相关研究中主要围绕着糖皮质激素展开。糖皮质激素是由下丘脑-垂体-肾上腺皮质（HPA）轴刺激肾上腺皮质而分泌的[3]，被视为应激激素，因为当动物处于应激状态时，血浆中糖皮质激素水平必然升高[4]，因此糖皮质激素水平被作为重要的应激指标来反映应激水平。鸟类分泌的糖皮质激素有 $9 5 \\%$ 以上是皮质酮，其水平的变化会对动物机体造成影响。糖皮质激素的分泌增加、",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2018-03-20  \n基金项目：北京第二次陆生野生动物资源调查——常规调查（2015HXFBHQ-SJL-01）  \n作者简介：李月珠（1992-），女，云南宣威人，硕士，从事鸟类生理生态研究。E-mail:  \nLiyuezhu1016 $@$ 163.com  \n\\*通信作者：隋金玲，副教授，硕士生导师，E-mail：jlsui@126.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水平升高在短期正常范围内是有益的，使得动物机体在行为和生理上发生一系列反应以应对应激源，有利于动物摆脱生命危险[5-6]。然而，对HPA轴的长期慢性刺激，使糖皮质激素水平上升，动物机体长期处于应激状况下会对其健康造成很大的不利影响，如降低机体的认知能力[7]、免疫能力[3-8]、体质量[9]和繁殖能力[10]，进而降低存活率，从而影响野生动物的种群动态[1]。对激素的测定可以帮助我们了解恶劣气候、食物资源匮乏、捕食者的攻击恐吓、种间竞争以及人类对栖息地的破坏是如何影响野生动物的生存和繁殖的[12-16]。早期的糖皮质激素检测主要是采集动物的血液样本，这也是应用最广泛的采样技术，然而这样的过程对鸟类是一个干扰和刺激，会使糖皮质激素水平在短时间内升高，从而使得检测到的不是\"基础糖皮质激素\"水平；同时。在野外条件下快速获得血液样品也是很难实现的。这些限制，使得一些新的长期监测手段相继发展，如对排泄物中糖皮质激素的代谢产物以及羽毛中皮质酮水平的检测[17]。但目前，在我国对鸟类应激状况的监测主要通过血液和粪便，对羽毛糖皮质激素的检测及其生态学研究尚属于空白。本文将从血液、粪便和羽毛这3种采样技术入手，介绍当前糖皮质激素检测的研究现状，旨在为鸟类应激状况监测提供一定的参考，为野生鸟类保护作出一点贡献。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1糖皮质激素的测定手段",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1血液样本中激素水平的测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "血液糖皮质激素可以反映出鸟类游离态的和总的糖皮质激素水平，包括基础的和应激诱导状态下产生的[18]。动物血浆和血清中糖皮质激素水平是相同的[19]，而且也是极其稳定的，在-20℃下保存数十年也不会变质[20]，为了保证试验数据的准确性，建议把捕捉后激素检测的时间拟定为 $5 \\mathrm { m i n }$ 至数小时内[21]。鸟类血液样本的采集一般采用翼下静脉采血的方法[22]，采集以后在-20℃条件下保存，并且在 $2 4 \\mathrm { h }$ 内完成离心[2]，以尽可能的减少激素的代谢。鸟类血液中糖皮质激素的水平一般为几纳克/毫升 $( \\mathrm { n g / m L } ) ^ { [ 2 3 ] }$ 。使用血液作为测定材料有2个方面的优势：第一，直接测定的是肾上腺皮质的产物—一糖皮质激素的水平，而不是被分解或者排泄出的代谢物[2；第二，可以同时收集一整套的血液成分，从而对鸟类的状态进行综合评估，包括皮质酮结合蛋白（CBG）[24]、棕榈酸酯和葡萄糖[25]、中性粒细胞/淋巴细胞[3.8]、免疫球蛋白[26]、血浆肌酸激酶[27]、睾酮[24,28]、孕酮[29]、雌二醇[30]等，以上这些指标都会随着动物对应激源的反应而改变。测定血液糖皮质激素水平是最常用的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "手段，然而它却不是最有效的方法，甚至有时候是不必要的[31]。血液糖皮质激素水平反映地是动物短时期内糖皮质激素水平的变化，而不是对一段时间（几天至几周）内糖皮质激素水平的综合检测[16]。  \n影响血液中糖皮质激素检测的因素包括如下7个方面：1）样本的可信度。最大的问题是研人员在捕捉和处理过程中会引发应激反应，由于样品采集以及试验者诱发激素释放是可能产生的问题，最终只能反映短时间范畴内糖皮质激素的状况[13]。糖皮质激素的水平一般在施加应激源 $1 5 { \\sim } 3 0 \\ \\mathrm { m i n }$ 内达到最大值，在 $6 0 { \\sim } 9 0 ~ \\mathrm { m i n }$ 内恢复到基本水平[32]。有研究通过比较3和 $4 \\mathrm { m i n }$ 内采集的血液样本，发现它们之间的差异较小，结果相似，均为基础的糖皮质激素水平[33]。因此，为了尽可能的使测定的激素为\"基础糖皮质激素”，必须在动物被捕捉后 $3 { \\sim } 5 \\mathrm { m i n }$ 内进行血样采集[28.34-35],但在野外条件下快速获得样本是很难实现的。2）样本量。以血液为样本时，一般采集 ${ 5 0 } { \\sim } 1 0 0 ~ \\mathrm { \\textmu L }$ 血液[35]，一些小型鸟类由于受本身血量的限制，对其血液采样十分困难。3）难以捕捉。对于一些离岸时间较长的动物，如海鸟，它在陆地繁殖时间较短，对血液样本的采集难以实施[16]。4）取样频率。对动物频繁的捕捉和采集血液样本，会使它们习惯这样的处理，从而减少应激反应[36]。5）季节性（生理期）的变化。血浆中基础的和应激性的皮质酮水平随着季节变化而变化[37]。6）血液糖皮质激素水平在不同时间点有波动，受昼夜节律，或者其他小的干扰引起的短期变化影响较大[2]。7）光周期的变化。血清皮质酮水平受光周期和光刺激的影响较显著，中光照周期条件下灰文鸟（Lonchura oryzivora）皮质酮激素对光刺激的响应在长、短光照周期条件下明显不同[38]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2粪便样本中激素水平的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粪便采样作为一种非损伤采样技术已经广泛应用在激素的检测之中。血液糖皮质激素普遍通过肝脏代谢，通过肾脏分泌进入尿液或通过胆管进入肠道[39]，形成粪便糖皮质激素代谢物（fecal glucocorticoid metabolites,FGM)，FGM水平与血液基础糖皮质激素水平密切相关，它反映了血液基础游离糖皮质激素水平的变化情况[40]，故而FGM水平作为一个有价值的非损伤性采样技术而获得的数据，可以用来检测激素水平，反映动物的应激状况。粪便中糖皮质激素水平变化滞后于血液中糖皮质激素水平变化，鸟类的滞后时间一般是$\\mathsf { 1 } { \\sim } 2 \\mathrm { h } ^ { [ 4 1 ] }$ 。由于鸟类泄殖腔的特殊构造，粪便和尿液是一起排出体外的，虽然以前的研究建",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "议收集整个粪便和其他排泄物，但糖皮质激素水平在它们之间是难以界定的[42]。使用粪便样本作为测定材料，有以下优势：第一，粪便采样作为一项非损伤性采样技术，不需要像采集血液那样对动物进行捕捉，更容易获得，可降低对动物的干扰[39]；第二，粪便中糖皮质激素水平变化滞后于血液中糖皮质激素水平变化，采集粪样的时候，糖皮质激素已经存在于粪便之中[39,41]，采样不会对结果造成影响；第三，粪便糖皮质激素水平反映的是一段时间内的平均水平，而不是瞬时水平[43]；第四，粪样便于频繁、连续采集，甚至长期采集,有利于对动物应激状况进行长期监测[39,44]。粪便不能像血液那样提供更多的检测指标，不过同样的粪便样本除了测定糖皮质激素外，也可进行基因、睾酮、孕酮、雌二醇、免疫球蛋白等的研究[41.445]。研究指出，粪便糖皮质激素水平可以反映鸟类的生殖状况、免疫状况，并可监测环境压力和人为干扰对鸟类产生的影响[44,46]。  \n影响粪便中糖皮质激素检测的因素表现在如下4个方面：1)粪便采集以后的保存条件和样品的新鲜程度都会影响糖皮质激素水平测定的准确性，因为微生物会降解糖皮质激素，特别是在野外恶劣环境下影响更大，因此样品采集后应尽快于-20℃冷冻保存[47-48]，另外还有室温或低温条件下酒精保存[49]、风干[41,50]、立即提取和保存在固相萃取暗盒[51]的方法。2）不同季节，鸟类食物不同，可能会改变肠道微生物群落，从而改变糖皮质激素的代谢，使得粪便糖皮质激素水平呈季节性变化[52]，日照长度也可能会使鸟类粪便糖皮质激素水平呈现季节性变化[53]，因此，在长期监测研究中，完整粪便样本的采集极为重要。3）鸟类粪便排泄较频繁，激素在肠道中停留的时间较短，粪便糖皮质激素会受日节律的影响[48],为此，对应激反应进行监测时，应取同一时间段内的粪便样品来进行比较分析[53]。4）对鸟类粪便中糖皮质激素进行检测时，为了不影响测量结果的准确性，样本量干重至少要有$2 0 \\mathrm { m g } ^ { [ 5 4 ] }$ ，这对于小型鸟类是难以实现的，可以通过1d内多次采集来避免样品量不足而造成的影响[53]。然而，对野生鸟类粪便的取样是极其困难的，很多鸟类粪便的量很少，而且不容易采集。  \n1.3羽毛样本中激素水平的测定",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Bortolotti等[35]最先通过检测羽毛皮质酮水平来反映鸟类的内分泌状况，证实了通过羽毛皮质酮水平来反映鸟类的长期生理应激状况是可行的，羽毛具有再生能力，通过换羽或者摘除某一特定位置的羽毛，一段时间以后新的羽毛就会长出来，通过检测其羽毛皮质酮)4 水平，就可以反映出这段时间内鸟类的应激水平。生长羽毛的细胞是高度血管化的，成熟)5 以后会死亡，羽毛生长过程中激素通过血管进入到羽毛中，羽毛角质化以后激素便存储在0)6 其中，羽毛皮质酮水平反映了羽毛生长期间基础的和应激产生的糖皮质激素的综合水平[35])7 羽毛对动物提供了最长时间的糖皮质激素监测样本，其缓慢的增长意味着对激素提供了一18 个时间尺度上的测量，这个时间段取决于羽毛的生长周期，通常是几天、几周或者几个月。0 目前关于羽毛皮质酮的形成机制，普遍认同的是 Bortolotti等[35]的观点，认为羽毛中的皮质0 酮来自于血液，这在后来的研究当中也得到一些证实。Lattin 等[17]给9只紫翅掠鸟（Sturnus.1 vulgaris）的肩胛骨之间植入结晶状皮质酮，另外11只作为对照组而未植入，发现羽毛生2 长期间，血浆皮质酮水平与羽毛皮质酮水平有对应关系，植入结晶状皮质酮后升高了鸟类3 血浆皮质酮水平,对应的鸟类羽毛皮质酮水平也显著高于无植入物的对照组。Fairhurst 等[33]4 通过外源植入物来增加双色树燕（Tachycineta bicolor）皮质酮水平，试验采集了7、9、11.5 日龄的多份血液样本，在动物捕捉4min 内采集血液作为基础皮质酮样本，在动物捕捉后.6 30 min 采集血液作为应激诱导产生的皮质酮样本，发现羽毛皮质酮水平可以反映血液中基.7 础的和应激诱导产生的皮质酮水平，但只有当血浆皮质酮水平显著变化而且维持一段时间.8 时才能反映在羽毛皮质酮水平中。尽管血浆皮质酮和羽毛皮质酮水平之间有一定的相关性，9 但并不能使用羽毛皮质酮水平来直接推断短时间内血浆皮质酮水平的变化，羽毛皮质酮水20 平应成为独立的糖皮质激素生理学测量指标[55]。有研究认为，羽毛中的皮质酮来自于体表1 或与金属[镉（Cd)、锰(Mn)、钴(Co)、铜(Cu)、钼(Mo）]和非金属的富集有关，金属会影:2 响鸟类应激轴的活性，但对羽毛皮质酮的具体影响机制还不清楚[56]，目前也还没有研究证3 明鸟类体表能产生皮质酮[57]。皮质酮通过血液扩散到羽毛中，血液皮质酮水平通常是在纳:4 克（ng）数量级，而羽毛皮质酮则是皮克（pg）数量级，这说明沉积过程有一个限制因素5 或者瓶颈发生[55]。虽然目前对羽毛皮质酮的形成机制的认识尚且不完善，但关于测定羽毛:6 皮质酮可以作为应激反应的一项长期监测手段是普遍认同的观点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采集羽毛进行糖皮质激素的检测，有以下优势：第一，羽毛皮质酮作为激素测定的一个微损伤或非损伤取样研究手段，相比较血液损伤更小、更容易采集获得；第二，羽毛皮质酮水平可以反映整个应激时间段的糖皮质激素水平，提供最长时间范围的应激监测；同时，综合检测也减少了区分基础的和应激诱导产生的糖皮质激素水平的必要，更关注于个体的整体水平变化[33]；第三，羽毛皮质酮在羽毛生长阶段就已经形成了[35]，比较稳定，对其进行采集的时候，不会对检测结果造成影响；第四，羽毛样品采集后，储存在室温条件下，长期保存仍然可以用于皮质酮的检测。Kennedy 等[58]的研究中，采集了博物馆在1964—-1966年收藏的红翅黑鹂（Agelaiusphoeniceus）标本的羽毛，用来分析羽毛色素沉积与羽毛皮质酮水平之间的关系。Fairhust 等[59]则评估了1859—2002年143 年间羽毛皮质酮水平变化的趋势。在-20℃低温下保存的羽毛样本也可用于检测[5]，目前还没有证据证明羽毛皮质酮水平会随时间的推移而逐渐减少。从羽毛中提取皮质酮的回顾性检测开辟了新的研究途径，可以从各种时间背景保存下来的标本取样，包括已灭绝的物种，进行皮质酮的生理性研究，对于理解历史上发生的生态事件具有重要意义[59]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "影响羽毛糖皮质激素检测的因素有如下4个方面：1）样品量。Latin 等[17]采集了4只紫翅掠鸟（S.vulgaris）的138根羽毛，分别将每只鸟的羽毛除去羽根后切成小块，用球磨机粉碎直至呈粉末状，并将这些粉末充分混合，取3（大概相当于紫翅掠鸟的1/8 根初级飞羽） ${ \\sim } 9 9 \\mathrm { m g }$ （大概相当于4根完整的初级飞羽）重量范围的羽毛粉末，检测其皮质酮水平，发现羽毛样品低于 $2 0 \\mathrm { m g }$ 时，测量结果偏高，之后才相对稳定一些，当羽毛样品大于 $2 0 \\mathrm { m g }$ 的时候才能避免重量带来的问题。因此，实际情况下，当羽毛量较少，或者小型鸟类的羽毛量不能保证时，为了避免小样本问题，减少误差，建议在试验中将样品重量统一标准化。2）采集部位。采集羽毛样本时，一般采集飞羽或背羽。同1只鸟同一时期生长出来的相邻羽毛[17.56]，或者左右对称（次级飞羽的第5根）的2片羽毛皮质酮水平相同[56]。不同的羽毛类型，如飞羽和体羽，换羽时间是不一样的，检测不同类型羽毛的皮质酮水平反映的是不同的生命历史阶段的状况[60]。3）激素的提取。首先是羽毛的处理，一般是剪碎，或者直接粉碎，后一种方法通过增加样本与溶剂的接触面积，可以提高激素的萃取率[2]。羽毛皮质酮的提取技术一般是利用甲醇来萃取。Kouwenberg 等[16]发现在用酶联免疫分析检测皮质酮水平的试验中，通过甲醇萃取后，再用乙腈（甲基氰）/己烷进行萃取，通过后者纯化去除了影响试验分析的化合物，使得皮质酮检测精度更高，结果误差更小（经乙腈/已烷萃取的样品重复试验结果差异不显著，只进行甲醇萃取的样品重复试验结果差异显著，所得皮质酮水平差异较大），且萃取回收率为 $87 \\%$ ，进一步萃取不会造成大量的皮质酮损失。4）使用的抗体。Lattin 等[17使用 Sigma 抗体得到的羽毛皮质酮水平范围为2.4[红尾鶑(Buteo jamaicensis)]\\~6.7 pg CORT/mm[紫翅掠鸟(S.vulgaris)],而使用 Endocrine Sciences抗体无法检测出羽毛中的皮质酮；Sigma 抗体比 Endocrine Sciences 抗体有更高的交叉反应性，尤其是与类固醇物质之间，比如孕酮、脱氧皮质酮、辜酮，所以在抗体的选用时需要谨慎。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2糖皮质激素各研究手段的评价",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "现阶段，随着采样技术从血液扩展到粪便和羽毛，对鸟类应激反应的研究也不断展开，但各种手段也存在着一定的局限性：1）从对动物造成的损伤性来看，血液采样对于动物造成的刺激最大，羽毛次之，粪便采样作为一个非损伤手段，不需要捕捉即可获得，很大程度上降低了对动物的干扰。2）从样品获取的难易程度看，除笼养的鸟类，很难采集野外生存的鸟类的粪便；野生鸟类的血液和羽毛采集需要捕捉，对于一些小型鸟类的血液采样是很困难的，因而羽毛的采样方法显得尤为重要，对羽毛样本进行采集容易得多，鸟类都有换羽的习性，羽毛脱落后有再生的功能，采集一定量的完全长成的羽毛不会对鸟类的飞行和生存造成影响。另外，馆藏的标本、实验室冻藏的鸟类尸体等均可采集羽毛作为试验材料[61]。对于还处于生长期的羽毛，采集体羽会影响鸟类的体温调节，采集飞羽会带来一些不利因素[62]。3）从保存条件来看，血液样本需要在-20℃的条件下进行保存，粪便需要低温冻存、酒精保存、风干保存等，只有羽毛的保存没有特殊要求，在室温干燥条件下保存即可，不需要像血液和粪便那样需要特殊的保存和运输仪器，大大减少了时间和金钱成本。4）从样品的用途来看，通过血液可以检测一整套的生理生化指标，直观地显示了其健康程度、身体状况，更全面地反映了鸟类的应激水平；虽然新鲜的粪便和羽毛除了进行激素的检测外，也可以进行基因等的研究，但血液样品用途更广。5）从监测时间来看，由于研究者的操作问题，血液糖皮质激素短时间内就会引起应激反应，很可能使得最终反映的是短时间内糖皮质激素的状况[13]，而且血液糖皮质激素水平本身反映的是动物瞬时的变化，而不是一段时间（几天至几周）内的综合变化[1]。粪便糖皮质激素水平能反映一段时间内的应激状况，而羽毛皮质酮水平反映的是羽毛生长这段时间的整体水平，能够提供更长时间的应激监测。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "血液、粪便和羽毛作为3种独立的测量糖皮质激素水平的样品，并非互相冲突，它们的研究可以取长补短，相互印证。血液、粪便、羽毛采样技术的比较见表1。从样本获取及其他因素综合来看，羽毛激素测定为长期环境压力评判提供了一个很好的标准，当需要对应激水平进行长期监测时，羽毛皮质酮水平是一个有效的指标，提供了对个体以及种群层面上的时间尺度的应激检测[35]。当血液样本不可获得时，羽毛样本提供了另外的选择，但对于短期内、瞬间的监测并不适用，而且血液可以同时收集一整套的血液成分，可以对鸟类的状态进行综合评估。在激素研究中，采集羽毛可以作为血液样品的补充而不是替代[55]。同样，粪便作为应激检测的一项非损伤采样技术，不需要捕捉即可采集，大大降低了对动物的干扰，这是其他方法所不具备的优点。所以，建议羽毛采样可以作为血液和粪便采样的补充手段，共同作用于鸟类应激状况研究当中。然而，对于一些野外生存的小型鸟类，血液和粪便都难以采集到，这种程度下羽毛采样其实就是一个替代手段来监测鸟类的应激状况。另外，研究者可以对同一种鸟类做3种不同采样技术的研究，对各自的结果进行比较分析，得出更加全面的结论，这样可使我们对鸟类的应激状况有更深入的认识。这种结果也使我们对不同采样技术的研究结果的误差有更加恰当的评估，从而使不同采样技术的研究都有所改进和发展，减少自身局限性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3144ad6d733bc855845e4c49612c3fa86bfd0399f5ff97ccf16ebcb118f4c47c.jpg",
+        "table_caption": [
+            "Table 1Comparison of blood, feces and feather sampling techniques "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>血液 Blood</td><td>粪便Feces</td><td>羽毛Feather</td></tr><tr><td>对动物造成的损伤性Damage toanimal</td><td>有一定损伤 Some damage</td><td>非损伤 Noninvasive</td><td>非损伤或微损伤Noninvasive ormicro</td></tr><tr><td></td><td></td><td></td><td>damage</td></tr><tr><td>干扰程度 Disturbance degree</td><td>强 Strong</td><td>弱Weak</td><td>中等 Medium</td></tr><tr><td>样品要求 Sampling requirement</td><td>新鲜Fresh</td><td>新鲜Fresh</td><td>不要求 Not require</td></tr><tr><td>样品量 Sampling volume</td><td>50～100 μL</td><td>20 mg</td><td>1 根完整的羽毛 At least one complete feather</td></tr><tr><td>样品获取方式Method of sample</td><td>捕捉 Capture</td><td>无需捕捉，直接采集Noneed to</td><td>捕捉采集、换羽、馆藏的标本、实验室冻</td></tr><tr><td>collection</td><td></td><td>capture, direct collection</td><td>藏的鸟类尸体Capture,natural moult,</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>保存条件 Storage condition</td><td>-20 ℃冷冻保存 Store frozen at -20 ℃</td><td></td><td>museum specimens, dead bird</td></tr><tr><td></td><td></td><td></td><td>-20℃冷冻保存、室温或低温条件下室温保存 Keep at ambient temperature</td></tr><tr><td></td><td></td><td>酒精保存、风干Store frozen at</td><td></td></tr><tr><td></td><td></td><td>-20℃，preserve in alcohol at either</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/94aff2615388621ba6c864706a86ad87f5f26ae64b47ce2e374990f5dded2f61.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">an oven</td></tr><tr><td>季节节律的影响 Affected by seasonal 强 Strong</td><td></td><td>强 Strong</td><td>弱Weak</td></tr><tr><td>rhythm</td><td></td><td></td><td></td></tr><tr><td>日节律的影响 Affected by circadian 强 Strong</td><td></td><td>强 Strong</td><td>弱到无 Weak to none</td></tr><tr><td>rhythm</td><td></td><td></td><td></td></tr><tr><td></td><td>与 应激 相 关 的 指 标 Stress-related皮质酮结合蛋白（CBG）、棕榈酸酯、葡萄</td><td>睾酮、孕酮、雌二醇、免疫球蛋白</td><td>睾酮、孕酮、雌二醇、免疫球蛋白</td></tr><tr><td>indicators</td><td>糖、中性粒细胞/淋巴细胞、免疫球蛋白、血Testosterone，progesterone，estradiol，Testosterone,</td><td></td><td>progesterone, estradiol,</td></tr><tr><td></td><td>浆肌酸激酶、睾酮、孕酮、雌二醇</td><td>immunoglobulins</td><td>immunoglobulins</td></tr><tr><td></td><td>Corticosteronebindingglobulin(CBG),</td><td></td><td></td></tr><tr><td></td><td>palmitate, glucose，neutrophils/lymphocytes,</td><td></td><td></td></tr><tr><td></td><td>immunoglobulin,plasmacreatinekinase,</td><td></td><td></td></tr><tr><td></td><td> testosterone, progesterone, estradiol</td><td></td><td></td></tr><tr><td>监测时间</td><td>糖皮 质 激素水平瞬时的变化An短时间内的应激水平 Stresslevels for羽毛生长时期的整体水平（几天到几周，</td><td></td><td></td></tr><tr><td>Duration of monitoring</td><td>instantaneous snapshot of</td><td> animal'sa period of time</td><td>或几个月）The overall level of the period of</td></tr><tr><td></td><td>glucocorticoid level</td><td></td><td>feathers growth （days to weeks, or months ）</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3羽毛皮质酮的应用及生态学意义",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "羽毛皮质酮水平可以用来反映鸟类的生理应激状况，在鸟类研究过程中，经常会有一些难以开展的研究，如冬季远洋鸟类、消除直接的或者调查者诱发的不良状况、血液激素的疫病分析等方面，在这些方面羽毛皮质酮水平都可以作为一个较好的手段来进行监测[35]。通过检测羽毛皮质酮水平，可以显示鸟类如何应对环境的干扰，适应不同的生命历史阶段[35]。羽毛皮质酮作为激素测定的一个微损伤或非损伤性采样研究手段，具有可行性和实用性等特点。目前，与羽毛皮质酮相关的研究包括鸟类的身体状况[16.63]、羽毛质量[17]、营养状况[16]、环境丰容[64-65]、繁殖能力[3.66]、巢箱微气候[67]、碳稳定同位素[68-69]、睾酮和寄生虫对性别装饰物的影响程度[70]、色素沉积[58,60.71]、石油影响[72]、寄生虫感染[73]、城市化[74]等。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1  \n3.1羽毛皮质酮水平与鸟类身体状态的相关性羽毛皮质酮水平变化会影响鸟类的繁殖成功率，比如繁殖能力、出飞率、产卵数等。  \n繁殖能力低的鸟类羽毛皮质酮水平较高[6]，羽毛皮质酮水平会影响雏鸟的出飞率和出飞日  \n期，羽毛皮质酮水平低雏鸟的出飞率更高，出飞更早[3]。雌鸟羽毛中的皮质酮水平高，则  \n会影响当年的产卵数，但对下一年无影响，雄鸟黑色羽毛的数量作为一个社会等级信号，  \n与皮质酮水平呈正相关关系[35]。羽毛皮质酮水平变化反映了鸟类的健康状况，影响鸟类的生长和发育。换羽期间，皮  \n质酮水平升高会导致羽毛质量降低[17]。雏鸟羽毛皮质酮水平高的，其体型和体重都较小，  \n离巢初飞的可能性更小[33]。猛禽中存在羽毛皮质酮水平与身体大小呈负相关的情况，这表  \n明体型较大的鸟类可能经历较少的自我平衡挑战，或者能更好地应对环境压力[75]。羽毛皮质酮水平可以反映出鸟类在不同的生活史阶段以及个体所受的压力和应对策略  \n的变化情况。Lopez-Jiménez等[75]对不同年龄的黑鸢（Milvus migrans）进行了羽毛皮质酮  \n水平检测，结果显示最年幼的个体羽毛皮质酮水平最高，其后随年龄增长有逐渐下降的趋  \n势，在 ${ 7 } \\mathrm { \\sim } 1 1$ 岁时降至最低水平，而后在最高龄个体（ $\\geq 1 2$ 岁）中略有上升，表明了羽毛  \n皮质酮水平能捕捉到鸟类在生活史中经历的最脆弱、最具挑战性的时期。圈养条件下的红  \n腿石鸡（Alectorisrufa)，在繁殖前期，当人接近笼舍时即表现出明显的受惊并出现逃避的  \n行为，但当孵卵期开始时，对人的靠近表现出更高的耐受性，此时的羽毛皮质酮水平较繁",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "殖前期偏低[35]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "羽毛皮质酮水平可以作为预测个体存活率的指标。Koren 等[7]在秋季捕获家麻雀(Passerdomesticus)取得肋部羽毛，并在随后的冬季追踪这些个体的存活率，发现羽毛皮质酮水平和存活率存在反比的关系，羽毛皮质酮水平较高的个体存活率显著低于较低的个体。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2影响羽毛皮质酮水平的生态因素 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "羽毛皮质酮水平与很多生态因素有关，比如食物和营养状况、天气和气候变化、生境状况等，为许多问题的研究提供了新的角度。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "食物匮乏使得鸟类的生存条件变得恶劣，从而影响鸟类羽毛皮质酮水平。Will等[6]对角嘴海雀（Cerorhincamoncerata）的研究发现羽毛皮质酮水平与体重增长量相关，限制鸟类饮食，使得羽毛皮质酮水平升高。Kouwenberg 等[1的研究发现北极海鹦（Fraterculaarctica）雏鸟羽毛中的皮质酮水平受营养状况影响，营养状况好的雏鸟羽毛皮质酮水平低，食物摄取少的雏鸟羽毛皮质酮水平高，皮质酮水平的升高有可能会促进雏鸟的乞食行为。气候变化会影响鸟类羽毛皮质酮水平。Legagneux等[15]以温度、降水和北大西洋涛动为环境因子，通过5年的监测研究发现，欧绒鸭（Somateriamollissima）的羽毛皮质酮水平受外部环境条件的影响较大，而与繁殖投入、繁殖时间和繁殖前期身体状况没有联系。环境条件是影响欧绒鸭换羽期应激反应的最重要主要因素，夏季和秋初的觅食条件会影响换羽期间皮质酮水平。换羽期或换羽前期是雌性重新补充能量的时间段，气温的改变使得它们的食物（主要是水生生物）在质量和数量上发生变化，从而出现气候变化导致应激反应发生。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "城市化对不同物种的影响有差异，这种差异体现在鸟类的生理应激水平变化上。通过检测穴小鸮（Athenecunicularia）的尾羽皮质酮水平，发现城市和农村鸟类的羽毛皮质酮水平基本相同，这表明城市生活并不会增加鸟类的生理应激，进一步表明鸟类在各种栖息地中个体的分布是非随机的[74]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4研究展望",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "羽毛皮质酮水平检测作为鸟类应激的一个长期的监测手段，可以监测天气和气候、食物资源、生境状况变化这些外在干扰对鸟类的影响。但目前仍有一些还没有解决的问题：1)关于皮质酮在羽毛中的扩散机制问题。皮质酮通过血液扩散到羽毛中，这个过程有一个限制因素或者瓶颈发生，但是具体机制目前还不是很清楚。关于羽毛皮质酮形成机制还需要继续研究，全面地理解影响和限制皮质酮沉积的因素应该成为未来研究的重点。2）关于采样所取的羽毛是否具有代表性的问题。在对羽毛皮质酮水平检测的试验中，一般采集飞羽或者体羽，但是关于采集的羽毛是否具有代表性的问题还不清楚，取某一特定地方的羽毛是否能代表这只鸟类的激素水平？一些雁鸭类鸟类，在每年的夏末繁殖期结束后，所有的飞羽同时换羽。但对于不是同时换羽的鸟类来说，换羽时间的差异是否会对试验结果造成影响？虽然同一只鸟同一时期生长出来的相邻或者对称的2根飞羽皮质酮水平相等，但初级飞羽与次级飞羽或者三级飞羽，这些羽毛之间的皮质酮水平差异性不得而知。此外，关于羽毛皮质酮的生态学意义也是未来研究的重点。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] SELYE H.A syndrome produced by diverse nocuous agents[J].Nature,1936,138:32.   \n[2] SHERIFF M J,DANTZER B,DELEHANTY B,et al.Measuring stress in wildlife:techniques for quantifying glucocorticoids[J].Oecologia,2011,166(4):869-887.   \n[3] VLECK C M,VERTALINO N,VLECK D,et al.Stress,corticosterone and heterophil to lymphocyte ratios in free-living Adelie Penguins[J].Condor,2000,102(2):392-400.   \n[4] 边疆晖,吴雁.哺乳动物的生理应激反应及其生态适应性[J].兽类学 报,2009,29(4):352-358.   \n[5] WINGFIELD J C,SUYDAM R,HUNT K.The adrenocortical responses to stress in snow buntings (Plectrophenax nivalis) and Lapland longspurs (Calcarius lapponicus) at Barrow,Alaska[J].Comparative Biochemistry and Physiology Part C:Pharmacology,Toxicology and Endocrinology,1994,108(3):299-306.   \n[6] 卢庆萍,张宏福.动物应激的研究进展[J].动物营养学报,2007,19(增刊1):465-468.   \n[7] KITAYSKY A S,KITAISKAIA E V,PIATT JF,et al.Benefits and costs of increased levels of corticosterone in seabird chicks[J].Hormones and Behavior,2003,43(1):140-149.   \n[8]张淑萍,郑光美.北京市城区与郊区麻雀(Passermontanus)环境压力的比较研究[J].北京 师范大学学报（自然科学版）,2007,43(2):187-190.   \n[9] GROSS W B,SIEGEL H S.Evaluation of the heterophil/lymphocyte ratio as a measure of ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "stress in chickens source[J].Avian Diseases,1983,27(4):972-979. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": ":10] WINGFIELD J C,SAPOLSKY R M.Reproduction and resistance to stress:when and how[J].Journal of Neuroendocrinology,2003,15(8):711-724. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[11]张淑萍,陈聪,王培哲,等.野生鸟类应激反应的生理机制及其生态意义[J].生态学杂 志,2010,29(11):2280-2285.   \n[12]BOONATRA R,SINGLETON G R.Population declines in the snowshoe hare and the role of stress[J].General and Comparative Endocrinology,1993,91(2):126-143.   \n[13] CREEL S.Social dominance and stresshormones[J].Trendsin Ecology& Evolution,2001,16(9):491-497.   \n[14]SHERIFF M J,BOSSON C O,KREBS C J,et al.A non-invasive technique for analyzing fecal cortisol metabolites in snowshoe hares (Lepus americanus)[J].Journal of Comparative Physiol0gy B,2009,179(3):305-313.   \n[15]LEGAGNEUX P,HARMS N J,GAUTHIER G,et al.Does feather corticosterone reflect individualqualityorexternalstressin arctic-nestingmigratorybirds?[J].PLoS One,2013,8(12):e82644.   \n[16]KOUWENBERG A L,MCKAY D W,FITZSIMMONS M G,et al.Measuring corticosterone in feathers using an acetonitrile/hexane extraction and enzyme immunoassay:feather corticosterone levels of food-supplemented atlantic puffin chicks[J].Journal of Field Ornithology,2015,86(1):73-83.   \n[17]LATTIN C R,REED J M,DESROCHERS D W,et al.Elevated corticosterone in feathers correlateswithcorticosterone-induceddecreasedfeatherquality:avalidation study[J].Journal of Avian Biology,2011,42(3):247-252.   \n[18]LI M,SUN Y F,WU J Z,et al.Variation in corticosterone response and corticosteroid binding-globulin during different breeding sub-stages in Eurasian tree sparrow (Passer montanus)[J].Journal of Experimental Zoology Part A Ecological Geneticsand Physiology,2015,325(1):75-83.   \n[19]FOSTER L B,DUNN R T.Single-antibody technique for radioimmunoassay of cortisol in ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "unextracted serum or plasma[J].Clinical Chemistry,1974,20(3):365-368. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[20]STROUD L R,SOLOMON C,SHEHASSA E,et al.Long-term stability of maternal prenatal steroid hormones from the National Collaborative Perinatal Project:still valid after all these years[J].Psychoneuroendocrinology,2007,32(2):140-150.   \n[21]LYNN S E,PORTER A J.Trapping initiates stress response in breeding and non-breeding house sparrows Passer domesticus:implications for using unmonitored traps in field studies[J].Journal of Avian Biology,2008,39(1):87-94.   \n[22]NEWMAN A,PRADHAN D S,SOMA K K.Dehydroepiandrosterone and corticosterone are regulated by season and acute stress in a wild songbird:jugular versus brachial plasma[J].Endocrinology,2008,149(5):2537-2545.   \n[23] ROMERO L M,MEISTER C J,CYR N E,et al.Seasonal glucocorticoid responses to capture in wild free-living mammal[J].American Journal of Physiology : Regulatory Integrative and Comparative Physiology,2008,294(2):614-622.   \n[24] LI Y Q,SUN Y F,KRAUSE J S,et al.Dynamicinteractionsbetween corticosterone,corticosteroid binding globulin and testosterone in response to capture stress in male breeding Eurasian tree sparrows[J].Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology,2017,205:41-47.   \n[25]NAGRA C L,MEYER R K.Influence of corticosterone on the metabolism of palmitate and glucose in cockerels[J].General and Comparative Endocrinology,1963,3(2):131-138.   \n[26]刘明,王夕龙,袁施彬,等.红嘴相思鸟热应激及壳聚糖抗应激效应研究[J].西华师范大学 学报（自然科学版）,2015,36(1):1-6,11.   \n[27]MITCHELL MA,KETTLEWELL P J,MAXWELL M H.Indicators of physiological stress in broiler chickens during road transportation[J].Animal Welfare,1992,1:91-103.   \n[28]BROWN C R,BROWN M B,RAOUF S A,et al.Efects of endogenous steroid hormone levels on annual survival in cliff swallows[J].Ecology,2005,86(4):1034-1046.   \n[29] CORREA S M,HORAN C M,JOHNSON P A,et al.Copulatory behaviors and body condition predict post-mating female hormone concentrations,fertilization success,and primary sex ratios in Japanese quail[J].Hormones and Behavior,59(4):556-564.   \n[30]SCHOECH S J,BOWMAN R,REYNOLDS S J.Food supplementation and possible mechanismsunderlyingearlybreedingin the FloridaScrub-Jay(Aphelocoma coerulescens)[J].Hormones and Behavior,46(5):565-573.   \n[31] MOSTL E,PALME R.Hormonesasindicatorsofstress[J].Domestic Animal Endocrinol0gy,2002,23(1/2):67-74.   \n[32]DE KLOET E R,SIBUG R M,HELMERHORST M,et al.Stress,genes and the mechanism ofprogrammingthebrainforlaterlife[J].Neuroscience&Biobehavioral Reviews,2005,29(2):271-281.   \n[33]FAIRHURST G D,MARCHANT T A,SOOS C,et al.Experimental relationships between levels of corticosterone in plasma and feathers in a free-living bird[J].Journal of Experimental Biology,2013,216(21):4071-4081.   \n[34]ROMERO L M,REED JM.Collecting baseline corticosterone samples in the field:is under 3 min good enough?[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative Physiology,2005,140(1):73-79.   \n[35]BORTOLOTTI G R,MARCHANT T A,BLAS J,et al.Corticosterone in feathers is a long-term,integrated measure of avian stress physiology[J].Functional Ecology,2008,22(3):494-500.   \n[36] CYR N E,ROMERO L M.Identifying hormonal habituation in field studies of stress[J].General and Comparative Endocrinology,2009,161(3):295-303.   \n[37]ROMERO L M.Seasonal changes in plasma glucocorticoid concentrations in free-living vertebrates[J].General and Comparative Endocrinology,2002,128(1):1-24.   \n[38]刘燕,张志委,赵婷婷,等.光周期和光刺激对雄性灰文鸟行为及生理状况的影响[J].动物 学杂志,2017,52(6):954-963.   \n[39] PALME R,RETTENBACHER S,TOUNMA C,et al.Stress hormones in mammals and birds:comparative aspects regarding metabolism,excretion,and noninvasive measurement in fecal samples[J].Annals of the New York Academy Science,2005,1040(1):162-171. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[40] SHERIFF M J,KREBS C J,BOONSTRA R.Assessing stress in animal populations:do fecal and plasma glucocorticoids tell the same story?[J].General and Comparative Endocrinology,2010,166(3):614-619. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[41] WASSER S K,HUNT K E.Noninvasive measures of reproductive function and disturbance in the barred owl,great horned owl,and northern spotted owl[J].Annals of the New York Academy of Sciences,2005,1046(1):109-137.   \n[42]WASHBURN B E,MILLSPAUGH J J,SCHULZ JH,et al.Using fecal glucocorticoids for stress assessment in mourning doves[J].Condor,2003,105(4):696-706.   \n[43]HARPER J M,AUSTAD S N.Effect of capture and season on fecal glucocorticoid levels indeer mice (Peromyscusmaniculatus) and red-backed voles(Clethrionomys gapperi)[J].General and Comparative Endocrinology,2001,123(3):337-344.   \n[44]张肖.朱鹦(Nipponia nippon)粪便中类固醇激素和免疫球蛋白的研究[D].硕士学位论文. 北京:北京林业大学,2012.   \n[45]HUBER S,PALME R,ARNOLD W.Effects of season,sex,and sample collection on concentrations of fecal cortisol metabolites in red deer (Cervus elaphus)[J].General and Comparative Endocrinology,2003,130(1):48-54.   \n[46]郭彦娇.朱鹦(Nipponia nippon)粪便中类固醇激素的研究[D].硕士学位论文.北京:北京 林业大学,2013.   \n[47]YOUNG A,HALLFORD D M.Validation of a fecal glucocorticoid metabolite assay to assess stress inthebudgerigar (Melopsittacus undulatus)[J].Zoo Biology,2013,32(1):112-116.   \n[48]TURRIANI M,BERNABO N,BARBONI B,et al.Circadian rhythm and stress response in droppings of Serinus canaria[J].Veterinary Medicine International,2016,2:3086353.   \n[49]WASSER S K,RISLER L,STEINER R A.Excreted steroids in primate feces over the menstrual cycle and pregnancy[J].Biology of Reproduction,1988,39(4):862-872.   \n[50]TERIO K A,BROWN J L,MORELAND R,et al.Comparison of diferent drying and storage methods on quantifiable concentrations of fecal steroids in the cheetah[J].Zoo ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Biology,2002,21(3):215-222. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[51] BEEHNER J C,MCCANN C.Seasonal and altitudinal effects on glucocorticoid metabolites inawildprimate (Theropithecusgelada)[J].Physiology & Behavior,2008,95(3):508-514.   \n[52]GOYMANN W,TRAPPSCHUH M.Seasonal and diel variation of hormone metabolites in european stonechats:on the importance of high signal-to-noise ratios in noninvasive hormone studies[J].Journal of Biological Rhythms,2011,26(1):44-54.   \n[53] PEREIRA R J G,GRANZINOLLI M A M,DUARTE J M B.Annual profile of fecal androgen and glucocorticoid levels in free-living male American kestrels from southern mid-latitude areas[J].General and Comparative Endocrinology,2010,166(1):94-103.   \n[54]TEMPEL D J,GUTIEREZ R J.Factors related to fecal corticosterone levels in California spotted owls:implications for assessing chronic stress[J].Conservation Biology,2004,18(2):535-547.   \n[55] ROMEROLM,FAIRHURSTGD.Measuringcorticosterone in feathers:Strengths,limitations,and suggestions for the future[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative Physiology,2016,202:112-122.   \n[56]STRONG R J,PEREIRA M G,SHORE R F,et al.Feather corticosterone content in predatory birds in relation to body condition and hepatic metal concentration[J].General and Comparative Endocrinology,2015,214:47-55.   \n[57]TAVES M D,GOMEZ-SANCHEZ C E,SOMA K K.Extra-adrenal glucocorticoids and mineralocorticoids:evidence for local synthesis,regulation,and function[J].American Journal of Physiology: Endocrinology and Metabolism,2011,301(1):E11-E24.   \n[58]KENNEDY E A,LATTIN C R,ROMERO L M,et al.Feather coloration in museum specimensisrelatedtofeathercorticosterone[J].BehavioralEcology and Sociobiol0gy,2013,67(2):341-348.   \n[59] FAIRHUST G D,BOND A L,HOBSON K A,et al.Feather-based measures of stable isotopes and corticosterone reveal a relationship between trophic position and physiology in ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "a pelagic seabird over a 153-year period[J].IBIS,2015,157(2):273-283.   \n[60]LENDVAI A Z,GIRAUDEAU M,NEMETH J,et al.Carotenoid-based plumage coloration reflectsfeathercorticosteronelevelsinmalehousefinches(Haemorhous mexicanus)[J].Behavioral Ecology and Sociobiology,2013,67(11):1817-1824.   \n[61] BORTOLOTTIGR,MARCHANTTA,BLAS J,et al.Tracking stress:localization,deposition and stability of corticosterone in feathers[J].Journal of Experimental Biology,2009,212(10):1477-1482.   \n[62] MCDONALD P G,GRIFFITH S C.To pluck or not to pluck:the hidden ethical and scientific costs of relying on feathers as a primary source of DNA[J].Journal of Avian Biology,2011,42(3):197-203.   \n[63] HARMS N J,FAIRHURST G D,BORTOLOTTI G R,et al.Variation in immune function,body condition,and feather corticosterone in nestling Tree Swallows (Tachycineta bicolor) on reclaimed wetlands in the Athabasca oil sands,Alberta,Canada[J].Environmental Pollution,2009,158(3):841-848.   \n[64] FAIRHURST G D,FREY M D,REICHERT J F,et al.Does environmental enrichment reduce stress?An integrated measure of corticosterone from feathers provides a novel perspective[J].PLoS One,2011,6(3):e17663.   \n[65] KOREN L,MOKADY O,KLEIN J,et al.A novel method using hair for determining hormonal levels in wildlife[J].Animal Behaviour,2012,63(2):403-406.   \n[66] WILL A P,SUZUKI Y,ELLIOTT K H,et al.Feather corticosterone reveals developmental stress in seabirds[J].Journal of Experimental Biology,2014,217(13):2371-2376.   \n[67] FAIRHURST G D,TREEN G D,CLARK R G,et al.Nestling corticosterone response to microclimate in an altricial bird[J].Canadian Journal of Zoology,2012,90(12):1422-1430.   \n[68] FAIRHURST G D,VOGELI M,SERRANO D,et al.Can synchronizing feather-based measures of corticosterone and stable isotopes help us better understand habitat-physiology relationships?[J].Oecologia,2013,173(3):731-743. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "isotopes in feathers predict egg size in Atlantic Puffins Fratercula arctica[J].Ibis,2013,155(2):413-418. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[70] BORTOLOTTI G R,MOUGEOT F,MARTINEZ-PADILLA J,et al.Physiological stress mediates the honesty of social signals[J].PLoS One,2009,4(3):e4983. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[71] FAIRHURST G D,DAWSON R D,VAN OORT H,et al.Synchronizing feather-based measures of corticosterone and carotenoid-dependent signals:what relationships do we expect?[J].Oecologia,2014,174(3):689-698. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[72] LATTIN C R,ROMERO L M.Chronic exposure to a low dose of ingested petroleum disrupts corticosterone receptor signalling in a tissue-specific manner in the house sparrow (Passer domesticus)[J].Conservation Physiology,2014:2(1):cou058. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[73] SILD E,MEITERN R,MANNISTE M,et al.High feather corticosterone indicates better coccidian infection resistance in greenfinches[J].General and Comparative Endocrinology,2014,204:203-210. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[74] REBOLO-IFRAN N,CARRETE M,SANZ-AGUILAR A,et al.Links between fear of humans,stress and survival support a non-random distribution of birds among urban and rural habitats[J].Scientific Reports,2015,5:13723. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[75] LOPEZ-JIMENEZ L,Blas J,TANFERENA A,et al.Lifetime variation in feather corticosterone levels in a long-lived raptor[J].Oecologia,2016,183(2):315-326. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": ".76] KOREN L,NAKAGAWA S,BURKE T,et al.Non-breeding feather concentrations of testosterone,corticosterone and cortisol are associated with subsequent survival in wild house sparrows[J].Proceedings of the Royal Society B:Biological Sciences,2012,279(1733):1560-1566. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Discussion on Measuring Methods of Stress in Birds ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "LI Yuezhu GUO Jinxin SI Lige WANG YuSUI Jinling\\* (College ofNature Conservation,Beijing Forestry University,Beijing looo83,China) ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "471 Abstract: Glucocorticoid could be used to reflect the stress level of birds and to understand the   \n472 environmental influence on bird survival and reproduction. In previous studies, blood, feces and   \n473 feather were used as glucocorticoid test materials of birds.But so far only blood and feces were   \n474 used in Chinese references.The feather glucocorticoids detection and its ecological research are   \n475 still almost in blank,and the hormone detection method need to be further studied.In this article,   \n476 we reviewed the research progress of blood,feces and feather sampling techniques, including the   \n477 advantages and disadvantages of each sampling technique and factors affecting the detection   \n478 rates.And then we discussed the importance of the feather sampling as a noninvasive or micro   \n479 damage sampling technique in stress monitoring of birds. We suggest that feather sampling   \n480 technology complement the sampling of blood and feces rather than the alternative hormone   \n481 studies.Based on this study, the application of feather corticosteroid testing is discussed.Its   \n482 formation mechanism and ecological significance could be the focus of future research. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Key words: glucocorticoid; stress; corticosterone; feather; blood; feces ",
+        "page_idx": 20
+    }
+]

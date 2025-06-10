@@ -1,0 +1,505 @@
+[
+    {
+        "type": "text",
+        "text": "MC-OLA：基于马尔可夫链的多表连接在线聚集技术",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "史英杰1，杜方²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．北京服装学院 信息工程学院，北京 100029;2.宁夏大学 信息工程学院，银川 750021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：多表连接是大数据分析领域重要的查询类型之一，然而连接查询的实现代价很高，从而影响了大数据分析结果的时效性。在线聚集能够在查询完成前反馈具有统计意义的估计结果，具有重要的意义。目前已有的多表连接在线聚集算法从各表进行统一随机采样，导致连接结果的产出率低，并且导致分组连接查询的估计准确率低。针对这一问题，提出了基于马尔可夫链的多表连接在线聚集技术，将多表连接的实现过程转换为马尔可夫链上的随机游走过程，确定好连接顺序后在游走起始层创建分层样本，并设计了相应的采样策略及结果估计方法。将所提出技术在在线化Hadoop 平台上实现，实验结果证明所提出方案的响应时间优于已有算法，并且具有良好的扩展性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：在线聚集；马尔可夫链；分层采样；多表连接 中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2018.07.0384 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MC-OLA: multi-table join online aggregation based on Markov chain ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shi Yingjiel, Du Fang² (1.SchoolofIformationEngneering,BeijingIstituteofFashionTechnology,eiingo9,China;2.holofotio Engineering Ningxia University 750021, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Multi-table join isoneofthe most important queryoperations inthe fieldof big data analysis,however,the implementationofmulti-tablejoiis expensive,whichafects thetimelinessofthebigdataanalysisresults.Onlineaggregation provide fedbackofstatistical significance farbefore thequeryfinishes，whichisofgreat significance.The existing work on mult-table joinonline aggregation conducteduniform samplingonevery joining table,whichresults inlowjoinresult yield and estimation inacuracyon grouping joinqueries.Toaddress this problem,this paper proposed the multi-table join online aggregation techniquebasedon Markovchain,transformed the multi-table join process into therandom walkon Markovchain, constructed stratified sampleon the walk start trata after determining the join order,anddesigned thecorespondingsampling mechanismand estimationalgorithm.The experiment was conductedon theonline Hadoopplatform,andtheresults demonstrate thattheresponsetimeoftechiqueproposedinthis paperoutperforms theexistingalgorithms,anditownsefficientscalability. Key words: online aggregation; Markov chain; stratified sampling; multi-table join ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "社交媒体、移动设备及传感器以前所未有的速度持续产生着海量数据，探索这些数据背后蕴藏的价值已经成为目前工业界及学术界十分关注的问题，然而复杂的数据分析任务在海量数据上运行缓慢，使得分析结果的时效性和价值大打折扣，成为数据驱动任务发挥作用的瓶颈。即席交互式数据分析在决策支持、趋势分析及数据可视化等领域发挥重要的作用，成为目前大数据分析领域亟待解决的问题之一。在线聚集不断对部分样本数据进行处理，从而可以在较短时间内返回具有统计意义的估计结果，为即席交互式数据分析提供了一种全新的解决方案。在线聚集于20世纪90年代在关系数据库领域被首次提出，随后取得了一系列的研究成果，然而在关系数据库市场所带来的影响力十分有限。随着大数据与云计算平台的出现，新型的数据模式和数据管理方式为在线聚集带来了发展机会。然而目前在云计算平台的在线聚集研究大多关注单表上的操作，或者简单的两表连接，针对多表连接的研究工作还比较少。多表连接是决策支持、数据挖掘和分析中最重要的操作之一，在大数据决策支持应用的基准测试TPC-H[I中，22条查询语句中的17条是连接查询，最多涉及8表的连接。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "相对于单表或两表连接在线聚集，针对多表连接的在线聚集处理方式更加复杂，已有的工作无法直接应用。a)多表连接类型呈多样化，包括链式连接、非环型连接、环型连接等，不同连接类型的在线查询处理方法及结果估计方法均不相同；b)多表连接的结果空间随着连接表数的增大呈指数级增长，而选择率通常较低，已有的采样方法将导致多表连接的结果产出率极低；c)多表连接总体的数据分布不是由一个表简单决定，而是多个表相互影响的结果，已有的解决小分组等问题的算法无法应用。针对上述问题，本文提出了基于马尔可夫链的多表连接在线聚集技术MC-OLA，将多表连接处理过程转换为马尔可夫链上的遍历游走过程，基于该模型在游走起点创建分层样本，并针对采样方法进行结果无偏估计和置信区间计算。本文将MC-OLA在在线化Hadoop平台HOP[2]上实现，实验结果表明MC-OLA 的性能优于randomwalk 算法及ripple join 算法，且具有良好的数据扩展性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在线聚集于20世纪90年代在关系数据库领域被首次提出[3],其主要思想是在查询处理过程中不断从总体数据进行采样,基于样本对查询结果和置信区间进行估计，随着处理数据的不断增长，查询结果的估计质量不断提升。针对单表查询的在线聚集操作，文献[4]给出了无偏估计和置信区间的具体计算方法随着大数据技术的发展，在线聚集技术在云计算领域又引起了广泛关注。文献[5]基于 MapReduce 框架提出了一种采用贝叶斯理论实现在线聚集的方法，考虑每个数据块的聚集值与该数据块处理时间的关系，将数据块的聚集值、调度时间以及处理时间一起进行统计建模。该方法假设数据块的处理时间越长，那么其聚集值也越大，该假设并不是在所有的聚集操作中均成立，而且实现方法也比较复杂。G-OLA[基于 Spark平台实现,主要面向嵌套查询估计的优化，G-OLA采用统一随机采样技术进行结果估计，利用嵌套查询估计结果及置信区间，将最终查询结果分成确定和不确定两个部分，从而减少更新过程中的数据操作。BlinkDB7同样基于Spark平台实现，分析查询负载并基于查询语义选择分层采样的列集，利用分层采样技术解决小数据分组问题，但未解决低选择率的问题。PF-OLA[8提出了一个在分布式环境中实现在线聚集的框架，包括节点内部数据存储、分布式数据采样、查询处理以及结果估计实现机制，使得分布式环境对在线聚集数据流的影响降到最低。文献[9]提出了一种面向原始数据的双层次采样算法，在数据处理过程中分别从数据块及数据块内部进行采样，该算法能够根据计算资源实时调整采样大小，从而减少采样代价。CrowdOLA[1o将基于众包的实体解析方法与在线聚集技术相结合，解决了在重复数据上进行结果估计准确性不高的问题。总的来说，上述研究工作主要关注单表查询的在线聚集实现技术。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单表查询在线聚集的实现机制无法直接应用于多表连接查询的在线聚集，因为从各个表进行随机采样后连接的结果具有相关性，并不是完全随机的。Haas 等人[1对该问题进行研究，并提出了ripple join 算法。Ripple join从各连接表中轮流随机采样，并将样本数据放入内存。每当新的样本从其中一张表中读取出来，将会和其他表中已经读取到的所有数据进行连接，该过程反复执行，直至估计结果满足用户需求时停止。因为从各个表中抽取样本数据时并不考虑数据分布、查询负载等信息，所以当满足连接谓词的结果较少或者分组较多时，ripplejoin的估计结果产出率非常低。针对基本ripple join 算法的不足，随后关系数据库领域出现了对其扩展的研究工作。文献[12]将ripplejoin算法进行了并行化处理，然而该方法并不具有扩展性，一旦内存无法再加载数据时，估计结果将不具有统计意义；文献[13]将sort-merge 思想应用到ripple join算法中，对内存换出到外存的数据进行随机化处理，从而保证估计结果的统计意义，并在引擎DBO上实现；文献[14]提出了TurboDBO，对查询处理过程中的中间结果进行有效利用，从而进一步加快置信区间的收敛速度。COLA[15]基于MapReduce 框架实现了两表连接在线聚集，考虑到云计算平台中数据存储的特点，采用基于数据块的双重分层采样方法进行数据抽样，对ripple join 算法进行并行化，并设计MapReduce作业进行实现。总的来说，ripplejoin 盲目的从各连接表中随机抽取数据，当连接谓词的选择率较低、或者连接结果的分组较多时，连接结果的产出率非常低，从而导致置信区间的收敛速度缓慢。文献[16]提出了wanderjoin算法，在连接数据表上进行随机游走，在游走过程中利用连接列上的索引确定游走方向，基于每次游走对结果进行估计。Wander join 解决了ripple join 在连接选择率较低时，估计结果产出率低的问题，然而当分组较多或数据倾斜出现时，仍然会出现置信区间收敛速度缓慢，甚至会出现小分组估计结果丢失的情况。本文使用马尔可夫链对多表连接过程进行建模，并基于分组列集进行分层采样，有效应对连接负载或数据倾斜导致的结果估计不准确及置信区间收敛速度缓慢的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 MC-OLA概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1问题建模",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用四个表的自然连接说明MC-OLA的建模过程，设连接形式为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SELECT $o p \\big ( e x p ( t _ { 1 i } , t _ { 2 j } , . . . , t _ { k m } ) \\big ) \\ \\mathrm { F R O M } \\ R _ { 1 } , R _ { 2 } , R _ { 3 } , R _ { 4 }$ WHERE $R _ { 1 } . A = R _ { 2 } . B$ and $R _ { 2 } . C = R _ { 3 }$ .D and $R _ { 3 } . \\mathrm { E } = R _ { 4 }$ FGROUP BY col;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在上述查询表达式中， $o p$ 是具体的聚集操作，exp 是对元组的代数操作，col是分组列集。假设连接的顺序是R1-R2-R3-R4，将连接过程转换为从R1到R4的马尔可夫随机过程，如图1所示。图中节点表示各表中的元组，若两个节点满足连接谓词，则在两点间存在一条边。例如，t21与t31间存在一条边，表示满足条件 $\\scriptstyle { \\mathrm { t } } 2 1 . { \\mathrm { C } } = { \\mathrm { t } } 3 1 . { \\mathrm { D } }$ 。从t21还有可能游走到t32和t35，然而这种选择游走方向的概率和t21之前的路径无关，因此满足马尔可夫性质。从R1中某一元组开始游走到R4某一元组结束所形成的随机路径，即为一个连接结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2系统架构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MC-OLA的系统架构由样本创建和在线聚集两个阶段构成，如图2所示。样本创建阶段结合负载特征为原始数据集创建分层样本，分层依据为查询负载中的分组列集。分组列集选择采用文献[17]提出的方法，使得列集在负载中出现的概率以及负载中的分组列集被覆盖的概率达到最大。基于确定好的分组列集以及索引的分布情况，MC-OLA确定各表的连接顺序，进而在马尔可夫链的游走起点创建分层样本。在在线聚集阶段，对用户提交的多表连接查询语句进行解析，动态选择查询代价最小的样本进行分层采样，进而估计查询结果及置信区间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "起始样本层S1 聘 t21 t31 t41C  \n佰 t22 t32 t42。  \n起始样本层S2 t23 t33 t43Ct24 t34 t44  \n起始样本层S3 t25 t35 t45  \nOt26 t36 t46C O C  \nR1 R2 R3 R4",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 采样技术",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单表在线聚集的估计总体为表中的全部元组，全表扫描即可获得各层样本及样本层大小。相对于单表查询，多表连接的估计总体为连接结果或笛卡尔积的子集，其分层样本创建要复杂得多。若采用传统的ripple join 算法，其总体为各表笛卡尔乘积的子集，计算复杂度随连接表数的增加呈指数级增长。MC-OLA将连接过程在马尔可夫链上进行建模，总体被看做从起始表元组到终点表元组的随机游走路线，分层样本的创建通过遍历马尔可夫链实现。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/811c61c0c2f0a2ce0cc8d8342933d61091d4e2f42836f85a26a3dfe8a5e442ff.jpg",
+        "img_caption": [
+            "图1四表链式连接图",
+            "图2MC-OLA系统架构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1确定连接顺序 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1节的问题建模基于链式连接介绍，而多表连接还包括非环型连接和环型连接。用节点表示连接表，节点间的边表示两表间存在连接关系，则四表的连接类型如图3所示。给定一个多表连接的查询，其实现连接的顺序有很多种，而不同的连接顺序对采样和结果估计的准确性及收敛速度产生不同的影响。因此在创建分层样本之前，MC-OLA首先根据负载特征和索引分布情况确定连接顺序。以图3(a)中的链式连接为例， $\\mathrm { R } _ { 1 } \\mathrm { - R } _ { 2 } \\mathrm { - R } _ { 3 }$ 1${ \\mathrm { R } } _ { 4 }$ 以及 ${ \\bf R } _ { 3 } – { \\bf R } _ { 4 } – { \\bf R } _ { 2 } – { \\bf R } _ { 1 }$ 均是合理的连接顺序，而 $\\mathbf { R } _ { 3 } { \\mathbf { - R } _ { 1 } } { \\mathbf { - R } _ { 2 } } { \\mathbf { - R } _ { 4 } }$ 则不是正确的连接顺序。引理1给出了多表连接顺序的确定准则。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/84f95837b3524472745356ac20cd1e65bc9cb3227cd4a1a37c9177349c1d7fd1.jpg",
+        "img_caption": [
+            "图3四表连接类型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引理1设查询语句中参与连接的表有 $\\mathbf { \\nabla } m$ 个，则连接顺序$\\mathbb { R } _ { 1 - \\mathbb { R } _ { 2 - \\mathbb { R } _ { 3 } } \\cdots \\mathbb { R } _ { m } }$ 为合理连接顺序的充分必要条件为：对于连接顺序中的任意表 $\\mathbb { R } \\mathrm { i }$ ，排在 $\\mathbb { R } \\mathrm { i }$ 前面的表格中至少有一个与Ri有直接连接关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明采用数学归纳法进行证明。",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）当有两个表 $\\mathrm { R } _ { 1 }$ 与 ${ \\bf R } _ { 2 }$ 进行连接时，连接顺序包括 $\\mathbf { R } _ { 1 } { - } \\mathbf { R } _ { 2 }$ 或者 $\\mathbf { R } _ { 2 } { \\cdot } \\mathbf { R } _ { 1 }$ 两种，显然满足条件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）假设有 $k$ 个表进行连接时，命题成立。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "充分性。设 $k$ 个表的连接序列为 $\\mathbb { R } _ { 1 } { - } \\mathbb { R } _ { 2 } { - } \\mathbb { R } _ { 3 } { \\cdots } \\mathbb { R } _ { k }$ ，且满足“排在Ri前面的表格中至少有一个与 $\\mathbb { R } \\mathrm { i }$ 有直接的连接关系\"条件，则当增加一个表 $\\mathbf { R } _ { \\mathbf { k } + 1 }$ 参与连接时，将 $\\mathbf { R } _ { \\mathbf { k } + 1 }$ 表放置在原连接序列中 $\\mathrm { R } _ { \\mathrm { i } }$ 和 $\\mathbb { R } _ { \\mathrm { i } + 1 }$ 之间，且满足 ${ \\bf R } _ { \\mathrm { l } } { \\bf - R } _ { \\mathrm { i } }$ 的表中至少有一个与 $\\mathbf { R } _ { \\mathbf { k } + 1 }$ 有直接连接关系，则从 ${ \\bf R } _ { 1 }$ 到 $\\mathbf { R } _ { \\mathbf { k } + 1 }$ 可完成连接，连接后的结果与 $\\mathbb { R } _ { \\mathrm { i } + 1 }$ 到 $\\mathtt { R } _ { \\mathrm { k } }$ 的序列也可完成连接，因此连接顺序合理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "必要性。设 $k$ 个表的连接顺序为 $\\mathbb { R } _ { 1 - \\mathrm { R } _ { 2 } - \\mathrm { R } _ { 3 } \\cdots \\mathrm { R } _ { k } }$ ，且满足“排在 $\\mathbb { R } _ { \\mathrm { i } }$ 前面的表格中至少有一个与 ${ \\bf R } _ { \\mathrm { i } }$ 有直接的连接关系\"条件，则当增加一个表 $\\mathbf { R } _ { \\mathbf { k } + 1 }$ 参与连接时，将 $\\mathbf { R } _ { \\mathbf { k } + 1 }$ 表放置在原连接序列中 $\\mathbb { R } \\mathrm { i }$ 和 $\\mathbb { R } _ { \\mathrm { i } + 1 }$ 之间，且新的序列是合理的连接序列。则 ${ \\bf R } _ { 1 }$ 到 $\\mathbb { R } \\mathrm { i }$ 的序列中必定至少有一张表与 $\\mathbf { R } _ { \\mathbf { k } + 1 }$ 存在直接连接关系，因此新的合理连接序列仍然满足直接连接关系的条件。证明完毕。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于引理1给出连接顺序确定算法。首先根据索引情况为连接图添加方向，若 $\\mathbb { R } \\mathrm { i }$ 与 ${ \\bf R } _ { \\mathrm { j } }$ 间存在一条连接边，且 ${ \\bf R } _ { \\mathrm { j } }$ 在连接列上有索引，则添加方向为 $\\mathbb { R } _ { \\mathrm { i } }$ 到 ${ \\bf R } _ { \\mathrm { j } }$ ，反之亦然。设分组列集属于表Ri，接下来从 $\\mathbb { R } _ { \\mathrm { i } }$ 开始对有向图进行顶点遍历生成连接序列，如算法3.1所示。该算法产生的连接序列为连接图的生成树，对于环型连接，所生成的连接序列没有包含全部连接关系。可在游走完成后，利用剩余的连接关系对游走的连接结果进行进一步筛选。例如，对图3(c)中的查询，若分组列集位于表 ${ \\bf R } _ { 3 }$ ，且生成的连接序列为： $\\mathrm { R } _ { 3 - } \\mathrm { R } _ { 1 } \\mathrm { - R } _ { 2 - } \\mathrm { R } _ { 4 }$ ，利用 $R _ { 2 } { \\mathrm { - } } R _ { 3 }$ 的连接关系在游走完成后对连接结果进行筛选。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1连接顺序确定算法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Input:JoinArray[N][N]:two-dimensional array containing the directed join query graph;   \nOutput:JoinList: join order list;   \n1: JoinSearch(int n,int m) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2:{JoinList.add(n);   \n3: for(int i=0;i++;i<m)   \n4: if(JoinArray[n][i] $\\scriptstyle \\sum \\prime = \\sum \\prime$ &visited[i] $\\scriptstyle = = 0$ ）   \n5: { visited[i]=1;   \n6: JoinSearch(i,m);   \n7: }   \n8:} ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2创建分层样本游走起始层",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MC-OLA将分组列集所在表放置在马尔可夫链随机游走的起始端，基于起始端的数据表Rs创建分层样本的游走起始层。针对单表查询创建分层样本时，样本总体即为原始表数据，因此直接根据分组列集进行分层，各样本层中元组的个数即为层大小。在多表连接的在线聚集中，样本总体为多表连接的结果，无法通过单独扫描任何一个表格得到分层样本。针对Rs 中的任一元组ti，MS-OLA基于马尔可夫链从ti进行游走，计算与该元组相关联的连接结果的个数，从而进一步确定ti起始层的大小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以图1的四表链式连接为例对样本创建过程进行介绍，若连接序列为 $\\mathbf { R } _ { 2 } { \\mathbf { - R } _ { 1 } } { \\mathbf { - R } _ { 3 } } { \\mathbf { - R } _ { 4 } }$ ，则以 ${ \\bf R } _ { 2 }$ 为起始端进行游走，并创建分层样本的游走起始层。假设游走的起始元组为t21，当游走至$\\mathrm { R } _ { 1 }$ 中的元组t11时，无法继续前进，因此跳转到t21后向 $\\mathbf { R } _ { 3 }$ 方向继续游走，直至游走到 ${ \\mathrm { R } } _ { 4 }$ 中的元组t41。MC-OLA将连接图中度为1的表定义为“边缘表”，包括R1这类游走过程中遇到后需要跳转方向的表，以及R4这类标志着游走结束的表。一旦游走过程中遇到“边缘表”，MC-OLA记录当前游走分支的路径条数并改变游走方向，最终的连接结果数为各个分支路径条数的乘积，具体实现过程如算法3.2所示。给定游走起始元组t，沿着t所在表的所有邻接表开始游走(第4行至第15行)。若连接的邻接表R’在连接图中的连接度小于2，则说明R’是“边缘表”，调用算法getPathNum计算分支路径的条数（第8行至第9行)；否则，说明R’还能沿着连接序列继续游走，递归调用算法getJoinSize获取连接结果条数(第10行至第13行）。最终将各个分支的连接结果相乘，得到以t为游走起始点的连接结果数。游走分支路径条数确定方法如算法3.3所示，给定分支路径的起始元组 $t$ 及游走方向上的邻接表R，根据R在连接列上的索引获取与t相连接的元组（第4行)，对元组数进行累加获得分支路径的条数(第5行至第9行）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令 $V { = } { \\{ } V _ { I } ,  \\ V _ { 2 } , \\ \\cdots , V _ { L }  \\}$ 表示数据集在分组列集上的不同取值，可将游走起始表分成 $L$ 个不同的分区，每个分区即分层样本起始层的“一层”，每层的大小由以该层中所有元组开始游走的路径数决定。MC-OLA扫描分组列集所在表的元组，并使用getJoinSize 算法计算各元组为游走起始点的连接结果数，从而创建分层样本起始层。尽管创建样本需要扫描连接起始表，并且需要在多个表中进行游走，然而顺序扫描起始表数据的吞吐率要远远高于随机读取数据的吞吐率，并且沿着多表马尔可夫链的游走依据索引进行，因此创建样本的代价在可接受范围之",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "内。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法2连接结果大小确定算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Input: tuple t: walk start tuple;R: table containing t;L: join order list; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Output: int joinSize: number of joined results with t as the walk start tuple; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1: int getJoinSize(tuple t)   \n2:{ int joinSize=1;   \n3: int tempSize;   \n4: for(int $\\scriptstyle { i = 0 }$ ；i++;i<join degree of R)   \n5: { $R ^ { \\prime } { = }$ adjacentTable(i);   \n6: if(R'is visited)   \n7: continue;   \n8: if(R'join degree $< 2$ ）   \n9: tempSize=getPathNum(t,R');   \n10: else   \n11: { while( $t ^ { \\prime } { = }$ walktowards(R'))   \n12: tempSize $+ { = }$ getJoinSize(t');   \n13: }   \n14: joinSize\\*=tempSize;   \n15: }   \n16: return joinSize;   \n17:} ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 在线聚集实现 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1采样策略",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前实现连接在线聚集的主流算法是ripple join,ripple join直接从各个连接表中分别进行统一随机采样，并不考虑数据分布对连接结果的影响。因此当出现连接选择率较低的情况时，会导致结果产出率低及小分组的估计准确率低。MC-OLA采用马尔可夫链对连接进行建模，将连接过程转换成多表上的随机游走，从游走起始端的数据进行分层采样。在线聚集以固定的频率更新结果，依据更新频率可计算出每次抽取的样本大小 $N _ { \\circ }$ MC-OLA并不是将各表的原始数据作为总体，而是将连接结果作为总体，因此 $N$ 表示连接结果的大小，即随机游走路径的条数。在采样过程中，将 $N$ 分配至各个分组的样本层。为了使估计结果的方差和最小，MC-OLA的样本大小分配算法参考文献[18]提出的类平均算法。从每个分层中抽取样本的大小为 $N$ 在$L$ 个样本层中的平均值和剩余样本的最小值，若总的样本数量小于 $N$ ，则将 $N$ 扩大至 $N$ 后重复上述过程，直至找到使得总采样数量最接近 $N$ 的 $N$ 。与文献[18]中的算法不同，MC-OLA各层样本的剩余值是指连接结果数，并非游走起始表的元组数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法3游走分支路径条数确定算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Input: tuple $t \\mathrm { { ; } }$ walk start tuple; table $R$ ：the adjacent table according to the walk direction ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Output:int pathNum: number ofwalk path with t as the walk start tuple: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1:int getPathNum( tuple t, table $R$ ）   \n2:{   \n3: int pathNum=0;   \n4: tuple $t ^ { \\prime } { = }$ walkAccordingtoIndex $( t , R )$   \n5: while(t')   \n6: {   \n7: pathNum $^ { + + }$   \n8: t'=walkAccordingtoIndex $( t , R )$   \n9: }   \n10: return pathNum;   \n11:} ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2聚集结果及置信区间估计 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "确定好每层的采样数量后，从样本起始层开始进行随机游走，游走的次数为该层所分配的样本数。查询语句基于2.1节问题建模的连接形式，聚集操作主要讨论SUM和COUNT的实现方法，其他的聚集操作如AVG、STD-DEV等可通过相应的扩展实现。采用图1所示的链式连接为例介绍各层连接结果的游走方法，图1中的起始数据被分为三个样本层，聚集结果及置信区间的估计在每个分组内分别进行。当对样本层S1进行随机游走时，首先从S1中随机等概率抽取一个起始元组。假设t11被抽取到，接下来根据R2在与R1连接键上的索引，从R2中与t11相邻的元组中随机抽取元组，依次沿着马尔可夫链继续向下游走，直至游走到R4结束，最终抽取出一条路径。根据多次游走抽取出的连接结果，对聚集结果和置信区间进行估计。在该例中样本层S1里含有6条路径，若抽取的路径为t11-t21-t32-t42，则被抽取到的概率为1/24，并非1/6。利用该方法抽取每条路径的概率不相同，所以连接结果的样本并不是统一随机抽样获得。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设起始层样本分别为 $S _ { l } , S _ { 2 } , . . . , S _ { m }$ ，给定样本 $S _ { i }$ ，该层中每条路径 $\\lambda$ 被抽取的概率为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( \\lambda ) = \\frac { 1 } { \\left| S _ { i } \\right| } * \\frac { 1 } { B _ { 2 } ( t _ { 1 } ) } * \\frac { 1 } { B _ { 3 } ( t _ { 2 } ) } * \\ldots * \\frac { 1 } { B _ { \\scriptscriptstyle N } ( t _ { \\scriptscriptstyle N - 1 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中: $B _ { 2 } ( t _ { 1 } )$ 为R2中与R1的元组t1满足连接关系的元组。设$o p ( \\exp ( \\lambda _ { j } ) )$ 为路径 $\\lambda _ { j }$ 所对应的连接结果上的聚集",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "操作，定义随机变量 $\\exp _ { p } ( \\lambda _ { j } )$ 的取值为若op为SUM操作，$\\begin{array} { r } { \\exp _ { p } ( \\lambda _ { j } ) = \\exp ( \\lambda _ { j } ) } \\end{array}$ ；若op 为COUNT 操作， $\\mathrm { e x p } _ { p } ( \\lambda _ { j } ) = 1$ 。给定估计的分组，设该分组样本大小为 $n$ ，定理1给出了聚集结果及置信区间的估计方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定理1 $\\tilde { \\mu } = \\frac { 1 } { n } { \\sum _ { j = 1 } ^ { n } } \\frac { 1 } { P ( \\lambda _ { j } ) } * \\exp _ { p } ( \\lambda _ { j } )$ 是对多表连接聚集结果的无偏估计，设估计结果的置信度为 $\\rho$ ，则置信区间为$I = [ \\tilde { \\mu } - z _ { \\rho } \\tilde { \\sigma } _ { n } / \\sqrt { n } , \\tilde { \\mu } + z _ { \\rho } \\tilde { \\sigma } _ { n } / \\sqrt { n } ]$ 5 其中$\\tilde { \\sigma } _ { n } ^ { 2 } = \\frac { 1 } { n - 1 } { \\sum _ { j = 1 } ^ { n } } [ \\frac { 1 } { P ( \\lambda _ { j } ) } * \\exp { { \\Theta } _ { p } } ( \\lambda _ { j } ) - \\tilde { \\mu } ] \\circ$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "证明路径入i被抽取的概率为 $P ( \\lambda _ { i } )$ ，每条路径被抽取的概率不同，属于独立的有偏采样。根据Horvitz-Thompson 有偏采样估计原理，可知 $\\frac { 1 } { P ( \\lambda _ { j } ) } * \\exp _ { p } ( \\lambda _ { j } )$ 是对总体聚集值的无偏估计[19]，而且 $n$ 个游走路径是独立的，所以其均值仍然是对总体聚集值的无偏估计。构建随机变量X=P(2,)\\* $X _ { j } = \\frac { 1 } { P ( \\lambda _ { j } ) } * \\exp _ { p } ( \\lambda _ { j } )$ ，且满足 $\\sum _ { j = 1 } ^ { n } P ( \\lambda _ { j } ) = 1$ ，则对连接结果聚集值的估计转换为对新变量总体均值的估计，根据中心极限定理，可得出总体均值近似服从正态分布： $\\tilde { \\mu } \\sim N o r m a l ( \\mu , \\sigma ^ { 2 } / n )$ ，对该正态分布进行标准化处理后可得 $Z = ( \\mu _ { b l k } - \\mu ) / ( \\frac { \\sigma } { \\sqrt { n } } ) \\sim N o r m a l ( 0 , 1 )$ （204号",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "给定置信度 $\\mathbf { \\sigma } _ { \\rho }$ ，可得 $P \\{ - z _ { \\rho } \\leq Z \\leq z _ { \\rho } \\} = \\rho$ ，使用样本方差 $\\tilde { \\sigma } _ { n } ^ { 2 }$ 代替总体方差σ²， 即可得$P \\{ \\mu - z _ { p } \\tilde { \\sigma } _ { n } / \\sqrt { n } \\leq \\mu \\leq \\mu + z _ { p } \\tilde { \\sigma } _ { n } / \\sqrt { n } \\} = \\rho$ 。证明完毕。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 实验结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文基于 $\\mathrm { H O P } ^ { [ 2 ] }$ 平台的MapReduce框架分别实现了MC-OLA、randomwalk和ripple join，从估计结果的准确性和置信区间的收敛速度两个方面进行性能测试和比较分析，并对数据集大小的扩展性进行了测试。Randomwalk采用MC-OLA的连接顺序确定方法，不同的是，randomwalk从起始连接表中进行统一随机采样，然后基于样本利用连接列上的索引进行游走，直至游走到连接序列中的最后一张表。实验采用大数据决策支持测试基准TPC-H[II中的查询负载及数据集进行。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1实验配置 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验测试平台是由11个节点构成的集群环境，节点间通过1 Gbit 的交换机相连，其中一个节点作为HDFS和MapReduce的主节点，剩余的10个节点作为工作节点，软件运行平台为HOP。每个节点拥有4GB 内存和3.3GHZ 的四核CPU，每个节点的磁盘大小为1TB。设置文件系统HDFS的块大小为64M，并在每个节点上配置2个map任务和1个reduce 任务。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验的连接查询负载采用 TPC-H中的Q5、Q11和Q21。其中Q5 是六表非环型连接，Q11是三表链式连接，Q21是四表链式连接。涉及的表格包括：customer、orders、lineitem、supplier、nation、region。为了着重分析多表分组连接查询的性能，实验过程中去掉了查询语句中的orderby及having 等部分。采用TPC-H中的数据生成器产生数据，并根据扩展因子产生不同大小的数据集5GB、 $1 0 \\mathrm { G B }$ 、15GB、 $2 0 \\mathrm { G B }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.2性能测试 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验过程中，将置信度设置为 $9 5 \\%$ ，聚集结果更新间隔设置为 $2 \\%$ ，即每当查询进程增加 $2 \\%$ 时更新一次聚集结果。采用相对错误率relative_error衡量估计结果的准确性，在分组聚集查询中，计算每个分组估计结果的相对错误率，并对所有的数据进行平均来衡量整个查询语句的准确性，其计算方式为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr e l a t i v e \\_ e r r o r = \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } \\frac { \\lvert e s t i m a t e V a l u e _ { i } - a c t u a l V a l u e _ { i } \\rvert } { a c t u a l V a l u e _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用相对置信区间宽度relativeinterval衡量置信区间的收敛程度，与相对错误率类似，计算各个分组的相对置信区间宽度的平均值，其计算公式为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr e l a t i v e \\_ i n t e r \\nu a l = \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } \\frac { h a l f \\ w i d t h \\ o f \\ c o n f i d e n c e \\ i n t e r \\nu a l } { e s t i m a t e \\ r e s u l t }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为尽量减少实验偏差的影响，所有负载执行三次，取其平均值进行结果分析和展示。图4和5分别展示了在10GB大小的数据集上三个查询的平均相对错误率和相对置信区间宽度。MC-OLA在准确性和估计结果收敛速度方面均明显优于randomwalk和ripple join。以六表连接查询Q5为例，MC-OLA在 25s左右时相对错误率已经小于 $1 \\%$ ，相对置信区间宽度已经小于 $5 \\%$ 。而 randomwalk 和 ripple join 达到同样的错误率和置信区间宽度的时间分别是95s和265s左右。在查询Q11和Q21上，MC-OLA的响应速度也有类似的表现，优于randomwalk 3倍左右，优于ripple join一个数量级。一方面，MC-OLA和randomwalk均利用连接列上的索引进行随机游走实现多表连接，ripple join分别从多个表中进行统一随机抽样进行连接，而且样本之间并不是独立的，所以MC-OLA和 randomwalk 的执行复杂度更低，连接“目的性”更强，连接结果的产生率要高于ripplejoin。另一方面，randomwalk和ripple join分别从连接起始表和所有连接表中进行统一随机抽样，而MC-OLA采用分层采样技术，并且将每个分组的连接结果作为总体分别进行估计，因此在查询处理前期即可获得小分组的数据，从而提高了小分组的估计准确性和收敛速度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b3597479825a2b3383d475907c63f0de56a80f6cc961cf0499c70e1e18d3789.jpg",
+        "img_caption": [
+            "图6扩展性(Scalability) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.3扩展性测试 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "扩展性测试通过改变数据集大小实现，采用平均响应时间avgResTime衡量响应速度，avgResTime表示估计结果的相对错误率开始小于 $1 \\%$ 并且相对置信区间宽度开始小于 $5 \\%$ 时的时间。图6展示了三种算法在数据集大小为5GB、 $1 0 \\mathrm { G B }$ 、15GB和",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$2 0 \\mathrm { G B }$ 上的平均响应时间。可以看出，随着数据集的增大，MC-OLA的平均响应时间并无太大变化，randomwalk 和 ripple join的平均响应时间则随着数据集的增大而缓慢增长。MC-OLA从样本起始层抽取样本后，利用连接列上的索引从相邻元组中抽样进行下一步游走。经过 $n$ 次游走后得到的连接结果数只与马尔可夫链上节点的出度、游走的成功率以及游走次数 $n$ 有关，与原始数据集的规模无关，因此平均响应时间理论上与数据规模无关。尽管randomwalk也是通过随机游走实现连接，然而在分组连接查询处理中，小分组的估计相对需要更多的样本数据，且随着数据集的增大，抽取到小分组样本的概率有所降低，因此平均响应时间会随着数据集的增大而有所增加。Ripple join随机从 $k$ 张连接表中抽取 $n$ 个样本，设各连接表之间元组的连接度数为 $d$ ，每个表大小为 $N$ ，则能得到的连接结果数为（204号 $n ^ { k } ( \\frac { d } { N } ) ^ { k - 1 }$ ,因此平均响应时间呈现出低于数据集线性增长的趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "多表连接查询是大数据分析领域最重要的操作之一，然而多表连接的实现复杂度较高，导致其运行时间较长，从而影响了数据分析任务的时效性和价值。在线聚集能够在查询完成之前反馈具有统计意义的估计结果和置信区间，因而提供了一种有效减少运行时间和计算代价的查询实现方式。目前已有的多表连接在线聚集算法以ripplejoin为主，从各个连接表中进行统一随机采样，分别实现新数据和旧数据的连接，然后进行结果估计。这种算法的复杂度较高，且当连接选择率较低时导致结果产出率极低。除此之外，对于分组连接查询，还会导致小分组的估计准确度较低。本文提出了基于马尔可夫链的多表连接在线聚集技术MC-OLA，其主要贡献包括：提出了实现多表连接在线聚集的系统架构；使用马尔可夫链对多表连接进行建模，将连接过程转换为马尔可夫链上的随机游走过程；提出了多表连接的顺序确定方法和游走起始层的分层采样算法，并提出了相应的采样策略和结果估计算法。在HOP平台上的实验结果表明，MC-OLA的平均响应时间优于randomwalk以及ripplejoin，而且具有良好的数据扩展性。目前MC-OLA只支持多表连接分组查询，在今后的工作中，将围绕嵌套查询、多查询的在线优化等展开进一步的研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]TPC-HBechmark [EB/OL].[2018-07-20].http://www.tpc.org/tpch/.   \n[2]Condie T,Conway N,Alvaro P,et al.Online aggregation and continuous query support in mapreduce [C]//Proc of ACM SIGMOD International Conference on Management ofData.New York:ACMPress,2010:1115- 1118.   \n[3]Hellerstein J,Haas P,Wang H.Online aggregation [C]// Proc of ACM SIGMOD International Conference on Management of Data.New Yrk: ACMPress,1997:171-182.   \n[4]Haas P.Large-Sample and deterministic confidence intervals for online aggregation [C]//Proc of the 9th Conference on Scientific and Statistical Database Management.1997:51-63.   \n[5]Pansare N,Borkar V,Jermaine C,et al.Online aggregation for large ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "mapreduce jobs [J].Proceedings of the VLDB Endowment,2011,4(11): 1135-1145. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6]Kai Z, Sameer A,Ankur D,et al. G-OLA: generalized on-line aggregation for interactiveanalysison big data [C]// Proc of ACM SIGMOD International Conference on Management of Data. New York: ACM Press, 2015: 913-918.   \n[7]SameerA, Barzan M,Aurojit P,et al. BlinkDB:queries with bounded errors and bounded response times on very large data[C]//Proc ofthe 8th Eurosys Conference.New York: ACMPress,2013:29-42.   \n[8]Qin C,FlorinR.PF-OLA: ahigh-performance framework for parallel online aggregation[J].DistributedandParallelDatabases,2014,32(3):337-375.   \n[9]Cheng Yu,Zhao Weijie,Florin R.Bi-Level Online Aggregation on Raw Data [C]// Proc of the 29th International Conference on Scientific and Statistical Database Management. New York: ACM Press,2017: 10.   \n[10] Zhang Anzhen,Li Jianzhong,Gao Hong，et al.CrowdOLA:online aggregation on duplicate data powered by crowdsourcing [J]. Journal of Computer Science and Technology,2018,33(2): 366-379.   \n[11] Haas P,Hellerstein J.Ripple joins for online aggregation[C]//Procof International Conference on Management of Data. New York: ACM Press, 1999: 287-298.   \n[12] Luo G,Curt J,Peter J,et al.Ascalable hash ripple join algorithm[C]//Proc of ACM SIGMOD International Conference on Management of Data. New York:ACMPress,2003:252-262.   \n[13] Chris J， Subramanian A,Abhijit P,et al. Scalable approximate query processing with the DBO engine [Cl//Proc of ACM SIGMOD International Conference on Management ofData.New York:ACMPress,2007: 725-736   \n[14] Chris J，SubramanianA,AbhijitP,etal.Scalableaproximatequery processing with the DBO engine [J].ACMTrans on Database Systems,2008, 33 (4): 23.   \n[15] Shi Yingjie,Meng Xiaofeng,Wang Fusheng,et al. You can stop early with COLA: Online processing of aggregate queries in the cloud [C]//Proc of the 21st ACM Conference on Information and Knowledge Management. New York: ACM Press,2012:1223-1232.   \n[16] Li Feifei,Wu Bin, Yi Ke,et al. Wander join and XDB: onlineaggregation via random walks [J].SIGMODRecord,2017,46(1): 33-40.   \n[17]史英杰，杜方，尤亚东.MSOLA:基于多维分层采样的大数据在线聚集 技术[J].计算机应用研究,2018,35 (2):61-66.(Shi Yingjie,Du Fang, You Yadong.MSOLA:big data online aggregation based on multi dimension stratified sampling [J]. Application Research of Computers,2018, 35 (2): 61-66.)   \n[18]SwarupAilli,Viswaath P.Cogresoalmles fapote answering of group-by queries [C]//Proc ofACMSIGMOD International Conference on Management ofData. New York: ACM Press,2000: 487-498.   \n[19] Horvitz D,Thompson,D.A generalization of sampling without replacement from a finite universe [J].Journal of the American Statistical Association, 1952,47(260): 663-685. ",
+        "page_idx": 6
+    }
+]

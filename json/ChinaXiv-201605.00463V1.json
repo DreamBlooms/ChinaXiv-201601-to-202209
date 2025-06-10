@@ -1,0 +1,575 @@
+[
+    {
+        "type": "text",
+        "text": "Development of a novel-type transgenic cotton plant for control of cotton bollworm ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhen Yue†, Xiaoguang Liu†,Zijing Zhout, Guangming Hou, Jinping Hua\\* and Zhangwu Zhao\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "College of Agriculture and Biotechnology, China Agricultural University,Beijing,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received12April2015;   \nrevised4December2015;   \naccepted 22 December 2015.   \n\\*Correspondence (Tel/fax   \n+86 10 6273 4225;   \nemail zhaozw@cau.edu.cn)   \n+These authors contributed equally to this work. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: transgenic plant, neuropeptide F,cotton budworm, Helicoverpaarmigera. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The transgenic Bt cotton plant has been widely planted throughout the world for the control of coton budworm Helicoverpa armigera (Hubner). However,a shift towards insect tolerance of Bt cotton is now apparent. In this study,the gene encoding neuropeptide F(NPF)was cloned from cotton budworm H.armigera,an important agricultural pest.The npf gene produces two splicing mRNA variants—npf1 and npf2 (with a 120-bp segment inserted into the npf1 sequence).These are predicted to form the mature NPF1 and NPF2 peptides,and they were found to regulate feding behaviour. Knock down of larval npf with dsNPF in vitro resulted in decreases of food consumption and body weight,and dsNPF also caused a decrease of glycogen and an increase of trehalose.Moreover,we produced transgenic tobacco plants transiently expressing dsNPF and transgenic cotton plants with stably expressed dsNPF. Results showed that H.armigera larvae fed on these transgenic plants or leaves had lower food consumption,body size and body weight compared to controls.These results indicate that NPF is important in the control of feeding of H.armigera and valuable for production of potential transgenic cotton. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The cotton bollworm (Helicoverpa armigera)is an important agricultural pest and is responsible for great losses of cotton production.More than one and a half billion US dollars was lost in China in 1992 due to its outbreak.The transgenic Bacillus thuringiensis (Bt) cotton expressing the Cry1Ac toxin protein is being used for insect control. The report from the International Service for the Acquisition of Agricultural-biotechnology applications showed that the planting area of the transgenic Bt cotton continuously increased in the last 15 years and attained 160 million $\\mathsf { h m } ^ { 2 }$ in 2011,about half of the total cotton planting area in the world (James,2012).A shift towards insect tolerance of Bt cotton is now apparent, indicating that potential resistance from the target pest—the cotton bollworm—has become a major threat for sustainable planting of Bt cotton (Kong-Ming 2007).For example，a report from the Chinese Agriculture Department showed that the yield of Bt cotton decreased around $10 \\%$ in China in 2oo9 due to the development of resistance by cotton bollworm． Recent monitoring records indicated that the increased tolerance of cotton bollworm was apparent year by year in the intensive planting area of Bt cotton. So,it is imperative to develop new types of transgenic cotton (Zhang et al., 2010). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Insect brain neuropeptides are important regulators of physiologyand behaviour.Neuropeptide F (NPF),a family member of neuropeptide Y (NPY) of vertebrates (Huang et al.，2011;Nuss et al.，2010;Roller et al.,20o8) because of their similar function andsimilar signalling path via G protein-coupled receptors (Garczynski et al.，20o5)，has pleiotropic functions.However, because of fast evolution,their peptide sequences and structures differ greatly among animal species. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The NPFs have not been widely reported in insects. NPF was first isolated from Helicoverpa zea (Huang etal.,1998),followed byDrosophila melanogaster (Brown etal.，1999)，Schistocerca grearia (De Loof etal.,2oo1), Locusta migratoria (Clynen et al., 2006),Aedes aegypti (Stanek etal.,2002),Anopheles gambiae (Garczynski et al.，2005)，Bombyx mori (Roller et al.，2008), Reticulitermesflavipes (Nuss etal.,2o1O)and Helicoverpaassulta (Liu et al.,2013). Extensive studies on NPF have focused on the fruitfly (D.melanogaster) asamodel.Inbrief,NPF exertsdiverse regulatory roles in feeding (Lingo et al.,20o7;Wu et al.,2005), ethanol sensitivity (Wen et al.，2oo5)， learning and memory (Krashes et al.,20o9),aggression (Dierick and Greenspan,2007), locomotor circadian rhythms and sleep (He et al.，2013a,b) However,there are no reports on NPF about the regulation of feeding behaviour in important agricultural and economical pests DoesNPF exist in H.armigera? Does it regulate feeding behaviour? Might it be used for controlling pests in the field through transgenic biotechnology?To answer these questions, we identified and cloned the NPF gene from the cotton bollworm (H.armigera),analysed its feeding function,and found a new Wayto efficiently control this pest using transgenic crops expressing dsNPF RNAi. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Identification and cloning of Harmnpfs and formation of the mature peptides ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The constructed non-normalized cDNA libraries from the brain tissues ofH.armigera were isolated and collected with CHROMA SPIN-400 columns (Clontech， Laboratories， Inc., Mountain View，CA).The insert fragments of recombinant plasmids from bacterial colonies ranging from 40o to 1200 bp were separated on a $1 \\%$ agarose gel (Biowest, Gene Company LTD，Chai Wan，Hong Kong)，and the percentage of recombinants selected from 150 independent clones (133 positive clones)was $9 5 \\%$ .Subsequently，the two npfs in H.armigera wereidentified，isolated and cloned (Figure 1a)，and the sequences were deposited in the GenBank (Harmnpf1 accessionnumberHQ613404; Harmnpf2accessionnumber HQ416718). Harmnpf1 and Harmnpf2 contain an ORF of 246 and 366 bp，respectively (Figure 1b)，in which a 120-bp insertion segment between 135th and 136th nucleotides of Harmnpf1 forms Harmnpf2.The predicted mature neuropeptides HarmNPF1 and HarmNPF2 are composed of 3O and 10 amino acids，respectively，formedby a series of proteolytic processes and post-translational modifications such as TrimKR and Amidation (Figure 1c,d) through sequential action of three enzymes (prohormone convertases for TrimKR;peptidyl-hydroxylating monooxygenase and peptidyl-hydroxyglycine a-amidating lyase for amidation;McVeigh et al.，2005). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Temporal and spatial expression of Harmnpf ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Spatial expressions of Harmnpf1and Harmnpf2 mRNA in selected tissues were investigated by RT-PCR.Results showed that the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) (b) GAAAAGTTTCGCTGTCCGTTACTCCGCTGAGAAGCTAAGAAACCAAA ATG CTGAACAAGAACATCG CTATTG CCGTCG CCG TGG TCCTGGCCATCGTTTGCCTG M L N K N I A I A V A V V L A I V C L 1 Marker GC TGAGGCCAGGGAGGAAGGTCCTCACGACATGGC TGACG CAC TC CGCATGC TGCAA A E A R E E G P H D M A D A L R M L Q 二 GAAC TCGAC CGC TAC TATA CTCAGGC TGC TAGAC CCAGGATTGACCG CCG CG ACGTT E L D R Y Y T Q A A R P R I D R R D G CGGACG AAAACCGCGTCAATCATCACTTGAAAAATCACTCTG TGCG GCTCCTCTTG A D E N R V N H H L K N H S V R L L L CTGCCCAAATTAAAAAAACTTATCTCCTACCACACCCGACCAAGG TTTGGCAAACGC npf2 500 bp L P K L K K L I S Y H T R P R F G K R npf1 250 bp TC CGATGCCTACA CGAAC TGGGCCAAGGATC TCGAGAAGCCGGACTTA CC TG CC TGG S D A Y T N W A K D L E K P D L P A W 100 bp CTGTCGTACGCCAGAAGGAGATGAGGAGTGCAACAG S Y A R RR H.amigrea NPF1& NPF2 sequence   \n(c) IDRRDVADENRVNHHLKNHSVRLLLLPKLKKLIS YHTRPR 120 bp (40 aa)Lost during the process of transcription MLNKNIAIAVAVVLAIVCLAEAREEGPHDMADALRMLQELDRYYTQAARPRFGKRSDAYTNWAKDLEKPDLPAWLSYARRR REEGPHDMADALRMLQELDRYYTQAARPRFGKRSDAYTNWAKDLEKPDLPAWLSYARRR 2 REEGPHDMADALRMLQELDRYYTQAARPRFGKR SDAYTNWAKDLEKPDLPAWLSYARRR 3 REEGPHDMADALRMLQELDRYYTQAARPRFG 4 REEGPHDMADALRMLQELDRYYTQAARPRF-amide ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/12d44f4b3e8aa0f0ac4768d702ce5970cfb9bc3818b302dd2088d0de1108a648.jpg",
+        "img_caption": [
+            "Predicted processing scheme for the prepro-hormone encoded by H.armigera NPF1 ",
+            "Figure1StructureofHarmpfarpf2.(a)eHarmpfndHmfAsbyCRinichMarkeridicatestadardoleulareighad 1indicatesPCRbandsrepresentingHarmnpf1andHarmnpf2.(b)NucleotidesequencesfortheORFencodingHarmnf1andHarmnpf.Harpf2 includesa12-bpsequence(edcolourfragment)otfoundiHarmnpf1.(cdSeparatelyindicatestepredictedprocessngsheforthe preprohormone that is encoded by Harmnpf1 and Harmnpf2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "transcript levels of Harmnpf1 were detected in almost all tissues, and transcript levels of Harmnpf2 were mainly expressed in midgut (MG),suboesophageal ganglia (SG) and thoracic ganglia (T)(Figure S1).Moreover，the expression levels of Harmnpf (Harmnpf2 was selected for the qPCR throughout the manuscript) at different larval stages were also measured,and results showed that expression levels of Harmnpf during the first instar (just after emerging as larvae from egg shells)and last instar (the period for gluttony)were much higher than the other stages (Figure 2a). When larvae were starved for $2 4 \\ h$ at beginning of the last instar, their feedingwas stimulated and promoted with significant increases of the Harmnpf levels (Figure 2b,c).These results together suggest that npf is involved in modulating feeding behaviour. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Larval feeding inhibition by injection of dsNPF ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The dsNPF was designed with consensus primers of npf1 and npf2.Injection of dsNPF RNAi to the fifth instars significantly reduced larval npf mRNA levels (Figure 3a).Also，therelative consumption rate of food (Figure 3b;Table 1)and the relative growth rate (Figure 3c; Table 1) in the dsNPF-treated larvae were significantly lower than in control larvae $( P < 0 . 0 0 1$ and $P < 0 . 0 0 1$ ，respectively,compared to dsGFP RNAi controls).The amounts of food consumption in dsNPF RNAi-treated larvae from 24 to $7 2 \\mathrm { ~ h ~ }$ after injection were significantly lower than in the controls，demonstratinga $3 3 \\%$ $( P < 0 . 0 0 1$ ， $2 6 \\%$ $( P < 0 . 0 0 1 ^ { \\cdot }$ 0 and $3 3 \\%$ $( P < 0 . 0 0 1 ^ { \\cdot }$ ）decreaseat24,48and $7 2 \\mathrm { ~ h ~ }$ ，respectively (Figure ${ 3 0 } ;$ Table 2).And the larval net weight was also significantly reduced by $3 5 \\%$ 1 $\\langle P < 0 . 0 0 1$ ， $2 2 . 8 9 \\%$ 1 $' P < 0 . 0 0 1$ ）and ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b84cce30ca5dbeeb602e4911c01630f1c33560de1f16592b1e640b7e7ab22555.jpg",
+        "img_caption": [
+            "Figure 2Relative expressions of Harmnpf at larval instar and effects of starvation treatment.(a)The relative expression level of Harmnpf at different larvalinstarstages ${ \\dot { n } } = 3 0 { \\dot { ) } }$ .n.s.,no significant difference.(b) One-hour food consumption after 24-h starvation or no starvation.(c) The NPF relative expression levels after 24-h starvation treatment or no starvation $\\langle n = 1 0 \\rangle$ .All data are expressed as the mean $\\pm \\mathsf { S D }$ of three replicates.Differencesat $\" \" * \" P < 0 . 0 5$ $\" \" * * \" . 0 < 0 . 0 1$ and $^ { \\prime \\prime } { } ^ { * * * } { } ^ { \\prime \\prime } { \\cal P } < 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 1 . 4 5 \\%$ $( P < 0 . 0 0 1$ at24,48and $7 2 ~ \\mathsf { h }$ ,respectively (Figure 3e; Table 1).These results together indicate that NPF significantly regulates feeding. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Larval feeding inhibition on dsNPF transgenic tobaccos ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The dsNPF was concatenated into the pGreen-HY104 vector (Figure S2a)，identified by PCR and transfected into tobacco protoplasts by osmosis of tobacco leaf for transient expression of dsNPF.After 1 week,the protoplasts were separately identified byPCR for transfected dsNPF (Figure S2b)，and the successful transgenic tobaccos，which were identified and determined by northern blot analysis (Figure S3a)，wereassayed for larval feeding after2 weeks.When each larva was separately added to a transgenic tobacco leaf expressing dsNPF in a Petri dish, results showed that larval feeding was significantly reduced compared to dsGFP controls (Figure 4a).The areas of leaf eaten by larvaeat $2 4 \\ h$ $( P < 0 . 0 5 )$ ， $4 8 \\mathrm { ~ h ~ }$ 1 $\\mathit { ' } P < 0 . 0 0 1$ ）and $7 2 \\mathrm { ~ h ~ }$ $( P < 0 . 0 1$ ）were significantly less than those of controls (Figure $\\mathsf { 4 b } ;$ Table 2).When each larva was directly applied to a transgenic tobacco plant,the results were similar to those above; the larvae fed more on transgenic dsGFP controls than on transgenic tobacco plants (Figure 4c).These results together indicate that NPF in H.armigera regulates larval feeding behaviour. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Larval feeding inhibition on transgenic cotton plants expressing dsNPF ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The dsNPF cloned in the DH5a plasmid was transformed into the cotton 2047B through hypodermic injection for stable expression of dsNPF.Their seeds were grown until the two-leaf stage used for the identification of the positive cottons by PCR.The identified NPF-positive and the dsGFP transgenic cotton as control were further grown.Larvae were added to the mature transgenic cotton leaves,further identified by northern and Southern blots (Figure S3a,b),and incubated in Petri dishes (one larva/one leaf/ petri dish) for feeding assays.Results showed that the leaf area of the dsNPF transgenic cotton eaten by larva was much less (Figure 5a,e;Table 3) than that of the dsGFP transgenic cotton as a control $( P < 0 . 0 0 1$ ; Figure 5b,e; Table 3).The larval body size and weightafter feeding transgenic leaveswere also significantly smaller than for the controls $\\langle P < 0 . 0 1$ ; Figure 5c,f,g; Table 3). Moreover, the npf level in the larvae after feedingdsNPF cotton leaveswas significantly lower than that in control larvae （ $( P < 0 . 0 0 1$ ; Figure 5d).All these results indicate that NPF regulates feeding behaviour,and the dsNPF transgenic cotton is a potential and efficient biotechnology for field control of $H$ .armigera. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Effects of dsNPF on regulating energy metabolism ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To understand how npf regulates feeding,we applied dsNPF to fifth-instar larvae and measured their body trehalose，glycogen and total lipid.Results showed that dsNPF caused significant increases of trehalose and decreases of glycogen (Figure 6a,b). However,it had no effects on total lipid (Figure S4).These results suggest that npf regulates feeding behaviour to reduce the metabolism of glycogen to produce trehalose, potentially because feeding provides nutrients that reduce the need for metabolism of stored glycogen. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study，we found that Harmnpf1 and Harmnpf2 were encoded by the same gene,which has been recognized asan interesting aspect in gene regulation (Leff and Rosenfeld,1986). The biological significance for alternative splicing is to produce a diversity of proteins (Black，2Oo3).The insect NPF was first purified in 1998 and completely sequenced in 2011 (Huang et al., 2011).The precursors of NPFs include a signal peptide，a propeptide and a C-terminal peptide (Maule etal.，1995)—a result consistent with our findings. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d183b2b7bb13ba4d530c5490c70695e52e53023d1b642aae55a5e316feed5442.jpg",
+        "img_caption": [
+            "Figure3Impactofedingtreaeditsosasetedtoftistarlraeatthefirstay.(ahxsiosf NPFtrascriptstttnio.ti (d) Larval food consumption.(e) Larval net weight increase.All data are expressed as the mean $\\pm \\mathsf { S D }$ of three replicates. Differences at $\" \" \\ast \" P < 0 . 0 5$ $\" \" * * \\prime \\prime P < 0 . 0 1$ and $^ { \\prime \\prime } \\ast \\ast \\ast ^ { \\prime \\prime } P < 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We found that the expression levels of H.armigera npf1 and npf2aredifferent,because npf2 levelswere lower than those of npf1 (Figure 1a).Thiscaseis similar to adipokinetic hormone (AKH) in locust (Vroemen et al.,1997).npf is highly expressed in midgut,and is also expressed in brain,suboesophageal ganglion, foregut and hindgut，as hasbeen previously reported for R.flavipes，H.zea and D.melanogaster (Huang etal.，2011; Nuss et al.，2010;Veenstra and Sellami,20o8).In addition，npf is highly expressed at the larval 1st instar (just after emerging as larvae from egg shells) and the 5th instar (the larval gluttony stage)，which suggests that the first-instar larvae also are an important feeding period for their growth and development,in addition to the fifth-instar gluttony stage.From previous reports, NPFhas important roles in resisting low temperature and noxious foodin D.melanogaster (Lingo et al.，2oo7;Wu et al., 2005). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The feeding regulation of NPF has been assessed in D.melanogaster,a Dipteran insect.However,the possible roles of NPFs in regulating feeding in Lepidoptera have not yet been reported, even though many of them are important economic and agricultural pests.In this study,we demonstrated that the npf of $H$ .armigera isassociated with increased feeding when npf is increased after food deprivation.On the contrary,knocking npt down by both applications of dsNPF (the transgenic tobaccos transiently expressing dsNPF and the transgenic cottons stably expressingdsNPF） had impactson feeding inhibition，with reduced relative food consumption rate and growth rate，and smaller body size and weight. The damage to the transgenic cotton plants by cotton bollworms seems to be effectively reduced by $7 4 \\%$ ．Importantly，the NPF RNAi results in high mortality of this insect,in which all individuals did not normally pupate or emerge because of undeveloped bodies (Table 3). Therefore，npfisverycriticalforfeedingregulationof H.armigera.This new type of biotechnological product could bringabout a potential control of the cotton bollworm, $H$ .armigera. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In D.melanogaster，a previous report showed that the NPF system is regulated by insulin,through the InR (insulin receptor)/ PI3K/S6K pathway (Wu et al.，2005).However，how NPF regulates feeding is still unclear.In this study,we found that changed larval feeding behaviour by the dsNPF may cause changed metabolism，with a decrease of glycogen and an increase of trehalose.In otherwords,the decrease in feedingwhich results from NPF knockdown causes changes in glycogen and trehalose levels.Presumably with less feeding,more stored glycogen has to beused to break down to trehalose for energy supply of H.armigera. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/75db8ae644f2a6c26291ef407d09e0163ef051ec7084a6ac8c600c6b7808fece.jpg",
+        "table_caption": [
+            "Table1 Effect of feedingdsNFP to larvae "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Injected dsNPF</td><td>Injected dsGFP</td><td>P value</td><td>Decrease %</td></tr><tr><td>NPF relative expression level (%)</td><td>0.48 ± 0.03 n=3</td><td>0.95 ± 0.07 n=3</td><td>0.013</td><td>49.25</td></tr><tr><td>Relative consumption</td><td>1.47 ± 0.07 n=38</td><td>1.79 ± 0.06 n=37</td><td>0.001</td><td>17.61</td></tr><tr><td>rate (g/day) Relative growth</td><td>0.43 ± 0.02</td><td>0.51 ± 0.01</td><td><0.0001</td><td>15.77</td></tr><tr><td>rate (g/day)</td><td>n=38</td><td>n=36</td><td></td><td></td></tr><tr><td>Food consumption (g) 24 h</td><td>0.23 ± 0.02</td><td>0.34 ± 0.02</td><td><0.0001</td><td>32.58</td></tr><tr><td></td><td>n=39</td><td>n= 35</td><td></td><td></td></tr><tr><td>48 h</td><td>0.64 ± 0.04 n=39</td><td>0.87 ± 0.04 n= 35</td><td><0.0001</td><td>25.96</td></tr><tr><td>72 h</td><td>0.75 ± 0.05</td><td>1.12 ± 0.04</td><td><0.0001</td><td>32.94</td></tr><tr><td>Net weight increases of larvae (g)</td><td>n=39</td><td>n=35</td><td></td><td></td></tr><tr><td>24 h</td><td></td><td></td><td><0.0001</td><td></td></tr><tr><td></td><td>0.10 ± 0.01</td><td>0.14 ± 0.01</td><td></td><td>35.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>n= 36</td><td>n=34</td><td></td><td></td></tr><tr><td>48 h</td><td></td><td></td><td><0.0001</td><td></td></tr><tr><td></td><td>0.18 ± 0.01</td><td>0.24 ± 0.01</td><td></td><td>22.89</td></tr><tr><td></td><td></td><td>n=34</td><td></td><td></td></tr><tr><td></td><td>n=36</td><td></td><td></td><td></td></tr><tr><td>72 h</td><td></td><td></td><td></td><td>21.45</td></tr><tr><td></td><td>0.20 ± 0.01</td><td>0.25 ± 0.01</td><td><0.0001</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/171cc0919ac575061dae6174bad816cb8d3a0fed5795c72b417f012ebc95099b.jpg",
+        "table_caption": [
+            "Table 2 Larval feeding inhibition on dsNPF transgenic tobaccos "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Area of leaf eaten (cm²)</td><td>dsGFP n=9</td><td>dsNPF</td><td></td><td></td></tr><tr><td>24 h</td><td>21.50 ± 1.92</td><td>16.36 ± 0.96</td><td>0.044</td><td>23.80</td></tr><tr><td>48 h</td><td>37.13 ± 2.56</td><td>18.41 ± 1.94</td><td><0.0001</td><td>50.41</td></tr><tr><td>72 h</td><td>23.11 ± 1.87</td><td>16.36 ± 1.04</td><td>0.013</td><td>29.23</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Insects rearing ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $H$ .armigera colony used in this study was established from insects collected in Zhengzhou，Henan Province，and has been maintained in the laboratory since 2oo7.They were reared at $2 5 ^ { \\circ } C$ and $6 5 \\%$ relative humidity (RH) under a photoperiod of $1 6  L : 8 0$ with an artificial diet described by Wu and Gong (1997). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Construction of cDNA library ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Brains from fourth-instar larvae were dissected in PBS treated with diethyl pyrocarbonate (DEPC),then frozen immediately in liquid nitrogen and stored at $- 8 0 ~ ^ { \\circ } \\mathsf C$ until use.Total RNA was extracted with TRlzon reagent (TIANGEN,Beijing,China).For the specific methodology, see Liu et al. (2013). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Full-length cDNA cloning of npf ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thefull-length npfcDNAswere obtained bythe rapid amplification of cDNA ends (RACE) technique using the DNA from the CDNA libraries as PCR templates. For $5 ^ { \\prime }$ RACE,the degenerate reverse primers( $5 ^ { \\prime }$ RACE1F）were designed according to the Conserved region (NPF:QAARPRFGKR).Plasmid libraries $( 0 . 1 ~ \\mu \\ L )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "were used as templates with $\\boldsymbol { L A } \\ \\mathsf { T a q } ^ { \\circledast }$ (Takara，Dalian，China) using forward primer $5 ^ { \\prime }$ SMART；reverse primer $5 ^ { \\prime }$ RACE1F.For the specific methodology, see Liu et al. (2013). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ldentifying open reading frames (ORF) of HarmNPF ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The full-length genes were amplified using the specific primers (FSP1 and NPF-R),which were designed according to the $5 ^ { \\prime }$ and $3 ^ { \\prime }$ RACE sequences (Table S1)． Conventional PCR was applied using $1 ~ \\mu \\iota$ of cDNA (first Strand cDNA synthesized above).Reaction mixtures contained 1.25 U (5 U/L)LA ${ \\sf T a q } ^ { \\circledast }$ $2 . 5 ~ \\mu \\ L ~ 1 0 \\times ~ L A$ buffer solution and $4 ~ { \\mu \\ L }$ dNTP $( 2 . 5 ~ \\mathsf { m m }$ each)in a final volume of $2 5 ~ \\mu \\iota$ .For the touchdown PCR conditions, please see Liu etal. (2o13).The longest band for each gene was eluted from the gel using the $\\mathsf { E . Z . N . A } ^ { \\circledast }$ Gel Extraction kit (OMEGA，Bio-Tek，Inc.，Norcross，GA，USA)，and then directly cloned into the pGM-T vector (TIANGEN，Beijing，China).The clone was sequenced twice in both directions using M13 forward and M13 reverse primers. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bioinformatic analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The H.armigera npf signal peptides were predicted using the onlineprogramSignalP3.0:http://www.cbs.dtu.dk/services/ SignalP/ (Bendtsen et al.,2oo4).Prohormone cleavage sites were predicted based on previously established protocol (Southey et al.,2oo8) using the website:http://neuroproteomics.scs.illinois. edu/cgi-bin/neuropred.py (Southey et al.，2oo6).For the specific methodology, see Liu et al. (2013). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Spatiotemporal expressionsof Harmnpf ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tomonitor transcriptional levels of Harmnpf from different larval tissues,we explored the semi-quantitative reverse transcription-PCR (RT-PCR). Total RNA Was extracted from the brains (Br)，suboesophageal ganglia (SG)，thoracic ganglia (T), abdominal ganglia (A),foregut (FG),midgut (MG)and anterior hindgut (HG)as described.Tissue distribution of Harmnpf was investigated by RT-PCR according to Chen et al. (2oo7）and Yang et al. (201O).For the specific methodology,see Liu et al. (2013). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Todetermine the expression of Harmnpf at different developmental stages of larvae,total RNA from larval whole bodies was prepared using TRlzol (TIANGEN),and cDNA was further synthesized using the RealMasterMix System for qRT-PCR.The qRT-PCR was used to quantify the levels of npf (Harmnpf2 was selected for the qPCR throughout the manuscript) and actin as a control.The experiments were performed in triplicates.Data analysis was performed using ABl Stepone software (Applied Biosystem, Foster,CA). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Relationship between food deprivation and npf ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To further determine that npf impacts larval feeding,we designed a food deprivation experiment.After $2 4 \\ h$ of normal feeding,the fifth-instar larvae were reared with agarose (food deprivation) and normal food separately.The larvae midguts were collected for quantitative analysis of npf expression after food deprivation for $2 4 \\ h$ .The qRT-PCR method and analysis were the sameasabove. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of double-strand RNA (dsRNA) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The dsNPF was produced by in vitro transcription using the T7 RiboMAXtM expression system (Promega，Madison，Wisconsin, USA).To produce DNA templates for the synthesis of both dsNPF1 and dsNPF2,a T7 RNA polymerase promoter was added to the $5 ^ { \\prime }$ -end of the DNA sequence using PCR with their specific primers for dsNPF-F & dsNPF-R in Table S1.PCR products were purified by TIANgel Midi Purification Kit (Cat.#DP209-O2).The PCR products were quantified and used as templates to prepare dsRNA using RiboMAXtM kit.To anneal，RNA reactions were incubated at $7 0 ~ ^ { \\circ } C$ for $1 0 \\mathrm { \\ m i n }$ ,and then slowly cooled down to room temperature $( { \\sim } 2 0 \\ \\mathsf { m i n } )$ .Theannealed dsRNA wastreated with A RQ1 RNase-Free DNase and precipitated by adding 0.1 volume of 3M Sodium Acetate $\\mathrm { ( p } \\mathsf { H } 5 . 2 \\mathrm { ) }$ and 1 volume of isopropanol.The dsRNA sample was resuspended in nuclease-free waterand stored at $- 2 0$ or $- 7 0 { } ^ { \\circ } \\mathsf C$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b4079795ea8e8fd6736128edc68dcefebf7081f6596ec512ac8fe3f56afbf8a.jpg",
+        "img_caption": [
+            "Figure 4 Larvae feeding inhibition by transgenic tobacco expressing dsNPF.(a) The larvae feeding on transgenic tobacco leaves and controls. (b)The leaf areas produced by larvae feeding on transgenic and control leaves separately at 24,48 and $7 2 \\mathrm { ~ h ~ }$ 0 $\\mathfrak { n } = \\mathfrak { g } \\rangle$ . (c) Damages of leaves by feeding whole tobacco plants at $7 2 \\mathrm { ~ h ~ }$ 0 $\\mathfrak { n } = 9 )$ . All data were expressed as the mean $\\pm \\mathsf { S D }$ of three replicates. Differences at $\" \" * \" P < 0 . 0 5$ $\" \" * * \\prime \\prime P < 0 . 0 1$ and $^ { \\prime \\prime } { } ^ { * * * } { } ^ { * \\prime \\prime } P < 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Effects of NPF by applications of dsNPF RNAi ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Ten micrograms of dsNPF RNAi or dsGFP RNAi was respectively injected into the lateral intersegmental membrane between the third and fourth abdominal segment of the selected fifth-instar larvae，and the incision was sealed immediately with wax at the injection point.Each group was performed in triplicates with15 individualsat each repeat ( $_ { \\cdot n = 4 5 }$ larvae/group).Both controls and treatments were reared with a certain amount of artificial dietsrenewed everyday.After $2 4 / 4 8 / 7 2 \\ h ,$ the treated and control larvae were observed separately，with measurements including larval weight,remainder of the artificial diet and faeces.As food is fresh,it is also necessary to set a blank experiment as a control,measuring the weight change of diet caused by the change of water content. Larval food consumptionis calculated by the following formulae from Scriber and Slansky (1981). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = W - \\left( L + { \\frac { a W + b L } { 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$I$ is the food ingested (food consumption).   \nW is the initial weight of the food in experimental group.   \n$\\iota$ is the final weight of the food in experimental group. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d31dcebb847a8df513af37c17cfd51cc29466cc375133a46fd4b5ab0956137ec.jpg",
+        "table_caption": [
+            "Table 3 Larval feeding inhibition on transgenic cotton plants expressing dsNPF "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>dsGFP n=9</td><td>dsNPF n=9</td><td>P value</td><td>Decrease %</td></tr><tr><td>Area of leaf eaten (cm²)</td><td>18.280 ± 1.25</td><td>4.73 ± 0.99</td><td><0.0001</td><td>74.13</td></tr><tr><td>Body length</td><td>2.27 ± 0.05</td><td>1.77 ± 0.05</td><td><0.0001</td><td>21.87</td></tr><tr><td>of larvae (cm) Body weight of larvae (g)</td><td>0.34 ± 0.01</td><td>0.24 ± 0.02</td><td>0.003</td><td>29.76</td></tr><tr><td>Mortality rate after closion (%)</td><td>0</td><td>100</td><td><0.0001</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Construction of plasmids ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Plasmids were constructed using standard cloning techniques. dsRNAi constructs were prepared by adding appropriate restriction sites to the ends of the primers used to perform PCR amplification with DNA polymerase (TIANGEN)and primers (pNPF-F and $\\rho$ -NPF-R)in Table S1.The PCRs began with $9 4 ~ ^ { \\circ } C$ denaturation for3 min,then 35 cycles of denaturation at $9 4 ~ ^ { \\circ } \\mathsf { C }$ for 30 s, $5 6 ~ ^ { \\circ } C$ annealing for $3 0 \\ \\mathsf { s } ,$ and $7 2 ^ { \\circ } C$ extension for 1 min.The PCR products and pGreen-HY104 vector were digested separately with restriction enzymes Hindlll and EcoRl. Theythen were further purified，ligated and transformed into DH5a.The newly constructed plasmid was named dsNPF-pGreenHY104 plasmid.The control plasmid dsGFP-pGreen-HY104 was constructed with the same method above，using primers for dsGFP. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Relative consumption rate $\\begin{array} { r } { ( { \\mathsf { R C R } } ) _ { \\mathsf { \\Pi } _ { n } } = \\frac { I } { \\bar { \\mathsf { B } } \\times T } } \\end{array}$ Relative growth rate $\\begin{array} { r } { ( { \\mathsf { R G R } } ) = \\frac { B } { \\bar { B } \\times T } } \\end{array}$ · ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\bar { B } =$ mean weight during the time period. $B$ isthe assimilated food used for growth (biomass gained). $\\tau$ is the duration of feeding period (days). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Preparation of transgenic tobacco ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Tobacco seeds were planted in sterilized culture medium and were transplanted to the aseptic nutritive bowl after 7 days. Then,they were cultured at $2 5 ^ { \\circ } C$ with $1 6 - 1 7$ light and $2 0 ^ { \\circ } \\mathsf C$ with 8-h dark.Four to five-leaf-stage tobacco plants were chosen for infiltration with agrobacterium (Agrobacteriumtumefaciens) ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/03c9e5a7daf4da49f81b0834cad32cb7f922670762ae23d2fd2baaca0a63531f.jpg",
+        "img_caption": [
+            "Figure5LarafdingioytransgenicottoexpressngdTeeeleaedotofmaturelavestofeedonttraenic plant for3days $( n = 9 )$ .(a)Larve feedingonthedsNPFtransgeniccottonleaf.(b)Larvae feedingonthedsGFP(Green FluorescentProtein）transgenic cotonleaf(negativetrol).(comparisooflegowthwitfdingotrasgnicoto.dteexpresionevelsflefedo transgeniccoo.elfomparisofdiosdtrascos.fmparsft feedingonthetransgeniccottns.（g)Acomparisonoflarvaebodyweightafterfeedingonthe transgeniccottns.Diferencesat $\" / * \" P < 0 . 0 5$ $^ { \\prime \\prime } { } ^ { * * } { } ^ { \\prime \\prime } { \\cal P } < 0 . 0 1$ and $^ { \\prime \\prime } \\ast \\ast \\ast ^ { \\prime \\prime } P < 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/17bb35a659515c7907f0493de7b16c6b752e34bb60c2c9bf5da9a91086b400e4.jpg",
+        "img_caption": [
+            "Figure 6 Larvae energy metabolism affected by applications of dsNPF. Glycogen and trehalose were tested at $7 2 ~ \\mathsf { h }$ after injection of dsNPF RNAi $\\langle n = 3 0 \\rangle$ .(a)Trehalose content in dsNPF or dsGFP RNAi-treated larvae （20 $( P < 0 . 0 5 )$ . (b)Glycogen content in dsNPF RNAi-treated larvae compared with control counterparts $( P < 0 . 0 5 ^ { \\prime }$ ).Differencesat“\\*\" $\\mathsf { P } < 0 . 0 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "containing the constructed plasmids (dsNPF-pGreen-HY104 and dsGFP-pGreen-HY104).For the detailed methodology of transgenic tobacco,see Yang et al. (2000). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cotton Preparation of transgenic cotton and larval feeding ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The cotton strain 2O47B was grown in the field until flowering. After self-pollination for $2 4 \\ h .$ ，the dsNPF-pGreen-HY104 plasmid was injected into the ovary by hypodermic syringe.The injectedbollscontinuouslygrewtoproducemature seeds. These seedswere grownuntil two leaveshad appeared.Genomic DNA from one was analysed to identity the positive strains by PCR using the primers (NPF-F and NPF-R) in Table S1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For larvae feeding on cotton plants in the field,10 larvae were randomly released on the top of mature leaves to feed on each plant for 3 days.The treatments were performed in triplicates with three individual plants for each repeat ${ \\dot { \\boldsymbol { n } } } = 9$ plants/treatment).The cotton plants were mesh-enclosed to prevent insects climbing to other plants.The treatment was performed in triplicateswiththreeindividualplantsforeachrepeat ${ \\it \\Delta } _ { n } = 9$ plants/treatment). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For larvae feeding on cotton leaves in the laboratory,the leaf area was scanned witha scanner (HP Deskjet 1o5O),and the leaf was then placed in a Petri dish with moist filter paper and a fifthinstar larva wasallowed to feed on the leaf.After every $2 4 \\ h$ the eaten leaf area was calculated by ImageJ (leaf was changed every $2 4 \\ h$ .The feeding leaf area wascalculatedas the fresh leaf area $( S _ { 0 } )$ minus the eaten leafarea $( S _ { 1 } )$ .Thetreatmentwas performed intriplicates with three larval individuals for each repeat L ${ \\mathfrak { n } } = 9$ larvae/treatment). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Northern blot analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For the northern blot hybridization，total RNA was extracted from transgenic plants (cotton and tobacco) leaves with ${ \\mathsf { T R l z o l } } ^ { \\circledast }$ reagent.Forty micrograms of total RNA from each sample was heated at $6 5 ~ ^ { \\circ } C$ for $1 5 \\mathrm { \\ m i n }$ ，cooled on ice and loaded on $1 . 3 \\%$ w/vagarose gels，electrophoresed in denaturing buffer containing formaldehydeat $5 0 ~ \\mathrm { V }$ for $2 h$ and visualized using UV.RNAs were blotted on to nylon membranes with $1 0 \\times { \\mathsf { S S C } }$ and cross-linked to membranes by UV cross-linking.A $\\mathsf { \\mathfrak { X } } ^ { 3 2 } \\mathsf { P }$ -UTP labelled full-length NPF riboprobe was generated by in vitro transcription (Maxscript kit;Ambion，Austin，TX，USA)．Probe wasadded and hybridized overnightat $6 5 ~ ^ { \\circ } C$ .Membraneswere washed in wash buffer $( 0 . 1 \\times 5 5 C$ ， $0 . 1 \\%$ SDS）once，then washed 3 times with $1 0 0 ~ \\mathrm { { m L } }$ of prewarmed wash buffer for $2 0 { \\mathrm { ~ } } { \\mathrm { m i n } } .$ ，each in a hybridization oven at $6 8 ^ { \\circ } C$ ，afterwhich hybridization signals were detected by X-ray film(Kodak, Rochester,NY,USA). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Southern blot analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Total genomic DNA was isolated from 1-week transgenic cotton leaves.Fifty micrograms of the genomic DNA was digested with Hind Ill,and the DNA fragments were separated by electrophoresis in a $1 . 0 \\%$ w/v agarose gel in ${ 1 \\times \\mathsf { T A E } }$ buffer for $1 2 \\mathrm { ~ h ~ }$ at $2 5 ~ \\mathsf { V }$ The gel was sequentially subjected to denaturation buffer ( $1 . 5 ~ \\mathsf { M }$ NaCl and $0 . 5 ~ \\mathsf { m }$ NaOH for $3 0 ~ \\mathrm { m i n } ;$ ）and neutralization buffer （ $1 . 5 \\mathrm { ~ M ~ }$ NaCl and $1 \\mathrm { ~ M ~ }$ Tris base for $3 0 ~ \\mathrm { m i n } ;$ .The DNA was transferred to a nylon membrane using $1 0 \\times { \\mathsf { S S C } }$ buffer and UV cross-linked.npf coding regions labelled with $\\mathsf { \\mathfrak { X } } ^ { 3 2 } \\mathsf { P }$ -CTPwere generated using a RediprimeLabelingKite (Prime-a-Gene Labelling System;Promega).The probe wasadded to hybridization buffer (Rapid-hyb buffer) and incubated overnight at $6 5 ~ ^ { \\circ } C$ The hybridization buffer was eluted and the membrane rinsed withwash buffer $( 0 . 5 \\times 5 5 C$ ， $0 . 2 \\%$ SDS）once．Then，the membrane was washed 3 times with $1 0 0 ~ \\mathrm { { m L } }$ of prewarmed wash buffer for 2O min each in a hybridization oven at $6 8 ^ { \\circ } C$ The radioactivity signal on the membrane was detected by $\\mathsf { X }$ -rayfilm (Kodak). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Determination of total lipid, glycogen, trehalose ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The microseparation of glycogen,trehalose and total lipid used the method described by Van Handel (1965)with a slight modification by Zhou et al. (2004).Whole-body homogenates of each individual were used to extract glycogen,trehalose and total lipid,respectively. Glycogen and trehalose were measured using the anthrone method with glycogen and trehalose as standards, respectively (Sigma Chemical,St.Louis,MO,USA).Total lipid was quantified by the vanillin assay.Each independent experiment wasperformed with triplicates with 1O individuals in total for each replicate. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "All data were statistically analysed by one-way ANOVA using the Statistical Package for the Social Sciences (SPSS),version 11.5 for Windows.More than two group data were analysed with oneWay ANOVA followed by the Tukey-Kramer HSD Test as the post hoc test. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank Prof. Jeffrey Price (University of Missouri—Kansas City) and Prof.Reddy Palli (University of Kentucky） for manuscript revision.This work was supported by the National Basic Research Program from Ministry of Science and Technology of the People's RepublicofChina( $' 9 7 3 ^ { \\prime }$ ProgrammeGrantnumber 2012CB1141oO) and the National Natural Science Foundation of China (Grant number 30870339) to Z. Zhao. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interest ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no conflict of interest. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Bendtsen,J.D., Jensen,L.J.，Blom,N.,Von Heijne,G.and Brunak,S.(2004) Feature-based prediction of non-classical and leaderless protein secretion. Protein Eng.Des.Sel.17,349-356.   \nBlack，D.L.(2003） Mechanisms of alternative pre-messenger RNA spling. Annu.Rev. Biochem.72,291-336.   \nBrown,M.R., Crim,J.W.,Arata, R.C., Cai, H.N., Chun,C.and Shen,P.(1999) Identification of a Drosophila brain-gut peptide related to the neuropeptide Y family.Peptides,20,1035-1042.   \nChen,X., Yang,X., Kumar, N.S.,Tang,B.,Sun,X., Qiu,X.,Hu,J.et al. (2007) The class A chitin synthase gene of Spodoptera exigua: molecular cloning and expression patterns.Insect Biochem.Mol. Biol.37,409-417.   \nClynen,E.，Huybrechts,J.,Verleyen,P.，De Loof,A.and Schoofs,L.(2006) Annotation of novel neuropeptide precursors in the migratory locust based on transcript screening of a public EST database and mass spectrometry. BMC Genom. 7,201.   \nDe Loof,A.,Baggerman,G., Breuer,M.,Claeys,I., Cerstiaens,A., Clynen,E., Janssen,T.et al.(20o1) Gonadotropins in insects: an overview.Arch.Insect Biochem. Physiol. 47,129-138.   \nDierick，H.A.and Greenspan，R.J.(2oo7） Serotonin and neuropeptide F have opposite modulatory effects on fly aggression.Nat. Genet.39,678- 682.   \nGarczynski，S.F.，Crim,J.W.and Brown，M.R.(2o05) Characterization of neuropeptide F and itsreceptor from the African malaria mosquito, Anopheles gambiae.Peptides,26,99-107.   \nHe, C., Cong,X., Zhang,R.,Wu,D.,An, C.and Zhao,Z.(2013a) Regulation of circadian locomotor rhythm by neuropeptide Y-like system in Drosophila melanogaster.Insect Mol. Biol.22,376-388.   \nHe,C., Yang,Y., Zhang,M., Price,J.L.and Zhao,Z.(2013b) Regulation of sleep by neuropeptide Y-like system in Drosophila melanogaster.PLoS One，8, e74237.   \nHuang,Y.，Brown,M.R.,Lee,T.D.and Crim,J.W.(1998) RF-amide peptides isolated from the midgut of the corn earworm，Helicoverpa zea,resemble pancreatic polypeptide.Insect Biochem. Mol. Biol.28,345-356.   \nHuang, Y., Crim, J.W., Nuss,A.B.and Brown,M.R. (2011) Neuropeptide F and the corn earworm,Helicoverpa zea:a midgut peptide revisited.Peptides,32, 483-492.   \nJames,C.(2012) The development trend of the 2011 global biotechnology/ commercialization of genetically modified crops.China Biotechnol.32, 1-14.   \nKong-Ming,W.(2oo7) Environmental impact and risk management strategies of Bt cotton commercialization in China. Chin.J. Agric. Biotechnol.4,93-97.   \nKrashes，M.J.，DasGupta，S.，Vreede，A.，White，B.，Armstrong，J.D.and Waddell,S. (2o09)A neural circuit mechanism integrating motivational state with memory expression in Drosophila. Cell,139,416-427.   \nLeff,S.E.and Rosenfeld,M.G.(1986) Complex transcriptional units: diversity in gene expression by alternative RNA processing.Annu. Rev. Biochem.55, 1091-1117.   \nLingo,P.R., Zhao, Z.and Shen,P.(2007) Co-regulation of cold-resistant food acquisitionby insulin-and neuropeptide Y-like systemsin Drosophila melanogaster. Neuroscience,148,371-374.   \nLiu,X., Zhang,Y., Zhou, Z.and Zhao,Z. (2013) Cloning and sequence analysis of neuropeptide F from the oriental tobacco budworm Helicoverpa assulta (Guenée).Arch.Insect Biochem. Physiol.84,115-129.   \nMaule,A.G.,Halton, D.W.and Shaw,C.(1995) Neuropeptide F: a ubiquitous invertebrate neuromediator? Hydrobiologia,305,297-303.   \nMcVeigh,P.，Kimber，M.，Novozhilova,E.and Day,T.(2oo5)Neuropeptide signalling systems in flatworms. Parasitology,131,S41-S55.   \nNuss,A.B.,Forschler, B.T.,Crim, J.W.,TeBrugge,V.,Pohl,J.and Brown,M.R. (2010）Molecular characterization of neuropeptide F from the eastern subterraneantermiteReticulitermesflavipes(Kollar)(Isoptera: Rhinotermitidae). Peptides,31,419-428.   \nRoller,L.,Yamanaka,N.,Watanabe, K., Daubnerova,I., Zitnan,D., Kataoka,H. and Tanaka,Y. (2oo8) The unique evolution of neuropeptide genes in the silkworm Bombyx mori.Insect Biochem.Mol.Biol.38,1147-1157.   \nScriber,J.and Slansky,F.Jr.(1981) The nutritional ecology of immature insects. Annu.Rev. Entomol.26,183-211.   \nSouthey, B.R.,Amare,A., Zimmerman,T.A., Rodriguez-Zas, S.L.and Sweedler, J.V.(20o6) NeuroPred: a tool to predict cleavage sites in neuropeptide precursors and provide the masses of the resulting peptides.Nucleic Acids Res.34,W267-W272.   \nSouthey，B.R.，Sweedler,J.V.and Rodriguez-Zas,S.L.(2Oo8) Prediction of neuropeptide cleavage sites in insects. Bioinformatics,24,815-825.   \nStanek,D.M.,Pohl,J., Crim,J.W.and Brown,M.R.(20o2) Neuropeptide F and itsexpression in the yellow fever mosquito,Aedes aegypti.Peptides,23, 1367-1378.   \nVan Handel,E.(1965) Microseparation of glycogen,sugars,and lipids.Anal. Biochem. 11,266-271.   \nVeenstra,J.A.and Sellami,A.(20o8) Regulatory peptides in fruit fly midgut. Cell Tissue Res.334,499-516.   \nVroemen,S.F., Van Marrewijk,W.J.,De Meijer,J., Van den Broek,A.T.M.and Van der Horst, D.J.(1997) Differential induction of inositol phosphate metabolism by three adipokinetic hormones.Mol. Cell.Endocrinol.130,131-139.   \nWen，T.，Parrish，C.A.，Xu，D.，Wu，Q.and Shen，P.(2005）Drosophila neuropeptide F and its receptor,NPFR1,define a signaling pathway that acutely modulates alcohol sensitivity. Proc. Natl Acad. Sci. USA,102,2141- 2146.   \nWu,K.and Gong,P.(1997)A new and practical artificial diet for the cotton boll-worm\\*. Insect Sci.4,277-282.   \nWu,Q., Zhao, Z.and Shen,P.(2oo5) Regulation of aversion to noxious food by Drosophila neuropeptide Y-and insulin-like systems. Nat. Neurosci. 8,1350- 1355.   \nYang,Y.，Li，R.and Qi,M. (2ooO)In vivo analysis of plant promoters and transcription factors by agroinfiltration of tobacco leaves.Plant J.22,543-551.   \nYang, J., Zhu,J.and $\\mathsf { X u } _ { i }$ W.-H.(2010) Differential expression,phosphorylation of COX subunit 1 and COX activity during diapause phase in the cotton bollworm,Helicoverpa armigera.J.Insect Physiol.56,1992-1998.   \nZhang,Q.,Guo,F., Liang,G.-M.and Guo,Y.-Y.(2010) Research progress of the development of resistance of target insects and resistance management strategy.J.Environ. Entomol.2,020.   \nZhou,G.,Flowers,M.,Friedrich,K.,Horton,J.,Pennington,J.and Wells,M.A. (2004)Metabolic fate of $[ { } ^ { 1 4 } \\mathsf { C } ] .$ -labeled meal proteinamino acids in Aedes aegypti mosquitoes.J.Insect Physiol.50,337-349. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting information may be found in the online version of thisarticle: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure S1The expressions of Harmnpf1 and Harmnpf2 in tissues of 5th instar larvae.   \nFigure S2 Construction of the transgenic tobaccos.   \nFigure S3 Northern blot and Southern blot analyses of transgenic cotton and tobacco.   \nFigure S4Total lipid metabolism not affected by applications of dsNPF.   \nTable S1 Primers for PCR templates. ",
+        "page_idx": 8
+    }
+]

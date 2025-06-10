@@ -1,0 +1,631 @@
+[
+    {
+        "type": "text",
+        "text": "基于地理探测器的乌鲁木齐城市扩张特征与时空驱动因素分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "石天戈1²，时卉1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.新疆财经大学,新疆 乌鲁木齐830012；2.中国科学院新疆生态与地理研究所,新疆 乌鲁木齐830011)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：新时代我国城市发展内外环境明显变化，城市扩张特征和驱动机制也呈现出新特点。以乌鲁木齐市为例，描述1990—2018年城市建设用地扩张特征，利用地理探测器研究扩张时空机制，重点分析2010年以后扩张新特点。结果表明：(1）乌鲁木齐建设用地由1990年的 $8 4 . 3 7 \\mathrm { k m } ^ { 2 }$ 增加到2018年的 $3 6 1 . 9 1 \\mathrm { k m } ^ { 2 }$ ，城市形态由南北带型演变为\"T\"字型结构，城市形态空间紧凑度逐渐下降；城市扩展速度稳定，扩展强度逐渐加强。城市扩张的“核心-边缘\"结构经历“增强-减弱-增强”的时空变化过程。(2)城市建设用地扩张时间维度主要受人口规模、产业规模和政府推力的影响，其中人口规模作用最大，产业规模中第二产业作用略高于第三产业作用效果,2010年以后，政府推力对乌鲁木齐市城市扩张产生加速作用。(3)空间维度来说，交通类和商业类空间要素是驱动城市空间扩张的主要因素，随着时间推移，城市扩张的空间动力由少数关键因子驱动转变为多因子共同驱动。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：城市空间扩张；建设用地；时空驱动机制；地理探测器；乌鲁木齐文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2015年中央城市工作会议指出，“我国经历了世界历史上规模最大、速度最快的城镇化进程，取得了举世瞩目的成就”。伴随我国快速城镇化进程，城市规模不断扩张1，城市建设用地迅速扩展，增长速度明显快于人口规模的增加[2]。据统计，从1990年到2017年，我国城市建成区面积由 $1 . 2 8 { \\times } 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ 增加到 $5 . 6 8 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,年均增速 $5 . 6 7 \\%$ 。快速的建设用地增长，引发基本农田保障、生态安全等一系列问题3，加剧了国土空间矛盾，特别是我国大城市盲目空间扩张成为城市化进程中主要问题之一[4]。如何控制城市规模、优化空间结构、保证城市健康可持续发展成为当前亟待解决的重要课题。掌握城市扩张特征和驱动机制是前提",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "众多学者利用统计数据[5]、遥感[6-7]和地理信息提取技术[8]从全国、省域、城市群[9]、单体城市[10-1]多个空间尺度研究建设用地扩张特征、影响因素和动力机制[12]。其中单体城市包含单一城市和同类城市[13-15]对比2种手段，研究对象包括中心城区和市域范围全部城乡建设用地，前者重点反映城市空间扩张态势[16],后者针对特大城市城乡关系,或半城市化地区矛盾[17],期望厘清城市扩张规律和城乡建设用地演化规律，优化形态布局，解决城市发展中突出矛盾。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对建设用地扩张机理研究包含经济学派、制度学派和经验学派[18]。经济学派从城市土地边际收益与边际成本关系角度研究城市扩张机理;制度学派从政治制度安排，如行政区划调整[19]、开发区设立[20]等角度解释城市扩张机制;而经验学派早期定性解释经济、社会、制度、人口等各类要素对城市扩张的影响[112]，后期利用空间回归[16]、地理加权[21]和地理探测[5-等计量模型定量分析扩张影响机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乌鲁木齐市是新疆首府，全疆唯一大城市，承担着丝绸之路核心区建设的重要使命。已有乌鲁",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "木齐城市扩张研究时期较早，以定性分析为主[22]新近研究采用了定量分析方法，但系统性不强，未能说明2010年以后城市扩张的新机制[23]。本文基于多期遥感数据，结合空间网络分析、地理探测分析，从时空双维度系统研究城市扩张过程与动力机制。同时，将城市扩张机制地理探测空间识别从区域尺度深入到城市内部尺度，也为我国该领域研究增加一个西部大城市典型案例。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2019年，乌鲁木齐市常驻人口 $3 5 5 . 2 \\times 1 0 ^ { 4 }$ 人，占全疆人口的 $1 4 . 4 \\%$ ，国内生产总值 $3 4 1 3 . 2 6 { \\times } 1 0 ^ { 8 }$ 元，占全疆生产总值的 $2 5 . 0 \\%$ 。全市下辖天山区、沙依巴克区、新市区（高新区）、水磨沟区、头屯河区（经开区）、达坂城区、米东区和乌鲁木齐县共7区1县。2007年昌吉州米泉市并入乌鲁木齐，与原有东山区合并为米东区，2011年，新市区、头屯河区分别与国家级产业园区合并，实施\"区政合一\"体制。本文以乌鲁木齐2014版城市总体规划划定的中心城区控制区范围作为研究区。范围内乌鲁木齐县和达坂城区2018年仅有 $6 . 1 \\mathrm { ~ k m } ^ { 2 }$ 建设用地，占比较低，后文分区特征不再讨论这两区县。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2分析框架",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用乌鲁木齐市高清卫星影像图提取建成区用地空间分布。为反映城市空间的扩张过程，不统计与城市建成区不相接乡镇和农村建设用地，研究样本期城市郊区已经平整但未开发的土地暂不计入城市建设用地范围。借助谷歌历史地图影像对城市边缘建成区按上述邻接要求进行人工识别，最终获得1990、2000、2010年和2018年4期乌鲁木齐市建设用地矢量数据。将整个研究区按 $5 0 0 \\mathrm { m } { \\times } 5 0 0 \\mathrm { m }$ 网格进行划分，作为研究的基本空间单元。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "城市建设用地扩张机理有多种理论流派，从时间维度看,多数学者认为人口因素[24]、经济因素[25]、政策制度[26]等对城市建设用地扩张有明显影响。综合上述理论，从人口规模、经济水平、政府推力3个方面测度建设用地时间驱动机制(表1)。工业往往是城市早期阶段的主要推动力量，而随着经济发展，服务业在大中城市出现集中化倾向、成为推动城市化的主导动力[27]。因此，在经济水平指标选取时，分别用二产产值和三产产值表示工业和服务业的影响，以期考察二者影响力的大小。在政府推力指标选择中，财政赤字情况是反映政府通过经济手段刺激城市扩张的有效指标，2010年中央新疆工作会议后，全国开展对口援疆工作，虽然乌鲁木齐市没有对口支援省市，但国家层面许多援疆项目均布局在乌鲁木齐，享受到援疆政策红利，采用虚拟变量 $D$ 反映援疆政策效应对乌鲁木齐城市扩张的影响，前期设置为0,2010年以后设置为1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用经验学派理论，考察城市扩张空间机理经济的成本-收益要素是城市空间扩张的主要因素[12.20],整合空间要素中影响经济成本和收益因素，并辅之自然地理要素测度空间驱动因子。例如，到城市商业中心距离反映了该网格的需求潜力，到铁路距离反映了经济运输成本。将网格到各类经济、自然点、线等空间要素的距离作为测度指标。例如选取红山为城市中心，选取城市一级商业中心人民广场和2个次级商业中心友好路、铁路局作为商业中心点要素，选择城市主干道和市内快速路作为主要道路轴要素。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d26fab2a576af5ea834cb5250a268a4b28ccb956e2ec8ff566866f0dc394313.jpg",
+        "table_caption": [
+            "表1城市扩张时空驱动因素",
+            "Tab.1 Spatiotemporal driving indicators of urban expansion "
+        ],
+        "table_footnote": [
+            "注：\\*表示该数据来源乌鲁木齐市统计公报，其余数据来源《乌鲁木齐统计年鉴》。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">时间驱动因素</td><td colspan=\"3\">空间驱动因素</td></tr><tr><td>系统层</td><td>指标层</td><td>变量</td><td>影响方向</td><td>系统层</td><td>指标层</td><td>变量</td><td>影响方向</td></tr><tr><td>人口水平</td><td>常驻人口*</td><td>X1</td><td>+</td><td>点要素</td><td>到机场距离</td><td>X5</td><td>1</td></tr><tr><td rowspan=\"3\">经济水平</td><td></td><td></td><td></td><td></td><td>到火车货运站距离</td><td>X6</td><td>1</td></tr><tr><td>第二产业产值</td><td>X2</td><td>+</td><td></td><td>到火车客运站距离</td><td>X7</td><td>一</td></tr><tr><td>第三产业产值</td><td>X3</td><td>+</td><td></td><td>到汽车客运站距离</td><td>X8</td><td>一</td></tr><tr><td>政府推力</td><td></td><td></td><td></td><td></td><td>到城市商业中心距离</td><td>X9</td><td>1</td></tr><tr><td rowspan=\"4\"></td><td>财政赤字率</td><td>X4</td><td>+</td><td></td><td>到城市中心距离</td><td>X10</td><td>1</td></tr><tr><td>援疆政策效应</td><td>D</td><td>+</td><td></td><td>到城市重心距离</td><td>X11</td><td>1</td></tr><tr><td></td><td></td><td></td><td>轴要素</td><td>到主要道路距离</td><td>X12</td><td>一</td></tr><tr><td></td><td></td><td></td><td></td><td>到高速公路距离</td><td>X13</td><td>1</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>到铁路距离</td><td>X14</td><td>1</td></tr><tr><td colspan=\"4\"></td><td>地理要素</td><td>海拔</td><td>X15</td><td>1</td></tr><tr><td colspan=\"4\"></td><td></td><td>坡度</td><td>X16</td><td>二</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）建设用地综合扩展指数",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用扩展速率（ $\\mathrm { \\Delta U L _ { 1 } }$ 、扩展强度 $\\mathrm { \\langle U L _ { 2 } }$ ）、综合扩展指数 $\\mathrm { \\langle U L _ { c } }$ )测度城市建设用地空间扩展程度。计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { U L } _ { 1 } \\mathrm { = } \\left( \\sqrt [ t ] { S _ { t } - S _ { 0 } } - 1 \\right) \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { U L } _ { 2 } { = } \\frac { S _ { t } { - } S _ { 0 } } { A _ { i } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { U L } _ { \\mathrm { c } } = \\displaystyle \\prod _ { i = 1 } ^ { 2 } \\mathrm { U L } _ { i } ( i = 1 , 2 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { S } _ { t }$ 表示第 $\\mathbf { \\chi } _ { t }$ 期建设用地面积 $\\left( \\mathrm { k m } ^ { 2 } \\right)$ ； $S _ { \\mathrm { 0 } }$ 表示基期建设用地面积 $\\left( \\mathrm { k m } ^ { 2 } \\right)$ ; $A _ { i }$ 表示各区县总面积 $\\left( \\mathrm { k m } ^ { 2 } \\right)$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）空间形态紧凑度",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "城市形态的紧凑度是反映城市空间形态内部各部分空间集中化程度的指标，是反映城市形态的重要概念。依据Batty提出的紧凑度计算公式研究乌鲁木齐市的空间紧凑度[28]",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { B C I } = 2 { \\sqrt { \\pi S } } / P\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：BCI为城市空间紧凑度； $s$ 为城市建设用地面积 $( \\mathrm { k m } ^ { 2 } ) { \\mathrel { \\mathop : } } P$ 为城市轮廓周长( $\\left( \\mathrm { k m } \\right)$ 。BCI的值在0\\~1之间，其值越大，形状就越紧凑，接近正圆分布；反之，形状的紧凑性越差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）地理探测器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地理探测器模型由Wang等[29]提出，能够分析各种现象的驱动力和影响因子以及多因子交互作用，主要用于探测地理要素的空间差异性。本文选用分异及因子探测器与交互作用探测，研究城市用地扩张空间驱动机制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分异及因子探测：探测Y的空间分异性，以及探测某因子 $X$ 的差异多大程度上解释了属性Y的空间分异， $Y$ 为建设用地的变化， $X$ 为各类空间驱动因子，按照数据自然断裂点将变量 $X$ 自大到小分为5类，转化为类型变量。具体公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq = 1 - \\frac { 1 } { n \\sigma ^ { 2 } } { \\sum _ { h = 1 } ^ { L } } N _ { h } \\sigma _ { h } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\scriptstyle q$ 为因变量的空间分异性探测力指标； $h { = } 1$ ，$\\cdot 2 , \\cdots , L$ 为变量或因子的分层，即分类或分区； $N _ { h }$ 为次一级区域样本单元数； $N$ 为整个区域样本单元数;$L$ 为次级区域个数； $\\sigma ^ { 2 }$ 为整个区域因变量的方差；$\\sigma _ { h } ^ { 2 }$ 为次一级区域的方差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1城市建设用地时空演变特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 城市建设用地基本特征1990年,乌鲁木齐市中心城区建设用地面积 $8 4 . 3 7 ~ \\mathrm { k m } ^ { 2 }$ ,2018年增至$3 6 1 . 9 1 ~ \\mathrm { k m } ^ { 2 }$ ,为1990年的4.29倍，增长了 $2 7 7 . 5 4 \\mathrm { k m } ^ { 2 }$ 年均扩张面积 $9 . 9 1 \\ \\mathrm { k m } ^ { 2 }$ ,年均增长率为 $5 . 3 4 \\%$ 。城市建设用地以边缘外延为主，重点向南、西和东北3个方向扩张。城市空间结构由南北条形结构，演变为“T\"字型结构(图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/74391990f30b8f9429ac2cf68d257ed88b6e2602d55f2b080bbf83de9f13a726.jpg",
+        "img_caption": [
+            "图1乌鲁木齐市建设用地扩张特征",
+            "Fig.1 Expansion of construction land in Urumqi "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算2个城市紧凑度指标，一是依据中心城区全部建设用地计算出的全局紧凑度，二是仅计算与原有建成区紧密相连中心建设用地的核心紧凑度。乌鲁木齐空间形态紧凑度指数BCI逐期下降，表明过去30a城市受地形限制主要沿少数几个方向扩张。核心区紧凑度高于全局紧凑度，表明城市存在大量建设飞地(图2)。例如，水磨沟区温泉大学城，城北新区高科技园区，城南新开发的工业用地，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a805347aeaf6caf689d19758fa60abaca2747ba9b3a028971cce04184cac4cd2.jpg",
+        "img_caption": [
+            "图2乌鲁木齐城市空间形态紧凑度演变"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与已有建成区不相连，形成跳跃式扩张模式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2城市建设用地扩展特征各区县建设用地扩张呈现以下特点：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）各区县扩展速度平稳，扩展强度逐渐增强。近 $3 0 \\mathrm { a }$ 乌鲁木齐市建设用地平均扩展速度为 $5 . 3 4 \\%$ ，扩展强度由1990—2000年的 $3 . 5 7 \\%$ 提高到2010—2018年的 $8 . 7 9 \\%$ ,呈现逐步增强态势。具体变化如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）城市新区扩张速度较快，中心城区扩展强度较大。位于乌鲁木齐市东北部的米东区扩展速度最快，年均 $7 . 2 3 \\%$ 。米东区原为昌吉州农业型县，划入乌鲁木齐市后，工业园区大力建设，物流、仓储等用地显著增加，成为城市重工业基地。扩展强度最高为中心城区的新市区与水磨沟区，扩展强度达到 $2 3 . 0 0 \\%$ ,高于全市 $1 6 . 8 0 \\%$ 的平均水平。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）城市扩张的\"核心-边缘\"结构经历\"增强-弱化-增强\"的时空演变过程。城市扩张程度整体呈现中心城区高于郊区的“核心-边缘\"结构，但不同时期结构变化趋势有异。以综合扩展指数来看，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1990—2000年中心城区(天山、沙依巴克、新市、水磨沟4区）扩展快于郊区（头屯河、米东2区），2000—2010年郊区快于中心城区，2010—2018年中心城区快于郊区。20世纪90年代，乌鲁木齐市扩张初期新增建设用地集中在中心城区周边地块。21世纪初，大型园区建设兴起，需要大面积低价土地作为支撑，城市北部郊区绿洲平原成为园区建设用地集中区域，米东工业园、头屯河工业开发区建设带动城市扩张。2010年以后，老城区原有不适合开发的山地坡地，经过土地平整，为填充型扩张提供空间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.3城市建设用地扩张热点统计每个单元网格中建设用地变化量占网格面积的比重(图4)，得出以下结论：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）城市扩张热点由蔓延型转变为填充型和飞跃型扩张模式。1990—2000年城市建设用地在原有建设用地周边蔓延。例如乌鲁木齐新市政府选址南湖片区，带动周边建设用地开发；2000—2010年，城市扩张开始加速，填充型和飞跃型扩张模式显现，主要扩张区域集中在新市区高新技术开发区二期(填充型）会展片区(填充型）、米东工业园片区(蔓延型)和钢城片区（飞跃型)。2010—2018年，更多填充型和飞跃型扩张热点出现，包括经开区二期（填充型）、九鼎片区（飞跃型）、温泉片区（飞跃型）、仓房沟片区（飞跃型）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）城市扩张热点北部多于南部。以市中心红山为界，近30a城市北部建设用地增量明显高于南侧用地，城市北向拓展明显。城市北侧为乌鲁木齐河冲击平原，地势平坦，建设条件适合连片大面积开发。城市南侧为天山山间谷底，地形起伏不定，",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5eafe5b4ae633fd24ec16ed1aac7f8bae343aa79aa2b87d4738be29e407ff817.jpg",
+        "img_caption": [
+            "Fig.2Urban spatial compactness evolution in Urumqi ",
+            "图3乌鲁木齐主要区县建设用地扩展特征",
+            "Fig.3Indices of construction land expansion by districts in Urumqi "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "87°20'E 87°30'E 87°40'E 87°50'E 87°20'E 87°30'E 87°40'E 87°50'E(a)1990-2000年 (b)2000—2010年  \n10004 1000 10004 业园 100004米东区头屯河区 经新区区 田 头屯河区 高新区区钢城片区 会展片区  \n2355330 南湖泉区沟区 455330 455334 三 红山 永磨沟区 235000乌鲁木齐县 出 乌鲁木齐县天 场 新增建设 司 广场 新增建设沙依巴克区 用地比重 沙依巴克区 用地比重图例 达坂城区 变化 图例 达坂城区 无变化  \n200004 0 5km 0.0\\~0.2 404004 20400 0 5km 0.0\\~0.2 444404L 天山区 0.2\\~0.4 天山区 0.2\\~0.4· 城市地标 0.4\\~0.6 · 城市地标 0.4\\~0.6区(县)行政边界 0.6-1.8 区(县)行政边界 0.8\\~1.887°20'E 8730'E 87°40'E 87°50'E 87°20'E 87°30'E 87°40'E 87°50'E87°20'E 8730'E 87°40'E 87°50'E 87°20'E 8730'E 87°40'E 87°50'E(c)2010—2018年 (d)1990—2018年  \n200000 高新区三期 4000 100004 10004新市区 新市区 来泰区电头屯河区 头屯河区钢城经开区一期  \n3050 水 磨沟区 405330 455330 山 水磨沟区 235304片区齐县 鸭鲁木齐县 红山人民 勿沙依巴克区 人民广场 新增建设 沙依巴克区 新增建设图例5km 山城区 图例5km 1  \n20400 √ 44404 2000 山区 44440· 城市地标 0.4\\~0.6 . 城市地标 0.4\\~0.6区(县)行政边界 0.6-1.8 区(县)行政边界 0.6\\~1.887°20'E 87°30'E 87°40'E 87°50'E 87°20'E 87°30'E 87°40'E 87°50'E",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同时又有河流上游水源保护区限制，导致建设用地多为跳跃、分散扩张。乌鲁木齐市总体规划(2014—2030年)提出城市空间\"南控、北拓、西伸、东进\"的发展方向，与此结论一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）新区开发建设是扩张热点的主要表现形式。近30a集中扩展热点区域为乌鲁木齐市经开区、高新区、米东工业园、钢城工业园和南部建材城、温泉大学城等大型园区和新区，政府集中开发新区与园区是带动城市扩张的主要手段。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2建设用地扩展的时空驱动因素分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1时间影响机制利用多元线性回归方法，构建乌鲁木齐城市建设用地增长时间驱动模型。自变量之间相关系数均高于0.8，存在较严重共线性问",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "题，提取自变量主成分降维回归，得到如下模型，模型拟合为0.940,通过显著性检验",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF 1 = 0 . 9 8 6 \\ln X 1 + 0 . 9 8 2 \\ln X 2 + 0 . 9 9 0 \\ln X 3 +\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = 0 . 3 5 1 \\times F 1 + 0 . 5 0 2 _ { \\binom { t = 1 6 . 4 8 6 } { 0 . 0 0 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = 0 . 3 4 7 \\ln X 1 + 0 . 3 4 6 \\ln X 2 + 0 . 3 4 5 \\ln X 3 +\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 . 3 2 8 \\ln X 4 + 0 . 2 9 8 D\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $F 1$ 表示提取主成分； $\\mathbf { \\Phi } _ { t }$ 表示回归系数自由度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "公式(7)括号内为回归系数自由度与显著性水平。从模型结果得出以下结论：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）人口和经济集聚是城市扩张的主要动因。近 $3 0 \\mathrm { ~ a ~ }$ ，乌鲁木齐经济总量占全疆比重由 $2 1 . 9 \\%$ 提升至 $2 5 . 1 \\%$ ,规模集聚增强，城市首位度接近4.0，人",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "口集聚导致建设用地需求提升，居住用地、公共服务设施用地、公园绿地规模扩大。人口增加提升就业和消费需求，反馈刺激城市经济发展，间接驱动城市扩张。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）经济影响中第二产业作用略高于第三产业，不同时段二者作用程度具有差异性。第二产业产值回归系数略大于第三产业产值，表明城市空间扩张仍以工业驱动为主。乌鲁木齐在传统石化、化工产业基础上，引进机械制造和生物医药等高新技术产业，成为近年经济增长的主导动力，工业行业需开发大量土地建设厂房，促进城市空间扩展。乌鲁木齐市二三比值呈现先下降、后上升、再下降的波动过程。20世纪90年代，乌鲁木齐市经济发展主要依靠商品贸易相关行业，三产比重增加;2000年以后，随着全国重工业化的进程，第二产业才逐步发展，比重上升;2013年之后，城市经济逐渐开始产业升级之路，导致三产比重再次回升。该指标变化可解释在乌鲁木齐不同发展阶段，城市扩张经济驱动因素具有差异性，也说明总体为何第二产业影响仅略高于第三产业。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）政府作用小于人口和经济作用，表现为政府负债提升、城市规划引领和援疆政策红利。从模型结果看，政府推力变量 $X 4$ 和 $D$ 的系数分别为0.328和0.298，低于人口和经济变量。政府推力在经济和人口作用上施加叠加效应，加速推动城市扩张。2010年以后，市财政由略有盈余转为赤字，且赤字程度不断扩大。政府通过规划和财政手段，加大城市新区和基础设施建设力度，带动城市扩张。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2010年以后，在全国援疆的大背景下，中央部委也开展援疆工作，建设部增加了乌鲁木齐市每年建设用地指标，并派出援疆干部负责城市新区开发建设；依托上海市对新疆援助，与上汽集团合资重组上汽新疆汽车集团，生产家用小轿车。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2空间驱动机制地理探测器方法是从研究区全局测算空间异质性，依据计算原理[29],若因子要素 $X$ 将空间分为3类，且含有Y值的网格空间分布总比例为 $5 0 \\%$ ,决定力 $\\scriptstyle q = 0 . 1$ 表示 $Y$ 在 $X$ 子区域集中分布， $X$ 分类造成Y的异质性。本文将各空间因子按自然断裂法分为5类，且乌鲁木齐含有建设用地的网格仅占 $20 \\%$ ,因此,将决定力 $\\scriptstyle q = 0 . 0 5$ 作为判断空间异质性的阈值。所有空间因子和建设用地增长比例相关性通过显著性水平检验，两者之间存在负相关,符合理论预期(图5)。所有因子各年份决定力显著性检验 $P$ 均小于0.01。近 $3 0 \\mathrm { ~ a ~ }$ 交通类、经济类、地理要素等空间因子对建设用地扩张影响强烈，仅有2个要素决定力未达到阈值。其中，最强影响为到铁路的距离 $( X 9 )$ 和到城市商业中心距离$( X 1 4 )$ 。到城市商业中心距离反映建设用地扩张的效益因素，距离越近，开发建设收益越大。到铁路的距离反映扩张的成本因子，距离越近，工业、物流、仓储运输成本越小。铁路和商业因素对城市空间扩张决定力较强，反映乌鲁木齐市作为丝绸之路核心区中心城市，连接东西，商贸型综合城市特征。随时间推移，空间影响因子决定力下降。3个时期各因子平均决定力依次为0.055、0.048、0.039，高于阈值因子数也由7个下降到3个，表明空间因子的作用程度下降，作用力逐渐分散。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4b2bcaad54c12290574df65d990de367ff4972424cb220ef8419a399f4320d2.jpg",
+        "img_caption": [
+            "图5空间影响因素决定力 $q$ 值",
+            "Fig.5Determinants $q$ -indexforspatial factors "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "决定力系数是对空间驱动影响的总体考察，缺少细节信息，进一步考察用地增长比例单因子分类结果发现，点要素和轴线要素因子影响符合地理学第一定律，建设用地增长比例随距离增加而衰减(表2)。除高速公路因子外，其余点轴要素建设用地比例最高为第1类。在最近范围(1类)中，分布比例最高的指标为距离城市重心的距离 $( X 1 1 , 4 9 \\% )$ ，其次为距离商业中心距离 $( X 9 )$ 和距离火车客运站距离 $( X 7 )$ 。地理类要素中，海拔因子建设用地扩张高值集中在第2类和第3类，研究区整体海拔分布在$4 9 0 { \\sim } 1 7 0 0 \\mathrm { ~ m }$ ,建设用地集中分布在 $6 0 0 { \\sim } 9 0 0 \\mathrm { ~ m }$ 左右。坡度因子呈现出坡度越低，建设用地扩张比例越高特征，较平缓的土地有利于建设用地开发。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对驱动城市建设用地扩张的12个指标进行两两交互探测(表3和表4)发现，建设用地扩张空间因子交互作用高于单因子作用。双因子交互结果全部为增强型和非线性增强型，不存在独立及减弱的关系，表明交互结果的决定力均高于原有2个因子独立决定力，更能促进建设用地的扩张。建设用地扩张由受单空间因子影响演变为多空间要素共同驱动。随着时间推移，非线性增强的个数逐渐增多，双因子交互效应对建设用地扩张的决定力逐渐增强，这也解释了前文单因子决定力下降的原因。其中，到机场距离、到高速公路距离、到铁路货运站距离、海拔和坡度5个要素与其他要素结合能达到更好的增强效果，交互作用决定力平均提升0.06以上。到铁路客运站距离、到城市商业中心距离、到城市重心距离与其他因子的交互作用逐渐增强，决定力平均提升水平逐渐增加。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表21990—2018年建设用地增长比例单因子分类结果与独立性检验",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/003769344951c6ba105ec0072d1cdf96ff6ffcded4d63b8d05478a0559593261.jpg",
+        "table_caption": [
+            "Tab.2 Single-factor classfication and independence test of the proportion of construction land expansion from 1990 to 2018 "
+        ],
+        "table_footnote": [
+            "注;#表示在单因子分类下,该两组建设用地比例无显著性差别,与其他组有显著性区别,\\*号意义与#号相同,表示不同的无差别组,未标注表示该组建设用地比例与其他类有显著性区别;点要素和轴要素1\\~5分类表示距离由小至大(按距离自然断裂点分类); $X 1 6$ 和X17的1\\~5分类表示海拔或坡度数值由低到高;所有结果在 $P { = } 0 . 0 5$ 水平上显著。"
+        ],
+        "table_body": "<html><body><table><tr><td>指标层</td><td>变量</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>到机场距离</td><td>X5</td><td>0.343</td><td>0.215</td><td>0.125</td><td>0.160</td><td>0.063</td></tr><tr><td>到火车货运站距离</td><td>X6</td><td>0.272#</td><td>0.245*</td><td>0.139</td><td>0.088*</td><td>0.110</td></tr><tr><td>到火车客运站距离</td><td>X7</td><td>0.420</td><td>0.223</td><td>0.128</td><td>0.066</td><td>0.104</td></tr><tr><td>到汽车客运站距离</td><td>X8</td><td>0.356</td><td>0.268</td><td>0.102</td><td>0.125</td><td>0.035</td></tr><tr><td>到城市商业中心距离</td><td>X9</td><td>0.449</td><td>0.275</td><td>0.111</td><td>0.068</td><td>0.076</td></tr><tr><td>到城市中心距离</td><td>X10</td><td>0.355</td><td>0.257</td><td>0.133#</td><td>0.143#</td><td>0.023</td></tr><tr><td>到城市重心距离</td><td>X11</td><td>0.490</td><td>0.289</td><td>0.135</td><td>0.082</td><td>0.043</td></tr><tr><td>到主要道路距离</td><td>X12</td><td>0.327</td><td>0.133</td><td>0.074</td><td>0.024</td><td>0.000</td></tr><tr><td>到高速公路距离</td><td>X13</td><td>0.190*</td><td>0.202#</td><td>0.228</td><td>0.114</td><td>0.013</td></tr><tr><td>到铁路距离</td><td>X14</td><td>0.312</td><td>0.197</td><td>0.093</td><td>0.023</td><td>0.000</td></tr><tr><td>海拔</td><td>X15</td><td>0.080</td><td>0.341</td><td>0.259</td><td>0.191</td><td>0.027</td></tr><tr><td>坡度</td><td>X16</td><td>0.193#</td><td>0.214#</td><td>0.099</td><td>0.039*</td><td>0.025*</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d964319563d84fe6a2b0ea7926c8d8b4239fd6ca2bf96ef9207074fb20f04fd.jpg",
+        "table_caption": [
+            "表3地理探测器双因子交互影响统计结果",
+            "Tab.3 Interactive exploration summary of geo-detector "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时段</td><td>非线性减弱</td><td>单因子非线性减弱</td><td>双因子增强</td><td>两因子独立</td><td>非线性增强</td><td>总计</td></tr><tr><td>1990—2000年</td><td>0</td><td>0</td><td>33</td><td>0</td><td>33</td><td>66</td></tr><tr><td>2000—2010年</td><td>0</td><td>0</td><td>28</td><td>0</td><td>38</td><td>66</td></tr><tr><td>2010—2018年</td><td>0</td><td>0</td><td>16</td><td>0</td><td>50</td><td>66</td></tr><tr><td>1990—2018年</td><td>0</td><td>0</td><td>33</td><td>0</td><td>33</td><td>66</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注：设交互后驱动力为 $q ( X 1 \\cap X 2 )$ ，若 $q \\left( X 1 \\cap X 2 \\right) < \\operatorname* { m i n } \\left( q \\left( X 1 \\right) , q \\left( X 2 \\right) \\right)$ ,为非线性减弱;若 $\\operatorname* { m i n } ( q ( X 1 ) , q ( X 2 ) ) { < q ( X 1 \\cap X 2 ) } < \\operatorname* { m a x } ( q ( X 1 )$ $q ( X 2 )$ ),为单因子非线性减弱；若 $q ( X 1 \\cap X 2 ) { > } \\mathrm { m a x } ( q ( X 1 ) , q ( X 2 ) )$ ,为双因子增强;若 $q ( X 1 \\cap X 2 ) { = } q ( X 1 ) + q ( X 2 )$ ,两因子独立；若 $q ( X 1 \\cap X 2 ) >$ $q ( \\mathrm { X } 1 ) { + } q ( \\mathrm { } X 2 )$ ,为非线性增强。 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表4建设用地空间驱动因素交互效应结果统计",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a0102e3faf5148c2715cafa1fc9c8a81a1c8467eeda2541a3ae8a38616c616d.jpg",
+        "table_caption": [
+            "Tab.4 Details of interaction effect of urban construction land driving forces "
+        ],
+        "table_footnote": [
+            "注：A表示与其他因子交互双因子增强个数;B表示与其他因子非线性增强个数;C表示交互作用决定力平均提升水平。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标层</td><td rowspan=\"2\">变量</td><td colspan=\"3\">1990—2018年</td><td colspan=\"3\">1990- -2000年</td><td colspan=\"3\">2000- -2010年</td><td colspan=\"3\">2010- -2018年</td></tr><tr><td>A</td><td>B</td><td>C</td><td>A</td><td>B</td><td>C</td><td>A</td><td>B</td><td>C</td><td>A</td><td>B</td><td>C</td></tr><tr><td>到机场距离</td><td>X5</td><td>2</td><td>9</td><td>0.1406</td><td>5</td><td>6</td><td>0.0721</td><td>0</td><td>11</td><td>0.0717</td><td>0</td><td>11</td><td>0.0753</td></tr><tr><td>到货运站距离</td><td>X6</td><td>2</td><td>9</td><td>0.1231</td><td>4</td><td>7</td><td>0.0656</td><td>2</td><td>9</td><td>0.0673</td><td>1</td><td>10</td><td>0.0590</td></tr><tr><td>到铁路客运站距离</td><td>X7</td><td>6</td><td>5</td><td>0.0788</td><td>7</td><td>4</td><td>0.0373</td><td>6</td><td>5</td><td>0.0456</td><td>3</td><td>8</td><td>0.0572</td></tr><tr><td>到汽车客运站距离</td><td>X8</td><td>7</td><td>4</td><td>0.0846</td><td>6</td><td>5</td><td>0.0400</td><td>6</td><td>5</td><td>0.0371</td><td>2</td><td>9</td><td>0.0550</td></tr><tr><td>到商业中心距离</td><td>X9</td><td>7</td><td>4</td><td>0.0589</td><td>9</td><td>2</td><td>0.0267</td><td>7</td><td>4</td><td>0.0312</td><td>6</td><td>5</td><td>0.0408</td></tr><tr><td>到市中心距离</td><td>X10</td><td>7</td><td>4</td><td>0.0948</td><td>6</td><td>5</td><td>0.0505</td><td>6</td><td>5</td><td>0.0472</td><td>3</td><td>8</td><td>0.0493</td></tr><tr><td>到城市重心距离</td><td>X11</td><td>8</td><td>3</td><td>0.0550</td><td>9</td><td>2</td><td>0.0263</td><td>7</td><td>4</td><td>0.0370</td><td>4</td><td>7</td><td>0.0431</td></tr><tr><td>到主要道路距离</td><td>X12</td><td>10</td><td>1</td><td>0.0763</td><td>8</td><td>3</td><td>0.0498</td><td>9</td><td>2</td><td>0.0344</td><td>2</td><td>9</td><td>0.0472</td></tr><tr><td>到高速距离</td><td>X13</td><td>3</td><td>8</td><td>0.1203</td><td>0</td><td>11</td><td>0.0708</td><td>1</td><td>10</td><td>0.0664</td><td>1</td><td>10</td><td>0.0550</td></tr><tr><td>到铁路距离</td><td>X14</td><td>9</td><td>2</td><td>0.0800</td><td>8</td><td>3</td><td>0.0522</td><td>8</td><td>3</td><td>0.0421</td><td>7</td><td>4</td><td>0.0417</td></tr><tr><td>海拔</td><td>X15</td><td>3</td><td>8</td><td>0.1141</td><td>3</td><td>8</td><td>0.0724</td><td>3</td><td>8</td><td>0.0616</td><td>3</td><td>8</td><td>0.0669</td></tr><tr><td>坡度</td><td>X16</td><td>2</td><td>9</td><td>0.1324</td><td>1</td><td>10</td><td>0.0723</td><td>1</td><td>10</td><td>0.0599</td><td>0</td><td>11</td><td>0.0532</td></tr><tr><td>合计/平均</td><td></td><td>33</td><td>33</td><td>0.0965</td><td>33</td><td>33</td><td>0.0529</td><td>28</td><td>38</td><td>0.0501</td><td>16</td><td>50</td><td>0.0536</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "城市空间扩张是城市地理学的经典问题，新时代我国城市发展内外环境明显变化，城市扩张特征和驱动机制也呈现出新的特点。本文基于遥感解译数据，在分析城市扩张特征基础上，采用定量分析方法，尝试探索城市扩张的新因素，说明城市扩张驱动机制新特点，得出如下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）乌鲁木齐建设用地由1990年的 $8 4 . 3 7 ~ \\mathrm { k m } ^ { 2 }$ 增加到2018年的 $3 6 1 . 9 1 ~ \\mathrm { k m } ^ { 2 }$ ,城市形态由南北带型演变为\"T\"字型结构，城市形态空间紧凑度逐渐下降，核心紧凑度高于全局紧凑度。城市扩展速度稳定，扩展强度逐渐加强。城市扩张的“核心-边缘”结构经历\"增强-减弱-增强\"的时空变化过程。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）城市扩张时间机制中，除传统人口经济因素外，2010年以后，政府推力对乌鲁木齐市城市扩张产生加速作用。这是区别于已有研究的一个创新点。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）空间维度来说，交通类和商业类空间要素是驱动城市空间扩张的主要因素，随着时间推移，城市扩张的空间动力由少数关键因子驱动转变为多因子共同驱动。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "城市扩张在科学研究和政府管理中作用日益突显，本文旨在梳理西部典型大城市近年来城市扩张与驱动机制新特征，为政府未来规划和宏观调控服务，但城市扩张效应如何，模式如何选择未做讨论，因此，对西部地区来说，基于系统集成的城市空间扩展模拟与资源环境效应研究应是未来重点。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在研究方法上，国内目前多采用地理探测器研究区域尺度多城市扩张机制空间差异，对单一城市内部的研究还较为少见，本文希望在这一领域有所尝试和突破。受研究范围和空间单元选择影响，地理类海拔因子影响程度大于坡度因子这一研究结论与实际认识有所差别，未来还需改进思路，避免空间单元选择的合成谬误。同时，本文未能将社会经济因子网格化，实现时空驱动模型一体化，这也是一个不足之处。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]姚士谋,陈爽.长江三角洲地区城市空间演化趋势[J].地理学 报,1998,53(增刊1):1-10.[Yao Shimou,Chen Shuang.The trend of urban spatial evolution in the Changjiang River Delta[J].Acta Geographica Sinica, 1998,53(Suppl.1): 1-10.]   \n[2]张莉,史旭敏.全国城乡人口与建设用地协调发展研究[J].城市 发展研究,2019,26(6):30-36.[Zhang Li,Shi Xumin. Study on the coordinated development of urban and rural population and construction land in China[J].Urban Development Studies,2019, 26(6): 30-36.]   \n[3]谢高地,张彪,鲁春霞,等.北京城市扩张的资源环境效应[J].资 源科学,2015,37(6):1108-1114.[Xie Gaodi,Zhang Biao,Lu Chunxia,et al.Rapid expansion of the metropolitan areas and im",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "pacts of resources and the environment[J]. Resources Science, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2015,37(6): 1108-1114.]   \n[4]王新生,刘纪远,庄大方,等.中国特大城市空间形态变化的时 空特征[J].地理学报,2005.60(3):392-400.[Wang Xinsheng, Liu Jiyuan, Zhuang Dafang,et al.2Oo5.Spatial-temporal changes of urban spatial morphology in China[J].Acta Geograpgica Sinica, 60(3): 392-400.]   \n[5]赵小风,刘梦丽,王柏源.基于地理探测器的城市建设用地规模 时空差异及影响因素分析[J].中国土地科学,2018,32(5):31- 37.[Zhao Xiaofeng,Liu Mengli,Wang Baiyuan. Spatio-temporal disparity of urban construction land and its impact factors in China based on geodetector[J]. China Land Science,2018,32(5): 31- 37.]   \n[6]王雅竹,段学军,杨清可.近30年江苏省建设用地扩张的时空 特征、模式与驱动因素研究[J].长江流域资源与环境,2019,28 (7):1531-1540.[Wang Yazhu,Duan Xuejun, Yang Qingke. Spatial-temporal characteristics and driving factors of urban construction land in Jiangsu Province in the last 3O years[J].Resources and Environment in the Yangtze Basin,2019,28(7): 1531-1540.]   \n[7]李进涛,刘彦随,杨园园,等.1985—2015年京津冀地区城市建 设用地时空演变特征及驱动因素研究[J].地理研究,2018.37 (1): 37-52.[Li Jintao,Liu Yansui, Yang Yuanyuan,et al. Spatialtemporal characteristics and driving factors of urban construction land in Beijing-Tianjin-Hebei region during 1985—2015[J]. Geographical Research,2018,37(1): 37-52.]   \n[8]卢文路,刘志锋,何春阳,等,基于Sentinel-1A合成孔径雷达数 据和全卷积网络的城市建设用地监测方法研究[J].干旱区地 理,2019,43(5):750-760.[Lu Wenlu,LiuZhifeng,HeChuang, et al.A new method for detecting urban construction land based on Sentinel-1A synthetic aperture radar data and fully convolutional network[J]. Arid Land Geography,2020,43(3): 750-760.]   \n[9]高金龙,陈江龙,袁丰,等.南京市区建设用地扩张模式、功能演 化与机理[J].地理研究,2014,33(10):1892-1907.[Gao Jinlong, Chen Jianglong,Yuan Feng,et al.Patterns,functions and underlying mechanisms of urban land expansion in Nanjing[J]. Geographical Research,2014,33(10): 1892-1907.]   \n[10] 王雪微,王士君,宋飚,等.长春市城市建设用地演进的空间识 别及影响机制研究[J].地理科学,2015,35(7):873-881.[Wang Xuewei,Wang Shijun, Song Yang, et al. Space recognition and influence mechanismof urban construction land evolution of Changchun City[J]. Scientia Geographica Sinica,2015,35(7): 873-881.]   \n[11]方创琳.天山北坡城市群可持续发展战略思路与空间布局[J]. 干旱区地理,2019,42(1): 1-11.[Fang Chuanglin. Strategic thinking and spatial layout for the sustainable development of urban agglomeration in northern slope of Tianshan Mountains[J]. Arid Land Geography,2019,42(1): 1-11.]   \n[12] 张庭伟.1990年代中国城市空间结构的变化及其动力机制[J] 城市规划,2001,25(7):7-14.[Zhang Tingwei.The urban restructuring of Chinese cities in 199Os and its dynamic mechanism[J]. City Planning Review,2001,25(7): 7-14.] [13]Wang Z W,Lu C H. Urban land expansion and its driving factors of mountain cities in China during l990—2015[J]. Journal of Geo graphical Sciences,2018,28(8): 1152-1166. [14]周润芳,周亮.中国典型边境城市空间扩张特征分析[J].测绘科 学,2019,44(9): 1-8.[Zhou Runfang, Zhou Liang. Analysis of spatial expansion characteristics of typical Chinese border cities[J]. Science of Surveying and Mapping, 2019,44(9): 1-8.] [15] 安尼瓦尔·阿布都热依木,阿里木江·卡斯木,塔世根·加帕尔, 等.基于遥感数据的伊宁市城市扩展及其驱动力分析[J].干旱 区地理,2018,41(1):109-118.[Anniwaer Abudureyimu,Alimu Kasimu,Tashigen Jiapaer, et al. Expansion of urban area and its driving forces of Yining City based on remote sense data[J].Arid Land Geography, 2018,41(1): 109-118.] [16] 陈江龙,高金龙,魏也华,等.大都市区建设用地空间扩展机理 研究———以南京市区为例[J].地理科学,2013,33(6):676-684. [Chen Jianglong,Gao Jinlong,Wei Yehua,etal. Spatial determinants of urban land expansion in large Chinese cities: A case study of Nanjing City[J]. Scientia Geographica Sinica,2013,33(6):   \n676-684.] [17]王睿,洪再生.天津市半城市化地区建设用地时空分异特征及 形成机制[J].城市发展研究,2017,24(9):153-159.[Wang Rui, Hong Zaisheng.Analysis of temporal and spatial differentiation characteristics and formation mechanism of construction land in Tianjin City[J]. Urban Development Studies,2017,24(9):153-   \n159.] [18] 高金龙,陈江龙,苏曦.中国城市扩张态势与驱动机理研究学派 综述[J].地理科学进展,2013,32(5):743-754.[Gao Jinlong, Chen Jianglong,Su Xi.Urban expansion and its driving mechanism in China: From three main shools’perspectives[J]. Progress in Geography,2013,32(5): 743-754.] [19] 陈妤凡,王开泳.撤县(市)设区对城市空间扩展的影响机理 以杭州市为例[J].地理研究,2019,38(2):31-44.[Chen Yufan, Wang Kaiyong. Influence and mechanism of“turning counties (cities)into districts”on urban space expansion: Taking Hangzhou as a case study[J]. Geographical Research,2019,38(2): 31-44.] [20] 刘雨平,张京祥.政府主导下的城市空间结构变迁解析——基 于扬州的实证研究[J].城市规划,2019(6):20-26.[Liu Yuping, Zhang Jingxiang.An analysis of government-led transformation of urban spatial structure: Based on an empirical study of Yangzhou [J]. City Planning Review,2019(6): 20-26.] [21] 陈万旭,李江风,熊锦惠,等.基于GWR的中国城市用地扩张驱 动力差异性研究[J].河南大学学报(自然科学版),2018,48(5):   \n21-29.[Chen Wanxu,Li Jiangfeng, Xiong Jinhui,etal.Differences in driving-force mechanisms in urban land expansion in China based on GWR[J]. Journal of Henan University (Natural Science Edition),2018,48(5): 21-29.] [22] 张新焕,杨德刚,陈曦.乌鲁木齐近50年城市用地动态扩展及 其机制分析[J].干旱区地理,2005,28(2):263-269.[Zhang Xinhuan,Yang Degang, Chen Xi. Study on the process and mechanism for urban land expansion in Urumqi in 5O years[J].Arid ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Land Geography,2005,28(2): 263-269.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[23]丽扎·赛里克,孜比布拉·司马义.基于RS和GIS的乌鲁木齐市 空间扩张特征与驱动力分析[J].城市发展研究,2013,20(3): 57-60.[Liza Sailike,Zibibula Simayi.Analysis of urban expansion and driving forces based onRSand GIS of Urumqi City[J].Urban Development Studies,2013,20(3):57-60.]   \n[24]龙茂乾,孟晓晨.城镇化、郊区化与中国城市空间扩张[J].地域 研究与开发,2015,34(3):53-60.[Long Maoqian,Meng Xiaochen.Urbanization,suburbanization and China's urban spatial expansion[J]. Areal Research and Development,2015,34(3):53- 60.]   \n[25] 张耀宇,陈利根,宋璐怡,等.中国城市用地扩张驱动机制的差 异性研究[J].资源科学,2016,38(1):30-40.[Zhang Yaoyu,Chen Ligen,Song Luyi,et al. Differences in driving-force mechanisms in urban land expansion in China[J]. Resources Science,2016,38 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1): 30-40.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26]谭少华,黄缘罡,刘剑锋.我国政策过程与城市用地增长的周期 关系研究[J].城市发展研究,2014,21(4):24-32.[Tan Shaohua, Huang Yuangang,Liu Jianfeng. Study on the mechanism between urban land use growth and policy in China[J]. Urban Development Studies,2014,21(4): 24-32.]   \n[27]王健,汪应宏,彭山桂.中国城市用地扩张的诱因[J].城市问题, 2016(1): 7-16.[Wang Jian,Wang Yinghong,Peng Shangui. Incentives for urban land expansion in China[J]. Urban Problems,2016 (1): 7-16.]   \n[28]Batty M. Exploring isovist fields: Space and shape in architectural and urban morphology[J]. Environment and Planning B: Urban Analytics and City Science,2001,28(1): 123-150.   \n[29]Wang JF,Zhang TL,Fu BJ.A measure of spatial stratified heterogeneity[J]. Ecological Indicators,2016,67: 250-256. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Urban expansion and its temporal and spatial driving forces of Urumqi based on geo-detector method ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SHI Tiange¹²， SHI Hui' (1.Xinjiang University of Finance and Economics, Urumqi 83oo12,Xinjiang,China; 2. Xinjiang Institute of Ecology and Geography,CAS, Urumqi 83oO11,Xinjiang,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Urban spatial expansion is a classic topic for urban geography, playing an increasingly important role in scientific research and government management.As the internal and external development environments of China'surban areas have changed significantly in the new era,urban expansion and its driving mechanism were also shifted by new factors.This paper, taking Urumqi (acity in northwest China) as an example,described the characteristics of urban construction land expansion and expounded on the spatiotemporal expansion mechanism using the Geodetector method.The results are as follows: (1) Over the past 30 years,the construction land area in Urumqi increased from 84.37 to $3 6 1 . 9 1 ~ \\mathrm { k m } ^ { 2 }$ . We constructed an urban space compactness index to reflect the rationality of the urban spatial boundary shape.The urban space compactness index gradually decreased over the past 30 years.This indicated that the spatial distribution is more reasonable and more efficient in the proces of urban expansion. The urban expansion speed rate is $5 . 3 4 \\%$ ,and the urban expansion intensity rate increased from $3 . 5 7 \\%$ to $8 . 7 9 \\%$ . Urban expansion had a “core-periphery” structure,and its core agglomeration extent changed in different periods.(2) Urban expansion is mainly influenced by three factors: population scale,economic scale, and government policy. Population and economic agglomeration have the greatest efect on urban expansion. In economic terms,the secondary sector ofthe urban economy plays a slightly larger role than that of the tertiary sector on urban expansion. After 2010, new government policies accelerated urban expansion in Urumqi. (3）Transportation and commercial locations were the main spatial driving factors of urban expansion.The effects of single spatial driving factors gradually weakened, whereas the interactive effects of double spatial driving factors gradually strengthened over time.In the future,comprehensive simulations of urban expansion and resource and environmental effects should be further studied for the cities in western China. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: urban expansion; construction land; temporal and spatial driving forces; geo-detector; Urumqi ",
+        "page_idx": 9
+    }
+]

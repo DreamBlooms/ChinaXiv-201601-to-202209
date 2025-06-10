@@ -1,0 +1,158 @@
+# 祁连山南坡不同土地利用方式下土壤碳氮含量及通径分析
+
+刁二龙1.2.3，曹广超23，曹生奎1.2.3，袁杰1,2.3，虞敏2.3， 陈真123，张卓123，童珊123，赵美亮1.2,3
+
+(1.青海师范大学 地理科学学院,青海 西宁81008；2.青藏高原地表过程与生态保育教育部重点实验室，青海 西宁810008；3.青海省自然地理与环境过程重点实验室，青海 西宁810008)
+
+摘要：以祁连山南坡4种土地利用类型为研究对象,采用野外采样、实验室分析与单因素方差分析方法对不同土地利用方式下浅层( $\mathrm { 0 { \sim } 2 0 ~ c m }$ 和深层（ $2 0 { \sim } 5 0 ~ \mathrm { c m } ,$ 土壤TC(全碳）TN(全氮)含量及差异显著性进行分析，使用通径分析方法揭示环境因子对土壤TC、TN的直接和间接作用效应。结果表明：(1)环境因子间相互作用,共同影响土壤碳氮含量。直接作用效应：土壤碳氮相互作用显著， $\mathrm { \ p H }$ 对土壤碳氮含量直接作用较小。间接作用效应：土壤含水量(SWC)主要通过TN对浅层土壤TC含量起间接正效应，而pH通过TN对深层土壤TC含量起间接负效应。温度(T)主要通过降水(P)对浅层土壤TN含量起间接负效应，而容重 $\left( \mathrm { P _ { b } } \right)$ 通过TC对深层土壤TN含量起间接负效应。(2）土壤碳氮含量具有明显的"表聚作用”。随土层深度的增加，土壤碳氮含量呈减少趋势。林地土壤碳氮含量最高，显著高于草地和耕地( $\scriptstyle \left. P < 0 . 0 5 \right)$ ，但与灌丛差异不显著( $( P { > } 0 . 0 5 )$ ,研究区土壤氮含量较高，可为研究区植被生长提供较为充足的氮素养分元素。(3）土壤碳氮含量受自然环境和人类活动综合影响。
+
+关键词：祁连山南坡；土地利用方式；土壤全碳；土壤全氮；通径分析
+
+土壤作为陆地生态系统重要的组成部分，为植被生长提供必需的养分元素，土壤碳是植物、土壤动物、微生物的主要碳源，氮素是组成氨基酸的主要元素，植物氮素主要从土壤中吸收得到[1-2]。土壤亦是全球重要的碳库和氮库，受自然或人为干扰的影响，其任何微小变化都可能引起大气中 $\mathrm { C O } _ { 2 } , \mathrm { C H } _ { 4 }$ 及含氮温室气体浓度的改变，从而影响着全球气候系统的变化、降水格局分布的改变以及人类的生存环境[3-5]。土壤碳氮含量受气候、地形、土壤理化性质等自然条件以及土地利用、耕作管理等人类活动综合作用的影响[6-7],并存在各种因子间的相互作用[8],在全球变化背景下，在区域尺度上研究和揭示影响土壤碳氮含量的主要控制因子，对于评估未来气候变化对土壤碳氮的影响，合理利用和管理土地资源，制定应对气候变化的区域策略和措施等具有重
+
+要的理论与实践意义[9
+
+虽然已有学者对祁连山土壤碳氮磷生态化学计量特征进行了研究[10-1],但采用的研究方法多为简单相关、多元回归分析。简单相关分析不能全面反映变量间的相互关系，其结果带有一定的片面性，多元回归分析虽然在一定程度上能够消除变量间的多重共线性，但由于偏回归系数带有单位，使各自变量对因变量的效应不能直接进行比较。而通径分析在多元回归的基础上将相关系数分解为直接通径系数和间接通径系数，其经过标准化后去掉了单位可以相互比较，从而可以反映各自变量对因变量的影响程度和相对重要性[12]
+
+祁连山是我国西部重要的生态安全屏障和生物多样性保护区域，祁连山阻断了腾格里沙漠、巴丹吉林沙漠、库姆塔格沙漠、柴达木戈壁等沙漠的南侵和汇合，阻挡干热风暴直扑“中华水塔”三江源，维系了西部地区脆弱的生态平衡和经济社会可持续发展，在涵养水源、保育土壤、固碳释氧等方面发挥着重要的作用。祁连山地形复杂，气候变化明显，土壤和植被类型多样，影响土壤碳氮含量的环境因子具有较强的变异性。本研究选择在具有重要生态功能的祁连山南坡，采用野外采样、实验室分析、单因素方差分析和通径分析等数理统计分析相结合的方法，探讨影响区域碳氮含量的主要环境因子，以期为该区域植被管理和生态保护提供科学依据。
+
+# 1数据与方法
+
+# 1.1 研究区概况
+
+祁连山南坡地处青海省东北部(图1)，行政区划主要包括海北藏族自治州祁连县与门源回族自治县的大部分地区，以及海北藏族自治州刚察县、海晏县和海西蒙古族藏族自治州天峻县的部分地区，地理位置 $9 8 ^ { \circ } 0 8 ^ { \prime } 1 3 ^ { \prime \prime } { \sim } 1 0 2 ^ { \circ } 3 8 ^ { \prime } 1 6 ^ { \prime \prime } \mathrm { E } , 3 7 ^ { \circ } 0 3 ^ { \prime } \$ ）$3 9 ^ { \circ } 0 5 ^ { \prime } 5 6 ^ { \prime \prime } \mathrm { N }$ ,平均海拔 $3 8 0 0 \mathrm { ~ m ~ }$ ，总面积约 $2 . 4 \times 1 0 ^ { 4 }$ $ { \mathrm { k m } } ^ { 2 }$ 。该区气候属高原大陆性气候，年均温约$- 5 . 9 \mathrm { ~ \textdegree C }$ ,年降水量在 $3 0 0 { \sim } 4 0 0 ~ \mathrm { m m } ^ { [ 1 3 ] }$ 。地形复杂,以山地为主，地势西北高东南低。受气候和地形影响，研究区土壤和植被垂直分异明显，土壤类型包括山地森林土、灰褐土、栗钙土、黑钙土、高山草原土、草甸土、寒漠土。森林以寒温性针叶林为主，主要林地类型包括以青海云杉(Piceacrassifolia)为主要建群种的针叶林、由青海云杉(Piceacrassifolia）、祁连圆柏(Sabina przewalskii)组成的针叶混交林、祁连圆柏疏林（Sabina przewalskii）、山杨(Populus da-vidiana）、红桦（Betulaplatyphylla）、白桦（Whitebirch)组成的阔叶林以及针阔混交林;灌丛类型主要有金露梅(Potentilla fruticosa）、山生柳（Willow）及箭叶锦鸡儿(Caragana jubata)等;草本植物主要有禾本科（Gramineae）、蒿草(Artemisia）、苔草(Carex）、马先蒿(Artemisia sphaerocephala)等[14],耕地主要有青棵、马铃薯。
+
+# 1.2样品采集与测定
+
+根据研究区地形、地貌、海拔与土地利用现状，结合野外调查，于2018年8月对研究区林地、灌丛、草地、耕地4种土地利用方式下的土壤样品进行采集。用奥维互动地图获取每个采样点的地理坐标与海拔信息。每种土地利用方式下设置 $2 0 \mathrm { m } { \times } 2 0 \mathrm { m }$ 标准样地，每个样地按照S型布点方式布设3个$1 \mathrm { m } { \times } 1 \mathrm { m }$ 标准样方，用直径为 $5 \mathrm { c m }$ 的土钻自上而下每隔 $1 0 \ \mathrm { c m }$ 逐层采集土样,3个样点混合为一个土壤样品，去除植物根系和残渣后装人贴有标签的自封袋称重，采样深度为 $5 0 ~ \mathrm { c m }$ ，共采集土壤样品260件。将土样带回实验室置于通风、阴凉、干燥的室内风干，过筛研磨测定相关指标。土壤含水量采用烘干法测定，容重采用环刀法测定， $\mathrm { \ p H }$ 采用浸提电位法(水：土 $= 2 . 5 { : } 1 . 0 \rangle$ 测定[15]。土壤粒径采用Master-sizer2000型激光粒度仪测定。土壤碳氮含量采用德国Elementar公司生产的varioISOTOPEcube元素
+
+![](images/f9c00b5b3c6852de346fb77f5de8e0453bc184c54e342ef72f68922505126fc3.jpg)  
+图1研究区位置及采样点示意图  
+Fig.1Location of the study area and distribution of the sampling sites
+
+分析仪测定。
+
+# 1.3数据来源与处理
+
+气象数据来源于中国气象数据共享网(http://cdc.cma.gov.cn）,使用专业气象插值软件Anusplin对研究区内及周边地区16个气象站点的生长季平均温度和降水量进行插值，植被指数产品来自于Ter-ra/MODIS卫星数据(https://ladsweb.nascom.nasa.gov/）,内含归一化植被指数(NDVI)，利用ArcGIS软件中的"多值对点提取"工具，根据采样点的经纬度提取相应的气温、降水数据和NDVI值。
+
+数据处理和统计分析在Excel2010和SPSS20软件中完成。采用逐步回归分析方法建立环境因子对土壤TC(全碳)和TN(全氮)含量的多元回归方程，选择的环境因子有气温(T)、降水(P)、海拔(Elv）坡度(Slp）、土壤容重( $\left( \mathrm { P _ { b } } \right)$ 、土壤含水量(SWC）、pH、归一化植被指数（NDVI）、黏粒(Clay）、粉粒(Silt）砂粒(Sand)，根据回归分析结果对通过显著性检验的因子进行通径分析，比较各因子对TC和TN含量的影响程度和相对重要性。采用单因素方差分析(One-wayANOVA)的Duncan法进行差异显著性检验，用Pearson进行简单相关性分析，作图使用Origin软件。所有实验数据以平均值±标准差表示。
+
+# 2结果与分析
+
+# 2.1不同土地利用方式下土壤TC和TN含量及差异显著性分析
+
+对单个剖面的土壤碳氮含量以分层厚度作为权重来计算，可减少土壤碳氮在不同深度上的差异造成的估算误差[16]。本研究浅层土壤碳氮含量是$0 { \sim } 2 0 ~ \mathrm { c m }$ 的加权平均值，深层土壤碳氮含量是 $2 0 \sim$ $5 0 \mathrm { c m }$ 的加权平均值。由表1可知，4种土地利用类型中，浅层土壤TC与TN含量差异大于深层。0\~20cm林地和耕地的土壤TC、TN含量差异最大，分别为$4 5 . 1 5 ~ \mathrm { g \cdot k g ^ { 1 } }$ 和 $2 . 9 4 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ $2 0 { \sim } 5 0 ~ \mathrm { c m }$ 林地和草地的土壤TC、TN含量差异最大，分别为 $2 9 . 6 4 ~ \mathrm { g \cdot k g ^ { - 1 } }$ 和1.61$\mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 }$ ,浅层土壤的TC与TN含量约为深层土壤的1.5倍。林地浅层和深层土壤TC和TN含量最高，显著高于草地和耕地( $P { < } 0 . 0 5 )$ ，但与灌丛差异不显著中 $( P { > } 0 . 0 5 )$ 。随土层深度增加，4种土地利用类型下的土壤TC、TN含量均呈减少趋势。其中，草地浅层和深层土壤TC和TN含量减少最大，深层土壤TC和TN 含量较浅层土壤分别减少了 $4 4 . 7 6 \%$ 和 $4 6 . 0 1 \%$ ·耕地浅层和深层土壤TC和TN差异较小，深层较浅层土壤分别减少了 $5 . 1 1 \%$ 和 $3 . 3 4 \%$ 。不同土层即 $0 \sim$ $2 0 \ \mathrm { c m }$ 和 $2 0 { \sim } 5 0 ~ \mathrm { c m }$ ,除耕地外，其余3种土地利用方式下浅层土壤TC和TN含量均显著高于深层土壤$( P { < } 0 . 0 5 )$ 。总体来看，浅层土壤TC和TN含量表现为：林地 $>$ 灌丛 $>$ 草地 $>$ 耕地，深层土壤TC和TN含量与浅层土壤相比略有不同，表现为：林地 $>$ 灌丛 $>$ 耕地 $>$ 草地。根据全国土壤氮素含量分级标椎，TN含量大于 $2 \mathrm { g } \bullet \mathrm { k g } ^ { - 1 }$ 为极好状态[17],表明研究区土壤氮含量较高。
+
+# 2.2不同土地利用方式下土壤TC和TN与环境因子的逐步回归分析
+
+通过逐步回归分析建立环境因子与浅层和深层土壤TC和TN含量的多元回归方程： $0 { \sim } 2 0 ~ \mathrm { c m }$ ，$\mathrm { T C = 7 0 . 3 3 + 9 . 1 5 T N - 8 . 1 4 p H + 0 . 2 6 S W C }$ ， $\mathrm { T N } { = } { - } 1 6 . 3 3 +$ $0 . 0 7 \mathrm { T C } + 0 . 0 8 \mathrm { P } + 0 . 5 1 \mathrm { T } + 0 . 3 6 \mathrm { p H } ; 2 0 \mathrm { - } 5 0 \mathrm { c m } , \mathrm { T C }$ $\mathrm { T C = } 8 4 . 0 9 +$ $9 . 6 9 \mathrm { T N - 9 . 5 0 p H ; T N = - 0 . 9 1 + 0 . 0 6 \mathrm { T C - 1 . 4 7 P _ { b } + 0 . 0 2 S l p + } }$ $0 . 4 3 \mathrm { { p H } }$ 。由回归方程可知， $\mathrm { T N } \setminus \mathrm { p H }$ 和SWC对0\~20cm土壤TC含量影响显著( $( P { < } 0 . 0 5 )$ ，而TN和 $\mathrm { \ p H }$ 对$2 0 { \sim } 5 0 ~ \mathrm { c m }$ 土壤TC含量影响显著( $( P { < } 0 . 0 5 )$ ;TC、P、T和 $\mathrm { \ p H }$ 对 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土壤TN含量影响显著 $( P { < } 0 . 0 5 )$ ，而TC ${ \mathrm { . P _ { b } . } } { \mathrm { S l p } }$ 和 $\mathrm { \ p H }$ 对 $2 0 { \sim } 5 0 ~ \mathrm { c m }$ 土壤TN含量影响显著 $( P { < } 0 . 0 5 )$ 。除此之外的其他环境因子影响不显著1 $P { > } 0 . 0 5 )$ 在逐步回归中被剔除。由于环境因子间存在较强的相关性(图2)，在进行回归分析时可能存在共线性现象，本文使用方差膨胀因子(VIF)和容差(Tol)进行多重共线性诊断。当 $\mathrm { V I F } { > } 1 0$ 且 $\mathrm { T o l } { < } 0 . 1$ 时，表明自变量间存在严重的多重共线关系。表2结果显示， $\mathrm { V I F } { < } 1 0$ 且 $\mathrm { T o l } { > } 0 . 1$ ，所以环境因子间不存在多重共线性问题。
+
+表1不同土地利用方式下表层与深层土壤TC和TN含量  
+Tab.1 Contents of total carbon and nitrogen in surface and deep soil under different land use patte   
+
+<html><body><table><tr><td></td><td>土层深度/cm</td><td>林地/(g·kg=)</td><td>灌丛/(g·kg1)</td><td>草地/(g·kg)</td><td>耕地/(g·kg-1)</td></tr><tr><td>TC</td><td>0~20</td><td>82.56±20.99Ab</td><td>74.18±10.82Ab</td><td>62.92±10.70b</td><td>37.41±7.41Ca</td></tr><tr><td></td><td>20~50</td><td>64.40±13.36Aa</td><td>50.38±16.88Ba</td><td>34.76±12.35Ca</td><td>35.5±10.56Ca</td></tr><tr><td>TN</td><td>0~20</td><td>6.23±1.35Ab</td><td>5.95±1.12Ab</td><td>5.39±1.27Bb</td><td>3.29±1.05Ca</td></tr><tr><td></td><td>20~50</td><td>4.52±1.29A*</td><td>4.21±1.67Aa</td><td>2.91±1.30Ba</td><td>3.18±0.77Ba</td></tr></table></body></html>
+
+注：小写字母表示同一类型不同深度的差异,大写字母表示同一深度不同类型间的差异,不同字母代表差异显著（ $\scriptstyle \cdot < 0 . 0 5$ 。
+
+# 2.3环境因子对土壤TC和TN含量影响的通径分析
+
+逐步回归分析不能直观地体现各环境因子对土壤碳氮含量的贡献大小，而通过标准化回归系数的方法计算通径系数，并将相关系数分解为直接通径系数与间接通径系数的代数和，能较直观地反映各环境因子对土壤碳氮含量的影响作用[9]。对影响TC和TN含量的显著性环境因子分别进行通径分析，通径系数计算参照文献[18」，结果见表3和表4。
+
+(a) 0\~20 cm 1.0 (b)20\~50 cm 1.0TC 1 TC 1TN 0.85 1 0.8 TN 0.821 0.8Elv 0.110.19 0.6 Elv 0.31-0.26 1 -0.6Slp 0.0620.170.271 Slp 0.120.160.2510.4 0.4  
+NDVI 0.090.081-0.250.034 1 NDVI 0.34 0.37 0.140.06 1T 0.092-0.18-0.93-0.260.23 1 0.2 T 0.220.16 0.91-0.280.11 1 0.2P 0.120.260.87 0.3 -0.26-0.96 1 -0 P -0.18-0.0880.86 0.3 -0.14-0.97 1 0Pb 0.58-005700460349 -0.2 Pb 0.570670260036 1 -0.2pH 0.33-0.15 -0.150.2 0.16-0.11-0.130.130.058 1 pH 0.27-0.0810.210.032-0.21-0.150.120.0281  
+Sand 0.24-0.220.25 0.17 -0.58 -0.240.21 0.480.14 1 -0.4 Sand 0.440.510.330.041-0.520.25 0.2 0.610.21 1 -0.4Silt 0.23 0.210.26-0.19 0.57 0.260.230.47 -0.13 -1 1 -0.6 Silt 0.44 0.5 -0.33-0.0510.52 0.26 -0.21-0.62-0.18 -1 1 -0.6Clay 0.23 0.25-0.072 0.039 0.490.0640.02 0.38-0.18 -0.75 0.7 1 -0.8 Clay 0.37 0.4 0.180.052 0.44 0.14-0.079-0.380.39-0.74 0.68 1 -0.8  
+SWC 0.48 0.40.18-0.140.078-0.160.16 -0.63 -0.026-0.310.320.16 1 -1.0 SWC 0.290.30.096-0.020.22-0.110.14 -0.42-0.1-0.32 0.330.13 1 -1.0TW山 SnIP PH 阳 复 TWB S TP P H Cela SMS
+
+注：红色表示正相关，蓝色表示负相关，颜色越深相关系数绝对值越大。
+
+Fig.2 Correlation analysis of soil carbon, nitrogen and environmental factors in surface and deep soil
+
+表2浅层和深层土壤TC和TN回归系数输出结果  
+Tab.2 The output result of regression coefficient of TC and TN in surface and deep soil   
+
+<html><body><table><tr><td rowspan="2">土层深度/cm</td><td rowspan="2">元素</td><td rowspan="2">模型</td><td colspan="2">非标准化系数</td><td>标准化系数</td><td rowspan="2">t</td><td rowspan="2">P</td><td colspan="2">共线性统计</td></tr><tr><td>B</td><td>Std</td><td>Beta</td><td>Tol</td><td>VIF</td></tr><tr><td>0~20</td><td>TC</td><td>（常量）</td><td>70.33</td><td>15.56</td><td></td><td>4.52</td><td>0.00</td><td></td><td></td></tr><tr><td rowspan="10"></td><td></td><td>TN</td><td>9.15</td><td>0.67</td><td>0.75</td><td>13.62</td><td>0.00</td><td>0.82</td><td>1.22</td></tr><tr><td></td><td>pH</td><td>-8.14</td><td>1.95</td><td>-0.21</td><td>-4.18</td><td>0.00</td><td>0.98</td><td>1.02</td></tr><tr><td></td><td>SWC</td><td>0.26</td><td>0.08</td><td>0.18</td><td>3.31</td><td>0.00</td><td>0.84</td><td>1.19</td></tr><tr><td>TN</td><td>（常量）</td><td>-16.33</td><td>3.93</td><td></td><td>-4.16</td><td>0.00</td><td></td><td></td></tr><tr><td></td><td>TC</td><td>0.07</td><td>0.01</td><td>0.85</td><td>15.79</td><td>0.00</td><td>0.86</td><td>1.16</td></tr><tr><td></td><td>P</td><td>0.08</td><td>0.02</td><td>0.74</td><td>4.09</td><td>0.00</td><td>0.74</td><td>1.35</td></tr><tr><td></td><td>T</td><td>0.51</td><td>0.15</td><td>0.62</td><td>3.44</td><td>0.00</td><td>0.74</td><td>1.35</td></tr><tr><td></td><td>pH</td><td>0.36</td><td>0.17</td><td>0.11</td><td>2.09</td><td>0.04</td><td>0.86</td><td>1.16</td></tr><tr><td></td><td>（常量）</td><td>84.09</td><td>16.60</td><td></td><td>5.07</td><td>0.00</td><td></td><td></td></tr><tr><td></td><td>TN</td><td>9.69</td><td>0.57</td><td>0.81</td><td>17.03</td><td>0.00</td><td>0.99</td><td>1.01</td></tr><tr><td rowspan="5"></td><td></td><td>pH</td><td>-9.50</td><td>2.10</td><td>-0.22</td><td>-4.53</td><td>0.00</td><td>0.99</td><td>1.01</td></tr><tr><td>TN</td><td>（常量）</td><td>-0.91</td><td>1.56</td><td></td><td>-0.58</td><td>0.00</td><td></td><td></td></tr><tr><td></td><td>TC</td><td>0.06</td><td>0.06</td><td>0.68</td><td>11.76</td><td>0.00</td><td>0.59</td><td>1.69</td></tr><tr><td>P</td><td></td><td>-1.47</td><td>0.29</td><td>-0.28</td><td>-5.07</td><td>0.00</td><td>0.64</td><td>1.56</td></tr><tr><td>Slp</td><td></td><td>0.02</td><td>0.01</td><td>0.11</td><td>2.48</td><td>0.02</td><td>0.94</td><td>1.06</td></tr><tr><td></td><td></td><td>pH</td><td>0.43</td><td>0.18</td><td>0.12</td><td>2.44</td><td>0.02</td><td>0.89</td><td>1.12</td></tr></table></body></html>
+
+注：B代表回归系数;Std为标准差;t是对回归系数的显著性检验； $P$ 为0.05的显著性水平。
+
+Tab.3Decomposition of simple correlation coefficientbetweensurfaceand deep soilTCand environmental variab   
+表4浅层和深层土壤TN与环境变量的简单相关系数分解  
+
+<html><body><table><tr><td rowspan="2">土层深度/cm</td><td rowspan="2">自变量</td><td rowspan="2">与TC的相关系数</td><td rowspan="2">直接通径系数</td><td colspan="4">间接通径系数</td></tr><tr><td>TN</td><td>pH</td><td>SWC</td><td>合计</td></tr><tr><td>0~20</td><td>TN</td><td>0.85</td><td>0.75</td><td>1</td><td>0.03</td><td>0.07</td><td>0.10</td></tr><tr><td rowspan="4">20~50</td><td>pH</td><td>-0.33</td><td>-0.21</td><td>-0.12</td><td>1</td><td>0</td><td>-0.12</td></tr><tr><td>SWC</td><td>0.48</td><td>0.18</td><td>0.30</td><td>0</td><td>一</td><td>0.30</td></tr><tr><td>TN</td><td>0.82</td><td>0.81</td><td>1</td><td>0.01</td><td>1</td><td>0.01</td></tr><tr><td>pH</td><td>-0.26</td><td>-0.22</td><td>-0.04</td><td>1</td><td>二</td><td>-0.04</td></tr></table></body></html>
+
+表3浅层和深层土壤TC与环境变量的简单相关系数分解  
+Tab.4Decompositionofsimplecorrelationcoeficientbetweensurface and deepsoilTNand environmentalvariables   
+
+<html><body><table><tr><td rowspan="2">土层深度/cm</td><td rowspan="2">自变量</td><td rowspan="2">与TN的 相关系数</td><td rowspan="2">直接通径系数</td><td colspan="5">间接通径系数</td></tr><tr><td>TC</td><td>P</td><td>T</td><td>pH</td><td>合计</td></tr><tr><td>0~20</td><td>TC</td><td>0.85</td><td>0.85</td><td>TC</td><td>Pb</td><td>Slp</td><td>pH</td><td></td></tr><tr><td rowspan="6"></td><td>P</td><td>0.26</td><td>0.74</td><td>1 0.10</td><td>0.09</td><td>-0.05 -0.59</td><td>-0.04 0.01</td><td>0 -0.48</td></tr><tr><td>T</td><td>-0.18</td><td>0.62</td><td>-0.08</td><td>1 -0.71</td><td></td><td>-0.01</td><td>-0.80</td></tr><tr><td>pH</td><td>-0.15</td><td>0.11</td><td>-0.28</td><td>0.10</td><td>1 -0.08</td><td></td><td>-0.26</td></tr><tr><td>TC</td><td>0.82</td><td>0.68</td><td>1</td><td>0.16</td><td>0.01</td><td>1 -0.03</td><td>0.14</td></tr><tr><td>Pb</td><td>-0.65</td><td>-0.28</td><td>-0.38</td><td>1</td><td>0.01</td><td>0</td><td>-0.37</td></tr><tr><td>Slp</td><td>0.16</td><td>0.11</td><td>0.08</td><td>-0.03</td><td>1</td><td>0</td><td>0.05</td></tr><tr><td></td><td>pH</td><td>-0.06</td><td>0.12</td><td>-0.18</td><td>0</td><td>0</td><td>二</td><td>-0.18</td></tr></table></body></html>
+
+2.3.1 环境因子对TC含量影响的通径分析由表3可知，在影响浅层和深层土壤TC含量的显著性环境因子中，土壤TN的直接通径系数最大，说明土壤TN对TC含量的直接作用最大，且表现为正效应;pH对土壤TC含量直接作用较小，且表现为负效应。与浅层土壤TC含量间接通径系数最大的环境因子是SWC,表明SWC对浅层土壤TC含量的间接作用最大，主要通过TN对土壤TC含量起间接正效应，其次是pH,TN的间接作用最小；与深层土壤TC含量间接通径系数最大环境因子是pH,主要通过TN对土壤TC含量起间接负效应。 $\mathrm { T N } \setminus \mathrm { \Omega }$ 的直接通径系数均大于其间接通径系数，表明两者对TC含量的主要贡献均表现为直接作用效应；而SWC的间接通径系数大于其直接通径系数，表明SWC对TC含量的主要贡献表现为通过影响其他因子而对TC产生间接作用效应。
+
+2.3.2 环境因子对TN含量影响的通径分析由表4可知，影响浅层土壤TN含量的显著性环境因子中，TC、P和T的直接作用较大，直接通径系数均在0.6以上，且表现为正效应，pH对浅层土壤TN的直接作用最小。影响深层土壤TN含量的显著性环境因子中,TC直接作用较大，且表现为正效应;Slp和pH对深层土壤TN的直接作用较小。各环境因子中，与浅层土壤TN间接通径系数最大的是T,表明T对浅层土壤TN含量的间接作用最大，主要通过P对土壤TN含量起间接负效应，其次是P，主要通过T对土壤TN含量起间接负效应，表明土壤TN受气温和降水共同作用；TC对土壤TN的间接作用最小。各环境因子与深层土壤TN间接通径系数最大的是 $\mathrm { P _ { b } }$ ,主要通过TC对土壤TN含量起间接负效应;其次是 $\mathrm { \ p H }$ 和TC,Slp的间接作用最小。 $\mathrm { T C } \cdot \mathrm { p H } \cdot \mathrm { S l p } \cdot \mathrm { P }$ 和T的直接通径系数均大于其间接通径系数，表明这些环境因子对TN含量的主要贡献均表现为直接作用效应；而P的间接通径系数大于其直接通径系数，表明 $\mathrm { P _ { b } }$ 对TN含量的主要贡献表现为通过影响其他因子而对TN产生间接作用效应。
+
+# 3讨论
+
+# 3.1土地利用方式对土壤碳氮含量的影响
+
+本研究结果显示，研究区林地和灌丛土壤TC含量较高，草地和耕地TC含量较低，究其原因可能与气候条件、植被类型、调落物现存量、植被根系分布、人类扰动和土壤经营实践有关[9]。地表枯落物是土壤有机碳最重要来源之一[20],相比灌丛、草地和耕地，林地地表枯落物较多且林地分布海拔较高，随着海拔的增加气温逐渐降低而降水在一定高度范围内增加,低温潮湿的环境使得凋落物不易分解，土壤有机质矿化分解慢积累较多[21]。此外，林地根系较深、林下枯落物较多且林地受人为扰动小,使得土壤有机质积累多分解少。耕地碳含量较少是因为耕地受翻耕等人类经营活动影响强烈，且耕地采用传统的农田管理措施和单一的作物生产模式，土壤有机质组分流失严重，进而影响了土壤有机质的积累和有机碳的存储22。不同土地利用方式下土壤碳含量的差异也与根系的生长发育和分布有关,根系是将作物光合产物直接输入到地下的唯一途径23，大量死根的腐解可为土壤提供丰富的碳源[24],林地和灌丛的根系较草地和耕地深，导致林地和灌丛土壤碳含量高于草地和耕地。通过对祁连山南坡不同土地利用方式下表层土壤和深层土壤碳氮含量研究发现，土壤碳氮含量均表现为表层大于深层，土壤碳氮含量具有明显的“表聚作用”，这与牛赞等[2]对祁连山青海云杉林浅层土壤碳含量特征研究一致，这主要是由于地上枯枝落叶和地下植物根系分解所形成的有机碳首先进入土壤表层,使得表层土壤碳含量显著高于深层土壤,此外随土层加深土壤中的植物根系变少，腐殖质含量较表层明显减少，故土壤碳含量随土层深度增加呈减少趋势[25]。不同土地利用方式下土壤氮含量表层大于深层，主要原因可能是土壤氮含量受降雨、动植物残体、枯枝落叶和植物根系、微生物分解作用等因素的影响,地表枯枝落叶与地下植物根系分解形成的养分元素首先进入土壤表层，使得表层土壤TN含量高于深层土壤[26]。
+
+# 3.2环境因子对土壤碳氮含量的影响
+
+土壤碳氮间有高度的协同关系[27]，本研究中表层与深层土壤碳、氮呈正相关，这与张少凤[28]、黄郡[29]等研究结果一致。这是因为当植物残体进入土壤后随分解过程的进行，碳变成 $\mathrm { C O } _ { 2 }$ ，而氮变成硝酸盐淋失或被植物吸收，土壤中的C:N将变得大致相同，当达到相对平衡时，土壤氮含量大致决定了碳含量[30]。本研究结果显示,SWC、气温、降水 $\cdot \mathrm { p H }$ 和容重是影响土壤碳氮的重要因子。SWC是影响表层土壤TC的重要因子，SWC与表层土壤TC呈正相关性，这是因为SWC会影响植被生长状况进而影响微生物分解碳的速率，最终会影响土壤碳含量，SWC高，土壤中的动植物残体分解速度慢，碳含量较高[3i]。气温和降水是影响表层土壤TN的重要因子，气温与表层土壤TN呈负相关，降水与表层土壤TN呈正相关，气温主要通过控制土壤呼吸通量、植物根系生长、土壤动物活动、土壤微生物活性以及土壤养分的分解速率，间接影响土壤TN含量，温度的升高在一定程度上会促进植物吸收 ${ \mathrm { N } } _ { 2 } { \mathrm { O } }$ ,增加碳输入，促进氮沉降和氮矿化，降水能够有效的改善表层土壤中植物根系和土壤微生物的水分环境，土壤水分通过影响植物根系生长、微生物活动、土壤孔隙度和气体扩散，调节土壤呼吸强度，降水量的增加在一定程度上有利于土壤氮素的储存和积累[32]。$\mathrm { \ p H }$ 与表层和深层土壤碳氮均呈负相关性，这是因为$\mathrm { \ p H }$ 通过影响土壤微生物的活动而显著影响着土壤对碳氮的固定和累积能力[33]。土壤微生物一般最适宜的 $\mathrm { \ p H }$ 是 $6 . 5 \sim 7 . 5$ 之间的中性范围,过酸或过碱都严重地抑制土壤微生物的活动，从而影响氮素及其他养分的转化和供应。土壤容重是影响深层土壤TN的重要因子，土壤容重与深层TN呈负相关性，这与苗娟等[34]的研究结果一致，这是由于土壤容重通过影响SWC、通气性和水热状况来影响土壤微生物活性和土壤养分的物质循环，进而对土壤TN产生影响。
+
+# 4结论
+
+本研究以祁连山南坡为研究区域，对研究区4种不同土地利用方式下的土壤碳氮含量及其与环境因子的关系进行了研究，主要结论如下：
+
+(1）环境因子间存在明显的相互作用，共同影响土壤碳氮含量。TN对不同深度土壤TC含量的直接作用最大，而pH和SWC的直接作用较小。SWC主要通过TN对浅层土壤TC含量起间接正效应，而$\mathrm { \ p H }$ 主要通过TN对深层土壤TC含量起间接负效应。TC对不同深度土壤TN含量的直接作用最大，而pH的直接作用较小。T主要通过P对土壤TN含量起间接负效应， $\mathrm { P _ { b } }$ 主要通过TC对土壤TN含量起间接负效应。
+
+(2）土壤碳氮含量具有明显的"表聚作用”。随土层深度的增加土壤TC、TN含量呈减少趋势。林地土壤碳氮含量最高，显著高于草地和耕地( $P <$ 0.05），但与灌丛差异不显著 $( P { > } 0 . 0 5 )$ 。研究区土壤氮含量较高，可为研究区植被生长提供较为充足的氮素养分元素，应继续加强植被管理和保护，以保证区域土壤养分元素的平衡及循环过程
+
+(3）土壤碳氮含量受气候、土壤理化性质等结构性因素和人类活动等随机性因素的综合影响。本研究侧重于自然环境因子对土壤碳氮含量的影响，未考虑人类活动因素对土壤碳氮含量的影响，今后需进一步深入分析人类活动的影响。
+
+# 参考文献(References):
+
+[1]范全城,柴娜,李萍,等.湿地生态系统C、N、P生态化学计量学 特征的研究进展[J].科学技术创新,2019,23(11):46-47.[Fan Quancheng, Chai Na, Li Ping, et al. Research progress of C,N,P ecological stoichiometry in wetland ecosystem[J]. Scientific and Technological Innovation,2019,23(11): 46-47.]   
+[2]王彦龙,王晓丽,马玉寿.坡向对长江源区高寒草地植被生长和 土壤养分特征的影响[J].草业科学,2018,35(10):2336-2346. [Wang Yanlong,Wang Xiaoli,Ma Yushou.Effect of slope aspect on vegetation growth and soil nutrient characteristics of alpine grassland in the source region of Yangtze River[J]. Pratacultural Science,2018,35(10): 2336-2346.]   
+[3]Zhao Zhenzhen,Zhang Xiangfeng,Dong Shikui,et al.Soil organic carbon and total nitrogen stocks in alpine ecosystems of Altun Mountain National Nature Reserve in dry China[J]. Environmental Monitoring and Assessment, 2019,191(1): 40.   
+[4]段中华,乔有明,全小龙,等.黄河源区湿地、草地土壤理化性质 和碳氮组成及其稳定同位素特征分析[J].水土保持学报, 2015,29(4): 247- 252,315.[Duan Zhonghua, Qiao Youming, Quan Xiaolong,et al.Analysis of nitrogen and carbon composition and stable isotope characteristics and physicochemical properties of wetland and grassland soil in source region of the Yellow River [J]. Journal of Soil and Water Conservation,2015,29(4): 247-252,315.]   
+[5]曹丽花,刘合满,赵世伟.退化高寒草甸土壤有机碳分布特征及 与土壤理化性质的关系[J].草业科学,2011,28(8):1411-1415. [Cao Lihua, Liu Heman, Zhao Shiwei.Distribution of soil organic carbon and its relationship with soil physical and chemical properties on degraded alpine meadows[J]. Pratacultural Science,2011, 28(8): 1411-1415.]   
+[6]Spain A V.Influence of environmental conditions and some soil chemical properties on the carbon and nitrogen contents of some tropical Australian rainforest soils[J].Australian Journal of Soil Research,1990,28(6): 825-839.   
+[7]Homann P S,Kapchinske JS,Boyce A.Relations of mineral-soil C and N to climate and texture: regional differences within the conterminous USA[J]. Biogeochemistry,2007,85(3): 303-316.   
+[8]Sollins P,Homann P, CaldwellB.Stabilization and destabilization of soil organic matter: Mechanisms and controls[J].Geoderma, 1996,74: 65-105.   
+[9]王淑芳,王效科,欧阳志云.环境因素对密云水库上游流域土壤 有机碳和全氮含量影响的通径分析[J].生态环境学报,2014, 23(8): 1378-1383.[Wang Shufang,Wang Xiaoke,Ouyang Zhiyun. Path analysis on environmental factors controlling soil organic carbon and total nitrogen contents in the upstream watershed of Miyun Reservoir,North China[J]. Ecology and Environmental Sciences,2014,23(8): 1378-1383.]   
+[10] 张光德,赵传燕,戎战磊,等.祁连山中部不同植被类型土壤生 态化学计量特征研究[J].兰州大学学报(自然科学版),2019,55 (4): 533-540.[Zhang Guangde, Zhao Chuanyan,Rong Zhanlei, et al.Ecological stoichiometry of soils with diferent vegetation types in the middle part of the Qilian Mountains[J]. Journal of LanZhou University (Natural Sciences Edition),2019,55(4): 533-540.]   
+[11] 赵维俊,刘贤德,金铭,等.祁连山青海云杉林叶片-枯落物-土 壤的碳氮磷生态化学计量特征[J].土壤学报,2016,53(2):477- 489.[Zhao Weijun,Liu Xiande,Jin Ming,etal. Ecological stoichiometric characteristics of carbon,nitrogen and phosphorus in leaf-litter-soil system of Picea crassifolia forest in the Qilian Mountains[J].Acta Pedologica Sinica,2016,53(2): 477-489.]   
+[12]高之仁.数量遗传学[M].成都:四川大学出版社,1986:198- 226.[Gao Zhiren. Quantitative Genetics[M]. Chengdu: Sichuan University Press,1986: 198-226.]   
+[13] 刘芳,曹广超,曹生奎,等.祁连山南坡水体氢氧稳定同位素特 征研究[J].干旱区研究,2020,37(5):1116-1123.[Liu Fang,Cao Guangchao,Cao Shengkui,et al. Hydrogen and oxygen isotope characteristics of water bodies on the southern slope of Qilian Mountains[J].Arid Zone Research,2020,37(5): 1116-1123.]   
+[14] Zhao Zhenzhen, Zhang Xiangfeng,Dong Shikui,et al. Soil organic carbon and total nitrogen stocks in alpine ecosystems of Altun Mountain National Nature Reserve in dry China[J].Environmental Monitoring and Assessment,2019,191(1): 40.   
+[15]鲍士旦.土壤农化分析(第三版)[M].北京:中国农业出版社, 2000.[Bao Shidan. Soil Agrochemical Analysis[M]. 3rd. Beijing: China Agriculture Press,2000.]   
+[16] 曹生奎,陈克龙,曹广超,等.草地退化对青海湖流域小蒿草草 甸土壤碳密度的影响[J].水土保持研究,2014,21(1):71-75. [Cao Shengkui, Chen Kelong,Cao Guangchao,et al. Influence of grassland degradation on the soil carbon density of the Kobresia pygmaea meadow in the Qinghai Lake Basin[J]. Research of Soil and Water Conservation,2014,21(1): 71-75.]   
+[17]张洋洋.白龙江流域土壤碳氮磷含量及空间分布特征研究[D]. 兰州：兰州大学,2017.[Zhang Yangyang.Study on Contents and Spatial Distribution Characteristics of Soil Carbon,Nitrogen and Phosphorus in BailongRiver Basin[D]. Lanzhou: Lanzhou Universi
+
+ty,2017.]
+
+[18]宋小园,朱仲元,刘艳伟,等.通径分析在SPSS 逐步线性回归中 的实现[J].干旱区研究,2016,33(1):108-113.[Song Xiaoyuan, Zhu Zhongyuan,Liu Yanwei, et al.Application of path analysis in stepwise linear regression SPSS[J]. Arid Zone Research, 2016,33 (1): 108-113.]   
+[19] 周艳翔,吕茂奎,谢锦升,等.深层土壤有机碳的来源、特征与稳 定性[J].亚热带资源与环境学报,2013,8(1):48-55.[Zhou Yanxiang,Lyu Maokui, Xie Jinsheng,et al. Sources,characteristics and stability of organic carbon in deep soil[J].Journal of Subtropical Resources and Environment, 2013, 8(1): 48-55.]   
+[20] 胡亚伟,孙若修,申明爽,等.晋西黄土区土地利用方式对土壤 C:N:P化学计量特征及土壤理化性质的影响[J/OL].干旱区研 究:1-12[2021-06-23]. htp://kns.cnki. net/kcms/detail/65.1095. X.20210610.1309.O03.html.[Hu Yawei,Sun Ruoxiu,Shen Mingshuang,et al.Effctsof land use types on the stoichiometric characteristicsof soilC: N: Pandthephysicaland chemical properties of soil[J].Arid Zone Research,1-12[2021-06-23]. http: / kns.cnki.net/kcms/detail/65.1095.X.20210610.1309.003.html.]   
+[21]牛赞,刘贤德,赵维俊,等.祁连山青海云杉(Picea crassifolia)林 浅层土壤碳、氮含量特征及其相互关系[J].中国沙漠,2014,34 (2): 371-377.[Niu Yun,Liu Xiande, Zhao Weijun,et al. Characteristics and interrelation of shallow soil organic and total nitrogen of Picea crassifolia forest in the Qilian Mountain,Gansu,China[J]. Journal of Desert Research,2014,34(2):371-377.]   
+[22] 孔君洽,杜泽玉,杨荣,等.荒漠绿洲农田垦殖过程中耕层土壤 碳储量演变特征[J].应用生态学报,2019,30(1):180-188. [Kong Junqia,Du Zeyu, Yang Rong,et al. Evolutionary characteristics of soil organic carbon storage in soil plough layer under a cropland reclamation process in desert oasis[J]. Chinese Journal of Applied Ecology,2019,30(1): 180-188.]   
+[23] 崔静,陈云明,黄佳健,等.黄土丘陵半干旱区人工柠条林土壤 固碳特征及其影响因素[J].中国生态农业学报,2012,20(9): 1197-1203.[Cui Jing,Chen Yunming,Huang Jiajian,et al. Soil carbon sequestration characteristics of Caragana microphylla plantations and influencing factor in loess hilly semiarid region[J]. Chinese Journal of Eco-Agriculture,2012,20(9): 1197-1203.]   
+[24]Jobbägy Esteban G,Jackson,Robert B.The vertical distribution of soil organic carbon and it's relation to climate and vegetation[J]. Ecological Applications,2000,10(2): 423-436.   
+[25] 何介南,谢寄托,肖毅峰,等.莽山土壤有机碳及其空间分布格 局[J].中南林业科技大学学报,2014,34(4):72-76.[He Jienan, Xie Jituo,Xiao Yifeng,et al. Studies of soil organic carbon and its spatial distribution in mountain Mangshan[J].Journal of Central South University of Forestry & Technology,2014,34(4): 72-76.]   
+[26] 王卫霞,杨光,王振锡.更新方式对天山云杉林土壤碳氮的影响 [J].新疆农业科学,2020,57(8):1474-1483.[Wang Weixia,Yang Guang,Wang Zhenxi.Efects of regeneration patterns on soil carbon and nitrogen in Picea schrenkiana var tianshanica[J]. Xinjiang Agricultural Sciences,2020,57(8): 1474-1483.]   
+[27] 朱凤武,徐彩瑶,濮励杰,等.苏北滩涂围垦区土壤碳氮磷含量 及其生态化学计量特征[J].中国土地科学,2017,31(12):77- 83.[Zhu Fengwu,Xu Caiyao,Pu Lijie,et al. Effects of reclamation activity on soil C,N andP contents and the stoichiometric characteristics of coastal wetland in Northern Jiangsu Province[J].China Land Science,2017,31(12): 77-83.]   
+[28] 张少凤.锡林郭勒羊草草原不同利用方式下群落与土壤碳氮特 征研究[D].呼和浩特:内蒙古大学,2018.[Zhang Shaofeng. Study on the Carbon and Nitrogen Characteristics of Community and Soil for Leymus chinensis Grassland under Different Utilization Ways in Xilingol Steppe[D].Hohhot: Inner Mongolia University, 2018.]   
+[29] 黄郡,马瑞福,崔守斌,等.不同恢复方式下七星河湿地土壤碳 氮磷含量及其生态化学计量特征[J/OL].山西大学学报(自然科 学版): 1-16[2020-10-11].[Huang Jun,Ma Ruifu, Cui Shoubin,et al. Soil carbon, nitrogen,and phosphorus concentrations and stoichiometry under different wetland restoration methods in Qixing River[J/OL].Journal of Shanxi University(Natural Science Edition): 1-16[2020-10-11].]   
+[30] 姚拓,龙瑞军.天祝高寒草地不同扰动生境土壤三大类微生物 数量动态研究[J].草业学报,2006,15(2):93-99.[Yao Tuo,Long Ruijun.Dynamics of soil microbial population under disturbance in Tianzhu Alpine grassland[J]. Acta Prataculturae Sinica, 2006, 15(2): 93-99.]   
+[31] 张瑶瑶.甘南州草地土壤有机碳、全氮空间分布特征及影响因 素分析[D].兰州:兰州大学,2019.[Zhang Yaoyao.Spatial Distribution Characteristics and Influencing Factors of Soil Organic Carbon and Total Nitrogen in Gannan Pastoral Area[D]. Lanzhou: Lanzhou University,2019.]   
+[32] 苟照君.黄河上游高寒草地土壤碳、氮、磷、pH值分布特征及影 响因素[D].西宁:青海师范大学,2019.[Gou Zhaojun.Study on Distribution Characteristics and Influencing Factors of Soil Carbon, Nitrogen,Phosphorus and pH Value in Alpine Grassland of UpperYellow River[D]. Xining:Qinghai Normal University, 2019.]   
+[33] 白军红,邓伟,朱颜明,等.霍林河流域湿地土壤碳氮空间分布 特征及生态效应[J].应用生态学报,2003,14(9):1494-1498. [Bai Junhong,Deng Wei, Zhu Yanming,et al. Spatial distribution characteristics and ecological effects of carbon and nitrogen of soil in Huolin River catchment wetland[J]. Chinese Journal of Applied Ecology,2003,14(9): 1494-1498.]   
+[34] 苗娟,周传艳,李世杰,等.不同林龄云南松林土壤有机碳和全 氮积累特征[J].应用生态学报,2014,25(3):625-631.[Miao Juan, Zhou Chuanyan,Lihijie,etal.Accumulationofsgan ic carbon and total nitrogen in Pinus yunnanensis forests at differentage stages[J]. Chinese Journal of Applied Ecology,2014,25 (3): 625-631.]
+
+# Soil carbon and nitrogen content and path analysis under different land use patterns on the southern slope of Qilian Mountains
+
+DIAO Erlong1,23，CAO Guangchao²3，CAO Shengkui123,，YUAN Jie12.3，YU Min12,3, CHEN Zhen1,2.3，ZHANG Zhuo1,23,TONG Shan1,23,，ZHAO Meiliang1,2,3 (1.School of Geographical Science of Qinghai Normal University, Xining 81OoO8,Qinghai, China; 2. MOE Key Laboratory of Tibetan Plateau Land Surface Processes and Ecological Conservation, Xining 81Oo08,Qinghai, China; 3. Qinghai Province Key Laboratory of Physical Geography and Environmental Process,Xining 8100o8, Qinghai, China)
+
+Abstract: Taking the soils under four diferent land use types on the southern slope of Qilian Mountain as the research object, we used field sampling,laboratory analysis,and one-Way ANOVA to analyze the TC and TN contents in surface ( $\mathrm { 0 - 2 0 ~ c m } .$ anddeep $2 0 { - } 5 0 ~ \mathrm { c m }$ )layers of soil.A path analysis method wasused to reveal the direct and indirect effcts of environmental factors on soil TC and TN.The results were as follows. (1)As a direct effect,the soil carbon and nitrogen interaction was significant,but pH had litle direct efect on soil carbon and nitrogen content.As an indirect eect,soil water content had a positive effect on TC content in surface soil mainly through TN,whereas pH had an indirect negative effect on TC content in deep soil mainly through TN. Temperature had an indirect negative eect on soil TN content mainly through precipitation, whereas bulk density had an indirect negative efect on soil TN content mainly through TC.(2) Soil carbon and nitrogen content showed obvious “surface polymerization.”The content of soil carbon and nitrogen decreased as soil depth increased.The carbon and nitrogen content of forest soil was the highest; these contents were significantly higher than those found in soil from grassland and cultivated land( $_ { ( P < 0 . 0 5 ) }$ but were not significantly different from the contents in shrub soil $_ { ( P < 0 . 0 5 ) }$ . The soil nitrogen content in the study area was higher than the national soil nitrogen content grading standard, which could provide suffcient nitrogen nutrient elements forthe growth of vegetation in this area. (3） Soil carbon and nitrogen content was affcted by the natural environment and human activities.Although this study focused on the effects of natural environmental factors on soil carbon and nitrogen content,the effects of human activitieson these contents were not considered; thus,the impact of human activities should be further analyzed future research.
+
+Keywords: the southern slope of Qilian Mountain； land use type；soil total carbon; soil total nitrogen； pathanalysis

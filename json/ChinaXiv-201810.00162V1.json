@@ -1,0 +1,420 @@
+[
+    {
+        "type": "text",
+        "text": "耕地生态安全视域下棉花生产布局优化问题研究以新疆为例①",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王晶1,2， 肖海峰1(1中国农业大学经济管理学院,北京10083；2塔里木大学经济与管理学院,新疆阿拉尔843300)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用 2000—2015年农业生产统计数据,运用空间自相关、生产贡献度和PSR模型,分析新疆棉花生产格局变化及增产贡献因素,根据耕地生态安全评价结果测算各县市棉花种植调减面积，结论表明：2000年以来，棉花生产空间格局发生显著变化，形成天山南北坡两个主产区，“南增北减\"趋势增强，单产高值区由点及面向天山南北两侧扩张，形成多个集中连片高产中心；棉花生产存在空间集聚效应，表现出持续的稳定性，高值聚集区集中分布于南疆区域；棉花增产主要归因于播种面积的持续扩大;耕地生态安全为临界安全或较不安全状态并呈集中连片分布；新疆棉花种植调减重点集中于南疆区域。在种植结构调整中，综合考虑水资源和土地管理制度约束、农业灌溉用水效率和替代作物选择等问题，科学有序调减棉花种植面积。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：棉花生产；耕地生态安全；空间自相关；生产贡献度；PSR 模型；新疆中图分类号：F304.5 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国是世界上最大的棉花生产国、消费国，2016年中国棉花产量和消费量分别为 $5 3 4 . 3 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 和$7 5 6 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ ,占世界比例为 $2 3 . 2 3 \\%$ 和 $3 1 . 7 6 \\%$ 。棉花是除粮食之外最主要的农产品和战略物资，亦是中国产业链最长和产业关联度最强的经济作物[1]。耕地是棉花生产最重要的生产资料，耕地生态系统是具有高度耦合性的社会一经济一生态符合系统[2-3]。近年来随着工业化、城镇化发展及气候变化等因素，耕地资源稀缺性及耕地生态环境恶化问题日益凸显[4],如何在资源环境约束趋紧的背景下，研究中国棉花生产时空变迁与布局优化问题，对于制定科学合理的棉花生产政策和保障棉花有效供给具有重要现实意义。新疆是中国最大的陆地棉产区，独特的光热、土地资源优势使棉花增产潜力较大,从1993年开始，新疆棉花总产、单产、调出量等已连续24a位居全国首位，2016年棉花播种面积和总产量占全国比重高达 $5 3 . 4 7 \\%$ 和 $6 7 . 2 7 \\%$ ，为稳定中国棉花市场提供了重要保障，形成“中国棉花看新疆\"格局。近年来，由于棉花相对比较效益较高，种植面积急剧无序扩张，新疆成为“粮棉争地”现象最严重省份之一。因大面积连作、不合理灌排及农田水利设施落后，绿洲灌溉农业系统与荒漠生态系统竞争性用水矛盾突出，集中表现为水资源结构性短缺且效率偏低、生态环境脆弱且功能退化等问题，“稳粮调棉”的种植结构调整迫在眉睫，如何在保证棉花有效供给下适度调减棉花种植面积成为各方关注的焦点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "棉花生产时空格局及成因问题是学术界关注的热点，生产集中度指数法、差异系数法、比较优势法、聚类分析等被广泛应用于棉花生产空间格局、区域差异、空间集聚分析，并形成较为一致的观点，即中国棉花生产已形成黄河流域、长江流域、西北内陆棉区“三足鼎立”格局，生产重心由南向北、向西北新疆地区迁移,整体差异变大并高度集聚[5-6],技术进步、劳动力投入、农业机械、灌溉条件、非农就业机会、自然灾害、比较效益等是影响中国棉花生产格局的主要因素[7-8]。近年来,运用空间重力、ESDA 分析法、GIS及空间面板计量模型等新方法对不同空间尺度棉花生产格局变化的研究成果日益增多[9-10]。目前耕地生态安全评价尚处于起步阶段,评价方法多采用模糊综合评价法、层次分析法、综合指数法、障碍度模型、生态承载力法等[1I-13],后期运用物元分析法、熵值法、TOPSIS 法、突变级数法等对上述方法进行改进[14-15],以提高安全诊断质量,而评价指标体系构建的核心在于阐述耕地生态环境与人类社会的相互关系，常用的指标体系为PSR模型、EES 模型、DPSIR模型、DPSEEA 模型、暴露－响应分析模型等[16-18],由于评价指标与安全等级之间复杂的非线性关系，至今尚没有统一的评价模型。综上，已有的研究成果对指导我国棉花生产布局优化具有一定指导意义，研究方法由描述性分析向空间计量分析转变;研究区域由宏观尺度向中微观尺度转变;研究内容上各有侧重相互独立，交叉研究较少,耕地生态安全评价为区域宏观战略研究,农业生产时空格局研究则是农业区划和功能分区的基础，以往多分别对二者进行独立研究，如果将二者有机结合，在区域耕地生态安全评级基础上对农业生产区域布局进行优化调整，综合考虑经济、社会、资源环境因素，可能对区域种植结构调整更具可衡量性和可操作性。因此,本研究利用 2000—2015 年地区农业生产统计数据，采用空间自相关、生产贡献度分析新疆棉花生产格局变化及增产贡献因素，基于PSR 模型的耕地生态安全评价结果测算各地区棉花种植调减面积，为新疆棉花生产空间布局优化和结构调整提供决策依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆地处亚欧大陆腹地！ $( 3 4 ^ { \\circ } 2 ^ { \\prime } \\sim 4 8 ^ { \\circ } 1 0 ^ { \\prime } \\mathrm { N }$ ， $7 3 ^ { \\circ }$ $4 0 ^ { \\prime } \\sim 9 6 ^ { \\circ } 1 8 ^ { \\prime } \\mathrm { E }$ ），总面积 $1 6 6 . 4 9 \\times 1 0 4 ~ \\mathrm { k m } ^ { 2 }$ ,约占国土面积1/6，地貌总轮廓为“三山夹两盆”，山地系统、绿洲系统和荒漠系统相互作用形成新疆干旱区典型的山地一绿洲一荒漠生态系统。该地区是典型的大陆性干旱气候，年均降水量 $1 4 7 ~ \\mathrm { { m m } }$ ,蒸发量年均$1 ~ 0 0 0 \\sim 4 ~ 5 0 0 ~ \\mathrm { m m }$ ,年日照 $2 \\ 6 0 0 \\sim 3 \\ 6 0 0 \\ \\mathrm { h }$ ,宜垦荒地$4 . 8 7 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,约占全国 $1 3 . 8 \\%$ ,拥有中国面积最大的后备耕地资源。水资源总量丰富，但时空分布失衡且利用效率低下，中度以上生态脆弱区域占国土空间近 $6 5 . 8 \\%$ ，是典型的绿洲生态脆弱区。本研究范围以新疆2015年行政单元为基准，以85个县（市)和14个生产建设兵团师（市）作为基本空间单元①。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究的时间序列为2000—2015年，所用数据均来自各年度《新疆统计年鉴》、《新疆生产建设兵团统计年鉴》、《新疆调查年鉴》、《新疆50年年鉴(1955一2005)》、《中国县域统计年鉴（县市卷）》、《中国农村统计年鉴》以及各地州统计年鉴和政府统计公报等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究主要运用了空间自相关、生产贡献度和PSR 模型3种方法。空间自相关分析是研究某区域单元观测值与邻近区域单元观测值是否相关及相关程度的空间数据分析方法，包括全局空间自相关和局部空间自相关。全局空间自相关常用GlobalMo-ran's $I$ 作为衡量指标,Moran's $I$ 取值范围为［-1,1]，当指数显著为正时，说明单元呈空间集聚分布,显著为负时呈分散分布，若接近 $- 1 / ( n - 1 )$ 则呈随机分布。局部空间自相关可以分析 $i$ 单元棉花种植面积比重与其相邻单元是否存在高值集聚或低值集聚，用Moran散点图、局部LISA集聚图等说明空间集聚和离散特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "粮食增产是多因素综合作用的结果，根据研究需求，从播种面积、单产和结构调整3方面解析棉花增产的主要诱因，将种植结构调整之前的棉花播种面积作为参照，与结构调整后的结果进行对比，分离测算出上述因素对棉花增产的贡献度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PSR（Pressure-State-Response）模型最初由加拿大统计学家DAVIDJ.Rapport和 TONYFriend（1979年)提出，后由OECD和UNEP进一步发展为研究环境问题的框架体系。模型包括压力、状态和响应3类指标，压力指标为人类社会经济活动对环境的作用，如资源索取、物质消费及物质排放带来的环境破坏和扰动;状态指标为研究期内环境状态与变化情况，如生态系统、自然环境等现状；响应指标为人类社会采取行动或补救措施减轻、阻止、恢复或预防对环境的负面影响。近年来该模型已广泛应用于农业可持续发展及生态环境评价方面的研究。本文采用PSR模型对新疆耕地生态安全进行量化评价，而PSR 模型的各类指标与棉花生产布局影响因素有密切的相关性，可以为优化新疆棉花生产布局提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3棉花生产空间变化特征及贡献度分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 空间特征分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了分析棉花空间格局变化特征和趋势，利用ArcGIS10.2自定义间隔方式对2000年、2015年各单元棉花总产量和单产水平进行空间插值和分类（图1,图2），其中总产量以 $0 \\ \\mathrm { ~ t ~ } . 5 \\times 1 0 ^ { 3 } \\ \\mathrm { t ~ } . 1 \\times 1 0 ^ { 4 } \\ \\mathrm { t } .$ （204号$5 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ } , 1 \\times 1 0 ^ { 5 } \\mathrm { ~ t ~ } , 2 \\times 1 0 ^ { 5 } \\mathrm { ~ t ~ }$ 为断点,单产以 $0 ~ \\mathrm { k g }$ ：h $\\mathrm { m ^ { - 2 } \\setminus 1 0 0 ~ k g ~ \\cdot ~ h m ^ { \\mathrm { ~ - 2 } } \\setminus 1 ~ 0 0 0 ~ k g ~ \\cdot ~ h m ^ { \\mathrm { ~ - 2 } } \\setminus 1 ~ 5 0 0 ~ k g ~ } \\cdot$ $\\mathrm { h m } ^ { - 2 } \\ 、 2 0 0 0 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } \\ 、 2 \\ 3 0 0 \\mathrm { \\ k g } \\cdot \\mathrm { h m } ^ { - 2 }$ 为断点,能够反映棉花生产的优势区域和空间绝对变化格局。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从宏观尺度来看，棉花产量在南北疆区域均呈递增趋势，且在南疆的扩张速度显著高于北疆，南疆对总产量的贡献度从2000年的 $56 . \\ 1 1 \\%$ 增至$6 0 . 6 6 \\%$ ,在业已形成的天山南坡和天山北坡为主产区的双中心格局下，“南增北减”趋势进一步增强。从中观尺度来看，棉花种植的空间格局变化显著，阿克苏地区、喀什地区、阿拉尔市（一师）、石河子市(八师)等绿洲农业区依然是传统棉花主产区，巴州、塔城地区棉花种植呈逐年扩大趋势，在2015 年总产贡献跻身新疆前5位，而昌吉州、五家渠市（六师）、七师等地区则呈弱化趋势,其他地州(师市)棉花种植相对稳定。从微观尺度来看，不同年份的棉花生产空间差异显著，表现为从南北两侧向天山南北逐渐递增的趋势，层次性明显。2000年棉花总产量空间分布较为离散，高值中心区松散分布于塔里木河、叶尔羌河和玛纳斯河灌区各县市和兵团师市，2015年高值中心区由点状松散分布向天山南北两带集中连片分布过渡，面积显著扩大，99个地域单元中，总产量低于 $1 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 的单元从42个减少到28个，空间范围大幅缩小，松散分布于绿洲农业灌区外围的荒漠戈壁区域；总产量介于 $1 \\times 1 0 ^ { 4 } \\sim 5 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 的单元从26个减少到18个，空间范围缩小但集聚特征逐渐凸显，主要分布于和田、喀什和昌吉等绿洲农业区和天山东部山间盆地;总产量高于 $5 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 的单元从7个增加到28个，空间范围急剧扩大且集聚趋势明显，集中分布于塔里木河流域阿克苏、巴州、喀什绿洲和准噶尔盆地西南区域，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图2可知，2000年棉花单产高值中心区仅分布于各兵团师市，地方县市单产水平普遍偏低，这与较高的农业生产效率和技术水平密切相关，2015年高值中心区由点及面向天山南北两侧扩张，形成多个集中连片高产中心，单产低于 $1 ~ 0 0 0 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ 的单元从63个减少到3个，主要是喀什市、北屯市和昆玉市，由于工业化、城镇化开发建设占用优质耕地和水资源及极端气候因素影响，棉花单产水平略有下降;单产介于 $1 ~ 0 0 0 \\sim 1 ~ 5 0 0 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ 的单元从4个增加到18个，面积扩大但较为分散，主要分布于伊犁河谷、天山山间盆地及和田绿洲；单产高于$1 ~ 5 0 0 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ 的单元从8个增加到54个，空间范围急剧扩大且集聚趋势明显，集中分布于塔里木盆地北部和西部、准噶尔盆地西部和南部、吐哈盆地。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 空间集聚分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先，测算2000—2015年各地区棉花播种面积比重的全局Moran's $I$ 指数,从整体来看，棉花生产的全局Moran's $I$ 指数均大于零，在均值0.4867的水平线呈上下波动趋势，表现出持续的稳定性，说明新疆棉花生产呈现一定的空间自相关性，植棉区存在空间集聚效应，即播种面积比重高的相邻地区播种面积比重也高，反之亦然。其次，在 $5 \\%$ 的显著性水平下分别绘制2000年和2015年局域LISA集聚图，对新疆棉花生产的空间集聚特征、离散特征的显著性程度进行说明（图3）。从LISA集聚图来看，2000 年和2015年的LISA高值聚集区空间略有缩小，集中连片分布于南疆区域,进一步向叶尔羌河一塔里木河流域灌溉农业区集中，主要包括阿克苏、巴州、喀什西部及3个兵团师市。低值聚集区空间范围显著缩小，主要集中在阿勒泰、伊犁地区。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 贡献度分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据前文贡献度分析法，对新疆2000—2015 年棉花播种面积、单产水平及种植结构调整3个因素对棉花增产的贡献度进行测算，结果见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2000一2015年新疆棉花播种面积、单产及结构调整对棉花产量净增长率的贡献率分别为 $5 7 . 5 5 \\%$ 、$2 3 . 1 5 \\%$ 和 $1 9 . 2 9 \\%$ ,可知棉花增产的首要因素是播种面积的持续扩大，其次是单产水平的提高，而种植结构调整的贡献率较小。从时间序列来看，播种面积的贡献率变化较为稳定，面积的扩张主要来源于后备耕地资源丰富区域的新增拓荒耕地，由于光热",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "N 哈巴河县 尔津阿勒泰市吉木乃北屯市塔城市额敏县 富蕴县青河县 2000年和布克赛尔蒙古自治县裕民县 福海县双河市 托里县克拉玛依市温泉县博乐市双河市 奎屯市玛纳斯县 奇台县霍城县宁市精河县 乌苏市 沙湾县呼图壁县 康市吉木萨尔 巴里坤哈萨克自治县察布查尔锡伯自清县巩留 可克达拉市便宁尼勒克县 新源县 克拉玛依市 S 石河子市 乌鲁本齐县 木齐市 床垒哈萨克自治县 伊吾县苏县特克斯县 和静县自治县和县 托克善县 哈密市温宿县 拜城县 库车县轮台县门关市博湖县乌什县 新和县 库尔勒市阿合奇县 阿克苏市 尉犁县柯坪县 随 立尔市 沙雅县乌恰县 阿图什市 图木舒克市阿瓦提县阿克苏市疏附县 伽师县疏勒自岳普湖县 巴楚县阿克沙车县麦盖提县 墨玉县 若羌县普县 洛浦县 且末县 图例昆玉市塔什库尔干塔吉克县 皮山县昆玉市 租田市 于田县（民丰县 棉花产量/t0策勒县 1\\~5000和田县 15000\\~1000010.000\\~5000050 000\\~100 0000 125 250 500 750 1000 100 000\\~179 354",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b4f0a9cc0c1fd722489eacaba70f3a30952d7df190d74c98e0390a72bc0865c.jpg",
+        "img_caption": [
+            "图12000 年和2015 年棉花总产量空间格局变化",
+            "Fig.1Spatial pattern of cotton production in 2OOO and 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图例 2000年 哈巴河县阿勒泰市 N  \n棉花单产 $/ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ （204号若木乃县北0 塔城市1\\~100 裕民县 额敏县 布克赛尔蒙古自治县福海县 富蕴县 {青河县100\\~1000 托里县克拉玛依市1000\\~15001500\\~1872 察布查尔锡伯治巩留县 可克县宁尼勒克 温泉县博乐汉河市 霍城县伊宁 精河县玛 新源县 奎屯市玛纳斯县 2 沙湾县呼图壁县 石河子市昌古市 乌鲁本齐县 乌鲁木齐市 阜康市吉木萨尔县 木垒哈萨克自治县 奇台县 巴里刊哈萨克自治县 伊吾县特克斯县 和静县 专 吐鲁番市苏县城县 葛意回族自治县和硕县托克逊县 鄯善县 哈密市乌什县温宿县 新和县 库车县轮台县 宗市湖县阿合奇县 阿克苏市 尉犁县柯坪县 柯拉尔市 沙雅县  \n乌恰县 阿图什市 图本 阿瓦提县阿克苏市疏附县 县 若羌县阿克陶县 莎车县 墨玉县圣县昆市 洛浦县 且末县  \n塔什库尔干塔吉克县 皮山县昆玉市 和市 于田县 民丰县策勒县和田县0 125 250 500 750 1000km",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/70b3c0730c015c604275032b9dd32ca8ac0f2fb30e3decc0c736e7eacccc1826.jpg",
+        "img_caption": [
+            "图22000 年和2015年棉花单产空间格局变化",
+            "Fig.2Spatial pattern of cotton yield in 2OOO and 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9927eac76d0eb7c5b29e7682f85ea7e62b80786a3a70dce93290effaef19e5aa.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f5a38e8eb96d8f0e7261b913fdb2adaccd6a81b7c3782bf52b6f2a16466491f.jpg",
+        "img_caption": [
+            "图3新疆棉花生产局域LISA集聚图",
+            "Fig.3LISA cluster map of cotton production in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e46d17210ae44271a4db7f021c44de369d0930e251fa321c6ac3343b405cb593.jpg",
+        "table_caption": [
+            "Tab.1 Cotton production contribution rate in 2ooo—2015／% "
+        ],
+        "table_footnote": [
+            "注：2015/2000 是以2000年为基期,2015年为报告期计算的16a整体增长率和贡献率"
+        ],
+        "table_body": "<html><body><table><tr><td>年份</td><td>棉花总量</td><td>播种面</td><td>结构调</td><td>单产贡献</td><td>年份</td><td>棉总量</td><td>播种面</td><td>结构调整</td><td>单率</td></tr><tr><td>2000</td><td>6.57</td><td>- 48.95</td><td>74.05</td><td>74.91</td><td>2008</td><td>3.98</td><td>81.78</td><td>- 251.87</td><td>270.09</td></tr><tr><td>2001</td><td>4.67</td><td>40.11</td><td>200.40</td><td>-140.51</td><td>2009</td><td>-16.30</td><td>-21.08</td><td>115.77</td><td>5.31</td></tr><tr><td>2002</td><td>-4.46</td><td>- 47.31</td><td>440.66</td><td>- 293.36</td><td>2010</td><td>-1.78</td><td>-56.80</td><td>- 142.88</td><td>299.68</td></tr><tr><td>2003</td><td>6.67</td><td>-3.61</td><td>149.13</td><td>-45.52</td><td>2011</td><td>16.89</td><td>29.58</td><td>43.79</td><td>26.63</td></tr><tr><td>2004</td><td>9.53</td><td>31.70</td><td>60.50</td><td>7.80</td><td>2012</td><td>22.15</td><td>15.14</td><td>9.47</td><td>75.39</td></tr><tr><td>2005</td><td>11.67</td><td>38.78</td><td>-14.80</td><td>76.01</td><td>2013</td><td>-0.61</td><td>- 239.54</td><td>259.56</td><td>79.98</td></tr><tr><td>2006</td><td>36.70</td><td>38.60</td><td>60.46</td><td>0.94</td><td>2014</td><td>28.20</td><td>56.29</td><td>81.63</td><td>-37.92</td></tr><tr><td>2007</td><td>8.40</td><td>54.21</td><td>96.56</td><td>-50.77</td><td>2015</td><td>-4.70</td><td>-45.10</td><td>176.08</td><td>-30.98</td></tr><tr><td colspan=\"2\">2015/2000 *</td><td>总计 增长率</td><td>186.53</td><td>面积 总计贡献</td><td>57.55</td><td>结构 总计贡献</td><td>19.29</td><td>单产 总计贡献</td><td>23.15</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "资源丰富且相对收益较高，新增耕地更多向棉花种植倾斜，但是随着多年连续扩张，后备耕地资源开发潜力降低且面临严峻的水资源约束，粮棉“争水、争地、争肥\"矛盾可能愈加凸显并影响区域粮食安全;单产水平的贡献率波动较大，对总产量的贡献率仅次于面积，可能的原因是新疆为自然灾害多发频发区域，洪水、干旱、冰雹、寒潮、沙尘暴等极端气候对农业生产造成巨大损失，因此，在高标准农田建设、节水灌溉、耕种收机械化等关键环节加强技术推广和基础设施建设，是提高单产水平的有效手段;结构调整对棉花增产的贡献率有正有负，部分年份贡献率超过面积和单产，因此通过调整棉花种植结构有助于优化新疆种植业结构，且存在较大的调整空间。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4棉花生产布局优化研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1耕地生态安全评价 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据研究区实际情况，在PSR理论模型框架下从压力、状态、响应3个方面选取16个指标构建耕地生态安全评价指标体系（表2）。首先，评价指标具有不同量纲，采用极差变换法对数据进行无量纲标准化处理，对正向指标采用上限效果测度，反之采用下限效果测度；然后采用熵值法确定指标权重，综合测算指标层各因子的综合评价值。其公式为：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\sum _ { j = 1 } ^ { n } X _ { i j } W _ { j } \\quad i = 1 , 2 , \\cdots , m ; \\quad j = 1 , 2 , \\cdots , n\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中： $F$ 为综合评价值； $X _ { i j }$ 为第 $i$ 个指标的标准化值； $\\boldsymbol { W } _ { i j }$ 为第 $j$ 个指标的权重； $n$ 为指标数量。 $F$ 的赋分越大则耕地生态安全越高，反之越低。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d29b6da8a4146b98d7970702d191383fa986e0cd5d80b8f6593d78566d6911cc.jpg",
+        "table_caption": [
+            "表1 2000—2015 年棉花增产贡献度／ $\\%$ ",
+            "表2新疆耕地生态安全评价指标体系及权重",
+            "Tab.2Evaluation index system and weight of cultivated ecological security in Xinjiang "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>目标层准则层</td><td>指标层</td><td>指标说明</td><td>趋向性</td><td>权重</td></tr><tr><td></td><td></td><td>X人口密度／人·km-²</td><td>总人口/土地总面积</td><td>1</td><td>0.0610</td></tr><tr><td></td><td></td><td>X人口自然增长率／%</td><td>人口自然增加数/平均人口数</td><td></td><td>0.042 8</td></tr><tr><td>耕</td><td>压力</td><td>X城镇化率／%</td><td>非农业人口/年末总人口</td><td>+</td><td>0.057 4</td></tr><tr><td></td><td>(0.367 0)</td><td>X4人均耕地面积／hm²·人-1</td><td>年末耕地面积/年末总人口</td><td>+</td><td>0.0791</td></tr><tr><td>地</td><td></td><td>X单位耕地化肥负荷／kg·hm-2</td><td>化肥施用量(折纯)/年末耕地面积</td><td>+</td><td>0.079 1</td></tr><tr><td>生</td><td></td><td>X6耕地地膜负荷／%</td><td>地膜覆盖面积/年末耕地面积</td><td>一</td><td>0.070 6</td></tr><tr><td>态</td><td></td><td>X耕地垦殖率／%</td><td>年末耕地面积/土地总面积</td><td>+</td><td>0.0718</td></tr><tr><td>安</td><td>状态</td><td>X8耕地有效灌溉率／%</td><td>有效灌溉面积/年末耕地面积</td><td>+</td><td>0.078 4</td></tr><tr><td>全</td><td>(0.3542)</td><td>X单位耕地农业机械总动力／kW·hm-2</td><td>农业机械总动力/年末耕地面积</td><td>+</td><td>0.064 6</td></tr><tr><td>综</td><td></td><td>X10受灾面积／hm²</td><td>旱灾、水灾等自然灾害减产一成以上农作物播种面积</td><td>1</td><td>0.0742</td></tr><tr><td>合</td><td></td><td>X人均水资源量／m·人-1</td><td>区域内地表水和地下水总量/年末总人口</td><td>+</td><td>0.065 2</td></tr><tr><td>评</td><td></td><td>X12第一产业比重／%</td><td>第一产业产值/地区生产总值</td><td>+</td><td>0.070 2</td></tr><tr><td>价</td><td>响应</td><td>X13农村人均纯收入/元·人-1</td><td>农村居民人均纯收入水平</td><td>+</td><td>0.059 4</td></tr><tr><td></td><td></td><td>X14地均GDP／元·km-²</td><td>地区生产总值/土地总面积</td><td>+</td><td>0.052 9</td></tr><tr><td></td><td>(0.278 8)</td><td>X15耕地粮食单产／kg·hm-2</td><td>粮食总产量/年末耕地面积</td><td>+</td><td>0.0409</td></tr><tr><td></td><td></td><td>X16耕地压力指数／%</td><td>最小人均耕地面积/实际人均耕地面积</td><td>1</td><td>0.0554</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于耕地生态安全评价尚未有统一标准，参考相关文献，将耕地生态安全划分为5个等级：安全（I级， $F { \\geqslant } 0 . 9$ ）、较安全(ⅡI级 $0 . 6 \\leqslant F < 0 . 9$ ）、临界安全（Ⅲ级， $0 . 5 \\leqslant F < 0 . 6$ ）、较不安全（IV级， $0 . 4 \\leqslant F$ $< 0 . 5 \\AA ^ { \\cdot }$ ）、不安全（V级， $F < 0 . 4 )$ 。从时序特征来看，2000一2016年耕地生态安全时序评价值区间为[0.4466，0.5844」，均小于0.6，处于临界安全或较不安全状态，整体呈波动下滑趋势，说明耕地生态安全形势较为严峻，农业面源污染、土地沙化盐渍化、水资源约束趋紧等问题较为突出。从空间分布来看， $ { \\mathrm { I I I } } ,  { \\mathrm { I V } } ,  { \\mathrm { V } }$ 级均呈集中连片分布,其中 $\\mathrm { \\Delta V }$ 级植棉单元所占比重为 $1 4 . 4 7 \\%$ ,集中分布于南疆的克州和喀什地区;IV级植棉单元所占比重为 $6 9 . 7 4 \\%$ ，集中分布于吐鲁番、哈密、博州、巴州、阿克苏、喀什与和田地区，且南疆区域约占 $56 . 6 0 \\%$ ;III级植棉单元所占比重为 $1 5 . 7 9 \\%$ ,集中分布于天山北坡昌吉、塔城地区。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2棉花种植调减及布局优化",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据PSR模型评价结果，目前植棉单元76个，其耕地面积所占比重约为 $7 8 . 7 1 \\%$ ,该区域的棉花种植面积调减是优化新疆种植业结构的关键。根据《全国种植业结构调整规划（2016—2020)》、《全国农业现代化规划（2016—2020)》，到2020年我国棉花种植面积稳定在 $3 3 3 . 3 3 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ,较2015年减少 $4 6 . 5 3 \\times 1 0 4 ~ \\mathrm { h m } ^ { 2 }$ ,而新疆棉花面积稳定在166.67$\\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 左右，是调减棉花种植面积的主要区域。综合考虑PSR模型评价结果在时序方面的稳定性，选取近5a各单元耕地生态安全评价值，从人口增长、资源环境压力、社会经济发展等方面考虑棉花种植调减及布局优化问题。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "新疆为我国干旱半干旱地带，光热资源丰富，棉花种植一年一季，以2015年自治区棉花种植面积调减指导性计划表和2015年《新疆生产建设兵团统计年鉴》数据为准，新疆棉花种植净面积为267.84$\\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ （地方面积 $1 9 7 . 7 9 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ,兵团面积$7 0 . 0 6 \\times 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 } ;$ ，到2020年棉花调减面积为$1 0 1 . 1 8 \\times 1 0 ^ { 4 } ~ \\mathrm { { h m ^ { 2 } \\mathrm { { \\text O } } } }$ ,以此作为各县市棉花种植面积调减的约束条件。在指标层权重方面，PSR模型综合考虑压力、状态、响应三方面因素，选取人均耕地面积、耕地化肥地膜负荷、耕地垦殖率、有效灌溉面积、农村人均纯收入、耕地压力指数等16项指标，对各指标赋予不同权重，测算各县市耕地生态安全评价值，评价结果考虑了经济、社会、资源、环境等多方面因素对耕地的综合影响，可将其作为棉花种植面积调减的科学依据。PSR综合评价结果反映了耕地生态安全的严重程度，将 $( 1 - F )$ 作为调减面积的权重。将各县市棉花播种净面积与耕地生态安全值$( 1 - F )$ 相乘，得出各单元棉花调减理论值，加总后的理论调减面积为 $1 4 5 . 2 7 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ,该理论值高于调减面积目标值。因此，将目标值作为约束条件，得出调减权重为0.6965。将调减权重与棉花调减理论值相乘得出新疆各县市棉花调减面积（表3）。此外，新疆棉花种植面积调减和布局优化并非一蹴而就，各地区的调减面积为5a总目标，可以按照$3 5 \\%$ $30 \\%$ ） $20 \\%$ 、 $10 \\%$ 和 $5 \\%$ 的比例分年度对各地区制定指导计划进行科学调减,并在水资源管理、土地利用、技术扶持和替代性作物选择等方面进行相应制度约束和政策扶持。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/13a6fe5fe1a86024da1ce7c84449578926f7ae3925192935471209885156dd01.jpg",
+        "table_caption": [
+            "表32020年新疆各县市棉花种植调减面积／hm",
+            "Tab.3Reduced sown areas of cotton by county in Xinjiang ／hm² "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地区</td><td>调减面积</td><td>地区</td><td>调减面积</td><td>地区</td><td>调减面积</td><td>地区</td><td>调减面积</td></tr><tr><td>乌鲁木齐市</td><td>1 083.90</td><td>托里县</td><td>148.94</td><td>乌什县</td><td>441.60</td><td>墨玉县</td><td>4 913.34</td></tr><tr><td>克拉玛依市</td><td>3 205.66</td><td>和布克赛尔蒙古自治县 1017.47</td><td></td><td>阿瓦提县</td><td>40 490.63</td><td>皮山县</td><td>2 242.29</td></tr><tr><td>吐鲁番市</td><td>2 673.45</td><td>博乐市</td><td>12 714.95</td><td>柯坪县</td><td>3 656.11</td><td>洛浦县</td><td>930.96</td></tr><tr><td>鄯善县</td><td>2 573.10</td><td>精河县</td><td>28 782.44</td><td>阿图什市</td><td>2 426.56</td><td>策勒县</td><td>1 200.71</td></tr><tr><td>托克逊县</td><td>6 086.06</td><td>库尔勒市</td><td>42 258.23</td><td>阿克陶县</td><td>3 095.22</td><td>于田县</td><td>2 764.08</td></tr><tr><td>哈密市</td><td>12 371.36</td><td>轮台县</td><td>31 217.06</td><td>喀什市</td><td>7 043.93</td><td>民丰县</td><td>12.33</td></tr><tr><td>巴里坤哈萨克自治县</td><td>64.80</td><td>尉犁县</td><td>25 945.84</td><td>疏附县</td><td>5 556.94</td><td>一师(阿拉尔市)</td><td>50 528.26</td></tr><tr><td>伊吾县</td><td>4.07</td><td>若羌县</td><td>1 091.41</td><td>疏勒县</td><td>22 541.96</td><td>二师(铁门关市)</td><td>16 270.93</td></tr><tr><td>昌吉市</td><td>12 180.97</td><td>且末县</td><td>6 025.81</td><td>英吉沙县</td><td>8 119.36</td><td>三师(图木舒克市)</td><td>22 050.15</td></tr><tr><td>阜康市</td><td>730.44</td><td>焉耆回族自治县</td><td>1 530.86</td><td>泽普县</td><td>6 059.35</td><td>四师(可克达拉市)</td><td>4122.04</td></tr><tr><td>呼图壁县</td><td>18 468.81</td><td>和静县</td><td>1 011.89</td><td>莎车县</td><td>39 490.34</td><td>五师(双河市)</td><td>15 682.18</td></tr><tr><td>玛纳斯县</td><td>15 039.71</td><td>和硕县</td><td>7 639.93</td><td>叶城县</td><td>10 108.74</td><td>六师(五家渠市)</td><td>28 354.97</td></tr><tr><td>吉木萨尔县</td><td>14.99</td><td>博湖县</td><td>1 758.93</td><td>麦盖提县</td><td>22 417.97</td><td>七师</td><td>31 895.57</td></tr><tr><td>奎屯市</td><td>2 606.13</td><td>阿克苏市</td><td>25 609.92</td><td>岳普湖县</td><td>17 726.96</td><td>八师(石河子市)</td><td>68 124.97</td></tr><tr><td>伊宁县</td><td>3.74</td><td>温宿县</td><td>19 219.86</td><td>伽师县</td><td>39 891.81</td><td>十师(北屯市)</td><td>2 055.02</td></tr><tr><td>察布查尔锡伯自治县</td><td>1020.75</td><td>库车县</td><td>47 604.79</td><td>巴楚县</td><td>39 077.08</td><td>十一师</td><td>70.57</td></tr><tr><td>霍城县</td><td>814.47</td><td>沙雅县</td><td>48 667.56</td><td>塔什库尔干塔吉克自治县</td><td>115.54</td><td>十二师</td><td>130.46</td></tr><tr><td>乌苏市</td><td>41 217.99</td><td>新和县</td><td>25 384.28</td><td>和田市</td><td>685.19</td><td>十三师</td><td>5 471.19</td></tr><tr><td>沙湾县</td><td>33 553.01</td><td>拜城县</td><td>154.12</td><td>和田县</td><td>4 133.77</td><td>十四师(昆玉市)</td><td>367.21</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "结合局域LISA集聚图和PSR模型评价结果来看，虽然南北疆地区均有棉花主产区，但是南疆植棉区耕地生态安全形势更为严峻，耕地生态服务功能已经开始退化，因此南疆地区是棉花面积调减的主要地区，调减面积占总调减面积 $6 0 \\%$ 以上。南疆地区种植业结构相对单一且基数较大，农业灌溉用水占用水总量比例高达 $9 7 . 0 5 \\%$ ，而 $9 3 \\%$ 的水资源则主要分布在新疆西北部地区，水资源空间分布严重失衡带来的资源约束、农业面源污染、土壤次生盐碱化等问题，迫使南疆部分风险棉区、次宜棉区、低产棉区逐步退出棉花种植。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5 结论与启示",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文利用2000—2015年数据,运用空间自相关、生产贡献度和PSR模型，分析新疆棉花生产格局变化及增产贡献因素，根据耕地生态安全评价结果测算各地区棉花种植调减面积,为新疆棉花生产空间布局优化和结构调整提供决策依据，结论如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）新疆棉花生产空间格局发生显著变化，总产量从南北两侧向天山南北逐渐递增，形成天山北坡和南坡主产区，“南增北减”趋势增强；棉花单产高值区由点及面向天山南北两侧扩张，形成多个集中连片高产中心。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）新疆棉花生产呈现一定的空间自相关性，植棉区存在空间集聚效应，在时序上表现出持续的稳定性;高值聚集区集中连片分布于南疆区域，进一步向叶尔羌河一塔里木河流域灌溉农业区集中，低值聚集区空间范围显著缩小。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）2000—2015年，新疆棉花增产主要归因于播种面积的持续扩大，其次是单产水平的提高，而种植结构调整贡献率较小，但存在较大调整空间。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（4）PSR模型评价结果显示，新疆耕地生态安全评价值均小于0.6，为临界安全或较不安全状态，整体呈波动下滑趋势,耕地生态安全形势较为严峻;从空间分布来看，IⅢI、 $ { \\mathrm { I V } } ,  { \\mathrm { V } }$ 级植棉单元所占比重分别为 $1 5 . 7 9 \\%$ （ ${ \\it 6 9 . 7 4 \\% }$ 和 $1 4 . 4 7 \\%$ ,均呈集中连片分布。到2020年新疆棉花种植调减面积为 $1 0 1 . 1 7 \\times$ $1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ,结合PST 模型综合评价结果,测算出各县市棉花种植面积的理论调减值，从空间格局看，南疆地区的调减力度大于北疆，占总调减面积 $6 0 \\%$ 以上，部分风险棉区、次宜棉区和低产棉区逐步退出棉花种植。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "棉花种植面积调减是新疆农业种植结构调整的重要举措，本研究对优化新疆棉花生产布局提出如下建议：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）棉花种植面积的调减是一项系统工程，需要相关制度约束有序调减。一方面落实严格的水资源管理制度，实行差异化农业水价政策，细化农业节水、退地减水措施程序和标准，实行总量控制和定额管理，建立节水奖励和精准补贴机制，增强农户节水意识，并与绩效考核挂钩；另一方面，实施土地利用使用制度，对无证开发土地种植棉花不予发放种植证明，与棉花目标价格补贴政策挂钩。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）水资源短缺是绿洲农业发展的最大瓶颈，在高产棉区加强集中连片、旱涝保收、稳定高产和生态友好的高标准棉田建设，改造中低产田，提高耕地质量，加强节水滴灌、水肥一体等农业技术推广，提高农业灌溉用水效率。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）棉花种植结构调整退出的耕地应根据当地社会、经济、资源环境条件，用于退棉还草还粮、改种蔬果和特色经济作物、休耕轮作和生态型复合种植等方面，其中粮食种植以小麦、玉米、小杂粮为主，饲草料种植以苜蓿、青贮玉米为主，加工辣椒、加工番茄、瓜果、蔬菜等特色经济作物则结合地区优势各有侧重。在保护耕地生态安全的基础上，对改种其他作物农户，将农业用水配置和农户种植意愿相结合，选择相对效益较高的替代作物，对完全退出耕地农户，则要考虑生计替代和合理的利益补偿问题。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]张杰,王力,赵新民.我国棉花产业的困境与出路[J].农业经 济问题,2014,（9）:28-34.[ZHANG Jie,WANGLi,ZHAO Xinming.The current plight and solutions of China’s cotton industry [J].Issues in Agricultural Economy[J]. 2014,(9）:28-34.]   \n[2］王千,金晓斌,周寅康,等.河北省耕地生态经济系统能值指标 空间分布差异及其动因[J].生态学报,2011,31（1)：247- 256.[WANG Qian,JIN Xiaobin,ZHOU Yinkang,et al. Spatial differences and its driving factors of energy indicators on cultivated land eco-economic system in Hebei Province[J].Acta Ecologica Sinica,2011,31(1):247 -256.]   \n[3］任平,洪步庭,周介铭.长江上游农业主产区耕地生态安全评 价与空间特征研究［J].中国人口·资源与环境,2013,23 (12）:65-69.[REN Ping,HONG Buting,ZHOU Jieming. Study on ecological security evaluation and spatial characteristics of cultivated land of agricultural production area in the upper Yangtze River[J]. China Population,Resources and Environment,2013,23 (12) :65-69.]   \n[4]赵振勇,乔木,吴世新,等.新疆耕地资源安全问题及保护策略 [J].干旱区地理,2010,33(6）:1019-1025.[ZHAO Zhenyong, QIAO $\\mathrm { \\Delta \\ m u }$ ,WU Shixin,et al. Cultivated land resources security of oases and its conservation strategies in Xinjiang[J].Arid Land Geography,2010,33(6):1019-1025.]   \n[5］朱会义.1980 年以来中国棉花生产向新疆集中的主要原因 [J].地理研究,2013,32（4）:744-754.［ZHU Huiyi.The underlying cause for the concentration of China's cottn production in Xinjiang[J].Geographical Research,2013,32(4）:744 -754.]   \n[6］李先东,米巧,余国新.中国棉花主产区成本收益特征与演变 轨迹[J].干旱区资源与环境,2016,30(6)：13-18.［LI Xiandong,MI Qiao,YU Guoxin. Cost-benefit characteristics and evolution for China’s major cotton producing areas[J]. Journal of Arid Land Resources and Environment,2016,30(6）:13 -18.]   \n[7］揭懋汕,雪燕,薛领.县域棉花生产格局时空演化及影响因素 [J].首都经济贸易大学学报,2015,17(6）:46-53.[JIE Maoshan,XUE Yan,XUE Ling.The spatial and temporal evolution of the distribution of coton production and its influencing factors at county level in China[J].Journal of Capital University of Economics and Business,2015,17(6):46 -53.]   \n[8］朱启荣.中国棉花主产区生产布局分析[J].中国农村经济, 2009,(4）:31-38.[ZHU Qirong.The main producing areas and distribution of coton in China[J].Chinese Rural Economy,2009, (4):31-38.]   \n[9］揭懋汕,雪燕,薛领.我国棉花生产的空间格局演化及集聚因 素分析[J].农业现代化研究,2015,36（3）：387－393.［JIE Maoshan,XUE Yan,XUE Ling.Study on cotton production's spatial distribution,changes and influencing factors in China[J].Research of Agricultural Modernization,2015,36(3） :387-393.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[10」潘学标.基于GIS的中国县域棉花生产空间分布与变异研究",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[J].中国农业科学,2003,36（4）:382-386.[PANXuebiao. Study on the spatial distribution and variation of coton production in counties of China based on GIS[J].Scientia Agricultura Sinica, 2003,36(4) :382 -386.]   \n[11］吴大放,刘艳艳,刘毅华,等.耕地生态安全评价研究展望[J]. 中国生态农业学报,2015,23（3）:257-267.[WU Dafang,LIU Yanyan,LIU Yihua，et al.Progress on ecological security evaluation of cultivated land[J].Chinese Journal of Eco-Agriculture, 2015,23(3) :257 - 267.]   \n[12］郑华伟,张锐,孟展,等.基于PSR 模型与集对分析的耕地生态 安全诊断[J].中国土地科学,2015,29（12）：42-50.[ZHENG Huawei,ZHANG Rui,MENG Zhan,et al.Diagnosis on cultivated land ecological security based on the PSR model and set pair analysis[J]. China Land Sciences,2015,29(12）:42-50.]   \n[13］赵宏波,马延吉.东北粮食主产区耕地生态安全的时空格局及 障碍因子—以吉林省为例[J].应用生态学报,2014,25（2）： 515-524.[ZHAO Hongbo,MA Yanji. Spatial-temporal pattern and obstacle factors of cultivated land ecological security in major grain producing areas of northeast of China:A case study in Jilin Province[J].Chinese Journal of Applied Ecology,2014,25（2）: 515 -524. ]   \n[14］张锐,郑华伟,刘友兆.基于PSR 模型的耕地生态安全物元分 析评价［J].生态学报,2013,33（16）：5090-5100.［ZHANG Rui,ZHENG Huawei,LIU Youzhao.Evaluationon cultivated land ecological security based on the PSR model and matter element analysis[J].Acta Ecologica Sinica,2013,33（16）: 5090- 5100.]   \n[15］黄晓东,蒲春玲,宋建华,等.基于突变理论的新疆耕地生态安 全评价[J].天津农业科学,2015,21（12）:68－72.[HUANG Xiaodong,PU Chunling,SONG Jianhua,et al.Ecological security assessment on cultivated land of Xinjiang based on catastrophe theory[J]. Tianjin Agricultural Sciences,2015,21(12）:68-72.]   \n[16］陈玉洁,张平宇,刘世薇,等.东北西部粮食生产时空格局变化 及优化布局研究［J].地理科学,2016,36（9）：1397－1407. [CHEN Yujie,ZHANG Pingyu,LIU Shiwei,et al. The spatio-temporal pattrn change and optimum layout of grain production in the west of northeast China[J]. Scientia Geographica Sinica,2016,36 (9) :1397 -1407.]   \n[17］乌云嘎，聂艳，罗毅,等.湖北耕地生态安全时空演变特征研究 [J].江汉大学学报（自然科学版）,2015,43（4）:317－322. [WU Yunga,NIE Yan,LUO Yi,et al. Spatio-temporal variation characteristic of cultivated land ecological security in Hubei Province[J]. Journal of Jianghan Univ（Nat Sci Ed）,2015,43（4）： 317 -322.]   \n[18］王千,金晓斌,周寅康.河北省耕地生态安全及空间集聚格局 [J].农业工程学报,2011,27（8）:338-344.[WANG Qian,JIN Xiaobin,ZHOU Yinkang. Cultivated land ecological security and spatial aggregation pattern in Hebei Province[J].Transactions of the CSAE,2011,27(8):338 -344.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Optimization of the distribution of cotton production in Xinjiang under the view of cultivated land ecological security ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "WANG Jing1,2，XIAO Hai-feng' (1College of Economics and Management,China Agricultural University,Beijing 1O083,China; 2College of Economics and Management,Tarim University,Aral 8433oo,Xinjiang,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Besides grain，cotton is the most importantagricultural products and strategic supplies,with the longest industrial chainand the highest industrial relevancy in China.Thecultivated land,as the mostvaluable farming resources,plays acrucial part in coton production.Xinjiang is the largest coton-producing area in China,which owns a particular climate conditionand geographical advantages,suchas temperatureand light.However,with theunordered expansion of coton acreage,the problems of scarcityof cultivated land and deterioration of ecological environment have become more and more prominent in recent years.This paper analyzed the spatial-temporal patern,contributionfactors,evaluationof cultivated land ecological security aboutthe cotonproduction in Xinjiang Province, by using agricultural production statistic data from 2OoO to 2O15.The methods of the spatial auto-correlation,production contributionand PSR model were implemented in this studyand finally the theoreticallyreducing cotton sown area at county level was generated.The results indicated that the spatial pattrn of coton production has been significantly changed since 2Oo,the main coton-production areas had been formed in northern and southern slopes of Tianshan,the trend of“increase in south and decrease in north”was significant,the high value zone of per unit yield was expanded to both sidesof Tianshan,which formed the concentrated high-value center；the coton production displayed certain spatial clustering efect；the high value clusters with continuous stabilitywere mainlydistributed in south Xinjiang；the factor of total sown areas,ratherthan theper unit yield and structural adjustment,had significant impacton cotton productioncontribution rate from 2OOO to 2O15.Theevaluation result of cultivated land ecological security was lessthanO.6,which meant a critical safety or lesssafety state.The proportionof type IV (the less safety type） and type V（unsafety type） was $8 4 . 2 1 \\%$ ,and the regions of these two types were concentrated distribution. The total theoretic reducing cotton sown area in Xinjiang was $1 0 1 . 1 7 6 \\times 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ ,and the regions of reducing sown area were mainly distributed in south Xinjiang,which accounted for more than $60 \\%$ of the total area. Based onthe analysis,the institutional restraintof water resources and land management,theeficiencyof agricultural irrgation waterand alternative crops plantation should be taken fully intoaccount inorder to improvecultivated land ecological security. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words：coton production；cultivated land ecological security；spatial auto-correlation；production contribu-tion rate； PSR model； Xinjiang",
+        "page_idx": 10
+    }
+]

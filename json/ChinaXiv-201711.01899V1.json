@@ -1,0 +1,771 @@
+[
+    {
+        "type": "text",
+        "text": "A synopsis of Paleocene stratigraphy and vertebrate paleontology in the Qianshan Basin, Anhui, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Yuan-Qing' LI Chuan-Kui' LI Qian' LI Ding-Sheng (1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontologyand Paleoanthropology,ChineseAcademy ofSciences Beijingl0oo44 wangyuanqing@ivpp.ac.cn) (2Qianshan County Museum Qianshan,Anhui 246300) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract The Mesozoic and Cenozoic redbeds in the Qianshan Basin comprise a set of monocline clastic rocks and are subdivided into the Late Cretaceous Gaohebu Formation,the Paleocene Wanghudun Formation (including the Lower, Middle,and Upper members)and Doumu Formation (including the Lower and Upper members). Continuous investigations in the Qianshan Basin since 1970 have resulted in discovery of a lot of vertebrate specimens. Up to date,6l species (including 9 unnamed ones) in 45 genera of vertebrates,representing reptiles, birds and mammals, have been reported from the Paleocene of the Qianshan Basin.Among them, mammals are most diverse and have been classified into 46 species (7 unnamed) of 33 genera,representing 16 families in 10 orders.According to their stratigraphic occurrence,seven fossiliferous horizons can be recognized in the Qianshan Paleocene.Based on the evidence of mammalian biostratigraphy,the strata from the Lower Member through the lower part of the Upper Member of Wanghudun Formation could be roughly correlated to the Shanghu Formation of the Nanxiong Basin (Guangdong Province) and the Shizikou Formation of the Chijiang Basin (Jiangxi Province),corresponding to the Shanghuan Asian Land Mammal Age (ALMA). Both the upper part of the Upper Member of Wanghudun Formation and the Doumu Formation could be correlated to the Nongshan Formation of the Nanxiong Basin and the Chijiang Formation of the Chijiang Basin,corresponding to the Nongshanian ALMA.Paleomagnetic results from several Chinese Paleocene basins suggest that the Shanghuan is roughly correlative to the Puercan and Torrejonian North American Land Mammal Ages (NALMA),while the Nongshanian correlative to the early to middle Tiffanian (Til-4a).The Shanghuan and the Nongshanian are probably correlated to the Danian and the Selandian of the Global Geologic Time Scale.Therefore,allthe fossil vertebrates collected in the Qianshan Basin are the Early and Middle Paleocene in age. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words Qianshan,Anhui; Paleocene; vertebrates; stratigraphy; correlation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Qianshan Basin,located in southwestern Anhui Province, China,is a small foreland basin on the east side of the Dabie Mountains,and comprises parts of Qianshan, Tongcheng, Taihu,Huaining, Zongyang and Lujiang counties (Chen,1974). The basin, with northeastly extension, is about $1 0 0 ~ \\mathrm { k m }$ long in east-west direction and no more than $2 5 ~ \\mathrm { k m }$ in northsouth direction. It is bordered by a fault northwestward with the mountainous area formed by metabolic rocks and is fulfilled by the Late Cretaceous-Paleocene fluvio-lacustrine deposits that are mainly reddish colored clastic rocks. In 195Os when the nation-wide geological survey was initiated in China, the Hefei University of Technology carried out the first investigation to the Mesozoic and Cenozoic deposits in the Qianshan Basin. Later in 196Os when they carried out geological mapping in this area, the geologists of the Geological Survey Team No. 311 of the Bureau of Geology and Mineral Resources of Anhui Province first found Paleocene vertebrates at Dinghuawu, Xiaoshi, Huaining County in 1966 (RGSBGA,1988b). These fossil vertebrates were later identified as a turtle Anhuichelys siaoshihensis Yeh (1979) and an alligatorid Eoalligator huiningensis Young (1982). Such discovery attracted great attention of researchers from the Institute of Vertebrate Paleontology and Paleoanthropology (IVPP), the Chinese Academy of Sciences,Beijing. With the assistance of colleagues of the Geological Survey Team No.311, the Qianshan County Museum ( $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ former the Administrative Office of Cultural Relics of Qianshan County),and recently the Tianzhushan Global Geopark, the IVPP colleagues carried out a long term investigation that has continuously been lasting nearly half a century since 1970. Up to date,61 species (including 9 unnamed ones) in 45 genera of Paleocene vertebrates, representing reptiles, birds and mammals, have been reported at 42 localities in the Qianshan Basin. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Stratigraphy ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Paleocene deposits in the Qianshan Basin was first investigated by a group from the Hefei University of Technology in $1 9 5 0 ^ { \\circ } \\mathrm { s } ^ { \\mathrm { 1 ) } }$ . They first mentioned the presence of possible Paleogene deposits,though the age determination was inferred on the basis of the nature of sedimentary rocks.The Regional Geological Survey Team No. 31l of the Bureau of Geology of Anhui Province first provided a systematic subdivision of the Paleocene in the Qianshan Basin in a report accomplished in 1970,which was later informally published (Chen,1974). Chen and Xia (l981) formally published the section measured by the geological survey team with some revisions. Their section is as follows: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Wanghudun Section in the Qianshan County   \nDoumu Formation   \n14.Purplish red and very thick matrix-supported conglomerats intercalated with coarse sandstone 184.68 m   \n13. Grayish purple thick matrix-supported conglomerates intercalated with medium-coarse sandstone 140.22 m   \n12.Purplish red and thick matrix-supported conglomerates interbedded with purplish red coarse sandstone,containing fossil vertebrates: Sinostylops promissus Tang & Yan, Archaeolambda tabiensis Haung,Heomys orientalis Li,Mimotona wana Li, Hsuiannania sp.,Tinosaurus doumuensis Hou,Anhuisaurus huainanensis Hou 117.78 m   \n11.Purplish red and thick conglomerate-containing medium-coarse sandstone intercalated with a few thin layers of grayish white arkose 102.58 m   \n10.Purplish red and thick medium-coarse sandstone interbedded with conglomerates and shales,containing fossil vertebrates: Allictops inserrata Qiu, Hsiuannania tabiensis Xu, Mimotona robusta Li, Obtususdon hanhuaensis Xu, Agama sinensis Hou, Anhuicheleys tsienshanensis Yeh 76.12 m   \nWanghudun Formation   \n9.Purplish red and thick medium-fine sandstone intercalated with dark purple muddy shales and few thick conglomerates 157.32 m   \n8. Covered 307.08 m   \n7.Fresh purplish red and thick fine sandstone intercalated with thin arkose 179.4 m   \n6.Grayish purple thin to medium thick conglomerates and coarse sandstone interbedded with purplish red fine sandstone,rich in fossil vertebrates: Anictops tabiepedis Qiu, Decoredon elongetus Xu, Diacronus anhuiensis Xu, D.wanghuensis Xu, Huaiyangale chianshanensis Xu, Harpyodus euros Chiu & Li, Mimotona wana Li, Mimotona sp., Obtusudon hanhuaensis Xu,Paranictops majuscula Qiu,Pappictidops orientalis Chiu & Li, Zeuctherium niteles Tang & Yan, Heomys sp., Qianshanosaurus huangpuensis Hou $2 8 7 \\mathrm { m }$ （204   \nHaixingdi Formation   \n5. Purplish red thick medium-fine sandstone interbedded with fine muddy sandstone, intercalated with white arkose and thin conglomerates,containing fossil vertebrates: Bemalambda sp. Yantanglestes convexus Yen & Tang 496.4 m   \n4. Covered （204号 $2 7 . 2 4 \\mathrm { m }$ （204号   \n3.Fresh purplish red thick fine sandstone,intercalated with grayish white thin feldspar and quartz sandstone,containing fossil vertebrates: Anictops tabiepedis Qiu,Anchilestes Chiu & Li, Anaptogale wanghoensis Xu, Bemalambda sp., Wanogale hodungensis Xu, Chianshania gianghuaiensis Xu, Anqingosaurus breviocephalus Hou 418.52 m   \n2.Purplish red medium-thick coarse sandstone interbedded with thin to medium-thick conglomerates $8 3 . 6 \\mathrm { ~ m ~ }$ （20   \n1. Brick red thick blocky fine sandstone,containing fossil vertebrates: primitive pantodont and lizards 268.92 m conformity ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Qiu et al.(1977) redefined the Wanghudun and Doumu formations based on the investigation of the IVPP field crew. According to Qiu et al. (1977), the Wanghudun Formation, which is about $1 8 0 0 \\mathrm { ~ m ~ }$ thick,overlies the Cretaceous Wanghe Formation (see discussion below)and was subdivided into the Lower, Middle,and Upper members. The Lower Member is composed of purplish red medium-fine sandstone intercalated with conglomerates and grayish white arkose sandstone. The Middle Member consists of mainly interbedded purplish red conglomerates,coarse sandstone, and fine sandstone. No fossil mammals have been recorded from this member. The Upper Member is the most fossiliferous unit in the formation, comprising purplish and brownish red fine sandstone intercalated with grayish white arkose sandstone.The Doumu Formation disconformably or conformably overlies the Wanghudun Formation and is about $6 0 0 \\mathrm { ~ m ~ }$ in total thickness.The lower part of the formation, the Lower Member, comprises thick, purplish red medium-fine sandstone intercalated with thin conglomerates and silty mudstone, while its upper part, the Upper Member, is composed of mainly interbedded thick conglomerates and sandstone (Qiu et al.,1977). Such subdivision has been widely accepted for Paleocene strata in the Qianshan Basin (e.g. Zheng and Qiu, 1979; Chow and Zheng,1980; Li and Ting,1983; Russell and Zhai, 1987; Wang et al.,1998). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "What should be noted here is the correlation between Chen and Xia's (1981) and Qiu et al.'s (1977) subdivisions. The Lower and Middle members of Wanghudun Formation in Qiu et al.'s subdivision are roughly correlated to the Chen and Xia's Haixingdi Formation,while the Middle Member of Wanghudun Formation roughly corresponds to the upper part of Chen and Xia's Layer 5. The boundary between the Wanghudun Formation and the Doumu Formation of Qiu et al.'s subdivision is roughly located between layers 8 and 9 in Chen and Xia's. Qiu et al. (1977)adopted the Wanghe Formation from an unpublished data of the local geological survey team and used it for the underlying Late Cretaceous deposits.Later, the deposits equivalent to the Wanghe Formation was named Gaohebu Formation based on a new section with better exposures2 and the name was cited in some publications (e.g. Chen and Xia,1981; RGSBGA, 1988a). Here we suggest to replace the Wanghe Formation with the Gaohebu Formation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3Localities of fossil vertebrates ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Paleocene deposits in the Qianshan Basin have produced a lot of fossil vertebrates at many localities.Forty two localities have been recorded in formally published references (Fig.1). According to their stratigraphic position, these localities can be grouped in seven fossiliferous horizons recognized in the Qianshan Basin. Five of the horizons are in the Wanghudun Formation and the other two are in the Doumu Formation.The localities and fosil vertebrates therefrom are listed as follows (the original locality numbers are in brackets): ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bd7f768137e24606c64fcedb30f9d7df472b07da2174e103ffaefa03232968d.jpg",
+        "img_caption": [
+            "Fig.1Localities of Paleocene vertebrates in the Qianshan Basin,Anhui Province, China A.A sketch map showing the general location of Anhui Province (shaded) in China; B.A map of Anhui Province showing the location of boxes Cand D; C,D.More detailed maps showing the Paleocene vertebrate localities in the Qianshan Basin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Open symbols refer to the Shanghuan localities,while solid ones for the Nongshanian localities.Triangles and circles refer to the localities in the Wanghudun and the Doumu formations,respectively.   \n1. Haixingdi (71002); 2.Fanglaowu (71003);3.Wangdawu (71001); 4.Wanhuawu (71005); 5. Chidoukan (71006);6.Dingxiawu （70020)；7. Zhangchong;8. Sanliantang（70023); 9. Zhongjialaowu;10.Taowu (70022);11.Yangwu Southwest (71014);12. Yangwu West (71019); 13.Lijialaowu (70021);14.Shangxialou (71016); 15. Zhangjiawu Southwest (71010); 16. Zhangjiawu South (71008); 17. Zhangjiawu Southeast (71011);18. Zhangjiawu East （71009);19. Zhangxinwu （71007);20.Wanghudun Northeast; 21.Chenxiawu (71012); 22.Lianhuatang Southeast; 23.Lianhuatang;24.Fujiashanzui; 25.Xudawu South; 26. Xudawu; 27. Hanhuawu South (71079); 28.Hanhuawu West (71020); 29.Hanxindongwu (71015); 30.Hanjiashanbao; 31. Chongliwu (71018); 32. Zhugongtang West; 33. Meiyuan; 34. Yangxiaowu (71017); 35. Yangxinwu (71071); 36.Dinghuawu (71080); 37. Chenjiachuanmenkou; 38. Mao'an (71075);39.Jinshi; 40.Wangjiazha; 41. Huanghetang Reservoir; 42. Yanglaowu ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) Localities in the basal part of the Lower Member of Wanghudun Formation Two localities are in this horizon, and represent the lowest vertebrate-bearing bed in the Qianshan Paleocene. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Haixingdi (71oo2): Bemalambdidae gen. et sp.indet.,Qianshanosaurus huangpuensis Hou,1974 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fanglaowu (71003): Astigale wanensis Zhang & Tong,1981,Benaius qianshuiensis Wang & Jin,2004 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) Localities in the middle part of the Lower Member of Wanghudun Formation Three localities are included in this horizon. Two of them, Wangdawu and Wanhuawu,   \nare close to the main section, their inclusion is thus credible.Another locality, Dinghuahu, is   \nsomewhat far from the main section. Its geographic position and lithologic feature show the   \npossibility in correlation with the other two localities. Wangdawu (710o1): Wanogale hodungensis Xu, 1976, Chianshania gianghuaiensis Xu, 1976, Anaptogale wanghoensis Xu,1976,Anictops tabiepedis Qiu, 1977,Anchilestes impolitus Chiu & Li,1977, Plethorodon chienshanensis Huang & Zheng, 1987, Bemalambda sp., Anqingosaurus brevicephalus Hou,1976,Changjiangosaurus huananensis Hou,1976 Wanhuawu (71005): Cartictops canina Ding & Tong, 1979 Dinghuawu (71080):Anhuichelys siaoshihensis Yeh,1979,Eoalligator huiningensis Young,1982 (3)Localities in the upper part of the Lower Member of Wanghudun Formation Only one locality with fossil vertebrates reported can be referred to this horizon. Chidoukan (71006): Yantanglestes conexus (Yan & Tang,1976), Bemalambda sp., Cartictops canina Ding & Tong,1979 (4) Localities in the lower part of the Upper Member of Wanghudun Formation This horizon is most fossiliferous in the Qianshan Paleocene.A number of localities were   \ndiscovered in the horizon.Allthe localities are near the main section,and their inclusion in the   \nhorizon is fairly certain. Lijialaowu (70021): Anictops tabiepedis Qiu,1977,A.wanghudunensis Zheng et al.,1999,Pappictidops orientalis Chiu &Li,1977,Qianshanosaurus huangpuensis Hou,1974,Qianshanornis rapax Mayr et al., 2013 Zhangxinwu (71007): Anictops tabiepedis Qiu, 1977 Wanghudun Northeast:Paranictops aff.P.maiuscula Dingxiawu (70o20): Huaiyangale chianshanensis Xu,1976, Huaiyangale sp.,Anictops tabiepedis Qiu, 1977, Obtususdon hanhuaensis Xu,1977 Zhangjiawu East (71009): Huaiyangale chianshanensis Xu,1976,Diacronus anhuiensis Xu,1976, Anictops tabiepedis Qiu, 1977, Zeuctherium niteles Tang & Yan, l976,Decoredon elongetus Xu, 1977,Anhuichelys siaoshihensis Yeh,1979 Zhangjiawu Southeast (71011): Anictops tabiepedis Qiu,1977 Zhangjiawu South (71008): Anictops tabiepedis Qiu,1977,Mimotona li Dashzeveg & Russell1988, Pappictidops orientalis Chiu&Li,1977 Zhangjiawu Southwest (71010): Paranictops maiuscula Qiu, 1977, Heomys sp. Shangxialou (71016): Diacronus wanghuensis Xu,1976,Anictops tabiepedis Qiu,1977,Mimotona ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "wanaLi,1977,?Altilambda tenuis Chow&Wang,1978 Chenxiawu (71012): Anictops tabiepedis Qiu,1977,Harpyodus euros Chiu &Li,1977 Zhangchong:Anhuichelys siaoshihensis Yeh,1979 Yangwu Southwest (71014): ?Paranictops sp. Yangwu West (71019): Anictops tabiepedis Qiu,1977 Taowu (70022): Anictops tabiepedis Qiu,1977,Anictops afA.tabiepedis,Paranictops majuscula Qiu, 1977 Sanliantang (70023): Wania chowi Wang,1995,Bemalambda sp.cf.B.crassa Chow et al.,1973 Zhongjialaowu: Archaeoryctes wangi Missiaen et al., 2013 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(5)Localities in the upper part of the Upper Member of Wanghudun Formation ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Eight localities are included in this horizon. Four of them, Fujiashanzui, Lianhuatang Southeast, Lianhuatang,and Xudawu South,are close to the main section and can be referred to the horizon with certainty. However, the other four localities, Chenjiachuanmenkou, Mao'an, Jinshi,and Wangjiazha,are less certain to be included in the horizon,because they are in some distance from the main section. They are referred to the horizon mainly based on the biostratigraphic data. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fujiashanzui: Eosigale yujingensis Hu,1993,Mina hui Li etal.,2016,Anhuichelys tsienshanensis Yeh,   \n1979   \nLianhuatang Southeast: Simplodon qianshanensis Huang & Zheng,2003   \nLianhuatang:Anhuichelys tsienshanensis Yeh,1979   \nXudawu South: Qipania yui Hu, 1993   \nChenjiachuanmenkou: Altilambda yujingensis Wang etal.,1992   \nMao'an (71075):Altilambda pactus Chow & Wang,1978   \nJinshi:Anhuichelys tsienshanensis Yeh,1979   \nWangjiazha:Anhuichelystsienshanensis Yeh,1979   \n(6) Localities in the Lower Member of Doumu Formation ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Among the fossil localities listed below,the first five can be included in the horizon with certainty, since they are near the main section. The last one is tentatively included in the horizon, mainly based on the lithological features,because the only reported vertebrate fossil is a calcaneus of Glires that cannot be currently identified at lower taxonomic level (Zhang et al., 2016). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Xudawu:Anhuichelys tsienshanensis Yeh,1979 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hanhuawu South (71079): Hsiuannania tabiensis Xu,1976,Allictops inserrata Qiu,1977,Mimotona robusta Li,1977,Obtususdon hanhuaensis Xu,1977,Agama sinensis Hou,1974,Anhuichelys tsienshanensis Yeh,1979   \nHanxindongwu (71015):Allictops inserrata Qiu,1977   \nHanhuawu West(7102O):Anhuichelys tsienshanensis Yeh,1979   \nHanjiashanbao:Anhuichelys tsienshanensis Yeh,1979   \nHuanghetang Reservoir: Glires gen. et sp. indet. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(7)Localities in the Upper Member ofDoumu Formation ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Among the six localities listed below, only Yanglaowu is not near the main section. The lithology of the deposits and fossil turtle together with the geographic location clearly show that it should be in this horizon. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Yangxiaowu (71017): Hsiuannania sp., Heomys orientalis Li, 197, Mimotona wana Li,1977, Hyracolestes ermineus Mathew& Granger,1925,Wanolestes lii Huang& Zheng,2002,Sinostylops promissus Tang & Yan,1976,Archaeolambda tabiensis Huang,1977,Anhuisaurus huainanensis Hou,1974,Varaniformes gen. et sp.indet.,Anhuichelys tsienshanensis Yeh,1979,A.doumuensis Tong et al., 2016   \nChongliwu (71o18): Tinosaurus doumuensis Hou, 1974   \nYangxinwu (71O71): Anhuichelys doumuensis Tong et al., 2016   \nZhugongtang West:Wanshuina lii Hou,1994   \nMeiyuan: Anhuichelys doumuensis Tong etal.,2016   \nYanglaowu: Anhuichelys doumuensis Tong et al., 2016 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 Fossil vertebrates ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "From the above mentioned localities,different kinds of fossil vertebrates have been found during the past half a century. Up to date, 52 species plus 9 unnamed ones of reptiles, birds, and mammals were reported from the Paleocene of the Qianshan Basin. A complete faunal list of fossil vertebrates reported from the Paleocene of the Qianshan Basin is provided in Appendix 1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1 Reptilia ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The reptilian fossils recovered from the Qianshan Paleocene represent three major groups, Testudines, Squamata, and Crocodilia. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 Testudines ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fossil turtles are relatively common in the Qianshan Basin,and have been found in many localities (for details, see Tong et al., 2O16). All the specimens were referred to a single genus Anhuichelys Yeh,1979.When Yeh (1979) first reported the fossil turtles of the basin, he referred Anhuichelys to Emydidae,with two new species,A. siaoshihensis and $A$ tsienshanensis,and an unnamed species,Anhuichelys sp. After that, a number of additional specimens were collected by the collagues of the Qianshan County Museum, but no further research has been done, except Chen (1983) described a new species of Anhuichelys, $A$ xinzhouensis, from the Paleocene deposits of the Xinzhou Basin, Hubei Province. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Recently, Tong et al. (2016) comprehensively studied all the available specimens of Paleocene turtles from both the Qianshan and Xinzhou basins. In addition to referring some new specimens to A. siaoshihensis and A. tsienshanensis,they synonymized A.xinzhouensis with A.tsienshanensis,and named a new species,A. doumuensis,using the specimen of Yeh's Anhuichelys sp.as the holotype.Meanwhile, they described four specimens under an unnamed species,Anhuichelys sp. Based on these materials, Tong and her colleagues conducted a phylogenetic analysis.Their result suggests that Anhuichelys is a member of the stem Testudinidae.“Anhuichelys is likely a land turtle and also the first testudinoid to develop the hinge on the shell\" (Tong et al., 2016). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "According to the current stratigraphical information, specimens of Anhuichelys siaoshihensis were found from the Lower Member and the lower part of the Upper Member of the Wanghudun Formation; A. tsienshanensis specimens were collected from the upper part of the Upper Member of the Wanghudun Formation through the Upper Member of the Doumu Formation; A.doumuensis is only present in the Upper Member of the Doumu Formation; and Anhuichelys sp. was from the upper part of the Upper Member of the Wanghudun Formation and possibly the Lower Member of the Doumu Formation. The occurrence of fossil turtles in the Qianshan Basin shows clearly the biostratigraphical significance.A. siaoshihensis is a turtle member of the Shanghuan Asian Land Mammal Age (ALMA) that is Early Paleocene in age and can be correlated to both the Puercan and Torrejonian North American Land Mammal Ages (NALMA). All the other three species are the members of the Nongshanian ALMA that is Middle Paleocene in age and can be correlated to early-middle Tiffanian NALMA (see further discussion below). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 Squamata ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The fossil lizards from the Paleocene of Qianshan Basin were first reported by Hou (1974). He named two new genera and four new species, Qianshanosaurus huangpuensis, Anhuisaurus huainanensis, Tinosaurus doumuensis,and Agama sinensis,and referred $\\boldsymbol { \\mathcal { Q } }$ .huangpuensis to Iquanidae and the other three to Agamidae (Hou, 1974). Two years later, Hou (1976) described two new genera and species, Anqingosaurus brevicephalus and Changjiangosaurus huananensis,and referred them to Chamaelenantidae and Changjiangosauridae respectively. The systematic position of these lizard taxa has been long debated (for details, refer to Dong et al.,2016). Dong et al. (2O16) reexamined all the reported lizard specimens from the Paleocene of the Qianshan Basin and revised their taxonomic position. Under the current classification of Squamata, they referred Agama sinensis (nomen dubium), Qianshanosaurus huangpuensis, and Tinosaurus doumuensis to Acrodonta,and considered Anhuisaurus huainanensis, Anqingosaurus brevicephalus, and Changjiangosaurus huananensis as Squamata incertae sedis (Dong et al.,2016).In addition, they recognized the first varaniform from the Qianshan Paleocene that were represented by a nearly complete right dentary, a series of six articulated vertebrae,and a sacrum with the last presacral (Dong et al., 2O16),which were originally identified as Anhuisaurus huainanensis (Hou,1974). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "According to the stratigraphical information, Anqingosaurus brevicephalus and ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Changjiangosaurus huananensis were collected from the Lower Member of Wanghudun Formation, and Qianshanosaurus huangpuensis was found in both the Lower Member and the lower part of the Upper Member of Wanghudun Formation. These three taxa represent the squamate members of the Early Paleocene Shanghuan ALMA. Agama sinensis was only reported from the Lower Member of the Doumu Formation (recorded as Wanghudun Formation by mistake in the original report, i.e. Hou, 1974:199). Tinosaurus doumuensis, Anhuisaurus huainanensis, and Varaniformes gen. et sp. indet. were all from the Upper Member of the Doumu Formation. These four taxa are squamate representatives of the Middle Paleocene Nongshanian ALMA. Readers can refer to Dong et al. (2O16) for detailed information about the lizard-bearing localities. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1.3 Crocodilia ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The first crocodilian fossil from the Qianshan Paleocene deposits was found by the geological survey team at Dinghuawu, Huaining County in 1966 (RGSBGA, 1988b). It was not formally described until 1982 when Young (1982) named it Eoalligator huiningensis. The species was originally referred to Alligatorinae (Young,1982),which was later questioned (Whiting and Hastings,2015). Here we follow Young(1982） and list $E$ .huiningensis as a member of Alligatorinae,before its taxonomic position is restudied. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Another crocodilian was reported by Zhang (1981). It was possibly collected from the Paleocene of the Qianshan Basin. Zhang (1981) named it Wanosuchus atresus within its own family, Wanosuchidae. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Eoalligator huiningensis was from the Lower Member of the Wanghudun Formation at Dinghuawu (Qiu et al.,1977),which is Early Paleocene Shanghuan in age (see discussion below). However, the locality and horizon of Wanosuchus atresus remains unknown. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2 Aves ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Two fossil birds have been reported from the Qianshan Paleocene. Wanshuina lii was represented by the shaft of a right humerus,the distal end of a left tibiotarsus,and the associated left tarsometatarsus lacking distal end,and was originally referred to Rallidae (Hou, 1994). It was later considered to have some similarities to Walbeckornis from the Paleocene of Germany (Mayr, 2009; Mayr et al., 2013). Since further examination is required to clarify its taxonomic position, we tentatively follow Hou (1994) to list W. lii as a member of Rallidae. Another fossil bird,Qianshanornis rapax, was considered similar to Strigogyps and assigned to its own family Qianshanornithidae (Mayr et al., 2013). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Wanshuina lii was collected from the Upper Member of the Doumu Formation at Zhugongtang West, which is considered to be the deposits of the Nongshanian ALMA. The specimens of Qianshanornis rapax were found from the lower part of the Upper Member of the Wanghudun Formation at Lijialaowu (Mayr et al., 2O13),which is considered to be the Shanghuan ALMA(see discussion below). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3Mammalia ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fossil mammals are relatively common and highly diverse in the Paleocene deposits of the Qianshan Basin. Up to date,twenty eight localities have been reported to produce fossil mammals.These fossils form the Qianshan Paleocene mammal fauna that comprises 39 named species together with eight indeterminate ones. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 Anagalida ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Anagalida,an Asian endemic mammalian group, has the most diverse record among the Paleocene mammals reported in the Qianshan Basin. Three families, Anagalidae, Pseudictopidae and Astigalidae, have been found there. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Anagalidae Qianshan Paleocene anagalids were first reported by Xu (1976). He described seven species and two unnamed ones of six genera: Huaiyangale chianshanensis, Huaiyangale sp., Hsiuannania tabiensis, Hsiuannania sp., Wanogale hodungensis, Chianshania gianghuaiensis, Diacronus wanghuensis, D. anhuiensis, and Anaptogale wanghoensis. He assigned Huaiyangale and Hsiuannania to Anagalidae, while tentatively referred the other four genera to the same family (Xu, 1976). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Hu (1993) reported two new genera and species, Eosigale gujingensis and Qipania yui, based on so far the best preserved anagalid material from the Qianshan Basin. He also discussed the phylogenetic relationships of Anagalidae. As a result of the phylogenetic analysis, he confirmed the atribution to Anagalidae of Huaiyangale, Eosigale, Qipania, and Hsiuannania and tentatively referred Diacronus and Anaptogale to the family. In addition, he assigned Chianshania to Astigalidae and considered Wanogale to be a member of family indet. (Hu, 1993). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Szalay and Li (1986) combined Diacronus anhuiensis Xu (1976) with Decoredon elongetus Xu (1977) into a single species, Decoredon anhuiensis,and proposed it as “the oldest recognized member of euprimates, either an omomyid or a member of the common stock which gave rise to Adapidae and Omomyidae”(Szalay and Li,1986:387). This assignment has received litle support (Rose,1994) and was considered to be questionable (Rose et al.,1994) or unlikely (Gingerich et al., 1991). Because of the conspecific assignment suspect of the holotypes (and only known specimens) of both taxa (Rose et al.,1994), it might better consider them as separate species and tentatively assign Diacronus anhuiensis to Anagalidae at present. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Anaptogale and Wanogale were collected from the Lower Member of the Wanghudun Formation,and both Huaiyangale and Diacronus were discovered from the lower part of the Upper Member of the Wanghudun Formation. According to the current information, these four genera are members of Early Paleocene Shanghuan ALMA. Both Eosigale and Qipania were found from the upper part of the Upper Member of the Wanghudun Formation, and Hsiuannania was from the Doumu Formation. They are anagalid representatives of Middle Paleocene Nongshanian ALMA. Locality information of fossil anagalids in the Qianshan Basin can be found in Xu (1976) and Hu (1993). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Pseudictopidae Pseudictopids are also common in the Paleocene of the Qianshan Basin. Qiu (1977) made a relatively comprehensive study on pseudictopids on the basis of available materials by then. He described three new species of three new genera as well as one unnamed and one affinis species: Anictops tabiepedis, Anictops aff.A. tabiepedis, Paranictops majuscule, Paranictops sp., and Allictops inserrata. Two years later, Ding and Tong (l979) named Cartictops canina based on an anterior portion of left lower jaw (IVPP V 4307) that was referred to Paranictops sp. by Qiu(1977) and a left $\\mathrm { m } 2$ or ml (IVPP V 4318) that was described as indeterminate genus and species by Chiu and Li (1977). Zheng et al. (l999) reported some new specimens from the Qianshan Paleocene.They named a new species, Anictops wanghudunensis,and referred the rest specimens to Anictops tabiepedis and Paranictops aff. $P$ . majuscule, respectively. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Cartictops and Paranictops were collected from the Lower Member and the lower part of the Upper Member of Wanghudun Formation, respectively,and Anictops was found from both horizons. They are representatives of the Early Paleocene Shanghuan pseudictopids. Allictops, from the Lower Member of Doumu Formation,represents the only pseudictopid form of the Middle Paleocene Nongshanian ALMA in the Qianshan Basin. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AstigalidaeUp to date, two species of Astigalidae have been reported from the Qianshan Paleocene. Astigale wanensis was named by Zhang and Tong (1981) based on a right lower jaw found at Fanglaowu. Chianshania gianghuaiensis,collected at Wangdawu, was originally assigned to Anagalidae (Xu, 1976), but was later considered to be a member of Astigalidae (Hu, 1993). Both taxa were collected from the Lower Member of Wanghudun Formation, and are of Early Paleocene Shanghuan ALMA. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3.2 Simplicidentata ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fossil simplicidentates from the Qianshan Basin were represented by some eurymylids. Li (1977) first reported Heomys orientalis and clearly pointed out that Heomys is a remote ancestor form of rodents,based on its similarities to primitive rodents. Such opinion received new evidence from the further examination on the materials of Heomys and primitive rodents (Dawson et al.,1984; Li et al., 1987; Li and Ting,1985,1993; Li and Chow,1994) and was supported by studies on related forms (Meng and Wyss,1994,2001; Meng et al., 1994b, 2003). Some researchers even considered Heomys as primitive rodents (Flynn, 1994; McKenna and Bell, 1997), but recent phylogenetic analysis did not suggest that Heomys has a closer relationship with typical rodents than the other eurymylids do (Meng and Wyss, 2001; Meng et al.,2003; Meng, 2004). Currently, it might be better to assigned Heomys as a member of Eurymylidae.In addition,Li (1977) identified the poorly preserved anterior portion of a skull as Heomys sp. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Heomys orientalis was collected from the Upper Member of Doumu Formation at Yangxiaowu (Li, 1977). It is a representative of the Middle Paleocene Nongshanian ALMA. Heomys sp. was found from the lower part of the Upper Member of Wanghudun Formation at Zhangjiawu Southwest. It represents a eurymylid record in the Early Paleocene Shanghuan ALMA. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3.3Mimotonida ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Mimotonida was proposed by Li et al. (1987) to include the basal Glires that have two pairs of incisors in both upper and lower dentitions. Although some recent phylogenetic analyses showed that Mimotonida is a paraphyletic group (Meng and Wyss,20o1; Meng, 2004; Asher et al., 2005), it may be convenient to keep using Mimotonida until a better phylogenetic relationship of the basal Glires becomes available (Li et al., 2016). Two genera of mimotonidans,Mimotona and Mina, have been reported from the Qianshan Basin and represent two different families,Mimotonidae and Mimolagidae (Li,1977; Li et al., 2016). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Mimotonidae Li (1977) proposed Mimotonidae to include only the type genus, Mimotona, but several genera were referred to the family later (for details, see Li et al., 2016). With the new data being accumulated, it becomes more likely that Mimotonidae is a monophyletic group only containing Mimotona (Li et al., 2016). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "When he first reported the fossil mimotonids from the Qianshan Paleocene,Li (1977) described two named and one unnamed species of Mimotona, M. wana, M. robusta, and Mimotona sp.He also noticed the difference of Mimotona sp. from the other two species and mentioned that it might represent a new species, but it was not formally named until Dashzeveg and Russell (1988) named it M. lii. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The holotype and referred two left lower molars of Mimotona wana were found from the Upper Member of Doumu Formation at Yangxiaowu (Li, 1977). The type and only specimen of M.robusta was from the Lower Member of Doumu Formation at Hanhuawu South. Biostratigraphic correlation indicates both are in the Nongshanian ALMA, Middle Paleocene in age. The type and only specimen of M. li was collected from the lower part of Upper Member of Wanghudun Formation at Zhangjiawu South. Its stratigraphic level is in the Early Paleocene Shanghuan ALMA. A right premaxilla with alveoli for I2-3 (IVPP V 4326) from the lower part of the Upper Member of Wanghudun Formation at Shangxialou was referred to $M$ wana as paratype (Li,1977), but the recent discovery of Mina hui (Li et al.,2016) may raise the doubt about its assignment to Mimotona. The occurrence of M. wana in Early Paleocene thus requires further evidence. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "MimolagidaeIn the Qianshan Basin, Mimolagidae was represented by a recently reported basal duplicidentate Mina hui. The type specimens, found from the upper part of the Upper Member of Wanghudun Formation at Fujiashanzui, include a partial right rostrum with dI2 and I3 and a fragmentary left maxilla with M1,M2 and alveoli of P2-4 (IVPP V 7509) (Li et al.,2O16). It is a member of Qianshan mammals of the Middle Paleocene Nongshanian ALMA. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3.4Mesonychia ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Mesonychia was represented by a single species of Mesonychidae in the Qianshan Basin. Yan and Tang (l976) reported the only mesonychid of the Qianshan Paleocene and named it Lestes conexus. The genus name was later replaced with Yantanglestes because Lestes was preoccupied by a zygopteran insect (Ideker and Yan, 1980). Yantanglestes conexus was collected from the Lower Member of Wanghudun Formation at Chidoukan (originally called 150 meters northwest of Jiangjiawu) (Yan and Tang,1976; Qiu et al.,1977). The fossl-bearing level at this locality can be assigned to the Early Paleocene Shanghuan ALMA. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.3.5 Pantodonta ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Pantodonta is one of the most common mammalian groups in the Chinese Paleocene. Four families, Bemalambdidae, Harpyodidae,Pantolambdodontidae and Pastoralodontidae, have been recorded in the Qianshan Basin.All of them are Asian endemic forms. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "BemalambdidaeCompared to the fossil bemalambdids from the contemporaneous Nanxiong and Chijiang basins in southern China, specimens of Bemalambdidae found in the Qianshan Basin are much less and poorly preserved. The reported Qianshan Paleocene bemalambdids, Bemalambda sp.and Bemalambdidae gen. et sp. indet.， were represented by fragmentary material and were not able to be further identified (Huang,1978). Both taxa were found from the Lower Member of Wanghudun Formation. The specimens referred to Bemalambda sp. were collected at Chidoukan and Wangdawu, which are stratigraphically higher than Haixingdi where Bemalambdidae gen. et sp. indet. was discovered. The strata producing both taxa can be assigned to the Early Paleocene Shanghuan ALMA. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Harpyodidae Chiu and Li (1977) named Harpyodus euros based on a fragmentary left maxilla with M1-3 and referred it to an indeterminate family of Deltatheridia Van Valen, 1966.Two years later, Wang (1979) proposed Harpyodidae for the genus and suggested its pantodont affinities, when she described a new species of Harpyodus from the upper part of the Lannikeng Member of Chijiang Formation in the Chijiang Basin, Jiangxi, southern China. The assignment of Harpyodus to Pantodonta has been widely accepted (e.g. de Muizon and Marshall, 1992; McKenna and Bell, 1997; Wang et al., 1998; de Muizon et al., 2015). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Harpyodus euros was found from the lower part of the Upper Member of Wanghudun Formation at Chenxiawu (Chiu and Li, 1977), which is within the Early Paleocene Shanghuan ALMA. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "PantolambdodontidaeThe only pantolambdodontid from the Qianshan Basin is represented by Archaeolambda tabiensis. It was reported by Huang (1977) based on a nearly completed skeleton that is so far the only known skeleton of the genus and family. Huang (1977) referred $A$ . tabiensis to Archaeolambdidae,but noted the possibility of synomizing Archaeolambdidae with Pantolambdodontidae. Chow and Qi (1978） pointed out that Pantolambdodon and Archaeolambda obviously belong to one family,and all the taxa previously referred to Archaeolambdidae should be reassigned to Pantolambdodontidae. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Such opinion was accepted by the latter researchers (e.g. Huang, 1995; Huang and Chen, 1997; Huang and Zheng,1997,2003b; McKenna and Bell, 1997; Tong and Wang, 2006). The specimen of A. tabiensis was collected from the Upper Member of Doumu Formation at Yangxiaowu (Huang,1977). It is considered to be the Middle Paleocene Nongshanian ALMA. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "PastoralodontidaePastoralodontids are the most common pantodonts in the Qianshan Paleocene. They are represented by three species of one genus,Altilambda pactus, A. tenuis, and $A$ . yujingensis (Chow and Wang, 1978; Wang et al., 1992). The specimens of A. tenuis (two fragmentary lower jaws) are not well-preserved, and their assignment to Altilambda remains somehow questionable.All the three species were found from the Upper Member of Wanghudun Formation. ?A. tenuis was collected from the lower part of the Upper Member of Wanghudun Formation at Shangxialou (Chow and Wang,1978). It is an Early Paleocene Shanghuan mammal. The other two species, discovered respectively at Mao'an and Chenjiachuanmenkou, are morphologically more derived than $\\ Y A$ . tenuis. They may be stratigraphically higher than $\\because A$ .tenuis and are possibly of the Middle Paleocene Nongshanian ALMA. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.3.6 Tillodontia ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Three mammalian genera and species,reported from the Qianshan Basin, can be referred to Tillodontia (Wang and Jin,2Oo4). Plethorodon chienshanensis was described by Huang and Zheng (1987) based on a partial skull with complete cheek tooth dentition of both sides. P.chienshanensis was tentatively assigned to the order Pantodonta under its own family Plethorodontidae in the original paper (Huang and Zheng,1987). Later, de Muizon and Marshall(1992) considered it to be a tillodont instead of a pantodont. This opinion was followed by McKenna and Bell (1997) and Wang et al. (1998),but disputed by Ting (1998) and Tong et al. ( 2Oo3). However, after a detailed comparison and a phylogenetic analysis, Wang and Jin (2004) considered $P _ { \\cdot }$ 、chienshanensis to be a tillodont. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Huang and Zheng (2oo3a) named another tillodont, Simplodon qianshanensis,on the basis of a right maxilla with P3-M3,and questionably referred it to Esthonychidae. Simplodon has some similarities to tillodonts,but no sufficient evidence supports its assignment to Esthonychidae. It might be reasonable to refer Simplodon to indeterminate family of Tillodontia. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Wang and Jin (20o4) described a left lower jaw with $\\mathtt { c } \\mathtt { - } \\mathtt { m } 3$ from the Paleocene of the Qianshan Basin and named it Benaius qianshuiensis. The species was classified as a tillodont but not assigned to a special family. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Both Plethorodon chienshanensis and Benaius qianshuiensis were collected from the Lower Member of Wanghudun Formation at Wangdawu and Fanglaowu respectively (Huang and Zheng, 1987; Wang and Jin,2004). The Wangdawu locality is stratigraphically higher than the Fanglaowu laocality, but they both are in the Early Paleocene Shanghuan ALMA. Simplodon qianshanensis was found from the upper part of the Upper Member of Wanghudun ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Formation southeast to Lianhuatang (Huang and Zheng, 2O03a). It is a member of the Middle Paleocene Nongshanian mammals. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.3.7 Arctostylopida ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Arctostylopida contains only one family Arctostylopidae (Cifelli and Schaff, 1998). Fossil arctostylopids were originally thought to have close relationships to the South American notoungulates (Matthew,1915) and had been referred to the family Arctostylopidae of the order Notoungulata for many years (Schlosser,1923; Matthew and Granger, 1925; Matthew et al.,1929; Patterson,1934; Tang and Yan,1976; Chow and Qi,1978; Zheng,1979; Rose,1981; Gingerich,1985; Zheng and Huang,1986; Nessov,1987; Huang and Chen,1997). Cifelli et al. (1989) considered that Arctostylopidae was not related to Notoungulata and proposed a new order, Arctostylopida, for the family. This opinion has been widely accepted (e.g.McKenna and Bell,1997; Huang and Zheng,1997,2003b; Huang et al., 2001; Kondrashov and Lucas, 2004a; Zack, 2004; Tong and Wang, 2006; Missiaen and Smith, 2008; Secord, 2008; Wang et al., 2008; Missiaen et al., 2012). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Only one arctostylopid species, Sinostylops promissus, has been reported from the Upper Member of Doumu Formation at Yangxiaowu, Qianshan (Tang and Yan, 1976). It is of the Middle Paleocene Nongshanian ALMA. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.3.8 Carnivora ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The only species of Carnivora, Pappictidops orientalis,was described by Chiu and Li (1977). The specimens include a right maxilla with canine and P2-M2 (holotype),and the horizontal ramus of a juvenile left lower jaw (referred specimen). Pappictidops was originally referred to the Viverravinae of Miacidae (Chiu and Li, 1977). It was considered to be most similar to North American Paleocene Ictidopappus (Chiu and Li,1977; Wang,1978). Flynn and Galiano (1982) resurrected the family Viverravidae Wortman & Matthew,1899 and it has been widely used (e.g. Eaton, 1985; Gingerich and Winkler, 1985; Gingerich,1989; Gunnell et al., 1992; Polly,1997; Gunnell, 1998; Eberle and McKenna,2002; Meehan and Wilson, 2002; Huang and Zheng, 2005; Gingerich and Smith, 2006; Tong and Wang, 2006; Beard and Dawson, 2009; Friscia and Rassmussen, 2010; Scott et al., 2013). It is reliable to assign Pappictidops together with Ictidopappus to Viverravidae. A couple of papers mentioned that the Asian viverravid Pappictidops was recorded in Late Paleocene and earliest Eocene (Gingerich and Winkler,1985; Polly,1997),but this genus has only been found in the Paleocene of both Qianshan and Nanxiong basins (Chiu and Li,1977; Wang,1978). The specimens of Qianshan Pappictidops were discovered from the lower part of the Upper Member of Wanghudun Formation at Zhangjiawu and Lijialaowu respectively (Chiu and Li, 1977),which is of the Early Paleocene Shanghuan ALMA. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.3.9 Cimolesta ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Chiu and Li (1977) described a fragmentary right lower jaw with $\\mathsf { p 3 - m 1 }$ and identified as Hyracolestes ermineus under Deltatheridia.H.ermineus was first named from the Paleocene of Mongolia and questionably referred to Creodonta by Matthew and Granger (1925). Van Valen (1966) placed it in Erinaceoidea of Insectivora, while Szalay and McKenna (1971) referred it to Deltatheridiidae of Insectivora.McKenna et al.(1984) moved $H .$ ermineus to Micropternodontidae of Soricomorpha. Currently, Hyracolestes is included in Sarcodontidae of the mirorder Cimolesta (Lopatin and Kondrashov, 20o4; Missiaen and Smith, 2008). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The species was found from the Upper Member of Doumu Formation at Yangxiaowu, which is in the Middle Paleocene Nongshanian ALMA. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.3.10 Didymoconida ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The taxonomic position of Didymoconidae varies greatly. It has been placed in different orders, e.g. Insectivora (Meng et al.,1994a; Wang et al., 2001), Deltatheridia (Mellett and Szalay,1968; Tang and Yan, 1976), Leptictida, Mesonychia (Lopatin,1997), Condylarthra (Gingerich,1981),Didymoconida (Lopatin,2001; Morlo and Nagel, 2007),and Order indet. (Li et al.,1979; Meng,1990). Here, we tentatively use Didymoconida as higher-level taxon. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Tang and Yan (1976) reported Zeuctherium niteles as a didymoconid on the basis of a partial skull. Missiaen et al. (2O13) described another didymoconid Archaeoryctes wangi based on a pair of lower jaws. Huang and Zheng (2Oo2) named Wanolestes li based on a pair of incomplete lower jaws and referred Wanolestes to ?Micropternodontidae of Soricomorpha. Lopatin (20o6) considered that Wanolestes is similar to Archaeoryctes and placed Wanolestes in Didymoconidae. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Zeuctherium and Archaeoryctes wangi were found from the lower part of the Upper Member of Wanghudun Formation at Zhangjiawu East and Zhongjialaowu, respectively. Both taxa are of the Early Paleocene Shanghuan ALMA. The specimens of Wanolestes lii were found from the Upper Member of Doumu Formation at Yangxiaowu, which is in the Middle Paleocene Nongshanian ALMA. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.3.11 Order indet. ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Several mammal species,named on the basis of Qianshan Paleocene materials,are not able to be assigned to a taxonomically higher group with certainty. They are listed here under indeterminate order. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Anchilestes impolitus was named by Chiu and Li (1977) based on incomplete left upper andlower jawswith P3-M2 and $\\mathsf { p 4 - m 3 }$ of the same individual. It was originally referred to Zalambdalestidae within Anagalida (Chiu and Li, 1977). Ting and Zheng (1989) reevaluated its affinity and assigned it to the order Tillodontia. However, the morphology of both the upper and lower dentitions of Anchilestes is distinct from those of tillodonts and zalambdalestids, providing little evidence to support a special relationship to either tillodonts or zalambdalestids (Wang et al.,1998; Wang and Jin, 2004). Anchilestes impolitus was found from the Lower Member of Wanghudun Formation at Wangdawu, which is in the Early Paleocene Shanghuan ALMA. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Decoredon elongetus was reported on the basis of a left and a right lower jaws both with $\\mathtt { p 4 - m 3 }$ ,and originally referred to Hyopsodontidae within Condylarthra (Xu, 1977). Szalay and Li (1986) combined Decoredon elongetus with Diacronus anhuiensis into a single species, Decoredon anhuiensis. They considered Decoredon anhuiensis as a member of ?Omomyidae within Euprimates and named a new subfamily, Decoredontinae.This assignment has received little support and was considered to be questionable (Rose,1994; Rose et al.,1994) or unlikely (Gingerich et al.,1991). Kondrashov and Lucas (2004b) considered that Decoredon anhuiensis did not exhibit features typical of either archaic ungulates or omomyid primates,but accepted the synonymy of Diacronus anhuiensis and Decoredon elongetus.As noted before, due to the conspecific assignment suspect of the holotypes (and only known specimens) of both taxa (Rose et al.,1994), it might better consider them as separate species and tentatively leave Decoredon elongetus as Order and Family incertae sedis at present. The specimens of Decoredon elongetus were collected from the lower part of the Upper Member of Wanghudun Formation at Zhangjiawu East (Xu,1977), which suggest its occurrence in the Early Paleocene Shanghuan ALMA. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Obtususdon hanhuaensis was described by Xu (1977) based on a fragmentary right lower jaw with $\\mathsf { p 4 - m 3 }$ (holotype) and a fragmentary left lower jaw with $\\mathsf { p 4 - m 3 }$ . Its taxonomic position was considered indeterminate and requires further study with the finding of some better specimens.The holotype was collected from the Lower Member of Doumu Formation at Hanhuawu South,which is in the Middle Paleocene Nongshanian ALMA.The referred specimen was found from the lower part of the Upper Member of Wanghudun Formation at Dingxiawu, which is of the Early Paleocene Shanghuan ALMA. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Wania chowi was based on two fragments of a left maxilla and a pair of lower jaws of the same individual (Wang,1995). It was originally referred to the family Zhelestidae in the order Mixotheridia, but Nessov et al. (1998) argued that Wania chowi “is not a zhelestid but may have anagalidan affnities.” Because determination of its phylogenetic position requires further study, Wania chowi is temporarily classified as Order and Family indeterminate (Wang et al.,1998). The specimens of Wania chowi were collected from the lower part of the Upper Member of Wanghudun Formation, which is of the Early Paleocene Shanghuan ALMA. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5Correlation and age determination ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Of all the Chinese Paleocene basins, the Nanxiong, Qianshan, Chijiang, and Erlian (Nei Mongol) basins have yielded particularly important records of fossil mammals.The first three basins mainly produce fossil mammals spanning the Early-Middle Paleocene, while the Erlian Basin documents relatively later Paleocene faunas. The records from these basins were used as a baseline in correlating the Chinese mammal-bearing Paleocene. On the basis of the mammalian fossil record then available, previous researchers proposed correlations of Paleocene strata within China. They considered that the Shanghu, Shizikou, and Wanghudun formations were correlatives and correlated the Nongshan Formation with the Chijiang and Doumu formations (South China “Redbeds” Research Group, 1977; Zheng and Qiu, 1979; Li and Ting,1983; Ting, 1998; Ting et al., 2011). After careful review of the occurrence of fossil mammals in the Nanxiong, Qianshan, and Chijiang basins, Wang et al. (1998) tentatively correlated the boundary between the Shanghu and Nongshan formations (Nanxiong Basin) with that between the Shizikou and Chijiang formations (Chijiang Basin),and within the Upper Member of the Wanghudun Formation (Qianshan Basin). The mammalian faunas from strata below this boundary are dominated by Bemalambda, while faunas from strata above the boundary are characterized by the co-occurrence of Archaeolambda and Altilambda, without Bemalambda (Fig. 2). Such a correlation first appeared in Wang's (1993) Ph.D.dissertation and was in accordance with Tong et al.'s (1995) opinion. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "C AAAAA VATA ueN Qianshan Basins   \n60 srrraat TTarin Ti4 O Baaea Baeitm nmsuem Pun nunoa C26 Ti3 Bganang Snnee JMor Hsiuannania tabiensis,Allictops inserrata,Mimotona robusta,   \nPreeeeeee Ti2 Obtususdon hanhuaensis   \n1 Ti1 W Jaddn Eg   \n65- aarg 8 Trnioenrn Pu2 ngs 'a nirim wa pappuam VaPhniiir C29 Pu1 Benaiusqianshuiensis,Astigalewanensis,Bemalambdidaeindet.   \nCret. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Like in other Chinese Paleocene basins, great endemism of mammalian fauna hampered the intercontinental biostratigraphic correlation of the Qianshan Paleocene.No radiometric dates and failed attempt of paleomagnetic study further obstruct to correlate the Paleocene in the Qianshan Basin directly to the Global Geologic Timescale. The age determination of the Qianshan Paleocene mammalian fauna and fossl-bearing strata relies on the biostratigraphic correlation with other Paleocene basins,where the Paleocene could be correlated to those of other continents or the Timescale by certain means. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Early biostratigraphic studies considered mammalian faunas known from the Shanghu, Shizikou, and Wanghudun formations and their correlatives to represent the Early-Middle Paleocene,while those from the Nongshan, Chijiang,Doumu, as well as Nomogen (Erlian Basin) formations and their correlatives were considered as Late Paleocene (South China “Red Beds” Research Group,1977; Zheng and Qiu, 1979; Chow and Zheng,1980; Li and Ting,1983; Russell and Zhai, 1987).Li and Ting (1983) proposed two provincial mammal ages, the Shanghuan and the Nongshanian, to represent the Early-Middle and Late Paleocene respectively in correlation with Europe and North America. They tentatively correlated the Shanghuan with the North American Puercan and Torrejonian and the Nongshanian (including present Gashatan) with the North American Tifanian in their correlation chart. Sloan (1987) followed the use of two mammal ages, but favored Gashatan over Nongshanian as a stage (age) name for the Asian Late Paleocene on the basis of priority of the former. He correlated the Shanghuan with the Torrejonian and part of the Tiffanian (Tol-Ti4),and considered the Gashatan ( $\\dot { \\mathbf { \\eta } } = \\dot { \\mathbf { \\eta } }$ Nongshanian of Li and Ting,1983） to be the late Tiffanian-Clarkforkian（Ti5- Cf3） equivalent. Tong et al. (1995) continued to use the Shanghuan and Nongshanian (the latter including some Gashatan correlatives) as Early and Late Paleocene provincial mammal ages of China. They correlated the Shanghuan with North American Puercan and early-middle Torrejonian,and the Nongshanian with the late Torrejonian through Clarkforkian in their correlation chart. In the same year, Lucas and Williamson (1995) proposed a correlation of the Shanghuan with the North American Puercan, based on their comparison of the evolutionary stages of certain mammal taxa, including Mesonychidae, Carnivora, Tillodontia, and Pantodonta, but Wang et al. (1998) disagreed with their opinion. Both Wang et al. (1998) and Ting (1998) used three ages to represent Chinese Paleocene: the Shanghuan, the Nongshanian and the Gashatan, but their correlation with North American Land Mammal Ages were slightly different. Ting (1998) correlated the Shanghuan, Nongshanian and Gashatan with Torrejonian, Tifanian and Clarkforkian,respectively, while Wang et al.(1998) considered the three Chinese mammal ages to be respectively correlative with Puercan through middle Torrejonian (Pul-To2),late Torrejonian through middle Tiffanian (To3-Ti4) and late Tiffanian through Clarkforkian (Ti5-Cf3). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Recent paleomagnetic results from the Nanxiong Basin indicate that the boundary between the Shanghu Formation and the underlying Pingling Formation lies within the upper half of Chron C29R,consistent with all the other precisely constrained ${ \\mathrm { K } } / { \\mathrm { P g } }$ boundaries in the world (Clyde et al., 2O10). Paleomagnetic results from both the Chijiang and Nanxiong basins clearly show that the Shanghuan is Early Paleocene in age (Danian) and corresponds to North American Puercan and Torrejonian. The placement of the Shanghuan/Nongshanian boundary near the top of Chron C27N implies that it is synchronous with the Torrejonian/ Tiffanian boundary(Clyde et al.,2Oo8; 2010). In combination with those from the Erlian Basin (Sun et al.,2Oo9), the paleomagnetic results indicate that the Nongshanian/Gashatan boundary lies somewhere between the upper part of Chron C26R and Chron C26N,corresponding to the upper part of the Tiffanian. Therefore, the Shanghuan and the Nongshanian can be probably correlated to the Early Paleocene Danian and the Middle Paleocene Selandian of the Global Geologic Time Scale (Vandenberghe et al., 2O12). Such a correlation shows that both the Wanghudun and Doumu formations and fosil vertebrates therefrom are the Early and Middle Paleocene in age. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "6Concluding remarks ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The Mesozoic and Cenozoic redbeds in the Qianshan Basin consist of a set of monocline clastic rocks,and are subdivided into the Late Cretaceous Gaohebu Formation,the Paleocene Wanghudun and Doumu formations.The Wanghudun Formation is further subdivided into the Lower, Middle,and Upper members, while the Doumu Formation falls into the Lower and Upper members. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Continuous investigations in the Qianshan Basin resulted in discovery of a lot of vertebrate specimens. Sixty one species (including 9 unnamed ones) in 45 genera of vertebrates,representing reptiles, birds and mammals,have been reported from the Paleocene of the Qianshan Basin. Among them, mammals are most diverse and have been classified into 46 species (7 unnamed) of 33 genera, representing 16 families in 10 orders. According to the stratigraphic distribution of fossil vertebrates,7 fossiliferous horizons can be recognized in the Qianshan Paleocene: 1) The basal part of the Lower Member of Wanghudun Formation; 2) the middle part of the Lower Member of Wanghudun Formation; 3) the upper part of the Lower Member of Wanghudun Formation; 4) the lower part of the Upper Member of Wanghudun Formation; 5) the upper part of the Upper Member of Wanghudun Formation; 6) the Lower Member of Doumu Formation; and 7) the Upper Member of Doumu Formation. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Based on the evidence of fossil mammals,the strata from the Lower Member through the lower part of the Upper Member of Wanghudun Formation could be roughly correlated to the Shanghu Formation of the Nanxiong Basin and the Shizikou Formation of the Chijiang Basin, corresponding to the Shanghuan ALMA. Both the upper part of the Upper Member of Wanghudun Formation and the Doumu Formation could be correlated to the Nongshan Formation of the Nanxiong Basin and the Chijiang Formation of the Chijiang Basin, corresponding to the Nongshanian ALMA. Paleomagnetic results from both the Chijiang and Nanxiong basins suggest that the Shanghuan is roughly correlative to the Puercan and Torrejonian NALMA, while the Nongshanian correlative to the early to middle Tiffanian (Ti1- 4a). The Shanghuan and the Nongshanian can be probably correlated to the Early Paleocene Danian and the Middle Paleocene Selandian of the Global Geologic Time Scale. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgmentsWe are grateful to Yu Ben'ai, Chen Limin, Li Tao, Yu Shuhua, Xiong Yuansheng and Xu Yiping of the Qianshan County Museum, Wang Zongwu, Xu Lizhi, Deng Guolai and Zhou Min of the Bureau of Cultural Relics of Qianshan County, Yu Guosheng and ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Cheng Xiaoqing of the Tianzhushan Global Geopark,and Xie Shuhua, Zhou Xiaoyuan, Zhou Wei, Bai Bin, Gao Wei, Li Shijie, Li Qi and Wang Yongxing of IVPP for their assistance in the field. This work was supported by the Major Basic Research Projects of MST of China (No. 2012CB821900), the National Natural Science Foundation of China (Nos. 41572013, 41572021) and the Conservation Program of the Geological Heritage Sites of the Ministry of Finance and the Ministry of Land and Resources, People's Republic of China. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "安徽潜山盆地古新世地层和脊椎动物概述",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "王元青' 李传夔’　李 茜’　李丁生²",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京100044)(2 潜山县博物馆 安徽潜山246300)",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "摘要：潜山盆地中、新生代红层由一套单斜的碎屑岩组成，划分为上白垩统高河埠组、古新统望虎墩组(分为上、中、下三段)和痘姆组(分上、下两段)。1970年以来，在潜山盆地的持续调查发现了大量脊椎动物化石。迄今为止，潜山盆地古新统共报道了45属61种(含9个未命名的种)脊椎动物，包括爬行类、鸟类和哺乳类。其中哺乳动物最为丰富，共有33属46种(含7个未命名种),分属10个目16个科。根据化石产出的层位，可以在潜山古新统中识别出7个化石层位。基于哺乳动物生物地层学证据，望虎墩组下段至上段下部可以大致与广东南雄盆地上湖组和江西池江盆地狮子口组对比，对应于亚洲陆相哺乳动物分期的上湖期；望虎墩组上段上部和痘姆组可以与南雄盆地浓山组以及池江盆地的池江组对比，与浓山期相对应。综合我国几个古新世盆地的古地磁研究结果显示，上湖期可以大致与北美陆相哺乳动物分期的Puercan和Torrejonian对比，浓山期则与Tiffnian早中期(Til-Ti4a)相当。上湖期和浓山期还可以进一步与国际地质年表中的丹尼期(Danian)和塞兰特期(Selandian)对比。因此，潜山盆地发现的脊椎动物化石的时代属于早、中古新世。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "关键词：安徽潜山，古新世，脊椎动物，地层，对比中图法分类号：Q915.873,P534.612 文献标识码：A 文章编号：1000-3118(2016)02-0089-32",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "AsherRJ,Meng J,Wible JR etal.,2O05.StemLagomorpha and the antiquityof glires.Science,307:1091-1094   \nBeard KC,DawsonMR,2Oo9.Early Wasatchian mammals of theRed HotLocalFauna,uppermostTuscahomaFormation, Lauderdale County,Mississippi. Ann Carnegie Mus,78(3): 193-243   \nChen GX,1983.Chelonian fosils from Xinzhou Basinof Hubei Province.Vert PalAsiat,21(1): 42-48   \nChen L Z,1974.Subdivision of the \"Red Bedsof Qianshan Basin,Anhui.Region Geol Anhui,(1): 55-66   \nChenLZ,XiaG S,1981.EarlyTertiary strata along the Yangtze River inAnhui Province.JStratigr,5(3):157-164   \nChiu C S,Li CK,1977Miscellaneous mammalian fosils from the Paleoceneof Qianshan Basin,Anhui.VertPalAsiat, 15(2): 94-102   \nChow MC,QiT,1978.Paleocene mammalian fosils from Nomogen Formationof Inner Mongolia.VertPalAsiat,16(2): 77-85   \nChow M C,Wang BY,1978.Anew pantodont genus from the Paleocene of S.China.Vert PalAsiat,16(2): 86-90   \nChow M C, Zheng JJ,198o.The mammal-bearing early Tertiary horizons of China.PaleoBios,32:1-7   \nCifelli RL,chaff CR,1998.Arctostylopida.In: Janis CM,Scot KM,Jacobs LLeds.Evolutionof Tertiary Mammals of North America.Vol.1.Terrstrial Canivores,Ungulates,and Ungulatelike Mammals.Cambridge:Cambridge University Press.332-336   \nCifelli RL,Schaff CR,McKenna MC,1989.The relationships of the Arctostylopidae (Mammalia): new data and interpretation. Bull Mus Comp Zool,152: 1-44   \nClyde WC,TongYS,SnellKEetal.,208.An integrated stratigraphicrecord fromthePaleoceneof the Chijiang Basin, JiangxiProvince (China): implications for mammalian turnover and Asian block rotations. Earth Planet Sci Let,269: 553-563   \nClyde WC,TingSY,SnellKEetal.,2O10.Newpaleomagneticandstable-isotoperesults fromtheNanxiong Basin,China: implications for the K/Tboundaryand the timing of Paleocene mammalian turnover. JGeol,118:131-143   \nDashzeveg D,RussellDE,1988.Palaeocene and Eocene Mixodontia (Mammalia, Glires）of Mongolia and China. Palaeontology,31(1): 129-164   \nDawsonMR,Li CK,QiT,1984.Eocene ctenodactyloid rodents (Mammalia)of eastern andcentral Asia.Carnegie Mus Nat Hist, Spec Publ,9: 138-150   \nde MuizonC,MarshallLG,1992.Alcidedorbignya inopinata (Mammalia: Pantodonta)fromtheEarlyPaleoceneofBolivia: phylogenetic and paleobiogeographical implications.JPaleont, 66(3): 499-520   \nde MuizonC,BiletG,ArgotCetal.,l5.Alcidedorbignyainopinata,abasalpantodont (Placentalia,Mammalia)fromthe Early Palaeocene of Bolivia: anatomy, phylogeny and palaeobiology. Geodiversitas,37(4): 397-634   \nDing SY,Tong Y S,1979.Some Paleocene anagalids from Nanxiong, Guangdong. VertPalAsiat,17(2):137-145   \nDong LP,Evans SE,Wang Y,2016.Taxonomicrevisionof lizardsfrom thePaleocene deposits ofthe Qianshan Basin, Anhui, China. Vert PalAsiat, 54(3): 243-268   \nEaton JG,1985.Paleontologyand correlationof the Eocene TepeeTrailand Wiggins formations in the NorthFork of Owl Creek Area,southeastern Absaroka Range, Hot Springs County,Wyoming.JVert Paleont, 5(4): 345-370   \nEberleJJ,McKennaMC,2O02.EarlyEoceneLeptictida,Pantolesta,Creodonta,Carnivora,andMesonychidae(Mammalia) from the Eureka Sound Group,Ellesmere Island,Nunavut.Can JEarth Sci,39(6): 899-910   \nFlynn JJ,GalianoH,1982.PhylogenyofEarlyTertiaryCarnivora,withadescriptionofanewspeciesofProtictisfromthe Middle Eocene of northwestern Wyoming.Am Mus Novit,(2725): 1-64   \nFlynn L J,1994.Roots of rodent radiation. Nature,370: 97-98   \nFrisciaAR,Rassmussen DT,2010.Middle Eocene Carnivoramorphaof the Uinta Basin,Utah.Ann Carnegie Mus,79(1): 51-63   \nGingerich PD,1981. Radiation of early Cenozoic Didymoconidae (Condylarthra,Mesonychia) inAsia,witha new genus from the Early Eocene of western North America.JMammal, 62(3): 526-538   \nGingerich PD,1985.South American mammals in thePaleocene of North America.In: StehliFG,Webb SD eds.The Great American Biotic Interchange.New York: Plenum Publishing Corporation.123-137   \nGingerich PD,1989.New earliest Wasatchian mammalian fauna from the Eocene of northwestern Wyoming: composition and diversity in a rarely sampled high-floodplain assemblage.Univ Mich Pap Paleont, 28:1-97   \nGingerich PD,Smith T,2O06.Paleocene-Eocene land mammals from three new latest Clarkforkianandearliest Wasatchian wash sites at Polecat Bench in the northern Bighorn Basin,Wyoming.Contrib Mus Paleont, Univ Mich,31(11): 245-303   \nGingerich PD,WinklerDA,1985.SystematicsofPaleocene Viverravidae (Mammalia,Carnivora)inthe BighornBasinand Clark's Fork Basin,Wyoming. Contrib Mus Paleont, Univ Mich,27(4): 87-128   \nGingerich PD,Dashzeveg D,RussellDE,991.Dentition and systematicrelationships ofAltanius orlovi (Mammalia, Primates)from the Early Eocene of Mongolia. Geobios,24(5): 637-646   \nGunell GF,1998.Mammalian fauna from the lower Bridger Formation (Bridger A,earlyMiddle Eocene)ofthe southern Green River Basin, Wyoming. Contrib Mus Paleont, Univ Mich,30(3): 83-130   \nGunell GF,Bartels WS,Gingerich PDetal.,1992. Wapiti Valleyfaunas: Earlyand Middle Eocene fosil vertebrates from the north fork of the Shoshone River,Park County,Wyoming.Contrib Mus Paleont,Univ Mich,28(11):247- 287   \nHou L H,1974.Paleocene lizards from Anhui, China. Vert PalAsiat,12(3):193-200   \nHou L H,1976.New materials of Paleocene lizards of Anhui. Vert PalAsiat,14(1): 45-52   \nHou L H,1994.Anew Paleocene bird from Anhui, China. Vert PalAsiat,32(1): 60-65   \nHu Y M,1993.Two new genera of Anagalidae (Anagalida, Mammalia) from the Paleocene of Qianshan,Anhui and the phylogeny of anagalids.Vert PalAsiat,31(3): 153-182   \nHuang X S,1977.Archaeolambda fosils from Anhui.Vert PalAsiat,15(4): 249-260   \nHuang X S,1978.Paleocene Pantodonta of Anhui. Vert PalAsiat,16(4): 275-281   \nHuang XS,1995.ClassificationofPantolambdodontidae (Pantodonta,Mammalia).VertPalAsiat,33(3):194-215   \nHuang X S,ChenL Z,1997.Mammalian remains from the LatePaleocene of Guichi,Anhui.VertPalAsiat,35(1): 49- 67   \nHuang XS,Zheng JJ,1987.Anew pantodont-like mammal from the Paleoceneof Chienshan Basin,Anhui.VertPalAsiat, 25(1): 20-31   \nHuang X S,ZhengJJ,1997.EarlyTertiary mammals of Xuancheng Basin,Anhui Province anditsimplicationfortheageof Shuangtasi Formation. Vert PalAsiat,35(4): 290-306   \nHuang XS,Zheng JJ,2Oo2.Anew genus ofSoricomorpha (Mammalia)from the LatePaleocene of Qianshan Basin,Anhui Province. Vert PalAsiat,40(2): 127-132   \nHuang X S,ZhengJJ,2003a.Atilldont-like mammal from the Middle Paleoceneof Qianshan Basin,Anhui, China.Vert PalAsiat, 41(2): 131-136   \nHuang X S,Zheng JJ,2O03b.Note on two new mammalian species fromtheLate PaleoceneofNanxiong,Guangdong.Vert PalAsiat, 41(4): 271-277   \nHuang XS,ZhengJJ,2oo5.Anewviverravid(Mammalia,Carnivora)from theLate EoceneofTianyang,Guangxi.Vert PalAsiat, 43(3): 231-236   \nHuang X S,Zheng JJ, Ding S Y,2O01.Arctostylopid fosil (Mammalia)of Changtao Basin,Hunan and comments on related stratigraphy. Vert PalAsiat, 39(1): 14-23   \nIdeker J,YanDF,980.Lestes (Mammalia),ajuniorhomonymofLestes (Zygoptera).VertPalAsiat,18(2):138-141   \nKondrashov PE,Lucas S G,2004a.Palaeostylops iturus from the Upper Paleocene of Mongolia and the status of Arctostylopida (Mammalia,Eutheria). In:Lucas SG, Zeigler KE,KondrashovPEeds.Paleogene Mammals.New Mexico Mus Nat Hist Sci Bull,26: 195-203   \nKondrashovPE,Lucas SG,2Oo4b.Revised distributionof condylarths(Mammalia,Eutheria) in Asia.In: Lucas SG, Zeigler KE,Kondrashov PE eds.Paleogene Mammals.New Mexico Mus Nat Hist Sci Bull,26: 209-214   \nLi C K,1977.Paleocene eurymyloids (Anagalida, Mammalia)of Qianshan,Anhui. Vert PalAsiat,15(2):103-118   \nLiC K,Chow MC,1994.The origin ofrodents.In: TomidaY,LiCK,Setoguchi Teds.Rodent andLagomorph Families of Asian Origins and Diverisification.Natl Sci Mus Monogr,8: 15-18   \nLiC K,Ting S Y,1983.The Paleogene mammals of China. Bull Carnegie Mus Nat Hist,21: 1-93   \nLi C K,Ting SY,1985.Possble phylogenetic relationship of Asiatic eurymylids and rodents,with comments on mimotonids.In: Lucket WP,Hartenberger J-L eds.Evolutionary Relationships among Rodents.New York: Plenum. 35-57   \nLiC K,TingSY,1993.Newcranialand postranal evdence fortheaffnitiesoftheeurymylds (Rodentia)and mimotonids (Lagomorpha).In: Szalay F S,Novacek MJ, McKenna M Ceds.Mammal Phylogeny: Placentals.New York: Springer-Verlag.151-158   \nLiC K,Chiu CS,YanDFetal.,1979.Notes onsome EarlyEocene mammalianfosilsofHengtung,Hunan.VertPalAsiat, 17(1): 71-80   \nLi C K,Wilson R W,Dawson MR et al.,1987.The origin of rodents and lagomorphs.In: Genoways HHed.Current Mammalogy, Vol.1.New York: Plenum.97-108   \nLiCK,Wang YQ,Zhang ZQet al.,2016.Anew mimotonidan Mina hui (Mammalia,Glires)fromthe MiddlePaleoceneof Qianshan, Anhui Province, China. Vert PalAsiat, 54(2): 121-136   \nLopatin A V,1997.New Oligocene Didymoconidae (Mesonychia,Mammalia) from Mongolia and Kazakhstan.Paleont J, 31(1): 108-119   \nLopatin A V2ool.The skullstructureofArchaeoryctes euryalis sp.nov.(Didymoconidae,Mammalia)from thePaleocene of Mongolia and the taxonomic position of the family.Paleont J,35(3): 320-329   \nLopatin AV,2006.Early Paleogene insectivore mammalsofAsia and establishment of the major groups of Insectivora. Paleont J,40(Supp 3): S205-S405   \nLopatin A V,KondrashovPE,2Oo4.Sarcodontinae,anewsubfamilyof micropternodontid insectivores from the Early Paleocene-Middle Eocene of Asia.In: Lucas SG, Zeigler KE, Kondrashov PE eds.Paleogene Mammals.New Mexico Mus Nat Hist Sci Bull,26: 177-184   \nLucas S G,Wiliamson TE,1995.Systematic position and biochronological significance of Yuodon and Palasiodon, supposed Paleocene “condylarths” from China.Neues Jahrb Geol Paläont,Abh,196: 93-107   \nMathew WD,1915.ArevisionoftheLower Eocene Wasatchand WindRiverfaunas.Part IV.Entelonychia,Primates, Insectivora (part). BullAm Mus Nat Hist,34: 429-483   \nMathew WD,Granger W,1925.Fauna and correlationof the Gashato Formation of Mongolia.Am Mus Novit, (189): 1-12   \nMathew WD,Granger W,Simpson GG,1929.Additions to the fauna ofthe Gashato Formationof Mongolia.Am Mus Novit, (376): 1-12   \nMayr G,2009.Paleogene Fosil Birds.Heidelberg: Springer.1-262   \nMayr G,YangJ,DeBastEetal.,2013.A Strigogyps-likebirdfromthe MiddlealeoceneofChina withan unusual grasping foot.J Vert Paleont,33(4): 895-901 McKenna MC,BellSK,1997.ClassificationofMammalsAbove the Species Level.NewYork: Columbia UniversityPres.   \n1-631 McKenna M C, Xue X X, Zhou M Z,1984. Prosarcodon lonanensis,a new Paleocene micropternodontid palaeoryctoid insectivore from Asia.Am Mus Novit, (2780): 1-17 Meehan TJ,WilsonRW,2002.New viverravids fromthe Torejonian (Middle Paleocene)ofKutz Canyon,NewMexico and the oldest skull of the order Carnivora. JPaleont,76(6):1091-1101 MelettJS,SzalayFS,968.Kennatherium shirensis (Mammalia,Palaeoryctoidea),anewdidymoconid fromthe Eocene of Asia.Am Mus Novit,(2342): 1-8 Meng J,1990.Anew speciesofDidymoconidaeandcommentsonrelated localityand stratigraphy.VertPalAsiat,28(3):   \n206-217 Meng J,2004.Phylogeny and divergence ofbasal Glires.Bull Am Mus Nat Hist,285: 93-109 Meng J,Wyss AR,1994.EnamelmicrostructureofTribosphenomys (Mammalia,Glires):characteranalysisand systematic implications.JMammal Evol,2(3):185-203 Meng J,WyssAR,20ol.ThemorphologyofTribosphenomys (Rodentiaformes,Mammalia):phylogeneticimplications for basal Glires.JMammal Evol,8(1): 1-71 Meng J,TingSY,SchieboutJA,994a.Thecranial morphologyofanEarlyEocenedidymoconid (Mammalia,Isectivora). JVert Paleont,14(4): 534-551 Meng J,Wyss AR,Dawson MR etal.,1994b.Primitive fossil rodent from Inner Mongoliaand its implications for mammalian phylogeny. Nature,370:134-136 Meng J,Hu YM,Li C K,2003.The osteologyof Rhombomylus (Mammalia, Glires): implications for phylogeny and evolution of glires.Bull Am Mus Nat Hist, 275:1-247 Missiaen P,Smith T,2O08.The Gashatan(Late Paleocene)mammal fauna from Subeng,Inner Mongolia,China.Acta Palaeont Pol,53(3): 357-378 MissiaenP,EscarguelG,HartenbergerJ-Letal.,O12.AlargenewcolectionofPalaeostylops fromthealeoceneofte Flaming Clifsarea (Ulan-Nur Basin,Gobi Desert,Mongolia),andan evaluation of the phylogenetic afinitiesof Arctostylopidae (Mammalia, Gliriformes). Geobios,45(3): 311-322 MissiaenP,SoléF,De BastEetal.,2013.Anewspeciesof Archaeoryctes from the Middle Paleoceneof China and the phylogenetic diversification of Didymoconidae.Geol Belg,16(4): 245-253 Morlo M,Nagel D,2oo7.Thecarnivore guildofthe Taatsiin Golarea: Hyaenodontidae(Creodonta),Carnivora,and Didymoconida from the Oligocene of Central Mongolia.In: Daxner-Hock G ed. Oligocene-Miocene Vertebrates from the Valley of Lakes (Central Mongolia): Morphology,Phylogenetic and Stratigraphic Implications.Ann Naturhist Mus Wien,108A: 217-231 NessovLA,1987.Result of searches and investigations in the mammal-bearing Cretaceous and early Paleogene in the Territory of the USSR.Ann All-Union Paleont Soc,30:199-218 NessovLA,ArchibaldJD,Kielan-Jaworowska Z,1998.Ungulate-likemammals from the Late Cretaceousof Uzbekistan and a phylogenetic analysis of Ungulatamorpha. In: Beard K C,Dawson M R eds.Dawn of the Age of Mammals in Asia.Bull Carnegie Mus Nat Hist, 34: 40-88 Paterson B,1934.Upper premolar-molar structure in the Notoungulata with notes on taxonomy.Geol SerField Mus Nat Hist, 6(6): 91-111   \nPolly PD,1997.Ancestry and species definition in paleontology: a stratocladistic analysis of Paleocene-Eocene Viverravidae (Mammalia, Carnivora) from Wyoming. Contrib Mus Paleont, Univ Mich,30(1): 1-53   \nQiu Z X,1977New generaof Pseudictopidae (Anagalida,Mammalia)from Middle-Upper Palaeocene of Qianshan,Anhui. Acta Palaeont Sin,16(1): 128-148   \nQiu Z X,Li CK,Huang X Set al.,197ContinentalPaleocene stratigraphyof Qianshanand Xuancheng basins,Anhui. Vert PalAsiat,15(2): 85-93   \nRGSBGA (Regional Geological Survey of the Bureau of Geology and Mineral Resources of Anhui Province),1988a. Stratigraphy of Anhui: Cretaceous.Hefei: Anhui Science and Technology Press.1-127   \nRGSBGA,1988b. Stratigraphy of Anhui: Tertiary. Hefei: Anhui Science and Technology Press.1-202   \nRose KD,1981.The Clarkforkian Land-Mammal Age and mammalian faunal composition across the Paleocene-Eocene boundary. Univ Mich Pap Paleont,26: 1-197   \nRose K D,1994.The earliest primates. Evol Anthropol,3(5): 159-173   \nRose KD,Godinot M,BownTM,1994.Theearlyradiationofeuprimates andthe initial diversificationofOmomyidae.In: Fleagle JG, Kay RFeds.Anthropoid Origins.New York: Plenum Press.1-28   \nRussell D E, ZhaiR J,1987.The Paleogene of Asia: mammals and stratigraphy.Mém Mus Natl HistNat, Sér C,Sci Terre, 52: 1-448   \nSchlosserM,1923.Saugetiere.In: BroiliF,SchloserMeds.K.A.von Zitel,Grundzige derPalaontologie,neubeart. Munich: M.R. Oldenbourg. 402-689   \nScot C S,Spivak DN,Sweet AR,2013.First mammals from the Paleocene Porcupine Hils Formation of southwestern Alberta, Canada. Can JEarth Sci, 50(3): 355-378   \nSecord R,2O08.The Tifanian Land-Mammal Age (Middle and Late Paleocene)in the northern Bighorn Basin, Wyoming. Univ Mich Pap Paleont,35:1-192   \nSloan R E,1987.Paleocene and latest Cretaceous mammal ages,biozones, magnetozones,rates of sedimentation,and evolution.Geol Soc Am Spec Pap,209:165-204   \nSouth China“Redbeds”Research Group,1977.Palaeocene vertebrate horizons and mammalian faunas of South China.Sci Sin, 20(5): 665-678   \nSun B,YueLP,WangYQetal.,O09.Magnetostratigraphyof theearlyPaleogene intheErlianBasin.JStratigr,33(1): 62-68   \nSzalayFS,LiCK,1986.MiddlePaleocene euprimate from South Chinaand the distributionofprimates inthePaleogene.J Hum Evol,15(5):387-397   \nSzalayF S,McKenna MC,1971.Begining of the Age of Mammals inAsia: the Late Paleocene Gashato fauna,Mongolia. Bull Am Mus Nat Hist,144: 269-318   \nTang YJ,Yan DF,1976.Noteson some mammalian fosils from the Paleoceneof Qianshan and Xuancheng,Anhui.Vert PalAsiat,14(2): 91-99   \nTing SY,1998.Paleocene and Early Eocene land mammal ages ofAsia.In: Beard K C,Dawson MReds.Dawn of the Age of Mammals in Asia.Bull Carnegie Mus Nat Hist,34: 127-147   \nTingSY,ZhengJJ,989.TheaitiesofInterogaleandAnchilestesandtheoriginofTllodontia.VertPaAsiat7(2): 77-86   \nTing SY,Tong YS,Clyde WCet al.,2011AsianearlyPaleogenechronologyand mammalian faunal turnover events.Vert PalAsiat, 49(1): 1-28   \nTong H,LiL,LiDSetal.,2016.ArevisionofAnhuichelysYeh,979,theearliestknownstem Testudinidae(Testudines: Cryptodira) from the Paleocene of China. Vert PalAsiat, 54(2):156-179   \nTong YS,Wang JW,2006.Fossil mammals from the Early Eocene WutuFormationof Shandong Province.Palaeont Sin, New Ser C,28:1-195   \nTong Y S,Zheng S H, Qiu ZD,1995.Cenozoic mammal ages of China. Vert PalAsiat,33(4): 290-314   \nTongYS,Wang JW,FuJF,20o3.Yuesthonyx,anew tilldont (Mammalia)from thePaleoceneof Henan.VertPalAsiat, 41(1): 55-65   \nVan Valen L M,1966.Deltatheridia,a new order of mammals.Bull Am Mus Nat Hist,132:1-126   \nVandenbergheN,HilgenFJ,SpeijerRP,20l2.ThePaleogenePeriod.In: GradsteinFM,OggJG,Schmitz MDetal.eds. The Geologic Time Scale 2012. Oxford: Elsevier BV.855-922   \nWang B Y,1978.Two new miacids from Paleocene of Nanhsiung,Kwangtung. Vert PalAsiat,16(2): 91-96   \nWang BY,1979.A new species of Harpyodus and its systematic position.In: IVPP,NIGPASeds.The Mesozoic and Cenozoic Red Beds of South China.Beijing: Science Press.366-372   \nWang XM,Downs WR,XieJYet al.,20o1.Didymoconus (Mammalia: Didymoconidae)from Lanzhou Basin,China and its stratigraphic and ecological significance.JVert Paleont,21(3):555-564   \nWang YQ,1993.The skullmorphologyand phylogeny of non-coryphodontid Pantodonta (Mammalia).PhD Dissertation. Beijing: Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences.1-83   \nWang YQ,1995.Anew zhelestid (Mixotheridia, Mammalia)from the Paleocene ofQianshan,Anhui. Vert PalAsiat, 33(2): 114-137   \nWang YQ,Jin X,2o04.A new Paleocene tillodont(Tillodontia,Mammalia)from Qianshan,Anhui,with a reviewof Paleocene tillodonts from China. Vert PalAsiat, 42(1):13-26   \nWang YQ,YuBA,LiDS,1992.AskullofAltilambda (Mammalia,Pantodonta)fromthePaleoceneof Qianshan,Anhui. Vert PalAsiat,30(3): 221-228   \nWang YQ,Hu YM, Chow M C et al.,1998.Chinese Paleocene mammal faunas and their corelation.In: Beard K C, Dawson MR eds.Dawn of the Age of Mammals in Asia.BullCarnegie Mus Nat Hist,34: 89-123   \nWang YQ,Meng J,Ni XJet al.,2008.Anew Early Eocene arctostylopid (Arctostylopida,Mammalia)fromthe Erlian Basin,Nei Mongol (Inner Mongolia),China.J Vert Paleont,28(2): 553-558   \nWhiting ET,HastingsAK,2015.Firstfosil allgatorfromtheLate Eoceneof NebraskaandtheLatePaleogeneecordof allgators in the Great Plains.JHerpetol, 49(4): 560-569   \nXu Q Q,1976.New materials ofAnagalidae from the Paleocene of Anhui. VertPalAsiat,14:174-184,242-251   \nXu Q Q,1977.Two new genera ofold Ungulata from the Paleocene of Qianshan Basin,Anhui.Vert PaAsiat,15(2):19 125   \nYan DF,Tang YJ,1976.Mesonychids from the Paleocene of Anhui. Vert PalAsiat,14(4): 252-258   \nYeh HK,1979.Paleocene turtles from Anhui.Vert PalAsiat,17(1): 49-56   \nYoung CC,1982.A Cenozoic crocodile from Huaining,Anhui. In: Selected Works of Yang Zhongjian (C.C.Young). Beijing: Science Press.47-48   \nZack S P,2004.An Early Eocene arctostylopid (Mammalia: Arctostylopida) from the Green River Basin, Wyoming. J Vert Paleont,24(2): 498-501 ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Wang et al.-A synopsis ofPaleocene stratigraphy and vertebrate paleontology in Qianshan Basin117 ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Zhang F K,1981.A fossil crocodile from Anhui Province.Vert PalAsiat,19(3): 200-207   \nZhang YP,Tong YS,1981.New anagaloid mammals fromPaleocene of South China.VertPalAsiat,19(2):13-144   \nZhang ZQ,LiCK,Wang Jetal.,2016.Presence of the calcaneal canalin basal Glires.VertPalAsiat,54(3): 235-242   \nZheng JJ,1979.ThePaleocene notoungulatesofJiangxi.In:IVP,NIGPAS eds.The Mesozoicand CenozoicRedBedsof South China.Beijing: Science Press.387-394   \nZheng JJ,Huang X S,1986.Newarctostylopids (Notoungulata,Mammalia)from the Late Paleocene of Jiangxi. Vert PalAsiat,24(2): 121-128   \nZheng JJ,Qiu ZX,1979.A discusionof Cretaceous and Lower Tertiarycontinental strataof South China.In: IVPP, NIGPAS eds.The Mesozoic and Cenozoic Red Beds of South China.Beijing: Science Press.1-78   \nZhengJJ,ZhengLT,Huang XS,1999.New materialsofPseudictopidae (Anaglida,Mammalia)from theEarly-Midle Paleocene of Qianshan Basin,Anhui. Vert PalAsiat,37(1): 9-17 ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Appendix1 Faunal list ofPaleocene vertebrates in the Qianshan Basin ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "In the bracket behind the taxa,1.l refers to the Lower Memberof the Wanghudun Formation,1.3a refers to the lowerpartof the Upper Memberofthe WanghudunFormation,1.3brefers totheupperpartofthe Upper Memberof the Wanghudun Formation,2.1refers to theLower Memberof DoumuFormation,and2.2refers to the Upper Memberof the Doumu Formation. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Reptilia Laurenti,1768 Testudines Linnaeus,1758 Cryptodira Cope,1868 Testudinoidea Batsch,1788 Anhuichelys Yeh,1979 A.siaoshihensis Yeh,1979 (1.1,1.3a) A.tsienshanensis Yeh,1979 (1.3b,2.1,2.2) A.doumuensis Tong,Li,Li,Chen,Li,Yu,Yu,Cheng,Di& Claude,2016 (2.2) Anhuichelys sp. (1.3b,2.1?) Squamata Oppel,1811 Iguania Cope,1864 Acrodonta Cope,1864 Agama Daudin,1802 A.sinensis Hou,1974 (nomen dubium) (2.1) Anhuisaurus Hou,1974 A.huainanensis Hou,1974 (2.2) Qianshanosaurus Hou,1974 Q.huangpuensis Hou,1974 (1.1, 1.3a) Tinosaurus Marsh,1872 T.doumuensis Hou,1974 (2.2) Anguimorpha Firbringer,1900 Varaniformes Conrad,2008 Gen. et sp. indet. (2.2) Squamata incertae sedis Anqingosaurus Hou,1976 A.brevicephalus Hou,1976 (1.1) Changjiangosaurus Hou,1976 ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "C.huananensis Hou,1976 ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Crocodilia Gmelin,1788 Wanosuchidae Zhang,1981 Wanosuchus Zhang,1981 W.atresus Zhang,1981 Alligatoridae Gray,1844 Alligatorinae Gray,1844 Eoalligator Young,1964 E.huiningensis Young,1982 ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Aves Linnaeus,1758 Gruiforms Coues,1884 Rallidae Vigors,1825 Wanshuina Hou,1994 W. lii Hou,1994 )rder indet. QianshanornithidaeMayr,Yang,DeBast,Li&Smith,2013 QianshanornisMayr,Yang,DeBast,Li&Smith,2013 Q.rapax Mayr,Yang,DeBast,Li& Smith,2013 ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "A.wanghudunensisZheng,Zheng&Huang,1999 ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "AllictopsQiu,1977 ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "A.inserrata Qiu,1977 ",
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "images/3cf7c167e9cfb9c25f3e14dc7d808f3cef55d2cd42723260f0f26d891a2f04cd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">ang et al.-A synopsis of Paleocene stratigraphy and vertebrate paleontology in Qianshan Basin</td></tr><tr><td>Cartictops Ding& Tong,1979</td><td></td></tr><tr><td>C.canina Ding & Tong,1979</td><td>(1.1)</td></tr><tr><td>Astigalidae Zhang & Tong,1981</td><td></td></tr><tr><td>Astigale Zhang& Tong,1981</td><td></td></tr><tr><td>A.wanensis Zhang & Tong,1981</td><td>(1.1)</td></tr><tr><td>Chianshania Xu,1976</td><td></td></tr><tr><td>C. gianghuaiensis Xu,1976</td><td>(1.1)</td></tr><tr><td>Family indet.</td><td></td></tr><tr><td>Wanogale Xu,1976</td><td></td></tr><tr><td>W. hodungensis Xu,1976</td><td>(1.1)</td></tr><tr><td>Simplicidentata Weber,1904</td><td></td></tr><tr><td>Eurymylidae Matthew, Granger & Simpson,1929</td><td></td></tr><tr><td>Heomys Li,1977</td><td></td></tr><tr><td>H.orientalis Li,1977</td><td>(2.2)</td></tr><tr><td>Heomys sp.</td><td>(1.3a)</td></tr><tr><td>Duplicidentata Illiger,1811</td><td></td></tr><tr><td>Mimotonida Li,Wilson,Dawson & Krishtalka,1987</td><td></td></tr><tr><td>Mimotonidae Li,1977</td><td></td></tr><tr><td>Mimotona Li,1977</td><td></td></tr><tr><td>M. wana Li, 1977</td><td>(1.3a?, 2.2)</td></tr><tr><td>M.robusta Li,1977</td><td>(2.1)</td></tr><tr><td>M. lii Dashzeveg & Russell,1988</td><td>(1.3a)</td></tr><tr><td>Mimolagidae Szalay,1985</td><td></td></tr><tr><td>Mina Li,Wang,Zhang,Mao & Meng,2016</td><td>(1.3b)</td></tr><tr><td>M. hui Li,Wang,Zhang,Mao & Meng,2016</td><td></td></tr><tr><td>Didymoconida Lopatin, 2001</td><td></td></tr><tr><td>Didymoconidae Kretzoi, 1943</td><td></td></tr><tr><td>Zeuctherium Tang & Yan,1976</td><td>(1.3a)</td></tr><tr><td>Z.niteles Tang& Yan,1976</td><td></td></tr><tr><td>Archaeoryctes Zheng,1979</td><td>(1.3a)</td></tr><tr><td>A.wangi Missaen,Solé,De Bast,Yan,Li& Smith,2013</td><td></td></tr><tr><td>Wanolestes Huang & Zheng,2002</td><td>(2.2)</td></tr><tr><td>W. lii Huang& Zheng,2002</td><td></td></tr><tr><td>Carnivora Bowdich,1821</td><td></td></tr><tr><td>Viverravidae Wortman & Matthew,1899</td><td></td></tr><tr><td>Pappictidops Chiu &Li,1977</td><td></td></tr><tr><td>P.orientalis Chiu&Li,1977</td><td>(1.3a)</td></tr><tr><td>Mesonychia Matthew,1937</td><td></td></tr><tr><td>Mesonychidae Cope,1875</td><td></td></tr><tr><td>Yantanglestes Ideker &Yan,1980</td><td></td></tr><tr><td>Y.conexus (Yan & Tang,1976)</td><td>(1.1)</td></tr><tr><td>Pantodonta Cope,1873</td><td></td></tr><tr><td>Bemalambdidae Chow, Zhang,Wang&Ding,1973</td><td></td></tr><tr><td>Bemalambdidae gen. et sp. indet.</td><td>(1.1)</td></tr><tr><td>Bemalambda Chow,Zhang,Wang&Ding,1973</td><td></td></tr><tr><td>Bemalambda sp.</td><td>(1.1)</td></tr><tr><td>Harpyodidae Wang,1979</td><td></td></tr><tr><td>Harpyodus Qiu &Li,1977</td><td></td></tr><tr><td>H.euros Qiu & Li,1977</td><td>(1.3a)</td></tr></table></body></html>",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Pantolambdodontidae Granger & Gregory,1934 ArchaeolambdaFlerov,1952 A.tabiensis Huang,1977 Pastralodontidae Chow & Qi,1978 Altilambda Chow&Wang,1978 A.pactus Chow &Wang,1978 A.yujingensisWang,Yu&Li,1992 ?A.tenuis Chow& Wang,1978   \nArctostylopida Cifelli,Schaff&McKennna,1989 Arctostylopidae Schlosser,1923 Sinostylops Tang& Yan,1976 S.promissus Tang& Yan,1976   \nTillodontia Marsh,1875 Plethorodontidae Huang & Zheng,1987 Plethorodon Huang& Zheng,1987 P.chienshanensis Huang & Zheng,1987 Family indet. Simplodon Huang& Zheng,2003 S.qianshanensisHuang& Zheng,2003 Benaius Wang&Jin,2004 B.qianshuiensis Wang& Jin,2004   \nCimolesta McKenna,1975 Sarcodontidae Lopatin & Kondrashov, 2004 Hyracolestes Matthew& Granger,1925 H.ermineus Matthew & Granger,1925   \nOrder indet. Family indet. Wania Wang,1995 W. chowi Wang,1995 Obtususdon Xu,1977 O.hanhuaensis Xu,1977 Decoredon Xu,1977 D.elongetus Xu,1977 AnchilestesChiu&Li,1977 A.impolitus Chiu&Li,1977 ",
+        "page_idx": 31
+    }
+]

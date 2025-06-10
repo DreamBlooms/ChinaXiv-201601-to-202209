@@ -1,0 +1,400 @@
+[
+    {
+        "type": "text",
+        "text": "中国植物分类及标本采集史简述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王瑞江",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国科学院华南植物园广东省数字植物园重点实验室，中国科学院核心植物园保护生物学中心，广州510650)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：植物分类学是一门古老的科学，其发展也受到了社会历史变革的深刻影响。通过对我国植物分类学研究和发展史进行简要回顾，根据人们对植物分类学科的认识程度以及社会重大历史事件等，将我国植物分类的发展史大体分为原始、古代、近代和现代四个阶段，并对各阶段进行了简要说明。植物标本是植物分类研究最基本和最重要的凭证材料，因此我国的植物标本采集史也见证了植物采集人员在我国植物分类学研究发展的历史过程中所付出的血汗、泪水、甚至生命。植物资源的保护和种质资源的收集和保存正日益成为我国生态文明建设的主要内容，在新时代生物多样性保护的背景下，植物分类学和植物分类研究人员将会发挥更重要的作用，为我国的生物多样性保护提供更加强有力的支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生物多样性，中国，生态文明，植物分类，标本采集中图分类号：Q949 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A concise introduction to the plant taxonomy and specimen collection in China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Ruijiang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Guangdong Provincial Key LaboratoryofDigital Botanical Garden,South China Botanical Garden,Chinese Academy of Sciences,Centerof Conservation Biology,Core Botanical Gardens,Chinese Academy ofSciences, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guangzhou 500650, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Plant taxonomy is an ancient science and its development has also been profoundly affected by social changes. The development history of plant taxonomy in China is briefly reviewed and summarized here.According to the people's understanding of plant taxonomy and major historical events,the development history of plant taxonomy in China can be roughly divided into the primitive stage,the ancient stage,the modern stage,and the contemporary stage. Each stage ais briefly described.Plant specimens are the most basic and important voucher material for plant taxonomy. Therefore,the colection of plant specimens has witnessed the blood, sweat,tears,and even the lives of plant collectors,during the development of plant taxonomic research in China.At present, the protection of plant resources and the collection and preservation of germplasm resources are increasingly becoming the main task of the ecological civilization construction in China.Under the circumstance of biodiversity conservation in this new era, plant taxonomy and taxonomists will play a much important role and provide strong support for biodiversity conservation in China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: biodiversity, China, ecological civilization, plant taxonomy,specimen collection ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物分类学是一门非常古老的学科，随着社会生产力和科学技术的进步而不断发展，是社会发展过程中人类认识自然、了解自然和利用自然的一个缩影。为了满足自身生存和生活的需要，人类在受惠于身边植物所提供的物种资源的同时，对植物世界的探索也在不断进行着。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "历史上，人们对植物的认识要早于对植物标本的采集。早期人们对植物的分类仅局限于一些与其生存密切相关的种类，如可食以果腹的根、茎、叶、花、果实和种子等，可搭棚建屋的树木、藤条、叶片等，可医治疾病的草药等。对这些植物简单的功能性分类使人类社会得以生存和繁衍，并在严酷的自然竞争中得到了比其他物种更为快速的发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为世界文明古国之一，中国古代劳动人民跟欧洲、非洲、美洲等地区的人民一样，对植物的认识和利用有着相似的过程。也就是说，每个地区的人民都在各自的土地上依赖其周边环境中的植物，与饥饿、贫穷、疾病和自然界的种种困难作着顽强的斗争。在远古的原始社会，人们可能不会通过采集和收藏植物标本向他人传授植物识别的经验，但是，为了生存和繁衍，他们对植物的利用活动，如采取食用、药用、颜料植物等，却一刻也没有停止过。在文字尚未出现之前，人们通过口传亲授的方法来辨识和利用可食、有毒、药用及材用植物，并在野外从事生活或生产活动时进行代代传承。随着文字的出现和现代文明的发展与进步，这种原始的植物分类和采集逐渐发展成为一门科学——植物分类学。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国拥有约3.8万种高等植物(Qin etal.,2021),是北半球植物多样性最为丰富的国家，也是世界植物物种保存、形成和进化中心之一，有“世界园林之母”之称。作为\"四大文明古国\"之一，我国劳动人民早就认识和利用了许多野生植物资源，并积累了丰富的植物分类学知识。但在18 世纪后期和19 世纪，由于社会历史的重大变革和科学技术发展的落后等，植物分类学研究受到极大的影响，并且在这一时期中国丰富的植物多样性反而成为了西方植物采集者的天堂。马金双（2020）以编年纪事的方式对自18世纪中叶至今在我国开展植物分类学研究以及重要的植物采集活动做了介绍，这是首部对我国植物分类学史进行收集与整理的重要著作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在总结前人研究的基础上，对中国植物分类学的发展做一简要说明和概括总结，并对一些细节进行补充描述，以使对中国植物分类学史的介绍更为简洁明了。世界各国对植物分类发展阶段的划分虽有不同但基本相近，而我国也因社会发展有别于其他国家，特别是欧洲的许多国家，因而在植物分类上独具特色（陈德懋，1993)。由于植物分类学是与人类社会发展相适应的产物，因此，本文根据我国社会历史的发展阶段，将我国植物分类史划分为与之相应的四个阶段，并对各个阶段进行简要介绍。同时在我国新时代生物多样性保护的大背景下，对植物分类学发展的机遇和挑战进行了展望。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1我国植物分类的四个阶段",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于人们对植物种类的认识和研究的广度与深度，以及当时社会发展和科技进步的程度，将我国植物分类史分成四个阶段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1原始植物分类阶段",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "原始植物分类阶段应始于人类于数百万年前学会识别并采集可食植物，而止于文字出现的年代。这个阶段在历史上应属于旧石器和新石器时代，此时文字还没有出现，仅有简单或称为\"图形\"或\"象形\"的文字雏形。那时人们出于对食物的需求而开始甄别哪些植物可以食用，哪些植物有毒，哪些植物可以用来取暖遮寒等，这些采集活动逐渐孕育了人类最原始、最初级的植物分类意识。经过长期从无意识到有意识的人为选择，终于在4万多年前拉开了原始农业的序幕。由于缺少更详细的记录，后人对这个时代进行了神化，如将尝百草以救天下苍生的传奇人物称为神农氏，将后稷奉为农耕始祖、五谷之神。在这个没有文字的时代，人们对植物的识别和利用完全依靠手传口授进行，因而被认为是最原始的植物分类阶段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2古代植物分类阶段",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "古代植物分类阶段始于文字出现以后，而大体上止于清朝末期1840 年的鸦片战争。陈焕镛曾将1898年之前，即欧洲学者采集中国植物进行研究之前的阶段，划为我国植物学研究的\"上古时期”（秦仁昌，1930)。文字的出现为描述和记载植物的形态特征提供了重要工具，并为传授、普及和传播植物学知识提供了载体，是人类进入文明社会的一个重要标志。石器时代后期，伴随着金属工具，如青铜器和铁器的使用，生产力得到了迅速发展。史料表明，在夏禹或更早的时代，原始文字开始产生并逐渐得到创立和发展，至公元前1300 年我国商代晚期出现的有规律文字系统——甲骨文后，文字已经基本成熟。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "《山海经》是我国先秦时代一部内容丰富、涉及面广的综合性典籍，反映了上古时代人们对复杂多变的自然现象的粗浅认识。此书收载了158种植物，并以草木禾三类将这些植物的分布、形态、生态习性、气味等特征和功用做了介绍，在当时表现出较高的分类水平，是后世本草体系分类的雏形。相对于秦汉时期最早系统地反映我国古代植物分类思想的《尔雅》，尽管《山海经》中植物分类显得粗糙和缺乏系统性，但作为我国现存最早反映植物分类的著作，为近代植物分类学发展奠定了基础，对探讨我国古代植物分类的形成和发展有着重大意义（丁永辉，1993)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此后3000多年的中华文明发展进程中，我国人民基本上是对植物的食用、药用价值进行记录和描述。在分类方法上，农业方面的著作多采用以作物、蔬菜、果树、竹木等分类的“农林植物分类法”，如汉代汜胜之编著的我国最早的农学专著《汜胜之书》、后魏贾思勰编撰的《齐民要术》、明代农艺师徐光启的《农政全书》等。而药用植物多采用\"本草植物分类法”，如公元前3世纪的《五十二病方》，成书于公元前1世纪的世界最早的本草学著作《神农本草经》以及后来的《本草经集注》等常采用“三品分类方法”。这些分类法基本上是出于实用的目的，而没有顾及植物的自然属性分类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "明代是农学和本草学发展的鼎盛时期。如明朝开国皇帝明太祖朱元璋的第五子朱繡编撰的《救荒本草》讲述了哪些植物可以替代粮食以度饥荒，具有很强的通俗性、实用性和科学性，是第一部以救荒为宗旨的植物专著。“药圣\"李时珍编著的《本草纲目》总结了历代的本草知识，是我国第一部比较完备的本草学著作，在分类学、进化论、博物学等各方面均处于世界领先地位，标志着我国人们对植物的分类进入了一个快速发展的阶段时期。清代植物学家吴其濬编撰并成书于1848年的《植物名实图考》收集了谷、蔬、草、果、木等植物，开创了植物图鉴的先河，是中国19世纪出现的一部学术价值很高的植物研究专著，标志着古代植物研究的进步和发展，是具有划时代意义的代表性著作（中国植物学会，1994)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在这数千年里，人们给大多数常见植物进行了命名，即\"名物”。对植物的\"名物\"就是指对自然界中的草木等进行命名，这是植物命名研究的重要组成。当然，中文名的命名一般也会遵循名称的\"优先律\"和\"普及性”，但是由于华夏地大物博，植物种类非常丰富，因此，也不可避免会出现\"同名异物\"和“同物异名\"的现象。早期记录植物并且传播较广的书籍如先秦时期的《诗经》就记载了100 多种植物，涉及谷类、蔬菜、药材、果树等，《楚辞》也记载了上百种植物，并分为香草木类和恶草恶木类，《尔雅》收录了草本植物名称455个，木本植物名称104个。这些名称后来也为农学和医学（本草学）的著作所引用，对规范古代植物名称起到了推动作用（陈德懋,1993)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用中文给植物命名或取象于其生态习性，如木本植物多用\"木\"作为偏旁，而草本类多用于“艹”；或取象于颜色，如朱槿、紫苏之类；或取象于其气味，如鱼腥草、臭椿之类；或取象于功能，如接骨草、扛板归等（谭宏姣，2008)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但是，由于古代大部分劳动人民识字不多，文化水平较低，大部分植物还是会在民间有其地方名并大行其道，如在数百年前传入我国的马铃薯就有土豆、洋芋、山药蛋等多种称呼。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "“同物异名\"或\"同名异物\"的这种现象不仅会对文化交流产生影响，更是阻碍了民族植物学和中医药学的发展。而更为主要的是，古代本草学或农学书籍的编写人员几乎没有永久保存或收藏任何植物的凭证材料（标本)，虽然后来在出版的有关书籍中辅以绘图以确定物种，如我国北宋时期的药物学家苏颂编纂的《图经本草》就是《嘉佑补注本草》的图册卷，清朝吴其濬的《植物名实图考》收录1714种植物也附图1800 多幅。但由于绘图方式或细节展示不够等原因，后人还是往往无法对其中的一些植物种类的原植物进行考证。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3近代植物分类阶段",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15世纪和16世纪资本主义社会经济的发展促进了近代自然科学的飞跃前进，西方植物分类学的理论基础和实验技术也同样得到了迅速发展。在这段时期，植物标本大量积累，对植物特征的描述也进一步规范，分类系统开始逐步建立，植物分类学从人为分类系统阶段开始逐渐进入自然分类系统时期。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我国第一部系统介绍西方近代植物学的重要著作当推由李善兰和英国传教士 A.Williamson 等的合译本《植物学》一书。此书于1859 年出版，主要内容来自英国植物学家J.Lindley所著的 Elementsof Botany，附有插图近200幅。此后，于1918年出版的《植物学大辞典》收录了8980条植物学名称名词和千余幅附图，为推动我国植物学研究和科学普及起到了重要作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1859 年11月，英国生物学家CharlesR.Darwin发表的《物种起源》一书，将生物进化论的观念渗透到植物分类学领域，并引起植物学家对植物演化的探讨。比较著名的有英国植物学家John Hutchinson于1926年和1934 年基于\"真花学说\"所创立的分类系统，以及德国分类学家 Heinrich G.A.Engler& KarlA.E.Prantl 在 1887-1915 年间基于\"假花学说\"所创立的分类系统。这两种学派也先后被引入到中国并应用于植物标本馆的标本管理中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在此阶段，我国许多学者赴欧美留学，学习了西方现代植物分类知识并带回中国，他们中的许多人后来成为中国植物分类学研究的开拓者和奠基人。如钱崇澍发表的“Two Asiaticallies of Ranunculus pensylvanicus”一文，是最早由中国人自己开始描述的植物新种（Chien,1916)，这标志着中国的植物分类开始走向一个新的时代。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "命名法规的制订是这一阶段植物分类学史上最重要的事。分类学研究中出现的\"同物异名\"和\"同名异物\"等问题影响了人们之间对物种信息的准确交流和传达，因此植物学需要一个稳定、精确且简单的命名系统并被全世界的植物学家统一使用。基于此，Alphonse L.deCandolle 于1867年8月在巴黎召开的第一届国际植物学大会上提出了一个植物命名原则一—Lois de la Nomenclature Botanique”。后来在1905 年召开的第二届国际植物学大会上，经与会人员的讨论和修改，以《国际植物命名法规(International Rules of Botanical Nomenclature)》的形式正式发布。该法规规定植物\"种名\"应采用\"双名组合(binarycombination,binomial)”，有效和合格发表的植物名称应始于1753年5月1日，即Linnaeus(1753）在《植物种志》（Species Plantarum）一书中采用的双名系统（binary system）之日。从此以后，这一日期成为了大部分藻类、藓类植物中的泥炭藓科及苔类植物、真菌和维管植物等现代种类的有效和合法命名的起点(Turland etal.,2018)。值得一提的是，这本书也收录了瑞典人Pehr Osbeck在我国南方沿海地区采集的百余种植物。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4现代植物分类阶段",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1922 年中国科学社生物研究所的成立，标志着中国生物学家开始走上独立发展的道路，开启了国人对中国生物资源调查研究的序幕。1928年10月1日，以\"调查及研究全国动植物之分类，籍谋增进国民生物学之知识，促进农、林、医、工各种实验生物学之应用\"为宗旨而成立的北平静生生物调查所，更是推动了我国分类学事业的快速发展。该研究机构的成立不仅取得了一系列卓越的分类学研究成果，还培养了一大批生物学人才，为中国现代植物分类学的发展在人力和物力上奠定了重要基础（徐文梅，2009)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1922—1949 年期间，由于社会发展的需要，兴办了许多国家级研究院所和高等教育学校，出版的植物学书籍也多达250册以上。这些书籍内容涵盖了教科书、讲义，以及植物学小史和科普、命名考证、植物检索表和图谱，还涉及到植物解剖学、植物地理学和植物生态学等知识。1930年，在英国召开的第五届国际植物学大会上，我国著名植物分类学家陈焕镛和胡先骗被选为植物学命名委员会委员。1935年，在荷兰召开的第六届国际植物学大会上，陈焕镛又当选为植物分类组执行委员和植物学命名委员会副主席。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在这个阶段，中国植物的分类学家学习并传播西方现代植物分类学知识，并按照《国际植物命名法规》开始描述和发表植物新分类群，为中国现代植物分类学的发展奠定了重要基础。此间，胡先骗先生于1928年发表了秤锤树属 Sinojackia Hu，这是中国植物学家发表的第一个新属。1948 年，胡先啸和郑万钧还共同发表了我国分布的重要\"活化石\"植物——水杉(Metasequoia glyptostroboides Hu& Cheng)，被认为是20 世纪我国乃至世界植物界的重大发现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1949 年中华人民共和国成立的第二年，老一辈植物学家就开始着手筹备编写《中国植物志》。自1959 年出版第一册至2004年出版最后一册，有4代植物学家312位作者和164位绘图人员历经45年艰辛，共编撰80卷126册5000多万字才得以最终完成（中国科学院中国植物志编辑委员会，1959-2004)。此书记载了我国301科3408 属31142 种植物的科学名称、形态特征、生态环境、地理分布、经济用途和物候期等。《中国植物志》的完成是中国植物学研究领域一项开拓性、创新性、系统性、基础性工程，不但是现代中国植物分类学家呕心沥血的成果，而且也应归功于自古以来对中国植物在农学、本草学、栽培学等方面进行过命名、记载、校注以及绘图所有人。它不仅是一个时代的标志，也是中华民族全体智慧的结晶。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "后《中国植物志》时代，中国植物分类学家们携手国外专家完成了FloraofChina 的编写（Wu&Raven,1994-2013)，并开展了对生物多样性热点地区植物种类和植物区系的深入调查，以及植物专科专属类群的分类学修订。在研究方法上，研究人员在传统的形态解剖学研究的基础上，结合现代分子生物学技术，如对细胞核和叶绿体基因片段、叶绿体全基因组、核基因组、转录组等进行序列测定和分析，使植物分类学和系统学问题得到了较好的解决，取得了一系列重要成果（陈之端等,2020)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近年，由于网络的普及和人工智能技术的快速发展，植物智能识别的软件也迅速得到开发和广泛应用，使植物分类不再是专家们的独享，而是普罗大众进行科学知识学习、交流和生物多样性保护的重要工具。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2中国植物标本采集史",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植物标本资料是进行植物分类学研究的重要基础，但以采集、压制标本来进行植物分类研究要远比简单地将植物以食、药、材、蔬等的分类要晚许多年。我国植物标本的采集大体可以分为近代（以欧美人为主的标本采集）和现代（以中国人为主的标本采集）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1欧美人对我国植物标本和资源的采集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我国的现代植物分类学研究开展较晚，因而以欧美为主的西方人士早在17世纪的明清时期就深入到我国各地进行植物标本采集、分类研究和植物资源的收集与保存。最早的记录可追溯到1701年，当时受雇于东印度公司的苏格兰博物学家James Cunningham 在我国浙江省的舟山群岛采集了一份编号为857的茶标本。1888年，《牛津国家人物传记大词典》将其称为\"第一个在中国制作植物标本的英国人”，并认为这份标本是最古老的茶叶标本，对解决英国人对于中国茶叶植物学和文化意义的争论起到了非常重要的作用（邱妤玥和邱波彤，2019)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "自1840 年鸦片战争至1937年中日战争全面爆发的近百年时间里，西方人在我国采集了大量的植物标本和植物种质资源，如爱尔兰人Augustine Henry 自1882 年至1990 年在华期间采集了15000多份标本和500份种子，其中500个是新种；英国出生的美国植物学家ErmestH.Wilson自1899年多次来华采集，在1905年3月回国时就带了510种树和2400 种植物标本；20 世纪初，英国人Georges Forrest 在我国收集并寄出了约31000 件植物标本、大量的杜鹃花科活植物和种子。在1930年召开的第五次国际植物学大会上，英国爱丁堡皇家植物园的W.W.Smith在其所提交的论文\"中国植物对于欧洲庭园之贡献\"中就统计出欧洲庭园栽培植物中有 $5 2 \\%$ 以上采自中国，并且这些植物也都是数十年来从我国无偿得到的（秦仁昌，1931)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "欧美学者对采自我国的植物标本进行了鉴定，并发表了大量植物新分类群，随之植物模式标本也保存于国外标本馆。据初步统计，从17 世纪中叶到20 世纪的400 年间，约有316 名西方植物采集者在中国采集了大约121万余份标本并依此发表了大量的新分类群（杨永，2012)。当国人于20世纪20至30年代开始致力于国产植物研究之时，已有1.5万种中国植物已经记载并被外国学者发表。这给我国植物分类学研究因缺少关键和重要的比对材料而带来了诸多不便（芦笛，2014)。从上世纪80年代至今，因需要查阅模式标本和早期采集的其他标本，国内许多植物分类研究人员不得不远赴欧美等地数月乃至经年，孜孜以求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了专门研究植物分类的人员采集标本外，我国著名的文学家鲁迅于1909 年从日本留学回国在任教于杭州浙江两级师范学堂期间，也经常带领学生到西湖附近采集并制作植物标本。目前北京鲁迅博物馆还完好地保存着他当时采集的木槿和马蓼两份植物标本，这些珍贵的历史标本成为国人在20世纪初期就开始进行植物采集和记录的重要凭证。此外，鲁迅先生的十几份其他标本由鲁迅的学生蒋蓉送给了绍兴鲁迅纪念馆和杭州第一中学鲁迅纪念室进行陈列和收藏，但如今不知是否尚存（钱振文,2018）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "关于人们对中国植物的采集史，前人已经多有详细记载和描述，如王印政等(2004)和马金双(2011，2020)，故此处不再过多赘述。如果仅对在邱园收藏的911位中国植物标本的采集者进行一一描述，就需要一本专著才能囊括（芦笛，2014)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2国人的植物标本采集",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "早期的植物采集条件异常艰苦，尤其是在瘴气盛行、蚊虫肆虐但植物种类非常丰富的海南和西双版纳等热带和偏远地区，时常会有危及生命的事情发生。中国科学院华南植物园的创始人——陈焕镛在1919-1920 年只身一人奔赴海南采集时，就先被毒蜂蜇伤，后又患了疟疾，身上满是因蚂蟥吸血、蚊虫叮咬以及营养缺乏而形成的疮痂，甚至是因左手膀肿最后被人用担架抬出五指山。他于1932年2月再次赴海南采集时，所有队员均患病并且一名队员死亡。同年7月左景烈先生带队继续前往海南采集，9月时又有一人病亡。1935年侯宽昭在海南万宁和陵水一带采集时，当地土匪横行，生命安全无法得到保障。1936年，受聘为中山大学农林植物研究所贵州调查员的邓世纬率队一行7人于8月23日赴贵州贞丰进行采集，时至夏秋之交，瘴病盛行，在10月13日随行的助理杨昌汉和技工徐方才先后病亡。邓世纬在扶棺运回途中，也与助手黄孜文相继染疾并于17日病亡，剩下的3人也在此后病亡。为了使后人记住这一中国植物采集史上的灾难和纪念邓世纬为我国植物分类研究做出的贡献，陈焕镛就曾以世纬苣苔属TengiaChun 命名新发现的物种。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另外，早年献身于植物学事业的还有当时在中央大学农学院森林系任助教的陈谋。他于1934年6月到云南采集森林植物，在1935年4月27日因感染瘴毒而病逝于赴墨江县的途中。时任中央大学森林系主任李寅恭于1945 年所述\".....初抵昆明即采标本五百号离昆赴大理行程八百余里，,带雨半月达邓川宾川诸山得标本二千五百号余....由镇康至澜沧一带全为瘴盛行之区，土族摆夷兴牛马同棲息迷信神权罔知医药死亡率大，君气壮不稍顾忌毅然前赴....”。更为可惜的是，这些标本在抗战期间大多毁于战火，野外记录也付之一炬。同样，为了纪念陈谋先生为我国植物标本采集所做出的突出贡献，后人也在发表新种时以其姓名作为种加词，如\"长苞椴 Tilia tuan var.chenmoui (W.C.Cheng)Y.Tang”、“陈谋卫矛Euonymus chenmoui W.C.Cheng\"、“陈谋水葱 Schoenoplectus chen-moui (Tang & F.T.Wang)Hayasaka”、“陈谋悬钩子 Rubus chenmouanus Z.H.Chen et al.”、“琅琊榆 Ulmus chenmoui W.C.Cheng\"等。2017年6月，陈谋在1927-1928年间采集的一批珍贵的植物标本再度面于世人，确实为植物分类学界的一件幸事（绍兴晚报，2017年6月24-30日连续报道)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "中国第一个采集苔藓植物标本的人是云南盐津的天主教神父邓培根（Semeon Ten），他也是当时主要跟随外国人在我国进行苔藓采集的代表人物。后来，我国的一些植物分类学家如钟观光等才开始有目的、有计划地采集苔藓植物，但是植物标本的鉴定还是需要外国人的帮助。王启无、赵修谦和陈邦杰等学者是我国开始专业采集和研究苔藓植物的重要代表。在1949 年之前，国人共采集苔藓标本近2.5万号，其中陈邦杰等人采集约1万号。陈邦杰先生一生从事着苔藓植物的分类研究，为培养我国相关领域的研究人才发挥了重要作用，并成为我国苔藓植物研究的奠基人（朱宗元等,2019）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "总之，植物标本是现代植物分类学研究的重要载体，植物标本的采集史也是采集人的生命史，他们为此付出的辛苦、汗水乃至生命给植物学研究提供了丰富的植物材料，并与植物分类学研究变得不可分割。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3我国的植物标本",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "模式标本是发表植物学名、考证植物名称的重要凭证，对名称的稳定具有重要的意义，在分类学中有着不可替代的价值。由于我国许多植物曾被外国人采集、描述和发表，随之引起的是这些种的模式标本也大多保存于国外标本馆，如成立于1852年的英国皇家植物园邱园（K）是目前世界上标本保存数量最多的标本馆，收藏了我国 $5 0 \\%$ 以上植物种类的模式标本。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "中国第一个现代植物标本馆——香港植物标本室(HK)，是Charles Ford 在担任香港政府花园部监督时，以他在香港及华南地区所采集的标本为基础于1878年建立的，现在保存标本约46100份，其中模式标本约300份。目前，我国馆藏数量最多的植物标本馆中国科学院植物研究所标本馆(PE)、昆明植物所标本馆(KUN)和华南植物园标本馆(IBSC)分别以馆藏265万、111.4万和100万份标本在世界上的排位为25、62和71（Thiers,2021)。显然，植物标本馆已经成为进行植物分类学研究的重要场所。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2021年12月27日对我国国家标本平台（www.nsii.org.cn）收录的植物标本进行搜索，结果显示，目前平台收集了11533023条植物标本信息，其中模式标本的数量仅33966 条记录。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "模式标本的缺失成为研究中国植物分类的极大障碍（吴征镒，1953)。秦仁昌曾于1931年在国立中山大学农林植物研究所印行的《今后发展我国植物学刍议》一书中撰文，感叹我国植物分类学发展受阻的关键原因在于“原种标本之无着，图书设备之简陋”。他为此专门于1930年到邱园（K）历时十一个月拍摄1.6万张、在英国自然历史博物馆（BM）等机构又拍摄2000多张，包括了中国植物的模式标本和定名比较精确的其他凭证标本照片共18 300多张。而陈焕镛于1930年借参加在英国举办第五届国际植物学大会之便，将随身携带的采自广东的植物标本与存放于英国BR和K标本馆的模式标本相比对，然后又将这些标本带回国内标本馆作为与相当于模式的参照物。在当时我国与国外学术交流比较困难的情况下，这些珍贵的资料对我国植物分类学家独立鉴定我国植物种类和编纂《中国植物志》提供了非常重要的资料（胡宗刚和张宪春,2011)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前在互联网技术的支持下，国内外许多标本馆的植物标本，包括模式标本，已经被数字化并且可以在网上公开浏览，高清的标本图片和快速查阅方式为植物分类研究提供了比以往任何时候都更为便利的工作条件。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3新时代植物分类学挑战与机遇",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生物多样性是人类赖以生存和发展的基础。中国是世界上生物多样性最丰富的国家之一。经过几十年的几代人的努力，虽然我国的生物多样性保护已经取得长足成效，但在新的形势下仍然面临着许多挑战。随着时代的发展和社会需求的变化，曾经辉煌的植物分类学研究逐渐走向学科发展的低谷，其学术研究影响也日益被其他植物学科所替代，尤其是受到学术评价制度的影响，造成许多人才流失、人才断层，因此植物分类学也一度成为\"濒危\"学科（马金双，2014)。我国著名的植物学家洪德元院士多次强调分类学是生物多样性保护的重要基础，并呼呼要大力加强植物分类学队伍建设。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "党的十八大将生态文明建设纳入“五位一体\"的中国特色社会主义现代化建设的总体布局，已成为关系中华民族永续发展的千年大计和根本大计，共建地球生命共同体也成为了新时代生物多样性保护的主题。《中国植物保护战略（2021-2030)》也提出了“目标3推动野生植物保护名录的不断完善和持续更新；目标6加强最重要的植物多样性保护地区植物分类研究；目标8对至少 $8 5 \\%$ 的已知濒危植物物种进行就地保护；目标9对至少 $80 \\%$ 的珍稀濒危植物进行迁地保护；目标10 建立国家濒危野生植物种子资源库\"等战略目标。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2021年4月15日施行的《生物安全法》明确地提出了要加强对我国生物多样性的保护和对外来物种入侵的防范和应对。2021年10月19日，中共中央办公厅 国务院办公厅印发的《关于进一步生物多样性保护的意见》也明确表明：在总体目标上，到 2025年，持续推进生物多样性保护优先区域和国家战略区域的本底调查与评估，重点保护动植物物种数达到$7 7 \\%$ 。在持续推进生物多样性调查监测方面，每5年更新《中国生物多样性红色名录》。在外来入侵物种政策法规制定和防控管理方面，开展外来入侵物种普查，加强外来入侵物种的调查、监测、预警、控制、评估、清除、生态修复等工作。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "因此，在新时代生物多样性保护的形势下，一方面国家对植物分类学研究人员提出了新的要求，另一方面植物分类学也迎来了发展和提高的良好机遇。植物分类人员应当抓住机遇，通过参与我国重要区域植物多样性的本底调查、物种保护、植物编目、红色名录编写以及外来入侵植物的调查等研究工作，在完成国家重大需求任务的同时，秉持我国老一辈植物分类研究人员吃苦耐劳的优良传统和无私敬业工作精神，耐得住寂寞，守得住初心，不断提高植物分类学研究水平，在我国生物多样性保护的伟大事业中发挥专业人员的价值，不负时代，不负韶华，为保护我国丰富的植物多样性、维护我国重要的野生植物资源、保障我国生物安全做出卓越的贡献。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CANDOLLE A de，1867. Lois de la Nomenclature Botanique adoptées par le Congres International de Botanique tenu a Paris en aout 1867 suivies d'une deuxieme édition de lintroduction historique et du commentaire qui accompagnaient la rédaction préparatoire présentée au Congres. Geneve et Bale [Basel]: H. Georg; Paris: J.-B. Bailliere et fils. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CHEN DM,1993.History of plant taxonomy in China [M].Wuhan: Central China Normal ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "University Press.[陈德懋，1993．中国植物分类学史[M]．武汉：华中师范大学出版社.]   \nCHEN ZD,LU AM, LIU B, et al., 2020. Tree of life for Chinese vascular plants [M]. Beijing: Science Press.[陈之端，路安民，刘冰，等，2020.中国维管植物生命之树[M]．北京：科 学出版社.]   \nCHIEN CS,1916. Two Asiatic allies of Ranunculus pensylvanicus[J]. Rhodora,18: 189-190.   \nDARWIN CR,1859. On the origin of species [M]. London: John Murray.   \nDING YH,1993. Shan Hai Jing (Classc of mountains and rivers） and systematic botany in Ancient China [J].Stud Hist Nat Sci,12(3): 268-276.[丁永辉，1993．《山海经》与古代植物 分类[J]．自然科学史，12(3):268-276.]   \nEditorial Committee of Flora Reipublicae Popularis Sinicae,1959-2004. Flora Reipublicae Popularis Sinicae(Vols.1-80)[M].Beijing:Science Press.[中国科学院中国植物志编辑委员 会编，1959-2004．中国植物志（1-80 卷）[M]．北京：科学出版社.]   \nENGLER A, PRANTL KAE,1887-1915. Die natuirlichen Pflanzenfamilien[M]. Leipzig: Wilhelm Engelmann.   \nHU HH,1928. Sinojackia, a new genus of Styracaceae from Southeastern China[J]. J Arnold Arboret, 9(2-3): 130-131.   \nHU HH, CHENG WC，1948. On the new family Metasequoiaceae and on Metasequoia glyptostroboides, a living species of the genus Metasequoia found in Szechuan and Hupeh [J]. Bull Fan Memorial Inst Biol, new series 1(2): 153-163.   \nHU ZG,2O13. Early history of South China Institute of Botany [M]. Shanghai: Shanghai Jiao Tong University Press.[胡宗刚，2013．华南植物研究所早期史[M]．上海：上海交通大学出 版社.]   \nHU ZG, ZHANG XC,2011. Ching Renchang and herbarium [J].Life World,(9): 44-49.[胡宗刚, 张宪春，2011．秦仁昌与植物标本馆[J]．生命世界，(9):44-49.]   \nHUTCHINSON J，1926. The families of flowering plants.I. Dicotyledons [M]. London: Macmillan and Co., Limited.   \nHUTCHINSON J，1934. The families of flowering plants.II. Monocotyledons[M]. London: Macmillan and Co., Limited.   \nLINNAEUS C, 1753. Species Plantarum(Vols 2) [M]. Holmiae: Impensis Laurentii Salvii.   \nLU D,2O14. Kew Gardens and the plant collction activities undertaken by foreigners in China [J]. Chin Wild Plant Resour,33(1):55-62.[芦笛，2014.英国邱园和外国人在中国的植物采集活 动[J]．中国野生植物资源，33(1)：55-62.]   \nMA JS, 2011. The Outline of taxonomic literature of Eastern Asian higher plants [M]. Beijing: HigherEducation Press:1-505.[马金双,2011．东亚高等植物分类学文献概览[M]．北京：高 等教育出版社：1-505.]   \nMA JS，2O14. Current status and challenges of Chinese plant taxonomy [J]. Chin Sci Bull (Chinese Version),59(6):510-521.[马金双，2014．中国植物分类学的现状与挑战[J]．科学 通报，59(6): 510-521.]   \nMA JS,2O2O.A chronicle of plant taxonomy in China [M]. Zhengzhou: Henan Science and Technology Press:1-665.[马金双,2020.中国植物分类学纪事[M]．郑州：河南科学技术出 版社：1-665.]   \nQIAN ZW,2018.Note of Mr. LU Xun's plant specimen [J]. Bo Lan Qun Shu, (12): 76-80. [钱振 文，2018．鲁迅采集的植物标本解读[J]．博览群书，(12):76-80.]   \nQIN HN,et al. China checklist of higher plants[M]//The Biodiversity Committee of Chinese Academy of Sciences (ed.), Catalogue of Life China: 2O21 Annual Checklist, Beijing: China.   \nQIN RC,1931. Jin Hou Fa Zhan Wo Guo Zhi Wu Fei Lei Xue Ying Qu Zhi Tu Jing[M]//Jin Hou Fa Zhan Wo Guo Zhi Wu Xue Chu Yi. Guangzhou: Shu Lin Shu Ju: 3-37.[秦仁昌,1931．今后 发展我国植物分类学应取之途径[M]//今后发展我国植物学刍议．广州：书林书局：3-37.]   \nQIU YY, QIU BT, 2019. The most early tea specimen in U.K. was collected and introduced from Dong Haidao,Zhejiang [J].Chinese Tea,(6):73-76.[邱妤玥，邱波彤，2019.英国最早的茶 叶标本自浙江东海岛采集并传入[J]．中国茶叶，(6)：73-76.]   \nTAN HJ, 2008. Research about plant nomenclature in ancient Chinese language [M]. Beijing: China Social Sciences Press.[谭宏姣，2008．古汉语植物命名研究[M].北京：中国社会科 学出版社.]   \nTHIERS BM,2021. The World's Herbaria 202O: a summary report based on data from Index Herbariorum (EB/OL). (http://sweetgum.nybg.org/science/ih/annual-report/, 2021/11/06)   \nTURLAND NJ, WIERSEMA JH, BARRIE FR, et al.,2O18. International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code) adopted by the Nineteenth International Botanical Congress Shenzhen, China, July 2017. Regnum Vegetabile 159. Glashuten: Koeltz Botanical Books.   \nWANG YZ, QIN HN, FU DZ, 2004. Concise history of plant collecting in China [M]/WU ZY, CHEN XQ.Flora Reipublicae Popularis Sinicae. Beijing: Science Press,1: 658-732.[王印政, 覃海宁，傅德志，2004．中国植物采集简史[M]//吴征镒，陈心启．中国植物志．北京：科 学出版社，1：658-732.]   \nWU CY,1953. The botanical development and present status in China [J]. Chin Bull Bot, (2): 335-348.[吴征镒，1953．中国植物学历史发展的过程和现况[J]．植物学报，(2)：335-348.]   \nWU ZY,RAVEN PH (eds),1994-2013.Flora of China(Vol.1-25) [M]. Beijing: Science Press & St. Louis: Missouri Botanical Garden.   \nXU WM,2OO9.The establishment and contribution of Fan Memorial Institute of Biology [J]. Bull Biol,44(5):57-59.[徐文梅，2009．静生生物调查所的创办和贡献[J]．生物学通报，44(5): 57-59.]   \nYANG Y, 2O12. Holdings of type specimens of plants in herbaria of China [J]. Biodivers Sci, 20(4):512-516.[杨永,2012．我国植物模式标本的馆藏量[J].生物多样性,20(4):512-516.]   \nBotanical Society of China,1994. The botanical history in China[M]. Beijing: Science Press. [中 国植物学会，1994，中国植物学史[M]．北京：科学出版社.]   \nZHU ZY, XU J, YU NN, 2019. History of collction and research on Bryophytes in China before 1949 [J].J Inner Mongol Norm Univ (Nat Sci Ed),48(4): 283-291.[朱宗元，徐杰，于宁宁, 2019.1949 年以前国人对中国苔藓植物的采集与研究史[J]．内蒙古师范大学学报（自然科 学汉文版)，48(4)：283-291.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,483 @@
+[
+    {
+        "type": "text",
+        "text": "Response of ecosystem service value to land use/cover change in the northern slope economic belt of the Tianshan Mountains, Xinjiang, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SUN Chen1,23, MA Yonggang1,2, GONG Lu1,2\\* lCollege of Resources and Environmental Sciences, Xinjiang University, Urumqi 83o046, China 2 Key Laboratory of Oasis Ecology, Urumqi 830046,China; 3School of Ecology and Environmental Science,Yunnan University, Kunming 65o5o0,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Land use/cover change (LUCC) is becoming more and more frequent and extensive as a result of human activities,and is expected to have a major impact on human welfare by altering ecosystem service value (ESV). In this study, we utilized remote sensing images and statistical data to explore the spatial-temporal changes of land use/cover types and ESV in the northern slope economic belt of the Tianshan Mountains in Xinjiang Uygur Autonomous Region, China from 1975 to 2018. During the study period,LUCC in the study region varied significantly. Except grassland and unused land,allthe other land use/cover types (cultivated land,forestland, waterbody,and construction land) increased in areas. From 1975 to 2018, the spatial-temporal variations in ESV were also pronounced. The total ESV decreased by $4 . 0 0 \\times 1 0 ^ { 8 }$ CNY,which was primarily due to the reductions in the areas of grassland and unused land. Waterbody had a much higher ESV than the other land use/cover types. Ultimately, understanding the impact of LUCC on ESV and the interactions among ESV of different land use/cover types will help improve existing land use policies and provide scientific basis for developing new conservation strategies for ecologically fragile areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: land use/cover types; ecosystem services; human activities; economic development; urbanization; the northern slope economic belt of the Tianshan Mountains ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Land use/cover change (LUCC） is a significant component of global environmental change. This is because LUCC reflects interactions between human activities and natural resources. LUCC is driven by multiple factors and has both direct and indirect impacts on environment, as well as on global sustainable development. This makes LUCC being one of the most decisive factors affecting global ecosystems (Xiao et al., 2016; Sun et al., 2019). Range and strength of LUCC in a given region often directly influence primary ecological processes and thus ecosystem functioning (Long et al.,2014; Arowolo and Deng,2018; Zhang et al., 2018;Cui et al., 2O19). The rapid growth of population and expansion of human activities may hinder the provision and the maintenance of vital ecosystem services (Paz-Kagan et al., 2014; Li et al., 2018; Wang et al., ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2019). The ecosystem service value (ESV） concept, which puts a monetary value on the ecosystem services provided by natural areas, was first proposed by Costanza et al. (1997). This approach provides an assessment on the monetary value of ecological processes which humans depend on and are closely related to human well-being. Ecosystem services include supplying services,regulating services, supporting services,and cultural services (Xiao et al., 20l6; Chen et al.,2019). Numerous studies have shown that LUCC significantly influences ESV,as well as the interactions of ESV among different ecosystem service types and different ecosystem types (Cord et al.，2017； Huang et al.，2021；Liu et al.，2021; Pan et al.，2021). Therefore，a better understanding of how LUCC affects ESV and its interactions with time is essential for the development of new ecosystem management policies (Huang et al., 2019). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ESV approach has become an essential tool for evaluating ecosystem services across ecosystems (Costanza et al.， 2014; Yuan et al.， 2019). Since 1997,many studies have been conducted on the impact of LUCC on ESV from local to global scales (Nahuelhual et al.,2014; Wang et al., 2014). At present, ESV has been quantified for different ecosystem types,such as forests (Xie et al.,2010; Li et al., 2017), grasslands (Homolova et al.,2014),wetlands (Wang et al.，2006； Gunderson et al.，2016)， farmlands (Kroeger and Casey， 2007)，and marine environments (Barbier et al.， 2011). As a result, many ESV assessment methods have been developed, including cost-benefit analysis (de Groot et al., 2012), willingness to pay assessment (Rawlins and Westby, 2013), value transfer (Xie et al., 2015), public participation in geographic information system (GIS) method (Brown, 20l3), selection experiment (Jobstvogt et al., 2014), and conditional valuation (Brander et al., 2Ol2). In China, ESV studies have been focused on ecosystem service regimentation, value calculation, quantitative assessment, and spatial identity (Ouyang et al., 2016; Xiao et al.,2016).For example, Cao et al. (2018) assessed the gains and losses ofESV, which triggered by the rapid urbanization, in the coastal areas of Zhejiang Province from the LUCC perspective; Wang et al. (2018) identified the elements promoting LUCC and quantified the relationship between ESV and elevation in the Hengduan Mountains.In the past few years, with the development of remote sensing, GIS,and global positioning system (GPS) technologies,ESV research was increasingly focused on assessing individual ESV for multiple ecosystem types (Ding et al., 2020; Liu et al., 2021). This strategy has promoted the quantitative evaluation of ESV and also has encouraged the analysis of spatial and temporal paterns for ESV. However, few studies considered how spatial heterogeneity in LUCC affects ESV, nor offered a visual representation of these spatial changes (Yuan et al., 2019). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "China has experienced significant economic development since 1978,especially in the eastern developed regions such as the Yangtze River Delta and the Pearl River Delta.As a result of economic development, LUCC has accelerated in the whole country (Chen et al.,2019; Hu et al., 2019; Liu et al., 2019; Zhang et al., 2019). Rapid economic development and urban expansion have caused significant changes in land use/cover, which have in turn resulted in changes of ecosystems near cities and changes in ESV. In particular, urban growth in arid regions occurred at the expense of reduced farmland and ecological stability under threatened. Despite these challenges, detailed and in-depth studies on the quantitative effects of how LUCC influences the provision of ecosystem services in arid regions remain lacking (Tang et al.,2017). Therefore, new research on relationship between LUCC and ecosystem services in arid regions is vital for providing theoretical basis for land management policy making (Huang et al., 2019). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The northern slope economic belt of the Tianshan Mountains is situated in the middle of the Xinjiang Uygur Autonomous Region in Northwest China, which is part of the core area of the Silk Road Economic Belt. The northern slope economic belt of the Tianshan Mountains is also the primary location of agriculture and human setlement in Xinjiang (Sun et al., 2O18; Wang et al., 2018). Over the past 44 a,rapid urbanization has led to a dramatic shift in land use paterns in this region, affecting the provision of ecosystem services (Li et al., 2019). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,we quantified ESV of the northern slope economic belt of the Tianshan Mountains from 1975 to 2O18,and used land use/cover transfer matrix to evaluate the temporal and spatial patterns of LUCC. The purposes of this study included: (1) quantifying the temporal and spatial dynamics of LUCC within the study region from 1975 to 2018; (2) assessing the changes of ESV and identifying the related shifts of land use/cover;and (3) exploring the interactions between LUCC and ecosystem services. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The northern slope economic belt of the Tianshan Mountains $( 4 0 ^ { \\circ } 4 3 ^ { \\prime } - 4 7 ^ { \\circ } 1 5 ^ { \\prime } \\mathrm { N }$ ， $7 9 ^ { \\circ } 5 3 ^ { \\prime } - 9 6 ^ { \\circ } 2 3 ^ { \\prime } \\mathrm { E } )$ 号 is situated in the hinterland of the Eurasian continent, along the southern edge of the Gurbantunggut Desert, China. The region covers an area of $9 . 5 4 \\times 1 0 ^ { 4 } { \\mathrm { k m } } ^ { 2 }$ , accounting for $5 . 7 \\%$ of the total area of Xinjiang.The elevation of this region is higher in the southeast and lower in the northwest, ranging from 400 to $6 0 0 \\mathrm { ~ m ~ }$ .The climate varies from temperate arid to semi-arid, with the annual mean temperature of $6 . 9 ^ { \\circ } \\mathrm { C }$ ， mean annual precipitation of $2 2 0 ~ \\mathrm { m m }$ ，and mean annual evaporation of $1 8 1 7 ~ \\mathrm { m m }$ .This area experiences a range of adverse weather conditions,including strong winds and sand storms.According to the China Statistical Yearbook (National Bureau of Statistics,2020), the total human population in this region was $4 5 . 8 \\times 1 0 ^ { 6 }$ in 2018, accounting for $23 . 3 \\%$ of the total population in Xinjiang. The gross domestic product (GDP） was about $8 . 5 1 \\times 1 0 ^ { 1 2 }$ CNY in 2018.With the implementation of the Belt and Road Initiative,the northern slope economic belt of the Tianshan Mountains becomes a critical development hub in Central Asia; it is also part of the core area of the Silk Road Economic Belt (Sun et al.,2018; Wang et al., 2018). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We used land use/cover data and socio-economic data during the period of 1975-2018 (Local Chronicles Compilation Committee of Xinjiang Uygur Autonomous Region,1975-2018). Land use/cover data were obtained from remote sensing images, which were taken on 2 August 1975 (Landsat MSS), 20 July 1990 (Landsat TM),12 July 2005 (Landsat $\\mathrm { E T M ^ { + } } .$ ),and15July2018 (Landsat TM) (http://www.gscloud.cn/). Geometric correction of images was performed using the 1:100,000 National Standard Terrain Database. Errors were controlled within O.5 pixels. We classified all images by combining supervised classification with visual inspection and re-sampled them at a spatial resolution of $3 0 ~ \\mathrm { m }$ .We used remote sensing images to identify land use/cover types in the research area (General Administration of Quality Supervision et al., 2017). Land use/cover types included the following classifications: cultivated land, forestland, grassland, waterbody, construction land,and unused land (Zhang et al., 2O19). We consulted local land use maps and conducted ground truth surveys to ensure the accuracy of the classifications. We selected 1OO randomly generated sample points to conduct field surveys and made corrections to verify the actual land use distribution. In the end, the overall accuracy of each map was higher than $8 5 \\%$ . The accuracy of remote sensing land use classification was estimated to be $58 5 \\%$ using a subset of regional data from which real ground data can be obtained. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Dynamics ofLUCC ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The $K$ index quantitatively describes the dynamics of LUCC (Ye et al.,2018), which is calculated as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK \\mathrm { = } \\frac { U _ { n } - U _ { m } } { U _ { m } } \\times \\frac { 1 } { T } \\times 1 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $K$ measures the land use dynamics during the study period $( \\% )$ ：， $U _ { n }$ and $U _ { m }$ respectively indicate the area of a certain land use/cover type at the beginning of the study period and at the end of the study period $( \\mathrm { k m } ^ { 2 } )$ ; and $T$ is the length of the study period (a). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Land use transfer matrix can be used to capture the dynamics of LUCC for a given region over a specific period of time. It takes the form of a two-dimensional array populated by analyzing land use/cover images over time. Land use transfer matrix is ordinarily described as follows (Yan et al., 2019): ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { i j } { = } \\left[ \\begin{array} { c c c } { S _ { 1 1 } } & { \\cdots } & { S _ { 1 n } } \\\\ { \\vdots } & { \\ddots } & { \\vdots } \\\\ { S _ { n 1 } } & { \\cdots } & { S _ { n n } } \\end{array} \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $S _ { i j }$ represents the percentage of the total land area converted from land use/cover type $i$ to land use/cover type $j$ during the study period $( \\% )$ ; and $S _ { n n }$ represents the percentage of area of land use/cover type $n$ remained unchanged during the study period $( \\% )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 ESV ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We estimated ESV using methods described by Costanza et al. (2014) and Xie et al. (2003), who had already described the ESV characteristics of China's ecosystems by consulting 20o Chinese ecologists. In order to quantity ESV， we introduced the concept of ESV equivalent value coefficient in this study to describe the money value of ESV for each ecosystem service function to each land use/cover type in unit time and area (i.e., per hectare per year). According to previous researches, we set ESV equivalent value coefficient as the annual output value of natural crop production per hectare, which is one-seventh of the actual annual output value of crop production (Xie et al., 2Oo5). The average actual annual output value of crop production between 1975 and 2018 was $3 0 2 9 . 1 \\mathrm { \\dot { 5 } C N Y / ( h m } ^ { 2 } { \\cdot } a )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 1 shows ESV equivalent value coefficients for different ecosystem service functions under diferent land use/cover types in the northern slope economic belt of the Tianshan Mountains (Xie et al., 20o5). Based on Table 1, ESV for each ecosystem service function $\\mathrm { ( E S V } _ { j } )$ was calculated by multiplying the area of each land use/cover type with ESV equivalent value coefficient for the corresponding land use/cover type,then summing the outcomes of all land use/cover types (Eq. 3). The total ESV was then calculated as the sum of $\\mathrm { E S V } _ { j }$ across all ecosystem service functions (Eq. 4). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E S V } _ { j } = \\sum _ { i = 1 } ^ { n } \\left( A _ { i } \\times V C _ { i j } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E S V } = \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { m } \\left( A _ { i } \\times V C _ { i j } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { E S V } _ { j }$ is the estimated ESV of ecosystem service function $j$ in the study area (CNY); $A _ { i }$ is the area of land use/cover type i $( \\mathrm { h m } ^ { 2 } )$ $V C _ { i j }$ is the ESV equivalent value coefficient, i.e.， the equivalent value coefficient of ecosystem service function $j$ to the corresponding land use/cover type $i$ （204 $( \\mathrm { C N Y / ( h m } ^ { 2 } { \\cdot } \\mathrm { a } ) )$ ;ESV is the total $E S V _ { j }$ for the study area (CNY); $n$ is the number of land use/cover type; and $m$ is the number of ecosystem service type. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 Cross-sensitivity coefficient ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We tested the sensitivity of the variations of ESV equivalent value coefficient as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C S S } _ { k t } = \\frac { \\left( \\mathrm { E S V } _ { k t } ^ { \\prime } - \\mathrm { E S V } _ { k t } \\right) \\left/ \\mathrm { E S V } _ { t } \\right. } { \\left( V C _ { k t } ^ { \\prime } - V C _ { k t } \\right) \\left/ V C _ { k t } \\right. } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We calculated the percentage change of ESV within a range of $1 5 0 \\%$ of ESV equivalent value coefficient. $\\mathrm { C S S } _ { k t }$ is the cross-sensitivity coefficient (CSS) of an ecosystem service function to the corresponding land use/cover type $k$ in time period t. $\\mathrm { E S V } _ { k t } ^ { ' }$ and $\\mathrm { E S V } _ { k t }$ are the total ESVs before and after the variation of ESV equivalent value coefficient (CNY), respectively. $\\mathrm { E S V } _ { t }$ is the total ESV in time period $t$ $V C _ { k t } ^ { ' }$ and $V C _ { k t }$ are the ESV equivalent value coefficients before and after the $\\pm 5 0 \\%$ change $( \\mathrm { C N Y } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { a } ) )$ , respectively. The closer the value of $\\mathrm { C S S } _ { k t }$ approaches to zero, the less sensitive the estimated ESV is to the uncertainty of ESV equivalent value coefficient. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Dynamics of LUCC ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Land use/cover types and their dynamics over time in the northern slope economic belt of the ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ac1b21562aee39a8a8dd0a460b67ee20d2c2e4948d130ef90b0a7354be65382.jpg",
+        "table_caption": [
+            "Table 1 Ecosystem service value (ESV) equivalent value coefficient for each ecosystem service function to he corresponding land use/cover type in the northern slope economic belt of the Tianshan Mountains "
+        ],
+        "table_footnote": [
+            "Note: Negative value means that the ecosystem service function negatively afects land use/cover type. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Ecosystem service type</td><td rowspan=\"2\">Ecosystem service function</td><td colspan=\"6\">ESV equivalent value coefficient (CNY/(hm²·a))</td></tr><tr><td>Cultivated</td><td>Forestland</td><td>Grassland</td><td>Waterbody</td><td>Consretion</td><td>Unused</td></tr><tr><td rowspan=\"2\">Suplying</td><td>Grain production</td><td>1756.90</td><td>175.69</td><td>527.07</td><td>175.69</td><td>0.00</td><td>17.57</td></tr><tr><td>Rprw duateoial</td><td>175.69</td><td>4567.96</td><td>87.85</td><td>17.57</td><td>0.00</td><td>0.00</td></tr><tr><td rowspan=\"4\">Regulating services</td><td>Gas regulation</td><td>878.45</td><td>6149.18</td><td>1405.53</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Climation</td><td>1563.65</td><td>1405.53</td><td>1581.22</td><td>808.18</td><td>0.00</td><td>0.00</td></tr><tr><td>Hydrological regulation</td><td>1054.15</td><td>5622.11</td><td>1405.53</td><td>17,300.00</td><td>-4232.60</td><td>52.71</td></tr><tr><td>Waste treatment</td><td>2881.33</td><td>2301.55</td><td>2301.55</td><td>0.00</td><td>-18,548.09</td><td>17.57</td></tr><tr><td>Supvrting</td><td>Soil conservation</td><td>2565.09</td><td>6851.95</td><td>3425.97</td><td>17.57</td><td>0.00</td><td>35.14</td></tr><tr><td></td><td>Biodiversity</td><td>1247.41</td><td>5727.52</td><td>1915.03</td><td>4374.70</td><td>0.00</td><td>597.35</td></tr><tr><td>Curvuireal</td><td>Aesthetic</td><td>17.57</td><td>2248.84</td><td>70.28</td><td>7624.99</td><td>0.00</td><td>17.57</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tianshan Mountains are presented in Figure 1. Grassland,cultivated land, and unused land were the primary land use/cover types during 1975-2018. Indeed, these three land use/cover types made up $590 \\%$ area of the northern slope economic belt of the Tianshan Mountains. From 1975 to 1990,the areas of cultivated land, forestland, waterbody,and construction land were increased.In contrast, the proportion of grassland and unused land were decreased during 1975-1990. The area of construction land during 1975-1990 increased from 939.88 to $1 2 5 5 . 5 3 ~ \\mathrm { k m } ^ { 2 }$ ，with an average increasing rate of $2 . 2 3 \\%$ (Fig.1). From 1990 to 2005, the areas of cultivated land, waterbody, and construction land increased. From 20o5 to 2018,the areas of forestland,grassland,waterbody, and unused land decreased, while cultivated land and construction land expanded. Of all the land use/cover types, the area of construction land continually increased during the last $4 4 \\mathrm { ~ a ~ }$ ，showed the most positive change (Fig.2). However, the initial area of construction land was smal, so the total area of construction land increased by mere $1 3 2 8 . 3 4 \\mathrm { k m } ^ { 2 }$ . Cultivated land also became more abundant, and waterbody resources were added to meet irrigation demands. Although grassland was the most common land use/cover type in the study area, it decreased significantly during the study period. The area of unused land changed little from 1975 to 2018. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/caccf8a681ff53ebdcc1ee043b8976eb8ebd696d6b2b47f3673ac59f1c58f538.jpg",
+        "img_caption": [
+            "Fig.1Distributions of different land use/cover types in the northern slope economic belt of the Tianshan Mountains in 1975 (a),1990 (b),2005 (c),and 2018 (d) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5acfcf402270591dd6a2f1a7535bddc4e7a5d3a2e6fbf7f2b0835b773d6aa03.jpg",
+        "img_caption": [
+            "Fig.2Dynamics of land use/cover change (LUCC） in the northern slope economic belt of the Tianshan Mountains from 1975 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Land use transition matrix showed that grassland and unused land were converted to other land uses during the study period (Table 2).For example,about $3 0 4 7 . 7 8 ~ \\mathrm { k m } ^ { 2 }$ of other land use/cover types were transformed to forestland. Specifically, from 1975 to 2018, the expansion of forestland was primarily converted from grassland, with the converted area of $1 7 7 5 . 4 \\dot { 9 } \\ \\mathrm { k m } ^ { 2 }$ ； soil and water conservation projects likely explained the progress of grassland conversion. A further $4 4 1 . 6 7 \\ \\mathrm { k m } ^ { 2 }$ of the expansion was from unused land. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee692e3977eb3b31fd7493b93efb1c3d72f2dd269b057a81844c314d9e76d93f.jpg",
+        "table_caption": [
+            "Table 2Land use transfer matrix for the northern slope economic belt of the Tianshan Mountains from 1975 to 2018 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Period</td><td>Laver typ/</td><td>Cultiamd</td><td>Forkml2nd</td><td>Grasmtand</td><td>Watemb20dy</td><td>Constrkmtion</td><td>land (km2)</td><td>Toma</td></tr><tr><td rowspan=\"6\">1975-</td><td>Cultivated land</td><td>13,100.00</td><td>204.36</td><td>2228.15</td><td>41.75</td><td>188.98</td><td>461.45</td><td>16,224.69</td></tr><tr><td>Forestland</td><td>109.87</td><td>5324.26</td><td>202.16</td><td>6.59</td><td>13.18</td><td>39.55</td><td>5695.61</td></tr><tr><td>Grassland</td><td>2149.04</td><td>503.20</td><td>60,300.00</td><td>101.08</td><td>210.95</td><td>1052.55</td><td>643,16.82</td></tr><tr><td>Waterbody</td><td>32.96</td><td>6.59</td><td>59.33</td><td>4698.01</td><td>4.39</td><td>94.49</td><td>4895.77</td></tr><tr><td>Construction land</td><td>127.45</td><td>2.20</td><td>32.96</td><td>0.00</td><td>711.95</td><td>8.79</td><td>883.35</td></tr><tr><td>Unused land</td><td>257.09</td><td>50.54</td><td>1995.23</td><td>175.79</td><td>61.53</td><td>53,900.00</td><td>56,440.18</td></tr><tr><td rowspan=\"6\"></td><td>Cultivated</td><td>5985.68</td><td>17.58</td><td>2032.58</td><td>153.82</td><td>320.82</td><td>219.73</td><td>8730.21</td></tr><tr><td>Forestland</td><td>10.99</td><td>4983.67</td><td>81.30</td><td>2.18</td><td>17.58</td><td>2.38</td><td>5098.10</td></tr><tr><td>Grassland</td><td>28.57</td><td>68.12</td><td>65,100.00</td><td>90.09</td><td>238.73</td><td>318.62</td><td>65,844.13</td></tr><tr><td>Waterbody</td><td>0.00</td><td>2.19</td><td>10.99</td><td>4384.39</td><td>13.18</td><td>10.98</td><td>4421.73</td></tr><tr><td>Construction land</td><td>2.20</td><td>2.19</td><td>21.97</td><td>4.39</td><td>1153.63</td><td>6.59</td><td>1190.97</td></tr><tr><td>Unused land Cultivated</td><td>10.99</td><td>188.98</td><td>628.45</td><td>105.47</td><td>68.12</td><td>54,500.00</td><td>55,502.01</td></tr><tr><td rowspan=\"7\">2005- 2018</td><td>land</td><td>17,300.00</td><td>0.00</td><td>202.16</td><td>13.18</td><td>305.44</td><td>50.54</td><td>17,871.32</td></tr><tr><td>Forestland</td><td>92.29</td><td>5915.36</td><td>6.59</td><td>4.39</td><td>19.78</td><td>0.00</td><td>6038.41</td></tr><tr><td>Grassland</td><td>1779.88</td><td>13.18</td><td>60,500.00</td><td>35.16</td><td>261.49</td><td>35.16</td><td>62,624.87</td></tr><tr><td>Waterbody</td><td>4.39</td><td>0.00</td><td>21.97</td><td>5216.59</td><td>3.26</td><td>17.58</td><td>5263.79</td></tr><tr><td>Construetion</td><td>17.58</td><td>0.00</td><td>2.21</td><td>8.79</td><td>1481.04</td><td>0.00</td><td>1509.62</td></tr><tr><td>Unused land Cultivated</td><td>1070.13</td><td>2.20</td><td>85.70</td><td>32.96</td><td>136.24</td><td>538.00</td><td>1865.23</td></tr><tr><td>land</td><td>36,385.68</td><td>221.94</td><td>4462.89</td><td>208.75</td><td>815.24</td><td>731.72</td><td>42,826.22</td></tr><tr><td rowspan=\"5\">1975- 2018</td><td>Forestland</td><td>213.15</td><td>16,223.29</td><td>290.05</td><td>13.16</td><td>50.54</td><td>41.93</td><td>16,832.12</td></tr><tr><td>Grassland</td><td>3957.49</td><td>584.50</td><td>1859.00</td><td>226.33</td><td>711.17</td><td>1406.33</td><td>8744.82</td></tr><tr><td>Waterbody</td><td>37.35</td><td>8.78</td><td>92.29</td><td>14,298.99</td><td>20.83</td><td>123.05</td><td>14,581.29</td></tr><tr><td>Construction</td><td>147.23</td><td>4.39</td><td>57.14</td><td>13.18</td><td>3346.62</td><td>15.38</td><td>3583.94</td></tr><tr><td>Unused land</td><td>1388.21</td><td>241.72</td><td>2709.38</td><td>314.22</td><td>265.89</td><td>1622.00</td><td>6541.42</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Waterbody was mostly converted to grassland and unused land. Meanwhile, $1 3 2 8 . 5 7 ~ \\mathrm { k m } ^ { 2 }$ of construction land was converted to other land use/cover types,and most of it was converted to cultivated land. Overall, the area of construction land increased by $3 . 2 9 \\%$ during the study period (Fig. 2), primarily owing to the conversion of cultivated land and unused land. The next largest gain was cultivated land $( 0 . 5 8 \\% )$ ， followed by waterbody $( 0 . 2 0 \\% )$ and forestland $( 0 . 1 2 \\% )$ . These increases were compensated by the reductions of grassland and unused land. Hence,given these trends (i.e.，areas increased in construction land and cultivated land), there might be growing demands on soil water for vegetation restoration in the study area. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Changesin ESV ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 Variations in ESV among different land use/cover types ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 3 and Table 3,the total ESV of the study region decreased over the study period. Overall, grassland was the major contributor to ESV among the six land use/cover types. Indeed, it accounted for $5 0 . 5 2 \\% - 5 3 . 3 3 \\%$ of the total ESV. ESV of grassland increased slightly in 2005,but then fell by $2 . 2 3 \\%$ during 2005-2018. This decline was caused by the large scale conversion of grassland to cultivated land and construction land. Waterbody made the second highest contribution to the total ESV $( 1 9 . 8 1 \\% - 2 1 . 8 5 \\% )$ ,even though its area only accounted for $3 . 3 1 \\% - 3 . 5 7 \\%$ of the study region. Over the entire study period, the proportion of waterbody to the total ESV gradually increased (from $1 9 . 8 1 \\%$ in 1975 to $2 0 . 4 8 \\%$ in 2018)，while the contribution of grassland declined from $5 3 . 3 3 \\%$ to $5 0 . 5 2 \\%$ . As seen in Table 3,the mean annual rates of ESV change for cultivated land, forestland,and construction land were all greater than zero,indicating that ESV of these land use/cover types increased over time. This increase was mostly marked by construction land, at the rate of $3 . 2 9 \\%$ (Fig. 2). In contrast, ESV of construction land was negative (Table 3). Mean annual rates of ESV change for unused land were all lower than zero (Table 4), indicating an overall reduction in ESV of this land use/cover type. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c80a27bad093c38643c04f8618762ee4832d1483707ab89330da93c6aa373e87.jpg",
+        "img_caption": [
+            "Fig.3Ecosystem service value (ESV) for diferent land use/cover types in the northern slope economic belt of the Tianshan Mountains in 1975，1990,2005,and 2018.Negative value means that the loss caused by depreciation of natural capital and environmental degradation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For waterbody, the largest increase in ESV was observed during 1975-1990,obtaining a gain of $2 . 7 0 \\times 1 0 ^ { 9 }$ CNY, which constituted the maximum mean annual rate of ESV change at $1 . 8 0 \\%$ (Table 4). ESV of construction land decreased by $8 . 0 0 \\times 1 0 ^ { 8 }$ CNY during 1975-1990, declining by $0 . 5 3 \\% / \\mathrm { a }$ on average. From 1990 to 2005, the greatest gain in ESV was observed for cultivated land $( 2 . 2 0 { \\times } 1 0 ^ { 9 } \\mathrm { C N Y } )$ , with a mean annual increasing rate of $1 . 4 7 \\%$ . In contrast, ESV of grassland declined by $2 . 1 0 \\times 1 0 ^ { 9 }$ CNY, with $- 1 . 4 0 \\%$ mean annual increasing rate on average. Cultivated land earned the largest growth in ESV from 2005 to 2018,with an increase of $2 . { \\overset { \\sim } { 7 0 } } \\times 1 0 ^ { 9 }$ CNY and a mean annual increasing rate of $2 . 0 8 \\%$ . Waterbody decreased in ESV by $3 . 4 0 \\times 1 0 ^ { 9 }$ CNY, displaying a mean annual increasing rate of $- 2 . 6 2 \\%$ in 2005-2018.Over the entire study period, the impact of LUCC on ESV differed among land use/cover types. Among them, cultivated land had the largest mean annual rate of ESV change. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e2df4bf83ddbe44ca49d8a5d56e59fa2a668f07e8d8060a7ac19d1cc4c50be2.jpg",
+        "table_caption": [
+            "Table 3ESV for diferent land use/cover types in the northern slope economic belt of the Tianshan Mountains in 1975,1990,2005,and 2018 "
+        ],
+        "table_footnote": [
+            "Jote:Negative value means that the losscaused bydepreciation of natural capital and environmentaldegradatiol "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Year</td><td rowspan=\"2\">ESV</td><td colspan=\"6\">Land use/cover type</td></tr><tr><td>Cultivated land</td><td>Forestland</td><td>Grassland</td><td>Waterbody</td><td>Construction land</td><td>Unused land</td></tr><tr><td rowspan=\"2\">1975</td><td>ESV (x101° CNY)</td><td>1.90</td><td>1.99</td><td>8.17</td><td>3.05</td><td>-0.21</td><td>0.42</td></tr><tr><td>Proportion of the total ESV (%)</td><td>12.41</td><td>12.98</td><td>53.33</td><td>19.91</td><td>-1.37</td><td>2.74</td></tr><tr><td rowspan=\"2\">1990</td><td>ESV (x10l° CNY)</td><td>1.97</td><td>2.16</td><td>8.22</td><td>3.32</td><td>-0.29</td><td>0.41</td></tr><tr><td>Proportion of the total ESV (%)</td><td>12.48</td><td>13.68</td><td>52.06</td><td>21.03</td><td>-1.84</td><td>2.59</td></tr><tr><td rowspan=\"2\">2005</td><td>ESV (×10l° CNY)</td><td>2.19</td><td>2.13</td><td>8.01</td><td>3.47</td><td>-0.36</td><td>0.44</td></tr><tr><td>Proportion of the total ESV (%)</td><td>13.79</td><td>13.41</td><td>50.44</td><td>21.85</td><td>-2.26</td><td>2.77</td></tr><tr><td rowspan=\"2\">2018</td><td>ESV (x10l° CNY)</td><td>2.46</td><td>2.09</td><td>7.72</td><td>3.13</td><td>-0.52</td><td>0.40</td></tr><tr><td>Proportion of the total ESV</td><td>16.10</td><td>13.68</td><td>50.52</td><td>20.48</td><td>-3.40</td><td>2.62</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8d23ea35647c92e9431b80fc521795ceabe430ecff28b91822eddcd7cad274a.jpg",
+        "table_caption": [
+            "Table 4Dynamics of ESV for diffrent land use/cover types in the northern slope economic belt of the Tianshan Mountains from 1975 to 2018 ",
+            "3.2.2 Comparisons of ESV among different ecosystem service functions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Time period</td><td rowspan=\"2\">ESV</td><td colspan=\"6\">Land use/cover type</td></tr><tr><td>Cultivated land</td><td>Forestland</td><td>Grassland</td><td>Waterbody</td><td>Construction land</td><td>Unused land</td></tr><tr><td rowspan=\"2\">1975-1990</td><td>Change of ESV (×101° CNY)</td><td>0.07</td><td>0.17</td><td>0.05</td><td>0.27</td><td>-0.08</td><td>-0.01</td></tr><tr><td>Meav chnal rate f</td><td>0.47</td><td>1.13</td><td>0.33</td><td>1.80</td><td>-0.53</td><td>-0.07</td></tr><tr><td rowspan=\"2\">1990-2005</td><td>Change of ESV (×101° CNY)</td><td>0.22</td><td>-0.03</td><td>-0.21</td><td>0.15</td><td>-0.07</td><td>0.03</td></tr><tr><td>Mesv chag rt f</td><td>1.47</td><td>-0.20</td><td>-1.40</td><td>1.00</td><td>-0.47</td><td>0.20</td></tr><tr><td>2005-2018</td><td>Chx10 ofYSV</td><td>0.27</td><td>-0.04</td><td>-0.29</td><td>-0.34</td><td>-0.16</td><td>-0.04</td></tr><tr><td rowspan=\"2\"></td><td>Meav cnal rat f</td><td>2.08</td><td>-0.31</td><td>-2.23</td><td>-2.62</td><td>-1.23</td><td>-0.31</td></tr><tr><td></td><td></td><td>008</td><td>-0.4</td><td></td><td>-3.3</td><td></td></tr><tr><td>1975-2018</td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.0</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ESV of each ecosystem service type was calculated from 1975 to 2018 using ESV equivalent value coefficient of each ecosystem service function to the corresponding land use/cover type (Fig. 4),and the total ESV decreased by $4 . 0 0 \\times 1 0 ^ { 8 }$ CNY during this period. In 1975, the total ESV was $1 . 5 3 \\times 1 0 ^ { 1 1 }$ CNY. At this time, regulating services had the highest value, accounting for $5 2 . 0 3 \\%$ of the total ESV, followed by supporting services $( 3 7 . 2 2 \\% )$ ， supplying services $( 6 . 8 4 \\% )$ ， and cultural services $( 3 . 9 1 \\% )$ . In 1990, the total ESV was $1 . 5 8 \\times 1 0 ^ {  { \\mathrm { \\Gamma } } 1 1 }$ CNY, an increase of $1 . 4 7 \\times 1 0 ^ { 1 0 }$ CNY compared with 1975. This increase was primarily atributable to the rise of regulating services $( 1 . 2 8 \\times 1 0 ^ { 1 0 }$ CNY). Supplying, supporting, and cultural services also increased by about ${ \\bar { 5 } } . 0 0 \\times 1 0 ^ { 8 }$ ${ \\mathrm { i } } . 0 0 \\times 1 0 ^ { 9 }$ ,and $4 . 0 0 \\times \\bar { 1 0 } ^ { 8 }$ CNY, respectively. From 1990 to 2005, the total ESV increased by $9 . 0 0 \\times 1 0 ^ { 8 }$ CNY, primarily owing to an increase of supplying services. In contrast, regulating services decreased by $8 . 0 0 { \\dot { \\times } } 1 0 ^ { 8 }$ CNY,and cultural services also decreased by $1 . 0 0 \\times 1 0 ^ { 8 }$ CNY. The total ESV decreased from $1 . 5 8 \\times 1 0 ^ { 1 1 }$ to $1 . 5 3 \\times 1 0 ^ { 1 1 }$ CNY fro0m 2005 to 2018; the most important factor was waste treatment. From 1975 to 2018, regulating services and supporting services decreased by $1 . 2 0 \\times 1 0 ^ { 9 }$ and $1 . 0 0 \\times 1 0 ^ { 8 }$ CNY in the study region,respectively； while cultural services and supplying services increased by $1 . 0 0 \\times 1 0 ^ { 8 }$ and $\\mathsf { \\bar { 8 } . 0 0 } \\mathsf { \\check { x } } 1 0 ^ { 8 } \\mathsf { C N Y }$ ,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "From 1975 to 2018, waste treatment accounted for the largest proportion of the total ESV in the study region; it valued $3 . 4 6 \\times 1 0 ^ { 1 0 }$ CNY in 1975, increased to $3 . 5 7 \\times 1 0 ^ { 1 0 }$ CNY in 1990,and dropped to $3 . 3 2 \\times 1 0 ^ { 1 0 }$ CNY in 2018 (Fig. 4). The next most significant contributor to the total ESV was soil conservation, which valued $3 . 0 2 \\times 1 0 ^ { 1 0 }$ CNY in 1975 and $3 . 1 2 \\times 1 0 ^ { 1 0 }$ CNY in 2005, and dropped to $3 . 0 2 \\times 1 0 ^ { 1 0 }$ CNY in 2018. Raw material production, aesthetic landscape, and grain production made the lowest contributions to the total ESV, with individual contributions never exceeding $7 . 0 0 \\times 1 0 ^ { 9 }$ CNY.From 1975 to 2018,ESV of climatic regulation fluctuated, ultimately increased by $2 . 3 7 \\%$ (Fig. 5). Grain production also increased ESV by $0 . 1 4 \\%$ and this increase was positively correlated with the expansion of cultivated land. Waste treatment decreased ESV by $0 . 3 3 \\%$ ,followed by hydrological regulation and biodiversity conservation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.0 1975 3.5 1990 2005 (YPToIVII) SH 3.0 2018 2.5 2.0 1.5 1.0 0.5 0.0 prGraon Raw materal regation Cimaie Hygrlagica wtet conseplao Biodirerie Aesthete Raw Hy ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "8 = ←—1975-1990 7 1990-2005 (% lrlrrr  gr lar larrr gas 2005-2018 6 -\\*1975-2018 5 4 32 10 √ 2 produton Rrw neia regiation rewiaie Hydrolgea treastent comserato Bidiri Aesthetie ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 Spatial patterns ofESV ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We classified spatial paterns of ESV into five levels using natural breaks: lowest ecological environment risk (I), low ecological environment risk (I), moderate ecological environment risk (II), high ecological environment risk (IV),and highest ecological environment risk (V). High and highest ecological environment risk levels occurred primarily in construction land and waterbody，while low and lowest ecological environment risk levels were mainly observed in forestland, grassland,and cultivated land (Fig. 6). From 1975 to 2018, the area proportion of lowest and high ecological environment risk levels changed significantly (Table 5).In this period, the area with lowest ecological environment risk level decreased to $3 . { \\dot { 2 } } 0 { \\times } 1 0 ^ { 4 } ~ { \\mathrm { k m } } ^ { 2 }$ , and the area with low ecological environment risk level reduced to $2 . 1 3 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ .Meanwhile, the area with high ecological environment risk level increased from $3 . 0 5 { \\times } 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ in 1975 to $3 . 1 4 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ in 1990,and rapidly expanded to $3 . 9 2 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ in 2005.Ecological environment risk in the study area was primarily affected by urbanization and LUCC. As a sensitive ecological region, the northern slope economic belt of the Tianshan Mountains is situated in an area with high ecological environment risk. In this study,the area with high ecological environment risk level was found to be increasing rapidly over time, while the area with lowest ecological environment risk level declined under the influences of economic development and urbanization. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/089e3b645db170d27dd3cbf808bfac077abd44f9c319e9be0a9937d2694f6376.jpg",
+        "img_caption": [
+            "Fig.6Spatial distributions of areas with diferent ecological environment risk levels in the northern slope economic belt of the Tianshan Mountains in1975(a),1990 (b),2005(c),and 2018(d).I,lowest ecological environment risk；II,low ecological environment risk；III，moderate ecological environment risk；IV,high ecological environment risk; V, highest ecological environment risk. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd902af14165ff280b419c399e223e3863f8c5106fe6992b243782cea1cee0b7.jpg",
+        "table_caption": [
+            "Table5Variations of areas with diferent ecological environment risk levels in the northern slope economic belt of the Tianshan Mountains in 1975,1990,2005,and 2018 "
+        ],
+        "table_footnote": [
+            "Note:Iloweogiclotsgilots;,dateolicaotsi ecological environment risk;V,highest ecological environment risk. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Ecological environment risk level</td><td colspan=\"2\">1975</td><td colspan=\"2\">1990</td><td colspan=\"2\">2005</td><td colspan=\"2\">2018</td></tr><tr><td>Area (×104 km²)</td><td>Proportion (%)</td><td>Area (×104 km²)</td><td>Proportion (%)</td><td>Area (×104 km²)</td><td>Proportion (%)</td><td>Area (×104 km²)</td><td>Proportion (%)</td></tr><tr><td>I</td><td>3.82</td><td>26.43</td><td>3.68</td><td>25.11</td><td>3.44</td><td>22.88</td><td>3.20</td><td>21.30</td></tr><tr><td>II</td><td>2.81</td><td>19.41</td><td>2.88</td><td>19.65</td><td>2.14</td><td>14.20</td><td>2.13</td><td>14.20</td></tr><tr><td>IⅢ</td><td>2.73</td><td>18.88</td><td>2.84</td><td>19.44</td><td>2.94</td><td>19.52</td><td>3.05</td><td>20.33</td></tr><tr><td>IV</td><td>3.05</td><td>21.12</td><td>3.14</td><td>21.45</td><td>3.92</td><td>26.04</td><td>4.03</td><td>26.82</td></tr><tr><td>V</td><td>2.05</td><td>14.16</td><td>2.10</td><td>14.35</td><td>2.61</td><td>17.36</td><td>2.61</td><td>17.35</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3 Sensitivity analysis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We calculated CSS for ESV dynamics, driven by land use transformations in the study area, as shown in Figure 7. CSS represents all possible transitions among the six land use/cover types in the northern slope economic belt of the Tianshan Mountains. Since the net conversion area between two land use/cover types was symmetric (same for either type), we only showed one-way CSS for analysis.The most visible land use/cover type transition in the study area was from forestland to unused land,followed by the transformation from cultivated land, forestland, and grassland to waterbody. These changes therefore had the greatest impact on the total ESV. Although waterbody accounted for only about $3 . 5 0 \\%$ of the total study area, its CSS was very high. This is due to the fact that waterbody had a much higher ESV equivalent value coefficient than the other land use/cover types. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/51f7060dd458f2fd5eca544631c9d98ca52327548bb625de1a7a6dbf4593295b.jpg",
+        "img_caption": [
+            "Fig.7Cross-sensitivity coefficient (CSS)of ESV for cultivated land (a), forestland (b)，grassland (c)and waterbody(d) to represent the sensitivity of variations of ESV equivalent value coefficient for diffrent land use/cover types in the northern slope economic belt of the Tianshan Mountains from 1975 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The results indicate that the areas of the six land use/cover types in the northern slope economic belt of the Tianshan Mountains have changed significantly over the last 44 a (from 1975 to 2018). Land use patterns in the northern slope economic belt of the Tianshan Mountains were affected by changes of cultivated land area and infrastructure.With the intensification of urbanization and the further development of local economy, the amount of human infrastructure has increased dramatically (Huang et al.,2O19). The northern slope economic belt of the Tianshan Mountains is the most densely populated area in Xinjiang. The expansion of urban areas in recent decades has coincided with the conversion of a large amount of cultivated land. Newly added infrastructure occurred mostly around major cities within the study area, and small- and medium-sized towns which surrounding these major cities were becoming more developed as well. The transformation of cultivated land to construction land was a consequence of urbanization and economic development, which has led to the occupation of previously cultivated land (Paz-Kagan et al., 2014). Among all studied land use/cover types, the greatest change was observed for construction land.The two situations mentioned above made the expansion of these cities (Lausch et al., 2015).In regard to the return of cultivated land to grassland, policy shifts encouraged the transition of cultivated land to forestland and grassland, therefore, a large quantity of cultivated land (scattered along the watercourse) was transformed to forestland and grassland from 1975 to 2018. Compared with other regions in Xinjiang, the land area under cultivation with superior water resources has increased, likely due to the quality of agricultural land in the study region. The northern slope economic belt of the Tianshan Mountains is the most developed area of modern agriculture in Xinjiang. A growing regional population and high living standard have increased the demand for agricultural products (Tang et al.， 2017; Zhang et al.，2018). As a consequence, the amount of cultivated land throughout the study area was growing steadily over the last $4 4 \\mathrm { a }$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "LUCC can not only alter ecosystem structures and processes,but also influence regional ecosystems to provide products and services to human society (Paz-Kagan et al.,2014). ESV of the northern slope economic belt of the Tianshan Mountains decreased from $1 5 . 3 2 { \\times } 1 0 ^ { 1 0 } \\mathrm { C N Y }$ in 1975 to $1 5 . 2 8 \\times 1 0 ^ { \\dot { 1 } 0 }$ CNY in 2018. This was the result of sacrificing ecological environment to regional economic development. The collctive effect of natural factors and human activities leads to changes in ESV. Among these factors, LUCC is an essential driver of changes in ESV. ESV may be affected by the changes of land use structure,composition， patern，and intensity. With the implementation of the Silk Road Economic Belt project, human activities, such as rapid economic development, population growth,accelerated urbanization，and land use policies,have had a significant efect on LUCC in the northern slope economic belt of the Tianshan Mountains (Lausch et al.,2015; Huang et al., 2019). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The greatest proportion of ESV reduction was due to the conversion of grassland to construction land,which had a very low ESV equivalent value coefficient.In the last $4 4 \\mathrm { ~ a ~ }$ ,the change of land use/cover in the northern slope economic belt of the Tianshan Mountains was significant. The dramatic increase in land used for human infrastructure was accompanied by a decrease in grassland. Large grassand area changed into cultivation land or construction land, subsequently resulting in a decrease in ESV. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The method of ecosystem service evaluation proposed by Costanza et al. (2014） and the modifications proposed by Xie et al. (2003,20o5) have been shown to be reliable in many studies (Ding et al.,2020; Huang et al., 2021; Liu et al.,2021). The decrease of ESV we observed in the study area is similar to the findings found in other regions of Xinjiang. For example,ESV decreases have been reported in the Ugan-Kuqa River Delta Oasis (Mayila et al.，2018), the Yarkant River Basin (Zhang et al., 2O18),and the Ebinur Lake Nature Reserve (Zhang et al., 2019). However, ESV of the Yanqi Basin has increased evidently in recent years (Sidik et al.,2O16). The urban population in the northern slope economic belt of the Tianshan Mountains is exceptionally dense,driving land use/cover patern change and increasing pressures on environment. It is essential to reinforce the conservation of forestland， grassland,and waterbody in this region because of their relatively high ESV (Yuan et al.， 2O19). The ecological quality of these land use/cover types should also be monitored to protect ecosystems and enable them to sustain further population growth (Tang et al., 2017). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this study，we used remote sensing images and several statistical data to analyze the characteristics of LUCC and ESV in the northern slope economic belt of the Tianshan Mountains. The composition of land use/cover types in the northern slope economic belt of the Tianshan Mountains changed significantly from 1975 to 2018. Land use/cover types showed different degrees of transformation over time,with the area of construction land showing the greatest increase. Specifically, the areas of cultivated land and construction land increased, while the areas of grassland and unused land gradually decreased. Although the areas covered by forests and waterbody increased from 1975 to 2005,they declined over the whole study period. The total ESV for the study region decreased by $4 . 0 0 \\times \\mathrm { 1 0 } ^ { 8 }$ CNY from 1975 to 2018, mainly due to the changes of grassland ecosystems. The area of waterbody accounted for only about $3 . 5 0 \\%$ of the total study area,but its CSS was high. Also,among the individual ecosystem service functions examined in the northern slope economic belt of the Tianshan Mountains, waste treatment, soil conservation, hydrological regulation,and biodiversity conservation were the most important ecosystem service functions.In conclusion, the results of our study can be used to promote sustainable development of the northern slope economic belt of the Tianshan Mountains, especially in integrating land management-ecosystem service approaches. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This research was funded by the Pan-Third-Polar Environmental Change and the Construction of the Green Silk Road,and the Science and Technology Special Project of the Chinese Academy of Sciences (XDA20040400). We would like to thank Dr. Stephen MURPHY from Yale University for his assistance with English language and grammatical editing of the manuscript. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Arowolo AO,Deng X Z.2018.Landuse/land cover change and statistical modelingof cultivated land change drivers in Nigeria.Regional Environmental Change,18(1): 247-259.   \nBarbierEB,Hacker SD,KennedyC,etal.2O11.The valueof estuarineandcoastal ecosystem services.Ecological Monographs,81(2): 169-193.   \nBrander L M, Wagtendonk A J,Hussin SS,et al.2O12.Ecosystem service values for mangroves in Southeast Asia:A meta-analysis and value transfer application.Ecosystem Services,1(1): 62-69.   \nBrown G.2013.The relationship between social values for ecosystem services and global land cover:anempirical analysis. Ecosystem Services,5:58-68.   \nCaoLD,LiJL,YeMY,etal.2018.Changesofecosystemservice valueinacoastalzoneofZhejiang Province,China,during rapidurbanization．InternationalJournalof Environmental Research andPublicHealth，15(7):1301，doi: 10.3390/ijerph15071301.   \nChen S,Li G,Xu ZG,etal.2019.Combined impact of socioeconomic forces and policy implications:spatial-temporal dynamics of the ecosystem services value in Yangtze River Delta, China.Sustainability,11(9):1-22.   \nChen WX,Chi GQ,LiJF.2019.The spatial asociationof ecosystem services with landuse and land cover change at the county level in China,1995-2015. Science of the Total Environment,669: 459-470.   \nCord AF,BartkowskiB,Beckmann M,etal017.Towardssystematicanalysesofecosysteservice trade-ofsandsgies: Main concepts,methods and the road ahead.Ecosystem Services,28:264-272.   \nCostanzaR,dArgeR,de GrootR,etal.1997.The valueof the world's ecosystemservicesand naturalcapita.Nature,387: 253-260.   \nCostanzaR,de GrootR,Suton P,et al.2014.Changes in theglobal valueof ecosystem services.Global Environmental Change,26: 152-158.   \nCuiXL,WeiXQ,LiuW,etal.2019.Spatialandtemporalanalysisofcarbonsoucesandsinks throughlanduse/coverchanges in the Beijing-Tianjin-Hebei urban agglomeration region.Physics and Chemistry of the Earth,110: 61-70.   \nde GrootR,BranderL,vanderPloeg S,etal.20l2.Global estimatesof thevalueofecosystemsandtheirservices inmonetary units.Ecosystem Services,1(1): 50-61.   \nDing MT,PeiFS,HuYC,etal.22.Spatialandtemporalchangesof ecosystemservice valueinJiangsu Province basedon LUCC.Acta Ecologica Sinica,40(19): 6801-6811.(in Chinese)   \nGeneral AdministrationofQualitySupervision,InspectionandQuarantineofthePeople's RepublicofChina,Standardization Administration. 2017. Current LandUse Classification. (GB/T 21010-2017). [2021-06-07]. https://kns.cnki.net/kcms/detail/detail.aspx?dbcode $\\vDash$ SCSF&dbname $\\mathrel { \\mathop : } =$ SCSF&filename $\\mathrel { \\mathop : } =$ SCSF00051887&v $\\ c =$ DoBnvSYYuSsn GpkeAHYI4177SUf3jvOjScTBOOtEGOWJaXPdowWcdC754JgkjhuN.   \nGundersonLH,Cosens B,Garmestani AS.2016.Adaptive governance ofriverine and wetland ecosystem goods andservices. Journal of Environmental Management,183: 353-360.   \nHomolova L,Schaepman ME,Lamarque P,et al.2014.Comparisonof remote sensing and plant trait-based modelling to predict ecosystem services in subalpine grasslands.Ecosphere,5(8):1-29.   \nHuT,WuJS,LiWF.2019.Assessngrelationshipsofecosystem services onmulti-scale:Acasestudyofsoilerosioncontrol and water yield in the Pearl River Delta.Ecological Indicators,99:193-202.   \nHuang A,XuYQ,SunPL,etal.2O19.Landuse/landcover changesand itsimpactonecosystem services inecologically fragile zone: Acase studyof Zhangjiakou City,Hebei Province,China.Ecological Indicators,104: 604-614.   \nHuang L,He CL,Wang B.2021.Studyonthe spatial changes concerning ecosystem services valuein Lhasa River Basin, China.Environmental Science and Pollution Research,doi:10.1007/S11356-021-16245-8.   \nJobstvogt N,WatsonV,KenterJO.2014.Looking below the surface:Thecultural ecosystem service valuesof UK marine protected areas (MPAs). Ecosystem Services,10: 97-110.   \nKroegerT,CaseyF.2oo7.Anassessmentof market-basedapproaches toproviding ecosystem servicesonagricultural lands. Ecological Economics, 64(2): 321-332.   \nLausch A,BlaschkeT,Hase D,etal.2015.Understandingandquantifyinglandscape structure—Areviewonrelevant process characteristics,data models and landscape metrics.Ecological Modelling,295:31-41.   \nLi J, Wang ZL,Lai CG,et al.2018.Responseofnet primaryproductiontoland use and landcoverchangein mainland China since the late 1980s.Science of the Total Environment, 639: 237-247.   \nLi T, CuiYH,Liu AG.20l7.Spatiotemporal dynamic analysis offorest ecosystem services using \"big data\": Acase studyof Anhui province,central-eastern China.Journal of Cleaner Production,142: 589-599.   \nLi ZG,Sun ZS,TianYJ,etal.2O19.Impactoflanduse/coverchangeon YangtzeRiverDeltaurbanagglomeration ecosystem services value:temporal-spatial paternsand cold/hot spots ecosystem services value change brought by urbanization. International Journal of Environmental Research and Public Health,16(1):123,doi:10.3390/ijerph16010123.   \nLiu C G,Sun W,LiM.2021.Evolutionofecosystemservicevalue inruralregionsbasedongeographicalscopeofentities:a case study of Nanjing,China.Ecological Informatics,64:101368,doi:10.1016/j.ecoinf.2021.101368.   \nLiu JM,XiaoB,JiaoJZ,etal.2021.Modeling theresponseof ecological service value to landusechange through deep learningsimulationinLanzhou，China.ScienceoftheTotalEnvironment，796:148981，doi: 10.1016/j.scitotenv.2021.148981.   \nLiu W,ZhanJY,ZhaoF,etal.2019.Impacts ofurbanzation-induced land-usechanges onecosystemservices:Acasestudyof the Pearl River Delta Metropolitan Region, China.Ecological Indicators,98:228-238.   \nLocal Chronicles Compilation Commitee of Xinjiang Uygur Autonomous Region.1975-2018.Xinjiang Yearbook.Urumqi: XinjiangYearbook Press.[2021-05-05].https:/navi.cnki.net/knavi/yearbooks/YXINJ/detail?uniplatform $\\vDash$ NZKPT.(in Chinese)   \nLong $\\mathrm { ~ H ~ L ~ }$ ,Liu YQ,Hou X G,et al.2014.Effects of land use transitions due to rapid urbanizationon ecosystem services: Implications for urban planning in the new developing area of China.Habitat International,44: 536-544.   \nMayila R,MamatS,NigelaT,etal.2O18.Theecosystemservicevalue spatial-temporalchanges inthe Ugan-kuqaRiverDelta Oasis based on RS and GIS.Acta Ecologica Sinica,38(16): 5938-5951.(in Chinese)   \nNahuelhual L,Carmona A,Aguayo M,etal.2014.Land usechange and ecosystem services provision: a case study of recreation and ecotourism opportunities in southern Chile.Landscape Ecology,29:329-344.   \nNationalBureau of Statistics.2020.China Statistical Yearbook.Beijing:China StatisticsPress[2021-05-07]. http://www.stats.gov.cn/tjsj/ndsj/2020/indexch.htm. (in Chinese)   \nOuyang ZY,Zheng H,XiaoY,etal.2O16.Improvementsinecosystemservicesfrominvestments inaturalcapitalcience, 352(6292): 1455-1459.   \nPanNH,Guan QY,Wang QZ,et al.2O21.Spatial diferentiationanddriving mechanisms inecosystem service valueof arid region:acase study in the middle and lowerreaches of Shule River Basin,NW China.Journal of Cleaner Production,319: 128718,doi: 10.1016/j.jclepro.2021.128718.   \nPaz-KaganT,Shachak M,ZaadyE,etal.2O14.Evaluationof ecosystemresponses toland-usechangeusing soil qualityand primary productivity in a semi-arid area, Israel.Agriculture,Ecosystems & Environment,193: 9-24.   \nRawlinsMA,WestbyL.20l3.Community participation in payment for ecosystem services design and implementation:An example from Trinidad. Ecosystem Services,6:117-121.   \nSidik H,Rusuli Y,Eziz M.2016.The impactof human activityand climate change on ecosystemservices value inthe Yanqi Basin,Xinjiang,China. Chinese Journal of Eco-Agriculture,24(5): 684-694.(in Chinese)   \nSunYX,LiuSL,DongYH,etal.20l9.Spatio-temporal evolutionscenariosandthecouplinganalysisofecosystemservices with land use change in China. Science of the Total Environment, 681: 211-225.   \nSun ZB,Gao MH,Cui XF.2O18.Land use change in north slope economic zoneof Tianshan Mountain based on remote sensing and GIS from 2000-2015.Journal of Beijing Normal University: Natural Science,54(3): 397-404.(in Chinese)   \nTang XM,LiuY,LiuXW,etal.2017.Estimationandanalysisofecosystemservicevaluebasedongridscale.Transactiosof the Chinese Society for Agricultural Machinery, 48(4):149-153,205.(in Chinese)   \nWang J, ZhaiTL,LinYF,etal.2O19.Spatialimbalanceandchanges insupplyanddemandofecosystemservices inChina. Science of the Total Environment, 657: 781-791.   \nWang WJ,Guo HC,Chuai XW,etal.2O14.Theimpactof landuse changeonthetemporospatial variationsof ecosystems services value in China and an optimized land use solution.Environmental Science & Policy,44: 62-72.   \nWang Y,ShiR Y,Qiao CL.2O18.Evaluation of water resources carrying capacity based on fuzzy comprehensive evaluation method in northern slopeeconomicbeltof Tianshan Mountains.Bulletinof Soil and Water Conservation,38:206-212,219. (in Chinese)   \nWangYH,DaiEF,YinL,etal.2O18.Landuse/landcoverchangeandtheefectsonecosystemservicesinthe Hengduan Mountain region, China. Ecosystem Services,34:55-67.   \nWang ZM,ZhangB,ZhangSQ,etal.2oo6.Changesoflanduseandofecosystemservicevalues inSanjiangPlain,northeast China. Environmental Monitoring and Assessment,1l2:69-91.   \nXiao Y,Xie GD,Lu CX,etal.2016.Involvementof ecosystem serviceflowsinhuman welbeingbasedontherelatioship between supply and demand.Acta Ecologica Sinica,36(10): 3096-3102.(in Chinese)   \nXieGD,LuCX,LengYF,etal.o.EcologicalasetsvaluationoftheTbetanPateau.JouralofaturalResources,8(2): 189-196.(in Chiese)   \nXie GD,XiaoY,ZhenL,et al.2Oo5.Studyonecosystem services valueoffood productionin China.ChineseJournalof Eco-Agriculture,13(3):10-13.(in Chinese)   \nXie GD,LiWH,XiaoY,etal.20l0.Forest ecosystemservicesandtheirvaluesinBeijing.ChineseGeographicalScience,20: 51-58.   \nXie GD,Zhang CX,ZhangLM,et al.2015.Improvementofthe evaluation methodfor ecosystem servicevalue basedon per unit area.Journal of Natural Resources,30(8):1243-1254.(in Chinese)   \nYanR,CaiYP,LiCH,etal.2O19.HydrologicalresponsestoclimateandlandusechangesinawatershedoftheLoe Plateau, China.Sustainability,11(5):1443,doi: 10.3390/sul1051443.   \nYeYQ,Bryan BA,Zhang JE,etal.2O18.Changes inland-useand ecosystemservices inthe Guangzhou-Foshan metropolitan area,China from1990to20l0:implications forsustainabilityunderrapid urbanization.Ecological Indicators,93:930-941.   \nYuanSF,ZhuCM,YangLX,etal.2O19.Responsesofecosystem services tourbanization-induced landusechangesin ecologically sensitivesuburbanareas in Hangzhou,China.International JournalofEnvironmental Researchand Public Health,16(7):1124,doi:10.3390/ijerph16071124.   \nZhangF,Yushanjiang A,Jing YQ.2019.Assessng and predicting changes ofthe ecosystem service values based on land use/coverchange inEbinurLake Wetland National Nature Reserve,Xinjiang,China.Scienceofthe TotalEnvironment,656: 1133-1144.   \nZhangP,LiuYY,WangPF,etal.2019.Research oncounty ecologicalcompensation mechanisminthe processof Beijing-Tianjin-Hebei integration:acase studyof Dingxing Countyin Baoding City.Journalof Ecologyand Rural Environment,35(6): 747-755.(in Chiese)   \nZhang XQ,Mansur S,Ma GF.2O18.Analysison the changeof land use/cover ecological service valuein Yarkand River Basin.Environmental Science & Technology,41(6): 152-160.(in Chinese)   \nZhangY,LiuYF,Zhang Y,etal.2018.Onthespatialrelationshipbetweenecosystemservicesandurbanzation:Acasestudy in Wuhan, China.Science of the Total Environment,637-638:780-790. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

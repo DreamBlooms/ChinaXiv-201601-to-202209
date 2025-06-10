@@ -1,0 +1,609 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.170078 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "丁瑞霞，王维钰，张青．两种轮作模式下秸秆还田对土壤呼吸及其温度敏感性的影响[J].中国生态农业学报，2017,25(8): 1106-1118  \nDing R X,Wang WY,ZhangQ.Effectof straw mulchingonsoilrespirationand its’temperature sensitivityunderdiferentcrop rotation systems[J]. Chinese Journal of Eco-Agriculture,2017,25(8): 1106-1118",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "两种轮作模式下秸秆还田对土壤呼吸及其温度敏感性的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "丁瑞霞¹，王维钰2,，张青²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.西北农林科技大学中国旱区节水农业研究院/农业部西北黄土高原作物生理生态与耕作重点实验室杨凌712100;2．西北农林科技大学农学院杨凌712100;3．陕西省循环农业工程技术研究中心杨凌712100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：通过分析不同作物轮作模式下秸秆还田对土壤呼吸及其温度敏感性的影响，为深入探究关中地区农田生态系统碳循环提供理论依据。试验设置于陕西省杨凌地区，在2012年10月至2014年9月期间以冬小麦-夏玉米轮作模式和冬小麦-夏大豆轮作模式作为研究对象，分别设置秸秆还田(SM)和秸秆不还田(NS)两个处理，测定分析不同处理下土壤呼吸、土壤温度及土壤含水量的变化趋势和差异，并估算土壤呼吸的温度敏感性 $( Q _ { 1 0 } )$ 。结果表明：土壤呼吸存在明显的季节变化，在作物生育期大部分时间内,SM处理的土壤呼吸速率均显著高于NS处理 $( P { < } 0 . 0 5 )$ ，且 SM 处理的作物生育期土壤呼吸平均速率及土壤呼吸累计排放量也极显著高于 NS 处理$( P { < } 0 . 0 1 )$ ；不同作物生育期土壤呼吸平均速率依次为夏玉米 $. >$ 夏大豆 $. >$ 冬小麦，土壤呼吸总量表现为冬小麦 $>$ 夏玉米 $. >$ 夏大豆、冬小麦-夏玉米轮作 $>$ 冬小麦-夏大豆轮作。冬小麦-夏玉米轮作与冬小麦-大豆轮作的土壤温度间存在差异；其中，在冬小麦生育前期，冬小麦-夏玉米轮作的土壤温度显著高于冬小麦-大豆轮作；第2季夏玉米生育期内 $5 ~ \\mathrm { c m }$ 深度的土壤温度显著低于同季的夏大豆；相比NS 处理,SM处理能提高冬季土壤的温度，并降低春季和夏季的土壤温度；在高温少雨的时期内，SM处理能够提高 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土壤的平均含水量，不同的前茬作物引起两种轮作模式中冬小麦耕作层土壤含水量间明显的差异，夏玉米耕作层土壤含水量显著高于夏大豆。相关分析表明，土壤呼吸与 $5 \\mathrm { c m }$ 和 $1 0 \\ \\mathrm { c m }$ 土壤温度均存在极显著的正相关性，且与 $5 \\mathrm { c m }$ 土壤温度的相关性更好；但土壤呼吸与 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 的土壤平均含水量无显著相关性。 $5 \\ \\mathrm { c m }$ 和 $1 0 \\ \\mathrm { c m }$ 土壤温度变化能够分别解释土壤呼吸变化的 $6 4 . 6 \\% { \\sim } 6 7 . 3 \\%$ 和 $5 1 . 5 \\% { \\sim } 5 9 . 6 \\%$ 。整个研究周期内，温度敏感性 $( Q _ { 1 0 } )$ 为 $1 . 7 0 { \\sim } 2 . 0 1$ ，冬小麦-夏玉米轮作的温度敏感性显著高于冬小麦-大豆轮作，且同一轮作模式下 SM处理的温度敏感性显著低于NS 处理。因此，秸秆还田能够提高农田的土壤呼吸作用，降低土壤呼吸的温度敏感性，同时能够调节土壤的水热状况。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：轮作模式；秸秆还田；土壤呼吸；温度敏感性；土壤水热中图分类号：S344.13 文献标识码：A 文章编号:1671-3990(2017)08-1106-13",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of straw mulching on soil respiration and its’ temperature sensitivity under different crop rotation systems ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DING Ruixia', WANG Weiyu2,3, ZHANG Qing²   \n(1 Institute of Water-saving Agriculture inAridAreasofChina,NorthwestA&F University/KeyLaboratoryofCropPhysiology   \nandTillge SciencesinNorthwesternLoessPlateau,MinistryofAgriculture,Yangling7121oo,China;2.ColegeofAgronomy   \nNorthwestA&FUniversityYangling712100,China;3.ResearchCenterofRecycleAgriculturalEngineringandTechnologyof Shaanxi Province,Yangling 712100, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Soilesprationisthesecondlargestsourceof terestrialcrbon(C)flubetwetheamosphreandteteestrialco systems.ItiscriticalforregulatingglobalsoilCdynamic.Assoiltmperatureandoilmoisture wouldexerttrongereffctsonsoil respirationin the future,a thorough understandingoftheresponseofsoil microbes to temperaturechangecan provideanovel methodof studyingtheefectsofdroughtonsoilresprationandofpredictigdrought-duedchanges infuture terestrialCcycle. Temperaturesensitivityofsoilrespirationcanexplain therelationshipbetweesoilrespirationandsoil tmperature.Theobjectiveof this studywastoexploretheefectsofstraw mulchonthelinkages betweenthechangesinsoilrespirationandtemperature.The studyaimedtolaebasisofCcycleprocesinagroecosstesianling,aaniprovince.Totated,a-earfeldeperiment(October212 to September2014)wasconductedtostudythelinkagesunderdiferentcroprotationsystems.Itincluded two treatmentsof no straw (NS）and straw mulch (SM)in winter wheat-summer maizerotationand winter wheat-summer soybean rotationsystems.Soilrespirationrate,temperature,andmoisture wereanalyzedunderdiferentcroprotationsystems.Inadditionth $Q _ { 1 0 }$ (with $Q _ { 1 0 }$ value as the multiplier in determining soil respiration rate after temperature increase of $1 0 \\ \\mathrm { { ^ \\circ C } }$ ）was used to determine the effect of soil temperature change on soil respiration. It was noted that SM significantly $( P < 0 . 0 5 )$ increased soil respiration rate during crop growth period.Mean soil respirationrate andcumulative soil respiration during cropgrowth priod significantlyincreased under straw mulch $( P < 0 . 0 1 \\$ ). The order of mean soil respiration rate under various crops was as follows: maize （204号 $( 3 . 4 0 1 { - } 4 . 8 1 0 ~ \\mu \\mathrm { m o l { \\cdot } m ^ { - 2 } { \\cdot } s ^ { - 1 } } ) >$ soybean $( 3 . 3 9 0 { - } 3 . 7 6 2 ~ \\mathrm { \\mu m o l { \\cdot } m ^ { - 2 } { \\cdot } s ^ { - 1 } } ) >$ wheat $( 2 . 6 7 3 { - } 3 . 1 4 1 ~ \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 } )$ . Then the order of cumulative soil respiration among different rotations was as follows: wheat-maize [34.68-40.81 $\\mathrm { t } ( \\mathrm { C O } _ { 2 } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ] >$ wheat-soybean [30.04-33.86 $\\mathrm { t } ( \\mathrm { C O } _ { 2 } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ . In addition, soil temperature varied significantly $( P < 0 . 0 5 )$ ） among different crops.Particularly, soil temperature under wheat-maizerotation systemwas higherthanthatunder wheat-soybeanrotationsystemduringthe growth stageof wheatSoil temperature at $5 \\ \\mathrm { c m }$ soil depth in maize field was higher than that in soybean field during the summer of 2O14.It was noted that SM treatment wasamajorregulatorof soiltemperature—significantlyincreasingitin winterandthensignificantlydecreasingit in spring and summer. Moreover, mean soil moisture content in the $0 { - } 3 0 ~ \\mathrm { c m }$ soil layer was significantly higher under SM treatment than under NS treatment during the dry season. Further, mean soil moisture content in the $0 { - } 3 0 ~ \\mathrm { c m }$ layer during wheat growth period variedsignificantlyamongdiferentcropotationsystems,whichwasassociatedwithrootcharacteristicsundercroprotation.The mean soil moisture content for the $0 { - } 3 0 ~ \\mathrm { c m }$ soil layer during maize growth period was significantly higher than that during soybean growth period. Soil temperature at the $5 { \\mathrm { - } } 1 0 ~ { \\mathrm { c m } }$ soil layer was positively correlated with soil respiration. However, soil moisture at the 0-30 cm soil layer was not significantly correlated with soil respiration. Changes in soil temperature at 5 and $1 0 \\ \\mathrm { c m }$ soil depths were respectively $6 4 . 6 \\% - 6 7 . 3 \\%$ and $5 1 . 5 \\% - 5 9 . 6 \\%$ explained by the variance in soil respiration. In this study, $Q _ { 1 0 }$ varied within $1 . 7 0 \\substack { - 2 . 0 1 }$ acrossdifferentcroprotationsystemsandwassignificantlyhigherunder wheat-maize than wheat-soybeanrotation system.Inadition, $Q _ { 1 0 }$ was significantly higher under SMtreatment than under NS treatment.Therefore,SMtreatment was more advantageous in termsoftheabilitytoffectivelyreducetemperaturesensitivityofsoilrespirationandtoaccuratelypredictsoilmoistureandsoilheat conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Crop rotation system; Straw mulch; Soil respiration; Temperature sensitivity;Soil moisture and heatcondition ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自工业革命以来，人类社会快速发展导致自然环境受到前所未有的挑战，其中气候变化及其影响是当前人类面临的最大环境问题之一[1]。随着环境的日益恶化，与气候变化密切相关的碳循环问题成为当今国内外研究热点之一。土壤碳库是陆地生态系统中最大的碳库，土壤呼吸作为土壤碳库与大气碳库之间 $\\mathrm { C O } _ { 2 }$ 交换的主要形式，其排放量占整个陆地生态系统总排放量的2/3以上[2]。据统计，每年全球超过 $7 5 \\mathrm { ~ P g } ( 1 \\mathrm { ~ P g } { = } 1 { \\times } 1 0 ^ { 1 5 } \\mathrm { g } )$ 的碳通过土壤呼吸的方式向大气中释放[3]。土壤呼吸微小的变化也将势必导致大气中碳浓度的变化[4]，进而加剧全球气候变暖，危急人类今后的生存与环境。有研究认为农业生产过程排放的 $\\mathrm { C O } _ { 2 }$ 占人为温室气体排放量的$2 1 \\% { \\sim } 2 5 \\% ^ { [ 5 ] }$ 。我国作为一个农业大国，由农田所引起的碳排放量在1999—2009这10年间的增幅达",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$9 3 . 9 \\% ^ { [ 6 ] }$ 。因此，研究农业生产过程的碳排放具有重要的现实意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相比其他陆地生态系统，农田生态系统受到人类活动的干扰最大，耕作方式、施肥方式、灌溉方式的不同均会引起农田生态系统土壤环境的差异，进而影响土壤呼吸速率[7-8]。一般认为，土壤表面所测定的土壤呼吸通量是根呼吸和微生物呼吸的总和[9]。土壤呼吸强度与土壤有机质含量及矿化速率、土壤微生物种类及活性之间均存在密切的联系[10]。秸秆还田作为自前农业生产中广泛应用的耕作措施，被认为能够改善土壤的水热状况，提高土壤的透气性。同时前人的研究也指出秸秆还田能够显著影响土壤的有机质含量[11]及土壤的微生物量[12]。前人针对土壤呼吸对秸秆还田的响应做出了大量的研究，研究结果表明，秸秆还田对于土壤呼吸具有显著影响。其中于爱忠等[13]的研究表明免耕秸秆还田提高了土壤的有机质含量，促进了有机质分解释放 $\\mathrm { C O } _ { 2 }$ ，因而提高了农田土壤呼吸速率。也有研究者认为免耕留茬能够显著降低土壤呼吸速率，且土壤呼吸速率降低的幅度随留茬量的增多而增大[14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "前人的研究表明，土壤呼吸与温度有密切的联系[15]，这种关联通常表现为：温度升高会导致土壤$\\mathrm { C O } _ { 2 }$ 通量增大[16]。而土壤呼吸对温度的变化也具有适应性，这种适应性会弱化及降低土壤呼吸和温度变化之间的关系[17]。这种适应性的强弱主要取决于土壤呼吸对温度变化的敏感性。因此，土壤呼吸的温度敏感性与全球碳循环对气候变化的响应关系有非常紧密的联系[18]。目前，研究者已经对此开展了大量的有关研究，构建了温度响应函数，而在这其中使用最广泛的函数为 $Q _ { 1 0 }$ (土壤呼吸敏感性), $Q _ { 1 0 }$ 被定义为温度增加 $1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 所引起的土壤呼吸的变化量[19]。在影响土壤呼吸温度敏感性的众多因子中，温度和水分对于土壤呼吸及其温度敏感性的影响占主导地位。温度和水分的差异不仅造成土壤生物种类和数量的差异，同时也影响土壤微生物所需底物的供应[20]。前人总结不同生态系统下的土壤呼吸温度敏感性可知！$Q _ { 1 0 }$ 值介于 $1 . 2 8 \\mathrm { \\sim } 4 . 7 5 ^ { [ 2 1 ] }$ 。近年来，有关农田生态系统下土壤呼吸的温度敏感性 $( Q _ { 1 0 } )$ 的研究逐渐增多，前人的研究发现耕作栽培措施的差异能够引起土壤的水热条件、养分含量及微生物状况的变化，最终导致土壤呼吸的温度敏感性发生变化。但研究的主要侧重点多集中在不同施肥条件或耕作模式下土壤呼吸温度敏感性的变化[22-25]。而有关秸秆还田条件对土壤呼吸敏感性的研究仍不多见，已有的研究也多将秸秆还田作为耕作措施的一种，分析不同耕作措施对土壤呼吸及其温度敏感性的影响[26-27]；此外，针对不同秸秆还田量对土壤呼吸及其温度敏感性影响的研究也多为一种作物[28]，对于不同作物土壤呼吸温度敏感性的研究鲜有报道。本研究以陕西省常见的两种轮作模式为研究对象，分析和比较不同轮作模式下秸秆还田对土壤呼吸温度敏感性的影响，探究秸秆还田对土壤呼吸与温度变化之间反馈关系的影响，为进一步研究和分析关中地区农田生态系统碳循环提供理论依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究地基本信息",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验区域设于陕西省杨凌农业示范区内中 $\\mathrm { 1 0 8 ^ { \\circ } 0 7 ^ { \\prime } E }$ ， $3 4 ^ { \\circ } 1 2 ^ { \\prime } \\mathrm { N } ,$ ，该区域气候类型为大陆性暖温带季风区气候，年平均温度 $1 2 . 9 ~ \\mathrm { ~ \\textdegree ~ }$ ，全年降水主要分布在每年的7一9月，年平均降水量约为 $6 6 0 ~ \\mathrm { m m }$ 作物熟制为一年两熟制。试验土壤为楼土，试验地土壤基本理化性状见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa1b1e946931ab6343f554b7dd400b48d0b7b78c88427aeefdc1f1ac498d5cae.jpg",
+        "table_caption": [
+            "表1试验地土壤养分特性 Table1Soil chemical properties of the tested field "
+        ],
+        "table_footnote": [
+            "试验地土壤养分特性于2011年试验前测定。The soil chemical properties ofthetested field were measured before experimenti 2011. "
+        ],
+        "table_body": "<html><body><table><tr><td>土壤深度 Soil depth</td><td>有机质含量 Organic matter (g·kg-)</td><td>速效磷含量 Available phosphorus (mg·kg-1)</td><td>速效钾含量 Available potassium (mg:kg-1)</td><td>碱解氮含量 Alkali-hydrolysable nitrogen (mg·kg-1)</td></tr><tr><td>(cm) 0~10</td><td>8.78±0.34A</td><td>13.00±0.14A</td><td>158.12±1.87A</td><td>37.32±0.53A</td></tr><tr><td>10~20</td><td>6.76±0.46B</td><td>11.16±0.44B</td><td>133.17±1.81B</td><td>28.11±0.93B</td></tr><tr><td>20~30</td><td>4.94±0.39C</td><td>9.02±0.04C</td><td>123.81±1.81C</td><td>22.16±2.13C</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本试验的周期为2012—2014年，研究对象为冬小麦(Triticum aestivumL.)-夏玉米(Zea mays L.)和冬小麦-夏大豆(Glycine maxL.)两种轮作模式。其中,冬小麦分别于2012年及2013年10月初播种，并于2013年及2014年的6月收获，夏玉米及夏大豆在上季冬小麦收获后立即播种，于2013年及2014年的10月初收获。冬小麦品种为‘西农889'，夏玉米品种为‘漯单9号'，夏大豆品种为‘东豆339'。由于灌溉刺激干旱土壤的土壤呼吸[29]，进而影响土壤呼吸测定的准确性，在本研究周期内尽可能避免灌溉，每季冬小麦均只进行一次冬灌，时间约为每年的 1月中旬(冬小麦越冬期)，其余时间均依靠降水补充作物生长所需；每季夏玉米及夏大豆生育期内均只灌溉一次，以减缓作物的干旱胁迫，时间为每年的7月中旬，其余时间均依靠降水补充作物生长所需。所有灌溉均为漫灌。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "整个试验地均实行免耕播种，每个轮作模式下均设置 2 个处理：秸秆还田(SM)和秸秆不还田(NS,对照)。其中，冬小麦-夏玉米轮作模式下的处理为SM1和NS1，冬小麦-夏大豆轮作模式下的处理为SM2和NS2。所有试验处理均设置为 $8 . 6 ~ \\mathrm { m } \\times 8 \\mathrm { ~ m ~ }$ 的小区，小区相互间隔 $0 . 5 \\mathrm { ~ m ~ }$ ，相同处理均设置3个重复。秸秆还田处理在前茬作物收获后，直接将作物残茬还田；秸秆不还田处理在前茬作物收获后，清理所有根茬。冬小麦施用尿素及磷酸二铵(尿素 $3 7 5 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } +$ 磷酸二铵 $3 7 5 \\mathrm { \\ k g { \\cdot h m } } ^ { - 2 }$ )，夏玉米仅施用尿素 $( 3 7 5 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "夏大豆仅施用磷酸二铵( $1 5 0 \\mathrm { \\ k g { \\cdot h m } } ^ { - 2 \\setminus }$ ，所有肥料均作为基肥施用。不同作物秸秆还田情况及施氮量见表2。各处理其余的田间管理均保持一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a1da1d1ae151cd7790e3657f44e9671947ea71240840ad5d3b804f567c7c0d8.jpg",
+        "table_caption": [
+            "表2秸秆还田处理的不同作物秸秆还田量及秸秆还田和不还田处理的施氮量Table 2Amountsof straw incorporationand nitrogen fertilizer appication for different cropsofrotationsystemsof winterwheat/summer maize and winter wheat/summer soybean"
+        ],
+        "table_footnote": [
+            "施氮量根据所购买的尿素及磷酸二铵的总氮含量估算，其中尿素的总氮含量 $\\geqslant 4 6 \\%$ ，磷酸二铵总氮含量 $\\geqslant 1 7 . 4 \\\\text{‰}$ The amount of nitrogen wascalculatedbasedonnitrogencontentinureaanddiammoniumphosphate,respectively.Ureaanddiammoniumphosphatecontain $4 6 \\%$ and $1 7 . 4 \\%$ nitrogen,respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>冬小麦Winter wheat</td><td>夏玉米 Summer maize</td><td>夏大豆 Summer soybean</td></tr><tr><td>秸秆还田量</td><td>5000</td><td>9000</td><td>1400</td></tr><tr><td>Amount of straw incorporation (kg·hm-2) 施氮量 Amount of nitrogen fertilizer [kg(N)·hm-2]</td><td>238.0</td><td>172.5</td><td>26.2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定项目",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 气体测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤呼吸速率采用GXH-3010E1型便携式红外线分析器(华云分析仪器研究所有限公司)测定。在作物播种后，在每个小区中部分别放置PVC腔室(腔室高$1 0 \\ \\mathrm { c m }$ ，底部直径为 $1 6 ~ \\mathrm { c m }$ ，埋置深度为 $5 ~ \\mathrm { c m }$ ，每个小区重复3次，腔室呈“三角形\"排列，相互间隔 $1 \\ \\mathrm { m } _ { \\circ }$ 在测量一定时间范围内的土壤 $\\mathrm { C O } _ { 2 }$ 通量的过程中，在腔室的顶部放置1个小风扇，持续开启 $3 \\ \\mathrm { m i n }$ ，使腔室内的气体混合均匀，然后测量。每次测量均在每日的9:00—11:00完成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤呼吸速率计算公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR { = } k ( X _ { 2 } { - } X _ { 1 } ) H / \\Delta t\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $R$ 为土壤呼吸速率 $\\mathrm { ( \\mu m o l { \\cdot } m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 } \\mathrm { ) }$ ·， $k$ 为换算系数,$k { = } 1 . 8 0 ( 2 5 \\ \\mathrm { ^ \\circ C } , 1$ 个标准大气压); $X _ { 1 \\setminus X _ { 2 } }$ 分别为测定时$\\mathrm { C O } _ { 2 }$ 初始质量分数和测定结束后即时质量分数 $( \\% )$ $H$ 为容器高 $( \\mathrm { m } ) ; \\Delta t$ 为测定时间变化(s)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤呼吸速率自第 1 季冬小麦播种后(2012 年10月)开始测量，由于冬小麦在返青前的生长较慢，故分别于冬小麦的苗期(播种后15d)、分蘖期(播种后50d)、越冬期(播种后95d)、返青期(播种后155 d)各测定一次，返青期后每15d测定一次，全生育期内共测定9次；下茬作物播种后，每15d测定一次，全生育期内共测定7次。在降雨天气出现后，可适当后延3\\~5d测定土壤呼吸速率，以降低降水引起的干扰。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 土壤温度测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作物播种后，将一组不同深度的直角地温计埋至距PVC腔室 $1 0 \\ \\mathrm { c m }$ 处，每个处理3组。测定土壤呼吸速率的当天内，读取土壤 $\\mathrm { C O } _ { 2 }$ 质量分数的同时读取 $5 \\mathrm { c m }$ 、 $1 0 \\ \\mathrm { c m }$ 、 $1 5 \\mathrm { c m }$ 层土壤温度值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 土壤含水量测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用烘干称量法测定土壤含水量，每次土壤呼吸速率测定的当天，用土钻采集 $0 { \\sim } 3 0 \\ \\mathrm { c m }$ 土壤样品（每 $1 0 \\mathrm { c m }$ 为一层),3次重复，带回实验室测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.4土壤呼吸累计释放量测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤呼吸累计释放量参考Zhai等[29]的计算公式:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$R _ { a } { = } ( R _ { i } { + } R _ { i + 1 } ) / 2 { \\times } 3 ~ 6 0 0 { \\times } 2 4 { \\times } 4 4 { \\times } 1 0 ^ { - 8 } n$ (2)式中: ${ \\mathbf { } } R _ { a }$ 为土壤呼吸累计释放量 $[ \\mathrm { t } ( \\mathrm { C O } _ { 2 } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ ， $R _ { i }$ 为第 $i$ 次测量的土壤呼吸速率， $R _ { i + 1 }$ 为间隔 $n$ 天测量的土壤呼吸速率, $n$ 为相邻两次测量间隔天数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.5 数据分析方法及软件",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "有关土壤呼吸速率对温度响应的研究多使用指数函数[30]，函数表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR { = } a { \\times } \\mathbf { e } ^ { b { \\times } T }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $R$ 为测定的土壤呼吸速率 $( \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 } )$ ， $T$ 为测定的土壤温度 $( ^ { \\circ } \\mathrm { C } ) , a$ 和 $b$ 为回归系数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤呼吸对温度的敏感性通常用 $Q _ { 1 0 }$ 来描述，$Q _ { 1 0 }$ 指温度升高 $1 0 \\mathrm { ~ \\textdegree C }$ 所引起的土壤呼吸的变化值：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { Q } _ { 1 0 } \\mathbf { = } \\mathbf { e } ^ { 1 0 b }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $b$ 通过(2)式获得。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所有数据及图表均采用MicrosoftExcel2010、SPSS20.0、Origin 2016软件进行分析处理,Duncan新复极差法进行方差分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同轮作模式下各处理土壤温度的动态变化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，2012年10月一2013年9月期间，月平均气温最低的月份为2013年1月，为 $- 1 . 6 \\mathrm { ~ \\textdegree C }$ ·月平均气温最高的月份为2013年8月，为 $2 3 . 1 \\mathrm { ~ \\textdegree C }$ 。2013年10月一2014年9月期间，月平均气温最低的月份为2013年12月，为 $- 1 . 3 \\mathrm { ~ } \\mathrm { { ^ circ C } }$ ；月平均气温最高的月份为2014年6月，为 $2 8 . 2 \\mathrm { ~ \\textdegree ~ }$ 。2013—2014连",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "月平均降雨量 Mean monthly precipitation·一月平均气温Mean monthlyair temperature30(r rlnrndrrrir rgniririrri 030 400 2826242201 18 目 oeerrreeerrrrrt300 1164210200 8641002012012-10 2013-06 2013-102014-06 2014-09日期(年-月)Date (year-month)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "续两年内，6一8月的月平均温度均高于 $2 1 \\ \\mathrm { { ^ \\circ C } }$ 。在整个研究周期内，大部分时间的月平均降雨量均低于$2 3 0 \\ \\mathrm { m m }$ ，仅2013年4月、2014年2月、2014年4月、2014年9月的降雨量超过 $3 0 0 \\mathrm { m m } _ { \\circ }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在冬小麦-夏玉米(麦玉)和冬小麦-夏大豆(麦豆)两种轮作模式下，冬小麦生育期的土壤温度以播种后$9 5 \\mathrm { d }$ 为节点，呈现先降低后升高的变化趋势(图2)。在连续两季冬小麦播种后 $9 5 \\mathrm { ~ d ~ }$ 时，麦玉轮作SM处理$5 \\ \\mathrm { c m }$ 深度的土壤温度比NS处理高 $0 . 1 \\mathrm { ~ \\textdegree ~ }$ 和 $0 . 8 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 麦豆轮作SM处理 $5 \\mathrm { c m }$ 深度的土壤温度比NS处理高 $0 . 7 ~ \\mathrm { ^ { \\circ } C }$ 和 $0 . 2 \\mathrm { ~ \\textdegree ~ }$ ；同理，麦玉轮作SM处理 $1 0 ~ \\mathrm { c m }$ 深度的土壤温度比NS处理高 $0 . 6 \\mathrm { ~ \\textdegree ~ }$ 和 $0 . 2 \\mathrm { ~ \\textdegree ~ }$ ，麦豆轮作SM处理 $1 0 ~ \\mathrm { c m }$ 深度的土壤温度比NS处理高$0 . 8 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 和 $0 . 4 \\mathrm { { \\dot { C } } }$ 。在冬小麦播种 $9 5 { \\sim } 2 3 0 \\mathrm { d }$ ,SM处理在$5 \\ \\mathrm { c m }$ 及 $1 0 \\ \\mathrm { c m }$ 深度的土壤温度均低于NS处理，其中麦玉轮作 2012一2013 年冬小麦生育期分别下降$4 . 4 \\% \\sim 1 0 . 7 \\%$ 和 $1 . 3 \\% { \\sim } 5 . 3 \\%$ ，2013—2014年分别下降$2 . 5 \\% { \\sim } 1 0 \\%$ 和 $0 . 5 \\% { \\sim } 4 . 2 \\%$ ；同理，麦豆轮作2012—2013年冬小麦生育期SM处理较NS处理分别下降$1 . 9 \\% { \\sim } 5 . 4 \\%$ 和 $1 . 1 \\% { \\sim } 4 . 6 \\%$ ，而在 2013—2014年冬小麦生育期内分别下降 $2 . 1 \\% { \\sim } 8 . 1 \\%$ 和 $1 . 6 \\% { \\sim } 4 . 4 \\%$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第一季后茬作物生育期内(2013 年6—9月)2013年夏大豆生育期内土壤温度呈降低趋势；夏玉米播种后 $1 5 \\small { \\sim } 6 0 \\mathrm { ~ d ~ }$ 土壤温度变化幅度不大， $6 0 { \\sim } 1 0 5 \\mathrm { ~ d ~ }$ 土壤温度逐渐下降；在第二季后茬作物生育期内(2014 年6—9月)夏玉米和夏大豆生育期土壤温度以播种后 $4 5 \\mathrm { d }$ 为节点均呈现出先升高后降低的变化趋势。第一季夏玉米生育期内(2013年), $5 \\mathrm { c m }$ 深度和 $1 0 \\mathrm { c m }$ 深度,SM处理土壤温度分别比NS低 $0 . 3 \\% { \\sim } 7 . 7 \\%$ 和 $0 . 3 \\% { \\sim } 7 . 4 \\%$ ，在第二季生育期内(2014年)分别低 $1 . 7 \\% { \\sim } 9 . 8 \\%$ 和$0 . 3 5 \\% { \\sim } 0 . 4 \\% _ { \\circ }$ 同理，在2013年夏大豆生育期内,SM处理土壤温度分别比NS处理低 $0 . 3 \\% { \\sim } 4 . 4 \\%$ 和$0 . 7 \\% { \\sim } 6 . 1 \\%$ ，而在2014年夏大豆生育期内则分别低$0 . 7 \\% { \\sim } 4 . 6 \\%$ 和 $0 . 7 \\% { \\sim } 3 . 7 \\% _ { \\circ }$ （204号",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在整个研究周期内，麦玉轮作在冬小麦生育前期的土壤温度显著高于麦豆轮作；而在第2茬作物生育期内，夏玉米 $5 \\mathrm { c m }$ 深度的土壤温度也显著低于夏大豆。同一轮作模式下，SM处理与NS处理间的差异存在显著差异；此外，除冬小麦播种后50d至95d外，其余时段內各处理土壤温度均随土壤深度的增加而显著降低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 不同轮作模式下各处理土壤含水量变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同轮作模式下各处理的 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 平均含水量的变化如图3所示。不同轮作模式间差异显著$( P { < } 0 . 0 5 )$ 在2012—2013年冬小麦播种后 $1 8 5 \\mathrm { ~ d } , 2 0 0 \\mathrm { ~ d ~ }$ 和 $2 3 0 \\mathrm { d }$ ，麦玉轮作SM处理的土壤平均含水量比NS处理分别高为 $9 . 5 8 \\%$ 、 $1 . 7 7 \\%$ 和 $7 . 4 6 \\%$ ；麦豆轮作高$0 . 0 8 \\%$ 、 $6 . 2 1 \\%$ 和 $3 . 5 3 \\%$ 。而在2013—2014年冬小麦生育期内，播种后215d、230d麦玉和麦豆轮作模式下SM处理土壤平均含水量均高于NS处理，增幅分别为 $6 . 6 2 \\%$ 、 $2 . 9 2 \\%$ 和 $3 . 0 8 \\%$ 、 $5 . 3 9 \\%$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "两季夏玉米生育期内，播种后30\\~90d，SM处理的土壤平均含水量均高于NS 处理，增幅依次为$0 . 5 \\% { \\sim } 3 . 1 8 \\%$ 和 $0 . 0 6 \\% { \\sim } 4 . 1 7 \\% _ { \\circ }$ 2012—2013年夏大豆整个生育期内，SM处理的土壤平均含水量均高于NS 处理，增幅为 $0 . 7 8 \\% { \\sim } 3 . 5 0 \\%$ ，而2013—2014年夏大豆生育期内，除播种后90d外，其余时间内SM处理的土壤平均含水量均高于NS处理，增幅为$0 . 4 4 \\% { \\sim } 1 3 . 8 5 \\%$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 不同轮作模式下各处理土壤水热因子对土壤呼吸的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过Pearson相关分析法分析不同处理土壤呼吸与土壤水热因子间的相关性。分析结果表明，两种轮作模式下各处理土壤呼吸与土壤温度极显著正相关(表3)。麦玉轮作下，土壤呼吸与土壤温度间的相关系数为 $0 . 6 1 1 { \\sim } 0 . 6 8 7$ ，麦豆轮作为 $0 . 2 2 7 { \\sim } 0 . 3 9 7 _ { \\circ }$ 此外，两种轮作模式下，SM处理土壤呼吸与不同深度土壤温度间的相关系数大于NS处理，且所有处理土壤呼吸与地下 $5 \\mathrm { c m }$ 的土壤温度间的相关系数均大于地下 $1 0 ~ \\mathrm { c m } _ { \\circ }$ 但不同处理土壤呼吸与 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 深度下的土壤平均含水量间的相关性不显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过拟合不同处理土壤温度对土壤呼吸的影响可知，土壤呼吸与土壤温度间的关系可用指数函数解释(表 4)。从土壤深度来看，地下 $5 \\ \\mathrm { c m }$ 土壤的温度能够解释土壤呼吸变化的 $6 4 . 6 \\% { \\sim } 6 7 . 3 \\%$ ，而地下 $1 0 \\ \\mathrm { c m }$ 土壤温度能够解释土壤呼吸变化的 $5 1 . 5 \\% { \\sim } 5 9 . 6 \\% _ { 0 \\textmd { o } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b526b4cc3a5466921efffb50a22d61961673cfb99222ff4584f8d97b94363add.jpg",
+        "img_caption": [
+            "图22012一2014年两种轮作模式下不同处理土壤温度的周期性变化Fig.2Periodic changes of soil temperature under different treatments in two rotation systems from 2O12 to 2014实线为冬小麦-夏玉米轮作，虚线为冬小麦-夏大豆轮作；NS 为秸秆不还田处理，SM 为秸秆还田处理。The solid line indicates winterwheat-summerazerotationsytemadtedsdlineidicatesintereatsumersobeaotatiosste.NS:ostraicopoatitreatment; SM: straw incorporation treatment"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4 不同轮作模式下各处理土壤呼吸速率的动态变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图4所示，冬小麦播种后，不同处理土壤呼吸速率均逐渐下降，至播种后95d，土壤呼吸速率降至最低。但不同处理的土壤呼吸速速率在播种后155\\~230d的变化规律有所差异。2012—2013年冬小麦播种后 $9 5 { \\sim } 1 8 5 \\mathrm { ~ d ~ }$ ，仅麦豆轮作的SM处理的土壤呼吸速率持续增大，其余处理均表现为先升高后降低的变化趋势。2013一2014年冬小麦播种后，所有处理的土壤呼吸速率 $9 5 { \\sim } 2 0 0 \\ \\mathrm { ~ d ~ }$ 持续升高，但$2 1 5 { \\sim } 2 3 0 \\mathrm { d }$ 均变为降低。在后茬作物生育期内，不同处理的土壤呼吸速率均基本呈现先升高后降低的变化趋势。2012一2013年后茬作物生育期内，夏玉米和夏大豆土壤呼吸速率最大值出现的时期有所差异，夏大豆出现在播种后45d，而夏玉米出现在播种后$6 0 \\mathrm { ~ d } _ { \\circ }$ 2013一2014年后茬作物生育期内，麦玉轮作的播种后30\\~105d土壤呼吸率始终高于麦豆轮作，且所有处理土壤呼吸速率的最大值均出现在播种后$6 0 ~ \\mathrm { d } _ { \\circ }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "麦玉轮作，除冬小麦2012—2013年播种后230d以及2013—2014年播种后 $2 0 0 \\mathrm { ~ d ~ }$ 外，SM处理的土壤呼吸速率在其余时期均显著高于 NS 处理，增幅为 $1 . 0 8 \\% { \\sim } 3 6 . 5 3 \\%$ ；同理，麦豆轮作下，SM处理在2012—2014年播种后95\\~155d之外的其余时期内的土壤呼吸速率均显著高于NS处理，增幅为$1 . 5 1 \\% { \\sim } 9 9 . 4 3 \\%$ 。在连续两季夏玉米生育期内，除2013—2014年播后 $3 0 \\mathrm { d }$ 及75d外，其余时期内SM处理的土壤呼吸速率均显著高于NS处理，增幅为",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b94a989f504586aee1f8a9bea1bc59a7ecd22ca814bc4935ad1a0f8abee34ca7.jpg",
+        "img_caption": [
+            "图32012—2014年两种轮作模式下不同处理 $\\mathbf { 0 - 3 0 ~ c m }$ 土壤平均含水量的周期性变化 Fig.3Periodic changes of $0 { - } 3 0 ~ \\mathrm { c m }$ mean soil moisture under different treatments in two rotation systems from 2O12 to 2014 实线为冬小麦-夏玉米轮作，虚线为冬小麦-夏大豆轮作；NS为秸秆不还田处理，SM为秸秆还田处理。The solid line indicates winter wheat-summeraizerotationsystemandtedasedlineidicateswintereatsumersobeanrotationsystem.NS:noraicoporatiotreat ment; SM: straw incorporation treatment. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6e132b04157af71e277d9fb3f5bd32103968b66a779dbb8f9cd1c1e93ac0ded7.jpg",
+        "table_caption": [
+            "'able3Correlationanalysisofsoilrespirationandsoilhydrothermalfactors underdiferenttreatment intworotationsystems "
+        ],
+        "table_footnote": [
+            "NS 为秸秆不还田处理,SM为秸秆还田处理。\\*\\*和\\*分别表示极显著 $( P { < } 0 . 0 1 \\dot { ] }$ 和显著 $( P { < } 0 . 0 5 )$ 相关。NS:no straw incorporation treatment; SM straw incorporation treatment. $^ { * * }$ and \\* indicate significant correlation at O.0l and 0.05 levels,respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td>轮作模式 Rotation system</td><td>处理 Treatment</td><td>5cm土壤温度 Soil temperature of 5 cm</td><td>10cm土壤温度 Soil temperature of 10 cm</td><td>0~30cm土壤平均含水量 Soil mean moisture of 0-30 cm</td></tr><tr><td>麦玉轮作</td><td>NS</td><td>0.631**</td><td>0.611**</td><td>0.203</td></tr><tr><td>Wheat-maize</td><td>SM</td><td>0.687**</td><td>0.670**</td><td>0.101</td></tr><tr><td>麦豆轮作</td><td>NS</td><td>0.286**</td><td>0.227**</td><td>0.528</td></tr><tr><td>Wheat-soybean</td><td>SM</td><td>0.397**</td><td>0.374**</td><td>0.636</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7faa92d6f9a7a47508ca8c6b3c83a7f5689241711fefc7a7e53bd30785e972ff.jpg",
+        "table_caption": [
+            "表3两种轮作模式下不同处理土壤呼吸与土壤水热因子的相关性",
+            "表4两种轮作模式下不同处理土壤呼吸与土壤温度拟合方程 e 4Fitted equations of soil respiration with soil temperature under different treatments in t "
+        ],
+        "table_footnote": [
+            "NS 为秸秆不还田处理,SM为秸秆还田处理。NS:no straw incorporation treatment; SM: straw incorporation treatment. "
+        ],
+        "table_body": "<html><body><table><tr><td>轮作模式 Rotation system</td><td>处理 Treatment</td><td>土壤深度 Soil depth (cm)</td><td>拟合方程 Fitted equation</td><td></td><td>P</td></tr><tr><td rowspan=\"4\">冬小麦-夏玉米轮作 Winterwheat-summer maize</td><td rowspan=\"2\">NS</td><td>5</td><td>R=0.838e0.070T</td><td>0.673</td><td><0.001</td></tr><tr><td>10</td><td>R=0.868e0.059T</td><td>0.548</td><td><0.001</td></tr><tr><td rowspan=\"2\">SM</td><td>5</td><td>R=e0.058T</td><td>0.651</td><td><0.001</td></tr><tr><td>10</td><td>R=1.048e0.058T</td><td>0.515</td><td><0.001</td></tr><tr><td rowspan=\"4\">冬小麦-夏大豆轮作 Winter wheat- summer soybean</td><td>NS</td><td>5</td><td>R=0.882e0.063T</td><td>0.672</td><td><0.001</td></tr><tr><td></td><td>10</td><td>R=0.805e0.060T</td><td>0.596</td><td><0.001</td></tr><tr><td rowspan=\"2\">SM</td><td>5</td><td>R=1.063e0.056T</td><td>0.646</td><td><0.001</td></tr><tr><td>10</td><td>R=0.787e0.056T</td><td>0.564</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$0 . 7 0 \\% { \\sim } 5 6 . 2 4 \\%$ ；而在连续两季夏大豆生育期内，SM 处理的土壤呼吸速率均显著高于NS处理，增幅为 $0 . 7 3 \\% { \\sim } 1 1 . 6 4 \\%$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "冬小麦生育期土壤呼吸平均速率为 $2 . 6 7 3 { \\sim } 3 . 1 4 1$ $\\mu \\mathrm { m } \\mathrm { o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，夏玉米生育期土壤呼吸平均速率为$3 . 4 0 1 { \\sim } 4 . 8 1 0 \\ \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，夏大豆生育期土壤呼吸平均速率为 $3 . 3 9 0 { \\sim } 3 . 7 6 2 ~ \\mathrm { \\mu m o l { \\cdot } m ^ { - 2 } { \\cdot } s ^ { - 1 } } ( \\not { \\overline { { \\mathfrak { X } } } } ~ 5 ) ,$ 。整个研究周期内SM处理的作物生育期土壤呼吸平均速率均显著高于NS处理 $( P { < } 0 . 0 1 )$ ；两季麦玉轮作模式中，冬小麦SM处理的作物生育期土壤呼吸平均速率比NS处理分别高 $1 4 . 1 3 \\%$ 和 $9 . 3 5 \\%$ ，而麦豆轮作模式中冬小麦SM处理比NS处理分别高 $12 . 6 1 \\%$ 和 $7 . 2 9 \\%$ 两季夏玉米中SM处理比NS处理分别高 $1 6 . 5 5 \\%$ 和$1 6 . 7 0 \\%$ ，两季夏大豆中 SM处理分别比NS 处理高$4 . 0 1 \\%$ 和 $2 . 3 3 \\%$ 0",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f767231ff744598a422e9021c65cfe9a39abb09dfc6cb2e08eea07d428c94ca.jpg",
+        "img_caption": [
+            "图42012—2014年两种轮作模式下不同处理土壤呼吸速率的周期性变化Fig.4Periodic changes of soilrespirationrate under diferent treatments in two rotation systems from 2012 to 2014实线为冬小麦-夏玉米轮作，虚线为冬小麦-夏大豆轮作；NS 为秸秆不还田处理，SM 为秸秆还田处理。The solid line indicates winterwheat-summeraizeotationsysteandtedashdneidicatesintereatsumersobeanotatioste.NS:ostraicopoatitreatment; SM: straw incorporation treatment."
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5 不同轮作模式下各处理土壤呼吸累计释放量的动态变化",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "土壤呼吸总量能够描述整个作物生育期内土壤释放的 $\\mathrm { C O } _ { 2 }$ 总量。如表6所示，不同作物生育期内土壤呼吸总量有很大的差异，表现为冬小麦 $\\cdot >$ 夏玉米 $\\mathrm { > }$ 夏大豆，受此影响，麦玉轮作的土壤呼吸总量[ $3 4 . 6 8 { \\sim } 4 0 . 8 1$ $\\mathrm { t } ( \\mathrm { C O } _ { 2 } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 高于麦豆轮作$[ 3 0 . 0 4 { \\sim } 3 3 . 8 6 \\$ $\\mathrm { t } ( \\mathrm { C O } _ { 2 } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 。不同作物生育期内土壤呼吸总量均为 $\\mathrm { \\ S M { > } N S }$ ，且处理间差异极显著 $( P { < } 0 . 0 1 )$ 这与作物生育期土壤呼吸平均速率的变化规律相同。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.6 不同轮作模式下各处理土壤呼吸温度敏感性$( Q _ { 1 0 } )$ 的变化",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利用指数函数 $R { = } a \\mathbf { e } ^ { b T }$ 对连续两个轮作周期内不同处理土壤呼吸速率对地下 $5 \\mathrm { c m }$ 土壤温度的响应关系进行模拟，通过模拟，进而估算不同处理土壤呼吸的温度敏感性 $( Q _ { 1 0 } )$ ，不同处理的 $Q _ { 1 0 }$ 值如图5所示。整个研究周期内，不同处理的 $Q _ { 1 0 }$ 值介于$1 . 7 0 { \\sim } 2 . 0 1$ ，相同处理的 $Q _ { 1 0 }$ 表现为麦玉轮作 $\\mathrm { > }$ 麦豆轮作 $( P { < } 0 . 0 5 )$ ；两种轮作模式中,SM处理的 $Q _ { 1 0 }$ 值均极显著低于NS 处理。在麦玉轮作中，SM的 $Q _ { 1 0 }$ 值比NS 处理的低0.20，在麦豆轮作中，SM的 $Q _ { 1 0 }$ 值比NS 处理的低 $0 . 1 6 _ { \\circ }$ （204号",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/2e5b3df3f148601032f6ca9b79cfb16b7494c9c61194c39f020c44aeb6f01044.jpg",
+        "table_caption": [
+            "表52012年10月(2012-10)—2014年6月(2014-06)两种轮作模式下作物生育期不同处理的土壤呼吸平均速率Table 5Mean soilrespirationrates in crop growth periods of tworotation systemsunder different reatments from October 2012(2012-10) to June 2014 (2014-06)"
+        ],
+        "table_footnote": [
+            "NS为秸秆不还田处理,SM为秸秆还田处理。不同字母表示同一生育期内不同处理间差异显著 $( P { < } 0 . 0 1 ) _ { \\circ } \\mathrm { N S }$ : no straw incorporation treatmenM:strawincorporation treatment.Dierentletersindicatesignificantdifferenceamongtreatments inthesame growthperiodat $P < 0 . 0 1$ level."
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理 Treatment</td><td colspan=\"6\">土壤呼吸平均速率 Mean soil respiration rate (μmol·m-2.s-1)</td></tr><tr><td>冬小麦 Winter wheat</td><td></td><td>夏玉米 Summermaize</td><td></td><td>夏大豆 Summer soybean</td><td></td></tr><tr><td></td><td>2012-10—2013-06</td><td>2013-10—2014-06</td><td>2012-10—2013-06</td><td>2013-10—2014-06</td><td>2012-10—2013-06</td><td>2013-10—2014-06</td></tr><tr><td>NS</td><td>2.673±0.028C</td><td>2.801±0.016B</td><td>3.401±0.017B</td><td>4.731±0.030B</td><td>1</td><td>1</td></tr><tr><td>SM</td><td>3.113±0.029A</td><td>3.090±0.023A</td><td>3.964±0.017A</td><td>4.810±0.020A</td><td>一</td><td>一</td></tr><tr><td>NS</td><td>2.745±0.004B</td><td>2.774±0.006B</td><td>1</td><td>1</td><td>3.390±0.002B</td><td>3.641±0.013B</td></tr><tr><td>SM</td><td>3.141±0.018A</td><td>2.992±0.008A</td><td>一</td><td>一</td><td>3.526±0.009A</td><td>3.726±0.015A</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/095f1c10326f9d4d6905b1a44f28238cfedf8cfdfa618a9995fd3b897a7311bc.jpg",
+        "table_caption": [
+            "表62012年10月(2012-10)—2014年6月(2014-06)两种轮作模式下作物生育期不同处理的土壤呼吸总量Table6Cumulative soilrespiration incropgrowth periodsof tworotationsystemsunderdifferentreatments from Otober 2012(2012-10) to June 2014 (2014-06)"
+        ],
+        "table_footnote": [
+            "NS 为秸秆不还田处理,SM为秸秆还田处理。不同字母表示同一生育期内不同处理间差异显著 $( P { < } 0 . 0 1 ) _ { \\circ } \\mathrm { N S }$ : no straw incorporation treatment;SM:strawincorporationtreatment.Differentleters indicatesignificantdiferenceamong treatmentsinthesamegrowthperiodat $P < 0 . 0 1$ level."
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理 Treatment</td><td colspan=\"6\">土壤呼吸总量 Cumulative soil respiration [t(CO2)·hm-2]</td></tr><tr><td>冬小麦</td><td>Winter wheat</td><td>夏玉米</td><td>Summer maize</td><td>夏大豆 Summer soybean</td><td></td></tr><tr><td></td><td>2012-10—2013-06</td><td>2013-10—2014-06</td><td>2012-10—2013-06</td><td>2013-10—2014-06</td><td>2012-10—2013-06</td><td>2013-10—2014-06</td></tr><tr><td>NS</td><td>19.80±0.39B</td><td>20.29±0.014B</td><td>15.80±0.11B</td><td>18.17±0.15B</td><td>1</td><td>1</td></tr><tr><td>SM</td><td>21.89±0.33A</td><td>21.94±0.39A</td><td>17.46±0.17A</td><td>18.80±0.14A</td><td>1</td><td>一</td></tr><tr><td>NS</td><td>19.85±0.21C</td><td>18.88±0.29C</td><td>1</td><td>1</td><td>11.16±0.26A</td><td>11.76±0.19A</td></tr><tr><td>SM</td><td>22.01±0.29B</td><td>19.75±0.52B</td><td>1</td><td>1</td><td>11.27±0.31A</td><td>11.85±0.18A</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/da7436c3a2e64d8e4068c74faa92bb2184c0a01e358b453d2a8fbede635596fb.jpg",
+        "img_caption": [
+            "图5不同轮作模式不同处理下土壤呼吸温度敏感性$( Q _ { 1 0 } )$ 的变化",
+            "Fig.5Variations of temperature sensibility of soil respiration $( Q _ { 1 0 } )$ values of two rotation systems under different treatments NS 为秸秆不还田处理，SM为秸秆还田处理。不同大写字母表 示同一轮作模式不同处理间差异显著 $( P { < } 0 . 0 1 \\$ 。NS:no straw incorporation treatment; SM:straw incorporation treatment.Different letters indicate significant difference between treatments for the same rotation system at $P < 0 . 0 1$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "土壤温度的动态变化对气温的变化有明显的响应，同时也与地表接收的太阳辐射量有关。在本研究中，不同处理土壤温度的季节变化趋势与气温变化趋势相同。但土壤温度随土层深度变化的规律并不一致，具体表现为：冬季地下 $1 0 ~ \\mathrm { c m }$ 土壤温度高于 $5 \\ \\mathrm { c m }$ ，而春季和夏季则正好相反。可能的原因是当外界气温较低时，土壤热量由深层向浅层传导，而当外界气温升高时，土壤中的热量则由浅层向深层传导[31]。前人的研究结果证实，秸秆还田能够调节耕层土壤的温度[32]，本研究所得结果也验证了这一结论，具体表现为：当外界温度较低时，秸秆还田处理的土壤温度高于不还田处理，当外界温度逐渐升高时，秸秆还田处理的土壤温度均低于不还田处理。在两种轮作模式下的冬小麦生育期内，由于前茬作物(夏玉米和夏大豆)的秸秆还田量不同，导致土壤向大气散失的热量出现差异，最终引起两种轮作模式下冬小麦生育前期土壤温度出现显著差异，对于后茬作物而言，由于夏玉米和夏大豆的作物群体不同，进入作物的生育后期，植株能够在土壤的上方形成一个覆盖层[33]，在外界气温较高时，夏玉米较大的叶片，减少了地表接收的太阳辐射，进而降低了土壤的温度。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "前人的研究结果表明，秸秆还田能够提高作物生育期内土壤的含水量[34-35]。但本研究结果显示,在作物生育期内，秸秆还田的土壤含水量并非在所有时间均高于秸秆不还田处理，通过分析可知，在外界气温较高且降雨量较低的月份里，秸秆还田处理耕作层土壤平均含水量高于秸秆不还田处理。这可能是由于在这些月份中，较高的气温加剧了土壤水分的蒸散作用，单次降雨量较少以及降雨的间隔时间较长，导致土壤的整体湿润程度较低，秸秆还田能够减缓株间无效蒸散，进而提高土壤的含水量。此外，研究还发现，夏玉米耕作层土壤含水量高于夏大豆，可能的原因是由于夏玉米的叶片较大，一定程度上减少了太阳辐射与土壤的直接接触，从而减缓了土壤的蒸散作用；对于两种轮作模式内冬小麦耕作层土壤含水量的差异，可能的原因是由于轮作体系下，作物根系的数量及分布均有所差异，一定程度上改变了土壤的入渗速率[36]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "有研究者认为，免耕秸秆还田能够降低土壤呼吸[37-38]。而本试验基于免耕条件下实行秸秆还田,研究结果表明，秸秆还田处理显著提高了土壤呼吸作用，这与Blanco-Canqui等[39-40]研究结果一致。原因可能是秸秆的腐解是一个缓慢的过程，秸秆中的碳不能完全转化为土壤碳，未转化的部分通常以$\\mathrm { C O } _ { 2 }$ 或 $\\mathrm { C H } _ { 4 }$ 的形式向大气中释放。同时，由于研究中在秸秆还田的基础上额外施用氮肥的量较大，引起土壤C/N发生变化，更有利于微生物分解有机质，进而增加了土壤有机质中碳的分解与释放[4I。此外,秸秆还田处理的作物生育期土壤呼吸平均速率也高于秸秆不还田处理，这一研究结果也与前人相近[42]。研究发现，在不同轮作模式下土壤呼吸速率有明显的差异，这种差异主要来源于不同生长特性的作物交替种植改变了土壤微生物的群体分布和多样性，以及土壤养分的循环[43]。同时，在轮作模式下，不同作物生长过程中，土壤温度及土壤湿度也存在差异[44]。此外，前人的研究还指出施氮量、秸秆还田量的不同能够引起土壤呼吸的差异[45-46]，这些都是引起不同轮作模式间土壤呼吸速率差异的潜在因素。土壤温度和土壤含水量被认为是影响土壤呼吸的重要环境因子，在本研究中，土壤呼吸与地下 $5 \\ \\mathrm { c m }$ 及地下 $1 0 \\ \\mathrm { c m }$ 土壤温度均呈显著正相关，且与地下 $5 \\ \\mathrm { c m }$ 土壤温度的相关性更好，这与李昌珍等[47]的研究结果一致。通过回归分析可知，地下 $5 \\mathrm { c m }$ 土壤的温度能够解释土壤呼吸变化的 $6 4 . 6 \\% { \\sim } 6 7 . 3 \\%$ ，略低于张俊丽等[48]研究结果中的 $6 2 . 3 1 \\% { \\sim } 7 8 . 6 6 \\%$ ，此外，本研究显示土壤呼吸与 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土壤平均含水量的相关性不显著，这一结果也与前人的研究结果一致[49-50]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在整个研究周期内，不同处理的 $Q _ { 1 0 }$ 值介于$1 . 7 0 { \\sim } 2 . 0 1$ 。数值略低于前人研究结果中我国 $Q _ { 1 0 }$ 值范围 $( 2 . 2 5 { \\scriptstyle \\pm 0 . 2 8 ) } ^ { [ 5 1 ] }$ 。本研究结果显示，麦玉轮作的$Q _ { 1 0 }$ 略高于麦豆轮作，可能的原因是由于第2轮作周期内，冬小麦生育后期以及后茬作物生育期内，麦豆轮作的土壤温度均显著高于麦玉轮作，较低的温度能够丰富土壤微生物的种类，进而潜在地提高Qi0[52]。本研究结果还显示，秸秆还田处理的 $Q _ { 1 0 }$ 低于秸秆不还田处理，这与前人的研究结果一致[53-54]。导致这一现象的原因可能是由于外界气候条件发生变化所致，前人在研究中指出温度升高及干旱都会引起土壤呼吸温度敏感性降低[55-56]。在本研究周期内，由于试验区域的夏季温度较高，且夏玉米及夏大豆生育期内根据当年的天气情况仅灌溉一次，可能引发潜在的干旱胁迫，进而降低土壤呼吸的温度敏感性。由于本研究属于长期定位试验的一个部分，研究周期也仅为两年，所得结论还需进一步的验证，今后有关秸秆还田对土壤呼吸的温度敏感性长期影响的试验将进一步完善和开展。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2012一2014连续两年内不同轮作模式下秸秆还田对土壤呼吸及其温度敏感性的研究结果显示，不同作物生育期内，土壤呼吸均存在明显的季节变化趋势，且在生育期的大部分时间内，SM处理的土壤呼吸速率均高于NS处理，相比NS处理,SM显著提高了作物生育期土壤呼吸平均速率和生育期土壤呼吸累计释放量。不同轮作模式下，麦玉轮作的生育期土壤呼吸累计释放量高于麦豆轮作。秸秆还田具有调节土壤温度的作用，在冬季能够提高土壤的温度，但在春季和夏季表现为降低土壤温度。对于土壤含水量而言，在高温少雨的时期内，秸秆还田能够有效提高土壤含水量。土壤温度与土壤呼吸间存在显著的正相关关系，地下 $5 \\mathrm { c m }$ 和地下 $1 0 \\ \\mathrm { c m }$ 的土壤温度变化能够分别解释土壤呼吸变化的$6 4 . 6 \\% { \\sim } 6 7 . 3 \\%$ 和 $5 1 . 5 \\% { \\sim } 5 9 . 6 \\%$ ，但土壤呼吸与地下$0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土壤平均含水量间无显著相关性。此外，秸秆还田还能够降低土壤呼吸的温度敏感性，对农田生态系统碳循环对全球气候变化响应的研究具有一定实际意义。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Keeling C D.Climate change and carbon dioxide:An introduce[J].Proceedings of the National Academy of Sciences of the United States of America,1997,94(16):8273-8274   \n[2]Bond-Lamberty B,Thomson A.A global database of soil respiration data[J].Biogeosciences,2010,7(6):1915-1926   \n[3]Hibbard K A,Law B E,Reichstein M,et al.An analysis of soil respiration across northern hemisphere temperate ecosystems[J].Biogeochemistry,2005,73(1):29-70   \n[4]Schlesinger W H,Andrews JA.Soil respiration and the global carbon cycle[J].Biogeochemistry,20oo,48(1):7-20   \n[5]Li H,Qiu JJ,WangL G,et al.Modelling impacts of alternative farming management practices on greenhouse gas emissions from a winter wheat-maize rotation system in China[J]. Agriculture,Ecosystems & Environment,2010，135(1/2): 24-33   \n[6]段华平，张悦，赵建波，等．中国农田生态系统的碳足迹分 析[J]．水土保持学报,2011,25(5):203-208 DuanHP,ZhangY,Zhao JB,etal.Carbon footprint analysis offarmland ecosystem in China[J]. Journal of Soil and Water Conservation,2011,25(5):203-208   \n[7]Raich JW,Tufekciogul A.Vegetation and soil respiration: Correlations and controls[J].Biogeochemistry,20oo,48(1): 71-90   \n[8] Lal R.Soil carbon sequestration impacts on global climate change and food security[J]. Science，2004，304(5677): 1623-1627   \n[9] LuoYQ,Zhou XH.土壤呼吸与环境[M]．姜丽芬，曲来叶, 周玉梅，等，译．北京：高等教育出版社,2007 Luo Y Q, Zhou X H. Soil Respiration and Environment[M]. Jiang L F,Qu L Y, Zhou Y M,et al.,trans.Beijing: Higher Education Press, 2007   \n[10]李海防，夏汉平，熊燕梅，等．土壤温室气体产生与排放影 响因素研究进展[J].生态环境,2007,16(6):1781-1788 Li HF, Xia HP, Xiong YM,et al. Mechanism of greenhouse gases fluxes from soil and its controlling factors: A review[J]. Ecology and Environment,2007,16(6): 1781-1788   \n[11]南雄雄，游东海，田霄鸿，等．关中平原农田作物秸秆还田 对土壤有机碳和作物产量的影响[J]．华北农学报，2011, 26(5): 222-229 Nan X X, You D H, Tian X H, et al. Effect of returning of cropland straw to field on soil organic carbon and grain yield in Guanzhong plain[J]. Acta Agriculturae Boreali-Sinica, 2011,26(5): 222-229   \n[12]Buman RA,Alesii BA,Hatfield JL,et al.Profit,yield,and soil quality effects of tillage systems in corn-soybean rotations[J].Journal of Soil and Water Conservation,2004,59(6): 260-270   \n[13]于爱忠，黄高宝，柴强．不同耕作措施对西北绿洲灌区冬 小麦农田土壤呼吸的影响[J]．草业学报，2012，21(1): 273-278 Yu A Z,Huang G B,Chai Q. Effect of different tillage treatments on soil respiration of winter-wheat farmland in oasis irrigated area Northwest China[J]. Acta Prataculturae Sinica, 2012,21(1): 273-278   \n[14]崔凤娟，李立军，刘景辉，等．免耕留茬覆盖对土壤呼吸和 土壤酶活性及养分的影响[J].中国农学通报,2011,27(21): 147-153 Cui F J,LiL J,LiuJH,etal. No-tillage stubble with residues on soil respiration and the soil enzyme activity and nutrient influence[J].Chinese Agricultural Science Bulletin,2011, 27(21): 147-153   \n[15]Irvine J,Law B E.Contrasting soil respiration in young and old-growth ponderosas pine forests[J]. Global Change Biology,2002,8(12): 1183-1194   \n[16] Zhou X H, Sherry R A,An Y,et al. Main and interactive effects of warming,clipping,and doubled precipitation on soil （204号 $\\mathrm { C O } _ { 2 }$ effux ina grassand ecosystem[J]. Global Biogeochemical Cycles,2006,20(1): GB1003   \n[17] 杨毅，黄玫，刘洪升，等．土壤呼吸的温度敏感性和适应性 研究进展[J]．自然资源学报,2011,26(10):1811-1820 Yang Y,Huang M,Liu H S,et al. A The interrelation between temperature sensitivity and adaptability of soil respiration[J]. Journal of Natural Resources,2011,26(10): 1811-1820   \n[18] 杨庆朋，徐明，刘洪升，等．土壤呼吸温度敏感性的影响因 素和不确定性[J].生态学报,2011,31(8):2301-2311 YangQP,Xu M,Liu H S,et al.Impact factors and uncertainties of the temperature sensitivity of soil respiration[J]. Acta Ecologica Sinica,2011,31(8): 2301-2311 44(2): 81-99   \n[20] Davidson E A, Janssens IA,Luo Y Q.On the variability of respiration in terrestrial ecosystems:Moving beyond $Q _ { \\mathrm { { l 0 } } } [ \\mathrm { { J } ] }$ Global Change Biology,2006,12(2): 154-164   \n[21] Zheng Z M,Yu G R,Fu YL,et al. Temperature sensitivity of soil respiration is affected by prevailing climatic conditions and soil organic carbon content: A trans-China based case study[J].Soil Biology and Biochemistry，2009,41(7): 1531-1540   \n[22] Peng Q,Dong Y S,Qi Y C,et al. Effects of nitrogen fertilization on soil respiration in temperate grassland in Inner Mongolia,China[J].Environmental Earth Sciences,2011,62(6): 1163-1171   \n[23] Wang R, Sun Q Q,Wang Y, et al. Temperature sensitivity of soil respiration:Synthetic effects of nitrogen and phosphorus fertilization on Chinese Loess Plateau[J]. Science of the Total Environment, 2017, 574: 1665-1673   \n[24]刘爽，严昌荣，何文清，等．不同耕作措施下旱地农田土壤 呼吸及其影响因素[J]．生态学报,2010,30(11):2919-2924 Liu S,Yan C R,He W Q,et al. Soil respiration and it's affected factors under different tillage systems in dryland production systems[J]. Acta Ecologica Sinica, 2010,30(11): 2919-2924   \n[25]姜继韶，郭胜利，王蕊，等．施氮对黄土旱塬区春玉米土壤 呼吸和温度敏感性的影响[J]．环境科学，2015，36(5): 1802-1809 Jiang J S,Guo S L,Wang R,et al. Effects of nitrogen fertilization on soil respiration and temperature sensitivity in spring maize field in semi-arid regions on Loess Plateau[J].Environmental Science,2015,36(5): 1802-1809   \n[26]代快，蔡典雄，王燕，等．不同耕作措施对旱作春玉米农田土 壤呼吸影响的研究—土壤温度对土壤呼吸速率的影响[J]. 中国土壤与肥料,2010,(6):64-69 Dai K,Cai D X,Wang Y,et al. Effects of different tillage on soil respiration rate of spring corn in the dryland of North China — Effects of soil temperature on soil respiration rate[J].Soils and Fertilizer Sciences in China,2010,(6): 64-69   \n[27]张赛，罗海秀，王龙昌，等．保护性耕作下大豆农田土壤呼 吸及影响因素分析[J]．中国生态农业学报，2013，21(8): 913-920 Zhang S,Luo H X,Wang L C, et al. Analysis of soil respiration and the influencing factors in soybean fields under conservation tillage[J]. Chinese Journal of Eco-Agriculture,2013. 21(8):913-920   \n[28]涂纯，王俊，刘文兆．不同覆盖条件下旱作农田土壤呼吸 及其影响因素[J]．植物营养与肥料学报，2012，18(5): 1107-1114 Tu C,Wang J,Liu W Z. Variation in soil respiration and its driving factors in rainfed winter wheat fields with different mulching measures[J].Plant Nutrition and Fertilizer Science, 2012,18(5): 1107-1114 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[29]ZhaiL M,Liu HB,ZhangJZ,etal.Long-term application of organic manure and mineral fertilizer on ${ \\bf N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C O } _ { 2 }$ emissions in a red soil from cultivated maize-wheat rotation in China[J]．Agricultural Sciences in China,2011,10(11): 1748-1757 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[30] Lloyd J, Taylor JA. On the temperature dependence of soil respiration[J].Functional Ecology,1994,8(3): 315-323   \n[31] 陈继康，李素娟，张宇，等．不同耕作方式麦田土壤温度及 其对气温的响应特征——土壤温度日变化及其对气温的响 应[J]．中国农业科学,2009,42(7):2592-2600 ChenJK,Li SJ,Zhang Y,et al.Characteristics of soil temperature and response to air temperature under different tillage systems — Diurnal dynamic of soil temperature and its response to air temperature[J]. Scientia Agricultura Sinica, 2009,42(7): 2592-2600   \n[32]付国占，李潮海，王俊忠，等．残茬覆盖与耕作方式对土壤 性状及夏玉米水分利用效率的影响[J]．农业工程学报, 2005,21(1): 52-56 Fu G Z,Li CH,WangJZ,et al.Effects of stubble mulch and tillage managements on soil physical properties and water use efficiency of summer maize[J]. Transactions of the CSAE, 2005,21(1): 52-56   \n[33]戴云仙，张向前，郭晓霞，等．免耕轮作对旱作区土壤水热 动态及速效养分含量的影响[J]．中国土壤与肥料,2016,(6): 14-20 Dai Y X, Zhang XQ,Guo X X,et al. Effects of no tillage with rotation on soil hydrothermal dynamics and available nutrients in dry farming area[J].Soil and Fertilizer Sciences in China,2016,(6): 14-20   \n[34] Wang X, Jia Z,Liang L.Effect of straw incorporation on soil moisture,evapotranspiration,and rainfall-use efficiency of maize under dryland farming[J].Journal of Soil and Water Conservation,2014, 69(5): 449-455   \n[35]王晖，刘泉汝，张圣勇，等．秸秆覆盖下超高产夏玉米农田 产量和土壤水分的动态变化[J]．水土保持学报,2011,25(5): 261-264 Wang H,Liu QR, Zhang SY,et al. Grain yield and soil water content of super-high-yield summer maize under straw mulching[J].Journal of Soil and Water Conservation,2011, 25(5): 261-264   \n[36] Kar G,Verma H N, Singh R.Effects of winter crop and supplemental irrigation on crop yield, water use efficiency and profitability in rainfed rice based cropping system of eastern India[J].Agricultural Water Management, 2006，79(3): 280-292   \n[37]李晓莎，武宁，刘玲，等．不同秸秆还田和耕作方式对夏玉 米农田土壤呼吸及微生物活性的影响[J]．应用生态学报, 2015,26(6): 1765-1771 Li X S,Wu N,Liu L,et al. Effects of diferent strawrecycling and tillage methods on soil respiration and microbial activity[J]. Chinese Journal of Applied Ecology,2015,26(6): 1765-1771   \n[38]禄兴丽，廖允成．不同耕作措施对旱作夏玉米田土壤呼吸 及根呼吸的影响[J].环境科学,2015,36(6):2266-2273 Lu XL,Liao Y C.Effects of tillage on soil respiration and relationships following lO years of wheat straw management in no-till[J]. Soil and Tillage Research，2007,95(1/2): 240-254   \n[40]刘晓芳，李立军，闫睿卿，等．内蒙古旱作农田土壤有机碳 对免耕留茬的响应[J]．中国农学通报,2015,31(7):218-222 Liu XF,Li L J, Yan R Q,et al. Response of soil organic carbon of rain fed cropland to stubble tillage in Inner Mongolia[J]. Chinese Agricultural Science Bulletin,2015,31(7): 218-222   \n[41]孙媛，任广鑫，冯永忠，等．秸秆还田和施氮对土壤水热因 子及呼吸速率的影响[J]．西北农林科技大学学报：自然科 学版,2015,43(3): 146-152 Sun Y,Ren G X, Feng Y Z,et al. Comprehensive influence of straw-returning and nitrogen fertilization on hydrothermal factors and soil respiration[J]. Journal of Northwest A&F University: Natural Science Edition, 2015,43(3): 146-152   \n[42]王维钰，乔博，AkhtarK，等．免耕条件下秸秆还田对冬小 麦-夏玉米轮作系统土壤呼吸及土壤水热状况的影响[J] 中国农业科学,2016,49(11):2136-2152 Wang W Y, Qiao B,Akhtar K,et al. Effects of straw returning to field on soil respiration and soil water heat in winter wheat-summer maize rotation system under no tillage[J]. Scientia Agricultura Sinica,2016,49(11): 2136-2152   \n[43] McDaniel M D,Grandy A S, Tiemann L K,et al. Crop rotation complexity regulates the decomposition of high and low quality residues[J]. Soil Biology and Biochemistry,2014,78: 243-254   \n[44] Jiang J S,Guo S L, Zhang Y J,et al. Changes in temperature sensitivity of soil respiration in the phases of a three-year crop rotation system[J]. Soil and Tillage Research,2015,150: 139-146   \n[45] 张庆忠，吴文良，王明新，等．秸秆还田和施氮对农田土壤 呼吸的影响[J].生态学报,2005,25(11):2883-2887 Zhang Q Z,Wu W L,Wang M X,et al. The effects of crop residue amendment and N rate on soil respiration[J].Acta Ecologica Sinica,2005,25(11): 2883-2887   \n[46]强学彩，袁红莉，高旺盛．秸秆还田量对土壤 $\\mathrm { C O } _ { 2 }$ 释放和 土壤微生物量的影响[J]．应用生态学报，2004，15(3): 469-472 Qiang X C,Yuan HL,Gao W S.Effect of crop-residue incorporation on soil $\\mathrm { C O } _ { 2 }$ emission and soil microbial biomass[J]. Chinese Journal of Applied Ecology，2004,15(3): 469-472   \n[47] 李昌珍，张婷婷，杨改河，等．秸秆覆盖和施肥对关中灌区 夏玉米生长后期土壤呼吸速率的影响[J].生态环境学报， 2013,22(3): 411-416 Li C Z, Zhang T T, Yang G H, et al. Effect of straw mulching and fertilization on soil respiration from summer-maize farmland during later growth period in Guanzhong irrigation district[J]. Ecology and Environmental Sciences,2013,22(3): 411-416   \n[48]张俊丽，廖允成，曾爱，等．不同施氮水平下旱作玉米田土 壤呼吸速率与土壤水热关系[J]．农业环境科学学报，2013, 32(7):1382-1388 ZhangJL,Liao YC,ZengA,etal.Effects of different levels of N fertilizer on soil respiration,and its relation to soil moisture and soil temperature under rainfed land of summer maize[J].Journal of Agro-Environment Science,2013,32(7): 1382-1388   \n[49]杨玲，廖允成，高茂盛，等．不同耕作措施下旱作麦田 $\\mathrm { C O } _ { 2 }$ 排放速率与土壤水热关系分析[J]．西北农业学报，2011, 20(1): 70-75 YangL,Liao YC,Gao M S,etal.Relationship analysisof $\\mathrm { C O } _ { 2 }$ emission fluxes and soil temperature and moisture in rainfed wheat field with different tillage[J].Acta Agriculturae Boreali-Occidentalis Sinica,2011,20(1):70-75   \n[50]张宇，张海林，陈继康，等．耕作措施对华北农田 $\\mathrm { C O } _ { 2 }$ 排 放影响及水热关系分析[J]．农业工程学报，2009，25(4): 47-53 Zhang Y, Zhang $\\mathrm { ~ H ~ L ~ }$ ,Chen JK,et al.Effects of different tillage practices on $\\mathrm { C O } _ { 2 }$ emission fluxes from farmland in North China Plain and the analysis of soil temperature and moisture[J]. Transactions of the CSAE,2009,25(4): 47-53   \n[51]Peng S S,Piao SL,Wang T,et al. Temperature sensitivity of soil respiration in different ecosystems in China[J].Soil Biology and Biochemistry,2009,41(5):1008-1014   \n[52]Chen BY,Liu $_ { \\textrm { S R } }$ ,Ge JP,et al.Annual and seasonal variations of $Q _ { 1 0 }$ soil respiration in the sub-alpine forests of the Eastern Qinghai-Tibet Plateau,China[J].Soil Biology and Biochemistry,2010,42(10):1735-1742   \n[53]He XH,Du ZL,WangYD,et al. Sensitivity of soil respiration to soil temperature decreased under deep biochar amended soils in temperate croplands[J].Applied Soil Ecology,2016,108:204-210   \n[54]Hu ZH,LingH, Chen S T,et al. Soil respiration, nitrification, and denitrification in a wheat farmland soil under different managements[J].Communications in Soil Science and Plant Analysis,2013,44(21):3092-3102   \n[55]Davidson E A,Janssens IA.Temperature sensitivity of soil carbon decomposition and feedbacks to climate change[J]. Nature,2006,440(7081):165-173   \n[56] Almagro M,Lopez J,Querejeta JI,et al. Temperature dependence of soil $\\mathrm { C O } _ { 2 }$ efflux is strongly modulated by seasonal patterns of moisture availability in a Mediterranean ecosystem[J].Soil Biology and Biochemistry,2009,41(3): 594-605 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

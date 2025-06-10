@@ -1,0 +1,264 @@
+# DOI: 10.5846/stxb201605040844
+
+靳舒葳，张凯.模糊两阶段优化方法应用于东营市生态系统规划.生态学报,2018,38(4)：1500-1509.  
+JinSW,ZangKAfuoaetthoosgiogActaEologicaca8（4).
+
+# 模糊两阶段优化方法应用于东营市生态系统规划
+
+靳舒葳1，\*，张凯²
+
+1华北电力大学能源与环境研究中心，北京102206  
+2北京长峰机械动力有限责任公司，北京100039
+
+摘要：东营市经济主要以石油化工产业为主,其占据大量的土地资源,产生大量污染物,对于当地的生态系统可持续发展产生了极大的负面影响。土地交易机制是一种有效的规划方法,其可促进土地的使用价值从低向高转变。在实际的生态系统管理规划中,由于不可避免的误差、数据缺失而使输入参数具有不确定性,这将使确定的优化方法受到限制。将采用模糊两阶段优化方法处理系统中的模糊和随机不确定信息;同时将交易机制引人到区域生态系统规划中,通过对交易模式和不交易模式的对比,得到两种模式下的土地交易量、生态服务价值以及工业污染物排放量等。结果表明交易模式适合当前东营市生态系统的可持续发展战略;方法的提出可作为分析和处理系统中不确定性的一种有效的工具。此外,定量分析能够帮助决策者更深入的分析生态服务价值和经济效益之间的关系。本研究通过区域生态系统的土地交易机制,探索可持续发展途径,为当地的经济、生态发展提供可行性建议。 （
+
+关键词：生态系统规划；交易机制；模糊随机不确定性
+
+# A fuzzy two-stage optimization method for ecosystem planning in Dongying
+
+JIN Shuwei1,\*，ZHANG Kai²
+
+1Resources and Environmental Research Center，North China Electric Power University，Beijing 1022O6,China   
+2 Beijing ChangFeng Mechanical Power Limited Liability Company,Beijing lOoo39,China
+
+Abstract:The Dongying economy mainly relies on the petroleum industry，which ocupies considerable land resources and produces alarge numberof polutants，leading to negative impactson the sustainable development of the local ecosystem. Landtrading is an efective planning method，whichcan increaseecosystem services by encouraging its movement from low value to high.However，inherentcomplexitiesanduncertainties existin practical regional ecosystemmanagementdueto inevitableerors anddata losses，which have placed the isse beyond theconventional deterministicoptimization methods. Inthis study，a fuzy two-stage method was used to tackle fuzzy and stochastic uncertainties.Aland trading mechanism was introduced toasistregional ecosystem planning.Improvements in land trading，ecological servicevalue，andpollutant emissions have occurred due to trading and non-trading.Theresultsshowthattheland trading mechanismissuitable for the regional ecosystemandsustainabledevelopment，andthe proposedmethodisan efective toolfor analyzinganddealing with uncertainties inthesystem.Inadition，quantitativeanalysiscanhelppolicymakersconductin-depthanalysesof tradeoffs between ecological service value and economic benefits.This study explores a transitionpathwayfor sustainable development through a land trading mechanism，and provides suggestions for the local economic and ecological development.
+
+Key Words: ecosystem planning； land trading mechanism； fuzzy and stochastic uncertainties生态系统为人类和其他物种提供了一系列直接、间接的服务价值,并且产生了无形的经济效益[1]。在过
+
+http://www.ecologica.cn
+
+去的10年里,生态系统的服务价值以及经济效益已经成为科学家、决策者和利益相关者关注的焦点。有效的生态系统规划对推动区域生态系统可持续发展具有极其重要的意义。此前，许多学者已经对区域生态系统进行了大量的研究[2-6]。在这些规划方法中,土地交易模式是一种有效的方法,它可促进土地的使用价值从低向高转变,使达到生态系统保护标准的土地与未满足生态系统保护标准的区域进行土地交易。然而,区域生态系统规划中存在的复杂性和不确定性,将超出现有确定性优化方法的研究范围[7-10]。在不确定性优化方法中,两阶段随机规划能用来分析政策情景、解决概率分布的随机参数[11],但是,两阶段随机规划很难处理模糊不确定性。在处理实际问题时,模糊规划可以有效处理模糊的目标函数和约束条件。然而,传统的模糊规划会产生大量的附加条件和变量,并使计算过程复杂耗时。通过比较两个模糊数之间的优势度和劣势度,可以直接反应出模糊参数之间的关系,从而替代传统的解模糊法(排序法或离散分割法),以此减少计算过程、提高实际应用[12]。本文将模糊两阶段随机优化方法应用于东营市生态系统规划,此模型不仅能够处理表现为模糊和随机不确定性,还将生态服务价值评价方法整合到优化的过程中,运用交易机制来探索经济发展和生态保护之间的关系。 \~
+
+# 1东营市生态系统现状分析
+
+东营市位于山东省北部黄河三角洲地区,是环渤海经济区的重要节点、山东半岛城市群的重要组成部分,处于连接中原经济区与东北经济区、京津唐经济区与胶东半岛经济区的枢纽位置。该市土地面积约$7 9 2 3 \mathrm { k m } ^ { 2 }$ ,海域面积7.05万 $\mathrm { { h m } } ^ { 2 }$ ,东营市海岸线全长 $4 1 2 . 6 7 \mathrm { k m }$ ,约占山东省海岸线的1/9。20世纪70 年代,依靠全国第二大石油工业基地——胜利油田,东营市经济快速发展。然而,随着人口的增加,区域的发展,原有的土地资源很难满足社会经济发展的需要,当地政府决定在沿海地区开展围海造陆项目。在20 世纪70 年代,一部分海涂被围垦为农业用地;80—90年代,开展了大面积的滩涂围垦养殖[13]。进入21世纪,为了缓解城镇用地紧张、促进社会经济发展,当地大力建设工业开发区、滨海旅游区、新城镇和大型基础设施。
+
+近几年,在东营市经济建设取得巨大进步的同时,当地的生态环境付出了沉重的代价。在过去的 30 年间,大片的自然湿地改造成城市、港口和沿海工业园区（规划区内的滨海湿地减少了 $3 8 \%$ ;海滩湿地的面积减少了大约 $5 0 \% ^ { [ 1 4 ] }$ ;土壤斑块化指数从0.24上升到 $0 . 3 2 ^ { [ 1 5 ] }$ ),湿地自身的生态功能在不断衰退。此外,工业污染使得湿地生态系统不断遭到破坏,长期承泄工农业废水、生活污水,导致湿地水体污染,生态系统富营养化现象严重,危及湿地生物的生存环境。由于高强度、高速度地进行土地开采,当地生态系统已经演变成为生态破坏严重区域。因此,探索合理有效的生态系统发展模式对区域的可持续发展具有重要意义。
+
+# 2交易机制模型构建与求解
+
+模型综合考虑了多方面的生态环境要素,如可用资源量、环境自净能力、生态阀值等;多种工业活动,包括石油化工、能源生产加工业,以及能源活动产生的污染物,例如,废水排放量、水体化学需氧量以及氨氮含量;此外,模型还对生态系统的服务价值进行核算,主要包括直接服务价值（飞禽、芦苇和干草产品生产价值）和间接服务价值(即固碳、释氧量、水质净化、空气净化、固废净化、固土、土壤保肥、生物多样性、涵养水源以及观光旅游)。本研究的目标是在一系列的约束条件下求出最大的系统收益,具体如下。
+
+# 2.1模型的建立
+
+目标函数：
+
+$$
+\mathrm { M a x } \ : f = \sum _ { i = 1 } ^ { 5 } \sum _ { t = 1 } ^ { 2 } A B _ { i t } \mathrm {  ~ \cdot ~ } \mathrm { P C A } _ { i t } + \sum _ { m = 1 } ^ { 4 } \sum _ { t = 1 } ^ { 2 } A B _ { m t } \mathrm {  ~ \cdot ~ } \mathrm { W A } _ { m t } - \sum _ { i = 1 } ^ { 3 } \sum _ { t = 1 } ^ { 2 } \sum _ { h = 1 } ^ { 3 } p _ { i h } \mathrm {  ~ \cdot ~ } \mathrm { D T C } _ { t } \mathrm {  ~ \cdot ~ } \mathrm { E X P W } _ { i h }
+$$
+
+其中：
+
+$$
+\begin{array} { r } { \begin{array} { r l } { A B _ { i i } } & { = \left[ \mathrm { P C I } _ { i i } \cdot P C _ { i i } - \mathrm { P C R } _ { i i } \cdot P C _ { i i } - \mathrm { P D W } _ { i i } \cdot T C _ { i } + \left( P S _ { i i } \cdot P C _ { i i } \cdot \eta _ { i i } \cdot S I _ { i } - \mathrm { P D S } _ { i i } \cdot S C _ { i } \right) - \mathbf { \bar { E } } \cdot \left( \mathbf { \bar { E } } \cdot \mathbf { \bar { E } } \right) \cdot \mathbf { \bar { E } } \right] } \\ { \quad \cdot \mathrm { S O C } _ { i } ] } \end{array} } \end{array}
+$$
+
+mt=[ $( \mathrm { P S A } _ { i } \cdot S A _ { m } ) + ( \mathrm { P A B } _ { i } \cdot \mathrm { P A T } _ { i } \cdot P \beta _ { m } ) + ( \mathrm { R D B } _ { i } \cdot \mathrm { R D T } _ { i } \cdot R \beta _ { m } ) + ( C P _ { m } \cdot C _ { i } ) + ( 0 . 7 3 \cdot C P _ { m } \cdot O$ ）+（ $\begin{array} { r l } { { } } &  { \displaystyle \operatorname { \it \ 4 V P } _ { m t } \mathrm {  ~ \cdot ~ } T C _ { t } \} \ + \ ( \ \mathrm { \it ~ W P M } _ { m t } \mathrm {  ~ \cdot ~ } \mathrm {  ~ \mathrm { \scriptstyle ~ P M C } } _ { t } ) \ + \ ( \ \mathrm {  ~ \it ~ W S O } _ { m t } \mathrm {  ~ \cdot ~ } \mathrm {  ~ \scriptstyle ~ S O C } _ { t } ) \ + \ Z P _ { m t } \ \cdot \ \big ( \sum _ { \scriptstyle \varphi = 1 } ^ { 3 } \gamma _ { \ q } \mathrm {  ~ \cdot ~ } P I _ { \varphi } \ \cdot \ I _ { \ q } \big ) \ + \ \big ( S P _ { m t } \mathrm {  ~ \cdot ~ } S C _ { t } \big ) \ , } \\ { { \displaystyle \ z P _ { m t } \ \cdot \mathrm {  ~ \scriptstyle ~ Z C C I } _ { t } \big ) \ + \ V _ { t } \ + \ \big ( \ \mathrm {  ~ \scriptstyle ~ Y C I } _ { t } \mathrm {  ~ \cdot ~ } Y P _ { m t } \big ) \ + \ \big ( R P _ { m t } \cdot R O _ { t } \mathrm {  ~ \cdot ~ } R \mathrm {  ~ \scriptstyle ~ C I } _ { t } \big ) \ - \ \mathrm { \normalfont ~ K C I } _ { m t } \} } } & { { } } \end{array}$ ）+
+
+式中： $f$ 为系统收益(元)； $\mathbf { \Phi } _ { t }$ 为规划期( $\mathbf { \Phi } _ { ( t = 1 , 2 ) }$ ; $i$ 为工业类型; $m$ 为湿地类型(滩涂、草场和湖泊、沼泽、人工湿地）； $A B$ 为不同行业在 $\mathbf { \chi } _ { t }$ 时期单位面积的收益（元/ $\mathrm { { h m } } ^ { 2 }$ ）； $\mathrm { P C A } _ { i t }$ 为工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期的规划面积( $\mathbf { h m } ^ { 2 }$ ）； ${ \cal W } A _ { m t }$ 湿地$m$ 在 $\mathbf { \chi } _ { t }$ 时期的规划面积( $\mathrm { { h m } } ^ { 2 }$ ） $\mathrm { D T C } _ { t }$ 工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期超标污水的经济处罚( $\cdot \overrightarrow { \pi } / \mathrm { m } ^ { 3 }$ ）； $\mathrm { E X P W } _ { i t h }$ 工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期于h水平下的超标污水量( $\mathrm { i m } ^ { 3 } .$ ） $\mathrm { P C I } _ { i t }$ 为工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期单位产品的收益（元/t); $P C _ { i t }$ 工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期单位面积的产量 $\cdot / \mathrm { h m } ^ { 2 }$ ）； $\mathrm { P C R } _ { i t }$ 为工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期单位产品的生产费用（元/t); $\mathrm { P D W } _ { i t }$ 为工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期单位面积处理的污水量 $( { \mathrm { ~ m } } ^ { 3 } / { \mathrm { h m } } ^ { 2 }$ ）， $T C _ { t }$ 为 $\mathrm { ~  ~ { ~ \chi ~ } ~ } _ { \mathrm { ~ t ~ } }$ 时期污水处理费用( $\overline { { \mathcal { K } } } / \mathrm { m } ^ { 3 }$ ; $P S _ { i t }$ 为工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期单位产品生产的固废排放量 $\mathrm { \overline { { ( \Omega \ d _ { t } ) } } }$ ；m为不同行业在 $\mathbf { \chi } _ { t }$ 时期固体废物的综合利用率 $( \% )$ ： $S I _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期可回收固体废物单位产品费用(元/t); $\mathrm { P D S } _ { i t }$ 为工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期单位面积处理的固废量( $\lfloor \nearrow \mathrm { h m } ^ { 2 }$ ） $S C _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期固废处理费用（元/t);PDPM为能源行业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期单位面积处理的 $\mathrm { P M } _ { 1 0 }$ 量 $\mathrm { \Delta } \log / \mathrm { h m } ^ { 2 }$ ）;PMC,为时期 $\mathbf { \chi } _ { t }$ 处理 $\mathrm { P M } _ { 1 0 }$ 费用 $( \vec { \pi } / { \mathrm { t } } ) _ { } , \mathrm { P D S O } _ { i t }$ 为能源行业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期单位面积处理的 $\mathrm { S O } _ { 2 }$ 量 $( \mathrm { k g } / \mathrm { h m } ^ { 2 }$ ） $\mathrm { s o c } _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期 $\mathrm { S O } _ { 2 }$ 处理费用(元/t);PSA,为t时期湿地动物每头收益(元/头）;$S A _ { m t }$ 为 $\mathbf { \chi } _ { t }$ 时期单位面积的飞禽量（只/ $\mathrm { \hbar } \mathrm { m } ^ { 2 }$ ） $\mathrm { P A B } _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期湿地干草每吨收益(元/t);PAT,为 $\mathbf { \chi } _ { t }$ 时期单位面积的干草量( $\cdot / \mathrm { h m } ^ { 2 }$ ； $\ P { \beta } _ { m t }$ 为 $\mathbf { \chi } _ { t }$ 时期湿地草地百分比系数 $( \%$ ） $\mathrm { R D B } _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期湿地芦苇每吨收益(元/t); $\mathrm { R D T } _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期单位面积的芦苇量( $\cdot / \mathrm { h m } ^ { 2 }$ ） $C P _ { m t }$ 为湿地 $\mathbf { \nabla } _ { m }$ 在 $\mathbf { \chi } _ { t }$ 时期单位面积的 $\mathrm { C O } _ { 2 }$ 吸收率( $\lfloor \sqrt { \mathrm { h m } ^ { 2 } }$ ） $C _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期碳税率（元/t)； $O _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期工业制氧费用(元/t); $\boldsymbol { W P } _ { m t }$ 为湿地 $\mathbf { \lambda } _ { m }$ 在 $\mathbf { \chi } _ { t }$ 时期单位面积的水质净化能力( $\mathbf { \Delta m } ^ { 3 } / \mathrm { h m } ^ { 2 }$ ）； $\mathrm { W P M } _ { m t }$ 为湿地 $\mathbf { \nabla } _ { m }$ 在t时期的 $\mathrm { P M } _ { 1 0 }$ 的吸收能力 $\mathrm { ^ { ' } k g \ h m ^ { - 2 } \ a ^ { - 1 } }$ ） $\mathrm { W S O } _ { m t }$ 为湿地 $\mathbf { \nabla } _ { m }$ 在 $\mathbf { \rho } _ { \mathrm { ~ t ~ } }$ 时期的 $\mathrm { S O } _ { 2 }$ 的吸收能力( $\mathrm { \lg \ h m } ^ { - 2 }$ （20（20 $\mathbf { a } ^ { - 1 }$ ）’ $Z P _ { m t }$ 湿地 $\mathbf { \nabla } _ { m }$ 在 $\mathbf { \chi } _ { t }$ 时期的土壤侵蚀模数 $( \mathrm { ~ t ~ } \mathrm { h m } ^ { - 2 } \mathrm { a } ^ { - 1 } ) ; \tau$ q 为湿地土壤中营养元素 $q$ 含量 $( \% ) { : } P I _ { t }$ 为时期 $\scriptstyle q$ 对应的肥料单价（元/t)； $I$ 为营养元素 $q$ 的肥力折算比例 $( \% )$ $S P _ { m t }$ 为湿地 $\mathbf { \nabla } _ { m }$ 在 $\mathbf { \chi } _ { t }$ 时期的固废的处理能力（t$\mathbf { h } \mathbf { m } ^ { - 2 } \textrm { a } ^ { - 1 }$ ； $\boldsymbol { \mathrm { Z C I } } _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期东营市河道清淤费用( $\overrightarrow { T } \overrightarrow { \mu } ( 1 ) ; V _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期单位面积物种多样性的效益（元/ $\cdot \mathrm { h m } ^ { 2 }$ ） $\mathrm { Y C I } _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期每位游客的旅游费用（元/人）； $\gamma { { P } _ { { m t } } }$ 为湿地 $m$ 在 $\mathbf { \chi } _ { t }$ 时期单位面积的年游客量（person $\mathbf { h m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 }$ ） $R P _ { m t }$ 为湿地 $m$ 在 $\mathbf { \chi } _ { t }$ 时期单位面积的涵养水源的能力 $( \mathbf { \overrightarrow { m } } ^ { 3 } / \mathbf { \overrightarrow { h m } } ^ { 2 }$ ） $R O _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期降雨径流系数 $( \% )$ ; $\mathrm { R C I } _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期东营市水价 $\cdot \overrightarrow { \pi } / \mathrm { m } ^ { 3 }$ ） $\operatorname { K C I } _ { m t }$ 为湿地 $\mathbf { \nabla } _ { m }$ 在 $\cdot$ 时期的修缮费用（元 $\mathbf { h } \mathbf { m } ^ { - 2 } \mathbf { a } ^ { - 1 }$ ）。
+
+约束条件：
+
+(1)土地资源配置影响区域内经济、生态系统以及人类社会的可持续发展;土地资源分配约束保证不同行业土地分配量之和不大于总规划面积：
+
+$$
+\sum _ { i \mathop { = } 1 } ^ { 5 } \mathrm { P C A } _ { i t } + W A _ { t } \leqslant T A _ { t } , \forall t
+$$
+
+$$
+W A _ { _ { m t } } = \frac { N B _ { _ { m t } } } { \displaystyle \sum _ { m = 1 } ^ { 4 } N B _ { _ { m t } } } \cdot W A _ { _ { t } } , \forall t
+$$
+
+式中： ${ \mathit { T A } } _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期总规划面积( $\left. \mathrm { h m } ^ { 2 } \right.$ ）；
+
+(2)水环境系统是生态系统的重要组成部分,一旦污水排放量超过区域内水环境的自净能力,就会导致水体污染,进而影响整个生态系统。水环境约束主要是限制污染物排放量,确保湿地生态系统处理污染物、提供水源的能力具体如下：
+
+a)污水排放总量限制：
+
+$$
+( P W _ { i t h } P C _ { i t } \mathrm { ~ - ~ } \mathrm { P D W } _ { i t } ) \mathrm { ~ \cdot ~ P C A } _ { i t } \geqslant \mathrm { E X P W } _ { i t h } , \mathrm { ~ } \forall i , t
+$$
+
+式中： $P W _ { i t h }$ 为工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期于 $p _ { i t h }$ 的概率下单位产品产生的污水排放量 $( \mathrm { m } ^ { 3 } / \mathrm { t } )$ ;
+
+b)污水排放：
+
+$$
+\begin{array} { r } { \big ( P W _ { i t h } P C _ { i t } - \mathrm { P D W } _ { i t } \big ) \cdot \mathrm { P C A } _ { i t } - \mathrm { E X P W } _ { i t h } \leqslant ( 1 - \mu ) \cdot S W _ { i t } , \forall i , t } \end{array}
+$$
+
+式中： $\mu$ 为生态系统服务功能及允许工业污水排放量削减百分比; $S W _ { i t }$ 为工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期污水排放指标 $\left( \mathbf { m } ^ { 3 } \right)$ ;c)水资源总量约束： 2
+
+$$
+\begin{array} { r l } { } & { \displaystyle \sum _ { i = 1 } ^ { 5 } P F _ { i t } \cdot P C _ { i t } \cdot \mathrm { P C A } _ { i t } + \sum _ { i = 1 } ^ { 5 } \mathrm { P D W } _ { i t } \cdot \mathrm { P C A } _ { i t } \cdot G W _ { t } } \\ { } & { \leqslant \mathrm { C S W } _ { t } + \displaystyle \sum _ { m = 1 } ^ { 4 } \alpha _ { m } ( 1 - \mu ) \cdot R P _ { m t } \cdot R O _ { t } \cdot W A _ { m t } , \forall t } \end{array}
+$$
+
+式中： ${ P F } _ { i t }$ 为工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期单位产品的耗水量 $( \mathrm { m } ^ { 3 } / \mathrm { t } )$ $P C _ { i t }$ 为工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期单位面积的产量 $\left( \textrm { t h m } ^ { - 2 } \ \overline { { \textrm { a } ^ { - 1 } } } \right) ,$ $G W _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期污水处理厂的回用水的利用率 $( \% )$ ; $\mathrm { C S W } _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期系统水资源总量 $(  { \mathbf { m } } ^ { 3 } )  { \left. \hat {  { \mathbf { m } } } _ { m } \right. }$ 为湿地 $\mathbf { \psi } _ { m }$ 的保湿系数；
+
+d)污水处理能力约束：
+
+$$
+\sum _ { i = 1 } ^ { 5 } \left( P W _ { i i t } P C _ { i i } - \mathrm { P D W } _ { i i } \right) \cdot \mathrm { P C A } _ { i i } \leqslant \sum _ { m = 1 } ^ { 4 } \left( 1 - \mu \right) \cdot W P _ { m i } \cdot \| M _ { m i } + \mathrm { T P C } _ { t } , \psi _ { t } \| 
+$$
+
+TPC,为 $\mathbf { \chi } _ { t }$ 时期污水处理厂年处理能力 $( \mathbf { m } ^ { 3 } )$ ；
+
+e)化学需氧量约束：
+
+$$
+\mathrm { ~ ( ~ 1 ~ - } \mu ) \cdot W P _ { \mathit { m t } } \cdot W A _ { \mathit { m t } } , \forall t
+$$
+
+式中： $\mathrm { C O D } _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期经处理过的污水中COD 的浓度 $( \mathrm { k g } / \mathrm { m } ^ { 3 } ) : \mathrm { P C O D } _ { \mathrm { i } t }$ 为工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期单位污水中存在的COD量（ $\mathrm { \ k g / m } ^ { 3 } .$ ; $\mathrm { T C O D } _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期工业允许排放的COD 总量 $( \mathrm { k g } )$ ; $\mathrm { { S C O D } } _ { m t }$ 湿地 $\mathbf { \nabla } _ { m }$ 在 $\mathbf { \chi } _ { t }$ 时期对COD 的去除率$( \% )$ ； $\mathrm { \ W C O D } _ { t }$ 时期湿地对污水中COD 的净化量 $\left( \mathrm { { k g / m } ^ { 3 } } \right)$ ;
+
+f)水中氨氮排放量：
+
+NH· (1 $- \left. G W _ { i } \right) \mathrm { P D } \mathbb { W } _ { u } \cdot \mathrm { P C A } _ { u } + \mathsf { P N H } _ { u } \cdot \left( P \mathbb { W } _ { u } \cdot P \boldsymbol { C } _ { u } - \mathrm { P D } \mathbb { W } _ { u } \right) \cdot \mathrm { P C A } _ { u } \leqslant \mathrm { T N H } _ { I } + \sum _ { n = 1 } ^ { 4 } \mathrm { S N H } _ { m } \cdot \mathrm { W N H } _ { I } \cdot \left( \left( \mathbf { \hat { k } } _ { u } + \mathbf { \hat { k } } _ { v } \right) \cdot \mathbf { \hat { k } } _ { u } \right)$ 1   
+$\cdot \ W P _ { \mathit { m t } } \cdot \ W A _ { \mathit { m t } } , \ \forall \ t$ C (11
+
+式中： $N H _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期经处理过的污水中氨氮的浓度( $\mathrm { k g / m } ^ { 3 }$ ）； $\mathrm { P N H } _ { i t }$ 工业 $i$ 在 $\mathbf { \chi } _ { t }$ 时期单位污水中存在的氨氮量$( { \mathrm { k g } } / { \mathrm { m } } ^ { 3 }$ ） $\mathrm { T N H } _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时期工业允许排放的氨氮总量( $\mathbf { \nabla } _ { \mathbf { k g } } ^ { \prime } )$ ;SNH为湿地 $m$ 在 $\mathbf { \chi } _ { t }$ 时期对氨氮的去除率 $( \% )$ ; $\mathbb { W } \mathrm { N H } _ { t }$ （204号为 $\mathbf { \chi } _ { t }$ 时期湿地对污水中氨氮的净化量( $\mathrm { \ k g / m } ^ { 3 }$ ）；
+
+(3)围填海强度约束,围填海强度表示一定区域范围内围填海的规模与强度,以单位岸线长度上承载的围填海面积来表示围填海强度。围填海强度限制在2级水平，即 $1 0 < \mathrm { T R } < 2 0$ ,围填海压力较小，有一定开发潜力：
+
+$$
+( \sum _ { i = 1 } ^ { 5 } \mathrm { P C A } _ { i i } + \sum _ { m = 1 } ^ { 4 } W A _ { m t } ) / C L _ { t } \leqslant ( 1 - \mu ) T R _ { t } , \forall t
+$$
+
+式中： $C L _ { t }$ 为海岸线长度( $\mathrm { { ( k m ) } }$ ; $T R _ { t }$ 围填海强度系数;
+
+(4)植草覆盖率约束,植被覆盖率是反映植被资源和绿化水平的重要指标;
+
+$$
+\sum _ { i = 1 } ^ { 5 } \left( \mathrm { P F R } _ { t } \cdot \mathrm { P C A } _ { i i } \right) \leqslant \sum _ { m = 1 } ^ { 4 } \left( P \beta _ { m t } + R \beta _ { m t } \right) \cdot W A _ { m t } , \forall t
+$$
+
+式中：PFR,为 $\mathbf { \chi } _ { t }$ 时期工业用地植被覆盖率 $( \% ) _ { } { ; } R { \beta } _ { { m } t }$ 为时期湿地芦苇百分比系数 $( \% )$
+
+(5)湿地需水量约束,湿地需水量是指保持湿地基本用水的最小水容量：
+
+$$
+\sum _ { m = 1 } ^ { 4 } \left( 1 - \alpha _ { m } \right) \cdot R P _ { m } \cdot R O _ { t } \cdot W A _ { m t } \geqslant \frac { T } { n } \sum _ { e = 1 } ^ { E } Q _ { e \mathrm { m i n } } , \forall t
+$$
+
+式中： $Q _ { \mathrm { e m i n } }$ 为最小月径流量 $( \mathbf { m } ^ { 3 } / \mathbf { s } )$ ： $n$ 为年份统计数据（a)； $T$ 为转换系数。
+
+# 2.2模型参数的选择
+
+文章数据来源于现场调研、政府报告和各种相关的文献的搜集[16-20]。在研究区内,可用的水资源包括地表水、地下水、海水淡化水和循环水。在规划期内水资源的储备量维持平稳,均为 $2 . 6 7 \times 1 0 ^ { 6 } \mathrm { m } ^ { 3 }$ ;第二时期的城市污水处理厂年处理能力将同比增长1倍;根据东营市生态建设总体规划,在规划期内将会设定更为严格的COD 排放标准,其限制每百万的收益只能产生 $7 \mathrm { k g }$ 的 $\mathrm { C O D } ^ { [ 1 6 ] }$ 。以上数据来源于东营市十二五、十三五规划、东营市生态建设总体规划(2003—2020)以及东营市统计年鉴。表1给出了化工、塑料、橡胶、石油加工和油田等工业活动的输入数据;表2为人工湿地的服务价值的模型输入数据,其数值来源于生态系统服务价值核算。
+
+表1工业产品产量和价格  
+Table 1 Production and benefit of different industries   
+表2人工湿地效益  
+
+<html><body><table><tr><td>产品产量和价格</td><td colspan="2">时期 Period</td><td rowspan="3">产品产量和价格</td><td colspan="3">时期Period</td></tr><tr><td>Production and benefit of industry</td><td>时期1</td><td>时期2</td><td>Production and benefit of industry</td><td>时期1</td><td>时期2</td></tr><tr><td>工业产品年产量 Production of industry/(t hm-² a-1)</td><td></td><td></td><td>工业的产品单价 Benefit of industry products/（元/t)</td><td></td><td></td><td></td></tr><tr><td>化工工业 Chemical industry</td><td>2500</td><td>2900</td><td>化工工业 Chemical industry</td><td></td><td>10700</td><td>11640</td></tr><tr><td>塑料工业 Plastic industry</td><td>2500</td><td>2800</td><td>塑料工业 Plastic industry</td><td></td><td>9370</td><td>9400</td></tr><tr><td>橡胶工业 Rubber industry</td><td>1800</td><td>2120</td><td>橡胶工业 Rubber indusry</td><td></td><td>15000</td><td>15800</td></tr><tr><td>石油加工业 Production of energy industry</td><td>4250</td><td>4500</td><td>石油加工业 Oil refinery industry</td><td></td><td>9000</td><td>9200</td></tr><tr><td>油田工业 Oil refinery industry</td><td>4000.</td><td>4200</td><td>油田工业 Oil field industry</td><td></td><td>4500</td><td>4600</td></tr></table></body></html>
+
+Table 2Benefit of constructed wetland   
+
+<html><body><table><tr><td rowspan="2">生态服务价值/（元/hm²) Ecosystem service value</td><td>时期Period</td><td rowspan="2">生态服务价值/（元/hm²）</td><td colspan="2">时期Period</td></tr><tr><td>时期1 时期2 Ecosystem service value</td><td>时期1</td><td>时期2</td></tr><tr><td>飞禽Birds</td><td>6369 6581</td><td>涵养水源 Water conservation</td><td>6192173</td><td>6204954</td></tr><tr><td>芦苇Reed</td><td>1078 1106</td><td>固土 Soil retention</td><td>1652098</td><td>1669004</td></tr><tr><td>牧草Pasture</td><td>1040 1044</td><td>土壤保肥 Nutrient regulation</td><td>944511</td><td>963826</td></tr><tr><td>固碳 Carbon sequestration</td><td>1348812 1357506</td><td>生物多样性 Biodiversity</td><td>5212</td><td>5212</td></tr><tr><td>释氧Oxygen release</td><td>332968 335114</td><td>生态旅游 Ecotourism</td><td>2123</td><td>3228</td></tr><tr><td>污水净化 Sewage treatment</td><td>1663 1730</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.3 模型的求解
+
+第一步：建立模糊两阶段模型;
+
+$$
+\mathrm { m a x } f = \sum _ { j = 1 } ^ { n _ { 1 } } c _ { j } x _ { j } - \sum _ { j = 1 } ^ { n _ { 2 } } \sum _ { h = 1 } ^ { v } p _ { h } e _ { j } y _ { j h } - p _ { i } \sum _ { i = 1 } ^ { m } \lambda _ { i } ^ { s } - q _ { i } \sum _ { i = 1 } ^ { m } \lambda _ { i } ^ { I }
+$$
+
+约束条件：
+
+$$
+\begin{array} { c } { { S , ( \displaystyle \sum _ { j = 1 } ^ { n _ { 1 } } \bar { a } _ { \eta } x _ { j } , ~ \bar { b } _ { r } ) = \lambda _ { r } ^ { s } , ~ r = 1 , ~ 2 , ~ \cdots , ~ m _ { 1 } } } \\ { { \ } } \\ { { I _ { r } ( \displaystyle \sum _ { j = 1 } ^ { n _ { 1 } } \bar { a } _ { \eta } x _ { j } , ~ \bar { b } _ { r } ) = \lambda _ { r } ^ { I } , ~ r = 1 , ~ 2 , ~ \cdots , ~ m _ { 1 } } } \\ { { \ } } \\ { { \displaystyle \sum _ { j = 1 } ^ { n _ { 1 } } a _ { \eta } x _ { j } + \displaystyle \sum _ { j = 1 } ^ { n _ { 2 } } a _ { \eta } ^ { \prime } y _ { j b } \geqslant w _ { h } , ~ t = 1 , ~ 2 , ~ \cdots , ~ m _ { 2 } ; ~ h = 1 , ~ 2 , ~ \cdots , ~ v } } \\ { { \ x _ { j } \geqslant 0 , ~ j = 1 , ~ 2 , ~ \cdots , ~ n _ { 1 } } } \\ { { y _ { h } \geqslant 0 , ~ j = 1 , ~ 2 , ~ \cdots , ~ n _ { 2 } ; ~ h = 1 , ~ 2 , ~ \cdots , ~ v } } \end{array}
+$$
+
+$$
+\lambda _ { k } \geqslant 0 ; k = 0 , 1 , \cdots , r
+$$
+
+http://www.ecologica.cn
+
+其中 $x _ { j }$ 代表第一阶段决策变量，它由随机变量实现前决定； $y _ { j h }$ 代表第二阶段决策变量； $\boldsymbol { w } _ { h }$ 在概率 $p _ { h }$ 的条件下随机变量， $h = 1 , 2 , \cdots , \ : v , \ : \sum p _ { h } = 1 ; p _ { i } > 0$ 和 $q _ { i } { > } 0$ 为惩罚系数,没有明确的规则来确定惩罚系数,决策者可以根据应用的实际情景,选择适当的惩罚系数[21]。 $\bar { a } _ { \scriptscriptstyle { r j } }$ 和 $\bar { \boldsymbol { b } } _ { r }$ 为模糊集,求解模糊线性规划模型的关键是解模糊集,将模糊模型转化为确定性模型。为了去除模型中的模糊集,本文采用优劣势比较法解模糊集,此方法可以减少传统方法约束条件和变量的数量。 N
+
+第二步;定义模糊集 $\bar { P }$ 和 $\overline { { Q } }$ ，  
+$\begin{array} { r } { \operatorname* { s u p } \{ s : \mu _ { \widetilde { Q } } ( s ) \geqslant \alpha \} - \operatorname* { s u p } \{ \mu _ { \widetilde { P } } ( t ) \geqslant \alpha \} \geqslant 0 , \operatorname* { i n f } \{ s : \mu _ { \widetilde { Q } } ( s ) \geqslant \alpha \} - \operatorname* { i n f } \{ \mu _ { \widetilde { P } } ( t ) \geqslant \alpha \} \geqslant 0 ; } \end{array}$ （204号第三步：确定 $\overline { { Q } }$ 优于 $\bar { P }$ 的优势度,  
+$S ( \mathcal { \overline { { Q } } } , \mathcal { \overline { { P } } } ) = \int _ { 0 } ^ { 1 } \operatorname* { m a x } \{ 0 , \operatorname* { s u p } \{ s { : \mu _ { \mathcal { \bar { Q } } } } ( s ) \ \geqslant \alpha \} \ - \operatorname* { s u p } \{ t { : \mu _ { \mathcal { \bar { P } } } } ( t ) \ \geqslant \alpha \} \ \} d \alpha$   
+或 $\bar { P }$ 劣于 $\overline { { Q } }$ 的劣势度,  
+$I ( \stackrel { \_ } { Q } , \stackrel { \_ } { P } ) = \int _ { 0 } ^ { 1 } \operatorname* { m a x } \{ 0 , \operatorname* { i n f } \{ s { \scriptstyle : \mu _ { \bar { Q } } } ( s ) \geqslant \alpha \} - \operatorname* { i n f } \{ t { \scriptstyle : \mu _ { \bar { P } } } ( t ) \geqslant \alpha \} \} d \alpha \ ; \quad \beta \in \{ 0 , \pm \} .$   
+第四步;两个模糊集的定量化( $\bar { \boldsymbol { P } } = ( u , a , b )$ 和 $\overline { { { Q } } } = ( v , c , d ) \ )$ ，  
+$S ( \overline { { { Q } } } , \ \overline { { { P } } } ) = v - u + \frac { d - b } { 2 } ( \ \overline { { { Q } } } \geqslant \ \overline { { { P } } } \ ) , I ( \overline { { { P } } } , \ \overline { { { Q } } } ) = v - u + \frac { c - a } { 2 } ( \ \overline { { { Q } } } \leqslant \overline { { { P } } } ) ) ;$   
+第五步;选择适当的惩罚系数 $p _ { i }$ 和 $q _ { i }$ ;  
+第六步:在约束条件 $S _ { r } \big ( \sum _ { j = 1 } ^ { n _ { 1 } } \bar { a } _ { { r j } } x _ { j } , \bar { b } _ { r } \big ) = \lambda _ { r } ^ { s }$ 和 $I _ { r } ( \sum _ { j = 1 } ^ { n _ { 1 } } \bar { a } _ { { r j } } x _ { j } , \left( \begin{array} { l } { { ( } } \\ { { \bar { b } _ { r } ) = \lambda _ { j } ^ { I } } } \end{array} \right)$ 下,求出 max $f$ 的解。
+
+# 3结果分析
+
+3.1交易模式下的结果分析
+
+在本研究中,基于交易机制产生不同的土地交易量。图1表示在规划期内,各工业用地（化工工业、塑料工业、橡胶工业、石油加工业、油田工业)和湿地生态系统(滩涂、草地和湖泊、沼泽、人工湿地)用地之间的土地交易量。结果显示,随着生态系统服务功能和工业污水排放许可的变化，其土地交易方案也随之变化。图中正值代表卖方市场的土地量，负值代表买方市场的土地量。第一时期的总交易量为 $1 0 9 9 . 7 \mathrm { h m } ^ { 2 }$ ,第二时期的总交易量为 $1 1 0 2 . 9 \mathrm { h m } ^ { 2 } ,$ 且湿地面积不断扩大。相比化工、塑料、橡胶等行业,油田和石油工业是最主要的土地卖方,其土地交易量占总量的 $5 5 \%$ 。这主要是因为能源行业污染物排放量相对较高，对生态系统的影响较大。因此,为了保护当地生态系统的可持续性,能源行业的占地面积需要不断减少,未来需要向新型生态工业化发展模式转型,其特征为土地利用率高、技术先进、污染排放低。
+
+湿地生态系统具有一定的直接和间接价值为人类的生活和发展提供了有形或无形的效益。图2为湿地不同生态服务价值的经济效益,主要包括涵养水源、固碳、释氧、固土功能、土壤保肥。其结果表明涵养水源价值占整个湿地生态系统服务价值的 $5 9 \%$ ,湿地通过土壤孔隙以及土壤与地下水的联系实现水源涵养功能；在实现涵养水源功能的情况下,其固土功能也有所提升。其次,对于不同的湿地类型其生态价值相差不大,例如在第一时期,滩涂、草地和湖泊、沼泽以及人工湿地的涵养水源功能产生的收益分别为 $4 . 0 2 \times 1 0 ^ { 9 }$ 元 $\phantom { + } 4 . 1 2 \times$ 10元 $\phantom { - } 4 . 0 4 \times 1 0 ^ { 9 }$ 元和 $4 . 0 8 \times 1 0 ^ { 9 }$ 元。在交易机制下,湿地的规划面积将不断增加,同时其服务价值也会提高。与第一时期相比,第二时期的生态系统服务价值增加 $7 3 5 \times 1 0 ^ { 6 }$ 元。
+
+总体而言,引入土地交易机制后,当地的发展趋势更倾向于“退工业,还湿地”,其中油田的退地面积占主导,而对于化工业、石油加工业所占比例较低;随着湿地规划面积的增加,其产生的经济收益也不断提高。其中,涵养水源价值在总生态服务价值中占主导地位。在引入交易机制后,区域的整体发展更倾向于保护湿地生态系统,这有利于地区生态系统的可持续发展。
+
+http://www.ecologica.cn
+
+![](images/2ca7bf49ed797707b9ad65551e3c2022fd7eac6ad2482845efde532ae276f448.jpg)  
+Fig.1 Results of traded land area
+
+![](images/336b6523b81de8db288face0a8c0ef2fab101443b2abb83e58cf157e804717bb.jpg)  
+图1土地交易量  
+图2湿地生态系统服务价值  
+Fig.2Ecosystem services values of wetlands
+
+# 3.2 对比与讨论
+
+图3表示在交易和不交易机制下,工业区和湿地的土地规划面积。结果表明,交易方案下的土地分配和不交易方案下的土地分配下有明显的不同。对于工业而言,其不交易的规划面积大于交易情况下的规划面积,而对于湿地而言结果是相反的（进行土地交易,湿地的规划面积将增加 $2 2 0 2 \mathrm { h m } ^ { 2 }$ )。工业、湿地规划面积的变化反映出决策者对工业活动、生态保护的不同倾向。不交易的情况下,工业占地面积大,产生污染多,对生态系统的功能不断退化。在进行土地交易的情景下,湿地土地面积的扩大将会提供更多的生态服务值、加强生态系统中能量的循环、提高生态系统净化和稀释能力、直接地减缓生态环境和生态服务功能的退化。
+
+工业生产是污水排放的主要来源,然而超标的排放对生态系统的影响将会是不可逆的。图4为不同交易模式下超标污水排放量结果。由图可见交易模式下的超标污水排放量远小于不交易模式，且在交易模式下石油和油田工业的废水排放量均在规定标准范围内。此外,随着排放等级的增加（由低水平到高水平）,污水排放量随之增加。该结果表明严格的排放要求对各产业的废水排放有一定的制约作用,其次,交易情景对污水减排有积极的影响。对不同产业而言,交易机制下的污水排放量明显少于不交易。
+
+![](images/b2fd3843e253bcbac84aa1e5809a7639606ecd3adb8fdce458ebd5b564ba5454.jpg)  
+Fig.3Planning areas for industry and wetland
+
+![](images/e00abad246abef9f00a4ff645fdb52b67b32e653019de8260d4a62df28827ca7.jpg)  
+图3工业和湿地规划面积  
+图4污水排放量  
+Fig.4The amount of sewage emission
+
+图5为COD和氨氮（用 $N \mathrm { H } _ { 3 } \mathrm { \overline { { - N } } }$ 来表征废水中的氨氮)排放量。工业排放COD 和 $\mathrm { N H } _ { 3 }$ -N 的量随着排放等级的增加而增加,且不交易模式的排放量大于交易模式的排放量。这主要是因为在交易机制对工业的发展有一定的制约,对湿地的扩张有促进作用,导致工业污染排放下降,同时湿地对污染物的自净能力提高。在不同行业中，COD 的排放主要来源于化工业、塑料盒橡胶生产，而 $\mathrm { N H } _ { 3 }$ -N 的排放主要来源于化工业和塑料;相比较而言能源行业的废水排放量较低。由以上结果可以发现当地化工业和制造业的废水排放量较高,而能源加工业排污量相对较低。
+
+》通过对比交易模式与不交易模式的土地配置、生态效益、工业染物排放情况,得到交易模式下的生态效益较高,并且土地配置倾向于扩大湿地面积,缩小工业区面积。由此,通过计算生态服务价值,分析当地规划方案,得出交易模式的优势;另外,交易模式下的污水排放量、COD 和氨氮都有一定幅度的削减,再次证明交易模式的优越性。本文提出的方法在处理不确定和政策分析上具有明显优势,尤其是当不确定性表现为模糊和随机。传统的模糊规划方法通常在求解过程中不仅引入大量附加约束和变量,且计算过程复杂耗时。而优劣势解法可以减少附加约束和变量,简化计算过程。此外,在生态效益核算方面,本文通模拟市场法对生态系统服务价值进行计算。价值评估方法可以帮助定量地分析不同生态服务类型的经济价值,同时在规划中帮助决策者综合考虑生态环境方面的因素。
+
+http://www.ecologica.cn
+
+![](images/6441634b21fc744c6841730b6453817fa06e26b109bcb5011c558586ae602de5.jpg)  
+图5化学需氧量和氨氮排放量  
+Fig.5The amount of COD and $\mathbf { N H } _ { 3 }$ -N emissions
+
+# 4结论
+
+(1)本文将模糊两阶段优化方法用于区域生态系统的规划,在算法上此方法改进了模糊规划存在的问题;该研究将生态服务价值评估方法引入到优化模型中,通过核算将生态价值、土地管理以及环境问题进行量化,定量化的分析能够帮助决策者更加准确合理地规划生态系统。
+
+(2)本研究为了探索区域生态系统可持续发展的途径,引入跨行业交易模式,其中湿地是买方,工业区是卖方。通过模型求解,定量对比交易模式与不交易模式下的土地配置、污水排放量、生态效益。结果表明：交易模式下的生态效益高于不交易;交易模式下土地配置更倾向于扩大湿地面积,缩小工业区;通过交易机制污水排放量有一定幅度的削减。 n
+
+(3)当地化工业和制造业的废水排放量较高,对生态系统的影响较大。此外,湿地生态系统对当地可持续发展起到了至关重要的作用,其涵养水源能力在整个生态系统服务价值所占比例最高。因此，合理规划工业用地和湿地面积对为当地经济发展和生态保护具有重要意义。
+
+# 参考文献（References）
+
+[1］谢高地，张彩霞，张昌顺，肖玉，鲁春霞.中国生态系统服务的价值.资源科学，2015，37（9)：1740-1746.  
+[2］偶春，姚侠妹，张建林.山地城市绿地生态系统规划——以重庆市长寿区为例.苏州科技学院学报：工程技术版,2013，26(3)：62-66.  
+[3]PratoTMultipleatributeBayesianaalysisofadaptivecosystem management.Ecologicalodeling，Oo0,33（3）：181-193.  
+4]HeinL,dEataalsakehdeaose，2006，57(2):209-228.孙湖燕，孙震.西安市沪灞生态区绿地系统规划.南方农业，2009，3(4)：58-61.MuscoloalacdicalaossolaliasioslclIndicators，2014，45：416-423.AhmedS，TawarmalaniM，SahinidisNV.Afitebranch-and-boundalgorithmfortwo-stagestochasticintegerprogramsMathematicalProgramming，2004，100(2）：355-377.  
+[8］张晓春，马春，古松，杨劫，宋炳煜，何兴东，高玉葆.生态系统动态的复杂性分析.南开大学学报：自然科学版,2009,42（2)：99-104.  
+[9］陈云峰，唐政，李慧，韩雪梅，李钰飞，胡诚.基于土壤食物网的生态系统复杂性-稳定性关系研究进展.生态学报，2014，34（9)：2173-2186.  
+[0]HaddteleeaafelieTotal Environment，2014，497-498：578-584.  
+[1]RoOLZsceellscale：asystematicanalysisofspatialvariabilityanduncertainty.ScienceoftheTotalEnviroment,2O14,5-50l：27-276.  
+[12]CaiY，uangGHYangZFanQdentificatoofotialtrategieforeagentsysplaguderultileaApplied Energy，2009，86(4）：480-495.  
+[13]WuXQ,Go,WangD,WangY,LuQ,ZangZDFmeokdpracticefintegratedcoastaloemaagentinadgrcChina.Ocean& Coastal Management，2012,69：58-67.  
+[14] 付爱红，陈亚宁，李卫红.基于层次分析法的塔里木河流域生态系统健康评价.资源科学，2009,31（9)：1535-1544.  
+[15］张绪良，张朝晖，徐宗军，谷东起，郑伟.莱州湾南岸滨海湿地的景观格局变化及累积环境效应.生态学杂志，2009，28（12)：2437-2443.PH  
+[16] 东营市人民政府.东营市土地利用总体规划(1996-2010).东营：东营市人民政府，2000.  
+[17] 倪文华.东营统计年鉴2013.东营：东营市统计局，2013.  
+[18] 东营市人民政府.东营市十二五规划.东营：东营市人民政府，2011.  
+[19] 东营市统计局，国家统计局东营调查队.东营市统计年鉴 2014.东营：东营市统计局，2014.  
+[20] 东营市人民政府.东营生态市建设总体规划(2003-2020).东营：东营市人民政府，2004.  
+[21] VanHopN.Sngfuzy（tochastic）linearprogamingprblesusingsupeiorityndiferiorityeasuresIfoationSencs77(9)：1977-1991.
+
+![](images/a81afb7a7c9b789219e66f7f88907859eee3cc97c4eefc90df869ab5efc7d02d.jpg)

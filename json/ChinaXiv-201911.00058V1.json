@@ -1,0 +1,416 @@
+[
+    {
+        "type": "text",
+        "text": "大气边界层湍流相干结构研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵建华¹，张峰²，梁芸³，刘世祥4(1．甘肃省(中国气象局)干旱气候变化与减灾重点实验室，中国气象局兰州干旱气象研究所，甘肃 兰州730020;2．庆阳市气象局,甘肃 庆阳745000；3．西北区域气候中心,甘肃 兰州730020；4．甘肃省专业气象台，甘肃 兰州 730020)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：湍流相干结构的发现是湍流研究的重大转折,它对湍流的认识和对物质、动量与能量的输送具有重要意义。本文首先回顾了大气边界层中湍流相干结构的发现过程,其次综述了其形态特征、组成结构、通量贡献以及其他特征,接着阐述了其产生的原因,详述了其典型的形成机制，然后论述了其在实践中的应用,继而综述了其检测方法，最后对全文进行了总结，并对未来的研究趋势进行了展望。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大气边界层；湍流相干结构；特征；成因；应用；检测方法",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "湍流相干结构（coherent structure，以下简称CS)指某一特定区域具有瞬时相位相关的涡旋的相互衔接的湍流质[1,对湍流的生成、发展和演变起着重要作用。它主要通过实验技术、统计分析方法与数值模拟进行研究，主要研究湍流的形态、特征、组成结构、通量贡献、成因以及应用等方面。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自1883年英国物理学家Reynolds 通过实验提出了湍流这一运动形态以来，科学界进行了大量研究。最初围绕Reynolds方程与脉动方程展开，主要是如何闭合Reynolds方程。当时的主流认识认为湍流是类似于分子运动完全随机的、不规则的运动。基于此,建立了 Boussinesq 涡黏模型[2]、Prandtl 的混合长理论(3]、Von Karman 的相似模型[4]、Taylor 涡输运理论[5]以及后来基于湍动能建立的闭合模型等半经验理论[5]。20 世纪20 年代,逐渐有科学家开始用统计理论研究湍流的规律，认为湍流不同于分子运动，它具有多尺度特征，其统计平均具有一定的规律性。主要研究如Richardson 的级串理论[6]Kolmogrov的标度率、各项同性湍流中的KarmanHowarth 方程以及莫宁－奥布霍夫相似理论等[5,7] O",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "后来，在射流、尾流、自由切变流、混合层和湍流边界层中普遍发现了CS，主要是观测到了显著的大尺度脉动结构，该结构在时间和空间上具有自组织特性。Townsend[8和 Einstein 等[9]首次在湍流边界层外区和近壁区分别发现了大尺度涡运动或周期性大尺度运动。1967年,美国斯坦福大学 Kline 等[10]在实验研究中借助流动显示法，发现近壁区湍流存在快慢相间的条纹结构。Corino 等[11]与 Smith等[12]发现,低速条纹的抬升在外区形成高切变层,使低速条纹发生振荡，然后低速条纹向外区上扬，条纹结构破碎，接着来自外区的高速流体下冲进入内区，平衡低速条纹带来的振荡。整个过程被称为CS的猝发，它是由抬升一振荡一上扬一下扫等4个过程构成，大部分湍流运动由此产生。猝发具有重复性与准周期性。Aubry 等[13]研究认为，尽管猝发在壁面区自动产生，并且壁面区决定了猝发的结构与持续时间，但边界层外部的压力信号会诱发猝发，且决定了其平均频率。温度的条纹结构也被Iritani等[14]和 Mosyak 等[15]通过实验在湍流边界层中发现，大气近地面层中早在1974年通过观测塔的资料或飞机采集的地面红外图像发现了温度的条纹结构[16],温度条纹远离或紧随速度条纹。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姜楠等[17]发现,在上扬和下扫事件中均存在一对反向旋转的准流向马蹄形涡。Smith 等[18-19]的实验研究表明，低速条纹结构与近壁区的流向涡管或发卡涡的腿部相互依存，Adrian 等[20]和Tomkins等[21通过PIV 也发现,低速条带与沿着流向分布的涡旋运动相关联。Smith[12]更直接指出，低速条纹实际上是由其上方或两侧的非稳定切变层中形成的涡结构通过卷带作用形成的。这些涡一般指的是流向涡,流向涡包括准流向涡、发卡涡和涡包[22],或者从形态上分为线涡、涡环、发卡涡与螺旋涡(23],当然,涡管与上扬放大器（ejection amplifier）以及大气边界层中的羽流（plume）、滚轴（rolls）、单体（cells）以及阵风等[24-26]也是这些涡的表现形式。准流向涡通常是发卡涡的涡腿，对称的发卡涡其涡腿为反向旋转的准流向涡对，涡腿之间对应低速条带。其中，发卡涡在湍流研究中尤为重要，它可以伸展到边界层外部,高度可达0.8个边界层厚度,流向方向伸展可达边界层厚度的2倍;发卡涡常沿流向排列，发卡涡头部倾角为 $1 8 ^ { \\circ } \\sim 2 0 ^ { \\circ [ 2 7 - 2 8 ] }$ 。发卡涡并不是单独存在的,往往一个个发卡涡(可达10 个)相续产生,形成涡包（vortex packet 或 packets of haipin vor-tex eddies）〔20,28]。现在,湍流研究的热点倾向于研究发夹涡的合并，Adrian等[29指出，随着发卡涡持续不断的产生,涡包在流向上拉长;由于相邻发卡涡存在相互吸收现象，发卡涡拉紧(strained)而变高变宽;涡包相遇后，会合并或穿越;根据直接数值模拟提出的、但被PIV 测量所证实的涡联结机制,两个发卡涡的准流向涡腿相遇后会因为涡量相反而消失，然后形成一个是单个发卡涡2倍宽度的新发卡涡。钟强[30发现,明渠紊流中的大尺度结构是发夹涡群。Guala等[3对管道湍流中的“超级结构”进行实验研究，发现发卡涡连接在一起形成发卡涡包，而发卡涡包连接在一起形成缓冲层大尺度运动。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CS 不仅有大尺度的，也有小尺度的。研究表明，CS实际上是各种不同尺度的相干脉动叠加组成的相干涡包，以前由大尺度相干脉动检测出来的CS只是CS的一层外壳，大尺度CS的物理核心是小尺度相干脉动，后者是气动噪声产生的主要来源，它们相互嵌套；用大尺度相干脉动可以推知其核心的小尺度相干脉动。用大小尺度分开的观点，即将湍流结构截然分解为大尺度和小尺度的思想不符合湍流物理机理和本质[32]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上是流体力学界研究CS的大概进展，它对于大气边界层CS的研究具有重要参考价值。CS的发现是湍流研究的一次重大突破，标志着湍流研究进入新时代。CS是湍流最重要的结构，它在湍流的产生、维持与演化中占有重要作用,而且包括温室气体与污染物在内的物质、动量和能量输送扮演着重要的角色。气象学家也很早注意到了CS，并展开了",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "积极研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1大气边界层CS的特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 CS的发现过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气象学家对CS给出的定义为：与高频小尺度湍流具有相互作用的、位相相关的、有组织的非周期低频大尺度运动，常能保持其特征形式，并具有一定的间歇性(33-37],当然也有学者简单定义为湍流中呈现出的有组织的大尺度涡旋结构[38]，不过该定义没有囊括后来发现的小尺度 $\\mathrm { c s }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最初研究大气边界层CS 的是 Taylor[39],1958年，他在大气边界层不同高度的气温序列中发现一个非对称的三角波,该三角波随时间先缓慢上升,然后突然下降，其持续时间在 $1 0 \\sim 2 0 \\mathrm { ~ s ~ }$ ,长度尺度为$5 0 \\sim 1 0 0 \\mathrm { ~ m ~ }$ （根据试验中风速 $5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 推测所得），这与Monin-Obukhov长度尺度相当。而且，三角波在不同的高度表现都一样，只不过上层先出现，然后随时间推移逐层出现。这种三角波后来被广泛称为ramp,其中温度由高到低剧变的边沿称为微锋（mi-crofront）。接着,ramp 在海洋、湖泊和海涂上的近地面层、逆温层以及对流层顶的温度和湿度序列中均被发现[40-41]，而且在稳定层结下也发现了ramp[40.42],，只是稳定层结下ramp 不再是不稳定条件下的缓升陡降（称为斜坡崖，ramp-cliff pat-terms）[36-37,40,43-44]，而是模态反转，为缓降陡升[40,42-45]或者陡升缓降（称为崖斜坡,clif-ramppatterns）[37,41]。中性层结下,温度均匀垂直分布,没有ramp信号，但是在其他标量（ $\\mathrm { C O } _ { 2 }$ 与水汽密度）中却依然存在 ${ \\mathrm { r a m p } } ^ { [ 3 3 , 4 0 , 4 2 , 4 4 ] }$ ,比如水汽密度,水汽密度无论在稳定、不稳定还是中性层结下均比较一致的呈现为缓升陡降模态(42.44]。后来,ramp 又陆续在草丛、作物与森林等的植被冠层以及城市冠层的标量场中被发现[36,45-49]。矢量场中,一般表现为对称的三角模态(trangle-like pattern）[35],但不如 ramp显著。ramp 被认为是CS的一个重要特征,气象学家也因此常以ramp 研究 $\\mathrm { c s }$ 。总之,CS 普遍存在于各种下垫面与各种层结状况下的大气边界层中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 CS的形态特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气象学界也常通过ramp来研究CS。Priest-ley{50]将ramp解释为垂直连续的羽流或对流滚轴,而不是离散的热泡，后来，羽流因此也常以温度序列的ramp形式进行检测。他还认为，羽流向下游倾斜,其迁移速度应该等于形成高度的平均气流速度，但该论断受到了许多质疑。Kaimal等[51发现羽流是一种无旋系统，向下风向倾斜，底层迁移速度小于环境速度，接近 $0 . 5 \\mathrm { ~ m ~ }$ 处平均风速，向上传递动量，他们还提出了一个拉伸机制解释其形成。Davi-$\\mathbf { s o n } ^ { ( 5 2 ) }$ 研究了对流羽流的迁移速度,发现羽流移动方向接近地面风向，移动速度接近地面切变层顶部的风速，由于羽流移动速度与高度无关，因此，Taylor的冻结假说并不适用于羽流尺度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "虽然,ramp 被认识是羽流产生的结果,但并没有获得大家一致公认。大气边界层中还会存在一种大尺度、类似于Benard 对流泡的一种结构,其温度也有剧烈变化信号（bustorbump signals），其位相与ramp 不必相同[40]。Antonia 等[40]在一个加热边界层的实验研究中发现一个尺度可伸展到 $z / \\delta { \\big ( } z$ 是高度,δ是边界层厚度)范围的ramp 结构,该结构是边界层外层大尺度涡产生,ramp 出现在涡凸起部位的上游。他们还总结发现,ramp 结构垂直尺度正比于L(莫宁-奥布霍夫长度)与δ,流向尺度比 $L$ 与 $\\delta$ 大一个量级,大气中的ramp 结构应该是有组织的大尺度结构,不是羽流,这种有组织的大尺度结构是三维马蹄形涡。Gao等[42,53）、Robinson[54]、Katul等[34]以及 Zhang 等[36]认为,ramp 实际是在表征流体力学实验中观察到上扬/下扫循环所反映的CS。McNaugh-ton[24]与Groβe等[28]指出,ramp 反映的实际上是发卡涡,发卡涡相当于一个流体中的大坝,其涡腿前面的流体受阻剧烈上升，后面的流体则补偿下沉,形成了陡升缓降的cliff-ramp 模式。Wroblewski 等[41]认为,cliff-ramp 很可能反映了Kelvin-Holmholtz（K-H)波,ramp代表了混合良好的波或滚轴，而cliff 是高度拉伸的麻花层（highlystrethedbraids）。Bakas等[55]指出，CS 在黏性副层内表现为准流向卷涡（quasi-streamwise roll vortices）,在黏性副层外则是发卡涡与双卷轴涡（doublerollereddies）,均伴有高低速流条;尽管大气行星边界层与湍流实验切变流的尺度、雷诺数和边界条件均不同,但是在中性稳定的大气边界层（neutrally stablePBL）也有同样的CS，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "20世纪50年代末到70年代，发现对流云街也是CS 的重要表现形式[56]。云街由顺风排列的滚轴涡构成,在滚轴的上升区形成相互平行的云列。滚轴涡的特征是垂直伸展高度为 $1 \\sim 2 ~ \\mathrm { k m }$ ,横风向波长为 $2 \\sim 2 0 ~ \\mathrm { k m }$ ,宽高比为2\\~15，滚轴与平均风的夹角为 $- 2 0 ^ { \\circ } \\sim 3 0 ^ { \\circ [ 5 7 ] }$ 。也有研究[26,56,58]指出,阵风是CS的体现者，阵风周期在 $3 \\sim 6 \\ \\mathrm { m i n }$ ,冷锋后垂直风速与水平风速负相关，可在垂向上输送水汽与污染物。李奇龙[5指出，阵风CS的物理图像为高低速条带和准流向的涡对，轴向与平均风方向只有一个小夹角;在寒潮大风天气下，准沿流向涡对的垂直尺度约为 $2 4 0 \\mathrm { ~ m ~ }$ ,条带沿流向的尺度为 $1 \\sim 2 ~ \\mathrm { k m }$ 或更大，涡的轴向与流向的夹角约为 $1 3 ^ { \\circ }$ 。在弱风情况下，阵风扰动是最强的脉动，贡献了约 $60 \\%$ 的涡动能和约 $80 \\%$ 的动量通量，高频湍流只有很小份额。当然，他们后来考虑到阵风中普遍存在的CS具有间歇性，从而将阵风与CS分开，但CS具有的顺风向与垂向反相关的特征确是阵风起沙理论中有利于物质能量输送的动量下传的核心[56,因此,CS 实际上是阵风的核心，或者说阵风是一系列CS（与背景流动)合并的产物。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总之,羽流、滚轴、热泡(59]、上扬/下扫循环、发卡涡、准流向涡、云街与阵风等被认为是大气边界层中CS 的表现形式[25-26,58,60] 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Wilczak[6]总结了ramp 研究所得的一些特征,这些特征也是CS的特征：ramp具有连续垂直结构；受风向影响，一般向下倾斜，平均倾斜角度为 $4 5 ^ { \\circ }$ ，倾斜范围在 $2 6 ^ { \\circ } \\sim 6 5 ^ { \\circ }$ ,倾角同 $- z / L$ 成正比，所以风切变越小,ramp 越陡直;ramp一般沿平均风向移动，个别沿局地风向移动;强风与近中性层结下ramp 纵向伸长比高达 $8 \\colon 1$ ，而在弱风与强不稳定层结下向侧向伸展；平均纵向尺度依赖于 $L$ ,尺度与 $- L$ 成正比；近地面层中ramp所占面积比约为0.42，剩余面积被较冷的、相对平静的下沉运动占据;垂向变动大，在近地面层内部或上部ramp常合并形成大尺度边界层热泡;持续时间至少是其经过数倍纵向尺度的距离所需时间；迁移速度在时空保持定常，但各个ramp速度不同，小于平均边界层速度，约为后者的$0 . 7 \\sim 0 . 8$ 。当然，这并不全面，比如ramp 随时间重复出现，在各层(无论冠层内外)几乎同时出现，一般认为是由上层逐渐传递到下层等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 CS的组成结构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Gao 等[42]研究了白天森林冠层内外CS 的结构，发现近中性层结下湿度依然存在ramp信号外，还发现有组织大涡结构重复出现在森林中上部，它是由一种类似于上扬的上升运动与紧挨的类似于下扫的下沉运动构成，两者之间以ramp中的微锋分离;耦合的上扬/下扫结构平均持续时间为 $4 0 \\sim$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$6 0 \\mathrm { ~ s ~ }$ ;上扬运动一般弱于下扫，但持续时间长，只在2倍森林高度处的上空两者强度才相等；森林顶部的上扬将暖湿空气输送到大气中，下扫则将干冷空气输送到森林冠层。Gao 等[53]利用小波分析技术继续研究了森林附近CS的结构，结果发现不同高度处的CS均是暖上升、冷下沉的结构;冠层CS吸附在低频大尺度环流上，合并到大尺度环流的上升支或下沉支上。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Weijers 等[62]在一个 $8 0 \\mathrm { ~ m ~ }$ 长的正方形试验场地的4个顶点与中心点架设了5个超声探头，研究了大气边界层热泡结构内的风场结构，由温度序列检测出了47个ramp，总体平均值后，发现ramp中的辐合风速几乎与垂直风同时达到最大值，均领先于温度与微锋边缘;ramp中的空气是辐合的，也是减速的,但下游却是增速的,ramp左右两侧常会产生方向相反的两个环流（涡对），右侧正涡度，左侧负涡度,整个平面上平均垂直涡度为0,背景风变负后涡对消失。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另外，还发现ramp里面嵌套ramp。Adrian等[20]利用粒子图像测速仪产生了渠道流中的完整图像,发现 ramp 里面嵌套 ramp。Shapland 等[63指出小尺度ramp 嵌入在大尺度的ramp中，2种尺度的ramp均是风切边驱动的，小尺度ramp对近地面层的能量和质量输送无效。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 CS的通量贡献 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CS在湍动能与雷诺应力的产生、质量和能量的输送中具有重要作用。Raupach 等[64]指出,冠层湍流运动主要来自于冠层尺度的相干涡的贡献，下扫贡献了粗糙地表应力的绝大部分，而且下扫的贡献随地表粗糙度与距地表距离的增大而增大。Shaw等[65]发现,下扫对雷诺应力的贡献大于上扬以及总的时均雷诺应力，尤其在冠层中间，内外作用贡献相对较小；下扫具有间歇性;冠层具有加强下扫之于上扬的主导性与加强扩散过程间歇性的效应。Gao等[42]指出,下扫主导冠层内的通量输送,上扬在冠层上部随高度递增而越加重要，在数个冠层高度上逐渐居于主导地位。Cava 等[66]发现,ramp 反映的是测站最常出现的有组织运动，它支配近中性与弱稳定条件下的标量输送，是冠层和大气间最有效的净标量质量输送因子。Cooper等[67]发现,间歇出现的羽流和低频结构对夜间地气质量交换的贡献很大，在夜间一定条件下，地表和大气稳定边界层最底层之间超过1/3的质量交换由CS完成，并指出CS的形成在于上部K-H波不稳定产生的压力扰动向下输送到波导区，促进CS产生。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "就具体的贡献而言（表1）,Gao 等[42]认为近地面层中CS 通量贡献可达 $7 5 \\%$ ， $\\mathrm { L u }$ 等[43]计算出CS对热量和动量的通量贡献只有 $40 \\%$ 。Barthlott等[7]借助小波变换,研究了近地层中CS 对湍流输送的贡献，发现CS出现时间占总时间的 $36 \\%$ ,其对湍流动量和热量通量的平均贡献分别为 $44 \\%$ 和$48 \\%$ 。Thomas等[35]发现,CS 通量贡献热量与动量通量分别是 $2 6 \\%$ 与 $1 6 \\%$ ，热量贡献大于动量。Zhang 等[36的结果更小，热量贡献最大( $1 9 \\%$ ），潜热次之（ $14 \\%$ )，动量通量最小（ $( 1 1 \\% )$ 。郭云谦等[68]指出,上扬运动和下扫运动活动时间占整个湍流时间的 $7 5 \\%$ ，输送动量通量绝对值占比超过$70 \\%$ ；高风速CS通过促进下扫与抑制上扬运动来影响动量通量的输送。Li等[9]发现CS可以贡献$60 \\%$ 的涡动动能和 $80 \\%$ 的向下动量通量。显然,不同的作者、不同的方法得到的通量贡献的结果不同。Barthlott 等[37]汇总了前人的研究成果，发现由于提取CS方法的不同，造成对CS通量贡献的计算结果差异很大，标量与矢量的贡献在$1 0 \\% \\sim 1 2 4 \\%$ （包括其他研究结果)之间变动，具体可参见表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 CS 的其他特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了通量贡献，CS的持续时间、数目、间歇因子以及Taylor长度尺度等也是学者关注的问题。Krusche等[44]发现,CS平均持续时间在 $( 2 3 . 7 \\pm$ 0.5） $\\sim ( 2 8 . 5 \\pm 1 . 1 )$ $\\mathrm { ; , } 2 0 \\ \\mathrm { m i n }$ 内的数目在 $( 2 0 . 0 \\pm$ 1.0）\\~ $. \\ ( 2 8 . 5 \\pm 1 . 1 ) \\$ ，平均间歇因子为( $4 5 . 0 \\pm$ $0 . 4 \\% ) \\sim ( 5 9 . 1 \\pm 1 . 3 \\% )$ ;持续时间随高度递增，但强度、数目与间歇性递减；没有发现数目、持续时间和强度与平均风速、摩擦速度以及稳定度参数有显著关系。Chen 等[70]发现,CS 持续时间在 $2 \\sim 4 0 \\mathrm { ~ s ~ }$ ，$4 \\sim 1 2 \\mathrm { ~ s ~ }$ 的CS对热量贡献最大，水汽通量则是 $4 \\sim$ 16s的 $\\mathrm { C S }$ 。Katul等[34]发现,近地面层中,动量上扬与下扫发生频率基本相同,约为0.29,与粗糙度和稳定度无关。标量的上扬频率基本与动量相同，下扫频次依赖于强迫对流与浮力对流的偏度。Zhang等[36在棉花地观测的结果是 $8 . 7 \\mathrm { ~ m ~ }$ 的数目在早晨和下午分别是31.7和36.1个， $2 . 7 \\mathrm { ~ m ~ }$ 的数目分别是38.7和44.6个，间歇因子平均为0.47，平均特征时间尺度在稳定、不稳定以及中性条件下分别是30.7s、33.5s和31.4s(表1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1 CS各特征量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d3396dd57affb960f259b52fb53e0fba1bff2dd9ddf1ecaea27a2da1305e691e.jpg",
+        "table_caption": [
+            "Tab.1Various characterisitic values of CS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">持续(特征)时间/s</td><td rowspan=\"2\">30 min数目 (均换算为30min)</td><td rowspan=\"2\">间歇因子/%</td><td rowspan=\"2\">间隔时间/s</td><td rowspan=\"2\">Taylor长度 尺度/m</td><td rowspan=\"2\">通量贡献/%</td><td rowspan=\"2\">文献</td></tr><tr><td></td></tr><tr><td></td><td>一</td><td></td><td></td><td></td><td>动能60;动量80</td><td>【69]</td></tr><tr><td></td><td>1</td><td>1</td><td></td><td>1</td><td>热量55~100</td><td>[71]</td></tr><tr><td>(23.7±0.5)~(28.5±1.1)</td><td>（30.±1.5）</td><td>（45. ±01.3）)</td><td></td><td></td><td></td><td>[44]</td></tr><tr><td>2~40 稳定30.7;不稳33.5；</td><td></td><td></td><td></td><td></td><td></td><td>[70]</td></tr><tr><td>中性31.4</td><td>31.7~44.6</td><td>47</td><td></td><td>100~160</td><td>动量11;热量19;潜热14</td><td>[36]</td></tr><tr><td>14~110</td><td>7~64</td><td></td><td></td><td>一</td><td>动量16;热量26</td><td>[35]</td></tr><tr><td>稳定61~65，不稳定83~98</td><td>7~11</td><td>1</td><td>典型25</td><td>平均400~600； 范围200~1 700</td><td>动量38~51;热量42~51</td><td>[37]</td></tr><tr><td>7~10</td><td></td><td>45</td><td></td><td></td><td>动量30~107;热量49~124</td><td>[72]</td></tr><tr><td>7~50 森林35~40;果园20~25；</td><td>一</td><td>1</td><td></td><td>1</td><td>1</td><td>[33]</td></tr><tr><td>玉米15~25</td><td></td><td>78</td><td></td><td></td><td>森林80;果园50~80； 玉米50</td><td>[48]</td></tr><tr><td>稳定52.3;对流53.5</td><td></td><td>稳定46;对流43</td><td>稳定94.1; 对流100</td><td>稳定202； 对流280</td><td>动量38.7~45.3; 热量41.2~48.4</td><td>[43]</td></tr><tr><td></td><td></td><td></td><td></td><td>500</td><td>热量64~74</td><td>[73]</td></tr><tr><td>4~12</td><td>68~69</td><td>1</td><td>26</td><td>1</td><td>动量92.7;热量87.5</td><td>[74]</td></tr><tr><td></td><td>478/22~22</td><td></td><td>平均74~84; 典型50</td><td></td><td>动量≥75%;热量≥75%</td><td>[42,47]</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2形成原因",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "普遍认为CS的产生与低速条纹和准流向涡有密切关系。猝发现象在实验室中的发现本身就揭示了条纹的重要意义[10]。Monji[75]在美国犹他州Bonneville盐地进行的ramp结构的试验表明：风切变而不是浮力，是控制垂直连续CS的原因。试验也发现，ramp的移动在稳定层结与不稳定层结一样,Gibson 等[7推断,浮力不是CS 产生的必要条件。 $\\mathrm { L i u } ^ { [ 7 7 ] }$ 发现自由切变中CS 的能量产生与耗散随其向下游移动而变化，两者并不平衡，流体动力不稳定可以解释CS的产生，CS引起的小尺度脉动的变形可以解释2种不相十尺度运动之间的能量交换,能量交换是大尺度结构的耗散机制。Brown[78]对经向滚轴状涡的研究指出，大尺度CS由流体动力不稳定产生。Robinson[54]指出,近壁面水平风速廓线的转折点（inflectionpoint）处产生的流动不稳定是相干涡产生与维持的重要机制。Gao 等[42]认为，浮力效应小，动力效应大，因此风切变是形成CS的主要原因,该结论后来被 Paw 等[33]证实。Rau-pach 等[64]指出，白天CS可被强切变引起的K-H波不稳定诱发产生。在中性与稳定层结下湿度微锋的存在就说明浮力不是CS 产生的必要条件[37]。Mc-Naughton[6]认为,cliff-ramp patterns 是发卡涡产生的，浮力可增强发卡涡。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当然,也有不同意见,如 Chen 等[79]发现 ramp频次并不随高度系统性变化，这与CS产生于平均冠层风速不稳定理解不相一致。Thomas 等[80]指出，K-H波不稳定并不是冠层顶相干运动唯一的产生方式，当大气稳定度趋向对流时，湍流的组织程度是增加的，夹带热力涡（attachedthermaleddies）是组织性增强的原因。对稳定热力分层流的直接数值模拟发现[67,81],大气易于切变不稳定,导致在地面产生翻转涡（overturningedies）与滚轴涡（roll vorti-ces）;滚轴结构抬升冷空气穿过热层进入到逆温层顶；暖空气包围冷空气，产生短暂的对流不稳定湍流环境，导致羽流、滚轴和涡等结构形成。McNaugh-ton[60]指出,对流边界层中近地面层受切变驱动，近地面层上部(外区)受浮力驱动，两者转换位置约在奥布霍夫长度尺度附近，此处浮力产生的湍动能开始超过切变产生的湍动能。这种现象在有冠层的对流边界层中尤为显著，即从地面到冠层顶部附近的地方是稳定层结，切变驱动为主，浮力很弱；以上才是浮力驱动为主的不稳定层结[64]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Zhang 等[36]归纳了CS产生原因为：垂直风切变、冠层波、热诱导涡和K-H波不稳定。一般而言，切变是主要原因,浮力是次要原因[4I]。当然,流体力学界提出的产生机制包括流动不稳定外，还有从Tollmien-Schlichting边界层不稳定、Gorlter边界层不稳定、孤波、奇异吸引子以及涡动力学方面进行研究[82]。下面给出2个比较典型的形成机制,2 种机制从不同角度进行了阐述。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Raupach等[64]注意并观测到速度廓线在冠层顶部附近存在的折点现象，他认为流动稳定理论（hydrodynamicstabilitytheory，HST）适用于动力湍流产生CS的形成机制。HST利用线性化的动力学方程研究层流切变流中小扰动的演化，稳定情况下，小扰动是衰减的;中性条件下是维持不变的;不稳定条件下，小扰动将增长,产生横向K-H波不稳定，进而产生CS。解析解显示，速度廓线存在折点是不稳定的必要条件。而流动不稳定是由无黏性效应引起，黏性只起弱的阻尼作用。由该理论得到的K-H波的间距与增长率同混合层中横向涡的实际观测结果吻合的非常好。由于HST是线性理论,仅适用CS 形成的初级阶段，后期的发展需要非线性理论。Raupach等[64]综合了实验、理论以及数值模拟的研究成果，继续对此过程进行了阐述： $\\mathrm { \\textregistered K - H }$ 波中的横向涡在非线性自交互作用下很快卷起(rollup)形成一系列的浓缩滚轴（concentratedrollers），滚轴之间是麻花区（braidregions）;滚轴以旋转为主，麻花区应力为主。 $\\textcircled{2}$ 三维非线性不稳定在高应力的编织区导致经向涡度以麻花涡或肋涡（braidorribvortices）的形式快速发展起来。 $\\textcircled{3}$ 同时，旁边的横向涡形成的滚轴在随机配对过程中下合并，将不规则性（irregularities)引入到滚轴之间的麻花区。 $\\textcircled{4}$ 随着2个或3个涡的合并过程，混合转换发生，导致充分发展的三维湍流形成。 $\\textcircled{5}$ 然后，湍流成为自保持形态，此时，涡旋的合并不再是配对而是撕裂，横向涡遭到破坏并被麻花区吞噬。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "McNaughton等[16]提出的不稳定大气中CS产生机制认为，大气近地面层中也存在条纹结构，该条纹结构是压力扰动产生，顺地面风方向分布；如同在实验室流动观察到的那样，这个条纹结构促使上扬/下扫结构构成的猝发过程发生；下沉的高速流向侧边散开，产生了上抬和较慢运动空气的强辐合线，此时低速条纹受辐合影响而上抬变窄;由于速度不等，高速流会追上低速条纹，在两者相遇的各个区域会产生强切变,表现在速度廓线上就为强转折（strong-lyinflected），这是不稳定产生之源；该不稳定会触发产生一系列的横向涡，而旋转涡沿高低速流条之间的界面产生，通过吸纳高低速流体形成;这些涡顺流向斜上方向弓曲，最终形成马蹄形涡；马蹄形涡从平均流中吸收动能维持其生存;由于平均切变的滋养与旋转，这些相干涡最终与地面接触，形成坝一样的阻塞物，地面与后方的流体会被该涡旋的旋转臂卷入涡旋中;拦截的流体向上、向后运动,形成上扬，涡旋外面的流体向下运动形成下扫，从而构成了上扬/下扫事件。只要条件满足，该过程会沿条带重复循环出现，形成涡包。显然，该机制与流体力学界的研究成果是很相似的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3CS的应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如前所述，CS通过上扬和下扫运动对物质、动量、热量和其他物理量的输送产生重要作用，其中对动量的输送是雷诺应力的主要来源和湍流猝发的主要活动[22]。除此之外,在其他方面也有突出作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "湍流谱普遍适用于稳定、中性、均匀的陆面、水面以及海床，但其波谱的产生区（波数峰值）一直未得到解释，有学者便认为CS是其产生的重要原因。比如,McNaughton[24]认为,活跃的地表附着涡是湍流产生谱（turbulence production spectra）的重要贡献者。Raupach 等[64]认为,在不稳定与近中性条件下，湍流波谱峰值与大尺度CS有关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CS对起沙有重要作用。水力学家认为，CS是泥沙起动与输送的重要机制，气象学家也有类似结论。曾庆存等[2认为，东亚春季冷锋后的强风及其伴随的系统下沉气流和叠加在其上的阵风，对起沙十分有利,但此下沉气流抑制着沙尘的上扬;正是阵风的三维CS，使得积聚在风沙边界层的沙尘可以持续地克服此抑制，从而不断上扬到大气边界层的中上层,这即是阵风起沙机理。张静红[8]通过试验数据发现，沙尘暴风场在高度上表现出2种结构：在$8 \\mathrm { ~ m ~ }$ 以上为超大尺度结构， $2 \\mathrm { ~ m ~ }$ 以下为大尺度结构，而 $2 \\sim 8 \\mathrm { ~ m ~ }$ 之间则为两者共存。超大尺度结构对近地表 $8 \\mathrm { ~ m ~ }$ 以上 $\\mathrm { P M } _ { 1 0 }$ 颗粒的输运与 $2 \\mathrm { ~ m ~ }$ 以下区域的沙尘运动有重要影响，对前者则起主要影响。张君霞等[84]利用大涡模式模拟发现,对流冷池头部涡旋引起的沙尘抬升潜势较尾部的大，冷池密度流抬升的沙尘大部分在冷池内混合，仅少部分扩散到冷池外，头部的沙尘绝对浓度约是尾部的2倍，沙尘可被冷池内增强的湍流涡旋传输到较高的高度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CS 可以解释逆梯度输送问题[82]。Kaimal等[51]认为,羽流与尘卷风可以逆速度梯度而向上传输动量，可解释不稳定条件下出现的负黏性问题。Wilczak[6]研究了对流大气近地面层大尺度涡结构，发现垂直脉动速度与温度脉动速度大体上处同位相，水平速度脉动位相延后于垂直速度脉动，导致在大尺度涡结构的特定区域出现通量逆梯度现象;ramp的上升运动区对应垂直和水平热通量、垂直切应力与湍动能输出的地方，下沉运动则输入这些通量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CS还被用于解释地表能量不平衡。陈家宜等[85]采用大涡模拟研究了大气中经常存在的一簇一簇以热泡形式存在的CS对涡旋相关法测定湍流通量偏低的影响，而湍流通量的偏低对地表能量平衡产生重要作用。赵建华等[8也研究了CS对地表能量平衡的影响，发现在半干旱区的夏季，当引入考虑CS的大涡平均方法后，湍流垂直通量要比基于雷诺平均方法的大 $12 \\% \\sim 1 8 \\%$ ,结果是地表能量平衡的闭合度可提高 $1 1 \\%$ 左右，达到了1.00与1.01，地表能量实现了完美的平衡。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "另外,Hussain[87]认为CS 的破坏过程是气动噪声产生的主要机制，并提出了气动噪声产生的断-接相互作用（cut-and-connect interaction）机制。Lap-pen 等[88]假设羽流与滚轴等CS 支配行星边界层中的物理过程，为质量通量模式建立了一个新的描述动量通量与方差的方法。还有，流体力学界很早就提出对湍流进行控制，以减小摩擦阻力。1949 年，Toms首次发现极少量的长链高分子聚合物就能有效地减少湍流流动阻力,提高输运量,降低能耗[89] 。湍流控制主要应用在输油管道、农田灌溉、船舶航行和消防救火方面。在进行湍流控制时，经常是通过影响湍流边界层中的发卡涡实现的，有数据表明可以减少阻力达 $70 \\%$ [90]。目前在气象学界未见到相关方面的研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4检测方法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "检测方法分实验技术、统计分析方法与数值模拟方法[24,54]。实验技术包括流动显示法（visualiza-tionmethod，如氢气泡、阴影、纹影、烟丝以及激光诱导荧光或荧光微丝等显示法）、多探头热线技术（multisensorhot wiretechnique）、热膜阵列（hot-filmarrays）、激光多普勒测速仪（laser-doppleranemome-try，LDA)和粒子图像速度场仪（PIV）〔24]。大气中主要是超声风速/温度仪。数值模拟一般采用大涡模拟[88,91-93]与直接数值模拟[8894-96]。大涡模拟是将湍流大尺度的涡直接模拟、小尺度的涡用模型进行封闭的一种模拟方法，它可以模拟较高雷诺数和较复杂的湍流运动,刻画出一些涡旋结构[9]。直接数值模拟是直接对流动的控制方程进行数值计算，但是需要很高的时空分辨率，对计算机的内存要求高，而且花费时间很大，目前只在槽道、圆管等雷诺数低的简单湍流运动中应用[94]。21 世纪以来,直接数值模拟和 TRPIV（time-resolved paticle image ve-locimetry)技术与条件采样和相位平均技术相结合，能够获得CS的空间拓扑形态，观察到CS各物理量的空间各部位拓扑结构及其在湍流产生、维持、演化、发展中的作用[32]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验和计算的数据中提取CS需要相应的分析识别方法，包括统计方法、条件采样法、谐波分析、小波分析以及经验模态分解（EMD）等方法。其中统计方法主要包括相关分析与条件采样技术。相关分析主要根据同时刻或不同时刻的同一变量或不同变量在时间与空间之间的关联确定CS，包括单点相关、多点相关、空间关联、时间关联、时空关联、自相关和互相关等。条件采样是应用较广泛的一种方法，它包括VITA 法（variable-interval timeaverage method）象限法（quadrant method） $\\mu$ 层法(u-level method）、WAG(window-averaged gradient）、本征正交分解、多层检测法（multileveldetectionscheme）[43-4,7,54.64]等。条件采样法一般比较简单，但缺点是需要设置临界值或判据,且尺度单一,这给CS 的检测带来了一定的不确定性，因此学界倾向于采用更客观的谐波分析、小波分析以及EMD 等方法。谐波分析主要将湍流信号分解为各种不同频率的简谐波的叠加，根据CS的频率范围即可提取出相应的信号,比如程雪玲等[58]。小波分析是20 世纪90 年代后被学界开始大量使用的一种方法，以其客观和能提供频率与位置参数的特点被许多学者用来检测 $\\mathrm { C S } ^ { [ 3 5 , 4 3 - 4 4 , 4 6 , 4 8 , 7 3 , 7 5 , 9 7 ] }$ 。EMD 是美国工程院士黄谔博士于1998 年提出的一种信号分析方法，它是一种自适应的数据处理或挖掘方法,适合非线性、非平稳时间序列的处理。它能使复杂信号分解为有限个本征模函数（intrinsicmodefunction，简称",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IMF），所分解出来的各IMF分量包含了原信号的不同时间尺度的局部特征信号。该方法在CS中的检测具有重要价值，它可以提出湍流中各个不同尺度的信号，包括CS、小尺度涡旋、中尺度乃至层流信号等,在湍流中也在应用[98-99]。当然,还有其它一些方法，比如小波系数谱分析（spavelet analysis）〔100]方法、双谱方法[101]。需要指出的是,各个检测方法检测的结果是有差异的，许多研究都揭示了这一点[35,44]。下面简述一下小波检测 CS 的方法。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "小波检测的基本依据是湍流的3项分解 $\\left[ 4 6 , 6 1 , 7 5 , 1 0 1 - 1 0 5 \\right]$ ,主要是考虑 CS 与高频小尺度湍涡的不同性质。一般认为，CS 属于大涡（含能涡），是各向异性和非高斯分布，高频小尺度湍涡近似各向同性和高斯分布[101]。3项分解有3种表现形式。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)第一种 $u = \\bar { u } + u _ { \\mathrm { c } } + u _ { \\mathrm { e } }$ 。 $\\bar { u }$ 是平均值; $u _ { \\mathrm { c } }$ 是CS;uc是背景[104 -105] 。(2)第二种 $u = \\bar { u } + u _ { \\mathrm { l } } + u _ { \\mathrm { s } \\mathrm { ~ o ~ } } u$ 是大尺度涡信号;u是小尺度涡信号[35-36,74] 。(3)第三种是在第二种的基础上再进行分解，即认为大涡既包含CS又包含非CS部分，公式为$u ^ { \\prime } = u _ { \\mathrm { l } } + u _ { \\mathrm { s } } + u _ { \\mathrm { l { c } } } + u _ { \\mathrm { l { n } } } + u _ { \\mathrm { s } }$ 。 $u _ { \\mathrm { l c } }$ 是大尺度相干信号;$u _ { \\mathrm { l n } }$ 是大尺度非相干信号，它也近似高斯分布，各向同性[101-103]。式中下标l表示大尺度涡;s表示小尺度涡； $\\mathbf { c }$ 表示CS; $\\mathbf { n }$ 表示非CS；e表示背景。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "这3种分解方法本质上是一样的，只是在处理细节上略有差异。具体检测时，都需要对湍流数据进行降噪处理，特别是消除宽带白噪声[106]。降噪方法如数字滤波法(37,102）、EMD[98-99]与低通滤波[97,101]。在小波检测CS 的方法中,多以温度或湿度等标量的ramp事件为依据，根据其在不稳定与稳定条件下的缓升陡降与陡降缓升(指温度)特征进行检测，当然对于ramp的右边界（结束点)存在不同的意见，Collineau 等[74]、Lu 等[43）、Qiu 等[48]与Zhang 等[36以陡降后缓升到均值（以不稳定情况为例)的地方为止点，而Antonia 等[40]、Krusche 等[44]与 Barthlott等[37]以陡降点为止点。具体方法是以ramp信号为依据，在小波方差谱中第一个极大值为CS 的特征时间尺度，以微锋所在的位置为对流条件下 CS 的止点、稳定条件下CS 的起点[37]。小波分析中,重要的一点是小波基函数的确立,Katul等[107]曾给出了前人使用的各种基函数。有的基函数频域局部化特性较好，有的时域局部化性质好，有的则频域时域均有较好的局部化特性，因此，在小波变换的不同阶段需要选用不同的基小波。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "检测CS时，还要注意稳定情形下线性重力波与CS的判识，因为此时重力波与CS并存，因此要区别对待。线性重力波与CS这2种组织可采用标量与扰动垂速的交叉谱进行区别[66]：线性重力波没有垂直扩散，波源区的扰动与标量位相差$9 0 ^ { \\circ }$ ,正交谱 $>$ 共谱,且位相谱接近 $\\pm 9 0 ^ { \\circ }$ ；湍流的交叉谱与湍流的扩散性及混沌性密切相关，共谱的峰值对应含能涡区，且共谱 $\\geqslant$ 交叉谱，位相角随机分布在 $- \\pi \\sim + \\pi$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论与展望 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CS 是湍流中最重要的结构。本文综述了大气边界层中湍流CS的发现过程、形态特征、组成结构、通量贡献以及其他特征,阐述了其形成原因,并详细描述了2个典型的形成机制,论述了其在实践中的应用，比较细致地综述了其检测方法。由于水平的限制，可能有不妥或不全面的地方。需要指出的是，对于CS的研究，流体力学界研究更深入的多、广泛的多,他们走在了大气边界层学界的前面。大气边界层学界除了要积极吸取流体力学界的前沿研究成果，还要有所创新。笔者认为未来一段时间内，需要加强大气边界层中CS的内在结构的直观显示，也即是对其拓扑结构的研究需要加强。虽然有各种实验技术，但多局限于实验室之内或应用尺度较小，不能满足实际需要;虽然有大涡模式，但是受限于模式的精度，也难以得到真实可靠的数据。开展多点、多面、高密度的大气边界层方面的试验、相关仪器的研发以及方法的突破，以获得CS的拓扑结构是未来需要重视的方面。CS在大气边界层中的三维分布结构与其演化的数学物理刻画，CS之间的合并或耦合、分离、转化以及破碎等机制也是未来需要研究的重点。目前虽然有一些文献接触到了CS 的垂直分布，但是对耦合机理以及进一步的演变仍缺乏深入理解。由于CS是非高斯的、非各向同性的，其存在势必对采用等权重平均的雷诺平均产生一定影响,进而对整个湍流方程产生影响,这方面的工作也亟待研究。最后,相对于流体力学界通过控制CS来控制湍流的实践，大气边界层也应该开展相关研究,这对于大气中人工干预天气与气候有重要意义。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Hussain A K MF. Coherent structures:Reality and myth[J].Physics of Fluids,1983,26(10) :2 816 -2 850.   \n[2]Boussinesq TV. Essai Sur La Theorie Des Eaux Courtantes[M]. Paris:Memoires Presentes par Divers Savants a I'Academic des Sciences de I'Institut National de France,1877,1-680.   \n[3]Tollmienw,Schlichting H,Gortle H,et al. Uber die ausgebidete tarbulens[C]//Ludwing Prandtl Gesammelte Abhandlungen. Berlin : Springer Berlin Heidelberg,1961,736-751.   \n[4]Von Karman T. Uber den mechanismus des widerstandes,den ein bewegter korper in einer flusigkeit erfarhrt[J].Gottingen Nachrichten Mathematisch-Physikalische Klasse,1911:509 -517.   \n[5]Richardson LF.Weather Prediction by Numerical Process[M]. London:Combridge University Press,1922.   \n[6]Kolmogorov A N. Dissipation of energy in the locally isotropic turbulence[J].Proceedings of the Royal Scociety A,1991,434 (1 890) :15 -17.   \n[7]张兆顺,崔桂香,许春晓.湍流理论与模拟[M].北京:清华大 学出版社,2005:1- 279.[Zhang Zhaoshun,Cui Guixiang,Xu Chunxiao.Theoryand Modelingof Turbulence[M].Beijing:Tsinghua University Press,2005:1-279]   \n[8]Townsend A A.The Structure of Turbulent Shear Flow[M].Cambridge:Cambridge University Press,1956:155-172.   \n[9]Einstein H A,Li H.The viscous sublayer along a smooth boundary [J].Journal of the Engineering Mechanics Division,1956,82（2）: 1-7.   \n[10]Kline S J,Reynolds W C,Schraub FA,et al. The structure of turbulent boundary layer[J].JournalofFluid Mechanics,1967,30 (4) :741 -774.   \n[11]Corino ER,Brodkey R S.A visual investigation of the wall region in turbulent flow[J]. Journal of Fluid Mechanics,1969,37（1）: 1-30.   \n[12]Smith C R,Metzler SP.The characteristics of low speed streaks in the near wall region of a turbulent boundary layer[J].Journal of Fluid Mechanics,1983,129:27 -54.   \n[13]Aubry N,Holmes P,Lumley JL,etal.The dynamics of coherent structures in the wall region of a turbulent boundary layer[J]. Journal of Fluid Mechanics,1988,192:115-173.   \n[14]Iritani Y,Kasagi N,Hizata M. Heat transfer mechanism and associated turbulence structure in the near-wall region of a turbulent boundary layer[C]//Bradbury LJS,Durst B,Launder BE,et al. Turbulent Shear Flows 4.Berlin:Springer Berlin Heidelberg,1985： 2 223 -2 234.   \n[15]Mosyak A,Pogrebnyak E,Hetsroni G.Effect of constant heat flux boundary condition on wall tmperature fluctuations[J]. Journal of Heat Transfer,2001,123(2）:213-218.   \n[16]McNaughton K G,Brunet Y.Townsend's hypothesis,coherent structures and Monin-Obukhov similarity[J].Boundary-Layer Meteorology,2002,102(2):161-175.   \n[17］姜楠,于培宁,管新蕾.湍流边界层相干结构空间拓扑形态的 层析 TRPIV 测量[J].航空动力学报,2012,27（5）：1113- 1 121.[Jiang Nan,Yu Peining,Guan Xinlei. Tomo-TRPIV measry layer[J].Journal of Aerospace Power,2012,27（5）:1 113- 1 121.]   \n[18] Smith C R,Schwartz S P. Observation of streamwise rotation in the near-wall region of a turbulent boundary layer[J].Physics of Fluids,1983,26(3) :641-652.   \n[19]Smith C R,Patterson G K,Zakin JL.A Synthesized Model of the Near-wall Behavior in Turbulent Boundary Layers[R].Missouri: University of Missouri Rolla,1984.   \n[20]Adrian RJ,Meinhart C D,Tomkins C D.Vortex organization in the outer region of the turbulent boundary layer[J]. Journal of Fluid Mechanics,2000,422:1-54.   \n[21]Tomkins C D,Adrian R J. Spanwise structure and scale growth in turbulent boundary layers[J]. Journal of Fluid Mechanics,2003, 490;37 -74.   \n[22]范宝春,董刚,张辉.湍流控制原理[M].北京:国防工业出版 社,2011:78-98.[Fan Baochun,Dong Gang,Zhang Hui.Principlesof Turbulence Control[M].Beijing:National Defense Industry Press,2011:78 -98.]   \n[23］邱翔,刘宇陆.湍流的相干结构[J]．自然杂志,2004,26（4）： 187-193.[Qiu Xiang,Liu Yulu.Turbulent coherent structure [J].Chinese Journal of Nature,2004,26(4）:187 -193.]   \n[24]McNaughton K G.Attched eddies and production spectra in the atmospheric logarithmic layer[J]. Boundary-Layer Meteorology, 2004,111(1) :1 -18.   \n[25] Sikora T D,Ufermann S.Marine Atmospheric Boundary Layer Cellular Convection and Longitudinal Roll Vortices[M].Washington D C:SAR Marine Users Manual,2004:321 -330.   \n[26］曾庆存,程雪玲,胡非.大气边界层非常定下沉急流和阵风的 起沙机理[J].气候与环境研究,2007,12（3）:244-250.[Zeng Qingcun,Cheng Xueling,Hu Fei.The mechanism of soil erosion and dust emission under the action of nonsteady strong wind with descending motion and gustwind[J]. Climatic and Environmental Research,2007,12(3）:244-250.]   \n[27]Head M R,Bandyopadhyay PR. New aspects of turbulent boundary layer structure[J]. Journal of Fluid Mechanics,1981,107:297- 338.   \n[28] Groβe S,Schroder W. Measurement ofthezero-presure gradient turbulent boundary layer with forced thermal convection[J].Flow Turbulence & Combustion,2008,81（1）:131-153.   \n[29]Adrian R J,Balachandar S,Liu Z C. Spanwise growthof vortex structure in wall turbulence[J]. Journal of Mechanical Science and Technology,2001,15（12）:1 741-1 749.   \n[30］钟强.明渠紊流不同尺度相干结构实验研究[D].北京;清华 大学,2014:1-50.[Zhong Qiang.Experimental Research on Different-scale Coherent Structures in Open Channel Flows[D]. Beijing:Tsinghua University,2014:1-50.]   \n[31]Guala M,Hommema SE,Adrian R J.Large-scale and very-largescale motions in turbulent pipe flow[J]. Journal of Fluid Mechanics,2006,554:521 - 542.   \n[32］姜楠.湍流边界层相干结构研究五十年[C]//第八届全国实验 流体学学术会议论文集.广州：中国科学院南海海洋研究院, 2010:116.[Jiang Nan.5O a study on coherent structure of turbulent boundary layer[C]//Proceedings of the Eight National Conference on Experimental Fluid Science.Guangzhou: South China Sea Institute of Oceanology Chinese Academy of Sciences,2010: 116.]   \n[33]Paw UK T,Brunet Y,Collineau S,et al.On coherent structures in turbulence above and within agricultural plant canopies[J].Agricultural and Forest Meteorology,1992,61:55-68.   \n[34]Katul G,Kuhn G,Schieldge J,et al. The ejection-sweep character of scalar fluxes in the unstable surface layer[J].Boundary-Layer Meteorology,1997,83(1） :1-26.   \n[35]Thomas C,Foken T.Flux contribution of coherent structures and its implication for the exchange of energy and matter in a tall spruce canopy[J]. Boundary-Layer Meteorology,2007,123:317-337.   \n[36]Zhang Y,Liu H,Foken T,et al. Coherent structure and flux contribution over an inhomogeneously irrigated cotton field[J].Theoretical and Applied Climatology,2011,103:119-131.   \n[37]Barthlot C,Drobinski P,Fesquet C,et al.Long-term study of coherent structures in the atmospheric surface layer[J].BoundaryLayer Meteorology,2007,125:1-24.   \n[38］白士伟.典型地区大气湍流相干结构特征研究[D].合肥：中国 科学技术大学,2O18:1-3.[Bai Shiwei.Coherent Structure Characteristics of Atmospheric Turbulence in Typical Regions[D]. Hefei:University of Science and Technology of China,2018:1-3.]   \n[39]Taylor R J.Thermal structures in the lowest layers of the atmosphere[J].Australian Journal of Physics,1958,11:168 -176.   \n[40]Antonia RA,Chambers A J,Friehe C A,et al.Temperature ramps in the atmospheric surface layer[J]. Journal of Atmospheric Science,1979,36(1) :99-108.   \n[41]Wroblewski D E,Cote OR,Hacker JM,et al.Cliff-Ramp patterns and Kelvin-Helmholtz billows in stably stratified shear flow in the upper troposphere:Analysis of aircraft measurements[J]. Journal of Atmospheric Science,2007,64(7）:2 521-2 539.   \n[42]Gao W,Shaw RH,Paw UK T.Observation of organized structure in turbulent flow within and above a forest canopy[J].BoundaryLayer Meteorology,1989,47:349 -377.   \n[43]Lu C H,Fitzjarrald D R.Seasonal and diurnal variations of coherent structures over a deciduous forestJ]. Boundary-Layer Meteorology,1994,69(1) :43-69.   \n[44]Krusche N,De Oliveira A P.Characterization of coherent structures in the atmospheric surface layer[J].Boundary-Layer Meteorology, 2004,110(2) :191 -211.   \n[45]Kikuchi T,Chiba O.Step-like temperature fluctuations associated with inverted ramps in a stable surface layer[J].Boundary-Layer Meteorology,1985,31(1） :51-63.   \n[46]Bergstrom H,Gstrom U.Turbulent exchange above a pine forest II: Organized structures[J]. Boundary-Layer Meteorology,1989,49 (3):231-263.   \n[47]Gao W,Shaw R H,Paw UK T.Conditional analysis of temperature and humidity microfronts and ejection/sweep motions within and above adeciduousforestJ].Boundary-Layer Meteorology1992,59 (1):35-57.   \n[48]Qiu J,Paw U K T,Shaw R H.Pseudo-wavelet analysis of turbulence paterns in three vegetation layers[J].Boundary-Layer Meteorology,1995,72(1) :177 - 204.   \n[49］陈炯,郑永光,胡非.用连续子波变换提取城市冠层大气湍流 的相干结构［J].大气科学,2003,27（2）：182－190.［Chen Jiong,Zheng Yongguang,Hu Fei.Isolating the coherent structure in atmospheric turbulence in the rough urban canopy layer by using continuous wavelet transform[J]. Chinese Journal of Atmospheric Sciences,2003,27(2):182-190.]   \n[50]Priestley C HB.Turbulent Transfer in the Lower Atmosphere[M]. Chicago: University of Chicago Press,1959:130.   \n[51]Kaimal J,Businger J. Case studies of a convective plume and a dust devil[J].Journal of Applied Meteorology,1952,9(4）:612-620.   \n[52]Davison D S.The translational velocity of convective plumes[J]. Quarterly Journal of the Royal Meteorological Society,2010,100 (426) :572 -592.   \n[53]Gao W,Li B L.Wavelet analysis of coherent structures at the atmosphere-forest interface[J]. Journal of Applied Meteorology, 1993,32(11) :1 717 -1 725.   \n[54]Robinson SK. Coherent motions in the turbulent boundary layer [J].Annual Review of Fluid Mechanics,1991,23(1）:601-639.   \n[55]Bakas N A,Ioannou PJ,Kefaliakos G E.The emergence of coherent structures in stratified shear flow[J]. Journal of Atmospheric Sciences,2001,58(18):2 790-2 806.   \n[56］李奇龙.大气边界层风的阵性和相干结构——条带和准流向 涡对[D].北京:中国科学院大学,2016:1-10.[Li Qilong. Gustiness and Coherent Structure of Wind in the Atmospheric Boundary Layer-streak and Quasi-stream Vortex Pairs[D].Beijing:Chinese Academy of Sciences,2016:1-10.]   \n[57］桑建国.大气对流边界层中的涡漩结构[J].气象学报,1997, 55(3）:285-296.[Sang Jianguo.Vortex motions in the atmospheric convective boundary layer[J].Acta Meteorologica Sinica, 1997,55(3) :285 -296.]   \n[58］程雪玲,曾庆存,胡非,等.大气边界层强风的阵性和相干结构 [J].气候与环境研究,2007,12（3）:227-243.[Cheng Xueling,Zeng Qingcun,Hu Fei,etal. Gustnessand coherent structure of strong wind in the atmospheric boundary layer[J]. Climatic and Environmental Research,2007,12(3）:227 -243.]   \n[59]StullRB.边界层气象学导论[M].北京:气象出版社,1991： 300 -31O.[Stull R B.An Introduction to Boundary Layer Meteorology[M].Beijing:China Meteorological Press,1991:300-310.]   \n[60]McNaughton.Turbulence structure on the unstable atmospheric surface layer and transition to the outer layer[J].Boundary-Layer Meteorology,2004，112（2）：199，doi:10.1023/B：BOUN. 0000027906.28627.49.   \n[61]Wilczak JM.Large scale eddies in the unstably stratified atmosphericsurface layer.Part I.Velocity and temperature structures [J]. Journal of Atmospheric Sciences,1984,41（24）:3 537 - 3 550.   \n[62]Weijers EP,Vugts HF,Meesters A G C A. The composite horizontal wind field withinconvective structures of the atmospheric surface layer[J]. Journal of Atmospheric Sciences,1995,52（22）： 3 866 -3 878.   \n[63]Shapland T M,McElrone A J,Snyder R L,et al.Structure function analysis of two-scale scalar ramps.Part II. Ramp characteristics and surface renewal flux estimation[J].Boundary-Layer Meteorology, 2012,145(1) :27 -44.   \n[64]Raupach MR,Finnigan JJ,Brunet Y. Coherent eddies and turbulence in vegetation canopies:The mixing-layer analogy[J].Boundary-Layer Meteorology,1996,78(3）:351-382.   \n[65]Shaw R H,Tavangar J,Ward D P.Structure of the Reynolds stress in a canopy layer[J]. Journal of Applied Meteorology,1983,22 (11) :1 922 -1 931.   \n[66] Cava D,Giostra U,Siqueira M,et al. Organised motion and radiative perturbations in the nocturnal canopy sublayer above an evenaged pine forest[J].Boundary-layer Meteorology,2004,112（1）: 129 -157.   \n[67]Cooper DI,Leclerc MY,Archuleta J,et al. Mass exchange in the stable boundary layer by coherent structures[J].Agricultural and Forest Meteorology,2006,136(3）:114-131.   \n[68］郭云谦,袁仁民,罗涛,等.高风速相干结构对通量输送影响的 实验研究[J].大气科学,2012,36（4）:733-743.[Guo Yunqian,Yuan Renmin,Luo Tao,et al. Research on relationships between high-speed coherent structure and turbulence flux[J]. Chinese Journal of Atmospheric Sciences,2012,36(4） :733-743.]   \n[69]Li QL,Cheng XL,Zeng Q C. Gustiness and coherent structure under weak wind period in atmospheric boundary layer[J].Atmos pheric & Oceanic Science Leters,2016,9(1) :52 -59.   \n[70]Chen Hongyan,Chen Jiayi,Hu Fei,et al.The coherent structure of water vapour transfer in the unstable atmospheric surface layer [J].Boundary-Layer Meteorology,2004,111(3）:543-552.   \n[71]Zeri M S,Leonardo Deane A,Nobre C A.Contribution of coherent structures to the buoyancy heat flux under different conditions of stationarity over Amazonian forest sites[J].Atmospheric Science Letters,2015,16(3):228 -233.   \n[72]Feigenwinter C,Vogt R.Detection and analysis of coherent struc tures inurban turbulence[J].Theoretical and Applied Climatology,2005,81(3) :219 - 230.   \n[73]Hagelberg C R, Gamage N K K. Structure-preserving wavelet decompositions of intermitent turbulence[J].Boundary-Layer Mete orology,1994,70(3） :217 -246.   \n[74]Collineau S,Brunet Y.Detection of turbulent coherent motions in a forest canopy.Part II. Time-scales and conditional averages[J]. Boundary-Layer Meteorology,1993,66(1）:49 -73.   \n[75]Monji N. Budgets of turbulent energy and temperature variance in the transition zone from forced to free convection[J]. Journal of the Meteorological Society of Japan,1973,51(2）:133-145.   \n[76]Gibson C H,Friehe C A,Mcconnell S O.Structure of sheared tur bulent fields[J].Physics of Fluids,1977,20(10）:56-67,doi: org/10.1063/1. 861725.   \n[77]Liu JTC. Interactions between Large-Scale Coherent Structures and Fine-Grained Turbulence in Free Shear Flows in Transition and Turbulence[M].New York: Academic Press,1981:167 -214.   \n[78]Brown R A.Longitudinal instabilities and secondary flows in the planetary boundary layer:A review[J].Review of Geophysics, 1980,18(3) :683 -697.   \n[79]Chen W,Novak M D,Black T A,et al.Coherent eddies and temperature structure functions for three contrasting surfaces. Part I. Ramp model with finite microfront time[J].Boundary-Layer Meteorology,1997,84(1) :99 -124.   \n[80]Thomas C,Foken T.Organised motion ina tallspruce canopy: Temporal scales,structures spacing and terrain effects[J]. Boundary-Layer Meteorology,2007,122(1):123-147.   \n[81]Barnard JC,RileyJJ. Direct Numerical Simulation of Intermittent Turbulence in the Very Stable Ekman Layer[R].Netherlands: Wageningen University,2002.   \n[82]王发民.湍流中的相干结构[J].中国科学基金,1990,4（1）;29 -37.[Wang Famin. Coherent structure in turbulence[J].China Science Foundation,1990,4（1）:29-37.]   \n[83］张静红.近地表的流场结构及其对沙尘输运的影响[D].兰 州：兰州大学,2013:1-50.［Zhang Jinghong.Near-surface Flow Field Structure and Its Impact on Sand and Dust Transport[D]. Lanzhou:Lanzhou University,2013:1-50.]   \n[84］张君霞,黄倩,田文寿,等.对流冷池对黑风暴沙尘抬升和传输 影响的大涡模拟研究[J].高原气象,2018,37（3）:850 －862. [Zhang Junxia,Huang Qian,Tian Wenshou,et al.Large eddy simulation study of effects of convective cold pools on dust-uplift and transportation of black storm[J].Plateau Meteorology,2018,37 (3):850-862.]   \n[85］陈家宜,范邵华,赵传峰,等.涡旋相关法测定湍流通量偏低的 研究[J].大气科学,2006,30（3）：423-432.[Chen Jiayi,Fan Shaohua,Zhao Chuanfeng,et al.The underestimation of the turbulent fluxes in eddy correlation techniques[J]. Chinese Journal of Atmospheric Sciences,2006,30(3）:423 -432.]   \n[86］赵建华,王介民,张强,等.半干旱区湍流相干结构对地表能量 不平衡问题的解决[J].中国科技纵横,2019,306(6)：248- 256.[Zhao Jianhua,Wang Jiemin,Zhang Qiang,et al.Solution of surface energy imbalance by coherent structure in semi-arid area [J].China Science & Technology Panorama Magazine,2019,306 (6):248 -256.]   \n[87]Hussain A F.Coherent structures and turbulence[J]. Journal of Fluid Mechanics,1986,173(1）:303-356.   \n[88]Lappen C,David A,Randall D A. Using idealized coherent structures to parameterize momentum fluxes in a PBL mass-flux model [J].Journal of Atmospheric Sciences,2005,62（8）:2 829 - 2 846.   \n[89］姜楠.湍流边界层多尺度结构热线与PIV测量(第二讲)[R]. 2013 年北航\"流体力学实验技术与分析方法讲习班”,2013： 123－136.[Jiang Nan. Hotline and PIV Measurement of Multiscale Structure in Turbulent Boundary Layer-lecture 2[R].2013 Beijing Aerospace University Workshop on Fluid Dynamics Experimental Techniques and Analytical Methods,2013;123-136.]   \n[90］刘建华.人造发卡涡对湍流边界层相干结构的影响[D].天 津：天津大学,2009:19.[Liu Jianhua.Effect of Artificial Hairpin Vortex on Coherence Structure in Turbulent Boundary Layer[D]. Tianjin:Tianjin University,2009:19.]   \n[91）刘中秋,王强,李宝宽,等.连铸中间包湍流流动及夹杂物分布 的大涡模拟[J].东北大学学报（自然科学版）,2012,339（5）： 669-672.[Liu Zhongqiu, Wang Qiang,Li Baokuan,et al. Large eddy simulation for turbulent flow and inclusion distribution in continuous casting tundish[J]. Journal of Northeastern University （Natural Science）,2012,339(5）:669-672.]   \n[92］苗世光,蒋维楣.森林冠层和森林边界层大涡模拟[J].地球物 理学报,2004,47(4）:597-603.[Miao Shiguang,Jiang Weimei. Large eddy simulation of turbulent flow in the forestcanopy and the forest boundary layer[J].Chinese Journal of Geophysics,2004,47 (4) :597 -603.]   \n[93]Nakanishi M,ShibuyaR,Ito J,et al.Large-eddy simulation of a residual layer:Low-level jet,convective rolls,and Kelvin-Helmholtz instability[J].Journal of Atmospheric Sciences,2014,71（12）： 4 473 -4 491.   \n[94］张兆顺,崔桂香,许春晓.湍流大涡数值模拟的理论和应用 [M].北京：清华大学出版社,2008;54-59.[Zhang Zhaoshun, Cui Guixiang,Xu Chunxiao.Theory and Application of Numerical Simulation of Turbulent Large Eddy[M].Beijing:Qsinghua University Press,2008:54-59.]   \n[95］周恒,陆晶根.湍流边界层近壁区单个相干结构的模拟[J].中 国科学（A 辑）,1999,29（4）:366-372.[Zhou Heng,Lu Jinggen.Simulations of single coherent structure in the near wall region of turbulent boundary layer[J].Science in China（Series A),1999,29(4) :366 -372.]   \n[96]陆昌根.湍流边界层近壁区多个相干结构的数值模拟[J].计 算物理,2002,19(5）:383-385.[Lu Changgen.Numerical simulation of many-coherent structures in the wall region of turbulent boundary layer[J].Chinese Journal of Computational Physics, 2002,19(5) :383 -385.]   \n[97]Thomas C,Foken T.Dection of long-term coherent exchange over spruce forest using wavelet analysis[J].Theoretical and Applied Climatology,2005,80(2）:91-104.   \n[98]Wang J,Song J,Huang Y,et al.Application of the Hilbert-Huang transform to the estimation of air-sea turbulent fluxes[J].Boundary-Layer Meteorology,2013,147(3）:553-568.   \n[99]Martins LG N,Miller SD,Acevedo O C. Using empirical mode decomposition to filter out non-turbulent contributions to air-sea fluxes[J].Boundary-Layer Meteorology,2017,163(1）:123-141.   \n[100]全利红,胡非,程雪玲.用小波系数谱方法分析湍流湿度脉动 的相干结构[J].大气科学,2007,31（1)：57-63.［Quan Lihong,Hu Fei,Cheng Xueling.Analysing coherent structures of humidity time series by the spectral analysis of the wavelet transform coefficients[J].Chinese Journal of Atmospheric Sciences,2007,31 (1):57 -63.]   \n[101]张斌,王彤,谷传纲,等.基于小波和双谱分析的湍流相干结构 辨识[J].农业机械学报,2009,40（11）:203-207.[Zhang Bin, Wang Tong,Gu Chuangang,et al.Identification of turbulent coherent structures based on wavelet and bi-spectrum analysis[J]. Transactions of the Chinese Society for Agricultural Machinery, 2009,40(11):203-207.]   \n[102]汪健生,尚晓东,舒玮.湍流信号的三项分解[J].力学学报, 1997,29(5）:519-524.[Wang Jiansheng,Shang Xiaodong,Shu Wei.Trinomial decomposition of turbulence signals[J]. Chinese Journal of Theoretical and Applied Mechanics,1997,29（5）:519 -524.]   \n[103]Li X,Hu F,Pu Y.Identification of coherent structures of turbulence at the atmospheric surface layer[J].Advances in Atmospheric Sciences,2002,19(4) :687 -698.   \n[104]蔡树棠,麻柏坤.大小涡旋分开考虑的模式理论[J].应用数学 和力学,1987,8（10）:849-858.[Cai Shutang,Ma Baikun.A new turbulence model with the separate consideration of large and small vortexes[J].Applied Mathematics and Mechanics,1987,8 (10):849 -858.]   \n[105] Lewalle J,Delville J,Bonnet JP.Decomposition of mixing layer turbulence into coherent structures and background fluctuations [J].Flow,Turbulence and Combustion,2000,64(4）:301 -328.   \n[106]胡非.大气边界层湍流涡旋结构的小波分解[J].气候与环境 研究,1998,3(2）:97-105.[Hu Fei.Atmospheric boundary layer eddy structure identification by orthonormal wavelet expansion[J]. Climatic and Environmental Research,1998,3（2):97-105.]   \n[107] Katul G,Vidakovic B.Identification of low-dimensional energy containing/flux transporting eddy motion in the atmospheric surface layer using wavelet thresholding methods[J]. Journal of Atmospheric Sciences,1998,55(3） :377-389. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Research Progress on Turbulent Coherent Structure in Atmospheric Boundary Layer ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Jian-hua’， ZHANG Feng²，LIANG Yun³，LIU Shi-xiang4 (1.Gansu ProvinceKeyLaboratoryofArid ClimateChangeand Reducing Disaster（China Meteorological Administration）， Lanzhou InstituteofArid Meteorology,China Meteorological Administration,Lanzhou73oo2O,Gansu,China; 2.Qingyang Meteorological Bureau,Qingyang 745ooo,Gansu,China; 3．Northwest Regional Climate Center,Lanzhou 73Oo20,Gansu,China; 4．Gansu Professional Meteorological Observatory,Lanzhou 73oo2O,Gansu,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The discoveryof turbulent coherent structures is a major turning point in turbulence research.It is of great significance to understand the turbulence and the transport of matter,momentum and energy.In this paper,the discovery process was reviewed at first,and then the morphological characteristics,composition structure,flux contributionand other characteristics of turbulent coherent structure in atmospheric boundarylayer were summarized,the causes were expounded,the typical formationmechanisms were explained,the application in practice wasdiscused, and the detection methods were summarized.Finally,the research trend in the future was prospected. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words:atmospheric boundary layer；turbulent coherent structure；characteristic； formation cause；application；detecting method ",
+        "page_idx": 11
+    }
+]

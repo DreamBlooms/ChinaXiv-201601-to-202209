@@ -1,0 +1,539 @@
+[
+    {
+        "type": "text",
+        "text": "M. Ablikim $^ { 1 }$ , M. N. Achasov $^ { 9 , d }$ ,S. Ahmed $^ { 1 4 }$ , M. Albrecht $^ 4$ ,A. Amoroso $^ { 5 3 A , 5 3 C }$ ,F.F.An1,Q.An50,40，J.Z. Bai1,Y.Bai39，   \nO. Bakina $^ { 2 4 }$ ,R. Baldini Ferroli $2 0 A$ ,Y. Ban $^ { 3 2 }$ ,D. W. Bennett $^ { 1 9 }$ ,J. V. Bennett5，N.Berger23，M.Bertani20A，D.Betoni21A   \nJ. M. Bian $^ { 4 7 }$ ,F.Bianchi $^ { 5 3 A , 5 3 C }$ E.Boger $^ { 2 4 , b }$ I. Boyko $^ { 2 4 }$ ,R.A. Briere，H.Caib5X.Cai $^ { 1 , 4 0 }$ ，O.Cakir43A，A. Calcaterra20A, G. F. Cao $^ { 1 , 4 4 }$ , S. A. Cetin $^ { 4 3 B }$ , J. Chai $^ { 5 3 C }$ , J. F. Chang $^ { 1 , 4 0 }$ , G. Chelkov $^ { 2 4 , b , c }$ ,G.Chen1,H.S.Chen1,44’J.C.Chen, M. L. Chen $^ { 1 , 4 0 }$ , S. J. Chen $^ { 3 0 }$ , X. R. Chen $^ { 2 7 }$ ,Y.B.Chen $^ { 1 , 4 0 }$ , X. K. Chu $^ { 3 2 }$ G.Cibinett2A,H.L.Di40 ，J.P. Dai35,h,   \nA. Dbeyssi $^ { 1 4 }$ D.Dedovich $^ { 2 4 }$ Z.Y.Deng'A.Denig23,LDensko $^ { 2 4 }$ , M. Destefanis $^ { 5 3 A , 5 3 C }$ F.De Mori53A.53CY.Ding28 DC. Dong J. Fang $^ { 3 1 }$ $^ { 1 , 4 0 }$ J.Dong ,S.S. Fang ,L.Y.Dong $^ { 1 , 4 4 }$ X.Fang $^ { 1 , 4 4 }$ $^ { 5 0 , 4 0 }$ M. Y. Dong Y.Fang1,R.Farinell $^ { 1 , 4 0 , 4 4 }$ ,O.Dorjkhaidav22Z.L.Dou30,S.X.Du57,P.F.Duan, $^ { 2 1 A , 2 1 B }$ ,LFava $^ { 5 3 B , 5 3 C }$ ,S.Fegan $^ { 2 3 }$ ,F.Feldbauer23，   \nG. Felic $2 0 A$ C.Q.Feng $^ { 5 0 , 4 0 }$ ,E. Fioravanti $^ { 2 1 A }$ ,M.Fritsch $^ { 2 3 , 1 4 }$ ,C. D.Fu1,Q. Gao1, X L. Gao $^ { 5 0 , 4 0 }$ ,Y. Gao $^ { 4 2 }$ Y. G. Gao6,   \nZ. Ga050,40' 1. Garzia $^ { 2 1 A }$ ,K. Goetzen $^ { 1 0 }$ L. Gong $^ { 3 1 }$ W. X. Gong $^ { 1 , 4 0 }$ W. Gradl $^ { 2 3 }$ ,M. Greco534,53CM.H.Gu $^ { 1 , 4 0 }$ ,S.Gu $^ { 1 5 }$ ，， Y. T. Gu12, A. Q. Guo1,L. B. Guo $^ { 2 9 }$ , R. P. Guo1, Y. P. Guo $^ { 2 3 }$ ,Z. Haddadi $^ { 2 6 }$ ,S. Han $^ { 5 5 }$ ,X. Q. Hao $^ { 1 5 }$ ,F.A. Harris45,   \nK. L.He T.Hu1,40.44,Y. Hu $^ { 1 , 4 4 }$ x.Q.He $^ { 1 }$ $^ { 4 9 }$ ,G.S.Huang ,F.H. Heinsius4,T.Held $^ { 5 0 , 4 0 }$ ,J.S.Huang15,X.T.Huang34,X.Z.Huang $^ 4$ ,Y.K.Heng1,4044,T.Holtman $^ 4$ ,Z. L. Hou $^ { 3 0 }$ , Z. L. Huang $^ { 1 }$ ,C. Hu $^ { 2 8 }$ T.Hussain52, $^ { 2 9 }$ ,H. M. Hu $^ { 1 , 4 4 }$ ，   \nW. Ikegami Andersson $^ { 5 4 }$ ,Q.Ji1,Q.P.Ji $^ { 1 5 }$ ,X.B.Ji $^ { 1 , 4 4 }$ X.L.Ji $^ { 1 , 4 0 }$ , X. S. Jiang $^ { 1 , 4 0 , 4 4 }$ ,X. Y. Jiang31, J. B. Jiao $^ { 3 4 }$ ,Z. Jiao $^ { 1 7 }$ D. P.Jin $^ { 1 , 4 0 , 4 4 }$ , S. Jin $^ { 1 , 4 4 }$ Y.Jin $^ { 4 6 }$ ,T. Johansson $^ { 5 4 }$ ,A. Julin $^ { 4 7 }$ , N. Kalantar-Nayestanaki $^ { 2 6 }$ X. L. Kang1\\*, X.S. Kang31,   \nM.Kavatsyuk $^ { 2 6 }$ B. C. Ke $^ { 5 }$ , T. Khan $^ { 5 0 , 4 0 }$ , A. Khoukaz $^ { 4 8 }$ ,P.Kiese $^ { 2 3 }$ R. Kliemt10,L. Koch $^ { 2 5 }$ ,O. B. Kolcu $^ { 4 3 B , f }$ ,B.Kopr4   \nM. Kornicer45, M. Kuemmel $^ 4$ ,M. Kuhlmann4,A. Kupsc $^ { 5 4 }$ ,W. Kuhn $^ { 2 5 }$ , J. S. Lange $^ { 2 5 }$ ,M. Lara19, P.Larin $^ { 1 4 }$ ,L.Lavezzi $^ { 5 3 C }$ ，   \nH. Leithoff23, C.Leng $. 5 3 C$ ,C.Li $^ { 5 4 }$ ,Cheng Li $^ { 5 0 , 4 0 }$ ,D. M. Li $^ { 5 7 }$ ,F.Li $^ { 1 , 4 0 }$ F.Y.Li $^ { 3 2 }$ G.Li $^ { 1 }$ ,H.B.Li $^ { 1 , 4 4 }$ ,H.J.Li $^ { 1 }$ ,J. C. Li $^ 1$ ， X.LIL34,X.N.Li Jin Li33K.Li $^ { 1 3 }$ ,K.Li $^ { 1 , 4 0 }$ X.QLi $^ { 3 4 }$ K.J.Li $^ { 3 1 }$ $^ { 4 1 }$ Z.B.Li LeiLi $^ 3$ $^ { 4 1 }$ ,P.L.Li H.Liang504Y.F.Liang37,YT.Liang25GLia $^ { 5 0 , 4 0 }$ P. R. Li $^ { 4 4 , 7 }$ ,Q.Y.Li $^ { 3 4 }$ T.Li $^ { 3 4 }$ ,W. D.Li $^ { 1 , 4 4 }$ $^ { 1 1 }$ D.X.Lin14 ,W.G.Li1, B.Liu35.hyB.J.Liu $^ { 1 }$ C. x.Liu $^ { 1 }$ ,D. Liu $^ { 5 0 , 4 0 }$ ,F. H. Liu36,Fang Liu,FengLiu $^ 6$ ,H. B. Liu $^ { 1 2 }$ H.H.Liu $^ { 1 6 }$ ,H. H. Liu12 H.M.Liu144,J.B.Liu $^ { 5 0 , 4 0 }$ ,J.P.Liu55,J.Y.Liu $^ { 1 }$ ,K.Liu $^ { 4 2 }$ K Y.Liu $^ { 2 8 }$ ,KeLiu $^ 6$ ,L. D. Liu $^ { 3 2 }$ P.L.Liu $^ { 1 , 4 0 }$ Q.Liu44,   \nS. B. Liu $^ { 5 0 , 4 0 }$ ,X.Liu $^ { 2 7 }$ ,Y. B. Liu $^ { 3 1 }$ ,Z. A.Liu $^ { 1 , 4 0 , 4 4 }$ , Zhiqing Liu $^ { 2 3 }$ ,Y.F. Long32, X.C. Lou $^ { 1 , 4 0 , 4 4 }$ ,H. J. Lu $^ { 1 7 }$ J. G. Lu $^ { 1 , 4 0 }$ ，   \nY. Lu¹, Y. P.'Lu $^ { 1 , 4 0 }$ ,C. L. Luo $^ { 2 9 }$ ,M. X. Luo $^ { 5 6 }$ ,X. L. Luo $^ { 1 , 4 0 }$ ,X. R. Lyu $^ { 4 4 }$ ,F. C. Ma $^ { 2 8 }$ ,H. L.Ma $^ { 1 } , ^ { 1 }$ L. L.Ma $^ { 3 4 }$ ,M. M.Ma $, ^ { 1 }$ 5 Q.M. Ma1,T.Ma $, ^ { 1 }$ X. N.Ma $^ { 3 1 }$ , x. Y. Ma $^ { 1 , 4 0 }$ Y.M. Ma $^ { 3 4 }$ , F. E. Maas $^ { 1 4 }$ , M. Maggiora $^ { 5 3 A , 5 3 C }$ , A. S. Magnoni $2 0 B$ ，   \nQ. A. Malik52,Y J. Mao $^ { 3 2 }$ ,Z. P. Mao¹, S. Marcello $^ { 5 3 A , 5 3 C }$ ,Z. X. Meng $^ { 4 6 }$ , J. G. Messchendorp $^ { 2 6 }$ ,G.Mezzadri $^ { 2 1 B }$ , J. Min1,40, T.J.Min1,R.E.Mitchel19,X.H.Mo $^ { 1 , 4 0 , 4 4 }$ Y. J.Mo $^ 6$ ,C. MoralesMorales14，G.Morelo $2 0 A$ , N. Yu. Muchnoi $^ { 9 , d }$ ，   \nH. Muramatsu $^ { 4 7 }$ ,A. Mustafa4, Y. Nefedov $^ { 2 4 }$ ,F. Nerling10,1.B.Nikolaev $^ { 9 , d }$ , Z. Ning $^ { 1 , 4 0 }$ ，S. Nisar $^ { 8 }$ S. L. Niu $^ { 1 , 4 0 }$ ,X. Y.'Niu $^ { 1 }$ ， S. L. Olsen $^ { 3 3 }$ , Q. Ouyang $^ { 1 , 4 0 , 4 4 }$ ,S. Pacetti $2 0 B$ ,Y. Pan $^ { 5 0 , 4 0 }$ , M. Papenbrock $^ { 5 4 }$ ,P. Patteri $2 0 A$ , M. Pelizaeus $^ 4$ ，   \nJ. Pellegrino $^ { 5 3 A , 5 3 C }$ , H. P. Peng $^ { 5 0 , 4 0 }$ ,K. Peters $^ { 1 0 , g }$ , J. Pettersson $^ { 5 4 }$ , J. L. Ping29，R.G.Ping $^ { 1 , 4 4 }$ ,R. Poling $^ { 4 7 }$ , V. Prasad $^ { 5 0 , 4 0 }$ ， H. R. Qi2, M. Qi $^ { 3 0 }$ ,S. Qian $^ { 1 , 4 0 }$ ,C. F.Qiao $^ { 4 4 }$ ,N. Qin $^ { 5 5 }$ ，X.Qin $^ 4 _ { . }$ , X. S. Qin $^ { 1 }$ ,Z. H.Qin $^ { 1 , 4 0 }$ ,J.F. Qi $^ { 1 }$ ,K.H. Rashid $^ { 5 2 , i }$ ， C.F.Redmer $^ { 2 3 }$ , M. Richter $^ 4$ , M. Ripka $^ { 2 3 }$ ,M. Rolo $^ { 5 3 C }$ G. Rong $^ { 1 , 4 4 }$ Ch. Rosner14, X. D. Ruan $^ { 1 2 }$ , A. Sarantsey ${ } ^ { 2 4 , e }$ ， M.Savrie $2 1 B$ ,C. Schnier $^ 4$ , K. Schoenning $^ { 5 4 }$ ,W.Shan $^ { 3 2 }$ ,M. Shao $^ { 5 0 , 4 0 }$ ,C. P. Shen2, P. X. Shen $^ { 3 1 }$ , X. Y. Shen $^ { 1 , 4 4 }$ ，   \nH.Y.Sheng1,J.J. Song34,W.M.Song $^ { 3 4 }$ , X. Y. Song1, S. Sosio $^ { 5 3 A , 5 3 C }$ ,C. Sowa4, S. Spataro $^ { 5 3 A , 5 3 C }$ ,G. X.Sun $\\cdot ^ { 1 }$ ,J.F.'Sun15, L. Sun55,S. S. Sun $^ { 1 , 4 4 }$ ,X.H.Sun1, Y. J.Sun $^ { 5 0 , 4 0 }$ ,Y.K Sun $^ { 5 0 , 4 0 }$ Y. Z. Sun1,Z. J. Sun $^ { 1 , 4 0 }$ , Z. T. Sun $^ { 1 9 }$ ,C. J. Tang37,   \nG.Y.Tang1X.Tang1,ITapan $^ { 4 3 C }$ , M.Tiemens $^ { 2 6 }$ , B.T.Tsednee $^ { 2 2 }$ ,I. Uman $^ { 4 3 D }$ ,G. S. Varner $^ { 4 5 }$ B. Wang1,B. L.Wang44 D. Wang32.D.Y.Wang2,Dan Wang44K.Wang $^ { 1 , 4 0 }$ ,L.L.Wang1,L.S.Wang1,M.Wang34,P.Wang1,P.L.Wang1,   \nW.P.Wang5040X.F.Wang42,Y.Wang8,Y.D.Wang14.Y.F.Wang14044Y.Q.Wang $^ { 2 3 }$ z.Wang $^ { 1 , 4 0 }$ Z.G. Wang $^ { 1 , 4 0 }$ ， Z. H. Wang $^ { 5 0 , 4 0 }$ Z.Y.Wang1,Z.Y.Wang1,T.Weber23，D.H.Wei11,J.H.Wei31,P.Weidenkaf $^ { 2 3 }$ ，S.P.Wen1, U. Wiedner $^ 4$ M. Wolke $^ { 5 4 }$ ,L. H. Wu1, L.J. Wu $^ { 1 }$ Z.Wu $^ { 1 , 4 0 }$ ,L. Xia $^ { 5 0 , 4 0 }$ Y.Xia18,D. Xiao,H. Xiao $^ { 5 1 }$ ,Y.J. Xiao1,   \nXxP5Xu38,LYan Z.J. Xiao29,Y.G.Xie $^ { 5 3 A , 5 3 C }$ $^ { 1 , 4 0 }$ W.B.Yan ,Y.H. Xie $^ { 5 0 , 4 0 }$ $^ 6$ X. A. Xiong1, Q. L. Xiu ,W.ClYan26Y.HYan $^ { 1 , 4 0 }$ $^ { 1 8 }$ G.F. Xu1,JJ Xu H.JYang $^ { 3 5 , h }$ H.X.Yang1LIYang $^ { 1 }$ L. Xu $^ { 1 }$ ,Q.J. Xu $^ { 5 5 }$ $^ { 1 3 }$ YHYang ,Q. N. Xu44, $^ { 3 0 }$ ， Y.X. Yang11,M.Ye $^ { 1 , 4 0 }$ ,M.H.Ye $^ 7$ ,J.H.YmtZ.Y.YouB.X.Yu $^ { 1 , 4 0 , 4 4 }$ c.x.Yu $^ { 3 1 }$ J.S.Yu $^ { 2 7 }$ C. Z. Yuan144,   \nY. Yuan1, A Yuncu $^ { 4 3 B , a }$ A.A.Zafar $^ { 5 2 }$ ,Y. Zeng18, Z. Zeng $^ { 5 0 , 4 0 }$ ,B. X. Zhang1, B. Y. Zhang $^ { 1 , 4 0 }$ ,C. C. Zhang1, D. H. Zhang1   \nH.H. Zhang,H.Y.Zhang $^ { 1 , 4 0 }$ ,J.Zhang,J.L.Zhang,J.QZhang,J.WZhang4044JYZhang,J.ZZan44   \nK. Zhang1,L. Zhang $^ { 4 2 }$ ,S.Q.Zhang31,X.Y.Zhang34,Y.Zhang1,Y.Zhang1,Y.H.Zhang $^ { 1 , 4 0 }$ ,Y.T.Zhang5040，YuZhang44   \nZ. H. Zhang6, Z. P. Zhang $^ { 5 0 }$ , Z. Y. Zhang $^ { 5 5 }$ ,G. Zhao1, J.W. Zhao $^ { 1 , 4 0 }$ , J. Y. Zhao1,J. Z. Zhao $^ { 1 , 4 0 }$ ,Lei Zhao50,40,Ling Zhao $^ 1$ ，， M. G. Zhao $^ { 3 1 }$ ,Q. Zhao $^ { 1 }$ ,S. J. Zhao $^ { 5 7 }$ ,T. C. Zhao $^ { 1 }$ ,Y. B.Zhao $^ { 1 , 4 0 }$ , Z. G. Zhao $^ { 5 0 , 4 0 }$ ,A. Zhemchugov $^ { 2 4 , b }$ ,B. Zheng51,14, J. P. Zheng $^ { 1 , 4 0 }$ W. J. Zheng $^ { 3 4 }$ ,Y.H. Zheng $^ { 4 4 }$ ,B. Zhong $^ { 2 9 }$ ,L.Zhou $^ { 1 , 4 0 }$ , X. Zhou $^ { 5 5 }$ ,X. K. Zhou $^ { 5 0 , 4 0 }$ ,x. R. Zhou $^ { 5 0 , 4 0 }$ ， X. Y. Zhou $^ { 1 }$ ,Y. X. Zhou $^ { 1 2 }$ ,J.Zhu $^ { 4 1 }$ ,K. Zhu $^ { 1 }$ ,K. J. Zhu $^ { 1 , 4 0 , 4 4 }$ S. Zhu1,S.H. Zhu $^ { 4 9 }$ ,X. L. Zhu $^ { 4 2 }$ , Y. C. Zhu $^ { 5 0 , 4 0 }$ ， Y.S. Zhu $^ { 1 , 4 4 }$ , Z. A. Zhu $^ { 1 , 4 4 }$ , J. Zhuang $^ { 1 , 4 0 }$ ,B. S. Zou $^ 1$ , J. H. Zou1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(BESIII Collaboration) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ { 9 }$ G.1.DuaKer InsUuuie OJ Ivuclear rnysics SD KAS (DIIvr),INovostOrsK o3UuyU,Kussta （204 $^ { 1 0 }$ GSI HelmholtzcentreforHeayIonResearchGmbH,D-64291Darmstadt,Germany $^ { 1 1 }$ Guangri NormalUniversity，Guilin54104，People'sRepublicofina $^ { 1 2 }$ Guangri UniversityNanning530,People'sRepublicofCin （204号 $^ { 1 3 }$ Hangzhou Normal University，Hangzhou 310036,People's Republic ofChina （ $^ { 1 4 }$ Helmoltztec4 （号 $^ { 1 5 }$ Henan NoralUvesityining4530eople'sepblicofin （204号 $^ { 1 6 }$ Henan UniesityfiecedTooongelesepubca （214号 $^ { 1 7 }$ HuangshanColege,，Huangshan2450，People'sRepublicof China $^ { 1 8 }$ HunanUniesityshespbcf $^ { 1 9 }$ Indiana UnesityooingtonaU (A)INFNLbratorioalidiFcatFrscataly; (B)dUnerstyofrgia,-g Italy （204号 $^ { 2 1 }$ (A)INFNSzionedi Ferrara,I-422,FeraaIaly; (B)UnesityofFerrara,-422,FerrraIaly $^ { 2 2 }$ InstituteofsicsdeoloyeaceAe.54Ur3o （20 $^ { 2 3 }$ JohannesGuteitfr45 $^ { 2 4 }$ Joint InstituteforNucearResearch98DubaMocowegios （ $^ { 2 5 }$ Justus-LiebUseteeI.Itecuffn16eG $^ { 2 6 }$ KVI-CARTUersityofGrongen97AA GronngenheNth 12 $^ { 2 7 }$ Lanzhou UmvesityLazhou0oPeople'sepublicfC （2 $^ { 2 8 }$ Liaoning Univesityang6,eople'sepublcofn （ $^ { 2 9 }$ Nanjng NoralUvesityng,eople'sRepublcfin $^ { 3 0 }$ Nanjng UversityNanjng2103，Peple's RepublicofChina （20 $^ { 3 1 }$ Nankai Universityianjn1,People'sRepublicofCin （20 $^ { 3 2 }$ Peking Universityejieople'sepubcfi 1 $^ { 3 3 }$ Seoul Natiol Ueityl （2 $^ { 3 4 }$ Shandong UniesityJa25Peole'sepubcfi （ $^ { 3 5 }$ Shanghai JiaoTongUniversityShanghai 240People'sRepublicofina 3 $^ { 3 6 }$ Shanti UniversityTyun0oPeople'sRepubicin （204号 $^ { 3 7 }$ Sichuan University，Chengdu61006,People'sRepublcofCina 38Soochow University,Suzhou 21506,People's Repubcof Chna 39Southeast UnivestyNag20Peole'sepubcofCin $^ { 4 0 }$ StateKeyLfedeele'sbn $^ { 4 1 }$ Sun Yat-SenUniversityGuangzhou51075,People'sRepublicofia $^ { 4 2 }$ Tsinghua Unversityen84eople'sepub   \n43 (A)AnkaraUsityoganrakey;(stnblgiUesityEyle; (C)Uludag University6o59 Bursa,Turkey; (D)Near EastUniversityNicosia,North yprus,Mersin10urkey （ $^ { 4 4 }$ UniversityofChineseAcademyofSciencesBeng09，People'sRepublicofCina $^ { 4 5 }$ UnivesityofaHoluluHaua68U 46 Universityfa5e'sepun 47Univesitf $^ { 4 8 }$ UniversityofMesterWelStr9uenste （ $^ { 4 9 }$ University ofScienceand Techology Laong,Anshan114051People'sRepublicofChina $^ { 5 0 }$ Universityofeedoofefeesubc UniversityofSouth China,Hengyang 42101People's Republicofina 52 Universityof thePunjab,Lahore-54590,Pakistan   \n3 (A)Universityofurn-5urialy;)UisityfEstePidmont51lessndriaIaly; () I-10125, Turin,Italy （ $^ { 5 4 }$ Uppsala UniversityBo516SE-75120 Uppsalaeden 55Wuhan University， Wuhan 43072,People's Republicof China 56 ZhejiangUniversityHngzhou307People'sRepublicofina $^ { 5 7 }$ ZhengzhouUesitygo5eeeb ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Based ona sample of $1 . 3 1 \\times 1 0 ^ { 9 }$ （ $J / \\psi$ events collected with the BESIII detector,the matrix elements for the decays $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ and $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ are determined using 351,016 $\\eta ^ { \\prime }  ( \\eta  \\gamma \\gamma ) \\pi ^ { + } \\pi ^ { - }$ and 56,249 $\\eta ^ { \\prime }  ( \\eta  \\gamma \\gamma ) \\pi ^ { 0 } \\pi ^ { 0 }$ events with background levels less than $1 \\%$ . Two commonly used representations are used to describe the Dalitz plot density.We find that an assumption of a linear amplitude does not describe the data well.A small deviation of the obtained matrix elements between $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ and $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ is probably caused by the mass difference between charged and neutral pions or radiative corrections.No cusp structure in $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ is observed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:13.66.Bc,14.40.Be ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The $\\eta ^ { \\prime }$ meson is well established and its main decay modes are fairly well known [1]. However, $\\eta ^ { \\prime }$ decay dynamics remains a subject of extensive theoretical studies aiming at extensions of the chiral perturbation theory (ChPT).The two dominant hadronic decays, $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ and $\\eta ^ { \\prime } \\ \\to \\ \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ (called charged decay mode and neutral decay mode throughout the text,respectively),are believed to be an ideal place to study $\\pi \\pi$ and $\\eta \\pi$ scattering [2],which may lead to a variation in the density of the Dalitz plot.Several extensions of the ChPT framework have been applied to investigate the Dalitz plot of $\\eta ^ { \\prime }  \\eta \\pi \\pi$ [3-6]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In experimental analyses， the Dalitz plot for the charged decay mode is usually described by the following two variables: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = \\frac { \\sqrt { 3 } ( T _ { \\pi ^ { + } } - T _ { \\pi ^ { - } } ) } { Q } , Y = \\frac { m _ { \\eta } + 2 m _ { \\pi } } { m _ { \\pi } } \\frac { T _ { \\eta } } { Q } - 1 .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the neutral decay mode, the Dalitz plot has twofold symmetry due to the two $\\pi ^ { 0 } \\mathrm { s }$ in the final state. Hence, the variable $X$ is replaced by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = \\frac { \\sqrt { 3 } \\vert T _ { \\pi _ { 1 } ^ { 0 } } - T _ { \\pi _ { 2 } ^ { 0 } } \\vert } { Q } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here, $T _ { \\pi }$ and $T _ { \\eta }$ denote the kinetic energies of pion and $\\eta$ in the $\\eta ^ { \\prime }$ rest frame, $Q = m _ { \\eta ^ { \\prime } } - m _ { \\eta } - 2 m _ { \\pi }$ ，and $m _ { \\pi }$ ， $m _ { \\eta }$ ， and $m _ { \\eta } ^ { \\prime }$ are the masses of pion, $\\eta$ ，and $\\eta ^ { \\prime }$ ，respectively. Generally, the decay amplitude squared is parameterized as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| M ( X , Y ) | ^ { 2 } = N ( 1 + a Y + b Y ^ { 2 } + c X + d X ^ { 2 } + \\dots ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "which is the so-called general representation. Here $a$ ， $b$ $c$ and $d$ are free parameters and $N$ is a normalization factor.The terms with odd powers in $X$ are forbidden due to charge conjugation symmetry in $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ and the wave function symmetry in $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ . By considering the isospin symmetry, the matrix elements for the charged and neutral decay modes should be the same. However,a small discrepancy,observed in previous measurements [1],is expected due to the mass difference between the charged and neutral pion,or due to radiative corrections for the $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ mode [7]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A second parameterization for the decay amplitude squared used by previous experiments assumes a linear amplitude in $Y$ and keeps the polynomial expansion in $X$ ， ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| M ( X , Y ) | ^ { 2 } = N ( | 1 + \\alpha Y | ^ { 2 } + c X + d X ^ { 2 } + \\dots ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "the so-called linear representation, where $\\alpha$ is a complex number. The real part of $\\alpha$ gives the linear term in $Y$ for the Dalitz plot density, $a = 2 \\Re ( \\alpha )$ ,and the quadratic term is $b = \\Re ( \\alpha ) ^ { 2 } + \\Im ( \\alpha ) ^ { 2 }$ ，where $\\Re ( \\alpha )$ and $\\Im ( \\alpha )$ are the real and imaginary parts of $\\alpha$ ,respectively. The two representations are equivalent if $b > a ^ { 2 } / 4$ ，i.e., $b$ should beat least larger than zero.Therefore,a negative value for $b$ demonstrates that the ansatz of Eq.(4) does not describe the data. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experimentally, the decays of the $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ and $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ have only been explored with limited statistics so far. The matrix elements for $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ have been studied by the CLEO (using only Eq.(4)）[8], VES[9] and BESIII [1O] Collaborations. The most recent measurement of $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ is from the GAMS- $4 \\pi$ experiment [11],complementing older results reported by the GAMS-20o0 Collaboration [12]. Discrepancies in the Dalitz plot parameters both for the charged and neutral decay channels are obvious from those experiments. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In addition, the Dalitz plot for $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ is expected to be affected by a cusp due to the $\\pi ^ { + } \\pi ^ { - }$ mass threshold. The size of this effect is predicted to be about $8 \\%$ [7]. A analogous cusp has been observed in $K ^ { + }  \\pi ^ { + } \\pi ^ { 0 } \\pi ^ { 0 }$ [13] decay and allows to determinate the $\\pi \\pi$ （204号 $S$ -wave scattering lengths [14-17]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The dynamics of the decays $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ and $\\eta ^ { \\prime } $ $\\eta \\pi ^ { 0 } \\pi ^ { 0 }$ is studied in this work using $\\eta ^ { \\prime }$ mesons produced in $J / \\psi  \\gamma \\eta ^ { \\prime }$ decay. The present data sample of $1 . 3 1 \\times 1 0 ^ { 9 }$ （204号 $J / \\psi$ events accumulated with the BESIII detector is about 5 times of that used in the previous BESIII analysis [10]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. DETECTORANDMONTECARLO SIMULATION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The BESII detector is a general-purpose magnetic spectrometer with a geometrical acceptance of 93% of $4 \\pi$ ，and is described in detail in Ref.[18]. The detector is composed of a helium-based drift chamber (MDC), a plastic-scintillator time-of-flight system (TOF),and a CsI(Tl) electromagnetic calorimeter (EMC),all enclosed in a superconducting solenoidal magnet providing a 1.0 T magnetic field (0.9 T in 20l2). The solenoid is supported by an octagonal fux-return yoke with resistiveplate counters interleaved with steel for muon identification (MUC). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The GEANT4 [19] based Monte Carlo (MC) simulation software package BOOST [20] describes geometry and material of the BESII detector,as well as detector response.It is used to optimize the event selection criteria,estimate backgrounds and determine the detection efficiencies.The production of the $J / \\psi$ resonance is simulated with KKMC [21, 22], while the decays are generated with EVTGEN [23, 24] for established modes using world-average branching fractions [1],and by LUNDCHARM [25] for the remaining decays. An inclusive MC sample of $1 . 2 \\times 1 0 ^ { 9 } \\ J / \\psi$ events is used to study the potential background contributions.The analysis is performed in the framework of the BESIII offline software system (BOSS)[26]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III. MEASUREMENTOFTHEMATRIX ELEMENTS FOR $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the reconstruction of $J / \\psi  \\gamma \\eta ^ { \\prime }$ with $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ and $\\eta  \\gamma \\gamma$ ， candidate events must contain two tracks with opposite charge and at least three photons.Each charged track reconstructed from the MDC hits is required to have a polar angle in the range $| \\cos \\theta | < 0 . 9 3$ and to pass the interaction point within $\\pm 1 0$ cm along the beam direction and within $\\pm 1$ cm in the plane perpendicular to the beam.Photon candidates are reconstructed using isolated clusters of energy deposited in the EMC and required to have a deposited energy larger than 25 MeV in the barrel region $( | \\cos \\theta | < 0 . 8 0 )$ or 50 MeV in the endcap region ( $0 . 8 6 < | \\cos \\theta | < 0 . 9 2 )$ ： The energy deposited in nearby TOF counters is included to improve the reconstruction efficiency and energy resolution. To eliminate clusters associated with charged tracks,the angle between the photon candidate and the extrapolation of any charged track to the EMC must be larger than $1 0 ^ { \\circ }$ .A requirement on EMC cluster timing with respect to the event start time ( $0 \\leq T \\leq 7 0 0$ ns) is used to suppress electronic noise and energy deposits unrelated to the event. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since the radiative photon from $J / \\psi$ decay is always more energetic than those from $\\eta$ decay, the photon candidate with the maximum energy in an event is assumed to be the radiative one. For each $\\pi ^ { + } \\pi ^ { - } \\gamma \\gamma \\gamma$ combination,a six-constraint (6C)kinematic fit is applied and the $\\chi _ { 6 C } ^ { 2 }$ is required tobe less than 100. The fit enforces energy-momentum conservation and constrains the invariant masses of $\\gamma \\gamma$ and $\\eta \\pi ^ { + } \\pi ^ { - }$ to the nominal $\\eta$ and $\\eta ^ { \\prime }$ masses,respectively.If there are more than three selected photons in an event,the combination with the smallest $\\chi _ { 6 C } ^ { 2 }$ is retained. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To estimate the background contribution,an alternative data sample is selected without applying the $\\eta$ and $\\eta ^ { \\prime }$ mass constraints in the kinematic fit.The $\\pi ^ { + } \\pi ^ { - } \\gamma \\gamma$ invariant mass spectrum is shown in Fig.1 after requiring the $\\gamma \\gamma$ invariant mass within the $\\eta$ signal region,(0.518, 0.578) GeV/ $c ^ { 2 }$ . A clear $\\eta ^ { \\prime }$ signal is observed with a low background level. In addition，a sample of $1 . 2 \\times 1 0 ^ { 9 }$ inclusive MC $J / \\psi$ decays is used to investigate potential backgrounds.Using the same selection criteria for the MC sample,no peaking background remains around the $\\eta ^ { \\prime }$ signal region. From this MC sample,the background contamination is estimated to be about $0 . 3 \\%$ This is consistent with an estimation obtained from an unbinned maximum likelihood fit to the $M ( \\eta \\pi ^ { + } \\pi ^ { - } )$ distribution,where the signal is described by the MC simulated shape convoluted with a Gaussian function representing the resolution difference between data and MC simulation,and the background contribution is described by a third-order polynomial function. We therefore neglect the background contribution in the determination of the Dalitz plot parameters. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/54cdc4121e8cb653117afb216321843f868536db07f914679f4c95bf7fe615ad.jpg",
+        "img_caption": [
+            "Figure 1. Invariant mass spectrum of $\\pi ^ { + } \\pi ^ { - } \\eta$ candidates without $\\eta$ and $\\eta ^ { \\prime }$ mass constraints applied in the kinematic fit,and requiring the $\\gamma \\gamma$ invariant mass within the $\\eta$ signal region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After the above requirements,351,016 $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ candidate events are selected,with a background contribution of less than $0 . 3 \\%$ . Figure 2 shows the Dalitz plot in the variables $X$ and $Y$ for the selected events. The corresponding projections on $X$ and $Y$ are shown as the dots with error bars in Figs.3(a) and (b),respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Unbinned maximum likelihood fits to the data are performed to determine the free parameters in the decay amplitude squared (Eqs.(3) and (4)). To account for the resolution and detection efficiency, the amplitude squared is convoluted with a function $\\sigma ( X , Y )$ parameterizing the resolution,and multiplied by a function $\\varepsilon ( X , Y )$ parameterizing the detection efficiency. Both functions are derived from MC simulations. Two double Gaussian functions are used for $\\sigma ( X , Y )$ ，while $\\varepsilon ( X , Y )$ is estimated as the average effciencies of local bins.With the normalization,one derives the probability density function $\\mathcal { P } ( X , Y )$ ,which is applied in the fit: ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/77a7395e2a5edcf4fb509d9ae15f6a362db8489b6ebca1722b75a1b009b5f1da.jpg",
+        "img_caption": [
+            "Figure 2.Dalitz plot for $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ from data. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { P } ( X , Y ) = \\qquad } \\\\ { \\frac { | M ( X , Y ) | ^ { 2 } \\otimes \\sigma ( X , Y ) \\cdot \\varepsilon ( X , Y ) } { \\int _ { D P } { ( | M ( X , Y ) | ^ { 2 } \\otimes \\sigma ( X , Y ) \\cdot \\varepsilon ( X , Y ) ) d X d Y } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The integral over the full Dalitz plot range (DP） gives the normalization factor in the denominator.The fit is done by minimizing the negative log-likelihood value ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\ln \\mathcal { L } = - \\sum _ { i = 1 } ^ { N _ { \\mathrm { e v e n t } } } \\ln \\mathcal { P } ( X _ { i } , Y _ { i } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathcal { P } ( X _ { i } , Y _ { i } )$ is evaluated for event $i$ ，and the sum runs over all accepted events. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Imposing charge conjugation invariance by setting the coefficient of odd powers in $X$ (c) to zero in the general representation, the fit yields following parameters: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { a { \\ } = { \\ } { - 0 . 0 5 6 \\pm 0 . 0 0 4 } , } \\\\ { { b { \\ } = { \\ - 0 . 0 4 9 \\pm 0 . 0 0 6 } , } } \\\\ { { d { \\ } = { \\ - 0 . 0 6 3 \\pm 0 . 0 0 4 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here，the uncertainties are statistical only. The corresponding correlation matrix of the fit parameters is ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( { \\frac { b } { a } } \\left( { \\begin{array} { c } { { d } } \\\\ { { - 0 . 4 1 7 \\ - 0 . 2 3 9 } } \\\\ { { b } } \\end{array} } \\right) . \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Projections of the fit result on $X$ and $Y$ are illustrated as the solid histograms in Fig. 3. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To check for the existence of a charge conjugation violating term,an alternative fit with parameter $c$ left free is performed. The resultant value, $c = ( 2 . 7 \\pm 2 . 4 ) \\times 1 0 ^ { - 3 }$ is consistent with zero.Compared with the nominal fit results, the parameters $a$ ， $b$ and $d$ are almost unchanged, and the statistical significance for a non-zero value of parameter $c$ is determined to be $0 . 7 \\sigma$ only. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Alternative fits including the extra terms $f Y ^ { 3 } + g X ^ { 2 } Y$ or $e X Y + h X Y ^ { 2 } + l X ^ { 3 }$ in the general representation are also performed, resulting in $f = - 0 . 0 0 4 \\pm 0 . 0 1 2$ ， $g \\ =$ $0 . 0 0 8 { \\pm } 0 . 0 1 0$ or $e = 0 . 0 0 5 \\pm 0 . 0 0 7$ ， $h = 0 . 0 0 4 \\pm 0 . 0 0 6$ ,and （204号 $l = 0 . 0 0 7 { \\scriptstyle \\pm 0 . 0 1 3 }$ ,respectively, while the other parameters are unchanged. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A fit based on the linear representation is also performed and yields the following values: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The imaginary part of $\\alpha$ is consistent with zero.This can be understood by the observation that the coefficient $b$ in the general representation is negative. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Subsequently we will consider the fit result with $\\Im ( \\alpha )$ fixed at zero.The parameters $\\Re ( \\alpha )$ and $d$ and their uncertainties remain the same as in Eq.(9),and the correlation coefficient between $\\Re ( \\alpha )$ and $d$ is $- 0 . 1 3 7$ .The log-likelihood value is lowerby 33.9 compared with the fit using the general representation,which indicates the incompatibility of the linear representation with the data. Projections on $X$ and $Y$ based on this result are illustrated as the dashed histograms in Fig.3. The presented residuals show that the fit is slightly worse to describe the data in $Y$ projection comparing to the general one. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The potential charge conjugation violating is also checked in the linear representation by performing an alternative fit with a free parameter $c$ .The resultant value, $c = ( 2 . 7 \\pm 2 . 4 ) \\times 1 0 ^ { - 3 }$ , is also consistent with zero, while the parameters $\\Re ( \\alpha )$ and $d$ are almost unchanged compared with the nominal fit results. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IV. MEASUREMENTOFTHEMATRIX ELEMENT FOR THE DECAY $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ （ ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the reconstruction of $J / \\psi  \\gamma \\eta ^ { \\prime }$ with $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ and $\\eta / \\pi ^ { 0 } \\ \\to \\ \\gamma \\gamma$ ， candidate events must have at least seven photons and no charged track. The selection criteria for photon candidates are the same as those for $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ ，except that the requirement on the angle between photon candidates and any charged track is not used.A requirement of EMC cluster timing with respect to the most energetic photon （ $- 5 0 0 \\leq T \\leq 5 0 0$ ns）is also used. The photon with the largest energy in the event is assumed to be the radiative photon originating from the $J / \\psi$ decay. For the remaining clusters,pairs of photons are combined into $\\pi ^ { 0 } / \\eta  \\gamma \\gamma$ candidates,which are subjected to a one-constraint (1C) kinematic ft by constraining the invariant mass of the photon pair to be the nominal $\\pi ^ { 0 }$ or $\\eta$ mass. The $\\chi ^ { 2 }$ for this 1C kinematic fit is required to be less than 25.To suppress $\\pi ^ { 0 }$ miscombinations,the $\\pi ^ { 0 }$ decay angle $\\theta _ { \\mathrm { d e c a y } }$ , defined as the polar angle of one of the decay photons in the $\\gamma \\gamma$ rest frame with respect to the $\\pi ^ { 0 }$ flight direction,is required to satisfy $| \\cos \\theta _ { \\mathrm { d e c a y } } | < 0 . 9 5$ .Then an eight-constraint (8C) ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2226f621efe0c1148727d9b90102d148027ec5863e5b4cf37452ae93ef06a20.jpg",
+        "img_caption": [
+            "Figure 3. Projections of the fit results onto (a) $X$ and (b) $Y$ in the general (solid histograms） and linear(dashed histograms representations for $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ ，where the dots with error bars represent data. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/13c27c803757ab7d3abd502b01da9de99bb460ec2ab4124061e4c478ec146120.jpg",
+        "img_caption": [
+            "Figure 4. Invariant mass spectrum of $\\pi ^ { 0 } \\pi ^ { 0 } \\eta$ candidates without $\\eta$ and $\\eta ^ { \\prime }$ mass constraints applied in the kinematic fit,and requiring the $\\gamma \\gamma$ invariant mass within the $\\eta$ signal region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "kinematic fit is performed for the $\\gamma \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ combination enforcing energy-momentum conservation and constraining the invariant masses of the three photon pairs and the $\\eta \\pi ^ { 0 } \\pi ^ { 0 }$ combination to the nominal $\\pi ^ { 0 } / \\eta$ and $\\eta ^ { \\prime }$ masses. If more than one combination is found in an event,only the one with the smallest $\\chi _ { 8 C } ^ { 2 }$ is retained. Events with $\\chi _ { 8 C } ^ { 2 } < 1 0 0$ are accepted for further analysis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To estimate the backgrounds,an alternative selection isperformed where $\\eta$ and $\\eta ^ { \\prime }$ mass constraints in the kinematic fit are removed.The resulting $\\pi ^ { 0 } \\pi ^ { 0 } \\eta$ invariant mass spectrum is shown in Fig. 4,after requiring the $\\gamma \\gamma$ invariant mass within the $\\eta$ signal region, (0.518, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.578) $\\mathrm { G e V } / c ^ { 2 }$ .The inclusive MC study shows that the surviving backgrounds mainly consist of the peaking background $\\eta ^ { \\prime }  \\pi ^ { 0 } \\pi ^ { 0 } \\pi ^ { 0 }$ and a flat contribution from $J / \\psi  \\omega \\eta$ with $\\omega  \\gamma \\pi ^ { 0 }$ and $\\eta  \\pi ^ { 0 } \\pi ^ { 0 } \\pi ^ { 0 }$ .From this MC sample,the background contamination is estimated to be about $0 . 9 \\%$ ，which is consistent with the estimation obtained from a fit to $M ( \\eta \\pi ^ { 0 } \\pi ^ { 0 } )$ ,and therefore neglected in the determination of the Dalitz plot parameters.In the fit,the signal is described by the MC simulated shape convoluted with a Gaussian function representing the difference of mass resolution between data and MC simulation. The shape and the yield of peaking background $\\eta ^ { \\prime }  \\pi ^ { 0 } \\pi ^ { 0 } \\pi ^ { 0 }$ are fixed according to the dedicated MC simulation [27].A third-order polynomial function is used to represent the smooth background contribution. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "After the above requirements, 56,249 $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ candidate events are selected,with a $0 . 9 \\%$ background level. The Dalitz plot of selected events is displayed in Fig.5. The corresponding projections on $X$ and $Y$ are shown as the dots with error bars in Fig.6. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As in the analysis of the $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ ，an unbinned maximum likelihood ft method is used to determine the matrix elements.The resolution is described with two double Gaussian functions,and the detection efficiencies in different $X$ and $Y$ bins are obtained from MC simulation.From a dedicated study with the control sample of $J / \\psi \\to \\pi ^ { + } \\pi ^ { - } \\pi ^ { 0 }$ ，we find that the reconstruction efficiency for $\\pi ^ { 0 }$ candidate differs significantly between data and the MC simulation at low $\\pi ^ { 0 }$ momenta．Thus,to describe the detection efficiency more accurately,an efficiency correction depending on the $\\pi ^ { 0 }$ momentum is carried out,and the error of this correction will be considered in systematic uncertainty. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f759d8d85b44a64c0d240ce717548554b8caf9644fbaf366d128ca841ca0400.jpg",
+        "img_caption": [
+            "Figure 5.Dalitz plot for $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ from data. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Considering the strict constraint from the symmetry of the wave function,only the fits without odd powers of $X$ are performed.The fit based on the general representation yields the coefficient (with statistical uncertainties only）and the corresponding correlation matrix: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { a = - 0 . 0 8 7 \\pm 0 . 0 0 9 , } \\\\ { b = - 0 . 0 7 3 \\pm 0 . 0 1 4 , } \\\\ { d = - 0 . 0 7 4 \\pm 0 . 0 0 9 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( { \\frac { b } { a } } \\left| { \\begin{array} { c c } { { b } } & { { d } } \\\\ { { - 0 . 4 9 5 } } & { { - 0 . 2 7 3 } } \\\\ { { b } } & { { 0 . 2 7 3 } } \\end{array} } \\right. \\right) ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Similarly to the case $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ , the fit gives a negative value of the coefficient $b$ . The projections of the fit results on $X$ and $Y$ are shown as the solid histograms in Fig.6. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Extra terms $f Y ^ { 3 }$ and $g X ^ { 2 } Y$ in the general representation are also added in an alternative fit,resulting in $f = - 0 . 0 2 3 \\pm 0 . 0 2 8$ and $g = 0 . 0 2 4 \\pm 0 . 0 2 5$ . The significance for non-zero values of $f$ and $g$ is $0 . 6 \\sigma$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the fit based on the linear representation,the imaginary part of $\\alpha$ (fitted to be $0 . 0 0 0 \\pm 0 . 0 3 8$ ） does not contribute to the ft quality,as in the $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ case. Thus,the nominal fit omitting $\\Im ( \\alpha )$ gives the results (statistical uncertainties only): ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\Re ( \\alpha ) ~ = ~ - 0 . 0 5 4 \\pm 0 . 0 0 4 , } } \\\\ { { d ~ = ~ - 0 . 0 6 1 \\pm 0 . 0 0 9 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The correlation coefficient between the two parameters is $- 0 . 1 7 0$ . Compared to the fit based on the general representation，the log-likelihood value is reduced by 13.7. Projections on $X$ and $Y$ are illustrated as the dashed histograms in Fig.6. Again,the fits based on the two different representations give similar results for the $X$ projections,but slightly worse for $Y$ in the linear case. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "V.SYSTEMATICUNCERTAINTIES ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Various sources of systematic uncertainties on the measured Dalitz plot matrix elements have been investigated, including tracking efficiency, kinematic fit, efficiency correction,and resolution. For the decay $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ ,additional uncertainties associated with photon miscombination, $\\pi ^ { 0 }$ and $\\eta$ reconstruction are also considered. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Differences between data and MC simulation for the tracking efficiency of charged pions are investigated using the control sample $J / \\psi \\to p \\bar { p } \\pi ^ { + } \\pi ^ { - }$ . A momentum dependent correction on the detection efficiency is obtained by comparing the effciency between data and MC simulation.Similarly,a momentum dependent correction for the $\\eta$ reconstruction efficiency is obtained with the control sample of $J / \\psi \\to \\gamma \\eta \\pi ^ { + } \\pi ^ { - }$ .Then alternative fits are performed by incorporating the efficiency corrections for charged pions or $\\eta$ .Changes of the matrix elements with respect to the nominal results are assigned as the systematic uncertainties.A momentum-dependent $\\pi ^ { 0 }$ reconstruction efficiency correction has been applied in the nominal fit;the associated systematic uncertainties are estimated by changing the correction factor by one of its standard deviation and repeating the fit. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The possible miscombination of photons in signal MC samples has been studied by matching the generated photon pairs to the selected $\\pi ^ { 0 }$ or $\\eta$ candidates. The fraction of events with wrong combinations is determined tobe $2 . 7 \\%$ for $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ .Alternative fits are performed to the MC simulated sample with only truthtagged events and the ones including miscombinations, individually. The difference between those two results are taken as the the systematic uncertainties. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To estimate the uncertainties associated with the kine matic fitting procedure, the fit results are compared using a 4C(6C) instead of 6C(8C) kinematic fit for $\\eta ^ { \\prime } $ $\\eta \\pi ^ { + } \\pi ^ { - }$ 0 $\\langle \\eta ^ { \\prime } \\to \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ ）and the corresponding changes in the fit parameters are taken as systematic uncertainties. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To estimate the uncertainties associated with the efficiency correction in Eq.5,we change the Dalitz plot variables $X$ and $Y$ to the so-called square Dalitz plot variables $M ( \\eta \\pi ) ^ { 2 }$ and $\\cos \\theta$ ,where $\\theta$ is the angle between the two pions in the rest frame of $\\eta \\pi$ . Alternative fits are performed with the efficiency correction based on the newly defined Dalitz plot variable and the resultant changes of the matrix elements with respect to the nominal results areassigned as systematic uncertainties. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To estimate the impact from the non-flat resolution in the $X - Y$ plane,the biases from input/output checks are taken as the systematic uncertainties.The impact from different resolutions of the Dalitz plot variables between data and MC simulation is estimated by alternative fits varying the resolutions by $\\pm 1 0 \\%$ .It is found that the change of the results is negligible. The effect of neglecting the residual background is checked by alternative fts including MC simulated backgrounds and found to be insignificant. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "All of the above uncertainties are summarized in Table I.Assuming all the sources of systematic uncertainty are independent，the total systematic uncertainties for the matrix elements are obtained by adding the individual values in quadrature,shown in the last row of TableI. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/25772027529abb97a0716ef12e8deb3bbb435c12bf038a0eaaee0e35f93a11f1.jpg",
+        "img_caption": [
+            "Figure 6. Projections of the fit results on (a) $X$ and (b) $Y$ in general (solid histograms）and linear (dashed histograms) representations for $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ ,where the dots with error bars represent data. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "VI. SEARCHFOR CUSP EFFECT IN $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After the event selection presented in section IV,the distributions of the square of the $\\pi ^ { 0 } \\pi ^ { 0 }$ invariant mass, $M ( \\pi ^ { 0 } \\pi ^ { 0 } ) ^ { 2 }$ , for data and phase space distributed MC simulation are depicted in Fig.7(a),together with the Dalitz plot fit result based on the general representation. To check the cusp effect,Fig.7(b） shows the $M ( \\pi ^ { 0 } \\pi ^ { 0 } ) ^ { 2 }$ distribution of data divided by the phase space distribution. We observe no statistically significant structure near the $\\pi ^ { + } \\pi ^ { - }$ mass threshold,which would indicate a cusp. The prediction in Ref.[7] was based on the matrix elements measured by VES experiment [9]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "VII. SUMMARY ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "With a sample of $1 . 3 1 \\times 1 0 ^ { 9 }$ $J / \\psi$ events collected with the BESIII detector, clean samples of 351,016 $\\eta ^ { \\prime } $ $\\eta \\pi ^ { + } \\pi ^ { - }$ events and 56,249 $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ events are selected from $J / \\psi$ radiative decays.Then the most precise measurements of the matrix elements for the $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ and $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ decays as well as a search for the cusp effect in $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ are performed. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Both the general and the linear representations are used to determine the matrix elements and the corresponding results are summarized in Table I including the systematic uncertainties. The matrix elements for both decays are in reasonable agreement and more precise than the previous measurements [8-11]. The results for $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ supersede the previous BESIII measurement [1O],which used a subsample of the present data. As reported in Ref.[1O], the discrepancy of the parameter $a$ for $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ with respect to the VES value [9] is evident,which,at present,stands at about 3.8 standard deviations.The values of parameter $c$ in $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ are all consistent with zero within one standard deviation in both representations,in agreement with charge conjugation conservation in the strong interaction.In addition, a discrepancy of 2.6 standard deviations for parameter $a$ is observed between $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ and $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ processes,indicating isospin violation.However,the result is not statistical significant enough to firmly establish such a violation,and additional effects,e.g.,radiative corrections [7],should be considered in future experimental and theoretical studies. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A comparison between the results obtained from general representation and the theoretical predictions within the framework of U(3) chiral effective field theory (EFT) incorporating with a relativistic coupled-channels approach [4] is given in Table II. In general,our results are compatible with the theoretical expectations.However，the theoretical prediction for parameter $a$ from $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ is about two times larger than our result and the discrepancies on parameter $d$ for both $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ and $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ are about 4 standard deviations. Recent calculations with large-N $C$ ChPT at next-to-nextto-leading order [5] are compatible with our measurement of parameter $a$ due to the large theoretical uncertainty. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Aspreviously mentioned, the linear and general representations are equivalent for the case of $b > a ^ { 2 } / 4$ .However, the coefficients $b$ for the $Y ^ { 2 }$ term are negative with 5.8 and 4.9 standard deviations to zero for $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ and $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ ，respectively,which implies that these two representations can not provide an identical description of data. In case of the linear representation, the results are in agreement with previous measurements and also provide a reasonable description on $X$ projection for both decay modes.However, the goodness of fit on the $Y$ projections are worse than the general one. This is consistent with the conclusion reported by the VES collaboration [9] that the linear representation can not describe the data well. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca1a6d20fce0462ddf7174a16afa6779b7771d46462c022f2eb25e2e90ef6f02.jpg",
+        "table_caption": [
+            "Table I.Relative systematic uncertainties of the matrix elements in the generalized and linear representations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Source</td><td colspan=\"2\">n→nπ+π</td><td colspan=\"2\"></td><td colspan=\"2\">π →ππ</td></tr><tr><td>General Rep. a b d</td><td>Linear Rep. R(α)</td><td>a</td><td>General Rep.</td><td>d</td><td>Linear Rep. R(a) d</td></tr><tr><td>Tracking efficiency</td><td>0.0018 0.0044 0.0021</td><td>0.0015 0.0013</td><td>：</td><td>…</td><td>：</td><td></td></tr><tr><td>π efficiency</td><td>… ：</td><td>：</td><td></td><td>0.0006 0.0007 0.0001</td><td></td><td>0.00040.0003</td></tr><tr><td>n efficiency</td><td>…</td><td></td><td></td><td>0.0012 0.0014 0.0001</td><td></td><td>0.00050.0003</td></tr><tr><td>Photon miscombination</td><td>… ：</td><td></td><td></td><td>0.0002 0.0024 0.0013</td><td></td><td>0.0004 0.0009</td></tr><tr><td>Kinematic fit</td><td>0.00090.0035 0.0024</td><td>0.0007 0.0031</td><td></td><td>0.0041 0.0031 0.0020</td><td></td><td>0.0005 0.0016</td></tr><tr><td>Efficiency presentation</td><td>0.0009 0.00020.0007</td><td>0.0005 0.0007</td><td></td><td>0.00020.0005 0.0004</td><td></td><td>0.0002 0.0051</td></tr><tr><td>Resolution</td><td>0.0006 0.0093 0.0004</td><td>0.0005 0.0015</td><td>0.0044 0.0021</td><td></td><td>0.0030</td><td>0.0005 0.0049</td></tr><tr><td>Total</td><td>0.0023 0.0057 0.00340.0018 0.0038</td><td></td><td></td><td></td><td></td><td>0.0061 0.0047 0.00380.0010 0.0052</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f62a39c405982fd0922683858bb41efdad79dd47f0992945a99a338141d50ce.jpg",
+        "img_caption": [
+            "Figure 7. (a) The distribution of the $\\pi ^ { 0 } \\pi ^ { 0 }$ invariant mass squared. In the upper plot, the dots with error bars represent data, thedashedhistogramisfromphasespacedistributedMCsample,andthesolidhistogramis theprojectionoftheDalitzplotfit in general representation;the lower gives the distribution of the ratio between data and the ft projection. (b)The $M ( \\pi ^ { 0 } \\pi ^ { 0 } ) ^ { 2 }$ （204号 distribution of data divided by phase space distribution. The vertical line is the $\\pi ^ { + } \\pi ^ { - }$ mass threshold. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8ca41ef5ce6d03236015de29b23af1109d862104f04a1d6db88ac165ef88a89.jpg",
+        "table_caption": [
+            "Table II. Experimental and theoretical values of the matrix element parameters for $\\eta ^ { \\prime }  \\eta \\pi ^ { + } \\pi ^ { - }$ and $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ . The values for parameter $c$ and $\\Im ( \\alpha )$ are given for comparison with previous experiments. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Para-</td><td colspan=\"4\">n'→nπ+π</td><td colspan=\"3\">n→nππ</td></tr><tr><td>EFT [4]</td><td>Large Nc [5]</td><td>VES [9]</td><td>This work</td><td>EFT [4]</td><td>GAMS-4π [11]</td><td>This work</td></tr><tr><td>meter a</td><td></td><td>-0.116 ±0.011 -0.098 ±0.048 -0.127 ±0.018</td><td></td><td>-0.056 ±0.004±0.003</td><td>0.127± 0.009</td><td>-0.067 ±0.016 -0.087 ± 0.009 ±0.006</td><td></td></tr><tr><td>b</td><td></td><td></td><td></td><td>-0.042 ±0.034 -0.050 ±0.001 -0.106 ±0.032 -0.049 ±0.006 ±0.006</td><td></td><td>-0.049 ±0.036 -0.064±0.029 -0.073±0.014 ±0.005</td><td></td></tr><tr><td>C</td><td>…</td><td></td><td></td><td>+0.015 ±0.018 (2.7± 2.4 ± 1.8) × 10-3</td><td></td><td></td><td></td></tr><tr><td>d</td><td>+0.010 ±0.019</td><td></td><td>-0.092±0.008 -0.082 ±0.019</td><td>-0.063 ± 0.004 ± 0.004</td><td>+0.011 ± 0.021</td><td>-0.067 ±0.020</td><td>-0.074 ± 0.009 ± 0.004</td></tr><tr><td>(α)</td><td>：</td><td></td><td>-0.072±0.014</td><td>-0.034 ±0.002 ±0.002</td><td>：</td><td></td><td>-0.042 ±0.008 -0.054 ± 0.004 ±0.001</td></tr><tr><td>S(a)</td><td>：</td><td>：</td><td>0.000 ±0.100</td><td>0.000 ± 0.019 ±0.001</td><td>：</td><td>0.000 ± 0.070</td><td>0.000 ±0.038 ±0.002</td></tr><tr><td>C</td><td>：</td><td>：</td><td></td><td>+0.020 ±0.019 (2.7± 2.4±1.5) × 10-3</td><td>：</td><td></td><td></td></tr><tr><td>d</td><td>…</td><td>…</td><td>-0.066 ±0.034</td><td>-0.053 ± 0.004 ±0.004</td><td>…</td><td>-0.054±0.019</td><td>-0.061 ±0.009 ±0.006</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We also attempt to search for the cusp effect in the decay $\\eta ^ { \\prime }  \\eta \\pi ^ { 0 } \\pi ^ { 0 }$ . Inspection of the $\\pi ^ { 0 } \\pi ^ { 0 }$ mass spectrum around the $\\pi ^ { + } \\pi ^ { - }$ mass threshold does not show evidence of a cusp with current statistics. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The BESIII collaboration thanks the staff of BEPCII and the IHEP computing center for their strong support.This work is supported in part by National Key Basic Research Program of China under Contract No. 2O15CB856700;National Natural Science Foundation of China(NSFC）under Contracts Nos. 11235011, 11335008，11425524，11625523，11635010，11675184, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "11735014; the Chinese Academy of Sciences (CAS) Large-Scale Scientific Facility Program; the CAS Center for Excellence in Particle Physics (CCEPP); Joint LargeScale Scientific Facility Funds of the NSFC and CAS under Contracts Nos.U1332201，U1532257，U1532258; CAS under Contracts Nos. KJCX2-YW-N29,KJCX2- YW-N45，QYZDJ-SSW-SLH003;100 Talents Program of CAS;National 10oO Talents Program of China; INPAC and Shanghai Key Laboratory for Particle Physics and Cosmology;German Research Foundation DFG under Contracts Nos.Collaborative Research Center CRC 1044，FOR 2359；Istituto Nazionale di Fisica Nucleare,Italy；Joint Large-Scale Scientific Facility Funds of the NSFC and CAS;Koninklijke Nederlandse Akademie van Wetenschappen (KNAW） under Contract No. 530- 4CDPO3； Ministry of Development of Turkey under Contract No.DPT2006K-120470； National Natural Science Foundation of China (NSFC)；National Science and Technology fund; The Swedish Resarch Council;U.S.Department of Energy under Contracts Nos. DE-FG02-05ER41374,DE-SC-0010118,DE-SC-0010504, DE-SC-0012069；University of Groningen (RuG） and the Helmholtzzentrum fuer Schwerionenforschung GmbH (GSI),Darmstadt;WCUProgram of National Research Foundation of Korea under Contract No.R32-2oo8-000- 10155-0 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]C.Patrignani et al.(Particle Data Group),Chin.Phys. C 40,100001 (2016).   \n[2] A.H. Fariborz and J. Schechter,Phys. Rev.D 60,034002 (1999).   \n[3] N.Beisert and B. Borasoy，Nucl.Phys.A 716，186 (2003).   \n[4]B.Borasoy andR.Nifler,Eur.Phys.J.A26,383(2005).   \n[5]R.Escribano,P.Masjuan，andJ.Sanz-Cillero,J.High Energy Phys.201105,094 (2011).   \n[6] T.Isken,B.Kubis,S.P. Schneider,and P. Stoffer,Eur. Phys. J. C 77, 489 (2017).   \n[7] B.Kubis and S.P. Schneider,Eur. Phys. J. C 62,511 (2009).   \n[8] R.A.Briere et al.(CLEO Collaboration)，Phys.Rev. Lett.84,26 (2000).   \n[9] V.Dorofeev,R.Dzheliadin et al.,Phys.Lett.B 651, 22 (2007).   \n10] M.Ablikim et al.(BESIII Collaboration),Phys.Rev.D 83,012003 (2011).   \n11]A.M.Blik et al.(GAMS-4π Collaboration)，Phys.At. Nucl. 72,231 (2009).   \n12] D.Alde et al.(GAMS-2000 Collaboration),Phys.Lett. B 177,115 (1986).   \n13] J.R.Batley et al. (NA48/2 Collaboration),Phys.Lett. B 633,173 (2006).   \n[14]E.Gámiz,J.Prades,andI.Scimemi,Eur.Phys.J.C50, 405 (2007).   \n[15]N.Cabibbo,Phys.Rev.Lett.93,121801 (2004).   \n[16] N.Cabibbo and G.Isidori,J.High Energy Phys.200503, 021 (2005).   \n[17]G.Colangelo，J.Gasser，B.Kubis,and A.Rusetsky, Phys.Lett.B 638,187 (2006).   \n[18]M.Ablikim et al.(BESIII Collaboration),Nucl.Instrum. Methods Phys.Res.,Sect.A614,345 (2010).   \n[19]S.Agostinelli,J.Allison et al.,Nucl. Instrum.Methods Phys.Res.,Sect.A 506,250 (2003).   \n[20] Z.Y.Deng et al., Chin. Phys. C 30,371 (2006).   \n[21] S.Jadach,B.F.L.Ward et al.,Phys.Rev.D 63,113009 (2001).   \n[22] S. Jadach,B.F.L.Ward,and Z. Was,Comput.Phys. Commun.130,260 (2000).   \n[23] D.J.Lange,Nucl. Instrum.Methods Phys.Res.,Sect.A 462,152 (2001).   \n[24] R.G.Ping,Chin. Phys.C 32,599 (2008).   \n[25]J.C. Chen et al.,Phys.Rev.D 62,034003 (2000).   \n[26] W.D.Li et al.,Proceeding of CHEPO6,Mumbai, India (2006).   \n[27] M.Ablikim et al.(BESIII Collaboration),Phys.Rev.D 92,012014 (2015). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

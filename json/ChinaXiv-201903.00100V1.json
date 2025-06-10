@@ -1,0 +1,722 @@
+[
+    {
+        "type": "text",
+        "text": "一种新型的交流电机离散电流调节器设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张永昌 夏波 白宇宁 杨海涛(北方工业大学电力电子与电气传动北京市工程研究中心北京100144)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4afaf051777dafec327bb8ba4d63613588173d29ea3fd7f3ce0f007ab0c76fe9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张永昌男 1982年生，博士，研究员，研究方向为模型预测控制在电力电子与电机控制中的应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文提出一种离散域（z域）下设计交流电机电流调节器的方法，属于高性能交流电机控制领域。由于受到环路间存在交叉耦合项、控制器离散化处理时产生的误差及数字控制系统延迟等因素的影响，调节器的控制效果会产生劣化。本文将交流电机控制系统中的d、q轴电流环当作一个整体，在离散域建立交流电机的电流环数学模型，同时考虑数字控制系统的一拍延迟来直接设计离散域电流调节器。最后基于自动控制原理，推导出电流调节器参数设计的最大值与最优值。仿真和实验结果表明，采用优化设计的电流调节器后，d、q轴电流动态响应快且没有超调。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：交流电机 离散域 电流调节器一拍延时中图分类号：TM351",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Novel Design Method of AC Motor Current Regulator in Discrete-Time Domain ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc1eb4c3341dd73f6f133847caad185b703c434d3ca01c33e1f2fbb38a7860ee.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang YongchangXia Bo Bai YuningYang Haitao (North China University of TechnologyBeijing100044 China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "夏波男1990年生，硕士研究生，研究方向为异步电机宽速度范围模型预测控制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This paper proposeds a novel design method of AC motor current regulator in discrete-time domain, which belongs to the high-performance control field ofAC motor drives. In FOC, the linear PI regulators are used to design the d-axis and q-axis current loops.Due to the influence of the cross coupling term,the discrete error of the controller and the delay of the digital control system,the control effect of the controller is degraded. Therefore, this paper proposed a novel method where the d-axis and q-axis current loops are considered as a whole.Then, the current loop model of AC motor is established in the discrete-time domain. At the same time one step delay is considered in digital system to design discrete-time current regulator. Finally,based on the automatic control theory, the maximum and optimal value of current regulator parameters are derived. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: AC motor, discrete-time domain, current regulator, one-step delay ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着电力电子技术、微电子技术和现代电机控制理论的迅速发展，交流电机获得快速的推广与应用[1]。在高性能交流电机控制方法中目前已经获得了广泛应用的控制方法有以下两类：矢量控制(FOC）[2-4]与直接转矩控制（DTC）[25-8]。直接转矩控制结构简单、动态响应快，由于其采用bangbang控制器，通过控制器的误差输出信号以及定子磁链的位置信号从离线设计的开关表中选择合适的电压矢量作用于交流电机，导致对转矩与磁链的控制脉动较大且开关频率不固定，在一些高性能控制领域，应用受到一定的限制。矢量控制主要通过转子磁场定向，把定子电流分解成d、q轴电流，通过PI调节器来分别控制转子磁链与电磁转矩。这种解耦控制方法使矢量控制能够获得更好的稳态性能，满足高性能交流电机控制领域的要求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着现代工业的快速发展对调速系统的性能以及控制精度的进一步提高，传统的矢量控制技术并不能够满足现代工业控制精度的要求。传统矢量控制中线性PI调节器的电流内环分别采用d、q轴两个独立的控制环，受到环路间存在交叉耦合项、控制器离散化处理时产生的误差、数字控制系统延迟等因素的影响，同时该耦合项与同步角频率成正比，使得传统的线性PI调节器不能完全实现独立设计，从而导致交流电机的控制精度受到影响。在实际应用中大都采用数字控制系统，传统方法基于连续域设计的调节器，最终还需进行离散化处理，不可避免地引入误差。同时数字控制系统存在一拍延时，进一步降低了控制系统的性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了解决d、q轴之间定子电流交叉耦合的问题，有学者提出了一些解决方法，但这些方法大都比较复杂[9]。文献[1]引入非线性补偿来抵消耦合项，计算表达式十分复杂而且参数整定过程繁琐。为避免复杂的解耦过程，一些方法基于复矢量设计调节器[10]，另有一些方法直接在离散域设计电流调节器来避免离散化时带来的误差[1]。但是这些方法没有给出可调参数 $k$ 的具体设计方法，在实际应用中仍需根据经验，反复试验调整才能确定。目前尚没有较好的方法能够同时满足： $\\textcircled{1}$ 消除d、q轴两个控制环的交叉耦合； $\\textcircled{2}$ 直接在离散域设计调节器，避免离散化误差； $\\textcircled{3}$ 考虑数字控制系统延迟的影响；$\\textcircled{4}$ 给出准确的控制器可调参数 $k$ 的设计公式。因此,需要在现有的设计方法中，提出一种简单实用的方法，在获取更好的控制性能的同时提高方法的通用性和实用性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出将交流电机控制系统中的d、q轴电流环当作一个整体，直接在离散域中建立电流环的数学模型，同时考虑数字控制系统的一拍延迟，直接在离散域中设计电流调节器。以异步电机为例，将其作为控制对象，对异步电机的数学建模进行了详细的研究，然后按照工程应用中相位裕度至少$4 5 ^ { \\circ [ 1 1 ] }$ ，推导出电流调节器参数 $k$ 的最大值解析表达式，但是此系数将为电流调节器带来一定的超调量。为了使电流调节器内环的超调量为零，本文根据自动控制原理，采用系统的阻尼比为1的最优设计方法，推导出电流调节器参数 $k$ 的最优值，此时没有超调量并且具有较优的动态性能[12]。在阶跃信号的作用下，电流环没有超调量且系统响应迅速。为了验证所提出的离散域电流调节器设计方法的有效性，本文把这种新型交流电机在离散域中设计电流调节器的方法与异步电机矢量控制相结合，在两电平逆变器异步电机控制平台上进行了相应的仿真和实验验证，同时也给出了传统线性PI调节器与矢量控制的仿真与实验结果。仿真和实验结果表明，本文提出的新型离散域电流调节器在全速范围内都具有良好的动静态性能，有效扩大了矢量控制在工业当中的应用范围。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 异步电机数学模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "异步电机在静止坐标系下矢量形式数学模型[13]可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电压方程",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { \\pmb { { u } } _ { \\mathrm { s } } = R _ { \\mathrm { s } } \\pmb { i } _ { \\mathrm { s } } + p \\pmb { { \\psi } } _ { \\mathrm { s } } } \\\\ { 0 = R _ { \\mathrm { r } } \\pmb { i } _ { \\mathrm { r } } + p \\pmb { { \\psi } } _ { \\mathrm { r } } - \\mathrm { j } \\omega _ { \\mathrm { r } } \\pmb { \\psi } _ { \\mathrm { r } } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "磁链方程",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\psi _ { \\mathrm { s } } = L _ { \\mathrm { s } } \\dot { \\vphantom { \\sum } } i _ { \\mathrm { s } } + L _ { \\mathrm { m } } \\dot { \\vphantom { \\sum } } i _ { \\mathrm { r } } \\right. } \\\\ { \\left\\{ \\psi _ { \\mathrm { r } } = L _ { \\mathrm { m } } \\dot { \\vphantom { \\sum } } i _ { \\mathrm { s } } + L _ { \\mathrm { r } } \\dot { \\vphantom { \\sum } } i _ { \\mathrm { r } } \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "转矩方程",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { T _ { \\mathrm { { e } } } = \\displaystyle \\frac { 3 } { 2 } N _ { \\mathrm { { p } } } { \\cal {Psi } } _ { \\mathrm { { s } } } \\otimes i _ { \\mathrm { { s } } } } } \\\\ { { { } } } \\\\ { { { } = \\displaystyle \\frac { 3 } { 2 } N _ { \\mathrm { { p } } } \\frac { { \\cal { L } } _ { \\mathrm { { m } } } } { { \\cal { L } } _ { \\mathrm { { r } } } } { \\cal {Psi } } _ { \\mathrm { { r } } } \\otimes i _ { \\mathrm { { s } } } } } \\\\ { { { } } } \\\\ { { { } = \\displaystyle \\frac { 3 } { 2 } N _ { \\mathrm { { p } } } \\lambda { \\cal { L } } _ { \\mathrm { { m } } } { \\cal { W } } _ { \\mathrm { { r } } } \\otimes { \\cal { V } } _ { \\mathrm { { s } } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\lambda = \\frac { 1 } { L _ { \\mathrm { s } } L _ { \\mathrm { r } } - L _ { \\mathrm { m } } ^ { 2 } } , T _ { \\mathrm { r } } = \\frac { L _ { \\mathrm { r } } } { R _ { \\mathrm { r } } } , \\delta = \\frac { L _ { \\mathrm { s } } L _ { \\mathrm { r } } - L _ { \\mathrm { m } } ^ { 2 } } { L _ { \\mathrm { s } } L _ { \\mathrm { r } } } , p = \\frac { \\mathrm { d } } { \\mathrm { d } t }$ 表示微分算子。  \n式中， $R _ { \\mathrm { s } }$ 为电机定子电阻； $R _ { \\mathrm { r } }$ 为转子电阻； $L _ { \\mathrm { s } }$ 为定子电感； $L _ { \\mathrm { r } }$ 为转子电感； $L _ { \\mathrm { m } }$ 为定转子互感； $N _ { \\mathfrak { p } }$ 为电机极对数； $\\omega _ { \\mathrm { r } }$ 为电机转速； ${ \\pmb u } _ { \\mathrm { s } }$ 为定子电压； $\\psi _ { \\mathrm { { s } } }$ 为定子磁链； $\\psi _ { \\mathrm { r } }$ 为转子磁链矢量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以定子电流 $\\pmb { i } _ { \\mathrm { s } }$ 和转子磁链 $\\psi _ { \\mathrm { r } }$ 为状态变量，异步电机在静止坐标系下的数学模型[14-15]可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np { \\pmb x } = A { \\pmb x } + B { \\pmb u }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\boldsymbol { x } = \\left( \\begin{array} { l l } { i } & { \\psi _ { \\mathrm { r } } } \\end{array} \\right) ^ { \\mathrm { T } } } \\\\ & { } \\\\ & { \\boldsymbol { A } = \\left( \\begin{array} { l l } { - \\lambda L _ { \\mathrm { r } } \\left[ R _ { \\mathrm { s } } + ( L _ { \\mathrm { m } } / L _ { \\mathrm { r } } ) ^ { 2 } R _ { \\mathrm { r } } \\right] } & { \\lambda L _ { \\mathrm { m } } ( 1 / T _ { \\mathrm { r } } - { \\mathrm j } \\omega _ { \\mathrm { r } } ) } \\\\ & { L _ { \\mathrm { m } } / T _ { \\mathrm { r } } } \\end{array} \\right) } \\\\ & { \\boldsymbol { B } = \\left( \\begin{array} { l } { \\lambda L _ { \\mathrm { r } } } \\\\ { 1 } \\\\ { 1 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在实际应用当中，需要把电机数学模型式（4)离散来预测 $\\left( k + 1 \\right)$ 时刻的状态变量值，为了提高预测精度，本文采用二阶欧拉[16-17]公式来离散式（4）可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { \\displaystyle \\boldsymbol { x } _ { \\mathrm { p } } ^ { k + 1 } = \\boldsymbol { x } ^ { k } + T _ { \\mathrm { s c } } \\left( \\boldsymbol { A } \\boldsymbol { x } ^ { k } + \\boldsymbol { B } \\boldsymbol { u } _ { \\mathrm { s } } ^ { k } \\right) } \\\\ { \\displaystyle \\boldsymbol { x } ^ { k + 1 } = \\boldsymbol { x } _ { \\mathrm { p } } ^ { k + 1 } + \\frac { T _ { \\mathrm { s c } } } { 2 } \\boldsymbol { A } \\left( \\boldsymbol { x } _ { \\mathrm { p } } ^ { k + 1 } - \\boldsymbol { x } ^ { k } \\right) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $x _ { \\mathrm { p } } ^ { k + 1 }$ 与 $T _ { \\mathrm { s c } }$ 分别为预测校正变量和控制周期,（204号 $\\boldsymbol { x } ^ { k + 1 } = [ i _ { \\mathrm { s } } ^ { k ^ { + 1 } } ~ \\boldsymbol { \\varPsi } _ { \\mathrm { ~ r ~ } } ^ { k ^ { + 1 } } ] ^ { \\mathrm { T } }$ 为预测得到的下一时刻的状态变量。因此下一时刻的电磁转矩 $T _ { \\mathrm { e } } ^ { k + 1 }$ 能够被预测得到",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { e } } = \\frac { 3 } { 2 } N _ { \\mathrm { p } } \\frac { L _ { \\mathrm { m } } } { L _ { \\mathrm { r } } } \\varPsi _ { \\mathrm { r } } ^ { k + 1 } \\circledast \\dot { \\mathfrak { t } } _ { \\mathrm { s } } ^ { k + 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 线性PI调节器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统的线性PI调节器如下所示",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { { \\scriptscriptstyle P I } } } \\left( s \\right) = \\frac { k _ { \\mathrm { { p } } } s + k _ { \\mathrm { { i } } } } { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统电流内环采用两个独立的PI调节器分别对d、q轴电流环进行调节。如式（4）第一行所示，忽略d、q轴电流交叉耦合项以及反电动势项后，定子电流到电压的传递函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { I _ { \\mathrm { s } } ^ { \\mathrm { e } } ( s ) } { U _ { \\mathrm { s } } ^ { \\mathrm { e } } ( s ) } = \\frac { 1 } { \\delta L _ { \\mathrm { s } } s + R _ { \\mathrm { s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据式（7）和式（8)，电流内环的开环传递函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { o p I } } \\left( s \\right) = \\frac { k _ { \\mathrm { p } } s + k _ { \\mathrm { i } } } { s } \\frac { 1 } { \\delta L _ { \\mathrm { s } } s + R _ { \\mathrm { s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设期望的电流环控制带宽为 $k$ ，可得： $k _ { \\mathrm { p } } =$ $k \\delta L _ { \\mathrm { s } }$ ， $k _ { \\mathrm { i } } = k R _ { \\mathrm { s } }$ 。将 $k _ { \\mathrm { p } }$ ， $k _ { \\mathrm { i } }$ 代入式（9）可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { O P I } } \\left( s \\right) = \\frac { k } { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此可见在理想情况下，采用线性PI调节器可将电流内环校正为一阶惯性环节，如下所示",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { c l } } \\left( s \\right) = \\frac { k } { s + k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可见系统始终稳定且不存在超调，按照工程应用输出滞后参考值 $4 5 ^ { \\circ }$ 定义系统的控制带宽 ${ } ^ { [ 1 1 ] } \\omega _ { \\mathrm { c } }$ ，易得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { \\mathrm { c } } = k\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而由于数字处理延迟环节 $G _ { \\mathrm { d } }$ 的存在且不为1，上述建模环节并不完全符合实际情况如图1所示，本文重点介绍离散域电流调节器在离散域中的设计方法，以及PI系数在理论上的设计，同时考虑数字系统一拍延时的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4b14532ef9ad7286ee4b12ce86012dc79f70b89173819137b07a9ba13d59424.jpg",
+        "img_caption": [
+            "图1传统线性PI调节器控制框图",
+            "Fig.1Control diagram of traditional PI regulator "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "离散域电流调节器的设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统的线性PI调节器将电流内环分离成d、q轴两个控制环，由于两个环路之间存在交叉耦合项并不能实现完全独立设计。而复矢量调节器将d、q轴电流环当作一个整体，与传统方法相比具有更优的控制性能和参数鲁棒性[18-20]。根据式（4）中第一行转化成到d、q坐标系下，同时不考虑反电动势的影响后进行拉普拉斯（Laplace）变换可得",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { d q } } ^ { \\mathrm { e } } \\left( s \\right) = \\frac { I _ { \\mathrm { d q } } \\left( s \\right) } { U _ { \\mathrm { d q } } \\left( s \\right) } = \\frac { 1 } { \\delta L _ { \\mathrm { s } } s + R _ { \\mathrm { s } } + \\mathrm { j } \\omega _ { \\mathrm { e } } \\delta L _ { \\mathrm { s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于实际应用中大都采用数字控制系统，基于连续域设计的调节器最终还需进行离散化处理，为了避免离散化处理带来的误差，本文采用更为直接的设计方法在离散域设计电流调节器。在离散域建立电流内环数学模型[1]其表达式如下",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { p } } \\left( z \\right) = \\frac { I _ { \\mathrm { d q } } ^ { \\mathrm { e } } \\left( z \\right) } { U _ { \\mathrm { d q } } ^ { \\mathrm { e } } \\left( z \\right) } = \\frac { 1 - \\mathrm { e } ^ { - T _ { \\mathrm { s } } / T _ { \\mathrm { 6 } } } } { R _ { \\mathrm { s } } \\left( z \\mathrm { e } ^ { \\mathrm { j } \\omega _ { \\mathrm { e } } T _ { \\mathrm { s } } } - \\mathrm { e } ^ { - T _ { \\mathrm { s } } / T _ { \\mathrm { 6 } } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $T _ { \\delta } = \\delta L _ { \\mathrm { s } } / R$ ； $T _ { \\mathrm { s } }$ 为控制周期； $z$ 为 $Z$ 变换算子;  \ne为自然对数； $\\omega _ { \\mathrm { e } }$ 为同步电角速度； $\\mathrm { ~ j ~ }$ 为虚数单位。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然后再考虑在同步坐标系下补偿数字控制系统的一拍延迟，得到异步电机同步旋转坐标系下电流内环的离散域数学模型 $G _ { \\mathrm { d q } } ^ { \\mathrm { e } } ( z )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { d q } } ^ { \\mathrm { e } } \\left( z \\right) = \\frac { 1 - \\mathrm { e } ^ { - T _ { \\mathrm { s } } / T _ { \\mathrm { 6 } } } } { R z \\mathrm { e } ^ { \\mathrm { j } \\omega _ { \\mathrm { e } } T _ { \\mathrm { s } } } \\left( z \\mathrm { e } ^ { \\mathrm { j } \\omega _ { \\mathrm { e } } T _ { \\mathrm { s } } } - \\mathrm { e } ^ { - T _ { \\mathrm { s } } / T _ { \\mathrm { 6 } } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据式（15）电流内环的数学模型，基于零极点对消的设计方法，直接设计含有可调参数的同步旋转坐标系下电流内环的离散域调节器 $G _ { \\mathrm { d q } } ^ { \\mathrm { e } } ( z )$ 如式（16）所示，其整个的控制框图如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { c c } } ^ { \\mathrm { e } } \\left( z \\right) = \\frac { k R ( \\mathrm { e } ^ { \\mathrm { j } \\omega _ { \\mathrm { e } } T _ { \\mathrm { s } } } - z ^ { - 1 } \\mathrm { e } ^ { - T _ { \\mathrm { s } } / T _ { \\mathrm { \\delta } } } ) } { ( 1 - z ^ { - 1 } ) } \\mathrm { e } ^ { \\mathrm { j } \\omega _ { \\mathrm { e } } T _ { \\mathrm { s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c030591e7692e0c11ef1c00d0bbfe1a5a55dc63030dd94b4e917bf429b7c07ec.jpg",
+        "img_caption": [
+            "图2离散域调节器控制框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据式（15）得到的离散域数学模型 $G _ { \\mathrm { d q } } ^ { \\mathrm { e } } ( z )$ 和式（16）中得到的离散域调节器 $G _ { \\mathrm { c c } } ^ { \\mathrm { e } } ( z )$ ，可得到系统的开环传递函数",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { o p } } ^ { \\mathrm { e } } \\left( z \\right) = G _ { \\mathrm { d q } } ^ { \\mathrm { e } } \\left( z \\right) G _ { \\mathrm { c c } } ^ { \\mathrm { e } } \\left( z \\right) = \\frac { k ( 1 - \\mathrm { e } ^ { - T _ { \\mathrm { s } } / T _ { \\mathrm { 6 } } } ) } { z ( z - 1 ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $k$ 为可调参数； $z$ 为 $Z$ 变换算子。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此可以根据式（17）得到系统的闭环传递函数如下",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { c l } } ^ { \\mathrm { e } } \\left( z \\right) = \\frac { k ( 1 - \\mathrm { e } ^ { - T _ { \\mathrm { s } } / T _ { \\mathrm { b } } } ) } { z ( z - 1 ) + k ( 1 - \\mathrm { e } ^ { - T _ { \\mathrm { s } } / T _ { \\mathrm { b } } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在实际应用中，由于受到噪声以及模型不精确等因素的影响，为保证系统的稳定性通常要求相位裕度至少为 $4 5 ^ { \\circ }$ ，根据剪切频率可以求得系数 $k$ 的最大值。令式（17）中 $z = { \\mathrm { e } } ^ { { \\mathrm { j 0 } { T _ { \\mathrm { s } } } } }$ ，可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { o p } } ^ { \\mathrm { e } } \\left( z \\right) = \\frac { k _ { \\mathrm { c o n } } } { \\mathrm { e } ^ { \\mathrm { j } \\omega T _ { \\mathrm { s } } } \\left( \\mathrm { e } ^ { \\mathrm { j } \\omega T _ { \\mathrm { s } } } - 1 \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $k _ { \\mathrm { c o n } } = k ( 1 - { \\mathrm e } ^ { - T _ { \\mathrm { s } } / T _ { \\mathrm { s } } } )$ ，由于 $T _ { \\mathrm { s } }$ 通常很小，为了保证控制精度，本文采用Pade近似[21来化简式（19)，可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { o p } } ^ { \\mathrm { e } } \\left( z \\right) = \\frac { k _ { \\mathrm { c o n } } } { \\mathrm { e } ^ { 1 . 5 \\mathrm { j } \\omega T _ { \\mathrm { s } } } \\mathrm { j } \\omega T _ { \\mathrm { s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据式（20）可得剪切频率为 $\\omega _ { \\mathrm { c } } = k _ { \\mathrm { c o n } } / T _ { \\mathrm { s } }$ ，令此时的相位裕度为 $4 5 ^ { \\circ }$ ，因此可以求得最大的 $k$ 值如下所示",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pi - \\pi / 2 - 1 . 5 \\omega _ { \\mathrm { c } } T _ { \\mathrm { s } } = \\pi / 4\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由式（21）可得 $k$ 的最大值为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { \\mathrm { m a x } } = \\frac { \\pi } { 6 ( 1 - \\mathrm { e } ^ { - T _ { \\mathrm { s } } / T _ { \\mathrm { b } } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于按照 $k _ { \\mathrm { m a x } }$ 对电流调节器进行参数整定时，虽然具有较快的上升速度但是超调量很大，如图3所示。因此有必要求得一个最优的系数 $k _ { \\mathrm { o p t } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5034211e95f44fd1778cbe92fa1fb689ce7ecfab1282f3ce185b18999c1415ac.jpg",
+        "img_caption": [
+            "Fig.2Control diagram of discrete-time PI regulator ",
+            "图3离散域调节器q轴电流阶跃响应",
+            "Fig.3 Simulation results of a step response of ${ \\sf q }$ -axis current in discrete-time regulator "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据式（17）的系统开环传递函数，可以得到系统的闭环特征方程",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz ^ { 2 } - z + k ( 1 - \\mathrm { e } ^ { - T _ { \\mathrm { s } } / T } ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据自动控制原理，当系统闭环特征方程的两",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "个根均位于实轴时，系统无超调量，此时需满足",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 - 4 k ( 1 - \\mathsf { e } ^ { - T _ { \\mathrm { s } } / T _ { \\mathrm { b } } } ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此可以得到实现系统无超调的可调参数的最优值为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { \\mathrm { o p t } } = \\frac { 1 } { 4 ( 1 - \\mathrm { e } ^ { - T _ { \\mathrm { s } } / T _ { \\mathrm { 6 } } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将式（25）中得到的最优值 $k _ { \\mathrm { o p t } }$ ，代入式(16)中的离散域调节器 $G _ { \\mathrm { c c } } ^ { \\mathrm { e } } ( z )$ 中，即得到同步旋转坐标系下电流内环的离散域调节器",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { c c o p } } ^ { \\mathrm { e } } \\left( z \\right) = \\frac { k _ { \\mathrm { o p } } ^ { z } R _ { \\mathrm { s } } ( \\mathrm { e } ^ { \\mathrm { j } \\omega _ { \\mathrm { e } } T _ { \\mathrm { s } } } - z ^ { - 1 } \\mathrm { e } ^ { - T _ { \\mathrm { s } } / T _ { \\mathrm { 6 } } } ) } { ( 1 - z ^ { - 1 } ) } \\mathrm { e } ^ { \\mathrm { j } \\omega _ { \\mathrm { e } } T _ { \\mathrm { s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在仿真中采用式（25）中最优系数 $k$ 之后，系统的闭环函数阶跃响应如图3所示，从图中可以看出，系统响应迅速并且没有超调，验证了本小节离散域调节器参数设计的有效性。现有文献[9,20]通过理论和实验研究表明，基于离散域设计的电流调节器具有良好的稳定特性和较好的参数鲁棒性。但是它们并未给出参数的优化设计原则，本节基于离散域设计与自动控制原理，从理论上推导出电流调节器参数 $k$ 的解析表达式和最优值。下面将通过仿真和实验来验证本节电流调节器参数设计的有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 仿真与实验结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1 仿真结果 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文中提出的算法有效性，在实验室一台 $2 . 2 \\mathrm { k W }$ 异步电机调速平台上进行了仿真和实验验证，电机参数见下表。PWM周期为 $2 0 0 \\mu \\mathrm { s }$ ，传统线性PI按照最优设计调节器的系数为 $k _ { \\mathrm { o p } } = 1 \\ 1 4 4$ 。离散域调节器的增益系数根据式（25）设置为7.54。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先验证本文中离散域电流调节器参数设计的有效性，对q轴电流阶跃给定进行了仿真。电机初始转速为 $- 1 ~ 5 0 0 \\mathrm { r / m i n }$ ，然后突加转矩开始加速，加速期间的q轴电流响应如图3所示。从图中可以看出，采用优化设计的增益系数后，q轴电流能迅速跟踪上给定值而且不存在超调。而按照最小相位裕度要求设计的参数 $k _ { \\mathrm { m a x } }$ ，q轴电流上升时间较短但存在较大超调，仿真结果与理论分析非常一致，从而间接验证了算法的正确性。对于离散域电流调节器，采用优化设计的增益参数后超调量大大减小同时又没有牺牲最终的整定时间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表仿真和实验参数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a9c19bd39a488febac48a6857b766e7ee05cef58c9676c08c82614b764e2d3d7.jpg",
+        "table_caption": [
+            "Tab. Simulated and experimental parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>UdV</td><td>540</td></tr><tr><td>Pn/kW</td><td>2.2</td></tr><tr><td>U/V</td><td>380</td></tr><tr><td>f/Hz</td><td>50</td></tr><tr><td>NP</td><td>2</td></tr><tr><td>Tn/N· m</td><td>14</td></tr><tr><td>R/Ω</td><td>3.126</td></tr><tr><td>R./Ω</td><td>1.879</td></tr><tr><td>Lm/H</td><td>0.221</td></tr><tr><td>L/H</td><td>0.23</td></tr><tr><td>L/H</td><td>0.23</td></tr><tr><td>y/Wb</td><td>0.91</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然后验证以上两种电流调节器在动态过程中的性能，稳态性能将通过实际实验进行比较。首先将励磁电流值固定为3.2A，转矩电流给定为锯齿波，在这个过程中电机转速在 $7 5 0 \\sim 1 ~ 5 0 0 \\mathrm { r / m i n }$ 变化,图4为相应的仿真波形，由于延迟环节的存在，d、q轴电流环之间存在一定的耦合，再加上仿真中同步电角速度经过滤波处理，因此d轴电流在大动态过程中略受影响。对于离散域电流调节器，d轴电流很快恢复至参考值，而基于传统PI线性调节器的d轴电流则一直受到变化的q轴电流影响，这是由于控制延迟的存在使得传统线性PI调节器难以通过前馈的方式来实现两个电流环的完全解耦。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f32ce6c0353a4caf66b6912d16738b12ce169dd7bb3353b6c9d5887392196778.jpg",
+        "img_caption": [
+            "图4给定q轴电流为锯齿波时的仿真波形 Fig.4Simulation results of a given Saw tooth wave of $\\mathfrak { q }$ -axiscurrent "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图5为电机运行在 $1 ~ 5 0 0 \\mathrm { r / m i n }$ 突加、减负载的实验图，在此给出了传统PI调节器和离散域调节器的仿真测试波形。从图5可以看出，在突加、减负载时，q轴电流能迅速跟踪到指令值，电机转速略有变化后很快恢复至稳定值，同时d轴电流基本维持恒定，验证了本文中离散域电流调节器设计的有效性。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/583794a58829d9b39f93a543312fc9644eac6a1e7e98592cf3d9593636679def.jpg",
+        "img_caption": [
+            "图5 $1 5 0 0 \\mathrm { r / m i n }$ 时突加、减负载的仿真波形 Fig.5Simulation results of responses with sudden load change at $1 5 0 0 \\mathrm { r / m i n }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2实验结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了仿真验证，也在两电平交流调速实验平台上验证本文提出的离散域设计电流调节器的有效性。实验装置如图6所示，电机参数和系统采样频率与仿真一样，见上表。实验中采用DSPTMS320F28335来执行主算法，负载转矩通过磁粉制动器来加负载，电机的实际转速通过增量式编码器直接获得，电机的内部变量除了定子电流外都是通过控制板上的12位DA芯片输出到示波器上显示，其中定子电流是通过电流钳获得。1通道为实际测量转速，2通道为估计的q轴电流，3通道为估计的d轴电流。1～3通道在示波器上每格代表的数值已在图形中标注，4通道每格代表的电流大小示波器本身已标注在截图的左下角。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/061336a461f83019191aed52fbdf84303f51847eb064f123467e6e433f631770.jpg",
+        "img_caption": [
+            "图6两电平异步电机实验平台",
+            "Fig.6Experimental setup of two-level IM drive "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于本文并未考虑高速弱磁运行，两种电流环的性能在实验测试中性能差异不大，限于篇幅本文只给出基于离散域调节器的实验结果。首先在电机静止条件下对调节器参数设计值进行了测试，从图7可以看出，将调节器参数设置按式（22）计算的$k _ { \\mathrm { m a x } }$ 时，d轴电流能在4ms内跟踪上指令值，但是存在一定的超调。而采用式（25）优化设计的参数$k _ { \\mathrm { o p t } }$ 时，超调消除而且d轴电流在4ms左右时间亦能跟踪上指令值，不同于仿真，实验中控制器所使用的电机参数不可避免地存在一定的误差，所以阶跃响应与图4中的仿真结果略有区别。此实验验证了前面关于调节器参数优化设计分析的正确性。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ee63abc843db3b620404334f30d443dc186861b1775180e152f5a8b19bf8811.jpg",
+        "img_caption": [
+            "图7 不同调节器参数对应的d轴电流阶跃响应Fig.7A step response of d-axis current for differentregulator parameter"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图8与图9分别为有速度传感器矢量控制中采用离散域调节器最优的系数 $k _ { \\mathrm { o p t } }$ 在 $1 5 0 \\mathrm { r / m i n }$ 和 $1 \\ 5 0 0 \\mathrm { r / m i n }$ 空载与带额定负载的工况下的实验结果。从图8和图9可以看出，FOC在低、高速情况下稳态运行良好，电流波形光滑正弦。为进一步验证系统的低速性能，在 $6 \\mathrm { r / m i n }$ 下进行了带额定负载实验，从图10可以看出系统运行良好，电流波形光滑正弦，也表明了离散域电流调节器矢量控制具有良好的低速性能。从而说明本文提出的离散域调节器的设计在全速范围內都具有良好的稳态性能。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e437ce5e9259706dbe4015709ccb77022a58f8385b8265a5654973f0e012274.jpg",
+        "img_caption": [
+            "图9 $1 5 0 0 \\mathrm { r / m i n }$ 稳态实验波形 Fig.9Steady state of $1 5 0 0 \\mathrm { r / m i n }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c46b828fc10c42cffb83a7a85f0d41895e08c86ffa42fd411c300e5b75d6de99.jpg",
+        "img_caption": [
+            "图8 $1 5 0 \\mathrm { r / m i n }$ 稳态实验波形 Fig.8Steady state of $1 5 0 \\mathrm { r / m i n }$ ",
+            "图11 $0 \\sim 1 5 0 0 \\mathrm { r / m i n }$ 空载起动波形",
+            "Fig.11Starting response from O to $1 5 0 0 \\mathrm { r / m i n }$ without load "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "除了稳态性能的实验验证，本文还测试了此算法的动态实验如图11和图12所示，分别为系统的起动与高速正反转测试波形。为实现系统在起动时具有足够的带载能力，在起动前进行了直流预励磁处理，即令q轴电流为零并在d轴通入恒定的直流来对电机行励磁，当气隙磁通达到设定值时即可满",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/628163c3733e98b55bd1a0467b0df87755b54c4ff2f45be190b076d04107cf76.jpg",
+        "img_caption": [
+            "图10 $6 \\mathrm { r / m i n }$ 时带额定负载的稳态实验波形 Fig.10Steady state of $6 \\mathrm { r / m i n }$ without rated load "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ω(1125(r/min)/格)   \n?   \n2 iq(75A/格)   \n③ 1-:1 id(15A/格)   \n④ Wwww   \n5.00V 5.00V 40.0ms /0.00V   \n10.0V 10.0A 平均 2.02 A 平均 2.15V 2227:06 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "载起动电机。从图11可以看出，d、q轴电流响应迅速，在动态过程中并未出现超调现象，验证了前面参数设计理论分析的正确性。图12为系统从$1 ~ 5 0 0 \\mathrm { r / m i n }$ 到 $- 1 ~ 5 0 0 \\mathrm { r / m i n }$ 的正反转测试波形。同样，q轴电流迅速增加至最大值，并且没有出现超调振荡现象，而且d轴电流在整个q轴电流波形变化的过程中始终稳定在参考值，从而验证了基于离散域电流调节器的设计能够在动态过程中实现d、q轴电流的解耦控制。另外，转速在过零区域切换过程平滑，表明整个系统具有良好的动态性能。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2d2f93d57818bb58a4982eedc499543d7df49be7e08c3c6aaf48d8dca85834b.jpg",
+        "img_caption": [
+            "图12 $1 5 0 0 \\mathrm { r / m i n }$ 时正反转波形",
+            "Fig.12Reverse to forward operation at $1 5 0 0 \\mathrm { r / m i n }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6 结论 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文详细地研究了矢量控制中的电流环调节器的设计方法，主要介绍了传统线性PI电流调节器与基于离散域中设计的电流调节器，并且基于相位裕度和自动控制原理等理论分析方法，详细地推导出了离散域调节器的解析表达式，同时也在理论上推导出离散域调节器系数 $k$ 的最优值，从而能保证系统无超调又能满足系统的动态响应，最终通过仿真与实验对两种调节器的设计进行了验证。由于离散域调节器的优势主要在高速弱磁部分与低载波比情况下[18-19]，而本文并未考虑高速弱磁运行部分，所以两种调节器在仿真与实验中的性能区别不是很大。但是总体上而言，离散域调节器不像传统PI调节器那样将两个电流环分开考虑，所以离散域中直接设计电流调节器的结构要简单很多，同时也省去了传统线性PI调节器在实际应用中还需要离散化的步骤，从而减少了离散化过程中带来的误差。因此本文提出的离散域中直接设计电流调节器有效提高了矢量控制的工业应用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Dai Ying,Song Liwei, Cui Shumei.Development of PMSM drives for hybrid electric car applications[J]. IEEE Transactions on Magnetics,2007,43(1): 434-437. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2] 王成元，夏加宽，孙宜标．现代电机控制技术[M]. 北京：机械工业出版社，2009.   \n[3] Pucci M, Vitale G. High performance VOC-FOC based wind generator system with induction machine[C]. IEEE International Electric Machines and Drives Conference, 2009: 1474-1479.   \n[4] Simanek J, Novak J, Cerny O,et al. FOC and flux weakening for traction drive with permanent magnet synchronous motor[C]. IEEE International Symposium on Industrial Electronics. 2008:753- 758.   \n[5] Geyer T,Papafotiou G, Morari M. Model predictive direct torque control； part I: Concept, algorithm, and analysis[J]. IEEE Transactions on Industrial Electronics,2009, 56(6): 1894-1905.   \n[6] Zhang Yongchang, Zhu Jianguo. A novel duty cycle control strategy to reduce both torque and flux ripples for DTC of permanent magnet synchronous motor drives with switching frequency reduction[J]. IEEE Transactions on Industrial Electronics, 2011, 26(10): 3055-3067.   \n[7] Foo G, Rahman M. Sensorless direct torque and flux-controlled IPM synchronous motor drive at very low speed without signal injection[J].IEEE Transactions on Industry Application, 2010, 57(1): 395-403.   \n[8] Pacas M, Weber J. Predictive direct torque control for the PM synchronous machine[J]. IEEE Transactions on Industrial Electronics, 2005, 53(5): 1350-1356.   \n[9] 李武军，阮毅．矢量控制系统的电流解耦及其调 节器设计[J]．电机与控制应用，2008，36(12)： 18-22. Li Wujun, Run Yi. Decoupling of current and design of controller for vector control system[J].Electrical Machines & Control Application, 2008,36(12): 18-22.   \n[10]Holtz J, Quan J, Pontt J,et al. Design of fast and robust current regulators for high-power drives based on complex state variables[J]. IEEE Transactions on Industry Applications, 2004, 40(5): 1388-1397.   \n[11]Kim H, Degner M, Guerrero J,et al. Discrete-time current regulator design for AC machine drives[J]. IEEE Transactions on Industry Applications, 2010, 46(4): 1425-1435.   \n[12]Yepes A, Vidal A,Freijedo F, et al. A simple tuning method aimed at optimal settling time and overshoot for synchronous PI current control in electric machines[C]. IEEE Energy Conversion Congress and Exposition,2013:1465-1472.   \n[13] Zhang Y,Xia B,Yang H.Performance evaluation of an improved model predictive control with field oriented control as a benchmark[J].IET Electric Power Applications,2017,in press.(DOI:10.1049/ iet-epa.2015.0614)   \n[14] Zhang Yongchang,Yang Haitao.Model predictive torque control of induction motor drives with optimal duty cycle control[J].IEEE Transactions on Power Electronics,2014,29(12): 6593-6603.   \n[15] Holtz J.The representation of AC machine dynamics by complex signal flow graphs[J].IEEE Transactions onIndustrialElectronics,1995,42(3):263-271.   \n[16] Zhang Y,Yang H. Torque ripple reduction of model predictive torque control of induction motor drives[C].IEEE Energy Conversion Congress and Exposition,2013:1176-1183.   \n[17] LiQ,Wang N,Yi D.Numerical analysis[M]. Tsinghua University Press,2001.   \n[18] Bae B H, Sul S K.A compensation method for time delay of full-digital synchronous frame current regulator of PWM AC drives[J]. IEEE Transactions on Industry Applications,2003,39(3): 802-810.   \n[19] YimJ S,Sul SK,Bae BH,et al.Modified current control schemes for high-performance permanent magnet AC drives with low sampling to operating frequency ratio[J].IEEE Transactions on Industry Applications,2009,45(2): 763-771.   \n[20] Huh K K,Lorenz R. Discrete-time domain modeling and design for AC machine current regulation[C]. Industry Applications Conference,2007:2066-2073.   \n[21] 杨海涛．异步电机无速度传感器模型预测控制[D]. 北京：北方工业大学，2015. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（上接第23页）",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7] 章勤．PWM整流器模型预测电流控制和LCL滤波技术研究[D]．北京：北方工业大学，2015.  \n[8] 曲昌琦．非理想电网下PWM整流器控制关键技术研究[D]．北京：北方工业大学，2015.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9] Zhang Y, Xie W,Li Z,et al. Low complexity model predictive power control-double vector based approach[J].IEEE Transactions on Industrial Electronics,2014,61(11): 5871-5880. ",
+        "page_idx": 8
+    }
+]

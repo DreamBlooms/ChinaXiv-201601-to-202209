@@ -1,0 +1,332 @@
+# 一种面向中文本体模式的本体对齐框架
+
+# 王汀高迎 刘经纬
+
+(首都经济贸易大学信息学院北京 100070)
+
+摘要：【目的】现有的本体对齐方法往往忽视中文概念的语序敏感和一词多义的语义特征。本文提出一种基于同义词词林和序列比对算法的大规模中文本体映射模型。【方法】采用基于改进的同义词词林相似度算法计算简单词元的语义相似度。并利用基于改进同义词词林与序列比对相融合的算法度量未登录词之间的语义相似度。【结果】在由 DBpedia(中文版)、百度百科和互动百科知识库所构建的测试语料上的关联映射实验结果表明，该模型的准确率、召回率和综合评价指标平均分别达到约 $9 7 . 5 \%$ 、 $87 . 8 \%$ 和 $9 2 . 1 \%$ 。【局限】本模型仅专注于对中文本体概念的元素级相似度度量，并未考虑本体属性和实例对于概念等价关系的影响因素。【结论】在面向中文网络百科的大规模开放语义数据集上的评测结果证明，该模型的总体性能明显优于现有算法。
+
+关键词：中文关联数据 同义词词林序列比对本体映射相似度计算分类号：G353.1
+
+# 1引言
+
+语义Web 的愿景是建立"数据之网"(Web of Data),以使机器能够理解网络上的语义信息[1]。本体作为语义Web的核心元素，是描述特定领域共享概念的形式化、规范化说明[2]，是实现网络知识共享和语义互操作的基础。目前关联数据(Linked Open Data,LOD)[]的研究工作主要集中在面向实例级别(LevelofInstances)上展开[4-5]，同时，由于不同本体之间存在异构性，导致本体间的重用和共享变得困难。因此，作为关联数据的基础和前提，面向模式级别(Schema-Level)的关联数据构建研究亦很重要[6]。
+
+本体映射(Ontology Mapping)作为模式级的关联数据构建典型场景已被广泛研究，其任务就是要发现异构本体或数据源(LODDatasets)之间的概念语义关联。而随着语义网的蓬勃发展，中文描述的大规模本体和知识库也越来越多地被构建和共享出来。同时，由于文化和背景的原因，目前大规模中文关联数据网络的构建研究尚处于初级阶段，更缺乏成熟的面向模式级别的大规模中文关联数据模型。因此，为了解决在关联数据网络中的中文本体语义互操作和共享问题，本文面向本体模式层面，提出一种新的大规模中文本体映射模型。
+
+# 2相关工作
+
+国内外研究人员已提出多种映射方法和典型系统。Melnik 等7提出一种结构级本体映射算法：SimilarityFlooding，利用本体的概念体系构造相似度传播图，并对概念之间的相似度进行传播和修正。Cohen 等[8分析基于编辑距离和基于 Token 的几种典型元素级相似度计算算法，并对几种算法的性能进行评测。Giunchiglia等提出基于语言学方法，并引入共享知识词典(如：WordNet[1o)，利用语言关系进行语义关系发现。Isaac 等[1提出一种实例级本体映射算法,根据本体概念的公共实例数量来度量概念的相似度。Nikolov 等[12]基于工作流技术提出链接数据的框架KnoFuss，利用本体库中概念之间的层次关系选择最合适的匹配方法以及匹配参数。Zhong 等[13]提出
+
+RiMOM系统，该系统基于本体实例、概念名称以及本体结构等特征的多策略映射方式，并通过引入普适的场论思想，使其适用于大规模本体的映射任务。Jain等[发布了BLOOMS系统，该系统基于Bootstrapping方法并采用Wikipedia顶层分类树作为相似度计算知识库，从而进行LOD环境中的面向本体模式的链接构建。但是上述系统均只能针对和处理英文描述的语义数据集的本体模式映射任务。
+
+近年来，越来越多的学者开始关注中文本体及其关联数据的构建工作。特别是在面向本体模式级别(即：本体映射)的中文关联数据网络建设层面上，李佳等[14]提出一种基于知网(HowNet)[15]的元素层概念相似度计算的方法并实现中文本体映射系统，但该系统忽视了中文普遍存在的"语序敏感"和“一词多义"现象[16，因此在面对大规模本体映射任务时，其在关联数据环境中的适用性有待验证。基于《同义词词林》扩展版)[17]，田久乐等[18]提出一种中文词语语义相似度计算算法，但并未涉及对于中文未登录词的相似度计算处理方式，其成果也未在实际的大规模关联数据网环境下应用。
+
+除此之外，也有很多面向实例级别的典型关联数据系统。Silk[19-20]是一个在不同数据集之间实现链接的框架，其设计了一种声明式语言，用户可以对两个数据集之间的链接进行配置，包括链接的类型和链接的条件，并且可以实现远程数据集与本地数据集的链接。Hassanzadeh等[21]提供了一个通用和可扩展的框架LinQL，其中集成了很多已有的发现关联的方法。该框架的目的是帮助用户选择最适合的数据集的关联方法。同时，还支持基于关系数据库进行发布的RDF数据，例如使用D2RQ或Virtuoso发布的关系数据。Wang 等[提出基于中文百科的分类体系DMOZs，抽取概念之间的层次关系并获取含有Infobox的词条Web页面中的概念属性及百科词条实例，最终建立起基于百度百科和互动百科的两大中文大规模本体库，并根据简单的关键字匹配策略，与DBpedia建立起实例间的共指关系。Niu等[4]将百度百科[22]、互动百科[23]以及中文维基百科[24-25]进行语义集成，并开发出基于中文描述的实例级关联数据应用系统Zhishi.me。为了实现在关联数据网络环境中的知识共享、重用和语义互操作，跨语言的本体链接和映射就成为必须要解决的问题。Wang等[26提出采用概念标注方法，借助少量的跨语言链接和内部链接种子来丰富内部链接，并在此基础上采用回归学习模型来预测中英文维基百科之间潜在的跨语言链接。但是上述系统均只涉及实例之间的关联关系构建，而缺乏对于本体模式层面上的链接获取和发现。
+
+综上所述，目前发布在Web上的中文大规模本体仍然较少，且存在较大的异构性，而现有的中文本体映射系统在面对大规模本体映射任务时，效率较低且可用性不高。同时，仍缺乏针对中文语言描述且适应LOD环境的大规模本体映射系统。因此，本文基于《同义词词林》(扩展版)和序列比对思想，提出一种新的中文本体映射模型。该模型可以有效解决中文概念相似度计算时出现的语序敏感和一词多义问题。在基于中文网络百科构建的大规模本体测试集上的实验结果表明，该系统可以获得高于前人工作的总体性能。
+
+# 3 问题定义
+
+《同义词词林》(TongYiCiCiLin，TYCCL)(扩展版)中已收录的词汇称为简单词元。在中文本体映射系统中，简单词元与未登录词都对应于本体概念。本文将简单词元称为原子概念(Atom Concept，AC)，将未登录词统称为组合概念(Component Concept，CC)，并约定组合概念由若干个原子概念的线性排列组合而成。下面给出问题的定义：
+
+定义1：本体映射：两个待映射本体 $O _ { s } , O _ { t }$ ，对于$O _ { s }$ 中的概念 $C _ { s } ,$ 在 $O _ { t }$ 中找到与其语义相同或接近的概念 $C _ { t } ,$ 有映射函数map: $O _ { s } {  } O _ { t }$
+
+对于 $\forall C _ { s } \in O _ { s }$ ， $\forall C _ { t } \in O _ { t } .$ 若 $s i m ( C _ { s } , \ C _ { t } ) { > } t ;$ ：则有map $( C _ { s } ) { = } C _ { t }$
+
+sim $( C _ { s } , C _ { t } )$ 为 $C _ { s }$ 和 $C _ { t }$ 的相似度, $t$ 是阈值，当 $C _ { s }$ 与$C _ { t }$ 的语义相似度大于 $t$ 时，则将 ${ < } C _ { s } ,$ $C _ { t } { > }$ 作为等价概念映射对。
+
+定义2：本文认为《同义词词林》(扩展版)中收录的全部词汇以及它们之间的语义关系可构成一个语义知识库(Semantic Knowledge Base，SKB)，记做：$S K B _ { T Y C C L }$ 。显然集合 $S K B _ { T Y C C L }$ 由原子概念组成，即有$S K B _ { T Y C C L } { = } \{ A C _ { I } , A C _ { 2 } , \cdots , A C _ { N } \} \circ N$ 为知识库中所收录的词元总数。
+
+定义3：组合概念 $\ C C _ { i }$ 由一系列原子概念的有序排列构成。对于 $\forall A C _ { i } \in S K B _ { T Y C C L } .$ ，引入二维下标 $i$ 和$j ,$ 则有有序序列 $C C _ { i } { = } [ A C _ { i I } , A C _ { i 2 } , \cdots , A C _ { i j } ]$ ，其中 $j \mathbf { \geq } 1$ 且 $C C _ { i } { \notin } S K B _ { T Y C C L } , j$ 为原子概念 $A C _ { i }$ 在有序序列 $C C _ { i }$ 中的排列位置。特别地，对于所有的原子概念 $A C _ { i } ,$ 可以有 $A C _ { i } { = } [ A C _ { i } ]$ 。
+
+定义4:对于本体 $O _ { s }$ 和 $O _ { t }$ 中的概念 $C _ { s }$ 和 $C _ { t } ,$ 有$C _ { s } { = } C C _ { s }$ [ $A C _ { s l } ,$ $A C _ { s 2 } ,$ …， $A C _ { s m } ] ,$ ， $C _ { i } { = } C C _ { i } { = } [ A C _ { t l } .$ $A C _ { t 2 }$ …,$A C _ { t n } ]$ 。 $m$ 和 $n$ 分别为概念 $C _ { s }$ 和 $C _ { t }$ 所对应的有序序列$C C _ { s }$ 和 $C C _ { t }$ 的长度，则有 $m , n { \geqslant } 1$ ○
+
+# 4基于同义词词林和序列比对的中文关联数据模型
+
+该模型主要由以下功能模块组成：本体预处理、组合概念分词处理、改进的同义词词林相似度计算、构建打分矩阵以及组合概念相似度计算(包含：改进的同义词词林相似度计算和序列比对处理)。系统总体框架如图1所示。基于上述形式化定义，将对中文本体概念映射过程中的各种情况进行分类讨论。
+
+![](images/aa49d6b91df53b80c67a22e4144ced1b1658c0e439ce8158b89a0e68819aa6f0.jpg)  
+图1基于同义词词林和序列比对的中文本体映射模型
+
+对于待映射的源本体 $O _ { s }$ 和目标本体 $O _ { t }$ 中的任意两个概念 $C _ { s }$ 和 $C _ { t } ,$ 在进行概念的语义相似度计算时,会出现如下三种情况：
+
+(1) $C _ { s }$ 和 $C _ { t }$ 均为原子概念，即： $C _ { s } \in S K B _ { T Y C C L }$ 且$C _ { t } \in S K B _ { T Y C C L }$ ：(2) $C _ { s }$ 和 $C _ { t }$ 的其中之一为原子概念，而另一个为组合概念，即: $C _ { s } \notin S K B _ { T Y C C L }$ 或 $C _ { t } \notin S K B _ { T Y C C L }$ (3) $C _ { s }$ 和 $C _ { t }$ 均为组合概念，即： $C _ { s } \notin S K B _ { T Y C C L }$ 且$C _ { t } \notin S K B _ { T Y C C L } ,$ 0
+
+对于情况(1)，本文直接采用"改进的同义词词林相似度计算"模块实现两个原子概念的语义相似度计算。
+
+对于情况(2)和情况(3)的组合概念相似度计算的处理对策，本文将采用基于“序列比对处理"与“改进的同义词词林相似度计算”的多策略融合方式实现，即：“组合概念相似度计算"模块的输入为两个待映射的词串序列 $C C _ { s }$ 和 $C C _ { t } ,$ 以及其所对应的打分矩阵，该打分矩阵则由“组合概念分词处理"模块和"构建打分矩阵"模块协作生成。
+
+# 4.1基于改进的同义词词林相似度计算
+
+同义词词林[27是一个中文同义词典，它将每个词汇进行编码并以层次关系组织在一个倒挂的树形结构中，树中的每个节点代表一个概念，而中文的概念共指关系识别，实际上可以抽象为中文同义词的识别和语义相似度的计算问题，因此同义词词林是最佳的选择。本文采用哈尔滨工业大学同义词词林(扩展版)作为中文本体映射关系抽取的常识知识库。
+
+在实验过程中，发现田久乐等[18提出的传统算法过分强调概念之间的语义相关性，即：同义词词林中的层级之间的词汇父子类关系对于本体概念的等价关系获取会造成较大干扰。而本体映射任务却是要发现概念之间的等价关系而非父子类关系，因此本文通过引入语义调节因子和概念相似度权重系数来对传统算法进行改进，使之适用于LOD环境中的中文本体映射任务。
+
+同义词词林将词元组织为分层结构，自顶向下共有5层。每个层次都有相应的编码标识，5层的编码从左至右依次排列起来，形成词元的词林编码。词语与词语之间隐含的语义相关度也随着层次的增加而提高。
+
+以词元“物质"为例(词林编码为： $\mathrm { B a 0 1 A 0 2 = } )$ 进行编码格式解释，如表1所示。
+
+表1词林编码示例  
+
+<html><body><table><tr><td>编码位</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>子编码</td><td>B</td><td>a</td><td>01</td><td></td><td>A</td><td>0</td><td>2</td><td>“=(=或#或@)”</td></tr><tr><td>含义</td><td>大类</td><td>中类</td><td>小类</td><td></td><td>词群</td><td></td><td></td><td>原子词群 同义\不等\孤立</td></tr><tr><td>层次</td><td>第1层第2层</td><td></td><td>第3层</td><td></td><td>第4层</td><td>第5层</td><td></td><td></td></tr></table></body></html>
+
+根据同义词词林的结构特点，首先对待映射概念的词林编码进行解析，抽取出第1至第5层子编码，然后从第1层子编码开始比较。若子编码不同，则根据所出现的层次来赋予该映射对相应的相似度权重。子编码不同的情况出现在越深的层次，则相似度权重越高；出现子编码不同的编码位越小(层次越浅)，其语义相关性就越差(相似度权重越低)。即：改进的方法可以同时兼顾词林中的层级因素对相似度计算结果的影响。同时，每层的分支节点数的多少也对相似度有影响。
+
+本文给出基于同义词词林的相似度计算方法如公式(1)所示。
+
+$$
+S I M _ { T } ( C _ { s } , C _ { t } ) = \lambda \times \frac { L _ { i } } { \left| L \right| } \times \cos ( N _ { t } \times \frac { \Pi } { 1 8 0 } ) \times \left( \frac { N _ { t } - D + 1 } { N _ { t } } \right)
+$$
+
+由于本体映射任务更关注概念之间的语义相似性，因此需要通过引人语义调节因子 $\lambda$ 来调节不同层级概念间语义相关性和语义相似性的关系以及控制处于不同层次分支的词元之间可能相似的程度，显然$\lambda \in ( 0 , 1 ) \circ \lambda$ 值越大，表示不同层次之间的词元相似或等价的可能性越大，且不同层次的语义相关性对于最终概念相似度的影响越大，反之则越小。特别地，在面对中文本体映射任务时，由于更突出概念间的语义相似度，因此 $\lambda$ 取值不宜过高。
+
+本文引人 $L = \{ 1 , 2 , 3 , 4 , 5 \}$ ，对于 $\forall L _ { i } \in L , L _ { i }$ 为子编码不同所出现在的层次数， $| L |$ 表示集合 $L$ 中的元素个数,在本系统中恒等于5。本文提出的概念相似度权重系数为 $\lambda { \times } ( L _ { i } / | L | ) _ { \circ } N _ { t }$ 为词元 $C _ { s }$ 和 $C _ { t }$ 在第 $i$ 层分支上的节点总数, $D$ 为词元 $C _ { s }$ 和 $C _ { t }$ 的编码距离。特别地，当待映射概念对的5层编码均相等且词林编码最后一位为# $\bullet { \underline { { \underline { { \mathbf { \Pi } } } } } } ( \bullet { \underline { { \mathbf { \delta \pi } } } } ( \bullet )$ "时，规定相似度函数 $S I M _ { T }$ 的返回值为 $1 . 0 _ { \circ }$ 显然，函数 $S I M _ { T }$ 的值域为(0,1]。
+
+# 4.2基于序列比对的组合概念相似度计算
+
+对于中文组合概念的相似度计算，许多学者提出了解决方案。例如：李佳等[14设计并实现了基于知网(HowNet)的元素层概念相似度计算方法并实现了中文本体映射系统。该方法在处理未登录词的相似度计算问题时，将两个组合概念所对应的原子概念序列进行遍历，找出其中相似度最大的原子概念映射对，通过得到的相对极大的映射对求出两个组合概念的相似度值，如公式(2)所示。
+
+$$
+\sin ( A , B ) = { \frac { \displaystyle \sum _ { i = 1 } ^ { \operatorname* { m a x } } \operatorname* { m a x } _ { i } ( B _ { x y } ) } { \operatorname* { m a x } ( m , n ) } }
+$$
+
+其中, $B _ { x y }$ 表示分别以两个词汇拆分后得到的已知词为行列组成的相似度矩阵中的元素， $\operatorname* { m a x } _ { i } ( B _ { x y } )$ 表示矩阵中数值排列为第 $i$ 位的相似度。 $\mathrm { m a x } ( m , n )$ 表示取行号或列号的较大者。
+
+但是，由于中文概念普遍存在"语序敏感"的特点，因此上述前人的处理方式难免带来语义相似度计算的误差。例如，不同本体中出现的两个待映射组合概念：“历史理论"和"思想史”，经过分词处理后得到两个由原子概念构成的有序排列：[历史，理论]和[思想，史]。如果采用前人处理未登录词的普遍方法，则会得到如图2所示的原子概念映射结果。基于《同义词词林》扩展版)并由公式(1)计算每对原子概念映射时的语义相似度，最后采用公式(2)进行综合计算得到的概念元素级相似度的值为1.0，显然这是完全不合理的组合概念映射对和相似度结果。原因是该方法忽视了中文自然语言中普遍存在的"语序敏感"现象和"一词多义"的语义特征。
+
+思想 史历史 理论
+
+因此，本文提出一种改进的概念语义相似度计算方法。具体地，在计算概念之间的元素级相似度时，引入基于生物信息学的全局双序列比对算法进行语义相似度计算。
+
+(1）序列比对(Sequence Alignment)算法概述
+
+在生物信息学中，双序列比对是指将两条DNA、RNA或蛋白质序列排列在一起，并标明其相似处。序列中可以插入空位符，对应的相同或相似的符号排在同一列上。通过比较两个序列间的相似片断和保守性位点，寻找其可能存在的分子进化关系[28]。
+
+总体来说，比对模型可以分为两类：一类是全局比对(Global Alignment)，主要考察两个序列之间的整体相似性，对序列进行全程扫描和比较。另一类是局部比对(Local Alignment)，重点关注序列中的某些特殊片断，比较序列中片断之间的相似性。二者均可通过动态规划(Dynamic Programming,DP)思想求解。
+
+# (2)构造动态规划打分矩阵
+
+所谓序列是指由一系列字母标识，根据一定的排列规则所组成的字符串。
+
+$\textcircled{1}$ 组合概念分词处理
+
+本系统将组合概念视为词串序列，序列中的各个元素即为原子概念。将组合概念进行分词处理，得到其对应的词串序列，之后采用中国科学院计算技术研究所研发的ICTCLAS50[29作为分词处理工具。字母表规定为《同义词词林》(扩展版)语义知识库: $S K B _ { T Y C C L }$ 。
+
+$\textcircled{2}$ 构建打分矩阵
+
+首先将待比对的两个词串序列以打分矩阵M(ScoringMatrix)的形式表示，两个序列分别作为动态规划矩阵的两维。对于待映射本体 $O _ { s }$ 和 $O _ { t }$ 中的概念 $C _ { s }$ 和 $C _ { t } ,$ 打分矩阵 $\pmb { M }$ 的第 $i$ 行对应词串序列 $C C _ { s }$ 中的原子概念 $A C _ { s i } .$ 第 $j$ 列对应词串序列 $C C _ { t }$ 中的原子概念 $A C _ { t j } .$ ，其中 $I { \leqslant } m$ $j \leqslant n$ 。动态规划矩阵M中第i行第j列元素称为Mijo
+
+根据动态规划思想，将两个词串序列以行和列来表示。假设序列 $C C _ { s }$ 的长度为 $\mid m$ ，序列 $C C _ { t }$ 的长度为 $n$ ，则可形成一个以序列 $C C _ { s }$ 为行、序列 $C C _ { t }$ 为列的 $( m + 1 ) { \times } ( n + 1 )$ 二维矩阵。例如：组合概念"第二次工业革命"和"第二次世界大战战犯"经过分词处理后，可以得到两个待比对词串序列： $C C _ { s } =$ [第二，次，工业革命], $C C _ { t } =$ [第二，次，世界大战，战犯]。
+
+# (3）最优化的递归求解算法
+
+将本体映射的概念相似度计算抽象为两个词串序列的比对过程：通过空位罚分函数，决策在词串序列中的相应位置插入空位符“”，使得两个序列长度相同，进而构建出待比对序列的原子概念之间或原子概念与空位符的对应关系。序列比对算法的本质就是通过评分策略，找出两个组合概念序列的最佳全局配对。
+
+Needleman-Wunsch 算法于1970年由Needleman和Wunsch提出，是一种典型的用来比对序列之间全局相似性的动态规划算法，适用于比较全局宏观上相似程度较高的两个序列[30]。本文主要基于该算法和动态规划思想，对矩阵 $M$ 中的最优比对路径进行递归求解。
+
+算法1:ConceptSimilarity $( C C _ { s } , C C _ { t } )$   
+输入：组合概念 $C C _ { s }$ 和 $C C _ { t }$ 所对应的打分矩阵 $M _ { ( i ) ( j ) }$ （204号  
+输出：包含最优比对路径的矩阵M'(()  
+$\textcircled { 1 } p \gets - 0 . 0 5$ //定义常量 $\mathsf { p }$ 为算法的惩罚因子，且等于-0.05  
+$\textcircled{2}$ for each $i  1 , 2 , \ \cdots , m + 1 ; j  1 , 2 , \ \cdots , n + 1$ //动态规划矩阵初始化  
+$\textcircled{3}$ $\textcircled{4}$ $\begin{array} { l } { { M _ { ( i ) ( n + 1 ) }  p ^ { \times } ( m - i + 1 ) } } \\ { { M _ { ( i + 1 ) ( j ) }  p ^ { \times } ( n - j + 1 ) } } \end{array}$   
+$\textcircled{5}$ end for  
+$\textcircled{6}$ for each $i \gets m , m - 1$ ，…,1  
+$\textcircled{7}$ for each $j  n , n - 1 , \ \cdots , 1$   
+$\textcircled{8}$ $M _ { ( i ) ( j ) } \gets \operatorname* { m a x } ( M _ { ( i + 1 ) ( j + 1 ) } + \ S I M _ { T } ( A C _ { s i } , \ A C _ { t j } ) , \ M _ { ( i ) ( j + 1 ) } + \ \mathrm { p } _ { i }$ （20$M _ { ( i + 1 ) ( j ) } + { \mathfrak { p } } )$ //递归计算矩阵中每个元素的代价值  
+$\textcircled{9}$ end for  
+（204号 $\textcircled{10}$ end for  
+（20 $\textcircled{1}$ 回溯得到包含序列比对最优路径的矩阵 $\boldsymbol { M ^ { \prime } } _ { ( i ) ( j ) }$   
+$\textcircled { 1 2 }$ return $\boldsymbol { M ^ { \prime } } _ { ( i ) ( j ) }$ （20
+
+首先，给出序列比对算法的惩罚因子 $\mathsf { p } { = } { - 0 . 0 5 }$ ，并分别对矩阵的第 $n { + } 1$ 列与第 $m { + } 1$ 行进行初始化。初始化规则分别为： $M _ { ( i ) ( n + 1 ) } { = } { \tt p } { \times } ( m { - } i { + } 1 )$ 和 ${ \cal M } _ { ( m + 1 ) ( j ) } = { \tt p } { \times } ( n - j + 1 ) \thinspace \mathrm { ~ }$
+
+其次，基于同义词词林相似度计算函数 $\mathit { S I M } _ { T } ,$ 对打分矩阵中其余的 $m { \times } n$ 个元素进行递归求解。本文给出记分函数 $f$ 的定义，如公式(3)所示。
+
+$$
+\begin{array} { r } { f ( A C _ { s i } , A C _ { t j } ) = \left\{ \begin{array} { l l } { S I M _ { T } ( A C _ { s i } , A C _ { t j } ) \qquad i f A C _ { s i } \neq " - " \underline { { \mathrm { E } } } \underline { { A } } A C _ { t j } \neq " - } , \right.} \\ { f ( A C _ { s i } , - ) = \mathtt { p } = - 0 . 0 5 \qquad \quad i f A C _ { t j } = " - " } \\ { f ( - , A C _ { t j } ) = \mathtt { p } = - 0 . 0 5 \qquad \quad i f A C _ { s i } = " - } \end{array}   \end{array}
+$$
+
+考虑到中文组合概念普遍存在“词序敏感"的特点，将递归的起点选定为两个组合概念的结尾处，即：矩阵中的 $M _ { m n }$ 元素。对 $S I M _ { T }$ 的描述见公式(1)。递归规则(即：空位罚分函数)如公式(4)所示。
+
+$$
+M _ { i j } = \operatorname* { m a x } \left\{ \begin{array} { l l } { M _ { ( i + 1 ) ( j + 1 ) } + f ( A C _ { s i } , A C _ { t j } ) } \\ { M _ { ( i ) ( j + 1 ) } + \mathfrak { p } } \\ { M _ { ( i + 1 ) ( j ) } + \mathfrak { p } } \end{array} \right.
+$$
+
+最后，从矩阵中的 $M _ { m n }$ 元素开始，回溯至矩阵中的 $M _ { 1 1 }$ 元素结束，即可得到最优比对路径。在蕴含最优匹配路径的打分矩阵中，“加粗箭头"表示得到的最优路径。具体地，插入空位符“-"的策略为：“加粗斜箭头"表示将其尾部所对应的两个原子概念进行配对;“加粗水平箭头"表示对词串序列 $C C _ { s }$ 中，在其所在行对应的原子概念位置前插入一个空位符“-"；“加粗垂直箭头"表示对词串序列 $C C _ { t }$ 中，在其所在列对应的原子概念相应位置前插入一个空位符"”。这里需要说明的是，如果得到的最优比对路径不止一条，则任选其一。
+
+具体的基于全局序列比对思想的概念元素级相似度计算算法，见算法1。
+
+在插入空位符“-"后，两个待映射组合概念词条序列的长度相等，称为 $C C _ { s i } ^ { ' }$ 和 $C C _ { t i } ^ { ' }$ ，定义两组序列的长度为 $L$ 。最终根据比对结果，基于记分函数 $f ,$ 得到组合概念之间的相似度计算方法如公式(5)所示。
+
+$$
+S I M _ { _ { N W } } ( C C _ { s i } ^ { ' } , C C _ { t i } ^ { ' } ) = \sum _ { i = 1 } ^ { \left| L \right| } \frac { f ( A C _ { s i } , A C _ { t i } ) } { \left| L \right| }
+$$
+
+# 5实验数据与结果分析
+
+# 5.1 数据来源
+
+本文采用中文网络开放百科知识库作为实验数据源。除DBpedia(中文版)知识库以外，本系统基于文献[5,31]，使用爬虫工具包HTMLParser分别对百度百科和互动百科的开放分类页面和词条页面所包含的Infobox结构化信息进行爬取和解析，并将其以中文三元组(Triple)的形式组织起来，形成待映射的大规模中文开放域知识库。如表2所示，本体概念体系主要由百科开放分类体系构成。
+
+表2中文网络百科知识库信息  
+
+<html><body><table><tr><td rowspan="2">项目</td><td rowspan="2">百度百科</td><td rowspan="2">互动百科</td><td rowspan="2">DBpedia 3.8 (中文版)</td></tr><tr><td></td></tr><tr><td>本体概念</td><td>子分类 中文三元组数量</td><td>13 1323</td><td>13 29263</td><td>23 106 000</td></tr><tr><td rowspan="3">Infobox 知识</td><td>Infobox数量</td><td>214 732</td><td>257 215</td><td>204822</td></tr><tr><td>Infobox 中的谓词数</td><td>21 152</td><td>1061</td><td>18 206</td></tr><tr><td>中文三元组数量</td><td>1 698 149</td><td>2 161 616</td><td>4 077 898</td></tr><tr><td rowspan="2">词条实例</td><td>Infobox出现频率</td><td>2.30%</td><td>10.10%</td><td>19.74%</td></tr><tr><td>中文三元组数量</td><td>9 346184</td><td>2 545 447</td><td>1 037 557</td></tr></table></body></html>
+
+# 5.2 评测指标
+
+本文采用对中文概念等价关系识别的准确率(Precision)、召回率(Recall)和综合评价指标(F-measure)作为最终的评价标准。其中：
+
+$\begin{array} { r } { \mathrm { P r e c i s i o n ( P ) } = \frac { \frac { k } { 4 \hbar } \sum \pm \frac { 1 } { 4 } \frac { k } { 4 } \frac { \sqrt { 4 } } { 4 } \pm 4 \frac { 1 } { 4 } \pm 4 \frac { \sqrt { 4 } } { 4 } \mp 4 \frac { 1 } { 4 } \pm 4 \frac { 1 } { 4 } \pm 4 \frac { 1 } { 4 } \pm 4 \frac { 1 } { 4 } } { \frac { 1 } { 4 } \hbar } \times 1 0 0 \% } \end{array}$ 输出的正确映射对数  
+Recall(R) $\ b =$ $\times 1 0 0 \%$ 标准结果中的映射对总数  
+$\mathrm { F } { \cdot } \mathrm { m e a s u r e } ( \mathrm { F } 1 ) = \frac { 2 \times \mathrm { P } \times \mathrm { R } } { ( \mathrm { P } + \mathrm { R } ) } \times 1 0 0 \%$
+
+笔者邀请首都经济贸易大学信息学院的4位本科四年级学生，采用人工识别和手工标注的方式对DBpedia、百度百科和互动百科顶层分类树中客观存在的中文概念等价关系进行完整的获取，并以标注的结
+
+# 52 数据分析与知识发现
+
+果作为本体映射实验的参考正确映射对，如表3至表5所示。
+
+表3Baidu-Hudong 映射任务本体参考映射数统计  
+
+<html><body><table><tr><td rowspan="2">映射任务</td><td rowspan="2">顶层分类</td><td rowspan="2">Baidu 概念数量</td><td rowspan="2">Hudong 概念数量</td><td rowspan="2">参考 映射对数</td></tr><tr><td></td></tr><tr><td rowspan="8">Baidu- Hudong</td><td>人物</td><td>120</td><td>1497</td><td>57</td></tr><tr><td>科学</td><td>157</td><td>2 323</td><td>62</td></tr><tr><td>社会</td><td>102</td><td>3937</td><td>60</td></tr><tr><td>历史</td><td>118</td><td>2093</td><td>54</td></tr><tr><td>艺术</td><td>84</td><td>1506</td><td>55</td></tr><tr><td>自然</td><td>104</td><td>5688</td><td>71</td></tr><tr><td>体育</td><td>165</td><td>258</td><td>59</td></tr><tr><td>地理</td><td>133</td><td>3632</td><td>97</td></tr></table></body></html>
+
+表4Hudong-DBpedia 映射任务本体参考映射数统计  
+
+<html><body><table><tr><td>映射任务 顶层分类</td><td></td><td>Hudong 概念数量</td><td>DBpedia 概念数量</td><td>参考 映射对数</td></tr><tr><td rowspan="5">DBpedia Hudong-</td><td>人物</td><td>1497</td><td>4 737</td><td>380</td></tr><tr><td>科学</td><td>2323</td><td>156</td><td>33</td></tr><tr><td>社会</td><td>3937</td><td>10 676</td><td>303</td></tr><tr><td>历史</td><td>2093</td><td>5648</td><td>524</td></tr><tr><td>艺术</td><td>1506</td><td>1908</td><td>193</td></tr></table></body></html>
+
+表5Baidu-DBpedia 映射任务本体参考映射数统计  
+
+<html><body><table><tr><td>映射任务</td><td>顶层分类</td><td>Baidu 概念数量</td><td>DBpedia 概念数量</td><td>参考 映射对数</td></tr><tr><td rowspan="5">Baidu- DBpedia</td><td>人物</td><td>120</td><td>4 737</td><td>26</td></tr><tr><td>社会</td><td>102</td><td>10 676</td><td>28</td></tr><tr><td>历史</td><td>118</td><td>5 648</td><td>11</td></tr><tr><td>艺术</td><td>84</td><td>1908</td><td>25</td></tr><tr><td>地理</td><td>133</td><td>37 936</td><td>95</td></tr></table></body></html>
+
+# 5.3 序列比对结果分析
+
+在对基于序列比对的组合概念相似度计算方法进行阐述后，对之前提到的两组相似度计算算例进行重新审视。
+
+算例1: $C C _ { s } { = } [$ 思想，史], $C C _ { t } { = } [$ 历史，理论]。由公式(2)得到的组合概念相似度值为 $S i m ( C C _ { s } , \ C C _ { t } ) { = }$ $( 1 . 0 \substack { + 1 . 0 } ) / 2 \substack { = 1 . 0 }$ ，而采用基于序列比对算法得到的组合概念序列对齐效果如图3所示，其对应的打分矩阵如图4 所示。最终得到的组合概念相似度值应为 $S I M _ { N W }$ $( C C _ { s i } ^ { ' } , C C _ { t i } ^ { ' } ) { = } ( - 0 . 0 5 + 1 . 0 { - } 0 . 0 5 ) / 3 { = } 0 . 3 \nonumber$ 该组示例映射对来自Hudong-DBpedia映射任务中的"历史"子任务。
+
+思想史 =1 1- 历史理论
+
+历史 理论  
+思想 0.9 → 0.95 -0.1←  
+史 0.95 0.17 -0.05?-0.1 -0.05 → 0
+
+算例2: $C C _ { s } { = } [$ 第二，次，工业革命], $C C _ { t } { = }$ 第二，次，世界大战，战犯]。若采用公式(2)计算组合概念相似度，则会得到错误的相似度值： $\mathit { S i m } ( \mathit { C C } _ { s } , \mathit { C C } _ { t } ) { = } 1 . 0 ,$ 这是因为原子概念"次"存在"一词多义"现象。具体地,词元"次"在《同义词词林》(扩展版)中有多个编码项，其中 $\scriptstyle { \mathrm { D n 0 4 B 0 3 = } } ^ { , }$ 编码项给出了两个原子词元"第二"和“次"为等价词元的判定。因此，根据公式(2)会得到 4组原子概念映射结果为1.0的情况，分别是： $<$ 第二，次$> = 1 . 0$ ，<第二，第二 $> = 1 . 0$ ， $<$ 次，第二 $> = 1 . 0$ ，以及 $\angle$ 次，次 $> = 1 . 0$ 。代人公式(2)有: $S i m ( C C _ { s } , C C _ { t } ) { = } ( 1 . 0 { + } 1 . 0 { + } 1 . 0 { + }$ $1 . 0 ) / 4 { = } 1 . 0$ 。而根据基于序列比对的算法计算最终得到的组合概念相似度值应为 $S I M _ { N W } ( C C _ { s i } ^ { ' }$ ， $C C _ { t i } ^ { ' } ) { = }$ $( 1 . 0 \substack { + 1 . 0 \substack { + 0 . 1 8 - 0 . 0 5 } } ) / 4 \substack { = 0 . 5 3 2 5 }$ 。通过算法1得到的包含最优匹配路径的打分矩阵 $\boldsymbol { M ^ { \prime } } _ { ( i ) ( j ) }$ 如图5所示，其所对应的最优化序列匹配结果如图6所示。该组示例映射对来自Baidu-DBpedia 映射任务中的"历史"子任务。
+
+世界第二次 战犯大战第二 2.131.430.380.08-0.15次 1.081.130.430.13 -0.1工业革命 0.03、0.080.130.18-0.05-0.2→-0.15→-0.1→-0.05-第二 次工业革命第二 次 世界大战 战犯
+
+由此可以看出，算例1和算例2中的两个组合概念之间并无等价关系。而传统方法却分别给出相似度均为1.0表示极高相似度的错误结论。相反地，由算法1所得到的相似度值则更合理。考虑到中文概念普遍存在的"词序敏感"和“一词多义"现象时，采用基于Needleman-Wunsch算法的全局比对算法，可以有效规避以文献[14]为代表的传统方法可能带来的错误映射。同时，在面对组合概念(即：未登录词)映射时，如果其所对应的词串序列中的原子概念的语义顺序基本相同，算法1的效果则应与传统方法基本一致。综上所述，基于全局序列比对的概念元素级相似度算法在面对大规模中文本体映射任务时，比传统方法更具优势和合理性。
+
+# 5.4大规模中文本体映射结果分析
+
+在上述算法思想的理论指导下，本文以中文三大网络百科知识库为数据源，面向大规模关联数据构建的实际应用场景，对所提出的原型系统进行性能评测。完成三大映射任务后得到评测结果，如表6至表8所示，分别给出了采用4种不同的典型相似度计算算法所得到的准确率、召回率以及F1值。第一种算法为跨语言通用的编辑距离相似度算法[32]，第二种算法为传统的基于同义词词林的中文词语相似度计算算法[18],第三种算法为李佳等提出的基于 HowNet 的中文词语相似度算法 ELOMC[14]，第 4 种算法为本文提出的中文概念综合相似度计算算法。
+
+为了保证公平性，本文将判定概念等价关系的相似度阈值统一设定为 $t = 0 . 9$ O
+
+表6为Baidu-Hudong本体映射任务的概念相似度计算结果，可以看出，本文系统的准确率均值分别高出传统的同义词词林算法和ELOMC算法 $41 \%$ 和 $39 \%$ 左右，而召回率则高出编辑距离算法和传统的同义词词林算法平均约 $13 \%$ 和 $2 \%$ 左右，并与ELOMC算法基本持平。在综合评价指标F1值上，本系统分别高出编辑距离算法、传统的同义词词林算法和ELOMC平均约 $8 \%$ $23 \%$ 和 $20 \%$ 。
+
+表7为Hudong-DBpedia 本体映射任务的概念相似度计算结果，在准确率方面，本系统分别高出编辑距离算法、传统的同义词词林算法和ELOMC算法平均约 $1 \%$ 、 $10 \%$ 和 $1 1 \%$ 左右。召回率则高出编辑距离算法和传统的同义词词林算法平均约 $6 \%$ 和 $1 \%$ 左右，并与ELOMC算法基本持平。本系统的综合评价指标F1值则分别高出编辑距离算法、传统的同义词词林算法和ELOMC算法平均约 $3 \%$ $6 \%$ 和 $6 \%$ 号
+
+表8为Baidu-DBpedia 本体映射的概念相似度计算结果，在处理该组任务时，本系统的准确率均值分别高出传统的同义词词林算法和ELOMC算法 $3 9 \%$ 和$43 \%$ 左右。召回率则高出编辑距离算法、传统的同义词词林算法和ELOMC算法平均约 $1 7 \%$ 、 $6 \%$ 和 $3 \%$ 左右。在综合评价指标F1值上，本系统分别高出编辑距离算法、传统的同义词词林算法和ELOMC算法平均约 $8 \%$ $2 6 \%$ 和 $30 \%$ 。
+
+表6Baidu-Hudong 映射任务评测结果  
+
+<html><body><table><tr><td rowspan="2">映射任务</td><td rowspan="2">顶层分类</td><td colspan="3">编辑距离算法[32]</td><td colspan="3">传统的基于同义词 词林相似度算法[18]</td><td colspan="3">ELOMC 算法[14]</td><td colspan="3">本文系统</td></tr><tr><td>P</td><td>R</td><td>F1</td><td>p</td><td>R</td><td>F1</td><td>p</td><td>R</td><td>F1</td><td>p</td><td>R</td><td>F1</td></tr><tr><td rowspan="8">Baidu-Hudong</td><td>人物</td><td>1.000</td><td>0.526</td><td>0.690</td><td>0.657</td><td>0.772</td><td>0.710</td><td>0.943</td><td>0.877</td><td>0.909</td><td>0.980</td><td>0.877</td><td>0.926</td></tr><tr><td>科学</td><td>1.000</td><td>0.742</td><td>0.852</td><td>0.422</td><td>0.790</td><td>0.551</td><td>0.387</td><td>0.774</td><td>0.516</td><td>0.982</td><td>0.774</td><td>0.866</td></tr><tr><td>社会</td><td>1.000</td><td>0.567</td><td>0.723</td><td>0.640</td><td>0.800</td><td>0.711</td><td>0.622</td><td>0.850</td><td>0.718</td><td>0.915</td><td>0.717</td><td>0.804</td></tr><tr><td>历史</td><td>1.000</td><td>0.611</td><td>0.759</td><td>0.607</td><td>0.630</td><td>0.618</td><td>0.607</td><td>0.685</td><td>0.643</td><td>1.000</td><td>0.685</td><td>0.813</td></tr><tr><td>艺术</td><td>1.000</td><td>0.727</td><td>0.842</td><td>0.769</td><td>0.909</td><td>0.833</td><td>0.729</td><td>0.927</td><td>0.816</td><td>1.000</td><td>0.927</td><td>0.962</td></tr><tr><td>自然</td><td>1.000</td><td>0.704</td><td>0.826</td><td>0.369</td><td>0.775</td><td>0.500</td><td>0.364</td><td>0.775</td><td>0.495</td><td>0.965</td><td>0.775</td><td>0.859</td></tr><tr><td>体育</td><td>1.000</td><td>0.763</td><td>0.865</td><td>0.554</td><td>0.780</td><td>0.648</td><td>0.516</td><td>0.814</td><td>0.632</td><td>0.980</td><td>0.814</td><td>0.889</td></tr><tr><td>地理</td><td>1.000</td><td>0.691</td><td>0.817</td><td>0.470</td><td>0.804</td><td>0.593</td><td>0.491</td><td>0.845</td><td>0.621</td><td>0.988</td><td>0.835</td><td>0.905</td></tr><tr><td></td><td>平均值</td><td>1.000</td><td>0.666</td><td>0.797</td><td>0.561</td><td>0.782</td><td>0.645</td><td>0.582</td><td>0.818</td><td>0.669</td><td>0.976</td><td>0.800</td><td>0.878</td></tr></table></body></html>
+
+表7Hudong-DBpedia 映射任务评测结果  
+
+<html><body><table><tr><td rowspan="2">映射任务</td><td rowspan="2">顶层分类</td><td colspan="3">编辑距离算法[32]</td><td colspan="3">传统的基于同义词 词林相似度算法[18]</td><td colspan="3">ELOMC 算法[14]</td><td colspan="3">本文系统</td></tr><tr><td>p</td><td>R</td><td>F1</td><td>P</td><td>R</td><td>F1</td><td>p</td><td>R</td><td>F1</td><td>p</td><td>R</td><td>F1</td></tr><tr><td rowspan="6">Hudong-DBpedia</td><td>人物</td><td>0.973</td><td>0.861</td><td>0.913</td><td>0.955</td><td>0.889</td><td>0.921</td><td>0.949</td><td>0.924</td><td>0.936</td><td>0.956</td><td>0.924</td><td>0.940</td></tr><tr><td>科学</td><td>0.939</td><td>0.939</td><td>0.939</td><td>0.838</td><td>0.939</td><td>0.886</td><td>0.886</td><td>0.939</td><td>0.912</td><td>1.000</td><td>0.939</td><td>0.969</td></tr><tr><td>社会</td><td>0.964</td><td>0.894</td><td>0.928</td><td>0.793</td><td>0.983</td><td>0.878</td><td>0.794</td><td>0.993</td><td>0.883</td><td>0.990</td><td>0.993</td><td>0.992</td></tr><tr><td>历史</td><td>0.987</td><td>0.987</td><td>0.987</td><td>0.992</td><td>0.989</td><td>0.990</td><td>0.979</td><td>0.992</td><td>0.986</td><td>0.994</td><td>0.992</td><td>0.993</td></tr><tr><td>艺术</td><td>0.984</td><td>0.938</td><td>0.960</td><td>0.823</td><td>0.990</td><td>0.899</td><td>0.740</td><td>0.995</td><td>0.849</td><td>0.989</td><td>1.000</td><td>0.994</td></tr><tr><td>平均值</td><td>0.969</td><td>0.924</td><td>0.946</td><td>0.880</td><td>0.958</td><td>0.915</td><td>0.870</td><td>0.969</td><td>0.913</td><td>0.986</td><td>0.970</td><td>0.978</td></tr></table></body></html>
+
+表8Baidu-DBpedia 映射任务评测结果  
+
+<html><body><table><tr><td rowspan="2">映射任务</td><td rowspan="2">顶层分类</td><td colspan="3">编辑距离算法[32]</td><td colspan="3">传统的基于同义词 词林相似度算法[18]</td><td colspan="3">ELOMC 算法[14]</td><td colspan="3">本文系统</td></tr><tr><td>P</td><td>R</td><td>F1</td><td>P</td><td>R</td><td>F1</td><td>P</td><td>R</td><td>F1</td><td>P</td><td>R</td><td>F1</td></tr><tr><td rowspan="6">Baidu-DBpedia</td><td>人物</td><td>1.000</td><td>0.692</td><td>0.818</td><td>0.452</td><td>0.731</td><td>0.559</td><td>0.733</td><td>0.846</td><td>0.786</td><td>0.963</td><td>1.000</td><td>0.981</td></tr><tr><td>社会</td><td>1.000</td><td>0.679</td><td>0.809</td><td>0.639</td><td>0.821</td><td>0.719</td><td>0.500</td><td>0.821</td><td>0.622</td><td>0.955</td><td>0.750</td><td>0.840</td></tr><tr><td>历史</td><td>1.000</td><td>0.727</td><td>0.842</td><td>0.692</td><td>0.818</td><td>0.750</td><td>0.188</td><td>0.818</td><td>0.305</td><td>0.900</td><td>0.818</td><td>0.857</td></tr><tr><td>艺术</td><td>1.000</td><td>0.760</td><td>0.864</td><td>0.639</td><td>0.920</td><td>0.754</td><td>0.821</td><td>0.920</td><td>0.868</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td>地理</td><td>1.000</td><td>0.853</td><td>0.920</td><td>0.421</td><td>0.979</td><td>0.589</td><td>0.413</td><td>1.000</td><td>0.585</td><td>0.989</td><td>0.989</td><td>0.989</td></tr><tr><td>平均值</td><td>1.000</td><td>0.742</td><td>0.851</td><td>0.569</td><td>0.854</td><td>0.674</td><td>0.531</td><td>0.881</td><td>0.633</td><td>0.961</td><td>0.912</td><td>0.934</td></tr></table></body></html>
+
+而在Baidu-Hudong和Baidu-DBpedia 映射任务中,本系统的准确率低于编辑距离算法，这是因为《同义词词林》 (扩展版)中客观存在一些有争议的或是被不当归类为同义词对的情况。如果它们出现在结果集中,本文则视其为错误的映射结果，例如：<民族，中华民族>、<刑法，刑事 $\mathrm { . } >$ 、<军队，军事>、<辛亥革命，革命 $\mathrm { \Delta > }$ 等。这种情况在该组映射的"社会"子映射任务中出现的次数较多，但是在其他映射任务中则较少出现有争议的同义词对。
+
+从宏观上讲，本文模型在三大映射任务的总计18组子映射任务上获得的准确率、召回率和综合评价指标的平均值可以分别达到约 $9 7 . 5 \%$ 、 $8 7 . 8 \%$ 和 $9 2 . 1 \%$ ○虽然本文模型在准确率上略低于编辑距离算法，但这是由于同义词词林中个别被不恰当归类的同义词对所造成的；而编辑距离算法却只能单纯机械地比较概念之间的字面相似度，这种完全忽视概念之间的语义相似性的算法必然会导致其在所有映射任务中的召回率均明显低于其他系统。而本文方法由于引入语义词典—《同义词词林》(扩展版)，并对传统的基于同义词词林算法加以改进，因此在召回率上会明显高于编辑距离算法。这也就使得在最终综合评价指标F1值的比较上，本文方法在三组映射任务中均明显高于编辑距离算法。
+
+综上所述，本文模型的综合评价指标为同类系统中最优；其准确率明显高于传统的同义词词林算法和ELOMC系统；而其召回率则高于编辑距离算法和传统的同义词词林相似度算法，并与ELOMC系统基本持平。
+
+# 6结语
+
+现阶段缺乏成熟的中文大规模本体映射系统，本文针对关联数据网络构建过程中的本体模式匹配问题，提出一种新的基于同义词词林和全局序列比对算法相融合的中文本体映射模型。该系统解决了大规模本体映射系统的可用性问题。它着眼于现有中文大规模本体的"语序敏感"和“一词多义"特征，进行组合概念的元素级映射。今后将根据不同中文本体的特征，考虑引入实例级以及概念定义相似度的映射参数，进一步提高中文映射系统的健壮性和准确性。
+
+# 参考文献：
+
+[1] Berners-Lee T,Hendler J,Lassila O.The Semantic Web[J]. Scientific American,2001,284(5):28-37.   
+[2] Borst W N.Construction of Engineering Ontologies for Knowledge Sharing and Reuse [D].Universiteit Twente, 1997.   
+[3] Bizer C,Heath T,Idehen K，et al．Linked Data on the Web[C]//Proceedings of the 17th International Conference on World Wide Web,Beijing,China.New York,USA:ACM, 2008:1265-1266.   
+[4] Niu X,Sun X,Wang H,et al.Zhishi. me-Weaving Chinese Linking Open Data[C]//Proceedings of the 1Oth International ConferenceontheSemanticWeb, Bonn， Germany. Heidelberg,Germany:Springer-Verlag Berlin,2011:205-220.   
+[5] Wang Z,Wang Z,Li J,et al.Knowledge Extraction from Chinese Wiki Encyclopedias[J].Journal of Zhejiang University-Science C: Computer & Electronics,2012,13(4): 268-280.   
+[6]Jain P,Hitzler P,Sheth A P,et al. Ontology Alignment for Linked Open Data [C]//Proceedings of the 9th International Conference on the Semantic Web， Shanghai，China. Heidelberg,Germany: Springer-Verlag Berlin,2010: 402-417.   
+[7]Melnik S, Garcia-Molina H,Rahm E. Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching[C]// Proceedings of the 18th IEEE International Conference on Data Engineering, San Jose, California, USA. Washington, USA: IEEE Computer Society, 2002: 117-128.   
+[8]Cohen W, Ravikumar P, Fienberg S.A Comparison of String Metrics for Matching Names and Records[C]// Proceedings of KDD Workshop on Data Cleaning and Object Consolidation. 2003,3: 73-78.   
+[9]Giunchiglia F,Yatskevich M. Element Level Semantic Matching [C]/Proceedings of Meaning Coordination& Negotiation Workshop at ISWC.2004.   
+[10] Stark M M,Riesenfeld R F. WordNet: An Electronic Lexical Database[C]//Proceedings of the 11th Eurographics Workshop on Rendering.MIT Press,1998.   
+[11]Isaac A,Van Der Meij L,Schlobach S,et al.An Empirical Study of Instance-Based Ontology Matching[C]//Proceedings of the 6th International the Semantic Web and 2nd Asian Conference on Asian Semantic Web Conference.Heidelberg, Germany: Springer-Verlag Berlin,2007: 253-266.   
+[12] Nikolov A，Uren V，Motta E,et al.Integrationof Semantically Annotated Data by the KnoFuss Architecture [C]// Proceedings of International Conference on Knowledge Engineeringand Knowledge Management.Heidelberg, Germany: Springer-Verlag Berlin,2008: 265-274.   
+[13] Zhong Q,LiH,Li J,et al. A Gauss Function Based Approach for Unbalanced Ontology Matching [C]// Proceedings of the 2009ACM SIGMOD International Conferenceon Management of Data.ACM,2009: 669-680.   
+[14]李佳，祝铭，刘辰，等．中文本体映射研究与实现[J]．中文 信息学报,2007,21(4):27-33.(Li Jia,Zhu Ming,Liu Chen, et al.Research and Implementation on Chinese Ontology Mapping [J]. Journal of Chinese Information Processing, 2007,21(4): 27-33.)   
+[15]董振东，董强，郝长伶．知网的理论发现[J]．中文信息学 报，2007，21(4):3-9.(Dong Zhendong,Dong Qiang,Hao Changling.Theoretical Findings of HowNet[J].Journal of Chinese Information Processing,2007,21(4): 3-9.)   
+[16] 陆丙甫．语序优势的认知解释[J]．当代语言学,2005，7(1): 1-15.(Lu Bingfu.Word Order Dominance and Its Cognitive Explanation [J]. Contemporary Linguistics,20o5,7(1):1-15.)   
+[17]哈尔滨工业大学社会计算与信息检索研究中心．同义词词 林(扩展版)[EB/OL].[2014-09-05].http:/ir.hit.edu.cn/demo/ Itp/Sharing_Plan.htm.(HIT-SCIR.TongYicCi CiLin (Extended Version）[EB/OL]. [2014-09-05]. http:/ir.hit.edu.cn/demo/ ltp/Sharing_Plan.htm.)   
+[18]田久乐，赵蔚．基于同义词词林的词语相似度计算方法[J]. 吉林大学学报：信息科学版，2010，28(6):602-608.（Tian Jiule,Zhao Wei.Words Similarity Algorithm Based on Tongyici Cilin in Semantic Web Adaptive Learning System [J].Journal of Jilin University:Information Science Edition, 2010,28(6): 602-608.)   
+[19] Volz J,Bizer C,Gaedke M,et al. Silk-A Link Discovery Framework for the Web of Data[C]// Proceedingsof LDOW2009,Madrid, Spain. 2009.   
+[20] Volz J，Bizer C，Gaedke M，et al．Discovering and Maintaining Links on the Web of Data[Cl//Proceedings of the International Semantic Web Conference. Springer Berlin Heidelberg,2009:650-665.   
+[21]Hassanzadeh O,Lim L，Kementsietsidis A，et al．A Declarative Framework for Semantic Link Discovery over Relational Data[C]/Proceedings of the 18th International Conference on World Wide Web.ACM,2009:1101-1102.   
+[22]Baidu Baike [EB/OL].[2015-09-10].http://baike.baidu.com/.   
+[23]Hudong [EB/OL].[2015-09-17]. http://www.hudong.com/.   
+[24]DBpedia [EB/OL].[2015-09-30]. http://wiki.dbpedia.org/.   
+[25]Bizer C,Lehmann J,Kobilarov G,et al.DBpedia-A Crystallization Point for the Web of Data [J].Web Semantics: Science,Services and Agents on the World Wide Web,2009, 7(3): 154-165.   
+[26] Wang Z,Li J, Tang J. Boosting Cross-Lingual Knowledge Linking via Concept Annotation[C]// Proceedings of the International Joint Conference on Artificial Intelligent.2013.   
+[27] 梅家驹，竺一鸣，高蕴琦,等．同义词词林[M]．上海：上 海辞书出版社,1983.(Mei Jiaju,Zhu Yiming,Gao Yunqi, et al.TongYiCiCiLin[M]. Shanghai: Shanghai Lexicographical Publishing House,1983.)   
+[28] Setubal JC,Meidanis J. Introduction to Computational Molecular Biology [M].PWS Pub.Co.,1997.   
+[29]中国科学院计算技术研究所.ICTCLAS[EB/OL].[2013-01- 03].http://ictclas.org/.(NLPIR Chinese Word Segmentation System [EB/OL].[2013-01-03]. http://ictclas.nlpir.org/.)   
+[30]Needleman S B,Wunsch C D.A General Method Applicable to the Search for Similarities in the Amino Acid Sequence of two Proteins [J]. Journal of Molecular Biology,1970,48(3): 443-453.   
+[31]Wang T,Song J,Di R,et al.A Thesaurus and Online Encyclopedia Merging Method for Large Scale DomainOntology Automatic Construction [C]//Proceedings of the International Conference on Knowledge Science,Engineering and Management.Heidelberg，Germany: Springer-Verlag Berlin,2013:132-146.   
+[32]Levenshtein V I. Binary Codes Capable of Correcting Deletions,Insertions and Reversals [J].Soviet Physics Doklady,1966,10: 707-710.
+
+# 作者贡献声明：
+
+王汀：提出研究方法、思路并进行系统设计与实现、论文起草;  
+高迎：论文修改;  
+刘经纬：参与研究思路的设计，数据分析。
+
+# 利益冲突声明：
+
+所有作者声明不存在利益冲突关系。
+
+# 支撑数据：
+
+支撑数据见期刊网络版 http://www.infotech.ac.cn。  
+[1]王汀．HIT-IRLab-同义词词林(扩展版)_full_2005.3.3.txt.哈工大同义词词林(扩展版)  
+[2]王汀.ICTCLAS50_Windows_32_JNI.rar.NLPIR 汉语分词系统.  
+[3]王汀.Baidu-Ontology-Concepts.rar．百度百科顶层分类树-13大类本体概念集.  
+[4]王汀．Hudong-Ontology-Concepts.rar.互动百科顶层分类树-13 大类本体概念集.  
+[5]王汀.DBpediaV3.8 zh-(子本体).rar.中文维基百科顶层分类树-23大类本体概念集.
+
+收稿日期:2016-08-18   
+收修改稿日期:2016-10-22
+
+# Linking Chinese Open Data at Schema-Level
+
+Wang Ting Gao Ying Liu Jingwei (Information School, Capital University of Economics and Business,Beijing 10oo70, China)
+
+Abstract:[Objective] This study proposes a novel Chinese Ontology Mapping model based on TongYiCiCiLin (TYCCL)and Sequence Alignment to evaluate concept similarity of the Linked Chinese Open Data at Schema-Level. [Methods]Firstly, we modified the TYCCL-based algorithm to compute the similarity among atomic Chinese concepts from the TYCCL. Secondly, we proposed a global sequence-alignment algorithm to evaluate the similarity among Chinese OOV.[Results] The proposed model was examined with the corpus from DBpedia (Chinese version),Baidu baike and Hudong knowledge base. The Precision,Recall and F1-value of this model were $9 7 . 5 \%$ ， $87 . 8 \%$ and $9 2 . 1 \%$ respectively.[Limitations]The proposed model only measured the similarity among Chinese Ontology concepts at the element level,which did not evaluate the impacts of Ontology atributesand instance on the concept equivalence relationship.[Conclusions] The proposed model is better than existing ones.
+
+Keywords: Chinese Linked Open Data TongYiCiCiLinSequence Alignment Ontology Mapping Similarity Computing
+
+# NISO发布ResourceSync(资源同步)框架规范的更新版本
+
+美国国家信息标准组织(NISO)于近日宣布正式出版了ResourceSync 框架规范的更新版本(ANSI/NISO Z39.99-2017)。由美国国家标准协会(ANSI批准，该1.1版本改进了一个Web 标准，该标准详细说明了服务器可以实现的各种功能，以允许第三方系统与不断发展的资源保持同步。这种同步在当前的环境下是非常重要的，现如今，不仅是内容的元数据，基于Web 的内容也在不断变化。
+
+ResourceSync 在2014年首次发布ANSI/NISO Z39.99。该标准也称为ResourceSync"核心"规范，提供了一系列易于服务器实现的功能，以使远程系统与不断发展的资源保持更紧密地同步。它还描述了服务器应如何声明其支持的设施，并提供大量的示例和用例来指导用户实施。最近的修订版修正了资源的最新修改日期与资源修改的通知日期的混淆等相关问题。
+
+“Web 资源和Web 资源集合不断发展，在许多情况下，希望利用这些资源的应用程序需要确信他们使用的数据是最新的。”ResourceSync 工作组联合主席 Herbert Van de Sompel说：“我们对 ResourceSync 核心规范的修订加强了一个标准，可以满足学术交流、文化遗产和教育等领域中不同系统之间的资源发现和同步需求。ResourceSync 在设计上非常模块化，基于HTTP 和Sitemap协议，以确保在许多应用程序中能够轻松实现，包括但不限于及时共享来自不同类型的存储库的数据。此外，相关的可选规范提供了对ANSI/NISO ResourceSync 核心的扩展，包括支持同步信息存档和基于推送的变更通知等规范。”
+
+有关使用 ANSI／NISO Z39.99-2017 标准的 ResourceSync 规范和视频教程，请访问 NISO 网站 htp://www.niso.0rg/workrooms/resourcesync/。
+
+(编译自:http://www.niso.org/news/pr/view?item_key $\ L =$ 96962d7722cc13a1e20c40e2ca3c2ca8ca80359d)
+
+(本刊讯)

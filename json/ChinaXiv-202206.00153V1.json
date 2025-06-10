@@ -1,0 +1,595 @@
+[
+    {
+        "type": "text",
+        "text": "Water use characteristics of different pioneer shrubs at different ages in western Chinese Loess Plateau: Evidence from $\\delta ^ { 2 } \\mathbf { H }$ offset correction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG $\\mathrm { Y u } ^ { 1 , 2 }$ , ZHANG Mingjun1,2\\*, QU Deye1.2, WANG Shengjie1,2, Athanassios A ARGIRIOU,WANG Jiaxin1,², YANG $\\mathrm { Y e } ^ { 1 , 2 }$ （20 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1College of Geographyand Environmental Science,Northwest Normal University,Lanzhou 73007o,China; 2 Key Laboratory of Resource Environment and Sustainable Development of Oasis，Gansu Province,Northwest Normal University,Lanzhou 730070,China; 3Laboratory of Atmospheric Physics, Department of Physics, University of Patras,GR-26500 Patras, Greece ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Caragana korshinskii Kom. and Tamarix ramosissima Ledeb. are pioneer shrubs for water and soil conservation,and for windbreak and sand fixation in arid and semi-arid areas. Understanding the water use characteristics of different pioneer shrubs at different ages is of great importance for their survival when extreme rainfall occurs.In recent years,the stable isotope tracing technique has been used in exploring the water use strategies of plants.However, the widespread $\\delta ^ { 2 } \\mathrm { H }$ offsets of stem water from its potential sources result in conflicting interpretations of water utilization of plants in arid and semi-arid areas.In this study, we used three sets of hydrogen and oxygen stable isotope data ( $\\mathrm { 8 ^ { 2 } H }$ and $8 ^ { 1 8 } \\mathrm { O }$ （20 corrected $\\delta ^ { 2 } \\mathrm { H } _ { - \\mathrm { c } 1 }$ based on SW-excess and $8 ^ { 1 8 } \\mathrm { O }$ ,and corrected $\\delta ^ { 2 } \\mathrm { H } _ { - \\mathrm { c } 2 }$ based on $- 8 . 1 \\\\text{‰}$ and $8 ^ { 1 8 } \\mathrm { O }$ ）as inputs for the MixSIAR model to explore the water use characteristics of $C .$ korsbinskii and $T .$ ramosissima at different ages and in response to rainfall. The results showed that $\\delta ^ { 2 } \\mathrm { H } _ { - \\mathrm { c } 1 }$ and $\\mathrm { 8 ^ { 1 8 } O }$ have the best performance, and the contribution rate of deep soil water was underestimated because of $\\delta { } ^ { 2 } \\mathrm { H }$ offset. During the dry periods, $C .$ korsbinski and $T .$ ramosissima at different ages both obtained mostly water from deeper soil layers.After rainfall, the proportions of surface $( 0 { - } 1 0 ~ \\mathrm { c m } )$ and shallow $( 1 0 { - } 4 0 ~ \\mathrm { c m } )$ soil water for $C .$ korsbinski and $T .$ ramosissima at different ages both increased. Nevertheless, there were different response mechanisms of these two plants for rainfall.In addition, $C .$ korsbinskii absorbed various potential water sources,while $T .$ ramosissima only used deep water. These flexible water use characteristics of $C .$ korsbinskii and $T .$ ramosissima might facilitate the coexistence of plants once extreme rainfall occurs. Thus, reasonable allocation of diffrent plants may be a good vegetation restoration program in western Chinese Loess Plateau. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: stable isotope; Caragana korsbinski;,Tamarix ramosissima; water uptake pattern; isotope depletion ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: ZHANG Yu,ZHANG Mingjun,QUDeye,WANG Shengjie,Athanasios A ARGIRIOU,WANG Jiaxin,YANG Ye. 2022.Waterusecharacteristics of diferent pioneer shrubs at different ages in western Chinese Loess Plateau:Evidence from $\\delta ^ { 2 } \\mathrm { H }$ offset correction.Journal of Arid Land,14(6): 653-672. https://doi.org/10.1007/s40333-022-0018-8 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Water is an important factor for vegetation growth, which determines the ecosystem functions in arid and semi-arid areas (Porporato et al.， 2004； Wang et al.， 2O17). It restricts vegetation coverage, species richness, vegetation growth, biomass,and diversity in ecologically vulnerable areas (Bai et al.,2004; Chang et al.,2019; Gao et al.,2011; Heras et al.,2011). It also influences the sustainability of the reestablishment of vegetation in water-scarce areas (Jia et al.,2O12; Yang et al.，2O14; Huo et al., 2O18).Plants satisfy their water needs from deeper soil water and groundwater during the dry season, while they uptake water from shallow soil layers during the wet season (Dawson and Pate, 1996; Asbjornsen et al., 2008;Wang et al., 2017). In addition, plants with dimorphic root systems can absorb water from both shallow and deep soil layers (Dawson and Pate，1996; Nie et al.，2011； Yang et al.， 2015).These flexible water use characteristics reflect ecological plasticity,and are very beneficial to the growth, reproduction, and competition of plants (Eggemeyer et al.，2009; Moreno-Gutiérrez et al.,20l2). Thus,water use characteristics of different plants play a significant role in understanding the interspecies competition and simulating the hydrological process at the soil-plant-atmosphere continuum (Sprenger et al., 2016; Chen et al., 2017; Vargas et al., 2017). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Stable isotopes of hydrogen and oxygen have been widely used in determining plant water sources (Rothfuss and Javaux, 2017; Wang et al., 2017; Allen et al.,2019; Chen et al.,2021) based on the assumption that no isotopic fraction occurs during root water uptake (Dawson and Ehleringer,1991). The isotopic ratios of plant xylem water can be regarded as the weighted average of potential water sources and their contribution rates (Ehleringer and Dawson,1992). However, Lin and Sternberg（1993） found that the $\\delta ^ { 2 } \\mathrm { H }$ of vacuum-extracted xylem water from mangroves was more depleted than that of source water. The reason can be attributed to the hydrogen isotope fractionation during the suction of water by the plant. Ellsworth and Williams (2007） studied sixteen xerophytic and semi-xerophytic trees and shrubs under controled conditions,and found a $3 \\text{‰}$ depletion in the $\\delta ^ { 2 } \\mathrm { H }$ of plant xylem water. This hydrogen isotope depletion is not just a special case,but also has been found in other tree species,including semi-arid shrub species (Wang et al.,2Ol7),coniferous and broadleaf forests (Brooks et al.,2010; Bowling et al.,2017; Geris et al.,2017; Barbeta et al.,2019; Goldsmith et al.,2019),and tropical rainforests (Hannes et al.， 2018；Brum et al.，2019). The isotope tracing technique has contradictory interpretations in water utilization of plants if $\\delta ^ { 2 } \\mathrm { H }$ offsets are not considered (Barbeta et al., 2019; Barbeta et al., 2022). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Caragana korshinskii Kom. is a plant of the genus Leguminous Caragana with a relatively developed root system and strong adaptability. It is the preferred shrub for soil and water conservation and ecological restoration in water-scarce areas (Fang et al.,2Ol3; Chen et al.,2021). Tamarix ramosissima Ledeb.is a shrub with a well-developed root system，which is droughttolerant and salt-alkali-resistant.It plays an important role in wind prevention,which is used for sand fixation and ecological restoration on the Chinese Loess Plateau (Li et al.,2O15). On the Loess Plateau, the groundwater is buried too deeply to be a source of water for vegetation, and plants can only survive on soil moisture replenished by rainfall(Wang et al., 2O17; Chen et al., 2021). However, the climate of northwestern China has undergone a transition from warm-drying to warm-weting in recent years (Yao et al.,2O2O; Zhang et al., 2021), which has inevitably lead to variations in plant water use patterns. Thus, whether these two pioneer shrubs can adequately adjust water use characteristics in response to highly variable rainfall paterns is crucial for their survival. Previous research has shown that T. ramosissima mainly uses deep soil water (Zhou et al.，2017； Su et al.， 2020)，and $C$ ，korshinskii exhibits significantly seasonal patterns in water source uptake (Gao et al.,2O18; Zhang et al.,2O2O). However, these researches did not consider $\\delta ^ { 2 } \\mathrm { H }$ offsets of plant xylem water.Barbeta et al. (2O19） found that monoisotopic tracers are insuficient to be identified as plant water sources when the stem water isotopic composition is matched to multiple water sources. Therefore,it is necessary to correct the $\\delta ^ { 2 } \\mathrm { H }$ offsets when quantifying sources of root water absorption (Li et al., 2O21). Thus,this paper researched the water use characteristics of $C .$ korshinskii and $T .$ ramosissima at different ages after rainfall in the Chinese Loess Plateau based on corrected isotope data. The objectives of this study were to: (1) analyze the performance of these three sets of data ( $\\mathrm { \\Delta \\Omega ^ { \\prime } \\delta ^ { 2 } H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ ，corrected $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } _ { 1 }$ based on SW-excess and $\\delta ^ { 1 8 } \\mathrm { O }$ ，and corrected $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } _ { } 2$ based on $- 8 . 1 \\text{‰}$ and $\\delta ^ { 1 8 } \\mathrm { O }$ ）input into the MixSIAR model; and (2) investigate the water use characteristics of $C .$ korshinskii and $T .$ ramosissima at ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "different ages after rainfall and their responses. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study was conducted in the western Chinese Loess Plateau, Lanzhou City, Gansu Province （20 $( 3 6 ^ { \\circ } 0 7 \\mathrm { { N } }$ ， $1 0 3 ^ { \\circ } 4 4 ^ { \\prime } \\mathrm { E }$ ； Fig.1). The study area has a mid-temperate continental climate with mean annual precipitation ranging from 270 to $3 2 0 ~ \\mathrm { m m }$ .The precipitation is unevenly distributed throughout the year (mainly from June to September). The annual mean air temperature is $1 0 . 0 ^ { \\circ } \\mathrm { C }$ with a minimum value of $- 9 . 0 ^ { \\circ } \\mathrm { C }$ in January and the highest value of $2 9 . 9 ^ { \\circ } \\mathrm { C }$ in July. The terrain is higher in the north and lower in the south, the altitude ranges between 156O and $2 0 6 7 \\mathrm { ~ m ~ }$ a.s.l., and the slope is generally steeper than $3 0 ^ { \\circ }$ (Wu et al., 2006). The soil is mainly light sierozem,with a $\\mathrm { p H }$ value of 8.O-9.0. The vegetation coverage is low, mainly consisting of shrubs such as Tamarix ramosissima, Caragana korshinskii and Reaumuria soongorica (Pall.) Maxim., and herbs such as Agropyron cristatum (L.） Gaertn. and Peganum multisectum (Maxiam.） Bobr. (Zhang et al., 2020). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/41e07ca561a51a8938745bf3c4c82ff77a304af87191d0264f9e07b41a71719c.jpg",
+        "img_caption": [
+            "Fig.1Sample location on the western Chinese LoessPlateau (a)and sample sites of soil, xylem,and rainfall(b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Experimental design and sample collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The twig xylem of juvenile, intermediate,and adult C. korshinskii and T. ramosissima were sampled from July to October 2O2O (Table 1). Sampling were conducted on days 1,3,and 5 after rainfall events on 17-18 July( $( 1 2 . 9 \\mathrm { m m } )$ and 23 August ( $1 5 . 0 \\mathrm { m m } ,$ . Each sampling was performed between O8:00 and 1O:0O (LST). Three replicate samples were taken from the shrubs. Twig xylem samples were cut-off from well-grown plants;and the length of each sample ranged between 3 and $5 \\ \\mathrm { c m }$ ，and its diameter was approximately $0 . 5 \\ \\mathrm { c m }$ .The bark was quickly removed to retain only the xylem, placed into a glass bottle with screw caps,sealed with parafilm, and kept frozen in a refrigerator $( - 2 0 ^ { \\circ } \\mathrm { C } )$ . Simultaneously, we excavated a soil core at a depth of $2 0 0 \\ \\mathrm { c m }$ near the sampled shrubs,and soil samples were taken at depths of 5,10,15,20,30,40,50, 60,70,80, 90, 100,120,140,160,180,and $2 0 0 ~ \\mathrm { c m }$ ，with two replicates per individual. Each soil sample was divided into two parts: one part was placed into glass vials,sealed with parafilm, and stored in a refrigerator $( - 2 0 ^ { \\circ } \\mathrm { C } )$ until isotopic analysis,and the other was used to measure its gravimetric water content (SWC, $\\%$ ）by drying it at $1 0 5 ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { ~ h ~ }$ .The rainfall samples in 2020 were collected from a rain collector comprised of a polyethylene tank and a funnel fited with a ping-pong ball，which was set in the meteorological field of the New Campus of Northwest Normal University, China,at approximately $2 . 5 ~ \\mathrm { k m }$ from the soil and xylem sample site. The temperature and precipitation data in 2O2O were collected from the nearest Gaolan station (China Meteorological Data Service Centre) to the study site. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7582ec5163f0d4cacaa03957e87b226d62bf5c8e15a8633f2cf2f042a13e4470.jpg",
+        "table_caption": [
+            "Table1Morphological traits of C.korshinski and T.ramosissima at different ages "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Plant</td><td>Planting year (a)</td><td>Height (m)</td><td>Crown width (m)</td></tr><tr><td>Juvenile C.korshinskii</td><td>2</td><td>0.7</td><td>0.9</td></tr><tr><td>Intermediate C.korshinskii</td><td>4</td><td>1.0</td><td>1.4</td></tr><tr><td>Adult C.korshinskii</td><td>8</td><td>1.8</td><td>3.0</td></tr><tr><td>Juvenile T.ramosissima</td><td>6</td><td>2.2</td><td>1.5</td></tr><tr><td>Intermediate T.ramosissima</td><td>15</td><td>3.0</td><td>2.6</td></tr><tr><td>Adult T.ramosissima</td><td>24</td><td>4.0</td><td>5.0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Isotopic analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All xylem and soil water samples were extracted using an automatic cryogenic extraction system (LI-2200,BJJL，Beijing，China) in the Stable Isotope Laboratory, College of Geography and Environmental Science，Northwest Normal University， China. The vacuum threshold was controlled below $1 \\ \\mathrm { P a / s }$ , the heating temperature was $1 0 5 ^ { \\circ } \\mathrm { C }$ ,and the extraction time was $3 \\mathrm { ~ h ~ }$ We randomly selected portion of those samples,weighed them after the extraction,and dried them at （20 $1 0 5 ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { h }$ to ensure that the extraction eficiency exceeded $9 8 \\%$ (Yang et al., 2015). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The isotopic compositions of the extracted soil water, xylem water, and rainfall samples were measured using an isotopic ratio infrared spectroscopy (IRIS) system (T-LWIA-45-EP, ABB-Los Gatos Research, CA, USA). The analytical accuracies were $1 \\text{‰}$ for $\\delta ^ { 2 } \\mathrm { H }$ and $\\pm 0 . 3 \\text{‰}$ for $\\delta ^ { 1 8 } \\mathrm { O }$ The composition of $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ is expressed in per mil relative to the Vienna Standard Mean Ocean Water (VSMOW): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta = \\left( \\frac { R _ { \\mathrm { s a m p l e } } } { R _ { \\mathrm { s t a n d a r d } } } - 1 \\right) \\times 1 0 0 0 \\% \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { \\mathrm { s a m p l e } }$ and $R _ { \\mathrm { s t a n d a r d } }$ are the ratios of ${ } ^ { 2 } \\mathrm { H } / { } ^ { 1 } \\mathrm { H }$ or $^ { 1 8 } \\mathrm { O } / ^ { 1 6 } \\mathrm { O }$ of the sample and the standard (VSMOW), respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Organic contaminants (such as methanol, ethanol, and other biological volatile substances) in the water extracted from the twig xylem and soil used cryogenic vacuum distilation would affect the isotopic measurements by the IRIS method (Martin-Gomez et al.,2O17). Therefore, we used the spectral analysis software of Los Gatos Research (ABB-Los Gatos Research, CA, USA） to correct the soil and twig xylem water isotope data based on the index of the measured absorption spectrum to eliminate organic contaminants (Schultz et al.,2O11; Leen et al.,2012). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Landwehr and Coplen （2Oo6） proposed the line-conditioned excess (lc-excess） to evaluate whether there is a $\\delta ^ { 2 } \\mathrm { H }$ offset between soil water (river water and groundwater) and precipitation: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { l c - e x c e s s } = \\delta ^ { 2 } \\mathrm { H } - a \\delta ^ { 1 8 } \\mathrm { O } - b .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $a$ and $b$ are the slope and intercept of local meteoric water line (LMWL), respectively. The lc-excess describes the non-equilibrium dynamic fractionation caused by evaporation (Landwehr et al.,2014). The average value of lc-excess of precepitation is $0 \\text{‰}$ .The lc-excess for other water bodies (e.g., soil water and river water) affected by evaporation,is usually less than $0 \\text{‰}$ .However, since the water inside a plant is more likely to originate from soil water than directly from precipitation, Barbeta et al (2O19) revised Equation 2 and proposed SW-excess to describe the deviation of plant xylem water concerning soil water line (SWL): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S W \\mathrm { - e x c e s s } } = \\delta ^ { 2 } \\mathrm { H } - a _ { \\mathrm { s } } \\delta ^ { 1 8 } \\mathrm { O } - b _ { \\mathrm { s } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $ { \\boldsymbol { a } } _ { \\mathrm { s } }$ and $b _ { \\mathrm { s } }$ are the slope and intercept of SWL at the same sampling point in a given period, respectively. Positive SW-excess indicates that plant xylem samples are more enriched in $\\delta ^ { 2 } \\mathrm { H }$ （204号 than SWL,and vice-versa. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The corrected hydrogen isotope of xylem water $( \\delta ^ { 2 } \\mathrm { H \\_ c } 1 )$ is: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta ^ { 2 } \\mathrm { H } _ { \\mathrm { \\_ c l } } = \\delta ^ { 2 } \\mathrm { H } - \\mathrm { S W } \\mathrm { - e x c e s s } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition, Chen et al (2O2O) found that plant xylem water cryogenic extraction bias that could originate from a dynamic exchange between organic combination deuterium was the key to explaining the hydrogen isotope depletion. They proposed a stem water hydrogen isotope correction method based on the stem relative water content: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta ^ { 2 } \\mathrm { H } _ { \\_ \\mathrm { c } 2 } = \\delta ^ { 2 } \\mathrm { H } - \\varepsilon / S ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta ^ { 2 } \\mathrm { H } _ { - \\mathrm { c } 2 }$ is the corrected hydrogen isotope of stem water; $\\varepsilon$ is the deuterium offset between cryogenically extracted stem water and true xylem water, which is the regression function of the relative water content of the stem; and $S$ is the measurement uncertainty (Evaristo et al., 2015): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = [ ( \\delta ^ { 2 } \\mathrm { H } _ { \\mathrm { a n a l y t i c a l \\ e r r o r } } ) ^ { 2 } + ( \\delta ^ { 1 8 } \\mathrm { O } _ { \\mathrm { a n a l y t i c a l \\ e r r o r } } ) ^ { 2 } ] ^ { 0 . 5 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since we did not measure the stem relative water content, we treated $\\varepsilon$ as a fixed value of $- 8 . 1 \\text{‰}$ ，which corresponds to the species-averaged value for the offset of $\\delta ^ { 2 } \\mathrm { H } _ { \\mathrm { s t e m \\_ C V D } }$ (the hydrogen isotope ratio of water cryogenically extracted from plant stem samples） from $\\delta ^ { 2 } \\mathrm { H } _ { \\mathrm { x y l e m } }$ （20 0 $\\mathrm { \\Delta \\Omega \\cdot \\delta H }$ of plant source water) as obtained from the study of Chen et al. (2020). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At present,there are mainly methods such as the graphical inference method, two-source or three-source linear mixing models,multiple linear mixing model (IsoSource), Bayesian mixing models (MixSIR, SIAR,and MixSIAR),and other methods based on the stable isotopes to trace water sources of plants.Among them, MixSIAR not only considered the uncertainty of root water absorption but also provided an optimal solution rather than a series of feasible solutions (Stock and Semmens, 2013； Rothfuss and Javaux,2017；Antunes et al.， 2018；Wang et al.，2019). Therefore,the Bayesian mixing model MixSIAR was used to estimate the contribution of different potential water sources to the plants. Since isotope fractionation does not occur during root water uptake,the discriminant value was set to O (Brunel et al.,1995; Oerter et al.,2019). The run length of the Markov Chain Monte Carlo (MCMC） was set to 'long'(chain length $_ { = 3 0 0 , 0 0 0 }$ ; burn-i $\\scriptstyle 1 = 2 0 0 , 0 0 0$ ；thin $_ { = 1 0 0 }$ ； and chains $\\scriptstyle \\left\\{ = 3 \\right\\}$ ） to ensure that the model converged, which was tested by applying the Gelman-Rubin and the Geweke diagnostic. The mean value was presented as the output of the MixSIAR.To evaluate the effect of $\\delta ^ { 2 } \\mathrm { H }$ offset in xylem water on quantifying root uptake water, we used three sets of data: $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ ，corrected $\\delta ^ { 2 } \\mathrm { H } _ { \\perp } \\mathrm { _ { c 1 } }$ based on SW-excess and $\\delta ^ { 1 8 } \\mathrm { O }$ ，and corrected $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } _ { 2 }$ based on $- 8 . 1 \\text{‰}$ together with the $\\delta ^ { 1 8 } \\mathrm { O }$ input MixSIAR model. The performance of three sets of data was assessed by the Akaike information criterion (AIC), Bayesian information criterion (BIC),and root mean square error (RMSE).The input dataset with the smallest AIC, BIC,and RMSE values was the best type. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R M S E } = \\sqrt { \\left[ \\frac { 1 } { n } { \\sum _ { i = 1 } ^ { n } } \\big ( p _ { i } { - } o _ { i } \\big ) ^ { 2 } \\right] } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $n$ is the number of validation samples; and $p _ { i }$ and $o _ { i }$ are the predicted and observed values of xylem water isotope values, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { i } = \\sum _ { j = 1 } ^ { k } f _ { i } \\delta _ { A } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $j$ is the $j ^ { \\mathrm { t h } }$ water source used by plants; $k$ is the number of water sources ( $k { = } 4$ in this study); $f$ is the proportion of water sources calculated by the MixSIAR model; and $\\delta _ { A }$ is the isotopic composition of the water sources. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One-way analysis of variance （ANOVA） with the least significant difference (LSD） method $( P { < } 0 . 0 5 )$ was used to examine isotope differences of different water bodies；if $P { \\ge } 0 . 0 5$ ，it was considered that there was no difference.In addition,the relationship between the contribution rate of potential soil water sources and environmental factors was analyzed using Pearson's correlation coefficient test. We divided the whole sampling profile into four potential soil water sources based on the variability in $\\delta ^ { 2 } \\mathrm { H }$ ， $\\delta ^ { 1 8 } \\mathrm { O }$ ，and SwC, i.e.， surface $( 0 { - } 1 0 ~ \\mathrm { c m } )$ ，shallow（ $\\mathrm { ( 1 0 - 4 0 ~ c m ) }$ ， middle $( 4 0 - 1 0 0 ~ \\mathrm { c m } )$ ,and deep ( $1 0 0 { - } 1 6 0 ~ \\mathrm { c m } ,$ soil water. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Soil water content ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The vertical distribution of soil water content for $C .$ korshinskii and T. ramosissima at different ages is shown in Figure 2. The $0 { - } 4 0 ~ \\mathrm { c m }$ soil layers of $C .$ ，korshinskii and $T .$ ramosissima at different ages were found to have relatively higher soil water contents,and the temporal variation of soil water content after rainfall events in the $0 { - } 4 0 ~ \\mathrm { c m }$ was more obvious than that in the $4 0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ ，suggesting $0 { - } 4 0 ~ \\mathrm { c m }$ soil layers are more susceptible to rainfall infiltration and evaporation. In addition，the $4 0 { \\mathrm { - } } 1 0 0 \\ \\mathrm { ~ c m }$ soil water content had relatively small seasonal differences with gentle fluctuation,and the soil water content below $1 0 0 ~ \\mathrm { c m }$ was the lowest with smooth and low fluctuation. The soil water content of the whole profile was the smallest before rainfall (9 July and 16 August), then increased rapidly at $\\mathrm { ~ 1 ~ d ~ }$ after rainfall (19 July and 24 August), and gradually decreased over time. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/15617dffaa666bacfe0df89ee0fdd0d682ee1f00dbcd5d232af4cb95d55aaf5d.jpg",
+        "img_caption": [
+            "Fig.2Variations in the soil water content of juvenile $C .$ korshinskii (al-a3),intermediate C.korshinskii (b1-b3), adult $C .$ korshinskii (c1-c3), juvenile $T .$ ramosissima (d1-d3),intermediate $T .$ ramosissima (el-e3),and adult $T .$ （20 ramosissima (f1-f3) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Isotopic composition of different water bodies ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The $\\delta ^ { 1 8 } \\mathrm { O }$ of precipitation ranged from $- 1 8 . 0 6 \\text{‰}$ to $1 . 5 8 \\text{‰}$ , and the annual precipitation weighted average values were $- 8 . 2 1 \\text{‰}$ . The $\\delta ^ { 2 } \\mathrm { H }$ ranged from $- 1 2 6 . 8 2 \\text{‰}$ to $- 2 8 . 7 3 \\text{‰}$ ，with the annually weighted average value of $- 4 9 . 9 1 \\text{‰}$ . The maximum value of the weighted monthly precipitation was observed in June ( $\\mathrm { \\Delta \\delta ^ { 2 } H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ being $- 1 2 . 1 6 \\text{‰}$ and $- 2 . 9 1 \\text{‰}$ , respectively),and the minimum value was observed in January ( $( - 9 6 . 4 1 \\text{‰}$ for $\\delta ^ { 2 } \\mathrm { H }$ and $- 1 3 . 7 2 \\text{‰}$ for $\\delta ^ { 1 8 } \\mathrm { O }$ ) (Fig. S1).The LMWL is $\\delta ^ { 2 } \\mathrm { H } \\mathrm { = } 6 . 9 5 ( \\pm 0 . 2 6 ) \\delta ^ { 1 8 } \\mathrm { O } \\mathrm { + } 3 . 2 5 ( \\pm 2 . 3 1 )$ ， $R ^ { 2 } { = } 0 . 9 5$ ，and $P { < } 0 . 0 1$ ; its slope and intercept were less than those of the GMWL (Craig,1961), suggesting the climatic characteristics of intense evaporation in arid and semi-arid areas (Fig. 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f9175ed715de336d6a1aed85b9cdfe565ccb499764f4fb33c78e935fd090dfe.jpg",
+        "img_caption": [
+            "Fig.3Relationships between $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ of rainfall,soil water,and plant xylem water for juvenile $C .$ korshinskii (a),intermediate $C .$ korshinskii (b),adult C.korshinskii (c), juvenile T.ramosissima (d),intermediate T.ramosissima (e),and adult $T .$ ramosissima (f).SWL is the soil water line based on soil water isotope values, and LMWL is the local meteoric water line.GMWL ( $\\mathrm { \\delta ^ { 2 } H = } 8 8 ^ { 1 8 } \\mathrm { O } + 1 0 \\mathrm { \\Omega }$ ）isplotted for reference.Insets show the linear regression relationship between $\\delta ^ { 2 } \\mathrm { H }$ $( 8 ^ { 2 } \\mathrm { H } , 8 ^ { 2 } \\mathrm { H } _ { - ^ { 1 } }$ and $\\delta ^ { 2 } \\mathrm { H } _ { - \\mathrm { c } 2 } \\mathrm { \\dot { \\Omega } }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ in plant xylem water. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hydrogen and oxygen isotopes in soil water showed similar vertical distributions and temporal changes; thus,we used $\\delta ^ { 1 8 } \\mathrm { O }$ to analyze the characteristics of soil water isotopic compositions (Figs. S2 and S3). The $\\delta ^ { 1 8 } \\mathrm { O }$ of soil water varied with soil depth and plant species (Fig. S3; Table S1). The $\\delta ^ { 1 8 } \\mathrm { O }$ of the $\\textstyle 0 - 4 0 \\ { \\mathrm { c m } }$ soil water exhibited greater temporal variability than that of the $4 0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ soil water, and then stabilized with increasing of soil depths.In addition, the soil water $\\delta ^ { 1 8 } \\mathrm { O }$ of the two shrubs at different ages showed obvious differences $( P { < } 0 . 0 5 )$ . The $\\delta ^ { 1 8 } \\mathrm { O }$ values of soil water were $- 4 . 6 9 \\text{‰}$ （ $( \\pm 3 . 3 9 \\text{‰}$ for juvenile $C .$ ，korshinskii, $- 5 . 2 7 \\text{‰}$ $( \\pm 3 . 1 4 \\% )$ for intermediate $C _ { }$ ，korshinskii, $- 7 . 0 1 \\text{‰}$ $( \\pm 3 . 4 7 \\text{‰}$ for adult $C .$ korshinskii, $- 4 . 2 7 \\text{‰}$ $( \\pm 3 . 6 1 \\text{‰}$ for juvenile $T .$ ramosissima, $- 1 . 0 6 \\text{‰}$ $( \\pm 4 . 3 8 \\% )$ for intermediate $T .$ ramosissima,and $- 0 . 3 8 \\text{‰}$ $( \\pm 3 . 8 0 \\text{‰}$ for adult $T .$ ramosissima. Prior to rainfall (9 July and 16 August), the $\\delta ^ { 1 8 } \\mathrm { O }$ was the most enriched,then decreased rapidly at $^ \\mathrm { ~ 1 ~ d ~ }$ after rainfall (19 July and 24 August),and gradually increased over time (Fig. S3). The relationships between $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ in soil water for juvenile, intermediate,and adult C.korshinskii and $T .$ ramosissima are shown in Figure 3.The slope of the soil water lines (SWL) increased with age for $C .$ korshinskii,while the inverse trend was observed for $T .$ ramosissima. All the SWLs were plotted on the lower right of the LMWL and intersected with it,indicating that soil water originated from rainfall and was affected by different degrees of evaporation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Significant differences in xylem water isotope values between different species were observed $( P { < } 0 . 0 5 )$ ，indicating that C. korshinskii and $T .$ ramosissima may have distinct water use characteristics. Significant diferences were observed in the xylem water isotopes of $C .$ （2号 korshinskii at different ages $( P { < } 0 . 0 5 )$ ，while $T .$ ramosissima did not present such a discrepancy with age $( P { \\ge } 0 . 0 5 )$ . The isotopic composition of $C .$ korshinskii and $T .$ ramosissima at different ages was found to be near that of soil water, suggesting that the plants obtain water primarily from soil horizons (Fig.3). After the rainfall events of 17-18 July and 23 August,there was no significant variation in the isotopic composition of plant xylem water (Table S1),which was attributed to the fact that the isotope signal of rainfall needed a certain time to transport to xylem of plants. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 $\\delta ^ { 2 } \\mathbf { H }$ offset of xylem water ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The $\\delta ^ { 2 } \\mathrm { H }$ offset between xylem water and SWL was calculated by SW-excess. The average SW-excess values were $2 . 4 3 \\text{‰}$ ， $0 . 4 2 \\text{‰}$ ，and $3 . 4 8 \\text{‰}$ for juvenile,intermediate,and adult $C$ korshinskii, respectively,while the average SW-excess values were $- 1 . 0 3 \\text{‰}$ ， $3 . 1 6 \\text{‰}$ ，and $1 . 8 5 \\text{‰}$ for juvenile,intermediate,and adult $T .$ ramosissima,respectively (Fig. 4). This finding was distinct from that of previous studies.The SW-excess has positive and negative values,which may be related to the occurrence of rainfall events. The average SW-excess after rainfall on 17-18 July (SW-excess ${ > } 0$ ） was larger than that on 23 August (SW-excess ${ < } 0$ ),which wasattributed to the slope of SWL after rainfall on 17-18 July being less than that on 23 August (except for intermediate $T .$ ramosissima) (Fig. S4). It all boils down to the significantly different rainfall isotopic compositions on 17-18 July $\\mathrm { \\langle \\delta 8 ^ { 2 } H = ~ - } 3 3 . 2 6 \\%$ ， $\\delta ^ { 1 8 } \\mathrm { O } = - 5 . 6 4 \\%$ and 23 August $\\scriptstyle ( \\delta ^ { 2 } \\mathrm { H } =$ $- 6 8 . 7 6 \\text{‰}$ ， $\\delta ^ { 1 8 } \\mathrm { O } = - 1 1 . 4 3 \\% 0 \\rangle$ . Compared with the uncorrected $\\delta ^ { 2 } \\mathrm { H }$ ,the corrected $\\delta ^ { 2 } \\mathrm { H } _ { - \\mathrm { c } 1 }$ and $\\delta ^ { 2 } \\mathrm { H } _ { - \\mathrm { c } 2 }$ values from both methods were closer to the range of potential water sources (Fig.3), indicating that these two correction methods were reasonable. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/687405249ffe88a9ce7610c60a00da4cdf2fc114d0a42166d4972c316453afd6.jpg",
+        "img_caption": [
+            "Fig.4Temporal variation (a)and plant species diffrence (b)in SW-excess.The extents of the boxes show the $2 5 ^ { \\mathrm { t h } }$ and $7 5 ^ { \\mathrm { t h } }$ percentiles,whiskers show the range within 1.5IQR (interquartile range),and the black rhombus denote the outliers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4 Water source apportionment by three input datasets ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "When the isotopic compositions of potential water sources were similar, it is not sufficient to use a single isotope to analyse the water use strategies of plants to distinguish the contribution rates of different water sources. Thus,we used three sets of isotopic datasets as inputs to the MixSIAR model: $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ ， $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } _ { 1 }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ and $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } _ { 2 }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ ，and the obtained results were different (Figs. 5 and 6). The AIC,BIC,and RMSE values showed that the $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } _ { 1 }$ and $\\mathbf { \\delta } ^ { 8 1 8 } \\mathbf { O }$ pairs are the best performing types in identifying water use characteristics (Table 2). In contrast, the performance of $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } _ { 2 }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ was not better than that of $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ because we did not directly measure the water content of the plant stems but used the constant $\\varepsilon$ of $- 8 . 1 \\text{‰}$ .This result also showed that the value of $- 8 . 1 \\text{‰}$ for $\\delta ^ { 2 } \\mathrm { H }$ bias cannot be used as a general correction factor. Moreover, the contribution of deep soil water was underestimated because of hydrogen isotope offset (Table S2). Therefore, the $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } _ { 1 }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ datasets were used to analyse the root water uptake patterns of pioneer shrubs of different ages. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/be35dd04cc2db98af6ff0896745620cedd46161515857b85b14802264ecf5bed.jpg",
+        "table_caption": [
+            "Table 2Performance of water source contribution using three input datasets to the MixSIAR model "
+        ],
+        "table_footnote": [
+            "Note:AIC,Akaike information criterion; BIC,Bayesian information criterion;RMSE,root mean square error. "
+        ],
+        "table_body": "<html><body><table><tr><td>Input dataset</td><td>AIC</td><td>BIC</td><td>RMSE</td></tr><tr><td>δ²H and δ180</td><td>287.56</td><td>291.71</td><td>14.28</td></tr><tr><td>δ²H_c1 and δ180</td><td>267.25</td><td>271.40</td><td>13.22</td></tr><tr><td>S²H_c and 8180</td><td>289.00</td><td>293.16</td><td>13.74</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The relative proportions of soil water sources to $C .$ korshinskii at different ages after rainfall calculated by the MixSIAR model with three input datasets are shown in Figure 5. On 9 July, intermediate and adult $C .$ korshinskii obtained most of their water from the $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ soil layers,which was due to the higher soil water content in the $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ layers (no sampling for juvenile C. korshinskii). Juvenile C. korshinskiiabsorbed water from all four soil water layers at 1 d after rainfall on $1 7 { - } 1 8 \\ \\mathrm { J u l y }$ ,and shifted to both use the 1O-4O and $4 0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ soil water at 3 and $5 \\mathrm { ~ d ~ }$ after rainfall. On 16 August, juvenile C. korshinskii tended to extract the 10-40 and 40-100 cm soil water, shifted to use the $0 { - } 1 0 ~ \\mathrm { c m }$ soil water at 3 and $5 \\mathrm { ~ d ~ }$ after rainfall on 23 August,and the proportions of the $0 { - } 1 0 ~ \\mathrm { c m }$ gradually increased over time.Juvenile C. korshinskii mainly utilized the O-1O and $1 0 { - } 4 0 ~ \\mathrm { c m }$ soil water during the late growing season (September and October),and the proportions gradually increased. Intermediate C. korshinskii tended to extract the $\\textstyle 0 - 4 0 \\ \\mathrm { c m }$ soil water at $^ \\textrm { \\scriptsize 1 d }$ after rainfall on 17-18 July,and the proportional contributions of the $\\textstyle 0 - 4 0 \\mathrm { c m }$ soil water gradually decreased at 3 and $5 \\mathrm { d }$ after rainfall. On 16 August, intermediate C.korshinskii obtained water mostly from the $0 { - } 1 0 ~ \\mathrm { c m }$ soil water,used the $1 0 { - } 4 0 ~ \\mathrm { c m }$ soil water at $\\mathrm { ~ 1 ~ d ~ }$ afterrainfall on 23 August,and then shifted to use the $0 { - } 1 0 \\mathrm { c m }$ soil water at 3 and $5 \\mathrm { d }$ after rainfall.Intermediate $C .$ korshinskii mainly utilized the O-1O and $1 0 { - } 4 0 ~ \\mathrm { c m }$ soil water during the late growing season (September and October),and the proportions gradually decreased. Adult $C .$ （204号 korshinskii obtained water from the $4 0 { - } 1 0 0 ~ \\mathrm { c m }$ soil water at $^ \\textrm { \\scriptsize 1 d }$ afterrainfall on 17-18 July and then gradually increased the proportions of the $\\textstyle 0 - 4 0 \\ { \\mathrm { c m } }$ soil water at $5 \\mathrm { ~ d ~ }$ after rainfall. On 16 August, adult $C .$ korshinskii utilized water mostly from the $0 { - } 1 0 ~ \\mathrm { c m }$ soil water and used the O-10 cm $( 5 0 . 7 \\%$ $( \\pm 3 . 7 \\% ) )$ and $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ ( $4 3 . 1 \\%$ $( \\pm 2 . 1 \\% ) )$ soil water at $^ \\textrm { \\scriptsize 1 d }$ after rainfall on 23 August,and the proportions of the $\\textstyle 0 - 4 0 \\ { \\mathrm { c m } }$ soil water steadily increased over time.Adult $C .$ korshinskii mainly absorbed the O-1O and $1 0 { - } 4 0 ~ \\mathrm { c m }$ soil water during the late growing season (September and October),and gradually increased the proportional contributions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows the relative proportions of water sources to T. ramosissima of various ages after rainfall,as calculated by the MixSIAR model using three sets of input data. On 9 July, juvenile and intermediate $T .$ ramosissima mainly utilized the $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ soil water,while adult T. ramosissima absorbed the water from the 4O-1Oo and $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ soil layers. On 17-18 July, a rainfall of $1 2 . 9 \\ \\mathrm { m m }$ occurred.At1 d after rainfall, juvenile $T .$ ramosissima mainly used the 0-10 and $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ soil water and shifted to the $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ soil water at 3 and $5 \\mathrm { ~ d ~ }$ after rainfall. The contribution of the $0 { - } 1 0 ~ \\mathrm { c m }$ soil water for intermediate $T .$ ramosissima Was relatively larger $( > 7 0 \\% )$ at $\\mathrm { ~ 1 ~ d ~ }$ after rainfall, and the proportion of the $1 0 { - } 4 0 ~ \\mathrm { c m }$ soil water gradually increased at 3 and $5 \\mathrm { ~ d ~ }$ after rainfall. On the first day after rainfall, the proportional contributions of the O-10 cm soil water for adult $T .$ ramosissima were larger (more than $70 \\%$ ）than those of the other soil layers,and this proportion dramatically increased to a proportion of $9 8 \\%$ at $3 \\textrm { d }$ after rainfall. However, the water source for adult $T .$ ramosissima shifted from the $0 { \\mathrm { - } } 1 0 \\ \\mathrm { c m }$ at $3 \\mathrm { ~ d ~ }$ to the $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ soil water at $5 \\mathrm { ~ d ~ }$ after rainfall. On 16 August, juvenile and adult $T .$ ramosissima extracted the $4 0 { - } 1 0 0 ~ \\mathrm { c m }$ soil layer as the main water source,while intermediate $T .$ ramosissima used water from the $1 0 { - } 4 0 ~ \\mathrm { c m }$ soil layer. On the first day after rainfall on 23 August $( 1 5 . 0 \\ \\mathrm { m m } )$ ， the proportional contributions of soil water in each soil layer for juvenile $T .$ ramosissima were approximate,and the $0 { - } 1 0 ~ \\mathrm { c m }$ （ $( 9 0 \\% )$ soil water was used at $3 \\mathrm { ~ d ~ }$ after rainfall.Besides,the contribution of the O-10 and $1 0 { - } 4 0 ~ \\mathrm { c m }$ soil layers for juvenile T. ramosissima was even higher at $5 { \\mathrm { d } }$ Intermediate $T .$ ramosissima mainly utilized the O-1O and the $1 0 { - } 4 0 ~ \\mathrm { c m }$ soil water at $\\mathrm { ~ 1 ~ d ~ }$ after rainfall, switched to using the 1O-4O and $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ soil water at $3 \\mathrm { ~ d ~ }$ ,and the $1 0 { - } 4 0 \\ \\mathrm { c m } \\ ( 7 0 \\% )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb5419d8b8a5ed3560d9386020a3d33604d1ca865fc2e0b1339e959bdfe70dc4.jpg",
+        "img_caption": [
+            "Fig.5Relative proportions of water sources used by juvenile C. korshinskii (al-a3), intermediate $C$ ，korshinskii (b1-b3),and adult $C .$ korshinskii(c1-c3) with the MixSIAR model based on $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ ， $\\delta ^ { 2 } \\mathrm { H \\Pi _ { - } c 1 }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ ，and $\\delta ^ { 2 } \\mathrm { H } _ { - \\mathrm { c } 2 }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/905c11a31f75fe7fd8185a2a289d79a244c4c3c0c6115283392b26db45c58595.jpg",
+        "img_caption": [
+            "Fig.6Relative proportions of water sources used by juvenile T. ramosissima (al-a3)， intermediate $T .$ （20 ramosissima (b1-b3),and adult T. ramosissima (c1-c3) with the MixSIAR model based on $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ $\\delta ^ { 2 } \\mathrm { H } _ { - \\mathrm { c } 1 }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ ,and $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } 2$ and $\\delta ^ { 1 8 } \\mathrm { O }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "soil water at $5 \\mathrm { d }$ ,respectively. Adult $T .$ ramosissima mainly absorbed the O-1O and $1 0 { - } 4 0 ~ \\mathrm { c m }$ soil water at $\\mathrm { ~ 1 ~ d ~ }$ after rainfall and shifted to utilize the $0 { - } 1 0 ~ \\mathrm { c m }$ soil water at $3 \\mathrm { ~ d ~ }$ and $4 0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ soil layer water $( 7 0 \\% )$ at $5 \\textrm { d }$ ，respectively. In September, $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ soil water was the primary water source for juvenile and adult $T .$ ramosissima,while intermediate $T .$ ramosissima utilized the water in the $4 0 { - } 1 0 0 ~ \\mathrm { c m }$ soil layer. In October,the proportions of the 40-100 and $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ ， ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$1 0 0 { - } 2 0 0 \\ \\mathrm { c m \\ ( \\Omega }$ $( 9 0 \\% )$ ，and $4 0 { \\mathrm { - } } 1 0 0 ~ { \\mathrm { c m } }$ $( 9 0 \\% )$ soil water were higher for juvenile,intermediate,and adult $T .$ ramosissima, respectively. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1 Variation in stable isotopes of soil water after rainfall ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the Loess Plateau,the groundwater is buried too deeply to be a source of water for plants,and plants can only survive on soil moisture originally derived from rainfall (Wang et al., 2O17). In this study, the temporal variation of soil water and isotopic compositions of the $\\textstyle 0 - 4 0 \\ { \\mathrm { c m } }$ varied dramatically after rainfall than that of deeper soil layers (Figs.2, S2,and S3), suggesting that the $\\textstyle 0 - 4 0 \\ { \\mathrm { c m } }$ soil water was more susceptible to rainfall and evaporation (Rossatto et al., 2O12). This was consistent with the findings of Sprenger et al. (2O17), who proposed subsequent fading of the fractionation effect: the stable isotope in the upper soil water varied dramatically as soon as rainfall infiltrated into the soil,and became weaker with depth. Before rainfall (9 July and 16 August), the isotope values of soil water were most enriched and then decreased dramatically at 1 d after rainfall (19 July and 24 August） because of the infiltration of rainfall with a negative isotopic composition. The isotopic compositions of soil water gradually increased at 3 and $5 \\mathrm { ~ d ~ }$ after rainfall due to the stronger evaporation effects (Dai et al., 2015). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2 Water uptake patterns of C. korshinskii and $T .$ ramosissima at different ages ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "C. korshinskii gradually increased the proportion of deeper ( $\\mathrm { 1 0 0 - 2 0 0 ~ c m } )$ soil water with age. Juvenile and intermediate $C .$ ，korshinskii mainly utilized the water from the O-1O and $1 0 { - } 4 0 ~ \\mathrm { c m }$ soil layers,while adult C. korshinskii mainly absorbed water from the 4O-1OO and $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ soil layers. In this study, during the dry period (9 July),intermediate and adult $C .$ korshinskii obtained water mostly from deeper ( $\\mathrm { 1 0 0 - 2 0 0 ~ c m } )$ soil water (no sampling for juvenile $C .$ （2号 korshinski). C. korshinskiiat different ages switched their sources from diffrent soil layers after rainfall (Figs.5 and 6),and the response of water use characteristics of C. korshinskii at different ages to rainfall varied (Tables S3 and S4). When antecedent soil water was deficient, the water uptake patterns of juvenile C. korshinskii after rainfall tended to be more homogeneous in different soil horizons (after rainfall on $1 7 { - } 1 8 \\ \\mathrm { J u l y } )$ .However, when antecedent soil water was sufficient, juvenile C. korshinskii water use patterns were more sensitive to rainfall,and the main water sources after rainfall shifted from the 1OO-2OO to the $0 { - } 1 0 ~ \\mathrm { c m }$ of soil water (after rainfall on 23 August). This result is in line with the result of Dai et al. (2O15), who found that the water use strategies of Haloxylon ammodendron (C.A. Mey.) Bunge were more sensitive to rainfall in spring with abundant surface soil water than in dry summer. The water use strategies of intermediate C. korshinskii can respond to rainfall immediately,and plants tended to utilize the $\\textstyle 0 - 4 0 \\ \\mathrm { c m }$ soil water after rainfall on 17-18 July and 23 August. Adult C. korshinskii had delayed responses to water use after rainfall, and the contribution of the $\\textstyle 0 - 4 0 \\ { \\mathrm { c m } }$ soil water generally increased gradually at 1, 3, and $5 \\mathrm { d }$ after rainfall. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "T.ramosissima is a deep root plant, and plant roots distributed in surface soil mainly absorbed soil moisture provided by rainfall, while deeper roots absorbed soil water supplied by winter and spring precipitation or groundwater in drought environments (Williams and Ehleringer, 2000; Chimner and Cooper, 2O04; Su et al.,2O2O). The roots in the surface soil may be dormant under drought conditions,and are reactivated by rainfall. Therefore, plants only rely on their deep roots to utilize water from the soil when there is less rainfall and low shallow soil water content (Ehleringer and Dawson,1992). When the rainfallamount reaches a certain threshold,the shallow soil water content increases,and plant roots begin to form and maintain the function of absorbing surface soil moisture (Duan et al.， 2OO8)，which helps to reduce energy consumption as demonstrated in previous studies (Ogle and Reynolds,2004; Schenk, 2008; Sun et al., 2011). In this study, during the dry period (July 9), juvenile and intermediate $T .$ ramosissima absorbed deeper ( $1 0 0 { - } 2 0 0 ~ \\mathrm { c m } )$ soil water, while adult T. ramosissima mainly utilized water from middle $( 4 0 - 1 0 0 ~ \\mathrm { c m } )$ and deep ( $1 0 0 { - } 2 0 0 ~ \\mathrm { c m } )$ soil layers. After rainfall, T. ramosissima of different ages tended to absorb surface $( 0 { - } 1 0 \\ \\mathrm { c m } )$ and shallow $( 1 0 { - } 4 0 \\ \\mathrm { c m } )$ soil water supplied by rainfall, which was the same as the result of Cui et al.(2O15) in the Gobi area of Dunhuang, China. The response of the water use characteristics of $T .$ ramosissima at different ages to rainfall varied (Tables. S3 and S4). Water use strategies of juvenile T. ramosissima were sensitive to rainfall when antecedent soil water was suficient. The water use strategies of intermediate and adult $T .$ ramosissima can both respond to rainfall immediately. Intermediate $T .$ ramosissima tended to utilize the $0 { - } 4 0 ~ \\mathrm { c m }$ soil water after rainfall on 17-18 July and 23 August, and the proportion gradually decreased. Adult $T .$ ramosissima tended to absorb the 100-200 and $4 0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ soil water at $5 \\mathrm { d }$ after rainfall on 17-18 July and 23 August, respectively. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The contribution rates of potential water sources for $C .$ ，korshinskii and $T .$ ramosissima at different ages were also correlated with environmental data (rainfall, vapour pressure deficit, and soil water content) (Table S5). The discrepancy in the water source contribution of $C .$ korshinskii was mainly reflected in the relationship with soil water content. Nevertheless,the difference in contribution rates of $T .$ ramosissima was reflected in the correlation with the cumulative rainfall 7 d before sampling, the average vapour pressure deficit 7 d before sampling,and the soil water content. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3 Implications ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The transition of climate from warm-drying to warm-wetting and extreme precipitation with increasing frequency on the Loess Plateau will impel plants to change their water use patrns (Gao et al.,2O18). During the dry period, intermediate and adult $C .$ ，korshinskii obtained water mostly from deeper $( 1 0 0 - 2 0 0 \\ \\mathrm { c m } )$ soil water and juvenile and intermediate T. ramosissima absorbeddeeper $( 1 0 0 - 2 0 0 ~ \\mathrm { c m } )$ soil water, while adult $T .$ ramosissima absorbed mostly water from the middle $( 4 0 - 1 0 0 ~ \\mathrm { c m } )$ and deeper ( $1 0 0 { - } 2 0 0 ~ \\mathrm { c m } )$ soil layers.After rainfall, the proportions of surface $( 0 { - } 1 0 ~ \\mathrm { c m } )$ and shallow $( 1 0 { - } 4 0 ~ \\mathrm { c m } )$ soil water for $C .$ ，korshinskii and $T .$ ramosissima at different ages both steadily increased over time. However, there were different responses to rainfall. Compared with the water use strategies of the two pioneer shrubs,we found that $C .$ korshinskii absorbed various potential water sources simultaneously, while $T .$ ramosissima only used deep water. These significantly different water use strategies allow them to achieve a complementary utilization of resources,and promote coexistence between species,which may provide more guidance in ecological rehabilitation and insights for the selection and management of plant species during vegetation restoration on the Loess Plateau. In vegetation restoration, plants with different water use characteristics should be combined to form a good plant configuration,and compensate for the lack of water use by different species. In this study， we attempted to analyze the performance of three datasets: $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ ，corrected $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } _ { 1 }$ based on SW-excess and $\\delta ^ { 1 8 } \\mathrm { O }$ ,and corrected $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } _ { 2 }$ based on $- 8 . 1 \\text{‰}$ and $\\delta ^ { 1 8 } \\mathrm { O }$ .The performance of $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } _ { 2 }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ was not the best because we did not directly measure the water content of plant stems but used the constant $\\varepsilon$ of $- 8 . 1 \\text{‰}$ . A higher performance may be obtained if the measured stem water content is used to correct the $\\delta ^ { 2 } \\mathrm { H }$ offset in future studies.In addition, fine roots determine plant water uptake, and further long-term studies on root biomass, characteristic changes affecting root activity, and changes in stable isotopes over time are needed. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study used three sets of hydrogen and oxygen stable isotope data as inputs for the MixSIAR model to explore the water use strategies and responses to rainfall of $C$ ，korshinskii and $T .$ （20 ramosissima at different ages in western Chinese Loess Plateau. We evaluated the performance of the three sets of data input to the MixSIAR model, and found that $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } _ { 1 }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ was the best performance type.In addition, the contribution of deep soil water was underestimated because of the $\\delta ^ { 2 } \\mathrm { H }$ offset.During the dry periods,deeper ( $1 0 0 { - } 2 0 0 ~ \\mathrm { c m } )$ soil water was the main source for intermediate and adult $C _ { }$ ，korshinskii, juvenile and intermediate $T .$ ramosissima,while the middle （20 $( 4 0 - 1 0 0 ~ \\mathrm { c m } )$ anddeeper ( $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ ） soil water was main sources for adult $T .$ ramosissima (no sampling for juvenile $C .$ korshinskii).After rainfall, the proportions of surface $( 0 { - } 1 0 ~ \\mathrm { c m } )$ and shallow $\\left( 1 0 { - } 4 0 ~ \\mathrm { c m } \\right)$ soil water for $C .$ ，korshinskii and $T .$ ramosissima at different ages both gradually increased. Nevertheless, there were different responses to rainfall. These flexible water use characteristics of $C .$ ，korshinskii and $T .$ ramosissima might facilitate the coexistence of plants in extreme rainfall. This study will be of great significance for vegetation restoration on the Chinese Loess Plateau. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This study was funded by the National Natural Science Foundation of China (41771035，42O71047)，the Foundation for Distinguished Young Scholarsof Gansu Province(2OJRl0RA112)，the Northwest Normal University (NWNU-LKZD2021-04),and the Department of Education of Gansu Province: \"Innovation Star\" Program of Excellent Postgraduates (2021CXZX-217). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Allen ST,KirchnerJW,Braun S,etal.2019.Seasonal originsof soil waterusedbytrees.Hydrologyand Earth System Sciences,23(2):1199-1210.   \nAntunesC,Diaz-Barrdas M C,Zunzunegui M,et al.2018.Water source partitioning among plant functional types ina semi-arid dune ecosystem. Journal of Vegetation Science,29(4): 671-683.   \nAsbjornsen H,ShepherdG,Helmers M,etal.2O08.Seasonal paterns indepthof wateruptakeundercontrastinganualand perennial systems in the corn belt region of the Midwestern U.S.Plant and Soil,308(1-2): 69-92.   \nBai Y,Han X,WuJ,etal.2O04.Ecosystemstabilityandcompensatoryeffectsinthe Inner MongoliangrassandNature, 431(7005): 181-184.   \nBarbetaA，JonesSP,ClaveéL,etal.2019.Unexplained hydrogen isotope offsetscomplicate theidentificationand quantification of tree water sources in a riparian forest. Hydrologyand Earth System Sciences,23(4): 2129-2146.   \nBarbeta A,BurlettR,Martin-GmezP,etal.2O22.Evidencefordistinctisotopiccompositionofsapand tisue waterntree stems: consequences for plant water source identification.New Phytologist, 233(3): 1121-1132.   \nBowling DR,SchulzeES,HallSJ.2Ol7.Revisitingstreamside tresthatdo notuse stream water:canthetwo water worlds hypothesisandsnowpack isotopic efects explain a missng water source? Ecohydrology，10(1):el771，doi: 10.1002/eco.1771.   \nBrooksJR,Barnard HR,Coulomb R,et al.2O10.Ecohydrologic separationof water between trees and streams in a Mediterranean climate.Nature Geoscience,3(2):1O0-104.   \nBrum M,Vadeboncoeur MA,Ivanov V,etal.20l9.Hydrological niche segregation defines forest structure and drought tolerance strategies in a seasonal Amazon forest. Journal of Ecology,lO7(1): 318-333.   \nBrunelJP,WalkerGR,Kennett-Smith AK.1995.Field validationof isotopic procedures for determining sourcesof water used by plants in a semi-arid environment. Journal of Hydrology,l67(1-4):351-368.   \nChangE,LiP,Li Z,etal.2O19.Using water isotopes toanalyze water uptake during vegetation sucesion onabandoned cropland on the Loess Plateau,China. CATENA,181: 104095,doi: 10.1016/j.catena.2019.104095.   \nChen H,HuK,NieY,etalOl7.Analysisofsoilwater movementinsideafotslopeandadepressoninaKarstcatchment, Southwest China. Scientific Reports,7(1): 1-13.   \nChenY,HelikerBR,TangX,etal.O20.Stemwatercryogenic extractionbasesestimationineuterumiotopecomosition of plant source water.Proceedings of the National Academy of Sciences of the United States of America,117(52): 33345-33350.   \nChen Z,Wang G,Pan Y,etal.2O21.Waterusepattrnsdiffered notablywithseasonandslope aspectfor Caraganakorshinski on the Loess Plateau of China.CATENA,198:105028,doi:10.1016/j.catena.2020.105028.   \nChimnerR A,Cooper DJ.2O04.Using stable oxygen isotopes to quantifythe watersource used for transpiration by native shrubs in the San Luis Valley,Colorado USA.Plant and Soil,26O(1-2): 225-236.   \nCraig H.1961.Isotopic variations in meteoric waters. Science,133(3465): 1702-1703.   \nCuiYQ,MaJY,SunW,et al.2O15.Apreliminarystudyof wateruse strategyof desertplants in Dunhuang,China.Jouralof Arid Land,7(1): 73-81.   \nDaiY,Zheng XJ,TangLS,etal.2O15.Stable oxygenisotopesrevealdistinct wateruse paernsoftwo Haloxylonspeciesin the Gurbantonggut Desert. Plant and Soil,389(1-2): 73-87.   \nDawson TE,Ehleringer JR.1991.Streamside trees that do not use stream water.Nature,350(6316): 35-337. dimorphic root morphology: a stable isotope investigation. Oecologia,107: 13-20.   \nDuan DY,HuaQY,Song MH,etal.2Oo8.Watersources of dominant species in three alpine ecosystemson the Tibetan Plateau,China. Journal of Integrative Plant Biology,50(3): 257-264.   \nEgemeyer KD,AwadaT,HarveyFE,etal.2O09.Seasonalchanges indepthofwateruptakeforencroaching treesJuniperus virginiana and Pinus ponderosa and two dominant $\\mathrm { C } _ { 4 }$ grasses in a semiarid grassland. Tree Physiology,29(2):157-169.   \nEhleringer JR,Dawson TE.1992.Water uptakeby plants:perspectives from stableisotope composition.Plant,Celland Environment,15(9):1073-1082.   \nElsworth PZ,WiliamsDG.2Oo7.Hydrogen isotope fractionation during wateruptakeby woody xerophytes.Plantand Soil, 291(1-2): 93-107.   \nEvaristo J,JsechkoS,McDonnellJJ.2O15.Global separationofplanttransprationfrom groundwaterandstreamflow.Nature, 525(7567): 91-94.   \nFang XW,TurnerNC,XuDH,etal.2O13.Limitstotheheight growthofCaragana korshinskiiresprouts.Tree Physiology, 33(3): 275-284.   \nGao X,WuP,ZhaoX,etal.2Ol1.Soilmoisture variabilityalong transectsoverawell-developedgullintheLoess Plateau, China. CATENA,87(3): 357-367.   \nGao X,ZhaoX,LiH,etal.2O18.Exoticshrub species (Caraganaorshinski)ismoreresistanttoextremenaturaldroughthan native species (Artemisiagmelinii)inasemiaridrevegetatedecosystem.AgriculturalandForestMeteorology,263:207-216.   \nGeris J,TetlaffD,McDonellJJ,etal.2O17.Spatialandtemporalpattsofsoilwaterstoageandvegetation waterusein humid northern catchments. Science of the Total Environment, 595: 486-493.   \nGoldsmithGR,Allen STBraun S,eal.2O19.Spatialvariationinthroughfallsoil,andplant waterisotopesinprate forest.Ecohydrology,12(2):e2059,doi: 10.1002/eco.2059.   \nHannes D D,Hervé-Fernandez P,Stahl C,et al.2018.Lianaand tree below-ground water competition-evidence for water resource partitioning during the dry season. Tree Physiology,38(7):1O71-1083.   \nHerasM,Espigares T，Merino-MartinL，etal.20l1Water-relatedecological impactsof rill erosion procesesin Mediterranean-dry reclaimed slopes. CATENA, 84(3): 114-124.   \nHuo G,Zhao X,Gao X,et al.2O18.Seasonal wateruse paternsofrainfed jujube trees in stands of diferentages under semiarid plantations in China.Agriculture,Ecosystems and Environment,265(26): 392-401.   \nJia Z,Zhu Y,LiuL.Ol2.Diferent waterusestrategiesof juvenileandadult Caraganaintermediaplantatios intheGonghe Basin,Tibet Plateau. PLoS ONE,7(9): e45902,doi: 10.1371/journal.pone.0045902.   \nLandwehrJM,Coplen TB.2O06.Line-conditioned exces:anew method for characterizing stable hydrogen and oxygen isotoperatios in hydrologic systems.In:International Conference on Isotopes in Environmental Studies.Monte Carlo: International Atomic Energy Agency,132-135.   \nLandwehr JM,Coplen TB,StewartDW.2014.Spatial,seasonal,and source variability in the stableoxygenand hydrogen isotopic composition of tap waters throughout the USA. Hydrological Processes,28(21): 5382-5422.   \nLeenJB,Berman E SF,LiebsonL,etal.20l2.Spectral contaminant identifier foroff-axis integrated cavityoutput spectroscopy measurements of liquid water isotopes.Review of Scientific Instruments:83(4):044305,doi:10.1063/ 1.4704843.   \nLi C,Guo JH,ZengF,etal.2015.Shootandroot architectural varianceandadaptabilityof Tamarix ramosissimaindifferent ages. Journal of Desert Research,35(2):365-372.(in Chinese)   \nLi Y, Ma Y, Song X, et al. 2021. A $\\delta ^ { 2 } \\mathrm { H }$ offset correction method for quantifying root water uptake of riparian trees.Journal of Hydrology,593:125811,doi: 10.1016/j.jhydrol.2020.125811.   \nLin G,SternbergLda SL.1993.Hydrogen isotopicfractionationbyplant rots during wateruptakeincoastal wetland plants In: Harold A M. Stable Isotopes and Plant Carbon-water Relations.California: Academic Press,497-510.   \nMartin-GómezP,SerranoL,FerrioJP.0l7.Short-termdynamicsof evaporative enrichmentof xylem waterinwoodystems: Implications for ecohydrology. Tree Physiology,37(4): 511-522.   \nMoreno-GutierrezC,DawsonTE,NicolasE,etal.20l2.Isotopesrevealcontrasting waterusestrategiesamongcoexisting plant species in a mediterranean ecosystem. New Phytologist,196(2): 489-496.   \nNieYP,Chen HS,WangKL,etal.20l1.Seasonal waterusepaternsof woody species growingonthecontinuous dolostone outcrops and nearby thin soils in subtropical China.Plant and Soil,341(1-2): 399-412.   \nOerterEJ,Siebert G,Bowling DR,et al.2O19.Soil water vapour isotopes identify missing water sourceforstreamside trees. Ecohydrology,12(4): e2083,doi: 10.1002/eco.2083.   \nOgleK,Reynolds JF.2O04.Plantresponses to precipitation in desert ecosystems: Integrating functional types，pulses, thresholds,and delays. Oecologia,141(2): 282-294.   \nPorporatoA,DalyE,Rodriguez-IturbeI.2O04.Soil water balanceand ecosystemresponse toclimatechange.The American Naturalist,164(5): 625.   \nRossatto DR,de Carvalho Ramos SilvaL, Vilalobos-VegaR,etal.2O12.Depth of wateruptake in woody plants relates to groundwater level and vegetation structure along a topographic gradient inaneotropical savanna.Environmental and Experimental Botany,77: 259-266.   \nRothfuss Y,Javaux M. 2017.Reviews and syntheses: Isotopic approaches to quantify root water uptake: A review and comparison of methods.Biogeosciences,14(8): 2199-2224.   \nSchenk HJ.20o8.Soil depth,plant rooting strategies and species'niches.NewPhytologist,178(2): 223-225.   \nSchultz N M, Grifis TJ,Lee X,et al. 2011. Identification and correction of spectral contamination in ${ } ^ { 2 } \\mathrm { H } / { } ^ { 1 } \\mathrm { H }$ and $^ { 1 8 } \\mathrm { O } / ^ { 1 6 } \\mathrm { O }$ measured in leaf,stem,and soil water.Rapid Communications in Mass Spectrometry,25(21): 3360-3368.   \nSprengerM,LeistertH,GimbelK,etal.l6.Iluminatinghdrologicalprocessesatthesoil-vgetation-atmosphereinterface with water stable isotopes.Reviews of Geophysics,54(3):674-704.   \nSprengerM,TetzlaffD,SoulsbyC.2Ol7.Soil waterstable isotopesrevealevaporationdynamicsatthesoil-plant-atmosphere interface of the critical zone.Hydrology and Earth System Sciences,21(7): 3839-3856.   \nStock BC,SemmensBX.2013.MixSIARGUIUserManual.Version3.1,1-42.[2021-10-11].htps://doi.org/10.528l/zenodo. 47719.1.   \nSu PY,Zhang MJ,QuDY,et al.220.Contrasting wateruse strategiesof Tamarixramosissima indiferent habitats in the northwest of loess plateau, China.Water,12(1O): 2791.   \nSun SJ,Meng P,ZhangJS,etal.2Ol.Variation insoil wateruptakeand itsefectonplant water status inJuglans regiaL. during dry and wet seasons. Tree Physiology,31(12):1378-1389.   \nVargasAI,Schaffer B,LiYH,etal.2O17.Testing plantuseof mobilevs immobile soil watersources using stable isotope experiments.New Phytologist,215(2): 582-594.   \nWang J,FuBJ,LuN,etal.2O17.Seasonal variationinwateruptakepatersofthreeplantspeciesasedonstableisotopesin the semi-arid Loess Plateau. Science of the Total Environment,6O9:27-37.   \nWang J,LuN,FuBJ.2O19.Inter-comparisonofstableisotopemixing models fordeterminingplantwatersourcepartitioing. Science of the Total Environment,666: 685-693.   \nWilliamsDG,EhleringerJR.2.Intra-and inter-specific variation forsummer precipitationuseinpinyon-juniper woodlands. Ecological Monographs,70(4): 517-537.   \nWuL,Su S,Wang H.2O06.Preliminary investigation intoplantand vegetationtypes inaforestationregion insoutherand northern mountains of Lanzhou City. Journal of Desert Research,26(4): 564-568.(in Chinese)   \nYang B,Wen X,Sun X.2O15.Seasonal variations in depth of wateruptakefora subtropical coniferous plantationsubjected to drought in an East Asian monsoon region. Agricultural and Forest Meteorology,2O1: 218-228.   \nYangL,WeiW,ChenL,etal.2014.Responseof temporal variationof soilmoisturetovegetationrestorationinsemi-arid LoessPlateau,China.CATENA,115:123-133.   \nYaoJ,ChenY,ZhaoY,tal.2O20.ClimaticandassociatedatmosphericwatercyclechangesovertheXinjiang,China.Joual of Hydrology,585:124823,doi: 10.1016/j.jhydrol.2020.124823.   \nZhang Q,YangJ,Wang W,etal.2O21.Climatic warmingand humidificationin thearidregionofNorthwest China: multi-scale characteristics and impacts on ecological vegetation.Journal of Meteorological Research,35(1):113-127.   \nZhang Y,Zhang MJ,QuDY,etal.2O2o.Wateruse strategiesof dominant species (Caragana korshinskiiandReaumuria soongorica) in natural shrubs based on stable isotopes in the Loess Hill,China.Water,l2(7):1923.   \nZhou H,Zhao W,He Z.2O17.Water sourcesof Nitrariasibiricaandresponse to precipitation in two desert habitats.Chinese Journal of Applied Ecology,28(7): 2083-2092.(in Chinese) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/93e1e9402bf91665e4f26d68e4de14746279006f202309650989aefae7683900.jpg",
+        "table_caption": [
+            "Table S1Isotopic composition of different types of water body "
+        ],
+        "table_footnote": [
+            "Note:\\* represent annual weighted mean precipitation.Min,minimum; Max,maximum. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">Sample</td><td colspan=\"3\">82H (%o)</td><td colspan=\"3\">8180 (%0)</td></tr><tr><td>Min</td><td>Max</td><td>Mean</td><td>Min</td><td>Max</td><td>Mean</td></tr><tr><td colspan=\"2\">Precipitation</td><td>-126.82</td><td>-28.73</td><td>-49.91*</td><td>-18.06</td><td>1.58</td><td>-8.21*</td></tr><tr><td rowspan=\"6\">Soil water</td><td>Juvenile C.korshinskii</td><td>-82.43</td><td>-24.28</td><td>-50.48</td><td>-12.88</td><td>5.07</td><td>-4.69</td></tr><tr><td>Intermediate C.korshinskii</td><td>-86.68</td><td>-6.93</td><td>-48.77</td><td>-13.34</td><td>7.76</td><td>-5.27</td></tr><tr><td>AdultC.korshinskii</td><td>-87.52</td><td>-22.63</td><td>-56.60</td><td>-14.53</td><td>4.18</td><td>-7.01</td></tr><tr><td>Juvenile T. ramosissima</td><td>-80.11</td><td>0.63</td><td>-46.60</td><td>-12.26</td><td>10.34</td><td>-4.27</td></tr><tr><td>Intermediate T.ramosissima</td><td>-76.72</td><td>-10.00</td><td>-43.73</td><td>-11.96</td><td>12.45</td><td>-1.06</td></tr><tr><td>Adult T.ramosissima</td><td>-80.36</td><td>-9.70</td><td>-39.03</td><td>-12.35</td><td>9.85</td><td>-0.38</td></tr><tr><td rowspan=\"6\">Plant xylem water</td><td>JuvenileC.korshinskii</td><td>-71.40</td><td>-27.33</td><td>-47.89</td><td>-8.64</td><td>0.22</td><td>-3.83</td></tr><tr><td>Intermediate C.korshinskii</td><td>-63.97</td><td>-27.04</td><td>-45.48</td><td>-7.67</td><td>-2.34</td><td>-4.55</td></tr><tr><td>AdultC.korshinskii</td><td>-58.48</td><td>-33.58</td><td>-47.17</td><td>-7.30</td><td>-2.44</td><td>-5.27</td></tr><tr><td>Juvenile T.ramosissima</td><td>-69.87</td><td>-49.46</td><td>-62.16</td><td>-9.80</td><td>-6.00</td><td>-7.64</td></tr><tr><td>Intermediate T.ramosissima</td><td>-70.12</td><td>-48.69</td><td>-57.84</td><td>-9.83</td><td>-4.94</td><td>-6.81</td></tr><tr><td>Adult T.ramosissima</td><td>-70.25</td><td>-19.40</td><td>-56.61</td><td>-9.78</td><td>1.50</td><td>6.60</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/56196be0b003ee853daf6fe6731d30b3467fb3ad1db15914c6cb36bcb343732c.jpg",
+        "table_caption": [
+            "Table S2Contributions of three modes of data input to the MixSIAR model "
+        ],
+        "table_footnote": [
+            "Note:SD,standard deviation. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Input data mode</td><td colspan=\"8\">Contributions (%)</td></tr><tr><td colspan=\"2\">0-10 cm</td><td colspan=\"2\">10-40 cm</td><td colspan=\"2\">40-100 cm</td><td colspan=\"2\">100-200 cm</td></tr><tr><td>Mean</td><td>SD</td><td>Mean</td><td>SD</td><td>Mean</td><td>SD</td><td>Mean</td><td>SD</td></tr><tr><td>8²H and 818O</td><td>29.67</td><td>12.71</td><td>22.72</td><td>14.33</td><td>22.22</td><td>12.12</td><td>25.38</td><td>14.76</td></tr><tr><td>8²H_c1 and 8180</td><td>28.80</td><td>12.01</td><td>20.78</td><td>15.04</td><td>23.11</td><td>12.47</td><td>27.31</td><td>14.34</td></tr><tr><td>8²H_c2 and 8180</td><td>26.80</td><td>12.07</td><td>25.31</td><td>14.67</td><td>20.65</td><td>11.7</td><td>27.23</td><td>15.00</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/d8ece244564a2531e0cf720805c19868cdf37102767538cb54bdfd532f8686d6.jpg",
+        "table_caption": [
+            "Table S3Contribution of the O-4O cm soil water for C.korshinskii at different ages after rainfall "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Plant</td><td rowspan=\"2\">Date</td><td colspan=\"3\">Contribution of the O-40 cm soil water (%)</td></tr><tr><td>δ²H and δ18O</td><td>δ²H_c1 and δ180</td><td>8²H_c2 and δ180</td></tr><tr><td rowspan=\"3\">JuvenileC.korshinskii</td><td>19 Jul (1 d after rainfall)</td><td>79.8</td><td>49.6</td><td>86.0</td></tr><tr><td>21Jul (3 d after rainfall)</td><td>51.6</td><td>46.4</td><td>47.8</td></tr><tr><td>23 Jul (5 d after rainfall)</td><td>54.5</td><td>50.0</td><td>43.3</td></tr><tr><td rowspan=\"3\">IntermediateC.korshinskii</td><td>19 Jul (1 dafter rainfall)</td><td>83.7</td><td>83.4</td><td>86.8</td></tr><tr><td>21 Jul (3 dafter rainfall)</td><td>71.3</td><td>45.2</td><td>91.6</td></tr><tr><td>23 Jul (5 d after rainfall)</td><td>54.2</td><td>48.2</td><td>62.9</td></tr><tr><td rowspan=\"3\">Adult C.korshinskii</td><td>19 Jul (1 d after rainfall)</td><td>53.8</td><td>23.7</td><td>87.9</td></tr><tr><td>21Jul (3 d after rainfall)</td><td>32.0</td><td>33.9</td><td>23.2</td></tr><tr><td>23Jul (5 dafter rainfall)</td><td>58.1</td><td>60.0</td><td>50.1</td></tr><tr><td rowspan=\"3\">JuvenileC.korshinskii</td><td>24 Aug (1 d after rainfall)</td><td>11.1</td><td>10.8</td><td>8.2</td></tr><tr><td>26 Aug (3 d after rainfall)</td><td>93.6</td><td>91.0</td><td>86.8</td></tr><tr><td>28Aug (5dafter rainfall)</td><td>94.0</td><td>93.6</td><td>89.5</td></tr><tr><td rowspan=\"3\">IntermediateC.korshinskii</td><td>24 Aug (1 d after rainfall)</td><td>61.6</td><td>61.1</td><td>85.2</td></tr><tr><td>26 Aug(3d after rainfall)</td><td>78.8</td><td>52.4</td><td>54.4</td></tr><tr><td>28 Aug(5 d after rainfall)</td><td>87.6</td><td>81.9</td><td>72.6</td></tr><tr><td rowspan=\"3\">Adult C.korshinskii</td><td>24 Aug (l d after rainfall)</td><td>55.8</td><td>49.1</td><td>54.2</td></tr><tr><td>26 Aug (3 d after rainfall)</td><td>22.9</td><td>21.8</td><td>17.7</td></tr><tr><td>28 Aug (5 d after rainfall)</td><td>31.6</td><td>30.4</td><td>19.5</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ae2f7fa97c3b0a01ea24473ae30e829d3002a9209045aa96f2506b283d6946f.jpg",
+        "table_caption": [
+            "Table S4Contribution of the $0 { \\ - } 4 0 ~ \\mathrm { c m }$ soil water for $T .$ ramosissim atdifferent ages afterrainfall "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Plant</td><td rowspan=\"2\">Date</td><td colspan=\"3\">Contribution of the O-4O cm soil water(%)</td></tr><tr><td>8²H and 8180</td><td>δ²H_c1 and δ180</td><td>8²H_c2 and 8180</td></tr><tr><td rowspan=\"3\">Juvenile T.ramosissim</td><td>19 Jul (1dafter rainfall)</td><td>77.6</td><td>58.9</td><td>54.0</td></tr><tr><td>21 Jul (3 d after rainfall)</td><td>21.2</td><td>27.3</td><td>7.8</td></tr><tr><td>23 Jul (5 d after rainfall)</td><td>21.0</td><td>17.5</td><td>34.4</td></tr><tr><td rowspan=\"3\">Intermediate T.ramosissim</td><td>19 Jul (1d after rainfall)</td><td>95.3</td><td>93.6</td><td>2.9</td></tr><tr><td>21Jul (3 d after rainfall)</td><td>53.8</td><td>72.1</td><td>35.0</td></tr><tr><td>23Jul (5 d after rainfall)</td><td>46.6</td><td>42.9</td><td>24.6</td></tr><tr><td rowspan=\"3\">Adult T.ramosissim</td><td>19 Jul (1d after rainfall)</td><td>90.1</td><td>89.0</td><td>89.0</td></tr><tr><td>21Jul (3d after rainfall)</td><td>99.1</td><td>99.0</td><td>99.0</td></tr><tr><td>23 Jul (5 d after rainfall)</td><td>27.7</td><td>22.3</td><td>35.9</td></tr><tr><td rowspan=\"3\">Juvenile T.ramosissim</td><td>24 Aug (1 d after rainfall)</td><td>55.3</td><td>47.3</td><td>45.6</td></tr><tr><td>26 Aug (3 d after rainfall)</td><td>97.1</td><td>94.7</td><td>94.1</td></tr><tr><td>28 Aug (5 d after rainfall)</td><td>66.4</td><td>99.6</td><td>99.4</td></tr><tr><td rowspan=\"3\">Intermediate T.ramosissim</td><td>24Aug (1 d after rainfall)</td><td>60.9</td><td>67.5</td><td>43.5</td></tr><tr><td>26 Aug (3 d after rainfall)</td><td>35.8</td><td>39.7</td><td>65.3</td></tr><tr><td>28 Aug (5 d after rainfall)</td><td>82.3</td><td>81.2</td><td>79.7</td></tr><tr><td rowspan=\"3\">Adult T.ramosissim</td><td>24 Aug (1d after rainfall)</td><td>79.1</td><td>74.1</td><td>73.2</td></tr><tr><td>26 Aug (3d after rainfall)</td><td>93.7</td><td>93.1</td><td>91.5</td></tr><tr><td>28 Aug (5 d after rainfall)</td><td>8.4</td><td>12.0</td><td>12.1</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab05caa4baaa3e17877ac25bdd6e869111c099facb84b3aca07424cb02e437a4.jpg",
+        "table_caption": [
+            "Table S5Correlation between contribution calculated by $\\delta ^ { 2 } \\mathrm { H } _ { - } \\mathrm { c } _ { } 2$ and $\\delta ^ { 1 8 } \\mathrm { O }$ input into the MixSIAR model and cumulative rainfall amount of 7 d before sampling "
+        ],
+        "table_footnote": [
+            "Note: VPD,vapour pressure deficit; SWC,soil water content;\\*, $P { < } 0 . 0 5$ level;\\*\\*, $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Plant</td><td>Depth (cm)</td><td>Rainfall (7d amount)</td><td>VPD (7d mean)</td><td>0-10 cm SWC</td><td>10-40 cm SWC</td><td>40-100 cm SWC</td><td>100-200 cm SWC</td></tr><tr><td rowspan=\"4\">Juvenile C. korshinskii</td><td>0-10</td><td>-0.365</td><td>0.174</td><td>-0.375</td><td>0.177</td><td>-0.039</td><td>-0.014</td></tr><tr><td>10-40</td><td>-0.118</td><td>-0.072</td><td>-0.095</td><td>-0.686*</td><td>-0.488</td><td>-0.416</td></tr><tr><td>40-100</td><td>-0.081</td><td>0.008</td><td>-0.345</td><td>-0.615</td><td>-0.412</td><td>-0.382</td></tr><tr><td>100-200</td><td>0.639</td><td>-0.211</td><td>0.826**</td><td>0.579</td><td>0.626</td><td>0.530</td></tr><tr><td rowspan=\"4\">Intermediate C.korshinskii</td><td>0-10</td><td>0.332</td><td>-0.602</td><td>-0.244</td><td>-0.342</td><td>-0.387</td><td>-0.335</td></tr><tr><td>10-40</td><td>-0.234</td><td>0.210</td><td>0.795**</td><td>0.659*</td><td>-0.618</td><td>0.587</td></tr><tr><td>40-100</td><td>-0.242</td><td>0.398</td><td>-0.067</td><td>0.066</td><td>-0.068</td><td>-0.007</td></tr><tr><td>100-200</td><td>-0.032</td><td>0.351</td><td>-0.636*</td><td>-0.405</td><td>-0.217</td><td>-0.284</td></tr><tr><td rowspan=\"4\">Adult C.korshinskii</td><td>0-10</td><td>0.019</td><td>-0.198</td><td>-0.090</td><td>0.035</td><td>0.228</td><td>0.333</td></tr><tr><td>10-40</td><td>-0.286</td><td>-0.106</td><td>-0.284</td><td>-0.148</td><td>0.039</td><td>-0.140</td></tr><tr><td>40-100</td><td>-0.169</td><td>0.258</td><td>0.460</td><td>0.316</td><td>-0.013</td><td>-0.345</td></tr><tr><td>100-200</td><td>0.255</td><td>-0.046</td><td>-0.213</td><td>-0.250</td><td>-0.197</td><td>0.113</td></tr><tr><td rowspan=\"4\">Juvenile T.ramosissim</td><td>0-10</td><td>0.183</td><td>0.251</td><td>0.405</td><td>0.414</td><td>0.231</td><td>0.161</td></tr><tr><td>10-40</td><td>0.153</td><td>-0.610</td><td>-0.046</td><td>-0.078</td><td>-0.316</td><td>-0.412</td></tr><tr><td>40-100</td><td>0.475</td><td>-0.047</td><td>-0.410</td><td>-0.427</td><td>-0.357</td><td>-0.174</td></tr><tr><td>100-200</td><td>-0.688*</td><td>0.199</td><td>0.008</td><td>0.034</td><td>0.294</td><td>0.263</td></tr><tr><td rowspan=\"4\">Intermediate T.ramosissim</td><td>0-10</td><td>0.117</td><td>0.288</td><td>-0.027</td><td>0.343</td><td>0.669*</td><td>0.718*</td></tr><tr><td>10-40</td><td>0.598</td><td>-0.440</td><td>0.049</td><td>-0.306</td><td>-0.588</td><td>-0.580</td></tr><tr><td>40-100</td><td>-0.876**</td><td>-0.250</td><td>0.688*</td><td>0.685*</td><td>0.156</td><td>0.174</td></tr><tr><td>100-200</td><td>-0.083</td><td>0.246</td><td>-0.370</td><td>-0.421</td><td>-0.214</td><td>-0.298</td></tr><tr><td rowspan=\"4\">Adult T.ramosissim</td><td>0-10</td><td>0.110</td><td>0.799*</td><td>0.579</td><td>0.454</td><td>0.383</td><td>0.366</td></tr><tr><td>10-40</td><td>-0.712*</td><td>-0.263</td><td>0.339</td><td>0.321</td><td>0.255</td><td>0.514</td></tr><tr><td>40-100</td><td>0.626</td><td>-0.603</td><td>-0.589</td><td>-0.500</td><td>-0.349</td><td>-0.584</td></tr><tr><td>100-200</td><td>-0.773</td><td>-0.295</td><td>-0.109</td><td>-0.046</td><td>-0.151</td><td>0.151</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ebf913e007426b2d5c84886b8587f949642c7671f86c29b818c85896aa9232c.jpg",
+        "img_caption": [
+            "Fig.S1 Variation of monthly precipitation weighted $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ .No precipitation data in February,March, April,andNovember. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/fba803067843ccaea0aef20e30647a71e263861dc9a6bdf4d694cd3e7b279480.jpg",
+        "img_caption": [
+            "Fig. S2Variation of soil water $\\delta ^ { 2 } \\mathrm { H }$ in juvenile C. korshinskii (al-a3),intermediate C. korshinskii (b1-b3),adult C.korshinskii (c1-c3),and juvenile $T .$ ramosissima (d1-d3),intermediate $T .$ ramosissima (el-e3),and adult $T .$ （20 ramosissima (f1-f3) "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/316980fbc4b2bf4f7dc1623ed7335908e1d8ff52a409026cf5a92d0f0dc6eb04.jpg",
+        "img_caption": [
+            "Fig. S3Variation of soil water $\\delta ^ { 1 8 } \\mathrm { O }$ in juvenile C. korshinskii (al-a3),intermediate C. korshinskii (b1-b3), adult C.korshinskii (c1-c3), juvenile T.ramosissima (d1-d3),intermediate T.ramosissma (el-e3),andadultT. ramosissima (f1-f3) ",
+            "Fig.S4Linear regression relationship between $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ in soil water after rainfall on 17-18 July and 23 August in juvenile,intermediate，and adult C. korshinskii (a-c)，and juvenile,intermediate，and adult $T .$ （20 ramosissima (d-f).LMWL is the local meteoric water line. "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "40 (a) Juvenile C.korshinskii 40 (b) Intermediate C.korshinskii 40 (c)Adult C.korshinskii 20 8²H=3.73818O-34.09 20 8²H=3.60810-26.69 20 82H=2.85810-34.05 0 0 0 -20 -20 -20   \n(%) -40 -40 -40   \nH9 -60 -60 -60 -80 -80 光 -80 -100 8²H=3.288O-37.61 -100 82H=3.148180-37.84 -100 8²H=3.65818O-34.44 -120 -120 -120 -140 -140 -140 40 (d) Juvenile T.ramosissima 40 (e) Intermediate T.ramosissima 40 (f)Adult T.ramosissima 20 82H=3.39818O-31.21 20 8²H=2.97810-40.95 20 8²H=2.8981O-35.91 0 0 0   \n(%) -200 -20 -20   \nH9 -60 -60 -60 -80 -80 -80 -100 8²H=3.69818O-31.55 -100 8²H=3.72818O-38.74 -100 8²H=3.37818O-38.15 -120 -120 -120 -140 -140 -140 -20 -15 -10 -5 0 5 -20 -15 -10 -5 0 5 -20 -15 -10 -5 0 5 8180 (%) 8180 (%0) 8180 (%) Rainfall O Rainfall on 23 August Rainfall on 17-18 July 1 Soil water after rainfall on 23 August Soil water after rainfall on 17-18 July LMWL Soil water line after rainfall on 17-18 July Soil water line after rainfall on 23 August ",
+        "page_idx": 19
+    }
+]

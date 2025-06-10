@@ -1,0 +1,321 @@
+# 粉葛PtCHI基因的克隆、原核表达和亚细胞定位
+
+羽健宾1,2，郭丽君1，张静1，肖冬1，何龙飞1，王爱勤1\*（1.广西大学农学院，南宁530004；2．华南农业大学生命科学学院，广州510642）
+
+摘要：为探究葛根品种间异黄酮类物质代谢关键酶基因PtCHI分子机制差异，以初步揭示其品种间异黄酮物质含量差异原因。该研究分别以野葛品种和粉葛品种“桂葛1号”为材料，经乙醇提取并通过高效液相对野葛和粉葛中葛根素和总黄酮的含量进行测定；基于已报道的野葛CHI基因，通过同源克隆方法分离粉葛中PtCHI基因，并在体外进行蛋白表达，同时在拟南芥原生质体中研究PtCHI基因的定位。结果表明：（1）野葛中的葛根素含量显著高于粉葛，且野葛的总黄酮含量也高于粉葛但不达显著水平；（2）成功分离粉葛PtCHI基因，长度为742 bp 且包含 672bp 完整的ORF 框，编码 223 个氨基酸，与野葛的CHI基因具有$9 9 \%$ 的同源性；（3）CHI基因在粉葛中的表达量为茎>根>叶子，野葛中则为根>茎>叶子;此外除了叶子，野葛中的CHI基因的表达量均显著高于粉葛；（4）预测为稳定的亲水性蛋白且大小为 $2 7 . 8 \mathrm { k D }$ ，二、三级结构以 $\mathfrak { a }$ -螺旋为主，具有25个磷酸化位点，与野葛、大豆和乌拉尔甘草的亲缘关系较近，和F3H2、F3H、4CL4、DFR2及CHS 发生互作的可能性较大；（5）在体外成功诱导并分离到 $2 7 . 8 \mathrm { k D }$ 的PtCHI单一蛋白；（6）通过拟南芥原生质体进一步揭示PtCHI主要定位在叶绿体。该研究为进一步解析粉葛和野葛中的黄酮类物质含量差异的问题，以及PtCHI的功能验证和异黄酮代谢途径机理研究奠定基础。
+
+关键词：粉葛，PtCHI，克隆，原核表达，亚细胞定位中图分类号：Q943 文献标识码：A 文章编号：
+
+# Cloning, Prokaryotic Expression and Subcellular Localization of PtCHI Gene from Pueraria thomsonii
+
+YU Jianbin1,2, GUO Lijun1, ZHANG Jing1, XIAO Dong1, HE Longfei1, WANG Aiqin1 \* (1. College of Agriculture, Guangxi University, Nanning 530004, China; 2. College ofLife Sciences, South China Agricultural University, Guangzhou 510642, China)
+
+基金项目：国家自然科学基金（81860670）；国家现代农业产业技术体系-广西薯类创新团队首席专家项目(nycytxgxcxtd-11-01）[Supported by National Natural Science Foundation of China(81860670); Chief ExpertofYam Innovation Team in Guangxi; National Modern Agricultural Industry Technology System of China(nycytxgxcxtd-11-01)]。  
+第一作者：羽健宾(1993-)，博士研究生，研究方向为药用植物次级代谢产物调控研究，（E-mail)ybb1129@126.com。  
+\*通信作者：王爱勤，博士，教授，研究方向为主要从事药用植物的栽培与调控研究，（E-mail）waiqing1966@126.com。
+
+Abstract: In order to explore the difference in the molecular mechanism of the variety Puerarial between isoflavones metabolic enzyme genes PtCHI, to preliminarily reveal the diference content of the isoflavones. The material of this study is Pueraria montana and Pueraria thomsonii. Puerarin and total flavonoids of Pueraria montana and Pueraria thomsonii were extracted by ethanol, and their content was measured by high-performance liquid phase. Based on the CDS sequence of the CHI gene of Pueraria montana, the PtCHI gene from Pueraria thomsonii was isolated by homologous cloning,and the protein was expressed in vitro.At the same time, the location of the PtCHI gene was studied in Arabidopsis protoplasts. The results were as follows: (1)The content of puerarin in Pueraria montana is significantly higher than the Pueraria thomsonii,and the content of total flavonoid was also,but not significant. (2)Successfully isolated the gene PtCHI from Pueraria thomsonii. The gene was 742 bp in length, contains a complete ORF frame of 672 bp,encodes 223 amino acids,and has up to $9 9 \%$ homology with Pueraria montana; it was predicted to be a stable hydrophobic protein with a size of $2 7 . 8 \mathrm { k D }$ . (3)This study found that the expression of CHI gene in Pueraria thomsonii was stem $>$ root> leaves,Pueraria thomsonii was root> stem> leaves. The expression of CHl genes from Pueraria thomsonii was significantly higher than Pueraria thomsonii besides in leaves; (4) Through the online tool prediction analysis,PtCHI was found to be stable hydrophilic protein and the size was $2 7 . 8 \mathrm { k D }$ The secondary and tertiary structures were based on $\mathfrak { a }$ -Helix-based,with 25 phosphorylation sites, closely related Pueraria montana, Glycine max and Glycyrrhiza uralensis, and were more likely to interact with F3H2,F3H, 4CL4,DFR2 and CHS.(5)At the same time,the protein of PtCHI was successfully induced and isolated in vitro,with a single protein of $2 7 . 8 ~ \mathrm { k D }$ ，respectively. (6) Through the Arabidopsis protoplasts revealed that PtCHI was only located in the chloroplasts. This study is in further analyzing the difference in flavonoids in Pueraria montana and Pueraria thomsonii, as well as laying the foundation for the functional verification of Pueraria thomsonii PtCHI and the research on the mechanism of isoflavone metabolism.
+
+Keywords: Pueraria thomsoni, PtCHI, cloning, prokaryotic expression, subcellular localization
+
+粉葛(Pueraria thomsonii)为豆科蝶形花亚科葛属藤本植物甘葛藤的干燥根，茎基部木质且具有肥厚的块状茎，在我国广泛分布（中国植物志，1995）。其主要活性成分包括异黄酮类化合物葛根素、大豆苷元、染料木素及异甘草素等，以及皂苷类物质皂角精醇、槐二醇和大豆苷醇等（楚纪明等，2015）。另外粉葛中还富含维生素C、蛋白质、还原糖、淀粉和膳食纤维等营养成分（李桂花等，2021）。粉葛作为“药食同源”作物，因其淀粉含量高，常被加工成葛根粉、葛根薯片、葛根糕、葛根酒等系列商品，同时前人研究也表明粉葛具有解热、抗病毒、降血糖血脂血压、保肝护肝、抗肿瘤、改善肾功能等作用（尚小红等，2021;于钦辉等，2021）。
+
+查尔酮异构酶（chaleone isomerase,CHI）是异黄酮代谢途径中的一个关键酶，其酶活与植物体内黄酮的积累有着重要作用，从而对植物的抗逆、花色等存在关联（李琳玲等，2008;周发俊等，2008）。CHI是个超基因家族，现主要分为 TypeI类、TypeII类和 Type III类三个类型，大部分植物的CHI基因属于TypeI类型，TypeII型一般只存在于豆科植物且该类型是由 TypeI演化而来,Type II类主要为真菌和细菌中的类CHI蛋白家族(张党权等,2007;梁瓴婕，2016）。目前CHI基因已在多种植物中成功分离并做功能验证。梁瓴婕（2016)
+
+在体外成功分离香雪兰的 FhCHI1、FhCHI2、FhCHI3、FhCHI4、FhCHI5 蛋白，并通过酶活检测得出FhCHI2和FhCHI5具有活性，能催化柚皮素查尔酮形成柚皮素，而FhCHI3、FhCHI4则没有活性；同时在拟南芥中异源表达FhCHI1、FhCHI2、FhCHI5，发现能恢复CHI突变体拟南芥的花色苷和黄酮醇代谢，并且能使植株幼苗的生长点恢复为紫色，也使种皮颜色变回棕色；而FhCHI3、FhCHI4 则不能恢复突变体的表型及花色苷、黄酮醇代谢。郭晋雅（2011）将紫心甘薯 IbCHI基因转化至拟南芥突变体中，结果表明甘薯 IbCHI基因能使突变体拟南芥（t5）种皮颜色由浅黄色恢复到野生型的深粽褐色；强光处理下突变体植株的叶片荧光参数Fv/Fm 和 Yield 迅速降低，而转 IbCHI的植株和CK变化较慢，表明 IbCHI能使突变体恢复至与CK一样的抵抗强光的效果；干旱处理后突变体植株萎蔫，而转IbCHI的植株和CK 植株的枯萎程度较低。何则铭（2011）研究表明，在 NaCl（150 mmol·L-1）处理下，过表达GmCHI4A和GmCHI4B 的大豆发状根耐盐性高于对照，并且转基因株系中的GmSODI和GmSOS1表达量以及发状根中的异黄酮含量显著高于对照。通过对前人的研究发现，CHI基因在细胞中的定位是多样化的，而且同为CHI基因在不同物种中的定位存在差异。郭丹丹（2019）研究表明，红花CtCHI1基因定位于细胞核。李红艳（2019）发现丹参SmCHI基因不仅定位在烟草表皮细胞的高尔基体、质膜和细胞核上，而且在内质网、过氧化物酶体和质体上也检测到荧光。
+
+本研究以前期在野葛和粉葛中葛根素及总黄酮的含量存在显著差异为研究区域，根据前人在其他物种中发现查尔酮异构酶是黄酮代谢途径中的关键酶，在黄酮类化合物合成中起到重要作用。依托 Yoshiya Terai 等 (1996)在野葛(Pueraria montana)中成功克隆到一个长 756bp 的 CHI基因，该基因包含长675bp 的ORF框，编码 225个氨基酸，蛋白大小23 803 Da。本研究将通过同源克隆的方法、用IPTG 体外诱导和分离蛋白，同时通过拟南芥原生质体。拟探讨以下问题：（1）CHI基因在粉葛和野葛中是否存在差异？（2）CHI基因在野葛和粉葛中的表达量情况如何？（3）CHI基因在细胞中的定位在哪？本研究结果将为野葛与粉葛中葛根素含量和总黄酮含量差异的探讨提供信息，同时也为进一步解析PtCHI基因在粉葛中调控黄酮类化合物积累的机制研究奠定基础。
+
+# 1材料与方法
+
+# 1.1 材料
+
+供试材料选用本课题选育的食用型粉葛(Pueraria thomsoni Benth.)品种"桂葛1号”，种植于广西大学农学院植物标本园内。
+
+# 1.2粉葛与野葛的葛根素和总黄酮含量检测
+
+称取葛根粉样品 $0 . 1 \ \mathrm { g }$ 于盛有 $5 0 ~ \mathrm { m L }$ 乙醇（ $30 \%$ ）的锥形瓶中，保鲜膜封口并称重后250  
+W超声 $3 0 \mathrm { m i n }$ ，待室温冷却后再称重，用 $30 \%$ 乙醇补足失重，过滤后吸取 $5 \mathrm { m L }$ 滤液于25
+
+mL容量瓶且用 $30 \%$ 乙醇定容，即为 $2 0 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m L } ^ { - 1 }$ 的葛根素提取液。流动相为甲醇： $0 . 1 \%$ 醋酸水 $_ { . = 3 0 : 7 0 }$ ，流速为 $1 . 0 \mathrm { m L } \cdot \mathrm { m i n } ^ { - 1 }$ ，检测波长 $2 5 0 \mathrm { n m }$ 。
+
+葛根总黄酮的提取和检测均参照李增富和吴荣锋(2008）的方法测定。
+
+# 1.3粉葛PtCHI基因的克隆和表达量检测
+
+提取"桂葛1号"的总RNA,并获得cDNA,用表1中引物 PtCHI-F 和PtCHI-R 进行 PCR扩增，纯化后连接到pMD-19T载体，转入DH5α 感受态细胞，挑选菌液扩增后有特异条带的菌液送往生物公司测序，在DNAMAN中完成序列比对，完成克隆。用表1中引物PtCHI-DLF 和PtCHI-DLR对CHI基因在野葛和粉葛中做表达量检测。
+
+# 1.4粉葛PtCHI基因的生物信息学分析
+
+利用在线工具NCBI中的ORFFinder 找到基因的开放阅读框；使用 ProtParam 在线预测蛋白的理化性质；利用在线工具 SOPMA、SWISS-MODEL及WoLF PSORT分别进行蛋白二级、三级结构预测和亚细胞定位的预测；NetPhos 3.1 Server 在线预测磷酸化位点；利用STRING 软件，以大豆蛋白数据库分析蛋白之间的互作关系；随后利用软件(MEGA7.0)构建系统进化树。
+
+# 1.5原核表达及westernblot验证
+
+用表1中的引物PtCHI-YHF、PtCHI-YHR 将克隆完成的目的基因的ORF 框纯化后与线性化载体 pet-28a 相连得到重组子pet28a-PtCHI。用 IPTG 诱导后，经 SDS-PAGE 电泳分析为可溶性表达的蛋白，根据亲和层析原理，使用Protein Ni-NTAResin 进行镍柱纯化。对纯化后的蛋白进行wester blot验证，使用的一抗为抗His 标签鼠单克隆抗体，二抗为山羊抗小鼠IgG（ $_ \mathrm { H + L }$ ）。
+
+# 1.6亚细胞定位
+
+用表1中的引物PtCHI-YXBF 和PtCHI-YXBR将克隆完成的目的基因的ORF框纯化后与线性化载体pSAT6-EYFP-N1相连得到pSAT6-EYFP-N1-PtCHI重组质粒。选取苗龄在25 d的拟南芥幼嫩叶片，通过酶（ $2 5 \%$ Cellulase R10 和 $0 . 3 \%$ MecerozymeR10）消化已切成细条的拟南芥叶片约 $3 { \cdot } 4 \mathrm { h }$ ，经尼龙膜过滤后用洗涤液洗涤从而获取拟南芥原生质体；然后通过与原生质体和质粒总体积相等的 $20 \%$ PEG4000进行转化，转化结束后转移至96孔板中培养，待其培养结束即可制片，在共聚焦显微镜下采集图像。
+
+# 表1表达载体构建的特异引物
+
+Table 1Specific primers for expression vector construction   
+
+<html><body><table><tr><td>引物名称 Primer name</td><td>引物序列 Primer sequence</td></tr><tr><td>PtCHI-F</td><td>GATCGAAACCCTTAATTTCA</td></tr><tr><td>PtCHI-R</td><td>ATCACTTTCCCTCAACTCAG</td></tr><tr><td>PtCHI-DLF</td><td>CAGCAGCAGTAGCAACCATC</td></tr><tr><td>PtCHI-DLR</td><td>CGAGTGATGACACCGCTTTA</td></tr><tr><td>PtCHI-YHF</td><td>cagcaaatgggtcgcggatccATGGCGGCAGCAGCAGCA</td></tr><tr><td>PtCHI-YHR</td><td>gtggtggtggtggtgctcgagGACTATAATGCCGTGGCTCAATAC</td></tr><tr><td>PtCHI-YXBF</td><td>ggtccggactcagatctcgagCATGGCGGCAGCAGCAGCA</td></tr><tr><td>PtCHI-YXBR</td><td>gctcaccatcaggatcccgggGACTATAATGCCGTGGCTCAATAC</td></tr></table></body></html>
+
+# 2结果与分析
+
+# 2.1粉葛和野葛的葛根素和总黄酮含量测定
+
+由图1可看出，野葛中的葛根素含量显著高于粉葛（桂葛1号），是粉葛的3.5倍左右；并且野葛的总黄酮含量也高于粉葛，但差异不显著。
+
+\*\*表示在0.01水平上显著差异。
+
+\*\* ndicates significant diference at 0.01 level.
+
+![](images/15e1414b80972ece9a72807d43289348db8c2198b21cb009e76efd56126ebf09.jpg)  
+图1葛根素和总黄酮的含量  
+Fig.1 ContentofPuerarin and total flavonoids
+
+# 2.2粉葛PtCHI基因的克隆与表达量分析
+
+根据已报道的野葛CHI基因序列设计引物，以粉葛叶片cDNA为模板，克隆到PtCHI基因片段（图2）。该cDNA核苷酸序列长742bp，具有一个672bp完整的开放阅读框，启动子ATG位于55bp，终止子TGA位于726 bp，推导编码 223个氨基酸（图3）。经 NCBI网站blast比对，所克隆的片段与野葛的CHI基因编码的蛋白具有 $9 9 \%$ 的同源性。CHI基因表达量结果显示，CHI基因在野葛中的表达量为：根>茎>叶，而粉葛中则为茎 $>$ 根 $>$ 叶；另外除了叶片，野葛中CHI基因的表达量均显著高于粉葛（图4）。
+
+![](images/b18086593ec7e96891d2fae078dc4f386d11b4ae5f2ecfeb174d7fd2467701e9.jpg)  
+Fig.2PCR amplification ofPtCHI gene from Pueraria
+
+M.DL2 000 bp DNA Marker; 1.PtCHI 基因的 PCR 产物。
+
+M.DL2 000 DNA Marker;1.PCR product of PtCHI gene.
+
+图2葛根PtCHI基因的PCR扩增
+
+1 GATCGAAACCCTTAATTTCATTTGGGTGTTAATAATAGTAAAGAGTGTTTGAGA   
+55 ATGGCGGCAGCAGCAGTAGCAACCATCAGCGCTGTGCAGGTGGAGTTCCTTGAGTTCCCAGCGGTGGTTACT MA A A A V A T I S A V Q V E F L E FP A VVT 24   
+127 TCACCAGCCTCCGGCAGGACCTATTTCCTCGGCGGC ATTGACGATTGAGGGGAAGTTC S P A S G R T Y F L G G A G E R G L T I E G KF 48   
+199 ATAAAGTTCACAGGCATAGGAGTATACCTGGAGGATAAAGCGGTGTCATCACTCGCCGCTAAGTGGAAGGGT IK F T G I G V Y L E D K A V S S L A A K W KG 72   
+271 AAGCCTTCCGAGGAGCTGGTTGAGACCCTTGACTTCTACAGGGATAT TTCAGGGCCGTTTGAAAAGCTA KP S E E L V E T L D F Y R D 1 I S G P F E KL 96   
+343 ATTAGAG GAAGATTCTO GGTGATGGAAAACTGCGTGGCA I 武 K I F L S G V E Y S K K V M E N C V A 120   
+415 CACATG AAAAGTTTGCTGAAGCCTTCAAG HM K 5 V T Y D A E A A A 1 E K F A E A FK 144   
+487 AATGTGAA CAACO TGATGGAGTATTGGGGCTTAGTTTC N V N F Q P G A S V F Y R Q S P D G V L G L SF 168   
+559 TCTGAAGATGCAACAATACCAGACAATGAGGCTGCAGTGATAGAGAACAAGGCTGTGTCAGCGGCAGTGTTG s B D A T I P D N E A A V I E N K A V S A A V L 192   
+631 GAGACCATGATTGGCGAACACGCTGTTTCCCCTGACTTAAAACGCAGTTTGGCTTCACGATTGCCTGCTGTA E T M I G E H A V S P D L K R S L A S R L P A V 216   
+703 TTGAGCCACGGCATTATAGTCTGAGTTGAGGGAAAGTGAT L S H G I I V 寒 223
+
+![](images/a7a6da3d4e507e92a185d49f826ef39060f3b2c02475ccd43da472f24538cedf.jpg)  
+图3粉葛PtCHI基因的cDNA序列及推测的氨基酸序列  
+Fig.3cDNA sequence and deduced amino acid sequence ofPtCHI gene   
+图4CHI基因在不同部位的表达量Fig.4ExpressionofCHI genes in different parts
+
+不同部位不同小写字母表示差异达显著水平 $( P { < } 0 . 0 5$ ）。Different lowercase letters in different parts represent significant differences ( $\scriptstyle \sum 0 . 0 5 )$ ：
+
+# 2.2粉葛PtCHI蛋白生物信息学分析
+
+2.2.1PtCHI蛋白的理化性质及亚细胞定位预测
+
+理化性质预测结果表明，PtCHI蛋白由224个氨基酸组成，相对分子质量为 $2 7 . 8 \mathrm { k D }$ 理论等电点（PI）是5.34，不稳定指数是32.25，属于稳定蛋白，脂肪族指数为95.40。PtCHI蛋白中带负电荷残基占氨基酸总数的 $12 . 0 5 \%$ ，而带正电荷残基为 $9 . 8 2 \%$ ，推测该蛋白带负电。亚细胞定位预测结果显示，定位在细胞质的可能性达 $6 4 . 2 8 \%$ ，其次是叶绿体 $1 4 . 2 8 \%$ 而定位于细胞核、线粒体和高尔基体的几率是 $7 . 1 4 \%$ 。
+
+# 2.2.2PtCHI二级、三级结构预测
+
+通过 SOPMA线上工具对PtCHI 蛋白二级结构进行分析，预测结果显示该蛋白二级结构的形式及其所占比例分别是： $\mathfrak { a }$ -螺旋占比最高，其次是无规则卷曲和延伸链这两种二级结构，所占比例分别为 $4 8 . 6 6 \%$ 、 $2 4 . 1 1 \%$ 和 $1 7 . 4 1 \%$ ，而β-转角占比最低即 $9 . 8 2 \%$ （图5）。SWISS-MODEL 预测PtCHI蛋白三级结构，发现该蛋白的结构也是包括 $\mathfrak { a } \mathrm { . }$ 螺旋、延伸链、$\beta \cdot$ -转角和无规则卷曲，其中以 $\mathfrak { a }$ 螺旋居多，与二级结构预测结果相符（图6）。
+
+![](images/a25c93b3ee9ec7416df9aa7d395cfdccf36d55b0e44bf0f8cd52190beb26351f.jpg)  
+图5PtCHI蛋白的二级结构  
+Fig.5 Secondary structure prediction of PtCHI protein
+
+![](images/2388386e1986fd2496018fe5d24aa8984aaacb1f49f205841a4a96e94f6715a2.jpg)  
+图6PtCHI蛋白的三级结构预测
+
+# 2.2.3PtCHI磷酸化位点预测
+
+NetPhos 3.1 Server在线预测 PtCHI磷酸化位点，结果显示，该蛋白主要存在25个磷酸化位点，其中发生磷酸化可能性最大是位于107位的丝氨酸和169位的脯氨酸，得分分别是0.969 和0.964；其次是位于29位和203位的丝氨酸，得分为0.901和0.902；接着是第 26位的丝氨酸、44位的苏氨酸、101位的丝氨酸和112位的丝氨酸，得分分别为0.894、0.863、0.844、0.827（图7）。
+
+![](images/fb241d9c23daed4f9c4186183d8f602f5a0c40ac08b277313f143f8370137c59.jpg)  
+Fig.6PtCHI tertiary structure prediction   
+Netphos3.1a：序列磷酸化位点预测   
+图7PtCHI蛋白磷酸化位点预测  
+Fig.7Phosphorylation site prediction of PtCHI protein
+
+# 2.2.4PtCHI的遗传进化树分析
+
+通过 MEGA7.0 软件，构建PtCHI的氨基酸系统发育进化树，结果表明，11个物种被分为两大类，其中桂葛1号PtCHI和野葛（Pueraria montana）、大豆（Glycine max）、乌拉尔甘草（Glycyrrhiza uralensis）、刺毛黧豆（Mucuna pruriens）和密花豆（Spatholobussuberectus）为一组，而菜豆（Phaseolus vulgaris）、绿豆（Vigna radiata)和豇豆（V.unguiculata)为一组，鸡母珠（Abrus precatorius）和拟南芥（Arabidopsis thaliana）为一组。说明桂葛1号 PtCHI与野葛、大豆和乌拉尔甘草亲缘关系较近（图8）。
+
+：大豆 Glycine max(GmCHI) NP001235219.1100乌拉尔甘草 Glycyrrhiza uralensis(GuCHI) ABM66533.173：野葛Pueraria montana (PmCHI) BAA09795.14495 桂葛1号 P.thomsonii (PtCHI)33刺毛黧豆 Mucuna pruriens(MpCHI) RDY14729.1密花豆 Spatholobus suberectus(SsCHI) TKY50621.1菜豆Phaseolus vulgaris (PvCHI) XP007142690.166 绿豆Vigna radiata（VrCHI) NP001304223.176 豇豆V.unguiculata （VuCHI) XP027937539.1鸡母珠 Abrus precatorius (ApCHI) XP027366189.128 拟南芥 Arabidopsis thaliana (AtCHI) AAC69363.10.05
+
+图8PtCHI氨基酸序列系统进化树  
+Fig.8 Phylogenetic analysis of PtCHI amino acid sequence
+
+# 2.2.5PtCHI蛋白互作关系预测
+
+利用 STRING 在线工具，并以大豆蛋白库分析大豆CHI的互作关系，预测结果显示 CHI蛋白与黄烷酮3-羟化酶F3H2、F3H（属于铁/抗坏血酸依赖的氧化还原酶家族，与植物类黄酮化合物花青素和原花青素的积累相关）的互作分数较高，均为0.994；其次是CHI蛋白与对-香豆酰CoA连接酶 4CL4（属于ATP依赖的AMP 结合酶家族，与植物木质素合成密切相关），互作分数为0.980；CHI蛋白还与二氢黄酮醇还原酶DFR2（与花色苷积累相关）互作，互作分数为0.974；此外还与 SF3H1（属于细胞色素 P450 家族，与花青素积累相关）及查尔酮合成酶CHS8（属于查尔酮/二苯乙烯合成酶家族，与植物查尔酮类化合物积累、花色素形成及植物防御相关）发生互作，互作分数分布为0.956、0.952（图9）。
+
+![](images/e461afb1734a6ec65a73723c13b113cb4e23a478b905e0b16ae76daa39cc69ca.jpg)  
+图9PtCHI蛋白互作分析
+
+# 2.3原核表达分析
+
+# 2.3.1原核表达载体构建
+
+![](images/fb5662b9b6795a175b7e27499099dac9f5198b4b5fe3d1feb32e1432c61974b2.jpg)  
+Fig.9 PtCHI protein interaction analysis
+
+由图10A可知，在表1特异引物下，经PCR扩增后，分别获得了约669 bp的产物，与目的基因大小相符。将扩增产物与线性化的pet28a载体进行重组反应，并转化至 $\mathrm { D H } 5 \mathrm { a }$ 。提取质粒，分别用限制性内切酶 XhoI、SpeI酶切，结果如图10：B所示，分别在大小约5300bp 和 669bp 处各有一明亮条带。将测序正确的质粒转化至BL21感受态细胞，经PCR 再次验证，证明目的基因已成功连接至载体（10：C）。说明获得了含pet28a-PtCHI重组质粒的原核表达菌株。
+
+A.PtCHI基因PCR 扩增；1-5.扩增产物。B1：重组质粒 pet28a-PtCHI的双酶切产物；2.pet28a-PtCHI质粒提取。C.重组质粒 pet28a-PtCHI导入BL21中的PCR 检验结果1-3.扩增产物。M.DL2000 Marker。
+
+A.PCR amplification of PtCHI1-5.Amplification products.B1: Digestion of pet28a-PtCHI; 2.Plsmid DNA. C.PCR amplification of recombinant plasmid pet28a-PtCHI 1-3. Amplification products.M. DL2 000 Marker.
+
+Fig.10 Construction of prokaryotic expression vector pet28a-PtCHI
+
+# 2.3.2重组蛋白诱导表达
+
+将含有pet28a-PtCHI重组质粒的菌株，在 $0 . 5 \mathrm { m M }$ IPTG 条件下并置于 $1 6 ~ \mathrm { { ^ circ C } }$ 和 $3 0 \ \mathrm { ^ { \circ } C }$ 环境中培养，在 $3 0 \mathrm { k D }$ 处有特异蛋白条带出现，与目的蛋白大小相符，而无IPTG 诱导时无此特异性蛋白条带，表明 pet28a-PtCHI蛋白在BL21表达菌株中被成功诱导表达。其中，SDS-PAGE 检测结果表明，高温诱导下上清中存在较少的可溶性蛋白，表明低温能够促进该蛋白的可溶性表达（图11）。
+
+![](images/c2045e80727f18628683abbbfc5a813d4751c69ceb9649cd930c1a5cdc77ef72.jpg)  
+图10原核表达载体pet28a-PtCHI的构建   
+图11PtCHI原核表达蛋白的 SDS-PAGE电泳分析
+
+A. $1 6 ~ \mathrm { { ^ circ C } }$ ， $1 0 0 \mathrm { r p m }$ ， $0 . 5 \mathrm { m M }$ IPTG 诱导下的 PtCHI；B. $3 0 \ \mathrm { ^ { \circ } C }$ ， $1 0 0 \mathrm { r p m }$ ， $0 . 5 \mathrm { m M }$ IPTG 诱导下的PtCHI;M．Protein marker；1.未诱导的总蛋白；2.IPTG 诱导的总蛋白；3.IPTG 诱导的上清；4.IPTG 诱导的沉淀。
+
+A. Induction conditions are $1 6 ~ \mathrm { { ^ \circ C } }$ ， $1 0 0 \mathrm { r p m }$ $0 . 5 \mathrm { m M }$ IPTG of PtCHI; B. Induction conditions for $3 0 \ \mathrm { ^ { \circ } C }$ ， $1 0 0 \mathrm { r p m } .$ $0 . 5 \mathrm { m M }$ IPTG of PtCHI;M. Protein marker;1. Total uninduced protein; 2. Total protein induced by IPTG ; 3. IPTG-induced supernatant; 4. IPTG-induced precipitation.
+
+Fig.11 SDS-PAGE electrophoresis analysis of prokaryotic expression of PtCHI
+
+# 2.3.3重组蛋白的纯化及浓度测定
+
+因镍离子能够与蛋白组氨酸中的咪唑环结合，因此利用镍离子金属螯合亲和层析介质（Ni-NTA）能够吸附含组氨酸的蛋白质。通过增加流动相的咪唑浓度，可将蛋白进行替换洗脱，从而达到分离纯化蛋白的目的。由图12可知，采用镍亲和层析法能够对PtCHI重组蛋白进行有效的分离纯化。当咪唑浓度较低时 $\left( 2 0 \mathrm { - } 1 0 0 \mathrm { m M } \right)$ )，杂蛋白被去除，浓度达 $1 2 0 \mathrm { m M }$ 以上时目的蛋白被替换洗脱。当咪唑浓度提高至 $1 6 0 \mathrm { m M }$ ，蛋白条带较为单一，表明此时蛋白纯度较高。将纯度高的蛋白进行buffer 置换，测得其PtCHI蛋白浓度为 $6 . 3 9 \mu \mathrm { g } { \cdot } \mu \mathrm { L } ^ { - 1 }$ 。
+
+M.Protein marker；1.流出液; $2 . 2 0 \mathrm { m M }$ 咪唑； $\ 3 . \ 4 0 \ \mathrm { m M }$ 咪唑； $4 . 8 0 \mathrm { m M }$ 咪唑； $\mathbf { 5 . 1 0 0 } \mathrm { m M }$ 咪唑； $\mathbf { 6 . 1 2 0 } \mathrm { m M }$   
+咪唑； $7 . 1 6 0 \mathrm { m M }$ 咪唑； $\mathbf { 8 . 2 0 0 \ m M }$ 咪唑。。 M.Proteinmarker;1.Eluate; $\pmb { 2 } . 2 0 \mathrm { m M }$ imidazole; 3.40 mMimidazole; 4.80 mMimidazole; 5. $1 0 0 \mathrm { m M }$   
+imidazole; 6.120 mM imidazole; $7 . 1 6 0 \mathrm { m M }$ imidazole; $\mathbf { 8 . 2 0 0 \ m M }$ imidazole.
+
+![](images/06d44f7bc3dc9b1c973fb1e366fa46b8bf79f3f4af0c8beb56916ad38e081aba.jpg)  
+图12PtCHI重组蛋白的纯化
+
+Fig.12 Purification of PtCHI recombinant protein by Ni-affinity chromatography
+
+# 2.3.4纯化蛋白的WesternBlot验证
+
+由于 pet28a载体质粒上带有组氨酸标签，可以用His 抗体对纯化蛋白进行Westerm blot检测。由图13可知，经曝光后，PtCHI在PVDF 膜上约 $2 7 . 8 \mathrm { k D }$ 处有目的蛋白条带出现。不同蛋白上样量均检测到特异的蛋白条带，进一步证实分离纯化的蛋白为PtCHI蛋白。
+
+M.Protein marker；1.上样量 $1 0 \mathrm { n g }$ ；2.上样量 $2 0 \mathrm { n g }$ ；3.上样量 $3 0 ~ \mathrm { n g }$ ；4.上样量 $5 0 ~ \mathrm { n g }$ 。
+
+![](images/4442bae457005a3104a6a9f50eca9b61d4c539c74aed788ea3c09eaecec163e3.jpg)  
+图13PtCHI重组蛋白的WB检测
+
+M. Protein marker; 1. Sample loading $1 0 ~ \mathrm { { n g } }$ ；2.Sample loading $2 0 \mathrm { n g }$ ；3.Sample loading $4 0 ~ \mathrm { n g }$ ; 4. Sample loading $5 0 ~ \mathrm { n g }$
+
+Fig.13 Western blot analysis of PtCHI recombinant protein
+
+# 2.4亚细胞定位
+
+# 2.4.1亚细胞定位表达载体构建
+
+利用表1中的特异引物PtCHI-YXBF/R进行PCR扩增，经 $1 \%$ 的琼脂糖凝胶电泳检测，分别在669bp处有单一条带，与目的基因大小相一致（图14A）。经纯化后与线性化载体pSAT6-EYFP-N1连接，并转化至DH5α感受态细胞中。提取质粒经限制性内切酶 XhoI和XmaI酶切验证，结果显示，分别在约4600 bp 和669 bp 处各有一条带，大小与线性化载体及目的基因大小相一致（图14B）。将其送测，把测序结果与目的基因序列一致的菌液进行扩大培养，提取其质粒用于拟南芥瞬时表达。
+
+![](images/34e000d2e057b67184f8e54887167b2bebd3f9b50aecf3f3e9d49fc281283044.jpg)  
+图14构建亚细胞定位重组质粒
+
+A.PtCHI基因PCR扩增；B.重组质粒pSAT6-EYFP-N1-PtCHI的双酶切产物。   
+A.PCR amplification ofPtCHI;B.Digestion product of pSAT6-EYFP-N1-PtCHI.
+
+# 2.4.2亚细胞定位分析
+
+通过PEG-CaCI2 法介导 pSAT6-EYFP-N1-PtCHI重组质粒转化拟南芥原生质体，转化16h，通过激光共聚焦显微镜观察，PtCHI结果显示在叶绿体周围检测到由EYFP 通路发出的绿色荧光（图15：A），及叶绿体自发的红色荧光（图15：B）,表明 PtCHI基因定位于叶绿体。
+
+![](images/029873c2c0219b694af109f4420852b9f4b4bb108c8dc4b4beaef368a811cc87.jpg)  
+Fig.14 Construction of subcellular localization recombinant plasmid
+
+A：YFP 通道绿色荧光；B：Chloroplast 自发荧光；C：Merge。
+
+A.YFP channel green fluorescence;B.Chloroplast autofluorescence; C.Merge.
+
+# 图15PtCHI的亚细胞定位
+
+Fig.15LocaliztionofPtCHI
+
+# 3讨论
+
+# 3.1粉葛和野葛的CHI基因表达与异黄酮类物质积累关系
+
+异黄酮类物质作为葛根的主要活性成分，其含量高低也是葛根药用价值的评判标准之一。前人的研究发现，粉葛和野葛的总黄酮含量差异悬殊，且野葛的异黄酮类物质的含量显著高于粉葛。王新胜等（2009）对伏牛山区的野葛和粉葛药材质量测评结果表明，野葛的水浸出物和醇浸出物含量均高于粉葛，总黄酮含量是粉葛的3倍之多，且野葛中葛根素的平均含量是粉葛的2.5倍。蒙秋艳等（2020）对广西不同地区的野葛和粉葛总异黄酮含量研究结果可知， $\boldsymbol { 1 0 0 } \mathrm { g }$ 野葛粉末中总异黄酮含量约为 $5 . 0 8 \ \mathbf { g } \cdot 1 0 0 \ \mathbf { g } ^ { - 1 }$ ，显著高于粉葛中的总异黄酮含量 $0 . 4 6 3 \ \mathbf { g } { \cdot } 1 0 0 \ \mathbf { g } ^ { - 1 }$ ，且野葛中的葛根素含量和大豆苷含量也高于粉葛。张静等（2017）研究发现，广西野葛的纤维素、可溶性糖、总黄酮和葛根素含量显著高于粉葛。
+
+查尔酮异构酶作为黄酮生物合成途径中第二大限速酶，在异黄酮类物质积累、色素合成、抗逆等具有重要作用（李琳玲等，2008；周发俊等，2008）。前人研究表明，在乌拉尔甘草中过表达其CHI基因，对其毛状根中总黄酮含量检测发现，转基因乌拉尔甘草的毛状根中总黄酮含量是 $1 . 3 9 4 \ : \mathrm { g } { \cdot } 1 0 0 \ : \mathrm { g } ^ { - 1 }$ 显著高于WT 的 $0 . 8 4 2 \ \mathrm { g } { \cdot } 1 0 0 \ \mathrm { g } ^ { - 1 }$ ，同时发现在 $2 \%$ PEG8000 和$0 . 1 \%$ 酵母提取物共处理下能显著提高转基因乌拉尔甘草毛状根中的总黄酮含量（2.838（204号 $\mathbf { g } { \cdot } 1 0 0 \ \mathbf { g } ^ { - 1 }$ ）和机体内CHI基因的转录水平（Zhang et al.,2009）。针对改善土人参（Talinumpaniculatum(Jacq.)Gaertn.）中总黄酮含量低的研究中发现，在土人参中过量表达大豆的GmCHI基因，会使得转基因土人参中总黄酮含量（ $\cdot 2 . 7 4 \ \mathrm { m g } \cdot \mathrm { g } ^ { - 1 }$ 和 $4 . 2 4 ~ \mathrm { { m g } { \cdot g } ^ { - 1 } }$ ）比WT显著提高4.8-7.4倍（VU et al.,2018）。本研究发现野葛中的葛根素含量和总黄酮含量均高于粉葛，与前人的研究结果相一致。同时我们还发现，CHI基因的表达量在野葛的根和茎中均显著高于粉葛，前人在乌拉尔甘草和土人参的研究中也发现，过表达CHI基因均能提高植株体内的总黄酮含量。推测葛根中的CHI基因与总黄酮及葛根素的积累存在密切联系。该研究结果对后续通过粉葛品质改良，提高其药效成分具有重要的参考价值。
+
+# 3.2野葛和粉葛CHI基因结构差异与异黄酮类物质积累关系
+
+同一基因常会因结构存在差异从而使其行使的功能或者受到胁迫的表现也会有所不同（刘玉成等，2019）。前人在甘蔗的研究中发现，ScJAZ家族基因中ScJAZ22、ScJAZ24和ScJAZ30 基因结构、氨基酸数量和相对分子量差异较大，这三个基因在叶枯萎病侵染抗叶枯萎病品种 ROC22 的早期呈现不同的表达量，其中 ScJAZ22基因的表达量下调，而 ScJAZ24和 ScJAZ30的表达量却上调（娄文月等，2021）。Dong等(2021)在白梨中鉴定到了197个bHLH基因，其基因结构和编码的氨基酸数量以及外显子数量都存在差异，当在冷处理和热处理下，PbrbHLH7、PbrbHLH8、PbrbHLH128、PbrbHLH160、PbrbHLH161和PbrbHLH195的表达量均上调，而其他成员的表达量则无显著变化。上述结果说明同一家族的基因，当其基因结构相互之间存在差异时，每个基因所表现出来的功能都会有所不同。
+
+本研究所克隆的粉葛 PtCHI基因ORF 框长672bp，推导编码 223个氨基酸，与YoshiyaTerai 等(1996)在野葛中克隆的PmCHI的ORF 框675bp 相差3bp，编码的氨基酸也相差1个。与野葛的氨基酸序列分析发现，粉葛中第5位的苯丙氨酸（Ala）缺失，但这个位点不是磷酸化位点，并且该位点也并非保守结构域位点。粉葛和野葛中的CHI基因ORF 框长度和所编码的氨基酸数量存在差异，并且该基因在野葛和粉葛中的表达量存在显著差异，该研究结果与前人在甘蔗和白梨中的研究结果相似。两者的功能是否会存在差异？是否是引起野葛和粉葛的黄酮含量差异的原因?还有待进一步挖掘。
+
+# 3.3粉葛PtCHI亚细胞定位、互作关系与异黄酮类物质积累关系
+
+本研究获得的粉葛PtCHI的氨基酸序列与野葛、大豆、乌拉尔甘草的CHI亲缘关系较近。CHS 和CHI发生互作在水稻、拟南芥、江南卷柏和小立碗藓等植物中已有报道（Ban etal.,2018）。Fujino等（2018）发现金鱼草AmCHS和AmCHI定位于内质网和细胞核，并且CHI能与CHS、FNS II、F3H及DFR 发生蛋白互作，使β-半乳糖苷酶活性活性显著提高。Ban 等（2018）研究表明，啤酒花CHIL2和CHS_H1均定位于细胞质，并且能发生互作，在酵母中CHS_H1/CHIL2共表达提高代谢产物黄腐酚含量和槲皮素查尔酮含量比单独表达时提高1.4 倍和1.5 倍。Waki等（2016)发现大豆GmIFS 与 GmCHS1、GmCHS7、GmCHI1A、GmCHI1B2和GmCHI2发生互作，其中GmIFS与GmCHI的互作强于GmCHS；在同等条件下，GmIFS 与GmCHI共表达时的β-半乳糖苷酶活性活性也高于GmCHS。Dastmalchi 等（2016）发现大豆GmIFS1/GmIFS2与GmCHR14、GmCHI2、GmCHS7、GmCHS8均在细胞质发生互作，其中GmIFS2 和 GmCHR14互作时发出的荧光最强，与GmCHS7/GmCHS8的互作最弱。本研究结果表明葛根PtCHI仅定位于细胞质的叶绿体上，与前人研究结果不一致，可能是由于研究物种的不同从而导致定位的结果存在差异；且本研究预测粉葛CHI与CHS、F3H和DFR2互作，预测结果与前人在其他作物上的研究结果大体一致，这些互作蛋白都与花青素、花色素、木质素积累密切相关，但未检测到该基因与PtIFS 存在互作关系。是否是基因之间存在CHI底物的竞争，导致PtIFS与CHI互作极低，进而导致粉葛异黄酮生物合成低？有待下一步深入研究。
+
+# 参考文献
+
+BAN Z,QIN H,MITCHELL AJ,et al.， 2018.Noncatalytic chalcone isomerase-fold proteins in
+
+Humulus lupulus are auxiliary components in prenylated flavonoid biosynthesis[J]. PROC NAT ACAD SCI USA, 115(22).
+
+CHU JM, MA SY,LI HF, et al.,2015. Progress in Effective Components and Pharmacological Effects of Puerariae Lobatea Radix[J].Food Drug,17(2):142-146.[楚纪明，马树运，李海峰，等,2015. 葛根有效成分及其药理作用研究进展[J]．食品与药品,17(2):142-146.]
+
+DASTMALCHI M, BERNARDS MA, DHAUBHADEL S, et al., 2016. Twin anchors of the soybean isoflavonoid metabolon: evidence for tethering of the complex to the endoplasmic reticulum by IFS and C4H[J]. PLANT J, 85(6): 689-706.
+
+Dong HZ, Chen QM, Dai YQ, et al.,2021. Genome-wide identification of PbrbHLH family genes, and expression analysis in response to drought and cold stresses in pear (Pyrus bretschneideri)[J]. Plant Biol, 21(1).
+
+Editorial Committee of the Chinese Academy of Sciences,1995.Flora of China[M]. Beijing: SciencePress,41:219.[中国科学院中国植物志编辑委员会,1995．中国植物志[M].北京：科学出版社，41: 219.]
+
+FUJINO N, TENMA N,WAKI T, et al.，2018.Physical interactions among flavonoid enzymes in snapdragon and torenia reveal the diversity in the flavonoid metabolon organization of different plant species[J]. Plant J, 94(2): 372-392.
+
+GUO JY, 2011. Cloning and function analysis of chalcone isomerase gene from purple-fleshed sweet potato[Ipomoea batatas(L.) Lam][D]. Chongqing: Southwest University: 63-83.[郭晋雅,2011. 紫心甘薯查尔酮异构酶基因的克隆及其功能分析[D]．重庆：西南大学:63-83.]
+
+GUO DD,2019. Characterization and function study of key genes involved in flavonoid biosyntheticpathway in Carthamus tinctorrius L.[D]. Shanghai: Naval Medical University: 61-62.[郭丹丹,2019.红花黄酮类成分生物合成途径关键基因的特征和功能研究[D]．上海：中国人民解放军海军军医大学:61-62.]
+
+HE ZM，2018.Cloning and Function Verification of Chalcone Isomerase Gene GmCHI4A andGmCHI4B in Soybean[D].Changchun: Jilin University:46-56.[何则铭,2018．大豆查尔酮异构酶GmCHI4A和GmCHI4B 基因的克隆及功能验证[D].长春：吉林大学:46-56.]
+
+HE CY,GAN L,YAN MJ, et al.， 2018. Cloning,Functional and Expression Analysis of ChalconeSynthase Gene PpCHS1 in Kentucky Bluegrass[J]. Chin JGrassland, 40(4): 8-15.[何春艳，甘露,闫蒙举，等,2018．草地早熟禾查尔酮合成酶基因 $P p C H S I$ 克隆、功能与表达分析[J]．中国草地学报,40(4): 8-15.]
+
+LI GH,FUM,LUO LW, et al.,2021. Comprehensive analysis of the nutritional quality of Puerariamontana [J].Guangdong Agric Sci,48(9):72-80.[李桂花，符梅，罗文龙，等,2021．粉葛资源营养品质综合分析[J]．广东农业科学,48(9):72-80.]
+
+LI LL，CHENG H, XU F，et al.， 2008.Progress of chalcone isomerase in plants[J]. Letters inBiotechnol,(6):935-937.[李琳玲，程华，许锋，等,2008．植物查尔酮异构酶研究进展[J]．生物技术通讯,(6): 935-937.]
+
+LI HY,2019. Cloning and Function Analysis of The Key Enzyme Genes Involved in The Flavonoids Boosythesis in Salvia Miltiorrhiza[D]. Xianyang: Northwest A&F University: 48-49.[李红艳, 2019.丹参类黄酮合成途径关键酶基因的克隆与功能分析[D]．咸阳：西北农林科技大学: 48-49.]
+
+LING JJ, 2016.Molecular Cloning and Characterization of Chalcone Isomerase Genes in Freesia hybrida[D]. Changchun: Northeast Normal University: 7-9.[梁瓴婕,2016.香雪兰查尔酮异构 酶基因家族的克隆及功能分析[D]．长春：东北师范大学:7-9.]
+
+LI ZF,WU RF,2008.Study on extracting total Puerarin flavonoids[J].Appl Chem Industry,37(11):4.[李增富，吴荣锋，2008．葛根总黄酮的提取研究[J]．应用化工,37(11):4.]
+
+Liu YC, Zhang C, Dong B, et al.,2019. Advances of CCD subfamily in higher plants[J]. J AgricBiotechnol,27(4):720-734.[刘玉成，张超，董彬，等,2019．高等植物CCD 亚家族基因研究进展[J]．农业生物技术学报,27(4):720-734.]
+
+Lou WY,Sun TT, Cen GL,et al., 2O21. Identification and expression analysis of the sugarcane ScJAZ gene family based on transcriptome[J].Mol Plant Breed.19(7): 2142-2155.[娄文月，孙婷婷，岑 光莉，等,2021．基于转录组的甘蔗 ScJAZ 基因家族鉴定及表达分析[J].分子植物育种,19(7): 2142-2155.]
+
+MA Z,2O18. Research progress of key enzyme chalcone synthase in flower color formation ofornamental plants[J].For Ecol Sci,33(1):7-10.[马喆,2018．观赏植物花色形成关键酶查尔酮合成酶研究进展[J]．林业与生态科学,33(1):7-10.]
+
+MENG QY, HUANG JZ, LING YL, et al.，2020. Comparison of polysaccharides and isoflavones in Pueraria thomsonii and Pueraria montana from different producing areas of Guangxi[J]. Food Res Dev,v.41;No.394(21):51-58.[蒙秋艳，黄靖洲，梁艳玲，等,2020．广西不同产地粉葛,野 葛的多糖和异黄酮含量比较[J]．食品研究与开发,v.41;No.394(21):51-58.]
+
+SHANG XH, CAO S, YAN HB,et al., 2021. Development status and countermeasures of Pueraria montana(Wild.) Ohwi var. Thomsoni(Benth.) van der Maesen industry in Guangxi[J]. J South Agri, 52(06):1510-1519.[尚小红，曹升，严华兵，等,2021．广西粉葛产业现状分析及其发展建议 [J]．南方农业学报,52(06):1510-1519.]
+
+VU TNT,LE THT, HOANG PH, et al., 2018. Overexpresson of the Glycine max chalcone isomerase (GmCHI ) gene in transgenic Talinum paniculatum plants[J]. TURK JBOT, 42(5): 551-558.
+
+WANG Y， XU F, CHENG SY， 2007.Research progress in molecular biology of plant chalconesynthase[J].JHenan Agric Sci,(08):5-9.[王燕,许锋,程水源,2007．植物查尔酮合成酶分子生物学研究进展[J]．河南农业科学,(08):5-9.]
+
+WANG XS, WU YF, ZHANG YP, et al., 2009. Quality evaluation of Pueraria Montana(Willd.) Ohwi and Pueraria Thomsonii Behth. from Funiu Mountain[J]. JHenan Univ Sci Technol (Nat Sci Ed), 30(5):67-69.[王新胜，吴艳芳，张延萍，等,2009．伏牛山区野葛与粉葛药材质量综合研究[J]. 河南科技大学学报(自然科学版),30(5):67-69.]
+
+WAKI T,YOO D,FUJINO N,et al.,2016.Identification of protein-protein interactions of isoflavonoid biosynthetic enzymes with 2-hydroxyisoflavanone synthase in soybean (Glycine max (L.) Merr.)[J]. Biochem Biophys Res Comm, 469(3): 546-551.
+
+XIA F,LI HH,FU CX, et al.,2011. Cloning, expression and charaterization of chalcone synthase fromSaussurea medusa[J]. Chin JBiotechnol,27(9): 363-370.[夏芳，李厚华，付春祥，等,2011．水母雪莲查尔酮合酶基因的克隆、表达及酶活分析[J]．生物工程学报,27(9):363-370.]
+
+YU QH, DU YQ, SUN QH, et al.， 2021. Research progress on antipyretic and antiviral effects of Yege(Pueraria montana) and Fenge(Pueraria thomsonii Benth) based on eficacy and material basis[J].Chin Arch Trad Chin Med,39(9): 89-94.[于钦辉，杜以晴，孙启慧，等,2021．基于功 效和物质基础的野葛、粉葛解热和抗病毒作用研究进展[J].中华中医药学刊,39(9):89-94.]
+
+YU JB,LI YT, ZHANG J, et al., 2O21. Cloning and construction of plant expression vector of chalcone synthase gene PtCHS in Puerariavar. Thomsoni[J]. Mol Plant Breed,19(4): 1143-1149.[羽健 宾，李钰婷，张静，等,2021．粉葛查尔酮合成酶基因PtCHS 的克隆与植物表达载体构建[J]. 分子植物育种,19(4):1143-1149.]
+
+YOSHIYA Terai, ISAO Fuji, Soon-He Byun, et al.,，1996. Cloning of chalcone-flavanone isomerase cDNA from Pueraria montana and its overexpression in Escherichia coli[J].Protein Expres Purif, 8(2): 183-190.
+
+ZJOU FJ, WANG YQ, CHEN YQ, 2008. Progress of Plant Chalcone Isomerase[J]. JHebei Norm UnivSci& Technol,(1):73-77.[周发俊，王逸群，陈由强,2008．植物查尔酮异构酶分子生物学研究进展(综述)[J].河北科技师范学院学报,(1):73-77.]
+
+ZHANG DQ,TAN XF,WANG XH,2007. Gene characteristics and transgenic application of chalconesynthase and chalcone isomerase[J].JCentr S Univ For Technol,27(2): 87-91.[张党权，谭晓风,王晓红,2007．查尔酮合酶与查尔酮异构酶基因特征及转基因应用[J]．中南林业科技大学学
+
+报,27(2): 87-91.]
+
+ZHANG HC, LIU JM,LU HY, et al., 2009.Enhanced flavonoid production in hairy root cultures of Glycyrrhiza uralensis Fisch by combining the over-expression of chalcone isomerase gene with the elicitation treatment[J]. Plant Cell Rep,28(8): 1205-1213.

@@ -1,0 +1,554 @@
+[
+    {
+        "type": "text",
+        "text": "arXiv: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SUSY induced top quark FCNC decay $t \\to c h$ after Run I of LHC ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Junjie Cao $^ { 1 , 2 }$ ， Chengcheng Han $^ 3$ ，LeiWu $^ { 4 }$ , Jin Min Yang $^ 3$ ， Mengchao Zhang $^ 3$   \n$^ { 1 }$ Department of Physics， Henan Normal University， Xinxiang 453007, China   \n（2 $^ 2$ Center for High Energy Physics， Peking University， Beijing 100871， China $^ 3$ State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Academia Sinica， Beijing 100190, China （20 $^ 4$ ARC Center of Excellence for Particle Physics at the Terascale, School of Physics， The University of Sydney， NSW 20o6, Australia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In light of the Higgs discovery and the nonobservation of sparticles at the LHC,we revisit the SUSY induced top quark favor changing decay into the Higgs boson. We perform a scan over the relevant SUSY parameter space by considering the constraints from the Higgs mass measurement, the LHC search for SUSY,the vacuum stability, the precision electro-weak observables as well as $B  X _ { s } \\gamma$ . We have the following observations: (1） In the MSSM, the branching ratio of $t \\to c h$ （204号 can only reach $3 . 0 \\times 1 0 ^ { - 6 }$ , which is about one order smaller than previous results obtained before the advent of the LHC.Among the considered constraints,the Higgs mass and the LHC search for sparticles are found to play an important role in limiting the prediction. (2) In the singlet extension of the MSSM, since the squark sector is less constrained by the Higgs mass, the branching ratio of $t  c h$ can reach the order of $1 0 ^ { - 5 }$ in the allowed parameter space. (3) The chiral-conserving mixings $\\delta _ { L L }$ and $\\delta _ { R R }$ may have remanent effects on $t  c h$ in heavy SUSY limit. In the MSSM with squarks and gluino above 3 TeV and meanwhile the CP-odd Higgs boson mass around 1 TeV, the branching ratio of $t \\to c h$ can still reach the order of $1 0 ^ { - 8 }$ under the constraints. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A scalar with mass around 125 GeV has been discovered at the LHC [1, 2]. According to the analysis of the ATLAS and CMS collaborations, the measured properties of this scalar,albeit with large experimental uncertainties, agree well with those of the Higgs boson in the Standard Model (SM)，which means that it plays a role in the electroweak (EW) symmetry breaking and also in the mass generation for the fermions in the SM [3-5]. Even so,due to the deficiencies of the SM itself in describing the symmetry breaking,it is well motivated to interpret this scalar in various frameworks of new physics. Obviously， in order to ambiguously decipher the nature of the scalar, it is mandatory to scrutinize both experimentally and theoretically the couplings of the scalar, including its self-interactions. In this direction, the couplings of the scalar with the yet known heaviest particle,top quark, are of fundamental importance since, as suggested by the LHC Higgs data, the $h t t$ coupling is strong,and meanwhile it is widely conjectured to be sensitive to new physics. In fact, great effrts have been paid recently to investigate the top-Higgs associated production processes like $p p  t t h$ [6,7] and $p p  q t h$ 8] at the LHC to extract the size and sign of the $h t t$ （204号 Yukawa coupling,and also the top quark flavor changing decay $t \\to c h$ to prob anomalous top-Higgs interaction[9,10]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Among the new physics models, the supersymmetric theory (SUSY) is a promising one due to its capability to solve the hierarchy problem of the SM, unify the gauge coupling as well as provide a viable Dark Matter candidate[11, 12]. In SUSY, a SM-like Higgs boson $h$ around 125GeV usually implies third generation squarks at or heavier than 1TeV，and the preference of the heavy squarks is further corroborated by the absence of any signal in the search for SUSY at the LHC. If the SUSY scale is really high,which was focused on in many recent theoretical works[13], the only way to detect SUSY is through its possibly large remanent effects in EW processes. Such effects may exist in the Higgs process because the dominant part of the Higgs couplings to squarks is proportional to soft SUSY breaking parameters[11],and consequently, the suppression induced by the squark propagators in SUSY radiative correction to the process may be compensated under certain conditions. This feature has been demonstrated in the SUSY correction to the $h b b$ vertex[14], the Higgs pair production process at the LHC[15], and also the Higgs rare decay $h  \\tau \\bar { \\mu }$ [16]. Here we emphasize that the existence of the remanent effect in the asymptotic large SUSY mass limit does not contradict with the Appelquist-Carazzone theorem[17], which is valid only for supersymmetric theories with an exact gauge symmetry. Previous studies on such remanent effects in SUSY, also see [18]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this work, we focus on the top quark flavor changing decay $t  c h$ in SUSY. The reasons that we are interested in it mainly come from three considerations. Firstly, the LHC as a top factory has great capability to scrutinize the properties of top quark, including its rare decay modes. As far as the flavor changing decay $t  c h$ is concerned, its branching ratio in the SM is only at the order of $1 0 ^ { - 1 4 }$ [19], while in SUSY it may be greatly enhanced to $1 0 ^ { - 4 }$ according to previous studies[20, 21]. Since any observation of the decay in future will be a robust evidence of new physics,this decay should be paid attention to in the LHC era, especially noting the fact that the Higgs boson has been recently discovered. Secondly, as introduced before, the LHC experiment has measured Higgs mass and pushed SUSY to a rather high scale. These results have great impacts on the SUSY prediction about $t \\to c h$ ， so it is necessary to update previous studies on $t \\to c h$ in light of the experimental progress. Thirdly, unlike the other top FCNC processes in SUSY[22], the decay $t  c h$ may have remanent efect in heavy SUSY limit. From theoretical point of view,it is worthwhile to investigate such a feature in detail. Besides,we remind that,if the favor mixings between scharm and stop are present,which may push up the rate of $t  c h$ greatly, the LHC constraint on stop masses can be relaxed. This in return can allviate the fine tuning problem of the SUSY[23]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follws. In section II， we parameterize the flavor mixings in squark sector and define our conventions. We also list various constraints on SUSY. In section III, we study the decay $t  c h$ in both low energy SUSY and heavy SUSY,and present some benchmark points at which the predictions on $t \\to c h$ are optimized. We also exhibit the features of the remanent effect on $t \\to c h$ . Finally, we present our conclusions in section IV. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. FCNCINTERACTIONSIN SUSY ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the supersymmetric theories such as the Minimal Supersymmetric Standard Model (MSSM)[11] and the Next-to Minimal Supersymmetric Standard Model (NMSSM)[12], the squark sector consists of six up-type squarks $( \\tilde { u } _ { L } , \\ \\tilde { c } _ { L } , \\ \\dot { t } _ { L } , \\ \\tilde { u } _ { R } , \\ \\tilde { c } _ { R } , \\ \\dot { t } _ { R } )$ and six down-type squarks $( \\tilde { d } _ { L } , \\tilde { s } _ { L } , \\tilde { b } _ { L } , \\tilde { d } _ { R } , \\tilde { s } _ { R } , \\tilde { b } _ { R } )$ . In general, the states with different chiral and favor quantum numbers in each type of squarks will mix to form mass eigenstates, and consequently potentially large flavor changing interactions arise from the misalignment between the rotations that diagonalize quark and squark sectors. In the super-CKM basis, the $6 \\times 6$ squark mass matrix $\\mathcal { M } _ { \\widetilde { q } } ^ { 2 }$ ( $\\tilde { q } = \\tilde { u } , \\tilde { d } )$ takes the form [24] ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } _ { { \\tilde { q } } } ^ { 2 } = \\left( \\begin{array} { l l } { { ( M _ { { \\tilde { q } } } ^ { 2 } ) _ { L L } + C _ { { \\tilde { q } } } ^ { L L } } } & { { ( M _ { { \\tilde { q } } } ^ { 2 } ) _ { L R } - C _ { { \\tilde { q } } } ^ { L R } } } \\\\ { { { \\left( ( M _ { { \\tilde { q } } } ^ { 2 } ) _ { L R } - C _ { { \\tilde { q } } } ^ { L R } \\right) ^ { \\dagger } } } } & { { ( M _ { { \\tilde { q } } } ^ { 2 } ) _ { R R } + C _ { { \\tilde { q } } } ^ { R R } } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { \\tilde { q } } ^ { L L } \\ = \\ m _ { q } ^ { 2 } + \\cos 2 \\beta M _ { Z } ^ { 2 } ( T _ { 3 } ^ { q } - Q _ { q } s _ { W } ^ { 2 } ) \\hat { 1 }$ ， $C _ { \\tilde { q } } ^ { R R } = m _ { q } ^ { 2 } + \\cos 2 \\beta M _ { Z } ^ { 2 } Q _ { q } s _ { W } ^ { 2 } \\hat { 1 }$ and ${ C } _ { \\tilde { q } } ^ { L R } =$ （20 $m _ { q } \\mu ( \\tan \\beta ) ^ { - 2 T _ { 3 } ^ { q } }$ are $3 \\times 3$ diagonal matrices with $\\hat { 1 }$ standing for the unit matrix in flavor space, $m _ { q }$ being the diagonal quark mass matrix and $\\begin{array} { r } { T _ { 3 } ^ { q } = \\frac { 1 } { 2 } , - \\frac { 1 } { 2 } } \\end{array}$ for $\\boldsymbol { q } = \\boldsymbol { u } , d$ respectively, and （20 $\\begin{array} { r } { \\tan \\beta = \\frac { v _ { 2 } } { v _ { 1 } } } \\end{array}$ is the ratio of the vacuum expectation values of the $S U ( 2 )$ doublet Higgs fields. If one only considers the flavor mixings between the second and the third generation squarks, the soft breaking squared masses $( M _ { \\tilde { q } } ^ { 2 } ) _ { L L }$ ， $( M _ { \\tilde { q } } ^ { 2 } ) _ { L R }$ and $( M _ { \\tilde { q } } ^ { 2 } ) _ { R R }$ can be parameterized as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { ( { \\cal M } _ { \\bar { a } } ^ { 2 } ) _ { L L } = ( \\begin{array} { c c c } { { M _ { Q _ { 1 } } ^ { 2 } } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { M _ { Q _ { 2 } } ^ { 2 } } } & { { \\delta _ { L L } M _ { Q _ { 2 } } M _ { Q _ { 3 } } } } \\\\ { { 0 } } & { { \\delta _ { L L } M _ { Q _ { 2 } } M _ { Q _ { 3 } } } } & { { M _ { Q _ { 3 } } ^ { 2 } } } \\end{array} ) , } } \\\\ { { ( { \\cal M } _ { \\bar { a } } ^ { 2 } ) _ { L R } = ( \\begin{array} { c c c } { { 0 } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { \\delta _ { L R } v _ { 2 } M _ { L R } ^ { U } } } \\\\ { { 0 } } & { { \\delta _ { R L } v _ { 2 } M _ { R L } ^ { U } } } & { { m _ { t } A _ { t } } } \\end{array} ) , } } \\\\ { { ( { \\cal M } _ { \\bar { a } } ^ { 2 } ) _ { R R } = ( { \\cal M } _ { \\bar { a } } ^ { 2 } ) _ { L L } | _ { { \\cal M } _ { Q _ { 2 } } ^ { 2 }  { \\cal M } _ { \\bar { c } } ^ { 2 } } , \\delta _ { L \\bar { c } }  \\delta _ { R R } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $M _ { Q _ { i } }$ and $M _ { U _ { i } }$ ( $i = 1 , 2 , 3$ denotes generation index) are soft breaking parameters with mass dimension, $M _ { L R } ^ { U }$ and $M _ { R L } ^ { U }$ represents SUSY scale defined as $M _ { L R } ^ { U } = ( M _ { U _ { 3 } } + M _ { Q _ { 2 } } ) / 2$ （204号 and $M _ { R L } ^ { U } = ( M _ { U _ { 2 } } + M _ { Q _ { 3 } } ) / 2$ ，and $\\delta _ { L L }$ ， $\\delta _ { L R }$ ， $\\delta _ { R L }$ and $\\delta _ { R R }$ reflect the extent of the flavor violation. Similarly, for down-squarks we have ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { ( M _ { \\tilde { d } } ^ { 2 } ) _ { L R } ~ = ~ ( \\begin{array} { l l l } { { 0 } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { \\delta _ { L R } ^ { d } v _ { 1 } M _ { L R } ^ { D } } } \\\\ { { 0 } } & { { \\delta _ { R L } ^ { d } v _ { 1 } M _ { R L } ^ { D } } } & { { m _ { b } A _ { b } } } \\end{array} ) , } } \\\\ { { ( M _ { \\tilde { d } } ^ { 2 } ) _ { R R } ~ = ~ ( M _ { \\tilde { u } } ^ { 2 } ) _ { L L } \\vert _ { M _ { Q _ { i } } ^ { 2 }  M _ { D _ { i } } ^ { 2 } } , ~ \\delta _ { L L }  \\delta _ { R R } ^ { d } , } }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and due to $S U ( 2 )$ gauge symmetry, $( M _ { \\tilde { d } } ^ { 2 } ) _ { L L }$ is determined by[24] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( M _ { \\tilde { d } } ^ { 2 } ) _ { L L } = V _ { C K M } ^ { \\dagger } ( M _ { \\tilde { u } } ^ { 2 } ) _ { L L } V _ { C K M }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with $V _ { C K M }$ denoting the Cabibbo-Kobayashi-Maskawa matrix in the SM. Note that in Eqs.(2,3)，we only keep the chiral-flipping terms for third-family squarks because these terms are usually assumed to be proportional to corresponding quark masses, and can not be neglected only for third-family squarks. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The squark mass eigenstates can be obtained by diagonalizing the mass matrix presented above with an unitary rotation $U _ { \\tilde { q } }$ ，which is performed numerically in our analysis. The interaction of the field $X$ with a pair of squark mass eigenstates is then obtained by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( X \\tilde { q } _ { \\alpha } ^ { * } \\tilde { q } _ { \\beta } ^ { \\prime } ) = U _ { \\alpha , i } ^ { \\dag \\tilde { q } } U _ { j , \\beta } ^ { \\tilde { q } ^ { \\prime } } V ( X \\tilde { q } _ { i } ^ { * } \\tilde { q } _ { j } ^ { \\prime } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $V ( X \\tilde { q } _ { i } ^ { * } \\tilde { q } _ { j } ^ { \\prime } )$ denotes a generic vertex in the interaction basis and $V ( X \\tilde { q } _ { \\alpha } ^ { * } \\tilde { q } _ { \\beta } ^ { \\prime } )$ is the vertex in the mass-eigenstate basis. It is clear that both the squark masses and their interactions depend on the mixing parameters $\\delta _ { i } s$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In some fundamental supersymmetric theories like the mSUGRA and gauge-mediated SUSY-breaking models, the mixing parameters are functions of the soft breaking masses and usually exhibit certain hierarchy structure[25]. In this work, in order to make our discussion as general as possible, we treat all $\\delta _ { i } s$ as free parameter,and limit them by some physical observables. The constraints we consider include ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(I) The recently measured SM-like Higgs boson mass $m _ { h }$ .In the MSSM, this mass is determined by the renormalized self-energies of the doublet CP-even Higgs fields, $h _ { u }$ and $h _ { d }$ ，and the transition between them. Squarks contribute to these quantities through the $\\tilde { q } ^ { * } \\tilde { q } S$ and $\\tilde { q } ^ { * } \\tilde { q } S S$ interactions with $S$ denoting either $h _ { u }$ or $h _ { d }$ [20, 26]. In the presence of the flavor mixings, both the interactions and the squark masses may be quite different from those in the case of $\\delta _ { i } s = 0$ , and so is the SM-like Higgs boson mass. Among the favor mixing parameters $\\delta _ { i }$ , the Higgs mass is more sensitive to the chiral-flipping ones $\\delta _ { L R }$ and $\\delta _ { R L }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this work, we get $m _ { h }$ in the MSSM by the code FeynHiggs[27]. In our scan over the parameter space of the low energy MSSM, we require the mass to be about 2GeV around its measured central value, i.e. $1 2 3 \\mathrm { G e V } \\le m _ { h } \\le 1 2 7 \\mathrm { G e V }$ . While for the MSSM in heavy SUSY case (see below), noting that the mass obtained by FeynHiggs suffers from potentially large theoretical uncertainties, we require a moderately wider range, i.e. 121GeV $\\leq m _ { h } \\leq 1 2 9 \\mathrm { G } \\ :$ V. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(II) The LHC search for SUSY. By now both the ATLAS and CMS collaborations have paid great effects in searching for the signals of gluino, squarks as well as charginos and neutralinos, and based on certain assumptions, they exclude some SUSY particles up to about 1 TeV[28]. These obtained results, however, can not be applied directly to a general SUSY case,and in order to implement the LHC constraints, one has to perform detailed Monte Carlo simulation for each SUSY parameter point with the same strategies as those of the collaborations, then compare the simulated results with the LHC data[29]. In practice, such a process is rather time consuming, and can not be applied to an extensive scan over the SUSY parameter space, where a large number of samples are involved. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to simplify our analysis, we note that by now gluino is preferred to be at TeV scale without considering special cases such as compressed SUSY spectra[28], while the second and third generation squark may still be as light as several hundred GeV[29,30], especially in the presence of the flavor mixing when the limitation on the squark spectrum can be further relaxed[23]. So we make following assumption in our discussion ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { \\tilde { q } _ { a } } , m _ { U _ { 3 } } \\geq 2 0 0 \\mathrm { G e V } , \\quad m _ { \\tilde { g } } \\geq 1 \\mathrm { T e V } , \\quad m _ { Q _ { 2 } } , m _ { U _ { 2 } } , m _ { Q _ { 3 } } \\geq 5 0 0 \\mathrm { G e V } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As will be shown below, our conclusions are not sensitive to such assumption. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(III) The metastability of the vacuum state. This constraint reflects the fact that squarks as scalar fields contribute to SUSY potential, and consequently their soft breaking parameters should be limited by the stability (or more general metastability） of the vacuum state[31, 32]. Assuming only $\\delta _ { L R }$ or $\\delta _ { R L }$ contributes to the potential， the metastability requires[31, 32] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { | \\delta _ { L R } ^ { u } | \\lesssim 1 . 2 \\times \\frac { m _ { t } } { v _ { 2 } } \\frac { \\sqrt { M _ { Q _ { 2 } } ^ { 2 } + M _ { U _ { 3 } } ^ { 2 } + M _ { A } ^ { 2 } \\cos ^ { 2 } \\beta } } { M _ { L R } ^ { U } } , } \\\\ & { | \\delta _ { R L } ^ { u } | \\lesssim 1 . 2 \\times \\frac { m _ { t } } { v _ { 2 } } \\frac { \\sqrt { M _ { U _ { 2 } } ^ { 2 } + M _ { Q _ { 3 } } ^ { 2 } + M _ { A } ^ { 2 } \\cos ^ { 2 } \\beta } } { M _ { R L } ^ { U } } , } \\\\ & { | A _ { t } | \\lesssim 2 . 6 7 \\sqrt { M _ { Q _ { 3 } } ^ { 2 } + M _ { U _ { 3 } } ^ { 2 } + M _ { A } ^ { 2 } \\cos ^ { 2 } \\beta } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note in previous study on top quark flavor changing neutral current process, this constraint was usually missed. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(IV）EW precision observables $M _ { W }$ and $\\sin ^ { 2 } \\theta _ { e f f }$ . In SUSY, the corrections to $M _ { W }$ and （20 $\\sin ^ { 2 } \\theta _ { e f f }$ are dominated by squark loops, and their sizes reflect the mass disparity of left-handed SU $( 2 )$ doublet squarks. To a good approximation, these two quantities are related with the $\\delta \\rho$ parameter by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta M _ { W } \\simeq { \\frac { M _ { W } } { 2 } } { \\frac { c _ { W } ^ { 2 } } { c _ { W } ^ { 2 } - s _ { W } ^ { 2 } } } \\delta \\rho , \\quad \\delta \\sin ^ { 2 } \\theta _ { e f f } \\simeq - { \\frac { c _ { W } ^ { 2 } s _ { W } ^ { 2 } } { c _ { W } ^ { 2 } - s _ { W } ^ { 2 } } } \\delta \\rho ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta \\rho = \\frac { \\Sigma _ { Z } ( 0 ) } { M _ { Z } ^ { 2 } } - \\frac { \\Sigma _ { W } ( 0 ) } { M _ { W } ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this work,we repeat our previous calculation of $\\delta M _ { W }$ and $\\delta \\sin ^ { 2 } \\theta _ { e f f }$ in [20] where three generation squarks are considered to implement the $S U ( 2 )$ relation between $( M _ { \\tilde { U } } ^ { 2 } ) _ { L L }$ and $( M _ { \\tilde { D } } ^ { 2 } ) _ { L L }$ ， and require ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta M _ { W } \\leq 2 1 M e V , \\qquad \\delta \\sin ^ { 2 } \\theta _ { e f f } \\leq 1 9 . 6 \\times 1 0 ^ { - 5 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "which are their allowed ranges at $2 \\sigma$ level after considering experimental and theoretical uncertainties[33]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(V）Constraint from $B  X _ { s } \\gamma$ . In the MSSM, the SUSY contributions to $B  X _ { s } \\gamma$ come from four kinds of loops mediated by charged Higgs bosons, charginos， neutralinos and gluinos respectively. We calculate these contributions by the code FeynHiggs[27], and require $3 . 0 4 \\times 1 0 ^ { - 4 } \\leq B r ( B  X _ { s } \\gamma ) \\leq 4 . 0 2 \\times 1 0 ^ { - 4 }$ (corresponding its $2 \\sigma$ allowed range by experiments[34]) in our parameter scan. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Since the neutralino contribution is usually small, the expression of $B  X _ { s } \\gamma$ in the NMSSM is roughly identical to that of the MSSM. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "About above constraints, it should be noted that constraints (I), (II) and (IV) do not diminish as SUSY scale becomes higher, that is, they are not decoupled in heavy SUSY limit;while the process $B  X _ { s } \\gamma$ does not possess such a property. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff59b67e0e63de783d5e345cf44e42874052b2290fa37bb4745b92ebeeb2a456.jpg",
+        "img_caption": [
+            "FIG.1: Feynman diagrams of the SUSY-QCD contribution to $t  c h$ .If charm quark mass is neglected, the contribution from diagram(c） vanishes "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "III. SUSYPREDICTION ON THERATEOF $t \\to c h$ ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the MSSM, the dominant contribution to the process $t  c h$ arises from the SUSYQCD diagrams shown in Fig.1. The relevant Lagrangian is given by[35] ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { { \\mathcal { L } = \\sqrt { 2 } g _ { s } \\bigl [ \\bar { \\tilde { g } } _ { a } ( - U _ { 2 \\alpha } ^ { * } P _ { L } + U _ { 5 \\alpha } ^ { * } P _ { R } ) \\tilde { q } _ { \\alpha i } ^ { * } T _ { i j } ^ { a } c _ { j } + \\bar { \\tilde { g } } _ { a } ( - U _ { 3 \\alpha } ^ { * } P _ { L } + U _ { 6 \\alpha } ^ { * } P _ { R } ) \\tilde { q } _ { \\alpha i } ^ { * } T _ { i j } ^ { a } t _ { j } \\bigr ] + h . c } } \\\\ { { } } & { { + \\displaystyle \\sum _ { \\alpha , \\beta = 1 } ^ { 6 } C _ { \\alpha \\beta } \\tilde { q } _ { \\alpha } ^ { * } \\tilde { q } _ { \\beta } h + Y _ { t } \\bar { t } t h , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { g }$ and $\\tilde { q } _ { \\alpha }$ denote gluino and squark in the mass eigenstate respectively, $T ^ { \\mathit { a } }$ is the Gell-Mann matrix with $i$ and $j$ representing color indices, $U _ { \\tilde { q } }$ is the $6 \\times 6$ rotation matrix to diagonalize the mass matrix for up-type squarks, $C _ { \\alpha \\beta }$ parameterizes the coupling of the Higgs boson with squark mass eigenstates $\\tilde { q } _ { \\alpha }$ and $\\tilde { q } _ { \\beta }$ ，and $\\begin{array} { r } { Y _ { t } ~ = ~ \\frac { m _ { t } } { v } \\frac { \\cos \\alpha } { \\sin \\beta } } \\end{array}$ with $\\alpha$ being the rotation angle to diagonalize the CP-even Higgs mass matrix. The amplitude of $t \\to c h$ can then be expressed by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni \\mathcal { M } ( t  c h ) = \\bar { u } ( p _ { c } ) [ ( F _ { 1 L } + F _ { 2 L } ) P _ { L } + ( F _ { 1 R } + F _ { 2 R } ) P _ { R } ] u ( p _ { t } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where, after neglecting charm quark mass, $F _ { i }$ s are given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { F _ { 1 L } } & { = \\frac { i g _ { s } ^ { 2 } } { 6 \\pi ^ { 2 } } \\{ C _ { o \\beta } U _ { s a } ^ { * } U _ { 5 \\beta } m _ { i } C _ { 0 } ( p _ { c } ^ { 2 } , p _ { i } ^ { 2 } , p _ { i } ^ { 2 } , m _ { j } ^ { 2 } , m _ { i } ^ { 2 } , m _ { a } ^ { 2 } , m _ { a \\beta } ^ { 2 } ) \\} , } \\\\ & { \\quad - C _ { o \\beta } U _ { s a } ^ { * } U _ { 5 \\beta } m _ { i } C _ { 1 2 } ( p _ { c } ^ { 2 } , p _ { i } ^ { 2 } , p _ { i } ^ { 2 } , m _ { j } ^ { 2 } , m _ { j } ^ { 2 } , m _ { i } ^ { 2 } , m _ { j \\beta } ^ { 2 } ) \\} , } \\\\ { F _ { 1 R } } & { = \\frac { i g _ { s } ^ { 2 } } { 6 \\pi ^ { 2 } } \\{ C _ { o \\beta } U _ { 6 } ^ { * } U _ { 2 \\beta } m _ { i } U _ { 5 \\beta } m _ { i } ( p _ { c } ^ { 2 } , p _ { i } ^ { 2 } , p _ { i } ^ { 2 } , m _ { j } ^ { 2 } , m _ { i } ^ { 2 } , m _ { j \\alpha } ^ { 2 } , m _ { a \\beta } ^ { 2 } ) \\} } \\\\ & { \\quad - C _ { o \\beta } U _ { s a } ^ { * } U _ { 2 \\beta } m _ { i } C _ { 1 2 } ( p _ { c } ^ { 2 } , p _ { i } ^ { 2 } , p _ { i } ^ { 2 } , m _ { j } ^ { 2 } , m _ { j \\alpha } ^ { 2 } , m _ { a \\beta } ^ { 2 } ) \\} , } \\\\ { F _ { 2 L } } & { = - \\frac { i g _ { s } ^ { 2 } m _ { i } } { 6 \\pi ^ { 2 } m _ { i } } Y _ { 1 8 } ^ { * } U _ { 5 \\alpha } ^ { * } U _ { 5 \\beta } ( b _ { 0 } ( p _ { c } ^ { 2 } , m _ { j } ^ { 2 } , m _ { j \\alpha } ^ { 2 } ) , } \\\\ { F _ { 2 R } } & { = - \\frac { i g _ { s } ^ { 2 } m _ { j } } { 6 \\pi ^ { 2 } m _ { i } } Y _ { 1 6 } ^ { * } U _ { 5 \\alpha } ^ { * } B _ { 0 } ( p _ { c } ^ { 2 } , m _ { j \\alpha } ^ { 2 } , m _ { j \\alpha } ^ { 2 } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In above expressions, $p _ { t }$ ， $p _ { c }$ and $p _ { h }$ denote the momentums of top quark, charm quark, and Higgs boson respectively, $m _ { \\tilde { g } }$ and $m _ { \\tilde { q } \\alpha }$ represent the masses of gluino and squark respectively, and $B _ { 0 }$ ， $C _ { 0 }$ and $C _ { 1 2 }$ are the standard two-point and three-point loop functions respectively[36]. In the heavy SUSY case discussed below, since the involved sparticle masses are much larger than $m _ { t }$ ,the contribution from $C _ { 1 2 }$ can be safely ignored, and $B _ { 0 }$ ， $C _ { 0 }$ can be approximated by ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { C _ { 0 } ( p _ { c } ^ { 2 } , p _ { h } ^ { 2 } , p _ { t } ^ { 2 } , m _ { \\tilde { g } } ^ { 2 } , m _ { \\tilde { g } _ { \\alpha } } ^ { 2 } , m _ { \\tilde { q } _ { \\beta } } ^ { 2 } ) ~ = ~ \\displaystyle { \\frac { 1 } { m _ { \\tilde { g } } ^ { 2 } } \\frac { 1 } { 1 - \\delta _ { \\beta } } [ \\frac { \\delta _ { \\beta } } { \\delta _ { \\alpha } - \\delta _ { \\beta } } \\ln ( \\frac { \\delta _ { \\alpha } } { \\delta _ { \\beta } } ) - \\frac { 1 } { \\delta _ { \\alpha } - 1 } \\ln \\delta _ { \\alpha } ] + O ( \\frac { p _ { t } ^ { 2 } } { m _ { \\tilde { g } } ^ { 2 } } ) , } } } \\\\ { { { { } } } } \\\\ { { { \\displaystyle B _ { 0 } ( p _ { c } ^ { 2 } , m _ { \\tilde { g } } ^ { 2 } , m _ { \\tilde { q } _ { \\alpha } } ^ { 2 } ) ~ = ~ 1 + \\displaystyle { \\frac { \\delta _ { \\alpha } } { 1 - \\delta _ { \\alpha } } \\ln \\delta _ { \\alpha } + O ( \\frac { p _ { c } ^ { 2 } } { m _ { \\tilde { g } } ^ { 2 } } ) } , } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta _ { \\alpha }$ is defined as $\\delta _ { \\alpha } = m _ { \\tilde { q } _ { \\alpha } } ^ { 2 } / m _ { \\tilde { g } } ^ { 2 }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A. $t \\to c h$ in low energy SUSY ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As shown in [21], the SUSY-QCD contribution to $t  c h$ in low energy MSSM has following features ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "· In case that only one flavor mixing parameter $\\delta _ { i }$ is non-zero, the rate of $t  c h$ （20 increases monotonously as the $\\delta _ { i }$ becomes larger,while if several non-vanishing $\\delta _ { i }$ S coexist, their effects may cancel each other out.   \n· Since the effective $h \\bar { c } t$ vertex involves both chiral-flipping and flavor-changing, the chiral-conserving parameter $\\delta _ { L L } / \\delta _ { R R }$ must be accompanied with chiral-flipping $h \\tilde { t } _ { L } ^ { * } \\tilde { t } _ { R }$ （204号 or $h \\tilde { t } _ { R } ^ { * } \\tilde { t } _ { L }$ interaction in contributing to the vertex, while the chiral-flipping parameter （20 $\\delta _ { L R } / \\delta _ { R L }$ alone is able to lead into the $h \\bar { c } t$ vertex. As a result, the effective vertex is usually more sensitive to $\\delta _ { L R }$ and $\\delta _ { R L }$ if we do not consider the constraints on the mixing parameters.   \n· Unlike the other top quark FCNC processes, the Super-GIM mechanism does not apply to the decay $t \\to c h$ . But since there exists a strong cancelation between diagram (a) and (b) in Fig.1 (see discussion below), the rate of $t \\to c h$ depends on the soft mass parameters in a complex way. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the following, we do not intend to exhibit these features,but instead, noting that the constraints (I-III) introduced above were not considered before we try to figure out the ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "TABLE I: Benchmark points in low energy SUSY which correspond to very optimal cases in predicting the rate of $t  c h$ . Points 1 and 2 are obtained from Scan-I,and Points 3 and 4 are from Scan-II. All these points satisfy the constraints listed in the text. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/49a43f0d4ad194de3d0319b4e1062fe77c983054ed5bb6b31201df8ea5b83a7d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Point 1</td><td>Point 2</td><td>Point 3</td><td>Point 4</td></tr><tr><td>MQ2</td><td>1694GeV</td><td>945GeV</td><td>528GeV</td><td>516GeV</td></tr><tr><td>MQ3</td><td>551GeV</td><td>519GeV</td><td>1704GeV</td><td>1672GeV</td></tr><tr><td>MU2</td><td>1901GeV</td><td>1633GeV</td><td>759GeV</td><td>704GeV</td></tr><tr><td>Mu3</td><td>988GeV</td><td>1013GeV</td><td>1659GeV</td><td>1770GeV</td></tr><tr><td>At</td><td>-1110GeV</td><td>-1249GeV</td><td>-3287GeV</td><td>3150GeV</td></tr><tr><td>SLL</td><td>-0.0600</td><td>-0.0956</td><td>-0.4934</td><td>0.2720</td></tr><tr><td>SLR</td><td>-0.8447</td><td>0.0548</td><td>0.4710</td><td>1.108</td></tr><tr><td>SRL</td><td>0.9154</td><td>1.265</td><td>-1.583</td><td>-1.560</td></tr><tr><td>RR</td><td>0.7523</td><td>0.6198</td><td>-0.7913</td><td>0.7959</td></tr><tr><td>tan β</td><td>35.5</td><td>39.8</td><td>1.5</td><td>1.5</td></tr><tr><td>Mg</td><td>1128GeV</td><td>1291GeV</td><td>1037GeV</td><td>1067GeV</td></tr><tr><td>mA</td><td>1151GeV</td><td>1393GeV</td><td>1224GeV</td><td>906GeV</td></tr><tr><td>μ</td><td>1958GeV</td><td>1848GeV</td><td>832GeV</td><td>-973GeV</td></tr><tr><td>入</td><td>1</td><td>1</td><td>0.690</td><td>0.699</td></tr><tr><td>Br(t→ch)</td><td></td><td>2.99 × 10-62.82 ×10-6</td><td>1.15 × 10-50.90 × 10-5</td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "order of $B r ( t  c h )$ that SUSY can predict after considering these constraints. For this purpose, we perform two independent scans over relevant SUSY parameters by imposing the constraints. Details of our scans are as follows: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "· Scan-I: We restrict our discussion in the MSSM, and calculate the Higgs mass with the code FeynHiggs. The parameter region we explore is given by ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { 5 0 0 G e V } \\le m _ { Q _ { 2 } } , m _ { Q _ { 3 } } , m _ { U _ { 2 } } , m _ { D _ { 2 } } , m _ { D _ { 3 } } \\le \\mathrm { 2 T e V } , \\quad \\mathrm { 2 0 0 G e V } \\le m _ { U _ { 3 } } \\le \\mathrm { 2 T e V } , } \\\\ & { | A _ { t } | \\le 6 \\sqrt { m _ { Q _ { 3 } } m _ { U _ { 3 } } } , \\quad 1 T e V \\le m _ { \\tilde { g } } \\le \\mathrm { 2 T e V } , \\quad 1 \\le \\tan \\beta \\le 4 0 , } \\\\ & { - 1 \\le \\delta _ { L L } , \\delta _ { R R } \\le 1 , \\quad - 2 . 0 \\le \\delta _ { L R } , \\delta _ { R L } \\le 2 . 0 , \\quad - 0 . 5 \\le \\delta _ { L R } ^ { d } , \\delta _ { R L } ^ { d } \\le 0 . 5 , } \\\\ & { 4 0 0 \\mathrm { G e V } \\le m _ { A } \\le \\mathrm { 2 T e V } , - 2 \\mathrm { T e V } \\le \\mu \\le \\mathrm { 2 T e V } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In drawing up the strategy of this scan, we note that, although the down type squark parameters like $\\delta _ { L R } ^ { d }$ and $M _ { D }$ do not affect the rate of $t  c h$ ， they are needed in （204号 $\\delta \\rho$ and $B  X _ { s } \\gamma$ calculation. So to make our conclusions as general as possible we vary them in reasonable regions. We also note that since too many parameters are involved in the scan, the traditional random scan method is not effcient in searching for maximal value of $B r ( t  c h )$ . So we adopt the Markov chain method in doing such a job. During the scan we adjust the optimal value by the results obtained from previous samplings until it reaches some stable values. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "· Scan-II: Same as Scan-I, but in order to relax the Higgs mass bound, we go beyond the MSSM by considering extra contribution to the mass. To be more specific, now we write the Higgs mass as $m _ { h } ^ { 2 } = m _ { h , M S S M } ^ { 2 } + \\lambda ^ { 2 } v ^ { 2 } \\sin ^ { 2 } 2 \\beta$ with $\\lambda$ being a free parameter in the range from O to 0.7. This treatment of the Higgs mass is motivated by the singlet extensions of the MSSM such as the NMSSM, where the interaction between the singlet Higgs field and the doublet Higgs fields in the MSSM provides an additional contribution to the mass at tree level[12]. In order to get a large contribution from this singlet extension，we set $\\tan \\beta = 1 . 5$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In Table I, we show two benchmark points for each scan. These points correspond to very optimal cases in predicting a large rate of $t \\to c h$ . After analyzing our scan results, we have following observations ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "· A small $m _ { \\tilde { g } }$ (around its experimental lower bound） seems to be favored to maximize the rate of $t  c h$ after considering the constraints. Meanwhile, it is interesting to learn from Table I that,although we allow $m _ { U _ { 3 } }$ to be as low as 200GeV, the optimal points do not correspond to low $m _ { U _ { 3 } }$ s · In low energy SUSY, the size of $B r ( t  c h )$ for the optimal points in Table I is not sensitive to the parameters $m _ { A }$ and $\\mu$ . For example, our results indicate that shifting （204号 $m _ { A }$ from its value in Table I by 10O GeV only results in a change of $B r ( t  c h )$ by less than $1 \\%$ . While as will be shown below, these two parameters play an important role in determining the rate of the rare decay in heavy SUSY limit. · Among the considered constraints,the most stringent ones come from the Higgs mass and the LHC search for SUSY. As a result, the branching ratio of $t \\to c h$ can only reach ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$1 0 ^ { - 6 }$ in low energy MSSM, which is about one order smaller than previous predictions obtained before the advent of the LHC[21]. In scan-II, however, since the Higgs mass constraint on squark masses is comparatively relaxed, $B r ( t  c h )$ can reach $1 0 ^ { - 5 }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "About our results on $t  c h$ ，we remind that we do not include the SUSY-EW contribution to $t  c h$ . The reason is the amplitude of the SUSY-EW contribution is roughly determined by $\\alpha m _ { \\tilde { \\chi } ^ { \\pm } } / M a x ( m _ { \\tilde { q } _ { D } } ^ { 2 } , m _ { \\tilde { \\chi } ^ { \\pm } } ^ { 2 } )$ from naive estimation[37], while the SUSY-QCD contribution is determined by $\\alpha _ { s } m _ { \\tilde { g } } / M a x ( m _ { \\tilde { q } _ { U } } ^ { 2 } , m _ { \\tilde { g } } ^ { 2 } )$ ，where $m _ { \\tilde { q } _ { D } }$ ， $m _ { \\tilde { q } _ { U } }$ and $m _ { \\tilde { \\chi } ^ { \\pm } }$ denote the mass scales for down-type squarks, up-type squarks and charginos respectively. Noting that $m _ { \\tilde { q } _ { D } }$ （20 is not much smaller than $m _ { \\tilde { g } }$ as suggested by the LHC search for the second and third generation squarks[28, 30],and also that the flavor mixings in the down-type squark sector are more tightly constrained by B-physics than those in up-type squark sector, we conclude that the SUSY-EW contribution should not be comparable with the SUSY-QCD contribution. So our estimates on the magnitude of $t \\to c h$ will not change after including the SUSY-EW contribution. Another reason to neglect the EW contribution is,once considering it， too many parameters will be involved, but meanwhile this does not change our conclusion. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Before we end this subsection, we have two comments. One is in extensions of the MSSM, the decay chain of a certain sparticle may be quite different from its MSSM prediction, and the analysis of the ATLAS and CMS collaborations in searching for SUSY may become irrelevant[38]. As a result, the constraint on the sparticle mass may be relaxed. This in return may push up the SUSY prediction on the rate of $t  c h$ . Moreover,in extensions of the MSSM the couplings of the Higgs boson with quarks and squarks may be slightly changed. The influence of such changes on the rate of $t \\to c h$ is usually not as signficant as the relax of the Higgs mass constraint. The other comment is that, given $B r ( t  c h ) \\sim 1 0 ^ { - 5 }$ ， it is difficult to detect such a top quark rare decay at the 14-TeV LHC with an integrated luminosity of $1 0 0 f b ^ { - 1 }$ [39],but at future linear colliders such as TLEP[4O], detection of the decay is still possible. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "B.Remanent effect of $t \\to c h$ in heavy SUSY limit ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "As mentioned in Section I, because the $h \\tilde { q } ^ { * } \\tilde { q }$ coupling strength is mainly determined by soft SUSY breaking parameters, the SUSY-QCD contribution to the effective $h \\bar { c } t$ interaction may exhibit remanent effect of SUSY in heavy SUSY limit. In order to investigate such an issue, we in the following assume a common SUSY mass scale $m _ { Q _ { 2 } } = m _ { Q _ { 3 } } = m _ { U _ { 2 } } = m _ { U _ { 3 } } =$ （20 $m _ { \\tilde { g } } = M _ { S U S Y }$ ， and study the dependence of $B r ( t  c h )$ on $M _ { S U S Y }$ for different choices of （202 $A _ { t }$ and $\\mu$ in Fig.2. In getting Fig.2, we consider the case that only $\\delta _ { L L }$ is non-vanishing and fix $\\delta _ { L L } = 0 . 7$ ， $\\tan \\beta = 4 , 1 0$ and $m _ { A } = 4 0 0 , 8 0 0 \\mathrm { G e V }$ . We set $A _ { t } = M _ { S U S Y }$ and $\\mu = 0$ for left panel, and $A _ { t } = 0$ and $\\mu = M _ { S U S Y }$ for right panel. These settings are only for exhibiting the decoupling behavior of $B r ( t  c h )$ and we do not consider the constraint from the LEP search for charginos, which requires $\\mu \\gtrsim 1 0 3$ GeV. Fig.2 then indicates that SUSY has remanent effect on the rare decay rate only when $\\mu$ is at SUSY scale and meanwhile $m _ { A }$ is at weak scale, and the size of the effect depends strongly on $m _ { A }$ and $\\tan \\beta$ , e.g. small values of $m _ { A }$ and $\\tan \\beta$ tend to enhance the effect. We also investigate the case that only $\\delta _ { L R }$ and （204号 $\\delta _ { R L }$ are non-vanishing,and we do not find such remanent effect in heavy SUSY limit for any choices of $\\mu$ and $m _ { A }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/31d729b76cb0f28cdc0a69b750073556062b87d4a9cdeaa62a837a903fafccdf.jpg",
+        "img_caption": [
+            "FIG. 2: Dependence of $B r ( t  c h )$ on the common squark mass scale $M _ { S U S Y }$ . In getting this figure, we assume allsoft masses equal to $M _ { S U S Y }$ ， $\\delta _ { L L } = 0 . 7$ ， $\\tan \\beta = 4 , 1 0$ and $m _ { A } = 4 0 0 , 8 0 0 G e V$ ： We set ${ \\cal A } _ { t } = { \\cal M } _ { S U S Y }$ and $\\mu = 0$ for the left panel, and $A _ { t } = 0$ and $\\mu = M _ { S U S Y }$ for the right panel. Note the lines corresponding to different choices of $m A$ and $\\tan \\beta$ overlap in left panel. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The behaviors shown in Fig.2 can be understood by the effective Lagrangian that describes the Higgs and quark system. After including loop effects, one can write down the ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Lagrangian as follows ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\mathcal { L } = \\displaystyle \\sum _ { i , j = 1 } ^ { 3 } \\{ \\bar { q } _ { i } ^ { \\prime } ( m _ { i j } ^ { \\prime } + \\delta m _ { i j } ^ { \\prime } ) P _ { L } q _ { j } ^ { \\prime } + h \\bar { q } _ { i } ^ { \\prime } ( Y _ { i j } ^ { \\prime } + \\delta Y _ { i j } ^ { \\prime } ) P _ { L } q _ { j } ^ { \\prime } \\} + h . c . } } \\\\ { { = \\displaystyle \\sum _ { i , j = 1 } ^ { 3 } \\{ ( \\bar { q } V _ { R } ^ { \\dag } ) _ { i } ( m _ { i j } ^ { \\prime } + \\delta m _ { i j } ^ { \\prime } ) P _ { L } ( V _ { L } q ) _ { j } + h ( \\bar { q } V _ { R } ^ { \\dag } ) _ { i } ( Y _ { i j } ^ { \\prime } + \\delta Y _ { i j } ^ { \\prime } ) P _ { L } ( V _ { L } q ) _ { j } \\} + h . c . } } \\\\ { { = \\displaystyle \\sum _ { i = 1 } ^ { 3 } \\{ \\bar { q } _ { i } m _ { i } P _ { L } q _ { i } + \\frac { h } { v } \\bar { q } _ { i } m _ { i } P _ { L } q _ { i } \\} + \\displaystyle \\sum _ { i , j = 1 } ^ { 3 } h \\bar { q } _ { i } [ V _ { R } ^ { + } ( \\delta Y ^ { \\prime } - \\frac { \\delta m ^ { \\prime } } { v } ) V _ { L } ] _ { i j } P _ { L } q _ { j } + h . c . , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where $q _ { i } ^ { \\prime }$ and $m _ { i j } ^ { \\prime } = Y _ { i j } ^ { \\prime } v$ are quark field and its mass matrix at tree level with $i , j$ denoting flavor indices,and $\\delta m ^ { \\prime }$ and $\\delta Y ^ { \\prime }$ represent loop corrections to the mass matrix and the Yukawa coupling respectively. The second equation reflects the definition of quark mass eigenstate with $V _ { L }$ and $V _ { R }$ denoting the rotation matrices for left-handed quarks and righthanded quarks respectively. After such a definition, the loop corrected mass matrix $m ^ { \\prime } + \\delta m ^ { \\prime }$ is diagonal with its diagonal element $m _ { i }$ representing physical quark mass determined by experiments. At this stage, the correction to the $h \\bar { q } _ { i } q _ { j }$ interaction is given by $h \\bar { q } _ { i } [ V _ { R } ( \\delta Y ^ { \\prime } -$ （20 $\\delta m ^ { \\prime } / v ) V _ { L } ] _ { i j } P _ { L } q _ { j } + h . c .$ .Obviously, if $\\delta Y ^ { \\prime } = \\delta m ^ { \\prime } / v$ , new physics contribution to the $h \\bar { q } _ { i } q _ { j }$ （204号 interaction vanishes. In actual calculation, $\\delta m ^ { \\prime }$ is obtained from $q _ { i } - q _ { j }$ transition diagrams like diagram (b) of Fig.1 without the emission of the Higgs particle, and $\\delta Y ^ { \\prime }$ comes from the vertex correction like diagram (a) of Fig.1. The effective Lagrangian then indicates that the two contributions should cancel out each other in contributing to the $h \\bar { q } _ { i } q _ { j }$ interaction. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "As far as the SUSY-QCD correction to the $h \\bar { q } _ { i } q _ { j }$ interaction is concerned,its behavior in heavy SUSY limit can be analysised with the mass insertion approximation. In this method, squark masses are taken to be the diagonal elements of the squark mass matrix, and the non-diagonal elements are treated as interactions. In order to illustrate this method in explaining the remanent effect,we first consider the wel studied SUSY-QCD correction to the $h b b$ vertex[14]. In this example, to get $\\delta m _ { b }$ one needs to insert the $\\tilde { b } _ { L } - \\tilde { b } _ { R }$ transition by odd times into the sbottom propagator entered in bottom quark self-energy diagrams, and sum the corresponding contribution to infinite orders of the insertion. One can check that，with one more insertion， the corresponding contribution is suppressed by a factor $m _ { b } ( A _ { b } - \\mu \\tan \\beta ) / M _ { S U S Y } ^ { 2 }$ compared with that without the insertion, and only for the first order insertion, $\\delta m _ { b }$ is not suppressed by $M _ { S U S Y }$ ，which means that the corresponding contribution is non-decoupled in heavy SUSY limit. In a similar way, one can check that even times of the insertion are needed to get the expression of $\\delta Y _ { b }$ in calculating the $h b b$ vertex correction,and only for the zero-th insertion, the contribution is non-decoupled. Putting these two contributions together, one can learn that the non-decoupled terms proportional to $A _ { b }$ is exactly canceled out， and the remaining contribution is proportional to the well known form $\\mu m _ { \\bar { g } } / M _ { S U S Y } ^ { 2 } ( \\tan \\beta + \\cot \\alpha ) \\simeq ( - 2 m _ { Z } ^ { 2 } \\mu m _ { \\bar { g } } ) / ( M _ { S U S Y } ^ { 2 } m _ { A } ^ { 2 } ) \\tan \\beta \\cos 2 \\beta [ 1$ 4]. This effect,， albeit scaling as $1 / m _ { A } ^ { 2 }$ ， does not diminish as $\\mu \\simeq m _ { \\tilde { g } } \\simeq M _ { S U S Y }$ approaches infinity for $m _ { A }$ at weak scale, and is therefore dubbed as the remanent effect of SUSY. ",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/40deaf627bb3920d2bac1330020a84a3e66aeebd656ccaa0f8699dc4af2ef662.jpg",
+        "table_caption": [
+            "and Scan-IV respectively. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>MQ2(GeV) MQ3(GeV)</td><td></td><td>MU2(GeV)</td><td>MU3(GeV)</td><td>At(GeV)</td><td>OLL</td><td>SLR</td><td>SRL</td></tr><tr><td>Point 5</td><td>4484</td><td>4039</td><td>6871</td><td>6839</td><td>6878</td><td>-0.4885</td><td>1.202</td><td>-1.208</td></tr><tr><td>Point 6</td><td>4158</td><td>4046</td><td>6886</td><td>6954</td><td>3944</td><td>-0.3382</td><td>-0.1845</td><td>-0.7258</td></tr><tr><td></td><td>SRR</td><td>tan β</td><td>mg(GeV)</td><td>mA(GeV)</td><td>μ(GeV)</td><td>入</td><td>Br(t→ch)</td><td></td></tr><tr><td>Point 5</td><td>0.7352</td><td>6.13</td><td>4095</td><td>800</td><td>-5943</td><td>1</td><td>1.04 × 10-8</td><td></td></tr><tr><td>Point 6</td><td>0.7734</td><td>1.5</td><td>4138</td><td>800</td><td>-18320</td><td>0.690</td><td>1.65 × 10-8</td><td></td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Next we turn to analysis the SUSY-QCD contribution to the $h \\bar { c } t$ vertex. Since such a interaction involves both chiral-flipping and flavor-changing， appropriate insertions are needed to accomplish both the tasks. For the chiral-flipping mixings $\\delta _ { L R }$ and $\\delta _ { R L }$ ，their role is quite similar to $A _ { b }$ in the SUSY-QCD correction to the $h b b$ coupling,and their nondecoupling contribution is completely canceled out.While for the chiral-conserving mixings （204 $\\delta _ { L L }$ and $\\delta _ { R R }$ , their contribution to the $h b b$ vertex can be split into two parts with one part proportional to $A _ { t }$ and the other part proportional to $\\mu$ . Fig.2 then reflects that the nondecoupling contribution of the former part is exactly canceled out,while that of the latter part is maintained if $m _ { A }$ is not at the same order as $M _ { S U S Y }$ . This situation is actually similar to the SUSY-QCD correction to $h b b$ vertex with the only difference coming from the fact that such remanent effect is not enhanced by $\\tan \\beta$ . In fact, if both $M _ { S U S Y }$ and $m _ { A }$ approach infinity simultaneously, the genuine SUSY contribution to $t \\to c h$ should vanish since now the Higgs sector of the MSSM is identical to that of the SM, while if only $M _ { S U S Y }$ approaches infinity, the Higgs sector is described by a Two-Higgs-Doublet model, and SUSY may leave its imprint in Higgs sector[41]. Our results in Fig.2 actually reflect such a possibility. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We finally discuss how large SUSY can predict the rate of $t \\to c h$ in heavy SUSY case. For this purpose, we require all squarks to be heavier than 3TeV and perform two independence scans over relevant SUSY parameter space by considering the constraints listed in Section II. These scans are ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "· Scan-II: Similar to Scan-I except that we fix $m _ { A } = 8 0 0 \\mathrm { G }$ eV and consider following parameter space ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { 4 T e V } \\leq m _ { Q _ { 2 } } , m _ { Q _ { 3 } } , m _ { U _ { 2 } } , m _ { U _ { 3 } } , m _ { D _ { 2 } } , m _ { D _ { 3 } } \\leq 7 \\mathrm { T e V } , \\quad \\left| A _ { t } \\right| \\leq 6 \\sqrt { m _ { Q _ { 3 } } m _ { U _ { 3 } } } , } \\\\ & { \\mathrm { 4 } T e V \\leq m _ { \\tilde { g } } \\leq 1 0 T e V , \\quad \\left| \\mu \\right| \\leq 2 0 T e V , \\quad 1 \\leq \\tan \\beta \\leq 4 0 , } \\\\ & { - 1 \\leq \\delta _ { L L } , \\delta _ { R R } \\leq 1 , \\quad - 2 . 0 \\leq \\delta _ { L R } , \\delta _ { R L } \\leq 2 . 0 , \\quad - 0 . 5 \\leq \\delta _ { L R } ^ { d } , \\delta _ { R L } ^ { d } \\leq 0 . 5 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In our scan， we do not consider very large squark soft breaking parameters because in such a case, the Higgs mass calculated by FeynHiggs suffers from large theoretical uncertainties. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "· Scan-IV: Similar to Scan-I except that the scan regions are now given by Eq.(17). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "For both scans, we find the rate of $t \\to c h$ may reach $1 0 ^ { - 8 }$ in optimal case,and a smaller value of $m _ { A }$ can lead to a larger branching ratio. In Table II, we provide two benchmark points for future study with Point 5 obtained from Scan-III, and Point 6 from Scan-IV. One can learn that, compared the prediction in heavy SUSY with that in low energy SUSY, although the optimal values of $B r ( t  c h )$ is suppressed by at least two orders, they are still $1 0 ^ { 6 }$ times larger than the corresponding SM prediction. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In this work, we studied the top quark FCNC decay $t  c h$ in the MSSM under the constraints from the Higgs mass measurement, the LHC searches for sparticles,the vacuum stability, the precision electro-weak observables and $B  X _ { s } \\gamma$ . From a scan over the relevant parameter space， we found: ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "· Due to the strong constraints from the measured Higgs mass and the results of SUSY searches at the LHC, the branching ratio of $t  c h$ can only reach $O ( 1 0 ^ { - 6 } )$ in the MSSM, which is about one order smaller than the old results. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "· In the singlet extension of the MSSM, which can lift the Higgs mass at tree level, $B r ( t  c h )$ can reach $O ( 1 0 ^ { - 5 } )$ in the allowed parameter space. · The chiral-conserving mixings $\\delta _ { L L }$ and $\\delta _ { R R }$ can induce SUSY remanent effect on the rate of $t \\to c h$ . For heavy squarks and gluino above $3 T e V$ ， $B r ( t  c h )$ can still reach （ $1 0 ^ { - 8 }$ ： ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement: ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We thank Nima Arkani-Hamed, M.J. Herrero, Zhaoxia Heng, and Yosef Nir for helpful discussions. This work was supported by the National Natural Science Foundation of China (NNSFC) under grant Nos.10821504,11222548,11305049 and 11135003,by Program for New Century Excellent Talents in University, and also by the ARC Center of Excellence for Particle Physics at the Tera-scale. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[1][ATLAS Collaboration], Phys. Lett. B 716 (2012) 1 [arXiv:1207.7214 [hep-ex]].   \n[2] [CMS Collaboration], Phys.Lett.B 716 (2012) 30 [arXiv:1207.7235 [hep-ex]].   \n[3] Bruno Mansoulié, talk at the Rencontres de Moriond EW 2013, On behalf of the ATLAS collaboration.   \n[4] [CMS Collaboration], CMS-PAS-HIG-13-005.   \n[5][ATLAS Collaboration]，ATLAS-CONF-2013-034.   \n[6] W. Beenakker, et al.,Phys. Rev. Lett. 87, 201805 (2001) [hep-ph/0107081]; L. Reina, S.Dawson and D. Wackeroth, Phys.Rev.D 65, 053017 (2002) [hep-ph/0109066]; W. Beenakker，et al.，Nucl. Phys.B 653,151 (2003) [hep-ph/0211352]； S. Dawson, L. H. Orr,L. Reina and D. Wackeroth, Phys.Rev. D 67, 071503(2003) [hep-ph/0211438].   \n[7] The ATLAS collaboration， ATLAS-CONF-2013-080； N. Craig， M. Park and J. Shelton, arXiv:1308.0845 [hep-ph].   \n[8] T.M. P. Tait and C.-P. Yuan,Phys. Rev. D 63,014018 (2000) [hep-ph/0007298]; F. Maltoni, K. Paul, T. Stelzer and S. Willenbrock, Phys. Rev. D 64 (2001) 094023 [hep-ph/0106293]; S.Biswas，E. Gabrielli and B. Mele， JHEP 1301 (2013) 088 [arXiv:1211.0499 [hep-ph]]; M. Farina, et al.， JHEP 1305 (2013) 022 [arXiv:1211.3736 [hep-ph]]； P. Agrawal, S. Mitra and A. Shivaji, JHEP 1312 (2013) 077 [arXiv:1211.4362 [hep-phl]； S. Biswas,E. Gabrielli, F. Margaroli and B. Mele, JHEP 07 (2013) 073 [arXiv:1304.1822 [hep-ph]].   \n[9] N. Craig, et al.， Phys. Rev. D 86, 075002 (2012) [arXiv:1207.6794 [hep-ph]; K. -F. Chen, W. -S. Hou, C. Kao and M. Kohda,Phys. Lett. B 725,378 (2013) [arXiv:1304.8037 [hepphl]; D. Atwood, S. K. Gupta and A. Soni, arXiv:1305.2427 [hep-ph]; C. Zhang and F. Maltoni,Phys. Rev.D 88,054005 (2013) [arXiv:1305.7386 [hep-ph]]； T. Han and R. Ruiz, arXiv:1312.3324 [hep-ph]; B. Yang, N. Liu and J. Han, arXiv:1308.4852 [hep-ph].   \n[10] G. Aad et al. [ATLAS Collaboration], arXiv:1403.6293 [hep-ex].   \n[11] H.E. Haber and G.L. Kane, Phys. Rept.117,75 (1985)； J. F.Gunion and H. E. Haber, Nucl. Phys. B 272,1 (1986) [Erratum-ibid. B 402, 567 (1993)].   \n[12] U. Ellwanger, C. Hugonie and A. M. Teixeira, Phys. Rept. 496,1 (2010) [arXiv:0910.1785 [hep-ph].   \n[13] see,e.g.，L. J. Hall，Y. Nomura and S. Shirai, JHEP 1301 (2013) 036 [arXiv:1210.2395 [hep-ph]]； J. Unwin，Phys.Rev.D 86(2012） 095002 [arXiv:1210.4936 [hep-ph]}； E.Arganda,J. L. Diaz-Cruz and A. Szynkman, Eur. Phys. J. C 73 (2013) 2384 [arXiv:1211.0163 [hep-ph]}； N. Arkani-Hamed,et al.，arXiv:1212.6971 [hep-ph]； E. Arganda,J. L. Diaz-Cruz and A.Szynkman，Phys. Lett.B 722 (2013） 100 [arXiv:1301.0708 [hep-ph]]； D. McKeen,M. Pospelov and A. Ritz,arXiv:1303.1172 [hep-ph]; N. Liu, L. Wu, P. W. Wu and J. M. Yang, JHEP 1301,161 (2013) [arXiv:1208.3413 [hep-ph]; A. Djouadi and J. Quevillon, arXiv:1304.1787 [hep-ph]; C. Han, et al.， arXiv:1307.3790 [hep-ph].   \n[14] H. E. Haber,et al., Phys.Rev.D 63,055004 (2001） [hep-ph/0007006].   \n[15] J.Cao,etal., JHEP 1304,134 (2013)[arXiv:1301.6437 [hep-ph].   \n[16] M. Arana-Catania, E. Arganda and M. J. Herrero, JHEP 1309,160 (2013) [arXiv:1304.3371 [hep-ph].   \n[17] T. Appelquist and J. Carazzone, Phys. Rev. D 11 (1975) 2856.   \n[18] J.A. Coarasa Perez，R. A. Jimenez and J. Sola，Phys. Lett.B 389，312 (1996) [hep-ph/9511402]; J. A. Coarasa Perez, D. Garcia, J. Guasch，R.A. Jimenez and J. Sola, Eur. Phys. J. C 2, 373 (1998) [hep-ph/9607485]; K. S. Babu and C.F. Kolda, Phys. Lett.B 451,77 (1999) [hep-ph/9811308]; J. Guasch, W. Holik and S. Penaranda, Phys. Lett. B 515, 367(2001） [hep-ph/0106027]; A. Crivellin,Phys. Rev. D 83 (2011） 056001 [arXiv:1012.4840 [hep-ph]; A. Crivellin,L. Hofer and J. Rosiek, JHEP 1107 (2011) 017 [arXiv:1103.4272 [hepphl]; A. Crivelin and C. Greub, Phys. Rev. D 87 (2013) 015013 [arXiv:1210.7453 [hep-ph]   \n[19] G.Eilam,J.L. Hewett and A.Soni,Phys.Rev. D 44,1473 (1991) [Erratum-ibid. D 59,039901 (1999)}; B. Mele, S. Petrarca and A. Soddu, Phys. Lett. B 435, 401 (1998) [hep-ph/9805498]; J. L. Diaz-Cruz, et al. \"Flavor-changing radiative decay of the t quark.” Phys.Rev. D41 (1990) 891-894.   \n[20] J.Cao，G.Eilam，K. -i. Hikasa and J. M. Yang，Phys. Rev.D 74，031701 (2006) [hep-ph/0604163].   \n[21] J. Cao,et al., Phys. Rev. D 75, 075021 (2007) [hep-ph/0702264].   \n[22] Y. Wang, F. P. Huang, C. S. Li, B.H. Li, D. Y. Shao and J. Wang, Phys. Rev. D 86 (2012) 094014 [arXiv:1208.2902 [hep-phl];； J. M. Yang, C. S.Li, Physical Review D,1994, 49(7） 3412； J. Cao,L. Wang, L. Wu and J. M. Yang, Phys.Rev. D 84, 074001 (2011) [arXiv:1101.4456 [hep-phl}; J. Cao, Z. Heng, L. Wu and J. M. Yang, Phys. Rev. D 81, 014016 (2010）[arXiv:0912.1447 [hep-ph]].   \n[23] M. Blanke,et al.， JHEP 1306,022 (2013) [arXiv:1302.7232 [hep-ph]].   \n[24] See,e. g.,S. Dimopoulos, D. Sutter,Nucl. Phys. B 452,496 (1996); F. Gabbiani, et al., Nucl. Phys.B 477, 321 (1996)；M. Misiak, S. Pokorski, J. Rosiek, hep-ph/9703442.   \n[25] K.Hikasa and M. Kobayashi，Phys.Rev. D 36, 724 (1987)； S. Bertolini, F. Borzumati, A. Masiero and G. Ridolfi, Nucl. Phys. B 353, 591 (1991); K. I. Izawa, Y. Nomura, K. Tobe and T. Yanagida, Phys.Rev. D 56, 2886 (1997) [hep-ph/9705228].   \n[26] S.Heinemeyer，W. Hollik, F.Merz and S. Penaranda， Eur. Phys. J. C 37,481 (2004) [hep-ph/0403228].   \n[27] M. Frank, et al. JHEP 0702, 047 (2007) [hep-ph/0611326]; G. Degrasi, et al., Eur. Phys. J. C 28,133 (2003) [hep-ph/0212020]; S. Heinemeyer,W. Holik and G. Weiglein,Eur. Phys. J. C 9,343 (1999) [hep-ph/9812472]; S. Heinemeyer,W. Hollik and G. Weiglein, Comput. Phys. Commun.124,76 （2000） [hep-ph/9812320].   \n[28] G.Aad et al.[ATLAS Collaboration]，JHEP 1310,130(2013）[arXiv:1308.1841 [hep-ex]}; G. Aad et al. [ATLAS Collboration], arXiv:1402.7029 [hep-ex]; G. Aad et al. [ATLAS Collaboration], arXiv:1403.5294 [hep-ex]; G. Aad et al. [ATLAS Collaboration],arXiv:1403.4853 [hep-ex]; S. Chatrchyan et al. [CMS Collaboration],arXiv:1402.4770 [hep-ex]; S. Chatrchyan et al. [CMS Collaboration],arXiv:1311.4937 [hep-ex]; S. Chatrchyan et al. [CMS Collaboration],Eur. Phys. J. C 73,2677 (2013) [arXiv:1308.1586 [hep-ex]]; CMS Collaboration [CMS Collaboration], CMS-PAS-SUS-13-006; CMS Collaboration [CMS Collaboration], CMS-PASSUS-12-022.   \n[29] See,e.g.，J. Cao,et al.， JHEP 1211,039 (2012) [arXiv:1206.3865 [hep-ph]; C. Han, et al., JHEP 1310, 216 （2013） [arXiv:1308.5307 [hep-ph].   \n[30] R.Mahbubani, et al.,Phys.Rev.Lett.110, no.15,151804 (2013) [arXiv:1212.3328 [hep-ph]].   \n[31] J. -h. Park, Phys.Rev.D 83,055015 (2011) [arXiv:1011.4939 [hep-ph].   \n[32] D. Chowdhury, R. M. Godbole,K.A. Mohan and S. K. Vempati, arXiv:1310.1932 [hep-ph].   \n[33] M. Baak, et al., arXiv:1310.6708 [hep-ph].   \n[34] Y. Amhis et al. [Heavy Flavor Averaging Group Collaboration], arXiv:1207.1158 [hep-ex].   \n[35] J. Rosiek,hep-ph/9511250.   \n[36] G.Passarino and M. J.G. Veltman， Nucl. Phys.B 160,151 (1979)；G.'t Hooft and M. J.G. Veltman,Nucl. Phys. B 153,365 (1979).   \n[37] J. Guasch,In $^ *$ Barcelona 1997, Quantum effects in the minimal supersymmetric standard model\\* 256-265 [hep-ph/9710267]； J. Guasch and J. Sola, Nucl. Phys.B 562，3 (1999) [hep-ph/9906268]; J. Guasch and J. Sola, hep-ph/9909503.   \n[38] D.Das, U. Ellwanger and A. M. Teixeira, JHEP 1204,067 (2012) [arXiv:1202.5244 [hep-ph].   \n[39] K. Agashe et al.[Top Quark Working Group Collaboration],arXiv:1311.2028 [hep-ph].   \n[40] M. Bicer et al. [TLEP Design Study Working Group Collaboration], JHEP 1401,164 (2014) [arXiv:1308.6176 [hep-ex]].   \n[41] M. S. Carena, D. Garcia, U. Nierste and C. E. M. Wagner, Nucl. Phys. B 577, 88 (2000) [hep-ph/9912516]; J. Guasch，P. Hafliger and M. Spira,Phys. Rev.D 68，115001 (2003) [hep-ph/0305101]. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

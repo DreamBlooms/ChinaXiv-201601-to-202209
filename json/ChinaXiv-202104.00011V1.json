@@ -1,0 +1,299 @@
+[
+    {
+        "type": "text",
+        "text": "黄花倒水莲生长与内源激素水平动态变化关系研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张玉仙¹，唐 辉2.3，黄夕洋2，刘宝玉2.3，李文兰1\\*广西大学 生命科学与技术学院/亚热带农业生物资源保护与利用国家重点实验室，南宁 530004；2.广西壮族自治区中国科学院广西植物研究所，广西 桂林 541006;3.广西植物功能物质研究与利用重点实验室，广西 桂",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林 541006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：为探索黄花倒水莲春梢生理生化特性的差异以及不同内源激素的变化规律，该文对黄花倒水莲春梢的生长动态进行监测，采用间接酶联免疫吸附法（ELISA)测定脱落酸（ABA）、生长素（IAA）、赤霉素（GA）、乙烯（ETH）和玉米素核苷（ZR）五种内源激素含量的动态变化，并对两者间的相关性进行分析。结果表明：黄花倒水莲春梢生长发育过程可分为快速增长期（0\\~12d）、生长转折期（16\\~20 d）和缓慢增长期（24\\~32d）三个阶段。内源激素 ABA、GA、ETH和 ZR 含量在缓慢增长期显著高于快速增长期和生长转折期，IAA含量各时期差异较小。相关性研究结果发现，春梢长、底部叶长和叶宽在快速增长期与ABA、GA、ETH和 ZR 含量呈负相关，且与 ZR 含量具有一定显著性，与IAA含量呈正相关；生长转折期，各指标与GA、ETH和 ZR含量呈正相关，与GA含量具有一定显著性，与 ABA 含量呈负相关；缓慢增长期，各指标与五种内源激素含量均呈正相关，与IAA 和 ZR含量具有一定显著性。该研究结果为生产上利用外源激素调控黄花倒水莲春梢抽出以及生长提供了理论基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：春梢，生长变化，内源激素，含量变化，相关性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：Q945；S685 文献标识码：A ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on the relationship between the growth of spring shoots and the dynamic changes of endogenous hormones in Polygala fallax ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yuxian1， TANG Hui2.3，HUANG Xiyang2.3，LIU Baoyu2.3，LI Wenlant (1.CollegeofLife SciencesandTechnology,Guangxi UniversitylState KeyLaboratoryfor Conservationand Utilizationof Subtropical Agro-bioresources,Nanning 53oo04,China; 2.Guangxi Institute of Botany,Guangxi Zhuang Autonomous Region and Chinese Academy ofSciences,Guilin 54106,Guangxi,China;3.Guangxi KeyLaboratoryofFunctional Phytochemicals Research and Utilization,Guilin 541oo6,Guangxi, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to explore the difference of physiological and biochemical characteristics of spring shoots and the change rule of different endogenous hormones in Polygala fallax.The growth dynamics of spring shoots were monitored,and the contents of abscisic acid (ABA),auxin (IAA), gibberelin (GA), ethylene (ETH) and zeatin nucleoside (ZR） were determined by indirect enzyme-linked immunosorbent assay (ELISA) Change. The results were as folows: The growth and development of the spring shoots of $P$ fallax could be divided into rapid growth stage (0-12 d), growth transition stage (16-2O d) and slow growth stage (24-32 d). The contents of endogenous hormones ABA, GA,ETH and ZR in slow growth period were significantly higher than those in fast growth period and growth transition period,and the difference of IAA contents in each period was small. The correlation study showed that the spring shoot length, bottom leaf length and width were negatively correlated with ABA, GA,ETHand ZR contents in the rapid growth period,and were significantly correlated with ZR content, and positively correlated with IAA content. At the growth transition stage,each index was positively correlated with GA,ETH and ZR contents,and was significantly correlated with GA content,but negatively correlated with ABA content. During the period of slow growth，each index was positively correlated with the contents of five endogenous hormones,and was significantly correlated with the contents of IAA and ZR.The results provide a theoretical basis for the use of exogenous hormones to regulate the spring shoot extraction and growth of P. fallax. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: spring shoot, growth change, endogenous hormone, content changes, correlation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄花倒水莲（Polygala fallax）为远志科远志属灌木或小乔木，主要分布在我国桂、赣、湘、闽、粤和云等省区（袁茂琴等，2012），是广西瑶族著名的药食同源道地药材。我国黄花倒水莲以野生资源为主，近年来由于市场需求的快速增长，人们过度采挖导致黄花倒水莲野生资源大量减少，再以及全球气候变暖，外界环境越来越不适于野生黄花倒水莲的生长，使得其原始生境不断缩小。目前，黄花倒水莲由于人工栽培发芽率低、扦插成活困难，其物种延续主要依赖于自然繁殖。因此，为保护现存黄花倒水莲野生种质资源使其能够可持续地开发利用，引种驯化、规模化种植等相关研究的开展显得格外重要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物内源激素作为植物重要的信号分子，通过调控植物的生长发育和调节自身生长状态以适应不同的环境（石海燕等，2007；Bari&Jones,2009；高庆玉等，2015），对提升植物产量和品质具有重要作用（Ahmad etal.,2019）。相关报道对植株生长发育过程中的内源激素动态变化规律进行研究发现，植株体内激素与植株的生长发育密切相关，主要通过内源激素含量及其比值变化进行综合调控（郑凯和丁久玲，2016；高晓峰等，2016；丁久玲等，2017；丁苏芹等，2019）。实际生产中，植物激素已在各类作物栽培的化学调控和组培等方面得到广泛应用。赵洁（2016）研究表明使用植物激素能够有效提高远志种子的出苗率和有效成分的积累。杨国等（2016）研究了不同植物生长调节剂对黄花倒水莲不同外植体不定芽诱导的影响，结果表明添加植物激素有利于诱导茎段和胚轴不定芽的产生。罗万业等（2012）和刘秀芳等（2012）研究发现，不同类型及不同浓度配比的植物激素对黄花倒水莲发芽、生根和成活率具有重要的影响。但关于黄花倒水莲内源激素含量变化规律方面的研究较少，仅在利用植物激素进行组培方面取得一定研究进展。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黄花倒水莲枝干、叶的生长主要在抽梢期，春梢的生长状况决定了植株的产量。因此，该试验对黄花倒水莲春梢及其底部叶片的生长特性和该过程中各内源激素含量的动态变化规律进行研究，以期从生长过程中内源激素动态变化角度阐明黄花倒水莲春梢的生理生化变化特征，明确各内源激素对黄花倒水莲春梢不同生长阶段的影响，为生产上利用外源激素人工调控黄花倒水莲生长、提高其质量等研究提供理论基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 供试材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试材料为种植于中国科学院广西植物研究所特色经济植物研究中心试验大棚内的2年生长势良好的黄花倒水莲植株。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1生长动态监测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于黄花倒水莲春梢抽出盛期，随机挂牌标记长势一致的春梢12个。自挂牌日起每间隔4d测量并记录春梢长度及其最底部第一张叶片的长和宽，同时采集其底部第二张叶片置于冰盒带回， $- 8 0 ~ ^ { \\circ } \\mathrm { C }$ 保存用于内源激素含量的测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2内源激素的提取与测量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考覃喜军等（2010）的方法，采用间接酶连免疫吸附法测定脱落酸（ABA）、生长素（IAA）、赤霉素（GA）、乙烯（ETH）和玉米素核苷（ZR）五种内源激素含量。（1）准确称取 $0 . 3 \\ \\mathrm { g }$ 上述冻存样品，分批加入 $1 \\mathrm { m L } 8 0 \\%$ 甲醇样品提取液3次，冰浴研磨成匀浆， $4 ^ { \\circ } \\mathrm { C }$ 浸渍提取 $^ { 4 \\mathrm { h } }$ 后于相同温度下 $1 \\ 0 0 0 \\ \\mathrm { r } { \\cdot } \\mathrm { m i n } ^ { - 1 }$ 离心 $1 5 ~ \\mathrm { m i n }$ ，抽取上清液。在沉淀中加 $1 ~ \\mathrm { m L }$ 提取液摇匀后再次于浸提 $^ \\textrm { \\scriptsize 1 h }$ ，离心后抽取上清液，合并上清液并记录体积，弃去底部沉淀物。每份样品重复3组。（2）提取好的上清液按照试剂盒的说明书操作，酶标仪测定标准品和各样品在 $4 5 0 \\mathrm { n m }$ 处的OD值，根据标准曲线计算各内源激素含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用 IBM SPSS Statistics 19 软件对黄花倒水莲春梢生长以及 ABA、IAA、GA、ETH和 ZR 五种内源激素含量间的相关关系进行设计分析。春梢长、底部叶片长和叶宽分别设为自变量，五种内源激素含量设为因变量，分析两变量间是否具有相关性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用IBMSPSSStatistics19 软件对数据进行处理和方差分析，Excel软件绘图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1黄花倒水莲春梢生长动态变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经观察发现黄花倒水莲春梢生长至32d时最底部叶片已发育完全接近成熟叶，此时梢长的平均长度为 $2 1 . 4 3 ~ \\mathrm { c m }$ ，底部叶片的平均长、宽分别为10.43、 $4 . 3 3 \\mathrm { c m }$ 。因此春稍生长特性试验以0\\~32d为期限。由表1可知，黄花倒水莲梢长的生长速度显著快于底部叶片，梢长、叶长和叶宽随生长天数显著增加，且不同生长阶段间差异显著，说明春梢的生长变化在32d内表现出显著差异。各测定指标的生长动态基本一致，0\\~12d时，梢长、叶长和叶宽均生长迅速，表现出高增长率。其中：0\\~4d 时，梢长和叶长的增长量出现最大值；8\\~12d时，叶宽增长量出现最大值，且增长量动态均表现为上升-下降-上升的变化过程；16d时，三个指标的增长急剧变慢，表现出低增长率； $2 0 \\mathrm { d }$ 时，各指标增长量与16d接近，说明该阶段是春梢生长过程中的重要转折期；24\\~32d时，三个指标的增长逐渐变慢，增长量动态均表现为下降的变化过程， $3 2 \\mathrm { d }$ 达到最小值，说明此时春梢生长接近完全。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据黄花倒水莲春梢不同生长阶段的特性分析和动态变化可知，整体上黄花倒水莲春梢生长特性变现为前期增长快速，中期增长急剧变慢，后期增长缓慢，增长一段时间后生长基本完成。因此，春梢生长过程可分为快速增长期（0\\~12d）、生长转折期（16\\~20d）和缓慢增长期（24\\~32d）三个变化时期。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/11f28e20bebe2c6c5d69087b44b13a75a77d37de4abe09a1945a20207b9b0927.jpg",
+        "table_caption": [
+            "表1黄花倒水莲春梢生长动态测定值",
+            "Table 1 Dynamic values of spring shoots growth of Polygala fallax "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\"></td><td>春梢长度增 底部叶片长度增</td><td>底部叶片宽度增</td></tr><tr><td>生长天数</td><td>春梢长度</td><td>底部叶片长</td><td>底部叶片宽</td><td>长量</td><td>长量</td><td>长量</td></tr><tr><td>Growth days</td><td>Spring shoot</td><td>Bottom leaf</td><td>Bottom leaf</td><td>Growth rate of</td><td>Growth rate of</td><td>Growth rate of</td></tr><tr><td>(d)</td><td>length (cm)</td><td>length (cm)</td><td>width (cm)</td><td>spring shoot length (%)</td><td>bottom leaf length (%)</td><td>bottom leaf width (%)</td></tr><tr><td>0</td><td>2.49±0.01g</td><td>1.59±0.02g</td><td>0.59±0.15f</td><td></td><td></td><td></td></tr><tr><td>4</td><td>5.12±0.21f</td><td>3.54±0.15f</td><td>0.90±0.04f</td><td>120.99</td><td>113.77</td><td>50.00</td></tr><tr><td>8</td><td>6.31±0.27f</td><td>4.58±0.13e</td><td>1.37±0.04e</td><td>19.18</td><td>26.89</td><td>45.63</td></tr><tr><td>12</td><td>9.58±0.51e</td><td>5.86±0.23d</td><td>2.32±0.06d</td><td>48.44</td><td>48.43</td><td>55.33</td></tr><tr><td>16</td><td>11.13±0.62e</td><td>6.38±0.25d</td><td>2.52±0.07d</td><td>18.63</td><td>6.63</td><td>6.63</td></tr><tr><td>20</td><td>13.31±0.61d</td><td>7.49±0.20c</td><td>3.04±0.14c</td><td>18.01</td><td>17.12</td><td>24.00</td></tr><tr><td>24</td><td>16.04±0.66c</td><td>8.91±0.36b</td><td>3.71±0.19b</td><td>20.53</td><td>18.19</td><td>24.84</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b7a3b9f9caf3650d9aca3de74ec84f0cf76bca16c589f534c612d0646b351fa.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：同列不同小写字母表示在0.05 水平上差异显著。下同。 Note: Diferent lowercase leters in the same column indicate significant diferences at O.O5 level.The same below. "
+        ],
+        "table_body": "<html><body><table><tr><td>28</td><td>18.62±0.88b</td><td>9.95±0.45a</td><td>4.07±0.24ab</td><td>16.22</td><td>12.70</td><td>8.53</td></tr><tr><td>32</td><td>21.46±1.19a</td><td>10.62±0.43a</td><td>4.20±0.25a</td><td>15.03</td><td>3.99</td><td>3.10</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2黄花倒水莲春梢内源激素含量的动态变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "黄花倒水莲春梢抽出至生长完全前后三个时期，ABA、IAA、GA、ETH和ZR五种植物内源激素含量的动态变化如表2所示。由表2可知，黄花倒水莲春梢整个生长期，各内源激素动态变化表现如下：内源激素 ABA、IAA和ETH含量变化趋势相似，快速增长期和生长转折期均表现为\"下降-上升\"趋势，缓慢增长期基本保持上升趋势，ABA和 ETH含量在0、32d的含量差异较大，IAA 含量差异较小；GA含量整体呈\"下降-上升\"趋势变化，接近生长完全时出现下降趋势，0、32d的含量差异较小；ZR含量呈\"W形\"趋势变化，快速增长期开始持续降低至16d后上升，缓慢增长期先降低后上升，0、32d的含量差异也较小。整体上，ABA、IAA和ETH含量在黄花倒水莲春梢生长过程中波动频率较大，GA 和 ZR 含量波动频率较小。此外，GA 和ETH含量于快速增长期出现最小值，ABA、IAA和 ZR含量的最小值出现在生长转折期；IAA含量的最大值出现在快速增长期，而其他四种内源激素含量的最大值均出现在缓慢增长期。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结合春梢生长特性和内源激素动态变化发现，春梢抽出至生长完全的32d内，内源激素 ABA、GA、ETH 和 ZR 含量在缓慢增长期显著高于快速增长期和生长转折期，波动幅度较大，而IAA 含量各时期差异不显著且波动幅度较小。该研究结果表明，快速增长期和生长转折期较低水平而缓慢增长期较高水平的 ABA、GA、ETH和 ZR 含量，以及始终维持在较低水平的IAA含量有利于春梢生长发育，五种内源激素在春梢生长完全的整个时期中具有重要调控作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/05baa2fcfc27473004440dc9fe8d807bf7d9af8a1db377d81b974d515c51df2e.jpg",
+        "table_caption": [
+            "表2黄花倒水莲春梢叶片内源激素水平动态变化",
+            "Table 2 Dynamics changes of endogenous hormone levels in spring shoots of Polygala fallax "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生长天数</td><td>ABA含量</td><td>IAA含量</td><td>GA含量</td><td>ETH含量</td><td>ZR含量</td></tr><tr><td>Growth</td><td>Content of ABA</td><td>Content of</td><td>Content of GA</td><td>Content of ETH</td><td>Content of ZR</td></tr><tr><td>day (d) 0</td><td>(ng·g-1） 674.32±87.71cd</td><td>IAA(ng·g-1) 30.78±3.53bc</td><td>(ng·g-1) 1 334.28±163.67ab</td><td>（ng.g-1） 719.55±124.47b</td><td>（ng;g-1） 81.56±12.68abc</td></tr><tr><td>4</td><td>566.16±28.35cd</td><td>26.15±2.85bc</td><td>595.01±136.69ab</td><td>513.76±111.07b</td><td>62.00±6.24bcd</td></tr><tr><td>8</td><td>657.05±112.96cd</td><td>34.51±3.86a</td><td>460.01±121.08b</td><td>577.10±107.17b</td><td>52.08±6.9cd</td></tr><tr><td>12</td><td>741.58±24.74bc</td><td></td><td>625.01±127.83ab</td><td>827.26±115.88b</td><td>47.90±4.61cd</td></tr><tr><td>16</td><td></td><td>34.87±2.95a</td><td></td><td></td><td></td></tr><tr><td></td><td>432.55±94.62d</td><td>24.11±1.08c</td><td>667.86±66.81ab</td><td>523.24±38.45b</td><td>43.81±4.72d</td></tr><tr><td>20</td><td>613.43±24.74cd</td><td>33.36±4.61bc</td><td>742.86±69.86ab</td><td>888.06±108.18ab</td><td>77.08±7.43abcd</td></tr><tr><td>24</td><td>743.40±56.24bc</td><td>28.29±2.88bc</td><td>935.72±83.52ab</td><td>799.46±99.68b</td><td>57.14±10.63bcd</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7acbb027d1b9833d14e984e30164044af80d34714a21f743c9875cbdd89b7b02.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>28</td><td>1 113.32±172a</td><td>28.82±1.69bc</td><td>1 422.14±158.1a</td><td>1 113.91±140.1ab</td><td>88.17±9.71ab</td></tr><tr><td>32</td><td>972.44±62.7ab</td><td>29.98±2.7bc</td><td>1 225.00±86.99ab</td><td>1 406.27±64.76a</td><td>109.86±10.12a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3春梢生长与内源激素含量的相关性分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "相关性分析结果表明，黄花倒水莲春梢快速增长期，春梢长、底部叶片长和底部叶片宽与ABA、GA、ETH和 ZR含量呈负相关，且梢长和叶长与ZR 含量相关性显著，与IAA含量呈正相关；生长转折期，各指标与GA、ETH和 ZR含量呈正相关，梢长和叶长与GA含量相关性显著，与ABA 含量呈负相关，梢长与IAA含量呈负相关；缓慢增长期，各指标与五种内源激素含量均呈正相关，梢长与IAA含量、叶长与ZR含量显著相关（表3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/84b9e81e81867fbea30b0dd83c715761456131bd6622f4e375697d8bf97b1103.jpg",
+        "table_caption": [
+            "表3春梢生长与内源激素含量的相关性分析结果",
+            "Table 3 Correlation analysis results between the growth of spring shoots and endogenous hormone levels "
+        ],
+        "table_footnote": [
+            "注：\\*\\*表示在0.01水平（双侧）上显著相关；\\*表示在0.05水平（双侧）上显著相关。 Note:\\*\\*represents extremelysignificantcorelationat0.1level(blateral); \\*representssignificant correlationat.05evel (bilateral). "
+        ],
+        "table_body": "<html><body><table><tr><td>生长时期</td><td>指标</td><td>ABA含量</td><td>IAA含量</td><td>GA含量</td><td>ETH含量</td><td>ZR含量</td></tr><tr><td>Growth period</td><td>Index</td><td>ABA content</td><td>IAA content</td><td>GA content</td><td>ETH content</td><td>ZR content</td></tr><tr><td>快速增长期</td><td>春梢长</td><td>-0.356</td><td>0.245</td><td>-0.986</td><td>-0.817</td><td>-1.000*</td></tr><tr><td>Rapid growth</td><td>Spring shoot length</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>stage</td><td>底部叶片长</td><td>-0.318</td><td>0.284</td><td>-0.979</td><td>-0.793</td><td>-1.000**</td></tr><tr><td></td><td>Bottom leaf length 底部叶片宽</td><td>-0.031</td><td>0.548</td><td>-0.879</td><td>-0.584</td><td></td></tr><tr><td></td><td>Bottom leaf width</td><td></td><td></td><td></td><td></td><td>-0.954</td></tr><tr><td>生长转折期</td><td>春梢长</td><td>-0.322</td><td>-0.033</td><td>0.998*</td><td>0.251</td><td></td></tr><tr><td>Growth</td><td>Spring shoot length</td><td></td><td></td><td></td><td></td><td>0.858</td></tr><tr><td>transition</td><td>底部叶片长</td><td>-0.218</td><td>0.076</td><td>0.999*</td><td>0.354</td><td></td></tr><tr><td>stage</td><td>Bottom leaf length</td><td></td><td></td><td></td><td></td><td>0.909</td></tr><tr><td></td><td>底部叶片宽</td><td>-0.173</td><td>0.121</td><td>0.995</td><td>0.396</td><td></td></tr><tr><td></td><td>Bottom leaf width</td><td></td><td></td><td></td><td></td><td>0.927</td></tr><tr><td>缓慢增长期</td><td>春梢长</td><td>0.591</td><td>0.983</td><td>0.569</td><td>0.999*</td><td>0.992</td></tr><tr><td>Slow growth</td><td>Spring shoot length</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>stage</td><td>底部叶片长</td><td>0.707</td><td>0.944</td><td>0.687</td><td>0.995</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000*</td></tr><tr><td></td><td>Bottom leaf length</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>底部叶片宽</td><td>0.799</td><td>0.889</td><td>0.782</td><td>0.970</td><td>0.987</td></tr><tr><td></td><td>Bottom leaf width</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "该研究黄花倒水莲春梢生长过程中 ABA、GA、ETH 和 ZR 含量变化幅度较大，且春梢生长基本完成时，ABA和GA含量处于下降趋势，ETH和ZR含量处于上升趋势，IAA含量趋于平缓上升，说明春梢生长过程中受不同种类内源激素的综合调控，该变化趋势将有利于黄花倒水莲植株进一步的伸长和其他器官组织的生长发育。类似的，张宁等（2019）研究发现低浓度的ABA有利于麻楝不定根的形成与伸长、同时较低水平的IAA和GA对根系伸长生长有益；王青等（2020）研究发现高水平的ZR 能够促进文冠果花芽分化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "植物生长过程中，内源激素的含量变化发挥重要的调节作用。其中，IAA 大多分布在嫩叶、茎尖和根尖等生长旺盛的植物组织内部，符合极性运输的规律；GA和 ZR多合成于茎尖、根尖和发育中的果实等植物组织部位，其运输不具有极性，三者均为能够促进生长的化学物质（段娜等，2015）；ABA 和 ETH为生长抑制型激素。本研究发现黄花倒水莲春梢快速增长期，春梢长、底部叶片长和底部叶片宽与GA和ZR均呈负相关；生长转折期春梢长与IAA含量呈负相关，说明内源激素GA和 ZR、IAA分别在快速增长期和生长转折期对黄花倒水莲春梢生长促进作用不明显甚至有抑制生长的作用。生长转折期各指标与ETH含量呈正相关，缓慢增长期与ABA和ETH含量均呈正相关，说明这两个时期 ABA和ETH对黄花倒水莲春梢生长具有促进作用，与刘海楠等（2020）和 Mendes etal.（2017）的研究结果相似。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "张照喜等（2005）的研究发现增加曼地亚红豆杉枝干的产量可以培育大径级苗木。欧建德等（2014）对黄花倒水莲种群的生殖构件进行表型可塑性研究发现黄花倒水莲的生殖构件与根茎器官的生物量分配呈现负相关。预期在黄花倒水莲的人工栽培和推广中，可通过使用外源激素调控抑制其春稍或生殖器官的发育来促进根茎的生长和增大增粗，从而有利于提高黄花倒水莲根部的利用率和药用价值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述，各内源激素的含量动态变化对春梢的生长具有重要的调控功能，其作用机理和有效的浓度及配比，还有待进一步深入研究。此外，该研究仅通过对黄花倒水莲的春梢生长及五种内源激素含量动态变化进行了初步分析，因此有必要进一步开展利用外源激素调控黄花倒水莲生长的相关试验，从而更准确调控黄花倒水莲各器官组织在不同时期的生长，实现黄花倒水莲的高效生产，为经济药用植物黄花倒水莲的推广应用、产品开发等带来优势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AHMAD I, KAMRAN M, MENG X, et al.， 2019. Effects of plant growth regulators on seed filling, endogenous hormone contents and maize production in semiarid regions[J]. J Plant Growth Regul,   \n38(4): 1467-1480. BARI R,JONES JDG,20O9.Role of plant hormones in plant defence responses[J]. Plant Mol Biol, 69(4):   \n473-488. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DING SQ, YAN Z,LI X, et al.， 2019. Study on the changes of endogenous hormones during bulbdevelopment in Freesia hybrida[J].JAgric Sci Technol,21(9): 51-57.[丁苏芹，晏姿， 李玺，等,2019．香雪兰球茎发育的内源激素变化规律研究[J]．中国农业科技导报，21（9）：51-57.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DING JL, ZHENG K, YU LS,et al., 2017. Analysis of endogenous hormone content during tiler buddevelopment of Tillandsia stricta[J]. Jiangsu Agric Sci,45 (9): 121-122.[丁久玲，郑凯，俞禄生，等，2017．空气凤梨分蘖芽发育过程中内源激素含量变化分析[J].江苏农业科学，45（9）：121-122.]  \nDUAN N,JIA YK, XU J, et al., 2015. Research progress on plant endogenous hormones [J]. Chin AgricSci Bull,31(2):159-165.[段娜，贾玉奎，徐军，等，2015．植物内源激素研究进展[J]．中国农学通报，31（2）：159-165.]  \nGAO XF, LV X, WU YQ, et al., 2016. Endogenous hormone content changes during newborn Cremastrapseudobulbl development[J].JMt Agric Biol,35(2): 34-39.[高晓峰，吕享，吴彦秋，等，2016．杜鹃兰假鳞茎发育中内源激素的含量变化[J]．山地农业生物学报，35（2）：34-39.]  \nGAO QY, YAN C, ZHANG BX, et al., 2015. Changes of endogenous hormone content during the growthof raspberry leaf[J].Hubei Agric Sci,54 (24): 6280-6283.[高庆玉，闫超，张丙秀，等，2015．树莓叶片生长过程中内源激素含量变化初步研究[J]．湖北农业科学，54（24）：6280-6283.]  \nLIU HN, GU Y, SUN HY, et al., 2020. Changes of endogenous hormone contents in various organs ofblueberry cultivar‘Northland' during its development[J]. Chin fruits,(1): 53-58.[刘海楠，谷雨，孙海悦，等，2020.越橘品种‘北陆'各器官发育过程中内源激素含量变化研究[J].中国果树，（1）：53-58.]  \nLIU XF,LIN WG, SU MH, et al.,2012. Study on tissue culture tachniques for Polygala fallax Hemsl [J].Seeds,31(2): 57-59.[刘秀芳，林文革，苏明华，等，2012.黄花倒水莲（Polygala fallax Hemsl)组培快繁技术研究[J]．种子，31（2）：57-59.]  \nLUO WY,WEI JQ, CAI ML, et al., 2012. The study on tissue culture and rapid propagation seedlingtechnology of Polygala aureocauda Dunn[J]. Agric Technol Serve,29 (12): 1335-1336.[罗万业，魏锦秋，蔡梅玲，等，2012．黄花倒水莲组培快繁育苗技术研究[J]．农技服务，29（12）：1335-1336.]  \nMENDES LDS, CARVALHO MEA, MACEDO WR, et al.， 2017. In vitro development of sugarcaneseedlings using ethephon or gibberellin[J]. Comm Sci, 8(2), 389-395.  \nOU JD,2014.Phenotypic plasticity and regulations of reproductive modules on Polygala falax Hemsl.population in the Fujian Mountains Habitat[J]. Chin Agric Sci Bull,30 (19):157-160.[ 欧建德，2014.福建山区生境黄花倒水莲生殖构件表型可塑性及变化规律[J].中国农学通报，30（19）：157-160.]  \nQIN XJ，Huang XY,Jiang SY,et al.，2O10. Changes in endogenous hormones during floral buddifferentiation of Siraitia grosvenorii (Swingle) C. Jeffrey [j]. Plant Physiol J,46 (9): 939-942.[覃喜军,黄夕洋，蒋水元，等，2010.罗汉果花芽分化过程中内源激素的变化[J]．植物生理学通讯，46(9):939-942.]  \nSHI HY, GUO J, ZHOU Y, et al., 2007. The relationship between gibberelin and abscisic acid in plantdevelopment[J].Cent Chin Norm Univ JPostgrad,(1):138-142.[石海燕，郭靖，周颖，等，2007．赤霉素和脱落酸在植物生长发育中相互关系的研究进展[J].华中师范大学研究生学报，（1）：  \n138-142.]WANG Q, ZHANG J, ZHONG CL, et al.,2O20. Variation of endogenous hormones and nutrient matterconcentration in Chukrasia tabularis cuttings during rooting[J]. J Cent S Univ For & Technol, 40 (4):  \n111-119.[王青，张捷，仲崇禄，等，2020．麻楝扦插生根进程中内源激素和营养物质含量的变化[J]．中南林业科技大学学报，40（4）：111-119.]YANG G,LUO J, MO YW,et al., 2016. Tissue culture and rapid propagation in vitro of Polygala fallax[J].Plant PhysiolJ,52 (3):349-355.[杨国，罗洁，莫亿伟，等，2016.黄花倒水莲的组织培养和快速繁殖[J]．植物生理学报，52（3）：349-355.]YUAN MQ, YANG JW,WANG DJ, et al., 2012. A preliminary study on the distribution of medicinalplant resources of Polygala in Southeast of Guizhou [J].Seed,31(7): 65-66.[袁茂琴，杨加文，王定江，等，2012．黔东南远志属（Polygala)药用植物资源分布的初步研究[J]．种子，31（7）：65-66.]ZHAO J,2O16. Effects of salicylic acid on physiological and biochemical composition of main activeingredients of Polygala tenuifolia Willd [D]. Xi'an: Northwest University.[赵洁，2016.水杨酸对远志生理生化及主要药效成分的影响[D]．西安：西北大学.]ZHANG N,HUANG Y，AO Y，et al.，2019. Flower bud differentiation and dynamic changes ofendogenous hormones in Xanthoceras sorbifolia[J]. JNanjing For Univ (Nat Sci Ed),43 (4): 33-42.[张宁，黄曜曜，敖妍，等，2019．文冠果花芽分化过程及内源激素动态变化[J]．南京林业大学学报(自然科学版)，43（4）：33-42.]ZHANG ZX,YU H,DU HT,et al.,2O05. A study on the relationship between sten diameter and thegrowth factors of branch of Taxus media[J].Wuyi Sci J,21:47-51.[张照喜，喻泓，杜化堂，等，2005.曼地亚红豆杉径枝生长关系研究[J]．武夷科学，21：47-51]ZHENG K, DING JL,2016. Analysis of endogenous hormone content during tillering bud development ofair pineapple Tillandsia velutina[J]. J Zhejiang Agric Sci, 57 (11): 1869-1871.[郑凯和丁久玲，2016.空气凤梨Tillndsia velutina分蘖芽发育过程中内源激素含量变化分析[J].浙江农业科学,57（11)：  \n1869-1871.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

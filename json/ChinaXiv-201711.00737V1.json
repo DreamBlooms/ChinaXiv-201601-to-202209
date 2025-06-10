@@ -1,0 +1,501 @@
+[
+    {
+        "type": "text",
+        "text": "含钒蛋黄粉对大鼠生长、氧化应激状态及其相关基因表达的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "崔仁勇 王建萍 张克英\\*丁雪梅 曾秋凤 白世平 罗玉衡（四川农业大学动物营养所，教育部抗病营养重点实验室，雅安625014）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：钒是一种重金属,过量的摄入会造成蛋鸡氧化应激，降低鸡蛋品质并残留到鸡蛋中，影响鸡蛋的安全。本研究主要通过给大鼠饲喂含钒的蛋黄粉，考察其对大鼠生长性能、氧化应激状态及相关基因表达的影响，为评价钒（有机钒）的生物安全性提供依据。选用27只4 周龄雌性Wistar大鼠单笼饲养，设3个处理，每个处理9只，分别在饲粮中添加 $6 0 0 ~ \\mathrm { g / k g }$ 采食3种钒水平（0、5和 $1 0 \\ \\mathrm { m g / k g }$ ）饲粮的蛋鸡所产鸡蛋制备的蛋黄粉。经实测，3种饲粮分别含钒0.107、0.137和 $0 . 1 6 4 \\mathrm { m g / k g }$ 。试验期 $3 5 \\mathrm { d }$ 。结果表明：3个处理大鼠生长性能、器官指数，血浆甘油三酯、丙二醛（MDA）、尿素氮含量及谷丙转氨酶（ALT）、谷草转氨酶（AST）活性，肝脏、肾脏超氧化物歧化酶活性、MDA含量、总抗氧化能力，肝脏 ALT、AST 活性、谷胱甘肽含量和谷胱甘肽巯基转移酶活性，以及肝脏、肾脏组织结构、肾脏钒残留量均无显著差异 $( P { > } 0 . 0 5 )$ )。与处理1相比，处理2、3大鼠肝脏醌氧化还原酶1（NQO1）活性显著下降（ $P { < } 0 . 0 5 )$ ，NQO1和和核因子E2相关因子2mRNA相对表达量也显著下降（ $P { < } 0 . 0 5 )$ 。结果提示：大鼠饲粮中添加 $6 0 0 \\mathrm { m g / k g }$ 含钒量分别为0.107、0.137、0.164 mg/kg的蛋黄粉对大鼠生长性能和机体氧化还原状态的影响无显著差异，但含钒0.137、0.164 mg/kg可以降低NQO1酶活性并下调抗氧化应答相关基因的表达。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蛋黄粉；钒；大鼠；氧化应激；醌氧化还原酶1；核因子E2相关因子2中图分类号：S815 文献识别码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "钒作为生物体的一种必需微量元素，参与蛋白质、核酸、糖及脂类物质的代谢，具有其特殊的营养生理功能，其在微量条件下，能维持机体正常的生长和发育，参与葡萄糖转运等[1-2]。但作为重金属的一种，钒在过量条件下会对机体产生较严重的毒性效应，如造成动物体重减少，采食量降低，降低心率并造成心脏损伤、肺纤维、肝肾氧化损伤[3-5]，引起胚胎畸形等，甚至直接引起死亡。在鼠上的研究表明，钒引起大鼠中毒浓度为 $0 . 2 5 ~ \\mathrm { m g / L }$ ，致死浓度为 $6 . 0 0 \\ \\mathrm { \\ m g / L ^ { [ 5 ] } }$ 。有研究表明，钒会随着蛋鸡饲粮被摄入，最终转运到鸡蛋中，且鸡蛋中钒残留剂量会随着饲粮钒的增加而增加，而蛋黄是鸡蛋中钒的主要沉积部位[。鸡蛋作为人类日常廉价的优质蛋白质源，含有丰富的营养物质，残留于鸡蛋中的钒是否会对人体健康造成潜在的安全隐患，目前还未见报道。本研究通过将含钒饲粮饲喂蛋鸡的鸡蛋所得蛋黄粉配制成大鼠基础饲粮，予以饲喂大鼠，从而评价含钒蛋黄粉（有机钒）是否能影响大鼠的生",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长和健康。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料、试剂和仪器",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分别收集蛋鸡摄入含钒量为0、5和 $1 0 \\ \\mathrm { m g / k g }$ 的饲粮12周后所产鸡蛋，小心去除蛋壳和蛋白，冷冻干燥后制得蛋黄粉。取27只3周龄清洁级Wistar大鼠(购于成都达硕生物有限公司)，分笼饲养，温度 $( 2 3 { \\pm } 2 )$ ） $\\mathrm { { } ^ { \\circ } C }$ ，相对湿度（ $5 5 { \\pm } 2$ ） $\\%$ ，自由饮水、进食，适应环境7d后，开始正式试验。谷草转氨酶（AST）、谷丙转氨酶（ALT）、尿素氮（UN）、丙二醛（MDA）、超氧化物歧化酶（SOD）、甘油三酯（TG）、总抗氧化能力（T-AOC）、谷胱甘肽（GSH)、谷胱甘肽巯基转移酶(GST）试剂盒购自南京建成生物工程研究所；醌氧化还原酶1(NQO1)试剂盒购自武汉基因美公司；核因子E2相关因子2（Nrf2）和NQO1引物、提取、反转录以及定量试剂购自天根生物有限公司；其他试剂均为分析纯。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "超纯水制备仪（美国密理博公司)；电子天平；微波消解仪；电感耦合等离子体质谱仪(ICP-MS，7500a，美国安捷伦公司)，为满足对金属元素的测定要求用外标物— $\\cdot 1 0 ^ { - 1 2 } \\ \\mathrm { g / L }$ Li、Y、Ce、Tl 和 $\\mathbf { C o }$ 的 $2 \\% \\mathrm { H N O } _ { 3 }$ 调节液对仪器灵敏度(Li、Y和 TI）、氧化物水平(CeO/Ce)和双电荷（ $\\mathrm { C e ^ { + 2 } / C e } ^ { \\cdot }$ ）进行优化；酶标仪（美国Thermo公司）；实时荧光定量PCR（C1000，成都伯乐科技有限公司)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 基础饲粮 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基础饲粮以玉米淀粉、蛋黄粉为主配制而成，其中粗蛋白质、总能、粗脂肪水平参照Imura 等[7]设计，粗纤维、维生素以及矿物质添加量参考Reeves 等[8]。饲粮制成块状，方便大鼠啃食。基础饲粮组成及营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/d74140696b9fbb13c4cd323f0cdd9d8a1cbfd3ba029507d95db26ef25feddc75.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平 (饲喂基础)",
+            "Table 1Composition and nutrient levels of the basal diet (as fed-basis) g/kg "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米淀粉 Corn starch</td><td>215.00</td></tr><tr><td>酪蛋白 Casein</td><td>50.00</td></tr><tr><td>蛋黄粉 Egg yolk powder</td><td>600.00</td></tr><tr><td>糊精Dextrin</td><td>10.00</td></tr><tr><td>蔗糖 Saccharose</td><td>3.20</td></tr><tr><td>麦麸Wheat bran</td><td>30.00</td></tr><tr><td>纤维素钠 CMC-Na</td><td>49.00</td></tr><tr><td>碳酸钙CaCO3</td><td>1.50</td></tr><tr><td>矿物质预混料 Mineral premixl</td><td>24.00</td></tr><tr><td>维生素预混料 Vitamin premixl)</td><td>13.00</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/55aa4bb93cd6596e15dede281d045004587178bc7d039d42e639293c8c57d152.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>L-半胱氨酸L-Cys</td><td>0.80</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>1.00</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>2.50</td></tr><tr><td>合计 Total</td><td>1000.00</td></tr><tr><td>营养水平 Nutrient levels2</td><td></td></tr><tr><td>总能GE/(MJ/kg)</td><td>21.11</td></tr><tr><td>粗纤维CF</td><td>51.00</td></tr><tr><td>钙Ca</td><td>7.90</td></tr><tr><td>有效磷 AP</td><td>5.70</td></tr><tr><td>蛋氨酸Met</td><td>7.40</td></tr><tr><td>半胱氨酸Cys</td><td>3.90</td></tr><tr><td>粗蛋白质CP</td><td>210.70</td></tr><tr><td>粗脂肪 EE</td><td>301.20</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1预混料为每千克饲粮提供The premix provided the following per kg of the diet: $\\mathbf { C u } 6 \\operatorname* { m g } , \\mathrm { F e } 3 5 \\operatorname* { m g } , \\mathrm { M n } 1 1$ mg,Zn 35 mg,Se 0.17 mg,I0.21 mg,Na 1.3 g,VA 10 000 IU,VD3 3000 IU,VE 22.5 IU,VK 3 mg,VB1 3 mg,VB2$7 . 5 \\ \\mathrm { m g , V B _ { 6 } 4 . 5 \\ m g , V B _ { 1 2 } 3 0 \\ \\mu g , }$ 烟酸niacin $3 0 0 ~ \\mathrm { { m g } }$ ，泛酸钙 calcium pantothenate $1 5 ~ \\mathrm { m g }$ ，叶酸 folic acid 1.5mg,生物素 biotin $1 2 0 ~ { \\mu \\mathrm { g } }$ ，抗氧化剂antioxidant $6 0 ~ { \\mu \\mathrm { g } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2粗蛋白质和粗脂肪为实测值，其余为计算值。CP and EE were measured values,while the others were calculated values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大鼠试验设3个处理，分别在大鼠基础饲粮中加入 $6 0 0 \\ { \\mathrm { g / k g } } \\ 3$ 种来源的蛋黄粉，依次为处理1、2和3。经实测，3种蛋黄粉含钒量分别为0.006、0.053 和 $0 . 0 8 0 \\mathrm { m g / k g }$ ，所配试验饲粮分别含钒0.107、0.137和 $0 . 1 6 4 ~ \\mathrm { m g / k g }$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 动物饲养与管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验选用21日龄断奶Wistar大鼠27只，单只饲养于 $2 0 ~ \\mathrm { c m } { \\times } 1 5 ~ \\mathrm { c m } { \\times } 2 0 ~ \\mathrm { c m }$ 铁制笼中，自由采食及饮水，预饲7d后，按体重无差异原则分成3个处理，分别饲喂3种试验饲粮。在每天上午和下午各记录1次房间温度及相对湿度值，观察大鼠的活动状态及精神状态。试验期 $3 5 \\mathrm { d }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5样品采集与测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验结束时，将所有大鼠称重后，通过摘眼球采血，收集 $2 { \\mathrm { m L } }$ 血液到含 $0 . 2 \\%$ 肝素钠的抗凝管中，混匀，然后 $3 5 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ ，收集上清液，分装于 $2 0 0 { \\mu \\mathrm { L } }$ EP 管中，保存于 $- 2 0 \\mathrm { ~ \\textdegree C }$ 冰箱中待测。采血后，将大鼠脊髓脱臼处死，然后取约 $0 . 2 \\ \\mathrm { g }$ 肝脏放于灭菌的 $1 . 5 ~ \\mathrm { m L }$ EP 管中，保存于一 $8 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 超低温冰箱中，用于基因测定。取肝脏、肾脏、肺脏、脾脏以及心脏进行称重，分别计算相应的器官指数，计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "器官指数 $( \\% ) \\ = 1 0 0 \\times$ 相应的器官重量/大鼠活体重量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取1/2肝脏、肾脏固定于 $4 \\%$ 的多聚甲醛溶液中，用于组织切片观察。将余下的肝脏、肾脏装袋，保存在一 $2 0 \\mathrm { ~ \\textdegree C }$ 冰箱中，用于抗氧化等生化指标以及钒残留量的测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 血浆生化指标测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将冻存的血浆样放置室温待其完全解冻后，按南京建成生物工程研究所生产的试剂盒说明书进行指标测定。血浆ALT活性采用改良赖氏法测定，AST活性采用酶动力法测定，UN含量采用脲酶法测定，MDA含量采用硫代巴比妥酸（TBA）法测定，TG 含量采用脂酶比色法测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 肝脏、肾脏抗氧化指标测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取肝脏和肾脏组织各 $1 . 0 \\ : \\mathrm { g }$ 于冰生理盐水中，制成 $10 \\%$ 组织匀浆， $3 5 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ 取上清液用于以下指标的测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肝脏、肾脏 SOD 活性采用黄嘌呤氧化酶法测定，MDA含量采用TBA法测定，T-AOC采用还原法测定；肝脏TG含量及ALT、AST活性测定方法同血浆；肝脏GSH含量采用微量酶标法测定，GST采用化学比色法测定，NQO1采用酶联免疫分析法(ELISA)测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.3 肝脏、肾脏组织切片观察",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将放在 $4 \\%$ 多聚甲醛中的肝脏、肾脏组织，脱水，石蜡包埋，做切片，苏木精－伊红常规染色，显微镜下观察并记录病理组织变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.4肝脏、肾脏钒残留测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "称取一定量保留的肝脏和肾脏样品，进行微波消解[9]，然后采用电感耦合等离子体质谱（ICP-MS）标准曲线法定量测定组织中的钒含量[10]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.5 肝脏基因测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将冻存于一80℃冰箱中的肝脏样品取出，液氮条件下用去除 RNA 酶的研钵磨细，加入细胞裂解液，提取其中的RNA，将得到的RNA进行反转录，加入引物后进行荧光定量，测定 Nrf2与 NQO1 mRNA在肝脏中的相对表达量。Nrf2 引物参考 Habeos 等[1l，NQO1引物采用Primer Premier 6.0 设计[12]（表2）。RNA提取、反转录以及实时荧光定量PCR 过程均参照天根生物试剂盒进行，基因的相对表达量用2-△△CT计算[13]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2实时荧光定量PCR引物",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f2a95970fc7a6da9c4a9a1497b8dbdea0f709271921389dfea70826dffadd6fe.jpg",
+        "table_caption": [
+            "Table 2Primers for real-time quantitative PCR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目的基因Target genes</td><td>引物序列 Primer sequences (5'-3')</td><td>退火温度 Tm/℃</td><td>大小 Size/bp</td></tr><tr><td>核因子E2 相关因子2Nrf2</td><td>AGACAAACATTCAAGCCGATTAG TTTATTCTTCCCTCTCCTGCG</td><td>59.0</td><td>196</td></tr><tr><td>醌氧化还原酶1NQ01</td><td>CGGTGAGAAGAGCCCTGATTG GCTCCCCTGTGATGTCGTTTC</td><td>62.0</td><td>174</td></tr><tr><td>B-肌动蛋白 β-actin</td><td>GGAATTCTATGGAATCCTGTGGCATCC GCTCTAGAGCACTGTGTTGGCATAGAGG</td><td>60.1</td><td>90</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据均采用SAS9.0统计软件进行统计，分析结果以平均值和集合标准误表示。使用单因素方差分析的一般线性模型（GLM）过程进行分析，并以Duncan氏法进行多重比较，结果以 $P { < } 0 . 0 5$ 为显著性标准， $P { < } 0 . 1 0$ 为有显著性差异的趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 生长性能",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出，试验期末3个处理大鼠体重、体增重、总采食量、单位体重采食量及饲料转化率均无显著差异 $( P 5 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7ebe44f52f889d643f64b3ad5c797d0804157fd51f58c0963c0bca0f8e6138a.jpg",
+        "table_caption": [
+            "Table 3Effects of egg yolk powder including vanadium on growth of rats "
+        ],
+        "table_footnote": [
+            "同列数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。 In the same column,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference ( $( P { > } 0 . 0 5 )$ . The same as below. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"6\"></td></tr><tr><td>项目 Items</td><td>初重 Initial weight/g</td><td>末重 Final weight/g</td><td>体增重 BWG/g</td><td>总采食量 Total feed intake/g</td><td>单位体重采食 量 Feed intake for unit weight/g</td><td>饲料转化率 FCR</td></tr><tr><td>处理1 Treatment 1</td><td>94.4</td><td>188.4</td><td>94.0</td><td>323.6</td><td>3.44</td><td>0.29</td></tr><tr><td>处理2</td><td>96.6</td><td>196.1</td><td>99.5</td><td>317.2</td><td>3.19</td><td>0.32</td></tr><tr><td>Treatment 2 处理3</td><td>93.6</td><td>184.3</td><td>90.7</td><td>318.5</td><td>3.51</td><td>0.24</td></tr><tr><td>Treatment 3 集合标准误</td><td>4.40</td><td>6.36</td><td>6.30</td><td>10.10</td><td>0.25</td><td>0.02</td></tr><tr><td>Pooled SEM P值 P-value</td><td>0.88</td><td>0.43</td><td>0.61</td><td>0.89</td><td>0.74</td><td>0.46</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 器官指数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表4可以看出，试验期末3个处理大鼠肝脏、肾脏、肺脏、脾脏和心脏指数无显著差异$( P { > } 0 . 0 5 ) ,$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/851d6d0da08bd4035bcee75ea12484d2568313a8a5c376ae0886e53d5cf041d4.jpg",
+        "table_caption": [
+            "表3含钒蛋黄粉对大鼠生长的影响",
+            "表4含钒蛋黄粉对大鼠器官指数的影响",
+            "Table 4Effects of egg yolk powder including vanadium on organ indices of rats "
+        ],
+        "table_footnote": [
+            "2.3 血浆生化指标"
+        ],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>肝脏Liver</td><td>肾脏Kidney</td><td>肺脏Lung</td><td>脾脏 Spleen</td><td>心脏Heart</td></tr><tr><td>处理1Treatment 1</td><td>3.48</td><td>1.02</td><td>0.72</td><td>0.37</td><td>0.50</td></tr><tr><td>处理2 Treatment 2</td><td>3.68</td><td>0.95</td><td>0.72</td><td>0.31</td><td>0.49</td></tr><tr><td>处理3 Treatment 3</td><td>3.54</td><td>0.85</td><td>0.62</td><td>0.33</td><td>0.46</td></tr><tr><td>集合标准误</td><td>0.15</td><td>0.07</td><td>0.03</td><td>0.04</td><td>0.04</td></tr><tr><td>Pooled SEM P值 P-value</td><td>0.64</td><td>0.23</td><td>0.09</td><td>0.64</td><td>0.75</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表5可以看出，3个处理大鼠血浆AST、ALT活性及MDA、UN、TG含量无显著差异$( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/59fdc37b482a2e797f11c47d143527bc55906b45aaf8c9be52e3cc548ede5527.jpg",
+        "table_caption": [
+            "Table 5Effects of egg yolk powder including vanadium on plasma biochemical indices of rats "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>谷草转氨酶 AST/(U/L)</td><td>谷丙转氨酶 ALT/(U/L)</td><td>丙二醛 MDA/(nmol/mL)</td><td>尿素氮 UN/(mmol/L)</td><td>甘油三酯</td></tr><tr><td>处理1 Treatment 1</td><td>16.98</td><td>11.84</td><td>15.07</td><td>14.77</td><td>TG/(mmol/L) 2.78</td></tr><tr><td>处理2Treatment 2</td><td>17.18</td><td>12.63</td><td>15.86</td><td>14.50</td><td>2.74</td></tr><tr><td>处理3 Treatment 3</td><td>17.33</td><td>12.45</td><td>15.59</td><td>15.58</td><td>2.57</td></tr><tr><td>集合标准误</td><td>0.36</td><td>0.51</td><td>0.49</td><td>0.90</td><td>0.12</td></tr><tr><td>Pooled SEM</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P值 P-value</td><td>0.79</td><td>0.53</td><td>0.52</td><td>0.67</td><td>0.42</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4肝脏、肾脏钒残留 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表6可以看出，与处理1相比，处理2、3肝脏、肾脏钒残留量(鲜重基础)无显著差异$( P { > } 0 . 0 5 )$ ，但处理2和3之间肝脏钒残留量存在显著差异（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d49bab61d4314f77499b9d108989facecb75535389ab83e9f37052cd63cb6428.jpg",
+        "table_caption": [
+            "表5含钒蛋黄粉对大鼠血浆生化指标的影响",
+            "表6含钒蛋黄粉对大鼠肝脏、肾脏钒残留量的影响(鲜重基础)",
+            "ble 6Effects of egg yolk powder including vanadium on liver and kidney vanadium residual of rats (basec "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">fresh weight)</td><td colspan=\"2\">ug/kg</td></tr><tr><td>项目Items</td><td>肝脏Liver</td><td>肾脏Kidney</td><td></td></tr><tr><td>处理1Treatment 1</td><td></td><td>24.40ab</td><td>63.98</td></tr><tr><td>处理2Treatment 2</td><td></td><td>18.54b</td><td>71.02</td></tr><tr><td>处理3Treatment 3</td><td></td><td>37.22a</td><td>55.97</td></tr><tr><td>集合标准误</td><td></td><td>4.79</td><td>7.40</td></tr><tr><td>PooledSEM</td><td></td><td></td><td></td></tr><tr><td>P值 P-value</td><td></td><td>0.04</td><td>0.38</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 肝脏、肾脏组织切片",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图1可以看出，图1-A表现出肝索完整、清晰，细胞核完整，细胞无空泡化；图1-B表现出肝索较完整，细胞核无变化，极少量肝细胞有空泡样出现轻微脂肪变性；图1-C可以观察到血窦较明显，窦腔内可见较多枯否氏细胞和一些血细胞。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图1-D、图1-E、图1-F为肾脏皮质结构，可以看出，3个处理的肾小球无显著变化；而从图1-G、图1-H、图1-I可以看出，3个处理的肾小管也无明显差异。总得来说3个处理的肾脏无显著性变化，无发生病变的现象发生。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/346f6076962d783ef32a25babbe21bd5ae98a6d562b6bf76397bc9b7192b257a.jpg",
+        "img_caption": [
+            "图1含钒蛋黄粉对大鼠肝脏和肾脏组织病理变化的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A、B、C分别为处理1、2、3的肝脏切片；D、E、F分别为处理1、2、3肾小球切片，G、H、I分别为 处理1、2、3肾小管切片。A,B,and C were liver slices of treatments 1,2 and 3,respectively.D,Eand F were glomerular slices and G,H,and I were kidney tubular slice of treatments 1,2 and 3,respectively. $( 4 0 0 \\times )$ 号 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Effects of egg yolk powder including vanadium on liver and kidney tissue pathological changes ( ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6 肝脏、肾脏生化指标 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表7和表8可以看出，3个处理大鼠肝脏、肾脏SOD活性、MDA含量和T-AOC以及肝脏ALT、AST、GST活性和GSH含量无显著差异 $( P { > } 0 . 0 5 )$ 。但与处理1相比，处理2、3显著降低了大鼠肝脏NQO1活性 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4d571d3c51a717308a1901a9facf141e320d1ad596508bfb4bae6d436f05650.jpg",
+        "table_caption": [
+            "表7含钒蛋黄粉对大鼠肝脏、肾脏氧化应激状态的影响",
+            "Table 7Effects of egg yolk powder including vanadium on liver and kidney oxidative stress status of rats "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目</td><td colspan=\"3\">肝脏Liver</td><td colspan=\"3\">肾脏Kidney</td></tr><tr><td>丙二醛 MDA/(nmol/mg</td><td>超氧化物 歧化酶</td><td>总抗氧化能 力</td><td>丙二醛 MDA/(nmol/mg</td><td>超氧化物</td><td>总抗氧化能 力</td></tr><tr><td>Items</td><td>prot)</td><td>SOD/(U/mg prot)</td><td>T-AOC/(U/mg prot)</td><td>prot)</td><td>歧化酶 SOD/(U/mg</td><td>T-AOC/(U/mg</td></tr><tr><td>处理1</td><td>5.86</td><td>213.7</td><td>1.18</td><td>1.43</td><td>prot) 82.87</td><td>prot) 1.12</td></tr><tr><td>Treatment 1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>处理2</td><td>6.24</td><td>205.5</td><td>1.14</td><td>1.46</td><td>79.10</td><td>1.04</td></tr><tr><td>Treatment 2 处理3</td><td>6.23</td><td>195.9</td><td>1.02</td><td>1.56</td><td>75.00</td><td>0.99</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/62758da028b932b6abd3e83188234c112ebaf80540c6fa3eb637eb9000c91d20.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "表8含钒蛋黄粉对大鼠肝脏生化指标的影响"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"7\"></td></tr><tr><td>Treatment 3 集合标准误</td><td>0.40</td><td>21.33</td><td>0.11</td><td>0.07</td><td>3.64</td><td>0.09</td></tr><tr><td>Pooled SEM</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P值 P-value</td><td>0.75</td><td>0.84</td><td>0.54</td><td>0.36</td><td>0.32</td><td>0.60</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/b66599509783b5176946f9e88165afc6788f1032b1b953bf7210c388a2e1b084.jpg",
+        "table_caption": [
+            "Table 8Effects of egg yolk powder including vanadium on liver biochemical indices of rats "
+        ],
+        "table_footnote": [
+            "2.7肝脏NQO1、Nrf2mRNA表达 "
+        ],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>谷草转氨酶 AST/(U/g prot)</td><td>谷丙转氨 酶 ALT/(U/g</td><td>甘油三酯 TG/(mmol/g prot)</td><td>谷胱甘肽 GSH/( μ mol/g prot)</td><td>谷胱甘肽巯 基转移酶 GST/(U/g</td><td>醌氧化还原酶 1 NQO1/(μg/mL)</td></tr><tr><td>处理1</td><td>27.52</td><td>prot) 53.99</td><td>3.20</td><td>2.93</td><td>prot) 191.1</td><td>9.45a</td></tr><tr><td>Treatment 1</td><td>26.86</td><td>52.72</td><td>3.26</td><td>3.01</td><td></td><td></td></tr><tr><td>处理2 Treatment 2</td><td></td><td></td><td></td><td></td><td>192.9</td><td>8.36b</td></tr><tr><td>处理3</td><td>26.87</td><td>51.45</td><td>3.33</td><td>3.11</td><td>193.6</td><td>8.69b</td></tr><tr><td>Treatment 3</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>集合标准误</td><td></td><td>2.82</td><td>0.15</td><td>0.29</td><td></td><td></td></tr><tr><td>Pooled SEM</td><td>1.27</td><td></td><td></td><td></td><td>2.21</td><td>0.23</td></tr><tr><td>P值 P-value</td><td>0.92</td><td>0.81</td><td>0.82</td><td>0.91</td><td>0.73</td><td>0.01</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从表9可以看出，与处理1相比，处理2、3显著下调了肝脏NQO1和Nrf2mRNA的表达$_ { ( P < 0 . 0 5 ) }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/778f48d084eebea251609aa488711547f446e79cd91e81b67c5f816a2d92a452.jpg",
+        "table_caption": [
+            "表9含钒蛋黄粉对肝脏NQO1、Nrf2mRNA相对表达量的影响",
+            "Table 9Effects of egg yolk powder including vanadium on mRNA relative expresson levels of NQOl and Nrf2 in liver of rats "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>醌氧化还原酶1 NQ01</td><td>核因子E2相关因子2 Nrf2</td></tr><tr><td>处理1 Treatment 1</td><td>1.00a</td><td>1.00a</td></tr><tr><td>处理2Treatment 2</td><td>0.79b</td><td>0.75b</td></tr><tr><td>处理3Treatment 3</td><td>0.94b</td><td>0.73b</td></tr><tr><td>集合标准误</td><td>0.13</td><td>0.08</td></tr><tr><td>Pooled SEM</td><td></td><td></td></tr><tr><td>P值 P-value</td><td>0.05</td><td>0.05</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1含钒蛋黄粉对大鼠生长性能的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "钒作为机体必需的微量元素[4]，低剂量时可以促进动物的生长与发育[1]。Daniel等[15]研究指出，当饲粮钒含量低于 $2 3 \\mathrm { m g / k g }$ 时，大鼠的生长状态不受影响。前人研究表明，引起哺乳动物中毒的钒酸盐剂量为 $1 7 \\ \\mathrm { m g / k g \\ B W ^ { [ 1 6 ] } }$ ，而偏钒酸铵对大鼠的中毒剂量为 $1 1 . 2 ~ \\mathrm { m g / k g }$ BW，钒对人体产生毒性伤害的临界值为 $3 \\mathrm { m g / d ^ { [ 1 7 ] } }$ 。本试验3个处理饲粮钒含量依次为0.107、",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "0.137和 $0 . 1 6 4 ~ \\mathrm { { m g / k g } }$ ，钒含量都较低，试验发现3个处理大鼠的精神状态无变化，采食量正常，试验期末大鼠体重及体增重均无显著差异。本试验3个处理中大鼠单位体重钒摄入量最高为$0 . 3 8 \\mathrm { m g / k g }$ ，日均钒摄入量最高为 $1 . 4 9 \\times 1 0 ^ { - 3 } \\mathrm { m g / d }$ ，远小于中毒剂量，说明含钒蛋黄粉对大鼠生长不会产生负面影响。假设蛋鸡采食含钒 $1 0 \\mathrm { m g / k g }$ 的饲粮后所产鸡蛋供人食用，每人每日吃1枚鸡蛋（ $\\left[ 6 0 \\mathrm { g } \\right]$ ），则可能摄入约 $0 . 0 0 1 \\mathrm { m g }$ 钒，远低于产生毒性伤害的临界值。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2含钒蛋黄粉对大鼠健康的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "器官指数能直观地表现动物机体器官的变化程度，反映动物的健康状况。Faulkner 等[18]指出钒（偏钒酸铵）引起大鼠中毒的最低剂量为 $1 1 . 2 { \\sim } 1 6 . 8 \\ \\mathrm { \\ m g / k g }$ 。Domingo等[19]研究指出饲粮中添加钒的量在 $5 0 \\ \\mathrm { m g / k g }$ 以下，对大鼠的肝脏、肾脏、脾脏、心脏等器官指数都没有影响。本试验3个处理大鼠饲喂钒含量依次为 $0 . 1 0 7 , ~ 0 . 1 3 7 , ~ 0 . 1 6 4 \\mathrm { m g / k g }$ 的饲粮，对肝脏、肾脏、脾脏、心脏、肺脏均无显著影响，结果与前人报道一致，此结果说明给蛋鸡饲喂含钒5和 $1 0 \\ \\mathrm { m g / k g }$ 饲粮，其所得鸡蛋粉配置的饲粮钒残留量都较低，不足以引起大鼠器官指数的变化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "血浆中AST和ALT活性变化，可以反映动物体肝脏的健康状况，而UN含量变化可以反映肾脏结构的变化，TG 含量则能反映动物体肝脏脂肪代谢功能，MDA含量变化则能说明机体脂质过氧化的程度。孙素玲等[20]给大鼠以饮水形式每天饲喂 $5 \\mathrm { m g / k g }$ 的钒(偏钒酸铵）,大鼠血清中 ALT、AST活性与对照组无差异。Liu 等[4给1日龄肉鸡饲喂含钒 $5 \\mathrm { m g / k g }$ 饲粮直到42 日龄，发现在试验第14、28和42天肉鸡血浆SOD活性、T-AOC、MDA含量无显著性变化。本试验中大鼠血浆ALT、AST 活性以及TG、UN、MDA含量均无显著性差异，与前人研究结果一致。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "组织中钒的残留量的变化反映钒在组织中的沉积规律以及沉积部位，可以作为钒产生作用的参考指标，而组织形态观察则能直观了解组织器官的结构变化，从而反映动物组织的功能的变化。Daniel等[15]研究表明大鼠摄入较低剂量的钒（每天饮水摄入 $1 \\ \\mathrm { m g / L }$ 的钒酸钠)对大鼠的组织钒残留量无显著影响。本试验结果发现饲喂3种蛋黄粉后大鼠肝脏和肾脏钒残留量无显著差异。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Liu 等[4]给肉鸡饲粮中添加 $5 \\ \\mathrm { m g / k g }$ 钒，观察肉鸡器官的组织形态，肉鸡肝肾形态结构无影响，说明低剂量的钒对动物机体的肝肾结构无明显影响。从本试验3个处理的肝肾切片可以看出，处理2、3对大鼠肝脏、肾脏的组织结构无明显的损伤影响，可能是钒含量较低，不足以引起组织损伤[4]。肝肾抗氧化能力的变化反映肝肾对抗外界氧化物的能力。GSH 和GST 是抗氧化系统中的重要物质，GSH含量和GST活性能反映机体抗氧化能力的变化。SOD活性、T-AOC以及MDA含量是抗氧化能力最基本的指标。高价的钒能引起机体的氧化应激，影响肝肾的抗氧化能力[21]，从而造成肝肾损伤。Liu 等[4]给1日龄肉鸡饲喂含钒 $5 \\ \\mathrm { m g / k g }$ 饲粮，证实在试验第14、28和42 天肉鸡肝脏 SOD 活性、T-AOC、GSH、MDA含量无显著性变化。本试验3个处理的肝脏、肾脏 MDA 含量、SOD 活性和 T-AOC 以及肝脏 GSH、",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "GST 活性无显著差异，说明蛋黄粉中的钒未达到影响大鼠肝脏和肾脏生化指标的水平。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在人和鼠上进行的体内和体外的大量试验证实了钒可诱导肺脏、肝脏、肾脏、小肠上皮细胞氧化应激和氧化损伤[7,21]。Nrf2 是一个基本的碱性亮氨酸拉链转录因子，是调节机体活性氧平衡的关键核因子。NQO1属于 $\\mathrm { I I }$ 相解毒酶，其受到Nrf2的调控，在氧化应激条件下，其活性会增加[22]。研究发现钒（ $\\mathrm { N H _ { 4 } V O _ { 3 } }$ ）能降低人类肝脏细胞（HepG2 和Hepalclc7）中NQO1mRNA 的表达，加大氧化应激[22]。Nrf2还是抗氧化酶系统的调控因子，SOD、NQO1、GST 活性均受其调节。本试验处理2、3显著降低了肝脏 NQO1活性，降低了Nrf2和 NQO1mRNA的表达量，其生物学意义有待进一步研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3种含钒蛋黄粉对大鼠生长性能、血浆生化指标及肝肾病理等影响无显著差异，但含钒0.137和 $\\mathrm { 0 . 1 6 4 ~ m g / k g }$ 可显著降低大鼠肝脏NQO1活性，降低肝脏NQO1和Nrf2mRNA的相对表达量。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] SCHWARZ K,MILNE D B.Growth effects of vanadium in the rat[J].Science,1971,174(4007):426-428.   \n[2]HAMEL F G,DUCKWORTH W C.The relationship between insulin and vanadium metabolism in insulin target tissues[J].Molecular and Cellular Biochemistry,1995,153(1/2):95- 102.   \n[3]ADACHI A,ASAI K,KOYAMA Y,et al.Subacute toxicity of vanadium in rats[J].Japanese Journal of Toxicology and Environmental Health,1997,43(1):27.   \n[4]LIU J,CUI H M,LIU X D,et al.Dietary high vanadium causes oxidative damage-induced renal and hepatic toxicity in broilers[J].Biological Trace Element Research,2012,145(2):189-200. [5]DOMINGO J L,GOMEZ M,SANCHEZ D J,et al.Toxicology of vanadium compounds in diabetic rats:the action of chelating agents on vanadium accumulation[J].Molecular and Cellular Biochemistry,1995,153(1):233-240.   \n[6]UEBERSCHAR K H,VOGT H,MATTHES S.Der einfluss von vanadium-Zäsatzen zum broiler-und legehennenfutter auf die leistungender der tiere und auf rückstandsgehalte in den geweben und eiern[J].Archiv fur Geflugelkunde,1985,49:4-8.   \n[7]IMURA H,SHIMADA A,NAOTA M,et al.Vanadium toxicity in mice:possble impairment of lipid metabolism and mucosal epithelial cell necrosis in the small intestine[J].Toxicologic Pathology,2013,41(6):842-856.   \n[8]REEVES P G,NIELSEN F H,FAHEY G C,Jr.,et al.AIN-93 purified diets for laboratory rodents:final report of the American Institute of Nutrition ad hoc writing commitee on the reformulation of the AIN-76A rodent diet[J].The Journal of Nutrition,1993,123(11):1939-1951. [9]梁立娜,李中阳,陈登云,等.ICP-MS 技术测定生物样品中重金属的前处理方法研究[J].环 境化学,2003,22(1):99-100. [10]梁彦秋,潘伟,铁梅,等.ICP-MS 测定动物肝脏中铅、镉和砷[J].光谱实验 室,2006,23(2):234-237.   \n[11]HABEOS I G,ZIROS P G,CHARTOUMPEKIS D,et al.Simvastatin activates Keapl/Nrf2 signaling in rat liver[J].Journal of Molecular Medicine,2008,86(11):1279-1285.   \n[12]YURYEV A.PCR primer design[M].Totowa,New Jersey:Humama Press,2007.   \n[13]LIVAK K J,SCHMITTGEN T D.Analysis of relative gene expression data using real-time quantitative PCR and the $2 ^ { - \\Delta \\Delta \\mathrm { C T } }$ method[J].Methods,2001,25(4):402-408.   \n[14]魏磊磊.钒营养研究进展[J].中国饲料,2004(9):8-10.   \n[15]DANIEL E P,LILLIE R D.Experimental vanadium poisoning in the white rat[J].Public Health Rep0rts,1938,53(19):765-777.   \n[16] LUCKEY T D,VENUGOPAL B,HUTCHESON D.Heavy metal toxicity,safety,and Hormonology[M].New York:Academic Press,1975.   \n[17] ANKE M.Vanadium-An element both essential and toxic to plants,animalsand humans[J].Anales de la Real Academia Farmacia,2005,7O(4):961-999.   \n[18] FAULKNER T G.Vanadium:toxicology and biological significance[M].London:Elsevier,1964.   \n[19]DOMINGO JL,LLOBETJM,TOMAS JM,et al.Short-term toxicity studies of vanadium in rats[J].Journal of Applied Toxicology,1985,5(6):418-421.   \n[20]孙素玲,周源,刘森,等.偏钒酸铵对小鼠血清和肝脏转氨酶活力的影响[J].生态毒理学 报,2011,6(4):445-448.   \n[21] CANO-GUTIERREZ G,ACEVEDO-NAVAS,SANTAMARIAA,etal.Hepatic megalocytosis due to vanadium inhalation:participation of oxidative stress[J].Toxicology and Industrial Health,2012,28(4):353-360.   \n[22]KENNEDY G C,MITRA J.Body weight and food intake as initiating factors for puberty in the rat[J].The Journal of Physiology,1963,166(2):408-418.   \n[23]ADACHI A,ASAI K,KOYAMA Y,et al.Subacute vanadium toxicity in rats[J].Journal of Health Science,2000,46(6):503-508. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Effects of Egg Yolk Powder Including Vanadium on Growth, Oxidative Stress Status and Its Related Gene Expression of Wistar Rats CUI RenyongWANG Jianping ZHANG Keying\\* DING Xuemei ZENG QiufengBAI Shiping LUO Yuheng (Key Laboratory of Animal Disease-Resistance of China Ministry of Education, Institute of Animal Nutrition, Sichuan Agricultural University, Ya'an 625014, China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: As a kind of heavy metal, excessive intake of vanadium can cause oxidative stress to laying hens, reduce egg quality and make residue in eggs, which affects the safety of eggs. The objective of this study was to study the effects of feeding egg yolk powder including vanadium to Wistar rats on their growth, oxidative stress status and its related gene expression,and to evaluate the biosecurity of organic vanadium.A total of 27 female Wistar rats (4 weeks old) were allocated to 3 treatments with 9 rats each, and fed three kinds of diets supplemented with $6 0 0 ~ \\mathrm { g / k g }$ egg yolk powders which were prepared with eggs from laying hens fed diets containing O, 5 and $1 0 ~ \\mathrm { m g / k g }$ （202 vanadium， respectively. The three diets actually contained O.1O7， O.137 and $0 . 1 6 4 ~ \\mathrm { \\ m g / k g }$ （20 vanadium. The experiment lasted for 35 d. The results showed that,there were no significant differences on growth performance, organ indices,contents of plasma triglyceride, malonaldehyde (MDA） and urea nitrogen, activities of plasma alanine aminotransferase (ALT） and aspartate aminotransferase (AST), liver and kidney superoxide dismutase (SOD) activity, MDA content, and total antioxidant capacity (T-AOC),activities of liver ALT and AST, liver glutathione content, and liver glutathione S-transferase activity，as well as histomorphology of liver and kidney and vanadium residual in kidney of rats among 3 treatments $( P { > } 0 . 0 5 )$ .However，compared with treatment 1,liver quinone oxidoreductase 1 (NQO1) activity of rats in treatments 2 and 3 was significantly decreased $( P { < } 0 . 0 5 )$ ，and the relative expression levels of liver NQO1 and nuclear factor erythroid 2-related factor 2 (Nrf2) mRNA were significantly decreased ( $( P { < } 0 . 0 5 )$ ，too. The results indicate that the dietary supplementation of $6 0 0 \\mathrm { m g / k g }$ egg yolk powders with 0.107, 0.137 and $0 . 1 6 4 ~ \\mathrm { m g / k g }$ vanadium has no significantly different effects on growth performance and oxidation-reduction state of Wistar rats. However， the NQO1 activity，mRNA expression of NQ01 and $N r f 2$ are down-regulated as the vanadium content increasing (O.137 and $0 . 1 6 4 \\mathrm { m g / k g }$ ） Key words: egg volk powder: vanadium; rat: oxidative stress: NOO1; Nrf2 ",
+        "page_idx": 11
+    }
+]

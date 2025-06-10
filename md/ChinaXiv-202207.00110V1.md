@@ -1,0 +1,107 @@
+# 可穿戴设备支持房颤人群筛查与管理研究进展
+
+余超」　周伟」王涛」祝玲娟」　鲍慧慧²程晓曙 2\*  
+1南昌大学第二附属医院心血管病防治中心330006；²南昌大学第二附属医院心血管内科330006  
+基金项目：国家自然科学基金（82160070)；江西省科技创新基地建设项目（项目编号：20221ZDG02010)；南昌大学第二附属医院临床研究重点项目（项目编号：2021efyA01)；南昌大学第二附属医院孵育项目（项目编号：2021YNFY2024)通讯作者：程晓曙，E-mail：xiaoshumenfan@126.com
+
+【摘要】心房颤动（以下简称“房颤”）是当代心血管领域亟需攻克的两大堡垒之一，传统的房颤筛查具有"检测时未发病、发病时未检测"的局限，房颤管理存在检测率低、规范管理率低等不足。可穿戴设备为房颤早期发现和科学管理创造了技术条件，其在房颤筛查的可行性、灵敏度和特异度逐步得到验证。本文对可穿戴设备在房颤人群筛查与管理的应用现状、局限及前景进行综述。
+
+【关键词】可穿戴设备；心房颤动；筛查；管理
+
+# Research progress of wearable devices solution for screening and management with atrial fibrillation population
+
+Yu Chaol,Zhou Wei',Wang Taol, Zhu Lingjuan', Bao Huihul $! ^ { I , 2 }$ ，Cheng Xiaoshu $^ { - 1 , 2 }$ （20 l Center for Prevention and Treatment of Cardiovascular Diseases, the Second Afliated Hospital of Nanchang University, Nanchang 33ooo6, China;² Department of Cardiology, the Second Affiliated Hospital of Nanchang University,Nanchang 33ooo6, China Corresponding author: Cheng Xiaoshu, Email: xiaoshumenfanl26@163.com
+
+[Abstract] Atrial fibrillation is one of the two cardiovascular disease bastions that need to be tackled in the 21st century. However, the traditional screening of atrial fibrillation has the limitation of "no disease at the time of detection and no detection at the time of onset". Atrial fibrillation management has disadvantages such as low detection rate, low standard management rate and so on. Wearable devices have created technical conditions for early detection and scientific management of atrial fibrillation,and their feasibility, sensitivity and specificity in atrial fibrillation screening have been gradually verified. This paper aimed to review the application status,limitation and prospect of wearable devices in atrial fibrillation screening and management.
+
+[Key Words] Wearable devices; atrial fibrillation; screening; management
+
+心房颤动（房颤）是21世纪心血管领域亟需攻克的两大堡垒之一，影响着全球超过3700 万人[1,2]。房颤是脑卒中等血栓栓塞事件的主要危险因素之一[3],房颤的早期筛查对于改善预后尤为重要。传统的Holter检测方法具有"检测时未发病、发病时未检测"的局限性，有研究提示如能提升筛查技术的精度，房颤患病率预计还将上升2.3倍4。近年来兴起的可穿戴设备具有无创检测、性能稳定、安全可靠等诸多优点，在健康监测、疾病治疗、远程管理等领域逐步得到应用，对于房颤筛查与管理具有重要意义。本文旨在综述可穿戴设备在房颤筛查与管理的进展。
+
+# 1心房颤动的流行病学及危害
+
+房颤为一种室上性快速性心律失常，伴有不协调的心房电激动和无效的心房收缩。2014年\~2015年中国国家卒中筛查预防项目（CNSSPP）显示，我国 $\geqslant 4 0$ 岁者房颤标化患病率为 $2 . 3 1 \%$ ，40\~49 岁者患病率为 $1 . 1 3 \%$ ， $\geqslant 7 0$ 岁者患病率上升至 $4 . 5 7 \%$ 。女性房颤患病率高于男性（ $2 . 7 2 \%$ vS. $1 . 9 0 \%$ )，农村居民高于城镇居民（ $2 . 4 2 \%$ vs. $2 . 1 9 \%$ ）[5,6]。Framingham心脏研究三代参与者的数据表明，在$\geqslant 5 5$ 岁的欧洲血统人群中，每3人就有1人患房颤[7]。
+
+房颤不但影响患者生活质量，且易引起心力衰竭、脑卒中等严重并发症及增加死亡率[3]。在英国牛津血管研究中， $4 3 . 9 \%$ 致命或致残性脑卒中与房颤有关[8]。一项对47个国家15000多名急诊房颤患者的前瞻性登记研究显示，因脑卒中引起死亡的占比达 $8 \% ^ { [ 9 ] }$ 。根据第四次国家卫生服务调查研究测算，每年因房颤导致脑卒中的治疗成本达49 亿元[10]。
+
+# 2.可穿戴设备在房颤筛查中的应用现状
+
+# 2.1传统房颤筛查的局限性
+
+目前诊断的房颤患者仅是全部房颤患者中的冰山一角。房颤早期发作多为阵发性、持续时间短、发作频率低，常规12 导联心电图[11]检查不能及时保存发作时的心电图；动态心电图[12仅可观察 $2 4 { \sim } 4 8$ 小时内心电变化，具有时效性；可植入电子设备[13]虽可实现实时心电监测，但受其有创、费用高等限制难以大范围推广应用。笔者团队参与的全国最新房颤流行病学调查显示 $\geq 4 5$ 岁的房颤患者在接受心电图筛查前超1/3不知道房颤的存在[14]。美国商业和医疗保险管理索赔数据库显示，目前大约有 $1 5 \%$ 的房颤患者未得到确诊，其中 $7 5 \%$ 可能需要接受抗凝治疗[15]。因此，亟需更连续长程的心电数据监测来提高房颤筛查灵敏度和特异度。
+
+# 2.2可穿戴设备在房颤筛查中的应用
+
+可穿戴设备是基于传感器的轻量级便携设备，通过贴近皮肤表面佩戴、检测与分析，连续或按需将有关身体信号的信息传输到外部设备，并提供生物反馈。基于无线通信、互联网与云平台的智能心电分析系统为房颤筛查创造了技术条件，当前市场上主要有三类可穿戴设备：基于光电容积脉搏波描记法（photoplethysmographic,PPG）的设备（含手表/腕带、臂带、指带和耳垂传感器等)，基于心电图（electrocardiography，ECG)的设备（含贴片、胸带和无线记录器等），和基于脉冲可变性（mechanocardiography,MCG)设备（如血压计）。
+
+表1当前几种房颤筛查工具精度对比（以12导联心电图为金标准）[16]  
+
+<html><body><table><tr><td>房颤筛查工具</td><td>灵敏度（%）</td><td>特异度（%）</td></tr><tr><td>脉搏</td><td>87~97</td><td>70~81</td></tr><tr><td>自动血压监测仪</td><td>93~100</td><td>86~92</td></tr><tr><td>智能手机App</td><td>91.5~98.5</td><td>91.4~100</td></tr><tr><td>ECG可穿戴设备</td><td>94~98</td><td>76~95</td></tr><tr><td>MCG可穿戴设备</td><td>67</td><td>99</td></tr><tr><td>PPG可穿戴设备</td><td>97~99</td><td>83~94</td></tr></table></body></html>
+
+当前几种房颤筛查工具精度如表1所示[16]，ECG 监测贴片是较早用来提供持续14天心率监测的穿戴设备，2020 年台湾一项研究将其用于32例可疑阵发性心律失常患者筛查房颤，其房颤/房扑检出率高于动态心电图（ $6 6 \%$ vS. $9 \%$ ），摘除贴片后皮肤有轻度红斑[17]。2017 年美国 FDA 首次批准了带有 ECG 传感器的智能手环KardiaBand(KB)及专用APP（KardiaAPP）上市，该设备采用KB算法，自动检测P波是否缺失及其节律的变化，相比贴片能提供更加方便、舒适的方法，且有 $9 3 \%$ 的敏感性和 $84 \%$ 的特异性[18]。但是此应用技术存在着监测信号可用数据低、监测间隔时间长及消耗电量大等缺点。PPG支持的穿戴设备平均应用时间为6.7天，周期性监测时间间隔为 $1 0 \mathrm { { m i n } }$ 优于KB 技术。基于PPG技术的可穿戴设备在房颤筛查中可行性、灵敏度和特异性逐步得到越来越多的证据支持[19-21]。由于 PPG 信号获得简单，测量装置易于佩戴等优势逐渐成为非医院条件下测量血氧、脉搏及心率的主要方法。Apple Heart Study[22]和 Huawei HeartStudy[21均已证实，基于PPG技术的智能穿戴设备可作为简单、易行的大规模人群房颤筛查工具。AppleHeart Study 对招募的 419039 名健康人群，应用基于 PPG技术的苹果手表及 Apple Watch/Apple Heart Study 配套手机 APP，开展8个月的前瞻性房颤筛查研究，最后计算其阳性预测值为 $8 4 \% ^ { [ 2 2 ] }$ 。Huawei Heart Study 使用PPG技术的华为手表/手环进行 $\geqslant 1 8$ 岁健康人群房颤筛查，通过至少14天的监测， $4 2 4 / 1 8 7 9 1 2 ( 0 . 2 3 \% )$ 经MAFA软件(MobileAFAPP)收到"疑似房颤"提示，对提示人群有效随访，其中 $87 \%$ 确诊为房颤，其阳性预测值为 $9 1 . 6 \% ^ { [ 2 1 ] }$ 。当前超过 $71 \%$ 的可穿戴设备支持PPG传感器[23]，可实现在相关研究的大规模应用。
+
+# 3可穿戴设备支持房颤慢病管理的应用
+
+# 3.1房颤管理现状
+
+我国房颤的管理还存在挑战和薄弱环节。全国性的调查显示脑卒中高风险（据 $\mathrm { C H A } _ { 2 } \mathrm { D S } _ { 2 }$ -VASc评分）的房颤患者中仅 $6 . 0 \%$ 患者接受抗凝治疗[14]。WHO提出，心血管疾病防治的主要工作之一是以社区为基础进行综合管理[24]，英国初级保健专家提出"全科-专科联合管理房颤"模式[25]，2020ESC 房颤管理指南提出房颤ABC 管理路径[16]，“A"：抗凝/避免中风;"B"更好的症状管理；“C"心血管和共病优化。与常规护理相比，ABC 路径的实施与降低全因死亡风险、中风/主要出血/心血管死亡和首次住院的复合终点事件[26]、较低的心血管事件发生率[27,28]和降低与健康相关的费用[29]有显著相关性。
+
+# 3.2可穿戴设备在房颤管理的应用现状
+
+表2当前几类可穿戴设备在房颤监测和管理的应用  
+
+<html><body><table><tr><td colspan="2">传感器</td><td>测量指标</td><td>临床应用</td></tr><tr><td rowspan="3">运动</td><td>加速度计</td><td>步数、撞击力、速度、久坐时间、锻炼 房颤患者的风险评估[30]</td><td rowspan="3">一、二级预防中的体育活动干预</td></tr><tr><td>气压计</td><td>爬楼梯数（根据海拔高度的变化）</td></tr><tr><td>GPS</td><td>运动距离、热量消耗等 心脏远程康复[18]</td></tr><tr><td rowspan="3">生物识PPG 别</td><td></td><td>HR,HRR（心率恢复）,HRV（心率变异 性）,无袖带血压监测，血氧饱和度，心 输出量，每博输出量，基于脉搏的节律 检测，睡眠及其阶段</td><td rowspan="3">房颤患者相关疾病的风险预测 心脏远程康复 急性冠脉综合征诊断 电解质异常诊断(如高钾血症） 药物滴定 (如β受体阻滞剂) 房颤筛查与管理[31]</td></tr><tr><td>ECG</td><td>单导联和多导联ECG，连续或按需ECG 监测，间隔测量（如QTc间期、心律失QTc 间期延长诊断 常检测、电解质异常改变等）</td></tr><tr><td>MCG</td><td>腕带血压</td></tr><tr><td rowspan="2">其他</td><td>器*</td><td>生化传感 有创式血糖、电解质异常连续监测，无 电解质异常检测（如高钾血症) 创式（结合衣服/鞋子）汗液和唾液电解 连续血糖监测 质和水合状态监测</td><td rowspan="2">房颤管理[21]</td></tr><tr><td>生物力学 传感器</td><td>心输出量、每博输出量、肺液量、身体 振动、体重等</td></tr></table></body></html>
+
+\*生化传感器旨在测量血浆容量状态、分析物浓度
+
+可穿戴设备支撑技术的快速发展为房颤综合管理提供了技术支持，当前几类可穿戴设备在房颤监测和管理的应用情况如表2所示。众所周知移动健康（Mobilehealth，mHealth）技术近年来发展快速，顺应了信息化社会的特点和需求（手机和穿戴设备等移动技术越来越多应用)，尤其在我国展示了强大的生命力[32]。《中国互联网络发展状况统计报告》[3，截至2020年6月，我国手机网民规模达9.40亿，为可穿戴设备技术研发（持续症状监测）和推广应用（与卫生保健设施外的提供者联系）提供便利。如智能手机的突出优势是，配合穿戴设备使用，可在不影响设备使用者生活工作的情况下进行健康数据监测，并自动传输至中心大数据云平台；从而经过算法分析，将相关健康信息及时反馈给被测人群和医生。mHealth技术可架起专科医师一全科医生一患者一社区之间协作的桥梁。一项社区房颤综合管理（IMPACT-AF）研究证明：基于穿戴设备房颤远程教育管理一年后患者服用抗凝剂的比例显着增加，血栓栓塞事件显著降低[34]。Shacham的研究也证明，由重症监护病房医生参与的mHealth管理，对降低房颤再发作率效果显著低于传统管理（ $70 \% \mathrm { V S } 8 0 \%$ ）[35]。在前瞻性mAFAII（mobileAtrialFibrillationAppII）随机对照试验中，对我国40家医院登记的 $\geqslant 1 8$ 岁3324例房颤患者随机分成基于mHealth 的ABC 路径综合管理干预组和常规治疗组，干预组主要通过mAFA平台和PPG华为手环（使用占比1260/1646）综合管理患者，且有两组平均随访约 280天，干预组与对照组相比，缺血性脑卒中/全身血栓栓塞、死亡、再住院等复合结局显著降低 $[ 1 . 9 \%$ vs. $6 . 0 \%$ ；危险比（HR）0.39;95%CI 0.22-0.67； P<0.001][31]。
+
+# 4应用挑战
+
+可穿戴设备在临床实践中依然存在诸多挑战（具体总结见图1)，如PPG 可穿戴设备在数据准确性和有效性仍有局限性，其传感器在直接接触皮肤时工作最佳，而用带子固定的可穿戴设备并不能保证设备时刻紧贴皮肤，肤色、湿度甚至纹身也会影响PPG 的准确性。另外，可穿戴设备在房扑、联律间期不等的室早或房早鉴别等方面也有其局限，通过可穿戴设备检测到房颤时仍需结合12 导联ECG 和专家研判进一步确诊。为进一步了解可穿戴设备的局限性并提高其性能，仍需要大样本、不同人群的临床实践。
+
+数据的准确性和不准确的数据比没有数据更可怕有效性临床使用标准和 缺乏统一的临床使用标准和可靠的临床证临床证据 据实现和维持行为 些研究质疑可穿戴设备在引导行为改变应用挑战改变 方面的价值硬件成本间接影 造成新的健康差异（高社会经济地位的人响使用人群 使用率更大)数据的安全性和 患者的敏感信息数据保护、数据共享等方管理 面重视网络安全
+
+# 4总结与展望
+
+综上所述，可穿戴设备为房颤早期发现和科学管理创造了技术条件，通过医疗数据传输连接患者和医疗机构，可实现长程心电监测、隐匿性房颤早期筛查和血栓事件及早干预，且应用效果已得到初步验证，有望解决我国房颤人群目前高患病率、低检出率、低规范管理率等系列问题，开启我国慢病防控新模式。当前，可穿戴设备用于慢病筛查与管理还处于初期探索阶段，在数据准确性、有效性、安全性及临床标准还存在挑战，仍需要结合互联网医疗及大规模人群应用研究，进一步探索验证。
+
+# 利益冲突 所有作者均声明不存在利益冲突
+
+# 参考文献
+
+[1] CHUGH S S,ROTHG A,GILLUMRF,et al.Global Burden of Atrial Fibrillation in Developed and Developing Nations [J]. 2014, 9(1): 113-9.   
+[2] GBD,HIV, HIV C JT L. Global, regional,and national incidence, prevalence,and mortality of HIV,1980-2017,and forecasts to 2030,for 195 countries and territories: a systematic analysis for the Global Burden of Diseases,Injuries,and Risk Factors Study 2O17 [J]. 2019, 6(12): e831-e59.   
+[3] KIRCHHOF P, BENUSSI S,KOTECHA D,et al. 2016 ESC Guidelines for the management of atrial fibrillation developed in collaboration with EACTS [J]. Eur Heart J,2O16,37(38): 2893-962.   
+[4] BENJAMIN E J, MUNTNER P, ALONSO A, et al. Heart Disease and Stroke Statistics-2019 Update:A Report From the American Heart Association [J]. Circulation,2O19,139(10): e56-e528.   
+[5] WANG Y J,LI Z X, GU H Q, et al. China Stroke Statistics 2019: A Report From the National Center for Healthcare Quality Management in Neurological Diseases, China National Clinical Research Center for Neurological Diseases, the Chinese Stroke Association, National Center for Chronic and Non-communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention and Institute for Global Neuroscience and Stroke Collaborations [J]. Stroke Vasc Neurol,2020,5(3): 211-39.   
+[6] WANG X,FU Q, SONG F, et al. Prevalence of atrial fibrillation in different socioeconomic regions of China and its association with stroke: Results from a national stroke screening survey [J]. Int J Cardiol,2018,271: 92-7.   
+[7] STAERK L,WANG B,PREIS S R, et al. Lifetime risk of atrial fibrillation according to optimal, borderline,or elevated levels of risk factors: cohort study based on longitudinal data from the Framingham Heart Study [J]. BMJ,2018,361: k1453.   
+[8] YIIN G S,HOWARD D P, PAUL N L,et al. Age-specific incidence, outcome,cost, and projected future burden ofatrial fibrilation-relatedembolicvascularevents:a population-based study [J]. Circulation, 2014,130(15): 1236-44.   
+[9] VIRANI S S,ALONSO A,BENJAMIN EJ, et al. Heart Disease and Stroke Statistics—2020 Update:A Report From the American Heart Association [J]. 2020， 141(9): CIR0000000000000757-.   
+[10] 陈竺．健康中国 2020 战略研究报告[M]．健康中国 2020 战略研究报告,2012.   
+[11] KIRCHHOF P, BAX J,BLOMSTROM-LUNDQUIST C,et al. Early and comprehensive management of atrial fibrilltion: executive summary of the proceedings from the 2nd AFNET-EHRA consensus conference 'research perspectives in AF' [J]. Eur Heart J, 2009, 30(24): 2969-77c.   
+[12] GLADSTONE D J，SPRING M,DORIAN P,et al. Atrial fibrillation in patients with cryptogenic stroke [J]. N Engl JMed, 2014, 370(26): 2467-77.   
+[13] CALKINS H, HINDRICKSG，CAPPATOR，etal. 2017 HRS/EHRA/ECAS/APHRS/SOLAECE expert consensus statement on catheter and surgical ablation of atrial fibrillation [J]. Europace,2018,20(1): e1-e160.   
+[14] DU X, GUO L, XIA S,et al. Atrial fibrillation prevalence,awareness and management in a nationwide survey of adults in China [J]. Heart, 2021.   
+[15] TURAKHIA M P, SHAFRIN J,BOGNAR K,et al.Estimated prevalence of undiagnosed atrial fibrillation in the United States [J]. PLoS One,2018,13(4): e0195088.   
+[16] HINDRICKS G, POTPARA T, DAGRES N, et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS)[J]. Eur Heart J,2021, 42(5): 373-498.   
+[17] CHUA S K, CHEN L C, LIEN L M, et al. Comparison of Arrhythmia Detection by 24-Hour Holter and 14-Day Continuous Electrocardiography Patch Monitoring [J]. Acta Cardiol Sin, 2020, 36(3): 251-9.   
+[18] ZAPRUTKO T, ZAPRUTKO J, BASZKO A, et al. Feasibility of Atrial Fibrillation Screening With Mobile Health Technologies at Pharmacies [J]. J Cardiovasc Pharmacol Ther, 2020, 25(2): 142-51.   
+[19] SIONTIS K C, GERSH B J, KILLIAN J M, et al. Typical,atypical, and asymptomatic presentations of new-onset atrial fibrillation in the community: Characteristics and prognostic implications [J]. Heart Rhythm,2016,13(7): 1418-24.   
+[20] ATTIA Z I， NOSEWORTHY P A，LOPEZ-JIMENEZ F, et al. An artificial intelligence-enabled ECG algorithm tor the identitication of patients with atrial tibrillation during sinus rhythm: a retrospective analysis of outcome prediction [J]. Lancet, 2019, 394(10201): 861-7.   
+[21] GUO Y, WANG H, ZHANG H, et al. Mobile Photoplethysmographic Technology to Detect Atrial Fibrillation [J].JAm Coll Cardiol, 2019,74(19): 2365-75.   
+[22] TURAKHIA M P, DESAI M, HEDLIN H, et al. Rationale and design of a large-scale, app-based study to identify cardiac arrhythmias using a smartwatch: The Apple Heart Study [J]. 2018,207.   
+[23] HENRIKSEN A, HAUGEN MIKALSEN M, WOLDAREGAY A Z, et al. Using Fitness Trackers and Smartwatches to Measure Physical Activity in Research: Analysis of Consumer Wrist-Worn Wearables [J]. JMed Internet Res, 2018,20(3): e110.   
+[24] World Health Organization. Cardiovascular diseases[EB/OL] [Z].   
+[25] DAS M, PANTER L,WYNN G J,et al. Primary Care Atrial Fibrillation Service: outcomes from consultant-led anticoagulation assessment clinics in the primary care setting in the UK [J]. BMJ Open, 2015,5(12): e009267.   
+[26] PROIETTI M, ROMITI G F, OLSHANSKY B, et al. Improved Outcomes by Integrated Care of Anticoagulated Patients with Atrial Fibrillation Using the Simple ABC (Atrial Fibrillation Better Care) Pathway [J]. Am JMed,2018,131(11): 1359-66 e6.   
+[27] YOON M, YANG P S, JANG E, et al. Improved Population-Based Clinical Outcomes of Patients with Atrial Fibrillation by Compliance with the Simple ABC(Atrial Fibrillation Better Care） Pathway for Integrated Care Management: A Nationwide Cohort Study [J]. Thromb Haem0st,2019,119(10):1695-703.   
+[28] PASTORI D，PIGNATELLI P, MENICHELLI D,et al. Integrated Care Management of Patients With Atrial Fibrillation and Risk of Cardiovascular Events: The ABC (Atrial fibrillation Better Care) Pathway in the ATHERO-AF Study Cohort [J].Mayo Clin Proc, 2019, 94(7): 1261-7.   
+[29] PASTORI D,FARCOMENI A, PIGNATELLI P, et al. ABC(Atrial fibrillation Better Care) Pathway and Healthcare Costs in Atrial Fibrillation: The ATHERO-AF Study [J]. Am J Med, 2019,132(7): 856-61.   
+[30] BAYOUMY K, GABER M, ELSHAFEEY A, et al. Smart wearable devices in cardiovascular care: where we are and how to move forward [J]. Nat Rev Cardiol, 2021,18(8): 581-99.   
+[31] GUO Y,LANE D A, WANG L, et al. Mobile Health Technology to Improve Care for Patients With Atrial Fibrillation [J]. JAm Coll Cardiol, 2020,75(13): 1523-34.   
+[32] HERMANS A，MONIKA G, LISA D,et al.A systematic review of mobile health opportunities for atrial fibrillation detection and management [J]. 2021.   
+[33] 中国互联网络发展状况统计报告 [J].   
+[34] DRAGOS V,LOPES R D,M CECILIA B,et al.A multifaceted intervention to improve treatment with oral anticoagulants in atrial fibrillation (IMPACT-AF):an international, cluster-randomised trial[J].2018,2017 年 390 卷 10104 期:1737-46 页.   
+[35] SHACHAM J, BIRATI E Y, MALOV N, et al. Telemedicine for diagnosing and managing paroxysmal atrial fibrillation in outpatients. The phone in the pocket [J]. 2012,157(1): 91-5.

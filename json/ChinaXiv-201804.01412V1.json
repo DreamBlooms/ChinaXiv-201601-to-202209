@@ -1,0 +1,497 @@
+[
+    {
+        "type": "text",
+        "text": "基于概率密度PCA的多模态过程故障检测",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郭金玉，刘玉超，李元(沈阳化工大学 信息工程学院，沈阳 110142)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了提高故障检测和分类能力，提出基于概率密度PCA的多模态过程故障检测算法。对各模态的训练数据建立PCA模型，计算各个模型的控制限和匹配系数。根据匹配系数计算各模态统一的控制限。对新来的数据，运用概率密度确定其模态。新来数据向对应模态的模型上投影并计算统一的统计量，比较统计量与控制限进行多模态过程故障检测。把该方法应用到数值例子和半导体过程中，仿真结果表明，该算法在分类及多模态过程故障检测方面具有很高的准确性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：多模态过程；故障检测；概率密度；主元分析；匹配系数中图分类号：TP277 doi:10.3969/j.issn.1001-3695.2017.12.0838",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PCA based on probability density for fault detection of multimodal processes ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guo Jinyu, Liu Yuchao, Li Yuan (College of Information Engineering,Shenyang UniversityofChemical Technology,Shenyang110142,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Inorder to improve theabilityoffault detectionand classification,this paper proposedPCAbasedonprobability densityforfaultdetectionofmultimodal processs.ItestablishedPCAmodelfortrainingdataofeachmode,andcalculatedthe controllimitsand matchingcoeficientsofeach model.Itcalculatedtheunifiedcontrol limitofeach mode acording to the matchingcoefcients.Foranewdata,itdetermineditsmodebytheprobabilitydensity.ItprojectedthenewdatatoCAmodel of the corrsponding modeandcalculated the unified statistics.It performed fault detection of multimodal proceses by comparing the statistics with control limit.We aplied the method to a numerical example and the semiconductor proce. Simulationresults show that the proposed algorithm has high accuracyinclasificationand fault detectionof multimodal processes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:multimodal processes;fault detection;probability density;principalcomponent analysis(PCA)；matching coefficients ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着科技和自动化水平的不断提高，工业生产过程越来越复杂，这使得过程监控越来越受到人们的重视[1-3]。其中基于数据驱动的故障检测技术受到国内外学术界的广泛关注，以主元分析（principal component ana-",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "lysis,PCA）算法为代表的多元统计分析方法迅速发展，并衍生出多种新的故障检测方法[4-6]。PCA是一种对数据进行化简的方法，但是它只能提取数据的全局信息，会造成局部信息的丢失，而且处理非线性问题效果不理想。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "多模态间歇过程具有严重的非线性、时变性和多工况等特性，这使得多模态间歇过程的故障诊断更加具有挑战性。近年来，许多学者通过不同角度分析多模态工业过程，并提出了多种故障诊断方法[7,8]。为了解决具有非高斯、非线性的多模态间歇过程故障检测问题，He 等人[9提出基于 $k$ 近邻(knearestneighbor,KNN)的故障检测算法。KNN算法对多模态非线性问题是有效的，但是对于样本容量大的数据集其计算量比较大，而且当多模态样本方差差别较大时，检测效果不理想。另外，KNN算法每次分类都会重新进行全局运算。为了建立单个模型来实现多模态过程的监控目的，马贺贺等人[10]提出基于局部离群因子(localoutlierfactor，LOF)的方法进行故障检测。因为LOF值适用于基于不同密度的数据集群，此时可以得出此对象的LOF值，以更确切地判断其是否为一个噪声点。但此方法也具有一定的局限性，并不能适用于所有的场景。此外，它的计算也相对较为复杂，准确性不高。最近，为了能及时检测多工况生产过程中的故障，刘帮莉等人[I提出基于局部密度估计的多模态过程监控策略。针对间歇过程的多工况和非线性特征，李元等人[12]提出基于动态多向局部离群因子算法（dynamic multiway local outlier factor，DMLOF）。Deng 等人[13]提出基于局部近邻相似度分析的多模态故障检测方法，将该方法应用到连续过程的故障检测中。郭金玉等人[14]在此基础上，提出基于在线升级主样本建模的批次过程KNN故障检测方法。本文提出一种基于概率密度 PCA（PCAbased on probabilitydensity,PD-PCA）的多模态间歇过程故障检测算法。运用概率密度函数[15进行模态识别，在此基础上，运用PCA进行多模态间歇过程故障检测。该方法可以有效地判断数据的模态，使得多模态间歇过程故障诊断结果更加准确。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1基于概率密度PCA的多模态过程故障检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1概率密度函数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "核密度估计（Kernel density estimation，KDE）[16,17]，是一种用于估计概率密度函数的非参数方法。它的基本思想是用假定的正态分布计算分布中统计样本的密度。设 $\\boldsymbol { x } _ { 1 } , \\boldsymbol { x } _ { 2 } , \\cdots \\boldsymbol { x } _ { n }$ 是服从独立同分布的随机变量，其服从的分布密度函数为 $f _ { \\boldsymbol { h } } ( \\boldsymbol { x } )$ ，$x \\in R$ ，定义函数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\boldsymbol f } _ { \\scriptscriptstyle h } ( \\boldsymbol x ) = \\frac { 1 } { n h } \\sum _ { j = 1 } ^ { n } K \\{ \\frac { \\boldsymbol x - \\boldsymbol x _ { i } } { h } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为密度函数 $f _ { h } ( x )$ 的核密度估计。其中： $K ( \\ ? )$ 称为核函数；$h$ 为预先给定的正数，通常称为窗口宽度或光滑参数； $n$ 为样本个数。概率密度函数用于检测当前时刻数据点属于哪个参考训练数据集，较大的密度表示当前时刻的数据在训练数据集内，本文利用该属性进行模态识别。对于一个新获得的样本 $\\scriptstyle { \\mathbf { 1 } } { \\mathrm { } } x _ { n e w }$ 其核密度估计器为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\scriptscriptstyle i } ( x _ { \\scriptscriptstyle n e w } ) = \\frac { 1 } { m h } \\sum _ { \\scriptscriptstyle j = 1 } ^ { \\scriptscriptstyle m } K \\{ \\frac { x _ { \\scriptscriptstyle n e w , \\scriptscriptstyle j } - x _ { \\scriptscriptstyle i , j } } { h } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $i = 1 , 2 , \\cdots , n$ ; $\\boldsymbol { x } _ { n e w , j }$ 表示 $\\boldsymbol { x } _ { n e w }$ 的第 $j$ 个变量值； $\\boldsymbol { x } _ { i , j }$ 表示训练数据集中第 $i$ 个样本的第 $j$ 个变量值； $h$ 是窗口宽度； $\\mathbf { \\nabla } _ { m }$ 为变量个数。核函数 $K$ 决定了函数图形的凸起程度，目前存在很多的概率密度函数。在实际应用中，高斯核函数是应用最广泛的。本文采用高斯核，其核估计函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i } ( x _ { _ { n e w } } ) = \\frac { 1 } { m } \\frac { 1 } { h \\sqrt { 2 \\pi } } \\sum _ { j = 1 } ^ { m } \\exp \\biggl [ - \\frac { ( x _ { _ { n e w , j } } - x _ { _ { i , j } } ) ^ { 2 } } { 2 h ^ { 2 } } \\biggr ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于窗口宽度 $h$ 的选择，已有大量文献研究，建议根据具体情况选择合适的经验值。正常状态下的训练数据集容易获得有效的信息，因此可以保证KDE的性能。如果当前样本与训练样本同属于一个模态，其密度值通常会比较大；否则，密度值将很小，接近于零。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2多模态PCA模型的建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于在多变量统计分析中，主元分析可以有效地提取数据特征，并对原始数据起到降低维数的作用[18]，所以对多个操作",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模式的过程进行监控时需要建立多个PCA 模型[19]。假设生产过程包含 $N$ 个操作模态， $X _ { _ r } ^ { ( s ) }$ ? $( s { = } 1 , 2 { \\dots } N )$ 是某一模态矩阵，其中 $\\boldsymbol { r }$ 为该模态的标签，对 $X _ { r } ^ { ( s ) }$ 进行主成分分解为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { _ { r } } ^ { _ { ( s ) } } = \\hat { X } _ { _ { r } } ^ { _ { ( s ) } } + E = T ^ { _ { ( s ) } } P ^ { _ { ( s ) T } } + E\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $T ^ { ( s ) }$ 是主元得分矩阵； $P ^ { ( s ) }$ 是负载矩阵； $E$ 是残差向量。在利用PCA进行故障检测时，常用的统计指标有平方预测误差（squared prediction error,SPE）（也称Q统计量）和Hotelling's$\\mathrm { T } ^ { 2 }$ 。SPE 统计量反映了输入变化量的测量值对主元模型的偏离程度，是对模型外部变化的一种度量； $\\mathrm { T } ^ { 2 }$ 统计量反映了每个主元在变化趋势和幅值上偏离模型的程度，是对模型内部变化的一种度量，它可以用来对多个主元同时检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模态 $\\boldsymbol { r }$ 的 SPE统计量为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS P E _ { r , \\alpha } = \\left\\| ( I - P P ^ { \\tau } x _ { r } \\right\\| ^ { 2 } \\leq \\delta _ { \\alpha } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\delta _ { \\alpha } ^ { 2 }$ 表示置信水平为 $\\alpha$ 的控制限，当SPE在控制限内时，即认为是正常样本。 $\\delta _ { \\alpha } ^ { 2 }$ 控制限的计算公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { \\alpha } ^ { 2 } = \\theta _ { 1 } ( \\frac { C _ { \\alpha } \\sqrt { 2 \\theta _ { 2 } h _ { 0 } ^ { 2 } } } { \\theta _ { 1 } } + l + \\frac { \\theta _ { 2 } h _ { 0 } ( h _ { 0 } - l ) } { \\theta _ { 1 } ^ { 2 } } ) ^ { 1 / h _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：θ=∑² （i=1,2,3）； $h _ { \\scriptscriptstyle 0 } = 1 - 2 \\theta _ { \\scriptscriptstyle 1 } \\theta _ { \\scriptscriptstyle 3 } / 3 \\theta _ { \\scriptscriptstyle 1 } ^ { \\scriptscriptstyle 2 }$ ； $\\boldsymbol { c } _ { \\alpha }$ 为标准正态j=/+1  \n分布在置信水平 $\\alpha$ 下的阈值； $l$ 为PCA模型的主元个数； $m$ 为  \n矩阵 $X$ 的维数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模态 $\\boldsymbol { r }$ 的 Hotelling's $T _ { r } ^ { 2 }$ 统计量定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal T } _ { r , \\alpha } ^ { 2 } = x _ { { } _ { r } } ^ { \\mathrm { { T } } } P \\Lambda ^ { { - } 1 } P ^ { \\mathrm { { T } } } x _ { { } _ { r } } \\leq { \\cal T } _ { \\alpha } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Lambda = d i a g \\{ \\lambda _ { \\mathfrak { i } } , \\cdots , \\lambda _ { \\mathfrak { i } } \\}$ ; ${ \\cal T } _ { \\alpha } ^ { 2 }$ 表示置信度为 $\\alpha$ 的控制限。设过程正常运行时的样本服从多元正态分布， $T _ { \\alpha } ^ { 2 }$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\alpha } ^ { 2 } = \\frac { l ( n ^ { 2 } - 1 ) } { n ( n - l ) } F _ { \\scriptscriptstyle { l , n - l ; \\alpha } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $F _ { _ { l , n - l ; \\alpha } }$ 是带有 $l$ 和 $n { - } l$ 个自由度、置信度为 $\\alpha$ 的 $F$ 分布的临界值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在计算出每个模态统计量的控制限后，为了使多模态数据进行统一的检测，需要对各个模态的控制限进行匹配。本文以选取公倍数的方法确定每个模态控制限的匹配系数，从而达到统一控制限的目的[18]。多模态SPE统计量统一的控制限公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS P E = \\prod _ { r = 1 } ^ { N } S P E _ { { r } , \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $N$ 为模态的总数；模态 $\\boldsymbol { r }$ 的 SPE匹配系数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS P E _ { \\mathrm { { r } } } = \\prod _ { \\stackrel { x r = 1 } { x r \\neq r } } ^ { N } S P E _ { { x r } , \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多模态 $T ^ { 2 }$ 统计量统一的控制限为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT ^ { 2 } = \\prod _ { r = 1 } ^ { N } T _ { r , \\alpha } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模态 $\\boldsymbol { r }$ 的 $T ^ { 2 }$ 匹配系数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ {  { \\boldsymbol { r } } } ^ { 2 } = \\prod _ {  { \\boldsymbol { x } } \\ r = 1 } ^ { N } T _ {  { \\boldsymbol { x } } \\ r , \\alpha } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算新来测试样本与训练样本的概率密度，运用概率密度最大的训练数据标签进行模态划分，计算所属模态标签为 $\\boldsymbol { r }$ 下的统计量 $S P E _ { r , \\alpha }$ 和 $T _ { r , \\alpha } ^ { 2 }$ ，再分别乘以匹配系数 $S P E _ { r }$ 和 $T _ { r } ^ { 2 }$ ，计算出统一的统计量，从而达到在统一的控制限下进行多模态过程检测的目的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3建模过程与在线监测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采集正常工况下各个模态的数据，首先对各个模态的训练数据建立PCA模型，计算各个模型的控制限和匹配系数。根据匹配系数计算各个模态统一的统计量和控制限。对新来的数据，计算与训练数据的概率密度，运用概率密度最大的训练数据标签确定新数据的模态。将新来数据向对应模态的PCA模型上投影，根据匹配系数计算统一的统计量，比较统计量与控制限进行多模态故障检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于PD-PCA方法的多模态过程故障检测流程如图1所示。其主要分为建模过程与在线监视两部分。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1建模过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)对正常工况下各个模态的训练数据分别进行标准化处理。2）建立各个模态的PCA模型，根据累积贡献率选择合适的主元个数。3）计算各个模型的控制限和匹配系数，根据匹配系数计算各个模态统一的统计量和控制限。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2在线监视 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）计算新来测试数据与训练数据的概率密度。2)根据概率密度最大的训练数据标签确定测试数据的模态。3）将新来数据向对应模态的PCA模型上投影，根据匹配系数计算统一的统计量。4）将统计量与控制限进行比较。若统计量大于控制限，则该反映时刻的数据样本是故障的；否则是正常的。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a1083ce6a9211d17c930cec3ad29298a17a6e65ccb7fba03b4fa37d1712d86f.jpg",
+        "img_caption": [
+            "图1基于PD-PCA方法的多模态过程故障检测流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 仿真结果与分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1工业过程故障诊断",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着现代工业和科技的进步以及计算机水平的不断提高，化工生产过程设备越来越趋近于复杂化，自动控制系统的规模也越来越大，这不但大大提高了生产效率，同时也降低了生产成本。但同时大规模的化工设备使得影响系统正常运行的因素大大增加，由于系统内部的关联越来越密切，一个部件的异常就有可能导致整个自动控制系统故障。另外，化工行业生产环境条件非常恶劣，一旦操作不当，疏于检查或者出现自然灾害，就有可能出现爆炸、毒气泄漏的危险。目前，在化工生产过程中，爆炸或泄露现象时有发生，这不仅使生产遭受巨大损失，有时甚至会造成人员伤亡，甚至对生态环境造成恶劣的影响。因此，保证化工生产过程的安全稳定运行尤为重要。故障诊断技术作为一种监测和诊断生产过程故障的有效方法，对于提高现代自动控制系统的可靠安全运行、保证化工过程的有效操作具有重要作用。本文通过基于概率密度的PCA算法及时发现故障，对保证化工生产过程的正常运行具有重要意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2多模态数值例子",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本节通过一个人工合成的多模态数值例子[19]，验证基于概率密度的PCA算法对多模态过程故障检测的有效性。在此数据中每个样本有两个变量，并且线性相关。在模态1中，变量 $y _ { 1 }$ 服从[0，1]的均匀分布；在模态2中，变量 $y _ { 1 }$ 服从[1，2]的均匀分布。在2个模态中，noise服从均值为0、标准差为0.01的正态分布的噪声。具体数据来源于式(13):",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M o d e \\ 1 : ~ } ~ y _ { \\mathrm { { } } } = 2 y _ { \\mathrm { { } } } + n o i s e\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { M o d e 2 } \\colon y _ { 2 } = 1 . 5 y _ { 1 } + n o i s e + 6 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按上述模型产生两个模态的500个正常数据作为训练样本，100 个正常数据作为校验样本，5个异常数据作为故障样本。图2 是训练样本、校验样本、故障样本的数据分布散点图。从图2可以看出该数值例子是多模态的。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6880fd84ef9b338062724f2112a58f09c977801d0ec3c83a4a60877bf0bde7a2.jpg",
+        "img_caption": [
+            "图2数据分布散点图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通常所用的故障检测性能指标，有故障检测率、误报率和漏报率等。故障检测率是指系统诊断报告出实际发生故障的部件或设备的数量占所有发生故障部件的百分比。即检测到超出控制限的故障样本占所有故障样本的百分比。误报是指实际没有故障情况而系统诊断报告出某一部件或设备故障。误报率定义为超出控制限的正常样本占所有正常样本的百分比。漏报是指故障已经发生，而系统未能诊断到作出报警响应或指示等处理。漏报率定义为未超出控制限的故障样本占所有故障样本的百分比。故障检测率和漏报率之和为1。文中选择误报率和漏报率作为指标，评价算法的故障检测效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对多模态数值例子运用PCA、KNN、LOF和PD-PCA方法进行故障检测，检测结果如图3所示。KNN中，近邻数$k { = } 3$ 。LOF中，近邻数为23。PCA和PD-PCA的主元个数通过累计贡献率确定。从图3可以看出，PCA算法的SPE统计量检测出1个故障数据，2个样本出现误报； $\\mathrm { T } ^ { 2 }$ 统计量检测出1个故障样本，3个样本出现误报。KNN算法检测出个4故障数据，4个样本出现误报。LOF 算法检测出1个故障数据，2个样本出现误报。PD-PCA算法的SPE 统计量检测出全部的故障数据，无样本出现误报；T统计量检测出4个故障样本，无样本出现误报。与PCA、KNN和LOF方法相比，PD-PCA故障检测率较高，误报率相对较低，从而验证PD-PCA算法的有效性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1是四种算法对数值例子的检测结果。由表1可以看出，PD-PCA算法的SPE检测指标和T检测指标检测效果均明显优于PCA的检测效果。KNN算法的漏报率较低，但是相对PD-PCA算法其误报率相对较高。LOF算法的误报率较低，但是未完全检测出全部的故障，这是由于LOF易受离群样本的影响。综上所述，与其他三种算法对比，PD-PCA算法有较低的误报率和漏报率，验证了该算法的有效性和优越性。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e76c92f6c14e10c0275b9dbaabdf275f3dbcb7271af9b3bacfd39a81295e3102.jpg",
+        "table_caption": [
+            "表1多模态数值例子的检测结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">PCA</td><td>KNN</td><td>LOF</td><td colspan=\"2\">PD-PCA</td></tr><tr><td></td><td>SPE</td><td>T</td><td>距离</td><td>LOF</td><td>SPE</td><td>T</td></tr><tr><td>误报率(%)</td><td>2</td><td>3</td><td>4</td><td>2</td><td>0</td><td>0</td></tr><tr><td>漏报率(%)</td><td>80</td><td>40</td><td>20</td><td>80</td><td>0</td><td>20</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3半导体生产过程数据",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "半导体生产过程作为一个完善的工业过程仿真平台，在基于数据驱动的故障检测研究领域得到了广泛的应用。本文应用半导体工业实例—一A1 堆腐蚀过程[20.22]比较不同的故障检测方法的性能。半导体数据来源于美国德州仪器公司的半导体生产过程实际数据，是个典型的非线性、时变、多阶段和多工况的复杂多模态间歇过程。数据集中的变量EndPtA表明了这些特性，如图4所示。该数据是由3个模态的108个正常批次和21个故障批次组成，这些数据分别从3次实验（1996年二月、三月和四月）中产生的。由于两个批次过程（第56个正常批次和第12个故障批次）丢失大量的数据，所以实际的批次为107批正常数据和20 批故障数据。通过改变变量产生 20个故障如表2所示。在107个正常批次中1\\~34批次为第一模态，35\\~70批次为第二模态，71\\~107批次为第三模态。每个模态分别选取32个批次用于建模，剩下的正常批次作为校验批次用来验证模型的准确性，因此建模批次为96个，正常校验批次为11个，故障批次为20个。从21个测量变量中选取17个变量作为检测变量，如表3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8ba344b33ea605253a4f54a2f40bc9996f97c8a1bf8cf86fde9387b9078ebd8.jpg",
+        "img_caption": [
+            "图3四种方法对多模态数值例子的故障检测图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每个批次是不等长的，持续时间在95\\~112s间变化。本文运用最短长度法获得等长批次。为了消除传感器中初始的波动影响，去除开始的5个样本，保留 85个样本以适应最短的批次。将三维建模数据 ${ X \\left( { 9 6 \\times 8 5 \\times 1 7 } \\right. }$ )沿批次方向展开成二维矩阵$X$ （ $9 6 \\times 1 4 4 5$ )。对校验数据和故障数据也进行同样的处理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对二维数据矩阵分别运用PCA、KNN、LOF和PD-PCA方法进行建模，并对11个校验批次和20个故障批次数据进行故障检测。KNN中，近邻数 $k { = } 3$ 。LOF中，近邻数为23。PCA和PD-PCA的主元个数由主元贡献率决定。表4是四种算法对半导体数据的检测结果。由表4可以看出，PCA和PD-PCA算法的 $\\mathrm { T } ^ { 2 }$ 检测指标检测出相同数量的故障批次，PD-PCA算法的误报率相对较高，但是PD-PCA算法的SPE检测指标检测出全部的故障批次，而且没有误报，其故障检测效果明显优于PCA算法。KNN和LOF算法的误报率较低，但是未完全检测出全部的故障，这是由于KNN和LOF易受离群样本的影响。综上所述，与其他三种算法对比，PD-PCA算法有较低的误报率和漏报率，说明该方法对于多模态数据的故障检测非常有效，验证了该算法的有效性和优越性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0da133b912e6eadffc0eca14977829f7c0c9ca702b2e4b8b6c15ff52a8758fa.jpg",
+        "img_caption": [
+            "图4数据集中的变量EndPtA"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1f133710e89f0f36037f5913ab8d56d9af4ea3639857b0eb4c8126bc95511c13.jpg",
+        "table_caption": [
+            "表4四种算法对半导体数据的检测结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>漏报率(%) 误报率(%) 0 6 8 u 9 4 u Ⅱ 0 6 8 L 9 S 4 乙 s 0 / / / / / / /</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b157addb751839e1cfb7313bf5fa8dbbaea4d99d4529f041c293eae68a0154f.jpg",
+        "table_caption": [
+            "表2半导体生产过程所用的故障"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号序号</td><td>故障</td><td>序号</td><td>故障</td></tr><tr><td>1</td><td>TCP + 50</td><td>11</td><td>C12+5</td></tr><tr><td>2</td><td>RF - 12</td><td>12</td><td>BC13 - 5</td></tr><tr><td>3</td><td>RF+10</td><td>13</td><td>Pr+2</td></tr><tr><td>4</td><td>Pr +3</td><td>14</td><td>TCP - 20</td></tr><tr><td>5</td><td>TCP + 10</td><td>15</td><td>TCP - 15</td></tr><tr><td>6</td><td>BC13 + 5</td><td>16</td><td>C12 - 10</td></tr><tr><td>7</td><td>Pr- 2</td><td>17</td><td>RF - 12</td></tr><tr><td>8</td><td>C12 -5</td><td>18</td><td>BC13 + 10</td></tr><tr><td>9</td><td>He Chuck</td><td>19</td><td>Pr+1</td></tr><tr><td>10</td><td>TCP+30</td><td>20</td><td>TCP+20</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/192b2bfd614d82128a7079c23bb9c70fa9f937ba59d700cffdc12d1ed681f86e.jpg",
+        "table_caption": [
+            "表3半导体生产过程所用检测变量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>过程变量</td><td>序号</td><td>过程变量</td></tr><tr><td>1</td><td>BC13流量</td><td>10</td><td>RF功率</td></tr><tr><td>2</td><td>C12 流量</td><td>11</td><td>RF 阻抗</td></tr><tr><td>3</td><td>RF 底部功率</td><td>12</td><td>TCP调谐</td></tr><tr><td>4</td><td>A检测端点</td><td>13</td><td>TCP 相位误差</td></tr><tr><td>5</td><td>氨压力</td><td>14</td><td>TCP 阻抗</td></tr><tr><td>6</td><td>Helium 压强</td><td>15</td><td>TCP 顶部功率</td></tr><tr><td>7</td><td>RF调谐</td><td>16</td><td>TCP负荷</td></tr><tr><td>8</td><td>RF负荷</td><td>17</td><td>Vat阀门</td></tr><tr><td>9</td><td>相对误差</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种基于PD-PCA的多模态过程故障检测方法。该算法用于处理多模态故障检测过程，能够最大化地分离多模态的正常和故障数据。运用概率密度能够准确的进行模态识别，从而更加准确地检测出校验数据和故障数据来自哪个模态。将本文方法应用到数值例子和实际的半导体工业数据中，仿真结果表明，与传统的故障检测算法相比，本文算法降低了误报率和漏报率，验证了该方法的有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Venkatasubramanian V,Rengaswamy R,Yin K,et al.A review of process fault detection and diagnosis:part 丨:Quantitative model-based methods [J].Computers& Chemical Engineering,2003,27(3): 293-311.   \n[2]Venkatasubramanian V,Rengaswamy R,Yin K,et al.A review of process fault detection and diagnosis:part Il :Quantitative models and search strategies [J].Computers& Chemical Engineering,2003,27(3):313-326.   \n[3]Venkatasubramanian V,Rengaswamy R,Yin K,et al.A review of process fault detection and diagnosis:Part Ill:Process history based methods [J]. Computers & Chemical Engineering,2003,27(3):327-346.   \n[4] 周东华，李钢，李元．数据驱动的工业过程故障检测与诊断技术[M]. 北京：科学出版社,2011:1-76.   \n[5] 郭金玉，齐蕾蕾，李元．基于DMOLPP 的间歇过程在线故障检测[J]. 仪器仪表学报,2015,36(1):28-36.   \n[6]Hu K,Yuan J. Statistical monitoring of fed-batch process using dynamic multiway neighborhood preserving embedding [J]. Chemometrics and intelligent laboratory systems,2008,90 (2):195-203.   \n[7]Zhao Shijian, Zhang Jie,Xu Yongmao.Performance monitoring of process with multiple operation modes through multiple PLS models [J]. Journal of Process Control,2006,16(7): 763-772.   \n[8]Yu Jie.A nonlinear kernel Gaussian mixture model based inferential monitoring approach for fault detection and diagnosis of chemical processes [J].Chemical Engineering Science,2012,68(1): 506-519.   \n[9]He Q P,Wang J.Fault detection using the K-nearest neighbor rule for semiconductor manufacturing processes [J]. IEEE Trans on Semiconductor Manufacturing,2007,20 (4): 345-354.   \n[10]马贺贺，胡益，侍洪波．基于马氏距离局部离群因子方法的复杂化工过 程故障检测[J].化工学报，2013,64(5):1674-1682.   \n[11]刘帮莉，马玉鑫，侍洪波．基于局部密度估计的多模态过程故障检测 [J]．化工学报,2014,65(8):3071-3081.   \n[12]李元，马雨含，郭金玉．基于动态多向局部离群因子的在线故障检测 [J].计算机应用研究,2017,34(11):3259-3261,3266.   \n[13] Deng Xiaogang, Tian Xuemin.Multimode process fault detection using local neighborhood similarity analysis [J].中国化学工程学报：英文版, 2014,22 (11-12): 1260-1267.   \n[14]郭金玉，陈海彬，李元．基于主样本模型的间歇过程 KNN 故障检测方 法[J]，信息与控制,2014,43(4):495-500.   \n[15] Jiang Q,Yan X,Tong C.Double-weighted independent component analysis for non-Gaussian chemical process monitoring [J]. Industrial & Engineering Chemistry Research,2013,52 (40): 14396-14405.   \n[16] Rosenblatt M.Curve estimates [J].Annals of Mathematical Statistics,1971, 42 (6): 1815-1842.   \n[17] Parzen E.On estimation of a probability density function and mode [J]. Annals of Mathematical Statistics,1962,33 (3):1065-1076.   \n[18]郭金玉，袁堂明，李元．一种不等长的多模态间歇过程故障检测方法 [J]．化工学报,2016,67(7):2916-2924.   \n[19]谭帅，王福利，常玉清，等．基于差分分段PCA的多模态过程故障检测 [J]．自动化学报,2010,11(36):1626-1636.   \n[20] Wise B M,Gallagher NB,Butler S W,et al.A comparison of principal component analysis,multiway principal component analysis,trilinear decomposition and parallel factor analysis for fault detection in a semiconductor etch process [J].Journal of Chemometrics,2015,13 (3-4): 379-396.   \n[21] Lee SP,Chao AK,Tsung F,et al.Monitoring batch processes with multiple on-off steps in semiconductor manufacturing [J].Journal of Quality Technology,2011,43 (2):142-157.   \n[22] Yu J.Fault detection using principal components based Gaussian mixture model for semiconductor manufacturing processes [J]. Semiconductor Manufacturing,2011,24(3):432-444. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

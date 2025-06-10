@@ -1,0 +1,536 @@
+[
+    {
+        "type": "text",
+        "text": "鲁棒可预测判别字典学习人脸识别方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张健ab，米建勋a,b",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(重庆邮电大学a.计算机科学与技术学院;b.计算智能重庆市重点实验室，重庆 400065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：提出一种可预测判别 K-SVD 网络模型(DKSVDN)并用于人脸识别问题。该模型构造了一种新颖的字典结构，包含类别标签字典和描述字典，以兼顾判别和重构性能。相应的稀疏编码向量由标签编码向量和描述编码向量组成。针对样本稀疏编码时间效率低的问题，利用预测神经网络与判别字典学习模型协同训练的方法来加速预测稀疏编码。此外，针对DKSVDN 还特别引入一种拟梦境的训练方法用于提升模型在训练集多样性不足时的鲁棒性。通过在主流人脸数据集上的对比实验证明了该模型的优良性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：字典学习；稀疏表示；人脸识别；神经网络 中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2020.03.0080 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Robust discriminative K-SVD network for face recognition ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Jiana,b, Mi Jianxuna, bt (a. School ofComputer Science & Technology,b. Chongqing Key Laboratory of Computational Intelligence, Chongqing University of Posts & Telecommunications, Chongqing 400o65, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This paper presented a novel discriminative K-SVD network (DKSVDN) for face recognition.It embedded discriminative information into traditional K-SVDalgorithmbyspecialdesignof dictionaryaswellas sparse representation coeficients on the dictionary.The dictionary consisted of label specific atoms and descriptive atoms,while sparse codes containedone-hotlabel vectors and descriptivecodes.Inadition,assparserepresentation algorithms were time-consuming, DKSVDN attached aco-trained feed-forward neural network to discriminative dictionary learning model to predict sparse codes. Moreover, with generative module in DKSVDN,this work also designed anew dreaming training phaseto improve therobustness ofDKSVDNforunknownpatern inknownclassThe experimentresults onpublic face image datasets verified effectiveness of this method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: dictionary learning; sparse representation; face recognition; neural network ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，针对基于生物特征识别的身份识别技术的需求日益增长。人脸识别是生物特征识别的重要技术，得益于其无须接触、识别快速以及方便部署等特点，获得了社会各界的广泛关注，并迅速成为了计算机视觉领域最为热门的研究方向之一。人脸识别技术[1-3]最初基于几何特征对比，随后引入数据驱动的算法模型，包括以主成分分析、特征脸为代表的基于机器学习的人脸识别方法[4-1I]以及基于残差神经网络谷歌网络等深度神经网络的深度人脸识别方法[12-17]，这些方法的识别精度不断提升。然而，由于现实环境中存在大量的不确定性因素，人脸识别算法在实际应用于现实场景时需要面对的诸多问题更为复杂，光照、随机噪声、表情、姿态和装饰遮挡往往不能在训练数据中得到充分考虑。对现实场景的不充分采样严重影响了数据驱动的人脸识别算法模型的识别效果，成为了当下必须解决的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "字典学习(dictionary learming)是一种基于压缩感知理论(compressed sensingtheory)[l8]的生成模型，由Olshausen 与Field[19]于1996 年首次提出。此前，在生物学领域中关于哺乳动物的视觉机制的研究有了重大突破，研究发现，在视觉通路上的很多神经元对于初级视觉和中级视觉中的特殊刺激具有选择性，例如，颜色、纹理、方向、尺寸，甚至是不同视图的物体图像。基于这样的事实，Olshausen与Field设计了一种基于能量的字典学习模型。通过对样本图像训练学习，字典学习模型表明在过完备字典上自然图像具有十分紧凑的稀疏表达(sparserepresentation)系数，即图像可以由过完备字典中少量的字典项通过线性组合重构，而这很可能就是大脑视觉皮层V1区域所采取的编码策略。同时，在文献[20]中提出了一种二元交替优化结构来求解模型，优化过程具体包括稀疏编码部分和字典构造部分。这种结构奠定了字典学习的基础，被后继的字典学习算法普遍采用。Aharon 等人[21]通过探索向量量化与字典学习算法的联系提出了著名的K-SVD方法，该方法通过推广K-means算法改进了基于能量的字典学习模型。K-SVD算法开创性地在字典构造阶段引入了奇异值分解方法(SVD，singular value decomposition)来最小化重构误差。相较于已有字典学习算法存在只能批处理优化的局限，在线字典学习(ODL，online dictionary learning)[22]提出了在线训练字典的方法，在现如今海量的训练图片更具优势。ODL利用 $L _ { \\mathrm { 1 } }$ 范数约束模型的稀疏性，在字典构造阶段采取二阶优化求解最优字典项，这使得随机优化和小批量样本优化得以实施。字典学习的算法框架是在图像重构领域获得了巨大的成功[23]，许多的研究者将目光投向了热门的图像分类任务。Mairal 等人[24]提出了任务驱动的字典学习算法(task-drivendictionarylearning)，将监督信息引入了传统字典学习，将字典学习算法用于手写数字识别。D-KSVD（discriminativeK-SVD)[5扩展了K-SVD 算法，将字典学习算法用于人脸识别任务。D-KSVD利用K-SVD训练字典学习的同时训练一个专用分类器用于图像分类的任务，其在多个人脸图像数据集上都展现了优异的性能。Jiang 等人[25]基于DKSVD 提出了一个改进算法LCKSVD(LabelConsistentK-SVD)。LCKSVD在DKSVD 模型中加入了一个标签回归项以获得更强的判别信息。相较于上述字典学习分类方法使得稀疏编码携带分类信息，还有一类方法则构造具有判别性的字典，其基本思想是：针对每个类构造该类的字典，而样本在每个类别字典上重构误差往往被用来作为分类依据，即样本属于重构误差最小的子字典所属的类[10,11,26]。值得一提的是，这种方法是建立在样本和同一类的样本更加相似这个先验认知上的。这一类方法的起源是稀疏表达分类方法(SRC，sparse representationbased classification)[10]。SRC直接利用所有类别训练样本构造判别性字典来编码新样本。它在分类任务中获得令人惊喜的表现，但SRC的缺陷也是显而易见的：为提升最终分类性能所需要的字典规模往往过于庞大。随后，DLSI(structuralincoherent dictionary learning method)[27]针对 SRC 作出了改进，使得字典规模更为紧凑。以上提及的两类监督字典学习方法分别从两个不同的方向提升字典学习模型的判别性能。此外，研究者们还提出了同时使得编码向量和字典兼具判别性的方法。比如，FDDL(Fisher discrimination dictionarylearning)[28]就是一种典型的编码向量和字典兼具判别性的方法。FDDL应用 Fisher 判别准则学习一个结构化的字典，与此同时，Fisher判别准则还被应用于编码系数上使得编码向量具有尽可能大的类间距离和尽可能小的类内距离，从而获得优异的判别性能。Wang 等人[29]在中提出了一种同时学习类别字典和通用字典的模型(DLSPC)。这种方法利用类内字典抓取每一类的最具判别性的细节特性而公共字典用于保存共享的元素。此外，DLSPC还对编码加以约束，使得样本只在同一类的字典上进行表达而抑制在不同类字典上的表达。DLSPC利用样本在每一类子字典上重构误差进行分类。然而由于字典学习模型依赖于稀疏编码，在实际应用中需要额外的计算来获取编码系数，这使得基于字典学习的模型难以大规模应用。LeCun等人[30]尝试使用神经网络来预测稀疏编码系数，获得了较好的效果。Wang等人[31]提出深度 $L _ { 0 }$ 编码器，利用深度网络结构来模拟 $L _ { 0 }$ 范数求解，获得稀疏编码。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种可预测判别K-SVD 网络，通过设计一种新颖的字典结构将标签信息嵌入K-SVD 算法中，使得稀疏编码直接包含类别标签，相较于其他字典学习分类，无须额外计算即可直接得出类别；并且该字典结构将细节描述性信息剥离与本质特征分开存放，字典的解释性更强，并能用于生成样本。同时，训练编码预测网络模型，提升计算稀疏编码的效率。此外，本文引入一种拟梦境训练方式，通过超采样训练数据集生成虚拟样本用于预测网络的训练，提高预测准确性。在主流人脸图像数据库中的实验效果证明本文提出的方法在人脸图像识别中具有良好的表现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$D = \\left[ d _ { 1 } , d _ { 2 } , \\cdots , d _ { k } \\right] \\in \\mathbb { R } ^ { m \\times k }$ 表示字典矩阵，其每一列为一个字典元素向量。在经典的稀疏表达问题中，一个样本向量 $\\boldsymbol { x } \\in \\mathbb { R } ^ { m }$ 可以被表示成这些原型元素的线性组合：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx = D \\alpha = \\alpha ^ { 1 } d _ { 1 } + \\alpha ^ { 2 } d _ { 2 } + \\cdots + \\alpha ^ { k } d _ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\alpha = [ \\alpha ^ { 1 } , \\alpha ^ { 2 } , \\cdots , \\alpha ^ { k } ] ^ { T }$ 是 $x$ 在字典 $D$ 上的稀疏表达系数向量。由于字典 $D$ 是过完备的，稀疏表达问题往往有无穷多个解，为了获得本文所需要的最终解，这就需要对对原始问题设置合适的稀疏约束条件。显然，稀疏表达的解应为如下问题的解：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\alpha } \\| \\alpha _ { 0 } \\| \\ s . \\ t . \\ x = D \\alpha\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "或者",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\alpha } \\left\\| \\alpha \\right\\| _ { 0 } s . t . \\left\\| x - D \\alpha \\right\\| _ { 2 } \\leq \\epsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，\\*为 $L _ { \\mathrm { 0 } }$ 范数，表示向量 $\\alpha$ 中的非零元素的个数，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "稀疏表达解决了在特定字典上的最优编码问题，然而，优秀的稀疏编码还要求一个合适的字典。预先设计好固定字典是一种常用的方法，但是设计一个好的预设字典往往需要耗费大量的时间与精力，并且随机因素对结果的影响较大。此外，为了尽可能地涵盖所有需要的特征，预设字典一般会设置为过冗余。为了克服预设字典的各种缺陷，字典学习算法被提出来用于从训练数据集中学习最合适的字典。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在字典学习问题中，除了基本的稀疏表达求解，还需要从训练集中学习一个用于编码的最优的字典矩阵 $D$ 。记训练样本集为 $X = \\left[ x _ { 1 } , x _ { 2 } , \\cdots , x _ { n } \\right] \\in \\mathbb { R } ^ { m \\times n }$ ，则字典学习问题可以被表达为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\langle D , A \\rangle } \\big \\| X - D A \\big \\| _ { F } ^ { 2 } ~ s . ~ t . ~ \\forall i , ~ \\big \\| \\alpha _ { i } \\big \\| _ { 0 } \\leq T _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "或者也可以写为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\langle D , A \\rangle } \\sum _ { i } \\left\\| \\alpha _ { i } \\right\\| _ { 0 } \\ s . \\ t . \\ \\left\\| X - D A \\right\\| _ { F } ^ { 2 } \\leq \\epsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\epsilon$ 为固定阈值。 $A = \\left[ \\alpha _ { 1 } , \\alpha _ { 2 } , \\cdots , \\alpha _ { n } \\right] \\in \\mathbb { R } ^ { k \\times n }$ 是 $\\boldsymbol { \\cal X }$ 在字典 $D$ 上的稀疏编码矩阵。\\*为Frobenius范数，用于计算重构误差。本文中主要考虑式(5)。同样，由于含有 $L _ { 0 }$ 范数的问题求解是非凸优化问题，式(5)不存在闭式解。在基于 $L _ { 0 }$ 范数的字典学习问题中广泛采用交替迭代的优化策略来最小化表达式(5)：首先固定字典 $D$ ，计算基于当前字典的最优稀疏表达系数矩阵 $A$ ；其次，固定稀疏系数矩阵 $A$ ，优化字典 $D$ 使得重构误差最小。交替迭代两个步骤，直至收敛。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "训练过程完成后，最终获得的字典 $D$ 在测试过程中不再变化，用于编码新样本，而新来样本的编码的求解则变为求解式(2)(3)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "K-SVD作为最著名的字典学习方法之一，获得了广泛的关注。KSVD算法中在稀疏编码阶段利用匹配算法或正交匹配算法求解系数向量。在字典更新阶段，式(5)中的矩阵相乘项 $D A$ 被分解为 $K$ 个秩为1的矩阵。更新过程中，每次只更新其中一个矩阵而固定剩下的 $\\textstyle K - 1$ 个矩阵，如此逐个优化，最后使得重构误差最小。因此，重构误差项可以被改写为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\| X - D A \\right\\| _ { F } ^ { 2 } = \\left\\| X - \\sum _ { j = 1 } ^ { K } d _ { j } \\alpha _ { T } ^ { j } \\right\\| _ { F } ^ { 2 } = \\left\\| \\left( X - \\sum _ { j \\neq k } d _ { j } \\alpha _ { T } ^ { j } \\right) - d _ { k } \\alpha _ { T } ^ { k } \\right\\| _ { F } ^ { 2 } = \\left\\| E _ { k } - d _ { k } \\alpha _ { T } ^ { k } \\right\\| _ { F } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\alpha _ { T } ^ { k }$ 代表系数矩阵 $A$ 的第 $k$ 行。 $E _ { k }$ 表示去除第 $k$ 个字典项后，由剩下的字典项表达样本时所产生的重构误差。利用奇异值分解 SVD 分解误差即 $E _ { k } { = } U \\Delta V ^ { T }$ ，取 $U$ 第一主分量即第一列作为字典项 $d _ { k }$ ，对应地，奇异值矩阵 $\\Delta$ 第一行为所求$\\alpha _ { T } ^ { k }$ ，但由于需要保证稀疏表达系数地稀疏性，KSVD中使用了一个小技巧，最终字典项 $d _ { k }$ 稀疏系数 $\\alpha _ { R } ^ { k } = \\Delta ( 1 , 1 ) \\times V$ ， $\\Delta ( 1 , 1 )$ 为 $\\Delta$ 的第一行第一列的值。K-SVD在不同的测试数据集以及信号与图像重构任务上都表现出了较好的性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 本文算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "K-SVD是基于 $L _ { 0 }$ 约束的字典学习算法，算法框架包含稀疏编码更新和字典更新两个子步骤。在优化过程中，两个步骤交替迭代，直至收敛。通过观察可以发现，整个优化过程隐含了一个自动编码机，其中稀疏编码子步骤为一个非参的编码器而字典重构的部分则为线性解码器。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种新颖的判别字典学习模型，并同时构造了一个前向神经网络预测判别稀疏编码系数，以提高算法时间效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1算法描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出判别K-SVD 网络模型DKSVDN(discriminativeK-SVDnetwork)，在原始KSVD基础上加入判别信息，并提高稀疏编码的计算效率，其目标函数表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\underset { A , D , \\mathcal { P } _ { f } } { \\operatorname* { m i n } } R ( X , D , A ) } \\\\ & { \\mathrm { s . ~ t . ~ } \\forall i , \\left\\| \\alpha _ { i } \\right\\| _ { 0 } \\leq T _ { 0 } , P ( \\mathcal { P } _ { f } ; X , A ) \\leq \\epsilon } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $R ( X , D , A )$ 是判别字典学习模块， $\\left\\| \\alpha \\right\\| _ { 0 }$ 是 $L _ { 0 }$ 稀疏约束项，每个样本对应的稀疏系数向量中取值非零的维度应小于 $T _ { 0 }$ ，$P ( \\mathcal { P } _ { f } ; X , A )$ 则是预测神经网络模块， $\\boldsymbol { \\cal X }$ 为输入样本矩阵， $A$ 为目标稀疏矩阵， $\\mathcal { P } _ { f }$ 为前向神经网络的所有参数的集合。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1判别字典学习模块 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "稀疏表达系数具有天然的优良特征，其能很好在图像重构和分类任务中都表现出了很好的鲁棒性。然而，重构性能和判别性能在传统字典学习模型中往往很难兼顾，本文设计了一种新颖的稀疏编码与字典结构，同时保持两种特性。该模型将类别标签嵌入稀疏编码中，使得编码包含标签编码和描述编码两部分，相对应地，对应的字典也同时分为了标签字典和描述字典两个子字典。假设 $Y = \\left[ y _ { 1 } , y _ { 2 } , \\cdots , y _ { n } \\right]$ 表示标签矩阵，其中每一列 $y _ { i } ( i = 1 , 2 , \\cdots , n )$ 代表训练样本 $x _ { i }$ 的标签向量，$y _ { i } = \\left[ y _ { i } ^ { 1 } , y _ { i } ^ { 2 } , \\cdots , y _ { i } ^ { c } \\right] ^ { T }$ 为0-1向量，其中 $\\mid c \\mid$ 为类别数，若 $x _ { i }$ 属于第 $s$ 类则 $y _ { i }$ 的第 $s$ 维 $y _ { i } ^ { s }$ 取值为1，其他维度取值均为0。那么，稀疏编码向量具体表示为 $\\alpha = \\left[ { \\begin{array} { l } { y } \\\\ { \\alpha _ { d } } \\end{array} } \\right]$ ，其中 $y$ 为0-1标签向量， $\\alpha _ { d }$ 为描述编码。标签向量 $y$ 对应于标签子字典 $D _ { \\iota }$ ， $D _ { \\iota }$ 包含的字典项数和类别数相同， $\\alpha _ { d }$ 对应的描述字典为 $D _ { d }$ 。标签字典 $D _ { \\iota }$ 用于捕获每一类中最为本质的特征，这些特征一般代表了类别的特性，位于类别中心；描述字典 $D _ { \\iota }$ 则用于保存无关类别信息的特征，这些特征可能出现于任何类别的通用特征，用于描述图像中的细节信息。因此，字典具体表示为 $D = \\left[ D _ { l } , D _ { d } \\right]$ ，判别字典学习模块定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( X , D , A ) = \\left\\| X - [ D _ { l } , D _ { d } ] { \\overset { \\underset { \\textstyle } { \\textstyle \\top } } { \\underset { \\textstyle \\alpha _ { d } } { \\longrightarrow } } } \\right\\| _ { F } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2预测神经网络模块",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "给定输入样本图像 $x$ ，预测神经网络模块用于快速预测样本的稀疏系数。相较于传统稀疏编码方法利用迭代优化求解稀疏编码而在测试阶段需要花费较长时间计算时间且时间长度无法预测，预测神经网络模块使用参数化的模型：神经网络。结合非线性激活函数，神经网络具有强大的近似拟合能力，并能有效大幅减少计算时间，在可预期的时间内给出较为准确的稀疏表达系数，以便后续任务使用。本文中使用多层前向全连接网络 $F ( \\mathcal { P } _ { f } , X )$ 作为预测模块模型，为了获得稀疏性，激活函数采用软阈值函数，因此，预测神经网络模块的表达式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( \\mathcal { P } _ { f } ; X , A ) = \\left\\| F ( \\mathcal { P } _ { f } , X ) - A \\right\\| _ { F } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，最终目标函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\underset { A , D , \\mathcal { P } _ { f } } { \\operatorname* { m i n } } \\left\\| X - \\big [ D _ { l } , D _ { d } \\big ] \\bigg [ \\begin{array} { c } { y } \\\\ { \\alpha _ { d } } \\end{array} \\bigg ] \\right\\| _ { F } ^ { 2 } } \\\\ & { \\mathrm { ~ s . ~ t . ~ } \\ \\forall i , \\| \\alpha _ { i } \\| _ { 0 } \\leq T _ { 0 } , \\left\\| F ( \\mathcal { P } _ { f } , X ) - A \\right\\| _ { F } ^ { 2 } \\leq \\epsilon } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\epsilon$ 为固定阈值。利用稀疏编码分类时，首先提取稀疏编码中标签编码部分，标签编码中各维度中表达值最大的那个维度即为测试图片的预测类别。值得一提的是，为了更好的预测效果以及避免过拟合，本文采取协同训练的方式训练预测神经网络模块和判别字典学习模块。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2算法优化求解",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目标函数显然是非凸的，本文利用交替优化的策略求解该模型，具体优化流程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）固定字典 $D$ ，利用正交匹配追踪(OrthogonalMatchingPursuit,OMP)[32]搜索最优在当前字典上的最优稀疏表达系数。更具体地，标签向量 $y$ 为已知监督信息固定不变，优化目标为最优描述系数部分 $\\boldsymbol { u } _ { d }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)将步骤a)获得的稀疏表达系数作为已知固定值，利用K-SVD 算法逐个更新字典项，包括标签字典 $D _ { \\iota }$ 和描述字典 $D _ { d }$ 。同时，将稀疏稀疏矩阵作为目标值，训练样本矩阵作为输入，利用随机梯度下降(stochastic gradient descent,SGD)更新预测神经网络模块的参数集合 $\\mathcal { P } _ { f }$ ，直至收敛或者到达固定迭代步数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "交替迭代步骤a)b)直至收敛或者达到固定步数则结束。另外，预测神经网络模块地预测值可以作为优化稀疏表达的初始值作为热启动值(warmstart)以加快步骤a)的收敛速度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3拟梦境训练法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "已知类别未知模式(unknown pattern in known class,UPKC)是现实环境中人脸识别所面对的非常广泛也非常关键的挑战之一。UPKC包含多种人脸变化，包含但不限于表情变化，遮挡变化等等。然而，不同于广泛的人脸变化中包含大量的随机信息，UPKC更关注于具有规律性的人脸变化模式，对于人脑来说这些变化往往可以预测与想象，可以从一个类别推广至所有类别。具体举例来说，假设某一类中存在一种独有模式：人脸上戴有某一花纹的围巾，人类大脑可以轻易通过该张图片与其他人脸图片想象出其他类别中戴有相同围巾的人脸图片，但是对于统计机器学习算法，由于其他类别均缺失该模式，该围巾反而会被学习作为类别特征，从而出现错误分类。类似的模式有配戴墨镜，不同程度地笑容等等。由于采集所有人的人脸图像的所有模式显然是不可能的任务，因此，UPKC是必须面对的与解决的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了提高DKSVDN针对UPKC的鲁棒性，本文设计了新颖的拟梦境训练方法。拟梦境训练方法的思想十分类似于人类做梦的过程与作用。文献[33]中首次提出了相似的思想，主要用于训练亥姆霍兹机(Helmholtzmachine)。之后，同样的方法亦被用于训练深度信念网络(DeepBeliefNetworks,DBN)[34]。如前所述，DKSVDN 模型中包含了特殊结构的字典，该字典由类别字典和标签字典组合构成。相对应地，样本在该字典上的稀疏编码分为类别标签向量段和描述向量段，拟梦境训练方法充分利用了DKSVDN的结构特点，在稀疏编码空间合理推断UKPC的稀疏编码向量，借助字典生成虚拟训练样本以训练预测神经网络模块，提高预测准确度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "拟梦境训练方法结合DKSVDN具体步骤如下：a）收集记录样本在当前字典上的稀疏编码；b)拆分稀疏编码中的描述编码段，整理收集至描述编码池中；c）对于所有类别编码向量，随机选取描述编码池中的描述编码向量进行拼接组合，生成合理推断稀疏编码向量；d)利用生成的合理推断稀疏编码向量结合字典，通过式(1)生成虚拟样本；e)将虚拟样本和对应的合理推断稀疏编码向量作为训练集，训练预测神经网络模块。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "拟梦境训练利用生成字典学习模型在稀疏域进行样本合成。相较于已有的过采样方法，拟梦境训练充分考虑了样本的合理性，使得虚拟样本空间分布更加贴近现实样本空间，有效提高预测神经网络的预测准确度。拟梦境训练可以插入DKSVDN模型优化过程中任意一次迭代之后。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1实验设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1数据集介绍",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证DKSVDN在不同人脸识别场景中的性能，本文在主流的人脸数据库：AR人脸数据库[35]与ExtendYaleB人脸数据库[8]上进行实验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AR人脸数据库采集了126个人在不同条件下的人脸图片样本，总共包含超过4000张图片。该数据集内分为了两个子集，两个子集在不同时间段拍摄。在AR数据集中，每个人，即每个类别，拥有26张在不同的光照条件下拍摄面部照片，其中每个人有12张图片带有遮挡，具体为太阳镜遮挡和围巾遮挡，其他14张图片无遮挡但拥有表情与姿态变化。相较于ExtendYaleB数据集，AR数据集包含了除光照以外的更多的干扰因素，包括表情与姿态的变化，面部遮挡等，这些都使得AR数据集更加贴近现实环境，也更具有挑战性。在本文实验中，使用了由该数据集中120人的3120张图像组成的AR人脸数据库的子集。其中，每个类别任意选取13张图片作为训练数据，剩下的13张组成测试集。所有图像的分辨率统一剪裁为 $4 0 \\times 5 0$ 像素，并进行 $L _ { 2 }$ 范数归一化。图1展示了AR数据集中的部分人脸图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c0b92de9d4ef101a84cc192b4a9223f59b83515506be15d45ee430de5c1d0c1.jpg",
+        "img_caption": [
+            "图1AR人脸数据库中人脸图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ExtendYaleB人脸数据库由2414张正面人脸图像组成，包含了38个人的人脸图像，这些图像在不同的光照条件和表情下拍摄。除光照外，这些人脸图像的变化还体现在表情变化上。其中，每个人大约有59到64 张图像，为了方便处理，本文中选取ExtendYaleB人脸数据库中的31个人，每个人均拥有64人脸图片，总共1984张图片，去除了7个人，属于这些人图片均不足64张。其中，每个类别任意选取32张图片作为训练数据，剩下的32张组成测试集。所有图像的分辨率统一剪裁为 $4 0 \\times 5 0$ 像素，并进行范数归一化。图2展示了ExtendYaleB数据集中的部分人脸图像。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1a704b34744e81a6989e65b068b8e86a83ec970ea0ea33826660a34e7f80c6b.jpg",
+        "img_caption": [
+            "Fig.1Face images fromARface database ",
+            "图2ExtendYaleB人脸数据库中人脸图像Fig.2Face images from Extend Yale B face database"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.2参数设置 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在预测编码模块中，利用前向神经网络作为预测模块，该神经网络具有两层结构，两层神经元的数目分别是1500与500。字典项的数目为500，其中标签字典项的数目对应于AR人脸数据库与ExtendedYaleB人脸数据库分别为100项和31项。 $T _ { 0 }$ 值设置为15。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.3分类模式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文所提出的DKSVDN模型不需要训练额外的分类器，具体类别信息可以直接从稀疏编码中的标签向量部分读取。由于预测神经网络模块不能获得真正完美的0-1标签向量，因此测试样本的类别判定为表达值最大的维度对应的类别，数学表达式可记为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc = \\operatorname* { m a x } _ { s } \\hat { y } ^ { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\hat { y }$ 为预测标签向量， $\\hat { y } ^ { s }$ 表示 $\\hat { y }$ 第 $s$ 维的取值。利用训练好的模型，稀疏编码向量有两种获取方式。首先，可以利用预测神经网络模块直接预测稀疏编码向量。为了获得更加精确的稀疏编码，依然可以将预测稀疏编码向量作为起始值，通过KSVD算法优化稀疏编码向量。这两种计算方式在后续实验同时进行测试。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1人脸识别 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文中参与对比的算法有DLSI，LCKSVD，FDDL，FDDL-LCSRC[36]，N-PCA[37]，RCSRC[38]。在AR人脸数据集上，DLSI每个类别的类内字典项设置为5，其他设置于文献[25]中一致。根据AR数据库中的类别数，LCKSVD字典数目设置为 500。N-PCA 中使用最近邻分类器(NN)进行分类。具体实验结果如表1中所示，显然在更小的判别字典规模上，DKSVDN的分类效果明显优于LCKSVD和DLSI。此外，本文还比较了不同方法的时间效率，DKSVDN预测类别所需时间最短。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ec611c1fa487d69df553bf8ecc3fade72e6a54364aca280d94dc3b4a9d51696.jpg",
+        "table_caption": [
+            "Tab.1Experiment results on AR database "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>精确率/%</td><td>CPU耗时/s</td></tr><tr><td>LC-KSVD1</td><td>48.08</td><td>0.0011</td></tr><tr><td>LC-KSVD2</td><td>46.00</td><td>0.0009</td></tr><tr><td>DLSI</td><td>62.85</td><td>0.0029</td></tr><tr><td>FDDL</td><td>78.46</td><td>0.0035</td></tr><tr><td>FDDL-LCSRC</td><td>80.33</td><td>0.0043</td></tr><tr><td>RCSRC</td><td>66.89</td><td>0.0009</td></tr><tr><td>N-PCA(NN)</td><td>33.63</td><td>0.0133</td></tr><tr><td>OURMETHOD(预测编码)</td><td>80.12</td><td>0.0011</td></tr><tr><td>OUR METHOD(最优编码)</td><td>88.24</td><td>0.0016</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在ExtendYaleB人脸数据集上，DLSI每个类别的类内字典项设置为15，其他设置于文献[25]中一致。根据ExtendYaleB数据库中的类别数，LCKSVD字典数目设置为496。N-PCA中使用最近邻分类器(NN)进行分类。表2中展示了在ExtendYaleB人脸数据集上的实验结果，在分类准确度和时间效率上依然是非常优秀的。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/af4150d00b3d7b3898bbe9943d69619a7c14ffa0b893897b0be27c18611b65b9.jpg",
+        "table_caption": [
+            "表1AR数据库人脸识别实验结果",
+            "表2ExtendYaleB数据库人脸识别实验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>精确率/%</td><td>CPU耗时/s</td></tr><tr><td>LC-KSVD1</td><td>56.12</td><td>0.0012</td></tr><tr><td>LC-KSVD2</td><td>88.24</td><td>0.0012</td></tr><tr><td>DLSI</td><td>89.45</td><td>0.0020</td></tr><tr><td>FDDL</td><td>93.75</td><td>0.0024</td></tr><tr><td>FDDL-LCSRC</td><td>91.45</td><td>0.0043</td></tr><tr><td>RCSRC</td><td>90.67</td><td>0.0010</td></tr><tr><td>N-PCA(NN)</td><td>60.28</td><td>0.0126</td></tr><tr><td>OURMETHOD(预测编码)</td><td>92.33</td><td>0.0012</td></tr><tr><td>OURMETHOD(最优编码)</td><td>97.24</td><td>0.0014</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2拟梦境训练实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "鉴于拟梦境训练方法针对于模式众多且分散的场景，本文选择在AR人脸数据库上验证拟梦境训练方法对DKSVDN的提升效果。AR数据库包含正面人脸、佩戴墨镜、佩戴围巾三种模式，又因该数据集分为一期和二期两个子集，本文取一期中的一部分图片作为训练集。一期中包含每个人的前13张图片，即每个类别13张图片，其中正面人脸7张，佩戴墨镜3张，佩戴围币3张，二期的图片构成与一期相同。将一期中的所有个体分为三个组别分别是：模式齐全组，缺失墨镜模式组，缺失围币模式组。模式齐全组中的个体取所有图片，缺失墨镜组取正面人脸图像和佩戴围巾模式图像，缺失围巾组取正面人脸图像与佩戴墨镜模式图像。一期中的其他图像以及一期中的图像均用作测试集。为了更加直观地展示分组详情，将100个类别按1至100编号，训练集图像具体组成如表3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/489e7f88d43463202350f4ae638ac2181673397c1f0cb983e323b28998370683.jpg",
+        "table_caption": [
+            "Tab.2Experiment results on Extend yaleb database ",
+            "表3训练集具体构成情况",
+            "Tab.3The details of the training set "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类别</td><td>正面人脸</td><td>佩戴墨镜</td><td>佩戴围巾</td></tr><tr><td>1~40</td><td>包含</td><td>包含</td><td>包含</td></tr><tr><td>41~70</td><td>包含</td><td>包含</td><td>不包含</td></tr><tr><td>70~100</td><td>包含</td><td>不包含</td><td>包含</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4展示了预测神经网络模块在未进行拟梦境训练与进行拟梦境训练地DKSVDN模型在测试集上的识别效果。显然，拟梦境训练使得DKSVDN在识别率上有显著的提升，尤其是在墨镜模式和围巾模式两种遮挡模式下，识别率大幅优于未经拟梦境训练的DKSVDN模型。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d03f62a7dd324ead05d92695d1837478f746458c92aed29a6fa6e98c8cc8633.jpg",
+        "table_caption": [
+            "表4拟梦境训练在AR数据库人脸识别实验结果",
+            "Tab.4Experiment results on AR database with Dreaming /% "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">测试模式</td><td colspan=\"2\">正面人脸组</td><td colspan=\"2\">无围巾组</td><td colspan=\"2\">无墨镜组</td></tr><tr><td>拟梦境</td><td>原始模型</td><td>拟梦境</td><td>原始模型</td><td>拟梦境</td><td>原始模型</td></tr><tr><td>正面人脸</td><td>94.29</td><td>93.93</td><td>93.33</td><td>92.86</td><td>78.10</td><td>78.10</td></tr><tr><td>墨镜</td><td>89.17</td><td>87.50</td><td>94.44</td><td>93.33</td><td>83.89</td><td>80.56</td></tr><tr><td>围巾</td><td>85.83</td><td>85.00</td><td>59.44</td><td>58.89</td><td>50.00</td><td>47.78</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可预测判别KSVD 模型DKSVDN中字典结构由标签字典和描述字典组合而成，相对应地，基于该字典的稀疏编码向量分别包含了标签向量段与描述向量段，利用特殊结构的稀疏编码可以进行快速分类。同时，模型训练了一个预测神经网络模块用于预测稀疏编码，有效解决了传统字典学习时间效率低下的问题。此外，拟梦境训练方法有效提升了DKSVDN在样本多样性缺失的情况下的鲁棒性。本文在主流人脸数据集上的实验效果对比证明了DKSDN模型以及拟梦境训练方法在复杂环境具有优良的性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]吴巾一，周德龙．人脸识别方法综述[J]．计算机应用研究,2009,26 (9):3205-3209.(Wu Jinyi,Zhou Delong.Survey of face recongnition [J]. Application Research of Computers,2009,26(9): 3205-3209.)   \n[2]Trigueros D S,Meng L,Hartnet M. Face recognition: From traditional to deep learning methods [J].arXiv preprint arXiv:181100116,2018.   \n[3]Masi I,Wu Y,Hassner T,et al.Deep face recognition: A survey [C]// 2018 31st SIBGRAPI conference on graphics，patterns and images (SIBGRAPI).IEEE:471-478.   \n[4]康利攀，陈方福，范自柱．一种新的拓展稀疏人脸识别算法[J].计 算机应用研究,2016,33(3):937-939.(Kang Lipan,Chen Fangfu,Fan Zizhu.New extended sparse representation for face recognition [J]. Application Research of Computers,2016,33 (3): 937-939.)   \n[5]Zhang Q,Li B.Discriminative K-SVD for dictionary learning in face recognition [C]// 2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition.IEEE,2010: 2691-2698.   \n[6] 沈韬，李克清，夏瑜．一种鲁棒稀疏表示的单样本人脸识别算法[J]. 计算机应用研究,2018,(11):72.(Shen Tao,Li Keqing,Xia Yu.Single sample face recognition based on robust sparse representation [J]. Application Research of Computers,2018,35 (11): 3491-3496.)   \n[7]赵雯，吴小俊．基于鉴别性低秩表示及字典学习的鲁棒人脸识别算 法[J]．计算机应用研究,2017,34(10):3157-3161.(Zhao Wen,Wu Xiaojun．Robustfacerecognitionofdiscriminative low-rank representation with dictionary learning [J].Application Research of Computers,2017,34 (10): 3157-3161.)   \n[8]Lee K-C,Ho J,Kriegman D J.Acquiring linear subspaces for face recognition under variable lighting [J].IEEE Trans on Pattern Analysis and Machine Intelligence,2005,27: 684-698.   \n[9]Turk M,Pentland A.Face recognition using eigenfaces [C]//Proceedings 1991 IEEE computer society conference on computer vision and pattern recognition. 586-591.   \n[10] Wright J, Yang AY,Ganesh A,et al. Robust face recognition via sparse representation [J].IEEE Trans on Pattern Analysis and Machine Intelligence,2009,31: 210-227.   \n[12] Neto JBC, Marana A N,Ferrari C,et al. Deep Learning from 3DLBP Descriptors for Depth Image Based Face Recognition [Cl// 2019 Intermational Conference on Biometrics (ICB). IEEE,2019:1-7.   \n[13] Prasad P S,Pathak R,Gunjan V K,et al.Deep learning based representation for face recognition [M]// ICCCE 2019.Springer, Singapore,2020: 419-424.   \n[14] Bashbaghi S, Granger E,Sabourin R,et al. Deep learning architectures for face recognition in video surveillance [M//Deep learning in object detection and recognition. City: Springer, 2019: 133-154.   \n[15] Goswami G, Agarwal A,Ratha N,et al. Detecting and mitigating adversarial perturbations for robust face recognition [J].International Journal of Computer Vision,2019,127 (6-7): 719-742.   \n[16] Szegedy C,Liu W, Jia Y,et al. Going deeper with convolutions [C]// Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 1-9.   \n[17] He K, Zhang X,Ren S,et al.Deep residual learning for image recognition [C]/ Proceedings ofthe IEEE conference on computer vision and pattern recognition. 2016: 770-778.   \n[18] Baraniuk R G. Compressive sensing [lecture notes] [J]. IEEE signal processing magazine,2007,24: 118-121.   \n[19] Olshausen B A,Field D J.Emergence of simple-cell receptive field properties by learning a sparse code for natural images [J].Nature,1996, 381: 607-609.   \n[20] Olshausen BA,Field D J. Sparse coding with an overcomplete basis set: A strategy employed by v1?[J]. Vision research,1997,37: 3311-3325.   \n[21] Aharon M,Elad M,Bruckstein A.K-svd: Analgorithm for designing overcomplete dictionaries for sparse representation [J]. IEEE Trans on Signal Processing,2006,54: 4311-4322.   \n[22] Mairal J, Bach F,Ponce J,et al. Online dictionary learning for sparse coding [C]// Proceedings of the 26th annual international conference on machine learning.2009: 689-696.   \n[23]倪浩，阮若林，刘芳华．基于双正则化参数的在线字典学习超分辨 率重建[J].计算机应用研究,2016,33(3):277-281.(Ni Hao,Ruan Ruolin,Liu Fanghua.Image super-resolution based on online dictionary learning with two regularization parameters [J]. Application Research of Computers,2016,33 (3): 277-281.)   \n[24]Mairal J,Bach F,Ponce J.Task-driven dictionary learning[J].IEEETrans on Patter Analysis and Machine Intelligence,2012,34 (4): 791-804.   \n[25] Jiang Z,Lin Z， Davis L S. Label consistent k-svd:Leaming a discriminative dictionary for recognition [J]. IEEE Trans on Pattern Analysis and Machine Intelligence,2013,35: 2651-2664.   \n[26] Mi J-X,Fu Q,Li W.Adaptive class preserving representation for mage classification [C]// Proceedings of the IEEE Conference on Computer Vision and Patterm Recognition. 7427-7435.   \n[27] Ramirez I, Sprechmann P, Sapiro G. Clasification and clustering via dictionary learning with structured incoherence and shared features [C]// 2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition.IEEE,2010:3501-3508.   \n[28] Yang M, Zhang L,Feng X,et al.Fisher discrimination dictionary learning for sparse representation [C]// 2O11 International Conference on Computer Vision.IEEE,2011: 543-550.   \n[29] Wang D, Kong S.A classfication-oriented dictionary learning model: Explicitly learning the particularity and commonality across categories [J].Patterm Recognition,2014,47 (2): 885-898.   \n[30] Gregor K,LeCun Y.Learning fast approximations of sparse coding [C]/ Procedings of the 27th International Conference on International Conference on Machine Learning.399-406.   \n[31] Wang Z,Ling Q,Huang T S.Learning deep lO encoders [C]//Thirtieth AAAI Conference on Artificial Intelligence.2016.   \n[32] Pati YC,Rezaiifar R,Krishnaprasad P S. Orthogonal matching pursuit: Recursive function approximation with applications towavelet decomposition[C]//Proceedings of27th Asilomar conference on signals, systems and computers.IEEE:1993:40-44.   \n[33] DayanP,Hinton GE,Neal RM,et al. The helmholtz machine [J].Neural computation,1995,7: 889-904.   \n[34]Hinton G E,Osindero S,Teh Y-W.A fast learning algorithm for deep belief nets [J].Neural computation,2006,18 (7):1527-1554.   \n[35] Martinez AM.The ar face database [J].CVC Technical Report24,1998.   \n[36]王威，朱宗玖，陆俊．基于字典学习和局部约束的稀疏表示人脸识 别[J]．电脑知识与技术,2018,14(5).(WangWei,Zhu Zongjiu,Lu Jun.Sparse Representation for Face Recognition Based on Dictionary Learning and Locality Constraint [J]. Computer Knowledge and Technology,2018,14 (5): 3.)   \n[37]Mi J-X,Zhang Y-N,Lai Z,et al.Principal component analysis based on nuclear norm minimization [J].Neural Networks,2019,118:1-16.   \n[38]米建勋，林志凯．基于L_2-范数重构样本约束的稀疏表示人脸识别 方法[J].计算机应用研究,2020,37(4):5.(MiJianxun,Lin Zhikai. Sparse representation classification via L2-norm based reconstruction sample constraint for face recognition [J].Application Research of Computers,2020,37 (4): 5.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

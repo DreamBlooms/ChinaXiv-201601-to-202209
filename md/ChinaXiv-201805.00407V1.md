@@ -1,0 +1,265 @@
+# Effects of grazing on net primary productivity, evapotranspiration and water use efficiency in the grasslands of Xinjiang
+
+HUANG Xiaotao1,2, LUO Geping1\*, YE Feipeng³, HAN Qifei4
+
+State KeyLaboratoryofDesertandOasisEology,XinjiangInstituteofEcologyandGeogaphy,ChineseAcademyofSciences, Urumqi 830011, China;   
+2 University of Chinese Academy of Sciences, Beijing 10o049, China;   
+3 College of Resource and Environment Sciences, Xinjiang University, Urumqi 83oo46, China;   
+4 Nanjing University of Information Science & Technology, Nanjing 21oo44, China
+
+Abstract: Grazing is amain humanactivity inthe grassands of Xinjiang.It is vital to identifythe effects of grazing on the sustainable utilization of local grasslands.However,the effects of grazing on net primary productivity (NPP), evapotranspiration $( \mathrm { E T } )$ and water use efficiency (WUE) in this region remain unclear. Using the spatial BiomeBGC grazing model, we explored the effects of grazing on NPP, ET and WUE across the diferent regions and grassland types in Xinjiang during 1979-2012. NPP,ETand WUE under the grazed scenario were generally lower than those under the ungrazed scenario,and the diferences showed increasing trends over time. The decreases in NPP,ET and WUE varied significantly among the regions and grassand types. NPP decreased as follows: among the regions, Northern Xinjiang $( 1 6 . 6 0 \mathrm { g } \mathrm { C } / ( \mathrm { m } ^ { 2 } { \cdot } \mathrm { a } ) )$ , Tianshan Mountains $( 1 5 . 9 4 \mathrm { g } \mathrm { C } / ( \mathrm { m } ^ { 2 } { \bullet } \mathrm { a } ) )$ and Southern Xinjiang $( - 3 . 5 4 \mathrm { g } \mathrm { C } / ( \mathrm { m } ^ { 2 } { \bullet } \mathrm { a } ) )$ and among the grassand types, typical grasslands $( 2 5 . 7 0 \mathrm { g } \mathrm { C } / ( \mathrm { m } ^ { 2 } { \cdot } \mathrm { a } ) )$ , swamp meadows $( 2 5 . 2 6 \mathrm { g }$ $\mathrm { C } / ( \mathrm { m } ^ { 2 } { \cdot } \mathrm { a } ) )$ , mid-mountain meadows $( 2 3 . 3 9 \mathrm { g } \mathrm { C } / ( \mathrm { m } ^ { 2 } { \bullet } \mathrm { a } ) )$ , alpine meadows $( 6 . 3 3 \mathrm { g } \mathrm { C } / ( \mathrm { m } ^ { 2 } { \cdot } \mathrm { a } ) )$ ,desert grasslands $( 5 . 8 2 \mathrm { g }$ $\mathrm { C } / ( \mathrm { m } ^ { 2 } { \cdot } \mathrm { a } ) )$ and saline meadows $( 2 . 9 0 \mathrm { g } \mathrm { C } / ( \mathrm { m } ^ { 2 } { \cdot } \mathrm { a } ) )$ . ET decreased as follows: among the regions, Tianshan Mountains $( 2 8 . 9 5 \mathrm { m m } / \mathrm { a } )$ ,Northern Xinjiang $( 8 . 1 1 \mathrm { m m } / \mathrm { a } )$ and Southern Xinjiang $( 7 . 5 7 \mathrm { m m } / \mathrm { a } )$ ; and among the grassland types, mid-mountain meadows $( 2 9 . 3 0 ~ \mathrm { m m / a }$ )， swamp meadows $( 2 5 . 0 7 ~ \mathrm { m m } / \mathrm { a } )$ , typical grasslands $( 2 4 . 5 6 ~ \mathrm { m m } / \mathrm { a } )$ , alpine meadows $( 2 0 . 6 9 ~ \mathrm { m m / a } )$ , desert grasslands $\left( 1 1 . 0 6 ~ \mathrm { m m / a } \right)$ and saline meadows $( 3 . 4 4 ~ \mathrm { m m } / \mathrm { a } )$ .WUEdecreased as follows: among the regions, Northern Xinjiang $( 0 . 0 5 3 \mathrm { g C / k g H _ { 2 } O ) }$ , Tianshan Mountains $( 0 . 0 3 4 \mathrm { g } \mathrm { C } / \mathrm { k g } \mathrm { H } _ { 2 } \mathrm { O } )$ and Southern Xinjiang $( 0 . 0 1 2 \mathrm { ~ g ~ C ~ } / \mathrm { k g } \mathrm { ~ H } _ { 2 } \mathrm { O } )$ ; and among the grassland types, typical grasslands $( 0 . 0 6 0 9 \mathrm { ~ g ~ C / k g ~ H _ { 2 } O ) }$ ， swamp meadows $( 0 . 0 5 4 8 \mathrm { g } \mathrm { C } / \mathrm { k g } \mathrm { H } _ { 2 } \mathrm { O } )$ , mid-mountain meadows $( 0 . 0 5 0 1 \mathrm { g } \mathrm { C } / \mathrm { k g } \mathrm { H } _ { 2 } \mathrm { O } )$ ,desert grasslands $( 0 . 0 1 7 2 \mathrm { g }$ $\mathrm { C } / \mathrm { k g } \ \mathrm { H } _ { 2 } \mathrm { O } )$ , alpine meadows $( 0 . 0 1 2 1 \mathrm { ~ g ~ C / k g ~ H _ { 2 } O ) }$ and saline meadows $( 0 . 0 0 6 7 \mathrm { ~ g ~ C / k g ~ H _ { 2 } O ) }$ . In general, the decreases in NPP and WUE were more significant in the regions with relatively high levels of vegetation growth because of the high grazing intensity in these regions. The decreases in ET were significant in mountainous areas due to the terrain and high grazing intensity.
+
+Keywords: grazing efect; grassand type; net primary productivity;evapotranspiration; water use eficiency; Biome BGC grazing model
+
+# 1 Introduction
+
+Grazing is common in grasslands (Zuo et al., 2012; Eldridge et al., 2016) and has significant effects on the ecological functions of grassland ecosystems (Dong et al., 2004a; Teague et al., 2011; Zhang et al.,2015; Wang et al., 2016a; Xie et al., 2016). The interactions between grassland ecosystems and herbivores are highly complex,and many factors are involved. Therefore, grazing has been a popular but challenging topic in the field of grassland ecology. However, researches regarding the effects of grazing on net primary productivity (NPP), evapotranspiration (ET) and water use efficiency (WUE) in different types of grasslands are limit at the regional scale, particularly in arid areas.
+
+NPP, ET and WUE are the three key factors that reflect the functions of grassland ecosystems. NPP reflects the production capacity of the grassand ecosystems and is highly sensitive to climate change and human activities (Han et al.,2O14). ET is the main form of water loss in arid grasslands, and the balance between precipitation and ET is crucial for determining ecosystem structure, function,and productivity (Eldridge et al., 2016; Liu et al., 2016). WUE reflects how efficiently plants use water to produce biomass and is used as an indicator of the suitability of an environment for plant growth (Dong et al., 2004b; Niu et al., 2011; Zhang et al., 2016). Furthermore, compared with plants in humid grasslands, plants in arid grasslands exhibit unique ecological processes in response to water stress (Luo et al., 2O12; Liu et al.,2016). NPP,ET and WUE are highly correlated with water availability. Therefore, studies on NPP, ET and WUE are particularly important in dry areas.
+
+Grazing can affect plant growth through the removal of a certain amount of vegetation and through the deposition of feces on the soil surface (Olejniczak, 2011; Irisari et al., 2016). Grazing can also affect ET through the removal of vegetation (Wang et al., 2O16b),and WUE may be changed by grazing. Recent studies show that the responses of NPP and ET to grazing differ under different environmental conditions (Luo et al.,2012; Zhang et al.,2015; Eldridge et al.,2016; Wang et al., 2016b). Therefore, NPP, ET and WUE might show diverse effects across different regions and grassland types. Understanding the effects of grazing on NPP, ET and WUE over large areas is helpful for making appropriate grazing management decisions in accordance with different grassland ecosystems.
+
+Xinjiang is located in an arid region of the Eurasian hinterland that encompasses widely distributed grassland ecosystems, and grazing is the main anthropogenic disturbance in local grasslands. With increasing grazing intensity in recent decades, grassland degradation has become widespread (Han et al., 2014,2016; Liu et al., 2016). Therefore, the research on the effects of grazing on NPP, ET and WUE is vital for the sustainable utilization of grassland resources in Xinjiang, where distinct differences in elevation, climate, grassland type and grazing management lead to spatial heterogeneity in NPP,ET and WUE. Therefore, this area is conducive to conducting research on the effects of grazing under different environmental and grazing conditions in arid areas.
+
+At present, model simulation is considered the most effective method for studying the effects of grazing over large areas (Laniak et al., 2013; Dugdale et al., 2016; Guo et al., 2016) as different scenarios can be evaluated using model estimations. Therefore, we can effectively evaluate the effects of grazing using model simulations to identify the differences between 'grazed' and 'ungrazed' scenarios and to compare NPP,ET and WUE among studies conducted in the same area. The process-based Biome-BGC grazing model can effectively estimate the effects of grazing on the fluxes and storage of carbon and water in grassland ecosystems (Wang et al., 2Oo5; Luo et al., 2012; Han et al., 2016).
+
+The objective of this study was to determine the effects of grazing on NPP, ET and WUE in the grasslands of Xinjiang during 1979-2O12 across diferent regions and grassland types using the spatial Biome-BGC grazing model.
+
+# 2Materials and methods
+
+# 2.1 Studyarea
+
+Xinjiang, covering an area of $1 . 6 6 \times 1 0 ^ { 6 } \mathrm { k m } ^ { 2 }$ , is an important region for the production of livestock.
+
+The climate is typically temperate with arid characteristics. The annual mean temperature is $1 0 . 4 ^ { \circ } \mathrm { C }$ and the annual mean precipitation is $1 8 8 ~ \mathrm { m m }$ . The Tianshan Mountains divide Xinjiang into two sub-regions: Northern Xinjiang and Sourthern Xinjiang (Fig. 1a). The mean annual precipitation in Southern Xinjiang ranges from 20 to $1 0 0 \mathrm { m m }$ , and the annual mean temperature ranges from $1 0 . 0 ^ { \circ } \mathrm { C }$ to $1 3 . 8 ^ { \circ } \mathrm { C }$ . In contrast, the mean annual precipitation in Northern Xinjiang ranges from 1OO to 500 $\mathrm { m m }$ , and the annual mean temperature ranges from $4 . 0 ^ { \circ } \mathrm { C }$ to $8 . 8 ^ { \circ } \mathrm { C }$ (Gu et al., 2010; Du et al., 2015; Jiapaer et al., 2015). Grasslands account for $34 . 4 \%$ of the territory in Xinjiang and include alpine meadows, mid-mountain meadows, typical grasslands, desert grassands, saline meadows, and swamp meadows (Huang et al., 2O17),with surface areas of $1 . 0 9 \times 1 0 ^ { 6 }$ 。 $3 . 1 4 \times 1 0 ^ { 5 }$ $3 . 3 5 \times 1 0 ^ { 5 }$ 0 $3 . 6 3 \times 1 0 ^ { 6 }$ $3 . 0 1 \times 1 0 ^ { 5 }$ ,and $5 . 4 { \times } 1 0 ^ { 4 } \mathrm { k m } ^ { 2 }$ , respectively (Fig. 1b). Most grasslands in Xinjiang are used for grazing,but grazing intensity differs significantly among the diferent types of grasslands (Figs. 1c and d). With the increase in grazing intensity in recent decades,large areas of grasslands have suffered severe deterioration (Xu et al., 2012; Rong et al., 2014).
+
+![](images/fd09b936c9e562c96b3c37b91f4c42e0b1535d4e4fbadd2e34eb9067df39b9b0.jpg)  
+Fig.1 Distributions of elevation (a), grassland type (b), pasture type (c) and average grazing intensity(d) in Xinjiang during 1979-2O12. NPP, net primary productivity; ET, evapotranspiration.
+
+# 2.2 Data
+
+The data in the study included model validation data, grazing data, meteorological data, and other auxiliary data. Grazing data, meteorological data, and other auxiliary data served as the model input data.
+
+# 2.2.1 Model validation data
+
+Model validation data, including NPP and ET, were collected from both field observations and previous publications by Li et al. (2013) and Han et al. (2014). There was a total of 48 plots with annual NPP data, among which 6 plots were located inside enclosures (i.e., not grazed) and 42 were located outside enclosures and were grazed. Because it was difficult to measure NPP intake by livestock, all the NPP data collcted from the grazed plots represented the NPP remaining in the ecosystems after grazing. Daily ET data during 2013-2015 were obtained from field observations in a typical grassland in Urumqi County $( 4 3 ^ { \circ } 3 3 ^ { \prime } \mathrm { N }$ $8 7 ^ { \circ } 1 2 ^ { \prime } \mathrm { E }$ $1 6 4 8 \mathrm { ~ m ~ }$ a.s.l.) using an HL20 Bowen ratio system at the center of a $1 0 0 \mathrm { m } { \times } 1 0 0 \mathrm { m }$ enclosure without grazing. Daily ET data from October 2012 to September 2O13 were obtained from field observations in an alpine meadow in Aksu 0 $4 1 ^ { \circ } 4 2 ^ { \prime } \mathrm { N }$ ， $8 0 ^ { \circ } 1 0 ^ { \prime } \mathrm { E }$ ； $3 5 5 0 \mathrm { ~ m ~ }$ a.s.l.), using a microlysimeter (Guo et al., 20i5) inside an enclosure without grazing. Daily ET values from 22 July to 2 September, 2010, were collected using a Bowen ratio system outside an enclosure in a desert grassland in Qitai County ( $4 4 ^ { \circ } 1 1 ^ { \prime } \mathrm { N }$ $8 9 ^ { \circ } 2 6 ^ { \prime } \mathrm { E }$ · $6 1 7 \mathrm { m }$ a.s.l.) and were also obtained from a previous publication by Yan et al. (2015).
+
+# 2.2.2 Grazing data
+
+Elevation, precipitation and the distance from residential areas were used to distinguish different pasture types. Summer pastures were located in mountainous areas above $2 5 0 0 \mathrm { m }$ and in plain areas with a mean annual precipitation of $6 3 0 \mathrm { m m }$ . Spring-autumn pastures were located in mountainous areas below $2 5 0 0 \mathrm { m }$ and in plain areas with a mean annual precipitation of $1 2 6 \mathrm { m m }$ . Winter pastures were typically close to mountainous permanent settlements and in plain areas with light snowfall and a mean annual precipitation of $2 1 0 ~ \mathrm { m m }$ (Banks and Doman, 20O1; Kerven et al., 2011; Han et al., 2014). Grazing intensity data at the regional scale, which were generated using interpolation in accordance with sampling points of global livestock numbers and environmental data, were provided by the Food and Agriculture Organization of the United Nations (FAO) $( \mathrm { h t t p } { \cdot } / / \mathrm { w w w . f a o . o r g } / \mathrm { d o c r e p } / 0 1 0 / \mathrm { a } 1 2 5 9 \mathrm { e } / \mathrm { a } 1 2 5 9 \mathrm { e } 0 0 . \mathrm { h t m } )$ . We corrected the grazing intensity data in accordance with statistics from the Xinjiang yearbook, ensuring a high degree of data precision (Jin, 2012). Grazing data at model validation points were collected through field investigations. The livestock included cattle, sheep, goats, horses, camels, and yaks. Allivestock were converted into sheep units in accordance with the standards provided by the Ministry of Agriculture of the People's Republic of China (http://www.chinaforage.com/standard/zaixuliang.htm). According to these standards, one goat equals 0.9 sheep, one cattle equals 6.0 sheep, one horse equals 6.O sheep, one yak equals 4.5 sheep,and one camel equals 8.0 sheep.Figure 2 shows the inter-annual variation of grazing intensity in the Xinjiang grasslands during 1979-2012.
+
+![](images/a54ee1078299a2ff7087a0c4210ca2f0d066adc5aaf9fd6e2a82cc06f078b593.jpg)  
+Fig.2Interannual variation in grazing intensity in the grasslands of Xinjiang during 1979-2012
+
+# 2.2.3 Meteorological data
+
+Different meteorological data were required for this study. These include: the daily maximum and minimum air temperatures, daily average air temperature, humidity, incident solar radiation, precipitation and day length. Al these regional data were extracted from the China Meteorological Forcing Dataset using $^ { C + + }$ . The precision of these data was better than that of the existing gridbased meteorological data for this region. With a spatial resolution of $1 0 \mathrm { k m }$ ,theycan be used for different terrestrial modeling purposes (http://www.tpedatabase.cn/portal/MetaDataInfo.jsp? MetaDataId=249369). The meteorological data at the model validation points were collected through field observations.
+
+# 2.2.4 Other auxiliary data
+
+Elevation data were derived from the WorldClim database (Hijmans et al.， 2005) (http://www.worldclim.org/download). Soil data, including effective soil depth and sand/silt/clay percentages， were derived from theharmonizedworldsoil database(HWSD; FAO/IIASA/ISRIC/ISS-CAS/JRC, 2012). A map of grassland types in Xinjiang was generated based on a map of vegetation types in the area according to elevation and vegetation characteristics. Elevation and soil data at the model validation points were obtained through field investigations.
+
+# 2.3 The Biome-BGC grazing model
+
+The Biome-BGC grazing model, a process-based ecosystem model, can effectively simulate grazing effects on the fluxes and storage of carbon and water in grassland ecosystems over large areas. The grazing process in the model is suitable for arid and semi-arid grassands (Seligman et al., 1992; Luo et al., 2012; Han et al., 2016).
+
+In the model, NPP is estimated by Equation 1 (Luo et al., 2012).
+
+$$
+\mathrm { N P P } { = } C _ { \mathrm { v e g } } { + } C _ { \mathrm { l i t t e r } } { + } D _ { \mathrm { r } } ,
+$$
+
+where $C _ { \mathrm { \ v e g } } ^ { \prime }$ $( \mathbf { g } { \mathbf { \Lambda } } C / ( \mathrm { h m } ^ { 2 } { \cdot } \mathbf { d } ) )$ is vegetative carbon; $C _ { \mathrm { l i t t e r } }$ is litter carbon $\mathrm { ( g ~ C / ( h m ^ { 2 } { \cdot } d ) ) }$ ; and $D _ { \mathrm { r } }$ （g ${ \cal C } / ( \mathrm { h m } ^ { 2 } { \cdot } \mathrm { d } ) \dot { }$ ) is the carbon consumed by animals and is calculated by Equation 2 (Luo et al., 2012).
+
+$$
+D _ { \mathrm { r } } { = } G _ { \mathrm { e } } S _ { \mathrm { r } } ( C _ { \mathrm { l e a f } } - \big ( C _ { \mathrm { l e a f } } \big ) _ { \mathrm { U } } ) ( 0 { < } D _ { \mathrm { r } } { < } S _ { \mathrm { r } } D _ { \mathrm { x } } ) ,
+$$
+
+where $G _ { \mathrm { e } }$ is the grazing efficiency of the livestock $( \mathrm { h } \mathrm { m } ^ { 2 } ,$ (sheep.d)), $S _ { \mathrm { r } }$ is the grazing intensity (sheep $/ \mathrm { h m } ^ { 2 }$ ), $C _ { \mathrm { l e a f } }$ is the $\mathbf { C }$ in the leaf biomass $( \mathrm { g } \mathrm { ~ C } / \mathrm { m } ^ { 2 } )$ ， $( C _ { \mathrm { l e a f } } ) _ { \mathrm { U } }$ is the residual aboveground $C _ { \mathrm { l e a f } }$ that is unavailable to livestock $\mathrm { ( g } \mathrm { C } / \mathrm { m } ^ { 2 } )$ ,and $D _ { \mathrm { x } }$ is the consumption rate of the livestock based on satiation (g C/(sheep·d)).
+
+In the model, ET is calculated using the Penman-Monteith equation, as shown in Equation 3 (Running and Coughlan, 1988; Zhao and Zhao, 2014).
+
+$$
+\mathrm { E T } = \frac { \Delta \left( R _ { \mathrm { n } } - G \right) + \rho C _ { \mathrm { p } } \left( e _ { \mathrm { s } } - e _ { \mathrm { a } } \right) / r _ { \mathrm { a } } } { \Delta + \gamma ( 1 + r _ { \mathrm { s } } ) / r _ { \mathrm { a } } } ,
+$$
+
+where ET is the actual ET $( \mathrm { m m / d } )$ ), $\Delta$ is the slope of the curve of vapor pressure versus temperature $( \mathrm { { k P a } / { } ^ { \circ } C ) }$ ， $R _ { \mathrm { n } }$ is the net radiation $\left( \mathbf { M J } / ( \mathbf { m } ^ { 2 } { \cdot } \mathbf { d } ) \right)$ ）， $G$ is the soil heat flux $( \mathbf { M J } / ( \mathbf { m ^ { 2 } { \cdot } d } ) ) , \rho$ is the air density $( \mathrm { k g } / \mathrm { m } ^ { 3 } )$ ， $C _ { \mathfrak { p } }$ is the specific heat of air $( \mathrm { M J / ( k g \cdot ^ { \circ } C ) } )$ ， $e _ { \mathrm { s } }$ is the saturation vapor pressure $\left( \mathrm { { k P a } } \right)$ ， $e _ { \mathrm { a } }$ is the actual vapor pressure $\left( \mathrm { { k P a } } \right)$ ，y is the psychrometric constant $\mathrm { ( k P a / ^ { \circ } C ) }$ ， $r _ { \mathrm { s } }$ is the bulk surface resistance $\mathrm { { ( s / m ) } }$ ，and $r _ { \mathrm { a } }$ is the aerodynamic resistance $\mathrm { { ( s / m ) } }$ . In the Penman-Monteith equation, energy is divided into two components. One component is used in the transpiration of water, and the other component is used in evaporation.
+
+In this study, grassland WUE was calculated by Equation 4 (Han et al., 2013).
+
+where WUE is expressed as $\mathbf { g } \mathbf { C } / \mathbf { k g } \mathrm { H } _ { 2 } \mathbf { O }$
+
+Two scenarios, grazing and ungrazed, were considered to evaluate grazing effects on NPP, ET and WUE for comparison with studies conducted in the Xinjiang grasslands from 1979-2012.
+
+# 3 Results
+
+# 3.1 Model validation
+
+In this study, Biome-BGC grazing model was validated with respect to NPP and ET estimates using field data collected through observations and the data from previous publications in Xinjiang grasslands. Figure 3 shows that the model accurately estimated the annual NPP, with the simulated data corresponding closely to field data from previous publications and the observations under the both grazing ( $R ^ { 2 } { = } 0 . 8 8$ 。 $\mathrm { R M S E } { = } 2 6 . 9 2$ ） and ungrazed scenarios $R ^ { 2 } { = } 0 . 8 3$ ， $\mathrm { R M S E } { = } 3 6 . 0 7$ ). Due to difficulties in measuring NPP intake by livestock, the NPP values associated with grazing, including observations and simulations, represent the NPP remaining in the ecosystems after grazing.
+
+We conducted the ET simulation validation through comparison with observed ET data from a typical grassland in Urumqi County under the ungrazed scenario ( $R ^ { 2 } { = } 0 . 7 6$ ， $\mathrm { R M S E { = } } 0 . 6 7 ,$ ), in an alpine meadow in Aksu under the ungrazed scenario ( $R ^ { 2 } { = } 0 . 6 6$ $\mathrm { R M S E { = } } 0 . 7 6 )$ ，and in a desert grassland in Qitai County under the grazing scenario ( $R ^ { 2 } { = } 0 . 6 6$ 。 $\mathrm { R M S E } { = } 0 . 3 0 \rangle$ . The results showed that the Biome-BGC grazing model performed well in estimating ET (Figs. 4a-c).
+
+![](images/bb18e512ce4a7c67b47c6b7a4005945d92f43c39069d130c3f33f838b6359c5f.jpg)  
+Fig.3Relationship between simulated and observed annual NPPin the grasslands of Xinjiang under the grazing scenario (a) and ungrazed scenario (b). NPP values associated with grazing represent the NPP remained in the ecosystems after grazing.
+
+![](images/f46dcfa79617c3a5d491bf3ff7ef72389199d41ba6e4731c6fe2f09d8e0d3cc0.jpg)  
+Fig. 4Comparisons of daily ET based on simulated and observed field data for a typical grassland in Urumqi County under the ungrazed scenario (a),an alpine meadow in Aksu under the ungrazed scenario (b),and a desert grassland in Qitai County under the grazing scenario (c)
+
+# 3.2 Impacts of livestock grazing on NPP
+
+Figure 5 shows the spatial distribution of the differences in the average annual NPP between the grazing and ungrazed scenarios in the grasslands of Xinjiang during 1979-2O12 and the variation in NPP over time. In contrast to NPP under the ungrazed scenario, NPP under the grazing scenario decreased in most regions, indicating widespread grassland degradation during 1979-2012. Significant decreases in NPP were mainly distributed in the Altay Mountains and part of the Tianshan Mountains. Increases in NPP were mainly distributed at middle to low elevations on the northern slope of the Kunlun Mountains and in the western part of Southern Xinjiang (Fig. 5a). In general, the NPP in the grasslands of Xinjiang during 1979-2O12 was lower under the grazing scenario than under the ungrazed scenario. In addition, similar inter-annual fluctuations were observed between the grazing and ungrazed scenarios. A fluctuating increase in NPP was observed under the ungrazed scenario, while a fluctuating decline was observed under the grazing scenario (Fig. 5b).
+
+HUANG Xiaotao et al.: Effects of grazing on net primary productivity, evapotranspiration and water..
+
+![](images/84227177947c64f074c32b86bf9a4986117624e4a99388043d171a23f9843fd8.jpg)  
+Fig.5NPP simulation results under the grazing and ungrazed scenarios in Xinjiang graslands during 1979-2012: (a)spatial distribution of the average annual NPP diffrence and (b) interannual variation in NPP. NPP difference $\circleddash$ NPPgrazed-NPPungrazed
+
+In general, the decrease in NPP under the grazing scenario was significant in Northern Xinjiang and the Tianshan Mountains. In contrast, NPP generally increased under the grazing scenario in the Southern Xinjiang (Table 1).
+
+Table 1Net primary productivity (NPP) statistics for different regions   
+
+<html><body><table><tr><td rowspan="2"></td><td>NPPungrazed</td><td>NPPgrazed</td><td>Difference</td><td rowspan="2">Percentage (%)</td></tr><tr><td></td><td>(g C/(m².a))</td><td></td></tr><tr><td>Northern Xinjiang</td><td>192.51</td><td>175.91</td><td>-16.60</td><td>8.62</td></tr><tr><td> Southern Xinjiang</td><td>84.48</td><td>88.02</td><td>3.54</td><td>-4.19</td></tr><tr><td>Tianshan Mountains</td><td>287.25</td><td>271.31</td><td>-15.94</td><td>5.55</td></tr></table></body></html>
+
+Note: NPPungrazed, NPP under the ungrazed scenario; $\mathrm { N P P _ { g r a z e d } }$ , NPP under the grazing scenario.
+
+The decrease in NPP under the grazing scenario declined in the following order: typical grasslands, swamp meadows, mid-mountain meadows, alpine meadows, desert grasslands, and saline meadows. In general, the decreases in NPP were more significant in grasslands with relatively good vegetation growth, such as swamp meadows, mid-mountain meadows, and typical grasslands (Table 2).
+
+Table 2NPP statistics for different grasslands   
+
+<html><body><table><tr><td rowspan="2"></td><td>NPPungrazed</td><td>NPP grazed</td><td>Difference</td><td rowspan="2">Percentage (%)</td></tr><tr><td colspan="3">(g C/(m².a))</td></tr><tr><td>Alpinemeadows</td><td>148.32</td><td>141.99</td><td>-6.33</td><td>4.27</td></tr><tr><td>Mid-mountainmeadows</td><td>366.08</td><td>342.69</td><td>-23.39</td><td>6.39</td></tr><tr><td>Typical grasslands</td><td>323.05</td><td>297.35</td><td>-25.70</td><td>7.96</td></tr><tr><td>Desert grasslands</td><td>159.99</td><td>154.17</td><td>-5.82</td><td>3.64</td></tr><tr><td>Saline meadows</td><td>81.93</td><td>79.03</td><td>-2.90</td><td>3.54</td></tr><tr><td>Swamp meadows</td><td>326.52</td><td>301.26</td><td>-25.26</td><td>7.74</td></tr></table></body></html>
+
+# 3.3Impacts of livestock grazing on ET
+
+Figure 6 illustrates the spatial distribution of the differences in average annual ET between the grazing and ungrazed scenarios in the Xinjiang grasslands over the period 1979-2O12 and the variation in ET over time. In contrast to ET under the ungrazed scenario, ET under the grazing scenario decreased in most regions of Xinjiang. Significant decreases in ET under the grazing scenario were mainly observed in part of the Tianshan Mountains. Increases in ET were mainly observed in part of Southern Xinjiang and the north part of Northern Xinjiang (Fig. 6a). In general, ET was lower under the grazing scenario than under the ungrazed scenario from 1979-2012. In addition, inter-annual fluctuations were similar between the grazing and ungrazed scenarios. An obvious fluctuating increase in ET was observed under the ungrazed scenario, whereas no significant fluctuating increase was observed under the grazing scenario (Fig. 6b).
+
+![](images/d1574264211efb2951d95ff005f21e354a354c58b6bf4d858785be411815c065.jpg)  
+Fig. 6ET simulation results under the grazing and ungrazed scenarios in Xinjiang grasslands from 1979-2012: (a) spatial distribution of average annual differences in ET and (b) interannual variations in ET. ET difference $\mathop : =$ ETgrazed-ETungrazed.
+
+The decrease in ET under the grazing scenario was the most significant in the Tianshan Mountains. Decreases in ET were slightly larger in Northern Xinjiang grasslands than in Southern Xinjiang grasslands. However, due to the lower ET values in the grasslands of Southern Xinjiang, the percentages by which ET decreased were slightly higher in Southern Xinjiang than in Northern Xinjiang (Table 3).
+
+Table 3 ET statistics for different regions   
+
+<html><body><table><tr><td rowspan="2"></td><td>ETungrazed</td><td>ETgrazed</td><td>Difference</td><td rowspan="2">Percentage (%)</td></tr><tr><td></td><td>(mm/a)</td><td></td></tr><tr><td>Northern Xinjiang</td><td>221.31</td><td>213.20</td><td>-8.11</td><td>3.67</td></tr><tr><td> Southern Xinjiang</td><td>183.22</td><td>175.65</td><td>-7.57</td><td>4.13</td></tr><tr><td>Tianshan Mountains</td><td>357.94</td><td>328.99</td><td>-28.95</td><td>8.08</td></tr></table></body></html>
+
+Notes: ETungrazed, ET under the ungrazed scenario; $\mathrm { E T _ { g r a z e d } }$ , ET under the grazing scenario.
+
+The decreases in ET declined in the following order: mid-mountain meadows, swamp meadows, typical grasslands, alpine meadows, desert grassands and saline meadows. The percentages by which ET decreased declined in the following order: alpine meadows, mid-mountain meadows, typical grasslands， swamp meadows, desert grasslands and saline meadows. In general, the decreases in ET were more significant in mountainous grasslands, such as alpine meadows, midmountain meadows and typical grasslands (Table 4).
+
+Table 4ET statistics for different grasslands   
+
+<html><body><table><tr><td rowspan="2"></td><td>ETungrazed</td><td>ETgrazed</td><td>Difference</td><td rowspan="2">Percentage (%)</td></tr><tr><td></td><td>(mm/a)</td><td></td></tr><tr><td>Alpine meadows</td><td>229.70</td><td>209.04</td><td>-20.69</td><td>9.01</td></tr><tr><td>Mid-mountain meadows</td><td>387.70</td><td>358.37</td><td>-29.30</td><td>7.56</td></tr><tr><td>Typical grasslands</td><td>343.90</td><td>319.33</td><td>-24.56</td><td>7.14</td></tr><tr><td>Desert grasslands</td><td>236.20</td><td>225.06</td><td>-11.06</td><td>4.72</td></tr><tr><td>Saline meadows</td><td>154.70</td><td>158.15</td><td>-3.44</td><td>2.22</td></tr><tr><td>Swamp meadows</td><td>358.30</td><td>333.26</td><td>-25.07</td><td>6.70</td></tr></table></body></html>
+
+# 3.4Impacts of livestock grazing on WUE
+
+Figure 7 illustrates the spatial distribution of the differences in average annual WUE between the grazing and ungrazed scenarios in the grassands of Xinjiang over the period 1979-2O12 and the variation in WUE over time. In contrast to the WUE under the ungrazed scenario, the WUE under the grazing scenario decreased in most Xinjiang grasslands. And significant decreases in WUE were mainly distributed in the northwestern Tianshan Mountains and the eastern Altay Mountains. WUE increased mainly in the Altun Mountains, the southwestern Tianshan Mountains, and the northern slope of the middle and low elevations of the Kunlun Mountains (Fig. 7a). The interannual fluctuations in WUE were lower under the grazing scenario than under the ungrazed scenario during 1979-2012. In addition,an obvious fluctuating decline in WUE was observed under the grazing scenario in Xinjiang， whereas under the ungrazed scenario no significant fluctuating decline was observed (Fig. 7b).
+
+![](images/725ddedbbaee8c31fceef7f823893db51533573b0d5e71ee53787c0e202524a0.jpg)  
+Fig.7Water use efficiency (WUE) simulation results under the grazing and ungrazed scenarios in Xinjiang grasslands from 1979-2012: (a) spatial distribution of average annual WUE difference and (b) interannual variation in WUE. WUE difference $\fallingdotseq$ WUEgrazed-WUEungrazed.
+
+Under the grazing scenario, the decrease in WUE was most significant in the Northern Xinjiang grasslands and was least significant in the Southern Xinjiang grassands. Decreases in WUE in the Tianshan Mountain grasslands were also obviously higher than those in the Southern Xinjiang grasslands. However, due to the higher WUE in the Tianshan Mountains, the percentages by which WUE decreased were slightly higher in the Tianshan Mountains than in the Southern Xinjiang grasslands (Table 5).
+
+Table 5Water use efficiency(WUE) statistics for different regions   
+
+<html><body><table><tr><td rowspan="2"></td><td>WUEungrazed</td><td>WUEgrazed</td><td>Difference</td><td rowspan="2">Percentage (%)</td></tr><tr><td></td><td>(g C/kg H2O)</td><td></td></tr><tr><td>Northern Xinjiang</td><td>0.730</td><td>0.677</td><td>-0.053</td><td>7.26</td></tr><tr><td> Southern Xinjiang</td><td>0.260</td><td>0.248</td><td>-0.012</td><td>4.62</td></tr><tr><td>Tianshan Mountains</td><td>0.690</td><td>0.656</td><td>-0.034</td><td>4.88</td></tr></table></body></html>
+
+Note: WUEungrazed, WUE under the ungrazed scenario; $\mathrm { W U E _ { g r a z e d } }$ ,WUE under the grazing scenario.
+
+WUE declined in the following order: typical grasslands， swamp meadows, mid-mountain meadows, desert grasslands, alpine meadows and saline meadows. In general, the decrease in WUE was more significant in grasslands with relatively high levels of vegetation growth, such as swamp meadows, mid-mountain meadows and typical grasslands (Table 6).
+
+Table6WUE statistics for different grasslands   
+
+<html><body><table><tr><td rowspan="2"></td><td>WUEungrazed</td><td>WUEgrazed</td><td>Difference</td><td rowspan="2">Percentage (%)</td></tr><tr><td colspan="3">(g C/kg HO)</td></tr><tr><td>Alpine meadows</td><td>0.3700</td><td>0.3579</td><td>-0.0121</td><td>3.27</td></tr><tr><td>Mid-mountain meadows</td><td>0.8600</td><td>0.8099</td><td>-0.0501</td><td>5.83</td></tr><tr><td>Typical grasslands</td><td>0.8400</td><td>0.7791</td><td>-0.0609</td><td>7.25</td></tr><tr><td>Desert grasslands</td><td>0.3400</td><td>0.3228</td><td>-0.0172</td><td>5.06</td></tr><tr><td>Salinemeadows</td><td>0.5200</td><td>0.5133</td><td>-0.0067</td><td>1.29</td></tr><tr><td>Swamp meadows</td><td>0.7700</td><td>0.7152</td><td>-0.0548</td><td>7.12</td></tr></table></body></html>
+
+# 4Discussion
+
+# 4.1 Uncertainty analysis
+
+It was confirmed that the grazing process modeling with Biome-BGC grazing is suitable for grasslands in arid and semi-arid areas (Seligman et al., 1992; Luo et al., 2012). This model can effectively estimate the carbon emissions of grasslands in Central Asia (Han et al., 2O16). In this study， we conducted model validation with respect to NPP and ET simulation results in the grasslands of Xinjiang to confirm the reliability of the model. However, the grazing process is complex, and some components were not fully considered in the model. As with many other models, uncertainty in the results of the model used here is inevitable. For example, the effects of trampling remain unclear and are not effectively considered in the Biome-BGC grazing model, which inevitably leads to uncertainty in the results. Ecological processes can be influenced in grassland ecosystems due to the soil density change by trampling (Neff et al., 2O05; Bell et al., 2011). We hope that the grazing process of the model can be improved in the future to efectively consider trampling effects.
+
+In addition to the uncertainty associated with the model itself, uncertainty in the model results can also arise from the input data. Meteorological data are the major drivers that influence the model results (Bond-Lamberty et al.,20o5; Jung et al., 2007). The meteorological data used in this study were extractedfrom the China Meteorological ForcingDataset (http://www.tpedatabase.cn/portal/MetaDataInfo.jsp?MetaDataId $\ c =$ 249369). The precision of these data was higher than that of other existing meteorological grid datasets for this region. Grazing data were the key inputs used to simulate the effects of grazing (http://www.fao.org/docrep/010/a1259e $/ \mathrm { a 1 2 5 9 e 0 0 . h t m } )$ and were provided by FAO in this study. We corrected the data in accordance with statistics from the statistical yearbook, which ensured high data precision (Jin, 2012).
+
+# 4.2Effects of livestock grazing on NPP, ET and WUE in grasslands
+
+The results suggest that NPP decreased as a result of livestock grazing in the grasslands of Xinjiang during 1979-2O12, indicating that unsustainable grazing, as a result of increased grazing intensity, and widespread grassland degradation has occurred in Xinjiang in recent decades (Mikola et al., 2009; Su et al.,2O17; Wang et al.,2O17). However, the increases in NPP in some regions indicated that moderate grazing may promote grass growth (Paige, 1992; Nilsson et al., 1996; Chen et al., 2007; Rótolo et al., 2OO7). The effects of grazing on NPP varied among the different regions and grassland types due to diferences in the climate and grazing intensity. In general, decreases in NPP were more significant in the grasslands with high levels of vegetation growth, which can mainly be attributed to the high grazing intensity in these grasslands (Fig. 1).
+
+Our study shows that the difference in ET between the grazing and ungrazed scenarios increased due to the increased grazing intensity in recent decades. In plain grasslands, the decrease in ET was mainly caused by decreased transpiration. Grazing can remove parts of leaf blades and decrease transpiration accordingly (Verón et al., 2O11; Eldridge et al., 2016). The decrease in ET in mountainous grasslands was more significant than the decrease in ET in plain grasslands. In general, the grazing intensity was higher in mountainous grasslands than in plain grasslands, and a higher grazing intensity may lead to lower transpiration. Grazing led to the destruction of vegetation, which not only decreased transpiration but also generated more runoff (Leitinger et al., 2010; Orr et al.,2O16). Therefore, decreases in ET were more significant under the grazing scenario in the mountainous grasslands than in the plain grasslands.
+
+WUE under the grazing scenario was lower than that under the ungrazed scenario. Furthermore, a strong fluctuating decline in WUE was observed under the grazing scenario, whereas no such pattern was observed under the ungrazed scenario. Therefore, increased grazing intensity led to a remarkable decrease in WUE. Overgrazing can remove excessve amounts of leaves (the main photosynthetic organ of plants) and is not conducive to grass growth (Zhao et al., 2OO7; Eldridge et al., 2016). In recent decades, overgrazing has been widespread and has caused decreases in WUE in most regions of Xinjiang. In general, decreases in WUE were more significant in the grasslands with high levels of vegetation growth because these regions were generally associated with high grazing intensities.
+
+# 4.3Comparisons with previous studies
+
+The effects of grazing on the grasslands of Xinjiang have been studied using a variety of methods.
+
+Using observational data, Long et al. (2O1O) conducted researches on evaporation from grassland soil under different rainfall intensities in Qitai County of Xinjiang. Yan et al. (O13) explored the relationships of ET with multiple environmental factors in an Achnatherum splendens grassland in Xinjiang during summer and autumn. Using a Biome-BGC grazing model, Luo et al. (2012) estimated aboveground net primary productivity (ANPP) at four sites in the northern Tianshan Mountains under diferent grazing intensities. This was the first use of this grazing process model to investigate the effects of grazing in the Xinjiang grasslands. The authors disclosed that ANPP can be promoted under moderate grazing scenario for grasslands under water stress. However, the previous studies which based on sites did not clearly provide an overall understanding of these phenomena over large scale areas, particularly in areas with complex surfaces, such as the grasslands of Xinjiang. Han et al. (2O14) conducted a study on carbon emisson from grasslands using the spatial Biome-BGC grazing model and presented the first carbon budget estimate at the regional scale for Xinjiang. However, the grazing intensity in that study was obviously lower than the real grazing intensity,leading to bad accuracy in terms of results. In this study, to ensure a high precision of the grazing data, we adjusted the grazing intensity data in accordance with information from the Xinjiang statistical yearbook (Jin, 2O12). In addition, the efects of grazing on NPP, ET and WUE in Xinjiang were estimated for different regions and grassland types using the spatial Biome-BGC grazing model to investigate the spatial differences in grazing effects in detail.
+
+# 5 Conclusions
+
+NPP, ET and WUE of the Xinjiang grasslands under the grazing scenario were generally lower than those under the ungrazed scenario during 1979-2O12. In addition, the differences between grazing and ungrazed scenarios increased as a result of increased grazing intensity over time. Grazing turned the NPP from the increased volatility to the decreased volatility in the grasslands of Xinjiang between 1979 and 2O12. Compared with the ungrazed scenario, grazing led to a slower increase in ET and a more significant decrease in WUE over the study period.
+
+Strong regional variations occurred in NPP, ET and WUE diferences between the grazing and ungrazed scenarios among the regions and grassland types due to variations in climate and grazing management. Widespread overgrazing has contributed to decreases in NPP in most regions in recent decades. Because of the decrease in transpiration caused by grazing, ET decreased in the plains regions. In mountainous grasslands, in addition to a decrease in transpiration, an increase in runoff caused by grazing was an important contributor to the decrease in ET. WUE decreased in most regions in conjunction with the destruction of vegetation caused by overgrazing. This study suggests that grazing had a significant impact on carbon and water cycling in Xinjiang grassland ecosystems during 1979-2012.
+
+# Acknowledgments
+
+This work was supported financially by the National Natural Science Foundation of China (41361140361, 41271126)and the Project of State Key Laboratory of Desert and Oasis Ecology (Y471163).The authors declare no conflict of interest.
+
+# References
+
+BanksT,Doman S.2Oo1.Kazakh nomads,rangeland policyandtheenviromentinAltay: insights fromnewrangeecology.In: theSecondInternationalConventionofAsiaScholars.Berlin:FreeUniversity.[2001-08-12]. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.489.8309&rep=rep1&type=pdf   
+Bell W,KirkegardJA,SwanA,etal.21.Ipactsofsoildmagebygainglvestock oroproductivity.Soilde Research,113(1): 19-29.   
+Bond-LambertyB,GowerST,AhlDE,etal.205.Reimplementatioofthebiome-BGCmodeltosimulate successionalchange. Tree Physiology, 25(4): 413-424.   
+Chen Y X,LeeGLeeP,etal.2o7.Mdelanalysisof grazingeffectonabovegroundbiomassandabove-groundnpimary production of a Mongolian grassland ecosystem. Journal of Hydrology, 333(1): 155-164.   
+Dong S K, Kang M Y, Hu Z Z, et al. $2 0 0 4 \mathrm { a }$ , Perormance of cuitivated perennial grass mixtures under diterent grazing intensities in the alpine region of the Qinghai-Tibetan Plateau. Grass and Forage Science,59(3): 298-306.   
+Dong S K,Jiang Y, Wei MJ,et al.2O04b.Eectsofnitrogenapplicationrateonsoilandplant chracteristics inpasturesof perenial grasmixtures in thealpineregionof theQinghai-TibetanPlateau,China.AustralianJournalofSoilResearch,4(7): 727-735.   
+DuJQ,JiaerhengA,ZhaoCX,etal.2015.DynamicchangesinvegetationNDVIfrom1982to2012anditsresponses toclimate change and human activities in Xinjiang,China. Chinese Journal of Applied Ecology,26(12): 3567-3578.(in Chinese)   
+Dugdale R C,WilkersonFP,ParkerAE.2016.The effectof clam grazing on phytoplankton spring blooms in the low-salinity zone of the San Francisco Estuary: a modelling approach. Ecological Modeling, 340: 1-16.   
+Eldridge D J,Poore AGB,Ruiz-Colmenero M,etal.2016.Ecosystem structure,function,andcomposition inrangelandsare negatively affected by livestock grazing. Ecological Applications, 26(4): 1273-1283.   
+FAO/IASA/ISRIC/ISS-CAS/JRC,2012.Harmonized World Soil Database (version 1.2).FAOand IIASA,Rome,Italyand Laxenburg,Austria.   
+Gu AX,Fan YM,WuHQ,etal.2010.Relationshipbetweenthe numberofthre main microrganismsandthesoilenviroment ofdegraded grassandonthenorth slopeof theTianshanMountains.ActaPrataculturaeSinica,19(2):116-123.(inChinese)   
+Guo S H, Yang GJ,Li QF,etal.2015.Observation andestimationof the evapotranspirationofalpine meadow in the upper reaches of the Aksu River, Xinjiang. Journal of Glaciology and Geocryology,37(1): 241-248. (in Chinese)   
+Guo T,Lohman D,Ratzmann G, et al. 2016.Responseof smi-arid savana vegetationcomposition towards grazingalong a precipitation gradient—The efect of including plant heterogeneity into an ecohydrological savanna model. Ecological Modelling, 325: 47-56.   
+Han QF,LuoGP,LiCF,etal.2013.Modeling grassandnet primaryproductivityand wateruseefficiencyalongaelevational gradient of the Northern Tianshan Mountains. Journal of Arid Land,5(3): 354-365.   
+Han QF,LuoGP,LiCF,et al.2014.Modeling the grazing effct on drygrassland carboncycling with Biome-BGC model. Ecological Complexity, 17: 149-157.   
+Han QF,LuoGP,LiCF,et al.2016.Simulated grazing efects oncarbon emission in CentralAsia.AgriculturalandForest Meteorology, 216: 203-214.   
+Hijmans R J,Cameron SE,Parra JL,et al.2Oo5. Very highresolution interpolated climate surfacesforglobal land areas. International Journal of Climatology, 25(15): 1965-1978.   
+Huang X T,LuoGP,LvNN.2017.Spatio-temporal paterns of grassland evapotranspiration and wateruseeiciencyinarid areas. Ecological Research,32(4): 523-535.   
+Irisarri JG N,DernerJD,PorenskyLM,etal.2016.Grazing intensitydiferentiallregulatesANPPresponsetoprecipiation in North American semiarid grasslands. Ecological Applications,26(5): 1370-1380.   
+JiapaerG,LiangSL,YiQX,etal.2O15.Vegetationdyamicsandresponses torecentclimatechangeinXijangusinglfara index as an indicator. Ecological Indicators, 58: 64-76.   
+Jin JX.2012. Xinjiang Statistical Yearbook. Beijing: China Statistics Pres,401-460.(in Chinese)   
+Jung M, VeterM, Herold M,etal.2Oo7. Uncertainties of modeling gross primary productivityoverEurope: asystematic study onthe effects ofusingdiferentdriversand terrestrialbiosphere models.Global Biogeochemical Cycles,21(4): GB4021.   
+Kerven C,SteimanB,AshleyL,etal.2011.PastoralismandFarming inCentralAsia'sMountais: AResearchReview.Bishkek: University of Central Asia.   
+Laniak GF,Olchin G,Goodall J,et al.2013.Integrated environmental modeling:a visionandroadmapforthe future. Environmental Modelling & Software, 39: 3-23.   
+LeitingerG,TasserE,NeweselyC,etal.200.Seasonaldnamicsofsurfacerunof inmoutain grassandecosstemsdieing in land use. Journal of Hydrology, 385(1-4): 95-104.   
+Li X Y, WangYG,LiuLJetal.213.EfctofladusehtoryandpateonsolarbonsorageinaidregionoftralAsia. PLoS One, 8(7): e68372.   
+Liu H,Zang R G, Chen HYH.2016.Efects of grazing on photosynthetic features and soilrespirationof rangelands in the Tianshan Mountains of Northwest China. Scientific Reports,6: 30087.   
+Liu L X,Zhao X YChang XL,et al.2016. Impact of precipitationfluctuationondesert-rassandANPP.Sustainability8(12): 1245.   
+Liu WB,WangL, ZhouJ,etal.2016.A worldwide evaluationof basin-scale evapotranspiration estimates against the water balance method. Journal of Hydrology, 538: 82-95.   
+Long T, Xiong HG,Zhang JB,etal.2O10.Experimentalstudyongrassandsoilevaporation withdiferentrainfallintesity. Journal of Soil and Water Conservation, 24(6): 240-245. (in Chinese)   
+Luo G P,Han QF, Zhou DC, et al. 2012. Moderate grazing can promote aboveground primary productionof grassand under   
+Mikola J,Setala H, Virkajarvi P,et al.2O09.Defoliationand patchy nutrient returndrive grazing efectson plant andsoil properties in a dairy cow pasture. Ecological Monographs, 79(2): 221-244.   
+NeffJC,Reynolds RL,BelnapJ,etal.2Oo5.Multi-decadal impacts ofgrazingonsoil physicalandbogeochemicalpropertis in southeast Utah. Ecological Applications,15(1): 87-95.   
+Nilsson P,Tuomi J,Astrom M.1996. Even repeated grazing mayselect forovercompensation. Ecology,7(6): 1942-1946.   
+NiuSL,XingXR,ZhangZ,etal.2011.Wateruseeficiencyinresposetocimatehange:fromleaftocosysteminatperate steppe. Global Change Biology, 17(2): 1073-1082.   
+Olejniczak P.2011.Overcompensation inresponse tosimulated erbivory inthe perennial herb Sedum maximum.PlantEcology, 212(11): 1927-1935.   
+OrR J,MurrayPJ,EylesCJ,etal.2016.The North Wyke FarmPlatform: efectof temperate grassland farming systems on soil moisturecontents,runof and asociated water qualitydynamics.European Journalof Soil Science,67(4): 374-385.   
+Paige KN.1992.Overcompensation inresponse to mammalian herbivory: from mutulastic toantagonistic interactions.Ecology, 73(6): 2076-2085.   
+Rong Y P, Yuan F,MaL.2014.Efectiveness of exclosures forrestoring soils andvegetation degraded byovergrazing in the Junggar Basin, China. Grassand Science, 60(2): 118-124.   
+Rotolo G C,Rydberg T,Lieblein G, etal.2O07.Emergyevaluationof grazingcatte in Argentina's Pampas. Agriculture, Ecosystems & Environment, 119(3-4): 383-395.   
+Runing S W,CoughlanJC.1988.Ageneral modelofforestecosystemprocesses forregionalapplications I.Hydrologic balance, canopy gas exchange and primary production processes. Ecological Modelling, 42(2): 125-154.   
+Seligman N G,Cavagnaro JB,Horno ME.1992. Simulationof defoliation effectsonprimary production of a warm-season, semiarid perennial-species grassland. Ecological Modelling, 60(1): 45-61.   
+Su R N,ChengJH,ChenDM,etal.217.Efetsof grazingonspatiotemporalvariations incommunitystructureandecostem function on the grasslands of Inner Mongolia, China. Scientific Reports,7(1): 40.   
+Teague WR,Dowhower SL,BakerSA,etal.2O1Grazing managementimpactsonvegetation,soilbiotaandsoilhemical, physical and hydrological properties intallgrass prairie.Agriculture,Ecosystems &Environment,141(3-4): 310322.   
+VerónSR,ParueloJM,OesterheldM.2O11.Graing-inducedlossesofodiversityaectetranspirationofanaridecostem. Oecologia, 165(2): 501-510.   
+Wang K B,Deng L, Ren Z P, et al. 2016a. Grazing exclusion significantly improves grassand ecosystem Cand N pools ina desert steppe of Northwest China. Catena, 137: 441-448.   
+WangL,LiuHZ,BernhoferC.2O16b.Grazing intensityeffectsonthepartitioningofevapotranspirationinthesemiarid typical steppe ecosystems in Inner Mongolia. International Journal of Climatology,36(12): 4130-4140.   
+Wang QX, Watanabe M,Ouyang Z.2005.Simulationof waterand carbon fluxes using BIOME-BGC modelovercropsin China Agricultural and Forest Meteorology, 131(3-4): 209-224.   
+Wang Z,Deng XZ,Song W,etal.2O17.Whatisthe maincauseof grassland degradation?Acase studyof gralandecosystem service in the middle-south Inner Mongolia. Catena, 150: 100-107.   
+Xie LN,Chen WZ,Gabler CA,etal.2016.Effectsof grazing intensityonseed productionof Caragana stenophyllaalonga climatic aridity gradient in the Inner Mongolia Steppe, China. Journal of Arid Land, 8(6): 890-898.   
+Xu B, Yang X C,JinYX,etal. 2O12.Monitoring and evaluationof grassand-livestock balance in pastoral and semi-pastoral counties of China. Geographical Research, 31(11): 1998-2006. (in Chinese)   
+Yan R H, Xiong H G,Feng Z H, etal.2013. Relationship between evapotranspirationand multi-environmental factorsof Achnatherumspendens grassand'sSPACsysteminoasis-desertEcotone.AridLandGeography36(5):889-896.(inCiese)   
+YanRH,XiongHG,Chen XF.2O15.Characteristicsoflandsurfaceenergyover: Achnatherumsplendens gralandintheoasisdesert ecotoneof Northern Piedmontof Tianshan Mountains.Acta Ecologica Sinica,35(5):1350-1358. (inChinese)   
+Zhang JH, Huang Y M, Chen H Y, et al.2016.Effcts of grassand managementonthecommunitystructure,aboveground biomass and stability of atemperate steppe in Inner Mongolia, China. Journal of Arid Land, 8(3): 422-433.   
+Zhang Y,GaoQZ,DongSK,etal.2015.Eects of grazingandclimate warmingonplantdiversity,productivityndlvinstate in thealpinerangelandsandcultivated grassandsof the Qinghai-Tibetan Plateau.TheRangelandJournal,37(1):57-65.   
+ZhaoLW,ZhaoWZ.2014.Evapotranspirationofanasis-desertrasitionzoneintheidletreamofHeiheRiver,orthest China. Journal of Arid Land, 6(5): 529-539.   
+Zhao WY,LiJL, Qi JG.2Oo. Changes invegetation diversityand structure inresponse toheavygrazing presure inthe Northern Tianshan Mountains, China.Journal of Arid Environments, 68(3): 465-479.   
+Zuo X A, Wang S K, Zhao X Y,etal.2O12. Effect of spatial scale and topographyonspatial heterogeneityof soilseedbanks   
+under grazing disturbance inasandy graslandof Horqin SandLand,Northern China.Journal ofAridLand,4(2): 151-160.

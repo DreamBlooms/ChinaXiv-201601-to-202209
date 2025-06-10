@@ -1,0 +1,127 @@
+# 基于经验模式分解的太阳南北半球黑子面积的Rieger-type周期相位分析\*
+
+刘伟行'，钱雅文'，邓林华²，冯松'
+
+(1.昆明理工大学信息工程与自动化学院，云南 昆明 650500；2.中国科学院云南天文台，云南 昆明 650216)
+
+摘要：本文采用经验模式分解技术研究了从第12到第24太阳活动周的黑子面积数据中的Rieger-type周期，以及它们在南北半球上的相位关系。研究发现：(1)Rieger-type周期尺度以及时间尺度在两个半球上是不一样的，从而导致了半球分布的不对称性；(2）平均Rieger-type周期在北半球上的周期长度略大于南半球上的；(3）占主导地位半球的Rieger-type周期的相位不一定是超前的，半球Rieger-type周期尺度相近的也并不一定是相关性强的。
+
+关键词：太阳南北半球不对称；Rieger-type周期；相位中图分类号： $\mathrm { P l } 8 2 . 3 \substack { + 1 }$ 文献标识码：A 文章编号：
+
+太阳活动的154天周期被称为Rieger-type周期，该周期广泛存在于太阳的各种活动指数中,最早的Rieger-type周期是由SMM(SolarMaximum Mission)人造卫星在太阳耀斑中发现，之后又在黑子数目和面积中发现了该周期。Rieger-type周期的尺度通常为130天至185天，并出现在活动周的极大期附近。Rieger-type周期分布的时间范围特别长，且表现出一定程度的间歇性；该周期特征不仅仅是太阳的局部特征，而是存在于全日面范围内；该周期特征在极大年的周期性强于极小年。目前，关于Rieger-type周期的物理意义有很多种解释：Rieger-type的周期是由太阳内部发电机层的较差自转磁场和环形磁场引起的[1]；Rieger-type周期是由于太阳内部的磁罗斯贝波（Magnetic Rossby wave）的不稳定性产生的，当磁罗斯贝波的强度大于 $1 0 ^ { 5 } G$ 时产生准双年震荡周期，小于 $1 0 ^ { 4 } G$ 时产生Rieger-type周期[2]等。所以研究太阳活动的Rieger-type周期对于理解太阳活动周的时空演化及其与太阳内部波动效应的物理关系等方面均具有重要的科学意义。
+
+目前有很多关于太阳活动现象的南北半球不对称性的统计与理论研究，尤其是云南天文台的李可军研究团队在此方面取得了系列性的研究成果β34I。太阳黑子活动的南北不对称性是由于北半球和南半球之间的相位不同步造成的。通过对太阳活动指数的研究，发现第19和第20活动周中北半球是主导，在第21个太阳活动周中南半球是主导[5]。此外，率先出现X级耀斑的半球，其太阳活动将比另一半球更剧烈[]。但是关于太阳活动的Rieger-type周期信号的南、北半球不对称性的研究相对很少：Rieger-type周期存在半球不对称性[7]。本文将对从第12到第24活动周中存在的Rieger-type周期及其南北不对称性进行研究和分析。
+
+经验模式分解（EmpiricalMode Decomposition,EMD）技术[8]是近年来提出的一种优秀的时频分析方法，与传统的频率分析手段相比，EMD方法更适合提取非线性和非平稳信号，目前该方法已广泛应用于太阳物理领域的研究中[3]4]。因此，在本文的研究中也采用该方法来提取和分析太阳黑子面积数据在南北半球上的 Rieger-type 周期特征。论文的结构如下：第1节将介绍观测数据的来源，第2节展示我们的分析过程以及讨论，第3节对我们的研究进行了总结。
+
+# 1．观测数据
+
+本文选择来自于美国国家航空和航天局太阳物理马歇尔太空飞行中心(National Aeronautics and Space Administration,Solar Physics Marshall Space Flight Center）从1874 年05月01日至 2016年10月31日所采集的太阳南、北半球的黑子面积数据（https://solarscience.msfc.nasa.gov/greenwch.shtml）。黑子数与黑子面积呈非线性变化。与太阳黑子数相比较，太阳黑子面积更具有物理意义。为了研究Rieger-type 周期在不同太阳活动周的相位关系，我们按照每个太阳活动周的起止时间对数据进行了划分，获得了从第12至第 24太阳活动周的黑子面积数据。这里我们将数据进行 30 天的平滑，来消除周期较小（太阳自转）的信号分量，平滑后的南、北半球的太阳黑子面积如图1所示：
+
+![](images/bc15035625a0f7ef5075244bf48459f0c5d5f89f69b22274395be6c6b3575958.jpg)  
+图1从1874年5月1日-2016年10月31日的太阳南、北半球黑子面积数据  
+Fig.1 Sunspot Areas in the southernand northern hemisphere taken from1874 May1,1874to 2O16 October 31
+
+由图1可以明显看出南、北半球太阳黑子面积数据表现出较为明显的差异性，每个活动周的黑子面积分布也大不相同。随后我们将对这13个太阳活动周内存在的Rieger-type 周期以及同一活动周内该周期的相位关系进行分析。
+
+# 2．结果和讨论
+
+# 2.1提取太阳黑子的Rieger-type周期信号
+
+我们运用 EMD 分析技术分别对南、北半球太阳黑子面积数据从第12到第 24太阳活动周的数据进行 IMF 分解。所获得的Rieger-type 周期如图2所示。其中蓝色线代表南半球，红色线代表北半球。Rieger-type 周期通常出现在每个活动周的极大期区域。
+
+500 500   
+elfa 200 Wx W>\~ Capt onnmAn Ccelfh W MN WN -200 -500 -500 1883 1889 1894 1900 1905 1911   
+aM wsM >S>> Ceaf AMWNANO -500 -500 1916 1922 1927 1932 1935 1938 1941 1943   
+C4 500 WWW vM Cp1 500 VONMNW\~ W -500 -500 1946 1949 1952 1954 1960 1965 1971 500 500 500   
+Csft >>WWA33 ee4 A sery Cea55 AMWMMWWW -500 -500 -500 1976 1982 1987 1993 1998 2001 2004 2006 Particular year Particular year   
+24 200 AWWAAN   
+epre -200 2009 2012 2015 Particular year
+
+接下来我们对分解的 Rieger-type 周期分量的平均周期进行概率分布统计，再对其进行高斯拟合，以得出它们的均值和标准差，最后进行统计汇总。北半球与南半球的第12至第24 个太阳活动周的 Rieger-type 周期分别如图3 和图4所示。其中X轴为周期，单位为天。Y轴为归一化后的概率分布。其中蓝色点代表频率概率分布图，红色曲线代表频率概率分布高斯拟合曲线，上三角号代表拟合曲线的峰值点（该点横坐标代表平均频率，纵坐标代表该频率出现的可能性），点线代表平均频率，点划线代表一个标准差的置信区间，虚线代表两个标准差的置信区间。从图3、图4可以清楚的发现同一个活动周不同半球之间的频率分布大不相同。这说明了半球的不对称性。
+
+![](images/e42e9cc3bb7c40d44f76947c3ec55c42f51c22c7b83c62dfe6ca1dcf59fca219.jpg)  
+图3北半球第12至第 24个太阳活动周的Rieger-type 周期的分量频率概率分布统计高斯拟合
+
+Fig.3StatisticalfrequencyGaussianfitingofthecomponentfrequencydistributionofteRieger-typecylesforthethto4tholar
+
+![](images/54e92db307797bdbf8f128c4cf777f71495de01b2ea0be377766d404fec4a1e9.jpg)  
+activitycycle in the Northern Hemisphere   
+图4 南半球第12 至第 24个太阳活动周的 Rieger-type 周期的分量频率概率分布统计高斯拟合
+
+Fig.4StatisticalGausianfitigoftecomponentfrequencyprobabilitydistrbutioofthiegertyecclesforthethto4hsolar
+
+activity cycles in the Southern Hemisphere
+
+根据图3、图4的拟合函数，我们获取了从第12至第24个太阳活动周的Rieger-type 周期的分量的平均周期，并展示在表1中。从表1中我们发现，南、北半球均存在 Rieger-type周期，且周期长度明显不同。其中北半球的第16、第17、第22个太阳活动周与南半球的第
+
+12、第20个太阳活动周的周期相比Rieger-type 周期的130 天至185 天的周期范围略高或略低，也说明了Rieger-type 周期的尺度范围并不是恒定不变的，而是随着太阳活动周的变化而变化。其中在第13、第14、第19个太阳活动周中，南、北半球的平均周期结果相近。对南、北半球13个活动周的 Rieger-type 周期取均值，北半球、南半球平均Rieger-type 周期值分别约为170天、160天。两个半球月平均太阳黑子群数的 Schwabe 周期长度也不同，北半球每月太阳黑子群数的平均 Schwabe 周期长度略大于南半球;
+
+# 表1第12至第24个太阳活动周的Rieger-type周期的分量的平均周期
+
+Tab.1 The average cycle of the components of the Rieger-type cycle for the l2th to 24th solar activity cycles   
+
+<html><body><table><tr><td>Cycles</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>Average</td></tr><tr><td>N-hemisphere</td><td>160</td><td>159</td><td>178</td><td>154</td><td>224</td><td>212</td><td>174</td><td>133</td><td>143</td><td>177</td><td>186</td><td>148</td><td>160</td><td>170</td></tr><tr><td>S-hemisphere</td><td>202</td><td>156</td><td>178</td><td>172</td><td>143</td><td>136</td><td>146</td><td>128</td><td>166</td><td>167</td><td>173</td><td>162</td><td>148</td><td>160</td></tr></table></body></html>
+
+Rieger-type 周期通常出现在1-3年的周期最大值附近。我们将每一个太阳活动周的极大期划分出来。划分方法为：将原始数据进行185天平滑，选取平滑后数据最大值的一半，做一条横穿数据曲线的水平线，该水平线线与数据曲线的交点对应的横坐标区间为该太阳活动周的极大期，每个太阳活动周的南、北半球极大期取交集。划分出来的IMFs极大期如图5。其中蓝色线代表南半球，红色线代表北半球。
+
+MwWAN Ww af4 MMCAM -500 -500 1882 1883 1885 1893 1894 1905 1906 1908 500 500   
+15 Gaca wMWwaN eprt 1 WWWM Ccaaf X -500 -500   
+1916 1917 1919 1926 1927 1928 1937 1937 1938 1938 1939   
+500 500   
+Cp4 Cp1 xMWa 20 Mwww   
+】 7 G   
+-500 -500 1947 1947 1948 1948 1957 1958 19681968 19691969 1970 1970   
+MMWWA 500 WWW 500   
+21 ea2 Ca55   
+eare   
+-500 -500 -500 1979 1980 1982 1988 1989 19891990 1991 1991 2000 2001 2002 Particular year Particular year   
+200   
+p 0   
+-200 2012 2012 2013 Particular year
+
+Fig.5ThemaximumperiodoftheRieger-typeperiodiccomponentofthe2thto24thsolaractivitycyclesinthesouthemandorthe
+
+hemispheres
+
+从图5我们可以看出，第17，第18 和第19个太阳活动周南、北半球的Rieger-type 周期分量存在明显的差异。Rieger-type 周期与太阳活动周期强度呈反向相关关系。如图1所示第17，第18 和第19个太阳活动周为较强的太阳活动周。所以在该活动周内，南、北半球Rieger-type 周期差异很大。
+
+# 2.2Rieger-type周期分量对应的相位相关性分析
+
+Rieger-type 周期发生在两个半球的不同时间（约1-2年的变化），即存在时间（相位）差[8]。为了弄清楚北半球与南半球太阳黑子面积数据Rieger-type 周期分量的相位关系，本文采用互相关函数分析相位相关性。北半球与南半球不同太阳活动周极大期的相位相关性系数与相位差，汇总如表2所示：
+
+# 表1北半球与南半球不同太阳活动周极大期的相关性系数与相位差。
+
+Tab.2 Correlation coefficient and their phase difference of the solar maximum period in the $\mathbf { N } _ { - }$ and S-hemispheres.   
+
+<html><body><table><tr><td>Cycles</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>Average</td></tr><tr><td>Correlation coefficient</td><td>0.31</td><td>0.50</td><td>0.46</td><td>0.61</td><td>0.25</td><td>0.38</td><td>0.33</td><td>0.39</td><td>0.41</td><td>0.61</td><td>0.39</td><td>0.61</td><td>0.51</td><td>0.44</td></tr><tr><td>phase difference (day）</td><td>229</td><td>-332</td><td>51</td><td>9</td><td>-286</td><td>8</td><td>-15</td><td>-443</td><td>329</td><td>-126</td><td>-289</td><td>135</td><td>65</td><td>-51</td></tr></table></body></html>
+
+如表2所示，相位差为正值代表北半球超前于南半球，反之代表北半球滞后于南半球。在这13个太阳活动周中，南、北半球对应的Rieger-type周期分量相关性系数的均值为0.44,相位差的均值为北半球滞后于南半球约51天。相位异步是导致南、北半球不对称的原因之一。将北半球与南半球的相位差比较发现，在这13个太阳活动周中，有7个活动周是北半球超前于南半球，有6个活动周是北半球滞后于南半球。北半球与南半球的超前或者滞后关系不会持续超过两个活动周。在表1中我们得到的周期结果相近的第13、第14、第19个太阳活动周，它们对应的相关性系数分别为0.50，0.46，0.39，并不是最高的相关性结果，第15个太阳活动周有着最高的相关性系数0.61。第12个太阳活动周的相关性系数最小为0.31。所以有半球周期尺度相近的并不一定是相关性强的。
+
+# 3．总结
+
+太阳黑子在南北半球上的时空分布大致是对称的，被称为"蝴蝶图”，但他们仍然存在着一定程度的差异性。通过对南、北半球黑子面积的统计分析，我们发现黑子面积的Rieger-type周期是一个本征周期，在太阳的南、北半球上均存在。在每个太阳活动周中，南、北半球的Rieger-type周期尺度以及时间尺度不一样，从而导致了半球的不对称性。这与文[7的结论一致。平均Rieger-type周期为北半球的周期长度略大于南半球。这与文[5]中的结果一致。北半球在周期19-20期间占主导地位，南半球在21-23周期占主导地位[7]。与表2我们的结果相比，并不是占主导地位半球的Rieger-type周期相位更超前。这可能是因为半球活动水平与复杂的太阳内部发电机有关，而Rieger-type周期性与磁罗斯贝波相关。半球周期尺度相近的并不一定是相关性强的，再次说明南北半球是不对称的。不对称性可能反映了北半球和南半球上的磁场强度之间的差异，但差异的产生机制尚不清楚。
+
+Rieger-type周期是在研究太阳耀斑的硬X射线辐射中被发现的，之后通过软X射线耀斑、微波耀斑和Hα耀斑等研究进一步确认。154天周期的物理起源是来源于太阳内部的复杂动力学，对该周期的研究不仅对耀斑发生率的研究提供有价值的信息，而且可为亚光球层中磁场现象的时空演化提供重要参考。由于太阳耀斑在活动区的产生概率远高于宁静区，而且黑子面积（及数目）的主要贡献是来自于活动区，因此本文对黑子面积的Rieger-type周期在南北半球上的空间分布，对研究太阳耀斑的研究有重要的科学价值和意义。一方面，太阳耀斑的Rieger-type周期的半球分布特性是否与黑子面积具有相同的统计特性，有助于研究太阳耀斑活动的长期演化特性及潜在的驱动机制；另一方面，太阳耀斑爆发过程中的磁场能量的起源、积累和释放过程是否与太阳活动周的周期特性及半球活动的强度存在关联，这将为厘清太阳耀斑活动的驱动和爆发机制提供统计信息。
+
+# 参考文献：
+
+[1] GurgenashviliE,ZaqarashviliT,KukhianidzeV,etal.Rieger-typeperiodicityduringsolarcycles14-24:estimationofdyamo magnetic field strength in the solar interior[J].Astrophysical Journal,2016,826(1):55.   
+[2] Teimuraz V.Zaqarashvili,MarcCarbonell,RamnOliver,Quasi-bienialoscilltions inthesolartachoclinecausedbymagnetic Rossby wave instabilities [J].The Astrophysical Journal Letters,2010,724:L95-L98.   
+[3] LiKJ,FengW,XuJCetal.Whyis theSolarCostantNotaConstant?[J].AstropsicalJoual,,747(2):12.   
+[4] LiKJ,ShiXJFengW,etal.Long-tevariationsofthecoronalrotatioandsolaractivity[J].onthlyNoticesoftheRoyal Astronomical Society,2012,423(4):3584-3588.   
+[5] Verma VK,Joshi GC,PaliwalDC.Studyofperiodicitiesofsolarnucleargammarayflaresandsunspots[J].SolarPhysics,1992, 138(1):205-208.   
+[6] 陆阳平，乐贵明，赵浩峰,等 $2 1 \sim 2 4$ 太阳活动周首个高纬黑子和首个X级耀斑的半球特点与太阳活动的南北不对称性的关 系[J].天文研究与技术,2016,13(2):150-152. LuYangping,LeGuiming,Zhao Haofeng,etal.TheRelationship between First X-ClassFlare,FirstHighLatitude Sunspot Hemisphere Featuresandthe AsymmetryofSolar Activityduring Solar Cycle21-24[J].Astronomicalresearchand technology, 2016,13(2):150-152.   
+[7] Eka Gurgenashvili,TeimurazV.Zaqarashvili,VasilKukhianidze,North-southasymmetryinRieger-typeperiodicityduringsolar cycles 19-23[J],The Astrophysical Jourmal,2017,845:137(pp),   
+[8] NordenE.Huang,Zheng Shen,tevenR.Long,Theempiricalmode decompositionandtheHilbertspectrumfornonlinearand nonstationary time series analysis[J],The Royal Society,1998,454: 903-995.   
+[9] 冯雯，谢婧岚，李可军．黑子面积随黑子数变化的统计研究[J].天文研究与技术,2016,13(2):153-159. Feng Wen,Xie Jinglan,LiKejun.A Statistical Studyon Sunspot Area Varying with Sunspot Number[J].Astronomicalesearch and technology,2016,13(2):153-159.
+
+# Rieger-type Periodic Phase Analysis of Sunspot Areas in the Northern and Southern Hemispheres Using Empirical Mode Decomposition
+
+Liu Weihang’,Qian Yawen ¹,Deng Linhua²,Feng Song l
+
+(1.FacultyoffoatioEgeigndtotioningUrsityoficedcholgyunnga;
+
+2.Yunnan Observatories,Chinese Academy of Sciences,Kunming 65o216,China )
+
+Abstract: Empirical mode decomposition (EMD) technique is used to study the Rieger-type cycle in the sunspot area data from the 12th to 24th solar cycles and their phase relations in the northern and southern hemispheres. It is found that: (1) the Rieger-type cycle scale and the time scale are different in the two hemispheres,which leads to the asymmetry of the hemispheric distribution; (2) the average Rieger-type cycle length in the northern hemisphere is slightly longer than that in the southern hemisphere; (3) the phase of the dominant hemisphere is not necessarily ahead of time. The hemispherical Rieger-type with similar cycle scales is not necessarily a strong correlation. Vavwarde. A avmmatrinn1 calnr hamignharan: Diaaar tvna ovnla: Dhnna

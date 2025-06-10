@@ -1,0 +1,445 @@
+[
+    {
+        "type": "text",
+        "text": "International UTC and TAI comparison based on BDS PPP ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yulong Ge1,2,3, Baoqi Sun1,2,3A,\\*, WeiJin Qin1,23, Mingjun Ouyang12,3, Xuhai Yang1,23A ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 (National Time Service Center, Chinese Academy of Sciences, Xi'an, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 (Key Laboratory of Precise Positioning and Timing Technology, Chinese Academy of Sciences, Xi'an 710600, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 (University of Chinese Academy of Sciences, Beijing 1OoO49, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 (School of Astronomy and Space Science, University of Chinese Academy of Sciences, Beijing 100049, China.) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author, e-mail: sunbaoqi@ ntsc.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract The BeiDou navigation satelite system (BDS） developed by China, and provided official service for Asia-pacific region freely since 2O12. With development of BDS,BDS-based time transfer has become an important research direction in BDS's application fields. At present, the main method of BDS-based time transfer is BDS Common View (BDS CV)，which can reach nanoseconds magnitude,which, according to previous studies by other researchers. In this contribution, we further investigate the performance time transfer based on BDS precise point positioning (PPP) toward UTC/TAI compute. Our investigation based on BDS PPP by using developed quad-constellation GNSS software，which called National Time System Center's (NTSC) Bernese. Moreover,a long-term data analysis is presented. Our numerical tests, carried out using more than 73O day's data of above 14 stations form January 1, 2O15 to January 1, 2O17, suggest three major findings. First, Compared with BIPM TAI PPP solutions, the uncertainty of NTSC's Bernese GPS PPP can reach about O.1 ns by using IGR products and about O.2 ns by using multi-GNSS precise products, such as GBM, COM. For BDS PPP solutions. Second, the solutions of GPS PPP are regarded as reference values. It is demonstrated that the uncertainty of time transfer based on BDS PPP can reach better 1 ns toward UTC/TAI comparison for the statistics of 3O days-arc solutions, while O.1 ns magnitude can be achieved for the statistics of daily solutions due to the influence of the day boundary discontinuity. Third, four different processing strategies of BDS PPP which include tropospheric delay fixed, tropospheric delay and coordinates fixed, coordinates fixed, and BDS-only are tested. Results show that the comparable uncertainty can be achieved for four processing strategies. Hence, one can conclude that the time transfer based on BDS-only PPP show a good performance toward UTC/TAI computation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keyword: Precise point positioning; BDS; UTC/TAI comparison; Bernese ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It has long been know that the method of GPS Common-View (CV） time and frequency was proposed since 198Os,Allan used the pseudorange observations and explicit differencing of the GPS data collected at the two international timing laboratories (Allan and Weiss 198O). The uncertainty of CV time transfer can reach few nanoseconds. Nowadays, GPS CV has been widely used for time and frequency by international time laboratories， due to its low cost and attractive accuracy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, the Common View method is known to be affected by the distance between station pair or time-link (Lee et al. 2OO8). Thanks to International GNSS Service (IGS),which has provided precise orbits and clock products (Griffiths and Ray 2009), another technique called Allin View (AV） were proposed by Petit and Jiang (2008a). The method is not like CV,it is not subject to the distance between different international time laboratories. The comparable accuracy as GPS CV can achieve. Unfortunately, the uncertainty of GPS CV and GPS AV are limited by pseudorange observations.Hence， GPS precise point positioning (PPP) (Kouba and Heroux 2001), which uses combination of pseudorange and phase observations are applied (Dach et al. 2003; Zhang et al. 2O1O). The uncertainty of GPS PPP can reach sub-nanosecond magnitude as well as greater frequency stability in the short term. At the BIPM, the technique has been operationally used to compute time links for International Atomic Time TAI since September 2OO9 and now concerns over $50 \\%$ of the more than 70 laboratories contributing to TAI and UTC (Petit 2OO9; Petit and Jiang 2008b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "China is in the process of developing the BeiDou navigation satellite system (BDS)，which adopts its own time (BeiDou Time,BDT） and coordinate system (China Geodetic Coordinate System 2000, CGCS2000) (CSNO 2013). When fully deployed, the BDS constellation will consist of a worldwide coverage based on 35 satellites which include 5 Geostationary Earth Orbit（GEO） satellites,27 Medium Earth Orbit (MEO) satellites and 3 Inclined Geosynchronous Satellite Orbit (IGSO) satellites. Currently, the constellation comprises a total of 15 satellites, with 5 of each group. The GEO and IGSO satellites can be observed from the Asia-Pacific region, and from part of Europe.With development of BDS,BDS-based time transfer has become an important research direction in BDS's application fields. At present, the main method of BDS-based time transfer is BDS Common View (BDS CV),which can reach nanoseconds magnitude (Guo et al. 2O15b; Huang and Defraigne 2016; Kong et al. 2O14; Yuan and Guang 2O12). In addition,many scholars have done research on time transfer based on BDS PPP (Guang et al. 2O14; Zhang et al. 2015). However, the above research only focused on the method of time transfer, and did not apply BDS PPP to Universal Time Coordinated (UTC） and International Atomic Time (TAI) comparison, moreover, there is no long-term data analysis for BDS PPP time transfer. In this contribution,based on Bernese 5.2 (Dach et al.2O15), which had been developed for quad-constellation GNSS data processing and called National Time System Center's (NTSC) Bernese. We then investigate the UTC/TAI comparison based on BDS PPP, moreover, a long-term data analysis is indicated.We expect a good performance for BDS PPP time transfer toward UTC/TAI comparison. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work, observation data from 14 stations which come from international time laboratories or globally-distributed stations from IGS Multi-GNSS Experiment (MGEX) (Montenbruck et al. 2O17) network is selected. The datasets are processed by using BDS PPP technique, from DOY 1, 2015 to DOY 1, 2017, to investigate the reliability of BDS PPP on International UTC/TAI comparison. The remaining paper is organized as below. In Section 2 describes the ionosphere-free (IF) observation model of PPP. After a brief statement about the data and processing strategy in Section 3. In Section 4,at first, we verify the feasibility of NTSC's Bernese 5.2 software toward UTC/TAI comparison by comparing the results of GPS PPP provided by Bureau International des Poids et Mesures (BIPM). Second, the reliability of the precise products, such as GBM, COM (ftp://cddis.gsfc.nasa.gov/pub/gps/pro ducts/mgex/ ), which provided by MGEX are verified. Finally, comparing with GPS PPP, the results of BDS PPP are analyzed. In Section 5, the conclusions are drawn. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Ionosphere-Free PPP observation Model ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The undifferenced ionosphere-free observations for pseudorange $\\mathrm { \\bf P }$ and carrier phase $\\Phi$ can be written as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { P _ { r , I F } ^ { s } = \\rho _ { r } ^ { s } + d T _ { r } - d t ^ { s } + T r p _ { r } ^ { s } + \\varepsilon _ { P , I F } ^ { s } } \\\\ { \\Phi _ { r , I F } ^ { s } = \\rho _ { r } ^ { s } + d T _ { r } - d t ^ { s } + T r p _ { r } ^ { s } + \\lambda _ { I F } N _ { r , I F } ^ { s } + \\varepsilon _ { \\Phi , I F } ^ { s } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where indices $s$ and $r$ refer to the satellites and receiver, respectively. $\\rho$ denotes the geometric distance between the satellite and receiver. $d T _ { r }$ and $d t ^ { s }$ refer to the clock error of the receiver and satellites,respectively. Trp is the slant tropospheric delay. $N _ { r , I F } ^ { s }$ is the float ambiguity. $\\lambda _ { { \\scriptscriptstyle I F } }$ is the wavelength. $\\boldsymbol { \\mathcal { E } } _ { P , I F } ^ { s }$ and $\\mathcal { E } _ { \\Phi , I F } ^ { s }$ include the measurement noise and multipath error for the ionosphere-free pseudorange and carrier phase observations. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Traditional PPP is usually used in geodetic survey (Cai et al. 2O15; Ge et al.   \n2007; Li et al. 2O15b). For time and frequency transfer, receivers in different station   \nare connected to their time and frequency references generating, such as the 1 PPS   \nsignal and $5 / 1 0 ~ \\mathrm { M H z }$ frequency signal (Guang et al. 2O14). Figure 1 shows the PPP   \ntime transfer principle. Based on the atomic clock, receivers acquire phase and code   \nobservations from all satellites in view. Each station calculates its clock difference   \nbetween UTC(i) and the IGST. As show in Figure 1, station A and station B time   \ndifferent UTC(i)- UTC(j) can be calculated. And the equal can be expressed as follow: UTC (i)- UTC $( \\mathrm { j } ) \\mathop { = }$ (UTC (i)-IGST) -(UTC(j)-IGST) (3) ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/358092963135e3fbb188cce2d488cbf1aaf5232f82b712facd940cbbccb94cae.jpg",
+        "img_caption": [
+            "Figure 1PPP time transfer principle diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It should be noticed that the clock errors calculated by PPP including the hardware delay etc.should be corrected.Because the correction method is more complex, the correction process will not be presented herein. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 Experimental Data and Processing Strategy 3.1 Dataset ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BIPM provides the 3O days arc solutions of GPS PPP using IGR products provided by IGSaboutthestationinInternational timing laboratorieseverymonth (ftp://ftp2.bipm.org/pub/tai/ ). Hence, in order to investigate the feasibility of NTSC's Bernese 5.2 software toward International UTC/TAI comparison, the results provided by BIPM are used as an external reference values. Figure 2 displays the geographical distribution of 14 stations which includes 7 stations in International time laboratories and 7 MGEX stations used in this work. It should note that 7 stations in International time laboratories are used to verify the feasibility of NTSC's Bernese 5.2 software and the reliability of GBM or COM products. Currently, there are few stations that can observe BDS satellites in International timing laboratories, such as BRUX, ROAP. Hence，the feasibility of BDS PPP toward International UTC/TAI comparison are experimented by using other 7 MGEX stations and part of station in International timing laboratories. The selected MGEX stations all connected to the highperformance atomic clock. The summary of above stations information is listed in Table 1. More than 73O day's data of above the station form January 1,2015 to January 1, 2O17 are then analyzed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbf8e620d3275fc5b6dd6ccc5ed70b37b084e94be22108d1b48686caea48815e.jpg",
+        "img_caption": [
+            "Figure 2. The distribution of multi-GNSS stations from IGS and MGEX networks. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/76bdd3bc644b491b65f77432e8753f79721c5c4c8db794172b9b30820340aad3.jpg",
+        "table_caption": [
+            "Table 1. The summaries of stations information "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Station</td><td>Receiver</td><td>Antenna</td><td>Clock</td></tr><tr><td>REDU</td><td>SEPTPOLARX4</td><td>SEPCHOKE_MC</td><td>External Cesium</td></tr><tr><td>DLF1</td><td>TRIMBLENETR9</td><td>LEIAR25.R3</td><td>External Cesium</td></tr><tr><td>GMSD</td><td>TRIMBLENETR9</td><td>TRM59800.00</td><td>EXTERNAL Cesium</td></tr><tr><td>VILL</td><td>SEPTPOLARX4</td><td>SEPCHOKE_MC</td><td>EXTERNAL Cesium</td></tr><tr><td>BRUX</td><td>SEPTPOLARX4TR</td><td>JAVRINGANT_DM</td><td>EXTERNAL Cesium</td></tr><tr><td>WTZR</td><td>LEICA GR25</td><td>LEIAR25.R3</td><td>EXTERNAL H- MASER</td></tr><tr><td>ROAP</td><td>SEPTPOLARX4TR</td><td>LEIAR25.R4</td><td>EXTERNAL H- MASER</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed5abcf9147e715312034ea8498e91df03e3dd77d81e5eb9d27e41575c840c1e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>WARK</td><td>TRIMBLENETR9</td><td>TRM55971.00</td><td>EXTERNAL H- MASER</td></tr><tr><td>NIST</td><td>NOV OEM4-G2</td><td>NOV702</td><td>EXTERNAL H- MASER</td></tr><tr><td>PTBB</td><td>ASHTECHZ-XII3T</td><td>ASH700936E</td><td>EXTERNALACTIVE H-MASER</td></tr><tr><td>IENG</td><td>ASHTECHZ-XI3T</td><td>ASH701945C_M</td><td>EXTERNALH- MASER</td></tr><tr><td>TLSG NNOR</td><td>SEPTPOLARX4TR</td><td>TRM59800.00</td><td>EXTERNALDORIS EXTERNALSLAVED</td></tr><tr><td></td><td>SEPTPOLARX4</td><td>SEPCHOKE_MC</td><td>CRYSTAL</td></tr><tr><td>OPMT</td><td>3S-02-TSADM</td><td>3S-02-TSADM</td><td>EXTERNALUTC(OP)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2. Processing Strategy ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 2 summarizes the detailed processing strategy for GPS PPP or BDS PPP. IGR and COM precise orbit and clock products at intervals of $1 5 \\mathrm { m i n }$ and 5min, respectively，are employed. The interval of GBM products are 5min and 30s respectively.Note that the differential code bias (DCB） are corrected by the DCB products (P1C1） provide The Center for Orbit Determination in Europe(COD） for GPS PPP,while the DCB does not need to be corrected for BDS PPP based on ionosphere-free linear combination (LC） observation because ionosphere-free LC pseudorange is used for satellite clock estimation (Ge et al. 2O17; Guo et al. 2015a). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/acfa911ad125bf310e553bf99c61aad15082f261b26a76e472ca3b22c1268274.jpg",
+        "table_caption": [
+            "Table 2. Summary of PPP processing strategies "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Items</td><td>Descriptions</td></tr><tr><td>Number of stations</td><td>14</td></tr><tr><td>Number of satellites</td><td>GPS:32: BDS :14</td></tr><tr><td>Estimator Observables</td><td>Least squares (LSQ) estimator</td></tr><tr><td></td><td>Undifferenced ionosphere-free combined observables forcode and phase observations</td></tr><tr><td>Signal selection</td><td>GPS:L1/L2; BDS: B1/B2;</td></tr><tr><td>Sampling rate</td><td>300s</td></tr><tr><td>Elevation cutoff</td><td>3°</td></tr><tr><td>Observation weighting</td><td>A priori precision O.6m and O.O01m for rawcodeandphase observations, respectively Elevation-dependent, 1 e>30°, otherwise cos(e)² for</td></tr><tr><td>Phase wind-up Tropospheric delay</td><td>Corrected (Wu et al. 1992) ZHD:corrected with GMF model</td></tr><tr><td></td><td>(Boehm et al. 2007) ZWD: estimated as a continuous piece- wise linear function (2 h parameter spacing)，GMF (Boehm et al. 2007) mapping function</td></tr><tr><td>Tidal displacements</td><td>Solid Earth tide,pole tide，ocean tide loading corrections refer to IERS</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/90d2c5847ecb6e1ab42d1d41ce683f3587ef986b62937652e8b0679d6506b494.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Conventions 2010 (Petit and Luzum 2010)</td></tr><tr><td>Relative effect</td><td>Corrected</td></tr><tr><td>Sagnac effect</td><td>Corrected</td></tr><tr><td>Satellites antenna PCOs and PCVs</td><td>PCO and PCV correction for GPS are from igs08.atx</td></tr><tr><td>Receiverclock</td><td>Estimated as white noise</td></tr><tr><td>Station coordinates</td><td>Estimated as static</td></tr><tr><td>Phase ambiguities</td><td>Estimated; float value</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this contribution, the main experiments are displayed in Table 3 . ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For solutions1,solutions2 and solutions3,GPS PPP are experimented by using different precise products. The BIPM TAI PPP solutions are regarded as external values. The purpose is to verify the reliability of time transfer by using the software and Multi-GNSS precise products on the International UTC/TAI comparison. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the performance of BDS PPP time transfer toward UTC/TAI comparison. The solutions4 and solutions8 are to prove the performance of BDS PPP on the International UTC/TAI comparison and to investigate the effect of BDS PPP by using different products. In general, the parameter of PPP include coordinate, receiver clock error, tropospheric delay and float ambiguity. In order to investigate the impact of other parameters on the solution of clock error， the experiment of solutions4, solutions5, solutions6 and solutions7 are done. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The daily coordinates of these station are estimated using IGS final orbit and clock products in static mode or IGS weekly SINEX (Solution Independent Exchange format） solutions.The daily solution is then applied to all test in this contribution. Note that the solution of GPS PPP will be regard as external reference values for proving the feasibility of BDS PPP on International UTC/TAI comparison in solutions4-8 due to no other more reliable results as external reference at present. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/45ef313a16cd5115d6a835f4314560bce54f6bb268a5e463be807953f8c2716a.jpg",
+        "table_caption": [
+            "Table 3. The summaries of experiments. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>IGR products</td><td>GBM products</td><td>COM products</td><td>Coordinates fixed</td><td>ZTD fixed</td></tr><tr><td>Solutions1- GPS PPP</td><td>√</td><td></td><td></td><td></td><td></td></tr><tr><td>Solutions2- GPSPPP</td><td></td><td>√</td><td></td><td></td><td></td></tr><tr><td>Solutions3- GPS PPP</td><td></td><td></td><td>√</td><td></td><td></td></tr><tr><td>Solutions4- BDS PPP</td><td></td><td>√</td><td></td><td></td><td></td></tr><tr><td>Solutions5- BDS PPP</td><td></td><td>√</td><td></td><td>√</td><td></td></tr><tr><td>Solutions6- BDS PPP</td><td></td><td>√</td><td></td><td></td><td>√</td></tr><tr><td>Solutions7- BDS PPP</td><td></td><td>√</td><td></td><td>√</td><td>√</td></tr><tr><td>Solutions8- BDS PPP</td><td></td><td></td><td>√</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Results and Analysis ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1 The reliability of the software and multi-GNSS products ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a345efd19c4cde95d31df94a58a2e2f93fe39a95add941bc4a8323ca8c508ff2.jpg",
+        "img_caption": [
+            "Figure 3 Differences between BIPM PPP and NTSC's Bernese GPS PPP solutions on 6 stations using IGR products. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The clock differences between BIPM TAIPPP and more than 2 years Bernese GPS PPP solutions for single station using IGR products are illustrated in Figure 3. Note that the daily arc solutions are obtained from Bernese software in this contribution. The solutions of other sites show the similar feature at different times and thus not be present herein. The figure confirms that the differences are basically stable between - O.2 and O.2 ns. But the solutions are poor at NIST station Figure 3 (e),the main reason may be that the quality of the observations is poor. On the other handle, we can see that there is obvious day boundary discontinuity at Figure 3 (f). That may be caused by pseudorange noise (Defraigne and Bruyninx 2OO7). The day boundary discontinuity will not be mitigated by using 3Os clock products. At present, there are many scholars who have done research on how to mitigate it (Dach et al. 2O06).We will not elaborate on it herein. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7046b5930e04aab392437e6efe6e0d17a88163c1b2768f48f037a1d786d0c5d5.jpg",
+        "img_caption": [
+            "Figure 3 The statistics analysis of 3O-days arc solutions on six sites,computed with the BIPM PPP, and Bernese GPS PPP solutions with IGR products. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to evaluate uncertainty of PPP solution, the authors introduce standard deviations (STD) as its evaluation criteria. The BIPM PPP solutions are regarded as the external reference values in this section. We use month solutions as a data arc for data statistics. Hence, Figure 3 illustrates the statistics of solutions for 6 sites on International time laboratories,which computed with the BIPM PPP solutions and NTSC's Bernese GPS PPP solutions, over the 28 months period from January 1, 2015 to May 1, 2O17. The figure confirms the announced uncertainty of NTSC's Bernese GPS PPP-based UTC/TAI comparison: STD of the clock differences reach about 0.1 ns. As show in Figure 3, the part of the statistics is poor, that's mainly the problem of the NIST and ROAP sites. Compared with the solutions of BIPM TAIPPP， the solutions of NTSC's Bernese show a good performance form the overall solutions. It also illustrates the reliability of the software form another perspective. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/288789022a2b9d4cac6e5553d988d059e19a20bedead3726905e2559f45c2eff.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2b8a352956a0cea0f78843f66048833e674dbcde6c394aa7ad7b146fe0a263c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a3c29166e79596358a703fefc1a3ca3d1fcfdbec39aef42c0a3235113f0e16b.jpg",
+        "img_caption": [
+            "Figure 4.. Differences between BIPM PPP and NTSC's Bernese GPS PPP solutions on four time-links using GBM products "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4bac1b7f32479e2ff4aa79f7598df312210d8dc31278f6eec6c413ad8a4a8b8.jpg",
+        "img_caption": [
+            "Figure 5.. Differences between BIPM PPP and NTSC's Bernese GPS PPP solutions on four time-links using COM products "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 4 and Figure 5, the clock differences between BIPM TAI PPP and NTSC's Bernese GPS PPP solutions on four time-links by using GBM or COM products are presented. Figure 4 and Figure 5 indicated that the solutions are relatively stable and can achieve better uncertainty. Figure 5 depicts the solutions using COM products, and the stable results are presented in (a), (b) and (d).Note that the poor performances are shown in Figure 4 (c) and Figure 5 (c). The reason is the same as stated before. It should be mentioning that there are several gaps in Figure 4 and Figure 5. The main reason is that the receiver about TAI PPP provided by BIPM at PTBB station and the receiver about PTBB provided by IGS are inconsistent in that two months. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbc0d60507dd560740fe588e7f6360691740b247ab888791f838b59220a2b13b.jpg",
+        "img_caption": [
+            "Figure 6.The statistics analysis of 3O-days arc solutions on five time-links, computed with the BIPM PPP, and Bernese GPS PPP solutions with GBM or COM products. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The statistics of 3O-days arc solutions are displayed in Figure 6 by using GBM or COM products on five time-links. As shown in Figure 6, the uncertainty of the solutions can achieve better than O.2 ns for different multi-GNSS products expect for PTBB-NIST and PTBB-ROAP. The different uncertainty can be obtained from different time-links.The mainly reason may be different observations conditions, receiver, antenna, and external clock et al. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2 The performance of the BDS PPP ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd9addf8824a47eba19cbcf61c0a200d41c1961d3bfb361127d5b57d9008709a.jpg",
+        "img_caption": [
+            "Figure 7.BDS PPP(GBM)-GPS PPP on four time-links by using GBM 30s products. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The clock differences of BDS PPP and GPS PPP by using GBM products are displayed on Figure 7. It should be mentioned that the BDS PPP solutions in Figure 7 with troposphere delay and coordinates fixed. There is an offset at Figure 7 (a), that's caused by the adjustment of the local clock. In addition to the above two points, compared with GPS PPP solutions,the solutions of BDS PPP can achieve a good performance. However, there is a system bias between the solutions of BDS PPP and GPS PPP solutions, that's because that the difference frequencies and signal structure of the individual GNSS, the code bias values are different in single multi-GNSS receiver. The differences between them are usually called inter-system biases (ISB) for code observations (Li et al. 2O15a). On the other hand, the main factors of the uncertainty of BDS PPP solutions includes the receiver, antenna, the observations environment, external clock, the structure of the satellite geometry，and processing strategies. Compare Figure 7 (a) and Figure 7 (b), the uncertainty on DLF1-BRUX show a better performance. The root mean squares (RMS) of multipath are $0 . 4 3 \\mathrm { ~ m ~ }$ and $0 . 3 4 \\mathrm { ~ m ~ }$ at DLF1 and GMSD station on DOY 3,2016,respectively. The type of receiver and external clock are the same at DLF1 and GMSD from Table 2. The sky plot of BDS constellations on DLF1 and GMSD stations are presented in Figure 8. In addition, the average of Geometric Dilution of Precise (GDOP) are 10.9 and 2.9 on DLF1 and GMSD, respectively. Hence, the reason of poor performance of GMSDBRUX may be due to the poor performance of the external clock on GMSD. Compared with Figure 7(a), the uncertainty of solutions of Figure 7 (d) is poor. That's mainly due to its poor observations conditions. Although, the uncertainty of different time-links is difference, but BDS PPP solutions are still relatively stable on UTC/TAI comparison in current state of the BeiDou system. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/00af24d59c005f3949282612b2bc5da09b8f94ae335cf57abe2ee3ad88108887.jpg",
+        "img_caption": [
+            "Figure 8. Sky plot of BDS constellations on DLF1 and GMSD. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c37415a264901dcad512d8c6beeddcb7c1e277249bfd25effd852af423838a36.jpg",
+        "img_caption": [
+            "Figure 9. The statistics analysis of 3O-days arc solutions on nine time-links, computed with the BDS PPP, and GPS PPP solutions with GBM 3Os products. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate the uncertainty of BDS PPP time transfer, the GPS PPP solutions are regarded as external reference values. The 3O-days arc solutions are analyzed on all time-links according to the strategies of BIPM. The all statistics are illustrated in Figure 9.As shown in Figure 9, the uncertainty of BDS PPP solutions can be better than 1 ns for all time-links. Among them, some of the results are poor, for example, the poor performance of WTZR-BRUX are caused by observations conditions and the characteristic of the atomic clock. Overall, the BDS PPP time transfer show a good performance toward UTC/TAI comparison. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef7a2cd499faf1ef10494299557f2c8ddf7c07450cde54547599c47bf56d3c9e.jpg",
+        "img_caption": [
+            "Figure 10. The STD of four processing strategies on time-links. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/b67cff8b6aebc05b42311e6936d9c7a5b2b8e5b2cc332ea348ff3cf2baf6f66c.jpg",
+        "img_caption": [
+            "Figure 11. The comparison of COM and GBM products. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The uncertainty of time transfer based on BDS PPP not only affected by observations conditions，receiver，antenna, and external clock et al. but also by processing strategies and precise products. Therefore, the four processing strategies are investigated and listed in Table 3. The STD are illustrated in Figure 10. Compared with BDS PPP-only, the other three processing strategies show a good performance. The best uncertainty of BDS PPP can be achieved with tropospheric delay fixed or tropospheric delay and coordinates fixed. However, the differences of four processing strategies are very small. Their differences are only about O.1 ns. One can conclude that the uncertainty can achieve better 1 ns based on BDS PPP without external auxiliary conditions. On the other hand, the uncertainty of precise products is also one of the main factors in BDS PPP time transfer. Hence,the comparison of COM and GBM products are illustrated in Figure 11. The interval sample of COM and GBM clock products are used in this section. Compared with GBM products, the uncertainty of BDS PPP show a relatively poor performance. That's because that the COM products have no GEO satellites information as well as the characteristics of the products itself. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Currently，the day boundary discontinuity is still an unsolved problem. The statistics of 3O-days arc solutions include the error of the day boundary discontinuity. Hence, the statistics of daily solutions are investigated. As shown in Figure 12, the statistics of daily solutions on time-links are presented,and the solutions of other time-links show the same feature, hence,we do not describe it in detail. Overall, the uncertainty can reach better O.1 ns,although some of the results are poor. The main reasons are the observations and the accuracy of products. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/9184467905f56d25184300df12e43402c0fdaa9d8e80f021c6232d10d23de7a1.jpg",
+        "img_caption": [
+            "Figure 12. The statistics of daily solutions on two time-links. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this contribution, we focus on the performance of time transfer based on BDS PPP toward TAI/UTC computation. 14 stations which includes 7 stations in International time laboratories and 7 MGEX stations are used in this study. And we analyzed more than 880 day's data of above the station form January 1,2015 to May 1, 2017. Firstly, the reliability of the software and multi-GNSS products are analyzed. In this section, the solutions of BIPM TAIPPP are regarded as external reference values.Then, the performance of BDS PPP and four processing strategies comparison are presented. And the GPS PPP solutions are regarded as external reference values in this section. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Compared with BIPM TAIPPP solutions,the uncertainty of NTSC's Bernese software solutions can achieve better O.1 ns by using the same products and observations data. The reliability of the software is obtained. On the other hand, the solutions of BIPM TAIPPP which use IGR products are regarded as external reference values for verifying the reliability of multi-GNSS precise products， the different precise clock products have a different reference clock.Hence, the time-link solutions are presented. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Comparative analysis that the uncertainty can reach about O.2 ns by using multiGNSS products. One can conclude that the multi-GNSS products can be used for PPP time transfer and can reach a good performance. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate the performance of BDS PPP on UTC/TAI comparison, the GPS PPP solutions are regard as reference values. Comparative analysis that the uncertainty of BDS PPP can reach better 1 ns by using GBM products. The uncertainty will be affected by many factors, such as the receiver, Antenna, the observations environment, external clock, the structure of the satellite geometry,and processing strategies et al. Hence， four processing strategies which include coordinates fixed, troposphere delay fixed, coordinate and troposphere delay fixed and BDS only. Results show that the comparable uncertainty can be achieved for four processing strategies.Hence,one can conclude that the comparable uncertainty of time transfer can be obtained based on BDS-only PPP toward UTC/TAI computation. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Form the above discussion, for 3O days-arc solutions,the conclusion can be reached that the uncertainty of time transfer based on BDS-only PPP can reach better 1 ns toward UTC/TAI computation, while O.1 ns magnitude can be achieved for the statistics of daily solutions. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments This work is supported by National Natural Science Foundation of China (No.411O4O21） and National Natural Science Foundation of China (No.11173026). The authorsgratefully acknowledge the international GNSS Monitoring and Assessment System (iGMAS) for providing funding. Many thanks go to the IGS MGEX and BIPM for providing products and data. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Allan DW, Weiss MA (198O) Accurate time and frequency transfer during commonview of a GPS satellite. Electronic Industries Association   \nBoehm J, Heinkelmann R, Schuh H (2OO7) Short Note: A global model of pressure and temperature for geodetic applications. Journal of Geodesy 81 (1O):679- 683   \nCai C, Gao Y, Pan L, Zhu J (2O15) Precise point positioning with quadconstellations: GPS,BeiDou, GLONASS and Galileo. Advances in Space Research 56 (1):133-143   \nCSNO (2013) BeiDou navigation satellite system signal in space interface control document-open service signal, version 2.0. China Satellite Navigation Office, Dec 2013   \nDach R, Beutler G, Hugentobler U, Schaer S, Schildknecht T, Springer T, Dudle G, Prost L (2O03) Time transfer using GPS carrier phase: error propagation and results. Journal of Geodesy 77 (1-2):1-14   \nDach R, Lutz S, Walser P, Fridez P (2015) Bernese GNSS Software Version 5.2.   \nDach R, Schildknecht T, Hugentobler U, Bernier L-G, Dudle G (2O06) Continuous Geodetic Time-Transfer Analysis Methods. IEEE transactions on ultrasonics, ferroelectrics, and frequency control 53 (7):1250-1259   \nDefraigne P, Bruyninx C (2OO7) On the link between GPS pseudorange noise and day-boundary discontinuities in geodetic time transfer solutions. GPS Solutions 11 (4):239-249   \nGe M, Gendt G, Rothacher M, Shi C, Liu J(2007) Resolution of GPS carrier-phase ambiguities in Precise Point Positioning (PPP) with daily observations. Journal of Geodesy 82 (7):389-399   \nGe Y, Zhou F, Sun B, Wang S, Shi B (2017) The Impact of Satellite Time Group Delay and Inter-Frequency Differential Code Bias Corrections on Multi-GNSS Combined Positioning. Sensors (Basel) 17 (3)   \nGriffiths J, Ray JR (2OO9) On the precision and accuracy of IGS orbits. Journal of Geodesy 83 (3-4):277-287   \nGuang W, Zhang P, Yuan H, Li W, Zhang Q, Huang G, Zhang R (2O14) The Research on carrier Phase time tranfer of BeiDou navigation statellite system. European Frequency and Time Forum (EFTF),2014. IEEE,2014.   \nGuo F, Zhang X, Wang J(2O15a) Timing group delay and differential code bias corrections for BeiDou positioning. Journal of Geodesy 89 (5):427-445   \nGuo MJ, Lu H, Xiao Y, Mo YJ,Liu XG (2015b) Analysis of BeiDou Signals on the Accuracy of Common-View Time Transfer. China Satellite Navigation Conference (Csnc) 2015 Proceedings, Vol I 340:425-436   \nHuang W, Defraigne P (2O16) BeiDou Time Transfer With the Standard CGGTTS. IEEE Trans Ultrason Ferroelectr Freq Control 63 (7):1005-1012   \nKong Y, Yang XH, Chang H, Qin WJ, Cao F, Li ZG, Sun BQ (2014) Method of Precise Common-View Frequency Transfer Based on BeiDou GEO Satellite. 2014 Ieee International Frequency Control Symposium (Fcs):62-65   \nKouba J, Heroux P (2OO1) Precise point positioning using IGS orbit and clock products. GPS solutions 5 (2):12-28   \nLee SW, Schutz BE,Lee C-B, Yang SH (2O08) A study on the Common-View and All-in-View GPS time transfer using carrier-phase measurements. Metrologia 45 (2):156-167   \nLi X, Ge M, Dai X, Ren X, Fritsche M, Wickert J, Schuh H (2015a) Accuracy and reliability of multi-GNSS real-time precise positioning: GPS,GLONASS, BeiDou, and Galileo. Journal of Geodesy 89 (6):607-635   \nLi X, Zhang X, Ren X, Fritsche M, Wickert J, Schuh H(2015b) Precise positioning with current multi-constellation Global Navigation Satellite Systems: GPS, GLONASS, Galileo and BeiDou. Sci Rep 5:8328   \nMontenbruck O, Steigenberger P, Prange L, Deng Z, Zhao Q, Perosanz F, Romero I, Noll C, Stirze A, Weber G, Schmid R,MacLeod K, Schaer S (2017) The Multi-GNSS Experiment (MGEX) of the International GNSS Service (IGS) - Achievements, prospects and challenges. Advances in Space Research 59 (7):1671-1697   \nPetit G (2O09) The TAIPPP pilot experiment. In Frequency Control Symposium, 2009 Joint with the 22nd European Frequency and Time forum. IEEE International 1-2:116-119   \nPetit G, Jiang Z (2OO8a) GPS All in View time transfer for TAI computation. Metrologia 45 (1):35-45   \nPetit G, Jiang Z (2O08b) Precise Point Positioning for TAI Computation. International Journal of Navigation and Observation 2Oo8:1-8   \nPetit G, Luzum B (201O) IERS conventions (2O10) BUREAU INTERNATIONAL DES POIDS ET MESURES SEVRES (FRANCE).(No. IERS-TN-36)   \nWu JT,Wu SC,Hajj GA,Bertiger WI, Lichten SM (1992) Effects of antenna orienation on GPS carrier phase.In Astrodynamics   \nYuan H, Guang W (2O12) Common view time transfer by a GEO navigation satellite. 2012 IEEE International Frequency Control Symposium Proceedings.   \nZhang RF,Liu H, Shu B, Qian C, Zhang M (2O15) Study on Time Transfer using BDS Carrier Phase Observations.Proceedings of the 28th International Technical Meeting of the Satellite Division of the Institute of Navigation (Ion Gnss $^ +$ 2015):3485-3490   \nZhang X, Cai S, Li Xx, Guo F (2O1O) Accuracy Analysis of Time and Frequency Transfer Based on Precise Point Positioning. Geomatics and Information Science of Wuhan University 135 (3):274-278 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

@@ -1,0 +1,202 @@
+Nesfatin-1的分子生物学特征、功能及其基因表达的营养调控喻哲昊朱宇旌 张勇李方方\*（沈阳农业大学畜牧兽医学院，沈阳110866）
+
+摘要：Nesfatin-1是由核组蛋白2（NUCB2）衍生而来的肽段，是一种由下丘脑和外周组织表达的厌食信号肽，通过使动物产生饱腹感而抑制动物摄食。研究者发现，Nesfatin-1 除了通过抑制动物摄食调节机体内稳态与能量储备，还参与初情启动和胰岛素抵抗等多种生理过程，具有多种生物学功能，本文综述了Nesfatin-1/NUCB2的分子生物学特征、功能及其基因表达的营养调控。
+
+关键词：Nesfatin-1；分子生物学特征；抑制摄食；初情启动；基因表达；营养调控中图分类号：S852.2
+
+Nesfatin-1最初是由Oh-I等[发现的一种厌食信号肽，是由核组蛋白2（NUCB2）衍生而来的肽段，在脑室内注射Nesfatin-1后显著降低了动物的夜间采食量和日增重。在后续的研究中，研究者发现Nesfatin-1在多种动物的中枢神经系统和外周组织中都有广泛表达，具有多种生物学功能。本文就Nesfatin-1的分子生物学特征、功能及其基因表达的营养调控进行简要综述。
+
+# 1Nesfatin-1/NUCB2的分子生物学特征
+
+1.1结构
+
+Nesfatin-1是由NUCB2 衍生而来的肽段。NUCB2上存在DNA 和钙离子（ $\mathrm { \cdot } \mathrm { C a } ^ { 2 + }$ ）的结合位点，经激素前体转化酶对 N'末端进行翻译后切割，第1\~82 位氨基酸组成的肽段称为Nesfatin-1，第 85\~163位氨基酸组成的肽段称为 Nesfatin-2，第166\~396 位氨基酸组成的肽段称为Nesfatin-3[1]。大鼠侧脑室中注射这3种肽段后只有 Nesfatin-1使大鼠采食量持续6 h呈计量依赖性减少，Nesfatin-2和Nesfatin-3均无明显效应[2]。
+
+Lents 等l3用猪体内Nesfatin-1序列制作特异性位点探针，分别测定Nesfatin-1在人、猪和大鼠中的蛋白质氨基酸序列（图1），发现Nesfatin-1在人、猪和大鼠中具有多段保守序
+
+Human 1 VPIDIDKTKVQNIHPVESAKIEPPDTGLYYDEYLKQVIDVLETDKHFREKLQKADIEEIKSGRLSKELDLVSHHVRTKLDEL 82   
+Porcine 1 VPIDIDKTKVKNTQPVDSAKIEPPDTGLYYDEYLKQVIDVLETDNHFREKLQKADIEEIKSGRLSRELDLVSHHVRTKLDEL 82   
+rat 1 VPIDVDKTKVHNVEPVESARIEPPDTGLYYDEYLKQVIEVLETDPHFREKLQKADIEEIRSGRLSQELDLVSHKVRTRLDEL 82
+
+1列，且呈高度同源性，图1中阴影标注为3种动物中Nesfatin-1的保守序列。
+
+Fig.1Alignment of human and rat Nesfatin-1 with the predicted porcine Nesfatin-1 protein sequence[3]
+
+1.2分布
+
+现已知 Nesfatin-1 在人、猪、鱼、鼠、犬齿类等生物中能够表达[4-6]。中枢系统的表达主要分布于下丘脑室旁核(paraventricular nucleus,PVN)、弓状核(arcuate nucleus,ARC)、视上核(supraoptic nucleus,SON)、下丘脑外侧区(lateral hypothalamic area,LHA)和孤束核(nucleustractus solitatius,NTS)等部位[1,7]。在PVN中 $24 \%$ 的 Nesfatin-1分泌神经元与催产素分泌神经元重叠， $1 3 \%$ 与促肾上腺皮质素释放激素分泌神经元重叠， $12 \%$ 与促甲状腺激素释放激素分泌神经元重叠；在 SON 中有 $3 5 \%$ 的 Nesfatin-1分泌神经元能与催产素分泌神经元重叠，所以催产素等激素往往与Nesfatin-1共同表达[7]。下丘脑是动物采食、体重和生殖功能的重要调节中枢，Nesfatin-1分泌神经元在下丘脑中多个部位的广泛分布，并常与其他功能神经元共同表达，说明其参与了除采食外的其他调控[8]。
+
+同时，Nesfatin-1/NUCB2广泛分布于胃黏膜细胞、心肌细胞、皮下脂肪组织、胰腺胰岛细胞、十二指肠黏膜层以及雄性动物睾丸等外周组织中[9-12]。Nesfatin-1蛋白能以不饱和双向性的原理自由通过血脑屏障，这一原理可影响 Nesfatin-1在中枢和外周组织的分布[13]。
+
+# 2Nesfatin-1的分子生物学功能
+
+2.1 抑制摄食
+
+研究者已经明确Nesfatin-1对动物摄食有抑制作用，但具体作用机制尚不明确。对大鼠大脑侧室注射Nesfatin-1/NUCB2mRNA后，6h内大鼠摄食量呈计量依赖性减少，再注射Nesfatin-1抗体 Ab24，大鼠摄食恢复正常[2]。脑室(Intracerebroventricular,i.c.v.)内注射 $\scriptstyle { \mathfrak { a } } .$ 促黑素(α-melanocyte-stimulating hormone,α-MSH)能提升 PVN 中 NUCB2 mRNA 表达量，从而抑制大鼠摄食，之后注射 $\mathfrak { a }$ -MSH的反义受体，Nesfatin-1的抑食作用被阻断，推测Nesfatin-1可能通过 $\mathfrak { a }$ -MSH 通路影响食欲[2l。还有研究显示 Nesfatin-1 能通过抑制弓状核神经肽Y(neuropeptide Y,NPY)活性影响摄食，这可能和胰岛素通路有关[14-15]。
+
+Varricchio 等[1推测，在猪的肠神经系统中，Nesfatin-1参与胃扩张的调控作用，但具体生理机制尚不清楚。利用体外单细胞培养技术，研究者发现 LHA中 Nesfatin-1对胃扩张有着调节作用，具体表现为抑制 PVN 中大多数胃扩张兴奋神经元(gastric distention-excitatoryneurons,GD-E)和激活PVN中近半的胃扩张抑制神经元(gastric distention-inhibitoryneurons,GD-I)[17]。催产素受体抑制剂 H4928 能抑制GD-I活性，同时也能抑制 Nesfatin-1 对胃扩张的阻碍作用。Nesfatin-1能反馈作用于胃扩张敏感神经元，并调节大鼠迷走神经运动背核（DMNX）中葡萄糖感受神经元，这可能是Nesfatin-1抑制采食的部分机制[18]。
+
+# 2.2 调节雌性动物初情启动
+
+机体的能量储备与食欲调节因子的作用关系密切，而初情启动和性腺轴的发育对能量储备十分敏感，作为一种厌食信号肽，Nesfatin-1能对初情启动有着一定影响[3]。Nesfatin-1可能从中枢神经和体内能量平衡层面上参与雌性初情启动的调节[3.19]，但是具体作用机制还不清楚。研究者发现Nesfatin-1能在下丘脑多个部位对促黄体生成素（LH）产生影响，调控雌性动物的初情启动。
+
+2.2.1仕初情前期基囚的分布与衣达
+
+Nesfatin-1/NUCB2mRNA雌性初情前期大鼠（35日龄）LHA、PVN、SON 和下丘脑腹侧未定带(zona incerta,ZI)中显著表达，同时在下丘脑背内侧核(dorsomedial nucleus,DMN)和ARC 中模糊表达[20]。测定在初情前期（20\~35日龄）NUCB2表达细胞、Nesfatin-1/NUCB2mRNA 在LHA、PVN 和 SON中表达量，发现35 日龄比 20日龄时都显著增加。其中NUCB2mRNA的总表达量在35 日龄时比在 20 日龄时大约提高了3倍[20]。这说明在初情前期的过渡阶段，机体对Nesfatin-1mRNA的表达进行着调控，并且呈增加趋势，所以Nesfatin-1的表达可能是雌性动物初情启动的必不可少的准备工作。对初情前期大鼠进行快速限饲处理后，负能量平衡反馈到中枢神经系统，同时下丘脑中NUCB2 mRNA 表达量明显降低，进而打乱了初情启动的进程[21]。在雌性初情期大鼠 i.c.V.注射 NUCB2 基因反义吗啉核苷酸(antisense-morpholino oligonucleotides,MON)后,LH表达量减少并延缓初情启动[20]。说明 Nesfatin-1不仅参与采食量和能量稳态的调控，并且在促性腺轴中的代谢调控中起重要作用，初情前期如果缺乏Nesfatin-1，将会扰乱初情启动。
+
+# 2.2.2 在初情前期对生殖激素的调控
+
+2 Lents 等[3]分别在试验组后备母猪与对照组后备母猪大脑侧室内注射 Nesfatin-1与生理  
+3 盐水，按时观察LH表达量，发现在后备母猪大脑侧室内注射Nesfatin-1后，LH的表达真  
+4 实值极显著提高，并在注射后约 $3 0 \mathrm { m i n }$ 达到峰值，约为同时期对照组LH的表达真实值的 2  
+5 倍，说明 Nesfatin-1可通过下丘脑促进垂体LH的表达。  
+6 王尧尧等[22]在初情前期大鼠大脑侧室内注射 Nesfatin-1 后，测得试验组阴门开启时间  
+7 [ $( 3 1 . 8 3 { \pm } 1 . 2 7 \$ ）d]比对照组阴门开启时间[（ $4 2 . 6 7 { \scriptstyle \pm 1 . 8 3 }$ ）d]提前10d左右，试验组卵巢重  
+8 量[ $3 6 . 8 3 { \scriptstyle \pm 7 . 2 3 }$ ）mg]比对照组卵巢重量[ $2 1 . 1 7 { \scriptstyle \pm 5 . 0 7 }$ ）mg]重 $1 5 \mathrm { m g }$ 左右，并且显著增强大鼠垂体 $L H$ 和促卵泡生成素（FSH）mRNA的表达，血清中LH和FSH含量（注射 $1 5 \mathrm { m i n }$ 后）也显著增加，最终导致初情期提前，这与Lents 等[3的试验结果一致。值得注意的是，尽管在初情启动前期的雌性大鼠大脑侧室中注射Nesfatin-1能显著提升血清LH 和FSH含量，在成年期雌性大鼠大脑侧室中注射 Nesfatin-1后，血清LH 和 FSH含量却无明显变化[22]。推测 Nesfatin-1对初情期前期的雌性动物的性腺发育有着一定影响，而在初情启动后这种影响将逐渐减弱。
+
+# 2.3通过胰岛素影响促性腺激素释放激素（GnRH）表达
+
+Nesfatin-1与胰岛素抵抗的关系可能是其参与初情启动调控的部分机制。下丘脑  
+Nesfatin-1能增强胰岛素受体/胰岛素受体底物-1/蛋白激酶B（InsR/IRS-1/AKT）信号通路级  
+联反应，抑制磷酸烯醇式丙酮酸羧激酶(phosphoenolpyruvate carboxykinase,PEPCK)的转录和  
+表达，增加肝脏与外周组织中胰岛素敏感性[23-24]。Nesfatin-1抑制肝糖原异生，促进肌糖原  
+合成，增强胰岛素敏感性的分子生物学机制与环磷腺苷效应元件结合蛋白调节转录辅激活因  
+子 2(transducer of regulated cAMP-response element binding protein protein 2,TORC2)有关[25]。  
+TORC2是调节糖异生相关基因转录的关键因子，Nesfatin-1能增强 TORC2的磷酸化程度，  
+使胰岛素敏感性增加[26]。同时Nesfatin-1 能增强L 型钙离子通路(L-type calciumchannel)活性，使 $\mathrm { C a } ^ { 2 + }$ 更容易进入  
+小鼠的胰岛B细胞[27]。所以Nesfatin-1能通过增强体内糖诱导作用增加胰岛素表达量。胰岛素在动物繁殖过程中直接促进GnRH 表达释放，或者作用于其他途径间接调节  
+GnRH表达释放。研究表明胰岛素可能：1）通过早期生长应答蛋白-l(early growth response
+
+1 protein 1,Egr-1)在胰岛素存在下，促进 GnRH 表达；2）通过影响胞外信号调节激酶  
+2 (extracelular regulated protein kinases,ERK)活性间接促进 GnRH基因表达;3)通过抑制 NPY,  
+3 刺激或抑制GnRH脉冲发生器[15]。  
+4 综上所述，下丘脑、肝脏和其他外周组织中 Nesfatin-1可能通过调节胰岛素敏感性与表  
+5 达，进而调节GnRH表达，影响初情启动（图2）。
+
+![](images/db62bf6d0baed238183380427b4d905f5e96f7caaf670ca834516539edcd716e.jpg)  
+图2Nesfatin-1通过调节胰岛素影响雌性动物初情启动
+
+TORC2：环磷腺苷效应元件结合蛋白调节转录辅激活因子 2 the transducer of regulated cAMP-response element binding protein protein 2；InSR/IRS/AKT：胰岛素受体/胰岛素受体底物/蛋白激酶B insulin receptor/insulin receptor substrate/protein kinase B；PEPCK：磷酸烯醇丙酮酸羧化激酶 phosphoenolpyruvate carboxykinase；L-type calcium channel：L型钙离子通路；Insulin sensitivity：胰岛素感受性；Egr-1:早期生 长应答蛋白-1 early growth response protein 1; ERK:胞外信号调节激酶 extracelular regulated protein kinases; NPY：神经肽Y neuropeptide Y；GnRH：促性腺激素释放激素 gonadotropin-releasing hormone；+：刺激 stimulation；一：抑制 inhibition。
+
+Fig.2Effects on puberty onset by Nesfatin-1 through insulin in female animals
+
+除以上生物学功能，体内和体外试验表明，下丘脑Nesfatin-1能提升动脉压，使心率加快，其机制与刺激孤束核内测亚核(mediaNTS,mNTS)中神经细胞去极化/超级化或交感神经兴奋性的增强有关[28-29]。此外，有研究表明 Nesfatin-1具有抗炎症和抗细胞凋亡等功能。由于动物机体能量平衡受到体温与摄食的共同调控,Nesfatin-1还可能参与动物的体温调节[30]。3影响Nesfatin-1/NUCB2mRNA表达的营养因素Nesfatin-1广泛存在与下丘脑各个脑室和机体外周组织中，作为一种饱食信号肽，Nesfatin-1/NUCB2mRNA的表达受到饲粮营养、体内能量平衡以及其他因素的调节。
+
+# 3.1葡萄糖
+
+在大鼠试验中，研究者发现胰腺能对葡萄糖做出应答反应并表达Nesfatin-1同时伴有胰岛素的共表达[31-32]。MIN-6 细胞在高糖（16.7 mmol/L）培养液中比在低糖（2.0 mmol/L）培养液中 Nesfatin-1 的表达量高了4 倍[33]，大鼠胰腺注射链脲佐菌素(streptozotocin,STZ)诱导I型糖尿病，其胰腺中NUCB2 和胰岛素前体 mRNA 表达量均降少，但在高脂高糖诱导的ⅡI型糖尿病大鼠中，葡萄糖特异性诱导Nesfatin-1在脂肪和肌肉组织中表达。体外培养大鼠胃黏膜(mouse stomach ghrelinoma,MGN3-1)细胞，Nesfatin-1 mRNA 的表达量对培养液中葡萄糖含量成剂量依赖性增加，但是表达量与在葡萄糖培养环境中的时间无显著关系[34]。尽管葡萄糖对 Nesfatin-1/NUCB2的诱导机制未能完全明确，但是能确定Nesfatin-1分泌神经元对葡萄糖十分敏感，且在胰岛素表达和葡萄糖稳态调节中起着重要作用[35]。
+
+# 3.2 L-色氨酸
+
+在含有 $L$ -色氨酸的培养基中体外培养大鼠MGN3-1细胞，在10mmol/L $L$ -色氨酸培养基中的MGN3-1 细胞表达的 Nesfatin-1/NUCB2 mRNA比含 $0 . 0 7 \ \mathrm { m m o l / L }$ 和 1.0 mmol/L L-色氨酸培养基高得多。而由其翻译而来的Nesfatin-1的表达量在 $1 . 0 \ \mathrm { m m o l / L }$ 和 10 mmol/L L-色氨酸培养基中基本相同（显著高于0.7 mmol/L $L$ -色氨酸培养基）[34]，说明Nesfatin-1分泌神经元对 $L$ -色氨酸的含量同样敏感，但Nesfatin-1的表达受到mRNA翻译或翻译后水的调控。
+
+# 3.3 脂肪酸
+
+即使是微量的 $( 1 \ \mu \mathrm { m o l / L } )$ ）油酸也能显著降低MGN3-1细胞中Nesfatin-1/NUCB2mRNA表达量，用辛酸和亚麻酸处理后，MGN3-1细胞中 Nesfatin-1/NUCB2 mRNA 表达量无明显变化[34]。其他脂肪酸对 Nesfatin-1表达的影响还有待研究。
+
+3.4能量
+
+用高糖高脂饲粮诱导肥胖(DIO)大鼠时，其下丘脑中 Nesfatin-1/NUCB2mRNA的表达量显著低于正常小鼠[35]，说明Nesfatin-1/NUCB2分泌神经元对脂类的敏感程度可能高于糖类。吴博等[36]对大鼠进行6周重复性饥饿/再投喂试验，再用高脂饲粮饲喂大鼠至12周，结果测得肥胖大鼠下丘脑NUCB2基因表达显著减弱，长时间的单一高能饲料还会导致机体能量调节机制破坏，所以恢复正常饲喂后，下丘脑中Nesfatin-1/NUCB2mRNA表达量并没有提升。
+
+Kohno 等[7]对7\~9周龄雌性大鼠进行 $4 8 \mathrm { { h } }$ 快速禁食和2h自由摄食再投喂后进行神经肽c-Fos 免疫组织化学测定，发现Nesfatin-1在PVN中的表达量比禁食期间提高了约10 倍，同时在SON中的表达量比禁食期间提高了约30 倍。在禁食 $^ { 4 8 \mathrm { ~ h ~ } }$ 后小鼠胃黏膜Nesfatin-1/NUCB2mRNA 表达量无显著变化，而其蛋白质表达量却下降[37]，再次印证Nesfatin-1/NUCB2的调控是在翻译或翻译后水平上发生的。
+
+综上所述，动物在摄食或高能饲喂条件下，引起胃扩张，进而激活下丘脑中Nesfatin-1/NUCB2分泌神经元，Nesfatin-1同时激活GD-I神经元，抑制GD-E 神经元，阻碍胃扩张，最终达到抑制摄食和调节体内能量平衡的作用。在这个过程中，催产素神经元和Nesfatin-1/NUCB2分泌神经元有显著的共表达（图3）。
+
+![](images/64e6304b90b6346a3fb0f298e98713fd35b1b971579102ab15dc3a56b99a154c.jpg)
+
+GD-I：胃扩张抑制神经元 gastric distention-inhibitory neurons；GD-E：胃扩张兴奋神经元 gastricdistention-excitatory neurons；PVN：室旁核 paraventricular nucleus；SON：视上核 supraoptic nucleus;Oxytoxin：孕激素；+：刺激 stimulation；一：抑制 inhibition。
+
+图3饲粮能量水平对Nesfatin-1/NUCB2mRNA表达的调控
+
+Fig.3Regulations of dietary energy level on Nesfatin-1/NUCB2 mRNA expression
+
+# 3.5 其他因素
+
+Nesfatin-1/NUCB2的表达还与其他因素有关，例如不同器官和组织、不同年龄、长期或短期饲喂条件都能影响Nesfatin-1/NUCB2 的表达[38-40]。
+
+4小结
+
+Nesfatin-1是广泛存在于中枢神经系统、消化系统和外周组织中的厌食信号肽。到目前为止，这一方面的研究主要集中于使用试验动物和体外试验，初步获得的结论表明 Nesfatin-1不仅有着调控摄食量的作用，还影响着机体能量代谢、初情启动等重要生命活动。今后，这一方面的研究应通过使用更多种类动物，特别是通过活体动物试验来阐明Nesfatin-1的各种生物功能的具体作用机制和 Nesfatin-1在中枢神经系统化与外周组织的相互联系，同时还要研究更多营养因素对机体Nesfatin-1/NUCB2表达的影响，以助于尽快能将 Nesfatin-1投入实际应用。
+
+参考文献：   
+[1] OH-I S,SHIMIZU H,SATOH T,et al.Identification of Nesfatin-1 as a satiety molecule in the hypothalamus[J].Nature,2006,443(7112):709-712.   
+[2] SHIMIZU H,OH-I S,HASHIMOTO K,et al.Peripheral administration of nesfatin-1 reduces food intake in mice:the leptin-independent mechanism[J].Endocrinology,2009,150(2):662-671. [3] LENTS C A,BARB C R,HAUSMAN G J,et al.Effects of nesfatin-1 on food intake and LH secretion in prepubertal gilts and genomic association of the porcine NUCB2 gene with growth traits[J].Domestic Animal Endocrinology,2013,45(2):89-97. [4] GAIGE S,BONNET M S,TARDIVEL C.et al.c-Fos immunoreactivity in the pig brain following deoxynivalenol intoxication:focus on NUCB2/nesfatin-1 expressing   
+neurons[J].NeuroToxicology,2013,34:135-149.   
+[5] PALASZ A,KRYSTANEK M,WORTHINGTON J,et al.Nesfatin-1,a unique regulatory neuropeptide of the brain[J].Neuropeptides,2012,46(3):105-112.   
+[6] GONZALEZ R,SHEPPERD E,THIRUPPUGAZH V,et al.Nesfatin-1 regulates the   
+hypothalamo-pituitary-ovarian axis of fish[J].Biology of Reproduction,2012,87(4):84.   
+[7] KOHNO D,NAKATA M,MAEJIMA Y,et al.Nesfatin-1 neurons in paraventricular and supraoptic nuclei of the rat hypothalamus coexpress oxytocin and vasopressin and are activated by refeeding[J].Endocrinology,2008,149(3):1295-1301.   
+[8]宋敏,田园,方富贵.Nesfatin-1与生殖[J].生理科学进展,2014,45(6):439-441.   
+[9] ZHANG A Q,LI X L,JIANG C Y,et al.Expression of nesfatin-1/NUCB2 in rodent digestive system[J].World Journal of Gastroenterology,2010,16(14):1735-1741.   
+[10] STENGEL A,GOEBEL M,YAKUBOV I,et al.Identification and characterization of nesfatin-1 immunoreactivity in endocrine cell types of the rat gastric oxyntic   
+mucosa[J].Endocrinology,2009,150(1):232-238.   
+[11] GARCIA-GALIANO D,PINEDA R,ILHAN T,et al.Cellular distribution,regulated   
+expression,and functional role of the anorexigenic peptide,NUCB2/nesfatin-1,in the   
+testis[J].Endocrinology,2012,153(4):1959-1971.   
+[12] FEIJOO-BANDIN S,RODRIGUEZ-PENAS D,GARCIA-RUA V,et al.Nesfatin-1 in human and murine cardiomyocytes:synthesis,secretion,and mobilization of   
+GLUT-4[J].Endocrinology,2013,154(12):4757-4767.   
+[13] PAN W H,HSUCHOU H,KASTIN A J.Nesfatin-1 crosses the blood-brain barrier without saturation[J].Peptides,2007,28(11):2223-2228.   
+[14] FOO K S,BRISMAR H,BROBERGER C.Distribution and neuropeptide coexistence of nucleobindin-2 mRNA/nesfatin-like immunoreactivity in the rat   
+CNS[J].Neuroscience,2008,156(3):563-579. [15] 朱宇旌,丁兰,张勇,等.胰岛素对促性腺激素释放激素分泌及活性的调控[J].动物营养学 报,2013,25(1):1-7.   
+[16] VARRICCHIO E,RUSSOLILLO M G,RUSSO F,et al.Expression and immunohistochemical detection of Nesfatin-1 in the gastrointestinal tract of Casertana pig[J].Acta   
+Histochemica,2014,116(4):583-587.   
+[17] GUO FF,XU L.GAO S L,et al.The efects of nesfatin-1 in the paraventricular nucleus on gastric motility and its potential regulation by the lateral hypothalamic area in rats[J].Journal of Neurochemistry,2015,132(3):266-275.   
+[18] 王文杰,蒋正尧.nesfatin-1对大鼠迷走复合体内葡萄糖感受神经元和胃扩张敏感神经元 兴奋性的作用[J].齐鲁医学杂志,2010,25(3):225-227.   
+[19] STENGEL A,TACHE Y.Nesfatin-1—role as possble new potent regulator of food   
+intake[J].Regulatory Peptides,2010,163(1/2/3):18-23.   
+[20] GARCIA-GALIANO D,NAVARRO V M,ROA J,et al.The anorexigenic   
+neuropeptide,Nesfatin-1,is indispensable for normal puberty onset in the female rat[J].The Journal of Neuroscience,2010,30(23):7783-7792.   
+[21] MOHAN H,UNNIAPPAN S.Ontogenic pattern of nucleobindin-2/nesfatin-1 expression in the gastroenteropancreatic tissues and serum of Sprague Dawley rats[J].Regulatory   
+Peptides,2012,175(1/2/3):61-69.   
+[22] 王尧尧,李冉,李运生,等.Nesfatin-1对初情期雌性大鼠促性腺激素及其 mRNA 表达的影 响[J].中国农业大学学报,2015,20(3):139-145.   
+[23]张志红.下丘脑输注Nesfatin-1对肝脏AMPK/TORC2/AKT信号通路的影响[D].博士学位 论文.重庆:重庆医科大学,2012.   
+[24] 吴丹冬,杨刚毅,李,等.NUCB2 siRNA 对肝细胞胰岛素信号通路及细胞凋亡的影响[J] 免疫学杂志,2014(10):860-864.   
+[25] YANG ML,ZHANG Z H,WANG C,et al.Nesfatin-1 action in the brain increases insulin sensitivity through Akt/AMPK/TORC2 pathway in diet-induced insulin   
+resistance[J].Diabetes,2012,61(8):1959-1968.
+
+1 [26] WEISMAN R,COHEN A,GASSER S M.TORC2—a new player in genome   
+2 stability[J].EMBO Molecular Medicine,2014,6(8):995-1002.   
+3 [27] NAKATA M,MANAKA K,YAMAMOTO S,et al.Nesfatin-1 enhances glucose-induced   
+4 insulin secretion by promoting $\mathrm { C a } ^ { 2 + }$ influx through L-type channels in mouse islet   
+5 $\beta$ -cells[J].Endocrine Journal,2011,58(4):305-313.   
+6 [28] YOSTEN G L C,SAMSON W K.Nesfatin-1 exerts cardiovascular actions in brain:possible   
+7 interaction with the central melanocortin system[J].American Journal of Physiology Regulatory,   
+8 Integrative and Comparative Physiology,2009,297(2):R330-R336.   
+9 [29] MIMEE A,SMITH P M,FERGUSON A V.Nesfatin-1 influences the excitability of neurons in   
+0 the nucleus of the solitary tract and regulates cardiovascular function[J].American Journal of   
+1 Physiology Regulatory, Integrative and Comparative Physiology,2012,302(11):R1297-R1304.   
+2 [30] KONCZOL K,PINTER O,FERENCZI S,et al.Nesfatin-1 exerts long-term efect on food   
+3 intake and body temperature[J].International Journal of Obesity,2012,36(12):1514-1521.   
+4 [31] FOO K S,BRAUNER H,OSTENSON C G.Nucleobindin-2/nesfatin in the endocrine   
+5 pancreas:distribution and relationship to glycaemic state[J].Journal of   
+6 Endocrinol0gy,2010,204(3):255-263.   
+7 [32] GONZALEZ R,REINGOLD B K,GAO X D,et al.Nesfatin-1 exerts a   
+8 direct,glucose-dependent insulinotropic action on mouse islet $\beta \cdot$ and MIN6 cells[J].Journal of   
+9 Endocrinology,2011,208(3):R9-R16.   
+0 [33] MOHAN H,RAMESH N,MORTAZAVI S,et al.Nutrients differentially regulate   
+1 nucleobindin-2/nesfatin-1 in vitro in cultured stomach ghrelinoma (MGN3-1) cels and in vivo in   
+2 male mice[J].PLoS One,2014,9(12):e11502.   
+3 [34] GONZALEZ R,PERRY R L S,GAO X,et al.Nutrient responsive nesfatin-1 regulates energy   
+4 balance and induces glucose-stimulated insulin secretion in   
+5 rats[J].Endocrinology,2011,152(10):3628-3637.   
+6 [35] 秦小云,王伯钧,伍善广,等.NUCB2/Nesfatin-1在DIO大鼠下丘脑中的表达[J].中国临床解   
+7 剖学杂志,2014,32(6):704-707.
+
+[36] 吴博,刘重斌,董缪武,等.重复性饥饿/再投喂对大鼠下丘脑NUCB2表达影响[J].中国公共 卫生,2010,39(3):313-314.   
+[37] 李清春,管洪在,陈曦,等.禁食前后小鼠胃黏膜 NUCB2的变化[J].青岛大学医学院学 报,2010,46(3):206-208.   
+[38] HATEF A,SHAJAN S,UNNIAPPAN S.Nutrient status modulates the expression of   
+Nesfatin-1 encoding nucleobindin 2A and 2B mRNAs in zebrafish gut,liver and brain[J].General and Comparative Endocrinology,2014,215:51-60.   
+[39] SENIN L L,AL-MASSADI O,BARJA-FERNANDEZ S,et al.Regulation of   
+NUCB2/Nesfatin-1 production in rat’s stomach and adipose tissue is dependent on   
+age,testosterone levels and lactating status[J].Molecular and Cellular   
+Endocrinology,2015,411:105-112.   
+[40] BONNET M S,OUELAA W,TILLEMENT V,et al.Gastric distension activates   
+NUCB2/nesfatin-1-expressing neurons in the nucleus of the solitary tract[J].Regulatory   
+Peptides,2013,187:17-23.   
+Nesfatin-1: Molecular Biological Characteristics,Functions and Nutritional regulation in Gene Expression   
+YU Zhehao ZHU YujingZHANG Yong LIFangfang\*   
+(College of Veterinary and Animal Science, Shenyang Agricultural University, Shenyang 110866, China)   
+Abstract: Nesfatin-1 is a peptide fragment driven from nucleobindin 2 (NUCB2) in hypothalamus and peripheral tissues and inhibit animal food intake by satiety. Researchers found that Nesfatin-1 not only modified the whole-body homeostasis and energy storage through inhibiting feed intake, but also played roles in many physiological processes such as regulating puberty onset and insulin resistance and so on,with a variety of biological functions. This article reviewed the molecular biological characteristics， functionsand nutritional regulation ingene expressionof Nesfatin-1/NUCB2.   
+Kev words: Nesfatin-1: molecnlar hinlngical characteristics: feed intake inhihiting: nuhertv onset.
+
+gene expression; nutritional regulation

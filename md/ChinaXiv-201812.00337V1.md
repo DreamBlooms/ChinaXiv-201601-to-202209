@@ -1,0 +1,128 @@
+植物提取物对反刍动物免疫反应、氧化应激以及胰岛素调节的影响杨德莲」孙铭维」 张华」童津津」张　婕」蒋林树1\*熊本海 2\*(1.北京农学院动物科学技术学院，奶牛营养学北京市重点实验室，北京102206；2.
+
+中国农业科学院北京畜牧兽医研究所，北京100193)
+
+摘要：植物提取物是以植物为原料，用化学或者物理的方法，定向获取和浓集植物中的一种或多种有效成分，而不改变其有效成分结构形成的产品。近年来，植物提取物作为一种天然饲料添加剂得到了广泛的关注。植物提取物在反刍动物营养的研究与生产中应用也很广泛。本文结合国内外研究进展，主要从植物提取物对反刍动物的免疫反应、氧化应激以及胰岛素调节3个方面进行了综述。
+
+关键词：植物提取物；免疫反应；氧化应激；胰岛素；反刍动物
+
+中图分类号：S816.7
+
+植物提取物中含有生物碱、皂苷、挥发油、单宁以及多糖等生物活性成分，具有杀菌、促生长及抗氧化等多种功能，被认为是替代抗生素药物的天然饲料添加剂，并且在反刍动物中作为潜在的瘤胃功能调节剂得到了广泛研究及应用 $^ { [ 2 - 4 ] }$ 。反刍动物所需的大部分营养素主要来自于瘤胃微生物的发酵，而瘤胃微生物发酵的好坏直接影响动物的生产性能。一些植物提取物添加剂不仅可以提高适口性，还能掩盖粪便或肥料的气味。这些都符合未来农业和食品的发展趋势，具有很大的发展潜力。
+
+卢德勋[5提出“营养活性物质组学”理论为植物提取物应用研究提出了一个新思路，即指研究天然存在的各种营养活性物质之间的相互作用与人工配合的各种营养活性物质间的
+
+收稿日期：2017-12-11
+
+基金项目：国家自然科学基金（31772629，31702302)；“十三五”国家重大科技专项(2016YFDO700201)；2015 年大北农青年教师科研基金；2016 年北京农学院青年教师科研基金；2017年北京市教委科技计划（SQKM201710020011）
+
+作者简介：杨德莲（1993-)，女，云南昭通人，硕士研究生，研究方向为反刍动物营养与免疫。E-mail:1121529738@qq.com
+
+\*通信作者：蒋林树，教授，博士生导师，E-mail：kjxnb@viP.sina.com；熊本海，教授，博士生导师，E-mail: xiongbenhai $@$ caas.cn
+
+优化组合以及它们的整体功能，而不是简单研究某一种活性物质的功能和技术的一个动物营养学和饲料科学的研究方向。“营养活性物质组学”理论的提出将营养活性物质的研发，特别是将植物提取物产品的研发由传统营养学时代推向系统动物营养学的时代，极大地促进了植物提取物的应用研究进展。有研究表明，丁香酚、肉桂醛、大蒜素和辣椒素等各种植物提取物可在神经元、肠、胰腺、免疫细胞和其他组织上激活反刍动物瞬时受体电位通道（transient receptor potential，TRP）[6-7]，引起相应细胞的活化，并表现出各种生理功能，包括释放神经肽和激活离子通道。据报道，植物提取物通过增加或减少炎症细胞因子、白细胞和氧化应激来调节促炎或抗炎反应。此外，植物提取物对胰腺激素，特别是胰岛素的分泌或敏感性具有调节作用[9-10]。在反刍动物中，植物提取物对宿主动物的生理调节作用远大于其对瘤胃微生物的影响。研究发现，将大蒜油、姜黄和辣椒输注到肠道内，结果表明，与适应性免疫相关的 T辅助细胞数量显著增加，而对奶牛的胃肠道微生物群落无影响[1]。此外，对瘤胃具有保护作用的辣椒素，在葡萄糖耐量试验期间，显著降低了胰岛素分泌。同时，辣椒素对脂多糖（LPS）诱导的奶牛炎症模型，减轻了急性期免疫应答[12-13]。本文对植物提取物对反刍动物的免疫反应、氧化应激以及胰岛素调节3个方面进行了综述，为今后新开发的植物提取物在反刍动物上的应用及揭示其作用的分子机制提供一定的参考。
+
+1植物提取物对反刍动物免疫反应的调节作用
+
+植物提取物对免疫系统的作用方式主要取决于其化学性质，机体因素以及药剂量的影响，呈双向调节作用[4]。研究发现，茶皂素对奶牛免疫功能具有调节作用，可提高奶牛血清中免疫球蛋白（Ig）及免疫相关细胞因子含量,并提高细胞因子白细胞介素6（IL-6）表达量[15]。据报道，植物提取物可激活TRP 通道，并与相应的受体结合，使 TRP在神经元、肠、胰腺和哺乳动物组织中的免疫细胞中表达。进一步说明，植物提取物可使得细胞活化或使离子转运蛋白发生二次转导。当植物提取物与膜上TRP 结合后,可诱导钙离子（ $\mathrm { { C a } ^ { 2 + } }$ ）流入。细胞内Ca允许核转录因子κB（NF-κB）和活化的T细胞核因子（NF-AT）进入细胞核li6，进一步通过 TRP 通道的激活来刺激 $\mathrm { C a } ^ { 2 + }$ 从内质网内部释放[。丁香酚与 TRPV1和 TRPV3 结合后，表现出抗炎和抗氧化的性质。肉桂醛通过TRPA1介导并可作为免疫增强剂，大蒜素可激活 TRPA1和 TRPV1[]，对免疫具有一定的调节作用。辣椒素与 TRPV1结合并调节免疫反应，改善胃肠道黏膜血流量。其反应的机制推测为，辣椒素与 TRPV1相结合，通过刺激或抑制细胞因子和抗体来修饰免疫细胞，包括巨噬细胞、嗜中性粒细胞、T和B细胞[18-20]。辣椒素还可以通过结合传入神经元上的 TRPV1，调节释放神经肽（如降钙素基因相关肽（CGRP）、物质P和速激肽等)，从而间接影响免疫细胞的功能[21]。据报道，CGRP 具有抗炎作用，物质 P 和速激肽与血管舒张、血浆外渗和促炎作用有关[2-23]。
+
+植物提取物对受体介导的反应与免疫反应相关，例如胃肠道健康和宿主免疫[8,24]。Ahmed等[25]研究发现，饲粮不同浓度（0、 $0 . 5 \%$ 、 $1 . 0 \%$ 和 $2 . 0 \%$ ）的绿茶副产物，可增加山羊脾细胞中T和B细胞的数量以及激活刀豆蛋白A的表达。儿茶素是绿茶副产物的主要活性成分，在山羊脾脏中表现出促炎作用，但其作用方式尚未阐明。在奶牛皱胃中直接灌输大蒜油，姜黄油树脂和辣椒素（每头 ${ \mathrm { ~ 2 ~ g / d ~ } }$ )，结果表明， $\mathrm { C D _ { 4 } ^ { + } }$ 细胞的数量显著增加，CD25α（T淋巴细胞上的活化分子)的比例增加1倍，表明植物提取物可活化T 辅助细胞[]。在同一个试验中，大蒜油使嗜中性粒细胞与淋巴细胞的比例具有上升的趋势，表明这是一个急性应激反应[26]。而在在后续试验中，报道了饲喂辣椒素可以增加奶牛外周血中嗜中性粒细胞和嗜酸性粒细胞的数量以及提高了嗜中性粒细胞数和淋巴细胞的比例[。此外，辣椒素也增加了嗜中性粒细胞的吞噬作用，表明饲喂辣椒素促进了与急性期免疫应答相关的免疫细胞的活化[]。植物提取物既有促炎作用又有抗炎作用。植物提取物的促炎作用可能会刺激免疫反应，这对免疫抑制的奶牛来说可能是有益的，例如在干奶期和早期哺乳期期间[28]。而植物提取物的抗炎作用，可减少促炎细胞因子的形成和降低急性期免疫应答反应。在奶牛中，通过饲喂姜黄素、鼠尾草酸、肉桂醛和丁香酚的混合物，可降低牛奶中的体细胞的数量，进而来改善奶牛乳房健康状态[29]。在奶牛中，饲粮中添加瘤胃保护剂辣椒素，可减少由LPS 刺激诱导的触珠蛋白的表达以及血浆中皮质醇的浓度升高[13]。远立国等[3]的试验结果显示，饲粮添加牛至油 25mg/kg 和黄霉素 $8 ~ \mathrm { m g / k g }$ ，可显著防治奶牛隐性乳房炎的发生。叶文初等[31从患乳房炎的奶牛中采取奶样，分离培养与鉴定致奶牛乳房炎的病原菌，用于苦豆草提取物体的外抑菌试验，结果表明，苦豆草提取在体外具有明显的抑菌作用。然而，植物提取物的免疫调节效应，取决于试验动物的免疫状态和添加植物提取物的剂量。在奶牛中，Oh 等3发现，对于增加嗜中性粒细胞的活性和总数，低剂量和中等剂量的辣椒素比最高剂量更有效。2植物提取物对反刍动物氧化应激的调节作用
+
+众所周知，植物提取物可通过还原活性氧作为抗氧化剂[32]。据报道，1分子的辣椒素使其酚羟基清除2个过氧基3]。此外，酚类化合物可以增加内源性抗氧化能力[34。植物次生代谢物通过I、Ⅱ和Ⅲ期代谢进行体内解毒，包括水解生物转化，结合反应和转运蛋白介导的外排流入肠腔或胆汁[35]。由于解毒作用，外源性酚类化合物在血浆或组织中的浓度，通常低于体内内源抗氧化剂的浓度3。这可能解释了为什么在动物研究中植物提取物的氧化作用有限。然而，据报道，酚类的植物提取物可以诱导与内源性抗氧化剂相关的基因上调和转录因子的增殖，其中包括芳烃受体和核因子E2 相关因子[36]。研究发现，大蒜油具有清除自由基并减少脂质过氧化的作用[37]。
+
+在反刍动物研究中报道了植物提取物对氧化状态的影响。据报道，饲喂单宁（95.7g/kg饲粮）增强了铁还原绵羊肝脏和血液中的抗氧化能力[38]。Zhong等[39]还发现，对山羊饲喂茶儿茶素（饲粮添加0、2000、3000或 $4 0 0 0 \mathrm { m g / k g }$ )，通过减少血液中氧化的谷胱甘肽(GSH)改善抗氧化状态。儿茶素为茶多酚的主体成分，茶多酚具有降血脂、抗血栓、降血压、抗突变、防癌、抗菌及抗病毒等药效，可改变动物体内代谢，改善动物肉质，对于提高畜禽肉产品的品质起到积极作用，同时，对乳腺的发育具有促进作用[40]。这与Ahmed等[25]的研究结果相一致。
+
+酚类化合物可以增加反刍动物内源抗氧化作用。在最近的研究中，对山羊饲喂桧油（饲粮添加 $0 . 4 \mathrm { \tilde { ~ } { 2 } . 0 \ m L / k g }$ ，含 $89 . 7 \%$ α-蒎烯）可增加超氧化物歧化酶（SOD）的活性[41]，饲喂含有可水解单宁、甾体皂苷和糖生物碱的草本粉末(虾子花、龙葵和葫芦巴混合物)，增加了山羊血液中GSH含量及过氧化氢酶（CAT）和谷胱甘肽-S-转移酶的活性[42。在奶牛中，尽管大蒜油被称为抗氧化剂[43]，但是高剂量的大蒜油可能通过增加奶牛的氧化应激而产生有害作用。Hashemzadeh-Cigari等2还报道，植物提取物混合物（包括迷迭香、肉桂皮、姜黄和丁香芽）降低了奶牛产后血液硫代巴比妥酸反应产物(TBARS)浓度。栗子单宁（主要是可水解单宁）可降低奶牛血液中氧化应激标记物质——丙二醛的浓度，增加内源性抗氧化酶（SOD和谷胱甘肽过氧化物酶）的活性[]。
+
+# 3植物提取物对反刍动物胰岛素的调节作用
+
+胰岛素和胰高血糖素是维持血液中葡萄糖体内平衡的关键，而植物提取物对胰岛素具有调节作用。相关研究表明，植物提取物可以提高胰岛素活性，其可能作用模式包括：增加过氧化物酶激活受体-γ活性，增加胰岛素受体并改善其功能；增加糖原合酶活性和糖原积累；减弱炎性细胞因子表达，加速脂肪酸氧化以及增加抗氧化剂状态[45]。Hashemzadeh-Cigari等28报道，给奶牛饲喂含有迷迭香、肉桂皮、姜黄和丁香芽的植物提取物混合物，奶牛胰岛素的敏感性增加。对奶牛每天2次十二指肠给药槲皮素（18 mg/kg BW)，可显著降低奶牛血液葡萄糖浓度，增加续页胰岛素的浓度,表明类黄酮槲皮素在肠道中表现出降血糖的作用[46]。在奶牛的另一个试验中，饲喂添加辣椒素，显著降低了血清中胰岛素的浓度，而不影响葡萄糖耐量试验期间的葡萄糖的浓度[13]，这与大鼠和人类受试者的结果一致[47-48]。胰岛素在泌乳奶牛的能量分配中起重要作用[49。虽然胰岛素依赖于骨骼和肌肉组织，但乳腺中的葡萄糖摄取主要依赖于葡萄糖转运蛋白1，而不依赖于胰岛素[50]。因此，乳腺的葡萄糖供应，可以根据胰岛素依赖的组织中的胰岛素敏感性或胰腺胰岛素的分泌而改变。所以，植物提取物通过其对胰岛素敏感性和分泌物的调节作用，可能会重新定位葡萄糖用于奶牛乳糖合成和奶牛生产[14]。
+
+# 4小结
+
+天然植物提取物因具有抗生素和化学添加剂无可比拟的天然性、安全性、无污染以及独特的营养特性而成为了研究的热点。虽然植物提取物具有多种生物活性，部分植物提取物已经应用于动物生产方面，但同时也存在着众多问题。第一，植物有效活性成分的提取。对植物有效活性成分的提取大多还停留在实验室阶段，且大多植物提取物的提取过程需要用到很多的有毒试剂等，所以这不仅对环境有一定的污染，而且提取物的安全性也没有了很好的保证；同时也因为其提取过程复杂，所以在动物生产方面的应用会考虑经济效益而使其应用受到一定的限制。第二，因植物中含有多种活性成分，所以植物提取物的纯度受到了影响，即使是同一种植物提取物，但其纯度也不尽相同。因此，虽然是同一种植物提取物，但在动物中的研究结果也存在着不一致。同时，因为纯度不一，所以关于植物提取物在动物中的应用没有制定适宜的添加标准。第三，其作用机制需要进一步研究。大多数植物提取物的功效只停留在其生物学功能这个层次，关于植物提取物在动物体内作用和影响相关信号通路分子机制还不明确。因此，关于植物提取物的作用机理需要进一步的研究。第四，由于经济动物试验成本高，比如奶牛等大型动物试验，所以很多关于植物提取物的研究停留在体外试验或者小鼠模型试验以及犊牛试验等。但因为同一植物提取物在不同种动物和同一种动物不同阶段其作用效果会存在差异，所以研究结果也不一致。
+
+植物提取物在反刍动物生产中的应用还需进一步的研究及评估，以便更全面地了解其对反刍动物的生理调控作用的机制，进一步挖掘植物提取物在反刍动物中的广阔的应用前景。因此，有必要结合植物提取物中的有效活性成分，利用现代营养学、免疫学、分子生物学等现代研究手段，从体内营养物质的代谢利用途径、免疫调节机理和激素的分泌调控等方面，对植物提取物的作用机理做深入研究。
+
+参考文献:   
+[1]孙.植物提取物对反刍动物瘤胃酸中毒的调控作用[J].中国饲料,2017(16):16-19,23.   
+[2] CALSAMIGLIA S,BUSQUET M,CARDOZO P W,et al.Invited review:essential oils as modifiers of rumen microbial fermentation[J].Journal of Dairy Science,2007,90(6):2580-2595. [3] PATRA A K.Dietary phytochemicals and microbes[M].Dordrecht:Springer,2012:371-389.   
+[4] OH J,HRISTOVA N.Effectsof plant-derived bio-active compoundson rumen fermentation,nutrientutilization,immuneresponse,andproductivityof ruminant animals[M].2016.(请核对出版信息)   
+[5]卢德勋.饲料科学的新概念一一用系统思维诠释饲料科学的一些理论和技术问题[J].饲料 工业,2012,33(1):1-7. [6] HOLZER P.Transient receptor potential (TRP) channels as drug targets for diseases of the digestive system.[J].Pharmacology & Therapeutics,2011,131(1):142-170.   
+[7] VENNEKENS R,VRIENS J,NILIUS B.Herbal compounds and toxins modulating TRP channels[J].Current Neuropharmacology,2008,6(1):79-96. [8] ZENG Z K,ZHANG S,WANG H L,et al.Essential oil and aromatic plants as feed additives in non-ruminant nutrition:a review[J].Journal of Animal Science and Biotechnology,2016,6(1):7.   
+[9]VAN DE WALL E H E M,GRAM D X,STRUBBE J H,et al.Ablation of capsaicin-sensitive afferent nerves affects insulin response during an intravenous glucose tolerance test[J].Life Sciences,2005,77(11):1283-1292.
+
+[10] QIN B L,PANICKAR K S,ANDERSON R A.Cinnamon:potential role in the prevention of insulin resistance,metabolic syndrome,and type 2 diabetes[J].Journal of Diabetes Science and Technology,2010,4(3):685-693.
+
+[11] OH J,HRISTOV A N,LEE C,et al.Immune and production responses of dairy cows to postruminal supplementation with phytonutrients[J].Journal of Dairy Science,2013,96(1 2):7830-7843.
+
+[12] OH J,HARPER M,GIALLONGO F,et al.Effects of rumen-protected Capsicum oleoresin on immune responses in dairy cows intravenously challenged with lipopolysaccharide[J].Journal of Dairy Science,2017,100(3):1902-1913.
+
+[13] OH J,HARPER M,GIALLONGO F,et al.Effects of rumen-protected Capsicum oleoresin on productivity and responses to a glucose tolerance test in lactating dairy cows[J].Journal of Dairy Science,2017,100(3):1888-1901.
+
+[14] 石宁,许晓凯,方洛云,等.植物提取物对奶牛免疫机能及产奶性能的影响[J].中国草食动物科学,2017,37(1):50-54.
+
+[15]常肖肖,张议夫,赵士萍,等.茶皂素对奶牛免疫功能的影响[J].动物营养学报,2017,29(3):1039-1045.
+
+[16] BERRIDGE M J,LIPP P,BOOTMAN M D.The versatility and universality of calcium signalling[J].Nature Reviews Molecular Cell Biology,2000,1(1):11-21.
+
+[17] GEES M,COLSOUL B,NILIUS B.The role of transient receptor potential cation channels in $\mathrm { C a } ^ { 2 + }$ signaling[J].Cold Spring Harbor Perspectives in Biology,2010,2(10):a003962.
+
+[18] FRANCO-PENTEADO C F,DE SOUZA I A,LIMA C S P,et al.Effects of neonatal capsaicin treatment in the neutrophil production,and expression of preprotachykinin-I and tachykinin receptors in the rat bone marrow[J].Neuroscience Letters,2006,407(1):70-73.
+
+[19] TAKANO F,YAMAGUCHI M,TAKADA S,et al.Capsicum ethanol extracts and capsaicin enhance interleukin-2 and interferon-gamma production in cultured murine Peyer's patch cells ex vivo[J].Life Sciences,2007,80(17):1553-1563.
+
+[20] NEVIUS E,SRIVASTAVA P K,BASU S.Oral ingestion of Capsaicin,the pungent component of chili pepper,enhances a discreet population of macrophages and confers protection from autoimmune diabetes[J].Mucosal Immunology,2012,5(1):76-86.
+
+[21] TSUJI F,AONO H.Role of Transient receptor potential vanilloid 1 in inflammation and autoimmune diseases[J].Pharmaceuticals,2012,5(8):837-852.
+
+[22] ZIMMERMAN B J,ANDERSON D C,GRANGER D N.Neuropeptides promote neutrophil adherence to endothelial cell monolayers[J].The American Journal of Physiology,1992,263(5 Pt 1):G678-G682.   
+[22] PENNEFATHER J N,PATAK E,PINTO F M,et al.Mammalian tachykinins and uterine smooth muscle:the challenge escalates[J].European Journal of Pharmacol0gy,2004,500(1/2/3):15-26.   
+[24] FURNESS J B,RIVERA L R,CHO H J,et al.The gut as a sensory organ[J].Nature Reviews Gastroenterology & Hepatology,2013,10(12):729-740.   
+[25] AHMED S T,LEE J W,MUN H S,et al.Effects of supplementation with green tea by-products on growth performance,meat quality,blood metabolites and immune cell proliferation in goats[J].Journal of Animal Physiology and Animal Nutrition,2015,99(6):1127-1137.   
+[26] WEISS D J,WARDROP K J.Schalm's veterinary hematology[M].Iowa,USA:Blackwell Publishing,2010.   
+[27] OH J,GIALLONGO F,FREDERICK T,et al.Effects of dietary Capsicum oleoresin on productivity and immune responsesin lactating dairy cows[J].Journal of Dairy Science,2015,98(9):6327-6339.   
+[28] SORDILLO L M,AITKEN S L.Impact of oxidative stress on the health and immune function of dairy cattle.[J].Veterinary Immunology and Immunopathology,2009,128(1/2/3):104-109.   
+[29] HASHEMZADEH-CIGARI F,GHORBANI G R,KHORVASH M,et al.Supplementation of herbal plants differently modulated metabolic profile,insulin sensitivity,and oxidative stress in transition dairy cows fed various extruded oil seeds[J].Preventive Veterinary Medicine,2015,118(1):45-55.   
+[30] 远立国,佟恒敏,沈建忠.牛至油和黄霉素在奶牛生产中应用的研究[J].饲料工业,2004,
+
+25(1) :38-42.
+
+31]叶文初,袁富威,班贊,等.苦豆草提取物对奶牛乳房炎致病菌的体外抑菌作用[J].中国兽医学报,2016,36(9):1568-1571.
+
+[32] AMORATI R,FOTI M C,VALGIMIGLI L.Antioxidant activity of essential oils[J].Journal of Agricultural and Food Chemistry,2013,61(46):10835-10847.   
+[33] OKADA Y,TANAKA K,SATO E,et al.Kinetics and antioxidative sites of capsaicin in homogeneous solution[J].Journal of the American Oil Chemists’ Society,2010,87(12):13 97-1405.   
+[34] MASELLA R,DI BENEDETTO R,VARi R,et al.Novel mechanisms of natural antioxidant compounds in biological systems:involvement of glutathione and glutathione-related enzymes[J].The Journal of Nutritional Biochemistry,2005,16(10):577-586.   
+[35] GURLEY B J.Emerging Technologies for improving phytochemical bioavailability:benefits and risks[J].Clinical Pharmacology and Therapeutics,2011,89(6):915-919.(请核对年份)   
+[36] SEYMOUR E M,BENNINK M R,BOLLING S F.Diet-relevant phytochemical intake affects the cardiac AhR and nrf2 transcriptome and reduces heart failure in hypertensive rats[J].The Journal of Nutritional Biochemistry,2013,24(9):1580-1586.   
+[37] MIRUNALINI S,DHAMODHARAN G,KARTHISHWARAN K.A natural wonder drug helps to prevent cancer:garlic oil[J].Notulae Scientia Biologicae,2010,2(1):14-19.   
+[38] LOPEZ-ANDRES P,LUCIANO G,VASTA V,et al.Dietary quebracho tannins are not absorbed,but increase the antioxidant capacity of liver and plasma in sheep[J].British Journal of Nutrition,2013,110(4):632-639.   
+[39] ZHONG R Z,XIAO W J,REN G P,et al.Dietary tea catechin inclusion changes plasma biochemical parameters,hormone concentrations and glutathione redox status in goats [J].Asian-Austral Aslan Journal of Animal Sciences,2011,24(12):1681-1689.   
+[40] 邓小闻,郗伟斌,张峻岭.植物提取物对反刍动物生产性能及瘤胃发酵的影响[J].现代畜牧 兽医,2010(6):44-47.   
+[41] YESILBAG D,BIRICIK H,CETIN I,et al.Effects of juniper essential oil on growth
+
+performance,some rumen protozoa,rumen fermentation and antioxidant blood enzyme parametersofgrowing Saanen kids[J].Journal of Animal Physiology & Animal Nutrition,2017,101(5):e67-e76.
+
+[42] CHOUBEY M,PATTANAIK A K,BALIYAN S,et al.Dietary supplementation of a novel phytogenic feed additive:effects on nutrient metabolism,antioxidant status and immune response of goats[J].Animal Production Science,2015,56(10):1612.
+
+[43] LAMBERT J D,ELIAS R J.The antioxidant and pro-oxidant activities of green tea polyphenols:a role in cancer prevention[J].Archives of Biochemistry and Biophysics,2010,501(1):65-72.
+
+[44] LIU H W,ZHOU D W,LI K.Effects of chestnut tannins on performance and antioxidative status of transition dairy cows[J].Journal of Dairy Science,2013,96(9):5901-5907.
+
+[45] ANDERSON RA.Chromium and polyphenolsfrom cinnamon improveinsulin sensitivity:plenary lecture[J].Proceedings of The Nutrition Society,2008,67(1):48-53.
+
+[46] GOHLKE A,INGELMANN C J,NURNBERG G,et al.Influence of 4-week intraduodenal supplementation of quercetin on performance,glucose metabolism,and mRNA abundance of genes related to glucose metabolism and antioxidative status in dairy cows[J].Journal of Dairy Science,2013,96(11):6986-7000.
+
+[47] AHUJA K D,ROBERTSON I K,GERAGHTY D P,et al.Effects of chili consumption on postprandial glucose,insulin,and energy metabolism[J].The American Journal of Clinical Nutriti0n,2006,84(1):63-69.
+
+[48] VAN DE WALL E H E M,WIELINGA P Y,STRUBBE J H,et al.Neonatal capsaicin causes compensatory adjustments to energy homeostasis in rats[J].Physiology & Behavi0r,2006,89(1):115-121.
+
+[49] DE KOSTER J D,OPSOMER G.Insulin resistance in dairy cows[J].Veterinary Clinics of North America:Food Animal Practice,2013,29(2):299-322.
+
+[50] ZHAO F Q,KEATING A F.Expression and regulation of glucose transporters in the bovine mammary gland[J].Journal of Dairy Science,2007,90(Suppl.1):E76-E86.
+
+Effects of Plant Extracts on immunity,anti-oxidative stress and insulin regulation in RuminantsYANG Delian1SUN Mingwei1ZHANG Hual TONG Jinjin1ZHANG Jie1 JIANG Linshu1\* XIONG Benhai2\*   
+(1. Key Laboratory for Dairy Cow Nutrition, College of Animal Science and Technology, Beijing   
+University of Agriculture, Beijing 102206, China; 2. Institute of Animal Science and Veterinary, Chinese Academy of Agricultural Sciences, Beijing 100193, China )
+
+Abstract: Plant extracts are plant-based materials that are chemically or physically oriented to gain and concentrate one or more active ingredients without changing composition of their active ingredients. In recent years,plant extracts have received widespread attention as natural fed additives.Plant extracts are also widely used in ruminant nutrition research and production. Based on the research progress at home and abroad, this article reviewed efects of plant extracts on immunity, antioxidative stress and insulin regulation in ruminants. Key words: plant extract; immune response; oxidative stress; insulin; ruminant

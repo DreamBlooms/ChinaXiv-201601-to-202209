@@ -1,0 +1,188 @@
+1 茶籽多糖和博落回生物碱对黄羽肉鸡肠道菌群的影响及博落回血根碱的抑菌活性
+
+2 胡贵丽　刘　靖　田　莎　宋泽和 　范志勇　张石蕊 　贺 喜\*（湖南农业大学动物科学技术学院，饲料安全与高效利用教育部工程研究中心，湖南畜禽安
+
+4 全生产协同创新中心，长沙 410128)  
+5 摘要：本试验旨在研究饲粮中添加茶籽多糖和博落回生物碱对黄羽肉鸡肠道菌群的影响及  
+6號 博落回血根碱的抑菌活性。选取1日龄健康黄羽肉鸡750羽，随机分为5个组，每组6个重  
+7 复，每个重复25只鸡。对照组饲喂基础饲粮，试验组分别在基础饲粮中添加抗生素（ $_ { 1 \sim 2 8 }$ 日  
+8 龄为 $1 0 \mathrm { m g / k g }$ 抗敌素， $2 9 \sim 5 6$ 日龄为 $5 \mathrm { m g / k g }$ 黄霉素；抗生素组）、茶籽多糖（ $0 . 0 4 \%$ ；多糖  
+9 组）、博落回生物碱（ $_ { 1 \sim 2 8 }$ 日龄为 $1 0 \mathrm { m g / k g }$ ， $2 9 \sim 5 6$ 日龄为 $2 0 \mathrm { m g / k g }$ ；博落回组）、茶籽多  
+10 糖 $0 . 0 4 \%$ ） $^ +$ 博落回生物碱（ $_ { 1 \sim 2 8 }$ 日龄为 $1 0 \mathrm { m g / k g }$ ， $2 9 \sim 5 6$ 日龄为 $2 0 \mathrm { m g / k g }$ ；多糖 $\dot { \cdot } +$ 博落回  
+11 组）。试验期56d。采用琼脂扩散纸片法和试管液体二倍稀释法分别测定博落回血根碱对金黄  
+12 色葡萄球菌、大肠杆菌、沙门氏菌和巴氏杆菌的抑菌效果和最低抑菌浓度（MIC）。结果表明：  
+13 多糖组、博落回组和多糖 $^ +$ 博落回组黄羽肉鸡的空肠绒毛高度/隐窝深度（V/C）显著高于对  
+14 照组 （ $P { < } 0 . 0 5$ ）。与对照组和抗生素组相比，多糖组、博落回组和多糖 $^ { \cdot } +$ 博落回组黄羽肉鸡  
+15 的空肠内容物中乳酸杆菌数量极显著升高（ $\cdot P { < } 0 . 0 1$ ）。博落回血根碱对金黄色葡萄球菌和巴  
+16 氏杆菌中度敏感，对大肠杆菌低度敏感，对沙门氏菌高度敏感。博落回血根碱对金黄色葡萄  
+17 球菌、大肠杆菌、巴氏杆菌和沙门氏菌的 MIC 分别为 25.00、25.00、12.50 和 $1 . 5 6 ~ \mu \mathrm { g / m L }$ 。  
+18 综上所述，饲粮中添加茶籽多糖和博落回生物碱均能替代抗生素，可有效改善黄羽肉鸡的空  
+19 肠形态结构，提高空肠中的乳酸杆菌数量，二者联合使用与单独添加效果相当；博落回血根  
+20 碱对沙门氏菌有较强的抑菌效果，其效果优于青霉素钠。
+
+关键词：茶籽多糖；博落回生物碱；肠道形态结构；抑菌活性；最小抑菌浓度
+
+中图分类号：S831
+
+23 在现代规模化养殖生产中，为了促进动物的快速生长，防治动物疾病，抗生素在畜禽生:4产中被广泛应用，甚至滥用。抗生素使用带来的抗生素残留、细菌耐药性等问题，给人类的生存环境和身体健康带来了巨大的威胁。鉴于滥用抗生素造成的危机，许多国家和地区都禁止或限制在饲料中添加抗生素。因此，开发绿色、高效、无污染的安全饲料添加剂成为当前养殖业发展的必然趋势。
+
+植物提取物具有绿色、无污染、低毒、易降解等特点，是一类最常用且具有巨大潜力的抗生素替代物，近年来得到了广泛的研究和应用。博落回生物碱具有较强的抗菌消炎作用[;而多糖能够促进自由基的清除，对动物机体的特异性免疫、非特异性免疫以及细胞免疫、体液免疫均有重要影响[2]。研究发现，博落回血根碱能抑制植物性细菌、霉菌和病毒的增殖[3]。郁建生报道，博落回注射液对禽巴氏杆菌、大肠杆菌和鸡白痢沙门氏菌具有较好的抑菌效果，对禽霍乱和仔猪白痢亦具有较好的治疗效果。孙波等[5研究发现，饲粮中添加黄芪多糖能降低49 日龄肉鸡盲肠中大肠杆菌和沙门氏菌数量，增加乳酸杆菌和双歧杆菌数量。但是，目前关于茶籽多糖和博落回生物碱对畜禽特别是肉鸡肠道健康的研究较少。因此，本试验旨在研究茶籽多糖和博落回生物碱对黄羽肉鸡肠道健康的影响及博落回血根碱的抑菌效果和最低抑菌浓度（MIC），为茶籽多糖和博落回生物碱在畜禽肠道健康上的研究及其在畜禽生产中的应用提供依据。
+
+1材料与方法
+
+1.1 试验材料
+
+博落回生物碱：总碱含量为 $70 \%$ ，其中血根碱占 $60 \%$ ，白屈菜红碱占 $20 \%$ ，由湖南中药提取工程研究中心提供；茶籽多糖：纯度为 $4 3 . 4 \%$ ，由湖南农业大学食品科技学院油脂教研室提供；博落回血根碱：纯度约为 $40 \%$ ，用 $20 \%$ 甲醇配制浓度为 $9 . 6 ~ \mathrm { m g / m L }$ 的溶液，由湖南中药提取工程研究中心提供；抗生素：前期为抗敌素，后期为黄霉素；青霉素钠：纯度为 $9 5 \%$ ，用 $20 \%$ 甲醇配制浓度为 $4 . 8 ~ \mathrm { m g / m L }$ 的溶液。试验菌株:金黄色葡萄球菌（Staphylococcus aureus）BNCC186335、大肠杆菌（Escherichiacoil）BNCC336953、沙门氏菌（Salmonella paratyphi $\beta$ ）BNCC103169、巴氏杆菌（Pasteurellamultocida）BNCC126487，均由湖南农业大学动物医学院提供。
+
+# 1.2 试验设计
+
+# 1.2.1 饲养试验
+
+选择同批次、遗传背景相同、发育正常的1日龄黄羽肉鸡750羽，随机分为5个组，每组6个重复，每个重复25只鸡。各组鸡的初始体重无显著差异（ $. P { > } 0 . 0 5$ ）。采用单因子随机试验设计，对照组饲喂基础饲粮，试验组分别在基础饲粮中添加抗生素（ $_ { 1 \sim 2 8 }$ 日龄为10$\mathrm { m g / k g }$ 抗敌素， $2 9 \sim 5 6$ 日龄为 $5 \mathrm { m g / k g }$ 黄霉素；抗生素组）、茶籽多糖（ $0 . 0 4 \%$ ；多糖组）、博落回生物碱 $( 1 \sim 2 8$ 日龄为 $1 0 \mathrm { m g } / \mathrm { k g } , 2 9 \mathrm { \sim } 5 6$ 日龄为 $2 0 \mathrm { m g / k g }$ ；博落回组）、茶籽多糖（ $0 . 0 4 \%$ $^ +$ 博落回生物碱（ $_ { 1 \sim 2 8 }$ 日龄为 $1 0 \mathrm { m g / k g }$ ， $2 9 \sim 5 6$ 日龄为 $2 0 \mathrm { m g / k g }$ ；多糖 $\mathrm { \dot { + } }$ 博落回组）。抗生素的添加符合我国现行法律法规规定。试验鸡采用粉料饲喂。试验期 $5 6 \mathrm { d }$ 。
+
+# 1.2.2 抑菌试验
+
+将已活化的4种细菌菌种分别接种于试管斜面培养基（蛋白陈 $\boldsymbol { 1 0 } \mathrm { g }$ ，牛肉膏 $\boldsymbol { 1 0 } \mathrm { g }$ ，氯化钠 $\boldsymbol { 5 } \mathrm { \textrm { g } }$ ，琼脂 $1 5 { \sim } 2 0 \ \mathrm { g }$ ，水 $1 0 0 0 { \mathrm { ~ m L } }$ ，灭菌前调 $\mathfrak { p H }$ 为 $7 . 2 { \sim } 7 . 4$ ，121 $\mathrm { { } ^ { \circ } C }$ 灭菌 $3 0 \mathrm { m i n }$ ），置恒温培养箱中 $3 7 \mathrm { ~ \textdegree C }$ 培养 $2 4 \mathrm { h }$ 。用接种环挑取一环菌体放入装有玻璃珠的生理盐水中，充分振摇，用血球记数板记数，调至 $1 0 ^ { 7 } { \sim } 1 0 ^ { 8 }$ 个 $/ \mathrm { m L }$ 。
+
+# 1.3 试验饲粮
+
+基础饲粮参照NRC（1994）和《鸡饲养标准》（NY/T33—2004）中的肉鸡营养需要，选用玉米、豆粕等原料配制而成，其组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平 (风干基础)
+
+<html><body><table><tr><td>Table 1</td><td>Compositionandnutrientlevelsofbasal diets(air-drybasis) %</td></tr><tr><td>项目Items</td><td>1~28日龄 29~56日龄</td></tr><tr><td></td><td>1 to 28 days of age 29 to 56 days of age</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>56.10 61.10</td></tr><tr><td>豆粕 Soybean meal</td><td>21.00 16.00</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>2.00 2.00</td></tr><tr><td>棉籽粕Cottonseedmeal</td><td>3.00 4.00</td></tr><tr><td>次粉 Wheat middlings</td><td>3.80 3.00</td></tr><tr><td>豆油 Soybean oil</td><td>0.40 1.00</td></tr><tr><td>米糠 Rice bran</td><td>2.60 1.80</td></tr><tr><td>玉米蛋白粉 Corn proteinmeal</td><td>7.00 7.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td></tr><tr><td>预混料 Premix1</td><td>3.80</td><td>3.80</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>12.34</td><td>12.55</td></tr><tr><td>粗蛋白质CP</td><td>21.00</td><td>19.00</td></tr><tr><td>钙Ca</td><td>1.00</td><td>0.90</td></tr><tr><td>有效磷 AP</td><td>0.45</td><td>0.35</td></tr><tr><td>赖氨酸Lys</td><td>1.10</td><td>1.00</td></tr><tr><td>蛋氨酸 Met</td><td>0.50</td><td>0.38</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of diets : $\mathrm { C u } 2 5 \mathrm { m g }$ Fe $9 6 ~ \mathrm { m g }$ ， $\mathrm { M n \ 1 0 5 . 4 \ m g }$ ， $\mathrm { 7 n 9 8 ~ m g }$ ， $\mathrm { N a } 0 . 9 \mathrm { m g }$ ，VA 12 000 IU, $\mathrm { V D } _ { 3 } 2 5 0 0 \mathrm { I U }$ ，VE $2 0 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 }$ $3 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 3 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 8 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 7 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 3 \mathrm { m g }$ ，泛酸 pantothenic acid $2 0 . 0 \mathrm { m g }$ 烟酸 niacin $5 0 . 0 \mathrm { m g }$ ，生物素 biotin $0 . 1 \mathrm { m g }$ ，叶酸 folic acid $1 . 5 \mathrm { m g }$ 。
+
+2’营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.4 饲养管理
+
+试验鸡舍选用开放式，采用高低床平养，光照为 $1 4 \mathrm { h }$ 光明： $1 0 \mathrm { { h } }$ 黑暗（ $1 4 \mathrm { L } { : } 1 0 \mathrm { D } \$ ）；1\~7日龄 $3 0 { \sim } 3 3 ~ ^ { \circ } \mathrm { C }$ 、 $8 { \sim } 1 4$ 日龄 $2 7 { \sim } 2 9 ^ { \circ } \mathrm { C }$ 、15\~21日龄 $2 4 { \sim } 2 6 ^ { \circ } \mathrm { C }$ 、22\~28日龄 $2 2 { \sim } 2 3 \ \mathrm { ~ \textdegree ~ }$ 、 $2 9 { \sim } 5 6$ 日龄 $2 0 { \sim } 2 1 ^ { \circ } \mathrm { C }$ ，保持正常温度，舍内采取锅炉控温，自然通风。定期打扫鸡舍卫生，相对湿度保持在 $5 5 \% { \sim } 6 5 \%$ ，自由饮水和采食，按常规程序免疫。
+
+1.5样品采集
+
+于 56 日龄早晨，分别从每个重复中选择1只接近该组平均体重的试验鸡，屠宰后取空肠内容物 $\mathrm { ~ 1 ~ g ~ }$ ，用于肠道微生物的测定；取2段 $2 \mathrm { c m }$ 长的空肠组织，用 $10 \%$ 甲醛溶液固定，用于肠道形态结构的测定。
+
+1.6测定指标与方法
+
+# 1.6.1 空肠形态结构
+
+将固定的标本经脱水 $$ 透明 $$ 浸蜡 $$ 包埋 $$ 修块 $$ 切片 $$ 展片 $$ 常规苏木精-伊红(HE)
+
+染色等处理后，制成石蜡切片；之后用100倍光镜（MoticAE67）随机选择多个非连续性视野观察切片，并挑选典型视野拍摄成图片，用DT2000通用图像分析软件2.0进行观察测量，测定空肠绒毛高度、隐窝深度，并计算绒毛高度/隐窝深度（V/C）。
+
+1.6.2空肠内容物中大肠杆菌和乳酸杆菌数量
+
+在无菌操作台中称取 $0 . 5 \mathrm { \ g }$ 左右的空肠内容物置于无菌试管中，加入无菌稀释液（生理盐水） $4 . 5 ~ \mathrm { m L }$ ，在磁力振荡器上振荡 $3 \mathrm { \sim } 5 \mathrm { m i n }$ ，此液为 $1 0 ^ { - 1 }$ 倍稀释液；离心后吸取上清液$0 . 5 ~ \mathrm { m L }$ 加入盛有 $4 . 5 \mathrm { m L }$ 无菌稀释液的另一个试管中进行 $1 0 ^ { - 2 }$ 倍稀释；然后继续用无菌稀释液进行系列稀释（ $1 0 ^ { - 3 } \sim 1 0 ^ { - 5 }$ ）。分别从 $1 0 ^ { - 3 }$ 、 $1 0 ^ { - 4 }$ 、 $1 0 ^ { - 5 }$ 倍稀释溶液中取 $0 . 1 ~ \mathrm { m L }$ 接种到各培养基上，用涂布棒进行涂板。大肠杆菌采用伊红美蓝培养基（北京陆桥技术股份有限公司）培养， $3 7 ^ { \circ } \mathrm { C }$ 有氧培养 $2 4 \mathrm { h }$ 后计数；乳酸杆菌采用乳酸杆菌培养基（北京陆桥技术股份有限公司）培养， $3 7 ^ { \circ } \mathrm { C }$ 厌氧培养 $4 8 \mathrm { h }$ 后计数。样品菌落数计算公式如下：
+
+菌落数 $( \uparrow \uparrow ) = 1 \mathrm { g } [ \$ （菌落数 $\times$ 稀释倍数 $\times { \frac { 5 { \mathrm { m L } } } { 0 . 1 { \mathrm { m L } } } }$ /0.5 g]
+
+# 1.6.3 抑菌活性
+
+抑菌活性定性试验：采用琼脂扩散纸片法测定。倒好平板后，用灭菌棉签沾取菌悬液，涂满整个平板，倒置，干 $2 0 \mathrm { m i n }$ ；用镊子夹取滤纸片（己干热灭菌、直径 $7 \mathrm { m m }$ )在待测液中浸湿，吸去多余的液体，顺次放在含菌平板上，每个平板各种待测物滤纸片各1片， $20 \%$ 甲醇溶剂对照滤纸片1片；细菌于 $3 7 ^ { \circ } \mathrm { C }$ 培养 $1 8 { \sim } 2 4 \mathrm { h }$ ，测定平皿内抑菌圈直径 $( D$ ），重复4次。抑菌效果判断标准为： $D { \leqslant } 8 \mathrm { m m }$ 为不敏感； $8 { < } D { \leqslant } 1 3 ~ \mathrm { m m }$ 为低度敏感； $1 3 < D { \leqslant } 1 8 \ \mathrm { m m }$ 为中度敏感;$D { > } 1 8 \mathrm { m m }$ 为高度敏感。
+
+MIC 测定：采用试管液体二倍稀释法进行测定。将药液试管进行2倍稀释至第24管，每管加入菌液使其浓度为 $1 0 ^ { 5 } \mathrm { C F U / m L }$ ，同时平行进行前23管阴性和第24管阳性对照。于 $3 7 ^ { \circ } \mathrm { C }$ 恒温培养箱内培养 $2 4 \mathrm { h }$ ，以目测法和对照组比较法判断结果，以完全无细菌生长的最低药物浓度作为细菌对该药物的敏感度，即为该药物MIC。相同过程重复3次，求平均值。
+
+# 1.7数据处理与统计分析
+
+试验数据用Excel2007软件进行初步处理后，采用 SPSS16.0软件的one-wayANOVA程序进行系统分析，组间差异显著者则采用Duncan 氏法进行多重比较， $P { < } 0 . 0 5$ 为差异显著，$P { < } 0 . 0 1$ 为差异极显著。试验结果以"平均值 $\pm$ 标准差"表示。
+
+2结果
+
+2.1 空肠形态结构
+
+由表2可知，与对照组和抗生素组相比，多糖组、博落回组和多糖 $^ { \cdot } +$ 博落回组黄羽肉鸡的空肠绒毛高度和隐窝深度无显著差异（ $P { > } 0 . 0 5$ ）。多糖组、博落回组和多糖 $^ +$ 博落回组的空肠V/C 显著高于对照组（ $P { < } 0 . 0 5$ ），与抗生素组无显著差异（ $P { > } 0 . 0 5$ ）；空肠V/C在多糖组、博落回组和多糖 $\dot { \cdot } +$ 博落回组之间无显著差异（ $. { \cal P } { > } 0 . 0 5$ ）。
+
+表2茶籽多糖和博落回生物碱对黄羽肉鸡空肠绒毛高度和隐窝深度的影响
+
+Table 2Effects of tea seed polysaccharide and Macleaya cordata alkaloids on villus height and crypt depth of jejunum of yellow-feathered broilers   
+
+<html><body><table><tr><td rowspan="2">组别 Groups</td><td>绒毛高度</td><td>隐窝深度</td><td>绒毛高度/隐窝深度</td></tr><tr><td>Villus height/μm</td><td>Crypt depth/μm</td><td>Villus height/crypt depth</td></tr><tr><td>对照组 Control group</td><td>797.75±13.59</td><td>216.88±11.80</td><td>3.69±0.19b</td></tr><tr><td>抗生素组 Antibiotic group</td><td>811.04±10.77</td><td>209.63±7.43</td><td>3.87±0.11a</td></tr><tr><td>多糖组Polysaccharide group</td><td>812.55±13.67</td><td>207.27±8.45</td><td>3.92±0.14a</td></tr><tr><td>博落回组 Macleaya cordata group</td><td>815.11±14.54</td><td>206.76±8.48</td><td>3.94±0.16a</td></tr><tr><td>多糖+博落回组</td><td></td><td></td><td></td></tr><tr><td>Polysaccharide+Macleaya cordata</td><td>812.03±17.89</td><td>208.16±8.90</td><td>3.90±0.11a</td></tr><tr><td>group</td><td></td><td></td><td></td></tr><tr><td>P值 P-value</td><td>0.270</td><td>0.323</td><td>0.032</td></tr></table></body></html>
+
+同列数据肩标相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ），不同小写字母表示差异显著（ $\cdot P { < } 0 . 0 5$ ），不同大写字母表示差异极显著（ $\scriptstyle \cdot < 0 . 0 1$ ）。下表同。
+
+In the same column,values with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference （20 $( P { < } 0 . 0 5 )$ ，and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ .The same as below.
+
+2.2空肠内容物中大肠杆菌和乳酸杆菌数量由表3可知，多糖组、博落回组和多糖 $+$ 博落回组黄羽肉鸡的空肠内容物中大肠杆菌数量与对照组和抗生素组相比无显著差异（ $P { > } 0 . 0 5$ ），但均低于对照组。与对照组和抗生素组相比，多糖组、博落回组和多糖 $^ +$ 博落回组的空肠内容物中乳酸杆菌数量极显著升高( $_ { - P < 0 . 0 1 ) }$ 但多糖组、博落回组和多糖 $^ { \cdot + }$ 博落回组之间无显著差异（ $P { > } 0 . 0 5 \$ ）。
+
+表3　茶籽多糖和博落回生物碱对黄羽肉鸡空肠内容物中大肠杆菌和乳酸杆菌数量的影响
+
+Table 3Effects of tea seed polysaccharide and Macleaya cordata alkaloids on the numbers of Escherichia coil and Lactobacillus of jejunal contents of yellow-feathered broilerslg(CFU/g)   
+
+<html><body><table><tr><td>组别 Groups</td><td>大肠杆菌Escherichia coli</td><td>乳酸杆菌Lactobacillus</td></tr><tr><td>对照组 Control group</td><td>7.27±0.03</td><td>8.04±0.02Bb</td></tr><tr><td>抗生素组 Antibiotic group</td><td>7.24±0.02</td><td>8.07±0.03Bb</td></tr><tr><td>多糖组Polysaccharide group</td><td>7.24±0.01</td><td>8.10±0.02Aa</td></tr><tr><td>博落回组 Macleaya cordata group</td><td>7.23±0.04</td><td>8.11±0.02Aa</td></tr><tr><td>多糖+博落回组</td><td></td><td></td></tr><tr><td>Polysaccharide+Macleaya cordata group</td><td>7.24±0.04</td><td>8.10±0.03Aa</td></tr><tr><td>P值 P-value</td><td>0.295</td><td><0.001</td></tr></table></body></html>
+
+# 2.3博落回血根碱的抑菌效果
+
+由表4可知，博落回血根碱对4种试验菌株的抑菌圈直径分别为14、13、22 和 $1 8 ~ \mathrm { m m }$ 结果表明，博落回血根碱对金黄色葡萄球菌和巴氏杆菌中度敏感，对大肠杆菌低度敏感，对沙门氏菌高度敏感。与青霉素钠相比，博落回血根碱除对巴氏杆菌的抑菌效果较弱之外，对其他3种试验菌株的抑菌效果都有不同程度的增强，特别是沙门氏菌。
+
+表4博落回血根碱对试验菌株的抑菌圈直径  
+Table 4 Antibacterial circle diameter of Macleaya cordata sanguinarine on test bacteria mm   
+
+<html><body><table><tr><td></td><td colspan="4">试验菌种 Test bacteria</td></tr><tr><td>项目Items</td><td>金黄色葡萄球菌</td><td></td><td>沙门氏菌</td><td>巴氏杆菌</td></tr><tr><td></td><td>Staphylococcus aureus</td><td>大肠杆菌 Escherichiacoil</td><td>Salmonella</td><td>Pasteurella</td></tr><tr><td></td><td></td><td></td><td>paratyphi β</td><td>multocida</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>青霉素钠 Penicillin</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>13</td><td>11</td><td>13</td><td>36</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="4">sodium</td></tr><tr><td>博落回血根碱</td><td></td><td></td><td></td></tr><tr><td>Macleaya cordata</td><td>14</td><td>13</td><td>22 18</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>sanguinarine</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.4博落回血根碱的 MIC
+
+由表5可知，博落回血根碱对金黄色葡萄球菌和大肠杆菌的MIC 均为 $2 5 . 0 0 ~ \mu \mathrm { g / m L }$ ，对巴氏杆菌的MIC 为 $1 2 . 5 0 ~ \mu \mathrm { g / m L }$ ，对沙门氏菌的 MIC 为 $1 . 5 6 ~ \mu \mathrm { g / m L }$ ，说明博落回血根碱对沙门氏菌的抑菌效果较好。与青霉素钠相比，博落回血根碱对金黄色葡萄球菌和巴氏杆菌的MIC 较高。
+
+表5博落回血根碱对试验菌株的MIC  
+Table 5Minimum inhibitory concentration of Macleaya cordata sanguinarine on test bacteria   
+
+<html><body><table><tr><td colspan="5">μg/mL</td></tr><tr><td rowspan="3">项目Items</td><td colspan="4">试验菌种 Testbacteria</td></tr><tr><td>金黄色葡萄球菌</td><td>大肠杆菌</td><td>沙门氏菌</td><td>巴氏杆菌</td></tr><tr><td>StapHylococcus aureus</td><td>Escherichia coil</td><td>Salmonella paratyphi β</td><td>Pasteurella multocida</td></tr><tr><td>青霉素钠 Penicillin</td><td>12.50</td><td>25.00</td><td>6.25</td><td>5.00</td></tr><tr><td>sodium 博落回血根碱</td><td></td><td></td><td></td><td></td></tr><tr><td>Macleaya cordata</td><td>25.00</td><td>25.00</td><td>1.56</td><td>12.50</td></tr><tr><td>sanguinarine</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+3.1茶籽多糖和博落回生物碱对黄羽肉鸡空肠形态结构的影响
+
+小肠绒毛高度和隐窝深度与肠道的消化吸收功能密切相关，小肠发育越完善，对营养物质的消化吸收就越好[6]。绒毛高度增加，密度增大，成熟的上皮细胞增多，小肠的吸收面积增大，吸收能力增强[7]。隐窝变浅，肠上皮细胞成熟率上升，分泌功能增强[8]。V/C 综合反映小肠功能状况，比值上升，肠道黏膜结构改善，消化吸收能力增强。戴波9研究发现，饲粮中添加0.5和 $1 . 0 \mathrm { m g / k g }$ 血根碱能预防和治疗仔猪腹泻。博落回生物碱中血根碱具有抗菌和抗炎作用，肠道绒毛受损时能直接作用于绒毛并修复绒毛，从而调节肠道健康[0]。本试验结果显示，各组黄羽肉鸡的空肠绒毛高度和隐窝深度无显著差异；多糖组、博落回组和多糖 $+$ 博落回组的空肠V/C 显著高于对照组，与抗生素组无显著差异。这表明饲粮中添加茶籽多糖和博落回生物碱改善空肠黏膜结构的作用与抗生素相当，可以有效促进营养物质的消化吸收，从而提高动物的生产效率，而茶籽多糖和博落回生物碱的联合使用与单独添加效果一致。
+
+3.2茶籽多糖和博落回生物碱对黄羽肉鸡空肠内容物中大肠杆菌和乳酸杆菌数量的影响微生物、动物机体和环境是一种相互依存的关系，微生态平衡状态下，肠道中正常的微生物菌群能改善肠道结构和功能，增强肠道免疫功能和抵抗疾病能力[1]。肠道微生物菌群可为重要的淋巴细胞亚群的发育提供信号，维护肠道T、B细胞的发育；也可以通过影响辅助性T 细胞1（Th1）和辅助性T细胞2（Th2）效应细胞比率进而影响全身性免疫应答[12]。外源性添加物质可以改变肠道微生物的组成。Lee 等[13]研究显示，饲粮中添加 $2 0 \mathrm { m g / k g }$ 血根碱能显著提高肉鸡盲肠内容物中乳酸杆菌数量。本试验结果显示，饲粮中添加茶籽多糖和博落回生物碱对黄羽肉鸡空肠内容物中大肠杆菌数量无显著影响，但极显著提高空肠内容物中乳酸杆菌数量。袁钟宇等[14研究发现，茶籽多糖对肉鸡盲肠中的大肠杆菌具有抑制作用，作用效果与抗生素相当。本试验结果与之相一致，结果显示，饲粮中添加茶籽多糖降低肉鸡空肠内容物中的大肠杆菌数量，但差异不显著，与抗生素的效果相当。本试验结果亦表明，饲粮中添加茶籽多糖和博落回生物碱对空肠内容物中大肠杆菌和乳酸杆菌的作用效果与单独添加茶籽多糖或博落回生物碱效果一致。这表明博落回生物碱和茶籽多糖可能通过促进肠道有益菌的增殖，从而直接或间接抑制有害菌的生长，改善肠道菌群平衡，而二者联合使用并没有起到拮抗作用和叠加作用。
+
+# 3.3博落回血根碱的抑菌活性
+
+博落回最早是作为植物源农药使用，其有效成分为天然物质，使用后易降解，对环境污染小，且病虫对其不易产生抗药性。赵东亮等[15]研究发现，博落回生物碱对金黄色葡萄球菌、四连球菌和枯草芽孢杆菌具有较强的抑菌效果，对大肠杆菌无效果；血根碱对金黄色葡萄球菌、四连球菌、枯草芽孢杆菌和蜡样芽孢杆菌的抑菌效果较强，对大肠杆菌效果较弱。
+
+郁建平等[16]研究发现，博落回总碱对毛霉的抑菌效果较好，而盐酸血根碱对根霉、黄曲霉、黑曲霉、米曲霉、毛霉和木霉的抑菌效果较强，对青霉和酵母的抑菌效果较弱。本试验研究发现，博落回血根碱对大肠杆菌低度敏感，这与本试验的体内试验结果相一致；博落回血根碱对金黄色葡萄球菌和巴氏杆菌中度敏感，对沙门氏菌高度敏感。王朝元等[17试验发现，博落回生物碱对金黄色葡萄球菌的抑菌效果较好，与本试验结果相似。而李美奎等[18]研究显示，随着博落回生物碱（生物总碱含量为 $64 \%$ ，其中血根碱含量为 $45 \%$ ，白屈菜红碱含量为 $1 9 \%$ ）浓度的增加，其对金黄色葡萄球菌、沙门氏菌、大肠杆菌和枯草芽孢杆菌的抑制效果增强，抑制效果为金黄色葡萄球菌 $>$ 枯草芽孢杆菌 $\mathrm { \dot { ~ } } >$ 大肠杆菌 $\mathrm { > }$ 沙门氏菌。这与本试验的结果有不同之处，可能是由于博落回生物碱中有效成分含量的不同所产生的差异。本试验结果发现，博落回血根碱对金黄色葡萄球菌和大肠杆菌的MIC 均为 $2 5 \mu \mathrm { g / m L }$ ；对巴氏杆菌的MIC为 $1 2 . 5 ~ \mu \mathrm { g / m L }$ ，对沙门氏菌的 MIC 为 $1 . 5 6 ~ \mu \mathrm { g / m L }$ ，说明博落回血根碱对金黄色葡萄球菌和巴氏杆菌的抑菌效果较弱，对沙门氏菌的抑菌效果较强，抑菌活性强于青霉素钠。
+
+4结论
+
+$\textcircled{1}$ 饲粮中添加茶籽多糖和博落回生物碱能够改善黄羽肉鸡的空肠形态结构，其作用效果与抗生素相当。$\textcircled{2}$ 饲粮中添加茶籽多糖和博落回生物碱能显著增加空肠内容物中乳酸杆菌数量，二者联合使用与单独添加效果相当，且效果均优于抗生素，说明茶籽多糖和博落回生物碱均能替代抗生素。$\textcircled{3}$ 博落回血根碱对沙门氏菌的抑菌效果较强，优于青霉素钠，MIC 为 $1 . 5 6 ~ \mu \mathrm { g / m L }$ 。参考文献:[1]周婉,印丽娟,贺安娜.博落回生物碱及药理作用研究进展[C]//全国第六届(2015)侗族医药学术研讨会暨侗族医药理论培训会论文集.贵州:中国民族医药学会,2015.[2]张彬,薛立群,李丽立,等.多糖对动物免疫调控的作用及其机理[J].家畜生态学报,2008,29(1):1-5.[3]荀兰.民间草药博落回的药用与化学成份[J].兴义民族师范学院学报,2006,(4):92-94.[4]郁建生.博落回制剂对禽霍乱、仔猪白痢的对比治疗试验[J].黑龙江畜牧兽医,2007,(2):91-93.
+
+[5]孙波,陈静,刘江,等.饲料中添加黄芪多糖对肉鸡肠道菌群及免疫器官指数的影响[J].黑龙江畜牧兽医,2014,(7):86-88.  
+[6]郭航,王永军,谢鹏,等.日粮添加二氢杨梅素对肉仔鸡肠黏膜形态结构、碱性磷酸酶及生产性能的影响[J].中国饲料,2008,(6):19-22.  
+[7]戴必胜,蒋林,陈少雄.中草药和芦荟多糖对肉仔鸡肠道微生态、免疫功能及生产性能的影响[J].中国家禽,2007,29(16):21-24.  
+[8]EWTUSHIK A L,BERTOLO R F P,BALL R O.Intestinal development of early-weanedpiglets receiving diets supplemented with selected amino acids or polyamines[J].Canadian Journalof Animal Science,2000,80(4):653-662.  
+[9]戴波.血根碱对断奶仔猪生产性能的影响及腹泻防治效果的研究[D].硕士学位论文.长沙:湖南农业大学,2015.  
+[10]LENFELD J,KROUTIL M,MARSALEK E,et al.Antinflammatory activity of quaternarybenzophenanthridine alkaloids from Chelidonoum majus[J].Planta Medica,1981,43(10):161-165.[11] 张文飞,刘苹苹,管武太,等.饲粮中添加卵黄抗体对断奶仔猪生长性能、血清生化指标、肠道形态及肠道微生物菌群的影响[J].动物营养学报,2017,29(1):271-279.  
+[12]VAN DER HORSTY,ESCUREDOJAM,BOUWENS M.控制肠道微生物菌群以扶持动物的免疫力[J].王晶晶,译.国外畜牧学:猪与禽,2016,36(7):11-12.  
+[13]LEE K W,KIM J S,OH ST,et al.Efectsof dietary sanguinarine ongrowthperformance,relative organ weight,cecal microflora,serum cholesterol level and meat quality inbroiler chickens[J].Journal of Poultry Science,2015,52(1):15-22.  
+[14]袁钟宇,张石蕊,贺喜,等.茶籽多糖及茶皂素对肉鸡生长性能和肠道微生物的影响[J].中国畜牧杂志,2010,46(7):28-31.  
+[15]赵东亮,郁建平,周晓秋,等.博落回生物碱的抑菌作用研究[J].食品科学,2005,26(1):45-47.  
+[16] 郁建平,赵东亮,孟祥斌,等.博落回生物碱对八种真菌的抑菌作用研究[J].贵州大学学报（自然科学版）,2006,23(1):77-80.  
+[17]王朝元,童胜兰,胡鑫.博落回生物碱成分及其抗菌活性的研究[J].中南民族大学学报（自
+
+然科学版),2015,34(1):39-42.
+
+[18]李美荃,张春勇,满意,等.博落回提取物在仔猪生产中的应用效果研究[J].家畜生态学   
+报,2013,34(9):50-55. Effects of Tea Seed Polysaccharide and Macleaya cordata Alkaloids on Intestinal Flora of Yellow-Feathered Broilers and Antimicrobial Activity of Macleaya cordata Sanguinarine HU Guili LIU Jing TIAN Sha SONG Zehe FAN Zhiyong ZHANG Shirui HE Xi\* (Hunan Co-Innovation Center of Animal Production Safety, Engineering Research Center of Feed Safety and Efficient Use of Ministry of Education, College of Animal Science and Technology, Hunan Agricultural University, Changsha 410128, China)   
+Abstract: This experiment was conducted to investigate the effects of dietary tea seed   
+polysaccharide and Macleaya cordata alkaloids on intestinal flora of yellow-feathered broilers and   
+antimicrobial activity of Macleaya cordata sanguinarine. A total of 75O 1-day-old healthy   
+yellw-feathered broilers were randomly alocated to 5 groups with 6 replicates per group and 25   
+broilers per replicate.Broilers in control group were fed a basal diet， and the others in   
+experimental groups were fed the basal diets supplemented with antibiotic ( $1 0 ~ \mathrm { m g / k g }$ colistin at 1   
+to 28 days of age and $5 ~ \mathrm { m g / k g }$ flavomycin at 29 to 56 days of age,antibiotic group), tea seed   
+polysaccharide $( 0 . 0 4 \%$ ， polysaccharide group), Macleaya cordata alkaloids ( $\mathrm { 1 0 ~ m g / k g }$ at 1 to 28   
+days of age and $2 0 \mathrm { \ m g / k g }$ at 29 to 56 days of age, Macleaya cordata group)， tea seed   
+polysaccharide $( 0 . 0 4 \% )$ and Macleaya cordata alkaloids ( $1 0 ~ \mathrm { m g / k g }$ at 1 to 28 days of age and 20   
+（204号 $\mathrm { m g / k g }$ at 29 to 56 days of age, polysaccharide+Macleaya cordata group).The experiment lasted   
+for 56 days. Antibacterial effects and minimum inhibitory concentration (MIC) of Macleaya   
+cordata sanguinarine on Staphylococcus aureus， Escherichia coil, Salmonella paratyphi $\beta$ and   
+Pasteurella multocida were determined by agar diffusion paper method and double dilution method   
+of test tube liquid, respectively. The results showed that: the ratio of villus height to crypt depth   
+(V/C) of jejunum of yellow-feathered broilers in polysaccharide group, Macleaya cordata group and polysaccharide+Macleaya cordata group was significantly higher than that in control group $( P { < } 0 . 0 5 )$ . Compared with control group and antibiotic group,the number of Lactobacillus in jejunal contents of yellow-feathered broilers in polysaccharide group, Macleaya cordata group and polysaccharide+Macleaya cordata group was significantly increased $( P { < } 0 . 0 1 )$ . Macleaya cordata sanguinarine was medium sensitive to Staphylococcus aureus and Pasteurella multocida, and was low sensitive to Escherichia coli and highly sensitive to Salmonella paratyphi $\beta$ .MIC of Macleaya cordata sanguinarine on Staphylococcus aureus, Escherichia coli, Pasteurella multocida and Salmonella paratyphi $\beta$ were 25.00,25.00,12.50 and $1 . 5 6 ~ \mu \mathrm { g / m L }$ ,respectively. In conclusion, dietary tea seed polysaccharide and Macleaya cordata alkaloids can both replace antibiotic, can effectively improve jejunal morphological structure, increase the number of Lactobacilus in jejunum of yelow-feathered broilers,and combined effects is equivalent to individual addition effects. Macleaya cordata sanguinarine has strong antibacterial effects on Salmonella paratyphi $\beta$ and the effects are superior to that of penicillin sodium.   
+Key words: tea seed polysaccharide ； Macleaya cordata alkaloids； intestinal morphological structure; antimicrobial activity; minimum inhibitory concentration

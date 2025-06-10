@@ -1,0 +1,362 @@
+# 时延多智能体系统领导跟随一致性研究
+
+张振华，彭世国(广东工业大学自动化学院,广州510006)
+
+摘要：为符合实际情形，针对不确定与随机发生非线性的多智能体系统，研究了有时延且网络拓扑切换时系统的领导跟随一致性。传统协议通常保守的假设邻接个体间通信时延与个体和领导者间通信时延大小相同，新协议中上述时延可以大小不同。相比于传统方法，新颖的将复杂网络同步问题研究领域对时延的处理方法引入到多智能体系统一致性问题的研究中，利用一类推广的Halanay不等式，给出系统实现领导跟随一致性需满足的两个与时延无关的充分条件,即时延在相关参数满足定理条件的前提下不影响系统最终实现一致性。相比其他方法得到的含有时延的判定条件，本研究结果保守性更低，实例仿真验证了新协议的可行性。
+
+关键词：脉冲控制；通信时延；多智能体系统；领导跟随一致性 中图分类号：TN915.04 doi: 10.3969/j.issn.1001-3695.2017.11.0789
+
+# Research on leader-following consensus of multi-agent systems with time delays
+
+Zhang Zhenhua, Peng Shiguo (School of Automation Guangdong University of Technology, Guangzhou 51oo06, China)
+
+Abstract: To make research results morerealistic,this paper studiedtheconsensus ofmulti-agent systems with uncertainties andrandomlyoccurringnonlinearitiesandtimedelayviaimpulsivecontrol with topologyswitching.Inthetraditionalprotocol, it is usuallyasumed thatthecommunication delay between adjacent individuals is the sameas thecommunication delay betweenindividualandleader,butthis isconservative.Inthenewprotocol,thesizeofdelayabovecanbedifferent.Compared with traditional research methods,the approach that deals with the delay in complex network synchronization research is introduced into theresearch of consensus of multi-agent systems.Using a generalized Halanay inequality,two sufficient conditions which are notrelated to the delay are given to meet the leader-folowing consensus of systems with topology switching,in other words,the delaydoesnot afect thefinal consensus of system whentherelevant parameterssatisfy the theorem'sconditions.Compared with the decisionconditions with delayonother methods,theresultsofthis studyare les conservative.The numerical simulation verifies the feasibility of the new protocol.
+
+Key words: impulsive control; communication delay; multi-agent systems; leader-following consensus
+
+# 0 引言
+
+进入新世纪以来，自动化与人工智能逐渐成为控制学界的发展潮流。其中，对多智能体系统一致性问题的研究引起人们越来越多的关注并广泛应用于社会生活中，譬如飞行器与机器人的编队控制[1-3]、交通控制[4]、生产销售网络[5]、经济网络[6]、商业管理[7]等。
+
+实际应用中，多智能体系统中个体状态一般呈非线性变化且这种变化因物理条件限制有时是随机出现的，文献[8，9]对这类随机发生非线性行为的多智能体系统的一致性进行了研究，通常是基于混沌系统与神经网络模型。同时，多智能体系统个体间或个体与领导者间通信一般存在时延[10-14]。文献[13]基于随机发生非线性行为的神经网络模型研究了时延存在时系统的稳定性。文献[14]则基于复数复杂网络，利用Halanay不等式的性质研究了脉冲控制下时变时延与随机扰动共同作用下的指数同步问题，给出具体的同步准则。近年来，关于非线性系统一致性问题的研究不断出现,但很少涉及不确定和随机发生非线性行为的多智能体系统，实际应用中此类系统较为常见。此外，相较于传统的连续性控制，脉冲控制具有控制灵活、成本低、适用性强等优点，被广泛应用于多智能体系统一致性问题的研究中[10,11,14-16]。文献[16]采用脉冲控制对不确定和随机发生非线性行为的一阶多智能体系统的领导跟随一致性进行了研究，但并未考虑系统拓扑切换与通信时延同时存在时系统的一致性问题，具有一定的应用局限性。
+
+针对此问题，受文献[16]等启发，本文给出几个假设条件下该问题的初步解决方案，考虑了不确定与随机发生非线性行为的二阶多智能体系统脉冲时刻存在通信时延且拓扑切换下的领导跟随一致性。本文工作有如下创新：一方面，相较于文献[10-13:14]中脉冲协议的保守性，新协议考虑了个体间的通信时延大小不同于个体与领导者间的通信时延的实际情况；另一方面，当时延存在时，文献[16]原有的研究方法已不再适用。受文献[14]启发，新颖的将复杂网络同步问题研究领域对时延的处理方法引入到不确定与随机发生非线性行为的二阶多智能体系统领导跟随一致性的研究中。由于随机性的存在，在文献[14]中Halanay不等式的基础上引入数学期望 $E ( \cdot )$ ，对原有不等式作推广得到引理4，再利用该引理给出时延系统与领导者状态保持一致所必须满足的与时延无关的充分条件。针对一个时延多智能体系统，采用不同算法可以给出不同的实现领导跟随一致性需要满足的判定条件。一般存在两种结果：一是用构造Lyaounov泛函的方法[2]，给出与时延有关的判定结果从而得出时延大小对系统收敛性的影响；二是得到的判定条件与时延无关（例如本文算法，构造Lyaounov函数），即时延在相关参数满足定理条件的前提下不影响系统最终实现领导跟随一致性。相比于构造Lyaounov泛函的方法所得到的判定条件，本文研究结果具有更低的保守性。最后通过实例仿真验证了本文方法与新协议的有效性。同时，领导者与各智能体间的通信连接是随拓扑切换而同步动态变化的，即领导者是积极领导者。
+
+# 1 预备知识
+
+# 1.1 图论
+
+有 $N$ 阶无向网络拓扑图 $G = ( R , V , A )$ ，图中节点集合用$R = \left\{ R _ { 1 } , . . . , R _ { N } \right\}$ 表示，两节点间连线构成的边用集合$V = \{ ( V _ { i } , V _ { j } ) : i , j \in R \} \subset R \times R$ 表示。 $A = [ a _ { i j } ]$ 表示邻接矩阵,若节点 $i$ 与 $j$ 是连接的，则令元素 $a _ { i j } = 1$ ，取值为0表示两点间没有连接。一般地，定义出度矩阵 $D = d i a g ( d _ { i } , i = 1 , 2 , . . . , N )$ 且$d _ { i } = \sum _ { j = 1 } ^ { N } a _ { i j }$ ，则Laplacian矩阵 $L = D - A = [ l _ { i j } ]$ ，且$l _ { i j } = \left\{ \begin{array} { l l } { - a _ { i j } , i \neq j } \\ { - \displaystyle \sum _ { j = 1 , j \neq i } ^ { N } l _ { i j } , i = j } \end{array} \right. ^ { \circ }$
+
+针对由一个领导者( $R _ { 0 }$ )与 $N$ 个智能体组成的多智能体系统,令连接矩阵 $B = d i a g ( b _ { 1 } , b _ { 2 } , . . . , b _ { N } ) \in R ^ { N \times N }$ 。 $b _ { i } ( i = 1 , 2 , . . . . , N )$ 表示领导者与跟随者间的连接权值， $b _ { i } = 1$ 时表示该智能体能够接收领导者传递的信息， $b _ { i } = 0$ 时则不能。
+
+若领导者与跟随者的通信连接随拓扑切换而同步变化，则称之为积极领导者[I]。
+
+# 1.2相关引理
+
+引理1 若任意向量 $x , y \in R ^ { n }$ ，矩阵 $P \in R ^ { n \times n }$ ，则可得 $x ^ { T } P y \leq { \frac { 1 } { 2 } } ( x ^ { T } x + y ^ { T } P ^ { T } P y ) \ _ { \circ }$ （20
+
+引理 $\pmb { 2 } ^ { [ 1 7 ] }$ 对任意对称矩阵 $Q \in { \cal R } ^ { n \times n }$ 与任意向量 $x \in R ^ { n }$ ，可得 $\lambda _ { \operatorname* { m i n } } ( Q ) x ^ { T } x \leq x ^ { T } Q x \leq \lambda _ { \operatorname* { m a x } } ( Q ) x ^ { T } x$ 9
+
+引理 $\pmb { 3 } ^ { [ 1 8 ] }$ 对任意向量 $x , y \in R ^ { n }$ ，实数 $\varepsilon > 0$ ，正定Hermit矩阵 $H \in R ^ { n \times n }$ ，存在不等式： $x ^ { T } H y + y ^ { T } H x \leq \varepsilon x ^ { T } H x + \varepsilon ^ { - 1 } y ^ { T } H y$ 。
+
+引理4 基于文献[14]，得到脉冲微分不等式(一类Halanay不等式的推广):
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { E ( D ^ { + } V ( t ) ) \leq a E ( V ( t ) ) + b _ { 1 } E ( \left[ V ( t ) \right] _ { \tau _ { 1 } } ) + b _ { 2 } E ( \left[ V ( t ) \right] _ { \tau _ { 2 } } ) } \\ { \qquad + \cdots + b _ { h } E ( \left[ V ( t ) \right] _ { \tau _ { h } } ) , t \neq t _ { k } , t \geq t _ { 0 } . } \\ { E ( V ( t _ { k } ^ { + } ) ) \leq p _ { k } E ( V ( t _ { k } ^ { - } ) ) + q _ { k } ^ { 1 } E ( \left[ V ( t _ { k } ^ { - } ) \right] _ { \sigma _ { 1 } } ) + q _ { k } ^ { 2 } E ( \left[ V ( t _ { k } ^ { - } ) \right] _ { \sigma _ { 2 } } ) } \\ { \qquad + \cdots + q _ { k } ^ { r } E ( \left[ V ( t _ { k } ^ { - } ) \right] _ { \sigma _ { r } } ) , k \in N _ { + } . } \\ { E ( V ( t ) ) = E ( \varphi ( t ) ) , t \in [ t _ { 0 } - \tau , t _ { 0 } ] . } \end{array} \right. } \end{array}
+$$
+
+$$
+\mid p _ { k } + \sum _ { i = 1 } ^ { r } q _ { k } ^ { i } < 1 \mid _ { \circ } \quad a + \frac { \sum _ { i = 1 } ^ { h } b _ { i } } { p _ { k } + \sum _ { i = 1 } ^ { r } q _ { k } ^ { i } } + \frac { \ln ( p _ { k } + \sum _ { i = 1 } ^ { r } q _ { k } ^ { i } ) } { t _ { k + 1 } - t _ { k } } < 0 \mid _ { \circ } \mathrm { ~ , ~ }
+$$
+
+那么存在实数 $\xi > 1$ ， $\lambda > 0$ 使 $E ( V ( t ) ) \leq \left\| \varphi \right\| _ { \tau } \xi e ^ { - \lambda ( t - t _ { 0 } ) } , t \geq t _ { 0 }$ 其中$\begin{array} { r } { \left. \varphi \right. _ { \tau } = \operatorname* { s u p } _ { t _ { 0 } - \tau \leq s \leq t _ { 0 } } \left. \varphi ( s ) \right. , \tau = \operatorname* { m a x } \big \{ \tau _ { i } , \sigma _ { j } , i = 1 , 2 , \cdots , h , j = 1 , 2 , \cdots , r \big \} . } \end{array}$
+
+# 2 模型描述
+
+考虑不确定与随机发生非线性行为的二阶多智能体系统的 动力学模型如下（ $i = 1 , 2 , . . . , N \ )$ ：
+
+$$
+\begin{array} { r } { \int \dot { x } _ { i } ( t ) = \nu _ { i } ( t ) + u _ { i 1 } ( t ) } \\ { \dot { \nu } _ { i } ( t ) = A ( t ) \nu _ { i } ( t ) + r ( t ) f ( t , x _ { i } ( t ) , \nu _ { i } ( t ) ) + u _ { i 2 } ( t ) } \end{array}
+$$
+
+其中: $x _ { i } ( t ) \in R ^ { n }$ $\in R ^ { n } \ , \ \nu _ { i } ( t ) \in R ^ { n } \ , \ f ( t , x _ { i } ( t ) , \nu _ { i } ( t ) )$ 是表征智能体自身动力学行为的非线性向量值函数， $A ( t ) \in R ^ { n \times n }$ 是不确定时变矩阵，随机变量 $r ( t )$ 是伯努利分布序列， $u _ { i 1 } ( t ) , u _ { i 2 } ( t )$ 是智能体 $i$ 的控制输入。
+
+考虑积极领导者模型如下：
+
+$$
+\left\{ \begin{array} { l l } { \dot { x } _ { 0 } ( t ) = \nu _ { 0 } ( t ) } \\ { \dot { \nu } _ { 0 } ( t ) = A ( t ) \nu _ { 0 } ( t ) + r ( t ) f ( t , x _ { 0 } ( t ) , \nu _ { 0 } ( t ) ) } \end{array} \right.
+$$
+
+其中: $x _ { 0 } ( t ) \in R ^ { n }$ ， $\nu _ { 0 } ( t ) \in R ^ { n }$ ， $f ( t , x _ { 0 } ( t ) , \nu _ { 0 } ( t ) )$ 是表征领导者自身动力学行为的非线性向量值函数。
+
+假设1a) $A ( t ) = A _ { 1 } + A _ { 2 } ( t ) = A _ { 1 } + M F ( t ) H$ ， $A _ { 1 } , M , H$ 是已知实矩阵， $F ( t )$ 是未知时变矩阵且满足 $F ^ { T } ( t ) F ( t ) < I$ 。
+
+b) $r ( t )$ 满足如下性质：
+
+$$
+\left\{ { \begin{array} { l } { P ( r ( t ) = 1 ) = r } \\ { P ( r ( t ) = 0 ) = 1 - r } \end{array} } \right.
+$$
+
+其中:概率值 $\boldsymbol { r }$ 是固定不变的且 $r \in [ 0 , 1 ]$ 。
+
+为使各智能体状态与领导者保持一致，设计如下脉冲控制协议：
+
+$$
+\begin{array} { c } { { u _ { i 1 } ( t ) = \displaystyle \sum _ { k = 1 } ^ { + \infty } \delta ( t - t _ { k } ) } } \\ { { ( \alpha B _ { k } \displaystyle \sum _ { j \in N _ { i } s ( t ) } a _ { i j } ( s ( t ) ) ( x _ { j } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { \mathrm { k } } ) ) - x _ { i } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { \mathrm { k } } ) ) ) + } } \\ { { \beta ( B _ { k } - I _ { n } ) b _ { i } ( w ( t ) ) ( x _ { i } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { \mathrm { k } } ) ) - x _ { 0 } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { \mathrm { k } } ) ) ) ) } } \end{array}
+$$
+
+$$
+u _ { i 2 } ( t ) = \sum _ { k = 1 } ^ { + \infty } \delta ( t - t _ { k } )
+$$
+
+$$
+( \alpha B _ { k } \sum _ { j \in N _ { i } s ( t ) } a _ { i j } ( s ( t ) ) ( \nu _ { j } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { \mathrm { k } } ) ) - \nu _ { i } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { \mathrm { k } } ) ) ) +
+$$
+
+$$
+\beta ( B _ { k } - I _ { n } ) b _ { i } ( w ( t ) ) ( \nu _ { i } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { \mathrm { k } } ) ) - \nu _ { 0 } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { \mathrm { k } } ) ) ) )
+$$
+
+根据协议，各智能体通过与邻接智能体或领导者间的信息交流更新当前状态。其中， $\delta ( \cdot )$ 是狄拉克函数， $\alpha , \beta \in ( 0 , 1 )$ 是耦合强度， $B _ { k } \in R ^ { n \times n }$ 为脉冲增益矩阵且 $\left\| \boldsymbol B _ { k } \right\| < 1$ ， $b _ { i }$ 表示节点与领导者的连接权值。由于系统网络拓扑图规律切换，则定义分段定常切换信号 $s ( t ) : ( 0 , + \infty ] \to P , \omega ( t ) : ( 0 , + \infty ] \to P ^ { 1 }$ 且$P = P ^ { 1 } = \{ 1 , 2 , \cdots , m \}$ 。集合 $\{ \bar { G } _ { i } / i = 1 , . . . , m \}$ 表示拓扑图切换序列，其中各元素对应于切换信号下的网络拓扑图。
+
+受通信设备物理条件的限制，通信过程会存在时变时延。本文在脉冲控制协议的设计中，考虑智能体与邻接智能体间通信时延以及智能体与领导者间通信时延大小可能不同的实际情形，即 $\tau _ { 1 } ( t _ { k } ) \neq \tau _ { 2 } ( t _ { k } )$ 或 $\tau _ { 1 } ( t _ { k } ) = \tau _ { 2 } ( t _ { k } )$ 且 $0 < \tau _ { 1 } ( t _ { k } ) \le \tau _ { 1 }$ 、$0 < \tau _ { 2 } ( t _ { k } ) \le \tau _ { 2 }$ ，从而导致证明过程更加复杂。在已有的控制协议中，这两类时延通常保守的假设为大小相同。
+
+为了与协议(4)作对比，观察有无时延以及有无拓扑切换条件下智能体状态轨迹的不同与变化,需要对文献[16]中脉冲控制协议作近似模拟。假设二阶多智能体系统存在固定拓扑图 $\overline { { G } } _ { 1 }$ 且协议中无时延，设计如下脉冲控制协议(5)：
+
+$$
+\begin{array} { l } { { u _ { i 1 } ( t ) = \displaystyle \sum _ { k = 1 } ^ { + \infty } \delta ( t - t _ { k } ) ( \alpha B _ { k } \sum _ { j \in N _ { i } } a _ { i j } ( x _ { j } ( t _ { k } ^ { - } ) - x _ { i } ( t _ { k } ^ { - } ) ) } } \\ { { + \beta ( B _ { k } - I _ { n } ) b _ { i } ( x _ { i } ( t _ { k } ^ { - } ) - x _ { 0 } ( t _ { k } ^ { - } ) ) ) } } \end{array}
+$$
+
+$$
+u _ { i 2 } ( t ) = \sum _ { k = 1 } ^ { + \infty } \delta ( t - t _ { k } ) ( \alpha B _ { k } \sum _ { j \in N _ { i } } a _ { i j } ( \nu _ { j } ( t _ { k } ^ { - } ) - \nu _ { i } ( t _ { k } ^ { - } ) )
+$$
+
+$$
++ \beta ( B _ { k } - I _ { n } ) b _ { i } ( \nu _ { i } ( t _ { k } ^ { - } ) - \nu _ { 0 } ( t _ { k } ^ { - } ) ) )
+$$
+
+显然，协议(5)中变量与协议(4)中相关变量定义相同， $N _ { _ i }$ 表示智能体 $i$ 的邻接节点集合。上述协议是对文献[16]中脉冲控制协议的近似二阶扩展。
+
+综上，将(2),(4)转换为系统动力学模型(6):
+
+$$
+( \forall i , \ j = 1 , 2 , . . . , N )
+$$
+
+$$
+\begin{array} { r l } & { \Bigg [ \hat { \lambda } _ { x } ( t ) = \nu _ { x } ( t ) , t \neq \ell _ { x } } \\ & { \Bigg | \hat { \nu } _ { y } ( t ) = A ( t ) , \nu _ { y } ( t ) + c ( t ) f ( t , x , \{ t \} , s _ { y } ( t ) ) , t \neq \ell _ { x } } \\ & { \Bigg | \Delta x _ { x } ( t ) = x _ { ( 1 ) } ( t _ { x } ^ { * } ) - x _ { ( 1 ) } ( t _ { x } ^ { * } ) = \Delta B _ { x } } \\ & { \Bigg | \sum _ { t = N _ { t } } a _ { t } ( s t ) ( x _ { t } ) ( s _ { t } = \tau _ { x } ( t _ { x } ) ) - x _ { ( 1 } ( t _ { x } ^ { * } - \tau _ { 1 } ( t _ { x } ) ) ) } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ &  \quad \quad \end{array}
+$$
+
+定义每个智能体与领导者间的状态误差分别为$\widetilde { x } _ { i } ( t ) = x _ { i } ( t ) - x _ { 0 } ( t ) , \quad \widetilde { \nu } _ { i } ( t ) = \nu _ { i } ( t ) - \nu _ { 0 } ( t )$ 且 $\tilde { x } = ( \tilde { x } _ { 1 } ^ { T } , \tilde { x } _ { 2 } ^ { T } , \cdots , \tilde { x } _ { N } ^ { T } )$ ，$\widetilde \nu = ( \widetilde \nu _ { 1 } ^ { T } , \widetilde \nu _ { 2 } ^ { T } , \cdots , \widetilde \nu _ { N } ^ { T } )$ 。
+
+今
+
+$$
+F ( t , x , \nu ) = ( f ^ { T } ( t , x _ { 1 } , \nu _ { 1 } ) , \cdots , f ^ { T } ( t , x _ { N } , \nu _ { N } ) ) ^ { T } \in R ^ { N \times n }
+$$
+
+$$
+F ( t , x _ { 0 } , \nu _ { 0 } ) = ( f ^ { T } ( t , x _ { 0 } , \nu _ { 0 } ) , \cdots , f ^ { T } ( t , x _ { 0 } , \nu _ { 0 } ) ) ^ { T } \in R ^ { n \times n }
+$$
+
+接下来，将系统模型(6)转换为误差动力学模型(7)：
+
+$$
+( \forall i , j = 1 , 2 , . . . , N )
+$$
+
+$$
+\left\{ \begin{array} { l } { \dot { \tilde { x } } ( t ) = \tilde { v } ( t ) , t \neq t _ { k } } \\ { \dot { \tilde { v } } ( t ) = ( I _ { N } \otimes A ( t ) ) \tilde { v } ( t ) + r ( t ) ( I _ { N } \otimes I _ { n } ) ( F ( t , x , \nu ) } \\ { \quad \quad - F ( t , x _ { 0 } , \nu _ { 0 } ) ) , t \neq t _ { k } } \\ { \dot { \tilde { x } } ( t _ { k } ^ { + } ) = I _ { N _ { m } } \tilde { x } ( t _ { k } ^ { - } ) - ( \alpha L _ { s ( k ) } \otimes B _ { k } ) \tilde { x } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) + } \\ { \quad \quad ( \beta B _ { w ( k ) } \otimes ( B _ { k } - I _ { n } ) ) \tilde { x } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) , t = t _ { k } } \\ { \quad \quad \tilde { v } ( t _ { k } ^ { + } ) = I _ { N _ { m } } \tilde { v } ( t _ { k } ^ { - } ) - ( \alpha L _ { s ( k ) } \otimes B _ { k } ) \tilde { v } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) + } \\ { \quad \quad ( \beta B _ { w ( k ) } \otimes ( B _ { k } - I _ { n } ) ) \tilde { v } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) , t = t _ { k } } \end{array} \right.
+$$
+
+模型式(7)中，脉冲序列 $\{ t _ { k } \}$ 满足 $0 \leq t _ { 0 } < \cdots < t _ { k }$ 且limtk=+。在脉冲时刻令智能体状态左连续，即 xi(𝑡k)=x(t)，$\nu _ { i } ( t _ { k } ) = \nu _ { i } ( t _ { k } ^ { - } )$ 。任意脉冲时刻 $t \in ( t _ { k - 1 } , t _ { k } ]$ ，定义$s ( t ) = s ( k ) \in \left\{ 1 , 2 , \cdots , m \right\}$ 且 $\omega ( t ) = \omega ( k ) \in \left\{ 1 , 2 , \cdots , m \right\}$ ， $L _ { s ( k ) }$ 是第$s ( k )$ 个拓扑图的Laplacian 矩阵， $B _ { w ( k ) }$ 是第 $\omega ( k )$ 个拓扑图中领导者与跟随者的连接矩阵。
+
+假设2若非线性向量值函数 $f ( t , x _ { i } ( t ) , \nu _ { i } ( t ) )$ 对任意向量$\{ x , \nu , x _ { 0 } , \nu _ { 0 } \} \in R ^ { n }$ 存在非负常量 $\varphi , \zeta$ ，满足$\big \| f ( t , x , \nu ) - f ( t , x _ { 0 } , \nu _ { 0 } ) \big \| \leq \varphi \big \| x - x _ { 0 } \big \| + \zeta \big \| \nu - \nu _ { 0 } \big \|$ ，则称该函数满足Lipschitz 条件。
+
+假设3多智能体系统的网络拓扑图是无向图，即相互连接的两个智能体之间信息双向传递。同时，领导者不接收其他智能体的信息传输，即各智能体与领导者的信息交流是单向的。
+
+定义在满足假设条件1\~3与定理条件的前提下，若误差动态系统(7)的解能使公式 $\operatorname* { l i m } _ { t \to + \infty } \left\| \widetilde { x } _ { i } ( t ) \right\| = 0$ 与 $\operatorname* { l i m } _ { t \to + \infty } \left\| \widetilde { \nu } _ { i } ( t ) \right\| = 0$ 同时成立，则称不确定与随机发生非线性行为的二阶多智能体系统(6)能在脉冲控制协议(4)的作用下实现领导跟随一致性。
+
+# 3 主要结果
+
+定理若假设1\~3 的条件成立且系统参数满足条件a)b),则称不确定与随机发生非线性行为的二阶多智能体系统(6)在脉冲控制协议(4)作用下实现了领导跟随一致性，即系统中各智能体状态最终与领导者(2)保持一致。
+
+其中： $A = \beta B _ { \nu ( k ) } \otimes ( B _ { K } - I _ { n } ) , B = \alpha L _ { s ( k ) } \otimes B _ { k } ,$
+
+$$
+\boldsymbol { \lambda } _ { 1 } = \boldsymbol { \lambda } _ { \mathrm { m a x } } ( \boldsymbol { I } _ { N } \otimes ( \boldsymbol { A } _ { 1 } + \frac { 1 } { 2 } ( \boldsymbol { M } \boldsymbol { M } ^ { T } + \boldsymbol { H } ^ { T } \boldsymbol { H } ) ) + \boldsymbol { \zeta } \boldsymbol { r } ( \boldsymbol { I } _ { N } \otimes \boldsymbol { I } _ { n } ) ) ,
+$$
+
+$$
+\lambda _ { 2 } = \lambda _ { \operatorname* { m a x } } ( \boldsymbol { A } ^ { T } \boldsymbol { A } ) , \lambda _ { 3 } = \lambda _ { \operatorname* { m a x } } ( \boldsymbol { B } ^ { T } \boldsymbol { B } ) , \lambda _ { 4 } = \lambda _ { \operatorname* { m a x } } ( \boldsymbol { B } ) ,
+$$
+
+$$
+\lambda _ { 5 } = \lambda _ { \operatorname* { m a x } } ( B ^ { T } A A ^ { T } B ) )
+$$
+
+$$
+- 1 < 2 \lambda _ { 2 } + \lambda _ { 3 } - \varepsilon \lambda _ { 4 } - \frac { \lambda _ { 4 } } { \varepsilon } - \lambda _ { 5 } < 0
+$$
+
+$$
+\displaystyle 1 + \varphi r + 2 \lambda _ { 1 } + \frac { \ln ( 1 + 2 \lambda _ { 2 } + \lambda _ { 3 } - \varepsilon \lambda _ { 4 } - \frac { \lambda _ { 4 } } { \varepsilon } - \lambda _ { 5 } ) } { t _ { k + 1 } - t _ { k } } < 0
+$$
+
+证明 构造 Lyapunov 函数： $V ( t ) = \frac { 1 } { 2 } \tilde { x } ^ { T } ( t ) \tilde { x } ( t ) + \frac { 1 } { 2 } \tilde { \nu } ^ { T } ( t ) \tilde { \nu } ( t )$ a)当 $t \in ( t _ { k - 1 } , t _ { k } ]$ 时，函数沿着系统(7)的解轨迹导数
+
+$$
+\begin{array} { r l } & { \dot { V } ( t ) = \tilde { x } ^ { T } ( t ) \tilde { \nu } ( t ) + \tilde { \nu } ^ { T } ( t ) \dot { \tilde { \nu } } ^ { T } ( t ) } \\ & { \qquad \leq \tilde { x } ^ { T } ( t ) \tilde { \nu } ( t ) + \tilde { \nu } ^ { T } ( t ) ( I _ { N } \otimes A _ { 1 } ) \tilde { \nu } ( t ) } \\ & { \qquad + \tilde { \nu } ^ { T } ( t ) ( I _ { N } \otimes M ) ( I _ { N } \otimes F ( t ) ) ( I _ { N } \otimes H ) \tilde { \nu } ( t ) } \\ & { \qquad + \varphi r ( t ) \tilde { \nu } ^ { T } ( t ) ( I _ { N } \otimes I _ { n } ) \tilde { x } ( t ) + \zeta r ( t ) \tilde { \nu } ^ { T } ( t ) ( I _ { N } \otimes I _ { n } ) \tilde { \nu } ( t ) } \end{array}
+$$
+
+因为 $F ^ { T } ( t ) F ( t ) < I$ ,所以由引理1得
+
+$$
+\begin{array} { c } { { \displaystyle { \widetilde { \nu } ^ { T } ( t ) ( I _ { _ { N } } \otimes M ) ( I _ { _ { N } } \otimes F ( t ) ) ( I _ { _ { N } } \otimes H ) \widetilde { \nu } ( t ) \le } } } \\ { { \displaystyle { \widetilde { \nu } ^ { T } ( t ) ( I _ { _ { N } } \otimes \frac { 1 } { 2 } ( M M ^ { T } + H ^ { T } H ) ) \widetilde { \nu } ( t ) } } } \end{array}
+$$
+
+$$
+\tilde { x } ^ { T } ( t ) \tilde { \nu } ( t ) = \tilde { \nu } ^ { T } ( t ) \tilde { x } ( t ) \leq
+$$
+
+由于
+
+$$
+\frac { 1 } { 2 } ( \tilde { \nu } _ { 1 1 } ^ { 2 } ( t ) + \tilde { x } _ { 1 1 } ^ { 2 } ( t ) + \cdots + \tilde { \nu } _ { N n } ^ { 2 } ( t ) + \tilde { x } _ { N n } ^ { 2 } ( t ) ) = V ( t )
+$$
+
+同理得 $\varphi r ( t ) \tilde { \nu } ^ { T } ( t ) ( I _ { \scriptscriptstyle N } \otimes I _ { \scriptscriptstyle n } ) \tilde { x } ( t ) \leq \varphi r ( t ) V ( t )$
+
+综上，得
+
+$$
+\begin{array} { c } { E ( \dot { V } ( t ) ) \leq E ( V ( t ) ) + \varphi E ( r ( t ) V ( t ) ) + } \\ { E ( \tilde { \nu } ^ { T } ( t ) ( I _ { N } \otimes ( A _ { 1 } + \displaystyle \frac 1 2 ( M M ^ { T } + H ^ { T } H ) ) ) \tilde { \nu } ( t ) ) + \zeta E ( r ( t ) \tilde { \nu } ^ { T } ( t ) ( I _ { N } \otimes I _ { n } ) \tilde { \nu } ( t ) ) } \end{array}
+$$
+
+因为 $E ( r ( t ) - r ) = E ( r ( t ) ) - E ( r ) = 0$ $\Omega = \widetilde { \nu } ^ { T } ( t ) ( I _ { \scriptscriptstyle N } \otimes I _ { \scriptscriptstyle n } ) \widetilde { \nu } ( t )$ 或 $\Omega = V ( t )$ ，则
+
+$$
+\begin{array} { l } { E ( r ( t ) \Omega ) = E ( ( r ( t ) - r + r ) \Omega ) } \\ { \ = E ( r ( t ) - r ) E ( \Omega ) + E ( r \Omega ) = r E ( \Omega ) } \end{array}
+$$
+
+不妨令 $\boldsymbol { \lambda } _ { 1 } = \boldsymbol { \lambda } _ { \mathrm { m a x } } ( \boldsymbol { I } _ { N } \otimes ( \boldsymbol { A } _ { 1 } + \frac { 1 } { 2 } ( \boldsymbol { M } \boldsymbol { M } ^ { T } + \boldsymbol { H } ^ { T } \boldsymbol { H } ) ) + \boldsymbol { \zeta } \boldsymbol { r } ( \boldsymbol { I } _ { N } \otimes \boldsymbol { I } _ { n } ) )$ （204号
+
+则
+
+$$
+E ( \dot { V } ( t ) ) \le ( 1 + \varphi r + 2 \lambda _ { 1 } ) E ( V ( t ) )
+$$
+
+b)当 $t = t _ { k } ^ { + }$ 时，得 $V ( t _ { k } ^ { + } ) = \frac { 1 } { 2 } \tilde { x } ^ { T } ( t _ { k } ^ { + } ) \tilde { x } ( t _ { k } ^ { + } ) + \frac { 1 } { 2 } \tilde { \nu } ^ { T } ( t _ { k } ^ { + } ) \tilde { \nu } ( t _ { k } ^ { + } )$ 令 $A = \beta B _ { \boldsymbol { w } ( k ) } \otimes ( B _ { K } - I _ { n } ) \mathrm { ~ , ~ } B = \alpha L _ { s ( k ) } \otimes B _ { k }$ ，得
+
+$$
+\begin{array} { r l } & { \begin{array} { r l } { ( S ^ { ( 1 ) } - 1 ) ^ { 2 } \xi ^ { 2 } ( \xi _ { 1 } + 1 ) ^ { 2 } \xi _ { 2 } - 2 \nu _ { 0 } \lambda \lambda \lambda ^ { 2 } } \\ { - \frac { \lambda ^ { 2 } \nu _ { 0 } \lambda } { 2 } ( \xi _ { 1 } - 2 \nu _ { 0 } ) ( S ^ { ( 1 ) } - S ^ { ( 1 ) } - S ^ { ( 1 ) } - S ^ { ( 1 ) } - S ^ { ( 1 ) } ) } \\ { - \frac { \lambda ^ { 2 } \nu _ { 0 } \lambda } { 2 } ( \xi _ { 1 } - 2 \nu _ { 0 } ) ( S ^ { ( 1 ) } - S ^ { ( 1 ) } - S ^ { ( 1 ) } - S ^ { ( 1 ) } ) } \\ { - \frac { \lambda ^ { 2 } \nu _ { 0 } \lambda } { 2 } ( \xi _ { 1 } - 2 \nu _ { 0 } ) ( S ^ { ( 1 ) } - S ^ { ( 1 ) } - S ^ { ( 1 ) } - S ^ { ( 1 ) } ) } \\ { - \frac { \lambda ^ { 2 } \nu _ { 0 } \lambda } { 2 } ( \xi _ { 1 } - 2 \nu _ { 0 } ) ( S ^ { ( 1 ) } - S ^ { ( 1 ) } - S ^ { ( 1 ) } - S ^ { ( 1 ) } ) } \end{array} } \\ &  \begin{array} { r l } { ( S ^ { ( 1 ) } - 1 ) ^ { 2 } } & { = 0 } \\ { - \frac { \lambda ^ { 2 } \nu _ { 0 } \lambda \lambda ^ { 2 } } { 2 } ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) } \\ { - \frac { \lambda ^ { 2 } \nu _ { 0 } \lambda } { 2 } ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - \xi _ { 1 } ) } \\ { - \frac { \lambda ^ { 2 } \nu _ { 0 } \lambda ^ { 2 } } { 2 } ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - \xi _ { 1 } ) } \\ { - \frac { \lambda ^ { 2 } \nu _ { 0 } \lambda ^ { 2 } } { 2 } ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - 2 ) ( \xi _ { 1 } - \xi _ { 1 } ) } \\  - \end{array} \end{array}
+$$
+
+显然， $V ( t _ { k } ^ { - } ) = \frac { 1 } { 2 } ( \tilde { x } ^ { T } ( t _ { k } ^ { - } ) \tilde { x } ( t _ { k } ^ { - } ) + \tilde { \nu } ^ { T } ( t _ { k } ^ { - } ) \tilde { \nu } ( t _ { k } ^ { - } ) ) _ { \mathrm { ~ } \circ }$ （204
+
+由引理1得
+
+$$
+\begin{array} { l } { \displaystyle \frac { 1 } { 2 } ( \tilde { x } ^ { T } ( t _ { k } ^ { - } ) A \tilde { x } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) + \tilde { x } ^ { T } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) A ^ { T } \tilde { x } ( t _ { k } ^ { - } ) ) } \\ { = \tilde { x } ^ { T } ( t _ { k } ^ { - } ) A \tilde { x } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) } \end{array}
+$$
+
+$$
+\leq \frac { 1 } { 2 } ( \tilde { x } ^ { T } ( t _ { k } ^ { - } ) \tilde { x } ( t _ { k } ^ { - } ) + \tilde { x } ^ { T } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) A ^ { T } A \tilde { x } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) )
+$$
+
+同理
+
+$$
+\begin{array} { r l } & { \cfrac { 1 } { 2 } ( \tilde { \nu } ^ { T } ( t _ { k } ^ { - } ) A \tilde { \nu } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) + \tilde { \nu } ^ { T } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) A ^ { T } \tilde { \nu } ( t _ { k } ^ { - } ) ) } \\ & { = \tilde { \nu } ^ { T } ( t _ { k } ^ { - } ) A \tilde { \nu } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) } \\ & { \leq \cfrac { 1 } { 2 } ( \tilde { \nu } ^ { T } ( t _ { k } ^ { - } ) \tilde { \nu } ( t _ { k } ^ { - } ) + \tilde { \nu } ^ { T } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) A ^ { T } A \tilde { \nu } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) ) } \end{array}
+$$
+
+令 $\lambda _ { _ 2 } = \lambda _ { \operatorname* { m a x } } ( \boldsymbol { A } ^ { T } \boldsymbol { A } ) \mathrm { ~ , ~ } \ \lambda _ { _ 3 } = \lambda _ { \operatorname* { m a x } } ( \boldsymbol { B } ^ { T } \boldsymbol { B } )$ 得
+
+$$
+\begin{array} { r l } & { \cfrac { 1 } { 2 } ( \widetilde { x } ^ { T } ( t _ { k } ^ { - } ) A \widetilde { x } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) + \widetilde { x } ^ { T } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) A ^ { T } \widetilde { x } ( t _ { k } ^ { - } ) } \\ & { + \widetilde { \nu } ^ { T } ( t _ { k } ^ { - } ) A \widetilde { \nu } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) + \widetilde { \nu } ^ { T } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) A ^ { T } \widetilde { \nu } ( t _ { k } ^ { - } ) ) } \\ & { \leq V ( t _ { k } ^ { - } ) + \lambda _ { 2 } V ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) } \end{array}
+$$
+
+$$
+\begin{array} { l } { \displaystyle \frac { 1 } { 2 } ( \tilde { x } ^ { T } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) A ^ { T } A \tilde { x } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) + \tilde { \nu } ^ { T } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) } \\ { \displaystyle A ^ { T } A \tilde { \nu } ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) ) \leq \lambda _ { 2 } V ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) } \\ { \displaystyle \frac { 1 } { 2 } ( \tilde { x } ^ { T } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) B ^ { T } B \tilde { x } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) + \tilde { \nu } ^ { T } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) } \\ { \displaystyle B ^ { T } B \tilde { \nu } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) ) \leq \lambda _ { 3 } V ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) } \end{array}
+$$
+
+因为 $\boldsymbol { B } ^ { T } = \boldsymbol { B }$ ，令 $\lambda _ { 4 } = \lambda _ { \mathrm { m a x } } ( B )$ ，当且仅当实数 $\varepsilon _ { 1 } = \varepsilon _ { 2 } = \varepsilon$ 时由引理2、4得
+
+$$
+\begin{array} { r l } & { \frac { 1 } { 2 } \left( \tilde { x } ^ { T } ( t _ { k } ) B \tilde { x } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) + \tilde { x } ^ { T } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) B ^ { T } \tilde { x } ( t _ { k } ^ { - } ) + \right. } \\ & { \left. \tilde { \nu } ^ { T } ( t _ { k } ^ { - } ) B \tilde { y } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) + \tilde { \nu } ^ { T } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) B ^ { T } \tilde { y } ( t _ { k } ^ { - } ) \right) } \\ & { \leq \frac { 1 } { 2 } \left( \varepsilon _ { k } \lambda _ { k } \tilde { x } ^ { T } ( t _ { k } ^ { - } ) \tilde { x } ( t _ { k } ^ { - } ) + \delta \varepsilon _ { \lambda } \tilde { x } _ { k } ^ { T } ( t _ { k } ) \tilde { y } ( t _ { k } ^ { - } ) + \right. } \\ & { \left. \frac { \lambda _ { k } } { \varepsilon _ { k } } \tilde { x } ^ { T } ( t _ { k } ^ { -- } \tau _ { 1 } ( t _ { k } ) ) \tilde { x } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) + \right. } \\ & { \left. \frac { \lambda _ { k } } { \varepsilon _ { k } } \tilde { y } ^ { T } ( t _ { k } ^ { -- } \tau _ { 1 } ( t _ { k } ) ) \tilde { y } ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) \right) } \\ & { \leq \varepsilon \lambda _ { k } V ( t _ { k } ^ { - } ) + \frac { \lambda _ { k } } { \varepsilon _ { k } } V ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) } \\ & { = \varepsilon \lambda _ { k } V ( t _ { k } ^ { - } ) + \frac { \lambda _ { k } } { \varepsilon _ { k } } V ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) } \end{array}
+$$
+
+令 $\begin{array} { r } { \lambda _ { 5 } = \lambda _ { \operatorname* { m a x } } ( B ^ { T } A A ^ { T } B ) } \end{array}$ ，由引理1得
+
+$$
+\begin{array} { r l } & { \frac { 1 } { 2 } ( \bar { x } ^ { T } ( \bar { t } _ { k } ^ { - } - \tau _ { s } , ( t _ { k } ) ) A ^ { T } B \bar { A } ( \bar { t } _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) + \bar { x } ^ { T } ( \bar { t } _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) } \\ & { R ^ { F } \bar { A } ( \bar { t } _ { k } ^ { - } - \tau _ { s } , ( t _ { k } ) ) + \bar { x } ^ { T } ( \bar { t } _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) A ^ { T } B \bar { A } ( \bar { t } _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) } \\ & { + \bar { y } ^ { T } ( \bar { t } _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) B ^ { T } A \bar { y } ( \bar { t } _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) ) } \\ & { = \bar { x } ^ { T } ( \bar { t } _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) A ^ { T } B \bar { A } ( \bar { t } _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) + } \\ & { \bar { y } ^ { T } ( \bar { t } _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) A ^ { T } \bar { B } ( \bar { t } _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) } \\ & { \leq \frac { 1 } { 2 } ( \bar { x } ^ { T } ( \bar { t } _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) ) A ^ { T } \bar { B } ( \bar { t } _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) } \\ & { \bar { y } ^ { T } ( \bar { t } _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) + \bar { x } ^ { T } ( \bar { t } _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) B ^ { T } ( \bar { t } _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) } \\ & { \bar { y } ( \bar { t } _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) + \bar { x } ^ { T } ( \bar { t } _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) B ^ { T } A ^ { T } B \bar { A } ( \bar { t } _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) } \\ &  + \bar { y } ^ { T } ( \bar { t } _ { k } ^ { - } - \tau _  \end{array}
+$$
+
+综上，得
+
+$$
+\begin{array} { l } { { \displaystyle E ( V ( t _ { k } ^ { - } ) ) = ( 2 - \varepsilon \lambda _ { 4 } ) E ( V ( t _ { k } ^ { - } ) ) } } \\ { ~ } \\ { { \displaystyle ~ + ( \lambda _ { 3 } - \frac { \lambda _ { 4 } } { \varepsilon } - \lambda _ { 5 } ) E ( V ( t _ { k } ^ { - } - \tau _ { 1 } ( t _ { k } ) ) ) } } \\ { { \displaystyle ~ + ( 2 \lambda _ { 2 } - 1 ) E ( V ( t _ { k } ^ { - } - \tau _ { 2 } ( t _ { k } ) ) ) } } \end{array}
+$$
+
+由(8)(9)结合引理4不难得到：若满足条件 $\textcircled{1}$ ， $\textcircled{2}$ 则存在实数 $\xi > 1$ ， $\lambda > 0$ 使 $E ( V ( t ) ) \leq \left\| \varphi \right\| _ { \tau } \xi e ^ { - \lambda ( t - t _ { 0 } ) } , t \geq t _ { 0 }$ 其中：$\begin{array} { r } { \big \| \varphi \big \| _ { \tau } = \operatorname* { s u p } _ { t _ { 0 } - \tau \leq s \leq t _ { 0 } } \big \| \varphi ( s ) \big \| , \tau = \operatorname* { m a x } \big \{ \tau _ { 1 } , \tau _ { 2 } \big \} \ , \varphi ( s ) } \end{array}$ 是系统状态初值。
+
+显然，当时间 $t \to \infty$ 时 $e ^ { - \lambda ( t - t _ { 0 } ) } \to 0$ ，进而 $E ( V ( t ) ) \leq 0$ ，得$\operatorname* { l i m } _ { t \to + \infty } \left\| \tilde { x } _ { i } ( t ) \right\| = 0$ 与 $\operatorname* { l i m } _ { t \to + \infty } \left\| \widetilde { \nu } _ { i } ( t ) \right\| = 0$ ，即系统(6)能在脉冲控制协议(4)的作用下实现领导跟随一致性。证明成立。
+
+备注1令脉冲间隔(变量) $\Delta t _ { k } = t _ { k + 1 } - t _ { k }$ ，由定理中条件a)b)可得 $\Delta t _ { k } < - \frac { C _ { 2 } } { C _ { 1 } } \qquad , \boxplus \qquad C _ { 1 } = 1 + \varphi r + 2 \lambda _ { 1 }$ （20 $C _ { 2 } = \ln ( 1 + 2 \lambda _ { 2 } + \lambda _ { 3 } - \varepsilon \lambda _ { 4 } - \frac { \lambda _ { 4 } } { \varepsilon } - \lambda _ { 5 } )$ ，显然 $C _ { 1 } > 0$ 、 $C _ { 2 } < 0$ 。当各参数被赋值后，由第4部分仿真实例可得 $C _ { 1 } > - C _ { 2 }$ ，计算得到$\Delta t _ { k } < 0 . 2 3 s$ ，所以MATLAB仿真中脉冲间隔取值 $0 _ { \circ } ~ 0 5 \mathrm { s }$ 时，系统可以正常收敛。
+
+备注2：由于 $\begin{array} { r } { \left. \varphi \right. _ { \tau } = \operatorname* { s u p } _ { t _ { 0 } - \tau \leq s \leq t _ { 0 } } \left. \varphi ( s ) \right. , \tau = \operatorname* { m a x } \left\{ \tau _ { 1 } , \tau _ { 2 } \right\} } \end{array}$ ，可得$\begin{array} { r } { \operatorname* { s u p } _ { t _ { 0 } - \tau \leq s \leq t _ { 0 } } \left\| \varphi ( s ) \right\| > 0 } \end{array}$ ，当时间 $\mathbf { \Psi } _ { t } \mathbf { \Psi } _ { t }$ 趋于无穷大时，理论上时延上界$\tau _ { 1 }$ 、 $\tau _ { 2 }$ 的取值只与状态初始值的范数上界 $\left\| \varphi \right\| _ { \tau }$ 有关，而 $\left\| \varphi \right\| _ { \tau }$ 的变化不会对系统的最终收敛性产生影响，即时延在相关参数满足定理条件的前提下不影响系统最终实现领导跟随一致性。
+
+# 4 数值仿真
+
+为使拓扑图简洁明了、易于观察，同时使仿真图中的节点状态轨迹清晰可辨(更容易对图中轨迹的细节作进一步观察分析)，针对由5个跟随智能体与一个积极领导者组成的多智能体系统，令各智能体状态初值分别为(-4,6.5)、(5,-3)、(15,-6)、(-10,5)、(9.5,12)，领导者状态初值为(4,1)。智能体的初始状态值取值为常数，有助于简化模拟与计算过程。
+
+取非线性向量值函数为 $f ( t , x _ { i } ( t ) , \nu _ { i } ( t ) ) = x _ { i } ( t ) + \nu _ { i } ( t ) \sin ( t ^ { 2 } )$ ，$\left| f ( t , x _ { i } , \nu _ { i } ) - f ( t , \tilde { x } _ { i } , \tilde { \nu } _ { i } ) \right|$ 可得 $= \left| x _ { i } ( t ) - \tilde { x } _ { i } ( t ) + ( \nu _ { i } ( t ) - \tilde { \nu } _ { i } ( t ) ) \sin ( t ^ { 2 } ) \right|$ 。取 $\phi = \zeta = 1$ ，使假设2$\leq \left| x _ { i } ( t ) - \tilde { x } _ { i } ( t ) \right| + \left| \nu _ { i } ( t ) - \tilde { \nu } _ { i } ( t ) \right|$
+
+成立。
+
+令 $A ( t ) = A _ { 1 } + M F ( t ) H = I _ { n } + \sin ( \nu _ { i } ( t ) )$ ，即 $A _ { 1 } = M = H = I _ { n }$ ，取脉冲耦合强度值 $\alpha = 0 . 2 ~ , ~ \beta = 0 . 8$ ，取固定脉冲间隔$t _ { k + 1 } - t _ { k } = 0 . 0 5 s$ ，脉冲增益矩阵 $B _ { k } = d i a g ( 0 . 7 , 0 . 7 , 0 . 7 , 0 . 7 , 0 . 7 )$ 。为便于仿真，不妨令： $k = 1$ 时， $\tau _ { 1 } ( t _ { 1 } ) = 0 . 0 2 s$ ， $\tau _ { 2 } ( t _ { 1 } ) = 0 . 0 1 s$ ：$k = 2 , . . . , N$ 时， $\tau _ { 1 } ( t _ { k } ) = 0 . 0 4 s$ ， $\tau _ { 2 } ( t _ { k } ) = 0 . 0 2 s$ 。令随机变量为1时的概率 $r = 0 . 6$ ，当 $t \in \big [ t _ { k - 1 } , t _ { k } \big )$ 时，令定常切换信号$s ( t ) = \omega ( t ) = ( ( k - 1 ) { \bmod { 3 } } ) + 1$ ，则拓扑图切换顺序为
+
+$$
+\left\{ \bar { G } _ { 1 } , \bar { G } _ { 2 } , \bar { G } _ { 3 } , \bar { G } _ { 1 } \cdots \right\} \mathrm { ~ c ~ }
+$$
+
+![](images/d603c2726571036ee4f32805108ca3d193e53b44cdf02af562dc11c1c3b891c2.jpg)  
+图1　拓扑图切换顺序 $( \overline { { G } } _ { 1 }  \overline { { G } } _ { 2 }  \overline { { G } } _ { 3 } \quad$ ）
+
+由图1得，领导者与各智能体的连接矩阵分别为$B _ { 1 } = d i a g ( 0 , 0 , 1 , 0 , 1 )$ ， $B _ { 2 } = d i a g ( 1 , 1 , 0 , 0 , 0 )$ ， $B _ { 3 } = d i a g ( 0 , 1 , 0 , 0 , 1 )$ 。
+
+将上述数据代入文中计算得：当拓扑图为 $\overline { { G } } _ { 1 }$ 时， $\lambda _ { 1 } = 2 . 6$ ，$\lambda _ { \scriptscriptstyle 2 } = 0 . 0 5 7 6$ 、 $\lambda _ { 3 } = 0 . 3 9 3 6$ 、 $\lambda _ { \scriptscriptstyle 4 } = 0 . 6 2 7 4$ 、 $\lambda _ { 5 } = 0 . 0 0 6 8$ ，可取 $\varepsilon = 1$ 使 $- 1 < 2 \lambda _ { 2 } + \lambda _ { 3 } - \varepsilon \lambda _ { 4 } - \frac { \lambda _ { 4 } } { \varepsilon } - \lambda _ { 5 } = - 0 . 7 5 2 8 < 0$ 满足条件 $\textcircled{1}$ ，使$1 + \varphi r + 2 \lambda _ { 1 } + \frac { \ln ( 1 + 2 \lambda _ { 2 } + \lambda _ { 3 } - \varepsilon \lambda _ { 4 } - \frac { \lambda _ { 4 } } { \varepsilon } - \lambda _ { 5 } ) } { t _ { k + 1 } - t _ { k } } \approx - 2 1 . 1 5 1 2 < 0$ 条件a);当拓扑图为 $\bar { G } _ { 2 }$ 时， $\lambda _ { 1 } = 2 . 6$ ， $\lambda _ { 2 } = 0 . 0 5 7 6 \ , \lambda _ { 3 } = 0 . 3 6 2 9$ 、$\lambda _ { { \scriptscriptstyle 4 } } = 0 . 6 0 2 4$ （204 $\lambda _ { 5 } = 0 . 0 1 3 7$ 可取 $\varepsilon = 1$ （20 使（204号 $- 1 < 2 \lambda _ { 2 } + \lambda _ { 3 } - \varepsilon \lambda _ { 4 } - \frac { \lambda _ { 4 } } { \varepsilon } - \lambda _ { 5 } = - 0 . 7 4 0 4 < 0$ 满足条件b)，使$1 + \varphi r + 2 \lambda _ { 1 } + \frac { \ln ( 1 + 2 \lambda _ { 2 } + \lambda _ { 3 } - \varepsilon \lambda _ { 4 } - \frac { \lambda _ { 4 } } { \varepsilon } - \lambda _ { 5 } ) } { t _ { k + 1 } - t _ { k } } \approx - 2 0 . 1 7 2 3 < 0$ 条件 $\textcircled{2}$ ；当拓扑图为 $\overline { { G } } _ { 3 }$ 时， $\lambda _ { 1 } = 2 . 6$ 、 $\lambda _ { \scriptscriptstyle 2 } = 0 . 0 5 7 6$ 、 $\lambda _ { 3 } = 0 . 4 1 8 0$ 、4 = 0.6465 $\lambda _ { 5 } = 0 . 0 1 6 7$ 可 取 $\varepsilon = 1$ 使（204号 $- 1 < 2 \lambda _ { 2 } + \lambda _ { 3 } - \varepsilon \lambda _ { 4 } - \frac { \lambda _ { 4 } } { \varepsilon } - \lambda _ { 5 } = - 0 . 7 7 6 5 < 0$ 满足条件 $\textcircled{1}$ ，使$1 + \varphi r + 2 \lambda _ { 1 } + \frac { \ln ( 1 + 2 \lambda _ { 2 } + \lambda _ { 3 } - \varepsilon \lambda _ { 4 } - \frac { \lambda _ { 4 } } { \varepsilon } - \lambda _ { 5 } ) } { t _ { k + 1 } - t _ { k } } \approx - 2 3 . 1 6 6 9 < 0$ 条件 $\textcircled{2}$ 。
+
+接下来用MATLAB软件实例仿真得到图2\~5。
+
+从上述仿真图可看出：
+
+$\textcircled{1}$ 在控制开始阶段0-0。3s范围内脉冲作用强度大，收敛速度较快。在0。3s-0。6s范围内脉冲强度较小，收敛速度平稳。之后时间内跟随智能体的状态逐渐与领导者状态保持一致并稳定，状态误差趋于0。
+
+$\textcircled{2}$ 随着时间的增加，跟随智能体的速度状态在0。7秒左右和领导者保持一致，而位移状态则在1秒左右和领导者保持一致，显然两种状态的演变并不同步。最终，仿真结果表明协议(4)控制下多智能体系统(7)能够与领导者(2)的状态保持一致。
+
+![](images/3bc71f66460068318ce690acb029ea18e2045ad5b0e8b8e0117fda775b354592.jpg)  
+图2脉冲控制协议(4)作用下各智能体位移状态曲线
+
+![](images/d8809c670005d0db3c5764a945aea5531176143127d9bd4cdae4d22a52b541c7.jpg)  
+图3脉冲控制协议(4)作用下各智能体速度状态曲线
+
+![](images/b8fa718045efaad2292ccd726132e832bb832159baad37466861d071fe392c04.jpg)  
+图4脉冲控制协议(4)作用下跟随者与领导者的状态误差
+
+![](images/048f704bf22cb406d4711fffdd62a0ba21a82eb1d6500e6efc3f6293b3311c38.jpg)  
+图5脉冲控制协议(4)作用下跟随者与领导者的状态误差
+
+令协议(5)中相关参数取值与协议(4)相同，基于(1)(2)(5)由MATLAB软件仿真得图6。
+
+![](images/e14fd623797d89cba2a1ad0c78758c052bda4c32082abb3c160483fb6f266934.jpg)  
+图6脉冲控制协议(5)作用下各智能体位移、速度状态曲线
+
+对比图2、3t6可得,在脉冲控制协议(4)(5)分别作用下，智能体的位移与速度状态和领导者保持一致时的时间点仅有细微的差别。但图6中各状态曲线的脉冲增量呈平稳递减趋势，各曲线轨迹平稳收敛且无明显交叉。而图2、3中各状态曲线的脉冲增量在开始阶段变化较为剧烈且有几条曲线长时间互相交织这表明拓扑切换导致的节点间连接关系的不断变化与时延对信息的迟滞作用的双重影响使原有系统的运动状态发生了复杂、明显而又深刻的变化，对这种情形下多智能体系统领导跟随一致性的研究无疑是必要的。实际应用中，当脉冲时刻的通信时延客观存在时，应用本文研究方法可以给出系统实现领导跟随一致性所需的判定条件而无须考虑时延的大小，这也是本文的研究价值所在。
+
+# 5 结束语
+
+受文献[16]等启发，针对一个不确定与随机发生非线性行为的二阶多智能体系统在有通信时延且网络拓扑切换下的领导跟随一致性进行了研究。利用代数图论和Laplacian矩阵理论，脉冲微分方程理论和Lyapunov 稳定性理论，以及推广的Halanay不等式等系列知识，得到系统状态最终与领导者保持一致时应该满足的充分条件，并通过Matlab软件实例仿真对文中脉冲控制协议(4)的可行性进行了验证。
+
+# 参考文献：
+
+[1]Han Tao,Guan Zhihong,Chi Ming.Multi-formation control of nonlinear leader-following multi-agent systems [J].ISA Transactions,2017,69:140- 147.   
+[2]罗贺富,彭世国.多时变时滞的多智能体系统的分布式编队控制[J].广 东工业大学学报,2017,34(4):89-96.   
+[3]Han Tao,Guan ZhiHong,Liao RuiQuan.Distributed finite-time formation tracking control of multi-agent systems via FTSMC approach [J].IET Control Theory and Applications,2017,11(15): 2585-2590.   
+[4]Zhou Zhao,Bart D S,Lin Shu.Multi-agent model-based predictive control forlarge-scale urban traffic networks using a serial scheme [J].IET Control Theory and Applications,2015,9(3): 475-484.   
+[5]Mehdi A,Tina W,Michael R,et al.Alternative supply chain productionsales policies for new product diffusion:An agent-based modeling and simulation approach [J].Journal of Operational Research,2012,216 (2): 301-311.   
+[6]Ibrahim R W, Gani A.A new algorithm in cloud computing of multi-agent fractional differential economical system [J]. Computing,2016,98 (11): 1061-1074.   
+[7]Wautelet Y,Kolp M.Business and model-driven development of BDI multi-agent systems [J].Neurocomputing,2016,182:304-321.   
+[8]Ren HongWei, Deng FeiQi,Peng YunJian.Exponential consensus of nonlinear stochastic multi-agent systems with ROUs and RONs via impulsive pinning control [J]. IET Control Theory and Applications,2017,11 (2): 225-236.   
+[9]Luo Jie,Cao Chengyu. Consensus in multi-agent systems with nonlinear uncetainties under afixed undirected graph [J]. International Journal of Control,Automation and Systems,2014,12 (2):231-240.   
+[10] Yu Juan,Hu Cheng,Jiang HaiJun,et al.Stabilization of nonlinear systems with time-varying delays via impulsive control [J].Neurocomputing,2014, 125 (3): 68-71.   
+[11] Zhu Wei, Yan Chao.Consensus analysis of second-order agents with active leader and time delay via impulsive control [C]//Proc of the 3Oth Chinese Control Conference.2011: 4753-4757.   
+[12] Li HongJie, Zhu YingLian,Wang JieTai.Consensus of nonlinear secondorder multi-agent systems with mixed time-delays and intermittent communications [J].Neurocomputing,2017,251:115-126.   
+[13] Duan Jianmin,Hu Manfeng,Yang Yongqing,et al.A delay-partitioning projection approach to stability analysis of stochastic Markovian jump neuralnetworkswithrandomlyoccurrednonlinearities [J]. Neurocomputing,2014,128:459-465.   
+[14] Yang XinSong,Yang ZhiChun.Synchronization of TS fuzzy complex dynamical networks with time-varying impulsive delays and stochastic effects [J].Fuzzy Sets and Systems,2014,235:25-43.   
+[15] Qian YuFeng,Wu XiaoQun,Lü JinHu,et al. Second-order consensus of multi-agent systems with nonlinear dynamics via impulsive control [J]. Neurocomputing,2014,125:142-147.   
+[16] Li DanDan,Ma Jing,Zhu HengMin,et al. The consensus of multi-agent systems with uncertainties and randomly occurring nonlinearities via impulsive control [J]. International Journal of Control Automation and Systems,2016,14(4):1005-1011.   
+[17] Horn PA, Johnson C R.Matrix analysis [M].Cambridge:Cambridge University Press,1985.   
+[18]Fang Tao,Sun JiTao.Stability analysis of complex-valued nonlinear differential system [J]. Journal of Applied Mathematics,2013,Artical ID 621957.

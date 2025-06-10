@@ -1,0 +1,212 @@
+[
+    {
+        "type": "text",
+        "text": "Iradiation induced defects by Fe-ion in 316L stainless steel studied by Positron Annihilation Spectroscopy ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xingzhong Cao1,a\\*, Eryang Lu1,2, Shuoxue Jin1, Yihao Gong1,2, Yuanchao Hu1, Te Zhu ‘, Peng Zhang1,Long Wei1, Baoyi Wang1,b 1Institute of High Energy Physics,Chinese Academy of Sciences, Beijing,100049, China 2University of Chinese Academy of Sciences,Beijing,100039, China acaoxzh@ihep.ac.cn,bwangboy@ihep.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: 316L; Fe-ion irradiation; Positron annihilation; Vacancy; Irradiation defects ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract. Solution annealed type $3 1 6 \\mathrm { L }$ austenitic stainless steels were irradiated using 2 MeV Fe ions at room temperature. The implanted fluences were $2 \\times 1 0 ^ { 1 2 }$ ions/cm² and $1 \\times 1 0 ^ { 1 3 }$ ions $/ \\mathrm { c m } ^ { 2 }$ ,respectively. Variable mono-energetic positron beam was performed to characterize the evolution of microstructure and irradiation induced defects. Results show that large amount of vacancy defects formed after heavy ion irradiation. In which, some of mono-vacancies might migrate to form small-sized clusters at room temperature. After irradiation, implanted Fe atoms mainly be interstitials atoms,but some Fe atoms might recombine with vacancies due to their high mobility, which could decrease the defect concentration, effectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FeCrNi austenitic stainless steels are important structural materials for nuclear system [1-3]. Irradiation damage by energetic particles lead to the change of material properties，such as embritlement, hardening and void sweling [1,4-5]. The degradation of solid properties was related to the microstructural evolution [2]. Microdefects, such as dislocations, interstitials,vacancies and small-sized clusters, would formed after irradiation. Some of these microdefects might aggregate to form larger clusters,microvoids and dislocation loops.Previous studies showed that irradiation condition such as irradiation dose, temperature and the alloy elements may aect the microstructural evolution [6-8]. The size of vacancy clusters increases with increasing irradiation dose,and the cluster size would reaches $0 . 5 5 \\mathrm { n m }$ in diameter at 1OO dpa in heavy-ion irradiated 316 stainless steel [6]. A transient stage usually existed before steady void swelling occurs with low damage dose. Theoretical and experimental analyses have revealed the importance of an incubation dose before steady state of the void swelling [9-10]. However, most of the experimental studies focused on the void formation and dislocation loops by transmutation electron microscopy (TEM).Few works focused on the point defects and smal-sized clusters at low iradiation dose for the limitation of effective analysis methods.Due to its self-seeking and non-destructive nature, positron annihilation techniques are suitable to characterize the small-sized defects,such as monovacancies,and tiny vacancy clusters,dislocations,precipitates and their evolution characteristic [11-12].Especially, variable mono-energetic positron beam is very effective to characterize the depth distribution with implanted ions trajectory. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Charged self-ion irradiation was usually used to emulate displacement damage induced by neutrons in the structural materials, which could eliminate the effect of impurity. Additionally,it could reduce the irradiation time and avoid the activation of the irradiated material. In the present study, $2 \\mathrm { M e V }$ Fe-ion irradiation was performed to the type 316L stainless steels with different fluences at room temperature. Positron annihilation spectroscopy was adopted to characterize the structures of irradiation induced defects. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experimental detail ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Table 1.Chemical compositions of 316L stainless steel in $w t \\%$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/717c3d047ec2c968e669fbccade54ab76462fba33a0badac1c78e8c4f7baf658.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Material</td><td>Fe</td><td>Cr</td><td>Ni</td><td>Mn</td><td>Mo</td><td>Cu</td><td>C</td><td>Si</td><td>P</td><td>S</td><td>N</td><td>Co</td></tr><tr><td>316L</td><td>Bal.</td><td>17.35</td><td>11.13</td><td>1.16</td><td>2.12</td><td>0.314</td><td>0.023</td><td>0.659</td><td>0.03</td><td>0.002</td><td>0.046</td><td>0.104</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this research, the composition of commercial 316L stainless steel is shown in Table 1. The size of the samples is $1 0 { \\times } 1 0 { \\times } 1 \\mathrm { m m } ^ { 3 }$ . All samples were mechanically polished with sandpapers and $1 . 5 \\mu \\mathrm { m }$ diamond spray to a mirror like surface,and then all samples were annealed at $1 3 2 3 \\mathrm { ~ K ~ }$ in vacuum （204 $( { < } 1 0 ^ { - 4 } \\operatorname { P a } )$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fe-ion irradiation experiments were performed on the $3 2 0 \\mathrm { k V }$ multi-discipline research platform at the Institute of Modern Physics, CAS. The irradiation fluences was about $2 \\times 1 0 ^ { 1 2 }$ ions/cm² and $1 \\times 1 0 ^ { 1 3 }$ ions/cm², respectively. The distribution of displacement damage induced by ion irradiation and the deposition of implanted $\\mathrm { F e }$ ions were calculated by SRIM code [13]. The results are shown in Fig. 1. The displacement energy $\\mathrm { ( E _ { d } ) }$ of $\\mathrm { F e }$ atom is $4 0 \\mathrm { e V }$ in the calculation [14]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Positron annihilation spectroscopy measurementswere performed usinga variable mono-energetic positron facility. Positrons were generated by a $^ { 2 2 } \\mathrm { { N a } }$ radiation source,and then moderated by tungsten mesh. Beam energy varied from 0.68 to $2 0 . 1 8 \\mathrm { k e V }$ during Doppler broadening energy spectroscopy measurement. The microstructural evolution in the specimens could be characterized though the conventional S and W parameters.The S parameter is defined as the ratio of counts in the central energy region around $5 1 1 \\mathrm { \\ k e V }$ 1 $\\langle 5 1 0 . 2 4 - 5 1 1 . 7 6 \\mathrm { k e V } \\rangle$ to the total counts at the energy region between $5 0 4 . 2 \\mathrm { ~ k e V }$ and $5 1 7 . 8 { \\mathrm { ~ k e V } }$ ，which means positron annihilated with valence electron and sensitive to the defect concentration. The W parameter is the ratio of the counts in the wing area $( 5 0 4 . 2 \\textrm { - } 5 0 8 . 4 \\mathrm { k e V }$ and $5 1 3 . 6 - 5 1 7 . 8 \\mathrm { k e V } )$ to the total counts around $5 0 4 . 2 - 5 1 7 . 8 \\mathrm { k e V } .$ which represent the positron annihilated with core electron and related to the chemical composition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The mean implantation depth of the energetic positrons is estimated by the incident energy and calculated by the following equation [15]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ ( E ) = ( \\frac { 4 0 } { \\rho } ) E ^ { 1 . 6 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $Z ( E )$ is expressed in units of nanometer, $\\rho$ is the material density of 316L stainless steel. $E$ is the incident positron energy in $\\mathrm { k e V }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Positron annihilation lifetime spectroscopy measurementswere also performed by variable-energy slow positron beam [16]. The continuous positron beam was transformed into a pulsed system by the pulsing system, which consists of a reflection type chopper, a prebuncher and a buncher [17].A $\\mathrm { B a F } _ { 2 }$ scintillation detectorwas employed to obtain the signal of positron annihilation. The stop signal for the positron lifetime measurement come from the pulsing electronic system, and the start signal is derived from the detector. The time resolution of this system is about 386 ps.In measurement, positrons energy were selected to $2 \\mathrm { k e V }$ and $1 2 \\mathrm { k e V }$ ，which related to the implanted depth were $1 6 \\mathrm { n m }$ and $2 8 5 \\mathrm { n m }$ , respectively. Over $1 . 3 { \\times } 1 0 ^ { 6 }$ counts were collected for each spectrum. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows the results of SRIM calculation. From Fig. 1, certain amount of vacancy-type defects would be generated after Fe-ion irradiation. Irradiation induced vacancies distributed from surface to about $1 ~ { \\mu \\mathrm { m } }$ ，and peaked at about $6 0 0 \\ \\mathrm { n m }$ . The implanted Fe atoms mainly deposited between $3 0 0 \\mathrm { n m }$ and $1 \\mu \\mathrm { m }$ , and the depth of deposition peak was about $7 5 0 \\mathrm { n m }$ . The damage dose at peak was about $4 . 6 { \\times } 1 0 ^ { - 3 }$ dpa and $2 . 3 { \\times } 1 0 ^ { - 2 }$ dpa, respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb3f9539acc5201c89936beb12227bce7924bc2144afe4bcd72429fd420c2e97.jpg",
+        "img_caption": [
+            "Figure 1. Depth profiles of the displacement damage and implanted Fe ions calculated by SRIM. Fig.2 shows the variation of S parameters as a function of incident positron energy. The average incident depth of energetic positrons is shown on the top $\\mathbf { X }$ -axis.For the unirradiated specimen, the value of S parameter is largest at surface layer,and then decreased rapidly. This phenomenon could be explained by the affection of surfance defects or the effect of positron diffusing back to the surface and the formation of ortho-positronium [18]. At last, the saturated S value of the unirradiated specimen is around O.38. Compared to the unirradiated specimen， similar variation trend of S parameter would be observed at surface layer for two irradiated specimens.However,the S value kept almost constant with the depth over $4 8 ~ \\mathrm { n m }$ for both irradiated specimens,and it would be larger at higher irradiation dose. These results indicate that certain amount of vacancy-type defects formed after Fe-ion irradiation even though at low damage dose. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to characterize the surface effect, variable mono-energetic positron annihilation lifetime measurement was performed on the post-irradiated specimens with the positron energy of 2 and 12 keV. The mean implanted depth of positrons are about 16 and $2 8 5 \\mathrm { n m }$ , respectively. The normalized positron annihilation lifetime spectra are shown in Fig. 3. Similar spectra is observed for two samples with different damage dose at the same depth. However,the counts intensity of the surface layer are larger than the inner layers at long lifetime region, obviously. One reason is that some of the incident positrons with low energy might backscattered from the surface,and then implanted into the solid again, which prolonged their annihilation lifetime. As reported, some of the incident positrons would form orth-positronium at the surface of metals [19]. The lifetime of o-Ps could be several nanoseconds, which explained the long lifetime part of the surface layer as shown in Fig. 3. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ed9c7aa942673486ea89e91ed28e5ae40f58ae9ef21dddda17789f448bc69a6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/746fb5037a5398f65e365044bbbb913fa53d00a4229b113369b66ece5fb012dd.jpg",
+        "img_caption": [
+            "Figure 2. S parameters as a function of incident positron energy for the samples with different irradiation fluences. ",
+            "Figure 3. Positron annihilation lifetime spectra of the post-irradiated specimens at surface and damage region, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "S-E curves were analyzed by the VEPFIT,which is based on the multi-layer structures of positron diffusion model [2O].The VEPFIT analysis of the experimental data was divided into four layers.The first layer is the surface layer.According to the SRIM calculation,as shown in Fig.1, the damage region is divided into three layers.The second layer is the track region, where the implanted Fe ions slow down through atomic collision. However,Fe atom was hardly deposited in this layer. At the same time, certain amount of vacancy defects were generated in this layer. The third layer is the damage region. Much more vacancy defects induced by Fe-ion irradiation were generated here, and part of the implanted Fe atoms would stay in this layer. The forth region is called deposited region, where most of the implanted Fe atoms stay in this layer,and part of the damage defects were also generated here.Fig. 4 shows the fitted S parameters as a function of depth for the irradiated specimens. The boundaries of these four layers are about O-20,20-30o,300-600 and $6 0 0 { - } 6 5 1 ~ \\mathrm { { n m } }$ respectively.Similar variation trend of the fitted S parameter can be observed for both irradiated specimens,and the fitted value for higher dose specimen are always larger than the lower dose specimen. Neglecting the surface layer,the fitted S value should be largest at damage layer,and then is the track region. It would be smallst at the deposited region. For the reason that the value of S parameter is related to the efective defect concentration. The defect density at damage layer $( 3 0 0 - 6 0 0 \\mathrm { n m } )$ ） would be larger than the other two layers. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb2b5932586255451a1dd20ca26c41db0420912b35efbbda7d438b0feb260395.jpg",
+        "img_caption": [
+            "Figure 4.Fited S parameters of the post-irradiated specimens at different depth region using VEPFIT "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/59962ddeb95995664ea6fd82c4b14a31e5c43593c52f2a4e736f0ac8e50b5c81.jpg",
+        "img_caption": [
+            "Figure 5. S-W plots for the irradiated specimens with different fluences. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Information about the type of defects in specimens could be revealed by plotting the W parameter as a function of the S parameter. The S-W plots for the unirradiated and post-irradiated alloys are shown in Fig.5.For the defect free specimen,the S-W plot can be fitted to a linear function because of the similar positron annihilation mechanism at the annihilation site. Compared to the unirradiated sample,the (S, W) points of the post-irradiated samples were aggregate and deviate from the defect free sample. This might indicate that the microstructure was changed and only one type of micro defects generated after self-ion irradiation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fe atoms is one of the main elements in 316L stainless steel so that no other impurities would be induced after Fe-ion irradiation.Therefore,displacement damage is the only reason for the variation of the S parameter in the irradiated specimens. Large amount of vacancies Would be formed after energetic Fe ions implanted into the alloy by SRIM calculation. The damage dose also increased at higher fluence, which could induce much more vacancies in the solid. In addition, mono-vacancies Was not stable even at room temperature because of their low migration energy [14]. They could migrate and aggregate to form vacancy clusters even at room temperature in steel [21]. However, the vacancy clusters could not migrate with the temperature lower than $0 . 3 T _ { m }$ ( $T _ { m }$ is the melting temperature of steel) [14]. They could exist in the solid stably. Meanwhile,several impurity atoms could trap the mobile mono-vacancies to form impurity-vacancy complexes [15，22]. These complexes were hardly migrate at room temperature due to their larger migration energy compare to the mono-vacancies. These impurity-vacancy complexes can be divided into interstitial or substitutional type.As the Fe ions implanted into the solid, most of them would form self-interstitial atoms (SIAs),firstly. Some of them might recombine with the irradiation induced vacancies.Due to the low damage dose in this experiment and the limitation of the irradiation temperature, no void formed in the solid. The microdefects would be mono-vacancies, small clusters, impurity-vacancy complexes and interstitials,according to the above analysis. The migration energy of interstitials is usually lower than vacancies so that they could move easily and recombine with vacancy defects, which could reduce the effective concentration of vacancy defects. The Variation of S parameter is related to the size or the concentration of vacancy-type defects. As the fited S parameter shown in Fig. 4, the value of S parameter in track layer would be lower than that in damage layer. This indicates that less vacancy defects was performed in the track region, and most of the monovacancies and clusters would be generated at damage layer. Even though small part of Fe atoms would deposited at this region to form self-interstitial atoms and some of them would recombine with mono-vacancies. Most of the incident atoms would deposited at the depth over $6 0 0 \\ \\mathrm { n m }$ which meant large amount of interstitials formed at this region.While the defects concentration decreased sharply according to the SRIM calculation. These interstitials was unstable for the reason of their high mobility, which could decrease the defect concentration, obviously. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fe ion irradiation was conducted to the type 316L stainless steel with different damage dose at room temperature. The evolution of microstructure was investigated by variable mono-energetic positron annihilation techniques. Some of the incident positrons with low energy might backscatred from the surface,which prolong the annihilation lifetime. Large amount of vacancy-type defects generated after heavy ion irradiation even though the damage dose was low.The defect concentration also varied at different depth layer. Implanted Fe atoms Would be interstitials,and some of them would recombine with vacancies due to the high mobility. This effect would decrease the effective concentration of the vacancy-type defects. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the National Science Foundation of China 91226103,11475193 and 11475197. The authors_greatly appreciate all the help from the staff of $3 2 0 ~ \\mathrm { k V }$ multi-discipline research platform at the Institute of Modern Physics, CAS during the heavy ion irradiation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] D.K. Tappin, D.J. Bacon, C.A. English, et al. The Characterization of Displacement-Cascade Collapse in Ni-Cr-Fe Alloys, J. Nucl. Mater. 205(1993) 92-97.   \n[2] A.Etienne,M. Hernandez-Mayoral, C. Genevois, et al. Dislocation loop evolution under ion irradiation in austenitic stainless steels, J.Nucl. Mater. 4OO (201O) 56-63.   \n[3] H.F. Huang, J.J.Li, D. H.Li, et al. TEM, XRD and nanoindentation characterization of Xenon ion irradiation damage in austenitic stainless steels, J. Nucl. Mater. 454 (2O14) 168-172.   \n[4] K.Vortler,N. Juslin, G. Bonny, et al. The effect of prolonged irradiation on defect production and ordering in Fe-Cr and Fe-Ni alloys, JPhys-Condens Mat.23 (2011) 355007.   \n[5] S.J. Zinkle,N.M. Ghoniem Prospects for accelerated development of high performance structural materials, J. Nucl. Mater. 417 (2011) 2-8.   \n[6] S. Y. Zhu, Y. N. Zheng, P. Ahmat, et al. Temperature and dose dependences of radiation damage in modified stainless steel, J. Nucl. Mater. 343(2005) 325-329. [7] A.P. Druzhkov,D.A. Perminov,A. E. Davletshin The effect of alloying elements on the vacancy defect evolution in electron-iradiated austenitic Fe-Ni alloys studied by positron annihilation, J.Nucl. Mater.384(2009) 56-60.   \n[8] Q. Xu, H. Watanabe,N. Yoshida Microstructural evolution in Fe-Cr-Ni alloy irradiated with Ni ion under varying temperature,J. Nucl. Mater. 233(1996) 1057-1061.   \n[9] A.D.Brailsford,R.Bullough Citation Classic - the Rate Theory of Sweling Due to Void Growth in Irradiated Metals, Cc/Eng Tech Appl Sci. (1982) 22-22.   \n[10]T. Yoshiie, X. Z. Cao, K. Sato, et al. Point defect processes during incubation period of void growth in austenitic stainless steels, Ti-modified 316SS, J. Nucl. Mater. 417 (2011) 968-971. [11]M. Eldrup,B.N. Singh Studies of defects and defect agglomerates by positron annihilation spectroscopy, J. Nucl. Mater. 251 (1997) 132-138.   \n[12]M.Lambrecht, A. Almazouzi Positron annihilation study of neutron irradiated model alloys and of a reactor pressure vessel steel, J. Nucl. Mater. 385 (2009) 334-338.   \n[13]J.F. Ziegler, J.P. Biersack, U.Littmark The Stopping and Range of Ions in solids, Pergamon, New York,， (1985) http://www.srim.0rg.   \n[14]H. P. Zhu, Z. G. Wang, X. Gao, et al. Positron annihilation Doppler broadening spectroscopy study on Fe-ion irradiated NHS steel, Nucl Instrum Meth B.344 (2015) 5-10.   \n[15]E.Lu, X. Cao, S. Jin, et al. Investigation of vacancy-type defects in helium irradiated FeCrNi alloy by slow positron beam, J. Nucl. Mater. 458 (2015) 240-244.   \n[16]B.Y. Wang, Y. Y.Ma,P. Wang, et al. Development and application of the intense slow positron beam at IHEP, Chinese Phys C.32 (2008) 156-159.   \n[17]Y. Y.Ma, S.L. Pei, X.Z. Cao, et al. Design of a pulsing system for Beijing intense slow positron beam,High Energ Phys Nuc.30 (2006) 166-170.   \n[18]Q. Xu, K. Sato, X. Z. Cao,et al. Interaction of deuterium with vacancies induced by ion irradiation in W,Nucl. Instr.Meth.Phys. Res.B.315 (2013) 146-148.   \n[19]H.Huomo,A. Vehanen,M. Bentzon,et al. Positron diffusion in Mo: The role of epithermal positrons,Phys.Rev. B.35(1987) 8252-8255.   \n[20]A.v. Veen,H. Schut, J.d. Vries, et al. Analysis of positron profiling data by means of “VEPFIT',218 (1991) 171-198.   \n[21]C.Dimitrov,M. Tenti, O. Dimitrov Resistivity Recovery in Austenitic Fe-Cr-Ni Alloys Neutron-Irradiated at 23-K, JPhys F Met Phys. 11 (1981) 753-765.   \n[22]A.P.Druzhkov,D.A.Perminov,V.L. Arbuzov The effect of carbon on the evolution of vacancy defects in electron-irradiated nickel studied by positron annihilation, J. Nucl. Mater. 434 (2013) 198-202. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

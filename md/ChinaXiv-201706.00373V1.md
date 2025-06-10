@@ -1,0 +1,127 @@
+# 旋转冲压压缩转子激波/附面层/泄漏流干扰研究
+
+管健韩吉昂钟兢军苑辰光(大连海事大学轮机工程学院，大连116026)
+
+摘要为分析附面层和泄漏流对旋转冲压压缩转子内激波结构的影响，开展了旋转冲压压缩转子内部流场的数值研究，并从激波形成与变化的角度分析激波与附面层，激波与泄漏流的相互作用。研究表明， $S _ { 2 }$ 流面激波与轮毂附面层、 $S _ { 1 }$ 流面激波与隔板尾缘低速分离流体团相互作用能够改变激波的结构形态、作用位置，压比升高时低速团的影响范围增大。 $S _ { 1 }$ 流面激波在泄漏涡的作用位置处发生偏折，与无间隙时相比，有间隙时旋转冲压压缩转子在喉部及以后流道内更易形成激波串。
+
+关键词旋转冲压压缩转子；激波；附面层；泄漏流；数值研究中图分类号：V231.3 文献标识码：A 文章编号:0253-231X(2017)05-0950-07
+
+# Numerical Research of Shock Wave/Boundary Layer/Leakage Flow Interaction in the Ram-rotor
+
+GUAN Jian HAN Ji-Ang ZHONG Jig-Jun YUAN Chen-Guang (Marine Engineering College,Dalian MaritimeUniversity，Dalian 1l6026,China)
+
+Abstract In order to investigate the influenof boundary layer and tip leakage flow on the shock wave structure,the flow field in the ram-rot6r was researched numerically. The interaction between shock wave and boundary layer, togetheYwith the interaction between shock wave and leakage flow, was analyzed in terms of the forqation and variation of shock waves. It has been found that the structure and position of shgek waves can be changed, respectively, due to the interaction between shock waves in $S _ { 2 }$ stream surface and boundary layer of the hub wall and the interaction between shock waves in $S _ { 1 }$ stream surface and low momentum separation flow near the strake trailing edge. As total pressure ratio rises, the low momentum zone is also extended. Shock waves in $S _ { 1 }$ stream surface are bent at the position of leakage vortex. Compared with the Cam-rotor without tip clearance, the shock train is more easily formed in the throat and later flow passage of the ram-rotor with the tip clearance. K
+
+Key wordsram-rotor; shock wave; boundary layer; leakage flow; numerical research
+
+# 0引言
+
+超/跨声速压气机在现代高性能压气机的研究中占据越来越重要的作用，其性能对燃气轮机的效率和稳定性有着重要的影响。旋转冲压压缩转子[1]属于超声速压气机的一种，具有增压比高、结构紧凑、成本低等优势。美国Ramgen 动力系统公司[2-4]和国内的中科院工程热物理研究所[5,6]、哈尔滨工业大学[7]、大连海事大学[8-10]等都相继开展了旋转冲压压缩转子相关设计、流场预测及试验研究，并取得了一些卓有成效的研究成果。
+
+对于超/跨声速压气机来说，其内部激波、壁面附面层、间隙泄漏流之间相互干涉会导致流动的复杂化，从而造成损失加剧[11]，进而限制其性能的提升。目前，针对转子顶部泄漏流、波和分离流的干涉研究多集中在跨声速压气机中[12,13]，超声速压气机中的相关研究相对较少。此外，旋转冲压压缩转子相比常规超/跨声速压气机，内部激波结构更为复杂，其流道内不仅存在着 $S _ { 1 }$ 流面激波，还存在 $S _ { 2 }$ 流面激波，从而使激波、附面层和泄漏流之间的相互干涉作用更为剧烈，其对性能的影响也更为明显。正是基于以上认识，本文开展了有、无间隙时旋转冲压压缩转子流场的数值研究，重点分析了其内部激波结构与附面层和隔板顶部泄漏流的相互作用，以期为后续开展的旋转冲压压缩转子流动结构优化以及性能的提升提供一定的参考。
+
+# 1计算模型及数值方法
+
+# 1.1计算模型和几何参数
+
+本文的研究对象为旋转冲压压缩转子，3个隔板(类似于压气机叶片）安装在轮盘外缘上，并在轮毂上设置压缩面、喉部和扩压面来形成 $S _ { 2 }$ 流面上的压缩激波系。考虑到流动的周期性，本文只取单流道进行数值计算。表1给出了旋转冲压压缩转子关键几何参数，其计算模型如图1所示。
+
+# 表1旋转冲压压缩转子关键几何参数
+
+Table 1 Key geometry parameters of the ram-rotor   
+
+<html><body><table><tr><td>几何参数</td><td>数值</td></tr><tr><td>轮盘外径/mm</td><td>350</td></tr><tr><td>隔板高度/mm</td><td>17.5 热物理学报</td></tr><tr><td>喉部高度/mm</td><td>15</td></tr><tr><td>前、尾缘半径/mm</td><td></td></tr><tr><td>隔板顶部间隙/mm</td><td></td></tr><tr><td>压缩角/()</td><td>块 6</td></tr><tr><td>扩压角/()</td><td>5 积</td></tr></table></body></html>
+
+# 1.2网格及数值计算方法
+
+为了获得高质量的网格，本文对旋转冲压压缩转子单流道计算域进行分区结构化网格划分 (如图2所示)，并利用商用FLUENT 流体计算软件对无间隙和有间隙情况下的旋转冲压压缩转子计算模型进行数值求解。采用基于密度的隐式求解器，湍流模型选取Spalart-Allmaras一方程模型，控制方程对流项的离散采用二阶迎风格式。压力进口给定总压总温和来流气流角，壁面设置为绝热无滑移边界条件，旋转冲压压缩转子隔板和轮毂壁面转动，其它壁面设置为绝对静止，周向侧面设置为旋转周期性边界条件，出口给定静压。为排除网格精度对计算结果的影响，本文进行了网格无关性检验，共划分五套网格，分别为95万、121万、141万、165万和182万，计算结果如图3所示。随着网格数从95万增加到182万，旋转冲压压缩转子的压比、效率和流量都变化不大，其数值波动范围最大约 $0 . 5 7 \%$ ，而当网格数大于141万时，最大数值波动范围降低为 $0 . 2 \%$ 因此本文选取网格数为141万进行数值研究。
+
+![](images/edc60be6504dc807d8f8ba06c7c9d5b4e057db6562d485ced27fe8461c416b49.jpg)  
+图1旋转冲压压缩转子计算模型Fig.1 Ram-rotor computational model
+
+![](images/d4b0f8508d6763c2f982c8b6394957d25c42f8b9b8f4b98a58741a55b66bacdf.jpg)  
+图2计算网格
+
+![](images/9704f8f341518512c5797cff6e785ea17bde665e305b42cfa5d6cef611c1df11.jpg)  
+Fig.2 Computational grid   
+图3网格数无关性检验 Fig.3 Grid independence study
+
+本文在研究中首先对无间隙的旋转冲压压缩转子开展了数值研究，这样可以在摒除间隙泄漏流影响的前提下，详细分析流道内激波和附面层等低能流体的相互作用，然后在此基础上引入了隔板顶部间隙，并开展了带有间隙的旋转冲压压缩转子的流场研究，从而更为深入地了解激波/壁面附面层/顶部泄漏流之间的相互干涉作用。针对有、无间隙的旋转冲压压缩转子计算模型分别选取了三个不同的总静压升系数工况进行对比分析。
+
+-减速的状况，其特点是一系列不连续的静压/相对马赫数孤立区域，气流相对马赫数和静压峰值交替出现，形成激波串。不同节距位置时，越靠近隔板吸力面的 $S _ { 2 }$ 流面，受出口背压的影响越大，其沿流向逆压力梯度越大，激波及膨胀波结构也变得更为模糊，结尾激波受到影响也相对严重， $9 0 \%$ 节距处结尾激波遭到了破坏。从图4(a)中可以看出， $7 0 \%$ 节距处受结尾激波和轮毂附面层作用而形成的低能流体团尺度最大。
+
+# 2无间隙结果分析
+
+# 2.1 $S _ { 2 }$ 流面激波及其与附面层相互作用
+
+由于旋转冲压压缩转子流道内最主要的流动结构为布置在 $S _ { 2 }$ 流面的压缩激波系，为此首先给出了旋转冲压压缩转子各节距 $S _ { 2 }$ 流面相对马赫数分布 (图 4)。总静压升系数 $\varPsi = 0 . 7 6$ 时，如图4(a),沿流动方向主要形成了5道曲线激波、1道结尾激波 (如图中黑色虚线所示)和激波串(以50%节距S流面为例)。超声速来流经过压缩面时，由于壁面内折，超声速气流发生折转，形成入射激波，即③道曲线激波中的第1道。在其影响下，轮毂压缩面上的附面层会有所增厚。此入射激波由轮毂延伸到机匣并在机匣上反射，形成由机匣到轮毂喉部面上的第2道曲线激波，波后气流再次折转并与喉部面平行。与压缩面相比，喉部面外凸，第1道曲线激波后的超声速气流会在喉部入口处受壁面外折的影响而形成1簇膨胀波，穿过第1道反射激波向机匣延伸。本文为了叙述方便，用1条膨胀波代替，称其为第1道膨胀波，这在一定程度上减小了喉部入口位置处的附面层厚度，加速第2道曲线激波的波后气。流流速，并且使第2道曲线激波之后平行于喉部面的气流再次折转。与此同时，受第2道曲线激波影响，其波后的喉部附面层又再次增厚，在膨胀波和增厚的附面层共同作用下，形成了第3道曲线激波，之后膨胀波和激波依次成对出现，直至生成第2道膨胀波/第4道曲线激波，第3道膨胀波/第5道曲线激波，其中形成的膨胀波用白色虚线标出，如图4(a）所示。此后，超声速气流经历扩压面的扩张流道，再次加速到较高的马赫数，受出口背压的作用，形成一道较强的结尾激波，波后的高压通过附面层内的低能流体向前传递，形成了小尺度的低能流体团，使结尾激波近轮毂处向上游发生了偏移。结尾激波后气流变为亚声速，亚声速气流在不断增厚的附面层的作用下， $S _ { 2 }$ 流面的气动收缩使其重新加速到较低的超声速气流，气流就依次呈现减速－加速
+
+![](images/cde8c85ca6810239d9a3df943cbb0448a9a9b79453510ec0a56f469705ac602c.jpg)  
+图4不同节距 $S _ { 2 }$ 流面相对马赫数分布Fig.4 Relative Mach number contours of $S _ { 2 }$ stream surfacesat different pitch positions
+
+$\varPsi = 0 . 9 1$ 时，见图 4(b)，节距方向激波结构的差异逐渐显现，隔板尾缘附近的低能流体团范围增大 (图中黑色线框)，进一步阻塞隔板吸力面侧，尤其是 $9 0 \%$ 节距位置处的气流流动。各节距位置的结尾激波/激波串前移，进而使从隔板压力面至隔板吸力面的激波数目逐渐减少。
+
+$\varPsi = 1 . 0 1$ 时，见图4(c)，隔板尾缘附近的低能流体团尺度进一步加大，结尾激波/激波串继续向上游移动，旋转冲压压缩转子内的激波数目再次减少，尤其是靠近隔板吸力面侧，在 $9 0 \%$ 节距位置处结尾激波几乎和入射激波合并， $\varPsi = 1 . 0 1$ 时已经接近达到旋转冲压压缩转子的极限工况，当背压更高时，由于激波不能稳定于压缩面，因此将出现失稳。
+
+# 2.2 $S _ { 1 }$ 流面激波及其与附面层相互作用
+
+前述 $S _ { 2 }$ 流面的激波，不仅会对轮毂附面层产生影响，其也会作用到隔板吸、压力面，而且隔板前缘激波也会对流道内的激波造成影响。图5给出了$9 5 \%$ 喉部高度 $S _ { 1 }$ 流面的相对马赫数分布。由图可以看出， $\varPsi = 0 . 7 6$ 时 (图 5(a))，隔板前缘激波分为两支，吸力面侧一支向上游延伸，和之后吸力面产生的膨胀波一样，只对来流气流产生一定的影响。而前缘激波压力面侧一支则伸入流道内部，并与流道内的激波和膨胀波相互叠加、干涉，造成叠加后的激波强度增加。而且尽管在 $S _ { 2 }$ 流面内为曲线激波；但在$S _ { 1 }$ 流面内，这些激波都是以接近垂直的方式作用在隔板吸、压力面上，由于近吸力面位置附面层积累的厚度较大，因此 $S _ { 2 }$ 流面内产生的激波与吸力面附面层作用时，也会使激波向上游移动，如图5(a）中黑框所示。值得注意的是，受旋转冲压压缩转子内部较大逆压梯度的作用，气流在隔板尾缘处发生分离而产生低速流体团，堵塞了 $S _ { 1 }$ 流面的流道, $S _ { 2 }$ 流面内产生的激波与其相互作用会使隔板吸力面侧的波系结构破坏的更为严重，这就进一步解释了上文提到的 $9 0 \%$ 节距处的激波系遭到破坏最为严重的原因。而在隔板压力面侧，结尾激波与压力面附面层发生强烈的干涉作用，形成了类似马赫反射的激波结构，气流分离并形成了大量的低能流体团。
+
+随着背压的增加， $\varPsi = 0 . 9 1$ 时 (图5(b))，流道内的激波、激波串位置前移，结尾激波/激波串强度减弱，流道内曲线激波和结尾激波/激波串与附面层的干涉作用均不大，隔板压力面侧的低速流体团消失，旋转冲压压缩转子的性能得到提升。 $\varPsi \ = \ 1 . 0 1$ 时 (图 5(c))，流道内的激波、激波串位置进一步前移，其中激波串已影响到喉部位置，而且可以明显看出结尾激波沿节距方向发生了倾斜。与图4(c）中一致，靠近隔板吸力面侧，结尾激波已经汇入入射激波，这是因为此时激波、激波串使吸力面侧附面层已经积累到一定程度，造成激波和隔板吸力面侧附面层的较强相互干涉，促使隔板吸力面尾缘附近低速流体团尺度增大，并进一步堵塞了隔板吸力面侧流道，促使结尾激波 (或者结尾激波串的起始位置）移向上游，并与入射激波合并。在隔板压力面侧，结尾激波强度弱于隔板吸力面侧，在结尾激波/激波串的作用下，隔板压力面形成较小的封闭低速流体团（图5(c）中线框)。由此得知，在吸力面侧流道配置良好的激波系将有助于提升旋转冲压压缩转子的性能。
+
+![](images/5fd98640cbf12e88255a514333e86a60eb7eff9c209a0d3892b45e3f9c0e1b63.jpg)  
+图5 $9 5 \%$ 喉部高度 $S _ { 1 }$ 流面相对马赫数分布Fig.5 Relative Mach number contours of $S _ { 1 }$ stream surfaceat $9 5 \%$ throat height
+
+# 3有间隙结果分析
+
+# 3.1 $S _ { 1 }$ 流面激波及其与泄漏流的相互作用
+
+图6给出了带有顶部间隙的旋转冲压压缩转子隔板顶部三维流线。由于存在顶部间隙，在隔板两侧压差的作用下，从近隔板前缘位置开始，近机匣隔板压力侧流体越过隔板顶部间隙流到隔板吸力面侧，形成隔板顶部间隙泄漏流，但是从前缘到尾缘，不同起始位置的泄漏流的运动有所不同，如图6所示，其中上、中、下三部分分别表示的是隔板前部、中部和后部三部分的顶部间隙泄漏流。可以看出，隔板顶部前部位置形成的泄漏流在与主流的作用下卷起形成泄漏涡，隔板中部的泄漏流并未参与泄漏的形成，其越过顶部间隙后与主流掺混，而隔板后部的泄漏流体在越过流道后继续进入相邻隔板的间隙位置处，并发生二次泄漏。随着背压的高，旋转冲压压缩转子流道内的逆压力梯度增加，造成隔板顶部流体泄漏的驱动力增加，泄漏流的强度和作用范围亦增大，二次泄漏位置(图中A位置)也更加提前，因此其与流道内的激波相互作用时所造成的影响也同样有所不同。
+
+图7所示为 $9 5 \%$ 喉部高度 $S _ { 1 }$ 流面相对马赫数分布。 $\varPsi = 0 . 7 4$ 时 (图7(a))，由于受泄漏流影响，靠近隔板吸力面侧的气流相对马赫数与压力面侧相比较低，因此，隔板吸力面侧 $S _ { 1 }$ 流面内的激波都整体向上游迁移，造成 $S _ { 1 }$ 流面内的激波沿节距方向从压力面到吸力面并不成直线，而是在泄漏涡作用的位置处发生了偏折 (图7(a）中虚线所示)。受隔板顶部流体泄漏作用而导致的波系前移不利于转子内部的激波稳定在流道内，这是与无间隙时相比，带有间隙的旋转冲压压缩转子容易失稳的一个原因。此时结尾激波与隔板压力面附面层和隔板尾缘附近低速流体团之间的相互干涉强度有所减弱。 $\varPsi = 0 . 8 8$ 时(图7(b))，结尾激波/激波串前移，结尾激波受泄漏流的影响程度变大，其激波前马赫数有所降低，因而降低了激波强度，而激波位置和强度的改变使其与隔板壁面附面层的作用减弱，尽管泄漏强度有所增加，但激波/附面层的相互干扰强度降低。
+
+$\varPsi = 0 . 9 4$ 时 (图7(c))，在泄漏流、结尾激波和隔板尾缘低速流体团的相互作用下，隔板吸力面侧流道区域的结尾激波已经消失，喉部及下游区域在激波串的作用下进行气流压力的提升。
+
+# 3.2S流面激波及其与泄漏流的相互作用
+
+图8给出了带有隔板顶部间隙的旋转冲压压缩转子 $S _ { 2 }$ 流面相对马赫数分布。 $\varPsi = 0 . 7 4$ 时(图8(a)),与无间隙情况类似，曲线激波、膨胀波、结尾激波/激波串结构相一致，所不同的是在 $5 0 \%$ 到 $9 0 \%$ 节距近机匣附近位置的部分波系结构遭到破坏， $5 0 \%$ 节距位置最为严重，显然这是由于隔板顶部泄漏流与 $S _ { 2 }$ 流面激波系相互作用导致。由图6(a)中可知，在隔板近前缘位置泄漏涡形成之后，沿着流向向下游运行的过程中，逐渐向相邻隔板压力面侧靠近。而 $5 0 \%$ 节距 $S _ { 2 }$ 流面激波系作用的区域恰为泄漏涡经过的区域，由于泄漏涡卷吸了大量的低能流体团，因而此节距位置的波系破坏最为严重，而且一个最重要的变化是此位置压缩面附近的正常激波反射转变为马赫反射，激波形态由曲线激波转变为 $\lambda$ 激波，其形成原因已在文献[10]中给出解释。
+
+![](images/b40a73a837e52a4b9f31563765ec8100e8d0b7cc62d212579ce93956996bcd2e.jpg)  
+图6旋转冲压压缩转子顶部间隙三维流线  
+\`ig.6 3D streamlines released at mid-clearance of the ram-rotor passage
+
+增强， $S _ { 2 }$ 流面内波系受其影响更为剧烈，结尾激波$\varPsi = 0 . 8 8$ 时 (图8(b))，隔板顶部流体泄漏强度
+
+![](images/930d321f273e7f04964dad0d88cf5bec2f7cf06b927d56e87ab595ca018ffd61.jpg)
+
+图7 $9 5 \%$ 喉部高度 $S _ { 1 }$ 流面相对马赫数分布Fig.7 Relative Mach number contours of S1 stream surfaceat $9 5 \%$ throat height
+
+$\varPsi = 0 . 9 4$ 时 (图8(c))，隔板顶部流体泄漏进一步增强，作用范围也进一步增大，已经从 $5 0 \%$ 节距位置处影响到 $3 0 \%$ 节距处,这是造成 $3 0 \%$ 节距到 $7 0 \%$ 节距位置的结尾激波遭到破坏而转变为激波串的主要原因。 $9 0 \%$ 节距位置由于受到隔板尾缘附近低速流体团和顶部泄漏流的堵塞作用，并受出口高背压影响，波系已经集中在压缩面附近，当背压继续增大时，此节距位置的波系将首先被推出旋转冲压压缩转子流道，造成旋转冲压压缩转子失稳。
+
+# 4结论
+
+本文对旋转冲压压缩转子有、无间隙工况进行数值模拟，重点关注其内部激波结构及其与附面层和隔板顶部泄漏流的相互干涉作用，得到以下结论：
+
+1）无间隙时，喉部入口后膨胀波和曲线激波成对出现；隔板尾缘气流分离形成的低速流体团、隔板吸力面附面层和 $S _ { 1 }$ 流面激波相互作用，使得靠近隔板吸力面侧的流体堵塞较为严重。随着压比升高，隔板尾缘低速流体团尺度增大， $S _ { 1 }$ 流面结尾激波沿节距方向发生倾斜，靠近隔板吸力面的结尾激波与入射激波合并，旋转冲压压缩转子接近极限工况。
+
+2）有间隙时， $S _ { 1 }$ 流面上的结尾激波沿节距方向在泄漏涡作用的位置发生偏折。泄漏流与 $S _ { 2 }$ 流面激波相互作用后，改变了 $S _ { 2 }$ 流面的激波系，泄漏涡经过的区域卷吸大量的低能流体，马赫反射最为严重。随着压比的升高，受隔板顶部泄漏流的影响，与无间隙时相比，喉部及以后流道更易形成激波串。
+
+3)靠近隔板尾缘吸力面附近的分离区和隔板预部位置的泄漏流及其与激波相互干涉所造成的流动损失是造成旋转冲压压缩转子性能较低的重要原因。改善上述位置的流动并配置良好的激波系将有助于进一步提升旋转冲压压缩转子的性能
+
+# 参考文献
+
+工
+
+[1]Lawlor S P,Hinkey JB,Mackin SG,et al.Supersonic Compression Stage Design and Test Results [R].ASME Paper 2004-IMECE-59914,2004   
+[2]Steele R,BaldwinP,Kesseli J.Insertion of Shock Wave Compression Technology into Micro Turbines for Increased Efficiency and Reduced Costs [R].ASME Paper 2005-GT-68203，2005   
+[3]Grosvenor AD,BrownPM,Lawlor SP.Design Method ology and Predicted Performance for a Supersonic Com pressor Stage [R].ASME Paper 2006-GT-90409,2006   
+[4]GrosvenorAD,Taylor DA,Bucher JR,et al.Measured and Predicted Performance of a High Pressure Ratio Supersonic Compressor Rotor [R].ASME Paper 2008-GT50150,2008   
+[5]肖翔，赵晓路，徐建中.高压比旋转冲压叶轮研究[J].工程 热物理学报，2008,29(5)：759-762 XIAO Xiang, ZHAO Xiaolu,XU Jianzhong.A New Kind ofHigh Performance Shock-in Impeller[J]. Journal of Engineering Thermophysics,2008,29(5):759-762   
+[6]肖翔,刘锡阳,赵晓路,等.对转冲压压气机冲压叶栅实验研 究[J].工程热物理学报，2009,30(11)：1837-1840 XIAO Xiang,LIU Xiyang, ZHAO Xiaolu,et al.The Cascade Experimental Investigation of Counter-Rotating Ram-pressor [J]. Journal of Engineering Thermophysics, 2009,30(11): 1837-1840   
+[7]于达仁,何保成，吕晓武,等.旋转冲压发动机进气道压比特 性分析[J].推进技术,2008,29(3)：329-333 YU Daren, HE Baocheng,LV Xiaowu, et al. Characteristics Analysis of Pressure Ratios for Rotated Ramjet Inlets [J].Journal of Propulsion Technology,2008,29(3):329- 333   
+[8] 韩吉昂钟兢军，严红明,等.旋转冲压压缩转子三维进气流 道数值研究[J].航空动力学报，2009,24(5)：1079-1088 HAN Ji'ang, ZHONG Jingjun, YAN Hongming, et al. Numerical Research of Three Dimensional Flow-Path in a Ram-rotor [J]. Journal of Aerospace Power,2009,24(5): 1079-1088   
+[9]杨凌,钟兢军,韩吉昂,等.关键几何参数对旋转冲压压缩转 子流场及性能影响研究[J].工程热物理学报，2012,33(03): 388-392 Influence of the Two Geometric Parameters on Ram-Rotor Flow Field and Performance [J]. Journal of Engineering Thermophysics, 2012,33(03):388-392   
+[10] HAN Ji'ang,ZHONG Jingjun,PAN Zhensheng,et al.Effect of Tip Clearance Size on the Ram-rotor Performance [R].ASME Paper GT2014-26084, 2014   
+[11] Storer JACumpsty N A.An Approximate Analysis and Prediction Method for Tip Clearance Loss in Axial Compressors [J]. Journal of Turbomachinery, 1994，116(4): 648-656   
+[12] Puterbaugh S L,Brendel M. Tip Clearance Flow-Shock Interaction in a Transonic Compressor Rotor [J]. Journal of Propulsion and Power,1997,13(1):24-30   
+[13]Gbadebo S A,Cumpsty N A,Hynes T P.Interaction of Tip Clearance Flow and Three-dimensional Separations in Axial Compressors [J]. Journal of Turbomachinery, 2007, 129(4):679-685

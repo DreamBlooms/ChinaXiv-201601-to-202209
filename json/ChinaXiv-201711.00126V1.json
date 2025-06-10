@@ -1,0 +1,284 @@
+[
+    {
+        "type": "text",
+        "text": "A New Cd(II) Coordination Compound Based on 4-(1,2,4-Triazol-4-yl)phenylacetic Acid: Synthesis, Structure and Photoluminescence Property ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHU Mei-An(朱美安);GUO Xing-Zhe(郭星哲);XIAO Li(肖丽);CHEN Shui-Sheng (陈水生) College of Chemistry & Chemical Engineering, Fuyang Normal University, Fuyang 236041, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACTA new complex $\\mathrm { \\small { [ C d _ { 2 } ( L ) _ { 2 } ( C l ) _ { 2 } ( H _ { 2 } O ) ] _ { n } } }$ (1） was synthesized by reacting $\\mathrm { C d C l } _ { 2 } { \\cdot } 2 . 5 \\mathrm { H } _ { 2 } \\mathrm { O }$ with 4-(1,2,4-triazol-4-yl)phenylacetic acid (HL） ligand.The structure of the complex was characterized by single-crystal $\\mathrm { \\Delta } X$ -ray diffraction, IR spectroscopy， elemental analysis and PXRD. Complex 1 crystallizes in triclinic,space group $P 2 _ { 1 } / c$ with $a = 1 1 . 4 3 0 3 ( 8 )$ ， $b = 1 4 . 1 7 9 2 ( 1 0 )$ ， $c = 1 4 . 6 8 5 7 ( 1 0 ) \\ i$ A, $\\beta = 9 6 . 3 7 8 0 ( 1 0 ) ^ { \\circ }$ ， $V =$ 2365.4(3) $\\mathring { \\mathbf { A } } ^ { 3 }$ $Z = 4$ ,C20H16Cl2N6O5Cd2, $M _ { r } = 7 1 6 . 0 9$ ， $D _ { c } = 2 . 0 1 1 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ $\\mu = 2 . 0 6 9 ^ { - 1 }$ $S = 1 . 0 5 1$ ， $F ( 0 0 0 ) = 1 3 9 2$ the final $R \\ = \\ 0 . 0 4 5 8$ and $w R \\ = \\ 0 . 0 9 4 9$ for 5402 observed reflections $( I > 2 \\sigma ( I ) )$ . Complex 1 is a two-dimensional (2D) layer structure and non-covalent bonding interactions such as $\\mathrm { C - H } \\cdots \\pi$ and $\\pi \\cdots \\pi$ extend the 2D to form a three-dimensional supramolecular polymer. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: synthesis; supramolecular polymer; photoluminescent property; DOI: 10.14102/j.cnki.0254-5861.2011-1756 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The rational design and fabrication of metal-organic frameworks (MOFs） have flourished as an emerging area of research because of their promising applications in guest molecule inclusion, gas and vapor storage, chemical sensing，magnetism，heterogeneous catalysis，etc[1-5]. Although synthetic conditions have great influence on the structures of the resulted complexes such as reaction temperature,solvent,pH of the medium, ligand-to-metal ratiosand choice of metal precursors,the most important factor for the construction of desired MOFs is the judicious choice of appropriate linkers[6,7]. In addition,the typical non-covalent interactions (such as H-bonding and ${ \\pi } / { \\pi }$ stacking $\\mathrm { C - H \\cdots } \\pi ) ^ { [ 8 - 1 0 ] }$ also play important roles in the assembly of supramolecular polymers. As for ligands linkers,the $\\Nu _ { - }$ and/or O-donors have been extensively to build novel MOFs with interesting structures and properties[1,12]. Among the N-donors, the imidazole, triazole and tetrazole analogues are widely employed in the construction of MOFs.Our groups have engaged in the design of N-donor ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4-imidazole ligands,suchas1,4-di(1H-imidazol-4-yl)benzene and1,3,5-tri(1H-imidazol-4-yl)benzene,which exhibit diverse coordination modes[13-15].Furthermore, we have constructed diverse frameworks with favorable gas adsorption or selective gas adsorption properties based on the metal-imidazolate units.Similarly，the O-donors of carboxylate groups have versatile coordination modes as well,and thus the designable ligands incorporating multi-N and carboxylate groups may be a useful strategy for the construction of novel MOFs[16, 17l.Therefore，our groups have furthermore designed difunctional organic linker combining carboxyl and 4-imidazolyl donors such as 4-(1H-imidazol-4-yl)benzoic acid which are employed as good candidates for the construction of MOFs in our previous studyl18l. Taking favorable coordination ability of the multi-N and O-donor into account, we synthesized the ligand of 4-(1,2,4-triazol-4-yl)phenylacetic acid (HL) containing the triazolyl and carboxyl groups, which may exhibit rich coordination modes in the assembly of MOFs. Herein, we report the synthesis and crystal structure of a new coordination polymer $\\mathrm { [ C d _ { 2 } ( L ) _ { 2 } ( C l ) _ { 2 } ( H _ { 2 } O ) ] _ { n } }$ (1) obtained by the reaction of $\\mathrm { H L }$ and $\\mathrm { C d C l } _ { 2 } { \\cdot } 2 . 5 \\mathrm { H } _ { 2 } \\mathrm { O }$ as an extension of our previous work. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. 1 Materials and measurements ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All the commercially available chemicals and solvents were of reagent grade and used as received without further purification. Elemental analyses were performed on a Perkin-Elmer 24OC Elemental Analyzer. IRspectra were recorded on a Bruker Vector 22 FT-IR spectrophotometer using KBr pellets. Thermogravimetric analyses (TGA） were performed on a simultaneous SDT 296O thermal analyzer under nitrogen at a heating rate of $1 0 \\mathrm { ~ \\textdegree ~ } / \\mathrm { m i n }$ . Power X-ray diffraction (PXRD） patterns were measured on a Shimadzu XRD-6000 X-ray diffractometer with $\\operatorname { C u } K a$ （ $\\langle \\lambda = 1 . 5 4 1 8 \\mathrm { ~ \\AA ~ }$ ) radiation at room temperature. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Synthesis of complex $\\left[ \\mathbf { C d _ { 2 } ( L ) _ { 2 } ( C l ) _ { 2 } ( H _ { 2 } O ) } \\right] _ { \\mathrm { n } } ( 1 )$ ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A mixture of HL (0.020 g, 0.1 mmol), $\\mathrm { C d C l } _ { 2 } { \\cdot } 2 . 5 \\mathrm { H } _ { 2 } \\mathrm { O }$ (0.022 g,0.1 mmol) and 10 mL $\\mathrm { H } _ { 2 } \\mathrm { O }$ was adjusted to $\\mathrm { p H } = 7$ with $0 . 5 \\mathrm { \\ m o l \\ L ^ { - 1 } }$ solution. The mixture was then sealed into a $2 0 ~ \\mathrm { m L }$ Teflon-lined stainless-steel container and heated at $1 6 0 ~ \\mathrm { { ^ circ C } }$ for $^ { 4 8 \\mathrm { ~ h ~ } }$ . Colorless block crystals of 1 were collected with a yield of $42 \\%$ by filtration and washed with water and ethanol for several times. Anal. Calcd. $( \\% )$ for $\\mathrm { C _ { 2 0 } H _ { 1 6 } C l _ { 2 } N _ { 6 } O _ { 5 } C d _ { 2 } }$ C, 33.54; H, 2.25; N, 11.74. Found $( \\% )$ : C, 33.33; H, 2.41; N, 11.61. IR(KBr): 3215 (w), 1591 (s), 1575 (vs), 1543 (m),1529 (vs),1395 (vs),1243 (m),1093 (s),1037 (m),1019 (m),821 (m),777 (s),670 (w),638 (w), 588 (w), 515 (w) $\\mathrm { c m ^ { - 1 } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 Crystal structure determination ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The colorless crystals of complex 1 were selected for diffraction data collection at 296(2) K on a Bruker Smart Apex II CCD diffractometer equipped with a graphite-monochromatic Mo $. K a$ radiation $( \\lambda = 0 . 7 1 0 7 3 \\mathrm { ~ \\AA } )$ ： A total of 14109 reflections were collcted for 1,of which 5402 $( R _ { \\mathrm { i n t } } = 0 . 0 5 7 4 ) \\$ ） were independent in the range of $1 . 7 9 \\leqslant \\theta \\leqslant 2 7 . 6 2 ^ { \\circ }$ by using a $\\varphi \\mathrm { - } \\omega$ scan mode. The structure was solved by direct methods with SHELXS-97[19] program and refined by full-matrix least-squares techniques on $F ^ { 2 }$ with SHELXL $9 7 ^ { [ 2 0 ] }$ . All non-hydrogen atoms were refined anisotropically. Hydrogen atoms were placed in their calculated positions and refined following the riding model. The final $R = 0 . 0 4 5 8$ ， $w R = 0 . 0 9 4 9$ （2 $( w = 1 / [ \\sigma ^ { 2 } ( F _ { o } ^ { 2 } ) + ( 0 . 0 5 7 2 P ) ^ { 2 } +$ $0 . 4 5 1 6 P ]$ ，where $P = ( { F _ { o } } ^ { 2 } + 2 { F _ { c } } ^ { 2 } ) / 3 )$ ， $R _ { \\mathrm { i n t } } = 0 . 0 5 7 4$ ， $( \\Delta / \\sigma ) _ { \\mathrm { { m a x } } } = 0 . 0 0 0$ ， $S = 1 . 0 5 1$ ， $( \\Delta \\rho ) _ { \\mathrm { m a x } } = 1 . 2 3 0$ and $( \\Delta \\rho ) _ { \\mathrm { m i n } } =$ $- 1 . 1 9 3 ~ \\mathrm { e } / \\mathring { \\mathrm { A } } ^ { 3 }$ for 1. The selected bond distances and bond angles for complex 1 are listed in Tables 1 and 3, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 Crystal structure of 1 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Single-crystal $\\mathrm { \\Delta } X$ -ray diffraction analysis revealed that complex 1 crystallizes in the monoclinic system with space group $P 2 _ { 1 } / c$ . The asymmetric unit of 1 contains two crystallographically independent $\\operatorname { C d } ( \\mathrm { I I } )$ atoms, two $\\mathrm { C l ^ { - } }$ anions, two $\\mathrm { L } ^ { - }$ ligands and one coordinated water molecule.As exhibited in Fig. 1, the $\\operatorname { C d } ( 1 )$ atom has octahedral coordination geometry with $\\mathrm { \\bf N } _ { 2 } \\mathrm { \\bf O } _ { 3 } \\mathrm { \\bf C l }$ binding set coordinated by two nitrogen (N(1), N(4)) atoms from two $\\mathrm { L } ^ { - }$ ligands,two oxygen atoms (O(1D), O(4B) and O(7)） from other two $\\mathrm { L } ^ { - }$ ligands, one oxygen (O(7)） from coordinated water molecule and one $\\mathrm { C l ^ { - } }$ anion，while Cd(2） is also octahedral coordination geometry with $\\mathrm { N O } _ { 3 } \\mathrm { C l } _ { 2 }$ coordination sphere.The Cd-O distances are in the range of $2 . 2 2 9 ( 5 ) { \\sim } 2 . 4 2 0 ( 4 ) ( 1 9 ) \\mathring \\mathrm { A }$ （20 while the Cd-N distances are 2.316(5) 2.382(5) A,and the coordination angles around $\\operatorname { C d } ( \\mathbb { I } )$ are in the range of $7 3 . 2 7 ( 6 ) { \\sim } 1 8 0 . 0 ^ { \\circ }$ (Table 1).A notable feature of the structure of 1 is that the HL ligands exhibit two coordination modes existing together in one compound (Fig. 2): (i) one acts as a $\\mu _ { 3 }$ -bridging linker, using one N atom to bridge one $\\operatorname { C d } ( \\mathrm { I I } )$ atom and two oxygen atoms from carboxyl group in the $\\mu _ { 2 } - \\eta ^ { 1 } ; \\eta ^ { 1 }$ -bridging mode to ligate two $\\operatorname { C d } ( \\mathrm { I I } )$ atoms;(ii) the other one adopts $\\mu _ { 4 }$ -bridging modes, using two $\\mathbf { N }$ atoms to bridge two $\\operatorname { C d } ( \\operatorname { I I } )$ atoms and the carboxyl group in $\\mu _ { 3 } - \\eta ^ { 2 } ; \\eta ^ { 1 }$ -bridging mode to chelate two $\\operatorname { C d } ( \\operatorname { I I } )$ atoms. Two adjacent $\\operatorname { C d } ( \\operatorname { I I } )$ ions are alternately linked together by one triazolate group,one carboxylate group,and one bridged $\\mathrm { C l } ^ { - }$ ion with the distances of 3.994(7) and 4.056(7) $\\mathring \\mathbf { A }$ to give a one-dimensional (1D) chain (Fig. 3). It is noteworthy that both of two different $\\mathrm { L } ^ { - }$ ligands connect $\\operatorname { C d } ( \\operatorname { I I } )$ atoms to form 1D chains respectively,and these two 1D chains intersect each other,forming a 1D helix chain structure (Fig. 4a). Similarly,there are two different $\\mathrm { C l } ^ { - }$ anions, one acting as a terminal coordination atom to balance the positive charges while another employing as $\\mu _ { 2 }$ -bridging to connect the $\\operatorname { C d } ( \\mathrm { I I } )$ atom. Because of the bridging interaction of trizaole and carboxyl group together with $\\mathrm { C l } ^ { - }$ ,the 1D chains are further connected into a two-dimensional (2D) layer structure (Fig. 4b). And the hydrogen bonding interactions (C(1).Cl(2) 3.56 A, C(1)-H(1)….Cl(2) 148o; C(5)··N(5)a 3.48 A, C(5)-H(5)·· N(5) $1 6 0 ^ { \\circ }$ ; 0(2) .0(7) 3.36 A, O(2)-H(5)…O(7) 156°; C(8)··Cl(2) 3.55 A, C(8)-H(8)··Cl(2) $1 6 5 ^ { \\circ } { } ^ { \\cdot }$ ） exist in the 2D structure (Table 2),further reinforcing the stability of this complex.For the overall framework of1, it can be seen clearly that the 2D layers repeat in te unit .-AAA stacking sequence along the $b$ axis,and numerous intramolecular $\\pi { - } \\pi$ and $\\mathrm { C - H } \\cdots \\pi$ interactions exist among the aromatic rings, as shown in Fig. 5. The benzene rings of the $\\mathrm { L } ^ { - }$ ligands between the adjacent 2D layers are parallel and are separated by a centroid-centroid distance of $3 . 6 8 \\mathrm { ~ \\AA ~ }$ and $\\mathrm { C - H } \\cdot \\cdot \\pi$ distance of $2 . 9 6 \\ \\mathring { \\mathrm { A } } ^ { [ 2 1 , 2 2 ] }$ . The non-classic weak $\\pi { - } \\pi$ and $\\mathrm { C - H } \\cdot \\cdot \\pi$ interactions further link the 2D layers into a three-dimensional (3D） supramolecular polymer (Fig. 5). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2IR spectrum, thermal stabilities and powder $\\mathbf { X }$ -ray diffraction of 1 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The infrared spectrum of the complex has been recorded between 4Ooo and $4 5 0 \\mathrm { c m } ^ { - 1 }$ and some important assignments are shown in the experimental section (Fig. 6). Strong characteristic bands ofcarboxylic group are observed in the range of $1 5 9 0 { \\sim } 1 5 2 9 ~ \\mathrm { c m } ^ { - 1 }$ for asymmetric vibrations.The carboxylic acid of HL is deprotonated to form $\\mathrm { ~ L ~ } ^ { - }$ ligand，and the strong absorption band around $1 5 9 0 ~ \\mathrm { c m ^ { - 1 } }$ is attributed to the asymmetric stretching vibration of $\\scriptstyle { \\mathrm { C = O } }$ group，which is significantly smaller than that of the protonated carboxylate group monomer ( $1 6 9 5 ~ \\mathrm { c m ^ { - 1 } }$ ), indicating the delocalization of $\\scriptstyle { \\mathrm { C = O } }$ double bond[23l. Complex 1 was subjected to thermogravimetric analysis (TGA) to ascertain the stability of supramolecular architecture,and the result is shown in Fig. 7. A total weight loss of $2 . 3 6 \\%$ was observed for 1 around $9 0 \\ \\mathrm { ^ \\circ C }$ ，which is attributed to the loss of coordinated water molecule (calcd. $2 . 5 1 \\%$ ),and the residue is stable up to about $3 8 0 ^ { \\circ } \\mathrm { C }$ . Powder XRD experiment was carried out to confirm the phase purity of bulk sample (Fig. 8),and the experimental pattern of the as-synthesized sample is comparable to the corresponding simulated one, indicating the phase purity of the sample. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 Photoluminescent property ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It is known that coordination polymers with $d ^ { 1 0 }$ closed-shell metal center with the rational selection and design of conjugated organic spacers may exhibit excellent fluorescence properties and serve as good candidates for potential applications as photoactive materials[24,25l.We investigate the solid-state fluorescence property of complex 1 as well as the $\\mathrm { H L } _ { 1 }$ ligand at room temperature. The free $\\mathrm { H L } _ { 1 }$ ligand shows intense emission band at $4 4 0 ~ \\mathrm { n m }$ upon excitation at $3 6 5 ~ \\mathrm { n m }$ ，which may be attributed to $\\pi ^ { * } {  } \\pi$ transition of the intraligands[26,27], while complex 1 exhibits light blue emission with maximum at $4 3 3 \\mathrm { n m }$ （204 upon excitation at $3 5 5 ~ \\mathrm { n m }$ as depicted in Fig. 9.By contrast with the free ligand, the emission bands of complex 1 are $7 \\ \\mathrm { n m }$ blue-shifted. Such board emission bands may be tentatively assigned to ligand-to-metal charge transfer (LMCT)[28,291. In addition, Fig. 9 shows that the luminescence intensity of 1 has increased compared with the fre ligand under the same conditions, which may mainly originate from the coordination interactions between the metal Cd(II） atom and the ligand,thus enhancing its conformational rigidity and then decreasing the non-radiative energy lost30l. Therefore, complex 1 may appear to be potential hybrid inorganic-organic photoactive material. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)ZhaoT;H;iaal CrystEngComm.2017,19,776-780.   \n(2)Aads 2015, 44,9–25.   \n(3)Yuan,S.;Qn,J.S.;ZuL;Chen,Y.P.;Wang,X.;ZhangQ.;ZouH.C.Termodyamicallguidedsynthesisofmied-linker $Z \\mathrm { r }$ -MOFswith enhanced tenability.J.Am. Chem. Soc.2016,138,6636-6642.   \n(4)iaoJ;Oal J.Am. Chem. Soc.2016,138,14371-14379.   \n(5)XiaoL;LiFgXLenoesaupoalelidodbte ligands. Chin.J. Struct. Chem.2016,35,781-788.   \n(6)Zhang.Q;gDFP;u;u;atdaedl metal coordination sphere and solvent-induced transformations.Cryst. Growth Des.2017,17,517-526.   \n(7)Yao,P.F.; Liu,H.F.; Huang,F.P.;Feng,F.L.; Qin,X.H.; Huang,M.L.; Yu, Q.; Bian,H.D.A familyof $\\mathrm { Z n ( I I ) / C d ( I I ) }$ halide systems incorporating 5,5'-di(pyridin-2-yl)-3,3'-bi(1,2,4-triazole). CrystEngComm.2016,18,938-947.   \n(8QiaoR;adb imidazole ligands.J. Solid State Chem.2015,228,199-207.   \n(9) Zhu,M.A.; Guo,X. Z.; Chen,S.S.Synthesis,crystal structure and luminescent property of a $Z \\mathrm { n } ( \\mathrm { I I } )$ complex based on 4-imidazole-carboxylate ligand, Chin. J. Struct. Chem.2017,36,1348-1354.   \n(10)LiW.DFgXQiaontedlelaetuedbsedctin 2016,35,46-54.   \n(11)Zhang,Zo;ogeiedise luminescent property. Chin. J. Struct. Chem.2017,36,819-824.   \n(12)Wngb ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "luminescence sensing of metal ions and nitroaromatic compounds.KsC Adv.zul6,6,5 /828-5 /834.   \n(13）Chen,S..;hn,;akaaaS.hn,.S.；uZunWY.mperaturedepedentelectivesotionofteioos metal-imidazolate framework $\\mathrm { [ C u ( L ) ] }$ 0 $\\mathrm { { H } } _ { 2 } \\mathrm { { L } } = 1 { , } 4$ -di(1H-imidazol-4-yl)benzene). Chem. Commun.2011,47,752-754.   \n(14)Chen,S..QRengLQ;ZaY;Yg;..;LuZDWagDCdic)lei 1-(1H-imidazol-4-yl)-3-(4H-tetrazol-5-yl)benzeneandvariedcarboxylateligands.CrystEngComm.2o1,15,5713-5725.   \n(15)Chen,S.;gPa.)dao containing tripodal ligand: sorption and anion exchange properties.Dalton Trans. 2014,43,6012-6020.   \n(16)ao.L.H;uJ.;.o thehydrothermalselfassemblyofdiversemetal-organicand supramolecular networks.CrystEngComm.2016,18,765-78.   \n(17)Pacfule Inorg. Chem.2016,55,7200-7205.   \n(18)ChenS.S.;Liu;ZaoY;QiaoRengLQ;LuZDYanggC.metagafreososrcedroth 4-imidazoleaboate:craleitdsooopstoh..   \n(19)Sheldrick,G.M.SHELXS-97,Programm for the SolutionofCrystal Structure.UniversityofGotingen1997.   \n(20)Sheldrick,G.M.SHELXL-97,Programm fortheRefinementofCrystal Structure.Universityof Gotingen1997.   \n(21)Ye,R.P.;;ZLZo MOFs based on a large rigid $\\pi$ conjugated carboxylate ligand. CrystEngComm. 2015,17,9155-9166.   \n(22)Surov.OKdchGade structures,formation thermodynamics and latice energies. CrystEngComm.2016,18,4818-4829.   \n(23)Nakamoto,K.InfraredandRaman SectraofInorganicandCoordinatedCompounds.thed.,Wiley&Sons,NewYork1997.   \n(24)WagDFJd photoluminescence properties. CrystEngComm. 2016,18,6708-6723.   \n(25) Xing,K.; Fan,R.; Gao,S.; Wang,X.; Du,X.; Wang,P.; Fang,R.; Yang,Y.Controllable synthesis of $Z { \\mathrm { n / C d ( I I ) } }$ coordination polymers: dual-emissive luminescent properties,andtailoringemisiontendencyundervarying excitationenergies.Dalton Trans.2016,45,4863-4878.   \n(26）Sun，YX；unc)ddncfosidleotad-idleaboategd. CrystEngComm.2015,17,4045-4063.   \n(27)Singh,D.;Nagaraja,C.M.Auxiliry ligand-sisted structuralvariationofCd(II)metal-organic frameworksshowing $ { 2 \\mathrm { D } }  {  } 3  { \\mathrm { D } }$ polycatenation and interpenetratiossiseediigooloth.   \n(28)Yang,L.B.; Wang,H. C.; Fang, X.D.; Chen, S.J.; Xu, Q.Q.; Zhu,A. X.; Yang,Z.A series of $Z \\mathrm { n } ( \\mathrm { I I } )$ and $\\operatorname { C d } ( \\mathrm { I I } )$ coordination compounds based on 4-(4H-1,2,4-traol-4-beiccid:sthsis,uctureadpotolumnescencepropertie.Crstgomm.6,142.   \n(29)Xue, Z.; Sheng,T.; Wang,Y.; Hu,S.;Wen, Y.; Wang,Y.; Li,H.; Fu,R.; Wu, X.A series of $d ^ { 1 0 }$ coordination polymers constructed with a rigid tripodaliidleddlbotstscusdeseprti.go.   \n(30)Xu,J;;n..uZ.ueasidfterad photoluminescence and adsorption property. CrystEngComm.2009,11,2728-2733. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1f70b5a9b479437f8bba5937ceb158727b92a05f832327ffeeafe4ecb189361f.jpg",
+        "table_caption": [
+            "Table 1．Selected Bond Lengths $( \\mathring \\mathbf { A } )$ and Bond Angles ${ \\bf \\Pi } ^ { \\left( \\circ \\right) }$ of $[ \\mathbf { C d _ { 2 } ( L ) _ { 2 } ( C l ) _ { 2 } ( H _ { 2 } O ) } ] _ { \\mathbf { n } }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Bond</td><td>Dist.</td><td>Bond</td><td>Dist.</td><td>Bond</td><td>Dist.</td></tr><tr><td>Cd(1)-N(4)</td><td>2.315(5)</td><td>Cd(1)-O(4)#B</td><td>2.228(5)</td><td>Cd(1)-0(7)</td><td>2.329(4)</td></tr><tr><td>Cd(1)-0(1)#D</td><td>2.340(4)</td><td>Cd(1)-N(1)</td><td>2.361(5)</td><td>Cd(1)-Cl(1)</td><td>2.5292(18)</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1876f5a848607d7e724a8f83d89f45e1a13f6364ba4c8c0de7d6383fef190902.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Symmetry transformation: A:-1-x, $- 0 . 5 + y$ $1 . 5 \\mathrm { - } z$ B: $_ { 1 - x , }$ $- 0 . 5 + y$ $1 . 5 \\ – z$ ；C:-x, $- 0 . 5 + y$ $1 . 5 \\substack { - z }$ ；D: 1+x,y, z "
+        ],
+        "table_body": "<html><body><table><tr><td>Cd(2)-0(3)#B</td><td>2.344(4)</td><td>Cd(2)-N(2)#C</td><td>2.381(5)</td><td>Cd(2)-0(2)#A</td><td>2.401(4)</td></tr><tr><td>Cd(2)-O(1)#A</td><td>2.421(4)</td><td>Cd(2)-Cl(2)</td><td>2.4788(17)</td><td>Cd(2)-C1(1)</td><td>2.4896(18)</td></tr><tr><td>Angle</td><td></td><td>Angle</td><td>（）</td><td>Angle</td><td></td></tr><tr><td>O(4)#B-Cd(1)-N(4)</td><td>92.3(2)</td><td>0(4)#B-Cd(1)-0(7)</td><td>170.44(18)</td><td>N(4)-Cd(1)-0(7)</td><td>82.15(19)</td></tr><tr><td>0(4)#B-Cd(1)-O(1)#D</td><td>89.63(17)</td><td>N(4)-Cd(1)-O(1)#D</td><td>82.43(17)</td><td>0(7)-Cd(1)-0(1)#D</td><td>81.96(15)</td></tr><tr><td>O(4)#B-Cd(1)-N(1)</td><td>97.66(19)</td><td>N(4)-Cd(1)-N(1)</td><td>157.11(18)</td><td>0(7)-Cd(1)-N(1)</td><td>84.94(17)</td></tr><tr><td>O(1)#D-Cd(1)-N(1)</td><td>77.10(15)</td><td>O(4)#B-Cd(1)-Cl(1)</td><td>100.90(14)</td><td>N(4)-Cd(1)-Cl(1)</td><td>100.15(15)</td></tr><tr><td>0(7)-Cd(1)-Cl(1)</td><td>87.78(12)</td><td>0(1)#D-Cd(1)-Cl(1)</td><td>169.00(11)</td><td>N(1)-Cd(1)-Cl(1)</td><td>98.14(13)</td></tr><tr><td>O(3)#B-Cd(2)-N(2)#C</td><td>79.85(18)</td><td>0(3)#B-Cd(2)-O(2)#A</td><td>168.89(16)</td><td>N(2)#C-Cd(2)-O(2)#A</td><td>93.13(17)</td></tr><tr><td>0(3)#B-Cd(2)-O(1)#A</td><td>116.08(16)</td><td>N(2)#C-Cd(2)-O(1)#A</td><td>76.03(15)</td><td>0(2)#A-Cd(2)-O(1)#A</td><td>53.39(14)</td></tr><tr><td>0(3)#B-Cd(2)-Cl(2)</td><td>88.72(12)</td><td>N(2)#C-Cd(2)-Cl(2)</td><td>151.19(13)</td><td>0(2)#A-Cd(2)-Cl(2)</td><td>93.56(12)</td></tr><tr><td>0(1)#A-Cd(2)-Cl(2)</td><td>85.70(10)</td><td>0(3)#B-Cd(2)-Cl(1)</td><td>96.06(12)</td><td>N(2)#C-Cd(2)-Cl(1)</td><td>91.61(13)</td></tr><tr><td>0(2)#A-Cd(2)-Cl(1)</td><td>92.70(11)</td><td>0(1)#A-Cd(2)-Cl(1)</td><td>142.16(11)</td><td>Cl(2)-Cd(2)-Cl(1)</td><td>116.00(7)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bebed57ff5ef675ae3c153cf963518adc0789edef6d71fdce942324dae7d197.jpg",
+        "table_caption": [
+            "Table 2. Hydrogen Bonding Interactions for Complex 1(A,°) "
+        ],
+        "table_footnote": [
+            "Symmetry code: (a) -x, $0 . 5 \\substack { + y }$ 1.5-z "
+        ],
+        "table_body": "<html><body><table><tr><td>D-HA</td><td>D-H</td><td>HA</td><td>DA</td><td>∠DHA</td></tr><tr><td>C(1)-H(1)·Cl(2)</td><td>0.93</td><td>2.74</td><td>3.560(8)</td><td>148</td></tr><tr><td>C(5)-H(5)·N(5)a</td><td>0.93</td><td>2.59</td><td>3.478(9)</td><td>160</td></tr><tr><td>C(8)-H(8)…·Cl(2)</td><td>0.93</td><td>2.64</td><td>3.550(7)</td><td>165</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f0e2b14ac28a087b27864b3a45edf011c05369a7b9570a53571b14868a54fbf.jpg",
+        "img_caption": [
+            "Fig.1. Coordination environment of $\\mathbf { M n } ( \\mathbf { I I } )$ in complex 1 with ellipsoids drawn at $30 \\%$ probability level. Hydrogen atoms were omitted for clarity (Symmetry codes: (A) $\\mathbf { - 1 - x }$ $\\mathbf { - 0 . 5 + y }$ ,1.5-z; (B) 1-x, $\\mathbf { - 0 . 5 + y }$ $\\pmb { 1 . 5 - z }$ (C) $- { \\pmb x }$ $\\mathbf { - 0 . 5 + y }$ $\\pmb { 1 . 5 - z }$ (D) $_ { 1 + x , y , z ) }$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/51bfa3a598f0d8b54cdc83a7c35691f84e4e2be4982a09b295c7704411e04f2e.jpg",
+        "img_caption": [
+            "Fig.2. Coordination environment of 4-tba ligands in complex 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/07c8d1acd7bb5f0e1e4c606d5ac69c68ba49015cb32d0b972453fda7863179a7.jpg",
+        "img_caption": [
+            "Fig.3. $\\mathbf { C } \\mathbf { I } ^ { - }$ and carboxyl group-bridged 1D Cd(II) chains for 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/29397eba545aa20a1f4bcb787ce46cd4f59cae00bc5d1aa561a48319774e19af.jpg",
+        "img_caption": [
+            "Fig.4. 1D chain (a) and 2D network(b) of1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5e77f14476fc260245226f93f491e524a81cc82e98da2f5e2965bcdb331ac97.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c11601bfa7cb35649d5a053dc67b7d958581c2e963f82ff0ca60c8d95de7de8f.jpg",
+        "img_caption": [
+            "Fig.5.3D supramolecular structure constructed from 2D stacking units in sequence of AAA along the $\\pmb { b }$ axis, linked by $\\pi ^ { \\bullet \\bullet } \\pi$ and $\\mathbf { C } { \\cdot } \\mathbf { H } { \\cdots } { \\pmb \\pi }$ stacking interactions "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/031722d79b2fbbb0ac3076a6bf1e9f812801458bff94792f8cbfe259b464ccae.jpg",
+        "img_caption": [
+            "Fig.7.TG curves of complex1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cf22705a698c7fd81cd26c9ba11e8064dd58835fdd409aee03d756855decbd4.jpg",
+        "img_caption": [
+            "Fig.6.IR spectra of HL and complex 1 ",
+            "Fig.8.Simulated and experimental XRPD patterns of complex 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/85b4c863c09398c9d5b7fe6d4fc2ba3ecb6103e2b3d23ad803686f309b370719.jpg",
+        "img_caption": [
+            "Fig.9. Solid-state photoluminescent spectra of HL and complex 1 at room temperature "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A New Cd(II) Coordination Compound Based on 4-(1,2,4-Triazol-4-yl)phenylacetic Acid: Synthesis, Structure and Photoluminescence Property ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ZHU Mei-An(朱美安） GUO Xing-Zhe(郭星哲)XIAO Li(肖丽) CHEN Shui-Sheng(陈水生)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A new complex of $\\mathrm { [ C d _ { 2 } ( L ) _ { 2 } ( C l ) _ { 2 } ( H _ { 2 } O ) ] _ { n } }$ (1) based on 4-(1,2,4-triazol-4-yl)phenylacetic acid containing triazolyl and carboxyl difunctional groups has been hydrothermally synthesized and characterized by single-crystal $\\mathrm { \\Delta } X$ -ray diffraction. Complex 1 is a two-dimensional layer structure and non-covalent bonding interactions such as $\\mathrm { C - H } \\cdots \\pi$ and $\\pi \\cdots \\pi$ extend the 2D to form a three-dimensional supramolecular polymer. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/87d67ba0f6242dc9dbb209ac75570aae4ee46de97802b979becb84b65cc5b94e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    }
+]

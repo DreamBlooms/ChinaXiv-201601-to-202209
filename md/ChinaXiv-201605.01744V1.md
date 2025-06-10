@@ -1,0 +1,131 @@
+# Lepton flavor violating Z-boson decays at GigaZ as a probe of supersymmetry
+
+Jin Min YangInstitute of Theoretical Physics， Academia Sinica， Beijing 10019o， China
+
+# Abstract
+
+We briefly review the lepton flavor violating Z-decays at GigaZ as a probe of supersymmetry by focusing on $Z \to \ell _ { i } \overline { { \ell } } _ { j }$ in two representative supersymmetric models: the minimal supersymmetric model without $R$ -parity and the supersymmetric seesaw model. We conclude that under the current experimental constraints from LEP and $\ell _ { i } \to \ell _ { j } \gamma$ , these rare decays can still be enhanced to reach the sensitivity of the GigaZ. Therefore, supersymmetry can be probed via these decays at GigaZ.
+
+Keywords: Z-decay, GigaZ, supersymmetry
+
+PACS numbers:14.80.Ly,11.30.Fs, 13.66.De
+
+# I.INTRODUCTION
+
+The main task of particle physics in the current Large Hadron Collider (LHC) era is probing new physics. The LHC is a powerful discovery machine because of its high energy, but it is not an ideal place for precision test of a theory because of its huge QCD background. If new physics appears at TeV scale, as speculated and expected by most theorists, the LHC will undoubtedly unveil it. Then the proposed International Linear Collider (ILC) will take the task of precision test of such new physics.
+
+At the ILC the GigaZ option is expected to produce more than $1 0 ^ { 9 }$ Z-bosons [1] and will play an important role in probing new physics related to Z-boson. One sensitive probe is through the flavor-changing neutral-current (FCNC) Z-boson decays $Z \ \to \ \ell _ { i } \overline { { { \ell } } } _ { j }$ ，which are suppressed to be unobservably small in the Standard Model (SM) but could be greatly enhanced in new physics models like supersymmetry [2-5].
+
+In this review, we recapitulate the studies on the decays $Z \to \ell _ { i } \overline { { \ell } } _ { j }$ in the $R$ -parity violating minimal supersymmetric model (RPV-MSSM) [2, 3] and the supersymmetric sesaw model [4]. In Sec.II we delineate the study in RPV-MSSM. In Sec.III we elucidate the study in the supersymmetric seesaw model. Finally, a summery is given in Sec. IV.
+
+# II. LEPTON FLAVOR VIOLATING Z-DECAY IN RPV-MSSM
+
+In the MSSM the $R$ -violating interactions are given by
+
+$$
+{ \mathcal W } _ { R } = \frac { 1 } { 2 } \lambda _ { i j k } L _ { i } L _ { j } E _ { k } ^ { c } + \lambda _ { i j k } ^ { \prime } L _ { i } Q _ { j } D _ { k } ^ { c } + \frac { 1 } { 2 } \lambda _ { i j k } ^ { \prime \prime } \epsilon ^ { a b d } U _ { i a } ^ { c } D _ { j b } ^ { c } D _ { k d } ^ { c } + \mu _ { i } L _ { i } H _ { 2 } ,
+$$
+
+where $i , j , k$ are generation indices, $c$ denotes charge conjugation, $a$ ， $b$ and $d$ are the color indices with $\epsilon ^ { a b d }$ being the total antisymmetric tensor, $H _ { 2 }$ is the Higgs-doublet chiral superfield, and $L _ { i } ( Q _ { i } )$ and $E _ { i } ( U _ { i } , D _ { i } )$ are the left-handed lepton (quark) doublet and right-handed lepton (quark) singlet chiral superfields. These interactions have rich phenomenology which has been studied intensively [6] and a list of bounds is summarized in [7].
+
+The lepton flavor violating (LFV） processes,which are extremely suppressed in the SM, may be greatly enhanced by these $R$ -violating interactions since both $\lambda$ and $\lambda ^ { \prime }$ couplings can make contributions. Such $R$ -violating effects in the decays $Z \to \ell _ { i } \ell _ { j }$ and $\ell _ { i } \to \ell _ { j } \gamma$ were studied in [2, 3, 8]. Taking the presence of ${ \lambda } _ { i j k } ^ { \prime }$ as an example, the LFV interactions $\ell _ { i } \ell _ { j } V$ （ $V = \gamma , Z ) ,$ can be induced at loop level by exchanging a squark $\tilde { u } _ { L } ^ { j }$ or $\tilde { d } _ { R } ^ { k }$ , as shown in Fig.1. So far the relevant constraints are from $\ell _ { i } \to \ell _ { j } \gamma$ given by [9]
+
+![](images/b9ca1d3dbce22340de620708040f30447abf02b2a78b08685647b335c7c87ca7.jpg)  
+FIG.1: Feynman diagrams for $\ell _ { i } - \ell _ { j }$ transition induced by $L$ -violating couplings at one-loop level
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { B R ( \mu \to e \gamma ) < 1 . 2 \times 1 0 ^ { - 1 1 } , } } \\ { { } } & { { } } & { { } } \\ { { } } & { { } } & { { B R ( \tau \to e \gamma ) < 1 . 1 \times 1 0 ^ { - 7 } , } } \\ { { } } & { { } } & { { } } \\ { { } } & { { } } & { { B R ( \tau \to \mu \gamma ) < 4 . 5 \times 1 0 ^ { - 8 } , } } \end{array}
+$$
+
+and the LEP bounds on $Z \to \ell _ { i } \ell _ { j }$ given by [10]
+
+$$
+\begin{array} { r l r } & { } & { B R ( Z  \mu e ) < 1 . 7 \times 1 0 ^ { - 6 } , } \\ & { } & { } \\ & { B R ( Z  \tau e ) < 9 . 8 \times 1 0 ^ { - 6 } , } \\ & { } & { B R ( Z  \tau \mu ) < 1 . 2 \times 1 0 ^ { - 5 } . } \end{array}
+$$
+
+The possible sensitivity of GigaZ to the LFV decays of $Z$ -boson could reach [11]
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { B R ( Z  \mu e ) ~ \sim ~ 2 . 0 \times 1 0 ^ { - 9 } , } } \\ { { } } & { { } } & { { } } \\ { { } } & { { } } & { { B R ( Z  \tau e ) ~ \sim ~ \kappa \times 6 . 5 \times 1 0 ^ { - 8 } , } } \\ { { } } & { { } } & { { } } \\ { { } } & { { } } & { { B R ( Z  \tau \mu ) ~ \sim ~ \kappa \times 2 . 2 \times 1 0 ^ { - 8 } } } \end{array}
+$$
+
+with the factor $\kappa$ ranging from O.2 to 1.0. In Fig. 2 we take $\kappa = 1 . 0$ to show the sensitivity of GigaZ in RPV-MSSM compared with the bounds from $\ell _ { i } \to \ell _ { j } \gamma$ and the $Z$ -decaysat LEP. We see that under the current experimental constraints, the LFV $Z$ -decays can still be enhanced to the sensitivity of GigaZ. This implies that the GigaZ can further strengthen the bounds on the relevant R-violating couplings in case of un-observation.
+
+![](images/1448e8401103e7e3b9e9e2413f9b954a72f9bf0dd17b3d6c6cf61f59bcb166e1.jpg)  
+FIG. 2: The $2 \sigma$ sensitivity of lepton favor vioalting $Z$ -decays at GigaZ in RPV-MSSM. Also shown are the bounds from $\ell _ { i } \to \ell _ { j } \gamma$ and the $Z$ -decays at LEP. These results are taken from [2].
+
+# III. LEPTON FLAVOR VIOLATING Z-DECAYS IN SUPERSYMMETRIC SEESAW MODEL
+
+The seesaw mechanism [12] can be realized in supersymmetric models by introducing right-handed neutrino superfields with heavy Majorana masses [13]. In such a framework the flavor diagonality of sleptons is usually assumed at the Planck scale,but the flavor mixings at weak scale are inevitably generated through renormalization equations since there is no symmetry to protect the flavor diagonality. Such flavor mixings of sleptons generated at weak scale are proportional to neutrino Yukawa coupling, which may be as large as top quark Yukawa coupling due to see-saw mechanisim， and are enhanced by a large factor $\log ( M _ { P } ^ { 2 } / M ^ { 2 } )$ ( $M _ { P }$ is Planck scale and $M$ is the neutrino Majorana mass). Therefore, the popular mSUGRA with seesaw mechanism predicts large flavor mixings of sleptons at weak scale.
+
+With the right-handed neutrino superfields $\nu _ { R }$ , the superpotential contains the $\nu _ { R }$ terms
+
+$$
+W _ { \nu } = - \frac { 1 } { 2 } \nu _ { R } ^ { c } \mathbf { M } \nu _ { R } ^ { c } + \nu _ { R } ^ { c } \mathbf { y } _ { \nu } L \cdot H _ { 2 } \ ,
+$$
+
+where $\mathbf { M }$ and $\mathbf { y } _ { \nu }$ are matrices in flavor space, $L$ and $H _ { 2 }$ denote the left-handed lepton doublet and the Higgs doublet with hypercharge $- 1$ and $+ 1$ , respectively. The mass matrix of the charged sleptons is given by
+
+$$
+{ \bf m } _ { \tilde { \ell } } ^ { 2 } = \left( \begin{array} { c c } { { { \bf m } _ { L L } ^ { 2 } \ { \bf m } _ { L R } ^ { 2 \dagger } } } \\ { { { \bf m } _ { L R } ^ { 2 } \ { \bf m } _ { R R } ^ { 2 } } } \end{array} \right)
+$$
+
+with
+
+$$
+\begin{array} { r l } & { { \bf m } _ { L L } ^ { 2 } = { \bf m } _ { \tilde { L } } ^ { 2 } + \left[ m _ { \ell } ^ { 2 } + m _ { Z } ^ { 2 } \cos 2 \beta \left( - \frac { 1 } { 2 } + s _ { W } ^ { 2 } \right) \right] { \bf 1 } , } \\ & { { \bf m } _ { R R } ^ { 2 } = { \bf m } _ { \tilde { R } } ^ { 2 } + \left( m _ { \ell } ^ { 2 } - m _ { Z } ^ { 2 } \cos 2 \beta \sin \theta _ { W } ^ { 2 } \right) { \bf 1 } , } \\ & { { \bf m } _ { L R } ^ { 2 } = { \bf A } _ { \ell } v \cos \beta - m _ { \ell } \mu \tan \beta { \bf 1 } , } \end{array}
+$$
+
+where $\mathbf { 1 }$ is unit $3 \times 3$ matrix in generation space.
+
+Since the right-handed sneutrinos have a mass as large as the heavy Majorana neutrinos,their contributions to the LFV processes can be ignored. Thus, only the left-handed sneutrinos are needed to take into account, whose mass matrix is given by
+
+$$
+\mathbf { m } _ { \tilde { \nu } } ^ { 2 } = \mathbf { m } _ { \tilde { L } } ^ { 2 } + \frac 1 2 m _ { Z } ^ { 2 } \cos 2 \beta \ \mathbf { 1 } .
+$$
+
+We assume universal soft-breaking parameters at the Planck scale:
+
+$$
+\begin{array} { l } { { { \bf m } _ { \tilde { L } } = { \bf m } _ { \tilde { R } } = m _ { 0 } { \bf 1 } , } } \\ { { { \bf A } _ { \ell } = A _ { 0 } { \bf y } _ { \ell } , ~ { \bf A } _ { \nu } = A _ { 0 } { \bf y } _ { \nu } . } } \end{array}
+$$
+
+Since $\mathbf { y } _ { \ell }$ and $\mathbf { y } _ { \nu }$ cannot be diagonalized simultaneously in general, it is usually assumed that （20 $\mathbf { y } _ { \ell }$ is flavor diagonal but $\mathbf { y } _ { \nu }$ is not. In this basis the mass matrix of the charged sleptons is flavor diagonal at Planck scale. However，when evolving down through renormalization equations to weak scale, such flavor diagonality is broken:
+
+$$
+\begin{array} { l } { { \displaystyle \delta ( { \bf m } _ { \tilde { L } } ^ { 2 } ) _ { I J } \simeq - \frac { 1 } { 8 \pi ^ { 2 } } ( 3 m _ { 0 } ^ { 2 } + A _ { 0 } ^ { 2 } ) ( { \bf y } _ { \nu } ^ { 0 \dagger } { \bf y } _ { \nu } ^ { 0 } ) _ { I J } \ln \left( \frac { M _ { P } } { \mathcal { M } } \right) ~ , } } \\ { { \displaystyle \delta ( { \bf m } _ { \tilde { R } } ^ { 2 } ) _ { I J } \simeq 0 ~ , } } \\ { { \displaystyle \delta ( { \bf A } _ { \ell } ) _ { I J } \simeq - \frac { 3 } { 1 6 \pi ^ { 2 } } A _ { 0 } ( { \bf y } _ { \ell } ^ { 0 } ) _ { I I } ( { \bf y } _ { \nu } ^ { 0 \dagger } { \bf y } _ { \nu } ^ { 0 } ) _ { I J } \ln \left( \frac { M _ { P } } { \mathcal { M } } \right) ~ , } } \end{array}
+$$
+
+where ${ \bf y } ^ { 0 } \equiv { \bf y } ( M _ { P } )$ . Therefore,both the charged sleptons and the left-handed sneutrinos have mixings in favor space. The flavor mixing of the charged sleptons induces the FCNC couplings $\tilde { \chi } _ { \alpha } ^ { 0 } \ell _ { I } \tilde { \ell } _ { J }$ and $Z { \ddot { \ell } } _ { I } { \ddot { \ell } } _ { J }$ ， while the flavor mixing of left-handed sneutrinos induces the charged-current favor-changing couplings $\tilde { \chi } _ { \alpha } ^ { + } \ell _ { I } \tilde { \nu } _ { J }$ . These favor-changing couplings will contribute to the FCNC Z-decays $Z \to \ell _ { i } \ell _ { j }$ ， as shown in Fig.3.
+
+![](images/c58a11ef65044d0976550a3f53a1fed134cf0758a868202b00f42c535948b519.jpg)  
+FIG. 3: Feynman diagrams of SUSY contributions to the LFV processes $Z \to \ell _ { i } \ell _ { j }$
+
+With the constraints from current neutrino oscillation experiments and introducing two right-handed neutrinos with masses $\mathcal { M } _ { 1 } = 1 0 ^ { 1 3 }$ GeV and $\mathcal { M } _ { 2 } \simeq 1 0 ^ { 1 5 }$ GeV, the branching ratios of $Z \to \ell _ { i } \ell _ { j }$ and $\ell _ { i } \to \ell _ { j } \gamma$ versus the common scalar mass $m _ { 0 }$ are shown in Fig. 4. We see that the branching ratio of $Z \to \tau \mu$ can reach $1 0 ^ { - 8 }$ in supersymmetric seesaw model (with the current upper bound $B R ( \tau  \mu \gamma ) < 4 . 5 \times 1 0 ^ { - 8 }$ shown in Eq.4, $Z \to \tau \mu$ with a branching ratio $\sim 1 0 ^ { - 8 }$ is allowed,as shown in Fig. 4). Since the GigaZ sensitivity for （204 $Z \to \tau \mu$ isat $1 0 ^ { - 8 }$ , as shown in Eq.(10), $Z \to \tau \mu$ may be accessible at GigaZ and thus may serve as a probe of supersymmetric seesaw model.
+
+Note that while the above lepton favor violating Z-decays serve as a clean probe of new physics at the GigaZ, the FCNC decay modes into quarks such as $Z \to b \bar { s }$ may also sensitive to new physics. In the SM $Z \to b \bar { s }$ has a branching ratio of $\sim 1 0 ^ { - 8 }$ [14],which could be greatly enhanced in new physics models [15].
+
+# IV.CONCLUSION
+
+From the lepton flavor violating Z-decays $Z  \ell _ { i } \overline { { { \ell } } } _ { j }$ in the $R$ -parity violating minimal supersymmetric model and the supersymmetric seesaw model, we conclude that under the
+
+![](images/af829bd3ba1ad43b9079320898953db6bfe0d5d55714dc8217d0cb9722dde504.jpg)  
+FIG. 4: Branching ratios of $Z \to \ell _ { i } \ell _ { j }$ and $\ell _ { i } \to \ell _ { j } \gamma$ versus the common scalar mass $m _ { 0 }$ [4].
+
+current experimental constraints from LEP and $\ell _ { i } \to \ell _ { j } \gamma$ , these decays can reach the sensitivity of the GigaZ. Therefore,the supersymmetric models can be probed via these decays at GigaZ.
+
+# Acknowledgement
+
+Most part of this review was finished while the author was a visiting professor at Henan Normal University. This work was supported by the National Natural Science Foundation of China (NNSFC) under grant Nos. 10821504,10725526 and 10635030.
+
+(1996); J. Hisano, et al., Phys. Rev. D 58,116010 (1998); J. Hisano, D. Nomura, T. Yanagida Phys. Lett. B 437,351 (1998)； J. Hisano,D. Nomura,Phys. Rev.D 59,116005 (1999); G.K. Leontaros, N.D. Ttracas,Phys. Lett. B 431, 90 (1998); W. Buchmuler, D. Delepine, F. Vissani, Phys. Lett. B 459,171 (1999); J. Cao, et al., Phys. Rev. D 59, 095001 (1999); S.F. King,M. Oliveira, Phys. Rev. D 60, 035003 (1999); J. Ellis, et al., Eur. Phys. Jour. C 14, 319 (2000); J. L. Feng, Y. Nir, Y. Shadmi, Phys. Rev. D 61,113005 (2000);W. Buchmuller, D. Delepine, L.T. Handoko, Nucl. Phys. B 576, 445 (2000); J. Sato, K. Tobe,Phys. Rev. D 63,116010 (2001); J. Sato, K. Tobe, T. Yanagita,Phys. Lett. B 498,189 (2001); J. A. Casas, A. Ibarra, Nucl.Phys.B 618,171 (2001)； D. F. Carvalho,M.E.Gomez, S. Khalil, JHEP 0107,001 (2001); J. I. Ilana, T. Riemann, Phys. Rev. D 63, 053004 (2001); D. F. Carvalho, M. E.Gomez, J. C. Romao,Phys. Rev. D 65, 093013 (2002); D. Atwood, et al., Phys. Rev. D 66,093005 (2002)； J. I. Ilana, M. Masip,Phys. Rev. D 67, 035004 (2003). A. Gemintern, et al.,Phys. Rev. D 67,115012 (2003); M. C. Chen, K. T. Mahanthappa Phys. Rev. D 70, 113013 (2004)； E. Arganda, M. J. Herrero, Phys.Rev.D 73, 055003(2006) [6] See, e.g., V. Barger, G. F. Giudice and T. Han, Phys. Rev. D 40, 2978 (1989); K. Agashe, M. Graesser, Phys. Rev. D 54, 4445 (1996)； F. Zwirner,Phys.Lett. B 132,103 (1983)； R. N. Mohapatra, Phys. Rev. D 34, 3457 (1986); M. Hirsch, H. Kleingrothaus, S. G. Kovalenko, Phys. Rev. Lett. 75,17 (1995); K. S. Babu, R. N. Mohapatra, Phys. Rev. Lett. 75,2276 (1995); D. E. Kaplan, hep-ph/9703347; J. Jang, J. K. Kim, J. S. Lee, Phys. Rev. D 55,7296 (1997); G. Bhattacharyya, A. Raychaudhuri,Phys. Rev. D 57, 3837 (1998); J. M. Yang, B.-L. Young, X. Zhang, Phys. Rev. D 58, 055001 (1998)； J. M. Yang, Eur.Phys. Jour. C 20, 553 (2001)； D. Atwood, et al., Phys. Rev. D 66, 093005 (2002)； G. Eilam,et al., Phys. Lett.B 510, 227 (2001); G. Bhattacharyya, J. Ells, K. Sridhar, Mod. Phys.Lett. A 10, 1583 (1995); Z. Heng et al., Phys. Rev. D 79, 094029 (2009); J. Erler,J. L. Feng, N. Polonsky, Phys. Rev. Lett. 78, 3063 (1997)； A. Datta, et al.， Phys.Rev. D 56, 3107 (1997)； R. J. Oakes et al., Phys. Rev. D 57, 534 (1998); M. Chemtob and G. Moreau, Phys. Rev. D 59,116012 (1999); P. Chiappetta et al.， Phys. Rev. D 61，115008 (2000)； J. L. Feng, J. F.Gunion，T. Han, Phys. Rev. D 58, 071701 (1998); S. Bar-Shalom, G. Eilam,A. Soni,Phys. Rev. Lett.80, 4629 (1998); Phys. Rev. D 59, 055012 (1999); B.C. Allanach et al. Phys. Lett. B 420, 307 (1998); E. Perez, Y. Sirois, H. Dreiner, hep-ph/9703444; K. Hikasa, J. M. Yang, B.-L. Young, Phys. Rev. D 60, 114041 (1999); P. Li et al., Eur. Phys. Jour. C 51,163 (2007); K. J. Abraham et
+
+al.,Phys. Rev.D 63, 034011 (2001); Phys.Lett.B 514,72 (2001).A. Belyaev et al.,JHEP 0409,012 (2004); J. Cao et al., arXiv:0812.1698 [hep-ph]. [7] For a review of current bounds, see,e.g.,M. Chemtob, Prog. Part. Nucl. Phys. 54,71 (2005); R. Barbier et al., Phys. Rept. 420,1 (2005).   
+[8] M. Chaichian and K. Huitu, Phys. Lett. B 384,157 (1996).   
+[9] M. Ahmed et al. [MEGA Collaboration], Phys. Rev.D 65,112002 (2002); K. Abe et al. [Belle Collaboration], Phys. Rev. Lett. 92, 171802 (2004).   
+[10] R. Akers et al.[OPAL Collaboration], Z. Phys. C 67, 555 (1995); P. Abreu et al. [DELPHI Collaboration], Z. Phys. C 73, 243 (1997).   
+[11] G. Wilson, talks at DESY-ECFA LC Workshops in Frascati, 1998 and Oxford, 1999   
+[12] T. Yanagida, Prog. Theor. Phys. 64, 1103 (1980), R.N. Mohapatra and G. Senjanovic, Phys. Rev. Lett.44 (1980) 912.   
+[13] J. Hisano, T. Moroi, K. Tobe and M. Yamaguchi, Phys. Lett.B357 (1995) 579,Phys. Lett. B391 (1997) 341; Phys.Rev. D53(1996) 2442; J. Hisano and D. Nomura, Phys. Rev. D59 (1999)116005; J. Hisano et. al., Phys. Rev. D58 (1998) 116010; J. Hisano, D. Nomura, and T. Yangagida, Phys. Lett. B437 (1998) 351. J.A. Casas and A. Ibarra, Nucl. Phys. B618 (2001) 171.   
+[14] G. Eilam, Nucl. Phys.Proc.Suppl. 116,306 (2003)； M. Clements, et al.，Phys. Rev. D 27, 570 (1983); V. Ganapathi, et al., PRD27, 579 (1983); W. S. Hou, et al., Phys. Rev. Lett. 57, 1406 (1986); J. Bernaben, et al., Phys. Rev. Lett. 57,1514 (1986).   
+[15] C. Busch, Nucl. Phys. B 319,15 (1989); W. S. Hou and R. G. Stuart, Phys. Lett. B 226, 122 (1989); B. Grzadkowski, J. F. Gunion and P. Krawczyk, Phys. Lett. B 268,106 (1991); B. Mukhopadhyaya and A. Raychaudhuri, Phys. Rev. D 39, 280 (1989); M. J. Duncan, Phys. Rev. D 31,1139 (1985); F. Gabbiani, J.H. Kim and A. Masiero, Phys.Lett. B 214, 398 (1988); M. Chemtob and G. Moreau, Phys. Rev. D 59,116012 (1999); W. Buchm, M. Gronau, Phys. Lett. B 220,641 (1989); G. T. Park and T. K. Kuo, Phys. Rev. D 42, 3879 (1990); M. A. Perez and M. A. Soriano, Phys. Rev. D 46, 284 (1992); J Roldan, F. J. Botella and J. Vidal, Phys. Lett. B 283, 389 (1992); X. L. Wang, G. R. Lu and Z. J. Xiao, Phys. Rev. D 51, 4992 (1995); C. X. Yue, H. Li, H. Zong, Nucl. Phys. B 650, 290 (2003); R. Mohanta, Phys. Rev. D 71,114013 (2005); X.-F. Han, L. Wang, J. M. Yang, Phys. Rev. D 78, 075017 (2008).

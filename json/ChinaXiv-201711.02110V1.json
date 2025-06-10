@@ -1,0 +1,461 @@
+[
+    {
+        "type": "text",
+        "text": "1 海子水牛瘤胃微生物的宏基因组学分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 张慧敏 夏海磊 黄　强绪 欣 毛永江 岑宁杨章平\\*  \n3 (扬州大学动物科学与技术学院，扬州 225009)  \n4摘要：为系统探讨海子水牛瘤胃内的微生物组成及木质纤维素降解酶系，本试验利用基于  \n5 高通量测序的宏基因组学技术对海子水牛（2.5岁左右，平均体重为 $4 9 3 ~ \\mathrm { k g }$ ）瘤胃液样本进  \n6 行组学分析。结果表明,共获得了77 283 638条reads,并拼接出744712个 scaffold。经prodigal  \n7 分析后，共预测出827044个基因。通过基因注释发现海子水牛瘤胃中含有多种木质纤维素  \n8 降解微生物，如生黄瘤胃球菌（Ruminococcus flavefaciens）、白色瘤胃球菌（Ruminococcus  \n9號 albus）、产琥珀酸丝状杆菌（Fibrobacter succinogenes）及栖瘤胃普雷沃氏菌（Prevotella  \n10 ruminicola）。此外，还发现有 38011个基因编码蛋白具有木质纤维素降解酶活性，其中糖  \n11 苷水解酶（GH）基因数量最多（17877个)，糖基转移酶（GT）（8637个）、碳水化合物  \n12 结合模块（CBM）（4693个）和碳水化合物酯酶（ $C E$ ）基因（4214个）次之，多糖裂合酶  \n13 （PL）（1296个）和辅助氧化还原酶（AA）基因（934个）较少。在 $G H$ 基因中，归属于  \n14 GH2、GH43、GH97、GH3 家族的基因较多，且编码蛋白具有寡糖降解酶活性的基因数量最  \n15 多。此外还发现了少量的纤维小体组分蛋白基因。结合其他物种肠胃宏基因组中GH基因比  \n16 对分析，发现海子水牛瘤胃中的纤维素酶、半纤维素酶和分支降解酶比例与奶牛瘤胃较为接  \n17 近。由此可见，海子水牛瘤胃内含有丰富的木质纤维素降解微生物及酶系，这将为筛选具有  \n18 工业应用潜力的酶基因奠定理论基础。  \n19 关键词：海子水牛；瘤胃；宏基因组；微生物；木质纤维素降解酶  \n20 中图分类号：S823  \n21 木质纤维素是含有纤维素、半纤维素、木质素等成分的植物生物质的统称[1]。瘤胃是自  \n22 然界中降解木质纤维素能力最强的生态系统之一，能够在48h内降解饲粮中 $6 0 \\% \\sim 6 5 \\%$ 的木质  \n23 纤维素，为反刍动物提供营养物质，可见瘤胃内蕴藏着丰富的木质纤维素降解微生物和酶系  \n24 [2]。瘤胃内微生物种类繁多、数量巨大，共有超过300种微生物，既包括细菌、原虫、真菌  \n25 和古细菌，也有噬菌体和病毒[3]。瘤胃是一座巨大的生物资源库，蕴藏着许多有具有工业应  \n26 用潜力的木质纤维素降解酶系。Zhou等[4从耗牛瘤胃中发现了一个双功能酶，同时具有葡萄  \n27 糖苷酶及木糖苷酶的活性。Huang等[5]从湖羊瘤胃中获得了一种嗜低温的木聚糖酶基因。但  \n28 瘤胃是一个严格厌氧的环境，绝大多数瘤胃微生物是不可培养的，这就大大限制了人们对瘤  \n29 胃基因资源的探索研究。随着高通量测序技术的发展，宏基因组测序已功运用于分析特定环  \n30 境中的微生物组成、代谢通路研究以及酶蛋白的功能分析等[6]。  \n31 目前，已有许多应用高通量测序技术研究反刍动物瘤胃微生物的报道。Hess等在2011  \n32 年首次对奶牛瘤胃微生物的宏基因组进行了测序，共发现了27755个木质纤维素降解酶基  \n33 因，其中糖苷水解酶（glycoside hydrolase，GH）家族GH13（3 442个）和GH3（2 844个）  \n34 的基因最多，而含有黏连模块和对接模块的基因分别为80和188个，这些基因为发掘新型木  \n35 质纤维素降解酶提供了可能性。Patel等8利用青草、干草饲喂水牛，采样后进行宏基因组高  \n36 通量测序，结果发现青草组的水牛瘤胃中GH28及果胶裂解酶的基因数量显著多于干草组。  \n37 Singh等[9利用高通量测序技术对印度水牛瘤胃微生物宏基因组进行测序，共获得了137 270  \n38 个重叠群（contigs），预测其中2614个具有降解木质纤维素的功能。王继文等[10]对山羊瘤  \n39 胃与粪便微生物基因组进行了比对研究，发现二者存在较大差异，瘤胃微生物主要以拟杆菌  \n40 门为主，厚壁菌门次之，相对丰度最高的属为普雷沃菌属，而粪便中的微生物以厚壁菌门为  \n41 主，拟杆菌门次之，相对丰度最高的属为瘤胃球菌科下未分类的属。  \n42 海子水牛属沼泽型水牛，分布于江苏北部沿海地区，是我国主要的地方良种之一，它适  \n43 应当地的自然生态条件，抗逆性突出，耐粗饲，在草质较差的情况下，仍能较好地生长及劳  \n44 役，可见海子水牛瘤胃内蕴藏着独特的木质纤维素降解微生物和酶系。然而，到目前为止，  \n45 对于沼泽型水牛瘤胃内的微生物组成及其功能基因尚鲜见报道。本研究借助于高通量测序技  \n46 术，首次获得海子水牛瘤胃微生物的宏基因组数据，经数据库比对分析后，获得功能注释，  \n47 结合其他物种肠胃宏基因组信息进行比对研究，旨在系统探讨海子水牛瘤胃内的微生物组成  \n48 及木质纤维素降解酶系，以期从中发掘新型具有工业应用潜力的木质纤维素降解酶。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "49 1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取3头2.5岁左右的海子水牛，平均体重为 $4 9 3 \\ \\mathrm { k g }$ 。试验水牛的饲养管理条件一致，每天饲喂2次，自由采食，饲粮组成及营养水平见表1。饲喂60d后进行称重并屠宰，屠宰后立刻采集瘤胃液样品，经4层灭菌纱布过滤后，迅速置于液氮中。在相同的饲粮及生活环境下，牛瘤胃内的微生物群落组成较为相似[7,1]，因此我们随机选取1头海子水牛的瘤胃液进行下一步测序分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1饲粮组成及营养水平（风干基础）",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cedef626243e7a0f5dd03b120720125a6752f3fbbf8ae6d166f8afdfc23cda51.jpg",
+        "table_caption": [
+            "Table 1Composition and nutrient levels of the diet (air-dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原料</td><td>含量</td><td>营养水平</td><td>含量</td></tr><tr><td>Ingredients</td><td>Content</td><td>Nutrient levels 干物质 DM</td><td>Content 96.06</td></tr><tr><td>青贮玉米 Silage corn 花生秧 Peanut vine</td><td>30.00 10.00</td><td>粗蛋白质CP</td><td>9.80</td></tr><tr><td>稻草Rice straw</td><td>45.00</td><td>中性洗涤纤维 NDF</td><td>50.23</td></tr><tr><td>玉米Corn</td><td>7.00</td><td>酸性洗涤纤维 ADF</td><td>42.46</td></tr><tr><td>米糠 Rice bran</td><td>2.50</td><td>有机物OM</td><td>87.98</td></tr><tr><td>豆粕 Soybean meal</td><td>3.00</td><td></td><td></td></tr><tr><td>小麦麸Wheat bran</td><td>2.50</td><td></td><td></td></tr><tr><td>合计Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 宏基因组DNA的提取 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照QIAamp DNA micro kit（德国Qiagen）试剂盒说明书的要求，进行瘤胃液宏基因组DNA的分离和纯化。使用 $1 . 0 \\%$ 的琼脂糖凝胶电泳和NanoDrop分光光度计，对分离纯化后的DNA进行检测和评价。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3宏基因组测序及分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "纯化后的样品送上海欧易生物公司进行高通量测序。首先利用Covaris M220进行宏基因组DNA片段化处理，打断至300bp左右，末端连接Y字形接头，通过接头PCR将DNA片段连接到芯片上形成“桥”并制成文库，随后通过Ilumina HiSeq 2000高通量测序平台进行测序。获得测序数据后，首先进行宿主基因的过滤和质量剪切等优化处理；其次使用软件SOAP denovo 2.04对测序数据进行拼接组装，组装时选用的kmer参数为65；然后使用软件prodigal2.6.3对基因组序列进行基因预测；最后进行数据库比对分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过BLAST 将预测得到的基因序列与GenBank 的非冗余核苷酸序列数据库",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(Nonredundant database，NR）进行比对（ftp://tp.ncbi.nih.gov/pub/taxonomy），将 evalue≤le-5的序列作为有意义的序列，并获得物种注释信息；最后将预测基因与COG 数据库（ftp://ftp.ncbi.nih.gov/pub/COG/COG/kyva）、GO 数据库（htp://www.geneontology.org/）和KEGG数据库（http://www.genome.jp/kegg/pathway.html）进行比对，获得基因功能注释。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4碳水化合物基因分析 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用CAZy数据库（http://www.cazy.org/）的对应工具hmmscan（http://hmmer.janelia.org/search/hmmscan）将预测基因与CAZy数据库进行比对，获得基因对应的碳水化合物活性酶注释信息，然后使用碳水化合物活性酶对应的基因丰度总和计算该碳水化合物活性酶的丰度。根据蛋白质结构域中氨基酸序列的相似性，可以将不同物种来源的碳水化合物活性酶分成GH、糖基转移酶（glycosyl transferase，GT）、多糖裂合酶（polysaccharide lyase，PL）、碳水化合物酯酶（carbohydrate esterase，CE）、碳水化合物结合模块（carbohydrate-binding module，CBM）、辅助氧化还原酶（auxiliary activity，AA）共6大类蛋白质家族。同时将海子水牛的CAZy分析结果，与奶牛及印度水牛瘤胃、白蚁后肠及鸡盲肠宏基因组中的CAZy分析结果进行比对。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1宏基因组测序结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经Illumina Hiseq 高通量测序平台测序，获得77 283638 条reads，过滤水牛宿主基因（GCA_000003055.5,Bostaurus Bos_taurus_UMD_3.1.1）后共获得了10.79 GB 的测序数据。使用软件 SOAP denovo 2.04 对测序数据进行拼接组装，共得到744712个 scaffold，约 250Mbp 的宏基因组序列（表2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f27b2adc1a82f54deb4c08a83666182a99347272fccc268a021a273d67087ff8.jpg",
+        "table_caption": [
+            "表2组装结果统计表",
+            "Table 2The result of the assembly "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>Scaffold</td></tr><tr><td>总数Total number/个</td><td>744 712</td></tr><tr><td>总长度Total length/bp</td><td>250 094 761</td></tr><tr><td>Gap 数量 Gap No./个</td><td>1 777 360</td></tr><tr><td>平均长度 Average length/bp</td><td>336</td></tr><tr><td>N50 长度 N50 length/bp</td><td>302</td></tr><tr><td>N90 长度 N90 length/bp</td><td>210</td></tr><tr><td>最长长度 Maximum length/bp</td><td>185 379</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/97579f004a72d047506e0445c26cbd579f97c935829379081b4244afb33b19cf.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>最短长度 Minimum length/bp</td><td>200</td></tr><tr><td>GC 含量 GC content/%</td><td>46.14</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用软件prodigal2.6.3对基因组序列进行基因预测，预测得到氨基酸序列共827044条，基因平均长度 $2 7 4 \\mathrm { b p }$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2基因注释结果",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将 827044条基因序列与NR数据库进行BLAST比对，选取evalue≤le-5的序列，共498644条。如图1所示，与NR数据库中序列的相似度主要分布在 $50 \\%$ 以上，只有 $7 . 8 \\%$ 的序列与NR数据库序列高度相似（相似度 $59 5 \\%$ )，表明此次测序结果中含有许多新基因。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/43d7713b2c9665a04429ef0ec53817bcc6fc3d649e2d57c24ea1e91127359e00.jpg",
+        "img_caption": [
+            "图1与NR数据库序列的相似度",
+            "Fig.1Similarity with sequences in NR database "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将测序数据与数据库比对，获得分析序列的蛋白功能注释信息。同时统计基因比对到各个物种的比例，结果显示蛋白编码基因来源于拟杆菌门（ $5 5 . 3 \\%$ ）的最多，来源于厚壁菌门的比例可达到 $1 2 . 7 \\% , 3 . 2 3 \\%$ 及 $2 . 7 1 \\%$ 的基因分别来源于纤维杆菌门及变形菌门（图2）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d7f6aebb2c2a20cb2e60b5cd5b18b9cebe58326cd2acb8c8c0d0735951dfd08.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同的颜色代表不同的门，饼面积的大小代表注释到该门的基因的比例。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Different colors represent different phyla,and the area shows the proportion of gene classfied to the phylum. 图2|最多的15个门的分布 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Fig.2Distribution of the top 15 phyla "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，将样品中物种水平上的分类层级关系绘制成进化分支图（图3)，从根部开始向外，依次为界-门-纲-目-科-属-种-菌株的分类。共分类出来了3个界：细菌界、古菌界、病毒界，海子水牛瘤胃中的微生物大部分为细菌界。在菌株的分类中，未分类的甲烷短杆菌(Methanobrevibacter unclassfied)及猪沙波病毒(Porcine sapelovirus)分别属于古菌界及病毒界。而细菌界中共测得8种主要菌株，分别为栖瘤胃普雷沃氏菌（Prevotellaruminicola）、生黄瘤胃球菌（Ruminococcus flavefaciens）、白色瘤胃球菌（Ruminococcus albus）、未分类的丁酸弧菌（Butyrivibrio unclassified）、链球菌（Streptococcus infantarius）、密螺旋体 JC4（Treponema sp.JC4）及伯氏密螺旋体（Treponema bryantii）、产琥珀酸纤维杆菌（Fibrobactersuccinogenes)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "批注[微软用户1]:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "拟杆菌门Bacteroidetes $( 5 5 . 3 \\% )$ 未分类门No_rank_phylum $2 2 . 7 7 \\%$ ）厚壁菌门Firmicutes( $1 2 . 7 0 \\%$ ）纤维杆菌门Fibrobacteres（ $3 . 2 3 \\%$ ）变形菌门Proteobacteria（ $2 . 7 1 \\%$ ）放线菌门 Actinobacteria $( 0 . 6 8 \\% )$ ）衣原体门 Chlamydiae ( $0 . 6 5 \\%$ ）疣微菌门 Verrucomicrobia（ $0 . 4 7 \\%$ ）螺旋体门 Spirochaetes（ $0 . 4 3 \\%$ ）柔膜菌门Tenericutes（ $0 . 2 7 \\%$ ）蓝藻细菌Cyanobacteria（ $0 . 2 3 \\%$ ）广古菌门Euryarchaeota（ $0 . 2 2 \\%$ ）浮霉菌门Planctomycetes（ $0 . 1 3 \\%$ ）酸杆菌门Acidobacteria（ $0 . 1 2 \\%$ ）梭杆菌门Fusobacteria $( 0 . 1 1 \\% )$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A:未分类的甲烷短杆菌 Methanobrevibacter unclassified；B:猪萨佩罗病毒 Porcine sapelovirus；C:栖瘤胃普雷沃氏菌 Prevotel ruminicola；D：生黄瘤胃球菌属 Ruminococcus flavefaciens；E:白色瘤胃球菌属Ruminococcus albus；F:未分类的丁酸弧菌属 Butyrivibrio unclasified；G:链球菌 Streptococcus infantarius；H:梅毒螺旋体菌 JC4 Treponema sp.JC4；I:布赖恩蒂密螺旋体 Treponema bryantii; $\\mathbf { J } { : } \\vec { J } ^ { \\mathrm { { s c } } }$ 琥珀酸纤维杆菌属Fibrobacter succinogenes。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cc9d535553b188ff62d427962484f29b5a3c86e27563890b8c2b424f02bacc8.jpg",
+        "img_caption": [
+            "Fig.3The classification of species "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图3物种的分类",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3COG 数据库比对结果",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对宏基因组中的预测基因进行COG功能分类预测。发现功能集中在碳水化合物转运及代谢的基因是最多的，数量达到37933个，由此可见该宏基因组内可能含有大量的木质纤维素降解酶基因 (图4)。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba51e4c4cb12bdc45d7061ad5b5ea13cbd6527c32b8f9230b3b3c66ac3a0b0be.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "131 A:RNA加工和修改RNAprocessingandmodification；B:染色质结构与动力学   \n132 Chromatinstructureanddynamics；C:能量产生和转换 Energyproductionandconversion；D:细胞周期控制、细胞   \n133 分裂、染色体分区Cellcyclecontrol,celdivision,chromosomepartitioning；E:氨基酸运输和代谢 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Aminoacidtransportandmetabolism;   \nF:核苷酸运输和代谢Nucleotidetransportandmetabolism；G:碳水化合物的运输和代谢 Carbohydratetransportandmetabolism；H:辅酶运输和代谢 Coenzymetransportandmetabolism；I:脂质运输和代 谢Lipidtransportandmetabolism；J:翻译,核糖体结构和生物转化 Translation,ribosomalstructureandbiogenesis; K:转录 Transcription；L:复制、重组和修复 Replication,recombinationandrepair；M:细胞壁/膜/包膜生物合成 Cellwall/membrane/envelopebiogenesis；N:细胞活性 Cellmotility；O:蛋白质转译后的修改,蛋白质转化,分子 伴侣Posttranslationalmodification,proteinturnover,chaperones；P:无机离子运 输和代谢 Inorganiciontransportandmetabolism；Q:次生代谢产物生物合成、运输和分解代谢 Secondarymetabolitesbiosynthesis,transportandcatabolism；R:通用功能预测 Generalfunctionpredictiononly S:未知功能 Functionunknown；T:信号转导机制 Signaltransductionmechanisms；U:胞内运输、分泌和膜泡运 输Intracelulartraficking,secretion,andvesiculartransport；V:防御机制 Defensemechanisms；W:细胞外结构 Extracellularstructures；X:移动基因组:噬菌体原,转座子 Mobilome:prophages,transposons；Y:核结构 Nuclearstructure；Z:细胞骨架 Cytoskeleton。 ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf0ed02b50a362b96a1abb6dcd1eb32aa700cc8069b83420f9fd55132fe15909.jpg",
+        "img_caption": [
+            "图4COG分类",
+            "Fig.4 COGclassification "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4 GO分类结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对得到的基因进行GO 分类，统计基因在生物过程（biological process，BP）、细胞成分（cellular component，CC）和分子功能（molecular function，MF）3个GO类别中。在BP类中，集中在代谢、细胞外加工的基因最多；在CC类中，集中在细胞、细胞组分的基因最多；在MF类中，集中在结合以及催化功能的基因最多（图5)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A1:生物黏附 biological adhesion;A2:生物调节 biological regulation;A3:细胞死亡 cellkilling;A4：组织或生物合成细胞组件 cellular component organization or biogenesis;A5：细胞过程 cellular process;A6:发育过程developmental processA7：定位建立 establishment of localization;A8：增长 growth;A9：免疫系统的过程immune system process;A10：定位 localization;Al1:移动 locomotion;A12:代谢过程 metabolic process;A13:",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "多细胞生物的过程 multicellular organismal process;A14:多组织过程 multi-organism process;A15:生物过程反向调节 negative regulation of biological process;Al6:生物过程正向调节 positive regulation of biologicalprocess;A17:生物过程的调节regulation of biological process;A18:繁殖 reproduction;A19:生殖过程reproductive process;A20:刺激反应 response to stimulus;A21：节律过程 rhythmic process;A22：信号signaling;A23：单组织过程 single-organism process;B1：细胞 cell;B2：细胞连接 celljunction;B3：细胞部分cell part;:B4：细胞外基质 extracellular matrix;B5：细胞外基质部分 extracellular matrix part;B6：细胞外区域extracellularregion;B7：细胞外区域部分extracelllar region part;B8：大分子复合物macromolecularcomplex;B9：膜 membrane;B10：膜部分 membrane part;B11：膜封闭腔 membrane-enclosed lumen;B12：线粒体相关黏附复合体 mitochondrion-associated adherens complex;B13：类核nucleoid;B14：细胞器organelle;B15:细胞器的部分 organell part;B16:共质体 symplast;B17:突触 synapse;B18:突触部分 synapsepart;B19 病毒粒子 virion;B20：病毒粒子部分 virion part;C1: $D$ -丙氨酰载体功能 $D$ -alanyl carrier activity;C2:抗氧化功能 antioxidant activity;C3：结合 binding:C4：催化功能 catalytic activity;C5：通道调节功能 channelregulatoractivity;C6：化学引诱物功能 chemoatractant activity;C7:化学排斥物功能 chemorepellnt activity;C8:电子载体功能 electron carrier activity;C9：酶调节功能 enzyme regulator activity;C10：金属伴侣功能metallochaperone activity;C11：分子传感器功能 molecular transducer activity;C12:成形素功能 morphogenactivity;C13：核酸结合转录因子功能 nucleic acid binding transcription factor activity;C14：营养储存功能nutrient reservoir activity;C15：蛋白结合转录因子功能 protein binding transcription factor activity;C16：蛋白质标记 protein tag;C17：受体功能 receptor activity;C18:受体调节功能 receptor regulator activity;C19：结构分子功能 structural molecule activity;C20：翻译调节功能 translation regulator activity;C21：运输功能transporter activity 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A代表注释到BP的条目，B代表注释到CC的条目，C代表注释到MF的条目，横坐标为条目名称，纵坐标表示条目的数量或比例。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Arepresents the term of BP,Brepresents the term of CC,and C represents the termofMF.The abscissa was term name,and the ordinate was the number or percentage of term. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图5最多的20个CO条目分类",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5 KEGG分析结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "105560个基因被富集到247条KEGG通路中，表3为富集最明显的前10条KEGG 通路。大部分基因被富集在小分子的代谢中，如氨基酸的生物合成、嘌呤代谢、嘧啶代谢、碳代谢、氨酰 tRNA的生物合成等。此外，还有5236个基因富集在淀粉和蔗糖代谢中。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/65815a0924b27d16a9a2fd0e6133421edcbf1d8d83e27fdaa069a5ebb0c14494.jpg",
+        "table_caption": [
+            "表3富集最明显的10条KEGG通路",
+            "Table 3Top 10 obviously gathered KEGG pathways "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>通路Pathways</td><td>描述 Description</td><td>基因数量 Gene No./个</td></tr><tr><td>ko01230</td><td>氨基酸的生物合成</td><td>13 393</td></tr><tr><td>ko00230</td><td>嘌呤代谢</td><td>10 717</td></tr><tr><td>ko01200</td><td>碳代谢</td><td>10 664</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/23965f3c4253e7ac0f4b7b06fa0b84ee50138f3f9b86e683cbe6a751b5daee66.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ko00240</td><td>嘧啶代谢</td><td>9 467</td></tr><tr><td>ko00970</td><td>氨酰tRNA的生物合成</td><td>7106</td></tr><tr><td>ko00500</td><td>淀粉和蔗糖代谢</td><td>5236</td></tr><tr><td>ko00520</td><td>氨基糖和核苷酸糖代谢</td><td>5200</td></tr><tr><td>ko00250</td><td>丙氨酸代谢</td><td>5159</td></tr><tr><td>ko00010</td><td>糖酵解、糖原异生</td><td>4969</td></tr><tr><td>ko03010</td><td>核糖体</td><td>4872</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.6CAZy数据库比对结果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "经hmmscan分析，发现有38011个基因比对到CAZy数据库中，统计结果如图6所示，宏基因组中的 $G H$ 基因数量最多（17877个)，GT（8637个）、CBM（4693个）和 $C E$ 基因（4214个）次之， $P L$ 和AA基因较少，数量分别为1296和934个。此外还发现了42个黏连蛋白（cohesin)基因、236个对接蛋白（dockerin)基因以及82个S层同源结构域（S-layerhomology，SLH)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AA：辅助氧化还原酶；CBM：碳水化合物结合模块； $C E$ ：碳水化合物酯酶；GH：糖苷水解酶；GT",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "糖基转移酶；PL：多糖裂合酶。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AA:auxiliary activity CBM: carbohydrate binding modules; $C E$ ：carbohydrate esterases;GH: glycosyl hydrolases; GT: glycosyl transferases;PL: polysaccharide lyases. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/569b47daeab3b39f6272595668e0279baa51657233fe2298b424e8d2d989114c.jpg",
+        "img_caption": [
+            "图6CAZy数据库比对结果",
+            "Fig.6Distribution of CAZyme encoding genes "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "17 877个GH基因分布在不同的GH基因家族，其中GH2、GH43、GH97、GH3 家族的基因较多，GH12和GH62家族的基因最少（表4)。瘤胃中的木质纤维素降解酶可水解植物细胞壁中的纤维素和半纤维素，根据水解底物类型的不同，可将海子水牛瘤胃宏基因组内的GH基因家族分类（表5)，有932个基因编码的蛋白质具备纤维素酶活性，其中GH5及GH9 基因家族的数量较多；1011个基因编码的蛋白具备半纤维素酶活性，其中GH10 基因家族的基因数量最多；分支降解酶（GH67和GH78）的编码基因共有 538个；3266个基因编码的蛋白具有寡糖降解酶活性，其中GH2基因家族的基因数量最多。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/31b5eed24d0c18d798b6a551bee1823f467e43fe6ae316cdba3d2f1edde3b54e.jpg",
+        "table_caption": [
+            "表4海子水牛瘤胃微生物宏基因组中GH基因的分布",
+            "Table 4Distribution of GH genes in Haizi buffalo rumen microorganism metagenome "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>数量No./个</td><td>项目Items</td><td>数量No./个</td><td>项目Items</td><td>数量No./</td></tr><tr><td>糖苷水解酶1GH1</td><td>31</td><td>糖苷水解酶47 GH47</td><td>8</td><td>糖苷水解酶93 GH93</td><td>27</td></tr><tr><td>糖苷水解酶2GH2</td><td>1732</td><td>糖苷水解酶48GH48</td><td>6</td><td>糖苷水解酶94 GH94</td><td>290</td></tr><tr><td>糖苷水解酶3GH3</td><td>860</td><td>糖苷水解酶49GH49</td><td>6</td><td>糖苷水解酶95 GH95</td><td>547</td></tr><tr><td>糖苷水解酶4GH4</td><td>105</td><td>糖苷水解酶 50 GH50</td><td>99</td><td>糖苷水解酶96 GH96</td><td>13</td></tr><tr><td>糖苷水解酶5GH5</td><td>515</td><td>糖苷水解酶 51 GH51</td><td>396</td><td>糖苷水解酶97 GH97</td><td>940</td></tr><tr><td>糖苷水解酶6GH6</td><td>15</td><td>糖苷水解酶 52 GH52</td><td>7</td><td>糖苷水解酶98 GH98</td><td>15</td></tr><tr><td>糖苷水解酶7GH7</td><td>9</td><td>糖苷水解酶53GH53</td><td>158</td><td>糖苷水解酶99GH99</td><td>42</td></tr><tr><td>糖苷水解酶8GH8</td><td>130</td><td>糖苷水解酶 54 GH54</td><td>54</td><td>糖苷水解酶 100 GH100</td><td>8</td></tr><tr><td>糖苷水解酶9GH9</td><td>337</td><td>糖苷水解酶55GH55</td><td>61</td><td>糖苷水解酶101GH101</td><td>7</td></tr><tr><td>糖苷水解酶10 GH10</td><td>360</td><td>糖苷水解酶 56 GH56</td><td>9</td><td>糖苷水解酶 102 GH102</td><td>14</td></tr><tr><td>糖苷水解酶11 GH11</td><td>56</td><td>糖苷水解酶 57 GH57</td><td>143</td><td>糖苷水解酶103 GH103</td><td>18</td></tr><tr><td>糖苷水解酶12GH12</td><td>3</td><td>糖苷水解酶58GH58</td><td>5</td><td>糖苷水解酶104GH104</td><td>13</td></tr><tr><td>糖苷水解酶13 GH13</td><td>679</td><td>糖苷水解酶 59 GH59</td><td>25</td><td>糖苷水解酶 105 GH105</td><td>204</td></tr><tr><td>糖苷水解酶14GH14</td><td>8</td><td>糖苷水解酶62 GH62</td><td>3</td><td>糖苷水解酶 106 GH106</td><td>310</td></tr><tr><td>糖苷水解酶15 GH15</td><td>11</td><td>糖苷水解酶63 GH63</td><td>18</td><td>糖苷水解酶 107GH107</td><td>13</td></tr><tr><td>糖苷水解酶16 GH16</td><td>192</td><td>糖苷水解酶64 GH64</td><td>8</td><td>糖苷水解酶108 GH108</td><td>26</td></tr><tr><td>糖苷水解酶17GH17</td><td>13</td><td>糖苷水解酶65GH65</td><td>22</td><td>糖苷水解酶109 GH109</td><td>315</td></tr><tr><td>糖苷水解酶18GH18</td><td>119</td><td>糖苷水解酶66 GH66</td><td>60</td><td>糖苷水解酶110GH110</td><td>61</td></tr><tr><td>糖苷水解酶19 GH19</td><td>5</td><td>糖苷水解酶67 GH67</td><td>115</td><td>糖苷水解酶111GH111</td><td>5</td></tr><tr><td>糖苷水解酶 20 GH20</td><td>401</td><td>糖苷水解酶68 GH68</td><td>6</td><td>糖苷水解酶112 GH112</td><td>10</td></tr><tr><td>糖苷水解酶22GH22</td><td>6</td><td>糖苷水解酶70 GH70</td><td>15</td><td>糖苷水解酶113 GH113</td><td>18</td></tr><tr><td>糖苷水解酶23 GH23</td><td>266</td><td>糖苷水解酶 71 GH71</td><td>9</td><td>糖苷水解酶114 GH114</td><td>20</td></tr><tr><td>糖苷水解酶24GH24</td><td>68</td><td>糖苷水解酶72GH72</td><td>5</td><td>糖苷水解酶115 GH115</td><td>320</td></tr><tr><td>糖苷水解酶25GH25</td><td>275</td><td>糖苷水解酶73 GH73</td><td>187</td><td>糖苷水解酶116 GH116</td><td>23</td></tr><tr><td>糖苷水解酶 26 GH26</td><td>163</td><td>糖苷水解酶74 GH74</td><td>199</td><td>糖苷水解酶117 GH117</td><td>21</td></tr><tr><td>糖苷水解酶27GH27</td><td>159</td><td>糖苷水解酶75GH75</td><td>4</td><td>糖苷水解酶118GH118</td><td>9</td></tr><tr><td>糖苷水解酶28 GH28</td><td>302</td><td>糖苷水解酶 76 GH76</td><td>75</td><td>糖苷水解酶116 GH119</td><td>201</td></tr><tr><td>糖苷水解酶29GH29</td><td>368</td><td>糖苷水解酶77GH77</td><td>310</td><td>糖苷水解酶120 GH120</td><td>18</td></tr><tr><td>糖苷水解酶30GH30</td><td>192</td><td>糖苷水解酶78GH78</td><td>423</td><td>糖苷水解酶121GH121</td><td>25</td></tr><tr><td>糖苷水解酶 31 GH31</td><td>544</td><td>糖苷水解酶 79 GH79</td><td>11</td><td>糖苷水解酶 122 GH122</td><td>9</td></tr><tr><td>糖苷水解酶32GH32</td><td>189</td><td>糖苷水解酶 80 GH80</td><td>18</td><td>糖苷水解酶123 GH123</td><td>50</td></tr><tr><td>糖苷水解酶33 GH33</td><td>190</td><td>糖苷水解酶 81 GH81</td><td>4</td><td>糖苷水解酶124 GH124</td><td>45</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/fcec07a8130458833219a7e8b4b1654dccaaccf8da60058b850e2d19825e87e4.jpg",
+        "table_caption": [
+            "表5不同动物的微生物宏基因组中GH基因的分布"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>糖苷水解酶34GH34</td><td>12</td><td>糖苷水解酶 82 GH82</td><td>29</td><td>糖苷水解酶125GH125</td><td>52</td></tr><tr><td>糖苷水解酶35GH35</td><td>88</td><td>糖苷水解酶83GH83</td><td>52</td><td>糖苷水解酶126GH126</td><td>8</td></tr><tr><td>糖苷水解酶36GH36</td><td>218</td><td>糖苷水解酶84GH84</td><td>32</td><td>糖苷水解酶127GH127</td><td>258</td></tr><tr><td>糖苷水解酶37GH37</td><td>30</td><td>糖苷水解酶85 GH85</td><td>19</td><td>糖苷水解酶128 GH128</td><td>14</td></tr><tr><td>糖苷水解酶38 GH38</td><td>47</td><td>糖苷水解酶86GH86</td><td>8</td><td>糖苷水解酶129 GH129</td><td>31</td></tr><tr><td>糖苷水解酶39GH39</td><td>91</td><td>糖苷水解酶 87GH87</td><td>24</td><td>糖苷水解酶130GH130</td><td>147</td></tr><tr><td>糖苷水解酶42GH42</td><td>49</td><td>糖苷水解酶88GH88</td><td>36</td><td>糖苷水解酶131GH131</td><td>7</td></tr><tr><td>糖苷水解酶43 GH43</td><td>1105</td><td>糖苷水解酶 89 GH89</td><td>199</td><td>糖苷水解酶132 GH132</td><td>4</td></tr><tr><td>糖苷水解酶44GH44</td><td>28</td><td>糖苷水解酶90 GH90</td><td>9</td><td>糖苷水解酶133GH133</td><td>167</td></tr><tr><td>糖苷水解酶45GH45</td><td>52</td><td>糖苷水解酶91GH91</td><td>13</td><td>糖苷水解酶134GH134</td><td>8</td></tr><tr><td>糖苷水解酶46 GH46</td><td>16</td><td>糖苷水解酶92 GH92</td><td>602</td><td>糖苷水解酶135 GH135</td><td>13</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/f52b99a989e9c1559ebae17d143e57c48b262a39787ef4acb4fc53895f45aa64.jpg",
+        "table_caption": [
+            "214 ",
+            "Table 5Distribution of GH genes in microorganism metagenome in different animals "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>海子水牛瘤胃 Haizi buffalo rumen</td><td>奶牛瘤胃 Dairy cow rumen[7]</td><td>印度水牛瘤胃 Indian buffalo rumen[9]</td><td>白蚁后肠 Termite hindgut[11]</td><td>鸡盲肠 Chicken cecum[12]</td></tr><tr><td>纤维素酶 Cellulases</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>糖苷水解酶5GH5</td><td>2.88</td><td>3.85</td><td>1.50</td><td>5.71</td><td>0.19</td></tr><tr><td>糖苷水解酶9 GH9</td><td>1.89</td><td>2.2</td><td>0.26</td><td>2.37</td><td>0.23</td></tr><tr><td>糖苷水解酶44GH44</td><td>0.16</td><td>0.07</td><td>0.00</td><td>0.32</td><td>0.00</td></tr><tr><td>T 糖苷水解酶45 GH45</td><td>0.29</td><td>0.27</td><td>0.05</td><td>0.51</td><td>0.00</td></tr><tr><td>合计Total</td><td>5.22</td><td>6.39</td><td>1.81</td><td>8.91</td><td>0.43</td></tr><tr><td>T 半纤维素酶Hemicellulases</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>糖苷水解酶8GH8</td><td>0.73</td><td>0.76</td><td>0.00</td><td>0.83</td><td>0.08</td></tr><tr><td>糖苷水解酶 10 GH10</td><td>2.01</td><td>1.65</td><td>2.64</td><td>5.39</td><td>0.62</td></tr><tr><td>糖苷水解酶11 GH11</td><td>0.31</td><td>0.69</td><td>0.15</td><td>1.09</td><td>0.00</td></tr><tr><td>糖苷水解酶 26 GH26</td><td>0.91</td><td>0.76</td><td>1.03</td><td>1.28</td><td>0.27</td></tr><tr><td>糖苷水解酶 28 GH28 T</td><td>1.69</td><td>0.48</td><td>0.21</td><td>0.77</td><td>0.51</td></tr><tr><td>合计Total</td><td>5.65</td><td>4.34</td><td>4.04</td><td>9.36</td><td>1.48</td></tr><tr><td>分支降解酶 Debranching enzymes T</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>糖苷水解酶67 GH67</td><td>0.64</td><td>0.62</td><td>2.49</td><td>1.34</td><td>0.47</td></tr><tr><td>糖苷水解酶78GH78 □</td><td>2.37</td><td>3.85</td><td>2.85</td><td>0.44</td><td>2.84</td></tr><tr><td>合计Total</td><td>3.01</td><td>4.47</td><td>5.34</td><td>1.78</td><td>3.31</td></tr><tr><td colspan=\"2\">寡糖降解酶 Oligosaccharide degrading enzymes</td><td></td><td></td><td></td><td></td></tr><tr><td>糖苷水解酶1GH1</td><td>0.17</td><td>0.21</td><td>0.05</td><td>1.86</td><td>3.86</td></tr><tr><td>糖苷水解酶2GH2</td><td>9.69</td><td>11.68</td><td>9.85</td><td>4.36</td><td>12.24</td></tr><tr><td>糖苷水解酶3GH3</td><td>4.81</td><td>13.87</td><td>18.30</td><td>11.94</td><td>8.92</td></tr><tr><td>糖苷水解酶 29 GH29</td><td>2.06</td><td>2.06</td><td>2.28</td><td>0.89</td><td>2.14</td></tr><tr><td>糖苷水解酶 35 GH35</td><td>0.49</td><td>0.62</td><td>0.78</td><td>0.38</td><td>1.09</td></tr><tr><td>糖苷水解酶 38GH38</td><td>0.26</td><td>0.89</td><td>0.26 0.00</td><td>2.63</td><td>1.21</td></tr><tr><td>糖苷水解酶39GH39</td><td>0.51</td><td>0.21</td><td></td><td>0.44</td><td>0.00</td></tr><tr><td>糖苷水解酶42 GH42</td><td>0.27</td><td>0.27</td><td>0.10</td><td>2.76</td><td>0.94</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本试验通过高通量测序技术对海子水牛瘤胃液样本进行组学分析，共获得了77283 638条reads，并拼接出744712个 Scaffold。将测序数据与COG 数据库进行比对发现，功能集中在碳水化合物转运及代谢的基因是最多的，除此之外，富集在氨基酸运输及代谢、细胞壁及细胞膜生物合成基因也较多，这与印度水牛的报道相似[9]。在GO 分类分析中发现，集中在结合以及催化功能的基因最多。由此可见，海子水牛瘤胃宏基因组内可能含有大量的木质纤维素降解酶基因。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "根据基因注释到物种的比例可知，来源于拟杆菌门的基因较多，可占 $5 5 . 3 \\%$ 。Jami等[13]在奶牛瘤胃中也发现了相同的微生物分布。此外，根据物种分类结果可知，海子水牛瘤胃中的微生物大部分为细菌界，其中的生黄瘤胃球菌、白色瘤胃球菌及产琥珀酸丝状杆菌可产出大量的纤维素酶降解饲粮中的木质纤维素，被认为是瘤胃中降解木质纤维素的主要微生物，而栖瘤胃普雷沃氏菌可降解木聚糖及果胶[14-15]。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "纤维素酶、半纤维素酶及果胶酶的协同作用可降解植物的细胞壁，为反刍动物提供营养物质，而这3类酶基因均存在于海子水牛的瘤胃中。GH5及GH9 基因家族的含量较高，二者可达到GH基因总量的 $4 . 7 7 \\%$ 。GH10、GH11、GH26和GH28家族的酶具有半纤维素酶活性，其中GH10 和GH11家族属于木聚糖酶，它能从木聚糖主链的内部随机切割 β-1,4木糖苷键，将其降解为低聚木糖和少量木糖，而CE1、CE4、CE6及CE7家族的木聚糖酯酶可作用于木聚糖的支链[8,16]。此外，PL1、PL9 及 PL10 家族的酶具有果胶裂解酶活性，而CE8 家族的酶具有果胶甲基酯酶活性，可脱去果胶中的甲酯基团，生成果胶酸[17]。在 GH分类中，寡糖降解酶的比例最高，可能是由于经过纤维素酶、半纤维素酶及果胶酶的协同作用后，植物细胞壁被降解为大量的低聚寡糖，这些物质需要被进一步降解后才可被反刍动物吸收利用。而寡糖降解酶中的GH2 家族的酶数量最多，主要包括β-D-半乳糖苷酶、 ${ \\mathfrak { \\beta } }$ 葡萄糖醛酸酶、β-D-甘露糖苷酶及外切 β-氨基葡萄糖苷酶[18]。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "此外，本试验还在海子水牛瘤胃内发现了42个黏连蛋白基因、236个对接蛋白基因以及82个S层同源结构域，它们均是构成纤维小体的组分。纤维小体是一种由木质纤维素降解酶依靠脚手架蛋白形成的多酶复合体[19]，并借助黏附蛋白固定于细胞表面，可持续、高效地降解木质纤维素。目前已在生黄瘤胃球菌和白色瘤胃球菌中发现了纤维小体[20]。Hess等[7发现奶牛瘤胃中含有黏连蛋白和对接蛋白的基因分别为80 和188 个。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "将海子水牛的瘤胃宏基因组与奶牛[7和印度水牛的瘤胃[、白蚁后肠[1]及鸡盲肠[1]宏基因组数据中的 $G H$ 基因进行分类比对，发现在不同的宏基因组中，寡糖降解酶比例均为最高。但与其他4种动物肠胃微生物宏基因组相比，海子水牛中的寡糖降解酶数量最少。海子水牛和奶牛瘤胃宏基因组中的纤维素酶、半纤维素酶和分支降解酶比例接近。印度水牛中的纤维素酶最少，但寡糖降解酶最多。海子水牛瘤胃中纤维素酶及寡糖降解酶的比例与印度水牛瘤胃存在许多不同，这可能与2种水牛饲粮中粗饲料与精饲料的比例有关，印度水牛饲粮中粗饲料与精饲料的比例为 $7 5 { : 2 5 ^ { [ 9 ] } }$ ，而海子水牛的则为85:15，粗饲料含量高可能导致瘤胃内存在高比例的纤维素酶和低比例的寡糖降解酶。但在GH 基因家族分布中，2 种水牛瘤胃中GH6、GH7、GH12、GH48及GH62家族基因数量均较少[8]。白蚁后肠微生物宏基因组中的纤维素酶和半纤维素酶基因最多，其中GH5（ $5 . 7 1 \\%$ ）和GH10（ $5 . 3 9 \\%$ ）家族的基因比例最高，主要是由于木材中纤维素及半纤维素的比例高于牧草。鸡盲肠中的纤维素酶及半纤维素酶的比例最低，但寡糖降解酶比例较高。由此可见宿主基因型及饲料的不同可影响肠胃GH基因的组成。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 通过高通量测序发现海子水牛瘤胃中含有多种木质纤维素降解微生物，如生黄瘤胃球菌、白色瘤胃球菌、产琥珀酸丝状杆菌及栖瘤胃普雷沃氏菌。可见，海子水牛瘤胃内含有丰富的木质纤维素降解微生物。$\\textcircled{2}$ 水牛瘤胃中还含有大量的糖苷水解酶基因，其中GH2、GH43、GH97、GH3家族的基因较多，且编码蛋白具有寡糖降解酶活性的基因数量最多。可见，海子水牛瘤胃内含有丰富的木质纤维素降解酶系。参考文献：[1]邓玉营,黄振兴,阮文权,等.木质纤维素沼气体系中共培养菌群形成及适应性变化研究进展[J].应用与环境生物学报,2016,22(5):944-958.3 [2] WANG G R,DUAN Y L.Studieson lignocellulosedegradation byrumen",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "microorganism[J].Advanced Materials Research,2014,853:253-259.   \n[3]KIM M,MORRISON M,YU Z T.Status of the phylogenetic diversity census of ruminal microbiomes[J].FEMS Microbiology Ecology,2011,76(1):49-63.   \n[4]ZHOU J,BAO L,CHANG L,et al.Beta-xylosidase activity of a GH3 glucosidase/xylosidase from yak rumen metagenome promotes the enzymatic degradation of hemicellulosic xylans[J].Letters in Applied Microbiology,2012,54(2):79-87.   \n[5]HUANG H Q,WANG G Z,ZHAO Y Y,et al.Direct and eficient cloning of ful-ength genes from environmental DNA by RT-qPCR and modified TAIL-PCR[J].Applied Microbiology and Biotechnology,2010,87(3):1141-1149.   \n[6]王禄禄,王立志,周美丽.宏基因组学技术在反刍动物瘤胃微生态系统上的应用研究进展 [J].中国微生态学杂志,2017,29(2):223-228.   \n[7]HESS M,SCZYRBA A,EGAN R,et al.Metagenomic discovery of biomass-degrading genes and genomes from cow rumen[J].Science,2011,331(6016):463-467.   \n[8]PATEL D D,PATEL A K,PARMAR N R,et al.Microbial and carbohydrate active enzyme profile of buffalo rumen metagenome and their alteration in response to variation in the diet[J].Gene,2014,545(1):88-94.   \n[9]SINGH K M,REDDY B,PATEL D,et al.High potential source for biomass degradation enzyme discovery and environmental aspects revealed through metagenomics of Indian buffalo rumen[J].BioMed Research International,2014,2014:267189.   \n[10]王继文,王立志,闫天海,等.山羊瘤胃与粪便微生物多样性[J].动物营养学 报,2015,27(8):2559-2571.   \n[11]WARNECKE F,LUGINBUHL P,IVANOVA N,et al.Metagenomic and functional analysis of hindgut microbiota ofa wood-feeding higher termite[J].Nature,2007,450(7169):560-565.   \n[12]QU A,BRULC J M,WILSON M K,et al.Comparative metagenomics reveals host specific metavirulomesandhorizontalgenetransferelementsinthechickencecum microbiome[J].PLoS One,2008,3(8):2945.   \n[13]JAMI E,MIZRAHI I.Composition and similarity of bovine rumen microbiota across   \n[14]FLINT HJ,BAYER E A.Plant cell wall breakdown by anaerobic microorganisms from the mammaliandigestivetract[J].AnnalsoftheNew YorkAcademy of Sciences,2008,1125(1):280-288.   \n[15] FLINT H J,BAYER E A,RINCON M T,et al.Polysaccharide utilization by gut bacteria:potentialfornewinsightsfromgenomicanalysis[J].NatureReviews Microbiology,2008,6(2):121-131.   \n[16]ZHANG H M,LI JF,WANG J Q,et al.Determinants for the improved thermostability of a mesophilic family 11 xylanase predicted by computational methods[J].Biotechnology for Biofuels,2014,7(1):3.   \n[17] YADAVS,YADAVPK,YADAV D,et al.Pectin lyase:a review[J].Process Biochemistry,2009,44(1):1-10.   \n[18]NASCIMENTO A S,MUNIZ JR C,APARiCIO R,et al.Insights into the structure and function of fungal $\\beta$ -mannosidases from glycoside hydrolase family 2 based on multiple crystal structures of the Trichoderma harzianum enzyme[J].FEBS Journal,2014,281(18):4165-4178.   \n[19]HYEON JE,JEON S D,HAN S O.Cellulosome-based,Clostridium-derived multi-functional enzymecomplexesforadvancedbiotechnologytool development:advancesand applications[J].Biotechnology Advances,2013,31(6):936-944.   \n[20] DASSA B,BOROVOK I,RUIMY-ISRAELI V,et al.Rumen cellulosomics:divergent fiber-degrading strategies revealed by comparative genome-wide analysis of six Ruminococcal strains[J].PLoS One,2014,9(7):e99221. Metagenomic Analysis of Microorganisms in Rumen of Haizi Buffalo ZHANG Huimin XIA Hailei HUANG Qiang XU Xin MAO Yongjiang CEN Ning YANG Zhangping\\* （College ofAnimal Science and Technology,Yangzhou University,Yangzhou 2250o9,China） ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In order to investigate microorganism composition and lignocelllolytic enzymes in rumen of Haizi buffalo,rumen fluid sample of Haizi buffalo （about 2.5 years of age,average body weight was $4 9 3 ~ \\mathrm { k g }$ ）was surveyed using metagenomic high-throughput sequencing. The results showed as follws:a total of 77 283 638 reads were obtained,which were assembled into 744 712 scaffolds.And then,a total of 827 O44 genes were predicted by prodigal analysis.Many microorganisms involved in lignocelllose degradation were identified by gene annotation,such asRuminococcus flavefaciens,Ruminococcus albus,Fibrobacter succinogenes and Prevotella ruminicola.We identified potential 38 01l genes encoding lignocellulolytic enzymes including glycoside hydrolase (GH)(17 877 genes),glycosyl transferase (GT) (8 637 genes),carbohydrate binding module (CBM) (4 693 genes),carbohydrate esterase ( $\\ C E )$ (4 214 genes),polysaccharide lyase $( P E )$ (1 296 genes),and auxiliary activity (AA)(934 genes).Among GH genes,most genes belonged to GH2,GH43,GH97 and GH3 families,and a higher abundance of oligosaccharide degrading enzymes in buffalo rumen metagenome was identified.Besides that,we also predicted that some genes could encode the celllosome component.Compared with GH genes in the gastrointestinal metagenome of other species,the proportions of cellulose,hemicellulase and debranching enzyme were similar between Haizi buffalo and dairy cow.These results demonstrate that buffalo rumen is considerably enriched in functional microorganisms and enzymes involved in lignocellulose degradation with great prospects to obtain enzyme genes that may be applied in the industry. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Key words:Haizi buffalo; rumen; metagenome; microorganism; lignocellulolytic enzyme ",
+        "page_idx": 16
+    }
+]

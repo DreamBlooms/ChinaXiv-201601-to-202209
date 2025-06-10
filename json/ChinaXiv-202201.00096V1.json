@@ -1,0 +1,412 @@
+[
+    {
+        "type": "text",
+        "text": "半干旱地区矿区土地利用时空演变与预测",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘畅¹，张红²³，张霄羽23，杨国婷²，刘勇1.3（1.山西大学黄土高原研究所,山西 太原 030006；2.山西大学环境与资源学院,山西 太原 030006;3.山西省黄河实验室，山西 太原 030006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：半干旱地区矿区的土地利用格局在采矿干扰下发生着巨大变化，以全国八大煤炭生产基地之一的山西省大同矿区为研究对象,分析1985—2015年土地利用类型的时空变化以及影响土地利用变化的驱动因子，构建RF(RandomForest,RF)-FLUS(Future Land Use Simulation,FLUS)模型模拟预测半干旱区矿区未来土地利用变化,结果表明：（1）1985—2015年,矿区的林地、耕地和水域面积减少,草地和建设用地面积增加。（2）林地、草地分布受气候及距离水系和设施点的距离影响较大;耕地分布受气候、高程及距水域、居民点的距离影响较大;水域分布最重要的影响因子是降水;建设用地分布主要受生产能力和距设施点的距离影响较大。（3)FLUS模型和RF-FLUS模型拟合精度均较高，但RF-FLUS模型比FLUS模型精度更高，更接近实际土地格局变化结果。（4）根据RF-FLUS模型对矿区2025年土地利用变化预测表明，矿区内林地、草地和耕地均呈下降趋势，下降速率变化不大；水域保持不变，建设用地与其他类型(裸地和未利用地)保持稳定上升的趋势。本研究为探究矿区土地格局复杂动态演变机制、探索小尺度土地资源优化路径、促进区域生态健康发展提供有利的科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：矿区；土地利用变化；模型预测；随机森林模型；驱动因子",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "日益加快的城市化导致土地覆盖和土地利用变化（Land Use and Land Cover Change,LUCC)波动明显[],土地覆盖和土地利用的变化会造成当地生态环境的破坏，进而使整个区域的生态系统逐渐不平衡[2]。目前,对于土地利用变化的研究逐步从现象描述走向机制解析，从定性分析走向定量模拟，土地利用变化模型可以分析土地利用变化的成因、探索土地利用格局演变以及预测未来土地利用的需求和分布[3]。因此，对土地利用变化动力学机制以及提高土地利用变化预测能力的研究成为目前研究的焦点。土地利用变化模型主要包括基于经验统计原理的模型如多元回归模型、地理加权回归、CLUE-S模型等[4-5],基于元胞自动机（CellularAutomata，CA)原理的模型如SLEUTH模型、GEO-MOD模型等，基于机器学习原理的模型如神经网络模型、遗传算法模型等\"，基于多智能体的模型如多智能体系统（Multi-Agent System,MAS)模型[8]等。经验统计和机器学习模型可以很好的结合遥感数据，根据历史土地利用变化，建立土地变化与时空要素之间的关系，但由于假设驱动力不变，所以不合适长时间段的预测，并且会出现拟合过度问题[。基于CA原理的模型采用离散的空间单元进行模拟[10],可以更好的处理空间性信息，适用于复杂地理空间格局的模拟和预测[]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以往CA研究多是以逻辑回归为转换规则进行，逻辑回归的优势在于运算方便可以输出权重便于理解，但精度不够高[12]；之后,杨青生等[13]学者提出以人工智能和机器算法为转换规则，精度提高了但无法输出权重。随着研究者和决策者对土地利用分类、未来格局模拟预测、适宜性概率获取的精度产生了更高的追求，随机森林模型结合自身可以平衡误差、复杂度适中、分析驱动因子权重等优点被广泛应用于土地利用研究之中。例如，张大川等[14]借助随机森林模型的优势与CA模型结合模拟东莞市土地利用变化，分析不同土地利用类型分布的各因子影响重要程度。马惠娟等[15在青海省湟水流域复杂地形区采用随机森林分类方法对土地利用类型进行了分类研究。陈凯[等利用随机森林方法的优势结合元胞自动机模型通过对影响城市空间分析的重要性判别来研究复杂非线性的城市扩展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土地利用变化是一个受到自然条件以及社会经济因素综合影响的地理变化过程，由于矿区的区位、地形地貌、开采方式和规模、社会经济水平等不同，影响矿区土地利用变化的因素也存在很大差异[17]。大同矿区位于半干旱区,受自然本底条件的限制，区内本身土地承载力小，煤炭资源开发固有的时间持续性、空间扩展性和强干扰性不仅会占用和破坏大量土地，还会使其脆弱的生态环境更加严重。如段语凤等[18]发现矿区井工开采改变了十旱荒漠区植物的群落结构和植被盖度。史晓琼等[研究高强度采煤造成的地下水位下降、地面沉降等生态环境问题。邹雅婧等2研究发现黄土高原渭北矿区开采使土壤侵蚀更加严重。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究基于1985—2015年每10a时间序列的遥感影像，结合矿区具体的环境特征和开采历史，对大同矿区近30a的时空格局、演变特征及驱动力进行分析，对未来2025年土地利用格局进行预测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为揭示受自然条件和人为影响的作用下矿区土地变化的规律，引入随机森林的方法提高模型精度更加准确预测未来土地格局演变，对于理解土地利用格局的复杂动态演变机制有一定理论意义，同时对于探索矿区土地资源管理和优化、实施生态调控策略具有重要实际意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据来源与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大同矿区位于山西省大同市的西南方，地理位置为 $3 9 ^ { \\circ } 4 3 ^ { \\prime } { \\sim } 4 0 ^ { \\circ } 1 0 ^ { \\prime } \\mathrm { N } , 1 1 2 ^ { \\circ } 3 1 ^ { \\prime } { \\sim } 1 1 3 ^ { \\circ } 1 4 ^ { \\prime } \\mathrm { E }$ ,地形为向斜构造的平缓丘陵，海拔高度为 $1 0 3 1 { \\sim } 1 9 6 4 \\mathrm { ~ m }$ 。矿区内有十里河以及“V\"字形沟谷发育。大同矿区位于干旱半干旱区脆弱地带，矿区内昼夜温差大，降水集中在夏季，全年气候干燥，年均蒸发量远大于年均降雨量，水域面积小。矿区主要含煤层为侏罗系和石炭-二叠系，侏罗纪煤层除西南边角已全部开发利用。石炭-二叠系采空区主要分布在东部和南部。大同矿区煤质有害元素含量低，焦油产率较高，发热量较高，是中国重要的优质动力煤生产基地，开采方式以并工开采为主。研究区地理位置如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/61f746373f1871935411953aaa1daa82c981bcc2db4f45eff9d0fc252542bc97.jpg",
+        "img_caption": [
+            "图1研究区示意图",
+            "Fig.1Diagram of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源与处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据类型包括土地利用数据以及影响因子数据，影响因子数据包括自然因子、社会因子以及距离因子(表1)。土地利用数据是由 $3 0 \\mathrm { ~ m ~ }$ 分辩率的Landsat系列遥感影像数据解译获取，并按照国家标准重分类为六类。高程数据由中国科学院资源环境科学数据中心(http://www.resdc.cn)获取,并从中提取出坡向和坡度。气温和降水数据由中国气象数据网(http://data.cma.cn）气温和降水站点数据进行空间插值获得。煤矿生产能力由实地调查获得。人口数据在Ye等[21研究基础上将精度提升到$3 0 \\mathrm { ~ m ~ }$ 。距离因子通过采用ArcGIS10.5中欧氏距离算法计算得出，POI数据采用网络爬虫技术获得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1FLUS模型FLUS模型耦合了系统动力学模型和元胞自动机模型，并在元胞自动机模型原有基础上引人人工神经网络（ArtificialNeuralNetwork,ANN)构建转换规则，具有耦合人类活动与自然效应的各类土地类型之间相互竞争和转化的模拟优势[22]。FLUS模型包括如下两个部分：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一部分是通过ANN模块训练样本数据并构建本区域的土地利用类型空间发生概率。人工神经网络的优势在于能够通过多次迭代学习和拟合输入数据与训练目标之间的复杂关系[23]。在ANN的输入层中，神经元与输入变量相对应;输出层中的神经元代表特定地类在网格单元内的发生概率，在特定单元格内该值越高表示目标地类的发生概率越高[24]。根据公式可得出，在k时刻第i种地类在栅格 $d$ 上发生的概率：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { p ( d , k , i ) = \\displaystyle \\sum _ { j } w _ { j , k } \\times \\mathrm { S i g m o i d } \\big ( n e t _ { j } ( d , k ) \\big ) } \\\\ { \\displaystyle = \\sum _ { j } w _ { j , i } \\times \\frac { 1 } { 1 + \\mathrm { e } ^ { - n e t _ { j } ( d , k ) } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $p ( d , k , i )$ 表示第 $k$ 类土地在栅格 $d$ 上i时刻的适应性概率; $\\boldsymbol { w } _ { j , i }$ 表示输出层与隐藏层间的自适应权重； $n e t _ { j } ( d , i )$ 表示隐藏层中神经元 $j$ 接收到的信号；Sigmoid为输人层与隐藏层之间的连接激活函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二部分是基于轮盘赌选择机制的自适应惯性竞争机制融合CA的空间运算功能，调整宏观土地需求与当前现有土地之间的数量并达到目标值，解决了以往模型在处理复杂地类间的相互影响[25]。公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { { I n t e r t i a } } _ { k } ^ { i } = \\{ \\begin{array} { l l } { \\mathrm { { I n t e r t i a } } _ { k } ^ { i - 1 } , } & { \\mathrm { i f } | S _ { k } ^ { i - 1 } | \\leqslant | S _ { k } ^ { i - 2 } | } \\\\ { \\mathrm { { I n t e r t i a } } _ { k } ^ { i - 1 } \\times \\displaystyle \\frac { S _ { k } ^ { i - 2 } } { S _ { k } ^ { i - 1 } } , } & { \\mathrm { i f } | S _ { k } ^ { i - 1 } | \\leqslant | S _ { k } ^ { i - 2 } | < 0 } \\\\ { \\mathrm { { I n t e r t i a } } _ { k } ^ { i - 1 } \\times \\displaystyle \\frac { S _ { k } ^ { i - 1 } } { S _ { k } ^ { i - 2 } } , } & { \\mathrm { i f }  0 < | S _ { k } ^ { i - 2 } | \\leqslant | S _ { k } ^ { i - 1 } | } \\end{array} \n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：Intertia $\\begin{array} { c } { { i } } \\\\ { { \\cdot k } } \\end{array}$ 为 $i$ 时刻第 $k$ 种地类的自适应惯性系数； $S _ { k } ^ { i - 1 }$ 、 $S _ { k } ^ { i - 2 }$ 代表 $i \\mathrm { - } 1 \\ldots 2$ 时刻第 $k$ 种地类的需求与当前土地数量的差值。转移成本由土地利用历史数据与经验得出,表示为scm一”",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上可以将综合适宜性概率计算公式表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$T P _ { \\ d , k } ^ { i } = p ( d , i , k ) \\times \\Omega _ { \\ d , k } ^ { i } \\times \\mathrm { I n t e r t i a } _ { k } ^ { i } \\times ( 1 - s c _ { m  n } )$ (3)1.3.2RF-FLUS模型随机森林模型是一个在数据挖掘能力、转换规则准确性及其稳定性方面具有自身优势的利用多个决策树生成的集成智能算法。只需要对给定样本进行训练，克服神经网络过度拟合的问题[26]。采用RF代替ANN在FLUS模型内的转换规则，构造24棵决策树，变量数为4,每个样本抽取2/3的数据作为袋内数据用来训练模型，剩余1/3的数据用作袋外数据来估算误差并验证决策树的精度，袋外数据越小精度越高。样本和变量的选择可以降低各决策树之间相关性，为之后更准确的对大同矿区土地利用变化进行模拟和预测提供基础",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fcc9a331f695c59f54f615dbdd79d7178b88e0bedef6afeceaa0fe3d56691f32.jpg",
+        "table_caption": [
+            "表1数据来源Tab.1 Data source"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据类型</td><td>数据名称</td><td>数据来源</td></tr><tr><td rowspan=\"3\">自然因子</td><td>高程</td><td>中国科学院资源环境科学数据中心(http://www.resdc.cn)</td></tr><tr><td>坡度 坡向</td><td>基于高程(DEM)数据提取</td></tr><tr><td>气温、降水</td><td>中国气象数据网(http://data.cma.cn)</td></tr><tr><td rowspan=\"2\">社会经济因子</td><td>煤矿生产能力</td><td>采用实际调查获取</td></tr><tr><td>人口</td><td>中国科学院资源环境科学数据中心(http://www.resdc.cn)</td></tr><tr><td rowspan=\"2\">距离因子</td><td>距公路、铁路、水系距离</td><td>采用ArcGIS10.5中欧氏距离算法计算</td></tr><tr><td>距设施点、居民点距离</td><td>POI数据采用网络爬虫技术获取服务设施</td></tr><tr><td>土地利用数据</td><td>1985年、1995年、2005年、2015年遥感影像</td><td>中国科学院资源环境科学数据中心(http://www.resdc.cn)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.3平均基尼系数下降法选用平均基尼系数下降法来计算并分析影响大同矿区土地利用格局不同因素的影响程度。平均基尼系数下降法是对每颗决策树按照基尼的不纯度(GiniImpurity)对特征进行排序，特征的重要性直接反映了该特征参与模型计算过程中的重要性。每个特征的重要性为0\\~1之间的浮点数，数值越大表明该特征对于整个模型越重要。通过遍历全部树节点，计算选入的每个特征变量的基尼系数下降总和表示该变量对最终格局的影响程度[27]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.4模型精度验证模型精度验证采用混淆矩阵Kappa系数检验[28]定量分析验证模型精度。混淆矩阵对角线百分比越高，代表精度越高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1土地利用格局时空变化特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由1985—2015年大同矿区土地利用格局空间变化和面积变化图可知（图2，图3），1985—1995年矿区处于成长阶段，耕地面积增加了 $4 0 . 7 5 \\ \\mathrm { k m } ^ { 2 }$ ；草地广泛分布于研究区内，变化率为 $- 2 . 8 7 \\%$ ;林地主要分布在中部以及东部边缘，面积增加 $3 . 3 7 \\mathrm { k m } ^ { 2 }$ ,林草地数量仅次于耕地面积;水域主要分布在研究区西北部的十里河，呈带状分布水量较多，面积增加了 $3 . 5 3 \\ \\mathrm { k m } ^ { 2 }$ ;建设用地和其他类型多分布在北部地势平坦处，面积增加了 $0 . 2 7 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1995一2005年矿区走向成熟阶段，生产过程逐渐机械化,开采规模进一步扩大。耕地主要零散分布于矿区边缘，该时期耕地面积减少约 $2 0 \\%$ ；随着退耕还林还草政策的推行，草地成为矿区所占比例最大的土地利用类型，占总面积的 $6 0 \\%$ ;水域面积急剧下降，由 $1 . 0 4 \\%$ 减少至 $0 . 1 \\%$ ;建设用地减少$0 . 6 7 \\%$ ,其他类型增加 $0 . 3 5 \\%$ ○",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2005—2015年矿区处于转型期，政府政策扶持生产全面改造，矿井生产逐渐规模化，同时矿区城市工业化程度不断加快，因此该期土地利用特点主要表现为建设用地面积大幅增加，由 $3 . 0 9 \\%$ 增加到$7 . 0 9 \\%$ 。耕地、林地、草地以及水域地类由于人类活动的影响面积都有所下降，其他类型面积略微上升，增加 $0 . 2 9 \\%$ ○",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2不同历史时期土地利用转移分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由1985—2015年大同矿区的土地利用转移可知（表2)，1985—1995年由于采矿活动和人类生活的影响，土地利用转移主要为水域大面积转变为林地、草地和耕地，建设用地有 $6 . 7 2 \\%$ 转向林地；1995—2005年矿区开始大规模开采，毁林采矿、修筑公路实现晋煤外运，大量占用耕地和林地，土地利用的变化主要表现为各土地利用类型向草地的转移，耕地向草地转移高达 $7 2 . 5 8 \\%$ ,林地向草地发生转移 $5 5 . 9 3 \\%$ ，水域、建设用地和其他用地向草地转移均为 $3 0 \\%$ 以上。水域面积向耕地转移较多，达$3 3 . 3 9 \\%$ ;2005一2015年土地利用类型转移主要表现为水域转为其他类型，转移 $9 4 . 3 5 \\%$ ，少量耕地和水域转为草地。其余土地利用类型几乎没有发生转移。30a间大同矿区土地利用的变化趋势是各土地利用类型向草地转移，其中，林地向草地转移最多，",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6505e79f55ad1725062b37dada9239f0488483d4e3893940fca503755a44cdfd.jpg",
+        "img_caption": [
+            "图21985—2015年大同矿区土地利用空间分布",
+            "Fig.2 Spatial distribution of land use in Datong coal mining area from 1985 to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d89c6273613a90963330e5a61a2c1f87b03ac81b6f00b2e99cdf51b97f97734.jpg",
+        "img_caption": [
+            "图3大同矿区不同时期土地类型面积变化Fig.3 Changes of land type area in Datong coal miningarea in each year"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其次是耕地。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3土地利用变化的影响因素分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据土地利用变量的重要性，进一步分析大同煤矿区土地利用变化的影响因子(图4)，林草地的分布主要受到气候、距水系和设施点距离影响；耕地分布受到矿区DEM、气候、距水系、设施点以及居民点的距离等因素影响。这主要由于干旱区气候干燥，耕地需要便利的灌溉条件，而且农民为方便耕种将耕地分布在距离居民点较近的地方；水域最重要的影响因子是降水因子，降水条件直接决定水域分布范围;建设用地很大程度上受到生产能力和距设施点距离的影响，矿区煤炭生产能力越高，各种厂房、排土道路、煤矿职工办公住宿区均相应增加。餐馆、学校、医院、休闲娱乐场所等设施点的距离也直接决定建设用地分布。其他类型分布受到距水系距离的影响，水系周围的用地极易被改变为其他类型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4土地利用格局模拟及未来预测",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别采用FLUS和RF-FLUS模型，对大同矿区土地利用变化进行建模，采用Kappa系数对比精度结果。首先对2015年大同煤矿区土地利用格局进行拟合，结果表明，FLUS模型和RF-FLUS模型模拟得到的2015年矿区土地利用格局与2015年影像解译得到的实际土地利用格局相比（图 $5 \\mathrm { a } \\sim$ 图5c），拟合程度均较高。将模拟结果与实际土地利用做混淆矩阵精度验证(表3)。FLUS模型Kappa系数为0.92,OA系数为0.95;RF-FLUS模型Kappa系数为0.93，OA系数为0.96，就模拟精度而言，RF-FLUS模型拟合效果更好，更加符合实际土地利用格局。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以2015年为基准年，采用RF-FLUS模型模拟矿区2025年的土地利用空间分布结果可知（图6）。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/73bac09b7900de22caf2ed1f95f415c48900829f11c505c27f5c863184ef7dc3.jpg",
+        "table_caption": [
+            "表21985—2015年大同矿区土地利用转移概率矩阵"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">1ab.2 Land ISICrPr atonge hnngarcan o1985t02013</td></tr><tr><td>年份</td><td>土地利用类型</td><td>林地</td><td>草地</td><td>耕地</td><td>水域</td><td>建设用地</td><td>其他</td></tr><tr><td rowspan=\"9\">1985—1995</td><td>林地</td><td>86.88</td><td>3.69</td><td>8.54</td><td>0.45</td><td>0.44</td><td>1</td></tr><tr><td>草地</td><td>5.26</td><td>77.63</td><td>16.49</td><td>0.31</td><td>0.20</td><td>0.11</td></tr><tr><td>耕地</td><td>14.87</td><td>8.82</td><td>73.60</td><td>0.58</td><td>1.94</td><td>0.19</td></tr><tr><td>水域</td><td>17.31</td><td>23.64</td><td>5.41</td><td>52.47</td><td>1.17</td><td>1</td></tr><tr><td>建设用地</td><td>6.72</td><td>3.18</td><td>6.27</td><td>4.02</td><td>77.55</td><td>2.25</td></tr><tr><td>其他</td><td>26.68</td><td>1.64</td><td>1</td><td>1</td><td>2.35</td><td>69.33</td></tr><tr><td>林地</td><td>10.44</td><td>55.93</td><td>31.2</td><td>0.10</td><td>2.07</td><td>0.27</td></tr><tr><td>草地</td><td>35.7</td><td>49.14</td><td>13.26</td><td>0.14</td><td>1.07</td><td>0.68</td></tr><tr><td>耕地</td><td>13.36</td><td>72.58</td><td>11.59</td><td>0.12</td><td>1.75</td><td>0.60</td></tr><tr><td rowspan=\"8\">2005—2015</td><td>水域</td><td>21.23</td><td>31.28</td><td>33.39</td><td>0.33</td><td>13.47</td><td>0.30</td></tr><tr><td>建设用地</td><td>4.17</td><td>32.89</td><td>27.64</td><td>0.05</td><td>32.92</td><td>2.33</td></tr><tr><td>其他</td><td>7.02</td><td>47.12</td><td>7.08</td><td>0.37</td><td>28.75</td><td>9.66</td></tr><tr><td>林地</td><td>99.20</td><td>1</td><td>0.06</td><td>一</td><td>0.30</td><td>0.44</td></tr><tr><td>草地</td><td>1</td><td>97.54</td><td>0.05</td><td>1</td><td>2.24</td><td>0.18</td></tr><tr><td>耕地</td><td>一</td><td>1.03</td><td>85.99</td><td>1</td><td>12.97</td><td>0.01</td></tr><tr><td>水域</td><td>1</td><td>2.12</td><td></td><td>3.52</td><td>一</td><td>94.35</td></tr><tr><td>建设用地 其他</td><td>一 二</td><td>1 二</td><td>1 二</td><td>一 二</td><td>100.00 二</td><td>1 100.00</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/18077a3a5ef6c0817d5fad07cc456851a0a3457cdb9ef4cca84ee44c75c63c57.jpg",
+        "img_caption": [
+            "图42015年大同矿区土地利用类型影响因子的重要性"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/657d2ed963247dadfb22a9eef6b5963a8a9c2a2d413ce12696af85c8355b8000.jpg",
+        "img_caption": [
+            "Fig.4 The importance of different types of influencing factors in Datong coal mining area in 2015 ",
+            "图52015年大同矿区土地利用格局与模型模拟结果",
+            "Fig.5Land use pattern and model simulation results in Datong coal mining area in 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/395fd4adae6e579a8f1265e9dff7890ced225f57be03814c312d3b548fc6defe.jpg",
+        "table_caption": [
+            "表3RF-FLUS模型与FLUS模型混淆矩阵",
+            "Tab.3 Confusion matrixofRF-FLUS model andFLUS model ",
+            "/% "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"7\">RF-FLUS模型</td><td rowspan=\"2\"></td><td colspan=\"6\">FLUS模型</td></tr><tr><td>林地</td><td>草地</td><td>耕地</td><td>水域</td><td>建设用地</td><td>其他</td><td></td><td>林地</td><td>草地</td><td>耕地</td><td>水域</td><td>建设用地</td><td>其他</td></tr><tr><td>林地</td><td>95.03</td><td>1.73</td><td>1.35</td><td>0.00</td><td>0.00</td><td>0.20</td><td>林地</td><td>93.25</td><td></td><td>2.14</td><td>1.80</td><td>0.00</td><td>0.00</td><td>0.33</td></tr><tr><td>草地</td><td>2.35</td><td>95.71</td><td>2.60</td><td>0.00</td><td></td><td>0.00</td><td>5.71</td><td>草地</td><td>2.94</td><td>95.33</td><td>2.32</td><td>10.00</td><td>0.00</td><td>6.03</td></tr><tr><td>耕地</td><td>2.02</td><td>1.20</td><td>94.57</td><td>0.00</td><td>0.00</td><td></td><td>0.26 耕地</td><td></td><td>2.54</td><td>1.62</td><td>93.52</td><td>0.00</td><td>0.00</td><td>0.26</td></tr><tr><td>水域</td><td>0.00</td><td>0.00</td><td>0.00</td><td>100.00</td><td>0.00</td><td></td><td>0.00 水域</td><td></td><td>0.00</td><td>0.00</td><td>0.00</td><td>90.00</td><td>0.00</td><td>0.00</td></tr><tr><td>建设用地</td><td>0.28</td><td>1.17</td><td>1.40</td><td>0.00</td><td>100.00</td><td>0.13</td><td>建设用地</td><td></td><td>0.66</td><td>0.85</td><td>2.05</td><td>0.00</td><td>100.00</td><td>0.20</td></tr><tr><td>其他</td><td>0.32</td><td>0.19</td><td>0.08</td><td>0.00</td><td>0.00</td><td>93.70</td><td>其他</td><td></td><td>0.61</td><td>0.06</td><td>0.31</td><td>0.00</td><td>0.00</td><td>93.18</td></tr><tr><td>总计</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>总计</td><td></td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9799e879902146c52fed14a68b4edb5fc44c7d4972ede1bc6da0291d2a834ffd.jpg",
+        "img_caption": [
+            "图6大同矿区2015年和2025年土地利用分布格局Fig. 6 Distribution pattern of land use in Datong coal miningarea in 2015 and 2025"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2025年大同煤矿区林地、草地和耕地均呈下降态势，林地、草地和耕地面积分别下降了 $3 . 0 1 \\ \\mathrm { k m } ^ { 2 }$ ）$1 4 . 9 7 \\ \\mathrm { k m } ^ { 2 }$ 和 $1 2 . 7 \\ \\mathrm { k m } ^ { 2 }$ ,水域面积基本保持不变，建设用地与其他类型面积稳态上升，建设用地由2015年的 $1 3 0 . 7 5 \\ \\mathrm { k m } ^ { 2 }$ 增加到2025年的 $1 5 7 ~ \\mathrm { k m } ^ { 2 }$ ，增加了$2 6 . 2 6 \\mathrm { k m } ^ { 2 }$ ,其他类型面积预计增加 $4 4 . 1 2 \\mathrm { k m } ^ { 2 }$ ○",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文通过研究大同矿区不同阶段土地利用格局的时空变化，进一步探讨不同土地利用模型的模拟精度优势以及影响土地利用格局变化的主要驱动因素，并进行了预测分析，得到如下结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）大同矿区侏罗系煤层已基本全部开发利用，石炭-二叠系煤层开采范围主要在北部和南部，受采矿影响，1985—2015年大同矿区土地利用格局发生剧烈转变，主要表现为草地、建设用地以及其他类型增加，林地和耕地先增加后减少，以减少为主，水域面积基本被侵占。矿区土地利用变化是以资源开采为原动力的动态时空演变过程，采掘资源的同时造成对土地的破坏，从而改变了土地利用结构。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）矿区内不同土地利用类型的驱动因素不同。林地、草地主要受气候影响以及距水系和设施点的距离影响;耕地分布受到高程、气候及距水系、设施点、居民点的距离等多因素综合影响；水域最重要的驱动因素是降水。建设用地受到生产能力和距设施点的距离的影响。其他类型主要受距水系距离的影响。矿产资源开发是土地利用变化的主要驱动力，此外气候地形等自然因素也影响着土地利用变化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）RF-FLUS模型的应用，可以更加准确的预测未来土地利用格局。相比于FLUS模型中ANN模块出现过度拟合的现象，RF-FLUS模型能发挥随机森林算法精度高的优势，提高预测未来土地利用格局变化的能力，对预测小尺度区域的土地利用格局具有重要借鉴意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] 李胜鹏,柳建玲,林津,等.基于1980—2018年土地利用变化的 福建省生境质量时空演变[J].应用生态学报,2020,31(12): 4080-4O9O.[Li Shengpeng,Liu Jianling,Lin Jin,et al. Spatial and temporal evolution of habitat quality in Fujian Province, China based on the land use change from 198O to 2O18[J]. Chinese Journal of Applied Ecology,2020,31(12): 4080-4090.]   \n[2]刘纪远,张增祥,庄大方,等.20世纪90年代中国土地利用变化 时空特征及其成因分析[J].地理研究,2003,22(1):1-12.[Liu Jiyuan,Zhang Zengxiang,Zhuang Dafang,et al.A study on the spatial-temporal dynamic changes of land-use and driving forces analyses of China in the 199Os[J].Geographical Research,2003, 22(1): 1-12.]   \n[3] Veldkamp A,Lambin EF.Predicting land-use change[J].Agriculture,Ecosystems and Environment, 20o1,85(1): 1-6.   \n[4]李保杰,顾和和,纪亚洲.基于CLUE-S模型的矿区土地利用变 化情景模拟——以徐州市贾汪矿区为例[J].热带地理,2018, 38(2):274-281.[Li Baojie,Gu Hehe,Ji Yazhou. Simulation of land use change in coal mining area under different scenarios based on the CLUE-S model: A case study of jiawang mining area in Xuzhoucity[J].Tropical Geograph,2018,38(2): 274-81.]   \n[5]刘彦文,刘成武,何宗宜,等.基于地理加权回归模型的武汉城 市圈生态用地时空演变及影响因素[J].应用生态学报,2020, 31(3): 987-998.[Liu Yanwen, Liu Chengwu, He Zongyi, et al.Spatial-temporal evolution of ecological land and influence factors in Wuhan urban agglomeration based on geographically weighted regression model[J]. Chinese Journal of Applied Ecology,2020,31 (3): 987-998.]   \n[6]孙毅中,杨静,宋书颖,等.多层次矢量元胞自动机建模及土地 利用变化模拟[J].地理学报,2020,75(10): 2164-2179.[Sun Yizhong,Yang Jing, Song Shuying,et al. Modeling of multilevel vector cellular automata and its simulation of land use change[J]. Acta Geographica Sinica, 2020,75(10): 2164-2179.]   \n[7]徐红涛,陈春波,郑宏伟,等.基于相关分析和自适应遗传算法 的盐渍化建模变量和参数优选[J].地球信息科学学报,2020, 22(7):1497-1509.[Xu Hongtao,Chen Chunbo, Zheng Hongwei, et al. Correlation analysis and adaptive genetic algorithm based feature subset and model parameter optimization in salinization monitoring[J]. Journal of Geo-information Science,2O20,22(7): 1497-1509.]   \n[8]王梓洋,石培基,张学斌,等.基于多智能体模型的兰州市城镇 用地扩展模拟[[J].应用生态学报,2021,32(6):2169-2179.] [Wang Ziyang,Shi Peiji, Zhang Xuebin,et al. Simulation of Lanzhou urban land expansion based on multi-agent model[J]. Chinese Journal of Applied Ecology,2021,32(6): 2169-2179.]   \n[9]戴尔阜,马良.土地变化模型方法综述[J].地理科学进展,2018, 37(1):152-162.[Dai Erfu,Ma Liang.Review on land change modeling approaches[J].Progress in Geography,2018,37(1):152- 162.]   \n[10] 周成虎,欧阳,马廷,等.地理系统模拟的CA模型理论探讨[J]. 地理科学进展,2009,28(6): 833-838.[Zhou Chenghu,Ou Yang, Ma Ting, et al. Theoretical perspectives of CA-based geographical system modeling[J].Progressin Geography，2009,28(6):833- 838.]   \n[11] 黎夏,刘小平.基于案例推理的元胞自动机及大区域城市演变 模拟[J].地理学报,2007,75(10):1097-1109.[Li Xia,Liu Xiaoping. Case-based cellular automaton for simulating urban development in a large complex region[J]. Acta Geographica Sinica, 2007, 75(10): 1097-1109.]   \n[12]Wu FL. Calibration of stochastic cellular automata: The application to rural-urban land conversions[J]. International Journal of Geographical Information Science,2002,16(8): 795-818.   \n[13] 杨青生,黎夏.基于遗传算法自动获取CA模型的参数——以 东莞市城市发展模拟为例[J].地理研究,2007,26(2):229-237. [Yang Qingsheng,Li Xia. Calibrating urban cellular automata using genetic algorithms[J]. Geographical Research,2007,26(2): 229-237.]   \n[14] 张大川,刘小平,姚尧,等.基于随机森林CA的东莞市多类土 地利用变化模拟[J].地理与地理信息科学,2016,32(5):29-36. [Zhang Dachuan,Liu Xiaoping, Yao Yao,et al. Simulating spatiotemporal change of multiple land use types in Dongguan by using random forest based oncelular automata[J]. Geography and GeoInformation Science,2016,32(5): 29-36.]   \n[15] 马慧娟,高小红,谷晓天.随机森林方法支持的复杂地形区土地 利用/土地覆被分类研究[J].地球信息科学学报,2019,21(3): 359-371. [Ma Huijuan,Gao Xiaohong, Gu Xiaotian. Random forest classification of Landsat 8 imagery for the complex terrain area based on the combination of spectral, topographic and texture information[J]. Journal of GeoInformation Science,2019,21(3): 359- 371.]   \n[16] 陈凯,刘凯,柳林,等.基于随机森林的元胞自动机城市扩展模 拟——以佛山市为例[J].地理科学进展,2015,34(8):937-946. [Chen Kai,Liu Kai,Liu Lin,etal.Urban expansion simulation by random-forest-based cellular automata: A case study of Foshan City[J].Progress in Geography,2015,34(8): 937-946.]   \n[17]卞正富,张燕平.徐州煤矿区土地利用格局演变分析[J].地理学 报,2006,61(4): 349-358.[Bian Zhengfu, Zhang Yanping. Land use changes in Xuzhou coal mining area[J]. Acta Geographica Sinica,2006,61(4): 349-358.]   \n[18] 段语凤,张玉秀,余创.煤炭井工开采对干旱荒漠区植被动态变 化的影响[J].生态学报,2020,40(23):8717-8728.[Duan Yufeng, Zhang Yuxiu, Yu Chuang.Effcts of the underground coal mining on the dynamic changes of vegetation in arid desert area[J]. Acta Ecologica Sinica,2020,40(23): 8717-8728.]   \n[19] 史晓琼,杨泽元,张艳娜,等.陕北高强度采煤对生态环境影响 的研究进展[J].煤炭技术,2016,35(1):314-316.[Shi Xiaoqiong, Yang Zeyuan,Zhang Yanna,et al.Reviews of influence by high-intensity coal mining on ecological environment in Northern Shanxi [J].Coal Technology,2016,35(1): 314-316.]   \n[20] 邹雅婧,闫庆武,谭学玲,等.渭北矿区土壤侵蚀评估及驱动因 素分析[J].干旱区地理,2019,42(6):1387-1394.[Zou Yajing, Yan Qingwu,Tan Xueling,et al. Evaluation of soil erosion and driving factorsanalysis in Weibei miningarea[J].AridLandGeog raphy,2019, 42(6): 1387-1394.]   \n[21] Ye T T, Zhao N Z,Yang X C,et al. Improved population mapping for China using rely sensed and points-of-interest data within a random forests model[J]. Science of the Total Environment, 2019, 658: 936-946.   \n[22]Liu X P,Liang X,Li X,et al.A future land use simulation model (FLUS) for simulating multiple land use scenarios by coupling human and natural effcts[J].Landscape and Urban Planning, 2017, 168: 94-116.   \n[23]Li X,Anthony Gar-On Yeh.Neural-network-based celllar automata for simulating multiple land use changes using GIS[J]. International ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Journal of Geographical Information Science,2002,16(4):323-343. [24]张经度,梅志雄,吕佳慧,等.纳入空间自相关的FLUS模型在 土地利用变化多情景模拟中的应用[J].地球信息科学学报 2020,22(3):531-542.[Zhang Jingdu,Mei Zhixiong,Lyu Jiahui, et al.Simulating multiple land use scenarios based on the FLUS model considering spatial autocorrelation[J]. Journal of GeoInformation Science,2020,22(3): 531-542.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[25]秦琦瑞,李雪梅,陈庆伟,等.基于FLUS模型的天山山区未来 土地利用变化预估[J].干旱区研究,2019,36(5):1270-1279. [Qin Qirui,Li Xuemei, Chen Qingwei,et al.Estimation of future land use change in the Tianshan mountainous based on FLUS model[J].Arid Zone Research,2019,36(5): 1270-1279.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[26]孙鸿超,张正祥.吉林省松花江流域景观格局脆弱性变化及其 驱动力[J].干旱区研究,2019,36(4):1005-1041.[Sun Hongchao, Zhang Zhengxiang. Changes of landscape pattern vulnerability of Songhua River Basin in Jilin Province and its drivingforces[J].Arid Zone Research,2019,36(4): 1005-1041.]   \n[27]Mariana B,Lucian D.Random forest in remote sensing:A review of applications and future directions[J]. Journal of Photogrammetry and Remote Sensing,2016,114: 24-31.   \n[28]Hadi M,Siva KB,Jamal B T,et al.Validation of CA-Markov for simulation of land use and cover change in the Langat Basin,Malaysia[J]. Journal of Geographic Information System,2O12,4(6): 542-554. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Spatio-temporal evolution and prediction of land use in semi-arid mining areas ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LIU Chang’， ZHANG Hong²3， ZHANG Xiaoyu2³， YANG Guoting²，LIU Yong1,3 (1.InstituteofLoessPlateau,Shanxi University,Taiyuan O3oo06,Shanxi,China； 2.College of Environmentand Resource Sciences of Shanxi University,Taiyuan O3ooo6,Shanxi,China; 3.Shanxi Laboratory for Yellow River, Taiyuan 030006, Shanxi, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Land use and land cover change (LUCC) is a critical factor contributing to regional land planning and ecological environmental protection.LUCCs associated with human activities,such as coal mining，have increased the tension in human-environment interactions.This study explored the spatio-temporal LUCC and its driving factors from 1985 to 2015 in the Datong mining area,which is oneof the eight major coal production bases in China.Furthermore,the random forests (RF)-future land use simulation (FLUS) model was proposed to explicitly simulate the spatial trajectories of LUCCs for the year 2025.The results showed that (1) forestland, cropland,and watershed areas kept decreasing，while grasslands and construction lands kept increasing from 1985 to 2015.(2) Climate,elevation,and distance were the most influential factors for the distribution of croplands,forestlands,and graslands,while precipitation was the most important factor for the distribution of watersheds.Coal production capacity and distance from facilities were the most influential factors for the distribution of construction lands.(3) Both the FLUS andRF-FLUS models had a good fiting accuracy,whereas the RF-FLUS models had a satisfactory kappa index and OA index. (4) Land use simulations for the year 2025 based on the RF-FLUS model indicated that croplands，forestlands，and graslands will decrease，while construction lands will increase.This study provides a scientific reference for understanding the complex and dynamic evolution of LUCC，exploring the possibilities for the way of land resources，and promoting the sustainable development of coal mining areas. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: coal mining area; land use change； model prediction； random forest model; driving factors ",
+        "page_idx": 8
+    }
+]

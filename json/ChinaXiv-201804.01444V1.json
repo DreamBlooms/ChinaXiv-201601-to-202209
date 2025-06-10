@@ -1,0 +1,854 @@
+[
+    {
+        "type": "text",
+        "text": "基于KECA和FWA-SVM的间歇过程分时段故障诊断方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蔡振宇，张敏，包珊珊(西南交通大学 机械工程学院，成都 610031)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对间歇过程的高度复杂性、强非线性、强时段性等特点，提出一种基于核熵成分分析（KECA）特征变量降维，利用烟花算法（FWA）优化支持向量机（SVM）参数的间歇过程分时段故障诊断方法。首先，通过多向核主元分析（MKPCA）进行在线故障监测，输出故障数据；其次，利用K-means分类方法将间歇过程划分为若干个子时段，对故障数据进行KECA特征变量处理，按熵值贡献率来确定选取主元的个数，深层提取特征信息；最后，在各子时段内分别构建FWA优化SVM参数故障诊断模型，将降维处理后的故障数据代入各自所属子时段FWA-SVM诊断模型内进行故障诊断。通过对青霉素仿真实验数据进行各种对比实验研究，验证了该方法的可行性与有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：间歇过程；核熵成分分析；烟花算法；支持向量机；K-means；青霉素仿真中图分类号：TP277 doi:10.3969/j.issn.1001-3695.2017.12.0803",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Time division fault diagnosis method based on KECA and FWA - SVM for batch process ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cai Zhenyu, Zhang Min, Bao Shanshan (School ofMechanical Engineering,SouthwestJiaotong University,Chengdu 6loo31,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aimingat thehighcomplexitystrongnonlinearityandstrongtimecharacteristicsofintermitentproce,thispaper proposeda new method basedon kermel entropy component analysis (KECA)to reduce the dimensionalityof the KECA characteristic variables,andusedthe fireworks algorithm (FWA)to optimizethe supportvector machine (SVM) parameters for theintermitntprocssofdivisionfaultdagnosis mthod.irstlyitarriedoutulti-directioalkerelprcipalcopoent analysis (MKPCA)fortheon-linefault monitoringandoutputthefaultdata.Second,itusedK-means methodtodividthebatch process into several sub-periods.Itused KECAtoreduce characteristic variable dimensionalityaccording to thecontribution rate of ntropy todetermine the numberofselected elementsand extracted feature information in depth.Finally,constructed FWAoptimized SVMparameter fault diagnosis modelineach sub-period,putthereduceddimensionprocessed faultdata into their own sub-period FWA-SVM diagnostic model for fault diagnosis.Through a varietyofcomparative experimental study based on penicillin simulation data, verified the feasibility and effectiveness of this method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: batch process; KECA; fireworks algorithm; support vector machine; K-means; penicillin simulation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "间歇过程广泛存在于现代生产生活当中，如食品、材料、化工和制药等[1]，因此实现高效故障监测与故障诊断至关重要。间歇过程生产周期短、操作过程重复性高、系统内部动态特性变化快，难以构造准确的数学模型[2]。主元分析(principalcomponentanalysis,PCA)[3]进行监测建模是一种线性建模方法，对于非线性系统如生物发酵往往不能保证其监测效果。针对非线性过程监测的建模问题，Scholkopf等人[4将核函数理论应用到统计过程监控中，提出了核主元分析（kernelprincipalcomponentanalysis,KPCA）。但KPCA算法不能直接在特征空间内进行数据重构与建立统计量监控图，难以直接应用于间歇过程在线监控。为此Yoo等人[提出了基于KPCA的非线性监测方法并应用于间歇过程在线监控，研究表明KPCA算法比PCA算法监控性能更优。多时段性研究[多存在于间歇过程故障监测方面，但间歇过程故障诊断也存在很强的时段性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "间歇过程变量维度过高，将变量进行一定的降维处理能提高故障诊断的稳定性与高效性。PCA[7.8]是应用广泛的经典数据降维方法之一，但对于非线性数据利用线性映射存在一定的局限性。KPCA是PCA非线性的推广[9]，但数据处理与PCA类似，利用特征值大小来实现降维，降维效果存在一定的波动性。Jenssen[10]在 KPCA 的基础上提出核熵成分分析(kernel entropycomponentanalysis,KECA)算法用于数据降维。不同于KPCA与PCA 算法，KECA[1]是计算Renyi 熵来实现数据降维，在提取数据特征上表现出了其独特的优越性，比传统的PCA、KPCA更加稳定。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "支持向量机(supportvectormachine,SVM)[l2]运用于故障诊断方面越来越成熟，但SVM通过核参数将特征向量映射到高维特征空间实现分类，参数的确定影响整个分类效果。利用传统的遗传算法(genetic algorithm,GA)、粒子群算法(particleswarmoptimization,PSO)和交叉验证算法做SVM参数优化具有良好的效果，但是都存在一定缺陷。例如GA在计算过程中迭代收敛时间较长，PSO则易受局部粒子最优影响，出现\"早熟现象\"等。何青等人[13]用果蝇优化算法优化SVM参数，但测试集量少，大量数据下还需进一步验证。烟花算法(fireworkalgorithm,FWA)是Tan 等人[14]在2010 年提出的一种新型进化算法，具有很强的优化求解能力，并且能够在局部和全局搜索达到一个平衡效果，近年来逐渐受到研究者的关注。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于此，本文提出一种新型、应用于间歇过程故障诊断的方法。首先采用多向核主元分析(multiwaykernel principalcomponentanalysis,MKPCA)构建在线监测模型实现间歇过程故障监测，并输出故障数据；将间歇过程基于K-means方法划分为有限个子时段，标记故障数据所属子时段；通过KECA对故障数据进行变量降维，提取其有效信息；最后利用FWA优化SVM分类参数，在各子时段分别构建FWA-SVM诊断模型，将处理后的故障数据代入其对应的子时段模型内进行故障诊断。最后通过青霉素仿真实验数据进行仿真实验和各种对比实验研究验证了该方法的有效性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 MKPCA间歇过程在线故障监测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1数据预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "间歇过程数据 $X ( I { \\times } J { \\times } K )$ ，比连续过程数据多出一维批次元素， $I$ 表示批量数， $J$ 表示变量数， $K$ 表示采样点数。将三维数据 $X ( I { \\times } J { \\times } K )$ 沿批次方向展开得到 $X ( I { \\times } J K )$ ，每行是一个批次的所有数据，展开方式如图1所示。本文假设各个批次操作时间相同，在新构建的二维数据矩阵 $X ( I { \\times } J K )$ 中加入均值为零、方差为0.01的白噪声矩阵，去除噪声干扰，最后对合成的二维数据矩阵进行按列标准化处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/189731816b423496f122ae334277e99ce92db0fbec61a7fe3776bad2edbe80dd.jpg",
+        "img_caption": [
+            "图1MKPCA数据矩阵分解"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2在线故障监测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三维数据集 $X ( I { \\times } J { \\times } K )$ 按上述沿批次展开后得到二维数据集 $X ( I { \\times } J K )$ ，再代入MKPCA模型内进行在线故障监测。首先利用正常工况下二维数据 $X ( I { \\times } J K )$ 进行离线分析计算统计量Hotelling $\\mathrm { T } ^ { 2 }$ 和平方预测误差(squared prediction error,SPE)的控制限，再进行在线监测。 $\\mathrm { T } ^ { 2 }$ 统计量通过表征模型内部变化来反映多变量变化情况，定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { T } ^ { 2 } = \\boldsymbol { t } _ { i } \\lambda ^ { - 1 } \\boldsymbol { t } _ { i } ^ { T } = \\boldsymbol { x } _ { i } p \\lambda ^ { - 1 } \\boldsymbol { x } _ { i } ^ { T } p ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { T } ^ { 2 }$ 统计量的控制限可利用F分布计算获得，如式（2）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { l i m } } ^ { 2 } = \\frac { p ( n - 1 ) } { n ( n - p ) } F ( p , n - p )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $n$ 为样本数目； $p$ 为主元个数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "平方预测误差SPE又可称为Q统计量法，表示 $k$ 时刻的监测值对模型的偏离程度，是衡量模型外部数据变化的测度，定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS P E = \\parallel \\phi ( x ) - \\phi _ { p } ( x ) \\parallel ^ { 2 } = \\sum _ { i = 1 } ^ { n } t _ { i } ^ { 2 } - \\sum _ { i = 1 } ^ { p } t _ { i } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SPE统计量在置信区间下的控制限通过正态分布确定：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS P E _ { \\mathrm { l i m } } = \\theta _ { 1 } [ \\frac { h _ { 0 } c _ { a } \\sqrt { 2 \\theta _ { 2 } } } { \\theta _ { 1 } } + \\frac { \\theta _ { 2 } h _ { 0 } ( h _ { 0 } + 1 ) } { { \\theta _ { 1 } } ^ { 2 } } + 1 ] ^ { 1 / h _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { i } = \\sum _ { j = a + 1 } ^ { n } \\sigma _ { j } ^ { 2 i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { 0 } = 1 - \\frac { 2 \\theta _ { 1 } \\theta _ { 3 } } { 3 \\theta _ { 2 } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $c _ { a }$ 为与正态分布 $( 1 - \\alpha )$ 分位点对应的标准差； $\\alpha$ 为给定的显著水平。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当在线故障监测时，由于进行在线监测时所得数据只有从开始到监测时刻点的数据，但监测时需要整个批次数据，所以本文利用当前值对监测数据进行填充以满足整体批次数据，再计算监测数据采样点的统计量指标 $\\mathrm { T } ^ { 2 }$ 和 SPE，与其相对应的控制限进行比较。当监测数据连续超过任一控制限大于等于3个采样时刻时，则判断当前有故障发生。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 间歇过程的分时段故障诊断",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1K-means 聚类算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "间歇过程很少有论文进行分时段故障诊断研究，因此分时段故障诊断为本文一重点研究。间歇过程数据经过二维展开后，由于存在时段性，代入K-means 算法内进行时段划分。K-means算法的原理是先随机产生 $L$ 个初始位置点作为 $L$ 个簇的初始中心点，将邻近的点分到最近的簇，然后计算各个簇的质心，重新确定新的质心。如此不断地进行迭代，直到质心的移动范围满足所需要求或者迭代要求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设初始聚类中心 ${ \\cal Z } = \\{ z _ { 1 } , z _ { 2 } , . . . z _ { L } \\}$ 及聚类数据$X = \\{ x _ { 1 } , x _ { 2 } , . . . x _ { n } \\}$ ，则 $\\mathrm { \\Delta K }$ -means算法具体操作步骤分为以下5步：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）从 $n$ 个数据中随机选取 $L$ 个对象作为初始聚类中心。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）计算每个数据对象 $x _ { i } \\in X$ 到 $L$ 个聚类对象$z _ { j } ( j = 1 , 2 , . . . L )$ 的距离，本文采用马氏距离。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)聚类完成后重新计算该聚类中距离每一个点的最近的中心点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)若与上一次计算出的聚类中心相同，说明聚类结果成立，则转到e)；若与上一次计算出来的聚类中心不同，说明聚类还未完成，则转到b）重新进行计算。若满足迭代要求，则转到e）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e）结束并输出聚类结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2故障特征提取与降维处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当在线监测判断当前批次数据有故障发生时，由于间歇过程是复杂生产过程，往往会使故障变量随后传递，掩盖后面变量信息，所以只提取发生故障之后的若干采样点作为故障数据，使获得的故障数据更具有代表性，提高故障诊断率。间歇过程数据具有非线性和变量维数较高的特性，本文采用KECA算法对故障数据进行特征降维，提取有效信息，从而实现高效故障诊断。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "KECA是一种不同于传统\"谱方法\"的非线性降维算法，能够将数据降维前后的Renyi熵损失最小化。设某一概率系统中有 $n$ 个事件或数据集 $( X _ { 1 } , X _ { 2 } , . . . X _ { n } )$ ，第 $i$ 个事件 $X _ { i }$ 产生的概率为 $P _ { i } ( i = 1 , 2 . . . n )$ ，则其数据的Renyi熵指标可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( p ) = - \\mathrm { l g } \\int p ^ { 2 } ( x ) d x\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对数函数是单调函数，因此可以只对积分一部分进行单独定义：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( p ) = \\int p ^ { 2 } ( x ) d x\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "需要对 $V ( p )$ 进行估计计算，才可以求出Renyi熵。文中引入Parzen 概率密度算子[15]，根据高斯函数卷积理论并结合函数的单调性，化简得到",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { V } ( p ) = \\frac { 1 } { n ^ { 2 } } \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { n } K _ { \\sqrt { 2 } \\sigma } ( x _ { i } , x _ { j } ) = \\frac { 1 } { n ^ { 2 } } I ^ { T } K I\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { i , j } = K _ { \\sqrt { 2 } \\sigma } ( x _ { i } , x _ { j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $I$ 为每个元素均为1的 $N$ 维向量； $K$ 为样本核矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过式(11)实现了Renyi 熵的核矩阵表达，对核矩阵进行分解，表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK = E D _ { \\lambda } E ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $D _ { \\lambda }$ 为特征值 $\\lambda _ { 1 } , \\ldots \\lambda _ { n }$ 组成的对角矩阵； $E$ 为对应的特征向量 $e _ { 1 } , . . . e _ { n }$ 组成的矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，式（9）进一步可表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { V } ( p ) = \\frac { 1 } { n ^ { 2 } } ( \\sum _ { i = 1 } ^ { n } \\sqrt { \\lambda _ { i } } e _ { i } ^ { T } I ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（12）表明每个 $K$ 的特征值和特征向量对熵值的估计都有自己的贡献，但贡献大小并不一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3多分类支持向量机",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "支持向量机实现多故障诊断时是通过构造多个二分类器组合实现多分类功能，并利用核函数来实现线性不可分向线性可分的转换。研究表明径向基核函数在SVM中表现出良好的泛化能力，其形式如式(13)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK ( y _ { i } , z _ { j } ) = \\exp ( - \\frac { \\left| y _ { i } - z _ { j } \\right| ^ { 2 } } { \\sigma ^ { 2 } } ) = \\exp ( - \\gamma \\left| y _ { i } - z _ { j } \\right| ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将输入向量从原来的空间映射到高维特征空间 $\\mathrm { ~ H ~ }$ ，并在该特征空间 $\\mathrm { ~ H ~ }$ 内建立优化超平面。分类线方程[16如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega \\cdot x + b = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i } [ \\omega \\cdot x _ { i } + b ] \\geq 1 \\qquad i = 1 , 2 , \\ldots l\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\omega$ 为权值； $x$ 为输入向量； $b$ 为阈值； $l$ 为向量的个数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据Karush—Kuhn—Tucker，优化各个系数得到最优分类函数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x ) = \\mathrm { s g n } ( \\sum _ { i = 1 } ^ { i } y _ { i } a _ { i } \\sigma ( x , x _ { i } ) + b )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "适应度函数则为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( \\sigma ^ { 2 } , C ) = \\frac { 1 } { R ( \\sigma ^ { 2 } , C ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（17）可知，进行SVM分类模型构建时，性能的关键因素在于惩罚参数 $c$ 和核函数 $\\sigma$ 的选取，本文通过选用烟花算法对这两类参数进行寻优。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4新型群体智能算法一烟花算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "烟花算法是将每个烟花都当做一个解空间中的可行解，通过爆炸产生不同的烟花点作为在可行域内进行全局搜索的可行解。通过每个烟花的适应度值来确定爆炸半径和爆炸数。适应度值越小的点，爆炸范围越小，爆炸数越多，适应度值大的则相反。烟花算法核心包括爆炸算子、变异操作、映射规则、选择策略四部分[17]。FWA寻优收敛具体步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）在解空间内随机初始 $N$ 个位 $x _ { i }$ ，有 $N$ 个烟花;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）计算每个烟花的适应度值，与它们的爆炸半径 $R a d _ { i }$ 和爆炸火花个数 $S S _ { i }$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR a d _ { _ i } = R C \\times \\frac { f \\left( x _ { i } \\right) - y _ { \\operatorname* { m i n } } + \\varepsilon } { \\displaystyle \\sum _ { i = 1 } ^ { N } \\left( f \\left( x _ { i } \\right) - y _ { \\operatorname* { m i n } } \\right) + \\varepsilon }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS S _ { i } = H \\times \\frac { y _ { \\operatorname* { m a x } } - f \\left( x _ { i } \\right) + \\varepsilon } { \\displaystyle \\sum _ { i = 1 } ^ { N } \\left( y _ { \\operatorname* { m a x } } - f \\left( x _ { i } \\right) \\right) + \\varepsilon }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $y _ { \\operatorname* { m i n } } = \\operatorname* { m i n } ( f ( x _ { i } ) ) { \\big ( } i = 1 , 2 , . . . N { \\big ) }$ 是当前迭代中的最优值，也为最小值；而式 $y _ { \\mathrm { m a x } } = \\operatorname* { m a x } ( f ( x _ { i } ) ) { \\big ( } i = 1 , 2 , . . . N { \\big ) }$ 为当前迭代中的最劣值，也为最大值；RC和 $\\mathrm { ~ H ~ }$ 分别表示用来调整爆炸半径的大小和爆炸火花数的大小； $\\varepsilon$ 表示机器最小量，避免出现零操作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了避免爆炸火花优或劣的适应度值产生过多或过少，文献[14]对火花个数作出如下的限制：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { i } = \\left\\{ \\begin{array} { l } { r o u n d ( a ^ { * } H ) , S _ { i } < a H } \\\\ { r o u n d ( b ^ { * } H ) , S _ { i } > b H , a < b < 1 } \\\\ { r o u n d ( S _ { i } ) , \\qquad \\quad \\sharp \\sharp \\underline { { \\ : \\ : / } } { } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c）产生爆炸火花，集合DC具有 $z$ 个维度，$\\boldsymbol { z } = r o u n d ( \\boldsymbol { D } \\times r a n d ( 0 , 1 ) )$ ，在DC中的每个维度 $k$ 下进行爆炸操作后，再经过越界处理将 $e x _ { i k }$ 保存到火花种群中。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh = R a d _ { i } \\times r a n d ( - 1 , 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne x _ { i k } = x _ { i k } + h\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $h$ 为偏移量； $x _ { i k }$ 为第 $i$ 个烟花的第 $k$ 维； $e x _ { i k }$ 为 $x _ { i k }$ 爆炸操作后的火花。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d）进行高斯变异操作，每个维度通过式（23）进行高斯变异后，再经过越界处理保存到高斯种群当中。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm x _ { i k } = x _ { i k } \\times e\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e）选择操作，在所有得到的种群中挑选最好的一个，另外N-1个则进行轮盘赌法进行选择。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( x _ { i } ) { = } \\frac { R ( x _ { i } ) } { \\displaystyle \\sum _ { x _ { j } \\in K } R ( x _ { i } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( x _ { i } ) = \\sum _ { x _ { j } \\in K } d ( x _ { i } - x _ { j } ) = \\sum _ { x _ { j } \\in K } \\| x _ { i } - x _ { j } \\|\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "f）判断是否满足终止迭代条件，若满足输出最优目标值， 不满足就继续迭代。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5基于FWA-SVM故障诊断模型构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用烟花算法对SVM的参数进行寻优，其步骤如下所示：a)设定SVM参数范围。确定式（17）的两个参数所选的范围。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)烟花种群初始化。设定烟花种群个数、子代数、高斯算子、最大迭代数等参数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)故障数据KECA降维。将每个子时段故障数据进行KECA处理，按照熵值大小获得主元结构实现数据降维，以便于代入故障诊断模型内进行高效诊断。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)FWA-SVM模型训练。将处理后的故障数据代入各自的子时段FWA-SVM模型内进行训练。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e)输出最优参数。当迭代次数满足终止迭代条件后各子时 段模型输出最优参数构建最优诊断模型。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于FWA-SVM故障诊断模型构造流程如图2所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6基于KECA和FWA-SVM的间歇过程分时段故障诊断 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出的间歇过程分时段故障诊断分为离线各分类器的构建和在线故障诊断。其中离线分类器计算步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)将间歇过程划分各时段，通过K-means划分算法划分为若干个子时段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)收集各子时段所有故障的M个批次数据，定义故障类别后再进行数据预处理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)在预处理后的数据中提取发生故障时刻之后若干个采样点数据作为训练集数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)得到的训练集数据进行KECA处理，按照熵值信息大小",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选择主元结构进行降维。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e)将各时段的训练集数据代入所属子时段FWA-SVM诊断模型内进行训练，构建最优诊断模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "进一步实现间歇过程的在线故障诊断，其步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)通过正常工况下的若干批次构造MKPCA监测模型，计算T2和SPE统计量 $9 9 \\%$ 的控制限。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)将采样点利用当前值进行填充，对完整批次数据做数据预处理后计算两个统计量T2和SPE，监测判断采样点是否连续三次超过各自的控制限，若超出则有故障，否则正常。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)提取故障发生时刻后若干个点采样时刻的故障数据，进行KECA降维处理后再送入训练好的FWA-SVM诊断模型内进行故障诊断。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2832e2e79e109cf321904010810f3fa1b1131c6f3eff2b27f948341c248ad85.jpg",
+        "img_caption": [
+            "图2FWA-SVM故障诊断模型构造流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验仿真",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "青霉素发酵过程是一种典型的间歇过程，本文采用青霉素生产仿真软件Pensim2.0[18]生成实验数据。为实现准确的在线故障监测，利用Pensim模型模拟发酵时间为 $4 0 0 \\mathrm { ~ h ~ }$ 、采样间隔为 $0 . 5 \\mathrm { h }$ 的140批次正常数据，青霉素仿真数据共有18维变量数据。监测时为简便而高效只选取通风率、搅拌器功率等10 个影响青霉素发酵过程的变量，避免过程变量过多，使监测效果不明显。选取变量如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "间歇过程具有时段特性，将初始三维数据矩阵 $X ( I { \\times } J { \\times } K )$ 按采样点展开为二维矩阵数据 $X ( I J { \\times } K )$ ，并对其进行标准化处理，利用K-means划分算法划分间歇过程，参考青霉素发酵过程中各个变量的轨迹图[19]选取K-means参数 $k$ 为4，实验若干次后选取端点出现频率最高的作为时段分隔点，阶段划分结果为$0 { \\sim } 4 9 \\mathrm { h }$ ， $4 9 \\mathrm { \\sim } 1 2 0 \\mathrm { h }$ 、 $1 2 0 { \\sim } 2 5 5 \\mathrm { h }$ 、 $2 5 5 { \\sim } 4 0 0 \\mathrm { h }$ 。利用Pensim模型模拟发酵时间为 $4 0 0 \\mathrm { ~ h ~ }$ 、采样间隔为 $0 . 5 \\mathrm { ~ h ~ }$ ，并且在每个子时段都生成故障1、2、3各15组共180批次的故障数据，如表2所示。故障1、2、3依次为通风率故障、搅拌功率故障和底物流加速率故障。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa549ee961b649b404cbb415fc650250f20a8db8f747589ccded63784d44c6f1.jpg",
+        "table_caption": [
+            "表1在线监测建模所选变量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数属性</td><td>变量</td><td>单位</td><td>取值范围</td></tr><tr><td rowspan=\"5\">初始条件 设置</td><td>底物浓度</td><td>G/L</td><td>14-18</td></tr><tr><td>溶解氧浓度</td><td>G/L</td><td>1-1.2</td></tr><tr><td>二氧化碳浓度</td><td>G/L</td><td>0.5-1</td></tr><tr><td>pH值</td><td></td><td>4.5-5.5</td></tr><tr><td>温度</td><td>K</td><td>295-301</td></tr><tr><td rowspan=\"5\">控制参数 设置</td><td>通风率</td><td>L/H</td><td>8-9</td></tr><tr><td>搅拌功率</td><td>W</td><td>29-31</td></tr><tr><td>底物流加速率</td><td>L/H</td><td>0.039-0.045</td></tr><tr><td>底物流温度</td><td>K</td><td>295-296</td></tr><tr><td>反应器温度</td><td>K</td><td>297-298</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc9ff8abd14d3c12e356488b3e48a41d978b9a52df1d4f96e80a7c1136c4e8a5.jpg",
+        "table_caption": [
+            "表23类不同故障的所属时段与组数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时段/h</td><td>故障1</td><td>故障2</td><td>故障3</td></tr><tr><td>0-49</td><td>15组</td><td>15组</td><td>15组</td></tr><tr><td>49-120</td><td>15组</td><td>15组</td><td>15组</td></tr><tr><td>120-255</td><td>15组</td><td>15组</td><td>15组</td></tr><tr><td>255-400</td><td>15组</td><td>15组</td><td>15组</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1在线监测仿真",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "先将140组正常工况批次的三维数据进行数据预处理，包括沿批次展开、添加噪声信号和进行数据标准化；再取前40组正常批次数据计算 $\\mathrm { T } ^ { 2 }$ 和 SPE统计量的 $9 9 \\%$ 的控制限。为研究MKPCA运用在本论文中的监测效果，取后100组正常批次数据用来研究报错率。另外，将所有故障数据进行正常批次相同的数据预处理，包括选取10个相关变量、添加白噪声等处理。进行在线监测时，由于需要一个整体批次信息才能实现监测，而在线监测时只有从开始到当前监测采样的数据信息，本文采用当前值填充监测数据以满足整体批次数据要求实现监测。在线监测实验结果分别为监测报错率 $5 \\%$ 、监测诊断率 $9 7 . 7 8 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从检测的诊断效果和报错率上可以说明MKPCA在间歇过程上进行监测效果较好。虽然报错率 $5 \\%$ 相对较高，但对比于诊断率 $9 7 . 7 8 \\%$ 来说还是相当可观，因为对于大多数间歇过程，达到诊断率更高的实用效果更好。因此MKPCA在一定程度上还是可以准确地进行在线故障监测，准确监测故障并输出故障数据集及其各所属子时段，为接下来的故障诊断做好充足、准确的数据准备。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2故障诊断仿真实验研究",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为提高监测效率，只提取监测数据一部分相关变量，但对于故障诊断，变量数据大多都有相关性。因此监测出某批次连续三次超出任一控制限的故障数据后取连续20个采样点，还原该采样点所有变量和其各所属时段信息。本文采用的青霉素仿真实验数据过程变量有18维变量，去除第一维采样点数变量后，对剩下的17维进行数据分析与故障诊断。利用各时段已知三类故障作为训练集训练诊断模型，对监测出故障的数据集进行故障诊断。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1数据降维研究对比",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "故障诊断时需要对故障数据集做数据预处理，本文为研究KECA数据降维对间歇过程故障诊断的有效性，对已知故障数据集和监测输出的故障集不进行数据降维处理、KPCA降维处理和PCA降维处理与进行KECA降维处理进行对比实验。为单独研究KECA数据降维效果，不添加其他方面因素影响处理效果，本文利用寻优效果良好的遗传算法优化SVM参数构造的模型进行验证对比，数据采用子时段 $2 5 5 { \\sim } 4 0 0 \\mathrm { ~ h ~ }$ 故障数据，结果是重复5次的平均值，如图3和表3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/015a8d9fa41ad8bd5e74f6e157b20aa4edf6b17a2bba15479222e90273aa94e7.jpg",
+        "img_caption": [
+            "图3数据处理方法对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图3可以看出，当两者数据处理方法都降至10个维度时正确率最高，此时KPCA、PCA贡献率分别为 $9 7 \\%$ 、 $90 \\%$ ，而KECA则超过了 $9 9 \\%$ 的熵值信息。从表3中可以看出，无论是训练集正确率还是测试集正确率，KECA方法都明显高于KPCA与PCA方法。不进行数据降维的诊断效果远弱于前三者，即使训练集正确率很高，但正确率低，在训练时出现过拟合现象，导致测试效果差。因此将数据作正确的处理对诊断结果来说很有必要，可以实现故障的高效诊断。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f3e99fcf3b5663aa1a81d2b9cbfc58f8ef910ef8a3f421cd60ef0a23c6f7461.jpg",
+        "table_caption": [
+            "表3三种数据处理方法对比研究"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>降至维数</td><td>训练集正确率</td><td>正确率</td></tr><tr><td>无</td><td>17</td><td>98.5%</td><td>78.833%</td></tr><tr><td>PCA</td><td>10</td><td>90.333%</td><td>86.655%</td></tr><tr><td>KPCA</td><td>10</td><td>92.667%</td><td>89.333%</td></tr><tr><td>KECA</td><td>10</td><td>97.667%</td><td>94%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2优化算法研究对比",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将各子时段已知故障数据进行KECA数据降维后，生成各子时段的训练集训练模型。构造基于PSO优化SVM模型、GA优化SVM模型和交叉验证算法优化SVM模型，与本文提出的基于烟花算法优化SVM模型进行对比，分别记为PSO-SVM、GA-SVM、CV-SVM、FWA-SVM.各算法初始参数如表4所示。利用时段 $2 5 5 { \\sim } 4 0 0 \\mathrm { h }$ 故障数据进行故障诊断，结果如表5所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表5可以看出，烟花算法优化SVM模型时间上远远优于GA和PSO，略快于交叉验证算法，主要在于算法本身构造上的不同：烟花算法通过分布式信息共享，根据分布在不同区域烟花的适应度值决定爆炸强度大小和辐射范围；PSO是单项流动，搜索迭代过程是跟随当代最优解；GA通过选择、交叉、变异等操作，一代一代寻找最优；CV则是按照网络划分进行层层搜索。再看FWA-SVM模型正确率远远优越于PSO，略高于GA和CV，从寻优效果来说是最好的，验证了该方法的有效性。综上，从迭代收敛时间和寻优正确率来看，利用烟花算法优化SVM参数应用于间歇过程来说是最适合，效果最佳。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e8df005dc5066e76207f11b2586ec6d9a8e20d8bff6be5859a8db10721b2ebe5.jpg",
+        "table_caption": [
+            "表4各算法初始参数设定表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>参数</td><td>对应值或区间</td></tr><tr><td rowspan=\"5\">PSO</td><td>粒子种群大小</td><td>20</td></tr><tr><td>最大迭代数</td><td>400</td></tr><tr><td>惯性权重</td><td>[0.3,0.9]</td></tr><tr><td>学习因子1、2</td><td>1.2、1.5</td></tr><tr><td>种群数大小</td><td>20</td></tr><tr><td rowspan=\"3\">GA</td><td>最大迭代数</td><td>400</td></tr><tr><td>交叉概率</td><td>0.4</td></tr><tr><td>变异概率</td><td>0.01</td></tr><tr><td rowspan=\"6\">CV</td><td>V参数大小</td><td>3</td></tr><tr><td>c参数范围</td><td>[2-4,27]</td></tr><tr><td>g参数范围</td><td>[2-6,210]</td></tr><tr><td>c 步进大小</td><td>1</td></tr><tr><td>g步进大小</td><td>1</td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"5\">FWA</td><td>烟花种群大小</td><td>20</td></tr><tr><td>最大迭代数</td><td>400</td></tr><tr><td>爆炸半径幅度</td><td>40</td></tr><tr><td>爆炸火花数范围</td><td>[1,40]</td></tr><tr><td>高斯变异火花数</td><td>5</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/132f9169b06634b45b0c9e55424cccec7d3837157309c1bbfcd5f892cae9ba11.jpg",
+        "table_caption": [
+            "表5四种模型分类结果对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型</td><td>迭代时间</td><td>正确率</td></tr><tr><td>PSO-SVM模型</td><td>117.56s</td><td>86.25%</td></tr><tr><td>GA-SVM模型</td><td>87.725s</td><td>94.26%</td></tr><tr><td>CV-SVM模型</td><td>15.21s</td><td>94.33%</td></tr><tr><td>FWA-SVM模型</td><td>13.36s</td><td>95%</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.3分时段与整体时段研究对比",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "间歇过程存在时段性，同一故障不同的时段会表现出不同的特征状态。本文通过K-means划分算法将青霉素发酵过程合理整合成四个子时段，分别为 $0 { \\sim } 4 9 \\mathrm { ~ h ~ }$ 、 $4 9 { \\sim } 1 2 0 \\mathrm { ~ h ~ }$ 、 $1 2 0 { \\sim } 2 5 5 \\mathrm { ~ h ~ }$ ，$2 5 5 { \\sim } 4 0 0 \\mathrm { ~ h ~ }$ ，每个子时段都利用FWA-SVM模型进行故障诊断。作为对比的整体时段 $0 { \\sim } 4 0 0 \\mathrm { ~ h ~ }$ 构建一个FWA-SVM模型。将监测出故障的数据进行数据处理后诊断故障，结果对比如表6和图4、5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/638958829639bc7f5e0cfa942aa409066ca600b0aab56873d989da6bf542e9e7.jpg",
+        "table_caption": [
+            "表6阶段效果对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时段</td><td>5次平均诊断率</td><td>平均诊断率</td></tr><tr><td>0-49h</td><td>97.33%</td><td rowspan=\"3\">93.99%</td></tr><tr><td>49-120h</td><td>91.33%</td></tr><tr><td>120-255h</td><td>92.33%</td></tr><tr><td>255-400h</td><td>95%</td><td></td></tr><tr><td>0-400h</td><td>88.75%</td><td>88.75%</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分时段进行故障诊断的平均诊断率是 $9 3 . 9 9 \\%$ ，比整体诊断率高 $5 \\%$ 左右，并且所有时段诊断率都高于整体诊断率，这充分说明了间歇过程的时段性。因此，在进行间歇过程的故障诊断时应该先从阶段性分析，将过程合理分为若干个子时段，再进行故障诊断，提高诊断效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/95f2825e5a98afc6f1fd155b415c88176a6dcada770b54b04a1ebd3ecc4194aa.jpg",
+        "img_caption": [
+            "图4 $0 { \\sim } 4 0 0 \\mathrm { h }$ 分时段故障诊断"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8882961f7bea663ff13a5bac54e20223956ec59af1354bc7fbcf364a0ad0e92.jpg",
+        "img_caption": [
+            "图5 $0 { \\sim } 4 0 0 \\mathrm { h }$ 整体故障诊断"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.4与文献研究对比",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为说明本文提出的算法运用在间歇过程中的实效性，本文按照文献[20]提取数据方法取发生故障后的10个连续数据作为测试数据，在时段 $2 9 7 { \\sim } 4 0 0 \\mathrm { ~ h ~ }$ 后每类故障增加5批次，以满足在49\\~400三个时段内每类故障都有50批次，并且故障幅度都在 $[ - 5 \\% ; 1 0 \\% ]$ 之间。对故障1、2、3在起始时间 $5 0 { \\sim } 3 8 0 \\mathrm { ~ h ~ }$ 内按照本文方法和文献方法进行诊断来研究对比。结果如表7所示，数据结果为实验10次的平均值。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7315df7fa960e05dd4c66e95da2bb0fbe4ca7769f9bc696d609b696e785da255.jpg",
+        "table_caption": [
+            "表7两种方法对故障诊断研究对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>故障类型</td><td>文献[18]识别率</td><td>本文识别率</td></tr><tr><td>故障1</td><td>100%</td><td>99.55%</td></tr><tr><td>故障2</td><td>94%</td><td>94.33%</td></tr><tr><td>故障3</td><td>92%</td><td>96.44%</td></tr><tr><td>总体</td><td>95.33%</td><td>96.77%</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与文献[20]对比，在故障3识别效率有明显的改进，故障2略高，故障1诊断率略差 $0 . 4 5 \\%$ ，但对于总体识别效率具有较大改进。从两者故障数据选择上，本文选择将所有间歇过程变量都选入，并作KECA降维处理，很大程度上保证了故障数据的完整性，也能提高诊断效率；两者故障诊断模型构造也不一样，本文选择用FWA优化SVM参数，可很大程度上进行模型优化，使故障诊断率更高，而文献[20]采用LSSVM诊断模型，选择核函数时参数并未优化，因此效果不佳；另外本文提出进行分时段故障诊断，在不同时段内构造诊断模型可以很大程度上提高诊断效率。综上，本文提出的基于KECA特征提取与FWA-SVM模式识别间歇过程分时段故障诊断方法相比文献[20]有较好的改进，验证了该方法的可行性与有效性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文通过对间歇故障研究，利用MKPCA监测间歇过程，将监测出故障采样点的数据集进行KECA数据降维，通过K-means 对间歇过程划分若干个子时段，在每个子时段内构建FWA-SVM诊断模型，再将经过KECA处理后的数据集代入各自模型内进行故障诊断。利用青霉素间歇过程实验仿真数据进行实验仿真，表明KECA数据降维能对间歇过程数据实现很好的数据处理；新型的烟花算法在优化SVM参数时比GA、PSO和CV迭代收敛速度快、识别率更高；同时讨论了间歇过程时段性强，采用分时段研究能够更好的实现各故障的诊断。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Zhang C,Li Y, Study on the fault-detection method in batch process based on statistical patern analysis [J]. Chinese Journal of Scientific Instrument, 2013,34 (9): 2013-2110.   \n[2]Kerkhof P V D,Gins G,Vanlaer J,et al. Dynamic model-based fault diagnosis for (bio） chemical batch process [J]. Computers & Chemical Engineering,2012,40 (10): 12-21   \n[3] 张珂，宋文丽，石怀涛．基于改进核主元分析的故障检测方法研究[J]. 控制工程,2017,24(2): 418-424.   \n[4]Scholkopf B,Smola A,Mullr K.Nonlinear component analysis as kernel eigenvalue problem [J].Neural Computation,1998,10 (5):1299-1399.   \n[5]Yoo C K, Vilez K,LeeIB,et al. Multivariate nonlinear statistical process control of a sequencing batch reactor [J]. Journal of Chemical Engineering of Japan,2006,39 (1): 43-51.   \n[6] 李元，马雨含，郭金玉．基于动态多向局部离群因子的在线故障检测 [J].计算机应用研究,2017,34(11):3259-3261,3266.   \n[7]彭秀艳，柴艳有，满新江．基于PCA-KFCM的船舶柴油机故障诊断[J]. 控制工程,2012,19(2):311-315.   \n[8] 郭金玉，赵璐璐，李元．基于统计特征的不等长间歇过程故障诊断研究 [J].计算机应用研究,2014,31(1):128-130.   \n[9]郭飞，王成．基于LMP和KPCA的人脸识别[J].计算机工程,2010,36 (24): 183-186.   \n[10] Jenssen R.Kernel entropy component analysis [J].IEEE Trans on Pattern Analysis and Machine Intelligence,2010,32(5): 847-860.   \n[11]解亚萍，赵鹏，党伟明．基于KMC-KECA的间歇发酵过程的故障诊断 [J]．石油化工自动化,2016,52(6):21-26.   \n[12]高学金，薛攀娜，齐咏生，等．基于子时段 MPCA-SVM 的间歇过程在 线故障诊[J].计算机与应用化学,2016,33(4):465-471.   \n[13]何青，褚东亮，毛新华，等．基于 EEMD和 MFFOA-SVM滚动轴承故 障诊断[J]．中国机械工程,2016,27(9):1191-1197.   \n[14] Tan Ying, Zhu Yuanchun.Fireworks algorithm for optimization [C]// Proc of International Conference on Swarm Intelligence.2010: 355-364.   \n[15]JenssenR，Eltoft T,Girolamil M. Kernel maximum entropy data transformation and an enhanced spectral clustering algorithm [C]// Advances in Neural Information Processing Systems.2007: 633-640.   \n[16] 于世飞，齐丙娟，谭红艳，等．支持向量机理论与算法研究综述[J]. 电子科技大学学报,2011,40(1):2-10.   \n[17]谭营，郑少秋．烟花算法研究进展[J].智能系统学报,2014,9(5):515- 528.   \n[18] Zhang Y, Zhang Y. Complex process monitoring using modified partial least squares method of independent component regression [J]. Chemometrics & Intelligent Laboratory Systems,2009,98 (2): 143-148. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[19] Yu J.Multiway Gaussian mixture model based adaptive kernel partial least squares regression method for soft sensor estimation and reliable quality prediction of nonlinear multiphase batch processes [J].Industrial & ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Engineering Chemistry Research,2012,51 (40):13227-13237. [20]郑皓，熊伟丽，徐保国，等．一种基于LSSVM的间歇过程在线故障诊 断方法[J].计算机与应用化学,2017,34(1):30-34. ",
+        "page_idx": 7
+    }
+]

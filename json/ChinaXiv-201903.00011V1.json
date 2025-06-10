@@ -1,0 +1,525 @@
+[
+    {
+        "type": "text",
+        "text": "一种ICPT系统松耦合线圈最佳径距比的设计方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李政泰’王春芳」　魏芝浩} 李聃²（1.青岛大学自动化与电气工程学院青岛2660712.青岛鲁渝能源科技有限公司青岛266071）",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/bacdb5ab7d3918347e9e4252cbc20c715b1c49bfa49f8bb88e1a0a69c35aeb0d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李政泰男 1992年生，硕士，主要从事电力技术应用方面的研究工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：传统的感应耦合电能传输（ICPT）系统中，松耦合变压器接收线圈Rx的半径与发射线圈Tx到接收线圈Rx之间的距离h的最佳比例系数，即径距比γ的求取，是通过系统建模来推出 $\\operatorname { T x }$ 和Rx间的互感值，并辅以大量实验来获得的。针对这种缺少理论依据并浪费人力、物力的问题，本文提出了一种通过仿真观察Rx中电流密度变化规律来获得Rx半径与 $h$ 比例系数的最佳值的设计方法。首先求取单管ICPT系统之一次侧并联、二次侧并联（PP）结构下的系统去耦等效电路模型，据此推导出 $\\operatorname { R x }$ 上的电流密度和互感 $M$ 、系统传输功率的关系；并通过公式分析，确定Rx电感 $L _ { 1 }$ 与 $\\operatorname { T x }$ 电感 $L _ { 2 }$ 的比值 $\\boldsymbol { a }$ 和系统的耦合系数入的取值，来确定在不同频率下 $L _ { 1 }$ 和 $L _ { 2 }$ 的值，从而建立仿真模型，利用有限元仿真软件对γ的最优值进行研究。相比于通过线圈互感值来优化线圈的方法，本文中的电流密度可以通过软件直接观测到，形象而且直观，节省时间和成本，有效提高设计效率。综合仿真结果确定了松耦合线圈最佳径距比 $\\gamma$ ，该参数与企业通过生产实践总结出的经验值相吻合。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：单管逆变感应耦合电能传输 径距比 电流密度有限元仿真中图分类号：TM15",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f95276b29a889b6d4d12f358e2ea3c95f9d2a431c80c6fb4890c13e0ce7ef3fb.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王春芳男 1964年生，博士，教授，从事电能变换及其先进控制技术方面的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Design Method on Optimal Radius-Center Distance Ratio ofLoosely Coupled Transformer Coil in the System of ICPT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li ZhengtaiWang Chunfang' Wei Zhihao' Li Dan2 (1.Qingdao University Qingdao266071 China 2. Qingdao Lu Yu Energy Technology Co.,LtdQingdao 266071 China ） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In the traditional system of ICPT, to calculate the optimal ratio of the receiving coils(Rx) of loosely coupled transformer coil and the distance between the transmitting coil ( $\\left( \\mathrm { T x } \\right)$ ）and the receiving coil ( $\\left( \\operatorname { R x } \\right)$ , That is, radius-center distance ratio $\\gamma$ usually by system modeling to project the mutual inductance value between the Tx and the Rx and supplemented by a large number of experiments.It not only lack theoretical basis but also waste manpower and material resources in this way. Pointing to this problem, this paper proposes a design method, using by simulating and observing the change rules of current density, to obtain the optimal radius-center distance ratio $\\gamma$ .Firstly, the system decoupling equivalent circuit model,that primary and secondary coils are in paralel compensation (PP) structure of the single switch inverter ICPT system,is used to derive the relationship among the current density, mutual inductance $( M )$ ，system transmission power. Through the formula analysis, the ratio of the $\\operatorname { R x }$ inductance $( L _ { 1 } )$ to the $\\operatorname { T x }$ inductance $( L _ { 2 } )$ and the value of the coupling coefficient $\\lambda$ of the system are determined, and to determine the values of $L _ { 1 }$ and $L _ { 2 }$ at different frequencies. The simulation model is established in this way and using the finite element simulation software to study the optimal value of $\\gamma$ . Compared with the method of optimizing the coil through the coil mutual inductance value,the current density in this paper can be directly observed by software,vivid,save time and cost,and improve the design efficiency effectively.The simulation results show that the optimal radius-center distance ratio $( \\gamma )$ of loosely coupled coils is consistent with the empirical values summed up by the enterprise experiments. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Single switch inverter, inductive coupled power transfer,radius-center distance ratio,current density, finite element simulation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近几年，感应耦合电能传输（InductivelyCoupledPowerTransfer，ICPT）技术已成为科研人员的研究热点[1-2]，并成功应用于智能电器设备的无线供电、电动汽车的无线充电及生物体事实充电等领域[3-5]。而松耦合变压器作为ICPT 系统中的关键部件，其结构和参数更是直接关系到系统的体积及传输功率[6-9]。目前国内外缺少对感应耦合系统中松耦合变压器的径距比γ的研究，其所得参数仅是通过生产实践得出的经验值，缺少理论分析及验证。为此，本文以课题组研究的单管逆变ICPT系统拓扑[10-12]为依托，首先求出Rx的电流密度与互感值大小的对应规律，并从互感与系统电压增益和传输功率的关系角度，研究分析松耦合线圈最佳径距比 $\\gamma$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "偿，当 $C _ { \\mathfrak { p } 1 }$ 接入电路时，一次侧为串联补偿；当 $C _ { \\mathrm { s } }$ 接入电路时，二次侧为并联补偿，当 $C _ { \\mathrm { s 1 } }$ 接入电路时，二次侧为串联补偿。这样一、二次电路可构成4 种补偿方式，即一次侧并联二次侧并联（PP）、一次侧并联二次侧串联(PS)、一次侧串联二次侧并联（SP)、一次侧串联二次侧串联（SS)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文先以图1中PP补偿方式来研究γ的最小值，然后推广到其他三种补偿方式，再推广到半桥和全桥等电路。图2为PP补偿方式的等效电路模型，其中图2a为一次侧等效模型，图2b为二次侧等效模型。 $\\mathrm { A C } 2 2 0 \\mathrm { V } / 5 0 \\mathrm { H z }$ 交流电经全桥整流和 $L _ { 1 }$ ，$C _ { 1 }$ 滤波后的电压可视为一恒定的电压源 $U _ { \\mathrm { c p } }$ ， $Z _ { \\mathrm { f } }$ 为二次侧负载等效到一次侧的阻抗。图2b为二次侧等效模型，电压 $U _ { \\mathrm { o c } }$ 为二次侧的感应电动势。对于其",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 单管ICPT系统结构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单管逆变ICPT系统拓朴如图1所示。图中，$C _ { \\mathfrak { p } }$ 与 $C _ { \\mathrm { p 1 } }$ 为一次电路补偿电容， $C _ { \\mathrm { s } }$ 与 $C _ { \\mathrm { s 1 } }$ 为二次电路补偿电容。当 $C _ { \\mathfrak { p } }$ 接入电路时，一次侧为并联补",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d529c9dbb78b0c0a7093e6449783944f71054698105aca89658c8527389b22cc.jpg",
+        "img_caption": [
+            "Fig.1System ofICPT with single switch inverter "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图1单管逆变ICPT系统"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/055bca6b83ee5807186dce16fb885e5501a915545763614ffdabaf1c170b28fb.jpg",
+        "img_caption": [
+            "图2系统等效模型",
+            "Fig.2Equivalent model of the system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "他拓扑结构，如全桥、半桥和推挽等电路[13]的开通关断的过程中，其等效电路和图2具有相同的等效模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过求得稳态等效模型，并根据去耦等效原理，一次侧阻抗为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { \\mathrm { 1 } } = R _ { \\mathrm { p } } + \\mathrm { j } \\omega L _ { \\mathrm { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "二次侧反映到一次侧的阻抗为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { \\mathrm { f } } = { \\frac { \\omega ^ { 2 } M ^ { 2 } } { Z _ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $Z _ { 2 }$ 为二次侧阻抗",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\displaystyle Z _ { 2 } = R _ { \\mathrm { s } } + \\mathrm { j } \\omega L _ { \\mathrm { s } } + \\frac { \\omega ^ { 2 } M ^ { 2 } } { 1 + \\omega ^ { 2 } C _ { \\mathrm { s } } ^ { 2 } R _ { \\mathrm { e q } } ^ { 2 } } } \\\\ & { \\displaystyle \\quad = R _ { \\mathrm { s } } + \\frac { R _ { \\mathrm { e q } } } { 1 + \\omega ^ { 2 } C _ { \\mathrm { s } } ^ { 2 } R _ { \\mathrm { e q } } ^ { 2 } } + \\mathrm { j } \\Bigg ( \\omega L _ { \\mathrm { s } } - \\frac { \\omega C _ { \\mathrm { s } } R _ { \\mathrm { e q } } ^ { 2 } } { 1 + \\omega ^ { 2 } C _ { \\mathrm { s } } ^ { 2 } R _ { \\mathrm { e q } } ^ { 2 } } \\Bigg ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于系统的谐振角频率 $\\omega$ 较大，因此二次侧线圈的内阻 $R _ { \\mathrm { s } }$ 可以忽略不计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一次侧补偿电容两端的电压为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { \\mathrm { c p } } = U _ { \\mathrm { o c } } { \\frac { Z _ { 1 } + Z _ { \\mathrm { f } } } { \\mathrm { j } \\omega M } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可推出二次侧补偿电容两端电压即输出电压为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { \\mathrm { { R } } } = U _ { \\mathrm { { o c } } } - I _ { 2 } { \\mathrm { { j } } \\omega L _ { \\mathrm { { S } } } } = U _ { \\mathrm { { o c } } } \\left( 1 { - } { \\frac { { \\mathrm { { j } } \\omega L _ { \\mathrm { { S } } } } } { Z _ { 2 } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则根据上式可得电压增益为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ M _ { \\mathrm { { v } } } } = \\left| { \\frac { U _ { \\mathrm { { R } } } } { U _ { \\mathrm { { c p } } } } } \\right| = \\left| { \\frac { \\mathrm { { j } } \\omega M ( Z _ { { 2 } } - \\mathrm { { j } } \\omega L _ { { \\mathrm { { S } } } } ) } { Z _ { { 2 } } ( Z _ { { 1 } } + Z _ { { \\mathrm { { f } } } } ) } } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了分析方便，负载输出功率近似等于系统的传输功率，则系统传输功率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { P P } } = \\frac { U _ { \\mathrm { c p } } ^ { 2 } } { \\displaystyle \\frac { R _ { \\mathrm { e q } } M ^ { 2 } } { L _ { \\mathrm { S } } ^ { 2 } } + \\frac { ( \\omega L _ { \\mathrm { p } } L _ { \\mathrm { S } } - \\omega M ^ { 2 } ) ^ { 2 } } { R _ { \\mathrm { e q } } M ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系统效率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta = \\frac { P _ { \\mathrm { P P } } } { P _ { \\mathrm { i n } } } = \\frac { \\mathrm { R e } Z _ { 2 } I _ { \\mathrm { p } } ^ { 2 } } { ( \\mathrm { R e } Z _ { 2 } + R _ { \\mathrm { p } } ) I _ { \\mathrm { p } } ^ { 2 } } = \\frac { 1 } { 1 + R _ { \\mathrm { p } } \\mathrm { ~ / ~ } \\mathrm { R e } Z _ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= { \\frac { 1 } { 1 + \\mathrm { R e } Z _ { \\mathrm { f } } R _ { \\mathrm { p } } / ( \\omega ^ { 2 } M ^ { 2 } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rx上的电流密度为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho = { \\frac { I _ { \\mathrm { L s } } } { A } } = { \\frac { P _ { \\mathrm { P P } } } { U _ { \\mathrm { L s } } A } } = { \\frac { P _ { \\mathrm { P P } } } { \\displaystyle { \\frac { 2 { \\sqrt { 2 } } } { \\pi } } U _ { \\mathrm { { R l } } } A } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\cfrac { U _ { d } ^ { 2 } } { \\cfrac { 2 \\sqrt { 2 } } { \\pi } U _ { \\mathrm { { R l } } } \\left[ \\cfrac { R _ { \\mathrm { { L } } } M ^ { 2 } } { L _ { \\mathrm { { S } } } ^ { 2 } } + \\cfrac { \\left( \\omega L _ { \\mathrm { { P } } } L _ { \\mathrm { { S } } } - \\omega M ^ { 2 } \\right) ^ { 2 } } { R _ { \\mathrm { { L } } } M ^ { 2 } } \\right] A }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $U _ { \\mathrm { R l } }$ 为输出电压有效值； $U _ { \\mathrm { L s } }$ 为经过谐振网络出来的交流电压有效值； $\\boldsymbol { I _ { \\mathrm { L s } } }$ 为Rx对整流网络的输入电流有效值； $A$ 为 $\\operatorname { R x }$ 一匝线圈的横截面积。由公式得， $\\rho$ 和 $P _ { \\mathrm { P P } }$ 成正比关系。即 $\\rho$ 与 $M$ 成正比关系。由于 $\\rho$ 与 $M$ 正相关，且 $M$ 直接影响系统的传输功率和效率，所以可对不同规格尺寸 $\\operatorname { R x }$ 的电流密度进行仿真，来研究磁耦合线圈的 $\\gamma$ 最小值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3γ的最小值",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1系统参数的选取",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一次侧谐振角频率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { \\mathrm { i } } = \\sqrt { \\frac { L _ { \\mathrm { p } } - C _ { \\mathrm { p } } \\left( Z _ { \\mathrm { e q } } + r _ { \\mathrm { p } } \\right) ^ { 2 } } { L _ { \\mathrm { p } } ^ { 2 } C _ { \\mathrm { p } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "二次侧谐振角频率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { _ 2 } = 2 \\pi f\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "发射线圈 $\\operatorname { T x }$ 的电感为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { \\mathrm { p } } = { \\frac { Q R _ { \\mathrm { l } } } { \\omega _ { \\mathrm { l } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\boldsymbol { \\mathcal { Q } }$ 为系统品质因数，根据本系统的特性，取 $Q =$ 0.9。设 $\\operatorname { T x }$ 的电感 $L _ { \\mathrm { p } }$ 与 $\\operatorname { R x }$ 的电感 $L _ { \\mathrm { s } }$ 的比值为 $\\mathbf { \\nabla } _ { a }$ ，即$a = L _ { \\mathrm { p } } / L _ { \\mathrm { s } }$ 。将 $\\boldsymbol { a }$ 代入式（6）和式（7）中，分别得到电压增益 $M _ { \\mathrm { v } }$ 和功率 $P$ 关于 $\\boldsymbol { a }$ 的变化曲线如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d97da53edbfadee70a7db14edb17ccf49d30e817b25740494fa605dc633395a.jpg",
+        "img_caption": [
+            "(a) $M _ { \\mathrm { v } }$ 关于 $\\mathbf { \\Delta } _ { a }$ 的变化图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d51c1f13ac493d787c1cf22364644854765df28c76224f4a46a3daa20d4761e.jpg",
+        "img_caption": [
+            "图3 $M _ { \\mathrm { v } }$ 和 $P$ 关于 $\\mathbf { \\Delta } _ { a }$ 的变化图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于本系统输出功率较高，为得到较高的电压增益，系统 $\\boldsymbol { a }$ 取值为4。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为确定最佳径距比 $\\gamma$ 的值，应使传输距离 $h$ 为最佳值，根据ICPT系统特性，系统耦合系数λ一般取值范围为 $0 \\sim 0 . 5$ ，但实际应用过程中，λ最低为 $0 . 2 \\sim 0 . 3$ 。所以本文以λ分别为0.2和0.25的情况，计算在频率 $2 0 0 \\mathrm { k H z }$ 、 ${ 5 0 0 } \\mathrm { k H z }$ 、 $8 0 0 \\mathrm { k H z }$ 、$1 ~ 0 0 0 \\mathrm { k H z }$ 和 $1 ~ 5 0 0 \\mathrm { k H z }$ 下的系统各个参数，来研究γ的最佳值，见表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6fbf60fac294054d2a5b57f1acae9f12beb64519e7eb7e2c40f45be378708f1f.jpg",
+        "table_caption": [
+            "表1不同频率下系统的各个参数",
+            "Tab.1Various parameters of the system at different frequencies "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>f/kHz</td><td>Lp/uH</td><td>L/uH</td><td>Cp/nF</td><td>C/nF</td></tr><tr><td rowspan=\"5\">λ=0.25</td><td>200</td><td>7.0</td><td>1.8</td><td>55</td><td>310</td></tr><tr><td>500</td><td>6.5</td><td>1.6</td><td>14</td><td>66</td></tr><tr><td>800</td><td>4.0</td><td>1.0</td><td>8</td><td>40</td></tr><tr><td>1000</td><td>3.0</td><td>1.0</td><td>5</td><td>26</td></tr><tr><td>1500</td><td>2.0</td><td>0.5</td><td>4</td><td>22</td></tr><tr><td rowspan=\"5\">λ=0.2</td><td>200</td><td>7.0</td><td>1.8</td><td>57</td><td>400</td></tr><tr><td>500</td><td>6.5</td><td>1.6</td><td>9</td><td>63</td></tr><tr><td>800</td><td>4.0</td><td>1.0</td><td>3</td><td>38</td></tr><tr><td>1000</td><td>3.0</td><td>1.0</td><td>3</td><td>23</td></tr><tr><td>1 500</td><td>2.0</td><td>0.5</td><td>2</td><td>22</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2γ与互感 $M$ 的关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统中松耦合线圈的径距比为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma = \\frac { D } { h }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $D$ 为 $\\operatorname { R x }$ 的半径，应用诺依曼公式，有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM = \\mu _ { 0 } N _ { 1 } N _ { 2 } \\frac { \\sqrt { D _ { 1 } D _ { 2 } } } { b } \\Big [ \\Big ( 2 - b ^ { 2 } \\Big ) K ( b ) - 2 E ( b ) \\Big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $D _ { 1 }$ 为 $\\operatorname { T x }$ 的半径； $D _ { 2 }$ 为 $\\operatorname { R x }$ 的半径； $b$ 、 $K ( b )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "和 $E ( b )$ 分别为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb = \\sqrt { \\frac { 4 D _ { 1 } D _ { 2 } } { ( D _ { 1 } + D _ { 2 } ) ^ { 2 } + h ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK ( b ) = \\int _ { 0 } ^ { \\frac { \\pi } { 2 } } \\frac { \\mathrm { d } \\theta } { \\sqrt { 1 - b ^ { 2 } \\sin ^ { 2 } \\theta } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( b ) = \\int _ { 0 } ^ { \\frac { \\pi } { 2 } } { \\sqrt { ( 1 - b ^ { 2 } \\sin ^ { 2 } \\theta ) } } \\mathrm { d } \\theta\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将式（13）代入式（14）中，得到互感 $M$ 关于$\\gamma$ 的变化曲线，如图4所示。可以看出，为获得最大互感器和系统功率，随着开关频率的增加，最大互感器对应的γ的值不断靠近 $1 . 3 \\sim 1 . 5$ ，由此推断出最佳径距比γ的范围应该在 $1 . 3 \\sim 1 . 5$ 之间。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/852fff6b19996713bedc9e05a8b4b494904d61ae1d76413c7a12194e76d7215f.jpg",
+        "img_caption": [
+            "Fig.3Power with $M _ { \\mathrm { v } }$ and $P$ changes in the image ",
+            "图4 $M$ 和功率 $P$ 关于 $\\gamma$ 变化的图像Fig.4 $\\gamma$ with $M$ and $P$ changes in the image"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 仿真结果 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 $\\rho$ 与 $M$ 的关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了分析验证Rx上 $\\rho$ 和 $M$ 的对应关系。通过有限元仿真软件中计算两线圈间互感值的工具，可得线圈间的互感值。仿真如图5所示。图5a和5b分别为随 $\\operatorname { T x }$ 尺寸变化，外径 $9 \\mathrm { c m }$ ，内径7cm的Rx上的 $\\rho$ 和 $M$ 大小。图5b中，图例颜色越红，表明磁耦合线圈的互感值越大，图中红色区域对应的 $\\operatorname { T x }$ 的尺寸即为Rx匹配的最优的 $\\operatorname { T x }$ 的尺寸。为进一步验证线圈电流密度和互感值的关系，又加了一组随 Tx尺寸变化，外径 $9 \\mathrm { c m }$ ，内径5cm的Rx上的 $\\rho$ 和 $M$ 大小对比图，如图5c和5d所示，发现两者变化趋势仍然一致。通过对比图5中Rx线圈电流密度与磁耦合线圈互感值随 $\\operatorname { T x }$ 线圈内外径半径变化，发现此Rx上的电流密度和耦合线圈的最小值所对应的 $\\operatorname { T x }$ 的尺寸相同，且最大值所对应的Tx的尺寸也相同。即随着 $\\operatorname { T x }$ 内外径改变，Rx上的电流密度和耦合线圈互感变化趋势一致。通过仿真，验证了Rx上 $\\rho$ 和M的正比关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/059303292840c978d0c0635a10217c1d02404d95ce2e141e8efc7200e977b46c.jpg",
+        "img_caption": [
+            "图5Rx线圈电流密度及磁耦合线圈互感值随 $\\operatorname { T x }$ 线圈内外径半径变化",
+            "Fig.5Current density and the mutual inductance of the magnetic-coupled-coils of $\\operatorname { R x }$ coil change with the inside and external radius of Tx coil "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 γ与 $M$ 的关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于径距比γ的值，在一固定的耦合系数情况下，当 $\\gamma$ 一定时，随着线圈的半径 $D$ 不断变化，其传输距离 $h$ 也随 $D$ 变化而变化，比值一直保持不变，为 $\\gamma$ ，为确定最小的γ值，即确定线圈半径 $D$ ，通过改变两线圈间的距离，使系统正常工作时，得到最远传输距离。此时，γ为最小值。通过有限元仿真软件，将表1中的参数代入进行仿真，其中",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Rx线圈的外径为 $1 1 \\mathrm { c m }$ ，内径为 $9 \\mathrm { c m }$ ，平均半径为$1 0 \\mathrm { { c m } }$ ，并利用软件中计算互感的功能，得到使线圈间的互感达到要求值，系统能正常工作时的最远传输距离，并计算γ。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可以看出，相同耦合系数时，随着频率的增加，传输距离 $h$ 随之增大，γ则随之减小。在相同频率下，耦合系数越小，则传输距离也就越远，其γ最佳值约为1.33，与图5中的取值基本吻合。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c44d717947611e46f2ed5bd6052d2013098b1e40e33a3c08cdfaeb54d6ab073.jpg",
+        "table_caption": [
+            "表2不同频率下，系统正常工作时的最远 $h$ 和最小γ",
+            "Tab.2 Farthest $h$ and minimum y at different frequencies when the system "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>f/kHz</td><td></td><td>200</td><td>500</td><td>800</td><td>1000</td><td>1500</td></tr><tr><td rowspan=\"2\">λ=0.25</td><td>h/cm</td><td>6.1~ 6.2</td><td>6.1~ 6.3</td><td>6.2~ 6.3</td><td>6.1~ 6.2</td><td>6.4</td></tr><tr><td>Y</td><td>1.61 ~ 1.64</td><td>1.58 ~ 1.61</td><td>1.58~ 1.61</td><td>1.61 ~ 1.64</td><td>1.56</td></tr><tr><td rowspan=\"2\">λ=0.2</td><td>h/cm</td><td>7.1</td><td>7.1~ 7.2</td><td>7.4 ~ 7.5</td><td>7.4~ 7.5</td><td>7.4~ 7.5</td></tr><tr><td>Y</td><td>1.4</td><td>1.38 ~ 1.4</td><td>1.33~ 1.35</td><td>1.33~ 1.35</td><td>1.33 ～ 1.35</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文通过仿真观察Rx中电流密度变化的规律来获得γ的最小值的设计方法，得出如下结论：（1）该方法适用于全桥、半桥、推挽及单管逆变ICPT系统的各种一、二次侧组合补偿结构。（2）对于ICPT系统的 $\\operatorname { R x }$ 的半径与传输距离$h$ 的比值γ，最佳值约为1.33。即在Rx尺寸确定的情况下，两线圈间的最远传输距离为 $\\operatorname { R x }$ 半径的1.33倍。（3）所提优化设计方法得出的优化参数与企业通过实验总结出的结果基本吻合，并成功用于青岛某生产无线充电产品的企业，具有推广应用价值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 王振亚，王学梅，张波，等．电动汽车无线充电技 术的研究进展[J]．电源学报，2014，12(3)：27-32. Wang Zhenya,Wang Xuemei, Zhang Bo,et al. Advances of wireless charging technology in electric vehicle[J]. Journal of Power Supply,2014, 12(3): 27-32.   \n[2] 廖承林，李均锋，陶成轩，等．无线电能传输系统控 制方法综述[J]．电气工程学报，2015，10(6)：1-6. Liao Chenglin,Li Junfeng,Tao Chengxuan,et al. A review on control methods for wireless power transfer system[J]. Journal of Electrical Engineering, 2015,10(6): 1-6.   \n[3] 高键鑫，吴旭升，高嵬，等．电磁感应式非接 触电能传输技术研究综述[J]．电源学报，2017, 15(2): 166-178. Gao Jianxin,Wu Xusheng,Gao Wei, et al. Review on inductive contactless power transfer technology[J]. Journal of Power Supply,2017,15(2): 166-178.   \n[4] 曹玲玲，陈乾宏，任小永，等．电动汽车高效率无 线充电技术的研究进展[J]．电工技术学报，2012, 27(8): 1-13. Cao Lingling,Chen Qianhong,Ren Xiaoyong,et al. Review of the efficient wireless power transmission technique for electric vehicles[J].Transactions of China Electrotechnical Society,2012,27(8):1-13.   \n[5] Aditya K,Williamson S S.Design considerations for loosely coupled inductive power transfer(IPT)system for electric vehicle battery charging-A comprehensive review[C]. Transportation Electrification Conference and Expo,2014: 1-6.   \n[6] Jean-Romain Sibué,Kwimang G, Jean-Paul Ferrieux, et al. A global study of a contactless energy transfer system: analytical design, virtual prototyping, and experimental validation[J]. IEEE Transactions on Power Electronics,2013,28(10): 4690-4699.   \n[7] 夏晨阳，解光庆，林克章，等．双LCL补偿ICPT 系统双谐振点特性及最大输出功率研究[J]．中国 电机工程学报，2016，36(19)：5200-5208，5401. Xia Chenyang, Xie Guangqing, Lin Kezhang, et al. Study of dual resonance point characteristics and maximum output power of ICPT based on double LCL compensation[J]. Proceedings of the CSEE, 2016,36(19): 5200-5208, 5401.   \n[8] 黄晓生，陈为．用于磁感应耦合式电能传输系统 的新型补偿网络[J]．中国电机工程学报，2014, 34(18): 3020-3026. Huang Xiaosheng, Chen Wei.A novel compensation network for ICPT systems[J]. Proceedings of the CSEE,2014,34(18): 3020-3026.   \n[9] 杨民生，王耀南．感应耦合电能传输系统动态 解谐传输功率控制[J]．电机与控制学报，2012, 16(1): 72-78. Yang Minsheng,Wang Yaonan. Transferred power regulating method with a dynamically detuning inductor for ICPT pickups[J]. Electric Machines and Control,2012,16(1): 72-78.   \n[10]夏晨阳．感应耦合电能传输系统能效特性的分析 与优化研究[D]．重庆大学，2010.   \n[11] 王学梅，张波．单相 SPWM逆变器的分岔及混沌 现象分析[J]．电工技术学报，2009，24(1)：101- 107. Wang Xuemei, Zhang Bo. Study of bifurcation and chaos in single-phase SPWM inverter[J]. Transactions of China Electrotechnical Society, 2009,24(1): 101-107.   \n[12]王春芳，齐飞．单管无线电能传输系统主电路参数 的优化设计[J]．电工电能新技术，2015，34(5)： 59-62. Wang Chunfang,Qi Fei. Optimal design on main circuit parameters of WPT system with single tube[J]. Advanced Technology of Electrical Engineering and Energy,2015,34(5): 59-62.   \n[13] Hatanaka K,Sato F,MatsukiH,et al.Power transmission of a desk with a cord-free power supply[J]. IEEE Transactions on Magnetics,2002,38(5):3329- 3331.   \n[14] 王春芳，陈杰民，李聃，等．零电压导通、零电 压关断单管无线电能传输电源[J]．电工技术学报, 2015，30(4):203-208. Wang Chunfang,Chen Jiemin,Li Dan, et al.A zerovoltage turn-on and turn-off single-switch IPT power ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "supply[J].Transactions of China ElectrotechnicalSociety,2015,30(4): 203-208.[15] 刘修泉，曾昭瑞，黄平，等．空心线圈电感的计算与实验分析[J]．工程设计学报，2008，15(2)：149-153.Liu Xiuquan, Zeng Zhaorui, Huang Ping,et al.Numerical and experimental analysis on performancesof coreless coil inductance[J].Chinese Journal ofEngineering Design,2008,15(2): 149-153.",
+        "page_idx": 6
+    }
+]

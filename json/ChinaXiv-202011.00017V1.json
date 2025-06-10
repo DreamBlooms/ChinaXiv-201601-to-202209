@@ -1,0 +1,480 @@
+[
+    {
+        "type": "text",
+        "text": "新疆天文台26米望远镜压缩机压力监控系统设计与实现",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈勇1.2，段雪峰1.2，项斌斌1.2，马军1.2，闫浩1.2，李笑飞1.2，刘烽1.2（1.中国科学院国家天文台新疆天文台，新疆乌鲁木齐 830011；2.中国科学院射电天文重点实验室，江苏南京 210008）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：新疆天文台南山基地26米望远镜的接收机使用氦气压缩机制冷，压缩机需要定期维护，氨气管在使用过程中会因为磨损而漏气，压缩机的运行状况影响到26米望远镜的正常观测。针对压缩机压力监控的实际需求，设计开发了一套压缩机压力监控系统，可以实现压缩机压力的记录、实时监控、实时报警、通过邮件发送报警信息及压缩机压力日报表、查询压缩机的历史工作记录、处理压缩机报警信息等功能。介绍了软件系统的框架、软件流程、数据处理原理、实现思想、模块功能、软件界面。系统具有报警迅速、查询功能强大、界面简洁友好、扩展性强等优点，能够满足当前及未来应用的需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：压力监控；报警；查询 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆天文台南山基地 26 米射电望远镜建成于1993 年12月，2015 年将天线口径升级改造为26米。望远镜参加了欧洲甚长基线干涉网（EVN）、国际VLBI测地网（IVS）、俄罗斯低频VLBI网（LFVN）、东亚VLBI网等多个国际合作组织，承担着国家攀登计划、大科学工程、国家自然科学基金课题、中国科学院基础研究重点项目以及多项单天线国际合作天文观测研究任务和项目，开展了脉冲星观测、分子谱线、活动星系核、IDV 等多项课题[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆天文台南山基地 26 米望远镜现在投入使用的接收机共有4台[2，为了观测到微弱的射电信号[3]，这四台接收机均为制冷低噪声接收机，使用氮气压缩机给制冷低噪声接收机制冷。压缩机通过氨气管给制冷头提供260-280PSI的高压氨气，氨气在制冷头中膨胀以后通过氮气管返回到压缩机中，回气压力的范围为50-100PSI。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "天线在观测中会不停的转动，氨气管有一部分也会和天线一起不停的运动，时间长了氨气管会破损而漏气，如果没有及时的发现氮气管漏气，压缩机会因为压力过低而停机，甚至氨气管中会因为气压过低而进入空气。这时就必须停止一切观测，等接收机杜瓦回暖，重新给杜瓦抽真空、制冷。如果氮气管中进入了空气还需要置换氮气管中的气体，这样就会严重影响正常的观测计划。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "压缩机在正常的运行过程中也需要不时的维护，如压缩机压力过低时需要补充一些氮气,压缩机运行一定的时间后需要更换吸附器、更换氨气管，这些正常的维护工作也需要记录下来。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了掌握压缩机的运行状况，更好的为天文观测服务，本文设计和开发了一套压缩机压力监控软件[4,5,6,7,8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、系统设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1需求分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）压缩机压力监控及压缩机维护管理",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "软件能够实时分析、处理从数据采集端接收到的数据，实现压缩机压力实时监控。当压缩机压力出现异常状况或与数据采集端通讯出现异常时软件会立刻给相关人员发送邮件，提醒用户及时处理压缩机压力异常情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$^ *$ 基金项目：国家重点研发计划资助（2018YFA0404702）.作者简介：陈勇，男，硕士．研究方向：天文仪器与方法.Email：chenyong@xao.ac.cn",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）方便查询",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在软件系统中不但记录着压缩机的压力值，同时也记录着压缩机的运行、维护数据，这些数据都保存在数据库中。软件系统必须能够很方便的查询到这些数据，才能对压缩机的运行状态做出正确的判断。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "软件系统不但可以在主界面中查询到接收机的运行数据，还可以在各功能界面中查询到相关数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3）能与压缩机压力传感器灵活配对",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "26 米射电天文望远镜现有2台压缩机在工作，一台压缩机需要一根高压氮气管一根低压氮气管，共需两根氮气管。2台压缩机共需四根氮气管，实际有6根氮气管可供使用，其中四根氮气管在使用，两根氨气管备用。因为氨气管的损坏具有不确定性，所以会根据实际情况更换氦气管，故并不确定那根氨气管用于那台压缩机，在更换氮气管后软件需要很方便的和实际使用的氨气管配对。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（4）软件界面简洁",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "软件界面简洁，基本上不需要人工操作，软件功能基本上都在后台完成，用户只需要简单的培训就可以熟练使用软件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2总体设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "压缩机压力监控系统采用分层方式设计和开发，分为数据采集与传输层、数据处理与查询层、数据显示与应用层以及数据库层。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 2. 1 数据采集与传输层",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据采集与传输层主要为硬件部分，采用压力传感器采集压缩机的压力并使用树莓派通过TCP/IP将压力数据传输到内网。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 2.2 数据处理与查询层",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据处理与查询层接收数据采集与传输层传来的压力数据，压力数据在这一层被处理，所有的查询工作也在这一层完成，因此这一层是软件的核心层。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 2.3 数据显示与应用层",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据显示与应用层是软件的界面，压缩机的压力数据及压缩机房的温度数据在这一层显示；用户在这一层与软件交互，完成基本资料录入、查询、报警处理等操作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 2.4 数据库层",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据库层是存储数据的核心，压缩机所有的压力数据、历史维护记录以及所有压缩机的基本资料信息都存储在数据库中，供软件调用、查询。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/827019898876e95881c0169569952e96cb27e58c42a563f62445e4830d419c0e.jpg",
+        "img_caption": [
+            "图一压缩机压力监控系统总体框架",
+            "Fig.1The framework of Monitoring system for compressor pressure "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "二、系统模块",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因为监控的多路压缩机压力数据具有相似处，为了提高代码的重用性，软件系统所有的功能都采用模块化的形式来实现，每个模块都提供特定的功能，模块之间通过接口联系。所有的模块都可以被应用程序重复调用，这样既可以有效的减少代码量又方便软件的维护。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "软件将一些常用的功能封装在一个类中作为父类，在其它要使用这些功能的地方作为子类继承父类。在软件界面中许多地方的操作及界面形式非常相似，这是因为它们继承了相同的父类的原因。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1增加、修改、删除、保存类",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "增加、修改、删除、保存功能是软件系统中非常常用的功能，这些功能主要涉及到数据库的操作，需要将界面中的数据与数据库中的字段对应起来，在界面中完成对数据库的操作，基本上在软件的每一个界面中都要用到这些操作，因此将这些功能做成一个父类。在这个类中，每项指令执行之前都要先检查数据的完整性及必录字段是否为空、指令是否符合要求、是否满足对数据库的操作要求，只有符合要求的指令才能执行，不符合要求的指令会有出错提示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2查询类 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "强大的查询能力是本软件系统的一大特色，为了了解压缩机的工作情况，需要查询压缩机的历史工作记录。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在查询类中，软件系统先检查查询界面中出现的查询选项，再检查用户在查询选项输入的值是否符合要求。软件根据用户选择的查询选项的数据类型将查询项归类，然后根据查询的需求生成查询数据库需要的 SQL 语句。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "软件的许多界面中都有查询功能，因此将查询功能专门作为一个类封装起来，在查询界面中继承查询类，这样只需要极少的代码就可以完成复杂的查询。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3数据库模块",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据库结构按照关系型数据库的关系模型设计，严格遵循数据库实体完整性规则，软件通过 SQL 语句访问数据库。根据数据功能和内容的不同将数据分别存储在多张数据表中，各数据表之间通过唯一的主键值关联，这样既体现了冗余最小的原则又保证了数据库具有极强的可扩展性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据库模块除了保存压缩机的压力数据和压缩机房的温度数据外，还保存着其它和软件系统相关的数据，如压缩机的基本数据、操作人员的基本数据、压缩机维护数据等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4数据处理模块",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "软件接收到的压力数据在数据处理模块中处理，因为压缩机和氨气管号没有一一对应，为了能够准确的查询压缩机的历史压力信息，数据库中使用了六张数据表来存储压缩机压力数据，六张数据表分别对应六个压力传感器。六张数据表的结构都是一样的，对这六张数据表的操作也是相同的。因此将处理数据的函数做成模块，处理每路压力数据时调用这些函数模块就可以了，不必为每路压力数据都重复写一段函数，这样既有效的减少了代码量，修改代码也变得容易，而且今后如果添加新的氨气管修改程序也非常方便。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据处理模块判断接收到的压力数据是在正常范围还是出现异常，压缩机是否漏气、是否在加气，如果压缩机压力过低数据处理模块会发送邮件提醒用户加气。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5通讯模块 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "软件通过TCP/IP的方式与数据采集端通讯，在通讯模块中设置好数据采集端的IP地址，软件就会自动的连接到数据采集端。通讯模块通过定时器每秒钟向数据采集端要一次数据，数据采集端接到指令后将压缩机当前的压力值和压缩机房的温度值发送给通讯模块。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通讯模块自动判断与数据采集端的通讯是否正常，在通讯出现异常时通讯模块将通过邮件向相关人员报警。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6报警模块 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "压缩机的压力超过阈值、低于阈值、压力上升过快、压力下降过快都会触发报警模块，软件和数据采集端通讯异常时也会报警。发生报警时，软件会发送邮件给相关人员，提醒相关人员处理报警信息，同时在主界面中也会用声光报警的方式提醒操作人员。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.7报表模块 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "压缩机压力日报表是压缩机运行、维护的重要组成部分，每日生成日报表的功能由报表模块自动完成，不需要用户做任何操作。过了零点，报表模块会自动从数据库中查询上一个工作日所有正在运行的压缩机的压力值，并将压力日报表以PDF 的格式保存到电脑的指定路径上，然后通过邮件将压力日报表发送给相关人员。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.8邮件模块 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "邮件是软件和操作人员交互的一种方式，通过邮件将压缩机的相关信息传递给工作人员可以有效的减少工作人员的工作量。工作人员不必町着软件，软件会自动的将压缩机的相关信息通过邮件的方式告诉工作人员。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "压缩机压力出现报警时、压缩机运行时间到达指定维护时间时、软件和下位机通讯异常时、报表模块生成日报表后邮件模块都会发送邮件告诉相关人员。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三、系统实现",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "软件系统不但是压缩机的压力监控系统，同时也是压缩机的运行、维护、管理系统。软件最重要的一项功能是当压缩机系统发生漏气时能够及时的报警。压缩机的高压和低压每时每刻都在一个范围内动态的变化着，数据采集端实时采集压缩机的压力，因此来自数据采集端的数据也在一个较大的范围内变化着。软件必须能够正确的判断数据的变化是正常状况还是由漏气引起的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "压缩机压力报警原因很多，氨气管的压力值低于正常工作值时要报警，氨气管的压力值高于正常工作值时要报警，氮气管漏气时要报警，给压缩机和氨气管加氨气时也要报警。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1压缩机压力监控流程",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "软件接收到压力数据后，先判断压力数据属于那一台压缩机，属于高压氨气管、低压氮气管还是备份氨气管，然后在相应的压缩机及氮气管显示框中显示压缩机压力数据。接着软件系统将接收到的压力值与预定义的阈值比较，如果压力值高于预定义的阈值就启动高压报警，如果压力值低于预定义的阈值就启动低压报警。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如果接收到的压力数据小于最小值寄存器中的数值，则可能是压缩机在漏气，因为压缩机有两根氨气管，当一根氨气管发生漏气时，另外一根氮气管的压力肯定也要变低，这两根氮气管的压力变化趋势是一致的。软件调用数据库中最近10 小时的数据，通过算法判断出一台压缩机的两根氮气管都符合漏气特征时就会发出漏气报警。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如果接收到的压力数据大于最大值寄存器中的数值，软件就调用数据库中最近10 小时的数据，通过算法判断出压缩机是否在加氨气，如果是加氮气也报警，因为加氮气属于压缩机维护的一部分。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "只要接收的数据触发了报警,这个数据就会被立刻保存在数据库中，并发送邮件到相关人员的邮箱中，提醒相关人员处理。没有触发报警的数据，如果满足条件就会被放入最小值寄存器或者最大值寄存器中，放在最小值寄存器中的数据每隔一小时就会被存储到数据库中。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c066addbccee089cf9e269ed57ab38dc7f11b795419c4b71393a01bd283629e.jpg",
+        "img_caption": [
+            "图二压缩机压力监控流程图",
+            "Fig.2The flowchart of the compressor pressure monitoring software "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "四、用户界面",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "软件界面友好，大部分功能都在后台自动运行，需要用户操作的地方很少。软件功能较多，如果软件将所有功能都放在一个界面，界面将会显得很杂乱。因此根据功能的不同，软",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "件将界面分成主界面和各功能界面，主界面只显示压缩机的压力和压缩机房的温度，其他的操作根据功能的不同在各功能界面中进行。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1主界面",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在主界面的编辑框中显示正在使用的压缩机压力值和压缩机房温度的实时值，用图表的形式显示 24小时内压缩机的压力值和压缩机房的温度值，用户对压缩机的运行状况一目了然。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在主界面中还可以方便的查询压缩机的运行状况。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/380f360bdc6e0f1117ddd3d245745e75f069f36d6a375cb087f9151b5ac7c17f.jpg",
+        "img_caption": [
+            "图三压缩机压力监控主界面",
+            "Fig.3 Main GUI of the Compressor pressure monitoring "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2功能界面",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "软件系统的其它操作需要登录系统后在功能界面中进行。输入正确的用户名称和用户密码，就可以登录到软件系统中，登录系统后才可以对软件进行其它操作，如：报警处理，压缩机、氨气管、数据采集端口匹配，登录系统查询，压缩机维护，系统设置，数据采集端IP 地址设置，操作人员基本信息，报表收件人和报警收件人设置等。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "五、总结和展望",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "新疆天文台南山观测基地26 米射电望远镜压缩机压力监控系统软件已经制作完成，软件系统具有功能强大、操作简单、界面友好、可进行各种组合条件查询、可扩展性强等优点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "望远镜除了压缩机压力外，接收机低噪声放大器的工作状态、接收机杜瓦的真空度以及制冷温度、接收机制冷机的驱动电源、接收机的中频功率等都需要监控，在下一步的工作中需要逐步的将这些功能添加到软件系统中，使软件不但满足当前南山26米望远镜的需求，也可以满足将来新疆奇台110m口径射电望远镜（QiTai Radio Telescope,QTT）的需求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]http://www.xao.ac.cn/jgsz/ywtz/nsjd/25msd/  \n[2] http://ww.xao.ac.cn/jgsz/ywtz/ns jd/25msd/qdxt/jsjxxxq/201810/t20181010_5140602.html  \n[3]陈勇,孙正文,杨颖.S 波段双极化低噪声接收机的设计与制作[J]．天文研究与技术—国家天文台台刊,2009,6(1):55-62.ChenYong,SunZhengwen,YangYing.Designand ManufactureofaLow-noise S-Band Dual-polarization Receiver[J].Astronomical Research&Technology—Publications of NationalAstronomical Observatoriesof China,2009,6(1):5-62.[4]张海龙，朱艳，聂俊，袁建平，吴刚，刘俊，王杰，王万琼，冶鑫晨，托乎提努尔，张萌．新疆天文台NSRT观测数据存储系统［J]．天文研究与技术，2018，15(2)：181-187.  \nZhang Hailong，Zhu Yan,NieJun，Yuan Jianping,Wu Gang，Liu Jun,Wang Jie,Wang Wanqiong，Ye Xinchen，Tohtonur,Zhang Meng.Xinjiang Astronomical Observatory NSRT Data Storage System.Astronomical Research & Technology，2018,15(2): 181-187.  \n[5］田园，王锋，李建，王政，赵永恒．基于Python协程技术的LAMST控制节点分布状态采集与监视系统［J]．天文研究与技术，2018，15(4):456-464.  \nTianYuan,WangFeng,Li Jian,Wang Zheng，Zhao Yongheng.LAMoSTResource Monitoring SystemBasedonPython CoroutinesTechnique.Astronomical Research & Technology，2018，15(4)：456-464.  \n[6]李军，王娜，刘志勇，李宁，杨垒，颜帅．射电望远镜台站的Android手机干扰管理软件设计与实现［J]．天文研究与技术，2020，17(2):144-151.  \nLi Jun,Wang Na,Liu Zhiyong,LiNing,Yang Lei,Yan Shuai.Designand Implementationof Android Mobile InterferenceManagement APP for Radio Telescope Station. Astronomical Research & Technology，2020，17(2)：144-151.[7]王传军，王德清，肖健，尹树成，王锋，范玉峰，和寿圣，丁旭．丽江2.4米望远镜观测日志辅助系统的设计与研发[J].天文研究与技术，2020，17(1)：96-103.  \nWang Chuanjun，Wang Deqing，Xiao Jian，Yin Shucheng，Wang Feng，Fan Yufeng，He Shousheng，Ding Xu.Design andDevelopmentof ObservationLog TolforLijiang 2.4-meterTelescope.AstronomicalResearch&Technology，2020,17(1):96-103.  \n[8]王川中,苏丽颖,韩军,崔辰州,王显海,樊东卫.远程天文台电源集成控制与监控模块的设计与实现[J]．天文研究与技术—国家天文台台刊,2020,17(1):104-110.  \nWang Chuanzhong,Su Liying,Han Jun,Cui Chenzhou,Wang Xianhai,Fan Dongwei.Designand Realizationof RemoteObservatory Power Integrated Controland Monitoring Module[J].Astronomical Research&Technology—Publicationsof National Astronomical Observatories of China,2020,17(1) :104-110.  \n[9]王娜．新疆奇台110米射电望远镜[J].中国科学：物理学 力学 天文学，2014,44:783-794  \nWang N.Xinjiang Qitai110 mradio telescope(in Chinese)[J].Sci Sin-Phys MechAstron 2014,44:783-794",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The compressor pressure monitoring system of 26 meter Telescope in Xinjiang Astronomical Observatory ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CHEN Yong1,2，DUAN Xuefeng1,2， XIANG Binbin1,2，MAJun1,2， Yan Hao12，Li Xiaofei1,2,Liu Feng1,2",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1.XinjiangAstroocalbseratoryatioaltroocalObetores,eaeyofieces,Umia; 2.Key Laboratory of Radio Astronomy,Chinese Academy of Sciences,Nanjing 21Ooo8,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Thereceiveriscoledbyheliumof the26-meter telescopeatNanshanin Xinjiang AstronomicalObservatoryChinese AcademyofSciences.Thecompressorneedtobemaintenancedregularly,TheheliumtubemayleakduetowearTheconditionof he compressoraffectsthenormalobservationofthe26metertelescope.Acordingtotheactualdemandofmonitoringpressureof compresor,theompressorpresuremonitoringsystemisesignedanddeveloped,Icanrealizethefollowingfunctions,suchas recordingofompressrpresure,eal-timemonitoring,real-timealarm,sendingalaminformationanddailyreportofcompressor presure byemail,queryingtheistorical workecordofcompreso,procesingompressralaminformatioandsoon.ispaper introducestheframeworkofthesoftwaresystem,thesoftwareflowtheprincipleofdataprocesing,theideaabouthowtorealizethe softwaresyste,tefunctionofsoftwaremoduleandthehuman-computerinterface.Thesoftwarehasthefollowingadvantages,uchas rapidalarm,powerfulqueryfuntion,simpleandfriendlyhuman-computerinterface,strongexpansibilityandotheradvantages,which can meet the needs of current and future applications. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: Pressure monitoring; alarm; query; ",
+        "page_idx": 7
+    }
+]

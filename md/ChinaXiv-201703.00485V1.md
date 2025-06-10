@@ -1,0 +1,181 @@
+快速沉积与侵蚀对地温场及天然气水合物成藏演化的影响： 以南海北部陆坡地区为例 Impacts of fast sedimentation and erosion on the evolution of geothermal field and gas hydrate system: cases ofNorthern South China Sea
+
+张毅」，何丽娟」，汪集旸‘  
+1．中国科学院地质与地球物理研究所 岩石圈演化国家重点实验室 北京100029ZHANG Yi’，HE Lijuan’，WANG Jiyang’  
+1.State Key Laboratory of Lithospheric Evolution,Institute of Geology and Geophysics,ChineseAcademyofSciences
+
+Abstract: The occurrence and distribution of gas hydrate in marine sediments is closely related to the state of geothermal field. The sedimentation rate is relatively high during the Pleistocene and Holocene in the northern margin of the South China Sea. Moreover, there are many erosional canyons at the sea bottom in some local areas. Such fast sedimentation and erosion can greatly affect the geothermal regime and the formation and occurrence of gas hydrate deposits.However, there are few studies that consider such scenarios.In this study, considering the geological reality, we build a numerical reservoir model aimed to simulate the evaluation of the gas hydrate system upon two cases: the fast sedimentation and the development of erosional canyons. The results indicate the geothermal filed and the accumulation and distribution of gas hydrate can be adjusted dynamically when the fast sedimentation or erosion occurs. Under fast sedimentation,the geothermal gradient becomes smaller and the thickness of gas hydrate stability zone (HSZ)becomes larger. However, due to the role of heat transfer,the bottom of HSZ rises upward.This process leads to the hydrate near the previous botom of HSZ being dissociated and depositing near the bottom of new HSZ. After a long duration,the fast sedimentation willresult the formation of hydrate being mainly enriched near the bottom of HSZ. By contrast, when fast erosion occurs,the geothermal gradient increases and the HSZ turn thinner. The gas hydrate deposit system can be partially destroyed by the formation of canyons. A long time is necessary for the recovery of a gas hydrate deposit with significant abundance. Relatively, the deposits under the residual ridges are more possble to be potential “sweet spots".
+
+Key words: gas hydrate; geothermal field; South China Sea; fast sedimentation; erosional canyon摘 要：海洋沉积物中天然气水合物的存在与分布与地温条件紧密相关。南海北部陆坡大部分区域更、全新世沉积速率较高，同时局部地区(如神狐天然气水合物钻探区)发育有大量的海底冲蚀谷。这些快速沉积或侵蚀作用可以对地温场及天然气水合物的形成与赋存产生重要影响，然而目前注意到这些问题的研究相对较少。本文中我们结合南海北部陆坡的实际情况，建立了针对地温场发生动态变化时的水合物成藏数值模型。我们给出两个成藏模拟案例，其一是快速沉积的情形，其二是地形遭受侵蚀、产生冲蚀谷时的情形。结果表明，在这两种情形下地温场将发生不同的瞬态调整，并对天然气水合物在地层中聚集及分布产状产生重要影响。在快速沉积发生时，地温梯度将变小，天然气水合物稳定带（HSZ）将增厚；然而当其底界将随着热传递而上升，天然气水合物将不断在原稳定带底界分解，而后在新的稳定带底界处重新生成水合物。这样长时间的快速沉积作用可以造成水合物主要富集在稳定带底界处。而当快速侵蚀作用发生时，地温梯度将变大，天然气水合物稳定带的厚度将变薄，原来位于冲蚀谷处的水合物藏将被侵蚀作用破坏。而后，随着热平衡的发展，逐渐形成新的、类似于似海底反射层的稳定带底界。单纯考虑甲烷扩散作用下，高丰度水合物的形成需要较长的时间，相对而言脊下的水合物成藏较好，形成矿点的概率较大。
+
+关键词：天然气水合物；地温场；南海；快速沉积；冲蚀谷
+
+0引言
+
+天然气水合物（本文中主要是指甲烷水合物）是一种形成于低温、高压环境下，由水的冰晶格架及其间吸附的天然气分子组成的笼状结构化合物。在自然界，天然气水合物广泛分布于边缘海和永久冻土带。按理论计算，在标准条件下，1立方米天然气水合物水合物可释放164立方米的甲烷气体，具有着分布广、规模大、埋藏浅、能量密度高等特点，被认为是一种很有潜力的能源矿产资源，有可能成为未来煤、石油和天然气等常规能源的替代物。另一方面，作为大规模的碳汇，天然气水合物有可能会随着海水深度及温度等条件的变化而分解，其释放而出的大量甲烷可以产生较强的温室效应。从全球碳循环角度出发，探索天然气水合物体系在过去、未来的发展演化对气候、环境的影响也是目前国际上的一个前沿课题。
+
+从大致范围看，海洋地层中形成天然气水合物通常要求水深在 $3 0 0 { \sim } 4 0 0 0 \mathrm { m }$ 、温度在$2 . 5 { \sim } 2 5 ^ { \circ } \mathrm { C } _ { \times } ^ { \ J }$ 之间。而对天然气水合物的分布进行精确预测则需要考虑热流及地温场条件。天然气水合物成藏与地温场的联系来源于天然气水合物的相变发生条件。在有充足甲烷气体供给的情况下，天然气水合物能否在地层中形成并稳定存在是由可满足水合物热力学性质的地层温度和压力的前提条件决定的。目前，在大量实验与理论计算的基础上，甲烷-水-天然气水合物体系的发生相变的物理条件（温度、压力等）及相边界温压方程已经基本清楚[]。我们把满足天然气水合物形成的温度、压力条件的地层深度范围称为水合物稳定带。作为相变边界，水合物稳定带底界（BHSZ）受温度及压力条件的严格控制。另外值得注意的是，由于地层中天然气水合物底界附近岩石物理弹性性质的变化，与BHSZ相对应，在反射地震勘探剖面上可以观测到一较为明显的、代表含水合物的沉积物与下伏不含水合物之间的声反射界面，即似海底反射层（BSR）[2I3]。鉴于天然气水合物与地温场的联系，一方面，我们可以用海底实测热流对天然气水合物稳定带底界深度进行预测，为天然气水合物勘探及资源评价提供部分依据；而另一方面，可以利用BSR计算得到的地温梯度或热流数据。这些数据可以在边缘海盆地、俯冲带构造热体制、及含油气盆地的烃原岩成熟度模拟等研究中进行应用。
+
+Yamano 等(1982)[4首次利用天然气水合物稳定带底界严格受温压控制的原理，使用BSR 的深度，在估计热导率随深度关系的基础上，成功进行了日本南海海槽、中美洲周边及布莱克外脊的热流值的计算，结果表明其计算可与传统方法测量热流值对比。其后，世界各国众多研究者利用此原理在世界各边缘海盆地使用BSR计算海底热流或使用海底实测热流预测天然气水合物稳定带的底界深度[5][][][][][0][I][2][13][4][1]在国内，研究者们也利用此原理对我国主要海域的天然气水合物稳定带底界分布或 BSR 热流进行了预测[16]-[32][3][34]。其中，He 等(2009)[34]与张毅等(2009)[29][35]，着重解释了南海北部部分地区天然气水合物稳定带底界与 BSR不一致现象。另外值得注意的是，在海底有显著地形起伏的地带，由地表热流数据计算 BHSZ时或由BSR 深度计算热流时需要考虑地形的热折射效应[36]。
+
+天然气水合物成藏另外一个重要的条件是甲烷供给量。甲烷供给量是否充足决定天然气水合物能否在稳定带中形成。基于在布莱克海脊钻探(ODP164次)成果,Xu和Ruppel(1999)[37]给出了考虑甲烷供给量的水合物成藏解析模型。他们的模型引起了较大的反响，主要贡献在于：1.通过比较甲烷-水合物-水溶解度曲线与流体中甲烷饱和度,提出了甲烷水合物生成带，并分析了生成带与稳定带的关系，指出生成带底界可以与稳定带底界或游离气顶界不一致，从而解释 BSR与水合物稳定带底界（BHSZ）不一致的现象；2．从渗流角度论述了扩散型水合物与渗流型水合物成藏的不同时间尺度、饱和度及产状等。而后，Davie 和 Bufet (2001)[38]的一维模型则着重考虑了沉积物中有机碳含量对生物生产甲烷的约束，并考虑了沉积压实对流体对流传质的影响，认为沉积速率、有机质的数量与质量、生物产气率等参数比较重要。他们的模型成功解释了BlakeRidge（ODP164航次）的孔隙水氯离子纵向分布，并认为此地水合物的饱和度不可能大于 $7 \%$ 。在此模型基础上，Davie and Buffet(2003)[39],[40]后来又进一步定量模拟分析了甲烷通量与硫酸盐还原带（SRZ）之间的关系，认为原地生物生成甲烷起着很大的作用。Gering（2003）[41I关注到沉积压实对孔隙流体压力的作用及对流体对流传质的影响。他的模型考虑了沉积压实过程中的甲烷生成、传质、传热，并认为沉积压实产生的超压会改变地层的热力学条件使得游离气转化为水合物。He 等(2006)[42]则在 Xu 和 Ruppel(1999)方程格架的基础上，首次建立考虑甲烷水合物成藏演化的瞬时二维多相流模型。通过模拟不同热流、流体通量及甲烷通量等情形下，水合物的成藏特征，成功解释Nankai增生楔的水合物和BSR 空间分布样式。Liu 和 Flemings（2007）[43]建立了二维多相、多组分瞬态渗流模型，着重考虑了溶质中盐的分布对水合物热力学平衡的影响，进而影响地层中水合物的分布和气体的运移；成功解释Hydrate Ridge 的游离气在水合物稳定带内部至海底的渗漏现象及水合物饱和度分布样式。另外，也有一些研究针对我国南海北部陆坡的天然气水合物，开展了成藏数值模拟[44][48]。例如 Guan 等(2009)[44使用了一维多相流瞬态模型对南海北部神狐的天然气水合物成藏进行了模拟研究。他们的模拟中假设对流起主导型作用，而忽略扩散作用。何丽娟等(2011)[48考虑了地层中存在流体通道的情形下水合物的生长与聚集。苏正等(2014)[45的成藏模型则认为神狐海域天然气水合物形成演化受断裂体系及细粒沉积物的二元控制。
+
+上述有关天然气水合物稳定带或者生成带的讨论，大多考虑的是静态的地温场，即不考虑地层框架的变化对温度场的影响或者假设已经温度场已经处于平衡稳定状态。而在天然气水合物与地温场及热流条件的相关研究中，越来越多的勘探实例表明，由于天然气水合物在海底赋存深度较浅，天然气水合物成藏系统的演化与动态的地温场及流体活动相关。在动态的地温场情况下，天然气水合物稳定带内的水合物会随着温度场的变化而调整、分解、迁移及生成。例如，沉积或侵蚀过程中温压条件的变化可以对天然气水合物赋存产生影响[49],地层中的特殊构造及流体通道（如断层、泥底辟或海底火山等）可以对地热场，气源供给产生影响进而对天然气水合物成藏进行影响[50][51]。在温度场随沉积或侵蚀过程而快速变化的情况下，在地层中有可能产生双BSR[52]或由于HSZ 遭受破坏而 BSR 消失的现象。例如，Foucher等（2002）[53]根据地震勘探在 Nankai 陆坡发现了双BSR，指出在 Nankai 陆坡较浅的 BSR 为正常 BSR，与BHSZ 深度一致；而较深的BSR 是残留古BSR，可能由海底温度升高或构造抬升等机制造成，另外，动态变化的地温梯度对甲烷在海水中溶解度也有着重要的影响，Haacke等（2008）[54分析世界上主动大陆边缘与被动大陆边缘各天然气水合物赋存区的BSR下方游离气厚度时，认为在地温梯度控制下的溶解度随深度变化关系起着关键作用。
+
+南海北部陆坡是我国目前海域天然气水合物勘探的主要阵地。广州海洋地质调查局先后于2007年及 2013年在南海神狐及珠江口盆地东部海域成功进行了水合物钻探取样[5]-[57]。从地质背景来看，南海北部陆坡大部分区域更、全新世沉积速率较高。此外，值得注意的是神狐天然气水合物钻探区以及南海北部其他海域的部分地区发育有有大量滑塌，搬运沉积及海底冲蚀谷[58]-[63]。如上所述，这些快速沉积或冲蚀现象可以对地温场产生动态的影响，进而对天然气水合物的形成与赋存产生重要影响。然而目前注意到这些问题的研究相对较少，要厘清这些问题，需要针对发生动态地温场变化的地层，进行水合物成藏的数值模拟。本文将结合南海北部陆坡的实际地质情况，给出两个示意性成藏模拟案例，其一是快速沉积的情形，其二是快速侵蚀作用下、地形产生冲蚀谷时的情形。通过这两个案例我们将讨论地温场发生动态调整对天然气水合物在地层中聚集、分解、及赋存产状产生的影响。
+
+# 1天然气水合物成藏模拟的数学模型
+
+针对南海北部的天然气水合物系统，我们在任意拉格朗日欧拉（ALE）参考坐标下建立了以温度场、流体场、压力场及甲烷溶质传输等随沉积或侵蚀过程变化的瞬态天然气水合物成藏演化数值模型。本文中成藏模拟假定在天然气水合物成藏过程中，多相流 (气、水)的渗流可以用达西定律描述。甲烷在水中溶解度可以表达为温度与压力的函数，使用Lu 等(2008）[64]根据实验结果所给出的方程。甲烷-水-水合物相方程使用Dickens 和 Quinby-Hunt(1994）[65提出的海水中甲烷水合物稳定边界曲线方程。由液相中的甲烷含量建立甲烷溶质守恒方程，甲烷溶质在水合物相、气、水溶液中的进出对系统溶质守恒的影响用溶质传输方程的源项来表示。用一常微分方程来追踪水合物空间分布随时间的变化，并使用网格移动法来表示沉积加载或侵蚀过程，实现模型随时间的空间变化，而其他场的变化（传热、对流及天然气水合物形成和分解等）也都外在的发生在此空间。各主要模型控制方程如下。
+
+动量守恒方程
+
+气相： $\frac { \phi \hat { \sigma } S e _ { g } } { \hat { \sigma } t } + \nabla \cdot \left\{ \frac { - k k _ { r , g } } { \mu _ { g } } \nabla ( p _ { g } + \rho _ { g } g D ) \right\} = Q _ { g }$ (1)  
+水相： $\frac { \phi \mathcal { O } S e _ { _ w } } { \partial t } + \nabla \cdot \left\{ \frac { - k k _ { r , w } } { \mu _ { _ w } } \nabla ( p _ { _ w } + \rho _ { _ w } g D ) \right\} = Q _ { _ w }$ (2)  
+式中， $\phi$ 是孔隙度， $S e _ { g }$ （20 $S e _ { { } _ { w } }$ 是气、水相饱和度， $S e _ { \scriptscriptstyle w } + S e _ { \scriptscriptstyle g } = 1$ ， kabs 是地层的绝对渗透率，随水合物饱和度发生变化，kr.8 2 $k _ { r , w }$ 是气象和水相的相对渗透率， $D$ 表示重力方向矢量， $Q _ { g }$ （20和 $\boldsymbol { Q } _ { \boldsymbol { w } }$ 分别是气与水的源项。引入毛细压力 $p _ { c } = p _ { g } - p _ { w }$ ，上述方程变化格式后为：$\frac { C _ { p , w } \hat { \mathcal { O } } ( p _ { g } - p _ { w } ) } { \hat { \mathcal { O } } t } + \nabla \cdot \left\{ \frac { - k k _ { r , g } } { \mu _ { g } } \nabla ( p _ { g } + \rho _ { g } g D ) \right\} = Q _ { g }$ (3)  
+$\frac { C _ { p , w } \hat { \sigma } ( p _ { g } - p _ { w } ) } { \hat { \sigma } t } + \nabla \cdot \left\{ \frac { - k k _ { r , w } } { \mu _ { w } } \nabla ( p _ { w } + \rho _ { w } g D ) \right\} = Q _ { w }$ (4)  
+其中, $C _ { p , w } = - C _ { p , g } = \frac { \phi \hat { \sigma } S e _ { \omega } } { \hat { \sigma } p _ { c } }$ @p。，此为压力形式的两相流方程组。求解后，一方面得到各相压力及流速的空间分布，另一方面经计算后也可得到各相饱和度的空间分布。  
+溶质传输方程  
+$\frac { \partial ( \phi M \rho ) } { d t } + \nabla \cdot [ - \phi K _ { \mathrm { \rho } } \nabla M _ { \mathrm { \rho } } + \vec { q } _ { g } M _ { g } ] = \boldsymbol { Q } _ { m } + R _ { h } + R _ { g }$ (5)  
+式中， $M$ 为溶质质量分数， $K _ { \mathbf { \Omega } _ { m } }$ 为溶质扩散系数， $q _ { g }$ 为流体通量， $Q _ { m }$ 为甲烷溶质的源项，可以表达生物成因甲烷生成速率， R 表示由水合物生成、分解时带出、带进甲烷溶质的速率，R&表示游离气与水溶液之间甲烷的进出速率。
+
+传热方程
+
+$$
+\frac { \hat { \sigma } } { \hat { \sigma } t } [ \phi \rho H + ( 1 - \phi ) \rho _ { s } C _ { s } T ] + \nabla \cdot ( \vec { q } _ { w } H _ { w } + \vec { q } _ { g } H _ { g } + \vec { q } _ { h } H _ { h } ) = \nabla \cdot ( \lambda \nabla T ) + Q _ { e }
+$$
+
+式中，下缀 $S$ 表示是沉积层固体， $C$ 是热容， $H$ 是焓， $\lambda$ 是热导率。模拟时边界条件将模型上部边界 (海底）设为海底温度，底部边界条件设为热流。
+
+另外，渗透率随水合物饱和度变化关系使用的是Kumar 等 (2010)[根据实验研究得到的水合物在孔隙介质中渗透率的变化规律：
+
+$$
+k = k _ { 0 } ( 1 - S _ { h } ) ^ { 3 }
+$$
+
+# 2快速沉积的热效应及其对水合物成藏系统的影响
+
+# 2.1南海北部更、全新世的沉积速率
+
+南海北部陆坡大部分区域具有较高更、全新世沉积速率的地质背景。章伟艳等（2002)[67]研究认为玉木冰期冰后期（ $1 2 . 1 \ \mathrm { k . y . }$ 以来）的沉积速率为 $1 . 6 7 { - } 2 6 . 6 7 ~ \mathrm { c m / k . y } .$ 。黄维和汪品先(2006）[68]研究认为，在第四纪时，南海北部地区堆积速率突然加快，莺歌海盆地的沉积通量最高值达 100g.cm-2/k.y.以上，珠江口盆地和台西南盆地甚至中央海盆的沉积速率也大幅增加。邵磊等（2007）研究也表明发育在东沙群岛东南侧的高沉积速率堆积体，其 $1 2 \mathrm { k . y . }$ 以来的沉积速率高达 $9 7 \mathrm { c m } / \mathrm { k . y . }$ ，是南海目前所知沉积速率最高的海区。而ODP184次1144站钻孔也数据表明其全新世沉积速率也高达 81.9cm/k.y.,40.1k.y.以来平均沉积速率达14.7cm/.y,69]。而在神狐海域，更新世晚期的沉积速率达到 17.9-19.6 cm/k.y.，全新世的沉积速率为9.6-14.6cm/k.y.。2007天然气水合物钻探区的数据表明 SH1B、SH2B、SH5C、SH7B 四口钻孔更新世平均沉积速率分别为 4.818cm/k.y.、7.265cm/k.y.、6.08cm/k.y.和7.678cm/k.y.；SH1B、SH5C 和 SH7B孔上新世平均沉积速率约为2.62cm/k.y.、5.51cm/k.y.和3.67cm/k.y.;SH1B孔晚中新世沉积层的平均沉积速率大于5.82cm/k.y.，SH7B孔晚中新世沉积层的平均沉积速率约为4.49cm/k.y.。虽然各钻孔不同时代的沉积速率具有一定的差异，但总体上沉积速率都较高。Yu等（2014）[70认为本区域的快速沉积有利于天然气水合物的成藏。
+
+# 2.2快速沉积的热效应及其对水合物成藏系统的影响
+
+![](images/e0f1e83f5416701c0720f0ce09d9b49a92a8ba27b77681084fedca3af2ca857d.jpg)  
+图1沉积加载过程中温度场及天然气水合物成藏系统的演化示意:(a)加载前；(b)加载后 Fig.1 The schematic of the evolution of geothermal field and gas hydrate system before (a) and after (b) fast load of sedimentation.
+
+图1示意了快速沉积时对地温场及天然气水合物稳定带的影响。当快速沉积加载时，地层表面热流和浅部的地温梯度将显著变小（图2)，天然气水合物稳定带的厚度将增加。ODP184次1144站可能就是这样的案例，表面热流只有约 $2 1 \mathrm { m W } / \mathrm { m } 2$ ，大大低于南海北部其他站位的热流值。理论上，对于水深 $2 0 0 0 \mathrm { m }$ ，沉积速率为16cm/k.y， $0 . 2 \mathrm { M a }$ 后天然气水合物稳定带厚度将从 $2 9 3 \mathrm { m }$ 增至 $3 0 1 \mathrm { m }$ ；如果沉积速率为 $1 6 0 \mathrm { c m / k . y }$ ，0.2Ma后天然气水合物稳定带厚度将从 $2 9 3 \mathrm { m }$ 增至 $3 9 4 \mathrm { { m } _ { \odot } }$ ，而另一方面，在正常的被动大陆边缘盆地就地生物气转化速率下，当沉积速率较快时，虽然天然气水合物的稳定带厚度变大，但随着天然气水合物稳定带底界的随沉积物相对迁移，天然气水合物不断在天然气水合物稳定带底界分解，因此从长时间尺度看，天然气水合物的聚集带会主要集中在稳定带的底部，天然气水合物生成带反而变小。
+
+![](images/2838e803f10b1db39283a1be93575fe583a07c5ba4174afe9b6368c52c4ae71c.jpg)  
+图2 沉积速率为 $1 6 0 \mathrm { c m / k . y . }$ 下海底表面热流随时间的变化， Fig.2 Changes in surface heat flow at a sedimentation rate of $1 6 0 \ \mathrm { c m / k } .$ y
+
+# 2.3快速沉积对天然气水合物成藏影响的模拟结果与讨论
+
+2007 年南海北部神狐钻探结果显示钻孔中纵向上水合物层集中分布于水合物稳定带上部 $1 0 { \sim } 2 5 \mathrm { m }$ 的范围内[71],[72]。根据地质、地化等证据（如 SMI 深度较大）本区有可能为扩散型水合物[73]，甲烷供应量较小，但目前国际上普遍认为扩散型水合物藏的饱和度较低（低于 $12 \%$ )。而同时根据钻孔样品实测年龄计算所得的沉积速率也可达 $7 . 6 7 8 \mathrm { c m } / \mathrm { k } . ;$ y.的较高沉积速率。这里我们选取钻孔浅层 $5 . 0 5 \mathrm { c m } / \mathrm { k . y . }$ 作为典型的平均持续沉积速率。
+
+模拟显示，在不考虑沉积作用情况下，由于溶解甲烷含量达不到水合物稳定带底界的溶解度，因此将在水合物稳定带内部开始率先生成，然后逐渐向下生长，水合物饱和度呈上高下低分布。而在快速沉积作用下，天然气水合物稳定带将随着沉积过程中物质、温度以及压力的变化发生动态迁移，先前天然气水合物稳定带处的天然气水合物会分解为甲烷气，甲烷气再参与循环过程—向上运移。图3b的沉积速度为 $5 . 0 5 \mathrm { c m } / \mathrm { k . y . }$ ， $1 . 4 \mathrm { M a }$ 时的天然气水合物在地层中的生长形态；图3c为沉积速度为5.05cm/k.y.， $2 . 8 \mathrm { M a }$ 时的天然气水合物在地层中的生长形态。可以看出，先前生成的天然气水合物会逐渐随沉积作用迁移至调整后的天然气水合物稳定带底界处，导致饱和度较高的天然气水合物赋存的范围主要集中在天然气水合物稳定带的下部，呈薄条状（图3c)。这一点与神狐北部水合物主要出现在稳定带底部的钻探结果较吻合。
+
+![](images/eec0bd1748a21562550679e3bcc0b742febcb65dc6d7d02fe1a8f2fadf0fc6bd.jpg)
+
+a—不考虑沉积作用时的天然气水合物在地层中的生长形态（纵向2D 模型，箭头表示沉积，颜色表征天然气水合物的饱和度）；b—考虑沉积瞬态变化时,天然气水合物成藏系统随沉积演化模拟：沉积速度为 $5 . 0 5 \mathrm { c m } / \mathrm { k . y . }$ ， $1 . 4 \mathrm { M a }$ 时的天然气水合物在地层中的生长形态；c— $2 . 8 \mathrm { M a }$ 时的天然气水合物在地层中的生长形态。
+
+图3天然气水合物在地层中的生长形态模拟结果
+
+Fig.3 Simulation results of the evaluation of gas hydrate reservoir system.
+
+# 3冲蚀谷的热效应及其对水合物成藏系统的影响
+
+在南海北部陆坡部分地区，如在神狐北部、神狐西南部、东沙等海域，发育有大量的冲蚀谷-脊地貌。据 Zhu 等（2010）[58]研究在神狐北部 $4 5 0 { \cdot } 1 5 0 0 \mathrm { m }$ 水深处发育有17 道冲蚀谷，谷长约 $3 0 – 6 0 \mathrm { k m }$ ，宽约 $_ { 1 - 5 . 7 \mathrm { k m } }$ ，谷-脊起伏达 $5 0 { - } 3 0 0 \mathrm { m }$ (图4，图5)。在此之后，苏明等(2015)[61] Qiao 等(2015)[74] Zhou 等(2015)[75]对这些冲蚀谷的具体形态、地层沉积充填类型进行了研究。Zhu 等通过分析地震剖面认为冲蚀谷的发育及迁移与向东北迁移的洋流系统有关。另外可能也与珠江底流河道的物质输运或盆地内部构造有关。但无论冲蚀谷-脊的成因是什么，快速的沉积与侵蚀都会对局部的地温场及流体活动造成影响，进而影响着水合物成藏系统。勘探地震剖面表明（图5）在冲蚀谷处，受地层剥蚀的影响，BSR或天然气水合物稳定带将显著减薄，甚至消失。
+
+SW 500 冲蚀谷·发育区 30km BneeMMA
+
+![](images/ebdfb250c2e1f9093ce7f65d22f8fffd99145191f500b6a8118684ec602e91a3.jpg)  
+图4.神狐北部的冲蚀谷-脊地貌 (据Zhu等(2010)[58]修改）  
+Fig.4.The erosional canyon-ridges atNorthern Shenhu Area   
+图5具有典型冲蚀谷-脊地形的地震剖面  
+Fig.5.The seismic profile showing an erosional canyon
+
+使用前面介绍的成藏数值模拟模型，我们对侵蚀作用下天然气水合物的成藏演化做了示意性模拟。由于缺乏实际的侵蚀速率数据，模拟时，相对于长时间尺度的渗流及热传递过程，我们假设侵蚀谷的形成是一个快事件且侵蚀谷的规模较大（侵蚀深度达到原 BHSZ深度)。结果表明深达50-300 米的冲蚀谷的发育，一方面对局部的地温场产生了较大的改造作用(图6a),使得冲蚀谷发育处的等温面随着地层而下移，天然气水合物稳定带也相应下移，但由于温度的传递达到稳态需要一定的时间，因此天然气水合物稳定带的相对厚度会减薄，BSR 会变浅或消失，然后随着时间逐渐增厚。另外局部冲蚀同时会造成残留的沉积物脊上的温度下降，天然气水合物稳定带在这些地带会相对略微增厚。另一方面，侵蚀作用的直接后果就是破坏了被侵蚀区域原有的天然气水合物体系，使得侵蚀谷发育处的天然气水合物被底流带走或溶解、融化(图6b)。同时造成压力场发生变化，原本位于冲蚀谷发育区BSR 所在位置聚集的游离气将快速渗漏，残留脊下的游离气也有可能会洽着流体通道发生侧向泄漏而溢散而影响天然气水合物成藏，或在适当条件下形成渗漏型天然气水合物。然后随着时间的推移，经过相当长的时间天然气水合物在新的稳定带内逐渐重新生成(图6c-d)。在以扩散作用为主导的情况下，重新在天然气水合物底界处生成高丰度的天然气水合物需要较长的时间（ $\mathrm { \hbar \sim 1 M a ) }$ 。由于地质历史上神狐海域的冲蚀谷形成具有旋回式迁移特征，因此实际中判断天然气水合物的富矿点还需要考虑脊与谷的相对位置变化及岩性横向变化。
+
+![](images/aae059d85bace211fee2436eded37420898d315641721480057a42a3bb55ce2a.jpg)
+
+a—冲蚀谷发育后的温度场；b—冲蚀谷初始形成时原本存在的天然气水合物遭受破坏；c—冲蚀作用后随着时间的推移天然气水合物逐渐在新的稳定带内形成 $0 . 5 \mathbf { M a }$ 时；d—1Ma时。图6冲蚀谷发育对天然气水合物成藏的影响模拟。
+
+Fig. 6 The impact of the formation of erosional canyons on the gas hydrate system.
+
+# 4结论
+
+海洋沉积物中的天然气水合物的成藏与地温条件的变化紧密相关。本文中我们考虑南海北部陆坡地带广泛发育快速沉积与侵蚀的现实情况，通过用数值模型模拟了快速沉积及侵蚀作用时瞬态地温场变化对天然气水合物成藏的影响。结果显示，当快速沉积发生时，受控于地温梯度的变化，天然气水合物稳定带将增厚，其底界将随着热传递而上升；同时天然气水合物将不断在原稳定带底界分解，而后上移在新的稳定带底界处生成。长时间的快速沉积可能导致水合物主要富集在稳定带底界处。如果要在高沉积速率的地质背景下形成厚的或浅的天然气水合物生成范围，则需要在适当的构造、岩性条件，如断裂、断层、裂隙、砂岩透镜体、古礁体等。南海北部神狐、琼东南地区已发现由晚中新世以来的构造断层、裂隙、底辟，以及快速沉积压实、脱水导致的流体进而产生的多边形断层、底辟等构造-流体运移体系[76][71],[77][79]，这些构造-流体运移体系可能是南海北部渗漏型水合物发生的关键因素。本文的模型中，我们没有考虑沉积物的非均质性及流体通道等因素。这些因素有可能会导致水合物在局部高度富集或缺失，我们将在另文介绍。另外，与快速沉积作用相反的是，当快速侵蚀作用发生时，地温梯度将变大，天然气水合物稳定带的厚度将变薄，原来冲蚀谷处的水合物将被侵蚀作用破坏。而后，随着热平衡的发展，逐渐形成新的、类似于似海底反射层的稳定带底界。单纯考虑甲烷扩散作用下，高丰度水合物的形成需要较长的时间，相对而言位于脊下的水合物成藏较好，形成矿点的概率较大。
+
+# 参考文献
+
+[1] Sloan ED, Koh C. Clathrate hydrates of natural gases[M].Dekker, New York: CRC press. 2007.   
+[2] 宋海斌，张岭，江为为，等．海洋天然气水合物的地球物理研究(II：似海底反射[J]．地球 物理学进展,2003,18(2):182-187.   
+[3] 徐华宁，杨胜雄，郑晓东，等．南中国海神狐海域天然气水合物 地震识别及分布特征[J]．地 球物理学报,2010,53(7):1691-1698.   
+[4] Yamano M, Uyeda S,Aoki Y, Shipley TH. Estimates of heat flow derived from gas hydrates[J]. Geology,1982,10(7):339-343.   
+[5] Ashi J, Taira A.Thermal structure of the Nankai accretionary prism as inferred from the distribution of gas hydrate BSRs[J]. Geological Society of America Special Papers,1993,273:137-150.   
+[6] Hyndman RD,Davis EE.A mechanism for the formation of methane hydrate and seafloor bottom-simulating reflectors by vertical fluid expulsion[J]. Journal of Geophysical Research: Solid Earth,1992,97(B5):7025-7041.   
+[7] Rao YH. C-program for the calculation of gas hydrate stability zone thickness[J]. Computers & Geosciences,1999,25(6):705-707.   
+[8] Golmshtok AY,Duchkov AD,Hutchinson DR, et al. Heat flow and gas hydrates of the Baikal Rift Zone[J]. International Journal of Earth Sciences, 200o,89(2):193-211.   
+[9] Kaul N,Rosenberger A, Villinger H. Comparison of measured and BSR-derived heat flow values. Makran accretionary prism, Pakistan[J]. Marine Geology, 2000,164(1):37-51.   
+[10] Grevemeyer I, Diaz-Naveas JL,Ranero CR, et al. Heat flow over the descending Nazca plate in central Chile, 32 S to 41 S: Observations from ODP Leg 202 and the occurrence of natural gas hydrates[J]. Earth and Planetary Science Letters,2003,213(3):285-298.   
+[11] Milkov A V, Sassen R. Two-dimensional modeling of gas hydrate decomposition in the northwestern Gulf of Mexico: significance to global change assessment[J]. Glob Planet Change 2003,36(1):31-46.   
+[12] Vanneste M, Guidard S,Mienert J. Bottom-simulating reflections and geothermal gradients across the western Svalbard margin[J]. Terra Nova, 2005,17(6):510-516.   
+[13]Marcaillou B,Spence G, Collot J, etal. Thermal regime from bottom simulating reflectors along the north Ecuador-south Colombia margin: Relation to margin segmentation and great subduction earthquakes[J]. Journal of Geophysical Research: Solid Earth, 2006,111(B12),DOI: 10.1029/2005JB004239   
+[14]Shankar U, Sain K,Riedel M. Geothermal modeling for the base of gas hydrate stability zone and saturation of gas hydrate in the Krishna-Godavari Basin, eastern Indian margin[J]. Journal of the Geological Society of India,2012,79(2):199-209.   
+[15]Shankar U,Sain K, Riedel M. Assessment of gas hydrate stability zone and geothermal modeling of BSR in the Andaman Sea[J]. Journal of Asian Earth Sciences, 2014,79:358-365. 王力峰，梁金强，陆敬安，等．南海北部神狐海域天然气水合物钻探区地热分布[J]．南海地 质研究,2009,0:40-45. 徐行，李亚敏，罗贤虎，等．南海北部陆坡水合物勘探区典型站位不同类型热流对比[J]．地 球物理学报,2012,55(3):998-1006. 宋海斌，吴时国，江为为．南海东北部 973 剖面 BSR 及其热流特征[J]．地球物理学报, 2007,50(5):1508-1517. 金春爽，汪集肠．南海天然气水合物稳定带初探[J]．地质学报,2002,76(4):500-510. 金春爽，汪集旸，张光学．南海天然气水合物稳定带的影响因素[J]．矿床地质, 2005,24(4):388-397.   
+[21]王淑红，宋海斌，颜文，等．南海南部天然气水合物稳定带厚度及资源量估算[J].天然气工 业,2005,25 (8): 24-27. 方银霞，黎明碧，金翔龙，申屠海港．海底天然气水合物稳定带的特征分析[J]．海洋地质与 第四纪地质,2001,21(1):103-106.   
+[23]方银霞，申屠海港，金翔龙．冲绳海槽天然气水合物稳定带厚度的计算[J]．矿床地质, 2002,21(4):414-418. 葛倩，王家生，向华，等．南海天然气水合物稳定带厚度及资源量估算[J]．地球科学 中国地 质大学学报,2006,31(2):245-249.   
+[25］龚建明，陈建文，赵洪伟，等．天然气水合物稳定带顶底界线及厚度预测[J]．海洋地质动态, 2004,20(6):18-21. 陈多福，李绪宣，夏斌．南海琼东南盆地天然气水合物稳定域分布特征及资源预测．地球物 理学报,2004,47(3):483-489.   
+[27]王宏斌，梁劲，龚跃华，等．基于天然气水合物地震数据计算南海北部陆坡海底热流[J].现 代地质,2005,19(1):67-73. 王力锋，汪集肠．东海天然气水合物地热研究及其环境意义[J]．地学前缘,2006,13(1):15-20.   
+[29]张毅，何丽娟，徐行，等．南海北部神狐海域甲烷水合物 BHSZ 与 BSR 的比较研究[J]．地 球物理学进展,2009,24(1):183-194.   
+[30] 许威，邱楠生，孙长宇，等．南海天然气水合物稳定带厚度分布特征[J]．现代地质, 2010,24(3):467-473.   
+[31]何勇，苏正，吴能友．海底天然气水合物稳定带厚度的影响因素[J]．海洋地质前沿, 2012,28(5):43-47.   
+[32] 徐浩，雷新华，李鹏飞，等．海域天然气水合物稳定带厚度与其影响因素的半定量研究[J]. 现代地质,2013,27(6):1365-1372.   
+[33] Li L,Lei X, Zhang X, et al. Heat flow derived from BSR and its implications for gas hydrate stability zone in Shenhu Area of northern South China Sea[J]. Marine Geophysical Research, 2012,33(1):77-87.   
+[34]He L, Wang J, Xu X, et al. Disparity between measured and BSR heat flow in the Xisha Trough of the South China Sea and its implications for the methane hydrate[J]. Journal of Asian Earth Sciences,2009,34(6):771-780.   
+[35]Zhang Y,He L, Wang J,et al. Heat flow patern, base of methane hydrates stability zones and BSRs in Shenhu Area, northern South China Sea[J]. Acta Oceanologica Sinica,2O11,30(1):59- 67.   
+[36] 何涛，李洪林，邹长春.BSR 热流的三维地貌校正和流体汇聚探测[J]．应用地球物理, 2014,11(2):197-206.   
+[37] Xu W, Ruppel C. Predicting the occurrence,distribution, and evolution of methane gas hydrate in porous marine sediments[J]. Journal of Geophysical Research: Solid Earth,1999,104(B3):5081- 5095.   
+[38]Davie MK,Buffett BA. A numerical model for the formation of gas hydrate below the seafloor[J]. Journal of Geophysical Research: Solid Earth, 2001,106(B1):497-514.   
+[39] Davie MK,Buffett BA.A steady state model for marine hydrate formation: Constraints on methane supply from pore water sulfate profiles[J]. Journal of Geophysical Research: Solid Earth, 2003,108(B10), DOI: 10.1029/2002JB002300.   
+[40]Davie MK, Bufett BA. Sources of methane for marine gas hydrate: inferences from a comparison of observations and numerical models[J]. Earth and Planetary Science Letters,2003,206(1):51-63.   
+[41] Gering KL. Simulations of methane hydrate phenomena over geologic timescales. Part I: Effect of sediment compaction rates on methane hydrate and free gas accumulations[J]. Earth and Planetary Science Letters, 2003,206(1):65-81.   
+[42] He L,Matsubayashi O, Lei X. Methane hydrate accumulation model for the Central Nankai accretionary prism[J]. Marine Geology,2006,227(3):201-214.   
+[43]Liu X,Flemings PB. Dynamic multiphase flow model of hydrate formation in marine sediments[J]. Journal of Geophysical Research: Solid Earth, 2007,112(B3),DOI: 10.1029/2005JB004227.   
+[44]Guan J, Liang D, Wu N,et al. The methane hydrate formation and the resource estimate resulting from free gas migration in seeping seafloor hydrate stability zone[J]. Journal of Asian Earth Sciences, 2009,36(4):277-288.   
+[45]苏正，曹运诚，杨睿，等．南海北部神狐海域天然气水合物成藏模式研究[J]．地球物理学报， 2014,57(5):1664-1674.   
+[46] 苏正，曹运诚，杨睿，等．南海北部神狐海域天然气水合物成藏演化分析研究[J]．地球物理 学报,2012,55:1764-1774.   
+[47] 曹运诚，陈多福．海洋天然气水合物发育顶界的模拟计算[J]．地球物理学报,2014, 57(2):618-627.   
+[48]何丽娟，雷兴林，张毅．南海北部神狐海域天然气水合物形成聚集的数值模拟研究[J]．地球 物理学报,2011,54(5):1285-1292.   
+[49]Martin V, Henry P,Nouze H, et al. Erosion and sedimentation as processs controlling the BSR-derived heat flow on the Eastern Nankai margin[J]. Earth and Planetary Science Letters, 2004,222(1):131-144.   
+[50] Hornbach MJ, Saffer DM, Holbrook WS,et al. Three-dimensional seismic imaging of the Blake Ridge methane hydrate province: Evidence for large, concentrated zones of gas hydrate and morphologically driven advection[J]. Journal of Geophysical Research: Solid Earth 2008,113(B7), DOI: 10.1029/2007JB005392.   
+[51]王力峰，沙志彬，梁金强，等．晚期泥底辟控制作用导致神狐海域 SH5 钻位未获水合物的 分析[J]．现代地质,2010(3),24:450-456.   
+[52]宋海斌，江为为，张岭．海洋天然气水合物的地球物理研究 (IV)：双似海底反射[J]．地球物 理学进展,2003,18:497-502.   
+[53]Foucher J-P, Nouzé H,Henry P. Observation and tentative interpretation of a double BSR on the Nankai slope[J]. Marine Geology,2002,187(1):161-175.   
+[54]Haacke RR, Westbrook GK, Riley MS.Controls on the formation and stability of gas hydrate-related bottom-simulating reflectors (BSRs): A case study from the west Svalbard continental slope[J]. Journal of Geophysical Research: Solid Earth, 2008,113(B5), DOI: 10.1029/2007JB005200.   
+[55]张光学，梁金强，陆敬安，等．南海东北部陆坡天然气水合物藏特征[J].天然气工业, 2014,34(11):1-10.   
+[56]沙志彬，梁金强，苏丕波，等．珠江口盆地东部海域天然气水合物钻探结果及其成藏要素研 究[J]．地学前缘 2015,22(6):125-135.   
+[57]Zhang GX, Yang SX, Zhang M, et al. GMGS2 expedition investigates rich and complex gas hydrate environment in the South China Sea[J]. Fire Ice, 2O14,14:1-5.   
+[58]Zhu M, Graham S,Pang X,et al. Characteristics of migrating submarine canyons from the middle Miocene to present: implications for paleoceanographic circulation, northern South China Sea[J]. Marine and Petroleum Geology,2010,27(1):307-319.   
+[59] 张毅．南海北部陆坡天然气水合物成矿的地温场及成藏动力学初步研究[D]．北京：中国科 学院地质与地球物理研究所,2012.   
+[60] 吴时国，秦志亮，王大伟，等．南海北部陆坡块体搬运沉积体系的地震响应与成因机制[J]. 地球物理学报,2011,54(12):3184-3195.   
+[61] 苏明，沙志彬，乔少华，等．南海北部神狐海域天然气水合物钻探区第四纪以来的沉积演化 特征[J]．地球物理学报,2015,58(8):2975-2985.   
+[62]Ma B,Wu S,Sun Q,et al. The late Cenozoic deep-water channel system in the Baiyun Sag, Pearl River Mouth Basin: Development and tectonic effects[J]. Deep Sea Research Part II: Topical Studies in 0ceanography,2015,122:226-239.   
+[63]Li W,Alves TM, Wu S,et al. Recurrent slope failure and submarine channel incision as key factors controlling reservoir potential in the South China Sea (Qiongdongnan Basin, South Hainan Island) [J]. Marine and Petroleum Geology, 2015,64:17-30.   
+[64]Lu W, Chou IM, Burruss RC. Determination of methane concentrations in water in equilibrium with sI methane hydrate in the absence of a vapor phase by in situ Raman spectroscopy[J]. Geochimica et Cosmochimica Acta, 2008,72(2):412-422.   
+[65]Dickens GR, Quinby-Hunt MS. Methane hydrate stability in seawater[J]. Geophysical Research Letters,1994,21(19):2115-2118.   
+[66] Kumar A, Maini B,Bishnoi PR,et al. Experimental determination of permeability in the presence of hydrates and its effect on the dissociation characteristics of gas hydrates in porous media[J]. Journal of Petroleum Science and Engineering, 2010,70(1):114-122.   
+[67] 章伟艳，张富元，陈荣华，等．南海深水区晚更新世以来沉积速率，沉积通量与物质组成[J]. 沉积学报,2002,20(4):668-674.   
+[68] 黄维，汪品先．渐新世以来的南海沉积量及其分布[J]．中国科学 $D$ 辑地球科学, 2006,36(9):822-829.   
+[69] Wang P, Prell WL, Blum P. Proceedings of the Ocean Drilling Program， Initial Reports,184. Ocean Drilling Program, Texas A&M University, College Station, TX 77845-9547, USA.2000.   
+[70] Yu X,Wang J,Liang J, et al. Depositional characteristics and accumulation model of gas hydrates in northern South China Sea[J]. Marine and Petroleum Geology, 2O14,56:74-86.   
+[71] 吴能友，杨胜雄，王宏斌，等．南海北部陆坡神狐海域天然气水合物成藏的流体运移体系[J]. 地球物理学报,2009,52(6):1641-1650.   
+[72] Wang X, Hutchinson DR, Wu S, et al. Elevated gas hydrate saturation within silt and silty clay sediments in the Shenhu area, South China Sea. Journal of Geophysical Research: Solid Earth, 2011,116(B5)，DOI: 10.1029/2010JB007944.   
+[73]Wu N, Zhang H, Yang S, et al. Gas hydrate system of Shenhu area, northern South China Sea: geochemical results[J]. Journal of Geological Research, 2011,2011:1-10.   
+[74] Qiao S, Su M,Kuang Z, et al. Canyon-related undulation structures in the Shenhu area, northern South China Sea[J].Marine Geophysical Research,2015,36(2-3):243-252.   
+[75] Zhou W, Wang Y, Gao X, et al. Architecture, evolution history and controlling factors of the Baiyun submarine canyon system from the middle Miocene to Quaternary in the Pearl River Mouth Basin, northern South China Sea[J]. Marine and Petroleum Geology,2O15,67:389-407.   
+[76] Yang R, Su M, Qiao S,et al. Migration of methane associated with gas hydrates of the Shenhu Area, northern slope of South China Sea[J]. Marine Geophysical Research,2O15,36(2-3):253- 261.   
+[77] 王秀娟，吴时国，王大伟，等．琼东南盆地多边形断层在流体运移和天然气水合物成藏中的 作用[J]．石油地球物理勘探,2010,45(1):122-128.   
+[78] 吴时国，孙后良，董冬冬．深水盆地中多边形断层的几何特征与形成机制探讨[J]．地质力学 学报,2008,14(3):231-240.   
+[79] 梁金强，王宏斌，苏新，等．南海北部陆坡天然气水合物成藏条件及其控制因素[J].天然气 工业,2014,34(7):128-135.

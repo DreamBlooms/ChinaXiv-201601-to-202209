@@ -1,0 +1,100 @@
+# 基础研究
+
+# DNaseI对金黄色葡萄球菌生物膜形成的影响
+
+徐巧玲'，孙凤军²，冯 伟²，刘 晓³，刘亚巍}  
+1总参警卫局卫生保健处，北京 100017；2第三军医大学西南医院药剂科,重庆 400038；北京医院消化科,北京  
+100005
+
+摘要：目的 研究DNaseI对金黄色葡萄球菌生物膜形成的影响。方法采用分光光度计法检测金黄色葡萄球菌的生长曲线，菌落计数法分析金黄色葡萄球菌的粘附能力,96孔板结晶紫染色法检测金黄色葡萄球菌生物膜的形成。结果不同浓度DNase I对金黄色葡萄球菌的生长无影响，然而能显著抑制细菌生物膜的形成，并呈浓度依赖性。此外，DNaseI能抑制不同生长期金黄色葡萄球菌的粘附性。与抗菌药物和DNaseI单独应用相比，DNaseI和抗菌药物联合应用更能显著抑制和分解金黄色葡萄球菌成熟生物膜。结论DNaseI可以有效抑制金黄色葡萄球菌生物膜的形成，并能增强抗菌药物对金黄色葡萄球菌生物膜的抑制作用。
+
+关键词：金黄色葡萄球菌;DNaseI;生物膜；粘附；抑制作用
+
+# Effect of DNase I on biofilm formation of Staphylococcus aureus
+
+XUQiaolingl,SUNFengjun²,FENGWei²,LIUXiao,LIUYawei’ HealthDiisiofadeealtafepmntofeia;parmentfacyu TidMilitli
+
+Abstract:ObjectiveTostudytheefectofDNaseIonbiofilmformationof Staphylococcusaureus.MethodsThe growthcurveof S.aureus wasdetected using a spectrophotometer.The adhesion ofS.aureus was analyzed using flat colony counting method, and the biofilm formation was assyed using the 96-wellcrystal violet staining method.Results Exposure to different concentrationsof DNaseIdidnotobviouslyafectthegrowthof S.aureus butsignificantlyinhibit theformationof bacterial biofilms inadose-dependent manner.DNaseIinhibited the adhesionof S.aureus atdiferent growth stages.Whencombined withantibiotics,DNaseIresultedinasignificantdecreaseintheestablishedbioflmbiomass compared toantibioticsorDNase Iusedalone.ConclusionDNaseIcaneffectively inhibitbiofilmformationof S.aureus andenhance the inhibitoryeffectof antibiotics against S. aureus biofilms.
+
+Key words: Staphylococcus aureus; DNase I; biofilm; adhesion; inhibition
+
+金黄色葡萄球菌是全球医院感染的首要致病菌，也是社区感染的重要致病菌[1-2]。金黄色葡萄球菌即可引起皮肤软组织等局部化脓性感染，也可引起肺炎、脓毒症、败血症等全身性感染。形成生物膜的金黄色葡萄球菌具有高度的耐药性并能逃避免疫系统的攻击，其感染易慢性化并难于控制，目前已成为临床抗感染治疗的一大难题。DNaseI是一种特异性DNA水解酶，在 $\mathrm { C a } ^ { 2 + }$ 和$\mathbf { M } \mathbf { g } ^ { 2 + }$ 等二价金属存在的中性pH值条件下水解双链DNA生成5'磷酸末端和3'羟基末端[3]。有研究表明，DNaseI对铜绿假单胞菌、粪肠球菌、白色念珠菌等生物膜形成均具有抑制作用[46],然而是否可以抑制金黄色葡萄球菌生物膜形成尚未见报道。因此，本研究以金黄色葡萄球菌为研究对象，观察DNaseI对金黄色葡萄球菌的粘附和生物膜形成，以期为临床金黄色葡萄球菌生物膜引起的感染寻找一种新的治疗和预防措施。
+
+# 1 材料和方法
+
+1.1 实验材料
+
+1.1.1菌株 金黄色葡萄球菌标准菌株ATCC29213和临床菌株S100由西南医院国家药物临床试验机构保存菌株。  
+1.1.2抗菌药物氨苄西林、头孢噻、左氧氟沙星、亚胺培南和阿奇霉素购自中国食品药品检定研究院。  
+1.1.3试剂及设备 DNaseI(RNase free)购自TaKaRao血琼脂平板(重庆庞通医疗器械有限公司),TSB培养基(英国Oxoid),MH培养基(北京陆桥生物技术有限公司）；酶标仪(美国MD)。
+
+# 1.2 方法
+
+1.2.1DNaseI对金黄色葡萄球菌生长的影响 将培养过夜的金黄色葡萄球菌按 $1 \%$ 接种量接种于TSB培养基中， $3 7 \mathrm { ~ \textdegree ~ { ~ } } . 2 0 0 \mathrm { { ~ r / m i n } }$ 震荡培养 $2 4 \mathrm { h }$ 。取菌液1：1000接种于新鲜的TSB培养基。实验分为空白对照组和DNaseI处理组(DNaseI终浓度分别为50、100、$1 5 0 ~ \mathrm { U / m L }$ 。然后24孔培养板中分别加入 ${ 5 0 0 \mu \mathrm { L } }$ 菌液和 ${ 5 0 0 \mu \mathrm { L } }$ 不同浓度的DNaseI,每个样本3个复孔，用全波段酶标仪在 $\mathbf { A 6 0 0 } \mathbf { n m }$ 下测定其生长曲线。每 $2 \mathrm { ~ h ~ }$ 测定1次读数，测定周期为 $2 4 \mathrm { h } ,$
+
+1.2.2不同浓度DNaseI对金黄色葡萄球菌生物膜形成的影响生物膜形成能力分析采用96孔板结晶紫染色法。血琼脂平板转金黄色葡萄球菌过夜活化，挑单菌落于 $1 0 ~ \mathrm { m L }$ TSB肉汤摇菌 $2 4 \mathrm { h }$ ，菌液比浊稀释至0.5麦氏单位，再用TSB肉汤稀释100倍。实验分为空白对照组和DNaseI处理组(终浓度分别为20、40、60、80、$1 0 0 \mathrm { U / m L }$ )，每组设置3个复孔， $3 7 ~ \mathrm { ^ { \circ } C }$ 孵育 $2 4 \mathrm { h } _ { \odot }$ 。以每孔$2 0 0 ~ \mu \mathrm { L }$ PBS缓冲液轻柔冲洗两次，将96孔板倒置于通风阴凉处进行风干固定。固定 $2 4 \mathrm { h }$ 后，以每孔 $2 0 0 ~ \mu \mathrm { L }$ $1 \%$ 结晶紫溶液染色 $1 0 \mathrm { m i n }$ ,移除结晶紫溶液，并以流水冲洗96孔板至空白对照孔无明显颜色，再次倒置于通风阴凉处进行风干。风干后每孔加入 $1 0 0 \mu \mathrm { L } 3 0 \%$ 冰醋酸溶液充分溶解染色液，酶标仪 $5 9 0 \mathrm { n m }$ 处测定光密度。1.2.3DNaseI对金黄色葡萄球菌黏附性的影响将培养过夜的金黄色葡萄球菌稀释至0.5麦氏单位，再用TSB肉汤稀释100倍。然后在CLSM培养皿中加入 $1 ~ \mathrm { m L }$ 菌液和1mLDNaseI,使其DNaseI终浓度为 $1 0 0 ~ \mathrm { U / m L }$ 。空白对照组加入 $1 ~ \mathrm { m L }$ 菌液和1mLTSB培养基。每组设置3个复孔， $3 7 ~ \mathrm { ^ { \circ } C }$ 培养3、7、18h后，用无菌的PBS缓冲液洗3次，去除浮游菌。然后将PBS缓冲液加入CLSM培养皿中超声 $1 0 \mathrm { m i n }$ ,以使黏附的细胞脱落。最后将细胞悬浮液稀释到合适浓度，涂布于LB固体培养基上，$3 7 \ \mathrm { { ^ { \circ } C } }$ 培养 $2 4 \mathrm { h }$ 后计数。每个样本设置3个平行组，实验重复3次。
+
+1.2.4DNaseI和抗菌药物联合应用对金黄色葡萄球菌生物膜的影响抗菌药物对金黄色葡萄球菌的MIC检测采用微量肉汤稀释法。挑取过夜培养的菌落于 $3 { \sim } 5 ~ \mathrm { m L }$ 生理盐水校正浓度至0.5麦氏比浊标准，再用MH肉汤稀释1:100，使含菌量为 $1 0 ^ { 6 } \mathrm { C F U / m L }$ 。抗菌药物用MH肉汤2倍稀释成一系列浓度 $( 1 2 8 { \sim } 0 . 1 2 5 ~ \mathrm { \mu g / m L ) }$ 。然后每孔加 $1 0 0 ~ \mu \mathrm { L }$ 菌液和 $1 0 0 ~ \mu \mathrm { L }$ 系列浓度的抗菌药物，使得药物最终浓度为 $6 4 { \sim } 0 . 0 6 2 5 ~ \mathrm { \mu g / m L } \mathrm { \Omega }$ 。96孔板置 $3 7 \ \mathrm { { ^ { \circ } C } }$ 培养箱孵育24h后观察结果。
+
+将过夜培养的金黄色葡萄球菌稀释至0.5麦氏单位，再用TSB肉汤稀释100倍。然后在96孔板中加入$2 0 0 ~ \mu \mathrm { L }$ 菌液， $3 7 ~ \mathrm { ^ { \circ } C }$ 培养 $2 4 \mathrm { h }$ 后轻轻吸除浮游菌，无菌的PBS冲洗3次。然后分别在每个孔中加入 $2 0 0 ~ \mu \mathrm { L }$ 抗菌药物或 $2 0 0 ~ \mu \mathrm { L }$ DNaseI或 $2 0 0 ~ \mu \mathrm { L }$ 抗菌药物 $+$ DNaseI,使其抗菌药物的最终浓度为 $5 0 \times$ MIC，DNaseI的终浓度为 $1 0 0 ~ \mathrm { U / m L }$ 。空白对照组加入 $2 0 0 ~ \mu \mathrm { L }$ 新鲜TSB培养基。每组设置3个复孔， $3 7 ~ \mathrm { ^ { \circ } C }$ 培养 $2 4 \mathrm { ~ h ~ }$ 。用无菌的PBS缓冲液洗2次，去除浮游菌。然后96孔板倒置于通风阴凉处进行风干固定。固定 $2 4 \mathrm { h }$ 后，以每孔 $2 0 0 ~ \mu \mathrm { L }$ $1 \%$ 结晶紫溶液染色 $1 0 \mathrm { m i n }$ ，移除结晶紫溶液，并以流水冲洗96孔板至空白对照孔无明显颜色，再次倒置于通风阴凉处进行风干。风干后每孔加入 $1 0 0 \mu \mathrm { L } 3 0 \%$ 冰醋酸溶液充分溶解染色液，酶标仪 $5 9 0 \mathrm { n m }$ 处测定光密度。1.2.5统计分析细菌粘附和生物膜形成的数据均以均数 $\stackrel { \cdot } { \pm }$ 标准差表示，细菌粘附和生物膜形成的差异性采用SPSS10.0软件进行 $\mathbf { \Phi } _ { t }$ 检验。 $P { < } 0 . 0 5$ 认为差异有统计学意义。
+
+# 2结果
+
+# 2.1DNaseI对金黄色葡萄球菌生长的影响
+
+DNaseI对金黄色葡萄球菌生长的影响如图1所示，在 $2 4 \mathrm { h }$ 生长周期内,3个浓度梯度的DNaseI对金黄色葡萄球菌的生长均无影响。
+
+![](images/1345538354ec902e1a458260d7ce2e01e274b4a6ab2af3e45df26ec80db198a3.jpg)  
+图1不同浓度DNaseI对金黄色葡萄球菌生长的影响Fig.1 Effect of different concentrations of DNase I on thegrowth of Staphylococcus aureus.A:S.aureus ATCC29213;B:S.aureus S100.
+
+# 2.2DNaseI对金黄色葡萄球菌生物膜形成的影响
+
+不同浓度DNaseI对金黄色葡萄球菌生物膜形成的影响如图2所示。5个浓度梯度的DNaseI对金黄色葡萄球菌生物膜形成均有抑制作用。随着DNaseI浓度增加，生物膜抑制作用越强。DNaseI在 $1 0 0 ~ \mathrm { U / m L }$ 浓度作用下，金黄色葡萄球菌ATCC29213生物膜形成能力降低 $45 \%$ ,S100生物膜形成能力降低 $3 3 \%$ 。
+
+# 2.3DNaseI对金黄色葡萄球菌黏附性的影响
+
+DNaseI对金黄色葡萄球菌黏附性的影响如图3所
+
+![](images/ea2d347e67b0d3f6814a1665e87dfdb9ab5695dc1614ec71f98026dfbbc432a8.jpg)  
+图2不同浓度DNaseI对金黄色葡萄球菌生物膜形成的影响Fig.2 Effect of different concentrations of DNase I on biofilmformation of Staphylococcus aureus.A:S.aureus ATCC29213;B:S.aureus S100.
+
+示，在所有考察的时间点，DNaseI处理组金黄色葡萄球菌ATCC29213和S100粘附细胞数显著低于空白对照组 $( P { < } 0 . 0 5 )$ ，降低比例为 $3 1 . 8 \% { \sim } 5 1 . 4 \%$ ○
+
+# 2.4DNaseI和抗菌药物联合应用对金黄色葡萄球菌生物膜的影响
+
+DNaseI和抗菌药物联合应用对金黄色葡萄球菌生物膜的影响如图4所示。与空白对照组相比，氨苄西林、头孢噻、左氧氟沙星和亚胺培南处理组金黄色葡萄球菌生物膜降低 $9 \% { \sim } 1 5 \%$ ,而抗菌药物与DNaseI联合应用后生物膜降低 $41 \% \sim 5 3 \%$ 。阿奇霉素处理组生物膜降低 $2 5 \%$ ，而联合应用组生物膜降低 $56 \%$ O
+
+# 3讨论
+
+细菌生物膜是细菌粘附至多种物质表面，通过释放多糖和蛋白形成含水基质包绕菌体而构成的具有立体结构的细胞群落，是细菌为了适应生存环境而形成的一种与浮游细胞相对应的存在形式[8]。临床上 $80 \%$ 的感染都和生物膜相关。生物膜细菌对抗机体免疫系统及产生耐药的最关键的机制在于细菌产生了大量的胞外基质，导致机体针对生物膜细菌的免疫应答能力下降、抗生素难以渗透，引起慢性持续性感染，当外界条件合适，生物膜可释放出游离细菌，使感染迁延难愈，给临床治疗带来很大困难。生物膜的胞外基质包括多糖、蛋白质、DNA等成分，胞外DNA对细菌生物膜的结构具有重要作用。有研究表明胞外DNA对多数种类的细菌生物膜形成具有促进作用，可影响生物膜的起始黏附和生物膜的成熟[9-2],这为对抗生物膜感染提供了新的靶点。本研究结果显示，不同浓度的DNaseI对金黄色葡萄球菌的生长几乎无抑制作用，但是可以抑制金黄色葡萄球菌的生物膜形成,并且抑制作用呈剂量依赖性。由于DNaseI不能渗透进人细菌体内，只能作用于细胞外，因此结果提示DNaseI的作用不在于抑制细菌的生长，而是通过破坏细菌胞外基质的胞外DNA影响生物膜的形成。此外，DNaseI可以显著抑制不同生长时期金黄色葡萄球菌的黏附性，表明金黄色葡萄球菌生物膜的形成需要胞外DNA，胞外DNA在细菌生物膜的形成过程中具有重要作用。
+
+![](images/e3e685ba1f90f87a80c2e3ddbbe0ac2cf59f52bdbea873465bd5263e4f8ed4df.jpg)  
+图3DNaseI对金黄色葡萄球菌黏附性的影响Fig.3 Effect of DNase I on the adhesion of Staphylococcusaureus.A:S.aureusATCC29213;B:S.aureus S100.
+
+由于抗生素对细菌生物膜的低渗透性和抗生素经胞外基质失活，因此能形成生物膜的细菌对抗生素不敏感[13-14]。此外,有研究表明 $1 0 ^ { 2 } { \sim } 1 0 ^ { 4 }$ MIC抗菌药物对细菌生物膜没有杀伤作用[15]。非抗生素制剂DNase由于能降低细菌的耐药选择性，因此我们推测DNase介导的生物膜相关细菌的释放可能提高抗生素的治疗效果。本研究中抗菌药物和DNaseI联合应用对金黄色葡萄球菌生物膜的影响结果显示，抗菌药物和DNaseI均能抑制金黄色葡萄球菌成熟生物膜，然而抗菌药物和DNaseI联合应用更能显著降低和分解已成熟形成的生物膜，这与其它细菌研究结果一致[16。结果提示DNaseI对胞外DNA的破坏导致胞外基质/胞外聚合物的降低，因此抗菌药物才能对生物膜的降低发挥更为有效的作用。本研究表明DNaseI对生物膜抑制作用效果突出，可以单独或与抗生素联合用于治疗和预防金黄色葡萄球菌引起的感染，然而本研究细菌较少且缺少相关的动物实验，因此DNaseI如何应用于临床有待于下一步的研究。此外，胞外DNA在生物膜的形成过程中及成熟生物膜都发挥着重要作用，但是胞外DNA对细菌生物膜的形成和稳固作用机制还不清楚，有待于进一步研究。
+
+# 参考文献：
+
+[1]Wertheim HF,Melles DC,Vos MC,etal.The role of nasal carriage inStaphylococcus aureus infections[J].Lancet Infect Dis,2005,5 (12): 751-62.   
+[2]Chambers HF,Deleo FR.Waves of resistance:Staphylococcus aureus in the antibiotic era[J].Nat Rev Microbiol,2OO9,7(9): 629-41.   
+[3]倪玉华,张建军,孙宝贵.DNA酶I的研究进展[J].国际病理科学与 临床杂志,2006,26(6):531-5.   
+[4]倪 明,余 冰,田德英,等.DNaseI对非黏液型和黏液型铜绿假单胞 菌生物膜的影响[J].华中科技大学学报:医学版,2007,36(6):776-9.   
+[5]许 颖,赵亮,闫磊,等.胞外DNA在根管粪肠球菌生物膜中作用的 研究[J].牙体牙髓牙周病学杂志,2008,18(12):669-72.   
+[6]许颖,刘亚男,赵亮,等.胞外DNA在根管白色念珠菌生物膜中作用 的研究[J].现代口腔医学杂志,2009,23(5):520-3.   
+[7]Wang Q, Sun FJ,Liu Y,et al. Enhancement of biofilm formation by subinhibitory concentrations of macrolides in icaADBC-positive and -negative clinical isolates of Staphylococcus epidermidis [J]. Antimicrob Agents Chemother,2010,54(6): 2707-11.   
+[8]Vo GD,Brindle E,Heys J.An experimentally validated immersed boundary model of fluid-biofilm interaction[J].Water Sci Technol, 2010,61(12):3033-40.   
+[9]Whitchurch CB,Tolker-Nielsen T,Ragas PC,et al.Extracellular DNA required for bacterial biofilm formation[J]. Science,2O02,295 (5559): 1487.   
+[10]Qin Z,Ou Y, Yang L,et al. Role of autolysin-mediated DNA release in biofilm formation of Staphylococcus epidermidis [J]. Microbiology,2007,153(Pt 7):2083-92.   
+[11]Lappann M,Claus H,van Alen T,et al.A dual role of extracellular DNA during biofilm formation of Neisseria meningitidis[J].Mol Microbiol,2010,75(6):1355-71.   
+[12]Harmsen M,Lappann M,Kngchel S,et al.Role of extracellular DNA during biofilm formation by Listeria monocytogenes[J].Appl Environ Microbiol,2010,76(7): 2271-9.   
+[13] Chambless JD,Hunt SM, Stewart PS.A three-dimensional computer model of four hypothetical mechanisms protecting biofilms from antimicrobials[J].Appl Environ Microbiol, 2006,72(3): 2005- 13.   
+[14]Chaw KC,Manimaran M,Tay FE.Role of Silver ions in destabilization of intermolecular adhesion forces measured by atomic force microscopy in Staphylococcus epidermidis biofilms [J]. Antimicrob Agents Chemother,2005,49(12):4853-9.   
+[15]Burton E, Gawande PV, Yakandawala N,et al.Antibiofilm activity of GlmU enzyme inhibitors against catheter-associated uropathogens[J].Antimicrob Agents Chemother,2006,50(5):1835-40.   
+[16]Hymes SR,Randis TM,Sun TY,etal.DNase inhibits Gardnerella vaginalis biofilms in vitro and in vivo[J].J Infect Dis,2O13,207 (10): 1491-7.
+
+![](images/a2b42bc0de51644a3e92cdf5b997b11edd6b2c8c3473578c3838f66e6fd4aeb5.jpg)  
+图4DNaseI和抗菌药物联合应用对金黄色葡萄球菌生物膜的 影响 Fig.4 Effect of DNase I combined with antibiotics on biofilm formation ofStaphylococcusaureus. A: Treatmentwith ampicillin,DNase ${ \mathrm { ~ I , ~ } }$ or both;B: Treatment with cefotaxime, DNase I, or both;C: Treatment with levofloxacin,DNase I,or both; $D$ ：Treatment with imipenem,DNase I,or both;E: Treatment with azithromycin, DNase I,or both.
+
+![](images/9034438f2edadfb74787e0053646674281861537bfa0ee033b2cef08a97e7d35.jpg)
+
+(编辑：孙昌朋)

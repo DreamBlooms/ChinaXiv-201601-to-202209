@@ -1,0 +1,284 @@
+[
+    {
+        "type": "text",
+        "text": "超亲水脉动热管液弹液膜沉积的实验研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郝婷婷，马学虎\\*，兰忠，郑旻昊（大连理工大学化学工程研究所，辽宁 大连116024)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文对紫铜板式脉动热管表面进行超亲水及亲水处理。通过高速摄像观测液弹脉动时界面三相线的演化过程，研究脉动热管界面的运动规律。实验结果表明液弹脉动过程中，由于液膜沉积的作用液弹尾部脉动热管壁面被一层液膜覆盖。沉积液膜的长度与液弹脉动速度和脉动热管表面润湿性能有关。随着表面润湿性能的提高，相同的加热功率下液膜沉积的长度增加。超亲水和亲水脉动热管液弹脉动的振幅和速度大于普通紫铜脉动热管。脉动热管的传热性能的大小取决于液弹脉动的剧烈程度。亲水表面脉动热管液弹脉动的振幅和速度增加，传热性能高于普通紫铜脉动热管。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：脉动热管；亲水；超亲水；液膜沉积 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：TK124文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experimental investigation of the effect of superhydrophilic surface on the liquid film deposition of a Pulsating Heat Pipe ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HAO Ting-Ting,MA Xue-Hu,LAN Zhong,ZHENG Min-Hao (Institute ofChemical Engineering,Dalian University of Technology, Dalian 116024, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this paper,a series of experiments were performed to investigate the efects of superhydrophilic and hydrophilic surface on the heat transfer performance for pulsating heat pipes (PHPs). The liquid film deposited length at the end of the slug and displacement of the slug were investigated in the paper. Experimental results showed that the liquid film deposited length increased with the decreasing ofsurface contact angles.The amplitude and velocity of the slug in the superhydrophilic and hydrophilic surface were higher than those in the copper PHP. The heat transfer performance of the hydrophilic PHP was higher than that of copper PHP due to the active movement of the slugs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: pulsating heat pipe (PHP); hydrophilic surface; superhydrophilic surface; liquid film deposition ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "脉动热管结构紧凑，加工简单，传热效率较高，在电子设备散热方面具有很大的应用前景。热量通过液弹振荡的显热和汽弹的相变传热两个方面进行传递，其中液弹振荡运动的显热传热所占的比率较高[]。可视化实验[2-5]研究结果表明随着加热功率的提高，脉动热管液弹脉动的位置，速度和频率增加。Qu 等[6]研究发现脉动热管薄液膜区域液膜厚度影响传热性能，由于不润湿表面薄液膜传热面积降低，不润湿表面脉动热管的传热系数小于润湿性表面。Dobson 和 Swanepoel[7]研究发现脉动热管部分壁面被一层液膜覆盖，液弹尾部液膜沉积的平均厚度主要取决于流体的表面张力。Nikolayev [8],Shao 和 Zhang[9] 理论研究了液弹汽弹界面处液膜厚度对脉动热管传热的影响。不考虑蒸发和冷凝的作用效果，液弹尾部液膜沉积的厚度和长度是液弹速度的函数： $\\delta _ { 0 } { \\sim } r \\mathrm { C a } ^ { 2 / 3 }$ 和 $L { \\sim } r \\mathrm { C a } ^ { 1 / 3 }$ (Landau-Levich液膜沉积[10)。本文对4弯管紫铜脉动热管进行超亲水及亲水处理，研究脉动热管液弹脉动过程中界面的特性，分析脉动热管自驱动振荡规律及传热性能的影响因素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1实验系统及表面制备 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验系统",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "实验装置由紫铜板脉动热管，加热系统，冷却水循环系统，数据采集系统及高速摄像组成，如图1所示。通过直流电源改变脉动热管的加热功率，伏安法测得脉动热管的输入功率。通过冷却水进出□温度及流量计算脉动热管的输出功率。脉动热管通过在紫铜板机械加工制成，弯管数为4，横截面尺寸为 $2 { \\times } 2 ~ \\mathrm { m m } ^ { 2 }$ ，加热段，绝热段和冷凝段的长度分别为 $2 8 ~ \\mathrm { m m }$ ， $4 2 ~ \\mathrm { m m }$ 和 $3 6 ~ \\mathrm { m m }$ ，如图2所示。脉动热管的盖板为聚碳酸酯板。脉动热管稳态运行时，高速摄像(Photron,FastcamApx-Rs）记录液弹脉动的位置及界面的特性，高速摄像记录的频率为100帧/秒。脉动热管的加热模式为垂直底部加热，冷却水的进口温度为 $2 5 { \\pm } 1 ^ { \\circ } \\mathrm { C }$ ，工作介质为去离子水，脉动热管的充液率为 $30 { \\pm } 5 \\%$ 。板式脉动热管的尺寸及热电偶的位置如图2所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d4758c7514ce8754bce4cf56c72a2b5fa29ddacdbc3d625c775d93f7232e4a6.jpg",
+        "img_caption": [
+            "图1实验流程示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/48ec86456eb0031f0ff33251d047331e882e77a07300d01a798c2dd05a544c7f.jpg",
+        "img_caption": [
+            "Fig.1 Schematic of the experimental setup ",
+            "图2脉动热管的尺寸及热电偶位置",
+            "Fig.2Dimensions and locations of thermocouples ofPHPs "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 表面制备",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表面接触角通过接触角测量仪(OCA200，德国)进行测量。静态接触角采用悬滴法测量，测试所用液体为去离子水，液滴体积为 $3 ~ \\mu \\mathrm { L }$ ，取10处不同位置下测量值的平均值。接触角仪器精度为 $\\pm 0 . 1 ^ { \\circ }$ 各表面的接触角如图3所示。紫铜板脉动热管通过稀硫酸，清洗剂进行清洗，去除表面的氧化物和油污，紫铜表面的平均接触角为 $7 3 . 4 ^ { \\mathrm { o } }$ 。超亲水表面的制备方法：紫铜板在 $2 . 5 ~ \\mathrm { m o l / L } \\mathrm { K O H }$ 和 $0 . 0 6 5 \\mathrm { m o l / L }$ $\\mathrm { K } _ { 2 } \\mathrm { S } _ { 2 } \\mathrm { O } _ { 8 }$ 的刻蚀液中刻蚀 $3 0 \\mathrm { m i n }$ ，刻蚀温度为 $7 0 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在铜板表面形成一层 $\\mathrm { C u O }$ 涂层， $\\mathrm { C u O }$ 涂层通过去离子水进行冲洗，并在烘箱中 $1 8 0 ^ { \\circ } \\mathrm { C }$ 加热 $3 0 ~ \\mathrm { m i n }$ 。液滴在超亲水表面迅速铺展，接触角为 $0 ^ { \\circ }$ 。亲水表面的制备方法：形成 $\\mathrm { C u O }$ 涂层的超亲水表面在稀硫酸中浸泡 $2 0 ~ \\mathrm { { m i n } }$ ， $\\mathrm { C u O }$ 涂层消失，表面只留下微小腐蚀坑结构，形成亲水表面，亲水表面的平均接触角为 $1 2 . 9 ^ { \\mathrm { ~ o ~ } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/dfc9b14094b91c535d7c63b28cd5a0fe65f884ff5e976241c9d899a3134531be.jpg",
+        "img_caption": [
+            "图3（a）紫铜，（b）超亲水和（c）亲水表面的静态接触角。 Fig.3 Contact angles on(a) copper,(b) superhydrophilic and (c) hydrophilic surfaces. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 实验结果与讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1可视化实验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图4，5和6分别为紫铜，超亲水和亲水表面脉动热管稳态运行时（加热功率为95W）液弹脉动过程中汽液界面三相线的演化过程。图中脉动热管界面呈凸界面时长度设为正值，脉动热管界面呈凹界面时长度设为负值。脉动热管液弹向下运动时，液弹尾部的壁面沉积一层液膜。从图中可以看出，三种亲水表面（紫铜 $7 4 . 3 ^ { \\mathrm { { \\scriptsize ~ 0 } } }$ ，超亲水： $0 ^ { \\circ }$ ，亲水： $1 2 . 9 ^ { \\mathrm { o } }$ ）液弹向下运动时，液弹尾部壁面沉积一层液膜，随着表面接触角的降低，液膜沉积的长度增加。紫铜，超亲水及亲水表面脉动热管液膜沉积长度的最大值分别为7.38，15.18和 $1 2 . 8 2 \\ \\mathrm { m m }$ 。与紫铜脉动热管相比，超亲水和亲水脉动热管液弹尾部液膜液膜沉积长度最大值分别增加了 $106 \\%$ 和 $74 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "汽液界面的可视化图片如图7所示。传热和传质区域主要集中在汽液界面的薄液膜处，Nikolayev[8] 的模型计算中，界面传热系数随着薄液膜长度的增加和液膜厚度的降低而增加。薄液膜区域变长则脉动热管的相变传热面积提高，传热性能提高。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6f988a5a75322d36759d5774c996126065f344be3bb268ffdfd8f8b6d4948ca.jpg",
+        "img_caption": [
+            "图4紫铜脉动热管液弹脉动及液膜沉积长度（加热功率：95W)"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/597941ef1b87f38126c3f29adcb5a82faf1e953b8d0ed6b22fdae1e3972ae591.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d054fbe7f0594c032a0a3367121ba8684adc61f92445bd1deebebc590eaac817.jpg",
+        "img_caption": [
+            "Fig.5 Slug movement and liquid film deposited length of superhydrophilic PHP (heat input: $9 5 ~ \\mathrm { W }$ ） ",
+            "图6亲水脉动热管液弹脉动及液膜沉积长度（加热功率：95W)",
+            "Fig.6 Slug movement and liquid film deposited length of hydrophilic PHP (heat input: 95 W) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图8和9为加热功率95W稳态运行阶段脉动热管液弹脉动的振幅和速度的变化。从图8中可以看出，紫铜，超亲水和亲水表面脉动热管液弹脉动的最大振幅分别为12.97，16.19和 $1 7 . 0 9 \\mathrm { m m }$ ，平均值分别为8.18，6.73和 $5 . 8 0 \\ \\mathrm { m m }$ 。从图9可以看出速度的最大值分别为0.52，0.88和 $1 . 0 5 \\ \\mathrm { m / s }$ ，平均值分别为0.17，0.18和 $0 . 1 8 \\mathrm { \\ m / s }$ 。相同加热功率下液弹脉动过程中液膜沉积的长度随着接触角的降低而增加。从稳态运行液弹脉动的最大振幅及速度可以看出，超亲水和亲水脉动热管液弹脉动的振幅和速度大于普通紫铜脉动热管。表面的接触角降低，壁面与汽弹之间存在一层液膜使液弹脉动过程的流动阻力降低[11]，液弹脉动的振幅和速度增加。其他实验条件下脉动热管的液弹脉动规律相同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7301920c64a2e65a44cc0b87be8c2fce1f8112e47db5662c468f6343b906495.jpg",
+        "img_caption": [
+            "Fig.4 Slug movement and liquid film deposited length of copper PHP (heat input: 95 W) ",
+            "图7（a）紫铜，（b）超亲水，和（c）亲水脉动热管液弹脉动气液界面的可视化图片（加热功率：95W)。Fig.7Photography of flow patterns in(a) copper OHPsuperhydrophilic OHP,and (c) hydrophilic OHP (heat input:"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/02ec05f0a38d9dfce5a6e53b6e459b30ce6fd60542e286dc31aedc68b8f81920.jpg",
+        "img_caption": [
+            "图5超亲水脉动热管液弹脉动及液膜沉积长度（加热功率：95W)",
+            "图8超亲水和亲水表面对液弹脉动位置的影响（加热功率：95W)",
+            "Fig.8Effect of superhydrophilic and hydrophilic surface on the slug position of the PHPs (heat input: $9 5 \\mathrm { ~ W ~ }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8d9f75471b00132fef135fae62b4c31b78fcbe95376e0828a58e23c9efb4d32.jpg",
+        "img_caption": [
+            "图9超亲水和亲水表面对液弹脉动速度的影响（加热功率：95W)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1传热性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "脉动热管的蒸发段，绝热段和冷凝段分别布置了4根热电偶，如图2所示。蒸发段和冷凝段平均壁面温度分别为 $T _ { \\mathrm { e } }$ 和 $T _ { \\mathrm { c } }$ 。脉动热管的加热功率为 $\\boldsymbol { \\mathcal { Q } }$ 热阻的计算公式为 $R { = } ( T _ { \\mathrm { e } } { - } T _ { \\mathrm { c } } ) / Q $ 。从图10可以看出，亲水表面脉动热管的传热性能优于普通紫铜脉动热管，热阻降低。而超亲水表面脉动热管传热性能下降。从稳态运行液弹脉动的振幅及速度(图8和9)可以看出，超亲水和亲水脉动热管液弹脉动的振幅和速度大于普通紫铜脉动热管。脉动热管的传热性能主要取决于液弹脉动的剧烈程度。但超亲水表面为氧化铜表面，微结构中滞留的液体使壁面热阻增加，总体传热性能小于普通紫铜表面脉动热管。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed4e3da73feaaf6a52e44ee018c4aceff8f423787d153db65d0c33c33b49234a.jpg",
+        "img_caption": [
+            "Fig.9Effect of superhydrophilic andhydrophilic surface on the slug velocity of the PHPs (heat input: $9 5 \\mathrm { W }$ ） ",
+            "图10亲水表面对脉动热管热阻的影响",
+            "Fig.1O Effect of superhydrophilic and hydrophilic surface on the thermal resistance of PHPs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验研究了脉动热管稳态运行时超亲水和亲水表面对液弹的脉动，液弹脉动过程中液弹尾部液膜沉积长度和传热性能的影响，结论如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）液弹尾部液膜沉积长度随着接触角的降低而增加。亲水壁面与汽弹之间存在一层液膜使液弹脉动运动阻力降低，液弹脉动的振幅和速度增加。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）脉动热管的传热性能取决于液弹脉动的剧烈程度。超亲水和亲水表面脉动热管液弹脉动的振幅和速度均增加，亲水脉动热管传热性能高于普通紫铜脉动热管。但超亲水表面为氧化铜表面，微结构中滞留的液体使脉动热管壁面热阻增加，总体传热性能小于普通紫铜表面脉动热管。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n[1]Zhang Y, Faghri A. Heat transfer in a pulsating heat pipe with open end [J]. International Journal of Heat and Mass Transfer, 2002,45(4): 755-764.   \n[2]Tong B Y, Wong T N, Ooi K T. Closed-loop pulsating heat pipe [J]. Applied Thermal Engineering，2001，21: 1845-1862.   \n[3]Khandekar S,Charoensawan P,Groll M,et al. Closed looppulsatingheatpipesPart B: visualizationand semi-empirical modeling [J]. Applied Thermal Engineering, 2003,23:2021-2033.   \n[4]Lin Z,Wang S,Huo J,et al.Heat transfer characteristics and LED heat sink application of aluminum plate oscillating heat pipes [J]. Applied Thermal Engineering，2011，31: 2221-2229.   \n[5]Borgmeyer B,Ma H B. Experimental investigation of Oscillating motions in a flat plate pulsating heat pipe [J]. Journal of thermophysics and heat transfer，2007,21(2): 405-409.   \n[6]Qu W, Luo X,Ai B. Theoretical analysis capillary flow and high performance pulsating heat pipes [C]. Proceedings of the 11th International Heat Pipe Symposium, China,2013. [7]DobsonRT, Swanepoel G. An Experimental Investigation of the Thickness of the Liquid-Film Deposited at the Trailing End of a Liquid Plug Moving in the Capillary Tube of a Pulsating Heat Pipe [J]. Frontiers in Heat Pipes, 2010, 1(1).   \n[8]Nikolayev V S. A dynamic film model of the Pulsating Heat Pipe [J]. Journal of Heat Transfer,2011,133: 081504. [9]Shao W,Zhang Y. Effects of Film Evaporation and Condensation on Oscillatory Flow and Heat Transfer in an Oscillating Heat Pipe [J]. Journal of Heat Transfer,2011,133: 042901.   \n[10] Maleki M, Reyssat M,Restagno F, et al. Landau-Levich menisci [J]. Journal of Colloid and Interface Science,2011, 354(1): 359-363.   \n[11] Rapolu P, Son S Y. Characterization of wettability effects on pressure drop of two-phase flow in microchannel [J]. Exp ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fluids,2011,51:1101-1108. ",
+        "page_idx": 3
+    }
+]

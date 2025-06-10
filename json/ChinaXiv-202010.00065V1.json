@@ -1,0 +1,295 @@
+[
+    {
+        "type": "text",
+        "text": "非常规高温超导电子配对机制 一过渡金属离子电子云的变化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周铁戈\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（南开大学电光学院，天津，300350）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文提出过渡金属离子电子云的变化是非常规高温超导中电子的配对媒介，这类似于晶格振动是常规超导中电子的配对媒介。采用 TDDFT方法的计算结果表明，过渡金属离子电子云振动的频率接近晶格振动频率，能够被自由电子激发。三种铜氧化物高温超导的计算结果表明，超导转变温度与电子云振动的频率高度相关。同时阐述了电子云变化与晶格振动的不同，电子云振动的特殊性能够解释非传统超导中电子的实空间配对、赝能隙、d波对称和同位素效应等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高温超导；非常规超导；电子配对机制分类号：0469",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Electron Pairing Mechanism in Unconventional ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Superconductors: Change of the Electron Clouds ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tiege Zhou (College of Electronic Information and Optical Engineering, Nankai University, 300350 Tianjin，P.R. China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The author proposed that the change of the electron clouds of the transition metal ions is the electron pairing medium in unconventional superconductors. This is just like the vibration of the lattice in conventional superconductors. The investigations with TDDFT methods show that the frequency of the change of the electron clouds of the transition metal ions is close to that of the lattice， so the change of the electron clouds can be excited by free electrons. Calculations of three copper oxide superconductors show that the higher the frequency the higher the transition temperature. The difference between the change of the electron clouds and the vibration of the lattice is also presented and the difference can explain the properties of unconventional superconductors， such as real space paring， pseudo energy gap， d symmetry and isotopy effects. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: high temperature superconductor; unconventional superconductor; electron pairing mechanism ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1、前言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1911年,Onnes[1]首次在4.2K在Hg金属中发现超导现象.1957年,Bardeen、Cooper 和 Schrieffer 三位科学家提出了著名的 BCS 理论[2][3]，圆满的解释了 Hg和 Pb一类超导体中的超导现象。在BCS 理论中，电子以晶格为媒介实现配对，BCS 理论预言由电子-晶格相互作用导致的超导电性，其临界温度不会超过40K。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，铜氧化物高温超导[4][5]和铁基超导[6][7]的发现严重挑战了BCS 理论，其转变温度超过40K。这说明电子-晶格相互作用已经不能解释非常规高温超导体中的电子配对问题。关于非常规高温超导电子的配对机制尚未达成共识，仍处于激烈的争论之中。Anderson8曾在 2007 年明确提出一个重要问题：铜氧高温超导中是否存在电子配对的媒介？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作者采用TDDFT方法对多种非常规高温超导进行了研究，首次提出过渡金属离子电子云的变化可以代替晶格振动作为电子配对的媒介，能够解释非常规高温超导的电子配对机制及其它特殊性质。本文将对此进行介绍。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2、过渡金属离子电子云的变化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作者对八种典型非常规超导（ $\\mathrm { F e _ { 2 } K S e _ { 2 } }$ 、 $\\mathrm { L a _ { 2 } F e _ { 2 } A s _ { 2 } O _ { 2 } }$ 、 $\\mathrm { N d _ { 2 } F e _ { 2 } A s _ { 2 } O _ { 2 } }$ 、 $\\mathrm { B a _ { 2 } F e _ { 4 } A s _ { 4 } }$ ，$\\mathrm { Y B a _ { 2 } C u _ { 3 } O _ { 7 } }$ 、 $\\mathrm { H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 9 } }$ 、 $\\mathrm { T 1 . 2 B a _ { 2 } C a C u _ { 2 } 0 _ { 8 } }$ 和 $\\mathrm { B i _ { 2 } S r _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 1 0 } } )$ 在静态电场作用下进行了研究，发现过渡金属离子的电子云都发生了明显的变化[9]。图1 给出了$\\mathrm { L a _ { 2 } F e _ { 2 } A s _ { 2 } O _ { 2 } }$ 晶体结构和有无电场时的电荷密度差，采用插入一个Li'离子的方式施加电场，详细计算方法和结果请参考文献[9]。可以看出 $\\mathrm { F e } ^ { 2 + }$ 离子周围电荷密度发生明显改变，有的地方增加，有的地方减小，具有明显的转动特征，而且形状类似于d轨道电子云，这是 $\\mathrm { F e } ^ { 2 + }$ 离子的电子云发生了变化。La、 $\\mathrm { A s } ^ { 3 ^ { - } }$ 和 $0 ^ { 2 ^ { - } } .$ 上并没有发现明显的电子云的变化，显示出 $\\mathrm { F e } ^ { 2 + }$ 离子电子云变化的特殊性。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c37ea8badbf177bc92e4a1458b0c71606486da723e2f89d8a2b99733d4863a4.jpg",
+        "img_caption": [
+            "图1（a) $\\mathrm { L a _ { 2 } F e _ { 2 } A s _ { 2 } O _ { 2 } }$ 的晶体结构，同时标出了插入的Li离子的位置；（b）插入Li前后电荷密度的变化，图中黄色表示电荷（电子）密度增加，蓝色表示电荷密度减小"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作者认为过渡金属离子电子云的变化可以作为超导电子的配对媒介。简单的物理图像是：当一个自由电子来到某个位置，附近过渡金属离子的电子云就会发生变化，使自由电子周围的非自由电子密度减少（这相当于出现正电荷)。当自由电子离开时，过渡金属离子的电子云不会极快的弛豫（后面会详细介绍采用",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TDDFT方法的计算结果)，这样就会吸引另外一个自由电子，从而在两个电子之间形成吸引力。这种机制从本质上说和电子-晶格相互作用一样，只是媒介由离子位移变为离子电子云的变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但是，根据波恩-奥本海默近似[1，由于电子的质量远小于原子核的质量，电子密度的变化相对于原子核的变化是非常快的。因而电子云可能极快弛豫，不能成为电子配对媒介。等价的说法是电子云的变化由于频率过高而不能够被自由电子激发。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但是，电子云的变化频率有没有可能出现违反波恩-奥本海默近似的情况，而接近晶格的变化频率呢？如果能，那么电子云的变化就可能作为电子的配对媒介。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了对此进行探索，作者采用TDDFT方法首次对多种非常规超导体进行了研究，具体研究对象、方法和结果请参考文献[11][12][13][14][15][16]。图2给出的是 $\\mathrm { L a _ { 2 } F e _ { 2 } A s _ { 2 } O _ { 2 } }$ 的结构和电荷密度随时间的演化，时间步长设定为 $0 . 0 0 2 \\hbar / \\mathrm { e V }$ 。可以看出 $\\mathrm { F e } ^ { 2 + }$ 离子的电子云变化随着步数的增加原来越明显，100步时，几乎看不到变化，而大约800步后电荷密度变化达到最大，对应的时间约为 $1 . 6 ~ \\hbar / \\mathrm { e V }$ 。考虑到这只是从0变成最大的时间，振动周期应该是 $4 \\times 1 . 6$ h/eV，频率约为$1 6 0 \\mathrm { m e V }$ 。其它离子的电子云未发生明显变化，这与图1的结果一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e1bf8347ced9c6fd42b71dea1c16f948c61ea0f8ad132231baad117c50c5250.jpg",
+        "img_caption": [
+            "图 $2 \\mathrm { \\ L a _ { 2 } F e _ { 2 } A s _ { 2 } O _ { 2 } }$ 的晶体结构及电荷密度随时间的演化"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1给出了三种典型的常规超导的最高晶格振动频率及超导转变温度。通过对比可以明显看出，Fe离子电子云的变化频率 $1 6 0 \\mathrm { m e V }$ 接近晶格振动频率，这完全违背波恩-奥本海默近似。说明电子云的变化能够被自由电子激发从而成为超导电子的配对媒介。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce4af9274d48c517fdc558b13d4994030e1e57e4078d4ae8e1563c08f64a09a2.jpg",
+        "table_caption": [
+            "表1典型常规超导体的最高晶格振动频率及临界温度，其中H3S 是在250GPa的超高压下"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Pb[17]</td><td>MgB2[17]</td><td>H3S[18]</td></tr><tr><td>ω /meV</td><td>9</td><td>90</td><td>250</td></tr><tr><td>Tc/K</td><td>7</td><td>39</td><td>164</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为什么过渡金属离子的电子云能够发生明显变化，而且变化频率接近晶格振动频率，而其它离子的电子云未能发生明显变化？这是因为 $\\mathrm { L a _ { 2 } F e _ { 2 } A s _ { 2 } O _ { 2 } }$ 中 $\\mathrm { F e } ^ { 2 + }$ 离子外层电子组态为 $\\mathrm { 3 d ^ { 6 } }$ ，3d壳层没有完全填充满。这样 $\\mathrm { F e } ^ { 2 + }$ 离子不具有球对称性，所以在电场影响下发生转动；等价的解释是Fe\"离子的3d轨道发生重组，电子重新填充，所以电子云发生变化。其它离子，由于具有满壳层，呈现球对称，虽然也能发生变化，但需要更大的电场强度，而且振动频率会远高于晶格振动频率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了铁基超导，作者还在铜氧化物超导和金属单质Nb 中观察到了同样的现象。图3给出的是Nb 电子云的变化，可以看到有三个Nb 原子的电子云发生明显变化，其变化频率约为 $1 6 0 ~ \\mathrm { m e V }$ （与 $\\mathrm { L a _ { 2 } F e _ { 2 } A s _ { 2 } O _ { 2 } }$ 的频率相同是巧合)。与Fe不同的一点是，Nb 是4d电子云，形状更为复杂。我们知道Nb 并不符合同位素效应，说明其中的超导电子配对媒介很可能也是电子云的变化而不是晶格振动。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7430297f09ea6990d347ef48d315c8c4d76add039fe40d7568b201cd82ae32fe.jpg",
+        "img_caption": [
+            "图3金属超导Nb的晶体结构以及电荷密度随时间的演化"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表1还可以看出，晶格振动的频率越高（频率不能过高，过高不能被自由电子激发)，超导的转变温度就越高。当然这只是近似，需要在其它参数近似一致的情况下才能成立。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "非常规超导体中的铜氧化物高温超导，都是以铜氧面作为核心，结构具有非常高的相似性，预期能够观察到电子云频率越高超导转变温度越高的近似关系。表2给出的是三种铜氧化物超导的临界温度和作者计算出的电子云变化频率。可以看出，确实存在近似关系，这有力的说明了电子云变化是非常规超导的电子配对媒介。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0403dc63e7fcc61923858ca62579d72001bfb2ff215673284af25fab3d6095ef.jpg",
+        "table_caption": [
+            "表2 三种铜氧化物超导的转变温度及作者计算得到的频率，LaCu0 给出的是 $\\mathrm { L a _ { 2 - x } S r _ { x } C u O _ { 4 } }$ （ $\\cdot { \\mathrm { x } } { = } 0 . 1 5$ ）的转变温度，LaCuO和 $\\mathrm { T 1 B a _ { 2 } C a C u _ { 2 } 0 _ { 7 } }$ 中作者观察到两种电子云的变化模式，具有不同的频率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>LaCuO</td><td>TlBaqCaCuzO7</td><td>HgBazCa2Cu3O8</td></tr><tr><td>T/K</td><td>38</td><td>91</td><td>133</td></tr><tr><td>ω/meV</td><td>36， 83[13]</td><td>140， 208[15]</td><td>250[11]</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3给出了作者计算的五种铁基超导的电子云的变化频率，计算对象是具有严格的化学配比的理想体系（实际超导体都是有掺杂的)。可以看出频率都接近晶格振动频率，但是没能观察到转变温度与频率的近似关系。这是因为铁基超导种类多，化学配比复杂，而且转变温度比较接近。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b52de21e9337871a2079c8435ecebc23d7957425b35162631ed69c7c2acce15.jpg",
+        "table_caption": [
+            "表3铁基超导的频率， $- 2 \\mathrm { e }$ 表示减少两个价电子，有的体系中观察到了多种振动模式，具有不同的频率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Iron based</td><td>ω/meV</td></tr><tr><td>LaOFeP</td><td>280</td></tr><tr><td>BaFe2AS2</td><td>150，160，250，200</td></tr><tr><td>La2Fe2As2O2</td><td>160</td></tr><tr><td>KFe4Se4-2e</td><td>250, 100</td></tr><tr><td>FeSe sheet</td><td>230, 90</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对比不同类型的超导的配对媒介的频率和转变温度，也具有一定意义。H3S是电声耦合的常规超导，在超高压下具有164K的转变温度，其最高的晶格振动频率为 $2 5 0 \\mathrm { m e V }$ ，而 $\\mathrm { H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 8 } }$ 的电子云变化频率恰好也是 $2 5 0 \\mathrm { m e V }$ ，其转变温度高达133K，两者都是转变温度很高，频率也很高，符合配对媒介频率越高则转变温度越高的预期。同时也给出了铜氧化物高温超导能够在常压下获得远超过40K转变温度的根本原因—一电子配对媒介（电子云变化）的频率高于常压下晶格振动的频率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总之，从频率角度考虑，过渡金属离子电子云的变化频率接近晶格振动频率，能够作为超导电子的配对媒介，而三种典型铜氧化物高温超导中观察到的电子云变化频率与转变温度高度相关是一个有力的证明。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3、电子云变化与晶格振动的不同之处",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "作为电子配对媒介，过渡金属离子电子云和晶格具有相近的振动频率，是它们相一致的地方。但是两者也存在重要的区别，这样才能解释非常规高温超导与常规超导的不同之处。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图1可以看出电子云的变化更像是一种转动，电荷密度有的地方增加，有的地方减小。当一个自由电子来到某个位置，其周围的非自由电子的密度会因电子云（也是非自由电子）的变化而减少，相当于出现正电荷（以下都用正电荷一词)。与晶格变化相比，电子云变化形成的正电荷区域更小，电荷更集中。当这个自由电子离开时，这个正电荷区域会对其它自由电子形成很强的吸引。但是同样由于电子云变化类似于转动，电荷有的地方增加有的地方减少，会对其自身形成的正电荷区域形成屏蔽，因而不能吸引距离更远的电子。所以电子云导致的电子之间的吸引力的特点是力很强，但却是短程的，而且可能具有方向性，因为有的方向屏蔽弱，有的方向屏蔽强。晶格振动却不是这样，晶格振动导致的正电荷区域很大（见图4)，对正电荷区域附近的电子的吸引力弱，但是不存在电子云变化导致的屏蔽作用，是长程力，能够吸引较远处的电子。这样一个区别就导致了非常规高温超导的特殊性质。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c18193a4f98f71e9b42f4f06eb723ee8ddc552aa64217c9da225893e9385b743.jpg",
+        "img_caption": [
+            "图4晶格变化导致电子相互吸引示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先对比超导金属单质Pb 和超导金属单质Nb，Pb 是能够用电子声子-相互作用圆满解释的常规超导，而Nb不符合同位素效应，不能用电子-声子相互作用得到圆满解释，作者认为电子云变化是Nb中电子配对的主要媒介。然而，Pb 的转变温度为7K，最高晶格频率9meV；而Nb的电子云变化频率160meV，频率远远高于Pb 的最高频率，但是转变温度仅9.2K，这是为什么？因为对于Nb，起作用的是4d轨道，电子云形状比3d电子云更复杂，在与自由电子相互作用中难于形成较大的正电荷区域，这样自由电子和电子云之间的耦合弱，所以转变温度低。高频率是高转变温度的必要条件，而非充分条件。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "重费米子超导，比如 $\\mathrm { C e C u _ { 2 } S i _ { 2 } }$ ， $\\mathrm { T _ { c } } { = } 0 . 6 \\mathrm { K } ^ { [ 1 9 ] }$ ，也能用电子云变化解释其中的电子配对，其中的电子配对媒介是 $4 f$ 电子云，电子云形状非常复杂，电子-电子云相互作用更弱，所以转变温度更低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "非常规高温超导中的超导电子的相干长度、实空间局域配对、應能隙和 $d$ 波对称等都可以利用电子云的变化作为电子配对媒介得到解释。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "常规超导中，超导电子对的相干长度在 $1 0 0 \\mathrm { n m }$ 量级，但是在非常规超导中，相干长度在1nm量级。这是由于电子云变化导致的自由电子之间的吸引力是短程的，超导电子对中两个电子的平均距离很短。金属单质超导体Nb 的相干长度为$3 8 \\mathrm { { n m } }$ ，相对于传统低温超导也很短，也能够证明电子云变化是Nb 的电子配对媒介。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2007年K．K．Gomes_[20]给出了非常规超导中电子实空间局域配对的图像，当温度在 $T _ { \\mathrm { c } }$ 以上仍然残留局域配对。同样因为是短程力，就只能吸引近处的电子，从而只能在实空间局域配对。对于非常规超导，当温度下降到一定程度，电子虽然已经开始配对，但是由于局域性很强，电子对很少时，不能形成相干态，因而不能出现宏观的超导态，所以在 $T _ { \\mathrm { c } }$ 以上就残留局域配对，从而形成應能隙。赝能隙在波矢空间的各向异性[21]以及超导电子对的 $d$ 波对称性[22]也来自于电子云的变化复杂性。因为，首先，具有不同波矢的电子对过渡金属离子的电子云变化的激发可能是不同的；其次，在形成正电荷区域后，由于屏蔽效应可能存在各向异性，对不同波矢的电子吸引就会不同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "最后简单说一下同位素效应，非常规超导的结构和成分更为复杂，原子种类更多，同位素效应非常复杂。在铜氧化物高温超导中，虽然电子-声子相互作用不能解释电子的配对问题，但是现有实验结果已经证明，声子对高温超导的电子配对存在重要的影响[23][24]。利用电子云的变化，这也是容易解释的。因为电子云变化的频率接近晶格振动频率，晶格的振动会极大影响电子云的变化，进而影响电子的配对，进而影响超导转变温度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4、结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作者提出电子云是类似于晶格的电子配对媒介，计算表明电子云变化频率与晶格振动频率接近，高于常压下的晶格振动频率，所以能够在常压下获得更高的转变温度。同时电子云的变化与晶格振动存在重要区别，其力是短程的，且有方向性，能够解释非常规超导的特殊现象。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "superconductors． D0I:10.13140/RG.2.2.17090.84160   \n[14] Tiege Zhou，Is There Glue in Cuprate Superconductors? The Change of the Electron Clouds of Ions D0I:10.13140/RG.2.2.20629.78561   \n[15] Tiege Zhou，Slow change of the electron clouds of ions:a common medium for electron pairing in LaOFeP,Nb and $\\mathrm { T l B a _ { 2 } C a C u _ { 2 } 0 _ { 7 } }$ DOI: 10.13140/RG.2.2.32188.18564   \n[16] Tiege Zhou， Possible new electron-pairing medium in superconductors:A TDDFT study of Nb，Nb&Ge，Pb and MgB2 DOI:10.13140/RG.2.2.17927.55208   \n[17] Poncé，S.，Margine，E.R.，Verdi，C.，Giustino，F.:EPW:Electron-phonon coupling, transport and superconducting properties using maximally localized Wannier functions. Comput．Phys．Commun．2016，209，116-133   \n[18] Durajski，A.P.， Szczesniak，R.: First-principles study of superconducting hydrogen sulfide at pressure up to 500 Gpa. Sci. Rep. 2017，7，4473   \n[19]F.Steglich，J.Aarts，C.D. Bredl，W. Lieke，D. Meschede，W. Franz and H. Schaefer, Phys.Rev.Lett.1979，43:1892.   \n[20] K.K. Gomes，et al，Visualizing pair formation on the atomic scale in the high-T c superconductor BizSrCaCuzO8+s. Nature 2007，447,569   \n[21] Kiyohisa Tanaka,W. S. Lee,D. H. Lu,A. Fujimori,T. Fujii,Risdiana,I. Terasaki. Distinct Fermi-Momentum-Dependent Energy Gaps in Deeply Underdoped Bi2212. Science2006:Vol.314, Issue 5807，pp.1910-1913D0I:10.1126/science.1133411   \n[22] Kirtley，J. R.；Tsuei，C. C.；Sun，J. Z.；Chi，C. C.；Yu-Jahnes，Lock See； Gupta，A.; Rupp，M.； Ketchen，M. B. (1995).\"Symmetry of the order parameter in the high-Tc   \nsuperconductor YBa2Cu307- δ\". Nature. 373 (6511): 225- 228   \n[23] Guo-meng Zhao，K Conder，H Keller and K A Muller,，Oxygen isotope effects in LaSrCuO:evidence for polaronic charge carriers and their condensation， Journal of Physics: Condensed Matter， Volume 10, Number 40   \n[24] J.P. Franck， Physical Properties of High Temperature Superconductors IV，Ed. D. M. Ginsberg，World Scientific，Singapore，1994，p. 189. ",
+        "page_idx": 7
+    }
+]

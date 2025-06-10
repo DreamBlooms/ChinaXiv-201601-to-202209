@@ -1,0 +1,145 @@
+[
+    {
+        "type": "text",
+        "text": "Fe-doped InN layers grown by molecular beam epitaxy ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xinqiang Wangl, Shitao Liu1, Dingyu $\\mathbf { M } \\mathbf { a } ^ { 1 }$ , Xiantong Zheng1, Guang Chen1,Fujun $\\mathrm { X u } ^ { 1 }$ ,Ning Tangl,Bo Shen1, Peng Zhang², Xingzhong $\\mathrm { C a o } ^ { 2 }$ , Baoyi Wang², Sen Huang³, Kevin J. Chen³, Shengqiang Zhou4, and AkihikoYoshikawa5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State Key Laboratory of Artificial Microstructure and Mesoscopic Physics， School of   \nPhysics, Peking University, Beijing 100871, China   \n2State Key Laboratory of Nuclear Analysis Techniques, Institute of High Energy Physics,   \nChinese Academy of Sciences,Beijing 1O0O49, China   \n3 Department of Electronic and Computer Engineering, The Hong Kong University of Science   \nand Technology,Hong Kong, China   \n4Institute of Ion Beam Physics and Materials Research, Helmholtz-Zentrum   \nDresden-Rossendorf (HZDR), O1314 Dresden, Germany   \n5Center for SMART Green Innovation Research, Chiba University, 1-33 Yayoi-cho, Inage-ku,   \nChiba 263-8522, Japan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Iron(Fe)-doped InN (InN:Fe) layers have been grown by molecular beam epitaxy. Unlike Fe in GaN, the Fe is found to be donor-like in InN. However, the Fe-concentrations $\\left( \\mathrm { [ F e ] } \\right)$ can't fully explain the drastic increase of residual electron concentration. Further analysis shows that more unintentionally doped impurities such as hydrogen and oxygen are incorporated with increasing [Fe] and the sample surface is degraded with a large number of pits, which probably are themain reasonsfor electrongeneration and mobility reduction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Photoluminescence of InN is also gradually quenched by Fe-doping. This work shows that Fe-doping is one of good choices to control electron density in InN. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "InN has atracted much research attention since it was experimentally confirmed to be a narrow band gap semiconductor in 20O2.1.2 This makes II-nitrides (InN-GaN-AIN) and their alloys to cover an extremely wide range of band gap energy from 6.2 to $0 . 6 5 \\mathrm { e V }$ by modifying group III-elements and their compositions.3.4 Thus, light emiting devices can extend to red and infrared region and I-nitrides also provide potential application in very high efficiency full-spectrum solar cell. However, the development of these devices is limited by poor quality of InN and In-rich InGaN. Epitaxy of InN and In-rich InGaN is very difficult due to the very low epitaxial temperature and the lack of matched substrate. Study of InN is also much less in comparison to that of GaN in many aspects. Iron(Fe)-doping of GaN (GaN:Fe） has been widely studied, where Fe has been reported to form a deep level, leading to semi-insulating layer.5-8 This becomes a common method to get commercially available semi-insulating GaN and to achieve high performance transistors based on AlGaN/GaN heterostructure.8.9 GaN:Fe has been also studied to get diluted magnetic nitride semiconductors, which may provide great applications in spin devices like spin-LEDs and spin-FETs.10.1 Unfortunately,Fe-doped InN has seldom been reported till now. In this leter, we report the epitaxial growth and properties of Fe-doped InN. Interestingly, the Fe is found to be donor-like in InN,where a very small amount of Fe leads to drastic increase of residual electron concentration $\\left( n _ { \\mathrm { e } } \\right)$ . This is quite different from that of GaN. We further found that the doped Fe concentrations could not fully explain the drastic increaseof $n _ { \\mathrm { e } }$ .Itissuggested that the incorporationof unintentionally-doped impurities such as hydrogen and oxygen is most likely the reason for the increased $n _ { \\mathrm { e } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "InN films were grown on sapphire substrate by molecular beam epitaxy (MBE). After thermal annealing， sapphire nitridation was performed and an AlN buffer layer with a thickness of about $2 0 \\mathrm { n m }$ was grown. Then, a high temperature GaN epilayer with a thickness of $6 0 0 \\ \\mathrm { n m }$ was deposited. A 50-nm-thick InN buffer layer and a 550-nm-thick InN:Fe layer were grown on the GaN epilayer in sequence, both at $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ ，Some InN:Fe layers were grownonMOCVD-grown-GaN/AlzO3templatewiththesamesequence，i.e. 50-nm-InN+550-nm-InN:Fe. All the InN and InN:Fe films are In-polarity.Fe atomic beam was supplied by conventional Knudsen cel where the cell temperature was varied from 950 to $1 1 8 0 ^ { \\circ } \\mathrm { C }$ $n _ { \\mathrm { e } }$ and mobility $\\left( \\mu _ { \\mathrm { e } } \\right)$ were measured by a Hall effect system with a magnetic field of 0.503 T at room temperature. Surface morphology was measured by atomic force microscopy (AFM). Crystalline quality was evaluated by using high resolution X-ray difraction (XRD). Secondary ion mass spectrometry (SIMS) measurements were performed using ion implanted samples as the standards for the quantification of Fe，hydrogen and oxygen. Positron annihilation was used to estimate the cation vacancies in the InN:Fe films, where $S$ parameter was defined as the number of annihilation events over the energy range of $5 1 1 ~ \\mathrm { k e V } \\pm \\Delta E _ { \\gamma }$ (where $\\Delta E _ { \\gamma } = 0 . 7 6 \\mathrm { k e V } )$ around the center of the peak. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The growth was in-situ monitored by reflection high-energy electron diffraction (RHEED). Streaky pattern was kept during the growth of AIN, GaN, InN and InN:Fe layers. Since PBN crucible was used in the effusion cell of Fe source, the temperature of Fe cell $( T _ { \\mathrm { F e } } )$ is limited below $1 2 0 0 ^ { \\circ } \\mathrm { C }$ to avoid the possible reaction between Fe and PBN. Under these cell temperatures,the beam flux of Fe should be very small and it is dificult to be detected by the beam flux monitor. In fact, the Fe concentration ([Fe]) in InN:Fe film grown at $T _ { \\mathrm { F e } } { = } 1 1 5 0 ^ { \\circ } \\mathrm { C }$ is about $1 0 ^ { 1 6 } \\ \\mathrm { c m } ^ { - 3 }$ ， which is actually just over the detection limitation of SIMS measurement while most of [Fe]s at lower $T _ { \\mathrm { F e } }$ are below the detection limitation. This indicates that the [Fe] is very small. And perhaps due to this small doping density, the RHEED patern does not show any diference between the InN buffer layer and InN:Fe layer,i.e. the same streaky pattern was kept during the growth. This is also true in the InN and InN:Fe layers grown on $\\mathrm { G a N / A l _ { 2 } O _ { 3 } }$ template.However，although the surface of InN:Fe is as flat as that of the undoped one，pits have been formed due to Fe doping.Figure 1 shows the surface morphology of InN and InN:Fe layers( $\\scriptstyle T _ { \\mathrm { F e } } = 1 1 8 0 ^ { \\circ } \\mathrm { C } ,$ grown on GaN/AlO3 template measured by AFM. Step-flow features are shown in both surfaces where the surface roughness (root mean square value) is about $0 . 7 \\mathrm { - } 0 . 8 ~ \\mathrm { n m }$ in $3 ~ { \\mu \\mathrm { m } } { \\times } 3 ~ { \\mu \\mathrm { m } }$ scanned area, which is typical for the In-polar InN.12 However, a large number of pits with a density around $1 0 ^ { 9 } \\mathrm { c m } ^ { - 2 }$ and several tens nm diameter are formed in InN:Fe. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows the full width at half maximum values (FWHM) of XRD o-scans for InN layers as a function of $T _ { \\mathrm { F e } }$ ，where @-scans of both (O02） symmetric and（102） asymmetric planes were performed. It is shown that the FWHM of (OO2) @-scans is increased from 500 arcsec to about 1OoO arcsec with increasing $T _ { \\mathrm { F e } }$ while those of(1O2） @-scans did not show clear tendency with values around 25OO arcsec. It is known that the broadening of(002) @-scan peak is related to threading dislocations with a screw component while that of (102) @-scan peak is related to threading dislocations with an edge component.13-15 Therefore, the screw component dislocation density increases with increasing $T _ { \\mathrm { F e } }$ while that of the edge component dislocation is not clearly influenced by the Fe doping. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "influenced by Fe doping. At $T _ { \\mathrm { F e } } { \\leq } 1 0 0 0 ^ { \\circ } \\mathrm { C }$ $n _ { \\mathrm { e } }$ and $\\mu _ { \\mathrm { e } }$ are almost independent of Fe doping, with values of $8 { \\times } 1 0 ^ { 1 7 } ~ \\mathrm { c m } ^ { - 3 }$ and $1 7 7 0 \\ \\mathrm { c m } ^ { 2 } / \\mathrm { V s }$ , respectively. These values are rather good for a 550-nm-thick InN layer. It is very interesting that $n _ { \\mathrm { e } }$ drastically increases from $8 { \\times } 1 0 ^ { 1 7 }$ to $1 . 2 { \\times } 1 0 ^ { 1 9 } \\mathrm { c m } ^ { - 3 }$ with increasing $T _ { \\mathrm { F e } }$ from $1 0 0 0 ^ { \\circ } \\mathrm { C }$ t0 $1 1 8 0 ^ { \\circ } \\mathrm { C }$ ，whereas $\\mu _ { \\mathrm { e } }$ decreases from 1770 to $1 2 3 0 ~ \\mathrm { c m ^ { 2 } / V s }$ . It looks that the doped Fe does not work as deep level as it acts in GaN but is donor-like.5-7 In the case of GaN:Fe,the $\\mathrm { F e } ^ { 3 + / 2 + }$ acceptor levels have been proposed to be located 2.6 and $3 . 1 7 \\ \\mathrm { e V }$ above the valence-band maximum,respectively.16,17 This looks different in the case of InN. However,even the Fe is donor-like in InN,the doped Fe itself could not supply so many electrons as shown in Fig. 3 since the [Fe] is quite small, about 3 orders in magnitude lower than the $n _ { \\mathrm { e } }$ provided that each Fe atom supply one free electron. It has been reported that threading dislocation is one of major contributors for free electrons in InN.15 From Fig. 2，we can see that the edge-component threading dislocation is almost independent of Fe doping，which is very similar to the case of GaN:Fe grown by metal-organic vapor phase epitaxy as reported previously.5 The density of screw-component threading dislocation is increased with Fe doping, where the generated value is estimated to be $1 . 2 { \\times } 1 0 ^ { 9 } ~ \\mathrm { c m } ^ { - 2 }$ for the InN:Fe at $T _ { \\mathrm { F e } } { = } 1 1 5 0 ^ { \\circ } \\mathrm { C }$ in comparison to that of undoped InN.15 This may provide free electrons with a density of $4 . 2 { \\times } 1 0 ^ { 1 6 } \\ \\mathrm { c m } ^ { - 3 }$ , provided that each dangling bond at the screw-component threading dislocations acts as a singly ionizable donor,i.e.every monolayer along each threading dislocations supply one free electron. This obviously could not fully explain the experimental observation since $n _ { \\mathrm { e } } { = } 5 . 3 { \\times } 1 0 ^ { 1 8 } \\mathrm { c m } ^ { - 3 }$ ， ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To further explore reasons for free electron generation， positron annihilation measurement was performed to investigate point defects.18,19 In positron annihilation measurement, $S$ and $W$ parameters were obtained from the the Doppler broadening spectra, where the $S$ parameter mainly reflects changes due to the annihilation of positron-electron pairs with a low-momentum distribution, and the W parameter mainly characterizes changes due to the annihilation of pairs with a high-momentum distribution. In general, the $S$ (W)is larger (smaller) for InN layers with higher (lower) density of vacancy-type defects. It should be noted that although the vacancy type defects like $V _ { \\mathrm { { I n } } }$ are acceptor-like and the isolated donor-like defect $V _ { \\mathrm { { N } } }$ could not be detected by positron annihilation in theory, the generation of $V _ { \\mathrm { { I n } } }$ is usually accompanied by that of $V _ { \\mathrm { N } }$ and thus we can roughly estimate the generation of $V _ { \\mathrm { { N } } }$ from that of $V _ { \\mathrm { { I n } } }$ . Previous study on either Si- or Mg-doped InN did show the enlargement of $S$ parameter with the increase number of free electron,which may due to the generation of $V _ { \\mathrm { { N } } }$ and/or ${ \\cal V } _ { \\mathrm { I n } ^ { - } } ( { \\cal V } _ { \\mathrm { N } } ) _ { \\mathrm { n } }$ complexes.19,20 Figure 4 shows $S$ parameter as a function of the incident positron energy $( E )$ for InN:Fe layers,where the signal between $0 { - } 1 5 \\mathrm { k e V }$ comes from the InN layer. The $S$ parameter as a function of $T _ { \\mathrm { F e } }$ is also shown in the inset,which is averaged over the $E$ of $5 { \\mathrm { - } } 1 5 \\mathrm { k e V }$ .It is shown that the $S$ parameter is about O.426 and does not show clear tendency with increasing $T _ { \\mathrm { F e } }$ . This indicates that the increase of $n _ { \\mathrm { e } }$ with $T _ { \\mathrm { F e } }$ may not be due to the generation of point defects such as $V _ { \\mathrm { { N } } }$ or ${ \\cal V } _ { \\mathrm { I n } ^ { - } } ( { \\cal V } _ { \\mathrm { N } } ) _ { \\mathrm { n } }$ complexes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Further analysis was turned to unintentionally doped impurities as hydrogen and oxygen, which are believed to be donors in InN.21 Figure 5 shows $[ \\mathrm { H } ]$ and [O] as a function of $T _ { \\mathrm { F e } }$ . It is shown that the [H] is roughly in the magnitude of one order higher than the [O] at each $T _ { \\mathrm { F e } }$ . And more hydrogen and oxygen are incorporated by Fe doping,where [H] and [O] gradually increase from $8 \\times 1 0 ^ { 1 7 }$ and $8 { \\times } 1 0 ^ { 1 6 } \\mathrm { c m } ^ { - 3 }$ to $3 . 3 { \\times } 1 0 ^ { 1 8 }$ and $4 . 1 { \\times } 1 0 ^ { 1 7 } \\mathrm { c m } ^ { - 3 }$ with increasing $T _ { \\mathrm { F e } }$ to1 $1 5 0 ^ { \\circ } \\mathrm { C }$ ，respectively. It is shown that dependence of the [H] or the $\\scriptstyle { [ { \\mathrm { H } } ] + [ { \\mathrm { O } } ] }$ on $T _ { \\mathrm { F e } }$ basically coincides with that of the $n _ { \\mathrm { e } }$ ，and the exact values of the $[ \\mathrm { H } ]$ or the $\\mathrm { [ H ] + [ O ] }$ are also very close to $n _ { \\mathrm { e } }$ as well. Therefore, the drastic increase of $n _ { \\mathrm { e } }$ is most likely due to that more hydrogen and oxygen are incorporated with increasing $T _ { \\mathrm { F e } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows photoluminescence (PL） spectra of InN and InN:Fe layers, measured at room temperature. Single emission peak was observed for all samples. The peak position locates at $0 . 6 4 ~ \\mathrm { e V }$ for undoped InN layer and then gradually blue-shifted to $0 . 6 8 \\ \\mathrm { e V }$ with increasing $T _ { \\mathrm { F e } }$ to $1 1 5 0 ^ { \\circ } \\mathrm { C }$ . This is mainly due to the Burstein-Moss effect where the Fermi level was up-shifted with increasing $n _ { \\mathrm { e } }$ as discussed above. As shown in Fig. 6(b)，PL intensity is gradually decreased with increasing $T _ { \\mathrm { F e } }$ ，where the intensity of InN:Fe at $T _ { \\mathrm { F e } } { = } 1 1 5 0 ^ { \\circ } \\mathrm { C }$ is about 2 orders in magnitude lower than that of the undoped one. The FWHM also becomes larger with increasing $T _ { \\mathrm { F e } }$ ，where it increases from 70 to $1 3 6 \\ \\mathrm { m e V }$ for the undoped InN and the InN:Fe with $T _ { \\mathrm { F e } } { = } 1 1 5 0 ^ { \\circ } \\mathrm { C }$ . The quenching or degradation of emission properties is very similar to those of Si-doped InN, which shows that Fe is similar to Si in the viewpoint of controlling the electron density of InN.22 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In summary，we have studied growth and properties of Fe-doped InN on sapphire substrate by MBE. It was found that the InN:Fe surface was kept flat as the undoped one except the generation of high density pits. The $n _ { \\mathrm { e } }$ was greatly increased by doping very small amount of Fe,accompanied by the reduction of electron mobility. This is most likely due to the incorporation of impurities such as hydrogen and oxygen.Photoluminescence of InN is also quenched by Fe doping. The properties of InN:Fe are very similar to those of InN:Si, which shows that Fe-doping is as effective as Si-doping to control electron density in InN. The effect of Fe-doping in InN is quite different from that in GaN,which may open great potential application for InN:Fe in spintronics since it is conductive while the GaN:Fe is semi-insulating. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Basic Research Program of China (No. 2012CB619306 and 2012CB619303), the National Natural Science Foundation of China (No. 11023003,10990102,11174008 and 61076012), the National High Technology Research & Development Project of China (No. 2011AA050514 and 2011AA03A103),and the Research Fund for the Doctoral Program of Higher Education. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1J. Wu and W. Walukiewicz, Superlattices Microstruct. 34, 63 (2003).   \n2V. Yu.Davydov,A. A. Klochikhin,R. P. Seisyan, V. V.Emtsev, S. V. Ivanov,F.Bechstedt, J. Furthmuller, H. Harima, A. V. Mudryi, J. Aderhold, O. Semchinova, and J. Graul, Phys. Status Solidi B 229,R1 (2001).   \n（204号 $^ 3 \\mathrm { X }$ . Wang and A. Yoshikawa, Prog. Cryst. Growth Charact. Mater. 48/49, 42 (2004).   \n4Y.Nanishi, Y. Saito,and T.Yamaguchi, Jpn.J. Appl. Phys.,Part1 42,2549(2003).   \n（20 $^ 5 { \\bf S } .$ Heikman, S. Keller, S.P. DenBaars,and U. K. Mishra, Appl. Phys.Lett.81,439 (2002). （204 $^ 6 \\mathrm { H }$ . Akinaga, S. Nemeth,J. De Boeck,L. Nistor, H. Bender, G. Borghs, H. Ofuchi, and M. Oshima, Appl. Phys. Lett. 77, 4377 (2000).   \n7S. Kuwabara, T. Kondo, T. Chikyow, P. Ahmet, and H. Munekata, Jpn. J. Appl. Phys. Part 2 40,L724 (2001).   \n8A.Y. Polyakov, N. B. Smirnov, A.V. Govorkov, T.G. Yugova, A.V. Markov, A.M. Dabiran, A.M. Wowchak, B. Cui, J. Xie, A.V. Osinsky, P.P. Chow, and S. J. Pearton, Appl. Phys. Lett. 92, 042110 (2008).   \n9W. Lee, J.H. Ryou, D. Yoo, J. Limb, R.D. Dupuis, D. Hanser, E. Preble, N.M. Williams,and K. Evans, Appl. Phys. Lett. 90, 093509 (2007).   \n10W.Pacuski， P. Kossacki，D. Ferrand，A. Golnik，J. Cibert，M. Wegscheider，A. Navarro-Quezada, A. Bonanni, M. Kiecana, M. Sawicki and T. Dietl, Phys. Rev. Lett. 100, 037204 (2008).   \n11G.M. Dalpian,J.L.F.Da Silva,and S.H. Wei,Phys.Rev.B 79,241201(R) (2009). 12X.Q. Wang, S.B. Chen, Y. Ishitani and A. Yoshikawa, Jpn. J. Appl. Phys. Part 2 letter 45 L730 (2006).   \n13V. Strikant, J. S.Speck,and D.R. Clarke, J. Appl. Phys.82, 4286 (1997).   \n（20 $^ { 1 4 } \\mathrm { H }$ . Heike,V.Kirchner, S.Einfeldt, and D.Hommel,Appl. Phys.Lett.77,2145 (2000).   \n15X.Q. Wang, S.B. Che, Y. Ishitani and A. Yoshikawa, Appl. Phys.Let.90,151901 (2007).   \n16J. Baur,K. Maier,M. Kunzer,U. Kaufmann,J. Schneider,H. Amano, I. Akasaki， T.   \nDetchprohm,and K. Hiramatsu, Appl. Phys. Lett. 64, 857 (1994).   \n17R. Heitz, P. Maxim,L. Eckey,P. Thurian,A. Hoffmann,I. Broser, K. Presel,and B. K.   \nMeyer, Phys. Rev. B 55, 4382 (1997).   \n18A. Uedono, S. Ishibashi, T. Watanabe, X.Q. Wang, S.T. Liu, G. Chen, L.W. Sang, M.   \nSumiya, and B. Shen,J. Appl. Phys.112, 014507 (2012).   \n19A.Uedono, H. Nakamori， K. Narita, J. Suzuki, X.Wang, S.B.Che, Y. Ishitani，A.   \nYoshikawa, and S. Ishibashi, J. Appl. Phys. 105, 054507 (2012).   \n20A. Uedono,S.F. Chichibu, M. Higashiwaki, T. Matsui, T. Ohdaira,and R. Suzuki,J. Appl.   \nPhys. 97, 043514 (2005).   \n（204 $^ { 2 1 } { \\bf C } . { \\bf S }$ ，Gallinat, G. Koblmuler，J.S.Brown，S. Bermardis,J. Speck，G.D. Chern，E.D.   \nReadinger, H. Shen, and M. Wraback, Appl. Phys. Let. 89, O32109 (2006).   \n（204号 $^ { 2 2 } \\mathbf { M }$ .Higashiwaki,T.Inushima,and T.Matsui, Phys. Stat.Sol.(b)240,417 (2003). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure Captions: ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FIG.1. (Color online） Surface morphologies of $\\mathrm { I n N }$ and InN:Fe layers measured by AFM. Scanned areas are both $3 \\mu \\mathrm { m } \\times 3 \\mu \\mathrm { m }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FIG.2. (Color online) Full width at half maximum (FWHM) values of XRD o-scans for (002) symmetric and (1O2) asymmetric planes of InN as a function of Fe cell temperature. Black solid squares-(OO2)； Blue solid circles-(lO2). Sample shown before break of x-axis is undoped InN. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FIG. 3.(Color online) Residual electron concentration (black solid squares) and Hall mobility (blue solid circles) of InN layers as a function of Fe cell temperature. Guide eye lines are also plotted. Undoped InN sample data are shown before the break of $\\mathbf { X }$ -axis for comparison. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FIG.4. (Color online) $S$ parameters of InN as a function of positron energy in positron annihilation measurement. Dependence of $S$ parameter on Fe cell temperature is shown in the inset. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FIG. 5.(Color online) Atomic concentration of hydrogen (red solid circles), oxygen (black solid squares) and their sum (green solid triangles) in InN:Fe layers as a function of Fe cell temperature. Residual electron concentrations (blue solid spheres） are also shown for comparison. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FIG. 6.(Color online) (a) PL spectra of undoped InN and InN:Fe films; (b) PL intensity as a function of Fe cell temperature;(c） PL peak energy (black open diamonds)and FWHMs (blue open circles) as a function of Fe cell temperature. ",
+        "page_idx": 11
+    }
+]

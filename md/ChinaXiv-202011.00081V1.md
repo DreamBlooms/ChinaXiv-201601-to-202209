@@ -1,0 +1,195 @@
+# 古尔班通古特沙漠南缘风沙土土壤水分特征与毛管水最大上升高度
+
+郑博文1,2,3,4,5, 胡顺军1,2.5， 周智彬1,3,4,5, 王泽锋1,2.5，李传金1,2,5
+
+（1中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011;2新疆阿克苏农田生态系统国家野外科学观测研究站,新疆阿克苏843000;3中国科学院新疆生态与地理研究所莫索湾沙漠研究站,新疆石河子832000;4中国科学院新疆生态与地理研究所塔克拉玛干沙漠研究站,新疆库尔勒841000;
+
+5中国科学院大学，北京100049)
+
+摘要：为确定古尔班通古特沙漠南缘地下水深埋区毛管上升水的最大上升高度,对划分固沙植物水分来源提供理论依据，于2016年3月～2018年11月，采用中子仪法对试验地 $0 \sim 1 0 \mathrm { m }$ 土层土壤含水量进行观测，分析沙丘不同坡位土壤含水量的季节变化情况，并利用最大分子持水量与土壤含水量曲线交会法确定试验地毛管水的最大上升高度。结果表明：沙丘不同坡位 $0 \sim 1 3 0 \mathrm { c m }$ 土层的土壤含水量受外界气象因素影响较大，随季节变化规律明显； $1 3 0 \mathrm { c m }$ 土层以下至 $5 7 0 \sim 7 6 0 \ \mathrm { c m }$ 土层为土壤含水量较为稳定的干沙层；而 $5 7 0 \sim 7 6 0 \mathrm { c m }$ 以下土层的土壤含水量主要受地下水水位波动和毛管上升水的影响，其含水量变化上界可看作是毛管水的最大上升高度。试验地的最大分子持水量为$0 . 0 2 6 1 \mathrm { c m } ^ { 3 } \cdot \mathrm { c m } ^ { - 3 }$ ，且沙丘不同坡位毛管水的最大上升高度分布在 $2 5 0 \sim 2 9 0 \mathrm { c m }$ 之间。
+
+关键词：最大分子持水量；毛管上升水；土壤含水量；土壤水分特征曲线文章编号： $1 0 0 0 - 6 0 6 0 \lfloor 2 0 2 0 \rfloor 0 4 - 1 0 5 9 - 0 8 \lfloor 1 0 5 9 \sim 1 0 6 6 )$
+
+在干旱、半干旱地区，水分是沙漠化地区植被恢复和沙地治理的制约因素，也是沙漠化地区生态环境的重要影响因子[]。毛管水是植物所需水分的主要来源之一[2],毛管上升水如果能到达沙生植物的根系活动层，就能使沙生植物和地下水产生联系，起到沟通地下水与沙生植物根层水分的桥梁作用[3]，可以为沙生植物利用地下水提供有利条件[2,4],使植物免受水分胁迫，维持其自然更新的能力，延续其固沙能力5，因此研究沙区毛管水的上升高度至关重要。
+
+目前测定毛管水上升高度常用的方法主要有毛管仪法[6-7]、土柱法[8-9]、整段标本法[6.10]、含水量分布曲线法[10-12]、试坑直接观测法[13-14]等。其中含水量分布曲线法包括塑限与含水量曲线交会法和最大分子持水量与含水量曲线交会法[1-12]。关于沙土毛管上升水，已有学者进行了一定研究。例如，贾大林等[5利用放射性 $ ^ { 1 3 1 } \mathrm { I }$ 研究了松沙土在$3 0 \sim 8 0 ~ \mathrm { c m }$ 等6种不同地下水埋深条件下的毛管水运行规律。魏进[16]、陈发明[17]、高玉生等[18]利用室内土柱法研究了地下水埋深为 $1 0 0 \sim 2 0 0 ~ \mathrm { c m }$ 间的风积沙土毛管上升水的运动特性。阚常庆研究了保水剂对沙质土毛管水上升特性的影响。栗现文等[20]、董荣泽等[21]研究了水质对沙质土毛管水上升特性的影响。但这些研究主要进行的是室内实验且设置的地下水埋深较浅，目前仍缺乏对地下水埋深在 $1 0 \mathrm { m }$ 左右的沙土毛管上升水上升高度的认识。
+
+本文在前人研究的基础上，以古尔班通古特沙漠南缘半固定沙丘为研究对象，在西坡脚、东坡脚和丘间地设置3个监测点， $0 \sim 1 0 \mathrm { m }$ 同步监测地下水埋深和非饱和带土壤含水率,利用最大分子持水量与土壤含水量曲线交会法研究风沙土毛管上升水的最大上升高度，以期为固沙植物的水分利用渠道识别提供理论依据。
+
+# 1研究区概况与方法
+
+# 1. 1 研究区概况
+
+研究区位于古尔班通古特沙漠南缘北沙窝试验场 $( 4 4 ^ { \circ } 2 2 . 6 3 ^ { \prime } \mathrm { ~ N } , 8 7 ^ { \circ } 5 5 . 2 1 ^ { \prime } \mathrm { ~ E ~ } )$ ，风沙地貌以树枝状沙垄为主，沙垄高度为 $5 \sim 7 ~ \mathrm { m }$ ，沙垄顶部有宽度 $1 \mathrm { m }$ 左右的平缓流沙带[22],西坡坡度为 $7 \sim 9 ^ { \circ }$ ,东坡坡度为 $1 5 \sim 1 9 ^ { \circ [ 2 3 ] }$ 。区域年平均气温 $6 . 6 ~ \mathrm { ^ { \circ } C }$ ,年降水量$1 0 0 \sim 1 5 0 ~ \mathrm { m m }$ ，稳定积雪日数 $1 0 0 \sim 1 6 0 \mathrm { ~ d ~ }$ ,最大积雪深度多在 $2 0 ~ \mathrm { c m }$ 以上[24]。土壤为典型沙漠风沙土,干容重 $1 . 5 4 \sim 1 . 6 5 ~ \mathrm { g } \cdot \mathrm { c m } ^ { \textrm { - 3 } }$ ;地下水埋深在 $8 \sim$ $1 0 \mathrm { ~ m } ^ { [ 2 3 ] }$ 。植被以梭梭(Haloxylon ammodendron）、白梭梭（Haloxylonpersicum)为主,另有蛇麻黄(Ephe-dradistachya）角果藜(Ceratocarpusarenarius）沙蒿（Artemisiadesertorum）及众多短命植物[25-27]
+
+# 1. 2 毛管水上升高度确定方法
+
+本文主要采用含水量分布曲线法确定毛管水上升高度。根据前人研究[10-12],对于沙土毛管水上升高度的确定可以利用含水量分布曲线法中的最大分子持水量与天然含水量分布曲线交会法，即利用中子仪测定的土壤含水量数据，以采样深度为纵坐标，以土壤含水量为横坐标绘制3处土壤水分监测点的土壤含水量分布曲线；再以线段标注出最大分子持水量线和平均地下水埋深线；那么，最大分子持水量线与土壤含水量分布曲线的交点到地下水位的距离即为毛管上升水的最大上升高度。
+
+# 1.3 土壤含水率测定
+
+在古尔班通古特沙漠南缘北沙窝试验地的地下水深埋区，沿沙丘横断面布置了3处土壤水分监测点，分别位于西坡脚、东坡脚以及沙丘东侧丘间平地（图1）,3处监测点的海拔高度分别为 $4 0 0 . 9 5 \mathrm { ~ m ~ }$ 、$3 9 8 . 4 0 \mathrm { ~ m ~ }$ 和 $3 9 9 . 0 4 \mathrm { ~ m ~ }$ 。中子管(铝管)埋设深度 $9 \sim$ $1 0 \mathrm { m }$ 。
+
+自2016年3月 $\sim 2 0 1 8$ 年11月，利用中子仪对监测点土壤水分进行测定，相邻两次监测时间间隔通常为 $1 0 \mathrm { ~ d ~ }$ 左右。测定深度为 $1 0 \ \mathrm { c m } \setminus 2 0 \ \mathrm { c m } \setminus 3 0$ cm、、地下水面以下，每层记录3次读数,取其平均值作为观测值。
+
+E4 404 影盟盟 坡顶  
+/ 西坡 东坡 聚.聚丘 间地1一3883860 1 2 3 4 5 6 7 89101112 1314 15161718水平距离／m  
+$\ntrianglelefteq$ 梭梭 $*$ 草本 生物结皮流沙中子管■地下水观测井
+
+# 1. 4 地下水埋深测定
+
+分别在距离西坡脚、东坡脚以及沙丘东侧丘间平地3处土壤水分监测点 $0 . 5 \mathrm { ~ m ~ }$ 左右的位置铺设地下水观测井，监测时间与土壤水分的监测同步。
+
+# 1.5土壤水分特征曲线测定
+
+在西坡坡脚、东坡坡脚、丘间地土壤水分监测点取土，采用压力膜法测定其土壤水分特征曲线[28]
+
+# 1. 6 数据处理
+
+采用Excel2016对地下水深埋区每个陂位对应土壤水分监测点2016一2018年的土壤含水量数据进行统计，并利用Origin2018拟合土壤水分特征曲线VG模型的参数，计算最大分子持水量；采用Origin 2018软件绘图。
+
+# 2结果与分析
+
+# 2.1土壤水分的季节变化
+
+图 $2 \textrm { a } \sim 2 \textrm { c }$ 为2016年3月 $\sim 2 0 1 8$ 年11月北沙窝试验地固定沙丘西坡脚、东坡脚和丘间地土壤含水量随时间变化的过程。可见，春季( $3 \sim 5$ 月)是古尔班通古特沙漠土壤水分变化最迅速的时期2，但由于气温回升缓慢，土壤蒸发相对较低，且受冬季积雪融水和春季降水的补给，土壤含水量相对较高；5月以后，由于气温快速回升，土壤蒸发加剧，且沙漠短命植物开始萌发，土壤水分大量消耗，土壤含水量整体不断下降;在夏季(6\~8月），由于太阳辐射增强，蒸发强度增大，而降雨少，表层土壤的含水量开始迅速降低，且逐渐形成稳定的干沙层，除受到降水影响而产生一定的快速波动外，土壤含水量将一直保持在较低水平；在秋冬季(9月 $\sim$ 次年2月），随着气温的逐渐降低，蒸发强度不断减小，并伴随秋冬季节的降雨和降雪对表层土壤水分的补给，表层土壤的含水量又有所增加，11月上旬地表基本被积雪覆盖，土壤冻结，土壤水由液态变为固态，故冬季土壤含水量保持基本稳定。
+
+沙丘顶部春季积雪消融的水分在重力作用下会向沙丘两侧迁移[30],水分在沙丘两侧的坡脚处相对聚集，由于丘间地距沙丘较远且海拔高度略高于东坡坡脚，土壤表层的水分含量比东坡坡脚小。另外从图2可以看出，3个监测点的表层土壤水分受大气降水和蒸发等气象因素的影响深刻,影响深度范围为 $0 \sim 1 3 0 ~ \mathrm { c m }$ 土层;而下层土壤尤其是深层土壤受气象因素的影响很小，其含水量变化可能是受地下水水位波动和土壤毛管上升水的影响，深层土壤含水量变化的上界可看作是土壤毛管水的最大上升高度。
+
+# 2.2土壤水分特征曲线与最大分子持水量
+
+各土壤水分监测点的土壤剖面机械组成比较均匀，土壤质地均为砂土(表1)，沙丘西坡坡脚、东坡坡脚、丘间地深层土壤体积含水量与土壤水吸力的关系如图3。采用VanGenuchten模型（简称VG模型)拟合两者的关系[31-32]：
+
+$$
+\theta = \theta _ { { r } } + \frac { \theta _ { { s } } - \theta _ { { r } } } { \left[ 1 + \left( a \cdot S \right) ^ { n } \right] ^ { m } }
+$$
+
+式中： $\theta$ 为土壤体积含水率 $( \mathrm { c m } ^ { 3 } \cdot \mathrm { c m } ^ { - 3 }$ ）； $\theta _ { r }$ 为残余含水率 $\mathrm { c m } ^ { 3 } { \cdot } \mathrm { c m } ^ { - 3 }$ ) $\theta _ { s }$ 为饱和含水率 $\left( \mathrm { c m } ^ { 3 } { \cdot } \mathrm { c m } ^ { - 3 } \right.$ ; $\alpha$ 为经验常数，它的倒数常常被认为是进气压力 $\left( \mathrm { c m } ^ { - 1 } \right) ; S$
+
+![](images/35fc3d1559528e1afa41ab5905bf661caf0f6e4271ece983c52b1e60cde72045.jpg)  
+图2不同坡位土壤水分等值线图  
+Fig.2Isoline diagram of soil water content relative to slope position
+
+为土壤水吸力 $\mathrm { ( c m ~ H _ { 2 } O ) }$ ； $m$ 和 $n$ 为经验常数，它可以改变土壤水分特征曲线的形状，又称为形状系数，$m { = } 1 - 1 / n$ 。
+
+利用Origin2018非线性回归方法求解VG模型中的各项参数，结果为：
+
+$$
+\theta = 0 . 0 1 6 2 + \frac { 0 . 4 2 8 5 - 0 . 0 1 6 2 } { \left[ 1 + \left( 0 . 0 2 0 3 \cdot S \right) ^ { 1 . 7 6 6 9 } \right] ^ { 0 . 4 3 4 } }
+$$
+
+表1土壤机械组成  
+Tab.1Soil mechanical composition of study area   
+
+<html><body><table><tr><td rowspan="2">立地条件</td><td>粘粒/%</td><td>粉粒/%</td><td>砂粒/%</td></tr><tr><td><0.002 mm</td><td>0.002~0.05 mm</td><td>0.05~1mm</td></tr><tr><td>西坡坡脚</td><td>0.06</td><td>3.19</td><td>96.75</td></tr><tr><td>东坡坡脚</td><td>0.17</td><td>3.40</td><td>96.43</td></tr><tr><td>丘间低地</td><td>0.69</td><td>5.48</td><td>93.83</td></tr></table></body></html>
+
+![](images/73354598ce7e8c9a9f079e286ff8d3cb9dcb01debf9b7a673615812ac9745934.jpg)  
+图3土壤水分特征曲线
+
+![](images/aa2761fc89422aba9690da237d31c10da26d19d017f415a3be78b0fe7735f409.jpg)  
+Fig.3Soil water characteristic curve
+
+最大分子持水量（maximummolecularmois-ture-holdingcapacity）是土壤水分常数的一种，是薄膜水达到最大量时的土壤含水量，也是吸湿水和薄膜水的总和[33-34],其相应的土壤水吸力为0.625$\mathrm { M P a } \left( 6 ~ 3 7 5 ~ \mathrm { c m } ~ \mathrm { H } _ { 2 } \mathrm { O } \right) ^ { \left[ 3 5 - 3 8 \right] }$ 。因此,将 $S = 6 \ 3 7 5 \ \mathrm { c m }$ $\mathrm { H } _ { 2 } \mathrm { O }$ 代人公式(2)，可计算相应土壤水吸力条件下所对应的土壤最大分子持水量为 $0 . 0 2 6 1 \mathrm { c m } ^ { 3 } { \cdot } \mathrm { c m } ^ { - 3 }$ 。
+
+# 2.3毛管水上升高度
+
+分别以西坡脚、东坡脚和丘间地的土壤深度为纵坐标，以各坡位的平均土壤含水量为横坐标，绘制含水量曲线，再标出最大分子持水量线，结果如图 $4 \mathrm { ~ a ~ } { \sim } 4 \mathrm { ~ c ~ }$ 所示，其中最大分子持水量线与土壤含水量曲线的交点即为毛管水上升高度的顶点，该点到地下水位的距离为毛管水最大上升高度。
+
+由图4a可以看出西坡坡脚年平均地下水位为$1 0 1 0 \mathrm { c m }$ ，最大分子持水量线与土壤含水量曲线的交点在土层深度的 $7 6 0 \mathrm { c m }$ 处，由此可得到西坡坡脚毛管上升水的最大上升高度在 $2 5 0 ~ \mathrm { c m }$ 左右；图 $4 \mathrm { ~ b ~ }$ 中，东坡坡脚年平均地下水位为 $8 4 0 ~ \mathrm { c m }$ ，最大分子持水量线与土壤含水量曲线的交点在土层深度的$5 7 0 \ \mathrm { c m }$ 处，由此可得到东坡坡脚毛管上升水的最大上升高度在 $2 7 0 \mathrm { c m }$ 左右;在图4c中，丘间地年平均地下水位为 $8 9 0 ~ \mathrm { c m }$ ，最大分子持水量线与土壤含水量曲线的交点在土层深度的 $6 0 0 \ \mathrm { c m }$ 处，由此可得到丘间地毛管上升水的最大上升高度在 $2 9 0 ~ \mathrm { c m }$ 左右。这与图2中深层土壤含水量的变化情况基本一致，说明最大分子持水量与土壤含水量曲线交会法可以判断毛管上升水的最大上升高度。
+
+![](images/b5f3e2bae81a9f973efbd259d1db798464bbc58f8916368b1288040f4ecac51a.jpg)  
+  
+图4不同坡位毛管水上升高度  
+Fig.4Capillary rise height of different slope position
+
+3处土壤水分监测点的毛管上升水的最大上升高度之间存在一定差异，这可能与深层土壤的土壤容重[39]和土壤质地[40-41]等因素有关。由图4可以看出，除丘间地外，西坡坡脚和东坡坡脚的土壤含水量分别在 $9 5 0 ~ \mathrm { c m }$ 左右和 $8 0 0 ~ \mathrm { c m }$ 左右的土壤含水量有所增大，这可能是由于存在土壤质地更细的壤性土夹层。壤性土因土壤颗粒间的孔隙较砂土更小而具有更大的毛管力，使下层砂土中的水分能够进入壤土层，由于壤性土具有更好的持水性能而使该层土壤含水量有明显的增加;而且，由于壤性土的夹层厚度小于该夹层土壤毛管水可能的最大上升高度，所以毛管水仍能透过该夹层继续向上移动，使毛管水的上升高度不断增加。
+
+# 3结论
+
+（1）试验地 $0 \sim 1 3 0 ~ \mathrm { c m }$ 土层的土壤含水量明显受积雪融水、大气降水和土壤蒸发等因素的影响，随季节变化规律明显； $1 3 0 ~ \mathrm { c m }$ 土层以下至 $5 7 0 \sim$ $7 6 0 \mathrm { c m }$ 土层为干沙层，土壤含水量较为稳定; $5 7 0 \sim$ $7 6 0 ~ \mathrm { c m }$ 以下土层的土壤含水量主要受地下水水位波动和毛管上升水的影响，其土壤含水量变化的上界可看作是毛管水的最大上升高度。
+
+(2）根据土壤水分特征曲线VanGenuchten模 型,得到试验区土壤最大分子持水量为 $0 . 0 2 6 1 ~ \mathrm { c m } ^ { 3 }$ ： cm\~3
+
+(3）根据最大分子持水量与土壤含水量曲线交会法初步得到试验地毛管上升水的最大上升高度在 $2 5 0 \sim 2 9 0 ~ \mathrm { c m }$ 之间。古尔班通古特沙漠南缘梭梭[42]的根系深度接近 $1 0 \mathrm { ~ m ~ }$ 左右，主根深度$8 . 3 3 \mathrm { ~ m ~ }$ ;白梭梭[43的根系深度可达 $1 0 \mathrm { ~ m ~ }$ 以上，主根深度能延伸至地下水位。本试验区地下水位在$8 4 0 \sim 1 ~ 0 1 0 ~ \mathrm { c m }$ ,毛管上升水的最大上升高度介于$2 5 0 \sim 2 9 0 ~ \mathrm { c m }$ 之间，初步认为古尔班通古特沙漠南缘梭梭、白梭梭等沙漠建群种能够通过毛管上升水利用地下水分。
+
+# 参考文献(References)
+
+[1］董光荣.中国沙漠形成演化气候变化与沙漠化研究[M].北
+
+京：海洋出版社,2002:560－ 568.[DONG Guangrong. Study on climate change and desertification of desert formation and evolution in China[M].Beijing:Ocean Press,2002:560- 568.]   
+[2]熊顺贵.基础土壤学[M].北京:中国农业大学出版社,2001: 125-128.[XIONG Shungui. Basic soil science[M]. Bijing: China Agricultural University Press,2001:125-128.]   
+[3］张明炷,黎庆淮,石秀兰.土壤学与农作学[M].北京：中国水 利水电出版社,1994:47-48.[ZHANGMingzhu,LIQinghuai, SHI Xiulan.Soil science and agronomy[M]. Beijing: China Water and Power Press,1994:47 - 48.]   
+[4]吴启堂.环境土壤学[M].北京:中国农业出版社,2015:98- 99.[WU Qitang. Environmental of soil science[M].Beijing: China Agriculture Press,2015:98 - 99.]   
+[5]樊自立,陈亚宁,李和平,等.中国西北干旱区生态地下水埋深 适宜深度的确定[J].干旱区资源与环境,2008,22(2)：1-5. [FAN Zili,CHEN Yaning,LI Heping,et al. Determination of suitable ecological groundwater depth in arid areas in northwest part of China[J]. Journal of Arid Land Resources and Environment,2008,22(2):1- 5.]   
+[6]刘孝义.土壤物理及土壤改良研究法[M]．上海:上海科学技 术出版社,1982:65.[LIU Xiaoyi. Soil physics and soil improvement[M]. Shanghai: Shanghai Scientific and Technical Publishers,1982:65.]   
+[7]谷端伟.公路土工试验教程[M].北京：中国标准出版社, 1999:57.[GU Duanwei. Highway geotechnical test course[M]. Beijing:Standards Press of China,1999:57.]   
+[8］白宪臣.土工试验教程[M].开封：河南大学出版社,2008: 130.［BAI Xianchen.Geotechnical experiment course[M].Kaifeng:Henan University Press,2008:130.]   
+[9]项伟,聂良佐.土工试验状态控制方法论[M].北京:地质出版 社,2010:186.［XIANG Wei,NIE Liangzuo.Methodology of geotechnical experiment state[M]. Beijing: Geological Publishing House,2010:186.]   
+[10]依艳丽.土壤物理研究法[M].北京：北京大学出版社,2009： 117.［YI Yanli.Methods of soil physics[M].Beijing: Peking University Press,2009:117.]   
+[11］周晓倩，所振伟，张彦峰.毛细管水上升高度试验测定土的水 理性能研究[J].技术与市场,2012,19(4)：148-148.[ZHOU Xiaoqian,SUO Zhenwei, ZHANG Yanfeng. Determination of water energy of soil by capillary water elevation test［J]. Technology and Market,2012,19(4):148-148.]   
+[12］姜彬,韩洪德.测定毛细管水强烈上升高度方法应用实例[J]. 煤炭工程,2007,（10):59- 60.[JIANG Bin,HAN Hongde.Application example of the method for determining the strong rise height of capillary water[J]. Coal Engineering,2007,（10):59 - 60.]   
+[13］郭超英,凌浩美,段鸿海.岩土工程勘察[M].北京：地质出版 社,2007:100.[GUO Chaoying,LING Haomei,DUAN Honghai. Geotechnical investigation [M].Beijing：Geological Publishing House,2007:100.]   
+[14]唐益群.杨坪.王建秀.等.T程地下水「M].卜海:同济大学出
+
+# 干旱区地理
+
+版社,2011: 40.[TANG Yiqun,YANG Ping,WANG Jianxiu,et al. Engineering ground water[M]. Shanghai: Tongji University Press,2011:40.]   
+[15］贾大林,付正泉.利用放射性3I研究松沙土不同地下水埋深 毛管水运行及土体积盐的规律[J].灌溉排水,1983,2(3)： 29 -47.[JIA Dalin,FU Zhengquan. Study of the regularities of capillary water movement and soil salt accumulation in different groundwater depth of loose sand by using radioactive $ { ^ { 1 3 1 } } \mathrm { I }$ [J]. Irrigation and Drainage,1983,2(3):29 - 47.]   
+[16］魏进.新疆风积沙加固技术与盐胀规律研究[D].西安:长安大 学,2003.[WEIJin. Study on eolian sand consolidation technology and salt sweling law in Xinjiang[D]. Xi'an:Chang'an University,2003.]   
+[17］陈发明.风积沙在盐渍土地区路用性能的研究及其应用[D]. 武汉：武汉理工大学,2008.［CHEN Faming.Study and application of eolian sand on road performance in saline soil[D]. Wuhan: Wuhan University of Technology,2008.]   
+[18］高玉生,程汝恩,李英海,等.中国沙漠风积沙工程性质研究及 工程应用[M].北京：中国水利水电出版社，2013：160-161. [GAO Yusheng,CHENG Ruen,LI Yinghai,et al. Engineering properties and application of aeolian sand in Chinese desert[M]. Beijing:China Water and Power Press,2013:160-161.]   
+[19］阚常庆.保水剂对沙质土毛管水上升特性影响[D].邯郸：河 北工程大学,2013.[KAN Changqing．The effects of water-retaining agent on the characteristic of capillary water rising in sandysoil[D].Handan：Hebei University of Engineering, 2013.]   
+[20]栗现文,周金龙,赵玉杰,等.高矿化度对砂性土毛管水上升 影响[J].农业工程学报,2011,27(8):84-89.[LI Xianwen, ZHOU Jinlong,ZHAO Yujie,et al．Effects of high-TDS on capillary rise of phreatic water in sand soil[J]. Transactions of the Chinese Society of Agricultural Engineering,2011,27（8）: 84-89.]   
+[21]董荣泽,于明英,邱照宁,等.沙土上升毛管水运动特性研 究［J],节水灌溉,2018:19-25.[DONG Rongze,YU Mingying,QIU Zhaoning,et al. A study on capillary water movement characteristics in sandy soil[J].Water Saving Irrigation, 2018:19 - 25.]   
+[22］朱海,胡顺军,陈永宝.古尔班通古特沙漠南缘固定沙丘土壤 水分时空变化特征[J].土壤学报,2016,53(1):117-126. [ZHU Hai,HU Shunjun,CHEN Yongbao.Spatio-temporal variation of soil moisture in fixed dunes at the southern edge of Gurbantunggut Desert[J]. Acta Pedologica Sinica,2016,53（1）: 117 - 126.]   
+23］胡顺军,陈永宝,朱海.古尔班通古特沙漠南缘融雪水土壤入 渗量[J].应用生态学报,2015,26(4):1007-1015.[HU Shunjun,CHEN Yongbao,ZHU Hai.Soil infiltration of snowmelt water in thesouthern Gurbantunggut Desert, Xinjiang，China [J].Chinese Journal of Applied Ecology,2015,26(4):1007 - 1015.]
+
+[24］蒋进，王雪芹,雷加强.古尔班通古特沙漠工程防护体系内土 壤水分变化规律[J].水土保持学报，2003，17(3)：74-77.[JIANG Jin,WANG Xueqin,LEI Jiaqiang.Soil moisture distribution in straw barrier system in Gurbantunggut Desert of Xinjiang,China[J]. Journal of Soil and Water Conservation,2003,17 (3):74-77. ]
+
+[25］石亚飞,张志山,黄磊,等.古尔班通古特沙漠半固定沙丘植物 群落物种组成和种群结构[J].应用生态学报，2016,27(4)：   
+1024 -1030.[SHI Yafei,ZHANG Zhishan,HUANG Lei,et al. Species composition and population structure of plant communities on semi-fixed dunes of the Gurbantongut Desert,China[J]. Chinese Journal ofApplied Ecology,2016,27(4):1024-1030.] [26］段呈,吴玲,王绍明,等.近30年古尔班通古特沙漠短命植物的 时空格局[J].生态学报,2017,37(8):2642-2652.[DUAN Chen,WU Ling,WANG Shaoming,et al. Analysis of spatio-temporal patterns of ephemeral plants in the Gurbantunggut Desert over the last 30 years[J].Acta Ecologica Sinica,2017,37（8):   
+2642 - 2652.] [27］罗宁,刘尊驰,于航,等.古尔班通古特沙漠南部植物多样性的 区域差异[J].生态学报,2016,36(12):3572－3581.[LUO Ning,LIU Zunchi,YU Hang,et al.Regional differences in plant diversity in the southern Gurbantonggut desert[J].Acta Ecologica Sinica,2016,36(12):3572-3581. [28］程东娟,张亚丽.土壤物理实验指导[M].北京:中国水利水电 出版社,2012:94-96.［CHEN Dongjuan,ZHANG Yali.Experiment instruction of soil physics [M].Beijing: China Water and Power Press,2012:94-96.] [29］周宏飞,肖祖炎,姚海娇,等.古尔班通古特沙漠树枝状沙丘土 壤水分时空变异特征[J].水科学进展,2013,24(6)：771-   
+777.［ZHOU Hongfei, XIAO Zhuyan, YAO Haijiao,et al. Temporal and spatial variation of soil moisture in dendritic sand dune over Gurbantunggut Desert in certain Eurasia[J].Advances in Water Science,2013,24(6):771- 777. ] [30]秦艳芳,陈曦,周可法,等.古尔班通古特沙漠春季土壤含水量 空间格局[J].干旱区地理,2013,36(6):1041-1048.[QIN Yanfang,CHEN Xi, ZHOU Kefa,et al.Spatial patern of soil water content in spring of the Gurbantunggut Desert[J].Arid Land Geography,2013,36(6):1041- 1048.] [31]邵明安,王全九,黄明斌.土壤物理学[M].北京:高等教育出 版社，2006：71.［SHAO Mingan，WANG Quanjiu,HUANG Mingbin.Soil physics [M]. Beijing: Higher Education Press,   
+2006:71.] [32]GENUTHCEN Van,Martinus T H. A closed-form equation for predicting the hydraulic conductivity of unsaturated soils[J]. Soil Science Society of America Journal,1980,44(5）: 892-   
+898. [33]严恺.水利词典[M].上海：上海辞书出版社,1994:371.[YAN Kai. Water conservancy dictionary[M]. Shanghai: Shanghai Cishu Press,1994:371.]
+
+[34」沈冰，黄红虎.水文学原理[M」.北京：中国水利水电出版社，
+
+2015:43.[SHEN Bing,HUANG Honghu. Principles of hydrology[M].Beijing:China Water&Power Press,2015:43.]   
+[35]芮孝芳.产汇流理论[M].北京：水利电力出版社，1995：4. [RUI Xiaofang.Theory of runoff and confluence[M].Beijing: WaterResources and Hydropower Press,1995:4.]   
+[36］王锡赞.农田水利学[M].北京：水利电力出版社，1992：10. [WANG Xizan.Farmland hydrology［M].Beijing：Water Resources and Hydropower Press,1992:10.]   
+[37］关连珠.普通土壤学[M].北京：中国农业大学出版社,2007： 87.［GUANLianzhu.General soil science[M].Beijing:China Agricultural University Press,20o7:87.」   
+[38］龚振平.土壤学与农作学[M].北京：中国水利水电出版社， 2009:68.[GONG Zhenping.Soil science and agronomy［M]. Beijing:ChinaWaterandPowerPress,2oo9:68.]   
+[39］谈云志，孔令伟，郭爱国，等.压实红黏土水分传输的毛细效应 与数值模拟[J].岩土力学，2010,31(7)：2289－2294.[TAN Yunzhi,KONGLingwei,GUOAiguo,etal.Capillary effect of moisture transfer and its numerical simulationof compacted laterite soil[J」.Rock and SoilMechanics,2010,31（7）:2289- 2294.]   
+[40]李自祥，杨成斌,杨阳.盐渍土中毛管水上升高度研究[J].安 徽建筑,2012,19(3):109-110.[LI Zixiang,YANG Chengbin, YANG Yang.Research of capillary water height in saline soil [J].Anhui Architecture,2012,19(3):109-110.]   
+[41］史文娟，沈冰,汪志荣,等.层状土壤毛管水最大上升高度分析 [J].干旱地区农业研究,2007,25(1):94－97.[SHIWenjuan, SHENBing,WANG Zhirong,etal.Maximumheightofupward capillary water movement in layered soil[J].Agricultural Research in the Arid Areas,2007,25(1):94-97.]   
+[42]徐贵青.三种荒漠灌木根系分布特征及水分利用[D].北京：中 国科学院研究生院,2008.［XUGuiqing．Roots distribution traits of three desert shrubs and their water use[D].Beijing: Graduate University of Chinese Academy of Sciences,2008.]   
+[43］于丹丹.古尔班通古特沙漠南缘至腹地白梭梭与白梭梭群落 的根系分布特征及生物量结构研究[D].北京：中国科学院研 究生院,2010.［YU Dandan.Spatial variation of the root systems and the biomass allocation of Haloxylon persicum species and Haloxylon persicum community in the Gurbantunggut Desert [D].Beijing:Graduate University of Chinese Academy of Sciences,2010.]
+
+# Maximum height of capillary rising water and characteristic of soil moisture in the southern edge of Gurbantunggut Desert
+
+ZHENG Bo-wen1,23.4.5，HU Shun-jun1,2.5，ZHOU Zhi-bin1.3.4.5,WANG Ze-feng1.2.5，LI Chuan-jin1.2.5
+
+(1State Key Laboratory of Desert and Oasis Ecology,Xinjiang Institute of Ecology and Geography, ChineseAcademy ofSciences,Urumqi 830o11,Xinjiang,China; 2 Aksu National StationofObservation and Research for Oasis Agro-ecosystem,Aksu 8430l7,Xinjiang,China;   
+3Mosuowanehegdef   
+4Taklimkaehd 5University of Chinese Academy of Sciences,Beijing 10oo49,China)
+
+Abstract：Water is the restraining factorof vegetation restoration and sand management and the keyfactor of the ecological environment in areas of desertification.Capillary rising water is one of the primary sources of water for plants.If capillary rising water can reach the active layer of a psammophyte root system and put the plants in hydrauliccontact with groundwater,itcan provide favorableconditions forthe psammous plants toutilize the groundwater.The aims of this paper were to determine the maximum height of capilary rising water in the area of a deep groundwatertable in the southern edge ofthe Gurbantunggut Desert,Xinjiang,China and provideatheoretical basis forthe divisionof the water sources of sand-fixing plants.Three soil moisture monitoring points located atthe footof the west slope,the footof the east slope,and the flatlandon the east sideof adune (i.e.,the lowland between two dunes）were arranged along the cross-section ofafixed dune in the area ofa deep groundwater table at the southern edge of the Gurbantunggut Desert.A neutron soil moisture probe was used to observe the soil moisture in the $_ { 0 - 1 0 - \mathrm { m } }$ soil profile and to analyze the soil moisture changes of the different slopes of variation over the seasons from March 2O16 to November 2O18.Then,the pressure membrane meter method was used to determine the soil
+
+# 干半区地理
+
+moisturecharacteristic curve using the soil samples of the soil moisture monitoring points.Aditionally,amethod of intersection between the largest molecular moisture holding capacityand soil water content curve was used to determine the maximum height ofthe capillry rising water at the test site.The results showed thatthe soil water content of theO-13O-cmsoillayerat diferentslopes ofthedune was greatlyaffectedbyexternal meteorological factors and that the lawof seasonal change was obvious.The soillayer from 130to 570-76O cm was a drysand layer with a stable soil moisture content.The soil water content in the soil layer below 57O-76O cm was primarily afected by the fluctuation of the groundwatertableand capillary rising water,and the upper boundary of its water content change could be regarded as the maximum height of the capillary rising water.Moreover,the maximum molecular moisture holding capacity of the test site was $0 . 0 2 6 \ 1 \ \mathrm { c m } ^ { 3 } \cdot \mathrm { c m } ^ { - 3 }$ ,and the maximum height of the capillary water on different slopes of the dune was distributed from 250 to $2 9 0 ~ \mathrm { c m }$ .Finally,according to the root distribution characteristics of the constructive species at the test site,this paper preliminarily assumed that such species,e.g.,Haloxylon ammodendron and Haloxylon persicum ,can utilize groundwater through capillary rising water.
+
+Key words:maximum molecular moisture-holding capacity；capilary rise；soil water content；soil moisture characteristic curve
+
+# 《干旱区地理》征稿简则
+
+《干旱区地理》是中国地理学会主办、科学出版社出版的综合性术期刊，在国内外公开发行。它的主要任务是反映干旱区地理学及其分支学科、边缘学科和交叉学科的新理论、新技术和新方法。
+
+《干旱区地理》主要刊载干旱区地理学及其分支学科、边缘学科和交叉学科的新理论、新技术和新方法。
+
+具体包括：自然地理、全球变化及大气科学、水文与水资源、生物与土壤学研究、环境变化、生态及其生态系统建设、地理信息与遥感技术的应用、动物生态学与动物地理学、区域地理与可持续发展、灾害与防治、资源开发与利用、干旱区与大气圈、水圈、生物圈、岩石圈和人类活动之间的相互作用等方面，国家自然科学基金资助的项目，最新的重大研究成果,将优先发表。本刊还刊载干旱区研究成果,研究报道、学术活动、消息和书刊评价等内容，同时还免费刊登有关国际地理学合作研究信息、国际会议通知、英文版新书介绍、地理专业招聘、招生启事等消息。
+
+主要读者对象：地理工作者、高等院校师生、中学教师，以及农、林、牧、水利、气象、地质、工交、贸易、城建、旅游、规划等部门的科技工作者和决策者和国内外科技工作者。
+
+# 欢迎集体和个人订阅《干旱区地理》。

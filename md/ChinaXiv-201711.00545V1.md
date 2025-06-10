@@ -1,0 +1,177 @@
+# 不同水平蛋白质底物对猪结肠微生物体外发酵特性和菌体合成能力的影响
+
+# 葛婷 孙巍巍 朱伟云\*
+
+（江苏省消化道营养与动物健康重点实验室，南京农业大学消化道微生物研究室，南京
+
+210095)
+
+摘要：本试验旨在体外条件下，探究不同水平蛋白质底物对猪结肠微生物发酵特性的影响，了解猪结肠微生物对蛋白质的利用规律。以成年猪结肠内容物为微生物接种物，在结肠微生物发酵液中分别添加0（C组）、0.10（L组）、 $0 . 2 5 { \mathrm { g / L } }$ （H组）酪蛋白水解物，厌氧发酵不同时间点（3、6、9、12、18、 $2 4 \mathrm { ~ h ~ }$ )，分别测定累积产气量、 $\mathrm { \ p H }$ 及微生物蛋白、氨态氮、挥发性脂肪酸浓度。结果显示：1）发酵3、6h时， $\mathrm { ~ L ~ }$ 组和H组 $\mathsf { p H }$ 显著低于C组( $. P { < } 0 . 0 5 )$ ）2）L组和H组累积产气量均高于C组。3）L组和H组各时间点微生物蛋白浓度均显著高于C组（ $( P { < } 0 . 0 5 )$ ， $^ { 6 \mathrm { ~ h ~ } }$ 时H组又显著高于L组（ $_ { \cdot \cdot P < 0 . 0 5 }$ )。3）L组和H组各时间点氨态氮浓度均显著高于C 组（ $P { < } 0 . 0 5$ )。4）短链脂肪酸和支链脂肪酸浓度随着发酵时间延长而增加，同时随着蛋白质水平增加而增加。由此可见，蛋白质底物的添加促进了肠道微生物菌体合成，但是过多的蛋白质底物水平并不能进一步提高微生物蛋白浓度;随着蛋白质水平增加，肠道微生物发酵特性进一步提高。
+
+关键词：蛋白质水平；猪；结肠微生物；发酵特性；菌体合成能力中图分类号：S816.17
+
+现代化养猪模式常因为粪尿及气体等排泄物的排放造成环境污染问题，这一现象已引起社会广泛关注。猪排泄物中含氮化合物的排放一方面浪费饲粮中氮源，另一方面形成污染源，其中含氮气体的释放会影响猪及饲养人员健康[l。猪排泄物中的含氮化合物主要来源于饲粮中未消化的蛋白质和内源性含氮化合物。饲粮蛋白质大部分在胃和小肠消化吸收。随着饲粮中蛋白质添加水平的增加，消化道中未被前肠消化吸收的蛋白质经过水解作用常以肽或氨基酸的形式进入大肠，被大肠中栖息的微生物发酵利用，合成微生物蛋白(microbial crudeprotein,MCP)，同时生成大量气体及挥发性脂肪酸(volatile fattyacid,VFA)等代谢产物。
+
+由于我国的优质蛋白质饲料资源相对缺乏，国内研究人员多关注饲粮中蛋白质水平对生产性能的影响，饲粮蛋白质水平不同程度降低后，对不同生长阶段猪的生产性能没有明显降低，并且对均日增重、平均日采食量、料重比等指标有一定程度改善[2-4]。如前所述，饲粮中不同水平蛋白质将影响进入大肠的未消化蛋白质或含氮化合物的浓度，并且饲粮变化会迅速影响肠道微生物菌群[5]，使其代谢产物及菌体合成能力发生改变，而微生物菌群代谢产物又与宿主的生理健康状况密切相关，因此使不同水平蛋白质对肠道微生物发酵特性及代谢产物的影响值得关注，但是目前关于不同蛋白质水平对猪大肠微生物发酵特性影响相关研究鲜有报道。本文拟在体外培养的条件下，研究不同蛋白质水平对结肠微生物发酵能力、主要代谢产物以及合成菌体能力的影响，探讨不同水平蛋白质对结肠微生物发酵特性的影响，了解猪结肠微生物对蛋白质的利用规律。
+
+# 1材料与方法
+
+# 1.1底物、培养基和接种物的制备
+
+底物：酪蛋白水解物(casein enzymatic hydrolysate)(北京索来宝科技有限公司，酶水解酪素 C8210)；培养基：参照 Longland 等[6方法配制培养基，去掉其中含氮化合物。厌氧分装至已装有底物的发酵瓶中，每瓶 $9 5 ~ \mathrm { m L }$ ；结肠微生物接种液：5头杜×长×大商品猪屠宰采结肠食糜，磷酸缓冲盐溶液（PBS）1:5(w/v)稀释，混匀，4层无菌纱布过滤至血清瓶，接种至上述培养基中，每瓶 $5 \mathrm { m L }$ 。发酵体系为 $1 0 0 ~ \mathrm { { m L } }$ 。
+
+# 1.2 试验设计
+
+试验在结肠微生物发酵液中分别添加0（C组）、0.10（L组）、 $0 . 2 5 { \mathrm { g / L } }$ （H组）酪蛋白水解物，每组20个发酵瓶（每个发酵瓶为1个重复)。接种后将发酵瓶迅速置于 $3 7 \mathrm { ~ \textdegree C }$ 恒温培养箱中发酵 $2 4 \mathrm { h }$ 。
+
+# 1.3测定指标及方法
+
+# 1.3.1发酵指标测定
+
+每组中4个重复在发酵3、6、9、12、18、24h时，参照 Theodorou 等[7方法，使用 ReadingPressure Technique(RPT)装置测定产气量，并在 $2 4 \mathrm { h }$ 发酵终点采样，另外16个重复在0、3、9、 $1 2 \mathrm { ~ h ~ }$ 每组每个时间点冰浴终止发酵4个重复，采样测定pH及MCP、氨态氮(ammonianitrogen, $\mathrm { N H } _ { 3 }$ -N)、VFA 浓度。参照马艳艳等[8]方法，用pH计(德国,Schott)测定pH；取1mL发酵液加入 $1 ~ \mathrm { m L } 0 . 2 ~ \mathrm { m o l / L }$ 盐酸保存，用靛酚方法测定氨态氮浓度[9]；参照Makkar 等[10],用 NanoDrop200Oc 分光光度计(spectrophotometer)(美国,Thermo Fisher)测定 MCP 浓度。参照Mao 等[11],取 $1 \mathrm { m L }$ 发酵液加入 $2 0 0 ~ \mu \mathrm { L }$ 偏磷酸巴豆酸混合液保存，用GC-14B气相色谱仪(gaschromatograph,GC)(日本岛津)测定VFA 浓度。
+
+# 1.4 统计分析
+
+试验数据经Excel2013初步处理，用 SPSS 20.0单因子方差分析(one-wayANOVA)进行差异显著性分析， $P { < } 0 . 0 5$ 为差异显著。
+
+# 2结果与分析
+
+2.1不同蛋白质水平对猪结肠微生物发酵液中pH影响
+
+由表1可见，发酵期间，对照组（C组）在发酵期间 $\mathsf { p H }$ 基本保持不变，蛋白质底物添加组（H组和L组）的发酵液中 $\mathsf { p H }$ 整体呈现先下降后增长的趋势，在3、6h显著低于对照组（ $\scriptstyle \cdot { P < 0 . 0 5 }$ ， $1 2 \mathrm { h }$ 时均上升，其中L组显著高于C组和 $\mathrm { ~ H ~ }$ 组（ $_ { ( P < 0 . 0 5 ) }$ ，至 $2 4 \mathrm { h }$ 时，H组和 $\mathrm { ~ L ~ }$ 组 $\mathsf { p H }$ 上升至对照组水平，3组之间无显著差异（ $( P { > } 0 . 0 5 )$ 。
+
+表1体外发酵中各时间点 $\mathsf { p H }$ 变化  
+Table 1Changes of pH at each time point during in vitro fermentation   
+
+<html><body><table><tr><td rowspan="2">时间 Time/h</td><td colspan="3">组别 Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>C</td><td>L</td><td>H</td></tr><tr><td>0</td><td>6.70</td><td>6.69</td><td>6.69</td><td>0.01</td><td>>0.05</td></tr><tr><td>3</td><td>6.67b</td><td>6.52a</td><td>6.48a</td><td>0.02</td><td>0.04</td></tr><tr><td>6</td><td>6.62b</td><td>6.43a</td><td>6.45a</td><td>0.03</td><td><0.01</td></tr><tr><td>12</td><td>6.61a</td><td>6.70b</td><td>6.63a</td><td>0.01</td><td><0.01</td></tr><tr><td>24</td><td>6.67</td><td>6.71</td><td>6.71</td><td>0.01</td><td>>0.05</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $\scriptstyle \mathbf { P < } 0 . 0 5$ )。表2、表3同。
+
+In the same row, values with different small leter superscripts mean significant difference （204号 $( \mathrm { P } { < } 0 . 0 5 )$ .The same as Table 2 and Table 3.
+
+2.2不同蛋白质水平对结肠微生物体外发酵累积产气量的影响
+
+由图1可见，在各个时间点，H组、L组累积产气量均高于C组，C组在 $1 2 \mathrm { ~ h ~ }$ 以后产气量不再增加，而H组与L组体外发酵产气量趋势基本一致，在发酵 $0 { \sim } 9 \mathrm { h }$ 之间产气量快速增加，之后缓慢增加，H组累积产气量从发酵6h开始明显高于L组，终止发酵时H组累积产气量为（ $1 0 6 . 3 8 { \pm } 1 . 3 1 \$ ）mL，高于L组的（ $1 0 4 . 1 3 { \pm } 2 . 5 1 \ \$ ）mL。
+
+![](images/157068605442553a385f95f8b828ab90d93abdfa0b02bd90528539785143dafc.jpg)  
+图1体外发酵期间累积产气量  
+Fig.1Cumulative gas production of in vitro fermentation
+
+2.3不同蛋白质水平对猪结肠微生物发酵液MCP浓度的影响
+
+由表2可见，在各个时间点， $\mathrm { ~ H ~ }$ 组、L组发酵液中MCP浓度显著高于C组（ $( P { < } 0 . 0 5 )$ ，其中在6h时H组MCP浓度又显著高于L组（ $( P { < } 0 . 0 5 \$ )。总体上，H组和L组在 $0 \sim 1 2 \mathrm { h }$ 之间缓慢上升， $1 2 \sim 2 4 \mathrm { h }$ 基本保持不变。
+
+表2体外发酵期间MCP浓度变化  
+Table 2Changes of MCP concentration during in vitro fermentation μ g/mL   
+
+<html><body><table><tr><td rowspan="2">时间 Time/h</td><td colspan="3">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>C</td><td>L</td><td>H</td></tr><tr><td>3</td><td>141.27a</td><td>209.72b</td><td>207.42b</td><td>11.02</td><td><0.01</td></tr><tr><td>6</td><td>139.16a</td><td>185.87b</td><td>243.76c</td><td>13.48</td><td><0.01</td></tr><tr><td>12</td><td>143.93a</td><td>248.06b</td><td>264.98b</td><td>16.62</td><td><0.01</td></tr></table></body></html>
+
+2.4不同蛋白质水平对猪结肠微生物发酵液氨态氮浓度的影响
+
+由表3可见，H组和L组发酵液中的氨态氮浓度随着发酵的进行持续增加，并且，发酵液中氨态氮浓度随着酪蛋白添加水平显著增加，即在发酵3、6、12、 $2 4 \mathrm { h }$ ，H组显著高于L组（ $. P { < } 0 . 0 5 )$ ，均显著高于对照组（ $\scriptstyle \cdot < 0 . 0 5 )$ ）°
+
+表3体外发酵期间氨态氮浓度变化  
+Table3Changes of $\mathrm { N H } _ { 3 }$ -N concentration during in vitro fermentation mmol/L   
+
+<html><body><table><tr><td rowspan="2">时间 Time/h</td><td colspan="3">组别 Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>C</td><td>L</td><td>H</td></tr><tr><td>3</td><td>1.05a</td><td>2.18b</td><td>2.92℃</td><td>0.23</td><td><0.01</td></tr><tr><td>6</td><td>0.81a</td><td>2.41b</td><td>4.93℃</td><td>0.52</td><td><0.01</td></tr><tr><td>12</td><td>0.76a</td><td>4.77b</td><td>9.61c</td><td>1.10</td><td><0.01</td></tr><tr><td>24</td><td>0.94a</td><td>8.38b</td><td>17.10c</td><td>2.00</td><td><0.01</td></tr></table></body></html>
+
+2.5不同蛋白质水平对猪结肠微生物发酵液VFA浓度的影响
+
+从表4可见，不同蛋白质水平对结肠微生物发酵液中总挥发性脂肪酸(total volatile fattyacids，TVFA)、总支链脂肪酸(total branched-chain fatty acid,TBCFA)及乙酸、丙酸、丁酸、戊酸、异丁酸、异戊酸浓度均有一定影响。TVFA：发酵 $^ { 3 \mathrm { ~ h ~ } }$ 时各组TVFA浓度没有显著差异（ $. P { > } 0 . 0 5 \$ )，6h开始3组之间TVFA浓度差异显著（ $\scriptstyle \cdot { P < 0 . 0 5 }$ ， $\mathrm { ~ H ~ }$ 组 $_ { \mathrm { > L } }$ 组 $_ { > \mathrm { C } }$ 组。乙酸：H组乙酸浓度在发酵 $^ { 3 \mathrm { ~ h ~ } }$ 时显著高于 $\mathrm { ~ L ~ }$ 组和C组（ $P { < } 0 . 0 5 )$ ，其他时间点3组之间差异显著（ $P { < } 0 . 0 5$ )，H组 $_ { \mathrm { > L } }$ 组 ${ } _ { > } \mathrm { C }$ 组。丙酸：发酵 $3 \mathrm { h }$ 时 $\mathrm { ~ H ~ }$ 组和 $\mathrm { ~ L ~ }$ 组丙酸浓度显著高于C 组( $( P { < } 0 . 0 5 )$ 16、 $1 2 \mathrm { ~ h ~ }$ 时3组之间丙酸浓度差异显著（ $. P { < } 0 . 0 5 )$ ， $\mathrm { ~ H ~ }$ 组 ${ \mathrm { > L } }$ 组 ${ } _ { > } \mathrm { C }$ 组； $2 4 \mathrm { ~ h ~ }$ 时 $\mathrm { ~ H ~ }$ 组和 $\mathrm { ~ L ~ }$ 组丙酸浓度显著高于C组( $P { < } 0 . 0 5 \$ )。丁酸：发酵 $3 \mathrm { h }$ 时 $\mathrm { ~ H ~ }$ 组和 $\mathrm { ~ L ~ }$ 组丁酸浓度显著高于C组( $_ { _ { P < 0 . 0 5 } ) }$ ，6、12、 $2 4 \mathrm { ~ h ~ }$ 时3组之间丁酸浓度差异显著（ $\scriptstyle P < 0 . 0 5 .$ ， $\mathrm { ~ H ~ }$ 组 ${ \mathrm { > L } }$ 组 ${ } _ { > } \mathrm { C }$ 组。异丁酸：发酵 $^ { 3 \mathrm { ~ h ~ } }$ 时异丁酸浓度在3组之间无显著差异（ $. P { > } 0 . 0 5 \$ ，6和 $2 4 \mathrm { h }$ 时3组之间差异显著（ $_ { _ { P < 0 . 0 5 ) } }$ ，H组 ${ \mathrm { > L } }$ 组 ${ } _ { > } \mathrm { C }$ 组， $1 2 \mathrm { h }$ 时 $\mathrm { ~ H ~ }$ 组和 $\mathrm { ~ L ~ }$ 组异丁酸浓度显著高于C组（ $. P { < } 0 . 0 5 \ '$ ；异戊酸：3组之间异戊酸浓度在发酵 $0 \sim 2 4 \mathrm { h }$ 中均有差异显著（ $P { < } 0 . 0 5$ ， $\mathrm { ~ H ~ }$ 组 $_ { \mathrm { > L } }$ 组 ${ } _ { > } \mathrm { C }$ 组。TBCFA：发酵3h时H组TBCFA 浓度显著高于C组（ $_ { _ { P < 0 . 0 5 } ) }$ ，但与 $\mathrm { ~ L ~ }$ 组无显著差异（ $P { > } 0 . 0 5$ )，6、12、$2 4 \mathrm { h }$ 时3组之间TBCFA浓度差异显著（ $P { < } 0 . 0 5$ ， $\mathrm { ~ H ~ }$ 组 ${ \mathrm { > L } }$ 组 ${ } _ { > } \mathrm { C }$ 组。
+
+# 表4体外发酵期间各时间点VFA浓度变化
+
+Table 4Changes of VFA concentration at each time point during in vitro fermentation mmol/L   
+
+<html><body><table><tr><td colspan="11">mmol/L</td></tr><tr><td>时间</td><td colspan="7">总挥发性脂</td><td rowspan="2">异丁酸</td><td rowspan="2">异戊酸</td><td rowspan="2">总支链脂 肪酸</td></tr><tr><td></td><td colspan="3">组别</td><td>丙酸</td><td>丁酸</td><td>戊酸</td></tr><tr><td>Time /h</td><td>Groups</td><td>肪酸 TVFA</td><td>乙酸 Acetate</td><td>Propionate</td><td>Butyrate</td><td>Valerate</td><td>Isobutyrate</td><td>Isovalerate</td><td>TBCFA</td></tr><tr><td rowspan="6">3</td><td>C</td><td>2.78</td><td>0.72a</td><td>0.32a</td><td>0.01a</td><td>0.02a</td><td>0.18</td><td>0.02a</td><td>0.20a</td></tr><tr><td>L</td><td>3.68</td><td>0.71a</td><td>0.98b</td><td>0.11b</td><td>0.14c</td><td>0.16</td><td>0.13b</td><td>0.30ab</td></tr><tr><td>H</td><td>3.93</td><td>1.50b</td><td>0.75b</td><td>0.15b</td><td>0.09b</td><td>0.11</td><td>0.34c</td><td>0.45b</td></tr><tr><td>SEM</td><td>0.25</td><td>0.11</td><td>0.11</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.04</td><td>0.04</td></tr><tr><td>P值</td><td>>0.05</td><td><0.01</td><td>0.02</td><td>0.01</td><td>0.01</td><td>>0.05</td><td><0.01</td><td><0.01</td></tr><tr><td>P-value C</td><td>4.54a</td><td>1.02a</td><td>1.72a</td><td>0.19a</td><td>0.05a</td><td>0.14a</td><td>0.16a</td><td>0.29a</td></tr><tr><td>6</td><td>12.81b</td><td>3.98b</td><td>2.31b</td><td>0.51b</td><td></td><td>0.54b</td><td></td><td></td><td>0.79b</td></tr><tr><td>L H</td><td></td><td></td><td></td><td>2.730</td><td></td><td>0.15b</td><td></td><td>0.25b</td><td></td></tr><tr><td>SEM</td><td>18.58c</td><td>6.21</td><td></td><td></td><td>0.83c</td><td>0.15b</td><td>0.77℃</td><td>0.48c</td><td>1.25c</td></tr><tr><td>P值</td><td>1.75</td><td>0.64</td><td></td><td>0.13</td><td>0.08</td><td>0.02</td><td>0.08</td><td>0.04</td><td>0.12</td></tr><tr><td>P-value C</td><td><0.01</td><td><0.01</td><td></td><td><0.01</td><td><0.01</td><td><0.01</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td></td><td>6.73a</td><td></td><td>1.97a</td><td>2.61a</td><td>0.23a</td><td>0.08a</td><td>0.21a</td><td>0.19a</td><td>0.41a</td></tr><tr><td>L</td><td>20.03b</td><td></td><td>6.30b</td><td>6.04b</td><td>1.63b</td><td>0.39b</td><td>0.52b</td><td>0.52b</td><td>1.03b</td></tr><tr><td>H</td><td>32.24c</td><td>13.33℃</td><td>9.54℃</td><td></td><td>2.79℃</td><td>0.61°</td><td>0.52b</td><td>0.83℃</td><td>1.34℃</td></tr><tr><td>SEM</td><td>3.18</td><td>0.07</td><td>0.87</td><td></td><td>0.32</td><td>0.07</td><td>0.05</td><td>0.08</td><td>0.12</td></tr><tr><td>P值</td><td><0.01</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P-value</td><td></td><td></td><td><0.01</td><td><0.01</td><td><0.01</td><td><0.01</td><td><0.01</td><td>0.01</td><td>0.02</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>24</td><td>C</td><td>7.29a</td><td>2.01a</td><td>3.04a</td><td>0.29a</td><td>0.13a</td><td>0.21a</td><td>0.25a</td><td>0.46a</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>L</td><td>50.26b</td><td>15.82b</td><td>17.25b</td><td>3.18b</td><td>2.28b</td><td>1.05b</td><td>1.20b</td><td>2.26b</td></tr><tr><td>H</td><td>63.21°</td><td>19.16c</td><td>16.82b</td><td>4.57℃</td><td>2.27b</td><td>1.78℃</td><td>2.56</td><td>4.35℃</td></tr><tr><td>SEM</td><td>7.23</td><td>2.32</td><td>2.01</td><td>0.54</td><td>0.30</td><td>0.20</td><td>0.29</td><td>0.48</td></tr><tr><td>P值</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P-value</td><td><0.01</td><td><0.01</td><td><0.01</td><td><0.01</td><td><0.01</td><td><0.01</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+同项目下同列数据肩标不同小写字母表示差异显著（ $\cdot P { < } 0 . 0 5 )$ °
+
+In the same column and item,values with diferent small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ：
+
+# 3讨论
+
+# 3.1不同蛋白质水平对猪结肠微生物发酵能力的影响
+
+微生物利用未经宿主消化吸收的营养物质产生代谢产物的同时会产生大量气体。在发酵体系中，产气量是评定微生物发酵能力的重要指标[12]，气体产量的高低一方面取决于饲料可发酵成分的含量，另一方面取决于微生物的降解能力[13]。蛋白质作为一种微生物可利用的底物，经过前肠消化吸收后的蛋白质主要以氨基酸的形式被利用，并且微生物可以快速利用氨基酸[14]，产气量的不同，一定程度上反映微生物对蛋白质利用情况的差异。Jha 等[认为，降低饲粮中蛋白质水平，增加粗纤维，可减少猪肠道气体排放。本试验结果与其观点相似，随着蛋白质水平的升高，发酵体系中累积产气量显著增加，显示在本试验条件下，微生物的发酵能力随着蛋白质水平的升高而增加。
+
+3.2不同蛋白质水平对猪结肠微生物代谢产物的影响
+
+进入结肠的蛋白质在水解作用下以氨基酸的形式被微生物利用，一方面合成微生物自身增殖所需的蛋白质，即MCP，另一方面代谢产生气体，如氢气（ $\mathrm { \Pi } _ { \mathrm { H } _ { 2 } }$ ）、甲烷（ $\mathrm { C H } _ { 4 }$ ）、二氧化碳（ $\mathrm { C O } _ { 2 }$ ）、硫化氢（ $\mathrm { \ : { \cdot } } \mathrm { H } _ { 2 } \mathrm { S }$ )、VFA[包括短链脂肪酸(short-chain fatty acids，SCFA)和支链脂肪酸(branched-chain fatty acids，BCFA)]，以及酚类、吲哚、胺类、硫化物、氨等物质[15],这些代谢产物广泛参与机体的代谢[16]，共同作用使肠道内环境发生改变[17]。
+
+MCP浓度反映着微生物利用底物为自身合成蛋白质的需要。本试验结果显示，添加外源的蛋白质显著增加MCP浓度，但是，除6h外，在其他时间点，蛋白质水平的增加并不能显著增加发酵液中MCP浓度。这可能预示着，微生物利用氨基酸合成自身所需蛋白质的能力有限，肠道中含氮化合物的增加并不能进一步促进微生物菌体的合成。此外，氨态氮浓度变化反映微生物对蛋白质的降解能力的改变。Geypens 等[18]研究发现，饲粮中蛋白质的添加可显著增加粪便中氨态氮浓度，本试验结果与其观点一致，在本试验条件下，氨态氮浓度显著受蛋白质水平影响。
+
+微生物利用宿主未消化吸收的营养物质产生VFA，其中微生物利用碳水化合物及蛋白质水解产物（主要有天冬氨酸、丙氨酸、谷氨酸、甘氨酸、赖氨酸、苏氨酸）生成 SCFA，会为人体提供约 $10 \%$ 的热量，并且其中丁酸与结肠上皮细胞的生理及代谢过程密切相关[19]。与 SCFA不同，BCFA严格由微生物利用异亮氨酸、亮氨酸、缬氨酸生成，所以BCFA可以作为微生物利用蛋白质的标记[20]。Le 等[21]将饲粮蛋白质水平从 $1 8 \%$ 降至 $12 \%$ ，显著降低了猪粪样中 SCFA及BCFA 浓度。Cho 等[22研究认为，饲粮蛋白质水平升高会显著增加猪粪样中 SCFA及BCFA 浓度。本试验结果与上述研究结果一致，随着蛋白质水平的升高，SCFA（乙酸、丙酸、丁酸、戊酸）和BCFA（异丁酸、异戊酸）的浓度在试验不同时间点均有不同程度增加。
+
+在本试验条件下，结肠微生物发酵液中MCP浓度在发酵6h时基本已达峰值，而氨态氮和VFA浓度则随着时间及蛋白质水平增加而增加，这可能预示，结肠微生物可以快速利用蛋白质供自身需要并且其对蛋白质利用的能力有限，本试验添加 $0 . 1 0 \ \mathrm { g / L }$ 蛋白质时MCP浓度基本已经达到峰值，随着发酵的进行，更多的蛋白质会被微生物代谢产生氨态氮及VFA等代谢产物，并不会进一步促进MCP合成。
+
+# 3.3不同蛋白质水平对猪结肠微生物发酵液体系的影响
+
+微生物对蛋白质的发酵可改变肠腔中氨态氮、VFA及其他代谢产物的形成，最终改变肠腔内环境。Pieper 等[23]认为，在饲粮中增加蛋白质水平，不改变粪样 pH。Russel 等[24]也认为饲粮中蛋白质水平不影响粪样pH。在本研究中，发酵体系中pH先下降后（3、6h）又恢复至对照组水平，这提示，蛋白质的添加显著影响微生物发酵，进而降低 pH，影响肠道内环境，但是随着时间延长，发酵体系趋于稳态，继而稳定环境，使pH恢复至正常水平。
+
+4结论
+
+$\textcircled{1}$ 蛋白质的添加增加了结肠微生物的累积产气量。$\textcircled{2}$ 在体外发酵体系中，蛋白质的添加提高了MCP合成能力，并且在蛋白质水平为0.10$\mathrm { g / L }$ 时菌体合成能力达到峰值，但过量蛋白质不能进一步提高MCP合成能力。
+
+$\textcircled{3}$ 在体外发酵体系中，蛋白质的添加显著影响氨态氮浓度和VFA浓度，并且其浓度随着蛋白质水平和发酵时间增加而增加。
+
+# 参考文献：
+
+[1]JHA R,BERROCOSO JF D.Dietary fiber and protein fermentation in the intestine of swine and their interactive effects on gut health and on the environment:a review[J].Animal Feed Science and Technology,2016,212:18-26.
+
+[2]霍永久,刘正旭,方伟,等.饲粮蛋白质水平对育肥东串猪生长性能、血清生化指标及胴体性状的影响[J].动物营养学报,2015,27(8):2502-2508.
+
+[3]朱建平,霍永久,姜建兵,等.日粮粗蛋白质水平对育肥中期淮猪生产性能和血清生化指标的影响[J].中国饲料，2013(8):30-32
+
+[4]吴信,黄瑞林,印遇龙,等.低蛋白日粮对生长肥育猪生产性能和猪肉品质的影响[J].安徽农业科学,2007,34(23):6198-6200.
+
+[5]HAMILTON M K,BOUDRY G,LEMAY D G,et al.Changes in intestinal barrier function and gut microbiota in high-fat diet-fed rats are dynamic and region dependent[J].American Journal of Physiology-Gastrointestinal and Liver Physiology,2015,308(1O):G840-G851.
+
+[6]LONGLAND A C,THEODOROU M K,SANDERSON R,et al.Non-starch polysaccharide composition and in vitro fermentability of tropical forage legumes varying in phenolic content[J].Animal Feed Science and Technology,1995,55(3/4):161-177.
+
+[7]THEODOROU M K,WILLIAMS B A,DHANOA M S,et al.A simple gas production method using a pressure transducer to determine the fermentation kinetics of ruminant feeds[J].Animal Feed Science and Technology,1994,48(3/4):185-197.
+
+[8]马艳艳,成艳芬,朱伟云.体外发酵法评价不同产地、不同茬次苜蓿的营养价值[J].动物营养学报，2014,26(8):2421-2432.
+
+[9] WEATHERBURNMW.Phenol-hypochloritereaction fordetermination of ammonia[J].Analytical Chemistry,1967,39(8):971-974.
+
+[10]MAKKAR HP S,SHARMA O P,DAWRA R K,et al.Simple determination of microbial protein in rumen liquor[J].Journal of Dairy Science,1982,65(11):2170-2173.
+
+[11]MAO S Y,ZHU W Y,WANG Q J,et al.Effect of daidzein on in vitro fermentation by microorganisms from the goat rumen[J].Animal Feed Science and Technol0gy,2007,136(1/2):154-163.
+
+[12]艾丽霞,苏勇,朱伟云.梅山与长白母猪粪样微生物体外发酵八种纤维底物的特性比较[J]. 草业学报,2013,22(3):99-107.
+
+[13]何香玉,李袁飞,成艳芬,等.拔节期弱光胁迫对扬麦15 麦秸营养成分和体外发酵的影响[J].动物营养学报,2015,27(10):3163-3169.
+
+[14]CONE J W,VAN GELDER A H.Influence of protein fermentation on gas production profiles[J].Animal Feed Science and Technology,1999,76(3/4):251-264.
+
+[15] MACFARLANE G T,CUMMINGS J H,ALLISON C.Protein degradation by human intestinal bacteria[J].Journal of General Microbiology,1986,132(6):1647-1656.
+
+[16]NYANGALE E P,MOTTRAM D S,GIBSON G R.Gut microbial activity,implications for health and disease:the potential role of metabolite analysis[J].Journal of Proteome Research,2012,11(12):5573-5585.
+
+[17]LIU X X,BLOUIN J M,SANTACRUZ A,et al.High-protein diet modifies colonic microbiota and luminal environment but not colonocyte metabolism in the rat model:the increased luminal bulk connection[J].American Journal of Physiology-Gastrointestinal and Liver Physiol0gy,2014,307(4):G459-G470.
+
+[18]GEYPENS B,CLAUS D,EVENEPOEL P,et al.Influence of dietary protein supplements on the formation of bacterial metabolites in the colon[J].Gut,1997,41(1):70-76.
+
+[19]DONOHOE D R,COLLINS L B,WALI A,et al.The Warburg effect dictates the mechanism ofbutyrate-mediated histone acetylation and cell proliferation[J].Molecular Cell,2012,48(4):612-626.
+
+[20]MACFARLANE G T,MACFARLANE S.Bacteria,colonic fermentation,and gastrointestinal health[J].Journal of AOAC International,2012,95(1):50-60.
+
+[21]LE P D,AARNINK A J A,JONGBLOED A W,et al.Effects of dietary crude protein level on odour from pig manure[J].Animal,2007,1(5):734-744.
+
+[22]CHO S,HWANG O,PARK S.Effect of dietary protein levels on composition of odorous compounds and bacterial ecology in pig manure[J].Asian-Australasian Journal of Animal Sciences,2015,28(9):1362-1370.
+
+[23] PIEPER R,KROGER S,RICHTER J F,et al.Fermentable fiber ameliorates fermentable protein-induced changes in microbial ecology,but not the mucosal response,in the colon of piglets[J].The Journal of Nutrition,2012,142(4):661-667.
+
+[24] RUSSELL W R,GRATZ S W,DUNCAN S H,et al.High-protein,reduced-carbohydrate weight-loss diets promote metabolite profiles likely to be detrimental to colonic health[J].The American Journal of Clinical Nutrition,2011,93(5):1062-1072.
+
+Effects of Different Levels of Protein Substrates on Fermentation Characteristics and Microbial Protein Synthesis Ability of Porcine Colonic Microbiota GE Ting1SUN Weiwei²ZHU Weiyun\* (Jiangsu Key Laboratory of Gastrointestinal Nutrition and Animal Health; Laboratory of   
+Gastrointestinal Microbiology, College of Animal Science and Technology, Nanjing Agricultural University,Nanjing 210095,China)
+
+Abstract: This study was conducted to evaluate the characteristics of porcine colonic microbial fermentation under different protein substrates levels by in vitro fermentation,aiming to determine the fermentation pattern of protein by porcine colon microbiota.Porcine colon digesta was used as microbial inoculum, O (group C), $0 . 1 0 ~ \mathrm { g }$ (group L) and $0 . 2 5 ~ \mathrm { g / L }$ (group H) casein was added into microbial fermentation broth. At different time points，cumulative gas production，pH and concentrations of microbial crude protein，ammonia nitrogen and volatile fatty acid were determined.The results showed as follows: 1） at 3 and $^ { 5 \mathrm { ~ h ~ } }$ fermentation, the pH of group L and group H was significantly lower than that of group C ( $( P { < } 0 . 0 5 )$ . 2) The cumulative gas production of group L and group H was higher than that of group C.3) The concentration of microbial crude protein of group $\mathrm { ~ L ~ }$ and group H was significantly higher than that of group C at different time points $( P { < } 0 . 0 5 )$ ，and group $\mathrm { ~ H ~ }$ was significantly higher than group $\mathrm { ~ L ~ }$ at $6 \mathrm { ~ h ~ }$ ? $( P { < } 0 . 0 5 )$ .4）The concentration of ammonia nitrogen of group $\mathrm { ~ L ~ }$ and group H was significantly higher than that of group C at different time points ( $( P { < } 0 . 0 5 )$ .4）The concentrations of short-chain fatty acids and branched-chain fatty acids increased with the fermentation time,and increased with the protein level. The results suggest that adding protein substrates promotes intestinal microbial synthesis, but excessive protein cannot further increase microbial crude protein concentration,the microbial fermentation increases with protein level increasing
+
+Key words: protein level; porcine；colonic microbial； fermentation characteristics；microbial synthesis ability

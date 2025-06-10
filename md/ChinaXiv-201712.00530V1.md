@@ -1,0 +1,80 @@
+临床研究
+
+# 循证检验医学原则指导多项检测在鉴别胸腔积液性能上的应用
+
+叶凯,许浦生,骆丹丽,萧鲲惠州市中心人民医院，广东 惠州516000
+
+摘要：目的探讨循证检验医学原则指导下对多项检测在胸腔积液性能鉴别的临床应用价值。方法应用化学发光免疫分析法、光学比色法、固相酶免疫法、皮试法、血沉按国际标准法分别对已确诊的肺癌、肺结核、肺部感染胸腔积液100例患者的血清及胸腔积液同时进行癌胚抗原,糖类抗原199,鳞癌相关抗原、可溶性细胞角质蛋白片断19和神经原特异烯醇化酶、腺苷脱氨酶及乳酸脱氢酶、结核菌素试验、结核抗体免疫球蛋白G、红细胞沉降率等10项检测。结果肿瘤标志物及LDH;肺癌组明显高于结核组和感染组，胸腔积液两者有显著差异 $\mathrm { \cdot P } { < } 0 . 0 5$ ;ADA：结核组阳性率达 $9 2 \%$ ，肺癌组及感染组则正常；PPD：结核组阳性率为$6 2 \%$ ,感染组为 $50 \%$ ,肺癌组为 $1 9 . 2 \%$ ;TBAb-IgG:结核组仅为 $4 \%$ ,而肺癌组和感染组均为阴性;ESR增高率：结核组为 $94 \%$ ，肺癌组为 $8 4 . 6 \%$ ，感染组为 $8 3 . 3 \%$ 。结论在循证检验医学原则指导下,用诊断性试验的特征值对癌性、结核性、炎症性胸腔积液性质鉴别作客观评价，为临床医生选择试验项目提供依据。实验证明胸腔积液检测肿瘤标志物水平和酶活性的灵敏度、特异性均明显高于血清，用于鉴别3种积液性质更有价值。
+
+关键词：循证检验医学；胸腔积液；肿瘤标志物；肺癌；结核；感染
+
+# Application in the identification of a number of detection performance pleural effusion with the guiding principles of evidence-based laboratory medicine
+
+YE Kai,XU Pusheng,LUO Danli,XIAO Kun Huizhou People's CenterHospital,Huizhou 516o00,China
+
+Abstract: Objective To investigate the clinical valueof evidence-based examination of medical principles under the guidance of anumber of detection performance in the identification of pleural effusion.Methods Serum and chemiluminescence immunoassayopticalassaysolid phaseenzymeimmunoassayskintestmethodandbloodsdimentation methodwasusedto international standards that werediagnosed with lung cancer,tuberculosis,pleural efusion,pulmonary infectionin100 patients pleural efusionsimultaneous CEA, CA199, CF21,NSE,SCCAg, LDH,ADA,PPD,TBAb-IgG, ESRand othertest. Results The tumor markers and LDH: lung cancer group were significantly higher than tuberculosis and infection, pleural effusion there are significant differences $( P { < } 0 . 0 5 )$ ; ADA: The positive rate of $9 2 \%$ of tuberculosis, lung cancer and infection group were normal; PPD: TB -positive group was $6 2 \%$ , the infected group was $5 0 \%$ , lung cancer group was $1 9 . 2 \%$ ; TBAb-IgG: TB group was $4 \%$ , while the lung cancer group and infection group were negative; ESR increased rate: tuberculosis group $9 4 \%$ of lung cancer group was 84.6, the infected group was $8 3 . 3 \%$ . Conclusion Under the guidance of the principles of evidence-basedlaboratorymedicinediagnostictestswithteigenvaluesofcancer,tuberculosi,inflammationofthepleual efusions makeanobjectiveevaluationand providethebasisfor theclinician toselect pilotprojects.Pleural fusiondetection of tumor marker levelsand activityof the sensitivityspecificityissignificantly higher thantheserumused toidentifythree kinds of fluid nature of the more valuable.
+
+Keywords: evidence-based laboratory medicine; pleural effusion;tumor markers;lung; tuberculosis; infection
+
+胸腔积液是指胸腔内液体过多，病理性的积液常由炎症、结核、恶性肿瘤、胶原性疾病及肺栓塞等原因导致，其性质鉴别对临床诊断和治疗有着极其重要的意义。为提高对常见恶性胸腔积液性质的鉴别，遵照循证检验医学的原则1,对已确诊肺癌、肺结核、肺部感染胸腔积液患者100例的血清，胸腔积液进行肿瘤标志物及相关检验结果回顾分析，以评价检测项目在鉴别胸腔积液性质上的应用价值。
+
+# 1资料与方法
+
+# 1.1 临床资料
+
+100例胸腔积液病例全部来自本院2011年12月\~2012年12月住院患者，其中癌性胸积液(肺癌组)26例（男12例，年龄 $6 3 . 2 5 { \scriptstyle \pm 1 5 . 0 7 }$ 岁，女14例年龄 $7 0 . 3 6 \pm$ 15.09岁);结核性胸积液(结核组)50例(男28例，年龄$3 5 . 3 7 { \scriptstyle \pm 2 0 . 0 1 }$ 岁，女22例,年龄 $3 5 . 3 6 { \pm } 1 6 . 5 0 \$ 岁);炎症性胸积液(感染组)24例(男16岁，年龄 $6 4 . 4 5 { \scriptstyle \pm 1 3 . 4 4 }$ 岁，女8例，年龄 $5 3 . 1 2 { \scriptstyle \pm 2 4 . 7 1 }$ 岁)。全部病例均经病史，临床表现，实验室检查，X线照片，B超，支纤镜及病理脱落细胞及组织学检查结合临床全程动态观察而确诊。
+
+# 1.2 检测方法
+
+1.2.1标本采集治疗前清晨空腹抽取静脉血，离心$3 0 0 0 \mathrm { r / m i n }$ 持续 $1 0 \mathrm { m i n }$ 分离血清检测;胸腔积液抽取后用EDTA- $\cdot \mathrm { K } _ { 2 }$ 抗凝后送检;红细胞沉降率抽取静脉血$1 . 6 ~ \mathrm { m L }$ 与 $1 0 6 \mathrm { m m o l / L }$ 枸橡酸钠 $0 . 4 ~ \mathrm { m L }$ ，充分摇匀后送检，结核菌素试验按皮内试验规程进行。
+
+1.2.2检测项目与方法癌胚抗原(CEA)，糖类抗原199(CA199)，鳞癌相关抗原( $\operatorname { S C C A g }$ )均用雅培I2000型化学发光免疫分析仪进行;可溶性细胞角质蛋白片断19(CF211)和神经原特异烯醇化酶(NSE)用罗氏E411型化学发光免疫分析仪进行；腺苷脱氨酶(ADA)及乳酸脱氢酶(LDH)用罗氏C8000型光学比色仪进行。质控品均严格按仪器使用说明书进行。结核菌素试验(PPD)用皮试法。结核抗体免疫球蛋白G(TBAb-IgG)用ELISA法。红细胞沉降率(ESR)用国际标准法-魏氏法进行。
+
+1.2.3 参考值设 $\mathrm { C E A } { < } 1 0 ~ { \mu \mathrm { g } } , \mathrm { C A } 1 9 9 { < } 3 7 ~ { \mu \mathrm { g / L } }$ ,CF211<$3 . 6 ~ \mu \mathrm { g / L }$ ， $\mathrm { N S E } { < } 1 7 ~ \mu \mathrm { g / L }$ . $\mathrm { S C C A g } { < } 1 . 5 ~ \mu \mathrm { g } / \mathrm { L }$ $\mathrm { L D H ~ 1 0 1 \sim }$
+
+$2 1 8 ~ \mathrm { U / L }$ 、ADA7.7\~19.3 U/L, $\mathrm { P P D } { < } 0 . 5 ~ \mathrm { c m }$ ,TBAb-IgG阴性，ESR：男性 $\mathrm { < 1 5 \ m m / H }$ ，女性 ${ < } 2 0 ~ \mathrm { m m / H }$ 。检测结果超过正常参考值上限者判定为阳性。
+
+1.2.4诊断性试验性能评价指标以敏感性(SEN）、特异性(SGE)、准确性(ACC)为评价指标[1-2]
+
+# 1.3统计学方法
+
+SPSS11.5统计软件包进行统计分析，测定值水平以均数 $\trianglerighteq$ 标准差及百分率表示。两种不同标本对同一项目测定均数比较用方差分析，以 $\scriptstyle P \leqslant 0 . 0 5$ 为差异者有统计学意义。
+
+表13组胸腔积液患者10项检测结果  
+
+<html><body><table><tr><td rowspan="2">检测项目</td><td rowspan="2">标本</td><td colspan="3">肺癌组</td><td colspan="3">结核组</td></tr><tr><td>SEN</td><td>SPE</td><td>ACC</td><td>SEN</td><td>SGE</td><td>ACC</td></tr><tr><td rowspan="2">CEA</td><td></td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td></tr><tr><td>S</td><td>57.7</td><td>95.9</td><td>86</td><td>0</td><td>66</td><td>33</td></tr><tr><td rowspan="2">CA199</td><td>PE</td><td>80.8</td><td>96.4</td><td>91</td><td>0</td><td>50</td><td>25</td></tr><tr><td>S</td><td>38.5</td><td>93.2</td><td>79</td><td>0</td><td>0</td><td>50</td></tr><tr><td rowspan="2">CF211</td><td>PE</td><td>61.5</td><td>94.6</td><td>86</td><td>0</td><td>0</td><td>50</td></tr><tr><td>S</td><td>76.9</td><td>0</td><td>94</td><td>0</td><td>56</td><td>28</td></tr><tr><td rowspan="2">NSE</td><td>PE</td><td>80.8</td><td>83.8</td><td>83</td><td>0</td><td>82</td><td>41</td></tr><tr><td>S</td><td>61.5</td><td>77</td><td>73</td><td>0</td><td>78</td><td>35</td></tr><tr><td rowspan="2">SCCAg</td><td>PE</td><td>61.5</td><td>71.6</td><td>69</td><td>0</td><td>38</td><td>19</td></tr><tr><td>S</td><td>0</td><td>93.2</td><td>69</td><td>0</td><td>94</td><td>47</td></tr><tr><td rowspan="2">LDH</td><td>PE</td><td>3.8</td><td>87.8</td><td>66</td><td>0</td><td>90</td><td>45</td></tr><tr><td>S</td><td>57.7</td><td>78.4</td><td>73</td><td>20</td><td>60</td><td>40</td></tr><tr><td></td><td>PE</td><td>88.5</td><td>9.4</td><td>30</td><td>98</td><td>18</td><td>58</td></tr><tr><td>ADA</td><td>PE</td><td>7.7</td><td>54.1</td><td>42</td><td>92</td><td>96</td><td>94</td></tr></table></body></html>
+
+# 2结果
+
+2.1肺癌组、结核组、感染组患者10项检测结果显示
+
+肿瘤标志物检测水平肺癌组远高于结核组及感染组；乳酸脱氢酶活性在3组均有不同程度增高；腺苷脱氨酶活性结核组明显高于肿瘤组及感染组;红细胞沉降率3组患者均明显升高(表1)。
+
+# 2.2诊断性试验对2组患者胸腔积液性能鉴定评价
+
+对2组胸腔积液患者诊断性试验性能鉴定的特征值进行统计分析，血清与胸腔积液同步检测结果显示如下(表2)。对肿瘤标志物、乳酸脱氢酶表达，肺癌组血清及胸腔积液水平均明显增高，胸腔积液比血清平均高1.08倍;结核组除胸腔积液检测CF211及LDH两项稍高外，余各项血清及胸腔积液均居正常；感染组除胸腔积液检测水平略高外，余各项血清及胸腔积液均属正常。ADA检测：结核组远高于肿瘤组及感染组，阳性率达 $9 2 \%$ 。
+
+# 3讨论
+
+胸腔积液常因全身或胸部疾病引致，其病理性积液性能鉴别对临床诊断和指导治疗的重要性更为临床医生所熟悉和认可，肿瘤、结核、感染是导致胸腔积液的主要原因。按照循证检验医学的观点：运用科学统计方法，尽力排除偶然因素，有助于临床医生用最佳、最有效的检验项目，为患者提供即刻条件下最合理的医疗服务。本文选用肿瘤标志物、腺苷脱氨酶等10项检测作为鉴别3者性质的重要手段。肿瘤标志物中，选用基本上复盖腺癌、鳞癌、小细胞癌的项目：癌胚抗原是腺癌标志物，肺癌时出现最早;含量最高;CF211对鳞癌、腺癌、小细胞癌都有不同程度表达，是诊断肺癌的重要指标；CA199是对消化道恶性肿瘤鉴别有重要价值;NSE对小细胞型肺癌有较高特异性和敏感性;SCCAg在肺部鳞癌时增高[3-6]。ADA是由淋巴细胞产生与T淋巴细胞增殖分化密切相关的核苷酸代谢关键酶，在结核病时介导细胞免疫,导致淋巴细胞增多,使ADA含量升高[7-9];PPD作为诊断结核分枝杆菌感染的参考指标[10]。LDH是炎症反映炎症反应重要指标，在感染，肿瘤，结核，心肌梗塞等细胞释放使含量升高。ESR检查常提示机体有无炎症，病变有无活动性，疗效如何的指标。本研究结果显示：(1)肿瘤标志物在鉴别癌性胸腔积液和其他病因引致的胸腔积液是具有特异性的；(2)胸腔积液检测物浓度高于血清是因为恶性肿瘤侵犯胸膜，癌细胞增殖，合成释放肿瘤标志物等物质滞留在胸腔内，不易被血液循环带至肝脏代谢和灭活，导致含量升高；(3)ADA是诊断结核病重要指标，PPD可作为感染结核分枝杆菌的参考指标；(4)LDH及ESR是非特异性检测，在肿瘤，结核，感染时增高对3者鉴别有一定帮助。
+
+表2诊断性试验对2组胸腔积液患者性能鉴定评价结果  
+
+<html><body><table><tr><td rowspan="2">检测项目</td><td rowspan="2">标本</td><td colspan="4">肺癌组</td><td colspan="4">结核组</td><td colspan="4">感染组</td></tr><tr><td>阳性率 (%)</td><td>X</td><td>S</td><td>P</td><td>阳性率 (%）</td><td>X</td><td>S</td><td>P</td><td>阳性率 (%)</td><td>X</td><td>S</td><td>P</td></tr><tr><td rowspan="2">CEA</td><td>S</td><td>57.7</td><td>666.9</td><td>2539.7</td><td><0.05</td><td>0</td><td>1.3</td><td>0.9</td><td><0.05</td><td>0</td><td>4.5</td><td>10.9</td><td><0.05</td></tr><tr><td>PE</td><td>80.8</td><td>1864.6</td><td>3568.7</td><td></td><td>0</td><td>1.5</td><td>1.5</td><td></td><td>0</td><td>11.9</td><td>31.1</td><td></td></tr><tr><td rowspan="2">CA199</td><td>S</td><td>38.5</td><td>1126.4</td><td>2631.7</td><td><0.05</td><td>0</td><td>11.1</td><td>8</td><td>>0.05</td><td>0</td><td>17.2</td><td>18.6</td><td>>0.05</td></tr><tr><td>PE</td><td>61.5</td><td>2734.8</td><td>4591.6</td><td></td><td>0</td><td>10.4</td><td>8.8</td><td></td><td>0</td><td>20.8</td><td>21.9</td><td></td></tr><tr><td rowspan="2">CF211</td><td>S</td><td>76.9</td><td>12.6</td><td>16.1</td><td><0.05</td><td>0</td><td>1.5</td><td>0.6</td><td><0.05</td><td>0</td><td>1.7</td><td>0.8</td><td>>0.05</td></tr><tr><td>PE</td><td>80.8</td><td>33.5</td><td>36.7</td><td></td><td>0</td><td>4.1</td><td>5.2</td><td></td><td>0</td><td>3.3</td><td>1.7</td><td></td></tr><tr><td rowspan="2">NSE</td><td>S</td><td>61.5</td><td>19.3</td><td>15.8</td><td>>0.05</td><td>0</td><td>15.1</td><td>1.8</td><td>>0.05</td><td>0</td><td>10.5</td><td>4.8</td><td>>0.05</td></tr><tr><td>PE</td><td>61.5</td><td>21.4</td><td>13.1</td><td></td><td>0</td><td>13.9</td><td>1.2</td><td></td><td>0</td><td>12.3</td><td>5.1</td><td></td></tr><tr><td rowspan="2">SCCAg</td><td>S</td><td>0</td><td>1.8</td><td>0.4</td><td><0.05</td><td>0</td><td>0.6</td><td>0.1</td><td><0.05</td><td>12.5</td><td>1.1</td><td>1.1</td><td>>0.05</td></tr><tr><td>PE</td><td>3.8</td><td>4.4</td><td>9.5</td><td></td><td>0</td><td>1.2</td><td>0.2</td><td></td><td>12.5</td><td>1.5</td><td>1.3</td><td></td></tr><tr><td rowspan="2">LDH</td><td>S</td><td>57.7</td><td>408</td><td>587.1</td><td><0.05</td><td>20</td><td>184</td><td>50.4</td><td><0.05</td><td>20.8</td><td>181.7</td><td>60.1</td><td><0.05</td></tr><tr><td>PE</td><td>88.5</td><td>1095</td><td>1049.7</td><td></td><td>98</td><td>535</td><td>271.8</td><td></td><td>70.8</td><td>612.8</td><td>455.6</td><td></td></tr><tr><td>ADA</td><td>S</td><td>7.7</td><td>11.8</td><td>10.7</td><td>一</td><td>92</td><td>45.7</td><td>11.4</td><td>一</td><td>0</td><td>13.1</td><td>6</td><td>1</td></tr><tr><td>PPD</td><td>AST</td><td>19.2</td><td>1</td><td>1</td><td>一</td><td>62</td><td></td><td>1</td><td>1</td><td>50</td><td>一</td><td>一</td><td>1</td></tr><tr><td>TBAb-IgG</td><td>S</td><td>0</td><td>一</td><td>一</td><td></td><td>4</td><td>一</td><td>一</td><td></td><td>0</td><td>一</td><td>1</td><td>一</td></tr><tr><td>ESR</td><td>B</td><td>84.6</td><td>51.3</td><td>38.7</td><td>二</td><td>94</td><td>60.1</td><td>25.9</td><td>二</td><td>83.3</td><td>72.6</td><td>41.5</td><td>二</td></tr></table></body></html>
+
+按照循证检验医学的原则，只有当检验诊断项目提供了临床检测灵敏度，特异性和似然比等，才体现其应用的价值[。因为灵敏度越高，漏诊率越低;特异性越高，误诊率越低；准确度是反映真阳性程度；阳性似然比是表示试验阳性时，患病与不患病的比值，比值越大，患病概率越大，试验越好;阴性似然比是表示试验阴性时，患病与不患病的比值，比值越小，不患病的概率越大，试验越好；阳性预测值是表示诊断试验出现全部阳性事例时，有病患者出现阳性的比率;阴性预测值是表示诊断试验出现全部阴性事例时，无病患者出现阴性的比率。本文已统计分析出诊断性试验10项特征值鉴别癌性、结核性、感染性胸腔积液性质，供临床医师选择。建议在选择诊断性试验时，应选用灵敏度，特异性，准确性，似然比概率大的项目；多指标检测更有利于鉴别；胸腔积液检测肿瘤指标和酶活性的水平优于血清，应予重视。
+
+综上所述，本文在循证检验医学原则指导下，结合临床资料，客观评价胸腔积液性能鉴别，冀能为癌性，结核性，炎症性的胸腔积液选择检测项目上提供依据，更好为临床服务。
+
+# 参考文献：
+
+[1］熊立凡,张洁.临床实验室检验项目的优化组合与临床循证诊断学理论与实践[M].2007,1:80-84.  
+[2]瞿良，王惠萱,朱玉琨.循证检验医学对现代临床检验的指导价值[J].第四届全国临床检验学术会议论文汇编，2006  
+[3］张绍武,宁洁.肺泡灌洗液中肿瘤标志物的联合检测在肺癌诊断中的价值[J].现代肿瘤医学,2011,19(5):908-10.  
+[4］姜艳红，吕晓娴,刘冰.联合检测肿瘤标志物在胸腔积液中的应用价值[J].现代肿瘤医学,2012,20(8):1626-7.  
+[5]孙玉鸿,张巍,李树民.血清和胸腔积液中肿瘤标志物联合检测对肺癌的价值[J].黑龙江医药科学，2006,29(2)：16-7.  
+[6]周光泉,姚春红.胸腔积液CEA、CA19-9、CA125检测在结核病和肺癌中的诊断价值[J].国际检验医学杂志,2012,33(8):996-7.  
+[7］王爱红.胸水与血清ADA、LDH联合检测在胸水鉴别诊断中的价值[J].现代中西医结合杂志，2007，16(31)：4689-90.  
+[8］葛 玲,张 琪,程训民.CRP、ADA、CEA、LDH联合检测在胸腔积液鉴别中的意义[J].国际检验医学杂志,2012,33(15):1911,后插1.  
+[9」夏静,闫雪波,刘荣玉.联合检测CEA、ADA、LDH及血沉对胸腔积液性质判断的临床意义[J].安徽医药，2013，17(2):222-4.  
+[10」梁冰.微生物学检验分册M.北京:军事医学科学出版社,2007:292.

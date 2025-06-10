@@ -1,0 +1,180 @@
+# 不同品种、饲养周期肉鸡肉品质和风味的比较分析1
+
+巨晓军 束婧婷 章　明 刘一帆　屠云洁 姬改革 单艳菊 邹剑敏\*（江苏省家禽科学研究所，江苏省家禽遗传育种重点实验室，扬州225125）
+
+摘要：本试验旨在比较不同品种肉鸡在体重、常规肉品质及肌间脂肪、氨基酸和脂肪酸含量的差异，以期为肉鸡肉品质评价指标的建立提供参考。分别选取同日龄、同饲养条件下的快大型鸡（隐性白羽肉鸡、安卡鸡）和地方品种鸡（文昌鸡、北京油鸡、清远麻鸡）作为研究素材，选取接近平均体重的9周龄快大型鸡和17周龄地方品种鸡各60只，称重、屠宰，用于不同品种胸肌常规肉品质及肌间脂肪、氨基酸和脂肪酸含量的测定；另选取9和17周龄的隐性白羽肉鸡各60只称重、屠宰，用于不同饲养周期胸肌常规肉品质及肌间脂肪、氨基酸和脂肪酸含量的测定。结果表明：1）不同品种出栏时期比较，安卡鸡的体重显著高于其他品种（ $_ { . } { \cal P } { < } 0 . 0 5$ ），北京油鸡的胸肌失水率显著低于其他品种（ $. P { < } 0 . 0 5$ ），文昌鸡、清远麻鸡的胸肌剪切力显著低于安卡鸡、北京油鸡（ $\scriptstyle \cdot P < 0 . 0 5 .$ ），安卡鸡的胸肌肉色显著高于其他品种（ $. P { < } 0 . 0 5$ ），北京油鸡的胸肌 $\mathsf { p H }$ 显著高于其他品种（ $_ { . { P < 0 . 0 5 } }$ ），文昌鸡的胸肌肌间脂肪含量显著高于其他品种（ $\scriptstyle P < 0 . 0 5 .$ ）。清远麻鸡的胸肌必需氨基酸、非必需氨基酸、鲜味氨基酸、甜味氨基酸、总氨基酸含量均显著高于其他品种（ $\scriptstyle \cdot P < 0 . 0 5 .$ ），隐性白羽肉鸡、安卡鸡的胸肌饱和脂肪酸含量显著高于其他品种（ $. P { < } 0 . 0 5$ ），隐性白羽肉鸡、北京油鸡的胸肌必需脂肪酸含量显著高于其他品种（ $. P { < } 0 . 0 5$ ），隐性白羽肉鸡的胸肌不饱和脂肪酸含量最高。2）不同饲养周期比较，隐性白羽肉鸡9周龄胸肌的失水率及非必需氨基酸、鲜味氨基酸、饱和脂肪酸、必需脂肪酸含量显著高于17周龄（ $. P { < } 0 . 0 5$ ），体重、胸肌pH、胸肌肌间脂肪含量显著低于17周龄（ $. P { < } 0 . 0 5$ ）。由此可知，不同品种肉鸡的肉品质、风味物质含量差异较大，不能用单一的指标进行衡量。从肉品质的营养角度分析，9周龄出栏的快大型肉鸡优于17周龄。
+
+关键词：肉鸡；肉品质；肌间脂肪；氨基酸；脂肪酸中图分类号：S831
+
+随着生活水平的提高，人们对肉品质及肉风味的要求越来越高，地方品种鸡正逐渐占据世界鸡肉市场的主导地位，成为家禽生产的主流[1]。然而鸡肉品质受多方面影响，包括遗传、营养、环境等。其中，遗传因素是重要的影响因素。不同肉鸡品种之间遗传背景差距较大，因此鸡肉风味也存在明显区别。人们普遍认为黄羽肉鸡有肉味鲜美、香气浓郁、细嫩可口的特点，明显优于外来快速生长型肉鸡品种，这和其独特的肉质性状是密切相关的。前人的研究中较多的是研究同一个类型，如不同优质鸡2I、不同黄羽肉鸡[3]之间肉品质的不同；或者是单一类型品种与其他类型品种的比较，如北京油鸡与白羽、黄羽肉鸡等之间肉品质的不同[46]。本试验选用了2种类型的代表品种，隐性白羽肉鸡和安卡鸡均为国外引进的优秀快大型鸡，文昌鸡、北京油鸡和清远麻鸡均是我国优良的地方品种鸡。这5个品种鸡均选自国家级地方鸡种资源基因库（江苏），系谱清晰，且测定的样本量大，数据可信度高。
+
+目前鸡肉风味的优劣主要依赖人们的主观评价，并没有相关的评定标准。地方品种鸡的肉质为什么受大家欢迎？常规肉品质、肌间脂肪、氨基酸、脂肪酸等影响肉质风味的指标与其他品种有什么不同？这些还没有进行过大数据、系统的科学测定和研究。隐性白羽肉鸡一般9周龄就达到了出栏体重，为了降低饲料报酬，获得最大的经济效益，通常在这时将鸡上市；但加长饲养周期其肉品质有没有得到改善和提高，也并未有深入研究。本试验拟对5个品种鸡出栏时期体重、常规肉品质及肌间脂肪、氨基酸和脂肪酸含量进行比较，并对隐性白羽肉鸡不同饲养周期肉品质的变化进行了研究，旨在为更好地开展品种选育、开发利用以及相关鸡肉品质评价指标的建立等提供科学依据，为消费者选择优质禽肉提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验动物与饲养管理
+
+试验用所有品种鸡均选自国家级地方种鸡资源基因库（江苏）。分别选择快大型鸡（隐性白羽肉鸡、安卡鸡）和地方品种鸡（文昌鸡、北京油鸡、清远麻鸡）种蛋各200个，同批次孵化，用于不同品种鸡出栏期体重、常规肉品质及肌间脂肪、氨基酸、脂肪酸含量的比较；另选择隐性白羽肉鸡种蛋 200个，同批次孵化，用于隐性白羽肉鸡不同饲养周期出栏期体重、常规肉品质及肌间脂肪、氨基酸、脂肪酸含量的比较。试验期内所有品种鸡均按照我国《鸡饲养标准》（NY/T33-2004）肉鸡营养需要，购买商品全价饲料（购自中粮集团有限公司），分段分料饲喂，快大型鸡1\~20日龄饲喂育雏料，21\~48日龄饲喂育雏中期料，49\~56日龄饲喂育成料；地方品种鸡1\~42日龄饲喂育雏料，43\~119日龄饲喂育成料。所有试验鸡全期自由采食。
+
+# 1.2 试验方法
+
+选取接近平均体重的9周龄快大型鸡各17周龄的地方品种鸡各60只，称重、屠宰；选取9和17周龄的隐性白羽肉鸡各60只，称重、屠宰。屠宰后取胸肌，分别用于不同品种出栏时期以及不同饲养周期常规肉品质及肌间脂肪、氨基酸和脂肪酸含量的测定。
+
+# 1.3 测定方法
+
+# 1.3.1 肉品质测定
+
+pH、肉色、失水率（系水力）测定方法参照NY/T1333-2007《畜禽肉质的测定》；剪切力（嫩度）的测定方法参照NY/T1180-2006《肉嫩度的测定 剪切力测定法》；肌间脂肪含量测定方法参照GB/T5009.6-2016《食品中脂肪的测定》。
+
+# 1.3.2 氨基酸、脂肪酸含量测定
+
+氨基酸含量采用高效液相色谱法测定，脂肪酸含量采用高效气相色谱法测定，所有样品分别送至江苏省农科院食品质量安全与检测研究所进行测定。
+
+# 1.4数据的统计分析
+
+采用 Excel2016初步整理后，再用 SPSS 20.0 软件进行单因素方差分析(one-wayANOVA)，利用独立样本t检验对2个饲养周期肉品质进行比较。试验数据以平均值±标准差表示，以 $P { < } 0 . 0 5$ 作为差异显著性判断标准。
+
+# 2结果与分析
+
+2.1不同品种鸡出栏期体重、常规肉品质及肌间脂肪、氨基酸、脂肪酸含量的比较
+
+2.1.1不同品种鸡出栏期体重、常规肉品质、肌间脂肪含量的比较
+
+由表1可知，品种对鸡体重、常规肉品质、肌间脂肪影响较大。安卡鸡、北京油鸡、文昌鸡、清远麻鸡之间的体重差异显著（ $. P { < } 0 . 0 5$ ），安卡鸡的体重最大，清远麻鸡的体重最小。隐性白羽肉鸡、安卡鸡、文昌鸡的胸肌失水率显著高于北京油鸡、清远麻鸡 $( P { < } 0 . 0 5 )$ ，清远麻鸡显著高于北京油鸡 $( P { < } 0 . 0 5 )$ 。安卡鸡、北京油鸡的胸肌剪切力显著高于文昌鸡、清远麻鸡（ $\cdot P { < } 0 . 0 5 \$ ）。安卡鸡的胸肌肉色显著高于隐性白羽肉鸡、文昌鸡、北京油鸡（ $\scriptstyle \cdot P < 0 . 0 5 .$ ），北京油鸡显著高于隐性白羽肉鸡、文昌鸡（ $\scriptstyle \cdot < 0 . 0 5$ ）。北京油鸡的胸肌 $\mathfrak { p H }$ 显著高于隐性白羽肉鸡、安卡鸡、文昌鸡（ $\scriptstyle \cdot P < 0 . 0 5 .$ ），文昌鸡显著高于隐性白羽肉鸡、安卡鸡( $\cdot P { < } 0 . 0 5$ ）。文昌鸡的胸肌肌间脂肪含量显著高于隐性白羽肉鸡、安卡鸡、北京油鸡、清远麻鸡中 $\scriptstyle \cdot P < 0 . 0 5$ ），隐性白羽肉鸡、安卡鸡、北京油鸡显著高于清远麻鸡（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ）。
+
+表19周龄快大型鸡与17周龄地方品种鸡体重、常规肉品质、肌间脂肪含量的比较
+
+Table 1Comparison ofbody weight, conventional meat quality and intramuscular fat content offast large broilers at 9-week-old and local breed chickens at 17-week-old   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">隐性白羽肉鸡</td><td colspan="3"></td><td rowspan="2">清远麻鸡 Qingyuan</td></tr><tr><td>安卡鸡</td><td>文昌鸡</td><td>北京油鸡</td></tr><tr><td>项目 Items</td><td>Recessive white</td><td>Anka chicken</td><td>Wenchang</td><td>Beijng fatty</td><td> partridge</td></tr><tr><td rowspan="3">体重 Body weight/g</td><td>feather broiler</td><td></td><td>chicken</td><td>chicken</td><td>chicken</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>231.34±195.85c</td><td>777.25±251.21a</td><td>525.43±217.46b</td><td>264.30±226.21c</td><td>173.47±188.68d</td></tr><tr><td>失水率 Moisture loss rate/%</td><td>35.57±7.73a</td><td>36.31±7.25a</td><td>35.70±5.79a</td><td>23.47±4.71c</td><td>30.90±3.56b</td></tr><tr><td>剪切力 Shearing force/N</td><td>2.70±0.65ab</td><td>2.86±0.58a</td><td>2.29±0.69b</td><td>2.91±0.53a</td><td>2.30±0.42b</td></tr><tr><td>肉色 Meat color</td><td>0.28±0.26c</td><td>0.70±0.40a</td><td>0.25±0.14c</td><td>0.43±0.31b</td><td></td></tr><tr><td>pH</td><td>5.56±0.12c</td><td>5.57±0.11c</td><td>5.94±0.11b</td><td>6.00±0.21a</td><td></td></tr><tr><td>肌间脂肪 Intramuscular fat/%</td><td>1.38±0.76b</td><td>1.53±0.99b</td><td>2.18±1.40a</td><td>1.47±1.02b</td><td>1.02±0.43c</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ），相同或无字母表示差异不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ ）。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ， while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+2.1.2不同品种鸡出栏期氨基酸含量的比较
+
+由表2可知，品种对氨基酸含量影响较大。清远麻鸡除赖氨酸含量与其他品种差异不显著( $\cdot P { > } 0 . 0 5 )$ ，苯丙氨酸、酪氨酸含量与隐性白羽肉鸡差异不显著（ $. P { > } 0 . 0 5$ ）外，其他氨基酸以及必需氨基酸、非必需氨基酸、鲜味氨基酸、甜味氨基酸、总氨基酸含量均显著高于其他品种（ $P { < } 0 . 0 5$ ）。安卡鸡的蛋氨酸、缬氨酸、谷氨酸含量显著低于其他品种（ $P { < } 0 . 0 5$ ），亮氨酸含量显著低于隐性白羽肉鸡、清远麻鸡L $\cdot P { < } 0 . 0 5$ ），苯丙氨酸、精氨酸、天门冬氨酸、丝氨酸、酪氨酸含量显著低于隐性白羽肉鸡、北京油鸡、清远麻鸡（ $_ { \cdot } P { < } 0 . 0 5 )$ ），组氨酸含量显著低于北京油鸡、清远麻鸡（ $\cdot P { < } 0 . 0 5 \$ ）。安卡鸡、文昌鸡的非必需氨基酸、鲜味氨基酸、甜味氨基酸、总氨基酸含量均显著低于隐性白羽肉鸡、北京油鸡、清远麻鸡（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5$ ）。
+
+谷氨酸和天门冬氨酸是肉中主要的鲜味物质，根据谷氨酸含量的高低依次排列是：清远麻鸡 $>$ 北京油鸡 $>$ 文昌鸡 $\mid >$ 隐性白羽肉鸡 $\vartriangleright$ 安卡鸡；根据天门冬氨酸含量的高低依次排列是：清远麻鸡 $\mid >$ 隐性白羽肉鸡 $\mid >$ 北京油鸡 $\mid >$ 安卡鸡、文昌鸡。
+
+Table 2Comparison of amino acid contents offast large broilers at 9-week-old and local breed chickens at
+
+表29周龄快大型鸡与17周龄地方品种鸡氨基酸含量的比较  
+
+<html><body><table><tr><td></td><td>17-week-old</td><td colspan="3">g/kg</td><td></td></tr><tr><td>项目</td><td>隐性白羽肉鸡</td><td>安卡鸡</td><td>文昌鸡</td><td>北京油鸡</td><td>清远麻鸡</td></tr><tr><td>Items</td><td>Recessive white feather broiler</td><td>Anka chicken</td><td>Wenchang chicken</td><td>Beijng fatty chicken</td><td>Qingyuan partridge chicken</td></tr><tr><td>赖氨酸 Lys</td><td>1.37±0.26a</td><td>1.28±0.11ab</td><td>1.27±0.26b</td><td>1.34±0.22ab</td><td>1.30±0.28ab</td></tr><tr><td>苏氨酸Thr</td><td>0.30±0.06b</td><td>0.27±0.06bc</td><td>0.26±0.05c</td><td>0.29±0.07b</td><td>0.43±0.10a</td></tr><tr><td>蛋氨酸Met</td><td>0.13±0.06b</td><td>0.10±0.02d</td><td>0.12±0.02c</td><td>0.13±0.02bc</td><td>0.15±0.03a</td></tr><tr><td>亮氨酸Leu</td><td>0.25±0.18b</td><td>0.18±0.04c</td><td>0.19±0.05c</td><td>0.21±0.05c</td><td>0.30±0.08a</td></tr><tr><td>异亮氨酸 Ile</td><td>0.11±0.06b</td><td>0.09±0.02c</td><td>0.08±0.02c</td><td>0.10±0.03bc</td><td>0.15±0.04a</td></tr><tr><td>缬氨酸Val</td><td>0.20±0.06b</td><td>0.15±0.03c</td><td>0.20±0.03b</td><td>0.20±0.04b</td><td>0.25±0.05a</td></tr><tr><td>苯丙氨酸 Phe</td><td>0.26±0.23a</td><td>0.17±0.05c</td><td>0.18±0.06be</td><td>0.22±0.05b</td><td>0.29±0.06a</td></tr><tr><td>精氨酸Arg</td><td>0.20±0.16b</td><td>0.14±0.04d</td><td>0.16±0.05cd</td><td>0.18±0.05bc</td><td>0.26±0.07a</td></tr><tr><td>组氨酸 His</td><td>0.07±0.02bc</td><td>0.06±0.04c</td><td>0.09±0.05b</td><td>0.09±0.03b</td><td>0.18±0.08a</td></tr><tr><td>天门冬氨酸 Asp</td><td>0.13±0.05b</td><td>0.10±0.03c</td><td>0.10±0.02c</td><td>0.12±0.03b</td><td>0.23±0.06a</td></tr><tr><td>丝氨酸 Ser</td><td>0.23±0.05b</td><td>0.21±0.04c</td><td>0.20±0.03c</td><td>0.23±0.04b</td><td>0.32±0.06a</td></tr><tr><td>谷氨酸Glu</td><td>0.37±0.09c</td><td>0.34±0.07d</td><td>0.39±0.07c</td><td>0.43±0.09b</td><td>0.49±0.10a</td></tr><tr><td>甘氨酸 Gly</td><td>0.12±0.02b</td><td>0.11±0.03c</td><td>0.09±0.02d</td><td>0.11±0.03c</td><td>0.16±0.04a</td></tr><tr><td>丙氨酸 Ala</td><td>0.30±0.09b</td><td>0.24±0.06cd</td><td>0.22±0.05d</td><td></td><td></td></tr><tr><td>酪氨酸Tyr</td><td>0.21±0.18ab</td><td>0.14±0.03d</td><td>0.16±0.05cd</td><td>0.26±0.06c</td><td>0.34±0.07a</td></tr><tr><td>必需氨基酸 EAA</td><td>2.89±0.99b</td><td>2.41±0.37d</td><td>2.54±0.45cd</td><td>0.18±0.03bc</td><td>0.20±0.04a 3.31±0.58a</td></tr><tr><td>非必需氨基酸 NEAA</td><td></td><td></td><td></td><td>2.75±0.43bc</td><td></td></tr><tr><td>鲜味氨基酸 FAA</td><td>1.35±0.45b</td><td>1.13±0.23c</td><td>1.16±0.22c</td><td>1.33±0.26b</td><td>1.76±0.35a</td></tr><tr><td>甜味氨基酸 SAA</td><td>1.15±0.29b</td><td>0.99±0.21c</td><td>1.00±0.18c</td><td>1.15±0.23b</td><td>1.54±0.31a</td></tr><tr><td></td><td>2.31±0.41b</td><td>2.08±0.29c</td><td>2.04±0.34c</td><td>2.23±0.31b</td><td>2.54±0.45a</td></tr><tr><td>总氨基酸 TAA</td><td>4.24±1.43b</td><td>3.48±0.74c</td><td>3.71±0.64c</td><td>4.08±0.07b</td><td>5.07±0.90a</td></tr></table></body></html>
+
+2.1.3不同品种鸡出栏期脂肪酸含量的比较
+
+由表3可知，品种对鸡肉脂肪酸含量有影响。清远麻鸡的各种脂肪酸及饱和脂肪酸、必需脂肪酸、不饱和脂肪酸含量显著低于其他品种（ $\cdot P { < } 0 . 0 5$ ）。隐性白羽肉鸡的各种脂肪酸含量相对较高，亚麻酸含量显著高于其他品种( $( P { < } 0 . 0 5 )$ ，肉豆蔻酸、棕榈油酸含量显著高于文昌鸡、北京油鸡、清远麻鸡( $_ { . P < 0 . 0 5 ) }$ ，棕榈酸、二十二碳四烯酸含量显著高于北京油鸡、清远麻鸡（ $\scriptstyle . P < 0 . 0 5 .$ ），油酸含量显著高于文昌鸡、清远麻鸡 （ $. P { < } 0 . 0 5$ ），亚油酸含量显著高于安卡鸡、文昌鸡、清远麻鸡（ $\scriptstyle P < 0 . 0 5 .$ ）。
+
+隐性白羽肉鸡、安卡鸡的饱和脂肪酸含量显著高于其他品种( $( P { < } 0 . 0 5 )$ ），文昌鸡显著高于北京油鸡、清远麻鸡 （ $. P { < } 0 . 0 5 )$ ），北京油鸡显著高于清远麻鸡（ $\cdot P { < } 0 . 0 5$ ）。隐性白羽肉鸡、北京油鸡的必需脂肪酸含量显著高于安卡鸡、文昌鸡、清远麻鸡（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ），安卡鸡、文昌鸡显著高于清远麻鸡（ $P { < } 0 . 0 5 )$ 。隐性白羽肉鸡的不饱和脂肪酸含量显著高于文昌鸡、北京油鸡、清远麻鸡（ $_ { . } P { < } 0 . 0 5 )$ ），安卡鸡显著高于文昌鸡、清远麻鸡( $( P { < } 0 . 0 5 )$ ，北京油鸡显著高于清远麻鸡( $( P { < } 0 . 0 5 )$ ，文昌鸡显著高于清远麻鸡 $( P { < } 0 . 0 5 )$ 。
+
+Table 3Comparison offatty acid contents of fast large broilers at 9-week-old and local breed chickens at
+
+表39周龄快大型鸡与17周龄地方品种鸡脂肪酸含量的比较  
+
+<html><body><table><tr><td colspan="5">17-week-old</td></tr><tr><td></td><td>隐性白羽肉鸡</td><td></td><td>文昌鸡</td><td>北京油鸡</td><td>清远麻鸡</td></tr><tr><td>项目</td><td>Recessive white</td><td>安卡鸡</td><td>Wenchang</td><td>Beijng fatty</td><td>Qingyuan</td></tr><tr><td>Items</td><td>feather broiler</td><td>Ankachicken</td><td>chicken</td><td>chicken</td><td>partridge</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>chicken</td></tr><tr><td>肉豆蔻酸</td><td>0.67±0.25a</td><td>0.64±0.20a</td><td>0.55±0.12b</td><td>0.41±0.07c</td><td>0.27±0.06d</td></tr><tr><td>Myristic acid (C14:0)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>棕榈酸</td><td>22.17±1.04a</td><td>22.83±1.14a</td><td>22.18±1.96a</td><td>20.80±1.11b</td><td>14.30±1.01c</td></tr><tr><td>Palmitic acid (C16:0)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>棕榈油酸</td><td>3.26±0.92b</td><td>3.63±0.96a</td><td>2.56±0.96c</td><td>2.16±0.71d</td><td></td></tr><tr><td>Palmitoleic acid (16:1)</td><td></td><td></td><td></td><td></td><td>1.49±0.47e</td></tr><tr><td>硬脂酸</td><td>8.66±0.96bc</td><td></td><td></td><td></td><td></td></tr><tr><td>Stearic acid (C18:0)</td><td></td><td>8.88±0.84ab</td><td>9.21±1.21a</td><td>8.62±1.34bc</td><td>5.73±0.84d</td></tr><tr><td>油酸</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Oleic acid (C18:1c)</td><td>29.45±3.08ab</td><td>29.66±2.92a</td><td>27.69±4.98c</td><td>28.17±3.42bc</td><td>21.22±3.70d</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>亚油酸</td><td>18.50±1.56a</td><td>17.40±1.19b</td><td>16.54±2.41c</td><td>17.94±2.63ab</td><td>12.83±1.87d</td></tr><tr><td>Linolelaidic acid (C18:2c)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>亚麻酸</td><td>1.13±0.52a</td><td>0.94±0.25b</td><td>0.85±0.13b</td><td></td><td></td></tr><tr><td>Linolenic acid (C18:3n6)</td><td></td><td></td><td></td><td>0.88±0.17b</td><td>0.37±0.14c</td></tr><tr><td>二十二碳四烯酸</td><td>1.37±0.55a</td><td>1.36±0.46a</td><td>1.23±0.47ab</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>1.11±0.32b</td><td>0.74±0.29c</td></tr><tr><td>Docosatetraenoic acid</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(C22:4)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>二十二碳六烯酸</td><td>1.16±0.93b</td><td>1.05±0.41b</td><td>2.49±0.75a</td><td>2.45±0.82a</td><td>0.72±0.28c</td></tr></table></body></html>
+
+<html><body><table><tr><td>饱和脂肪酸 SFA</td><td>23.68±1.32a</td><td>23.84±1.23a</td><td>22.74±1.95b</td><td>21.22±1.14c</td><td>15.36±1.06d</td></tr><tr><td>必需脂肪酸 EFA</td><td>20.79±1.49a</td><td>19.36±1.20b</td><td>19.87±2.17b</td><td>21.28±2.35a</td><td>13.89±1.89c</td></tr><tr><td>不饱和脂肪酸 UFA</td><td>54.87±3.98a</td><td>54.00±3.62ab</td><td>51.30±5.09c</td><td>52.71±4.53bc</td><td>37.35±3.94d</td></tr></table></body></html>
+
+2.2隐性白羽肉鸡不同饲养周期常规肉品质及肌间脂肪、氨基酸、脂肪酸含量的比较
+
+2.2.1隐性白羽肉鸡不同饲养周期体重、常规肉品质、肌间脂肪含量的比较
+
+由表4可知，9周龄隐性白羽肉鸡的胸肌失水率显著高于17周龄（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ），体重、pH和胸肌肌间脂肪含量显著低于17周龄（ $. P { < } 0 . 0 5 \ '$ ）。
+
+<html><body><table><tr><td colspan="3">Table 4 Comparison of body weight, conventional meat quality and intramuscular fat content of recessive</td></tr><tr><td colspan="3">white feather broilers at 9 and 17-week-old</td></tr><tr><td>项目Items</td><td>9 周龄 9-week-old</td><td>17周龄17-week-old</td></tr><tr><td>体重 Body weight/g</td><td>1 231.34±195.85b</td><td>2 464.61±319.34a</td></tr><tr><td>失水率Moisture loss rate/%</td><td>35.57±7.73a</td><td>31.27±5.20b</td></tr><tr><td>剪切力Shearing force/N</td><td>2.70±0.65</td><td>2.51±0.69</td></tr><tr><td>肉色 Meat color</td><td>0.28±0.26</td><td>0.32±0.22</td></tr><tr><td>pH</td><td>5.56±0.12b</td><td>5.87±0.11a</td></tr><tr><td>肌间脂肪Intramuscular fat/%</td><td>1.38±0.76b</td><td>1.95±0.60a</td></tr></table></body></html>
+
+2.2.2隐性白羽肉鸡不同饲养周期氨基酸含量的比较
+
+由表5可知，9周龄隐性白羽肉鸡的苏氨酸、亮氨酸、异亮氨酸、精氨酸、天门冬氨酸、丝氨酸、甘氨酸、丙氨酸、非必需氨基酸、鲜味氨基酸含量显著高于17周龄（ $_ { . } { \cal P } { < } 0 . 0 5$ ），赖氨酸、氨酸含量显著低于17周龄（ $_ { . P < 0 . 0 5 } )$ ）。
+
+表4隐性白羽肉鸡9和17周龄体重、常规肉品质、肌间脂肪的比较   
+表5 隐性白羽肉鸡9和17周龄氨基酸含量的比较   
+Table 5 Comparison of amino acid contents of recessive white feather broilers at 9 and 17-week-old g/kg   
+
+<html><body><table><tr><td>项目Items</td><td>9 周龄 9-week-old</td><td>17周龄 17-week-old</td></tr><tr><td>赖氨酸Lys</td><td>1.37±0.26b</td><td>1.56±0.0.24a</td></tr><tr><td>苏氨酸 Thr</td><td>0.30±0.06a</td><td>0.26±0.07b</td></tr><tr><td>蛋氨酸 Met</td><td>0.13±0.06</td><td>0.13±0.03</td></tr><tr><td>亮氨酸 Leu</td><td>0.25±0.18a</td><td>0.21±0.06b</td></tr><tr><td>异亮氨酸 Ile</td><td>0.11±0.06a</td><td>0.09±0.03b</td></tr><tr><td>氨酸Val</td><td>0.20±0.06b</td><td>0.21±0.04a</td></tr><tr><td>苯丙氨酸 Phe</td><td>0.26±0.23</td><td>0.23±0.07</td></tr><tr><td>精氨酸Arg</td><td>0.20±0.16a</td><td>0.16±0.06b</td></tr><tr><td>组氨酸 His</td><td>0.07±0.02</td><td>0.09±0.15</td></tr><tr><td>天门冬氨酸 Asp</td><td>0.13±0.05a</td><td>0.11±0.04b</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>丝氨酸 Ser</td><td>0.23±0.05a</td><td>0.20±0.05b</td></tr><tr><td>谷氨酸Glu</td><td>0.37±0.09</td><td>0.37±0.09</td></tr><tr><td>甘氨酸 Gly</td><td>0.12±0.02a</td><td>0.10±0.03b</td></tr><tr><td>丙氨酸 Ala</td><td>0.30±0.09a</td><td>0.23±0.07b</td></tr><tr><td>酪氨酸Tyr</td><td>0.21±0.18</td><td>0.20±0.05</td></tr><tr><td>必需氨基酸 EAA</td><td>2.89±0.99</td><td>2.95±0.53</td></tr><tr><td>非必需氨基酸NEAA</td><td>1.35±0.45a</td><td>1.22±0.32b</td></tr><tr><td>鲜味氨基酸 FAA</td><td>1.15±0.29a</td><td>1.02±0.28b</td></tr><tr><td>甜味氨基酸 SAA</td><td>2.31±0.41</td><td>2.37±0.39</td></tr><tr><td>总氨基酸 TAA</td><td>4.24±1.43</td><td>4.17±0.83</td></tr></table></body></html>
+
+2.2.3隐性白羽肉鸡不同饲养周期脂肪酸含量的变化
+
+由表6可知，9周龄隐性白羽肉鸡的肉豆蔻酸、硬脂酸、亚油酸、亚麻酸、二十二碳四烯酸、饱和脂肪酸、必需脂肪酸含量显著高于17周龄（ $P { < } 0 . 0 5$ ），油酸、二十二碳六烯酸含量显著低于17周龄（ $. P { < } 0 . 0 5$ ）。
+
+Table 6Comparison of fatty acid contents of recessive white feather broiler at 9 and
+
+表6隐性白羽肉鸡9和17周龄脂肪酸含量的比较   
+
+<html><body><table><tr><td>17-week-old</td><td colspan="2">%</td></tr><tr><td>项目Items</td><td>9 周龄 9-week-old</td><td>17周龄 17-week-old</td></tr><tr><td>肉豆蔻酸 Myristic acid (C14；0)</td><td>0.67±0.25a</td><td>0.52±0.10b</td></tr><tr><td>棕榈酸 Palmitic acid (C16:0)</td><td>22.17±1.04</td><td>22.48±1.58</td></tr><tr><td>棕榈油酸 Palmitoleic acid (16:1)</td><td>3.26±0.92</td><td>3.39±1.13</td></tr><tr><td>硬脂酸 Stearic acid (C18:0)</td><td>8.66±0.96a</td><td>8.35±1.44b</td></tr><tr><td>油酸 Oleic acid (C18:1c)</td><td>29.45±3.08b</td><td>31.81±4.29a</td></tr><tr><td>亚油酸 Linolelaidic acid (C18:2c)</td><td>18.50±1.56a</td><td>17.28±2.19b</td></tr><tr><td>亚麻酸 Linolenic acid (C18:3n6)</td><td>1.13±0.52a</td><td>1.00±0.16b</td></tr><tr><td>二十二碳 四 烯 酸Docosatetraenoic acid</td><td></td><td></td></tr><tr><td>(C22:4)</td><td>1.37±0.55a</td><td>0.88±0.37b</td></tr><tr><td>二十二碳六烯酸 Docosadienoic acid</td><td></td><td></td></tr><tr><td>(C22:6n3)</td><td>1.16±0.93b</td><td>1.79±0.85a</td></tr><tr><td>饱和脂肪酸 SFA</td><td>23.68±1.32a</td><td>23.00±1.63b</td></tr><tr><td>必需脂肪酸 EFA</td><td>20.79±1.49a</td><td>20.04±2.00b</td></tr><tr><td>不饱和脂肪酸UFA</td><td>54.87±3.98</td><td>56.12±5.00</td></tr></table></body></html>
+
+# 3讨论
+
+3.1不同品种鸡出栏期体重、常规肉品质、肌间脂肪含量的比较快大型鸡生长速度很快，9周龄就达到了出栏体重，而地方鸡生长速度慢，饲养周期长，17周龄才达到出栏体重，不同品种其体重发育差异较大，因此其肉品质及风味物质含量差异也较大。
+
+畜禽肌肉系水力、剪切力、肉色、pH等物理指标反映了肌肉的食用品质及其经济价值[7]。肌肉的系水力一般用失水率的高低表示，系水力对肉的多汁性、加工特性、出品率都有重要影响[8]，它还与宰后肌肉蛋白质的溶解度有关，当机体蛋白质含量降低时，肉中吸附水能力降低，鸡肉的失水率便升高[9-10]。系水力低的品种营养物质容易丢失[]，本试验中北京油鸡肌肉的系水力较高，隐性白羽肉鸡、安卡鸡、文昌鸡肌肉的系水力相对较低。
+
+嫩度是主导肉质的决定因素之一，是人们对肌肉口感满意程度的重要指标[12]，剪切力的大小代表嫩度的高低，剪切力值越小，嫩度越高，肉品质越好[13]。从本试验中可以看出，品种不同，嫩度有一定差异，北京油鸡的嫩度相对较高，对于鸡肉的嫩度各地的生活习惯不同，要求也不同，因此在选择品种和制定标准时，要因地而定。
+
+肌肉pH可以反映肉原料的加工品质、屠宰后肌糖元的酵解速度和强度，还会影响肉的保藏期[14]。但pH是一个中性指标，pH过高影响正常肌肉转向食用肉的成熟过程，过低又会导致异常肉的发生[15]。本试验中北京油鸡的pH最高，为6.00，隐性白羽肉鸡的pH最低，为5.56，5个品种鸡的pH适中，品种间 pH有一定差异，因此其肉原料的加工风味不同。
+
+脂肪和瘦肉的平衡决定了肉的基本风味和特殊风味[16]。Chevance 等[17]研究表明，脂肪可作为挥发性风味物质的溶剂，可抑制风味挥发，使肉的风味可以持久保留。另外，不同脂肪含量可导致感觉风味的差异，脂肪含量高口感可能更香醇，营养更为丰富[18]。研究表明，肌间脂肪含量的差异必然会导致肌肉品质的不同[19]，在适宜范围内肌间脂肪含量越高，肉品的质量和风味越好[20]。陈宽维等[21]研究表明，品种间的肌间脂肪含量存在较大差异，且与肌肉的风味呈极显著相关。本试验测定品种肌间脂肪含量依次是文昌鸡 $\vartriangleright$ 安卡鸡 $\vartriangleright$ 北京油鸡 $\mid >$ 隐性白羽肉鸡 $_ { 1 } >$ 清远麻鸡。文昌鸡的肌间脂肪含量较高，因此其肉质肥美且肥而不腻，清远麻鸡的肌间脂肪含量相对较低，品种不同肌间脂肪含量差异较大。
+
+# 3.2不同品种鸡出栏期氨基酸含量的比较
+
+肌肉中氨基酸含量是评价蛋白质营养价值的重要指标，也是影响鸡肉风味品质的主要化学指标之一。鸡肉中的氨基酸种类较多，各种氨基酸分别对应人类不同的味觉，对肉质具有重要影响。Oike 等[22]研究发现，氨基酸可以直接激活人体ⅡI型受体细胞上控制鲜味和甜味的味觉通路离子通道。Kinnamon[23]研究表明，大脑中控制鲜味的部位在眼窝前额皮层，而舌后根味蕾细胞多个G蛋白偶联受体在谷氨酸鲜味味觉传导中起了重要的作用，这表明了氨基酸可以直接影响鸡肉鲜味。氨基酸本身就具有滋味，如苏氨酸、丙氨酸、甘氨酸、丝氨酸、赖氨酸、脯氨酸、羟脯氨酸是形成鸡肉甜味的主要呈味物质[4]，天门冬氨酸、丝氨酸、谷氨酸、甘氨酸、丙氨酸是形成鸡肉鲜味的主要呈味物质[24]。这些氨基酸对鸡肉的整体风味都起着一定的作用。本试验中清远麻鸡的鲜味氨基酸和甜味氨基酸含量均是最高的。李建军等[25]研究发现，品种对鸡肉各种游离氨基酸含量具有显著影响，这与本研究结果类似，氨基酸的含量在不同品种之间差异明显，这可能是形成鸡肉风味差异的主要原因之一[4]。从不同品种测定结果可以看出，清远麻鸡除赖氨酸含量外，其他氨基酸及必需氨基酸、非必需氨基酸、总氨基酸、鲜味氨基酸、甜味氨基酸含量均相对较高，安卡鸡氨基酸含量相对较低，这表明清远麻鸡风味更好一些，但是文昌鸡部分氨基酸及非必需氨基酸、总氨基酸含量显著低于隐性白羽肉鸡，所以游离氨基酸可能不是文昌鸡风味优于隐性白羽肉鸡的主要原因，这与刘华贵[4的研究结果类似。
+
+Yamaguchi等[26]在1908就发现谷氨酸钠盐是鲜味的组成物质，游离氨基酸尤其是谷氨酸是对鲜味贡献最大的2类物质之一，味精的主要成分就是谷氨酸钠，它们已被证明可以改善肉味，许多年来其一直被用于赋予菜肴鲜味[4]。谷氨酸、天门冬氨酸都具有味精味，也同属酸性氨基酸，本试验中谷氨酸和天门冬氨基酸含量最高的是清远麻鸡，其次是北京油鸡、文昌鸡、隐性白羽肉鸡、安卡鸡，表明清远麻鸡、北京油鸡肉质口味更加鲜美一些。丝氨酸和苏氨酸与还原糖经加热发生美拉德反应，产生重要的挥发性风味物质。该反应不需要很高的温度，在与烹煮食物相关的温度下便能生成香味化合物，是肉品风味形成的重要反应之一。Farmerl27的研究也证实鸡肉多种重要香味呈味物都来源于各种游离氨基酸参与的美拉德反应。丝氨酸和苏氨酸含量最高的是清远麻鸡。蛋氨酸为含硫氨基酸，是形成肌肉风味的重要前体物质。蛋氨酸含量清远麻鸡也是最高的。综上所述，从风味氨基酸水平上看，清远麻鸡风味最好。鸡肉中风味氨基酸含量差异可能是造成不同鸡肉风味不同的原因之一。
+
+# 3.3不同品种鸡出栏期脂肪酸含量的比较
+
+肌肉中脂肪酸的种类及组成是评定肌肉营养价值的重要指标[28]，与肉品质存在极大的相关性。许多报道指出，品种是影响肉品质的重要因素[29-30]。本试验也证实了这一点。从5个品种脂肪酸的含量上看，清远麻鸡的各脂肪酸含量低于隐性白羽肉鸡、安卡鸡、文昌鸡、北京油鸡。隐性白羽肉鸡、安卡鸡的饱和脂肪酸含量较高，北京油鸡的必需脂肪酸含量较高。
+
+脂肪酸尤其是不饱和脂肪酸是肌肉中香味反应（不饱和脂肪酸的氧化）的重要前体物质[]，动物体内的不饱和脂肪酸含量在肉类特征风味物质的形成中起着非常重要的作用。本试验中隐性白羽肉鸡的不饱和脂肪酸含量显著高于文昌鸡、北京油鸡、清远麻鸡，清远麻鸡的不饱和脂肪酸含量最低；从饱和脂肪酸提供的风味物质角度表明隐性白羽肉鸡最好，清远麻鸡较差，快大型鸡高于地方品种鸡。鸡肉提供的必需脂肪酸含量是评定其营养价值的重要指标，本试验隐性白羽肉鸡、北京油鸡的必需脂肪酸含量显著优于其他品种。二十二碳六烯酸是人体不可缺少的营养物质[]，本试验中文昌鸡、北京油鸡的二十二碳六烯酸含量显著高于其他品种。
+
+3.4不同饲养周期隐性白羽肉鸡常规肉品质及肌间脂肪、氨基酸、脂肪酸含量的比较
+
+隐性白羽肉鸡在9周龄时上市，当隐性白羽肉鸡饲养到地方品种鸡的上市周龄时，体重增加1倍，鸡肉的系水力、pH、肌间脂肪含量均有升高，但9周龄的隐性白羽肉鸡肌肉的氨基酸和脂肪酸含量大部分低于17周龄，因此从肉品质的营养角度考虑白羽肉鸡9周龄出栏是最优的选择。Touraille 等[31研究发现，在8\~16周龄间，随着日龄的增加，肉仔鸡胸肌和腿肌肌间脂肪含量均逐渐降低。但周小娟等[5]的研究结果与之相反，肉仔鸡胸肌肌间脂肪含量随日龄的增加显著增加。本试验结果与周小娟等[5]的研究结果类似，隐性白羽肉鸡17周龄的体重、肌间脂肪含量显著高于9周龄，可能是因为隐性白羽肉鸡达到出栏期后继续饲喂高能量肉鸡料，因此后期更多的是脂肪沉积，也有可能是由于所选时间段不同。
+
+同一个品种其鸡肉中含有的风味物质种类含量高低不同，肌肉品质是一个复杂的概念，很难用单一的指标进行衡量。并且由于地域差异，生活习惯的不同，人们对肉品质要求的口味也不相同，因此，肉品质优劣的标准还需更广泛、更深入的研究。
+
+4结论
+
+$\textcircled{1}$ 隐性白羽肉鸡的不饱和脂肪酸含量较高，安卡鸡的饱和脂肪酸含量高，北京油鸡的系水力、必需脂肪酸含量高，清远麻鸡的剪切力、氨基酸含量高，文昌鸡的剪切力、肌间脂肪含量高。$\textcircled{2}$ 不同品种鸡肉品质、风味物质含量差异较大，且种类含量高低不同，不能用单一的指标进行衡量。$\textcircled{3}$ 从肉品质的营养角度分析，白羽肉鸡9周龄出栏是最优的选择。
+
+参考文献:  
+[1]张英,白杰,张海峰.鸡肉制品的现状及发展[J].肉类研究,2009(8):72-75.  
+[2]马敏,张增荣,杜华锐,等.放养条件下不同品种优质肉鸡肉品质比较分析[J].中国家禽,2015,37(21):53-54.  
+[3]李龙,蒋守群,郑春田,等.不同品种黄羽肉鸡肉品质比较研究[J].中国家禽,2015,37(21):6-11.  
+[4]刘华贵.北京油鸡风味品质及部分重要经济性状候选基因研究[D].博士学位论文.北京:中国农业大学,2008.  
+[5]周小娟,朱年华,张日俊.品种、日龄及饲养方式对鸡肉肌苷酸和肌内脂肪含量的影响[J].动物营养学报,2010,22(5):1251-1256.  
+[6]姜琳琳.不同品种鸡的肌肉化学成分及其与风味关系的比较研究[D].硕士学位论文.武汉:华中农业大学,2006.  
+[7]陈同煜,杨燕,吕慎金.不同品种羊肉肉质分析[J].黑龙江畜牧兽医,2016(13):123-124.  
+[8]周光宏,李春保,徐幸莲.肉类食用品质评价方法研究进展[J].中国科技论文在线,2007,2(2):75-82.[9]路文敏.影响冷鲜肉滴水损失关键因素研究[D].硕士学位论文.杨凌:西北农林科技大学,2010.[10]陈代文,张克英,胡祖禹.猪肉品质特征的形成原理[J].四川农业大学学报,2002,20(1):60-66.[11]林诗宇,杜夏夏,冉崇霖,等.舍饲与林地放养混合模式下寿光鸡、固始鸡和罗曼蛋鸡蛋品质及肉品质的比较[J].动物营养学报,2017,29(6):2116-2123.  
+[12]李培峰,魏清宇,叶红心,等.边鸡肌肉品质的研究[J].动物营养学报,2016,28(7):2221-2227.  
+[13]李同树,刘风民,尹逊河,等.鸡肉嫩度评定方法及其指标间的相关分析[J].畜牧兽医学报,2004,35(2):171-177.  
+[14]王春青,李侠,张春晖,等.肌原纤维特性与鸡肉原料肉品质的关系[J].中国农业科学,2014,47(10):2003-2012.  
+[15]卜柱,常玲玲,付胜勇,等.料形对不同日龄肉鸽生产性能及屠体品质的影响[J].中国畜牧杂志,2013,49(11):67-69.  
+[16]MOTTRAM D S,EDWARDS R A,MACFIE H J H.A comparison of the flavour volatiles from cookedbeef and pork meat systems[J].Journal of the Science of Food and Agriculture,1982,33(9):934-944.  
+[17]CHEVANCE FF V,FARMER L J.Release of volatile odor compounds from full-fat and reduced-low fatfrankfurters[J].Journal of Agriculture and Food Science,1999,47(12):5161-5168.  
+[18]张兰威,牟光庆,许高升,等.蛋制品工艺学[M].哈尔滨:黑龙江科学技术出版社,1996.  
+[19]安荣荣,冷丽,龚朋飞,等.高、低脂系肉鸡肌肉品质的比较[J].动物营养学报,2017,29(8):2977-2987.[20]BONNY S P F,GARDNER G E,PETHICK D W,et al.Biochemical measurements of beef are a goodpredictor of untrained consumer sensory scores across muscle[J].Animal,2015,9(1):179-190.  
+[21]陈宽维,李慧芳,张学余,等.优质鸡肌肉品质与育种方向的研究[J].山东家禽,2002(7):3-6.  
+[22] OIKE H,WAKAMORI M,MORI Y,et al.Arachidonic acid can function as a signaling modulator byactivating the TRPM5 cation channel in taste receptor cels[J].Biochimica et Biophysica Acta(BBA)-Molecular and Cell Biology of Lipids,2006,1761(9):1078-1084.  
+[23] KINNAMON S C.Umami taste transduction mechanisms[J].The American Journal of ClinicalNutrition,2009,90(3):753S-755S.  
+[24]RABIE M A,PERES C,MALCATA F X.Evolution of amino acids and biogenic amines throughoutstorage in sausages made of horse,beef and turkey meats[J].Meat Science,2014,96(1):82-87.  
+[25]李建军,文杰,陈继兰,等.品种和日龄对鸡肉滋味呈味物及香味前体物含量的影响[J].畜牧兽医学报,2003,34(6):548-553.  
+[26] YAMAGUCHIS,NINOMIYAK.Umamiandfoodpalatability[J].TheJournalofNutrition,2000,130(4):921S-926S.  
+[27] FARMER L J.Poultry meat flavor[M]//RICHARDSON R I,MEAD G C.Poultry meat science.NewYork:CAB International,1999:127-158.  
+[28] SKRIVAN M,SKRIVANOVA V,MAROUNEK M,et al.Influence of dietary fat source and coppersupplementation on broiler performance,fatty acid profile of meat and depot fat,and on cholesterol content inmeat[J].British Poultry Science,2000,41(5):608-614.  
+[29]王爱侠,刘进国,李同树.黄羽肉鸡肌肉中脂肪酸组成的分析比较[J].饲料博览,2004(3):1-3.  
+[30]舒希凡,林树茂,吾豪华,等.江西地方鸡种肌肉脂肪酸组成的测定与分析[J].动物科学与动物医学,2001,18(6):22-24.  
+[31] TOURAILLE C,RICARD F H,KOPP J,et al.Chicken meat quality.2.Changes with age of somephysico-chemical and sensory characteristics of the meat[J].Archiv fur Geflugelkunde,1981,45(3):275-279.
+
+Comparison Analysis of Meat Quality and Flavor of Different Breeds and Feeding Periods of Broilers JU Xiaojun SHU Jingting ZHANG Ming LIU Yifan TUYunjie JIGaigeSHANYanjuZOU Jianmin\* (Key Lab of Poultry Genetics and Breeding in Jiangsu Province, Jiangsu Institute of Poultry Sciences, Yangzhou 225125,China)
+
+Abstract: This experiment was conducted to compare the variance of body weight, conventional meat quality and contents of intramuscular fat,amino acid,faty acid of different breed broilers,and to provide reference for the evaluation standard of meat quality of broilers.The fast large broilers (recessive white feather broiler,Anka chicken） and the local breed chickens (Wenchang chicken, Beijng fatty chicken and Qingyuan partridge chicken) at same age and under same feeding condition were selected,60 broilers close to the average weight were weighed and slaughtered from the fast large broilers at 9-week-old and the local breed chickens at 17-week-old, which were used for determined the conventional meat quality and content of intramuscular fat, amino acid,fatty acid in breast muscle in different breeds; 6O broilers were weighed and slaughtered from recessive white feather broiler at 9 and 17-week-old, which were used for determined the conventional meat quality and content of intramuscular fat,amino acid,fatty acid in breast muscle at different feeding periods. The results showed as follows: 1) comparison of different breeds in the period of slaughter,the body weight of Anka chickens was significantly higher than that of other breeds $( P { < } 0 . 0 5 )$ ，the moisture loss rate of breast muscle of Beijng fatty chickens was significantly lower than that of other breeds ( $( P { < } 0 . 0 5 )$ ),theshearing force of breast muscle of Wenchang chickens and Qingyuan partridge chickens was significantly lower than that of other breeds $( P { < } 0 . 0 5 )$ , the meat color of breast muscle of Anka chickens was significantly higher than that of other breeds $( P { < } 0 . 0 5 )$ ，the $\mathfrak { p H }$ of breast muscle of Beijng fatty chickens was significantly higher than that of other breeds $( P { < } 0 . 0 5 )$ ， the content of intramuscular fat in breast muscle of Wenchang chickens was significantly higher than that of other breeds $( P { < } 0 . 0 5 )$ .The content of essential amino acids,non essential amino acids,tasty amino acids,sweet amino acids and total amino acids in breast muscle of Qingyuan partridge chickens was significantly higher than that of other breeds $( P { < } 0 . 0 5 )$ , the content of saturated fatty acid in breast muscle of recessive white feather broilers,Anka chickens was significantly higher than that of other breeds $( P { < } 0 . 0 5 )$ ,the content of essential fatty acids in breast muscle of recessive white feather broilers, Beijng fatty chickens was significantly higher than that of other breeds $( P { < } 0 . 0 5 )$ ,the content of unsaturated fatty acids in breast muscle of recessve white feather chickens was the highest.2) Comparison of different feeding priods,the moisture loss rate and content of non essential amino acids,tasty amino acids,saturated fatty acids and essential faty acids in breast muscle of recessive white feather chickens at 9-week-old were significantly higher than those at 17-week-old $( P { < } 0 . 0 5 )$ , and the body weight, breast muscle $\mathfrak { p H }$ ，content of intramuscular fat in breast muscle were significantly lower than those at 17-week-old $( P { < } 0 . 0 5 )$ . In conclusion, the meat quality and flavor substance content of different breed broilers are different,and can't be measured by single index.From the angle of nutrition analysis,the fast large meat broilers slaughter at 9-week-old is better than 17-week-old.
+
+Key words: broilers; meat quality; intramuscular fat; amino acid; fatty acid

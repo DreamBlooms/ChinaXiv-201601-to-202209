@@ -1,0 +1,355 @@
+[
+    {
+        "type": "text",
+        "text": "高寒草地沙化过程植被与土壤特征变化的生态阈值估算",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宗宁¹，石培礼¹²，孙建¹(1.中国科学院地理科学与资源研究所,生态系统网络观测与模拟重点实验室拉萨高原生态试验站，北京100101;2.中国科学院大学资源与环境学院,北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：草地沙化是目前面临的重要环境问题,会对牧草生产与居民生活环境产生重要影响。目前关于草地沙化的研究主要集中在沙化过程植被特征与土壤性质的变化，选择何种敏感指标指示沙化过程以及如何量化沙化过程的生态阈值仍缺乏研究。本文利用空间代替时间的方法,在半干旱高寒草原区选择5种沙化梯度作为研究对象，系统研究沙化过程中植物、土壤及微生物特征的变化，并对沙化过程的生态阈值进行估算。结果显示,随着沙化程度的加深,群落盖度、地上和地下生物量表现出显著降低的趋势;土壤含水量呈现逐渐降低趋势,而土壤容重呈现逐渐升高趋势,极重度沙化草地的砾石比例显著高于其他沙化梯度。对土壤养分含量的分析显示,表层土壤(0\\~10cm)全碳、全氮含量逐渐降低,极重度沙化碳氮比显著高于其他沙化梯度。草地沙化过程中植被的生态阈值发生在轻度—中度沙化梯度,土壤和土壤微生物的生态阈值发生在中度—重度沙化梯度。从阈值估算来看,植物反应比土壤更加敏感,把植物群落特征变化作为指示草地沙化程度的指标更科学。同时,轻度到中度沙化梯度是沙化过程的关键时期，所以对沙化草地的早期防治至关重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高寒草地；沙化梯度；植被特征；土壤特征；土壤微生物；生态阈值",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "草原沙化已经成为一个世界性的问题。草地沙化是指由于受自然和人为因素影响，草地原生植被、群落结构等发生改变，土壤受侵蚀、土质沙化、土壤含水量下降、营养物质流失和草地生产力减退等因素影响，致使原非沙漠地区的草地出现以风沙活动为主要特征的类似沙地景观的草地退化过程[1]。近年来,在人为和自然因素的共同影响下，高寒草地生态系统发生了严重的沙化，由斑块状分布向集中连片全沙化和流动沙丘转变[2]。草地沙化不仅对牧区生产与居民生活环境产生重要影响，还会严重影响区域生态安全和经济可持续发展。以往的研对草地沙化过程植被群落特征、生物量、土壤理化性质、养分含量、土壤微生物及酶活性都已经有许多研究。一般来讲，随着沙化程度的加剧，植被盖度降低,物种多样性下降，生产力降低[3-6]；土壤表层含水量、养分含量急剧下降，土壤pH降低，土壤表层颗粒变粗[7-9]；土壤酶活性降低，土壤微生物群落组成发生显著变化[4.10-13]。虽然沙化过程中地上植被的变化是最直观的，但也有研究表明土壤性质与微生物群落组成是生态系统变化最敏感的指标[14-17],故采取何种指标来指示草地沙化过程并未形成统一的认识。已有的研究更多是针对沙化过程中植被和土壤性质的变化趋势进行了研究，但对于沙化过程生态阈值的估算还研究较少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生态阈值是生态因子的不连续性变化，表示系统从一个稳态跃人另一个稳态时独立变量的关键值[18]。目前来讲,确定生态阈值常用的方法主要有统计分析(应用统计模型和Meta分析)和模型模拟（过程模型、系统动力学模型、概念模型等），这两种方法都基于大量野外数据的获取。非线性变化是生态阈值的重要原理，生态阈值的确定是通过生态系统的动态变化过程研究找出非线性变化拐点，从而确定生态阈值[19]。采用统计学方法量化生态阈值正是基于生态系统的非线性变化这一重要认识。此方法是建立在获取数据的基础上对实验数值进行描述，从而产生简单的符合生态学规律的统计模型[20-21],通过统计模型确立符合生态阈值。在群落生态学研究中，关键阈值可以理解为演替不同阶段之间转换的阈值。通过样带设置对景观尺度上环境因子的变化进行观测，得出随自然因子梯度变化所产生的生态阈值，是量化生态阈值的重要方法[22]。对于沙化过程来说,生态阈值是植被或土壤性质从一种沙化梯度突变到另一种沙化梯度时的关键值。量化生态阈值不仅对了解生态系统结构功能具有十分重要的作用[23-24],而且对生态系统管理和沙化的早期防治具有潜在的应用价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "青藏高原是对全球气候变化最敏感的地区之一。青藏高原生态环境脆弱，沙源丰富，加上高原独特的大风天气，使其具有沙化发生、发展的物质基础和动力条件，是我国沙漠化灾害严重的地区之_[7]。据最新统计,西藏全区沙漠化土地总面积约$2 0 { \\times } 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 }$ ,占高原面积的 $1 6 . 8 \\% ^ { [ 2 5 ] }$ 。该区大面积草地沙化和生态环境破坏，不仅直接威胁着青藏高原草地畜牧业的可持续发展和人类的生存环境，而且对涵养水源和控制水土流失不利，给中华水塔的经济发展和生态环境保护产生了重要不良影响[7]。本文利用空间代替时间序列的方法，在半干旱高寒草原区选择5个沙化梯度，通过测定植被群落特征、土壤性质和微生物群落特征，确定指示沙化过程的敏感指标。量化沙化过程的生态阈值，对于沙化过程中生态指标的选择具有重要指导意义，同时对于沙化草地早期防治和植被重建与恢复治理具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究在西藏自治区班戈县以北约 $5 \\mathrm { k m }$ 高寒草原区 $( 3 1 ^ { \\circ } 2 6 ^ { \\prime } \\mathrm { N } , 9 0 ^ { \\circ } 0 2 ^ { \\prime } \\mathrm { E } )$ 进行，地处藏北高原腹地，海拔 $4 6 7 8 \\mathrm { ~ m ~ }$ 。气候为半干旱大陆性高原气候。多年平均气温为 $- 1 . 2 ^ { \\circ } \\mathrm { C } , 1$ 月最低为 $- 1 7 . 5 \\mathrm { { ^ { \\circ } C } } , 7$ 月最高为 $1 4 . 7 ~ \\mathrm { ^ { \\circ } C }$ 。年降水量 $3 3 5 ~ \\mathrm { m m }$ ,其中 $80 \\%$ 发生在6—9月之间[26]。年潜在蒸散量在1993.4\\~2104.3$\\mathrm { m m } ^ { [ 2 6 ] }$ ,干燥度指数(潜在蒸散量与降雨量比值)在",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$6 . 0 { \\sim } 6 . 3 ^ { [ 2 7 ] }$ 。土壤为高寒草原土,土壤相对贫瘠,深度约为 $0 . 3 \\sim 0 . 5 \\mathrm { ~ m ~ }$ 。该高寒草原优势种为紫花针茅（Stipapurpurea)和火绒草(Leontopodium leontopodioi-des)以及青藏狗娃花（Heteropappus boweri）[26.28]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据Dregne[29]和李森等[30]提出的分类标准，高寒草地的沙化程度可以根据裸地面积和植被覆盖率来划分。使用空间序列代替时间序列的方法，在高寒草原区选择5种沙化梯度原生草地(PD)，轻度沙化(LD，裸地面积 ${ < } 3 0 \\%$ ，植被覆盖率 ${ > } 3 0 \\%$ ），中度沙化（MD，裸地面积 $1 0 \\% \\sim 3 0 \\%$ ,植被覆盖率$1 0 \\% \\sim 3 0 \\%$ )，重度沙化(HD，裸地面积 $3 0 \\% \\sim 5 0 \\%$ 和植被覆盖度 $5 \\% \\sim 1 0 \\%$ ），以及极重度沙化（SHD，裸地面积 ${ > } 5 0 \\%$ ,植被覆盖度 $< 5 \\%$ )沙化梯度」。本地区草地沙化主要归因于近几十年来的过度放牧，并因风蚀和水蚀而加剧[26]。原生草地优势物种为紫花针茅、多裂委陵菜(Potentillamultifida)和微孔草（Microulasikkimensis）；轻度沙化草地优势物种为窄叶苔草（Carexmontis-everestii）、多裂委陵菜和羊茅（Festucaovina）；中度沙化草地优势物种是紫花针茅、多裂委陵菜和冷地早熟禾(Poacrymophila）；重度沙化草地优势物种是紫花针茅、纤杆蒿(Artemisiademissa)和窄叶苔草;极重度沙化草地仅有微孔草和平卧轴藜(Axyris prostrata）[28]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植被样方调查在2017和2018年两个生长季开展，土壤样品采集在2017年生长季进行。植物群落特征调查采用样方法，于每年植物生长旺盛期(8月中旬)进行。每个样地内随机选取 $0 . 5 ~ \\mathrm { m } { \\times } 0 . 5 ~ \\mathrm { m }$ 样方，将样方框用细绳均匀分为25个 $1 0 \\ \\mathrm { c m } \\times 1 0 \\ \\mathrm { c m }$ 的栅格，以植物群落所占栅格数确定群落总盖度及每个植物种的分盖度。每个沙化梯度设置5个重复。植物群落特征调查完成后，将样方内植物地上部分分物种齐地面刘割并分种存放于信封中，同时将凋落物收集于信封中，带回实验室置于 $6 5 ~ \\mathrm { { ^ { \\circ } C } }$ 烘干 $4 8 \\mathrm { ~ h ~ }$ 至恒重后称量。割完地上部分的样方分层获取地下生物量，每个样方中挖取一个 $2 0 \\mathrm { c m } \\times 2 0 \\mathrm { c m }$ 的土柱，按 $0 \\sim 1 0 \\AA . 1 0 \\sim 2 0 \\AA . 2 0 \\sim 4 0 \\mathrm { ~ c m }$ 三层分别进行挖取。洗净样品中的土壤及沙粒等杂物(包括死根与活根），然后在 $6 5 ~ \\mathrm { { ^ \\circ C } }$ 烘干 $4 8 \\mathrm { { h } }$ 至恒重然后称量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤样品置于便携式冰盒带回实验室，去掉植物根系和石块，过筛后分成两份，一份保存到 $- 2 0 \\mathrm { { ^ { \\circ } C } }$ 条件下用于土壤微生物群落的研究，另一份风干后进行理化性质分析。将过 $2 \\mathrm { m m }$ 筛的土壤样品风干后，用球磨仪将样品粉碎过100目筛，留作进一步分析。采用环刀法测定土壤容重；土壤含水量采用烘干法，在 $1 0 5 ~ \\mathrm { { ^ circ C } }$ 下至少烘干 $2 4 \\mathrm { h }$ 至恒重后称重；土壤砾石含量的测定通过筛重法测定；土壤碳、氮含量采用元素分析仪测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4土壤细菌群落组成分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物样品的测定在四川博贝特生物科技有限公司中进行。对于土壤微生物样品，从每个样地中随机选择的位置收集五个 $1 0 \\mathrm { c m }$ 内的表层土柱，同一个样地内的土壤混合均匀。使用MOBIOPower土壤DNA分离试剂盒（MOBio LaboratoriesInc.,CA,USA,2017)从土壤中提取DNA。使用两个通用的细菌引物对515F( $5 ^ { \\prime } { \\cdot }$ -GTGCCAGCMGCCGCG-GTAA- $3 ^ { \\prime }$ )和909R( $5 ^ { \\prime } .$ CCCCGYCAATTCMTTTRAGT-$3 ^ { \\prime } .$ ），通过PCR扩增了细菌16SrRNA基因的V4\\~V5区。PCR混合物 $( 2 5 ~ \\mu \\mathrm { L } )$ 包含 $1 \\times \\mathrm { P C R }$ 缓冲液，1.5$\\mathrm { m M \\ M g C l _ { 2 } \\Omega . 0 . 4 \\ \\mu M }$ 的每个脱氧核苷三磷酸， $1 . 0 ~ \\mu \\mathrm { M }$ 的每个引物和0.5U的ExTaq(TaKaRa)和 $1 0 ~ \\mathrm { { n g } }$ 的土壤基因组DNA。PCR扩增程序包括在 $9 4 ~ \\mathrm { ^ { \\circ } C }$ 进行3分钟的初始变性，然后在 $9 4 ~ \\mathrm { ^ { \\circ } C }$ 进行 $4 0 \\mathrm { s } , 5 6 \\mathrm { ‰ }$ 进行60s和 $7 2 \\ \\mathrm { { ^ { \\circ } C } }$ 进行60s的30个循环，最后在 $7 2 \\%$ 进行延伸10分钟每个样品进行两次PCR反应，并在PCR扩增后合并[31]。通过测序从PCR中包括阴性对照。在不含DNAPCR的样品制备试剂盒(IluminaInc.,CA,USA,2017)上对最终的多重组进行测序。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用FLASh(V1.2.7,http://ccb.jhu.edu/software/FLASH/)对每个样品的拼接序列进行拼接，得到的拼接序列为原始数据(Raw Tags）。通过拼接获得的原始标签需要经过严格的过滤过程才能获得高质量的数据（CleanTags）。此步骤被称为Qiime的质量控制过程(V1.9.0,http://qiime.org/scripts/split_li-braries_fastq.html):（1）Raw数据从第一个低质量基础位点被截断具有连续的低质量值(默认质量阈值$\\leqslant 3$ )到设置的长度(默认长度值为3)；(2）截取后对获得的标签数据集，进一步过滤掉连续高质量基长小于长度 $7 5 \\%$ 的标签。使用Usearch软件（V8.0,http://drive5.com/uparse/)检测嵌合序列，并获得最终的有效数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5统计分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "已有研究表明，基于生态阈值是生态系统非线性变化出现拐点时的阶段这一重要认识，采用统计学方法可量化生态阈值[32-33]。利用野外调查获取数据的基础上对实验数值进行描述，产生简单的符合生态学规律的统计模型[20-21.34],通过统计模型模拟确立符合生态学过程的阈值。对于沙化过程来说，生态阈值是植被特征或土壤性质从一种沙化梯度突变到另一种沙化梯度时的关键值。本研究利用野外沙化梯度的调查数据，建立符合沙化过程的统计模型，利用突变过程来确定生态阈值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用单因素方差分析沙化梯度对植被群落特征（地上、地下生物量与群落盖度）、土壤性质（容重、土壤水分含量、土壤砾石含量、土壤总碳、总氮与碳氮比)以及土壤微生物群落组成特征(香农多样性指数与Chao1丰富度指数)的影响，并利用非线性回归对上述所有植被特征、土壤性质、土壤微生物多样性和组成的响应比(相对于原生草地增加或降低的比例)整体归一化后分别进行拟合分析，选择最优回归模型。显著性水平 $P { < } 0 . 0 5$ ,统计分析和图件制作分别采用 SPSS 16.0（SPSS Inc.,Chicago,IL,USA,2009)和Origin Pro 2017(OriginLab Corporation,Northampton,MA,USA,2017)软件进行分析和制图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1植被群落特征随沙化梯度的变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着沙化程度的加深，两年的群落调查均表明群落地上生物量表现出显著降低的趋势，地上生物量从原生草地 $4 7 . 5 \\sim 6 8 . 6 ~ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ 降低到极重度沙化草地 $5 . 0 \\sim 1 0 . 7 ~ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ （图1a)。群落地下生物量表现出年际间差异，2017年原生草地、轻度、中度沙化草地之间群落地下生物量无显著差异，显著变化出现在重度到极重度沙化梯度，而2018年群落地下生物量显著降低，从原生草地 $3 5 5 . 6 ~ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ 下降到极重度沙化草地 $2 . 2 \\ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ (图1b)。植被群落盖度呈现降低趋势，从原生草地 $5 5 \\% \\sim 6 4 \\%$ 降低到极重度沙化草地 $5 . 0 \\% \\sim 1 0 . 4 \\%$ (图1c)。利用响应比估算沙化过程中植被变化的生态阈值显示，地上生物量和群落盖度反应敏感，从原生草地到轻度沙化草地过程中显现出显著降低趋势，而地下生物量反应相对迟缓，显著变化出现在轻度到中度沙化梯度(图1d～f)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤理化性质随沙化梯度的变化特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着沙化程度加重，土壤容重、砾石含量、土壤 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a)地上生物量 ■2017年 2.0 (d)地上生物量响应比8400 H A 品 中 □ 营 15100500 o6g 9@6 J0 1 2 3 4 5 6 0 1 2 3 4 5 6  \n（z-.8)/ 600 (b)地下生物量 2.5 (e)地下生物量响应比40200 HA I L 23050 og 80880 1 2 3 4 5 6 0 1 2 3 4 5 690 (c)群落盖度 1.5 (f)群落盖度响应比■2017年  \n%/擦 60 A 02018年 比1.0 8 R²=0.947,P<0.00130 0 上 g 品 D 管 0.5 0.0 上 目 70 1 2 3 4 5 6 0 1 2 3 4 5 6沙化梯度 沙化梯度注：不同大写字母代表2017年处理间差异显著,不同小写字母代表2018年处理间差异显著。横坐标1、2、3、4、5分别代表原生、轻度、中度、重度和极重度沙化梯度高寒草地。下同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "碳氮比呈现逐渐升高趋势，土壤容重从 $1 . 3 4 ~ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 3 }$ 增加到 $1 . 6 0 \\ \\mathrm { g \\cdot c m } ^ { - 3 }$ ,土壤砾石含量从 $3 9 \\%$ 增加到$5 1 \\%$ ，土壤碳氮比从8.4增加到12.2（图 $2 \\mathrm { a } , \\mathrm { c } , \\mathrm { f } )$ 。土壤含水量、土壤表层 $( 0 \\sim 1 0 ~ \\mathrm { c m } )$ 碳、氮含量呈现逐渐降低趋势，土壤含水量从 $1 0 \\%$ 降低到 $3 \\%$ ,土壤碳含量从 $1 . 8 \\%$ 降低到 $0 . 6 \\%$ ,土壤氮含量从 $0 . 2 1 \\%$ 降低到 $0 . 0 5 \\%$ （图2b,d,e）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用响应比对土壤性质发生显著变化时沙化梯度的估算表明，降低的土壤性质显著变化出现在中度一重度沙化阶段;除了土壤容重外，其他升高指标的显著变化出现在重度一极重度沙化阶段(图$2 \\mathrm { g } \\sim \\mathrm { l } )$ 。同时结果也表明，沙化过程土壤性质的变化滞后于植被特征的变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤微生物群落组成沿沙化梯度变化特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着沙化程度的加深，细菌群落Shannon多样性指数和Chao1丰富度指数均呈现逐渐升高趋势，显著变化均出现在重度与极重度沙化阶段(图3a,b)。从各个门的相对优势度可以看出，放线菌门（Actinobacteria)和泉古菌门(Crenarchaeota)细菌群落显著降低趋势，而变形菌门（Proteobacteria）、酸杆菌门（Acidobacteria）、拟杆菌门（Bacteroidetes）以及其他门的土壤细菌群落呈显著增加趋势（图 $4 \\mathrm { a } \\sim \\mathrm { f } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用响应比估算土壤细菌群落发生显著变化的沙化梯度表明，土壤微生物群落多样性的显著变化出现在重度与极重度沙化阶段，而优势种群相对丰富度的显著变化出现在中度到重度沙化阶段（图3c,d,图 $4 \\mathrm { g } \\sim \\mathrm { l } \\dot { , }$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4沙化过程生态阈值的估算 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综合分析显示，沙化过程中植被特征的显著变化（生态阈值)发生在轻度一中度沙化梯度（图5a)。对于土壤而言，增加的土壤性质生态阈值发生在沙化过程的重度一极重度梯度，降低的土壤因子生态阈值出现在中度一重度沙化梯度(图5b)。土壤微生物的生态阈值出现在中度一重度沙化梯度(图5c,d)。结果表明，沙化过程土壤性质的变化滞后于植被特征，植被群落的变化敏感性更高，更应该作为沙化过程的敏感指标。由此可见，在沙化过程中对草地植被破坏的早期防治很重要。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "植被减少导致土地裸露是沙化过程最明显的变化。已有研究表明，随着草地沙化程度的加剧，植被会发生逆向演替，植被盖度、高度和生物量都",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H 1.4 (g)土壤容重 CD AB A 1.2 啊1.0 g od c0o o oq0 8 R²=0.561, P<0.001   \n1.0 0.8 (b)土壤含水量 (h)土壤含水量响应比 A A 1 ■ B B 8 8   \n6 重 工H C 响 0.5 R2=0.796, bo 00960 ■ P<0.001 日   \n0 0.0   \n%/喜 (c)土壤砾石含量 A 1.4 (i)土壤砾石含量响应比   \n0 BI BH ■ 批1.2 0000 0100 9doo R2=0.568, oo 8 P<0.001   \n30 0.6   \n总 1.4 0.7 B 1 C 10 响 0.5 R2=0.830,   \n0.0 0.0 (e)土壤总氮含量 (k)土壤总氮含量响应比   \n82 总 0.1 A AHI A B 重 C 1.0 响 0.5 R²=0.846, cq0o 8   \n0.0 ■ 0.0 P<0.001 QD  \n15 (f)土壤碳氮比 A (l)土壤碳氮比响应比 00 1.5   \n无 296 B B B B■ 工 2 0 。8 o   \n3 1 23 4 5 6 0.6 1 2345 6 沙化梯度 沙化梯度 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f78dce789ed9a817bbbc43608253db335cd6b5a3487cbb91e95e23cbb78f1bc2.jpg",
+        "img_caption": [
+            "图2沙化过程土壤特征的变化",
+            "Fig.2Variations of soil properties under different desertification gradients ",
+            "图3沙化过程土壤微生物群落多样性的变化",
+            "Fig.3Diversity and composition of soil microbial communities underdifferent desertification gradients "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6e1b9c247c1a0c4b0c9cf7453e0d21692db09eba4075c24d402142541598416.jpg",
+        "img_caption": [
+            "图4沙化过程土壤微生物优势种群相对丰富度的变化",
+            "Fig.4Relative abundance of soil microbial communities under different desertification gradients "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "会明显下降,最终甚至会导致植被的衰亡[4-5.12]。我们的研究也呈现类似的规律，从潜在沙化草地到极重度沙化草地植被群落盖度从 $5 0 \\% \\sim 6 0 \\%$ 降低到$1 0 \\%$ 以下，群落总生产力也从 $4 0 \\sim 7 0 ~ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ 降低到$1 0 \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ 以下。草地沙化改变了原有生境的生物组成和密度，减少生物量和植被盖度，并最终导致生产力的下降。植被减少是引发草地沙漠化的主要因子，也是沙漠化的必然结果[35]。在重度沙化草场中，风蚀和流沙堆积造成一些物种死亡，植被盖度大幅度降低而且草皮层被毁，这进一步加剧了地表的风蚀。在重度沙漠化分布区域的边缘地带，一些草场已被流沙掩埋而成为新的沙漠化草场，这导致了沙漠化区域的扩展[。同时，从重度沙化梯度优势物种演替为平卧轴藜和青藏狗娃花等不可食牧草，沙化过程改变了高寒草地的植被组成变化，引发了植被演替和多年生优良牧草的减少，使得优良牧草的盖度降低。植被覆盖和枯落物的存在会降低风速、避免地表侵蚀[36],并且有助于土壤有机团粒结构的形成[37]，植被减少会加剧土壤的裸露与沙化过程[6]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤是草原生态系统的重要组成部分。草地的沙化包括植被减少和土壤性质的变化，两者具有相互反馈与放大的作用[38]。在高寒草原植物群落沙化演替过程中，植物群落的减少与土壤变化有一",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.0 (a)植被特征 2.0 (b)土壤性质1.5 oo 0868 oo 1.5 80QQo  \n比 CooborooD 0 营  \n1.0 11.00 20.5 C08010 ooxom ocacgoo 0.5 R2=0.813, P<0.001R²=0.636,P<0.001 Op - R²=0.508,P<0.001 .0.0 I 1 0.0 上 上 上 1 1 J0 1 2 3 4 5 6 0 1 2 3 4 5 61.8 广 (c)土壤微生物多样性 2.0 (d)土壤微生物组成。R²=0.467,P<0.001 80 8800989908  \n1320 ooo6800y 8Ox 出营 1510 H Qo.0.5 ： D0.6 o- 1 上 L 1 o- J0 1 2 3 4 5 6 0 1 2 3 4 5 6沙化梯度 沙化梯度",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "定的同步性。已有的多数研究表明，随着沙化程度的加深，土壤养分严重丧失，土壤碳氮含量均随着沙化程度的提高而呈下降的趋势，其中表层土壤变化最为显著[8-10.12]。本研究也发现,随着沙化程度加深，土壤含水量呈现逐渐降低趋势，表层土壤全碳、全氮含量逐渐降低，极重度沙化碳氮比显著高于其他梯度。土壤容重呈现逐渐升高趋势，极重度沙化草地的砾石含量比例显著高于其他沙化草地类型。由此可见，沙化过程导致地表土壤粗糙度增加，这反过来会加速植被的减少和促进沙化演替进程。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物是土壤中物质循环的调节者，同时微生物量也是土壤有机质库和速效养分的一部分[1°]。土壤微生物量虽然只占土壤有机质库的很小部分，但却是控制土壤中碳氮和其他养分流的关键，对植被的正常生长发育、土壤有机质的分解转化和供应起着极其重要的作用[14-15]。土壤生物学性质能敏感地反映出土壤质量和健康的变化。因此，近些年来运用微生物量、微生物群落组成及酶活性等土壤生物学特性参数来表征土壤质量变化及其动态已经日益受到重视。本研究发现，重度与极重度沙化样地细菌群落差异显著，极重度沙化样地Al-pha多样性显著升高。同时发现,细菌群落优势种群显著降低，这与已有的研究结论一致[13，优势种群的降低会提高其他非优势群落的多样性[28]。开展沙化过程土壤生物活性变化规律的研究，对于从生物学和生态学角度分析沙化的形成发展过程、解释沙化的自然规律和动力学机制以及制定有效的生物防治措施具有重要的意义[10]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生态阈值是生态系统对外界环境变化响应产生状态改变的条件，或者说是生态系统抵御外界干扰的极限值或者耐受范围[39]。但已有的研究只集中在不同沙化过程植被特征与土壤性质的变化[4-.8,11],没有进一步对沙化过程的生态阈值进行估算。综合分析显示，沙化过程中植被的显著变化(沙化阈值)发生在沙化过程的轻度一中度沙化梯度，土壤性质显著变化(沙化阈值)发生在沙化过程的中度一重度沙化梯度,土壤微生物的显著变化出现在中度一重度沙化梯度。由此可见，在沙化过程中对沙化草地植被破坏的早期防治很重要。这与已有的研究类似，丁勇等[3研究表明，在沙化演替进程中土壤的机械组成、土壤质地、养分和有机质较植物群落变化明显滞后。但是土壤性质一旦被破坏，就不容易恢复。所以，沙化草地的恢复工作既要注重植物群落的恢复，又要注重土壤的保护。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究利用空间代替时间的方法，在半干旱高寒草原区选择5种沙化梯度作为研究对象，系统研究植物、土壤及微生物特征随沙化过程的变化，并对沙化过程的生态阈值进行估算，得出如下结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）随着沙化程度的加深，植物群落盖度、地上和地下生物量表现出显著降低的趋势。土壤特征沿沙化梯度同样呈现梯度变化：土壤含水量呈现逐渐降低趋势，而土壤容重呈现逐渐升高趋势，极重度沙化草地的砾石比例显著高于其他沙化梯度；对土壤养分含量的分析显示，表层土壤全碳、全氮含量逐渐降低，极重度沙化碳氮比显著高于其他沙化梯度。(2）拟合分析表明，草地沙化过程中植被特征的生态阈值出现在轻度一中度沙化梯度，土壤和土壤微生物的生态阈值出现在中度一重度沙化梯度。（3）从生态阈值来看，植物群落反应比土壤特征更加敏感，把植物群落特征变化作为指示草地沙化程度的指标更科学。轻度到中度沙化梯度是高寒草地沙化的关键时期,对高寒草地的早期沙化防治至关重要。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]国家林业局.第五次中国荒漠化和沙化状况公报[M].北京：国 家林业局,2O15.[State Forestry Administration.The 5th China Desertification and Desertification Communiqué[M]. Beijing: State Forestry Administration,2015.]   \n[2]王辉,任继周,袁宏波.黄河源区高寒草地沙化进程中土壤物理 性质的变化(简报)—以玛曲为例[J].草业学报,2007,16(1): 30-33.[Wang Hui,Ren Jizhou,Yuan Hongbo.A study on the changes of soil physical properties in the desertification process of source regions of the Yellow River using Maqu as an example[J]. Acta Prataculturae Sinica,2007,16(1): 30-33.]   \n[3]陈文业,张瑾,戚登臣,等.黄河首曲-玛曲县高寒草甸沙化动 态演变趋势及其驱动因子定量分析[J].草业学报,2013,22(2): 11-21.[Chen Wenye, Zhang Jin,Qi Dengchen,et al. Desertification dynamic change trend and quantitative analysis of driving factors of alpine meadow in Maqu County in the First Meander of the Yellow River[J].Acta Prataculturae Sinica,2013,22(2): 11-21.]   \n[4] 金红喜,何芳兰,李昌龙,等.玛曲沙化高寒草甸植被、土壤理化 性质及土壤微生物数量研究[J].草业学报,2015,24(11):20- 28.[JinHongxi,He Fanglan,Li Changlong,etal.Vegetation char acteristics,abundance of soil microbes,and soil physico-chemical properties in desertified alpine meadows of Maqu[J].Acta Prataculturae Sinica,2015,24(11): 20-28.]   \n[5]李昌龙,徐先英,金红喜,等.玛曲高寒草甸沙化过程中群落结 构与植物多样性[J].生态学报,2014,34(14):3953-3961.[Li Changlong,Xu Xianying,Jin Hongxi,et al.Community structures and plant diversities in the desertification process of Maqu alpine meadow in Gansu[J].Acta Ecologica Sinica,2014,34(14): 3953- 3961.]   \n[6]魏兴琥,李森,杨萍,等.藏北高山嵩草草甸植被和多样性在沙 漠化过程中的变化[J].中国沙漠,2007,27(5):750-757.[Wei Xinghu,Li Sen,Yang Ping, etal.Changes of vegetation and diver sity of alpine Kobresia (Kobresia pygmaea) steppe meadow in desertification process in northern Tibet Plateau[J]. Journal of Desert Research,2007,27(5): 750-757.]   \n[7]韩光中,屈建军,俎瑞平.安多县沙漠化过程中土壤理化性质的 演变特征[J].土壤通报,2014,45(5):1032-1037.[Han Guangzhong,Qu Jianjun, Zu Ruiping. Evolution characteristics of soil properties during desertification progress in Amdo County[J]. Chinese Journal of Soil Science,2014,45(5): 1032-1037.]   \n[8]蒋双龙,胡玉福,蒲琴,等.川西北高寒草地沙化过程中土壤氮 素变化特征[J].生态学报,2016,36(15):4644-4653.[Jiang Shuanglong,Hu Yufu,Pu Qin,et al. Changes in soil nitrogen characteristics during grassand desertification in Northwest Sichuan[J]. Acta Ecologica Sinica,2016,36(15): 4644-4653.]   \n[9]迟妍妍,许开鹏,张惠远.浑善达克沙漠化防治区生态安全评价 与对策[J].干旱区研究,2015,32(5):1024-1031.[Chi Yanyan, Xu Kaipeng, Zhang Huiyuan. Ecological security assessment and countermeasures of Hunshandake desertification control regions [J]. Arid Zone Research,2015,32(5): 1024-1031.]   \n[10] 曹成有,朱丽辉,富瑶,等.科尔沁沙质草地沙漠化过程中土壤 生物活性的变化[J].生态学杂志,2007,26(5):622-627.[Cao Chengyou,Zhu Lihui,FuYao,etal.Changes of soil biological activity in desertification process of Horqin sandy grassand[J]. Chinese JournalofEcology,2007,26(5): 622-627.]   \n[11] 何芳兰,金红喜,王锁民,等.沙化对玛曲高寒草甸土壤微生物 数量及土壤酶活性的影响[J].生态学报,2016,36(18):5876- 5883.[He Fanglan,Jin Hongxi,Wang Suomin,et al.Efect of desertification on soil microbial biomass and enzyme activities in Maqu alpine meadow[J].Acta Ecologica Sinica,2016,36(18): 5876-5883.]   \n[12] 舒向阳,胡玉福,蒋双龙,等.川西北沙化草地植被群落、土壤有 机碳及微生物特征[J].草业学报,2016,25(4):45-54.[Shu Xiangyang,Hu Yufuu, Jiang Shuanglong,et al. Plant community characteristics,soil organic carbon and soil biological properties of grassland desertification sites in Northwest Sichuan[J].Acta Prataculturae Sinica,2016,25(4): 45-54.]   \n[13]唐杰,徐青锐,王立明,等.若尔盖高原湿地不同退化阶段的土 壤细菌群落多样性[J].微生物学通报,2011,38(5):57-66. [Tang Jie,Xu Qingrui, Wang Liming,etal.Soil bacterial community diversity under different stages of degradation in Zoige wetland [J].Microbiology China,2011,38(5): 57-66.]   \n[14]Cao C, Zhang Y,CuiZ,et al. Soil bacterial communityesposes to revegetation of moving sand dune in semi-arid grassland[J]. Applied Microbiology and Biotechnology，2017,101(15):6217- 6228.   \n[15] Xue L,Ren H,Li S,et al. Soil bacterial community structure and co-occurrence pattern during vegetation restoration in Karst Rocky desertification area[J].Frontiers inMicrobiology,2O17,8:2377.   \n[16] 朱义族,李雅颖,韩继刚,等.水分条件变化对土壤微生物的影 响及其响应机制研究进展[J].应用生态学报,2019,30(12): 4323-4332.[Zhu Yizu,Li Yaying,Han Jigang,et al. Effects of changes in water status on soil microbes and their response mechanism: A review[J]. Chinese Journal of Applied Ecology,2019,30 (12): 4323-4332.]   \n[17] 李品,木勒德尔·吐尔汗拜,田地,等.全球森林土壤微生物生物 量碳氮磷化学计量的季节动态[J].植物生态学报,2019,43(6): 532-542.[Li Pin,Muledeer Tuerhanbai, Tian Di,et al. Seasonal dynamics of soil microbial biomass carbon, nitrogen and phosphorus stoichiometry across global forest ecosystems[J]. Chinese Journal of Plant Ecology,2019,43(6): 532-542.]   \n[18]Muradian R.Ecological thresholds: Asurvey[J].EcologicalEconomics,2001,38(1): 7-24.   \n[19]Rial JA,Pielke RA,Beniston M,etal. Nonlinearities,feedbacks and critical thresholds within the Earth's climate system[J]. Climatic Change,2004,65(1-2): 11-38.   \n[20] Qian S S.Ecological threshold and environmental management: A note on statistical methods for detecting thresholds[J].Ecological Indicators,2014,38: 192-197.   \n[21]Qian S S,Cuffney TF.To thresholdor not to threshold? That's the question[J]. Ecological Indicators,2012,15(1): 1-9.   \n[22] Sasaki T, Okayasu T, Jamsran U,et al. Threshold changes in vegetation along a grazing gradient in Mongolian rangelands[J]. Journal of Ecology,2008,96(1): 145-154.   \n[23]HuggettA J. The concept and utility of ‘ecological thresholds’in biodiversity conservation[J].Biological Conservation,2005,124 (3): 301-310.   \n[24]Groffman P,Baron J, Blet T,etal.Ecological thresholds: The key to successful environmental management or an important concept with no practical application?[J]. Ecosystems,2006,9(1): 1-13.   \n[25] 王兮之,李森,何巧如,等.西藏沙漠化土地退化程度动态分析 及其评价[J].中国水土保持,2009,7:25-28.[Wang Xizhi,Li Sen,He Qiaoru, et al.Analysis and evaluation on degree of landside deformation of desertified land degeneration of Tibet[J]. Soil and Water Conservation in China,2009,7: 25-28.]   \n[26]Dong J, Cui X,Wang S,et al. Changes in biomass and quality of alpine steppe in response to N &Pfertilization in the Tibetan Plateau[J]. Plos One,2016,11(5): e0156146.   \n[27] 王敏,周才平,吴良,等.2001—2010年青藏高原干湿格局及其 影响因素分析[J].气候变化研究进展,2012,8(5):11-17.[Wang Min, Zhou Caiping,Wu Liang,etal.Aridity patern of Tibetan Plateau and its influential factors in 2Oo1-2O1O[J].Progressus Inquisitiones DE Mutatione Climatis,2012,8(5): 11-17.]   \n[28] Zong N, Shi P.Soil properties rather than plant production strongly impact soil bacterial community diversity along a desertification gradient on the Tibetan Plateau[J].Grassland Science,2020,66: 197-206. https://doi.ory/10.1111/grs.12269.   \n[29]Dregne HE.Land degradation in the worldsarid zones[C]/Sympsium on Soil and Water Science: Key to Understanding Our Global Environment.Cincinnati, Ohio: Soil Science Society of America Special Publication,ed. Baker R S.1994: 53-58.   \n[30] 李森,杨萍,高尚玉,等.近10年西藏高原土地沙漠化动态变化 与发展态势[J].地球科学进展,2004,19(1):63-70.[Li Sen, Yang Ping, Gao Shangyu, et al. Dynamic changes and developmental trends of the land desertification in Tibetan Plateau over the past 10 years[J]. Advance in Earth Sciences,2004,19(1): 63-70.]   \n[31]Li X,RuiJ,Mao Y,etal.Dynamicsof the bacterial community structure in the rhizosphere of a maize cultivar[J]. Soil Biology& Biochemistry,2014,68: 392-401.   \n[32] Smith A J, Tran CP.A weight-of-evidence approach to define nutrient criteria protective of aquatic life in large rivers[J]. Journal of the North American Benthological Society,2010,3(29): 875-891.   \n[33] Toms JD,Lesperance ML.Piecewise regression: A tool for identifying ecological thresholds[J]. Ecology,2003,84(8): 2034-2041.   \n[34] 吴东浩,于海燕,吴海燕,等.基于大型底栖无脊椎动物确定河 流营养盐浓度阈值——以西苕溪上游流域为例[J].应用生态 学报,2010,21(2): 483-488.[Wu Donghao,Yu Haiyan,Wu Haiyan,et al.Estimation of river nutrients thresholds based on benthic macroinvertebrate assemblages: A case study in the upper reaches of Xitiao Stream in Zhejiang, China[J]. Chinese Journal of Applied Ecology,2010,21(2): 483-488.]   \n[35] 魏兴琥,杨萍,李森,等.西藏沙漠化典型分布区沙漠化过程中 的生物生产力和物种多样性变化[J].中国沙漠,2005,25(5): 663-667.[Wei Xinghu,Yang Ping,Li Sen,et al. Changes of bioproductivity and species diversity in process of desertification in typical desertified land,Tibet[J].Journal of Desert Research, 2005,25(5): 663-667.]   \n[36] 孙姗姗,刘新平,魏水莲,等.沙地植物幼苗生长对降水和风速 变化的响应[J].干旱区研究,2019,36(4):870-877.[Sun Shanshan,Liu Xinping,Wei Shuilian, etal. Response of plant seedling growth to the changes in precipitation and wind velocity in Horqin sandy land[J].Arid Zone Research,2019,36(4): 870-877.]   \n[37]Buckley R.The effect of sparse vegetation on the transport of dune sand by wind[J]. Nature,1987,325(6103): 426-428.   \n[38] 丁勇,牛建明,杨持.北方草地退化沙化趋势、成因与可持续发 展研究——以内蒙古多伦县为例[J].内蒙古大学学报(自然科 学版),2006,37(5): 580-586.[Ding Yong,Niu Jianming,Yang Chi. Study on the tendency and formation causes of grassland degradation,desertification and the sustainable development in Northern China: The case of duolun county,Inner Mongolia[J]. Journal of Inner Mongolia University (Natural Science Edition),2006,37 (5): 580-586.]   \n[39] 唐海萍,陈姣,薛海丽.生态阈值:概念、方法与研究展望[J].植 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Estimation of ecological thresholds in plant and soil properties during desertification in an alpine grassland ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ZONG Ning'，SHI Pei-li'²，SUN Jian' (1.Lhasa National Ecological Research Station,Key Laboratory of Ecosystem Network Observation and   \nModelling,Instituteof Geographic Sciences and Natural Resources Research,ChineseAcademy ofSciences,   \nBeijing 100l01,China;2.College ofResources and Environment, University ofChinese Academy ofSciences, Beijing 100049,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Alpine grassland desertification isan important environmental problem,which have an important mpact ongrassland forage production and residents’living environment.The current studies on grassand desertification are mostly focused on the changes in vegetation and soil properties during desertification process,with no prior knowledge about which variables are more sensitive and can be used to indicate state transition in the desertification process,and howto quantifytheecological threshold of the desertification process.Using the method of space-for-time,five types ofcommunities were selected to represent the different gradients of alpine grassland desertification to systematically studythe changes in plants，soil properties，and microorganisms during the desertification process,and to identify the desertification thresholds.The results showed that plant community cover,above-ground,andunderground biomasssignificantlydecreased with the increase indesertification.Soil moistureconcentration graduallydecreased,and soil bulk densitygradually increased with the increase in the extentof desertification.Gravel content was significantly higher in severely desertified grassand community than in other desertified community types.Soil total carbon and nitrogen concentrations in the soil surface ( $0 - 1 0$ cm) gradually decreased,andtheratioof carbon tonitrogen was significantly higher inseverelydesertified community thanin other types of grasland community.Abrupt changes in vegetation occurred in lightly to moderately desertified communities.Meanwhile,rapid changes insoil propertiesand soil microorganisms (desertification threshold)occurred in moderately to severely desertified communities.Such results suggest that the response of plants todesertification could be more sensitive than thatof soil sub-systems,and plantscould be treated as a more direct indicatorsof the gradientsof grasland desertification.Moreover，mildlytomoderately desertified communities could be the keystage of grassand desertification.Thus,itis veryimportant to take theright methods to avoid further desertification of the grassland. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: alpine grassand;desertification gradient;vegetation characteristics；soil properties;soil microorganisms;ecological threshold ",
+        "page_idx": 9
+    }
+]

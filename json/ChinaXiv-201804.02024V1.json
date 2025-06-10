@@ -1,0 +1,589 @@
+[
+    {
+        "type": "text",
+        "text": "结合视觉显著模型与水平集算法的建筑物立面图像轮廓快速提取",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李昌华，杜文强，周方晓(西安建筑科技大学 信息与控制工程学院，西安 710055)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对传统轮廓提取方法对建筑物立面图像处理存在的处理耗时问题，提出一种结合视觉显著模型与水平集算法的建筑物立面轮廓提取算法。首先，通过视觉显著特征与超像素分块信息滤除大量无关背景；其次，对所得的显著分块，以超像素分块为单位，据建筑物的纹理特征进行筛选；最后，利用水平集算法对所得初始建筑物区域进行演化，得到最终轮廓。实验结果表明，较传统轮廓提取方法，在处理效果相当的情况下本算法处理速度得到有效提升。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：轮廓提取；建筑物立面；显著模型；水平集中图分类号：TP391.41 doi:10.3969/j.issn.1001-3695.2017.11.0769",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fast contour extraction from building facade image based on visual saliency model and level set algorithm ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Changhua, Du Wenqiang†, Zhou Fangxiao (SchoolofInformation&ControlEngineering,Xi’AnUniversityofArchitecture&Technology,Xi’an70o55,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aiming at the time-consuming problemoftraditionalcontourextraction methodinbuilding facade image processing, abuilding elevationcontour extractionalgorithmcombined with visual saliencymodelandlevelsetalgorithmis proposed.First f all,usingvisualsalientfeaturesandsuperpixeliformationtofilterouttheielevantbackground;secondlyitselectsthe significant blocksaccording tothebuilding'stexturefeature,witheachsuperpixelblockasaprocessingunit; finalyusing the level setalgorithmoptimizes theresulting buildingarea toobtainthe finalcontour.Theexperimentalresults showthat the procesing speedofthe proposedalgorithmis efectively improved when theprocessing efect is equivalent,compared withthe traditional contour extraction method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": ":eyWords:contour extraction;building facade;visual saliency model; level set ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图像型三维重建由于其相对低廉的成本，更加适合于大规模推广，但当前图像型三维重建技术依然存在处理效率不够高、精度不足等问题。若能在三维重建的前期，先提取其外轮廓，针对待处理目标进行预先分析，将这些信息融合到现有的三维重建技术中，可以在一定程度上提高重建的效率。在现实生活中，建筑物轮廓提取和对提取的信息进行有效的分类识别在城市化规划发展、国防建设、抗灾减灾等方面有着重要的研究意义，此外，对于图像检索、三维模型的自动生成、建筑物识别也有着重要指导意义。其中建筑物轮廓信息提取是完成三维建筑物模型重构的一个必要条件，它可以为重构模型提供更多的场景先验知识和信息约束条件。目前常见的轮廓提取方法主要有三类：a)预先处理一批常见的包含目标的模板，利用先验目标信息，采用模板匹配的方式提取目标轮廓[1\\~3],此法实现简单，但提取建筑物有诸多限制，且提取精度有限；b)结合边缘检测和直线提取的方法[4\\~12],在建筑物立面图像中，由于背景复杂，及成像过程中引起的畸变，各种边缘检测算法无法准确地区分全部建筑物边缘，很难实现全部轮廓自动提取；c)结合主动轮廓模型提取目标轮廓的方法[13\\~15]。主动轮廓模型[16]（Snake 模型）是在已有的初始轮廓曲线的基础之上，赋予曲线以能量函数，通过最小化该能量函数，使得曲线向真实轮廓演化，当达到能量最小时，就得到了真实轮廓曲线的位置。Snake 模型存在实现困难，且对凹型分割效果极差的问题，而这在建筑物中经常会出现，所以Snake模型不能直接使用。而主动轮廓模型的另一种实现方式水平集（LevelSet）方法[17]出现，有效地解决了此问题。在学者们的努力下，LevelSet方法不断的完善，从Mumford-Shah泛函，到经典的Chan-Vese模型，再到如今形形色色的LevelSet。由于主动轮廓模型主要依赖迭代能量函数实现，其处理效率由初始轮廓和迭代次数共同决定，因此，一般不单独使用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对建筑物立面图像，上述方法在各个层面各具优劣，但普遍存在提取效率不高、耗时较长的问题。为解决此问题，本文在图像分块的基础上引入视觉显著模型[18]，提出一种以图像显著图为基础，以超像素分块为处理单位，结合水平集演化算法的建筑物立面图像轮廓快速提取算法，其整体框图如图1所示。经实验证明，该方法很好的解决了建筑物立面图像轮廓的快速提取问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "初始轮廓提取 轮廓优化原始图像 图像分块 分块图 显著分块 建 建筑轮廓建筑区域 筑 水平集提取 区 轮廓演化视觉注意 模型 显著图 域",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 初始轮廓提取",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 显著图的获取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人类视觉注意机制的作用在于从复杂的视觉场景中快速定位感兴趣目标的位置。当前模拟视觉注意的计算模型主要分为两类：a)基于低级视觉特征的自底向上的视觉计算模型，其典型代表为Itti模型[19]，当背景分布较为杂乱时处理结果不够理想;b)针对特定目标，基于其高级视觉特征的自顶向下的视觉选择性注意模型。由于在建筑物立面图像中，建筑物区域具有典型的形状特征以及显著的纹理特征的特性，因此，本文利用视觉显著模型，以建筑物区域为视觉搜索目标，以区域的形状特征和纹理特征作为视觉注意模型中底层特征，计算区域显著性，并将其作为判断该区域是否为建筑物区域的评价指标，最终通过度量该指标来确定建筑物区域的位置。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为凸显建筑物区域纹理并提高建筑物区域纹理与其他干扰纹理的区分度，文献[20]依据建筑物区域纹理的排列规则及朝向一致的特点，结合非下采样轮廓波变换(nonsubsampledcontourlettransform,NSCT)的多尺度、多方向及平移不变等特性，将NSCT分解后的各尺度和方向子带的局部纹理能量作为其纹理特征，再结合最大化各特征的信息量，得到图像的显著区域。但由于该文献的处理对象为高分辨率遥感影像，相比于背景更加复杂的建筑物立面图像，还需加入更多全局性质的特征。针对此问题，文献[2I]以显著区域\"全局孤立，局部紧凑\"为基础，将显著目标检测问题转换为马尔科夫随机游走问题，提出了一种基于混合图上随机游走的显著目标检测算法。但由于其构建的是全连通的混合图，算法时间复杂度为 ${ \\mathrm { O } } ( { \\mathfrak { n } } ^ { 2 } )$ ，当输入图像分辨率较大，分块较多时，并不适合于快速提取显著区域的情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为快速计算显著特征，本文选用相位谱法中的QDCT（quaternionDCT）法[18]提取图像的显著图。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { Q D C T } \\big ( I _ { Q } \\big ) = g * [ T ( I _ { Q } ) \\circ \\widetilde { T } ( I _ { Q } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT \\bigl ( I _ { Q } \\bigr ) = I Q D C T ^ { L } ( \\operatorname { s g n } ( Q D C T ^ { L } ( I _ { Q } ) ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $s$ 表示提取的显著图， $g$ 表示高斯滤波器， $I _ { Q }$ 是在原始图像I各通道图的基础上转变而来的图像矩阵，运算符·表示哈达",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "玛乘积， $\\tilde { T } ( I _ { Q } )$ 为 $\\Pi ( I _ { Q } )$ 的共轭，sgn为符号函数，QDCT和IQDCT分别为QDCT变换以及QDCT反变换。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 显著图像分块",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单个像素不足以表征建筑物立面的特征信息，从而需要对建筑物立面图像进行分块处理。为加快后续处理过程，本文采用超像素分块与视觉显著图相结合的方法[22]，在SLIC 超像素分块算法的基础上，结合得到的显著图，对图像有偏分块，对显著区域生成密集超像素，在非显著区域生成相对稀疏的超像素，在减少全局超像素数目的同时保留了边缘细节信息，有利于后续的提取处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过阈值化显著图S_Map，得到显著区域SR和非显著区域NSR。在此基础上，超像素分块算法步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)网格初始化。对显著区域SR和非显著区域NSR分别设置间距为 $S _ { 1 }$ 、 $S _ { 2 }$ 的网格，初始超像素中心选取网格中心，并将SR区域的网格中心显著性设为0，NSR区域网格中心显著性置1。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { S _ { 1 } = \\left( \\frac { N + c ( t - 1 ) } { K } \\right) ^ { \\frac { 1 } { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { S _ { 2 } = \\frac { S _ { 1 } } { \\sqrt { t } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $N$ 表示图像总像素数， $\\scriptstyle { c }$ 表示显著像素数， $t$ 表示非显著区域NSR与显著区域 $S R$ 超像素大小的比值， $K$ 为超像素分块总数目。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)一步聚类。在定义的距离函数 $D _ { i , k }$ 下，对每个超像素中心$C _ { k }$ 对应的搜索区域内的像素进行一次距离计算，并将该像素划分到最近的超像素分块中。每次的搜索范围为以其所在超像素中心为中心的矩形区域，搜索范围的大小依据超像素中心的显著性而不同，若中心显著性为0，搜索范围设为 $2 S _ { 1 } ^ { \\ast } 2 S _ { 1 }$ ；否则，搜索范围设为 $2 S _ { 2 } ^ { * } 2 S _ { 2 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { D _ { i , k } = \\left( d _ { c } ^ { 2 } + \\left( \\frac { d _ { s } } { s } \\right) ^ { 2 } m ^ { 2 } \\right) ^ { \\frac { 1 } { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { m = 4 0 \\cdot \\exp { \\left( - \\frac { ( S _ { - } M a p ( i ) ) ^ { 2 } } { 2 \\sigma ^ { 2 } } \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $d _ { c }$ 表示像素i与超像素中心 $C _ { k }$ 之间的颜色距离， $d _ { s }$ 表示像素i与超像素中心 $C _ { k }$ 之间的空间距离， $s$ 表示网格大小， $S _ { - } M a p ( i )$ 表示图像中像素i的显著性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)边缘细化。遵循 SLIC算法框架，查找超像素中心 $\\cdot C _ { k }$ 搜索范围的边缘像素 $P _ { i }$ ，计算像素 $P _ { i }$ 与超像素中心 $C _ { k }$ 之间的距离 $D _ { i , k }$ 当 $D _ { i , k }$ 大于一定的阈值时，对像素 $P _ { i }$ 重新分配最近的超像素中心$C _ { k } ^ { \\phantom { \\dagger } } .$ 。随着迭代过程的进行，超像素边缘不断地细化，直到超像素目标误差函数收敛。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3建筑区域提取",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于获取的建筑物区域，一方面，其中可能参杂部分非建筑物区块，如树木、草地等；另一方面，该区域可能并非包含完整的建筑物区域。因此，需要对显著分块采取进一步筛选处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "建筑物立面图像具有“形状规则，纹理明显\"的特点。其中，“形状规则\"指典型的建筑物立面具有规则的几何形状棱角，通常以直角矩形为主，几何形态多呈现为规则的多边形结构；而“纹理明显\"指建筑物立面含有明显的纹理特征，且纹理分布通常具有一定的方向性，多体现为与建筑物轮廓方向近似一致或是正交。而超像素分块中可以很好的保留其纹理特性，因此，本文选取纹理特征作为进一步筛选图像超像素分块的主要依据",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "现有的纹理特征提取方法，主要可以分为四类：统计法、模型法、信号处理法以及结构法[23]，而其中统计法由于其思想简单，容易实现而广泛使用，本文选用统计法中的灰度共生矩阵（GLCM）法提取建筑物纹理特征。为了更好的描述分块特性，本文在特征参数中加入分块的颜色分量，因此，提取分块的特征向量 $F = ( f _ { 1 } , f _ { 2 } , \\cdots , f _ { 7 } )$ 共有7个参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）颜色分量(color components) ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { f _ { c } = \\frac { 1 } { N } \\sum _ { i , j } I _ { c } ( i , j ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $N$ 表示分块内总灰度级别数， $c = 1 , 2 , 3$ 表示不同的颜色通道， $I _ { c }$ 表示分块图像I的 $c$ 通道，i， $j$ 表示不同的灰度级别。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）纹理反差(texture contrast) ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { f _ { 4 } = \\sum _ { i , j } ( i - j ) ^ { 2 } P ( i , j ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $P$ 为在分块灰度共生矩阵基础上提取的共生概率矩阵。纹理反差反映图像的清晰度和纹理沟纹深浅的关系，反差值越大，纹理越清晰。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）纹理能量(texture energy) ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { f _ { 5 } = \\sum _ { i , j } P ^ { 2 } ( i , j ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "纹理能量反映图像灰度分布均匀程度和纹理粗糙细读，大的能量值表征一种较均匀和规则变化的纹理模式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4)纹理熵(texture entropy) ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { f _ { 6 } = - \\sum _ { i , j } P ( i , j ) \\cdot \\log _ { 2 } P ( i , j ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "纹理熵值表明了纹理灰度分布的复杂程度，熵值越大，纹理越复杂。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5)纹理相关性(texture correlation) ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { f _ { 7 } = \\frac { 1 } { \\sigma _ { x } \\sigma _ { y } } \\sum _ { i , j } ( i j \\cdot P ( i , j ) - \\mu _ { x } \\mu _ { y } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mu _ { x } , ~ \\mu _ { y }$ 分别表示某一分块的共生概率矩阵水平方向和竖直方向的均值， $\\sigma _ { x } , \\sigma _ { y }$ 分别表示水平方向和竖直方向的标准差。纹理相关性在一定程度上反映了分块图像中像素间的灰度关系，灰度分布越均匀，相关性值越大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先，建筑物立面图像中背景主要有天空和地面，因此将非显著分块以各颜色分量均值为特征进行一次两类聚类，得到两类的聚类中心分块 $\\cdot C _ { 1 }$ ， $C _ { 2 }$ ；随后，以分块 $C _ { 1 }$ 和 $C _ { 2 }$ 为参照，对显著分块进行筛选，剔除其中属于背景分块的部分，考虑到建筑物立面图中干扰信息多有分布集中的特点，而在显著分块中则多体现为以显著区域边界开始的某几个连续区域，因此，通过搜索显著分块边界中与 $C _ { 1 }$ 或 $C _ { 2 }$ 颜色特征相似的分块，然后以这些分块为中心搜寻其邻域中与其相似的分块，将搜索到的分块视为背景分块，从显著分块中滤除；最后，在得到的显著分块的基础上，以显著区域边界的超像素分块为起始，对其8邻域分块搜索，以分块特征向量F之间的欧式距离作为相似性度量标准，筛选建筑分块，排除非建筑元素；最终，合并建筑物区域即可得到建筑物初始轮廓。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3128ea1e027abc3029b82f43c1db00d33f72a8e69aeb2cf22cadbf78f3639b6.jpg",
+        "img_caption": [
+            "图2建筑区域提取框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 水平集轮廓优化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用水平集方法的图像轮廓优化主要是将平面闭合曲线表示为水平集函数的零水平集，将二维空间的曲线演化问题转变为三维空间的曲面演化问题，通过最小化定义的能量函数获取最优轮廓。本文用于建筑立面轮廓优化的算法是在水平集算法的一种实现方式DRLSE[24-25]的基础上稍作改动实现的。DRLSE水平集算法无须重新初始化水平集函数，在很大程度上提高了水平集演化效率，其能量 $E ( \\phi )$ 定义为内部约束能量 $P ( \\phi )$ 与外部驱动能量 $E _ { g } ( \\phi )$ 两部分，如式(12)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( \\phi ) = \\mu P ( \\phi ) + E _ { g } ( \\phi )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\phi = \\{ \\varphi _ { x , y } \\}$ 表示水平集函数， $P ( \\phi )$ 保证水平集函数在演化过程中保持为一个符号距离函数， $\\mu$ 为对应大于零的惩罚系数， $E _ { g } ( \\phi )$ 驱动水平集朝着目标边缘运动。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "内部约束能量 $P ( \\phi )$ 定义如式(13)所示，是对水平集函数偏离符号函数的度量， $\\varOmega$ 表示整个图像域， $\\nabla$ 为梯度算子。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P ( \\phi ) = \\frac { 1 } { 2 } { \\int _ { \\Omega } { ( | \\nabla \\phi | - 1 ) ^ { 2 } d x d y } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "外部驱动能量 $E _ { g } ( \\phi )$ 的定义如式(14)\\~(16)所示，其中， ${ \\cal L } _ { g } ( \\phi )$ 表示零水平集的加权弧长， $A _ { g } ( \\phi )$ 表示零水平集的加权面积，参数入和 $\\alpha$ 为对应惩罚系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { g } ( \\phi ) = \\lambda L _ { g } ( \\phi ) + \\alpha A _ { g } ( \\phi )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { L _ { g } ( \\phi ) = \\int _ { \\Omega } \\ g ( I _ { \\sigma } ) \\delta _ { \\varepsilon } ( \\phi ) | \\nabla \\phi | d x d y } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { A _ { g } ( \\phi ) = \\int _ { \\Omega } \\ g ( I _ { \\sigma } ) H _ { \\varepsilon } ( - \\phi ) d x d y } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $G _ { \\sigma }$ 为标准差为 $\\sigma$ 的高斯函数， $H _ { \\varepsilon } , \\delta _ { \\varepsilon }$ 分别为Heaviside函数和Dirac 函数， $g ( I _ { \\sigma } )$ 表示图像边缘指示函数，其定义如式(17)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { g ( I _ { \\sigma } ) = \\frac { 1 } { 1 + | \\nabla G _ { \\sigma ^ { * I } } | } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于建筑物立面图像中存在许多纹理细节，水平集在演化过程中容易受其影响；同时，建筑物立面真实轮廓多处于超像素分块边界处，因此，本文在DRLSE 外部驱动能量 $E _ { g } ( \\phi )$ 的基",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "础上，引入分块能量项 $C _ { g } ( \\phi )$ ，如式(18)(19)所示， $C _ { g } ( \\phi )$ 用于加快处理超像素分块，在超像素分块中增强水平集函数值，而在超像素边界处削弱水平集函数值，保证最终的目标轮廓尽可能",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不受建筑物立面细节影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { g } ( \\phi ) = \\lambda L _ { g } ( \\phi ) + \\alpha A _ { g } ( \\phi ) + \\gamma C _ { g } ( \\phi )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C _ { g } ( \\phi ) = \\int _ { \\Omega } \\ g ( M ) H _ { \\varepsilon } ( - \\phi ) d x d y } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $M$ 为与图像I同维度的超像素分割掩码矩阵， $g ( L )$ 表示图像的超像素边缘指示函数，其定义如式(20)， $g ( L )$ 在超像素边缘处取得较小值。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { g ( M ) = \\frac { 1 } { 1 + | \\nabla G _ { \\sigma ^ { * } } M | } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用梯度下降法求解式(18)的极小值，等价于求解式(21)的稳态解。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\partial \\phi } { \\partial t } = \\mu \\left( \\Delta \\phi - d i v \\left( \\frac { \\nabla \\phi } { | \\nabla \\phi | } \\right) \\right) + \\lambda \\delta _ { \\varepsilon } ( \\phi ) d i v \\left( g ( I _ { \\sigma } ) \\frac { \\nabla \\phi } { | \\nabla \\phi | } \\right) + } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha \\delta _ { \\varepsilon } ( \\phi ) g ( I _ { \\sigma } ) + \\gamma \\delta _ { \\varepsilon } ( \\phi ) g ( L _ { \\sigma } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将式(21)离散化，并移项可得水平集能量演化式，如式(22)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { x , y } ^ { k + 1 } = \\phi _ { x , y } ^ { k } + \\Delta t L ( \\phi _ { x , y } ^ { k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\Delta t$ 为大于零常数，表示演化步长， $L ( \\phi _ { x , y } ^ { k } )$ 为式(21)的右端项。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过前述的处理步骤，已获取到了有关建筑物的大致轮廓，因而水平集方法处理不需要做全局的处理，选用窄带水平集方法即可实现，水平集轮廓优化流程如图3中所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf613ce6fa4bc2461f7e4a37f13a26430a1d0b6d78a59ae1aec8687421f48868.jpg",
+        "img_caption": [
+            "图3窄带水平集轮廓优化流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "水平集轮廓优化的主要参数有 $\\Delta t$ ， $\\mu$ ，入， $\\mathbf {  { a } }$ 和 $\\boldsymbol { \\gamma }$ 。参数△t用于控制曲线演化速度，由于是在前期得到初始轮廓的情况下进行演化，因此，可以将 $\\Delta t$ 设置大一些，本文取值为5；参数 $\\mu$ 为符号距离调整权重，文献[24]中指出 $\\mu$ 与 $\\Delta t$ 的乘积需满足 $\\mu *$ $\\Delta t < 1 / 4$ ，本文 $\\mu$ 取值为 $0 . 2 / \\Delta t$ ；参数 $\\lambda$ ， $\\mathfrak { a }$ ， $\\gamma$ 分别为外部驱动能量项各分量权重，由于DRLSE对参数 $\\mu$ 和 $\\lambda$ 不敏感，本文$\\lambda$ 的取值沿用文献 $\\cdot ^ { [ 2 4 ] }$ 中取值 $\\lambda = 5$ ；非零的参数 $\\mathbf {  { a } }$ 会导致优化的轮廓与真实轮廓发生一定的偏差，而过大的 $\\mathbf {  { a } }$ 又会导致建筑物立面图像的部分边界丢失，本文选取2.1的折中方案；参数 $\\gamma$ 的取值不宜过大，且应小于参数 $\\textbf { \\em a }$ ，本文取 $\\scriptstyle \\gamma = 0 . 3$ 。水平集各参数取值情况如表1中所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b4ae19e5bfae6d7001cf991031f3ba94260e117422762c87f0bcdc30c1e9ba3.jpg",
+        "table_caption": [
+            "表1水平集轮廓优化主要参数设置表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>△t</td><td>μ</td><td>入</td><td>α</td><td>Y</td></tr><tr><td>取值</td><td>5</td><td>0.2/△t</td><td>5</td><td>2.1</td><td>0.3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图像127788的水平集轮廓优化实验结果如图4中所示，其中，图4-a为初始轮廓，图4-b为30次迭代后的轮廓，图4-c为50次迭代后的轮廓。可以看出，随着迭代次数的增加，图像轮廓逐渐趋于其真实轮廓，对于底部不太明确的边界，也达到很好的收敛。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aae331282138d46ad94eb6fe547d9155b2dde18dd00e5cc0d8ddcc5c1a83a7f5.jpg",
+        "img_caption": [
+            "图4水平集轮廓优化结果（ $\\Delta t { = } 5$ ， $\\scriptstyle { \\mathfrak { a } } = 2 . 1$ ， $\\scriptstyle \\gamma = 0 . 3$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文的实验环境为iMac,IntelCorei5处理器，主频 $3 . 4 \\mathrm { G H z }$ 8GB内存，NVIDIAGeForceGTX 775M显示卡，2GB 显存，软件环境为MATLABR2016a。实验数据主要取自MSRA10K数据集。图5为本文算法的轮廓提取效果展示图，其中由左向右依次为原始图像（图5（a)）、显著分块图（图5（b)）、经过建筑区域提取的分块（图5（c)）、水平集优化后的最终轮廓图（图5（d)）以及采用gPb-ucm法[26提取的轮廓图（图5（e)）。图中蓝绿色的线条表示超像素分块边界，而红色线条表示最终的轮廓，可以看出本文的轮廓提取算法提取的轮廓基本收敛于建筑物的真实轮廓处。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用精确率(precision)、召回率(recall)和F值(F-measure)评价提取轮廓的质量。精确率P表征检测出的信息正确部分的比例，召回率R表示有效信息被正确检索的比例，其计算公式如式(23)(24)所示。其中，TP表示正类被判断为正类的情况，FP表示负类被判断为正类的情况，FN表示负类被判断为正类的情况。精确率和召回率的取值位于0-1，取值越接近1，表示算法性能越好，但二者通常存在矛盾的情况，此时，通过引入二者的加权平均值F值进行评价。F值的计算公式如式(25)所示，其中 $\\alpha$ 为引入参数。当 $\\alpha$ 取值为1时计算的F值即为F1-measure。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { P = \\frac { T P } { T P + F P } } \\\\ { R = \\frac { T P } { T P + F N } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { F _ { \\alpha } = \\frac { ( 1 + \\alpha ^ { 2 } ) * P * R } { \\alpha ^ { 2 } * ( P + R ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c953d2df6bf787ef3425a300216680fb8ac9cfaf2485f712dca78488a0d0e5b.jpg",
+        "img_caption": [
+            "图5本文算法轮廓提取效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表2中可以看出，本文算法与文献[26]的轮廓提取方法相比，精确率稍有提升，而召回率略有降低，在F1值整体相当的情况下，耗时缩减了近一半；相比于grabcut算法，由于引入超像素和纹理信息，精确率和召回率都略有提升。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2218e77a2197a66b1c535c251bf09602574ebad8bee80af9d8fcad81b8318621.jpg",
+        "table_caption": [
+            "表2算法性能参数对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法</td><td>耗时/s</td><td>精确率</td><td>召回率</td><td>F1</td></tr><tr><td>gPb-</td><td></td><td></td><td></td><td></td></tr><tr><td>ucm[26]</td><td>4.77</td><td>82.7%</td><td>92.5%</td><td>87.3%</td></tr><tr><td>grabcut</td><td>3.29</td><td>79.2%</td><td>86.1%</td><td>82.5%</td></tr><tr><td>本文方法</td><td>2.56</td><td>85.9%</td><td>89.6%</td><td>87.1%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文结合视觉显著图与图像分块思想，利用视觉显著图剔除无关背景，在显著图分块的基础上，结合建筑物特有的颜色、纹理以及形状特征，过滤树木等干扰，进而融合建筑物区块，得建筑物初始轮廓，最后结合水平集算法演化，得到经过优化的建筑物轮廓。通常算法处理精度与提取速度之间存在矛盾性，高的精度，意味着相对较低的处理速度。实验表明，本文的轮廓提取算法对于一般的建筑物立面图像可以快速地提取其轮廓，并且可以通过调整水平集算法的迭代次数进而保持轮廓精度与提取速度之间的平衡。同时本文的建筑物立面轮廓提取算法也存在不足之处，主要针对单目标情况进行处理，而算法得处理效率也依赖初期显著图，当显著区域偏离真实建筑物区域时，处理效率不够理想。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]贺康建，周冬明，聂仁灿，等．基于局部控制核的彩色图像目标检测方 法[J]．电子技术应用,2016,42(12):89-92.   \n[2]周绍光，孙金彦，凡莉，等．高分辨率遥感影像的建筑物轮廓信息提取 方法[J].国土资源遥感,2015,27(3):52-58.   \n[3] 高玮玮，沈建新，王玉亮，等．基于多模板匹配的局部自适应区域生长 法在视网膜内出血自动检测中的应用[J].光谱学与光谱分析,2013,33 (2): 448-453.   \n[4] 方建军，杜明芳，庞睿．基于小波分析和概率Hough 变换的书脊视觉识 别[J].计算机工程与科学,2014,36(1):126-131.   \n[5] 万磊，曾文静，张铁栋，等．基于梯度信息融合的海面红外目标实时检 测[J].红外与激光工程,2013,42(1):41-45.   \n[6]王竞雪，朱庆，王伟玺，等．结合边缘编组的 Hough 变换直线提取[J]. 遥感学报,2014,18 (2):378-389.   \n[7]王凤．结合蚁群搜索与边缘检测的红外轮廓提取算法[J].激光与红外， 2015, 45 (6): 722-727.   \n[8]张闯，王婷婷，孙冬娇，等．基于欧氏距离图的图像边缘检测[J]．中 国图象图形学报,2013,18(2):176-183.   \n[9]王方超，张昱，宫丽美．改进的 Roberts 图像边缘检测算法[J].探测与 控制学报,2016,38 (2):88-92.   \n[10]林选伟，吴谨．基于交互式图论的目标边缘检测算法[J].计算机工程 与科学,2014,36 (8): 1571-1575.   \n[11]刘剑飞，左小清，吴俐民，等．结合 LOG 算子和大津法的遥感影像边 缘检测方法[J].测绘科学,2015,40(1):107-109.   \n[12]申家双，郭海涛，李海滨，等．基于Canny 算子和GAC 模型相结合的 影像水边线提取方法[J].测绘科学技术学报,2013,30(3):264-268.   \n[13]刘述民，黄影平，张仁杰．基于立体视觉及蛇模型的行人轮廓提取及其 识别[J]．光学学报,2014,34(5):000305-314.   \n[14]范有臣，赵洪利，孙华燕，等．基于水平集算法后向散射的运动目标轮 廓提取[J].激光与红外,2015,45(5):589-594.   \n[15]高颂，李富栋．图像边缘提取的区域联合分割与主动轮廓模型[J].激 光与红外,2013,43 (1): 94-97.   \n[16] Zhao Y,Rada L,Chen K,et al.Automated Vessel Segmentation Using Infinite Perimeter Active Contour Model with Hybrid Region Information with Application to Retinal Images [J]. IEEE Trans on Medical Imaging, 2015,34 (9): 1797-1807.   \n[17] Osher S, Sethian JA. Fronts propagating with curvature-dependent speed: algorithmsbased on Hamilton-Jacobi formulations[J].Journal of Computational Physics,1987,79 (1): 12-49.   \n[18] Schauerte B, Stiefelhagen R. Predicting human gaze using quaternion DCT image signature saliency and face detection [C]// Proc of IEEE Workshop on the Applications of Computer Vision. Washington DC: IEEE Computer Society,2012:137-144.   \n[19] He D J,LiuSW,Liang XH,et al. Improved saliency toolbox/ITTImodel forregion of interest extraction [J]. Optical Engineering,2011,50 (9): 097202-097202-13.   \n[20]沈小乐，邵振峰，田英洁，纹理特征与视觉注意相结合的建筑区提取 [J].测绘学报,2014,43(8): 842-847.   \n[21]胡正平，孟鹏权．基于混合图上随机游走的视觉注意显著目标检测模 型[J].仪器仪表学报,2011,32(7):1613-1620.   \n[22]李鹏，杨肠，方涛．应用视觉显著性的快速有偏聚类超像素算法[J]. 西安交通大学学报,2015,49(1):112-117.   \n[23]刘丽，匡纲要．图像纹理特征提取方法综述[J].中国图象图形学报, 2009,14 (4): 622-635.   \n[24] Li Chunming,Xu Chenyang,et al. Distance regularized level set evolution and its application to image segmentation [J].IEEE Trans on Image Processing,2010,19(12):3243-3254.   \n[25]Li Chunming,Huang Rui, et al.A level set method for image segmentation in the presence of intensity inhomogeneities with application MRI[J].IEEE Trans on Image Processing,2011,20(7):2007-2016.   \n[26] ArbelaezP,Maire M,Fowlkes C,etal.Contour detection and hierarchical image segmentation [J].IEEE Trans on Pattern Analysis & Machine Intelligence,2011,33 (5): 898. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

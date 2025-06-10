@@ -1,0 +1,715 @@
+[
+    {
+        "type": "text",
+        "text": "不同耕作措施下小麦-玉米轮作农田温室气体交换及其综合增温潜势",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "闫翠萍2† 张玉铭1+\\*\\* 胡春胜」　董文旭」　王玉英’　李晓欣」　秦树平(1.中国科学院遗传与发育生物学研究所农业资源研究中心/中国科学院农业水资源重点实验室/河北省节水农业重点实验室石家庄050022;2.山西省农业科学院小麦研究所 临汾041000;3．福建农林大学资源与环境学院福州 350002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要研究不同耕作措施下小麦-玉米轮作农田 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 、 $\\mathrm { C O } _ { 2 }$ 和 $\\mathrm { C H } _ { 4 }$ 等温室气体的综合增温潜势，有助于科学评价农业管理措施在减少温室气体排放和减缓全球变暖方面的作用，为制定温室气体减排措施提供依据。基于 2001 年开始的位于华北太行山前平原中国科学院栾城农业生态系统试验站的不同耕作与秸秆还田方式定位试验，应用静态箱/气相色谱法于2008年10月冬小麦播种时开始，连续两个作物轮作年动态监测了秸秆整秸覆盖免耕播种(M1)、秸秆粉碎覆盖免耕(M2)、秸秆粉碎还田旋耕(X)、秸秆粉碎还田深翻耕(F)和无秸秆还田深翻耕(CK，代表传统耕作方式)5种情况下冬小麦-夏玉米轮作农田土壤 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 、 $\\mathrm { C O } _ { 2 }$ 和 $\\mathrm { C H } _ { 4 }$ 排放通量，并估算其排放总量。试验期间同步记录每项农事活动机械燃油量、灌溉耗电量、施肥量，依据燃油、耗电和单位肥料量的碳排放系数统一转换为等碳当量，测定作物产量、地上部生物量，估算农田碳截存量，根据每个分支项对温室效应的作用估算了5个处理的综合增温潜势。结果表明，华北小麦-玉米轮作农田土壤是 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 和 $\\mathrm { C O } _ { 2 }$ 的排放源，是 $\\mathrm { C H } _ { 4 }$ 的吸收汇，每年M1、M2、X、F和CK农田土壤 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放总量依次为 $2 . 0 6 \\mathrm { k g } ( \\mathrm { N } _ { 2 } \\mathrm { O } { - } \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、$2 . 2 8 \\ \\mathrm { k g } ( \\mathrm { N } _ { 2 } \\mathrm { O } { - } \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $2 . 5 4 \\mathrm { \\ k g ( N _ { 2 } O - N ) } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $3 . 8 7 \\mathrm { ~ k g } ( \\mathrm { N } _ { 2 } \\mathrm { O } { - } \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $2 . 2 9 \\mathrm { ~ k g } ( \\mathrm { N } _ { 2 } \\mathrm { O } { - } \\mathrm { N } ) { \\cdot } \\mathrm { h } \\mathrm { m } ^ { - 2 }$ ， $\\mathrm { C O } _ { 2 }$ 排放总量依次为$6 ~ 9 0 4 ~ \\mathrm { k g } ( \\mathrm { C O } _ { 2 ^ { - } } \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ， $7 ~ 3 5 1 ~ \\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ， $8 ~ 8 7 3 ~ \\mathrm { k g } ( \\mathrm { C O } _ { 2 ^ { - } } \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $9 ~ 0 6 5 ~ \\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $7 ~ 4 2 5 \\mathrm { k g } ( \\mathrm { C O } _ { 2 ^ { - } } \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $\\mathrm { C H } _ { 4 }$ 吸收量依次为 $2 . 5 0 \\mathrm { \\ k g } ( \\mathrm { C H } _ { 4 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $1 . 7 7 \\mathrm { \\ k g } ( \\mathrm { C H } _ { 4 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $1 . 3 3 \\mathrm { \\ k g } ( \\mathrm { C H } _ { 4 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $1 . 3 8 \\ \\mathrm { k g } ( \\mathrm { C H } _ { 4 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和$1 . 5 7 \\mathrm { k g } ( \\mathrm { C H _ { 4 } } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } \\circ \\mathrm { M } 1$ 和 M2 处理农田生态系统综合增温潜势(GWP)均为负值，表明免耕情况下农田生态系统为大气的碳汇，去除农事活动引起的直接或间接排放的等当量碳，每年农田生态系统净截留碳 $9 4 7 { \\sim } 1 ~ 0 7 0 ~ \\mathrm { k g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 其他处理农田生态系统的GWP值均为正值，表明温室气体是由系统向大气排放,CK、F和 $\\mathrm { \\Delta } \\mathrm { X }$ 每年向大气分别排放等当量碳 $3 ~ 3 6 4 ~ \\mathrm { k g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $9 8 9 \\mathrm { k g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $3 4 3 \\mathrm { \\ k g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。故华北小麦-玉米轮作体系中，秸秆粉碎还田旋耕是最优化的耕作措施，其温室效应相对较低，而又能保证较高的经济产量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词　耕作措施　秸秆还田　温室气体　温室效应　增温潜势　小麦-玉米轮作系统中图分类号：S341 文献标识码：A 文章编号:1671-3990(2016)06-0704-12",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Greenhouse gas exchange and comprehensive global warming potential under different wheat-maize rotation patterns ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YAN Cuiping2,ZHANG Yuming1\\*,，HU Chunsheng',DONG Wenxu',WANG Yuying1,LI Xiaoxin',QINShuping (1. KeyLaboratoryof Agricultural Water Resources, Chinese Academyof Sciences /Hebei KeyLaboratoryof Water-Saving Agriculture/CenterforAgricultural ResourcesResearch,InstituteofGenetics &Developmental Biology,Chinese Academyof ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sciences,Shijiazhuang O5o22,China;2.Instituteof WheatResearch,Shanxi AcademyofAgriculturalSciences,Linfen041000, China;3.ColegeofResourcsandEnvironmentalSciences,FujianAgricultureandForestryUiversityFuzhou3o,Cina) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AbstractStudies on the emissions of greenhouse gases and global warming potential (GWP)under diferent tilage systems have benefited scientific research on the efects of agricultural management on mitigating greenhouse gas emission and reducingglobal warming.Such studies havealso laidthe theoretical basisfor establishing measures to reduce global greenhouse gas emissions.Long term tilage and straw return to soil experiments weresetupin 2O0l atthe Luancheng Agro-ecosystem Experimental Station (LAES)of Chinese Academy of Sciences.The experiments included 5 treatments no-illage with whole maizeresidue mulching(M1),no-tillage withchopped maizeresidue mulching(M2),rotarytilage with chopped maize residue incorporation (X)，mouldboard ploughing with chopped maizeresidue incorporation (F）and mouldboard ploughing with maize residue remove (CK,representing conventional tillge method).The experiment monitored $\\mathrm { N } _ { 2 } \\mathrm { O }$ $\\mathrm { C O } _ { 2 }$ and $\\mathrm { C H } _ { 4 }$ fluxes in wheat-maize rotation fields using the static chamber method/gas chromatography technique for the period from October 2008 to September 2010.Total greenhouse gas emisionsand GWP werealso estimated.Meanwhile, duringtheexperimental period,the amountoffuel consumed by farm machines and power consumed during irigation and fertilizer application were recorded and transformed tocarbon equivalent using a transformation coefcient.In the study, crop yield and aboveground biomasses were measured and carbon sequestration calculated.The total GWP under the 5 tillage treatments were estimated basedon the identified parameters of greenhouse efect.Theresults indicated that wheat-maize rotation fields served as the source of $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C O } _ { 2 }$ ,and also the sink of $\\mathrm { C H } _ { 4 }$ . In M1,M2, X,F and CK treatments, total $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions from soil were $2 . 0 6 \\mathrm { k g ( N _ { 2 } O - N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ $2 . 2 8 \\mathrm { k g ( N _ { 2 } O - N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ $2 . 5 4 \\mathrm { k g ( N _ { 2 } O - N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ $3 . 8 7 \\mathrm { k g ( N _ { 2 } O - N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ and $2 . 2 9 \\ \\mathrm { k g ( N _ { 2 } O - N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ； total $\\mathrm { C O } _ { 2 }$ emissions from soil of $6 ~ 9 0 4 ~ \\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ， $7 \\ 3 5 1 \\ \\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ,8873 $\\mathbf { k g } ( \\mathbf { C O } _ { 2 } \\mathbf { - } \\mathbf { C } ) \\mathbf { \\cdot } \\mathbf { h m } ^ { - 2 } \\mathbf { \\cdot } \\mathbf { a } ^ { - 1 }$ $9 ~ 0 6 5 ~ \\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ and $7 ~ 4 2 5 ~ { \\mathrm { k g } } ( { \\mathrm { C O } } _ { 2 } { \\mathrm { - C } } ) { \\cdot } { \\mathrm { h m } } ^ { - 2 } { \\cdot } { \\mathrm { a } } ^ { - 1 }$ ; and total $\\mathrm { C H } _ { 4 }$ sink of $2 . 5 0 \\mathrm { k g } ( \\mathrm { C H } _ { 4 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ， $1 . 7 7 \\mathrm { \\ k g ( C H _ { 4 } { - } C ) { \\cdot } h m ^ { - 2 } { \\cdot } a ^ { - 1 } }$ ， $1 . 3 3 \\mathrm { \\ k g ( C H _ { 4 } { - } C ) { \\cdot } h m ^ { - 2 } { \\cdot } a ^ { - 1 } }$ ， $1 . 3 8 \\mathrm { \\ k g ( C H _ { 4 } { - } C ) ^ { . } } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ and $1 . 5 7 \\mathrm { \\ k g ( C H _ { 4 } { - } C ) ^ { . } } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ， respectively. GWPsin M1and M2 treatments were negative,which indicated thatfarmland ecosystems under no-tillage with straw served as carbon sink,with annual carbon retention of $9 4 7 - 1 ~ 0 7 0 ~ \\mathrm { k g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ after subtracting directly or indirectly carbon equivalent emitted from the system.GWPs for other treatments were positive,with GWPs for CK,F and $\\mathrm { \\Delta X }$ of $3 ~ 3 6 4 ~ \\mathrm { k g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $9 8 9 \\mathrm { ~ k g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ and $3 4 3 \\mathrm { \\ k g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ,respectively.This suggested that for wheat-maize rotation system in the North China,chopped crop residue incorporation with rotary tilage was optimal tilage practice withrelativelylower greenhouse effcts and higher grain yield. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsTilage measure;Straw return; Greenhouse gas; Greenhouse effect; Global warming potential;Wheat-maize rotation system ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "全球气候变化已引起国际社会高度重视，对温室效应、温室气体减排和节能减排的研究已成为关注的焦点。大气中 $\\mathrm { C O } _ { 2 }$ 、 $\\mathrm { C H } _ { 4 }$ 和 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 是最重要的温室气体，对温室效应的贡献率近 $8 0 \\% ^ { [ 1 ] }$ 。其中 $\\mathrm { C O } _ { 2 }$ 对增强温室效应的贡献率最大，约占 $60 \\%$ ，是最重要的温室气体[2]；其次是 $\\mathrm { C H } _ { 4 }$ ，温室效应潜能是 $\\mathrm { C O } _ { 2 }$ 的 $2 1 { \\sim } 2 5$ 倍，对温室效应的贡献率约占 $1 5 \\% ^ { [ 3 ] }$ ：， ${ \\bf N } _ { 2 } \\mathrm { O }$ 增温效应是 $\\mathrm { C O } _ { 2 }$ 的 296\\~310 倍[4]，对温室效应的贡献率约占 $5 \\%$ 。由于 $\\mathrm { C O } _ { 2 }$ ！ $\\mathrm { C H } _ { 4 }$ 和 ${ \\bf N } _ { 2 } \\mathrm { O }$ 的增温效应不同，它们对全球变暖的影响亦不相同。当这3种气体从一个系统同时排放时，需计算它们作用的综合效果才能了解该系统或某一农业管理措施对综合增温潜势的贡献。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "农田生态系统综合增温潜势(Global WarmingPotential，GWP)除了包含农田土壤温室气体排放引起的温室效应外，还包含农事活动中农机具燃油引起的 $\\mathrm { C O } _ { 2 }$ 直接排放、化肥生产与运输和灌溉耗费电能等引起 $\\mathrm { C O } _ { 2 }$ 间接排放所造成的温室效应；此外，还应考虑农作物生长对碳的截存在削减农田温室效应方面的贡献。因此，在对农田生态系统温室效应进行综合评估时，不仅要关注农田土壤引起的温室气体直接排放，还应考虑各项农事活动直接或间接引起的温室气体排放以及农田生态系统对碳的截存，并将其统一转换为碳当量[5](carbon equivalent)，从而才能精确评价农田生态系统或某一农业管理措施的综合增温潜势。当前国内关于增温潜势的研究大多集中在土壤特性以及施肥、灌溉对土壤温室气体排放的影响方面，忽略了农业生产机械燃油、肥料生产与运输、灌溉耗能引起的 $\\mathrm { C O } _ { 2 }$ 直接或间接排放的温室效应以及农作物的碳截存效果。众所周知，耕作措施不仅对作物产量有影响，也是影响农田土壤温室气体排放及综合增温潜势的重要农业生产方式之一，目前关于耕作措施对农田生态系统综合增温潜势影响的定量研究依然较少[6]。本研究基于2001年开始的不同秸秆还田方式和不同耕作措施的定位试验，对华北小麦-玉米轮作农田土壤温室气体排放、农业投入引起的 $\\mathrm { C O } _ { 2 }$ 排放、作物生长对碳的截存进行了连续监测，综合分析了不同耕作措施下农田土壤温室气体 $\\left( \\mathrm { C O } _ { 2 } \\right.$ 、 $\\mathrm { C O } _ { 4 }$ 、 ${ \\bf N } _ { 2 } { \\bf O }$ 排放的增温潜势、不同耕作体系综合增温效应以及保护性耕作措施对减缓农田温室效应的贡献，为制定温室气体减排措施提供依据，为减少气候变化预测的不确定性提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况与试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验在中国科学院栾城农业生态系统试验站进行，该站位于华北太行山前平原，北纬 $3 7 ^ { \\circ } 5 0 ^ { \\prime }$ ，东经$1 1 4 ^ { \\circ } 4 0 ^ { \\prime }$ ，海拔高度 $5 0 . 1 ~ \\mathrm { ~ m ~ }$ ，属中国东部暖温带半湿润季风气候，年平均气温 $1 2 . 2 \\mathrm { ~ \\ ^ { \\circ } C }$ ，年降雨量平均$5 3 6 . 8 ~ \\mathrm { m m }$ ，主要集中在7、8、9月，雨热同期，年无霜期 $2 0 0 \\mathrm { d }$ 左右，土壤类型为潮褐土。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "冬小麦-夏玉米轮作是当地主要的种植制度，冬小麦于10上旬播种,6月初收获；夏玉米于小麦收获后进行机械播种，9月底收获；两季作物均实行秸秆还田。一般小麦季施两次肥，播种前施一次底肥！撒施然后翻耕，追肥于拨节期施用，表面撒施后灌溉。玉米季于大喇叭口期追肥，表面撒施后灌溉。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本试验于2008年10月至2010年9月在耕作长期定位试验(2001年开始的定位试验)场内进行，根据冬小麦播种时的土壤耕作方式，试验处理设深翻耕、旋耕和免耕，每种耕作方式中按照有无玉米秸秆还田和秸秆还田方式的不同分为：秸秆整秸覆盖免耕播种(M1)、秸秆粉碎覆盖免耕播种(M2)、秸秆粉碎还田旋耕(X)、秸秆粉碎还田深翻耕(F)和无玉米秸秆还田深翻耕(CK，代表传统耕作方式)。深耕：先用秸秆粉碎机将玉米秸秆机械粉碎2遍，后用传统的深耕犁深耕 $( 2 0 \\ \\mathrm { c m } )$ ，平整土地，播种。旋耕：先用秸秆粉碎机将玉米秸秆机械粉碎2遍，后用旋耕犁旋耕2遍 $( 1 5 \\ \\mathrm { c m } )$ ，秸秆和表土形成混合层，播种。M1处理为玉米秸秆整秸覆盖直接用2BMFS-5/10型免耕覆盖施肥播种机播种。M2为先用秸秆粉碎机将玉米秸秆机械粉碎2遍，后用2BMFS-5/10型免耕覆盖施肥播种机播种。CK和F处理的播种量为$1 9 5 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ， $\\mathrm { \\Delta } \\mathrm { X }$ 处理为 $2 1 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ,M1、M2播种量为 $2 8 5 ~ \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。每个处理底肥和追肥量相同，底肥为 $3 0 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 二铵、 $7 5 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 尿素；春季追施尿素$3 0 0 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。小麦生长期灌溉量均为 $1 5 7 . 5 \\ \\mathrm { m m } _ { \\circ }$ 每年小麦采用联合收割机收获，秸秆全部覆盖还田。玉米季大喇叭口期追施尿素 $4 3 5 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，灌溉量 $7 0 \\mathrm { m m } _ { \\circ }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 测定指标",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1土壤温室气体采集与环境要素监测气体样品采集采用静态明箱法。采样箱由箱体和底座组成，箱体长 $6 0 ~ \\mathrm { c m }$ 、宽 $2 0 \\ \\mathrm { c m }$ 、高 $4 0 \\ \\mathrm { c m }$ ，顶部有一风扇和采气孔。箱底座深度均为 $1 5 \\mathrm { c m }$ ，作物播种后底座埋入作物的行间，以测定土壤排放的温室气体。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "气体采集时间定在上午8:00—12:00间。取气前$1 ~ \\mathrm { m i n }$ 盖上箱体并用水密封，打开风扇电源，风扇运行使箱内气体混合均匀。以此为0时刻，用 $5 0 ~ \\mathrm { \\ m L }$ 医用注射器连续采集 $\\mathrm { 0 ~ m i n . 1 5 ~ m i n . 3 0 ~ m i n }$ 和 $4 5 \\mathrm { m i n }$ 4个时刻的气样用于分析计算不同处理的温室气体排放/吸收通量。为了更准确估算土壤呼吸排放的$\\mathrm { C O } _ { 2 }$ 总量，平时气样采集频度1次·周-，冬季为 $0 . 5 \\sim$ 1次·周-1，施氮肥后加大采样密度。所采气体于当天用安捷伦6820型气相色谱仪进行测定。气相色谱仪检测器为电子捕获检测器，色谱分离柱 $4 \\ \\mathrm { m } { \\times } 4 \\ \\mathrm { m m }$ 填充PorapackQ(80\\~100目)，柱温 $7 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ ，检测器温度$3 0 0 \\mathrm { ~ \\textdegree ~ }$ ，高纯氮 $( 9 9 . 9 9 9 \\% )$ 为载气，流速 $2 0 \\ \\mathrm { \\ m L { m i n } ^ { - 1 } }$ ，气体进样量 $2 ~ \\mathrm { m L }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采集气样时，同步监测大气、地表温度、 $5 \\ \\mathrm { c m }$ 地温，采集 $0 { \\sim } 1 0 \\ \\mathrm { c m }$ 土壤样品，测定硝态氮和铵态氮含量、含水量。为利用土壤呼吸与土壤温湿度的高度相关关系更准确估算两次相邻监测期间每天的土壤呼吸速率以及土壤呼吸排放的 $\\mathrm { C O } _ { 2 }$ 总量，每天监测 $5 \\mathrm { c m }$ 地温和 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤含水量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2土壤温室气体排放通量与总量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于在一定的时间段内，农田温室气体排放浓度的变化呈线性增长(减少)7，所以可以根据箱内气体浓度随时间变化来计算农田气体排放通量：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = { \\frac { \\mathrm { d } \\mathbf { m } } { A \\times \\mathrm { d t } } } = { \\frac { \\mathrm { d } { \\mathbf { c } } \\times V { \\times } { \\boldsymbol { \\rho } } } { A \\times \\mathrm { d t } } } = { \\frac { M \\times P { \\times } h } { \\mathrm { R } \\times T } } { \\times } { \\frac { \\mathrm { d c } } { \\mathrm { d t } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中: $F$ 为气体排放通量 $( \\mathrm { m g \\cdot m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 } )$ · $\\rho$ 为气体密度;R为气体常数; $\\mathrm { d } \\mathrm { m }$ 和dc分别为dt时间内采集箱内气体质量和浓度的变化; $h$ 人 $A$ 、 $V$ 分别为气箱高度 $( \\mathrm { m } )$ 、底面积 $( \\mathrm { m } ^ { 2 } )$ 和体积 $( \\mathrm { m } ^ { 3 } )$ · $M$ 为气体分子量; $T$ 为气箱内绝对温度; $P$ 为气箱内气压。气体通量 $F$ 为负值时表示土壤或土壤-作物体系从大气中吸收该气体; $F$ 为正值时表示土壤或土壤-作物体系向大气排放该气体。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了更准确估算监测时段内土壤呼吸排放的$\\mathrm { C O } _ { 2 }$ 总量，建立土壤呼吸速率与土壤温湿度关系[8]:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = a \\times e ^ { b T } \\times W ^ { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $R$ 为土壤呼吸速率； $T$ 为 $5 \\ \\mathrm { c m }$ 处土壤温度;  \n$W$ 为 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤含水量; $\\ a , \\ b ,$ ： $\\mid c \\mid$ 为拟合参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据式(1)中计算的 $\\mathrm { C O } _ { 2 }$ 排放通量及同步测定的$5 \\ \\mathrm { c m }$ 地温和 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤含水量，获得每个处理土壤呼吸与温湿度的指数关系式，再依据每天监测的土壤温湿度估算每日土壤呼吸速率。再利用式(3)估算监测时段内土壤呼吸排放 $\\mathrm { C O } _ { 2 }$ 总量：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = \\sum 2 4 \\times R\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $Y$ 为土壤呼吸排放 $\\mathrm { C O } _ { 2 }$ 总量 $( \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } ) .$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { N } _ { 2 } \\mathbf { O }$ 和 $\\mathrm { C H } _ { 4 }$ 排放总量通过式(4)计算:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = \\sum _ { i = 1 } ^ { n } ( X _ { i } + X _ { i + 1 } ) / 2 \\times ( t _ { i + 1 } - t _ { i } ) \\times 2 4\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $Y$ 为土壤 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 或 $\\mathrm { C H } _ { 4 }$ 排放总量 $( \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } )$ ； $X$   \n为 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 或 $\\mathrm { C H } _ { 4 }$ 排放速率 $( \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } )$ ; $i$ 为第 $i$ 次测定;  \n$\\left( t _ { i + 1 } - t _ { i } \\right)$ 为相邻两次测定间隔天数; $n$ 为测定次数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 土壤排放温室气体增温潜势(GWPsoilexport) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于 $\\mathrm { C O } _ { 2 }$ 、 $\\mathrm { C H } _ { 4 }$ 和 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的增温效应不同，它们对全球变暖的影响亦不相同。当这3种气体从一个系统同时排放时，只有计算它们作用的综合效果才能了解该系统或某一农业管理措施对温室效应的贡献。根据IPCC的报告[4]，以100 年影响尺度为计, $1 \\mathrm { k g }$ $\\mathrm { C H } _ { 4 }$ 的增温效应是 $1 \\mathrm { k g } \\mathrm { C O } _ { 2 }$ 的25倍，而 ${ 1 \\mathrm { k g } \\mathrm { N } _ { 2 } \\mathrm { O } }$ 的增温效应是 $1 \\mathrm { k g } \\mathrm { C O } _ { 2 }$ 的298倍，用增温潜势(GWP)来表示3种温室气体的联合作用[9。土壤直接排放温室气体增温潜势 $( \\mathrm { G W P _ { s o i l e x p o r t } } )$ 的计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G W P } _ { \\mathrm { s o i l e x p o r t } } = f \\mathrm { C O } _ { 2 } \\times { \\frac { 4 4 } { 1 2 } } + f \\mathrm { C H } _ { 4 } \\times { \\frac { 1 6 } { 1 2 } } \\times 2 5 + f \\mathrm { N } _ { 2 } \\mathrm { O } \\times { \\frac { 4 4 } { 2 8 } } \\times 2 9 8\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：GWPsoilexport为土壤直接排放的温室气体增温潜势 $[ \\mathrm { k g } ( \\mathrm { C O } _ { 2 } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ ·， $f \\mathrm { C O } _ { 2 }$ 为土壤排放 $\\mathrm { C O } _ { 2 }$ 的净排放量 $[ \\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - C } ) \\cdot \\mathrm { h m } ^ { - 2 } ]$ ， $\\mathrm { \\Delta _ { \\mathcal { f } C H _ { 4 } } }$ 为土壤排放 $\\mathrm { C H } _ { 4 }$ 净排放量$\\mathrm { [ k g ( C H _ { 4 } - C ) \\cdot h m ^ { - 2 } ] }$ ， $f \\mathrm { N } _ { 2 } \\mathrm { O }$ 为土壤排放 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 净排放量$[ \\mathrm { k g } ( \\mathrm { N } _ { 2 } \\mathrm { O - N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ] _ { \\circ }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4农事活动投入引起的间接增温潜势(GWPindirect) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验期间记录各种农事活动的物资投入种类和用量，用于计算农田温室气体间接排放量，主要包括由灌溉、机械和肥料投入所造成的 $\\mathrm { C O } _ { 2 }$ 排放量。计算灌溉耗电、机械燃油和化肥施用等农业投入$\\mathrm { C O } _ { 2 }$ 等当量排放系数时，需要综合考虑其生产、运输和使用过程中的总能耗，将其折算为 $\\mathrm { C O } _ { 2 }$ 排放当量，各农事活动耗能 $\\mathrm { C O } _ { 2 }$ 等当量排放系数如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/14da5c485570e0d7ea0785bf928b1c291f3068d45a8b14f364dd3051a03be904.jpg",
+        "table_caption": [
+            "表1农事活动耗能 $\\mathbf { C O } _ { 2 }$ 等当量排放系数 Table 1Index of equivalent $\\mathrm { C O } _ { 2 }$ emission of energy consumption by different agricultural managements "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">机械燃油[10] Fuel consumption</td><td rowspan=\"2\">灌水量[11] Irrigation</td><td colspan=\"3\">施肥Fertilization</td></tr><tr><td>N[7,10-12]</td><td>p[12]</td><td>KO[12]</td></tr><tr><td>2.59 kg(CO2)·L-1</td><td>1.29 kg(CO2)·cm-1</td><td>3.59 kg(CO2) kg-1</td><td>0.61 kg(CO2)·kg-1</td><td>0.12 kg(CO2) kg-1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "农事活动间接引起温室气体排放增温潜势计算公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G W P } _ { \\mathrm { i n d i r e c t } } = \\sum I _ { n } \\times C _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $I _ { n }$ 和 $C _ { n }$ 分别为第 $n$ 种物资的用量和 $\\mathrm { C O } _ { 2 }$ 等当量排放系数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5 净初级生产力增温潜势 $( \\mathbf { G W P _ { N P P } } )$ （20 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验期间每季作物收获时测定作物产量和地上部生物量，计算植株地上和地下部分转化为净初级生产力(NPP)的增温潜势( $\\mathrm { \\Delta G W P _ { N P P } }$ )。具体计算方法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G W P _ { N P P } = N P P / ( 0 . 6 8 \\times 0 . 8 5 ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N P P } = 1 . 1 5 \\times \\mathrm { T A G B }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：系数0.68是碳水化合物对 $\\mathrm { C O } _ { 2 }$ 的转化比率$( [ \\mathrm { C H } _ { 2 } \\mathrm { O } ] / [ \\mathrm { C O } _ { 2 } ] { = } 0 . 6 8 )$ ；0.85是生物量对碳水化合物的转化比率([Biomass] $' [ \\mathrm { C H } _ { 2 } \\mathrm { O } ] { = } 0 . 8 5$ )，即光合产物对干物质的转化率约为 $0 . 6 ^ { [ 1 3 ] }$ ； TAGB(total abovegroundbiomass)为地上部总生物量 $( \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ ; 1.15 为地上总生物量转换为植株总生物的系数，华北平原夏玉米根系生物量(rootbiomass)约占地上生物量(TAGB)的 $0 . 1 0 { \\sim } 0 . 1 5$ ，冬小麦根系生物量约占地上生物量的 $0 . 1 5 { \\sim } 0 . 2 0 ^ { [ 1 4 ] }$ ，这里统一取0.15作为根系占地上部生物量的系数；NPP(net primary production)为净初级生产力 $\\left( \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } \\right) .$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.6 综合全球增温潜势(△GWP)",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "农田生态系统碳流特点是固碳和耗碳共存。本研究综合考虑农田生态系统的温室气体的源与汇功能，借鉴刘巽浩等[15]全环式考虑农田生态系统碳流路径的学术思想，计算综合增温潜势：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\Delta \\mathrm { G W P } = \\mathrm { G W P } _ { \\mathrm { s o i l e x p o r t } } + \\mathrm { G W P } _ { \\mathrm { i n d i r e c t } } - } \\\\ { \\mathrm { G W P } _ { \\mathrm { N P P } } - \\mathrm { G W P } _ { \\Delta \\mathrm { S O C } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\Delta \\mathrm { G W P }$ 为全球增温潜势或温室气体净增减量当其为正值时，代表系统为温室气体的源，反之则为汇； $\\mathrm { \\ G W P _ { \\Delta S O C } }$ 为土壤有机碳量的增温潜势(此项短期试验可忽略); $\\mathrm { G W P _ { N P P } } $ ： $\\mathrm { G W P _ { s o i l e x p o r t } }$ 和 $\\mathrm { G W P _ { i n d i r e c t } }$ 如前所述。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.7 数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "应用方差分析(ANOVA)、回归分析(regressionanalysis)相关分析对数据进行处理，处理间差异的多重比较采用Least-significant difference(LSD)法完成。所有数据分析均在MicrosoftExcel2003和SPSS13.0 环境下进行，画图采用Sigmaplot11.0。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同耕作措施下农田土壤温室气体排放特征2008年10月冬小麦播种时开始至2010年9月底玉米收获，连续两个作物轮作年利用静态箱式法动态监测了农田土壤 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 、 $\\mathrm { C H } _ { 4 }$ 和 $\\mathrm { C O } _ { 2 }$ 的排放通量，自的是了解不同耕作措施对温室气体排放通量季节性变化规律的影响，为优化利于温室气体减排的耕作措施提供参考。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 农田土壤 ${ \\bf N } _ { 2 } \\mathbf { O }$ 排放特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1给出了两个作物轮作年每个月 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放通量监测值的平均值。由图1可以看出，每个小麦-玉米轮作年中存在3个 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放高峰期，第1个出现在小麦底肥和播种后，第2个出现在小麦拔节肥后，第3个出现在玉米大喇叭口期施肥后，其余时间$\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量维持在一个较低的基础背景排放值附近波动。从不同作物生长季来看，玉米季 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量明显高于小麦季。究其原因， ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放通量的季节性变化主要是施肥、灌溉和季节性气候变化造成的土壤温湿度变化引起的。小麦季和玉米季总施氮量相同，小麦季分作底肥和追肥两次施用，每次各占季施用总量的1/2，而玉米季只在大喇叭口期施肥一次，单次施氮量比小麦季高一倍，造成玉米季施肥后土壤 $\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N }$ 、 $N O _ { 3 } ^ { - } { - } N$ 瞬时含量高于小麦季，为硝化、反硝化过程提供了充足底物；此外，玉米季正值本区域高温多雨季节，土壤温湿度明显高于小麦季，为反硝化微生物营造了良好的生存条件，促进了反硝化过程的发生，提高了 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 产生速率与排放",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "耕作措施与秸秆还田方式的不同，是引起不同处理间 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放通量存在差异的主要原因。10月上旬开始小麦播种，由于播种前的施肥灌水与耕作，激发了土壤 ${ \\bf N } _ { 2 } \\mathrm { O }$ 的产生与排放，使10月份 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放出现小麦生长季的第1个小高峰，此时，秸秆粉碎还田深翻耕处理 $\\mathrm { ( F ) N } _ { 2 } \\mathrm { O }$ 排放通量 $[ 4 1 . 8 ~ \\mathrm { g ( N _ { 2 } O - N ) } . \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 } ]$ 显著高于其他处理( $( P { < } 0 . 0 5 )$ ，其他各处理间差异不显著 $[ 6 . 5 { \\sim } 1 2 . 2 ~ \\mathrm { g } ( \\mathrm { N } _ { 2 } \\mathrm { O - N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 } ] _ { \\circ }$ 进入11月到翌年2月份，冬小麦处于越冬期，由于土壤温度的限制,微生物活性微弱，农田 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放维持在一个极低的基础水平，各处理间差异不显著，平均通量范围$- 1 . 2 { \\sim } 4 . 0 ~ \\mathrm { g ( N _ { 2 } O { - } N ) { \\cdot } h m ^ { - 2 } { \\cdot } d ^ { - 1 } }$ 。进入3月份，随着天气转暖，土壤温度回升，农田土壤 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放略有增加,至4月份，小麦进入生长旺季，拔节肥施过之后激发了小麦生长季的第2个 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放峰，4月份不同耕作方式 ${ \\bf N } _ { 2 } { \\bf O }$ 排放通量平均值CK为 $1 6 . 5 ~ \\mathrm { g ( N _ { 2 } O - N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 } .$ ，M1为 $1 7 . 9 \\mathrm { g ( N _ { 2 } O - N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 } { \\cdot } \\mathrm { M } 2$ 为 $2 0 . 8 \\mathrm { g ( N _ { 2 } O - N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 } ,$ F为 $3 2 . 8 \\mathrm { g ( N _ { 2 } O - N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 } .$ $\\mathrm { \\Delta } \\mathrm { X }$ 为 $3 6 . 2 \\ \\mathrm { g ( N _ { 2 } O - N ) \\cdot h m ^ { - 2 } \\cdot d ^ { - 1 } }$ 秸秆粉碎还田后旋耕(X)和深翻耕(F)处理 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量显著高于其他处理 $( ( P { < } 0 . 0 5 )$ 。进入5月份至6月初小麦收获，由于小麦生长对水肥吸收利用，使得土壤水分和 ${ \\mathsf { N O } } _ { 3 } – { \\mathsf { N } }$ 含量不断降低，减弱了土壤$\\mathrm { N } _ { 2 } \\mathrm { O }$ 的排放。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f8984393991e1ff4b45119ab017378d96761bbc9b87d0f11d51d7b3a9d1941f.jpg",
+        "img_caption": [
+            "图1不同耕作措施下农田土壤 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放通量季节性变化规律 Fig.1Seasonal change of $\\mathbf { N } _ { 2 } \\mathbf { O }$ fluxes under different tillage treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "M1:秸秆整秸覆盖免耕播种；M2:秸秆粉碎覆盖免耕播种；X:秸秆粉碎还田旋耕；F:秸秆粉碎还田深翻耕；CK：无玉米秸秆还 田深翻耕。施底肥时间为10月小麦播种前，于4月小麦拔节期和7月玉米大喇叭口期追肥并灌溉。下同。M1:no-tilage with whole maize residuemulching;M:n-tilgesoingithcoppdmazeresidemulcng;X:otarytillgeithcoppedaersidueicoatio;F mouldboardploughingwithchoppedmaizeresidueincorporation;CK:mouldboard ploughingwithmaizeresidueremove(conventionalpatern).FertilizerwasappliedinOctober(beforewheatsowing)，April (wheatjointingstage）andJuly(maizebittrumpetperiod)with irrigation management,respectively. The same below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6月初至9月底是玉米生长季，6月份玉米处于苗期，该时期华北地区降雨量较少，土壤湿度低，加之前茬作物对养分的吸收利用使土壤中 $N { \\mathrm { O } } _ { 3 } ^ { - } { \\mathrm { - N } } ,$ （2$\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N }$ 含量较低，硝化、反硝化过程微弱， ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放较低。进入7月份，玉米进入旺盛生长时期，大喇叭□期灌溉施肥后 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放通量显著提高，7月份是一",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecoagri.ac.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "年中 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放通量最高的月份，通量范围为 $4 8 . 1 \\sim$ $1 0 0 . 3 ~ \\mathrm { g ( N _ { 2 } O  – N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ ，此时，不同耕作处理 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量差异最为显著，以秸秆还田深翻耕处理(F)最高，秸秆整秸覆盖免耕播种处理(M1)最低，两处理的平均 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放通量相差 $52 \\%$ 。进入8月份，玉米正值旺盛生长期，随着作物对养分的吸收利用，土壤中的 $N O _ { 3 } ^ { - } { - } N$ 、 $\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N }$ 含量逐渐减少， $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量下降，9月份，主要雨季已过，土壤温湿度下降，土壤攘 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 主要来源由反硝化过程转为硝化过程，$\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量降至玉米生长季的基础背景值，此时，各耕作处理间 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放差异不显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.2农田土壤 $\\mathbf { C H _ { 4 } }$ 排放/吸收通量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2给出了不同处理两年观测结果每个月 $\\mathrm { C H } _ { 4 }$ 排放通量的平均值，正通量表示土壤向大气排放$\\mathrm { C H } _ { 4 }$ ，负通量表示土壤从大气中吸收 $\\mathrm { C H } _ { 4 \\mathsf { c } }$ ，研究结果表明，多数情况下北方小麦-玉米轮作农田土壤 $\\mathrm { C H } _ { 4 }$ 排放通量为负值，即土壤为大气 $\\mathrm { C H } _ { 4 }$ 的吸收“汇”。不同耕作方式和秸秆还田方式下 $\\mathrm { C H } _ { 4 }$ 吸收/排放的季节性变化规律存在差异，每年10月这种差异最显著。无秸秆还田深翻耕(CK)、秸秆粉碎还田旋耕(X)和深翻耕(F)3个处理 $\\mathrm { C H } _ { 4 }$ 通量均为正值，排放通量依次为 $1 . 1 ~ \\mathrm { g } ( \\mathrm { C H } _ { 4 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 人 $3 . 5 ~ \\mathrm { g } ( \\mathrm { C H } _ { 4 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ （204号和 $0 . 5 \\ \\mathrm { g } ( \\mathrm { C H } _ { 4 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ ，表明3个处理此阶段均有$\\mathrm { C H } _ { 4 }$ 排向大气。旋耕和深翻耕均对土壤有所扰动，破坏了土壤原有结构，提高了表层土壤孔隙度，促进了郁闭于土壤空气中的 $\\mathrm { C H } _ { 4 }$ 向大气的排放，大大降低土壤 $\\mathrm { C H } _ { 4 }$ 汇的强度[15]。也有报道[16]认为翻耕初期会增加 $\\mathrm { C H } _ { 4 }$ 的排放，但经过一定时间 $( 6 { \\sim } 8 \\ \\mathrm { h } )$ 后则有降低 $\\mathrm { C H } _ { 4 }$ 排放通量的趋势。而两个免耕处理(M1、M2)全年内均为负通量，10月份通量值相对其他月份较高，可能是因为该时期本地区正处于耕种时期，传统的耕种方式提高了土壤向大气的$\\mathrm { C H } _ { 4 }$ 排放量，短时间内提高了近地表大气 $\\mathrm { C H } _ { 4 }$ 浓度，导致该处理区大气与土壤空气 $\\mathrm { C H } _ { 4 }$ 浓度梯度加大，增加了土壤对大气 $\\mathrm { C H } _ { 4 }$ 的吸收量，故其负通量绝对值较大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f634d9add178deb327ba4af69265c46285bdedc359ca9a872bb4b1e97d73fde5.jpg",
+        "img_caption": [
+            "图2不同耕作措施下农田土壤 $\\mathbf { C H _ { 4 } }$ 排放通量季节性变化规律 Fig.2Seasonal change of $\\mathrm { C H } _ { 4 }$ fluxes under different tillage measurements "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "玉米生长初期(6月份)，由于土壤含水量低，土壤空气孔隙度高，利于土壤对 $\\mathrm { C H } _ { 4 }$ 的吸收氧化，对于大多数耕作处理而言，6月份是玉米生长季 $\\mathrm { C H } _ { 4 }$ 负通量绝对值最大的时期，即土壤作为大气 $\\mathrm { C H } _ { 4 }$ 吸收“汇\"较强烈时期，各处理土壤月平均吸收 $\\mathrm { C H } _ { 4 }$ -C量差异显著，分别为：CK $\\colon ~ 2 0 . 1 ~ \\mathrm { g } ( \\mathrm { C H } _ { 4 } \\mathrm { - } \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 、F$9 . 3 ~ \\mathrm { g } ( \\mathrm { C H } _ { 4 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 、 $\\mathrm { M } 2 \\ 8 . 1 \\ \\mathrm { g } ( \\mathrm { C H } _ { 4 } \\mathrm { - } \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 、X$5 . 3 ~ \\mathrm { g } ( \\mathrm { C H } _ { 4 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ / $\\mathrm { M } 1 ~ 2 . 0 ~ \\mathrm { g } ( \\mathrm { C H } _ { 4 } \\mathrm { - } \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ ，以多年秸秆移除深翻耕处理(CK)对 $\\mathrm { C H } _ { 4 }$ 吸收强度最高，而秸秆整秸覆盖免耕处理(M1)最低。由于CK处理多年没有秸秆还田，土壤有机碳含量显著低于其他处理，可能会导致土壤空气中 $\\mathrm { C H } _ { 4 }$ 浓度低于其他处理，故其对 $\\mathrm { C H } _ { 4 }$ 的吸收量最高。进入7月份以后，所有处理 $\\mathrm { C H } _ { 4 }$ 吸收量大大降低，7一9月份是一年中$\\mathrm { C H } _ { 4 }$ 吸收量最低的时期，各处理间差异不显著，通量范围为 $- 4 . 7 \\mathrm { { \\sim } + 1 . 5 \\mathrm { { g } ( C H _ { 4 } \\mathrm { { - } C ) \\cdot h m ^ { - 2 } \\cdot d ^ { - 1 } } } }$ 。7月中下旬，玉米进入大喇叭口期，进行施肥灌水，加之此时正值高温多雨季节，一方面土壤湿度大，利于土壤颗粒微域形成厌氧环境，利于提高甲烷细菌活性，产生 $\\mathrm { C H } _ { 4 }$ ，提高土壤空气 $\\mathrm { C H } _ { 4 }$ 浓度，缩小了大气与土壤空气间 $\\mathrm { C H } _ { 4 }$ 的浓度梯度，减弱了土壤对大气$\\mathrm { C H } _ { 4 }$ 的吸收；另一方面，土壤孔隙含水量提高，减少了大气 $\\mathrm { C H } _ { 4 }$ 进入土壤的通道，降低了土壤攘对大气$\\mathrm { C H } _ { 4 }$ 的吸收；最重要的是7月中下旬施肥，提高了土壤中 $\\mathsf { N O } _ { 3 } – \\mathsf { N }$ 和 $\\mathrm { \\Delta N H _ { 4 }  – N }$ 含量，抑制了土壤对 $\\mathrm { C H } _ { 4 }$ 的氧化[16-18]，从而弱化了土壤对大气 $\\mathrm { C H } _ { 4 }$ 吸收汇",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "的特征。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 农田土壤 $\\mathbf { C O } _ { 2 }$ 排放通量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究采用静态箱法测定了土壤表观呼吸排放的 $\\mathrm { C O } _ { 2 }$ 通量。土壤表观呼吸主要包括土壤原有有机质和植物残留物分解、根系分泌物分解和植物根系呼吸作用释放的 $\\mathrm { C O } _ { 2 }$ 总和。图3给出了不同处理两年观测结果每个月 $\\mathrm { C O } _ { 2 }$ 排放通量的平均值，不难看出， $\\mathrm { C O } _ { 2 }$ 排放通量的季节性变化与土壤温度的季节性变化规律极度吻合，玉米季高温多雨， $\\mathrm { C O } _ { 2 }$ 排放通量明显高于小麦季。每年的7一8月，正值玉米生长旺季，根系呼吸作用强烈，根系呼吸产生大量 $\\mathrm { C O } _ { 2 }$ 且此时是土壤温湿度最高时期，微生物活性增强，加速了土壤有机质分解速率和土壤呼吸速率，提高了土壤中 $\\mathrm { C O } _ { 2 }$ 浓度，促进农田土壤 $\\mathrm { C O } _ { 2 }$ 排放[19]。该阶段以秸秆粉碎还田深翻耕(F)和旋耕(X)处理$\\mathrm { C O } _ { 2 }$ 排放量相对较高，排放通量分别为 $4 3 . 7 { \\sim } 5 4 . 2$ $\\mathbf { k g } ( \\mathbf { C O } _ { 2 } \\mathbf { - } \\mathbf { C } ) \\mathbf { \\cdot } \\mathbf { h m } ^ { - 2 } \\mathbf { \\cdot } \\mathbf { d } ^ { - 1 }$ 和 $5 0 . 7 { \\sim } 5 3 . 4 \\ \\mathrm { k g } ( \\mathrm { C O } _ { 2 } { \\mathrm { - } } \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 以秸秆移除深翻耕(CK)和秸秆整秸覆盖免耕(M1)处理 $\\mathrm { C O } _ { 2 }$ 排放通量较低，排放通量分别为 $4 0 . 0 { \\sim } 4 2 . 3$ $\\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - } \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 和 $3 2 . 3 { \\sim } 3 9 . 2 \\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 } ,$ 9",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "每年的10月至翌年的6月初是冬小麦生长季节。10月初，由于施肥、耕种的影响，各处理 $\\mathrm { C O } _ { 2 }$ 排放通量相对较高，以秸秆粉碎还田深翻耕处理 $\\mathrm { ( F ) C O } _ { 2 }$ 排放通量最高，达 $2 4 . 2  { \\mathrm { \\ k g } } (  { \\mathrm { C O } } _ { 2 ^ { - } }  { \\mathrm { C } } ) \\cdot  { \\mathrm { h m } } ^ { - 2 } \\cdot  { \\mathrm { d } } ^ { - 1 }$ ，以秸秆移除深翻耕处理(CK)最低 $[ 1 3 . 2 \\mathrm { \\ k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - C } ) \\cdot \\mathrm { h m } ^ { - 2 } \\cdot \\mathrm { d } ^ { - 1 } ]$ 其他各处理间差异不显著，通量范围为 $1 5 . 8 \\mathrm { \\sim } 1 5 . 9$ $\\mathbf { k g } ( \\mathbf { C O } _ { 2 } \\mathbf { - } \\mathbf { C } ) \\cdot \\mathbf { h m } ^ { - 2 } \\cdot \\mathbf { d } ^ { - 1 }$ 。进入12月份， $\\mathrm { C O } _ { 2 }$ 排放通量急剧下降，至越冬期, $\\mathrm { C O } _ { 2 }$ 排放通量一直维持在一个较低水平，此时各处理间 $\\mathrm { C O } _ { 2 }$ 排放通量差异不明显，其通量范围 $2 . 7 { \\sim } 6 . 3 \\ \\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - } \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 } ,$ 。进入3月份随着土壤温度的回升和作物生长速度的加快， $\\mathrm { C O } _ { 2 }$ 排放通量开始升高，至4月份到达小麦生长季的 $\\mathrm { C O } _ { 2 }$ 排放高峰期， $\\mathrm { C O } _ { 2 }$ 排放通量以F和X处理最高，分别为$3 6 . 2 \\ \\mathrm { k g } ( \\mathrm { C O } _ { 2 ^ { - } } \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 和 $3 6 . 5 ~ \\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - C } ) \\cdot \\mathrm { h m } ^ { - 2 } \\cdot \\mathrm { d } ^ { - 1 }$ ，两个免耕处理(M1、M2)较低，分别为 $2 2 . 9 \\mathrm { \\ k g ( C O _ { 2 } - C ) \\cdot h m ^ { - 2 } \\cdot d ^ { - 1 } }$ 和 $2 2 . 7 \\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - C } ) \\cdot \\mathrm { h m } ^ { - 2 } \\cdot \\mathrm { d } ^ { - 1 } ,$ 9",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/63b2ab9e8a040a93b2c4d23cffb5574944a7c2e3d6d749a6b96647d4a1f54ccf.jpg",
+        "img_caption": [
+            "图3不同耕作措施下农田土壤 $\\mathbf { C O } _ { 2 }$ 排放通量及 ${ \\pmb 5 } \\mathbf c \\mathbf m$ 土壤温度的季节性变化规律 ig.3Seasonal changes of $\\mathrm { C O } _ { 2 }$ fluxes under different tillage treatments and soil temperature at $5 \\mathrm { c m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从周年 $\\mathrm { C O } _ { 2 }$ 排放通量动态变化来看，每个月不同处理 $\\mathrm { C O } _ { 2 }$ 排放表现不尽相同。在秸秆还田情况下，深翻耕和旋耕 $\\mathrm { C O } _ { 2 }$ 排放通量较免耕高，这可能是耕作方式不同和秸秆还田方式不同双重作用的结果。一方面频繁耕作或对土壤扰动会导致土壤有机碳的大量损失， $\\mathrm { C O } _ { 2 }$ 释放量增加，而免耕则能有效控制土壤有机碳损失，增加有机碳的储量，降低 $\\mathrm { C O } _ { 2 }$ 释放量[20]；另一方面，免耕处理为秸秆表覆，腐解较慢，减缓了因秸秆腐解造成的 $\\mathrm { C O } _ { 2 }$ 释放。在同样耕作条件下，秸秆还田会增加农田土壤 $\\mathrm { C O } _ { 2 }$ 排放量，秸秆还田后一部分残留于土壤中成为土壤有机质的来源，另一部分将会以 $\\mathrm { C O } _ { 2 }$ 气体的形式散逸到大气中。因此，随着秸秆还田量的增加 $\\mathrm { C O } _ { 2 }$ 排放也会增加，这也是F处理 $\\mathrm { C O } _ { 2 }$ 排放通量高于CK处理的主要原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2农田土壤温室气体排放总量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用数值积分法对每季作物动态监测的温室气体排放通量进行积分，获得小麦、玉米生长季和周年温室气体排放总量(表2)。结果表明华北平原小麦-玉米轮作农田土壤是 $\\mathrm { C O } _ { 2 }$ 和 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放的源，是 $\\mathrm { C H } _ { 4 }$ 的吸收汇”。小麦季和玉米季温室气体的源/汇强度存在差异，玉米季土壤作为 $\\mathrm { C O } _ { 2 }$ 和 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的排放源强度大于小麦季，而作为 $\\mathrm { C H } _ { 4 }$ 吸收汇的强度又低于小麦季，玉米季土壤排放 ${ \\bf N } _ { 2 } { \\bf O }$ 总量为 $1 . 2 1 { \\sim } 2 . 0 7 \\mathrm { k g } ( \\mathrm { N } _ { 2 } \\mathrm { O } { \\ - } \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $\\mathrm { C O } _ { 2 }$ 总量为 $3 ~ 8 0 4 { \\sim } 4 ~ 9 4 1 ~ \\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，吸收 $\\mathrm { C H } _ { 4 }$ 总量为 $0 . 3 0 { \\sim } 0 . 7 9 \\mathrm { k g } ( \\mathrm { C H } _ { 4 } { \\mathrm { - } } \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。小麦季土壤排放 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 总量为 $0 . 8 3 { \\sim } 1 . 8 0 \\mathrm { k g } ( \\mathrm { N } _ { 2 } \\mathrm { O } { \\ - } \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，较玉米季低 $1 3 \\% { \\sim } 3 1 \\%$ ： $\\mathrm { C O } _ { 2 }$ 排放总量为 2 835\\~4 438$\\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - } \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，较玉米季低 $10 \\% { \\sim } 2 5 \\%$ · $\\mathrm { C H } _ { 4 }$ 吸收总量 $0 . 7 8 { \\sim } 2 . 2 0 \\ \\mathrm { k g } ( \\mathrm { C H } _ { 4 } \\mathrm { - } \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，除对照处理外，较玉米季增加了 $1 . 3 { \\sim } 6 . 4$ 倍。因此，玉米季是土壤排放温室气体的主要时期，其温室效应远大于小麦季。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/251d74e1930be72a3fe7cf56fc085bb46235788e920605cf43d4b2a967ad7761.jpg",
+        "table_caption": [
+            "Table2Total emission of greenhouse gases from agricultural soil under different tillage treatments "
+        ],
+        "table_footnote": [
+            "同列数字后标有不同字母表示处理间差异达 $5 \\%$ 显著水平。下同。Different letters within the same column indicate significant difference at $P { < } 0 . 0 5$ level. The same below. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理 Treatment</td><td colspan=\"3\">N2O排放量 Total N2O emission [kg(NO-N)·hm-2]</td><td colspan=\"3\">CH4排放量 Total CH4 emission [kg(CH4-C)·hm-2]</td><td colspan=\"3\">CO2排放量 Total CO2 emission [kg(COz-C)·hm-2]</td></tr><tr><td>小麦 Wheat</td><td>玉米 Maize</td><td>全年 Annual</td><td>小麦</td><td>玉米</td><td>全年 Annual</td><td>小麦</td><td>玉米 Maize</td><td>全年 Annual</td></tr><tr><td>M1</td><td>0.85±0.03</td><td>1.21±0.11</td><td>2.06±0.20b</td><td>Wheat -2.20±0.14</td><td>Maize -0.30±0.04</td><td>-2.50±0.12a</td><td>Wheat 2 908±423</td><td>3 996±641</td><td>6 904±606c</td></tr><tr><td>M2</td><td>0.88±0.10</td><td>1.40±0.12</td><td>2.28±0.16b</td><td>-1.45±0.08</td><td>-0.32±0.06</td><td>-1.77±0.07b</td><td>2 835±210</td><td>4 516±351</td><td>7 351±552bc</td></tr><tr><td>X</td><td>1.25±0.15</td><td>1.28±0.10</td><td>2.54±0.27b</td><td>-0.99±0.16</td><td>-0.34±0.06</td><td>-1.33±0.13c</td><td>3 932±472</td><td>4 941±338</td><td>8 873±558ab</td></tr><tr><td>F</td><td>1.80±0.10</td><td>2.07±0.12</td><td>3.87±0.40a</td><td>-0.97±0.17</td><td>-0.41±0.05</td><td>-1.38±0.14c</td><td>4 438±213</td><td>4 627±373</td><td>9 065±908a</td></tr><tr><td>CK</td><td>0.83±0.06</td><td>1.46±0.11</td><td>2.29±0.14b</td><td>-0.78±0.15</td><td>-0.79±0.04</td><td>-1.57±0.12bc</td><td>3 620±426</td><td>3 804±395</td><td>7 425±93bc</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同耕作措施和秸秆还田方式对不同温室气体的排放源和吸收汇强度的影响不同。对于农田土壤${ \\bf N } _ { 2 } \\mathrm { O }$ 排放，全年排放总量由大到小的顺序为翻耕$( \\mathrm { F } ) { > }$ 旋耕 $( \\mathrm { X } ) \\mathrm { > }$ 免耕 $2 ( \\mathbf { M } 2 ) ^ { \\scriptscriptstyle > }$ 对照 $( \\mathrm { C K } ) ^ { } $ 免耕1(M1)，F处理 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放量显著高于其他处理 $( P { < } 0 . 0 5 )$ ，其他处理间无显著性差异。对于农田土壤 $\\mathrm { C O } _ { 2 }$ 排放，全年排放总量由大到小的顺序与 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放顺序相同，F处理显著高于CK和两个免耕(M1、M2)处理 $( P { < } 0 . 0 5 )$ ，与X 处理间无显著性差异,X显著高于 $\\operatorname { M } 1 ( P { < } 0 . 0 5 )$ ，与CK和M2之间无显著性差异。M1处理 $\\mathrm { C O } _ { 2 }$ 排放量最低，但与CK和M2之间无显著差异。对于农田土壤对大气 $\\mathrm { C H } _ { 4 }$ 的吸收，耕作措施与还田方式的影响小麦季高于玉米季，究其原因主要是由于耕作与秸秆还田活动于小麦播种前进行，对土壤扰动强烈的处理出现短时 $\\mathrm { C H } _ { 4 }$ 排放，减弱了整季吸收量，以玉米秸整秸覆盖免耕处理(M1)吸收量最高，秸秆移出深翻耕处理(CK)最低，全年吸收总量由高到低的顺序为 $\\mathrm { M 1 { > } M 2 { > } C K { > } F { > } X }$ 。M1处理土壤对大气 $\\mathrm { C H } _ { 4 }$ 吸收量显著高于其他处理 $( P { < } 0 . 0 5 )$ ，M2处理显著高于F和X处理 $( P { < } 0 . 0 5 )$ ，但与CK处理间无显著性差异,F和X处理对 $\\mathrm { C H } _ { 4 }$ 的吸收氧化能力最低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3不同耕作体系综合温室效应估算",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在农作物生产过程中，不仅仅是农田土壤排放温室气体，各项农田管理活动如耕作、播种、收获、灌溉、施肥等均可直接或间接引起 $\\mathrm { C O } _ { 2 }$ 以及其他温室气体排放。因此，在对农田生态系统温室效应进行综合评估时，除了关注农田土壤引起的温室气体直接排放外，还应考虑各项农事活动直接或间接引起的温室气体排放，并将其统一转换为碳当量(carbonequivalent).",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 农事活动引起的碳排放",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在试验过程中需要进行翻地、播种、收获或秸秆还田等操作，这些过程均有机械的参与，而机械燃油会产生大量的 $\\mathrm { C O } _ { 2 }$ ，不同的耕作方式及秸秆还田制度会影响机械能的投入和等量 $\\mathrm { C O } _ { 2 }$ 的投入，可以通过机械燃油量来计算 $\\mathrm { C O } _ { 2 }$ 产生量，燃油的 $\\mathrm { C O } _ { 2 }$ 排放系数见表1。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "试验期间，记录了每个处理的具体油耗，如表3所示。结果表明不同处理间的油耗存在很大差异，由此引起的 $\\mathrm { C O } _ { 2 }$ 排放亦存在明显差异，以旋耕(X)和翻耕(F)处理机械耗油最多，由此引起的 $\\mathrm { C O } _ { 2 }$ 排放量也最高。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/6175b32c89d073e9e04bba0eaf18ed8c08c7f7c56c6ff07941e3c3c1d8478658.jpg",
+        "table_caption": [
+            "表2不同耕作措施下农田土壤温室气体排放总量估算",
+            "表3不同耕作处理的机械油耗与等当量 $\\mathbf { C O } _ { 2 }$ 投入量",
+            "'able 3Fuel consumption and equivalent $\\mathrm { C O } _ { 2 }$ inputs under different tillage treatmen "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Tre理ent</td><td colspan=\"7\"></td><td rowspan=\"2\">q当量cO2 [kg(CO2)·hm-2.a-1]</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>M1</td><td>0</td><td>0</td><td>0</td><td>31.05</td><td>0</td><td>30</td><td>61.05</td><td>158</td></tr><tr><td>M2</td><td>47.25</td><td>0</td><td>0</td><td>31.05</td><td>0</td><td>30</td><td>108.30</td><td>280</td></tr><tr><td>X</td><td>47.25</td><td>45.00</td><td>0</td><td>11.40</td><td>3</td><td>30</td><td>136.65</td><td>354</td></tr><tr><td>F</td><td>47.25</td><td>37.50</td><td>0</td><td>11.40</td><td>3</td><td>30</td><td>129.15</td><td>335</td></tr><tr><td>CK</td><td>0</td><td>37.50</td><td>3.75</td><td>11.40</td><td>3</td><td>30</td><td>85.65</td><td>222</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在作物种植过程中需要进行灌溉，灌溉水来自地下水，灌溉时用水泵将水抽至地面，在这个过程中需要消耗电能，间接通过发电引起了碳排放。Mosier等[11]研究表明每从地下泵出 $1 \\ \\mathrm { c m }$ 水进行灌溉大致需要14.8度电，可引起 $1 . 2 9 \\mathrm { \\ k g ( C O _ { 2 } { - } C ) }$ 等当量排放。试验期间小麦季平均灌溉量 $1 5 7 . 5 \\ \\mathrm { m m }$ ，玉米季平均 $7 0 ~ \\mathrm { m m }$ ，每年灌溉耗电引起的 $\\mathrm { C O } _ { 2 }$ 排放相当于 $2 9 . 3 \\mathrm { k g } ( \\mathrm { C O } _ { 2 } \\mathrm { - C } ) \\cdot \\mathrm { h m } ^ { - 2 } \\cdot \\mathrm { a } ^ { - 1 } .$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "施肥不仅可以直接影响农田土壤温室气体排放，在其生产、运输过程中亦会引起温室气体排放。自前关于肥料生产和运输过程中产生等当量 $\\mathrm { C O } _ { 2 }$ 的研究结果不一,Robertson 等[10]认为每生产、运输、施用 $1 \\mathrm { k g } \\mathrm { N }$ 大约可引起 $\\mathrm { C O } _ { 2 }$ 的排放量为 $4 . 5 1 \\mathrm { k g } ( \\mathrm { C O } _ { 2 } ) { \\cdot } \\mathrm { k g } ^ { - 1 } ( \\mathrm { N } )$ ，而Adviento-Borbe等[7]和West等[12]的研究结果分别为$4 . 0 5 { \\sim } 4 . 5 1 \\mathrm { k g } ( \\mathrm { C O } _ { 2 } ) { \\cdot } \\mathrm { k g } ^ { - 1 } ( \\mathrm { N } )$ 和 $2 . 6 { \\sim } 3 . 2 4 . 5 1 \\mathrm { k g } ( \\mathrm { C O } _ { 2 } ) { \\cdot } \\mathrm { k g } ^ { - 1 } ( \\mathrm { N } ) _ { \\circ }$ 在此取其平均值 $3 . 5 9 \\mathrm { k g } ( \\mathrm { C O } _ { 2 } ) { \\cdot } \\mathrm { k g } ^ { - 1 } ( \\mathrm { N } ) _ { \\circ }$ 磷肥生产运输过程中引起的 $\\mathrm { C O } _ { 2 }$ 排放量为 $0 . 6 1 \\mathrm { k g } ( \\mathrm { C O } _ { 2 } ) { \\cdot } \\mathrm { k g } ^ { - 1 } ( \\mathrm { P } ) _ { \\circ }$ 试验期间每年施用氮肥 $4 2 6 ~ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，磷肥 $6 0 \\ \\mathrm { k g } ( \\mathrm { P } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 每年因为施肥引起的等当量 $\\mathrm { C O } _ { 2 }$ 排放量为1567$\\mathrm { k g } ( \\mathrm { C O } _ { 2 } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3.2农田生态系统经初级生产力碳截存",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "农田生态系统通过光合作用产物将太阳能转换为生物能，在此过程中固定 $\\mathrm { C O } _ { 2 }$ ，这是农田生态系统作为大气 $\\mathrm { C O } _ { 2 }$ 汇的功能。农田生态系统对大气$\\mathrm { C O } _ { 2 }$ 固定通常用作物净初级生产力(NPP)表示，固碳量可参照公式 $( 7 ) { \\sim } ( 8 )$ 计算。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "试验期间每季作物收获时测定作物产量和地上部生物量，根据式(7)和式(8)计算了植株地上和地下部分转化为NPP的碳总量(表4)。结果表明，旋耕(X)处理经济产量和对碳的截获量最高，不同耕作处理籽粒产量由高到低的顺序为旋耕 $( \\mathrm { X } ) { > }$ 翻耕 $( \\mathrm { F } ) { > }$ 免耕$2 ( \\mathbf { M } 2 ) \\mathrm { > }$ 对照(CK)>免耕1(M1)；植株转化为净初级生产力(NPP)的碳量由大到小的顺序旋耕 $( \\mathrm { X } ) \\mathrm { > }$ 免耕2(M2) $\\mid >$ 翻耕 $( \\mathrm { F } ) { > }$ 对照(CK) $>$ 免耕1(M1)。由此可见,旋耕处理无论是作物经济生产能力还是碳的截获能力均为最高，而多年秸秆整秸覆盖免耕处理(M1)经济产量和碳截获量均最低。多年秸秆整秸覆盖免耕致使耕层土壤紧实度增加，影响作物根系下扎；此外，秸秆整秸覆盖不能使秸秆很好与土壤混合，影响秸秆腐解和土壤有机质的形成，对提升土壤肥力有一定影响，故其生产能力较差。对照处理因为每年进行翻耕，且无秸秆还田，对土壤的频繁扰动加速了其土壤原有有机质的分解，降低了土壤碳库储量，对提升土壤地力和作物生产能力不利，其作物产量和碳截获量均明显低于除M1以外的其他处理。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/901449e21b868b01d975bd41516c8c7935f67e9fa0593c522c8adcff6bc952de.jpg",
+        "table_caption": [
+            "表4不同耕作处理作物产量及植物碳截获量 $( \\mathbf { G W P _ { N P P } } )$ Table 4Crop yield and plant carbon capture (global warming potential based on NPP, $\\mathbf { G W P } _ { \\mathrm { N P P } } .$ ）of different tillage treatments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>籽粒产量 Grain yield (kg·hm-2)</td><td>秸秆产量 Straw yield (kg;hm-2.a-1)</td><td>全年总GWPNPP Total GWPNPP [kg(C)·hm-2.a-1]</td></tr><tr><td>M1</td><td>13 166±736c</td><td>14 177±798b</td><td>14 779±828b</td></tr><tr><td>M2</td><td>13 834±601b</td><td>15 272±715ab</td><td>15 732±711a</td></tr><tr><td>X</td><td>14 294±991a</td><td>15 519±998a</td><td>16 114±1 075a</td></tr><tr><td>F</td><td>13 909±580ab</td><td>15 032±684b</td><td>15 643±681a</td></tr><tr><td>CK</td><td>13 178±116c</td><td>14 302±153b</td><td>14 853±162b</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 不同耕作体系综合温室效应评价",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对农田生态系统进行综合温室效应评价时，应全面考虑农田生态系统的碳流，不应仅仅是土壤表观呼吸排放的 $\\mathrm { C O } _ { 2 }$ 量，还应涵盖灌溉、机械和肥料施用等农事活动所造成的 $\\mathrm { C O } _ { 2 }$ 排放量，以及作物转化为NPP的碳量 $\\mathrm { ( G W P _ { N P P } ) }$ )。在此因为是计算农田生态系统 $\\mathrm { C O } _ { 2 }$ 净排放量，故此处的 ${ \\bf G } { \\bf W } { \\bf P } _ { \\mathrm { N P P } }$ 只能包括残留在农田生态系统内的那部分植物转化为NPP的碳量，如果进行秸秆还田，那么 ${ \\mathrm { G W P } } _ { \\mathrm { N P P } }$ 包含生产地下部根系和地上部植株(秸秆)时转化为NPP的碳量，如果秸秆移出，那么 ${ \\bf G } \\mathrm { W P } _ { \\mathrm { N P P } }$ 就只包含生产地下部根系时转化为NPP的碳量(如对照处理)，所有处理生产成籽粒部分转化为NPP的碳量不包含在内。根据式 $( 5 ) { \\sim } ( 9 )$ 可计算出农田生态系统的综合增温潜势(表5)，结果表明两个免耕处理GWP均为负值，表明农田生态系统为大气的碳汇，去除农事活动引起的直接或间接排放的 $\\mathrm { C O } _ { 2 }$ 或 $\\mathrm { C O } _ { 2 }$ 当量后，每年农田生态系统净截留 $9 4 7 { \\sim } 1 ~ 0 7 0 ~ \\mathrm { k g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；其他3个处理农田生态系统的GWP值均为正值，表明温室气体是由系统向大气排放，其GWP由大到小的顺序为对照(CK) $\\mid >$ 翻耕 $( \\mathrm { F } ) { > }$ 旋耕(X).",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如果仅评价农田生态系统的综合增温效应，两个秸秆覆盖免耕措施是温室效应最低的，对环境最有益，但其经济产量很低，不能满足农业生产高效可持续发展的要求。农业生产自标是提升经济产量和可持续发展，在进行农田生态系统的综合增温效应评价时要兼顾经济效应和环境效应，故在华北小麦-玉米轮作体系中，耕作制度与秸秆管理上实施秸秆粉碎还田旋耕将是最优化的耕作措施，其温室效应相对较低，而又能保证较高的经济产量。在采用该耕作措施时，应特别注重农田氮素管理，最大限度减少 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放，降低其增温潜势。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffda98c872e73c56f1ef41488292bff9307596989cc77a2b55ee3b3cf7dd3ec8.jpg",
+        "table_caption": [
+            "表5不同耕作体系温室气体的增温潜势",
+            "Table 5Global warming potential (GWP)under different tillage treatments "
+        ],
+        "table_footnote": [
+            "GWPsoilexport:土壤排放温室气体增温潜势; $\\mathrm { { G W P } _ { \\mathrm { { i n d i r e c t } } } }$ ：农事活动投入引起的间接增温潜势； $\\mathrm { G W P _ { N P P } }$ ：净初级生产力增温潜势；△GWP：综 合增温潜势，正值代表系统为温室气体的源，反之则为汇。GWPsoilxport: global warming potentialof soil greenhouse gases eission; $\\mathrm { G W P _ { i n d i r e c t } }$ ： indirect global warming potential of farming activities; $ { \\mathrm { G W P } } _ { \\mathrm { N P P } }$ : global warming potential of plant carbon capture.△GWP: comprehensive global warmingpotential,ispositivevaluemeansfamingsystemissurcesofgrenousegase,thenegativvaluemeansfarmingsystemissinkof greenhouse gas. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理 Treatment</td><td colspan=\"2\">GWPNPP [kg(CO2-C)·hm-²]</td><td colspan=\"3\">GWPsoilexport [kg(CO2-C)·hm-2]</td><td colspan=\"3\">GWPindiret [kg(CO2-C).·hm-2]</td><td rowspan=\"2\">△GWP</td></tr><tr><td>粒</td><td>+根t</td><td>GWPCH4</td><td>GWPN20</td><td>GWPco2</td><td>机械油耗</td><td>灌能</td><td>Fertler</td></tr><tr><td>M1</td><td>6 188±346</td><td>8 591±483</td><td>-23±1.1</td><td>263±26</td><td>6 904±606</td><td>43</td><td>29</td><td>428</td><td>-947</td></tr><tr><td>M2</td><td>6 502±283</td><td>9 230±429</td><td>-16±0.6</td><td>291±20</td><td>7 351±552</td><td>77</td><td>29</td><td>428</td><td>-1070</td></tr><tr><td>X</td><td>6 718±466</td><td>9 396±609</td><td>-12±1.2</td><td>324±34</td><td>8 873±558</td><td>97</td><td>29</td><td>428</td><td>343</td></tr><tr><td>F</td><td>6 537±272</td><td>9 105±410</td><td>-13±1.3</td><td>494±51</td><td>9 065±908</td><td>91</td><td>29</td><td>428</td><td>989</td></tr><tr><td>CK</td><td>6 194±118</td><td>4 856±70</td><td>-14±1.1</td><td>292±18</td><td>7 425±93</td><td>61</td><td>29</td><td>428</td><td>3364</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1 耕作措施与秸秆还田方式对农田土壤温室气体排放的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由于农事活动以及气候条件的影响，耕作、施肥、灌水后以及高温多雨的夏玉米季是农田土壤温室气体排放的主要时期，此时不同处理间温室气体排放通量差异较显著。10月份，冬小麦播种前是耕作措施实施期，秸秆粉碎还田深翻耕处理(F)温室气体排放通量最高，一方面深翻耕加速了郁闭于土壤中的温室气体的排放，另一方面新鲜有机物质翻耕进入土壤，加之播种前的底墒水肥，加速了微生物的活动，急剧提高了温室气体排放量。对于无秸秆还田深翻耕处理(CK)，虽然翻耕亦加速了郁闭于土壤中温室气体排放，但由于多年没有秸秆还田，土壤有机碳源远没有秸秆还田处理充足，导致CK处理温室气体排放通量低于其他处理；此外，由于翻耕加速了土壤蒸发，水分含量下降较快，土壤厌氧环境维持时间较短，使得该处理翻耕后温室气体排放峰持续时间较短，导致10月份CK处理温室气体平均排放通量在所有处理中最低。对于旋耕处理(X),尽管秸秆进行了粉碎还田，由于旋耕不能使秸秆很好与土壤混合，土壤孔隙较大，加速了土壤水分的蒸发，明显减低了土壤含水量，不利于新鲜有机物质的腐解以及反硝化过程的发生；此外，由于土壤扰动没有翻耕力度大，郁闭于土壤中的气体难于充分释放，导致10月份旋耕处理气体排放( $\\mathrm { C H } _ { 4 }$ 除外)低于其他秸秆还田处理。对于两个免耕处理，由于秸秆只是覆盖于土壤表面，土壤未经扰动，郁闭于土壤中的气体难于释放，故该处理比同样是秸秆还田的翻耕处理低很多；另一方面，秸秆覆盖降低了土壤蒸发，利于保持土壤水分和土壤的厌氧环境，加速了土壤反硝化过程，从而提高了 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放通量，这是小麦播种后短时间内免耕处理比旋耕处理 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放通量高的主要原因。随着小麦进入越冬期，各处理温室气体排放急剧下降，处理间差异也不再明显，但F处理 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量持续比其他处理偏高。3月底4月初，小麦进入拔节期，施肥灌溉引起的温室气体排放急剧增加，各处理间气体排放通量再度出现明显差异，X和F处理 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 和 $\\mathrm { C O } _ { 2 }$ 排放通量显著高于其他处理，二者之间无显著差异。主要原因是这两个处理的秸秆还田方式有助于秸秆腐解和有机碳在土壤中的固持，土壤碳源丰富[21]，微生物数量和活性均较高[22]，一旦施肥灌水，会急剧促进微生物参与的反硝化过程和土壤呼吸强度，显著提高$\\mathrm { N } _ { 2 } \\mathrm { O }$ 和 $\\mathrm { C O } _ { 2 }$ 的生成量和排放量。在此值得一提的是，经过近半年的淀积，旋耕(X)处理的秸秆与土壤已能充分混匀，此时辅以施肥灌溉，更能激发秸秆的腐解速度，促进 $\\mathrm { C O } _ { 2 }$ 产生与排放；同时一方面消耗土壤空气中的氧气，为反硝化微生物营造更好的厌氧环境，另一方面为微生物提供了更多的碳源、底物,促进反硝化过程及其中间产物 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的生成与排放，这也是该时期旋耕处理 $\\mathrm { C O } _ { 2 }$ 和 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放通量最高的主要原因。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通常在7月中旬玉米大喇叭口期进行追肥和灌溉，短时间内在表层土壤中累积了大量 $\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N }$ 和${ \\mathsf { N O } } _ { 3 } ^ { - } { \\mathsf { - N } }$ ，为硝化和反硝化微生物提供了充足的底物，激发其活性；此时亦正值高温多雨季节，土壤孔隙含水量(WFPS)一般高于 $60 \\%$ ，多为 $80 \\%$ 左右， $5 \\ \\mathrm { c m }$ 地温保持在 $2 5 { \\sim } 3 2 \\ \\mathrm { ~ \\textdegree C }$ ，土壤温湿度适宜于各类微生物活动，促进了还田秸秆的腐解和反硝化过程的强烈发生，导致此阶段 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 和 $\\mathrm { C O } _ { 2 }$ 排放通量的激增这也是全年中7月份 ${ \\bf N } _ { 2 } \\mathrm { O }$ 和 $\\mathrm { C O } _ { 2 }$ 排放通量最高的主要原因。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "研究结果表明，耕作措施和秸秆还田方式显著影响农田土壤温室气体排放，翻耕比免耕更有利于农田温室气体排放，主要是土壤扰动促进了郁闭于土壤内的气体释放；秸秆深施较秸秆表面覆盖更有利于农田土壤温室气体排放，秸秆深施较表覆更易于分解[23]，为反硝化微生物提供了充足的能源物质和微域厌氧环境，利于反硝化过程的进行，促进了$\\mathrm { N } _ { 2 } \\mathrm { O }$ 的生成与排放；同时，秸秆腐解过程中释放大量 $\\mathrm { C O } _ { 2 }$ ，提高了 $\\mathrm { C O } _ { 2 }$ 排放通量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2耕作与秸秆还田对温室气体排放总量及其增温潜势的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "综合考虑耕作措施与秸秆还田方式对3种温室气体的排放和吸收的影响，秸秆粉碎还田深翻耕对温室气体的排放和吸收影响最大，不仅强化了土壤作为 $\\mathrm { C O } _ { 2 }$ 和 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放源的特征，也强化了土壤作为$\\mathrm { C H } _ { 4 }$ 吸收汇的特征，主要源于该处理不仅为土壤增加了有机物质，还对土壤进行了较大强度的扰动，使还田秸秆能与土壤较好地混合接触，不仅为土壤微生物提供了能源物质，还为其营造了适宜的土壤环境，利于提高各类微生物的活性，激发微生物参与的各类生物化学过程。M1是温室效应最低的一个处理，其 $\\mathrm { C O } _ { 2 }$ 和 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放量最低, $\\mathrm { C H } _ { 4 }$ 吸收量却是最高，究其原因，很可能是常年未对土壤进行扰动，不仅抑制了郁闭于土壤空气中的温室气体的排放，还增加了 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的还原量。曾有报道认为对未扰动土壤进行耕作可大大降低土壤 $\\mathrm { C H } _ { 4 }$ 汇的强度[15]，耕作破坏了土壤原有结构，減少了土壤 $\\mathrm { C H } _ { 4 }$ 氧化程度,这从另一角度为 M1处理 $\\mathrm { C H } _ { 4 }$ 吸收量最高提供了佐证。万运帆等[23]的研究结果认为，秸秆还田和免耕措施促进土壤对 $\\mathrm { C H } _ { 4 }$ 的吸收，秸秆深施对土壤吸收$\\mathrm { C H } _ { 4 }$ 的影响大于秸秆表覆与免耕，主要是由于改善了土壤通气状况，更有利于 $\\mathrm { C H } _ { 4 }$ 的氧化和对空气中$\\mathrm { C H } _ { 4 }$ 的吸收。而张雪松等[24]在同一地区开展的麦田土壤 $\\mathrm { C H } _ { 4 }$ 吸收特征结果表明，秸秆还田后不利于土壤对 $\\mathrm { C H } _ { 4 }$ 的吸收。由于农田 $\\mathrm { C H } _ { 4 }$ 的排放受诸多因素的影响，且 $\\mathrm { C H } _ { 4 }$ 的排放机理也非常复杂，耕作引起$\\mathrm { C H } _ { 4 }$ 吸收/排放的结果还有待进一步研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "传统耕作措施下综合温室效应显著高于免耕。传统耕作一方面因其机械投入多，对土壤扰动强烈，通过燃油消耗和土壤向大气直接排放大量温室气体，另一方面地上部秸秆的全部移出降低了系统对碳的截存。当前本区域秸秆移出农田生态系统后尚无其他可利用途径情况下，这种传统耕作方式强化了农田系统对碳的输出，提高了其温室效应。免耕措施一方面机械燃油消耗、各种温室气体排放所造成的农田系统输出碳当量明显低于其他耕作方式，另一方面，秸秆还田造成农田系统截存大量碳，使得免耕措施下农田系统的温室效应最低。在综合增温潜势的估算中，秸秆处理方式是影响综合增温潜势的一个重要分项，倘若秸秆还田，则表明秸秆中的碳被农田系统截存，其增温效应为负，在计算综合增温潜势时要扣除秸秆截存的碳当量；倘若秸秆被移出，秸秆中的碳被完全输出农田系统，在此暂且认为被移出农田的秸秆无论作何用途其所含碳最终均以 $\\mathrm { C O } _ { 2 }$ 形式排向大气，其增温效应为正，在计算综合增温潜势要累加秸秆的碳当量。对系统的各项温室气体增温潜势统一转换为碳当量后，秸秆移出深翻耕情况下，农田每年每公顷排放 $\\mathrm { C O } _ { 2 }$ 当量为 $^ { 1 2 . 3 \\mathrm { ~ t } , }$ （204号显著高于其他耕作措施。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "北方小麦-玉米轮作农田土壤是 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 和 $\\mathrm { C O } _ { 2 }$ 的排放源，是 $\\mathrm { C H } _ { 4 }$ 的弱吸收汇。麦季和玉米季温室气体的源/汇强度存在差异，玉米季土壤作为 $\\mathrm { C O } _ { 2 }$ 和$\\mathrm { N } _ { 2 } \\mathrm { O }$ 的排放源强度大于小麦季，而作为 $\\mathrm { C H } _ { 4 }$ 吸收汇的强度又低于小麦季。耕作是影响农田温室气体排放的重要农业生产方式，翻耕比免耕更有利于农田土壤 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 与 $\\mathrm { C O } _ { 2 }$ 排放，秸秆还田比秸秆移出、秸秆深施比秸秆表面覆盖更有利于土壤 ${ \\bf N } _ { 2 } \\mathrm { O }$ 与 $\\mathrm { C O } _ { 2 }$ 排放，秸秆还田可增加土壤对 $\\mathrm { C H } _ { 4 }$ 的氧化吸收，提高土壤作为大气 $\\mathrm { C H } _ { 4 }$ 吸收汇的特征。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "免耕处理农田生态系统综合增温潜势(△GWP)均为负值，表明该耕作方式下农田生态系统为大气的碳汇，去除农事活动引起的直接或间接排放的 $\\mathrm { C O } _ { 2 }$ 后，每年农田生态系统净截留 $9 4 7 { \\sim } 1 0 7 0 \\mathrm { \\ k g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 其他处理农田生态系统的△GWP值均为正值，表明温室气体是由系统向大气排放，其综合 $\\Delta \\mathrm { G W P }$ 由大到小的顺序为无秸秆还田深翻耕 $( \\mathrm { C K } ) ^ { } $ 秸秆粉碎还田深翻耕 $( \\mathrm { F } ) { > }$ 秸秆粉碎还田旋耕(X)。如果单单评价农田生态系统的综合增温效应，两个秸秆覆盖免耕措施温室效应最低，对环境最有益，但其经济产量很低，不能满足农业生产高产高效可持续发展的要求。农业生产目标是提升经济产量和可持续发展，在进行农田生态系统的综合增温效应评价时要兼顾经济效应和环境效应双赢，故在华北小麦-玉米轮作体系中，秸秆粉碎还田旋耕是最优化的耕作措施，其温室效应相对较低，而又能保证较高的经济产量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]Kiehl JT,Trenberth K E.Earth's annual global mean energy ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "budget[J]. Bulletin of the American Meteorological Society, 1997, 78(2): 197-208   \n[2] IPCC.Special Report on Emissions Scenarios:A special Report of Working Group II of the Intergovernmental Panel on Climate Change[R]. Cambridge:Cambridge University Press,2000   \n[3] Hansen JE,Lacis AA. Sun and dust versus greenhouse gases: An assessment of their relative roles in global climate change[J]. Nature,1990,346(6286): 713-719   \n[4] IPCC.Climate Change 2007: The Physical Science Basis[R]. Cambridge: Cambridge University Press,2007   \n[5] 李长生，肖向明,Frolking S,等．中国农田的温室气体排放[J]. 第四纪研究,2003,23(5):493-503 Li C S, Xiao X M, Frolking S,et al.Greenhouse gas emissions from croplands of China[J].Quaternary Sciences, 2003,23(5): 493-503   \n[6] 宋利娜，张玉铭，胡春胜，等．华北平原高产农区冬小麦农 田土壤温室气体排放及其综合温室效应[J]．中国生态农业 学报,2013,21(3): 297-307 Song L N, Zhang Y M,Hu C S,et al. Comprehensive analysis of emissions and global warming effects of greenhouse gases in winter-wheat fields in the high-yield agro-region of North China Plain[J].Chinese Journal of Eco-Agriculture,2013, 21(3): 297-307   \n[7] Adviento-Borbe M A A,Haddix ML,Binder D L,et al. Soil grenhouse gas fluxes and global warming potential in four high-yielding maize systems[J]. Global Change Biology, 2007, 13(9): 1972-1988   \n[8] 王小国，朱波，王艳强，等．不同土地利用方式下土壤呼吸 及其温度敏感性[J]．生态学报,2007,27(5):1960-1968 Wang X G, Zhu B,Wang Y Q,et al. Soil respiration and its sensitivityto temperatureunder diferent land useconditions[J]. Acta Ecologica Sinica,2007,27(5):1960-1968   \n[9]展茗，曹凑贵，汪金平，等．复合稻田生态系统温室气 体交换及其综合增温潜势[J]．生态学报，2008，28(11): 5461-5468 Zhan M,Cao C G, Wang J P,et al. Greenhouse gases exchange of integrated paddy field and their comprehensive global warming potentials[J]. Acta Ecologica Sinica,2008, 28(11): 5461-5468   \n[10]Robertson G P,Paul E A,Harwood RR.Greenhouse gases in intensive agriculture: Contributions of individual gases to the radiative forcing of the atmosphere[J]. Science，2000, 289(5486): 1922-1925   \n[11] Mosier A R,Halvorson A D,Reule C A,et al.Net global warming potential and greenhouse gas intensity in irrigated cropping systems in northeastern Colorado[J]. Journal of Environmental Quality,2006,35(4): 1584-1598   \n[12] West T O,Marland G.A synthesis of carbon sequestration, carbon emissions,and net carbon flux in agriculture: Comparing tillage practices in the United States[J].Agriculture,Ecosystems & Environment,2002,91(1/3):217-232   \n[13] Passioura JB.Roots and drought resistance[J]. Agricultural Water Management,1983,7(1/3): 265-280   \n[14]张喜英．作物根系与土壤水利用[M]．北京：气象出版社,   \n[15]刘巽浩，徐文修，李增嘉，等．农田生态系统碳足迹法：误 区、改进与应用—兼析中国集约农作碳效率[J]．中国农 业资源与区划,2013,34(6):1-11 Liu X H, Xu W X,Li Z J, et al. The missteps,improvement and application of carbon footprint methodology in farmland ecosystems with the case study of analyzing the carbon efficiency of China's intensive farming[J]. Chinese Journal of Agricultural Resources and Regional Planning,20l3,34(6): 1-11   \n[16]Willison T W,Webster C P,Goulding K W T,et al. Methane oxidation in temperate soils:Effects of land use and the chemical form of nitrogen fertilizer[J].Chemosphere,1995, 30(3): 539-546   \n[17]Harriss R C,Sebacher D I,Day Jr F P.Methane flux in the great dismal swamp[J]. Nature,1982,297(5868): 673-674   \n[18]丁维新，蔡祖聪．氮肥对土壤氧化甲烷的影响研究[J]．中 国生态农业学报,2003,11(2):50-53 Ding W X, Cai Z C.Effect of nitrogen fertilizers on methane oxidation in soils by methanotrophs[J].Chinese Journal of Eco-Agriculture,2003,11(2): 50-53   \n[19] 刘绍辉，方精云，清田信．北京山地温带森林的土壤呼吸[J]. 植物生态学报,1998,22(2):119-126 Liu S H,Fang JY, Qing T X. Soil respiration of mountainous temperate forests in Beijing,China[J].Acta Phytoecologica Sinica,1998,22(2): 119-126   \n[20]金峰，杨浩，赵其国．土壤有机碳储量及影响因素研究进 展[J].±壤,2000,32(1):11-17 Jin F,Yang H, Zhao Q G. Progress in the research on soil organic carbon storage and its influencing factors[J]. Soils, 2000,32(1): 11-17   \n[21]董文旭．不同耕作措施对氮素总转化过程以及作物与环境 影响[D]．北京：中国科学院研究生院,2009 Dong W X. Effect of different tillage on gross N transformation,crop and environment[D]. Beijing: Graduate University of Chinese Academy of Sciences, 2009   \n[22]王莹．不同耕作措施对土壤微生物种群结构和多样性的影 响研究[D]．北京：中国科学院研究生院,2011 Wang Y. Study on the effects of different tillage on the structure and diversityof microbial population[D]. Beijing: Graduate University of Chinese Academy of Sciences,2011   \n[23]万运帆，李玉娥，高清竹，等．田间管理对华北平原冬小麦 产量土壤碳及温室气体排放的影响[J]．农业环境科学学报, 2009,28(12): 2495-2500 Wan Y F,Li Y E,Gao Q Z,et al.Field managements affect yield,soil carbon,and greenhouse gases emission of winter wheat in North China Plain[J]. Journal of Agro-Environment Science,2009,28(12): 2495-2500   \n[24] 张雪松，申双和，李俊，等．华北平原冬麦田土壤 $\\mathrm { C H } _ { 4 }$ 的吸 收特征研究[J]．南京气象学院学报,2006,29(2):181-188 Zhang X S,Shen $\\mathrm { ~ s ~ H ~ }$ ,Li J,et al. Soil $\\mathrm { C H } _ { 4 }$ uptake in winter wheat field in the North China Plain[J].Journal of Nanjing Institute of Meteorology,2006,29(2):181-188 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

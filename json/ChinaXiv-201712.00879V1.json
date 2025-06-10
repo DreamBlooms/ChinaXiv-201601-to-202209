@@ -1,0 +1,289 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "17-AAG联合紫杉醇对Eca-109食管癌细胞增殖的抑制作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈斯泽',陈雪梅²,李玉齐¹,杨 曙',莫贤毅},张 帆',莫凯岚',丁颖1  \n1广东药学院附属第一医院肿瘤科,广东广州 510080;南方医科大学热带医学与公共卫生学院,广东广州  \n510515",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的研究17-AAG联合紫杉醇(PTX)对食管癌细胞Eca-109增殖和凋亡的影响。方法予以PTX和17-AAG单独或联合使用作用于Eca-109细胞株，采用MTT法检测其细胞增殖的变化，应用流式细胞仪检测细胞周期、凋亡的变化。结果与对照组相比，单独使用17-AAG、PTX均能够抑制Eca-109细胞的增殖; $0 . 5 \\mu \\mathrm { m o l } / \\mathrm { L }$ PTX联合 $0 . 6 2 5 ~ \\mathrm { \\mu m o l / L }$ 17-AAG可抑制Eca-109的生长，且联合效应明显强于各自单药组 $( P { < } 0 . 0 1 \\$ );流式细胞仪检测结果显示：17-AAG将Eca-109细胞阻滞于 $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期,PTX将Eca-109 细胞阻滞于S期。17-AAG与PTX联合用药使Eca-109 细胞阻滞于 $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期和 $\\mathbf { S } _ { \\circ }$ 17-AAG组、PTX组及联合组作用Eca-109细胞株24h后其凋亡率分别为 $4 . 5 2 \\% , 1 0 . 9 1 \\% , 2 9 . 8 8 \\%$ ,显著高于对照组 $( 1 . 3 2 \\%$ );联合用药后，可形成明显凋亡峰，明显高于单药组。结论PTX和17-AAG均可抑制食管癌细胞增殖，诱导癌细胞凋亡，两者联合可增强上述作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：食管癌;17-AAG;紫杉醇；增殖；凋亡",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inhibitory effect of 17-AAG combined with paclitaxel on proliferation of esophageal squamous cell carcinoma Eca-109 cells in vitro ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Size',CHEN Xuemei²,LI Yiqi,YANG Shu’,MO Xianyi',ZHANGFan',MO Kailan',DING Ying’ DepartmentofcsfledHspitalofdgceticalsityaoua;bc Healthand TropicalMedicine,SouthernMedicalUniversity,Guangzhou51o515,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveTo investigate theefectof17-AAGcombinedwith paclitaxel (PTX)onthe proliferationandapoptosisof esophagealsquamouscellcarcinomacellineEca-109invitro.Methods Eca-09cells were treated with17-AGandPTX eithr alone orincombination.Theproliferationof Eca-109cellswasdetectedbyMTTassayand thecellcyclechangesandcel apoptosis were determined byflowcytometry.Results Compared withthecontrolgroup,both17-AAGandPTXsignificantly inhibited the proliferation of Eca-109 cells. A combined treatment of the cells with $0 . 5 \\ \\mathrm { \\mu m o l / L }$ PTX and $0 . 6 2 5 ~ \\mu \\mathrm { m o l / L }$ 17-AAG produced an obviously stronger inhibitory efect on the cell proliferation than either of the agents used alone $_ { ( P < 0 . 0 1 ) }$ . Flow cytometry showed that, 17-AAG and PTX used alone caused Eca-109 cell cycle arrest in $\\mathrm { ~ G _ { 2 } / M }$ phase and S phase, respectively, and their combined use caused cell cycle arrest in both $\\mathrm { ~ G _ { 2 } / M }$ and S phases. The cell apoptosis rates of Eca-109 cells treated with 17-AAG, PTX and their combination were $4 . 5 2 \\%$ ， $1 0 . 9 1 \\%$ ，and $2 9 . 8 8 \\%$ ， respectively, all significantly higher than that in the control group $( 1 . 3 2 \\% )$ ); the combined treatment resulted in a distinct apoptotic peak that was significantly higher than that caused by eitherof the agents alone. Conclusion 17-AAG and PTX can inhibit cell proliferationand promote apoptosis of Eca-109cels,andtheircombinationproduces strongerefects ininhbiting cellproliferationand increasingcellapoptosis. Key words: esophageal cancer; 17-AAG; paclitaxel; proliferation; apoptosis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国是世界上食管癌高发地区之一，每年平均病死约15万人。手术、放化疗是其主要治疗手段，但其死亡率高居癌症第4位，显示目前治疗手段的局限性，寻找食管癌新的有效治疗手段显得尤为重要[1-2]。分子靶向治疗是目前肿瘤治疗研究领域的热点，已在多种肿瘤治疗中取得了令人振奋的疗效[34]。热休克蛋白90(HSP90)是一类普遍存在于各种细胞的分子伴侣蛋白，在肿瘤细胞中，HSP90表达量为正常细胞的2\\~10倍，提示其与细胞的恶性转化关系密切，它的众多底物蛋白参与了肿瘤进展的所有关键环节，在整个癌症的发展过程中起到了隐藏和保护突变蛋白和缺陷蛋白的作用。HSP90已证明是多种肿瘤抗癌治疗的有效分子靶点。目前多种HSP90抑制剂如17AGG、17-DMAG等已证明在多种肿瘤治疗中有效,部分已进入Ⅲ期临床试验[5-9]Huang等[研究结果显示食管癌中HSP90的高表达与食管癌的恶性程度和预后密切相关。有研究显示，HSP90抑制剂17-AAG可对癌细胞的增殖起抑制作用，并促进其凋亡，同时也可和其他化疗药物如紫杉醇(PTX)等协同作用,抑制癌细胞的繁殖[11-12]。PTX为第三代化疗药物，是肺癌、食管癌、乳腺癌等多种实体瘤化学治疗的关键药物。在食管癌治疗中，紫杉醇常联合铂类或单独化疗疗效明显，但毒副反应较大且易复发和耐药；17-AGG抗肿瘤效果主要通过抑制肿瘤生长、协同凋亡、协同化疗药物增敏起作用[13-14],具有靶向性,对正常细胞的毒副反应小的特点。因此我们设想：17-AAG和PTX联合作用是否能够解决目前晚期食管癌化疗毒副反应大、易复发和耐药的缺点？探索高效低毒的新的联合化疗方案。为此，本研究拟通过细胞毒性实验、细胞周期和细胞凋亡检测，探讨联合17-AAG、PTX对食管癌细胞增殖、凋亡的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人ESCC细胞Eca-109株购自于中科院上海细胞库,17-AAG、胎牛血清、DMEM细胞培养基、MTT购自美国Sigma公司，细胞周期与细胞凋亡检测试剂盒检测试剂盒购于碧云天生物技术研究所。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1细胞培养与实验分组将从中科院上海细胞库购买的Eca-109人食管癌进行传代。接种于含 $10 \\%$ 胎牛血清 $\\ 、 1 0 0 \\mathrm { U / m L }$ 青链霉素的DEME细胞培养液中，置于$3 7 ^ { \\circ } \\mathrm { C }$ 恒温 $5 \\%$ $\\mathrm { C O } _ { 2 }$ 饱和湿度的培养箱中培养。每3\\~4d待细胞长满后用 $0 . 2 5 \\%$ 胰蛋白酶消化传代扩大培养。每1\\~2d换1次培养液。所有实验所用的细胞均是处于对数生长期的细胞。实验分组为(1)空白组：只加培养液；(2)对照组：只加培养液;(3)单药组：PTX浓度分别为 $4 . 2 , 1 , 0 . 5 \\ \\mathrm { \\mu m o l / L }$ ;17-AAG浓度分别为5、2.5、1.25、$0 . 6 2 5 . 0 . 3 1 2 \\mu \\mathrm { m o l / L } ;$ (4)联合组：PTX浓度为 $0 . 5 \\mu \\mathrm { m o l } / \\mathrm { L }$ 联合17-AAG浓度为 $0 . 6 2 5 ~ \\mathrm { \\mu m o l / L }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2四氮唑盐(MTT)法检测细胞增殖取处于对数生长期的细胞，经 $0 . 2 5 \\%$ 胰酶消化后，制成细胞悬液，并计数，最终密度为 $5 { \\times } 1 0 ^ { 4 } / \\mathrm { m L }$ 接种于96孔板上，每孔体积为$2 0 0 ~ \\mu \\mathrm { L }$ ，放置于 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 含 $5 \\%$ （202 $\\mathrm { C O } _ { 2 }$ 、饱和湿度培养箱中过夜后，分别按照2.1所述，进行加药处理 $2 4 \\mathrm { h }$ 后，每孔加入 $2 0 ~ \\mu \\mathrm { L } \\left. 5 ~ \\mathrm { g / L } \\right.$ MTT,继续培养 $^ { 4 \\mathrm { h } }$ 后，酶标仪测定吸光度值，测定波长为 $4 9 0 \\ \\mathrm { n m }$ 。酶标仪测定吸光度，计算细胞增殖抑制率。实验重复3次，取各结果平均值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "细胞增殖抑制率 $\\overset { \\cdot } { \\underset { \\cdot } { = } }$ （对照组A值-实验组A值)/对照 组A值 $\\mathrm { \\times 1 0 0 \\% }$ ○ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采取金正均法[15]判断联合用药协同作用。公式： $q =$ $( \\mathrm { E _ { a + b } } ) \\mathrm { E a } + ( 1 \\mathrm { - E _ { a } } ) / \\mathrm { E _ { b \\mathrm { o } } } \\left( \\mathrm { E _ { a + b } } \\right)$ ：联合用药抑制率； $\\mathrm { E _ { a } }$ 为PTX单药抑制率， $\\mathrm { E _ { b } }$ 为17-AAG的单药抑制率。 $\\mathrm { Q } { > } 0 . 8 5$ ：药物协同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3细胞周期和凋亡率检测细胞浓度同MTT法;6孔板每孔：加 $2 { \\mathrm { ~ m L } }$ 单细胞悬液， $2 4 \\mathrm { h }$ 贴壁后弃原液，加含药培养基，并设对照组。培养 $4 8 \\mathrm { ~ h ~ }$ 后，收集细胞，离心（ $1 0 0 0 \\mathrm { \\ r / m i n { \\times } 5 \\mathrm { \\ m i n } }$ )弃上清，用PBS洗涤3次，加 ${ 5 0 \\mu \\mathrm { L } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$0 . 5 ~ \\mathrm { m g / m L }$ 的RNA酶，在培养箱 $( 3 7 ~ \\mathrm { ^ { \\circ } C } \\mathrm { ~ } , 5 \\% \\mathrm { ~ C O } _ { 2 } )$ 孵育$0 . 5 \\mathrm { h }$ ，加 $1 0 0 \\mu \\mathrm { L }$ 碘化丙啶( $\\mathrm { \\nabla { \\langle 5 0 \\ \\mu g / m L } }$ ),微量振荡器上振荡混匀，避光染色 $0 . 5 \\ : \\mathrm { h } ( 4 \\ : \\mathrm { ^ { \\circ } C }$ 冰箱)。流式细胞仪检测，重复实验3次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3统计计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验结果用SPSS17.0软件处理，计量资料以均数 $\\cdot \\pm$ 标准差表示，采用 $\\mathbf { \\Phi } _ { t }$ 检验及One-wayANOVA检验，$P { < } 0 . 0 5$ 表示统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1不同浓度17-AAG对人食管癌细胞株Eca-109的抑制作用",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同浓度的17-AAG对Eca-109细胞作用后开始抑制其生长，且抑制效果明显高于对照组 $_ { ( P < 0 . 0 5 ) }$ 。不同时间组、不同浓度组间抑制率相比，差异具有显著性中 $\\scriptstyle \\phantom { + } ( P < 0 . 0 5$ ，表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/60e025fdea6500b51f77d78b075655229d1bcab6849075cd0c5db7ac98e8f7ad.jpg",
+        "table_caption": [
+            "表1不同时间、不同浓度17-AAG对Eca-109生长的抑制率Tab.1 Growth inhibition ratio of Eca-109 cells treated withdifferent concentrations of 17-AAG for different time lengths(Mean±SD,%)"
+        ],
+        "table_footnote": [
+            "$^ { \\mathrm { a } } P { < } 0 . 0 5$ vs control; $^ { \\mathrm { { b } } } P { < } 0 . 0 5$ vs different time in the same group. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Concentration(μmol/L)</td><td colspan=\"3\">Inhibition ratio</td></tr><tr><td>24 h</td><td>48 h</td><td>72 h</td></tr><tr><td>Control</td><td>0</td><td>0</td><td>0</td></tr><tr><td>0.3125</td><td>6.77±1.82</td><td>10.22±2.52</td><td>16.29±2.79</td></tr><tr><td>0.6250</td><td>9.48±2.82</td><td>13.42±3.02b</td><td>24.95±2.46</td></tr><tr><td>1.2500</td><td>18.16±2.62a</td><td>30.72±3.09b</td><td>39.38±3.62</td></tr><tr><td>2.5000</td><td>23.46±3.16a</td><td>35.19±3.39a</td><td>48.61±2.89b</td></tr><tr><td>5.000</td><td>33.56±2.92b</td><td>42.49±3.72</td><td>65.04±2.65a</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2不同浓度PTX对人食管癌细胞株Eca-109的抑制作用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同浓度PTX对Eca-109细胞作用后皆对其生长起抑制效应，且抑制效果明显高于对照组 $( P { < } 0 . 0 5 )$ 。不同时间组、不同浓度组间抑制率相比,差异具有显著性中 $\\scriptstyle \\phantom { + } P < 0 . 0 5$ ，表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.317-AAG联合PTX对人食管癌细胞株Eca-109的抑制作用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$0 . 5 \\ \\mathrm { \\mu m o l / L }$ PTX联合 $0 . 6 2 5 ~ { \\mu \\mathrm { m o l / L } } ~ 1 7 { \\cdot } \\mathrm { A A G }$ 均抑制Eca-109的生长， $2 4 , 4 8 \\mathrm { ~ h ~ }$ 抑制率分别为 $( 1 3 . 6 2 \\pm$ $2 . 4 6 ) \\%$ 和 $( 2 9 . 3 2 { \\pm } 1 . 0 9 ) \\%$ ,两者联合的效应明显强于单药组 $( P { < } 0 . 0 1 )$ ，且两者之间可起协同效应。2.417-AAG、PTX对ESCC细胞周期的影响",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结果显示,0.625mol/L17-AAG作用Eca-109细胞$2 4 \\mathrm { ~ h ~ }$ 后，能使 $\\mathbf { G } _ { 0 } / \\mathbf { G } _ { 1 }$ 期细胞减少， $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期细胞增加。PTX单药或联合也对细胞周期产生影响。与对照组相比，差异具有显著性( $_ { P < 0 . 0 5 }$ ，表3)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7bbb50f5753cf024eeef3455367794f3e9f27934f69fd65af9a82f5a19b65a09.jpg",
+        "table_caption": [
+            "表2不同时间、不同浓度PTX对Eca-109生长的抑制率Tab.2 Growth inhibition ratio of Eca-109 cells treated withdifferent concentrations of PTX for different time lengths(Mean±SD,%)"
+        ],
+        "table_footnote": [
+            "$^ { \\mathrm { a } } P { < } 0 . 0 5$ vs control; $^ { \\mathrm { { b } } } P { < } 0 . 0 5$ vs different time in the same group. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Concentration(μmol/L)</td><td colspan=\"3\">Inhibition ratio</td></tr><tr><td>24 h</td><td>48h</td><td>72 h</td></tr><tr><td>Control</td><td>0</td><td>0</td><td>0</td></tr><tr><td>0.5</td><td>4.32±0.52</td><td>5.96±3.32</td><td>15.76±2.75b</td></tr><tr><td>1.0</td><td>11.01±1.76b</td><td>17.39±3.62b</td><td>47.72±1.32a</td></tr><tr><td>2.0</td><td>14.12±1.62a</td><td>39.49±2.26</td><td>70.02±1.75</td></tr><tr><td>4.0</td><td>24.78±2.36</td><td>59.78±3.51b</td><td>89.16±3.75a</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.517-AAG、PTX对ESCC细胞凋亡的影响 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各组显示的细胞凋亡状况见图1。结果显示，17-AAG组、PTX组及联合组作用Eca-109细胞株 $2 4 \\mathrm { h }$ 后其凋亡率分别为 $4 . 5 2 \\% , 1 0 . 9 1 \\% , 2 9 . 8 8 \\%$ ,显著高于对照组 $( 1 . 3 2 \\% )$ );联合用药后，可形成明显调亡峰，明显高于单药组。各组细胞凋亡率差异显著( $\\scriptstyle { \\overbrace { P { < } 0 . 0 1 } }$ ，表3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e0b52cdd2e44aca20a8572a3a09738247f8920180a1cad278a9ed981ccc3fa08.jpg",
+        "table_caption": [
+            "表317-AAG、PTX和17-AAG联合PTX对Eca-109调亡率和细胞周期 的影响 Tab.3 Effect of 17-AAG,PTX and their combination on apoptosis rate and cell cycle distributionin Eca-1O9 cells $( M e a n { \\pm } S D , \\% )$ "
+        ],
+        "table_footnote": [
+            "$^ { \\mathrm { a } } P { < } 0 . 0 5$ vs control. "
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>Apoptosis rate</td><td>G/G</td><td>S</td><td>G/M</td></tr><tr><td>Control</td><td>1.31±0.35</td><td>72.09±2.69</td><td>12.89±1.04</td><td>9.92±0.82</td></tr><tr><td>17-AAG</td><td>4.51±1.94*</td><td>64.69±1.42</td><td>11.42±1.62</td><td>16.51±1.52</td></tr><tr><td>PTX</td><td>10.89±1.59a</td><td>40.52±2.59a</td><td>47.39±1.54</td><td>9.22±2.72a</td></tr><tr><td>17-AAG combined with PTX</td><td>29.86±2.29a</td><td>32.32±1.89</td><td>40.42±2.82</td><td>7.91±2.02a</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "17-AAG作为HSP90抑制剂，主要通过与ATP/ADP竞争性作用于HSP90,可引起包括丝氨酸激酶、酪氨酸激酶、类固醇激素受体和HER激酶家族等多种信号蛋白降解，最终导致细胞周期阻滞和凋亡，作用于人肺癌、乳腺癌和结肠癌等肿瘤细胞可观察到类似结果[16-17]。在此次实验中,不同浓度17-AAG对Eca-109细胞作用后显示抑制生长效应，且抑制效果明显高于对照组，不同时间组、不同浓度组间抑制率相比，差异具有显著性 $( P { < } 0 . 0 5 )$ ，提示17-AAG可抑制Eca-109细胞的生长，且其作用浓度越高，时间越长，抑制效应越显著。这和其他文献报道类似[16-17],提示17-AAG可能用于包括食管癌在内的多种恶性肿瘤中HSP90的靶向治疗，具有一定的应用前景。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PTX属有丝分裂中的微管抑制剂，PTX具有聚合和稳定细胞内微管的作用，致使快速分裂的肿瘤细胞在有丝分裂阶段被牢牢固定，使微管不再分开，可阻断细胞于细胞周期之 $\\mathbf { G } _ { 2 }$ 与M期，使癌细胞复制受阻断而死亡。表1结果显示，不同浓度PTX对Eca-109细胞作用后皆对其生长起抑制效应，且抑制效果明显好于对照组$( P { < } 0 . 0 5 )$ 。不同时间组、不同浓度组间抑制率相比，差异具有显著性 $( P { < } 0 . 0 5 )$ ，表明PTX可明显干扰ESCC细胞增殖，且抑制作用和浓度、时间正相关。考虑到为了减轻PTX的毒副反应，我们选择表1中PTX浓度最低的$0 . 5 \\mu \\mathrm { m o l } / \\mathrm { L }$ ,但与对照组相比较有显著意义，与17-AGG联合作用ESCC，进一步考察低剂量PTX联合17-AGG的抗癌效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "化疗具有剂量局限性，反复化疗导致耐药。绝大多  \n数化疗药物如PTX毒副作用较大，部分患者难以耐受  \n化疗的严重不良反应，严重影响患者生活质量。胡敏等  \n[21]发现PTX可通过调控BubR1的表达提高其敏感性,  \n增强其抗癌作用。提示可能通过联合其他药物通过调  \n节食管癌细胞的其他通路提高PTX抑制食管癌细胞敏  \n感性。文献报道17-AGG可通过调控某些信号通路或蛋白增强顺铂抗癌敏感性[20]。Nquyen等[12]研究发现17-AAG能够加强PTX对肺癌细胞的抗肿瘤作用。研究显示，17-AAG除本身可抑制癌细胞生长外,还能增加E-钙黏蛋白的表达，抑制基质金属蛋白酶9和VEGF，减少肿瘤细胞血管发生和转移的能力，可联合其他药物共同起作用，同时还可减少化疗带来的毒副作用,提高治疗安全性[13-14]。因此，我们设想17-AAG和PTX联合使用是否能够更有效地抑制ESCC细胞的生长并通过实验验证。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PTX、17-AAG都是通过影响细胞周期对肿瘤细胞起作用，但两者所作用细胞周期不同。从",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本实验结果可见：17-AAG单独诱导食管癌细胞的凋亡率为 $4 . 5 2 \\%$ ,PTX单独作用的调亡率为 $10 . 9 1 \\%$ ，将两者联合作用于ESCC细胞株后，癌细胞凋亡率则高达 $2 9 . 8 8 \\%$ ,明显高于两者单独作用的结果。结果提示17-AAG将癌细胞阻滞于S期，PTX将肿瘤细胞株阻滞于 $\\mathbf { G } _ { 2 } / \\mathbf { M }$ ；17-AAG与PTX联合用药使癌细胞既阻滞于$\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期又阻滞于S期。表明PTX、17-AAG皆可诱导癌细胞凋亡，而联合作用效果更显著，具有协同效应。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，PTX作为食管癌治疗的常用药物之一，在临床上疗效明显，但无论单药或多药联合均存在化疗瓶颈，亟需突破。实验证明17-AAG联合PTX具有协同抑制ESCC细胞增殖、诱导癌细胞凋亡的作用。另一方面，当非小细胞肺癌分子靶向治疗已成为其临床治疗主要手段且疗效显著，食管癌在分子靶向治疗方面未见明显突破。本研究提示17-AAG有可能在食管癌的靶向治疗领域占领一席之地，需进一步探讨17-AAG和PTX具体作用机制，探讨17-AAG与PTX多药联合作用效果，并可考虑进一步动物实验验证。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/56c9f10225cd64d3096ddd20723df6761646c6d1545a630884a0b90a09376f4e.jpg",
+        "img_caption": [
+            "图117-AAG、PTX和17-AAG联合PTX对人食管癌细胞株Eca-109细胞凋亡的影响 Fig.1 Effect of 17-AAG,PTX and their combination on apoptosis in Eca-109 cells.A: Control; I $\\Rsh 0 . 5 \\ \\mu \\mathrm { m o l / L }$ PTX; C: $0 . 6 2 5 ~ \\mu \\mathrm { m o l / L }$ 17-AAG; D: $0 . 5 \\mu \\mathrm { m o l / L }$ PTX combined with $0 . 6 2 5 \\mu \\mathrm { m o l / L }$ 17-AAG. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Hu M,Liu Q,Song P,et al.Abnormal expression of the mitotic checkpoint protein BubR1 contributes to the anti-microtubule drug resistance of esophageal squamous cell carcinoma cells[J].Oncol Rep,2013,29(1):185-92.   \n[2]Huang J, Zhou Y, Zhang H,et al.A phase II study of biweekly paclitaxel and cisplatin chemotherapy for recurrent or metastatic esophageal squamous cell carcinoma: ERCC1 expression predicts response to chemotherapy[J].Med Oncol,2013,30(1):343.   \n[3]Saif MW,Erlichman C,Dragovich T,et al.Open-label, dose-escalation,safety，pharmacokinetic,and pharmacodynamic study ofintravenouslyadministeredCNF1010 (17- (allylamino） -17-demethoxygeldanamycin ［17-AAG]）in patients with solid tumors[J].Cancer Chemother Pharmacol, 2O13,71(5): 1345-55.   \n[4]Giubellino A,Sourbier C,Lee MJ,et al. Targeting heat shock protein 9O for the treatment of malignant pheochromocytoma[J]. PLoS One,2013,8(2): e56083.   \n[5]Liu KS, Zhang Y,Ding WC,et al. The selective Hsp9O inhibitor BJ-B11 exhibits potent antitumor activity via induction of cell cycle arrest,apoptosis and autophagy in Eca-lO9 human esophageal squamous carcinoma cells[J]. Int J Oncol, 2012,41(6): 2276-84.   \n[6]Li X,Luo R,Jiang R,et al. The role of the Hsp9O/Akt pathway in myocardial calpain-induced caspase-3 activation and apoptosis during sepsis[J].BMC Cardiovasc Disord,2013,13: 8.   \n[7]Lu C,Liu D,Jin J,et al. Inhibition of gastric tumor growth by a novel Hsp90 inhibitor[J].Biochem Pharmacol,2013，85(9): 1246-56.   \n[8]Van Der Kraan AG,Chai RC,Singh PP,et al.HSP9O inhibitors enhance differentiation and MITF(microphthalmia transcription factor）activity in osteoclast progenitors[J].Biochem J,2013,451 (2): 235-44.   \n[9]GaoY,Li W,JiaL， etal.Enhancement of (-)-epigallocatechin-3-gallate and theaflavin-3-3'-digallate induced apoptosis by ascorbic acid in human lung adenocarcinoma SPC-A-1 cells and esophageal carcinoma Eca-1O9 cells via MAPK pathways[J].Biochem Biophys Res Commun,2013,438(2): 370-4.   \n[10] Huang T,Chen S, Han H,et al. Expression of $\\mathrm { H s p 9 0 a }$ and cyclin B1 were related to prognosis of esophageal squamous cell carcinoma and keratin pearl formation[J].Int J Clin Exp Pathol, 2014, 7(4): 1544-52.   \n[11] Belkacemi L, Hebb MO. HSP27 knockdown produces synergistic induction of apoptosis by HSP9O and kinase inhibitorsin glioblastoma multiforme[J].Anticancer Res,2014,34(9): 4915-27.   \n[12]Nguyen DM,Lorang D,Chen GA,et al. Enhancement of paclitaxelmediated cytotoxicity in lung cancer cells by 17-allylamino geldanamycin: in vitro and in vivo analysis[J]. Ann Thorac Surg, 2001,72(2): 371-8;discussion 378-9.   \n[13]Mahalingam D,Swords R,Carew JS,et al.Targeting HSP90 for cancer therapy[J].Br JCancer,2009,100(10):1523-9.   \n[14] Sawai A,Chandarlapaty S,Greulich H,et al. Inhibition of Hsp90 down-regulates mutant epidermal growth factor receptor (EGFR) expression and sensitizes EGFR mutant tumors to paclitaxel [J]. Cancer Res,2008,68(2): 589-96.   \n[15]赵德安,高 菁,杜 语.依维莫斯联合顺铂对喉癌细胞Hep-2的作用及 机制研究[J].福建医药杂志,2012,34(2):55-7.   \n[16] Zagouri F, Sergentanis TN,Chrysikos D,et al.Hsp9O inhibitors in breast cancer: a systematic review[J].Breast,2013,22(5): 569-78.   \n[17]Saturno G, Valenti M, De Haven Brandon A,et al. Combining trail with PI3 kinase or HSP9O inhibitorsenhancesapoptosisin colorectal cancer cells via suppression of survival signaling [J]. Oncotarget,2013,4(8): 1185-98.   \n[18]夏 宇,李秀娟,张志强,等.食管癌细胞株高侵袭力亚系的建立及其生 物学特性研究[J].中华肿瘤防治杂志,2012,19(1):6-9.   \n[19]Hsu FM,Lin CC,Lee JM,et al.Improved local control by surgery and paclitaxel-based chemoradiation for esophageal squamous cell carcinoma: results of a retrospective non-randomized study [J].J Surg Oncol,2008,98(1): 34-41.   \n[20]陈美霓,郭 巍,许静洪,等.17-AAG联合顺铂对人胃癌SGC-7901细 胞株增殖和调亡作用的影响[J].昆明医科大学学报,2013,34(5): 54-7, 64.   \n[21]胡 敏,宋培培,湛晓琴,等.C-myc通过调控BubR1影响食管鳞癌细 胞对紫杉醇的敏感性[J].中国生物工程杂志,2013,33(4):22-7. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(编辑：黄开颜）",
+        "page_idx": 3
+    }
+]

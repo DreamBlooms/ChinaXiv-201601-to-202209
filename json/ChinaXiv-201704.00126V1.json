@@ -1,0 +1,361 @@
+[
+    {
+        "type": "text",
+        "text": "Ni(OH)/RGO复合材料的化学沉淀-回流法制备和放电性能",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "于慧颖」 赫文秀」张永强」 安胜利1 刘君红2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1内蒙古科技大学化学与化工学院包头014010  \n2包头职业技术学院包头014010",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要以氧化石墨(GO)和 $\\mathrm { N i S O _ { 4 } { \\cdot } 6 H _ { 2 } O }$ 为前驱体，氨水为沉淀剂，用化学沉淀-回流法制备 $\\mathrm { { N i } ( O H ) _ { 2 } / }$ 还原氧化石墨烯(RGO)复合材料，用XRD、SEM表征材料的结构和表面微观形貌，用循环伏安(CV)、恒电流充放电和电化学阻抗(EIS)测试电极材料的电化学性能，研究了 $\\mathrm { { G O } { : N i } ( O H ) _ { 2 } }$ 质量比和氨水浓度对复合材料结构、形貌和电化学性能的影响。结果表明：所制备的 $\\beta { \\mathrm { - N i } } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { R G O }$ 复合材料为 $\\mathrm { { N i ( O H ) _ { 2 } } }$ 纳米片与RGO片相互插层的结构，当氨水的浓度为 $3 \\mathrm { \\ m o l / L } , \\mathrm { G O : N i ( O H ) _ { 2 } = 1 : 8 } ( \\$ (质量比)时复合电极材料在0.2C的放电比容量高达 $3 3 4 . 9 \\mathrm { m A h / g }$ ，5C的放电比容量为 $2 6 0 . 2 \\mathrm { m A h / g }$ ，保持在 ${ \\mathcal { \\beta } } { \\mathrm { - N i ( O H ) } } _ { 2 }$ 理论比容量的 $9 0 \\%$ ，表现出良好的倍率性能和循环性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 复合材料，化学沉淀-回流法， $\\beta \\mathrm { - N i ( O H ) } _ { 2 }$ ，还原氧化石墨烯，电化学性能中图分类号 TQ150.7 文章编号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1005-3093(2017)03-0226-07 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chemical Precipitation-reflux Synthesis and Discharge Performance of Composite of Nickel Hydroxide /Reduced Graphene Oxide ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YU Huiying',HE Wenxiu', ZHANG Yongqiang',AN Shengli',LIU Junhong² 1 SchoolofChemistry and Chemistry Engineering,Inner Mongolia University of Science& Technology, Baotou 014010, China 2Baotou Professional Technology College,Baotou Ol4olo, China   \nCorrespondent:HE Wenxiu,Tel: (0472)5953323,E-mail: nmghwx@ sina.com   \nSupported bythe Natural Science Foundation of Inner Mongolia(Nos.2014MS0523&2O15MS0208),Institutions of Higher Learning Youth Science & Technology Talents Planning-Youth Science & Technology Talents of Inner Mongolia Autonomous Region A Class Project (No.NJYT-14-A08)and Science & Technology Plan Project of Baotou (No.2015C2004-1) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Manuscript received 2016-06-12,in revised form 2016-10-18 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT Composite of nickel hydroxide/reduced graphene oxide $( N i ( O H ) _ { 2 } / R G O )$ was synthesized by facile chemical precipitation-reflux method with graphite oxide and nickel sulfate hexahydrate as precursors and ammonium hydroxide as the precipitator.The surface morphology and microscopic structures of the composite were characterized by $x -$ ray diffraction (XRD） and scan electron microscopy (SEM).The electrochemical performance of the composite was assessed by cyclic voltammetry (CV),galvanostatic charge/discharge and electrochemical impedance spectroscopy (EIS).The influence of diferent mass ratio of graphite oxide to nickel hydroxide $( \\mathsf { G O } ; \\mathsf { N i } ( \\mathsf { O H } ) _ { 2 } )$ and the concentration of ammonium hydroxide on structures,morphologies,and electrochemical properties of the composite was investigated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The results show that the synthesized composite of $\\beta { \\cdot } \\mathsf { N i } ( \\mathsf { O H } ) _ { 2 } / \\mathsf { R G O }$ has mutually inserted structure.The composite of $\\beta { \\cdot } \\mathsf { N i } ( \\mathsf { O H } ) _ { 2 } / \\mathsf { R G O }$ exhibits high electrochemical performance of $3 3 4 . 9 \\ \\mathsf { m A h / g }$ at 0.2C rate and $2 6 0 . 2 \\ : \\mathsf { m A h } / \\mathsf { g }$ at 5C rate when the concentration of ammonium hydroxide is $3 \\mathrm { m o l / L }$ and the mass ratio of $G O : N i ( O H ) _ { 2 }$ is 1:8,while the product can still maintain $90 \\%$ of the theoretical specific capacity of $B - N i ( O H ) _ { 2 }$ It displays that this electrode material has excellent electrochemical performance with excellent rate capability. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KEY WORDS composite，chemical precipitation- reflux method, $\\beta \\mathrm { - } \\mathsf { N i } ( \\mathsf { O H } ) _ { 2 }$ ，reduced graphene oxide, electrochemical performance ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电动汽车用锂离子电池暴露出许多弊端，其他新型电池也有各自的不足。镍氢电池(Ni/MH)具有绿色环保、安全性高、价格低廉、放电容量高等特性，广泛应用于纯电动汽车、混合电动汽车和便携式电子设备。具有优异电化学性能的氢氧化镍 $\\mathrm { ( N i ( O H ) } _ { 2 } )$ 可用作Ni/MH电池的正极活性物质，但是其导电性能较差需加入导电剂或添加剂[12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "石墨烯(Graphene)是一种新型二维碳纳米材料，其结构中的大#键在垂直于石墨烯片层形成互相平行的π轨道。当这种类似自由电子的离域π电子在碳网平面内自由流动时，石墨烯面具有类似于金属的导电性和导热性。在常温下石墨烯的电子迁移率比纳米碳管或硅晶体的高，而电阻率却比铜或银的低。同时，石墨烯特殊的二维结构使其理论比表面积高达 $2 6 3 0 \\mathrm { m } ^ { 2 } / \\mathrm { g } ^ { [ 3 ] }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用纳米 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 作电极材料的电池，其容量可提高 $20 \\%$ 左右。但是 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 纳米粒子容易团聚，导电性差，在充放电过程中体积的膨胀使其倍率性能和循环稳定性降低[4-8]。将 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 与石墨烯复合，是解决问题的途径之一[9.10]。将石墨烯片作为基底或骨架，可提高 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 的电化学活性。Xie等用水热法制备了 $\\beta { \\mathrm { - N i } } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { R G O }$ 复合电极材料，其独特的逐层结构结合了二者的优点，2000次充放电循环后比电容仍为 $6 6 0 . 8 \\ : \\mathrm { F / c m }$ 。黄振楠等[2用共沉淀方法使六边形片状的 $\\beta \\mathrm { - N i ( O H ) } _ { 2 }$ 插入RGO的层间，抑制了 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 和RGO的团聚。Fang等[13]用沉淀法制备出纳米级 ${ \\beta } \\mathrm { { \\mathrm { { - } } { N i } ( O H ) } } _ { 2 }$ 和石墨烯的复合材料，作为超级电容器的电极材料显示了较大的比电容和优良的循环稳定性。 $\\mathrm { F u }$ 等[4采用改进的水热法制备 $\\beta \\mathrm { - N i ( O H ) _ { 2 } }$ 和RGO纳米片复合材料，电流密度为 $2 . 5 \\mathrm { A } / \\mathrm { g }$ 时的比电容高达 $1 7 4 0 . 5 6 \\mathrm { F / g }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用氧化还原法制备石墨烯，先用Hummers法制备氧化石墨，用超声剥离形成氧化石墨烯，然后加入还原剂进行还原。常用的还原剂有水合肿、 $\\mathrm { N a B H _ { 4 } }$ 以及强碱超声还原等。但是 $\\mathrm { N a B H _ { 4 } }$ 的价格比较昂贵且容易残留B元素，而水合肼有毒。本文用操作简单且较环保的化学沉淀-回流法合成 $\\beta { \\mathrm { - N i } } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { R G O }$ 复合材料，将 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 纳米片插层到RGO层间形成相互插层的结构，研究 $\\mathrm { { G O } { : N i } ( O H ) _ { 2 } }$ 质量比和氨水浓度对复合材料结构、形貌和电化学性能的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1实验用材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "石墨粉 $( 4 5 \\ \\mu \\mathrm { m } )$ ，浓硫酸(纯度 ${ > } 9 8 \\%$ ，高锰酸钾$\\mathrm { \\ K M n O _ { 4 } }$ ，分析纯AR)，硝酸钠 $\\left( \\mathrm { N a N O } _ { 3 } \\right.$ ，分析纯AR),双氧水 $\\mathrm { ( H } _ { 2 } O _ { 2 }$ ，质量分数 $3 0 \\%$ )，去离子水(自制)，硫酸镍 $( \\mathrm { N i S O _ { 4 } { \\cdot } 6 H _ { 2 } O }$ ，分析纯AR)，氨水 $\\mathrm { ( N H _ { 3 } \\cdot H _ { 2 } O }$ ，质量分数 $2 5 . 0 \\% { \\sim } 2 8 . 0 \\% )$ ，氢氧化钾(KOH，分析纯AR)，聚四氟乙烯乳液(PTFE，质量分数 $6 0 \\%$ ，乙炔黑和泡沫镍(泡沫镍规格：厚度 $1 \\mathrm { m m }$ ，面密度 $3 2 0 ~ \\mathrm { g / c m } ^ { 2 }$ ，孔隙率为 $9 5 \\%$ ）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { 1 . 2 N i ( O H ) _ { 2 } / R G O }$ 复合材料的制备",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用改进的Hummers法[15.i制备氧化石墨(GO)。将 $0 . 1 5 \\mathrm { g } \\mathrm { G O }$ 溶于 $1 5 0 \\mathrm { m L }$ 去离子水中，搅拌 $^ { \\textrm { 1 h } }$ 并超声 $^ { 2 \\mathrm { h } }$ ;将适量的硫酸镍溶于去离子水中，滴加适量的氨水使溶液变为深蓝色，然后将其滴加到GO悬浮液中，在 $4 0 ^ { \\circ } \\mathrm { C }$ 回流搅拌 $3 \\mathrm { ~ h ~ }$ 后再滴加适量氨水调节pH值为10.5，升温 $8 0 ^ { \\circ } \\mathrm { C }$ 回流搅拌 $6 \\mathrm { n }$ ，静置过滤后用去离子水和无水乙醇反复洗涤数次，然后在$8 0 ^ { \\circ } \\mathrm { C }$ 真空干燥 $^ { 1 2 \\mathrm { ~ h ~ } }$ ，得到 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 复合材料。为了对比，在没有GO的情况下按照上述方法制备纯 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了方便阐述，将 $\\mathrm { G O } { : } \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } { = } 1 { : } 8 \\$ (质量比)，氨水浓度为 $3 \\mathrm { m o l / L }$ 和 $5 \\mathrm { m o l / L }$ 分别记为GN8(3M)，GN8(5M)，同理当 $\\mathrm { G O } { : } \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } { = } 1 { : } 1 0$ ，氨水浓度为 $3 \\mathrm { m o l / L }$ 记为GN10(3M)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3材料的表征和性能测试",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用D8ADVANCE型粉末X射线衍射(XRD)仪分析样品的结构， $\\operatorname { C u } K \\alpha$ 靶 $\\scriptstyle \\lambda = 0 . 1 5 4 1 8 \\ \\mathrm { n m } )$ ，工作电流为 $3 0 0 ~ \\mathrm { { m A } }$ ,工作电压为 $4 0  { \\mathrm { \\ k V } }$ ，扫描范围为 $1 0 ^ { \\circ } \\sim$ $8 0 ^ { \\circ }$ ，扫描速率为 $4 ^ { \\circ } / \\mathrm { m i n }$ 。用S-3400N扫描电子显微镜观察材料的表面形貌，加速电压 $2 0 \\mathrm { k V }$ ，背散射电子成像。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将所制备的 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 复合材料、乙炔黑和聚四氟乙烯乳液按85:10:5的质量比在玛瑙研钵中充分混合，再用无水乙醇作为分散剂混合均匀并调成糊状，均匀地涂抹在 $1 0 \\ \\mathrm { m m } \\times 1 0 \\ \\mathrm { m m }$ 的泡沫镍片上，于 $6 0 ^ { \\circ } \\mathrm { C }$ 真空干燥 $^ { 3 \\mathrm { ~ h ~ } }$ 后在 $1 0 \\mathrm { { M P a } }$ 下压成薄片作为工作电极。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用CHI760E型电化学工作站进行循环伏安(CV)和电化学阻抗(EIS)测试。使用CT2001A型电池测试系统对材料进行恒流充放电测试。电化学测试在三电极系统中进行，其中，辅助电极为铂片电极，参比电极为饱和甘汞电极，电解液为 $6 \\ \\mathrm { m o l / L }$ KOH溶液。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果和讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 XRD分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1给出了 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 复合材料的XRD图谱，由图1可以看出，三种复合材料GN8(5M)、GN10(3M)和GN8(3M)在 $2 \\theta \\mathrm { = } 1 9 . 5 ^ { \\circ } ( 0 0 1 ) , 3 3 . 1 ^ { \\circ } ( 1 0 0 ) , 3 8 . 5 ^ { \\circ }$ (101) $5 2 . 0 ^ { \\circ } ( 1 0 2 ) . 5 9 . 1 ^ { \\circ } ( 1 1 0 )$ 及 $6 2 . 8 ^ { \\circ } ( 1 1 1 )$ 时出现较强的衍射峰，与图中 $\\beta \\mathrm { - N i ( O H ) _ { 2 } }$ 的标准图谱(JCPDS-14-0117)一致。这表明，在石墨烯片层上形成的是 $\\beta \\mathrm { \\hbar }$ $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 。在图中没有观察到RGO在 $2 6 ^ { \\circ }$ 附近的特征衍射峰，可能因此衍射峰强度较弱而被 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 的衍射峰掩盖。复合材料GN8(3M)与GN10(3M)的衍射峰基本相同，说明复合材料中 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 含量的多少没有明显影响 $\\beta \\mathrm { - N i ( O H ) _ { 2 } }$ 的结构规整度。与复合材料GN8(3M)的衍射峰相比，GN8(5M)衍射峰的强度高，结晶性要好。复合材料GN8(3M)的衍射峰半峰宽略大于GN10(3M)和GN8(5M)，这是由于晶体中堆垛层错的存在增加了晶格缺陷。这可能对电极材料的电化学性能有较大的贡献[17-20]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(00) 0 （01 'ne/ileaia jUle GN10(3M) 人 八 人人 G N8(5M) β-Ni(OH)2 山 10 20 30 40 50 60 70 80 20/( ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 SEM分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2a\\~d分别给出了 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 、 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 复合材料GN8(5M)、GN10(3M)和GN8(3M)的FE-SEM图。从图2a可以看出，纯 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 为厚度为数纳米的片状结构，纳米片互相交织在一起。在图2b\\~d中都能看到卷曲和褶皱的石墨烯纳米片， $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 纳米片在石墨烯片层上生长，形成了 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 薄片层结构。在图2d的GN8(3M)复合材料中，通过加入适量氨水改变pH值控制片层间的静电斥力，大量片状 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 附着在石墨烯片上，并且分散均匀，形成了互相插层的结构。随着氨水浓度由 $3 \\mathrm { m o l / L }$ 增加到 $5 \\mathrm { m o l / L }$ ，可见 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 彼此堆叠和团聚，形成了图2b的中间比较致密的结构。其原因是，沉淀剂的浓度过大使生成的 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 易成胶状，很难沉淀，容易发生团聚。当 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 复合材料中Ni$( \\mathrm { O H } ) _ { 2 }$ 的比例增大时大量的片状 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 覆盖在石墨烯的表面，没有形成均匀的插层结构。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3循环伏安(CV)特性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3a给出了 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 、GN8(5M)、GN10(3M)及GN8(3M)电极材料在扫描速率为 $5 \\mathrm { m V / s }$ 时的循环伏安曲线，由图3a可见，每条曲线分别有一对明显的氧化峰和还原峰。阳极峰(正电流)电压发生在$0 . 4 7 \\mathrm { V }$ 附近，表现为 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 氧化为NiOOH的过程，而阴极峰(负电流)电压发生在 $0 . 2 2 { \\mathrm { ~ V ~ } }$ 附近，表现为NiOOH还原为 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 的过程[2。其反应的电化学反应式为[22]",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N i ( O H ) } _ { 2 } + \\mathrm { O H } ^ { - }  \\mathrm { N i O O H } + \\mathrm { H } _ { 2 } \\mathrm { O } + \\mathrm { e } ^ { - }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "复合电极材料GN8(3M)氧化峰电位最小，说明其析氧电位较高，电极的充电效率较高。氧化峰电流最高，表明GN8(3M)电极材料的电化学性能得到改善，特别是具有较好的倍率性能。氧化峰与还原峰电位差 $\\Delta E$ 可以用来评价电极反应的可逆性，图中GN8(3M)电极材料的 $\\Delta E$ 值最小为 $0 . 2 8 { \\mathrm { ~ V ~ } }$ ,具有最好的电化学反应可逆性。因为 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 和RGO共同的贡献使电子转移和电解液离子的迁移更容易，从而使电极材料具有更高的电化学活性。图3b给出了GN8(3M)电极材料在扫描速率分别为 $2 \\mathrm { m V / s } . 5 \\mathrm { m V / s } ,$ （204号$1 0 \\mathrm { m V / s } . 2 0 \\mathrm { m V / s }$ 和 $5 0 ~ \\mathrm { m V / s }$ 下的CV曲线，扫描电压范围为 $0 { \\sim } 0 . 7 \\mathrm { ~ V ~ }$ 。由图可见，扫描速率增加，电极极化严重，氧化峰向正方向移动，还原峰向负方向移动，氧化峰与还原峰的电位差 $\\Delta E$ 和峰电流值增大，增大了电极电化学反应的不可逆性。随着扫描速率从 $2 ~ \\mathrm { m V / s }$ 到 $5 0 ~ \\mathrm { m V / s }$ 的增加，GN8(3M)电极材料的比容量随之下降。这主要是电极材料的内部电阻增加造成的。在低扫描速率时电极材料内部和外部的活性物质参与了氧化还原反应，而在高扫描速率时能参加离子传输的仅仅是电极材料的表面活性物质。因此，当扫描速率增大时电解质离子和电极之间的有效作用下降，影响了电极材料的可逆性。特别是 $5 0 \\mathrm { m V / s }$ 时氧化峰不明显，表明电极材料的氧化峰与吸氧峰重叠， $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 在氧化成NiOOH时伴随着析氧反应，导致充电早期充电效率下降。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0832ea989282868ae89b37a67c52c0bf8c0e47bdf0b5feb7a458cc8e55eabd6f.jpg",
+        "img_caption": [
+            "图 $2 \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 }$ 、GN8(5M)、GN10(3M)和GN8(3M)复合材料的FE-SEM图ig.2FE-SEM images of pure $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ (a),GN8(5M) (b),GN10(3M) (c) and GN8(3M) (d) composite"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b409ffb4dcaff7c4371574d83138a143aec6085ec41106ca0b1fa97de22e3ce.jpg",
+        "img_caption": [
+            "图 $3 \\mathrm { N i ( O H ) } _ { 2 }$ 、GN8(5M)、GN10(3M)和GN8(3M)电极材料在不同扫描速率下的CV曲线 Fig.3 CV curves of pure $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ ,GN8(5M),GN10(3M) and GN8(3M) electrode materials at the scan rate of $5 \\mathrm { m V / s }$ (a) and CV curves of GN8(3M) electrode material at various scan rates (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4恒流充放电性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4给出了 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 及 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 电极材料在0.2C时的充放电曲线。由图4可见，复合电极材料的充电曲线对应两个平台，电极充电电位曲线基本一致， $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 电极的充电电位平台高且析氧电位提前，充电效率偏低，说明复合材料中引入石墨烯可以较显著地减缓充电电位的提升而抑制析氧副反应的发生。从放电曲线可以看出， $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 电极对应的放电电位平台变短，复合电极材料具有较长和较平坦的放电平台，GN8(3M)电极的放电平台最长，放电比容量达到了 $3 3 4 . 9 \\mathrm { m A h / g }$ 。其原因是，复合材料中的 $\\beta \\mathrm { - N i ( O H ) _ { 2 } }$ 负载在石墨烯片层上，抑制了 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 和RGO片层的团聚。二者的协同作用使复合材料的放电比容量明显优于纯 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 。与雷浩等[23]以共沉积法合成的混合相 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ （204号 $( 0 . 2 \\mathrm { C } , 3 3 0 \\mathrm { m A h / g } )$ 和杨祎等[24]制备的石墨烯掺杂 $\\mathrm { N i ( O H ) _ { 2 } ( 0 . 2 C , 3 2 6 . 8 \\ m A h / g ) }$ 相比，放电比容量有明显的提高。这说明,GN8(3M)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "复合材料的合成提高了材料整体的放电比容量，RGO纳米片和 ${ \\beta } \\mathrm { { - N i } ( O H ) _ { 2 } }$ 纳米片相互插层的特殊结构在快速充放电中有利于电解液离子的扩散以及增加活性物质和电解液的接触面积，从而提高了复合材料的电化学性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5给出了 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 和 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 电极材料在 $0 . 2 \\mathrm { C } \\cdot 0 . 5 \\mathrm { C } \\cdot 1 \\mathrm { C } \\cdot 2 \\mathrm { C }$ 和5C倍率下的放电比容量曲线。从图5可以明显看出，随着充电倍率的增加4种材料的放电比容量明显的降低。其原因是，当倍率增大时氧化还原反应只能在电极的表面进行，活性物质的利用率大大降低，导致氧化还原反应进行得越来越不彻底，使比容量越来越小。在4种电极材料中，GN8(3M)在0.2C时放电比容量为 $3 3 4 . 9 \\ \\mathrm { m A h / g }$ 在5C时放电比容量为 $2 6 0 . 2 \\ \\mathrm { m A h / g }$ ，大约下降了$2 2 \\%$ ，与 $\\mathrm { N i ( O H ) _ { 2 } \\cdot G N 8 ( 5 M ) }$ 和GN10(3M)电极材料相比具有良好的容量保持率。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d43cca7c4a5714c6a5dd82ac6ebb5ea779f691fc3a675785d216771c972650cd.jpg",
+        "img_caption": [
+            "图4 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 和 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 电极材料在0.2C倍率下的充放电曲线Fig.4 Charge/discharge curves of pure $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ and$\\mathrm { N i ( O H ) _ { 2 } / R G O }$ electrode materials at the rateof 0.2C"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca706192a05fcf3ba1a237eae8c2fd3d7610aa72c8dfd59bc0d0887e1b8e7cfe.jpg",
+        "img_caption": [
+            "图5 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 和 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 电极材料在不同倍率下的放电比容量曲线Fig.5 Discharge specific capacities curves of pure $\\mathrm { N i ( O H ) _ { 2 } }$ and $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ electrode materials at variousrates"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5循环稳定性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6给出了 $\\mathrm { N i ( O H ) } _ { 2 }$ 和 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 电极材料在不同倍率下的循环稳定性曲线。由于电极的活化过程，活性位的增加使束缚的粒子扩散。可以看出4种电极均存在活化过程，初始阶段的放电比容量在逐渐上升，经过大约9个循环后材料的性能趋于稳定。随着放电倍率的增大，氢氧化镍电极的放电容量下降明显。因为复合电极材料中的石墨烯不仅是高导电剂，而且是弹性支撑材料，石墨烯的高比表面积能适应电极材料在充放电过程中的体积变化。GN8(3M)电极材料在大电流充放电条件下的循环稳定性最好，因为 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 纳米片与RGO片层表面紧密接触，有效阻止 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 的团聚和RGO片层的重叠，增加了液固接触的有效面积，使活性物质 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 的利用率提高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6电化学阻抗 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7给出了 $\\mathrm { N i ( O H ) } _ { 2 }$ 和 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 电极材料在相同频率范围内 $( 0 . 0 1 { \\sim } 1 0 0 0 0 0 \\mathrm { H z } )$ 的电化学阻抗曲线，每一条曲线都由高频区的半圆弧和低频区的斜线组成。高频区的曲线与实轴的交点为溶液电阻，半圆直径对应于电子传输过程，其直径大小反应电荷转移电阻的大小。低频区的直线段与固相质子扩散有关，斜率越大，质子扩散性能越好。采用等效电路模型[25对阻抗数据进行分析。在图7给出的等效电路图中， $R _ { \\mathrm { s } } ( \\Omega )$ 代表溶液电阻， $C _ { \\mathrm { d l } } ( \\mathrm { F } )$ 代表界面电容， $R _ { \\mathrm { c t } } ( \\Omega )$ 代表电荷转移电阻， $Z _ { \\mathrm { w } } ( \\Omega )$ 代表War-burg阻抗，即直线段部分。由图7高频区的放大图得到 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 、GN8(5M)、GN10(3M)和GN8(3M)电极材料在高频区起始点与实轴交点 $R _ { \\mathrm { s } }$ 的值分别为$0 . 4 3 0 , 0 . 5 1 5 , 0 . 4 2 3$ 和 $0 . 4 0 9 \\Omega$ ,GN8(5M)电极材料的$R _ { \\mathrm { s } }$ 值最大。因为当氨水浓度增大时OH离子饱和，高倍率充放电时活性物质 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 电极部分表面未被利用，阻碍了电荷转移过程。在电极反应中，电荷传递电阻增大，质子脱嵌比较困难，降低了电极材料的电化学性能。GN8(3M)电极材料的 $R _ { \\mathrm { s } }$ 值最小，即溶液电阻最小。从放大图可见，GN8(3M)电极材料的半圆直径最小, $R _ { \\mathrm { c t } }$ 值为 $0 . 3 9 0 \\Omega$ ，小于其他三种电极材料。同时，GN8(3M)电极材料在低频区直线的斜率最大，具有最小的Warburg阻抗，说明电极材料具有相对高的电化学活性。其原因是，RGO的加入提高了电极的导电性,GN8(3M)中的 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 纳米片在RGO片层上均匀增长，提高了电极材料的导电性和活性表面，RGO与 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 良好的复合使电化学反应中电荷转移和离子扩散容易，有利于电化学反应过程中电荷转移，具有良好的大倍率充放电性能。同时，GN8(3M)有更多的晶体缺陷，提高质子扩散系数，与前文XRD和SEM的结果一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b0c597dd1ead884b4503b8f99212b178b302d23f63635de3cb018218c6eee2f.jpg",
+        "img_caption": [
+            "图6 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 和 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 电极材料在不同倍率下 的循环稳定性曲线 Fig.6 Cycling stability curves of pure $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ and $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ /RGO electrode materials at various rates "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/10464333933d07e53504940b0c63aa0681f3a6c037c9f899fe6801b6fc2a793a.jpg",
+        "img_caption": [
+            "图7 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 和 $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 电极材料的电化学阻抗图 谱及其高频区的放大图 Fig.7 Electrochemical impedance spectroscopy (EIS） spectra and enlarge figures in high frequency region of pure $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ and $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ electrode materials "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)用化学沉淀-回流法可制备不同负载比的 $\\beta \\mathrm { \\hbar }$ $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 复合材料， $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 复合材料中RGO纳米片和 $\\beta \\mathrm { - N i ( O H ) _ { 2 } }$ 纳米片为相互插层的结构。与 $\\beta \\mathrm { - N i ( O H ) _ { 2 } }$ 相比，复合材料结构中的片层较厚。复合材料中活性物质 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 的含量不同，不影响晶体结构，但是当氨水浓度为 $3 \\mathrm { m o l / L }$ 时复合材料具有更多的晶体缺陷。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)当氨水浓度为3mol/L、GO与 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 的质量比为1:8时， $\\mathrm { N i ( O H ) _ { 2 } / R G O }$ 复合材料表现出良好的电化学性能。0.2C放电比容量为 $3 3 4 . 9 \\mathrm { m A h / g }$ ，远远高于 $\\beta { \\mathrm { - N i } } ( \\mathrm { O H } ) _ { 2 }$ 理论放电比容量 $( 2 8 9 \\mathrm { m A h / g ) }$ 。复合电极材料中石墨烯的引入降低了 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 电极的欧姆极化，从而文电极物科共有文好的旧平工能相循环稳定性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n[1] Fang Q, Xie S Y, Cheng Y, et al. Effects of nanoscale conductive additives on high temperature and high power performance of nickel electrodes [J]. Chin.J. Rare Metals,2009,33: 376 (方 庆,谢守韫,成 艳等.纳米导电剂对镍电极高温/高功率性能 的影响[J].稀有金属,2009,33:376)   \n[2] Tang Y G. Ni/MH Batteries[M]. Beijing: Chemical Industry Press 2007: 100 (唐有根.镍氢电池[M].北京:化学工业出版社,2007:100)   \n[3]Liang YY,Wu DQ,Feng XL,et al.Dispersion of graphene sheets in organic solvent supported by ionic interactions [J].Adv. Mater., 2009,21:1679   \n[4] Wu Z, Huang $\\mathrm { ~ X ~ L ~ }$ Wang $Z \\mathrm { ~ L ~ }$ ,et al.Electrostatic induced stretch growth of homogeneous $\\beta \\mathrm { - \\ N i ( O H ) _ { 2 } }$ on Graphene with enhanced high-rate cycling for Supercapacitors [J]. Sci.Rep.,2014,4: 3669   \n[5] Wang L N,Chen HY, Cai F, et al. Hierarchical carbon nanotube/α- （204号 $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ nanosheet composite paper with enhanced electrochemical capacitance [J].Mater. Let.,2014,115:168   \n[6] Zhang JL,Liu HD,ShiP,et al. Growth of nickel(111) plane: The key role in nickel for further improving the electrochemical property of hexagonal nickel hydroxide-nickel & reduced graphene oxide composite [J]. J.Power Sour.,2014,267: 356   \n[7] Ji J Y, Zhang L L, JiHX,et al. Nanoporous $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ thin film on 3D ultrathin-graphite foam for asymmetric supercapacitor [J]. ACS Nano,2013,7: 6237   \n[8] Yan J, Fan Z J, Sun W, et al. Advanced asymmetric Supercapacitors based on $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ /Graphene and porous Graphene electrodes with high energy density [J].Adv.Funct. Mater.,2012,22: 2632   \n[9] Kim Y,Cho E S,Park S J, et al. One-pot microwave-asssted synthesis of reduced graphene oxide/nickel cobalt double hydroxide composites and their electrochemical behavior [J].J. Ind. Eng.Chem., 2016, 33: 110   \n[10] Zhu JW,Chen S,Zhou H,et al.Fabrication of a low defect density graphene- nickel hydroxide nanosheet hybrid with enhanced electrochemical performance [J]. Nano Res., 2O12,5:11   \n[11] Xie JF, Sun X, Zhang N,et al. Layer-by-layer $\\beta { \\mathrm { - } } \\mathrm { { N i } } ( \\mathrm { { O H } ) _ { 2 } / \\mathrm { { g r a } } }$ phene nanohybrids for ultraflexible all-solid-state thin-film Supercapacitors with high electrochemical performance [J]. Nano Energy,2013,2: 65   \n[12] Huang Z N,Kou S Z, Jin D D,et al. Performance of $\\mathrm { N i ( O H ) _ { 2 } / r e } .$ duced graphene oxides composites for supercapacitors [J].J. Funct.Mater.,2015,46: 5084 (黄振楠,寇生中,金东东等.氢氧化镍/还原氧化石墨烯复合物 的超级电容性能[J].功能材料,2015,46:5084)   \n[13] Fang DL,Chen Z D,Liu X,et al.Homogeneous growth of nanosized $\\beta \\mathrm { - N i ( O H ) _ { 2 } }$ on reduced graphene oxide for high-performance supercapacitors [J]. Electrochim.Acta,2012,81: 321   \n[14] Fu W D, Gong YC, Wang M, et al. $\\beta { \\mathrm { - N i } } ( \\mathrm { O H } ) _ { 2 }$ nanosheets grown on graphene as advanced electrochemical pseudocapacitor materials with improved rate capability and cycle performance [J].Mater.Let.,2014,134:107 [15]HummersJr W S,Offeman RE.Preparation of graphitic oxide [J]. J.Am. Chem. Soc.,1958,80:1339 [16] Sheng K X,Xu YX,Li C,et al.High-performance self-assembled graphene hydrogels prepared by chemical reduction of graphene oxide [J].New Carbon Mater.,2011,26:9 [17]LiZQ,Lu CJ,Xia ZP,et al.X-ray diffraction patterns of graphite and turbostratic carbon [J].Carbon,2007,45:1686 [18]Kim J,Kim Y,Park SJ,et al.Preparation and electrochemical analysis of graphene nanosheets/nickel hydroxide composite electrodes containing carbon nanotubes [J].J. Ind. Eng. Chem.,2016,   \n36:139 [19]Watanabe K,Kikuoka T,Kumagai N.Physical and electrochemical characteristics of nickel hydroxide as a positive material for rechargeable alkaline batteries [J].J.Appl.Electrochem.,1995,25:   \n219 [20] Nan JM, Tang ZY,Liu JH,et al. XRD and Raman spectrometric characterization on $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ electrode materials [J]. Chin.J.Appl. Chem.,2001,18:108 (南俊民,唐致远,刘建华等. $\\mathrm { \\Delta N i ( O H ) _ { 2 } }$ 电极材料的XRD和Raman 光谱表征[J].应用化学,2001,18:108)   \n[21] Xu MW,Bao SJ,Li HL.Synthesis and characterization of mesoporous nickel oxide for electrochemical capacitor [J].J.Solid State Electrochem.,2007,11: 372   \n[22] Chen XA, Chen XH, Zhang F Q,et al. One-pot hydrothermal synthesis of reduced graphene oxide/carbon nanotube $/ \\alpha$ -Ni $( \\mathrm { O H } ) _ { 2 }$ composites for high performance electrochemical supercapacitor [J].J. Power Sour.,2013,243:555   \n[23] Lei H. Synthesis and property studies of high-capacity Ni-MH battery cathode materials [D].Beijing:Beijing Nonferrous Metal Research Institute,2014 (雷 浩.高容量镍氢电池正极合成与性能研究[D].北京：北京 有色金属研究总院,2014)   \n[24] Yang Y. The preparation of $\\mathrm { N i ( O H ) _ { 2 } }$ mixing with graphene oxide and studying the electrical performance [D].Xinxiang:Henan Normal University,2012 (杨 祎.氢氧化镍掺杂氧化石墨烯的制备以及电性能的研究 [D].新乡:河南师范大学,2012)   \n[25] YangWL,Gao Z,Wang J,et al. Synthesis of reduced graphene nanosheet/urchin-like manganese dioxide composite and high performance as supercapacitor electrode [J].Electrochim.Acta, 2012, 69: 112 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(责任编辑:吴岩)",
+        "page_idx": 6
+    }
+]

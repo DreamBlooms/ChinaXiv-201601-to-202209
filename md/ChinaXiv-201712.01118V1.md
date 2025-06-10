@@ -1,0 +1,107 @@
+临床研究
+
+# 吉非替尼与厄洛替尼在EGFR基因敏感突变晚期NSCLC患者一线治疗中的疗效比较
+
+谢亚琳',梁继珍²,苏宁1  
+1广州市胸科医院肿瘤科，广东广州 510095；广州市红十字会医院肿瘤科,广东广州 510220
+
+摘要：目的探讨吉非替尼与厄洛替尼在EGFR基因敏感突变晚期非小细胞肺癌(NSCLC)患者一线治疗中疗效差异。方法按照人组标准选择既往未接受过治疗的EGFR基因敏感突变晚期NSCLCL患者,随机分为两组：一组接受吉非替尼 $2 5 0 \mathrm { m g / d }$ 治疗，一组接受厄洛替尼 $1 5 0 \mathrm { m g / d }$ 治疗,主要观察指标为无进展生存时间(PFS),次要观察指标为总有效率(ORR)和疾病控制率(DCR)。结果 共入组50例患者，其中吉非替尼组27例,厄洛替尼组23例,吉非替尼和厄洛替组的中位PFS分别为8.0个月和10.0个月，疗效无统计学差异 $\scriptstyle P = 0 . 2 9 3$ ),但厄洛替尼组略显优势。ORR分别为 $5 5 . 6 \%$ 和 $6 0 . 9 \%$ $\scriptstyle ( P = 0 . 7 1 1 )$ ；DCR分别为 $8 5 . 2 \%$ 和$8 7 . 0 \% ( P { = } 0 . 8 6 1 )$ 。无论19号外显子的缺失突变还是21号外显子的L858R错义突变均可以从EGFR-TKI治疗中获益，且突变位点的不同不能导致EGFR-TKI疗效的差异（ $scriptstyle \scriptstyle ( P = 0 . 0 7 2$ )。结论吉非替尼和厄洛替尼均是EGFR基因敏感突变晚期NSCLCL患者有效的一线治疗方案,疗效无统计学差异，但厄洛替尼略显优势。无论19号外显子的缺失突变还是21号外显子的L858R错义突变均可以从EGFR-TKI治疗中获益。
+
+关键词：晚期非小细胞肺癌；吉非替尼；厄洛替尼；EGFR基因；突变位点
+
+# Gefitinib versus Erlotinib as first-line treatment for patients with advanced EGFR mutation-positive non-small-cell lung cancer
+
+XIEYalin',LIANGJizhen²,SNing   
+Departmetoflogoustitalangzou5in;eartetcoagoed   
+Guangzhou 510220,China
+
+Abstract:ObjectiveTocompare theeficacyoftheerlotinib versus gefinibinthefirst-linetreatmentof patientswith advanced EGFR mutation-positive NSCLC.Methods Fifty patients with untreated advanced EGFR mutation- positive NSCLC were randomly divided into gefitinib group $( n { = } 2 7 )$ and erlotinib group $( n { = } 2 3 )$ . The progression-free survival, objective responserateanddiseasecontrolratewereevaluatedtocomparetheeficacyof gefitinibanderlotinib.Results There wereno significant differences in the objective response rate $( P { = } 0 . 7 1 1 )$ and disease control rate $( P { = } 0 . 8 6 1 )$ between the two groups. The progression-freesurvivalof gefitinib groupand erlotinib group was 8.0monthsand10.0months,respectively.Theeffcacyof the two drugs was similar $( P { = } 0 . 2 9 3 )$ . Conclusion There is no significant differences between gefitinib and erlotinib in the first-line treatment of patients with advanced EGFR mutation-positive NSCLC.
+
+Key words: advanced non-small-cellung cancer; Gefitinib; Erlotinib; EGFR gene; mutation-positive
+
+肺癌是发病率及病死率较高的恶性肿瘤，2008年全球新发肺癌病例数高达161万，占所有新发癌症患者的 $1 2 . 7 \%$ ，位居首位[1。2012年，因肺癌死亡占所有癌症死亡的比例为：女性 $2 6 \%$ ,男性 $2 9 \% ^ { [ 2 ] }$ 。非小细胞肺癌(NSCLC)约占肺癌总发生率的 $8 5 \%$ ,通常诊断时约$8 5 \%$ 已是晚期[3]。对晚期NSCLC,联合铂类的一线标准化疗方案有效率仅 $30 \%$ 左右，5年生存率低于 $5 \%$ ，中位生存时间8\~10个月[4。两药含铂方案化疗在疗效方面已经到达平台期，增加化疗药物剂量只能导致毒性的增加，而不能改善生存。小分子靶向药物如吉非替尼和厄洛替尼的问世，给晚期NSCLC的治疗带来了新的突破。吉非替尼和厄洛替尼都是表皮生长因子受体(EGFR)的小分子酪氨酸激酶抑制剂，它们可以进入通过与ATP竞争结合受体酪氨酸激酶的催化区抑制该信号通路，从而达到抑制癌细胞增殖、促进肿瘤细胞凋亡的目的，最终控制肿瘤的生长、延长患者的生存时间。然而，它们的疗效是与EGFR基因是否有敏感位点突变有关的，有敏感突变的患者疗效好，而野生型的患者疗效差,这一结论被多个临床实验证实8-9.1]。但在EGFR基因敏感突变的晚期NSCLC患者中，吉非替尼和厄洛替尼之间哪一个疗效更好、更能使患者临床获益呢？这个问题一直没有答案，本文旨在对这个问题进行初步探讨。
+
+# 1研究方法
+
+# 1.1入选标准
+
+将2010年7月\~2013年12月间在广州市胸科医院接受治疗的晚期非小细胞肺癌(NSCLC)患者按下列入选标准纳为研究对象。人选标准为： $\textcircled{1}$ 分期为ⅢB\~IV期(2009年AJCC分期第7版)的晚期NSCLC初治患者； $\textcircled{2}$ 按RECIST疗效评价标准，有可评价病灶； $\textcircled{3}$ EGFR基因检测为敏感突变型； $\textcircled{4}$ 年龄为20\~80岁； $\textcircled{5}$ 心电图、血常规及肝肾功能等血生化检查基本正常； $\textcircled{6}$ ECOG评分为0\~2分。患者退组标准为：疾病进展(PD)；出现严重3/4级不良反应，患者不能耐受；患者强烈要求退组或失访等其他原因不能完成治疗计划者。
+
+# 1.2 治疗方法
+
+将人组患者随机分成两组，A组接受吉非替尼治疗，$2 5 0 ~ \mathrm { m g , 1 }$ 次/d,空腹口服，直至疾病进展。B组接受厄洛替尼治疗， $1 5 0 \mathrm { m g } , 1$ 次/d,餐前1h口服，直至疾病进展。
+
+# 1.3毒副反应及疗效评价标准
+
+毒副反应根据国际常见不良反应标准第3版评价分级。临床疗效评价参照实体瘤治疗疗效评价标准(RECIST1.1)进行评价。主要观察指标为中位无进展生存期时间(PFS)，次要观察指标为总有效率(ORR)和疾病控制率(DCR)等。
+
+# 1.4 统计学方法
+
+采用SPSS13.0统计软件对研究数据用x检验和生存分析等统计方法分析，并用Kaplan-Meier法绘制生存曲线，检验水准为 $\mathrm { \dot { \alpha } = 0 . 0 5 }$ O
+
+# 2结果
+
+# 2.1 基线特征
+
+2010年7月至2013年12月间，按照入组标准，共入组ⅢIB期\~IV期的晚期NSCLC患者50例，其中男性20例，女性30例，平均年龄62.5岁。将患者随机分为两组，一组接受吉非替尼治疗 $\scriptstyle ( n = 2 7$ )，另一组接受厄洛替尼治疗( $\scriptstyle { \overbrace { n = 2 3 } }$ )，直至疾病进展。所有入组患者均为EGFR基因敏感突变的晚期NSCLC患者，用x检验对两组患者的性别、年龄、ECOG评分、分期、EGFR基因突变位点等基线特征进行比较，两组具有良好的均衡性中 $\mathrm { \ P { > } 0 . 0 5 }$ ，表1)。
+
+# 2.2近期疗效
+
+吉非替尼组共入组晚期NSCLC患者27例，厄洛替尼组入组23例。其中吉非替尼组CR1例、PR14例、SD8例、PD4例;厄洛替尼组CR2例、PR12例、SD6例 $\mathbf { \nabla } \cdot \mathrm { P D } \ 3$ 例。吉非替尼组和厄洛替尼组的总有效率ORR( $\mathrm { C R + P R } )$ 分别为： $5 5 . 6 \%$ 和 $6 0 . 9 \%$ ；疾病控制率DCR( $\mathrm { C R + P R + S D }$ 分别为： $8 5 . 2 \%$ 和 $8 7 . 0 \%$ 。两组之间的有效率和疾病控制率均无显著性差异，前者 $P =$ 0.711，后者 $\scriptstyle P = 0 . 8 6 1$ O
+
+# 2.3远期疗效
+
+吉非替尼组和厄洛替尼组的PFS分别为8.0个月1 $9 5 \%$ CI为6.1\~9.9)和8.5个月（ $9 5 \%$ CI为 6.9\~13.1)(图1)。厄洛替尼组的生存曲线在吉非替尼组的上方，在PFS方面略显优势，但两组之间无统计学差异( $\scriptstyle P =$ 0.293)。在所有入组患者中，EGFR基因突变类型有：19号外显子缺失突变型、21号外显子L858R错义突变型，分别为27例、23例。其中19号外显子缺失突变型患者的PFS为10.0个月，而21号外显子L858R错义突变型患者的PFS为9.0个月，两组之间PFS无统计学差异 $scriptstyle \overbrace { P = 0 . 0 7 2 }$ ,图2)。EGFR基因19号外显子缺失突变的患者在吉非替尼组和在厄洛替尼组的PFS分别为6.5个月和13.0个月，厄洛替尼组显示出优势，但两组之间差异仍无统计学意义（ $scriptstyle { \overbrace { P { = } 0 . 1 4 9 } }$ ,图3)。而在21号外显子L858R错义突变患者中，吉非替尼组的PFS为8.0个月，厄洛替尼组的PFS为9.0个月，两组之间亦无统计学差异（ ${ \it P } { = } 0 . 5 8 3$ ，图4)。
+
+表1两组患者的基线特征 Tab.1 Baseline characteristics of the two groups   
+
+<html><body><table><tr><td>Group</td><td>Gefitinib</td><td>Erlotinib</td><td>P</td></tr><tr><td>Gender</td><td></td><td></td><td>0.651</td></tr><tr><td>Male</td><td>10</td><td>10</td><td></td></tr><tr><td>Female</td><td>17</td><td>13</td><td></td></tr><tr><td>Age (Years)</td><td></td><td></td><td>0.497</td></tr><tr><td><60</td><td>12</td><td>8</td><td></td></tr><tr><td>≥60</td><td>15</td><td>15</td><td></td></tr><tr><td>ECOG score</td><td></td><td></td><td>0.490</td></tr><tr><td>0-1</td><td>19</td><td>14</td><td></td></tr><tr><td>2</td><td>8</td><td>9</td><td></td></tr><tr><td>Stage</td><td></td><td></td><td>0.831</td></tr><tr><td>ⅢB</td><td>9</td><td>7</td><td></td></tr><tr><td>V</td><td>18</td><td>16</td><td></td></tr><tr><td>EGFR mutation type</td><td></td><td></td><td>0.816</td></tr><tr><td>Exon 19 del</td><td>15</td><td>12</td><td></td></tr><tr><td>Exon 21L858R</td><td>12</td><td>11</td><td></td></tr></table></body></html>
+
+# 2.4不良反应
+
+两组均为1/2级皮疹和腹泻，未见3/4级不良反应，没有患者因不良反应而减量或退组。吉非替尼组皮疹发生率为 $1 7 / 2 7 ( 6 3 . 0 \% )$ ，腹泻的发生率为 $4 / 2 7 ( 1 4 . 8 \% )$ ：厄洛替尼组皮疹发生率为16/23( $6 9 . 6 \%$ )，腹泻发生率为$3 / 2 3 ( 1 3 . 0 \%$ 。
+
+# 3讨论
+
+不管是发达国家，还是发展中国家，肺癌在男性肿瘤死因中高居首位[。晚期NSCLC患者的治疗手段有限，在过去主要是以顺铂/卡铂联合第3代化疗药物的两药联合化疗方案为主，但作为一线化疗方案它们的有效率仅为 $30 \% { \sim } 4 0 \%$ ,且具有明显的骨髓抑制、恶心、呕吐等毒副反应7。EGFR基因的小分子酪氨酸激酶抑制剂(EGFR-TKI)如吉非替尼和厄洛替尼的问世，给晚期
+
+![](images/1e1900a5983adff6205d39c5dc0473470d52fdea10cff7a99f44c7642310b5ba.jpg)  
+图1吉非替尼组与厄洛替尼组疗效比较 Fig.1 Kaplan-Meier survival analysis of NSCLC patients treated with Gefitinib ( $n = 2 7 ,$ $\mathrm { P F S } { = } 8 . 0 \ \mathrm {  m } )$ （20 and Erlotinb $scriptstyle \cdot _ { n = 2 3 , }$ $\mathrm { P F S } { = } 8 . 5 \mathrm { m }$ ） $\scriptstyle P = 0 . 2 9 3 ,$ log rank).
+
+![](images/aa4ea5b2458ac1e58726820edcdec828f0f8963762bf8031d017cce4c81a96fb.jpg)  
+图2EGFR不同突变位点对EGFR-TKI疗效的影响 Fig.2 Kaplan-Meier survival analysis of NSCLC patients with Exon 19 del $n { = } 2 7 ,$ $\mathrm { P F S = 1 0 . 0 ~ m }$ ）and Exon 21L858R $\scriptstyle n = 2 3 ,$ （20 $\mathrm { P F S = } 9 . 0 \mathrm { m }$ 0 $\scriptstyle ( P = 0 . 0 7 2 ,$ log rank).
+
+![](images/07579204d150e786098f120a6eecd9a323dd3704d5305eb44239ed5aebcb8ffc.jpg)  
+图3吉非替尼和厄洛替尼在EGFR基因19号外显子缺失突变患者中的疗效比较Fig.3Kaplan-Meier survival analysis of EGFR exon19delNSCLC patients $( n { = } 2 7 )$ treated with Gefitninb$_ { n = 1 5 , }$ $\mathrm { P F S = } 6 . 5 \ \mathrm { m } ,$ andErlotinb( $\scriptstyle \cdot _ { n = 1 2 , }$ （204号 $\mathrm { P F S = } 1 0 . 0 \ \mathrm { m }$ 0 $P =$ 0.149, log rank).
+
+NSCLC的治疗带来了新的突破。在过去的10年间，大量的国际多中心临床研究如IPASS研究、OPTIMAL研究等[8-9均证实了EGFR-TKI在晚期NSCLC患者中疗效，吉非替尼和厄洛替尼均可以提高患者的ORR和DCR，延长患者的PFS，且不良反应小，患者耐受性好。确定了两种药物在晚期NSCLC患者中的一线治疗地位。但这种疗效并不是在所有晚期NSCLC患者中都可以看到，而是在选择人群中更为明显。Rosell等[从2005年4月 ${ \sim } 2 0 0 8$ 年11月对西班牙2105例肺癌患者进行了EGFR突变筛查，发现350例患者存在EGFR突变（ $1 6 . 6 \%$ ),突变更常见于女性患者 $( 6 9 . 7 \% )$ 、非吸烟的患者 $( 6 6 . 6 \% )$ 和腺癌患者（ $8 0 . 9 \%$ 0 $P { < } 0 . 0 0 1 )$ 。217例接受厄洛替尼治疗的患者无进展生存期为14个月，中位生存期长达27个月。因此，在为晚期NSCLC患者选择治疗方案之前，进行肿瘤EGFR突变状态检测具有一定的意义。Fukuoka等[8研究结果表明只有EGFR基因突变的患者才能取得临床获益，而野生型患者是不能从EGFR-TKI治疗中获益的。TRIBUTE研究亚组分析得到了相同的结果：EGFR突变状态与疗效有关[]。所以本研究入组的也是EGFR基因敏感突变的患者，结果显示：吉非替尼组和厄洛替尼组的总有效率ORR( $\mathrm { C R } +$ PR)分别为： $5 5 . 6 \%$ 和 $6 0 . 9 \%$ ；疾病控制率DCR( $\mathrm { C R } +$ $\mathrm { P R } + \mathrm { S D } { \dot {  } }$ 分别为： $8 5 . 2 \%$ 和 $8 7 . 0 \%$ ;PFS分别为8.0个月1 $9 5 \%$ CI为6.1\~9.9)和8.5个月（ $9 5 \%$ CI为6.9\~13.1），与以往的临床研究结果基本一致。
+
+![](images/e5ed19244f7d0727c46ef2990051b7801951062a895d524edf198db08a1a8551.jpg)  
+图4吉非替尼和厄洛替尼在EGFR基因21号外显子L858R错义突变患者中的疗效比较Fig.4Kaplan-Meier survival analysis of EGFRexon 21 L858RNSCLC patients( $\scriptstyle ( n = 2 3 )$ treatedwithGefitninb ( $\scriptstyle \overbrace { n = 1 2 } ,$ $\mathrm { P F S } { = } 8 . 0 \ \mathrm { ~ m } )$ ）and Erlotinb $( n { = } 1 1 ,$ （204号（204号 $\mathrm { P F S = } 9 . 0 \mathrm { m }$ ） $( P { = } 0 . 5 8 3 ,$ ,log rank).
+
+在EGFR基因敏感突变的晚期NSCLC患者中，吉非替尼与厄洛替尼的疗效有没有差异呢？厄洛替尼I期临床试验的结果提示患者最大耐受剂量为 $1 5 0 \mathrm { m g / d ^ { [ 1 2 ] } }$ 推荐剂量为 $1 5 0 ~ \mathrm { m g / d }$ ，吉非替尼的I期临床试验中最大耐受剂量为 $7 0 0 { \sim } 1 0 0 0 \ \mathrm { m g / d }$ ，而推荐剂量为 $2 5 0 \mathrm { m g / d ^ { [ 1 3 ] } }$ 所以很多人认为临床上使用的厄洛替尼的剂量是其最大耐受剂量，而吉非替尼则不是，那么厄洛替尼的疗效是否会优于吉非替尼呢？Kim等[4的回顾性研究中纳入了342例NSCLC患者，分别接受吉非替尼及厄洛替尼治疗，两组在性别、病理类型、吸烟状况等方面有较好的配对，结果发现吉非替尼及厄洛替尼组的有效率、疾病控制率、中位生存均无明显差异。另外一项Ⅱ期研究中，96例NSCLC患者被随机分到吉非替尼治疗组与厄洛替尼组，结果也显示两组的RR及PFS差异无统计学意义[15]。但此两项研究都是两药在化疗失败后患者中的疗效对比,而本文是在一线治疗中对两药进行对比，对比的结果显示两组之间的有效率和疾病控制率均无显著性差异。虽然厄洛替尼组的生存曲线在吉非替尼组的上方，在PFS方面略显优势，但两组之间无统计学差异 $\scriptstyle ( P = 0 . 2 9 3$ ）。
+
+EGFR基因最常见的基因突变为19号外显子的缺失突变和21号外显子的L858R错义突变，约占NSCLC患者EGFR总突变的 $8 5 \%$ 以上[1]。目前关于两种不同的敏感突变患者接受EGFR-TKI治疗后的疗效差异的研究较少，本文对此进行了初步探讨，结果显示在所有入组患者中，19号外显子缺失突变型患者接受EGFR-TKI治疗的PFS为10.0个月，而21号外显子L858R错义突变型患者的PFS为9.0个月，两组之间PFS无统计学差异（ $\scriptstyle ( P = 0 . 0 7 2 )$ 。而EGFR基因19号外显子缺失突变的患者接受吉非替尼治疗的PFS为6.5个月，接受厄洛替尼治疗的PFS为13.0个月，虽然统计学上无差异( $\scriptstyle { \mathrm { ( } P = 0 . 1 4 9 ) }$ ，但厄洛替尼组的PFS有延长趋势。而在21号外显子L858R错义突变患者中，吉非替尼组的PFS为8.0个月，厄洛替尼组的PFS为9.0个月，两组之间亦无显著性差异（ $\scriptstyle ( P = 0 . 5 8 3 )$ 0
+
+综上所述，吉非替尼和厄洛替尼均是EGFR基因敏感突变晚期NSCLCL患者有效的一线治疗方案，在一线治疗中，两种药物的疗效无统计学差异，但厄洛替尼略显优势。无论19号外显子的缺失突变还是21号外显子的L858R错义突变均可以从EGFR-TKI治疗中获益，突变位点的不同不能导致EGFR-TKI的疗效差异。另外，吉非替尼和厄洛替尼在两种不同突变位点的晚期NSCLC患者中疗效无差异 $( P { > } 0 . 0 5 )$ ,但对于19外显子缺失突变的晚期NSCLC患者接受厄洛替尼治疗似乎略优于接受吉非替尼治疗。
+
+# 参考文献:
+
+[1]Ferlay J, Shin HR,Bray F,et al.Estimates of worldwide burden of cancer in 2008:GLOBOCAN 2008[J].Int J Cancer,2010,127(12): 2893-917.   
+[2]Siegel R,Naishadham D,Jemal A.Cancer statistics,2O12[J].CA CancerJClin,2012,62(1):10-29.   
+[3]Herbst RS,Heymach JV,Lippman SM.Lung cancer[J].N Engl J Med,2008,360: 1367-80.   
+[4]FeldR,Sridhar SS,Shepherd FA,et al. Use of the epidermal growth factor receptor inhibitors gefitinib and erlotinib in the treatment of non-small cell lung cancer: A systematic review[J]. JThorac Oncol, 2006,1(4): 367-76.   
+[5]Figlin RA, Crowley JJ, Jacobs EL,et al. Evaluation of cisplatin, Carboplatin，and etoposide in metastatic non-smal-ell lung carcinoma: A phase II study of the southwest Oncology Group[J]. Cancer,1996,78(5): 998-1003.   
+[6]Vanderwalde A，Pal SK，Reckamp KL. Management of non-small-cell lung cancer in the older adult[J]. Maturitas,2011,68 (4): 311-21.   
+[7]Stinchcombe TE,Socinski MA.Current treatments for advanced stage non-small cell lung cancer[J]. Proc Am Thorac Soc,2009,6 (2): 233-41.   
+[8]Fukuoka M,Wu Y, Thongprasert S,et al. Biomarker analyses and final overall survival resultsfrom a phase II,，randomized, open-label, first-line study of gefitinib versus carboplatin/paclitaxel in clinically selected patients with advanced non-small-cell lung cancer in Asia (IPASS)[J].JClin oncol,2011,29(21): 2866-74.   
+[9]Zhou C,Wu YL,Chen G,et al. Erlotinib versus chemotherapy as first-line treatment for patients with advanced EGFR mutationpositive non-smal-cell lung cancer (OPTIMAL, CTONG-0802): a multicentre,open-label，randomised，phase 3 study[J].Lancet Oncol,2011,12(8): 735-42.   
+[10] Rosell R,Moran T, Queralt C,et al. Screening for epidermal growth factor receptor mutations in lung cancer[J].N Engl J Med, 2009,361(10): U38-958.   
+[11]Gandara DR,Gumerlock PH. Epidermal growth factor receptor tyrosine kinase inhibitors plus chemotherapy:case closed or is the jury still out[J]. JClin Oncol, 2005,23(25): 5856-8.   
+[12]Hidalgo M, Siu LL,Nemunaitis J,et al. Phase Iand pharmacologic study of OSI-774,an epidermal growth factor receptor tyrosine kinase inhibitor,in patients with advanced solid malignancies[J]. J Clin Oncol,2001,19(13): 3267-79.   
+[13] Ranson M, Hammond LA,Ferry D,et al. ZD1839,a selective oral epidermal growth factor receptor-tyrosine kinase inhibitor,is well tolerated and active in patients with solid,malignant tumors: results of a phase I trial[J]. JClin Oncol,2002,20(9): 2240-50.   
+[14]Kim ST,Lee J,Kim JH,et al.Comparison of gefitinib versus erlotinib in patients with nonsmall cell lung cancer who failed previous chemotherapy[J]. Cancer,2010,116(12): 3025-33.   
+[15]Ahn J, Kim S,Ahn M,et al.Randomized phase II study of gefitinib versus erlotinib in patients with advanced non-small cell lung cancer who failed previous chemotherapy[J].Lung Cancer, 2012,75 (1): 82-8.   
+[16] Janne PA,Engelman JA,Johnson BE.Epidermal growth factor receptor mutations in non-small-cell lung cancer: implications for treatment and tumor biology[J].JClin Oncol,2005,23: 3227-34.
+
+(编辑：黄开颜）

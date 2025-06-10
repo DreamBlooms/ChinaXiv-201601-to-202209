@@ -1,0 +1,207 @@
+# 基于Ks分布的被子植物演化的时间尺度研究
+
+焦贝贝1，王希胤1\*（1.华北理工大学 生命科学学院，河北省唐山063210）
+
+摘要：物种演化时间估算是生命演化研究的重要部分。近年来，许多研究发现不同基因和不同物种的进化速率差异显著，因此需要新的方法对进化事件发生时间进行重新估计。为了对被子植物演化时间的从新估计，基于共享多倍化事件或共享分歧事件应该有共同Ks 峰值的理念，建立了基于基因组数据的进化速率矫正模型，结果如下：（1）对获取Ks分布三种常见的方式进行了比较分析，明确了通过提取共线性区块上Ks值的中位数的方式最优。（2)模拟了Ks值随时间累积系数 $\nu$ 的变化过程下的Ks分布。当假设 $\nu$ 服从正态分布时，Ks分布出现了长尾现象。（3）将矫正方法在被子植物中的应用，发现不同谱系的被子植物具有同步的辐射进化和适应性进化现象。而且被子植物的进化速率虽然差异显著，但不同分支间的进化速率仍具有部分一致性。例如，木兰类植物进化速率最慢，真双子叶植物次之，单子叶植物进化速率最快。最终得到了相对可靠的物种的演化时间轴，为植物研究提供系统发育和演化的支撑。
+
+关键词：Ks分布，被子植物，时间矫正，系统发育树，进化速率中图分类号：Q941 文献标识码：A 文章编号：
+
+# Time scale of angiosperm evolution based on Ks distribution
+
+JIAO Beibei',WANG Xiyin1\* (1. College of Life Sciences, North China University of Science and Technology, Tangshan O63210,Hebei, China)
+
+Abstract: Estimating the time scale of species evolution is an important part of life evolution. It is found that there are significant differences in the evolution rate of different genes and species in recent years, which challenges the molecular clock hypothesis to a great extent. Therefore, new methods are needed to re-estimate the evolutionary events time. The whole genome sequence of angiosperms makes it possible to estimate the evolutionary time from the whole genome perspective.In order to re-estimate the evolution time of angiosperms,an evolution rate correction model based on genomic data is established according to the idea that shared polyploidy events or shared divergence events should have the same Ks peak. The results were as follows: (1) Three common ways to obtain Ks distribution were compared and analyzed, which showed that the best way was to extract the median of Ks values on collinear blocks. (2) The change process of Ks distribution was simulated with time accumulation coefficient $\nu$ of Ks values.When $\nu$ was assumed to obey the normal distribution,the Ks distribution had a long tail phenomenon. (3) The correction process was described in detail, which was conducive to the understanding and wide spread of this method. From the application of correction method in angiosperms, it was found that the Ks peak before correction was not linear with time, while the Ks peak after correction was directly proportional to time, indicating that it is very necessary to estimate the time of species evolution events after correcting the Ks peak. It was also found that although the evolution rate of angiosperms was significantly diferent, the evolution rate between different branches was still partially consistent: Magnoliids had the slowest evolutionary rate，followed by Eudicots and Monocots. When the environment changed greatly，most species of different lineages of angiosperms had synchronous radial evolution and adaptive evolution.Finally, the model corrects angiosperms and established a relatively reliable angiosperm evolution time axis,which helps to understand the evolution process and model， especially to understand the phylogenetic relationship and the causes of diversity and provides phylogenetic and evolutionary support for plant research.
+
+Key words: Ks distribution，angiosperms， time correction， phylogenetic tree，evolutionary rate
+
+被子植物的起源和早期快速演化及其发生时间一直是生物学的研究热点。当前估算物种演化时间的方法主要是基于分子钟假设，即以某几个特定类群的化石时间作为校正点，然后通过部分基因序列间的相似性，假设不同的物种拥有相同或相近的进化速率，来估算系统发育树上某一节点的时间，从而推断出该类群的起源时间（唐先华等,2002;Donoghue& Yang,2016；Luoetal.,2020）。然而，近年的研究表明，不同物种的分子钟常常具有显著差异，即不同物种的进化速率有显著不同（Wang et al.,2015；Wang et al.,2017；Wang et al.,2018;Wang et al.,2019),不同年代也具有不同的进化速度(罗静和张亚平,2000; Smith&Donoghue,2008）。而且在不同的研究中，对分子进化速率的估算有很大的差异（Lanfear etal.,2010）。除此之外，引入的化石时间对估算的时间影响很大，随着更多化石且更准确的年份测定，被子植物演化的时间尺度也会随之变动（Hug& Roger,2007；Wang et al.,2015；Silvestro et al.,2021）。
+
+基因组测序揭示了历史上反复的多倍化事件（Ren etal.,2018），多倍化事件使基因组内所有基因发生重复，且基因组中的古老同源区域常常有相当数目的重复基因保留下来，形成目前基因组内或者基因组间的共线性同源基因（Jiaoetal.,2011）。对共线性同源基因的分析，是揭示古代的多倍化或物种分歧事件并推定其发生时间和规模的重要途径。多倍化发生后植物基因组常常会变得很不稳定，进化速率也变得显著不同。由于减少了选择性约束，这些重复基因通常以更快的速度进化（Wang etal.,2016）。例如在葫芦科植物基因组的研究中，发现甜瓜的进化速度最慢，西瓜和黄瓜的进化速度分别快 $23 . 6 \%$ 和 $2 7 . 4 \%$ （Wang et al.,2018）。
+
+一般认为，同义替换率（synonymous substitution rate，Ks）往往不会改变氨基酸的组成，不受自然选择的影响。因此，Ks分布常常作为判定物种历史上发生的多倍化或物种分歧事件的依据（Vanneste etal.,2013）。依据共享的演化事件应该有相同的Ks 峰值，Wang 等人首次提出了基于Ks 峰值的矫正方法用以估算物种演化的时间尺度，得到了其他研究工作者的认可，还被广泛应用于他们的研究中（Zhuang et al.,2019；Shang et al.,2020；Song et al,2020; Yang et al.,2020; Song et al.,2021;Wang et al.,2021）。例如两个团队分别对睡莲（Zhanget al.,2020a）和芡实（Yang etal.,2020）基因组分析，Yang 等人通过Ks 峰值矫正的方式估算的芡实古老多倍化（被证实为睡莲目共享）与另外的团队基于睡莲目的转录组数据估算的时间尺度基本一致。基于Ks 峰值的矫正方法中，获得准确的Ks 峰是准确估算时间尺度的关键。然而，当前获取Ks分布的方式不统一而且常常带有长尾现象（Tang etal.,2008）。为何Ks分布会有长尾现象？长尾现象对Ks峰是否有重要影响等问题，也尚未有清晰的表述。
+
+目前，已有400余种被子植物的基因组得到不同水平的测定，便于在全基因组的尺度上理解这些被子植物的演化历程（Kress etal.,2022）。全基因组数据能有效消除横向基因转移和类群间基因进化速率差异等因素对系统发育树的影响。因此，急需在全基因组数据层面上，利用新的方法对被子植物的演化时间进行重新估计。该文拟对三种获取Ks分布的方式进行比较，明确哪种方式获得的Ks峰值更接近真实情况；对于Ks分布中常见的长尾现象，采用模拟仿真的方式，探究出现长尾现象的原因；区分共享多倍化和共享早期分化两种情况，创建基于全基因组数据的Ks分布矫正模型，对44个代表性被子植物基因组演化事件的时间尺度进行重新估计，得到相对可靠的被子植物演化时间轴。这有助于更深层地了解被子植物多样性和系统发育以及被子植物基因组的进化模式。
+
+# 1材料与方法
+
+# 1.1基因组数据材料
+
+收集44个高质量染色体水平的被子植物基因组（主要来自NCBI和PHYTOZOME），共包含43科39目（表1）。
+
+# 1.2方法
+
+# 1.2.1共线性分析
+
+使用WGDIv0.5.3（Sun etal.,2021）软件进行共线性分析。首先，使用BLASTP来识别基因组内或基因组间的基因相似性。随后，用WGDI软件的‘-d’子程序绘制同源点阵图，并运行‘-icl’子程序获得共线性基因。
+
+# 1.2.2 Ks 分布
+
+Ks 分布主要是通过WGDI软件完成的。首先，使用WGDI软件的‘-ks’子程序调用PAML（Yang,2007）软件计算共线性基因对的Ks值。通过‘-bi’子程序整合共线性和Ks值的结果，并使用WGDI软件的‘-bk’子程序查看共线基因的Ks值的分布，结果以点图的形式展示（图1：A）。根据物种内或种间已知的多倍化或分歧事件，通过WGDI的‘-c子程序对共线性片段进行过滤，只保留多倍化事件或分歧事件产生的共线性片段。然后，通过WGDI的‘-kp’子程序获取Ks分布（图1：B）。最后，使用WGDI中的“-pf”子程序对不同事件分别进行拟合并获取Ks分布（图1：C）。
+
+# 2结果与分析
+
+# 2.1Ks分布和长尾现象解析
+
+Ks 分布常常用来判定物种历史上发生的多倍化或物种分歧事件的依据。目前获取Ks分布主要有三种方式。方式一：通过OrthoMCL（Lietal.,2003）等聚类软件获取旁系同源基因对，然后计算这些同源基因对的Ks值并绘制Ks分布图。方式二：先进行基因组共线性分析，然后计算共线性基因对Ks值并绘制Ks分布。方式三：在方式二的基础上，提取共线性区块上Ks值的中位数并绘制Ks分布。三种方式中，方式一由于没有共线性分析，所获取的旁系同源基因对常常会有大量串联重复基因从而影响Ks分布。方式二和三都经过了共线性分析，当把共线性区块（长度大于5）上同源基因对的Ks值以点图的形式展示出来时（图1：A），这里以水稻为例，可以看到大部分由绿色的点组成的片段，例如8号与9号染色体，这与水稻近期的一次多倍化事件相符。Ks点图中大部分点的颜色相近，说明Ks 值波动很小。对共线性区域的Ks值的中位数（方式三）、平均值和所有的基因对（方式二）进行正态分布拟合（带宽为0.01，homo范围0.3-1）（图2：B），可以看到方式二并没有产生明显的峰，而且Ks分布整体带有长长的尾巴。方式三和区块的平均值的Ks分布有明显峰值，数据更为集中。由于中位数是对总体中心很好的估计，且稳健性更强，中位数的峰值颜色和Ks点图的颜色更为接近，因此区块的Ks值的中位数更接近Ks真正的峰值，对方式三的Ks分布按照正态分布拟合来提取Ks峰值（图1：C）。
+
+A．水稻基因组的共线性区块；B.共线性区块上Ks 值的拟合分布；C.共线性区块Ks 值的核密度估计。 A.Synteny blocks of the Oryza sativa genome；B.Fited distribution of Ks values for synteny blocks； C. Kernel density of Ks values for synteny blocks.
+
+![](images/627652833a8b3efc5efe2c921601df677afb6daa32118e9050ec964f4184b0fa.jpg)  
+图1 Ks分布  
+Fig.1Ks distribution
+
+为了进一步解析长尾现象，模拟了Ks分布随进化速率的演变过程。假设最初的Ks 分布服从正态分布 $X \sim N ( \mu , \sigma ^ { 2 } )$ ，其中期望 $\mu$ （峰值）和标准差 $\sigma$ 为常数。分子钟理论认为基因的进化速率是相对恒定的，因此定义 $\nu \left( \nu > 1 \right)$ ，代表Ks值的时间累积系数，表示初始Ks 值随时间演化不断累积，模拟真实情况下的恒定进化速率。而其他研究表明分子钟也并非等速进行，同时假设 $\nu$ 也服从正态分布 $X _ { \nu } \sim N ( \mu _ { _ { \nu } } , { \sigma _ { \nu } } ^ { 2 } )$ ，对这两种假设分别进行了数据仿真模拟。Ks值随着时间的推移进行迭代为 $X ^ { ' }$ ，迭代次数为 $n$ 。当 $\nu$ 为常数值时，
+
+$$
+\ b X ^ { ' } = \ b X ^ { * } \ b \nu ^ { n }
+$$
+
+当 $\nu$ 服从正态分布时，
+
+$$
+\ b X ^ { ' } = \ b X ^ { * } \ b X _ { \nu } ^ { n }
+$$
+
+当假设Ks值的时间累积系数 $\nu$ 为一个常数值时，设置假设的Ks分布为 $X \sim N ( \mu , \sigma ^ { 2 } )$ ，依据Ks分布数据特征，设定 $\mu = 0 . 2$ ， $\sigma = 0 . 0 1$ ， $\nu = 1 . 0 2$ ， $n = 1 0 0$ 。每迭代10次，绘制 Ks 分布结果（图2：A）。随着进化事件的推移，Ks峰值也逐渐变大，Ks分布依旧完美符合正态分布且没有明显的长尾分布现象。
+
+当假设Ks值的时间累积系数 $\nu$ 服从正态分布时，最初设置假设的Ks分布为$X _ { \nu } \sim N ( \mu _ { _ { \nu } } , { \sigma _ { \nu } } ^ { 2 } )$ ，其中 $\mu = 0 . 2$ ， $\sigma = 0 . 0 1$ ， $\mu _ { \nu } = 1 . 0 2$ ， $\sigma _ { \nu } = 0 . 0 1$ ， $n = 1 0 0$ 。每迭代
+
+10次，绘制Ks分布结果（图2：B）。随着进化事件的推移，Ks峰值也逐渐变大，Ks分布也不再是正态分布，并带有明显的长尾现象。这种假设所得到的结果更接近于真实情况，因此，基因的进化速率不是相对恒定的，它可能并非等速进行，而是在不同年代具有不同的进化速度，这可能也符合正态分布。对模拟的Ks分布再次通过高斯拟合获取峰值时，发现Ks 峰值与进化速率匀速时的没有明显差异（表2）。因此，Ks分布中长尾现象对提取到的Ks 峰值的影响较小。
+
+![](images/882d6705b7ef17759d173cfca263f6729791520a0063d2b7a3032b4015f08815.jpg)  
+图2Ks分布在不同进化速率下的模拟结果Fig.2Simulation results of Ks distribution at different evolution rates
+
+A.Ks分布在恒定进化速率下的模拟；B.Ks分布在进化速率服从正态分布的模拟。A.Simulation of Ks distribution at aconstant evolution rate；B.Simulation ofKs distributionunder a normaldistribution of evolution rates.
+
+表2不同进化速率模拟下的Ks 峰值  
+Table 2Ks peaks under simulations at different evolution rates   
+
+<html><body><table><tr><td>迭代次数 Number of iterations</td><td>匀速分布 Uniform distribution</td><td>正态分布 Normal distribution</td><td>差异 Difference</td></tr><tr><td>0</td><td>0.200</td><td>0.200</td><td>0.000</td></tr><tr><td>10</td><td>0.244</td><td>0.243</td><td>-0.001</td></tr><tr><td>20</td><td>0.297</td><td>0.297</td><td>0.000</td></tr><tr><td>30</td><td>0.362</td><td>0.355</td><td>-0.007</td></tr></table></body></html>
+
+<html><body><table><tr><td>40</td><td>0.442 0.431</td><td>0.010</td></tr><tr><td>50</td><td>0.538 0.531</td><td>0.008</td></tr><tr><td>60</td><td>0.656 0.650</td><td>-0.006</td></tr><tr><td>70</td><td>0.800 0.792</td><td>-0.008</td></tr><tr><td>80</td><td>0.975 0.961</td><td>-0.014</td></tr><tr><td>90</td><td>1.189 1.180</td><td>-0.009</td></tr><tr><td>100</td><td>1.449 1.442</td><td>-0.007</td></tr></table></body></html>
+
+# $2 . 2 \ \mathbf { K } \mathbf { s }$ 分布矫正方法
+
+被子植物基因组常常经历不止一次多倍化事件，由于不同物种的进化速率显著不同，就导致共享的多倍化事件的Ks峰值也大不相同。而Ks分布矫正方法的核心理念就是将这些共享事件的Ks峰矫正到一起。根据共享事件的不同，Ks分布矫正方法又分为共享多倍化和共享分化两种情况。
+
+如果物种A、B存在共享的多倍化事件，那么这次多倍化事件在不同物种中发生的时间应该是相同的，Ks峰值也应该是相等的（图3：A）。黄色方块代表两个物种共享的多倍化，即 $K s _ { _ { A A } } = K s _ { _ { B B } }$ ，对应的时间范围为物种A、B从多倍化事件到当前的时间点（绿色的大括号）。由于物种不同的进化速率，现实情况下的 $K s _ { _ { A A } }$ 和 $K s _ { B B }$ 并不相等。假设多倍化事件之后物种A和B有各自的进化速率分别为 $\nu _ { _ A }$ 和 $\nu _ { { } _ { B } }$ ， $\mathrm { ~ o ~ }$ 是物种A、B的分化节点，从多倍化事件到分歧点O，物种A、B的祖先拥有的进化速率为 $\nu$ 。那么，物种A的进化速率 $\nu _ { _ A }$ 要想恢复到 $\nu$ 就要乘以它的矫正系数为 $\lambda _ { _ A } = \frac { \nu } { \nu _ { _ A } }$ 。同理，物种B的矫正系数为 $\lambda _ { _ B } = \frac { \nu } { \nu _ { _ B } }$ 。因而，物种 A、B间分化的 $K s _ { _ { A B } }$ 矫正后为 $K s _ { _ { A B - c o r r e c t i o n } } = K s _ { _ { A B } } \lambda _ { _ { A } } \lambda _ { _ { B } }$ （Yang et al.,2020）。
+
+如果两个物种A、B不存在共享的多倍化事件但存在共享的早期分化事件时，通过寻找外类群来辅助矫正（图3：B）。物种C、D、E是外类群，物种C和D的祖先在 $\mathrm { ~ \bf ~ P ~ }$ 点与物种A、B的祖先分化，所以物种C与A、B间的Ks峰值应该相等，物种D与A、B间的Ks 峰值也应该相等，即 $K s _ { _ { C A } } = K s _ { _ { C B } }$ ， $K s _ { _ { D A } } = K s _ { _ { D B } }$ 。同样，由于物种间不同的进化速率，现实情况下它们大多是不相等的。按照前面的假设，
+
+$$
+\frac { K s _ { C A - c o r r e c t i o n } } { K s _ { C B - c o r r e c t i o n } } = \frac { K s _ { C A } \lambda _ { C } \lambda _ { A } } { K s _ { C B } \lambda _ { C } \lambda _ { B } } = \frac { K s _ { C A } \lambda _ { A } } { K s _ { C B } \lambda _ { B } } = 1 ,
+$$
+
+同理，
+
+$$
+\frac { K s _ { D A - c o r r e c t i o n } } { K s _ { D B - c o r r e c t i o n } } = \frac { K s _ { D A } \lambda _ { D } \lambda _ { A } } { K s _ { D B } \lambda _ { D } \lambda _ { B } } = \frac { K s _ { D A } \lambda _ { A } } { K s _ { D B } \lambda _ { B } } = 1 , ~ \mathbb { H } [ \frac { \lambda _ { A } } { \lambda _ { B } } = \frac { K s _ { D B } } { K s _ { D A } } \ 。
+$$
+
+可以发现，当选取的外类群越多，获取的 $\lambda _ { \scriptscriptstyle A }$ 和 $\lambda _ { \scriptscriptstyle B }$ 的关系越准确。最后取平均值表示它们之
+
+间的关系 $\frac { \lambda _ { _ { A } } } { \lambda _ { _ B } } { = m e a n } ( \frac { K s _ { _ { C B } } } { K s _ { _ { C A } } } , \frac { K s _ { _ { D B } } } { K s _ { _ { D A } } } , . . . )$
+
+A.共享多倍化事件；B.共享早期分化。   
+A.Shared polyploidyevents；B.Shared earlydivergence.
+
+![](images/ab30b68994391e6836046c5a06900e9f106c8eb00482244280d70f602e17b952.jpg)  
+图3Ks分布矫正方法的原理  
+Fig.3Principle of the Ks distribution correction method
+
+# 2.3被子植物系统发育树时间矫正
+
+目前，很多用系统发育树的方法推测被子植物的演化时间，认为被子植物的起源为三叠纪225百万年至240百万年前（Magalln,2010），这与起传粉作用的核心植食性鳞翅目昆虫的起源时间（约230百万年前）一致（Lietal.,2019）。由于无油樟目和睡莲目、核心被子植物五大分支之间的关系仍然没有完全解析，已有多个证据暗示核心被子植物祖先可能发生了快速辐射分化（Yang etal.,2020）。因此，在矫正过程中，以无油樟目为作为参考，不讨论它和睡莲目的关系，并且认为五大分支的分化时间尺度在同一个时间范围内。基于核心真双子叶植物共享的γ事件，时间范围为115-130 百万年（Million years ago，Mya），对 44个被子植物基因组（表1）进行了时间尺度矫正（图4）。从矫正后的时间尺度来看，被子植物在130 百万年前附近，单子叶植物、真双子叶植物、木兰类植物祖先都发生了快速辐射进化，与先前的结论一致（Zhang etal.,2020b）。此外，在早白垩世（130 百万年）时期，白垩纪-古新世( $\operatorname { \mathrm { . } K \mathrm { . } P g }$ ）边界时期（66百万年）和中新世（20百万年，靠近冰川期）很多被子植物发生了的多倍化事件，与先前的研究发现WGD的时间在被子植物的系统发育中并不是随机分布的结论一致（Wuetal.,2020）。
+
+尽管不同物种的进化速率数值显著不同，但是同一类群中的进化速率往往具有部分一致性。由矫正方法可知，矫正后的Ks峰应该相等。因此，Ks峰值越大，表明进化速率越快。对木兰类植物、真双子叶植物和单子叶植物与无油樟的Ks峰值的比较发现，木兰类植物（大多数为木本）进化速率最慢，真双子叶植物（大多数为灌木）次之，单子叶植物（大多数草本）进化速率最快（表3），这与多年生木本植物比草本植物的分子进化速率快的结论相符（Lanfearetal.,2013）。此外，对多倍化事件发生的时间与矫正前后的Ks峰值比较发现（图5），矫正前的Ks峰值与时间并不是线性关系。随着Ks峰值的增大，多倍化事件发生的时间并没有更古老。而矫正后的Ks峰值与时间成正比，因此，对Ks峰值进行矫正之后再估算物种演化事件的时间是十分必要的。
+
+![](images/03ecfa02ca439c9202d942b4183ba55f66e3be9c8e5b1d527fadd29aa6aeff6d.jpg)  
+图4时间矫正后的被子植物系统发育树
+
+![](images/a8bc0461b0505bb1fba1102aee0113aded592e561359bd838ee5770daf64ebf8.jpg)  
+Fig.4Angiosperm phylogenetic tree after time correction   
+图5矫正前后Ks峰值与时间的关系  
+Fig.5Relationship between Ks peaks and time before and after correction
+
+# 表1研究所用的44个被子植物及基因组数据来源
+
+Table 1List of the 44 angiosperms involved and the genome data sources   
+
+<html><body><table><tr><td>物种 Species</td><td>目 Order</td><td>科 Family</td><td>数据来源 Data source</td></tr><tr><td>无油樟</td><td>无油樟目</td><td>无油樟科</td><td>https://ftp.ncbi.nlm.nih.gov/geno mes/all/GCF/000/471/905/GCF</td></tr><tr><td>Amborella trichopoda</td><td>Amborellales 睡莲目</td><td>Amborellaceae</td><td>000471905.2_AMTR1.0/</td></tr><tr><td>蓝星睡莲 Nymphaea colorata</td><td>Nymphaeales</td><td>睡莲科 Nymphaeaceae</td><td>https://phytozome-next.jgi.doe.g ov/info/Ncolorata_v1_2</td></tr><tr><td>鹅掌楸</td><td>木兰目</td><td>木兰科</td><td>https://www.ncbi.nlm.nih.gov/ge</td></tr><tr><td>Liriodendron chinense</td><td>Magnoliales</td><td>Magnoliaceae</td><td>nome/45466</td></tr><tr><td>牛樟</td><td>樟目</td><td>樟科</td><td> https://www.ncbi.nlm.nih.gov/ge</td></tr><tr><td>Cinnamomum kanehirae</td><td>Laurales</td><td>Lauraceae</td><td>nome/57158</td></tr><tr><td>卷毛马兜铃</td><td>胡椒目</td><td>马兜铃科</td><td>https://ngdc.cncb.ac.cn/search/? dbId=gwh&q=Aristolochia&pag</td></tr><tr><td>Aristolochia fimbriata</td><td>Piperales</td><td>Aristolochiaceae</td><td>e=1</td></tr><tr><td>柳叶蜡梅</td><td>樟目</td><td>蜡梅科</td><td>hetme/w.gbi.mly</td></tr><tr><td>Chimonanthus salicifolius</td><td>Laurales</td><td>Calycanthaceae</td><td>_id=1651656</td></tr><tr><td>紫萍</td><td>泽泻目</td><td>天南星科</td><td>w</td></tr><tr><td>Spirodela polyrhiza</td><td>Alismatales</td><td>Araceae</td><td>polyrhiza&expanded=290</td></tr><tr><td>水稻</td><td>禾本目</td><td></td><td>https://phytozome-next.jgi.doe.g</td></tr><tr><td>Oryza sativa</td><td>Poales</td><td>禾本科 Poaceae</td><td>ov/info/Osativa_v7_0</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>菠萝 Ananas comosus</td><td>禾本目</td><td>凤梨科 Bromeliaceae</td><td>https://phytozome-next.jgi.doe.g ov/info/Acomosus_v3</td></tr><tr><td></td><td>Poales</td><td></td><td></td></tr><tr><td>椰子 Cocos nucifera</td><td>棕榈目</td><td>棕榈科</td><td>The genome draft of coconut (Cocos nucifera)</td></tr><tr><td></td><td>Arecales</td><td>Arecaceae</td><td></td></tr><tr><td>油棕 Elaeis guineensis</td><td>棕榈目</td><td>棕榈科</td><td>https://ftp.ncbi.nlm.nih.gov/geno mes/all/GCF/000/442/705/</td></tr><tr><td></td><td>Arecales</td><td>Arecaceae</td><td></td></tr><tr><td>小果野蕉 Musa acuminata</td><td>姜目</td><td>芭蕉科</td><td>https://www.ncbi.nlm.nih.gov/ge 0%93/HE8m-HE813975%E2%8</td></tr><tr><td></td><td>Zingiberales</td><td>Musaceae</td><td></td></tr><tr><td>鼓槌石斛</td><td>天门冬目</td><td>兰科</td><td>https://www.ncbi.nlm.nih.gov/ge nome/41833</td></tr><tr><td>Dendrobium chrysotoxumAsparagales</td><td></td><td>Orchidaceae</td><td></td></tr><tr><td>文竹</td><td>天门冬目</td><td>天门冬科</td><td>https://datadryad.org/stash/datas et/doi:10.5061/dryad.1c59zw3r</td></tr><tr><td>Asparagus setaceus</td><td>Asparagales</td><td>Asparagaceae</td><td>m</td></tr><tr><td>金鱼藻</td><td>金鱼藻目</td><td>金鱼藻科</td><td>https://genomevolution.org/CoG</td></tr><tr><td>Ceratophyllum demersum</td><td>Ceratophyllales Ceratophyllaceae</td><td></td><td>e/GenomeInfo.pl?gid=56569</td></tr></table></body></html>
+
+莲 山龙眼目 莲科 Nelumbonucifera Proteales Nelumbonaceae https://ftp.ncbi.nlm.nih.gov/geno mes/all/GCF/000/365/185/GCF 000365185.1_Chinese_Lotus_1.
+
+昆栏树 昆栏树目 昆栏树科 TrochodendronaralioidesTrochodendralesTrochodendraceae http://gigadb.org/dataset/view/id /100657/File_page/5
+
+洛杉矶楼斗菜 毛茛目 毛茛科 Aquilegia coerulea Ranunculales Ranunculaceae https://data.jgi.doe.gov/refine-do wnload/phytozome?organism $\scriptstyle 1 = \mathrm { A }$ coerulea&expanded $= 3 2 2$
+
+油蜡树 石竹目 油蜡树科 Simmondsiachinensis CaryophyllalesSimmondsiaceae https://ngdc.cncb.ac.cn/search/? dbId=gwh&q $\ c =$ GWHAASQ0000 0000
+
+中华猕猴桃 杜鹃花目 猕猴桃科 Actinidiachinensis Ericales Actinidiaceae ftp://www.whiteflygenomics.org /pub/kiwifruit/A chinensis/Red5 /v1.0/Red5_genome_v1.0.fa.gz 杜鹃 杜鹃花目 杜鹃花科 Rhododendronsimsii Ericales Ericaceae https://www.ncbi.nlm.nih.gov/ge nome?LinkName $$ bioproject_ge nome&from uid $\scriptstyle \lfloor = \ j$ 588298
+
+油橄榄 唇形目 木樨科 https://www.ncbi.nlm.nih.gov/ge Olea europaea Lamiales Oleaceae nome/?term $\circleddash$ Olea+europaea
+
+大星牵牛 茄目 旋花科 https://datadryad.org/stash/datas Ipomoea trifida Solanales Convolvulaceae et/doi:10.5061/dryad.b9m61cg 中粒咖啡 龙胆目 茜草科 https://www.ncbi.nlm.nih.gov/ge Coffea canephora Gentianales Rubiaceae nome/?term $\circleddash$ Coffea+canephora 红花 菊目 菊科 https://safflower.scuec.edu.cn/do Carthamus tinctorius Asterales Asteraceae wnload.html
+
+芹菜 伞形目 伞形科 http://celerydb.bio2db.com   
+Apium graveolens Apiales Apiaceae   
+葡萄 葡萄目 葡萄科 http://www.grapegenomics.com/ pages/VvCabSauv/download.ph   
+Vitis vinifera Vitales Vitaceae p   
+野黄瓜 葫芦目 葫芦科 https://figshare.com/articles/data set/Genome_assembly_of_Cucu   
+Cucumis hystrix Cucurbitales Cucurbitaceae mis_hystrix/13377671
+
+菜豆 豆目 豆科 https://www.ncbi.nlm.nih.gov/ge Phaseolus vulgaris Fabales Fabaceae nome/?term $\varXi$ Phaseolus+vulgaris 雷公藤 卫矛目 卫矛科 https://www.ncbi.nlm.nih.gov/ge Tripterygium wilfordii Celastrales Celastraceae nome/12874
+
+苹果 蔷薇目 蔷薇科 https://www.ncbi.nlm.nih.gov/ge Malus domestica Rosales Rosaceae nome/?term $\circleddash$ Malus+domestica
+
+表3部分核心被子植物与无油樟之间的Ks峰值  
+
+<html><body><table><tr><td>欧洲大叶杨 Populus trichocarpa</td><td>金虎尾目 Malpighiales</td><td>杨柳科 Salicaceae</td><td>https://www.ncbi.nlm.nih.gov/ge nome/?term=Populus+trichocarp a</td></tr><tr><td>垂枝桦 Betula pendula</td><td>壳斗目 Fagales</td><td>桦木科 Betulaceae</td><td>https://genomevolution.org/CoG e/GenomeInfo.pl?gid=35080</td></tr><tr><td>杨桃</td><td>酢浆草目</td><td>酢浆草科</td><td>https://ngdc.cncb.ac.cn/search/? dbId=gwh&q=GWHABKE0000</td></tr><tr><td>Averrhoacarambola</td><td>Oxalidales</td><td>Oxalidaceae</td><td>0000</td></tr><tr><td>可可树 Theobroma cacao</td><td>锦葵目 Malvales</td><td>锦葵科 Malvaceae</td><td>https://www.ncbi.nlm.nih.gov/ge nome/?term=Theobroma+cacao</td></tr><tr><td>大桉</td><td>桃金娘目</td><td>桃金娘科</td><td>https://www.ncbi.nlm.nih.gov/ge</td></tr><tr><td>Eucalyptus grandis</td><td>Myrtales</td><td>Myrtaceae</td><td>nome/?term=Eucalyptus+grandi S</td></tr><tr><td>漾濞槭</td><td>无患子目</td><td>无患子科</td><td>http://gigadb.org/dataset/100610</td></tr><tr><td>Acer yangbiense</td><td>Sapindales</td><td>Sapindaceae</td><td></td></tr><tr><td>珙桐 Davidia involucrata</td><td>山茱萸目</td><td>蓝果树科</td><td>https://ngdc.cncb.ac.cn/search/? dbId=gwh&q=%20PRJCA0017</td></tr><tr><td></td><td>Cornales</td><td>Nyssaceae</td><td>21&page=1</td></tr><tr><td>伯乐树 Bretschneidera sinensis</td><td>十字花目 Brassicales</td><td>叠珠树科 Akaniaceae</td><td>https://www.ncbi.nlm.nih.gov/ge nome/?term=GCA_018105755.1</td></tr><tr><td>连香树 Cercidiphyllum japonicum Saxifragales</td><td>虎耳草目</td><td>连香树科 Cercidiphyllaceae 8</td><td>https://doi.org/10.1111/nph.1679</td></tr><tr><td>四金us siflius</td><td>金兰ales</td><td>金菜兰accae</td><td>212/ioi</td></tr><tr><td>参薯</td><td>薯目</td><td>薯蓣科</td><td>enome/tree/main/Annotation https://phytozome-next.jgi.doe.g</td></tr><tr><td>Dioscorea alata</td><td>Dioscoreales</td><td>Dioscoreaceae</td><td>ov/info/Dalata_v2_1</td></tr><tr><td>芒苞草 Acanthochlamys bracteata Pandanales</td><td>露兜树目</td><td>翡若翠科 Velloziaceae</td><td>https://www.ncbi.nlm.nih.gov/ge nome/?term=PRJNA703828</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td> Buxus austroyunnanensis</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>黄杨目</td><td></td><td></td></tr><tr><td></td><td></td><td>黄杨科</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>滇南黄杨</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>https://datadryad.org/stash/datas</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Buxales</td><td>Buxaceae</td><td>et/doi:10.5061/dryad.cjsxksn6d</td></tr></table></body></html>
+
+Table 3Ks peaks between some species of Mesangiospermae and Amborella trichopoc   
+
+<html><body><table><tr><td>核心被子植物 Mesangiospermae</td><td>物种 Species</td><td>峰值 Ks peaks</td><td>平均值 Average values</td></tr><tr><td rowspan="2">真双子叶植物 Eudicots</td><td>昆栏树 Trochodendronaralioides</td><td>1.671</td><td rowspan="2">1.743</td></tr><tr><td>连香树 Cercidiphyllum japonicum</td><td>1.700</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="3"></td><td>滇南黄杨 Buxus austroyunnanensis</td><td>1.750</td></tr><tr><td>葡萄 Vitis vinifera</td><td>1.804</td></tr><tr><td>洛杉矶楼斗菜 Aquilegia coerulea</td><td>1.789</td></tr><tr><td rowspan="4">木兰类植物 Magnoliids</td><td>鹅掌楸 Liriodendronchinense</td><td>1.628</td></tr><tr><td>牛樟 Cinnamomum kanehirae</td><td>1.642 1.651</td></tr><tr><td>柳叶蜡梅</td><td>1.684</td></tr><tr><td>Chimonanthus salicifolius</td><td></td></tr><tr><td rowspan="9">单子叶植物 Monocots</td><td>水稻 Oryza sativa</td><td>2.273</td><td></td></tr><tr><td>紫萍</td><td></td><td></td></tr><tr><td>Spirodela polyrhiza</td><td>2.210</td><td></td></tr><tr><td>椰子 Cocos nucifera</td><td>1.834</td><td></td></tr><tr><td>菠萝</td><td></td><td>2.082</td></tr><tr><td>Ananas comosus</td><td>2.106</td><td></td></tr><tr><td>芒苞草</td><td></td><td></td></tr><tr><td>Acanthochlamys bracteata</td><td>2.117</td><td></td></tr><tr><td>参薯</td><td></td><td></td></tr><tr><td></td><td>Dioscorea alata</td><td>1.950</td></tr></table></body></html>
+
+# 3讨论与结论
+
+长期以来，估算被子植物演化的时间尺度主要是基于分子钟假设，然而分子进化异速现象的广泛存在严重影响其准确性，Wang 等人提出的基于Ks分布的矫正方法，获得了令人信服的时间尺度。该文对获取Ks分布三种常见的方式进行了比较分析，明确了通过提取共线性区块上Ks值的中位数更能代表真实的Ks峰值。还进一步解析Ks分布中常见的长尾现象，模拟结果表明基因的进化速率不是相对恒定的，它并非等速进行。当假设进化速率不是相对恒定的，而是符合正态分布的时候，Ks分布出现了有明显的长尾现象，但这并不影响提取到的Ks峰值的准确性。先前的研究表明，当Ks值大于1时，容易受到饱和效应的影响，而且随着Ks 值增大，这种效应越明显（Vanneste etal.,2013）。模拟的Ks 峰值范围接近于1，随着Ks峰值增大，估计的Ks峰值可能会受到饱和效应的影响。
+
+本研究还详细描述了基于Ks峰值的矫正方法的矫正过程。先前的研究只对共享多倍化和共享早期分化两种情况分开进行了描述，这是首次全面的描述，有助于深入理解和传播。基于该方法，还对44个高质量的被子植物基因组演化事件的时间尺度进行了重新估计，估计结果与近期发表的时间尺度基本一致（Lietal.,2019；Wuetal.,2020）。结果还表明被子植物基因组的进化速率差异显著，但不同分支间的进化速率仍具有一致性。而且不同谱系的被子植物具有同步的辐射进化和适应性进化现象。随着更多高质量的被子植物基因组的公布和有效化石年份的准确测定，被子植物演化的时间尺度会越来越清晰，更有利于植物系统发育的构建和更深层次的理解物种的演化历程。
+
+# 参考文献：
+
+DONOGHUE PC,YANG Z， 2016. The evolution of methods for establishing evolutionary timescales[J]. Phil Trans Roy Soc B: Biol Sci, 371(1699).   
+HUG LA,ROGER AJ,2007. The impact of fossils and taxon sampling on ancient molecular dating analyses[J]. Mol Biol Evol, 24(8): 1889-1897.   
+JIAO Y, WICKETT NJ, AYYAMPALAYAM S, et al., 2011. Ancestral polyploidy in seed plants and angiosperms[J]. Nat, 473(7345): 97-100.   
+KRESS WJ, SOLTIS DE, KERSEY PJ, et al., 2022. Green plant genomes: What we know in an era of rapidly expanding opportunities[J]. Proc Nat Acad Sci, 119(4).   
+LANFEAR R, HO SYW, JONATHAN DAVIES T, et al., 2013. Taller plants have lower rates of molecular evolution[J]. Nat Comm, 4(1): 1879.   
+LANFEAR R, WELCH JJ, BROMHAM L,2010. Watching the clock: studying variation in rates of molecular evolution between species[J]. Trend Ecol Evol, 25(9): 495-503.   
+LI HT, YI TS, GAO LM, et al., 2019. Origin of angiosperms and the puzzle of the Jurassic gap[J]. Nat Plant, 5(5): 461-470.   
+LI L，STOECKERT CJ，ROOS DS,2003. OrthoMCL: identification of ortholog groups for eukaryotic genomes[J]. Genome Res, 13(9): 2178-2189.   
+LUO A, DUCHENE DA, ZHANG C, et al., 2020. A simulation-based evaluation of tip-dating under the fossilized birth-death process[J]. Syst Biol, 69(2): 325-344.   
+LUO J, ZHANG YP, 2000. Molecular clock and its existing problems[J]. Acta Anthropol Sinica, 19(2):151-159.[罗静，张亚平，2000．分子钟及其存在的问题[J]．人类学学报，19(2): 151-159.]   
+MAGALLON S, 2010. Using fosils to break long branches in molecular dating: a comparison of relaxed clocks applied to the origin of angiosperms[J]. Syst Biol, 59(4): 384-399.   
+REN R, WANG H, GUO C, et al., 2018. Widespread whole genome duplications contribute to genome complexity and species diversity in angiosperms[J]. Mol Plant, 11(3): 414-428.   
+SHANG J, TIAN J, CHENG H, et al.,2020. The chromosome-level wintersweet (Chimonanthus praecox) genome provides insights into floral scent biosynthesis and flowering in winter[J]. Genome Biol, 21(1): 1-28.   
+SILVESTRO D, BACON CD, DING W, et al., 2021. Fossil data support a pre-Cretaceous origin of flowering plants[J]. Nat Ecol Evol, 5(4): 449-457.   
+SMITH SA,DONOGHUE MJ, 2008. Rates of molecular evolution are linked to life history in flowering plants[J]. Sci, 322(5898): 86-89.   
+SONG X， SUN P, YUAN J，et al.， 2021. The celery genome sequence reveals sequential paleo-polyploidizations, karyotype evolution and resistance gene reduction in apiales[J]. Plant Biotechnol J, 19(4): 731-744.   
+SONG X, WANG J，LI N,et al.， 2020. Deciphering the high-quality genome sequence of coriander that causes controversial felings[J]. Plant Biotechnol J,18(6): 1444-1456.   
+SUN P, JIAO B, YANG Y, et al., 2021. WGDI: a user-friendly toolkit for evolutionary analyses of whole-genome duplications and ancestral karyotypes[J]. BioRxiv. https://doi.0rg/10.1101/2021.04.29.441969.   
+TANG H，WANG X，BOWERS JE，et al.， 2008.Unraveling ancient hexaploidy through multiply-aligned angiosperm gene maps[J]. Genome Res,18(12): 1944-1954.   
+TANG XH, LAI XL, ZHONG Y,2002. Molecular clock hypothesis and fosil record[J]. Earth Sci Front,9(2):465-474.[唐先华，赖旭龙，钟扬，等，2002．分子钟假说与化石记录［J]．地 学前缘，9(2):465-474.]   
+VANNESTE K, VAN DE PEER Y, MAERE S, 2013. Inference of genome duplications from age distributions revisited[J]. Mol Biol Evol, 30(1): 177-190.   
+WANG J, SUN P,LI Y, et al., 2018.An overlooked paleotetraploidization in Cucurbitaceae[J]. Mol Biol Evol, 35(1): 16-26.   
+WANG J, SUN P, LI Y, et al., 2017. Hierarchically aligning 10 legume genomes establishes a family-level genomics platform[J]. Plant Physiol, 174(1): 284-300.   
+WANG J，YUAN J，YU J,et al.，2019.Recursive Paleohexaploidization shaped the durian genome[J]. Plant physiol, 179(1): 209-219.   
+WANG S, XIAO Y, ZHOU ZW, et al.， 2021. High-quality reference genome sequences of two coconut cultivars provide insights into evolution of monocot chromosomes and differentiation of fiber content and plant height[J]. Genome Biol, 22(1): 1-25.   
+WANG X, GUO H, WANG J, et al., 2016. Comparative genomic de-convolution of the cotton genome revealed a decaploid ancestor and widespread chromosomal fractionation[J]. New Phytol, 209(3): 1252-1263.   
+WANG X, WANG J, JIN D, et al., 2015. Genome alignment spanning major Poaceae lineages reveals heterogeneous evolutionary rates and alters inferred dates for key evolutionary events[J]. Mol Plant, 8(6): 885-898.   
+WU S,HAN B, JIAO Y, 2020. Genetic contribution of paleopolyploidy to adaptive evolution in angiosperms[J]. Mol Plant, 13(1): 59-71.   
+YANG Y, SUN P,LVL, et al., 2020. Prickly waterlily and rigid hornwort genomes shed light on early angiosperm evolution[J]. Nat Plant, 6(3): 215-222.   
+YANG Z, 2007.PAML 4: phylogenetic analysis by maximum likelihood[J]. Mol Biol Evol, 24(8): 1586-1591.   
+ZHANG L, CHEN F, ZHANG X, et al., 2020a. The water lily genome and the early evolution of flowering plants[J]. Nat, 577(7788): 79-84.   
+ZHANG L，WU S, CHANG X,et al.，2020b. The ancient wave of polyploidization events in flowering plants and their facilitated adaptation to environmental stressJ]. Plant Cel Environ, 43(12): 2847-2856.   
+ZHUANG W, CHEN H, YANG M, et al.,2019. The genome of cultivated peanut provides insight into legume karyotypes，polyploid evolution and crop domestication[J]. Nat Genet, 51(5): 865-876.

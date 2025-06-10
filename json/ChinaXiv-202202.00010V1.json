@@ -1,0 +1,349 @@
+[
+    {
+        "type": "text",
+        "text": "社会不平等如何影响低地位者的系统合理信念",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张跃」丁毅」　杨沈龙²　解晓娜」　郭永玉1(」南京师范大学心理学院，南京 210097)（² 西安交通大学人文社会科学学院社会心理学研究所，西安710049）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要社会不平等可能减弱或增强低地位者的系统合理信念，两种关系分别由自利动机与系统合理化动机驱动。同时，两种关系还依赖于低地位者对社会不平等的认知，即现实威胁与象征威胁。凸显不平等在个体或群体水平的现实威胁激活其自利动机，进而使其反对系统现状(即减弱路径);凸显不平等在系统水平的象征威胁激活其系统合理化动机，进而使其维护系统现状(即增强路径)。这一双路径模型为解释当前理论争议提供了一种整合框架，需要未来研究进一步检验和发展。关键词社会不平等，系统合理信念，系统合理化动机，自利动机，社会治理",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“不患寡而患不均”表达了人们对社会不平等的忧患意识。近30年前，系统合理化理论却提出，在不平等更极端（而非平等）的社会中，人们（甚至是低地位者）反而更可能“合理化不平等”，表现出更高的系统合理信念（system-justifying belief; Jost &Banaji,1994; Jost et al.,2004)。这一看似反直觉的观点试图揭示种种“不患不均”的社会心理现象（Costa-Lopes etal.,2013;Jost etal.,2015)：很多研究发现，不平等并不总是引起低地位者的不满（Bucheletal.,2021)；他们反而可能容忍，甚至支持不平等的现状（Cheung,2016；怀默霆，2009)。当然，这一观点也受到很多挑战（Brandt,2013;Trump＆White,2018)：类似法国“黄马甲运动”等的抗议活动（Luders etal.,2021)，以及因不平等而衍生的层出不穷的群体性事件（Kunst&Obaidi,2020;Power etal.,2020)，似乎更支持社会认同理论等经典理论的观点，即不平等会促使低地位者寻求改变（而非合理化）现状。那么，不平等究竟是会增强、还是减弱低地位者的系统合理信念？时至今日，不断增长的经济不平等被认为是世界范围内的严峻社会问题之一（Wilkinson&Pickett2017；汤普森，2020)，加之“不平衡不充分的发展”制约着民众实现美好生活的需要（许宪春等，2019)，因此有必要探讨两者的关系及其内在机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "接下来，本文将首先回顾两种“对立”的理论及其实证研究，继而分析解决理论分歧的方向。面对分歧，本文倾向于认为，两种理论其实并不矛盾，而是共同解释了不平等影响低地位者系统合理信念的“全貌”。换言之，问题并不单纯是不平等“增强还是减弱”低地位者的系统合理信念，而在于分析两种观点成立的不同条件（即认知基础）及其内在机制（即动机基础)。对后者的探讨将有助于我们在当前社会心理建设工作中更加有的放矢（杨玉芳，郭永玉，2017)。需要说明的是，系统合理信念这一概念源于系统合理化理论。然而，作为一个多学科的社会科学概念，它有着丰富的内涵和外延，早在系统合理化理论诞生以前即已被广泛探讨。以往研究在探讨社会不平等对系统合理信念的影响时，其因变量指标也并不局限于“系统合理信念”概念本身，而且还包括支持和维护现有社会系统（如政治信任、社会公平感等）以及反对改变现有社会系统（如支持现有不平等，反对再分配等）等相关指标。因此，本文采用一种更广义的界定，将其解读为人们对社会系统公正性、合理性、正当性的感知，以及相应的支持和维护社会系统的态度（Kay&Jost,2003）1。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2不平等损害低地位者的系统合理信念：理论观点与实证依据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1理论观点 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "个体的心理和行为需要服务于自我利益（self-interest)。这种自利动机既体现为个体对财富、权利、福祉等物质利益的追求（Sears&Funk,1991)，也体现在个体对积极自我形象、自尊等的维护(Hogg,2016)。在社会态度的形成过程中，人们往往基于自我利益的考量，习得或塑造对自我及内群体有利的态度（Darke＆Chaiken,2005)。基于这种“自利取向”，社会认同理论、现实群体冲突理论、社会支配理论等认为，自利动机驱使不同地位者在社会分层系统中形成相应的适应策略（Lee etal.,2011;Wilkinson&Pickett,2017)。对于低地位者而言，严重的不平等与他们维护自我和内群体利益的动机相冲突，进而会使他们反对不平等的社会现状，表现出较低的系统合理信念。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可见，在自利取向的理论看来，人们在社会分层系统中基于自身所处的社会位置，形成对不平等现状的支持态度（Lee etal.,2011)。具体而言，现实群体冲突理论（Realistic group conflict theory）认为，人们会努力最大化与其社会位置及群体身份相关的收益、最小化与之相关的损失（King etal,2010）。类似地，社会支配理论（Social dominance theory）提出，高地位者为了维持自我和内群体的优势地位倾向于维持和扩大不平等，而低地位者则倾向于改变和减小不平等，以改善自我和内群体的不利处境（Pratto etal.,2006)。这种观点在人们对公共政策的不同态度中得到印证。例如，与社会经济地位较高的优势群体相比，弱势群体成员更可能支持有利于减小不平等、提升自我利益的再分配政策（白洁等，2021)。社会认同理论（Socialidentitytheory）较为系统地阐释了低地位者应对不平等的心理与行为反应（Hogg,2016)。严重的不平等不利于低地位者维持积极的自我概念与身份归属，当他们认识到不平等的群际边界可以渗透时，可以通过个人策略（如，向上阶层流动）来提升自己的地位；而当他们认识到不平等的群际边界不可渗透时，则可能通过社会创造策略（如，向下比较）来维护自尊，甚或选择社会竞争策略（如，集群行为）来反抗不公（Akfirat etal.,2016)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述理论勾画了社会不平等与低地位者系统合理信念的负向关系，相对剥夺理论（Relativedeprivationtheory）则进一步深入地解释了影响两者关系的心理过程。根据该理论，不平等现状会激活社会比较的认知过程，使低地位者意识到自身（或内群体）不应得的相对弱势地位，由此带来的相对剥夺体验进一步激活愤怒情绪，并最终发展为反对不平等现状的心理与行为反应（Smith et al,2012; Smith&Pettigrew,2014)。很多实证研究表明，日益加剧的经济不平等会增强社会比较，提升人们对社会竞争的感知（Buttrick＆Oishi,2017），继而成为产生相对剥夺感的“温床”（Osbome etal.,2015; Sanchez-Rodriguez etal.,2019)。作为一种应对不平等的适应策略，这种个体或群体层面的相对剥夺感反过来成为低地位者反抗不平等现状的动因机制（Kunst&Obaidi,2020;Power et al.,2020;张书维等，2012）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2实证依据 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自利取向的观点为人类社会反对不平等现状的客观现象提供了理论解释。实证研究中，研究者们主要基于以下三种思路探讨不平等对低地位者系统合理信念的影响。第一，在不平等背景下，通过考察社会经济地位与系统合理信念的关系，证实低地位者比高地位者系统合理信念更低（e.g.,Leeetal.,2011；杨沈龙等,2016)；第二，考察不平等与社会经济地位的交互效应，侧重于不平等的调节效应，即高、低不平等条件下社会经济地位与系统合理信念的关系，证实高不平等加剧系统合理信念的地位差异（e.g.,Li&Hu,2021)；第三，同样是考察不平等与社会经济地位的交互效应，但侧重于社会经济地位的调节效应，即不平等程度对高、低地位者系统合理信念的损害作用（Curtis &Andersen,2015)。根据系统合理信念指标的不同，以往研究则主要聚焦于分配公平感、机会公平感、政治信任、集群行为等方面。这些研究为自利取向的观点提供了实证依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "例如，Lee等（2011）的一项元分析研究发现，在社会分层中处于相对弱势地位的群体成员（如女性、低权力种族的成员）比优势地位群体成员（如男性、高权力种族的成员）表现出更低的社会支配倾向，即更反对群体层面的不平等。基于世界价值观调查数据库，Curtis 和 Andersen（2015）发现，在收入不平等程度较低的社会中，那些在不平等中更容易损失利益的工人阶级往往也更反对不平等；而随着不平等程度的提高，社会中的中产阶级也会和工人阶级一样倾向于减少不平等；并且，即使人们认为当前的不平等现状总体上是合理的，如果自己的经济地位能够得到改善，他们也更希望减少不平等（也见Garcia-Castro etal.,2020)。除了分配公平感与不平等态度，社会不平等对系统合理信念的损害作用还体现在其对机会公平感的影响（McCalletal.,2017;Newman et al.,2015）。近期Li和Hu（2021）基于中国家庭追踪调查数据库分析发现，在社会经济发展水平较低且经济不平等程度较高的地区，低地位者比高地位者持有更低的优绩主义信念（Meritocracy belief; Son Hinget al.,2011)，即更不相信凭借个人努力和能力可以获得成功；相反，在社会经济发展水平较高且经济不平等程度较低的地区，低地位者却比高地位者更相信成功是努力和能力的结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，来自政治心理学的研究也发现，社会不平等还会显著降低政治信任等系统合理信念。例如，基于2011年“拉丁美洲晴雨表调查”（the Latino barometer survey），Zmerli 和 Castillo（2015）对18个国家分析发现，宏观层面的经济不平等（Gini系数）和微观层面个体对收入分配的不公正感知均会显著降低人们的政治信任（也见 Goubin& Hooghe,2020; Guinjoan&Rico,2018)。类似地，赵晓航和李建新（2017）通过对“中国家庭追踪调查”2012年数据进行分析发现，贫富差距感知会显著降低边缘中产阶层和高学历群体的干部信任水平和政府绩效评价。在行为层面，不平等对系统合理信念的影响直观地体现为反对不平等现状的集群行为与抗议活动。2018年末，政府加征燃油税点燃了法国民众对收入差距等社会矛盾的不满，引发了“黄马甲运动”（theFrench Yellow Vestsmovement)。Luders 等（2021）通过对法国民众的调查研究发现，普遍蔓延的相对剥夺感以及由此带来的民粹主义（populism）意识形态，是人们参与支持“黄马甲运动”的深层心理诱因。“黄马甲运动”是西方社会反对不平等现状的一个缩影，其背后的心理机制（即相对剥夺感）也成为很多弱势群体走向极端暴力主义的推手（Sidanius etal.,2015;Kunst& Obaidi,2020）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3不平等增强低地位者的系统合理信念：理论观点与实证依据",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1理论观点 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在自利取向的理论看来，人们为了维护自我和内群体利益，主要基于自身所处的社会位置形成对社会不平等的适应策略（Lee etal.,2011)。然而，也有很多研究发现，低地位者反而会容忍甚至支持不平等的社会现状（Cheung,2016；怀默霆，2009)。研究者们认识到，维护自我及其所在群体的利益固然重要，但人的心理与行为还会受到固有价值观念的影响，后者的作用往往更大（Sears&Funk,1991)。这些价值观念反映了人们关于“应然”（oughttobe）世界的看法。当低地位者面对不平等、不公正的“实然”（tobe）现状时，内心的冲突就产生了——它一方面来源于“实然”现状与自我利益的冲突，另一方面来源于“实然”现状与“应然”价值的不一致。对此，“自利取向”提供的“理性方案”是提升自我地位或改变社会现状，以维护自我与内群体利益；而“价值取向”的理论认为还存在一种“非理性方案”，即人们会改变对现状的认知（而非改变现状)，以维护价值观念。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "公正世界信念理论（Beliefin a just world theory）较早探讨了人们应对不公正、不平等的非理性反应。该理论认为维持“公正感”是人的一种基本需要，即人们需要相信人人“得其所应得”，而“应得”意味着人们能够并且应该掌控自己的命运（Lermer,1980)。显然，公正世界信念具有积极的心理意义，它使人们相信所在世界不仅是确定的、可预测的，同时也是公平、公正的。不过，这种被称为“根本错觉”（fundamentaldelusion）的动机倾向也带来了“双刃剑”效应（周春燕，郭永玉，2013）一一当面对不公正事件时，人们的公正信念受到威胁；为了缓解这种威胁带来的痛苦体验，人们可能会对不公正事件的起因、结果重新进行解释，以维护认知层面的公正感知，这种认知过程被称为对现状的“合理化”。大量关于“责备受害者\"的现象与实证研究为这一非理性反应提供了依据（Hafer& Bégue,2005）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "公正世界信念理论极大地启发了John T.Jost和他的同事们（Jost etal.,2015)，后者在从事刻板印象领域的研究时，提出了系统合理化理论（System justification theory; Jost& Banaji,1994)。该理论同样认为存在一种合理化动机；但它扩展了“公正世界”的边界，并将其具体到人们身在其中、广受影响的各类“系统”。具体而言，该理论认为存在一种普遍的、维护系统公正性、合理性、正当性的“系统合理化动机”（systemjustification motivation），使人们维护、合理化和支持现状的各个方面，包括当下的社会、经济和政治系统、制度和安排，甚至不惜以自我和内群体利益为代价（Jost&Banaji,1994; Costa-Lopes et al.,2013)。在理论发展之初，这种系统合理化动机独辟蹊径地回答了低地位者的“外群体偏爱”现象。不同于社会认同理论局限于个体、群际层面的微观视角，系统合理化理论认为低地位者的相对弱势处境除了与其自我和内群体利益相冲突，还与其关于系统公正性、合理性、正当性的信念相冲突；此时，当自利动机不凸显或强度较低时，他们为了缓解这些冲突带来的认知失调体验，反而会表现出更强的系统合理化动机，继而更加容忍，甚至支持不平等的现状（Jost et al.,2004)。该理论进而提出，在不平等程度更高（而非更低）的社会中，这种冲突体验更大，人们（甚至是低地位者）的系统合理化动机也会更强（Jost et al.,2004;Jost et al.,2015）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2实证依据 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "低地位者是否会合理化不平等，进而更支持社会系统呢？一些研究为此提供了实证依据（Jostetal.,2015;Malahy etal.,2009)。Yoshimura 和Hardin（2009）通过考察日本人对美日地缘政治关系的态度，表明凸显不平等的弱势地位会增强他们的系统合理信念。他们首先通过实验法操纵了日本在美日关系中的弱势（或优势）地位，即请被试撰写一段文字，描述日本或日本文化与美国相比的弱势（或优势）之处；然后测量了被试对日本、美国的积极政治态度。结果发现，当凸显日本的弱势地位时，意识形态更保守的被试表现出更强的外群体偏爱，即对不平等的美日地缘政治关系表现出更强的合理化倾向。VanderToom等（2015）的系列研究提供了更直接的证据，他们发现，即使面对较高程度的不平等现状（即种族、经济、性别、权力不平等)，在权力分层中处于弱势的人们更可能支持不平等。近期，Jost及其同事通过系列研究进一步证实，面对经济不平等相关的信息，具有较高（而非较低）经济系统合理信念的被试表现出更少的不平等厌恶（Goudarzi et al.,2020；也见Friedman & Sutton,2013）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Malahy等（2009）的研究将这些发现从实验室扩展到了现实情境。他们通过对1975年至2006年的 31个独立研究（共6120名被试）进行元分析发现，随着时间的推移，人们的公正世界信念分数显著提升，且这种提升与收入不平等的扩大呈正相关；即使在控制了收入、政治意识形态等额外因素后，该结果仍然稳健（也见Caricati&Lorenzi-Cioldi,2012）。Solt等（2016）通过对一项美国全国调查研究进行分析，发现与生活在收入分配相对平等的地区的美国人相比，生活在经济不平等程度较高的地区的美国人反而表现出更高的优绩主义信念，更相信努力工作可以获得成功。Buchel等（2021）的研究也提供了支持证据。他们基于“国际社会调查项目”数据库，通过对来自28个国家的近50000名受访者的数据进行分析发现，在不平等程度（基尼系数）更高的地区，家庭收入越低，受访者越同意“收入差距是国家繁荣所必需的”，越不同意“国家的收入差距太大”，即表现出更高的系统合理信念。Zmerli和Castillo（2015）也发现，宏观层面的经济不平等会降低（而非增强）分配不公正感对政治信任的损害作用；悖论的是，主观社会阶层越低，分配不公正感对政治信任的损害效应反而越弱（也见 Lee et al.,2020)。类似地，基于2012 年中国家庭追踪调查数据，Cheung（2016）发现，中国农村地区的经济不平等（即农村地区的基尼系数）会正向预测农村居民的生活满意度（也见 怀默霆，2009)。可见，来自国内外的上述研究表明，面对不平等，低地位者的确会表现出合理化不平等的非理性反应。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不过，也有一些研究并未证实系统合理化理论的观点，甚至发现了相反的证据（e.g.,Brandt,2013）。例如，Trump 和White（2018）在实验中首先操纵了经济不平等程度，然后测量了被试的系统合理信念（包括三个指标，即一般系统合理信念，机构信任，和经济系统合理信念)；结果发现，经济不平等对一般系统合理信念和机构信任无显著影响，但显著负向预测经济系统合理信念；并且，该研究也并未证实经济不平等使穷人比富人表现出更高的系统合理信念。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4对立与整合：解决“分歧”的方向",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "至此，我们呈现了不平等影响低地位者系统合理信念的两种“对立”观点及其实证依据。可以看到，社会认同理论等自利取向的理论基于个体或群际视角，认为自利动机促使低地位者反对不平等现状；而系统合理化理论则站在更为宏观的视角，指出自利动机的局限性，并认为系统合理化动机驱使低地位者合理化不平等。在实证研究中，两种理论取向分别得到了一些研究的支持，但同时也面临着很多质疑。如何面对两种理论取向的分歧？又如何看待它们对于客观现实的解释力？以往研究至少提供了两种研究思路，为探讨这一问题提供了方向；同时，我们也尝试提出第三种思路。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1对立视角下的第一种思路",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第一种思路是基于理论对立的视角，采用更大更广泛的样本或元分析的方法，直接检验两种理论观点；同时，也尝试关注是否存在潜在的边界条件。例如，Vargas-Salfate等（2018）采用大样本跨文化调查研究，通过对来自美洲、西欧、东欧、亚洲、大洋洲共19个国家的14936名被试，检验了国家层面的经济不平等（基尼系数）是否调节社会经济地位与系统合理信念之间的关系，结果发现收入与基尼系数存在显著的交互效应，在不平等程度更高的国家，收入越低则系统合理信念越高。这一发现事实上证实了系统合理化理论的观点。不过，Brandt（2013）的研究发现了不一致的结论。他对三个有代表性的数据库（美国全国选举研究、美国一般社会调查及世界价值观调查)进行分析，采用多种指标测量不平等程度（基尼系数、性别不平等指数）、社会经济地位（收入、受教育程度、阶层、性别、种族）和系统合理信念（政府信任，对社会机构的信心)，研究发现，不平等并未显著增强人们的系统合理信念；在高不平等条件下，也没有足够的证据表明低地位者会比高地位表现出更高的系统合理信念（也见 Curtis&Andersen,2015;Li&Hu,2021)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于这种不一致的发现，Garcia-Sanchez等（2021）基于认知失调理论提出，“对不平等的合理化”更可能发生在更平等、更民主的社会中。因为在这种社会情境中，穷人有更多的机会获得成功；而“不平等”更可能带来认知失调体验，从而使人们有更强的需要来合理化不平等。然而，这一观点同样也面临挑战，Lee 等（2011）的研究提供了与之相反的证据。通过对发表于1992年至 2009 年之间的118篇研究报告（含25篇未发表研究）进行元分析，他们发现，在更平等（而非不平等）的社会中，社会地位（性别、种族）与社会支配倾向的正向关系反而更强，即在更平等的社会环境中低地位者并未表现出更强的系统合理化动机。可见，当前研究对于两种理论观点远未达成共识，也预示着未来研究需要深入探讨其他可能的边界机制。值得追问的是，采用对立视角争论何种观点为“正确”能否把握不平等与系统合理信念关系的全貌与本质？鉴于目前研究并未得到一致的结论，因此这一研究方向对于回答理论争议仍显乏力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2整合视角下的第二种思路",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第二种思路是基于理论整合的视角，同时关注自利动机与系统合理化动机在不平等与低地位者系统合理信念关系中的作用，并强调系统合理化动机影响着自利动机及其心理与行为后效。例如，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Osbome,Garcia-Sanchez 和 Sibley（2019）的“不平等与相对剥夺的宏观一微观模型”即是一种尝试。该模型认为，宏观维度的社会不平等会增强社会比较过程，由此激活的相对剥夺感对个体的微观心理体验（如，自尊、认同、集群行为等）产生影响；同时，该模型认为系统合理化动机能够对这一“宏观一微观”互动过程起到调节作用，较高的系统合理化动机能够减弱相对剥夺所带来的消极心理结果。Osbome和 Sibley（2013）的发现为这一模型提供了支持。他们基于“新西兰态度与价值观调查数据库”共6886个样本研究发现，群体相对剥夺正向预测旨在矫正不平等现状的政治动员（politicalmobilization)，不过系统合理化动机在两者关系中起到调节作用，即系统合理化动机会减弱相对剥夺感与矫正不平等意愿的联系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "类似地，Jost等（2017）在“集群行为的社会认同模型”基础上，提出了影响集群行为的另一种整合模型。该模型在关注自利动机（即内群体认同）的同时，引入系统合理化动机，旨在揭示人们何时参与（或不参与）反对（或维护）社会系统的集群行为。在此之后，Osbome,Jost等（2019）进一步细化并考察了该模型的观点：系统合理化动机使人们更不支持“反对系统的集群行为”、更支持“维护系统的集群行为\"；并且，对于低地位者，系统合理化动机可通过抑制其自利动机（即内群体认同）、群际不公正感、群体愤怒，进而使其更不支持反对系统的集群行为、更支持维护系统的集群行为。基于“2019年新西兰态度与价值观调查”（共16147名被试，分别以欧洲裔和毛利人为高、低地位群体)，以及一项美国在线调查研究（共1513名被试，分别以白种人和黑种人为高、低地位群体)，他们检验并验证了这一观点。上述两种理论模型不同于以往研究仅关注某一种动机的单一视角，将自利动机与系统合理化动机整合考量，弥补了以往研究单纯依赖自利动机解释集群行为的片面观点。不过，无论是将系统合理化动机作为一种调节变量（Osborne,Garcia-Sanchez,& Sibley,2019)，还是将其作为影响自利动机的一种前因变量（Jost etal.,2017;Osbome,Jost,etal.,2019)，均是强调系统合理化动机对自利动机及其心理与行为后效的抑制作用，并未全面地揭示两种动机的相互影响及其作用机制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3第三种思路：社会不平等影响低地位者系统合理信念的双路径模型",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "考虑到当前研究中第一种研究思路并未得到一致的结论，而第二种研究思路着重强调系统合理化动机对自利动机及其后效的影响，因此这两种研究方向并未有效、全面地回答理论争议。与之不同，本文认为自利取向理论与系统合理化理论其实并不矛盾，而是分别聚焦于个体（群体）水平与系统水平、共同解释了不平等影响低地位者系统合理信念的“全貌”。在具体研究方面，有必要从以下几个方面进一步推进：（1）以往研究仅在单一维度关注不平等“量”的程度（即高不平等与低不平等）及其与系统合理信念的线性关系，本文认为还应关注不平等“质”的差异及其不同效应；（2）以往研究采用对立视角考察自利动机与系统合理化动机，或是过于强调二者之一的作用；本文认为，自利动机与系统合理化动机相互之间并非全或无的关系，而是分别解释和驱动了不平等与系统合理信念的不同关系；并且，（3）关注不平等“质”的差异将有助于厘清两种动机如何发挥作用。因此，理论争议的焦点或许不在于不平等究竟增强还是减弱低地位者的系统合理信念，而在于分析不平等增强或减弱低地位者系统合理信念的不同条件（即认知基础）及其内在机制（即动机基础)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3.1认知基础：不平等的现实威胁与象征威胁 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在何种条件下，不平等会增强或减弱低地位者的系统合理信念？以往研究主要探讨“不平等”与“系统合理信念”的线性关系。但这种研究思路忽视了“不平等”本身对于人们的心理意义；而人们如何对系统现状进行判断，很大程度上会取决于人们如何认知不平等这一客观信息（Schwarz,2007；也见Walker etal.,2021)。因此，在回答不平等与系统合理信念的关系之前，需要回答，“不平等对于低地位者意味着什么”？心理学家关于“威胁”（threat）的丰富研究为我们解读这一问题提供了一种“柳暗花明\"的视角（Stephan etal.,2009)：一方面，严重的不平等会加剧资源竞争（Buttrick& Oishi,2017;Wilkinson&Pickett,2017)，加重低地位者在资源竞争中的不利处境（Jiang&Probst,2017），损害其身心健康（胡小勇等，2019）等现实利益，构成一种现实威胁（realistic threat)；另一方面，严重不平等的社会现状与人们关于社会系统公正性的信念相冲突，甚至挑战社会系统的合理性，构成一种象征威胁（symbolic threat)。以往研究者也提出了类似的观点。例如，Fritsche 和 Jugert（2017）从现实威胁的角度分析了“经济不平等”等经济威胁在个体与集体水平的影响；Kaiser 等（2008）则从象征威胁的角度探讨了“种族不平等”的作用（也见Friedman&Sutn,2013）。现实威胁与象征威胁契合于群际威胁理论的经典分类（Stephanetal.,2009)；与之不同的是，威胁的来源是一种不平等的系统或社会现状（而非某个外群体)，威胁的对象则是身处其中的低地位群体。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "尽管两种威胁可能彼此相关，但两者往往具有不同的效应（Stephan etal.,2009)：根据自利取向的理论，凸显不平等在个体或群体水平的现实威胁可能会损害低地位者的系统合理信念；而根据系统合理化理论，凸显不平等在系统水平的象征威胁会增强人们维护系统、为系统辩护的意愿，使其表现出更强的系统合理信念。以往一些研究为此提供了初步证据。在现实威胁方面，Du等（2019）基于中国家庭追踪研究数据库（2010\\~2014）研究发现，在收入不平等程度越大的省份，人们的生活满意度越低、心理压力越大；并且，与高地位者相比，不平等对生活满意度的损害作用对低地位者更大（也见Wienk etal.,2021)；作为现实威胁的一种表现，较低的生活满意度继而会降低其对社会系统的公正感知（Jiaetal.,2020)。在象征威胁方面，2005年美国“卡特里娜”飓风事件中，遇难者和受灾者多为社会底层的穷人和少数族裔（黑人)；Napier等（2006）在对该事件进行研究时发现，这些受灾弱势人群已然对不平等“内化于心”，当得知富人得到更多的救灾援助时，他们并不认为这不公平，即表现出权利抑制效应（depressed entitlement effect）。对此，Napier 等解释认为，“卡特里娜”飓风事件暴露了美国社会的不平等，这种不平等的社会现状与人们关于社会系统公正合理的信念相冲突，构成一种间接的系统威胁（即象征威胁)。Kaiser等（2008）进一步研究发现，对于该事件中黑人群体的不幸遭遇，相比于将其解释为政府失职所致，将其解释为种族主义的后果会被理解为一种对种族间差异合理性的系统威胁（即象征威胁)，进而使得白人表现出更强的内群体认同。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "可见，在威胁视角下，自利取向理论与系统合理化理论的分歧之一，即在于它们分别侧重于低地位者对不平等的不同认知过程一一前者基于个体或群际视角，更关注不平等在个体或群体层面的影响（如现实威胁)；后者则基于宏观视角，侧重于不平等在系统层面的影响（如象征威胁)。基于上述分析，不平等对低地位者系统合理信念的影响也就取决于认知过程（或社会情境）中何种威胁得到凸显。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3.2动机基础：自利动机与系统合理化动机",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不平等的现实威胁与象征威胁为低地位者反对或支持系统现状提供了“条件”，而真正起到驱动作用的则是两类防御动机，即自利动机与系统合理化动机。二者的关系及其不同效应对低地位者系统合理信念的形成起到关键作用。第一，如前文所述，二者对其系统合理信念起到相反作用。第二，尽管二者效应不同，但它们是两种并存的、处于不同分析水平的动机。自利动机聚焦于个体或群体水平，使人们维护自我及内群体利益；而系统合理化动机则聚焦于更为抽象的系统水平，使人们维护、合理化和支持系统现状。事实上，系统合理化理论并不否认自利动机的作用，并将个体层面维护自我利益的动机称为自我合理化（ego justification)，将群体层面维护内群体利益的动机称为群体合理化（group justification; Jost et al.,2001; Jost & Banaji,1994; Jost& Burgess,2000）。第三，对于低地位者，二者存在此消彼长的冲突关系（Jost etal.,2001)。显然，合理化不平等的系统现状意味着接受其不利地位；但对于高地位者，二者并不存在强烈的冲突，因为合理化不平等的系统现状并不会损害其优势地位。因此，低地位者并非总是表现出较高的系统合理信念，当其自利动机更强时，他们更可能反对不合理的现状（Jost,2019）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "问题是，什么影响二者孰强孰弱、又是什么决定了何者发挥主导作用呢？区分不平等所带来的两类威胁即是厘清两种动机如何发挥作用的关键所在。具体而言，当凸显不平等在个体或群体水平的现实威胁时，更可能激活低地位者维护自我与内群体利益的自利动机，进而损害其系统合理信念；在此“减弱路径”中，基于两种动机的冲突关系，由现实威胁激活的自利动机也可通过抑制系统合理化动机，进而减弱系统合理信念。如前文所述，收入差距严重损害低收入者的自我利益、降低其生活满意度（Du etal.,2019;Wienk etal.,2021)，进而损害其对社会系统的公正感知（Jia et al.,2020)。另一方面，当凸显不平等在系统水平的象征威胁时，更可能激活其维护系统现状、为系统辩护的系统合理化动机，进而增强其系统合理信念；在此“增强路径”中，基于两种动机的冲突关系，由象征威胁激活的系统合理化动机也可通过抑制自利动机，进而增强其系统合理信念。如前文所述，“卡特里娜”飓风事件中，穷人所表现出的权利抑制效应（Napier etal.,2006）以及白人面对种族主义指责而表现出的内群体认同(Kaiser etal.,2008)，为此提供了初步证据。此外,Friedman 和 Sutton(2013）的研究进一步佐证了不平等的象征威胁对系统合理化动机的激活效应。他们在实验中要求被试阅读报纸上关于阿富汗战争中平民伤亡的新闻报道，当该报道的周围呈现奢侈品广告时(凸显贫富差距)，相比于没有这些商业广告（未凸显贫富差距)，政治保守派（而非自由派）被试对战争造成平民伤亡的容忍程度有所提高；他们解释认为，凸显贫富差距对社会经济系统构成一种象征威胁，由此激活系统合理化动机，使其更加维护美国政府对阿富汗的军事政策；并且，这一效应不受主观社会经济地位的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于上述分析，本文认为存在一种“社会不平等影响低地位者系统合理信念的双路径模型”（如图1所示)。根据该模型，不平等的系统现状与系统合理信念之间存在两种相反而又并存的心理路径，即聚焦于个体与群体水平的减弱路径，与聚焦于系统水平的增强路径；而两种路径的成立取决于低地位者如何对不平等的系统现状进行认知，这种认知过程通过激活相应的防御动机，继而使其表现出较低或较高的系统合理信念。换言之，不同动机为低地位者支持或反对系统现状提供了动力，而何种动机发挥主导作用则取决于低地位者如何对不平等进行认知。“双路径模型”通过分析不平等影响低地位者系统合理信念的不同认知基础，进而厘清不同动机的作用，将以往研究中看似矛盾的结论整合于一，为理解不平等对低地位者系统合理信念的影响、解释两种理论的“分歧”提供了第三种思路。尽管目前这一模型还暂缺坚实的实证数据作为支撑，但是未来研究可以从这个角度入手加以挖掘并对模型进行完善。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0559738f44a2ff3ad08241feeb01057219a77d627fa36106eaf40771c6724f74.jpg",
+        "img_caption": [
+            "图1社会不平等影响低地位者系统合理信念的双路径模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5小结与展望 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "社会公正事关现代化建设内生动力的激活和生成，已成为影响整个社会安全与否的最为关键、最为直接的问题（吴忠民，2019)。后小康时代，我国仍将长期面临相对贫困的问题（杨菊华，2020)；与此同时，以新型冠状病毒肺炎疫情为代表的全球危机对人类减贫成果构成严重威胁（汤普森，2020)。在此背景下，如何应对社会不平等将会影响到民众（尤其是低地位者）的系统合理信念。总结当前研究可以看到，以往关于不平等对低地位者系统合理信念的影响形成了两种截然“对立”的理论观点。在梳理两种理论及其实证研究的基础上，本文提出了一个整合性的解释框架，即“社会不平等影响低地位者系统合理信念的双路径模型”（以下简称“双路径模型\")。从对立走向整合，不只是回应理论争鸣，未来研究还需在以下方面深入探索。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第一，进一步完善和检验社会不平等影响低地位者系统合理信念的双路径模型。本文基于自利取向理论和系统合理化理论，提出了一种整合性的解释框架，其解释力和生态效度有待未来实证研究进一步检验。在此过程中，有必要厘清几个关键问题。（1)应控制知觉因素的作用。“双路径模型\"关注“质”的不平等，但并不否认“量”的不平等的作用，其分析框架恰恰依赖于高水平的不平等。然而，以往研究发现人们对宏观社会的不平等程度往往不敏感，甚至会低估社会实际的不平等程度（丁毅，纪婷婷，2021)。因此，未来研究在考察“双路径模型”时，应控制这类知觉偏差的干扰作用。（2）一些宏观社会因素也可能限制“双路径模型”的解释力。人们对社会系统的支持态度并非仅依赖社会不平等这一单一因素，诸如经济不平等变化率、社会经济发展水平等的宏观社会因素也发挥着重要的作用。例如，在经济不平等程度较高、且不断增长的地区，低地位者也可能有较高的改善自身处境的希望，进而表现出较高的系统合理信念（e.g.,Cheung,2016)。因此，未来研究还应控制此类宏观因素的影响。（3）“双路径模型”中，两种威胁与两种动机之间的关系存在可能的边界机制。例如，基于补偿性控制理论（Kay et al.,2008)，对于控制感较低的个体，现实威胁与象征威胁可能同时激活其补偿性控制需求，进而增强其系统合理化动机（Fritsche＆Jugert,2017)；而当社会系统未能满足个体的控制感时，不平等的象征威胁也可能增强自利动机，进而减弱其系统合理信念（Kay etal.,2008)。（4）为了厘清自利动机与系统合理化动机的不同作用，“双路径模型”聚焦于与之相应的两种威胁，而不平等的其他威胁同样值得探讨。例如，不平等在个体与群体层面的象征威胁（如，不平等可能威胁低地位者的自尊及其对内群体的积极认同；张书维，2013）、及其在系统层面的现实威胁（如，严重的不平等可能导致社会动荡；Engler&Weisstanner,2020）也可能影响低地位者的自利动机与系统合理化动机，继而影响其系统合理信念；因其在作用机制上与本文所关注的两种威胁存在重叠，所以未予关注，未来研究可进一步整合此类威胁的影响，扩展“双路径模型”的多元认知基础。（5）“双路径模型”聚焦于低地位者，其立论基础在于低地位者自利动机与系统合理化动机的对立冲突（Jost et al.,2001)；但对于高地位者，两种动机并不存在强烈的冲突，且不平等并不会对他们构成严重的现实威胁，因此“双路径模型”并不适用于高地位者。这也揭示了不同地位者系统合理信念的产生机制存在本质区别，为“地位合理性假说”的争议提供了一种解释视角（杨沈龙等，2013)，未来研究可进一步对比高、低地位者系统合理信念产生的认知基础与动机基础。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第二，关注公共危机背景下诸多“新型不平等”及其对系统合理信念的影响。无论自利取向的理论还是系统合理化理论，其讨论的前提在于社会不平等这一客观事实。以往研究中，对不平等的考察主要体现为对不同阶层、性别、种族、地区等在经济、健康、教育等方面的差异。近年来，由于气候变化、全球化以及技术革命等的影响，不同形式的不平等呈现出日益加剧的趋势，并表现出多种“新型不平等”（汤普森，2020)。例如，以新冠肺炎疫情为代表的公共卫生危机可能会加剧社会原有的不平等程度，使得不同阶层、性别或地区之间在经济福祉、身心健康、学业成就等方面表现出不同的脆弱性，呈现出一种风险不平等现象（e.g.,Rodriguez-Bailon,2020;Wiwad et al.,2021;甘犁等，2020)。根据本文提出的“双路径模型”，公共危机情境下的风险不平等使其现实威胁得以凸显；值得警惕的是，由于损失厌恶的影响，这种损失情境下的不平等可能会激活更大的自利动机（Zhou&Wu,2011)，其对系统合理信念的不利影响不容忽视（Rodriguez-Bail6n,2020)。因此，未来研究在考察不平等对系统合理信念的影响时，应关注公共危机背景下此类“新型不平等”的影响及其机制。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第三，应在概念层面和实证研究中进一步区分系统合理化动机与系统合理信念。系统合理化是一种动机性的心理过程（Jost,2019)。为什么要强调其动机属性呢？Jost等（2010）解释认为，人们需要主动地、有目的地（可能是无意识地）合理化社会现状，其目的即在于满足存在性（existentialneeds）、认识性（epistemic needs）和关系性（relationalneeds）三种基本心理需要。然而，以往研究对于这一动机过程的考察却是模糊的：一方面，这种动机过程具有较强的内隐属性（Jost& Banaji,",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1994)，使其难以通过传统的外显测量工具被有效“捕捉\"；而另一方面，实证研究却往往通过系统合理信念量表来测量和表征系统合理化动机，在概念层面系统合理信念与系统合理化动机也往往被视为同一个概念。正如Hafer和Begue（2005）对公正世界信念理论提出的批评，系统合理信念量表其实也并不能有效区分“合理化的动机过程”（即系统合理化动机）与“合理化的结果与反应”（即系统合理信念)；而该量表在设计之初其实是用于测量人们对系统公正性、合理性、正当性的判断与感知（Kay&Jost,2003；也见Vesper etal.,2022)。对此，除了在概念层面区分系统合理化动机与系统合理信念，还应探索更适合的测量方法考察系统合理化动机。此外，以往研究的另一个模糊之处在于，系统合理信念究竟反映的是一种应然层面的规范性信念（prescriptivebeliefs)，还是一种实然层面的描述性信念（descriptive beliefs)，抑或是二者的集合？ Zimmerman 和 Reyna（2013）认为有必要对两类信念加以区分，未来研究应注意考察和区分不平等对两类信念的差异性影响（e.g.,Li&Hu,2021)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "最后，应探索有针对性的干预机制与方法，降低社会不平等对系统合理信念的不利影响，发挥心理学研究在社会治理实践中的积极作用（杨玉芳，郭永玉，2017)。基于本文提出的\"双路径模型”，至少可从两个方面入手寻求可行的干预方案。一方面，基于“减弱路径”，应加强对不平等、不公正的“源头治理”（吴忠民，2019)。比如，对于社会中的优势群体，研究发现通过启动其谦卑心态，可有效降低其贫富差距内归因倾向，进而提升其再分配偏向（白洁等，2021)；对于社会中的弱势群体，则应促进阶层流动机会更加公平，增强其向上阶层流动的信心与希望（郭永玉等，2019；张跃等，2020）。另一方面，基于“增强路径”，则应理性对待系统合理化动机的“双刃剑效应”（Osbome&Sibley,2013；杨沈龙等，2018)。短期来看，系统合理化动机对于提升生活满意度（Lietal.,2020）、维护社会稳定（Jostetal.,2012）具有积极意义；而长期来看，对不平等现状的合理化倾向则可能导致不平等的恶性循环（Garcia-Sanchez etal.,2019），成为矫正社会不公的阻碍因素（Tan et al.,2017）。因此，国内外学者呼呼警惕系统合理化动机的这种消极影响，未来研究应探索符合国情的干预策略来降低其不利作用（Jost etal.,2019;Fermando et al.,2018)。总之，“双路径模型”在尝试揭示不平等影响低地位者系统合理信念的复杂心理规律的基础上，还应为心理学研究服务于社会治理提供心理学思路。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n安德鲁·汤普森.(2020).日益加剧的不平等威胁着联合国可持续发展目标的实现：国家科研资助机构如何有所作 为?.中国科学院院刊,35(11),1398-1401.   \n白洁，杨沈龙，徐步霄，郭永玉.(2021).达者何以兼济天下：高阶层再分配偏向的心理机制及谦卑的作用.心理学报， 53(10), 1161-1172.   \n丁毅，纪婷婷.(2021).不患不均？容忍和支持经济不平等的心理学解释.心理科学,44(2),412-418.   \n甘犁，路晓蒙，王香，周瑞轩，李振华，王芳,.冯程程.(2020).疫情下中国家庭财富变动趋势.中国经济报告,(4), 110-123.   \n郭永玉，冯文倩，杨沈龙.(2019).阶层流动知觉对系统合理化的预测作用．中国社会心理学评论,16(1),137-154.   \n胡小勇，杨沈龙，钟琪，喻丰，陈红.(2019).社会阶层与健康的关系:“社会-心理-生理\"机制.科学通报,64(2),81-92.   \n怀默霆.(2009)．中国民众如何看待当前的社会不平等.社会学研究,24(1),96-120.   \n吴忠民.(2019).社会公正与中国现代化.社会学研究,34(5), $1 - 1 8 + 2 4 2$   \n许宪春，郑正喜，张钟文.(2019).中国平衡发展状况及对策研究——基于\"清华大学中国平衡发展指数\"的综合分 析.管理世界,35(5),15-28.   \n杨菊华.(2020)．后小康社会的贫困：领域，属性与未来展望.中共中央党校(国家行政学院)学报,24(1),111-119.   \n杨沈龙，郭永玉，胡小勇，舒首立,李静.(2016).低阶层者的系统合理化水平更高吗?——基于社会认知视角的考 察.心理学报,48(11),1467-1478.   \n杨沈龙，郭永玉，李静.(2013)．低社会阶层者是否更相信系统公正.心理科学进展,21(12),2245-2255.   \n杨沈龙，郭永玉，喻丰，饶婷婷，赵靓，许丽颖.(2018).系统合理化何以形成——三种不同的解释视角.心理科学进 展,26(12),2238-2248.   \n杨玉芳，郭永玉.(2017).心理学在社会治理中的作用.中国科学院院刊,32(2),107-116.   \n张书维.(2013)．群际威胁与集群行为意向：群体性事件的双路径模型.心理学报,45(12),1410-1430.   \n张书维，王二平，周洁.(2012).跨情境下集群行为的动因机制.心理学报,44(4),524-545.   \n张跃，郭永玉，丁毅.(2020).经济不平等对阶层流动感知的影响及其机制.心理科学,43(5),1197-1203.   \n赵晓航，李建新.(2017).社会经济地位与社会政治态度——基于\"中国家庭追踪调查\"(CFPS2012）的实证分析.社会 学评论,5(3),34-50.   \n周春燕，郭永玉.(2013)．公正世界信念——重建公正的双刃剑.心理科学进展,21(1),144-154.   \nAkfirat,S.,Polat,F.C.,&Yetim,U. (2O16).Howthepoordealwith theirownpoverty: Asocialpsychologicalanalysis from the social identity perspective. Social Indicators Research,127(1),413-433.   \nBrandt,M. J. (2013). Do the disadvantaged legitimize the social system? Alarge-scale test of the status-legitimacy hypothesis.Journal of Personality and Social Psychology, 104(5),765-785.   \nBuchel, O.,Luijkx,R.,& Achterberg,P.(2021). Objective and subjective socieconomic status assourcs ofstatuslegitimacy effect and legitimation of income inequality. Political Psychology,42(3), 463-481.   \nButtrick,N.R.,& Oishi,S. (2017).The psychologicalconsequencesofincome inequality.Social and Personality Psychology Compass, 11(3), Article e12304. https://doi.org/10.1111/spc3.12304   \nCaricati,L.,&Lorenzi-Cioldi,F. (20l2).Doesstatus mater?Testing hypotheses from strong formof System Justification Theory. Revue Internationale de Psychologie Sociale,25(1),67-95.   \nCheung,F. (2Ol6).Can income inequalitybe associated with positive outcomes?Hope mediates the positive inequality happiness link in rural China.Social Psychological and Personality Science,7(4),320-330.   \nCosta-Lopes,R.,ovidioJ.F.,ereira,C.R.,&Jost,J.T(3).Sociapsycholgicalperspectivesothelegititioof social inequality: Past, present and future. European Journal of Social Psychology,43(4),229-237.   \nCurtis,J.,&Andersen,R.(2015).Howsocialclasshapesatitudesoneconomic inequality:Thecompeting forces of selfinterest and legitimation. International Review of Social Research,5(1), 4-19.   \nDarke,P.R.,& Chaiken,S. (2Oo5).The pursuit of self-interest: Self-interest bias in attitude judgment and persuasion. Journal of Personality and Social Psychology, 89(6),864-883.   \nDu,H.,King,R.B.,&Chi,. (O19). Income inequalityis detrimental tolong-term wel-eing: Alarge-scalelongitudial investigation in China. Social Science& Medicine, 232,120-128.   \nEngler, S.,& Weistanner,D.(202o).Thethreatofsocial decline: income inequalityandradicalrightsupport.Journalof European Public Policy, 28(2),153-173.   \nFernando,J.W.,Burden,N.,Ferguson,A.,O'Brien,L.V,Judge,M.,&Kashima,Y. (28).Functions ofutopia: How utopian thinking motivates societal engagement. Personality and Social Psychology Bulletin, 44(5),779-792.   \nFriedman,R.S.,& Sutton,B. (2013).Selling the war? System-justifying effects ofcommercial advertising on civilian casualty tolerance.Political Psychology, 34(3),351-367.   \nFritsche,1.,&Jugert,P.(2017).Theconsequences ofeconomic threat for motivated social cognitionand action.Current Opinion in Psychology,18,31-36.   \nGarcia-Castro,J.D.,Rodriguez-Bail6n,R.,& Wilis,G.B. (2020).Perceiving economic inequality in everyday life decreases tolerance to inequality. Journal of Experimental Social Psychology, 90,Article 104019. https://doi.0rg/10.1016/j.jesp.2020.104019   \nGarcia-Sanchez,E,Corea,L,erera,C.R.,Willis,G.B.Rodriguez-Bailon,R,&Vala,J. (221).Howfairisonomic inequality? Belief in ajust worldand the legitimation of economic disparities in 27European countries.Personality and Social Psychology Buletin,14,Article 01461672211002366. htps://doi.org/10.1177/01461672211002366   \nGarcia-Sanchez,E.,Van der Toorn,J.,Rodriguez-Bailon,R.,& Wilis,G.B. (2o19).The vicious cycle of economic inequality: The role of ideology in shaping the relationship between “what is”and“what ought to be\" in 41 countries. Social Psychological and Personality Science,10(8), 991-1001.   \nGoubin,S.,&Hooghe,M. (2O2O).Theefect ofinequalityontherelationbetween socioeconomic stratificationand political trust in Europe. Social Justice Research, 33(2),219-247.   \nGoudarzi, S.,Pliskin,R.,Jost,J.T.,&Knowles,E.D. (202).Economicsystemjustification predicts muted emotional responses to inequality. Nature Communications, $\\boldsymbol { { I I } } ( 1 )$ ,Article 383. htps://oiorg/10.1038/s41467-019-1419-z   \nGuinjoan,M.,& Rico, G.(2o18). How perceptions of inequality between countries diminish trust in the European Union: Experimentaland observational evidence.Political Psychology,39(6),1289-1303.   \nHafer, C.L.,& Begue,L.(2oo5).Experimental research on just-world theory: Problems,developments,and future challenges.Psychological Bulletin,131(1),128-167.   \nHogg,M.A. (2016).Social identitytheory. In S.McKeown, R. Haji,&N.Ferguson (Eds.), Understanding peace and conflict through social identity theory: Contemporary global perspectives (pp. 3-17). New York: Springer.   \nJia, Q.,Zhou,J.,&Huang,M.(O2O).Lifesatisfaction predicts perceived socialjustice:Theloweryourlifesatisfaction,the less just you perceive society to be. Frontiers in Psychology, 11,Article 540835. https://doi.0rg/10.3389/fpsyg.2020.540835   \nJiang,L.,& Probst,T.M.(2O17).Therich getricher and the poor get poorer: Country-and state-level income inequality moderates the job insecurity-burnout relationship. Journal of Applied Psychology,102(4), 672-681.   \nJost, J.T. (2O19). A quarter centuryofsystem justification theory: Questions,answers,criticisms,and societal applications. British Journal of Social Psychology,58(2),263-314.   \nJost, J.T.,& Banaji,M.R. (1994).Theroleofstereotyping insystem-justificationand theproductionoffalseconsciousess. British Journal of Social Psychology,33(1),1-27.   \nJost,J.T.,Banaji,M.R.,&Nosek,B.A. (O04).Adecadeofsystemjustificationtheory:accumulated evidenceofconscious and unconscious bolstering of the status quo.Political Psychology, 25(6), 881-919.   \nJost,J.T.,Becker,Jsboe,D,&daan,V. ().singin(ollective)ctio:deolgytejustifatid the motivational antecedents of two types ofprotestbehavior. Curent Directions in Psychological Science,26(2),99- 108.   \nJost, J.T.,&Burgess,D. (2Ooo).Atitudinalambivalenceandtheconflictbetween groupandsystem justification motives in low status groups.Personality and Social Psychology Buletin,26(3),293-305.   \nJost,J.T.,Burgess,D.,&Mosso,C.O. (20o1).Conflictsoflegitimationamongself,group,and system: Theintegrative potential of system justification theory. In J. T.Jost, &B. Major (Eds.), The psychology oflegitimacy: Emerging perspectives on ideology, justice, and intergroup relations (pp. 363-388). New York: Cambridge.   \nJost,J.T.,Chaikalis-Petritsis,V,Abrams,D,Sidanius,J.,VanDerToo,J.,&Brat,C.(20l2). Wh men (and women)do and don't rebel: Effects of system justification on willingnessto protest. Personality and Social sychology Bulletin,38(2),197-208.   \nJost,J.T.,Gauchr,D,&Ste,C. ().\"Theworldisn'tfair\":Asystemjustiicationperspectiveosocialstratiication and inequality. In J.F.Dovidio &J.A.Simpson (Eds.),APA handbook ofpersonalityand social psychology, Vol.2 (pp. 317-340). Washington, DC: APA.   \nJost,J.T.,Liviatan,I.aderToor,J.,Ledgerwood,A.,andisodza,A.,&Nosek,B.A.(o).Systemjustiication: How do we know it's motivated? In D.R. Bobocel,A. C. Kay, M. P. Zanna,& J. M. Olson (Eds.), The psychology of justice and legitimacy: The Ontario symposium (Vol.11,pp.173-204).New York,NY: Psychology Press.   \nKaiser, C.R.,Eccleston, C.P,& Hagiwara,N. (2o8).Post-Hurrcane Katrinaracialized explanations asasystemthreat: Implications for Whites'and Blacks'racial attitudes. Social Justice Research,21(2),192-203.   \nKay,A.C.,&Jost,J.T.(20o3). Complementary justice: efects of“poor but happy”and“poor but honest”stereotype exemplars on system justification and implicit activation ofthe justice motive. Journal of Personality and Social Psychology,85(5),823-837.   \nKay,A.C.,Gaucher,D,Napier,J.LCalln,M.J.,&Laurin,K.(oo8). Godandthe goverment:testingacompeatory control mechanism for the support of external systems.Journal ofPersonality and Social Psychology,95(1),18-35.   \nKing,E.B.,Knight,J.L,&Hebl,M.R. (10).Theinfuenceofeconomicconditions onaspectsofstigmatization.Jounal of Social Issues, 66(3), 446-460.   \nKunst,J.R.,& Obaidi,M.(2020). Understanding violent extremisminthe21stcentury:the (re)emergingroleofrelative deprivation. Current Opinion in Psychology,35,55-59.   \nLee,D.,Chang, C.Y.,& Hur,H. (2020).Economic performance, income inequalityand political trust: new evidence froma cross-national study of 14 Asian countries.Asia Pacific Journal of Public Administration,42(2),66-88.   \nLee,I-C., Pratto,F.,&Johnson,B.T. (211). Intergrouponsensus/disagreement insupport ofgroup-based herarchy:An examination of socio-structural and psycho-cultural factors.Psychological Bulltin,137(6),1029-1064.   \nLerner,M.J.(1980).The belief in a just world: A fundamental delusion.New York,NY: Plenum Press.   \nLi,A.,& Hu,A.(2O21). Community contexts,socioeconomic status,and meritocratic beliefs and perceptions in China. Chinese Journal of Sociology, 7(3), 470-493.   \nLi, W.,Wu,J.,& Kou, Y.(2O2O).System justification enhances life satisfaction of high-and low-status people in China. Social Psychological and Personality Science,11(5),588-596.   \nLuders,A., Urbanska,K., Wollast,R.,Nugier,A.,&Guimond,S.(2021).Bottom-uppopulism: howrelative deprivatioand populist atitudes mobilize leaderless anti-government protest.Journal ofSocial and Political Psychology9(2),506 519.   \nMalahy,L.W.,Rubinlicht, M.A.,&Kaiser, C.R. (209). Justifying inequality: Acro-temporalinvestigationofU.S. income disparities and just-world beliefs from 1973 to 2006.Social Justice Research,22(4),369-383.   \nMCall,L.,urk,D,Laperiere,,&icheson,J.A. ().ExposuretsingieqalityapesAmericansrit beliefs and policy support. Proceedings of the National Academy of Sciences,114(36), 9593-9598.   \nNapier, J.L., Mandisodza,A.N.,Andersen,S.M.,&Jost,J.T. (2o6).System justification inresponding to the poorand displaced in the aftermath of Hurricane Katrina.Analyses of Social Issues and Public Policy, 6(1),57-73.   \nNewman,B.J.,Johnston,C.D.,&Lown,P.L.(O15).False consciousnessorclassawarenessLocal income inequality personal economic position,and belief in American meritocracy. American Journal of Political Science,59(2),326- 340.   \nOsborne,D.,Garcia-Sanchez,E.,&Sibley, C.G. (2019).Identifying thepsychological mechanismsunderlying theeectsof inequality on society: The macro-micro model of inequalityand relative deprivation (MIRED). InJ. Jeten &K.Peters (Eds.),The social psychology of inequality (pp.249-266). Cham, Switzerland: Springer International.   \nOsborne,D.,Jost,J.T,Becker,J.C.,Badaan,V.,&Sibley,C.G.(19).Protestingtochallengeordefendthestem?A system justification perspective on collective action. European Journal of Social Psychology, 49(2),244-269.   \nOsborne,D.,& Sibley,C.G. (2013).Through rose-colored glases: System-justifying beliefs dampen the efects ofrelative deprivation on wel-being and political mobilization. Personality and Social Psychology Buletin,39(8),991-1004.   \nOsborne,D.,Sibley, C. G.,& Sengupta,N.K. (2015). Income and neighbourhood-level inequality predict self-esteemand ethnic identitycentralitythrough individual-and group-based relative deprivation: Amultilevelpath analysis.European Journal of Social Psychology, 45(3),368-377.   \nPower,S.A.,Madsen,T.,& Morton,T.A.(O2O).Relative deprivationand revolt: currentand future directions.Current Opinion in Psychology,35,119-124.   \nPrato,F.,Sidanius,J.,&Levin,S.(Oo6).Socialdominancetheoryandthedynamicsofintergrouprelations:Taking stock and looking forward. European Review of Social Psychology, 17(1),271-320.   \nRodriguez-Bailon,R. (2020). Inequality viewed through the mirror of COVID-19. International Journal of Social Psychology,35(3), 647-655.   \nSanchez-Rodriguez,A. Wilis,G.B.,Jeten,J.,&Rodriguez-Bailon,R. (20l9).Economic inequality enhancesinferences thatthe normative climate is individualistic and competitive.EuropeanJournal of SocialPsychology,49(6),14 1127.   \nSchwarz, N. (2007). Atitude construction: Evaluation in context. Social Cognition,25(5), 638-656.   \nSears,D.O.,&Funk,C.L.(991).The roleofself-interestinsocialand politicalatitudes.InM.P.Zanna (Ed.),Advances in experimental social psychology (Vol. 24, pp.2-91). New York: Academic Press.   \nSidanius,J.,Kteily,N,Levin,S.,Prato,F.,&Obaidi,.(15).Supportforasymmetric violenceamong Arabpopulatios: The clash ofcultures,social identity,orcounterdominance? Group Processes &Intergroup Relations,19(3),343-359.   \nSmith,H.J.,&Petigrew,T.F.(2O14).The Subjective interpretation of inequality: A model of therelative deprivation experience. Social and Personality Psychology Compass, 8(12),755-765.   \nSmith,H.J.,Petigrew,T.F.,Pippin, G.M.,&Bialosiewicz,S.(12).Relative deprivation: Atheoreticaland meta-analytic review.Personality and Social Psychology Review,16(3),203-232.   \nSolt,F.,Hu,Y.,Hudson,K.,Song,J.,&Yu,D.E. (2Ol6).Economic inequalityandbelief in meritocracyinthe United States. Research & Politics,3(4),1-7.   \nSon Hing,L.S,Bobocel,D.R.,Zanna,M.P.,Garcia,D.M.,Gee,S.S,&Orazieti,K. (211).The meritof meritocracy. Journal of Personality and Social Psychology,101(3), 433-450.   \nStephan, W.G.,Ybara,O.,&orrison,K.R. (9).Intergroupthreattheory.InT.Nelson (Ed.),Handbookofprejudice (pp.43-59). Lawrence Erlbaum.   \nTan,X.,Liu,L.,Huang,Z.,& Zheng, W. (2017). Working forthehierarchical system: Therole of meritocraticideologyin the endorsement of corruption. Political Psychology, 38(3),469-479.   \nTrump,K.S.,& White,A. (2018). Does inequality beget inequality?Experimental tests of theprediction that inequality increases system justification motivation.Journal of Experimental Political Science,5(3),206-216.   \nVan der Toorn,J.,Feinberg,M.,Jost,J.T.,Kay,A. C.,Tyler,T.R., Wiler,R.,& Wilmuth, C. (2015). Asenseof powerlessnessfosters system justification: Implications for the legitimation of authority,hierarchy,and government. Political Psychology, 36(1),93-110.   \nVargas-alfate,S.,Paez,D,Liu,J.H.,PratoF.,&GildeZuniga,H. (2O18).Acomparisonofsocialdominancetheoryand system justification: Theroleofsocial status in19 nations.Personalityand Social PsychologyBuletin,44(7),1060- 1076.   \nVesper,D.,Knig,C.J.,iegel,R.,&Friese,M.(22).Isuseofthegeneralsystemjustificatioscaleacrosscotrie justified? Testing its measurement equivalence.British Journal ofSocial Psychology.Advance onlinepublication. https://doi.org/10.1111/bjso.12520   \nWalker,J.,Tepper,S.J.,&Gilovich,T.(O21).People are more tolerantofinequality when it is expressed intermsof individuals rather than groups at the top.Proceedings of the National Academy ofSciences,118(43),Article e2100430118.https://doi.org/10.1073/pnas.2100430118   \nWienk,M.N.,Butrick,N.R.,&Oishi,S.(2O21).The social psychologyofeconomic inequality,redistribution,and subjective well-being. European Review of Social Psychology.Advance online publication. https://doi.0rg/10.1080/10463283.2021.1955458   \nWilkinson,R.G.,& Picket,K.E. (2017).The enemy betweenus: The psychological and socialcosts of inequality. European Journal of Social Psychology, 47(1),11-24.   \nWiwad,D.,Mercier,B.,Pif,P.K.,ariff,A.,&Aknin,L.B.(21).ecogningtheimpactofCOV-19other alters atitudes towards povertyand inequality.Journal ofExperimental Social Psychology,93,Article104083. https://doi.0rg/10.1016/j.jesp.2020.104083   \nYoshimura, K.,& Hardin, C.D.(2oo9).Cognitive salience of subjugation and the ideological justification of U.S. geopolitical dominance in Japan. Social Justice Research, 22,298-311.   \nZhou,X.,& Wu,Y. (2O11).Sharing loses and sharing gains: increased demand forfairness under adversity.Journalof Experimental Social Psychology,47(3),582-588.   \nZimmerman,J.L.,&Reyna, C.(2013).The meaningandroleofideologyinsystem justificationandresistance forhigh-and low-status people.Journal of Personality and Social Psychology,105(1),1-23.   \nZmerli,S.,&Castill,J.C.(O15).Income inequalitydistributive fairnessand political trust inLatin America.Social ScienceResearch,52,179-192. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Exploring the effect of social inequality on system-justifying beliefs of the disadvantaged: A dual-process model ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yuel, DING $\\mathrm { Y i ^ { 1 } }$ , YANG Shenlong², XIE Xiaona1, GUO Yongyul (l School of Psychology,Nanjing Normal University,Nanjing 21o097,China) (InstituteofocalPsyhologyholofHumatiesadocialiences,XianaotongUivesityXi'an,,i) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Previous research on the relationship between social inequality and the system-justifying beliefs of disadvantaged individuals remains inconclusive. On the one hand,self-interest-oriented theories (e.g., social identity theory)argue that inequality decreases the system-justifying beliefs of the disadvantaged, given that inequality conflicts with their self-interest. System justification theory, on the other hand, predicts that when inequality in the system is made especially salient,then system justification motivation is activated (or increased); thus, individuals (including the disadvantaged) would be more likely to defend and support the unequal status quo.In this article, we intend to advance the debate by proposing a dualprocess model. Specifically, when the realistic threat of inequality at the individual or group level is salient, it is more likely to activate the self-interested motivation of the disadvantaged (and thus inhibit their system justification motivation),and in turn weaken their system-justifying beliefs.However, when the symbolic threat of inequality at the system level is salient, it is more likely to activate their system justification motivation (and thus inhibit their self-interested motivation),thereby enhancing their systemjustifying beliefs. Our dual-process model offrs a new approach to bridging the research gap,and future research is needed to test and develop this model. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Keywords: social inequality, system-justifying beliefs, system justification motivation, self-interested motivation, social governance ",
+        "page_idx": 17
+    }
+]

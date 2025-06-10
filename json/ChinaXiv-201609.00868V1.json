@@ -1,0 +1,583 @@
+[
+    {
+        "type": "text",
+        "text": "Study of $B \\to K _ { 0 } ^ { * } ( 1 4 3 0 ) K ^ { * }$ decays in QCD Factorization Approach ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ying Li $^ *$ ，Hong-Yan Zhang，Ye Xing, Zuo-Hong Li Department ofPhysics，Yantai University，Yantai 264005，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cai-Dian Lü Instituteof High Energy Physicsand Theoretical Physics Centerfor Science Facilities,CAS,Beijing 1049，China (Dated:January 19,2015) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Within the QCD factorization approach,we calculate the branching fractions and $C P$ asymmetry parameters of 12 $B \\to K _ { 0 } ^ { * } ( 1 4 3 0 ) K ^ { ( * ) }$ decay modes under the assumption that the scalar meson $K _ { 0 } ^ { * } ( 1 4 3 0 )$ is the first excited state or the lowest lying ground state in the quark model. We find that the decay modes with the scalar meson emitted, have large branching fractions due to the enhancement of large chiral factor rKo.The branching fractions of decays with the vector meson emitted, become much smaller owing to the smaller factor $r _ { \\chi } ^ { K ^ { * } }$ . Moreover, the annihilation type diagram willinduce large uncertainties because of the extra free parameters dealing with the endpoint singularity.For the pure annihilation type decays,our predictions are smaler than that from PQCD approach by 2-3 orders of magnitudes.These results will be tested by the ongoing LHCb experiment,forthcoming Belle-II experiment and the proposing circular electron-positron collider. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Although the quark model has made great success in describing most of the hadronic states, the lowest lying scalar mesons are too light to fit in the quark model. Two possible scenarios have been proposed on the basis of whether the scalars lower than 1 GeV belong to the four-quark states or the classical two quark states. They are controversial for decades [1].In scenario-1 (S1),the scalars such as $\\kappa ( 8 0 0 )$ ， $a _ { 0 } ( 9 8 0 )$ and $f _ { 0 } ( 9 8 0 )$ are naively seen as the lowest lying $q q$ states,and $K _ { 0 } ^ { * } ( 1 4 3 0 )$ ， $a _ { 0 } ( 1 4 5 0 )$ ，and $f _ { 0 } ( 1 5 0 0 )$ are the first excited states,correspondingly. In contrast, $K _ { 0 } ^ { * } ( 1 4 3 0 )$ ， $a _ { 0 } ( 1 4 5 0 )$ ， $f _ { 0 } ( 1 5 0 0 )$ are treated as the the $q q$ ground states and their frst excited states are about ( $2 . 0 \\sim 2 . 3 \\$ ）GeV in scenario-2 (S2),in which the lightest scalar mesons are the fourquark bound states. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the past decade,many $B$ decay modes involving scalar mesons have been reported by BaBar,Belle and large hadron collider-b (LHCb) experiments. This may provide a unique feature to distinguish these two scenarios by the $B$ meson tag [2]. It is thus hoped that the combination of the precise experimental measurements and the accurate theoretical predictions might provide us valuable information on the nature of scalar mesons. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To achieve this goal, some hadronic $B _ { q } ( q = u , d , s )$ decays to scalar mesons have been studied in detail in the framework of the QCD factorization (QCDF） [1,3，4] and the perturbative QCD approach (PQCD)[5,6]. Using the QCDF approach,H-Y Cheng $e t . a l$ had calculated the branching fractions and direct $C P$ asymmetries of most decay modes in refs.[3，4]，such as $B ~ \\to ~ f _ { 0 } K$ ， $B \\to K _ { 0 } ^ { * } ( 1 4 3 0 ) \\phi ( \\rho )$ and $B \\to K _ { 0 } ^ { * } ( 1 4 3 0 ) \\pi$ ，where most results accommodate the data with large uncertainties. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Very recently, the decays $B \\to K _ { 0 } ^ { * } ( 1 4 3 0 ) K ^ { ( * ) }$ dominated by $b \\to d$ penguin operators,have been calculated within the PQCD approach [6]，however they have not been touched in QCDF frame.To complete,we therefore shall calculate the branching fractions of $B \\to K _ { 0 } ^ { * } ( 1 4 3 0 ) K ^ { ( * ) }$ decays in QCDF,as well as their $\\boldsymbol { C P }$ asymmetry parameters.In the experimental side,these observables are too small to be measured at current experiments,but they are hopeful to be measured in the future experiments such as the updated LHCb experiment,the high luminosity Belle-II experiment and the proposing high energy circular electron-positron collider. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The paper is organized as follows.In Section 2,we give the analytic formula including the effective Hamiltonian,the form factor and all corrections to the amplitudes.Presentation of results and discussions are given in Section 3.At last,we summarize this work in Section 4. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "II. ANALYTICFORMULA ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this section,we shall start from the weak effective Hamiltonian responsible for $B \\to K _ { 0 } ^ { * } ( 1 4 3 0 ) K ^ { ( * ) }$ decays. In the standard model,it could be written as [7] ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathcal { H } } _ { \\mathrm { e f f } } = \\frac { G _ { F } } { \\sqrt { 2 } } \\Biggl [ V _ { u b } V _ { u d } ^ { * } \\left( C _ { 1 } O _ { 1 } ^ { u } + C _ { 2 } O _ { 2 } ^ { u } \\right) } } \\\\ { { \\displaystyle ~ - V _ { t b } V _ { t d } ^ { * } \\left( \\sum _ { i = 3 } ^ { 1 0 } C _ { i } O _ { i } + C _ { 7 \\gamma } O _ { 7 \\gamma } + C _ { 8 g } O _ { 8 g } \\right) \\Biggr ] + \\mathrm { h . c . } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The explicit form of the operators $O _ { i }$ and the corresponding Wilson Coefficients $C _ { i }$ at different scale $\\mu$ could be found in ref.[7]. $V _ { u ( t ) b }$ and $V _ { u ( t ) d }$ are the CabibboKabayashi-Maskawa(CKM) matrix elements.Note that $O _ { 1 , 2 }$ are tree operators and others $O _ { 3 - 1 0 , 7 \\gamma , 8 g }$ are penguin ones. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In dealing with the nonleptonic charmless $B$ decays, the decay amplitude is usually separated into the emission part and the annihilation part in terms of the structure of the topological diagrams. According to the factorization approximation based on the heavy quark limit, the former part could be written as the product of decay constant and form factor.While for the latter one,it is always regarded as being power suppressed. In QCDF [8] based on collinear factorization,the contribution of the non-perturbative sector is dominated by the form factors, and the non-factorizable effect in the hadronic matrix elements is controlled by hard gluon exchange.Thus, the hadronic matrix elements of the decay can be written as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle { \\langle M _ { 1 } M _ { 2 } | O _ { i } | B \\rangle = \\sum _ { j } F _ { j } ^ { B \\to M _ { 1 } } \\int _ { 0 } ^ { 1 } d x T _ { i j } ^ { I } ( x ) \\Phi _ { M _ { 2 } } ( x ) } } } \\\\ { { + \\displaystyle { \\int _ { 0 } ^ { 1 } d \\xi \\int _ { 0 } ^ { 1 } d x \\int _ { 0 } ^ { 1 } d y T _ { i } ^ { I I } ( \\xi , x , y ) \\Phi _ { B } ( \\xi ) \\Phi _ { M _ { 1 } } ( x ) \\Phi _ { M _ { 2 } } ( y ) , } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { i j } ^ { I }$ and $T _ { i } ^ { I I }$ denote the perturbative shortdistance interactions,which can be calculated perturbatively. $\\Phi _ { X } ( x )$ （ $X = B , M _ { 1 } , M _ { 2 } )$ are the universal nonperturbative light-cone distribution amplitudes that can be estimated by the light-cone QCD sum rules.The form factors of $B$ meson to the pseudoscalar ( $P$ ),the vector （ $V$ ） and scalar ( $S$ ） mesons transitions $F ^ { B \\to M _ { 1 } }$ being a part of the nonperturbative sector of QCD, lack a precise solution. For the $B  P$ and $B  V$ transition form factors,we will employ the results of the QCD sum rule method [9],since they have been used in calculating $B \\to P P , P V$ and $V V$ modes widely. As the form factor of $F ^ { B \\to S }$ as concerned,to the best of our knowledge, a number of approaches had been advocated to calculate them,such as QCD sum rule [10],light-cone QCD sum rule [11],PQCD [12] and covariant light front quark model (cLFQM)[13].In this work，we use the results obtained by cLFQM[13] for keeping consistent with the results of other $B \\to S P ( V )$ decay modes [3]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Following the standard procedure of QCDF approach, the emission part of decay amplitude could be written as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathcal A } _ { S } ( \\overline { { { B ^ { 0 } } } } \\to M _ { 1 } M _ { 2 } ) } } \\\\ { { \\displaystyle \\quad = \\frac { G _ { F } } { \\sqrt { 2 } } \\sum _ { p = u , c } \\sum _ { i } V _ { p b } V _ { p d } ^ { * } a _ { i } ^ { p } ( \\mu ) \\langle M _ { 1 } M _ { 2 } | O _ { i } | B \\rangle _ { F } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\langle M _ { 1 } M _ { 2 } | O _ { i } | B \\rangle _ { F }$ is the factorizable matrix element,which can be factorized into a form factor times a decay constant,as stated before. The effective parameters $a _ { i } ^ { p }$ can be calculated perturbatively,whose expressions are given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { { a _ { i } ^ { p } } ( M _ { 1 } M _ { 2 } ) } } & { { = } } & { { \\displaystyle \\left( C _ { i } + \\frac { C _ { i \\pm 1 } } { N _ { c } } \\right) N _ { i } ( M _ { 2 } ) } } \\\\ { { } } & { { } } & { { + \\ \\displaystyle \\frac { C _ { i \\pm 1 } } { N _ { c } } \\frac { C _ { F } \\alpha _ { s } } { 4 \\pi } \\Bigl [ V _ { i } ( M _ { 2 } ) + \\frac { 4 \\pi ^ { 2 } } { N _ { c } } H _ { i } ( M _ { 1 } M _ { 2 } ) \\Bigr ] } } \\\\ { { } } & { { + } } & { { P _ { i } ^ { p } ( M _ { 2 } ) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $i = 1 , \\cdots , 1 0$ . The upper (lower） signs apply when $i$ is odd (even), $C _ { F } ~ = ~ ( N _ { c } ^ { 2 } - 1 ) / ( 2 N _ { c } )$ with $N _ { c } ~ = ~ 3$ The quantities $V _ { i } ( M _ { 2 } )$ account for vertex corrections, $H _ { i } ( M _ { 1 } M _ { 2 } )$ for hard spectator interactions with a hard gluon exchange between the emitted meson and the spectator quark of the $B$ meson and $P _ { i } ( M _ { 2 } )$ for penguin contractions. Similarly, the annihilation contributions are described by the terms $b _ { i }$ ，and $b _ { i , \\mathrm { E W } }$ ，which have the expressions ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { b _ { 1 } } & { = \\frac { C _ { F } } { N _ { 2 } ^ { 2 } } C _ { 1 } A _ { 1 , 1 } ^ { i } , } \\\\ { b _ { 2 } } & { = \\frac { C _ { F } } { N _ { 2 } ^ { 2 } } C _ { 2 } A _ { 1 , 1 } ^ { i } , } \\\\ { b _ { 3 } } & { = \\frac { C _ { F } } { N _ { 2 } ^ { 2 } } \\left[ C _ { 3 } A _ { 1 } ^ { i } + C _ { 5 } ( A _ { 3 } ^ { i } + A _ { 3 } ^ { f } ) + N _ { c } C _ { 6 } A _ { 3 } ^ { f } \\right] , } \\\\ { b _ { 4 } } & { = \\frac { C _ { F } } { N _ { 2 } ^ { 2 } } \\left[ C _ { 4 } A _ { 1 } ^ { i } + C _ { 6 } A _ { 2 } ^ { i } \\right] , } \\\\ { b _ { 3 , \\mathrm { E W } } } & { = \\frac { C _ { F } } { N _ { 2 } ^ { 2 } } \\left[ C _ { 9 } A _ { 1 } ^ { i } + C _ { 7 } ( A _ { 3 } ^ { i } + A _ { 3 } ^ { f } ) + N _ { c } C _ { 8 } A _ { 3 } ^ { i } \\right] , } \\\\ { b _ { 1 , \\mathrm { E W } } } & { = \\frac { C _ { F } } { N _ { 2 } ^ { 2 } } \\left[ C _ { 1 0 } A _ { 1 } ^ { i } + C _ { 8 } A _ { 2 } ^ { i } \\right] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the subscripts 1,2,3 of $A _ { n } ^ { i , f }$ stand for the annihilation amplitudes induced from $( V \\mathrm { ~ - ~ } A ) ( V \\mathrm { ~ - ~ } A )$ $( V - A ) ( V + A )$ and $( S - P ) ( S + P )$ operators,respectively. The superscripts $i$ and $f$ refer to gluon emission from the initial and final-state quarks,respectively.It should be stressed that the decays $\\overline { { B } } ^ { 0 }  K _ { 0 } ^ { * + } K ^ { ( * ) - }$ and $\\overline { { B } } ^ { 0 }  K ^ { ( * ) + } K _ { 0 } ^ { * - }$ are only induced by theannihilations type diagrams. Hereafter,the order of the $a _ { i } ^ { p } ( M _ { 1 } M _ { 2 } )$ coefficients is dictated by the subscript $M _ { 1 } M _ { 2 }$ ，where $M _ { 2 }$ is the emitted meson and $M _ { 1 }$ shares the same spectator quark with the $B$ meson. For the $b _ { i } ( M _ { 1 } M _ { 2 } )$ of the annihilation, $M _ { 1 }$ means the one containing an antiquark from the weak vertex,while $M _ { 2 }$ contains a quark from the weak vertex. The explicit expressions of $V _ { i }$ $H _ { i }$ $P _ { i }$ ， $b _ { i }$ ， $b _ { i , \\mathrm { E W } }$ and their inner functions could be found in refs.[1, 3]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When dealing with the hard-scattering spectator and the weak annihilation contributions,we suffer from infrared endpoint singularities $\\begin{array} { r } { X \\ = \\ \\int _ { 0 } ^ { 1 } d x / ( 1 - x ) } \\end{array}$ ，that cannot be calculated from the first principle in the QCDF approach and only be estimated phenomenologically with a large uncertainty. Following the arguments of ref.[8], we also parameterize these kinds of contributions by the complex quantities, $X _ { H }$ and $X _ { A }$ namely, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { X _ { H } ~ = ~ \\left( 1 + \\rho _ { H } e ^ { i \\phi _ { H } } \\right) \\ln \\frac { m _ { B } } { \\Lambda } , } } \\\\ { { X _ { A } ~ = ~ \\left( 1 + \\rho _ { A } e ^ { i \\phi _ { A } } \\right) \\ln \\frac { m _ { B } } { \\Lambda } ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\Lambda = 0 . 5$ GeV. $\\rho _ { H }$ ， $\\rho _ { A }$ are real parameters, and $\\phi _ { H }$ （204号 and $\\phi _ { A }$ are free strong phases in the range $[ - 1 8 0 ^ { \\circ } , 1 8 0 ^ { \\circ } ]$ All the above four parameters should be fixed by the experimental data,such as branching fractions and $C P$ asymmetries.In the so-called PQCD approach [14],one can eliminate these end-point singularities by keeping all small transverse momenta of gluons and inner quarks. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Including the emission and annihilation contributions, the decay amplitude can be finally given as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l }  { { \\displaystyle { \\mathrm { 1 } ( B ^ { - } \\to K ^ { - } K _ { 0 } ^ { * 0 } ) ~ = ~ { \\frac { G _ { F } } { \\sqrt { 2 } } } \\sum _ { p = u , c } \\lambda _ { p } ^ { ( d ) } \\Biggl \\{ ~ \\left( a _ { 4 } ^ { p } - { \\frac { 1 } { 2 } } a _ { 1 0 } ^ { p } - ( a _ { 6 } ^ { p } - { \\frac { 1 } { 2 } } a _ { 8 } ^ { p } ) r _ { \\chi } ^ { K _ { 0 } ^ { * } } \\right) _ { K ^ { - } K _ { 0 } ^ { * 0 } } f _ { K _ { 0 } ^ { * } } F _ { 0 } ^ { B \\to K } ( m _ { K _ { 0 } ^ { * } } ^ { 2 } ) ( \\mathrm { ~ } - \\lambda _ { 8 } ^ { p } - \\mathrm { ~ } ) } } } \\\\ { { { { } } } } \\\\ { { { \\ + f _ { B } f _ { K _ { 0 } ^ { * } } f _ { K } \\left( b _ { 2 } \\delta _ { u } ^ { p } + b _ { 3 } + b _ { 3 , \\mathrm { E W } } \\right) _ { K ^ { - } K _ { 0 } ^ { * 0 } } \\Biggr \\} } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { ( B ^ { - } \\to K _ { 0 } ^ { * - } K ^ { 0 } ) \\ = \\ \\frac { G _ { F } } { \\sqrt 2 } \\displaystyle \\sum _ { p = u , c } \\lambda _ { p } ^ { ( d ) } \\Bigg \\{ - \\left( a _ { 4 } ^ { p } - \\frac { 1 } { 2 } a _ { 1 0 } ^ { p } - ( a _ { 6 } ^ { p } - \\frac { 1 } { 2 } a _ { 8 } ^ { p } ) r _ { \\chi } ^ { K } \\right) _ { K _ { 0 } ^ { * - } K ^ { 0 } } f _ { K } F _ { 0 } ^ { B \\to K _ { 0 } ^ { * } } ( m _ { K } ^ { 2 } ) ( \\mathrm { v a l u } ) ^ { \\ } } } \\\\ { { \\qquad + f _ { B } f _ { K _ { 0 } ^ { * } } f _ { K } \\left( b _ { 2 } \\delta _ { u } ^ { p } + b _ { 3 } + b _ { 3 , \\mathrm { E W } } \\right) _ { K _ { 0 } ^ { * - } K ^ { 0 } } \\Bigg \\} , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { A ( \\overline { { { B } } } ^ { 0 }  \\overline { { { K } } } ^ { 0 } K _ { 0 } ^ { * 0 } ) \\ = \\ \\frac { G _ { F } } { \\sqrt { 2 } } \\displaystyle \\sum _ { p = u , c } \\lambda _ { p } ^ { ( d ) } \\Bigg \\{ ( a _ { 4 } ^ { p } - \\frac { 1 } { 2 } a _ { 1 0 } ^ { p } - ( a _ { 6 } ^ { p } - \\frac { 1 } { 2 } a _ { 8 } ^ { p } ) r _ { \\chi } ^ { K _ { 0 } ^ { * } } ) _ { \\overline { { { K } } } ^ { 0 } K _ { 0 } ^ { * } } f _ { K _ { 0 } ^ { * } } F _ { 0 } ^ { B  K } ( m _ { K _ { 0 } ^ { * } } ^ { 2 } ) ( \\tilde { r } ^ { 2 } - \\frac { 1 } { 2 } a _ { 1 0 } ^ { p } - \\frac { 1 } { 2 } b _ { 1 0 } ^ { p } ) } }  \\\\ { { { } } } & { { } } & { { } } \\\\ { { } } & { { + f _ { B } f _ { K _ { 0 } ^ { * } } f _ { K } \\big [ ( b _ { 3 } + b _ { 4 } - \\frac { 1 } { 2 } ( b _ { 3 , \\mathrm { E W } } + b _ { 4 , \\mathrm { E W } } ) ) _ { \\overline { { { K } } } ^ { 0 } K _ { 0 } ^ { * 0 } } + ( b _ { 4 } - \\frac { 1 } { 2 } b _ { 4 , \\mathrm { E W } } ) _ { K _ { 0 } ^ { * 0 } } \\big ] ( \\tilde { r } ^ { 2 } - \\tilde { r } ^ { 2 } ) \\ ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\dot { \\overline { { \\mathrm {  ~ \\Lambda ~ } } } } _ { 0 } ^ { * 0 } K ^ { 0 } \\rangle \\ = \\ \\frac { G _ { F } } { \\sqrt { 2 } } \\displaystyle \\sum _ { p = u , c } \\lambda _ { p } ^ { ( d ) } \\Bigg \\{ \\ - \\left( a _ { 4 } ^ { p } - \\frac { 1 } { 2 } a _ { 1 0 } ^ { p } - ( a _ { 6 } ^ { p } - \\frac { 1 } { 2 } a _ { 8 } ^ { p } ) r _ { \\chi } ^ { K } \\right) _ { \\overline { { K } } _ { 0 } ^ { * 0 } K ^ { 0 } } f _ { K } F _ { 0 } ^ { B \\to K _ { 0 } ^ { \\widehat { 0 } } } ( m _ { K } ^ { 2 } ) ( m _ { B } ^ { 2 } - m _ { K } ^ { 2 } ) } & { } \\\\ { \\displaystyle \\quad \\ } & { \\ + f _ { B } f _ { K _ { 0 } ^ { \\checkmark } } f _ { K } \\big [ \\left( b _ { 3 } + b _ { 4 } - \\frac { 1 } { 2 } ( b _ { 3 , \\mathrm { E W } } + b _ { 4 , \\mathrm { E W } } ) \\right) _ { \\overline { { K } } _ { 0 } ^ { * 0 } K ^ { 0 } } + \\left( b _ { 4 } - \\frac { 1 } { 2 } b _ { 4 , \\mathrm { E W } } \\right) _ { K ^ { 0 } \\overline { { K } } _ { 0 } ^ { * 0 } } \\big ] \\Bigg \\} , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { { 3 } } } ^ { 0 }  K _ { 0 } ^ { * + } K ^ { - } ) = \\frac { G _ { F } } { \\sqrt { 2 } } \\sum _ { p = u , c } \\lambda _ { p } ^ { ( d ) } \\Bigg \\{ f _ { B } f _ { K _ { 0 } ^ { * } } f _ { K } [ ( b _ { 1 } \\delta _ { u } ^ { p } + b _ { 4 } + b _ { 4 , \\mathrm { E W } } ) _ { K _ { 0 } ^ { * + } K ^ { - } } + ( b _ { 4 } - \\frac { 1 } { 2 } b _ { 4 , \\mathrm { E W } } ) _ { K ^ { - } K _ { 0 } ^ { * + } K ^ { - } } ] \\Bigg \\} _ { \\displaystyle K = 1 , \\ldots , K } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n4 ( \\overline { { { B } } } ^ { 0 }  K ^ { + } K _ { 0 } ^ { * - } ) = \\frac { G _ { F } } { \\sqrt { 2 } } \\sum _ { p = u , c } \\lambda _ { p } ^ { ( d ) } \\Bigg \\{ f _ { B } f _ { K _ { 0 } ^ { * } } f _ { K } \\big [ \\big ( b _ { 1 } \\delta _ { u } ^ { p } + b _ { 4 } + b _ { 4 , \\mathrm { E W } } \\big ) _ { K ^ { + } K _ { 0 } ^ { * - } } + \\bigg ( b _ { 4 } - \\frac { 1 } { 2 } b _ { 4 , \\mathrm { E W } } \\bigg ) _ { K ^ { + } K _ { 0 } ^ { * - } } \\Bigg ] \\Bigg \\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { 1 ( B ^ { - } \\to K ^ { * - } K _ { 0 } ^ { * 0 } ) \\ = \\ \\frac { G _ { F } } { \\sqrt { 2 } } \\displaystyle \\sum _ { p = u , c } \\lambda _ { p } ^ { ( d ) } \\Biggl \\{ \\ - \\left( a _ { 4 } ^ { p } - \\frac { 1 } { 2 } a _ { 1 0 } ^ { p } + ( a _ { 6 } ^ { p } - \\frac { 1 } { 2 } a _ { 8 } ^ { p } ) r _ { \\chi } ^ { K _ { 0 } ^ { * } } \\right) _ { K ^ { * - } K _ { 0 } ^ { * 0 } } 2 f _ { K _ { 0 } ^ { * } } A _ { 0 } ^ { B \\to K ^ { * } } ( \\nonumber } } } \\\\  { { \\ \\ - f _ { B } f _ { K _ { 0 } ^ { * } } f _ { K ^ { * } } \\left( b _ { 2 } \\delta _ { u } ^ { p } + b _ { 3 } + b _ { 3 , \\mathrm { E W } } \\right) _ { K ^ { * - } K _ { 0 } ^ { * 0 } } \\Biggr \\} , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\cal A } ( B ^ { - } \\to K _ { 0 } ^ { * - } K ^ { * 0 } ) ~ = ~ { \\displaystyle \\frac { G _ { F } } { \\sqrt { 2 } } \\sum _ { p = u , c } \\lambda _ { p } ^ { ( d ) } \\Biggl \\{ \\left( a _ { 4 } ^ { p } - { \\frac { 1 } { 2 } } a _ { 1 0 } ^ { p } - ( a _ { 6 } ^ { p } - { \\frac { 1 } { 2 } } a _ { 8 } ^ { p } ) r _ { \\chi } ^ { K ^ { * } } \\right) _ { K _ { 0 } ^ { * - } K ^ { * 0 } } 2 f _ { K ^ { * } } F _ { 1 } ^ { B \\to K _ { 0 } ^ { * } } ( m _ { c } ^ { * - } { \\frac { 1 } { 2 } } a _ { 8 } ^ { p } ) r _ { \\chi } ^ { K ^ { * } } \\Biggr \\} } } } \\\\ { { { { } } } } \\\\ { { { } ~ - f _ { B } f _ { K _ { 0 } ^ { * } } f _ { K ^ { * } } \\left( b _ { 2 } \\delta _ { u } ^ { p } + b _ { 3 } + b _ { 3 , \\mathrm { E W } } \\right) _ { K _ { 0 } ^ { * - } K ^ { * 0 } } \\Biggr \\} , } }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { { A ( \\overline { { B } } ^ { 0 }  \\overline { { K } } ^ { \\ast 0 } K _ { 0 } ^ { \\ast 0 } ) \\ = \\ \\frac { G _ { F } } { \\sqrt { 2 } } \\displaystyle \\sum _ { p = u , c } \\lambda _ { p } ^ { ( d ) } \\Bigg \\{ - ( a _ { 4 } ^ { p } - \\frac { 1 } { 2 } a _ { 1 0 } ^ { p } + ( a _ { 6 } ^ { p } - \\frac { 1 } { 2 } a _ { 8 } ^ { p } ) r _ { \\chi } ^ { K _ { 0 } ^ { \\ast } } ) _ { \\overline { { K } } ^ { \\ast 0 } K _ { 0 } ^ { \\ast 0 } } 2 f _ { K _ { 0 } ^ { \\ast } } A _ { 0 } ^ { B  K ^ { \\ast } } ( r _ { \\chi } ^ { \\ast } - r _ { \\chi } ^ { \\ast } ) } } \\\\ { { - f _ { B } f _ { K _ { 0 } ^ { \\ast } } f _ { K ^ { \\ast } } \\Big [ ( b _ { 3 } + b _ { 4 } - \\frac { 1 } { 2 } ( b _ { 3 , \\mathrm { E W } } + b _ { 4 , \\mathrm { E W } } ) ) _ { \\overline { { K } } ^ { \\ast 0 } K _ { 0 } ^ { \\ast 0 } } + ( b _ { 4 } - \\frac { 1 } { 2 } b _ { 4 , \\mathrm { E W } } ) _ { \\overline { { K } } ^ { \\ast 0 } K _ { 0 } ^ { \\ast } } \\Big ] \\Bigg \\} . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\overline { { { K } } } _ { 0 } ^ { * 0 } K ^ { * 0 } ) \\ = \\ \\frac { G _ { F } } { \\sqrt { 2 } } \\displaystyle \\sum _ { p = u , c } \\lambda _ { p } ^ { ( d ) } \\Bigg \\{ \\left( a _ { 4 } ^ { p } - \\frac { 1 } { 2 } a _ { 1 0 } ^ { p } - ( a _ { 6 } ^ { p } - \\frac { 1 } { 2 } a _ { 8 } ^ { p } ) r _ { \\chi } ^ { K ^ { * } } \\right) _ { \\overline { { { K } } } _ { 0 } ^ { * 0 } K ^ { * 0 } } 2 f _ { K ^ { * } } F _ { 1 } ^ { B \\to K _ { 0 } ^ { * } } ( m _ { K ^ { * } } ^ { 2 } ) m _ { B } p _ { c } } } \\\\ { { \\displaystyle - f _ { B } f _ { K _ { 0 } ^ { * } } f _ { K ^ { * } } \\Big [ \\left( b _ { 3 } + b _ { 4 } - \\frac { 1 } { 2 } ( b _ { 3 , \\mathrm { E W } } + b _ { 4 , \\mathrm { E W } } ) \\right) _ { \\overline { { { K } } } _ { 0 } ^ { * 0 } K ^ { * 0 } } + \\left( b _ { 4 } - \\frac { 1 } { 2 } b _ { 4 , \\mathrm { E W } } \\right) _ { K ^ { * 0 } \\overline { { { K } } } _ { 0 } ^ { * 0 } } \\Big ] \\Bigg \\} _ { } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { ^ { + } K ^ { * - } ) \\ = \\ \\frac { G _ { F } } { \\sqrt { 2 } } \\displaystyle \\sum _ { p = u , c } \\lambda _ { p } ^ { ( d ) } \\Bigg \\{ - f _ { B } f _ { K _ { 0 } ^ { * } } f _ { K } \\Big [ \\big ( b _ { 1 } \\partial _ { u } ^ { p } + b _ { 4 } + b _ { 4 , \\mathrm { E W } } \\big ) _ { K _ { 0 } ^ { * + } K ^ { * - } } + \\bigg ( b _ { 4 } - \\frac { 1 } { 2 } b _ { 4 , \\mathrm { E W } } \\bigg ) _ { K ^ { * - } K _ { 0 } ^ { * + } K _ { 0 } ^ { * + } } + } } \\\\ { { ^ { + } K _ { 0 } ^ { * - } \\Big ) \\ = \\ \\frac { G _ { F } } { \\sqrt { 2 } } \\displaystyle \\sum _ { p = u , c } \\lambda _ { p } ^ { ( d ) } \\Bigg \\{ - f _ { B } f _ { K _ { 0 } ^ { * } } f _ { K } \\Big [ \\big ( b _ { 1 } \\partial _ { u } ^ { p } + b _ { 4 } + b _ { 4 , \\mathrm { E W } } \\big ) _ { K ^ { * + } K _ { 0 } ^ { * - } } + \\bigg ( b _ { 4 } - \\frac { 1 } { 2 } b _ { 4 , \\mathrm { E W } } \\bigg ) _ { K _ { 0 } ^ { * - } K ^ { * + } } + } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { r _ { \\chi } ^ { K } ( \\mu ) \\ = \\ \\frac { 2 m _ { K } ^ { 2 } } { m _ { b } ( \\mu ) [ m _ { u } ( \\mu ) + m _ { s } ( \\mu ) ] } , } } \\\\ { { r _ { \\chi } ^ { K _ { 0 } ^ { * } } ( \\mu ) \\ = \\ \\frac { 2 m _ { K _ { 0 } ^ { * } } ^ { 2 } } { m _ { b } ( \\mu ) [ m _ { q } ( \\mu ) - m _ { s } ( \\mu ) ] } , } } \\\\ { { r _ { \\chi } ^ { K ^ { * } } ( \\mu ) \\ = \\ \\frac { 2 m _ { K ^ { * } } } { m _ { b } ( \\mu ) } \\frac { f _ { K ^ { * } } ^ { \\perp } ( \\mu ) } { f _ { K ^ { * } } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III.NUMERICAL RESULTS ANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To proceed,we shall present numerical results obtained from the formulas given in the previous section. Firstly, we introduce the adopted parameters in our calculation. Secondly, we give the numerical results and show the theoretical errors due to uncertainty of some parameters.At last,some discussions and comparisons will be added. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The scalar meson,unlike the pseudoscalar one,has two kinds of decay constants,namely the vector decay constant $f _ { S }$ and the scale-dependent scalar decay constant $f _ { S }$ , the definitions of which are give by: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\langle \\overline { { { K } } } _ { 0 } ^ { \\ast } ( p ) | \\bar { s } \\gamma _ { \\mu } d | 0 \\rangle = f _ { K _ { 0 } ^ { \\ast } } p _ { \\mu } , } } \\\\ { { \\langle \\overline { { { K } } } _ { 0 } ^ { \\ast } ( p ) | \\bar { s } d | 0 \\rangle = m _ { K _ { 0 } ^ { \\ast } } \\bar { f } _ { K _ { 0 } ^ { \\ast } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The two decay constants satisfy ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { K _ { 0 } ^ { * } } = \\frac { m _ { s } ( \\mu ) - m _ { d } ( \\mu ) } { m _ { K _ { 0 } ^ { * } } } \\bar { f } _ { K _ { 0 } ^ { * } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { s } ( \\mu )$ and $m _ { d } ( \\mu )$ are the running current quark masses.It should be stressed that the decay constants ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "of $K _ { 0 } ^ { * } ( 1 4 3 0 )$ have the signs flipped from S1 to S2.The definition of the form factors for the $B  S$ transitions are given by [13] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\langle S ( p ^ { \\prime } ) | A _ { \\mu } | B ( p ) \\rangle } } & { { = } } & { { - i \\displaystyle \\Bigg [ \\left( P _ { \\mu } - \\frac { m _ { B } ^ { 2 } - m _ { S } ^ { 2 } } { q ^ { 2 } } q _ { \\mu } \\right) F _ { 1 } ^ { B S } ( q ^ { 2 } ) } } \\\\ { { } } & { { } } & { { + \\ \\displaystyle \\frac { m _ { B } ^ { 2 } - m _ { S } ^ { 2 } } { q ^ { 2 } } q _ { \\mu } F _ { 0 } ^ { B S } ( q ^ { 2 } ) \\Bigg ] , \\quad \\quad \\quad ( 2 3 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { \\mu } = ( p + p ^ { \\prime } ) _ { \\mu }$ and $q _ { \\mu } = ( p - p ^ { \\prime } ) _ { \\mu }$ .In cLFQM, the momentum dependence of the form factor could be parameterized in a di-pole model form [13], ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( q ^ { 2 } ) = { \\frac { F ( 0 ) } { 1 - a ( q ^ { 2 } / m _ { B } ^ { 2 } ) + b ( q ^ { 4 } / m _ { B } ^ { 4 } ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Together with the decay constants, the parameters $F ( 0 )$ $a$ and $b$ for $B  S$ transitions in the different scenarios are summarized in TableI. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The twist-2 light-cone distribution amplitude (LCDA) $\\Phi _ { S } ( x )$ and twist-3 $\\Phi _ { S } ^ { s } ( x )$ and $\\Phi _ { S } ^ { \\sigma } ( x )$ for the scalar meson $\\overline { { K } } _ { 0 } ^ { * }$ made of the quarks $s d$ are given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\langle \\overline { { { K } } } _ { 0 } ^ { \\ast } ( p ) | \\bar { s } ( z _ { 2 } ) \\gamma _ { \\mu } d ( z _ { 1 } ) | 0 \\rangle = p _ { \\mu } \\displaystyle \\int _ { 0 } ^ { 1 } d x e ^ { i ( x p \\cdot z _ { 2 } + \\bar { x } p \\cdot z _ { 1 } ) } \\Phi _ { S } ( x ) , } } \\\\ { { \\langle \\overline { { { K } } } _ { 0 } ^ { \\ast } ( p ) | \\bar { s } ( z _ { 2 } ) d ( z _ { 1 } ) | 0 \\rangle = m _ { \\overline { { K } } _ { 0 } ^ { \\ast } } \\displaystyle \\int _ { 0 } ^ { 1 } d x e ^ { i ( x p \\cdot z _ { 2 } + \\bar { x } p \\cdot z _ { 1 } ) } \\Phi _ { S } ^ { s } ( x ) , } } \\\\ { { \\langle \\overline { { { K } } } _ { 0 } ^ { \\ast } ( p ) | \\bar { s } ( z _ { 2 } ) \\sigma _ { \\mu \\nu } d ( z _ { 1 } ) | 0 \\rangle } } \\\\ { { = - m _ { \\overline { { K } } _ { 0 } ^ { \\ast } } ( p _ { \\mu } z _ { \\nu } - p _ { \\nu } z _ { \\mu } ) \\displaystyle \\int _ { 0 } ^ { 1 } d x e ^ { i ( x p \\cdot z _ { 2 } + \\bar { x } p \\cdot z _ { 1 } ) } \\displaystyle \\frac { \\Phi _ { S } ^ { \\sigma } ( x ) } { 6 } , ~ ( 2 5 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/94f5da94cbc724091efc1a873a245d5bda228d3aeb7fa84a957aceb1be5bfe55.jpg",
+        "table_caption": [
+            "TABLEI:The Parameters of the $K _ { 0 } ^ { * } ( 1 4 3 0 )$ in different scenarios "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>（0） B-K</td><td>a</td><td>b</td><td>EBK</td><td>（0）</td><td>a b</td><td>FK(MeV)</td><td>B1</td><td>B3</td></tr><tr><td>S1</td><td>0.26</td><td>0.44 0.05</td><td></td><td>0.26</td><td>1.52</td><td>0.64</td><td>-300 ± 30</td><td>0.39 ± 0.05</td><td>-0.70±0.05</td></tr><tr><td>S2</td><td>0.21</td><td>0.44</td><td>0.05</td><td>0.21</td><td>1.52</td><td>0.64</td><td>445 ± 50</td><td>-0.39±0.09</td><td>-0.25 ± 0.13</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d930f28e2141fa3623f3fb009df660e12b5f66a40cc20a6d02307c67a716f61f.jpg",
+        "table_caption": [
+            "TABLE II:Summary of input parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\"></td><td>Y</td><td>MS A=4）</td><td>TB0</td><td>TB-</td><td>入B le</td><td></td><td></td></tr><tr><td></td><td></td><td>0.225 0.818</td><td>0.376</td><td>68°</td><td>250MeV</td><td>1.54ps</td><td>1.67ps</td><td>0.35</td><td>1/132</td><td></td></tr><tr><td>fB</td><td>mB</td><td>fK</td><td>fK*</td><td></td><td>fk*</td><td>mK</td><td>mK*</td><td>mK</td><td></td><td>→K A B</td></tr><tr><td>236MeV</td><td>5.36GeV</td><td>131MeV</td><td>221MeV</td><td></td><td>175MeV</td><td>0.49GeV</td><td>0.89GeV</td><td>1.43GeV</td><td>0.35</td><td>0.34</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with $z = z _ { 2 } - z _ { 1 }$ ， $\\bar { x } = 1 - x$ ,and their normalizations are ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\int _ { 0 } ^ { 1 } d x \\Phi _ { S } ( x ) ~ = ~ f _ { S } , } } \\\\ { { \\displaystyle \\int _ { 0 } ^ { 1 } d x \\Phi _ { S } ^ { s } ( x ) ~ = ~ \\int _ { 0 } ^ { 1 } d x \\Phi _ { S } ^ { \\sigma } ( x ) = \\bar { f } _ { S } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The above definitions ofLCDAs can be combined into a singlematrix element as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c l c r }  { \\langle \\overline { { { K } } } _ { 0 } ^ { * } ( p ) | \\bar { s } _ { 2 \\beta } ( z _ { 2 } ) d _ { 1 \\alpha } ( z _ { 1 } ) | 0 \\rangle = \\displaystyle { \\frac { 1 } { 4 } \\int _ { 0 } ^ { 1 } d x e ^ { i ( x p \\cdot z _ { 2 } + \\bar { x } p \\cdot z _ { 1 } ) } } } \\\\ { { \\mathrm { } } } \\\\ { { \\mathrm { } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In general, the twist-2 light-cone distribution amplitude $\\Phi _ { S }$ has the form ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\Phi _ { S } ( x , \\mu ) = \\bar { f } _ { S } ( \\mu ) 6 x ( 1 - x ) } \\\\ { \\displaystyle \\qquad \\times \\left[ B _ { 0 } ( \\mu ) + \\sum _ { m = 1 } ^ { \\infty } B _ { m } ( \\mu ) C _ { m } ^ { 3 / 2 } ( 2 x - 1 ) \\right] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $B _ { m } ( \\mu )$ are scale-dependence Gegenbauer moments and $C _ { m } ^ { 3 / 2 } ( u )$ are the Gegenbauer polynomials. The $B _ { m }$ of different scenarios are also presented in Table I.As for the twist-3 distribution amplitudes,we shall adopt the asymptotic form for simplicity, shown as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi _ { S } ^ { s } ( x ) = \\bar { f } _ { S } , \\qquad \\Phi _ { S } ^ { \\sigma } ( x ) = \\bar { f } _ { S } 6 x ( 1 - x ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the LCDAs of $K ^ { ( * ) }$ ， we will employ the formulaes obtained from the QCD sum rules [15,16]. The other used parameters,such as the CKM elements, the decay constants of the pseudo-scalar and the vector,and the form factors of $B \\to K ^ { ( * ) }$ , are also listed in Table II for convenience. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Now，we turn to discuss the numerical results of the concerned decay modes. As we had stated in previous section,when calculating the hard spectator and the annihilation contributions,two endpoint singularities are parameterized phenomenologically by four free parameters,namely $\\rho _ { H } , \\phi _ { H }$ and $\\rho _ { A } , \\rho _ { A }$ ，which should be determined from the experimental data.In ref.[3],a global fit of $\\rho _ { A }$ and $\\phi _ { A }$ to the $B  S P$ data indicates $\\rho _ { A } = 0 . 1 5$ and $\\phi _ { A } \\ : = \\ : 8 2 ^ { \\circ }$ with $\\chi ^ { 2 } = 8 . 3$ ，so in this work for the central values (or“default” results), $\\rho _ { A , H } ~ = ~ 0 . 1 5$ and $\\phi _ { A , H } = 8 2 ^ { \\circ }$ are adopted. In Table III,we list the calculated branching fractions of $B \\to K _ { 0 } ^ { * } ( 1 4 3 0 ) K ^ { ( * ) }$ decays,where the first uncertainty is due to the variations of $\\boldsymbol { B } _ { 1 , 3 }$ and $f _ { S }$ ,the second comes from the form factors and the strange quark mass,and the last one is induced by weak annihilation and hard spectator interactions in ranges $\\rho _ { A , H } \\in [ 0 , 0 . 3 ]$ and $\\phi _ { A , H } \\in [ 0 , 1 8 0 ^ { \\circ } ]$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here,we shall take $B ^ { - } \\to K ^ { - } K _ { 0 } ^ { * 0 } ( 1 4 3 0 )$ and $B ^ { - } $ $K _ { 0 } ^ { * - } ( 1 4 3 0 ) K ^ { 0 }$ as examples to illustrate the relative size of eachcontribution.The decay amplitude formula of each mode has been presented in eqs.(8) and (9),respectively. The first decay mode is characterized by $B  P$ transition with scalar meson emitted; while the second decay mode is characterized by $B  S$ transition with pseudoscalar meson emitted.Because of the small vector decay constant of scalar meson $K _ { 0 } ^ { * } ( 1 4 3 0 )$ ， $f _ { K _ { 0 } ^ { * } } F _ { 0 } ^ { B \\to K } ( m _ { K _ { 0 } ^ { * } } ^ { 2 } )$ （204号 is suppressed relative to $f _ { K } F _ { 0 } ^ { B \\to K _ { 0 } ^ { * } } ( m _ { K } ^ { 2 } )$ .Therefore, the decay width of the first channel should be suppressed comparing with the second one.The numerical results of these two decay modes are given as below: ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b66f1ed2620c2e868904448080914e7799d6d6c51df2fc05a734f033c92548dd.jpg",
+        "table_caption": [
+            "TABLE III: The branching ratios of $B \\to K _ { 0 } ^ { * } ( 1 4 3 0 ) K ^ { ( * ) }$ in the unite $1 0 ^ { - 7 }$ 业 "
+        ],
+        "table_footnote": [
+            "annihilationdiagrams "
+        ],
+        "table_body": "<html><body><table><tr><td>Decay Mode</td><td>S1</td><td>S2</td></tr><tr><td>B→K(1430)K° B B°→ K*+(1430)K-</td><td>-2.99-3.57-5.05 -0.31-0.01-0.44 11.12±3.80+7.07+4.91 5.36+1.73+5.13+1.73 0.97±0.43+0.01+0.63 8.33+3.31+0.07+7.28</td><td>-0.85-0.90-2.00 -0.29-0.03-0.05 2.39±1.20+1.95+2.67 1.14+0.54+1.40+1.17 40.47±13.36+6.09+6.06 0.58±0.45+0.02+0.14 1.07+0.72+0.03+2.27</td></tr><tr><td>B→K(430 K*0 B→K*K*(1430) B→K*-K*°(1430) B→K*+(1430)K*-</td><td>0.62000 -2.24-0.24-0.75 2.72-0.26-1.07 -0.10-0.00-0.16 10.86+2.54+0.25+0.53 12.71±3.14+0.26+1.16 0.33+0.14+0.00+0.22 14.54±5.75+0.00+12.48</td><td>4.49-0.49-0.59 -4.66-0.53-0.24 -0.06-0.00-0.06 20.13+5.35+0.50+0.42 21.71±5.51+0.54+0.30 0.11+0.09+0.00+0.09 1.84+1.26+0.00+3.94</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From these two equations,it is apparent that the emission diagrams are dominant.However, there is a large enhancement from $O _ { 6 , 8 }$ operators due to the fact that the chiral factor rxo rK= 12.3 at μ = 4.2 GeV is much larger than $r _ { \\chi } ^ { K } ~ = ~ 1 . 5$ owing to the larger mass of $K _ { 0 } ^ { * } ( 1 4 3 0 )$ ： It follows that $( a _ { 6 } ^ { p } ~ - ~ \\textstyle { \\frac { 1 } { 2 } } a _ { 8 } ^ { p } ) r _ { \\chi } ^ { K _ { 0 } ^ { * } }$ ismuch greater than $( a _ { 6 } ^ { p } - \\textstyle { \\frac { 1 } { 2 } } a _ { 8 } ^ { p } ) r _ { \\chi _ { . } } ^ { K }$ and $\\begin{array} { r } { ( a _ { 6 } ^ { p } - \\frac { 1 } { 2 } a _ { 8 } ^ { p } ) r _ { \\chi } ^ { K ^ { * } } } \\end{array}$ This compensate with the suppression of scalar meson decay constant to result in a larger branching ratio of $B ^ { - } \\to K ^ { - } K _ { 0 } ^ { * 0 } ( 1 4 3 0 )$ with scalar meson emitted. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the $B \\to P P ( V )$ and $V V$ decay modes,the weak annihilation contribution is usually expected to be very small because it belongs to the next leading power correction.However, one can see from Table III that the uncertainties induced by the weak annihilation are very large, even much larger than the central values in some decay modes, such as $\\overline { { B } } ^ { 0 }  \\overline { { K } } _ { 0 } ^ { * 0 } ( 1 4 3 0 ) K ^ { 0 }$ and pure annihilation mode $\\overline { { B } } ^ { 0 } \\to K _ { 0 } ^ { * + } ( 1 4 3 0 ) K ^ { * - }$ . This phenomenon can be understood as follow，when discussing the penguininduced annihilation diagram of $B  P P$ mode, the decay amplitude is helicity suppressed heavily because the helicity of one of the final-state mesons cannot match with that of its own quarks. On the contrary, this kind of helicity suppression can be alleviated when the scalar meson involved due to the nonzero orbital angular mo mentum $L _ { z }$ of the scalar meson. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From Table III,one could notice that our predicted central values for the branching ratios of $\\overline { { K } } _ { 0 } ^ { * 0 } ( 1 4 3 0 ) K ^ { 0 }$ and $K _ { 0 } ^ { * - } ( 1 4 3 0 ) K ^ { 0 }$ based on S2 are smaller than the results based on S1 by a factor of $4 \\sim 5$ .In contrast, the central values of of $\\overline { { K } } ^ { 0 } K _ { 0 } ^ { * 0 } ( 1 4 3 0 )$ and $K ^ { - } K _ { 0 } ^ { * 0 } ( 1 4 3 0 )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "based on S1 are a bit smaller than those of S2. For $\\overline { { K } } ^ { \\ast 0 } K _ { 0 } ^ { \\ast 0 } ( 1 4 3 0 )$ and $K ^ { * - } K _ { 0 } ^ { * 0 } ( 1 4 3 0 )$ ，the predicted central values of S2 is larger than those of S1 by a factor 2.Although there is difference between the central values of different scenarios,we cannot distinguish two scenarios due to large uncertainties taken by annihilation diagrams,unless one approach were proposed to deal with annihilations effectively in QCDF.In previous studies [3],by comparing the calculated branching ratios of $B \\to K _ { 0 } ^ { * } \\pi$ and $B \\to K _ { 0 } ^ { * } \\phi$ with experimental data,one concluded that the S2 is prefered, i.e. $K _ { 0 } ^ { * }$ is very likely the lowest lying state.If so，the branching fractions of $\\overline { { K } } ^ { 0 } K _ { 0 } ^ { * 0 } ( 1 4 3 0 )$ and $K ^ { - } K _ { 0 } ^ { * 0 } ( 1 4 3 0 )$ could be measured by analyzing the data of $\\overline { { K } } ^ { 0 } K ^ { + } \\pi ^ { - }$ and $K ^ { - } K ^ { + } \\pi ^ { - }$ .Unfortunately, the predicted results of $\\overline { { K } } _ { 0 } ^ { \\ast 0 } ( 1 4 3 0 ) K ^ { \\ast 0 }$ and $K _ { 0 } ^ { * - } ( 1 4 3 0 ) K ^ { * 0 }$ is too small to be measured with the current data of Belle,but they are hopeful to be measured in the forthcoming Belle-II by analyzing the four-body final states of $K ^ { + } K ^ { - } \\pi ^ { + } \\pi ^ { - }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Within the framework of PQCD,X.Liu et.al had calculated these decays [6],and both their results and ours are below the experimental upper limits. Comparing our predictions and theirs,we find that for pure annihilations they obtained rather larger branching fractions by keeping the transverse momenta,which are larger than ours by more than two order of magnitude. For decays with emission diagrams,they also got the larger branching ratios with rather large nonfactorizaion diagrams based on both two different scenarios.We hope the future measurements could distinguish two different frameworks. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The $\\boldsymbol { C P }$ asymmetries have not been observed in any $B$ decays involving a scalar meson. For the charged decay modes,according the definition, ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bfe52e06e6ceca0cba41fd6f63d6157c341457d11131d8e988bf926d5f167c8.jpg",
+        "table_caption": [
+            "TABLE IV: The direct CP asymmetries ( $\\%$ of $B \\to K _ { 0 } ^ { * } ( 1 4 3 0 ) K ^ { ( * ) }$ （204号 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Decay Mode</td><td>S1</td><td>S2</td></tr><tr><td>B→K*-(1430)K° B→K K*(1430)</td><td>-0.59-0.57-2.82 0.65-0.69-6.67 −5.27±0.50-0.31+2.59 -2.06±0.60+0.85+5.46</td><td>-7.57-9.36-22.86 1.76-0.59-5.47 22.51±4.90+5.63+19.61 -2.60±1.61+0.59+3.52</td></tr><tr><td>B→K*-(1430)K*0 B→K*-K*°(1430)</td><td>-1.12-0.89-0.99 1.37-0.17-13.52 -18.30±0.94+0.65+1.27 5.03±1.30+0.17+11.40</td><td>-6.56-7.85-3.80 -2.64-0.22-9.22 -31.02+4.67+4.28+5.06 0.64±2.54+0.23+7.57</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { C P } ^ { \\mathrm { d i r } } = \\frac { A ( B ^ { - }  f ) - A ( B ^ { + }  \\bar { f } ) } { A ( B ^ { - }  f ) + A ( B ^ { + }  \\bar { f } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "the predictions of the direct $C P$ asymmetries based on two different scenarios of scalar mesons are summarized in Table IV. The resource of this asymmetry is the interference between the emission diagrams and annihilations. The large uncertainties in the latter lead to the large errors in the direct $\\boldsymbol { C P }$ asymmetries,as shown in the table. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the neutral decay modes,the situation becomes more complicated due to the fact that both B° and Bo could decay to the same final states.For illustration,we will take $\\overline { { B } } ^ { 0 } ( B ^ { 0 } )  \\overline { { K } } _ { 0 } ^ { * 0 } ( 1 4 3 0 ) K ^ { 0 }$ as an examples. Four decay amplitudes, $A _ { f }$ ， $A _ { \\bar { f } }$ ， $\\bar { A } _ { f }$ and $A _ { \\bar { f } }$ are denoted as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { A _ { f } = \\langle { K _ { 0 } ^ { * } \\overline { { K } } ^ { 0 } } | { B ^ { 0 } } \\rangle , A _ { \\bar { f } } = \\langle { \\overline { { K } } _ { 0 } ^ { * } K ^ { 0 } } | { B ^ { 0 } } \\rangle ; } \\\\ { \\bar { A } _ { f } = \\langle { K _ { 0 } ^ { * } \\overline { { K } } ^ { 0 } } | { \\overline { { B } } ^ { 0 } } \\rangle , A _ { \\bar { f } } = \\langle { \\overline { { K } } _ { 0 } ^ { * } } { K ^ { 0 } } | { \\overline { { B } } ^ { 0 } } \\rangle . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Then,we can write down the $C P$ asymmetry as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { C P } = \\frac { | A _ { f } | ^ { 2 } + | \\bar { A } _ { f } | ^ { 2 } - | A _ { \\bar { f } } | ^ { 2 } - | \\bar { A } _ { \\bar { f } } | ^ { 2 } } { | A _ { f } | ^ { 2 } + | \\bar { A } _ { f } | ^ { 2 } + | A _ { \\bar { f } } | ^ { 2 } + | \\bar { A } _ { \\bar { f } } | ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Due to $B ^ { 0 } - \\overline { { B } } ^ { 0 }$ mixing, the four time-dependent decay widths are given by ( $f = \\overline { { K } } _ { 0 } ^ { * 0 } ( 1 4 3 0 ) K ^ { 0 } )$ （204 ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l } { { \\displaystyle \\Gamma ( B ^ { 0 } ( t ) \\to f ) = e ^ { - \\Gamma _ { 1 } ^ { 1 } } \\frac { 1 } { 2 } ( | A _ { f } | ^ { 2 } + | \\bar { A } _ { f } | ^ { 2 } ) } } \\\\ { { \\displaystyle \\left[ 1 + C _ { f } \\cos \\Delta m - S _ { f } \\sin \\Delta m t \\right] } , } \\\\ { { \\displaystyle \\Gamma ( \\overline { { B } } ^ { 0 } ( t ) \\to \\bar { f } ) = e ^ { - \\Gamma _ { 1 } } \\frac { 1 } { 2 } ( | A _ { f } | ^ { 2 } + | \\bar { A } _ { f } | ^ { 2 } ) } } \\\\ { { \\displaystyle \\left[ 1 - C _ { f } \\cos \\Delta m t + S _ { f } \\sin \\Delta m t \\right] } , } \\\\ { { \\displaystyle \\Gamma ( B ^ { 0 } ( t ) \\to \\bar { f } ) = e ^ { - \\Gamma _ { 1 } } \\frac { 1 } { 2 } ( | A _ { f } | ^ { 2 } + | \\bar { A } _ { f } | ^ { 2 } ) } } \\\\ { { \\displaystyle \\left[ 1 + C _ { f } \\cos \\Delta m - S _ { f } \\sin \\Delta m t \\right] } , } \\\\ { { \\displaystyle \\Gamma ( \\overline { { B } } ^ { 0 } ( t ) \\to f ) = e ^ { - \\Gamma _ { 1 } } \\frac { 1 } { 2 } ( | A _ { f } | ^ { 2 } + | \\bar { A } _ { f } | ^ { 2 } ) } } \\\\ { { \\displaystyle \\left[ 1 - C _ { f } \\cos \\Delta m t + S _ { f } \\sin \\Delta m t \\right] } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\Delta m$ stands for the mass difference of two mass eigenstate of $B ^ { 0 } / \\overline { { B } } ^ { 0 }$ meson,and $\\Gamma$ for the average decay width of the $B$ meson.The auxiliary parameters $C _ { f }$ and ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$S _ { f }$ appearing in above equations are defined by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { C _ { f } \\ = \\ \\displaystyle \\frac { | A _ { f } | ^ { 2 } - | \\bar { A } _ { f } | ^ { 2 } } { | \\bar { A } _ { f } | ^ { 2 } + | A _ { f } | ^ { 2 } } , } } \\\\ { { S _ { f } \\ = \\ \\displaystyle \\frac { 2 \\mathrm { I m } ( \\lambda _ { f } ) } { 1 + | \\bar { A } _ { f } / A _ { f } | ^ { 2 } } , } } \\\\ { { \\lambda _ { f } \\ = \\ \\displaystyle \\frac { V _ { t b } V _ { t d } ^ { * } } { V _ { t b } ^ { * } V _ { t d } } \\displaystyle \\frac { \\bar { A } _ { f } } { A _ { f } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Replacing $f$ by $f$ ,we could obtain the formulaes for $C _ { \\bar { f } }$ and $S _ { \\bar { f } }$ ，correspondingly. If the experiment could find the values of $C _ { f }$ ， $S _ { f }$ ， $C _ { \\bar { f } }$ and $S _ { \\bar { f } }$ , we thus can obtain four new parameters: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c c c } { { C = \\displaystyle \\frac { 1 } { 2 } ( C _ { f } + C _ { \\bar { f } } ) , \\quad \\Delta C = \\displaystyle \\frac { 1 } { 2 } ( C _ { f } - C _ { \\bar { f } } ) , } } \\\\ { { S = \\displaystyle \\frac { 1 } { 2 } ( S _ { f } + S _ { \\bar { f } } ) , \\quad \\Delta S = \\displaystyle \\frac { 1 } { 2 } ( S _ { f } - S _ { \\bar { f } } ) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Physically, $S$ is the mixing-induced $C P$ asymmetry and $C$ is from the direct $C P$ asymmetry,while $\\Delta C$ and $\\Delta S$ are $C P$ -even under $C P$ transformation $\\lambda _ { f }  1 / \\lambda _ { \\bar { f } }$ In Table.V, we present our estimations of $A _ { C P }$ ， $C$ ， $\\Delta C$ ， $S$ and $\\Delta S$ for the final states $\\overline { { K } } _ { 0 } ^ { * 0 } K ^ { 0 }$ ， $\\overline { { K } } _ { 0 } ^ { * 0 } K ^ { * 0 }$ ， $K _ { 0 } ^ { * + } K ^ { - }$ and $K _ { 0 } ^ { * + } K ^ { * - }$ ，under two different scenarios.It should be stressed that in PQCD [6],there is no $C P$ asymmetries because of the absence of tree operators.However, in QCDF,by including the penguin contractions $( P _ { i } )$ 5 the charming penguin namely,an extra strong phase together with another one from annihilations might lead to the large $\\boldsymbol { C P }$ asymmetry,as shown in the table.Again, the large uncertainties of annihilations result in the large error for the pure annihilation decay modes,especially under S2. We hope these parameters can be measured in future colliders,such as high luminosity Belle-I, LHC-b and even higher energy $e ^ { + } e ^ { - }$ collider. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IV. SUMMARY ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this work, we studied the $B \\to K _ { 0 } ^ { * } ( 1 4 3 0 ) K ^ { ( * ) }$ decays under two different scalar meson scenarios by using the QCD factorization approach.We calculated the branching fractions and the $C P$ asymmetry parameters. It is found that the decay modes with the scalar meson emitted,have large branching fractions due to the enhancement of large chiral factor $r _ { \\chi } ^ { K _ { 0 } ^ { * } }$ , with_some of the branching fractions around the corner of Belle II.In contrast, the branching fractions of decay modes with the vector meson emitted,are much smaller.Moreover,the annihilation contributions take large uncertainties because of the free parameter from endpoint singularity. For the pure annihilation type decays,we predicted very small branching fractions,which are 2-3 orders of magnitudes smaller than the results from PQCD.Some of the decay channels are hopeful to be measured in future colliders, such as Belle-II, LHC-b and even high energy $e ^ { + } e ^ { - }$ collider. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c461259d97fdb288bb38cdf21a021aaa5234711a0082b3befdd6612610c560b6.jpg",
+        "table_caption": [
+            "TABLE V: The CP-violating parameters $A _ { C P }$ ， $C$ ， $\\Delta C$ ， $S$ and $\\Delta S$ （ $\\%$ ）of $B \\to K _ { 0 } ^ { * } ( 1 4 3 0 ) K ^ { ( * ) }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Decay ModeScenario</td><td></td><td>AcP</td><td>C</td><td>△C</td><td>S</td><td>△S</td></tr><tr><td rowspan=\"2\">KK</td><td>S1</td><td>-0.04-0.10-0.13 -0.52±0.04+0.12+0.08</td><td>-0.00-0.00-0.01 0.05±0:00-0.00+0.01</td><td>0.00-0.01-0.00 0.03±0:00-0.01+0.00</td><td>-0.00-0.01-0.00 1.00±0.00-0.01+0.00</td><td>-0.00-0.00-0.00 0.00±0.00+0.00+0.00</td></tr><tr><td>S2</td><td>0.02-0.04-0.08 -0.90±0.03+0.06-0.08</td><td>0.00-0.01-0.01 0.05±0.01+0.01+0:03</td><td>0.00-0.01-0.00 -0.02+0.01+0.01-0.02</td><td>0.00-0.00-0.00 1.00±0.00+0.00+0.00</td><td>-0.00-0.00-0.00 0.02+0.00+0.00+0.00</td></tr><tr><td rowspan=\"2\">RK* *0</td><td>S1</td><td>-0.00-0.01-0.01 0.98±0.02+0.01+0.02</td><td>-0.07-0.03-0.08 0.33±0:01+0.00+0.14</td><td>-0.06-0.03-0.08 0.20±0.01+0.00-0.14</td><td>-0.03-0.02-0.22 0.91±0.03+0.02+0.04</td><td>-0.02-0.02-0.22 0.02±0.03+0.03+0.03</td></tr><tr><td>S2</td><td>-0.00-0.00-0.00 1.00±0.00+0.00-0.00</td><td>-0.24-0.23-0.33 0.27±0.09-0.08+0.21</td><td>0.18±0.09+0.08+0.20</td><td>0.86-0.07-0.06-0.22</td><td>-0.13±0.07-0.06-0.07</td></tr><tr><td>K+K-</td><td>S1</td><td>0.01-0.00-0.05 0.79±0.01+0.00-+0.020</td><td>0.01-0.00-0.04 0.04±0.01+0.01+0.04</td><td>-0.24-0.23-0.33 0.02-0.00-0.06 0.06-0:01-0:00-0.07</td><td>-0.01-0.00-0.22 -0.02-0.01-0.05 0.04±0:02+0.01+0.02</td><td>-0.01-0.00-0.22 -0.03-0.01-0.04 -0.84±0.03-0.01-0.10</td></tr><tr><td rowspan=\"2\"></td><td>S2</td><td>0.01-0.00-0.98 0.290.06-0.01-0.35</td><td>-0.02-0.00-0.10 0.02±0.03-0.01+0.27</td><td>-0.03-0.01-0.26 0.25±0.04-0.01-0.26</td><td>0.05-0.02-0.11 -0.36±0.05+0.04+0.50</td><td>0.10-0.02-0.35 -0.20±0:12+0.01+1.02</td></tr><tr><td>S1</td><td>0.00-0.00-0.01 0.960.00+0.00+0.08</td><td>-0.00-0.00-0.02 -0.01+0.00+0.00+0.01</td><td>0.00-0.00-0.02 0.02+0.01+0.01+0.06</td><td>0.01+0.00+0.00+0.00</td><td>-0.98±0.00-0.000.02</td></tr><tr><td>K*+K*-</td><td>S2</td><td>0.00-0.00-0.66 0.88±0.02+0.00-0.05</td><td>-0.01-0.00-0.02 0.01±0.01+0.00+0.14</td><td>-0.02-0.00-0.11 0.11±0:03+0.01+0.23</td><td>-0.00-0.00-0.00 -0.02-0.00-0.02 0.02±0.01+0.00-8.48</td><td>-0.00-0.00-0.01 -0.02-0.00-0.05 0.91±0.02+0.00+0.63</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] H.Y.Cheng,C.K.Chua and K.C.Yang,Phys.Rev.D 73,014017 (2006)[hep-ph/0508104].   \n[2]Wei Wang,Cai-Dian Lu,Phys.Rev.D82(2010) 034016   \n[3] H. Y. Cheng, C.K. Chua,K. C. Yang and Z. Q. Zhang, Phys.Rev.D87,no.11,114001(2013)[arXiv:1303.4403 [hep-ph]}； H. Y. Cheng, C. K. Chua and K. C. Yang, Phys.Rev.D 77,014034 (2008) [arXiv:0705.3079 [hepphl；H.Y.Cheng and C. K.Chua,Phys.Rev.D 82, 034014(2010)[arXiv:1005.1968 [hep-ph]].   \n[4] Y.Li, X.J.Fan，J.Hua and E.L. Wang, Phys.Rev. D 85,074010 (2012)[arXiv:1111.7153 [hep-ph]}；Y.Li, E.L.Wang and H.Y.Zhang,Adv.High Energy Phys. 2013,175287 (2013)[arXiv:1206.4106 [hep-ph]].   \n[5] W.Wang，Y.L. Shen，Y.Li and C.D. Lu，Phys. Rev.D 74,114010(2006) [hep-ph/0609082]; Y.L.Shen, W.Wang，J. Zhu and C.D.Lu，Eur.Phys.J.C 50，877(2007） [hep-ph/0610380]；Z.Q.Zhang and Z.J.Xiao,Chin.Phys.C 33,508(2009) [arXiv:0812.2314 [hep-phll； X. Liu， Z.Q.Zhang and Z. J. Xiao, Chin.Phys.C 34,157(2010)[arXiv:0904.1955v2 [hepphll；Z.Q.Zhang，Phys.Rev.D 82，034036(2010) [arXiv:1006.5772 [hep-ph]]; Z. Q. Zhang and J. D. Zhang, Eur.Phys.J.C 67,163(2010）[arXiv:1004.4426 [hepphll；Z.Q. Zhang and Z. J. Xiao，Chin. Phys.C 34，528(2010)[arXiv:0904.3375 [hep-ph]].；C.S.Kim, Y.Li and W.Wang,Phys.Rev.D 81,074014 (2010) [arXiv:0912.1718[hep-ph]]； Z.Q. Zhang，Commun. Theor.Phys.56,1063 (2011)；Z.Q.Zhang,Phys.Rev. D 83,054001 (2011） [arXiv:1106.0368 [hep-ph]].   \n[6]X.Liu and Z.J.Xiao,Commun.Theor.Phys.53，540 (2010)[arXiv:1004.0749 [hep-ph]]；X.Liu，Z.J.Xiao ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work is partly supported by the National Science Foundation of China (Grants No. 11175151,11375208 and No. 11235005),and the Program for New Century Excellent Talents in University (NCET） by Ministry of Education of P.R. China (Grant No. NCET-13-0991). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and Z.T.Zou,Phys.Rev.D 88,no.9,094003 (2013) [arXiv:1309.7256 [hep-ph]].   \n[7]G.Buchalla,A.J.Buras,and M.E.Lautenbacher,Rev. Mod.Phys.68,1125(1996)[hep-ph/9512380].   \n[8]M.Beneke,G.Buchalla,MNeubert and C.T.Sachrajda，Phys.Rev.Lett．83，1914 (1999)[arXiv:hepph/9905312]；M.Beneke，G.Buchalla，M.Neubert and C.T. Sachrajda,Nucl.Phys.B 591，313 (2000) [arXiv:hep-ph/O006124]；M.Beneke and M.Neubert, Nucl.Phys.B 675,333 (2003) [arXiv:hep-ph/0308039]; M.Beneke,J.Rohrer and D.Yang,Nucl.Phys.B 774, 64（2007）[hep-ph/0612290].   \n[9]P.Ball and G.W. Jones,JHEP 0703,069 （2007) [hepph/0702100 [hep-ph]].   \n[10]M.-Z. Yang， Phys.Rev.D 73，034027(2006) [Erratum-ibid.D 73,079901 (2006)] [hep-ph/0509103]; T.M.Aliev,K.Azizi and M. Savci, Phys.Rev.D 76, 074017 (2007） [arXiv:0710.1508 [hep-ph]].   \n[11] Y.-M.Wang,M.J.Aslam and C.-D.Lu,Phys.Rev.D 78,014006 (2008) [arXiv:0804.2204 [hep-ph]]; Y.-J. Sun, Z.-H.Li and T.Huang,Phys.Rev.D 83,025024 (2011) [arXiv:1011.3901 [hep-ph]].   \n[12] R. -H. Li, C. -D. Lu, W. Wang and X. -X.Wang, Phys. Rev.D 79,014013 (2009)[arXiv:0811.2648 [hep-ph]].   \n[13]H.-Y.Cheng,C. -K. Chua and C. -W.Hwang,Phys. Rev.D 69,074025 (2004) [hep-ph/0310359].   \n[14] Y.-Y.Keum,H. -n. Li and A.I. Sanda,Phys.Lett. B 504,6(2001）[hep-ph/0004004]；Y.-Y.Keum，H.- N.Li and A.I. Sanda,Phys.Rev.D 63,054008 (2001) [hep-ph/0004173]；A.Ali,G.Kramer,Y.Li,C.D.Lu, Y.L.Shen,W.Wang and Y.M. Wang,Phys. Rev.D ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "76,074018（2007）[hep-ph/0703162];Z.T.Zou,A．Ali, C.D.Lu,X. Liu and Y.Li,arXiv:1501.00784 [hep-ph]. [15]P.Ball and R.Zwicky,Phys.Rev.D 71,014029 (2005) [hep-ph/0412079]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16]P.Ball,G.W.Jones and R.Zwicky,Phys.Rev.D 75, 054004(2007）[hep-ph/0612081]. ",
+        "page_idx": 8
+    }
+]

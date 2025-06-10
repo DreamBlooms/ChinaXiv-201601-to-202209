@@ -1,0 +1,395 @@
+[
+    {
+        "type": "text",
+        "text": "如何用行为经济学应对不确定性：拓展有效助推的范围",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王晓田",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(香港中文大学(深圳)人文与社会科学学院，深圳518172)(Psychology Department,University ofSouth Dakota,SD 57069,USA)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本文提出了决策中不确定性的五种类型及其行为学和心理学的应对机制：用简捷启发式替代加权求和应对信息不确定性，用直觉应对认知不确定性，用价值观预测选择偏好应对行为不确定性，用决策参照点的权重替代概率应对结果不确定性，用时间换时间以降低延迟折扣应对未来不确定性。新行为经济学应当通过“为什么”的功能性分析，找到行为助推的心理杠杆。化解不确定性本身就是一种有效的行为助推；化繁为简是行为助推的关键所在。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词行为经济学；行为决策；不确定性;“火鸡困境\"；选择偏好",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B849;C934;C935",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现行的行为经济学及其助推功能的局限性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "行为经济学对人性有三个基本的假设：有限理性、有限意志力、和有限自利。塞勒和桑斯坦(Thaler& Sunstein,2008)在合著的《助推》(nudge)一书中指出，人们常常依据直觉做出决策，因此经常会现出系统的理性偏差。书中列举了消费者的多种“愚蠢的错误”，进而主张通过助推式的公共政策和企业管理上的干预来降低和纠正消费者非理性的决策和消费行为。助推试图通过了解行为的心理学机制，以非强制性的小措施影响和改变大众的决策行为；从而在最大限度地节约资源的基础上，对降低冲动性提高理性消费起到助推作用。塞勒认为应用助推的方法可以提高政府对市场的管理效率。因此，助推是塞勒等一部分行为经济学的研究者为减少非理性的决策行为而提出的非强制性的心理干预方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "塞勒获得2017年诺贝尔经济学奖使得行为经济学再度获得学者与公众的高度关注。然而，并非所有的助推策略都是有效的或是有长效的。作者认为，能够以小拨大的主要助推机制有二：一是化繁为简，二是以心理为杠杆。化繁为简后，才能有效地降低不确定性，在认知上才能举重若轻。以心理调节驱动行为，才能得以化解行政管理的粗暴与僵化。本文着重探讨通过行为与心理干预化繁为简、降低不确定性的行为助推机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于行为经济学或者说是塞勒流派的行为经济学，一直存在着两类批评。第一类批评认为助推的理念错误地提倡政府对个体行为的干预，违背了美国推崇个人自由的核心价值观(Goodwin,2012；Pykett et al.,2011；Wallace-Wells,2010)。对此，桑斯坦在其《为何助推》一书中对这些批评进行了总结归类和答复(Sunstein，2014)。他认为，虽然传统经济学认为自由市场是最好的经济型态，因为每个人都会理性地做出最好的选择。但是实际上人们经常做出错误的决定，导致“行为性市场失灵”(behavioralmarketfailures)。在这样的情况下，桑斯坦认为政府应当适时出面干预和补救。这种政府的干预应当建立在决策心理学对非理性行为的影响因素和机制的了解之上。桑斯坦把推行这类政府干预背后的理念称之为“自由主义家长制”(libertarianpaternalism)，把因此而产生的助推定义为一种“软性干预\"或“软式管理”。塞勒和桑斯坦等人的助推理论认为，因为人的理性有限、意志力有限；因此自由选择的结果常常是次佳或是低效的。这种非理性的自由选择需要有人来予以纠正，而能够对市场进行最有效的规范的自然是政府。因为政府的职能本来就是管理与干预，如果政府缺乏对市场行为的了解，只能使政府的干预变得更加随意和低效。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于行为经济学和助推策略的另一种批评来自于对人类决策理性的不同理解。行为经济学用以评估行为是否理性的标准也许并不合理(Gigerenzer,2O15；Mols,Haslam,Jetten,&Steffens,2015)。基于进化适应性和生态理性的观点，人的决策理性是有限的，不仅受制于认知的局限而且受到决策环境的限制。但是，决策者不是被动的而是能够通过对于自身认知局限的了解和对任务环境规律的把握做出有效的适应性决策(Gigerenzer & Selten，2001；Simon，1956，1990;Wang，1996，2008)。因此，生态理性的模型摒弃了行为经济学对人性的三个基本假设(有限理性、有限意志力、和有限自利)中的后两个假设，并对第一个假设进行了修正。根据这种观点，单纯的行为助推只是影响了行为的表面而没有涉及行为的本质。助推不是教育(Nudging is not educating)，因此无法真正改变人的行为(Gigerenzer，2015)。助推在暂时抑制了某种行为之后，甚至可能最终导致该种行为的反弹(Molsetal.，2015)。塞勒式的助推也许对人们的外在动机(incentive)产生了无形的影响，但对人的价值观和内在动机(motivation)没有做出改变。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多数基于功效(utility)分析和概率计算的决策理论和模型，包括行为经济学的模型，并不考虑行为的功能性和适应性；而是试图穷尽所有的相关因素，进而依赖于加权、概率、和理性逻辑原则进行决策。这里的理性原则强调的不是决策线索的生态信效度，而是逻辑上的“一致性”。比如，根据传递性(transitivity)原则，对于选项A、B和C,如果一个人的偏好顺序是 $\\mathbf { A } > \\mathbf { B } , \\mathbf { B } > \\mathbf { C }$ ，那么这个人必然有 $\\mathbf { A } > \\mathbf { C }$ 的偏好。功效计算中最常用的原则是“加权求和”。加权需要对所有可能的结果赋予相应的概率，求和需要考虑所有有关的影响因素和线索。这种非功能性的分析，使得经济和金融领域的决策模型变得越来越复杂。这种复杂性並不是因为模型基本思路的繁冗，而是因为这种依赖于精确概率统计的决策模型在面对无法用概率描述的不确定性事件时往往变得捉襟见肘、无能为力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，现行的行为经济学及其助推理论用以衡量决策行为的仍然是传统经济学的理性原则。然而，决策的偏差和非理性也许是人类长期进化的适应机制与现代市场环境两者之间的不协调造成的。因此，要真正理解人类的决策行为就需要了解决策的功能性和适应性。现行的行为经济学模型的另一个局限在于依赖于概率模型评估决策行为，缺乏对不确定性的考量。本文通过下面的“火鸡的故事\"揭示概率模型无法有效地应对不确定性，进而提出了对五类不确定性的应对方法。作者认为，化解不确定性本身就是一种有效的行为助推，同时也为进一步拓展现行的行为经济学及其助推的范畴提供了方向。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 火鸡的故事 概率统计学决策模型的困境",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "英国哲学家罗素(Bertrand Russell)在其《哲学的问题》(1957)一书中讲过这样一个故事：在一个农场里，有一只会进行归纳推理的聪明的火鸡来到世上。一个农夫出现在它的生活中，火鸡担心农夫会杀了它，但是农夫不仅没有伤害它，还喂它食物。头几天，火鸡并没有放松警惕，它依然担心农夫会对它不利。然而日复一日，每天上午九点钟农夫都准时来给它喂食。就这样，这只火鸡积累着它对喂食的观察，并更新着它的概率预测。根据火鸡收集到的不同情况下的大量观察数据，农夫不会杀它而会给它喂食的概率在一天天地增长。如果同一件事之前发生过 $\\mathbf { \\bar { n } }$ 次，那么这件事再次发生的概率为 $( \\mathfrak { n } + 1 ) / ( \\mathfrak { n } + 2 )$ 。也就是说，第一天过后，农夫第二天还会喂它的概率是2/3。第二天过后，概率增长为 $3 / 4$ ，以此类推，喂食的概率一天高于一天，而它被杀的概率则越来越小。当然，这只聪明的火鸡也可以进行贝叶斯概率分析。无论运用何种统计方法，到了第100天，这只火鸡几乎百分百地确定农夫不会杀它，而会再来给它喂食。然而残酷的现实是，这天正是圣诞节的前一日；就在这一天的早上，农夫把这只火鸡抓进了厨房，然后砍下了它的头。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可见，这只火鸡没有弄清楚不确定性世界与可用概率预测风险的世界存在的差异。这种将不确定性与已知风险的情形相混淆的问题也被称为“火鸡困境”(Gigerenzer,2014)。“风险\"并不等同于“不确定性”(Knight，1921)。我们没有办法预知未来，从而不可能精准地量化概率。风险可以量化，但不确定性是无法量化的。对于可能结果的统计分析只能基于已有的数据，但是过去往往并不能告诉我们未来是什么。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在不确定性的世界中，当一个事件尘埃落定，当一个决策有了结果，不确定性就自然变为确定性。决策者于是又开始面对新的不确定性。这个过程不停地在概率标尺的两端转换，而没有明确的中间值。个人和组织的决策都有一个从不确定性到确定性的循环往复的过程。发生过的是确定的，未来的是不确定的；记忆里的是曾经的不确定性，面对的是要化解的不确定性。人类认知功能的一个重要任务就在于降低不确定性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "长期以来火鸡困境一直存在。新古典经济学思路下发展出的各种期望加权的风险决策理论一致认为，个体对于决策结果及其概率的估计是可靠的，人们可以通过计算不同选项的效用值(一个选项可能的几种结果的效价与其概率乘积之和),并根据效用最大化的原则理性地选择出最优的选项。在过去的一个世纪中，在现代统计学的基础上发展出的决策理论模型大多需要对各种假定的结果赋予具体的概率估值。这些模型奠定了包括现代宏观经济学、金融学、决策支持系统、企业管理研究、以及风险管理的基础。但是，人类所处的现实世界中，事件的发生往往既无精确的概率可依，又不符合统计学的归纳性推论。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，我们需要对“火鸡困境\"的启示做进一步的分析。我们可以想一想，除了上帝之外还有什么能够帮到这只善于推理的火鸡？有什么认知机制可以帮助它较好地预测未来？统计在这里并非无用。无用而有害的是只关注结果的概率而忽视了农夫的动机和火鸡对于农夫的功用。对于那只火鸡而言，精密的贝叶斯概率在更新到第一百天的时候彻底失去了意义，因为这种统计分析对于生存不仅无益而且有害。然而，在这100天的生命中，这只火鸡也许有幸生活在火鸡群体之中。作为一个社会动物，它可以获得与动机和功用有关的信息。比如，有多少只火鸡被抓走？这些被抓走的火鸡之中，有多少只火鸡是有去无返？它们一般是在多大的时候被抓走的？也许它会发现，所有被抓走的火鸡都是有去无回；而它们一般是在100天前后被捕的。了解了这些信息之后，这只火鸡也许会对自己的生存状态做出与经典的贝叶斯概率不同的判断，进而做出不同的决策。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "重要的是，想要获得对上述问题的答案并不困难；需要的只是从简单的自然抽样中获得几个频数。比如，12分之12(12只被抓走的火鸡，一只都没有回来)；或是12分之10(12只被抓走的火鸡之中有 10 只是在第 100 天前后被抓走的)。那么,这只火鸡在100天前后被捕的可能性很高，而一旦被捕，回家的可能性几乎为零。因此，一只智慧的火鸡可能会槟弃使用贝叶斯概率更新，而采纳自然频数进行动机性分析，从而决定在自己命断百日宴之前逃离农场。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此可见，应用概率分析的风险决策模型的一个重大缺陷在于这些模型只关注了相关性而不是因果关系。也就是说概率依赖的是经验的归纳，分析的是“什么\"的问题，而不是“为什么\"的问题。我们只有了解“为什么\"才能够从纷繁而瞬息万变的不确定性世界中找到相对稳定和长期的预测变量。如果决策结果的概率难于预测，我们可以另辟蹊径，从对人和人性的分析入手。新行为经济学首先需要了解的是决策对象的动机及其背后的价值观。行为科学和心理学对化解不确定性的贡献应该在于提供对于行为的动机和功能性的分析。然而，现行的行为经济学赖以判断行为是否理性的原则就像是罗素的火鸡所用的统计学原则，两者都只关注了相关性而不是因果关系，没有对行为的终极缘由进行探索，没有问“为什么\"的问题。因此，行为经济学对决策理性的定义需要进一步扩展，进而包括生态理性和社会理性。理性不是真空的，衡量决策质量的原则首先要符合人性才能是理性的。仅仅存在于新古典经济学中的真空的理性人是没有血缘、种族或任何社会联系的孤立个人，而且是一种对相关信息无所不知的理性人，活动在一个没有制度限制的、零交易成本的世界中。这种真空式的理性在面临认知局限时，或是在经济价值与社会价值发生矛盾时，往往左支右细，无力应对(王晓田，陆静怡,2015)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "行为经济学能否帮助我们应对不确定性，助推能否举重若轻，关键在于能否作用到决策过程的关键环节上。本文对决策过程中重要环节上可能出现的不确定性进行了分类，并提出了应用行为经济学的方法应对这五类不确定性的途径。五类不确定性之间的关系是平行的，可能分别或同时存在。这五类不确定性发生在决策过程的不同节点上：从信息的来源和获取到对信息的认知分析和判断，再到应对行为和策略的选择，最后是决策结果以及决策的跨时效应。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 五类不确定性及其应得策略",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 应对信息不确定性 用简捷启发式替代加权求和",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在当今的信息社会中，不确定性的一个重要来源不再是信息的匮乏而是信息的过剩和信息的良莠难辨。应对信息不确定性的方法之一是西蒙(Simon，1956，1990)提出的有限理性和满意原则。有限理性要求决策者既要在自身认知能力之内处理信息，又要利用任务环境的特性帮助决策。也就是说，既要知道自己的脑袋有几斤几两，又要利用环境中的天时地利人和。由于存在认知和环境的限制，决策者在评估各种决策信息和选项时，所用的就不再是最优化和最大化原则，而是一种“满意原则”。Simon 给这一原则冠名为“satisficing\";这是一个独创的词汇，应该是 satisfactory 和 sufficing的结合体。在一个多变的环境中，一旦找到一个既令人满意又能达标的选項，就应当不再犹豫，立即选用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "吉仁泽(Gerd Gigerenzer)等人提出的简捷启发式是应对信息不确定性的又一途径。简捷启发式化繁为简，可以依靠生态效度高的单一理由做出判断和决策。在众多的指标中只根据一个最有效度的指标做出的选择并不亚于综合各种指标而做出的最优化选择。单一理由决策的表现在不确定性高的环境中，往往优于功效最大化或是复杂的贝叶斯 模 型(Gigerenzer & Gaissmaier， 2011;Gigerenzer& Selten,2001)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "单一理由的决策可以使人们在面对复杂而紧急的事件时做出迅速的判断和决定。比如，面对911的恐怖袭击美国领导人做出了快速的应对。美国在2001年9月11日遭到自杀式恐怖袭击。当天早晨，19名恐怖分子劫持了四架民航客机，其中两架飞机分别撞击了纽约世界贸易中心的双塔大楼两座建筑均在两小时内倒塌，结果造成飞机上的所有的人和在建筑物中的近三千人死亡。第三架被劫持的民航飞机撞入了华盛顿特区附近的美国国防部五角大楼。劫机者控制的第四架飞机在尚未坠毁前正在向首都华盛顿飞来，当时的副总统切尼在与布什总统失去联系的情况下，迅速地做出了允许空军击落这架被劫持的民航客机的决策。很显然，切尼副总统没有时间进行复杂的运算与权衡，做出果断决策的单一理由应该是对国家安全的考量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用简单的启发式进行判断和决策可以有效降低认知负荷并同时过滤掉复杂模型中由于各种参数不准确而带来的信息噪音。“狗与飞盘\"的例子很好地展示了简单启发式对信息不确定性的有效应对。捕捉飞盘涉及到一系列的物理因素和气象因素；风速、飞盘转速等等都会影响到结果。如果一个物理学家将抓飞盘当作一个最优控制问题来研究，那么他需要理解和应用牛顿的万有引力定律。然而，尽管抓捕飞盘事涉复杂，但成功抓获还是很常见的。一条普通的狗也可以完成这项任务，甚至比人类做得还要好。那么，狗能够成功的秘诀是什么呢？答案是简单应对。已有的研究表明，抓住飞盘可以通过最简单的经验法则避开复杂的运算；那就是在奔跑时保证注视飞盘的角度基本保持恒定(参见Gigerenzer,2014)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "像抓捕飞盘一样，运用简单的启发式也可以有效地防范经济危机。我们在没有被不确定性的刀刃割伤之前往往不知道它的锋利。2007年从美国开始的次贷危机引发的全球性金融危机就是一个例子。这场危机的一个起因是金融界用于风险控制和监管的复杂模型的失效。依据传统决策理论建构的金融模型的失效和导致金融危机的根本原因在于用风险事件的概率定义不确定性。结果往往是，每多一个概率的估值，就使模型的运算中多了一份噪音。而与其相乘的价格估值往往又无法反应真实的效用变化。效用不同于价格，往往不是线性的、序数的或等距的。对于一家涉及众多投资项目的大银行，计算风险价值需要预测成千上万种参数，这些预测数据综合到一起会产生巨大的误差，因而有必要简化计算过程。近几十年来不断发展的复杂监管体系不仅成本高昂和冗繁，而且还无法有效地控制危机。在充满变数的金融监管领域，越简明可能越好(Gigerenzer,2014;Haldane,2012)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 应对认知不确定性 用直觉帮助决策 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不确定性还有其内生的来源，人们有时并不真正知道自己对不同目标和可能结果的赋值和权重到底是多少，到底執重敦轻。这种赋值和权重在没有做出决策之前很可能是飘忽不定的。所以，对于自身的价值与偏好，往往是选了才知道。也就是说，人们往往不是知道了才选，而是选了才知道。这一现象对于行为经济学的一个启示在于，对某种描述性问题的一次性选择并不一定能够反映出决策者稳定的风险偏好。我们需要关注一次性的决策和基于经验的反复决策之间是否存在不同。比如，对描述性情景进行判断时，人们往往过高估计不常见的事件的发生概率；而在通过对决策结果的反馈而进行判断时，人们这往往过高估计近期事件的发生概率(Hertwig，Barron，Weber,&Erev, 2004)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "信息社会使人们的选择多样化，繁多的诱惑和选择使人们应接不暇。每种选择争相斗艳，极尽所能地获取消费者有限的注意力。每种选择的认知理由都可以堂而皇之，互不相让，使得决策的主人沉浸在思辨的迷阵中无从决断。信息社会中琳琅满目的选项常常让消费者不同的想法打群架。有时只有当真正做出选择后，认知才能够更新升级。只有选了才能真正知道自己内隐的偏好导向哪里。更通俗地讲，只有真的见到母亲和妻子一起落水了才会知道想先救谁；只有心里痛了才知道正真正爱谁；只有被上了酷刑才知道会不会当叛徒。所以，决策理论依靠统计和权重计算出来的效用值往往是靠不住的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在一个可以估算风险的世界里，我们运用统计思维就可以了；但如果面对充满变数的世界，我们还需要被称作启发式的经验法则以及良好的直觉。启发式应对的是信息的不确定性，而直觉更适用于应对认知的不确定性。启发式决策和直觉决策的一个主要区别在于，启发式是有清晰的认知步骤和程序的决策工具，而直觉决策则需要决策者在缺乏清晰的认知判断时依靠综合感受做出决策。直觉不是凭空而来的，而是源于人类的进化和个人的经验。在不确定性高、缺乏先例又时间紧迫的情况下，甚至可能没有一个最佳理由或线索可以依靠，这时就需要用直觉而不是理性分析做出决定。心理学家JohnBargh(2017)在其新书中列举了许多在潜意识中依靠直觉解决问题的例子。比如，在品尝和评价不同的草莓酱的质量时，人们凭感觉做出的快速评判往往比仔细分析后作出的评判更加准确有效。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "人们常说的“靠谱\"或“不靠谱\"就是一种依靠直觉做出的判断。对于不确定性环境下的方案，尽管没有任何概率的信息，人们还是会做出自己的判断。比如，对于一个方案，人们经常通过直觉将其定性为“靠谱”、“不靠谱”、“有戏”、或“有点儿悬”。在不确定性高的情况下，直觉加上危机意识(底线思维)使得有效的决策成为可能。含有危机意识的直觉本身就包含了高生态效度的线索。所谓靠谱是凭着直觉化解不确定性，也可视为一种将不确定性向风险性转化的启发式。如果一个预期结果听起来靠谱，也就意味着其可能性较高；听起来不靠谱，则意味着其可能性很低。通过对一个方案的\"靠谱\"或“不靠谱\"的直觉定性，不确定性开始向风险性转化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与价值观相似，直觉帮助我们打破僵局；如果还能够进一步将直觉变为顿悟的话，就可以发现解决问题的关键，找到做出有效决策的优先理由。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 应对行为不确定性一一用价值观预测选择偏好",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "新行为经济学需要关注决策主体的动机，从而对行为的偏好有所把握和预判。了解决策者的价值观对于行为的预判大有裨益。价值观与价值不同。对于一个选项的价值判断受到供需关系和预期的可能性等多种因素影响。然而，万变不离其宗，这个“宗\"就是价值观。这里，价值观指的是决策中孰重敦轻的排序(比如，财富、名声、地位、健康等等)。因为价值观相对稳定，所以了解一个人或是一个团体的价值观，可以帮助我们预测个人或团体的目标和底线以及行为的偏好和倾向，从而通过对决策对象价值观的分析降低所预测的行为的不确定性。在面临取舍和选择的时候，决策者需要了解到底什么对“我、我们、他、她、他们\"是最重要的、重要的、比较重要的、锦上添花的、弃之可惜的、可放弃的、不重要的、和无足轻重的。价值观是取舍的基础，对于决策的倾向性有长效的影响。了解决策双方的价值观可以帮助我们在不确定性的世界中推断决策双方的动机和意图。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "价值观决定孰重敦轻，这里的轻重与金线的价值的高低之间不是一种线性关系；这种非线性关系也就决定了金钱不是万能的。当价值触及底线时，对价值观的了解能够帮助人们解决棘手的问题。埃及与以色列在1979年为结束两国战争状态而缔结的《埃以和約》就是一个典型的例子。从国家价值观出发，对于在1967年的六日战争中丢失了领土(西奈半岛)的埃及来说，最为重要的是国家领土的完整。而对于以色列而言，首要的是要得到对其国家合法性的承认。一方把收复失去的领土看得高于承认以色列的国家地位；另一方把国家合法性看得高于通过战争获取的领土。于是两国通过漫长的谈判，最终以“土地换和平”而达成了和平协议，取得了两国之间关系的长期稳定。埃以和谈的成功在于从价值观的层面上找到了可以互换的不同的维度。而根据建立在价格(值)分析上的决策理论，则无法找到解决之道。人们因为各自的价值观不同，才有了双赢的可能。了解各自价值观维度的排序，才有可能用各自的“次优\"换来“更优”。如果价值观都是一样的，就不可能做到双赢。两个争名之人，或两个夺利之人在一起，往往争斗不息。然而，一个把“财\"看得重于“名\"的人与一个把\"名\"看得重于\"财\"的人之间则有可能互利。总之，在价值观层面上的分析能够帮助人们更有效地整合经济、社会、政治、和文化因素，找到双赢的基础，提高决策质量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 应对结果不确定性 用决策参照点权重替代概率",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "价值观决定了人们不同的目标和底线，利用目标和底线作为决策的参照点可以帮助化解结果不确定性。当预期结果的分布无法用概率做精确的计算时，可以用决策的参照点来界分结果的功能性空间。三参照点理论(Tri-ReferencePointTheory，Wang&Johnson，2012；王晓田，王鹏，2013)以底线、现状和目标为参照点，将决策结果空间划分为失败、损失、获益和成功四个功能区域。根据三个参照点的心理权重的排序：底线 $>$ 目标 $>$ 现状，并据此预测出对于跨越不同参照点的预期结果的选择偏好。依据参照点决策的基本任务在于，在使得达到目标的可能性最大化的同时使底线不保的可能性最小化。在面对不同的选项时，通过分析各个预期结果的分布与三个参照点之间的关系而做出适应性的决策。环境中某些变量(比如不同的股票一年后的市值)经常无法用概率精确估算，但其变化的范围尚可预测。比如，决策者可能无法通过概率统计的方法计算出不同股票的期望值，但是可以预测出股票价位的期望范围。在这种结果不确定性的情况下，引入决策的任务参照点(具体的底线要求和目标值)可以在不考虑概率的情况下同样有效地指导选择。也就是根据底线的权重高于目标的原则，选择变化范围不会触及底线的股票；在不触及底线的前提下，选择有可能达到目标的股票",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如果有两个不确定性的投资选项：A（-100,600)和B(100,400)。A方案可能盈利600万或亏损100万;B方案可能盈利100万或400万。选哪个？",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "假如决策者的底线是至少盈利150万，目标是盈利500万。A选项的低端值-100和B选项的低端值100都未达到底线，两者之间可视为没有本质的区别。这时，就只需比较高端值的600和400;A方案的高端值600可以成功达到目标而B方案高端值400仍然低于目标，于是选择A方案。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如果，底线 $\\mathit { \\Theta } = \\ 0$ ，目标 $\\mathit { \\Theta } = 3 0 0 \\$ ，就可以不管高端值400和600之间的不同，因为两者均已达标。这时只需比较两个选项在底线上的优劣，因为A方案可能造成底线不保，而B方案的低端值在底线之上，所以选择B方案。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "底线不保是诱发经济危机的一个重要原因。在经济形势看上去一派大好的时候，企业与消费者都容易忽视投资和借贷中的底线风险，因为入不敷出而产生信贷危机。行为干预可以通过引入决策参照点对此有所防范。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5 应对未来不确定性 用时间换时间以降低延迟折扣",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "时间是不确定性的另一个重要来源，但是统计和概率在预报未来事件时经常无能为力。事实上，每一种创新在其发生之前都无法预测，如果能够预测的话，也就不是创新了。本文上面分析过的结果不确定性没有包括时间带来的变化。时间带来的未知中既有在等待过程中所有可能发生的变化，又有即时结果与未来结果之间随时间而变化的延迟折扣率(Frederick，Loewenstein，&O'Donoghue，2002)。如果说结果不确定性主要影响人们的风险决策，未来不确定性影响的则主要是跨期决策(在少而快的结果与多而慢的结果之间的选择)和自我控制(比如，是否坚持控制饮食）(Ainslie,2001)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "人们无法准确预测将来也就无法准确地安排自己和家人的未来。比如，如何实施储蓄和养老计划的问题，长期以来一直困扰着政策制定者、经济学家、企业的规划者、和普通百姓。人们通过工作的时间换取薪酬，再把部分薪酬投资于将来养老。对于现在的一块钱，我们知道它能够为我们提供什么。但是，对于这一块钱在将来能为我们做什么，没有人能够准确地把握。如果把它存起来，我们现在就无法使用它，因此会有机会成本。而在将来，也许它会升值，也许会贬值，也许会因为通货膨胀，而变得一文不值。因此，对于现在的一块钱，未来的一块钱就会在我们的评估中贬值，也就是经济学中所说的延迟折扣或者叫未来折扣。延迟折扣成为阻碍养老储蓄的一个重要原因。由于对未来的判断无法准确，再加上个体之间在折扣率上的差异，延迟折扣率很难有一个公认的值。因为缺乏一个适用于所有人或仅仅是一个群体的估值，我们很难找到一个合适的折扣率来指导投资和储蓄。也就是说，由于未来的不确定性，时间和金钱的兑换变的十分困难而多变。在这种情况下，有什么行为经济学的方法可以帮助我们解决因为未来不确定性而带来的投资和储蓄的困境？",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如果金钱的未来价值难于判断，我们可以考虑用时间换时间。时间银行(timebanking)的概念和实践就是一个颇有前景的化解之道。比如，通过瑞士联邦社会保险部开发的一个时间银行的养老项目，人们可以把年轻时照顾老人的时间存起来，等将来自己老了、病了或需要人照顾时，再拿出来使用。每个人服务的时数会存入社会保险系统的个人账户内。时间银行还可以使社区内自愿参与的人们进行互助。比如，我帮你打扫卫生10小时，当我需要时就可以根据你的技能请你也为我工作10个小时。在中国逐渐步入老龄社会的情况下，时间银行显然可以减轻独生子女赡养父母的负担，同时把养老防老的功能从单一家庭扩大到了社区互助的层面。时间银行的这些社会和文化上的功用来源于对未来不确定性的化解。虽然时间银行仅仅是化解未来不确定性的一个单一的案例，但是其背后的机制则可以应用于更多的决策问题。这一机制的核心在于不再用金钱换时间，而是用时间换时间。这使得决策者得以规避在跨期决策中延期折扣的复杂推算以及时间和金钱之间等价交换的困难。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4总结 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "塞勒和桑斯坦等行为经济学家试图通过非强制性的心理干预影响和改变决策行为，从而对降低冲动性提高理性消费起到助推作用。然而，行为经济学一直以来用以衡量人们决策是否理性的仍然是概率统计和传统经济学的理性准则。作者对于“火鸡困境\"的分析表明，在不确定性的世界中人们难于通过概率预测指导判断与决策。流行于经济学和行为科学研究中的统计思维和理性分析关注的是结果变量与预测变量之间的相关关系，忽视了行为的功用和起因以及决策双方的动机。行为经济学的模型需要对风险和不确定性条件下的决策加以区分。本文对决策过程中信息获取、认知判断、行为策略选择、风险决策的结果、以及跨期决策的未来效应等重要环节上可能出现的不确定性进行了分类，并提出了用行为经济学的方法应对这五类不确定性的途径。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "应对不确定性的行为助推需要作用到决策的关键环节上才可能成功。现行的助推模式推崇对行为的无形干预，并不强调教育或是对价值观和决策动机的塑造。简单的行为助推虽然可能无形中改变了行为，但无法影响到行为背后的深层机制。行为的深层机制是通过人类长期的进化而形成的。然而现代社会中新生的环境变化往往与人类的典型进化环境大相径庭。依据进化出的直觉在现代环境中做出的决策往往不符合传统经济学和行为经济学用以衡量决策是否理性的原则；因为这些理性原则依据的往往是逻辑的一致性而不是进化的适应性。新的行为经济学需要通过“为什么\"的功能性分析，找到心理杠杆的支点。所谓支点往往是决定价值观的要点，是进化适应的特征所在。如果助推的作用点合适，就能够做到以小拨大而不是以小博大。化解不确定性本身就是一种有效的行为助推；以上所述的降低不确定性的行为学方法的共性在于\"少即是多”(Less is more),化繁为简是行为助推的关键所在。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ainslie,G.(2oo1).Breakdown of will.Cambridge,England: Cambridge University Press.   \nBargh,J.A.(2017).Before you know it: The unconscious reasons we do what we do.New York,NY:Touchstone.   \nFrederick，S.，Loewenstein，G.，& O'Donoghue，T.(2002). Time discounting and time preference:A critical review. Journal of Economic Literature,40(2),351-401.   \nGigerenzer,G.(2o14).Risk Savvy:How to make good decisions. Penguin Books.   \nGigerenzer,G. (2O15).On the supposed evidence for libertarian paternalism. Review of Philosophy and Psychology，6(3), 361-383.   \nGigerenzer,G.& Gaissmaier,W.(2O11).Heuristic decision making.Annual Reviewer ofPsychology, 62(1),451-482.   \nGigerenzer,G.& Selten,R.(Eds.) (2oo1).Bounded rationality: Theadaptivetoolbox.Cambridge/MA:MITPress.   \nGoodwin,T. (2012).Why we should reject‘nudge'.Policy and Politics 32(2),85-92.   \nHertwig，R.，Barron，G.，Weber，E.U.，& Erev,I.(2004). Descriptive from experience and the effect of rare events in risky choice.Psychological science,15(8),534-539.   \nKnight,F.H.(1921).Risk,uncertainty and profit.New York: Hart, Schaffner and Marx.   \nMols,F.,Haslam,S.A., Jetten,J.,& Steffens,N.(2015).Why anudge isnot enough:a socialidentity critique of governance by stealth.European Journal ofPolitical Research,54(1), 81-98.   \nPykett, J.,Jones,R.,Whitehead,M.,Huxley,M.,Strauss,K., Gill,N.，..Newman,J. (2011). Interventions in the political geography of‘libertarian paternalism'.Political Geography, 30(6),301-310.   \nSimon,H.A.(1956).Rational choice and the structure of the environment.Psychological Review, 63(2),129-138.   \nSimon,H.A.(199O).Invariants of human behavior.Annual Review ofPsychology,41(1),1-19.   \nSunstein,C.R.(2014).Why nudge?Thepoliticsof libertarian paternalism.New Haven:Yale University Press.(中译本: 马冬梅译 (2015)．为什么助推.北京：中信出版社)   \nThaler,R.H.,& Sunstein,C.R.(2008).Nudge: Improving decisions about health,wealth,and happiness.NewHaven, CT:Yale University Press.   \nWallace-Wells,B. (2010,May 11).Cass Sunstein wants to nudge us.The New York Times,http://www.nytimes.com/ 2010/05/16/magazine/16Sunstein-t.html Accessed 15.06.10.   \nWang，X.T. (1996).Domain-specific rationality in human choices:Violations of utility axioms and social contexts. Cognition, 60, 31-63.   \nWang，X-T.(2oo8).Risk communication and risky choice in context:Ambiguity and ambivalence hypothesis.Annals of the New York Academy of Sciences,1128(1),78-89.   \nWang,X.T.& Johnson,G.J.(2012).A tri-reference point theory of decision making under risk.Journal of Experimental Psychology:General, 141(4),743-756.   \nWang,X.T.,& Lu,J.Y.(2015).Wisdom of evolution and rationalities of decision making．East China Normal University Press.   \n[王晓田，陆静怡.(2015)．进化的智慧与决策的理性.华东 师范大学出版社.]   \nWang,X.T.,& Wang,P.(2O13).Tri-reference point theory of decision making:From principles to applications.Advances inPsychological Science,21(8),1331-1346.   \n[王晓田，王鹏.(2013).决策的三参照点理论：从原理到应 用．心理科学进展,21(8),1331-1346.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Using behavioral economics to cope with uncertainty: Expand the scope of effective nudging ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "XiaoTianWANG ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(Schoolof Humanities and Social Science,Chinese University ofHong Kong,Shenzhen 518172,China) (PsychologyDepartment,University of SouthDakota,SD57069,USA) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Within a framework of “libertarian paternalism”，the idea of nudge promotes the use of behavioral interventions to reduce irrational decisions that may collectively lead to“behavioral market failures”(Thaler & Sunstei,2Oo8；Sunstein,2O14).This approach has been criticized,however,for its lack of transparency in behavioral manipulations and for that nudging is not educating.In the current theory of nudging，whether a decision is judged as rational is largely based on a smallnumber of neoclassc standards of expected utility theories under the assumption that all the expected consequences and their probabilities are available to the decision maker. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this article,the author intends to expand the scope of effective nudging to include decisions under uncertainty where the probabilities associated with decision outcomes are unknown. The author explored behavioral strategies to reduce diferent types of uncertainty.From this perspective,reducing uncertainty is seen as an important way of behavioral nudging. A key for effective nudges is “less is more\". ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on an analysis of the“Bertrand Russel's Turkey”,the author exemplified how probability-based calculations fail in areal world of uncertainty. Next, the author proposed a quintuple classification of uncertainty existing in the following stages of information processing in decision making,including uncertainty in the information source,information acquisition,cognitive evaluation,choice selection,and immediate and future outcomes.The author further examined behavioral and psychological mechanisms that help reduce each type of uncertainty: Reduce information uncertainty using simple heuristics and one-reason decision making,reduce cognitive uncertainty using intuition,reduce behavioral uncertainty by understanding values of decision makers, reduce outcome uncertainty by replacing probability estimates with prioritized decision reference points,and reduce future uncertainty using time-to-time exchanges to decrease delay discounting. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Many decision biases can be beter understood in terms of the inconsistency between the modern market environment and the typical human evolutionary environment where behavioral adaptations evolved. Understanding functional reasons underlying decision biases willhelp improve the quality of human decision making.A new behavioral economics should ask questions of why in functional analysis to find psychological leverages for behavioral nudging. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key wordsbehavioral economics；behavioral decision making；uncertainty；the Turkey's dilemma;choice preference ",
+        "page_idx": 8
+    }
+]

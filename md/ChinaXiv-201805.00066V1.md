@@ -1,0 +1,364 @@
+# 考虑建议零售价的双渠道供应链批发价格模式选择
+
+刘昊，王志平，李桃迎(大连海事大学 航运经济与管理学院，辽宁 大连116026)
+
+摘要：对由制造商网络直销渠道和零售商传统渠道构成的双渠道供应链系统进行研究。首次在建议零售价背景下研究了批发价格模式选择问题，运用制造商主导的 Stackelberg 博弈，得出了供应链各成员的价格均衡策略。综合考虑零售商谈判能力和和消费者对渠道的偏好度，对比分析了不同批发价谈判模式下的制造商利润、零售商利润和供应链利润。结果表明，制造商可通过建议零售价调整市场价格；从供应链总体或者零售商角度，以直销价格为基准确定批发价格是最优的；制造商倾向于单独确定批发价格，但当零售商谈判能力较弱，且网络渠道基本市场份额偏大时，也可接受以网络直销价为基准确定批发价格。
+
+关键词：建议零售价；双渠道；批发价格制定；Stackelberg博弈 中图分类号：F274 doi:10.3969/j.issn.1001-3695.2017.11.0994
+
+# Wholesale pricing in dual-channel supply chain with suggested retail price
+
+Liu Hao, Wang Zhiping,Li Taoying (Transportation Management College,Dalian Maritime University,Dalian Liaoning l16026 China)
+
+Abstract:The dual-channel supplychain system consisting ofa manufacturer's network direct sales channel andaretailer's traditional channelwasresearched.Firstlythis paperstudied thechoiceofthe wholesale price modelunder thebackgroundof the Suggested Retail Price(SRP),and obtained the price equilibrium strategyof each member in the supplychain with the StackelberggamedominatedbythemanufacturerInaddition,itcompared themanufacturers'profit,retailers'profitandupply chain profit in diferent wholesale pricenegotiation modesconsidering theretailer's bargaining powerand thechanel preferences ofconsumers.Theresults show thatthe manufacturercanadjustthe market price according tothe SRC.Meanwhile, It is optimal to determine the wholesale price based on the online direct price fromthe viewpointofthe supplychain or the retailer.Furthermore,the manufacturer prefers to determinethe wholesale price separately.However,when theretailer's bargaining power issmalland thebasic market shareofonline channels is large,the manufacturercanaccepttheonline direct price as the benchmark to decide the wholesale price.
+
+Key Words: suggested retail price; dual-channel; wholesale price; Stackelberg game
+
+# 0 引言
+
+建议零售价是制造商根据商品生产和营销策略，同时兼顾同类产品竞争情况，给予产品的指导价格。它能有效避免商家私自抬价，保护品牌形象，并且为消费者提供一个参照价格。参照价格不仅影响消费者的保留价值，而且影响消费者的购物频率、购物时间和购物数量，是消费行为的重要参考。因此，在对由制造商网络直销渠道和零售商传统渠道组成的双渠道供应链定价问题的研究，不能忽视制造商建议零售价所形成的参照价格效应。此外，随着大型零售商的崛起，其对渠道的控制越来越强，议价能力也逐渐提高。批发价格将不在由制造商单独确定，而是双方通过谈判，讨价还价决定。但是选择谁作为谈判基准呢？建议零售价，还是制造商网络直销价？
+
+与本文有关的一类文献是对参照价格效应的研究。如Kalyanaram等人[1]首次研究了参照价格对消费者品牌选择的影响，指出参照价格持续影响消费者的购买决策。Fibich、Nasiry和Hsieh等人[2\~4]在参照价格影响下研究了产品的动态定价问题，把参照价格设定为过去价格指数的平均值，或者是过去时间的最低价和最近时间的最高价的平均值。考虑到广告对参考价格的影响，Zhang 等人[5]提出了一个供应链的动态合作广告模型，并分析了参考价格效应如何影响所有渠道成员的决策。Dye 等人[构造了一个具有时间和价格敏感性需求和参考价格效应的恶化库存系统的联合动态定价模型，提出了一个广义模型来共同确定最优销售价格和补货策略，使零售商的利润总额在有限的规划期内最大化。浦徐进等人[研究了参照价格效应对双渠道供应链运作的影响,结果表明参照价格效应的存在能够缓解渠道间价格的竞争程度,提升供应链的运作效率。林志炳[8]首次把建议零售价作为参照价格引入供应链中，指出在一定条件下，最低参照价格和最高参照价格策略都可能最大化制造商的收入。
+
+与本文有关的另一类文献是讨价还价确定批发价格的问题如Iyer等人[9研究了议价能力对供应链协调的影响，指出更大的零售商力量能促进渠道协调。Dukes、艾兴政和安彤等人[10\~12]在零售商竞争环境下研究了讨价还价下批发价格的制定问题，但这些文献只是在传统渠道框架下进行的研究。李海等人[13]针对由网络直销渠道和电子零售渠道组成的双渠道供应链，基于制造商和零售商之间的谈判能力对比，通过博弈建模分析了三种零售价定价模式下供应链成员的价格和物流服务水平决策。此外，李海等人[14]把讨价还价理论引入由制造商网络直销渠道和零售商传统渠道组成的双渠道供应链，分别以零售商零售价格为谈判基准、以制造商网络直销价格为谈判基准，并比较了两种谈判模式的优劣。吴正祥等人[15]在此基础上研究了营销努力对批发价格模式选择的影响。但这些研究又都未考虑参照价格效应。此外，消费者搭便车行为对供应链决策具有显著影响。Mittelstaedt等人[16]研究指出，消费者的搭便车行为削弱了零售商提供服务的动力，导致了服务水平的降低，使市场需求减少。因此在对双渠道供应链的研究中不能忽视消费者的搭便车行为
+
+鉴于此，本文把建议零售价所形成的参照价格效应引入双渠道供应链，并考虑消费者的搭便车行为，在讨价还价下研究批发价格模式的选择问题。本文试图解决以下两个问题：a)建议零售价对双渠道供应链定价决策具有何种影响？
+
+b)从制造商角度、零售商角度或者供应链整体角度，选择何种批发价格制定模式是最优的？
+
+# 1 问题描述与模型假设
+
+本文研究的供应链系统由一个制造商和一个零售商构成。其中，制造商进行网络直销，零售商进行传统零售。制造商网络直销价格为 $p _ { d }$ ，批发价格为 $w$ ，零售商零售价格为 ${ { p } _ { r } }$ 。供应链结构如图1所示。
+
+![](images/c185d474699783222674808c3424e078f6b334cd623d674f131834a382cf1f36.jpg)  
+图1双渠道供应链结构
+
+制造商为商品提供建议零售价，用 $f$ 表示。参考林志炳[8]和 $\mathrm { P u } ^ { [ 1 7 ] }$ 等构建的需求函数，得网络直销渠道和传统实体渠道市场需求分别为
+
+$$
+q _ { d } = e Q - p _ { d } + a \bigl ( p _ { r } - p _ { d } \bigr ) + b \bigl ( f - p _ { d } \bigr ) + s t
+$$
+
+$$
+\begin{array} { l } { q _ { r } = { \left( 1 - e \right) } Q - p _ { r } + a { \left( p _ { d } - p _ { r } \right) } + b { \left( f - p _ { r } \right) } } \\ { \quad \qquad + { \left( 1 - t \right) } s } \end{array}
+$$
+
+其中： $\boldsymbol { Q }$ 为商品基本消费者人数， $e$ 为偏好网络渠道购物的消费者所占比例，可看做网络渠道基本市场份额； $a$ 为需求交叉价格弹性系数，反映了渠道之间的竞争程度，这里假设$0 < a < 1$ ，通常不同渠道价格的变化小于自身渠道价格变化对需求的影响； $b$ 为参照效应系数，表示实际售价和建议零售价间的差异对需求的影响，假设 $0 < b \leq a$ ； $s$ 为零售商实体渠道促销努力水平，促销成本函数为 $C { \big ( } s { \big ) } = k s ^ { 2 } / 2$ ,其中 $k$ 为促销努力成本系数。同Krishnan等[18]的假设，当实体店提供的促销努力水平为 $s$ 时，将有 $s$ 个新消费者进入市场。这些消费者中有一部分搭便车，他们先去实体店享受产品展出、解说、免费体验等促销服务，然后通过网络渠道购买产品，这部分人所占比例为 $t { \bigl ( } 0 \leq t \leq 1 { \bigr ) }$ 。
+
+本文假设制造商和零售商之间信息共享，制造商在渠道中具有支配地位，二者之间进行Stackelberg 博弈。 $r$ 表示零售商讨价还价能力， $r$ 越大，零售商谈判能力越小。 $\Pi _ { m } , \Pi _ { r } , \Pi$ 分别表示制造商和零售商收入以及供应链系统总收入，其中$\begin{array} { r } { \prod = \prod _ { m } + \prod _ { r } . } \end{array}$ 0
+
+本文假设制造商的生产成本为零，这不影响本文的相关讨论。用上标‘ $A ^ { \ , } \cdot B ^ { \ , } \cdot C$ 分别表示制造商单独确定批发价格、以建议零售价为基准确定批发价格和以网络直销价为基准确定批发价格三种情形，上标‘\*’表示最优决策量。
+
+# 2 模型求解
+
+# 2.1制造商单独确定批发价格
+
+此时，制造商首先确定网络直销价格和批发价格，然后零售商根据制造商的决策确定其零售价格。制造商和零售商决策模型如下：
+
+$$
+\operatorname* { m a x } _ { \boldsymbol { p } _ { d } , \boldsymbol { w } } \prod _ { m } ^ { A } = p _ { d } q _ { d } + w q _ { r }
+$$
+
+$$
+\operatorname* { m a x } _ { \boldsymbol { p } _ { r } } \prod _ { r } ^ { A } = \big ( \boldsymbol { p } _ { r } - \boldsymbol { w } \big ) q _ { r } - C \big ( \boldsymbol { s } \big )
+$$
+
+根据逆向归纳法求解。
+
+由 $\frac { \partial ^ { 2 } \prod _ { r } ^ { A } } { \partial p _ { r } ^ { 2 } } < 0$ 知 $\Pi _ { r } ^ { A }$ 为关于 ${ { p } _ { r } }$ 的严格凹函数，存在最优解。 $\frac { \partial \Pi _ { r } ^ { A } } { \partial p _ { r } } = 0$ ，得零售商最优反映函数为
+
+$$
+\begin{array} { l } { { p _ { r } = \left[ b f + a p _ { d } - Q \big ( e - 1 \big ) - s \big ( t - 1 \big ) + w \big ( a + b + 1 \big ) \right] } } \\ { { \qquad / \left[ 2 a + 2 b + 2 \right] } } \end{array}
+$$
+
+把上式代入 $\Pi _ { m } ^ { A }$ ，并令 $\frac { \partial \prod _ { m } ^ { A } } { \partial p _ { d } } = 0 , \frac { \partial \prod _ { m } ^ { A } } { \partial w } = 0$ ,联立即得
+
+$$
+\begin{array} { c } { { p _ { d } ^ { A ^ { * } } = \left( Q a + Q e + b f + a s + s t + b ^ { 2 } f + Q b e \right. } } \\ { { \left. + 2 a b f + b s t \right) / \left[ 2 ( 2 a + 2 b + 2 a b + b ^ { 2 } + 1 ) \right] } } \end{array}
+$$
+
+$$
+\begin{array} { c } { { w ^ { A } { } ^ { * } = ( Q + s + Q a + Q b - Q e + b f + a s + b s - s t + b ^ { 2 } f } } \\ { { - Q b e + 2 a b f - b s t ) / [ 2 ( 2 a + 2 b + 2 a b + b ^ { 2 } + 1 ) ] } } \end{array}
+$$
+
+$\Pi _ { m } ^ { A }$ 关于 $p _ { d } , w$ 的 Hessian 矩阵为
+
+$$
+H = \left( \begin{array} { c c } { { \displaystyle - \left( a ^ { 2 } + 4 a b + 4 a + 2 b ^ { 2 } + 4 b + 2 \right) } } & { { } } \\ { { \left( a + b + 1 \right) } } & { { } } \\ { { a } } & { { - \left( a + b + 1 \right) } } \end{array} \right)
+$$
+
+显然可判定该矩阵为负定矩阵， $\Pi _ { m } ^ { A }$ 为关于 $p _ { d }$ $w$ 的联合凹函数。因此 $p _ { d } ^ { A ^ { * } } , w ^ { A ^ { * } }$ 为该决策问题的唯一最优解。把（20 $p _ { d } ^ { A ^ { * } } , w ^ { A ^ { * } }$ 代入零售商最优反映函数即得
+
+$$
+\begin{array} { r l } { \quad p _ { r } ^ { A ^ { * } } = ( 3 Q + 3 s + 6 Q a + 6 Q b - 3 Q e + 3 b f + 6 a s } \\ { \quad } & { + 6 b s - 3 s t + 2 Q a ^ { 2 } + 3 Q b ^ { 2 } + 6 b ^ { 2 } f + 3 b ^ { 3 } f } \\ { \quad } & { + 2 a ^ { 2 } s + 3 b ^ { 2 } s - 3 b ^ { 2 } s t + 6 Q a b - 4 Q a e - 6 Q b e } \\ { \quad } & { + 8 a b f + 6 a b s - 4 a s t - 6 b s t - 3 Q b ^ { 2 } e + 8 a b ^ { 2 } f } \\ { \quad } & { + 4 a ^ { 2 } b f - 4 a b s t - 4 Q a b e ) / [ 4 ( b + 1 ) ( a + b + 1 ) } \\ { \quad } & { \quad ( 2 a + b + 1 ) ] } \end{array}
+$$
+
+命题1
+
+$$
+\frac { \hat { \sigma } p _ { r } ^ { A ^ { * } } } { \hat { \sigma } f } > \frac { \hat { \sigma } p _ { d } ^ { A ^ { * } } } { \hat { \sigma } f } = \frac { \hat { \sigma } w ^ { A ^ { * } } } { \hat { \sigma } f } > 0 \ : _ { \circ }
+$$
+
+证明
+
+$$
+\frac { \hat { \sigma } p _ { r } ^ { A ^ { * } } } { \hat { \sigma } f } = \frac { b \bigl ( 2 a + 3 b + 3 \bigr ) } { 4 \bigl ( b + 1 \bigr ) \bigl ( a + b + 1 \bigr ) } > 0 ,
+$$
+
+$$
+\frac { \hat { \sigma } w ^ { A ^ { * } } } { \hat { \sigma } f } = \frac { \hat { \sigma } p _ { d } ^ { A ^ { * } } } { \hat { \sigma } f } = \frac { b } { 2 \vert b + 1 \vert } > 0
+$$
+
+命题1表明，当制造商单独确定批发价格时，零售商实体渠道价格、制造商网络直销渠道价格及批发价格与建议零售价正相关。但建议零售价对零售商真实售价的影响大于对网络直销价格的影响，并且建议零售价对制造商网络直销价格和批发价格的影响程度相同。可见，制造商可利用建议零售价来调节市场价格，建议零售价对零售商实体渠道价格具有更大的约束力。
+
+命题2 $\frac { \hat { o } p _ { r } ^ { A ^ { * } } } { \hat { \partial } s } > 0 , \frac { \hat { o } p _ { d } ^ { A ^ { * } } } { \hat { \partial } s } > 0$ ；当 $0 \leq t < t _ { 1 }$ 时，$\frac { \partial p _ { r } ^ { A ^ { * } } } { \partial s } > \frac { \hat { o } p _ { d } ^ { A ^ { * } } } { \hat { o } s }$ 当 $t _ { 1 } < t \leq 1$ 时， $\frac { \partial p _ { r } ^ { A ^ { * } } } { \partial s } < \frac { \partial p _ { d } ^ { A ^ { * } } } { \partial s }$ 其中$t _ { 1 } = { \frac { 4 a + 3 b + 3 } { 6 a + 5 b + 5 } } \circ$
+
+证明
+
+$$
+\begin{array} { r l r } {  { \frac { \hat { \sigma } p _ { r } ^ { A ^ { * } } } { \hat { \sigma } s } = [ ( a b + a ) ( 6 - 4 t ) + ( 1 - t ) ( 3 b ^ { 2 } + 6 b + 3 ) } } \\ & { + \ 2 a ^ { 2 } + 3 b ^ { 2 } ] / [ 4 ( b + 1 ) ( a + b + 1 ) ( 3 b ^ { 2 } + 6 b + 3 ) ] > 0 , } & \\ & { \frac { \hat { \sigma } p _ { d } ^ { A ^ { * } } } { \hat { \sigma } s } = ( a + t + b t ) / [ 2 ( b + 1 ) ( 2 a + b + 1 ) ] > 0 } \end{array}
+$$
+
+做差即得证。
+
+命题2表明，当制造商单独确定批发价格时，实体渠道提高促销努力水平将促使各渠道价格的提高，但促销努力水平对实体渠道和网络直销渠道价格的影响程度存在差异。当搭便车消费者所占比例较小时，零售商促销努力吸引并留住了更多消费者，可大幅度提高实体渠道价格来弥补促销成本的损失。但当搭便车消费者比例较大时，零售商提高促销努力水平，虽吸引了更多的消费者，但却没有留住更多的消费者。此时，只能以实体渠道价格的增长幅度小于网络直销渠道价格的增长幅度来缓和。
+
+# 2.2以制造商建议零售价为基准确定批发价格
+
+此种情况，零售商通过谈判与制造商确定批发价格，批发价格形式为
+
+$$
+w = r f
+$$
+
+制造商首先确定网络直销价格，然后零售商根据制造商决策确定其零售价格。制造商和零售商决策模型如下：
+
+$$
+\operatorname* { m a x } _ { { \boldsymbol { p } } _ { d } } \prod _ { m } ^ { B } = r f { \boldsymbol { q } } _ { r } + p _ { d } q _ { d }
+$$
+
+$$
+\operatorname* { m a x } _ { \boldsymbol { p _ { r } } } \prod _ { r } ^ { B } = \big ( p _ { r } - r f \big ) q _ { r } - C \big ( s \big )
+$$
+
+根据逆向归纳法求解。
+
+令 $\frac { \partial \Pi _ { r } ^ { B } } { \partial p _ { r } } = 0$ =0，得零售商最优反映函数为
+
+$$
+\begin{array} { l } { { p _ { r } = \left[ b f + a p _ { d } - Q ( { \bf { e } } { - } 1 ) - s ( { \bf { t } } { - } 1 ) + f r ( a + b + 1 ) \right] } } \\ { { \quad \quad \quad / \left[ 2 ( { \bf { a } } + { \bf { b } } { + } 1 ) \right] } } \end{array}
+$$
+
+把上式代入 $\Pi _ { m } ^ { B }$ ，公 （2014 $\frac { \partial \Pi _ { { m } } ^ { B } } { \partial p _ { { d } } } = 0$ =0解得
+
+$$
+\begin{array} { r l } & { p _ { d } ^ { B ^ { * } } = ( Q a + 2 Q e + 2 b f + a s + 2 s t + 2 b ^ { 2 } f + Q a e } \\ & { ~ + 2 Q b e + 3 a b f + 2 a f r + a s t + 2 b s t + 2 a ^ { 2 } f r } \\ & { ~ + 2 a b f r ) / ( 2 a ^ { 2 } + 8 a b + 8 a + 4 b ^ { 2 } + 8 b + 4 ) } \end{array}
+$$
+
+把 $p _ { d } ^ { B ^ { * } }$ 代入零售商最优反映函数得
+
+$$
+\begin{array} { c } { { p _ { r } ^ { B ^ { * } } = \left[ b f + a p _ { d } ^ { B ^ { * } } - Q ( { \mathrm { e - } } 1 ) - s ( { \mathrm { t - } } 1 ) + f r ( a + b + 1 ) \right] } } \\ { { { } } } \\ { { { } / \left[ 2 ( { \mathrm { a + } } { \mathrm { b + } } 1 ) \right] } } \end{array}
+$$
+
+同上可判定 $p _ { d } ^ { B ^ { * } } , p _ { r } ^ { B ^ { * } }$ 为该决策问题的唯一最优解。
+
+$$
+\frac { \partial p _ { r } ^ { B ^ { * } } } { \partial f } > \frac { \widehat { \cal O } p _ { d } ^ { B ^ { * } } } { \partial f } > 0 ; \frac { \widehat { \cal O } p _ { r } ^ { B ^ { * } } } { \widehat { \cal O } r } > 0 , \frac { \widehat { \cal O } p _ { d } ^ { B ^ { * } } } { \widehat { \cal O } r } > 0 \ ,
+$$
+
+证明
+
+$$
+\begin{array} { l } { { \hat { o } p _ { r } ^ { B ^ { * } } / \hat { o } f = ( 4 b + 4 r + 1 0 a b + 1 2 a r + 1 2 b r + 1 0 a b ^ { 2 } + 5 a ^ { 2 } b } } \\ { { + 1 2 a ^ { 2 } r + 4 a ^ { 3 } r + 1 2 b ^ { 2 } r + 4 b ^ { 3 } r + 8 b ^ { 2 } + 4 b ^ { 3 } + 2 4 a b r } } \\ { { + 1 2 a b ^ { 2 } r + 1 2 a ^ { 2 } b r ) / [ 4 ( a + b + 1 ) ( a ^ { 2 } + 4 a b + 4 a + 2 b ^ { 2 } } } \\ { { + 4 b + 2 ) ] > 0 } } \end{array}
+$$
+
+$$
+\frac { \hat { \sigma } p _ { d } ^ { B ^ { * } } } { \hat { \sigma } f } = \frac { 2 b + 3 a b + 2 a r + 2 a ^ { 2 } r + 2 b ^ { 2 } + 2 a b r } { 2 \left( a ^ { 2 } + 4 a b + 4 a + 2 b ^ { 2 } + 4 b + 2 \right) } > 0
+$$
+
+做差即得证；
+
+$$
+\begin{array} { c } { { \displaystyle \frac { \hat { \sigma } p _ { r } ^ { B ^ { * } } } { \hat { \sigma } r } { = } \frac { f \bigl ( a + b + 1 \bigr ) ^ { 2 } } { a ^ { 2 } + 4 a b + 4 a + 2 b ^ { 2 } + 4 b + 2 } > 0 , } } \\ { { \displaystyle \frac { \hat { \sigma } p _ { d } ^ { B ^ { * } } } { \hat { \sigma } r } { = } \frac { a f \bigl ( a + b + 1 \bigr ) } { a ^ { 2 } + 4 a b + 4 a + 2 b ^ { 2 } + 4 b + 2 } > 0 } } \end{array} .
+$$
+
+命题3表明，当以制造商建议零售价为基准确定批发价格时，建议零售价对双渠道价格的影响同制造商单独确定批发价格情形。同时可看到， $r$ 越大，即零售商讨价还价能力越弱，双渠道价格越大。
+
+命题4 $\frac { \hat { \sigma } p _ { r } ^ { B ^ { * } } } { \hat { \sigma } s } > 0 , \frac { \hat { \sigma } p _ { d } ^ { B ^ { * } } } { \hat { \sigma } s } > 0$ ；当 $0 \leq t < t _ { 2 }$ 时，$\frac { \partial p _ { r } ^ { B ^ { * } } } { \partial s } > \frac { \hat { o } p _ { d } ^ { B ^ { * } } } { \hat { o } s }$ 当 $t _ { 2 } < t \leq 1$ 时， $\frac { \partial p _ { r } ^ { B ^ { * } } } { \partial s } < \frac { \partial p _ { d } ^ { B ^ { * } } } { \partial s }$ ，其中
+
+$$
+t _ { 2 } = \frac { a ^ { 2 } + 6 a b + 6 a + 4 b ^ { 2 } + 8 b + 4 } { 3 a ^ { 2 } + 1 2 a b + 1 2 a + 8 b ^ { 2 } + 1 6 b + 8 } \circ
+$$
+
+证明：
+
+$$
+\begin{array} { l } { { \hat { \sigma } p _ { r } ^ { B ^ { \ast } } / \hat { \sigma } s = \left[ ( 1 - t ) ( 4 b ^ { 2 } + 8 b + 4 ) + ( 8 - 6 t ) ( a b + a ) \right. } } \\ { { \left. + a ^ { 2 } ( 3 - \mathrm { t } ) \right] / \left[ 4 ( a + b + 1 ) ( a ^ { 2 } + 4 a b + 4 a + 2 b ^ { 2 } \right. } } \\ { { \left. + 4 b + 2 ) \right] > 0 } } \end{array}
+$$
+
+$$
+\frac { \hat { \sigma } p _ { d } ^ { B ^ { * } } } { \hat { \sigma } s } = \frac { a ^ { 2 } + 6 a b + 6 a + 4 b ^ { 2 } + 8 b + 4 } { 3 a ^ { 2 } + 1 2 a b + 1 2 a + 8 b ^ { 2 } + 1 6 b + 8 } > 0 ,
+$$
+
+做差即得证。
+
+命题4与命题2结果类似，不再论述。
+
+# 2.3以制造商直销价为基准确定批发价格
+
+此种情况，零售商通过谈判与制造商确定批发价格，批发价格形式为
+
+$$
+w = r p _ { d }
+$$
+
+制造商首先确定网络直销价格，然后零售商根据制造商决策确定其零售价格。制造商和零售商决策模型如下：
+
+$$
+\begin{array} { r } { \underset { { \boldsymbol { p } _ { d } } } { \operatorname* { m a x } } \prod _ { m } ^ { C } = r p _ { d } q _ { r } + p _ { d } q _ { d } } \end{array}
+$$
+
+$$
+\operatorname* { m a x } _ { \boldsymbol { p _ { r } } } \Pi _ { r } ^ { c } = \big ( \boldsymbol { p } _ { r } - \boldsymbol { r } \boldsymbol { p } _ { d } \big ) \boldsymbol { q } _ { r } - \boldsymbol { C } ( \boldsymbol { s } )
+$$
+
+根据逆向归纳法求解。
+
+令 $\frac { \partial \Pi _ { r } ^ { c } } { \partial p _ { r } } = 0$ ，得零售商最优反映函数为
+
+$$
+\begin{array} { l } { { p _ { r } = [ b f + a p _ { d } - Q \big ( e - 1 \big ) - s \big ( t - 1 \big ) + p _ { d } r \big ( a + b + 1 \big ) ] } } \\  { \phantom { p _ { r } = }  \begin{array} { r l } { { \phantom { - } } } & { { } } \\ { { \phantom { - } } / { ( 2 a + 2 b + 2 ) } } \end{array} } \end{array}
+$$
+
+把上式代入 $\Pi _ { m } ^ { C }$ ，今 $\frac { \partial \Pi _ { { m } } ^ { C } } { \partial p _ { d } } = 0$ ：0解得
+
+$$
+\begin{array} { r l } & { { p _ { d } ^ { c * } } = ( Q a + 2 Q e + Q r + 2 b f + a s + r s + 2 s t } \\ & { \quad \quad + 2 b ^ { 2 } f + Q a e + 2 Q b e + Q a r + Q b r - Q e r } \\ & { \quad \quad + 3 a b f + b f r + a r s + b r s + a s t + 2 b s t } \\ & { \quad \quad - r s t + b ^ { 2 } f r - a r s t - b r s t - Q a e r } \\ & { \quad \quad - Q b e r + a b f r ) } \end{array}
+$$
+
+把 $p _ { d } ^ { C ^ { * } }$ 代入零售商最优反映函数即得 $p _ { r } ^ { C ^ { * } }$
+
+进一步得
+
+$$
+\boldsymbol { w } ^ { C ^ { * } } = \boldsymbol { r } \boldsymbol { p } _ { d } ^ { C ^ { * } }
+$$
+
+同上可判定 $p _ { d } ^ { C ^ { * } } , p _ { r } ^ { C ^ { * } } , w ^ { C ^ { * } }$ 为该决策问题的唯一最优解。
+
+命题5
+
+$\frac { \hat { \sigma } p _ { r } ^ { C ^ { * } } } { \hat { \sigma } f } > 0 , \frac { \hat { \sigma } p _ { d } ^ { C ^ { * } } } { \hat { \sigma } f } > 0 \quad \~ ; \quad \triangleq \quad 0 < r < \frac { a } { 1 + a + b }$ 时$\frac { \hat { \sigma } p _ { r } ^ { c * } } { \hat { \sigma } f } < \frac { \hat { \sigma } p _ { d } ^ { C ^ { * } } } { \hat { \sigma } f } , \overset { \backprime } { \exists } \frac { a } { 1 + a + b } < r < 1 \oplus \frac { \hat { \sigma } p _ { r } ^ { C ^ { * } } } { \hat { \sigma } f } > \frac { \hat { \sigma } p _ { d } ^ { C ^ { * } } } { \hat { \sigma } f } .$
+
+证明
+
+$$
+\begin{array} { r l } & { \hat { c } p _ { r } ^ { c s } / \hat { c } f = [ { \mathrm b } ( 3 a ^ { 2 } r ^ { 2 } + 5 a ^ { 2 } + 6 a b r ^ { 2 } + 2 a b r + 1 0 a b } \\ & { + 6 a r ^ { 2 } + 2 a r + 1 0 a + 3 b ^ { 2 } r ^ { 2 } + 2 b ^ { 2 } r + 4 b ^ { 2 } + 6 b r ^ { 2 } } \\ & { + 4 b r + 8 b + 3 r ^ { 2 } + 2 r + 4 ) ] / [ 4 ( a + b + 1 ) ( a ^ { 2 } r ^ { 2 } } \\ & { - 2 a ^ { 2 } r + a ^ { 2 } + 2 a b r ^ { 2 } - 2 a b r + 4 a b + 2 a r ^ { 2 } - 2 a r } \\ & { + 4 a + b ^ { 2 } r ^ { 2 } + 2 b ^ { 2 } + 2 b r ^ { 2 } + 4 b + r ^ { 2 } + 2 ) ] > 0 } \end{array}
+$$
+
+$$
+\begin{array} { l } { { \hat { \sigma } p _ { d } ^ { c * } / \hat { \sigma } f = [ { \bf b } ( 3 a + 2 b + r + a r + b r + 2 ) ] / [ 2 ( a ^ { 2 } r ^ { 2 } } } \\ { { - 2 a ^ { 2 } r + a ^ { 2 } + 2 a b r ^ { 2 } - 2 a b r + 4 a b + 2 a r ^ { 2 } - 2 a r } } \\ { { + 4 a + b ^ { 2 } r ^ { 2 } + 2 b ^ { 2 } + 2 b r ^ { 2 } + 4 b + r ^ { 2 } + 2 ) ] > 0 } } \end{array}
+$$
+
+做差即得证。
+
+命题5表明，当以制造商网络直销价为基准确定批发价格时，随着建议零售价的增大，双渠道价格依然会提高，但建议零售价对实体渠道价格和网络直销渠道价格的影响程度与零售商的谈判能力有关。当零售商讨价还价能力较小时，建议零售价对实体渠道价格的影响大于对网络直销渠道价格的影响；较大时，反之。
+
+命题6 $\frac { \partial p _ { r } ^ { c * } } { \partial s } > 0 , \frac { \hat { c } p _ { d } ^ { C ^ { * } } } { \hat { \mathcal { O } } s } > 0$ ；当 $0 \leq t < t _ { 3 }$ 时，$\frac { \partial p _ { r } ^ { C ^ { * } } } { \partial s } > \frac { \partial p _ { d } ^ { C ^ { * } } } { \partial s }$ 当 $t _ { 3 } < t \leq 1$ 时， $\frac { \partial p _ { r } ^ { C ^ { * } } } { \partial s } < \frac { \partial p _ { d } ^ { C ^ { * } } } { \partial s }$ ，其中$t _ { 3 } = \frac { a ^ { 2 } + 6 a b + 6 a + 4 b ^ { 2 } + 8 b + 5 r + 4 } { 3 a ^ { 2 } + 1 2 a b + 1 2 a + 8 b ^ { 2 } + 1 6 b + 7 r + 8 } \mathrm { ~ , ~ }$
+
+证明
+
+$$
+\begin{array} { r l } & { \hat { c } p _ { r } ^ { c ^ { * } } / \hat { \sigma } s = [ ( 1 - t ) ( 6 a b r ^ { 2 } + 6 a b r + 8 b + 4 b ^ { 2 } + 3 r ^ { 2 } } \\ & { + 6 a r ^ { 2 } + 6 b r ^ { 2 } + 3 a ^ { 2 } r ^ { 2 } + 3 b ^ { 2 } r ^ { 2 } + 4 ) + ( 8 - 6 t ) ( a b + a ) } \\ & { + ( 1 - r ) ( a ^ { 2 } + 2 b ^ { 2 } + 6 a b ) ] [ 4 ( a + b + 1 ) ( a ^ { 2 } r ^ { 2 } - 2 a ^ { 2 } r } \\ & { + a ^ { 2 } + 2 a b r ^ { 2 } - 2 a b r + 4 a b + 2 a r ^ { 2 } - 2 a r + 4 a + b ^ { 2 } r ^ { 2 } } \\ & { + 2 b ^ { 2 } + 2 b r ^ { 2 } + 4 b + r ^ { 2 } + 2 ) ] > 0 } \end{array}
+$$
+
+$\begin{array} { r l } & { \hat { \sigma } p _ { d } ^ { c ^ { * } } / \hat { \sigma } s = [ a + 2 t + a t + 2 b t + ( 1 - t ) ( r + a r + b r ) ] / } \\ & { [ 2 ( a ^ { 2 } r ^ { 2 } - 2 a ^ { 2 } r + a ^ { 2 } + 2 a b r ^ { 2 } - 2 a b r + 4 a b + 2 a r ^ { 2 } } \\ & { - 2 a r + 4 a + b ^ { 2 } r ^ { 2 } + 2 b ^ { 2 } + 2 b r ^ { 2 } + 4 b + r ^ { 2 } + 2 ) ] > 0 } \end{array}$ 做差即得证。
+
+命题6与命题2和命题4结果相似，也不再论述。
+
+# 3 数值分析
+
+本章主要利用数值算例来对比分析不同批发价格模式下制造商收入、零售商收入和供应链系统总收入随网络渠道基本市场份额 $e$ 及零售商谈判能力 $r$ 的变化情况。参考刘家国等[19]所取仿真数据， 取参数$Q = 1 , a = 0 . 5 , b = 0 . 2 5 , t = 0 . 4 , s = 0 . 6 , k = 1$ 。考虑产品真实售价一般小于等于建议零售价并且大于批发价格的实际情况，取 $f = 0 . 7 , e \in \bigl [ 0 . 3 , 0 . 7 \bigr ] , r \in \bigl [ 0 . 2 , 0 . 8 \bigr ] \circ$
+
+# 3.1不同批发价格制定模式下制造商收入的比较
+
+图2和3表明，对制造商来说，制造商单独制定批发价格始终优于以建议零售价和以网络直销价为基准确定批发价格。与制造商单独制定批发价格相比，当以建议零售价为基准确定批发价格时，在网络渠道基本市场份额较小，零售商谈判能力较强时，两种情形下制造商收入差距较大；且当 $r \approx 0 . 6$ ，即零售商谈判能力相对较弱时，两种情形下制造商收入几乎相等，与市场份额无关。当以网络直销价为基准确定批发价格时，只有在网络渠道基本市场份额偏大，并且零售商谈判能力较小时，制造商收入才非常接近单独制定批发价格时的收入。
+
+![](images/57118728b73cf2b018f4da0dfdca7891ca3a5a456eaded2aa7572ae557cd3695.jpg)  
+图2 $\Pi _ { m } ^ { A ^ { * } }$ 与 $\Pi _ { m } ^ { B ^ { * } }$ 的比较
+
+![](images/66e59283a2364957e7c59950286aa712b527d435cda8981e524fa88702f14fa6.jpg)  
+图3 （20 $\Pi _ { m } ^ { A ^ { * } }$ 与 $\Pi _ { m } ^ { C ^ { * } }$ 的比较
+
+图4表明，当以网络直销价格为基准确定批发价格时，零售商的谈判能力越弱，制造商收入越大。但当以建议零售价为基准确定批发价格时，随着 $r$ 的增大，即零售商谈判能力的减弱，制造商收入呈现出先增大后减小的趋势。可见此种情形下，零售商谈判能力应当存在一个下限，否则，批发价格太高，以至于产品售价过高，引起销量减小，导致制造商收入下降。同时可看出，对制造商来说，在大部分情况下，以建议零售价为基准优于以网络直销价为基准确定批发价格。只有在零售商谈判能力较弱，且网络渠道基本市场份额较大时，制造商才倾向于以网络直销价为基准确定批发价格。
+
+![](images/44885e1dbd811848f1f5a999b9089b932e081c87ca2b8012c035c8eaece4e8a6.jpg)  
+图4 （20 $\Pi _ { m } ^ { B ^ { * } }$ 与 $\Pi _ { m } ^ { C ^ { * } }$ 的比较
+
+综上可知，从制造商角度出发，制造商更倾向于单独制定批发价格。但随着零售商的崛起，议价能力逐渐增强，可能不再同意制造商单独制定批发价格。此时，制造商更偏好以建议零售价为基准确定批发价格。只有当零售商谈判能力较弱，且网络渠道基本市场份额偏大时，制造商才倾向于以网络直销价为基准确定批发价格。
+
+# 3.2不同批发价格制定模式下零售商收入的比较
+
+图5表明，对零售商来说，制造商单独制定批发价格和以建议零售价为基准确定批发价格相比较，谈判能力成了决定因素。当零售商谈判能力较强时，零售商倾向于以建议零售价为基准确定批发价格；较弱时，倾向于制造商单独确定批发价格。
+
+![](images/41517fa88cdc855ce375f88199d275cdbe804298e05e8ceb78402a9c2714f4c9.jpg)  
+图5与 $\Pi _ { r } ^ { B ^ { * } }$ 的比较
+
+图6表明，对零售商来说，以网络直销价为基准确定批发价格始终优于制造商单独确定批发价格。且在网络渠道基本市场份额较小，零售商谈判能力较强时，零售商更偏好以直销价格为谈判基准。同时可看出，当网络渠道基本市场份额较大，且零售商谈判能力较弱时，两种情形下零售商收入几乎相等。
+
+![](images/d90e6eff1a0e0d1c5f156eaf9fcceeff16eb3d0f330d476ce8e2c7eba0fe31b5.jpg)  
+图6 （204号 $\Pi _ { r } ^ { A ^ { * } }$ 与 $\Pi _ { r } ^ { C ^ { * } }$ 的比较
+
+图7表明，对零售商来说，以网络直销价格为基准始终好于以建议零售价为基准确定批发价格。同时可看出，在此两种情形下，谈判能力对零售商收入的影响大于市场份额对零售商收入的影响。
+
+![](images/fc39dce2a7f31d99dc0cabca88d978478dd93a7fd73c6f540b59eb77df3013cc.jpg)  
+图7 （204号 $\Pi _ { r } ^ { B ^ { * } }$ 与 $\Pi _ { r } ^ { C ^ { * } }$ 的比较
+
+综上可知，从零售商角度出发，零售商偏好以网络直销价为基准确定批发价格。但当零售商谈判能力较弱，且网络渠道基本市场份额较大时，零售商也能接受制造商单独制定批发价格。
+
+# 3.3不同批发价格制定模式下供应链总收入的比较
+
+图8表明，对供应链系统来说，制造商单独制定批发价格和以建议零售价为基准确定批发价格相比较，谈判能力成了决定因素。当零售商谈判能力较强时，以建议零售价为基准确定批发价格优于制造商单独确定批发价格；较弱时，反之。结合图5可知，这与从零售商角度出发的结果基本一致。
+
+![](images/0e0760fbe02a7b994356cf537cbc9b9c2277e8153809747be649a1e15c177eea.jpg)  
+图8 （204号 $\Pi ^ { A ^ { * } }$ 与 $\Pi ^ { B ^ { * } }$ 的比较
+
+图9和图10表明，对供应链系统来说，以网络直销价为基准确定批发价格优于制造商单独和以建议零售价为基准确定批发价格。同时可看出，当零售商谈判能力较强时，以网络直销价为基准和以建议零售价为基准两种情形下，供应链系统总收入几乎相等。
+
+![](images/c230b9134effd9832162b64b13d663721a0cd367d9b955ffe48bc04857068733.jpg)  
+图9 （20 $\Pi ^ { A ^ { * } }$ 与 $\Pi ^ { C ^ { * } }$ 的比较
+
+![](images/3316e2f53721268faf886700da56b2937366af2d62c0e19d17b24ffdfdcb5ba2.jpg)  
+图10 （20 $\Pi ^ { B ^ { * } }$ 与 $\Pi ^ { C ^ { * } }$ 的比较
+
+综上可知，从供应链整体角度出发，以网络直销价为基准确定批发价格始终是最优的。但当零售商谈判能力较强时，也可以建议零售价为基准确定批发价格。
+
+# 4 结束语
+
+本文对由单一制造商和单一零售商组成的双渠道供应链系统，考虑制造商建议零售价而形成的参照价格效应，分别对制造商单独确定批发价格、以建议零售价为基准确定批发价格和以网络直销价为基准确定批发价格三种模式进行了研究，并通过数值算例分析了制造商收入、零售商收入和供应链总收入随市场份额及零售商谈判能力的变化情况。结果表明：制造商可通过建议零售价调整市场价格；从供应链总体或者零售商角度，以制造商直销价格为基准确定批发价格是最优的；制造商倾向于单独制定批发价格，但当零售商谈判能力较弱，且网络渠道基本市场份额偏大时，也可接受以网络直销价为基准确定批发价格。
+
+本文把制造商建议零售价引入双渠道供应链，并探讨了三种批发价格制定模式的优劣，为供应链成员定价提供了参考。但本文假设需求是确定的，未考虑需求波动的情况。未来可在随机需求下，从供应链成员风险规避的角度研究此三种批发价
+
+格制定模式，更具现实意义。
+
+参考文献：   
+[1]Kalyanaram G,Winer R S. Empirical generalizations from reference price research [J]. Marketing Science,1995,14 (3): 161-161.   
+[2] Fibich G,Gavious A,Lowengart O.Explicit solutions of optimization models and differential games with nonsmooth (asymmetric)reference-price effects [J].Operations Research,2003,51 (5): 721-734.   
+[3]Nasiry J,Popescu I. Dynamic pricing with loss averse consumers and peakend anchoring [J]. Operations Research,2011,59 (6): 1361-1368.   
+[4]Hsieh TP, Dye C Y. Optimal dynamic pricing for deteriorating items with reference price efects when inventories stimulate demand [J]. European Journal of Operational Research,2017,262: 136-150.   
+[5] Zhang J,Gou Q,Liang L,et al. Supply chain coordination through cooperative advertising with reference price effect[J]. Omega,2013,41 (2): 345-353.   
+[6]Dye C Y,Yang CT. Optimal dynamic pricing and preservation technology investmentfordeterioratingproducts witheferencepriceeffects[J].Omega, 2016,62: 52-67.   
+[7]浦徐进，李栋栋，王执杰．考虑参照价格效应的双渠道供应链协调机制 设计[J].控制与决策,2017,32(7):1273-1278.   
+[8]林志炳．基于制造商建议零售价的供应链定价策略[J].中国管理科学, 2016,24 (11): 153-161.   
+[9]Iyer g,villasboas jm.A bargaining theory of distribution channels [J]. Journal of Marketing Research,2003,40(1): 80-100.   
+[10] Dukes A J,Galor E,Srinivasan K.Channel bargaining with retailer Asymmetry[J].Journal of Marketing Research,2006,43 (1): 84-97.   
+[11]艾兴政，唐小我．基于讨价还价能力的竞争供应链渠道结构绩效研究 [J]．管理工程学报,2007,21(2):123-125.   
+[12]安彤，赵道致.VMI 模式下基于讨价还价能力的竞争供应链绩效分析 [J]．软科学,2010,24(11):123-126.   
+[13]李海，崔南方．基于讨价还价能力的双渠道供应链定价模式选择[J]. 计算机应用研究,2013,30(8):2323-2326.   
+[14]李海，崔南方，徐贤浩，等．基于讨价还价能力的双渠道供应链批发价 谈判模式[J].管理工程学报,2015,29(4):124-132.   
+[15]吴正祥，李宝库．基于营销努力的双渠道供应链批发价格制定模式选 择[J].中国流通经济,2017,31(4):46-55.   
+[16] Mitelstaedt RA. Sasquatch,the abominable snowman,free iders and other elusive beings [J]. Journal of Macro marketing,1986,6 (2): 5-35.   
+[17]Pu XJ,Gong L,Han XH. Consumer free riding: coordinating sales effort in a dual-channel supply chain [J].Electronic Commerce Research and Applications,2017,(22): 1-12.   
+[18] Krishnan H,Kapuscinski R,Butz D A.Coordinating contracts for decentralized supply chains with retailer promotional effort [J].anagement Science,2004,50(1): 48-63.   
+[19]刘家国，周笛，刘咏梅，等．搭便车行为影响下制造商渠道选择研究 [J]．系统工程学报,2014,29(6):813-823.

@@ -1,0 +1,119 @@
+基础研究
+
+# 大黄素抑制人口腔鳞癌细胞Tca8113增殖及细胞周期进程的实验研究
+
+张凯亮，焦康礼，朱玉娟，吴芳，李俊平，余占海兰州大学口腔医学院//口腔医学研究所，甘肃兰州730000摘要：目的 探讨大黄素对人口腔鳞癌细胞体外生长增殖及细胞周期改变的影响。方法 采用2.5、5.0、10、20、40、60和 $8 0 \ \mu \mathrm { m o l / L }$ 大黄素分别干预体外培养的口腔鳞癌细胞Tca8113,作用24、48和72h后，并设含 $0 . 1 \%$ 二甲基亚讽的培养液作为对照组，通过MTT检测不同浓度大黄素干预对于口腔鳞癌细胞Tca8113的增殖作用;以FCM检测不同浓度大黄素干预对于口腔鳞癌细胞周期的影响;结合Western blotting方法分析大黄素干预后对口腔鳞癌细胞周期相关蛋白CDK2、Cyclin E和P21表达水平的变化。结果大黄素能够在72h内明显抑制Tca8113细胞生长以及增殖行为。MTT结果显示,随作用时间从24、48到 $7 2 \mathrm { { h } }$ ，大黄素对于Tca8113细胞的抑制效应呈明显的时间一浓度依赖关系;由细胞周期检测结果显示,大黄素作用使口腔鳞癌Tca8113细胞周期表现为 $\mathbf { G } _ { 0 } { \sim } \mathbf { G } _ { 1 }$ 期细胞时相阻滞;蛋白免疫印迹则表明经大黄素干预口腔鳞癌 Tca8113 细胞的细胞周期相关蛋白CDK2、CyclinE和P21表达水平明显降低，与空白对照组相比较，具有显著的统计学差异( $( P { < } 0 . 0 5 )$ 。结论 大黄素能够明确抑制人口腔鳞癌细胞Tca8113的生长增殖以及影响其细胞分裂周期，这可能与抑制细胞周期调控信号通路中分子的活化与转导有关。
+
+关键词：大黄素;人口腔鳞癌;Tca8113;细胞增殖;细胞周期
+
+# Effect of emodin on proliferation and cell cycle of human oral squamous carcinoma Tca8113 cells in vitro
+
+ZHANG Kailiang,JIAO Kangli,ZHU Yujuan,WUFang,LI Junping,YU Zhanhai SchoolofStomatology/InstituteofStomatological Research,Lanzhou University,Lanzhou73oooo,China
+
+Abstract: ObjectiveTo investigate theeffectof emodinonproliferationandcellcycledistributionofhumanoralsquamous carcinomacelsinitro.MethodsCulturedhumanoralsquamouscarcinomaa8113cellsweretreatedwith2.5,5,10,2040, 60 and $8 0 ~ \mathrm { \mu m o l / L }$ emodin for 24, 48 or $7 2 \mathrm { { h } }$ ， with the cells treated with $0 . 1 \%$ DMSO as control. MTT assay and flow cytometry wereused toevaluatethechanges incell proliferationandcellcycledistribution,respectively.Westernbloting was emploed to analyze thechanges in theexpresion levelsof thecellcycle-related proteins CDK2，cyclinEandP21 afteremodin treatment. Results Emodin significantly inhibited the growth and proliferation of Tca8113 cels within $^ { 7 2 \mathrm { ~ h ~ } }$ in a time- and dose-dependent manner, and caused cell cycle arrest in $G _ { 0 } – G _ { 1 }$ phase. Western bloting revealed that emodin treatment significantly lowered the expression levels of CDK2, cyclin E and P21 proteins in Tca8113 cells $( P { < } 0 . 0 5 )$ . Conclusion Emodin caninhibit theproliferationof Ta8113celsandafect theircellcycledistributionpossiblybyinhibiting thesignaling pathways of cell cycle regulation.
+
+Key words: emodin; human oral squamous carcinoma; Tca8113 cells; cell proliferation; cellcycle
+
+口腔癌是头颈部较为常见的肿瘤之一，其中以鳞状细胞癌高发[1-2],且近年来口腔癌发病年龄呈年轻化态势增长，尤其当临床中发生舌鳞状细胞癌时，其诊断与治疗则变得更加棘手[3],因此，研究口腔鳞癌的治疗方法以及评估疗效对于口腔鳞癌临床处置具有重要意义。由于传统的治疗方法或者手段存在一些不足或者明显的毒副效应，从而限制其在临床中的根本应用。因此，找寻一些新的药物以及治疗策略去弥补或者逆转现有治疗方法的不足，是当前口腔医学研究领域的热点。从天然中草药中分离具有药理功能的化合物或者生物碱,由于毒副作用小、安全有效等特点成为目前抗肿瘤研究的一个重要方向。大黄素(Emodin)又名大黄泻素，为蒽醌类化合物，是大黄、望江南、决明子和虎杖等中药的主要有效成分之一。大量研究表明，大黄素具有抗肿瘤[47]、抗病毒[8]、抗菌[]以及免疫抑制和保肝[1]等多种药理活性作用，既往实验结果证实，它对多种实体肿瘤如肺癌[1]、肝癌[12]胃癌[1]结肠癌[14]、卵巢癌[15]膀胱癌[16]宫颈癌[7]、神经外胚层肿瘤[18]以及白血病[19]等多种类型的肿瘤细胞分裂增殖具有抑制作用，而且也表现出抑制肿瘤血管生成和逆转肿瘤细胞多药耐药等多重作用[11.20-22]。然而在总结前人研究结果发现,尽管其具有抑制多种恶性肿瘤细胞分裂增殖的作用，但却对不同细胞系抑制其生长的机制也有所不同，因此，本实验通过研究大黄素对人口腔鳞癌细胞 $\mathrm { T c a } 8 1 1 3$ 增殖作用以及细胞周期的影响，以明确大黄素阻抑口腔鳞癌细胞增殖与其细胞周期信号改变的具体关联机制，为进一步运用大黄素调节口腔鳞癌细胞周期进程而发挥抗肿瘤疗效提供实验依据。
+
+# 1材料与方法
+
+# 1.1 细胞培养
+
+人口腔鳞癌细胞系Tca8113细胞株(Cat.No:BH-HC087)购自Biohermes公司，用含体积分数为 $10 \%$ 胎牛血清(FBS,Gibco)的DMEM(HG)培养(Sigma)加$1 \%$ P/S,于 $3 7 \ \%$ $\mathrm { C O } _ { 2 }$ 恒温条件下培养，2\~3d传代1次，培养中的细胞均保持在 $( 1 { \sim } 5 ) { \times } 1 0 ^ { 5 } / \mathrm { m l }$ 。当细胞生长达到对数期后方可进行后续实验。
+
+# 1.2药物试剂与仪器
+
+大黄素购自中国药品生物制品鉴定所（批号：110756-200110),用DMSO(Sigma)溶解， $- 2 0 \ \mathrm { { ^ circ C } }$ 保存备用。DMEM(HG)培养液购自Sigma公司，胎牛血清(FBS)购自Gibco公司,P/S(Penicillin and Streptomycin)购自北京拜尔迪生物技术有限公司,MTT购自Sigma公司，细胞周期检测试剂PI(ST511)购自碧云天生物技术研究所，流式细胞仪(BDFACSEALIBUR)购自美国BDBioscience公司，倒置相差显微镜Ts-100购自日本Nikon公司;抗体，一抗，P21(c-19)、sc-397,CDK2(H-298)sc-748,Cyclin E(M-20)、sc-481,均购自 Santa cruz公司，而二抗则采用北京中山金桥生物技术有限公司。
+
+# 1.3MTT法测定人口腔鳞癌细胞增殖的抑制作用
+
+预实验中，将大黄素分别配成0、5、10、40、60和$8 0 \mathrm { \textmu m o l / L }$ 的终浓度溶液，利用MTT法检测上述浓度的大黄素作用 $2 4 \mathrm { ~ h ~ }$ 时，口腔鳞癌细胞 $\mathrm { T c a } 8 1 1 3$ 的增殖情况。实验结果表明大黄素浓度为 $4 0 \mathrm { \ : \mu m o l / L }$ 作用 $2 4 \mathrm { h }$ 大部分口腔鳞癌细胞死亡，漂浮于培养液中。经筛选,本实验采用大黄素干预的浓度梯度设为0、2.5、5、10、20、40.60和 ${ 8 0 \ \mu \mathrm { m o l } / \mathrm { L } \mathrm { ~ 7 ~ } }$ 个实验组，不经任何药物处理的口腔鳞癌细胞Tca8113,设为空白对照组( $0 \mu \mathrm { m o l / L } =$ control)。每组设6个复孔。待细胞培养到对数期后，接种细胞,调整 $\mathrm { T c a } 8 1 1 3$ 细胞为 $1 { \times } 1 0 ^ { 5 } / \mathrm { m l }$ ，以每孔 $2 0 0 \mu \mathrm { l }$ 细胞悬液接种至96孔板中，分别培养 $2 4 \mathrm { h }$ 后，实验组加入上述7个浓度梯度的大黄素溶液，对照组不加任何药物，分别培养至24、48及 $7 2 \mathrm { { h } }$ 时间点，终止培养。然后加入 $5 \ \mathrm { g / L }$ MTT贮存液，每孔 $2 0 \mu \mathrm { l }$ ，置培养箱避光孵育$^ { 4 \mathrm { h } }$ 后，每孔加入 $1 5 0 ~ \mu \mathrm { l }$ DMSO,室温避光震动摇床混匀摇动 $1 0 \mathrm { m i n }$ 。在设定为初始波长为 $4 9 0 \mathrm { n m }$ 的酶标仪测定各孔的吸光度值(A)。按公式细胞抑制率=(1-A实验组/A对照组） $\times 1 0 0 \%$ ,计算各组细胞的增殖抑制率(ProliferationInhibition,PI),重复实验3次。
+
+# 1.4流式细胞术测定人口腔鳞癌细胞Tca8113细胞周期改变
+
+取对数期Tca8113细胞，浓度调为 $2 { \times } 1 0 ^ { 6 } / \mathrm { m l }$ ，实验组和对照组同上。培养液中加入不同质量浓度大黄素，分别在24、48和 $^ { 7 2 \mathrm { ~ h ~ } }$ 后胰酶消化，PBS洗涤2次，$1 0 0 0 ~ \mathrm { r / m i n }$ 离心后弃上清液， $70 \%$ 冷乙醇下 $4 \mathrm { { ^ { \circ } C } }$ 固定过夜，RNA酶消化，使用碘化丙啶(PI)避光染色 $3 0 \mathrm { m i n }$ ，将样品通过流式细胞仪进行细胞周期分析。重复实验3次。1.5Westernblot检测细胞周期相关蛋白P21、CDK2和CyclinE表达
+
+收集经大黄素干预的口腔鳞癌细胞，用RIPA缓冲液裂解细胞， $4 \mathrm { { ^ { \circ } C } }$ 下 $1 3 \ : 0 0 0 \times g$ 离心 $1 5 \mathrm { m i n }$ ,收集上清液,即为所需要的蛋白。之后采用标准BCA蛋白定量试剂盒(Cat:71285-3)进行蛋白定量。以 $10 \%$ SDS-PAGE胶,跑电泳分离蛋白， $4 \mathrm { ~ } ^ { \circ } \mathrm { C } , 6 0 \mathrm { \ m A }$ 电流转移蛋白至 $0 . 2 2 \mu \mathrm { m }$ PVDF膜上(Millipore,德国),将PVDF膜用 $5 \%$ 脱脂奶粉 $+ 1 \%$ BSA饱和液封闭后加一抗孵育， $4 \mathrm { { ^ { \circ } C } }$ 过夜处理，PBS漂洗数次后用HRP标记的二抗，室温孵育 $2 \mathrm { h }$ ，再次漂洗彻底后，利用超敏ECLplus发光液(Fanbo-Biochemicals)显像,用ChemiDoc $\mathrm { X R S + }$ 化学发光成像系统(Bio-Rad公司)拍照,最后，使用Image-Pro Plus6.0软件(MediaCybernetics公司)进行各组蛋白条带的灰度值计算，同时实验中以 $\beta$ -actin作为内参。
+
+# 1.6 统计学处理
+
+采用SPSS17.0统计软件分析，实验数据以均数 $\boxdot$ 标准差表示，对于组间生长抑制率的差异性比较采用单因素方差分析。而对于细胞周期变化以及蛋白表达差异则运用Levene方差齐性检验组间的方差齐性，同时以Pearson相关性分析细胞周期以及蛋白表达在不同组间的关联，均以 $P { < } 0 . 0 5$ 为差异具有统计学意义。
+
+# 2结果
+
+2.1大黄素对人口腔鳞癌细胞Tca8113增殖的抑制作用2.1.1不同浓度梯度下大黄素对人口腔鳞癌Tca8113细胞增殖的效应关系以终浓度为2.5、5.0、10、20、40、60和 $8 0 \ \mathrm { \textmu m o l / L }$ 大黄素溶液作用于人口腔鳞癌细胞Tca8113后，通过光镜进行形态学观察，发现原本贴壁良好，形态正常的口腔鳞癌细胞，部分出现脱黏附过程，细胞出现不同程度的漂浮于培养液。光镜下见细胞变圆，体积变小,细胞质颜色加深，折光性增强，而这种漂浮细胞数量的变化表现出浓度依赖性。随大黄素溶液浓度的增大，口腔鳞癌细胞生长的受抑制作用也越强，呈现浓度依赖性，这与空白对照组间比较具有明显的统计学意义( $\scriptstyle - { P < 0 . 0 5 }$ ，图1)。
+
+![](images/76e745270b220184ef31b98241ed24e4b60a87cfd2f76f6ce42325e210d345eb.jpg)  
+图1不同浓度梯度下大黄素处理对人口腔鳞癌细胞Tca8113的抑制作用Fig.1 Effect of different concentrations of emodin onTca8113 cell prolieration.
+
+2.1.2不同时间点大黄素处理对人口腔鳞癌细胞$\mathrm { T c a } 8 1 1 3$ 增殖的效应关系随着大黄素作用时间从24、48到 $7 2 \mathrm { { h } }$ ，对Tca8113细胞抑制作用明显增强(图2)，经梯度浓度为5、10、20、40、60和 $8 0 ~ \mathrm { \textmu m o l / L }$ 大黄素处理,分别作用24、48、72h时，也表现出与之前相类似的抑制效应，其中 $4 0 \mathrm { \ : \mu m o l / L }$ 大黄素处理Tca8113细胞72h后，几乎绝大多数活细胞死亡。但对于 $2 . 5 \ \mathrm { \mu m o l / L }$ 小浓度大黄素干预在作用 $7 2 \mathrm { { h } }$ 后才具有明显的抑制作用。此外，通过Pearson相关性分析表明，不同浓度梯度的大黄素作用于口腔鳞癌细胞明显依赖于浓度效应，浓度相关系数分别为 $\Gamma _ { 2 4 \mathrm { c } } { = } 0 . 4 2 6 , \Gamma _ { 4 8 \mathrm { c } } { = } 0 . 5 4 0 , \Gamma _ { 7 2 \mathrm { c } } { = } 0 . 6 0 8$ ；而不同时间点下大黄素作用于口腔鳞癌细胞也明显依赖于时间效应，时间相关系数分别为： $\scriptstyle \mathbf { r } _ { 2 4 } = 0 . 9 9 7$ ， $\mathbf { r } _ { 4 8 \mathrm { t } } =$ $0 . 9 8 3 , \mathrm { r } _ { 7 2 1 } = 0 . 9 6 7 ,$ 0
+
+# 2.2大黄素对人口腔鳞癌细胞Tca8113周期的影响
+
+流式细胞术检测结果表明，大黄素对口腔鳞癌细胞周期进程具有明显的阻滞作用，能将口腔鳞癌细胞分裂时相阻滞于 $\mathbf { G } _ { 0 } / \mathbf { G } _ { 1 }$ 期。实验发现S期和 $\mathbf { G } _ { 2 } / \mathbf { M }$ 期细胞比例明显减少， $\mathrm { { G } _ { 0 } / \mathrm { { G } _ { 1 } } }$ 期细胞比例相对增加，这种变化呈浓度依赖关系(表1,图3)。随着大黄素浓度的增加， $\mathbf { G } _ { 0 } / \mathbf { G } _ { 1 }$ 期细胞比例明显增加，而S期和 $\mathbf { G } _ { 2 } / \mathbf { M }$ 期细胞比例则明显减少，经统计学分析，二者表现出明显的相关性，浓度相关系数分别为： $\scriptstyle \Gamma _ { 2 4 \mathrm { c } } = 0 . 9 9 3 ; \Gamma _ { 4 8 \mathrm { c } } = 0 . 9 2 2 ; \Gamma _ { 7 2 \mathrm { c } } = 0 . 9 2 9$ 并且随着时间的延长，也表现出相似的结果，其时间相关系数分别为： $\mathbf { r } _ { 2 4 } { = } 0 . 9 5 5$ $\mathbf { r } _ { 4 8 \mathrm { t } } { = } 0 . 9 5 7$ $\mathbf { r } _ { 7 2 \mathrm { c } } { = } 0 . 9 9 6 _ { \odot }$ 。相比较各组间具有统计学差异（ $\scriptstyle \cdot - ( - 0 . 0 5$ ，表1)。
+
+![](images/cad1eec20945fb7b8be4f67e10edd949f1457fc010268755e2f41c84fc1d10b5.jpg)  
+图2不同时间点大黄素处理对人口腔鳞癌细胞Tca8113的抑制作用Fig.2 Dose- and time-related effects of emodin onTca8113 cell proliferation.
+
+# 2.3大黄素干预对人口腔鳞癌Tca8113细胞周期相关蛋白CDK2、CyclinE和P21表达的影响
+
+免疫印迹结果显示，空白对照组癌细胞中细胞周期相关蛋白P21、CDK2和CyclinE表达的水平较高，经$4 0 \ \mathrm { \textmu m o l / L }$ 大黄素处理后的Tca8113细胞，其细胞周期相关蛋白CDK2和CyclinE的表达均以剂量依赖方式下降，条带颜色逐渐变淡，且随时间点延长，从24、48到$^ { 7 2 \mathrm { ~ h ~ } }$ ，细胞周期负调控蛋白P21,表达逐渐增强，经ImageJ软件计算相对表达灰度值含量（以 $\beta$ -actin作为内参照)，呈现浓度以及时间的依赖关系(图4)。
+
+# 3讨论
+
+本实验结果表明大黄素处理对人口腔鳞癌细胞系Tca8113细胞增殖表现出明显的阻抑作用，呈浓度-时间依赖关系;而且可将其细胞周期阻滞于 $\mathrm { { G } _ { 0 } / \mathrm { { G } _ { 1 } } }$ 期，阻止细胞进入S期及 $\mathbf { G } _ { 2 } / \mathbf { M }$ 期;并证实这与口腔鳞癌细胞周期相关蛋白CDK2、CyclinE和P21的表达活性密切相关，实验中大黄素处理后其细胞周期相关蛋白CDK2、CyclinE和P21表达活跃程度要明显高于空白未处理组 $( P { < } 0 . 0 5 )$ 。这说明大黄素诱导对人口腔鳞癌细胞增殖阻抑作用和细胞周期阻滞行为发生与调控细胞周期相关蛋白活化密切相关，而这对该药物诱导的损伤过程中细胞发生凋亡/死亡具有重要作用。
+
+基于上述结果分析认为，由于中药抗肿瘤所表现出多靶点、多环节、多效应的特点，可作用于不同发育阶段的肿瘤细胞。原本细胞在正常的分裂、增殖和分化时其细胞周期处于相对稳定的复始状态。而当大黄素作用于口腔鳞癌细胞后，体内依赖于细胞周期的许多生长因子、细胞因子、激素及癌基因产物对细胞自身DNA代谢的调节发生改变，进而影响细胞周期检测点，对于细胞周期调控模式在不同时相的多个调控点上主动/被动的进行调节，从而导致其中 $\mathbf { G } _ { 1 } / \mathbf { S } \sqrt { \mathbf { J } _ { 2 } / \mathbf { M } }$ 和有丝分裂中期/后期的交界处的调控点的改变，使这些调控点失控，或产生肿瘤23以及其他疾病的发生。而目前研究发现，调控细胞周期的核心因子就是细胞周期蛋白依赖性激酶(CDK）细胞周期蛋白(Cyclin)和细胞周期蛋白依赖性激酶抑制物(CKI)，它们间相互调节，通过相互间形成蛋白复合物，作用于细胞周期的不同时相，参与并决定细胞周期的生命进程。
+
+表1大黄素阻抑人口腔鳞癌细胞Tca8113增殖与其细胞周期改变 Tab.1 Inhibitory effectof emodinon Tca8113cell proliferation and cellcycle distribution (Mean±SD,n=3)   
+
+<html><body><table><tr><td rowspan="2">Emodin Cumentration</td><td colspan="3">24 h</td><td colspan="3">48 h</td><td colspan="3">72 h</td></tr><tr><td>G/G</td><td>S</td><td>G2/M</td><td>Go/G1</td><td>S</td><td>G/M</td><td>Go/G</td><td>S</td><td>G2/M</td></tr><tr><td>0.0</td><td>64.22±3.89</td><td>24.35±2.01</td><td>11.43±1.74</td><td>66.90±5.84</td><td>23.01±1.91</td><td>10.09±0.87</td><td>67.82±4.69</td><td>21.83±1.89</td><td>10.35±1.24</td></tr><tr><td>5.0</td><td>65.37±2.62#</td><td>22.28±2.85#</td><td>12.35±1.90*</td><td>68.66±4.62#</td><td>21.24±1.75*</td><td>10.10±0.98#</td><td>69.42±3.74#</td><td>20.55±2.78#</td><td>10.03±1.15#</td></tr><tr><td>10.0</td><td>66.99±3.56*</td><td>21.25±2.42*</td><td>11.76±1.22*</td><td>73.19±3.44*</td><td>17.55±1.12*</td><td>9.21±0.54*</td><td>75.21±4.15*</td><td>17.19±2.56*</td><td>7.60±1.02*</td></tr><tr><td>20.0</td><td>68.31±4.21*</td><td>19.58±1.89*</td><td>12.11±1.47*</td><td>78.37±2.74*</td><td>16.37±1.44*</td><td>5.26±0.35*</td><td>80.44±3.98*</td><td>15.34±1.58*</td><td>4.22±0.71*</td></tr><tr><td>40.0</td><td>72.78±4.85*</td><td>16.44±1.53*</td><td>10.78±0.94*</td><td>84.76±6.25*</td><td>12.11±0.97*</td><td>3.13±0.21*</td><td>85.31±4.06*</td><td>11.52±2.03*</td><td>3.17±0.48*</td></tr><tr><td>80.0</td><td>78.22±3.71*</td><td>12.34±1.81*</td><td>9.44±0.79*</td><td>87.85±4.49*</td><td>10.52±0.56*</td><td>1.63±0.38*</td><td>90.34±4.25*</td><td>8.65±1.12*</td><td>1.01±0.24*</td></tr><tr><td>F</td><td>5.601</td><td>12.585</td><td>1.741</td><td>9.401</td><td>38.314</td><td>108.879</td><td>13.781</td><td>18.264</td><td>63.672</td></tr><tr><td>P</td><td>0.007</td><td>0.001</td><td>0.200</td><td>0.001</td><td>0.001</td><td>0.001</td><td>0.001</td><td>0.001</td><td>0.001</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ us control group $( 0 \mu \mathrm { m o l } / \mathrm { L } )$ ， $^ { \# } P > 0 . 0 5$ us control group $( 0 \mu \mathrm { m o l } / \mathrm { L } )$
+
+![](images/c33c3eeeca05a1a60641f91284d23314d1694a5ff672b059cacbf8d18d741df0.jpg)  
+图3大黄素作用对人口腔鳞癌细胞 $\mathrm { T c a } 8 1 1 3$ 细胞周期的分布影响Fig.3Effect of emodin on cell cycle distribution of Tca8113 cells.A:Control cells;B: Cells treatedwith $4 0 \mu \mathrm { m o l / L }$ emodinafter $^ { 4 8 \mathrm { h } }$
+
+CDK是一类重要的丝氨酸/苏氨酸蛋白激酶，以复合物形式出现，其中CDK2与肿瘤的发生关系最为密切，CDK的活性调节方式之一就是调节亚基Cyclin起作用的。Cyclin可能使底物改变构象，使之易于与不同的CDK结合，而且只有与Cyclin结合后的CDK才有活性[24-26]。另外只有Cyclin的降解才能使CDK最终失活，如在M后期,由于CyclinB的降解,CDC2失去活性，细胞得以退出M期。如果CyclinB降解受阻，细胞将停滞于M期；从而启动DNA的复制和诱发细胞的有丝分裂[7]。反之，可以影响DNA的复制和细胞的有丝分裂过程。细胞周期蛋白E(CyclinE)属于Gi期细胞周期蛋白，其发挥作用在 $\mathbf { G } _ { 1 }$ 期和 $\mathrm { G } _ { 1 } / \mathrm { S }$ 交界处、启动细胞周期并能促进DNA合成。CyclinE可以同CDK2结合，作用于G/S期,还参与DNA复制的启动[26-27]。P21为CKI的代表之一，P21是一个广谱的细胞周期蛋白依赖性激酶的抑制蛋白。P21对CDK的调节作用，P21有分别与Cyclin和CDK结合的区域，当P21和CDK结合后，其蛋白的N端保守区可以结合CDK，阻止了CAK对CDK的磷酸化作用,使CDK不能激活[28-29]。通常P21的诱导存在着两种途径：一是DNA损伤时由P53诱导产生，为P53依赖性;二是在正常细胞的发展和分化时由一些分裂原诱导产生，为P53非依赖性[30-31]。由于细胞周期的调控是一个精细的平衡过程,往往通过多种调控因子参与及其调控机制影响肿瘤的发生及发展。而本实验明确大黄素阻抑口腔鳞癌细胞阻滞于 $\mathrm { G } _ { 0 } / \mathrm { G } _ { 1 }$ 期，对于动态变化的细胞有丝分裂的时相，抑制了细胞分裂的开端$\mathbf { G } _ { 0 } / \mathbf { G } _ { 1 }$ 期，等于发生G期的阻滞，这种效应序贯性阻正细胞分裂周期继续进入S及 $\mathbf { G } _ { 2 } / \mathbf { M }$ 期，则等于细胞不能进入S期维持分裂，导致DNA无法合成，最终干扰蛋白质代谢，抑制肿瘤细胞的分裂进程。此外，实验中由于药物的作用降低了细胞周期调控相关蛋白CDK2、CyclinE的表达水平，上调细胞周期负调控因子P21的蛋白表达水平，从而参与调控细胞周期相关联的抗肿瘤效应的发生，这就为肿瘤基因治疗从细胞周期相关调控因子及其相互作用角度进一步研究提供了一种新的策略。因此，可以考虑将大黄素作为一个有潜力的中药抗肿瘤协同药物用于抑制肿瘤细胞的生长及分裂过程，值得进一步深入研究与开发。
+
+![](images/2f8ab32583c30a13d3f93b9dad3d1caf347c05760ecd7790333ca0c8ab3f83ab.jpg)  
+图4大黄素干预人口腔鳞癌细胞Tca8113后细胞周期相关蛋白CDK2、CyclinE及P21的表达Fig.4 Expression of CDK2,cyclin E and P21 in Tca8113 cellstreatedwith $4 0 \mu \mathrm { m o l / L }$ emodin.
+
+# 参考文献：
+
+[1]Chaturvedi AK,Anderson WF,Lortet-Tieulent J,et al.Worldwide trends in incidence rates for oral cavity and oropharyngeal cancers
+
+[J].J Clin Oncol,2013,31(36): 4550-9.   
+[2]Jemal A,Bray F, Center MM,et al. Global cancer statistics[J].CA Cancer J Clin,2011,61(2): 69-90.   
+[3] Sasahira T, Ueda N,Yamamoto K,et al.Proxl and FOXC2 act as regulators of lymphangiogenesis and angiogenesis in oral squamous cell carcinoma[J]. PLoS One,2014,9(3): e92534.   
+[4]Peng W,QinR,LiX,etal.Botany,phytochemistry,pharaclogy, and potential application of Polygonum cuspidatum Sieb.et Zucc.: a review[J].JEthnopharmacol,2013,148(3): 729-45.   
+[5]Lin SZ,Wei WT,Chen H,et al.Antitumor activity of emodin against pancreatic cancer depends on its dual role: promotion of apoptosis and suppression of angiogenesis[J]. PLoS One,2012,7 (8): e42146.   
+[6]Hsu CM,Hsu YA,Tsai Y,et al.Emodin inhibits the growth of hepatoma cels: finding the common anti-cancer pathway using Huh7，Hep3B，and HepG2 cells [J].Biochem Biophys Res Commun,2010,392(4): 473-8.   
+[7] Jelassi B,Anchelin M, Chamouton J,et al. Anthraquinone emodin inhibits human cancer cell invasiveness by antagonizing P2X7 receptors[J]. Carcinogenesis,2013,34(7): 1487-96.   
+[8] Xiong HR,Luo J，Hou W,et al. The effct of emodin，an anthraquinone derivative extracted from the Roots of Rheum tanguticum,against herpes simplex virus in vitro and in vivo[J]. J Ethnopharmacol,2011,133(2): 8-23.   
+[9] Zhang YY,Liu B,Ge XP,et al. Effects of dietaryemodin supplementation on growth performance，Non-Specific immune responses,and disease resistance to aeromonas hydrophila in juvenile wuchang bream (megalobrama amblycephala)[J]. Israeli J Aquaculture-Bamidgeh, 2014, 66: 1-9.   
+[10]Gao J,Wang F, Wang W, et al. Emodin suppresses hyperglycemiainduced proliferation and fibronectin expression in mesangial cells via inhibiting cFLIP[J].PLoS One,2014,9(4): e93588.   
+[11]Li WY,Ng YF, Zhang H, et al. Emodin elicits cytotoxicity in human lung adenocarcinoma A549 cells through inducing apoptosis [J]. Inflammopharmacology,2014,22(2): 127-34.   
+[12] Yu JQ,Bao W,Lei JC. Emodin regulates apoptotic pathway in human liver cancer cells[J].Phytother Res,2013,27(2): 251-7.   
+[13]Wei TH,Fang W,He S,etal.Anticancer effect of Emodin combined with 5-fluorouracil on human gastric carcinoma cell line MKN45 and its molecular mechanism[J].J Gastroenterol Hepatol Res, 2013,2(11): 873-7.   
+[14]Xie MJ,Ma YH, Miao L,et al. Emodin-provoked oxidative stress induces apoptosis in human colon cancer HCT116 cells through a p53-mitochondrial apoptotic pathway[J]. Asian Pac J Cancer Prev, 2014,15(13): 5201-5.   
+[15]Xue H,Chen Y,Cai X,et al.The combined effect of survivintargeted shRNA and emodin on the proliferation and invasion of ovarian cancer cels[J].Anticancer Drugs,2013,24(9): 937-44.   
+[16]Cha TL, Chuang MJ, Tang SH,et al. Emodin modulates epigenetic modifications and suppresses bladder carcinoma cell growth [J]. Mol Carcinog,2015,54(3): 167-77.   
+[17] Yaoxian W,Hui Y, Yunyan Z,et al. Emodin induces apoptosis of human cervical cancer hela cells via intrinsic mitochondrial and extrinsic death receptor pathway[J]. Cancer CellInt,2013,13(1):71.   
+[18]Pecere T,Gazzola MV,Mucignat C,et al.Aloe-emodin is a new type of anticancer agent with selective activity against neuroectodermal tumors[J].Cancer Res,2000,60(11): 2800-4.   
+[19] Chen Y,Li J,Hu J,et al．Emodin enhances ATRA-induced differentiation and induces apoptosis in acute myeloid leukemia cells[J]. Int J Oncol,2014,45(5): 2076-84.   
+[20] Lee YB,Yoon JH,Cho EJ,et al. Emodin attenuates bile acidinduced and palmitate-induced hepatocyte apoptosis by suppressing JNK activation[C]//EN 07030-5774,2013:58.   
+[21]Shrimali D,Shanmugam MK,Kumar AP,et al. Targeted abrogation of diverse signal transduction cascades by emodin for the treatment of inflammatory disorders and cancer[J].Cancer Lett,2O13,341(2): 139-49.   
+[22]Cui YT,Liu B,Xie J,etal.The effect of emodin on cytotoxicity apoptosis and antioxidant capacity in the hepatic cells of grass carp (Ctenopharyngodon idellus）[J].Fish Shellfish Immunol,2014,38 (1): 74-9.   
+[23]Singh AM, Dalton S.Cell cycle regulation of pluripotent stem cells [J]. Stem Cells,2014,1: 3.   
+[24]Werwein E,Dzuganova M,Usadel C,et al.B-Myb switches from Cyclin/Cdk-dependent to Jnk-and p38 kinase-dependent phosphorylation and associates with SC35 bodies after UV stress[J].Cell Death Dis,2013,4(2): e511.   
+[25]Olivier P,DeRocher J,Roberts JM.Dominant negative mutant KRP protein protection of active cyclin-CDK complex inhibition by wild-type KRP[P].U. S.Patent, 8742205.2014-6-3.   
+[26]Pope PA,Bhaduri S,Pryciak PM.Regulation of cyclin-substrate docking by a G1 arrest signaling pathway and the Cdk inhibitor Far1[J].Curr Biol,2014,24(12): 1390-6.   
+[27]Ding Q,Li L,Whyte P. Human papillomavirus 18 E1E4 protein interacts with cyclin A/CDK 2 through an RXL motif[J].Mol Cell Biochem,2013,373(1/2):29-40.   
+[28]Coleman K,Varma D,Brantley K,et al.A mechanism for sequential replication-coupled destruction of CRL4-Cdt2 substrates(616.1)[J]. FASEB J,2014,28(1 Supplement): 1.   
+[29] Tane S,Ikenishi A,Okayama H,et al. CDK inhibitors,p21(Cip1) and p27(Kipl)，participate in cell cycle exit of mammalian cardiomyocytes[J].Biochem Biophys Res Commun,2014,443(3): 1105-9.   
+[30]Skirnisdottir I, Seidal T.Association of p21,p21 p27 and p21 p53 status to histological subtypes and prognosis in low-stage epithelial ovarian cancer[J].Cancer Genomics Proteomics,2O13，10(1): 27-34.   
+[31]Liu X,Yu H,Cai H,et al. Expression of CD24,p21,p53,and cmyc in alpha-fetoprotein-producing gastric cancer: Correlation with clinicopathologic characteristics and survival [J].J Surg Oncol, 2014,109(8): 859-64.
+
+(编辑：黄开颜)

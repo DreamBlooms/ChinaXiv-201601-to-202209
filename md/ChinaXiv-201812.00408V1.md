@@ -1,0 +1,153 @@
+# 宰后肌肉抗氧化能力与肌肉品质的关系
+
+） 樊路杰 中商行 窦鸣乐 王小宇 李 泽 史新娥 李晓\*(西北农林科技大学动物科技学院，杨凌 712100)
+
+摘要：动物屠宰后，肌肉内仍进行着各种氧化反应，宰后肌肉氧化反应的程度与肉色、保水性、货架期长短等密切相关。提高肌肉抗氧化能力是改良肌肉品质的重要途径之一。本文主要阐明宰后肌肉抗氧化能力对肉品质的影响及其机制，并简要论述提高肌肉抗氧化能力、改良肉品质的措施及其应用前景。
+
+关键词：氧化还原反应；抗氧化能力；肉品质；猪；肉鸡中图分类号：S852.2 文献标识码：A 文章编号：1006-267X(2018)00-0000-00
+
+细胞是一个缩小版的生态世界，里面同样包含着各种化学、物理和生物反应。氧化还原反应就是其中最基本的一种生化反应。氧化还原包括生物氧化和还原两部分，生物氧化是指在生物体内，将代谢物产生的氢离子和电子，通过一系列酶促反应与氧气（ $\mathrm { O } _ { 2 }$ ）结合生成水（ $_ \mathrm { H _ { 2 } O }$ ），主要为机体提供可利用的能量。还原反应是将某些氧化中间产物通过一系列酶促反应，从氧化态转变为还原态的过程。正常生物体通过复杂的氧化-还原系统相互作用，来维持机体内环境的相对稳定状态。如果氧化-还原平衡被打破，将会导致各种氧化损伤，造成动物免疫力降低，严重时将危害动物体的健康水平。氧化-还原反应的失衡还会导致肉品质下降。
+
+# 1宰后肌肉内的氧化反应
+
+动物屠宰后，自身抗氧化酶活性下降，而氧化是负熵即自动发生的，所以宰后肌肉内氧化反应仍能进行，而因缺乏能量，宰后肌肉的抗氧化能力是逐渐降低，氧化反应占主导地位，产生大量活性氧（reactive oxygenspecies，ROS）。而高浓度的ROS 可攻击细胞膜，导致蛋白质修饰和脂质过氧化，有时可造成细胞内 DNA
+
+收稿日期：2017-12-01
+
+基金项目：，国家自然科学基金青年科学基金项目——MyHC-AS 调控猪骨骼肌II型 MyHCs 转录的机制研究(31501925)
+
+作者简介：樊路杰（1991—），男，河北邢台人，硕士研究生，从事分子营养学与饲料资源开发利用研究。E-mail: fanlujie1020@163.com
+
+\*通信作者：李晓，讲师，硕士生导师，E-mail: nice.lixiao@gmail.com链断裂或者细胞凋亡[l-2]。而硫代磷酸化的DNA在体内与过氧化氢（ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ）和羟基自由基反应，保护基因组DNA以及敏感的酶免受细胞内氧化损伤[3]。
+
+机体的抗氧化防御体系主要由过氧化氢酶（catalase，CAT）、超氧化物歧化酶（superoxide dismutase，SOD）和谷胱甘肽过氧化物酶（glutathione peroxidase，GSH- $\mathbf { \cdot P X }$ )等抗氧化酶组成的酶保护体系和由维生素 E、维生素C、胡萝卜素、尿酸等物质组成的非酶保护体系共同构成。动物屠宰后体内的抗氧化物质含量或活性不会立即消失，但随着屠宰后储存时间的延长而逐渐消耗，当其消耗到无法有效降低活性氧自由基对机体的损害时，就会对肉品质产生较大影响。
+
+# 1.1 抗氧化物质
+
+目前动物机体内抗氧化物质主要由 SOD、GSH- $\mathbf { \cdot P x }$ 和CAT 这3种抗氧化酶构成：1）SOD 是清除体内自由基的重要抗氧化酶，并且 SOD 的作用底物是一种自由基—一超氧化物自由基。SOD 按照其结构和催化机理共分为3类，分别为铜锌超氧化物歧化酶（CuZn-SOD）、锰超氧化物歧化酶（Mn-SOD）、铁（Fe-SOD），它们都能将 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 分解成 $_ \mathrm { H } _ { 2 } \mathrm { O }$ 和 $\mathrm { O } _ { 2 } ^ { [ 4 ] }$ 。2）GSH $\mathbf { \cdot P x }$ 是体内重要的抗氧化酶之一，它可以将脂质过氧化物（lipidperoxides，LPO）和 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 还原成醇和 $\mathrm { H } _ { 2 } \mathrm { O }$ ，也可以与维生素E产生协同作用，阻止脂质过氧化，避免过氧化物对细胞膜的刺激和损伤[5]。3）CAT是体内过氧化物酶的典型代表，广泛存在于动物细胞和组织中，尤其在肝脏中活性较高，CAT 能催化 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 分解成 $_ \mathrm { H _ { 2 } O }$ 和 $\mathrm { O } _ { 2 }$ ，清除细胞中的 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ，防止产生危害更大的自由基[6]。
+
+# 1.2 氧化产物
+
+丙二醛（malondialdehyde，MDA）是脂质氧化的终产物，其是通过ROS 作用于多不饱和脂质产生[7-8]。机体内 MDA的含量能够反映膜脂和机体氧化的程度，因此常将 MDA在体内的含量作为研究动物抗氧化能力的重要指标。MDA 能够使蛋白质和核酸等物质交联聚合，破坏其原有结构和功能。LPO是一种脂质过氧化物，其产生主要是通过膜磷脂在多不饱和脂肪酸（polyunsaturated faty acid，PUFA）中发生的一种自由基链式反应，常在细胞膜中由羟基引发产生，生成如 MDA 和 4-羟基壬烯醛（4-hydroxynonenal,4-HNE）等含有氧功能基的产物，造成生物大分子的损伤[9]。
+
+# 2宰后肌肉抗氧化能力对肉品质的影响
+
+目前常用的肉品质标准主要包括食用品质和技术质量，其中食用品质主要指风味、色泽和嫩度等消费者较为看重的因素；技术质量则主要由肉的pH、剪切力、抗氧化能力、滴水损失、系水力等构成[0-1]。
+
+肉品质的形成很大程度上与肌肉的氧化水平有关。屠宰后机体的氧化水平取决于机体抗氧化物质的含量或活性。由于机体抗氧化物质（如 SOD、GSH-Px、CAT等）含量活活性的下降，导致体内 PUFA迅速被氧化，产生大量的氧自由基、脂质过氧化终产物等有害物质，引发机体的过度氧化，生物膜结构和功能损坏。生物膜是组织细胞的第1道防线，当其遭到破坏后，细胞的机构和功能受到影响，细胞丧失水分，脆性增加，致使肌肉的系水力降低[12]。同时，由于细胞失水皱缩使肌肉色泽变差，呈现出苍白色[13]。此外，机体内脂质过氧化产物含量的增加促使氧合肌红蛋白（ $\mathrm { M b } { \sf O } _ { 2 }$ ）迅速转化为高铁肌红蛋白（MetMb），肉的颜色由鲜红色转变成暗褐色[14]，最终肌肉氧化变质，保质期缩短，嫩度变差[15]。
+
+肌肉中的抗氧化剂（CAT、SOD 等）能够有效地抑制自由基的产生和转移[16-17]，降低肌肉的氧化程度，防止肌肉的营养价值、感官品质和嫩度降低[18]，从而改善肉品质，延长肉制品的货架期。已有研究结果表明，与商品猪皮特兰、长白猪、大白猪相比，伊比利亚猪肌肉CAT 活性显著高于其他品种[19]；同种大白猪皮下脂肪氧化程度显著低于肌间脂肪[20]。在肌肉中抗氧化物质含量或活性升高的同时，肌肉具有更低的蒸煮损失和离心失水率等[21]。
+
+# 3 提高肌肉抗氧化能力、改善肉品质的措施
+
+# 3.1 宰前措施
+
+研究发现，饲养阶段在动物饲粮中添加抗氧化剂可以提高动物机体的抗氧化能力，降低自由基对肌肉的氧化速率，保护肌肉中生物膜结构和功能的完整性，达到改善肌肉质量的目的[22-23]。
+
+维生素E是抗氧化系统中非酶保护系统的主要成员，主要包含生育酚等物质，是动物生长代谢所必需的一种脂溶性维生素。维生素E参与构成细胞膜，能够抑制细胞膜上发生的氧化反应，保护细胞膜的结构和功能，防止细胞内水分外流，提高肌肉嫩度[24]。动物体内的微量元素硒不仅可以提高机体的免疫力[25]，而且硒作为GSH-Px 的主要成分，在清除体内自由基、保护细胞膜完整性等方面具有显著作用。硒也能够与维生素E 产生协同作用，提高机体的抗氧化能力[26]。富含硒元素的益生菌能提高仔猪血液中GSH-Px 活性和硒含量[27]。同时，硒能够提高肉色红度（a\*）值，降低肉色黄度 $( \boldsymbol { \mathsf { b } } ^ { * } )$ 值，从而提高肉品质[28]。地塞米松（dexamethasone,DEX）是一类肾上腺皮质激素类药物，对应激、过敏等急性反应有缓解作用。动物在屠宰前体内注射 DEX，能够显著提高血浆中总抗氧化能（total antioxidant capacity，T-AOC）及GSH-Px、CAT等抗氧酶的活性，从而提高机体的抗氧化能力[29]。
+
+在动物饲粮中添加苜蓿多糖、茶多酚等非粮饲料也可以提高动物机体的抗氧化能力。苜蓿多糖可以有效提高动物体内抗氧化酶活性，进而提高机体整体抗氧化能力。试验证明在每千克饲粮中添加 $1 0 0 0 \mathrm { m g }$ 苜蓿多糖不仅能够提高母鸡血清中总超氧化物歧化酶(total superoxide dismutase,T-SOD）、GSH-Px 的活性及 T-AOC，并能够显著降低公、母鸡腿肌的滴水损失率[30]。桑叶中富含的多酚能够提高动物体内 SOD 的活性，降低谷丙转氨酶的活性和 MDA 含量[31]。茶黄素和茶多酚均对体内一些有害自由基有一定的清除能力[32]。在断奶仔猪饲粮中添加 $2 4 0 \mathrm { U / k g }$ 葡萄糖氧化酶可以显著降低血清中MDA 含量[33]。用发酵中药渣（黄芪、当归等）喂养仔猪，在7日龄时肌肉的 T-AOC 显著升高[34]。在肉鸡饲粮中添加 $1 0 0 ~ \mathrm { { m g / k g } }$ 壳寡糖能够显著提高肌肉中T-AOC 及T-SOD、GSH-Px 活性，显著提高胸肌和腿肌的a\*值[35]。另外，在动物饲粮中添加藜叶多糖、牡丹籽油和万寿菊提取物等都会提高动物的抗氧化能力和肉品质[36-38]。
+
+但是需要额外注意的是，在饲粮中添加抗氧化物质时，应注意添加的比例。例如饲粮添加 $1 0 0 ~ \mathrm { { m g / k g } }$ 维生素E时，肉鸡血清和胸肌中的 SOD 活性和 T-AOC 没有显著变化，也不能显著改善鸡肉品质；但当维生素E 的添加量提高到 $2 0 0 \mathrm { m g / k g }$ 时，肉鸡血清和胸肌中 SOD 活性和 T-AOC 显著升高，血清中 MDA 含量显著降低，肌肉品质得到改善[39-40]。
+
+动物的养殖方式也会对机体抗氧化能力和肉品质造成较大影响。有研究表明散养组肉鸡肾脏的T-AOC显著高于笼养高密度组[41]；另外，与垫料平养相比，肉鸡笼养能够极显著降低肉鸡胸肌屠宰后 $4 5 \mathrm { m i n }$ 的 $\mathfrak { p H }$ 显著升高腿肌b\*值。与高饲养密度相比，低饲养密度的肉鸡肝脏 T-AOC、血清GSH-Px 活性和胸肌pH显著提高[42]。与舍饲相比，放牧能够显著增加羊肌肉内 SOD、GSH-Px 活性及T-AOC[43]。类似的研究也表明，戈壁滩放养的多浪羊肌肉的持水力、宰后1d肌肉的a\*值及PUFA 含量优于工厂集约化饲养的多浪羊[44]。
+
+# 3.2 宰后加工储藏方式
+
+动物屠宰后由于机体不能有效地进行物质交换，所以其氧化反应的发生在一定程度上不受限制，肉品氧化变质的速率升高。不同的储存方式下肉品的氧化速率不同，对肉品质的影响也不相同。冷鲜保存是如今常用的一种肉食品储存方式，不同的预冷方式会对肉品质和储存时间产生不同的影响。在预冷过程中，屠宰后$2 4 \mathrm { h }$ 混合预冷（风预冷 $+$ 水预冷）和水预冷处理的肌肉亮度（L\*）值显著高于风预冷处理；水预冷处理的肌肉剪切力显著高于风预冷和混合预冷处理；并且，剪切力和储存时间呈现出明显的负相关[45-46]。
+
+售卖过程中的存储方式也会影响肌肉的氧化速率和肉品质。与真空包装相比，采用气调包装（modifiedatmosphere packaging，MAP）的鸡肉在第8天和第12天有更高的 $\mathbf { M } { \mathbf { \bar { b } } } \mathbf { O } _ { 2 }$ 和较低的MetMb 百分比，滴水损失率显著降低。因此，MAP能够有效降低鸡肉的氧化速率，提高肉品质，利于鸡肉的保存[47]。另外，在包装内侧加入硅酸锆(ZrSiO4)-铝硅酸盐玻璃涂层或在肉样表面喷洒 $0 . 0 5 { \mathrm { g / d L } }$ 迷迭香提取物能够有效抑制MAP 肉品脂类氧化和贮藏后期的颜色劣变[48-49]。另外，在储存的牛肉中添加天然抗氧化剂（如壳寡糖)可抑制 Met Mb的生成，从而提高肌肉的抗氧化能力和肉品储存时间[50]。
+
+# 4小结
+
+宰后肌肉的氧化反应严重地影响了食用品质。在动物饲粮中适当加入抗氧化物质、合适的饲养方式以及适当的宰后加工保存均能够有效降低宰后肌肉的氧化速率，这对于提高肉食品的质量、保存时间等有重要意义。
+
+参考文献：   
+[1]李建喜,杨志强,王学智.活性氧自由基在动物机体内的生物学作用[J].动物医学进展,2006,27(10):33-36. [2] 郁军超,薛连璧.机体 ROS 的产生及对生物大分子的毒性作用[J].山东医药,2012,52(8):94-96,102. [3] YANG Y,XU G P,LIANG JD,et al.DNA Backbone sulfur-modification expands microbial growth range under multiple stresses by its anti-oxidation function[J].Scientific Reports,2017,7:3516.   
+[4]董亮,何永志,王远亮,等.超氧化物歧化酶(SOD)的应用研究进展[J].中国农业科技导报,2013,15(5):53-58. [5] JIAO Y,WANG Y R,GUO S C,et al.Glutathione peroxidases as oncotargets[J].Oncotarget,2017,8(45):80093-80102.   
+[6]SIES H.Hydrogen peroxide as a central redox signaling molecule in physiological oxidative stres:oxidative eustress[J].Redox Biology,2017,11:613-619.   
+[7]ZHAO C Y,TAN S X,XIAO X Y,et al.Efects of dietary zinc oxide nanoparticles on growth performance and antioxidative status in broilers[J].Biological Trace Element Research,2014,160(3):361-367.   
+[8] MSEDDI M,BEN M R,GARGOURI B,et al.Protein oxidation and autoantibodies’reactivity against malondialdehyde and hydrogen peroxide-modified thyroid antigens in plasma of patients with Graves’disease and
+
+17 Hashimoto Thyroiditis[J].Chemico-Biological Interactions,2017,272:145-152.
+
+[9]景友玲,王艳蕾,王小君,等.黄芪对肠缺血/再灌注时脂质过氧化损伤的防护作用及其机制[J].中国应用生理 学杂志,2009,25(2):242-243,272.   
+[10]ZHANG H Y,WU J J,GUO X Y.Efects of antimicrobial and antioxidant activities of spice extracts on raw chicken meat quality[J].Food Science and Human Wellness,2016,5(1):39-48.   
+[11]DALLE Z A,TASONIERO G,PUOLANNE E,et al.Effect of“Wooden Breast” appearance on poultry meat quality,histological traits,and lesions characterization[J].Czech Journal of Animal Science,2017,62(2):51-57. [12]杨明升,刘红林,王林云.导致猪肉系水力下降的主要因素及防制措施[J].畜牧与兽医,2002,34(7):14-16. [13] ISMIYATI A,WIYASA I W,HIDAYATI D Y N.Protective effct of vitamins C and Eon depot-medroxyprogesterone acetate-induced ovarian oxidative stress in vivo[J].Journal of Toxicology,2016,2016:3134105.   
+[14]陈骋.脂质氧化和抗氧化因子对耗牛肉肌红蛋白稳定性及高铁肌红蛋白还原能力的影响[D].博士毕业论 文.兰州:甘肃农业大学,2016.   
+[15]LEE H,KIM B W,LEE J W,et al.Extracellular reactive oxygen species are generated by a plasma membrane oxidative phosphorylation system[J].Free Radical Biology and Medicine,2017,112:504-514.   
+[16]CONTINI C,ALVAREZ R,O'SULLIVAN M,et al.Efect of an active packaging with citrus extract on lipid oxidation and sensory quality of cooked turkey meat[J].Meat Science,2014,96(3):1171-1176.   
+[17]韩立强,杨国宇,王艳玲,等.肌肽清除自由基及抗氧化性质的作用研究[J].河南工业大学学报（自然科学版 ）,2006,27(1):43-46.   
+[18]EL-AAL H A A.Lipid peroxidation end-products as a key of oxidative stres:effct of antioxidant on their production and transfer of free radicals[J].Intech,2012:63-88.   
+[19]HERNANDEZ P,ZOMENO L,ARINO B,et al.Antioxidant,lipolytic and proteolytic enzyme activities in pork meat from different genotypes[J].Meat Science,2004,66(3):525-529.
+
+[20]霍晓娜,李兴民,刘毅,等.猪腿肉脂肪酸组成及脂肪氧化的研究[J].食品科学,2006,27(1):101-104.
+
+[21] 李贝贝,徐泽权,李涛,等.饲粮中添加番茄渣对育肥猪生长性能、胴体性状、肉品质和抗氧化能力的影响[J].动物营养学报,2017,29（12）：4554-4561.
+
+[22]LUND M N,HEINONEN M,BARON C P,et al.Protein oxidation in muscle foods:a review[J].Molecular Nutrition & Food Research,2011,55(1):83-95.
+
+[23]MIR S A,MASOODI F A,RAJA J.Influence of natural antioxidants on microbial load,lipid oxidation and sensorial quality of Rista—a traditional meat product of India[J].Food Bioscience,2017,20:79-87.
+
+[24] PFRIMER K,FERRIOLLI E,TAKEUCHI PL,et al.Effects of the consumptionof milk biofortified with selenium,vitamin eanddiffrent fattyacid profileon immune response in theelderly[J].Molecular Nutrition&Food Research,2017,doi:10.1002/mnfr.201700307.
+
+[25]CALVO L,TOLDRA F,RODRiGUEZ A I,et al.Effct of dietary selenium source (organic Vs. mineral) and muscle pH on meat quality characteristics of pigs[J].Food Science & Nutrition,2017,5(1):94-102.
+
+[26]王健.硒、维生素E在抗氧化功能上的协同作用[J].中国畜禽种业,2014(10):32.
+
+[27]吕晨辉.富硒益生菌对高温条件下仔猪生产性能、抗氧化能力和肠道菌群的影响[D].硕士学位论文.南京:南京农业大学,2013.
+
+[28]田金可,吴秋珏,HUSSAINA,等.动物日粮中补充硒对肉品质影响的研究进展[J].食品工业科技,2012,33(10):374-377.
+
+[29]王锦,闵育娜,王娟娟,等.宰前氧化应激对肉鸡肉品质的影响[J].畜牧与兽医,2013,45(5):13-17.
+
+[30] DABBOU S,GASCO L,ROTOLO L,et al.Eects of dietary alfalfa flavonoids on the performance,meat quality and lipid oxidation of growing rabbits[J].Asian-Australasian Journal of Animal Sciences,2018;31(2):270-277.
+
+[31]张宇思,周昊,颜新培,等.桑叶多酚的研究进展[J].中国野生植物资源,2015,34(5):35-37,50.
+
+[32]鲁吉珂,郝利民,陶如玉,等.不同纯度茶多酚和茶黄素的抗氧化活性[J].食品科学,2015,36(17):17-21.
+
+[33]侯振平,蒋桂韬,吴端钦,等.葡萄糖氧化酶对断奶仔猪生长性能、血清生化指标和抗氧化功能及养分消化率的影响[J].动物营养学报,2017,29(10):3482-3488.
+
+[34] SOTIRIOSK,MICHAEL H G.Antioxidant properties of annatto carotenoids[J].Food Chemistry,2003,83(4):523-529.
+
+[35]白洁,刘国华,年芳,等.饲粮添加壳寡糖对肉鸡肉品质、抗氧化性能、小肠黏膜组织结构及肠道菌群的影响[J].动物营养学报,2017,29(12):4485-4494.
+
+[36]JIANG Y,YUAN J,SUN X,et al.The optimum extracting technology and anti-oxidation of polysaccharides from quinoa leaves[J].Journal of Chinese Institute ofFood Science & Technology,2017,17(2):110-118.
+
+[37]IU P,XU Y,LI X,et al.Enrichment and anti-oxidation efficacyof oligostilbenes from seed shellof peony for oil[J].Journal of the Chinese Cereals & Oils Association,2017,32(6):84-90.
+
+[38] WANG S,ZHANG L,LI J,et al.Effects of dietary marigold extract supplementation on growth performance,pigmentation,antioxidant capacityand meat quality in broiler chickens[J].Asian-Australasian Journal of Animal Sciences,2017,30(1):71-77.
+
+[39]王显慧,刘福柱,牛竹叶,等 $. \mathrm { v _ { E } }$ 对肉鸡抗氧化性能和肉品氧化稳定性的影响[J].西北农业学报,2011,20(2):1-7.
+
+[40]TANG FT,LUML,ZHANG S P,et al.Vitamin Econditionally inhibits atherosclerosis in ApoE knockout mice by anti-oxidation and regulation of vasculature gene expressions[J].Lipids,2014,49(12):1215-1223.
+
+[41]张金秋,马子力,韩立秋,等.牛磺酸对不同饲养方式蛋鸡肾脏功能、抗氧化能力和细胞因子水平的影响[J].  
+天津农学院学报,2014,21(1):9-14.
+
+[42]张璐爽,张亚茹,刘洋,等.网上饲养密度对北京鸭免疫功能和氧化应激水平的影响[J].中国家禽,2015,37(12):31-34.
+
+[43]黄金玉,焦金真,冉涛,等.放牧与舍饲条件下山羊肌肉发育和抗氧化能力变化研究[J].中国农业科学
+
+,2015,48(14):2827-2838.
+
+[44]闫祥林,任晓镁,刘瑞,等.不同饲养方式对新疆多浪羊肉品质的影响[J/OL].食品科学,2017,http://kns.cnki.net/kcms/detail/11.2206.TS.20170927.1501.106.html.
+
+[45]李若绮.宰后冷藏过程中牛肉肉用品质变化及抗氧化物质对肉色稳定性影响[D].硕士学位论文.兰州：甘肃农业大学,2015.
+
+[46]刘雅丽,刘均,卢立志,等.不同预冷方式对肉鸡胴体肉品质和货架期的影响[J].中国家禽,2014,36(19):33-37.
+
+[47]HUEZO R,SMITH D P,NORTHCUTT J K,et al.Effect of immersion or dry air chilling on broiler carcass moisture retention and breast fillet functionality[J].The Journal of Applied Poultry Research,2007,16(3):438-447.
+
+[48] ZHENG L,FENG Z,HAN Q G,et al.Study on ZrSiO 4-aluminosilicate glasscoating with high infrared emissivity and anti-oxidation properties[J].Composites Communications,2017,4:16-19.
+
+[49]李大虎,应丽莎,程玉娇,等.含迷迭香的蛋白基薄膜对高氧气调包装生鲜猪肉的护色及抗氧化作用[J].食品科学,2014,35(24):321-326.
+
+[50]郭新颖,刘程惠,尤晓宏,等.壳寡糖对冷鲜牛肉保鲜效果的影响[J].食品与发酵工业,2016,42(10):204-209.
+
+Relationship between Antioxidant Capacity and Muscle Quality of Postmortem Musclel
+
+FAN Lujie DOU Mingle WANG Xiaoyu LI ZeSHI Xin'e LI Xiao\* (College of Animal Science and Technology, Northwest A&F University, Yangling 712100)
+
+Abstract:There arestillvarious kinds of oxidation reactions withinthe muscle even after the animals are slaughtered The degrees of oxidation reactions in postmortem muscle are documented to be closely corelated with meat quality traits such as meat color, water holding capacityand the shelf life.Enhancement of the muscle antioxidant capacity is always considered as one ofthe most effective ways to improve meat quality.Here, we have discussed the effects of antioxidant capacity on meat quality of postmortem muscle as wellas their underlying mechanisms,and some useful attempts for meat quality improvements are also addressed. Key words: oxidation-reduction reaction; antioxidant capacity; meat quality; pig; broiler

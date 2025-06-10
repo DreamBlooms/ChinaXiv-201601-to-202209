@@ -1,0 +1,395 @@
+# 低频射电脉冲星搜索的性能优化方法
+
+韦建文1，张晨飞1，张仲莉2,3,4\*，余婷2,5，林新华1，安涛2,3
+
+1.上海交通大学网络信息中心，上海200240；  
+2.中国科学院上海天文台SKA区域中心联合实验室，射电天文重点实验室，上海200030;  
+3.鹏城实验室SKA区域中心联合实验室，深圳,518066;  
+4.上海引力波探测前沿科学中心，上海200240;  
+5.中国科学院大学天文与空间科学学院，北京100049  
+\*联系人,E-mail: zzl@shao.ac.cn
+
+收稿日期:2022-06-28；接受日期:2022-07-xX;  
+中国 SKA专项（编号：2020SKA0120200）、国家重点研发计划（编号：2018YFA0404603)、国家自然科学基金资助项目（批准号：12041301,11873079）和中国科学院青年创新促进会项目（编号:2021258）资助项目
+
+摘要随着平方公里阵列射电望远镜（SKA）等大科学装置的建设和运行，以及大数据和高性能计算创新平台的提出，天文学与高性能计算之间的联系日趋紧密．天文学计算，特别是作为 SKA的主要科学方向之一的脉冲星搜索，具有数据量大、计算量多的特点．本文介绍了一种基于OpenMP 多线程和多进程技术来加速脉冲星搜索管线的方案，提出了一种解决负载不平衡问题的方法，并成功的将优化管线安装于中国SKA区域中心原型机的 $\mathbf { x } 8 6$ 和ARM计算节点．通过默奇森大视场阵列望远镜（MWA）的脉冲星观测数据搜寻测试，与原始单线程方法相比，管线分别获得10.4-12.2和 24.5-27.6倍的加速比．其中ARM平台比 x86 平台的计算快1.1-1.3倍，显示出其在 SKA数据处理方面的巨大潜力．在中国 SKA区域中心原型机上部署的脉冲星优化搜索管线，近期将重点应用于MWA南天快速两米巡天（SMART）项目的低频脉冲星搜寻，以满足包括引力波探测计时阵在内的多种科学需要.
+
+关键词 平方公里阵列，脉冲星，脉冲星搜索，高性能计算，并行优化
+
+PACS: 47.27.-i,47.27.Eq,47.27.Nz,47.40.Ki,47.85.Gj
+
+# 1引言
+
+能够稳定地接收到周期性的脉冲辐射信号：
+
+脉冲星是具有强磁场的快速旋转中子星，其典型半径约为10-12千米，质量约为1.4倍太阳质量$M _ { \odot } ^ { \mathrm { ~ [ 1 ] ~ } }$ ．它于1967 年在低频射电观测中首次被发现[2],在时域天文学、致密天体结构、星际介质模型,以及引力波探测等领域有着重要价值．观测研究显示，脉冲星的辐射源于磁极，当自转轴与磁轴存在夹角时，就会产生灯塔效应，使得地球上的观测者
+
+脉冲星在天文学和物理学上的巨大应用价值是建立在大样本基础上的，而脉冲星的搜寻工作已经在全球范围内展开．例如美国Arecibo望远镜的银盘L 波段馈电阵列脉冲星巡天（PALFA）[3] 和澳大利亚Parkes望远镜的高时间分辨率宇宙脉冲星巡天（HTRU）[4,5]．我国自主研制的 500 米口径球面射电望远镜“天眼”FAST[6-8]，至今已发现350多颗新脉冲星（如[9-12]），以及FAST 多科学目韦建文，张晨飞，张仲莉，余婷,林新华，安涛标同时扫描巡天（CRAFTS）中的200多颗脉冲星候选体[13,14]1)．同时，几百 MHz 以下的低频脉冲星探量也在进行中．例如美国的GBNCC 巡天项目[15]利用Green Bank 射电望远镜在350MHz 对南纬 $4 0 ^ { \circ }$ 以北天区进行全面搜寻，已发现了195 颗脉冲星2．Arecibo在327MHz的巡天，自2010 年起，已发现了96 颗脉冲星[16,17]．荷兰的LOFAR低频阵列射电望远镜[18]在更低的135MHz 频率上发现了73 颗脉冲星[19,20]．迄今为止，已发现超过3300 颗射电脉冲星（ATNF目录[21]）．它们大部分分布在银盘附近，只有一小部分分布在高银纬地区,这与脉冲星是由超新星爆炸产生的理论是一致的.
+
+正在建设的平方公里阵列（SquareKilometreArray，SKA）射电望远镜的第一阶段（SKA1，整个规模的 $1 0 \%$ ）预期能够发现18000多颗脉冲星，超过目前已知数目的5倍[22]．搜寻更多的脉冲星需要更长的积分时间，而计算能力的需求是随着观测时间的立方增长的，因此，提高脉冲星搜寻速度是一个亟待解决的问题．如今，有多项工作利用现代多核处理器来优化脉冲星的搜索.Yu等人[23]测试了开启和关闭超线程、不同线程数对脉冲星探测和搜索工具PRESTO [24]（Scott Ransom 开发）程序性能的影响，但其代码还可以进一步优化．Di-moudi 等人[25]在GPU上使用傅立叶空间加速搜索(FDAS)算法来优化脉冲星搜索，但是这个GPU算法尚未集成到PRESTO中.Wang 等人[26]使用FPGA芯片来加速脉冲星搜索，而FPGA芯片没有被天文学家广泛应用于科学数据处理，也不能与PRESTO很好的嵌合．相比之下 $\mathrm { _ { x 8 6 } }$ 或ARM架构的多核CPU,支持 $9 5 \%$ 以上的工作负载，是我们加速脉冲星搜索的理想平台.
+
+由于脉冲星的频谱陡峭，理论上更容易在较低频率探测到脉冲星，因此低频射电观测对于寻找新的脉冲星至关重要[22]．此外，低频望远镜具有更大的探测视场（FoV）．但由于低频环境噪声的干扰和星际介质的散射效应，使得低射频脉冲星的探测变得困难．随着 SKA-low（SKA 的低频阵列[27])先导项目的运行，脉冲星的低频搜索技术在不断进步．SKA-low将成为最先进的脉冲星低频探测望远镜之一.
+
+在 SKA 建成之前，许多SKA的探路者设备已经投入使用．位于西澳大利亚的默奇森大视场阵列望远镜（MWA）[28]是 SKA-Low 的先导项目,其视场包括具有最密集脉冲星分布的银河系中心区域.MWA的电压捕获系统（VCS）[29]覆盖MWA$7 0 { \mathrm { - } } 3 0 0 ~ \mathrm { M H z }$ 的频率范围，在 $\mathrm { 3 0 . 7 2 \ M H z }$ 的总带宽上细分了3072个频率通道，因此具备 $0 . 1 \mathrm { k H z }$ 的频率分辨率．在 $0 . 1 ~ \mathrm { m s }$ 的时间采样下，每小时的观测将产生 $2 8 ~ \mathrm { T B }$ 的数据.虽然数据量巨大给后随的计算处理带来不小的挑战，MWA依然预期探测到230颗新的脉冲星[30]．而未来的 SKA1-Low 则预期可发现大约11,000 颗脉冲星[22].
+
+在 SKA时代，单碟射电望远镜灵敏度和巡天效率难以提高的缺点将得到彻底克服．SKA有望获得前所未有的高灵敏度、大视场和高巡天速度，同时产生海量观测数据[27,31]．当 SKA1完成后,数据生成速率最高可达每秒TB的级别[32,33]．SKA1生成的海量数据将需要每秒至少 300Pflops 浮点运算的运算能力[31]，这几乎相当于当前世界上最快的超级计算机的能力（例如Fugaku的最大性能为442PFlops[34]）．考虑到传输和计算效率，实际对数据处理的需求将大大超过这个理论估计.
+
+顺利完成海量数据的处理和存储是SKA正常运行的前提，因此SKA主要成员国正计划建立各自的区域中心（SRC），来执行科学数据深度分析和数据产品长期存储的任务，并且支撑全球科学用户的工作[35]．分布式 SRC 将形成一个全球的协作和协调网络，负责 SKA的科学数据产品[36]．全球SRC网络的设计、开发、运营和维护符合SKA天文台需求和国家/地区的战略发展，
+
+上海天文台正牵头推进中国SKA区域中心原型系统建设（CSRC-P），并且已建成世界第一台韦建文，张晨飞，张仲莉，余婷,林新华，安涛
+
+SRC 原型机[37,41]3)及其软件系统[39]．SKA 区域数据中心建成后，将以MWA为基础，同时开拓和ASKAP、MeerKAOT和LOFAR的合作,开展SKA先导项目的科学预研究和技术发展,其中包括低频射电连续谱巡天观测项目[40]，以及本文所开展的低频射电脉冲星搜索研究．在全面建设SRC之前，原型机的研制和测试至关重要．CSRC-P承担了SKA先导和探路望远镜的数据处理技术验证、数据挑战测试、数据处理流程开发和数据分析的任务．CSRC-P采用混合异构计算架构的设计，同时使用 $\mathrm { x 8 6 }$ 和 ARM[42] 处理器集群，它是第一个使用ARM架构的SKA数据处理系统.正如2019年的 SKA工程会议4上所展示的,ARM计算节点的基准测试显示了出色的整体性能.CSRC-P配备了多核处理器和出色的存储和网络系统，为改进脉冲星搜索管线提供了理想的测试平台.
+
+本文将介绍在现代多核处理器平台上针对脉冲星搜索管线执行的优化方法，尤其是针对CSRC-P的设计，以及针对MWA-VCS的四个非相干叠加数据进行搜寻测试的结果．文章结构如下：第2章为我们所采用的脉冲星搜寻管线，第3章介绍我们对该管线中热点步骤的优化方法，第4和第5章分别为优化管线的性能评估和总结．值得一提的是，该管线近期将重点应用于MWA的南天快速两米巡天(SMART[43]）项目的低频脉冲星搜寻当中.
+
+# 2脉冲星搜索流程
+
+Scott Ransom 开发的 PRESTO [24] 是使用最广泛的脉冲星搜索管线.PRESTO的最初设计目的是从对球状星团的长时间观测中有效地搜索毫秒脉冲双星．目前，已利用PRESTO搜索到了600多颗脉冲星，其中包括230多颗毫秒脉冲星和毫秒脉冲双星[44]．PRESTO 代码主要由 ANSIC 语言编写，还包含许多使用Python 语言编写的例程．使用PRESTO搜索脉冲星的管线如图1所示，共有6步：1）消除射频干扰(RemoveNarrowbandRadioFrequency Interference);2)消色散(De-dispersion) ;3)傅里叶变换及消除红噪声(FFT&RemoveRed-noise)；4）加速搜索（AccelerateSearch)；5）候选体折叠(CandidateFolding)；6）单脉冲搜索（Sin-gle Pulse Search)．而最终对于周期性和单脉冲的候选体筛选，暂时采用人工的方法．后续将根据不同的观测数据和需要在该步骤安插人工智能筛选程序．在接下来的章节中，我们将介绍筛选前6个步骤的方法，以及为这些步骤设计的并行优化方案.
+
+![](images/5178d7c9ef1c9a949759b7583dd20450762f3ab6c70b92dc9dfc5d29993a244c.jpg)  
+图1脉冲星搜索管线和分步优化方法 Figure1 The flowchart of the pulsar search pipeline and the optimization of each step
+
+# 2.1 消除射频干扰
+
+射频干扰主要来源于人造射电源，很容易被错误识别为脉冲星候选体，而真正的脉冲星信号又会因为受到干扰而被忽略.射频干扰对脉冲星的搜索与观测会产生严重的影响，从而大幅增加后续流程的工作量.
+
+PRESTO提供了rfifind.py 的程序，可用于识别和去除很强的窄带射频干扰，以及持续时间较短的宽带的射频干扰.其算法将时域分为几秒的区间，以满足大部分观测数据去除干扰的需要（本文中测试设置为12s）．rfifind用这个区间去扫描整个数据，找出其中的射频干扰并标记，生成标记.mask 文件.
+
+另一个需要搜索的是周期性干扰信号.由于射电信号必然会受到星际介质的影响，所以色散量（DM）为0的信号是不存在的，因此这类信号可以韦建文，张晨飞，张仲莉，余婷,林新华，安涛视为射频干扰．PRESTO 对数据进行一次 DM-0搜索，找出色散量为0的信号，并将搜索信息记录到.bird文件中，从而消除此类干扰对后续搜索的影响.
+
+# 2.2 消色散
+
+由于不同频率的电磁波在星际介质中的传播速度不同，射电望远镜接收到的不同频率的信号会有时间差，从而导致脉冲展宽.频带越宽的射电望远镜在观测脉冲星时灵敏度越高，但星际介质引起的色散影响也越大.我们需要对观测到的数据进行消色散处理
+
+我们利用基于PRESTO 的 prepsubband 程序进行消色散处理．prepsubband 程序执行消色散的过程如下：根据特定的色散量DM，将不同通道组的信号在时间上进行移动，最终生成一系列不同色散量的时间序列.消色散操作会去除上一步标记的射频干扰.对于信号较强的脉冲星，消色散之后便会显现出脉冲信号.若数据中存在色散量在搜索范围内的脉冲星信号，其周期可以在后续搜索过程中被确定.
+
+# 2.3 傅里叶变换及消除红噪声
+
+得到不同色散量的时域数据后，我们对序列进行离散傅里叶变换，再从频域中展开搜索．本文使用在计算机上能够高效实现离散傅里叶变换的算法：快速傅里叶变换（FFT），从而极大提高脉冲星搜寻的效率.
+
+由于环境中无处不在的粒子布朗运动，采集到的信息会混有红噪声，导致频域信号低频端升高，因此，对于傅里叶变换后的.fft 文件，我们需要执行PRESTO中的红噪声消除程序以白化信号，生成新的去除红噪声的.ft文件，
+
+# 2.4 加速搜索
+
+为了充分利用谐波，我们使用“谐波叠加技术”来加强脉冲星的频域信号，并获取脉冲星的候选体，
+
+PRESTO 软件的 accelsearch 程序提供了脉冲星的加速搜索算法，可同时用于对普通脉冲星和双星系统中的脉冲星进行搜索.其中,-numharm 参数可以设定最高谐波叠加次数.理论上，该参数设置得越高对搜索越有利，但同时运算量也会成倍增加．在本文中，该参数设置为16．accelsearch 中的-zmax参数，指的是在搜索中使用的参数空间中，由双星系统的轨道运动引起的频域上的最大漂移量．zmax的设定值越大，运算耗时越长．在本文中,zmax 的值设为 200.
+
+在频域中，一颗真实脉冲星的信号并非只在一个频率处出现，而是表现为一个基频和一系列谐波，
+
+# 2.5 候选体折叠
+
+对于程序筛选出来的候选体，我们在搜索到的色散量DM和周期P上将它们的时间序列进行折叠，并分析其折叠后的轮廓.
+
+基于PRESTO 软件的 prepfold 有两种方法来折叠脉冲轮廓：一种是在输入的DM和P值的附近进行小范围搜索后折叠，目的是找到更精确的DM和P值.另一种方式是直接采用输入的DM和P值进行折叠．由于本文中对流程的优化目的是为大量的巡天搜寻做准备，我们对每个候选体采用的是直接折叠的方式.
+
+# 2.6 单脉冲搜索
+
+部分脉冲星的信号不会表现出明显的周期性例如存在零脉冲、巨脉冲等现象的脉冲星．具有零脉冲的脉冲星会在一段时间内没有脉冲信号；有巨脉冲的脉冲星，其巨脉冲可以达到平均脉冲强度的 100-1000 倍．这两类脉冲星都很难在频域上被搜索到．单脉冲搜索通常采用时域上的搜索算法，PRESTO软件提供了单脉冲搜索程序，可以得到不同色散量时间序列中较明显的单脉冲信号.
+
+韦建文，张晨飞，张仲莉，余婷,林新华，安涛
+
+# 3脉冲星搜索并行优化
+
+# 3.1脉冲星搜索管线热点分析
+
+脉冲星搜索各步骤的时间占比如图2所示．其中，消除射频干扰（Remove Narrowband RFI)、消色散（De-dispersion）、加速搜索（Accelsearch）、候选体折叠（CandidateFolding）以及单脉冲搜索(SinglePulseSearch）是程序热点，运行耗时高，优化潜力大．快速傅里叶变换（FFT）和消除红噪声(RemoveRednoise）耗时少，优化潜力小，不需要进行优化.
+
+根据PRESTO的代码热点和程序编写语言分析,OpenMP多线程和Python多进程方法是合适的优化方法，具体理由如下：第一，大部分代码是单核运行，通过利用现代多核计算节点，预期可以获得数倍的加速效果.第二，脉冲星多频道数据间没有依赖，因此可以更好地并行化，进一步缩短运行时间.第三，相对于多节点并行优化，多线程或多进程的并行优化更易完成，且正确性更容易验证，因此可以作为未来优化的良好起点.
+
+本文使用的并行技术如下所示，分别为Multi-processing、OpenMP以及负载平衡方法．这些优化方法应用到的步骤如图1所示.
+
+·Multiprocessing：一种支持多种计算机语言的进程级并行技术．本文使用Python 的multiprocessing 库[45]实现.该库使用子进程而非线程，从而能充分利用集群上的多核性能，
+
+![](images/39c04346f58585dfe79643ea9187cb2dfbe746da8c507985552e7605c755668f.jpg)  
+图2第4章样例1中脉冲星搜索管线热点分析 Figure 2 The hotspots of Pulsar Search Pipeline with case 1 in section 4
+
+# 3.2 使用OpenMP优化窄带射频干扰
+
+我们使用OpenMP来优化窄带射频干扰消除的过程.窄带射频干扰消除可分为两步：搜索射频干扰和写.mask文件.原程序会调用rfifind,将时间序列分割为多个固定秒数的区间，随后在每个区间中搜索射频干扰（算法1）．因为这些区间中没有数据依赖，我们将OpenMP的pragma 制导语句添加在rfifind的C语言源码中，来并行化搜索射频干扰（算法2）．而将搜索结果写入mask文件的过程耗时较少，无需进一步优化.
+
+·OpenMP[46]：多核处理器并行编程的一种共享内存标准.通过共享内存，不同的核可以从共享内存中获取该核需要的数据用于处理.
+
+·负载平衡[47]：由于所有的核不可能同时完成工作，部分核停止运行时，仍可能有另一部分核在运行，而空闲的核心会造成性能浪费.因此我们需要均衡所有核心的负载，尽可能避免有核心闲置，
+
+<html><body><table><tr><td>算法1原始的窄带射频干扰消除</td></tr><tr><td>Require:M-频道数量</td></tr><tr><td>Ensure:消除窄带射频干扰后的频道</td></tr><tr><td>1:fori=0 to M-1 do</td></tr><tr><td>2： 调用Search_rfifind来搜索第i个channel 的射频 干扰，并将结果写入data[i]中</td></tr><tr><td>3:将data 写入文件中</td></tr><tr><td></td></tr><tr><td>4:end for</td></tr></table></body></html>
+
+韦建文，张晨飞，张仲莉，余婷,林新华，安涛
+
+表1低频MWA非相干叠加数据的消色散方案  
+算法2优化后的窄带射频干扰消除   
+
+<html><body><table><tr><td>Low-DM (cm-3pc)</td><td>High-DM (cm-³pc)</td><td>dDM (cm-3pc)</td><td>Nsteps</td><td>Downsamp</td><td>nsub (ms)</td><td>Effective time resolution</td></tr><tr><td>1.0</td><td>22.9</td><td>0.02</td><td>1093</td><td>1</td><td>4</td><td>0.1</td></tr><tr><td>22.9</td><td>45.7</td><td>0.05</td><td>457</td><td>2</td><td>8</td><td>0.2</td></tr><tr><td>45.7</td><td>91.5</td><td>0.11</td><td>415</td><td>4</td><td>16</td><td>0.4</td></tr><tr><td>91.5</td><td>183.0</td><td>0.21</td><td>435</td><td>8</td><td>32</td><td>0.8</td></tr><tr><td>183.0</td><td>250.0</td><td>0.43</td><td>115</td><td>16</td><td>64</td><td>1.6</td></tr></table></body></html>
+
+Require: $M _ { ☉ }$ -频道数量 $, N .$ 核心数量
+
+Ensure:消除窄带射频干扰后的频道
+
+1:for $i = 0$ to $M / N - 1$ do  
+2: for $j = 0$ to $N - 1$ do  
+3: OpenMP线程 $j$ 调用Search_rfifind 来搜索第  
+$i N + j$ 个 channel 的射频干扰，并将结果写入  
+data[j]中  
+4: end for  
+5: for $j = 0$ to $N - 1$ do  
+6: OpenMP线程 $j$ 将datal $\mathbf { \bar { \rho } } _ { j ] }$ 写入文件中  
+7: end for  
+8:end for
+
+# 3.3 使用Python执行多进程并行
+
+在去除射频干扰后每一步热点步骤都具有相似的计算模式：使用Python 脚本输入多个独立的文件、输出同样写入到独立的文件中．因此，它们在下文中都可以使用并行优化．本文使用Python 的multiprocessing库，把所有待处理的文件均分成 $N$ 份，每份数据交给一个Python进程绑定的CPU核心处理 (算法3).其中，基于消色散方案,加速搜索和单脉冲星搜素的并行流程有数千个，而候选体折叠的并行流程通常也达到一百左右．下面我们基于并行处理对每一步进行详细说明
+
+Table 1 The de-dispersion scheme for MWA incoherent summed data at low frequency   
+算法4原始的消色散流程  
+
+<html><body><table><tr><td>算法3多进程并行</td></tr><tr><td>Require:N←核心数,list←任务列表</td></tr><tr><td>1:fori=0toN-1do</td></tr><tr><td>2：按照 list 将任务分配给第i个核心</td></tr><tr><td>3:endfor</td></tr><tr><td>4:N个核心同时执行其被分配的任务</td></tr></table></body></html>
+
+# 3.4 消色散中的并行化与负载平衡
+
+采用表1中所示的适用于MWA低频脉冲星搜寻的消色散方案，我们将消色散的循环展开为两层循环，并使用OpenMP进行优化.消色散过程的热点部分为从观测到的数据中消除色散的循环：首先，读取一条没有窄带射频干扰的数据并生成预处理过的数据（伪代码中的GetData）．然后，使用前一个循环中的数据（上一条数据）和当前循环的数据（本条数据）来消除色散（伪代码中的dedisp）．其中，由于第一次运行时不存在上一条数据，因此在第一个循环中，本条数据会被使用两次.
+
+在消色散的循环中，由于上一条数据需要用于本条数据的消色散，因此存在数据依赖．为了解决这一问题，我们将循环展开为两个循环，并分别做并行.第一个循环预处理数据，并将它们加载进数组中．第二个循环读取预处理的数据，并进行消色散的操作（算法5）：
+
+Require: $M \gets$ 频道数量， $d a t a \gets$ 数据集合   
+Ensure:消色散后的数据 1:for $i = 0$ to $M - 1$ do   
+2: current $$ data[i]第 $i$ 个频道的数据 3: 对current 做快速傅里叶变换 4: if $i > 0$ then 5: 用prev 和current做消色散 6: 对current 做快速傅里叶变换 7: else 8: 使用两次current做消色散 9: 对current 做快速傅里叶变换   
+10: end if   
+11: $p r e \nu \gets c u r r e n t$   
+12:end for   
+Require: $M \gets$ 频道数量 $, N \gets$ 核心数量 $\mathit { d a t a } \gets$ 数据集会   
+Ensure:消色散后的数据 for $i = 0$ to $M / N - 1$ do if $i > 0$ then $p r e \nu \gets c u r r e n t [ N - 1 ]$ end if for $j = 0$ to $N - 1$ do current $j ]  d a t a [ i N + j ]$ 第 $i N + j$ 个频道的数据 对current $[ j ]$ 做快速傅里叶变换 end for for $j = 0$ to $N - 1$ do if $\scriptstyle i = = 0$ and $j = = 0$ then 用两次current[O]做消色散 对current[0]做快速傅里叶变换 else if $\scriptstyle j = = 0$ then 用prev 和current[O]做消色散 对current[O]做快速傅里叶变换 else 用current[j-1]和current[j]做消色散 对current[j]做快速傅里叶变换 end if end for end for
+
+我们将消色散的循环展开为两层循环，并使用OpenMP进行优化.消色散过程的热点部分为从观测到的数据中消除色散的循环：首先，读取一条没有窄带射频干扰的数据并生成预处理过的数据（伪代码中的GetData）．然后，使用前一个循环中的数据（上一条数据）和当前循环的数据(本条数据）来消除色散（伪代码中的dedisp）.其中，由于第一次运行时不存在上一条数据，因此在第一个循环中，本条数据会被使用两次.
+
+在消色散的循环中，由于上一条数据需要用于本条数据的消色散，因此存在数据依赖．为了解决这一问题，我们将循环展开为两个循环，并分别做并行.第一个循环预处理数据，并将它们加载进数组中.第二个循环读取预处理的数据，并进行消色散的操作.
+
+但是，消色散中每条 prepsubband 命令分配一个CPU核心的策略可能导致负载不均衡.如图3所示，用于完成prepsubband的时间在300 秒到1500韦建文，张晨飞，张仲莉，余婷,林新华，安涛秒不等.提前完成任务的CPU 核心必须等待最慢的核心完成后才能继续执行下一个任务．表1列举了单个计算任务的差异导致的运行时间的不同．表中Low-DM和High-DM分别代表消色散操作允许的下限和上限,dDM 代表 DM 步长,Nsteps 代表需要执行的步数,Downsamp代表降采样系数,nsub代表频率子通道的数量.每条prepsubband命令执行100次Nsteps数，并且消色散操作共有28条命令，同时，nsub的值越大，命令花费的时间就越多.
+
+为了平衡prepsubband的运行时间，我们针对消色散操作设计了负载平衡算法．使用OpenMP分配与每个任务的工作负载成比例的线程数量，表2显示了在给定nsub和线程数时命令的预测执行时间.
+
+我们根据命令耗时的预测值，生成了局部最优的进程线程配置方案，从而达到平衡进程负载的目的．该配置算法包括：总体的进程数，每个进程包含的命令以及相应的线程数.其中，一个进程包含若干命令，命令之间串行执行且使用相同的线程数，具体步骤如下，代码见算法6：
+
+1.根据消色散方案，假设需要执行的命令数量为$c$ ，则初始化 $c$ 个进程,每个进程包含一条消色散命令，且每个进程中所有命令的线程数为1;
+
+2．根据命令耗时的预测值，记 $T$ 为所有进程耗时的最大值;
+
+3.如果当前使用的线程数小于等于节点上CPU核心数，找出最耗时的进程，使该进程的线程数加1.否则,找出两个耗时最短的进程,将这两个进程中的命令合并为一个进程，并将其线程数设置为原来两个进程中线程数的较大值;
+
+4.更新 $T$ 的值并与原值进行比较，验证是否满足收敛条件；若满足收敛条件且当前使用的线程数大于等于节点上CPU核心数，则进程线程配置算法结束，并输出消色散的配置方案，否则，返回前一步.
+
+韦建文，张晨飞，张仲莉，余婷,林新华,安涛
+
+![](images/54a515e24021c486d0004ef03b0a3c7d99ba86aed2319276c3573a4c31de60fb.jpg)  
+图3消色散操作在各核心上负载不均导致运行时间差异 Figure 3Work imbalance leads to runtime variation on CPU cores of $\mathbf { x } 8 6$ and ARM
+
+# 4性能评估
+
+我们选择非相干模式下，中心频率为185MHz的4次MWA-VCS观测作为测试样例（如表3所示)．MWA-VCS的非相干模式具有约600 平方度的大可视天区，非常适合SMART巡天前期，大面积的浅层普查．2019 年，龚宏宇等人[48]就发表了在50次MWA-VCS非相干数据巡天旁瓣中找到的北天脉冲星.
+
+算法6消色散中的负载平衡算法  
+Require：所有命令的预测用时，$N \gets$ 核数 $C \gets$ 命令数  
+Ensure:任务分配方案初始化 $c$ 个进程,每个进程包含一条消色散命令，且线程数为1$M \gets C \ / { ^ * } M$ 为当前线程总数\*/$p r e \nu T \gets 0$ currentT $$ 当前耗时最长的进程需要的时间$\Delta T \gets | p r e \nu T - c u r r e n t T |$ $i t e r \gets 0$ （204号wile5%adieNoM>Ndif $M \leqslant N$ then找出运行用时最大的进程 $\mathbf { \Delta } _ { a }$ 将该进程的线程数加1$M \gets M + 1$ else找出运行用时最小的两个进程 $^ { } | a , b _ { }$ ，线程数分别为${ t _ { a } , t _ { b } }$ （204号合并 $^ { a , b }$ 为一个进程,取 $\operatorname* { m a x } \{ t _ { a } , t _ { b } \}$ 为新进程的线程数$M \gets M - \operatorname* { m i n } \{ t _ { a } , t _ { b } \}$ end if$p r e \nu T \gets c u r r e n t T$ currentT $$ 当前耗时最长的进程需要的时间$\Delta T \gets | p r e \nu T - c u r r e n t T |$ $i t e r \gets i t e r + 1$ end while
+
+我们对这四次观测的搜寻实验都分别在CSRC-P的 $\mathbf { x } 8 6$ 和 ARM计算节点上运行（具体配置见表4）：这两种节点的硬件和软件配置基本接近，适合用于本次实验结果的比较分析．我们比较了 $\mathbf { x } 8 6$ 和ARM平台上优化前和优化后的运行时间、结果的正确性及不同优化策略取得的优化效果.
+
+韦建文，张晨飞，张仲莉，余婷,林新华，安涛
+
+表 2 每条 prepsubband 命令在给定 nsub,Nsteps 及OpenMP线程数下的预估运行时间Table 2 The assumed runtime of each prepsubband commandgiven nsub,Nsteps and the number of OpenMP threads  
+
+<html><body><table><tr><td></td><td>1 thread</td><td>N threads</td><td></td></tr><tr><td>nsub = 4ms</td><td>700 × Nstep 100</td><td>1.25 × 700×00</td><td>NNsteD</td></tr><tr><td>nsub = 8ms</td><td>800x Nstep Nsp</td><td>1.25×</td><td>800×100 900XNstep</td></tr><tr><td>nsub = 16ms</td><td>900 x 100</td><td>1.25×</td><td>100 1000×100 NNstep</td></tr><tr><td>nsub = 32ms</td><td>1000x Nstep Ntp</td><td>1.25 ×</td><td>1200XN</td></tr><tr><td>nsub = 64ms</td><td>1200 × 100</td><td>1.25×</td><td>N</td></tr></table></body></html>
+
+表5消除射频干扰的加速比和并行效率 Table 5 The speedup and parallel efficiency of Remove Narrowband RFI   
+
+<html><body><table><tr><td>Case</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>x86加速比</td><td>12.4</td><td>8.7</td><td>13.3</td><td>13.4</td></tr><tr><td>x86并行效率</td><td>44.2%</td><td>31.1%</td><td>47.6%</td><td>47.8%</td></tr><tr><td>x86优化后运行时间</td><td>7.7s</td><td>18.9s</td><td>17.3s</td><td>2.1s</td></tr><tr><td>ARM加速比</td><td>18.8</td><td>10.3</td><td>10.2</td><td>18.7</td></tr><tr><td>ARM并行效率</td><td>19.6%</td><td>10.7%</td><td>10.6%</td><td>19.5%</td></tr><tr><td>ARM优化后运行时间</td><td>5.8s</td><td>15.8s</td><td>19.5s</td><td>1.3s</td></tr></table></body></html>
+
+# 4.1 正确性验证
+
+该管线的设计目的是从时间序列数据中寻找脉冲星候选体．搜寻流程完成后，关于脉冲星候选体的信息存储在candslist.txt中，其中包含每颗脉冲星候选体的色散和周期．我们发现不管在哪种节点上运算，经过优化的搜寻管线和原管线获得了完全一致的结果，以此验证了我们优化的脉冲星搜寻管线的正确性.
+
+# 4.2 OpenMP并行性能分析
+
+![](images/c484b624e9a49aaad909db4f02b3cae3a2cd1f8cd48de705fb97abc2f971727b.jpg)  
+图4 $\mathbf { x } 8 6$ 及ARM单节点上消除射频干扰的性能比较 Figure 4 The performance comparison of Remove Narrow - band $R F I$ on $\mathbf { x } 8 6$ and ARM's single node
+
+我们在 $\mathbf { x } 8 6$ 和 ARM单节点上测试了消除射频干扰的OpenMP并行性能．测试结果见图4.表5显示了在不同节点上不同数据上，消除射频干扰的加速比 $S _ { p }$ 及并行效率 $\epsilon _ { p }$ ，其计算公式分别为$S _ { p } = T _ { 1 } / T _ { p }$ 和 $\epsilon _ { p } = T _ { 1 } / p T _ { p }$ .其中 $p$ 为计算节点的核数 ${ { T } _ { 1 } }$ 为单核运行程序的耗时 $T _ { p }$ 为使用 $p$ 核运行程序的耗时.
+
+对于不同的测试数据,ARM和 $\mathbf { x } 8 6$ 具有相似的加速比.单个ARM通常比 $\mathrm { x 8 6 }$ 节点拥有更多的CPU 核心，因此消除射频干扰在ARM集群上运行速度更快.但是ARM和 $\mathbf { x } 8 6$ 集群上的加速比不完全等同于计算核数目的比例.这是因为OpenMP的多线程性能受到内存带宽的限制，这导致ARM集群的并行效率不会随着CPU核数的增加而线性增加.
+
+韦建文，张晨飞，张仲莉，余婷,林新华，安涛
+
+表3非相干模式下的MWA-VCS观测脉冲星搜寻测试样例  
+
+<html><body><table><tr><td>Case</td><td>ObsID</td><td>R.A.(J2000)</td><td>Dec.(J2000)</td><td>Duration(s)</td><td>Pulsar searched</td></tr><tr><td>1</td><td>1088850560</td><td>13:20:07.2000</td><td>-26:37:12.0000</td><td>3535</td><td>1</td></tr><tr><td>2</td><td>1145367872</td><td>11:34:17.2956</td><td>-33:25:06.9706</td><td>3613</td><td>J1116-4122</td></tr><tr><td>3</td><td>1115381072</td><td>10:10:08.1228</td><td>+10:39:45.9377</td><td>4868</td><td>J0953+0755</td></tr><tr><td>4</td><td>1131415232</td><td>14:39:27.4317</td><td>-71:09:36.8236</td><td>594</td><td>J1430-6623,J1453-6413,J1456-6843</td></tr></table></body></html>
+
+Table 3 The MWA-VCS observations in incoherent mode for pulsar search tests   
+
+<html><body><table><tr><td>节点</td><td>CPU</td><td>内存</td><td>操作系统</td><td>内核版本</td><td>软件环境</td></tr><tr><td>x86</td><td>Intel Xeon Gold 45367872/case2/gc (28cores 2.60GHz)</td><td>6-Channel DDR4-2666</td><td>CentOS7</td><td>3.10.0</td><td>Python:2.7gcc:8.3</td></tr><tr><td>ARM</td><td>Kunpeng 920 CPU (48cores 2.50GHz)</td><td>8-ChannelDDR4-3200</td><td>CentOS7</td><td>4.14.0</td><td>Python:2.7gcc:8.3</td></tr></table></body></html>
+
+# 表4软硬件配置
+
+# 4.3 多进程并行性能分析
+
+![](images/0d41668075a42b82283c21c6bc38e005b982ebe3a382d901b349847431fb5e99.jpg)  
+图5 $\mathbf { x } 8 6$ 和ARM单节点上的单脉冲搜索性能比较Figure5 Theperformance comparison of SinglePulse Searchon $\mathbf { x } 8 6$ and ARM's single node
+
+![](images/3758b80717ac1d9a7312169d143e5a1d4d7bd989529eb378a710bdf661b34c9c.jpg)  
+图6 $\mathbf { x } 8 6$ 和ARM单节点上的加速搜索性能比较Figure6 The performance comparsion of Accelerate Search on$\mathbf { x } 8 6$ andARM's single node
+
+Table 4 Software and hardware configuration   
+表7加速搜索的加速比及并行效率  
+
+<html><body><table><tr><td>Case</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>x86加速比</td><td>25.2</td><td>25.4</td><td>25.6</td><td>23.0</td></tr><tr><td>x86并行效率</td><td>89.9%</td><td>90.6%</td><td>91.5%</td><td>82.0%</td></tr><tr><td>x86优化后运行时间</td><td>23.2s</td><td>21.6s</td><td>22s</td><td>21.9s</td></tr><tr><td>ARM加速比</td><td>79.6</td><td>67.4</td><td>72.7</td><td>79.8</td></tr><tr><td>ARM并行效率</td><td>82.9%</td><td>70.2%</td><td>75.7%</td><td>83.1%</td></tr><tr><td>ARM优化后运行时间</td><td>10.9s</td><td>13.1s</td><td>12.2s</td><td>10.9s</td></tr></table></body></html>
+
+Table 7The speedup and parallel efficiency of AccelerateSearch
+
+Table 6The speedup and parallel efficiency of SinglePulseSearch
+
+表6单脉冲搜索的加速比和并行效率  
+
+<html><body><table><tr><td>Case</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>x86加速比</td><td>22.1</td><td>30.7</td><td>21.8</td><td>20.8</td></tr><tr><td>x86并行效率</td><td>78.8%</td><td>109.5%</td><td>77.7%</td><td>74.3%</td></tr><tr><td>x86 优化后运行时间</td><td>1.4s</td><td>2.5s</td><td>1.9s</td><td>1.6s</td></tr><tr><td>ARM加速比</td><td>82.0</td><td>47.0</td><td>81.2</td><td>75.0</td></tr><tr><td>ARM并行效率</td><td>85.5%</td><td>48.9%</td><td>84.6%</td><td>78.1%</td></tr><tr><td>ARM优化后运行时间</td><td>0.7s</td><td>2.9s</td><td>0.8s</td><td>0.7s</td></tr></table></body></html>
+
+基于前文所述的多进程并行方法，我们在 $\mathrm { x 8 6 }$ 和ARM单节点上测试了使用multiprocessing 并行化单脉冲搜索、加速搜索、候选体折叠和消色散的并行性能，
+
+单脉冲搜索使用了基于PRESTO的Python韦建文，张晨飞，张仲莉，余婷,林新华，安涛脚本single_pulse_search.py.性能比较见图5,加速比及并行效率见表6.加速搜索使用了PRESTO中的accelsearch.其中，谐波叠加上限numharm设置为16,频域最大偏移zmax设置为200.表7及图6显示了在不同节点上运行不同数据的加速比和并行效率．从图中可以发现，单脉冲搜索和加速搜索都能取得很高的并行效率.这是因为它们对数千个文件做处理，且文件之间的处理没有依赖，因此多进程的方法可以很好地提升它们的性能，
+
+表8候选体折叠的加速比及并行效率  
+
+<html><body><table><tr><td>Case</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>x86加速比</td><td>9.8</td><td>8.6</td><td>9.1</td><td>9.5</td></tr><tr><td>x86并行效率</td><td>34.9%</td><td>30.7%</td><td>32.7%</td><td>33.9%</td></tr><tr><td>x86优化后运行时间</td><td>55.2s</td><td>113.6s</td><td>108.7s</td><td>15.1s</td></tr><tr><td>ARM加速比</td><td>32.1</td><td>41.5</td><td>37.3</td><td>38.8</td></tr><tr><td>ARM并行效率</td><td>33.4%</td><td>43.2%</td><td>38.8%</td><td>40.5%</td></tr><tr><td>ARM优化后运行时间</td><td>47.6s</td><td>62.4s</td><td>73.4s</td><td>9.9s</td></tr></table></body></html>
+
+对于候选体折叠，我们运行了基于PRESTO的prepfold,折叠后作图点数n设置为128．表8及图7显示了不同节点上运行不同数据的加速比和并行效率．候选体折叠会执行多条不同参数的prep-fold 命令，这些命令的耗时相同.观测数据case1需要执行 50 条 prepfold 命令，在 28 核的 $\mathrm { x 8 6 }$ 并行运行时，先运行28条命令，完成后再运行剩下的22条.此时会存在空闲的CPU核心，从而降低并行效率.在96核心的ARM单节点上运行时，会有46个空闲的CPU核心，因此并行效率会较低.观测数据 1091309464 需要执行 88 条 prepfold 命令，此时ARM上由于命令数量变多，并行效率会得到提升.而在x86上，由于命令数量的上升，运行过程中整个节点的CPU核心被占满的时间比例会增加，所以并行效率也会得到提升.
+
+![](images/b8d91fe95250392143c84a22e6cd496ccccfafa098a1443a0d0397d4f6e2c768.jpg)  
+图7 $\mathbf { x } 8 6$ 及ARM单节点上的候选体折叠性能比较 Figure7 Theperformance comparison ofCandidataFolding on $\mathbf { x } 8 6$ andARM's single node
+
+![](images/9a1a94b0f8b1cece7d722b950bc3f5eab8cc9b3434de1f177535a5320edc3838.jpg)  
+图8 $\mathbf { x } 8 6$ 和ARM单节点上的消色散性能比较Figure 8 The performance comparsion of $D e$ -dispersion on$\mathbf { x } 8 6$ and ARM's single node
+
+Table 8The speedup and parallel efficiency of Candidata Folding   
+表9消色散的加速比及并行效率  
+Table 9 The speedup and parallel efficiency of De-dispersion   
+
+<html><body><table><tr><td>Case</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>x86加速比</td><td>11.5</td><td>11.4</td><td>11.3</td><td>8.7</td></tr><tr><td>x86并行效率</td><td>41.0%</td><td>40.6 %</td><td>40.3%</td><td>31.0%</td></tr><tr><td>x86优化后运行时间</td><td>32.4s</td><td>26.8s</td><td>32.5s</td><td>22.0s</td></tr><tr><td>ARM加速比</td><td>11.2</td><td>9.9</td><td>11.3</td><td>10.4</td></tr><tr><td>ARM并行效率</td><td>11.7%</td><td>10.3%</td><td>11.8%</td><td>10.9%</td></tr><tr><td>ARM优化后运行时间</td><td>36.1s</td><td>40.8s</td><td>35.8s</td><td>292.2s</td></tr></table></body></html>
+
+最后，对于消色散，我们运行了基于PRESTO的prepsubband，并根据MWA对非连续低频数据的消色散方案设置运行参数.不同节点上不同数据的加速比及并行效率见表9及图8.消色散的并行效率同样较低，因为根据消色散方案给出的参数空间，在多核计算节点并行 prepsubband 命令的时候，命令之间的耗时差异较大，从而造成运行时的计算资韦建文，张晨飞，张仲莉，余婷,林新华，安涛源浪费以及并行效率的降低.在下一节中，我们针对ARM节点采用OpenMP $+$ multiprocessing组合的方式，来尽可能消除其负载不平衡的问题，以充分利用每节点的96个核心
+
+# 4.4 负载平衡优化
+
+根据图2中消色散命令的耗时分布，我们可以发现，命令1-11对应 $n s u b = 4$ 的情况,12-16对应$n s u b = 8$ 的情况，17-21对应 $n s u b = 1 6$ 的情况,22-26对应 $n s u b = 3 2$ 的情况,27-28 对应 $n s u b = 6 4$ 的情况,其中16、21和 26 的 Nsteps分别为57、15 和35，因此它们的耗时会较少.
+
+针对 $\mathrm { x 8 6 }$ 单节点 28 个CPU 核心的特性，我们采用负载平衡生成算法所获得的优化并行策略，是使用 multiprocessing 运行 14 个进程，每个进程中串行运行1-3条 prepsubbands 命令，每条命令使用2个OpenMP 线程来运行，这样就可以用满 $\mathbf { x } 8 6$ 单节点上的 28 个CPU 核心，最大化地平衡每个进程的负载.命令与进程的对应关系如下：(1,2,21),(3,16,26),(4,25),(5,24),(6,23),(7,22),(8,20),(9,19),(10,18),(11,17),(12,15),(13,14).其中，每个括号代表一个进程，括号中的数字代表该进程中串行运行的命令编号.
+
+表10ARM上消色散的负载平衡策略 Table 10 The load balance strategy of De-dispersion on ARM   
+
+<html><body><table><tr><td>命令id</td><td>OpenMP threads数量</td></tr><tr><td>1-16</td><td>2</td></tr><tr><td>17-20</td><td>4</td></tr><tr><td>21</td><td>2</td></tr><tr><td>22-25</td><td>6</td></tr><tr><td>26</td><td>2</td></tr><tr><td>27-28</td><td>10</td></tr></table></body></html>
+
+受限于流水线的算法设计，当前启用的28 个进程无法充分发挥ARM节点96个核心的计算能力．我们设计了Multiprocessing $+$ OpenMP多线程的两级并行方法，为不同的进程分配2-10个OpenMP线程，从而充分发挥96核心计算能力.每个进程根据运行命令中的nsub的值分配不同的
+
+OpenMP线程数，对应关系如表10所示，
+
+通过上述的负载平衡策略，我们比较了进一步优化前后的性能对比，结果见图9和表11．我们可以发现,ARM的提速效果更明显，因为在负载平衡优化前,ARM 单节点只使用了28 个进程来运行消色散，而负载平衡后，每个进程都会使用多个OpenMP线程，从而用满了96个CPU核心．而$\mathrm { x 8 6 }$ 在负载平衡前后都已经用满了28个CPU 核心，所以提升效果不及ARM.
+
+四个测试数据的整体加速比见图10及表12.相较于单线程方案，我们在 $\mathbf { x } 8 6$ 平台上实现了10.4-12.2倍的加速，在ARM平台上实现了最高27.6倍的加速.在本文的测试数据中，ARM平台的运行时间相比 $\mathbf { x } 8 6$ 平台短1.1-1.3倍.这是由于ARM节点有更多的运算核心.
+
+![](images/48b32b9ee14342cc663896607aaf8f230c81e4994ba464f634db58e57c129534.jpg)  
+图9 $\mathbf { x } 8 6$ 及ARM节点消色散运行时间比较 Figure 9 The runtime comparsion of de-dispersion on the $\mathbf { x } 8 6$ and ARM nodes.
+
+表11使用负载平衡策略后的消色散并行效率比较 Table 11 The parallel efficiency comparsion of De-dispersion after using load balancing method   
+
+<html><body><table><tr><td>Case</td><td>1</td><td>2</td><td>3</td></tr><tr><td>x86负载平衡前</td><td>41.0%</td><td>40.6%</td><td>40.3%</td></tr><tr><td>x86负载平衡后</td><td>48.3%</td><td>44.4%</td><td>46.9%</td></tr><tr><td>ARM负载平衡前</td><td>11.7%</td><td>10.3%</td><td>11.8%</td></tr><tr><td>ARM负载平衡后</td><td>19.0%</td><td>17.6%</td><td>18.7%</td></tr></table></body></html>
+
+韦建文，张晨飞，张仲莉，余婷，林新华，安涛一步提升了总体的并行效率．本文中针对多核架构的优化方法适用于 $\mathbf { x } 8 6$ 和ARM平台，并分别在两种平台上对MWA-VCS在中心频率为185MHz上的四个观测的非相干叠加数据进行了搜寻测试．测试结论如下：
+
+![](images/f7e3f6cce37cd71bf9764a347080a204436ca790de60c2308fec279b6e59f43f.jpg)  
+图10 $\mathbf { x } 8 6$ 和ARM单节点上整体管线的性能比较 Figure 1O The performance comparison of the whole pipeline on $\mathbf { x } 8 6$ and ARM's single node.
+
+表12 $\mathbf { x } 8 6$ 及ARM的整体管线加速比  
+Table 12 The speedup of the whole pipeline on $\mathbf { x } 8 6$ and ARM   
+
+<html><body><table><tr><td>Case</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>x86优化后运行总时间</td><td>133.6s</td><td>199.9s</td><td>195.4s</td><td>76.3s</td></tr><tr><td>x86加速比 ARM优化后运行总时间</td><td>12.2 117.0s</td><td>10.4</td><td>11.3</td><td>11.9</td></tr><tr><td></td><td></td><td>151.7s</td><td>157.3s</td><td>67.0s</td></tr><tr><td>ARM加速比</td><td>25.8</td><td>27.6</td><td>27.4</td><td>24.5</td></tr><tr><td>ARM相较于x86 的加速比</td><td>1.1</td><td>1.3</td><td>1.2</td><td>1.1</td></tr></table></body></html>
+
+·与原来的单线程方法相比,在28个CPU核心的 $\mathbf { x } 8 6$ 单机上的运行时间减少了10.4-12.2倍，并行效率为 $3 6 \%$ ；在96个CPU核心的ARM单机上的运行时间最多减少了27.6倍，并行效率为 $3 1 \%$ ·在 $\mathrm { x 8 6 }$ 和ARM计算节点上执行相同的并行优化技术，展示了优化从 $\mathbf { x } 8 6$ 到ARM平台的可移植性．由于脉冲星搜索任务的大规模并行性，ARM平台得益于每个节点更多的计算核数，在测试程序中比 $\mathbf { x } 8 6$ 平台的速度快1.1-1.3 倍,这个结果显示出ARM节点在SKA数据处理任务中的巨大潜力.·我们的优化算法使脉冲星搜索的时间消耗总体减少了一个数量级，这将有效促进脉冲星研究的发展.
+
+同时，数据处理管线的性能优化不仅解决了脉冲星搜索管线的耗时问题，还可以扩展到其他应用管线的性能优化，对于中国SKA区域中心的天文研究有很大帮助（例如[48-55]）：
+
+# 5总结
+
+本文基于OpenMP 多线程和 multiprocessing多进程的并行方法，对脉冲星搜寻管线中的热点成功实现了多核并行，并且设计了一个平衡负载的自动生成算法，使用multiprocessing $\cdot +$ OpenMP组合的方式，解决了消色散算法中的负载不平衡问题，进
+
+近几年内，我们的工作将集中在进一步提高并行效率和向量化 PRESTO 管线上，大量使用MWA-VCS的SMART 巡天波束合成数据进行更大规模的实验，以验证ARM平台的适用性．对于即将到来的SKA1数据，我们将做好充分的准备，迎接脉冲星搜寻的挑战．届时，ARM平台将发挥其举足轻重的作用和影响.
+
+致谢 本研究使用了中国SKA区域中心原型机的资源.
+
+# 参考文献
+
+1Sturrock,P.A."A model of pulsars.”The Astrophysical Journal 164 (1971):529.   
+2Hewish,A.,Bell,S.J.,Pikington,J.D.H,Scot,P.F.,&Colins,R.A.ObservatioofaRapidlyPusatingRadioouce. Nature,1968,217:709   
+3 Cordes,J.M.,Freire,P.C.C.,Lorimer,D.R.,etal.Arecibo Pulsar Survey Using ALFA.I.Survey Strategy and First Discoveries.The Astrophysical Journal, 20o6,637:446   
+4Keith,M.J.,Jameson,A.,vanStraten,W,etal.TheHighTimeResolutionUniversePulsarSurvey-ISystemconfiguration and initial discoveries.Monthly Notices of the Royal Astronomical Society,20l0,409:619
+
+韦建文，张晨飞，张仲莉，余婷,林新华,安涛
+
+Dall，.D.,CIaIpIUI， iamiti INUI HeII IgI IIe eSUIuUIUI UIveIse puISaI sui vey 1.beiupanu initial discoveries.Monthly Notices of the Royal Astronomical Society,2013,435:2234 6Nan,R,Li,D,Jin,C.,etal.TheFive-Hundred Aperture SphericalRadioTelescope(FAST)ProjectInternational Journal of Modern Physics D, 2011, 20: 6 7Jiang,P.,Tang,N.-Y.Hou,L.-G.etal.ThefundamentalperformanceofFASTwith19-beamreceiveratLband.Research in Astronomy and Astrophysics,2020,20:064 8Qian,L.,Yao,R., Sun,J.,et al. 2020,The Innovation,1,100053 9Cameron,A.D.,Li,D,Hobbs,G,tal.Anin-depthinvestigationof1pulsarsdiscoveredbyFAST.MonthlyNoticsofthe Royal Astronomical Society, 2020,495: 3   
+10Qian,L.,an,Z.,LiD,tal.ThefrstpulsardiscoveredbFAST.ScienceChinaPhysics,Mechanics,andAstronoy019, 62:5   
+11Pan,Z.，Qian,L.，Ma,X.,etal.FASTGlobularCluster Pulsar Survey:Twenty-four Pulsars Discoveredin15Globular Clusters.The Astrophysical Journal Letters,2021, 915:2   
+12Han,J.-L.,Wang,C.,Wang,P.-F.,etal.TheFASTGalacticPlanePulsar Snapshotsurvey:I.Projectdesign and pulsar discoveries.Research in Astronomy and Astrophysics, 2021, 21:107   
+13Li,D.,Wang,P.,Qian,L,etal.FASTinSpace:ConsiderationsforaMultibeam,MultipurposeSurveyUsing China’s0m Aperture Spherical Radio Telescope (FAST). IEEE Microwave Magazine, 2018,19:3   
+14Li,D.,Dickey,J.M.&Liu,S.Preface:Planming the scientifcapplicationsof theFive-hundred-meterAperture Spherical radio Telescope. Research in Astronomy and Astrophysics, 2019,19:2   
+15Stovall,K.Lynch,R.S.,Ransom,S.M.,etal.TheGrenBank Northern CelestialCapPulsarSurvey.SurveyDescription, Data Analysis,and Initial Results. The Astrophysical Journal, 2014,791: 67   
+16J.S.Denevaetal.,"NewdiscoveriesfromtheArecibo327MHzdriftpulsarsurveyradiotransientsearch",TheAstrophysical Journal, 2016, Volume 821,Number 1   
+17htp://www.naic.edu/ deneva/drift-search/   
+18van Haarlem,M.P., Wise,M. W., Gunst,A. W.,et al. LOFAR: The LOw-Frequency ARray. Astronomy and Astrophysics, 2013, 556:2   
+19Sanidas,S., Cooper,S.,Bass, C.G.,et al. The LOFAR Tied-Aray Al-Sky Survey (LOTAAS): Surveyoverview and initial pulsar discoveries.Astronomy and Astrophysics,2019,626:A104   
+20Tan,C.M.Bassa,C.G.,Cooper,S.,etalTheLOFARTied-Arrayal-skysurvey:Timingof 21pulsarsincludingthefrst binary pulsar discovered with LOFAR.Monthly Notices of the Royal Astronomical Society,2020,492: 5878   
+21Manchester,R.N.,Hobbs,G.B.Teoh,A.,& Hobbs,M.The Australia Telescope NationalFacityPulsar Catalogue.The Astronomical Journal, 2005,129:1993   
+22Keae,E.,Bhatacharyya,B.,Kramer,M.,etal.ACosmicCensus of Radio Pulsars with the SKA.Advancing Astrophyics with the Square Kilometre Array (AASKA14),2015,: 40   
+23Qiuyu Yu.(2020) A PRESTO-based paralel pulsar search pipeline and pulsar signal de-noising, https://kns.cnki.net/KCMS/detail/detail.aspx?dbname $$ CMFD202101&filename=1020968419.nh   
+24 Ransom, S. M. New search techniques for binary pulsars. Ph.D. Thesis, 2001   
+25Sofia Dimoudi, Wesley Armour. Pulsar Acceleration Searches on the GPU for the Square Kilometre Array, https://arxiv.org/abs/1511.07343   
+26Haomiao Wang and Prabu Thiagarajand Oliver Sinnen.FPGA-based AccelerationofFTConvolutionforPulsar Search Using OpenCL[J]. ACM Transactions on Reconfigurable Technology and Systems (TRETS),2019,11(4) : 1-25   
+27Dewdney,P.E.,Hall,P.J,Schilizi,R.T.,&Lazio,T.J.L.W.TheSquareKilometreArry.IEEEProceedings,2009,97: 1482   
+28Tingay,S.J.,Goeke,R.,Bowman,J.D.,etal.The Murchison WidefeldAray:The SquareKilometre ArrayPrecursorat Low Radio Frequencies.Publications of the Astronomical Society of Australia, 2013,30:e007   
+29Tremblay,S.E.,Ord,S.M.,Bhat,N.D.R.etal.The High TimeandFrequency Resolution Capabilitiesof the Murchison Widefield Array. Publications of the Astronomical Society of Australia,2015,32,5   
+30Beardsley,A.P.,Jonston-Holit,M.,TrottC.M.etal.ciencewiththe Murchison WidefeldArry:PhaseIresultsand Phase II opportunities.Publications of the Astronomical Society of Australia,2020,37,14
+
+韦建文，张晨飞，张仲莉，余婷,林新华,安涛
+
+31An,T.Scienceopportunitiesandhallengesasociated with SKAbigdata.Science China Physics,Mechanics,andAstroomy 2019,62: 989531   
+32S.Ratclife,F.Graser,B.Carlson,O.B,SKA1LOW SDP-CSP Interface ControlDocument,SKA Project Document umber 100-000000-002 1(1)   
+33S.Ratclife,F.Graser,B.Carlson,O.B,SKA1MIDSDP-CSP Interface ControlDocument,SKA Project Documentumber 300-000000-002 1(1)   
+34S.Yamamura et al.,"A64FX: 52-Core Procesor Designed for the 42PetaFLOPS Supercomputer Fugaku,”2022IEEE International Solid- State Circuits Conference (ISSCC),2022,pp.352-354,doi:10.1109/ISSCC42614.2022.9731627   
+35PeterQuinn,Michielvan Haarlem,TaoAn,etal.,"SKA Regional Centres-A WhitePaperbythe SKA Regional Centre Steering Committee”V1.0,2020   
+36The SKA Regional Centre Steering Committee, SKA Regional Centres White Paper,v1.0,2020 May.   
+37T.An, X.P.Wu,and X.Y. Hong,SKA data take centre stage in China,Nature Astronomy,3,1030 (2019).   
+38T.An, X.C.Wu, B.Q.Lao,et al. Status and progressof China SKA Regional Centre prototype.arxiv:2206.13022   
+39B.Q.Lao，Y.K.Zhang，T.An，etal.Software Platform on China SKA Regional Center Prototype System(in Chinese).ChinaXiv:202206.00173.   
+40J.W.Wei, C.F.Zhang,B.Q.Lao,etal.Optimizationofparallel procesing ofSquare Kilometre Arrylowfrequency imaging pipeline (in Chinese). ChinaXiv:T202206.00292.   
+41An,T.,Wu, X.C.,Lao,B.Q.etal.Status and progressof China SKARegional Centre prototype.arxiv:226.3022   
+42ARM architecture, URL https://en.wikipedia.org/wiki/ARM_architecture, 2021.   
+43Bhat,N.D.R.,Swainston,N.A.,McSweeney,S.J.,tal.TheSouthern-skyMWARapidTwo-metre(SMART)pulsarurvey: Systemoverview,pulsarcensus,andfrstpulsardiscoveries,PublicationsoftheAstronomicalSocietyofAustralia,22in preparation   
+44Ransom,S.M.PRESTO Home, https://www.cv.nrao.edu/ sransom/presto/   
+45Palach,Jan.Paralel programming with Python. Packt Publishing Ltd, 2014   
+46Chandra, Rohit,et al. Parallel programming in OpenMP. Morgan kaufmann, 2001   
+47Tabirca,Tatiana,etal."Astaticworkloadbalanceschedulingalgorithm"”Proceedings.InternationalConferenceonPaalel Processing Workshop.IEEE,2002   
+48Gong,H.,Zhang,Z.,Xue,M.,etal.Searchanddetectionofnorthernpulsars inthesidelobesof the murchison wide-feld array.Scientia Sinica Physica,Mechanica &amp;Astronomica,2020,50:109501   
+49Lao,B.Q.,An,T.,Yu,A.,& Guo,S.G.“Research on Paralel Algorithms for uv-faceting Imaging”.Acta Astronomica Sinica,2019,60:12   
+50Lao,B.,An,T.Yu,A.,etal.“Parallelimplementationofw-projectionwide-feldimaging”.ScienceBulletin,2019,64, 586-594   
+51Lao,B.,An,T.,Wang,A.,tal“Artifcialinteligenceforcelestialobjectcensus:thelatesttechnologymeestheoldest science”.arXiv e-prints,2021,:arXiv:2107.03082   
+52An,T.，Mohan,P.，Zhang,Y.,etal.Evolving parsec-scaleradio structure in the most distant blazar known.Nature Communications, 2020,11:143   
+53Gu,J.,& Wang,J.DirectparameterinferencefromglobalEoRsignal withBayesianstatistics.MonthlyNoticesoftheRoyal Astronomical Society,2020,492:4080   
+54 Wang,R., Wicenec,A.,& An, T. SKA shakes hands with Summit. Science Buletin, 2020,65: 337   
+55Wang,Y.Tuntsov,A.,urphy,T,tal.AKAbservaionsofultiplerapidintilatorsrevealadegs-gasa filament.Monthly Notices of the Royal Astronomical Society, 2021,in press
+
+# Parallel optimization of the pulsar search pipeline on China SKA Regional Centre Prototype
+
+Jianwen Wei $^ { 1 }$ , Chenfei Zhang $^ { 1 }$ , Zhongli Zhang $^ { 2 }$ \*， Ting Yu $^ 2$ , James Lin $^ { 1 }$ & Tao An $^ 2$
+
+1. Shanghai Jiao Tong University,Shanghai,200240; 2.Shanghai Astronomical Observatory,Chinese Academy of Sciences,Shanghai,200030; 1. Shanghai Jiao Tong University,Shanghai 200240,China; 2.Shanghai AstronomicalObservatory,KeyLaboratoryofRadioAstronomyChineseAcademyofSciences,anghi 200030,China
+
+The connection between astronomy and high performance computing is becoming stronger with the development of cuting-edge observing facilities such as the Square Kilometre Array (SKA） and the proposed innovative platform for big dataand high performance computing.Astronomical computation is characterized by huge data volume and massive parallelism,especially for pulsar search which is one of the leading scientific directions of the SKA.In this paper, we present an approach to accelerate the pulsar search pipeline based on OpenMP and multiprocessing techniques,propose a method to solve the load imbalance problem,and successfully has the pipeline installed on both x86 and ARM compute nodes on China SKA regional center prototype (CSRC-P). The performance evaluation from the tests on the Murchison Widefield Array (MWA) VCS observations shows that our optimization method works well on both x86 and ARM nodes, improving the relative speedup bya factor of 10.4-12.2and 24.5-27.6,respectively,compared to the original singlethread approach.The ARM platform was found tobe1.1-1.3 times faster than the x86 platform in the tested cases,showing its great potential for SKA data processng.Recently,this optimized pulsar search pipeline deployed on CSRC-P willbe especially used for low-frequency pulsar survey of the Southern-sky MWA Rapid Two-metre (SMART) program,for various scientific goals including pulsar timing arrays for gravitational wave detections.
+
+Square Kilometre Array,pulsar,pulsar search,high performance computing,paralll optimization
+
+PACS: 47.27.-i,47.27.Eq,47.27.Nz,47.40.Ki,47.85.Gj
+
+doi: ??

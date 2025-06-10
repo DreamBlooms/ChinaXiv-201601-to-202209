@@ -1,0 +1,284 @@
+1 胚胎营养环境对动物出生后营养代谢的调控研究
+
+2 吕佳琪华雯妤² 王恬1\*
+
+3 (1.南京农业大学动物科技学院，南京 210095;2.济南磐升生物技术有限公司，济南 250000)  
+4 摘要：动物胚胎营养环境受母体营养供应与胎盘营养转运2方面的影响。充足、合理的母  
+5 体营养供应是胚胎健康发育的保障，胎盘负责转运来自母体的营养，转运的效率决定了胚胎  
+6 的养分供给。胚胎的发育与所处的营养环境密不可分，而不利的胚胎营养环境可以程序化胚  
+7 胎发育，并持续影响代谢，导致动物成年发生慢性疾病。因此，深入研究母体营养供应对后  
+8 代代谢的长期影响，有助于后代的健康生长，还可有效降低动物出生后代谢疾病的发生率。  
+9 本文梳理了母体营养供应不足对动物出生后营养代谢的影响，初步综述了营养程序化的发生  
+10 机制。
+
+关键词：母体营养；胚胎发育；代谢程序化；营养代谢中图分类号：S852.1 文献标识码：A 文章编号：
+
+成年代谢模式受多方面因素的影响，其中胚胎发育关键时期的营养环境是重要因素之一。前人研究已经证明，胚胎营养环境对动物出生后的生长发育和代谢影响深远[I，这为研究成年代谢模式的发生和发展开拓了新的视野。20世纪80年代末，Barker等[首次提出代谢程序化假说，认为在不利的胚胎环境下，机体优先保证关键器官（例如大脑）生长，并代偿性降低其他器官（例如肝脏）的发育，从而改变了原有的代谢模式，进而引发能量摄入、储存、利用等一系列代谢发生变化，最终导致成年代谢疾病。在不利环境下，为了保证存活而产生的一系列变化，被命名为节俭表型假说。胚胎的生长发育既依赖母体的营养供应，又与胎盘的营养转运能力息息相关。
+
+# 11母体营养供应
+
+妊娠期是母体生长和胚胎发育的关键时期，母体的营养摄入除了满足自身的基本代谢需要外，还要为胚胎发育持续提供营养。为了维持胚胎正常发育，母体必须通过胎盘为胎儿供给适量的葡萄糖、氨基酸、脂肪酸等营养素。妊娠期母体处于一种自然的胰岛素抵抗状态，母体和胚胎的血液葡萄糖存在浓度差，在浓度梯度作用下，养分通过胎盘供应胚胎生长的部分需要。随着妊娠的进行，营养素浓度差逐渐增大，以确保胚胎对养分的大量摄取[3]；胚胎重量逐渐增加，胚胎水分含量逐渐下降；到1/3妊娠期时，白色脂肪组织（white adipose tissue,WAT）开始快速沉积，而WAT的沉积需要消耗大量能量；妊娠期结束时，胚胎发育所需能量的 $90 \%$ 被用于形成WAT。能量不足或者能量过量摄入均可渐生性影响胚胎的基因表达，改变代谢类型，引起子宫内发育不良或子宫内生长过度。宫内发育迟缓（intrauterine growth retardation，IUGR）胚胎通常发生脂肪和糖原储备耗尽，一般都是子宫内营养供应不足引起的。母体营养过量则导致胚胎子宫内发育过度，体脂肪含量高于正常胚胎[4]。此外，母体本身的体重指数、妊娠期增重和行为习惯也会影响胚胎的生长发育。
+
+# 1.1母体营养供应不足对动物出生后营养代谢的影响
+
+大量的流行病学案例、动物试验试验均能证明代谢程序化的存在，“胚胎程序化"是多种疾病的起源。妊娠期子宫内营养供应不足[4、低氧浓度、毒素作用[5]，都会导致动物出生后心脏病和一些代谢疾病（摄食过度、肥胖、内分泌和代谢异常、ⅡI型糖尿病、胰岛素抵抗、高血压和局部缺血性心脏病）的发生率升高。妊娠期母体营养对胚胎脂肪代谢具有程序化作用。妊娠期母体营养过剩或营养缺乏，均可改变胚胎脂肪细胞的发育，影响脂肪组织生成脂肪细胞的能力，以及现有脂肪细胞中脂质的储存。
+
+Barker假说认为，低初生重与成年后胰岛素耐受力降低、高血压与高血脂均有相关性[6]。后续相关研究也为这个假说提供了支持[7]。妊娠期母体营养供应不足可造成子宫内应激，胚胎在不利环境因的子作用下，基因表达改变，虽然胚胎得以存活，但成年代谢疾病的发生率却明显提高。而动物出生前后营养环境错配的程度决定了成年代谢疾病的轻重。妊娠期母体营养供应不足，出生后予以新生后代足量甚至超量营养，会引起新生后代出现明显的生长追赶现象，并显著提高成年代谢疾病的发生率。初生重是胚胎期营养环境的直观体现，妊娠期母体营养供应不足是引起IUGR的重要原因。
+
+Barker假说能够解释成年疾病的发育程序化，但在胚胎程序化作用下，器官发育又会出现何种变化，诱发哪些疾病还有待于进一步探索。
+
+# 1.1.1 蛋白质限制
+
+母体蛋白质限制与后代成年代谢疾病具有相关性。饲喂妊娠母猪蛋白质含量为$5 \% { \sim } 9 \%$ 的饲粮，会诱发后代宫内发育迟缓；后代出生后寄养给正常饲喂的哺乳期母猪，会促使后代发生生长追赶并继发胰岛素抵抗[8-9]。研究还发现，妊娠期母体蛋白质限制会损害后代胰腺发育，引发高胰岛素血症、葡萄糖耐受性降低、胰岛素代谢通路病变和脂肪生成酶表达提高，更容易沉积脂肪[10]。胚胎期低蛋白质、初生期生长追赶的后代，脂肪组织胰岛素信号通路发育损害，成年代谢疾病发生率提高[1]。
+
+然而，妊娠期高蛋白质水平对后代的生长发育也不一定有利。研究显示，妊娠期饲粮中添加蛋白质不利于后代的宫内发育，胚胎死亡率、小于胎龄儿发生率都有所提高，其影响机制还有待于进一步研究[12]。妊娠期母猪饲粮中添加 $1 \%$ 精氨酸盐酸盐，能够增强子宫和胎盘功能，提高窝产仔数、窝总重量和平均仔猪初生重，这可能是治疗IUGR的有效途径[13]。还有研究发现，妊娠前或妊娠期减少运动量可以降低低蛋白质对后代生长发育、葡萄糖稳态和瘦素水平的不利影响[14]。
+
+# 1.1.2 能量限制
+
+研究表明，妊娠期降低母体食物供应量可引起初生后代 $\beta$ 细胞含量降低，后代出生后即使提高营养水平 $\beta$ 细胞含量也不能恢复到正常水平；妊娠晚期降低饲粮能量水平，后代大鼠会发生胰岛素抵抗和血管功能障碍；妊娠期中度、重度能量缺乏可引起后代体重降低、食欲过盛，继发代谢综合征（包括肥胖、高血压、高胰岛素血症、高瘦素血症以及神经内分泌基因表达变异)；如果胚胎期母体营养供应不足，后代没有发生生长追赶，则以上症状不会发生[15]。荷兰饥荒期调查为成年代谢疾病来自母体的假说提供了有力证据。饥荒期孕妇的能量摄入降低，其后代成年后，发生葡萄糖耐受性降低、微蛋白尿、呼吸道阻塞、冠心病的几率提高[16]。动物试验也显示，后代的性别和妊娠期营养限制都不同程度地影响代谢程序化[17]。不同性别对血液瘦素的应答不同，可能是由于不同性别代谢疾病发生率不同。
+
+# 1.1.3 高糖、高脂肪营养
+
+胚胎期营养过剩同样不利于胚胎发育，容易引起后代体内糖脂平衡失调。试验证明，妊娠期动物摄入高脂肪饲粮，后代在不同日龄会表现出高胆固醇血症[18]、肥胖、胰岛素抵抗和高血压[19]。饲喂妊娠期和哺乳期大鼠高脂肪饲粮，断奶后饲喂正常饲粮，发现这些大鼠的后代成年后饲喂高脂肪日粮极易诱发代谢综合征[20]。
+
+Brenseke等[21]研究认为，妊娠期高脂肪饲粮可引起胚胎体内氧化与抗氧化失衡，提高胚胎氧化应激水平，继而提高动物出生后代谢疾病发生率。妊娠期高脂肪饲粮会改变后代肝脏线粒体含量和过氧化物酶体增殖物激活受体γ辅激活子1α表达，从而引发成年代谢综合征。妊娠期、哺乳期大鼠饲喂果糖，后代断奶时空腹胰岛素水平、葡萄糖和瘦素水平提高[22]。在胚胎发育关键期，过量果糖会直接作用于脂肪组织，影响下丘脑发育，阻断下丘脑和脂肪的信号通路传导，促使后代发生肥胖[23]。
+
+# 1.1.4微量元素、维生素和常量元素
+
+微量元素在胚胎发育过程中发挥着重要的作用，胚胎期缺乏微量元素可影响动物代谢模式的形成。目前，有关微量元素对妊娠母体和胚胎发育的研究较少，胚胎期微量元素与成年代谢疾病相关性的研究更为鲜见。铁是血红蛋白的重要组成成分，铁的含量决定红细胞的携氧能力，影响组织供氧，妊娠期铁缺乏容易引起胚胎发育异常。大鼠妊娠期铁缺乏可导致后代平均动脉压和心收缩压升高，原因可能是肾内血流动力学的变化影响了血压。Lisle 等[24]研究发现，胚胎期铁缺乏可引起12周龄大鼠肾单位数下降，心脏收缩压升高。研究也发现，妊娠期缺铁除影响后代血压外，还可改变后代钠离子的处理能力[25]。饲喂妊娠期大鼠缺铁饲粮，后代出生后饲喂高脂肪日粮，可引起内脏脂肪堆积、动脉压升高[26]。铬在碳水化合物代谢、脂肪代谢过程中也发挥着重要的作用，铬能提高糖尿病人的胰岛素敏感性。研究显示，大鼠妊娠前和妊娠期限制铬摄入量的 $6 5 \%$ ，可引起后代体重升高，体脂肪（特别是内脏脂肪）含量升高，原因可能是 $1 1 \beta$ -羟基类固醇脱氢酶1和瘦素表达升高引起内脏脂肪的堆积[27]。
+
+妊娠期维生素缺乏也会影响动物出生后营养代谢。大鼠妊娠期限制维生素摄入量的$5 0 \%$ ，后代体脂肪含量升高，去脂体重降低，表明维生素缺乏可引起成年肥胖[28]。Kumar等[29]研究发现，大鼠妊娠期缺乏维生素 $\mathbf { B } _ { 1 2 }$ 和泛酸可引起后代体脂肪含量升高、脂代谢异常，原因可能是皮质类固醇应激或脂肪细胞功能发生了变异。研究还发现，妊娠期和哺乳期缺乏维生素D可引起大鼠后代肌纤维蛋白质含量降低，还可能诱发胰岛素抵抗[30]。妊娠期缺乏维生素A，后代肾单位数降低[31]，可引起高血压[32]；维生素A的缺乏也会引起后代 $\beta$ 细胞数减少，葡萄糖耐受性降低[33]。
+
+镁是碳水化合物代谢酶的一种辅助因子，通过参与细胞周期、细胞分化和增殖发挥多种生物学功能。母猪妊娠期缺镁可引起后代体脂肪含量升高[34]、葡萄糖耐受性降低和胰岛素抵抗[35]。锌在动物生长发育中也发挥着重要的作用，是多种酶发挥生物学功能的必须元素。随着胚胎的快速生长，对锌的需求量逐渐提高。妊娠母鼠缺锌可损害后代的胰岛素敏感性，引起体重异常增大[36]。妊娠期缺锌的大鼠后代，如果摄入过量营养会导致胰岛素抵抗[37]。妊娠晚期，胚胎骨骼发育需要母体供应足够的钙。妊娠母体缺钙会引起后代血压升高[38],原因可能是细胞离子转运发生变化，影响了激素分泌，进而引起血压升高。
+
+# 1.2胚胎营养程序化的机制
+
+为了探究胚胎期母体营养供应不足导致成年代谢疾病的原因，人类开展了大量研究，结果显示，干预开始的时机以及持续的时间影响着胚胎期营养程序化的结果，存在以下两种假说。
+
+Barker的"节约表型"假说认为，在不良的营养环境下，胚胎为了维持存活，保证关键器官（脑、心）发育，牺牲了次要器官（胰腺、肾脏）的发育，导致动物对出生后营养环境不适应，进而引发成年代谢疾病。妊娠期低蛋白质可引起后代肾脏肾单位数下降， $\beta$ 细胞数减少，肝小叶增大、数量减少，肌肉含量下降，内脏脂肪中较大脂肪细胞比例增大，引起高血压、高血脂、肥胖和葡萄糖耐受性不良[39]。
+
+Simmons 等的"胚胎救助理论"将葡萄糖耐受性不良归因于外周胰岛素抵抗，否定了 $\beta$ 细胞发育低下的说法[40]。大鼠试验研究证实，外周发生胰岛素抵抗，以牺牲次要器官（肺、骨骼肌）为代价，确保了关键器官的葡萄糖供应[41]。胚胎期IUGR大鼠组织胰岛素和胰岛素样生长因子-1（insulin like growth factor1,IGF-1）含量处于较低水平。当IUGR 大鼠进入生长追赶期，为了维持生命、抵御低血糖，体组织IGF-1迅速升高，引起了胰岛素抵抗。
+
+为了探究母体营养供应与后代出生后代谢变化的关系，人们通过降低母体妊娠期的总体营养水平，或单一降低某一种营养素水平而维持其他营养素水平不变，来研究肥胖和其他一些代谢疾病的形成根源，研究主要包括以下几个方面。
+
+# 1.2.1 氧化应激
+
+研究已经证实，妊娠期胚胎氧化应激是后代出生后代谢异常的重要原因[42]。妊娠期蛋白质和微量元素缺乏会导致胚胎处于氧化应激状态，进而引发代谢异常。维生素A、维生素
+
+C 和维生素E都有抗氧化功能，临床医学研究表明，早产儿体内这3种维生素含量均低于正常新生儿[43]，这可能是早产儿容易发生氧化应激的原因。妊娠期母体营养供应不足、高血压、炎症、感染等都可引发胚胎氧化应激，动物出生后出现生长追赶现象，增加了对营养素的氧化和消耗，逐渐形成代谢疾病。
+
+# 1.2.2 生物节律紊乱
+
+妊娠期母体营养供应不平衡或者营养搭配失衡容易改变后代的生物节律，从而引发肥胖、高血压等代谢疾病。在人类妊娠晚期、大鼠初生期，大脑视交叉上核的神经网络开始形成，主管调节生物钟，决定了动物睡眠和觉醒的节律。这些神经网络很容易受妊娠期母体营养供应状况的影响而改变其节律调节功能。妊娠期大鼠营养供应不足会破坏后代固有的摄食规律，减少夜间摄食量，增加日间摄食，引起代谢紊乱。
+
+# 1.2.3激活下丘脑-垂体-肾上腺轴
+
+下丘脑-垂体-肾上腺（HPA）轴对应激反应的调节，是IUGR个体代谢异常的主要机制之一。糖皮质激素在胚胎期含量较低，参与母体代谢调节，且受11β-羟基类固醇脱氢酶 2活性的影响。在母体营养供应不足的应激作用下，子宫内皮质醇含量升高，会对胚胎产生长远影响，引起代谢异常。皮质醇浓度与血压、胰岛素抵抗均有相关性。研究也表明，IUGR与初生期血清皮质醇、血压均偏高具有相关性，初生重较大的动物成年后血清皮质醇含量较低，原因可能与糖皮质激素是生命早期程序化的重要介质和靶点有关[44]。
+
+# 1.2.4 食欲调节
+
+下丘脑是食欲调节的重要中枢，能够调节瘦素的分泌。瘦素是一种抑制食欲的神经肽，在生命初期参与食欲和机体组成的程序化。母体营养供应不足可引起下丘脑食欲中枢程序重排，从而引起动物出生后代谢异常。大鼠的神经系统发育在初生期逐步完成，此时血清瘦素水平急剧升高（4\~10 日龄的雌性大鼠血清瘦素水平提高了5\~10倍)。研究表明，大鼠初生期 3\~13d注射瘦素能逆转子母体营养供应不足所带来的程序化效应，注射瘦素会抑制高脂肪日粮导致的IUGR大鼠初生期体重急速增长，使能量摄入、体重、脂肪含量、空腹血糖、胰岛素和瘦素水平均趋于正常[45]。
+
+# 1.2.5 表观遗传
+
+表观遗传是在不影响基因序列的前提下调控基因表达，通过调控DNA和组蛋白的变化，影响染色质的获取，允许转录因子在基因调节区与它们的结合位点相互作用。表观遗传是一种累积效应，环境因素对所有的基因表达都有深远影响。基因的翻译后修饰主要包括组蛋白N-末端的乙酰化和甲基化。
+
+母体摄入的营养水平和质量也会影响DNA甲基化和组蛋白乙酰化水平的调控，引起代谢程序化。胚胎期营养水平可以作为表观遗传变化的诱因，进而影响基因表达。临床医学统计发现，荷兰饥荒期妊娠所产后代，胰岛素样生长因子-2 甲基化水平偏低[46]。视黄醇类 X受体与内皮型一氧化氮合酶甲基化水平较高的新生儿，幼龄时期较为肥胖。这些均证明了胚胎期表观遗传程序化可影响动物出生后的代谢模式[47]。试验也证明，IUGR 大鼠胰-十二指肠同源盒1（pancreatic-duodenal homeobox $1 , P d x 1$ ）表达水平降低[48]。在一系列表观遗传调控下，Pdx1 基因的远端启动因子与其上游刺激因子结合不足，通过补充组蛋白脱乙酰化酶I及铺抑制物 Sin3A，使组蛋白H3 和H4发生脱乙酰化，导致Pdx1基因沉默， $\beta$ 细胞功能降低。这种表观遗传调控从大鼠2周龄持续到4月龄，最终诱发糖尿病。此外，多种因素（母体应激、营养供应不足、缺氧、接触有害物质）可导致胚胎发育环境不良，引起妊娠母体应激，通过表观遗传效应影响后代HPA轴的发育，从而提高代谢疾病的发生率。
+
+# 1.2.6 端粒缩短与细胞凋亡
+
+端粒（telomere,TL)是染色体末端的一段DNA高度重复序列，它与TL蛋白共同构成"帽子"结构，维持染色体结构的完整。DNA分子每完成1次分裂复制，TL都会缩短一点；当TL耗尽，细胞会启动凋亡程序，进入凋亡期。胚胎营养程序化影响TL的长短，代谢异常的动物，染色体TL较短。Jennings 等[49]发现，母体营养不良型IUGR大鼠，肾脏细胞染色体 TL 较短，初生期有明显的生长追赶现象。另据报道，胚胎期母体营养和初生期生长追赶还影响主动脉细胞[50以及胰岛细胞[51的TL长度。由此可见，端粒使早期生长与心血管疾病紧密相关。氧化应激和细胞凋亡很可能是导致IUGR 细胞端粒缩短的原因。幼龄期细胞凋亡率的提升会加速器官的老化，缩短寿命。
+
+# 1.2.7 低度炎症
+
+代谢异常的动物常患有某种低度炎症。胚胎期、初生期生长不良很可能对炎性通路造成影响而引发炎症,这可能是连接IUGR与代谢异常的机制之一。C-反应蛋白(C-reactive protein,CRP）是肝脏分泌的一种急性期反应物蛋白，CRP水平升高预示冠状动脉疾病和糖尿病发生率增大。研究发现，IUGR后代成年后CRP水平明显偏高[52]，这说明妊娠期母体营养不良会导致后代发生低度炎症。可能是在营养不足的应激环境下，糖皮质激素水平在母体血液和胚胎均有升高，刺激胚胎肾上腺轴，引起持续的炎症反应。子宫内营养不良还引起胚胎期和出生后肌肉生长损害，使脂肪不成比例地异常堆积。脂肪组织分泌的炎性因子可能引起低度慢性炎症，引起代谢异常。
+
+# 1.2.8 线粒体功能
+
+线粒体是生成腺苷三磷酸的重要细胞器，线粒体功能异常会导致氧化磷酸化被破坏，减少腺苷三磷酸的生成。IUGR 模型动物骨骼肌、肝脏和大脑均出现线粒体功能损害[53]。IUGR大鼠β细胞线粒体功能降低，胰岛素分泌受损，并产生更多活性氧。线粒体功能障碍易诱发成年胰岛素抵抗和代谢紊乱。有些线粒体基因多态性与多种代谢综合征相关[54]。IUGR 后代表现出若干种与线粒体功能相关的基因表达异常。
+
+# 2胎盘营养转运
+
+胚胎期发育影响动物出生后的代谢。胚胎生长除了受母体营养状况影响以外，还与胎盘的营养运输能力直接相关。母体和胚胎之间有一个“胎盘屏障”，它阻止了胚胎和母体血液直接接触。母体要将营养输送给胚胎，必须通过转运蛋白、电化学梯度以及扩散通道来实现。“胎盘屏障"的营养转运过程很复杂，胎盘绒毛有内外两层，营养素、氧气和水必须通过这两层膜才能输送给胚胎。靠近母体血液循环的一层，由滋养层细胞构成，称作合胞体滋养层（syncytiotrophoblast，SCTB）。SCTB 构成了负责胎盘运送功能的上皮细胞，上皮细胞由两层极化膜组成，分别是靠近母体血液循环的微绒毛膜（microvillousmembrane，MVM）和靠近胚胎毛细血管的基质膜（basement membrane，BM）。除了SCTB 膜，营养物还需要通过胚胎毛细血管内皮才能到达胚胎。这一层膜的通透性根据物质溶解物的大小而定，允许氨基酸、葡萄糖等一些小分子营养素通过，而对一些大分子具有屏障作用。总之，SCTB仅容许较小溶解物自由通过，是胚胎营养输送的限速屏障。
+
+在MVM和BM的转运蛋白运作下，胎盘运输营养素（葡萄糖、氨基酸、脂肪酸)，促进胚胎发育，这与SCTB 和胚胎毛细血管内皮的作用密不可分。SCTB直接接触母体血液循环，促使营养素在MVM转运。进入膜间隙胞浆的营养素与BM相互作用，被胚胎毛细血管内皮摄取，实现了营养的输送。
+
+# 2.1葡萄糖
+
+葡萄糖是胚胎和胎盘生长的主要能量底物。胚胎的生糖作用非常有限,胚胎发育对糖的需求几乎完全依赖母体血糖。胎盘的葡萄糖转运通过葡萄糖转运蛋白（glucosetransporters,GLUT）参与的易化扩散方式进行。葡萄糖通过MVM和BM的转运主要依赖GLUT1的作用。
+
+# 2.2 氨基酸
+
+氨基酸是胚胎组织发育所必须的营养素。胚胎血浆中，大多数氨基酸浓度都比母体血液中浓度高，证明氨基酸跨越 SCTB 的转运很活跃。胎盘中有15种以上的氨基酸转运蛋白，每一种转运蛋白都负责转运若干种氨基酸，目前研究最深入的是 SystemA 和SystemL。SystemA 是一种 $\mathrm { { N a ^ { + } } }$ 依赖性氨基酸转运系统，可促进小分子中性氨基酸（丙氨酸、丝氨酸和甘氨酸）转运进入细胞。System A在 SCTB的双层膜上均有活性，在MVM的活性较高，受多种激素（胰岛素、瘦素、胰岛素样生长因子1和白细胞介素-6)激活调控。SystemA在妊娠晚期的胎盘有3种亚型：SNAT1、SNAT2和 SNAT4。SystemL 是一种 Na+非依赖性氨基酸转运载体，用于转运大分子中性氨基酸。SystemL受葡萄糖与胰岛素激活，其转运活性依赖于其他转运载体的活性。受胎儿对营养的需求影响，SystemL在胎盘大量表达，用于转运重要的氨基酸和激素。SystemL在胎盘不同部位的亚型不同，MVM主要有LAT1亚型，BM有LAT2、LAT3 和LAT4 种亚型[55]。目前认为，氨基酸跨 MVM的转运是氨基酸输送的限速步骤。通过MVM的氨基酸在LAT3、LAT4 和 TAT1的协助下，浓度梯度易化扩散通过BM，进入胚胎毛细血管，完成营养输送。
+
+# 2.3 脂肪酸
+
+脂肪酸在胚胎生长中发挥着关键作用，包括脑的发育和脂肪增长。母体血液中，脂质主要以甘油三酯、磷脂和胆固醇酯的形式存在。甘油三酯不能通过SCTB屏障，必须先在胎盘甘油三酯酶的作用下降解为游离脂肪酸（free fatty acids，FFAs)。FFAs 在胎盘的游离脂肪酸转运蛋白作用下被胎盘摄入，供应胚胎的营养需要。母体血液中的甘油三酯在脂蛋白酯酶和内皮脂肪酶作用下水解生成FFA，FFA在脂肪酸转运蛋白、脂肪酸移位酶以及质膜脂肪酸结合蛋白的协助下通过MVM。FFAs通过胞浆的转运需要脂肪酸转运蛋白和脂肪酸移位酶协助完成。
+
+# 2.4 胆固醇
+
+胆固醇是胚胎发育必不可少的营养素，既是细胞膜的重要组成成分，又是类固醇激素的重要前体物质。虽然胚胎自身可以合成胆固醇，但不足以满足胚胎发育的要求，需要通过脂蛋白载体将母体胆固醇输送进入胚胎[56]。脂蛋白载体包括低密度脂蛋白、高密度脂蛋白以及极低密度脂蛋白，它们在 SCTB中各有相应的脂蛋白特异性受体表达。胆固醇从胎盘转运进入胚胎需要特异性转运蛋白协助，包括位于内皮细胞和胚胎的储片夹传输蛋白 A1 和 G1(ABCA1 和 ABCG1)，以及位于 MVM的 ABCA1[57}和位于BM 的ABCG1[58]。
+
+![](images/585521441f2c8cf700a36686480f8efc7298b4e2194452c62b470acaff0b4830.jpg)
+
+Extravillous Space（绒毛外）、Glucose（葡萄糖）、Amino Acids（氨基酸）、Fatty Acids（脂肪酸）、MVM（微绒毛膜）、TG（甘油三酯）、FFA（游离脂肪酸）、Carrier-bound FA（脂肪酸及其载体的结合体）、Syncytium(合胞体)、GLUT（葡萄糖转运蛋白）、LAT（大分子中性氨基酸转运蛋白）、X（交换蛋白）、LPL（脂蛋白酯酶）、EL（内皮脂酶）、FAT/CD36（脂肪酸转移酶）、SystemA（累积转运蛋白）、FATP（脂肪酸转运蛋白）、FABPpm（膜脂肪酸结合蛋白）、FABP-boundFA（脂肪酸结合蛋白与脂肪酸的结合体）、FATP（脂肪酸转运蛋白）、BM（基质膜）、Fetal Capillary Endothelium（胎儿毛细管内皮）、Villous
+
+Stroma（绒毛间质）、Fetal CapillaryLumen（胎儿毛细管腔）。
+
+图1胎盘MVM和BM中葡萄糖、氨基酸、脂肪酸转运关键蛋白的定位 Fig.1Location of key proteins involved in macronutrient (glucose, amino acids, fatty acids) transport at the MVM and BM of placenta
+
+3小结 成年代谢模式与胚胎期营养环境密不可分。母体营养状况直接决定了胚胎的营养供 应，充足、合理的母体营养供应是胚胎发育的必备条件。胎盘是母体向胚胎输送营养的 门户，胎盘中多种营养转运蛋白决定了营养的运输效率。母体营养供应和胎盘营养转运 效率共同决定了胚胎的养分供给。不利的胚胎环境可提高氧化应激水平，加快细胞凋亡， 影响出生后食欲，诱发生长追赶，提高成年代谢疾病风险。在规模化、集约化、标准化 的畜禽生产中，通过优化妊娠母畜的营养搭配，改善后代动物出生后的生长性能，能够 有效提高营养素利用效率，比直接调控生长期动物营养更节约成本，提高了经济回报。 此外，妊娠期营养干预改善后代动物代谢程序化，可以降低动物代谢疾病风险，有利于 实现健康养殖。深入研究动物代谢异常的胚胎起源，使人们能够更好地理解代谢模式的 产生和发展，为人类营养学和医学研究提供宝贵的借鉴和启发。 参考文献： [1]MCCANCE R A,WIDDOWSON E M.The determinants of growth and form[J].Proceedings of the Royal Society of London.Series B,Biological Sciences,1974,185(1078):1-17. [2]BARKER D J,OSMOND C,GOLDING J,et al.Growth in utero,blood pressure in childhood andadultlife,andmortalityfromcardiovasculardisease[J].BritishMedical Journal,1989,298(6673):564-567. [3]MARCONI A M,PAOLINI C,BUSCAGLIA M,et al.The impact of gestational age and fetal growthonthematernal-fetalglucoseconcentrationdifference[J].Obstetrics&   
+282 Gynecol0gy,1996,87(6):937-942.   
+283 [4]JOSEFSON J L,HOFFMANN J A,METZGER B E.Excessive weight gain in women with a   
+284 normal pre-pregnancybmi isassociated with increased neonatal adiposity[J].Pediatric   
+285 Obesity,2013,8(2):e33-e36.   
+286 [5]BRUIN J E,GERSTEIN H C,HOLLOWAY A C.Long-term consequences of fetal and   
+287 neonatal nicotine exposure:a critical review[J].Toxicological Sciences,2010,116(2):364-374.   
+288 [6]BARKER D J P,HALES C N,FALL C H D,et al.Type 2 (non-insulin-dependent） diabetes   
+289 mellitus,hypertensionandhyperlipidaemia(syndromeX):relationtoreducedfetal   
+290 growth[J].Diabetologia,1993,36(1):62-67.   
+291 [7]DE ROOIJ S R,PAINTER R C,HOLLEMAN F,et al.The metabolic syndrome in adults   
+292 prenatallyexposedtotheDutchfamine[J].TheAmericanJournalofClinical
+
+293 Nutrition,2007,86(4):1219-1224.   
+294 [8]FERNANDEZ-TWINN D S,WAYMAN A,EKIZOGLOU S,et al.Maternal protein restriction   
+295 leads to hyperinsulinemia and reduced insulin-signaling protein expression in 21-mo-old female   
+296 rat offspring[J].American Journal of Physiology-Regulatory， Integrative and Comparative   
+297 Physiology,2005,288(2):R368-R373.   
+298 [9]DESAI M,CROWTHER N J,LUCAS A,et al.Organ-selective growth in the offspring of   
+299 protein-restricted mothers[J].British Journal of Nutrition,1996,76(4):591-603.   
+300 [10]MALONEY C A,GOSBY A K,PHUYAL JL,et al.Site-specific changes in the expression of   
+301 fat-partitioning genes in weanling rats exposed to a low-protein diet in utero[J].Obesity   
+302 Research,2003,11(3):461-468.   
+303 [11] BERENDS L M,FERNANDEZ-TWINN D S,MARTIN-GRONERT M S,et al.Catch-up   
+304 growth following intra-uterine growth-restriction programmes an insulin-resistant phenotype in   
+305 adipose tissue[J].International Journal of Obesity,2013,37(8):1051-1057.   
+306 [12]BROWN L D,GREEN A S,LIMESAND S W,et al.Maternal amino acid supplementation for   
+307 intrauterine growth restriction[J].Frontiers in Bioscience,2011,3:428-444.   
+308 [13]MATEO R D,WU G,BAZER F W,et al.Dietary L-arginine supplementation enhances the   
+309 reproductive performance of gilts[J].The Journal of Nutrition,2007,137(3):652-656.   
+310 [14]WU G Y,BAZER F W,CAREY SATTERFIELD M,et al.Impacts of arginine nutrition on   
+311 embryonic and fetal development in mammals[J].Amino Acids,2013,45(2):241-256.   
+312 [15]DESAI M,GAYLE D,BABU J,et al.Programmed obesity in intrauterine growth-restricted   
+313 newborns:modulation bynewborn nutrition[J].American Journal of   
+314 Physiology-Regulatory,Integrative and Comparative Physiology,2005,288(1):R91-R96.   
+315 [16]DE ROOIJ S R,WOUTERS H,YONKER J E,et al.Prenatal undernutrition and cognitive   
+316 function in late adulthood[J].Proceedings of the Natlional Academy of Sciences of the United   
+317 States of America,2010,107(39):16881-16886.   
+318 [17]PENNINGTON K A,HARPER JL,SIGAFOOS A N,et al.Effect of food restriction and   
+319 leptin supplementation on fetal programming in mice[J].Endocrinology,2012,153(9):4556-4567.   
+320 [18]CHECHI K, CHEEMA S K.Maternal diet rich in saturated fats has deleterious effects on   
+321 plasma lipids of mice[J].Experimental & Clinical Cardiology,2006,11(2):129-135.   
+322 [19]SAMUELSSON A M,MATTHEWS P A,ARGENTON M,et al.Diet-induced obesity in   
+323 female mice leads to offspring hyperphagia,adiposity,hypertension,and insulin resistance:a novel   
+324 murine model of developmental programming[J].Hypertension,2008,51(2):383-392.   
+325 [20]KRUSE M,SEKI Y,VUGUIN P M,et al.High-fat intake during pregnancy and lactation   
+326 exacerbates high-fat diet-induced complications in male offspring in   
+327 mice[J].Endocrinology,2013,154(10):3565-3576.   
+328 [21]BRENSEKE B,PRATER M R,BAHAMONDE J,et al.Current thoughts on maternal   
+329 nutritionandfetalprogrammingofthemetabolicsyndrome[J].TheJurnalof   
+330 Pregnancy,2013,2013:368461.   
+331 [22]VICKERS M H,CLAYTON Z E,YAP C,et al.Maternal fructose intake during pregnancy   
+332 and lactation alters placental growth and leads to sex-specific changes in fetal and neonatal   
+333 endocrine function[J].Endocrinology,2011,152(4):1378-1387.   
+334 [23]GORAN M I,DUMKE K,BOURET S G,et al.The obesogenic effect of high fructose   
+335 exposure during early development[J].Nature Reviews Endocrinology,2013,9(8):494-500.   
+336 [24]LISLE S J M,LEWIS R M,PETRY C J,et al.Effect of maternal iron restriction during   
+337 pregnancyonrenalmorphologyintheadultratofspring[J].BritishJournalof   
+338 Nutrition,2003,90(1):33-39.   
+339 [25]GAMBLING L,DUNFORD S,WALLACE D I,et al.Iron deficiency during pregnancy   
+340 affects postnatal blood pressure in the rat[J].The Journal of Physiology,2003,552(Pt 2):603-610.   
+341 [26]BOURQUE S L,KOMOLOVA M,MCCABE K,et al.Perinatal iron deficiency combined   
+342 with a high-fat diet causes obesity and cardiovascular   
+343 dysregulation[J].Endocrinology,2012,153(3):1174-1182.   
+344 [27]PADMAVATHI I J N,RAO K R,VENU L,et al.Chronic maternal dietary chromium   
+345 restriction modulates visceral adiposity:probable underlying   
+346 mechanisms[J].Diabetes,2010,59(1):98-104.   
+347 [28]BURDGE G C,LILLYCROP K A,JACKSON A A,et al.The nature of the growth pattrn   
+348 and of the metabolic response to fasting in the rat are dependent upon the dietary protein and folic   
+349 acid intakes of their pregnant dams and post-weaning fat consumption[J].British Journal of   
+350 Nutrition,2008,99(3):540-549.   
+351 [29]KUMAR K A,LALITHA A,PAVITHRA D,et al.Maternal dietary folate and/or vitamin B12   
+352 restrictions alter body composition (adiposity） and lipid metabolism in wistar rat offspring[J].The   
+353 Journal of Nutritional Biochemistry,2013,24(1):25-31.   
+354 [30] LAPILLONNE A.Vitamin D deficiency during pregnancy may impair maternal and fetal   
+355 outcomes[J].Medical Hypotheses,2010,74(1):71-75.   
+356 [31]LELIEVRE-PEGORIER M,VILAR J,FERRIER M L,et al.Mild vitamin a deficiency leads   
+357 to inborn nephron deficit in the rat[J].Kidney International,1998,54(5):1455-1462.   
+358 [32] MERLET-BENICHOUC.Influenceoffetalenvironment on kidney   
+359 development[J].International Journal of Developmental Biology,1999,43(5):453-456.   
+360 [33]MATTHEWS K A,RHOTEN W B,DRISCOLL H K,et al.Vitamin a deficiency impairs fetal   
+361 islet development and causes subsequent glucose intolerance in adult rats[J].The Journal of   
+362 Nutrition,2004,134(8):1958-1963.   
+363 [34]VENU L,HARISHANKAR N,KRISHNA T P,et al.Does maternal dietary mineral   
+364 restriction per se predispose the offspring to insulin resistance?[J].European Journal of   
+365 Endocrinology,2004,151(2):287-294.   
+366 [35]VENU L,KISHORE Y D, RAGHUNATH M.Maternal and perinatal magnesium restriction   
+367 predisposes rat pups to insulin resistance and glucose intolerance[J].The Journal of   
+368 Nutrition,2005,135(6):1353-1358.   
+369 [36]JOU M Y,PHILIPPS A F,LONNERDAL B.Maternal zinc deficiency in rats affects growth   
+370 and glucose metabolism in the offspring by inducing insulin resistance postnatally[J].The Journal   
+371 of Nutriti0n,2010,140(9):1621-1627.   
+372 [37]JOU M Y,LONNERDAL B,PHILIPPS A FMaternal zinc restriction affects postnatal   
+373 growth and glucose homeostasis in rat offspring differently depending upon adequacy of their   
+374 nutrient intake[J].Pediatric Research,2012,71(3):228-234.   
+375 [38]BERGEL E,BELIZAN J M.A deficient maternal calcium intake during pregnancy increases   
+376 blood pressure of the offspring in adult rats[J].BJOG:An International Journal of Obstetrics &   
+377 Gynaecology,2002,109(5):540-545.   
+378 [39]HALES C N,BARKER D J P.Type 2 (non-insulin-dependent) diabetes melitus:the thrifty   
+379 phenotype hypothesis[J].Diabetologia,1992,35(7):595-601.   
+380 [40] SIMMONS R A,GOUNISA S,BANGALORE SA,et al.Intrauterine growth   
+381 retardation:fetal glucose transport is diminished in lung but spared in brain[J].Pediatric   
+382 Researcch,1992,31(1):59-63.   
+383 [41]SIMMONS R A,FLOZAK A S,OGATA E S.The efect of insulin and insulin-like growth   
+384 factor-1onglucosetransport innormalandsmallforgestationalagefetal   
+385 rats[J].Endocrinology,1993,133(3):1361-1368.   
+386 [42]LUO Z C,FRASER W D,JULIEN P,et al.Tracing the origins of “fetal origins”of adult   
+387 diseases:programming by oxidative stress?[J].Medical Hypotheses,2006,66(1):38-44.   
+388 [43]BAYDAS G,KARATAS F,GURSU M F,et al.Antioxidant vitamin levels in term and   
+389 preterm infantsand their relation to maternal vitamin status[J].Archives of Medical   
+390 Research,2002,33(3):276-280.   
+391 [44]REYNOLDS R M.Glucocorticoid excess and the developmental origins of disease:two   
+392 decades of testing the hypothesis-2012 Curt Richter Award   
+393 Winer[J].Psychoneuroendocrinology,2013,38(1):1-11.   
+394 [45]VICKERS M H,GLUCKMAN P D,COVENY A H,et al.Neonatal leptin treatment reverses   
+395 developmental programming[J].Endocrinology,2005,146(10):4211-4216.   
+396 [46]HEIJMANS B T,TOBI E W,STEIN A D,et al.Persistent epigenetic differences associated   
+397 with prenatal exposure to famine in humans[J].Proceedings of the Natlional Academy of Sciences   
+398 of the United States of America,2008,105(44):17046-17049.   
+399 [47]GODFREY K M,SHEPPARD A,GLUCKMAN P D,et al.Epigenetic gene promoter   
+400 methylation at birth is associated with child's later adiposity[J].Diabetes,2011,60(5):1528-1534.   
+401 [48]PARK J H,STOFFERS D A,NICHOLLS R D,et al.Development of type 2 diabetes   
+402 following intrauterine growth retardation in rats is associated with progressive epigenetic silencing   
+403 of pdx1[J].The Journal of Clinical Investigation,2008,118(6):2316-2324.   
+404 [49]JENNINGS B J,OZANNE S E,DORLING M W,et al.Early growth determines longevity in   
+405 maleratsandmayberelatedtotelomereshorteninginthekidney[J].FEBS   
+406 Letters,1999,448(1):4-8.   
+407 [50]TARRY-ADKINS JL,MARTIN-GRONERT M S,CHEN J H,et al.Maternal diet influences   
+408 DNA damage,aortic telomere length,oxidative stressand antioxidant defense capacityin   
+409 rats[J].The FASEB Journal,2008,22(6):2037-2044.   
+410 [51]TARRY-ADKINS J L,CHEN J H,SMITH N S,et al.Poor maternal nutrition followed by   
+411 accelerated postnatal growth leads to telomere shortening and increased markers of cell   
+412 senescence in rat islets[J].The FASEB Journal,2009,23(5):1521-1528.   
+413 [52]LAKSHMY R,FALL C H,SACHDEV H S,et al.Childhood body mass index and adult   
+414 pro-inflammatoryandpro-thromboticriskfactors:datafromthenewdelhibirth   
+415 cohort[J].International Journal of Epidemiology,2011,40(1):102-111.   
+416 [53]MORTENSEN O H,OLSEN H L,FRANDSEN L,et al.A maternal loW protein diet has   
+417 pronounced effectson mitochondrial gene expression in offspring liver and skeletal   
+418 muscle;protective effect of taurine[J].The Journal of Biomedical Science,2010,17(S1):S38.   
+419 [54]LEE H K,CHO Y M,KWAK S H,et al.Mitochondrial dysfunction and metabolic   
+420 syndrome—looking for environmental factors[J].Biochimica et Biophysica Acta (BBA)-General   
+421 Subjects,2010,1800(3):282-289.   
+422 [55]CLEAL J K,GLAZIER J D,NTANI G,et al.Facilitated transporters mediate net efflux of   
+423 amino acids to the fetus across the basal membrane of the placental syncytiotrophoblast[J].The   
+424 Journal of Physiology,2011,589(Pt 4):987-997.   
+425 [56] WOOLLETTLA.Transportofmaternalcholesteroltothefetal   
+426 circulation[J].Placenta,2011,32(Suppl 2):S218-S221.   
+427 [57]AYE I L M H,WADDELL B J,MARK P J,et al.Placental ABCA1 and ABCG1 transporters   
+428 efflux cholesterol and protect trophoblasts from oxysterol induced toxicity[J].Biochimica et
+
+Biophysica Acta (BBA)-Molecular and Cell Biology of Lipids,2010,1801(9):1013-1024. [58]NIKITINA L,WENGER F,BAUMANN M,et al.Expression and localization pattern of ABCA1 in diverse human placental primary cells and tissues[J].Placenta,2011,32(6):420-430.
+
+Effects of Embryonic Nutrition Environment on Postnatal Animal Nutritional Metabolism LYU Jiaqi1HUA Wenyu²WANG Tian1\* (1. Institution of Animal Science and Technology, Nanjing Agriculture University, Nanjing 210095, China; 2. Jinan Pansheng Biotechnology Limited Company, Jinan 25oooo, China) Abstract: Fetal nutrition is under the influence of both the maternal nutrition supply and placental nutrition transport. Adequate and appropriate maternal nutrition supply is the guarantee of healthy fetal development.The placenta is responsible for nutrient transport. The nutrition supply for the fetal depends on the effciency of the transfer. Fetal development is closely connected with the embryonic environment. Adverse fetal environment can programme the embryonic development, cause lasting effects on the metabolism, and lead to chronic disease in adulthood. Therefore,the study of long-term effects of maternal nutrition supply will contribute to the health of future generations,and effectively reduce the incidence of adult metabolic diseases.This article introduced the influence of poor fetal nutrition on the metabolism of offspring,and discussed the mechanisms of nutritional programming.
+
+Key words: maternal nutrition； fetal development； metabolism programming;nutritionalmetabolism

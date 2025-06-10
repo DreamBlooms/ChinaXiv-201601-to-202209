@@ -1,0 +1,230 @@
+# 长期饥饿后异育银鲫对饲料蛋白质的需求
+
+吴本丽 黄龙何吉祥\* 陈静 宋光同 武松（安徽省农业科学院水产研究所，合肥230031）
+
+摘要：为研究长期饥饿后异育银鲫幼鱼对饲料蛋白质的需求水平及适应策略，本试验首先对异育银鲫幼鱼 $[ ( 1 1 . 6 { \pm } 0 . 4 ) \ \mathrm { g } ]$ 持续饥饿处理 $9 0 \mathrm { ~ d ~ }$ ，期间水温 $( 1 5 . 2 \pm 2 . 0 ) \$ ） $\mathrm { { ^ \circ C } }$ ，随后分别采用$2 0 \% ( \mathrm { P 2 0 } )$ 、25%(P25)、 $3 0 \% ( \mathrm { P } 3 0 )$ 、 $3 5 \% ( \mathrm { P } 3 5 )$ 和 $4 0 \% ( \mathrm { P 4 0 } )$ 蛋白质水平饲料恢复投喂 $5 6 \mathrm { d }$ ，期间水温 $( 2 4 . 4 \pm 2 . 2 \$ ） $\mathrm { { } ^ { \circ } C }$ ，监测饥饿和恢复投喂期间形体指标、脏器系数、体成分、肠道消化酶活性的变化。结果表明：1）饥饿 $9 0 \mathrm { d }$ 后，鱼体体重显著下降 $( P { < } 0 . 0 5 )$ ，肝脏系数和肠长系数显著降低 $( P { < } 0 . 0 5 )$ ，肠道蛋白酶、淀粉酶、脂肪酶活性显著降低 $( P { < } 0 . 0 5 )$ ，鱼体水分和粗灰分含量显著上升 $( P { < } 0 . 0 5 )$ ，粗脂肪和粗蛋白质含量显著下降 $( P { < } 0 . 0 5 )$ )。2）恢复投喂后，第14天时，各组体重无显著差异 $( P > 0 . 0 5 )$ ；第 28天时，P20 组体重显著低于P30、P35、P40组 $( P { < } 0 . 0 5 )$ ，第 42 和56天时，P35 和 P40 组体重显著高于其他组 $( P { < } 0 . 0 5 )$ ，且这2组特定生长率和饲料系数接近。3）恢复投喂第56天，P20 组鱼体粗蛋白质含量显著低于其他组 $( P { < } 0 . 0 5 )$ ，P20 和P25组鱼体粗脂肪含量显著低于其他组 $( P { < } 0 . 0 5 )$ ，P20 和P25 组粗灰分含量显著高于其他组( $\scriptstyle \overbrace { P } < 0 . 0 5 \$ ),P20 和 P25 组鱼体水分含量显著高于P35和P40 组 $( P { < } 0 . 0 5 )$ 。4）恢复投喂后，肠道消化酶活性逐渐增强;蛋白酶活性随饲料蛋白质水平升高而升高，第 28天 P35、P40 组显著高于其他组 $( P { < } 0 . 0 5 )$ ，第 56天P40 组显著高于其他组 $( P { < } 0 . 0 5 )$ ;淀粉酶活性随饲料蛋白质水平升高而降低，第28天P35、P40 组显著低于其他组 $( P { < } 0 . 0 5 )$ ，第56天 P30、P35、P40 组显著低于其他组 $( P { < } 0 . 0 5 )$ 。结果提示，长期饥饿后异育银鲫幼鱼对不同蛋白质水平饲料的利用及适应过程有较大差异；恢复投喂初期，饲料蛋白质水平对生长影响不大，机体摄食及消化功能逐渐恢复后，较高蛋白质水平 $( 3 5 \% { \sim } 4 0 \% )$ 可有效促进生长，回归分析获得理论最适饲料蛋白质水平为 $3 8 . 1 \%$ 。
+
+关键词：异育银鲫；长期饥饿；饲料蛋白质水平；特定生长率；饲料系数
+
+中图分类号：S965
+
+环境条件直接影响动物的生长甚至生存，遇到食物匮乏等极端条件时，机体能量和物质会不断被消耗[1]，活动能力和代谢水平减弱，免疫力下降甚至死亡[2-4]。同时，动物行为、生理结构、肠道环境及功能也会对饥饿胁迫产生一定的适应性[5-8]。饥饿初期，机体通常保持较高活动和代谢水平，以便在重新获得食物或受到其他环境危害时及时反应；而长期饥饿后机体生理活动和代谢通常维持于较低水平，以最大程度减少能量和物质消耗，保持体重和延长寿命[9]。鱼类在自然生长过程中容易经受饥饿风险，长期饥饿后其游泳能力、摄食行为、消化吸收功能、代谢水平均会发生变化，这一系列的变化也是鱼体为最大限度耐受饥饿、维持生存逐渐形成的适应性反应[3,10]。鱼类的耐饥饿能力较强，重新获得食物后，机体一般可逐渐恢复生长发育，短期饥饿后恢复投喂还可能出现补偿生长，但经历过长期饥饿的鱼体对营养物质的适应、利用能力和实际需求可能与正常养殖环境下的适宜需求水平有所差异[4]。生产中，常常对饥饿后养殖群体，如越冬后的群体，投以高蛋白质水平饲料或增加投喂频率来实现快速恢复，但过高的蛋白质水平可能会对饥饿胁迫后鱼体造成更大代谢压力，无法达到快速恢复摄食、消化吸收和代谢功能的目的。
+
+异育银鲫（Carassius auratus gibelio）是国内主要的淡水养殖品种之一，对其仔稚鱼、幼鱼和成鱼阶段营养需求均已开展大量研究并得到有效应用。本试验对异育银鲫幼鱼持续饥饿过程中形体指标、脏器系数、体成分、肠道消化酶活性进行了连续观察，并比较了采用不同蛋白质水平饲料恢复投喂后异育银鲫这些指标的变化，以期获得长期饥饿对异育银鲫幼鱼形态、生理的影响，以及经受长期饥饿胁迫后其对饲料中蛋白质的实际需求，为评估饥饿肋迫后鱼体对饲料蛋白质水平的适应能力，从而为生产上选择饲喂策略提供参考。
+
+# 1材料方法
+
+# 1.1 试验鱼
+
+试验用异育银鲫为安徽省农业科学院水产研究所养殖基地繁育，试验前转移至室内循环水养殖系统，单个养殖缸容积 $3 0 0 \mathrm { { L } }$ ，幼鱼初始体长 $( 7 . 5 { \pm } 0 . 3 ) \mathrm { c m }$ ，体重 $( 1 1 . 6 { \pm } 0 . 4 ) \$ g。
+
+# 1.2 试验饲料
+
+自行配制粗蛋白质水平分别为 $20 \%$ 、 $2 5 \%$ 、 $30 \%$ 、 $3 5 \%$ 和 $4 0 \% 5$ 种等能等脂的试验饲料进行投喂试验，分别表示为P20、P25、P30、P35和P40。以酪蛋白调节蛋白质水平，以糊精调节能量水平，试验饲料组成及营养水平见表1。
+
+表1试验饲料组成及营养水平(风干基础)
+
+Table 1Composition and nutrient levels of the diets (air-by basis)   
+
+<html><body><table><tr><td>项目 Items 饲料Diets</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>P20</td><td>P25</td><td>P30</td><td>P35</td><td>P40</td></tr><tr><td colspan="6">原料 Ingredients</td></tr><tr><td>鱼粉 Fishmeal</td><td>20.0</td><td>20.0</td><td>20.0</td><td>20.0</td><td>20.0</td></tr><tr><td>豆粕 Soybean meal</td><td>12.0</td><td>12.0</td><td>12.0</td><td>12.0</td><td>12.0</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>10.0</td><td>10.0</td><td>10.0</td><td>10.0</td><td>10.0</td></tr><tr><td>酪蛋白Casein</td><td>0.0</td><td>5.5</td><td>11.0</td><td>16.5</td><td>22.0</td></tr><tr><td>豆油 Soybean oil</td><td>4.0</td><td>4.0</td><td>4.0</td><td>4.0</td><td>4.0</td></tr><tr><td>糊精 Dextrin</td><td>38.0</td><td>32.5</td><td>27.0</td><td>21.5</td><td>16.0</td></tr><tr><td>纤维素 Cellulose</td><td>7.5</td><td>7.5</td><td>7.5</td><td>7.5</td><td>7.5</td></tr><tr><td>维生素预混料 Vitamin premixl</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td></tr><tr><td>矿物质预混料 Mineral premix²</td><td>5.0</td><td>5.0</td><td>5.0</td><td>5.0</td><td>5.0</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>1.0</td><td>1.0</td><td>1.0</td><td>1.0</td><td>1.0</td></tr><tr><td>羧甲基纤维素钠CMC</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td></tr><tr><td>合计Total</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td></tr><tr><td colspan="6">营养水平 Nutrient levels</td></tr><tr><td>粗蛋白质Crude protein</td><td>22.7</td><td>25.9</td><td>30.8</td><td>35.3</td><td>40.0</td></tr><tr><td>粗脂肪 Crude lipid</td><td>7.4</td><td>7.7</td><td>7.8</td><td>8.0</td><td>8.0</td></tr><tr><td>粗纤维 Crude fiber</td><td>9.0</td><td>8.7</td><td>8.8</td><td>9.4</td><td>8.8</td></tr><tr><td>粗灰分 Ash</td><td>5.8</td><td>6.4</td><td>6.1</td><td>5.8</td><td>6.2</td></tr></table></body></html>
+
+1维生素预混料为每千克饲料提供 Vitamin premix provided the following per $\mathbf { k g }$ of diets : $\mathrm { V B } _ { 1 } 2 0 \mathrm { m g }$ $\mathrm { V B } _ { 2 }$ $2 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 0 \ : \mathrm { m g }$ ，叶酸 folic acid $5 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $5 0 ~ \mathrm { m g }$ ，肌醇 inositol（204号 $1 0 0 \mathrm { m g }$ ，烟酸niacin $1 0 0 ~ \mathrm { { m g } }$ ，生物素biotin $0 . 1 ~ \mathrm { m g }$ ，VC $1 0 0 ~ \mathrm { { m g } }$ ，VA $6 0 0 0 \mathrm { I U }$ ，VD 2 000 IU，VE $5 0 \mathrm { m g }$ VK $1 0 \mathrm { m g }$ ，淀粉 starch $2 3 ~ \mathrm { m g }$ 。
+
+2 矿物质预混料为每千克饲料提供 Mineral premix provided the following per $\mathbf { k g }$ of diets: $\mathrm { N a C l 5 0 0 m g }$ ，$\mathrm { M g S O _ { 4 } { \cdot } 7 H _ { 2 } O \ 8 \ 1 5 5 . 6 \ m g }$ ， $\mathrm { N a H _ { 2 } P O _ { 4 } } { \cdot } 2 \mathrm { H _ { 2 } O } \ 1 2 \ 5 0 0 \ \mathrm { m g }$ ， $\mathrm { K H _ { 2 } P O _ { 4 } } \ 1 6 \ 0 0 0 \ \mathrm { m g }$ ， $\mathrm { C a ( H _ { 2 } P O _ { 4 } ) _ { 2 } { \cdot } H _ { 2 } O \ 7 \ 6 5 0 . 6 \ m g }$ ，$\mathrm { F e S O _ { 4 } { \cdot } 7 H _ { 2 } O } 2 2 8 6 . 2 \mathrm { m g }$ = $\mathrm { C _ { 6 } H _ { 1 0 } C a O _ { 6 } }$ ·5H2O 1 $7 5 0 \mathrm { m g }$ ， $Z n \mathrm { S O } _ { 4 } { \cdot } 7 \mathrm { H } _ { 2 } \mathrm { O }$ 178 mg, $\mathrm { M n S O _ { 4 } { \cdot } H _ { 2 } O 6 l . 4 m g }$ ， $\mathrm { C u S O _ { 4 } { \cdot } 5 H _ { 2 } O }$ $1 5 . 5 \mathrm { m g }$ ， $\mathrm { C o S O _ { 4 } { \cdot } 7 H _ { 2 } O \ 3 4 . 5 \ m g }$ ， $\mathrm { K I ~ l 1 4 . 8 ~ m g }$ ，淀粉starch $7 5 3 . 4 \mathrm { m g }$ 。
+
+# 1.3 饥饿过程
+
+试验鱼转入室内养殖系统后进行饥饿处理，持续 $9 0 \mathrm { d }$ ，饥饿期间室内水温( $1 5 . 2 { \pm } 2 . 0 \$ ） $^ \circ \mathrm { C }$ 。每30 d检测鱼体体长、体重、内脏系数(viscera index,VI)、肝脏系数(liver index,LI)、腹脂系数(abdominal fat index,AFI)、肠重系数(intestinal tract weight index)和肠长系数(intestinal tractlength index)等指标，其中肠长为整个肠道自然展开后的长度。
+
+# 1.4恢复投喂
+
+持续饥饿90d后，将规格相近的幼鱼随机分为5组，体长 $( 7 . 4 \pm 0 . 2 )$ cm，体重 $( 8 . 4 { \pm } 0 . 6 ) \ \mathrm { g }$ 每组设置3个平行，每缸投放幼鱼40尾，循环水交换量 $1 5 0 \mathrm { L / h }$ 。投喂期间水温 $( 2 4 . 4 \pm 2 . 2 ) \$ ℃。每天在08:00、13:00和18:00饱食投喂3次，各组分别投喂1种试验饲料，统计摄食量。每
+
+2周测量1次各缸鱼体总重量，每缸随机测量4尾鱼体长和体重；投喂4周后，每缸随机取4尾鱼测量形体指标，解剖分离脏器，测量获得相关脏器系数，肠道样品置于-80℃冰箱待测消化酶活性。恢复投喂8周后，逐尾测量体长、体重，且每缸随机取4尾鱼解剖分离脏器，测量获得相关脏器系数和肠道样品。所有测量和操作均在禁食 $2 4 \mathrm { h }$ 后、麻醉条件下进行。
+
+# 1.5 指标分析
+
+蛋白酶、脂肪酶和α-淀粉酶活性均采用试剂盒（购买自南京建成生物科技有限公司)测定；105℃恒重法测定鱼体和饲料中水分，凯氏定氮法测定鱼体及饲料中粗蛋白质含量，索氏抽提法测定粗脂肪含量，550℃焚烧法测定粗灰分含量。形体指标计算公式如下：
+
+特定生长率[specific growth rate( $( \mathrm { S G R } ) , \% ( \mathrm { d } ] { = } 1 0 0 { \times } ( \ln  { W _ { \mathrm { t } } } { \ln }  { W _ { 0 } } { ) } / T ;$ （204  
+肥满度[condition factor $\mathrm { ( C F ) , g / c m ^ { 3 } } ] { = } 1 0 0 { \times } W _ { \mathrm { t } } / L _ { \mathrm { t } } ^ { 3 }$   
+饲料系数[feed conversion ratio $\scriptstyle \mathrm { ( F C R ) } ] = F I / ( W _ { \mathrm { t } } - W _ { 0 } ) ;$   
+内脏系数 $( \% ) { = } 1 0 0 { \times } W _ { \mathrm { v } } / B W ;$   
+肝脏系数 $( \% ) { = } 1 0 0 { \times } W _ { \mathrm { h } } / B W$   
+腹脂系数 $( \% ) { = } 1 0 0 { \times } W _ { \mathrm { f } } / B W ;$   
+肠重系数 $( \% ) { = } 1 0 0 { \times } W _ { \mathrm { d } } / B W$   
+肠长系数 $( \% ) { = } 1 0 0 { \times } L { _ { \mathrm { d } } } / L$ 。
+
+式中： $W _ { 0 }$ 、 $\boldsymbol { W } _ { t }$ 和 $L _ { t }$ 分别为初始体重（g）、投喂 $\mathbf { \chi } _ { t }$ 天后体重（g）和体长（cm）； $T$ 为投喂天数； $F I$ 为摄食量（干物质基础） ${ \bf \Pi } ( { \bf g } )$ ; $B W$ 、 $W _ { \mathrm { v } }$ 、 $W _ { \mathrm { h } }$ 、 $W _ { \mathrm { f } }$ 和 $W _ { \mathrm { d } }$ 分别为体重（g）、内脏团重（g）、肝脏重（g）、腹部脂肪重（g）和肠重（g)； $L$ 和 $L _ { \mathrm { d } }$ 分别为体长（cm）和肠长（cm）。
+
+# 1.6 数据分析
+
+试验数据分析及制图分别采用SPSS19.0 和MicrosoftExcel2010进行。对测量及监测数据进行单因素方差分析(one-way ANOVA)，采用Duncan 氏多重比较检验进行组间差异显著性分析， $P { < } 0 . 0 5$ 为差异显著，利用多项式回归分析获得理论最适蛋白质水平。
+
+# 2结果
+
+# 2.1饥饿后鱼体形体指标及脏器系数
+
+由表2可知，体重随着饥饿时间延长而显著下降 $( P { < } 0 . 0 5 )$ ，第30天体重损失 $9 . 5 \%$ 第60天体重损失 $1 8 . 1 \%$ ，第90天体重损失达 $2 7 . 6 \%$ 。体长在饥饿第60天略有下降，但变化不显著 $( P { > } 0 . 0 5 )$ 。内脏系数、肝脏系数和肠长系数均随饥饿时间延长而下降，在第60 天
+
+显著低于第0、30天 $( P { < } 0 . 0 5 )$ ，第90天显著低于其他时间点 $( P { < } 0 . 0 5 )$ 。腹脂系数随着饥饿时间延长而显著下降 $( P { < } 0 . 0 5 )$ 。各时间点肠重系数差异不显著 $( P { > } 0 . 0 5 )$ 。鱼体肥满度(y)与饥饿时间 $( x )$ 呈负相关关系 $( \gamma = . 0 . 0 0 7 x + 2 . 6 9 5$ ， $R { = } 0 . 9 9 7 _ { . }$ ）
+
+Table 2Variation of body measurements and VIs of gibel carp (Carassus auratus gibelio) suffered from starvation for different time   
+
+<html><body><table><tr><td>饥饿时间</td><td>体长</td><td>体重</td><td>肥满度</td><td>内脏系数</td><td>肝脏系数</td><td>腹脂系数</td><td>肠重系数 Intestinal</td><td>肠长系数 Intestinal</td></tr><tr><td>Starvation time/d</td><td>BL/cm</td><td>BW/g</td><td>CF/(g/cm³)</td><td>VI/%</td><td>LI/%</td><td>AFI/%</td><td>tract weight index/%</td><td>tract length index/%</td></tr><tr><td>0</td><td>7.5±0.3</td><td>11.6±0.4d</td><td>2.71±0.10d</td><td>12.4±0.0c</td><td>3.2±0.0c</td><td>2.4±0.0d</td><td>3.5±0.1</td><td>3.3±0.0c</td></tr><tr><td>30</td><td>7.5±0.3</td><td>10.5±0.5c</td><td>2.44±0.10c</td><td>10.3±0.0c</td><td>3.0±0.0c</td><td>1.1±0.0c</td><td>3.5±0.1</td><td>3.2±0.1°</td></tr><tr><td>60</td><td>7.4±0.2</td><td>9.5±0.5b</td><td>2.22±0.11b</td><td>8.0±0.0b</td><td>2.3±0.0b</td><td>0.2±0.0b</td><td>3.6±0.1</td><td>3.0±0.1b</td></tr><tr><td>90</td><td>7.4±0.2</td><td>8.4±0.6a</td><td>2.00±0.14a</td><td>7.0±0.0a</td><td>1.6±0.0a</td><td>0.0±0.0a</td><td>3.5±0.1</td><td>2.8±0.1a</td></tr></table></body></html>
+
+同列数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。表3、表4、表7同。
+
+In the same column, values with no letter or the same lettr superscripts mean no significant difference $P >$ 0.05),while with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ .The same as Table 3,Table 4 and Table 7.
+
+# 2.2恢复投喂后鱼体形体指标及脏器系数
+
+由表3可知，饥饿后异育银鲫采用不同蛋白质水平饲料进行投喂，结果显示，恢复投喂第14天，增重率 $3 . 3 \% { \sim } 6 . 4 \%$ ，各组间差异不显著 $( P { > } 0 . 0 5 )$ ;第 28天,增重率 $1 7 . 9 \% { \sim } 2 7 . 3 \%$ 其中，P20 组体重低于P30、P35、P40 组 $( P { < } 0 . 0 5 )$ ；第42天，增重率 $4 0 . 2 \% \sim 8 3 . 3 \%$ ，体重随饲料中蛋白质水平的上升先提高后平缓，P35组与P40 组差异不显著 $( P { > } 0 . 0 5 )$ ，这2组均显著高于其他各组 $( P { < } 0 . 0 5 )$ ；第56天，增重率 $6 0 . 1 \% { \sim } 1 5 6 . 0 \%$ ，与第 42天组间关系一致。恢复投喂第56天，肥满度表现为随饲料蛋白质水平升高而升高，P35组与P40 组差异不显著 $( P { > } 0 . 0 5 )$ ，但均显著高于其他各组 $( P { < } 0 . 0 5 )$ ；比较同组、不同恢复时间结果显示，各组肥满度均在恢复投喂第28天较高，随后有所下降。
+
+表2饥饿不同时间异育银鲫形体指标及脏器系数的变化  
+表3恢复投喂不同时间异育银鲫体重及肥满度的变化  
+Table 3Variation of BW and CF of gibel carp (Carassus auratus gibelio) after re-feeding for different time   
+
+<html><body><table><tr><td>组别</td><td colspan="4">体重BW/g</td><td colspan="4">肥满度CF/(g/cm)</td></tr><tr><td>Groups</td><td>第14天 Day 14</td><td>第28天 Day 28</td><td>第42天 Day 42</td><td>第56天 Day 56</td><td>第14天 Day 14</td><td>第28天</td><td>第42天</td><td>第56天</td></tr><tr><td>P20</td><td>8.68±0.20</td><td>9.90±0.25a</td><td>11.78±0.33a</td><td>13.45±0.45a</td><td>2.44±0.10a</td><td>Day 28 2.60±0.22a</td><td>Day 42 2.38±0.08a</td><td>Day 56 2.18±0.11a</td></tr><tr><td>P25</td><td>8.76±0.24</td><td>10.23±0.30ab</td><td>12.13±0.41b</td><td>15.93±0.25b</td><td>2.51±0.10a</td><td>2.68±0.15a</td><td>2.45±0.10a</td><td>2.25±0.13a</td></tr></table></body></html>
+
+<html><body><table><tr><td>P30</td><td>8.88±0.30</td><td>10.56±0.37b</td><td>14.85±0.24c</td><td>19.02±0.30c</td><td>2.64±0.12b</td><td>2.84±0.16b</td><td>2.62±0.12b</td><td>2.46±0.10b</td></tr><tr><td>P35</td><td>8.94±0.36</td><td>10.72±0.22b</td><td>15.40±0.29d</td><td>21.50±0.37d</td><td>2.85±0.16c</td><td>3.09±0.15c</td><td>2.90±0.11c</td><td>2.72±0.13c</td></tr><tr><td>P40</td><td>8.89±0.21</td><td>10.69±0.26b</td><td>15.34±0.36d</td><td>21.36±0.47d</td><td>2.99±0.14c</td><td>3.24±0.20d</td><td>3.02±0.14c</td><td>2.83±0.12c</td></tr></table></body></html>
+
+由表4可知，恢复投喂后异育银鲫的脏器系数发生变化，肝脏系数较饥饿时提高，第28 天，P20 组显著低于其他组 $( P { < } 0 . 0 5 )$ ，其他组差异不显著 $( P { > } 0 . 0 5 )$ ；第 56天各组肝脏系数均高于第 28天，其中 P40 组显著低于其他组 $( P { < } 0 . 0 5 )$ 。恢复投喂第 28天，肠重系数略低于饥饿时，不同组间差异不显著 $( P { > } 0 . 0 5 )$ ；第 56天时肠重系数小于第 28天，不同组间差异也不显著 $( P { > } 0 . 0 5 )$ 。恢复投喂第28天，肠长系数高于饥饿时，第56天与第 28天数值接近，且不同组间无显著差异 $( P { > } 0 . 0 5 )$ 。
+
+表4恢复投喂不同时间异育银鲫脏器系数的变化  
+Table 4Variation of VIs of gibel carp (Carassius auratus gibelio) after re-feeding for different time $\%$   
+
+<html><body><table><tr><td rowspan="2">组别 Groups</td><td colspan="2">肝脏系数LI</td><td colspan="2">肠重系数Intestinal tract weight index</td><td colspan="2">肠长系数 Intestinal tract length index</td></tr><tr><td>第28天</td><td>第56天</td><td>第28天</td><td>第56天</td><td>第28天</td><td>第56天</td></tr><tr><td>P20</td><td>Day 28 2.8±0.1a</td><td>Day 56 5.4±0.2℃</td><td>Day 28 3.2±0.1</td><td>Day 56 2.8±0.1</td><td>Day 28 3.1±0.0</td><td>Day 56 3.4±0.0</td></tr><tr><td>P25</td><td>3.1±0.1b</td><td>5.2±0.1bc</td><td>3.3±0.1</td><td>2.6±0.1</td><td>3.3±0.0</td><td>3.2±0.1</td></tr><tr><td>P30</td><td>3.3±0.1b</td><td>4.9±0.2b</td><td>3.2±0.1</td><td>2.6±0.1</td><td>3.2±0.0</td><td>3.3±0.0</td></tr><tr><td>P35</td><td>3.2±0.1b</td><td>5.0±0.2b</td><td>3.3±0.1</td><td>2.8±0.1</td><td>3.4±0.1</td><td>3.2±0.1</td></tr><tr><td>P40</td><td>3.2±0.1b</td><td>4.3±0.1a</td><td>3.4±0.1</td><td>2.7±0.1</td><td>3.2±0.0</td><td>3.4±0.1</td></tr></table></body></html>
+
+# 2.3 饥饿和恢复投喂后SGR与FCR
+
+恢复投喂期间，SGR 随饲料蛋白质水平升高而提高，P35、P40组 SGR 高于其他组，这2 组数值接近。恢复投喂不同时间段 SGR有所差异，投喂后期高于前期，其中第 29\~42 天SGR最高，第43\~56天有所下降，各组SGR均为第1\~14天 $<$ 第 $1 5 { \sim } 2 8$ 天 $<$ 第1\~56天 $<$ 第43\~56天 $<$ 第 29\~42天（图1）。
+
+由表5可知，对恢复投喂不同时间段的饲料蛋白质水平与 SGR进行二项式拟合，回归分析可得：第42天以前，获得最大 SGR 的理论最适饲料蛋白质水平随投喂时间的延长呈上升趋势，第43\~56天有所下降，整个恢复投喂周期（第1\~56天)，理论最适水平为 $40 . 5 \%$ 三项式回归分析获得理论最适饲料蛋白质水平为 $3 9 . 0 \%$ 。
+
+![](images/439ebc77ed3c1a31adfbba3955492c56161b59366926d915f0e9ea2e9139338e.jpg)  
+图1不同投喂阶段饲料蛋白质水平与特定生长率多项式拟合曲线  
+Fig.1The polynomial fitting curve of SGR and dietary protein level in diferent re-feeding periods 表5饲料蛋白质水平与特定生长率拟合方程及理论最适蛋白质水平
+
+Table 5Fiting equation for dietary protein level and SGR and theoretical optimal dietary protein level   
+
+<html><body><table><tr><td>投喂时间 Re-feeding time</td><td>饲料蛋白质水平(x)与特定生长率(y)的拟合 方程Fitting equation of dietary protein level</td><td>R²</td><td>理论最适饲料蛋白质水平(顶点x值) Theoretical optimal dietary protein level(x value</td></tr><tr><td></td><td>(x) and SGR (y)</td><td>0.951</td><td>of vertex coordinate)/% 36.7</td></tr><tr><td>第1~14天 Day1 to 14 第15~28天 Day15 to 28</td><td>y=-0.000 74x²+0.054 35x-0.627 2 y=-0.001 05x²+0.081 89x-0.279 3</td><td>0.999</td><td>39.0</td></tr><tr><td>第 29~42天 Day 29 to 42</td><td>y=-0.002 94x2+0.257 6x-2.919</td><td>0.832</td><td>43.8</td></tr><tr><td>第 43~56 天 Day 43 to 56</td><td>y=-0.003 57x2+0.279 8x-3.116</td><td>0.857</td><td>39.2</td></tr><tr><td>第1~56天 Day1 to 56</td><td>y=-0.000 08x³+0.006 44x2-0.154 5x+1.325</td><td>0.999</td><td>39.0</td></tr></table></body></html>
+
+各组投喂前期FCR均高于投喂后期，尤其是第1\~14天较高，同组第29\~42天与第 $4 3 { \sim } 5 6$ 天数值接近；同一恢复投喂时间段，FCR随饲料蛋白质水平的升高而降低，P35、P40组FCR相近，这2组均低于其他组（图2)。
+
+由表6可知，对不同恢复投喂时间段的饲料蛋白质水平与FCR进行二项式拟合，回归分析可得：获得最低FCR的理论最适饲料蛋白质水平随恢复投喂时间的延长呈上升趋势，整个恢复投喂周期（第1\~56天）理论最适水平为 $4 4 . 8 \%$ ；三项式回归分析获得理论最适饲料蛋白质水平为 $3 7 . 7 \%$
+
+![](images/6fc60d59f80bb03cdd1eef39c4cbb85c1617ecd5d507378aad7f8c2f96d3badf.jpg)  
+图2不同恢复投喂阶段蛋白质水平与饲料系数多项式拟合曲线  
+Fig.2The polynomial fitting curve ofFCR and dietary protein level in different re-feeding perio
+
+表6饲料蛋白质水平与饲料系数拟合方程及理论最适蛋白质水平
+
+Table 6Polynomial fiting equation for dietary protein level and FCR and theoretical optimal dietary protein level   
+
+<html><body><table><tr><td>投喂时间 Re-feeding time</td><td>饲料蛋白质水平(x)与饲料系数(y)的拟合方程 Fitting equation of dietary protein level (x) and</td><td>R2</td><td>理论最适饲料蛋白质水平(顶点x值) Theoretical optimal dietary protein level(x value of</td></tr><tr><td></td><td>SGR (y)</td><td></td><td>vertex coordinate)/% 36.3</td></tr><tr><td>第1~14天 Day1 to 14</td><td>y=0.039x2-2.830x+60.1 y=0.005x2-0.408x+11.87</td><td>0.998 0.986</td><td>40.8</td></tr><tr><td>第15~28天 Day15 to 28 第 29~42 天 Day 29 to 42</td><td>y=0.005x2-0.475x+11.68</td><td>0.878</td><td>47.5</td></tr><tr><td>第 43~56天 Day 43 to 56</td><td>y=0.004x2-0.434x+11.72</td><td>0.966</td><td>54.2</td></tr><tr><td>第1~56天 Day 1 to 56</td><td>y=0.000 87x-0.071 17x2+1.656x-6.132</td><td>0.998</td><td>37.7</td></tr></table></body></html>
+
+# 2.4饥饿和恢复投喂后鱼体成分
+
+由表7可知，饥饿第90天鱼体粗脂肪、粗蛋白质含量均显著下降 $( P { < } 0 . 0 5 )$ ，粗灰分和水分显著上升 $( P { < } 0 . 0 5 )$ 。与饥饿第90 天相比，恢复投喂第 56 天各组鱼体粗蛋白质和粗脂肪含量均显著提高 $( P { < } 0 . 0 5 )$ ，鱼体水分和粗灰分含量下降 $( P { < } 0 . 0 5 )$ 。P20 组鱼体粗蛋白质含量显著低于饥饿第0天 $( P { < } 0 . 0 5 )$ ，其余组与饥饿第0天差异不显著 $( P { > } 0 . 0 5 )$ ；P20 和P25 组鱼体粗脂肪含量显著低于饥饿第0天 $( P { < } 0 . 0 5 )$ ；P30、P35和P40 组粗脂肪含量与饥饿第0天差异不显著 $( P { > } 0 . 0 5 )$ ；鱼体水分含量随饲料蛋白质水平上升有所下降，但与恢复投喂第 56天的各组与饥饿第0天均无显著差异 $( P { > } 0 . 0 5 )$ ；P20 和P25组粗灰分含量显著高于其余组( $P$ $< 0 . 0 5 )$ ，但显著低于饥饿第90 天 $( P { < } 0 . 0 5 )$ ，与饥饿第0天无显著差异 $( P { > } 0 . 0 5 )$
+
+表7饥饿和恢复投喂后异育银鲫体成分的变化（干物质基础）
+
+Table 7 Variation of body composition of gibel carp (Carassius auratus gibelio) after starvation and
+
+re-feeding (DM basis) %   
+
+<html><body><table><tr><td>过程 Process</td><td>时间 Time/d</td><td>组别 Groups</td><td>水分 Moisture</td><td>粗蛋白质 Crude protein</td><td>粗脂肪 Crude lipid</td><td>粗灰分 Ash</td></tr><tr><td rowspan="2">饥饿 Starvation</td><td>0</td><td></td><td>68.9±0.4ab</td><td>57.8±0.4c</td><td>17.5±0.4c</td><td>18.8±0.2b</td></tr><tr><td>90</td><td></td><td>71.5±0.6c</td><td>55.7±0.3a</td><td>12.1±0.3a</td><td>20.9±0.5c</td></tr><tr><td rowspan="5">恢复投喂Re-feeding</td><td></td><td>P20</td><td>70.2±0.7b</td><td>57.0±0.5b</td><td>15.4±0.4b</td><td>19.3±0.4b</td></tr><tr><td></td><td>P25</td><td>69.6±0.5b</td><td>58.0±0.6c</td><td>15.9±0.3b</td><td>18.6±0.4b</td></tr><tr><td>56</td><td>P30</td><td>69.5±0.6ab</td><td>58.7±0.5c</td><td>17.9±0.6c</td><td>17.4±0.2a</td></tr><tr><td></td><td>P35</td><td>68.6±0.5a</td><td>58.6±0.7c</td><td>18.3±0.5c</td><td>16.9±0.3a</td></tr><tr><td></td><td>P40</td><td>68.2±0.4a</td><td>58.4±0.6c</td><td>17.7±0.5c</td><td>17.0±0.3a</td></tr></table></body></html>
+
+# 2.5饥饿和恢复投喂后肠道消化酶活性
+
+由表8可知，饥饿第90天，肠道蛋白酶、脂肪酶和淀粉酶活性均显著下降( $\scriptstyle ( P < 0 . 0 5 )$ 。恢复投喂后，消化酶活性增强，其中蛋白酶活性随饲料蛋白质水平升高而升高，恢复投喂第28 天P35、P40 组显著高于其他组 $( P { < } 0 . 0 5 )$ ，恢复投喂第56天P40 组显著高于其他组 $( P <$ 0.05)，脂肪酶活性在不同组间差异不显著 $( P > 0 . 0 5 )$ ，淀粉酶活性随饲料蛋白质水平升高而降低，第 28天P35、P40 组显著低于其他组 $( P { < } 0 . 0 5 )$ ，第 56天P30、P35、P40 组显著低于其他组 $( P { < } 0 . 0 5 )$ 。同一组，恢复投喂第 56天蛋白酶和淀粉酶活性均高于第 28 天。
+
+表8饥饿和恢复投喂后异育银鲫肠道消化酶活性的变化   
+Table 8Variation of activities of intestinal digestive enzymes of gibel carp (Carassius auratus gibelio)   
+
+<html><body><table><tr><td colspan="4">after starvation and re-feeding</td><td colspan="2">U/ (g·min)</td></tr><tr><td>过程</td><td>时间</td><td>组别</td><td>蛋白酶</td><td>脂肪酶</td><td>淀粉酶</td></tr><tr><td rowspan="4">Process</td><td>Time/d</td><td>Groups</td><td>Protease</td><td>Lipase</td><td>Amylase</td></tr><tr><td>0</td><td></td><td>83.0±5.8c</td><td>7.9±1.1°</td><td>12.4±1.2b</td></tr><tr><td>30</td><td></td><td>45.4±3.3b</td><td>2.5±0.4b</td><td>3.3±0.9a</td></tr><tr><td>60</td><td></td><td>19.2±3.9a</td><td>1.2±0.3a</td><td>2.5±0.4a</td></tr><tr><td rowspan="9">恢复投喂 Re-feeding</td><td>90</td><td></td><td>18.7±2.2a</td><td>1.1±0.1a</td><td>2.6±0.2a</td></tr><tr><td></td><td>P20</td><td>122.2±12.1a</td><td>8.2±2.2</td><td>160.2±12.0d</td></tr><tr><td>28</td><td>P25</td><td>145.8±20.3a</td><td>8.5±0.9</td><td>145.6±10.1c</td></tr><tr><td></td><td>P30</td><td>220.4±25.1b</td><td>8.9±1.1</td><td>120.7±13.4b</td></tr><tr><td></td><td>P35</td><td>255.2±31.0c</td><td>8.6±0.6</td><td>90.1±11.2a</td></tr><tr><td></td><td>P40</td><td>244.7±29.3c</td><td>8.8±0.7</td><td>88.8±9.2a</td></tr><tr><td rowspan="4">56</td><td>P20</td><td>180.5±24.0a</td><td>8.6±1.0</td><td>190.7±8.2c</td></tr><tr><td>P25</td><td>260.3±10.6b</td><td>9.5±2.2</td><td>160.4±11.8b</td></tr><tr><td>P30</td><td>389.5±28.2c</td><td>9.3±0.3</td><td>125.5±20.0a</td></tr><tr><td></td><td>P35 P40</td><td>400.0±19.2c 415.7±22.1d</td><td>8.9±1.0 9.2±0.4</td><td>120.3±17.1a 107.7±15.4a</td></tr></table></body></html>
+
+饥饿不同时间点间、恢复投喂第28天各组间、恢复投喂第56天各组间数据肩标无字母或相同字母表
+
+示差异不显著 $( P { > } 0 . 0 5 )$ ，不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。
+
+In diferent starvation time points,diffrent groups atday 28 after re-feeding and diferent groups at day 56 after re-feeding,values with no leter or the same letter superscripts mean no significant difference $( P > 0 . 0 5 )$ ， while with different letter superscripts mean significant difference ( $\scriptstyle ( P < 0 . 0 5 )$ ）
+
+# 3讨论
+
+# 3.1长期饥饿对异育银鲫幼鱼的影响
+
+动物生长与食物摄取直接相关，不同物种、同一物种的不同生长阶段对饥饿耐受能力不同，对鱼类而言，饥饿会直接影响仔稚鱼的存活，初孵仔鱼饥饿不可逆点为 $6 { \sim } 1 0 \mathrm { d } ^ { [ 1 1 - 1 4 ] }$ ；幼鱼可以耐受数月饥饿，但长期饥饿会导致生长停滞甚至逆生长[10]；饥饿对成鱼的繁殖性能影响极大，会导致性腺发育异常甚至停滞[15]。短期饥饿后恢复投喂，鱼体体形、消化道结构和功能等可逐渐恢复到正常状态，甚至出现补偿生长现象；但长期饥饿对鱼体的影响是不可逆的，恢复到正常体形所需时间更长[16]，机体也将持续处于生长滞后状态[17-18]。本试验中异育银鲫幼鱼经过90d饥饿，体重和肥满度显著下降，恢复投喂后，虽可以恢复摄食并获得生长，但生长明显滞后。饥饿消耗自身储能物质通常表现为腹部脂肪明显减少、肝组织溃散、肝细胞萎缩、身体逐渐消瘦[19-20]；鱼体成分也会发生变化，鱼体和内脏组织蛋白质、脂肪含量明显下降[21-22]；长期饥饿还会引起消化道形态结构改变，细胞减少并萎缩，肌纤维排列疏松，肠道绒毛损伤等[4]。本试验中异育银鲫幼鱼在长期饥饿后，体重下降，肝脏、肠道均出现萎缩，消化酶活性呈现先升高后逐渐降低，第60大开始稳定在较低水平，表示饥饿超过60d已经对鱼体造成胁迫。饥饿导致物质消耗过程一般先动用脂肪组织，其次是蛋白质，生产上，可利用这种规律达到降低鱼体脂肪含量的目的，但是短期饥饿效果并不明显，夏耘等[23]研究发现饥饿15d尚不能显著降低草鱼脂肪含量，持续饥饿50d脂肪含量出现显著下降。本试验中虽未对饥饿过程中鱼体成分进行连续监测，但饥饿90d后的草鱼幼鱼体粗脂肪和粗蛋白质含量均显著下降，说明长期饥饿在减脂的同时也降低了鱼体蛋白质水平。
+
+# 3.2长期饥饿后异育银鲫幼鱼对饲料蛋白质的需求
+
+长期以来，对异育银鲫的营养需求开展了大量研究，不同蛋白质水平饲料会造成生长、消化生理、免疫代谢的差异[24-25]。不同生长阶段适宜的饲料蛋白质水平有较大差异，已有研究显示，异育银鲫仔稚鱼适宜饲料蛋白质水平为 $40 \% { \sim } 4 5 \%$ ，幼鱼适宜饲料蛋白质水平为$3 0 \% { \sim } 4 0 \% ^ { [ 2 6 - 2 8 ] }$ ，高蛋白质水平饲料可促进性腺发育、提高繁殖力[15]。相似生长阶段也可能因饲料配方和养殖环境的不同表现出对蛋白质水平需求的差异，Zhao 等[29]研究指出，高投喂频率和高蛋白质水平会增加异育银鲫摄食量、提高 SGR和饲料效率，生长率与摄食量直接相关，饲料蛋白质水平较低时，可适当增加投喂次数以满足营养需求。一定条件下，低蛋白质水平饲料会促进鱼类摄食，可能是干物质和消化能偏低导致了摄食补偿[30]。本试验恢复投喂后，饲料中蛋白质水平越高生长越快，FCR 越低，综合考虑生长、FCR、蛋白质源等条件，经历长期饥饿的异育银鲫幼鱼适宜饲料蛋白质水平为 $3 5 \% { \sim } 4 0 \%$ ，但长期饥饿对鱼体的影响难以被高蛋白质水平饲料完全补偿。SGR:FCR 较高说明此投喂效果较好，策略较优[30]，P35 和 P40 组该比值较大且无显著差异，以饲料蛋白质水平 $( x )$ 和 SGR:FCR（y）建立三项式回归方程： $y { = } { - } 0 . 0 0 0 2 7 6 x ^ { 3 } { + } 0 . 0 2 4 4 8 x ^ { 2 } { - } 0 . 6 6 4 x { + } 5 . 8 5 2$ ，显示当饲料蛋白质水平为 $3 8 . 1 \%$ 时，可获得理论最大SGR:FCR，由此推测，理论最适蛋白质水平为 $3 8 . 1 \%$ 。二项式回归分析获得的理论最适饲料蛋白质水平高于实际最优值，表示在实际最优值和理论最适水平范围内，均可能适宜于异育银鲫的恢复生长，此范围内 SGR 和FCR变化不大。
+
+# 3.3异育银鲫幼鱼饥饿再投喂的适应过程
+
+鱼类耐饥饿能力与环境条件特别是温度的相关性较大，摄食与水温直接相关，适宜温度范围内，摄食量与温度呈正相关关系。鱼类越冬期间仍会保持一定摄食量，越冬后体重可能会有所增加[31-32]，一般温水性鱼类在水温降至5℃以下会减少甚至停止摄食，有研究显示在冬季低温期到来之前提前停止投喂饲料有助于提高养殖鱼类越冬成活率，低温下饱食投喂对鱼体生理机能的影响大于饥饿造成的影响[33]。人工养殖过程中会根据养殖鱼类的摄食习性调整投喂策略，水温下降时相应减少投喂次数和投喂量[34]；水温较低时，鱼体代谢降低，对营养物质的利用率下降，能量分配机制也会发生变化[335]，以最大限度地保持体重，水温回升后，鱼体基础代谢随之上升，活动能力增强，鱼类能够逐渐恢复摄食并获得生长。本试验中饥饿期间水温15℃，低温鱼体的代谢和活动能力偏低，物质和能量消耗较慢，但此条件下长期饥饿仍会造成鱼体消化代谢功能下降，影响鱼体在重新获得食物后对营养物质的利用。营养胁迫的程度不同，采取的补偿策略也会有所不同，主要通过提高摄食水平和食物转化率来共同实现[36-37]。
+
+一般情况下，发育早期的 SGR 要高于后期[30.32]，本试验中饥饿后鱼体早期 SGR 较低，而 FCR 较高，说明早期摄食能量大部分用于机体生理、代谢功能恢复，极少部分用于生长，投喂后期 SGR 升高，且FCR下降，摄取能量更多地被用于生长补偿[32.37]。恢复投喂 56 d后，P20 和P25 组获得体重和肥满度均较低，且FCR 较高，表示此2组饲料均不适宜用于饥饿胁迫的幼鱼。但在投喂初期（第1\~14天)，不同蛋白质水平饲料对生长的促进作用均不显著，且FCR较高；各组体重差异不显著，且低蛋白质组摄食积极性高于高蛋白质组。对SGR 和FCR的回归分析结果也体现了投喂初期蛋白质需求水平要低于后期。这可能是由于饥饿胁迫严重影响了摄食和消化代谢功能[6.37]；恢复投喂初期，鱼体以重新适应饵料为主，而鱼体对不同蛋白质水平饲料的利用及适应过程存在差异，这种差异与脏器结构和功能直接相关[24]；长期饥饿后，肝脏和消化道萎缩，消化酶活性较低，功能退化后对低蛋白质水平饲料适应性可能更强，机体可通过增加摄食量获得更多物质和能量；高蛋白质水平饲料代谢压力较大，可能难以被快速适应和利用[28-29]；随着摄食趋于正常，消化、代谢器官结构和功能逐渐恢复，机体对高蛋白质水平饲料的利用能力提高，摄食和代谢水平逐渐上升，生长加快。本试验中恢复投喂后期各组消化酶活性高于前期，高蛋白质组肠道蛋白酶活性高于低蛋白质组，肠道组织形态及消化酶活性等指标变化也体现了鱼体对不同蛋白质水平饲料的适应状态。恢复投喂初期，过高蛋白质水平可能会造成代谢压力和资源浪费，以较低蛋白质水平饲料饲喂使机体适应摄食和恢复消化功能后，给予较高蛋白质水平饲料可能更有利于鱼体生长恢复。但饥饿再投喂初期的物质和能量代谢仍需进一步研究以获得恢复期的实际营养需求、恢复所需时间及两者间的关系，为获得最大补偿生长提供理论基础。
+
+本试验为保证各组能量水平，在异育银鲫幼鱼可利用范围之内添加了不同水平的碳水化合物，上述不同饲料蛋白质水平对异育银鲫生长、生理、消化等作用及其对恢复投喂的适应一定程度上可能受到饲料中碳水化合物的影响。另外，长期饥饿后机体瘦弱，脂肪含量下降明显，代谢水平较低，对饲料中脂肪、能量及其他营养物质的需求和利用与正常状态下机体需求也可能存在差异，仍需进一步研究和验证。研究长期饥饿鱼类对饲料营养物质实际需求和适应过程以及相应的投喂策略，可为养殖中机体恢复、补偿生长、饲料利用、水质条件控制等提供一定思路。
+
+4结论
+
+$\textcircled{1}$ 长期饥饿后异育银鲫幼鱼对不同蛋白质水平饲料的利用及适应过程有较大差异。
+
+$\textcircled{2}$ 恢复投喂初期，饲料蛋白质水平对生长影响不大，机体摄食及消化功能逐渐恢复后，较高蛋白质水平 $( 3 5 \% { \sim } 4 0 \%$ )可有效促进生长。
+
+$\textcircled{3}$ 回归分析获得理论最适饲料蛋白质水平为 $3 8 . 1 \%$ 。   
+参考文献:   
+[1]朱站英,华雪铭,于宁,等.草鱼蛋白质和脂肪代谢对饥饿胁迫的响应[J].水产学 报,2012,36(5):756-763.   
+[2]华雪铭,朱站英,邢思华,等.饥饿对草鱼非特异免疫水平的影响[J].动物学杂 志,2012,47(2):91-97.   
+[3] 李江涛,林小涛,周晨辉,等.饥饿对食蚊鱼和唐鱼幼鱼能量物质消耗及游泳能力的影响[J]. 应用生态学报,2016,27(1):282-290.   
+[4] 高露姣,陈立侨,宋兵,等.饥饿对杂交鲟消化系统发育的影响[J].上海海洋大学学 报,2006,15(4):442-447.   
+[5]HERVANT F,MATHIEU J,DURAND J.Behavioural,physiological and metabolic responses to long-term starvation and refeeding in a blind cave-dwelling (Proteus anguinus） and a surface-dwelling(Euproctusasper)salamander[J].JournalofExperimental Biology,2001,204(2):269-281.   
+[6] RIOS F S,KALININ A L,FERNANDES M N,et al.Changes in gut gross morphology of traira,Hoplias malabaricus (Teleostei,Erythrinidae） during long-term starvation and after refeeding[J].Brazilian Journal of Biology,2004,64(3b):683-689.   
+[7] AZODI M,EBRAHIMI E,MOTAGHI E,et al.Metabolic responses to short starvation and re-feeding in rainbow trout(Oncorhynchusmykiss)[J].Ichthyological Research,2015,62(2):177-183.   
+[8] KAJIMURA M,WALSH P J,WOOD C M.The spiny dogfish Squalus acanthias L. maintains osmolyte balance during long-termstarvation[J].Journalof Fish Biology,2008,72(3):656-670.   
+[9] 杜启艳,王萍,王友利,等.长期饥饿和再投喂对泥鳅不同组织糖原、酸性磷酸酶和碱性磷酸 酶的影响[J].江西师范大学学报（自然科学版）,2008,32(4):488-493.   
+[10] 汤洪芬.饥饿对鲇鱼幼鱼静止代谢率、身体组成及力竭性运动后过量耗氧的影响[D].硕士 学位论文.重庆:重庆师范大学,2007:8-13.   
+[11]王晓龙,温海深,张美昭,等.花鲈初孵仔鱼饥饿不可逆点的确定及摄食节律研究[J].中国海 洋大学学报（自然科学版）,2017,47(5):57-64.   
+[12]万瑞景,李显森,庄志猛,等.鲲鱼仔鱼饥饿试验及不可逆点的确定[J].水产学 报,2004,28(1):79-83.   
+[13]许郑超,王国成,刘青,等.金鲫仔鱼的饥饿实验和不可逆点研究[J].水产养 殖,2015,36(4):14-19.   
+[14]王剑伟,乔晔,陶玉岭.稀有鹪鲫仔鱼的摄食和耐饥饿能力[J].水生生物学 报,1999,23(6):648-654.   
+[15]龙勇.饲料蛋白水平对异育银鲫雌性性腺发育的影响[D].硕士学位论文.重庆:西南农业大 学,2005:19-28.   
+[16] HEIDE A,FOSS A,STEFANSSON S O,et al.Compensatory growth and filet crude composition in juvenile Atlantic halibut:effects of short term starvation periods and subsequent feeding[J].Aquaculture,2006,261(1):109-117.   
+[17] 陈路.蛋白质限量后恢复投喂对草鱼与青鱼生长及代谢酶活性的影响[D].硕士学位论文. 合肥：安徽农业大学,2016:11-22.   
+[18] WIESER W,KRUMSCHNABEL G,OJWANG-OKWOR J P.The energetics of starvation and growth after refeeding in juveniles of three cyprinid species[J].Environmental Biology of Fishes,1992,33(1/2):63-71.   
+[19]封功能,杨文平,王爱民,等.饥饿胁迫对鲤形体、体成分及血液生理指标的影响[J].上海海 洋大学学报,2011,20(6):814-819.   
+[20]金鑫,徐钢春,杜富宽,等.饥饿胁迫对刀形体、体成分及血液生化指标的影响[J].动物学 杂志,2014,49(6):897-903.   
+[21] LUO Z,TAN X Y,WANG W M,et al.Efects of long-term starvation on body weight and body composition of juvenile channel catfish,Ictalurus punctatus,with special emphasis on amino acid and fatty acid changes[J].Journal of Applied Ichthyology,2009,25(2):184-189.   
+[22]王婷.河鳗(Anguilla japonica)经人工催熟及长期饥饿后生化组成与血细胞结构的变化[D]. 硕士学位论文.上海:上海海洋大学,2015:21-26.   
+[23]夏耘,余德光,谢骏,等.短期饥饿对草鱼肌肉质构的影响[J].食品工业科 技,2017,38(9):102-107.   
+[24] TU Y Q,XIE S Q,HAN D,et al.Growth performance,digestive enzyme,transaminase and GH-IGF-I axis gene responsiveness to different dietary protein levels in broodstock allogenogynetic gibel carp (Carassius auratus gibelio) CAS III[J].Aquaculture,2015,446:290-297.   
+[25]张晓华,杨严鸥,岳鼎鼎,等.低蛋白饲料对异育银鲫肠道抗氧化指标的影响[J].长江大学学 报（自科版）,2016,13(27):33-35.   
+[26] QIAN X,CUI Y,XIONG B,et al.Compensatory growth,feed utilization and activity in gibel carp,following feed deprivation[J].Journal of Fish Biology,20oo,56(1):228-232.   
+[27]陈然,华雪铭,黄旭雄,等.玉米蛋白粉替代鱼粉对异育银鲫生长、蛋白酶活性及表观消化率 的影响[J].上海交通大学学报（农业科学版）,2009,27(4):358-367.   
+[28] YE W,HAN D,ZHU X,et al.Comparative studies on dietary protein requirements of juvenile and on-growing gibel carp (Carassiusauratusgibelio) based on fishmeal-free diets[J].Aquaculture Nutrition,2015,21(3):286-299.   
+[29] ZHAO S B,HAN D,ZHU X M,et al.Efects of feeding frequency and dietary protein levels on juvenile allogynogenetic gibel carp (Carassius auratus gibelio) var. CAs III:growth,feed utilizationandserumfreeessentialaminoacidsdynamics[J].Aquaculture Research,2016,47(1):290-303.   
+[30] WU B L,XIONG X Q,XIE S Q,et al.Dietary lipid and gross energy affect protein utilization inthe rare minnow Gobiocyprisrarus[J].Chinese Journal of Oceanologyand Limnology,2016,34(4):740-748.   
+[31]徐浩,张东玲,陈庆凯,等.低温下饥饿胁迫对大黄鱼血清生化指标的影响[J].生物技术通 报,2015,31(6):195-199.   
+[32] NICIEZA A G,METCALFE N B.Growth compensation in juvenile Atlantic salmon on:responses to depressed temperature and food availability[J].Ecology,1997,78(8):2385-2400.   
+[33]刘国才,温海深,崔雅杰.北方鱼类越冬期肠内含物组成及冰下摄食情况[J].华北农学 报,1996,11(3):128-132.   
+[34] WU B L,LUO S,WANG J W.Effects of temperature and feeding frequency on ingestion and growth for rare minnow[J].Physiology & Behavior,2015,140:197-202.   
+[35] YUAN Q,WANG Q D,ZHANG T L,et al.Efects of water temperature on growth,feeding and molting of juvenile Chinese mitten crab Eriocheir sinensis[J].Aquaculture,2017,468:169-174.
+
+[36] 房景辉,田相利,姜海滨,等.不同循环投喂模式对半滑舌鳎的生长、体成分组成、代谢和能量收支的影响[J].水产学报,2011,35(7):1090-1097.
+
+[37] PERAGON J,BARROSO J B,GARCIA-SALGUERO L,et al.Selective changes in the protein-turnover rates and nature of growth induced in trout liver by long-term starvation followed by re-feeding[J].Molecular and Cellular Biochemistry,1999,201(1/2):1-10.
+
+Requirement of Dietary Protein in Gibel Carp (Carassius auratus gibelio) Suffered from Long-Term Starvation
+
+WU Benli HUANG Long HE Jixiang\* CHEN Jing SONG GuangtongWU Song (Institute ofFisheries,Anhui Academy ofAgricultural Sciences,Hefei 230o31,China)
+
+Abstract: This study was conducted to obtain the requirement of dietary protein level for juvenile gibel carp (Carassius auratus gibelio) suffered from long-term starvation and its adaptive strategies. The juvenile gibel carp $[ ( 1 1 . 6 { \pm } 0 . 4 )$ g] were fasted for $9 0 \mathrm { ~ d ~ }$ under $( 1 5 . 2 { \pm } 2 . 0 ) \$ ， $\mathrm { { ^ \circ C } }$ of water temperature,and then diets with protein levels of $20 \%$ (P20), $2 5 \%$ (P25), $30 \%$ (P30), $3 5 \%$ （20 (P35) and $40 \%$ (P40) were provided, respectively. The re-feeding trial lasted $5 6 ~ \mathrm { d }$ under $( 2 4 . 4 \pm 2 . 2 ) \$ $\mathrm { { ^ \circ C } }$ of water temperature.Variations of body measurements, viscera index,body composition and activities of intestinal digestive enzymes and were measured during starvation and re-feeding periods. The results showed as follows: 1) after $9 0 \mathrm { ~ d ~ }$ of starvation, body weight was significantly decreased $( P { < } 0 . 0 5 )$ ,liver index and intestinal tract length index were significantly decreased $P$ $< 0 . 0 5 )$ ,activities of intestinal digestive enzymes were significantly decreased $( P < 0 . 0 5 )$ ，body moisture and ash content were significantly decreased ( $\ P < 0 . 0 5 ) ,$ ，and body crude protein and crude lipid were significantly decreased ( $\scriptstyle \overbrace { P } < 0 . 0 5$ ). 2） Afterre-feeding, on day 14,there was no significant difference on body weight among groups $( P > 0 . 0 5 )$ ; on day 28,body weight of P20 group was significantly lower than that of P30, P35 and P40 groups $( P { < } 0 . 0 5 )$ ; on day 42 and 56, body weight of P35 and P40 groups was significantly higher than that of the other groups ( $P <$ 0.05),and specific growth rate (SGR) and feed conversion ratio (FCR) in these two groups were close. 3) On day 56 of re-feeding, body crude protein content of P20 group was significantly lower than that of the other groups ( $P < 0 . 0 5 )$ ,body crude lipid content of P2O and P25 groups was significantly lower than that of the other groups $( P < 0 . 0 5 )$ ，body ash content of P20 and P25 groups was significantly higher than that of the other groups $( P { < } 0 . 0 5 )$ ),and body moisture content of P20 and P25 groups was significantly higher than that of P35 and P40 groups $( P < 0 . 0 5 )$ . 4) After re-feeding，activities of intestinal digestive enzymes were gradually increased; protease activity was increased with the improvement of dietary protein level, P35 and P40 groups were significantly higher than the other groups on day 28 ( $\lceil P < 0 . 0 5 \rceil$ , and P40 group was significantly higher than the other groups on day 56 $\ P < 0 . 0 5 )$ ； amylase activity was decreased with the improvement of dietary protein level, P35 and P40 groups were significantly lower than the other groups on day 28 ( $( P { < } 0 . 0 5 )$ ,and P30,P35 and P40 groups were significantly lower than the other groups on day 56 ( $\ P < 0 . 0 5 )$ . In conclusion, there are differences in utilization and adaptive process to diets with different dietary protein levels for juvenile gibel carp suffered from long-term starvation; at the early stage of re-feding, the growth is not affected by dietary protein level,but high dietary protein level as $3 5 \%$ to $40 \%$ will promote the growth after recovery of ingestion and digestive function,and the theoretical optimal dietary protein level is $3 8 . 1 \%$ ：
+
+Key words: Gibel carp (Carassius auratus gibelio); long-term starvation; dietary protein level;
+
+specific growth rate; feed conversion ratio

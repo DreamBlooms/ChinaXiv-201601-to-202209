@@ -1,0 +1,157 @@
+# 褪黑激素对獭兔生长性能及皮毛质量的影响1
+
+郑建婷 任克良\*曹　亮　李燕平牛晓艳 冯国亮（山西省农业科学院畜牧兽医研究所，太原030032）
+
+摘要：本试验旨在研究褪黑激素对獭兔生长性能及皮毛质量的影响。采用单因子试验设计，选取 55\~60日龄体重相近的健康生长獭兔200只，随机分为4组，每组50只兔。对照组饲喂基础饲粮，试验组分别饲喂含不同水平褪黑激素（10、25、 $4 0 \mathrm { m g / k g }$ ）的试验饲粮。试验期为 $9 9 \mathrm { d }$ 。结果表明： $6 0 \sim 1 5 0$ 日龄，各试验组平均日增重均极显著高于对照组 $( P { < } 0 . 0 1 )$ 各试验组料重比均极显著低于对照组 $( P { < } 0 . 0 1 )$ 。90、120、130、150日龄各试验组被毛密度均极显著高于对照组（ $\scriptstyle \left. P < 0 . 0 1 \right)$ 。 $4 0 \mathrm { m g / k g }$ 试验组臀部、肩部、腹部的皮张厚度均显著或极显著低于对照组 $( P { < } 0 . 0 5$ 或 $\scriptstyle P < 0 . 0 1 { \mathrm { ~ } }$ )。由此可见，褪黑激素能够提高獭兔平均日增重，降低料重比，同时提高獭兔被毛密度，促进獭兔皮张提前成熟。
+
+关键词：獭兔；褪黑激素；生长性能；毛皮品质中图分类号：S829.1 文献标识码： 文章编号：
+
+獭兔，学名力克斯兔(Rex rabbit)，是一种典型的皮用兔，獭兔皮具有"绒毛细、密、平整、色型多、光泽好，皮极轻柔、保暖性好"等特点，根据獭兔生长发育和被毛脱换规律，要获得优质獭兔皮张，獭兔从出生到出栏取皮，饲养时间必须达 5\~6个月龄，体重在 $2 . 7 5 \mathrm { k g }$ 以上，故饲养周期长，经济效益低下。目前，国内外主要研究的褪黑激素在家兔及长毛兔生产中的应用方式为埋植及喷洒在颗粒料上进行饲喂，未见直接在饲粮中以预混料的形式添加褪黑激素的应用方式，因此，基于褪黑激素广泛存在于胃肠道中，而且胃肠道各段黏膜、基底膜上均有褪黑激素的结合位点，同时参考饲喂褪黑激素对其他畜禽生长性能等的影响试验，本试验通过在饲粮中直接添加褪黑激素从而研究褪黑激素在獭兔生产中的最适应用方式。
+
+# 1材料与方法
+
+1.1试验材料试验兔为200只体重相近的55\~60日龄生长獭兔。
+
+# 1.2 饲粮组成与营养水平
+
+对饲料原料的营养价值进行评价后，选用玉米、麸皮、豆粕、酒精蛋白、棉籽饼、菜籽饼、谷草、花生壳等原料，按照生长兔饲养标准，配制成基础饲粮。在基础饲粮配方的基础上，在预混料中分别添加不同水平（10、25、 $4 0 \mathrm { m g / k g }$ ）的 $0 . 1 \%$ 的褪黑激素预混合添加剂，配制成试验饲粮。所有饲粮均加工成颗粒直径为 $4 { \sim } 6 \mathrm { m m }$ 的颗粒饲料。基础饲粮组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (干物质基础)
+
+项目Items 含量Content   
+原料 Ingredients   
+玉米 Corn 22.00   
+麸皮Wheat bran 14.00   
+豆粕 Soybean meal 16.00   
+酒精蛋白 Alcohol protein 6.00   
+棉籽饼 Cottonseed meal 2.00   
+菜籽饼 Rapeseed meal 2.00   
+花生壳 Peanut shell 5.00   
+稻草Rice straw 20.00   
+苜蓿Alfalafa meal 5.00   
+松针粉 Pine needle powder 3.00   
+磷酸氢钙 CaHPO4 0.30   
+石粉Limestone 2.20   
+沸石粉 Zeolite 1.00   
+食盐 NaCl 0.50
+
+# ChinaXiv合作期刊
+
+预混料 Premix1) 1.00  
+合计 Total 100.00  
+营养水平 Nutrient levels2)  
+消化能DE/（MJ/kg) 10.23  
+粗蛋白质CP 16.68  
+粗纤维CF 15.61  
+粗灰分 Ash 5.38  
+钙Ca 1.21  
+磷P 0.54  
+中性洗涤纤维 NDF 49.55  
+酸性洗涤纤维ADF 17.36
+
+1)预混料为每千克饲粮提供 The premix provided the following per kilogram of the diet：VA 6 000 IU, $\mathrm { V D } _ { 3 }$ 1 000 IU, VE $4 0 \mathrm { m g }$ ，赖氨酸Lys $2 . 0 \ \mathrm { g }$ ，蛋氨酸Met $1 . 0 \ \mathrm { g }$ , Cu (as copper sulfate) $5 0 \mathrm { m g }$ ，Fe (as ferrous sulfate) $5 0 \mathrm { m g }$ ， Zn (as zinc sulfate) $5 0 \mathrm { m g }$ ，Mn (as manganese sulfate) 10 mg。   
+2)消化能为计算值，其余为实测值。DE was a calculated value,while the others were measured values.
+
+# 1.3试验设计与饲养管理
+
+选择健康的55\~60日龄断奶白色獭兔200只，根据体重、性别随机分配于4组，每组50只兔。对照组饲喂基础饲粮，试验组（I、II、IⅢ组）分别饲喂含不同水平褪黑激素（10、25、 $4 0 \mathrm { m g / k g } \dot { . }$ ）的试验饲粮。预试期为5d，试验期为99d。试验前对兔舍及兔笼进行清洗、消毒。全部试验兔在同一兔舍内笼养，单笼饲养，免疫接种。各组试验兔管理和卫生条件相同。监测整个试验期所有试验兔的健康状况并记录。试验兔每日08:00、17:00饲喂2次，并记录采食量，自由饮水。
+
+# 1.4 测定指标与方法
+
+试期开始时于当天晨饲前空腹称重作为试验始重，在试验兔90、120及150日龄时清晨空腹称重，每天记录采食量，计算平均日增重（average daily gain,ADG)、平均日采食量（average daily feed intake,ADFI）和料重比（feed/gain,F/G）。
+
+90、120、130及150日龄时测量臀部被毛密度，测定3次，取其平均值。被毛密度按照谷子林等[方法测定。试验兔屠宰后测定皮张长、宽，计算皮张面积，并在臀部、腹部及肩部3个部位以工业游标卡尺测量皮肤厚度，每个部位测定2次，取其平均值。兔毛强度及直径送山西省纤维检验局测定；试验兔粗毛率采取人工计数，随机计数200根兔毛，记录其中粗毛数，计算粗毛率。
+
+# 1.5 数据处理
+
+试验数据用Excel2007进行初步统计，然后采用SPSS19.0统计软件中的ANOVA过程进行单因子方差分析，用Duncan氏法多重比较检验，结果用平均值±标准差表示。
+
+# 2结果与分析
+
+# 2.1褪黑激素对獭兔生长性能的影响
+
+由表2可知，150日龄时，各试验组獭兔体重都显著高于对照组 $( P { < } 0 . 0 5 )$ 。这表明饲喂褪黑激素能够提高獭兔的生长速度，以II组表现最优。
+
+# 表2褪黑激素对獭兔体重的影响
+
+Table 2Effects of melatonin on body weight of Rex rabbits g   
+
+<html><body><table><tr><td>组别</td><td colspan="4">日龄 Days of age</td></tr><tr><td>Groups</td><td>60</td><td>90</td><td>120</td><td>150</td></tr><tr><td>对照 Control</td><td>1 604.55±134.61</td><td>1 964.20±162.23ab</td><td>2 309.00±186.19</td><td>2 613.94±227.95a</td></tr><tr><td>I</td><td>1 558.09±124.69</td><td>1900.19±153.92a</td><td>2 299.63±110.58</td><td>2 698.48±147.33b</td></tr><tr><td>II</td><td>1 608.66±141.55</td><td>1 984.55±129.73b</td><td>2 301.97±114.09</td><td>2 724.09±144.08b</td></tr><tr><td>IⅢI</td><td>1 588.95±129.61</td><td>1924.84±147.26ab</td><td>2 256.77±151.40</td><td>2 720.91±158.18b</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 \rangle$ ，不同大写字母表示差异极显著（ $. P { < } 0 . 0 1 \ \cdot$ )，相同或无字母表示差异不显著（ $( P { > } 0 . 0 5 )$ 。下表同。
+
+In the same column, values with different small letter superscripts mean significant difference （2 $( P { < } 0 . 0 5 )$ , and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ，while with the same or no letter superscripts mean no significant diference ( $( P { > } 0 . 0 5 )$ . The same as below.
+
+由表3可知，121\~150 日龄，各试验组獭兔 ADG 极显著高于对照组 $( P { < } 0 . 0 1 )$ ，以I组最高；从全期（60\~150 日龄）来看，各试验组獭兔ADG均极显著高于对照组 $( P { < } 0 . 0 1 )$ 。各组獭兔ADFI在各个阶段差异均不显著（ $\cdot P { > } 0 . 0 5$ )。121\~150日龄，对照组及I、Ⅱ、Ⅲ组獭兔F/G 分别为12.92、10.35、11.36 和10.38，I、I组显著低于对照组 $( P { < } 0 . 0 5 )$ ；从全期来看，各试验组獭兔F/G均极显著低于对照组 $( P { < } 0 . 0 1 )$ 。这表明饲喂褪黑激素能够提高獭兔生长性能。
+
+# 表3褪黑激素对獭兔生长性能的影响
+
+Table 3Effects of melatonin on growth performance of Rex rabbits   
+
+<html><body><table><tr><td>项目</td><td>组别</td><td colspan="4">日龄 Days of age</td></tr><tr><td>tems</td><td>Groups</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>60～90</td><td>91～120</td><td>121~150</td><td>60~150</td></tr><tr><td></td><td>对照</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>11.54±2.68</td><td>11.28±2.87ab</td><td>11.75±2.87Aa</td><td>11.43±2.25Aa</td></tr><tr><td></td><td>Control</td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重</td><td></td><td></td><td></td><td></td><td>12.84±1.48Bb</td></tr><tr><td>ADG/g</td><td>I</td><td>11.86±2.33</td><td>12.75±3.19b</td><td>14.92±4.15Bb</td><td></td></tr><tr><td></td><td>ⅡI</td><td>12.24±2.78</td><td>10.54±1.97a</td><td>13.79±2.79Bb</td><td>12.61±1.41Bb</td></tr><tr><td></td><td>Ⅲ</td><td>12.00±3.07</td><td>10.71±2.98ab</td><td>14.46±2.67Bb</td><td>12.74±1.68Bb</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>对照</td><td></td><td></td><td></td><td>116.39±5.68</td></tr><tr><td></td><td></td><td>97.81±1.24</td><td>116.79±1.58</td><td>142.46±9.21</td><td></td></tr><tr><td>平均日采食量</td><td>Control</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>I</td><td>96.74±4.00</td><td>115.91±6.04</td><td>144.41±1.74</td><td>116.84±3.90</td></tr><tr><td>ADFI/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Ⅱ</td><td>97.46±1.62</td><td>116.72±2.16</td><td>143.97±1.98</td><td>118.09±3.22</td></tr><tr><td></td><td>Ⅲ</td><td>96.97±2.69</td><td>117.27±0.79</td><td>144.46±1.27</td><td>117.69±3.35</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>对照</td><td></td><td>11.24±3.92ab</td><td></td><td>10.69±2.24Aa</td></tr><tr><td></td><td></td><td>8.51±1.89</td><td></td><td>12.92±3.84a</td><td></td></tr><tr><td>料重比</td><td>Control</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>I</td><td>8.56±2.37</td><td>9.79±2.79a</td><td>10.35±2.86b</td><td>9.31±1.04Bb</td></tr><tr><td>F/G</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>ⅡI</td><td>8.21±1.72</td><td>12.48±4.51b</td><td>11.36±3.61ab</td><td>9.53±1.04Bb</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Ⅲ</td><td>8.53±2.83</td><td>11.73±2.99ab</td><td>10.38±2.17b</td><td>9.47±1.18Bb</td></tr></table></body></html>
+
+# 2.2褪黑激素对獭兔皮毛质量的影响
+
+由表4可知，90、120、130、150日龄，各试验组獭兔被毛密度均极显著高于对照组（P${ < } 0 . 0 1 { \mathrm { \Omega } }$ )；130、150日龄獭兔被毛密度随着褪黑激素水平的增加而增加。各试验组獭兔被毛密度在130日龄时即达到对照组150日龄的水平，表明褪黑激素可使獭兔皮毛提前 20d成熟，提高了经济效益。
+
+# 表4褪黑激素对獭兔被毛密度的影响
+
+Table 4Effects of melatonin on hair density of Rex rabbits 根/cm²   
+
+<html><body><table><tr><td colspan="2">组别Groups</td><td colspan="3">日龄 Days of age</td></tr><tr><td></td><td>90</td><td>120</td><td>130</td><td>150</td></tr><tr><td>对照</td><td>18 257.76±1</td><td>20 792.24±1</td><td>20 757.82±1</td><td>22 341.33±852.08Aa</td></tr><tr><td>Control</td><td>030.13Aa</td><td>310.15Aa</td><td>217.63Aa</td><td></td></tr><tr><td>I</td><td>19 222.32±1</td><td>21 595.21±2</td><td>22 465.89±1</td><td>23 400.11±882.27Bb</td></tr><tr><td rowspan="3">I</td><td>170.23Bb</td><td>276.64Bb</td><td>195.45Bb</td><td></td></tr><tr><td>19 215.02±1</td><td>22 061.95±1</td><td>22</td><td>23 734.78±1</td></tr><tr><td>144.59Bb</td><td>153.51Bb</td><td>896.63±948.74BCbc</td><td>037.94BCbc</td></tr><tr><td>ⅢI</td><td>19 126.31±1</td><td>21 613.13±1</td><td>23 266.15±1132.04Cc</td><td>23 837.79±817.79BCbc</td></tr><tr><td></td><td>492.92Bb</td><td>195.26Bb</td><td></td><td></td></tr></table></body></html>
+
+由表5可知，对照组与各试验组獭兔盐皮皮张面积差异不显著（ $P { > } 0 . 0 5 \$ )；对照组的臀部皮张厚度极显著大于ⅡI、IⅢ组 $( P { < } 0 . 0 1 )$ ，但与I组之间差异不显著（ $P { > } 0 . 0 5$ )，I组的臀部皮张厚度极显著大于 $\mathrm { I I }$ 组 $( P { < } 0 . 0 1 )$ ，但与IⅢ组之间差异不显著（ $\mathrm { \Phi } _ { P > 0 . 0 5 } \mathrm { \cdot }$ )，Ⅱ组与Ⅲ组之间差异不显著（ $\cdot P { > } 0 . 0 5 ) .$ ；对照组与I、Ⅱ组的肩部皮张厚度显著大于IⅢI组 $( P { < } 0 . 0 5 )$ ，但对照组与I、Ⅱ组之间差异不显著（ $\cdot P { > } 0 . 0 5 \$ )，I组的肩部皮张厚度显著大于 $\mathrm { I I }$ 组 $( P { < } 0 . 0 5 )$ ：对照组与I组的腹部皮张厚度极显著大于 $\mathrm { I I }$ 、I组 $( P { < } 0 . 0 1 )$ ，但对照组与Ⅰ组之间差异不显著（ $\cdot P { > } 0 . 0 5 \$ ）°
+
+# 表5褪黑激素对獭兔屠宰后盐皮性能的影响
+
+Table 5Effects of melatonin on salted pelt performance of Rex rabbits after slaughter
+
+皮张厚度Pelt thickness/mm
+
+臀部 Buttocks 肩部 Shoulder 腹部Belly
+
+<html><body><table><tr><td>对照 Control</td><td>1026.25±86.40</td><td>0.92±0.10Aa</td><td>0.87±0.09ab</td><td>0.92±0.08Aa</td></tr><tr><td>I</td><td>1 139.38±142.22</td><td>0.88±0.13ABab</td><td>0.89±0.08a</td><td>0.94±0.08Aa</td></tr><tr><td>II</td><td>1029.75±93.51</td><td>0.74±0.09Cc</td><td>0.79±0.06b</td><td>0.84±0.04Bb</td></tr><tr><td>IⅢI</td><td>1 015.75±72.22</td><td>0.79±0.07BCbc</td><td>0.77±0.08c</td><td>0.79±0.04Bb</td></tr></table></body></html>
+
+由表6可知，对照组与各试验组之间的兔毛断裂伸长率、断裂强度及直径差异不显著( $P$ ${ > } 0 . 0 5 )$ 。
+
+# 表6褪黑激素对獭兔兔毛强度、直径的影响
+
+Table 6Effects of melatonin on strength and diameter of Rex rabbits hair   
+
+<html><body><table><tr><td rowspan="2">组别Groups</td><td colspan="2">断裂强度</td><td rowspan="2">直径</td></tr><tr><td>断裂伸长率</td><td>Breaking strength/</td></tr><tr><td rowspan="2">对照 Control</td><td>Breaking elongation/%</td><td>（cN/dtex)</td><td>Diameter/μm</td></tr><tr><td>35.78±0.49</td><td>1.35±0.22</td><td>14.43±0.72</td></tr><tr><td>I</td><td>34.28±1.43</td><td>1.13±0.24</td><td>14.83±1.21</td></tr><tr><td>II</td><td>34.37±1.48</td><td>1.31±0.15</td><td>14.28±0.58</td></tr><tr><td>IⅢI</td><td>35.85±1.74</td><td>1.29±0.20</td><td>14.08±0.95</td></tr></table></body></html>
+
+由表7可知，对照组与各试验组之间臀部、肩部的粗毛率差异不显著（ $\mathrm { \Phi } \cdot \mathrm { \Lambda } { \cal P } { > } 0 . 0 5 \mathrm { \Theta } .$ ；I组腹部粗毛率显著低于ⅡI、Ⅲ组（ $\scriptstyle \left. { P < 0 . 0 5 } \right.$ )，但与对照组差异不显著（ $P { > } 0 . 0 5 )$ ）
+
+# 表7褪黑激素对獭兔粗毛率的影响
+
+Table 7 Effects of melatonin on coarse wool rate of Rex rabbits $\%$   
+
+<html><body><table><tr><td>组别 Groups</td><td>臀部 Buttocks</td><td>肩部 Shoulder</td><td>腹部Belly</td></tr><tr><td>对照 Control</td><td>6.91±4.09</td><td>9.80±2.62</td><td>6.32±3.36ab</td></tr><tr><td>I</td><td>6.60±2.93</td><td>7.64±3.14</td><td>4.73±2.37a</td></tr><tr><td>Ⅱ</td><td>5.61±2.08</td><td>8.70±3.43</td><td>8.72±4.73b</td></tr><tr><td>Ⅲ</td><td>6.37±2.52</td><td>7.32±2.47</td><td>9.83±3.66b</td></tr></table></body></html>
+
+目前，褪黑激素在畜禽中应用研究主要集中在动物生殖活动、动物生殖性能、免疫系统、抗氧化性和被毛成熟等方面。近年来，褪黑激素在我国东北地区毛皮养殖业中普遍使用，主要集中在使用外源性褪黑激素诱导毛皮动物毛皮提前成熟。盛雪等[]通过在2600只银黑狐和 250 只蓝狐上埋植褪黑激素，使毛皮成熟提前1\~2个月；孔庆松等[通过几年的时间研究表明，埋植褪黑激素可使幼貉冬皮成熟时间较对照组提前 28\~42d，成年母貉提前 $4 2 { \sim } 5 6 \mathrm { d } .$ 且幼貉在7月上旬、成年母貉在6月埋植，效果最佳；在水貂生产中，刘念海等4研究表明，褪黑激素对水貂有促进新陈代谢、促进毛皮生长和促进毛皮早熟的作用。本试验结果也表明，饲喂褪黑激素可使獭兔毛皮提前20d成熟。
+
+在家兔生产的应用研究中，国内外许多科研人员开展了相关试验，傅祥伟等[5研究表明，皮下埋植褪黑激素对獭兔生长性能的影响不显著，但能显著增加獭兔的被毛密度，显著增加被毛密度的结果与本试验结果一致，而本试验中饲喂褪黑激素可以提高獭兔生长速度。谷子林等研究表明，皮下埋植褪黑激素可极显著提高断奶后獭兔的生长速度，加速毛囊的分化和增加被毛密度，促使皮肤增厚和成熟。而本试验中试验兔在屠宰后盐皮厚度变薄了，这与谷子林等得出的结果不一致，这可能是因为活体测量时是测定双层皮张厚度，被毛、皮下脂肪、皮肤结构及弹性等对其有一定的影响，而盐皮厚度是测定脱水后皮张直接的厚度；具体产生这一结果的原因有待进一步研究。沈伟等[7研究表明，褪黑激素对珍珠长毛兔粗毛、绒毛的长度无影响，毛密度方面，褪黑激素促进夏毛产量提高的主要原因是使毛密度增加。这个试验说明了埋植褪黑激素对兔毛生长的作用。Allain 等[8通过研究褪黑激素不同处理方法对安哥拉兔毛夏季产量的影响，得出褪黑激素显著提高夏毛产量和毛囊数量，但对毛的长度没有显著影响，说明褪黑激素对毛密度的作用大于其对毛长度的作用。李娜等[通过研究不同光照周期及褪黑激素对獭兔生长性能的影响，得出饲粮添加褪黑激素可显著提高獭兔皮张面积和被毛密度；但本试验中饲喂褪黑激素对獭兔皮张面积影响不大。刘亚娟等[10]研究埋植褪黑激素对力克斯兔生长性能的影响时发现，褪黑激素有助于提高力克斯兔ADG，降低 F/G，与本试验结果一致。封洋等[1研究了褪黑激素对獭兔ADG 的影响，结果表明褪黑激素对獭兔ADG无显著影响。
+
+# 4结论
+
+综上所述，饲粮中添加褪黑激素有助于提高獭兔ADG，降低F/G；同时在保证生长速度的前提下可显著提高獭兔被毛密度，改善獭兔皮毛质量，促使商品兔提前出栏。但本试验中当饲粮中褪黑激素添加到一定水平时，盐皮的皮张厚度有所降低，并且对被毛密度的增加不再显著。因此，本试验推荐饲粮褪黑激素适宜添加水平为 $1 0 \mathrm { m g / k g }$ 。
+
+参考文献:  
+[1]谷子林,顾时贵,任文社,等.力克斯兔被毛密度研究[J].中国养兔杂志,1999(4):18-21.[2]盛雪,缪佃华.褪黑素植入物在狐狸毛皮成熟方面的应用[J].山东畜牧兽医,1997(2):51-52.[3]张培玉,张洪海.外源褪黑激素对毛皮动物毛皮生长、生理与生殖的影响研究[J].经济动物学报,1999,3(2):41-45.  
+[4]刘念海,谢群恩.埋植褪黑激素对促进水貂毛皮早熟的试验[J].上海畜牧兽医通  
+讯,2009(3):33.  
+[5] 傅祥伟,秦应和,齐升.皮下埋植褪黑激素对獭兔免疫器官、性腺发育和生长性能的影响[J].中国畜牧杂志,2006,42(11):22-24.  
+[6]谷子林,黄玉亭,陈宝江,等.褪黑素(MLT)对商品獭兔被毛品质和增重的影响[J].中国农学通报,2007,23(8):32-35.  
+[7]沈伟,潘庆杰.褪黑激素对珍珠长毛兔毛夏季产量的影响[J].畜牧兽医杂  
+志,1999,18(4):5-6.  
+[8]ALLAIN D,THEBAULT R G.Effects of various melatonin treatments on summer woolproduction in angora rabbits[C]//Proceedings of the 4th Congress of the World Rabbit ScienceAssociation.Budapest:Hungary,1988,4:441-448.  
+[9]李娜,马可为,赵国先,等.光照和褪黑激素对獭兔毛皮品质的影响[J].饲料研  
+究,2011(2):33-35.  
+[10]刘亚娟,陈赛娟,李海利,等.埋植褪黑激素对力克斯兔生产性能、营养物质表观消化率及毛皮品质的影响[J].河北农业大学学报,2014,37(4):101-106  
+[11] 封洋,史兆国,赵世辉,等.褪黑激素对獭兔日增重及其毛皮皮尺的影响[J].畜牧兽医杂志,2013,32(3):21-23.Effects of Melatonin on Growth Performance and Fur Quality of Rex Rabbits2  
+ZHENG Jianting REN Keliang\*CAO Liang LI Yanping NIU Xiaoyan FENG Guoliang  
+(Institute of Animal Husbandry & Veterinary,Shanxi Academy of Agricultural Sciences, Taiyuan030032, China)
+
+Abstract: A single-factor experiment was designed to study the effect of melatonin on growth performance and fur quality of Rex rabbits. A total of 2OO healthy growing Rex rabbits at the age of 55 to 6O days with similar body weight were randomly divided into 4 groups with 50 rabbits per group. Rex rabbits in the control group were fed a basal diet,and the others in the experimental groups were fed the diets which concluded different levels of melatonin (1O,25 and 40 mg/kg, respectively). The experiment lasted for 99 days.The results showed that at 6O to 15O days of age, the average daily gain of experimental groups was significantly higher than that of control group （2 $( P { < } 0 . 0 1 )$ , the ratio of feed to gain of experimental groups was significantly lower than that of control group $( P { < } 0 . 0 1 )$ ). At 90,120,130 and 150 days of age,the hair density of experimental groups was significantly higher than that of control group $( P { < } 0 . 0 1 )$ ). The pelt thickness in buttocks, shoulder and belly of $4 0 \mathrm { m g / k g }$ experimental group was significantly lower than that of control group ( $_ { ( P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ ). The results showed that melatonin can improve the average weight gain of Rex rabbits,reduce the ratio of feed to gain,and at the same time increase hair density, which is helpful to the skin of early maturity.
+
+Key words: Rex rabbit; melatonin; growth performance; fur quality

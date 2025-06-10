@@ -1,0 +1,306 @@
+# 考虑不同节点行为要素特征的供应链演化规律研究‘
+
+廖治东，郑国华
+
+(中南大学 交通运输工程学院，长沙 410075)
+
+摘要：随着经济全球化的发展，供应链网络的发展也变得复杂。为研究供应链的实际演化规律，以复杂网络理论中的多局域世界模型为原型，提出了一种包含局域性节点与全局性节点，且反映多种供应链行为要素的供应链网络演化模型。该模型验证了在自然演化情况下，现实供应链网络均具有一定的幂律性；通过算例对比分析说明，该模型相较现有文献中的演化网络能更好地模拟现实的供应链网络。研究表明，在供应链的自然演化过程中，网络的连通性和传输效率不断增强，由于新节点企业多与较大规模的企业合作而忽略了其他企业，其节点间紧密程度降低；企业与供应链网络的紧密度逐步发展到一定的程度将趋于稳定，大规模企业的发展速度先增加后放缓，各规模节点发展速度在中后期保持稳定。
+
+关键词：供应链演化规律；复杂网络；多局域世界模型；平均场理论；仿真模拟中图分类号：F252.3 doi:10.19734/j.issn.1001-3695.2018.11.0864
+
+# Study on evolution law of supply chain considering characteristics of behavior factors ofdifferent nodes
+
+Liao Zhidong, Zheng Guohua (Schoolof Traffic&Transportation Engineering,Central South University,Changsha 410o75,China)
+
+Abstract: With the development of economic globalization,the development of supply chain networks has also become complicated.In order to studythe actual evolution lawof supplychain,based on the multi-local world model in complex network theory,this paper constructed amulti-local-world model which includes supply chain network evolutionof local node andthe global node.Through mean-fieldtheoryand analysis of simulation experiment,the power lawof the model is verified.Simulation experiment data show: Inthenatural evolutionof the supplychain,theconnectivityand transmission fficiencyof the networkcontinue to increase.Asnewnode enterprisescooperate with larger enterprisesand neglectother enterprises,the tightness between nodes is reduced; enterprises and supply chain networks The degree of closeness wil graduallystabilizetoacertain extent,and thedevelopment speedoflarge-scale enterprises willincreasefirstandthen slow down. The development speed of each scale node will remain stable in the middle and late period.
+
+Key words: supply chain network;complex network theory; multi-local world model; mean-field theory; simulation
+
+# 0 引言
+
+供应链是围绕核心企业，控制从始至终所有物料流、资金流、信息流，将供应商、制造商、分销商、零售商，直至最终用户连成一个整体的功能网链结构[1]。近年来，随着"分散网络化制造"的兴起和经济全球化的发展，全球化采购、跨国建厂等现象普遍存在，企业供应链网络结构变得更加复杂，演化规律也更加多变。日益复杂的供应链网络演化情况给企业供应链管理与协调带来了巨大的压力，如何通过相关模型来研究供应链的演化过程、预测供应链的变化趋势、揭示供应链网络演化规律，成为学界关注的重点。
+
+目前，国内外学者主要运用了协同发展理论[2.3]、演化博弈[4]和复杂网络理论[5]等方法研究供应链演化规律。其中复杂网络理论凭借其强大的网络结构及演化规律分析能力，自Watts等人[提出WS小世界网络模型并揭示了现实网络的小世界特性、Barabasi等人[提出了著名的具有“马太效应"的BA无标度网络模型并揭示了实际复杂网络的无标度特性后，就被广泛地应用到各领域的网络研究中[8\~I1]。在复杂网络理论用于供应链演化规律的研究中，Barrat等人[12]提出了适应度模型，并通过定义每个节点的适应度体现供应链网络中节点的特性；Li等人[13]提出了局域世界演化网络模型，且认为网络中节点优先连接是在一个局域世界中进行的；田思等人[14]提出了一种体现局域性质及联系强弱的新型多局域世界网络模型，并将其用于模拟现实中的Internet网络；孙军艳等人[15]以BA模型及多级局域世界模型为基础，构建了以制造商为核心且包含五级网络的演化模型，并分析其拓扑结构性质；张纪会等人[16]对适应性供应链进行了研究，通过引入位置参数并将其与节点度相结合，作为节点间相互选择的依据；柳虹等人[17]提出了分层供应链演化模型，考虑了不同层次的节点企业的重要度，并以重要度作为节点企业选择合作伙伴的依据；曹文彬等人[18]采用节点度、边效益等参数作为节点优先连接的指标，构建了局域演化的供应链模型，对不同时期的供应链网络演化给出了经济学解释；张旭等人[19]提出了一种加权改进节点收缩法，研究了在演化过程中煤炭供应链网络中节点的重要度。
+
+上述对供应链演化规律研究的文献，大多仅考虑了节点优先连接规律和不同类型的节点的适应度问题，而尚未对真实存在的局域世界性质，以及不同节点的行为要素对供应链演化规律的影响作深入研究，因而在对现实供应链的模拟上难以体现不同节点企业的影响作用。
+
+由于供应链网络是一个复杂性和动态性并存，且链上节点相互作用并随时间演化的自组织系统，考虑到现实环境中存在地域、语言、企业文化等的隔阂，企业对合作者的选择并不总能在全球范围内进行，所以本文以多局域世界网络演化模型为基础，把现实供应链的特性和演化行为体现到该网络模型中，提出把网络节点分为局域性节点和全局性节点，并把供应链网络行为要素分为七类，以此模拟现实供应链网络中的区域性企业和全局性企业对合作者的选择，以及供应链在发展过程中可能发生的行为；同时通过对模型的理论分析，验证供应链网络具有的幂律性，以此反映现实供应链网络的演化规律。
+
+# 1 供应链网络演化模型构建
+
+# 1.1模型说明与假设
+
+目前全球供应链发展趋势表明，大型跨国企业的供应链网络节点不断延伸到世界各国，跨国公司和国际采购组织在全球市场的采购活动日趋频繁和活跃，能够在全球范围内选择合作伙伴的大型企业越来越多；但同时也应看到，很多业务规模和能力较弱的企业，其辐射范围较小，很难跨过地域、语言等界限在更大范围内选择合作伙伴。基于此，本文在多局域世界网络的基础上，考虑具有不同特征的局域性节点和全局性节点的供应链网络特性，研究不同类型的供应链演化情况。
+
+相关概念的说明如下：
+
+a）局域性节点，是指只能够在其自身所处的局域世界中发展，即只能在局部区域内选择合作伙伴的节点，这体现出了一些中小型企业在现实供应链网络中的发展状况。b)全局性节点，是指既能在其所处的局域世界中选择合作伙伴，又能在全局上选择合作伙伴的大型节点，这体现出全局性节点具有与已存在于供应链中的高适应度企业建立关系的能力。
+
+同时，通过研究现实供应链的发展历程和对供应链节点企业行为进行分析[20,21]。本文在供应链网络演化模型的研究中引入了以下行为要素：
+
+a)新的节点网络加入。具有一定网络结构的企业团体或者小型供应链加入到该供应链网络中，具体的情况表现为集团间的战略合作等。b）新的局域性节点加入。一个本行业的中小型企业加入到该供应链网络当中，该节点只能在其所在的局域世界中选择合作伙伴。c）新的全局性节点加入。一个本行业的大型企业加入到该供应链网络当中，该节点能够在该供应链网络中的所有局域世界中选择合作伙伴。d）局域世界内部产生新的关系。在同一个局域世界中的两个节点企业发生合作、贸易等关系。e）局域世界之间产生新的关系。在不同局域世界中的两个节点企业发生合作、贸易等关系。f）节点的退出。节点企业因为策略或者发展方向等原因退出了该供应链网络。g）旧关系的消失。两节点企业中原有合作、贸易等关系的终止。同时，为了简化计算，对模型作出以下假设：a）在供应链演化模型中，仅考虑以上七类行为要素，并假定每个行为要素的发生时相互独立的；
+
+b)设局域性节点与全局性节点在加入该供应链网络时具有同样数量的连边；
+
+c）该模型中的所有连边为无向边;d 该模型中每个局域世界中的平均度为=Na
+
+# 1.2供应链网络演化模型
+
+# 1）模型设定
+
+本文建立的供应链网络模型用 $G = ( V , E , C )$ 表示，主要包含了三个元素： $\boldsymbol { V }$ 表示网络中的节点，其中 $N = \lvert V \rvert$ 表示网络中所有节点企业的个数； $E = \{ e _ { i j } \vert i , j \in V , i \neq j , e _ { i j } = 0 , 1 \}$ 表示企业间的关联， $e _ { i j } = 1$ 表示节点 $i$ 与节点 $j$ 存在关联， $e _ { i j } = 0$ 表示节点 $i$ 与节点 $j$ 不存在关联； $C = \{ c _ { i } \big | c _ { i } \in ( 0 , 1 ] , i \in V \}$ 表示节点的适应度系数。模型中以 $\Omega$ 表示局域世界，以 $\Omega _ { i }$ 表示具体的一个局域世界，其中 $i = 1 , 2 . . . n$ ， $n$ 为网络中局域世界的总数。
+
+模型中节点在现实供应链网络中是独立经营、自负盈亏的企业；模型中的边在现实供应链网络中代表的是企业间存在的关联，如企业间存在的贸易、信息、服务等的联系。
+
+# 2）模型参数
+
+本文模型的网络拓扑结构参数有：
+
+a)网络的平均度k。
+
+b）节点的度 $k _ { i } = \sum _ { j \in \Omega } e _ { i j }$ 。表示与企业i有关联的企业个数；网络的平均度，即网络中节点度的平均水平，它反映了网络中点与边的基本情况，体现在现实供应链网络中是每个企业与整个网络关联紧密度的平均值。
+
+c）聚类系数 $c$ 。描述了与该节点直接相连的节点之间的连接情况，即网络中节点的集聚程度。在现实供应链网络中代表了与该企业有直接关联的企业间的关系。
+
+d)平均路径长度 $< d >$ 。是指网络中的节点到其他任意节点的最短距离的平均值，它体现了供应链网络的连通性与传输效率。
+
+e）幂律系数。反映了该网络的幂律性的强弱，／的值越大则表示该网络的幂律性越强。在现实供应链中体现为各规模企业的分布情况，幂律系数越大，代表规模越大的企业在整个网络中所占比例越小。
+
+# 3）模型演化规则
+
+本文研究的供应链网络演化模型的演化规则为：
+
+a）初始化。网络初始拥有 $w$ 个相互不连通的局域世界，每个局域世界 $\Omega$ 是拥有 $m _ { \mathrm { ~ } }$ 个节点以及 $e _ { 0 }$ 条边的网络，对网络中的点i赋予权值 $C _ { i }$ ，记节点的度 $k _ { i } = \sum _ { j \in \Omega } e _ { i j }$ ，节点之间的连边为无向边。
+
+b）演化过程。
+
+$\textcircled{1}$ 以概率 $p$ 在网络中加入一个新的局域世界 $\Omega$ 。
+
+$\textcircled{2}$ 以概率 $q$ 在局域世界 $\Omega _ { i }$ 中加入一个带有 $e _ { 1 }$ 条边的局域性节点，与该局域世界中节点 $i$ 相连的概率为
+
+$$
+P ( i ) = \frac { k _ { i } } { \sum _ { j \in \Omega } k _ { j } }
+$$
+
+$\textcircled{3}$ 以概率 $r$ 在局域世界 $\Omega _ { i }$ 中加入带有 $e _ { 2 }$ 条边的全局性节点，在所处局域网络中建立 $e _ { 3 }$ 条边，与其他网络建立 $e _ { 4 }$ 条边，其中 $e _ { 2 } = e _ { 3 } + e _ { 4 }$ ，与局域世界中节点相连的概率为式（1）。
+
+$\textcircled{4}$ 以概率 $s$ 在局域世界 $\Omega _ { i }$ 中增加 $e s$ 条边，首先随机选取一点，然后通过式（1）选定需要连接的点，重复 $e s$ 次。
+
+$\textcircled{5}$ 以概率 $u$ 在局域世界 $\Omega _ { i }$ 和局域世界 $\Omega _ { i + 1 }$ 之间增加e6条边，每个局域世界 $\Omega$ 中的节点按式（1）选取。
+
+$\textcircled{6}$ 以概率 $\nu$ 在局域世界 $\Omega _ { i }$ 中删除一个节点及其所有连边，选择节点的概率为
+
+$$
+P ^ { \prime } ( i ) = \frac { 1 - C i } { \displaystyle \sum _ { j \in \Omega } ( 1 - C _ { j } ) }
+$$
+
+$\textcircled{7}$ 以概率 $\nu ^ { \prime }$ 在局域世界 $\Omega _ { i }$ 中删除其中 $\boldsymbol { e } _ { 7 }$ 条边，其中一端随机选定，另一端点选取的概率为
+
+$$
+P " ( i ) = \frac { 1 } { N _ { \Omega } ( t ) - 1 } ( 1 - P ( i ) )
+$$
+
+根据假设条件，其中 $p + q + r + s + u + \nu + \nu ^ { \prime } = 1$ 且 $e \mathrm { 1 } = e \mathrm { 2 }$ 。
+
+c）终止条件：根据需求指定 $N ^ { \prime }$ ，当网络规模 $N$ 达到指定的 $\vert N ^ { \bullet }$ 时，输出该网络。
+
+# 1.3理论分析
+
+本文采用平均场理论对供应链演化模型进行相关分析。平均场理论是把环境对物体的作用进行集体处理，以平均作用效果替代单个作用效果的加和方法，在处理高次、高维的复杂问题中有较好的效果。
+
+由上述模型可以得出，模型经过时间 $t$ 的演化后，网络中任意一个局域世界 $\Omega$ 的平均度为（假定每个局域世界 $\Omega$ 中任意点的平均度为 $\overline { { e } } = \frac { N _ { \Omega ( t ) } } { 2 }$ ）：
+
+$$
+\sum _ { i \in \Omega } k _ { i } = 2 m e \mathrm { o } + \frac { 2 t ( p e \mathrm { 0 } + q e \mathrm { 1 } + r e \mathrm { 2 } + s e \mathrm { 5 } + u e \mathrm { 6 } - \nu \overline { { e } } - \nu ^ { \prime } e \tau ) } { w + t p }
+$$
+
+每个局域世界 $\Omega$ 的节点数目平均为
+
+$$
+N _ { \mathrm { a } } ( t ) = m \mathrm { 0 } + { \frac { ( q + r - \nu ) t } { w + t p } }
+$$
+
+依据平均场理论，假设 $k _ { i }$ 是一个随时间 $t$ 连续变量，则度 $k _ { i }$ 的变化率的推导如下，对于每一时间步长内的演化过程，对应的动力学公式为
+
+$$
+\frac { \partial k _ { i } } { \partial t } = 0
+$$
+
+$$
+\frac { \partial k _ { i } } { \partial t } = \frac { q e _ { 1 } } { w + p t } P ( i )
+$$
+
+$$
+\frac { \hat { \alpha } k i } { \hat { \sigma } t } { = } \frac { r e _ { 3 } } { w + p t } P ( i ) { + } \frac { r e _ { 4 } } { w + p t } P ( i )
+$$
+
+$$
+\frac { \partial k _ { i } } { \partial t } = \frac { s e _ { s } } { w + p t } [ \frac { 1 } { N \Omega ( t ) } + ( 1 - \frac { 1 } { N \Omega ( t ) } ) P ( i ) ]
+$$
+
+$$
+\frac { \hat { \sigma } k _ { i } } { \hat { \sigma } t } = u e _ { \diamond } [ \frac { 2 } { w + p t } P ( i ) - \frac { 1 } { w + p t } \frac { 1 } { w + p t } P ( i ) ]
+$$
+
+$$
+\frac { \partial k _ { i } } { \partial t } = - \frac { \nu } { w + p t } \frac { N \Omega ( t ) } { 2 } P ^ { \prime } ( i )
+$$
+
+$$
+\frac { \hat { \sigma } k _ { i } } { \hat { \sigma } t } = - \frac { \nu ^ { \prime } } { w + t p } [ \frac { 1 } { N _ { \Omega } ( t ) } + ( 1 - \frac { 1 } { N _ { \Omega } ( t ) } ) \frac { 1 } { N _ { \Omega } ( t ) - 1 } ( 1 - P ( i ) ) ]
+$$
+
+令 $c = p e \mathrm { o } + q e \mathrm { 1 } + r e \mathrm { 2 } + s e \mathrm { s } + u e \mathrm { 6 } - \nu \overline { { e } } - \nu ^ { \prime } e \mathrm { 7 }$ ，将其汇总可得：
+
+$$
+\frac { \hat { \sigma } k _ { i } } { \hat { \sigma } t } = A \frac { k _ { i } } { t } + B \frac { 1 } { t }
+$$
+
+其中：
+
+$$
+A = \frac { q e _ { 1 } + r e _ { 3 } + r e _ { 4 } + s e _ { 5 } + 2 u e _ { 6 } } { 2 c } - \frac { ( \nu ^ { \prime } - s e _ { 5 } ) p } { 2 c ( m _ { 0 } p + q + r - \nu ) }
+$$
+
+$$
+B = \frac { s e _ { 5 } - 2 \nu ^ { \prime } } { m _ { ^ { 0 } } p + q + r - \nu } - \frac { 1 } { 2 } \frac { \nu } { p }
+$$
+
+由于当节点刚进入时 $k _ { i } ( t _ { i } ) = e _ { 1 }$ ，则
+
+$$
+k _ { i } ( t ) = - \frac { B } { A } + ( e _ { 1 } + \frac { B } { A } ) ( \frac { t } { t _ { i } } ) ^ { A }
+$$
+
+定义 $t _ { i }$ 的概率密度为 $P _ { i } ( t _ { i } ) = \frac { 1 } { w + t }$ 则有
+
+$$
+P ( k i ( t ) < k ) = 1 - \frac { 1 } { w + m } ( \frac { e _ { 1 } + B / A } { k + B / A } ) ^ { 1 / A } t
+$$
+
+又因为
+
+$$
+P ( k ) = \frac { \hat { \sigma } [ P ( k i ( t ) < k ) ] } { \hat { \sigma } k }
+$$
+
+计算得
+
+$$
+P ( k ) = \frac { t ( e _ { 1 } + B / A ) ^ { 1 / A } } { A ( w + m ) } ( k + B / A ) ^ { - \gamma }
+$$
+
+其中： $\gamma = 1 + 1 / A$ 。
+
+可以看出，该模型的度分布具有幂律性，而且当$p = r = s = u = \nu = \nu ^ { \prime } = 0$ ， $w = q = 1$ 时该模型可以转换成为经典BA模型，计算得幂律系数 $\gamma = 3$ ，进一步证明了该推导过程的正确性。因此可以说明在本文的假设情况下，供应链网络的演化具有一定的幂律性。
+
+# 2 模型仿真及分析
+
+# 2.1 对比仿真分析
+
+为验证供应链演化模型的适用性，现将该模型与相关文献中常用于模拟现实供应链的BA网络模型、WS小世界网络模型进行对比分析，并引入现实供应链网络进行网络拓扑结构参数分析。图1为近年来我国ICT行业主要节点网络结构图[22]，图2为近年来中国汽车零部件企业网络关系图[23]。
+
+![](images/3df8b9061659c7584c2171b3681112753ed8fcf814378d2cd60033206c7040ff.jpg)  
+图1国内ICT主要节点关系
+
+![](images/9fadabc9276ee4a9ffa3a893de367979c5ef1c383aca0d862d5d77107c34cc66.jpg)  
+Fig.1Domestic ICT main node relationship diagram   
+图2汽车零部件企业网络  
+Fig.2Auto parts enterprise network
+
+计算图1网络的拓扑参数得：网络的规模为 $N = 1 6 4$ ，平均度 $\overline { { K } } = 5 . 1 2 5$ ，平均路径长度 $< d > = 3 . 0 2 7 3$ ，平均聚类系数$C = 0 . 4 7 9 6$ ，幂律系数 $\gamma = 2 . 0 3 8 7$ 。用本文中的网络模型与 BA模型、WS小世界模型同时产生网络，BA模型参数设置为：$N = 2 0 0 , m _ { 0 } = 1 0 , m = 3$ ；WS小世界模型参数设置为：网络规模$N = 2 0 0$ ，耦合系数 $K = 3$ ，重连概率 $P { = } 0 . 5$ 。通过多次实验数据得出表1所示的各网络模型的网络拓扑结构参数的数据对比。
+
+Table 1ICT network model simulation parameter comparison  
+
+<html><body><table><tr><td>网络类型</td><td>网络规模</td><td>平均度K</td><td>平均路径 长度<d></td><td>平均聚类 系数C</td><td>幂律 系数Y</td></tr><tr><td>ICT网络</td><td>164</td><td>5.1250</td><td>3.0273</td><td>0.4796</td><td>2.0387</td></tr><tr><td>本文模型</td><td>200</td><td>5.1975</td><td>3.1226</td><td>0.3715</td><td>2.2780</td></tr><tr><td>BA模型</td><td>200</td><td>5.9730</td><td>3.2378</td><td>0.0414</td><td>2.4336</td></tr><tr><td>WS模型</td><td>200</td><td>6.0000</td><td>3.8293</td><td>0.0856</td><td></td></tr></table></body></html>
+
+由于图2中网络包含9298个节点，为简化计算，选取其中1000个节点作为计算对象。该网络规模为 $N = 1 0 0 0$ ，平均度 $\overline { { K } } = 5 . 1 2 5$ ，平均路径长度 $< d > = 3 . 0 2 7 3$ ，平均聚类系数$C = 0 . 4 7 9 6$ ，幂律系数 $\gamma = 2 . 0 3 8 7$ 。同样用本文网络模型与 BA网络模型、WS小世界模型同时产生网络，网络规模设置为$N = 1 0 0 0$ ，其余参数不变，通过多次实验数据得出表2所示的各网络模型的网络拓扑结构参数的数据对比。
+
+通过表1和2中各项拓扑结构参数的数值可以看出，在网络规模相似的情况下，本文模型演化而成的网络在平均度、平均路径长度、幂律系数上均具有与现实供应链网络非常接近的值，并且在供应链演化的各个阶段均有较好的表现，因此说明该模型相较于BA网络模型以及WS小世界模型更能刻画现实供应链网络，并且对于两个不同规模的供应链网络均能很好的模拟，说明通过研究该模型的演化过程来反映和总结现实供应链网络的演化规律是可行的。
+
+表1ICT网络模型模拟参数对照  
+表2汽车零部件网络模型参数对照  
+Table 2Auto parts network model parameter comparison   
+
+<html><body><table><tr><td>网络类型</td><td>网络规模</td><td>平均度K</td><td>平均路径 长度<d></td><td>平均聚类 系数C</td><td>幂律 系数Y</td></tr><tr><td>零部件网络</td><td>1000</td><td>5.5743</td><td>3.7187</td><td>0.4124</td><td>2.3041</td></tr><tr><td>本文模型</td><td>1000</td><td>5.6383</td><td>3.5197</td><td>0.3522</td><td>2.1978</td></tr><tr><td>BA模型</td><td>1000</td><td>5.9840</td><td>3.5378</td><td>0.0271</td><td>2.7336</td></tr><tr><td>WS模型</td><td>1000</td><td>6.0000</td><td>4.2474</td><td>0.0688</td><td></td></tr></table></body></html>
+
+# 2.2供应链演化情况分析
+
+通过上述算例对比分析证明了该网络模型相较于现有的其他网络模型，能更好地模拟现实供应链网络的演化情况。现通过该网络模型对现实供应链的演化过程进行仿真分析。
+
+供应链网络自然增长时，图3为不同网络规模下的度分布情况，图4\~7为各参数随网络规模增长时的变化情况。
+
+两类节点对网络的影响：通过调整网络中全局性节点和局域性节点加入网络的概率，生成同等规模的网络并计算其参数得到表3。其中网络一的全局性节点加入网络的概率高于局域性节点，网络二将两类节点加入网络的概率交换。
+
+![](images/d1393ad7a0cf29325a3ffed6093061f00643dce5930b2915b12a0a939f3a231f.jpg)
+
+![](images/2f42fae4f1fda8133d26e95d786d5defb992e254ed7a704c000e0dfcd404aae6.jpg)  
+Fig.3Degree map of different network sizes
+
+![](images/64fddb733e9b23ed54bae423c29b8151f5291b073d5bcbcf64e23822cd88daa2.jpg)  
+Fig.4Average path-network size diagram   
+图6平均度—网络规模关系Fig.6Average-network size diagram
+
+![](images/1a91cecd51706d26f84dea8662c214492a2f2371eef3a608545ebe37dea64160.jpg)  
+图3不同网络规模的度分布图  
+图5聚类系数—网络规模关系
+
+![](images/260e59b03025ebbae43c40c84d23a41e251961180ae4b47a5dfd4aa6f774ff91.jpg)  
+图4平均路径—网络规模关系  
+Fig.5 Clustering coefficient-network size relationship diagram   
+图7幂律系数—网络规模关系  
+Fig.7Power law coefficient-network size relationship diagram
+
+# 表3两类节点网络参数分析
+
+Table 3Analysis of network parameters of two types of nodes   
+
+<html><body><table><tr><td>网络类型</td><td>网络规模</td><td>平均度K</td><td>平均路径 长度<d></td><td>平均聚类 系数C</td><td>幂律 系数Y</td></tr><tr><td>网络一</td><td>800</td><td>5.75</td><td>3.61</td><td>0.33</td><td>2.12</td></tr><tr><td>网络二</td><td>800</td><td>5.61</td><td>4.27</td><td>0.42</td><td>2.55</td></tr></table></body></html>
+
+图3表明，随着供应链网络规模的增长，网络整体的幂律性更加明显，在 $N = 5 0 0$ 时， $\gamma = 2 . 3 4 5$ 。新加入网络的节点企业在选择合作伙伴时更倾向于其局域世界中的大规模节点企业，核心企业在网络中重要性增大，因此供应链网络在核心企业发生风险时的稳定性随网络规模增大而变差；各个局域世界内联系较为紧密，局域世界间通过全局性节点企业将其建立连接；新局域世界加入网络这一行为要素对网络的影响越来越小，因此新的小型供应链网络加入供应链网络对网络整体的影响随网络规模的增大而变小。
+
+从图4\~7可以看出，随着网络规模的变大，网络的平均路径长度、平均度、幂律系数的总体趋势是增长，聚类系数减少；平均路径长度和聚类系数的值在网络增长前期有一定的波动；平均度与幂律系数波动幅度小，其值在 $N { \geq } 1 0 0 0$ 后趋于稳定。因此，现实供应链网络自然演化过程中，网络的连通性和传输效率不断加大，但其节点间紧密程度降低，这是由于新节点企业多与较大规模的企业合作而忽略了其他企业；企业与供应链网络的紧密度逐步发展到一定的程度将趋于稳定，大规模企业的发展速度先增加后放缓，各规模节点发展速度在中后期保持稳定。
+
+从表3看出，不同的节点对网络的平均度影响较小，全局性节点能减少平均路径长度，聚类系数以及幂律系数。因此全局性节点能增强网络的连通性及传输效率，提高了大规模节点企业的比例，同时在一定程度上降低了节点间的紧密度。
+
+总结上述演化规律，本文可得出如下实践意义：
+
+a）根据供应链网络演化中的度分布规律，可通过计算某一供应链网络的幂律系数以及绘出其度分布情况以判断其是否处于发展的稳定期。b）根据部分参数的波动情况，在供应链形成初期，核心企业应慎重考虑是否与新的企业联盟进行合作，新的企业联盟加入有极大的风险且可能改变核心企业的地位。c）当供应链产生多个连通性差的局域世界时，应引入全局性节点企业来加强网络的连通性。
+
+# 3 结束语
+
+a）本文以多局域世界网络模型为基础，设计了一个包含局域性节点和全局性节点在内，且具有七类行为要素的供应链网络演化模型。通过运用平均场理论方法，验证了供应链网络具有一定的幂律性。通过两个实例对比分析，验证了该网络模型较现有网络模型能更好地刻画现实供应链演化的过程。
+
+b）仿真实验结果表明，供应链网络在演化过程中拥有以下拓扑特性：随着网络规模的变大，网络的平均路径长度逐渐变短，度分布的幂律性逐渐变强，网络保持较高的集聚性。同时也说明该网络模型相较其他网络模型能更好地刻画现实供应链演化的过程。
+
+c）对供应链网络演化规律的研究，揭示了不同的供应链网络行为要素给供应链演化模型带来不同的影响：随着网络规模的变大，网络的连通性和传输效率增大，企业与供应链网络的紧密度趋于稳定，大规模企业的发展速度先增加后放缓，各规模节点发展速度保持稳定。全局性节点相较与局域性节点，更能提高网络效率以及大规模企业产生的概率。
+
+d)本文研究结果对宏观预测供应链网络的拓扑结构变化，对在供应链演化的不同时期，供应链各节点企业制定适合企业自身发展的策略等具有一定的借鉴作用。
+
+参考文献：   
+[1]王叶峰．供应链管理[M].北京：机械工业出版社，2016.(Wang Yefeng. Supply chain management [M]. Beijing: Mechanical Industry Press, 2016.)   
+[2]徐维阳．区域供应链协同效应与发展路径研究[D].北京：北京交 通大学,2015.(Xu Weiyang.The research on synergetic effect and generalized path of regional supply chain [D]. Beijing: Beijing Jiaotong University, 2015.)   
+[3] 闵新平，史玉良，李晖，等．基于动态供应链网络的协同行为模式挖 掘方法[J].计算机集成制造系统，2016,22(2)：324-329.(Min Xinping,Shi Yuliang,Li Hui,etal.Mining collaborative behavior based on dynamic supply chain network [J]. Computer Integrated Manufacturing Systems,2016,22 (2): 324-329.)   
+[4]刘洋．科技期刊出版供应链纵向合作关系的演化博弈研究 [D]．大 连：大连理工大学,2017.(Liu Yang.Evolutionary game analysis of vertical cooperation relationship in the supply chain of sci-tech periodicals [D].Dalian: Dalian University of Technology,2017.)   
+[5]孔江涛，黄健，龚建兴，等．基于复杂网络动力学模型的无向加权网 络节点重要性评估[J].物理学报，2018,67(9):249-265.(Kong Jiangtao, Huang Jian, Gong Jianxin,et al. Evaluation methods of node importance in undirected weighted networks based on complex network dynamics models [J].Acta Physica Sinica,2018,67(9): 249-265.)   
+[6]Watts DJ,Strogatz SH. Collectivedynamics of'small-world'networks [J].Nature.1998,393 (6684): 440-442.   
+[7]Albert R,Barabasi A. Statistical mechanics of complex networks [J]. Review of Modern Physics,2002,74 (1): xii.   
+[8]Liu Bin,Li Zhen,Chen Xi,et al. Recognition and vulnerability analysis of key nodes in power grid based on complex network centrality [J]. IEEE Trans on Circuits & Systems II Express Briefs,2017,PP (99): 1-1.   
+[9]王钊，杨山，刘帅宾．基于复杂网络的长三角城市对外服务群落结 构研究[J]．生态学报,2018,38(6):1964-1974.(Wang Zhao,Yang Shan,Liu Shuaibing.Analysis of community structure in the Yangtze River Delta region: a case study of urban external services [J].Acta Ecologica Sinica,2018,38 (6): 1964-1974.)   
+[10]孙军艳，王雯，傅卫平，等．轿车供应链复杂自适应系统演化规律 [J]．计算机集成制造系统，2016,22(8):2011-2022.(Sun Junyan, Wang Wen,Fu Weiping,et al. Evolution of car supply chain complex adaptive system [J]. Computer Integrated Manufacturing Systems,2016, 22 (8): 2011-2022. )   
+[11]张向阳，那日萨．基于复杂网络的情感分类特征选择[J].计算机应 用研究，2017，34(4):1000-1003.(Zhang Xiangyang，Na Risa. Emotioal classification feature selection based on complex network[J]. Application Research of Computers,2017,34 (4):1000-1003.）   
+[12] Barrat A,Barthelemy M,Vespignani A. Weighted evolving networks: coupling topology and weight dynamics.[J]. Physical Review Letters, 2004,92 (22): 228701.   
+[13] Li Xiang,Chen Guangrong.A local-world evolving network model [J]. Physica A Statistical Mechanics & Its Applications,2003,328 (1): 274-286.   
+[14]张纪会，徐军芹．适应性供应链的复杂网络模型研究[J]．中国管理 科学,2009,17 (2): 76-79.(Zhang Jihui,Xu Junqin.Study on complex network model for adaptive supply chains [J].Chinese Journal of Management Science,2009,17(2):76-79.)   
+[15]田思，李慧嘉，赵岳．一种新型多局域世界网络模型分析[J]．计算 机应用研究，2013,30 (3):869-872.(Tian Si,Li Huijia,Zhao Yue. Analysis of novel multi-local world network model [J].Application Research of Computers,2013,30(3):869-872.)   
+[16]孙军艳，傅卫平，王雯，等．以制造商为核心的复杂供应链网络多级 局域世界演化模型[J].计算机应用，2015，35(2):560-565.(Sun Junyan,Fu Weiping,Wang Wen,et al.Evolving model of multi-local World based on supply chain network with core of manufacturers [J]. Journal of Computer Applications,2015,35(2): 560-565.)   
+[17]柳虹，周根贵，傅培华.分层供应链复杂网络局部演化模型研究[J]. 计算机科学,2013,40 (2):270-273.(Liu Hong，Zhou Gengui,Fu Peihua.Local evolving model research of layered supply chains complex networks [J].Computer Science,2013,40(2): 270-273.)   
+[18]曹文彬，熊曦.边效益因素下复杂供应链网络局域演化机制[J].计 算机应用研究，2016,33(1):75-77.(Cao Wenbin，Xiong Xi. Local-world evolution model of complex supply chain network under edge benefit [J].Application Research of Computers,2016,33(1): 75-77.)
+
+[19]张旭，袁旭梅，袁继革．基于加权改进节点收缩法的供应链网络节
+
+点重要度评估[J]．计算机应用研究,2017,34(12):287-291.(Zhang Xu,Yuan Xumei,Yuan Jige.Node importance evaluation for supply chain network based on weighted improved node contraction method [J]. Application Research of Computers,2017,34(12):287-291.)   
+[20]李季芳，冷霄汉．基于节点关系视角的我国农产品供应链研究[J]. 吉林大学社会科学学报,2016,56(1):45-53.(LiJifang,Leng Xiaohan. Agricultural product supply chain in chain:From the perspective of node networks [J]. Jilin University Journal Social Sciences Edition, 2016,56(1): 45-53.)   
+[21]黄永涛，王刚，任秉银，等．基于Pi-演算的供应链节点企业行为的 随机分析[J].计算机集成制造系统，2013,19(1):165-172.(Huang Yongtao,Wang Gang,Ren Bingyin,et al. Stochastic analysis of supply chain node enterprise behavior based on Pi-calculus [J].Computer Integrated Manufacturing Systems,2013,19(1):165-172.)   
+[22] Yu L,Suojapelto K,Hallikas J,et al.Chinese ICT industry from supply chain perspective:a case study of the major Chinese ICT players [J]. International JournalofProduction Economics,20o8,115(2):374-387.   
+[23]李季明，张宁．中国汽车零部件企业竞争网拓扑结构分析[J]．复杂 系统与复杂性科学，2008,5(2):72-79.(Li Jiming，Zhang Ning. Analysis to competition network topological structure of automotive components enterprises in China [J].Complex Systems and Complexity Science,2008,5(2):72-79.)

@@ -1,0 +1,179 @@
+# 信任水平存在性别差异吗？
+
+曲佳晨 贡喆
+
+(四川师范大学心理学院，成都610068)
+
+摘要 信任水平是否存在性别差异，学界观点莫衷一是。一派研究者持信任水平性别差异观，其中风险偏好理论被用于佐证男性信任水平更高的观点，女性在亲社会领域的优势则为女性具备更高信任水平提供支持；另有一派研究者以性别相似性假设为依据，持信任水平无性别差异观。两派观点及其理论基础虽得到一定程度支持，但还有待从研究范式、东西方文化差异等角度阐明其合理性。未来研究可在合理运用信任测量方法的基础上，澄清信任动态变化过程中的性别特征，深化两性信任差异的神经生理机制研究，从而更好地揭示信任水平的性别差异问题。
+
+关键词信任，性别，信任博弈分类号：B842
+
+# 1引言
+
+信任即对他人的意向或行为有积极预期并敢于托付(愿意承受风险)的一种心理状态(Rousseau et al.,1998;张宁 等,2011)。从领域一般性-特殊性(domain general-specific)角度，信任可划分为一般信任(general trust)和特殊信任(specific trust)，前者大多表征个体普遍、较稳定以及无特定信任对象的信任倾向(trust propensity)或特质(trait)，后者则是对某个或某类具体信任对象的特定信任(贡喆 等,2021)。作为人类基本偏好(fundamental preference)之一,信任与互惠、合作、背叛等人际互动表现密切相关(Lemmers-Jansen et al.,2017)，对个体行为有重要的支配作用(Falk&Hermle,2018)，是维持社会正常运行的润滑剂与整合社会的粘合剂(严瑜,吴霞,2016)。若无信任，社会生活与经济互动也将不复存在(Derks etal.,2014)。
+
+在信任研究领域中，学者综合多种研究方法探讨信任的发生机制与个体差异问题(Buchan et al.,2008; Falk & Hermle, 2018; Macko,2020; van den Bos et al.,2010; Zeffane, 2018;辛自强,周正,2012)。性别作为最基础、最核心的人口学变量，成为探索信任奥秘的关键切入点，引起众多研究者关注(Buchan et al.,2008;Ditrich,2015;Derks et al.,2014; Furumo &Pearson, 2007; Haselhuhn et al., 2015; Lemmers-Jansen et al.,2017; Macko, 2020; Zeffane,2018)。一方面，信任对两性在职业选择(Zeffane,2015)、经济互动(Garbarino& Slonim,2009)人际交往(Navarro-Carillo et al.,2018)、社会合作(Irwin et al.,2015)等方面的差异起关键解释作用。另一方面，作为人类性别偏向(sex/gender preference)领域的重要子课题，厘清信任水平的性别差异问题对探明信任机制、阐释两性心理特征均具备重要意义。
+
+信任水平存在性别差异吗？一派研究者持信任水平性别差异观，其中风险偏好(riskpreference)理论被用于佐证男性信任水平更高的观点(Croson& Gneezy,2009)，女性在亲社会(prosocial)领域的优势则为女性具备更高信任水平提供支持(Neufang et al.,2009)；与之相反，另有一派研究者以性别相似性假设(gender similarities hypothesis)为依据，持信任水平无性别差异观(Hyde,2005)。本文旨在围绕两派观点进行综述，厘清信任水平的性别差异问题。下文将首先介绍两派观点的实证与理论支持，随后基于当前研究进展，分析并讨论两派观点及其理论基础的合理性，最后提出未来研究展望。
+
+# 2信任水平性别差异观
+
+# 2.1男性信任水平具备优势效应
+
+# 2.1.1实证与理论支持
+
+大量量表(Irwin&Berigan,2013; Zeffane,2018)与实验研究(Buchan etal.,2008;Chaudhuri & Gangaharan,2002; Ditrich, 2015; Derks et al.,2014; Garbarino & Slonim, 2009;Groep et al., 2020; Holden & Tiahum, 2018; Lemmers-Jansen et al.,2017; Macko,2020; Romanoet al.,2017; van den Akker et al.,2020;Wu,etal.,2020)发现男性信任水平具备优势效应。例如，Garbarino 和 Slonimb(2009)大规模的信任博弈调查显示，男性在全年龄段中的信任水平均显著高于女性，且教育程度、收入、种族、职业等人口统计学变量均无法对此进行解释。
+
+研究者主要基于风险偏好理论诠释男性信任水平的优势效应(Croson&Gneezy,2009)。风险偏好是个体在投资过程中对待风险的心理反应、态度趋向和投资意愿(Markowitz,1952)。从传统经济学视角出发，信任是一种易受损情境中的风险决策，个体在信任博弈中的信任行为近似风险投资(Fehr,2009)。大量研究表明，信任与风险偏好密切相关(Thielmann &Hilbig,2015)，且与女性的高风险规避(risk averse)倾向相比，男性表现出鲜明的风险偏好特征(Chaudhuri & Gangadharan,2002; Charness & Gneezy,2012; Croson & Gneezy,2009)。例如,Chaudhuri 和Gangdharan(2002)的研究发现，与男性不同，女性风险厌恶(risk aversion)水平能显著预测女性在信任博弈中的投资金额 $( \beta = 0 . 2 1 3 , p < 0 . 0 1 )$ 。他们推测，女性的风险厌恶倾向可能抑制其信任表现。此外，社会角色理论(social role theory)也从风险偏好的视角诠释了男性信任水平的优势效应。由于男性自古承担大量高地位、高权力的社会角色，往往被赋予独立、自信、雄心勃勃的形象(Eagly,2009;Eagly& Wood,1999; Zhao& Zhang,2016)。因此男性可能基于社会角色的要求，在社会生活中表现出典型的“男性化”行为，如高风险偏好，行为更冒进等，这促使男性在易受损的信任情境中更多地表达信任行为。
+
+# 2.1.2分析与讨论
+
+本文总结发现，男性基于高风险偏好表现出高信任倾向的理论基础获得较为充分的支持(Chaudhuri & Gangdharan,2002; Holden & Tilahun,2018)。例如，Holden 和 Tilahun(2018)的研究表明，在控制两性风险承受能力后，男性的信任水平优势便不再显著。与之相关，睾酮(典型男性激素)对风险偏好的促进作用也为男性信任优势提供了生理解释。Apicella 等人(2014)发现，睾酮水平越高，被试在风险诱发任务中的冒险行为倾向越强，风险回避水平越低。
+
+不过，考虑到信任博弈范式与风险偏好关系密切(Thielmann&Hilbig,2015)，且绝大多数运用信任博弈范式(而非量表信任)的研究支持男性信任水平具备优势效应的观点(Buchanet al., 2008; Chaudhuri & Gangaharan, 2002; Dittrich,2015; Derks et al., 2014; Garbarino &Slonim, 2009; Groep et al.,2020; Holden & Tiahum, 2018; Lemmers-Jansen et al.,2017; Macko,2020; Romano et al.,2017;Wu,etal.,2020)。这意味着，当前研究结果一方面可以作为男性基于风险偏好表现出高信任水平的证据，另一方面或许表明男性信任水平的优势效应依赖于信任博弈的范式特性。研究发现，风险偏好可能通过范式变动(如，投资增值率)影响博弈范式的内部效度，降低其表征信任的测量功效(贡喆 等,2021)。有研究者甚至据此质疑信任博弈范式测量的并不是信任(Sapienza et al.,2013; Thielmann & Hilbig,2015)。Filippin 和Crosetto(2016)就指出，风险任务的投资回报水平(即投资增值率)是引发性别差异的重要诱因。例如，Garbarin 和 Slonim(2009)发现，女性在信任博弈中对投资回报的期望远低于男性。若投资回报的最大预期收益达到30美元，两性信任水平存在显著差异，但当最大预期收益为15美元时，信任的性别差异就不再显著。由于信任博弈范式可能受到风险偏好的影响，因此，在对信任博弈中发现的男性强势表现进行解释时，就需要充分评估信任测量方法的潜在干扰。
+
+此外，本文发现大多数西方信任研究支持男性信任水平具备优势效应的观点(Buchan etal., 2008; Chaudhuri & Gangaharan, 2002; Dittrich, 2015; Derks et al., 2014; Garbarino &Slonim,2009; Groep et al.,2020; Holden & Tiahum,2018; Irwin & Berigan,2013; Lemmers-Jansen et al.,2017; Macko,2020; Romano et al.,2017; Wu, et al.,2020; Zeffane,2018)，而在我国研究中，该观点并未得到充分支持(刘广增 等,2016;李彩娜 等,2016;辛自强,周正,
+
+2012)，这可能与东西方信任观的差异有关。王沛等人(2016)总结，在西方社会，受托方能力、责任感等个人特质更受重视。而在中国，人们更强调人际关系因素，重视先天及后天的连带关系(吴继霞,黄希庭,2012;杨中芳,彭泗清,1999)。因此，当前主流的西方信任评价体系或许无法充分表征东方文化背景中的信任特征。例如，东西方可能存在信任半径(trust radius)的不同，导致被试在解读量表信任研究中“大多数人是否值得信任”时，对“大多数人”的理解范围存在文化差异，即集体主义文化(如中国)与个体主义文化(如美国)相比具备更窄的信任半径(van Hoorn,2015)。又如，Zhao 和 Zhang(2016)针对中国被试的研究发现，男性对女性的信任水平最高，男性对男性的信任水平最低。但西方研究却发现，男性对男性的信任水平最高，女性对女性的信任水平最低(Rapoport&Chammah,1965)；另有研究发现被信任者性别对两性信任水平没有显著影响(Buchan,etal.,2008)。该差异可能与东方传统文化强调男性占据主导，而女性偏向服从的理念有关(Zhao& Zhang,2016)。
+
+# 2.2女性信任水平具备优势效应
+
+# 2.2.1实证与理论支持
+
+女性信任水平具备优势效应在一系列量表及实验研究中得到体现(Falk&Hermle,2018;Furumo & Pearson, 2007; Rodrigo-Gonzalez et al.,2019; van den Akker et al.,2020; Zeffane,2020)。例如，Falk 和Hermle于2018年发表在《Science》上涵盖76个国家，涉及约80000 名被试的调查研究发现，女性信任水平显著高于男性。Rodrigo-Gonzalez等人(2019)则借助匿名化、随机化的多轮信任博弈发现，女性整体而言具备更高的信任水平。
+
+研究者通常从亲社会的视角解释这一现象(Derks et al.,2014; Yamagishi et al.,2015)。亲社会是一种社会价值取向(social value orientation)，持有亲社会观念的个体同时注重自我和他人的利益(Pletzer et al.,2018;魏真瑜 等,2021)。有研究者认为，信任即道德和亲社会行为。例如，Uslaner(2002)提出，信任是一种道德义务，是假定他人都值得信任的信念系统。脑科学研究同样揭示了信任与亲社会的紧密关联。例如，Krueger等人(2008)发现，信任与互惠具有相似的脑机制，均依赖于心智化(mentalizing)和共情(empathy)相关的神经系统，具体表现为内侧前额叶(medial prefrontal cortex,mPFC)、颞顶联合区(temporoparietal junction,TPJ)以及前脑岛(anterior insula,AI)的显著激活。更重要的是，众多研究表明，与男性相比，女性亲社会水平更高(Falk&Hermle,2018;郑晓莹 等,2015)，在友善、亲和、共情以及情感表达能力等方面表现强势(Derks et al.,2014; Eagly,2009; Eagly& Wood,1999; Zhao & Zhang,2016)。此类特质可能促使女性在社会活动中更加关注互动对象的情绪感受，从而更好地帮助女性从亲社会直觉或道德义务的角度做出信任决策。生理研究证据为女性信任水平更高提供了侧面支持(Kosfeld et al.,2005)。雌激素(典型女性激素)被认为能够促进催产素的产生(Choleriset al.,2008)，而催产素作为“信任激素”，可以显著提升个体信任(Kosfeld et al.,2005)、慷慨(Barraza et al.,2011)、合作(De Wilde et al.,2017)等亲社会行为的水平，提示女性在该领域的优势具备相应的生化基础。例如，DeWilde 等人(2017)发现，催产素能显著提高个体为获取团队利益而牺牲自身收益的决策倾向。
+
+# 2.2.2分析与讨论
+
+本文总结发现，女性基于亲社会动机表现出高信任水平的证据尚不充分。Derks 等人(2014)针对206名青少年的研究发现，亲社会虽能显著正向预测信任水平，但社会价值取向(亲社会)和性别实际上是两个独立的信任预测因子。人口学数据进一步显示，女性亲社会水平虽更高，但男性信任水平却更为强势。甚至有研究表明，男性在信任水平和亲社会倾向方面均有优势(Kanagaretnam et al.,2009)。此外，尽管有研究支持女性更倾向于在不平等互动中(风险独裁者博弈，risky dictator game)投资(Hong& Bohnet,2007)，但众多信任博弈研究结果显示，博弈双方持有金额的不对等状态(不公平情境)并未显著激发女性信任(Buchanet al.,2008;Ditrich,2015)。例如，Brulhart和Usunier(2012)的研究显示，被信任者持有金额多少无法对两性投资行为产生差异影响。
+
+虽然女性信任的亲社会优势受到了研究质疑，但有大量证据表明女性不仅偏好从关系维持的角度建立信任，也更具备维护信任关系的能力(Cox&Deck,2006;Haselhuhn et al.,2015; Shao,2019; Warner-Soderholm et al, 2018; Zinchenko et al.,2017)。Rodrigo-Gonzalez 等人(2019)认为，女性信任决策更关注被信任者的相似性特征，当被信任者与信任者之间的同质化(homogenous)程度提高(如信任者与被信任者互相熟悉)，女性风险感知水平就可能显著下降，从而促进其信任意愿提升。这与Buchan 等人(2008)认为女性信任具备社群性(communal)倾向和过程导向(process-based)，注重程序性(procedural)的观点相符。研究发现，女性不仅看重被信任者的正直、相似性、社会距离以及在互动中的友好感知(Cox&Deck,2006;Warner-Soderholm et al,2018; Zinchenko et al.,2017)，也非常关注信任建立中的自身形象，擅长在与社群性密切相关的信任维度中表现强势(如情感信任)(Shao,2019)。Macko(2020)指出，当信任博弈采用仅在“全部投资”和“不投资”中进行抉择的二元信任范式时，女性可能因“不投资”会被识别为敌意行为，继而更倾向于在二元范式中选择投资。与背叛相关的信任研究进一步支持了女性信任的社群性偏向。Wu等人(2020)的脑研究发现，在信任博弈中，女性的膝下前扣带回(subgenualACC,SgACC)在投资风险增加时激活程度逐渐降低，提示女性在博弈互动中对背叛等社会风险的高度敏感。更重要的是，Haselhuhn 等人(2015)的研究显示，与男性相比，女性在遭受背叛后更能够保持对背叛者的信任，具备更快的信任修复速度，显示出女性信任在修复与保持阶段的弹性。据此，本文推测，第一，社群性与亲社会概念虽然相近，但二者并不等同。前者强调对互动关系的重视和维持(Buchan et al.,2008)，后者注重对他人利益的保护(Pletzer et al.,2018;魏真瑜 等,2021)。因此，女性信任的社群性特征，或许并不能促使女性在以风险偏好(信任博弈)为主导的信任测量体系中表现出亲社会路径的强势。第二，两性信任差异研究大多仅表征信任建立阶段，尚未充分涉及动态化的信任发生过程，这可能导致女性社群性信任的优势难以充分彰显。第三，两性互动的差异性往往表现在具体的社会情境中(Balliet et al.,2011;Croson &Gneezy,2009)，受到互动对象特征等女性特别关注变量的影响(Rodrigo-Gonzalez et al.,2019)。然而，当前该领域研究往往忽视此类情境变量的调节作用，这也可能导致女性亲社会层面的信任水平优势缺乏展现机会。
+
+# 3信任水平无性别差异观
+
+# 3.1实证与理论支持
+
+大量研究未发现两性信任水平存在显著差异(Hyde,2005;Haselhuhn etal.,2015;Lemmers-Jansen et al., 2019; Li et al., 2019; Navarro-Carrillo et al., 2018; van den Bos et al.,2010;辛自强,周正,2012)，为两性信任水平相近的观点提供了支持。例如，Navarro-Carillo等人(2018)针对西班牙889名被试的调查研究发现，两性在一般信任、人际信任以及团体去个性化信任(depersonalized ingroup trust)中均无显著差异。
+
+研究者一般基于性别相似性假设解释两性信任水平相近的现象(Hyde,2005)。早在1914年，Thormdike 就指出，与单一性别内变异(with-in gender variation)相比，两性的心理差异微乎其微。性别相似性假设认为，大多数心理变量的性别差异效应量在小 $( 0 . 1 1 { < } \mathrm { d } { < } 0 . 3 5 )$ 到趋近于零 $( \mathrm { d } { < } 0 . 1 0 )$ 这一区间，少数处于中等 $( 0 . 3 6 { < } \mathrm { d } { < } 0 . 6 5 )$ 到大 $( 0 . 6 6 { < } \mathrm { d } { < } 1 )$ 或非常大 $( \mathrm { d } { > } 1 )$ 的水平(Hyde,2005)。Hyde(2005)旗帜鲜明的提出，两性在大多数的心理变量上水平相近，并不存在根本差异。其元分析研究表明，两性约 $78 \%$ 的变量(该研究涉及124个变量)差异处于小到趋近于零的水平。其中，信任性别差异效应量较小 $\scriptstyle ( \mathrm { d } = \scriptstyle - 0 . 3 5 )$ ，而效应量差异较大的变量则集中在与性、运动以及攻击性相关的领域(Hyde,2005)。依据经典社会角色理论，两性因社会网络和社会资本的不同而表现出人际互动方式的特异性(Eagly&Wood,1999)。然而，伴随着社会经济的发展，两性社会资源的差异逐渐消失，传统性别角色日益解体，这可能会弥合两性的信任水平差异。Falk和Hermle(2018)就据此推断，两性在当今社会的行为与观念应更趋于同化。辛自强和周正(2012)的研究证实了此观点，他们对我国1998年至 2009年的信任研究开展了一项元分析，结果发现中国大学生的信任水平并无显著性别差异，且两性信任水平随时间推近表现出趋同的态势。
+
+# 3.2分析与讨论
+
+虽然存在大量实验证据表明两性信任水平相近，然而，考虑到该观点的验证有赖于研究结果的不显著，因此两性信任水平相近的推论存在一定风险。即或许由于测量方式、统计方法以及样本局限等问题未能使两性差异充分显现，从而间接验证两性信任水平相近的观点。例如，Haselhuhn 等人(2015)通过二元信任博弈范式发现，两性信任水平相近，且女性具有更快的信任修复速度。而Macko(2020)运用经典信任博弈范式则得到了完全不同的结果，他发现男性不仅信任水平更高，信任修复速度也更快。考虑到信任博弈范式的调整可能受到风险偏好和社会偏好的影响(如，二元与非二元)(贡喆 等,2021)，或许Haselhuhn 等人(2015)与Macko(2020)研究结果的差异实则与范式变化有关。有证据表明，与非二元信任博弈中男性明显表现出优势效应不同，在绝大多数二元信任博弈中，男女信任水平差异不显著(Binzel & Fehr,2013; Haselhuhn et al.,2015; Kiyonari et al.,2006; van den Bos et al.,2010)。因此，诸如Haselhuhn 等人(2015)的研究结果究竟是支持了两性信任水平相近的观点，又或是信任范式运用的结果，就需打上问号。
+
+本文认为，信任测量范式本身的不足可能是两性信任差异未得到捕捉的重要原因。一方面，信任博弈范式难以充分表征多维度信任。信任依据被信任者特征可划分为能力信任(ability trust)、正直信任(integrity trust)以及善意信任(benevolence trust)(Mayer et al.,1995)。有观点认为，信任博弈中的信任行为主要基于善意层面，很少涉及能力和正直维度(Levine&Schweitzer,2015)。因此，信任博弈单一的维度考察可能无法充分揭示两性多信任维度的差异。另一方面，量表信任缺乏生态效度。信任量表多为基于模糊情景的自我评定，表征个体非情境化的信任态度。然而实际生活中，信任是高度结构化、情境化的行为。由于量表信任难以体现信任决策的复杂过程，或许令两性信任差异难以充分表露。
+
+此外，性别相似性假设的可靠性仍有待进一步检验。一系列研究表明，两性偏好差异与社会经济发展水平以及性别平等程度呈正相关，日益发展的社会经济不但未能弥合两性差异，反而促使两性展现出更加传统的角色定位(Falk&Hermle,2018;Giolla& Kajonius,
+
+2019; Schmitt et al.,2017)。例如，在性别越平等的国家中，女性具备更高水平的忧虑(worried)、社交(social)、好奇(inquisitive)、关心(caring)、尽责(responsible)等典型传统女性特征(Giolla&Kajonius,2019)。同时，两性若干心理特质(黑暗三联征、自尊、主观幸福感、抑郁水平、价值观等)在性别角色(gender roles)更平均，性别社会化(gender socialization)更完善，两性社会政治地位(sociopolitical gender equity)更平等的地区中差异也更显著(Schmitt et al.,2017)。社会经济发展不只满足人类生存需要，或许还为两性展现差异创造条件(Falk&Hermle, 2018)。
+
+# 4展望
+
+# 4.1合理运用信任测量方法
+
+信任博弈与量表信任作为主流信任测量方法，二者在两性信任研究中的结果存在较大差异。与信任博弈极大程度支持男性信任水平具备优势效应不同，量表信任研究对男性信任水平具备优势效应(Irwin&Berigan,2013; Zeffane,2018)、女性信任水平具备优势效应(Falk &Hermle,2018; Zeffane,2020)以及两性信任水平相近(Navarro-Carrillo et al.,2018)的三种主要观点均提供了一定程度的支持。该差异可能与研究范式运用有关，给阐明两性信任问题带来一定隐患。
+
+信任博弈方面，信任博弈作为以投资水平表征信任的间接测量方法，通过“投资行为”指代信任可能引入无关变量，对内部效度产生不良影响。例如，van den Akker 等人(2020)提出“男性倍增效应”(male multiplier effect)，即当博弈范式中包含获益乘积倍增时，男性无论是作为发起者(信任博弈中的投资者)，还是作为回应者(被投资者)，都比女性投资更多，体现男性投资倾向密切受到研究范式中风险偏好因素的干预。因此，未来研究需要综合采用多种方法，进一步验证信任博弈范式变动的科学性，尝试剥离“投资情景”对信任范式的干扰。其中，需要重点关注男性在信任博弈中的优势地位多大程度上基于“信任”而非“风险偏好”。研究者一方面可在信任博弈研究中主动施测风险偏好等变量，检验两性投资水平与风险偏好的关系；另一方面，还可借助质性研究的方法，探明两性在信任博弈中于认知、态度、情感等层面的异同。
+
+量表信任方面，对于两性信任水平差异在信任博弈和量表信任中的相对特异性表现，可能有以下三种原因。第一，量表信任以主观汇报的方式表征个体信任倾向，未涉及信任博弈的风险投资情景。据此，量表信任在一定程度上规避了男性可能因信任博弈范式获得高信任的潜在问题。第二，与信任博弈范式相比，量表信任涵盖的信任类型更加全面，可能更充分地体现两性在多种信任类型中的相同和相异偏向。第三，信任博弈是信任的间接测量范式，而量表信任则是信任的直接表征方法(Bauer&Freitag,2018)。还有观点认为信任博弈与量表信任分别表征信任的行为与特质两种系统(贡喆 等,2021)。因此，当前研究结果也可能揭示了男性在信任间接测量体系和信任行为方面的强势，而该优势效应在直接评判信任特质的测评系统中并不显著。
+
+综上，本文认为，未来应更合理地运用信任测量方法，一方面，尝试剥离信任博弈范式中投资情景本身造成的干扰；另一方面，采用多测量手段并重的方式表征多维度信任(如信任博弈加量表信任)。通过横向比较不同研究和不同测量方法的研究结果，可以更精准地捕捉两性信任行为的具体特征，有助于真正厘清两性信任的差异问题。
+
+# 4.2澄清信任动态变化过程中的性别特征
+
+当前研究对信任变量的理解和操作普遍较为静止和片面，尚未充分涉及信任动态化的心理发生过程。本文认为，信任动态化至少体现在以下三方面。第一，从信任的发生机制角度看，信任在个体及人际层面具备动态化的发生机制；第二，从发展心理学角度看，信任的毕生发展轨迹存在性别差异；第三，从跨文化的角度出发，信任的动态化还体现为不同文化背景对信任的差异影响。
+
+从信任发生机制角度看，信任作为动态化的心理发生过程，可分为建立与发展，背叛与保持两部分(张宁 等,2011)。在以往研究中，研究者大多侧重于信任建立环节，而对信任发展、背叛与保持未能给予足够关注。研究初步表明，男女在遭遇背叛后的信任保持和修复方面均存在显著差异(Haselhuhn et al.,2015; Macko,2020)。
+
+从发展心理学角度看，信任的个体化发展进程并非一成不变。研究表明，信任与年龄存在显著正相关(Castle et al.,2012;Li&Fung,2013)。但也有研究者认为，信任与年龄并非简单的线性关系。例如，Sutter和Kocher(2007)发现信任水平从幼儿期到成年早期几乎是线性增长，但在成年中期和晚期趋于稳定；还有研究者提出信任水平与青春期存在微弱但显著的负相关(Derks et al.,2014)。然而，当前两性信任水平的差异研究尚未充分考察年龄因素对结果的影响。有研究初步表明，男性的信任水平随年龄发展呈现倒U型变化，但女性信任水平与年龄的相关不显著(Dittrich，2015)。
+
+从跨文化的角度出发，不同文化背景可能对信任产生差异影响。文化是影响个人认知和行为的重要因素，人际信任的产生依赖于特定的文化背景和社会结构(王沛 等,2016)。研究者指出集体与个体主义文化背景赋予东西方不同的信任表现(吴继霞,黄希庭,2012;王沛 等，2016;杨中芳,彭泗清,1999)。东西方信任差异可能体现在信任水平和维度两个层面。在信任水平层面，传统东方文化可能塑造出较低的信任水平。例如，Yamagishi.T和Yamagishi.M(1994)发现，日本社会强调人际关系网络的文化导致其国民信任水平显著低于美国。从信任维度的层面出发，东方文化可能塑造出关系倾向的信任特征。 $\mathrm { H u } ( 2 0 0 7 )$ 的研究表明，中国台湾的管理者更信任关系亲近的员工，而美国的管理者更信任能力强的员工。不过，当前研究尚无法回答不同文化背景对两性信任水平和特征的影响是否存在差异等问题。因此，未来研究有待从文化与性别交互的视角出发，考察两性在不同文化体系中的信任异同。
+
+# 4.3深化两性信任差异的神经生理机制研究
+
+行为实验初步探讨了两性的信任差异问题，但信任背后的神经机制并不清晰(Wu et al.,2020)。研究者难以仅从行为或特质层面厘清两性信任水平差异的内部机制和发生过程，因此，通过深化两性信任差异的神经生理研究，有利于从根本上揭示两性的信任差异问题。
+
+Lemmers-Jansen 等人(2016;2019)的系列研究发现，两性在互惠情境中的信任投资存在脑区激活差异，而在背叛情境中的脑机制差异不显著。不过，两项研究发现信任水平的性别差异并不一致(前者两性信任水平在基线、背叛情境中差异显著，后者在所有情境中均不显著)，尚无法充分说明两性信任水平的认知神经机制与脑功能定位。此外，Wu等人(2020)虽然发现男性在信任博弈中比女性表现出更高水平的信任，且在与认知控制(cognitivecontrol)、自我参照(self-referencing)相关脑区存在显著激活。不过，考虑到该领域研究数量较少，且信任博弈范式可能存在一定缺陷，因此两性信任差异的脑机制研究仍有待深入。通常来讲，信任的主要脑区定位在内侧前额叶皮质、尾状核、杏仁核和脑岛(张蔚 等,2016)，未来研究可综合运用ERP，fMRI等技术着重从信任关键脑区入手，更系统地考察两性信任水平异同的脑机制。例如，考察两性在多种信任情境中是否存在特异化的信任神经通路(如，男性偏风险偏好，女性偏亲社会等)，从而对当前研究做出更好的解释和补充。
+
+研究者还可以从生理激素层面探究两性信任水平的差异机制。现有研究表明，性激素与个体社会认知、社会行为息息相关。例如，有研究发现雌二醇和孕酮对女性知觉威胁信息的显著促进效果(Conway et al.,2007)；睾酮对个体共情能力(Heany et al.,2020)具备复杂影响。因此，差异的性激素基线水平可能是两性不同信任特征的重要来源之一。对于典型的信任相关激素(如催产素)，未来研究尚需从性别交互作用的角度深入考察。考虑到女性生理周期可能对催产素功效存在影响，当前绝大多数研究都是基于男性被试做出的推论(岳童 等，2017)。然而，岳童等人(2017)指出，对于男性而言，催产素使其表现出更强的竞争性，并对奖赏刺激更加敏感；而对于女性，催产素则是提高她们对积极情绪信息的知觉，使之表现出更强的合作性、利他性，还可能抑制女性奖赏系统的激活水平。因此，生理激素可能对信任施加非一般性的影响，其对两性的差异作用还与其他因素有关，有待未来研究阐明。
+
+参考文献刘广增,胡天强,张大均.(2016).中学人际关系及其与自尊、人际信任的关系.中国临床心理学杂志,24(2),349-355.李彩娜,孙颖,拓瑞,刘佳.(2016).安全依恋对人际信任的影响：依恋焦虑的调节效应.心理学报,48(8),989-1001.贡喆,唐玉洁,刘昌.(2021).信任博弈真的能测量信任吗?心理科学进展,29(1),19-30.魏真瑜，邓湘树,赵治瀛.(2021).亲社会行为中的从众效应.心理科学进展,29(3),531-539.吴继霞,黄希庭.(2012).诚信结构初探.心理学报,44(3),354-368.王沛,梁雅君,李宇,刘雍鹤.(2016).特质认知和关系认知对人际信任的影响.心理科学进展,24(5),815-823.辛自强,周正.(2012).大学生人际信任变迁的横断历史研究.心理科学进展,20(3),344-353.岳童,黄希庭,刘光远.(2017).催产素影响人类社会认知的性别差异.心理科学进展,25(12),2157-2167.杨中芳,彭泗清.(1999).中国人人际信任的概念化：一个人际关系的观点.社会学研究,2(2),1-21.严瑜,吴霞.(2016).从信任违背到信任修复:道德情绪的作用机制.心理科学进展,24(4),633-642.郑晓莹,彭泗清,彭璐珞.(2015).“达”则兼济天下？社会比较对亲社会行为的影响及心理机制.心理学报，47(2),243-250.张蔚,张振,高宇,段华平,吴兴南.(2016).经济决策中人际信任博弈的理论与脑机制.心理科学进展,24(11),1780-1791.张宁,张雨青,吴坎坎.(2011).信任的心理和神经生理机制.心理科学,34(5).1137-1143.Apicella, C.L.,Dreber, A.,& Mollerstrom, J. (2014). Salivary testosterone change following monetary wins andlosses predicts future financial risk-taking. Psychoneuroendocrinology,39, 58-64.Binzel, C.,& Fehr,D. (2013).Social distance and trust: Experimental evidence from a slum in Cairo.Journal ofDevelopment Economics,103,99-106.Balliet,D.,Li,N.P.,Macfarlan,S.J.,& VanVugt,M. (2Ol1).Sex diffrences incooperation: ameta-analyticreview of social dilemmas. Psychological Bulletin,137(6),881-909.Barraza,J.A.,McCulough,M.E.,Ahmadi,S.,& Zak,P.J. (2011).Oxytocin infusion increases charitabledonations regardless of monetary resources. Hormones & Behavior, 60(2),148-151.Brulhart, M.,& Usunier, J. C.(2012).Does the trust game measure trust? Economics Leters,115(1),20-23.
+
+Buchan,N.R.,Croson,R.T.A.,&Solnick,S. (2O08).Trustand gender: Anexamination ofbehaviorandbeliefs in the investment game.Journal of Economic Behavior& Organization,68(3-4),466-476   
+Bauer,P.C.,& Freitag,M. (2018). Measuring trust.In E. Uslaner(Eds.)，The Oxford handbook of social and political trust (pp.15-36). Oxford Press.   
+Chaudhuri,A.,& Gangadharn,L. (2002). Gender diferences in trust and reciprocity.Department of Economics Working Papers, 45(1), 81-95.   
+Conway, C.A.,Jones,B.C.,DeBruine,L.M.,Welling,L.L.M.,Law Smith,M.J.,Perrett,D.1..A-Dujaili,E. A. S. (007). Salience of emotional displays of danger and contagion in faces is enhanced when progesterone levels are raised. Hormones and Behavior, 51,202-206.   
+Choleris，E.，Devidze，N.，Kavaliers，M.，& PfafD.W.(2008). Steroidal/neuropeptide interactionsin hypothalamus and amygdala related to social anxiety. Progress in Brain Research,170,291-303.   
+Castle,E.,Eisenberger,N.1.，Seeman,T.E.,Moons,W.G.,Boggero,I.A.,GrinblattM.S.,& Taylor,S.E. (2012). Neural and behavioral bases of age diffrences in perceptions of trust. Proceedings of the National Academy of Sciences,109(51),20848-20852.   
+Charness, G.,& Gneezy, U.(2012). Strong evidence for gender differences in risk taking. Journal of Economic Behavior & Organization,83(1), 50-58.   
+Cox, J. C.,& Deck, C. A.(2006) When are women more generous than men? Economic Inquiry, 44, 587-598.   
+Croson,R., & Gneezy, U. (2009). Gender diferences in preferences. Journal of Economic Literature,47(2), 448474.   
+Eagly,A.H. (2Oo9).The his and hers of prosocial behavior: An examinationof the social psychology of gender. American Psychologist, 64(8), 644-658.   
+Eagly,A.H.,& Wood, W.(1999).The originsofsex diferences in human behavior: Evolved dispositions versus social roles.American Psychologist, 54(6), 408-423.   
+Filippin,A.,& Croseto,P.(2O16).Areconsiderationof gender diferences inrisk attitudes.Management Science, 62(11), 3138-3160.   
+Falk,A.,& Hermle, J. (2018). Relationship of gender diferences in preferences to economic development and gender equality. Science,362(6412),eaas9899.   
+Fehr,E. (209). On the economics and biology of trust.Journal ofthe European Economic Asociation,7(2-3), 235-266.   
+Furumo,K.,&Pearson,JM. (2oo7). Gender-based communication styles,trust,and satisfaction in virtual teams Journal of Information,Information Technology,and Organizations (Years 1-3),2,047-060.
+
+Garbarino,E.，& Slonim,R.(2o09).The robustness of trust and reciprocity across a heterogeneous U.S. population. Journal of Economic Behavior & Organization, 69(3),226-240.
+
+Groep,S.,Meuwese,R.,Zanolie,K., Guroglu,B.,& Crone,E.A. (202O). Developmental changes and individual diferences in trust and reciprocity in adolescence. Journal of Research on Adolescence,30(S1),192-208.   
+Hu, H. (20o7). Acomparative study of the efects of Taiwan-United States employeecategorization on supervisor trust. Social Behaviorand Personality: An International Journal,35(2),22942.   
+Hyde, J. S. (2005). The gender similarities hypothesis.American Psychologist,60(6),581-592.   
+Hong,K.,&I. Bohnet. (2Oo7).Status and distrust: The relevance of inequalityand betrayal aversion. Journal of Economic Psychology,28(2),197-213.   
+Haselhuhn,M.P.,Kennedy, J.A.,Kray,L.J., Van Zant,A.B.,& Schweitzer,M.E. (2015). Gender differences in trust dynamics: Women trust more than men following a trust violation. Journal of Experimental Social Psychology, 56,104-109.   
+Heany, S.J.,Terburg,D.,Stein,D.J.,van Honk,J.,&Bos,P.A. (2O2O). Neural responses inthe pain matrix when observing pain of others are unaffected by testosterone administration in women. Experimental Brain Research, 238(3), 751-759.   
+Holden,S.T.，& Tilahun,M.(2o18). Gender diffrences in risk tolerance,trust and trustworthines: Are they related? Norwegian University ofLife Sciences Centre forLand Tenure Studies,18,1-27.   
+Irwin, K.,& Berigan,N.(20l3). Trust, culture,and cooperation: A social dilemma analysis of pro-environmental behaviors. The Sociological Quarterly, 54(3), 424-449.   
+Irwin,K.， Edwards，K.，& Tamburelo,J. A. (2015). Gender,trust and cooperation in environmental social dilemmas. Social Science Research,50,328-342.   
+Krueger,F.， Grafiman, J.，& McCabe,K. (2008). Neural correlates of economic game playing. Philosophical Transactions of the Royal Society B: Biological Sciences,363(1511),3859-3874.   
+Kanagaretnam, K.,Mestelman,S.,Nainar,K.,& Shehata,M. (2oo9).The impact ofsocial value orientationand risk atitudes on trust and reciprocity. Journal ofEconomic Psychology, 30(3),368-380.   
+Kosfeld,M.,Heinrichs,M.,Zak,P.J.,Fischbacher, U.,&Fehr,E. (2oo5).Oxytocin increases trust in humans. Nature, 435(7042), 673-676.   
+Kiyonari,T.， Yamagishi, T., Cook, K. S.,& Cheshire, C.(2006). Does trust beget trustworthiness Trust and trustworthiness in two games and two cultures: Aresearch note. Social Psychology Quarterly, 69(3),270-283   
+Li, C.,Turmunkh,U.,& Peter,P.W. (2019).Trust as adecision under ambiguity.Experimental Economics,22(1), 51-75.
+
+Levine,E.E.,& Schweitzer,M.E.(20l5).Prosocial lies: When deception breeds trust.Organizational Behavior and Human Decision Processes,126,88-106.
+
+Lemmers-Jansen,I.L.J.FettA.-K.J.,ShergillS.S.,vanKesteren,M.T.R.,&Krabbendam,L. (29).Gilsboys: An investigation of gender diferences in the behavioral and neural mechanisms of trust and reciprocity in adolescence.Frontiers in Human Neuroscience,13,780-790.   
+Lemmers-Jansen,I. L.J.， Krabbendam, L.， Veltman,D.J.，& Fett A.-K.J. (2017).Boys vs.girls: Gender diferences in the neural development of trust and reciprocity depend on social context. Developmental Cognitive Neuroscience, 25,235-245.   
+Li,T.,& Fung, H. H. (2013). Age diffrences in trust: An investigation across 38 countries.The Journals of Gerontology Series B:Psychological Sciences and Social Sciences,68(3),347-355.   
+Markowitz, H. (1952). Portfolio selection. Journal ofFinance,7(1), 77-91.   
+Mayer,R. C., Davis,J. H.,& Schoorman,F.D. (1995). An integrative model of organizational trust. Academyof Management Review, 20(3),709-734.   
+Navaro-Carillo,G., Valor-Segura,I.，& Moya, M. (2018).Do you trust Strangers,close acquaintances,and members of your ingroup? Differences in trust based on social class in Spain. Social Indicators Research, 135(2), 585-597.   
+Neufang， S.， Specht, K., Hausmann, M.，Gunturkun, O.， Herpertz-Dahlmann,B.,Fink, G.R.，& Konrad, K. (2009). Sex differences and the impact of steroid hormones on the developing human brain. Cerebral Cortex, 19(2), 464-473.   
+Pletzer, J.,Balliet,D.,Joireman,J.,Kuhlman,D., Voelpel,S.,&van Lange,P.(2O18).Socialvalue orientation, expectations,nd cooperation in social dilemmas: Ameta-analysis.European Journal ofPersonality,32(1),62 83.   
+Romano,A.,Balliet,D., Yamagishi,T.,&Liu,J.H. (2Ol7).Parochial trust andcooperation across17societies. Proceedings of the National Academy of Sciences,114(48), 12702-12707.   
+Rodrigo-Gonzalez,A.， Caballer-Tarazona，M.，& Garcia-Gallego,A.(2019).Active learning on trust and reciprocity for undergraduates. Sustainability,11, 4399.   
+Rapoport,A., & Chammah,A.M. (1965). Sex diffrences in factors contributing to the level of cooperation in the prisoner's dilemma game. Journal of Personality and Social Psychology,2(6),831-838.   
+Rousseau,D.M.,Sitkin,S.B.Burt,R.S.,& Camerer,C.(1998).Introduction to special topic forum: Not so different after al: A cross-discipline view of trust. The Academy ofManagement Review, 23(3),393-404.   
+Shao,B.(2O19).Moral anger as a dilemma?An investigation on how leader moral anger influences follower trust.
+
+TheLeadership Quarterly,30(3),365-382.
+
+Schmit,D.P.,Long,A.E.,McPhearson,A., O'Brien, K.,Remmert,B.,& Shah,S.H. (2017).Personality and gender diferences in global perspective: gender and personality. International Journal of Psychology, 52, 45- 56.   
+Sutter, M.,& Kocher, M. G. (2oo7). Trust and trustworthinessacross diferent age groups.Games and Economic Behavior, 59(2),364-382.   
+Sapienza,P. Toldra Simats,A.,& Zingales,L. (2013). Understanding trust. The Economic Journal,123(573), 1313-1332.   
+Thorndike,E.L. (1914). Educational psychology (Vol. 3). New York: Teachers College, Columbia University   
+Thielmann, I., & Hilbig, B.E. (2015). Trust: An integrative review from a person-situation perspective. Review of General Psychology,19(3),249-277.   
+Uslaner, E. M. (2002). The moral foundations of trust. Cambridge University Press.   
+van den Akker,O.R.,van Assen,M.A.,van Vugt,M.,& Wicherts,J. M. (202O). Sex differences in trust and trustworthiness: A meta-analysis of the trust game and the gift-exchange game. Journal of Economic Psychology, 81,102329.   
+van den Bos, W., Westenberg, M.,van Dijk,E., & Crone, E.A. (2010). Development of trust and reciprocity in adolescence. Cognitive Development,25(1), 90-102.   
+van Hoorn,A. (20l5). Individualist-colectivist culture and trust radius: Amultilevel approach. Journal of CrossCultural Psychology, 46(2), 269-276.   
+Warner-Soderholm, G.,Bertsch,A.,Sawe,E.,Lee,D., Wolfe,T.,Meyer,J.,..&Fatilua, U.N. (2018). Who trusts social media?Computers in Human Behavior,81,303-315.   
+Wu,Y.,Hal,A.S.M.,Siehl,S., Grafman,J.,& Krueger,F. (2O2). Neural signaturesof gender diferences in interpersonal trust. Frontiers in Human Neuroscience,14,1-11.   
+Yamagishi,T,Akutsu,S.,Cho,K., Inoue,Y.,Li,Y.,&Matsumoto,Y.(2015).Two-component model of general trust: Predicting behavioral trust from atitudinal trust. Social Cognition,33(5), 436-458.   
+Yamagishi,T.,& Yamagishi,M.(1994).Trust and commitment in the United Statesand Japan. Motivation and Emotion,18(2),129-166.   
+Zhao,N.,& Zhang,J. (2O16). Gender diffrences in trusting strangers: Roleofthe target’s gender. PsyCh Journal, 5(2), 83-91.   
+Zinchenko, Y. P., Zotova, O. Yu.,，& Tarasova,L. V. (2017). Specifics of interpersonal trust among people with different gender identities. Psychology in Russia: State of the Art,10(2),134-148.   
+Zeffane,R.(2O15). Gender,trust and risk-taking: a literature review and proposed research model. Journal of Enterprising Communities: People and Places in the Global Economy,9(3),221-232.   
+Zeffane,R. (2O18). Do age，work experience and gender affect individuals’ propensity to trust others? An exploratory study in the United Arab Emirates.International Journal of Sociology and Social Policy,38(3/4), 210-223.   
+Zeffane，R.(2O20).Gender， individualism-collctivism and individuals’propensity to trust:A comparative exploratory study. Journal of Management & Organization,26(4), 445-459.
+
+# Arethere sex differences in trust levels?
+
+QU Jiachen; GONG Zhe
+
+(School of Psychology, Sichuan Normal University, Chengdu 610068, China)
+
+Abstract: Academics have different opinions regarding the sex difference in trust level. One group of researchers holds the view of sex differences in trust levels,where risk preference theory supports the view that men have a higher level of trust, and the advantages over the women in the prosocial field provide support for women to have a higher level of trust. However, another group of scholars believe that there is no sex difference in trust level, which is based on the gender similarities hypothesis. Although the views of the two groups and their theoretical foundations have been supported to a certain extent; however, they need to be comprehensively analyzed and clarified about their rationality from the perspectives of research paradigms and cultural differences between the East and the West. Future research use trust measurement methods need to be more rationally, then clarify the sex characteristics of trust in the dynamic process of change, and deepen the research on the neurophysiological mechanism of the trust difference between the sexes, thus fundamentally better reveal the issue of sex differences in trust levels. K av wnrde: trct cav trict qama

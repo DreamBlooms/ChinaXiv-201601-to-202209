@@ -1,0 +1,267 @@
+[
+    {
+        "type": "text",
+        "text": "甲状旁腺激素1型受体在肾脏疾病中的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鄢鹏，宋健玲，房向东 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10.12114/j.issn.1007-9572.2022.0523基金项目：国家自然科学基金资助项目(82160143)330000 江西省南昌市，南昌大学第二附属医院肾内科\\*通信作者：房向东，主任医师；E-mail: xiangdongfang818@sina.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】甲状旁腺激素1型受体(PTHIR）是G蛋白偶联受体家族成员之一，广泛表达于体内，参与体内胚胎发育、钙磷稳态、机体代谢、肿瘤发生等多种过程。在肾脏中，PTH1R 高度表达，与多种肾脏疾病如糖尿病肾病、急性肾损伤、慢性肾脏病、肾小球肾炎等关系密切。深入探讨 PTH1R 与肾脏疾病的关系和相关机制，以期为肾脏疾病的诊断和治疗提供新的思路，本文拟就其研究进展进行综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】甲状旁腺激素1型受体；甲状旁腺激素相关蛋白；甲状旁腺激素；肾脏疾病；综述",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research Progress of Parathyroid Hormone Type 1 Receptor and Kidney Disease YAN Peng, SONG Jianling, FANG Xangdong ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DepartmentofNephrology，The Second Afliated HospitalofNanchang University，Nanchang 330ooo，China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author: FANG Xangdong, Chief physician; E-mail: xiangdongfang818@sina.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】Parathyroid hormone type 1 receptor (PTH1R), memberofthe G protein-coupled receptor family,is widely expressedin thebodyandis involvedinvarious processessuchas embryonicdevelopment,calciumand phosphorus omeostasis, body metabolism,andoncogenesis invivo.PHRishighlyexpresedinthekidneyndiscloselyassociatedtoavarietyofreal diseases，includingdabeticnephropathyacutekidneyinjurychronicidneydisease,ndglomerulonephritis.Thispapeites to reviewtheresearch progressoftherelationship betweenPTH1Rand kidneydiseasesand therelated mechanisms inorderto provide new ideas for the diagnosis and treatment of kidney diseases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Key words】Parathyroid hormone l receptor；Parathyroid hormone-related protein；Parathyroid hormone；Kidney disease； Review ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "甲状旁腺激素1型受体（Parathyroid Hormone 1Receptor,PTH1R）是甲状旁腺激素受体（PTHRs）成员之一，属于B族G蛋白偶联受体家族(G Protein-Coupled Receptors,GPCRs)，目前报道的其他家族成员还包括 PTH2R 和新成员 PTH3R[1]。在人体中，PTH1R是分布最广、发挥功能最多的受体，可表达于包括骨、肾、心、脑、血液、平滑肌、胰腺、乳腺、附睾、子宫胎盘、大多数内分泌器官等全身多种组织中[2]。甲状旁腺激素（Parathyroid Hormone PTH)、甲状旁腺激素相关蛋白（Parathyroid Hormone-related Protein PTHrP）是作用 PTH1R 的两种内源性配体。PTH 是仅在甲状旁腺分泌的负责调节细胞外钙磷水平及骨骼稳态的内分泌激素。PTHrP是一种最初被发现，能引起恶性肿瘤体液高钙血症的141个氨基酸多肽组成的因子[3]，主要通过自分泌或旁分泌方式发挥作用，且在生理条件下广泛地表达[4]。PTH和PTHrP 具有一定的同源性，因前34个氨基酸残基组成的N端片段中有11个氨基酸序列相同，有助于产生类似的结合亲和力，发挥相似的生物学作用[5]。配体的N端也决定关键的生物学功能，去除某些残基或修饰产生的类似物，可能不再激活 PTHIR，而是作为PTHIR的竞争拮抗剂或反激动剂[]，这为临床药物的开发提供靶点。研究表明作用PTHIR可涉及多种复杂机制途径参与肾脏疾病的发生发展，本文就PTHIR功能及其在肾脏疾病中发挥的作用予以综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1PTH1R的结构与信号通路",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人类的PTH1R位于第3号染色体上的14-外显子基因编码，由593个氨基酸残基组成，具有两个模块化结构域，一个相对较大的糖基化N端胞外结构域 (ECD）和一个7跨膜螺旋结构域(TMD)又称近膜J域[7]。ECD 负责配体肽对应残基15-34序列的快速结合，提供大部分能量驱动力，J域是配体信号部分的核心结合口袋，与配体肽对应残基1-14序列结合后诱导受体的构象变化[8]。受体胞内C末端尾部存在九个磷酸化位点，可与相应的蛋白激酶结合发生磷酸化，而磷酸化的模式可决定受体激活后信号传导不同[9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "配体结合触发PTH1R 受体构象改变引起磷酸化后，通过募集异三聚体G蛋白（Gαβy）激活不同的细胞内信号级联反应，主要偶联Gαs/腺苷酸环化酶（AC）/环磷酸腺苷（cAMP）/蛋白激酶 A(PKA）途径传递细胞内信号，也",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可以偶联Gαq/磷脂酶C（PLC）/蛋白激酶C(PKC）途径[10]、Gα12/13-磷脂酶D（PLD）/RhoA 途径、丝裂原激活蛋白激酶（MAPK）途径[I]。PTHIR介导的cAMP/PKA信号传导途径与骨组织中的合成代谢与肾脏钙磷代谢作用相关，PLC/PKC途径则主要作用于肾脏，并被cAMP-PKA磷酸化负调节。经典GPCR信号转导终止是通过招募β-抑制蛋白使受体内化，研究发现PTH 激活 PTHIR 遵循非经典GPCR 途径，募集的 $\\beta$ -抑制蛋白能激活 ERK1/2延长PTHIR 处的cAMP信号传导[12,13]。因此,PTH能够诱导cAMP 持续激活,而 PTHrP 只诱导 cAMP 短暂激活，这为PTH1R配体肽开发提供了选择模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2PTH1R的功能",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PTHIR广泛分布于体内，因此发挥各种生理和病理作用。PTHIR 能调节原始细胞的增殖和分化，参与组织器官的生长发育，如骨骼生长板中的软骨细胞、皮肤角化细胞、乳腺、胰腺、胎盘[2]、牙齿祖细胞[14]和脂肪组织[15]等，这些主要是通过PTHrP 在生理稳态中通过旁分泌发挥作用的。敲除小鼠的PTH1R基因会导致新生儿小鼠致死的表型，并伴有严重的软骨和骨骼发育异常[16]。PTH1R/cAMP 信号传导在骨骼系统中被广泛研究，其可以增加成骨细胞的增殖和分化、促进骨吸收，介导骨代谢、骨转化等作用[17]。此外，PTH1R信号通路在调节心血管局部及全身血流动力学、改变造血干细胞的生态位、增加胰岛β细胞功能、调节平滑肌张力[2,4]、活化血小板[18]、调控附睾-睾丸免疫稳态[19]以及参与肿瘤生长、侵袭、粘附、增殖和迁移[20]等发挥重要作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PTHIR在肾脏组织中广泛表达，包括肾小球足细胞、系膜细胞、内皮细胞和肾小管间质细胞、上皮细胞以及肾内血管系统均有分布[21]。在肾脏中，PTH1R 除了调节矿物质离子的跨膜转运，还参与调节肾血浆流量和肾小球滤过率[2]。越来越多的证据表明,肾脏疾病与 PTH1R 信号通路相关，且 PTHrP 的表达在各种肾损伤疾病中上调。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3．PTH1R与肾脏疾病的关系",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1PTH1R与糖尿病肾病",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "糖尿病肾病（Diabetic Nephropathy，DN）是糖尿病严重的微血管并发症之一,常伴随着持续蛋白尿以及进行性肾损伤。Izquierdo 等[22发现，在链脲佐菌素(STZ)诱导的 DN 模型中，转基因小鼠特异性表达 PTHrP 促进小鼠肾脏肥大，显著增加尿白蛋白排泄率，且PTHrP 和PTHIR 的表达水平与尿蛋白排泄率存在显著相关性。足细胞是肾小球滤过的最后一道屏障，可阻止蛋白漏出。肾小球足细胞和系膜细胞的肥大,是糖尿病肾脏受累的早期特征。研究证明，肾细胞肥大与细胞周期阻滞机制相关[23]。在高糖诱导的足细胞中，PTHrP 能够上调细胞周期蛋白抑制剂$\\mathbf { P } 2 7 ^ { \\mathrm { k i p 1 } }$ 的表达及阻止细胞周期蛋白E（cyclinE）激活，阻滞G1细胞周期，诱导足细胞肥大，使用 PTH1R拮抗剂 JB4250 抑制高糖诱导的 $\\mathbf { P } 2 7 ^ { \\mathrm { k i p 1 } }$ 表达并减轻足细胞肥大[24]。高糖环境能诱导足细胞激活产生肾素和血管紧张素原，而肾素血管紧张素系统（RAS）促进DN进展的关键原因之一。研究发现，血管紧张素II（AngII）能够上调 PTHrP/PTHIR信号传导，参与足细胞的损伤，使用 AngI拮抗剂氯沙坦抑制了高糖诱导下 PTHrP 的表达[25]，表明 PTHrP 可以充当 RAAS 系统在高糖诱导的足细胞损伤的中间介质。在人肾小球系膜细胞中，使用外源性PTHrP（1-36）处理肾小球系膜细胞24h 诱导细胞增殖，72h 后能促进细胞肥大效应，其机制可能分别与细胞周期蛋白E上调和下调相关，且PTH1R 拮抗剂同样能抑制 HG 诱导的系膜细胞肥大[26]。此外，PTH1R 还介导转化生长因子 $\\cdot \\beta$ （TGF- $\\beta$ ）信号传导影响 DN 的进展。Qiu等[27]发现PTH1R与TGF- $\\beta$ □型受体（ $\\mathrm { T } \\beta \\mathrm { R I I }$ ）相互协调拮抗的新功能，具体而言，PTH能诱导PTH1R和$\\mathrm { T } \\beta \\mathrm { R I I }$ 之间的相互作用并形成复合物促进内化。 $\\mathrm { T } \\beta \\mathrm { R I I }$ 对 PTH1R的磷酸化调节内化导致PTH信号传导的下调，类似的，PTH将 $\\mathrm { T } \\beta \\mathrm { R I I }$ 募集到 PTH1R 中会抑制 TGF- $\\beta$ 信号传导。Wu等[28，29]发现，在大鼠系膜细胞中，PTH/PTHrP短期处理（6h）诱导PTH1R与TGF- ${ \\displaystyle \\cdot \\beta \\ I I }$ 型受体形成复合物发生内吞，这降低系膜细胞TGF- $\\cdot \\beta$ 敏感性，减少其介导的 Smad2/3 激活和纤连蛋白的上调。她们进一步发现延长作用PTH/PTHrP 并不能长效保护，其与 TβRII经循环途径返回细胞膜发挥促纤维化功能相关，表明PTHIR的诱导对TGF-β1信号传导具有双重作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总之，这些数据表明，PTH1R与RAS、TGF- $\\cdot \\beta$ 信号通路存在相互串扰影响，通过TβRII直接磷酸化PTH1R的胞质结构域可以作为整合局部肾脏细胞因子信号的平台，并且短期的 PTHrP 治疗通过抑制 TGF- $\\cdot \\beta$ 信号传导具有肾保护作用，然而，PTHIR与体内TGFβ1在肾脏中机制仍需进一步阐述。此外，阻断TβRII内化后返回细胞膜似乎是一种不错的发挥这种保护机制途径。不幸的是，PTHrP/PTHIR 通路参与了肾肥大和蛋白尿的发生发展过程，不利于 DN 的预后。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 PTH1R与慢性肾脏病",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肾纤维化是慢性肾脏病（Chronic Kidney Disease，CKD）病理进展的重要事件，其特征是成纤维细胞增殖、上皮-间充质转化(EMT)和细胞外基质(ECM)的积累。巨噬细胞进入肾间质也是慢性炎症随后发展受损导致肾间质纤维化的关键[30]。TGF- $\\cdot \\beta$ 是公认为肾纤维化发病机制中的关键介质，PTHrP 能够在基因和蛋白水平上增加 TGF- $\\cdot \\beta$ 的表达并",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "诱导 $\\mathrm { E M T } ^ { [ 2 8 , 3 1 ] }$ 。体内和体外中研究发现，PTHrP 结合PTH1R 触发下游 Gαq/PLC/PKC 信号途径能激活基质金属蛋白酶（MMPs）表达，进而释放配体反式激活表皮生长因子受体（EGFR)，与TGF-β协同激活ERK1／2通路，诱导肾小管细胞 EMT 和细胞外基质产生，而抑制 TGF- $\\cdot \\beta$ 、EGFR、ERK1/2 能消除 PTHrP 诱导的 EMT 相关变化[31]。在UUO小鼠模型中，PTHrP 增加肾小管上皮细胞中血管内皮生长因子（VEGF）及其1型受体（VEGFR-1）的表达，上调 EMT标志物 $\\mathfrak { a }$ -SMA 和整合素连锁激酶(ILK)蛋白，促进梗阻肾脏的纤维化[32]。此外，Chen[33]等研究表明，PTHrP通过介导ROS/Src/EGFR信号通路激活PI3K，作为PI3K下游效应器，Akt和ERK1/2不连续地诱导大鼠系膜细胞 ECM纤连蛋白的过度合成，促进肾纤维化发生。核因子 $\\boldsymbol { \\kappa } \\mathrm { B } ( \\mathrm { N F - \\kappa B }$ )能够调节多种与炎症相关的基因，包括肾脏疾病发展相关的基因。Ramila 等[34研究表明，与对照组相比，UUO 诱导的 PTHrP 转基因小鼠显示出更多的肾小管间质损伤、白细胞流入和促炎因子的表达。他们进一步发现，PTHrP 通过诱导 NF- $\\boldsymbol { \\kappa } \\mathbf { B }$ 的活化和激活 NF-kB 依赖的细胞因子IL-6和趋化因子MCP-1，促进单核细胞/巨噬细胞和T淋巴细胞迁移至肾间质，从而诱导肾间质纤维化[34]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，PTHrP/PTH1R 信号通路通过促进 EMT、增加ECM、激活 TGF- $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ 和调节巨噬细胞流入等各种机制，参与肾脏纤维化进展过程，然而关于PTH作用PTHIR信号通路在肾纤维化中的研究甚少。靶向PTHIR信号通路可能是治疗肾纤维化的宝贵治疗靶点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CKD 是许多肾脏病理变化的常见结果，如果不及时治疗会发展为终末期肾病 (ESRD)。最近研究表明，PTHIR与 ESRD 患者的肾性骨营养不良、血管钙化和肾性恶病质有关。在CKD 的早期阶段，PTHIR在骨细胞表达似乎增加[3]，随着肾功能衰竭，PTHIR表达下调以及自身抗体的存在会引起骨骼 PTH抵抗，PTH 水平的增加和 PTHIR 的下调是肾性骨营养不良的主要原因[36.37]。血管钙化是终末期肾病患者的常见现象。研究发现，血液透析患者钙化血管壁PTHrP的表达升高，外源性rhPTHrP（1-34）激活BMP-2/Cbfa1信号通路增加了主动脉平滑肌细胞内钙沉积[38],拮抗PTHIR不仅会减少血管钙化，还能减少骨脱矿质[39]。PTH/PTH1R也可通过RANK配体（RANKL）/骨蛋白轴促进血管钙化[40]。恶病质在许多疾病中如慢性肾病和癌症都很常见，其特征是能量消耗增加以及脂肪和肌肉质量的减少，是导致死亡的重要危险因素。在 5/6 肾切除术小鼠 CKD 恶病质模型中，PTHrP 通过作用 PTH1R 诱导 Ucpl基因表达导致脂肪组织褐变和恶病质，而脂肪特异性敲除 PTHIR 可阻止脂肪褐变和消瘦，并保留了肌肉质量和力量，增强了CKD 驱动的恶病质的抵抗力[41]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在某种程度上，PTHIR 可能是CKD 相关并发症有希望的治疗药物靶点，然而，我们应该对这一结论持保守意见。毕竟CKD相关的并发症复杂且繁多，并且存在众多争议及需要解决的问题，因此很难对PTHIR在CKD并发症中作用做出统一的结论。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 PTH1R与急性肾损伤 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "急性肾损伤（Acute Kidney Injury，AKI）是危重住院患者常见的并发症，其特征是各种因素如缺血/再灌注、肾毒性及梗阻性肾损伤等引起肾小管上皮细胞坏死和肾功能下降，其功能恢复取决于肾小管细胞的修复再生[42]。不同学者对 PTH1R在 AKI中的研究上持不同观点。Santos 等[43]研究表明，在叶酸诱导的AKI模型大鼠肾脏中PTHrP会短暂迅速地升高，而PTH1R在肾小管细胞中表达下调，外源性使用PTHrP会增加叶酸损伤大鼠中肾小管上皮细胞增殖，参与肾小管上皮细胞再生和修复过程。Runt 相关的转录因子2（Runx2）是骨骼发育中调节成骨分化等过程的关键转录因子。Ardura[44]等在 PTHrP 过表达转基因小鼠中研究发现，PTH1R 级联cAMP/PKA信号通路增加转录因子 Runx2 在肾小管上皮细胞中的转录，上调抗凋亡蛋白Bcl-2 和骨桥蛋白的表达，从而减少叶酸诱导的肾小管上皮细胞的凋亡。因此，激活 PTHrP/PTH1R 可能通过促增殖修复和抗凋亡机制对急性肾损伤有保护作用。然而，另有研究表明PTHrP并不能阻止肾缺血/再灌注或叶酸诱导后肾功能急性恶化[45]。此外，Ortega等[46]在叶酸诱导的AKI小鼠中发现，PTHrP 过表达增加小鼠肾脏间质巨噬细胞内流及成纤维细胞活化，促进炎症发展以及I型胶原和纤连蛋白表达，进而促进肾毒性肾损伤的进展。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "事实上，在缺血/再灌注或叶酸注射后 $4 8 \\mathrm { h }$ 肾脏中的PTH1R 蛋白水平显著降低[45]，急性肾损伤后受体的下调似乎可以解释过表达PTHrP在肾脏恢复期中缺乏作用。因此，我们推测提高恢复期细胞膜表面 PTH1R水平可能会逆转缺血或毒性诱导的肾损伤作用，这值得进一步研究。然而，到目前为止，已经表明 PTHrP 对肾脏中的肾小管上皮细胞和基质细胞发挥促炎和促纤维化作用，尚不清楚 PTHrP/PTHIR在AKI促生存作用的长期影响。有趣的是，尿 PTHrP 水平可能是潜在的肾功能标志物，Ortega等[4]研究发现，在顺铂诱导的AKI大鼠模型中，与对照组相比，尿PTHrP排泄显著增加，且与血清肌酐呈正相关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4PTH1R与增殖性肾小球肾炎",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系膜细胞（MC）在肾小球毛细血管中具有许多功能，包括毛细血管簇的结构支持，调节肾小球血流动力学以及免疫复合物的吞噬功能。系膜细胞的凋亡和增殖是肾小球疾病的突出特征[48]。Hochane 等[49]发现在血清剥夺诱导大鼠肾小球系膜细胞中，PTHrP转染表达激活cAMP/PKA 和PI3-K/Akt信号途径减少了TUNEL 阳性凋亡细胞的数量，使用 PTHIR拮抗剂显著提高系膜细胞的存活。研究证明，过表达环加氧酶-2（COX-2）能抑制炎症诱导下系膜细胞的凋亡[50]。在增殖性肾小球肾炎初期，激活的系膜细胞上调多种炎症因子，最突出的包括 IL-1β 和 TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ ，其本身能刺激PTHrP过度表达，PTHrP增强NF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ 途径显著促进COX-2 的表达，从而减弱炎症因子对系膜细胞的凋亡作用[51]。这意味着 PTHrP/PTH1R 可能是充当保护系膜细胞存活的负反馈环中的中间环节，可作为肾小球肾炎中潜在的靶点。此外，在蛇毒素诱导的膜增殖肾小球肾炎模型中，PTHrP在早期阶段上调并促进系膜细胞生长增殖修复，使用 PTHrP 中和抗体减少了局部炎症的标志物（MCP-1、Cox-2 和 IL-6)，但很大程度上也降低了自身的表达，阻碍了肾小球细胞的增殖和存活，最终阻止愈合过程[52]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "总的来说，PTHrP 介导 PTHIR 信号通路可以作为增殖性肾小球肾炎治疗的潜在靶点。尽管其本身作用一种促炎因子参与炎症过程，但其在早期肾小球炎症修复过程中起至关重要的作用。然而，关于PTHrP 在肾小球肾炎中的作用的研究还是很少。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4总结和展望 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，PTHIR 在机体广泛存在并发挥重要作用，尤其是在肾脏和骨骼系统中。PTH1R 在骨骼系统中显示出光明的前景，PTH类似物和PTHrP 类似物，如特立帕肽、阿巴洛肽，作为PTH1R 的激动剂能促骨形成和骨吸收，已被FDA批准应用于治疗骨质疏松等骨代谢疾病。然而，PTHIR 与肾脏疾病的关系显得复杂，PTH1R在糖尿病肾病中具有负作用，尽管其与TGF- $\\beta$ 之间的串扰可能带来一些希望。此外，PTHrP/PTH1R 促进了肾纤维化的进展，其在CKD并发症中结论尚未统一。同样，其在AKI中存在一些争议，但在肾小球肾炎中显示出保护作用。PTHIR在不同疾病中的作用以及与其他途径之间的串扰仍不清晰，另外，在病理状态下PTH1R内化信号机制在多大程度促进肾脏疾病过程也有待确定，这需要进一步的研究。然而，高水平的尿液 PTHrP 与 AKI 的巨大风险相关，因此尿液 PTHrP 可能是一种新工具，可用于识别可能特定短期肾损伤的人群，然而AKI到CKD 的进展过程中尿液PTHrP变化如何，未来仍需要更多的机制和队列研究进行阐述。但PTHIR与肾脏关系密切，治疗靶点丰富，这是极具吸引力的，进一步探索其与肾脏疾病的具体机制，将为肾脏疾病的临床治疗提供新的思路。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作者贡献：鄢鹏负责论文查询及整理，撰写文章；宋健玲对文章的设计进行指导；房向东负责文章的质量控制及审校，对文章整体负责，监督管理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文无利益冲突。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文文献检索策略：以“Parathyroid hormonelreceptor；PTHlR；Parathyroid hormone-relatedprotein；PTHrP;Parathyroid hormone;PTH；Kidneydisease；DiabeticNephropathy；CKD；renalfbrosis；AKI；glomerulonephritis”为英文关键词检索PubMed、Medline、WebofScience、SCI-hub；检索时间为建库至 2022-04-05。文献纳入标准：基于PTHIR在肾脏疾病的基础研究及文献研究。文献排除标准：重复发表、数据记录不详细、文献年代久远、文献质量差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] PINHEIRO P L,CARDOSO JC,POWER D M,et al. Functional characterization and evolution of PTH/PTHrP receptors: insights from the chicken [J].BMC Evol Biol,2012,12: 110.DOI: 10.1186/1471-2148-12-110   \n[2] CLEMENS T L, CORMIER S, EICHINGER A, et al. Parathyroid hormone-related protein and its receptors: nuclear functions and roles in therenal and cardiovascular systems,the placental trophoblasts andthe pancreatic islets [J].BrJ Pharmacol, 2001,134(6): 1113-1136， DOI: 10.1038/sj.bjp.0704378   \n[3] Burtis WJ,WuT,Bunch Cetal.Identificationofanovel17,0o-daltonparathyroidhormone-likeadenylatecyclasestimulating protein fromatumor associated withhumoral hypercalcemiaof malignancy.JBiol Chem.1987;262(15):7151- 7156.   \n[4] MCCAULEYLK, MARTINTJ.Twenty-five years of PTHrP progres: from cancer hormone to multifunctional cytokine [J].JBone Miner Res,2012,27(6): 1231-1239.DOI: 10.1002/jbmr.1617   \n[5] PIOSZAK AA,PARKER NR, GARDELLATJ,et al. Structural basis for parathyroid hormone-related protein binding to the parathyroid hormone receptor and design of conformation-selective peptides [J].JBiol Chem.2009;284(41):28382- 28391.DOI:10.1074/jbc.M109.022905   \n[6] CHELOHAR W, GELLMAN S H, VILARDAGAJP, et al. PTHreceptor-1 signaling-mechanistic insights and therapeutic prospects [J]. Nat Rev Endocrinol, 2015;11(12):712-724. DOI:10.1038/nrendo.2015.139   \n[7] PAL K,MELCHER K, XU HE. Structure and mechanism for recognition of peptide hormones by Class B G-proteincoupled receptors [J]. Acta Pharmacol Sin,2012,33(3): 300-311. DOI:10.1038/aps.2011.170 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MAHON M J, DONOWITZ M, YUN C C, et al. $\\mathrm { { N a ( + ) / H ( + \\Delta ) } }$ exchanger regulatory factor 2 directs parathyroid hormone 1 receptor signalling [J]. Nature, 2002;417(6891):858-861. DOI: 10.1038/nature00816   \nSINGH A T K, GILCHRIST A, VOYNO-YASENETSKAYA T, et al. G alpha12/G alpha13 subunits of heterotrimeric G proteins mediate parathyroid hormone activation of phospholipase D in UMR-106 osteoblastic cels[J]. Endocrinology, 2005;146(5):2171-2175. DOI: 10.1210/en.2004-1283   \nGESTY-PALMER D,CHENM,REITER E,etal. Distinct beta-arestin-and Gprotein-dependent pathways for parathyroid hormonereceptor-stimulatedERK1/2activation[J].TheJournalofbiologicalchemistry,2006;281(16):10856-10864.DO: 10.1074/jbc.M513380200   \nSYME C A,FRIEDMAN PA, BISELLOA.Parathyroid hormone receptor traffcking contributes to the activation of extracellular signal-regulated kinases but is notrequired forregulationofcAMP signaling[J].TheJournal of biological chemistry,2005;280(12):11281-11288.DOI: 10.1074/jbc.M413393200   \nLYU P,LIB,LIP,etal.ParathyroidHormone 1Receptor Signaling inDental Mesenchymal Stem Cels: Basic and Clinical Implications [J]. Front Cell Dev Biol, 2021;9:654715. DOI: 10.3389/fcell.2021.654715   \nIZQUIRDO-LAHUERTA A. The Parathyroid Hormone-Related Protein/Parathyroid Hormone 1 Receptor Axis in Adipose Tissue [J]. Biomolecules,2021;11(11):1570. DOI: 10.3390/biom11111570   \nPILZ P,MEYER-MARCOTTYP,EIGENTHALER M,etal. Diferential diagnosis of primary failure of eruption (PFE) with and without evidence of pathogenic mutations in the PTHR1 gene[J]. JOrofac Orthop，2014;75(3):226-239.DOI: 10.1007/s00056-014-0215-y   \nFU X,ZHOU B,YAN Q,et al. Kindlin-2 regulates skeletal homeostasis by modulating PTH1R in mice[J].Signal Transduct Target Ther, 2020;5(1):297. Published 2020 Dec 26. DOI: 10.1038/s41392-020-00328-y   \nORTEGA A, PEREZ DE PRADA M T, MATEOS-CACERES PJ, et al. Effect of parathyroid-hormone-related protein on human platelet activation [J]. Clin Sci (Lond),2007;113(7):319-327. DOI: 10.1042/CS20070010   \nWANG M-W, YANG Z, CHEN X,et al. Activation of PTH1R allviates epididymitis and orchitis through Gq and $\\beta \\mathrm { . }$ arrestin-1 pathways [J]. Proc Natl Acad Sci U S A,2021;118(45):e2107363118.DOI:10.1073/pnas.2107363118 SUN C,LI S.PTHR1 in osteosarcoma: Specific molecular mechanisms and comprehensive functional perspective [J]. J Cell Mol Med, 2021;25(7):3175-3181. DOI:10.1111/jcmm.16420   \nESBRIT P, SANTOS S,ORTEGAA, et al. Parathyroid hormone-related proteinas arenal regulating factor. Fromvessels to glomeruli and tubular epithelium [J]. Am JNephrol, 2001;21(3):179-184.DOI:10.1159/000046244   \nIZQUIERDO A,LOPEZ-LUNA P,ORTEGA A,et al.The parathyroid hormone-related protein system and diabetic nephropathyoutcomeinstreptozotocin-induceddiabetes[J].KidneyInt,2006;69(12):2171-2177. DOI:10.1038/sj.ki.5000195   \nWOLF G. New insights into the pathophysiology of diabetic nephropathy: from haemodynamics to molecular pathology [JJ. Eur J Clin Invest, 2004;34(12):785-796. DOI:10.1111/j.1365-2362.2004.01429.x   \nROMERO M,ORTEGAA,IZQUIERDOA,etal.Parathyroid hormone-related protein induces hypertrophy in podocytes viaTGF-beta(1)and p27(Kip1):implications fordiabetic nephropathy[J].NephrolDialTransplant,2010;25(8):2447-2457. DOI:10.1093/ndt/gfq104   \nROMERO M, ORTEGAA,OLEA N, et al. Novel role of parathyroid hormone-related protein in the pathophysiologyof the diabetic kidney: evidence from experimental and human diabetic nephropathy[J]. Journal of Diabetes Research, 2013;2013:162846. DOI:10.1155/2013/162846   \nORTEGA A,ROMEROM,IZQUIERDOA,etal.Parathyroid hormone-related protein is ahypertrophy factor forhuman mesangialcels:Implicationsfordiabetic nephropathy[J].JCellPhysiol,2012;227(5):1980-1987.DOI:10.002/jcp2296 QIU T, WU X, ZHANG F, et al. TGF-beta type I receptor phosphorylates PTH receptor to integrate bone remodelling signalling [J]. Nat Cell Biol,2010;12(3):224-234. DOI:10.1038/ncb2022   \nWU S Z,YANG S J,CHEN HM,et al. Dual rolesof parathyroid hormone related protein in TGF-betal signaling and fibronectin up-regulation in mesangial cels[J]. Biosci Rep,2017;37(5):BSR20171061. DOI:10.1042/BSR20171061 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DOI:10.1038/nrneph.2011.149   \nARDURA JA, RAYEGO-MATEOS S, RAMILA D,et al. Parathyroid hormone-related protein promotes epithelialmesenchymal transition [J]. JAm Soc Nephrol, 2010;21(2):237-248.DOI:10.1681/ASN.2009050462   \nARDURA JA,BERRUGUETE R,RAMILA D, et al. Parathyroid hormone-related protein interacts with vascular endothelial growth factor to promote fibrogenesis in theobstructed mouse Kidney[J].Am JPhysiol Renal Physiol, 2008;295(2):F415-F425. DOI:10.1152/ajprenal.00018.2008   \nCHEN HM,DAIJJ,ZHUR,et al. Parathyroid hormone-related protein induces fibronectinup-regulation inrat mesangial cels through reactive oxygen species/Src/EGFR signaling[J].BiosciRep,2019;39(4):BSR20182293.Published 2019Apr 26.DOI:10.1042/BSR20182293   \nRAMILAD,ARDURAJA,ESTEBANV,etal.Parathyroid hormone-related proteinpromotes inflammationinthe idney with an obstructed ureter [J]. Kidney Int, 2008;73(7):835-847. DOI:10.1038/sj.ki.5002775   \nGRACIOLLIFG,NEVES KR,BARRETOF,et al. The complexityofchronic kidneydisease-mineral and bone disorder across stages of chronic kidneydisease[J]. Kidney Int,2017;91(6):1436-1446.DOI:10.1016/j.kint.2016.12.029 IWASAKI-ISHIZUKA Y, YAMATO H, NII-KONO T, et al. Downregulation of parathyroid hormone receptor gene expression and osteoblastic dysfunction associated with skeletal resistance to parathyroid hormone in arat model ofrenal failure with low turnover bone [J]. Nephrology, dialysis, transplantation $\\because$ official publication of the European Dialysis and Transplant Association - European Renal Association, 2005;20(9):1904-1911. DO1:10.1093/ndt/gfh876   \nMANDL A,BURBELOPD,DI PASQUALE G,et al. Parathyroid Hormone Resistance and Autoantibodies to the PTH1 Receptor[J].The New England journal of medicine,2021;385(21):1974-1980.DOI:10.1056/NEJMoa2109409 LIUF,FU P,FAN W,etal. Involvement of parathyroid hormone-related protein in vascularcalcificationof chronic haemodialysis patients [J]. Nephrology (Carlton),2012;17(6):552-560.DOI:10.111/j.1440-1797.2012.01601.x IWASAKI-ISHIZUKA Y, YAMATO H, NI-KONO T, et al. Downregulation of parathyroid hormone receptor gene expresionand osteoblastic dysfunction associated with skeletalresistance to parathyroid hormone inarat modelofrenal failure with low turnover bone [J]. Nephrol Dial Transplant, 2005;20(9):1904-1911.DOI:10.1093/ndt/gfh876   \nCARRILLO-L6PEZ N, MARTiNEZ-ARIAS L, ALONSO-MONTES C, et al. The receptor activator of nuclear factor B ligand receptor leucine-rich repeat-containing G-protein-coupled receptor 4contributes to parathyroid hormone-induced vascular calcification [J]. Nephrol Dial Transplant.2021;36(4):618-631. DOI:10.1093/ndt/gfaa290   \nKIR S, KOMABA H, GARCIA ANA P, etal. PTH/PTHrP Receptor Mediates Cachexia in Models of Kidney Failure and Cancer[J]. Cell Metabolism,2016;23(2):315-323.DOI:10.1016/j.cmet.2015.11.003   \nPEFANIS A, IERINOFL,MURPHY JM,et al. Regulated necrosis in kidney ischemia-reperfusion injury[J]. Kidney internati0nal, 2019;96(2):291-301. DO1:10.1016/j.kint.2019.02.009   \nSANTOS S,BOSCHR J,ORTEGAA, et al. Up-regulation of parathyroid hormone-related protein in folic acid-induced acute renal failure[J]. Kidney international,2001;60(3):982-995.DOI:10.1046/j.1523-175.2001.060003982.x ARDURAJA,SANZ AB,ORTIZA,et al. Parathyroid hormone-related protein protects renal tubuloepithelial cell from apoptosis by activating transcription factor Runx2 [J]. Kidney Int, 2013;83(5):825-834.DOI:10.1038/ki.2012.476 FIASCHI-TAESCHNM,SANTOS S, REDDY V,et al. Prevention ofacute ischemic renal failure by targeteddeliveryof growth factors to the proximal tubule in transgenic mice: the efficacy of parathyroid hormone-related protein and hepatocyte growth factor [J]. JAm Soc Nephrol,2004;15(1):112-125.DOI:10.1097/01.asn.0000102470.12285.c6 ORTEGA A,RAMILAD,ARDURAJA,et al. Role of parathyroid hormone-related protein in tubulointerstitial apoptosis andfibrosisafterfolicacid-induced nephrotoxicity[J].J AmSocNephrol,2006;17(6):1594-1603. DOI:10.1681/ASN.2005070690   \nORTEGA A, OLEA-HERRERO N, ARENAS M I, et al. Urinary excretion of parathyroid hormone-related protein correlates with renal function in controlratsand rats with cisplatin nephrotoxicity[J].Am JPhysiol Renal Physiol. 2019;317(4):F874-F880. DOI:10.1152/ajprenal.00091.2019   \nMA Y,FANGL,ZHANG R, et al.Cyclophosphamide Attenuates Fibrosis inLupus Nephritis by Regulating Mesangial Cell Cycle Progression [J]. Dis Markers,2021;2021:3803601. DOI:10.1155/2021/3803601   \n[49] HOCHANE M,RAISON D, COQUARDC,etal.Parathyroid hormone-related protein is a mitogenic and a survival factor of mesangial cells from male mice: role of intracrine and paracrine pathways [J].Endocrinology,2013;154(2):853-864. DOI:10.1210/en.2012-1802   \n[50] ISHAQUE A, DUNN MJ,SOROKIN A. Cyclooxygenase-2 inhibits tumor necrosis factor alpha-mediated apoptosis in renalglomerularmesangial cels[J].The Journal of Biological Chemistry，2003;278(12):10629-10640. DOI:10.1074/jbc.M210559200   \n[51] HOCHANE M, RAISON D, COQUARD C,et al. Parathyroid hormone-related protein modulates inflammation in mouse mesangial celsand bluntsapoptosis by enhancing COX-2 expresion[J].AmJPhysiolCell Physiol,2018;314(2):C242- C253.DOI:10.1152/ajpcell.00018.2017   \n[52] HOCHANE M,RAISOND, COQUARD C,et al. Parathyroid Hormone-Related Protein Contributes to Early Healing of HabuSnakeVenom-InducedGlomerulonephritisinMice[J].AmJPathol，2018;188(4):863-875. DOI:10.1016/j.ajpath.2017.12.012 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

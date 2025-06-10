@@ -1,0 +1,597 @@
+[
+    {
+        "type": "text",
+        "text": "基于BIM的装配式建筑协同管理系统GDAD-PCMIS的研发及应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨新焦柯",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（广东省建筑设计研究院，广州510010)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】随着移动互联网、云计算、物联网的发展,建筑信息化管理的手段也在不断拓宽。GDAD-PCMIS 是基于BIM开发的装配式建筑协同管理系统,可用于装配式建筑的设计、构件加工、施工全过程。该系统采用相应的编码系统对 BIM模型信息进行轻量化后,存储于网络数据库中进行管理应用。在此数据基础上,系统针对多工种、多单位之间的协同流程和管理要点,以项目部品库和项目进度管控为系统核心,辅以设计提资、会议信息、单据管理、进度计划安排等内容,通过移动端和电脑端进行信息交互及全周期的管理。同时,各参建单位也可采用API接口与内部相关管理系统数据对接,进一步挖掘BIM模型信息的价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词】装配式；BIM；工程管理；协同平台",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17；TU37 【文献标识码】A 【文章编号】1674-7461(2017)03-0018-07   \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.03.03 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于装配式建筑高度集成化、工业化的特性，决定了其在设计施工过程中，信息协同与管理的复杂性和重要性。当前装配式住宅项目运用BIM 技术进行模型构建及应用已逐步成熟，构件加工的工业化水平也在不断提高。但在工程协同与管理方面,由于企业间信息壁垒和管理方式的不一致，目前在跨企业的协同过程中，仍主要采用传统方式，未能体现工业化、信息化的优势。本文采用B/S模式构建基于互联网的管理系统GDAD-PCMIS,将BIM模型信息进行轻量化存储，针对协同管理过程的相关需求进行系统开发，以使BIM的信息贯穿项目建设的全生命周期，并得以充分运用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 国内外相关研究概述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在基于BIM模型进行AEC全流程应用中，对数据交互有buildingSMART制定的IFC标准格式、中国建研院主编的《建筑信息模型应用统一标准》等；在行业细分上，轨道交通、路桥已有《城市轨道交通建筑信息模型(BIM)建模与交付标准》等；在模型构建及交互上主要有Revit、ArchiCAD、P-BIM、Tekla等建模软件；在建造管理阶段有广联达5D、鲁班BIM等；在运维阶段有广州地铁综合类管理系统等；大型房地产开发商也采取自行开发等方式进行企业内部管理系统基于BIM模型的拓展应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "而在加工制造业，生产企业在综合管理上有ERP(企业资源计划)系统，在制造过程有PDM（产品数据管理）、CAPP（计算机辅助工艺过程设计)等各类加工辅助平台，已在机械制造、车船生产、电子产品装配等行业广泛应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM的各种底层及应用层均已有较多研究，构件的工业化制造管理也十分成熟。但与制造业不同的是，建设项目参建方的职能和工作内容均不同程度的差异，而在参建多方之间如何协同、信息如何传递、如何进行多方决策，这些方面尚没有较为系统可行的方式及一个多方共建的信息平台。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文针对装配式住宅设计施工过程中的协同流程及要点，架设基于BIM模型的跨企业协同平台，以装配式住宅为例，进行需求分析及开发。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3平台概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 应用背景",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着装配式建筑应用的日益广泛，在实际设计施工中，面对装配式建筑的综合性与复杂性，更凸显沟通协同以及项目管理的重要性。在运用BIM模型进行设计加工与建造的过程中，如何能有效运用模型中的信息，如何对信息进行合理处理，如何对信息在时间空间传递是信息化的核心。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在传统的建筑协同模式中，各专业图纸单独绘制CAD平面图，通过邮件及电话对图纸问题进行沟通和提资，并由现场施工单位分别查阅各专业图纸，对木模板进行切割留洞和预埋管等处理，钢筋等也依靠现场放样、下料、绑扎、掰弯微调进行处理。上述问题,基本靠现场多工种汇总，遇到问题也是现场解决，造成大量人力物力财力的浪费，也使得施工进度计划无法准确控制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而装配式建筑需要把设计、工种配合、施工措施、施工模拟等都安排在前期，通过计算机技术和协同管理平台进行信息的汇总,部件生产也都安排在工厂车间中一体化完成。体现装配式建筑优势的地方正是建设项目信息的高度集成化，这就意味着不同工种间、企业间信息的高度集成。在设计前期，就要充分考虑和整合不同工种的成果。在施工过程中，现场需提前合理安排各层各类型构件的加工、运输、装配、后浇及检测等环节。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.5 需求分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 参建企业间协同管理的需求",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在装配式住宅设计、加工、现场装配、后浇等过程中，各专业集成度高，对构件生产工艺要求也较高。各单位协同内容及流程见图1。装配构件厂家作为总包下属的分包单位，层级关系也不易管控，如果该流程仍采用传统的邮件及微信群进行协同，流程将会较为反复、低效。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2.2各设计工种间的协同需求",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设计阶段各专业的内容需统一协调后反馈在深化图上进行预留，需通过BIM模型可视化协同和进行调整，并集中制作项目部品模型，最后生成加工图。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2.3设计与现场问题的沟通需求",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "深化图由设计单位协调各专业后完成，并提交厂家确认具体措施和节点连接做法。在预拼装和",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e7b12952bd221f06ba54c54c67273287b3ffd93fcca44d5fc407c9e67c3529e.jpg",
+        "img_caption": [
+            "图1各参建方协同管理流程需求"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "各标准层不断施工过程中，设计问题和现场安装的情况可通过协同系统及时反馈到各单位，共同进行处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2.4预制构件资料跟踪与可溯的需求 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在各层流水施工过程中，通过协同系统,可协调深化图修改与确认、工厂设计模板图、构件预制、运抵现场堆放、现场单位吊装和节点浇筑、现浇区域施工、质量检测等不同流程不同单位的各项工作。在不同阶段，均可对数量众多的各类构件进行跟踪查询，其采购、加工、验收等文件材料均可统一归档，帮助参建各方对现场进度和质量进行准确控制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.3协同流程人员职责及层级 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "协同过程中，参建各方主要分为：业主、勘察单位、设计单位、施工单位、构件加工厂家、监理单位、质监站。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "业主及其授权的项目管理单位作为项目的总指挥，对设计成果进行审核及招标、下发施工单位；对各项联系单、签证进行审核；对项目进度进行总体控制。其中设计部与设计单位对接，工程部与施工单位对接。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "勘察设计单位的各专业之间进行提资与确认；对构件厂家的加工图进行审核；在施工过程中，与业主设计部对接处理事项；对施工单位提出的洽商单及各事项进行审核提交意见。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "施工单位作为总包单位，要完成工程施工过程的各个事项。构件加工由施工单位进行招投标，施工单位统筹构件加工、运输、吊装过程的各种事项。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "监理单位与质监站作为工程的监督，在整个生产施工过程中，应对材料质量、施工质量进行监督。验收时，由业主牵头，由施工单位整理相关资料交付验收。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各方层级关系见图2。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a63e6a8b6a628fe69776f817828510a95f4fd9f3c3c7e3e598cf71e3d72f39df.jpg",
+        "img_caption": [
+            "图2项目协同层级关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": ".4平台实施技术路线",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合相关工程案例的实施流程[1],本文采用 B/S模式[2],通过Revit 进行 BIM 模型的建立,对各阶段的模型进行轻量化后存储在MySQL数据库，采用PHP进行PC及手机端的交互界面开发。相关成果亦可反馈到模型上。平台根据权限需求,提供 API数据接口，供各单位与其内部管理系统对接。平台技术路线见图3。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4f419e7f55e7a6dd65da91ff7c278ae01227db04b46096d8342908abeb4b337.jpg",
+        "img_caption": [
+            "图3平台技术路线"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4平台开发技术要点",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. 1 SaaS模式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统BIM应用管理系统均采用商业软件的方式,将相关功能需求整合在软件中。但装配式建筑需要多单位协同，如各方分别配置相关软件和硬件,则成本较高也较为麻烦。随着网络及移动互联发展，SaaS模式日渐成为主流。SaaS全称为软件即服务，将服务所需的所有信息放置在软件商的服务器中，用户访问即可完成相应的应用功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2核心数据存储",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统的Revit模型采用中心文件，存储于服务器中，数据存储及操作需要通过基于Revit平台的二次开发进行，效率及开放性不如架设于服务器中的数据库。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ODBC是微软公司建立的一套数据库访问操作规范，Revit等软件也遵照其标准可方便地进行数据导出。本文采用MySQL数据库，MySQL作为开源的关系型数据库，广泛应用在互联网行业中，各类接口操作均十分完善，各类仓储系统（WMS）、运输系统(TMS)均可直接接入数据库中，不需要全套系统都只局限采用一个厂家的产品[4]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GDAD-PCMIS系统将BIM模型数据导出到数据库中，轻量化后进行数据库的存储，供后续协同读写操作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.3 数据可视化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文本数据采用Web网页端进行表示，文本、图表、平面简图等内容可采用Javascript相关库进行可视化，并支持跨终端浏览，主流的电脑或手机浏览器均可直接浏览，系统界面见图4。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. 4 模型轻量化 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型轻量化的内容查询相当于REVIT的明细表，内容进行一定的轻量化处理后存储在网络服务器中。根据加工安排进行构件分组，创建部品集。扫描条形码后，显示所在栋、层、阶段(深化图审定、加工、现场堆放、吊装）、质监情况。来料进场、外观检查、合格证等相关信息手机拍照录人，存储在对应构件的附件内容中。并显示涉及本构件的相关洽商单、设计联系单、验收文件、设计文件、相关内容索引。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.5 协同内容信息化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "协同内容信息化是指将常用的一些文本类信",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/505471fe623723a57e8d5eb693505a2c3549823d7aed1041ec44ff32d9ea984b.jpg",
+        "img_caption": [
+            "图4模型部品数据轻量化管理页面"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1  \n息直接整合在管理系统中进行提交与查阅，并辅以权限管理及电子确认等机制，及已推进项目进程信息等。具体有以下内容[5,7]：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)通用表格及内容系统，如联系单(发文、设计变更、提资单、设计变更洽商单等）、会议纪要、图纸会审记录、签到表、验收文件（分项工程验收记录、工艺试桩记录表、隐蔽工程施工记录表、静载试验结果等）、设计文件（地质勘察报告、各阶段模型及图纸等）、整改通知等；(2)项目日程表,如会议计划、通用公告、施工进度计划、材料采购供应、到场日期等相关信息;(3)项目通信录，如项目各公共微信群（设计部及设计单位、工程部及施工方、桩基施工、装配式施工等）、项目各方联系方式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. 6 流程权限控制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统提供的参建人员分为：业主、勘察、设计（建筑、结构、设备、装修）、土建施工、构件加工厂家、安装施工、装修等。其中,根据协同流程[3],不同角色的权限有所区别。以各项单据事项的处理流程为例，不同角色有不同的权限,并将此整合在系统控制代码内进行交互界面控制，见表1及表2。其余权限管理内容在此不做赘述。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5协同流程及平台应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1 整体架构",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "有别于传统的管理系统采用分类电子表格的模式，本文的协同系统以双核心进行项目的推进，即以“时间线”为流程核心，“部品库”为数据核心，而各类事项和表格条目则连通部品库和时间管理，具体架构见图5。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/49c86eca94751519f865d5575631930332cc7d72b42ce4080f0f047005067aca.jpg",
+        "table_caption": [
+            "表1发出权限"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>发出权限</td><td>业 设 主 计</td><td>施 工</td><td>构件 厂家</td><td>监 理</td><td>勘 察</td></tr><tr><td>联系单</td><td>√</td><td>√ √</td><td>√</td><td>√</td><td>√</td></tr><tr><td>设计变更</td><td></td><td>√</td><td></td><td></td><td></td></tr><tr><td>工程技术洽商单</td><td>√</td><td>√</td><td>√</td><td></td><td></td></tr><tr><td>工程签证单</td><td></td><td>√</td><td></td><td></td><td></td></tr><tr><td>检测方案</td><td></td><td>√</td><td></td><td></td><td></td></tr><tr><td>材料进场签收单</td><td></td><td></td><td>√</td><td></td><td></td></tr><tr><td>整改通知</td><td>√</td><td>√</td><td></td><td>√</td><td>√</td></tr><tr><td>设计提资单</td><td></td><td>√</td><td></td><td></td><td></td></tr><tr><td>各阶段出图</td><td></td><td>√</td><td>√</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/87edfb94bd08a4fa5ec55901b1271eb8ca09eb0817029e3d883851953fef802f.jpg",
+        "table_caption": [
+            "表2处理权限"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">发出权限</td><td colspan=\"2\">阶段一</td><td>阶段二</td><td>阶段三</td></tr><tr><td>待 拒 办 收</td><td>签 收</td><td>结果 回复</td><td>提出方 验证</td></tr><tr><td>联系单</td><td>√ √</td><td></td><td>√</td><td></td></tr><tr><td>设计变更</td><td>√</td><td>√</td><td></td><td>√</td></tr><tr><td>工程技术洽商单</td><td>√ √</td><td></td><td>√</td><td></td></tr><tr><td>工程签证单</td><td>√ √</td><td></td><td>√</td><td></td></tr><tr><td>检测方案</td><td>√ √</td><td></td><td>√</td><td></td></tr><tr><td>材料进场签收单</td><td>√</td><td>√</td><td></td><td></td></tr><tr><td>整改通知</td><td>√</td><td>√</td><td></td><td>√</td></tr><tr><td>设计提资单</td><td></td><td>√ √</td><td></td><td></td></tr><tr><td>各阶段出图</td><td>√</td><td>√</td><td>√</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于Revit等建模软件在模型构建及关系处理上已经足够完善，基本能达到 $\\mathrm { L O D } 3 0 0 \\sim 4 0 0$ 的层次[3.6]。本系统对几何模型信息不做操作,而读取信息进行项目模型及预制构件厂家、日期等方面的信息协同，以完成LOD500的相关内容需求。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/775cc326f942ae15707806791ae06f14c02b29ff6f11dd02911356d24e6a5a0c.jpg",
+        "img_caption": [
+            "图5双核心架构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.2 基本功能",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)页面的登录、浏览、权限管理、填表、信息确基本的管理系统功能",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1(2)协同管理横道图功能。该功能除传统的施工进度计划外，还提供参建各方基于时间线的信息聚合（如设计进度信息、深化加工信息、会议信息、现场材料及进度管理信息），见图6。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": ">(3)将Revit模型进行轻量化处理，以每个部品信息为单位,存储在数据库中，供各端口读取，进行清单表格查询。并提供二维码进行移动端扫码查阅进度及构件资料，以及基于平面图纸、立面的图片示意，辅助以施工阶段亮显显示及交互。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.3 设计协同",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用BIM进行全专业设计过程中，信息交流不如采用CAD平面图那么简单。本系统对模型轻量化后，点击相应构件或部品，即可进行模型提资，在页面显示基本的情况，设计人员填写修改及待确认内容，在各专业确认后可在系统中同步至模型进行修改。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.4 深化设计协同",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "预制构件的深化图由设计单位各专业配合后出图。在系统中进行深化图审定，提供给中标厂家进行加工图、模板图、加工进度计划等内容的编制，然后在系统内可交付设计单位及业主单位进行审核确认。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.5 进度计划总控",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在设计蓝图、加工图确认、下料加工、运输及现场堆放、吊装、现浇区域施工等阶段，装配式住宅与普通住宅相比，参建单位更多，流程也更为复杂。在特定时间内需要管理好各单位各阶段的工作，GDAD-PCMIS系统将各类型信息集中汇总在时间横道图上。与传统的Project、Excel等相比，该时间进度是动态的，随着每个单位进行提交、修改、确认后，即会实时更新并可在页面中直接浏览，见图6。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.6 全流程资料可溯 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用BIM模型后，各阶段的联系单、装配式预制构件的出厂检验合格资料、运输至现场后的外观检测及进场等环节的相关资料，均可在系统内进行归档。并可以根据不同参建单位的权限进行查阅、确认、下发等操作处理，见图7。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.7 可扩展的API接口",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于不同参建方的职能、工作内容、参与时段、应用需求等均有所差异，如果参照制造业的做法，需要通过一个庞大的系统才可完成，这在实施过程中难度很大，其效率也未必更高。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ada01c0a66e4c68b28dccea14a8162378fb3d4471a556202166affd6bc73ef51.jpg",
+        "img_caption": [
+            "进度计划",
+            "图6协同管理横道图界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f4ae439e5697feecc79b58b8914c4568cb0e42797257ea1539c593ddb7782c5.jpg",
+        "img_caption": [
+            "图7联系单下发及确认页面"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "OGDAD-PCMIS系统根据参建方在协同流程中的相关需求权限,提供API(应用程序接口)与参建各方的管理系统对接，如业主的成本及项目管理系统、构件厂家的仓储管理系统、运输管理系统、物业单位的运维管理系统等。具体操作有：修改部品状态、创建部品集、监控数据提交、事项条目提交、读取进度计划等。可远程提交HTTP请求至系统服务器进行数据的交互，使建筑信息的应用进一步开拓。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6案例",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以广州市某保障房项目为例，在设计阶段采用Revit及相关插件进行构件拆分及加工图设计。在模型中均存储有构件的各项设计属性，见图8及图9。采用GDAD-PCMIS系统导入Revit模型并进行轻量化处理后，存储于网络数据库中，供各终端进行查阅。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在深化设计阶段，通过协同管理系统可对每类部品进行扫码查阅及管理。项目部品数据库中的内容也一直贯穿后续的构件加工、运输、现场堆放、吊装、后浇及验收等各阶段。同时，在项目推进过程中，业主及各参建方也通过本系统进行进度管理，有效准确地把控了项目进程和工程质量。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/31843e8d3d0a0528c451d47fd6c79a571f37e46f3dfa84c39cef060a1b0e8955.jpg",
+        "img_caption": [
+            "图8某保障房标准层模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/368d2f5a09714431f0058f7ee2b3393df3ad7f2ccac35f5e8f2a79aec5783f92.jpg",
+        "img_caption": [
+            "图9部品数据查询及管理"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7总结 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在装配式建筑项目中，其设计、加工、装配等各阶段的信息均需要高度集成化，各参建方的相关信息协同过程也有较严格的层级关联和时间关联性。因此，在设计阶段可运用BIM技术，规范统一项目的设计信息。作者开发的基于BIM的装配式建筑协同管理系统GDAD-PCMIS将模型信息轻量化后，存储于网络服务器中。系统提供协同管理、协同文件管理、信息确认、部品管理等功能，并提供API接□供参建企业内部管理系统对接部分信息，将模型应用从设计阶段，进一步外延至构件深化、工厂加工、施工吊装、后浇、验收等建造全过程，充分发挥BIM内含的数据信息，进行全生命周期的应用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在后续研发中,系统将深化权限控制、部品库属性、构件进度质量管理、文件电子签名、实时监测数据等功能,开发微信服务号以加强移动端使用的便捷性，并与典型工业化构件生产管理系统的流程配合，完善协同管理的信息体系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1」焦柯，杨远丰，周凯旋，等.基于BIM的全过程结构设计方法研究［J].土木建筑工程信息技术，2015，7(5): 1-7.  \n[2］周海浪，王铮，吴天华，等.基于BIM技术的工程项目数据管理信息化研究与应用[J].建设监理.2016（2）：8-12.  \n[3］焦柯，杨远丰.BIM结构设计方法与应用[M].广州：中国建筑工业出版社，2016.  \n［4］张洋.基于BIM的建筑工程信息集成与管理研究[D].清华大学，2009]  \n［5］刘星．基于BIM的工程项目信息协同管理研究[D].重庆大学，2016.  \n［6］周凯旋，焦柯，杨远丰.基于Revit平台的结构专业快速建模关键技术［J].土木建筑工程信息技术，2015，7(04):24-30.  \n[7」李呈蔚.基于装配式技术的工程建造项目管理研究[D].天津大学，2015.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Research and Development of PC Building's Management Information GDAD-PCMIS System Based on BIM ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Yang Xin， Jiao Ke",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(Architectural Design and Research Institute of Guangdong Province， Guangzhou 51o01o,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:With the development of mobile Internet，cloud computingand Internet of things，the means of building information management are also widening. GDAD-PCMIS isa Bim-based PC building collaborative management system，which can be used for the whole life-cycle of PC building induding the design，component procesing and construction.The system uses the corresponding coding system to reduce the BIM model information, which is later stored in the network database for management applications.Basedon the data，the system for he multi-type，multi-unit collaborative processand management points between the project treasury and project progress control system core，supplemented bydesign financing，meeting information，document management，schedule planning Content，through the mobile side and the computer side for information exchange and ful-ycle management. At the same time，the participating unitscan also use API interface to get access to the internal management system data，and can furtherly mine the value of BIM model information. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key Words:PC Building；BIM；Project Management；Collaborative Platform ",
+        "page_idx": 6
+    }
+]

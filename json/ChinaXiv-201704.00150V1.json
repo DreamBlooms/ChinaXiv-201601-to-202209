@@ -1,0 +1,290 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201510272172 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郝珉辉，张忠辉，赵珊珊，张春雨，赵秀海.吉林蛟河针阔混交林树木生长的空间关联格局.生态学报,2017,37(6)：1922-1930.HaoMH,agZH,ZoSaC,ZXSailtocoelatofreoifeosddaetinJiaohe of Jilin province.Acta Ecologica Sinica,2017,37(6):1922-1930.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吉林蛟河针阔混交林树木生长的空间关联格局",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郝珉辉¹，张忠辉²，赵珊珊²，张春雨1，\\*，赵秀海",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1北京林业大学森林资源与生态系统过程北京市重点实验室，北京100083  \n2吉林省林业科学研究院，长春130033",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以吉林蛟河 $2 1 . 1 2 \\mathrm { h m } ^ { 2 } ( 6 6 0 \\mathrm { m } \\times 3 2 0 \\mathrm { m } )$ 针阔混交林样地为对象,利用2009 年和 2014 年森林生长观测数据,研究树木生长的空间自相关格局及其生境影响机制。在样地生境型划分结果的基础上,采用Ripley's $L ( r )$ 函数分析不同生境型中树木种群空间分布特征;利用标记相关函数分析不同生境型中树木生长特征的空间关联格局。研究结果表明：(1)红松(生境型 3：1—5m）蒙古栎(生境型 $3 : 1 { \\mathrm { - } } 3 { \\mathrm { m } } )$ ）、胡桃楸(生境型 $2 : 1 { \\mathrm { - } } 2 { \\mathrm { m } }$ ；生境型 $3 { : } 1 { - } 7 \\mathrm { m } \\mathrm { \\dot { \\Omega } } ,$ ）、黄檗(生境型2：1- $\\cdot 3 \\mathrm { m }$ ;生境型 $4 { : } 1 { - } 5 \\mathrm { m } \\rangle$ 、水曲柳（生境型 $3 : 1 { \\mathrm { - } } 2 { \\mathrm { m } }$ ；生境型 $4 { : } 1 { - } 2 \\mathrm { m }$ )、瘤枝卫矛(生境型 $2 : 1 { \\mathrm { - } } 1 5 { \\mathrm { m } }$ )在特定生境和空间尺度上呈随机分布，但空间格局仍以聚集性分布为主;其余10个物种则在全部0一 $3 0 \\mathrm { m }$ 尺度上呈聚集分布。(2)标记相关函数分析显示春榆、毛榛、色木槭、瘤枝卫矛和千金榆的径向生长至少在一个生境中表现出正相关格局;暴马丁香、胡桃楸、裂叶榆、瘤枝卫矛、水曲柳、紫椴、糠椴、毛榛、色木槭和白牛槭的径向生长至少在一个生境中表现出负相关格局;红松、黄檗、蒙古栎和簇毛槭的径向生长在全部尺度上均未检测到显著的空间关联格局。因此，不同树种径向生长的空间自相关特征不同，树种生长特征的空间关联格局具有明显的生境依赖性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：径向生长；生境差异；竞争作用；生境依赖性；Ripley's $L ( r )$ 函数",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Spatial autocorrelation patterns of tree growth in a coniferous and broad-leaved mixed forest in Jiaohe of Jilin province ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HAO Minhui1，ZHANG Zhonghui², ZHAO Shanshan²， ZHANG Chunyu1\\*，ZHAO Xiuhail 1TheKeyLaboratoryforForestResources&EcosystemProcessesofeijing，BeijingForestryUniversity，eijingOo，China 2Academy ofForestry Research ofJilinProvince，Changchun 13oo33,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：This studyaimed todetermine the spatial autocorrelation paterms of tree growthandthemechanisms influencing habitat heterogeneity.A dataset of observed forest growth was used，with data between 2O09 and 2O14 from a $2 1 . 1 2 \\ \\mathrm { h m } ^ { 2 }$ （204号 stem-mapped mixed forestplot（temperate coniferousand broadleaved forest）in Jiaohe，Jilin Province.Basedon habitat type classifications，Ripley's $L ( r )$ function was adopted to evaluate the spatial distribution characteristics of tree locations. A mark corelation function（MCF）wasused toevaluate the spatial autocorrelationcharacteristics of tree growth.Our results showed that （1） Pinus koraiensis （habitat type $3 : 1 { \\mathrm { - } } 5 \\ \\mathrm { m }$ ），Quercus mongolica(habitat type 3: 1—3 m）， Juglans mandshurica(habitat type 2：1- $\\cdot 2 \\mathrm { ~ m ~ }$ ； habitat type 3：1—7 m）,Phellodendron amurense（habitat type 2：1- $\\cdot 3 \\mathrm { ~ m ~ }$ ; habitat type 4: 1- ${ \\bf \\nabla } \\cdot { \\bf 5 } _ { \\textrm { m } }$ ），Fraxinus mandshurica(habitat type 3：1- ${ \\cdot } 2 \\mathrm { ~ m ~ }$ ；habitat type 4：1- $2 \\mathrm { ~ m ~ }$ ），and Euonymus verrucosus (habitattype2：1—15m）wererandomlydistributed atparticular scalesand for certain habitat types.Nonetheless，they mainly showed clumped distribution paterns.For tenother species，the spatial distributionof treepositions showedan aggregated pattern at a scale of O一 $3 0 \\mathrm { ~ m ~ }$ .（2）The mark correlation function analysis indicated that the radial growth of Ulmus davidianavar. japonica，Corylus mandshurica，Acer mono，E.verrucosus，and Carpinuscordatawere positively autocorrelated forat leastoneof the habitat types.In contrast，theradial growthof Syringa reticulata var.amurensis,， $J .$ （20号 mandshurica，Ulmus laciniata，E.verrucosus，F.mandshurica，Tiliaamurensis，Tiliamandshurica，C.mandshurica，A. mono，and Acer mandshuricum were negatively autocorelated atleast inoneof habitattypes.Other species did not showany significantautocorelationsatanyof thestudied scales.Ourresultsindicate thatdiferentspecies haddiferentspatial autocorrelation characteristics of radial growth，as well as significantly diffrent habitat dependencies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:radius growth ； habitat diferentiation；competition ffct；habitat dependency；Ripley's $L ( r )$ function ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "森林中普遍存在着种内和种间相互作用,林木个体之间的相互作用可大体分为正向作用和负向作用[1-2]。由于土壤水分、矿质元素和光照等环境资源的有限性,生长在同一栖息地上的树木往往存在竞争作用,表现为生长上的负相关;为了阻止其它物种进入某个栖息地,该栖息地上的树木则会彼此之间产生促进作用,即生长上的正相关[1]。相邻树木之间的相互作用对森林群落的空间格局存在着深远影响。大量研究显示森林中不同生长阶段的树木分布格局也不尽相同,小径级树木多呈聚集分布,随着径级的增加聚集强度逐渐减弱,最终甚至呈现均匀或随机分布[3-5]。这种空间格局变化很大程度上是由树木之间的相互作用导致的：在个体水平上,树木的生长、扩散和死亡等过程都会受到相邻树木的影响[5;在群体水平上,相邻树木之间的相互作用影响着森林群落动态和林木空间分布格局[3-5]。相邻树木间的相互作用受林木的种类、特征和相对位置影响[1,6],同时也受外界环境条件影响[7]。空间自相关性是指地理空间中某种空间单元之间的关系,以空间上的相邻性为基本特征。彼此靠近的空间位置上空间单元的属性值越相近,空间相关性就越强[8]。空间自相关性是自然界中存在秩序、格局和多样性的一个根本原因[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "森林群落组成结构越复杂,揭示树木生长的空间格局及其影响机制也就越困难。通过树木特征值的空间关联性可以有效地推测相应的生态学过程[10-12],这种研究思路已经成功应用于热带雨林[10-11]和温带森林[12]之中。以往研究主要关注于胸径、树高和冠幅等树木大小特征的空间自相关性;相比之下,树木生长特征对相邻个体之间的相互作用和生境变化更加敏感。因此,在林分水平上比较环境变异对树木生长空间自相关格局的影响,可以更加直观地揭示群落生长格局的构建机制。本文以位于吉林省蛟河林业试验区管理局的 21.$1 2 \\mathrm { h m } ^ { 2 } ( 6 6 0 \\mathrm { m } \\times 3 2 0 \\mathrm { m } )$ 森林监测样地为对象,在 2009 年和 2014 年森林生长观测数据的基础上,研究树木生长的空间关联格局及其对生境变异的响应,旨在揭示生境变异对树种生长格局构建过程的影响机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于吉林省蛟河林业试验区管理局 $( 4 3 ^ { \\circ } 5 7 . 8 9 7 ^ { \\prime } - 5 3 ^ { \\circ } 5 8 . 2 6 3 ^ { \\prime } \\mathrm { N }$ ， $1 2 7 ^ { \\circ } 4 2 . 7 8 9 ^ { \\prime }$ 一 $1 2 7 ^ { \\circ } 4 3 . 3 1 0 ^ { \\prime } \\mathrm { E }$ 。属于受季风影响的温带大陆性气候,年均温为 $3 . 8 ^ { \\circ } \\mathrm { C }$ ,其中7月份为最热月，平均温度为 $2 1 . 7 \\% ; 1$ 月份为最冷月，平均温度为 $- 1 8 . 6 \\mathrm { ^ { \\circ } C }$ ;年平均降水量为 $6 9 5 . 9 \\mathrm { { m m } }$ 。林分类型为典型的近成熟次生针阔混交林；土壤为棕色森林土,土层深度范围为 20— $1 0 0 \\mathrm { c m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2009 年建立面积为 $2 1 . 1 2 \\mathrm { h m } ^ { 2 } ( 6 6 0 \\mathrm { m } { \\times } 3 2 0 \\mathrm { m } )$ 的研究样地;样地最低海拔为 $4 2 5 . 3 \\mathrm { m }$ ,最高海拔为 $5 2 5 . 8 \\mathrm { m }$ ,最大高差为 $1 0 0 . 5 \\mathrm { m }$ 。记录样地中所有胸径 $( { \\mathrm { D B H } } ) \\geq 1 { \\mathrm { c m } }$ 的木本植物的物种、胸径、树高、冠幅和相对位置坐标,并挂牌标记进行长期监测。2014年复测时样地内观测到 $\\mathrm { D B H } \\geqslant 1 \\mathrm { c m }$ 的木本植物共计38599 株,隶属于18 科30 属46种。物种重要值(IV)计算公式采用： $\\mathrm { I V } ( \\% ) =$ （相对多度 $^ +$ 相对频度 $^ +$ 相对优势度) $/ 3 ^ { [ 1 3 ] }$ 。样地内重要值位于前五的阔叶树种依次为胡桃楸（Juglansmandshurica）、色木槭（Acer mono）、千金榆（Carpinuscordata）暴马丁香（Syring areticulata var.amurensis）和紫椴（Tilia amurensis）；主要针叶树种为红松（Pinuskoraiensis）。为了满足样本量需求,本文以所有生境型中株数均大于30的物种为研究对象,共计16个物种如",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d654bb3bbcf30941a16c3ff3857c0e0fa1be1570ba7ecb0659018c8e78a430c8.jpg",
+        "table_caption": [
+            "表116种木本植物及其重要值",
+            "Table 1 16 studied species and their importance values "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号No.</td><td>树种 Species</td><td>属Genus</td><td>科 Family</td><td>重要值IV/%</td></tr><tr><td>1</td><td>胡桃楸 Juglans mandshurica</td><td>胡桃属</td><td>胡桃科</td><td>11.6</td></tr><tr><td>2</td><td>色木槭 Acer mono</td><td>槭树属</td><td>槭树科</td><td>9.8</td></tr><tr><td>3</td><td>千金榆 Carpinus cordata</td><td>鹅耳栎属</td><td>桦木科</td><td>9.1</td></tr><tr><td>4</td><td>暴马丁香 Syring areticulate var. amurensis</td><td>丁香属</td><td>木犀科</td><td>6.8</td></tr><tr><td>5</td><td>紫椴Tilia amurensis</td><td>椴树属</td><td>椴树科</td><td>6.8</td></tr><tr><td>6</td><td>春榆 Ulmus davidiana var. japonica</td><td>榆属</td><td>榆科</td><td>5.6</td></tr><tr><td>7</td><td>白牛槭 Acer mandshuricum</td><td>槭树属</td><td>槭树科</td><td>5.2</td></tr><tr><td>8</td><td>糠椴Tilia mandshurica</td><td>椴树属</td><td>椴树科</td><td>4.7</td></tr><tr><td>9</td><td>红松Pinu skoraiensis</td><td>松属</td><td>松科</td><td>4.6</td></tr><tr><td>10</td><td>水曲柳Fraxinus mandshurica</td><td>白蜡树属</td><td>木犀科</td><td>4.5</td></tr><tr><td>11</td><td>裂叶榆Ulmus laciniata</td><td>榆属</td><td>榆科</td><td>3.3</td></tr><tr><td>12</td><td>蒙古栎Quercus mongolica</td><td>栎属</td><td>壳斗科</td><td>3.2</td></tr><tr><td>13</td><td>黄檗Phellodendron amurense</td><td>黄檗属</td><td>芸香科</td><td>2.4</td></tr><tr><td>14</td><td>毛榛 Corylus mandshurica</td><td>榛属</td><td>桦木科</td><td>1.9</td></tr><tr><td>15</td><td>瘤枝卫矛 Euonymus verrucosus</td><td>卫矛属</td><td>卫矛科</td><td>1.9</td></tr><tr><td>16</td><td>簇毛槭Acer barbinerve</td><td>槭树属</td><td>槭树科</td><td>1.3</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 生境类型划分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Zhang 等[14]利用多元回归树（Multivariate Regression Tree)方法,根据地形变量将研究样地划分成4种不同的生境型(图1)。其中,生境型1包含 248 个 $2 0 \\mathrm { m } \\times 2 0 \\mathrm { m }$ 样方,生境指示种有春榆（Ulmus davidiana var.japonica）、拧筋槭(A.triflorum）、暴马丁香、金银忍冬（Lonicera maackii）等;生境型1位于样地中下方,属于地势平缓的低海拔生境。生境型2包含85个 $2 0 \\mathrm { m } \\times 2 0 \\mathrm { m }$ 样方，生境指示种有千金榆、红松、青楷槭（A.tegmentosum)等;生境型2位于样地左上方和右下角,属于海拔大于 $4 5 3 . 6 \\mathrm { m }$ 的东坡(坡向 $\\geqslant 1 8 6$ 度)生境。生境型3和生境型4主要位于样地右上方和左上角,属于海拔大于 $4 5 3 . 6 \\mathrm { m }$ 的西坡(坡向 $< 1 8 6$ 度)生境。生境型3包含52个 $2 0 \\mathrm { m } \\times 2 0 \\mathrm { m }$ 样方,海拔低于 $4 6 5 . 7 2 \\mathrm { m }$ ,在样地中面积最小,指示种有白牛槭（A.mandshuricum）、东北山梅花（Philadelphus schrenkii）、簇毛槭(A.barbinerve）和沙松（Abies holophylla)等。生境4包含143个样方,海拔大于 $4 6 5 . 7 2 \\mathrm { m }$ ，指示种有色木槭、水榆花楸（Sorbusalnifolia）、裂叶榆（U.laciniata）、糠椴(T.mandshurica）等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 空间分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用Ripley's $L ( r )$ 函数分析样地内树种的空间分布特征[15-16],采用 Monte Carlo 方法检验观测点的 $L ( r )$ 值偏离随机分布的显著性程度[16]。本文通过完全空间随机模拟技术得到显著性为 $9 5 \\%$ 的置信区间,如果$L ( r )$ 值落在置信区间内格局为随机分布,大于置信区间上限为聚集分布,小于置信区间下限为均匀分布;研究尺度 $\\boldsymbol { r }$ 的取值范围为0一 ${ \\cdot 3 0 } \\mathrm { m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用标记相关函数（mark correlation function,MCF)分析样地中树木种群的种内空间关联性[17-20]。标记相关函数通常用来研究在不同空间尺度上树木特征值的空间自相关性[5,12,18],它不仅考虑研究对象的空间位置,还考虑了研究对象的树高、胸径和生长量等数量化特征(即标记值),因此,标记相关函数是一种将树木的位置坐标和特征参数相结合的函数。本文中特征参数值为树木 5a 的胸高断面积生长量（2009 年和 2014年胸高断面积的差值)。标记相关函数同样采用MonteCarlo方法检验观测点的 $k \\left[ \\mathrm { m m } \\right] \\left( r \\right)$ 值偏离独立分布的显著性程度。如果 $k \\left[ \\mathrm { m m } \\right] \\left( r \\right)$ 值落在置信区间内,则表示树木的生长是相互独立的、中性的;如果 $k [ \\mathrm { m m } ]$ $( r )$ 值落在置信区间上限之上,则表示树木的生长是相互促进的,具有正向相关性;如果 $k \\left[ \\mathrm { m m } \\right] \\left( r \\right)$ 值落在置信区间下限之下,则表示树木的生长是相互抑制的,具有负向相关性,即个体间存在竞争关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/46ed4c2006ba3ba44d1e46fa2ae450c2bea72d2fa3540ce32286a1e9f231661e.jpg",
+        "img_caption": [
+            "图1吉林蛟河 $2 1 . 1 2 \\mathrm { h m } ^ { 2 }$ 研究样地的生境类型分布",
+            "Fig.1The distribution of the habitat types in a $2 1 . 1 2 \\mathrm { h m } ^ { 2 }$ research plot in Jiaohe,Jinlin Provinci 图中每个样方大小为 $2 0 \\mathrm { m } \\times 2 0 \\mathrm { m }$ ，曲线代表等高距 $5 \\mathrm { m }$ 的等高线，数字代表不同生境类型 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 空间位置点格局分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Ripley's $L ( r )$ 函数以物种分布的空间点图为基础,量化空间点之间的位置关联性。本文分析了16 个物种在不同生境型中的空间分布格局（表2）,红松、蒙古栎（Quercus mongolica）、胡桃楸、黄檗（Phellodendronamurense）、水曲柳（Fraxinus mandshurica）和瘤枝卫矛（Euonymus verrucosus）主要呈聚集性分布,但在特定生境中呈现小尺度随机分布,空间格局具有明显的生境依赖性。以上6个物种呈现随机分布的特定生境及其空间尺度分别是;红松（生境型 $3 : 1 { \\ - } - 5 \\mathrm { m }$ ）、蒙古栎(生境型 $3 : 1 { \\mathrm { - } } 3 { \\mathrm { m } }$ ）、胡桃楸（生境型 $2 : 1 { \\mathrm { - } } 2 { \\mathrm { m } }$ ;生境型3：1-$\\mathrm { 7 m }$ )、黄檗(生境型 $2 : 1 { - } 3 \\mathrm { m }$ ;生境型 $4 { : } 1 { - } 5 \\mathrm { m } \\mathrm { \\cdot }$ ）、水曲柳(生境型 $3 : 1 { - } 2 \\mathrm { m }$ ;生境型 $4 { : } 1 { - } 2 \\mathrm { m } , 1 2 { - } 1 6 \\mathrm { m } )$ 、瘤枝卫矛（生境型 $2 : 1 { \\mathrm { - } } 1 5 { \\mathrm { m } }$ )。其余10个物种则在全部研究尺度上呈聚集分布。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/854faece21ea95b827dcdc28e66024e2b30a5449b1bdbbfaccbe17c9efe1b562.jpg",
+        "table_caption": [
+            "表2不同生境中物种的空间位置分布特征",
+            "Table2 Spatial distribution characteristics of species in the different habitats ",
+            "http://www.ecologica.cn "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>物种 Species</td><td>生境Habitat</td><td>1-5m</td><td>6-10m</td><td>11—15m</td><td>16—20m</td><td>21—25m</td><td>26—30m</td></tr><tr><td>白牛槭</td><td>H1</td><td>C</td><td>c</td><td>C</td><td>C</td><td>C</td><td>C</td></tr><tr><td></td><td>H2</td><td>C</td><td>c</td><td>c</td><td>c</td><td>C</td><td>C</td></tr><tr><td></td><td>H3</td><td>C</td><td>C</td><td>C</td><td>C</td><td>c</td><td>C</td></tr><tr><td></td><td>H4</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td></tr><tr><td>暴马丁香</td><td>H1</td><td>C</td><td>C</td><td>C</td><td>C</td><td>c</td><td>C</td></tr><tr><td></td><td>H2</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td></tr><tr><td></td><td>H3</td><td>C</td><td>c</td><td>C</td><td>C</td><td>C</td><td>C</td></tr><tr><td></td><td>H4</td><td>C</td><td>c</td><td>C</td><td>c</td><td>C</td><td>C</td></tr><tr><td>春榆</td><td>H1</td><td>C</td><td>c</td><td>C</td><td>c</td><td>C</td><td>C</td></tr><tr><td></td><td>H2</td><td>C</td><td>c</td><td>C</td><td>c</td><td>C</td><td>C</td></tr><tr><td></td><td>H3</td><td>C</td><td>c</td><td>C</td><td>C</td><td>C</td><td>C</td></tr><tr><td></td><td>H4</td><td>C</td><td>c</td><td>C</td><td>c</td><td>c</td><td>C</td></tr><tr><td>簇毛槭</td><td>H1</td><td>C</td><td>C</td><td>C</td><td>c</td><td>C</td><td>C</td></tr><tr><td></td><td>H2</td><td>C</td><td>C</td><td>C</td><td>c</td><td>c</td><td>C</td></tr><tr><td></td><td>H3</td><td>C</td><td>C</td><td>C</td><td>c</td><td>c</td><td>C</td></tr><tr><td></td><td>H4</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/34ae259c46a6ca2d06dccbb1b379e8dcc1d7565d865795f81240c9fe0c0d01d5.jpg",
+        "table_caption": [
+            "续表"
+        ],
+        "table_footnote": [
+            "r表示随机分布，c表物种示聚集分布， $\\mathbf { r } ( 2 ) \\mathbf { c } ( 3 )$ 表示在相应的尺度范围内有2个尺度为随机分布、3个尺度为聚集分布；H1为生境型1，H2为生境型2，H3为生境型3，H4为生境型4"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>紫椴</td><td>水曲柳</td><td></td><td>色木槭</td><td>千金榆</td><td>蒙古栎</td><td>毛榛</td><td>瘤枝卫矛</td><td>裂叶榆</td><td>糠椴</td><td></td><td>黄檗 胡桃楸</td><td>物种 speics</td><td>买</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>三</td><td>H H 生境Habitat</td><td></td></tr><tr><td></td><td></td><td>r(2）c(（3)</td><td></td><td></td><td></td><td>r(3)c(2)</td><td></td><td></td><td></td><td></td><td>r(3)c(2)</td><td>C r(2)c(3)</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>C r(4)c(1)</td><td>1-5m</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>r(2)c(3)</td><td>6-10m</td></tr><tr><td></td><td>c(1)r(4)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>11—15m</td></tr><tr><td></td><td>r(1)c(4)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>16—20m</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>21- -25m</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>26-</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-30m</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2树木生长的空间关联性分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "标记相关函数分析显示不同树种径向生长的空间自相关特征不同;绝大多数树种径向生长的空间特征受生境类型影响,具有明显的尺度依赖性(图2)。红松、黄檗、蒙古栎和簇毛槭的径向生长在全部研究尺度上均未检测到显著的空间关联性。至少在一个生境中表现出正相关的物种及其特定的空间尺度为：春榆（生境型$1 : 2 3 - 2 8 \\mathrm { m }$ ）、毛榛(Corylusmandshurica）（生境型 $1 : 2 3 - 2 8 \\mathrm { m }$ ）、色木槭(生境型 $1 : 1 1 { \\ - } 1 3 \\mathrm { m } \\cdot 2 0 { \\ - } { \\ - } 2 2 \\mathrm { m } )$ 、瘤枝卫矛（生境型 $4 : 4 { \\mathrm { - } } 6 \\mathrm { m } { \\mathrm { , } }$ 和千金榆(生境型 $4 { : } 7 { \\mathrm { - } } 1 3 { \\mathrm { m } }$ )。至少在一个生境中表现出负相关的物种及其特定的空间尺度为：暴马丁香(生境型 $1 : 1 \\mathrm { m } - 2 1 \\mathrm { m }$ ,26- $2 8 \\mathrm { m }$ ）、胡桃楸(生境型1：1— $1 1 \\mathrm m$ ;生境型2：1- $\\cdot 3 \\mathrm { m }$ ;生境型4：",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5244a12735e26f0d75ba21177d3493048c3db87efd48f6ac3b65a05fe56c5690.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1d5903f98c913134b71b1af3ae29cc3f0f6090ca607dfd18e6621829f19fbb1.jpg",
+        "img_caption": [
+            "图216个木本植物在不同生境中径向生长空间关联性分析",
+            "Fig.2Spatial correlations of diameter growth of 16 woody species in different habitats 实线为利用观测数据计算的 $k [ \\mathrm { m m } ]$ 值，虚线为 $9 5 \\%$ 置信区间 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1—6m）裂叶榆(生境型 $1 : 1 5 { - - 2 0 \\mathrm { m } }$ ;生境型 $4 ; 4 { \\mathrm { - } } 8 \\mathrm { m } { \\mathrm { \\Omega } }$ ）、瘤枝卫矛（生境型 $1 : 1 8 - 2 1 \\mathrm { m }$ ）、水曲柳（生境型1：${ 4 } \\mathrm { - } 7 { \\mathrm { m } } )$ 、紫椴(生境型 $1 : 2 2 - 2 3 \\mathrm { m }$ ;生境型 $2 : 2 0 { \\mathrm { - } } 2 3 \\mathrm { m }$ ;生境型 $4 { : } 1 0 { - } 3 0 \\mathrm { m }$ ）、糠椴（生境型 $2 : 5 { \\mathrm { - } } 1 1 \\mathrm { m } ^ { \\cdot }$ ）、毛榛（生境型 $2 : 1 8 { \\ - } - 3 0 \\mathrm { m }$ ）、色木槭(生境型 $2 : 1 - 3 \\mathrm { m } , 1 2 { - 2 0 \\mathrm { m } }$ ;生境型 $4 { : } 1 { - } 7 \\mathrm { m } \\mathrm { \\Omega } ,$ )和白牛槭(生境型 $4 { : } 1 { - } 5 \\mathrm { m } \\mathrm { \\cdot }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "统计不同物种的林木径向生长空间自相关类型比例（图3）,生境型1中林木径向生长呈正相关和负相关的物种比例差异最小,且正相关比例明显高于其它生境;生境型2中未检测到正相关,超过 $3 7 \\%$ 的物种的径向生长呈负相关;生境型3中未检测到径向生长呈显著正、负相关的物种;生境型4与生境型1的比例结构类似,但生境型4中正相关的比例相对更小。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ca3e9016e0d62d6146ba5584fb4133c1428f8cf1a343e73ad5364ccd0d3c363.jpg",
+        "img_caption": [
+            "图3不同生境型中物种径向生长的空间关联性统计"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Proportion of the intra-specific relationship forall studied species in different habitats ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "热带雨林和亚热带常绿阔叶林的木本植物空间格局主要表现为聚集性分布,聚集程度随着空间尺度而变化[21-23],温带森林的物种空间格局也具有类似结构[12]。物种空间分布通常受生境异质性[24]、种子扩散限制[25-26]、植物种内和种间作用[4,I1]等诸多因素综合影响。本文以研究样地生境型划分结果为基础[14],在环境条件相对一致的生境型内讨论问题,有助于更好地区分生境异质性和树木之间的相互作用对群落格局构建的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生境条件显著地影响着树木生长的空间自相关格局。生境型1位于样地内地势平缓的低海拔区域,该区域光照和土壤条件相对较好、水分充足,因此生境型1中正相关比例最高。生境型2和生境型3是样地内低海拔到高海拔的过渡区域。生境型2位于半阴坡并且坡度较陡,生境型2内主要表现为种内生长的空间负相关,表明该区域种内竞争激烈,可能与其生境条件相对恶劣、土壤水分和光照条件较差有关。生境型3位于半阳坡,坡度较缓、光照条件相对较好,且生境型3拥有更多顶级树种、群落结构相对更加稳定,因此全部物种的径向生长均表现为中性关系。生境型2和生境型4都位于样地内坡度较大的区域,树种组成颇为相似,但生境型4的海拔相对较高,Coomes 等7发现随着海拔升高植物对光照的竞争会减弱。生境型4中种内生长的负相关比例明显减少、正相关比例明显增加,这可能是光照竞争被削弱导致的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "许多研究表明除生境条件外,林分水平上的树木位置分布特征会对树木生长的空间关联性产生影响[1,6,27];当树木呈聚集分布时,树木的生长会表现出明显的负相关,负相关强度会随着聚集强度的增加而增加[27]。本文结果显示;虽然林木位置在空间上呈聚集分布,但大多数物种的生长空间关联格局却是中性的。Law 等[5]研究发现树木生长的空间关联格局和树木位置的空间分布格局在存在一定程度上的独立性。树木的空间位置格局主要由出生和死亡等过程决定的,树木生长则主要由能量流入与养分获取等过程决定。如果这些潜在生态学过程在一定程度上解耦,就会引起树木生长的空间自相关性格局与树木位置的空间分布格局相互独立[5]。但事实上这两个过程又常常密不可分:森林中生长发育长期受到抑制的树木最终会死亡,生长上的负相关性导致树木格局由聚集分布变成均匀分布[11]。Kubota 等[4]分析针阔混交林在10 年间的空间动态,发现树木聚集分布是由具有空间依赖性的更新过程引起的,并在持续的竞争作用下会逐渐变成均匀分布。Getzin 等[24]研究表明生境异质性导致物种聚集分布,但同时物种对于特定生境的依赖和偏好会削弱聚集分布引起的竞争,从而使树木生长的空间自相关格局表现为中性。Das等[28研究发现虽然竞争对于树木的生长和死亡存在持续的影响,但这种影响往往比较微弱,只在特定的环境中作用显著。因此要全面探究群落中树木生长格局的构建机制,有必要在研究树木生长自相关格局的基础上分析生境偏好对植物生长的影响以及植物生长与生境之间的关联性,这也是我们未来的研究重点。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1]Wes34-38.  \n[2]delRsrehalercesdaerspeipetih（cL.）mixed stands.Forest Ecology and Management，2014,325:90-98.  \n3]StoleEaepeiaagofalsatlo(2):395-503.  \n[4]KubotaY,uboHatanKatalpedaseraiferaeadforstJpanlato,190(1): 143-157.  \n[5]LawR,isG,atlkCVatiIAUlaliffsaiasinsights from point process theory.Journal of Ecology，2009,97(4）：616-628.  \n[6]GetzinSigdKacrJgFaleepedetopetiatadeveleoreasFrstoManagement，2008，255（7）：2478-2485.  \n[7] CoomesDA，AllenRB.Effectsofsize,competitionandaltitudeontree growth.JournalofEcology，2007,95(5）：1084-1097.  \n[8]Tobler WR.Celulargeography//GaleS,Olssn G,eds.Philosophyin geographyNetherlands：Springer，1979：39-386.  \n[9] GoodchildMFatifdfoieigtalicts/eKaf GIS tothe ModelingofNon-PointSourcePolutantsintheVadose Zone.Madison：SoilSienceSocietyofAmerica,Inc.996：1-17.  \n]PrrongUteactiohattaceesaialcuFdgt4(1/3):29-57.  \n[11]PicardanrtieFdofUdersadighaofdisubrocalifrseatalJournal of Ecology，2009,97(1）：97-108.  \n[12]ZangCYWeiY,ZaXdoKVSpatialaracterissftreeeeririutiosiperategrowthfores,2013,8(3):e58983.  \n[13］方精云,王襄平,沈泽吴，唐志尧，贺金生，于丹，江源,王志恒，郑成洋，朱江玲,郭兆迪.植物群落清查的主要内容、方法和技术规范.生物多样性，2009，17(6)：533-548.  \n[14] ZhangCY,ZaYZ,ZXHdoKVeciesaocatiositepeateforestiil,4(4)：501-519.  \n[15] RipleyBD.Thesecond-orderanalysisof stationarypoint proceses.Journalofapliedprobability，976,13(2)：55-266.  \n[16] Diggle PJ.Statistical Analysisof Spatial PointPatterns.2nded.New York：ArnoldOxford UniversityPress,2003.  \n[17] StoyanD,Stoyan H.Fractals，Random Shapes，andPointFields：Methodsof Geometrical Statistics.Chichester：Wiley，1994.  \n[18] StoyanD,PentinenA.Recentapplicatiosofontprossmetodsinforestrysatistis.Statisical Sience,o,5()：6-78.  \n[19] SchlatherM，beiroJJrDiglePJDetectingdepedencebetweemarksndlocatiosofmarkedpointprocesesJoualoftealStatistical Society：Series B（Statistical Methodology），2004,66(1）：79-93.  \n[20] LancasterJ.Usingneutrallandscapestoidentifypatesofregationacrossesoucepoints.Ecoraphy，006，29（3）38-395.  \n[21] Hubbell SP.Tree dispersion，abundance,anddiversityinatropical dry forest.Science，1979,203(4387）：1299-1309.  \n[22] HeFL,LegdieJVrsilalJaofea(1)：105-114.  \n[23]LiL,HuangZL,YeWH,CaoHL,WeiSG,WangZG,LianJY,SunIF,MaKP,HeFLSpatialdistributions oftrespecies inasubtropical forest of China.Oikos，2009,118(4）：495-502.  \n[24] GetzinS，WgdKtergitysialsoasieaal96(4): 807-820.  \n[2]ligulH,bellispsaltaoJof Ecology，2002,90(4)：714-727.  \n[26]SeidlerTG,Plotkin JB.Seed dispersal and spatial paterm intropical trees.PLoS Biology，2O06,4(11）：e344.  \n[27]FraveradssGeroetoohtboreal Sweden：influence of tree spatial patterning.Journal of vegetation science,2O14,25(2）：374-385.  \n[28]DasAtseenanorbiofopetioreortaliteouststEcology and Management，2011,261（7）：1203-1213.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

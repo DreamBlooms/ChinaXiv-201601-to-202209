@@ -1,0 +1,502 @@
+[
+    {
+        "type": "text",
+        "text": "Explanation of the ATLAS Z-peaked excess in the NMSSM ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Junjie Cao,a,b Liangliang Shang,α Jin Min Yang, Yang ZhangC ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Department of Physics, Henan Normal University， Xinxiang 4530o7, China   \nbDepartment of Applied Physics, Xi'an Jiaotong University， Xi'an 710049, China   \ncState Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Academia Sinica, Beijing 100190,China   \nE-mail: junjiec@itp.ac.cn, shlwell1988@gmail.com, jmyang@itp.ac.cn,   \nzhangyang@itp.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT:Recently the ATLAS collaboration reported a $3 \\sigma$ excess in the leptonic$Z + j e t s + E _ { T } ^ { m \\imath s s }$ channel. This may be interpreted in the Next-to-Minimal Supersymmetric Standard Model (NMSSM) by gluino pair production with the decay chain $\\tilde { g }  q \\bar { q } \\tilde { \\chi } _ { 2 } ^ { 0 } $ $q \\bar { q } Z \\tilde { \\chi } _ { 1 } ^ { 0 }$ ，where $\\tilde { \\chi } _ { 1 } ^ { 0 }$ and $\\tilde { \\chi } _ { 2 } ^ { 0 }$ denote the lightest and the next-to-lightest neutralinos with singlino and bino as their dominant components respectively. After exploring the relevant parameter space of the NMSSM by considering the constraints from the ATLAS searches for $j e t s + E _ { T } ^ { m i s s }$ signals, weconcludethatthe NMSSMis abletoexplaintheexcessat $1 \\sigma$ level with the number of the signal events reaching its measured central value in optimal cases,and the best explanation comes from a compressed spectrum such as $m _ { \\tilde { g } } \\simeq 6 5 0 \\mathrm { G e V }$ ， mx \\~ 565GeV and mx \\~ 465GeV. We also check the consistency of the ATLAS results with the null result of the CMS on- $Z$ search. We find that under the CMS limits at $9 5 \\%$ C.L., the event number of the ATLAS on- $Z$ signal can still reach 11 in our scenario,which is about $1 . 2 \\sigma$ away from the measured central value. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Introduction 2 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A potential explanation of the excess in the NMSSM 3 }Simulations and cuts 5 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 ATLAS search for leptonic- $Z + j e t s + E _ { T } ^ { m \\imath s s }$ signal 5   \n3.2 ATLAS search for $> 6$ （2 $j e t s + E _ { T } ^ { m i s s }$ signal 6   \n3.3 ATLAS search for $2 \\sim 6 \\ j e t s + E _ { T } ^ { m \\imath s s }$ signal 7   \n3.4 CMS search for leptonic- $Z + j e t s + E _ { T } ^ { m i s s }$ signal 7 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4Numerical results and discussions 8 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5Conclusion 12 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A Validation of Monte Carlo simulations 13 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since the discovery of a Higgs-like particle in 20l2 [1], the search for new physics beyond the Standard Model (SM) has been the most important task of the LHC. So far this search has covered a wide range of possble signatures of new physics, especially the signals of supersymmetry (SUSY)，which are characterized by various combinations of missing transverse energy $E _ { T } ^ { m i s s }$ plus jets and/or leptons (electrons or muons). In this direction, one impressive result is that the ATLAS collaboration recently reported a $3 \\sigma$ excess in the channel of two leptons with an invariant mass located around $m _ { Z }$ ,large $E _ { T } ^ { m i s s }$ and at least two jets [2]. For $2 0 . 3 f b ^ { - 1 }$ of integrated luminosity at a center-of-mass energy of 8TeV, the number of the observed leptonic- $Z$ events is 29 (summing over electron and muon pairs) in comparison with $1 0 . 6 \\pm 3 . 2$ events expected in the SM [2]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "During past weeks, several works appeared to interpret the excess in SUSY [3-7] and all of them employed gluino pair production process. As pointed out in [3], in order to enhance the signal rate to meet the ATLAS data, the gluino must be relatively light, $m _ { \\tilde { g } } \\lesssim 1 . 2 \\mathrm { T e V }$ ， and meanwhile have a rich $Z$ -boson yield in its decay. The latter requirement can be satisfied in the General Gauge Mediation model (GGM) with a very light gravitino $\\tilde { G }$ as the lightest supersymmetric particle (LSP) [8]. In this framework, due to the very weak couplings of $\\tilde { G }$ to matter fields,gluino prefers to decay firstly into a neutralino,and the subsequent decay of the neutralino into $\\tilde { G }$ is able to produce one or more $Z$ -bosons [3]. The simplest decay chain can be written as $\\tilde { g } \\to q \\bar { q } \\tilde { \\chi } _ { 1 } ^ { 0 } \\to q \\bar { q } Z \\tilde { G }$ ，where $\\tilde { \\chi } _ { 1 } ^ { 0 }$ denotes the lightest neutralino and the first step decay proceeds via exchanging an off-shell squark. It should be noted that, since $m _ { \\tilde { g } } \\gg m z$ , one has following mass relations: $m _ { \\tilde { g } } \\gg m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } \\gtrsim m z$ （204号 or $m _ { \\tilde { g } } \\gtrsim m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } \\gg m _ { Z }$ . In either case, the gluino cascade decay will produce at least two hard jets,which are from the first step decay $\\tilde { g }  q \\bar { q } \\tilde { \\chi } _ { 1 } ^ { 0 }$ or from the hadronic decay of an energetic $Z$ boson.As a result, this explanation could be tightly constrained by the search for SUSY in events with jets plus $E _ { T } ^ { m i s s }$ . Moreover, as ilustrated in [4], this explanation can not reproduce the shape of the $E _ { T } ^ { m a s s }$ distribution measured by the ATLAS collaboration. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Given the deficiencies of the GGM in explaining the excess,we in this work consider an alternative simple scenario realized in the Next-to Minimal Supersymmetric Standard Model (NMSSM) [10]. Our scenario involves a singlino-dominated LSP $\\tilde { \\chi } _ { 1 } ^ { 0 }$ and a bino-dominated next-to-lightest supersymmetric particle (NLSP) $\\tilde { \\chi } _ { 2 } ^ { 0 }$ , and the decay chain $\\tilde { g } \\to q \\bar { q } \\tilde { \\chi } _ { 2 } ^ { 0 } \\to q \\bar { q } Z \\tilde { \\chi } _ { 1 } ^ { 0 }$ . Similar to the GGM explanation, the LSP in our scenario has very weak couplings to matter felds,but different from a very light $\\tilde { G }$ in GGM (which is required by the prompt decay of the NLSP [9]), now the LSP may be massive. This feature enablesustochoseaslightlycompressedSspectru $m _ { \\tilde { g } } \\sim m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } } \\sim m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } + m _ { Z }$ to evade the constraints from the SUSY searches. Consequently, gluino as light as 700GeV is still experimentally allowed, which is helpful to explain the excess (see discussion below). Another advantage of our scenario is that it can reproduce the $E _ { T } ^ { m i s s }$ and $H _ { T }$ distributions measured by the ATLAS collaboration. This has been recently emphasized in [4]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "About our scenario，two points should be noted. One is that，since $Z$ boson decays dominantly hadronically, in most cases the gluino cascade will produce multiple jets. Considering that the ATLAS collboration has performed several comprehensive searches for the jets $+ ~ E _ { T } ^ { m i s s }$ signals,and each of the searches focused on multiple signal regions which are sensitive to different configurations of SUSY spectrum [17-19], one should consider these searches by reproducing them through detailed simulations and then using the corresponding experimental data as input to limit SUSY. Studying the capability of our scenario under these constraints to interpret the excess is the main aim of this work. The other is that the CMS collaboration recently also reported its analysis on the leptonic$Z + j e t s + E _ { T } ^ { m i s s }$ signal[20], which should have thesamephysical origin asthe ATLAS excess in our scenario. Since the CMS observed no excess, one should check the consistency of the two searches by noting that they are based on different cuts and different detectors. This is another aim of this work. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This work is organized as follows. In Section II, we introduce our scenario and illustrate its key features. Then in Section II, we describe the strategies of the ATLAS and CMS searches for the leptonic- $Z + j e t s + E _ { T } ^ { m i s s }$ signal as well sothersaesfor $j e t s + E _ { T } ^ { m \\ : i s s }$ signals. In Section IV, we first show the dependence of various signals on SUSY parameters in our scenario. Then we scan the relevant SUSY parameters by considering the constraints from the SUSY searches, and in the surviving parameter space, we investigate the capability of our scenario in explaining the ATLAS Z-peaked excess and check the consistency of the measurements from the two collaborations on the leptonic- $Z + j e t s + E _ { T } ^ { m i s s }$ signal. Finally, we draw our conclusion in Section V. The validations of our simulations on the ATLAS searches for the leptonic- $Z + j e t s + E _ { T } ^ { m i s s }$ signal are presented in the appendix. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2A potential explanation of the excess in the NMSSM ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The NMSSM is the simplest singlet extension of the Minimal Supersymmetric Standard Model (MSSM) and its superpotential is given by [10] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { N M S S M } = W _ { M S S M } + \\lambda \\hat { S } \\hat { H _ { u } } \\cdot \\hat { H _ { d } } + \\xi _ { F } \\hat { S } + \\frac { 1 } { 2 } \\mu ^ { \\prime } \\hat { S } ^ { 2 } + \\frac { \\kappa } { 3 } \\hat { S } ^ { 3 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $W _ { M S S M }$ is the superpotential of the MSSM, $\\hat { H _ { u } }$ and $\\hat { H _ { d } }$ are MSSM Higgs superfields, $\\hat { S }$ is a gauge singlet superfield, $\\lambda$ and $\\kappa$ are dimensionless Yukawa couplings, $\\mu ^ { \\prime }$ is a supersymmetric mass and $\\xi _ { F }$ with dimension of squared mass parameterizes a tadpole term. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Due to the addition of the singlet field, the NMSSM predicts three CP-even Higgs bosons, two CP-odd Higgs bosons and five neutralinos. The mass matrix of the neutralinos in the bases $( - i \\tilde { B } ^ { 0 } , - i \\tilde { W } ^ { 0 } , \\tilde { H } _ { u } ^ { 0 } , \\tilde { H } _ { d } ^ { 0 } , \\tilde { S } ^ { 0 } )$ is given by[10] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } = \\left( \\begin{array} { c c c c c } { { M _ { 1 } } } & { { 0 } } & { { \\frac { e v _ { u } } { \\sqrt { 2 } c _ { w } } } } & { { - \\frac { e v _ { d } } { \\sqrt { 2 } c _ { w } } } } & { { 0 } } \\\\ { { 0 } } & { { M _ { 2 } } } & { { - \\frac { e v _ { u } } { \\sqrt { 2 } s _ { w } } } } & { { \\frac { e v _ { d } } { \\sqrt { 2 } s _ { w } } } } & { { 0 } } \\\\ { { \\frac { e v _ { u } } { \\sqrt { 2 } c _ { w } } } } & { { - \\frac { e v _ { u } } { \\sqrt { 2 } s _ { w } } } } & { { 0 } } & { { - \\mu _ { e f f } } } & { { - \\lambda v _ { d } } } \\\\ { { - \\frac { e v _ { d } } { \\sqrt { 2 } c _ { w } } } } & { { \\frac { e v _ { d } } { \\sqrt { 2 } s _ { w } } } } & { { - \\mu _ { e f f } } } & { { 0 } } & { { - \\lambda v _ { u } } } \\\\ { { 0 } } & { { 0 } } & { { - \\lambda v _ { d } } } & { { - \\lambda v _ { u } } } & { { 2 \\kappa s + \\mu ^ { \\prime } } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $c _ { w } = \\cos { \\theta _ { W } }$ ， $M _ { 1 }$ and $M _ { 2 }$ are soft gaugino masses, $v _ { u } = v \\sin \\beta$ and $v _ { d } = v \\cos \\beta$ are vacuum expectation values (vev) of the felds $H _ { u }$ and $H _ { d }$ respectively, and $\\mu _ { e f f } = \\mu + \\lambda s$ （20 with $s$ denoting the vev of the singlet scalar feld $S$ . This matrix indicates that the mixings between the bases depend on the parameters $\\tan \\beta$ and $\\lambda$ ，and for a singlino-dominated LSP, its gaugino components should be very small, while its Higgsino components may be sizeable for a large $\\lambda$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The interactions of the neutralinos take following form [10] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\mathcal { L } _ { \\tilde { \\chi } ^ { 0 } } = \\tilde { u } _ { L } ^ { \\ast } \\tilde { \\chi } _ { j } ^ { 0 } \\Big [ { \\frac { - e } { \\sqrt 2 s _ { w } c _ { w } } } \\big ( { \\frac { 1 } { 3 } } N _ { 1 j } s _ { w } + N _ { 2 j } c _ { w } \\big ) P _ { L } - y _ { u } N _ { 4 j } ^ { \\ast } P _ { R } \\Big ] u } } \\\\ { { \\qquad + \\tilde { d } _ { L } ^ { \\ast } \\tilde { \\chi } _ { j } ^ { 0 } \\Big [ { \\frac { - e } { \\sqrt 2 s _ { w } c _ { w } } } \\big ( { \\frac { 1 } { 3 } } N _ { 1 j } s _ { w } - N _ { 2 j } c _ { w } \\big ) P _ { L } + y _ { d } N _ { 3 j } ^ { \\ast } P _ { R } \\Big ] d } } \\\\ { { \\qquad + \\tilde { u } _ { R } ^ { \\ast } \\tilde { \\chi } _ { j } ^ { 0 } \\Big [ { \\frac { 2 \\sqrt 2 e } { 3 c _ { w } } } N _ { 1 j } ^ { \\ast } P _ { R } - y _ { u } N _ { 4 j } P _ { L } \\Big ] u + \\tilde { d } _ { R } ^ { \\ast } \\tilde { \\chi } _ { j } ^ { 0 } \\Big [ { \\frac { - \\sqrt 2 e } { 3 c _ { w } } } N _ { 1 j } ^ { \\ast } P _ { R } + y _ { d } N _ { 3 j } P _ { L } \\Big ] d } } \\\\ { { \\qquad + { \\frac { e } { s _ { w } c _ { w } } } Z _ { \\mu } \\tilde { \\chi } _ { i } ^ { 0 } \\gamma ^ { \\mu } ( \\mathcal { O } _ { i j } ^ { L } P _ { L } + \\mathcal { O } _ { i j } ^ { R } P _ { R } ) \\tilde { \\chi } _ { j } ^ { 0 } + h _ { u } \\tilde { \\chi } _ { i } ^ { 0 } ( { \\frac { - \\sqrt { 3 } } { \\sqrt 2 } } \\Pi _ { i j } ^ { 4 5 } - { \\frac { g _ { 1 } } { 2 } } \\Pi _ { i j } ^ { 1 3 } + { \\frac { g _ { 2 } } { 2 } } \\Pi _ { i j } ^ { 2 3 } ) \\tilde { \\chi } _ { j } ^ { 0 } + \\cdot } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $N$ is the rotation matrix to diagonalize the neutralino mass matrix with its element denoted by $N _ { i j }$ $( i , j = 1 , \\cdots , 5 )$ ， $\\mathcal { O } _ { i j } ^ { L } = - \\mathcal { O } _ { i j } ^ { R * } = - \\textstyle { \\frac { 1 } { 2 } } N _ { i 3 } N _ { j 3 } ^ { * } + \\textstyle { \\frac { 1 } { 2 } } N _ { i 4 } N _ { j 4 } ^ { * }$ ,and $\\Pi _ { i j } ^ { a b } = N _ { i a } N _ { j b } +$ $N _ { i b } N _ { j a }$ . This Lagrangian indicates that the interactions of the neutralinos with a light quark and those with a Z-boson are determined by their gaugino components and Higgsino components respectively, while their interactions with a Higgs boson are decided by the both and there may exist cancelation between the two contributions. These features are helpful in understanding our scenario. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As mentioned in last section, the key issues in explaining the leptonic- $Z$ excess are how to improve the $Z$ yield rate in gluino decay and how to escape the constraints from the ATLAS direct searches for SUSY. Our scheme is as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "· We set the LSP to be the singlino-dominated neutralino, the NLSP to be the binodominated neutralino, and $M _ { 2 } , \\mu _ { e f f } > m _ { \\tilde { g } }$ . This setup guarantees that the rate of the gluino decay into the $\\tilde { \\chi } _ { 2 } ^ { 0 }$ (via an intermediate off-shell squark) is much larger than that of the decay into the $\\tilde { \\chi } _ { 1 } ^ { 0 }$ . Meanwhile, since the NLSP is not accompanied by a light chargino, the gluino may decay into the $\\tilde { \\chi } _ { 2 } ^ { 0 }$ at a rate of approximate $1 0 0 \\%$   \n· We assume $m _ { \\tilde { t } } , m _ { \\tilde { b } } \\gg m _ { \\tilde { q } } > m _ { \\tilde { g } }$ where $q$ denotes light quarks. This assumption ensures that the gluino decays dominantly into $q \\bar { q } \\tilde { \\chi } _ { 2 } ^ { 0 }$ state at first step. We suppress the decay chain $\\tilde { g } \\to t \\bar { t } \\tilde { \\chi } _ { 2 } ^ { 0 } \\to t \\bar { t } Z \\tilde { \\chi } _ { 1 } ^ { 0 }$ due to its very low efficiency in getting the desired signal (We obtain this conclusion by detailed simulations). We assume a relatively heavy $\\tilde { q }$ since it is favored by current LHC search for SUSY. As will be shown later, we are particularly interested in the situation $m _ { \\tilde { g } } \\sim m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } }$ .In this case,the assumption on the mass spectrum may be relaxed to be $m _ { \\tilde { t } } , m _ { { \\tilde { b } } } , m _ { \\tilde { q } } > m _ { \\tilde { g } }$ （204号 and $m _ { \\tilde { g } } < m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } } + 2 m _ { t }$ ：   \n· We require that the decay $\\tilde { \\chi } _ { 2 } ^ { 0 } \\  \\ Z \\tilde { \\chi } _ { 1 } ^ { 0 }$ proceeds at a rate of approximate $1 0 0 \\%$ This can be realized by setting $m _ { Z } < m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } } - m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } \\leq m _ { h }$ or by choosing specific SUSY parameters such that the coupling $h \\bar { \\tilde { \\chi } } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 2 } ^ { 0 }$ is suppressed. With the package NMSSMTools[11]，we numerically checked that， by tuning the parameters of the ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NMSSM, the rate of $\\tilde { \\chi } _ { 2 } ^ { 0 }  Z \\tilde { \\chi } _ { 1 } ^ { 0 }$ can be significantly larger than that of $\\tilde { \\chi } _ { 2 } ^ { 0 }  h \\tilde { \\chi } _ { 1 } ^ { 0 }$ （204号 even when $m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } } - m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } > m _ { h }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "· We employ a moderately compressed spectrum $m _ { \\tilde { g } } \\sim m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } } \\sim m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } + m _ { Z }$ to avoid the constraints from the LHC searches for SUSY. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "About our scenario, we have more explanations. One is that the measured SM-like Higgs boson mass in our scenario can be satisfied by choosing appropriate values of $\\lambda$ ， $\\tan \\beta$ （20 and also third generation squark masses [12-15] and the correct dark matter relic density can be achieved by the annihilate channels ${ \\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 1 } ^ { 0 } }  H _ { i } / A _ { j }  X Y$ with $X Y$ being any possible final states [16]. The other is that,in our scenario, we ad hoc forbid the possibility of $M _ { 2 } , \\mu _ { e f f } < m _ { \\tilde { g } }$ . The main reason is that in that case, the gluino decay chain may become more complicated, and channels such as ${ \\tilde { g } }  q { \\bar { q } } ^ { \\prime } { \\tilde { \\chi } } _ { i } ^ { \\pm }  q { \\bar { q } } ^ { \\prime } W ^ { \\pm } { \\tilde { \\chi } } _ { j } ^ { 0 }  q { \\bar { q } } ^ { \\prime } W ^ { \\pm } Z { \\tilde { \\chi } } _ { 1 } ^ { 0 }$ are open. Then one has to scrutinize the vast parameter space of the NMSSM to find parameter points where the $Z$ yield rate is high. Since this process involves the simulation of the gluino pair production at the LHC, it is very time-consuming in calculation by cluster because the decay chains are lengthy. So our scenario should be regarded as a simplest attempt to explain the excess, which only involves the parameters $m _ { \\tilde { g } }$ ， $m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } }$ and $m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Simulations and cuts ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to discuss the constraints of the LHC searches for SUSY on our scenario and also calculate the event number of the leptonic- $Z + E _ { T } ^ { m i s s }$ signal, we implement the corresponding experimental searches in the package CheckMATE-1.2.0 [23], which have tuned the package Delphes3.0.10 [24] to simulate the behavior of the ATLAS (CMS) detector. The validations of our simulations are presented in Appendix for the benchmark points provided by the experimental groups, and we find that our results agree with the corresponding experimental analyses at 2O% level. Throughout this work, the events in our simulation are generated by MG5_aMC[25] which includes Pythia[26] for parton showering and hadronization, and the package Prospino [27] is used to calculate the NLO cross sections of the gluino pair production. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the following,we only briefly describe the cut flows of these experiments. Detailed information about them can be found from the corresponding experimental reports. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 ATLAS search for leptonic- $Z + j e t s + E _ { T } ^ { m \\imath s s }$ signal ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This search concentrated on the events with a same flavor opposite-sign (SFOS) dilepton pair, jets and $E _ { T } ^ { m i s s }$ at 8-TeV LHC [2]. One intriguing result of this search comes from the signal region SR-Z where the invariant mass of the lepton pair locates around $m _ { Z }$ Explicitly speaking,in contrast with $4 . 2 \\pm 1 . 6$ electron pair events and $6 . 4 \\pm 2 . 2$ muon pair events expected for the SM background,16 events and 13 events are observed respectively in this region. This implies a $3 \\sigma$ excess of the observed events over the background,and may be regarded as a hint of SUSY. So in the folowing we try to explain this excess with our scenario. The signal region SR-Z is defined by ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 1: Definition of signal regions in ATLAS search on > 6 $j e t s + E _ { T } ^ { m \\ i s s }$ signal [19]. Here the jet, the pseudo-rapidity $\\eta$ and multiplicity all refer to the $R = 0 . 4$ jets. Composite jets with a larger radius parameter $R = 1 . 0$ are used in the multi-jet + $M _ { J } ^ { \\sum }$ stream when constructing the quantity $M _ { J } ^ { \\sum }$ (see text). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d65de17585efce3bc0036efc8765d9e41169b2b44d6b36a2cb156096dd63e60.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"5\">Multi-jet + flavour stream</td><td colspan=\"2\">Multi-jet + MJ</td><td>stream</td></tr><tr><td>Name</td><td>8j50</td><td>9j50</td><td>≥10j50</td><td>7j80</td><td>≥8j80</td><td>≥8j50</td><td>≥9j50</td><td>≥10j50</td></tr><tr><td>Jet Pmin[GeV]</td><td colspan=\"3\">50</td><td colspan=\"2\">80</td><td colspan=\"3\">50</td></tr><tr><td>Jet count</td><td>=8</td><td>=9</td><td>≥10</td><td>=7</td><td>≥8</td><td>≥8</td><td>≥9</td><td>≥10</td></tr><tr><td>b-jet count</td><td>0,1,≥2</td><td>0,1,≥2</td><td></td><td>0,1,≥2</td><td>0,1,≥2</td><td></td><td></td><td></td></tr><tr><td>M[GeV]</td><td colspan=\"5\"></td><td colspan=\"3\">> 340,> 420</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "· The first two leading leptons are SFOS,their transverse momentums are larger than 25GeV and 10GeV respectively, and meanwhile their invariant mass satisfies （20 $8 1 G e V < m _ { l l } < 1 0 1 G e V$ ：   \n·More than one jets have $P _ { T } > 3 5 G e V$ and $| \\eta | < 2 . 5$ （204号 $E _ { T } ^ { m i s s } > 2 2 5 G e V$ and $H _ { T } > 6 0 0 \\mathrm { G e V }$ ，where $H _ { T }$ is defined as the scalar sum of the transverse momenta for all signal jets and the two leading leptons.   \n· The azimuthal opening angle between each of the leading two jets and $E _ { T } ^ { m i s s }$ should be larger than 0.4, i.e. $\\Delta \\phi ( j e t _ { 1 , 2 } , E _ { T } ^ { m i s s } ) > 0 . 4$ ． ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 ATLAS search for > 6 $j e t s + E _ { T } ^ { m i s s }$ signal",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To search for final states with large jet multiplicities and $E _ { T } ^ { m i s s }$ ， ATLAS used two independent streams, i.e. multi-jet $^ +$ flavor stream and multi-jets $+ M _ { J } ^ { \\sum }$ stream, in its anlaysis [19]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the multi-jet $^ +$ flavour stream,the number of jets with $| \\eta | < 2$ and $p _ { T }$ above a threshold (50GeV or 80GeV） is firstly determined for a given event. Then events are categorized by the number of jets,and further subdivided by the number of jets that are （20 $b$ -tagged. After such treatments, totally thirteen signal regions are defined, which are given in Table.1. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the multi- $\\mathrm { j e t } + M _ { J } ^ { \\sum }$ stream seems more complicated. As the first step, the number of ( $R = 0 . 4$ ） jets with $| \\eta | < 2 . 8$ and $p _ { T }$ above 50 GeV is determined for a given event,and like the former stream,events are classified by their jet numbers. As the second step,the four-momenta of the $R = 0 . 4$ jets are used as inputs for a second iteration of the anti- $k _ { t }$ jet algorithm [21],which now adopts a larger jet radius parameter, $R = 1 . 0$ ： The resulting larger objects are called as composite jets. Then a selection variable $M _ { J } ^ { \\sum }$ is defined by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { J } ^ { \\sum } \\equiv \\sum _ { j } m _ { j } ^ { R = 1 . 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where the sum is over the mass of the composite jets,and two signal regions are defined by the threshold of $M _ { J } ^ { \\sum }$ (340GeV or 420GeV). In this stream, there are totally six signal regions (see Table.1). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We mention by the way that both the streams veto events containing any isolated electron or muon candidates with $P _ { T } > 1 0 G e V$ at the start of the analysis,and require $E _ { T } ^ { m i s s } / \\sqrt { H _ { T } } > 4 G e V ^ { 1 / 2 }$ at the end of the cut flows, where $H _ { T }$ is the scalar sum of the transverse momenta of all jets with $P _ { T } > 4 0 G e V$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 ATLAS search for $2 \\sim 6 \\ j e t s + E _ { T } ^ { m i s s }$ signal ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The search for events with $2 \\sim 6 \\ j e t s + E _ { T } ^ { m i s s }$ at 8-TeV LHC with a total integrated luminosity of $2 0 . 3 f b ^ { - 1 }$ has been carried out in [17] and also in [18]. Compared with the preliminary search described in [17],the updated search in [18] defined more signal regions to optimize the search. For example, it has been shown that the signal regions $2 j W$ and $4 j W$ are able to improve greatly the sensitivity of the ATLAS search to models predicting the cascade $\\tilde { g } \\to q \\bar { q } ^ { \\prime } \\tilde { \\chi } _ { 1 } ^ { \\pm } \\to q \\bar { q } ^ { \\prime } W \\tilde { \\chi } _ { 1 } ^ { 0 }$ . The main cuts of this search are: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（204号 $E _ { T } ^ { m i s s } > 1 6 0 \\mathrm { G e V }$ ，   \n· $P _ { T } ( j _ { 1 } ) > 1 3 0 G e V$ for the leading jet,and $P _ { T } ( j ) > 6 0 G e V$ for the other jets. An exception is the signal region $4 j W$ where $P _ { T } ( j ) > 4 0 G e V$ is required.   \n· The azimuthal angles between jets and the $E _ { T } ^ { m i s s }$ satisfy $\\delta \\phi ( j e t _ { 1 , 2 , ( 3 ) } , E _ { T } ^ { m i s s } ) _ { m i n } > 0 . 4$ and $\\delta \\phi ( j e t _ { i > 3 } , E _ { T } ^ { m i s s } ) _ { m i n } > 0 . 2$ ．   \n· A variety of signal regions is then defined by the number of jets, the values of （20 $E _ { T } ^ { m i s s } / \\sqrt { H _ { T } }$ ， $E _ { T } ^ { m i s s } / m _ { e f f } ( N _ { j } )$ and $m _ { e f f } ( i n c l )$ .Here $H _ { T }$ ， $m _ { e f f } ( N _ { j } )$ and $m _ { e f f } ( i n c l . )$ （20 are defined as the scalar sum of the transverse momenta for all $P _ { T } > 4 0 G e V$ jets,the leading $N _ { j }$ jets and $E _ { T } ^ { m i s s }$ , and all jets with $P _ { T } > 4 0 \\mathrm { G e V }$ and $E _ { T } ^ { m i s s }$ respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In practice,we also consider the search in [17]. This search has been implemented in the CheckMATE by the package authors, and we have verified its correctness. Since this search is significantly weaker than that of [18] in constraining SUSY parameter space, we do not list its cuts here. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4 CMS search for leptonic- $Z + j e t s + E _ { T } ^ { m i s s }$ signal ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In [20], the CMS collaboration carried out a dedicated on-Z counting experiment to search for leptonic- $Z + j e t s + E _ { T } ^ { m i s s }$ signal. This signal is same as that of the ATLAS search in [2],but different from the ATLAS result, the CMS collaboration saw no excess. Since the two signals have same physical origin in our scenario, they should be correlated. So in our work,we consider the CMS search as a possible constraint on our interpretation of the excess. The main strategies of the CMS search are given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "· There exists at least one SFOS dilepton pair (electron or muon pair） with $P _ { T } >$ （204 $2 0 G e V$ and $| \\eta | < 2 . 4$ for each lepton，and the invariant mass of the lepton pairsatisfies $8 1 < m _ { l l } < 1 0 1 G e V$ ：",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/db95cc2d0d8be32497deacdb5cc435438e5382766c059d73edec6901eb53e05f.jpg",
+        "table_caption": [
+            "Table 2: Six bins of the CMS dedicated counting experiment for events with an on-shell Z boson [20]. For each bin, the 95% CL upper limits on the number of signal events, $S _ { o b s } ^ { 9 5 }$ are also presented. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Njets</td><td colspan=\"3\">≥2</td><td colspan=\"3\">≥3</td></tr><tr><td>100-200</td><td>200-300</td><td>>300</td><td>100-200</td><td>200-300</td><td>>300</td></tr><tr><td>Emiss[GeV] Ndata</td><td>1187</td><td>65</td><td>7</td><td>490</td><td>35</td><td>6</td></tr><tr><td>Nbkg</td><td>1204±106</td><td>74.5±11.3</td><td>12.8±4.3</td><td>478±43</td><td>39.2±6.6</td><td>5.3±2.3</td></tr><tr><td></td><td>207</td><td>20</td><td>7.6</td><td>89</td><td>16.1</td><td>8</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "· Six bins are defined by the value of $E _ { T } ^ { m i s s }$ and the number of jets with $P _ { T } > 4 0 G e V$ and $| \\eta | < 3 . 0$ . Here we present some information of these bins in TABLE 2. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "About the CMS search, we note that, unlike above ATLAS searches, it does not provide the $9 5 \\%$ C.L.upper limits on the number of signal events for each bin,which was denoted as $S _ { o b s } ^ { 9 5 }$ inliterature].Inordertodiscusteconstraintofsuchasearchwcalculate these limits by the asymptotic $C L _ { s }$ prescription [22], and present the corresponding results in TABLE 2. As we will show below, the bins with $N _ { j } \\ \\geq \\ 2 , 3$ and $2 0 0 < E _ { T } ^ { m i s s } < 3 0 0$ usually put the strongest limitation on any explanation of the excess,which is different from previous analysis [4]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Numerical results and discussions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As we introduced in section II, the branching ratio of $\\tilde { g } \\to q \\bar { q } \\tilde { \\chi } _ { 2 } ^ { 0 } \\to q \\bar { q } Z \\tilde { \\chi } _ { 1 } ^ { 0 }$ in our scenario can approach $1 0 0 \\%$ by setting the SUSY parameters other than the masses $m _ { \\tilde { g } }$ ， $m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } }$ and $^ { \\prime } { } ^ { m } \\tilde { \\chi } _ { 1 } ^ { 0 }$ at certain values. In this case, the event number of the gluino pair production with a certain final state is solely determined by the masses, or equivalently by mg,△m1 = mg - mx and $\\Delta m _ { 2 } = m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } } - m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } }$ .In this section, we investigate the constraints of the SUSY searches on the masses. For this end,we define for each experimental search the ratio $R = m a x ( N _ { S , i } / S _ { o b s , i } ^ { 9 5 \\% } )$ where $N _ { S , i }$ is the signal event number for $i$ signal region in the search, $S _ { o b s , i } ^ { 9 5 \\% }$ is its $9 5 \\%$ upper limit,and the $m a x$ is over all signal regions of the search. Obviously, only in the case of $R < 1$ , the corresponding mass spectrum is allowed by the search at $9 5 \\%$ C.L.. We also investigate how well our scenario can explain the leptonic- $Z$ （204号 excess. After considering the statistical uncertainty of the measured event number, we infer from the ATLAS search that the needed signal event number, $N _ { l l }$ ,is $1 8 . 4 \\pm 6 . 3$ (assuming the experimental data obey Poisson Distribution and adding the statistical uncertainty and systemic uncertainty in quadrature)，which corresponds to $1 2 . 1 \\le N _ { l l } \\le 2 4 . 7$ and $5 . 8 \\ \\leq$ $N _ { l l } \\le 3 1$ in explaining the excess at $1 \\sigma$ and $2 \\sigma$ levels respectively. In following discussion, it is convenient to define the normalized leptonic- $Z$ event number as $R _ { l l } = N _ { l l } / 1 8 . 4$ ，then the $1 \\sigma$ and $2 \\sigma$ ranges are restated as $0 . 6 6 < R _ { l l } < 1 . 3 4$ and $0 . 3 2 < R _ { l l } < 1 . 6 8$ respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In Fig.1, we show the dependence of $R \\mathrm { s }$ for different searches on $\\Delta m _ { 1 }$ ， $\\Delta m _ { 2 }$ and $m _ { \\tilde { g } }$ respectively by fixing $m _ { \\tilde { q } } = 4 . 5$ TeV.From this figure, one can learn at least five facts. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0319b347fbe5f272a75e06e951235d65e46ae43561e39deaef27bac947ae5da1.jpg",
+        "img_caption": [
+            "Figure 1: The dependence of $R \\mathrm { s }$ for different searches on $\\Delta m _ { 1 }$ ， $\\Delta m _ { 2 }$ and $m _ { \\tilde { g } }$ .Here $\\Delta m _ { 1 } = m _ { \\tilde { g } } - m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } }$ denotes the mass splitting between $\\tilde { g }$ and $\\tilde { \\chi } _ { 2 } ^ { 0 }$ and $\\Delta m _ { 2 } = m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } } - m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } }$ is that between $\\tilde { \\chi } _ { 2 } ^ { 0 }$ and $\\tilde { \\chi } _ { 1 } ^ { 0 }$ . For the ATLAS leptonic- $Z$ analysis, $R$ is the normalized lepton pair event number, $R = N _ { l l } / 1 8 . 4$ with 18.4 representing the central value of the excess, while for any of the other searches, $R = m a x ( N _ { S , i } / S _ { o b s , i } ^ { 9 5 \\% } )$ where $N _ { S , i }$ is the event number for $i$ signal region in the search, $S _ { o b s , i } ^ { 9 5 \\% }$ is its $9 5 \\%$ upper limit, and the $m a x$ is over all signal regions in the search.In the latter case, $R < 1$ means that the parameter point is allowed by the corresponding search at 95% C.L.. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1. The left and middle panels indicate that, as the SUSY spectrum becomes compressed, the value of $R$ for each search decreases monotonously. This reflects that a smaller mass splitting is able to suppress the cut efficiency in the search so that fewer SUSY signal events are finally retained. Consequently, this case is apt to escape the constraints from the direct search for SUSY at the LHC, but meanwhile, the ATLAS leptonic- $Z$ events are suppressed too. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2. Motivated by above observation， we consider a rather compressed spectrum in the right panel, and study the dependence of $R$ on $m _ { \\tilde { g } }$ ．The panel indicates that $R \\mathrm { s }$ （20 decrease monotonously as the gluino becomes heavy. This is because the suppression of the gluino pair production rate with the increase of $m _ { \\tilde { g } }$ usually dominates over the enhancement of the cut efficiency in getting the signal events of the search,and the net result is the dropping of the signal events. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3. All the three panels indicate that,in the case of a very compressed spectrum, the CMS search for the leptonic- $Z + j e t s + E _ { T } ^ { m i s s }$ signal puts the severest constraint on SUSY among the searches. Especially, as the gluino becomes light, the signal event number in the CMS search grew much faster than those of the other searches. As a result, the CMS search may be used to set a lower bound on $m _ { \\tilde { g } }$ in our scenario. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4. In general, the ATLAS preliminary search for $2 \\sim 6 \\ j e t s + E _ { T } ^ { m \\imath s s }$ signal and that for （204号 $> 6 \\ j e t s + E _ { T } ^ { m i s s }$ signal are comparable in constraining the parameter space of our scenario,and the both constraints are weaker than that from the ATLAS updated search for $2 \\sim 6 \\ j e t s + E _ { T } ^ { m \\ i s s }$ signal.   \n5. Since the values of $R \\mathrm { s }$ for the experimental searches have different behaviors with the variation of the mass spectrum, it is better to scan the masses in studying the capability of our scenario to explain the excess. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In Fig.2, we show the constant contours of the event number for the ATLAS search for the leptonic- $Z + j e t s + M _ { T } ^ { M i s s }$ signal on the $\\Delta m _ { 1 } - \\Delta m _ { 2 }$ plane for different gluino masses. Regions between line 12.1 and line 24.7 and those between line 5.8 and line 31 are able to explain the excess at $1 \\sigma$ and $2 \\sigma$ levels respectively. Constraints from the other SUSY searches are also plotted by diferent types of lines with the left side of the lines being experimentally allowed. Solid line,dashed line and dotted line represent the constraints from the ATLAS searches for > $6 ~ j e t s + E _ { T } ^ { m i s s }$ ， $2 \\sim 6 \\ j e t s + E _ { T } ^ { m \\ i s s }$ (updated) and $2 \\sim 6$ $j e t s + E _ { T } ^ { m i s s }$ (preliminary） respectively, and they are obtained by fixing the corresponding $R$ value at 1. The CMS constraint is plotted in a similar way, but by dash-dotted lines. In getting this figure,we scan the parameters $\\Delta m _ { 1 }$ and $\\Delta m _ { 2 }$ with a grid of 30GeV for $\\Delta m _ { 1 }$ and 10GeV for $\\Delta m _ { 2 }$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From Fig.2, one can learn following facts: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "· With the decrease of the gluino mass, only a more compressed spectrum can survive the constraints from the LHC searches for SUSY. Among the constraints, the CMS   \nsearch for the letponic- $Z + j e t s + E _ { T } ^ { m i s s }$ becomes the most stringent constraint for （20 $m _ { \\tilde { g } } \\lesssim 8 0 0 \\mathrm { G e V }$ . Especially, in the case of $m _ { \\tilde { g } } = 7 0 0 \\mathrm { G e V }$ , only a very small corner on the $\\Delta m _ { 1 } - \\Delta m _ { 2 }$ plane survives the constraint.   \n· If one does not consider the CMS constraint, our scenario can explain well the ATLAS leptonic-Z excess without conflicting with the ATLAS searches for $j e t s + E _ { T } ^ { m \\imath s s }$ . The central value of the excess (18.4 events) may be achieved for $m _ { \\tilde { g } } \\lesssim 7 0 0 \\mathrm { G e V }$ ， and one of the best benchmark points is $m _ { \\tilde { g } } = 6 5 0 \\mathrm { G e V }$ ， $m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } } = 5 6 5 \\mathrm { G e V }$ and $m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } = 4 6 5 \\mathrm { G e V }$ ： While if one take the CMS constraint serious,we find that the leptonic- $Z$ events in the ATLAS experiment is at most 11. This tension arises since the CMS signal and the ATLAS excess have same physical origin. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/d27fefdf771cb068f729cefba07f93cbad4c5dca966f8dd556c041ae041c3a30.jpg",
+        "img_caption": [
+            "Figure 2: Constant contours of the event number for the ATLAS search for the leptonic（20 $Z + j e t s + M _ { T } ^ { M i s s }$ signal on the $\\Delta m _ { 1 } - \\Delta m _ { 2 }$ plane for different gluino masses. Regions between line 12.1 and line 24.7 and those between line 5.8 and line 3l are able to explain the excess at $1 \\sigma$ and $2 \\sigma$ levels respectively. Constraints from the other SUSY searches are also plotted by different types of lines with the left side of the lines being experimental allowed. For the case of $m _ { \\tilde { g } } \\lesssim 6 5 0 \\mathrm { G e V }$ , there are no regions surviving the constraint from the CMS search for the leptonic- $Z$ signal. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusion ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Recently the ATLAS collaboration reported a $3 \\sigma$ excess in the leptonic- $Z + j e t s + E _ { T } ^ { m i s s }$ channel. In this work,we intend to explain the excess by the gluino pair production process in the NMSSM. For this purpose, we implemented this experimental analysis (and also some other useful experimental analyses) in the package CheckMATE,and verified the reliability of our simulations. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The scenario we considered involves a singlino-like LSP,a bino-like NLSP and an approximate $1 0 0 \\%$ branching ratio for the decay chain $\\tilde { g } \\to q \\bar { q } \\tilde { \\chi } _ { 2 } ^ { 0 } \\to q \\bar { q } \\tilde { \\chi } _ { 1 } ^ { 0 }$ . In this case, the SUSY signal rates after cuts are essentially determined by the masses $m _ { \\tilde { g } }$ ， $m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } }$ and mxo. We scanned these masses by considering the constraints from the ATLAS searches for $j e t s + E _ { T } ^ { m \\ i s s }$ signal,thenweoctratedotc $Z$ signali the experimentally allowed parameter space. We concluded that our scenario is able to explain the excess at $1 \\sigma$ level with the number of the signal events reaching its experimental measured central value in optimal cases,and the best explanation comes from a compressed spectrum such as $m _ { \\tilde { g } } \\simeq 6 5 0 \\mathrm { G e V }$ ， $m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } } \\simeq 5 6 5 \\mathrm { G e V }$ and $m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } \\simeq 4 6 5 \\mathrm { G e V }$ . We also tested the consistency of the ATLAS result with the CMS result in the same channel, which observed no excess on the leptonic- $Z$ production. We found that under the CMS limits at 95% C.L., the number of the ATLAS signal events can still reach 11 in our scenario, which is about $1 . 2 \\sigma$ away from the measured central value. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We emphasize that, although we employ a specific scenario in our work to explain the ATLAS excess,our conclusions seem to be general. That is, the NMSSM is able to explain quite well the excess if only the constraints from the ATLAS searches for SUSY are considered. While on the other hand,if one considers the CMS search limits, there is a mild tension between the ATLAS excess and the CMS result. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Note added: At the final stage of this work, there appeared a paper by Ulrich Ellwanger [4],which considered a similar scenario to ours. Anyhow,our work differs from his work mainly in following three aspects: ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "· In his paper, only two benchmark points were discussed, while we perform a scan over the relevant parameter space. Our calculation by cluster is very time-consuming. · We considered more constraints than in his paper, where only the ATLAS preliminary search for $2 \\sim 6 j e t s + E _ { T } ^ { m \\imath s s }$ was considered. Especially, the benchmark point P2 in his paper was considered as an optimal point to explain the excess,while in our work, we got $R = 1 . 1 9$ for the updated ATLAS search for $2 \\sim 6 j e t s + E _ { T } ^ { m \\imath s s }$ (with （204 $m _ { \\tilde { q } } ~ = ~ 4 . 5 T e V$ ). Considering that we have about 20% uncertainty in simulating thesearch,we infer that the point is at the boundary of being excluded. · When we consider the CMS analysis,we found that the most stringent constraint comes from the bins of $N _ { j e t s } \\gtrsim 2 , 3$ and $2 0 0 \\mathrm { G e V } < E _ { T } ^ { m i s s } < 3 0 0 \\mathrm { G e V }$ for most cases, instead of the bin $N _ { j e t s } \\gtrsim 2$ and $E _ { T } ^ { m i s s } > 3 0 0 \\mathrm { G e V }$ adopted in [4]. This is because we are considering a compressed spectrum, where the $E _ { T } ^ { m i s s }$ of the signal is usually small. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We thank the authors of the CheckMATE, especially Jamie Tattersall, for useful discussions about the package. This work was supported by the National Natural Science Foundation of China （NNSFC） under grant No． 10821504,11222548,11121064,11135003, 90103013 and 11275245,and by the CAS Center for Excellence in Particle Physics (CCEPP). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "A Validation of Monte Carlo simulations ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this appendix, we show the validations of our simulations on the ATLAS searches for the leptonic- $Z + j e t s + E _ { T } ^ { m i s s }$ signal [2] and the $2 \\sim 6$ jets $+ ~ E _ { T } ^ { m i s s }$ signal [18]. For each search，we choose two benchmark points adopted by the ATLAS report， and repeat the experimental analysis. Our simulation results are presented in Table 3 and Table 4 respectively,and all of them indicate that our simulation agrees with the corresponding ATLAS analysis within 2O% uncertainty. We also validated our simulation on the CMS search for the leptonic- $Z + j e t s + E _ { T } ^ { m \\imath s s }$ signal[20]withthecospondingresultsiveninTable5. This table indicates that we can reproduce the CMS results within $1 0 \\%$ uncertainty. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Since the ATLAS preliminary search for $2 \\sim 6 ~ \\mathrm { j e t s } + E _ { T } ^ { m \\imath s s }$ signal [17] and the search for the $> 6 \\ \\mathrm { j e t s } + E _ { T } ^ { m i s s }$ signal [19] do not affect our conclusions, we do not present their validation here. In fact， we checked that we can reproduce these searches within 15% uncertainties. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1] G. Aad et al. [ATLAS Collaboration], Phys.Lett.B 716,1 (2012) [arXiv:1207.7214 [hep-ex]]; S. Chatrchyan et al.[CMS Collaboration], Phys.Lett.B 716,30 (2012) [arXiv:1207.7235 [hep-ex]].   \n[2] G. Aad et al. [ATLAS Collaboration], arXiv:1503.03290 [hep-ex].   \n[3] G. Barenboim, J. Bernabeu, V. A. Mitsou, E. Romero, E. Torro and O. Vives, arXiv:1503.04184 [hep-ph].   \n[4] U. Ellwanger, arXiv:1504.02244 [hep-ph].   \n[5] B. Allanach,A. Raklev and A. Kvellestad, arXiv:1504.02752 [hep-ph].   \n[6] A.Kobakhidze,A. Saavedra,L. Wu and J. M. Yang,arXiv:1504.04390 [hep-ph].   \n[7] We note that the letponic- $Z$ excess may also be explained in the context of composite Higgs /RS theories,see for example N. Vignaroli, arXiv:1504.01768 [hep-ph].   \n[8] P. Meade, N. Seiberg and D. Shih, Prog. Theor. Phys. Suppl.177,143(2009) [arXiv:0801.3278 [hep-ph].   \n[9] J. L. Feng, S. Su and F. Takayama, Phys. Rev. D 70, 075019 (2004) [hep-ph/0404231].   \n[10] U. Ellwanger, C. Hugonie and A. M. Teixeira, Phys. Rept. 496,1 (2010) [arXiv:0910.1785 [hep-ph]].   \n11] U. Ellwanger, J. F.Gunion and C. Hugonie, JHEP 0502,066 (2005） [hep-ph/0406215].   \n[12] U.Ellwanger, JHEP 1203,044(2012） [arXiv:1112.3548 [hep-ph].   \n[13] J.Cao et al., JHEP 1203,086 (2012)[arXiv:1202.5821 [hep-ph].   \n[14] S.F. King,M. Muhlleitner and R. Nevzorov, Nucl. Phys. B 860,207(2012) [arXiv:1201.2671 [hep-ph]].   \n[15] J. F. Gunion, Y. Jiang and S. Kraml, Phys. Lett. B 710, 454 (2012) [arXiv:1201.0982 [hep-ph]].   \n[16] J. Cao et al., JHEP 1405, 056 (2014) [arXiv:1311.0678 [hep-ph].   \n[17] The ATLAS collaboration, ATLAS-CONF-2013-047, ATLAS-COM-CONF-2013-049.   \n[18] G.Aad et al.[ATLAS Collaboration], JHEP 1409,176 (2014) [arXiv:1405.7875 [hep-ex].   \n[19] G.Aad et al.[ATLAS Collaboration], JHEP 1310,130 (2013) [arXiv:1308.1841 [hep-ex].   \n[20] V. Khachatryan et al. [CMS Collaboration],arXiv:1502.06031 [hep-ex].   \n[21] M. Cacciari, G. P. Salam and G. Soyez, JHEP 0804,063 (2008) [arXiv:0802.1189 [hep-ph].   \n[22] A. L. Read, J. Phys.G 28, 2693 (2002).   \n[23] M. Drees et al., Comput.Phys. Commun. 187, 227 (2014) [arXiv:1312.2591 [hep-ph]. J. S.Kim, D. Schmeier, J. Tattersall and K. Rolbiecki, arXiv:1503.01123 [hep-ph].   \n[24] J. de Favereau et al. [DELPHES 3 Collaboration], JHEP 1402,057 (2014) [arXiv:1307.6346 [hep-ex]].   \n[25] J. Alwall et al., JHEP 1106,128 (2011) [arXiv:1106.0522 [hep-ph]].   \n[26] T. Sjostrand, S. Mrenna and P. Z. Skands, JHEP 0605, 026 (2006) [hep-ph/0603175].   \n[27]W.Beenakker,R.Hopker and M. Spira,hep-ph/9611232. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/17eb7a2dd2bcbcb028e27b433ddcb5df3d68a235ebef17a1427b39428955fda7.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "武"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"6\">mg = 900GeV，μ= 600GeV</td><td colspan=\"6\">mg= 1000GeV,μ= 700GeV</td></tr><tr><td></td><td colspan=\"2\">EXP</td><td colspan=\"2\">OUR</td><td colspan=\"2\">DIFF</td><td colspan=\"2\">EXP</td><td colspan=\"2\">OUR</td><td colspan=\"2\">DIFF</td></tr><tr><td>No cuts</td><td colspan=\"2\">189</td><td colspan=\"2\">189</td><td colspan=\"2\"></td><td colspan=\"2\">71.8</td><td colspan=\"2\">71.8</td><td colspan=\"2\"></td></tr><tr><td>At least 2 leptons</td><td colspan=\"2\">88.8</td><td colspan=\"2\">73.41</td><td colspan=\"2\">-17%</td><td colspan=\"3\">33.8 26.7</td><td colspan=\"2\">-21%</td></tr><tr><td></td><td></td><td>ee</td><td></td><td></td><td></td><td></td><td></td><td>ee</td><td></td><td></td><td></td></tr><tr><td></td><td>EXP</td><td>OUR</td><td>DIFF</td><td>EXP</td><td>OUR</td><td>DIFF</td><td>EXP</td><td>OUR</td><td>DIFF</td><td>EXP</td><td>OUR</td><td>DIFF</td></tr><tr><td>Lepton flavour</td><td>36.1</td><td>30.77</td><td>-15%</td><td>25.7</td><td>28.5</td><td>11%</td><td>14.3</td><td>11.48</td><td>-20%</td><td>9.3</td><td>10.04</td><td>8%</td></tr><tr><td>PromptLeptons</td><td>35.3</td><td>30.73</td><td>-13%</td><td>25.6</td><td>28.43</td><td>11%</td><td>14</td><td>11.47</td><td>-18%</td><td>9.3</td><td>10.04</td><td>8%</td></tr><tr><td>Opposite charged leptons</td><td>33.6</td><td>30.05</td><td>-11%</td><td>24.2</td><td>28.01</td><td>16%</td><td>13.3</td><td>11.27</td><td>-15%</td><td>8.8</td><td>9.94</td><td>13%</td></tr><tr><td>>1jet</td><td>32.2</td><td>27.75</td><td>-14%</td><td>23.1</td><td>25.97</td><td>12%</td><td>12.8</td><td>10.48</td><td>-18%</td><td>8.4</td><td>9.07</td><td>8%</td></tr><tr><td>mu>15</td><td>30.0</td><td>27.69</td><td>-8%</td><td>23.0</td><td>25.93</td><td>13%</td><td>12.0</td><td>10.48</td><td>-13%</td><td>8.3</td><td>9.04</td><td>9%</td></tr><tr><td>△(ji,Emiss)>0.4</td><td>28.3</td><td>25.91</td><td>-8%</td><td>21.9</td><td>24.48</td><td>12%</td><td>11.3</td><td>9.84</td><td>-13%</td><td>8.0</td><td>8.47</td><td>6%</td></tr><tr><td>△（j2,Emiss) > 0.4</td><td>25.7</td><td>23.27</td><td>-9%</td><td>19.9</td><td>22.13</td><td>11%</td><td>10.3</td><td>8.82</td><td>-14%</td><td>7.2</td><td>7.66</td><td>6%</td></tr><tr><td>81GeV<mu<101GeV</td><td>22.1</td><td>21.38</td><td>-3%</td><td>16.6</td><td>18.77</td><td>13%</td><td>8.8</td><td>8.1</td><td>-8%</td><td>5.9</td><td>6.38</td><td>8%</td></tr><tr><td>Hr >600GeV</td><td>20.5</td><td>18.01</td><td>-12%</td><td>15.1</td><td>15.54</td><td>3%</td><td>8.4</td><td>6.94</td><td>-17%</td><td>5.6</td><td>5.52</td><td>-1%</td></tr><tr><td>Emiss >225GeV</td><td>15.0</td><td>13.74</td><td>-8%</td><td>11.1</td><td>11.47</td><td>3%</td><td>6.7</td><td>5.44</td><td>-19%</td><td>4.4</td><td>4.28</td><td>-3%</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Table 4: Validation table of our implement of the ATLAS search for the $2 \\sim 6$ jets $^ +$ （20 $E _ { T } ^ { m i s s }$ signal [18] in CheckMATE. We considered the process $p p  \\tilde { g } \\tilde { g }  \\tilde { \\chi } _ { 1 } ^ { \\pm } \\tilde { \\chi } _ { 1 } ^ { \\pm } j j j j $ （204号 （204号 $\\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 1 } ^ { 0 } W ^ { \\pm } W ^ { \\pm } j j j j$ at 8-TeV LHC in the MSSM with two benchmark points taken from [18]. Numbers in the columns EXP and OUR are the cut efficiencies in $2 j W$ or $6 j t$ signal region obtained by the ATLAS collaboration and us respectively,and those in the column DIFF represent their relative difference. ",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/2e6316a7537232a15e18b26338e23801bc6c7f92907dd8f49fe9064c0e3c1c23.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">g g one step,mg = 1200GeV,mx± = 1150GeV,mxo = 60GeV</td></tr><tr><td>SR:2jW</td><td>EXP</td><td>OUR</td><td>DIFF</td></tr><tr><td>Emiss > 160GeV, Pr(j1,2) > 130(60)GeV</td><td>52.70</td><td>56.35</td><td>-7%</td></tr><tr><td>△Φ(j1,2,3, Emiss) > 0.4</td><td>46.30</td><td>49.01</td><td>-6%</td></tr><tr><td>N(W) unresolved ≥ 2</td><td>9.20</td><td>8.70</td><td>5%</td></tr><tr><td>Emiss/meff(Nj) > 0.25</td><td>7.00</td><td>6.69</td><td>4%</td></tr><tr><td>meff(incl.)>1800GeV</td><td>5.30</td><td>4.86</td><td>8%</td></tr><tr><td colspan=\"4\">g g one step, mg = 1265GeV,mx± = 945GeV, mx = 625GeV</td></tr><tr><td>SR:6jt</td><td>EXP</td><td>OUR</td><td>DIFF</td></tr><tr><td>Emiss > 160GeV， Pr(j1, j2) > 130(60)GeV</td><td>53.30</td><td>54.16</td><td>-2%</td></tr><tr><td>Pr(j3)>60GeV</td><td>53.00</td><td>53.83</td><td>-2%</td></tr><tr><td>Pr(j4) >60GeV</td><td>50.50</td><td>51.50</td><td>-2%</td></tr><tr><td>Pr(j5)> 60GeV</td><td>41.40</td><td>43.49</td><td>-5%</td></tr><tr><td>Pr(j6)>60GeV</td><td>26.70</td><td>29.78</td><td>-12%</td></tr><tr><td>△(j1,2,3,Emiss) > 0.4</td><td>22.40</td><td>25.38</td><td>-13%</td></tr><tr><td>△(ji>3,Emiss) > 0.2</td><td>18.20</td><td>20.54</td><td>-13%</td></tr><tr><td>Emiss/meff(Nj) > 0.25</td><td>10.90</td><td>11.64</td><td>-7%</td></tr><tr><td>meff(incl.)>1500GeV</td><td>4.20</td><td>4.81</td><td>-15%</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Table 5: Validation table of our implement of the CMS search for the leptonic- $Z + j e t s +$ $E _ { T } ^ { m i s s }$ signal [20]in CheckMATE.We considered theprocess $p p \\to \\tilde { g } \\tilde { g } \\to \\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 1 } ^ { 0 } j j j j \\to$ （204 $\\tilde { G } \\tilde { G } Z Z j j j j$ at 8-TeV LHC in the GMSB model with the benchmark point taken from [20]. Numbers in the columns EXP and OUR are the event numbers of different bins obtained by the CMS collaboration and us respectively, and those in the column DIFF represent theirrelative difference. ",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/c25ffa8c248495a0747fd5c994d18fea0966b8dfbf34c1d136fda601a437df8c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">EXP</td><td colspan=\"2\">OUR</td><td colspan=\"2\">DIFF</td></tr><tr><td>All events</td><td colspan=\"2\">37.7</td><td colspan=\"2\">37.7</td><td colspan=\"2\">0</td></tr><tr><td>≥2 leptons(𝑙±𝑙+),Pt >20GeV</td><td colspan=\"2\">11.9</td><td colspan=\"2\">11.8</td><td colspan=\"2\">-0.5%</td></tr><tr><td>81<mu<101GeV</td><td colspan=\"2\">10.7</td><td colspan=\"2\">10.4</td><td colspan=\"2\">-2.7%</td></tr><tr><td></td><td colspan=\"3\">njets >2</td><td colspan=\"3\">njets >3</td></tr><tr><td></td><td>EXP</td><td>OUR</td><td>DIFF</td><td>EXP</td><td>OUR</td><td>DIFF</td></tr><tr><td>njets > 2 or 3</td><td>10.7</td><td>10.4</td><td>-2.9%</td><td>10.4</td><td>10.2</td><td>-1.9%</td></tr><tr><td>Emiss >100GeV</td><td>10.3</td><td>10.0</td><td>-3.3%</td><td>10</td><td>9.8</td><td>-2.1%</td></tr><tr><td>Emiss >200GeV</td><td>9.2</td><td>8.8</td><td>-4.1%</td><td>8.9</td><td>8.7</td><td>-2.5%</td></tr><tr><td>Emiss 300GeV</td><td>7.6</td><td>7.2</td><td>-5.4%</td><td>7.4</td><td>7.1</td><td>-4.3%</td></tr><tr><td>100GeV < Emiss < 200GeV</td><td>1.1</td><td>1.1</td><td>3%</td><td>1.1</td><td>1.1</td><td>0.8%</td></tr><tr><td>200GeV < Emiss <300GeV</td><td>1.6</td><td>1.6</td><td>2%</td><td>1.5</td><td>1.6</td><td>6.3%</td></tr></table></body></html>",
+        "page_idx": 17
+    }
+]

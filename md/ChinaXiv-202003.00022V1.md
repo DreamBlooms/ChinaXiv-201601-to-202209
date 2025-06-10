@@ -1,0 +1,88 @@
+# Lysionotus bijantiae is identified as a new synonym of Henckelia oblongifolia (Gesneriaceae)
+
+CAI Lei13, BORAH Dipankar4,DAO Zhiling1, WENFang2.5\* (1. Yunnan Key Laboratory for Integrative Conservation of Plant Species with Extremely SmallPopulations / Key Laboratory forPlantDiversityand BiogeographyofEastAsia,Kunming InstituteofBotany,ChineseAcademyof Sciences,Kunming,6502O1,Yunnan,China; 2.Guangxi KeyLaboratoryof Plant Conservationand Restoration Ecology in Karst Terrain,Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and Chinese Academy of Sciences,Guilin 541006,Guangxi, China;3. University ofChinese Academy of Sciences,Beijing 100049, China; 4.DepartmentofBotany,Rajiv Gandhi University,791112,India; 5.Gesneriad ConservationCentreof China,Guilin Botanical Garden,Guangxi Zhuang Autonomous Region and Chinese Academy of Sciences, Guilin 541006, Guangxi, China)
+
+Abstract: A recently described new species of Gesneriaceae, Lysionotus bijantiae D. Borah & A. Joe,was misidentified; it is conspecific with Henckelia oblongifolia (Roxb.) D.J. Middleton & Mich. Moller [previous Chirita oblongifolia (Roxb.) Sinclair]. We treat Lysionotus bijantiae as a new synonym for Henckelia oblongifolia by examining relevant specimens and literature. At the same time,we also describe the characteristics and distinguishing methods of the two genera Henckelia Spreng. and Lysionotus D. Don.
+
+Keywords: Gesneriaceae,Lysionotus,Henckelia, new synonym
+
+CLC number: Q949 Document code: A
+
+# 苦苣苔科植物Lysionotusbijantiae的名实订正
+
+基金项目：国家科技基础资源调查专项项目(2017FY100100)；第二次青藏高原综合科学考察研究项目(2019QZKK0502)；中国科学院重点部署项目(KFJ-3W-No1)；广西科学院科学研究基金(2017YJ23022) [Sup-ported by the Science & Technology Basic Resources Investigation Program of China (2O17FY100100);the Se-cond Tibetan Plateau Scientific Expedition and Research (STEP) Program (2019QZKK0502); the STS Program ofthe Chinese Academy of Sciences (KFJ-3W-No1); Science Research Foundationof Guangxi Academy of Sciences(2017YJJ23022)]。
+
+作者简介：蔡磊(1986-)，男，安徽毫州人，博士研究生，主要从事植物分类和保护生物学研究，(E-mail)cailei $@$ mail.kib.ac.cn。通信作者:温放，研究员，主要从事苦苣苔科植物研究，(E-mail)wenfang760608 $@$ 139.com 。
+
+蔡磊13,BORAHDipankar4，刀志灵1,温放 2.5\*(1．中国科学院昆明植物研究所云南省极小种群野生植物综合保护重点实验室/东亚植物多样性与生物地理学重点实验室，中国昆明 650201;2.广西壮族自治区中国科学院广西植物研究所，中国广西 桂林541006;3.中国科学院大学，中国北京100049;4.拉吉夫甘地大学植物学系，印度 791112;5.中国苦苣苔科植物保育中心，中国科学院桂林植物园，中国广西 桂林 541006)
+
+摘要：通过查阅相关文献和标本，我们发现近期发表的苦苣苔科吊石苣苔属植物一新种一—Lysionotus bijantiaeD.Borah&A.Joe实为鉴定错误，应是汉克苣苔属的长圆叶汉克苣苔(Henckelia oblongifolia(Roxb.）D.J.Middleton&Mich.Moller）[原长圆叶唇柱苣苔 Chiritaoblongifolia(Roxb.）Sinclair]。因此，我们将Lysionotusbijantiae处理为Henckeliaoblongifolia 的新异名，同时我们也提供了吊石苣苔属和汉克苣苔属的的区分方法和主要识别特征。
+
+关键词：苦苣苔科，吊石苣苔属，汉克苣苔属，新异名
+
+# Introduction
+
+Recently, a new Gesneriaceae species,Lysionotus bijantiae D.Borah & A. Joe from the southern slopes of the Himalayas was described, and only based on morphological characters (Borah & Joe, 2018). The authors pointed out that the new species difers from Lysionotus gamosepalus W.T.Wang in having erect sub-shrub habit, pubescent stem/leaves/peduncles/petioles,lanceolate and villous bracts, hairy calyx,cream corolla, curved filaments,connective not prolonged into an appendage,and cream and pubescent pistil. The description and the color plates are clear. The characters listed in the description make this plant a good new species of Lysionotus D.Don, but that's not the case after other key features are examined more carefully. For example, the authors described as “seeds numerous with hair-like appendages on each end", but did not provide images of seeds for this species in the paper. However, seeds from the mature capsules respectively collected from the type locality in 2O2O and Motuo County, Xizang Autonomous Region, China in 2017 both have no appendages at either end of the seeds,and which indicates the new species does not belong to the genus Lysionotus.In addition, there are three staminodes,and not two as reported in the original description, with a middle staminode significantly smaller than the others on the sides,therefore extremely easy to neglect. The species is also mistakenly identified as Henckelia anachoreta (Hance) D. J. Middleton & Mich. Moler in the taxonomic account from northeast India,although the color plate clearly showed its morphological character (Sinha & Datta,2O16). These characters above mentioned are not in accordance with the new species of Lysionotus but well identical with Henckelia oblongifolia (Roxb.)D.J.Middleton & Mich.Moller (Wang et al., 1990,1998; Weber et al.,2011) (Fig. 1).
+
+The genus Henckelia Spreng. now consists of more than 6O species mainly distributed in southern, southeastern Asia and adjacent areas after the remodeling and summary (Weber et al.,2011; Ranasinghe et al.,2O16). Thirty-three species are known to occur in India (Janeeha & Nampy, 2015; Moller et al.,2017; Borah et al.,2019) and 26 species in China (Moller et al., 2016; Xu et al., 2017; Cai et al., 2019; Wen et al., 2019; Yang et al., 2019). A comparison of relevant images (Fig.1)， specimens (Fig.2） and literature/monographs/local floras confirms that Lysionotus bijantiae is conspecific with Henckelia oblongifolia.
+
+![](images/96040c9b4e41ad1116f085278b6a1b59825812f83bcfb8a42af45193a3f8d81b.jpg)  
+Fig.1Henckeliaoblongifolia
+
+A.Plants with flowers & young fruits; B.Plants with fruits; C.Adaxial leaf surfaces;D.Abaxial leaf surfaces;E. Calyx;F.Corolla mouth; G. Opened coroll showing stamens and staminode; H.Pistil with calyx; I-K.Seeds. Scale bars: A, C & $\mathbf { D } = 5 \mathrm { { c m } }$ $\mathbf { B } = 1 0 ~ \mathrm { c m }$ ${ \bf E } = 5 \mathrm { m m }$ ;F,G& $\mathbf { H } = 1$ cm; I, J & $\mathbf { K } = 1 0 0 \mu \mathrm { m }$
+
+![](images/c2026ca139a1da8d7bebc4f1047a11d31dd14fb839a165e47500f7f0c0463138.jpg)  
+Fig.2.LectotypeofHenckeliaoblongifolia
+
+The picture (BM000092133) was download from JSTOR (http://plants.jstor.org).
+
+# Taxonomic treatment
+
+Henckelia oblongifolia (Roxb.）D.J.Middleton & Mich.Moller,Taxon. 60: 776.2011. Chirita oblongifolia (Roxb.） J.Sinclair, in Bull. Bot. Soc. Bengal. 9:102.1957； Chirita oblongifolia (Roxb.) B.L.Burtt, in Notes. Roy. Bot. Gard. Edinburgh 22: 307. 1958,comb. superfl; Wood,1. c. 33 (1): 174.1974; Wang, in Bull Bot. Res.5(3): 70. 1985. Incarvillea oblongifolia Roxb. Fl. Ind. ed.,2,3: 113.1832. Chirita acuminata Wall. ex R.Br., in Cyrtandreae: 117. 1839, nom. nud.; Chirita acuminata Steud., in Nomencl. Bot.,ed.2,1: 351.1840, nom. nud.
+
+Lysionotus bijantiae D.Borah & A.Joe, Taiwania 63(3): 232, 2018, syn. nov. “Type: INDIA: Arunachal Pradesh.Lower Subansiri District,Potin,2733'88.75" N 93°79'79.64" E,22 Oct. 2017, Dipankar Borah 121989 (holotype CALI; isotypes CALI, ARUN)".
+
+The type information was cited from the paper (Borah & Joe,2O18),the initial longitude in the coordinates obviously inaccurate because of the emergence of $7 9 ^ { \prime }$ ,and the coordinates should be revised to $^ { \mathrm { \ e } } 2 7 ^ { \mathrm { o } } 2 0 ^ { \prime } 1 3 . 0 3 ^ { \prime \prime }$ N, $9 3 ^ { \circ } 4 7 ^ { \prime } 2 4 . 5 1 ^ { \prime \prime } \mathrm { \ K } ^ { \prime \prime }$ after the confirmation. The original record showed that the type specimen was collected from India. However，when the revised coordinates 0 $\mathrm { } ^ { \ast \ast } 2 7 ^ { \circ } 2 0 ^ { \prime } 1 3 . 0 3 ^ { \prime \prime } \mathrm { N }$ ， $9 3 ^ { \circ } 4 7 ^ { \prime } 2 4 . 5 1 ^ { \prime \prime } \mathrm { E } ^ { \flat \prime } $ were marked on the online database of the map (Map World, 2020), the site was located in Cuona County, Xizang Autonomous Region, China. Therefore, we dispute the type locality information in the initial description. Here,we just focus on solving the scientific problem and treating Lysionotus bijantiae as a new synonym of Henckelia oblongifolia.
+
+Lectotype: BANGLADESH. Chitagong, October 1810, Roxburgh 238 (BM!). (Lectotypified by Wood in Notes. Roy. Bot. Gard. Edinburgh. 33: 174.1974).
+
+Phenology: Flowering from August to October; fruiting from September to December.
+
+Distribution: Bangladesh, Bhutan, China (Xizang and Yunnan), northeastern India and northern Myanmar.
+
+Specimens examined: CHINA. Xizang, Motuo County: Bangxin, Lanlong-Yajiang, $1 ~ 1 0 0 ~ \mathrm { m }$ 28 December 1982, B.S. Li & S.Z. Cheng 02324 (PE); Beibeng,750 m,17 August 1974, Qingzangdui 4307 (KUN); Beibeng, Xigong Lake,1 500 m, 10 March 1983, B.S. Li & S.Z. Cheng 02900 (PE); Beibeng-Motuo, $9 6 0 \mathrm { ~ m ~ }$ ,04 August 1974, Qingzangdui 1550 (PE); Damu-103k,1 400 m, 29 October 1982, B.S. Li & S.Z. Cheng 01560 (PE); East of Dexing Bridge, $8 7 0 \mathrm { m }$ ,8 February 1983, B.S. Li & S.Z. Cheng 03554 (PE); Miri-Motuo, $7 5 0 \mathrm { m }$ , 5 September 1974, Qingzangdui 5055 (KUN);
+
+Motuo-Dexing Bridge, $7 3 6 \mathrm { ~ m ~ }$ ，9 October 2017, L. Cai & Z.L. Dao CL009 (KUN)； XianabaDamu,1 900 m, 26 October 1982, B.S. Li & S.Z. Cheng 01364 (PE); Ximeng River, $9 0 0 \mathrm { ~ m ~ }$ 22 August 1980, W.L. Chen 14459 (PE); Yarang River, $9 0 0 \mathrm { m }$ ,10 September, W.L. Chen 15047 (PE). Yunnan: Gongshan County，Dulong River, Dadieshui，1 $3 0 0 ~ \mathrm { ~ m ~ }$ ，18December 1990, Dulongjiangkaochadui 1173 (KUN); Gongshan County, Dulong River, Qinlangdang, $1 3 0 0 \mathrm { m }$ ,10 March 1991, Dulongjiangkaochadui 4464 (KUN); Kiukiang Valley, South of Kongpong, $1 2 0 0 \mathrm { m }$ 26 September 1938,T.T. Yu 20458 (PE,E). BANGLADESH. East Bengal, April 1863, Herbarium of the late East India Company 3829 (P); Kelacili, 8 December 1944,J. Sinclair 3853 (E); Pundua, F. De Silva 8O2 (K). BHUTAN. Near Zimgang, shongar Chu nr Mongar, $1 \ 4 7 5 \ \mathrm { m }$ 15 June 1979,A.J.C. Grierson & D.G. Long 1964 (E). INDIA.Assam, Dehho,700 ft. (ca. 213 m), 29 March 1895,11044 (P); Assam, Haflong,2 500 m, August 1908, William G Craib 192 (E); Assam, Master (P); Niwoa to wawa,1 441 m,2 September 1958, G. Panigrahi 15046 (E); 5 000 ft. (ca. 1 $5 2 4 ~ \mathrm { m }$ ),1 September 1892,Dr King (E,P); Pynursla, 25 November 1956, G. Panigrahi 4633 (E); Pynursla,Khasi, Hills,4 000 ft. (ca.1 219 m), 23 August 1949,T.R. Chand 2059 (E); Lower Subansiri District, Potin,1 Nov. 2017,D. Borah 121990 (CALI); Lower Subansiri District, Potin, 21 Jan. 2020, D. Borah 5067 (HAU 2029). MYANMAR. Kachin State: Ndum-Zup to Hpuginhku, 6000-6500 ft. (ca.1 830-1 980 m),30 December 1961,J. Keenan, U Tun Aung & Tha Hla 3092 (E); Namnca to Nammuca,1 Ooo ft. (ca. $3 0 5 \mathrm { ~ m ~ }$ )，1910,J.H.Lace 5187 (E); Sorrounds of Hpuginhku 5 000 ft. (ca.1 524 m), February 1962, J. Keenan, U Tun Aung & Tha Hla 3691 (E); Upper Burma: Nwai Valley， 9 September 1914, F. Kingdon-Ward 1931 (E); Upper Chinawin: Kodan Channg near Yeson Camp, 8Oo ft. (ca. $2 4 4 ~ \mathrm { m }$ ), 26 November 1917,C. Gilbert Rongers 1023 (E); Valley of the Nam Tamai, 3 September 1937,F. Kingdon-Ward 13122 (E). Country of origin: not specified: P03884206 (P)； P03884207 (P)； P03884209 (P)； P03884210 (P); P03884213 (P); P038842134 (P).
+
+# Notes
+
+In the traditional classfication of Chinese Gesneriaceae, the genus Lysionotus was deposited into Trib.Trichosporeae Fritsch, Subfam. Cyrtandroideae Burnett based on the understanding that seeds of all species of Lysionotus have appendages at each end of the spindly seed. In Henckelia, there are no appendages on the apexes of the seed (Wang et al.,1990,1998; Li & Wang, 2005).
+
+The scanned seed morphology of this species shows that it should not belong to Lysionotus because it lacks appendages at each end of the seed. The species,Lysionotus bijantiae, cannot be distinguished from other many collcted specimens of Henckelia oblongifolia from Bangladesh, Bhutan, China, India and Myanmar, which are stored in BM, CALI, HAU, KUN,PE,E and P. Lysionotus was once divided into three sections, Sect. Didymocarpoides W.T. Wang， Sect. Lysionotus and Sect. Cyathjocalyx W.T. Wang (Wang,1983). The vast majority of Lysionotus species share a special character: leaves usually many, along stem, whorled by three ones. Although the description of three species in Sect. Didymocarpoides (Lysionotus longipedunculatus (W.T. Wang)W.T. Wang, L. oblongifolius W.T. Wang and L. denticulosus W.T. Wang) show their leaves are opposite,but their leaves are usually whorled after carefully observation for specimens and living plants in the field (Li & Wang,2OO5). There are a few species, L. wilsonii Rehd.,L. sulphureus Hand.-Mazz., L. kwangsiensis W.T. Wang in Sect. Lysionotus and only one specie, $L .$ chingii Chun ex W.T. Wang, in Sect. Cyathjocalyx having opposite leaves (Wang,1975a,1975b). Furthermore, the key characters to distinguish Sect. Didymocarpoides from other two sections are as below: erect subshrub, no phellem on stem, chartaceous leaf blades,smaler flowers,calyx 5- sect from base,shorter subulate appendages ( $0 . 1 \mathrm { - } 0 . 2 5 ~ \mathrm { m m }$ long) on the apexes of the seed. So, although Lysionotus bijantiae looks like a member of Sect. Didymocarpoides in appearance, it is entirely different from Lysionotus because of the lack of appendages at each end of the seed.
+
+Acknowledgements: We are grateful to Mr. Lian-Yi Li for scanning the seeds of this species,and we thank Momang Taram and Rubu Rinyo for their help in the field. Sincere thanks are given to Michael Moller,the Royal Botanic Garden Edinburgh, Stephen Maciejewski, the Gesneriad Society and Michael Lo-Furno,Temple University for their assistance on species identification, editing and providing valuable suggestions.
+
+# References:
+
+BORAH D, JOE A,2018. A new species of Lysionotus (Gesneriaceae) from Notheastern India[J]. Taiwania, 63(3): 232-234. BORAH D, TARAM M, JOE A, et al., 2019. Henckelia collegii-sancti-thomasi: A new species of
+
+Henckelia (Gesneriaceae) from Northeastern India [J]. Phytotaxa, 415(4): 247-251.
+
+CAI L,LIU DT, ZHANG P, et al., 2019. Two new species of Henckelia (Gesneriaceae） from southeastern Yunnan, China [J].PhytoKeys,130: 151-160.
+
+JANEEHA AP, NAMPY S, 2015. Henckelia brateata, a new species of Gesneriaceae from S Western Ghats， India and lectotypification ofDidymocarpushumboldtianus(H. humboldtiana) [J]. Willdenowia, 45(1): 53-59.   
+LI ZY, WANG YZ, 2O05. Plants of Gesneriaceae in China[M]. Zhengzhou: Henan Science & Technology Publishing House:1-721.[李振宇,王印政,2005.中国苦苣苔科植物[M].郑 州:河南科学技术出版社:1-721.]   
+MAP WORLD, 2020. National Platform for Common Geospatial Information Services (China)[DB/OL]. Available from: http://www.tianditu.gov.cn.[天地图,2020.国家地理信息公 共服务平台[DB/OL].在线网址: http://www.tianditu.gov.cn]   
+MOLLER M, NAMPY S, JANEESHA AP, et al., 2017. The Gesneriaceae of India: Consequences of updated generic concepts and new family classification [J]. Rheedea, 27(1): 23-41.   
+MOLLER M, WEI YG, WEN F, et al., 2016. You win some you lose some: Updated generic delineations and classification of Gesneriaceae-implications for the family in China[J]. Guihaia,36(1):44-60.[MOLLER M,韦毅刚,温放,等,2016.得与失:苦苣苔科新的属级 界定与分类系统——中国该科植物之变迁(英文)[J].广西植物,36(1):44-60.]   
+RANASINGHE S, MILNE R, JAYASEKARA R, et al., 2O16. Henckelia wijesundarae, a new endemic species from Sri Lanka, and lectotypification of Chirita walkerae and C. walkerae var. parviflora [J]. Willdenowia, 46(2): 213-224.   
+SINHA BK, DATTA S, 2016. Taxonomic account on the family Gesneriaceae in Northeast India [J]. Nelumbo, 58:1-43.   
+WANG WT, 1975a. Notulae de Gesneriaceis Sinensibus[J]. Acta Phytotaxon Sin,2: 62-70.[王文 采,1975.中国苦苣苔科的研究[J].植物分类学报,2:62-70.]   
+WANG WT, 1975b. Notulae de Gesneriaceis Sinensibus (Continued) [J]. Acta Phytotaxon Sin, 3: 97-105.[王文采,1975.中国苦苣苔科植物的研究(续)[J].植物分类学报,3:97-105.]   
+WANG WT, 1983. Revisio Lysionoti Sinici (Gesneriaceae)[J]. Guihaia,3(4): 249-284.[王文采, 1983.中国吊石苣苔属校订[J].广西植物,3(4):249-284.]   
+WANG WT, PAN KY, LI ZY, 1990. Gesneriaceae [M]// WANG WT. Flora Reipublicae Popularis Sinicae.Beijing:Science Press,69:398.[王文采,潘开玉,李振宇,1990.苦苣苔科[M]//王 文采.中国植物志.北京:科学出版社,69:398.]   
+WANG WT, PAN KY, LI ZY, 1998. Gesneriaceae [M]//WU ZY, RAVEN PH. Flora of China. Beijing: Science Press; St. Louis: Missouri Botanical Garden Press,18:342.   
+WEBER A, MIDDLETON DJ, FORREST A, et al., 2011. Molecular systematics and remodeling of Chirita and associated genera (Gesneriaceae) [J]. Taxon, 6O(3): 767-790.   
+WEN F, LI S, XIN ZB,et al., 2O19.The updated plant list of Gesneriaceae in China under the new Chinese naming rules[J].Guangxi Sci,26(1): 37-63.[温放,黎舒,辛子兵,等,2019.新中文 命名规则下的最新中国苦苣苔科植物名录[J].广西科学,26(1):37-63.]   
+XU WB,GUO J, PAN B,et al.， 2O17. Diversity and distribution of Gesneriaceae in China[J]. Guihaia,37(10):1219-1226.[许为斌,郭婧,盘波,等,2017.中国苦苣苔科植物的多样性 与地理分布[J].广西植物,37(10):1219-1226.]   
+YANG B,DING HB,FU KC,et al.， 2019. Four new species of Gesneriaceae from Yunnan, Southwest China [J]. PhytoKeys,130: 183-203.

@@ -1,0 +1,624 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCHARTICLE ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recombinant Murine Gamma Herpesvirus 68 Carrying KSHV G Protein-Coupled Receptor Induces Angiogenic Lesions in Mice ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CrossMark click for updates ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Junjie Zhang1@,Lining Zhu1@, Xiaolu Lu1, Emily R. Feldman², Lisa R. Keyes²,Yi Wang1, Hui Fan³, Hao Feng?,Zanxian Xia4, Jiya Sun5, Taijiao Jiang5,6, Shou-jiang Gao1, Scott A.Tibbetts², Pinghui Feng1 \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Departmentof Molecular Microbiologyand Immunology,Norris Comprehensive Cancer Center,Keck Schoolof Medicine,Universityof Southern California,Los Angeles,California,United States of America, 2Departmentof Molecular Geneticsand Microbiology,Universityof Florida, Gainsville,Florida,United States of America,3 Collegeof Life Sciences,Hunan Normal University,Changsha, Hunan,China,4 State Key Laboratory of Medical Geneticsand Schoolof Life Sciences,Central South University,Changsha, Hunan,China,5 Center for Systems Medicine,Institute of Basic Medical Sciences,Chinese Academy of Medical Sciences &Peking Union Medical College,Beijing; Suzhou Institute of Systems Medicine,Suzhou, China,6 Key Laboratoryof Proteinand Peptide Pharmaceuticals,Institute of Biophysics,Chinese Academy of Sciences,Beijing,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "These authors contributed equally to this work. \\* Pinghui.Feng @ usc.edu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: Zhang J,Zhu L,LuX,Feldman ER,Keyes LR,Wang Y,et al. (2015) Recombinant Murine Gamma Herpesvirus 68 Carrying KSHVG ProteinCoupled Receptor Induces Angiogenic Lesions in Mice.PLoS Pathog 11(6):e1005001.doi:10.1371/ journal.ppat.1005001 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Editor: Lindsey Hutt-Fletcher, Louisiana State University Health Sciences Center, UNITED STATES ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:March 3,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted: June 3,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published: June 24,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright: $\\circledcirc$ 2015 Zhang et al.This is an open accessarticle distributed under the terms of the Creative Commons Attribution License,which permits unrestricted use,distribution,and reproduction in any medium,provided the original author and source are credited. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DataAvailability Statement:All relevantdata are within the paper and its Supporting Information files. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Funding:This work is supported by grant from NIH (CA134241, DE021445 and AI105340)and ACS (RSG-11-162-01-MPC) (PF),National Natural Science Foundation of China (81471963) (HFe),and core services performed through Norris Comprehensive Cancer grant P30CA014089-35). The funders had no role in study design,data collection and analysis,decision to publish,or preparation of the manuscript. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Human gamma herpesviruses,including Kaposi's sarcoma-associated herpesvirus (KSHV) and Epstein-Barr virus (EBV),are capable of inducing tumors,particularly in in immune-compromised individuals.Due to the stringent host tropism,rodents are resistant to infection by human gamma herpesviruses,creating a significant barier for the in vivo study of viral genes that contribute to tumorigenesis.The closely-related murine gamma herpesvirus 68 (yHV68) efficiently infects laboratory mouse strains and establishes robust persistent infection without causing apparent disease. Here,we report that a recombinant YHV68 carrying the KSHV G protein-coupled receptor (kGPCR) in place of its murine counterpart induces angiogenic tumors in infected mice. Although viral GPCRs are conserved in all gamma herpesviruses, kGPCR potently activated downstream signaling and induced tumor formation in nude mouse, whereas yHV68 GPCR failed to do so. Recombinant YHV68 carrying kGPCR demonstrated more robust lytic replication ex vivo than wild-type YHV68,although both viruses underwent similar acute and latent infection in vivo.Infection of immunosuppressed mice with γHV68 carrying kGPCR,but not wild-type yHV68,induced tumors in mice that exhibited angiogenic and inflammatory features shared with human Kaposi's sarcoma.Immunohistochemistry staining identified abundant latently-infected cells and a smallnumber of cells supporting lytic replication in tumor tissue.Thus, mouse infection with a recombinant yHV68 carrying kGPCR provides a useful smallanimal model for tumorigenesis induced by a human gamma herpesvirus gene in the seting of a natural course of infection. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Competing Interests:The authors have declared that no competing interests exist. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Author Summary ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Human gamma herpesviruses, including Epstein-Barr virus (EBV) and Kaposi's sarcomaassociated herpesvirus (KSHV),are causatively linked to a spectrum of human oncogenic malignancies. Due to the stringent host restriction, rodents are generally not amenable to infection by EBV and KSHV. Murine gamma herpesvirus 68 $\\left( \\gamma \\mathrm { H V 6 8 } \\right)$ is closely related to KSHV and EBV,although infection in mouse does not manifest apparent diseases. Here we developed a recombinant $ \\gamma \\mathrm { H V } 6 8$ that carries the KSHV G protein-coupled receptor, an important signaling molecule implicated in KSHV pathogenesis. Intriguingly, laboratory mice infected with this recombinant $\\gamma \\mathrm { H V } 6 8$ developed angiogenic lesions that resembled human Kaposi's sarcoma. This mouse infection with recombinant $\\gamma \\mathrm { H V } 6 8$ carrying KSHV GPCR represents a useful model to investigate viral oncogenesis induced by human gamma herpesvirus in the context of viral infection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Herpesviruses are ubiquitous pathogens in humans that have been implicated in an array of human diseases,including a wide range of cancers. The human gamma herpesviruses, including Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV),are capable of promoting tumor formation in immune-compromised individuals,e.g., human immunodeficiency virus (HIV)-infected patients and organ transplant recipients [1-4]. KSHV is the etiological agent of human Kaposi's sarcoma (KS), primary effusion lymphoma and multicentric Castleman's disease (MCD)[1-4].KS is the most common neoplasm in AIDS patients that manifests in the skin,the surface of internal organs and the oral cavity.Particularly, the oral cavity is an important compartment for KSHV infection, replication and dissemination. Histologically,KS tumor lesions are composed of both latently-infected spindle cells and a small subset of cells supporting lytic replication of KSHV[5-7]. The prevailing postulate is that these two types of infection programs synergize in fostering the genesis of sarcoma or lympho-proliferative disorders [8]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the presence of an active immune response, human EBV and KSHV have evolved to establish a lifelong persistent infection.To date,KSHV has been reported to infect only primates [9],demonstrating a narrow host range for successful de novo infection in vivo [10,11]. Thus, most pathogenesis studies of human gamma herpesvirus genes involving small rodents rely heavily on transgenic or xenograft nude mouse models.For example,in transgenic models, the KSHV gene products LANA and vFLIP induce lymphoproliferative diseases that display some pathological features similar to human PEL or,to a less extent, MCD [12,13]. In contrast, mice with endothelium- or other tissue-specific expression of kGPCR,developed angiogenic lesions in the skin that resemble human KS [14-16]. These models provide important tools to investigate the interaction between viral transforming proteins and key cellular signaling pathways in instigating tumor formation; however,these studies take place outside of the context of viral infection of a natural host. Presumably,infection of a co-evolved host willprovide additional layers of interaction between viral factors and host signaling components. Expression of multiple viral genes also triggers complex immune responses that likely influence the course and outcome of disease. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Murine gamma herpesvirus 68 (yHV68) is genetically related to human KSHV and EBV [17,18]. $\\gamma \\mathrm { H V } 6 8$ infection results in a transient lytic replication in the lung or spleen that is followed by persistent infection, primarily in the form of latency [19]. $\\gamma \\mathrm { H V } 6 8$ infection causes no apparent symptoms in immune-competent laboratory mouse strains, but lymphoproliferative disease and B cell lymphoma have been reported in $\\beta 2$ -microglobulin-deficient mice that lack CD8 Tcells [20]. Genome sequencing and functional studies have pointed to a number of viral factors that collectively contribute to the pathogenesis of KSHV. In the KSHV genome, genes encoding viral factors cluster into the K3-K7 locus and the latency locus (including ORF74) are implicated in KSHV pathogenesis, notably tumorigenesis. One interesting example is the viral G protein-coupled receptor,kGPCR (also known as ORF74) [21]. kGPCR is a homologue of the human IL-8 receptor and constitutively activates downstream signaling cascades without its cognate ligands. Compared to the IL-8R,kGPCR binds to a wide spectrum of chemokines that can alter kGPCR-mediated signal transduction [22-26].In the absence of cognate ligand, kGPCR constitutively activates downstream signaling. All gamma herpesviruses encode a GPCR in their genomes,despite the functionality of these viral GPCRs may differ. The $\\gamma \\mathrm { H V } 6 8$ mGPCR demonstrated no basal level of signaling activity that was only detected upon ligand stimulation, behaving like a cellular GPCR in signal transduction [27]. mGPCR-mediated signaling was proposed to promote viral lytic replication [27]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Human gamma herpesviruses demonstrate restricted host range and the lack of animal models hinders the in vivo study on these important human pathogens.We report here that introduction of kGPCR into the γHV68 genome rendered $\\gamma \\mathrm { H V } 6 8$ the ability to induce tumor formation.Histologically,tumors derived from mice infected with recombinant $\\gamma \\mathrm { H V } 6 8$ kGPCR consisted of spindle-shaped cells and significant infiltrated immune cells.These signature components recapitulate key pathological features of human KS tumors.Importantly, cells with latent infection and lytic replication were detected in tumor tissues.Thus, we have engineered a recombinant $\\boldsymbol { \\gamma } \\mathrm { H V } 6 8$ that is capable of inducing tumor formation in mice, providing a valuable tool to investigate tumorigenesis in the context of viral infection of a natural host. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "kGPCR, but not γHV68 GPCR (mGPCR), is constitutively active ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The KSHV kGPCR (ORF74) is a constitutively active signaling molecule, independent of ligand binding [22]. In contrast, the $\\gamma \\mathrm { H V } 6 8 \\mathrm { m G P C R }$ requires ligand binding to induce downstream signaling [27].We thus compared the signaling capacity of kGPCR and mGPCR. Previous studies have shown that kGPCR activates signaling events that, ultimately, culminate in up-regulating gene expression driven by NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ ,NFAT and AP-1 transcription factors [28- 31].We utilized luciferase reporter assays to probe the activation of NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ ,NFAT and AP-1 by kGPCR and mGPCR. In transfected 293T cells,kGPCR expression highly elevated the expression of an NFAT-dependent reporter (Fig 1A). By contrast, mGPCR expresson had no detectable effect under the same conditions. kGPCR,but not mGPCR, modestly up-regulated gene expression driven by responsive elements of NF- $\\kappa \\mathrm { B }$ and AP-1 transcription factors (Fig 1B and 1C). Immunoblotting analysis showed that mGPCR and kGPCR were expressed at comparable levels in $2 9 3 \\mathrm { T }$ cells (Fig 1D). Similar results were obtained from murine NIH3T3 fibroblasts that support robust lytic replication of $\\gamma \\mathrm { H V } 6 8$ ,i.e., kGPCR activated NF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ and NFAT-dependent gene expression, but mGPCR failed to do so (Fig 1E and 1F). Collectively, these results show that kGPCR,but not mGPCR,activates NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ ,NFAT and AP-1 transcription factors, signaling events underpinning kGPCR tumorigenesis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "kGPCR, but not mGPCR,activates AKT and induces tumor formation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cellular and viral GPCRs primarily localize to the cell surface where extracellular stimuli regulate intracellular signal transduction. kGPCR is unique in that it is predominantly retained in the trans-golgi network (TGN),although its cell surface expression can be detected as well [30].To compare the intracellular localization of kGPCR and mGPCR,we established mouse ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc56baa6d590d9a93b50c76fb3a5656d21849875225590e25a9ea2e4db6f567e.jpg",
+        "img_caption": [
+            "Fig1.KSHVGC(GCR)totrineamarpsvius68GCR(CR)actiateostreamnalinevents.9lse transfected with a reporter plasmid cocktail of NFAT (A and E),NF- $\\cdot \\kappa \\mathsf { B }$ (B and F) and AP-1(C),and increasing amount of a plasmid containing either kGPCR ormGPCR.Reporterucifaeasreperfodat3ursostrasfectioitollysatestotectivatiofAF $\\cdot \\kappa \\mathsf { B }$ and AP1.(D)293cellaseiteaamoadoteleadin with anti-HA and anti-actin antibodies.(E and F) NIH 3T3 cells were transfected with NF- $\\cdot \\kappa \\mathsf { B }$ (E)and NFAT(F) reporter cocktail as in (A),except with lipofectamine.Activation of NF-KB and NFAT was determined by luciferase reporter assays. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.ppat.1005001.g001 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SVEC endothelial cels that stably express kGPCR and mGPCR with lentiviral infection. Confocal immunofluorescence microscopy analysis showed that kGPCR resided in the TGN,colocalizing with TGN46 (Fig 2A). By contrast, mGPCR was dispersed in the cytoplasm,displaying an intracellular localization distinct from TGN46 staining. The subcellular pattern of mGPCR was reminiscent of the endoplasmic reticulum (ER) compartment (Fig 2A). Indeed, mGPCR co-localized with protein disulfide isomerase,an ER resident protein,as analyzed by confocal microscopy (Fig 2A).These results indicate that kGPCR and mGPCR reside in the TGN and ER compartment, respectively. However, we would like to point out that the cell surface expression of both viral GPCRs is expected. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Signaling pathways that are constitutively activated by kGPCR, including the PI3K-AKT cascade that promotes cel proliferation and survival, underpin the tumorigenesis of kGPCR [14,32,33]. We thus compared the effect of kGPCR and mGPCR on AKT activation. Stable expression ofkGPCR in SVEC cells elevated AKT phosphorylation at serine 437 under starvation condition, indicative of AKT activation (Fig 2B). mGPCR expression in SVEC cells did not significantly impact the level of phosphorylated AKT under similar conditions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To compare the tumorigenic potential of kGPCR and mGPCR, we initially utilized a xenograft nude mouse model. In this model, SVEC cells stably expressing kGPCR or mGPCR were mixed with bystander regular SVEC cells to assess the autocrine and paracrine action of kGPCR in promoting tumor formation. At two weeks post-injection, tumors were detected in mice that were grafted with SVEC cells expressing kGPCR.No tumors were detected in mice that were grafted with control SVEC cells or SVEC cells expressing mGPCR, even at four weeks post-inoculation when mice grafted with kGPCR-expressing SVEC cells had to be euthanized (Fig 2C).Tumors derived from SVEC cells expressing kGPCR were highly vascularized, which was visible in the skin,and tumor weight averaged ${ \\sim } 8 5 0 ~ \\mathrm { m g }$ (Fig 2D). Collectively, these results indicate that kGPCR,but not mGPCR, potently activates signaling events and induces tumor formation derived from murine SVEC endothelial cells. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Generation of recombinantyHV68 that carries kGPCR at the mGPCR locus ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The cell proliferative and tumorigenic potential of kGPCR, compared to mGPCR, prompted us to engineer a recombinant $\\gamma \\mathrm { H V } 6 8$ that expresses kGPCR in place of mGPCR and under control of the endogenous mGPCR promoter.To facilitate detection of kGPCR,we also inserted an HA epitope immediately after the start codon of kGPCR (Fig 3A). The GEMBO Bacmid, which incorporates the beta-lactamase (Bla) marker gene at the latent locus was selected as the parental backbone to introduce kGPCR into the mGPCR locus [34]. Viruses produced from the GEMBO BACmid were used to mark cells that are latently infected by $\\gamma \\mathrm { H V } 6 8$ . Once recombinant $\\boldsymbol { \\gamma } \\mathrm { H V } 6 8$ that carries kGPCR (designated γHV68.kGPCR) was generated, we also introduced mGPCR back to the same locus to replace the HA.kGPCR, yielding $\\gamma \\mathrm { H V } 6 8$ revertant $( \\gamma \\mathrm { H V } 6 8 . \\mathrm { r e v } )$ .BAC DNA was purified from bacteria and digested with BamHI to analyze the overall digestion pattern. Due to two BamHI sites located at the ${ 3 ^ { \\circ } }$ end of kGPCR, a ${ \\sim } 5 . 3 \\mathrm { k b }$ fragment disappeared in γHV68.kGPCR BAC DNA,presumably BamHI digestion converted the ${ \\sim } 5 . 3 \\mathrm { k b }$ fragment into a ${ \\sim } 5 \\mathrm { k b }$ fragment that already existed (S1A Fig). The kGPCR locus was further PCR amplified and sequenced, which validated the introduction of the HA-tagged kGPCR, without any additional mutations (S1B Fig). Furthermore, we employed genome sequencing to compare the BAC DNA of $\\gamma \\mathrm { H V } 6 8$ wild-type with that of γHV68.kGPCR. This identified three point mutations within $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R } ,$ excluding the difference in kGPCR (S1C Fig).Taken together, the sequencing data indicate the overallintegrity of these recombinant γHV68 genomes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/460c567a9ee54d8c1801d00eab4d3493ddf386bf37eca1c5807bb21d25cc1fbe.jpg",
+        "img_caption": [
+            "Fig2DifferentialsialingdtumorigenicapacitfkGRandGCR.(A)ouseSVCndotelialellsablyxpressngGCR werefiedandibogstepi)N46(oarkakcledi DAPI.Representative images were collected with Nikonand processed with ImageJ.Scale bardenotes $1 0 \\mu \\mathrm { m }$ (B) Control SVEC or SVEC stable cells expresingKGPCRormGPCRwerestarvedoveightandholecellysateswereanalyzedwitindicatedantibodies.pAKTandTindicate "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "phosphorylatedand totalAKT,respectively. (C)and(D)Control SVECorSVECstablecels expressing kGPCRormGPCR $( 5 \\times 1 0 ^ { 5 } )$ , along with $1 \\times 1 0 ^ { 6 }$ bystanderelarelredtdeceumorseotoadatfouspsietiCandohta determined (D). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.ppat.1005001.g002 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "BAC DNA was then transfected into NIH 3T3 cells to produce recombinant $\\gamma \\mathrm { H V } 6 8$ Recombinant $\\gamma \\mathrm { H V } 6 8$ viruses were passaged in NIH 3T3/Cre cells three times to remove the backbone of $\\gamma \\mathrm { H V } 6 8$ BAC DNA and plaque assays were performed to determine the titer of recombinant $\\gamma \\mathrm { H V } 6 8$ . Multi-step growth of recombinant $\\gamma \\mathrm { H V } 6 8$ indicated that wild-type $\\gamma \\mathrm { H V } 6 8$ and $\\gamma \\mathrm { H V } 6 8$ .revreplicated indistinguishably in NIH 3T3 cells.Interestingly, $\\boldsymbol { \\gamma } \\mathrm { H V } 6 8$ kGPCR replicated with much faster kinetics and reached higher titer in NIH 3T3 cells, compared to wild-type $\\gamma \\mathrm { H V } 6 8$ (Fig 3B). This result indicates that kGPCR can enhance $\\gamma \\mathrm { H V } 6 8$ replication when expressed from infected cells. Additionally,γHV68.kGPCR consistently formed larger plaques in NIH 3T3 cells than wild-type γHV68 or γHV68.rev (Fig 3C). The larger plaque sizes did not correlate with more robust syncitia. Thus,the increased replication of $\\gamma \\mathrm { H V } 6 8$ kGPCR contributes to the larger plaques. Real-time PCR analysis with primers specific for viral lytic genes indicated that higher levels of expression of lytic genes in cells infected with $\\gamma \\mathrm { H V } 6 8$ kGPCR than those of cells infected with wild-type γHV68 (Figs 3D and S1D).Surprisingly, kGPCR mRNA level was significantly lower than that of mGPCR at all time points post-infection (Fig 3D). Immunoblot analysis further confirmed more robust viral RTA and TK expression in cells infected with γHV68.kGPCR than those in cells infected with wild-type γHV68 (Fig 3E). Taken together,these results indicate that kGPCR expression can promote γHV68 lytic replication. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Lytic replication and latent infection of yHV68.kGPCR in vivo ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Considering that $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R }$ replicated more robustly than wild-type $\\gamma \\mathrm { H V } 6 8$ in vitro, we examined the lytic replication during acute infection of BALB/c mice,a wild-type inbred strain amenable to tumor development. When BALB/c mice were infected with high dose of virus $( 1 \\times 1 0 ^ { 5 } \\mathrm { { p f u } ) }$ via intra-peritoneal injection, we found that approximately $1 \\times 1 0 ^ { 3 }$ pfu per spleen was detected by plaque assay at 3 days post-infection (dpi) for both wild-type $\\gamma \\mathrm { H V } 6 8$ and $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R } ,$ indicating significant lytic replication (Fig 4A). At 5 and 7 dpi, $\\gamma \\mathrm { H V } 6 8$ replication was about $1 \\times 1 0 ^ { 2 }$ pfu per spleen.Atall three time points, similar levels of viral loads were detected in mice infected with wild-type $\\gamma \\mathrm { H V } 6 8$ and γHV68.kGPCR.None of the infected mice showed disease symptoms at the time of harvest. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Regardless of the route and dose of infection, $\\gamma \\mathrm { H V } 6 8$ efficiently establishes latent infection in splenocytes,including B lymphoid cels and other immune cells (e.g., macrophages) [35]. We examined the latent infection in splenocytes of BALB/c infected with recombinant wildtype $\\gamma \\mathrm { H V } 6 8$ and $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R } .$ Limiting-dilution PCR analysis indicated that the frequency of splenocytes carrying $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R }$ was ${ \\sim } 2$ -fold higher than that of wild-type $\\gamma \\mathrm { H V } 6 8$ 0 approximately one in 100 cells at 16 days post-infection (Fig 4B). However,this was not due to increased frequencies of reactivation or preformed virus,as parallel samples of splenocytes from $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R } .$ -infected mice exhibited slightly lower levels of both compared to wildtype $\\gamma \\mathrm { H V } 6 8$ -infected mice (Fig 4C).Furthermore,wild-type $\\gamma \\mathrm { H V } 6 8 \\cdot$ and $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R } -$ （204号 infected mice exhibited similarly lower frequencies of infection at 45 days post-infection (Fig 4D), while reactivation and preformed virus were below the detection limit (S2 Fig).These results show that wild-type $\\gamma \\mathrm { H V } 6 8$ and γHV68.kGPCR establish similar levels of latent infection in splenocytes in vivo. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d4bf8d0c313ed95d062e05e5ae959fbfcc043140caef05b8d09a22f2771dd70.jpg",
+        "img_caption": [
+            "Fig3.Generatiodaracterzatioofecobant6cargR.(A)DagofCusielatiottserdBlae (encodingeta-tasfcoantpladitaraHd) NIH 3T3 cels were infected with recombinant γHV68.wt,γHV68.kGPCR or γHV68 revertant (yHV68.Rev) $( \\mathsf { M O l } = 0 . 0 5 )$ and wholecell lysates were preparec withthreetimofetafectosnitof8setedaessoolaB)ndlaseod (D)and(E)diotatdCadetrc wasanalydeasitdtitspfds)olellesepepdd immunobloting with antibodiesagainst RTA,thymidine kinase (TK or ORF21) and $\\beta$ -actin (E). For(B) and (D),p values were calculated in reference to the control yHV68 wild-type group, $^ { * } p < 0 . 0 5$ ： $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.ppat.1005001.g003 doi:10.1371/journal.ppat.1005001.g004 ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d429257c3ba206dce9fa53974d70648df96a1be5e34b48bf580e78f903fa3b28.jpg",
+        "img_caption": [
+            "Fig4.Acuteadtetfctioof8inoe.alb/cice-geatdreifectditdt68(G)oGC (mK) $( 1 \\times 1 0 ^ { 5 }$ pfu)viaintraperioalitioSpeseltdtdsectiopidsed (A)Altei eitherintactordsruptedwithmechanicforce,wereco-culturedwithmouseembryonicfibroblasts toalowplaqueformationfor2days. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Recombinant γHV68.kGPCR induces angiogenic lesions in mouse ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Having characterized lytic replication and latent infection of recombinant γHV68.kGPCR in mice,we next assessed whether infection by $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R }$ can induce tumors in BALB/c mice. In a pilot experiment, we set up two groups of mice that were infected with either wildtype γHV68 or γHV68.kGPCR.At three weeks post-infection, mice were injected with cyclosporine A(CsA) to inhibit T cell response. Out of a total of 15 experimental mice that were infected with $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R }$ and treated with CsA,five mice displayed malignant conditions of the liver,lung and subcutaneous compartment (Fig 5A). Over the course of six months of the experiment,one out of five mice that were infected with γHV68.kGPCR and treated with CsA died.Although the mouse had no apparent lesion on the skin,inspection of its internal organs identified highly vascular nodules in the liver (Fig 5B).The reddish lesions of apparent size share similar characteristics of highly vascularized lesions with human nodular KS. Another mouse demonstrated localized fibrosis in the lung (Fig 5C), which displayed none of the angiogenic characteristics of human Kaposi's sarcoma. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In addition to the hepatic KS-like lesion observed in one mouse, 4 mice developed large subcutaneous tumors in a hind leg at 5 months post-infection with $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R }$ and treated with CsA,although no apparent skin lesion was observed (Fig 5D). The tumor was large and highly vascular,consistent with the notion that kGPCR induces angiogenesis of endothelial cells.H&E staining showed that the tumor cels were spindle-shaped and packed into slit-like structure,infiltrated with large numbers of erythrocytes (Fig 6A).Large numbers of immune cells were also observed within or proximal to the highly packed tumor region. IHC staining revealed that kGPCR was expressed in a small subset of cells scattered in the tumor lesion, which is consistent with the paracrine action of kGPCR in human KS tumors (Figs 6B and S3A). Given the suspected origin of endothelial cells of KS,we examined the tumor tissue with antibodies against an endothelial marker CD31 and found that a significant portion of tumor cells expressed high levels of CD31,most of which were elongated and spindle-shaped cells (Figs 6C and S3B). These cells appeared to connect with each other,implying that they were undergoing proliferation in these tumors. Indeed,a significant fraction of tumor cells were stained positive for Ki67 (Figs 6D and S3C),a marker of proliferating cells. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Human KS lesions demonstrate hallmarks of excessive inflammatory response, with infiltration of a wide range of immune cells. Thus, we determined whether immune cels are present in the angiogenic lesions that developed in mice infected with $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R } .$ To this end, we performed IHC to probe Tcells,macrophages and dendritic cells. Antibody against human CD3 identified scarce Tcels in the tumor lesion (Fig 6E).The low level of Tcells is likely due to the immune suppressive effect of cyclosporine A.To determine whether this is due to lack of antigen education, we further probed antigen-presenting cells with antibody against CD80 (also known as B7-1) that provides co-stimulatory signal for Tcellactivation. CD80 is generally expressed on the cell surface of activated B cells and monocytes [36], classic antigen-presenting cells. Interestingly,a small number of cells were positively stained with anti-CD80 antibodies and these cells had a small cytoplasm, morphological characteristics of B cells and monocytes (Fig 6F).Finally, we examined the relative frequency of macrophages and dendritic cells in the tumor lesions. These innate immune cells have been implicated in antigen presentation and cytokine production, thus influencing the course of tumorigenesis. When tumor tissues were stained with antibodies against IBA-1 and CD1lc, markers for macrophages and dendritic cells. We found that large number of cells were positive for IBA-1 and well distributed in the tumor lesion (Figs 6G and S3D).By contrast, cells stained for CD11c were much less and localized (Fig 6H). These cels demonstrated elongated and spindle-shaped cytoplasm,forming the slit-like structure within tumors. Overall, these H&E staining and IHC analyses demonstrate ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d8591461aa8b31a0cff81e0e1ec51ed2a6f9880e5e10664863734a9cde1c66a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Organ of disease</td><td>Number of mice</td><td>Time post-infection</td></tr><tr><td>Subcutaneous Compartment</td><td>4</td><td>~6-9 months</td></tr><tr><td>Liver</td><td>1</td><td>~4 months</td></tr><tr><td>Lung</td><td>1</td><td>~10 months</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa540a4ba9148ea7f686d016640e70192e77a9819660f50173e3593a573475f5.jpg",
+        "img_caption": [
+            "Fig 5. yHV68.kGPCR infection induces angiogenic lesions in immune-suppressed mouse. Balb/c mice,of six to eight-week-old females,were infected with $( 1 \\times 1 0 ^ { 5 }$ pfu) via intraperitoneal injection. (A) Summary of 5 mice,outof 15,thatdemonstrated diseased conditions.One mouse had both subcutaneous tumorand lung fibrosis (shown in D). Mouse livercarrying angiogenic nodule (B)and subcutaneous tumors within the hinder legs(C)were photographed. (D)Lung lesions of mice infected with yHV68.kGPCR and wildtype yHV68 analyzed by H&E staining. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.ppat.1005001.g005 doi:10.1371/journal.ppat.1005001.g006 ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e422f30facc15521f665caee927bd8f8c08b3614156a9f4c8dce8c4d1537f383.jpg",
+        "img_caption": [
+            "Fig6.Pathologicalanalysisofngiogenictmorsdriedfrom68kGCR-infectedmice.Subcutaneoustmorsdeveloedin68GCinfectedABelmatoinsinE)adustocstatibs (GPCR) markerCD11c)msadststriitiboist(Ftett( vGAT(ORF75c,lyticantigen)(J).Boxedregionswereampifiedrightbelow(l)orext(J)tothoriginalimages.Scalebarsdenote $2 5 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "that the tumor derived from γHV68.kGPCR virus displayed significant number of immune infiltrates,signature inflammatory components of human KS. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "An important characteristic of human KS is the presence of predominant KSHV latentlyinfected cells and low percentage of cels supporting lytic replication of KSHV. It was postulated that a synergy between cells of latent and lytic KSHV programs fuels the sarcomagenesis. We first examined the latently infected cells with an antibody against the latency-associated nuclear antigen (LANA),a hallmark antigen for latent $ { \\gamma }  { \\mathrm { H V } } 6 8$ infection. Using mock- and γHV68-infected NIH 3T3 cels,we showed that the purified rabbit serum was highly specific to ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "LANA antigen by immunoblotting and immunofluorescence staining (S4A and S4B Fig). When tumor tissues were analyzed by IHC staining, we observed that approximately $2 0 { - } 3 0 \\%$ of tumor cells were positive for LANA expresson in the nucleus (Fig 6I). LANA positive cells were more likely present in the highly packed slit-like structure. To detect cells supporting γHV68 lytic replication, we analyzed tumor tissues by IHC with an antibody against vGAT (ORF75c),a tegument protein of virion particle. Immunoblotting and immunofluorescence staining demonstrated that the purified anti-vGAT antibody was highly specific for vGAT in γHV68-infected NIH 3T3 cells (S4C and S4D Fig). As shown in Fig 6J, vGAT-positive cells were apparent in the tumor section and accounted for about $2 - 3 \\%$ of tumor cells. The frequency of vGAT-positive cels is similar to that of kGPCR-expressing cells (Fig 6B).Thus, similar to KS lesions, cells of latency and lytic replication programs of $\\gamma \\mathrm { H V } 6 8$ are present in tumor tissue derived from γHV68.kGPCR-infected mice. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We used cyclosporine A to suppress host Tcellimmunity, which facilitated tumor formation in mice infected with γHV68.kGPCR. Cyclosporine A is a potent inhibitor of NFAT activation and kGPCR activates NFAT.Thus,we examined the effect of cyclosporine A on the lytic replication of $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R }$ and wild-type $\\boldsymbol { \\gamma } \\mathrm { H V } 6 8$ .The latter serves as a control for γHV68.kGPCR. However,cyclosporine A had no significant effect on viral replication in NIH 3T3 cells as determined by plaque assay (S5A-S5D Fig). Thus, cyclosporine does not intrinsically promote the lytic replication of γHV68.kGPCR in cultured cells. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Histopathological features of human Kaposi's sarcoma ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "To compare the tumors derived from mice infected with $\\gamma \\mathrm { H V } 6 8 .$ kGPCR to human KS, we examined the inflammatory cells present in human KS samples that have been previously reported [37]. H&E staining revealed that the tumor tissue was filled with a large number of erythrocytes,which were widely distributed within the tumor lesion (Fig 7A).Tumor cells of iregular nuclei were abundant and packed into slit-like structure constituting of spindleshaped cells. IHC with antibody against the latency-associated nuclear antigen (LANA),an obligate molecule for KSHV persistent infection, showed that KSHV latently-infected cells were abundant, many of which were the signature spindle-shaped cells with elongated nuclei (Figs 7B and S6A).To identify endothelial cells,we stained the tumor section with anti-CD31 antibodyand found nearly $5 0 \\%$ of cells were positive for CD31 expression,indicating their endothelial origin (Fig 7C and S6B).IHC staining with antibody against the Ki-67 proliferation marker identified a high percentage of cells, indicative of their active proliferation (Figs 7D and S6C).These results confirmed that KS tumors are neoplasms of latent KSHV infected cells. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "To define the inflammatory nature of the KS tumors,we probed a number of immune components,including T cells, macrophages and dendritic cells.Their presence in KS tumors has been implicated in the prognosis and severity of KS [37]. Antibody against the common CD3 antigen reacted with cells scattered in sectioned tumor (Fig 7E), with regions were highly enriched for CD3-positive cels (S6D Fig). This is likely due to lytic replication of KSHV in a group of highly localized tumor cells.To further probe antigen-presenting cells (APCs) in the tumor, we choose antibody against CD80,a marker for matured APCs,for IHC analysis.This identified some densely packed tumor cells that detected low level of CD80 expresson (Fig 7F). Using antibody against a well-defined macrophage marker, IBA-1 [38], we discovered that a significant number of macrophages were present in the highly dense tumor region (Figs 7G and S6E).By contrast, dendritic cells stained with anti-CD11c were less abundant (Fig 7H). Taken together,human KS tumors are extensively infiltrated with immune cels, critical components of organ inflammatory responses. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9815d4763ff6e1a8e0b200a8f5d106b77b0af21137106e921a78d4949b552d3.jpg",
+        "img_caption": [
+            "Fig7.AngiogeniandinflammatoryfeaturesofhumanKaposi'ssarcoma.HumanKapos'sarcomalsionasanalyedbyH&Estainng(A)and ist) (D),Tel bars denote $2 5 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.ppat.1005001.g007 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this study,we report that introduction of kGPCR into murine $\\gamma \\mathrm { H V } 6 8$ enables the virus to induce angiogenic lesions in infected mice. Despite that $\\gamma \\mathrm { H V } 6 8$ encodes its own GPCR homologue, wild-type $\\boldsymbol { \\gamma } \\mathrm { H V } 6 8$ is not sufficient to induce KS-like lesion or malignancies in infected laboratory mouse.In fact,mGPCR failed to activate multiple signaling cascades that are potently up-regulated by kGPCR.Additionally, kGPCR, but not mGPCR, induced tumor formation in a xenograft nude mouse model. One notable difference between these two viral GPCRs is their distinct intracellular localization.While kGPCR primarily resides in TGN, mGPCR appears to localize in the ER compartment,a phenomenon that may underpin the differential signaling capacity. Regulation by cognate ligands at the plasma membrane appears to be shared by both kGPCR and mGPCR [25,27]. It is possible that the post-translational modification indigenous to TGN is a limiting factor for viral GPCR signaling.Events such as glycan modification/editing and tyrosine sulfation occur in the TGN and are relevant to the trafficking and signaling of GPCRs. We previously reported that the N-terminal tyrosine-containing ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "motif of kGPCR was sulfated within the TGN compartment and that sulfation promoted kGPCR signaling and tumorigenesis [39]. Further experiments willbe needed to examine these possibilities.Nevertheless,these results demonstrate the fundamental difference between the two closely-related viral GPCR homologues in signaling and tumorigenesis,prompting us to develop a rodent tumor model utilizing a recombinant γHV68 carrying kGPCR. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Multiple transgenic mouse models have been developed in which kGPCR,when expressed in a ubiquitous or endothelium-specific manner, is sufficient to induce tumor lesions [14,16,33]. These mouse tumors recapitulate key pathological features of human Kaposi's sarcoma, including the spindle-shaped tumor cells and angiogenic vasculature. Though these models excel in tumorigenesis induced by single gene product, they lack the viral infection component. With a recombinant $\\gamma \\mathrm { H V } 6 8$ carrying kGPCR,we now show that infection in mice triggered angiogenic tumors when Tcells were muted with cyclosporine A. Interestingly, recombinant γHV68.kGPCR also displayed faster replication kinetics in cultured cells and formed larger plaques, indicating that kGPCR enhances viral lytic replication in vitro. This observation is consistent with previous reports that kGPCR-mediated signaling enhances the lytic replication of KSHV likely via RTA [40,41],although the molecular detail by which kGPCR impinges on viral lytic replication remains to be further explored. Despite that γHV68. kGPCR undergoes more robust lytic replication in vitro than wild-type γHV68,both viruses established similar levels of latency as judged by viral genome frequency and reactivation capacity of splenocytes.This suggests that host immune response dominates viral infection and facilitates a latent infection,agreeing with the observation that $\\gamma \\mathrm { H V } 6 8$ established similar levels of long-term latency independent of doses and routes of infection [35]. Consistent with this, we observed that the frequency of splenocytes carrying γHV68.kGPCR genome was only slightly increased compared to wild-type $ \\gamma \\mathrm { H V } 6 8$ .Conceivably though,this subtle increase in viral persistence in vivo may amplify under conditions of immune-suppression. As such, when T cells were inhibited with cyclosporine A,mice infected with $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R }$ developed hepatic and subcutaneous tumor lesions,while those infected with wild-type $\\gamma \\mathrm { H V } 6 8$ displayed no malignancies when experiment was terminated.To date, we had five,out of 15 mice, developed angiogenic tumors within the time frame of one year.We will continue to optimize the recombinant $\\gamma \\mathrm { H V } 6 8$ -infection tumor model. One possibility is to introduce additional KSHVspecific pathogenic factors,which are devoid in the $\\gamma \\mathrm { H V } 6 8$ genome [18],into the recombinant γHV68.kGPCR. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "While KS lesions develop predominantly in the skin,it is not rare to find on the surface of internal organs, including the liver. Hepatic KS has been diagnosed with ultrasound or x-ray imaging, but biopsy has not been available [42-44].A retrospective autopsy analysis on AIDS patients discovered that the most frequent benign neoplasm was hepatic hemangiomas [45]. Thus,a rodent model of hepatic KS may provide insight into the pathological features and fundamental sarcomagenesis of human hepatic KS,despite that the frequency of hepatic KS is relatively low in our smal cohort of experimented mice.In addition to nodule KS-like lesion in the liver, mice infected with $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R }$ also developed subcutaneous tumor that was infiltrated with various immune cells,critical components in human KS lesion. These cels include erythrocytes,Tcells,macrophages and dendritic cells.Among them, macrophage was abundant in tumors compared to the other immune cells,it would be interesting to determine their roles in sarcomagenesis,if any.A previous report also identified macrophages in KS-like tumors derived from Tva mice expressing kGPCR [14]. It is the M2 type macrophage that is implicated in promoting tumor development, while M1 type macrophage inhibits [46]. When mouse lesions were compared to human KS tumors,H&E and IHC analyses revealed the common histopathological features shared by both neoplasms,including slit-like structure, infiltration of diverse immune cells and the abundant $\\mathrm { C D } 3 1 +$ endothelial cells in the tumor.However, these two types of tumors also differ in the status of Tcells,i.e., with scarce Tcells present in mouse angiogenic lesion. This likely stems from the application of cyclosporine A to nulify T cels in the mouse infection model.Alternatively,the distinct anatomical locations of these two types of tumors may underpin the difference in pathology.Nevertheless,these results support the conclusion that tumors induced by γHV68.kGPCR infection are angiogenic and pathobiologically relevant to KSHV malignancies, providing a useful model to investigate tumor induction by KSHV genes in the context of a natural course of viral infection. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Constructs,cell culture and transfection ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "If not specified otherwise,constructs were derived from pcDNA5/FRT/TO (Invitrogen). kGPCR and mGPCR were amplified by PCR and cloned into pcDNA5/FRT/TO between BamHI and XhoI. The HA epitope was inserted upstream of kGPCR and mGPCR coding sequences.HEK293T(ATCC),SV40-immortalized mouse endothelial cells SVEC (kindly pro vided by Dr.Philip Sharpe, UT Southwestern),NIH3T12 cells (ATCC) were cultured in DMEM supplemented with $1 0 \\%$ (vol/vol) FBS and $1 0 0 \\mathrm { U }$ penicillin/streptomycin. NIH 3T3 cells (ATCC) were maintained in DMEM supplemented with $1 0 \\%$ (vol/vol) newborn calf serum and $1 0 0 \\mathrm { U }$ penicillin/streptomycin.Transfection was performed with DNA-calcium phosphate precipitation. Stable cellines were established using lentivirus transduction and selected with puromycin $( 1 \\mu \\mathrm { g / m L } )$ 1 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Luciferase reporter assay ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "HEK293T cells were plated one day before transient transfection with $5 0 \\mathrm { n g }$ of the plasmid expressing firefly luciferase (under the control of response elements of NF- $\\kappa \\mathrm { B }$ ,NFAT,and AP1 transcription factors) and $1 0 0 ~ \\mathrm { { n g } }$ of the plasmid expressing ${ \\beta }$ -galactosidase (driven by a house keeping glucophosphokinase promoter). Each transfection was balanced with an empty vector pcDNA5/FRT/TO.Thirty hours after transfection,cells were harvested and lysed in passive lysis buffer (Promega) on ice. After centrifugation, supernatant was used to measure luciferase and $\\beta$ -galactosidase activity according to the manufacturer's instruction. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Immunoblotting ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Cells were collected, rinsed with ice-cold PBS and lysed in NP-40 buffer ( $5 0 \\mathrm { m M }$ Tris-HCl [pH 7.4], $1 5 0 \\mathrm { m M N a C l }$ 0 $1 \\%$ NP-40,5 mMEDTA) supplemented with a protease inhibitor cocktail (Roche),and sonicated for 3 times on ice.Whole cell lysates were denatured and resolved by SDS-PAGE.Proteins were transferred to nitrocellulose membrane and blocked in PBS-T containing $3 \\%$ non-fat milk for one hour at room temperature.Membrane was incubated with primary antibodies overnight at $4 ^ { \\circ } \\mathrm { C } .$ Blots were washed extensively and incubated with corresponding IRDye80o conjugated secondary antibodies (Licor) at 1:5ooo for one hour at room temperature. Proteins were visualized using Odyssey infrared imaging system (Licor). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "To generate rabbit antibody against thymidine kinase (TK or ORF21),the N-terminal region (amino acid 1-300) was cloned into pGEX-4T-1. Expression and purification of GST fusion proteins were carried out as previously described [47,48] Purified proteins were used to immunize rabbits and whole serum was used to probe TK expression from $\\gamma \\mathrm { H V } 6 8$ -infected cells,along with pre-immune serum as a control. Anti-RTA antibody was described previously [49]. Rabbit sera against vGAT(ORF75c) and mLANA (ORF73) were described previously [50,51]. The antibodies were affinity purified using GST fusion antigens. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence and immunohistochemistry analysis ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence and immunohistochemistry experiments were carried out as previously described [30,52,53]. Cells were fixed with $4 \\%$ (vol/vol) paraformaldehyde for $2 0 \\mathrm { m i n }$ and permeabilized with $0 . 4 \\%$ (vol/vol) Triton X-100 for $2 0 \\mathrm { m i n }$ .For cell surface staining,Triton X-100 permeabilization was omitted from the procedures.Goat serum $( 1 0 \\% )$ was used to block for one hour at room temperature. Cells were incubated with monoclonal anti-HA(Covance), anti-PDI (Stressgene),anti-TGN46 (Abcam),anti-vGAT,anti-mLANA antibodies overnight at $4 ^ { \\circ } \\mathrm { C } .$ After extensive washing,cells were incubated with corresponding secondary antibodies for one hour at room temperature.DAPI was stained before mounted onto microscope slides. Cells were analyzed with a Nikon $\\operatorname { E 8 0 0 M }$ microscope. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Mouse or human tissues were fixed in $1 0 \\%$ neutral buffered formalin (Sigma) overnight at room temperature.Tissues were then dehydrated, embedded in parafin,and cut into $3 \\mathrm { - } \\mu \\mathrm { m }$ sections.After antigen retrieval, tissue sections were subject to H&E staining and immunohistochemical staining with antibodies against HA epitope (OriGene), CD31 (Abcam), CD3 (Abcam), CD11c (Abcam),Ki67 (Abcam), CD80 (Abcam),IBA-1 (Abcam),rabbit or mouse ABC staining system (Santa Cruz),and DAB substrate kit (Vector laboratories). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Generating yHV68.kGPCR recombinantvirus ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The γHV68.kGPCR virus was generated from the parental wild-type γHV68.ORF73bla marker virus bacterial artificial chromosome (BACmid) backbone [34] using allelic exchange,as previously described [54]. Briefly, full-length kGPCR was cloned from KSHV genomic DNA and ligated in place of full-length mGPCR in a pGS284 allelic exchange vector [54] carrying wildtype mGPCR and flanking homology arms. Allelic exchange was performed using pGS284. kGPCR in S17λpir and γHV68.ORF73bla BACmid GS500 Escherichia coli,as previously described [54]. Following positive and negative selection, diagnostic restriction digests were performed on multiple clones to determine the integrity of the viral genome,and the region of interest was directly sequenced to confirm correct insertion. A single validated BACmid clone was transfected into NIH3T3 murine fibroblasts to generate high-titer viral stocks,and resulting virus stock was serially passaged in NIH 3T3 cells stably expressing Cre recombinase, resulting in the removal of the loxP-flanked BAC sequence and the generation of the γHV68. kGPCR virus. γHV68.rev was generated by recombination of wild-type mGPCR sequence into the identical γHV68.kGPCRBACmid clone. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Limiting-dilution nested PCR (LD-PCR) detection of γHV68 genomepositive cells ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The frequency of splenocytes harboring $\\gamma \\mathrm { H V } 6 8$ genome was measured by LD-PCR as previously described [35].Briefly,mouse spleens were homogenized,re-suspended in isotonic buffer and subjected to 3-fold serial dilutions (from ${ 1 0 } ^ { 4 }$ to 41 cells/well) in a background of uninfected RAW 264.7 cels, with a total of 104 cells per well. Twelve replicates were plated for each cell dilution. After being plated,cells were subjected to lysis by proteinase K at $5 6 ^ { \\circ } \\mathrm { C }$ for 8 hours. Following inactivating the enzyme for 30 minutes at $8 5 ^ { \\circ } \\mathrm { C } ,$ samples were subjected to nested PCR using primers specific for $\\gamma \\mathrm { H V } 6 8$ ORF72. Reaction products were separated using $2 . 5 \\%$ UltraPure agarose (Invitrogen) gels and visualized by ethidium bromide staining. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "yHV68 multi-step growth curve measurement ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "To measure ex vivo viral growth kinetics,NIH 3T3 cells were infected with $\\gamma \\mathrm { H V } 6 8 . \\mathrm { W T }$ γHV68.kGPCR or $\\gamma \\mathrm { H V } 6 8 . \\mathrm { R e v }$ at a multiplicity of infection(MOI) of 0.05.Cells and ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "supernatant at different time points were collected and viral titer was determined by plaque assay.To do that, samples were serially diluted and plated onto NIH3T3 in 24 wells in replicate. Infection was carried out at $3 7 ^ { \\circ } \\mathrm { C }$ for two hours with frequent rocking every $1 5 \\mathrm { m i n }$ . Cells were then overlaid with DMEM containing $2 \\%$ NCS and $2 \\%$ methylcellulose. Cells were incubated for5daysat $3 7 ^ { \\circ } \\mathrm { C }$ and eventually stained with $0 . 3 3 \\%$ neutral red.Plaques were visualized under microscope and all titers were determined in parallel. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Ethics statement ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "All animal experiments were carried out according to the National Institutes of Health principles of laboratory animal care and approved by the University of Southern California Institutional Animal Care and Use Committee (IACUC) with permit number A0372. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Mice and tumor formation in vivo ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The xenograft experiments were performed as described previously [30,39,53]. Briefly, $\\mathsf { 1 } \\times \\mathsf { 1 0 } ^ { 5 }$ stable SVEC cells expressing mGPCR or kGPCR,along with $1 { \\times } 1 0 ^ { 5 }$ bystander SVEC cells were subcutaneously injected into the flanks of6- to 8-week-old athymic (nu/nu) nude mice (Jackson Laboratory).Tumor formation was monitored twice every week and tumors were weighed when mice were euthanized.For infection with recombinant γHV68,6- to 8-week-old Balb/c mice were intraperitoneally injected with ${ 1 0 } ^ { 5 }$ PFU $\\gamma \\mathrm { H V } 6 8 . \\mathrm { W T }$ or γHV68.kGPCR. A week after inoculation, mice were treated with $1 0 \\mathrm { m g / k g }$ cyclosporine A via intraperitoneal injection twice per week. Body weight was monitored every month. Allanimal experiments were performed according to the National Institutes of Health principles of laboratory animal care and approved by the University of Southern California Institutional Animal Care and Use Committee (IACUC). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Statistical analyses were performed using an unpaired, two-tailed Student's $t$ -test. P values of less than O.05 were considered to be statisticall significant.Mice experiment data were analyzed using GraphPad Prism software (GraphPad Software.Statistically significant p values are indicated by asterisks: $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$ ， ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "S1 Methods. Viral genome analysis.In total,19,125,847 reads mapped to the reference genome of murine gamma herpesvirus 68 $\\left( \\gamma \\mathrm { H V 6 8 } \\right)$ were used to assemble the genome of BAC$\\boldsymbol { \\gamma } \\mathrm { H V } 6 8$ with assembler Velvet. The maximum N50 could be achieved as 70899 and the mean coverage depth was l062 when kmer was used as 75.The finally assembled genome was incomplete and only covered $9 3 . 9 \\%$ of the MHV68 reference genome, which consisted of five contigs as the length of 70899,26203,11350,3560 and 107 bp,separately.The variants of BACγHV68.kGPCR were called based on the five contigs of BAC-γHV68 by using reads aligner BWA and variants caller GATK.In comparison of the reference contigs of BAC- $\\gamma \\mathrm { H V } 6 8$ ,only three variants had been discovered, which resided in the topmost two contigs (70899 and 26203). The quality value QUAL and the depth of coverage of all three variants were very high. (DOCX) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "S1 Fig. Characterize recombinant $\\pmb { \\gamma } \\mathbf { H } \\mathbf { V 6 8 } .$ (A) GEMBO DNA carrying $\\gamma \\mathrm { H V } 6 8$ wild-type (wt),γHV68.kGPCR and $\\gamma \\mathrm { H V } 6 8$ revertant $( \\gamma \\mathrm { H V } 6 8 . \\mathrm { R e v } )$ were digested with BamHI and analyzed by agarose gel electrophoresis.Arrow indicates the fragment that was cleaved by BamHI within the kGPCR gene. (B) The kGPCR locus was PCR amplified and sequenced. Region flanking the start codon was shown for all three recombinant $\\gamma \\mathrm { H V } 6 8$ (C) Summary of the ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "point mutations within the $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R }$ in comparison to $\\gamma \\mathrm { H V } 6 8 . \\mathrm { w t }$ and reference γHV68 genome (accession number: U97553). (D) NIH 3T3 fibroblasts were infected with wild-type $\\gamma \\mathrm { H V } 6 8$ or $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R }$ $\\begin{array} { r } { ( \\mathrm { M O I } = 1 \\dot { } } \\end{array}$ ). Cells were harvested at indicated time points and total RNA was extracted.Total RNA was used to prepare cDNA that was analyzed by real-time PCR with primers specific for indicated genes.All p values were calculated in reference to the control $\\gamma \\mathrm { H V } 6 8$ wild-type group, $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$ ：   \n(TIF) S2 Fig.Persistent infection of wild-type $\\pmb { \\gamma } \\mathbf { H } \\mathbf { V 6 8 }$ and γHV68.kGPCR.Mouse splenocytes were harvested at 16 and 45 days post-infection. Splenocytes were lysed mechanically and incubated with MEFs to allow plaque formation, which assesses preformed virion particles (disrupted).   \n(TIF) S3 Fig. Angiogenic lesions induced by recombinant $\\gamma \\mathbf { H V 6 8 }$ .kGPCR. Subcutaneous angio genic tumors were analyzed by immunohistochemistry staining with indicated antibodies. (A) kGPCR expression in angiogenic tumors of the subcutaneous compartment. (B-D) Tumor sections were analyzed by IHC staining with antibodies against CD31 (B),Ki-67 (C) and IBA-1 (D). Scale bars denote $4 0 \\mu \\mathrm { m }$ ：   \n(TIF) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "S4 Fig. Specificity of antibodies against $\\pmb { \\gamma } \\mathbf { H V 6 8 }$ LANA and vGAT.Purified antibodies against LANA (A) and vGAT(C) were analyzed by immunofluorescence staining using mockand $\\boldsymbol { \\gamma } \\mathrm { H V } 6 8$ -infectedNIH3T3 cells.Whole cell lysates of $\\boldsymbol { \\gamma } \\mathrm { H V } 6 8$ -infectedNIH3T3cellswere analyzed by immunobloting with antibodies against LANA (B) and vGAT (D). (TIF) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "S5 Fig. Effect of cyclosporine A on lytic replication of recombinant $\\gamma \\mathbf { H V 6 8 }$ NIH 3T3 cells were infected with wild-type γHV68 (A and B) or $\\gamma \\mathrm { H V } 6 8 . \\mathrm { k G P C R }$ (C and D) at MOI of 1, without or with cyclosporine A(0.5 or $1 . 5 \\mu \\mathrm { M } \\AA )$ .Supernatant and cells were harvested,frozen/ thawed three times and centrifuged supernatant was used to determine the titer of recombinant $\\gamma \\mathrm { H V } 6 8$ by plaque assay.   \n(TIF)   \nS6 Fig.Immunohistochemistry staining of human Kaposi's sarcoma. Human Kaposi's sar  \ncoma lesions were stained with antibodies against the KSHV latency-associated nuclear antigen   \n(LANA) (A), CD31 (B),Ki-67 (C),CD3 (D) and IBA-1 (E).For (D),the boxed region was   \namplified and shown on the right. Scale bars denote $4 0 \\mu \\mathrm { m }$   \n(TIF) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "We thank Ms. Yuqi Wang and Mr. Jackson Cabo for technical support,Dr.Philip Stevenson for providing the NIH 3T3/Cre cels,and Ms.Lily Yang for H&E and immunohistochemistry staining.We also thank Dr. Isaac Rodrigues-Chavez (NIDCR) for valuable discussion on GPCR-induced tumor formation. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Conceived and designed the experiments: JZ LZ SAT PF. Performed the experiments: JZ LZ XL ERF LRK YW JS. Analyzed the data: JZ LZ XL HFe ZX TJ SAT PF.Contributed reagents/materials/analysis tools: JZ LZ XL YW HFa ZX SjG SAT PF.Wrote the paper: JZ LZ SAT PF. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "References 1. Chang Y,Cesarman E,Pessin MS,Lee F,CulpepperJ,et al.(1994)Identificationof herpesvirus-like DNA sequences in AIDS-associated Kaposi's sarcoma. Science 266: 1865-1869.PMID: 7997879   \n2.Cesarman E,Chang Y,Moore PS,Said JW,Knowles DM(1995) Kaposi's sarcoma-associated herpesvirus-like DNA sequences in AIDS-related body-cavity-based lymphomas.N Engl JMed 332:1186- 1191. PMID: 7700311   \n3.SoulierJ,GrolletLOksenhendlerE,CacoubP,Cazals-Hatem D,etal. (1995)Kaposi'ssarcoma-associated herpesvirus-like DNA sequences in multicentric Castleman's disease.Blood 86: 1276-1280. PMID:7632932   \n4. Nador RG,Cesarman E, Knowles DM,Said JW(1995) Herpes-like DNA sequences in abody-cavitybased lymphoma in an HIV-negative patient.N Engl J Med 333: 943.   \n5. Staskus KA,Zhong W,Gebhard K, HerndierB,Wang H,et al. (1997) Kaposi's sarcoma-associated herpesvirus gene expression in endothelial (spindle) tumor cells.J Virol 71: 715-719.PMID: 8985403   \n6. Kirshner JR, Staskus K, Haase A,Lagunoff M, Ganem D (1999) Expression of the open reading frame 74 (G-protein-coupled receptor) gene of Kaposi's sarcoma (KS)-associated herpesvirus:implications for KS pathogenesis.JVirol 73: 6006-6014. PMID: 10364352   \n7. GanemD (2006) KSHV infection and the pathogenesis of Kaposi's sarcoma.Annu Rev Pathol 1: 273- 296. PMID: 18039116   \n8. Speck SH, Ganem D (2010) Viral latency and its regulation: lessons from the gamma-herpesviruses. Cell Host Microbe 8: 100-115. doi: 10.1016/j.chom.2010.06.014 PMID: 20638646   \n9. Chang H,Wachtman LM,Pearson CB,Lee JS,Lee HR,et al. (20o9) Non-human primate model of Kaposi's sarcoma-associated herpesvirus infection. PLoS Pathog 5: e1000606.doi: 10.1371/journal. ppat.1000606 PMID: 19798430   \n10.Austgen K,Oakes SA, Ganem D (2012) Multiple defects,including premature apoptosis,prevent Kaposi's sarcoma-associated herpesvirus replication inmurine cels.JVirol 86:1877-1882.doi:10.1128/ JVI.06600-11 PMID: 22130538   \n11. Ditmer D,Stoddart C,Renne R,Linquist-Stepps V,Moreno ME,etal.(1999)Experimental transmissionof Kaposi's sarcoma-associated herpesvirus (KSHV/HHV-8)to SCID-hu Thy/Liv mice.JExp Med 190:1857-1868.PMID:10601360   \n12. Ballon G,Chen K,Perez R,Tam W,Cesarman E(2011) Kaposi sarcoma herpesvirus (KSHV) vFLIP oncoprotein induces B cell transdifferentiation and tumorigenesis in mice.J Clin Invest 121: 1141- 1153. doi: 10.1172/JCI44417 PMID: 21339646   \n13. Fakhari FD,Jeong JH, Kanan Y,Dittmer DP (20o6)The latency-associated nuclear antigen of Kaposi sarcoma-associated herpesvirus induces B cell hyperplasia and lymphoma.JClin Invest 116:735- 742.PMID:16498502   \n14.MontanerS,Sodhi A,MolinoloA,Bugge TH,Sawai ET,etal. (20o3)Endothelial infection with KSHV genes in vivo reveals thatvGPCR initiates Kaposi's sarcomagenesis and can promote the tumorigenic potential of viral latent genes. Cancer Cell 3: 23-36.PMID:12559173   \n15. Yang TY,Chen SC,Leach MW,Manfra D,Homey B,etal. (20oo) Transgenic expression of the chemokinereceptor encoded by human herpesvirus 8 induces anangioproliferative disease resembling Kaposi's sarcoma.JExp Med 191: 445-454.PMID:10662790   \n16．HolstPJ,Rosenkilde MM,Manfra D,Chen SC, Wiekowski MT,etal. (2001)Tumorigenesis induced by the HHV8-encodedchemokine receptor requires ligand modulation of high constitutiveactivity. JClin Invest 108:1789-1796.PMID:11748262   \n17.Moore PS,Boshoff C,Weiss RA,Chang Y(1996) Molecular mimicry of human cytokine and cytokine response pathway genes by KSHV.Science 274: 1739-1744. PMID: 8939871   \n18. Virgin HWt, Latreile P,Wamsley P, Hasworth K,Weck KE,et al. (1997) Complete sequence and genomic analysis of murine gammaherpesvirus 68.JVirol 71: 5894-5904. PMID: 9223479   \n19. Doherty PC,Christensen JP,Belz GT,Stevenson PG, Sangster MY (2001) Dissecting the host response to a gamma-herpesvirus.Philos Trans R Soc Lond B Biol Sci 356: 581-593.PMID: 11313013   \n20. Tarakanova VL,SuarezF,Tibbets SA,Jacoby MA,Weck KE,etal. (2005) Murine gammaherpesvirus 68 infection is associated with lymphoproliferative disease and lymphoma in BALB beta2 microglobulin-deficient mice.JVirol 79:14668-14679. PMID:16282467   \n21.Dorsam RT, Gutkind JS (2007) G-protein-coupled receptors and cancer. Nat Rev Cancer 7: 79-94. PMID: 17251915   \n22. Arvanitakis L, Geras-Raaka E, Varma A, Gershengorn MC,Cesarman E(1997) Human herpesvirus KSHV encodes_aconstitutively active G-protein-coupled receptorlinked to cellproliferation. Nature 385:347-350.PMID: 9002520   \n23. Bais C,Santomasso B,Coso O,Arvanitakis L,Raaka EG,etal. (1998) G-protein-coupled receptorof Kaposi's sarcoma-associated herpesvirus is a viral oncogene and angiogenesis activator. Nature 391: 86-89.PMID: 9422510   \n24. Geras-Raaka E,Varma A, Ho H,Clark-Lewis I, Gershengorn MC (1998) Human interferon-gammainducible protein10 (IP-10) inhibits constitutive signaling of Kaposi's sarcoma-associated herpesvirus G protein-coupled receptor.JExp Med 188: 405-408.PMID: 9670053   \n25. Gershengorn MC, Geras-Raaka E,Varma A, Clark-Lewis I(1998) Chemokines activate Kaposi's sarcoma-associated herpesvirus G protein-coupled receptorin mammalian cells in culture.JClin Invest 102: 1469-1472. PMID: 9788958   \n26. Ho HH,Du D, Gershengorn MC (1999) The N terminus of Kaposi's sarcoma-associated herpesvirus G protein-coupled receptor is necessary for high affnity chemokine binding but not for constitutive activity. J Biol Chem 274:31327-31332.PMiD:10531332   \n27．Lee BJ, Koszinowski UH,Sarawar SR,Adler H (2003)A gammaherpesvirus G protein-coupled receptorhomologue is required for increased viral replication in response to chemokinesand effcient reactivation from latency. JImmunol 170: 243-251.PMID: 12496406   \n28. Cannon M, Philpott NJ, Cesarman E (2003) The Kaposi'ssarcoma-associated herpesvirus G proteincoupled receptor has broad signaling effects in primary effusion lymphoma cells.JVirol 77: 57-67. PMID: 12477810   \n29. Martin D, Galisteo R,JiY,Montaner S,Gutkind JS (2008) An NF-kappaB gene expression signature contributes to Kaposi's sarcoma virus vGPCR-induced direct and paracrine neoplasia. Oncogene 27: 1844-1852.PMID:17934524   \n30. Feng H,Dong X,NegaardA,Feng P(2oo8) Kaposi'ssarcoma-associated herpesvirus K7 induces viral G protein-coupled receptor degradation and reduces its tumorigenicity.PLoS Pathog 4: e1000157. doi: 10.1371/journal.ppat.1000157 PMID: 18802460   \n31． Zhang J, He S,Wang Y,Brulois K,Lan K,etal. (2015) Herpesviral G protein-coupled receptorsactivate NFAT to induce tumor formation via inhibiting the SERCA calcium ATPase. PLoS Pathog 11: e1004768. doi: 10.1371/journal.ppat.1004768 PMID:25811856   \n32. Sodhi A, Chaisuparat R, Hu J, RamsdellAK, Manning BD,et al. (2006) The TSC2/mTOR pathway drives endothelial cel transformation induced by the Kaposi's sarcoma-associated herpesvirus G protein-coupled receptor. Cancer Cell 10: 133-143.PMID:16904612   \n33. Mutlu AD,CavalinLE, Vincent L, ChiozziniC,Eroles P,etal. (2O07) In vivo-restricted and reversible malignancy induced by human herpesvirus-8 KSHV:acelland animal model of virally induced Kaposi's sarcoma.Cancer Cell 11: 245-258.PMID:17349582   \n34. Nealy MS, Coleman CB,Li H,Tibbetts SA (2010) Use of a virus-encoded enzymatic marker reveals thatastable fraction of memory B cels express LANA throughout chronic gammaherpesvirus infection. J Virol.   \n35. Tibbetts SA,Loh J,Van Berkel V,McClellan JS,Jacoby MA,etal.(2003) Establishmentand maintenance of gammaherpesvirus latency are independent of infective dose and route of infection.J Virol 77: 7696-7701. PMID: 12805472   \n36. Collins M,Ling V,Careno BM(2005)The B7 familyof immune-regulatoryligands.Genome Biol 6: 223.PMID:15960813   \n37. Ensoli B, Sirianni MC (1998) Kaposi's sarcoma pathogenesis:a link between immunology and tumor biology. Crit Rev Oncog 9: 107-124.PMID: 9973245   \n38. Dong X,Feng P (2011) Murine gamma herpesvirus 68 hijacks MAVSand IKKbeta to abrogate NFkappaB activation and antiviral cytokine production. PLoS Pathog 7: e1002336. doi: 10.1371/journal.ppat. 1002336 PMID:22110409   \n39. Feng H,Sun Z,Farzan MR,Feng P (2010) Sulfotyrosines of the Kaposi's sarcoma-associated herpesvirus G protein-coupled receptor promote tumorigenesis through autocrine activation.JVirol 84: 3351- 3361.doi: 10.1128/JVI.01939-09 PMID: 20106924   \n40. Sandford G, Choi YB, Nicholas J(2009) Role of ORF74-encoded viral G protein-coupled receptor in human herpesvirus 8 lytic replication.JVirol 83: 13009-13014. doi: 10.1128/JVI.01399-09 PMID: 19793819   \n41. Bottero V,Sharma-WaliaN,KerurN,PaulAG,Sadagopan S,etal.(20o9)Kaposi sarcoma-associated herpes virus (KSHV) G protein-coupled receptor (vGPCR) activates the ORF50 lytic switch promoter: a potential positive feedback loop for sustained ORF50 gene expression.Virology 392: 34-51.doi: 10. 1016/j.virol.2009.07.002 PMID: 19640558   \n42.TacconiD,Vergori A,LapiniL,MagnolfiA,Carnevali A,etal. (2012) Hepatic Kaposi's sarcomaina patientaffected by AIDS: Corelation between histology and imaging.JUltrasound 15: 215-219.doi: 10.1016/j.jus.2012.10.004 PMID:23730384   \n43. Sterling RK,HerbenerTE,Jacobs GH,Post AB,Carey JT,etal.(1997) Multifocal hepatic lesions in AIDS:an unusual presentation of steatosis.Am J Gastroenterol 92: 1934-1936.PMID: 9382073   \n44. Luburich P,Bru C,Ayuso MC,Azon A,Condom E(1990) Hepatic Kaposi sarcoma in AIDS: US and CT findings.Radiology 175:172-174.PMID:2179988   \n45. Micheleti AR, Macedo AC,Silva GB,Silva AC,Silva-Vergara ML,etal. (2011) Benign and malignant neoplasias in 261 necropsies for HIV-positive patients in the periodof 1989 to 2008.Rev Inst Med Trop Sao Paulo 53:309-314.PMID:22183453   \n46. Sica A,LarghiP,Mancino A,Rubino L,Porta C,etal.(20o8) Macrophage polarizationin tumour progression. Semin Cancer Biol 18: 349-355.doi: 10.1016/j.semcancer.2008.03.004 PMID: 18467122   \n47. Feng P,Scott CW,Cho NH,Nakamura H,Chung YH,etal. (2004) Kaposi's sarcoma-associated herpesvirus K7protein targets a ubiquitin-like/ubiquitin-associated domain-containing protein to promote protein degradation.Mol Cell Biol 24: 3938-3948.PMID:15082787   \n48. Feng P,Everly DNJr.,Read GS (2001) mRNA decay during herpesvirus infections: interaction between a putative viral nuclease and a cellular translation factor.JVirol 75:10272-10280.PMID: 11581395   \n49. lzumiyaY,Kobayashi K,KimKY,PochampaliM,lzumiya C,etal. (213)Kaposi'ssarcoma-associated herpesvirus K-Rta exhibits SUMO-targeting ubiquitin ligase (STUbL)like activityand is essential for viral reactivation.PLoS Pathog 9: e1003506.doi: 10.1371/journal.ppat.1003506 PMID: 23990779   \n50. Paden CR,Forrest JC,Tibbetts SA, Speck SH(2012) Unbiased mutagenesis of MHV68 LANA reveals a DNA-binding domain required for LANA function in vitro and in vivo.PLoS Pathog 8: e1002906.doi: 10.1371/journal.ppat.1002906 PMID: 22969427   \n51. He S,ZhaoJ,Song S,HeX,MinassianA,etal.(2015)Viral pseudo-enzymes activate RIG-lviadeamidation to evade cytokine production.Mol Cell58:134-146.doi: 10.1016/j.molcel.2015.01.036 PMID: 25752576   \n52. Feng P,Park J,Lee BS,Lee SH,Bram RJ,etal. (20o2) Kaposi's sarcoma-associated herpesvirus mitochondrial K7 protein targets acellular calcium-modulating cyclophilin ligandto modulate intracelllar calcium concentration and inhibit apoptosis.JVirol 76:11491-11504.PMlD:12388711   \n53. Wang Y,Lu X,ZhuL,Shen Y,Chengedza S,etal. (2013) IKK epsilon kinase is crucial for viral G protein-coupled receptor tumorigenesis.Proc Natl Acad SciUS A 110:11139-11144.doi: 10.1073/pnas. 1219829110 PMID:23771900   \n54.Smith GA,EnquistLW(1999)Constructionand transposon mutagenesis in Escherichia coliof afulllength infectious clone of pseudorabies virus,an alphaherpesvirus.JVirol 73: 6405-6414.PMID: 10400733 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    }
+]

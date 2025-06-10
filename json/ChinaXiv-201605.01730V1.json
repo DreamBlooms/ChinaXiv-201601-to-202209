@@ -1,0 +1,378 @@
+[
+    {
+        "type": "text",
+        "text": "Glycomic profiling of carcinoembryonic antigen isolated from human tumor tissue ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chuncui Huang',Tiancheng Zhan²,Yaming Liu',Qianqian Li',Hongmei Wu',Dengbo Ji²and Yan Li1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background: Carcinoembryonic antigen (CEA)is a protein commonly found in human serum,with elevated CEA levels being linked to the progression of a wide range of tumors.It is currently used as a biomarker for malign tumors such as lung cancer and colorectal cancer[Urol Oncol: Semin Orig Invest 352: 644-648,2013 and Lung Cancer 80: 45-49,2013].However,due toitslowspecifityinclinical applications,CEAcanbe used formonitoring only,rather thantumor diagnosis.Thefunctionof many glycoproteins is criticalldependentontheir glycosylation patern,which inturn has thepotentialtoserve intumordetection.However,itleisknownaboutthedetailed glycan patterns of CEA. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methods:To determine these patterns, we isolated and purified CEA proteins from human tumor tissues using immunoaffinity chromatography.The glycan patterns of CEA were then analyzed using a Matrix-Assisted Laser Desorption/lonization-Time of Flight-Mass Spectrometry³ (MALDl-TOF-MS3)approach. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results:We identified 61 glycoforms in tumortissue,where CEA is upregulated.These glycosylation entities were identified as bi-antennary,tri-antennaryand tetra-antennarystructurescarrying sialicacidandfucose residues,and include a multitude of glycans previously not reported for CEA. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusion: Our findings should facilitate a more precise tumor prediction than currently possible,ultimately resulting in improved tumor diagnosis and treatment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Carcinoembryonic antigen,Glycan profiling,MALDl-TOF-MS³ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Human Carcinoembryonic Antigen (CEA) is a glycoprotein that is expressed during embryonal development [1].It was identified in human cancer tissues,and is now known to be related to the progression of tumors [2,3].As a tumor marker, CEA has been utilized in the monitoring of tumor, judgment of neoplasm staging,as well as prediction of tumor recurrence [4].However, further investigation revealed that detection of this antigen alone is not suffciently specific for tumor diagnostics. Therefore,improvement in specificity of CEA detection remains a challenge for clinical tumor diagnosis [5]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The proper functioning of glycoproteins is directly related to the nature of their carbohydrate moiety changes in protein，and dysregulation of glycosylation patterns appears to play a crucial role in the pathogenesis and progression of various diseases. It was reported that an increase in fucosylation and formation of new glycan antennae are characteristic featuresof carbohydrate chains that appears to associate with the occurrence of related diseases [6].For example,core fucosylation (CF)-glycosylation of an $\\alpha$ -fetoprotein isoform (AFP-L3) was approved asa biomarker of hepatocellular carcinoma (HCC) by US Food and Drug Administration (FDA)[7].Similar to AFPL3,the use of CEA glycoprotein pattern has the potential to improve the specificity of tumor diagnosis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CEA contains 28 potential N-liked glycosylation sites, and the glycofraction includes mannose,galactose, N-acetylglucosamine,fucose and sialic acid [8].The glycan composition of CEA displays a considerable heterogeneity in the sugar content of the antenna,but detailed structures of these glycans have so far not been reported [9].One earlier study identified the core structures of CEA oligosaccharides and proposed that CEA contained approximate $4 0 ~ \\mathrm { N }$ -linked oligosaccharide chains [1o]. In a recent study,approximate $2 5 ~ \\mathrm { N }$ -linked carbohydrate structures of CEA were determined,and complex-type and high mannose-type carbohydrate chains were analyzed [9]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Various techniques are currently in use to analyze glycans,including liquid chromatography (LC), lectin microarray，exoglycosidases digestion，capillaryelectrophoresis (CE)and MALDI-TOF-MS\".Methods involving LC and exoglycosidase digestion require large amounts of sample material,and are therefore not suitable forclinical application.In addition，specific glycan structures cannot be obtained by lectin microarray analysis to investigate carbohydrate moieties.Moreover, standard and purified glycans are required for CE analysis.Except for MALDI-TOF-MSn, all of the methods for structure analysis of CEA glycans mentioned above are sample/standard-consuming as well as cost-intensive.More importantly，specific glycan structures of CEA have not been entirely resolved.In contrast, MALDI-TOF-MS\" is both sensitive and can be used in high through-put mode.Furthermore,uncertain fragments of glycans can be further decomposed until specific and detailed structures are obtained.As a result, components, sequence and branches of glycans can be specifically obtained byusing MALDI-TOF-MSn.In order to investigate glycan structures of humanized CEA，we first extracted CEA from colon tumor using monoclonal anti-CEA coupled to activated Sepharose 4B.Glycan structures of extracted CEA were then analyzed using MALDI-TOF-MS, which allowed for sensitive identification of a multitude of previously unknown glycan structures. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Trihydroxymethylaminomethane, sodium chloride， sodiumdeoxycholate， sodium dodecyl sulfate， disodium hydrogen phosphate，sodium phosphate monobasic sodium carbonate，hydrochloric acid，ammonium bicarbonate，sodium hydroxide，standard peptides，glycine, ethanolamine,propanol,DL-dithiothreitol (DTT),iodoacetamide (IAA)，cyanogens bromide,acetic acid and phosphate buffer were purchased from Sigma-Aldrich. Acetonitrile,ethanol and water were of analytical grade and obtained from Avantor Performance Materials,Inc. (PA，USA).Mouse anti-CEA antibody was purchased from ZSG-BIO (Beijing, China). Trypsin and peptide Nglycosidase F (PNGase F) were purchased from Promega Corporation (WI，USA). $\\mathrm { { C _ { 1 8 } } }$ -Sep-Pak cartridges were obtained from Waters Corporation (MA，USA).Clinical samples of rectum loops from patients with colorectal carcinoma were provided by Beijing Cancer Hospital. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CEA extraction and purification ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Colorectal carcinoma tissue was placed on ice,and blood was washed off using O.O1 M PBS buffer.Adiposetissue was cut into pieces and RIPA lysis buffer( $\\mathrm { 0 . 1 5 ~ g }$ Tris, $0 . 4 3 8 \\mathrm { ~ g ~ N a C l }$ ， $0 . 0 5 \\mathrm { ~ g ~ N a O H }$ $0 . 5 \\mathrm { ~ g ~ }$ sodiumdeoxycholate, and $0 . 0 5 \\mathrm { ~ g ~ } \\operatorname { S D S } ,$ ）was added to the tissue pieces. The mixture was grinded into homogenate in a tissue grinder. All the tissue homogenate was ultrasonically decomposed thoroughly in the lysis buffer. Then the tissue homogenate was centrifuged at ${ \\bf 4 0 0 0 \\ { \\bf g } , }$ and the supernatant was kept on ice, at $- 8 0 ^ { \\circ } \\mathrm { C }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sepharose 4B stored in $20 \\%$ ethanol was applied onto a cartridge,and activated with cyanogens bromide solution in the presence of 2M $\\mathrm { N a _ { 2 } C O _ { 3 } }$ .Mouse anti-CEA was mixed and conjugated with the activated gel on the cartridge overnight at $4 ^ { \\circ } \\mathrm { C }$ ，Remaining activated groups were blocked with $0 . 2 \\ \\mathrm { M }$ ethanolamine $\\mathrm { ( p H ~ 7 \\sim 8 ) }$ ，and any excess of uncoupled proteins were washed off by PBS buffer $\\mathrm { ( p H = 7 . 4 ) }$ for three times. $0 . 5 ~ \\mathrm { m L }$ of supernatant of the homogenate was fractionated overnight at $4 ^ { \\circ } \\mathrm { C }$ using an anti-CEA immunoadsorbent cartridge. Target CEA was eluted from the cartridge using $0 . 1 \\mathrm { ~ M ~ }$ glycine-HCl $\\left( \\mathrm { p H 2 . 4 } \\right)$ after washing with PBS buffer three times.The purity of eluted CEA was confirmed using sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE,see Fig. 1b).Afterwards,the concentration of eluted CEA was determined using an enzyme-linked immunoadsorbent assay (ELISA). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "N-glycan release ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Purified CEA was first reduced and carboxymethylated in the presence of DTT and IAA followed by dialysis in $5 0 ~ \\mathrm { m M }$ Ambic buffer for $2 4 { - } 4 8 \\mathrm { ~ h ~ }$ at $4 ^ { \\circ } \\mathrm { C }$ Glycoproteins were further incubated at $3 7 ^ { \\circ } \\mathrm { C }$ overnight to be cleaved into glycopeptides by tryptic digestion.First, the Sep-Pak® $\\mathrm { C _ { 1 8 } }$ cartridge was conditioned with methanol, $5 \\%$ acetic acid and the $100 \\%$ propan-1-ol,and then glycopeptide samples were applied to the cartridge.Second, samples were eluted stepwise with $20 \\%$ propan-1-ol solution and $40 \\%$ propan-1-ol solution.Third,the propanol Sep-Pak fractions were digested at $3 7 ^ { \\circ } \\mathrm { C }$ for $2 0 { - } 2 4 \\mathrm { ~ h ~ }$ using PNGase F. Separation of the N-glycans from the mixtures was conducted usinga Sep-Pak? $\\mathrm { C _ { 1 8 } }$ propanol/ $5 \\%$ acetic acid system.Finally，permethylation and subsequent purification were performed according to previously described [11]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Structure analysis of N-linked glycans released from extracted CEA ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fractions of N-linked glycan mixtures from extracted CEA were analyzed using an Axima MALDI Resonance mass spectrometer (Shimadzu).A nitrogen laser was used to irradiate samples at $3 3 7 ~ \\mathrm { n m }$ ，and an average of 200 shots was taken. An aqueous solution of N-linked oligosaccharide mixture (ca. $1 0 0 \\mathrm { p m o l }$ 5 $0 . 5 ~ \\mu \\mathrm { L }$ ）wasapplied to a μfocus MALDI plate target $( 9 0 0 ~ \\mu \\mathrm { m } ,$ 384 circles,HST Inc.)．A solution $( 0 . 5 ~ \\mu \\mathrm { L } )$ of 2,5-dihydroxybenzoic acid (DHB, $2 0 ~ \\mathrm { m g / m L }$ ）ina mixture of methanol-water (1:1) containing $0 . 1 \\%$ trifluoroacetic acid(TFA)and $1 \\mathrm { m M } \\mathrm { N a } ^ { + }$ were added to the plate,and then mixed with oligosaccharides.Finally， the mixture was exposed to air at room temperature until dry. During MS,the ion peaks were calibrated using a mixture of standard peptides as mass markers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c856fd799ba90ea998da898090fab8986641af154d5303741040803a8216a3d6.jpg",
+        "img_caption": [
+            "Fig.1ScemeofEAetractiondpurficatio()andaalysisofCEandmolculaweigtmarkers(b)ansofdb representmolecularweightmarkers,CEAstandardand extracted CEAfromcolorectal carcinomapatients respectively "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CEA level extracted ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to analyze the glycan moieties of CEA,we first isolated and purified CEA protein by immunoadsorption from human tumor tissues.CEA antibodies were first covalently coupled to Sepharose beads,to then allow target CEA to be precipitated,before it was eluted from the cartridge (Fig.la).Non-specific binding,resulting in low signal-to-noise-ratio,was avoided through covalent coupling of CEA antibodies.The concentration of eluted CEA was determined using an ELISA method. Using a standard curve (Fig.2),we estimated that our procedure yielded approximate 12 ng CEA glycoproteinsper $4 0 0 ~ \\mathrm { { m g } }$ of colorectal carcinoma tissue used. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Analysis of N-linked glycan structures of extracted CEA To investigate the specific glycan structures present in CEA,we analyzed our samples using MALDI-TOF- ${ \\mathrm { \\cdot } } { \\mathrm { M } } { \\mathrm { S } } ^ { 3 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We detected the presence of 61 unique glycans in the extracted CEA. These glycans were detected without further separation,and were found to be all linked to asparagine (see Fig.3and Additional file1: Table S1).In addition，the proposed N-glycan assignments for all peaks are shown.First,we analyzed the terminal structures of glycans of CEA.Furthermore，MS/MS/MS analysis of the assigned glycans was performed (see Additional file 2:Figures S1-S61).The spectra showed that of the 61 glycan moieties,6 N-linked glycans were ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/403f8d7e0f2616d1b1c3db582e27e9fafb426ee7a94d358bb21c16946f8dc405.jpg",
+        "img_caption": [
+            "Fig.2 Calibration curve of standard CEA using ELISA "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) 1000-1600Da 108九   \nsuetu 6 50 40   \n% 30 ■ 20 10 0] 550 1600 1650   \n(b) 10000   \nAsueau% 807060 504030 100 Jdu   \n(c) 1850-3000Da 1088   \n% 30 : -::: x 20100 0 900 2000 2100 2200 2300 2400 2500 2700 2800   \n(d) 8 807   \nsu% 20 10 0 3000   \n(e) 3900-5000Da +   \n888% 中业空 天 10 0 3900 000 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "of high mannose-type,23 were of bi-antennary structure,14 were of a tri-antennary structure,and 17 were of tetra-antennary structure.Interestingly，one glycan withhybrid structure was determined as well. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As expected,more than half of the 61 N-linked glycans contained one or two residues of sialic acid attached to the terminal galactosyl group.Intriguingly, more than half of these glycans contained as many as two residues of fucose.These fucose molecules were linked eitherto a reducing terminal N-acetylglucosaminide,ora non-reducing end of the glycans.In addition, $2 3 ~ \\mathrm { N }$ -linked glycans were found to contain both sialic acid and fucose residues.Interestingly, $2 3 ~ \\mathrm { N }$ -linked glycans contained a SialylLewis\\* terminal structure,thus accounting for approximate $38 \\%$ of all glycan moieties determined. The presence and determined level of SialylLewisx structure are inagreement with those reported in earlier studies，where SialylLewisx was identified as a cancer marker[12]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Second,we investigated the core structures of the CEA glycan moeties. 31 CEA glycans (approximate $5 0 \\%$ ）contained core fucosylation.During core fucosylation,fucose is transferred from guanosinediphosphatefucose (GDP-Fuc) to the innermost GlcNAc catalyzed by core fucosyltransferase [7].Similar to SialylLewis\",these results are in agreement with the literature describing core fucosylation as a cancer marker[13,14].In conclusion,our method is sensitive,and can be used for glycan detection of clinical samples.Our analysis indicated that tumor CEA proteins contain high levels of glycan structures such as SialylLewisX and core fucosylation，which have previously been associated with tumor tissue. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion and conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We identified 61 different glycosylated forms of CEA in the tumor samples analyzed.These structures included bi-antennary， tri-antennary and tetra-antennary structures carrying sialic acid and fucose residues.In addition, we showed that the presence of SialylLewisx and core fucosylation structures could facilitate the specificity improvement of CEA for cancer detection. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Glycan structures ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Glycans possess several important features,including the ability of different types and numbers of sugar residues to form glycosidic bonds with one another, the type of anomeric linkage,the position and the absence or presence of branching.Together, these characteristics give rise to the complex heterogeneity in living systems. If some of these characteristics change,transformation of cells or tissues may occur. Therefore,glycan structure analysis should greatly improve the specificityand sensitivity of potential biomarkers that at present are not sufficiently specific for clinical tumor diagnosis.Currently，detection of CEA is not specific enough for adequate diagnosis of colonic neoplasia，and therefore CEA levels are only monitored as a prognostic indicator therapy response. Investigation of CEA glycans structures such as SialylLewisx units and fucosylation levels will greatly contribute to a more specific diagnosis of colorectal carcinoma. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The determined SialylLewisX structure here is in agreement with previous studies that reported the presence of SialylLewisx in malignancies [15-22]. SialylLewisx is an adhesion molecule present on O-and N-linked oligosaccharides,and is therefore of great significance in cell-cell recognition [23]. Importantly, SialylLewisX is thought to be associated with metastatic ability of tumor cells,and has the potential to be used as a marker for pathological tumor extensiveness，e.g.，nodal extension or distant metastasis [24].It was reported earlier that SialylLewisx isa tumor-specific glycan marker used for tumor staging，prognosis and progression,and was found to be associated with proteins such as alpha 1-acid glycoprotein, CD66,and MUC7 [25-28].It has also been demonstrated that SialylLewisX is present at elevated levels in primary breast carcinoma [29]. Fucosylation levels increased significantly when malignant transformation occurred in the tissue cells.It has been proved that core-fucosylation is involved in the regulation of many biological processes in mammals. Abnormal corefucosylation was previously reported to be involved in human pathological processes,such as metastasis [7]. However, few reports exist that tested the use of SialylLewisx and core-fucosylation as tumor markers for colorectal carcinoma.Based on our results here，the SialylLewisX and core-fucosylation structures do present in CEA protein extracted from colon carcinomas tissues. The results of our present study indicate that determined levels of SialylLewisx and core fucosylation of CEA proteins could be useful and specific indicators for colorectal carcinoma. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CEA samples from human ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CEA samples from human rather than recombinant proteins are essentially required to improve the diagnostic specificity of CEA for cancer detection in clinical application. Biological synthesis of glycan chains is a nontemplate and complicated process，and this metabolic pathway cannot be controlled as accurately as nucleic acid and proteins.Moreover,synthesis and rupture of glycosidic bonds are controlled by either glycosyltransferase or hydrolase in endoplasmic reticulum and Golgi apparatus,and these processes are extraordinarily nondeterministic.Glycan structures in recombinant proteins may be different from glycan structures synthesized via the mentioned process in the endoplasmic reticulum and Golgi apparatus of glycoproteins extracted from human patients. Consequently， CEA samples from human patients are necessary for studies about clinical application.In the present study，CEA samples were extracted and purified from patients,thus the harvested glycan structures represent exactly those synthesized in biological systems.Therefore，the determined glycan structures should assist greatly in improving the specificity of cancer diagnosis in clinical application. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Analysis method ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CEA concentrations in human samples are in the level of $\\mathrm { n g / m L }$ ，and it is therefore necessary to use highly sensitive detection methods for the analysis of its glycosylation patterns.MALDI-TOF-M method possesses a much higher sensitivity compared to those reported previously for CEA glycan analysis.In a previous study that used limited exoglycosidase digestion and methylation analysis，the amount of CEA proteins required was almost $1 0 ~ \\mathrm { \\ m g }$ for glycan analysis [8].In the present study, only $5 ~ { \\mu \\mathrm { g } }$ of CEA proteins were required for one spot on the MALDI plate,indicating that our method is sensitive,with the amount of material required being three magnitudes lower. In addition, permethylation of released glycans were optimized in this study,and the experiment time was shortened without effect on results. All the structures of N-linked glycans were obtained and analyzed using MALDI-TOF- ${ \\mathrm { \\cdot } } { \\mathrm { M } } { \\dot { \\mathrm { S } } } ^ { 3 }$ in about $6 0 ~ \\mathrm { { m i n } }$ after glycans were released from CEA proteins. The procedure of glycans release in this study was mainly composed of tryptic digestion,N-Glycosidase F digestion and the necessary clean-up of products by Sep-Pak purification steps respectively.However, the reported routine procedures of glycans release and structure analysis of glycan moieties of CEA proteins often include multistep enzyme digestion, liberation of glycans and complicated methylation analysis [9,1O].Therefore,short analysis time and simple treatment process contributed to high through-put of current methods,especially when multiple clinical samples were required to be analyzed rapidly.The limitation of our method presented here is that linkage information of glycans could not be obtained,apart from branch and sequence information. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Nevertheless,we believe that information about composition,branch architecture and sequences of the CEA glycan moieties should be suficient to improve the specificity of CEA to allow its use as a colon tumor marker. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A method including extraction,purification of glycoprotein CEA from tumor tissue,and characterization of CEA glycans structures was developed. Sixty-one unique oligosaccharides were obtained,and structures of these glycans were investigated. The presented methodology should greatly assist further study of CEA proteins and its application as a specific colon tumor marker, and glycans signatures may become useful markers for the distinction of cancers. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Additional files ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Additional file1: Table S1. N-glycans harvested from CEA of colorectal carcinoma patients. Additional file 2: Supporting Information (Figures S1-S61). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CEA: Carcinoembryonic antigen; MALDl-TOF-MS':Matrix-Assisted Laser Desorption/lonization-Time of Flight-Mass Spectrometry”; CF: Core fucosylation; HCC: Hepatocellular carcinoma; FDA: US Food and Drug Administration; LC: Liquid chromatography; CE: Capillary electrophoresis; DTT: DL-Dithiothreitol; IAA: lodoacetamide; PNGase F: Peptide N-glycosidase F; ELISA: Enzyme-linked immunoadsorbent assay; DHB:2,5-Dihydroxybenzoic acid; TFA: Ttrifluoroacetic acid; GDP-Fuc: Guanosinediphosphate-fucose; MS/ MS/MS: Tandem mass spectrometry; $\\mathsf { m } / z \\mathrm { : }$ Mass to charge ratio. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Competing interests ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that they have no competing interests. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Authors'contributions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CH carried out the glycan pattern studies, MALDl-TOF-MS experiments, glycan structure analyses and participated in drafting the manuscript. TZ contributed to the isolation and purification of colorectal carcinoma tissue, and provided extensive discussion and clinical information. YL contributed to ELISA experiments and quantification of purified CEA. QL and HW performed N-glycan release and purification,and SDS-PAGE experiments. DJ collected samples from patients,and provided clinical information.YL conceived the study,contributed to its design and coordination,participated in drafting the manuscript and critical review. All authors read and approved the final manuscript. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (No.31270909),Major Projects for Infectious Diseases of Ministry of Health (No. 2013ZX10004216-002), Project for Scientific Equipment Development of Chinese Academy of Sciences (No.YZ201249).We are also indebted to the STS Project of Chinese Academy of Sciences (No.Y4CQ041) and Project for Key Technology Development of Metabolomic Quantitative Analysis (No.Y486041). Help from Torsten Juelich in Peking University for assistance with discussion and editing is greatly acknowledged. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Author details ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "lInstitute of Biophysics, Chinese Academy of Sciences, Beijing 100101, P. R. China. $^ 2 \\mathsf { K e y }$ laboratory of Carcinogenesis and Translational Research (Ministry of Education),Department of Colorectal Surgery, Peking University Cancer Hospital & Institute, No.52 Fucheng Rd., Haidian District, Beijing 100142, P. R.China. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Received:27 March 2015 Accepted:12 June 2015 Published online: 27 June 2015 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References Kim B-J, Baek S,Lee SH,Ahn SH, Kim H-M, Kim HS,et al. Higher serum carcinoembryonic antigen levels associate with more frequent development of incident fractures in Korean women: a longitudinal study using the national health insurance claim data. Bone.2015;73:190-7.   \n2． Loeser A, Neumann M, Kocot A, Vergho DC, Spahn M, Riedmiller H. Serum carcino-embryonic antigen (CEA) and its possible use as tumor marker for secondary tumors in urinary intestinal reservoirs. Urol Oncol. 2013;31:644-8. Okamura K,Takayama K,Izumi M, Harada T,Furuyama K, Nakanishi Y. Diagnostic value of CEA and CYFRA 21-1 tumor makers in primary lung cancer. Lung Cancer. 2013;80:45-9.   \n4. Lee W-S, Baek J-H, Kim K-K, Park YH. The prognostic significant of percentage drop in serum resection for colon cancer. Surg Oncol. 2012;21:45-51.   \n5. Lee W-S,BaekJ-HKimKK,Parkeprognosticignificantfprtage in serum CEA post curative resection for colon cancer. Lung Cancer. 2012;76:138-43.   \n6. Aoyagi Y,Suzuki Y, Igarashi K, Saitoh A, Oguro M, Yokota T,et al. Carbohydrate structures of human alpha-fetoprotein of patients with hepatocellular carcinoma: presence of fucosylated and nonfucosylatedtriantennaryglycans. Br J Cancer. 1993;67:486-92.   \n7.Ma C,Zhang Q,QuJ,Zhao X,LiX,LiuY,et al.Apreciseapprch in large scale core-fucosylated glycoprotein identification with low- and high-normalized collsion energy.JProteomics.2015;114:61-70.   \n8. Thmpson JA. Molecular cloning and expression of carcinoembryonic antigen gene family members. Tumour Biol.1995;16:10-6.   \n9. Yamashita K,Totani K, Kuroki M, Matsuoka Y, Ueda I, Kobata A. Structure studies of the carbohydrate moieties of carcinoembryonic antigens. Cancer Res. 1987;47:3451-9.   \n10.Chandrasekaran EV,Davila M, Nixon DW,Goldfarb M,Mendicino J.Isolation and structures of the oligosaccharide units of carcinoembryonic antigen. J Biol Chem.1983;258:7213-22.   \n11.Canis K, Mxkinnon TA, Nowak A, Haslam SM,Panico M, Morris HR,et al. Mapping the N-glycome of human von wilebrand factor. Biochem J. 2012;447:217-28.   \n12.Rho J-H, Mead JR,Wright WS,Brenner DE,Stave JW,Gildersleeve JC,et al. Discovery of sialyl Lewis A and Lewis X modified protein cancer biomarkers using high density antibody arrays.J Proteomics. 2014;96:291-9.   \n13.AoyagiY,itaY,daTKawiK,KuroiwaTgarashiMtal.Tei index of serum alpha-fetoprotein as useful prognostic factorin patients with hepatocellular carcinoma in special reference to chronological changes. Hepatol Res.2002;23:287.   \n14.IgarashiY,AoyagiT,SudaY,MitaK. Kawai,Studieson the correlation among the fucosylation index,concentration of alpha-fetoprotein and des-gamma-carboxy prothrombin as prognostic indicators in hepatocellular carcinoma. Hepatol Res.2003;27:280-8.   \n15.Gorelik E, Galili U, Raz A.On the role of cellsurface carbohydrates and their binding proteins (lectins) in tumor metastasis. Cancer Metastasis Rev. 2001;20:245-77.   \n16.Sharon N,Lis H.History of lectins: from hemagglutinins to biological recognition molecules.Glycobiology.2004;14:53R-62.   \n17.Danussi CCoslovi A,Campa CMucignat MT,Spessoto P,Uggeri F,etal. A newly generated functional antibody identifies Tn antigen as a novel determinant in te cancer cell-lymphatic endothelium interaction. Glycobiology. 2009;19:1056-67.   \n18.GoetzJA,Mechref Y,Kang P,Jeng MH, Novotny MV.Glycomic profingf invasive and non-invasive breast cancer cels. Glycoconj J. 2009;26:117-31.   \n19.Patsos G,Hebbe-Viton V, Robbe-Masselot $\\mathsf { C } _ { \\prime }$ Masselot D, Martin RS, Greenwood R,et al. O-Glycan inhibitors generate aryl-glycans, induce apoptosis and lead to growth inhibition in colorectal cancer cellines. Glycobiology.2009;19:382-98.   \n20.Powlesland AS, Hitchen PG,Parry S,Graham SA, Barrio MM,Elola MT,et al. Targeted glycoproteomic identification of cancer cell glycosylation. Glycobiology.2009;19:899-909.   \n21.Rek A, Krenn E, Kungl AJ.Therapeutically targeting protein-glycan interactions. Br J Pharmacol. 2009;157:686-94.   \n22.Renkonen J,Paavonen T,Renkonen R. Endothelial and epithelial expressionof sialylLewis(x) and sialyl Lewis(a) in lesions of breast carcinoma. Int J Cancer. 1997;74:296-300.   \n23．lwata T, Nishiyama N, Nagano K, Izumi N,Tsukioka T, Chung K, et al. Preoperative serum value of sialyl Lewis X predicts pathological noda l extens ion and survival in patients with surgically trea ted small cell lung cancer. J Surg Oncol.2012;105:818-24.   \n24.Pérez-Garay M,Arteta B,Llop E, Cobler L,Pages L, Ortiz R,et al. a2,3- Sialyltrans -ferase ST3Gal IV promotes migration and metastasis in pancreatic adenocarcinoma cels and tends to be highly expressed in pancreatic adenocarcinoma tissues. Int J Biochem Cell Biol.2013;45:1748-57.   \n25. Remmers N, Anderson JM, Linde EM, Dimaio DJ, Lazenby AJ,Wandall HH, et al.Aberr ant expression of mucin core proteins and o-link ed glycans associated with progression of pancreatic cancer. Clin Cancer Res. 2013;19:1981-93.   \n26.Croce MV, Salice VC, Lacunza E, Segal-Eira SA. Alpha 1-acid glycoprotein (AGP): a possible carrier of sialyllewis X (slewis X) antigen in colorectal carcinoma. Histol Histopathol. 2005;20:91-7.   \n27.Stocks SC, Kerr MA. Neutrophil NCA-160 (CD66) is the major protein carrier of selec tin binding carbohydrate groups LewisX and sialylLewisX. Biochem Biophys Res Commun.1993;195:478-83.   \n28.Karlsson NG,Thomsson KA. Salivary MUC7 is a major carrier of blood group I type O-linked oligosaccha rides serving as the scaffold for sialyl Lewis X. Glycobiology.2009;19:288-300.   \n29.Shida K, Misonou Y, Korekane H, Seki Y, Noura S, Ohue M,et al. Unusual accumulation of sulfated glycosphingolipids in colon cancer cells. Glycobiology.2009;19:1018-33. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Submit your next manuscript to BioMed Central and take full advantage of: ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "· Convenient online submission   \n· Thorough peer review   \n· No space constraints or color figure charges   \n· Immediate publication on acceptance   \n· Inclusion in PubMed, CAS, Scopus and Google Scholar   \n· Researchwhichis freelyavailable for redistribution ",
+        "page_idx": 6
+    }
+]

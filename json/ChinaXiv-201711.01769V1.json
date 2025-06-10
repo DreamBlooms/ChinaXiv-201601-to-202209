@@ -1,0 +1,458 @@
+[
+    {
+        "type": "text",
+        "text": "： 田志梅　马现永\\*王　丽　熊云霞　邱月琴　杨雪芬　高开国　温晓鹿　胡友军　蒋宗勇",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 (广东省农业科学院动物科学研究所，畜禽育种国家重点实验室，农业部华南动物营养与饲  \n5 料重点实验室，广东省动物育种与营养公共实验室，广东省畜禽育种与营养研究重点实验室，  \n6號 广州 510640)  \n7 摘要：本试验旨在研究长期饲喂不同蛋白质水平饲粮对猪脂肪代谢相关基因表达的影响。  \n8 试验选用18头三元（杜 $\\times$ 长×大）杂交28日龄断奶仔猪，随机分为3组，每组6个重复，  \n9 每个重复1头。对照组[高粗蛋白质（HCP）组]采用符合NRC（2012）推荐营养需要的饲粮，  \n10 试验组是根据NRC(2012)标准，在添加赖氨酸（Lys）、蛋氨酸（Met）、苏氨酸（Thr）、色  \n11 氨酸（Try)4种必需氨基酸础上，将饲粮氮水平分别降低 $3 \\%$ 中粗蛋白质（MCP)组]和 $6 \\%$ [低  \n12 粗蛋白质（LCP）组]。试验期 $1 2 5 { \\mathrm { ~ d ~ } }$ 。结果表明：1）在肝脏中，与HCP 组相比，LCP组显  \n13 著降低脂肪酸合成相关基因乙酰辅酶A羧化酶 $( A C C )$ 、脂肪酸合成酶 $( F A S )$ 、苹果酸酶 $1 \\left( M E 1 \\right.$ ）  \n14 及锚蛋白1（ANK1）的基因表达量（ $\\scriptstyle . { P < 0 . 0 5 } )$ ；同时显著提高脂肪酸转运相关基因过氧化物  \n15 酶体增殖物激活受体γ $( P P A R \\gamma )$ 及脂肪酸结合蛋白（ $. F A B P$ ）的基因表达量（ $P { < } 0 . 0 5 )$ ；而  \n16 MCP组与HCP组相比，脂肪酸合成、转运相关基因表达均无显著性差异（ $( P { > } 0 . 0 5 )$ ；与HCP  \n17 组相比，MCP及LCP 组均显著降低脂肪酸氧化分解相关基因、过氧化物酶体增殖物激活受  \n18 体 $\\propto ( P P A R \\alpha )$ )、肉毒碱棕榈酰转移酶（CPT）的基因表达量（ $\\cdot P { < } 0 . 0 5$ )。2）在背最长肌（LDM)  \n19 中，MCP组中脂肪酸合成相关基因胆固醇调节元件结合蛋白（SREBP）、 $F A S$ 、硬脂酰辅酶  \n20 A去饱和酶（ $s C D$ ）的基因表达量显著高于其他2组（ $_ { . P < 0 . 0 5 ) }$ ； $A C C$ 及 $F A B P$ 在LCP 组的  \n21 基因表达量显著低于其他2组（ $( P { < } 0 . 0 5 )$ ； $C P T$ 基因表达量及LDM的肌内脂肪（IMF）含量  \n22 在LCP及MCP组显著低于HCP组( $P { < } 0 . 0 5$ )。3)肝脏和LDM中，各组甘油三酯脂酶(ATGL)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "及二烯酰辅酶A还原酶（DECR）基因表达量均无显著性差异（ $( P { > } 0 . 0 5 )$ )。由此可见，在NRC（2012）基础上，适当的降低饲粮蛋白质水平（ $3 \\%$ ）可促进LDM中脂肪酸合成、转运相关基因的表达，但对肝脏中脂肪酸合成相关基因的表达无显著影响；适当的降低饲粮蛋白质水平（ $3 \\%$ ）可降低LDM及肝脏中脂肪酸氧化分解相关基因的表达，但并不增加LDM肌内脂肪含量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：饲粮；蛋白质；肥育猪；脂肪；代谢；基因",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S828猪肉是人类最主要的食物蛋白质源，我国是生猪生产及消费大国，饲粮蛋白质水平是影响养猪业的最主要的经济及环境因素之一。目前多数饲粮蛋白质水平远远超过动物生长发育需要量，不仅增加了生猪养殖业的成本，降低氮利用率，也增加养猪业的环境压力。饲粮蛋白质在动物生长发育中起到重要的营养及生理功能，目前有研究指出添加满足动物需求必需氨基酸的低蛋白质饲粮可达到相似的氮吸收利用率和体重（BW）[1-3]；也有研究指出，降低饲粮蛋白质水平可降低猪的生长性能，并增加猪脂肪含量，改善肉品质[4-5]。Tian等[指出饲粮蛋白质水平从 $20 \\%$ 降到 $1 7 \\%$ 显著降低断奶仔猪的生长性能，提高仔猪肠道消化吸收。Madeira等[4]提出饲粮蛋白质水平从 $1 6 \\%$ 降为 $13 \\%$ 可增加肥育猪背部脂肪厚度以及猪肉肌内脂肪（intramuscular fat,IMF）、多汁性等肉品质，但降低肥育猪生长性能；同时也指出添加精氨酸的低蛋白质水平饲粮不影响肥育猪肌肉IMF含量，而添加亮氨酸的低蛋白质水平饲粮可增加肌肉IMF含量。然而也有研究指出，添加精氨酸影响猪肉品质，如降低猪总脂肪的沉积，增加肌肉IMF含量，提高肌肉的抗氧化能力等[7-8]。Tous等[3]指出62\\~97kg猪饲粮蛋白质水平从 $12 \\%$ 降低到 $9 . 8 \\%$ 不影响猪的生长性能，但增加肌肉IMF含量；添加Lys可以提高猪肉  \n43 品质，不影响猪的生长性能。  \n44 随着人们生活水平的提高，猪肉品质备受消费者的关注，是消费者首要衡量指标。脂肪  \n45 及脂肪酸是决定猪肉食用品质的重要因素，尤其是IMF的含量在肉品质方面起到重要作用。  \n46 目前通过降低饲粮蛋白质和添加氨基酸等饲养策略来提高猪体内的脂肪分配[9-11]。IMF含量  \n47 是影响口感及风味等感官质量性状的重要因素之一，同时IMF也影响肌肉的滴水损失及多汁  \n48 性[12-14]。近年来瘦肉型猪选育降低将近 $1 \\%$ 的IMF，这也是导致肉质变差的主要原因之一[15],  \n49 因此人们对肉的IMF含量的关注也越来越高[1-18]。关于促进IMF沉积的研究也越来越多，通",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "过降低饲粮中蛋白质含量来改变IMF的含量是典型的方法[19-22]。为此，本试验通过降低猪各生长阶段饲粮蛋白质水平，研究其对脂肪代谢相关基因表达的影响，为降低生猪养殖成本及氮排放量、提高猪肉品质提供理论依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验动物及设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取18头三元（杜 $\\times$ 长 $\\times$ 大）杂交28日龄断奶仔猪[BW $\\dot { \\bf \\Phi } = { \\bf \\Phi }$ （9.57±0.64）kg]，随机分为3 组，每组6个重复，每个重复1头。饲养在猪笼里,每笼1头。对照组[高粗蛋白质（highcrude protein,HCP)组]采用符合NRC（2012)推荐营养需要的饲粮，试验组是根据 NRC(2012)标准，在添加赖氨酸（Lys）、蛋氨酸（Met）、苏氨酸（Thr）、色氨酸（Try）4种必需氨基酸础上，将饲粮氮水平分别降低 $3 \\%$ 中粗蛋白质（medium crude protein,MCP）组]和 $6 \\%$ [低粗蛋白质（low crude protein,LCP）组]。28日龄断奶仔猪经过7d预试期后，进入正试期，正试期进行分阶段持续饲喂，至肥育结束。在仔猪阶段，LCP、MCP及HCP 组分别饲喂粗蛋白质水平为 $14 \\%$ 、 $1 7 \\%$ 、 $20 \\%$ 的饲粮，共饲喂 $4 5 \\mathrm { ~ d ~ }$ ；在生长猪阶段，LCP、MCP及HCP组分别饲喂粗蛋白质水平为 $12 \\%$ 、 $1 5 \\%$ 、 $1 8 \\%$ 的饲粮，共饲喂 $3 0 \\mathrm { d }$ ；在肥育猪阶段，LCP、MCP及HCP组分别饲喂粗蛋白质水平为 $10 \\%$ 、 $13 \\%$ 、 $1 6 \\%$ 的饲粮，共饲喂 $5 0 \\mathrm { d }$ (表1)。饲养试验结束后进行动物屠宰、样品采集。试验饲粮组成及营养水平见表2。试验期间采取自由采食及饮水方式进行饲养。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/91edd5a5f700805c128f6ce60d134531a861faf41e3ff407e2966ee593d71eb7.jpg",
+        "table_caption": [
+            "Table 1Dietary crude protein levels and time for feeding ",
+            "表2试验饲粮组成及营养水平 (风干基础)"
+        ],
+        "table_footnote": [
+            "69 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"3\">饲粮粗蛋白质水平 Dietary crude protein level/%</td><td rowspan=\"2\">饲喂时间 Time for feeding/d</td></tr><tr><td>LCP 组 LCP group</td><td>MCP 组 MCP group</td><td>HCP 组 HCP group</td></tr><tr><td>仔猪Piglets (10~30 kg)</td><td>14.00</td><td>17.00</td><td>20.00</td><td>45</td></tr><tr><td>生长猪 Growing pig (30~60 kg)</td><td>12.00</td><td>15.00</td><td>18.00</td><td>30</td></tr><tr><td>肥育猪 Finishing pig (60~90 kg)</td><td>10.00</td><td>13.00</td><td>16.00</td><td>50</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/78a63f3566cc2333721a58b2e430f1f6492f7eedb5ad60ee702a0d760bb8a31f.jpg",
+        "table_caption": [
+            "表1饲粮粗蛋白质水平及饲喂时间",
+            "Table 2Composition and nutrient levels of experimental diets (air-dry basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"7\">项目Items</td><td colspan=\"3\">仔猪Piglets (10~30 kg)</td><td colspan=\"3\">生长猪 Growing pig</td><td colspan=\"3\">肥育猪Finishing pig</td></tr><tr><td>LCP</td><td>MCP</td><td>HCP</td><td>LCP</td><td>(30~60 kg) MCP</td><td>HCP</td><td>LCP</td><td>(60~90 kg) MCP</td><td>HCP</td></tr><tr><td>组</td><td>组</td><td>组</td><td>组</td><td>组</td><td>组</td><td>组</td><td>组</td><td>组</td></tr><tr><td>LCP</td><td>MCP</td><td>HCP</td><td>LCP</td><td>MCP</td><td>HCP</td><td>LCP</td><td>MCP</td><td>HCP</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/43665a8e928df47ae0c2469643cfd4f812a0bcce8ae09704a1da5ad12e3133de.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>group</td><td>group</td><td>group</td><td>group</td><td>group</td><td>group</td><td>group</td><td>group</td><td>group</td></tr><tr><td colspan=\"10\">原料 Ingredients</td></tr><tr><td>玉米Corn</td><td>71.80</td><td>66.50</td><td>63.70</td><td>77.60</td><td>67.50</td><td>58.60</td><td>87.40</td><td>78.36</td><td>67.00</td></tr><tr><td>豆粕 Soybean meal</td><td>13.40</td><td>18.80</td><td>19.80</td><td>10.00</td><td>19.50</td><td>29.00</td><td>5.50</td><td>15.00</td><td>23.76</td></tr><tr><td>乳清粉Whey powder</td><td>4.40</td><td>4.30</td><td>4.30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>鱼粉 Fish meal</td><td>1.50</td><td>4.00</td><td>9.00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>麦麸Wheat bran</td><td></td><td></td><td></td><td>5.06</td><td>6.94</td><td>7.80</td><td>2.00</td><td>3.00</td><td>6.00</td></tr><tr><td>大豆油 Soybean oil</td><td>4.10</td><td>2.60</td><td>0.80</td><td>3.00</td><td>2.38</td><td>1.55</td><td>1.71</td><td>0.90</td><td>0.88</td></tr><tr><td>赖氨酸 Lys</td><td>0.88</td><td>0.62</td><td>0.38</td><td>0.74</td><td>0.46</td><td>0.18</td><td>0.55</td><td>0.27</td><td>0.01</td></tr><tr><td>蛋氨酸 Met</td><td>0.27</td><td>0.19</td><td>0.10</td><td>0.17</td><td>0.09</td><td></td><td>0.09</td><td></td><td></td></tr><tr><td>苏氨酸Thr</td><td>0.33</td><td>0.21</td><td>0.09</td><td>0.26</td><td>0.14</td><td>0.01</td><td>0.19</td><td>0.06</td><td></td></tr><tr><td>色氨酸Try</td><td>0.08</td><td>0.04</td><td>0.01</td><td>0.07</td><td>0.02</td><td></td><td>0.06</td><td>0.01</td><td></td></tr><tr><td>磷酸氢钙CaHPO4</td><td>1.15</td><td>0.74</td><td></td><td>0.90</td><td>0.78</td><td>0.69</td><td>0.65</td><td>0.55</td><td>0.50</td></tr><tr><td>石粉 Limestone</td><td>0.79</td><td>0.70</td><td>0.52</td><td>0.90</td><td>0.89</td><td>0.87</td><td>0.55</td><td>0.55</td><td>0.55</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td></tr><tr><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td colspan=\"10\">营养水平 Nutrient</td></tr><tr><td>levels2)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>14.60</td><td>14.60</td><td>14.60</td><td>14.20</td><td>14.20</td><td>14.20</td><td>14.20</td><td>14.20</td><td>14.20</td></tr><tr><td>粗蛋白质 CP</td><td>14.00</td><td>17.00</td><td>20.00</td><td>12.00</td><td>15.00</td><td>18.00</td><td>10.00</td><td>13.00</td><td>16.00</td></tr><tr><td>钙Ca</td><td>0.70</td><td>0.71</td><td>0.69</td><td>0.61</td><td>0.63</td><td>0.60</td><td>0.51</td><td>0.50</td><td>0.52</td></tr><tr><td>总磷TP</td><td>0.53</td><td>0.55</td><td>0.57</td><td>0.45</td><td>0.48</td><td>0.51</td><td>0.38</td><td>0.40</td><td>0.45</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1预混料可为每千克饲粮提供 The premix provided the following per kilogram of diets:VA 10 800 IU, $\\mathrm { V D } _ { 3 }$ （204号 4 000 IU，VE 40 IU, $\\mathrm { V K } _ { 3 }$ 4 mg, $\\mathrm { V B } _ { 1 }$ 6 mg， $\\mathrm { V B } _ { 2 } \\ 1 2 \\ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 6 \\log$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 5 ~ \\mathrm { m g }$ ，生物素biotin $0 . 2 \\mathrm { m g }$ 叶酸 folic acid $2 \\ : \\mathrm { m g }$ ，烟酸niacin $5 0 ~ \\mathrm { m g }$ ， $D .$ 泛酸钙 $D$ -calcium pantothenate $2 5 ~ \\mathrm { m g }$ ，Fe(as ferrous sulfate) 100 mg，Cu (as copper sulfate) $1 5 0 \\mathrm { m g }$ ，Mn (as manganese oxide) $4 0 \\mathrm { m g }$ ， $Z \\mathrm { n }$ (as zinc oxide) $1 0 0 ~ \\mathrm { { m g } }$ ，I (as potassium iodide) $0 . 5 \\mathrm { m g }$ ， Se (as sodium selenite) $0 . 3 ~ \\mathrm { m g }$ 。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）消化能为计算值，其余为实测值。DE was a calculated value,while the others were measured values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 屠宰及样品采集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "屠宰前肥育猪进行电击处死，动物处死后，立即进行组织、脏器等分离并放于冰上。取 $8 0 ~ \\mathrm { g }$ 背最长肌（LDM）放于封口袋中置于-80℃保存，以备于检测IMF 含量；分别取 $ { 3 \\mathrm { ~ g ~ } }$ LDM并分装到3个 $1 . 5 ~ \\mathrm { m L }$ 的EP 管中，立即放于液氮中，最终转移到-80℃保存；取肝脏组织（每次切取保证部位一致性）大约 ${ 3 \\ \\mathrm { g } } ,$ 将肝脏组织用预冷磷酸盐缓冲液(PBS)冲洗，去除肝脏组织表面血液并用吸水纸吸去水分，分装到3个 $1 . 5 ~ \\mathrm { m L }$ 的EP管中，立即放于液氮",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中，最终转移到-80℃保存。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3 IMF含量测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将LDM去筋膜后搅碎，取 $4 0 \\ \\mathrm { g }$ 肌肉样品放入培养皿中摊平后放入-80℃冰箱冷冻过夜，  \n样品放入冷冻干燥器内冻干后称重。用滤筒称取冻干样品 $\\textbf { \\em { 3 } } _ { \\mathbf { g } }$ ，利用脂肪仪（FOSS-2055  \nSOXTEC）通过索氏萃取法检测IMF含量。计算公式如下：IMF含量 $( \\% ) \\ = 1 0 0 \\times$ (油杯重一铝杯重)/上样量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4脂肪代谢相关基因表达量测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与肉品质相关的脂肪代谢基因包括过氧化物酶体增殖物激活受体γ（peroxisomeproliferator-activated receptor gamma, ${ \\cal P } { \\cal P } { \\cal A } R \\gamma$ )、过氧化物酶体增殖物激活受体 $\\alpha$ （peroxisomeproliferator-activated receptor alfa,PPARα）、脂肪酸合成酶（fatty acid synthase,FAS）、胆固醇调节元件结合蛋白（sterol regulatory element binding protein,SREBP)、脂肪酸结合蛋白（fattyacid binding proteins,FABP）、肉毒碱棕榈酰转移酶（carnitine palmitoyltransferase,CPT)、硬脂酰辅酶 A 去饱和酶（stearoyl CoA desaturase $\\mathrm { \\Delta } S C D$ ）、甘油三酯脂酶（adipose triglyceridelipase,ATGL）、乙酰辅酶A羧化酶（acetylCoA carboxylase,ACC）、苹果酸酶1（malicenzyme1,ME1）、二烯酰辅酶 A 还原酶(2,4-dienoyl-CoA reductase,DECR）、锚蛋白1(ankyrin1,ANK1)基因。用 TRIzol试剂盒（TaKaRa,日本）提取 $1 0 0 ~ \\mathrm { { m g } }$ 肝脏组织或LDM样品总RNA 并溶解在 RNase-free 水中。根据反转录试剂盒(TaKaRa，日本)说明书将总RNA（ $1 \\ \\mu \\mathrm { g }$ ）反转录为cDNA。根据GenBank 中猪的基因序列，使用 primer premier 5.0 设计引物（表2）。制作实时定量PCR标准曲线，确认最佳反应条件。反应体系（ $2 0 ~ \\mu \\mathrm { L }$ ） $2 \\mu \\mathrm { L }$ cDNA, $1 0 ~ \\mu \\mathrm { L }$ SYBR Green2× mix，上、下游引物各 $0 . 8 ~ \\mu \\mathrm { L }$ (100 nmol/L), $6 . 4 ~ \\mu \\mathrm { L }$ 的 $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ 。反应条件： $9 5 \\mathrm { ~ \\textdegree ~ }$ 预变性3min；95℃变性 $1 5 \\mathrm { ~ s ~ }$ ，退火 $3 0 ~ \\mathrm { s }$ ， $7 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 延伸 $3 0 ~ \\mathrm { s }$ ，39个循环。通过对 $\\beta$ 肌动蛋白（ $\\beta$ -actin)以及甘油醛-3-磷酸脱氢酶（GADPH）管家基因进行筛选，选择表达更稳定的 $\\beta$ -actin作为实时定量 PCR 的内参基因。基因表达量计算采用 $2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ 法。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a88e75af6a3afac1fdec0575a1d3174669f87c14a04e126e8580b5afdf72a8cf.jpg",
+        "table_caption": [
+            "表3实时定量PCR引物序列",
+            "Table 3Primer sequences for real-time qPCR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因Genes</td><td>引物序列 Primer sequences (5'→3')</td><td>大小 Size/bp</td><td>登录号 Accession No.</td><td>退火温度 Tm/℃</td></tr><tr><td>胆固醇调节元件结合蛋白</td><td>F:GCGACGGTGCCTCTGGTAGT</td><td>218</td><td>AF102873</td><td>60</td></tr><tr><td>SREBP</td><td>R:CGCAAGACGGCGGATTTA</td><td></td><td></td><td></td></tr><tr><td>乙酰辅酶A羧化酶</td><td>F:ATGTTTCGGCAGTCCCTGAT</td><td>133</td><td>EF 618729</td><td>60</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8898bf1fe7a487f4d3b0435da3050d20be47a12e8b9dbb22bdeb2e5b1ef5aad3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ACC</td><td>R:GTGGACCAGCTGACCTTGA</td><td></td><td></td><td></td></tr><tr><td>脂肪酸合成酶</td><td>F:AGCCTAACTCCTCGCTGCAAT</td><td>196</td><td>AY183428</td><td>58</td></tr><tr><td>FAS</td><td>R:TCCTTGGAACCGTCTGTGTTC</td><td></td><td></td><td></td></tr><tr><td>苹果酸酶1</td><td>F:ATCCAACCAGCAAAGCAGA</td><td>176</td><td>XM 001924333.4</td><td>56</td></tr><tr><td>ME1</td><td>R:CACAACACCAAGGGCAACT</td><td></td><td></td><td></td></tr><tr><td>硬脂酰辅酶A去饱和酶</td><td>F:TCTGGGCGTTTGCCTACTATCT</td><td>280</td><td>AY 487829</td><td>61</td></tr><tr><td>SCD</td><td>R:TCTTTGACGGCTGGGTGTTT</td><td></td><td></td><td></td></tr><tr><td>锚蛋白1</td><td>F:GCCTTCACCCAGACCTGATA</td><td>89</td><td>XM 001928667.1</td><td>60</td></tr><tr><td>ANK1</td><td>R:GGCTTGAGATCACTGCTTCC</td><td></td><td></td><td></td></tr><tr><td>过氧化物酶体增殖物激活</td><td>F:AAGACGGGGTCCTCATCTCC</td><td>149</td><td>NM214379</td><td>60</td></tr><tr><td>受体γ</td><td>R:CGCCAGGTCGCTGTCATCT</td><td></td><td></td><td></td></tr><tr><td>PPARy</td><td></td><td></td><td></td><td></td></tr><tr><td>脂肪酸结合蛋白</td><td>F:CAGGAAAGTCAAGAGCACCACAG</td><td>227</td><td>AJ 416020</td><td>61</td></tr><tr><td>FABP</td><td>GAAAGTCAAGAGCACCA</td><td></td><td></td><td></td></tr><tr><td></td><td>R:TCGGGACAATACATCCAACA</td><td>121</td><td></td><td></td></tr><tr><td>过氧化物酶体增殖物激活</td><td>F:TCAAGAGCCTGAGGAAACCC</td><td></td><td>NM_001044526.1</td><td>60</td></tr><tr><td>受体α</td><td>R:CAAATGATAGCAGCCACAAAGAG</td><td></td><td></td><td></td></tr><tr><td>PPARα</td><td></td><td></td><td></td><td></td></tr><tr><td>肉毒碱棕榈酰转移酶</td><td>F:ATGGTGGGCGACTAACT</td><td>321</td><td>AY181062</td><td>59</td></tr><tr><td>CPT</td><td>R:TGCCTGCTGTCTGTGAG</td><td></td><td></td><td></td></tr><tr><td>甘油三酯脂酶</td><td>F:AGTTCAGCCTGCGCAACCTC</td><td>220</td><td>EF 583921</td><td>62</td></tr><tr><td>ATGL</td><td>R:AGGGCACCATCATGGCTG</td><td></td><td></td><td></td></tr><tr><td>二烯酰辅酶A还原酶</td><td>F:CCGAGACTGGGTCAGGTTT</td><td>165</td><td>NM 001190232.2</td><td>58</td></tr><tr><td>DECR</td><td>R:TTGGGTCAAGACGGCTAAA</td><td></td><td></td><td></td></tr><tr><td>·β肌动蛋白</td><td>F:CACGCCATCCTGCGTCTGGA</td><td>380</td><td>XM 003124280.4</td><td>55~68</td></tr><tr><td>β-actin</td><td>R-AGCACCGTGTTGGCGTAGAG</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "108 1.5 统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "109 试验数据利用Prism6软件根据one-way ANOVA方法进行统计分析。数据均以平均值  \n110 土标准误（mean±SE）表示， $P { < } 0 . 0 5$ 为差异显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮蛋白质水平对LDM中IMF含量的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，在LDM中，HCP组中IMF的含量显著高于LCP及MCP组（ $\\cdot P { < } 0 . 0 5$ ），而LCP和MCP组中IMF的含量无显著性差异（ $P { > } 0 . 0 5$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "数据柱形标注不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Data columns with different small letters mean significant difference $( P { < } 0 . 0 5 )$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c3fd340e99ca5c32779f154ac514d6ed38642dd9ef421a28644bfa54b6335e0.jpg",
+        "img_caption": [
+            "图1饲粮蛋白质水平对猪LDM中IMF含量的影响",
+            "Fig.1Effects of dietary protein level on IMF content in LDM of pigs "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2饲粮蛋白质水平对猪肝脏脂肪代谢相关基因表达的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，在肝脏中，SREBP、ACC、ME1、SCD及ANK1的基因表达量变化趋势具有一致性，而FABP在肝脏中的表达趋势则相反。与LCP组相比，MCP及HCP组中SREBP、ACC、FAS、ME1、SCD的基因表达量升高，其中FAS、ACC和ME1基因表达量显著升高（ $( P { < } 0 . 0 5 )$ ；ANK1在HCP组的基因表达量显著高于LCP组（ $P { < } 0 . 0 5$ ），而其在MCP组与其他2组相比无显著性差异（ $\\cdot P { > } 0 . 0 5 \\$ ）。在肝脏中， $P P A R \\gamma$ 及 $F A B P$ 的基因表达量变化趋势相同，LCP组显著高于MCP及HCP组（ $\\cdot P { < } 0 . 0 5$ ），但MCP组与HCP组无显著差异（ $\\scriptstyle P > 0 . 0 5 { \\mathrm { : } }$ ）； $P P A R \\alpha$ 及CPT在LCP及MCP组的基因表达量无显著性差异（ $\\cdot P { > } 0 . 0 5$ ），但均显著低于HCP组（ $P { < } 0 . 0 5$ ）；饲粮蛋白质水平对肝脏中SREBP、SCD、ATGL、DECR的基因表达量无显著差异（ $P { > } 0 . 0 5$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6edbc1b3272ed774c319d050ecc5a22e155da2bbd09756596e67f272a46ac678.jpg",
+        "table_caption": [
+            "表4饲粮蛋白质水平对猪肝脏组织内脂肪代谢相关基因的影响",
+            "Table 4Effects of dietary protein level on expressions of genes related in lipid metabolism in hepatic tissue of ",
+            "pigs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>LCP 组 LCP group</td><td>MCP 组 MCP group</td><td>HCP 组 HCP group</td><td>P值P-value</td></tr><tr><td>胆固醇调节元件结合蛋白SREBP</td><td>0.56±0.09</td><td>0.88±0.28</td><td>1.00±0.10</td><td>0.192 6</td></tr><tr><td>乙酰辅酶A羧化酶 ACC</td><td>0.50±0.02b</td><td>0.91±0.10a</td><td>1.00±0.05a</td><td><0.000 1</td></tr><tr><td>脂肪酸合成酶FAS</td><td>0.50±0.05b</td><td>1.12±0.16a</td><td>1.00±0.07a</td><td>0.0009</td></tr><tr><td>苹果酸酶1ME1</td><td>0.69±0.05b</td><td>1.00±0.08a</td><td>1.00±0.01a</td><td>0.001 3</td></tr><tr><td>硬脂酰辅酶A去饱和酶 SCD</td><td>0.62±0.07</td><td>0.86±0.22</td><td>1.00±0.12</td><td>0.150 0</td></tr><tr><td>锚蛋白1ANK1</td><td>0.54±0.15b</td><td>0.70±0.08ab</td><td>1.00±0.09a</td><td>0.017 3</td></tr><tr><td>过氧化物酶体增殖物激活受体γPPARy</td><td>1.28±0.09a</td><td>0.81±0.01b</td><td>1.00±0.03b</td><td><0.000 1</td></tr><tr><td>脂肪酸结合蛋白FABP</td><td>1.66±0.14a</td><td>1.02±0.05b</td><td>1.00±0.09b</td><td><0.000 1</td></tr><tr><td>过氧化物酶体增殖物激活受体αPPARα</td><td>0.80±0.07b</td><td>0.71±0.02b</td><td>1.00±0.04a</td><td>0.000 8</td></tr><tr><td>肉毒碱棕榈酰转移酶 CPT</td><td>0.69±0.07b</td><td>0.67±0.06b</td><td>1.00±0.08a</td><td>0.001 5</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/114bcc48e3aecb8ff858bac83037241175d899a74d63bdbb6a9dc6b901225bef.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>甘油三酯脂酶 ATGL</td><td>0.92±0.17</td><td>0.99±0.05</td><td>1.00±0.15</td><td>0.828 4</td></tr><tr><td>二烯酰辅酶A还原酶DECR</td><td>1.12±0.11</td><td>1.07±0.06</td><td>1.00±0.05</td><td>0.498 6</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同小写字母表示差异显著 $_ { ( P < 0 . 0 5 ) }$ ，相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。 Values in the same row with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while th the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3 饲粮蛋白质水平对LDM脂肪代谢相关基因表达的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "136 由表5可知，在LDM中，SREBP、ACC、FAS、SCD、FABP及PPARα的基因表达量变化  \n137 趋势具有相似性，MCP组高于LCP和HCP组，其中SREBP、 $F A S$ 及 $S C D$ 在MCP组的基因表达  \n138 量显著高于其他2组（ $P { < } 0 . 0 5$ ）；ACC及FABP在LCP组的基因表达量显著低于MCP及HCP组  \n139 （ $\\scriptstyle \\cdot { P < 0 . 0 5 }$ ），但MCP组与HCP组差异不显著（ $P { > } 0 . 0 5 \\$ ）； $M E 1$ 在HCP组的基因表达量显著高  \n140 于LCP组（ $\\cdot P { < } 0 . 0 5$ ），而MCP组与其他2组无显著差异（ $P { > } 0 . 0 5 \\$ ）；ANK1在LCP和MCP组的  \n141 基因表达量无显著差异（ $P { > } 0 . 0 5$ ），但均显著高于HCP组（ $P { < } 0 . 0 5$ ）；PPARα及PPARy在3  \n142 组中的基因表达量无显著差异（ $P { > } 0 . 0 5$ ）；CPT在HCP组的基因表达量显著高于其他2组  \n143 （ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ），但MCP组与LCP组无显著差异（ $P { > } 0 . 0 5 )$ ）；饲粮蛋白质水平对LDM中ATGL和  \n144 DECR的基因表达量无显著影响（ $P { > } 0 . 0 5$ ）。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/488eaff0bdd8ac3464a4cede7a06e26c2b656b43cda991a40a235cd410aed81a.jpg",
+        "table_caption": [
+            "表5饲粮蛋白质水平对猪LDM脂肪代谢相关基因表达的影响",
+            "Table 5Efects of dietary protein level on expressions of genes related in lipid metabolism in LDM of pigs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>LCP 组LCP group</td><td>MCP 组 MCP group</td><td>HCP 组 HCP group</td><td>P值P-value</td></tr><tr><td>胆固醇调节元件结合蛋白 SREBP</td><td>1.04±0.08b</td><td>1.49±0.18a</td><td>1.00±0.09b</td><td>0.013 6</td></tr><tr><td>乙酰辅酶A羧化酶 ACC</td><td>0.74±0.10b</td><td>1.11±0.05a</td><td>1.00±0.10a</td><td>0.003 0</td></tr><tr><td>脂肪酸合成酶 FAS</td><td>0.74±0.20b</td><td>1.74±0.26a</td><td>1.00±0.19b</td><td>0.005 1</td></tr><tr><td>苹果酸酶1ME1</td><td>0.80±0.04b</td><td>0.89±0.02ab</td><td>1.00±0.07a</td><td>0.0009</td></tr><tr><td>硬脂酰辅酶A去饱和酶 SCD</td><td>0.96±0.30b</td><td>2.54±0.33a</td><td>1.00±0.17b</td><td>0.000 7</td></tr><tr><td>锚蛋白1ANK1</td><td>1.97±0.11a</td><td>1.85±0.18a</td><td>1.00±0.14b</td><td>0.000 1</td></tr><tr><td>过氧化物酶体增殖物激活受体γ PPARy</td><td>1.24±0.04</td><td>1.05±0.11</td><td>1.00±0.09</td><td>0.063 4</td></tr><tr><td>脂肪酸结合蛋白FABP</td><td>0.69±0.10b</td><td>1.14±0.06a</td><td>1.00±0.05a</td><td>0.001 4</td></tr><tr><td>过氧化物酶体增殖物激活受体αPPARα</td><td>0.96±0.10</td><td>1.15±0.12</td><td>1.00±0.09</td><td>0.338 7</td></tr><tr><td>肉毒碱棕榈酰转移酶 CPT</td><td>0.64±0.12b</td><td>0.56±0.06b</td><td>1.00±0.03a</td><td>0.002 7</td></tr><tr><td>甘油三酯脂酶 ATGL</td><td>1.00±0.03</td><td>0.93±0.04</td><td>1.00±0.02</td><td>0.2388</td></tr><tr><td>二烯酰辅酶A还原酶DECR</td><td>0.92±0.09</td><td>0.96±0.06</td><td>1.00±0.05</td><td>0.635 2</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "147 3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "148 3.1饲粮蛋白质水平对猪生长性能的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在目前养猪业的背景下，基于生态环境及经济压力，降低饲粮蛋白质水平既能降低养猪业成本，同时也能减少氮排放。有研究表示，低蛋白质饲粮可以在降低氮排放及氨释放的同时不影响猪的生长性能[23-25]；也有研究指出，降低饲粮蛋白质水平将影响猪的生长性能[21,26-27]。另有研究结果显示，在满足必需氨基酸Lys、Met、Thr、Try需要量的基础上，降低饲粮蛋白质水平影响仔猪及生长猪生长性能，但并不改变肥育猪生长性能[.28]。本课题组的另一项研究表明，仔猪断奶后随着饲粮蛋白质水平的降低，仔猪生长性能也出现不同程度的降低，而持续饲喂低蛋白质水平饲粮至生长猪阶段，饲粮蛋白质水平对生长猪生长性能与其对仔猪生长性能的影响具有一致性，但持续降低饲粮蛋白质水平并不影响肥育猪平均日增重、平均日采食量及料重比[29-30]。本课题组研究表明，在断奶初期降低饲粮蛋白质水平不利于仔猪克服断奶应激，影响断奶仔猪生长性能[。低蛋白质水平饲粮对仔猪生长性能的影响可能是由于仔猪处在断奶这一特殊时期引起的,仔猪断奶后发生应激反应,包括营养性应激、环境应激及心理应激。断奶后，能量来源的转变，肠道损伤及肠道微生物的改变，母源抗体的消失引起仔猪免疫力低下，影响仔猪生理生长状况。低蛋白质水平饲粮即使平衡了Lys、Met、Thr、Try，但可能由于其他必需氨基酸的不足，不能满足仔猪营养需求，从而导致其生长性能的降低。而随着饲喂时间延长，仔猪度过断奶应激时期后，生长猪生长性能依然随着饲粮蛋白质水平的降低而呈现显著下降，可能是由于低蛋白质饲粮降低仔猪的采食量，仔猪采食量的降低不利于其肠道等的消化道损伤的修复、断奶后变化的适应及断奶应激的忍受，从而影响后续生长猪的消化吸收功能；其次采食量是决定日增重的重要因素之一，Brillouet[31]证明仔猪日增重的降低会影响后期生长。但持续饲喂到肥育猪阶段，与对照组相比，低蛋白质水平饲粮对猪生长性能仍有持续性消极影响，但中蛋白质水平饲粮对肥育猪生长性能无显著影响，说明过低的蛋白质饲粮不利于猪的生长，而中蛋白质水平饲粮在后期肥育猪阶段并不影响猪的生长。进一步证明持续地饲喂低蛋白质饲粮不利于猪的前期生长，而过低的饲粮蛋白质水平不利于猪的生长。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮蛋白质水平对肝脏脂肪代谢相关基因表达的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "肌肉脂肪含量及组成影响猪肉品质，动物体内脂肪的获得有2条途径，一是通过食物中摄取脂肪经小肠分解成甘油和脂肪酸消化吸收后，由肝脏合成脂肪酸后运输到身体各部位；另外肝脏中脂肪代谢酶催化糖及氨基酸代谢中间产物的内源性合成。肝脏内含有种类丰富的",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "脂肪代谢相关酶，是动物体内脂肪酸合成的重要场所，在脂肪代谢中起重要作用，因此肝脏中脂肪代谢影响肌肉内脂肪代谢，进而影响肉品质。  \n过氧化物酶体增殖物激活受体（PPAR）及SERBP是调节脂质代谢的重要转录因子[10.32]。PPARα和PPARγ属于PPAR超家族成员，通过线粒体及过氧化物酶体的β-氧化作用调控游离脂肪酸（free fatty acid，FFA）的氧化、吸收，参与调控脂肪代谢[3-34]；SREBP作为脂类合成的候选基因调控FAS、ME1、ACC等基因表达[33,35-39]。本试验结果表明，低蛋白质水平饲粮降低肝脏中SREBP、FAS、ME1及ACC的基因表达量，其中FAS、ME1及ACC的基因表达量显著低于其他2组，而其他2组间无显著差异。SREBP、FAS、ME1及ACC参与调控FFA的从头合成，因此低蛋白质水平饲粮通过降低FFA的从头合成，影响肝脏FFA的合成代谢[33,40],而中蛋白质饲粮与高蛋白质饲粮无显著差异，说明适当降低饲粮蛋白质水平不影响肝脏脂肪酸合成相关基因的表达量。  \nPPARγ调控脂肪细胞分化、转运及脂肪沉积相关蛋白基因表达来调节脂肪代谢，而FABP通过细胞膜结构促进脂肪酸和其他脂类介质的转运[41-43],也可促进脂肪酸及亲脂类分子通过细胞质到核受体的细胞外转运[445]。本试验结果显示，PPARy及FABP等参与脂肪酸转运基因的表达量变化与SREBP、FAS、ME1、ACC等脂肪酸合成基因相反，LCP组PPARy及FABP的基因表达量显著高于其他2组，说明过度的降低饲粮蛋白质水平通过上调转录因子PPARy的基因表达量、增加FABP的基因表达量，从而促进肝脏脂肪酸的转运[46]。以上结果说明，低蛋白质水平饲粮可降低肝脏脂肪酸合成，增加脂肪酸的转运；但饲喂中蛋白质水平饲粮与高蛋白质水平饲粮的猪肝脏中脂肪酸合成及转运基因表达量无显著差异，表明适当降低饲粮蛋白质水平并不影响猪肝脏中脂肪酸合成及转运过程。  \nPPARα通过调控脂类代谢基因的表达来调节线粒体及过氧化物酶体脂肪酸氧化、生酮及糖异生，影响脂肪代谢率[47-48]，肝脏中PPARα及CPT在HCP组的基因表达量显著高于LCP及MCP组，说明降低蛋白质水平饲粮不利于肝脏中脂肪酸的氧化分解及代谢。  \n因此，适当降低饲粮蛋白质水平不影响肝脏中脂肪酸合成及转运相关基因的表达，同时降低了肝脏内脂肪酸的氧化分解，说明适当降低饲粮蛋白质水平促进了肝脏脂肪酸合成代谢并降低其分解代谢，因此增加脂肪酸从肝脏向身体各组织的运输。  \n3²饲粮蛋白质水平对InM脂防代谢的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "IMF影响肉的口感、肉色、风味等感官质量性状。肌肉IMF的含量与肌肉脂肪代谢密切相关，IMF含量取决于脂肪酸合成、分解、转运及沉积等[49]。因此研究肌肉脂肪代谢为改善猪肉品质奠定了理论依据。本试验结果显示，MCP组LDM SREBP、ACC、FAS、SCD、FABP的基因表达量最高，其中SREBP、FAS、SCD的基因表达量显著高于LCP及HCP组，ACC及FABP的基因表达量显著高于LCP组而与HCP组无显著差异，以上结果表明适当降低饲粮蛋白质水平促进LDM中脂肪酸合成及转运。LDM中ME1在HCP组的基因表达量显著高于LCP组，而其在MCP组表达量与LCP及HCP组无显著差异，说明低蛋白质水平饲粮不仅降低肝脏中脂肪酸的从头合成，同时也降低LDM中脂肪酸的从头合成，而中蛋白质饲粮对LDM中脂肪酸的从头合成无显著影响。有研究指出，生长猪及肥育猪阶段降低饲粮蛋白质水平可促进ACC、FAS、ME1等脂肪酸合成相关基因的表达[32.40]，说明长期过度降低饲粮蛋白质不利于肌肉中脂肪酸合成。Doran等[50指出低蛋白质水平饲粮诱导肌肉中SCD基因的表达，从而促进肌肉中IMF的沉积。而本试验结果显示，适当的降低饲粮蛋白质水平虽然诱导LDM中SCD等脂肪酸合成基因的表达，同时也降低IMF的含量。Teye等[51]指出低蛋白质饲粮可增加LDM的嫩度、多汁性及IMF等肉品质，同时低蛋白质饲粮增加脂肪酸的氧化分解。而本试验获得相反的结果，降低饲粮蛋白质水平不影响猪肝脏及肌肉组织中脂肪酸氧化分解相关基因ATGL、DECR的表达，但降低LDM中CPT的基因表达量。说明低蛋白质饲粮是通过降低了长链脂肪酸的氧化分解，而不是影响肝脏及肌肉组织中甘油三酯水解及不饱和脂肪酸氧化分解来降低肌肉内脂肪酸的氧化分解。而肌肉中PPARα基因表达量在3个蛋白质水平饲粮中并没有表现出显著性差异，PPARy与FABP的表达趋势不一致，说明PPAR在调控脂肪酸氧化分解、转运具有组织特异性，存在其他的通路与PPAR共同调控肌肉中脂肪酸的代谢。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Zhao等[49指出IMF的含量取决于脂肪酸合成、转运及分解速度。本试验结果显示，MCP组LDM中脂肪酸合成相关基因SREBP、ACC、FAS、SCD基因表达量高于其他2组，脂肪酸转运蛋白FABP的基因表达量也高于HCP组，同时脂肪酸氧化分解基因ATGL、DECR基因表达量没有显著变化，脂肪酸氧化分解相关基因CPT的基因表达量也显著低于HCP组，但是IMF的含量却显著低于HCP组。降低饲粮蛋白质水平可降低肝脏中ANK1的基因表达量，而肌肉中ANK1的基因表达量变化则相反。锚蛋白（ANK）是重要的结构蛋白质家族基因，其中ANK1是与肉品质相关的功能性候选基因，尤其是IMF及系水力的影响[52-53]。降低饲粮蛋白质水平可增加肌肉中ANK1的基因表达量，可能是通过增加肌肉内细胞骨架蛋白质水解及重排降低IMF重要组成脂肪小球的聚集，从而降低了LDM的IMF含量，这也说明ANK1可能是决定IMF沉积的决定因素。上述研究结果提示，IMF的沉积可能不仅由脂肪酸合成、转运以及分解决定。研究指出，脂肪的沉积可能与三大营养物质蛋白质、糖类、脂类代谢过程紧密相关[54-56]。Hamill等[5提出在IMF含量高的肌肉组织中，许多脂肪酸氧化分解途径相关基因表达下调，高IMF含量抑制肌肉中脂肪酸周转，从而影响肌肉中脂肪的沉积。饲粮蛋白质水平降低影响仔猪及生长猪生长性能，即使在长期饲喂MCP饲粮并没有影响肥育猪的生长性能，但降低肥育猪的LDM中IMF含量。猪生长初期，尤其是断奶仔猪不适合降低饲粮蛋白质水平，断奶初期的饲喂低蛋白质水平饲粮也可能导致后期肥育猪肉品质下降。Gondret等[57-58]也提出长期降低饲粮蛋白质水平可导致IMF含量的降低，同时也指出IMF的聚集取决于脂肪细胞中脂肪酸合成与肌纤维细胞中脂肪酸氧化分解的平衡，也就是脂肪酸的周转。因此，长期持续适当降低饲粮蛋白质水平能够提高LDM中脂肪酸的合成、转运，并降低其分解，但没有提高LDM的IMF含量，说明提高IMF不只是与脂肪代谢相关，同时与其他营养物质代谢紧密相关。即使中蛋白质水平饲粮增加脂肪酸合成，由于从仔猪到生长肥育猪全程阶段降低蛋白质水平可能影响蛋白质、脂肪酸合成代谢，不能满足机体对蛋白质、脂肪酸的需求，导致脂肪酸及糖类物质向氨基酸的转换，从而影响了肌肉中脂肪的沉积。在肥育猪阶段合理降低饲粮蛋白质水平，不影响其生长性能前提下，可通过调节饲粮营养成分及比例，如添加某种氨基酸等方法增加IMF含量，提高肉品质。因此要通过降低饲粮蛋白质水平调节猪肉品质，除了调节饲粮中粗蛋白质水平还要考虑到降低蛋白质水平的幅度、添加氨基酸的种类、时间点的选择及期限，从而达到既能降低氮排放、饲养成本，又能提高猪肉品质的效果。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 适当降低饲粮蛋白质水平（ $6 \\%$ ）对肝脏中脂肪酸合成相关基因的表达无显著影响。$\\textcircled{2}$ 从仔猪到肥育猪阶段全程降低饲粮蛋白质水平可促进LDM中脂肪酸合成、转运相关基因的表达，但显著降低猪LDM中IMF的沉积，不利于肉品质的改善。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]CANH T T,AARNINK A J,VERSTEGEN M W,et al.Influence of dietary factors on the pH and ammonia emission of slurry from growing-finishing pigs[J].Journal of Animal Science,1998,76(4):1123-1130. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "LE BELLEGO L,VAN MILGEN J,DUBOIS S,et al.Energy utilization of low-protein diets in growing pigs[J].Journal of Animal Science,2001,79(5):1259-1271. TOUS N,LIZARDO R,VILA B,et al.Effect of reducing dietary protein and lysine on growth performance,carcass characteristics,intramuscular fat,and fatty acid profile of finishing barrows[J].Journal of Animal Science,2014,92(1):129-140. MADEIRA M S,ALFAIA C M,COSTA P,et al.The combination of arginine and leucine supplementation of reduced crude protein diets for boars increases eating quality of pork[J].Jourmal of Animal Science,2014,92(5):2030-2040. RUUSUNEN M,PARTANEN K,POSO R,et al.The effect of dietary protein supply on carcass composition,size of organs,muscle properties and meat quality of pigs[J].Livestock Science,2007,107(2/3):170-181. TIAN Z M,MA X Y,YANG X F,et al.Influence of low protein diets on gene expression of digestive enzymes and hormone secretion in the gastrointestinal tract of young weaned piglets[J].Journal of Zhejiang University Science B,2016,17(10):742-751. TAN B,YIN Y L,LIU Z Q,et al.Dietary $L$ -arginine supplementation increases muscle gain and reduces body fat mass in growing-finishing pigs[J].Amino Acids,2009,37(1):169-175. MA X Y,LIN Y C,JIANG Z Y,et al.Dietary arginine supplementation enhances antioxidative capacity and improves meat quality of finishing pigs[J].Amino Acids,2010,38(1):95-102. TAN B,YIN Y L,LIU Z Q,et al.Dietary $L$ -arginine supplementation differentially regulates expression of lipid-metabolic genes in porcine adipose tissue and skeletal muscle[J].Journal of Nutritional Biochemistry,2011,22(5):441-445. )]MADEIRA M S,PIRES V M R,ALFAIA C M,et al.Combined effects of dietary arginine,leucine and protein levels on fatty acid composition and gene expresson in the muscle and subcutaneousadipose tissue of crossbred pigs[J].British Journal of Nutrition,2014,111(9):1521-1535. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[11]MADEIRA M S,PIRES V M R,ALFAIA C M,et al.Differential efects of reduced protein diets on fatty acid composition and gene expression in muscle and subcutaneous adipose tissue of Alentejana purebred and Large White $\\times$ Landrace $\\times$ Pietrain crossbred pigs[J].British Journal of Nutrition,2013,110(2):216-229.   \n[12] HOCQUETTE J F,GONDRET F,BAEZA E,et al.Intramuscular fat content in meat:producing animals:development,genetic and nutritional control,and identification of putative markers[J].Animal,2010,4(2):303-319.   \n[13]FONT-I-FURNOLS M,TOUS N,ESTEVE-GARCIA E,et al.Do all the consumers accept marbling in the same way? The relationship between eating and visual acceptability of pork with different intramuscular fat content[J].Meat Science,2012,91(4):448-453.   \n[14]FORTIN A,ROBERTSON W M,TONG A K.The eating quality of Canadian pork and its relationship with intramuscular fat[J].Meat Science,2005,69(2):297-305.   \n[15]BREWER M S,ZHU L G,MCKEITH F K.Marbling effects on quality characteristics of pork loin chops:consumer purchase intent,visual and sensory characteristics[J].Meat Science,2001,59(2):153-163.   \n[16]FERNANDEZ X,MONIN G,TALMANT A,et al.Influence of intramuscular fat content on the quality of pig meat-2.Consumer acceptability of m.longissimus lumborum[J].Meat Science,1999,53(1):67-72.   \n[17]van LAACK R L,STEVENS S G,STALDER K J.The influence of ultimate pH and intramuscular fat content on pork tenderness and tenderization[J].Journal of Animal Science,2001,79(2):392-397.   \n[18]GLASER K R,WENK C,SCHEEDER M R L.Effects of feeding pigs increasing levels of C 18:1 trans fatty acids on fatty acid composition of backfat and intramuscular fat as well as backfat firmness[J].Archiv fur Tierernaehrung,2002,56(2):117-130.   \n[19]CASTELL A G,CLIPLEF R L,POSTE-FLYNN L M,et al.Performance,carcass and pork ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "characteristics of castrates and gilts self-fed diets differing in protein content and lysine:energy ratio[J].Canadian Journal of Animal Science,1994,74(3):519-528. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[20]GOERL K F,EILERT S J,MANDIGO R W,et al.Pork characteristics as affected by two populationsofswine and six crudeproteinlevels[J].JournalofAnimal Science,1995,73(12):3621-3626. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[21]KERR B J,MCKEITHF K,EASTER R A.Efect on performance and carcass characteristics of nursery to finisher pigs fed reduced crude protein,amino acid-supplemented diets[J].Journal of Animal Science,1995,73(2):433-440. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[22]DORAN O,WHITTINGTON F,HALLETT K,et al.Effect of a reduced protein diet on expression of lipogenic enzymes in relation to intramuscular fat formation in the pig[C]//Proceedings of the 2nd international symposium on energy and protein metabolism and nutrition.Vichy,France:EAAP,2007:125-126.   \n[23]LE BELLEGO L,VAN MILGEN J,NOBLET J.Effect of high temperature and low-protein dietsontheperformanceofgrowing-finishingpigs[J].JournalofAnimal Science,2002,80(3):691-701.   \n[24]NYACHOTI C M,OMOGBENIGUN F O,RADEMACHER M,et al.Performance responses and indicators of gastrointestinal health in early-weaned pigs fed low-protein amino acid-supplemented diets[J].Journal of Animal Science,2006,84(1):125-134.   \n[25]HTOO J K,SAUER W C,ZHANG Y,et al.The effect of feeding low-phytate barley-soybean meal diets differing in protein content to growing pigs on the excretion of phosphorus and nitrogen[J].Journal of Animal Science,2007,85(3):700-705.   \n[26]LIU Y Y,KONG X F,JIANG G L,et al.Effects of dietary protein/energy ratio on growth performance,carcass trait,meat quality,and plasma metabolitesin pigs of different genotypes[J].Journal of Animal Science and Biotechnology,2015,6:36.   \n[27]FIGUEROA J L,LEWIS A J,MILLER P S,et al.Nitrogen metabolism and growth performance of gilts fed standard corn-soybean meal diets or low-crude protein,amino acid-supplemented diets[J].Journal of Animal Science,2002,80(11):2911-2919. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[28] HE L Q,WU L,XU Z Q,et al.Low-protein diets affect ileal amino acid digestibility and gene expression ofdigestive enzymes in growing and finishing pigs[J].Amino Acids,2016,48(1):21-30. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[29]WU L,HE L Q,CUI Z J,et al.Effects of reducing dietary protein on the expression of nutrition sensing genes (amino acid transporters) in weaned piglets[J].Journal of Zhejiang Universityence B,2015,16(6):496-502. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[30]HE L Q,WU L,XU Z Q,et al.Low-protein diets affect ileal amino acid digestibility and gene expressionofdigestiveenzymesin growing and finishingpigs[J].Amino Acids,2016,48(1):21-30. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[31]BRILLOUET D.Gérer la croissance en post-sevrage[J].Porc Magazine,2002,351:59-67. [32] ZHAO S M,WANG J,SONG X L,et al.Impact of dietary protein on lipid metabolism-related gene expression in porcine adipose tissue[J].Nutrition & Metabolism,2010,7:6. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[33] FEIGE J N,GELMAN L,MICHALIK L,et al.From molecular action to physiological outputs:peroxisome proliferator-activated receptors are nuclear receptors at the crossroads of key cellular functions[J].Progress in Lipid Research,2006,45(2):120-159. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[34] YOON M J,LEE G Y,CHUNG J J,et al.Adiponectin increases faty acid oxidation in skeletal muscle cells by sequential activation of AMP-activated protein kinase,p38 mitogen-activated protein kinase,and peroxisome proliferator-activated receptor α[J].Diabetes,2006,55(9):2562-2570. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[35] YIN L Y,ZHANG Y Q,HILLGARTNER F B.Sterol regulatory element-binding protein-1 interacts with the nuclear thyroid hormone receptor to enhance acetyl-CoA carboxylase- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ transcription in hepatocytes[J].Journal of Biological Chemistry,2002,277(22):19554-19565. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[36] ZHANG Y Q,YIN L Y,HILLGARTNER F B.SREBP-1 integrates the actions of thyroid hormone,insulin,cAMP,andmedium-chain fattyacidson ACCαtranscriptionin hepatocytes[J].Journal of Lipid Research,2003,44(2):356-368. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[37] HORTON J D,GOLDSTEIN JL,BROWN M S.SREBPs:activators of the complete program ofcholesterolandfattyacidsynthesisintheliver[J].JournalofClinical ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Investigation,2002,109(9):1125-1131.   \n[38] MERSMANN H J.Lipoprotein and hormone-sensitive lipases in porcine adipose tissue[J].Journal of Animal Science,1998,76(5):1396-1404.   \n[39] STOECKMAN A K,TOWLE H C.The role of SREBP-1c in nutritional regulation of lipogenic enzyme gene expression[J].Journal of Biological Chemistry,2002,277(30):27029-27035.   \n[40] MORRIS S M JR,WINBERRY L K,FISCH J E,et al.Developmental and nutritional regulation of the messenger RNAs for fatty acid synthase,malic enzyme and albumin in the liversofembryonicandnewly-hatchedchicks[J].MolecularandCellular Biochemistry,1984,64(1):63-68.   \n[41] MAKOWSKI L,HOTAMISLIGIL G S.The role of fatty acid binding proteins in metabolic syndrome and atherosclerosis[J].Current Opinion in Lipidology,2005,16(5):543-548.   \n[42] BUTTET M,TRAYNARD V,TRAN T T T,et al.From fatt-acid sensing to chylomicron synthesis:role of intestinal lipid-binding proteins[J].Biochimie,2014,96:37-47.   \n[43] DUTTA-ROY A K.Cellular uptake of long-chain fatty acids:role of membrane-associated fatty-acid-binding/transport proteins[J].Cellular and Molecular Life Sciences,2000,57(10):1360-1372.   \n[44] COE N R,BERNLOHR D A.Physiological properties and functions of intracellular fatty acid-binding proteins[J].Biochimica et Biophysica Acta (BBA): Lipids and Lipid Metabolism,1998,1391(3):287-306.   \n[45] TAN N S,SHAW N S,VINCKENBOSCH N,et al.Selective cooperation between fatty acid binding proteinsandperoxisomeproliferator-activatedreceptorsinregulating transcription[J].Molecular and Cellular Biology,2002,22(14):5114-5127.   \n[46] GRINDFLEK E,SUNDVOLD H,LIEN S,et al.Rapid communication:physical and genetic mapping of the Peroxisome Proliferator Activated Receptor gamma (PPAR-gamma) gene to porcine chromosome 13[J].Journal of Animal Science,2000,78(5):1391-1392.   \n[47] STOTT W T,YANO B L,WILLIAMS D M,et al.Species-dependent induction of peroxisome ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "proliferation by haloxyfop,an aryloxyphenoxy herbicide[J].Fundamental and Applied Toxicology,1995,28(1):71-79. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[48] MANDARD S,MULLER M,KERSTEN S.Peroxisome proliferator-activated receptor $\\mathfrak { a }$ target genes[J].Cellular and Molecular Life Sciences,2004,61(4):393-416.   \n[49] ZHAO S M,REN L J,CHEN L,et al.Differential expression of lipid metabolism related genes in porcine muscletissue leadingtodifferentintramuscular fat deposition[J].Lipids,2009,44(11):1029-1037.   \n[50] DORAN O,MOULE S K,TEYE G A,et al.A reduced protein diet induces stearoyl-CoA desaturase protein expresson in pig muscle but not in subcutaneous adipose tissue:relationshipwithintramuscularlipidformation[J].BritishJournal of Nutrition,2006,95(3):609-617.   \n[51] TEYE G A,SHEARD P R,WHITTINGTON F M,et al.Influence of dietary oils and protein level on pork quality.1.Effects on muscle fatty acid composition,carcass,meat and eating quality[J].Meat Science,2006,73(1):157-165.   \n[52] HRYNIEWICZ-JANKOWSKA A,CZOGALLA A,BOK E,et al.Ankyrins,multifunctional proteinsinvolvedinmany cellularpathways[J].FoliaHistochemica et Cytobiol0gy,2002,40(3):239-249.   \n[53] ASLAN O,HAMILL R M,MULLEN A M,et al.Association between promoter polymorphisms in a key cytoskeletal gene (Ankyrin 1） and intramuscular fat and water-holding capacity in porcine muscle[J].Molecular Biology Reports,2012,39(4):3903-3914.   \n[54] LIU J S,DAMON M,GUITTON N,et al.Differentially-expressed genes in pig longissimus muscles with contrasting levels of fat,as identified by combined transcriptomic,reverse transcriptionPCR,andproteomicanalyses[J].JournalofAgriculturalandFood Chemistry,2009,57(9):3808-3817.   \n[55] DAMON M,DENIEUL K,VINCENT A,et al.Associations between muscle gene expression pattern and technological and sensory meat traits highlight new biomarkers for pork quality ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[56] HAMILL R M,MCBRYAN J,MCGEE C,et al.Functional analysis of muscle gene expression profiles associated with tenderness and intramuscular fat content in pork[J].Meat Science,2012,92(4):440-450. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[57] GONDRET F,HOCQUETTE J F,HERPIN P.Age-related relationships between muscle fat content and metabolic traits in growing rabbits[J].ReproductionNutrition Development,2004,44(1):1-16. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[58] GONDRET F,LEBRET B.Does feed restriction and re-alimentation differently affect lipid content and metabolism according to muscle type in pigs (Sus scrofa)?[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative Physiology,2007,147(2):375-382. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Effects ofLong-Term Feeding Diets with Different Protein Levels on Gene Expressions Related to Lipid Metabolism of Pigs ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "TIAN Zhimei MA Xianyong\\* WANG Li XIONG Yunxia QIU Yueqin YANG Xuefen GAO Kaiguo WEN Xiaolu HU Youjun JIANG Zongyong\\* (State Key Laboratory of Livestock and Poultry Breeding, Key Laboratory of Animal Nutrition and Feed Science in South China, Ministry of Agriculture, Guangdong Public Laboratory of Animal Breeding and Nutrition, Guangdong Key Laboratory of Animal Breeding and Nutrition, Institute of Animal Science, Guangdong Academy of Agricultural Sciences, Guangzhou 510640, China) Abstract: This experiment was conducted to study the effects of long-term feeding diets with different protein levels on gene expressions related to lipid metabolism of pigs. Eighteen cross-bred (Duroc×LandracexYorkshire) piglets weaned 28 days of age were randomly assigned to 3 groups with 6 replicates per group and 1 piglet per replicate. Piglets in control group [(high crude protein,HCP） group] were fed a diet based on the National Research Council (NRC) (2012）recommendation, those in experimental groups were fed diets with decreasing $3 \\%$ [(meaium cruae protein,MCr） group」 ana $6 \\%$ cruae protein leveis [(low cruae protein,LCP) group], respectively, based on NRC(20l2), and supplemented with 4 essential amino acids,; lysine,methionine,threonine and tryptophane. The experiment lasted for l25 days.The results showed as follows: 1) in liver, compared with HCP group,LCP group significantly decreased expressions of fatty acid synthesis genes including acetyl CoA carboxylase (ACC), fatty acid synthase (FAS)，malicenzyme 1 (ME1） and ankyrin 1(ANK1） $( P { < } 0 . 0 5 )$ ， and significantly increased expressions of fatty acid transport genes like peroxisome proliferator-activated receptor gamma (PPARy） and fatty acid binding proteins (FABP) $( P { < } 0 . 0 5 )$ . However, there were no significant differences between MCP and HCP groups in hepatic expressions of fatty acid synthesis genes and fatty acid transport genes $( P { > } 0 . 0 5 )$ . Compared with HCP group,there were significant increases in hepatic expressions of fatty acid oxygenolysis genes like peroxisome proliferator-activated receptor alfa $( P P A R \\alpha )$ and carnitine palmitoyltransferase (CPT) in MCP and LCP groups $( P { < } 0 . 0 5 )$ . 2) In the longissimus dorsis muscle (LDM), the expressions of fatty acid synthesis genes like sterol regulatory element binding protein (SREBP),FAS and stearoyl CoA desaturase (SCD) showed significantly higher in MCP group than other two groups $( P { < } 0 . 0 5 )$ ,but ACC and $F A B P$ displayed significantly lower expressions in LCP group than other two groups （204号 $( P { < } 0 . 0 5 )$ . The expression of CPT gene and intramuscular fat (IMF） content of LDM were significantly lower in LCP and MCP groups compared to HCP group $( P { < } 0 . 0 5 )$ . 3） In liver and LDM， there were no significant differences in expression of adipose triglyceride lipase (ATGL) and 2,4-dienoyl-CoA reductase (DECR) genes among three groups $( P { > } 0 . 0 5 )$ . In conclusion, decreasing dietary crude protein level $( 3 \\% )$ properly can promote expressions of fatty acid synthesis and transport genes,but has no significant effects on hepatic expressions of fatty acid synthesis genes; decreasing dietary crude protein level $( 3 \\% )$ properly can decrease hepatic expressions of fatty acid oxygenolysis genes, but does not affect IMF content of LDM. Key words: diet: protein: finishing pigs: lipid: metabolism: gene ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

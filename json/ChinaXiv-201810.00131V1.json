@@ -1,0 +1,401 @@
+[
+    {
+        "type": "text",
+        "text": "中国西部兰白西城市群经济增长结构分解及空间特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "贾卓12.3，陈兴鹏2.3，马振邦12，强文丽12，李恩龙（1兰州大学资源环境学院,甘肃兰州730000；2兰州大学资源环境学院中国西部循环经济研究中心，甘肃兰州 730000；3 兰州大学西部环境教育部重点实验室,甘肃兰州 730000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：采用偏离—份额四分量模型,分解 2010—2015年兰白西城市群41个县（区)经济增长结构;采用空间数据分析方法，分析41个县(区)经济增长总量及各分量空间特征。结果表明：(1)兰白西城市群呈现以兰州市和西宁市为双核心的“中心一外围”经济结构，兰州市的经济中心地位更为显著。(2)根据经济增长总量及各分量,将兰白西城市群41个县(区)分为经济快速增长型、经济滞后增长型、竞争力优势推动型和资源配置优势推动型等4种类型。（3)经济增长总量、份额偏离分量、产业结构分量在空间上存在集聚性特征，竞争力分量在空间上存在随机分布性特征，资源配置分量在空间上存在负相关性特征。(4)份额偏离分量、产业结构分量与经济增长总量的空间重合度较高，竞争力分量、资源配置分量与经济增长总量的空间重合度有待优化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：兰白西城市群；县域经济；偏离一份额四分量模型；空间数据分析；空间特征中图分类号：F292 文献标识码：A 文章编号:1000 -6060(2018)05-1106-09(1106\\~1114)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "城市群是国家推进新型城镇化的主要载体，是“一带一路\"建设的主战场[1],县域经济作为推动城市群繁荣发展的重要动力，承担着全面建成小康社会的战略使命[2]。因此,揭示城市群县域经济发展规律与空间特征,对城市群发展具有重要意义[3]国外学者从理论层面和实践层面开展了广泛研究，理论层面形成了区域增长极理论[4]，“中心一外围”理论[5],外部经济理论[6]、内生增长理论[7]、空间区位理论[8]等。在理论研究不断深化的基础上，国外学者针对典型区域开展了实践研究，MARK等运用空间计量模型进行趋同性分析，研究发现英国西南部地区经济发展具有空间聚集特征[9]。JULIE 等将地理单元间的相互作用与经济增长机制结合，研究发现空间依赖性对欧洲经济增长具有促进作用[10]CZAKO等分析多瑙河地区经济差异格局，认为区域之间的空间作用能够促进区域发展[11]。国外学者开展的理论和实践研究对国内学者开展相关研究具有重要借鉴意义，国内学者从全国到典型区域开展的相关研究主要集中在以下方面：（1)县域经济的发展模式：战炤磊将中国县域经济发展模式概括为7种类型，并分析不同发展类型所具有的适应性[12]；卢飞将新疆县域经济的发展模式划分为3种类型,并分析各类型的发展机制[13]。（2)县域经济的时空特征：刘彦随对中国县域城镇化的时空特征及形成机理进行分析[14]；丁建军对武陵山连片贫困区内各县域三次产业结构的空间分布特征进行分析[15];汪菲对新疆县域经济综合发展水平的空间格局、内部差异演化及其机理做出定量化分析[16](3)县域经济的发展效率：龙志和对中国县域经济$\\beta$ 收敛进行实证研究[17]；刘涛运对山东省91 个县域社会和经济综合指数、协调度、发展度和协调发展度进行量化分析[18]。（4)县域经济的影响因素：张改素对影响中原经济区县域经济密度空间分异的因素进行研究[19]；胥亚男对中原经济区范围内县域经济发展空间格局及影响因素进行分析[20]。已开展的研究虽然对分析县域经济有重要贡献，然而还需从以下方面开展研究：（1)多数研究主要分析县域经济发展的总体水平，对县域经济增长结构分解的研究有待加强。（2)多数研究主要针对全国或者中部、东部等典型区域，对西部培育发展的城市群研究有待加强。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "兰白西城市群是“丝绸之路经济带”的重要节点，是中国西部城市群的典型代表，是甘肃、青海两省的经济核心区，研究其经济增长特征能有效揭示中国西部城市群县域经济发展规律。兰白西城市群包括：兰州市、白银市、西宁市、定西市、临夏回族自治州和海东市等6个市(州），共辖41个县(区）（图1)[21-22]。兰白西城市群经济发展具有以下特征：(1)城市群经济总量在地区经济中占比高，对地区经济发展起到举足轻重的作用，2015年兰白西城市群地区生产总值为 $4 \\ 5 6 3 . 8 1 \\times 1 0 ^ { 8 }$ 元，占甘肃省和青海省两省地区生产总值 $9 \\ 2 0 7 . \\ 3 7 \\times 1 0 ^ { 8 }$ 元的$4 9 . 5 7 \\%$ 。（2)城市群内部经济差异大，各县（区）发展不均衡，2015年地区生产总值最高的兰州市城关区为 $7 7 5 . 1 9 \\times 1 0 ^ { 8 }$ 元,地区生产总值最低的临夏州积石山县为 $1 3 . 3 1 \\times 1 0 ^ { 8 }$ 元，两者之间相差58.24倍。(3)城市群经济增长速度高于地区整体水平，对地区经济增长具有引领作用,2010—2015 年兰白西城市群地区生产总值增长率为 $1 8 4 . 5 2 \\%$ ,是甘肃省和青海省两省地区生产总值平均增长率 $5 9 . 4 2 \\%$ 的3.1倍。基于此，本研究采用偏离一份额四分量模型，分解 2010—2015 年兰白西城市群 41个县(区)经济增长结构;采用空间数据分析方法，分析41个县(区)经济增长总量及各分量空间特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1偏离—份额 $\\hookleftarrow$ 分量模型偏离份额分析方法首先由DANIELCK提出[23],HARVEY S等设定出传统偏离—份额方程[24]，FAGERBERGJ和KUNDSENDC等采用该方法对生产力增长结构、综合生产增长进行分解研究[25-26],将研究区域经济增长在某一时期的变动分解为份额偏离分量、产业结构分量和竞争力分量[27]。传统模型中存在产业结构分量和竞争力分量之间具有相关性的缺陷，因此，ESTEBAN-MARQUILLASJM提出偏离一份额四分量模型[28],TOHRS证明该模型比传统模型在实际分析中更具优势[29]。偏离—份额四分量模型将区",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfaa97da874e98eee6645bf9d61718b80183fc4bc918ca99908a920157bfe2ae.jpg",
+        "img_caption": [
+            "图1中国西部兰白西城市群地理区位及空间范围"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Geographical position and spatial extension of Lanzhou-Baiyin-Xining urban agglomeration of western China域经济增长总量分解为份额偏离分量、产业结构分量、竞争力分量和资源配置分量，份额偏离分量和产业结构分量在偏离一份额四分量模型中与传统模型意义相同，偏离一份额四分量模型与传统模型的不同在于竞争力分量和资源配置分量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究以兰白西城市群为参考区，假设兰白西城市群中 $\\mathbf { \\chi } _ { i }$ 县 $( \\sqrt { \\mathsf { X } } ) j$ 产业基年的经济量为 $e _ { i j 0 } , i$ 县（区)基年经济总量为 $\\boldsymbol { e } _ { i 0 }$ ;经过 $\\mathbf { \\chi } _ { t }$ 年， $i$ 县(区） $) j$ 产业末年的经济量为 $e _ { i j t }$ . $i$ 县(区)末年经济总量为 $\\boldsymbol { e } _ { i t }$ ；兰白西城市群 $j$ 产业基年的经济量为 $E _ { j { 0 } }$ ,兰白西城市群基年经济总量为 $E _ { 0 }$ ;经过 $\\mathbf { \\Psi } _ { t } \\mathbf { \\Psi } _ { t }$ 年，兰白西城市群 $j$ 产业末年的经济量为 $E _ { j t }$ ,兰白西城市群末年经济总量为 $E _ { t }$ 。计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { i } = N _ { i } + P _ { i } + D _ { i } + L _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { N _ { i } ~ = ~ \\displaystyle \\sum _ { i = 1 } ^ { n } N _ { i j } , P _ { i } ~ = ~ \\displaystyle \\sum _ { i = 1 } ^ { n } P _ { i j } , D _ { i } ~ = ~ \\sum _ { i = 1 } ^ { n } D _ { i j } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { { \\cal L } _ { i } ~ = ~ \\displaystyle \\sum _ { i = 1 } ^ { n } { \\cal L } _ { i j } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { i j } = e _ { i j 0 } \\times \\frac { E _ { t } - E _ { 0 } } { E _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { _ { i j } } = e _ { _ { i j 0 } } \\times \\left( \\frac { E _ { _ { j t } } - E _ { _ { j 0 } } } { E _ { _ { j 0 } } } - \\frac { E _ { _ { t } } - E _ { 0 } } { E _ { _ { 0 } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { i j } = e _ { i 0 } \\times { \\frac { E _ { j 0 } } { E _ { 0 } } } { \\bigg ( } { \\frac { e _ { i j t } - e _ { i j 0 } } { e _ { i j 0 } } } - { \\frac { e _ { j t } - e _ { j 0 } } { E _ { j 0 } } } { \\bigg ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { i j } = \\left( e _ { i j 0 } - e _ { i 0 } \\times \\frac { E _ { j 0 } } { E _ { 0 } } \\right) \\times \\left( \\frac { e _ { i j t } - e _ { i j 0 } } { e _ { i j 0 } } - \\frac { E _ { j t } - E _ { j 0 } } { E _ { j 0 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $G _ { i }$ 为经济增长总量，表示 $\\mathbf { \\chi } _ { i }$ 县（区）经济总量相对于基期的总变动额，由份额偏离分量 $( N _ { i } )$ 、产业结构分量( $\\left( \\boldsymbol { P } _ { i } \\right)$ 、竞争力分量 $( D _ { i } )$ 和资源配置分量$( L _ { i } )$ 构成（公式1）。份额偏离分量 $( N _ { i } )$ 、产业结构分量 $( P _ { i } )$ 、竞争力分量 $( D _ { i } )$ 和资源配置分量 $( L _ { i } )$ 分别是 $i$ 县(区)各产业的份额偏离分量 $( N _ { i j } ) ^ { \\cdot }$ ）产业结构分量 $( \\boldsymbol { P } _ { i j }$ ）、竞争力分量 $( D _ { i j }$ ）和资源配置分量$( L _ { i j } )$ 之和（公式2）。 $N _ { i j }$ 为 $\\mathbf { \\chi } _ { i }$ 县（区） $\\vert j$ 产业的份额偏离分量（公式3），表示 $i$ 县 $( \\mathbb { X } ) j$ 产业经济按照兰白西城市群经济总量的平均增长率计算而得的预期经济增长量的偏离，该值越大意味着该县（区）发展优势越强。 $\\boldsymbol { P } _ { i j }$ 为 $\\mathbf { \\chi } _ { i }$ 县 $( \\mathbb { X } ) j$ 产业的产业结构分量（公式4），表示排除 $i$ 县 $( \\mathbb { X } ) j$ 产业以兰白西城市群 $j$ 产业与兰白西城市群全部产业的平均增速的差值进行发展所增加的量，该值越大表明 $j$ 产业超过了所有产业的平均水越多，即产业结构对经济增长的贡献越显著。 $D _ { _ { i j } }$ 为 $\\mathbf { \\chi } _ { i }$ 县(区） $j$ 产业的竞争力分量（公式5），表示 $\\mathbf { \\chi } _ { i }$ 县(区)j产业与兰白西城市群 $j$ 产业增长速度的差异引起的偏差，在竞争力分量中引入了同位变量 $( e _ { i 0 } \\times \\frac { E _ { j 0 } } { E _ { 0 } } )$ ,同位变量表示按照兰白西城市群 $j$ 产业的发展结构和模式进行发展时， $i$ 县(区)j产业基期应达到的产值。 $L _ { i j }$ 为 $i$ 县 $( \\sqrt { \\mathsf { X } } ) j$ 产业的资源配置分量(公式6），该分量由表示专业化程度的$L _ { i j 1 } ( L _ { i j 1 } = e _ { i j 0 } - e _ { i j 0 } \\times \\frac { E _ { j 0 } } { E _ { 0 } } )$ E）和表示比较优势度的Li$( L _ { i j 2 } = \\frac { e _ { i j t } - e _ { i j 0 } } { e _ { i j 0 } } - \\frac { E _ { j t } - E _ { j 0 } } { E _ { j 0 } } )$ )两项组成,Lij=Lij×Lij2,$L _ { i j 1 }$ 和 $L _ { i j 2 }$ 的正负代表 $\\mathbf { \\chi } _ { i }$ 县 $( \\mathbb { X } ) j$ 产业相对于兰白西城市群产业而言，是否具有较高的专业化程度和比较优势度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2空间数据分析方法（1）全局空间相关性分析。为分析41个县(区)经济增长总量及各分量在相邻空间单元是否存在空间自相关性，采用Mo-ran's $I$ 指数刻画41个县（区)经济增长总量及各分量空间集聚特征，计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = \\frac { \\displaystyle { \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { n } \\left( x _ { i } - \\bar { x } \\right) \\left( x _ { j } - \\bar { x } \\right) } } { \\displaystyle { S ^ { 2 } \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { n } w _ { i j } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $I$ 为Moran's $I$ 指数; $n$ 为城市群的县(区)数量； $x _ { i }$ 和 $x _ { j }$ 分别表示区域 $\\mathbf { \\chi } _ { i }$ 和区域 $j$ 的经济增长总量及各分量； $\\bar { \\boldsymbol { x } }$ 是均值; $S ^ { 2 }$ 是方差； $\\boldsymbol { w } _ { i j }$ 为空间权重矩阵（区域 $i$ 和区域 $j$ 相邻时， $w _ { i j } = 1$ ；区域 $i$ 和区域 $j$ 不相邻时， $w _ { i j } = 0$ ),Moran’s $I$ 值在 $- 1 \\sim 1$ 之间，对 $I$ 进行 $Z$ 检验,其显著为正表示各县(区)经济增长总量及各分量存在空间相关性，显著为负值则表示空间相关性为负，为零则表示呈空间随机分布。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）热点分析。全局空间相关性分析能反映整体空间特征，但不能有效分析局部空间特征。为揭示各县（区）对全局空间相关性的贡献，采用Getis-$\\mathrm { O r d } _ { \\mathrm { i } } ^ { \\ast }$ 指数分析高值或低值要素的空间聚类，计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { i } ^ { * } \\left( d \\right) = \\ \\sum _ { i = 1 } ^ { n } \\ w _ { i j } ( d ) P _ { i } \\Bigg / \\ \\sum _ { i = 1 } ^ { n } \\ P _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { P } _ { i }$ 为县(区)的观测值, $\\boldsymbol { w } _ { i j }$ 为空间权重矩阵,空间相邻时, $w _ { i j } = 1$ ;空间不相邻时， $w _ { i j } = 0$ 。若 $\\boldsymbol { G } _ { i } ^ { * }$ 为显著为正，说明经济增长总量及各分量高值空间集聚，即为热点区；反之，则为冷点区。按照最佳自然断裂法将 $\\boldsymbol { G } _ { i } ^ { * }$ 由高到低分为热点区、次热点区、次冷点区和冷点区4类[30] O",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 数据来源",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究所用数据主要来源为：（1)经济数据来源于2011和2016 年《甘肃省发展年鉴》、2011和2016年《青海统计年鉴》,主要包括：兰白西城市群41 个县(区)地区生产总值、三次产业的生产总值。由于价格因素不影响2010—2015 年兰白西城市群经济增长结构分解以及空间特征分析，本研究没有对原始数据进行价格调整。(2)空间数据来源于中国科学院资源环境科学数据中心提供的中国县级行政边界数据（http：//www.resdc.cn/data.aspx？DATAID$= 2 0 2$ ),包括甘肃省、青海省所辖的41个县（区）。行政区划信息来源于中华人民共和国民政部全国行政区划信息平台查询网站（http：//202.108.98.30/map），由于2010—2015年兰白西城市群41个县（区)未进行大规模行政区划调整，本研究以2015年行政区划为基准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3兰白西城市群经济增长结构分解及空间特征分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1兰白西城市群经济增长结构分解",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以兰白西城市群为参考区，对2010—2015年兰白西城市群41个县(区)经济增长结构分解。根据公式(3）\\~(6)计算41个县(区)三次产业的份额偏离分量 $( N _ { i j } )$ 、产业结构分量( $\\cdot P _ { i j } )$ 、竞争力分量 $( D _ { i j }$ ）和资源配置分量( $\\cdot { { L } _ { i j } } )$ ，根据公式（1）～（2）计算41个县(区)经济增长总量 $( G _ { i } )$ 、份额偏离分量 $( N _ { i } )$ 、产业结构分量 $( \\boldsymbol { P } _ { i } ^ { \\phantom { \\dagger } } )$ ）、竞争力分量 $( D _ { i } )$ 和资源配置分量 $( L _ { i } )$ （图2）。2010—2015年兰白西城市群41个县(区)经济发展水平呈不断增长趋势，但41个县（区)之间经济发展水平及增长速度均具有非均衡性，其中，26个县(区)经济增长速度高于兰白西城市群整体经济增长速度，15个县(区)低于兰白西城市群整体经济增长速度，为揭示兰白西城市群41个县（区)经济增长特征，对其经济增长总量及各分量分析：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2010—2015 年兰白西城市群41个县(区)经济增长总量均为正值，表明41个县（区)经济总体呈现增长趋势，其中经济增长总量前5位县（区）为：兰州市所辖城关区、七里河区，西宁市所辖城西区、城东区、城中区，分别为 $9 8 7 . 7 8 \\times 1 0 ^ { 8 }$ 元、 $. 1 9 7 . 4 1 \\times$ $1 0 ^ { 8 }$ 元 ${ } . 1 2 2 . 3 0 \\times 1 0 ^ { 8 }$ 元、 $1 1 6 . 2 2 \\times 1 0 ^ { 8 }$ 元、 $1 0 9 . 4 7 \\times$ $1 0 ^ { 8 }$ 元,这5个县(区)分别为兰州市和西宁市的核心城区，也是兰白西城市群的经济核心区。经济增长总量后5位县（区）为：临夏州所辖广河县、东乡县、和政县、积石山县，西宁市所辖湟源县，分别为$8 . 9 1 \\times 1 0 ^ { 8 }$ 元 $\\phantom { + } 8 . 1 8 \\times 1 0 ^ { 8 }$ 元 $. 7 . 5 3 \\times 1 0 ^ { 8 }$ 元 ${ \\phantom { - } } 6 . 3 3 \\ \\times$ $1 0 ^ { 8 }$ 元 $\\phantom { 0 } { \\phantom { 0 } } . 6 9 \\times 1 0 ^ { 8 }$ 元,这5个县(区)是兰白西城市群的外围县（区）。因此，兰白西城市群呈现以兰州市和西宁市为双核心的“中心一外围”经济结构，且兰州市的经济中心地位更为显著。份额偏离分量受各县(区)基期经济规模和城市群平均发展速度影响，份额偏离分量前5位县（区）为：兰州市所辖城关区、西固区、七里河区，白银市所辖白银区，西宁市所辖城北区，分别为 $1 8 7 . 0 0 \\times 1 0 ^ { 8 }$ 元、 $. 1 0 5 . 9 3 \\times 1 0 ^ { 8 }$ 元、 $. 1 0 2 . 0 0 \\times 1 0 ^ { 8 }$ 元 ${ . 7 3 . 5 0 \\times 1 0 ^ { 8 } }$ 元 $. 1 8 7 . 0 0 \\times 1 0 ^ { 8 }$ 元。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4030 A300 份额偏离分量 产业结构分量 竞争力分量/ 250 资源配置分量 一一经济增长总量200150A 品100500 面 年 H L 1 □ 国 W 日自日 自自-50城 理 西安红永皋榆白平靖会景城城 湟湟安通陇渭临 临神广东石麻豬到倔七 积",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Totaleconomicgrowthamountanditscomponentsof41coutiesinLanzhou-Baiin-XiningurbanaglomerationofesterChin ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "份额偏离分量后5位县（区）为：临夏州所辖康乐县、广和县、东乡县、和政县、积石山县，分别为$4 . 4 2 \\times 1 0 ^ { 8 }$ 元 $\\ 、 4 . 4 1 \\times 1 0 ^ { 8 }$ 元 $\\phantom { + } 3 . 9 4 \\times 1 0 ^ { 8 }$ 元 $\\phantom { - } 3 . 6 8 \\times$ ${ 1 0 } ^ { 8 }$ 元 $\\phantom { - } 3 . 4 4 \\times 1 0 ^ { 8 }$ 元,这5个县(区)均属于六盘山集中连片特困地区。产业结构分量表明产业结构对经济增长的贡献，兰白西城市群41个县(区)产业结构分量均为正值，这表示41个县（区）的产业结构均对经济增长均具有促进作用。兰州市所辖城关区、城西区、七里河区，以及西宁市所辖城中区的产业结构分量对各自经济增长的贡献度尤为显著；临夏州所辖东乡县、和政县、积石山县、康乐县的产业结构分量对经济增长的促进作用较弱。竞争力分量表示除产业结构以外的地区因素（生产效率、经济状况、扶持政策等)对经济增长的贡献，该值越大表明该县（区)在整个兰白西城市群的竞争力越强。资源配置分量表示兰白西城市群范围内资源向各县（区)集聚或离散的程度，该值越大表明该县（区）资源配置越合理，资源向具有比较优势的产业集中或从具有比较劣势的产业离散，若为负值恰好相反，表示资源配置不合理。由于兰白西城市群41个县（区)经济增长总量、份额偏离分量和产业结构分量均为正值，竞争力分量和资源配置分量却出现负值，根据竞争力分量和资源配置分量对经济增长总量贡献的正负差异，将41个县(区)分为4类：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）经济快速增长型：兰州市所辖七里河区、安宁区，西宁市所辖城东区，临夏州所辖临夏县、康乐县、广河县，海东市所辖化隆县等7个县(区)竞争力分量和资源配置分量均为正值。七里河区、安宁区和城东区竞争力分量优势显著，分别为 $2 8 . 4 4 \\times$ ${ 1 0 } ^ { 8 }$ 元 ${ } . 2 5 . 2 3 \\times 1 0 ^ { 8 }$ 元和 $1 8 . 9 8 \\times 1 0 ^ { 8 }$ 元,临夏县、康乐县、广河县和化隆县的竞争力分量相对较低，增长速度较为缓慢；城东区资源配置分量最高，为 $9 . 7 0 \\times$ $1 0 ^ { 8 }$ 元,这是由于第一产业、第二产业和第三产业均具有资源配置优势，七里河区、安宁区、临夏县、康乐县、广河县和化隆县等6个县(区)的资源配置分量虽然对经济增长产生正向效应，但是贡献度较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）经济滞后增长型：兰州市所辖西固区，白银市所辖白银区、平川区，西宁市所辖大通县等4个县（区）竞争力分量和资源配置分量均为负值，使其经济增长滞后于城市群整体。此类县（区)的经济发展主要由石油炼制和化工、有色金属冶炼和加工、煤炭采掘和发电等资源型产业推动，但是2010一2015年此类产业受产业发展环境影响，发展相对迟缓，甚至出现负增长，从而使这4个县(区)经济增长滞后。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）竞争力优势推动型：兰州市所辖红古区、皋兰县、榆中县，西宁市所辖城中区、城西区，定西市所辖安定区、通渭县、渭源县、临洮县、漳县、岷县，临夏州所辖临夏市、和政县、东乡县，海东市所辖平安区、民和县、乐都区、互助县、循化县等19个县（区)竞争力分量为正，但资源配置分量为负值。城中区、民和县、乐都区、互助县、平安区、城西区和循化县竞争力分量均在 $1 0 \\times 1 0 ^ { 8 }$ 元以上，这得益于第二和第三产业的竞争力优势;榆中县、安定区、临夏市、临洮县、通渭县、岷县、皋兰县、红古区、东乡县、和政县的第三产业的竞争力优势使其竞争力分量均为正值。此类县（区)主要通过产业竞争力来推动经济增长，资源配置分量对经济增长的推动作用有待提升。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（4）资源配置优势推动型：兰州市所辖城关区、永登县，白银市所辖靖远县、会宁县、景泰县，西宁市所辖城北区、湟中县、湟源县，定西市所辖陇西县，临夏州所辖永靖县、积石山县等11个县（区）竞争力分量为负值，但资源配置分量为正值。此类县（区）第三产业或第二产业方面资源配置分量较高，部分县(区)第一产业在资源配置方面具有优势。但是竞争力分量却不具有优势，此类县（区）的经济增长属于资源配置推动型，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2兰白西城市群经济增长总量及各分量空间特征3.2.1全局空间自相关分析利用Geodal.6.0，选择距离权重作为空间权重定义方法，分析2010一2015年兰白西城市群41个县(区)经济增长总量及各分量是否存在空间依赖性。结果表明：经济增长总量、份额偏离分量和产业结构分量的Moran’sI都在 $1 \\%$ 水平下显著，分别为0.2634、0.2509和0.1405，即，2010—2015年兰白西城市群 41县（区)的经济增长总量、份额偏离分量和产业结构分量存在着显著的全局空间自相关性特征，经济增长总量、份额偏离分量和产业结构分量较高的县（区）与其他具有较高经济增长总量、份额偏离分量和产业结构分量的县(区)在空间分布上相互邻近，反之亦然。竞争力分量和资源配置分量的Moran’sI均在 $5 \\%$ 水平下显著，分别为0.0037和-0.1345，表明兰白西城市群41县(区)的竞争力分量在空间上呈现随机分布性特征，资源配置分量在空间上呈现负相关性特征（图3）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2热点分析由于区域要素普遍存在空间异质性，总体空间差异有可能掩盖局部空间上差异的变化，因此，利用ArcGIS10.2软件，分别将2010—2015 年兰白西城市群41个县(区)经济增长总量、份额偏离分量、产业结构分量、竞争力分量和资源配置分量分为热点区、次热点区、次冷点区和冷点区4",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "类(图4)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从经济增长总量热点图可知，兰州市所辖城关区、七里河区、安宁区为热点区，形成经济增长优势明显的集聚区；西宁市所辖城中区、城西区、城北区、城东区、湟中县、以及兰州市所辖西固区、皋兰县、榆中县为次热点区；兰州市所辖红古区、永登县，西宁市所辖大通县、湟源县，定西市所辖临洮县，临夏州所辖永靖县，海东市所辖互助县、平安区、乐都区、化隆县为次冷点区;白银市所辖白银区、平川区、靖远县、会宁县、景泰县，定西市所辖安定区、通渭县、陇西县、渭源县、漳县、岷县，临夏州所辖临夏市、临夏县、康乐县、广河县、和政县、东乡县、积石山县,海东市所辖民和县、循化县为冷点区，形成经济增长总量洼地。从经济增长总量而言，兰白西城市群经济发展具有“中心一外围”特征。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b25e3b619aaac11b5bd57ffb5222dfc9dcaacf48b43c98751495bdce498d1f3c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从份额偏离分量热点图可知，兰州市所辖城关区、七里河区、安宁区、西固区、皋兰县、榆中县，西宁所辖城中区、城西区、城北区为热点区；兰州市所辖红古区、皋兰县，西宁市所辖城东区、大通县、湟中县、湟源县,白银市所辖白银区、景泰县、靖远县，临夏州所辖永靖县，海东市所辖平安区、互助县为次热点区；白银市所辖平川区、会宁县，定西市所辖通渭县、临洮县、岷县，临夏州所辖临夏市，海东市所辖乐都区、民和县、化隆县为次冷点区;定西市所辖安定区、陇西县、渭源县、漳县，临夏州所辖临夏县、康乐县、永靖县、广河县、和政县、东乡县、积石山县为冷点区。从份额偏离分量而言，兰白西城市群各县（区)经济份额偏离分量与经济增长总量空间分布具有一致性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从产业结构分量热点图可知，兰州市所辖城关区、七里河区、安宁区、榆中县、皋兰县为热点区；兰州市所辖西固区，西宁市所辖城中区、城东区、城西区、城北区、湟中县为次热点区；兰州市所辖红古区、永登县，西宁市所辖大通县、湟源县，白银市所辖白银区、平川区、景泰县、靖远县，定西市所辖通渭县、岷县、临洮县，临夏州所辖临夏市、永靖县,海东市所辖平安区、乐都区、互助县为次冷点区；定西市所辖安定区、会宁县、陇西县、渭源县、漳县，临夏州所辖临夏县、康乐县、广河县、和政县、东乡县、积石山县,海东市所辖民和县、化隆县、循化县为冷点区。从产业结构分量而言，兰白西城市群各县(区)产业结构分量与经济增长总量空间分布重合度较高，说明产业结构优势有效推动着各县（区)经济发展。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从竞争力分量热点图可知，兰州市所辖城关区、七里河区，西宁市所辖城东区，定西市所辖安定区、临洮县，海东市所辖平安区、乐都区、化隆县、循化县为热点区；兰州市所辖安宁区、西固区、永登县、榆中县，西宁市所辖城中区、城西区、城北区、湟中县，白银市所辖会宁县，定西市所辖通渭县、陇西县、渭源县、漳县、岷县，临夏州所辖临夏市、临夏县、康乐县、永靖县、广河县、和政县、东乡县、积石山县，海东市所辖民和县为次热点区；兰州市所辖红古区、皋兰县，西宁所辖大通县、湟源县，白银市所辖白银区、平川区、靖远县，海东市所辖互助县为次冷点区；白银市所辖景泰县为冷点区。从竞争力分量而言，兰白西城市群县域经济竞争力分量与经济增长总量空间分布重合度较低，说明各县（区）产业竞争力优势对各县（区)经济发展的推动作用有限。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从资源配置分量热点图可知，西宁市所辖大通县、湟源县，海东市所辖平安区为热点区；兰州市所辖城关区、榆中县，西宁市所辖城东区、城中区、城北区、湟中县，白银市所辖平川区、景泰县，定西市所辖通渭县、陇西县、渭源县、漳县、岷县，海东市所辖民和县、互助县、化隆县、循化县，临夏州所辖临夏市、临夏县、康乐县、广河县、和政县、东乡县、积石山县为次热点区；兰州市所辖安宁区，西宁市所辖城西区，白银市所辖白银区、靖远县、会宁县，定西市所辖安定区、临洮县，海东所辖乐都区为次冷点区；兰州市所辖七里河区、西固区、红古区、皋兰县、永登县，临夏州所辖永靖县为冷点区。从资源配置分量而言，兰白西城市群县域经济资源配置分量与经济增长总量空间分布重合度有待提高，说明各县（区）资源配置分量未能充分发挥其对各县（区)经济增长的推动作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对2010—2015年兰白西城市群41个县(区)经济增长结构分解，并分析经济增长总量及各分量空间特征，得到以下结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）兰白西城市群41个县（区)经济发展水平呈不断增长趋势,但各县(区)之间经济增长速度呈现非均衡性。兰白西城市群呈现以兰州市和西宁市为双核心的“中心一外围”经济结构，且兰州市的经济中心地位更为显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）由于兰白西城市群41个县(区)增长总量、份额偏离分量和产业结构分量均为正值，竞争力分量和资源配置分量却出现负值，根据竞争力分量和资源配置分量对经济增长总量贡献的正负差异，将兰白西城市群41个县（区）分为经济快速增长型、经济滞后增长型、竞争力优势推动型和资源配置优势推动型等4种类型。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）经济增长总量、份额偏离分量、产业结构分量的Moran’s $I$ 均在 $1 \\%$ 水平下显著，分别为$0 . 2 6 3 4 . 0 . 2 5 0 9 . 0 . 1 4 0 5$ ，表明兰白西城市群41县（区)的经济增长总量、份额偏离分量和产业结构分量存在空间集聚性特征。竞争力分量和资源配置分量的Moran's $I$ 均在 $5 \\%$ 水平下显著,分别为0.0037和-0.1345，表明兰白西城市群41县（区）的竞争力分量在空间上存在随机分布性特征，资源配置分量在空间上存在负相关性特征。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）份额偏离分量、产业结构分量与经济增长总量的空间一致性较高，经济增长总量、份额偏离分量和产业结构分量的热点区、次热点区主要集中在兰州市和西宁市的经济核心县（区），然而冷点区、次冷点区主要集中在定西市和临夏州所辖的部分欠发达县（区）。竞争力分量和资源配置分量与经济增长总量的空间重合度有待优化,竞争力分量和资源配置分量对城市群县域经济发展的推动作用尚未有效发挥。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］新华社.国家新型城镇化规划(2014—2020 年)［Z].2014. [Xinhua News Agency.New urbanization plan of the state (2014—2020)[Z].2014.]   \n[2]王月英,文雯.关中城市群县域层面经济紧凑度分析[J].城市 发展研究,2016,23(8）:22-28.[WANGYueying,WENWen.Analysis of county economic compactness in Guanzhong urban agglomeration[J].Urban Development Studies,2016,23（8）:22- 28.]   \n[3］黄玉兴,陈忠暖,陈业滨,等.关中一天水城市群与环长株潭城 市群经济影响因素作用特征分析[J].干旱区地理,2016,39 （5）:1135-1142.[HUANG Yuxing,CHEN Zhongnuan,CHEN Yebin,et al.Comparative analysis of factor features of economic development of Guanzhong-Tianshui and Changsha-Zhuzhou-Xiangtan urban agglomerations[J].Arid Land Geography,2O16,39 (5):1135-1142.]   \n[4] PERROUX F.Economic space：Theory and application[J].The Quarterly Journal of Economics,1950,64(1):89-104.   \n[5] FRIEDMAN JR.Regional development policy:A case study of Venezuela[M].Cambridge：The MIT Press,1966:1-7.   \n[6] WOOLCOCK S.The effectiveness of EU external economic policies [C]//Rout ledge handbook on the European Union and international institutions:Performance,policy,power.2O13:324-343.   \n[7] NOVALES A,FEMANDEZE,RUIZ J.Endogenous growth models [M].Berlin:Springer,2014:2-4.   \n[8] KRUGMAN P.Complex landscapes in economic geography[J].American Economic Review,1994,84(2）:412-416.   \n[9] MARK Roberts.The growth performances of the GB counties :Some new empirical evidence for 1977—1993[J].Regional Studies， 2004,38(2):149 -165.   \n[10］JULIE Le Gallo,SANDY Dall'erba.Evaluating the temporal and spatial heterogeneity of the European convergence process,1980— 1999[J]. Journal of Regional Science.2006,46(2）:269 -288.   \n[11]CZAKO K,FEKETE D,POREISZ V. Economic diffrencesof countries by the River Danube[J]. Journal of Procedia Economic and Finance,2014,（9）:163-175.   \n[12］战炤磊.中国县域经济发展模式的分类特征与演化路径[J]. 云南社会科学,2010,（3）:109-113.[ZHAN Zhaolei.Characteristics and evolution path of county economic development model in China[J].Social Sciences in Yunnan,2010,(3）:109-113.]   \n[13］卢飞,刘明辉,蒙永胜.新疆县域经济的增长模式[J].经济地 理,2016,36(3）:25-31.[LUFei,LIU Minghui,MENG Yongsheng.Regional economic development model in Xinjiang in county stale[J].Economic Geography,2016,36(3）:25-31.]   \n[14］刘彦随,杨忍.中国县域城镇化的空间特征与形成机理[J].地 理学报,2012,67（8）:1011-1020.[LIU Yansui,YANG Ren. The spatial characteristics and formation mechanism of the county urbanization in China[J].Acta Geographica Sinica,2012,67(8）: 1011 -1020.]   \n[15］丁建军,李峰,黄利文.连片特困区县域经济增长效应分解及 空间特征分析——以武陵山片区为例[J].经济地理,2013,33 (2）:47-52.[DING Jianjun,LI Feng,HUANG Liwen. Spatial characteristics and decomposition of economic growth effect of counties in contiguous destitute district:Take Wuling Mountain areaas example[J].Economic Geography,2013,33(2）:47-52.]   \n[16］汪菲,杨德刚,张新焕,等.新疆县域经济格局及其内部差异演化 和机理分析[J].干旱区地理,2014,37(4)：820-830.［WANG Fei,YANG Degang,ZHANG Xinhuan,et al.Spatial pattern and internaldifferences evolvement of economy in Xinjiang at the county level[J].Arid Land Geography,2014,37(4):820-830.]   \n[17］龙志和,陈芳,林光平.中国区域经济收敛的空间面板分析- 基于2000—2008 年 1271个县的实证研究［J].中国科技论 坛,2012,（1）:102-108.[LONG Zhihe,CHEN Fang,LIN Guangping.Spatial econometric analysis of China's economic growth convergence based on the county-level panel data[J].Forum on Science & Technology in China,2012,（1）:102-108.]   \n[18］刘涛.山东县域社会经济协调发展格局及对策研究[J].中国 人口·资源与环境,2011,21（11）:169-174.［LIU Tao.Study on coordinated development pattern of county economy and society in Shandong Province and the countermeasure[J].China Population Resources & Environment,2011,21(11） :169-174.]   \n[19］张改素，丁志伟,赵萌,等.中原经济区县域经济密度的空间分 异及影响因素[J].经济地理,2014,34(9)：19-26.［ZHANG Gaisu,DING Zhiwei ,ZHAO Meng,et al. Spatial variation and its influencing factors of economic density in CPER at county level [J].Economic Geography,2014,34(9）:19 -26.]   \n[20］胥亚男,李二玲,屈艳辉,等.中原经济区县域经济发展空间格 局及演变[J].经济地理,2015,35(4）：33-39.[XUYanan,LI Erling,QU Yanhui,et al. Spatial pattern change of the county scale economic development in Central Plains Economic Region[J].Economic Geography,2015,35(4） :33-39.]   \n[21］贾卓,陈兴鹏,杨金强.青藏高原向黄土高原过渡带城市群功 能定位和支撑路径研究[J].兰州商学院学报.2013,（2）：74 -79.[JIA Zhuo,CHEN Xingpeng,YANG Jinqiang. Discussionon functional orientation and supporting path of urban agglomeration from Qinghai Tibet to Loess Plat:A case of Lan-Bai-Xi urban agglomeration[J].Journal of Lanzhou Commercial College,2013, (2):74-79.]   \n[22］贾卓，陈兴鹏,杨璟恒，等.兰白西城市群空间范围界定和空间 发展战略研究[J].西北师范大学学报（自然科学版）,2013， 49（3）:11O-114.[JIA Zhuo,CHEN Xingpeng,YANG Jingheng, et al.Discussion on ranged space and spatial development strategy ofLan-Bai-Xi urban agglomeration[J]. Journal of Northwest Normal University,2013,49(3):110-114.]   \n[23]DANIEL C K.Shift to manufacturing industries[M]//Industrial location and national resources.Washington D.C：National Resource Planning Board,1942:3 -11.   \n[24]HARVEY S.Peroff.Regions,resources and economic growth[M]. Baltimore,Maryland：Johns Hopkins Press,196O:2-6.   \n[25]FAGERBERG J. Technological progress,structural change and productivity growth:A comparative study[J].Structural Change and Economic Dynamics,2000,11(4）:393-411.   \n[26]KUNDSEN D C. Shift-share analysis:Further examination of models for the description of economic change[J].Socio-economic Planning Sciences,2000,（34）:177-198.   \n[27］贾卓，陈兴鹏，王鹏.中国西部城市群产业结构测度及产业升 级路径选择-以兰白西城市群为例[J].重庆大学学报（社会 科学版）,2014,20（5）:1-8.[JIA Zhuo,CHEN Xingpeng, WANG Peng.Discussion on industrial structure and industrial upgrading path of west China:A case of Lan-Bai-Xi urban agglomeration[J].Journal of Chongqing University(Social Science Edition) ,2014,20(5):1 -8.]   \n[28］ESTEBAN-MARQUILLAS JM.A reinterpretation of shift-share analysis[J].Regional and Urban Economics,1972,（3）:249- 255.   \n[29]TOHR S,KHANH,LAYLINGL. Two-stage shift-share analyses of tourism arrivals and arrivalsby purpose of visit:The Singapore experience[J].Journal of Travel Research,2004,43(8）:57- 66.   \n[30］孙玉，程叶青，张平宇.东北地区乡村性评价及时空分异.地理 研究,2015,34（10）:1864-1874.[SUN Yu,CHENG Yeqing, ZHANG Pingyu. Spatio-temporal dynamics of rurality in northeast China[J].Geographical Research,2015,34（10）:1864-1874.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Structural decomposition and spatial characteristics in economic growth of the Lanzhou-Baiyin-Xining urban agglomeration in western China ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "JIA Zhu01,23，CHENXing-peng1,2，MA Zhen-bang1²2，QIANG Wen-li'，LIEn-long1 (1Collge of Earth and Environmental Sciences,Lanzhou University,Lanzhou 73oooo,Gansu,China;   \n2Research Institute for Circular Economy in Western China,Colege of Earthand Environmental Sciences,Lanzhou University,Lanzhou 73oooo,Gansu,China;   \n3The Key Laboratory of Western China's Enwironmental Systems,Ministry of Education,Lanzhou University， Lanzhou 730000,Gansu,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Esteban-Marquillas’Shift-share Model is used in the analysis of economic growth and structural decompositionof the Lanzhou-Baiyin-Xining urbanagglomeration of Gansu and Qinghai Province,northwestern China,from 2010 to 2O15.The spatial data analysis method isusedforinvestigating thespatial characteristicsof the total amount of economic growth and its components.The results showed as follws:（1）Economic growth is unbalanced among the 41 counties ofLanzhou-Baiyin-Xining Urban Aggomeration,and it displayed a pattrnof‘core-periphery’with Lanzhouand Xining City being thedualcoresand therestbeing the peripheries.As the economic center,Lanzhou is more significant.（2）According to the total amount of economic growth and its components,41 counties are divided into 4 types:the rapid economic growth type,the economic lag growth type,the competitive advantage driven type and the resource allcation advantage driven type.（3）Total amount of economic growth,the component of share deviation,thecomponent of industrial structure had characteristicsof agglomeration in space,whilethecomponentof competitiveness hadcharacteristicsof random distribution,and the component of resource allcation had negative spatial correlation.（4）The spatial coincidence degree of thecomponent of share deviation,thecomponent of industrial structure and total amount of economic growth is relativelyhigh.The spatialcoincidence degreeof thecomponent of competitiveness,the component of resource allocation and totalamount of economic growth needs to be optimized. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words：Lanzhou-Baiyin-Xining urban agglomeration；county economy；Esteban-Marquillas'shift-share model；spatial data analysis method；spatial characteristics ",
+        "page_idx": 8
+    }
+]

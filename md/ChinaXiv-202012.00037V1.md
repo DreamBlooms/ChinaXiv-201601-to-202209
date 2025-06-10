@@ -1,0 +1,222 @@
+# 半干旱区沙丘、草甸作物系数模拟及蒸散发估算
+
+李霞¹，刘廷玺¹²，段利民¹²，童新²， 王冠丽1.2(1.内蒙古农业大学水利与土木建筑工程学院,内蒙古 呼和浩特 010018;2.内蒙古自治区水资源保护与利用重点实验室,内蒙古 呼和浩特010018)
+
+摘要：作物系数 $( K _ { \mathrm { { c } } } )$ 对提高实际蒸散量的估算精度及区域水资源调控具有重要意义。通过Landsat8数据计算归一化植被指数(NDVI)、土壤调整植被指数(SAVI)和简单比值植被指数(SR),结合2017年地面实测土壤含水量(SM)和叶面积指数(LAI),通过逐步回归分析建立科尔沁地区草甸及沙丘试验区的作物系数估算模型,利用2018年模拟作物系数值与 $\mathrm { F A O } 5 6 \mathrm { P - M }$ 模型计算所得潜在蒸散量 $( E T _ { 0 } )$ 相乘，得到实际蒸散量 $( E T _ { \mathrm { a } } )$ 的估算值，与涡度相关系统所测实际蒸散量进行对比验证。结果表明：(1）草甸和沙丘试验区的作物系数在生长季内的变化趋势与植被指数及SM具有一致性，说明了基于这些指标建立 $K _ { \mathrm { c } }$ 估算模型的可行性;(2）相关性分析中，草甸试验区的 $K _ { \mathrm { e } }$ 与SR相关性不显著( $( P { > } 0 . 0 5 )$ ，沙丘试验区 $K _ { \mathrm { e } }$ 与SR相关性较低(0.46),故剔除该因子；(3)逐步回归分析中进一步剔除不显著因子后建立草甸及沙丘作物系数估算模型,模型的均方根误差、修正的决定系数分别为0.06、0.84和0.12、0.71;(4)经涡度相关数据验证，基于 $K _ { \mathrm { e } }$ 估算模型计算的ET在草甸和沙丘试验区均取得较好的模拟效果。
+
+关键词：科尔沁沙地；蒸散量；遥感；作物系数；植被指数；涡度
+
+地表蒸散发(Evapotranspiration, $E T _ { \mathrm { a } }$ )由土壤蒸发和植被蒸腾组成[],是连接生态与水文过程的重要纽带,同时也是地表水热平衡的重要组成部分[2-4]据统计，全球约 $6 0 \%$ 以上的降水以蒸散的形式耗散[5]，而在干旱半干旱地区，以蒸散形式返回到大气系统中的水分甚至达到 $8 0 \%$ 以上[,因此,准确的估算地表蒸散发量，对维持干旱半干旱地区生态系统平衡、水资源合理开发利用及区域小气候调节等具有重要意义[7]。
+
+常用的蒸散发估算方法有：波文比能量平衡法、蒸渗仪法、涡度相关法、FAO56作物系数法等，其中，FAO56作物系数法是1998年由联合国粮农组织（Food and Agricultural Organization,FAO）基于Penman-Monteith公式，利用参考作物蒸散量(Refer-enceEvapotranspiration, $E T _ { 0 }$ )以及作物系数 $K _ { \mathrm { c } }$ 计算农田 $E T _ { \mathrm { a } }$ 的方法[8],FAO 56 Penman-Monteith公式将实际作物冠层阻力和空气动力阻力与参考作物的差异均包含在作物系数 $K _ { \mathrm { c } }$ 中，能够贴切、简单的反映控制蒸散的物理和生理因素，对 $E T _ { \mathrm { a } }$ 的模拟精度高、操作简单、实用性强，在世界范围内都得到广泛应用[9]。Taylor等[1]利用FAO56作物系数法估算了3个柑橘园的水分利用情况，结果表明：该模型具有一定适用性；Anderson等[通过 $E T _ { 0 }$ 与双作物系数相乘得到了农业灌区的蒸散量，并用涡度相关进行验证，结果显示模拟效果较好;李毅等[]通过单、双作物系数法计算砾石覆盖条件下小麦蒸散量，发现模拟值与实测值拟合良好；于文颖等[13研究得出改进后FAO-56模型的双作物系数法可以有效的估算辽河三角洲湿地芦苇群落的蒸散量
+
+由于作物系数具有一定的经验性，并不适用于所有地区，直接使用推荐的作物系数估算蒸散量的误差较大，作物系数受植被生长状况、气候及水分条件等诸多因素的影响，必须结合当地实际情况进行校正[14-15]。但这些因素所造成的影响很难及时对作物系数曲线作出调整，而植被指数能够实时快速的反映作物的生长状况，这使得遥感技术在 $K _ { \mathrm { c } }$ 的估算中得以广泛应用。Duchemin等[16分析了通过Landsat数据获得的NDVI来间接估计作物系数的可能性；Glenn等[利用MODIS卫星遥感影像获取的叶面积指数(LAI）、归一化植被指数(NDVI)、土壤调整植被指数(SAVI)来估算 $K _ { \mathrm { c } }$ ，可以很好的模拟预测从沙漠、北极苔原到热带雨林等多种生物群类型的$E T _ { \mathrm { a } }$ ;王维等[18]基于地面实测和Landsat8卫星遥感反演的叶面积指数，建立了作物系数与叶面积指数的经验对数模型，结果显示在低植被覆盖下优化后的模型精度较高。
+
+科尔沁沙地是我国典型的干旱、半干旱农牧交错过度带,沙丘和草甸相间分布[19-20], $E T _ { \mathrm { a } }$ 不仅在水文循环中占主导地位[21],同时也是干旱区水文研究的重要环节之一。虽然基于植被指数的 $K _ { \mathrm { c } }$ 估算模型取得较好的效果，但作物系数不仅仅受植被生理生态特征影响，还与土壤水分有关。综上所述，本文利用Landsat8卫星数据，提取3种植被指数：归一化植被指数(NDVI)、土壤调整植被指数(SAVI)和简单比值植被指数(SR)[22-23],结合地面实测表层土壤含水量(SM)及叶面积指数(LAI)，分别建立草甸及沙丘试验区 $K _ { \mathrm { c } }$ 估算模型，并用涡度数据对模型的可行性及适用性进行评价，为作物系数在区域尺度上的应用及干旱半干旱地区蒸散量的准确估算提供科学依据。
+
+# 1研究区概况
+
+研究区位于内蒙古自治区通辽市科尔沁左翼后旗阿古拉生态水文试验站（图1），面积约55$ { \mathrm { k m } } ^ { 2 }$ 。该地区多年平均降雨量 $3 8 9 \mathrm { m m }$ ,主要集中在6—9月；多年平均气温约为 $6 . 6 ~ \mathrm { { ^ { \circ } C } }$ ，多年平均相对湿度为 $5 5 . 8 \%$ 。地势南北高、中间低，由北向南形成了典型的沙丘-过渡带-草甸地-湖泊-草甸地-沙丘的地貌形态。研究区属温带半干旱大陆性季风气候区，主要天然植被有差巴嘎蒿(Artemisiahalodendron）、小叶锦鸡儿（Caraganamicrophylla）大籽蒿(Artemisia sieversiana)、黄柳(Salix gordejevii)和杨树(Populus)等。
+
+草甸试验区(C4)位于研究区中间地势较低区域，紧邻湖泊，样地地势平坦,地下水埋深浅，土壤长期处于湿润状态，土质为沙壤土，主要植被有芦苇(Phragmitescommunis）羊草(Leymuschinensis）灯芯草(Juncus effusus)等;沙丘试验区(A4)位于研究区北部的沙丘地带，植被覆盖度较低，周围生长的天然植被为差巴嘎蒿、沙蓬(Agriophyllum squarrosum)等。
+
+# 2数据与方法
+
+# 2.1数据采集与处理
+
+2.1.1气象、土壤及涡度数据草甸和沙丘试验区各安装有一套开路涡度相关系统和气象观测塔，涡度相关系统包括开路红外气体分析仪、三维超声风速仪以及四分量净辐射仪、光合有效辐射仪，测定LE、H和 $\mathrm { C O } _ { 2 }$ 通量、以及净辐射、光合有效辐射等要素，采样频率为 $3 0 \mathrm { H z }$ ;波文比气象土壤环境监测系统包括温湿度测量仪、风速风向测定仪和翻斗式雨量筒，主要观测的气象数据包括空气温湿度、风速、风向、降雨量等；土壤环境要素可测定土壤热通量、土壤温度、土壤含水量等(表1)。
+
+![](images/6d1fdef5f12a2f3cffa66a267f128df075de9beeb1db97bca973239946e03456.jpg)  
+图1研究区及试验点位置示意图  
+Fig.1Locations and sampling sites of the study area
+
+利用美国Li-COR公司开发的EddyPro软件，对涡度相关系统采集的数据进行处理，包括二次坐标旋转校正、频率损失修正、趋势校正、WPL校正等一系列修正。通量数据质量控制主要包括降水期间数据的剔除、夜间数据的筛选与剔除、阈值检验与野点剔除和大气层结状况下的数据剔除。为保证数据的完整性，小于 $^ { 3 \mathrm { ~ h ~ } }$ 的数据采用线性内插法进行插补；较长时间的缺失数据则采用平均每天变异法（MDV)[24]进行插补，进而得到较为精准的通量数据。草甸和沙丘试验区的能量平衡闭合率EBR分别为 $7 0 \%$ 和 $76 \%$ ,通量数据可信度高，能够代表观测区域通量大小[25]
+
+2.1.2植被数据在涡度观测源区内，利用Li-2200叶面积指数仪测定LAI。草甸试验区植被长势密集且均一，以气象站为中心共布设9个草本样方( $\mathrm { 1 ~ m \times }$ $1 \mathrm { m }$ )进行调查;沙丘区植被覆盖度较低，共布设3个$3 0 \mathrm { m } { \times } 3 0 \mathrm { m }$ 的大样方，每个大样方中选取对角线及中心的5个的半灌木样方( $3 \mathrm { m } { \times } 3 \mathrm { m }$ )。以上样方的选取均可代表涡度源区内植被指标的平均水平，以Landsat-8重访周期为调查周期，每月2次，同时记录样方内植被株高等指标。
+
+2.1.3遥感数据 采用的遥感数据为Landsat8OLI数据。在数据选择方面，为准确计算植被指数，根据研究区已有卫星数据的影像质量、成像时间等信息，选择2017—2018年生长季4—10月的19期无云或少云，清晰度高的遥感影像，影像数据取自美国地质调查局（USGS）网站（http://earthexplorer.usgs.gov/)以及地理空间数据云网站(http://www.gscloud.$\mathrm { c n / }$ ）。采用ENVI5.3软件对获取的遥感影像进行几何校正、辐射定标、直方图均衡化、研究区影像裁剪等预处理，以提高植被指数计算精度。
+
+# 2.2研究方法
+
+2.2.1作物系数计算方法作物系数 $\left( K _ { \mathrm { c } } \right)$ 是实际蒸散量 $( E T _ { \mathrm { a } } )$ 与参考作物蒸散量 $( E T _ { 0 } )$ 之比，综合反映了作物种类、生长状况、土壤水肥条件等因素对作物蒸散的影响[26],利用FAO 56Penman-Monteith模型输入气象数据计算 $E T _ { 0 }$ ，然后根据涡度塔测得的潜热通量数据与 $E T _ { 0 }$ 的比值来计算 $K _ { \mathrm { c } }$ ·
+
+$$
+K _ { \mathrm { c } } = { \frac { E T _ { \mathrm { a } } } { E T _ { \mathrm { 0 } } } }
+$$
+
+$$
+E T _ { \mathrm { 0 } } = \frac { 0 . 4 0 8 \Delta \big ( R _ { \mathrm { n } } - G \big ) + \gamma \frac { 9 0 0 } { T + 2 7 3 } u _ { \mathrm { 2 } } \big ( e _ { \mathrm { s } } - e _ { \mathrm { a } } \big ) } { \Delta + \gamma \big ( 1 + 0 . 3 4 u _ { \mathrm { 2 } } \big ) }
+$$
+
+式中： $K _ { \mathrm { c } }$ 为作物系数； $E T _ { \mathrm { a } }$ 为实际蒸散量 $\left( \operatorname* { m m } \cdot \mathrm { d } ^ { - 1 } \right)$ ; $E T _ { 0 }$ 为参考作物蒸散量( $\cdot \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } ,$ ） $\Delta$ 为饱和水汽压温 度曲线斜率 $( \mathrm { K P a } \cdot ^ { \circ } \mathrm { C } ^ { - 1 } ) ; R _ { \mathrm { n } }$ 为冠层表面净辐射（MJ· $\mathbf { m } ^ { - 2 } \cdot \mathbf { d } ^ { - 1 } ) ; T$ 为平均气温 $( ^ { \circ } \mathrm { C } ) : G$ 为土壤热通量（MJ· $\mathbf { m } ^ { - 2 } { \boldsymbol { \cdot } } \mathbf { d } ^ { - 1 } )$ ： $u _ { 2 }$ 为 $2 \mathrm { m }$ 高处风速 $( \boldsymbol { \mathrm { m } } \cdot \boldsymbol { \mathrm { s } } ^ { - 1 } ) ; e _ { \mathrm { s } }$ 为饱和水汽压 （ $\mathrm { \ K P a ) }$ ； $e _ { \mathrm { a } }$ 为实际水汽压( $\mathrm { \ K P a }$ ）； $\gamma$ 为湿度计常数 $\left( \mathrm { { K P a } } \cdot \mathcal { C } ^ { - 1 } \right)$ 0
+
+2.2.2植被指数计算方法植被指数是不同遥感光谱波段间的线性或非线性组合，主要反映在可见光、近红外波段反射与土壤背景之间的差异，可定量说明植被的生长状况[27]。为了找到与 $K _ { \mathrm { c } }$ 相关性最好的植被指数，本文选取归一化植被指数(NDVI)、土壤调整植被指数(SAVI)及简单比值植被指数(SR（表2),草甸和沙丘试验区的各植被指数通过统计涡度源区内所有像元的均值所得。
+
+表1地面监测基本信息  
+Tab.1 Generalinformation of the ground stations   
+
+<html><body><table><tr><td rowspan="2">类型</td><td rowspan="2">观测项目</td><td rowspan="2">仪器型号</td><td colspan="2">仪器高度(深度)/m</td><td rowspan="2">采样频率/ (min·次-1)</td></tr><tr><td>草甸</td><td>沙丘</td></tr><tr><td>涡度</td><td>开路红外气体分析仪</td><td>Li-7500,USA</td><td>2.7</td><td>4.95</td><td>30</td></tr><tr><td>相关</td><td>三维超声风速</td><td>CSAT-3,USA</td><td></td><td></td><td></td></tr><tr><td>系统</td><td>辐射分量</td><td>NR-LITE,USA</td><td>3.5</td><td>3.5</td><td></td></tr><tr><td></td><td>空气温湿度</td><td>HMP45C</td><td>1.5、2.4</td><td>2、5、10</td><td>10</td></tr><tr><td>气象</td><td>风速风向</td><td>034B</td><td>2、3.5、10</td><td>2、10</td><td></td></tr><tr><td>土壤 监测</td><td>降雨量</td><td>TE525MM</td><td>0.7</td><td>0.7</td><td></td></tr><tr><td>系统</td><td>土壤温度、水分</td><td>HydraProbeCS655</td><td>0.05、0.1、0.2</td><td>0.1、0.2、0.4、0.6</td><td></td></tr><tr><td></td><td>土壤热通量</td><td>HFP01sc</td><td>0.1</td><td>0.1、0.2、0.4</td><td></td></tr></table></body></html>
+
+表2植被指数计算  
+Tab.2 Vegetation indices used in this study   
+
+<html><body><table><tr><td>名称</td><td>公式</td></tr><tr><td>归一化植被指数(NDVI)</td><td>PNIR+PRED NDVI=PNIR -PRED</td></tr><tr><td>土壤调整植被指数(SAVI)</td><td>L +(ρNIR + PRED) SAVI=(1+L)×(PNR -PRED)</td></tr><tr><td>简单比值植被指数(SR)</td><td>PRED SR=PNIR</td></tr></table></body></html>
+
+注 $: \rho _ { \mathrm { N I R } }$ 为近红外波段： $_ { \mathrm { \Delta } } / \rho _ { \mathrm { R E D } }$ 为红波段； $L$ 取0.5。
+
+2.2.3模型一致性评价利用2017年生长季气象、土壤及植被数据建立 $K _ { \mathrm { c } }$ 估算模型，将2018年Land-sat8数据估算的植被指数、地面实测叶面积指数(LAI)及表层土壤含水量(SM)数据输入估算模型来模拟 $K _ { \mathrm { c } }$ ,并与 $\mathrm { F A O } 5 6 \mathrm { P - M }$ 模型计算所得 $E T _ { 0 }$ 相乘得到 $E T _ { \mathrm { a } }$ 的模拟值，通过与涡度相关实测实际蒸散量进行对比来判别 $K _ { \mathrm { c } }$ 估算模型的可行性。选取相对均方差(RMSE）、一致性指数(d)、平均偏差(bias)和
+
+Nash-Sutcliffe效率指数(E)4个统计量[28]对模型的精度进行评价，计算公式为：
+
+$$
+\mathrm { R M S E } = \Biggl [ \frac { 1 } { N } \sum _ { i = 1 } ^ { N } \bigl ( P _ { i } - { O } _ { i } \bigr ) ^ { 2 } \Biggr ] ^ { \frac { 1 } { 2 } }
+$$
+
+$$
+\mathrm { { d } = 1 - \left[ \frac { \displaystyle \sum _ { i = 1 } ^ { N } \bigl ( P _ { i } - { { O } _ { i } } \bigr ) ^ { 2 } } { \displaystyle \sum _ { i = 1 } ^ { N } \bigl ( \left| P _ { i } - { { O } _ { \mathrm { a v e } } } \right| + \left| { { O } _ { i } } + { { O } _ { \mathrm { a v e } } } \right| \bigr ) ^ { 2 } } \right] }
+$$
+
+$$
+{ \mathrm { b i a s } } = { \frac { 1 } { N } } \sum _ { i = 1 } ^ { N } \left( O _ { i } - P _ { i } \right)
+$$
+
+$$
+\mathrm { E } = 1 - \frac { \displaystyle \sum _ { i = 1 } ^ { N } \left( P _ { i } - { \cal O } _ { i } \right) ^ { 2 } } { \displaystyle \sum _ { i = 1 } ^ { N } \left( { \cal O } _ { i } - { \cal O } _ { a v e } \right) ^ { 2 } }
+$$
+
+式中： $N$ 为观测次数； $P _ { i }$ 为实际蒸散量的模拟值$\left( \mathbf { m } \mathbf { m } \cdot \mathbf { d } ^ { - 1 } \right)$ ； $O _ { i }$ 为实际蒸散量的实测值 $( \mathrm { m m \cdot d ^ { - 1 } } ) ; P _ { \mathrm { a v e } }$ 为时间尺度内模拟值的平均值 $\left( \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \right)$ ； $O _ { \mathrm { a v e } }$ 为时间尺度内实测值的平均值 $\left( \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \right.$ )。
+
+# 3结果与分析
+
+# 3.1相关因子动态变化分析
+
+为确定各因子作为自变量的可行性，首先分析了2017年草甸及沙丘试验区的各植被指数(NDVI、SAVI、SR、LAI）、表层土壤含水量(SM）、实际蒸散量$( E T _ { \mathrm { a } } )$ 、潜在蒸散量 $( E T _ { 0 } )$ 及作物系数 $\left( K _ { \mathrm { c } } \right)$ 在整个生长季的动态变化。
+
+![](images/60164b5e6bc10ca21f3c3e7d3cd83a6e2941220d96e4ca8233bd5f1fd4a72fa8.jpg)  
+图22017年草甸试验区相关参数变化趋势  
+Fig.2The variation trend of relevant parameters in the meadow test area in 2017
+
+由图2可知，2017年草甸试验区生长季 $E T _ { \mathrm { a } }$ 为$5 2 8 ~ \mathrm { m m }$ ，日均 $E T _ { \mathrm { a } }$ 为 $3 . 1 5 ~ \mathrm { m m }$ ,最大值出现在7月，达$6 . 4 7 \mathrm { m m }$ ,最小值在5月，为 $0 . 9 9 \mathrm { m m }$ ,生长季内总 $E T _ { 0 }$ 为 $8 2 5 ~ \mathrm { m m }$ ;NDVI、SAVI、SR及LAI的变化趋势大致相同，生长初期变化较小(5月初），生长旺盛期随着植被的生长，植被覆盖度变大，各植被指数快速增长，因5—7月降水较少，6月底植被指数有所下降，8月雨水充沛，植被生长旺盛，但由于在8月16日进行了人工刘割牧草，各植被指数急剧减小，之后略有回升，9月中旬以后，植被进入生长末期，植被指数呈下降趋势； $K _ { \mathrm { c } }$ 与植被指数有相似的变化规律，生长旺盛期高于生长初期和末期，相关学者在以往的研究中也证实 $K _ { \mathrm { c } }$ 与植被指数变化规律相吻合[29-31]；SM在生长初期有明显的上升趋势，生长中期维持较高水平，而在生长末期由于植被覆盖度降低，土壤蒸发加强，SM出现明显的回落。
+
+由图3可知，沙丘试验区蒸散量大致呈钟形曲线分布，生长季内总 $E T _ { \mathrm { a } }$ 为 $2 4 7 ~ \mathrm { m m }$ ,生长初期、生长旺盛期及生长末期的 $E T _ { \mathrm { a } }$ 分别为 $3 0 \ \mathrm { m m } \setminus 1 7 1 \ \mathrm { m m }$ 及$4 6 ~ \mathrm { m m }$ ，分别占总 $E T _ { \mathrm { a } }$ 的 $1 2 . 1 5 \%$ ） $6 9 . 2 6 \%$ 和 $1 8 . 6 1 \%$ ，生长季内总 $E T _ { 0 }$ 为 $7 6 2 ~ \mathrm { m m }$ ，5月 $E T _ { 0 }$ 总量最大，10月最小;NDVI、SAVI及LAI变化趋势一致，各值整体小于草甸试验区，最大值出现在8月，最小值在4月，而SR在整个生长季变化规律不显著，这是由于SR主要用于高密度植被区域的动态监测[2； $K _ { \mathrm { c } }$ 亦和植被指数呈现相似变化趋势，即先增加后减少；SM变化波动较小，生长季均不超过 $10 \%$ ，高的SM总伴随着降水事件的发生。
+
+对比草甸和沙丘试验区可以看出，降水不仅对土壤水分产生影响，同时也会引起 $K _ { \mathrm { c } }$ 和植被指数的变化， $\mathrm { X u }$ 等[33也得到类似的研究结果。降水对植被指数的影响主要表现在持续干旱后植被指数有减小的趋势，彭文甫等[34研究表明，植被指数与降水量呈正相关关系；草甸试验区临近湖泊，地下水埋深较浅，土壤水分较大， $K _ { \mathrm { c } }$ 变化主要受植被生长时期的影响，而沙丘试验区的 $K _ { \mathrm { c } }$ 对降水更为敏感，主要表现在 $K _ { \mathrm { c } }$ 呈波动性增长，雨后 $K _ { \mathrm { c } }$ 有明显的上升趋势，而连续干旱后，土壤和植被都处于水分亏缺状态，蒸散量减小进而导致作物系数呈下降趋势，生长过程和降水过程同时控制着生长期作物系数的变化趋势，这与张强等35的研究结果一致。
+
+# 3.2 $K _ { \mathrm { c } }$ 估算模型的建立
+
+为进一步确定 $K _ { \mathrm { c } }$ 估算模型的自变量，采用相关性分析筛选输入因子(表3)。草甸试验区 $K _ { \mathrm { c } }$ 与NDVI、SAVI、LAI及SM的相关系数分别为 $0 . 7 4 , 0 . 6 9$ ）0.78及0.80，相关性较高，而 $K _ { \mathrm { c } }$ 与SR相关性不显著$( P { > } 0 . 0 5 )$ ；沙丘试验区 $K _ { \mathrm { c } }$ 与各变量相关性均达到显著水平， $K _ { \mathrm { c } }$ 与SR的相关系数为0.46，与其他变量相
+
+![](images/0c140b6dfe96c5da3849dc58082c034f67527e66ce3291440a62a04b56b8d23f.jpg)  
+图32017年草甸试验区植被、土壤及蒸散发相关参数变化趋势
+
+Fig.3The variation trendof vegetation,soil and evapotranspiration related parameters inmeadow test area in 2017
+
+# 表3作物系数 $K _ { \mathrm { c } }$ 与各指标间相关系数
+
+Tab.3 Correlation coefficients between $K _ { \mathrm { c } }$ and each factors   
+
+<html><body><table><tr><td rowspan="2">站点</td><td colspan="5">相关系数</td></tr><tr><td>NDVI vsKc</td><td>SAVI vs Kc</td><td>SR vs Ke</td><td>LAI vs Kc</td><td>SM vs Ke</td></tr><tr><td>草甸</td><td>0.74*</td><td>0.69*</td><td>0.53</td><td>0.78**</td><td>0.80**</td></tr><tr><td>沙丘</td><td>0.77**</td><td>0.74*</td><td>0.46*</td><td>0.85**</td><td>0.70*</td></tr></table></body></html>
+
+注：\*表示在 $\scriptstyle P < 0 . 0 5$ 水平上显著;\*\*表示在 $P { < } 0 . 0 1$ 水平上显著。
+
+比相关性较弱，因此，本文选择与 $\mathrm { K _ { c } }$ 相关性最高的NDVI、SAVI、LAI及SM这4个变量进行估算模型的建立。
+
+在上述分析的基础上，利用2017年生长季数据，将4个变量与 $K _ { \mathrm { c } }$ 建立逐步回归方程，逐步回归分析的基本原理是将变量逐个引入到模型当中，对每一个自变量进行假设检验，当某一个自变量对 $K _ { \mathrm { c } }$ 影响不显著时，将其剔除，此过程反复进行，直至既无显著的变量选人回归方程，也无不显著自变量从回归方程中剔除为止，筛选出显著影响的因子作为自变量建立最优归回方程[36]。在逐步回归分析过程中，草甸试验区将不显著因子 $( P { > } 0 . 0 5 ) \mathrm { S A V I } \ 、 \mathrm { L A I }$ 剔除，沙丘试验区剔除NDVI和SAVI，回归方程见表4。
+
+由表4可知，草甸试验区利用单一的NDVI(case1)和NDVI、SM组合(case2)均取得良好的效果，RMSE分别为0.12和0.06，实测 $K _ { \mathrm { c } }$ 均值为0.650 $( 0 . 4 1 \sim 0 . 8 9 )$ ），case1模拟 $K _ { \mathrm { c } }$ 均值为0.64( $0 . 4 6 \sim$ 0.81），case2模拟均值为 $0 . 6 5 \left( 0 . 4 3 \sim 0 . 8 8 \right)$ ；沙丘试验区 $K _ { \mathrm { c } }$ -LAI(case1)和 $K _ { \mathrm { c } }$ -LAI、SM(case2)的RMSE分别为0.14和0.12,实测 $K _ { \mathrm { c } }$ 均值为 $0 . 3 6 ( 0 . 1 1 \sim 0 . 6 2 )$ ，case1、case2模拟均值分别为 $0 . 3 5 ( 0 . 1 6 \sim 0 . 5 6 ) \ 、 0 . 3 6$ （204号 $( 0 . 1 7 \sim 0 . 6 1 \$ )。草甸和沙丘试验区的case2模拟值更接近于实测值，另外，随着变量的加入, ${ R _ { \mathrm { a d j } } } ^ { 2 }$ 可以更直观的看出，模型的效果不断提高，草甸试验区的 ${ R _ { \mathrm { a d j } } } ^ { 2 }$ 由0.52提高到0.84，沙丘试验区由0.57提高到0.71，SM的加入使得模型效果提升显著，这与张瑜等[37]的研究结果一致。
+
+作物蒸散是土壤和植被水分扩散并输送到大气的过程，其影响因素不仅包括温度、饱和水汽压差、风速等局地气候条件，还受限于土壤和植被等环境因素[38-39]。NDVI和LAI反映了植被的物候特征，包括植被的密度以及作物生长时期和作物高度的变化等，可以有效地描述 $K _ { \mathrm { c } }$ 在生长季的变化趋势。土壤水分是土壤蒸发和植被蒸腾最直接的水分来源，土壤水分状况(尤其是表层)将会直接影响地-气界面水气压差和植被水分散失的主要通道(气孔)的开度，是反映植物水分胁迫和土壤表面水分蒸发的指标。以往的研究多基于一种植被指数建立简单线性回归方程，如Gontia等[40]建立了 $K _ { \mathrm { c } }$ 1NDVI和 $K _ { \mathrm { c } }$ -SAVI模型对印度地区干渠灌溉指挥部的小麦作物的实际作物蒸散量进行了估算;Lei等[41]提取了NDVI、EVI等5种植被指数，分别与 $K _ { \mathrm { c } }$ 建立线性方程；Zolfagharnejad等[42]采用GIS软件提取NDVI、DVI、SAVI等5种植被指数建立冬小麦 $K _ { \mathrm { c } }$ 估算模型，结果表明SAVI与 $K _ { \mathrm { c } }$ 的相关性最好。本文在前人研究的基础上引入SM数据，通过综合作物信息、土壤信息，使建立的作物系数模型更加可靠。
+
+# 3.3 $K _ { \mathrm { c } }$ 估算模型精度验证
+
+为评估 $K _ { \mathrm { c } }$ 估算模型的可行性，将2018年生长季模拟所得的 $K _ { \mathrm { c } }$ 值乘以 $E T _ { 0 }$ 值得到 $E T _ { \mathrm { a } }$ 的模拟值，以涡度相关系统实测实际蒸散量为标准进行线性回归分析，由于草甸试验区2018年生长季内5月涡度数据缺失，故用6月1日至9月25日数据进行验证，并用RMSE、d、bias和Nash-Sutcliffe效率指数4个统计量对模型的精度进行进一步评价。
+
+由图4可以看出，草甸和沙丘验区的ET模拟值
+
+# 表4 $K _ { \mathrm { c } }$ 估算模型
+
+Tab.4 Linear equations for estimating corp coefficient $( K _ { \mathrm { c } } )$   
+
+<html><body><table><tr><td>站点</td><td>变量</td><td>方程</td><td>RMSE</td><td>Rad²</td></tr><tr><td rowspan="2">草甸</td><td>NDVI(case1)</td><td>K=1.287NDVI+0.307</td><td>0.12</td><td>0.52</td></tr><tr><td>NDVI、SM(case2)</td><td>K=0.851NDVI+3.108SM-0.640</td><td>0.06</td><td>0.84</td></tr><tr><td rowspan="2">沙丘</td><td>LAI(case1)</td><td>K=0.315LAI+0.098</td><td>0.14</td><td>0.57</td></tr><tr><td>LAI、SM(case2)</td><td>K=0.239LAI+5.295SM-0.034</td><td>0.12</td><td>0.71</td></tr></table></body></html>
+
+1 P ET实测值 ET模拟值 10 0 8   
+(-p.uw)I (a)草甸 1 （P. y=1.0022x+0.4057 。。 8 30 R² = 0.7941 64 A 中 T 点 6 金 3 2 M □ ? 智 ！ 90 b 0 120 0 06-01 06-16 07-01 07-16 07-31 08-15 08-30 09-14 09-29 10-14 2 4 6 8 5 0 实测ETa/(mm·d-1) T 1 1 4   
+p. (b)沙丘 20 (-p.uu)/I 3 y=0.7912x+0.3787 R2 = 0.5634 40 888 中 @ 8 D 。 8 1 1 80 1 04-1605-0205-18060306-1907050-2108-0608-2209-0709-231009102510 0 1 2 3 4 日期/月-日 实测ET/(mm·d-1)
+
+与实测值变化趋势基本一致，降雨期略有偏差，这是由于雨期涡度相关数据精度较低，导致模拟的$E T _ { \mathrm { a } }$ 与观测到的 $E T _ { \mathrm { a } }$ 之间存在差异。草甸试验区生长旺盛季蒸散强烈，蒸散波动较大，涡度相关测量时段内的实测总 $E T _ { \mathrm { a } }$ 为 $3 7 2 ~ \mathrm { m m }$ ，模拟总 $E T _ { \mathrm { a } }$ 为408$\mathbf { m } \mathbf { m }$ ，日平均实际蒸散量为 $3 . 3 8 ~ \mathrm { m m ^ { . } d ^ { - 1 } }$ ,模拟值为$3 . 6 6 \ \mathrm { m m ^ { . } d ^ { - 1 } }$ ,高估了 $8 . 2 8 \%$ ，偏差较小;沙丘试验区生长季内蒸散量大致呈抛物线型曲线变化，涡度实测总蒸散量为 $2 3 6 ~ \mathrm { m m }$ ,模拟值为 $2 6 1 ~ \mathrm { m m }$ ，高估了$1 0 . 5 9 \%$ ;由模拟蒸散量和实测蒸散量回归分析可以看出，草甸和沙丘试验区的模拟值与实测值的分布均较为集中，大多分布在1:1直线附近，决定系数 $R ^ { 2 }$ 分别为0.76和0.57，模拟效果较好。
+
+由表5可知，RMSE可衡量模拟值与实测值之间的偏差，草甸和沙丘试验区的RMSE分别为0.59和0.42，表明模拟值与实测值较接近；d值分别为0.92和0.85,均趋近于1,表明模型模拟效果好，bias反映实测值与模拟值的平均偏差，两试验区bias值$( - 0 . 3 9 , - 0 . 1 1 )$ 都接近0，精度较高，而E（0.64和0.56)均接近1，表示模型可信度高，综合表5可知，草甸和沙丘试验区均有较好的模拟效果。
+
+# 表5作物系数 $K _ { \mathrm { c } }$ 估算模型的适应性分析
+
+Tab.5 Adaptabilityanalysis of $K _ { \mathrm { c } }$ estimation model   
+
+<html><body><table><tr><td>评价指标</td><td>RMSE</td><td>d</td><td>bias</td><td>E</td></tr><tr><td>草甸</td><td>0.59</td><td>0.92</td><td>-0.39</td><td>0.64</td></tr><tr><td>沙丘</td><td>0.42</td><td>0.85</td><td>-0.11</td><td>0.56</td></tr></table></body></html>
+
+本文利用卫星遥感数据获取植被信息，结合地面实测气象、土壤数据建立了 $K _ { \mathrm { c } }$ 估算模型，并通过涡度数据证实 $K _ { \mathrm { c } }$ 估算模型在干旱区草甸及沙丘均有较好的适用性。但本文并未考虑植被不同生育期作物系数变化情况，在后续的研究中将结合多年数据，进一步优化 $K _ { \mathrm { c } }$ 估算模型，深入探讨具体生长阶段内作物系数的变化规律及其影响因素
+
+# 4结论
+
+本文利用Landsat8卫星遥感数据，研究了利用归一化植被指数(NDVI）、土壤调整植被指数(SA-VI)和简单比值植被指数(SR)，结合地面实测叶面积指数(LAI)及表层土壤含水量(SM)估算科尔沁区草甸及沙丘试验区作物系数 $K _ { \mathrm { c } }$ 的可行性，得到以下结论：
+
+（1）对比2017年生长季作物系数 $K _ { \mathrm { c } }$ 植被指数及SM的变化趋势发现，各植被指数和SM的变化规律与作物系数 $K _ { \mathrm { c } }$ 有很高的一致性，确立基于植被指数和SM估算作物系数 $K _ { \mathrm { c } }$ 具有一定的可行性
+
+（2）相关性分析剔除相关性较差的变量SR，逐步回归分析再次剔除不显著变量，最终结合土壤水分信息、地面实测LAI及Landsat8遥感数据计算的NDVI建立 $K _ { \mathrm { c } }$ 估算模型，经验证，模型的可信度较高，草甸和沙丘试验区的 $R ^ { 2 }$ 分别为0.84和0.71。
+
+（3）利用2018年数据对作物系数 $K _ { \mathrm { c } }$ 估算模型进行进一步验证，草甸和沙丘试验区蒸散量的模拟值与实测值均分布在1:1直线附近， $R ^ { 2 }$ 较高（0.79和0.56)，统计结果表明模拟值与实测值有较好的对应关系。
+
+# 参考文献(References)：
+
+[1]包永志,刘廷玺,段利民,等.基于 Shutleworth-Wallace 模型的 科尔沁沙地流动半流动沙丘蒸散发模拟[J].应用生态学报, 2019,30(3): 867-876.[Bao Yongzhi,Liu Tingxi, Duan Limin,et al. Simulation of evapotranspiration for the mobile and semi- mobile dunes in the Horqin Sandy Land using the Shuttleworth-Wallace model[J]. Chinese Journal of Applied Ecology,2019,30(3): 867-876.]   
+[2]Xue JC, Xing G M, Shi H,et al. Contributions of climate change and human activities to $E T$ and GPP trends over North China Plain from 20OO to 2014[J]. Journal of Geographical Sciences, 2017,27(6): 661-680.   
+[3]汪步惟,张雪芹.1971—2014年青藏高原参考蒸散变化及其归 因[J].干旱区研究,2019,36(2):269-279.[Wang Buwei, Zhang Xueqin.Change and attribution of reference evapotranspiration over the Tibetan Plateau during the period of 1971-2014[J].Arid Zone Research,2019,36(2): 269-279.]   
+[4]Lievens H, Martens B,Verhoest N,et al. Assimilation of global radar backscatter and radiometer brightness temperature observations to improve soil moisture and land evaporation estimates[J]. Remote Sensing of Environment,2017,189:194-210.   
+[5]Jung M,Reichstei M, Ciais P,et al.Recent decline in the global land evapotranspiration trend due to limited moisture supply[J]. Nature,2010,467(7318): 951-954.   
+[6]王雅舒,李小雁,石芳忠,等.退耕还林还草工程加剧黄土高原 退耕区蒸散发[J].科学通报,2019,64(增刊1):588-599.[Wang Yashu,Li Xiaoyan,Shi Fangzhong,et al. The grain for green project intensifies evapotranspiration in the revegetation area of the Loess Plateau in China[J]. Chinese Science Bulletin,2019,64 (Suppl.1): 588-599.]   
+[7]崔俊杰,白洁,郑磊,等.新疆地区遥感、融合和陆面模式模拟的 蒸散产品的不确定性分析[J].干旱区研究,2018,35(3):597- 605.[Cui Junjie,Bai Jie, Zheng Lei,etal. Uncertainty of evapotranspiration products based on fusion of mulit-source remote sens ing data and land surface modes on Xinjiang[J].Arid Zone Research,2018,35(3): 597-605.]   
+[8]Allen R G,Pruitt W O,Wright JL,et al.A recommendation on standardized surface resistance for hourly calculation of reference $E T _ { 0 }$ by the FAO56 Penman-Monteith method[J].Agricultural Water Management,2006,81(1-2): 0-22.   
+[9]牛建龙,王家强,彭杰,等.荒漠-绿洲区潜在蒸散量变化特征 及其影响因素[J].干旱区研究,2016,33(4):766-772.[Niu Jianlong,Wang Jiaqiang,Peng Jie,etal. Change of potential evapotranspirationand its affecting factors in desert-oasis zone[J].Arid Zone Research,2016,33(4): 766-772.]   
+[10]Taylor NJ, Mahohoma W,Vahrmeijer JT,etal.Crop coefficient approaches based onfixed estimates of leaf resistance are not appropriate for estimating water use of citrus[J]. Irrigation Science, 2014,33(2): 153-166.   
+[11]Anderson R G,Alfieri JG,Tirado-Corbaĺ R, et al. Assessing FAO56dualcropcoeicientsusingeddycovariancefluxartioing[J]. Agricultural Water Management,2016: S0378377416302840.   
+[12] 李毅,付亚亚,唐德秀,等.砂石覆盖条件下冬小麦蒸散量的单、 双作物系数法估算[J].农业机械学报,2018,49(3):261-270. [Li Yi,Fu Yaya,Tang Dexiu,et al.Estimation of evapotranspirationof winter wheat basedonsingleanddualcropcoefcient ap proaches under sand gravel mulching conditions[J]. Transactions of the Chinese Society for Agricultural Machinery,2O18,49(3): 261-270.]   
+[13] 于文颖,纪瑞鹏,贾庆宇,等.基于改进的双作物系数法估算辽 河三角洲芦苇湿地蒸散量[J].生态学报,2020,40(1):1-11.[Yu Wenying,Ji Ruipeng,Jia Qingyu,et al.Evaportranspiration estimation of Phragmites austrails wetland in the Liaohe River Delta based on the improved dual cop coefficient method[J].Acta Ecologica Sinica, 2020,40(1): 1-11.]   
+[14] 张宝忠,许迪,刘钰,等.多尺度蒸散发估测与时空尺度拓展方 法研究进展[J].农业工程学报,2015,31(6):8-16.[Zhang Baozhong,XuDi,LiuYu,etal.Reviewofmulti-scaleevapotasira tion estimation and spatio- temporal scale expansion[J]. Transactions of the Chinese Society of Agricultural Engineering, 2015,31 (6): 8-16.]   
+[15] 冯禹,崔宁博,龚道枝,等.基于叶面积指数改进双作物系数法 估算旱作玉米蒸散[J].农业工程学报,2016,32(9):90-98. [Feng Yu,Cuiingbo,Gong Daozhi,etal.Estimatingridring maize evapotranspiration using modified dual crop coefficent approach based on leaf area index[J]. Transactions of the Chinese Society of Agricultural Engineering,2016,32(9): 90-98.]   
+[16] Duchemin B,Hadria R, Erraki S,et al. Monitoring wheat phenology and irrigation in Central Moroco: On the use of relationships between evapotranspiration, crops coeffcients,leaf area index and remotely-sensed vegetation indices[J].Agricultural Water Management, 2006,79(1): 0-27.   
+[17]Glenn E,Neale C M U,Hunsaker D J,et al.Vegetation indexbased crop coefficients to estimate evapotranspiration by remote sensing in agriculturaland natural ecosystems[J].Hydrological Processes,2011, 25(26): 4050-4062.   
+[18] 王维,王鹏新,解毅.基于动态模拟的作物系数优化蒸散量估算 研究[J].农业机械学报,2015,46(11):129-136.[Wang Wei, Wang Pengxin,Xie Yi. Estimation of evapotranspiration optimized by crop coefficient based on dynamic simulation[J]. Transactions of the Chinese Society for Agricultural Machinery 2O15,46(11): 129-136.]   
+[19]Duan LM,LiuTX,Wang X X,etal.Spatio-temporalvariatiosin soil moisture and physicochemical properties of a typical semiarid sand-meadow-desert landscape as influenced by land use[J]. Hydrology and Earth System Sciences,2011,15: 1865-1877.   
+[20] 王婧,刘廷玺,雷慧闽,等.基于涡度相关的半干旱区沙丘-草 甸水热通量对比分析[J].干旱区研究,2016,33(3):593-600. [Wang Jing,Liu Tingxi,Lei Huimin,etal.Heat and water vapor fluxes of dune-meadow landscape in semiarid area based on eddy covariance measurements[J].Arid Zone Research, 2016,3(3): 593-600.]   
+[21] XiaJ, Liang S,Chen J,etal.Satelite-basedanalysis of evapotranspiration and water balance in the grassand ecosystems of dryland East Asia[J]. Plos One,2014,9: 1-11.   
+[22] 刘艳,聂磊,杨耘.基于植被指数估算天山牧区不同利用类型草 地总产草量[J].农业工程学报,2018,34(9):182-188.[Liu Yan, Nie Lei,Yang Yun.Estimation of total yield of different grassland types in Tianshan pastoral area based on vegetation index[J]. Transactionsof the ChineseSocietyof AgriculturalEngering, 2018,34(9): 182-188.]   
+[23] 牛亚晓,张立元,韩文霆,等.基于无人机遥感与植被指数的冬 小麦覆盖度提取方法[J].农业机械学报,2018,49(4):212-221. [Niu Yaxiao, Zhang Liyuan,Han Wenting,et al.Fractional vegetation cover extraction method of winter wheat based on UAV remote sensing and vegetation index[J]. Transactions of the Chinese Society for Agricultural Machinery,2018,49(4): 212-221.]   
+[24] Falge E, Baldocchi D,Olson R,et al. Gap filling strategies for defensible annual sums of net ecosystem exchange[J]. Agriculture and Forest Meteorology,2001,107: 43-69.   
+[25] 王伟,申双和,刘寿东,等.太湖生态系统能量闭合特征及其影 响因素[J].生态学报,2017,37(18):5935-5950.[WangWei, Sheng Shuanghe,Liu Shoudong,et al. Mechanistic analysis of the observed energy imbalance of Lake Taihu[J].Acta Ecologica Sinica,2017,37(18): 5935-5950.]   
+[26]Alberto MC R, Quilty JR, Buresh R J, et al. Actual evapotranspiration and dual crop coefficients for dry-seeded rice and hybrid maize grown with overhead sprinkler irrigation[J]. Agricultural Water Management,2014,136(2): 1-12.   
+[27] 程琳琳,李玉虎,孙海元,等.京津冀MODIS 长时序增强型植被 指数拟合重建方法适用性研究[J].农业工程学报,2019,35 (11): 148-158.[Cheng Linlin,Li Yuhu, Sun Haiyuan,et al.Applicability of fiting and reconstruction method of MODIS long-time enhanced vegetation index in Beijing-Tianjin-Hebei[J].Transactions of the Chinese Society of AgriculturalEngineering,2019, 35 (11): 148-158.]   
+[28] 强小嫚,蔡焕杰,孙景生,等.陕西关中地区 $E T _ { 0 }$ 计算公式的适 用性评价[J].农业工程学报,2012,28(20):121-127.[Qiang Xiaoman,Cai Huanjie,Sun Jingsheng,et al.Adaptability evaluation for reference evapotranspiration ( $E T _ { 0 }$ formulas in Guanzhong Region of Shaanxi[J]. Transactions of the Chinese Society of Agricultural Engineering,2012,28(20):121-127.]   
+[29]Babura K,AyseK,Kenneth H.Estimating copcoeficientsusing remote sensing-based vegetation index[J]. Remote Sensing, 2013,5 (4): 1588-1602.   
+[30] Mutiibwa D,Irmak S.AVHRR-NDVI-based crop coefficients for analyzing long-term trends in evapotranspiration in relation to changing climate in the U.S. high plains[J]. Water Resources Research, 2013,49(1): 231-244.   
+[31] Campos I, Neale C M U,Suyker A E,et al. Reflectance-based crop coefficients REDUX: For operational evapotranspiration estimates in the age of high producing hybrid varieties[J].Agricultural Water Management,2017,187: 140-153.   
+[32] 谢士琴,赵天忠,王威,等.结合影像纹理、光谱与地形特征的森 林结构参数反演[J].农业机械学报,2017,48(4):125-134.[Xie Shiqin,Zhao Tianzhong, Wang Wei, et al.Forest structure parameters inversion based on image texture and spectral and topographic features[J]. Transactions of the Chinese Society for Agricultural Machinery,2017,48(4): 125-134.]   
+[33] Xu L, Samanta A, Costa MH,et al. Widespread decline in greenness of amazonian vegetation due to the 2O1O drought[J]. Geophysical Research Letters,2011,38(7):1-4.   
+[34] 彭文甫,张冬梅,罗艳玫,等.自然因子对四川植被 NDVI变化 的地理探测[J].地理学报,2019,74(9):1758-1776.[Peng Wenfu, Zhang Dongmei, Luo Yanmei, et al. Influence of natural factors on vegetation NDVIusing geographical detection in Sichuan Province[J]. Acta Geographica Sinica,2019,74(9): 1758-1776.]   
+[35] 张强,王文玉,阳伏林,等.典型半干旱区干旱胁迫作用对春小 麦蒸散及其作物系数的影响特征[J].科学通报,2015,60(15): 1384-1394.[Zhang Qiang,Wang Wenyu, Yang Fulin,et al. The influence of drought stress on spring wheat evapotranspiration and crop coefficients in semi-arid areas[J]. Chinese Science Bulletin, 2015,60(15): 1384-1394.]   
+[36] 叶勤,姜雪芹,李西灿,等.基于高光谱数据的土壤有机质含量 反演模型比较[J].农业机械学报,2017,48(3):164-172.[Ye Qin, Jiang Xueqin,Li Xican,et al. Comparison on inversion model of soil organic matter content based on hyperspectral data[J]. Transactionsof the Chinese Society for Agricultural Machinery, 2017, 48(3): 164-172.]   
+[37] 张瑜,张立元,Zhang Huihui,等.玉米作物系数无人机遥感协同 地面水分监测估算方法研究[J].农业工程学报,2019,35(1): 83-89.[Zhang Yu, Zhang Liyuan, Zhang Huihui, et al. Crop coefficient estimation method of maize by UAV remote sensing and soil moisture monitoring[J]. Transactions of the Chinese Society of Agricultural Engineering,2019,35(1): 83-89.]   
+[38]Paredes P,Pereira L S,Rodrigues G C,et al. Using the FAO dual crop coefficient approach to model water use and productivity of processing pea (Pisum sativum L) as influenced by irigation strategies[J]. Agricultural Water Management,2O17,189: 5-18.   
+[39]Park J, Baik J, Choi M.Satellite-based crop coeficient and evapo
+
+transpiration using surface soil moisture and vegetation indices in Northeast Asia[J].Catena,2017,156:305-314. [40]Gontia N K,Tiwari K N.Estimation of crop coeficient and evapotranspiration of wheat (Triticum aestivum) in an irrigation command using remote sensing and GIS[J].Water Resources Management,2010,24(7): 1399-1414.
+
+maize with remotely-sensed vegetation index for estimating evapotranspiration in the North China Plain[J]. Journal of Hydrologic Engineering,2014,19(1): 243-251. [42]Zolfagharnejad H,Kamkar B,Abdi O.Vegetation index-deduced crop coeficient of wheat (Triticum aestivum) using remote sensing: Case study on four basins of Golestan Province,Iran[J]. International Conference on Remote Sensing,2O17,11: 498-501.
+
+# Crop coefficient simulation and evapotranspiration estimation of dune and meadow in a semiarid area
+
+LI Xia'， LIU Ting-xi'²， DUAN Li-min1²， TONG Xinʰ²， WANG Guan-lil²   
+(1. Water Conservancyand Civil Engineering Collge,Inner Mongolia Agricultural University,Hohhot010018,   
+Inner Mongolia,China;2.Inner Mongolia Key LaboratoryofWater ResourceProtectionand Utilization,Hohhot 010018,Inner Mongolia,China)
+
+Abstract: The crop coefficient is of great significance for improving the estimation accuracy of the actual evapotranspiration and the regulation of regional water resources.In this paper,based onthe Landsat 8data extraction,we usethree vegetation indices,normalized diference vegetation index (NDVI),soil adjusted vegetation index (SAVI), and simple ratio vegetation index (SR),combined with the ground measured soil moisture (SM)and the leaf area index (LAI) data in 2O17.We then use the stepwise regression analysis to establish a crop coefficient $K _ { \mathrm { c } }$ estimation model for the meadow and dune experimental area in the Horqin area.The simulated evapotranspiration $( E T _ { \mathrm { a } } )$ is obtained by multiplying the simulated $K _ { \mathrm { c } }$ value and the potential evapotranspiration ( $E I _ { \mathrm { ~ ( ~ } } ^ { \prime }$ ) calculated by the FAO 56 PM model in 2O18.The accuracy of the $K _ { \mathrm { c } }$ estimation model was verified by comparing it with the actual evapotranspiration(ETa) measured by the eddy covariance system.The results showed that the variation trend of $K _ { \mathrm { c } }$ in the meadow and dune experimental area during the growing season was consistent with VIs and SM,indicating that it was feasible to establish a $K _ { \mathrm { c } }$ estimation model based on these indicators.In correlation analysis,the correlation between $K _ { \mathrm { c } }$ （204号 and SR in the meadow experimental area was not significant, whereas the correlation between $K _ { \mathrm { c } }$ and SR in the dune experimental area was low.In the stepwise regressionanalysis,the insignificant factors were further removed,and the crop coefficient estimation model of meadow and dune was established; ${ R _ { \mathrm { a d j } } } ^ { 2 }$ was 0.84 and O.71. The $E ^ { \prime } \mathbf { \mathit { I } } _ { \mathrm { a } } ^ { \prime }$ calculated on the basis of the $K _ { \mathrm { c } }$ estimation model achieved good simulation results both in the meadow and dune experimental areas.
+
+Keywords: Horqin sandy land; evapotranspiration; remote sensing; crop coefficient; vegetation index; vorticity

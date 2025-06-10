@@ -1,0 +1,389 @@
+[
+    {
+        "type": "text",
+        "text": "家装设计服务一体化应用云平台的研究与实现",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李智董建峰刘辰",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（建研科技股份有限公司，北京100013）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】本文分析了目前在家装设计中存在的一系列典型问题，如服务模式不适用、设计平台不统一、设计资源不集中等,并提出了基于云服务的家装设计服务一体化应用解决方案。基于云平台架构，采用统一的权限和设计工具,对企业的设计资源实现集中管理。云平台的实现与其推广应用成果，证明了它能够有效地推动互联网家装设计模式的创新，为家装设计服务带来全新的体验，并且可以显著提升企业资源供应链的配置效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】云服务；家庭装修设计；资源管理",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17；TU238 【文献标识码】A 【文章编号】1674-7461(2017)05-0045-05   \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.05.08 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "，近年来,随着商品房住宅市场的发展和人们生活水平的提高，家庭住宅装饰装修业获得了迅猛的发展。无论是行业总量还是集中度,都蕴藏着巨大的机遇和空间。近5年来，传统家装行业受互联网冲击巨大，市场格局发生了很大地转变。在残酷的行业竞争环境下，各大家装公司纷纷制定战略迎合行业趋势。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在中高端家装市场，人们更加重视生活品质的提升以及家居个性的彰显,设计已经逐渐成为家装企业的核心竞争力。尤其在家装建材和施工环节的利润不断缩小的背景卜，设计在家装中的地位日益突出，但是许多技术因素以及管理因素限制了企业战略的顺利推进和实施，限制因素主要体现在如下几点：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)设计平台整合功能弱。设计师目前普遍使用CAD、3DMax给客户出设计方案,但3DMax三维模型中仅仅是几何数据，无法集成相关材料价格、工艺、定额等信息，因此无法为后期的施工阶段和项目管理阶段提供有价值的数据。设计和施工管理不能有效整合，无法体现公司集中资源优势，影响设计施工一体化的经营战略。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2)设计资源不集中。设计方案往往掌握在设计师手中，公司缺乏对设计成果的有效管控，设计师的成果不能借鉴和充分复用，设计成果无法形成企业知识资产，影响企业的规模化、产业化进程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(3)企业数据的信息化、标准化程度不高。企业的图库标准不足（主材、移动家具、配饰等）、设计工具(CAD、3DMax、手稿等)和出图标准不统一等因素，不利于企业的品牌化营销，不利于自有家居产品的推广。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2家装设计服务一体化应用云平台架构设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在\"互联网 $^ +$ \"背景下，借助云技术、BIM技术、大数据等技术支撑，研发家装设计服务一体化应用云平台，以互联网的思维模式颠覆传统家装模式。通过云平台可以对材料供应商，设计公司和装修公司的资源进行整合管理，使各参与方之间联系更加高效，实现去中介化、去渠道化，从而减少浪费，提升产能效率,增大企业利润。云平台架构如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)平台层次",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从底层到上层，依次可以划分为BIM综合数据服务层、平台服务层、业务应用层三个服务层。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a55a73e8486e88fe6d799d811c1ef6b9d1e191e543a5830530914657c89d6434.jpg",
+        "img_caption": [
+            "图1家装设计服务云平台架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BIM综合数据服务层：BIM综合数据服务层是架设在服务器端的数据采集与交互共享核心系统，包括数据库持久层、系统集成层、数据交互层。采用SOA软件架构，保障各业务数据的统一集成支撑服务功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "平台服务层：平台服务层是整个家装设计云平台核心层，提供了平台运行安全保障体系及运行维护体系。除了平台服务底层的引擎支持,还包括图文档系统、业务应用集成管理、业务权限集成管理等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "业务应用层：是统一的BIM模型以及关联文档的统一访问入口,所有功能都基于Internet/Intranet浏览技术,以Web的方式的实现。包括设计工具应用、设计管理及方案管理等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "X ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)平台特点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "权限统一化：通过在系统中定义各种应用角色，把登录用户、各种功能权限和角色进行整合，实现设计师、业务管理层、业务决策层、家装厂商及终端用户等都可以通过这个入口整合管理流程、各种资源以及相应数据，操作不同应用，实现包含BIM模型、图形图片以及文档在内的数据协同管理，实现BIM数据在项目各个参与方、多个业务阶段的信息传递与数字移交。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设计工具统一化：平台提供基于BIM的家装云设计工具，可轻松实现户型、家居、铺砖、吊顶和水电设计。设计过程化繁为简，只需要拖动产品库中的产品进入设计区，即可实时渲染模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "价格透明化：平台借助“互联网 $^ +$ ”的优势力量，实现整个行业的材料成本、手工费透明报价，在一个良好的平台和环境下，有效解决了家装行业的信息不对称、报价不透明、高额回扣、返点等行业潜规则，真正做到了通过“互联网 $^ +$ ”达到颠覆行业改变行业现状的目的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "方案智能化：家装设计云平台通过技术手段对整体设计进行指标量化，对应不同类型的产品，能够对产品进行搭配,实现整体的风格呈现。同时可以在一定范围内推荐多款不同品牌的产品，让消费者自由选择，从机制上保证了推荐的客观公正性。此外，平台还能进行智能化的比价、测量尺寸、渲染效果呈现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3家装设计服务一体化应用云平台功能研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 家装设计门户",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "家装设计门户为用户打造了解装修资讯的窗□，通过装修报价系统和成品方案库吸引用户注册,通过在线设计提升用户粘性，通过平台监管提升用户满意度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "再者，以设计平台主页为纽带实现设计师、业务管理层、业务决策层、家装厂商及终端用户基于统一信息获取,有助于信息实时共享与沟通。基于业务角色进行权限过滤、自动进入相对应的单位门户或二级门户，可以在BIM门户中完成规划中的个人面板、任务消息、数字仪表盘等功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cc80b5068b4c4471b0c4a80e276e42f9b5e01922385fb5ed8975ebd0db7d983.jpg",
+        "img_caption": [
+            "图2家装设计门户入口"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 定额及主材管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定额及主材库是家装设计的重要组成部分，为家装设计提供了数据支撑，包括了定额管理、工料机管理、材料管理、主材管理、产品管理等。在定额及主材库中进行的数据操作，均会反应在可视化设计端中。定额及主材库由企业自主建立和家居供应商产品数据构成，分散在各地的设计帅可共享授权内的库内材料信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "主材管理用以提供所有的产品数据,产品信息包含：产品编号、产品分类、产品名称、产品型号、产品尺寸、模型离地高度、模型状态、材质、系列、单位、进价、售价、供应商、品牌、库存状态等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自 产品 主村  \nH 官网首页 我的方 编号：Curtains-003 新通定数 神尔定数 Curtains-003定额列表1 ：Cutainsg 定新编号 定名称 工程类 单位 工艺鞋 计热现 咸本 报价 定费调类 所程公 操作  \n定销名称，工料机名称  \n韩号 SMLE SMILE-Q 窗市（ 其他工 米 1工艺 1.规则 6.83 12 附加子 捷科球程  \n2 SMILE-SD062 产品大央家纺布艺产市  \n3 SMILE-SD062 编号：Shower-001名称：Shower-001  \n4 SMILE-SD062 品牌：  \n5 SMILE-SD063 AE 位： □当前定额应用于套餐内一请选 一请选择 确定型号：Shower-001  \n6 SMILE-SD063 尺寸：300\\*100\\*180 标准定额数据库套价：0 全部 1 ]QSMILE-C0 产品大类卫浴类花西 定编号 定额名称 工 单位 工艺 计找 成本 报价 公 操作SMILE-SDI 成品配电 1工艺： 1.规则： 118.7.300 捷科瑞 引用至当前产品  \n9 SMILE-CS003SMILE-CSI 材料吊装 措施 平米 1说明： 1规则： 5.17 6 附加子科瑞 引用至当前产品  \n10 SMILE-CS003SMILE-CSI 居室垃圾清 措施费 平米 1.说明： 1.规则： 5.17 8 附加子目捷料瑞 引用至当前产品  \n显示1到累10记录， SMILE-CSI 垃圾外运 天工程 $^ *$ 1说明： 1.规则： 88.83 370 附加子目捷科瑞 引用至当前产品SMILE-CSI 现场成品保 拱施费 平米 1工艺： 1规则： 11.72 15 附加子目 捷科瑞 引用至当前产品SMILE-CS: 硬质成品保 措施费 TI 中 23 4 nm 5 6 R 7 33 加子日 捷科瑞 引用至当前产品SMILE-CSI 手架超高 天棚工程 来 1.R明： 1.规则： 41 42 附加子目捷料瑞 引用至当前产品与出本套具定防列票  \nhttp:/ww.yzhcoi/",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/79683885cdc26a5b049bd0d3b1c8fb4ff4401f8ef14fe415e97c5b99937c403e.jpg",
+        "img_caption": [
+            "图3定额库"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 设计方案管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设计师按照规则填写完整的设计方案信息，完成设计方案的创建。基本信息包含方案名称、适用人群以及房型、方案图纸以及图片、漫游动画、方案的简短介绍等。随着设计方案数据的日益丰富，将生成巨大的设计方案库，形成企业信息化核心资产。通过设计方案库的授权管理，保证合适的人在合适的时间查询到合适的设计方案。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此模块还包括了户型数据库维护功能。户型数据库存储着所有的户型信息，包括：户型名称、户型面积、户型类型、实际地址（城市、区、小区名，且自动转储经纬度信息）、户型图片、户型模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "作为方便客户的一种措施，本平台也提供了设计套餐功能。套餐数据库中显示平台中所有套餐信息列表，管理员用户可以在此功能下进行套餐的新建、导入、编辑、筛选和删除，同时可对每条套餐信息进行产品、主材和定额的关联。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/526e67d6edfaca9bcf9583a1c404195dc0c1e909e33d9afa26c9d85a79c5d208.jpg",
+        "img_caption": [
+            "图4主材库",
+            "图5设计方案库"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4 项目管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "项目管理为企业用户提供数据支持，其中包括项目信息、客户信息、项目流程节点的管理等等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过项目管理模块可以维护设计师的所有方案，方案内容包括：方案名称、最后修改时间、地理位置信息、效果图、施工图、报价单等。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/de63a4201a5e1c5d6e34c38aa0eba515b8ac25c54e8ec27e2d28ce041277ddb8.jpg",
+        "img_caption": [
+            "图6套餐数据库"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a564b8ec153fc64b95fa7c3d4e56348b8662fa7d5eda858726c85bbbb46b306.jpg",
+        "img_caption": [
+            "图7设计方案"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一本模块还有一个重要功能是签单管理,用户可以在此功能下进行订单的签约、施工、施工验收和订单完成确认。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5 云设计工具",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设计师可以利用云设计工具完成项目设计。设计过程化繁为简,设计师只需拖动产品库中的产品进入设计区，即可实时渲染模型，并可实现产品、定额数据、主材数据、报价以及出图的实时联动，给客户带来全新体验的同时，也大大缩短了设计沟通周期。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f320954ba26b7944636dcdb2d553d45b3850ad3aee9d99613161ce83f2d137d.jpg",
+        "img_caption": [
+            "图8签单管理"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6aef39672227f28d78ca9dfa5a2f6e8781706d67218f5b15a11fb9c2bd024711.jpg",
+        "img_caption": [
+            "图9 铺砖设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c7abdf70d267fb9e40ad46a4911056229fd18649d1c55487f21c26a90f5c9a3.jpg",
+        "img_caption": [
+            "图10自动报价单样式"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设计工具包括家居设计、铺砖设计、吊顶设计、水电设计等功能，实现一站式服务，实现一键算量、一键渲染、一键出图。设计人员设计完成方案后，系统会自动汇总装修清单，提交后，系统会根据装修清单直接生成报价单。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4总结与展望 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前，平台已经完成研发，并且已经与几家互联网家装家居品牌商达成了合作关系，正在利用新媒体平台、线下交流沙龙，线上论坛等活动，进行推广活动，慢慢培育顾客的品牌忠诚度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "家装设计云平台提出了一站式设计模式，将传统设计师与客户一对一的模式转变为基于平台的集成服务模式，实现了对传统家装盈利模式的颠覆，有效解决了家装行业的信息不对称、报价不透明客户必须预付款、高额回扣、返点等行业潜规则，让装修变得透明、简单、高性价比。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于云架构的家装服务一体化应用，将为行业提供家装设计的大数据，升级行业服务链，提升整个行业的服务水平和管理水平。将来，家装设计云平台规划进一步完善供应链系统设计，打通安装入□、物流入口，提高供应链的资源配置效率，最终实现家装产业和智能家居产业的集成。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] $2 0 1 5 \\sim 2 0 2 0$ 年中国建筑装饰行业市场分析与发展趋势研究报告［EB/OL]：中国产业研究报告网,http：//www.chinairn.com/report/20160614/150322240.html,2015-9.  \n［2］家装行业发展现状及趋势预测分析[EB/OL]．中商情报网，http://www.askci.com/news/201309/10/101649399653.shtml，2017-9-10.  \n［3］郭轶，姜立，赵艳辉.基于BIM技术的三维室内装饰工程CAD系统[C].BIM与工程建设信息化-第三届工程建设计算机应用创新论坛论文集，2011.  \n［4］张建奇，舒志强，李智.基于BIM技术的家装设计系统设计与实施[J].土木建筑工程信息技术，2016，8(6):73-78.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Research on the Integrated Cloud Platform of House Decoration Design Services and Its Implementation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Li Zhi，Dong Jianfeng,Liu Chen (CABR Technology Co.，Ltd.，Beijing 100013，China) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The paper lists serious typical problems existed in the design of house decoration，including inapplicable service model，dis-uniformed design platform and non-centralized design resources，and puts forward an integrated cloud-based service and application solution of housedecorationas well.Based on the cloud-platform architecture，unified authorityand collaborative design tols are adopted to achieve the centralized management of enterprise design resources.The implementation of cloud platform and its appication popularization have proven hat thecloud platform isable to promote the innovationof Internethouse design pattrn efectively,to bring new experience for house decoration design services，and to improve the eficiencyof enterprise resource supply chain configuration significantly. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Cloud Service；House Decoration Design；Resource Management ",
+        "page_idx": 4
+    }
+]

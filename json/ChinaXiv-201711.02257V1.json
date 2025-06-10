@@ -1,0 +1,379 @@
+[
+    {
+        "type": "text",
+        "text": "Insight-HXMT observations of the first binary neutron star merger GW170817 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TiPei $\\mathrm { L i } ^ { 1 , 2 , 3 }$ , ShaoLin Xiong1,ShuangNan Zhang1,3\\*,FangJun ${ \\mathrm { L u } } ^ { 1 }$ ,LiMing Song1, XueLei $\\mathrm { C a o } ^ { 1 }$ , Zhi Chang', Gang Chen1, Li Chen4, TianXiang Chen1, Yong Chen1, YiBao Chen²,YuPeng Chen,Wei $\\mathrm { \\dot { C } u i } ^ { 1 , 2 }$ ,WeiWei Cuil, JingKang Deng², YongWei Dong', YuanYuan $\\mathrm { D u } ^ { 1 }$ ,MinXue $\\mathrm { F u } ^ { 2 }$ ,GuanHua $\\mathrm { G a o } ^ { 1 , 3 }$ ,He Gao1,³,Min Gaol,MingYu $\\mathrm { G e ^ { 1 } }$ ,YuDong $\\bar { \\mathrm { G u } } ^ { 1 }$ ,Ju Guan', ChengCheng Guol,3,DaWei Han',Wei $\\mathrm { H u } ^ { 1 }$ ,Yue Huang',Jia Huol,ShuMei Jia’,LuHua Jiangl,WeiChun Jiang',Jing $\\operatorname { J i n } ^ { 1 }$ YongJie $\\mathrm { J i n } ^ { 5 }$ Bing $\\mathrm { L i } ^ { 1 }$ ,ChengKui $\\mathrm { L i } ^ { \\mathrm { \\scriptsize 1 } }$ ,Gang $\\mathrm { L i } ^ { 1 }$ ,MaoShun $\\mathrm { L i } ^ { 1 }$ ,Wei $\\mathrm { L i } ^ { 1 }$ ,Xian $\\mathrm { L i } ^ { 1 }$ ,XiaoBo $\\bar { \\mathrm { L i } ^ { \\mathrm { \\overline { { i } } ^ { \\mathrm { 1 } } } } }$ ,XuFang $\\mathrm { L i } ^ { 1 }$ ,YanGuo Lil, ZiJian $\\mathrm { \\dot { L } i } ^ { 1 , 3 }$ , ZhengWei $\\mathrm { L i } ^ { 1 }$ ,XiaoHua Liang',JinYuan Liaol,CongZhan Liu',GuoQing Liu’,HongWeiLiu', ShaoZhen Liul, XiaoJing Liu',Yuan Liul,YiNong Liu,Bo Lul,XueFeng ${ \\mathrm { L u } } ^ { 1 }$ ,Tao Luo', Xiang $\\mathrm { { M a } ^ { 1 } }$ ,Bin Meng1,Yi Nangi3,JianYin Niel, Ge $\\mathrm { O u } ^ { 1 }$ , JinLu $\\mathrm { Q u } ^ { 1 }$ ,Na Sai13,Liang Sun1,Yin Tan1,LianTao',WenHui Tao1,YouLi Tuol,3,GuoFeng Wang1,HuanYu Wang1, Juan Wang',WenShuai Wang',YuSa Wang', XiangYang Wen',BoBing ${ \\mathrm { W u } } ^ { 1 }$ ,Mei Wu',GuangCheng Xiao1,3,He $\\mathrm { { X u } ^ { 1 } }$ YuPeng $\\mathrm { { X u } ^ { \\bar { 1 } } }$ ,LinLi $\\mathrm { Y a n } ^ { 1 , 3 }$ , JiaWei Yang', Sheng Yang', YanJi Yang',AiMei Zhang', ChunLei Zhang', ChengMo Zhang] Fan Zhang',HongMei Zhang',Juan Zhang',Qiang Zhang',Shu Zhang',Tong Zhang',Wei Zhang3,WanChang Zhang WenZhao Zhang4,YiZhang',YueZhang13，YiFei Zhang1,YongJie Zhang1,Zhao Zhang2,ZiLiang Zhang',HaiSheng Zhao, JianLing Zhao1,XiaoFan Zhao1,3, ShiJie Zheng', Yue Zhu', YuXuan $Z \\mathrm { { h u } } ^ { 1 }$ , and ChangLin $Z \\mathrm { o u } ^ { 1 }$ (The Insight-HXMT team) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1KeyLaboratoryofarticleAstropyics,stituteofHghneryicsineAcdemyofienceeingoin ² Department of Physics,Tsinghua University,Beijing 100084,China 3 UniversityofChinese Academy ofSciences,Chinese AcademyofSciences,Beijing 10049,China 4 Department ofAstronomy,Beijing Normal University,Beijing 0oo88,hina 5DepartmentofEngineeringPhysics,Tsinghua University,Beijing 10o084,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received October9,2017;accepted October13,2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Findingthe electromagnetic (EM)counterpartofbinary compact star merger,especiallthe binary neutron star (BNS)merger, is critically importantforgravitational wave(GW)astronomy,cosmologyand fundamental physics.OnAug.17,2017,AdvancedLIGOandFermi/GBMindependently triggered thefirstBNS merger,GW170817,andits high energyEMcounterpart, GRB17817A,respectivelyresulting inaglobalobservationcampaigncoveringgamma-ray,X-ray,UV,optical,I,adioas well as eutrinos.The High Energy X-raytelescope (HE)onboard Insight-HXMT(Hard X-ray Modulation Telescope)is the unique high-energy gamma-raytelescope that monitored theentire GWlocalizationarea andespeciallytheopticalcounterpart (SSS17a/AT2017gfo) with very large collection area $( { \\sim } 1 0 0 0 ~ \\mathrm { c m } ^ { 2 } )$ and microsecond time resolution in $0 . 2 \\mathrm { - } 5 ~ \\mathrm { M e V }$ .In addition, Insight-HXMTquickly implemented aTargetof Opportunity(ToO)observation to scan theGWlocalizationareaforpotential X-ray emission from the GW source.Although Insight-HXMT did not detect any significant high energy $( 0 . 2 { - } 5 ~ \\mathrm { M e V } )$ radiation from GW170817,its observation helped to confirm the unexpected weak and soft natureofGRB170817A.Meanwhile, Insight-HXMT/HE provides one of the most stringent constraints( ${ \\widetilde { \\mathbf { \\Gamma } } } { \\sim } 1 0 ^ { - 7 }$ to $1 0 ^ { - 6 } \\mathrm { e r g / c m } ^ { 2 } / \\mathrm { s }$ forboth GRB170817Aand any other possible precursor or extended emissions in $0 . 2 \\mathrm { - } 5 ~ \\mathrm { M e V }$ ,which help us to better understand the properties of EM radiation fromthisBNS merger.Therefore theobservationofInsight-HXMTconstitutesanimportantchapter in thefullcontextofmulti-wavelength and multi-messenger observation of this historical GW event. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GW17o817, BNS merger, gravitational wave electromagnetic counterpart ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS number(s): ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: T.P.LiS.LodaaisesfsaroaerGia Astron.61(3),031011(2018),doi: 10.1007/s11433-017-9107-5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The First direct observation of gravitational wave (GW) from the binary black hole (BBH) merger GW150914 by the AdvancedLaser Interferometer Gravitational-Wave Observatory (LIGO) heralded the GW astronomy[1]. However, finding the electromagnetic (EM) counterpart of GW source is critically important to independently confirm the physical event produced the GW, to study the GW event in astrophysical context, to independently measure the Hubble constant,and to investigate fundamental physics (e.g. mass of graviton,Lorentz Invariance) [2-4]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Extensive EM follow-up observations have been implemented since the very first GW event GW150914 [5].Although a possible EM counterpart candidate for GW150914 Was reported by Fermi/GBM [6],other studies using the same GBM data [7，8] and other observation using INTEGRAL/SPI-ACS [9] rejected this candidate.In fact, BBH merger is not expected to produce EM emission [10, 11],except in some certain conditions [e.g. 12,13]. Therefore，the primary targets for GW-EM joint detection are compact binary mergers involving a neutron star, either binary neutron star (BNS) or black hole-neutron star mergers, which is supported by the extensive studies of short GRBs in decades [14]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Hard $\\mathrm { \\Delta X }$ -rayModulation Telescope (HXMT),dubbed as Insight-HXMT after launch on June 15,2017,was originallyproposed in the 199Os,based on the DirectDemodulation Method[15,16].As China's first X-ray astronomical satellite, Insight-HXMT carries three main payloads onboard[17]: the High Energy X-ray telescope (HE,20-250 keV, $5 1 0 0 ~ \\mathrm { c m } ^ { 2 } )$ , the Medium Energy $\\mathrm { \\Delta X }$ -ray telescope (ME, $5 { - } 3 0 \\ \\mathrm { k e V } , \\ 9 5 2 \\ \\mathrm { c m } ^ { 2 } )$ ，and the Low Energy $\\mathrm { \\Delta X }$ -ray telescope (LE, $1 { - } 1 5 \\mathrm { k e V } , 3 8 4 \\mathrm { c m } ^ { 2 }$ ,as shown in Figure 1.The original primary scientific objectives of Insight-HXMT are:(1） to scan the Galactic Plane for revealing new transient sources and to monitor the known variable sources;(2) to observe X-ray binaries to study the dynamics and emission mechanism in strong gravitational or magnetic fields [17]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thanks to the innovative operation of the anticoincidence detectors of HE，the main scientific objectives of Insight-HXMT have been extended to monitor Gamma-Ray Bursts (GRBs) and GW EM counterparts,making Insight-HXMT one of the most important gamma-ray monitors in the gravitational wave astronomy era. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HE consists of18 cylindrical $\\mathrm { \\Delta N a I ( T l ) / C s I ( N a ) } ^ { 2 }$ phoswich detectors,each with a diameter of $1 9 0 ~ \\mathrm { m m }$ and thickness of $3 . 5 ~ \\mathrm { m m }$ and $4 0 ~ \\mathrm { m m }$ for NaI and CsI respectively. NaI/CsI phoswich detector is originally designed to measure hard X-rays in $2 0 { - } 2 5 0 \\ \\mathrm { k e V }$ incident from the nominal Field of View (FoV, $1 . 1 ^ { \\circ } \\times 5 . 2 ^ { \\circ }$ and $5 . 2 ^ { \\circ } \\times 5 . 2 ^ { \\circ } ,$ ）definedbyslatcollimators placed in front of the detectors (Figure 1),where CsI is used as anticoincidence detector to reduce the background of the main detector NaI. However, downloading the individual photon data registered by CsI allows it to detect gamma-rays with energies from ${ \\sim } 2 0 0 \\ \\mathrm { k e V }$ up to tens of MeV which penetrate the spacecraft and payload structure and deposit energy in the CsI crystals. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b78afb12f2b40303c2646e4813cc24ae42db84597bad01422a2e566e294e22fd.jpg",
+        "img_caption": [
+            "Figure 1(Left) Insight-HXMT is composed of HE,ME and LE telescopes.Coordinates used in this paper are shown on the upper left.Incident angle theta is the angle between line-of-sight to the source and the Z axis. Azimuthal angle phi equals O deg for the Xaxis,and 9O deg for the Yaxis. (Right) The design of $\\mathrm { \\Delta N a I / C s I }$ detector. Slat collimators (not shown） are placed above the Be window. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HE normally operates in the regular mode, in which NaI works in the energy range of about $2 0 { - } 2 5 0 \\ \\mathrm { k e V }$ while CsI in about $8 0 { - } 8 0 0 \\ \\mathrm { k e V } .$ In order to improve the spectroscopy capability for hard GRBs (i.e. $\\mathrm { { E } _ { p e a k } \\sim M e V ) }$ ，a dedicated working mode,called GRB mode,has been designed and implemented for HE.In this mode, the high voltage of the photomultiplier tube(PMT, readout device for NaI/CsI scintillator) is reduced so that the measured energy range of CsI goes up to $0 . 2 \\mathrm { ~ - ~ } 3 \\mathrm { ~ M e V . }$ Note that the above energy is the deposited energy in CsI caused by incident gamma-rays with energy from ${ \\sim } 2 0 0 \\ \\mathrm { k e V }$ to tens of $\\mathrm { M e V } ,$ and most of these gamma-rays only deposit part of their energies in CsI. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1115c81552c5a59581283ba2cba806c597eb5bbf4261563b1684efcc866ae491.jpg",
+        "img_caption": [
+            "Figure2Simulated total effective area ofHE 18 CsI detectors for GRB detection in regular mode (Left) and GRB mode (Right). Each line represents the effective area for each theta angle averaged in azimuthal (phi angle from 0 to 360 deg). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since the structure of the satellite is very complicated, detector response to the penetrated gamma-rays is quite difficult to compute. On-ground calibration of the response isimpossible due to the constraints of the satellite.Therefore,GEANT4 [18] has been utilized to simulate the response of the CsI detector. The simulated effective area as a function of incident energy in different angles for both the regular and GRB modes are shown in Figure 2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 2,the effective area for typical incident geometry in both regular mode and GRB mode is ${ \\sim } 1 0 0 0 ~ \\mathrm { c m } ^ { 2 }$ ，meaning that HE is one of the largest GRB detectors in hundreds $\\displaystyle \\mathrm { k e V }$ to tens MeV ever flown and that HE can detect GRBs in either mode.It also shows that HE is an omnidirectional detector for GRBs,thus the FoV for GRB observation is the whole sky not occulted by the Earth Therefore,Insight-HXMT/HE could serve as an excellent wide-field monitor for high-energy transient sources,including GRBs and GW EM counterparts. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since the first light on June 21,2017,HE has detected 26 GRBs significantly and published 20 GCN Circulars³ as of Sept.25,2017.Examples of the detected GRBs are shown in Figure 3.GRB 170904A (Figure 3,Left panel) isa typical bright burst,for which a very high statisticswas achieved by Insight-HXMT,allowing us to explore the variability on the minimum timescale in MeV energy band. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/56d8dfdc9bfc2e04fe94919ac01747f73e1e6a08e11cb95fdf2577535e0d7092.jpg",
+        "img_caption": [
+            "Figure 3 Light curves of GRB 170904A (Left) and GRB 170921C (Right) detectedbyInsight-HXMT/HE. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As shown in the right panel of Figure 3, GRB 170921C is a typical short hard burst which was triggered by HE with high significance (12 o).For comparison, Fermi/GBM only detected it as a sub-threshold event (total significance $\\sim 8 ~ \\sigma$ ） while INTEGRAL/SPI-ACS did not trigger it and off-line analysis shows the detection significance is about ${ \\sim } 4 ~ \\sigma$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These observation facts manifested the capability and advantage of Insight-HXMT/HE in detecting short hard GRBs,which are the expected high-energy EM counterparts of GW sources from binary mergers involving neutron stars (e.g.neutron star-neutron star or neutron star-black hole mergers). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 GW170817 and Insight-HXMT Observations ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "On Aug. 17, 2017, at 12:41:04.446 UTC, LIGO was triggered by the first neutron-star binary coalescence GW event (GW170817,[19]).About ${ \\sim } 2$ s later,a weak short GRB (GRB170817A,[20,21]) triggered the Fermi/GBM independently at 2017-08-17T12:41:06.47 UTC (hereafter T0) [20].The GBM localization is broadly consistent with the GW location given by the LIGO-Hanford detector [20]. Soon after, this GRB was confirmed by an offline data analysis of INTEGRAL/SPI-ACS [21]. IPN triangulation from the time delay between GBM and SPI-ACS further improved the location of GRB170817A,which is well consistent with the refined GW sky region $( \\sim 3 0 ~ \\mathrm { d e g } ^ { 2 }$ ， $90 \\%$ CL) made by the Hanford-Livingston-Virgo detector network [19].Coincidence in both temporal and location between GW170817 and GRB170817A strongly supports that they are physically related [22]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Alerts of those observations were distributed quickly within the LVC EM follow-up community, resulting in a historically global observation campaign covering UHECR, gamma-ray, X-ray, UV, optical,IR,radio as well as neutrinos [23]. These multi-wavelength and multi-messenger observations finally lead to the first discovery of a BNS merger with gravitational wave and EM waves spanning from gamma-ray, $\\mathrm { \\Delta X }$ -ray,ultraviolet,optical,infrared to radio band [23,and references therein]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Insight-HXMT is the unique gamma-ray telescope that monitored the entire GW location area, especially the optical counterpart4 (SSS17a [24]),around the trigger time, with ${ \\sim } 1 0 0 0 ~ \\mathrm { c m } ^ { 2 }$ effective area and microsecond $( \\mu \\mathrm { { s } ) }$ temporal resolution at high energies $( 0 . 2 \\mathrm { - } 5 ~ \\mathrm { M e V } )$ . Not only did Insight-HXMT do a prompt observation (section 2.1） to GW170817 and GRB170817A, it also quickly implemented a Target of Opportunity(ToO) observation to the GW area for potential $\\mathrm { \\Delta X }$ -ray counterpart (section 2.2),as well as a dedicated ToO observation to the Crab pulsar for calibration of the detector response (section 2.3). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Given the importance of its observation,results of Insight-HXMT have been included in the historical paper of GW170817 [23]. Here we report the detailed observation and data analysis of Insight-HXMT. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Prompt Observation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Insight-HXMT was makinga pre-scheduled pointed observation to GRO J1008-57 when GW170817 happened. HE monitored the whole localization region of Fermi/GBM, the entire LVC sky map and the final GW source position (i.e.optical counterpart SSS17a) without any occultation by the Earth at the trigger time (TO),as shown in Figure 4.We note that the shielding or occultation effect prevented many other X/gamma-ray telescopes from observing GW170817 and GRB170817A around the trigger time [23]. Indeed, Insight-HXMT had been monitoring the SSS17a sky area since the first light of HE (\\~ TO-5O day),with interruptions only from the Earth occultation of the source and the swift-off of HE when the satellite passed through the South Atlantic Anomaly(SAA) region.During the pointed observation for GRO J1008-57,Insight-HXMT observed SSS17a with a constant incident geometry (theta $\\scriptstyle 1 = 4 7 . 3 ^ { \\circ }$ ，ph $1 { = } 2 0 1 . 1 { ^ \\circ }$ definition of incident angles are shown in Figure 1 caption) from T0-1.15 day to $\\mathrm { T 0 + 0 } { \\cdot } 2 9$ day. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 4 bottom panel, HE provided a continuous coverage from TO-650 s to $\\mathrm { T 0 + } 4 5 0 ~ \\mathrm { s }$ in the vicinity of trigger time where a short GRB and its related emission episodes (i.e.precursor,extended emission) produced by BNS merger are likely to occur. Within $\\mathrm { T 0 } { \\pm } 5 0 0 0 ~ \\mathrm { s }$ ，the GW source was occulted by the Earth from TO-278O s to T0-650 s and from $\\mathrm { T 0 + 2 9 5 0 }$ s to $\\mathrm { T 0 + 5 0 0 0 ~ s }$ ，while HE was turned off due to SAA passage from $\\mathrm { T 0 + } 4 5 0 ~ \\mathrm { s }$ to ${ \\mathrm { T 0 + 1 1 1 0 ~ s } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1600ca222d971ba827b6415d40439e9f527dacd725596344b89a97641577c82e.jpg",
+        "img_caption": [
+            "Figure 4(Top) The sky area monitoredbyHE for gamma-ray transients when GW17o817 happened.The whole area of Fermi/GBM localization, LVClocation and the optical counterpart SSS17a was not occulted by the Earth.(Bottom) Evolution of the Earth angle of the GW source within $\\mathrm { T 0 } { \\pm } 5 0 0 0 \\ \\mathrm { s }$ Earthangle $< 6 7 . 3$ means the source was occulted by the Earth. Gray area indicates the SAA passage when HE was turned off.Blue lines are time intervals when HE monitored the GW source (SSS17a). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Initial check of the light curve has revealed no counterpart of GRB170817A in the summed light curve of $1 8 { \\mathrm { ~ C s I } }$ detectors,which was reported as one of the earliest GCNs regarding GW170817 [25].Here the summed light curves with different temporal resolution (bin width) and time intervals are shown in Figure 5.The maximum time interval plotted in Figure 5 is T0-65O s and $\\mathrm { T 0 + 4 5 0 ~ s }$ ， during which Insight-HXMT provided the most valuable monitoring of any potential high energy emission from the GW source. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As shown in the top panel in Figure 5,there is no significant excess around the GW merger time or GRB trigger time§．We also did a Monte Carlo simulation for GRB170817A with the incident angle of the GW position and the spectrum measured by GBM [2O],and found that some CsI detectors are expected to receive more counts than others (see Figure 6).Therefore,we tried different selection and combination of those CsI detectors in various energy ranges,but still did not find any excess.We also checked the light curve of NaI detectors and found no excess either. Non-detection of GRB170817A in both CsI and NaI is consistent with the expected counts (Figure 6) based on the GBM spectrum and the corrected detector response (see section 2.3). Thus we conclude that Insight-HXMT did not detect GRB170817A,suggesting that this burst is very weak in fluence and soft in spectrum,which is consistent with the GBM measurement [20]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a4f2d05ca6b6dddb85dbc6cebfd70adf57ef862b2a3b9bdf6e1a7e43fd4c44a.jpg",
+        "img_caption": [
+            "Figure 5Light curves of HE $1 8 ~ \\mathrm { C s I }$ detectors around GW170817 and GRB170817A.From top to bottom the time ranges and bin widths are: [T0-2.5 s, $\\mathrm { T 0 } { + } 1 . 5 { \\mathrm { s } } ]$ and $0 . 0 5 \\mathrm { \\ s } ;$ ， $[ \\mathrm { T 0 - 5 ~ s }$ ， $\\mathrm { T 0 + 5 s ] }$ and $0 . 2 \\mathrm { ~ s } ;$ ： $[ \\mathrm { T } 0 { - } 5 0 \\ \\mathrm { s } ,$ （204 $\\mathrm { T 0 + } 5 0 \\mathrm { s } ]$ and $\\textbf { l s }$ [T0-650s, $\\mathrm { T 0 + 4 5 0 s ] }$ and $5 \\mathrm { ~ s ~ }$ ,respectively.No significant excess above background variation are found.The bump from $\\mathrm { T 0 - 1 0 0 ~ s ~ }$ to $\\mathrm { T 0 + 1 0 0 ~ s ~ }$ is caused by charged particles in orbit,as indicated by the bump in the same time interval in the ACD light curve (gray).. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As shown in the bottom panel in Figure 5,a bump from T0-100 s to $\\mathrm { T 0 + 1 0 0 ~ s ~ }$ is evident. However, a similar bump is also seen in the same time interval in the plastic anticoincidence detectors (ACD),which are placed around the HE main detectors to reject the charged particles,in order to reduce the background of $\\mathrm { \\Delta N a I / C s I }$ [17].Thus we conclude that this bump is caused by charged particles and has no relation with GW170817. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dac0b20a44fcefd79e29a55ac1536cc93dc4f230e021a2a53506f91650020d3a.jpg",
+        "img_caption": [
+            "Figure 6Simulated counts rate of $1 8 ~ \\mathrm { C s I }$ detectors for GRB170817A using the GBM spectrum [2O],GW incident angles and the corrected effective area (see section 2.3).In the $2 \\mathrm { ~ s ~ }$ duration of GRB170817A,the total count expected to be detected by HE is $\\sim 5 0$ ，which is well within the $_ { 1 - \\sigma }$ statistical fluctuation $( \\sim 1 2 0 )$ of the background in Figure 5. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Searcheswith timebins of $2 0 ~ \\mathrm { { m s } }$ ， $5 0 \\mathrm { m s }$ 5 $0 . 2 \\mathrm { ~ s ~ }$ and 1 s are also made to the raw light curve,and no significant excess with signal to noise ratio (SNR) greater than 5 is revealed; the small bumps in light curves are caused by the charged particles in orbit,which are usually seen in HE data. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 ToO Observation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Immediately after receiving the alerts of GW170817 and GRB170817A,we scheduled a ToO observation to scan the localization region,which was originally provided by GBM and later by LIGO and Virgo collaboration (LVC)[23], aiming to find potential X-ray emission from the GW source The ToO was actually implemented from $\\mathrm { T 0 } { + } 6 . 9$ to $\\mathrm { T 0 + } 1 8 . 0$ hour.During this ToO,the nominal FoVs of ME and LE did not cover the SSS17a area because it was too close to the Sun and beyond the sun avoidance angle $( \\sim 7 0$ deg）of the telescope.Carefully checking the observation history reveals that some LE detectors with very large FoV 中 ${ \\sim } 5 0$ deg)[17] temporally covered the SSS17a area during the slew; however, those LE detectors were saturated due to the bright Earth. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 CrabCalibration Observation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since the response of the HE detector for GRB detection isvery complicated and ground-calibration was not achieved,Monte Carlo simulation should be validated or corrected based on the in-flight calibration.Both the gamma-ray flux and the spectrum of the Crab pulsar are stable, which could be used to calibrate the effective area of HE CsI detector.We thus made a dedicated ToO observation with a total exposure time of $1 6 8 \\mathrm { k s }$ ，for which the Crab was set in the same incident direction as GW170817. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The calibration using the Crab pulsar consists of the following steps: First, the arrival time of every event registered by CsI was converted to Solar System Barycenter (SSB) and the phase was obtained with the ephemeris of the Crab pulsar. Then the pulse profile was folded as shown in Figure 7.At the end, the spectrum accumulated from phase 0.6 to 0.8 was taken as the background for the pulsed component. Considering the exposure time, the mean pulsed flux is about $1 . 2 4 { \\pm } 0 . 2 5 \\ \\mathrm { c n t / s }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0084b6e838dbe869dd017dbcd5dacdd8c2a1d98d9f1b5cb0e109b405a4ddddcf.jpg",
+        "img_caption": [
+            "Figure 7 Crab pulse profile accumulated in the calibration observation, normalized with the maximum 1 and minimum O.Phase O represents the positionof the X-raymain peakobservedby the HE NaI detector. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "On the other hand,we calculated the expected mean count rate based on the spectrum of pulsed component of the Crab pulsar and the simulated detector response for the incident geometry of GW170817. The spectrum of the pulsed component is from [26]. This calculation gives a mean rate of $2 . 5 8 ~ \\mathrm { c n t / s }$ ，thus the ratio between observation and simulation is $0 . 4 8 { \\pm } 0 . 1 \\$ (1 o).The same analysis was applied to the observation of Crab in a different incident angle (theta $_ { . = 9 0 . 4 }$ deg, $\\mathrm { \\ p h i } { = } 3 0 2 . 2 ~ \\mathrm { d e g }$ )；the observed mean counts rate is $0 . 8 3 { \\pm } 0 . 1 4 ~ \\mathrm { c n t / s }$ while the simulated rate is 1.95,resulting in the ratio of $0 . 4 3 { \\scriptstyle \\pm 0 . 0 7 }$ （204号 ${ \\big ( } 1 \\sigma { \\big ) }$ ,which is very close to the ratio for GW source.Therefore,we corrected the simulated effective area with the factor of O.48 in the following analysis for the GW source. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3Constraints on the high energy radiation fromGW170817 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According to short GRB studies in decades,the most likely high energy EM counterpart of BNS merger is the short GRB and its afterglow[14],which has been confirmed by the observation of GW170817 [23]. In addition,short GRBs could come with other radiation components, such as precursor before the trigger[27] or extended emission after the main pulse of GRB [28].Although HE did not find any significant excess from GW170817 from T0-650 s to $\\mathrm { T 0 + 4 5 0 }$ s,Insight-HXMT/HE can pose stringent constraints (upper limits) on the high energy radiation from GW170817. including GRB170817A and other possible emission episodes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We note that, among many operating gamma-ray telescopes, there are only four that monitored GW17o817 during the trigger time (TO): Fermi/GBM,Konus-Wind, INTEGRAL/SPI-ACS and Insight-HXMT/HE [23]. Out of those four telescopes,HE has the unique advantage of large effective area $( { \\sim } 1 0 0 0 ~ \\mathrm { c m } ^ { 2 } )$ as well as microsecond time resolution in the high energy band $( 0 . 2 \\mathrm { - } 5 \\mathrm { M e V } )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To calculate the upper limit, we use the corrected detector response (see section 2.3) as well as different spectral models(see Table 1) and timescales for the potential emission components.Three typical spectral models for short GRB are used: Band function [29],Comptonized model (i.e. Power-Law with exponential cutoff) and simple Power-Law model.For each model, three sets of parameters are taken to represent the soft,medium and hard spectrum hardness. Spectral parameters are summarized in Table 1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c7d3b70e9d70c5b139c347982acd08181db254c84ad3d05a26e841d0822239d.jpg",
+        "table_caption": [
+            "Table 1Spectral models are used for the upper limits calculation. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Spectral model</td><td>alpha</td><td>beta</td><td>Epeak (keV)</td></tr><tr><td>Band_1</td><td>-1.9</td><td>-3.7</td><td>70</td></tr><tr><td>Band_2</td><td>-1.0</td><td>-2.3</td><td>230</td></tr><tr><td>Band_3</td><td>0.0</td><td>-1.5</td><td>1000</td></tr><tr><td>Comp_1</td><td>-1.9</td><td>-</td><td>70</td></tr><tr><td>Comp_2</td><td>-1.0</td><td>-</td><td>230</td></tr><tr><td>Comp_3</td><td>0.0</td><td>-</td><td>1000</td></tr><tr><td>PL_1</td><td>-2.0</td><td>-</td><td></td></tr><tr><td>PL_2</td><td>-1.5</td><td></td><td></td></tr><tr><td>PL_3</td><td>-1.0</td><td>-</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Since GRB170817A showed a strong spectral evolution [20],we computed the upper limits for two time intervals for the main burst: $[ - 0 . 3 \\mathrm { ~ s } , 0 ]$ and $[ 0 , 0 . 2 5 \\ \\mathrm { s } ]$ ； all times are relative to the GBM trigger time (TO). For other potential emission episodes, timescales used to calculate upper limits are O.1 s and 1 s for an assumed precursor before trigger, and 1 s and $1 0 \\mathrm { ~ s ~ }$ for the assumed extended emission after trigger.Detailed results of upper limits are shown in Figure 8 and summarized in Table 2.These tight upper limits down to ${ \\sim } 1 0 ^ { - 7 } \\mathrm { e r g / c m } ^ { 2 } / \\mathrm { s }$ in $0 . 2 \\mathrm { - } 5 \\mathrm { M e V }$ on the high energy radiation components including the prompt short GRB170817A and other possible precursor or extended emission will help us to better understand the properties ofEM radiation from this double neutron star coalescence,as well as the physics of the relativistic jets of short GRBs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 Summary and Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GW170817 is the first BNS merger discovered by LIGO and Virgo. Fortunately its electromagnetic counterpart was successfully detected and identified in gamma-ray, optical, X-ray and radio band. Insight-HXMT/HE is one of the only four gamma-ray telescopes that successfully monitored GW170817 during the trigger time,and HE possesses the largest effective area $( \\sim 1 0 0 0 ~ \\mathrm { c m } ^ { 2 } )$ in $0 . 2 \\mathrm { - } 5 ~ \\mathrm { M e V }$ and highest time resolution (microsecond).Although HE did not detect GRB1708717A,it helped to confirm the unexpected weak and soft nature of this short GRB.Meanwhile, these observations made by HE allowed us to derive one of the most stringent constraints on GRB170817A and other possible emission components related to the GW source，which is very important to characterize the whole picture of this historical binary neutron star merger and its high energy electromagnetic counterpart. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thiswork made use of the data from the Insight-HXMTmission,aproject fundedbyChinaNational SpaceAdministration(CNSA) andtheChinese Academy of Sciences(CAS).The Insight-HXMT team gratefully acknowledgesthe support fromtheNationalProgramonKeyResearchandDevelopment Project(Grant No.2016YFA0400800) from the Ministerof ScienceandTechnologyofChina(MOST) andtheStrategicPriorityResearch Program of the Chinese Academy of Sciences(GrantNo. XDB23040400). S.L. Xiong acknowledges the support from the Hundred TalentProgramofChineseAcademyofSciences.M.Y.Geacknowledges theNational Natural Science Foundation of China (NSFC),Grant No. 11233001 and 11503027.J. Zhang acknowledges the NSFC,Grant No. 11403026. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 B.P.Abbott, et al.(LIGO Scientific Collaboration and Virgo Collaboration),ObservationofGravitationalWaves fromaBinaryBlack Hole Merger，Phys.Rev.Lett,，116(6)， 061102 (2016), doi:10.1103/PhysRevLett.116.061102.   \n2 B.D.Metzger,andE.Berger,Whatis theMost PromisingElectromagnetic CounterpartofaNeutronStarBinaryMerger?,Astrophys. J.,746(1),48 (2012),doi:10.1088/0004-637X/746/1/48.   \n3 S.Nissanke,D.E.Holz,N.Dalal, S.A. Hughes,J.L. Sievers,and C. M.Hirata,Determining the Hubble constant from gravitational wave observations ofmerging compact binaries,ArXivl3072638 (2013).   \n4 C.M.Will,Bounding the mass of the graviton using gravitational-wave observations of inspiralling compact binaries,Phys.Rev.D,   \n57(4),2061-2068(1998),doi:10.1103/PhysRevD.57.2061.   \n5 B.P.Abbott,etal.(LVEM teams),Localization and Broadband Follow-up of theGravitational-wave TransientGW150914,Astrophys.J. Lett.,826(1),L13 (2016),doi:10.3847/2041-8205/826/1/L13.   \n6 V.Connaughton,et al.(Fermi/GBM team),Fermi GBM Observations ofLIGO Gravitational-wave Event GW150914,Astrophys.J.Lett.,   \n826(1),L6 (2016),doi:10.3847/2041-8205/826/1/L6.   \n7 S.L.Xiong,Is the GW150914-GBM really associated with the GW150914?,ArXiv160505447 (2016)   \n8 J.Greiner,J.M.Burgess,V. Savchenko,and H.-F.Yu, On the Fermi-GBM Event 0.4 s after GW150914,Astrophys.J.Lett.,827(2), L38(2016),doi:10.3847/2041-8205/827/2/L38.   \n9 V.Savchenko,etal.(INTEGRAL team),INTEGRAL upper limitson gamma-ray emission associated with the gravitational wave event GW150914, Astrophys. J., 820(2), L36 (2016), doi:10.3847/2041-8205/820/2/L36.   \n10 Y.Liu,and S.N. Zhang (2oo9),Exact solutions for shells collpsing towards a pre-existing black hole,Phys.Lett.B,679(2),88-94, doi:10.1016/j.physletb.2009.07.033.   \n11 S.-N.Zhang,Y.Liu, S.Yi, Z.Dai,and C.Huang,Do we expect to detect electromagnetic radiation from merging stellar mass black binaries like GW150914?No,ArXiv160402537 (2016)   \n12 B.Zhang,Mergers of Charged Black Holes:Gravitational-wave Events,ShortGamma-Ray Bursts,andFastRadio Bursts,Astrophys. J.Lett.,827(2),L31(2016),doi:10.3847/2041-8205/827/2/L31.   \n13 A.Loeb,Electromagnetic Counterparts to Black Hole Mergers De tected by LIGO，Astrophys.J.Lett. 819(2)，L21 (2016), doi:10.3847/2041-8205/819/2/L21.   \n14 J.Abadie,et al.(LIGO Scientific Collaboration and Virgo Collaboration),Predictions for the rates of compact binary coalescences observable by ground-based gravitational-wave detectors， Class. Quantum Gravity, 27(17), 173001 (2010), doi:10.1088/0264-9381/27/17/173001.   \n15 T.-P.Li,and M.Wu,Adirectrestorationmethod forspectral and image analysis，Astrophys.Space Sci.，206(l)，91-102 (1993), doi:10.1007/BF00658385.   \n16 T.-P.Li,andMWu,Reconstructionofobjectsby directdemodulation，Astrophys.Space Sci.，215(2)，213-227(1994), doi:10.1007/BF00660079.   \n17 S.Zhang,F.J.Lu, S.N. Zhang,and T.P.Li(2014),Introduction to thehard x-ray modulation telescope,vol.9144,p.914421,International Society for Optics and Photonics.   \n18 S．Agostinelli,et al.,Geant4—a simulation toolkit,Nucl. Instrum. Methods Phys. Res. Sect. Accel. Spectrometers Detect. Assoc.Equip.. 506(3),250-303(2003),doi:10.1016/S0168-9002(03)01368-8.   \n19 B.P.Abbott et al.(LIGO Scientific Collaboration and Virgo Collaboration),GW170817:ObservationofGravitationalWavesfromaBinaryNeutron Star Inspiral,Phys.Rev.Lett.,119,161101 (2017), doi:10.1103/PhysRevLett.119.161101,in press.   \n20 Goldstein,A.,et al.(Fermi/GBM team),An Ordinary Short Gamma-Ray Burst with Extraordinary Implications:Fermi-GBMDetection ofGRB170817A, ApJL, 848， 2 (2017), doi:10.3847/2041-8213/aa8f41,in press.   \n21 V.Savchenko,et al. (INTEGRAL/SPI-ACS team)，ApJL (2017), doi:10.3847/2041-8213/aa8f94,in press.   \n22 B.P.Abbott,et al.(LIGO Scientific Collaboration and Virgo Collaboration,Fermi/GBM team,INTEGRAL/SPI-ACS team),Gravitational Wavesand GammaRays froma BinaryNeutron StarMerger: GW170817 and GRB 170817A, 2017, ApJL, doi:10.3847/2041-8213/aa920c,in press.   \n23 B.P.Abbott et al.(LIGO Scientific Collaboration and Virgo Collaboration,LV EM teams),Multi-messenger Observationsofa Binary Neutron StarMerger,2017,ApJL,doi:10.3847/2041-8213/aa91c9,in press   \n24 Coulter et al., Science (2017),doi:10.1126/science.aap9811, in press   \n25 J.Y.Liao,et al. 2017,GCN,21518,1   \n26 L.Kuiper,W.Hermsen,G. Cusumano,R.Diehl,V. Schonfelder,A. Strong,K.Bennett,andM.L.McConnell,The Crab pulsar in the 0.75-30 MeV range as seen by CGRO COMPTEL-A coherent high-energy picture from soft X-rays up to high-energy y-rays, Astron. Astrophys., 378(3), 918-935 (2001), doi:10.1051/0004-6361:20011256.   \n27 E.Troja,S.Rosswog,and N.Gehrels,Precursors of Short Gamma-ray Bursts, Astrophys. J., 723(2), 1711 (2010), doi:10.1088/0004-637X/723/2/1711.   \n28 Y.Kaneko,Z.F.Bostanci,E.Gogus,and L.Lin, Short Gamma-Ray Bursts with Extended Emission Observed with Swift/BAT and Fermi/GBM,MNRAS,452,1,824 (2015)   \n29 D.Band,et al.,BATSE observations of gamma-ray burst spectra.ISpectral diversity,Astrophys.J.,413,281-292 (1993). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3d231f68a01edb15831f492537d3eecfef62871612320ac6f882b9eb9cf6ade.jpg",
+        "img_caption": [
+            "Figure8InsightHprlits(foApreudetedesiiostesales(idthofthitr OnlyesultsforthreeComptonedmodels (seeTable)areshowSTableforompreensiveuppermitresultsforallspectralodels "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf63bd772883e92eb158423d58bd0452f6add4db877deb3ccd3bc133893cc4e6.jpg",
+        "table_caption": [
+            "TableIsighupriitsfalsdstralodels(sTabl)fodosibep extendedemisstatddeartadielativetooftdiocomonttoalulateis. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Upper limits (erg/cm²/s)</td><td>T_start (s)</td><td>T_end (s)</td><td>Band_1</td><td>Band_2</td><td>Band_3</td><td>Comp_1</td><td>Comp_2</td><td>Comp_3</td><td>PL_1</td><td>PL_2</td><td>PL_3</td></tr><tr><td>GRB170817A</td><td>-0.30</td><td>0.00</td><td>1.4e-06</td><td>1.9e-06</td><td>3.4e-06</td><td>1.3e-06</td><td>1.2e-06</td><td>3.0e-06</td><td>2.2e-06</td><td>2.8e-06</td><td>2.1e-06</td></tr><tr><td>GRB170817A</td><td>0.00</td><td>0.25</td><td>1.6e-06</td><td>2.2e-06</td><td>3.6e-06</td><td>1.6e-06</td><td>1.4e-06</td><td>3.3e-06</td><td>2.6e-06</td><td>3.1e-06</td><td>2.3e-06</td></tr><tr><td>Precursor</td><td>-400.05</td><td>-399.95</td><td>2.3e-06</td><td>3.1e-06</td><td>4.8e-06</td><td>2.3e-06</td><td>2.1e-06</td><td>4.4e-06</td><td>3.6e-06</td><td>4.1e-06</td><td>2.9e-06</td></tr><tr><td>Precursor</td><td>-400.5</td><td>-399.5</td><td>7.7e-07</td><td>1.1e-06</td><td>1.8e-06</td><td>7.5e-07</td><td>6.8e-07</td><td>1.7e-06</td><td>1.3e-06</td><td>1.7e-06</td><td>1.1e-06</td></tr><tr><td>Extended</td><td>299.5</td><td>300.5</td><td>8.9e-07</td><td>1.2e-06</td><td>2.0e-06</td><td>8.7e-07</td><td>7.9e-07</td><td>1.8e-06</td><td>1.4e-06</td><td>1.8e-06</td><td>1.2e-06</td></tr><tr><td>Extended</td><td>295</td><td>305</td><td>3.1e-07</td><td>4.3e-07</td><td>6.4e-07</td><td>3.0e-07</td><td>2.8e-07</td><td>6.1e-07</td><td>5.2e-07</td><td>6.1e-07</td><td>4.1e-07</td></tr></table></body></html>",
+        "page_idx": 6
+    }
+]

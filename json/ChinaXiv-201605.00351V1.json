@@ -1,0 +1,449 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dual lonic and Organic Nature of lonicLiquids ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:12 March 2015   \nAccepted:16 December 2015   \nPublished:19 January 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rui Shi & Yanting Wang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inherited the advantages of inorganic salts and organic solvents,ionic liquids (ILs) exhibit many superior properties alowing them promising green solvents for thefuture.Although it has been widely acknowledged that the unique features ofILs originate from their dualionicand organic nature,its microscopic physical origin stillremains blurry.In this work, by comparing the ion/molecule cage structures obtained from molecular dynamics simulations for seven prototypic liquids-a molten inorganic salt, fourILs,a strongly polar organicsolvent,and a weakly polar organic solvent, we have revealed that the depth ofthe cage energy landscape characterizes the ionic nature ofILs, whereas the slope and curvature ofits mimimum determine the organic nature of ILs.This finding advances our understanding ofILs and thus will help their efficient utilizationas well as the systematic design of novel functionalized ILs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The establishment and developmentof modern industries cannot be apart from creation and application of novel liquids.Featured by many advantageous properties including good tunabilityand solvation ability,organic solvents have beenwidelyused in dailyand industrial activities.However,due to their organic nature,organic solvents areusualy volatile,which greatly raises the risk offlammation and pollution1.Toovercome these problems, inorganic molten salts working at high temperatures were once regarded as a“green\" replacement to organic solvents in many applications2.Despite their many advantages,such as non-flammability, non-volatility, good stability,and conductivity,inorganic molten salts sufer from the high melting temperature owing to their strong ionic nature3.The breakthrough did notappear until aseries of air-and water-stable organic salts whose melting point is around room temperature,better known as ionic liquids (ILs),were successfully synthesized in $1 9 9 2 ^ { 4 }$ Inherited both the organic nature of organic solvents and the ionic nature of inorganic salts,ILs have even more advantageous properties,such as good solvationabilityand tunability,low melting temperature,good conductivity,wideelectrochemical window,thermalandelectrochemicalstabilities,non-volatility,andnon-flammabiity,6, which allow them to be promising“green\"solvents utilized in many areas,suchas chemical synthesis57, catalysis8,nertoagebcant1,terialadogyEvnogtallssoer toxicity-freeand biodegradable,theirnon-volatileandnon-flammable features greatlyreduce theriskof possible pollution and danger.Since diferent combinations of cation and anion produce at least millions of available ILs (much more than organic solvents)5 withalarge variety of physical and chemical properties,one can in principle always find a suitable candidate to meet the requirement of a designated application.On the other hand,also because ofthe vast numberofcandidates,determining the properties ofallILsone byone by experimentis unfeasible.Therefore,selecting suitable candidates to meet specific requirements by computer-aided systematic design is essential for the effcient and smart utilization of ILs.A profound understanding of the dualionicand organic nature of ILs is one of the key problems for fulfilling this goal. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is well acknowledged that strong long-range electrostatic interactions characterize the ionic nature of inorganic molten salts13,and comparatively strong short-range van der Waals (VDW) interactions feature the organic nature of organic solvents14.In contrast,although the mixed ionic and organic nature of ILs hasben widely discused in literaturel5-17,their microscopic physicalorigin characterized by interionic interactions stillremains unclear. In recent years,great efforts have been made to measure the interionic interactions in ILs by various spectroscopy techniques. By using the far-infrared spectroscopy, Ludwig etal.18 studied the low-frequency vibrational spectra ofseveral ILs and related them to the interionic force constantbytaking the harmonic assumption. Shirota et al.19 measured the low-frequency spectra of IL 1-methoxy-ethylpyridinum dicyanoamide by femtosecond optical heterodyne-detected Raman-induced Kerr efect spectroscopyand compared with its analogous isoelectronic neutral solution composed of 1-methoxyethylbenzene and dicyanomethane.On the basis of the observation that the IL hadahigher-frequency interionic vibrational mode,they concluded that ILs havealarger intermolecular force constant than neutral solutions.By performing vibrational Stark efect spectroscopy experiments,Zhang et al.20 measured the intrinsic electric fields in several ILs and found thatthey are only slightly stronger than but stillcomparableto those in common organic solvents,which challenges thestereotype that ILs have much stronger electrostatic interactions than organic solvents. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/771b8439436dd0b54e4f6373467511f0ef8d23b3886557ebf4a52d98076d756a.jpg",
+        "img_caption": [
+            "Figure1.Molecular structures.From top to bottom: sodium chloride (NaCl),1-butyl-3- methylimidazoliumnitrate([BMIM] $\\left[ \\mathrm { N O } _ { 3 } \\right] .$ ),1-butyl-3-methylimidazolium tetrafluoroborate([BMIM] $\\mathrm { [ B F _ { 4 } ] }$ ),1-butyl-3-methylimidazolium hexafluorophosphate([BMIM] $\\left[ \\mathrm { P F } _ { 6 } \\right] .$ ),1-butyl-3-methylimidazolium bis(trifluoromethanesulfonyl)imide([BMIM] $[ \\mathrm { N T f } _ { 2 } ]$ ),dimethyl sulfoxide (DMsO),and toluene,in such an order that the molecular feature changes from more ionic to more organic. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Besides spectroscopy experiments,interionic interactions in ILs have also been studied by computation and simulation.The electronic structureand density functional theory(DFT)methods have been used to calculate the ion-pairbinding energyin ILs.Forinstance,Tsuzuki etal.21calculated theion-pairbinding energiesofseveral ILs with the MP2 method and found thattheelectrostatic interaction is the major source ofatraction between an ion pair,while the induction (part of VDW interactions) contribution is smallbut not negligible (around $9 - 1 3 \\%$ ） Kirchner and coworkers22 studied theion-pair binding energiesofNaCland1,3-dimethylimidazoliumchloride with the HF and MP2 methods.They reported that the VDW (both dispersion and induction) interactions play an important role in determining the energy landscape of IL ion pairs,whereas in $\\mathrm { { N a C l } _ { \\mathrm { { ; } } } }$ ,the VDW contribution is almost negligible.Those calculations have successfully diferenciated the contributions from the electrostatic and VDW interactions, which is of great importance for analyzing the ionic and organic nature of ILs. However, limited by computer power,those studies can onlybe conducted for an ion pair or small clusters in the gas phase, leaving behinda profound understanding ofthe microscopic origin of the dual ionic and organic nature of ILs in the condensed phase. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is well known that many ILs with intermediate side chains form spatially heterogeneous structures in which alkylchains aggregate to form non-polar domains and the charged groups forma continuous ionic network23-28. If we further increase the side chain length,those ILs may form various ionic liquid crystals29-32.In these structures,the IL properties also become spatially heterogeneous: it is more“ionic\" in the ionic network,but more “molecular\"in the non-polar domains.Therefore,we believe that,similarto short-chain ILs,ILs with intermediate chain lengths also exhibit the intrinsic dual nature determined by molecular structures and interactions, which is the central focus of this paper. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work,by performing all-atom MD simulations,we calculated in detail the interionic interactions in four typical ILs(1-butyl-3-methylimidazolium nitrate $\\big ( \\mathrm { [ B M I M ] [ N O _ { 3 } ] } \\big )$ ,1-butyl-3-methylimidazolium tetrafluoroborate（[BMIM] $\\mathrm { [ B F _ { 4 } ] }$ ),1-butyl-3-methylimidazolium hexafluorophosphate $\\left( \\left[ \\mathrm { B M M } \\right] \\left[ \\mathrm { P F } _ { 6 } \\right] \\right)$ ,and 1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide $\\left( \\left[ \\mathrm { B M I M } \\right] \\left[ \\mathrm { N T f } _ { 2 } \\right] \\right)$ ),and compared with a typical molten inorganic salt (molten sodium chloride,NaCl),a strongly polar liquid (Dimethyl sulfoxide,DMSO),and a weaklypolar liquid (toluene)(Fig.1).The obtained forces,vibrational force constants,intrinsic electric felds, cohesive energies,and cage energies for those liquids alowedus to depict thedual ionicand organic nature of ILs from the viewpoint of the cage energy landscape (CEL).The mechanism we have revealed is that the depth of the CEL determined bythe long-range electrostatic interactions characterizes the ionic natureofILs,whereas the slope and curvature of the CEL determined by the short-range VDW interactions describe the organic nature of ILs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Physical properties.As a novel\"green” solvent with many unique properties,ILs have attracted a lot of attentions fromboth scientificandindustrialcommunities forabout twenty years.Therefore,many experimental dataare now available forILs.In Table1,welist the experimental values andoursimulation results forsome physical properties of the seven prototypic liquids.Itcan be seen thatour calculated densities and dipole moments agree well with the experimental values.In the following sections,we willalso show that our simulation results qualitatively reproduce the experimental measurements of electric feld and heat of vaporization.These results manifestthe reliabilityof the AMBER force feldandour simulation proceduredescribed inthe Methods section. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8fd7c1939551004faa90ef6f929e590965fb1b394e90ca83434291ee884118d5.jpg",
+        "table_caption": [
+            "Table1. Physicochemical properties.Melting temperatures $T _ { m } ,$ molar masses $M$ ,densities $\\rho ,$ dipole moments $\\mu { _ { : } }$ surface tensions $\\gamma ,$ viscosities $\\eta ,$ and self-diffusion coefficients $D$ .The values in parentheses represent our simulation results.Unless otherwise noted,all the values (except $T _ { m . } ^ { \\quad \\cdot }$ for $\\mathrm { \\Delta N a C l }$ are obtained at $T = 1 1 4 8 . 1 5 \\mathrm { K }$ and $T = 3 0 0 \\mathrm { K }$ for the other three liquids.aGlass transition temperature.No crystallization of [BMIM] $\\mathrm { [ B F _ { 4 } ] }$ has been observed.bData measured at 297K.Data measured at $2 9 8 . 1 5 \\mathrm { K }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Tm/K</td><td>M/g·mol-1</td><td>p/g.cm-3</td><td>μ/D</td><td>γ/mNm-1</td><td>n/mPas</td><td>Dcation/10-9m2.s−1</td><td>Danion/10-9m2.s-1</td></tr><tr><td>NaCl</td><td>1073.1533</td><td>58.44</td><td>1.5234 (1.28)</td><td>1</td><td>108.634</td><td>0.89134</td><td>10.735 (7.3)</td><td>7.635 (5.4)</td></tr><tr><td>[BMIM][NO3]</td><td>309.236</td><td>201.2</td><td>1.16.37 (1.17)</td><td>1</td><td>1</td><td>165.3c37</td><td>-(0.0009)</td><td>-(0.0004)</td></tr><tr><td>[BMIM] [BF4]</td><td>188.15a38</td><td>226.03</td><td>1.1739 (1.15)</td><td>1</td><td>40.440</td><td>90.0441</td><td>0.01641 (0.016)</td><td>0.01541 (0.010)</td></tr><tr><td>[BMIM] [PF6]</td><td>283.1541</td><td>284.2</td><td>1.3741 (1.36)</td><td></td><td>45.740</td><td>228.841</td><td>0.0084] (0.0013)</td><td>0.00641 (0.0005)</td></tr><tr><td>[BMIM] [NTf2]</td><td>270.1541</td><td>419.4</td><td>1.4441 (1.51)</td><td>1</td><td>33.142</td><td>45.741</td><td>0.0341 (0.002)</td><td>0.02441 (0.002)</td></tr><tr><td>DMSO</td><td>291.6543</td><td>78.13</td><td>1.10b44 (1.11)</td><td>3.9643 (5.05)</td><td>43.0b44</td><td>1.97b44</td><td colspan=\"2\">0.7645 (0.6)</td></tr><tr><td>Toluene</td><td>178.1543</td><td>92.14</td><td>0.86b44 (0.83)</td><td>0.3546 (0.34)</td><td>28.5b44</td><td>0.56b44</td><td colspan=\"2\">2.447 (2.4)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b39b16d7e111af171eca1f6555567b6717f79f9e8525717207ba3f46a98bf26.jpg",
+        "img_caption": [
+            "Figure2.Charge distributions.Fromleft to right:[BMIM] $\\mathrm { [ B F _ { 4 } ] }$ ion pair,DMSO and toluene molecules.The color bar is displayedatthe left.More greencolored atoms have more positive partial charges,more red ones have more negative partial charges,and black ones are almost neutral. Charge delocalization was observed in [BMIM] $\\mathrm { [ B F _ { 4 } ] }$ ,DMSO,and toluene,which enhances the electrostatic interactions in polar organic solvents but weakens the electrostatic interactions in ILs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Despite their ionic nature,ILs still in some ways behave closer to organic solvents than to molten inorganic salts.As shown in Table1,molten NaCl hasa much higher melting temperature than theother sixliquids due to its high cohesive energy induced by its strong electrostatic interactions.AllILs remain in the liquid stateatroom temperature,similar to organic solvents.ILs have much higher densities than toluene,butare stillin between molten NaCland DMSO.Molten NaClhas the highestdensityin the seven liquids due to its heavy inorganic ions and strong electrostatic atractions.Unlike molten NaCl,the ILs show much smaller surface tensions very close to DMSO,and almost falls into the range between DMSO and toluene,consistent with the surface tension calculations by Weisset al.48, who showed thatthe reduced surface tensionofILs follows the universal scaling curve for polar organic solvents rather than inorganic molten salts. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Despite the similarities,ILs have unique properties that distinguish them from organic solvents.For instance, it can be seen from Table1that all the ILs have higher viscosities and smaller diffusioncoeficients than the organic solvents by several orders of magnitudes (NaCl has a very fast dynamics due to the high simulation temperature of $1 1 4 8 . 1 5 \\mathrm { K }$ to allow it in the liquid state).Except [BMIM] $\\mathrm { [ B F _ { 4 } ] }$ that has been simulated by a reduced-charge model,thedynamics of other ILsare significantly underestimated,becausethe molecular models employ fullioniccharges,which omits the charge-transferand polarizability effects.Other advantageous features of ILs notlisted in Table1include negligible vapor pressure,tunable solvation,good conductivity,and distinctive catalytic ability56.In the following sections,the molecular origins leading to the differences of those physical properties willbe interpreted bya detailed analysis ofintermolecular interactions.From nowon“molecule\"will be frequently used to refer to both“ion\"and “molecule\"without differentiation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Intramolecular charge distributions.Intramolecular charge distribution and corresponding electrostatic interactionundoubtedly play an important role in determining the physicochemical properties ofionic systems. Inorganicsalts usuall consistof two or more kinds of inorganic ions with integer charges,inside which a single ion does not have an inner charge distribution (given that we ignore the induced polarization).In contrast, the effctive partial charges of IL molecules are delocalized among diffrent atoms,similar to polar organic solvents. The charge distributions of $\\mathrm { \\left[ B M M \\right] \\left[ B F _ { 4 } \\right] }$ ,DMSO,and toluene,displayed in Fig.2,were taken from refs 49-51, respectively. It can be seen that the charges are widely distributed among [BMIM] and $\\mathrm { [ B F _ { 4 } ] }$ atoms,and only a few atoms,such as the hydrogen atoms on the imidazolium ring $( + 0 . 2 e )$ and the fluorine atoms $( - 0 . 4 e )$ ,have large partial charges.To effectively incorporate the charge transfer effect52,allthe partial charges for $\\mathrm { \\small { [ B M M ] [ B F _ { 4 } ] } }$ （204号 were rescaled by $0 . 8 0 7 ^ { 4 9 }$ .Organic solvents have similar charge delocalization,despite the fact that the molecules in whole are charge neutral.The charge distribution in DMSO results in a very large dipole moment of $3 . 9 6 \\mathrm { D }$ 0 whereas in toluene the dipole moment is only $0 . 3 5 \\mathrm { D }$ .Generally speaking,the delocalization of charges effectively enhances the electrostatic interactions in polar organic solvents,but weakens the electrostatic interactions in ILs along with the charge transfer effect. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2799b63f3a20187f75a4ea98e9c9b28e20206884581f13e4f796281000ee72d0.jpg",
+        "img_caption": [
+            "Figure 3.Center-of-mass radial distribution functions (COM-RDFs). (a) COM-RDFs of molten NaCl, [BMIM] $\\left[ \\mathrm { N O } _ { 3 } \\right]$ ，[BMIM] $\\mathrm { [ B F _ { 4 } ] }$ ，[BMIM] $\\mathrm { [ P F _ { 6 } ] }$ ，[BMIM] $[ \\mathrm { N T f } _ { 2 } ]$ ,DMSO,and toluene.For ionic systems,cations andanions are treated identicallyin this plot.Because ofthelargevolume of organic ions,theion-ion distances in the first coordination shell of ILs $( 4 . 5 \\mathring \\mathrm { A }$ for[BMIM] $\\left[ \\mathrm { N O } _ { 3 } \\right]$ $4 . { \\overset { \\smile } { 6 } } \\mathring { \\mathrm { A } }$ for $\\mathrm { \\small { [ B M M ] [ B F _ { 4 } ] } }$ $5 . 0 \\mathring \\mathrm { A }$ for $\\mathrm { \\small { [ B M M ] [ P F _ { 6 } ] } }$ $5 . 2 \\mathring \\mathrm { A }$ for [BMIM] $\\left[ \\mathrm { N T f } _ { 2 } \\right] ,$ is much farther than that in molten NaCl $( 2 . 7 \\mathring \\mathrm { A } )$ ,but slightly closer than those in DMSO $( 5 . 3 \\mathring \\mathrm { A } )$ and toluene $( 5 . 9 \\mathring \\mathrm { A } )$ .(b) COM-RDFs for the cation-anion,cation-cation,and anion-anion pairs in molten $\\mathrm { \\Delta N a C l }$ .The valley positions of the cation-anion RDFs perfectly match up with the peak positions of cation-cation and anion-anion RDFs,suggesting an ordered ion cage structure. (c-f) COM-RDFs for the cation-anion,cation-cation,and anion-anion pairs in (c)[BMIM] $\\left[ \\mathrm { N O } _ { 3 } \\right]$ ,(d)[BMIM] $\\mathrm { [ B F _ { 4 } ] }$ ,(e)[BMIM] $\\mathrm { [ P F _ { 6 } ] }$ （204号 and (f) $\\left[ \\mathrm { B M M } \\right] \\left[ \\mathrm { N T f } _ { 2 } \\right]$ . Due to the large volume and asymmetric geometry of organic ions, the valley positions onlyapproximately match up with the peak positions,indicating aless ordered ion cage structure in the IL. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Liquid structures.The center-of-mass radial distribution functions (RDFs)ofthe seven liquids are shown in Fig.3.In order to compare with organic solvents,in Fig.3a,the cations and anions in $\\mathrm { \\Delta N a C l }$ andILsare treated as dentical particles in the RDFcalculations.The first peak positions,characterizing theion-ion distance in the first coordination shell,have the order $\\mathrm { N a C l } \\left( 2 . 7 \\mathring { \\mathrm { A } } \\right) < \\mathring { \\left[ \\mathrm { B M I M } \\right] } \\left[ \\mathrm { N O } _ { 3 } \\right]$ $( 4 . 5 \\mathring \\mathrm { A } ) < [ \\mathrm { B M I M } ] [ \\mathrm { B F } _ { 4 } ] ( 4 . 6 \\mathring \\mathrm { A } ) < [ \\mathrm { B M I M } ]$ $\\mathrm { \\left[ P F _ { 6 } \\right] ( 5 . 0 \\mathring { A } ) } < \\mathrm { \\left[ B M I M \\right] \\left[ N T f _ { 2 } \\right] }$ (5.2A)<DMSO $( 5 . 3 \\mathring \\mathrm { A } ) <$ Toluene $( 5 . 9 \\mathring \\mathrm { A } )$ ,which can be understood as follows. Due to the small volume and strong electrostatic interaction,ions in molten $\\mathrm { \\Delta N a C l }$ are closely packed in the first coordination shell Because of the large volume of organic ions,the distances between ions in the firstcoordination shell of ILs are much larger than $\\mathrm { \\Delta N a C l }$ ,but still slightly closer than organic solvents.The distance between DMSO molecules is closer than toluene because of its strong intermolecular interactions resulted from the large dipole moment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/867eaa280324960a1e47b9168b7a05d43370a449306635b9fbd16614d04108be.jpg",
+        "img_caption": [
+            "Figure 4.cage energylandscape.The cage energy landscape is characterized by three parameters: curvature, slope,and depth,corresponding to the force constant,force,and activation energy experienced bymolecules, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure3b-f show the RDFs of molten NaCl and ILs,respectively, with cations and anions treated differently. Owing to the large volume and asymmetric geometry of organic ions,all the ILs showlarger ion-ion distances and lower degree of charge ordering than molten NaCl, which along with the charge delocalization,greatly reduces the electrostatic interactions and thus stands out the organic nature of ILs.Moreover,the cation-cation and anion-anion RDFsoscilate out of phase with the cation-anion RDFs,indicating alocal charge ordering that extends to several coordination shels in the ionic systems.As aresult,each ion is surroundedbyseveralcounterions inthe firstcoordination shell,forming an ion cage53-6l composedof thecounterions in the firstcoordination shell surrounding acentral ion (see the schematic inFig.4).The cage concept canalso be easilyapplied to molecular liquids, in which each molecule is encapsulated by a molecule cage62-66. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The cage structure averaging over allocal cage structures statistically depicts the structure and dynamics of liquids.For instance,asmaller cage volume corresponds to a higherdensity,and a more stable cage leads to a slower dynamics.We then further define the associated cage energy landscape as the ensemble-averaged local energy landscape as a function of the dislocation of the central ion from the cage center.The structural and dynamical properties ofliquids can be related to the CELas: molecules vibrate near the minimum ofthe CELand frequently escape the cage todiffuse.Due to its collctive nature,direct determination of the CEL by experiment or simulation is still challenging.Instead,in this work,we use three parameters,namely the curvatureand slope near the minimum and the depth,to characterize the main features ofthe CEL. Under the harmonic approximation,the curvature,slope,and depth of CEL are in fact the force constant $k = \\partial ^ { 2 } U / \\partial r ^ { 2 }$ ,force $F = - \\ \\partial U / \\partial r$ ,and activation energy $E _ { \\mathrm { a } }$ experienced by molecules,as ilustrated in Fig.4.Here the activation energy is defined as the average energy of a particle required to climb over the energy barrier and escape the cage. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Vibrational Force constants.Many vibrational spectroscopy experiments were performed to determine the intermolecularinteractions in liquids.For example,as mentioned inthe Introduction,Shirota etal.19 found that an $\\mathrm { I L }$ has the interionic vibrational frequency about $2 0 \\%$ higher than its isoelectronic molecular solution, suggesting thatILs havea slightlylarger vibrational forceconstantthanorganic solvents.However,this method is not always reliable,since it is unfairto directly compare the frequencies that may belong to diferent vibrational modes.Toavoid this problem,we employthe frst momentofvibrationaldensityof state (VDOS)to qualitatively describe the average characteristic frequency of intermolecular vibrational modes,which is defined $\\mathbf { a } \\mathbf { s } ^ { 6 7 }$ $\\begin{array} { r } { \\left. \\omega \\right. = \\int _ { 0 } ^ { \\omega _ { c } } \\omega I \\left( \\omega \\right) \\mathrm { d } \\omega / \\int _ { 0 } ^ { \\omega _ { c } } I \\left( \\omega \\right) \\mathrm { d } \\omega } \\end{array}$ ,where $\\omega$ is the frequency and $I \\left( \\omega \\right)$ is the VDOS,the Fourier transform of the velocity time autocorrelation function. The frequency $\\omega _ { c }$ was chosen in such a way $( \\omega _ { c } = 5 0 0 \\mathrm { c m } ^ { - 1 }$ for $\\mathrm { \\Delta N a C l }$ and $1 7 5 \\mathrm { c m } ^ { - 1 }$ forotherliquids)that all the intramolecular vibrational modes were excluded and the main intermolecular modes were included.The calculated VDOS,shown in Figure S1 in the Supplementary Information (SI), agrees well with the optical heterodyne-detected Raman-induced Kerr effect spectra68-70. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The vibrational force constants in liquids,listed in Table 2,were calculated under the harmonic approximation, $\\left. \\omega \\right. = \\sqrt { k } / 2 \\pi c$ ,where $c$ is the speed of light and $k$ is the mass-scaled force constant. It can be seen that the characteristic frequencies (first moments)calculated for the ILsand the organic solvents agree very well with the experiments (no experimental data are available for molten $\\mathrm { \\Delta N a C l }$ and $\\mathrm { \\big [ B M M \\big ] } \\mathrm { \\big [ N O _ { 3 } \\big ] } )$ .Clearly,the characteristic frequencies and force constants ofILs are close to polar liquid DMSO,but much smaller than molten NaCl.These results suggest that the curvature of the IL CEL is similar to polar organic solvents butsignificantly gentler than inorganic molten salts. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Forces.In an equilibrium state,the long-time average ofthe instantaneous force experienced bya molecule is zero,but its instantaneous magnitude fluctuates with time,reflecting the strengthofthe intermolecular force in liquids.To make the efectofinteractions on dynamics comparable fordifferent systems,the forceis caled by particle mass,which is actually the instantaneous acceleration. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 5a-ccompare the total,VDW,and electrostatic forces,respectively,inalliquids.Itcanbeseen from Fig. 5a that the DMSO molecule experiences stronger intermolecular force than toluene because of its larger dipole-dipole interaction.The forces experienced byions in ILs fallin the rangebetween DMSOand toluene,but one orderof magnitude weakerthan molten NaCl.Particularly,theelectrostaticand VDW forces in ILsare nearly as strongas DMSO,and falls in the range between $\\mathrm { \\Delta N a C l }$ and toluene. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc49b63a5cc99e7a55d0b60e1a3ca8a8783dd5dcb5c658f325818db657e8946a.jpg",
+        "table_caption": [
+            "Table 2.Force constants and intrinsic electric fields.Mean strengths of characteristic frequency(first moment) $\\scriptstyle \\langle \\omega \\rangle .$ vibrational force constant $k ,$ intrinsic electric field $E _ { : }$ ,and electric field difference $\\Delta E$ with respect to $\\mathrm { \\left[ B M M \\right] \\left[ B F _ { 4 } \\right] }$ .The values in parentheses are experimental ones.aCalculated using data from ref.68. bCalculated using data from ref.70.Calculated using data from ref.69.dData from ref.20,71. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>(w)/cm-1</td><td>k/1026s-2</td><td>E/108V/m</td><td>△E/10V/m</td></tr><tr><td>NaCl</td><td>162(-)</td><td>9.3</td><td>87.8</td><td>67.0(-)</td></tr><tr><td>[BMIM][NO3]</td><td>86(-)</td><td>2.6</td><td>22.1</td><td>1.3 (2.3d)</td></tr><tr><td>[BMIM][BF4]</td><td>82 (85a)</td><td>2.4</td><td>20.8</td><td>0 (0d)</td></tr><tr><td>[BMIM][PF6]</td><td>76 (78)</td><td>2.0</td><td>18.0</td><td>-2.8 (-1.0d)</td></tr><tr><td>[BMIM][NTf2]</td><td>76 (77)</td><td>2.0</td><td>17.9</td><td>−2.9 (-2.5d)</td></tr><tr><td>DMSO</td><td>77 (82b)</td><td>2.1</td><td>23.9</td><td>3.1 (2.9d)</td></tr><tr><td>Toluene</td><td>69 (66)</td><td>1.7</td><td>16.7</td><td>−4.1 (−4.6d)</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/977d1a016da212713b840055d7a34669dccae915801655158435148fa7e1266a.jpg",
+        "img_caption": [
+            "Figure 5.Distribution of intermolecular forces.(a) Total, (b)VDW,and (c) electrostatic interactions in moltenNaCl,[BMIM] $\\left[ \\mathrm { N O } _ { 3 } \\right]$ ，[BMIM] $\\mathrm { [ B F _ { 4 } ] }$ ， $\\mathrm { \\small { [ B M M ] [ P F _ { 6 } ] } }$ ，[BMIM] $[ \\mathrm { N T f } _ { 2 } ]$ ,DMSO,and toluene. The $X$ axis is displayed in the log scale and the $Y$ axis is in an arbitrary unit.(d) Contribution of electrostatic force to the total force.This contribution is characterized by a parameter $\\alpha = \\vec { F } _ { \\mathrm { t o t } } \\cdot \\vec { F } _ { \\mathrm { e l e c } } / \\vec { F } _ { \\mathrm { t o t } } ^ { 2 }$ The peak positions at around $\\alpha = 0$ suggest that the VDW interaction dominates the intermolecular force in ILs and organic solvents.The width of the $\\alpha$ distribution (normalized by area)describes the organic and ionic nature of forces in liquids—narrower means more organic and widermeans more ionic. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The electrostatic force in molten NaClis comparable to the VDW and total forces,whereas inother liquids, the electrostatic forces are significantly weaker. We further define a parameter $\\alpha = \\vec { F } _ { \\mathrm { t o t } } \\cdot \\vec { F } _ { \\mathrm { e l e c } } / \\vec { F } _ { \\mathrm { t o t } } ^ { 2 }$ to characterize theelectrostaticcontribution to thetotal intermolecular force,whose schematic is shown in theinsetof Fig.5d. The parameter $\\alpha$ quantifies the ionic feature by the intermolecular force which is independent of particle mass, size and numberofinteracting sites per molecule.Itcanbe seen from Fig.5dthat, except molten NaCl,aliquids showa single peak at around $\\alpha = 0$ ,demonstrating that the intermolecular force is dominated by the VDW interaction in ILs and organic solvents.Molten $\\mathrm { \\Delta N a C l }$ shows two peaks at $- 0 . 2$ and 1.2,demostrating the significant role of electrostatic force in molten $\\mathrm { \\Delta N a C l }$ .Moreover,the width of the distribution increases in the order: toluene $< \\mathrm { D M S O } \\sim \\mathrm { I L s } < \\mathrm { N a C l }$ ,indicating an increasing electrostatic contribution to the intermolecular force as the liquid changes from more organic to more ionic.Interestingly,all the ILs show a distributionsurprisinglycloser to DMSO,,suggesting the organic features of ILs,consistent with our force constant result shown above.In contrast,both Naand Clions have much widerdistributions with the peak positiondeviated from zero,reflecting the strong inorganic and ionic nature ofinorganic molten salts.Along with theresults offorce constants,we conclude thatthecurvature (estimated by force constant)and slope(deterimined by force)of the IL CEL are mainly determined bythe VDW interactions,similar to polar organic solvent, which underlines the organic nature of ILs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/10b22a2b209700427b716637f7b36a462fad21720b3b0318b508bcd48a2a5764.jpg",
+        "table_caption": [
+            "Table 3.Cohesive energies.Cohesive energy $\\Delta _ { \\mathrm { v a p } } U _ { \\mathrm { m } } ,$ its electrostatic part $\\Delta _ { \\mathrm { v a p } } U _ { m } ^ { \\mathrm { e l e c } }$ and VDW part $\\begin{array} { r } { \\Delta _ { \\mathrm { v a p } } U _ { m } ^ { \\mathrm { v d w } } } \\end{array}$ ， and heat of vaporization $\\Delta _ { \\mathrm { v a p } } H _ { \\mathrm { m } }$ .The experimental values are in the parentheses.The Unit is $\\mathrm { k J / m o l }$ aDataat $1 1 7 3 . 1 5 \\mathrm { K }$ from ref.74.bData at298.15K from ref.75.Dataat $3 0 0 \\mathrm { K }$ from ref.50.dData at298.15KK from ref.76. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>△vapUm</td><td>△vapUcle△vapUndw</td><td></td><td>△vapHm</td></tr><tr><td>NaCl</td><td>233.9</td><td>248.8</td><td>-14.8</td><td>243.5 (219.2a)</td></tr><tr><td>[BMIM][NO3]</td><td>262.9</td><td>183.4</td><td>75.5</td><td>265.4(-)</td></tr><tr><td>[BMIM][BF4]</td><td>127.2</td><td>72.5</td><td>61.3</td><td>129.7(128.2b)</td></tr><tr><td>[BMIM][PF6]</td><td>247.0</td><td>178.3</td><td>67.2</td><td>249.5(-)</td></tr><tr><td>[BMIM][NTf2]</td><td>180.9</td><td>80.7</td><td>95.2</td><td>183.3 (15573)</td></tr><tr><td>DMSO</td><td>49.9</td><td>24.3</td><td>27.2</td><td>52.4 (52.9)</td></tr><tr><td>Toluene</td><td>32.1</td><td>2.7</td><td>29.5</td><td>34.6 (38.0d)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Intrinsic Electric fields. In our previous work20,the vibrational Stark effect spectroscopy experiment demonstrated that the intrinsic electric fields in ILs fallin the range between DMSO and tetrahydrofuran.Here we calculate directly from our simulations the electric fields experienced by molecules in alltheliquids studied in the present paper.It can be seen from Table2 that, in good agreement with the experimental measurement, the intrinsic electric fields in ILs is in the rangebetween DMSOand toluene and about four times weaker than in molten NaCl.This result again supports our conclusion thatthe strength of the electrostatic interaction in ILs is comparable to polar organic solvents,but much weaker than in molten inorganic salts,whose reasoning is as follows. Onone hand,the large volume,asymmetric geometry,and chargedelocalization oforganic ions ffectively weakenthe electrostatic forcein ILs.On the other hand,the charge distributionof polar(neutral) molecules significantly enhances the electrostatic interaction in organic solvents. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cohesive energies.The heat of vaporization, the energy required to transform a system from the liquid to the gas phase,can be calculated by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta _ { \\mathrm { v a p } } H _ { \\mathrm { m } } = \\Delta _ { \\mathrm { v a p } } U _ { \\mathrm { m } } + R T = \\left. U _ { \\mathrm { g a s } } \\right. - \\left. U _ { \\mathrm { l i q } } \\right. + R T\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $R$ is the gas constant, $T$ is the temperature, $\\Delta _ { \\mathrm { v a p } } U _ { \\mathrm { m } }$ represents the cohesive energy, and $U _ { \\mathrm { g a s } }$ and $U _ { \\mathrm { l i q } }$ are the molar internal energies in the gas and liquid phases,respectively.Because almost allions form pairs in the gas phase72, $U _ { \\mathrm { g a s } }$ is replaced by the molar internal energy of an isolated ion pair in molten salts and ILs.Therefore, the cohesive energy in ionic fluids actually measures the energy required to transform a condensed ionic fluid (liquid phase)to isolated ion pairs (gas phase).As shown in Table 3,the calculated heat ofvaporization data agree well with the experimental results. Note that $\\Delta _ { \\mathrm { v a p } } U _ { \\mathrm { m } } \\ne \\Delta _ { \\mathrm { v a p } } U _ { \\mathrm { m } } ^ { \\mathrm { e l e c } } + \\Delta _ { \\mathrm { v a p } } U _ { \\mathrm { m } } ^ { \\mathrm { v d w } } .$ ap Uvdw due to the slight difference coming from the intramolecular interactions.As expected,the cohesive energyand its electrostaticcontribution apparently increase as the liquid changes from more organic to more ionic.The electrostatic part dominates the cohesive energy in molten $\\mathrm { \\Delta N a C l }$ and the VDW part dominates in toluene, but the two parts are comparable in the ILs and DMSO.Despite the omission of the charge-transfer and polarization effects for $\\mathrm { \\big [ B M I M \\big ] } [ \\mathrm { N O } _ { 3 } ]$ ，[BMIM] $\\mathrm { [ P F _ { 6 } ] }$ ,and $[ \\mathrm { B M I M } ] [ \\mathrm { N T f } _ { 2 } ]$ ,our calculated Coulomb interaction contributes $4 6 \\%$ for $\\left[ \\mathrm { B M M } \\right] \\left[ \\mathrm { N T f } _ { 2 } \\right]$ ,in good agreement with the value of $4 1 \\%$ reported by Rebelo et al.73 at $2 9 8 . 1 5 \\mathrm { K }$ Again,the ILs have the electrostatic contribution closer to the polar organic solvents than the molten inorganic salt.This result can be interpreted by a conceptual“ion pair\"view ofILs: withinthe“ionpair”life time,ILscan be regarded as strongly polar“molecular\" liquids composed of temporary neutral“ion pairs\".Ata time scale longer than the ion-pairlife time,“ion pairs” break and ions diffuse to other positions to form new“ion pairs\".This picture may also interpretthe similarities in some static properties and short-time behaviors between ILs and organic solvents.However,this picture is rather sketchy since ions in ILs are usually coordinated with several counterions,rather than bonded with a specific one.Therefore,innextsection,we willbeter interpretthe interactions inILs fromthe“ion cage\"viewpoint, which quantitatively depicts the ionic nature of ILs. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cage energies.Instead offorming ion pairs in the gas phase,ionsin ILs form ion cages in the liquid state (see the schematic inFig.4).Ifwedefine an“ion pair\"in the liquid state as composed ofan ionand its nearest counterion,itis notsurprising thatthision pairhasalarger distancethan in the gas phaseduetothe many-body effect (see Fig.S2 in theSI).Therefore,the previous studies on the binding energy ofan IL ion paircan hardly describe the real ion-ion interactions in the liquid phase. Instead of the gas-phase binding energy, we define a novel liquid-phasecage energy $U _ { \\mathrm { c a g e } }$ as theaveragepotentialenergybetweenanionandacounterioninitsioncageto characterize the local ion-ion interaction in the liquid. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e238c22884258127a6d6fc8ea35a33fd30ea750c117e5ea77832a42edd0624bc.jpg",
+        "table_caption": [
+            "Table 4. Cage energies. Cage energy $U _ { \\mathrm { c a g e } } ,$ its electrostatic part $U _ { \\mathrm { c a g e } } ^ { \\mathrm { e l e c } }$ and VDW part $U _ { \\mathrm { c a g e } } ^ { \\mathrm { v d w } }$ .The VDW interaction was decomposed into the repulsive and atractive parts,respectively,as listedin the parentheses. The Unit is $\\mathrm { k J / m o l }$ ： "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Ucage</td><td>Uclee</td><td>Urd</td></tr><tr><td>NaCl</td><td>-453.7</td><td>-464.5</td><td>10.8 (12.4, −1.6)</td></tr><tr><td>[BMIM][NO3]</td><td>-217.4</td><td>-213.9</td><td>−3.5 (7.9, −11.4)</td></tr><tr><td>[BMIM][BF4]</td><td>-162.8</td><td>-159.3</td><td>-3.5 (7.2,-10.7)</td></tr><tr><td>[BMIM][PF6]</td><td>-238.4</td><td>-233.8</td><td>-4.6 (8.9,-13.5)</td></tr><tr><td>[BMIM] [NTf2]</td><td>-226.4</td><td>-215.6</td><td>-10.8 (13.0,-23.8)</td></tr><tr><td>DMSO</td><td>-7.2</td><td>-3.6</td><td>-3.6 (4.0, -7.6)</td></tr><tr><td>Toluene</td><td>−4.5</td><td>-0.4</td><td>−4.1 (3.1, −7.2)</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The cage energies and their electrostatic and VDW contributions have been calculated from MD trajectories and are summarized in Table 4. The cage energy for $\\mathrm { \\small { [ B M M ] [ B F _ { 4 } ] } }$ is much lower than the ion-pair binding energy in the gas phase due to the loose packing in the condensed phase (see the SI for the details). The cage energy apparently decreases as the liquid changes from more organic to more ionic,mainly atributed to the enhanced electrostatic interaction.In particular,from DMSO to ILs,the electrostatic energy drops from $- 7 . 2$ to around $- 2 0 0 \\mathrm { k J / m o l } .$ ,indicating that ILs have a much more stable cage structure than organic solvents. In contrast,all the ILs have similar atractive VDW energy as in the two organic solvents,but NaClhas a repulsive VDW energy. This is because smallinorganic ions closelycontact witheachotherdue to strong electrostatic atractions,whereas organic ions in ILsare kept fartherby their large volume and asymmetric geometry,as demonstrated in Fig.3. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on the roles of electrostatic and VDW interactions in determining the cage energy for the seven liquids, the dualionic and organic nature in ILs,compared with inorganic salts and polar liquids,can be interpreted as the following: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1） weakly polar liquid (e.g. toluene): the VDW interaction dominates the cage energy;   \n(2） strongly polar liquid (e.g. DMSO): the electrostatic and VDW interactions contribute almost equaly to the cage energy;   \n(3）ionic liquid (e.g.[BMIM] $\\left[ \\mathrm { N O } _ { 3 } \\right]$ ,[BMIM] $\\mathrm { [ B F _ { 4 } ] }$ ,[BMIM] $\\left[ \\mathrm { P F } _ { 6 } \\right]$ [BMIM] $[ \\mathrm { N T f } _ { 2 } ]$ ): the electrostatic interaction dominates the cage energy (ionic nature)and the VDW interaction is attractive and has a similar strength as in organic solvents (organic nature);   \n(4) inorganic molten salt (e.g. NaCl): the electrostatic interaction dominates the cage energy (ionic nature) and the VDW interaction is repulsive (inorganic nature). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mechanism.Organic ions have comparable VDW forces with organic molecules due to similar molecular size,geometry,and component.Their large size and asymmetric geometryas wellas the charge delocalization andcharge transfer efects signifcantly weaken the electrostatic forces in ILs.As aresult,the intermolecular force and vibrational force constant dominated by VDW interactions characterize the organic nature in ILs: the geometry nearthe minimum of the CEL (curvature and slope corresponding to force and force constant,respectively)are similar to polar organic solvents rather than inorganic moltensalts.Onthe other hand,thecage energy, controlled by electrostatic interactions,characterizes the ionic nature in ILs: the depthof the CEL (cage energy) is apparentlydeeper than organicsolvents.This cage mechanism,ilustrated inFig.6,wellexplains thefactthat though ILs show many similarities toorganic solvents,suchas melting temperature,solvationability,andsurface tension,they retain many distinctive properties,for example stability,non-volatility,and transport properties, apart them from organic solvents. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Generally,alarger cage energy (characterizing the liquid structure) corresponds toa higher activation energy (characterizing the liquid dynamics).In our cases,we have found thatthe cage energy has the right trend with the activation energy estimated from experimental diffusion data: [BMIM $\\mathrm { \\Delta ] [ P F _ { 4 } ] > [ B M I M ] [ B F _ { 4 } ] > [ B M I M ] }$ $\\mathrm { [ N T f _ { 2 } ] } > \\mathrm { D M S O } >$ toluene (see the SI for the details). Note that $\\mathrm { \\left[ B M M \\right] \\left[ B F _ { 4 } \\right] }$ has a smaller cage energy than other ILs due to thereduced ionic charges inits model.Molten NaCl has alower cage energy than ILs but a comparable activation energy because of its high simulated temperature as well as its smalland symmetric volume, which significantly smooths its CEL. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Liquid molecules spontaneously form cage structures with a certain local order (e.g.charge order in ILs and translational order in molecular liquids)extending to several cordination shels.The central molecule vibrates near the minimum of the CEL and frequently escapes the cage to diffuse. As shown in Fig.6,the organic nature is reflected bythe slopeand curvatureofthe CEL,whereas the ionic nature is describedbythe depth of the CEL. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Previously, Kirchner et al.2² found that the VDW interaction plays an important role in determining the IL ion-pair energylandscape in the gas phase.Our work demonstrates that even inthe liquid phase,the VDW interactionstillplays an importantrole in determining theslope and curvature ofthe CELofILs,which explains the result reported by Balasubramanian and coworker77 that low-frequency vibrational modes in ILs are dominated by short-range interactions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/15a1a21ba362e2336589a62c7687be17fef9485b1012b56fdf447e50f6750a7c.jpg",
+        "img_caption": [
+            "Figure 6. Cage energy landscape.Schematic ilustration of cage structures and cage energy landscape in inorganic salts,ionic liquids,and organic solvents.The cage energylandscape of inorganic salts is deep and steep,whereas thatof ionic liquids is stilldeep but much more gently. Organicsolvents and ionicliquids have a similar slope and curvature near the minimum of the cage energylandscape,butthe depths for the organic solvents are much lower. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Our proposed microscopic mechanism provides a general way for understanding and predicting the unique propertiesofILs.For example,the high viscosity and the non-volatilityin ILscan beunderstood bytheir deep CEL,andthe similaritybetween the CEL minima ofILsand organic solvents explains the factthat the IL surface tension is in the region for organic solvents rather than strong ionic fluids48.We can further predict more generalyforanyliquids thatthe properties relating to the CEL minimum willshow more organic nature,wherea those corresponding to the CEL depth will display more ionic nature. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work clarifies the blurry dual ionic and molecular nature of ILs and the corresponding microscopic mechanism provides a new insight into their unique properties.Our simulations pave the way for future experimental studies on complex interactions in liquids and our proposed CEL picture are hopeful to be verified by future experiments.The CEL concept proposed in the present paper is expected to advance our knowledge on complex liquids and to help better functionalizationand industrialapplications of various kinds of liquids. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Force field.The force field(FF) parameters for NaCl, DMSO,and toluene were all taken from the AMBER $\\mathrm { F F } ^ { 7 8 }$ ,and the partial charges of DMSO and toluene were adopted from refs50,51,respectively.The parameters of IL [BMIM] $\\mathrm { [ B F _ { 4 } ] }$ were taken from the model developed by Wang et al.79 based on the AMBER force field and all the partial charges were scaled bya factor of 0.807,as suggested by Chaban et al.49,to incorporate the polarizability and charge transfer effcts.For otherILs,the parametes were mainly taken from the AMBERFF(see ref.20 for details).For molten NaCl,although the widelyused Born-Mayer-Huggins potential with the Tosi-Fumi parameters may reproduce experimental results better than the AMBERFF,in order to make adirect comparison, in this work,we stilluse the AMBER FFto model molten NaCland the quantitative differences caused by the AMBER FF will not change our qualitative conclusions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although more accurateFFs (e.g.Polarizable FF)and methods (such as ab initio MDand Car-Parrinello MD) may improve the simulation results quantitatively,they are stilltoo expensive for simulating ILs,for which large system size andlong simulation timeare necessary.Since oursimulation results have demonstrated that the empiricalFFscan wellreproduce the experimental results ofILs,we believe they are good enough to capture the qualitative features we are interested in. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "System setup.Allthe simulated systems contain 512 ion pairs or molecules in acubic box with the periodic boundary condition applied toall three dimensions.A cutoff distance of 12 angstrom was applied to the VDW and the real part ofthe electrostatic interactions,and the particle-mesh Ewald method81 was employed to calculate the electrostatic interactions.Inthe equilibration procedures (simulated annealing and constant NPT simulations)the temperature and pressure were kept constant by using the Berendsen thermostat with atime constant of 0.1 ps and the Berendsen barostat with a time constant of 1ps,respectively. In the production runs (constant NVT simulations)the temperature was kept constantby using the Nosé-Hoover thermostat with atime constant of 0.1 ps.All the simulations were performed by using the GROMACS software&2 with a time step of 1 fs. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Simulation details.The initial configuration ofILs were taken from our previous work20.For organic solvents,random configurations were initially equilibrated in a constant NVTensemble bya simulated annealing procedure with five sequential steps: 200 ps at the temperature $T = 2 0 0 0 \\mathrm { K } ,$ 300 ps at $1 5 0 0 \\mathrm { K }$ ,500ps at $1 0 0 0 \\mathrm { K }$ 1ns at $7 0 0 \\mathrm { K } ,$ and 1ns at $5 0 0 \\mathrm { K }$ For molten $\\mathrm { \\Delta N a C l }$ ,a simulated annealing procedure was performed as: 2oo ps at $2 5 0 0 \\mathrm { K } ,$ （204号 300 ps at $2 0 0 0 \\mathrm { K }$ ,500psat $1 5 0 0 \\mathrm { K }$ ,1nsat $1 2 5 0 \\mathrm { K } ,$ and 1 ns at $1 1 5 0 \\mathrm { K }$ A constant $N P T$ simulation was then carried out at the pressure $P = 1$ atm for 3ns for all the systems to determine the equilibrium simulation box size.With the determined box size,the constant $N V T$ production runs were performed for $1 0 \\mathrm { n s }$ for ILs and 2 ns for other liquids.In these NPTand NVT runs,the temperature was kept constant at $1 1 4 8 . 1 5 \\mathrm { K }$ for $\\mathrm { \\Delta N a C l }$ and $3 0 0 \\mathrm { K }$ for other systems.For alliquids, totally 20o0 configurations were evenly sampled during the production runs. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Quantum chemical calculation.The geometry optimizations were performed with the Gausian 03 software8³ at the $\\mathrm { H F } / 6 { - } 3 1 \\mathrm { G } ^ { { \\ast } { \\ast } }$ level. The interionic interaction energy between an isolated gas-phase [BMIM] $\\mathrm { [ B F _ { 4 } ] }$ （204 ion pair was calculated at the $\\mathrm { M P } 2 / 6 { \\cdot } 3 1 \\mathrm { G } ^ { { \\ast } { \\ast } }$ level. The basis-set superposition error (BSSE) was corrected by using the counterpoise method. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Calculation of intermolecular force.The force and its electrostatic and VDW parts experienced by each atom were sampled from MD simulations.The intermolecular forces were obtained by summing over all atomic forces experienced by each molecule. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Calculation of intrinsic electric field.Ina detailed simulation work&4,the electricfield experienced by a probe molecule was sampled to simulate the real vibrational Stark efect spectroscopy experiment71. In this work, in order todescribe the intermolecular electrostatic interactions inliquids,no probe molecule was addedand the average electric field experienced by each molecule was directly calculated by ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\frac { 1 } { N \\times M } \\underset { i } { \\sum } \\underset { j } { \\sum } \\underset { k } { \\sum } \\frac { f _ { i j k } } { q _ { j k } }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $f$ is the electrostatic force experienced by each atom, $q$ is the atomic charge of each atom, $L$ is the number of atoms in each molecule, $M$ and $N$ are the number of ions in the system and the number of sampled configurations, respectively. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Calculation of cage energy.The cage energy, defined as the average potential energy between a molecular pair in the cage,was calculated by using the following equation, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { \\mathrm { c a g e } } = \\left. \\sum _ { i , j } \\left\\{ 4 \\varepsilon _ { i j } \\left[ \\left( \\frac { \\sigma _ { i j } } { r _ { i j } } \\right) ^ { 1 2 } - \\left( \\frac { \\sigma _ { i j } } { r _ { i j } } \\right) ^ { 6 } \\right] + \\frac { q _ { i } q _ { j } } { 4 \\pi \\varepsilon _ { 0 } r _ { i j } } \\right\\} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $r _ { i j }$ is the distance between atoms $i$ and ${ j , q }$ is the atomic partial charge $\\varepsilon _ { 0 }$ is the vacuum permittivity, and $\\mathcal { E } _ { i j }$ and $\\sigma _ { i j }$ are the VDW parameters. $i , j$ run over all atoms in a molecular pair, respectively, and $\\langle \\cdot \\cdot \\cdot \\rangle$ denotes the ensemble average. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.Rogers,R.& Seddon,K.Ionic liquids -Solvents of the future? Science 302,792-793 (2003).   \n2.Gaune-Escard,M.&Haarberg,G.M.Molten SaltsChemistry and Technology.JohnWiley& Sons,Ltd(2014). 3.Wilkes,J.S.A short history ofionic liquids-from molten salts to neoteric solvents.Green Chem4,73-80 (2002).   \n4.Wilkes,J.S.&Zaworotko,M.J.Airandwaterstable1-ethyl-3-methylimidazolumbasedionicliquids.JChemSoc,ChemCommun, 965-967 (1992).   \n5.Plechkova,N.V.&Seddon,K.R.Aplications ofionicliqudsinthechemicalindustry.ChemSocRev37,123-150(008). 6.Hapiot,P.&Lagrost,C.ElectrochemicalReactivityinRoom-Temperature IonicLiquids.ChemRev08,2238-264(2008).   \n7.Welton,T.Room-Temperature Ionic Liquids.Solvents for Synthesis and Catalysis.Chem Rev99,2071-2084(999).   \n8.Parvulescu, V.I.& Hardacre,C.Catalysis in ionic liquids.Chem Rev 107,2615-2665(2007).   \n9.Armand,M.Endres,F,acFarlane,D.ROhno,H.&rosati,nic-lquidmaterialsfortheelectrochemicalhalgsfte future.NatMater8,621-629(2009).   \n10.Somers,A.,Howlet,P.,MacFarlane,D.&Forsyth,M.AReviewofIonic LiquidLubricants.Lubricants1,3-21(2013).   \n11.Torimoto,T.Tuda,T.,Okazaki,K.&Kuwabata,S.NewFrontiersinMaterialsScienceOpenedbyInicLiquids.Advter2, 1196-1221 (2010).   \n12.van Rantwijk,F.& Sheldon,R.A.Biocatalysis in Ionic Liquids.Chem Rev 107,2757-2785 (2007).   \n13.Weingartner,H.UnderstandingInicLiqudsattheolecularLevel:Facts,ProblemsdControversies.AngeChemItEd47, 654-670 (2008).   \n14.Chandler,D.,Weeks,JD.&Andersen,H.C.VanderWalsPictureofLiquids,olids,andPhaseTransformations.Science, 787-794 (1983).   \n15.Freire,M.CaoPJeands.,archo,QueimadaAJ.&ouinoJA.urfcetesosodl based ionic liquids: Anion,cation,temperatureand water effect.JColloid Interface Sci 314,621-63o (2007).   \n16.MacFarlae,Dgle,J,owle,C&Forthncldsdreaciotctrocalitefce. Chem Phys12,1659-1669 (2010).   \n17.Tokuda,H.,Tsuzuki,S.,Susan,MABH,Hayamizu,K.&Watanabe,M.HowIonic AreRoom-Temperature IonicLiquids?An Indicator of the Physicochemical Properties.JPhys Chem B110,19593-19600 (2006).   \n18.Fumino,K.,Wulf,A.&Ludwig,R.TheCation-AnionInteractioninIonicLiquidsProbedbyFar-InfraredSpectroscopyAngew Chem Int Ed47,3830-3834 (2008).   \n19.Shirota,H.&Castner,E.W.PhysicalPropertiesandIntermolecularDynamicsofanIonicLiquidComparedwith Itsoelectronic Neutral Binary Solution.JPhys Chem A109,9388-9392 (2005).   \n20.Zhang,S.,etal.IntrinsicElectricFieldsionicLiquidsDeterminedyVibrationalStarkEfectSpectroscopyandMolecular Dynamics Simulation.Chem-EurJ18,11904-11908 (2012).   \n21.Tsuzuki,S.okuda,H,Hayamiu,K.&Watanabe,M.MagitudeandirectionalityofInteractioninIoPairsfnicLiqids: Relationship with Ionic Conductivity.JPhys Chem B 109,16474-16481 (2005).   \n22.Zahn,S.,UligFar,Jpickermann,C.&Kirchner,BtermolecularForcesinanoicLiquid(Mmi][Cl)esusoe a Typical Salt (NaCl).Angew Chem Int Ed 47,3639-3641 (2008).   \n23.Anapureddy,H.V.R.,Kashyap,H.K.,DeBiase,PM.&Margulis,C.JWhatistheOriginofthePrepeakintheX-raScattringof Imidazolium-Based Room-Temperature Ionic Liquids?JPhys Chem B114,16838-16846 (2010).   \n24.Bhargava,.Levn,Klein,.L.&sbaan,nosaleiitpeaturics grained molecular dynamics simulation study.Soft Matter 3,1395-140o (2007).   \n25.CanongiaLopes,J.N.A.&Padua,A.A.H.NanostructuralOrganzatioinIonicLiquids.JPhys ChemB110,33o-335(006).   \n26.Olga,R,etal.Morphologyandintermoleculardnamicsof-alkyl--methydazoliumis{(trifuoromethane)sulfonlaide ionic iquids: structuralanddynamic evidenceof nanoscalesegregation.JPhys: Condens Matter21,424121 (2009).   \n29.M.,Gordon C,D.,HolbreyJ,R.,KennedyA&R.,SeddonK.Ionic liquidcrystals:hexafluorophosphatesalts.JMaterChem8, 2627-2636 (1998).   \n30.Binnemans,K.Ionic Liquid Crystals.Chem Rev 105,4148-4204 (2005).   \n31.Ji,Y,Si,n,&iell,ectoftinngthruureicquds:froSatialeterogeityoc Liquid Crystals.JPhys Chem B117,1104-1109 (2013).   \n32.Lee,C.K,ang,H.W.&in,LJmleamiilicidcrtalie-aydazlmals.Aewolventsteoing apartially ordered environment. Chem Commun,1911-1912 (2000).   \n33.Yamada,M,Tago,M.,ukusako,S.&Horibe,A.Meltingpointandsupecolingharacteristicsofoltensalt.ermohmct 218,401-411 (1993).   \n34.Janz,G.J.MoltenaltsataasReference StandardsforDensityurfaceTension,ViscosityndElectricalCoductance: ${ \\mathrm { K N O } } _ { 3 }$ and NaCl.JPhys Chem Ref Data9,791-830 (1980).   \n35.Bockris,J.O.M.&Hooper,G.W.Self-diffusion inmoltenalkali halides.Discus FaradaySoc3,218-236 (1961).   \n36.Strechan,A.A,etal.ermoheicalpropertiesofbutyl--ethlidaztrate.ermohmcta47,(08).   \n37.Mokhtarani,B.Sharifi,A.,Mortaheb,H.R.,Mirzaei,M.,Mafi,M.&Sadeghian,FDensityandviscosityof-buty-- methylimidazolumtratewithhanol,-propanol,or-butanolatseveraltemperaturs.JChemermodyn4,4148 (2009).   \n38.Nishida,Tsho,Y.&maot.sicadeectrocialpropertisof-alkyl-ethdolabate for electrolyte.JFluorine Chem 120,135-141 (2003).   \n39.Suarez,lofJLood based on 1-n-butyl-3-methylimidazolium cation.JChim Phys 95,1626-i639 (1998).   \n40.Law, G.&Watson,P.R.Surface Tension Measur ents of N-Alkylimidazolium Ionic Liquids.Langmuir 17,6l38-6l41(2001).   \n41.Tokuda,H.,Hayamizu,K,shi,K,usan,.A.B.H.&Watanabe,.ysicochemical,PropertiesandStructuresofom Temperature Ionic Liquids.1.Variation of Anionic Species.JPhys Chem B108,16593-16600 (2004).   \n42.Carvalho,P.J,Freire,M.G.,Marrucho,I.M.&Queimada,A.J,CoutinhoJAP.Surface Tensions for the1-Alkyl-3- methylimidazolium Bis(trifluoromethylsulfonyl)imide Ionic Liquids.JChem Eng Data 53,1346-1350 (2008).   \n43.Smallwood,I.M.Handbook of Organic SolventProperties.Halsted Press(1996)   \n44.Shirota,Hujisawa,T,ukzaa,H.&Nikawa,K.UtrafastDyamicsinAprotcolecularLiquds:AFemtosecodRa Induced Kerr Effect Spectroscopic Study.Bull Chem Soc Jpn 82,1347-1366 (2009).   \n45.Holz,.eil,..&uetesiotsftedieollasfor calibration in accurate 1HNMR PFG measurements.Phys Chem Chem Phys2,4740-4742 (2000).   \n46.Altshuller,A.PTeDielectricConstants,PolarizationsandDipoleMomentsofSomeAlkybenzenes.JPysChem58,92-395 (1954)   \n47.OReilly,D&eo,E.MSelf-iCientsotaioalCorretiarqs.Tu Phys 56,2262-2266 (1972).   \n48.Wess,V.C.&Heggen,B,ull-lateFCiticalPrametersandurfacensionofteRooTmpeaturenicLqudbi $\\mathrm { [ P F _ { 6 } ] }$ : A Corresponding-States Analysis ofExperimentaland New SimulationData.JPhys Chem C114,3599-3608 (2010).   \n49.Chaban,VVroshoKgiO.Aewcefelddelfoeulaiootrasprtproptieso based ionic liquids.Phys Chem Chem Phys13,7910-7920 (2011).   \n50.Fox,T.&Klman,P.A.AplicationoftheRESPMethodologyintheParametrizationofOrganic Solvents.JPysChem B102, 8070-8079 (1998).   \n51.Chipot, C.,Jafe,R.,Maigret,B.,Pearlman,D.A.&Kollman,P.A.Benzene Dimer:A Good Model for $\\pi - \\pi$ Interactions in Proteins? A Comparison between the Benzene andthe Toluene Dimers in the Gas Phaseandinan Aqueous Solution.JAm Chem Soc 118, 11217-11224 (1996).   \n52.HoociOaberE,Welton&KrceBOntheiginofoityicqid.opiingversusargetrass Chem Chem Phys 16,16880-16890 (2014)   \n53.Shi,R.& Wang,Y.Ion-CageInterpretationfor theStructuralandDynamicChangesofIonicLiquidsunderanExterallectric Field.J PhysChem B117,5102-5112 (2013).   \n54.Morrow,T.I.&Maginn,E.JMolecularDynamicsStudyoftheIonicLiquid1-n-Butyl-3-methylimidazolumHexafluoroposphate. JPhys Chem B106,12807-12813 (2002).   \n55.Kohagen,,re,arJ.&ZaWlate,ceroeQatcalld and Persistenceof Ion Cages in Ionic Liquids.A MolecularDynamics Simulations Studyof1-n-Butyl-3-methylimidazolium Bromide.J Phys ChemB115,693-702 (2010)   \n56.Hu,Z.&argulis,C.JHeterogeneityinoo-tmperatureoicliquid:ersistentlocalevironmentsndthereddgeffec Proc Natl Acad Sci USA 103,831-836(2006)   \n57.Karii-Varaneh,H.A,uler-lathe,F,alasubramania,S.&Carbone,PStudnglong-tidamisfidazlbased ionic liquids with a systematically coars -grained model.Phys Chem Chem Phys12,4714-4724 (2010).   \n58.Huang,X.,Marguis,C.J,Li,Y.&Berne,B.J.WhyIsthePartialMolarVoleof $\\mathrm { C O } _ { 2 }$ So Small When Dissolved ina Room Temperature Ionic Liquid? Structure and Dynamics of $\\mathrm { C O } _ { 2 }$ Dissolved in $\\left[ \\mathrm { B m i m ^ { + } } \\right]$ （204号 $[ \\mathrm { P F } _ { 6 } { } ^ { - } ]$ .JAm Chem Soc 127,17842-17851 (2005).   \n59.DelP6polo,M.G.&Voth,G.A.Onthe StructureandDynamicsofIonic Liquids.JPhys ChemB108,1744-1752(2004).   \n60.Zahn,S.,Thar,J.& Kirchner,B.Structure and dynamics ofthe protic ionicliquid monomethylammoniumnitrate $\\mathrm { ( [ C H _ { 3 } N H _ { 3 } ] [ N O _ { 3 } ] } ;$ 0 from ab initio molecular dynamics simulations.JChem Phys 132,124506 (2010).   \n61.Zhang,Y.&Maginn,E.JDirectCorrelationbetweenIonicLiquidTransportPropertiesandIonPairLifetimes:AMolecular Dynamics Study.JPhys Chem Lett 6,700-705 (2015).   \n62.Polissr,M.J.AKinetic Approach totheTheoryofConductanceof InfinitelyDilute Solutions,Basedonthe\"Cage”Modelof Liquids.JChemPhys6,833-844(1938)   \n63.Rabani,E,ezelter,JD.&Berne,.JCalclatingtheoppingrateforef-difusiononroughpotentialenergysurfacs:Cage correlations.JChemPhys107,6867-6876(1997).   \n64.Turton,DtalRatighcgecesoicucreindsslesocadseol Liq 159,2-8 (2011)   \n65.Lynden-Bel,R.M,utchnson,D.J.C.&Doyle,.JTanslatioalmolecularmotioandcages inomputermolecularuids. Mol Phys 58,307-315 (1986).   \n66.Lynden-Bell,R.M.&Stele,W.A.Amodelforstrongly inderedmolecularreorientationinliquids.Jys Chem8,614618 (1984).   \n67.Fujisawa,T,Nisikawa,K.&ota,H.Comparisonofinterinic/intermolecularvibrationaldamicsetweenioicquidsnd concentrated electrolyte solutions.J Chem Phys 131,244519 (2009).   \n68.Lu,R.,Wang,W.&Yu,A.Cationandanonsbstitutionefetsontheultrafastdyamicsofterioicinteractioiniidaolium based ionic liquids.Sci China-Chem 54,1491-1497 (2011).   \n69.Shirota,H. Ultrafast molecular dynamics ofliquid aromatic molecules and the mixtures with $\\mathrm { C C l } _ { 4 } .$ JChem Phys 122,044514 (2005).   \n70.Wiewir,P,ota,H.&Caster,E.WAqueousdmethysulfoxideolutios:Inter-ndintra-moleculardamics.JCmPs 116,4643-4654 (2002).   \n71.Fafarman,A.,igala,P.A,Hersclag,D.&BoxerS.G.DecompositionofVbrationalShiftsofitrilesintElectrostatic Hydrogen-Bonding Effects.JAm Chem Soc 132,12811-12813 (2010).   \n72.Chaban,V.V.&Prezhdo,O.V.Ionic Vapor:What DoesIt Consist Of?JPhys Chem Let3,1657-1662 (2012).   \n73.SantosLMNBF,etal.IonicLiquds:FirstDirectDeterminationoftheirCohesiveEnergy.JAmChemSoc129,284-285(007).   \n74.Mayer,J.E.&Wintner,I.H.MeasurementsofLow VaporPressuresof AlkaliHalides.JChem Phys6,30l-306(1938).   \n75.Zaitsau,D.H,etalExperimntal VaporPressuresof-Alkyl--metylimidazolumBis(trifuorometylsulfonyl)imidesad Correlation SchemeforEstimationof Vaporization Enthalpiesof IonicLiquids.JPhys ChemA110,7303-7306 (2006).   \n76.Osborne,N.S.&Ginnings,D.C.MeasurementsofHeatofVaporizationandHeatCapacityofNumberofHydrocarbons.JRes Natl Bur Stand 39,453-477 (1947).   \n77.Sarangi,S.S.,Reddy,.K.&Balasubramanian,S.LowFrequencyVibrational ModesofRoomTemperatureIonicLiquids.JPhs Chem B115,1874-1880 (2011).   \n78.Cornell,WD,tal.AScondGenerationForceFeldforthemulationofProteins,NucleicAcids,andOrganicMolecules.Am Chem Soc 117,5179-5197 (1995).   \n79.Liu,Z,Huang,S.&Wang W.ARefinedForceFieldforMolecularSimulationofImidazolium-BasedIonicLiquids.JPhys ChemB 108,12978-12989 (2004).   \n80.Tosi,M.P.&FumiFG.IoncizesandbornrepulsiveparametersinteNaCl-typealkalihalidesI:Tegeneralized HuinsMayer form.J Phys Chem Solids 25,45-52 (1964).   \n81.Darden,T.,York,D.&Pedersen,L.Particle mesh Ewald: AnNlog(N)methodforEwaldsumsinlarge systems.JChemPhys98, 10089-10092 (1993).   \n82.VanDerSpoel,D,ndahl,E,Hs,,roenhof,G.ark,A.E.&Berendsen,H.J.C.GROACS:Fastflexibledre. Comput Chem 26,1701-1718 (2005).   \n83.Frisch,M.J.,et al.Gaussian O3,Revision C.02.Gaussian,Inc.(2004).   \n84.Fried,S.DWangL-oxerSGenP&ande,V..CalculatiosfeElectricFeldsinqudolutis.JsCm 16236-16248 (2013). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The authors thank Prof. Xueyu Song and Prof. Qiang Shi for their helpful discussons.This work was supported by the National Basic Research Programof China (973 program,No.2013CB932804) and the National Natural Science Foundation of China (Nos.11274319 and 11421063).The authors thank SCCAS and ITP-CAS for allocations of computer time. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "R.S.and Y.W.conceived the research,R.S.performed simulations and analysis,R.S.and Y.W.discussed and wrote the manuscript. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Additional Information ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information accompanies this paper at http://www.nature.com/srep ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Howto cite thisarticle: Shi,R.and Wang,Y.Dual Ionicand Organic Nature ofIonic Liquids.Sci. Rep.6,19644;   \ndoi: 10.1038/srep19644 (2016). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line;if the material is notincluded under the Creative Commons icense, users will need to obtain permission from the license holder to reproduce the material.To view a copy of this license,visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 11
+    }
+]

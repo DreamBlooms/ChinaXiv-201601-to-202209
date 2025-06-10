@@ -1,0 +1,695 @@
+[
+    {
+        "type": "text",
+        "text": "语音象征的产生机制：基于敏感期的先天后天作用模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马亚男，黄艳利，石宇婧，谢久书（南京师范大学心理学院，南京210097）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要Bouba-Kiki效应（简称BK效应）指语音和形状特征之间的映射关系。针对 BK效应的产生机制，先天论和后天论之间争论激烈。先天论的观点认为人们对语音象征的敏感性是出生时便存在的一种语言机制。而后天论的观点则强调语音象征是语言经验的产物。上述理论均获得大量研究证据的支持，且均无法完全否定对方。这表明，上述理论可能均未完整揭示语音象征的产生机制。鉴于此，针对BK效应的产生机制，梳理先天论与后天论的支持证据，并率先提出语言相关的BK效应敏感期假设。同时，梳理了支持 BK效应敏感期的初步研究证据及可能的影响因素。进而，以语言相关的BK效应敏感期假设为基础，提出语音象征产生的先天后天相互作用模型，以整合以往研究中的矛盾。最后，展望了语音象征的未来研究进展和方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词语音象征，Bouba-Kiki效应，敏感期，语言任意性，跨模态一致性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "语音象征（Sound Symbolism）指语音与其指称物感知属性（如大小，形状等）之间的非任意性的映射(Dingemanse et al.,2015)。对语音象征的研究最早可追溯至柏拉图《对话录》中语言规约论与自然论的争论(Sedley,2003)。二十世纪初，Saussure (1959)提出语言任意观，强调语音和语义的关系是任意的。然而，近期研究发现，全球三分之二语言中的语音和语义间存在特定的映射关系(Blasi etal.,2016)。这种映射关系的表现形式多样，包括音高和频率的映射，语音和形状的映射，语音和尺寸的映射等。因此，探究语音象征的认知机制对于理解语言的起源和发展具有重要的理论价值，也对理解语用构建和提升语用能力等具有实践意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "语音象征最典型的代表是由心理学家Kohler(1947)发现的Maluma/Takete效应。实验中，被试观看尖刺和圆润的新颖形状（见图1），同时听到两个非词的语音“Takete”和“Maluma”。被试需要分别回答哪个单词与哪个形状更匹配。结果发现，大部分被试倾向于将“Takete”与尖刺的形状相匹配，将“Maluma”与圆润的形状相匹配。之后，Ramachandran 和 Hubbard (2001)用“Bouba”和“Kiki”语音重复出了Kohler 的结果，并正式将该效应命名为“Bouba-Kiki效应”（简称BK效应）。由于BK效应重点关注语音与语义的非任意性联结，这种非任意性联结能够为语音象征的存在和语言的非任意性理论提供强有力的证据。而且，诸多研究表明，BK效应能够促进儿童的词汇学习与记忆，这为开发新颖的语言教学和学习方法提供了新路径(Imai et al.,2015; Sonier et al.,2020)。因此，自1947年Kohler发现该效应至今，BK效应引起了学界和社会广泛的关注。大量的研究不仅在婴幼儿和成人被试中均发现了该效应，而且在不同的语言和文化中也证实了该效应的存在(D'Anselmo et al.,2019; Fort et al.,2018)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "X ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着心理语言学、认知语言学和神经语言学的发展，语音象征已然成为语言研究领域的热点。语音象征不仅能够促进婴幼儿早期的语言理解和单词学习(Imai et al.,2015;Kantartzis et al.,2019;Nielsen &Dingemanse,2020)，也能够促进人们的联想记忆，特别是单词记忆(Preziosi&Coane,2017; Sonier etal.,2020)。此外，语音象征现在还被广泛应用于商业品牌的形象和产品设计(Pathak&Calvert,202O;Park etal.,2021)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，语音象征的产生机制仍不清楚，这严重阻碍了语音象征在多个领域的应用。针对这一问题，语音象征产生的先天论和后天论持有截然不同的观点，且均获得了大量研究证据的支持。先天论的观点认为人们对语音象征的敏感性是出生时便存在的一种语言机制，源于大脑的内在属性(Ramachandran& Hubbard,2001; Spector & Maurer,2013; Yang etal.,2019)。后天论的观点则强调语言经验在语音象征中的作用，并认为语音象征是在语言学习过程中逐渐发展而来的(Lewkowicz& Ghazanfar,2009;Pejovic& Molnar,2017)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鉴于此，本文首先对语音象征的先天论和后天论证据进行梳理，并在此基础上率先提出语言相关的BK效应敏感期假设。然后，本文梳理了支持BK 效应敏感期的初步研究发现，并探讨了可能影响BK效应的相关因素。进而，本文基于语言相关的BK效应敏感期假设，提出语音象征的“先天-后天相互作用模型”。最后，本文对语音象征敏感期的未来研究方向进行了展望。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2语音象征先天论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大量研究证据表明，人们对语音象征的敏感性是出生时便存在的一种语言机制(Ramachandran& Hubbard,2001; Yang et al.,2019)。支持 BK 效应先天论的研究证据主要源于婴幼儿的 BK 效应和动物的跨模态一致性（Crossmodal Correspondence）现象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1婴幼儿的BK效应",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果BK效应是先天的，那么该效应在婴幼儿尚未掌握语言前就应该存在。为验证该假设，研究者对婴儿的研究发现，4个月的婴儿就表现出与成人和幼儿相同的语音与形状映射。具体而言，在观察任务中，婴儿观看不一致的语音-形状映射比一致的时间更长(Ozturk et al., 2013)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究者采用近红外光学成像技术（FunctionalNear-Infrared Spectroscopy,fNIRS）和事件相关电位技术（Event-RelatedPotentials,ERPs）也发现婴幼儿存在BK效应。Asano等人(2015)采用ERPs技术探究11个月的婴儿在语音象征任务中的表现。结果发现，在刺激出现300毫秒内，语音和形状匹配条件下γ波的能量显著增加。这表明，11个月的婴儿已经表现出BK效应。此外，Yang等人(2019)采用近红外光学成像技术的研究发现，当语音与形状匹配时，11个月婴儿右后颞上沟（Right Posterior Superior Temporal Sulcus,rSTS）的血流量显著增加，并且这种变化仅出现于“Moma”语音和圆润的图形共现的条件下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述结果表明，婴儿在掌握语言前就表现出语音象征的敏感性。但是，部分研究者认为，上述研究并未排除语音和形状统计共现的影响。婴儿可能受“Moma”之类的语音和圆润图形共现的影响，进而通过联结学习将这种联系内化(Sidhu&Pexman,2018)。为排除统计共现的干扰，研究者开展了动物实验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2动物的跨模态一致性现象",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "跨模态一致性指不同感觉通道中的刺激特征或属性所形成的联结(Parise,2016)。动物的跨模态一致性现象是语音象征先天论的重要证据。Ludwig等人(2011)请成人被试和黑猩猩对黑白方块进行分类，并同时听到高、低两种频率的声音。结果发现，人类和黑猩猩均在颜色和声音匹配一致时（即“白色-高音”或“黑色-低音\"）表现最好。该结果表明，黑猩猩具有语音象征现象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究者也探讨了动物和人类语音象征现象的相似性。Rendall和Owren (2010)指出人们在动物的交流系统中也观察到了一致的情感与语义的联系，这一联系可能为构建复杂的人类语义系统提供了基础。例如，动物在敌对和高唤醒的状态下会发出尖锐的声音，在积极和低唤醒的状态下会发出柔和的声音(Owren&Rendall,2001)。该现象与婴儿遇到危险和获得满足时发出刺耳和平滑的语音类似。研究者认为，该现象在发育过程中也逐渐演化至响音（Sonorant）和爆破音（Stop），从而表现为Maluma/Takete 效应，即响音与圆润形状、爆破音与尖锐形状间的关联。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，人类和动物拥有类似的跨模态一致性现象。这表明，语言象征性可能是先天的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3语音象征后天论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "尽管众多研究支持BK效应是先天的，但是也有大量反对的研究。Fort等人(2013)研究发现，5\\~6个月的婴儿并没有表现出对语音象征的敏感性。因此，支持后天论的研究者认为BK效应的产生依赖于后天的语言经验和视听经验。后天论的证据主要源于以下几个方面。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1动物的BK效应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "部分研究者未发现动物的BK效应。Margiotoudi等人(2019)采用经典的“TaketeMaluma”范式探讨了人类和大猩猩是否均存在BK效应。研究结果并未在大猩猩上发现BK 效应。因此，研究者认为语言系统可能是语音象征的前提。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2视觉经验对BK效应的作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另一部分研究者强调视觉经验在BK效应中的作用。研究者测试了先天盲和后天视力受损被试在听觉和触觉通道上的BK效应。结果发现，先天盲和后天视力受损的被试均表现出了较弱的 BK效应(Fryer et al.,2014)。Sourav 等人(2019)对后天视力受损被试的研究也发现了类似的现象。上述结果表明，语音和形状间的关联需特定视觉经验的支持，如嘴唇形状等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究者还从视觉属性的角度探究了BK效应，并发现视觉特征对BK效应具有关键作用。Chow 和Ciaramitaro (2019)发现，6至8岁的儿童根据视觉图形中尖刺突出的数量而不是尖锐程度形成 BK效应，而成年人则根据轮廓的尖锐程度形成BK 效应。Cuskley 等人(2017)探究正字法在BK 效应中的作用。结果表明，弯曲的字母更容易与圆润的形状匹配。以上研究表明，BK效应可能取决于人们对听觉和视觉特征的定向提取。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3语言经验对BK效应的作用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不少研究也发现BK效应受语言经验的影响。例如，与被试母语语音特性和结构不符的非词并不会形成BK 效应。实验中，Rogers 和Ross(1975)采用非词“Takete\"和“Maluma”作为听觉刺激。非词中包含巴布亚新几内亚成人被试母语中没有的两个语音，即/th/和/l/。研究结果并未发现新几内亚成人被试的BK 效应。另外，Styles 和Gawne(2017)采用“Bubu”和“Kiki”作为听觉刺激进行实验。听觉刺激同样包括尼泊尔被试母语中没有的语音组合，即/k/和/u/。研究结果同样未发现 BK 效应。因此，Styles 和Gawne假设，非词的语音规则合理性是BK效应产生的前提。为验证该假设，Delgado 等人(2020)系统探究了非词的语音结构合理性在BK效应中的作用。结果发现，违反成人被试母语语音结构的非词语音破坏了BK效应。上述研究结果表明BK效应受语言经验调节。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4语言发展的敏感期",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为更好地理解BK 效应的产生机制，本文借鉴了语言敏感期的相关研究，以期在语言敏感期视域下整合先天论和后天论之争。敏感期（SensitivityPeriod）指大脑对特定环境经验进行神经生物学编码时的发育窗口。在敏感期内，大脑的可塑性增强，以应对可能导致大脑结构和功能发生变化的外部经验(Gabard-Durnam&McLaughlin,2020)。敏感期与关键期不同。来自环境的经验会使关键期内的大脑功能和结构发生不可逆转的变化，一旦错过则此类变化不再发生。而敏感期影响的是大脑可塑性的强度。敏感期之后，大脑仍具部分可塑性，只是程度较弱(Gabard-Durmam&McLaughlin,2020)。支持语言发展敏感期的实验证据主要来自环境剥夺范式(Hensch,2018)。例如，研究者系统探讨了后天盲人、先天盲人和视觉遮蔽的健康被试在语言加工上的差异，以探究先天盲是否影响语言的神经可塑性。结果发现，在理解语言时，先天盲人额颞叶的左偏侧化现象减少。这表明，视觉对语言发展的影响遵循敏感期假设(Pant et al.,2020)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "语言学习能力的变化通常被视为人类发展敏感期的经典证据(Kuhl,2010;Mayberry &Kluender,2018)。在语言敏感期内，大脑对语言经验的神经可塑性增强，人类拥有较强的语言学习能力。错过语言敏感期后，大脑的神经可塑性降低，人类的语言学习能力锐减",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(Werker&Hensch,2015)。由于语音象征也属于语言加工，语音象征的学习可能也存在敏感期。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5语言相关的BK效应敏感期假设",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1语言相关的BK效应敏感期假设的初步证据 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文根据语言敏感期的相关研究，率先提出了语言相关的BK效应敏感期假设。该假设认为，BK效应的产生存在着和语言类似的敏感期，在敏感期内，个体较易形成语音象征；在敏感期外，个体形成语音象征的效率显著降低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "部分研究为BK效应敏感期提供了初步的证据支持。例如，当控制听力受损和听力正常被试的语言水平后，听力受损的成人被试仍表现出了较少的BK效应。另外，该研究还发现，听力受损被试的BK效应大小与儿童期的听觉剥夺时长有关。具体而言，相比于 23个月后使用助听器的儿童，23个月前使用助听器的儿童在BK效应任务上表现的更好。这表明，儿童存在形成声音和形状联结的敏感期。如果儿童在敏感期内出现听觉障碍，即使之后进行多年听力适应训练，听觉障碍仍会阻碍BK效应的发展(Gold& Segal,2020)。然而，该研究并没有排除听觉能力受损而导致BK 效应减弱的可能性。因此，BK效应敏感期也可能与语音敏感期（出现时间约为12个月）有关。针对视觉受损人群的研究也得到了类似的结果。研究发现，视觉受损被试比正常视力被试表现出更弱的 BK效应(Fryer et al,2014;Graven&Desebrock,2018)。上述结果表明，BK 效应可能存在敏感期，并且早期视觉经验和听觉经验的剥夺会降低人们对BK效应的敏感性(Bottini etal.,2019;Hamilton-Fletcher et al., 2018; Sourav et al., 2019)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对视觉受损被试的研究发现，BK效应的敏感期大约为12岁左右。研究发现，晚期永久性失明的成人患者和健康视力对照组均表现出较强的BK效应，而先天性失明的成人患者和发展性白内障患者（平均发病年龄约13岁，12岁前皆经历视力退化）则没有表现出BK效应。更重要的是，该研究还发现12岁之前视力下降且患有发展性白内障的被试均未表现出BK效应，而12岁之前具有完好视力的晚期永久性失明被试表现出了BK效应。另外，先天性双侧白内障导致短暂先天性失明的成人被试（手术治愈的平均年龄为58个月）即便经过后期的学习也未能获得BK效应。这表明，12岁之前的视觉经验对BK效应至关重要。该结果暗示，人类一旦错过BK效应的敏感期，即使广泛暴露于视听共现的环境中，也较难获得BK效应(Sourav etal.,2019)。值得注意的是，12岁前的视觉剥夺同时也影响了视觉敏感期（出现时间约为10岁）内的正常视觉输入进而导致BK效应的减弱。因此，BK效应的敏感",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "期也可能受到视觉敏感期的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究表明，语音象征可能存在敏感期。敏感期内的视觉和听觉输入对于BK效应发展必不可少。敏感期后视觉和听觉经验的缺失对BK效应的影响较小。然而，以往研究均采用环境剥夺等范式探究BK效应敏感期。因此，不能排除在语音敏感期和视觉敏感期内，视听输入受损对BK效应的影响，即以往研究尚未明确BK效应敏感期是否独立于语音敏感期和视觉敏感期。综上所述，未来还需探讨语音敏感期、视觉敏感期和BK效应敏感期之间的关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2语音象征敏感期的影响因素",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "BK 效应敏感期可能影响了BK效应的产生。而敏感期本身也可能受到其他因素的影响，特别是与语言相关的因素。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2.1语言经验积累",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "BK 效应的产生受语言经验的影响。一方面，早期的语言学习能够增强婴幼儿对BK 效应的敏感性。例如，Pejovic 和Molnar (2017)评估了4和12个月巴斯克单语婴儿和西班牙-巴斯克语双语婴儿对没有音节重复的非词语音（即“Buba”和“Kike\"）与圆润或尖刺形状间的BK效应。结果发现，无论是单语者还是双语者，经过12个月的语言学习，他们对BK 效应的敏感性均获得提高。这表明，早期阶段的语言经验积累对BK效应的发展至关重要。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "另一方面，随着年龄的增长和语言经验的丰富，成人语音象征的敏感性却逐渐减弱。以往研究发现，婴幼儿对世界上任何语言中的语音象征都敏感。但是，随着年龄的增长人们逐渐只对母语中的语音象征关系敏感(Imai&Kita,2014)。研究者邀请母语为英语以及希腊语的成人和两岁儿童被试参加实验，并向被试呈现通用的和英语特定的语音象征刺激请被试判断。结果发现，儿童对所有刺激的判断相似，而希腊语母语的成人在判断英语特定的语音象征刺激时表现较差。这表明，儿童对所有的语音象征关系都敏感，但成人丧失了与母语无关语音的象征敏感性(Katerina& Kantartzis,2011)。在音调与形状的映射研究中也有类似的发现。例如，研究以不同语言背景的成年被试为研究对象，采用bouba/kiki任务范式，探究音调与形状的映射关系。结果发现，以汉语为母语的被试关注音调变化，将音调平缓的第一声与圆润的形状匹配，将音调起伏较大的第四声与尖锐的形状匹配。而以英语为母语的被试则关注音高的变化，将音调较高的第一声与尖刺的形状关联，将音调较低的第三声与圆润的形状关联。此外，汉-英双语者则同时关注音调变化及音高。这些发现表明，成人的音调和形状的映射关系受到自身语言背景的影响，并对陌生语言的音调形状映射模式较不敏感(Shang& Styles,2017)",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "因此，BK效应的敏感期受语言经验的动态调节。在语言获得的早期，语言经验与BK效应的敏感期相辅相成，共同促进了语言象征的发展。而在语言获得的中晚期，语言经验可能使人们仅维持母语的BK效应，而逐渐丧失其他语言的BK效应。但是，究竟是语言经验积累导致BK效应敏感期的结束，还是BK效应敏感期的结束促进了语言经验积累，还需深入的研究探讨。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2.2语言的任意性分布",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "语言发展初期，语言的象征性特征较多。随后，语言的任意性特征逐渐增多并在语言中占主导地位(Monaghan et al.,2014; Dingemanse et al.,2015; Perry et al.,2015)。儿童在早期的语言学习中首先掌握大量的象征性词汇（如类似于鸭叫声的“嘎嘎\"）(Kantartzis et al.,2019;Jo&Ko,2018;Perry et al.,2018)。例如，一项采用眼动追踪技术的研究发现，在真实的语言环境中，11个月大的婴儿对拟声词的反应有着更快的注视，这表明拟声词在婴儿早期的单词学习中具有优势(Laing,2017)。另外，在联想单词学习任务中，14个月大的婴儿可以检测到声音与形状之间的关联，并且能够利用这种敏感性学习单词(Imai etal.,2015)，尤其在动词的学习中(Kantartzis et al.,2019)。不仅如此，Monaghan 等人(2014)对英语语料库的分析发现，2至6岁的儿童习得了大量的象征性词汇。之后，任意性词汇逐渐增多。直到13岁之后，语言的任意性特征达到峰值。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，有证据表明，随着年龄的增长，儿童对语音象征的敏感性也在发展变化。例如，Tzeng 等人(2017)研究发现儿童对语音象征的敏感性在3岁前就存在，直到7岁仍会发展。然而，人类语音象征敏感性如何随年龄变化呢？本文认为这可能与语言象征性和任意性特征的变化有关。儿童在早期主要以学习易于建立语音象征的象征性词汇为主，此时儿童的语音象征敏感性逐渐增强。随着词汇学习的深入，任意性词汇所占比例逐渐上升，儿童的语音象征敏感性则逐渐减弱。由此可以推测，通过计算儿童习得语言中象征性词汇和任意性词汇的比值，可以初步预测语音象征敏感性的变化。假设儿童语言中的象征性词汇和任意性词汇占比的比值为d，则儿童语音象征的敏感性随 $d$ 值的增加呈倒U曲线变化。以往研究也发现，语言任意性占比的提高与BK效应敏感期的衰退在时间上重叠(Monaghanet al.,2014)。不过，针对这一预测尚需更直接的实证验证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6语音象征的先天后天相互作用模型",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "鉴于语音象征先天论无法排除后天经验的作用，而语音象征后天论也并不完全否定先天因素的作用。为推动该领域的理论发展，有必要提出一个新的理论模型去整合以往研究中的矛盾。语言发展领域的经典认知相互作用论认为，认知结构是语言发展的基础，语言结构随着认知结构的发展而发展。个体的认知结构来源于主体和客体之间的相互作用。认知发展同时受到先天和后天因素的相互作用。其中，图式（Scheme）是主体的认知结构，是通过同化和顺应建构的。同化（Assimilation）是主体将外界刺激纳入到自身已经形成或正在形成的图式中的过程。顺应（Accommodation）是指当原有认知图式不能同化新刺激时，主体调整认知图式，以适应环境的过程。当有机体能够适应环境时，就达成了某种暂时的平衡(Piaget & Duckworth,1970)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "鉴于语音象征也是一种语言现象，并且语音象征先天论和后天论均可以在经典认知相互作用论的框架下得以整合，因此，本文结合语言相关的BK效应敏感期假设，率先提出语音象征先天后天相互作用模型（见图2a)。该模型认为语音象征既存在一种先天的语音象征机制，又受到后天经验的驱动，即语音象征同时受大脑发育可塑性与语言经验积累的相互作用。具体而言，儿童拥有与生俱来的“语音象征认知结构\"，这使儿童拥有多模态信息整合能力，对所有潜在的语音象征敏感。语言发展初期，语言的象征性占主导。儿童通过语言表达触发了语音象征认知结构，并经过同化建立象征性图式。这又提高了大脑对语音象征的敏感性。然而，随着词汇量逐渐增加，语言的任意性特征增强。当语音象征认知结构不能同化新的词汇时，儿童通过顺应产生语言的任意性图式。在这个过程中，大脑对语音象征的敏感性逐渐减弱。在语言学习中，同化和顺应是同时发生作用的。不同的是，顺应在整个学习过程中逐渐增强，而同化仅在语音象征敏感期内逐渐增强，在敏感期外逐渐减弱（见图2b)。最终，随着年龄的增长和语言经验的增加，二者达到了动态平衡。具体而言，语音象征的认知结构随外界信息的输入而变化。在语音象征的敏感期之后，语言的任意性占比逐渐增大，语言象征认知结构受顺应的调节而改变。随着年龄增长和语言经验的丰富，语言的任意性和象征性的比例逐渐趋于稳定，语音象征的认知结构与外界信息相适应，这时同化和顺应保持相对平衡的状态。Reinking 等人(2000)借鉴Piaget 和Duckworth 的同化和顺应概念提出了基于数字技术的识字教学理念，也发现了类似的同化和顺应的变化趋势。这为语音象征敏感期的先天后天相互作用模型提供了初步的证据支持。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/4112a8675b3299f10fab1b1d40d2878e0209eb3421575edd75d2d2a5feb2db4a.jpg",
+        "img_caption": [
+            "图2a为语音象征的先天后天相互作用模型；图2b为同化和顺应的强度随时间变化示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "语音象征敏感期的先天后天相互作用模型中的部分理论观点也得到了以往研究证据的直接或间接支持。主要表现在以下几个方面。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）以往研究的部分争论为语音象征的先天后天相互作用模型提供了初步证据。首先，研究发现，大猩猩仅对涉及感知觉属性的跨模态一致性现象敏感（如音高与色块）(Ludwig et al.,2011)，而对涉及语音和语义的BK 效应不敏感(Margiotoudi et al.,2019)，这表明语言经验在可能是BK效应习得的前提之一。另外，研究发现，4个月的婴儿对语音象征敏感(Ozturk etal.,2013)，但当面对复杂的象征性的刺激对时，5个月的婴儿却未表现出敏感(Fort etal.,2013)。这表明，婴儿虽对语音象征具有先天敏感性，但在缺乏足够的语言经验时，仍然难以产生语音象征。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其次，婴幼儿对“圆形/Bouba型”和“尖形/Kiki型”敏感度不同，这表明语音象征可能是先天后天相互作用的产生物。Fort等人(2018)对4\\~38个月婴幼儿BK效应的元分析发现，与“尖形/Kiki型”相比，婴幼儿对“圆形/Bouba型”的敏感性更高。更重要的是，婴幼儿对“尖形/Kiki型”的敏感性是随年龄增长而逐渐出现的。这表明，不同BK效应敏感性的出现存在时间上的分离。另外，Yang 等人(2019)也发现11个月的婴儿仅对“圆形/Moma型”敏感，对“尖形/Kipi型”不敏感。上述研究表明，婴幼儿可能对象征性特征明显的语音率先产生语音象征（如圆润的声音与发音时的圆口型)，而对更微妙的语音象征线索（如尖锐的声音和发音时的扁口型）则需积累较多语言经验后才能产生语音象征。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）根据语音象征的先天后天相互作用模型推测，新信息与语音象征认知结构不断融合的过程提高了人们对语音象征的敏感性，甚至促进新的跨模态一致性联结的建立。部分实证研究也为上述假设提供了证据支持。例如，Emst(2007)发现向被试同时呈现亮度和硬度的刺激，被试在多次训练后建立了硬度和亮度的跨模态一致性联结(如硬的物体更亮)。另外，正电子断层扫描成像(Positron Emission Tomography,PET)的研究也发现，视听刺激的短暂共现诱发了跨模态一致性联结(Zangenehpour& Zatorre,2010)。不仅如此，研究发现，儿童对BK效应的敏感性能够通过学习得以提升(Pejovic&Molnar,2017)。这进一步表明象征性经验可能通过同化实现与语音象征的认知结构融合，这一融合又提高了语音象征的敏感性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（3）语音象征的先天后天相互作用的模型认为，在顺应发生的过程中，人们对语音象征的敏感性逐渐减弱。这一过程首先体现在语音象征在词汇学习中作用的变化上。例如，Brand 等人(2018)的研究发现，当人们的词汇量较小时，语音象征能够有效地融入词汇结构，促进词汇学习。然而，当词汇量增大到一定程度，语音象征被用于词汇分类。这可能是由于随着语言经验的丰富，人们逐渐采用顺应的方式学习语言，从而导致语音象征的作用逐渐减弱。其次，对语言象征敏感性的减弱还体现在人们对非母语语音象征敏感性的变化上。以往研究发现，相比于儿童，成人逐渐丧失了非母语语音的象征敏感性(Katerina&Kantartzis,2011)。这可能表明，随着个体发展，人们通过顺应改变语音象征的认知结构，导致人们对语音象征的敏感性逐渐减弱。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "根据上述模型，语音象征对语言学习具有广阔的应用前景。具体而言，在语言发展的早期阶段，象征性词汇的输入有利于婴幼儿的口语产生和语言理解。例如，母亲在与婴儿交谈时频繁使用的象征性词汇促进了婴幼儿的语言理解(Jo&Ko,2018)。然而，随着年龄的增长，语言的任意性增加，象征性词汇的使用频率随儿童语言能力的发展而逐渐降低(Perry etal.,2018)。相应地，语音象征在单词学习中的作用逐渐减弱。并且，当儿童的词汇量增大到一定程度时，语音象征还能促进分类学习(Brand etal.,2018)。上述研究表明，语音象征的作用可能随年龄增长而变化。但是，尚未有研究系统探讨过语音象征随年龄发展的变化规律。为此，本研究提出的基于语音象征敏感期的先天后天作用模型针对上述变化规律提出了理论构想。因此，该模型将为未来研究者开展相关研究提供理论借鉴，也将为未来研究者利用语音象征促进语言学习提供理论参考。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "7总结与展望 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文梳理了近年来语音象征的研究动态，并率先提出了语言相关的BK效应敏感期假设。特别是，本文基于BK效应敏感期提出了语音象征产生的先天后天作用模型。然而，该领域尚有部分重要科学问题亟需探讨，未来研究可以考虑从以下几方面开展研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第一，创新研究范式，验证BK效应敏感期。以往研究者主要通过环境剥夺范式探究敏感期。然而，无法排除视觉和听觉受损对BK效应的影响。未来研究可以采用经验替代（Experience Substitution）范式探究BK效应的敏感期。经验替代范式是通过控制敏感期内特定经验的性质或特定经验的类型以探究该经验对敏感期的影响(Gabard-Durnam&McLaughlin,2020)。例如，为探究婴幼儿面部识别的敏感期，研究者对6个月大的婴儿进行了为期3个月的猕猴面孔接触训练。研究发现，与未训练的婴儿相比，经过训练的婴儿在9个月大时仍保留了对猕猴面孔识别的敏感性(Ortiz-Mantilla et al.,2019)。因此，在儿童早期，研究者可以通过呈现非母语语言刺激探究儿童对非母语语音象征敏感性的变化",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第二，探究正字法对语音象征敏感期的影响。当今世界存在两大类文字，以字母为代表的表音文字和以汉字为代表的表意文字。其中，表音文字的符号与其语音关系密切，而表意文字的字形与语音没有明确的对应关系(Lewis etal.,2015；谢久书等，印刷中)。在表音文字中，研究发现正字法对BK效应的产生具有促进作用，主要表现为字母的曲率与形状之间存在映射关系(Cuskley et al.,2017)。而在表意文字中，正字法的哪种特征对语音象征产生影响呢？因此，未来研究可以探究不同正字法在汉字语音象征的作用。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第三，探究第二语言中BK效应的产生机制。鉴于第二语言的表征方式可能与母语不同，未来研究需探究第二语言中的BK效应，以及该效应的产生是否符合本文提出的先天后天作用模型。此外，未来研究还需探究第二语言和第一语言中的BK效应是否共享相同的语言表征。最后，未来研究亦可探讨利用BK效应促进第二语言的学习的可能性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "谢久书，沈光银，黄艳利.(印刷中)．双语者跨语言正字法迁移的争议与整合.心理科学 Asano,M.,Imai,M.,Kita,S.,Kitajo,K.,Okada,H.,&Thierry,G. (2o15).Sound symbolismscaffolds language development in preverbal infants. Cortex, 63,196-205. htps://doi.org/10.1016/j.cortex.2014.08.025 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Blasi,D.E., Wichmann,S.,Hammarstrom, H., Stadler, P.F.,& Christiansen, M.H. (2016). Sound-meaning association biases evidenced across thousands of languages. Proceedings of the National Academy of Sciences,113(39),10818-10823.https://doi.org/10.1073/pnas.1605782113 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Bottini,R.,Barilari,M.,& Colignon,O.(2019).Sound symbolism in sighted and blind.The role of vision and orthography in sound-shape correspondences. Cognition,185,62-70. https://doi.org/10.1016/j.cognition.2019.01.006 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Brand,J., Monaghan, P.,& Walker,P. (2018).The changing role of sound-symbolism for small versus large vocabularies. Cognitive Science,42,578-590. https://doi.org/10.1111/cogs.12565 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Chow,H.M.,& Ciaramitaro,V.(2O19).What makes a shape \"baba\"? The shape features prioritized in soundshape correspondence change with development.Journal of Experimental Child Psychology,179,73- 89.https://doi.org/10.1016/j.jecp.2018.10.005 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Cuskley, C.,Simner,J.,& Kirby,S. (2017).Phonological and orthographic influences in the bouba-kikieffect. Psychological Research,81(1),119-130. https://doi.0rg/10.1007/s00426-015-0709-2 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "D'Anselmo,A.,Prete,G.,Zdybek,P.,Tommasi,L.,& Brancucci,A. (2019). Guessng meaning from word sounds of unfamiliar languages: Across-cultural sound symbolism study.Frontiers in Psychology,10,593. https://doi.org/10.3389/fpsyg.2019.00593 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Delgado,J.,Pereira,R.,Ferreira,M.F.,Farinha-Fernandes,A., Guerreiro,J.C.,Faustino,B.,...Ventura,P. (2020). Sound symbolism is modulated by linguistic experience. Revista da Associacao Portuguesa de Linguistica,7,137-150.https://doi.org/10.26334/2183-9077/rapln7ano2020a9 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Dingemanse,M.,Blasi,D.E.,Lupyan,G., Christiansen,M.H.,& Monaghan,P. (2015).Arbitrariness,iconicity and systematicity in language. Trends Cognitive Science,19(1O),603-615. https://doi.0rg/10.1016/j.tics.2015.07.013 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Ernst,M. O. (2oo7).Learning to integrate arbitrary signals from vision and touch. Journal of Vision,7(5),7-7. https://doi.org/10.1167/7.5.7 %JJournalof Vision ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fort,M.,Lammertink,I,Peperkamp,S., Guevara-Rukoz,A.,Fikkert,P.,& Tsuji,S. (2018).Symbouki: Ametaanalysis on the emergence of sound symbolism in early language acquisition.Developmental Science, 21(5),e12659.htps://doi.org/10.1111/desc.12659 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "FortM.,Weil,A.,Martin,A.,&Peperkamp,S.(2013).Looking for the bouba-kiki effect in prelexical infants.In S.Ouni,F.Berthomier,&A. Jesse (Eds.),The 12th International Conference on Auditory-Visual Speech Processing (pp.71-76). INRIA. http://avsp2013.loria.fr/proceedings/papers/paper_41.pdf ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Fryer,L.,Freeman,J.,& Pring,L.(2O14).Touching words is not enough: How visual experience influences haptic-auditory associations in the \"Bouba-Kiki\" effect. Cognition,132(2),164-173. https://doi.org/10.1016/j.cognition.2014.03.01 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Gabard-Durnam,L.,& McLaughlin,K.A. (2O20).Sensitive periods in human development: Charting a course for the future. Current Opinion in Behavioral Sciences,36,120-128. https://doi.org/10.1016/j.cobeha.2020.09.003 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Gold,R.,& Segal, O.(2O2O).The Bouba-Kiki efect in persons with prelingual auditory deprivation.Language Learning and Development,16(1),49-60.https://doi.org/10.1080/15475441.2019.1685386 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Graven,T.,& Desebrock, C.(2018).Bouba or kiki with and without vision: Shape-audio regularities and mental images. Acta Psychological,188,200-212.https://doi.org/10.1016/j.actpsy.2018.05.011 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Hamilton-Fletcher,G.,Pisanski,K.,Reby,D.,Stefanczyk,M.,Ward,J.,&Sorokowska,A.(2018).Theroleof visual experience in the emergence of cross-modal correspondences.Cognition,175,114-121. https://doi.org/10.1016/j.cognition.2018.02.023 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Hensch,T.K. (2018). Chapter 6 - Critical periods in cortical development.InR.Gibb &B. Kolb (Eds.),The Neurobiology of Brain and Behavioral Development (pp.133-151).Academic Press. https://doi.0rg/10.1016/B978-0-12-804036-2.00006-6 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Imai,M.,& Kita,S. (2014).The sound symbolism bootstrapping hypothesis for language acquisition and language evolution.Philosophical Transactions OfThe Royal Society B-biological Sciences,369(1651),0130298. https://doi.0rg/10.1098/rstb.2013.0298 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Imai,M.,Miyazaki,M.,Yeung,H.H.,Hidaka,S.,Kantartzis,K.,Okada,H.,&Kita,S. (2015).Sound symbolism facilitates word learning in 14-month-olds.Plos One,10(2),e0116494. https://doi.org/10.1371/journal.pone.0116494 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Jo,J.,&Ko,E.S.(2o18).Korean mothers atune the frequencyand acoustic saliencyofsound symbolic words to the linguistic maturity of their children.Frontiers in Psychology,9,2225. https://doi.0rg/10.3389/fpsyg.2018.02225 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Kantartzis,K.,Imai,M.,Evans,D.,&Kita,S.(2O19).Sound symbolismfacilitates long-term retentionof the Semantic representation of novel verbs in three-year-olds. Languages, 4(2), 21. https://doi.org/10.3390/languages4020021 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Katerina,& Kantartzis.(2O11).Toddlers are sensitive to a wider range of sound symbolic links between form and meaning of words than adults (Unpublished doctorial dissertation). University of Birmingham. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Kuhl,P. K. (201o).Brain mechanisms in early language acquisition. Neuron, 67(5),713-727. https://doi.org/https://doi.org/10.1016/j.neuron.2010.08.038 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Kohler, W. (1947). Gestalt psychology.New York: Liveright. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Laing, C.E. (20l7). A perceptual advantage for onomatopoeia in early word learning: Evidence from eye-tracking Journal ofExperimental ChildPsychology,161,32-45.https://doi.org/10.1016/j.jecp.2017.03.017 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Lewkowicz,D.J.,& Ghazanfar,A.A. (2009). The emergence of multisensory systems through perceptual narrowing.Trends in Cognitive Sciences,13(11),470-478.https://doi.org/10.1016/j.tics.2009.08.004 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Lewis,M.P.,Simons, G.F.,&Fennig, C.D. (2015).Ethnologue: Languages of the world (18th ed.). Dalls,TX: SIL International. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Ludwig,V. U.,Adachi,I.,& Matsuzawa,T. (2011). Visuoauditory mappings between high luminance and high pitch are shared by chimpanzees (Pan troglodytes) and humans. Proceedings ofthe National Academy of Sciences,USA,108(51),20661-20665.https://doi.org/10.1073/pnas.1112605108 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Margiotoudi, K.,Alritz,M., Bohn, M.,&Pulvermuller,F.(2019).Sound symbolic congruency detection in humans but not in great apes.Scientific Report,9,12705.htps://doi.org/10.1038/s41598-019-49101-4 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Mayberry,R.I.,& Kluender,R.(2018).Rethinking the critical period for language: New insights into an old question from American Sign Language. Bilingualism: Language and Cognition,21(5), 886-905. https://doi.0rg/10.1017/S1366728917000724 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Monaghan,P.,Shillcock,R.C., Christiansen,M.H.,& Kirby,S.(2014). How arbitrary is language?Philosophical Transactions of the Royal Society B-Biological Sciences,369(1651),20130299. https://doi.0rg/10.1098/rstb.2013.0299 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Nielsen,A. K.S.,& Dingemanse, M. (2O20). Iconicity in word learning and beyond: A critical review.Language and Speech,64(1),52-72. https://doi.0rg/10.117/0023830920914339 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Ortiz-Mantilla,S.,Realpe-Bonilla,T.,& Benasich,A.A. (2019).Early interactive acoustic experience with nonspeech generalizes to speech and confers a syllabic processng advantage at 9 months. Cerebral Cortex, 29(4),1789-1801.https://doi.org/10.1093/cercor/bhz001 %JCerebral Cortex ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Owren,M.J.,& Rendall,D.(2Oo1).Sound on the rebound: Bringing form and function back to the forefront in understanding nonhuman primate vocal signaling.10(2),58-71.https://doi.org/10.1002/evan.1014 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Ozturk,O.,Krehm,M.,& Vouloumanos,A.(20l3).Sound symbolism in infancy: Evidence for sound-shape crossmodal correspondences in 4-month-olds.Journal of Experimental Child Psychology,114(2),173-186. https://doi.0rg/10.1016/j.jecp.2012.05.004 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Pant,R.,Kanjlia, S.,& Bedny,M.(202O).Asensitive period in the neural phenotype of language in blind individuals.Developmental Cognitive Neuroscience,41,100744. https://doi.org/10.1016/j.dcn.2019.100744 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Pathak,A.,& Calvert,G.A. (202O).Sounds sweet,sounds biter: How the presence of certain sounds in a brand name can alter expectations about the product's taste.Food Quality and Preference,83,103918. https://doi.org/10.1016/j.foodqual.2020.103918 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Park,J.,Motoki,K.,Pathak,A.,& Spence, C. (2O21).Asound brand name: The role of voiced consonants in pharmaceutical branding.Food Quality and Preference,90,104104. https://doi.org/10.1016/j.foodqual.2020.104104 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Pejovic,J.,& Molnar, M. (20l7).The development of spontaneous sound-shape matching in monolingual and bilingual infants during the first year. Developmental Psychology,53(3), 581-586. https://doi.org/10.1037/dev0000237 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Parise, C.V. (20l6). Crossmodal correspondences: Standing issues and experimental guidelines. Multisensory Research,29(1-3),7-28.https://doi.0rg/10.1163/22134808-00002502 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Perry,L.K.,Perlman,M.,&Lupyan,G. (2O15).Iconicity in englishand spanishand itsrelation to lexical category and age of acquisition. Plos One,10(9),e0137147. https://doi.org/10.1371/journal.pone.0137147 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Perry,L.K.,Perlman,M., Winter,B.,Massaro,D.W.,&Lupyan,G. (2O18).Iconicity in the speechof children and adults.Developmental Science,21(3), el2572. https://doi.org/10.1111/desc.12572 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Piaget,J.,& Duckworth,E. (1970). Genetic epistemology.American Behavioral Scientist,13(3),459-480. https://doi.0rg/10.1177/000276427001300320 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Preziosi,M.A.,& Coane,J.H. (2017).Remembering that big things sound big: Sound symbolism and associative memory.Cognitive Research-Principles and Implications,2,10.https://doi.org/10.1186/s41235-016- 0047-y ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Ramachandran, V.S.,& Hubbard,E.M.(2Oo1).Synaesthesia -- A window into perception, thoughtand language. Journal ofConsciousnessStudies,8(12),3-34. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Reinking,D.,Labbo,L.,& McKenna,M.(2ooo).From assimilation to accommodation: A developmental framework for integrating digital technologies into literacy research and instruction.Journal of Research in Reading,23(2),110-122.https://doi.org/10.1111/1467-9817.00108 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Rendall,D.,& Owren,M.J.(2O10).Chapter5.4- Vocalizations as tools forinfluencing the affect and behaviorof others.In S.M.Brudzynski (Ed.),Handbook of Behavioral Neuroscience (Vol.19,pp.177-185). Elsevier.https://doi.0rg/10.1016/B978-0-12-374593-4.00018-8 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Rogers,S.K.,&Ros,A.S.(1975). A cross-cultural test of the Maluma-Takete phenomenon. Perception, 4(1), 105-106. https://doi.org/10.1068/p040105 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Saussure.,F.d. (1959). Course in general linguistics. New York: The Philosophical Library Sedley,D.N. (20o3).Plato's Cratylus. Cambridge: Cambridge University Press. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Shang,N.,& Styles,S.J.(2Ol7).Is a high tone pointy? Speakers of different languages match mandarin chinese tones to visual shapes differently.Frontiers in Psychology,8,2139. https://doi.org/10.3389/fpsyg.2017.02139 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Sidhu,D.M.,&Pexman,P.M. (2018).Five mechanisms of sound symbolic association.Psychonomic Bulletin & Review,25(5),1619-1643.https://doi.0rg/10.3758/s13423-017-1361-1 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Sonier,R.P.,Poirier,M., Guitard,D.,& Saint-Aubin,J. (202O).Around bouba is easier to remember thanacurved Kiki: Sound-symbolism can support associative memory. Psychonomic Bulletin & Review,27(4),776- 782. https://doi.0rg/10.3758/s13423-020-01733-8 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Sourav,S.,Kekunnaya,R.,hareef,I.,Banerjee,S.,Botari,D.,&Rder,B. (219).Aprotractedsensitiveperiod regulates the development of cross-modal sound-shape associations in humans.Psychological Science, 30(10),1473-1482.https://doi.0rg/10.1177/0956797619866625 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Spector,F.,& Maurer,D. (2013).Synesthesia: Anew approach to understanding the development of perception. Psychologyof Consciousness:Theory,Research,and Practice,1(S),108-129. https://doi.0rg/10.1037/2326-5523.1.S.108 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Styles,S.J.,& Gawne,L. (2017). When does Maluma/Takete fail? Two key failures and a meta-analysis suggest that phonology and phonotactics matter. Iperception,8(4),2041669517724807. https://doi.0rg/10.1177/2041669517724807 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Tzeng,C.Y.,Nygaard,L.C.,& Namy,L.L. (2017).Developmental change in children's sensitivity to sound symbolism.Journal of Experimental Child Psychology,160,107-118. https://doi.org/10.1016/j.jecp.2017.03.004 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Werker, J.F.,& Hensch, T.K.(2015). Critical periods in speech perception: New Directions. Annual Review of Psychology, 66(1),173-196. https://doi.org/10.1146/annurev-psych-010814-015104   \nYang, J., Asano,M., Kanazawa,S.,Yamaguchi, M. K.,& Imai, M. (2019). Sound symbolism processing is lateralized to the right temporal region in the prelinguistic infant brain.Science Report, 9(1),13435. https://doi.0rg/10.1038/s41598-019-49917-0   \nZangenehpour, S.,& Zatorre,R.J. (20l0). Crossmodal recruitment of primary visual cortex following brief exposure to bimodal audiovisual stimuli. Neuropsychologia,48(2),591-600. https://doi.org/10.1016/j.neuropsychologia.2009.10.022 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The mechanism of sound symbolism: Innate and acquired Interaction model based on the sensitive period ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "MA Yanan,HUANG Yanli, SHI Yujing,XIE Jiushu (School of Psychology, Nanjing Normal University, Nanjing 210097, China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Bouba-kiki effect (i.e.,BK effect) indicates the mapping between phonemes and shape features.The innate theory and acquired theory have heated debates on the mechanism of the BK effect. The innate theory holds that sensitivity to sound symbolism is inborn. On the contrary, the acquired theory holds that sound symbolism is the product of linguistic experience.The abovementioned theories are both supported by many studies and neither of them can completely refute the other. This suggests that none of these theories fully reveal the mechanisms of the emergence of sound symbolism. Therefore, the present review systematically reviews previous findings that support the innate and acquired theories on the mechanism of the BK effect, respectively. Then, the present review first proposes the hypothesis of the sensitive period of the language-related BK effect and reviews recent studies that have provided preliminary evidence for the sensitive period of the BK effect. In addition, the present review also reviews potential factors that may affect the sensitive period of the BK effect. Furthermore, to integrate the above debates, the present review proposes the innate and acquired interaction model for sound symbolism based on the sensitive period of the language-related BK effect. Finally, the present study proposes future research directions for the sensitive period of sound symbolism. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Key words: Sound Symbolism, Bouba-Kiki Effect, Sensitivity Period, Arbitrariness, Crossmodal Correspondences ",
+        "page_idx": 18
+    }
+]

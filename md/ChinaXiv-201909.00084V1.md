@@ -1,0 +1,194 @@
+# 基于多重指标的气候品质量化评价以河西东部红枸杞为例 1
+
+郭小芹(武威市气象局，甘肃 武威 733000)
+
+摘要：量化评价方法是科学评价农产品气候品质优劣的关键所在,利用熵权赋值法和模糊综合评判方法,构建基于多重耦合指标体系的气候品质量化评价模型。以河西走廊东部红枸杞为例,将生长时段内光、温、水等指标作为评价依据,建立适宜条件评价模型;将主要气象灾害阈值指标分级度量,建立极端灾害影响评价模型,实现了基于气象评价和产地评价的气候品质综合评价模型。经业务验证,该方法可以作为枸杞气候品质定量评价的依据。同时，为类似农产品气候品质量化评估提供了参考。
+
+关键词：指标耦合；品质评价；气候条件；极端灾害；红枸杞；河西走廊
+
+品质评价是指由可以充分信任的第三方证实某一经鉴定的产品或服务符合特定标准或规范性文件的活动。评价体系包括合格性评价和安全性评价，前者是自愿的，后者是强制性的，农产品气候品质评价属于合格性评价。评价过程是通过多个指标、评价模型、评价体系等手段以完成对研究对象的综合度量。常用方法有层次分析法(1]、主成分分析法[2-3]、TOPSIS 法[4]、全概率评分法[5]、蒙特卡洛模拟法[6、人工神经网络[7]、灰色关联聚类法[8-9]等评价方法[10-12]。模糊综合评价是对多指标制约对象量化评价的一种方法，特别适合非确定性问题的解决方案(13-14],其评价过程清晰、系统性强、度量准确。本文利用模糊评价建立了量化评价模型，为农产品气候品质评价提供了准确科学的决策尺度。
+
+众所周知，优质农产品需要良好的气候环境，光照、湿度、温度、降水等要素尤为关键。对农产品形成的气候背景进行评价，无疑给品牌创建提供了快捷通道[15-16],如浙江龙井茶[17]、陕西苹果[18]、江西早熟梨[19]等认证评价,极大地提高了地方品牌的认知度。截至目前，已有十余省份开展这项工作，但因为缺少行业标准与技术规范，绝大多数评价过程偏于定性，其精准度和严谨性尚需进一步探讨。为解决上述问题，甘肃省在气候品质评价理论与实践方面进行了深人研究，特别引入指标耦合概念，以有效解决品质形成过程中量化难题。
+
+指标耦合(indexcoupling)是指多个指标通过相互作用而使能量叠加的一种方法，被广泛应用于物理、地理、气象、水文等领域[20-21]。众所周知,影响农产品品质形成的因素非常多，以单一要素或简单回归建立的评价模型很难厘清多指标间的排序问题，也很难辨识多指标构成与品质形成过程中的关联问题。因此，评价过程必须建立一套反映多目标、多属性的指标体系，且通过数学方法实现可剥离、可削减、可度量的评价体系，即通过评价模型找寻出多指标耦合下品质形成过程中的差异性，以实现对评价对象本质属性的研判。实践证明，通过指标耦合建立的综合评价模型不仅为农产品气候品质评价提供了科学的度量方法，同时也为区域生产布局以及品种优化提供了决策支持。
+
+# 1资料与方法
+
+# 1.1 资料来源
+
+河西东部属大陆性干旱气候，降水稀少，光照充足，温度日较差大，非常有利于干物质积累。以枸杞为例,2015年种植面积 $1 3 ~ 3 3 3 ~ \mathrm { h m } ^ { 2 }$ ，占全省 $40 \%$ ，产业发展优势明显。选择武威亿利农民专业合作社为采样点,基地约 $5 8 ~ \mathrm { h m } ^ { 2 }$ ,鲜枸杞平均产量 $9 \ 0 0 0 \ \mathrm { k g }$ ：
+
+$\mathbf { h } \mathbf { m } ^ { - 2 }$ 。以2016—2017年13个批次红枸杞作为评价目标，以现蕾－成熟为全生育期生长时段，物候期以农业气象观测规范为标准，其他参量参照国家与行业标准执行。为了消除种植条件与样本之间的差异性，采样过程尽量与基地普采同步，且尽可能选择品种、树龄、密度、枝条性状、水肥条件以及成熟度一致的样品。
+
+气象数据来源于基地气象站( $. 3 8 . \ 1 0 ^ { \circ } \ \mathrm { N }$ $1 0 2 . 4 7 ^ { \circ } \mathrm { E }$ ,海拔 $1 5 9 2 . 1 \mathrm { ~ m } \rangle$ ，资料显示，该区域盛行NW风，无霜期约150d,生长期积温 $2 ~ 8 4 0 . 1 ~ \mathrm { { ^ { q } C } }$ ，降水量 $1 1 8 . 5 \ \mathrm { m m }$ ，日照时数 $1 ~ 2 8 2 . 4 \mathrm { ~ h ~ }$ ;枸杞生长时段4一8月，生长季内呈无限花序，多次开花，多次结果，其中6月中下旬多为老眼枝果，产量有限，盛果期出现在7一8月。成熟期鲜果皮薄、肉厚、粒大、色艳、籽少、药性强，附加值高，具备认证与评价的基本条件。
+
+# 1.2数量化评价原理
+
+1.2.1模糊评价模糊数学(fuzzy)是基于模糊集合、模糊逻辑之上对模糊拓扑、模糊测度等领域的统称，常应用于界限不够分明甚至非常模糊之现实问题的数学处理。模糊评价是依据模糊数学隶属度理论对受到多种因素制约的事物或对象做总体评价，从而使定性问题转化为数量化评价结果，不仅深刻揭示了评定对象的典型特征，还极大地削减了要素之间的主观评定误差。农产品品质形成过程具备明显的模糊性，应用模糊评价可以更好地揭示品质形成特质。其评价方法见文献[22]。
+
+1.2.2熵权赋值在测评体系中用以考量某一指标重要程度的方法称为权重，其值大小直接决定着该指标对评价目标的贡献度。专家打分、层次分析、多元分析、经验判定等人为干扰因素偏重，客观权重则有效规避了干扰项，在数量化赋值中熵权法更显精准,被广泛应用在工程技术、社会经济等领域，其基本思路是依据指标变异程度确定信息熵权，再按照被评对象固有信息，加权处理得到客观权重。其基本方法见文献[23]。
+
+# 1.3数量化评价模型
+
+1.3.1综合评价影响因素作为农产品品质形成过程中自然属性，温度、光照、水分以及气象灾害影响构成了重要的依存环境，其发生时间、影响深度、持续范围以及相互制约组成综合评价体系（compre-hensive evaluation,CE）:
+
+$$
+\mathrm { C E } = \{ X _ { 1 } , X _ { 2 } , \cdots , X _ { n } \}
+$$
+
+式中：CE为综合评价结果； $X _ { 1 } \sim X _ { n }$ 分别为影响品质形成过程的关键气象要素。
+
+按照品质形成过程中要素叠加原理，以代表性、准确性、比较性以及可度量性、可独立性为处置原则，选取适宜气象条件和极端灾害性影响度作为综合评价中的子评价集。
+
+1.3.2适宜气象条件模型构建（SMC）依据评价对象生长特征以及历史资料，确定不同生育期（ $\mathrm { G P } _ { i }$ )在对应时段内的典型影响因子，并对该时段内的适宜气象条件进行阈值设定，按照熵权赋值理论对适宜指标做模糊评价，进而确定每个生育阶段适宜气象条件的重要性,其评价得分( $\mathrm { S M C } _ { i }$ )越高，表明该评价对象在该时段内的适宜气象条件越好(表1)。
+
+1.3.3极端灾害性影响模型构建(EWA）选取农作物生长时段内对品质形成具有典型影响的气象灾害（表2），并按照其影响程度进行灾害损失程度的厘定，在此基础上对作物在各生长时段内的极端灾害性影响(extremeweathereffects，EWA)进行权重评价，该评价表征极端灾害性天气负面影响，灾害影响得分（ $\mathbf { \mathrm { [ \mathrm { K W A } } } _ { i }$ )越高，表明评价对象在该时段内受灾程度越严重。
+
+表1生长时段适宜气象条件阈值设计与评价结果  
+Tab.1Threshold value design and evaluated results of suitable meteorologicalconditions during crop growth period   
+
+<html><body><table><tr><td rowspan="2">生育期时段</td><td colspan="2">R1-R2/mm</td><td colspan="4">T -T/C</td><td rowspan="2"></td><td rowspan="2">评价得分</td></tr><tr><td>降水天数</td><td>有效降水</td><td>有效天数</td><td>有效温度</td><td>有效日较差有效日照时数</td><td></td></tr><tr><td>GP;</td><td>Ai</td><td>B</td><td>Ci</td><td>Di</td><td>E</td><td>F</td><td></td><td>SMCi</td></tr><tr><td>权重分配</td><td>@1</td><td>W2</td><td>W3</td><td>@4</td><td>W5</td><td>W6</td><td>……</td><td></td></tr></table></body></html>
+
+注：权重 $\omega _ { i }$ 通过熵权赋值法决定。下同。
+
+表2农作物生长时段极端灾害性影响阈值设计与评价结果  
+Threshold value design and evaluated results of extreme disastrous influence during crop growth   
+
+<html><body><table><tr><td>生育期时段</td><td>高温</td><td>寡照</td><td>干旱</td><td>大风</td><td>霜冻</td><td>暴雨</td><td></td><td>灾害影响</td></tr><tr><td>GP</td><td>H</td><td>L</td><td>Ji</td><td>K</td><td>Li</td><td>M</td><td></td><td>EWAi</td></tr><tr><td>权重分配</td><td></td><td>@2</td><td>w3</td><td>W4</td><td>@5</td><td>06</td><td></td><td></td></tr></table></body></html>
+
+# 1.3.4气象评价模型构建(ME)
+
+气象评价（ $\mathrm { M E } _ { i }$ ） $\mathbf { \sigma } = \mathbf { \sigma }$ 适宜气象条件评价（ $\mathrm { S M C } _ { i }$ ）1极端灾害性影响评价$( \mathrm { E W A } _ { i } )$ (2)
+
+即农产品生长阶段气象评价是从适宜气候条件中剔除极端灾害影响，其分值越高，表明全生育期生长环境越好。在作物生长过程中适宜气象条件是加分项，而极端灾害性影响是减分项，即每一次极端灾害性过程都会对作物生长以及品质形成构成负面影响，通过模糊评价将这部分影响进行剔除与剥离，真正实现气象评价科学化度量。
+
+1.3.5气候品质综合评价模型按照科斯理论和稀缺性理论，农产品质量是自然属性、经济属性、社会属性的复杂组合，作为农产品质量评价体系中的重要因素，气候品质评价一定是气象评价（meteorologicalevaluation）、产地评价（originevaluation）综合影响的结果，其值大小反映了农产品生长季内气象条件水平、区域生长潜能的综合评价特征（compre-hensiveevaluation），各要素之间构成以下关系：
+
+综合评价（CE） $\ O = A \times$ 气象评价（ME） $+ B \times$ 产地评价（OE） (3)
+
+式中： $A , B$ 分别表示上述两种评价体系权重尺度，定义 $A = 0 . 9 \ . B = 0 . 1$ 。
+
+评价集 $\begin{array} { r } { V = \left\{ \begin{array} { l l } \end{array} \right. } \end{array}$ 特优品,优等品，一般,差}（4）
+
+当 $\operatorname { C E } { \geqslant } 9 0$ 为特优品; $8 0 \leqslant \mathrm { C E } < 9 0$ 为优等品;$7 0 \leqslant \mathrm { C E } < 8 0$ 为一般品; $\mathrm { C E } < 7 0$ 为差品。
+
+# 2应用与分析
+
+近年来，河西东部全力推进特色林果业发展模式，下大力气塑造地方品牌以促进效益性农业发展，相比之下,农产品品牌推进过程却严重滞后。在地方经济发展需求与科研项目支持下，2016—2017年项目组对红枸杞展开跟踪测定与分析评估。实践证明，评价结果与实际非常吻合，同时项目组还将该结果应用至旱地小麦、皇冠梨、大枣、核桃以及高原夏菜等10余种农产品，使气候品质数量化评估模型得到进一步优化和完善。
+
+# 2.1 气象评价
+
+河西东部枸杞年采摘次数4\~7茬,每茬果实成熟期前 $4 0 \mathrm { ~ d ~ }$ 最为关键,其中果形指数、百粒重与该时段平均气温密切关联 $( 0 . 5 7 3 ^ { \ast } , 0 . 7 3 2 ^ { \ast \ast } )$ ，坏果率与该时段降水密切关联 $( 0 . 7 5 1 ^ { * * } )$ ，果实形成期间$1 5 \sim 2 5 \mathrm { ~ \textdegree C }$ 最为适宜。基于枸杞生物学特征及前人研究成果[24],依据物候观测和基地普查数据,将现蕾－果熟期作为气候品质评价有效时段,其中头茬果 $5 0 \mathrm { ~ d ~ }$ 、夏果 $4 5 \mathrm { ~ d ~ }$ 秋果 $4 0 \mathrm { ~ d ~ }$ ,以该时段光温水累计值作为建模依据，设计不同指标阈值区间并展开综合评价。
+
+2.1.1适宜气象条件评价将每茬枸杞成熟期前即有效生长时段内的降水天数( ${ \geqslant } 0 . 1 \ \mathrm { m m } ^ { \cdot }$ ）、累计降水量以及适宜气温( $( 1 5 \sim 2 5 \ \mathrm { { \sc C } } )$ )条件下有效温度、有效日较差、有效日照时数累计值作为评价指标,建立适宜气象条件下的评价矩阵，其模糊评价结果见表3。
+
+上述评价可以表征13个批次枸杞样品在其生长阶段中适宜气候条件的优越性，可以看出，2016-07－14表现最好，其次是2017-07-03，总体看2016年夏果普遍良好，但秋果普遍较差，尤其是$2 0 1 6 - 0 8 \mathrm { ~ - ~ } 0 9$ 这一批次表现最差。
+
+2.1.2极端灾害影响评价枸杞喜凉爽、耐寒、耐旱、耐盐碱，但对高温、阴雨、大风、暴雨、冻害以及持续性干旱等反应敏感。如在果实成熟阶段，持续阴雨天气不仅使鲜果很易滋生黑果病和霜霉病，还很容易诱发根腐病甚至使病害蔓延,进而影响产量与品质。按照气候品质综合评价等级标准,参考甘肃省气象灾害等级标准、本地气象灾害发生程度以及可能灾损构成因素，将极端灾害影响划分为特大、重度、中度、轻度4个等级，依据各等级下灾害发生程度，依次建立灾害性天气影响下的耦合指标体系。
+
+（1）高温过程：日最高气温 $\geqslant 3 3 \mathrm { ~ \leqslant C ~ }$ 时连续累计  
+日数 $\geqslant 1 2 \mathrm { ~ d ~ } . \geqslant 9 \mathrm { ~ d ~ } . \geqslant 6 \mathrm { ~ d ~ } . \geqslant 3 \mathrm { ~ d ~ }$ （2）阴雨寡照：日照时数 $\leqslant 2 \mathrm { ~ h ~ }$ 且连续累计日  
+数 $\geq 1 2 \mathrm { ~ d ~ } , \geqslant 9 \mathrm { ~ d ~ } , \geqslant 6 \mathrm { ~ d ~ } , \geqslant 3 \mathrm { ~ d ~ }$ (3）风灾：日极大风速 $\geqslant 2 4 . \mathrm { ~ 5 ~ ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$   
+$\geqslant 2 0 . 8 \ \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } , \geqslant 1 7 . 2 \ \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } , \geqslant 1 3 . 9 \ \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ：（4）旱灾：日降水量 $\leqslant 1 . 0 \ \mathrm { m m }$ 且连续累计日  
+数 $: \geqslant 3 0 \mathrm { ~ d ~ } . \geqslant 2 5 \mathrm { ~ d ~ } . \geqslant 2 0 \mathrm { ~ d ~ } . \geqslant 1 5 \mathrm { ~ d ~ }$ .（5）强降水：日降水量 $\geqslant 2 5 \ \mathrm { ~ m m ~ } , \geqslant 2 0 \ \mathrm { ~ m m }$ 、  
+$\geqslant 1 5 \ \mathrm { m m } _ { \cdot } \geqslant 1 0 \ \mathrm { m m }$ （6）霜冻：日最低温度 $\leqslant - \mathrm { ~ 1 ~ } \mathrm { ~ \% ~ } \leqslant 1 \mathrm { ~ \leqslant ~ }$   
+$\leqslant 3 \mathrm { ~ \% ~ } { \leqslant } 5 \mathrm { ~ \% ~ }$ 。按照灾害影响程度，赋予特大、重  
+度、中度、轻度分级权重为7.0、5.0、3.0和1.0，以
+
+Tab.3The suitable meteorological conditions and evaluated results during the growing period of Lycium chinense   
+表4枸杞生长时段极端灾害影响评价以及气象评价综合得分  
+
+<html><body><table><tr><td rowspan="2">取样时间</td><td rowspan="2">生长时 段/d</td><td colspan="3">≥0.1 mm</td><td colspan="5">适宜温度(15~25℃）</td></tr><tr><td>降水天数 /d</td><td>有效降水量 /mm</td><td>有效天数 /d</td><td>有效温度 /℃</td><td>有效日较差 /℃</td><td>有效日照 时数/h</td><td>评价结果</td><td>排序结果</td></tr><tr><td>2016 -06-22</td><td>50</td><td>15</td><td>81.9</td><td>38</td><td>761.4</td><td>371.7</td><td>382.2</td><td>267.2</td><td>4</td></tr><tr><td>2016 -07 -05</td><td>45</td><td>15</td><td>70.9</td><td>36</td><td>766. 6</td><td>359.1</td><td>356.8</td><td>258.8</td><td>5</td></tr><tr><td>2016 -07 -14</td><td>45</td><td>14</td><td>83.1</td><td>39</td><td>831.9</td><td>356.7</td><td>391.8</td><td>276.3</td><td>1</td></tr><tr><td>2016 -07 -25</td><td>45</td><td>15</td><td>69.9</td><td>39</td><td>846.2</td><td>340.8</td><td>360.4</td><td>267.6</td><td>3</td></tr><tr><td>2016-08 -02</td><td>40</td><td>11</td><td>47.4</td><td>27</td><td>588.8</td><td>218.8</td><td>239.5</td><td>180.7</td><td>10</td></tr><tr><td>2016 -08 -09</td><td>40</td><td>8</td><td>38.7</td><td>20</td><td>438.9</td><td>149.1</td><td>180.5</td><td>133.0</td><td>13</td></tr><tr><td>2016-08 -22</td><td>40</td><td>14</td><td>113.8</td><td>27</td><td>572.0</td><td>145.3</td><td>209.9</td><td>172.4</td><td>12</td></tr><tr><td>2017 -07 -03</td><td>50</td><td>11</td><td>36.3</td><td>42</td><td>865.4</td><td>391.5</td><td>336.0</td><td>269.1</td><td>2</td></tr><tr><td>2017 -07 -13</td><td>45</td><td>9</td><td>24.3</td><td>36</td><td>760.2</td><td>309.6</td><td>308.9</td><td>230.7</td><td>6</td></tr><tr><td>2017 -07 -21</td><td>45</td><td>7</td><td>13.7</td><td>32</td><td>675.5</td><td>276.8</td><td>277.4</td><td>204.2</td><td>8</td></tr><tr><td>2017 -08 -03</td><td>40</td><td>8</td><td>63.0</td><td>28</td><td>581.7</td><td>184.8</td><td>239.1</td><td>175.9</td><td>11</td></tr><tr><td>2017 -08-15</td><td>40</td><td>8</td><td>65.7</td><td>29</td><td>608.6</td><td>197.9</td><td>233.1</td><td>181.7</td><td>9</td></tr><tr><td>2017-08-23</td><td>40</td><td>14</td><td>95.6</td><td>34</td><td>697.8</td><td>202.8</td><td>259.3</td><td>207.2</td><td>7</td></tr><tr><td colspan="2">权重分配</td><td>0.167</td><td>0.186</td><td>0.145</td><td>0.142</td><td>0.186</td><td>0.174</td><td></td><td></td></tr></table></body></html>
+
+表3枸杞生长时段适宜气象条件及其评价结果  
+Tab.4The evaluated results of extreme disasters and meteorological evaluation during the growing period ofLycium chinense   
+
+<html><body><table><tr><td>取样时间</td><td>生长时段/d</td><td>高温过程</td><td>寡照过程</td><td>大风过程</td><td>干旱过程</td><td>强降水过程</td><td>霜冻过程</td><td>灾害影响</td><td>排序</td></tr><tr><td>2016 -06 -22</td><td>50</td><td>0</td><td>3</td><td>23</td><td>0</td><td>5</td><td>8</td><td>6.7</td><td>9</td></tr><tr><td>2016-07 -05</td><td>45</td><td>3</td><td>3</td><td>21</td><td>0</td><td>2</td><td>3</td><td>6.1</td><td>11</td></tr><tr><td>2016 -07 -14</td><td>45</td><td>4</td><td>3</td><td>24</td><td>0</td><td>3</td><td>0</td><td>6.9</td><td>8</td></tr><tr><td>2016-07 -25</td><td>45</td><td>4</td><td>3</td><td>16</td><td>0</td><td>2</td><td>0</td><td>5.0</td><td>12</td></tr><tr><td>2016-08 -02</td><td>40</td><td>50</td><td>3</td><td>8</td><td>0</td><td>1</td><td>0</td><td>11.0</td><td>6</td></tr><tr><td>2016-08-09</td><td>40</td><td>112</td><td>3</td><td>7</td><td>15</td><td>1</td><td>0</td><td>24.7</td><td>2</td></tr><tr><td>2016-08 -22</td><td>40</td><td>84</td><td>3</td><td>6</td><td>0</td><td>12</td><td>0</td><td>18.1</td><td>5</td></tr><tr><td>2017 -07 -03</td><td>50</td><td>1</td><td>4</td><td>3</td><td>0</td><td>0</td><td>0</td><td>1.5</td><td>13</td></tr><tr><td>2017-07 -13</td><td>45</td><td>21</td><td>4</td><td>11</td><td>0</td><td>0</td><td>0</td><td>6.7</td><td>10</td></tr><tr><td>2017 -07 -21</td><td>45</td><td>84</td><td>0</td><td>10</td><td>16</td><td>0</td><td>0</td><td>20.1</td><td>4</td></tr><tr><td>2017-08-03</td><td>40</td><td>84</td><td>24</td><td>10</td><td>16</td><td>8</td><td>0</td><td>25.6</td><td>1</td></tr><tr><td>2017 -08 -15</td><td>40</td><td>55</td><td>24</td><td>11</td><td>16</td><td>8</td><td>0</td><td>20.8</td><td>3</td></tr><tr><td>2017 -08 -23</td><td>40</td><td>5</td><td>24</td><td>2</td><td>16</td><td>9</td><td>0</td><td>10.4</td><td>7</td></tr><tr><td colspan="2">权重</td><td>0.171</td><td>0.173</td><td>0.216</td><td>0.224</td><td>0.158</td><td>0.058</td><td></td><td></td></tr></table></body></html>
+
+此建立13个批次极端灾害影响矩阵，该评价表征极端灾害性天气负面影响程度，得分越高，表明受灾程度越重。
+
+从表4可以看出：在枸杞生长过程中高温影响非常典型，其次是大风、寡照与持续性干旱，这种特征构成了生长季的基本气候背景，也构成了生产过程中灾害防范的关键点。如2016年秋果受持续罕见高温影响并伴随短期干旱;2017年夏果受持续高温与干旱的共同影响，秋果前期受高温、干旱影响而后期受连阴雨、寡照影响。分析显示：单一灾害影响程度左右评价得分，多种灾害并存使得评价得分显著提升，即多种灾害叠加时其影响度远比单一灾害更为显著，这说明评价模型能够准确度量灾害的影响度，真实而客观地反映极端天气的严重程度。2.1.3气象评价按照公式(2)求得气象评价结果并对该结果进行百分制排序（表5），可以看出
+
+# 表5河西东部红枸杞气候品质综合评价结果
+
+Tab.5Comprehensively assessed results of climate quality for Lycium chinense growth in east Hexi Corridor   
+
+<html><body><table><tr><td>成熟期</td><td>气象评价 (ME)</td><td>产地环境 (OE)</td><td>综合评价 (CE)</td><td>综合排名 (CR)</td></tr><tr><td>2016-06-22</td><td>96.7</td><td>95</td><td>96.5</td><td>4</td></tr><tr><td>2016-07-05</td><td>93.8</td><td>95</td><td>93.9</td><td>5</td></tr><tr><td>2016-07-14</td><td>100.0</td><td>95</td><td>99.5</td><td>1</td></tr><tr><td>2016-07-25</td><td>97.5</td><td>95</td><td>97.3</td><td>3</td></tr><tr><td>2016-08-02</td><td>63.0</td><td>95</td><td>66.2</td><td>9</td></tr><tr><td>2016-08-09</td><td>40.2</td><td>90</td><td>45.2</td><td>13</td></tr><tr><td>2016-08-22</td><td>57.3</td><td>85</td><td>60.1</td><td>11</td></tr><tr><td>2017-07-03</td><td>99.3</td><td>90</td><td>98.4</td><td>2</td></tr><tr><td>2017-07-13</td><td>83.2</td><td>90</td><td>83.9</td><td>6</td></tr><tr><td>2017-07-21</td><td>68.3</td><td>90</td><td>70.5</td><td>8</td></tr><tr><td>2017-08-03</td><td>55.8</td><td>90</td><td>59.2</td><td>12</td></tr><tr><td>2017 -08-15</td><td>59.7</td><td>85</td><td>62.2</td><td>10</td></tr><tr><td>2017-08-23</td><td>73.0</td><td>80</td><td>73.7</td><td>7</td></tr></table></body></html>
+
+2016-07－14和2017-07－03气象评价结果最好,而 $2 0 1 6 - 0 8 \mathrm { ~ - ~ } 0 9$ 和 $2 0 1 7 \mathrm { ~ - ~ } 0 8 \mathrm { ~ - ~ } 0 3$ 评价最差。该评价与年度枸杞成熟期实际状况一致，结论不仅得到枸杞种植基地的充分肯定，也使得气象评价的数量化优势得到充分体现。
+
+# 2.2 产地环境评价
+
+按照国家标准对产地环境评价因素构建4个子评价，即栽培规范评价( $\leqslant 2 5$ 分）、生产管理评价（ $\backslash \leqslant$ 25分）病虫害评价（ $\leqslant 2 5$ 分）、实地抽查评价（ $\leqslant 2 5$ 分），子评价集合构成产地环境总评价（ $\mathrm { O E } \leqslant 1 0 0$ 分），在生产季节内该评价随着气象条件与部分指标变化会有所浮动。
+
+# 2.3气候品质综合评价
+
+依据甘肃省农产品气候品质认证评价原则，按照公式(3)对13个批次枸杞进行综合评价，结果见表5。可以看出2016年7月中旬品质最为突出，其次为2017年7月上旬。总体看研究区域6—7月气候条件适宜枸杞生长，该时段成熟果实多显现出优良品质;秋季因多种灾害共同影响，不仅极易出现高温逼熟现象，还会因多雨天气诱发病害，使枸杞生长与品质形成过程受到制约与影响，
+
+# 3结论与讨论
+
+本文以河西东部 2016—2017年13个批次红枸杞为例，对现蕾－果熟时段内气象评价、产地环境进行气候品质数量化评价。结果显示：研究区域6—7月成熟期枸杞普遍显现出优良品质，秋季因高温、阴雨等因素制约，枸杞品质会受到一定影响。
+
+本文基于模糊数学评价原理建立了一套反映多目标、多属性的耦合指标体系，并通过熵权赋值确定了多个指标的测度权重;其次引入适宜气象条件评价与极端灾害影响评价两大指标体系，并从适宜气象条件评价中有效剔除与剥离了极端灾害影响评价，在理论上实现了气象评价的数量化难题；三是构建了集合气象评价、产地评价为目标的气候品质综合评价模型，为数量化评价与认证提供了决策依据，为类似产品评价提供了参考模板。
+
+本文利用模糊综合评价对多个枸杞样本进行品质评价，评价结果并未考虑种植品种差异性，这使得同一区域不同品种之间成熟期果实气候品质构成缺少一定的对比性，随着观测取样时段的延伸，应当对不同品种物候特征、气候适宜性指标进行分类研究，建立不同品种气候品质评价指标，从而为枸杞差异性、抗逆性提供科研支撑。
+
+枸杞果实属于无限采摘型，本文依据观测基地采收批次，将每茬果实全生育时段作为整体研究对象，并对该时段内适宜气象条件以及极端灾害性影响进行累计评价。这种方法忽略了气象条件对不同生育阶段中枸杞品质的差别性影响，有待于在模型优化与完善过程中对该方法的局限性做进一步的改进。
+
+# 参考文献(References）：
+
+[1]高蓓，卫海燕,郭彦龙,等.基于层次分析法和GIS的秦岭地区 魔芋潜在分布研究[J].生态学报，2015，35（21）：7108- 7116.[Gao Bei,Wei Haiyan,Guo Yanlong,et al.Potential distribution of amorphophallus rivieriin the Qinling Mountains based on analytic hierarchy process and geographic information system[J]. Acta Ecologica Sinica,2015,35(21）:7108-7116.]   
+[2]李浩鑫,邵东国,尹希,等.基于主成分分析和Copula 函数的灌 溉用水效率评价方法[J].农业工程学报,2015,31（11)：96- 103.[Li Haoxin,Shao Dongguo,Yin Xi,et al.Evaluation method for irrigation-water use eficiency based on principle component analysis and Copula function[J].Transactions of the Chinese Societyof Agriculture Engineering,2015,31（11）:96-103.]   
+[3]王巧焕,卢玉东,赛佳美,等.干旱区绿洲土壤盐分特征分析 [J].干旱区研究,2018,35（3）：503-509.[WangQiaohuan，Lu Yudong,Sai Jiamei,et al.Analysis of characteristics of soil salinity in the oasis of arid area[J].Arid Zone Research,2O18,35（3）： 503 -509.]
+
+[4]刘芳,宫华,许可,等.基于熵权改进的TOPSIS 法的教师教学 质量评价[J].沈阳工业大学学报，2017（5）：540-544.［Liu Fang,Gong Hua,Xu Ke,et al.Teaching quality evaluation for teachers based on TOPSIS method with improvement of entropy weight[J].Journal of Shenyang University of Technology,2017 (5):540 -544.]
+
+[5]牛晓静，张文鑫,段晓颖,等.多指标全概率评分法优选参芪益 气胶囊醇提工艺[J].中国实验方剂学杂志，2014,20（18）： 26-29.[Niu Xiaojing,Zhang Wenxin,Duan Xiaoying,et al.Optimization of extraction process of Shenqi Yiqi capsule by multi-index test breakdown formula evaluation[J].Chinese Journal of Experimental Traditional Formulae,2014,20(18）:26-29.]
+
+[6]伍晨,赵艳玲,孟炜，等.基于蒙特卡罗模拟的区域农村饮用水 水质指数评价[J].环境与健康杂志，2014，31（12）：1063- 1066.[Wu Chen,Zhao Yanling,MengWei,et al.Regional drinking water quality index assessment based on Monte Carlo simulation [J].Journal of Environment and Health,2014,31（12）:1 063- 1 066.]
+
+[7]李仲,刘明地,吉守祥.基于枸杞红外光谱人工神经网络的产 地鉴别[J].光谱学与光谱分析，2016，36（3）：720-723.［Li Zhong,Liu Mingdi,Ji Shouxiang.Pectroscopy and spectral analysis theidentification of the origin of Chinese wolfberry based on infrared spectral technology and the artificial neural network[J].Spectroscopy and Spectral Analysis,2016,36(3）:720-723.]
+
+[8]何珍珍,王宏卫,杨胜天,等.塔里木盆地中北部绿洲生态安全 评价[J].干旱区研究,2018,35（4）:963-970.[He Zhenzhen, WangHongwei,Yang Shengtian,etal.Evaluation on ecological security and analysis of influence factors of oasis in Northwest arid region[J].Arid Zone Research,2018,35(4）:963-970.]
+
+[9]陈韬伟,金炜东,李杰.基于灰关联测度的分裂式层次聚类算法[J].西南交通大学学报，2010，45（2）：296-301.[ChenTao-wei,Jin Weidong,LiJie.Divisive hierarchical clustering algorithmbased on grey relational measure[J]. Journal of Southwest JiaotongUniversity,2010,45(2):296-301.]
+
+[10]卜洪运，陶玲玲.基于指数型功效函数的高技术产业集群竞争 力评价研究——以京津冀为例[J].工业技术经济，2016，35 (7）:19-27.[Bu Hongyun,Tao Lingling.The competitiveness e valuation of high-tech industry cluster based on the exponential function：A case study of Beijing-Tianjin-Hebei[J].Industrial Technology Economy,2016,35（7） :19-27.]
+
+[11］王广龙，魏猷刚,章鸥,等.利用多元统计方法筛选确定番茄幼苗质量评价指标[J].西北农业学报，2014，23（6）：147-155.[Wang Guanglong,Wei Yougang,Zhang Ou,et al.Screening andidentification of quality evaluation index of tomato seedlning withmultivariate statistical analysis[J].Acta Agriculturae Boreali-Occi-dentalis Sinica,2014,23(6) :147-155.]
+
+[12]马庆华,李永红，梁丽松，等.冬枣优良单株果实品质的因子分析与综合评价[J].中国农业科学，2010，43（12）：2491-2499.[Ma Qinghua,Li Yonghong,Liang Lisong,et al.Factor a-nalysisand synthetical evaluation of the fruit quality of dongzao(Ziziphus jujuba mill.“dongzao")advanced selections[J].Scien-tia Agriculture Sinica,2010,43（12):2 491-2 499.]
+
+[13]邓正栋,叶欣,龙凡,等.地下水遥感模糊评估指数的构建与研 究[J].地球物理学报,2013,56（11）：3908-3916.[Deng Zhendong,Ye Xing,Long Fan,et al.Construction and investigation of groundwater remote sensing fuzzy assessment index[J].Chinese Journal of Geophysics,2013,56(11） :3908-3916.]
+
+[14］宁娜,舒和平,刘东飞,等.基于熵权和模糊评判的单沟泥石流 危险性评价[J].兰州大学学报（自然科学版）,2014,50（3）： 369 -375.[Ning Na,Shu Heping,Liu Dongfei,et al. Hazard assessment of debris flow based on the entropy weight method and fuzzy evaluationmethod[J].Journal ofLanzhouUniversity(Natural Sciences Edition）,2014,50(3） :369-375.]
+
+[15]陈通，姜岩.我国农产品质量安全保障体系建设的研究[J].天津大学学报（社会科学版），2009，11（3）：243-246.［ChenTong,Jiang Yan.Security system construction of quality and safetyof agricultural products in China[J]. Journal of Tianjin University（Social SciencesEdition）,2009,11(3）:243-246.]
+
+[16]张宏志，管正学，李家永.农产品品质评价体系的研究[J].江 西科学,2002,20（3）:179-182.[ZhangHongzhi,Guan Zhengxue,Li Jiayong.Studies on evaluation of the quality of agricultural products[J]. Jiangxi Science,2002,20(3）:179-182.]
+
+[17」金志凤，王治海，姚益平，等.浙江省茶叶气候品质等级评价[J].生态学杂志,2015,34（5）：1 456-1 463.[Jin Zhifeng，Wang Zhihai,Yao Yiping,etal.Evaluationof tea climate quality inZhejiang[J].Chinese Journal of Ecology,2015,34（5）:1 456-1 463.]
+
+[18]屈振江，郑小华,刘璐,等.陕西不同生态区苹果品质差异及与 气象因子的关系[J].气象,2017,43（7）：872-878.[Qu Zhenjiang,Zhen Xiaohua,Liu Lu,et al.Relationship between apple quality and meteorological factors in different ecological regions in Shaanxi[J].Meteorological,2017,43（7） :872-878.]
+
+[19]桂园园，肖清媛，姜磊，等.鹰潭市早熟梨品质气候认证技术研究[J].江西科学,2015,33（5）：690-695.[GuiYuanyuan，XiaoQingyuan,JiangLei,etal.Research on the qualityand climate cer-tification technology of early maturing pear in Yingtan[J]. JiangxiScience,2015,33(5） :690-695.]
+
+[20]李凤全，林年丰.神经网络和地理信息系统耦合方法在地下水水质评价中的应用[J].长春科技大学学报，2001，31（1)：50-53.[Li Fengquan,Lin Nianfeng.The application of GIS and annmethod on the assesemnet of groundwater quality[J].Journal ofChangchun University of Science and Technology,2Oo1,31（1）：50 -53.]
+
+[21]廖冰，张智光.林业生态安全指标一指数的耦合实证测度研究 [J].资源科学,2017,39（9）:1777-1 791.[Liao Bing,Zhang Zhiguang.The empirical measurement of coupling from indicators to indexes of forestry ecological security[J].Resources Science, 2017,39(9):1 777 -1 791.)
+
+[22]宋福忠，李凯旋，李烨楠，等.基于模糊数学的排污权交易基准价测算模型及其应用[J].环境科学研究，2018，31（1）：194-
+
+200.[Song Fuzhong,Li Kaixuan,Li Yenan,et al.A fuzzy mathematics based on pricing model for emissions trading benchmark price and its application[J].Reserrch of Environmental Science, 2018,31(1):194-200.)
+
+[23]倪九派，李萍，魏朝富，等.基于AHP和熵权法赋权的区域土地开发整理潜力评价[J].农业工程学报，2009,25（5）：202-209.［Ni Jiupai,Li Ping,Wei Chaofu,etal.Potentialties evaluationof regional land development and consolidation based on the AHPand entropy method[J].Transactions of the CSAE,2009,25（5）：202-209.]
+
+[24]李剑萍,张学艺,刘静.枸杞外观品质与气象条件的关系[J].气 象,2004,30(4）:51-54.[Li Jianping,Zhang Xueyi,Liu Jing.Re lationship between appearance quality and meteorological conditions ofLycium barbarum[J].Meteorology,2004,30(4）:51-54.]
+
+# Quantitative Evaluation of Climate Quality Based on Multiple Indicators :A Case Study on Lycium chinense Growth in East Hexi Corridor
+
+GUO Xiao-qin (WuweiMeteorological Bureau,Wuwei733OOO,Gansu,China)
+
+Abstract：Quantitativeevaluation method is the key to scientificallyevaluate theclimatequalityof agricultural products.Basedon the multiple coupling index system，in this paper a quantitative evaluation model of climate quality was established by using the entropy weight valuation method and fuzzy comprehensive evaluation method. The indicators of sunshine,temperature，water,etc.during the growth period of Lycium chinense ineast Hexi Corridor were used to evaluate the suitable and extreme disastrous meteorological conditions.The evaluation model of extreme disaster impact was established by gradingthe main meteorological disaster threshold indexes.The comprehensive evaluation model of climate quality was establishedby combining the meteorological evaluation and production area evaluation.This method could beused as the basis of quantitatively evaluating the climate quality for $L$ chinense growth.At the same time,this method could also provideareference forthequantitative assessment of climatic quality for the growth of similar agricultural products.
+
+Key words:index coupling；climate quality assessment； climate conditions； extreme disaster； Lycium chinense;Hexi Corridor

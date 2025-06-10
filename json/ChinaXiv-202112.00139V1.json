@@ -1,0 +1,479 @@
+[
+    {
+        "type": "text",
+        "text": "不同产地苦楝苗期生长节律研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蔡金峰，郁万文，汪贵斌，曹福亮（南京林业大学南方现代林业协同创新中心南京210037）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：苦楝在我国分布广泛，具有广泛的遗传变异。为进一步做好苦楝种源选择和良种选育工作，该文对不同产地苦楝实生苗生长性状和各阶段的生长特点进行了比较分析，初步揭示了苦楝苗期生长规律。研究以15个产地的1年生实生苗为试材，对苗高、地径、复叶生长及生物量积累等生长性状进行了观测分析，并用Logistics方程对生长节律进行了拟合。结果表明：(1)不同产地苦楝苗高、地径生长差异均达显著水平，根生物量、茎生物量及复叶相关性状差异均达极显著性水平；(2)苗高和地径生长均呈现慢-快-慢的S型生长规律，且均存在2次生长高峰，与苗高生长高峰出现时间相比，地径生长高峰出现时间较晚；(3)Logistic 拟合方程的 $\\boldsymbol { R } ^ { 2 }$ 为 $0 . 9 7 6 { \\sim } 0 . 9 9 4$ ，均达到极显著相关水平，说明可以用 Logistic 方程来拟合苦楝的生长节律；(4)地径速生期持续时间总体上较苗高速生期持续时间长 $2 0 \\sim 3 0 \\mathrm { ~ d ~ }$ ，北方产地苗高和地径进入速生期和结束速生期的时间均早于南方产地，速生期苗高和地径累积生长量均超过总生长量的 $6 0 \\%$ ；(5)各生长指标均与纬度呈负相关关系，苗高、根生物量及复叶面积与经度呈正相关关系，其他指标与经度呈负相关关系。综上结果表明，苦棟为全期生长型树种，各生长性状在产地间达显著差异水平，生长受纬度和经度双重控制，以纬度控制为主。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：苦楝，苗期，Logistic方程，生长节律中图分类号：S723.1 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Annual growth rhythm of Melia azedaeach seedlings from different seed sources ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CAI Jinfeng, YU Wanwen, WANG Guibin, CAO Fuliang (Co-Innovation Center for Sustainable Forestry in Southern China, Nanjing Forestry University, Nanjing 210037,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Melia azedarach is widely distributed in China and has a wide range of genetic variation. In order to study the growth characters of 1-year-old seedlings of M. azedarach from different seed sources, the growth characters of seedling height， ground diameter， compound leaf growth and biomass accumulation of M. azedarach seedlings from 15 seed sources were observed,and the growth rhythm was fitted by logistic equation. The results were as follows: (1） There were significant differences in seedling height，ground diameter，root biomass,stem biomass and compound leaf correlation between diferent habitats( $_ { \\it P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ ).(2） The growth of seedling heights and ground diameters showed a slow-fast-slow growth patern with type S. Compared with the emergence time of seedling height growth peak, the emergence time of ground diameter growth peak was later. (3) The $R ^ { 2 }$ of logistic fitting equation was 0.976-0.994, which reached the highly significant corelation level, indicating that the growth rhythm of M. azedarach could be fited by logistic equation. (4) According to theoretical calculation and practical observation, the duration of fast-growing stage of ground diameter was generally 2O-3O d longer than that of high-speed growth stage of seedling. The time of seedling heights and ground diameters entering fast-growing stage and ending fast-growing stage in northern locality was earlier than that in southern locality. The cumulative growth of seedling height and ground diameter in fast-growing stage was more than $60 \\%$ of the total growth. （5)Allthough traits were negatively correlated with latitude, seedling height, biomass of root and leaf area were positively correlated with longitude,the other traits were negatively correlated with longitude. In general, M. azadarach begongs to full-time growth type with significant differences in growth traits among seed sources. The growth was regulated by latitude and longitude, mainly by latitude . ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Melia azedarach, seedling stage,Logistic equation, growth rhythm ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "苦楝（Meliaazedaeach）为楝科（Meliaceae）楝属（Melia）落叶乔木，在亚洲热带、亚热带地区广泛分布（郑万钧，2004)。苦楝速生，材质优良，树形优美，是优良的速生用材和园林绿化树种；其根、皮、花、果均可入药，有“天然杀虫剂”之美誉，是高效、低毒的广谱植物源农药之一(程诗明，2005)；苦楝耐瘠薄，抗盐能力较强，在总含盐量 $0 . 5 \\%$ 以下的土壤中能正常生长，是盐碱土和石漠化地区生态植被恢复树种（林栖凤，2004)。因此，苦楝作为多功能可综合利用的乡土树种逐渐得到重视。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "苦楝环境适应性强，自然分布十分广泛，分布区内整体呈散生和零星分布状态，成片天然林分很少，分布区地形复杂，气候多变，加之长期自然选择和生殖隔离等原因，产生了存在丰富遗传变异的不同地理生态种源（程诗明和顾万春，2005；马万侠等，2010)。长期以来人们着眼于对自然资源的索取，不重视苦楝资源的管理，特别是利用树皮提取苦楝素对资源破坏严重，导致种质资源逐渐减少。同时，现有的苦楝人工林造林苗木大多为未经选育的实生苗，遗传品质参差不齐，严重影响了苦楝的开发利用。因此，开展苦楝种质资源收集与种源实验，研究苦楝苗木生长规律，比较不同产地间苦楝生长性状差异，是选育优良苦楝种质资源的有效途径。20世纪80年代以来，国内学者对苦楝种源选择和良种选育工作进行了一系列研究，主要以材用型和苦楝素含量为选育目标，初步筛选出适合不同地区优良种源、家系、无性系或单株（崔赞栋等，1994；陈羨德等，2008；教忠意等，2015；何霞等，2018；陈丽君等，2018)。分析苗木的年生长节律，可以了解苗木在苗期的生长特性，了解其生长类型，以确定田间管理措施和抓住关键时期，这是生产中提高苗木质量、培育优良苗木的重要技术环节（杨万霞，2013)。目前对苦楝苗期生长节律及模型拟合的研究相对较少，且不同种源或产地苗木在不同栽培地区所表现出的生长规律也存在较大的差异（程诗明和顾万春，2006，陈丽君等，2014)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以不同产地苦楝1年生苗为研究对象，对苗高、地径生长情况进行定期观测，比较不同产地苦楝生长性状的差异，并采用数学模型进行拟合，分析苦楝苗期年生长节律，比较各阶段生长特点，以抓住关键时期并确定培育优质壮苗的田间管理措施，同时对不同产地苦楝苗期生长变异情况进行系统分析，并采用数学模型进行拟合，对不同构件生物量及叶片相关性状指标进行比较分析，拟探究以下问题：（1）不同产地间苦楝幼苗生长差异性如何？（2）苦棟1年生苗生长节律及在各生长阶段有什么生长特点？（3）各生长性状与产地地理气候因子的相关性如何？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验地概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验地设在南京市溧水区和凤镇毛公铺村俞家（ $\\mathrm { ~ \\Omega ~ } ^ { \\mathrm { ~ I ~ 1 8 ~ } ^ { \\circ } } \\mathrm { ~ 5 9 ~ } ^ { \\prime }$ E， $3 1 ^ { \\circ } 2 5 ^ { \\prime } \\mathrm { ~ N ~ } \\rangle$ ，土壤疏松，排水良好，地处亚热带季风气候区，气候温和湿润，四季分明，降雨主要集中在6一9月，平均年降雨量1037",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "mm，年均温 $1 5 . 5 ~ \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，全年无霜期 $2 2 2 { \\sim } 2 2 4 \\mathrm { ~ d ~ }$ ，地形为低山丘陵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2试验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2016 年11—12月在我国华东、华中和华南地区选取15个苦楝天然产地进行采种，各采样点地理分布和气候条件见表1。每采样点选取生长健壮、无病虫害且达到大量开花结实年龄的采种母树10\\~20 棵，采种母树间隔 $3 0 0 \\mathrm { ~ m ~ }$ 以上，果核淘洗干净后于通风干燥处保存，每个产地由不同母树果核等量混合而成。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/dad41b0e047bb06d074860cb9f848e4874b98376722699ebbb897fd7359448c0.jpg",
+        "table_caption": [
+            "表1苦楝采种点地理位置和气候条件",
+            "Table 1 Location and climatic conditions of Melia azedarach seed collection sites "
+        ],
+        "table_footnote": [
+            "注：JSNJ．江苏南京；JSPZ．江苏邳州；SDDM．山东东明；JSTX．江苏泰兴；JXNC．江西南昌；HNXY.河南信阳；AHHF．安徽合肥；SDDY．山东东营；GDST．广东汕头；GXNN．广西南宁；HNCS．湖南长沙；HBJZ．湖北荆州；ZJLA．浙江临安；ZJYQ．浙江乐清；JXJGS．江西井冈山。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">产地 Surde</td><td rowspan=\"2\">经度 Longitude Latitude</td><td rowspan=\"2\">纬度</td><td rowspan=\"2\">海拔 Atitud</td><td rowspan=\"2\">年均气温 Annual Averatu</td><td rowspan=\"2\">1月均温 Average tein Jaur</td><td rowspan=\"2\">7月均温 Average</td><td>年平均降雨 量Annual</td><td>无霜期 Frost-fr</td></tr><tr><td>in Ju1.a cc)</td><td>prenipitat</td><td>ee season</td></tr><tr><td>JSNJ</td><td>118° 49'</td><td>32°05'</td><td></td><td>12~20</td><td>15.4</td><td>2.0</td><td>28.8</td><td>1 106</td><td>237</td></tr><tr><td>JSPZ</td><td>117° 59'</td><td>34°21'</td><td></td><td>18~32</td><td>14.2</td><td>-4.1</td><td>31.6</td><td>868</td><td>210</td></tr><tr><td>SDDM</td><td>115° 01'</td><td>35°16'</td><td></td><td>54~65</td><td>13.7</td><td>-2.8</td><td>30.8</td><td>630</td><td>215</td></tr><tr><td>JSTX</td><td>120° 03'</td><td>32°17'</td><td></td><td>3~6</td><td>14.5</td><td>2.1</td><td>27. 6</td><td>991</td><td>215</td></tr><tr><td>JXNC</td><td>115° 52'</td><td>28°40'</td><td></td><td>55~112</td><td>17.6</td><td>6.4</td><td>29.4</td><td>1 458</td><td>277</td></tr><tr><td>HNXY</td><td>114° 01'</td><td>31°49'</td><td></td><td>60~150</td><td>15.3</td><td>2.2</td><td>27.4</td><td>1 100</td><td>225</td></tr><tr><td>AHHF</td><td>117° 9'</td><td>31°50'</td><td></td><td>45~88</td><td>15.7</td><td>2.1</td><td>28.3</td><td>1000</td><td>228</td></tr><tr><td>SDDY</td><td>118° 34'</td><td>37° 25'</td><td></td><td>3~5</td><td>12.8</td><td>-2.6</td><td>26.8</td><td>556</td><td>206</td></tr><tr><td>GDST GXNN</td><td>116° 39'</td><td>23°19'</td><td></td><td>5~10</td><td>20.0</td><td>13.1</td><td>28.3</td><td>1 600</td><td>350</td></tr><tr><td>HNCS</td><td>108° 24'</td><td>22°47'</td><td></td><td>95~122</td><td>21.6</td><td>12.8</td><td>28.3</td><td>1310</td><td>340</td></tr><tr><td>HBJZ</td><td>112° 55' 112°</td><td>28°11'</td><td></td><td>88~180</td><td>17.2</td><td>4.7</td><td>29.3</td><td>1 361</td><td>275</td></tr><tr><td>ZJLA</td><td>10' 119°</td><td>30°22’</td><td></td><td>30~55</td><td>15.9</td><td>4.1</td><td>28.0</td><td>1 250</td><td>255</td></tr><tr><td>ZJYQ</td><td>42' 120°</td><td>30°15'</td><td>27°57'</td><td>35~160 38~128</td><td>16.0</td><td>4.3</td><td>28.4</td><td>1 614 1 717</td><td>237 305</td></tr><tr><td>JXJGS</td><td>41' 115°</td><td>27°06'</td><td></td><td>66~225</td><td>17.6</td><td>6.4</td><td>29.4</td><td>1 458</td><td>277</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Note: JSNJ. Nanjing， Jiangsu； JSPZ. Pizhou， Jiangsu； SDDM. Dongming， Shangdong； JSTX.  \nTaixing，Jiangsu; JXNC. Nanchang， Jiangxi;HNXY. Xinyang,Henan； AHHF. Hefei,Anhui;SDDY.  \nDongying， Shandong； GDST.Shantou, Guangdong；GXNN.Nanning，Guangxi; HNCS.Changsha，Hunan;  \nHBJZ. Jingzhou, Hubei; ZJLA. Linan， Zhejiang; ZJYQ. Yueqing， Zhejiang; JXJGS. Jinggangshan,Jiangxi. The same below.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3试验设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2017年3月15日，温水浸种3d，3月18日进行播种育苗。采用随机区组试验设计，3个小区。每个产地每小区播种10行，行距 $3 0 ~ \\mathrm { c m }$ ，每行播种10粒，播种后苗床铺设遮阳网保湿。4月25日左右，大部分种子发芽，揭去遮阳网，由于每个果核有多粒种子，发芽后幼苗成丛，待苦楝苗高10cm左右进行间苗，株距 $1 5 { \\sim } 2 0$ cm。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4指标测定方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "苗高、地径：每个产地在每小区随机选择10株苗，共30株苗木进行挂牌，作为固定观测株，从2017年5月15日起至2017年11月20日苗木生长停止为止，用卷尺和游标卡尺测量苗高和地径，分别精确到0.1cm和 $0 . 0 1 \\ \\mathrm { m m }$ ，每15 d测量一次。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生物量：苗木停止生长落叶后，每产地选择10株接近平均苗木进行生物量测定，起苗时要保证根系的完整。苗木带回实验室，冲洗干净根部土壤，从根茎处剪开，分地上和地下部分，在105‘℃下烘干至质量恒定，分别称量，精确到0.01 g。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "复叶性状：2017年9月中旬，苗木生长达到成熟稳定状态时，采摘由顶部数第4或第5片复叶带回实验室，用卷尺测定复叶长、复叶宽，计算长宽比，利用图像处理法测定复叶面积（于守超等，2012)。每产地每个小区采摘5片复叶进行测量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用偏度和峰度法对各指标测定数据进行正态分布检验，采用拉依达准则（Pautacriterion，又称 3o准则）剔除存在异常值的单个样品的整组表型数据（张辉等，2014)。用SPSS23.0统计软件对苗高和地径Logistics曲线拟合（陈丽君等，2014)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Logistics 曲线拟合方程为： $\\begin{array} { r } { y = \\frac { k } { 1 + a e ^ { - b x } } } \\end{array}$ （204号",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $y$ 为苗高或地径生长量； $k$ 为生长潜力，即苗高或地径生长可能达到的极限值，可用等差三点法计算， $\\begin{array} { r } { k = \\frac { y _ { 2 } ^ { 2 } ( y _ { 1 } + y _ { 2 } ) - 2 y _ { 1 } y _ { 2 } y _ { 3 } } { y _ { 2 } ^ { 2 } - y _ { 1 } y _ { 3 } } } \\end{array}$ ； $\\cdot$ 为生长时间， $a$ ， $b$ 为待测系数，可通过SPSS非线性回归分析求解。对拟合方程进行三阶求导，得S曲线瞬间斜率连续变化最快的2个点，即速生期起始点 $x _ { 1 }$ 和速生期结束点x，x1=n bln2+3，x2=lna, l𝑛，两点之间为速生期。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1幼苗生长性状的差异 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "方差分析表明，不同产地苦楝1年生苗高、地径累积生长量差异均达显著水平（ $( ^ { \\prime } ( 0 . 0 5 )$ ，根生物量、茎生物量及复叶相关性状差异均达极显著性水平（ $P ( 0 . 0 1 )$ ，各指标的变异系数为 $1 3 . 2 2 \\% \\sim$ $4 4 . 0 1 \\%$ ，说明苦楝苗木各生长性状在产地间存在显著变异（表2)。由表2可知，广东汕头、广西南宁、浙江临安和江西井冈山产地的苗高和地径生长均较快，河南信阳和山东东营产地表现较差；广东汕头、浙江临安和江西井冈山产地的根、茎生物量积累均较大，而苗高、地径生长表现较差的河南信阳和山东东营产地生物量积累则相对较低；复叶长、宽最大的分别是江西井冈山和湖南长沙产地，而山东东营和江苏邳州的复叶长、宽则显著低于其他产地；复叶面积最大的是江西井冈山产地，广西南宁产地复叶面积最小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2苗期生长节律差异分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图1、2可知，不同产地苦楝苗高、地径生长节律基本一致，总体均呈现“慢-快-慢”的趋势，为典型的S型生长曲线。出苗后至7月上旬，苗高生长缓慢，产地间差异不大，7月中旬苗高生长进入快速生长期，到9月中旬，苗高生长差异逐渐增大，9月下旬至10月上旬，苗高生长速度放缓，且生长量并不明显；出苗后至6月底期间，地径生长均较为缓慢，且产地间差异不大；7月初，地径生长速度显著提高，产地间差异不断增大，一直持续到10月中旬，10月下旬以后地径生长逐渐放缓甚至停止生长。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在不同时间内苦楝苗高、地径净增长量均存在较大差异，但总体上均存在2次生长高峰，且不同产地出现生长高峰的时间不一致（图3、4)。苗高生长第1次生长高峰均出现在7月中旬，之后生长速度减缓，江苏南京、江苏泰兴、河南信阳、安徽合肥、山东东营、湖北荆州、浙江临安和浙江乐清产地在8月中旬出现第2次生长高峰，其余产地则在8月底至9月上旬达到第2次生长高峰。各产地地径生长出现第1次生长高峰相对比较集中，均出现在7月下旬，除湖南长沙和广东汕头产地外，其余产地在8月地径生长均有所减缓，9月中旬至9月底，各产地地径分别生长出现第2次生长高峰。总体而言，与苗高生长高峰期相比，地径生长高峰出现时间相对较晚。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2苦楝各生长性状比较 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/166fa1c9a332dfa9d6628e67743420ed840dbf41e6d702d24489f77443c23c93.jpg",
+        "table_caption": [
+            "Tab.2Analysis on growth traits of Melia azedarach seedlings "
+        ],
+        "table_footnote": [
+            "注：表中数据为平均值±标准差，同列中不同小写字母和大写字母分别表示在0.05和0.01水平下差异显著，\\*，\\*\\*分别表示在0.05或0.01水平下"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">产地 Seed source</td><td rowspan=\"2\">Seedling height</td><td rowspan=\"2\">苗高</td><td rowspan=\"2\">地径 根生物量</td><td>茎生物量</td><td>茎根比</td><td rowspan=\"2\">复叶长 Ratio of root to</td><td rowspan=\"2\"></td><td rowspan=\"2\">复叶宽</td><td rowspan=\"2\">复叶面积 Leaf area（cm)</td></tr><tr><td>Biomass of</td><td>Biomass of</td></tr><tr><td></td><td></td><td>（cm）</td><td>Ground diameter(mm）</td><td>Root（g）</td><td>Stem（g）</td><td>shoot</td><td>Leaf length（cm）</td><td>Leaf width（cm)</td><td></td></tr><tr><td></td><td>JSNJ</td><td>160.49±8.78bc</td><td>12.28±1.04bcdef</td><td>28.98±4.92BCD</td><td>31.16±5.31CD</td><td>1.07±0.18BCD</td><td>25.52±4.57EFG</td><td>16.23±2.84CD</td><td>137.94±39.95E</td></tr><tr><td></td><td>JSPZ</td><td>147.07±15.66cd</td><td>12.59±2.51bcdef</td><td>31.23±5.31BCD</td><td>23.82±3.65DE</td><td>0.76±0.13DEF</td><td>23.33±3.37G</td><td>14.59±2.34D</td><td>124.66±40.52E</td></tr><tr><td>></td><td>SDDM</td><td>148.34±15.85cd</td><td>11.34±1.38ef</td><td>24.62±4.19CDE</td><td>16.85±2.93EF</td><td>0.68±0.12FG</td><td>24.06±5.18FG</td><td>15.17±2.42D</td><td>149. 4±67. 54DE</td></tr><tr><td>3</td><td>JSTX</td><td>164.81±21.23bc</td><td>11.55±3.08def</td><td>17.24±2.93E</td><td>23.47±3.34DE</td><td>1.36±0.23AB</td><td>26.39±5.91EFG</td><td>16.78±3.84CD</td><td>160.89±51.23CDE</td></tr><tr><td></td><td>JXNC</td><td>148.67±16.36cd</td><td>12.92±2.52bcdef</td><td>37.23±6.34B</td><td>28.91±4.22CD</td><td>0.78±0.13DEF</td><td>31.39±2.93BCD</td><td>18.14±1.58ABCD</td><td>202.44±33.75BC</td></tr><tr><td>D D</td><td>HNXY</td><td>134.06±16.66d</td><td>10.25±0.90f</td><td>24.82±4.22CDE</td><td>10.49±2.32F</td><td>0.42±0.07G</td><td>25.68±2.78EFG</td><td>15.42±1.54CD</td><td>140.43±30.44E</td></tr><tr><td>N</td><td>AHHF</td><td>144.33±12.26cd</td><td>12.91±0.86bcdef</td><td>35.32±6.01BC</td><td>25.46±5.55CDE</td><td>0.72±0.12EF</td><td>28.78±2.99CDEF</td><td>19.3±2.35ABC</td><td>148.82±68.34DE</td></tr><tr><td></td><td>SDDY</td><td>145.95±14. 64cd</td><td>10.45±1.97f</td><td>14.09±2.40E</td><td>15.21±4.21EF</td><td>1.08±0.18BCD</td><td>22.31±3.54G</td><td>14.94±3.30D</td><td>130.24±41.67E</td></tr><tr><td>N</td><td>GDST</td><td>195.23±13.38a</td><td>15.59±4.15ab</td><td>48.62±8.27A</td><td>49.89±9.88A</td><td>1.03±0.17CDE</td><td>32.98±7.46BC</td><td>19.23±1.82ABC</td><td>195.13±70.70BCD</td></tr><tr><td>D</td><td>GXNN</td><td>178.22±11. 44ab</td><td>14.46±1.23abcd</td><td>31.95±5.44BCD</td><td>44.36±7.84AB</td><td>1.39±0.24A</td><td>26.82±5.07DEFG</td><td>18.41±4.20ABCD</td><td>114.48±18.06E</td></tr><tr><td>7</td><td>HNCS</td><td>144.34±5.28cd</td><td>14.32±2.82abcde</td><td>36.77±6.26B</td><td>41.89±4.25AB</td><td>1.14±0.19ABC</td><td>33.67±4.13B</td><td>21.90±2.41A</td><td>198.51±51.16BCD</td></tr><tr><td></td><td>HBJZ</td><td>147.51±3.58cd</td><td>12.08±0.99cdef</td><td>21.45±3.65DE</td><td>22.35±3.26DE</td><td>1.04±0.18CD</td><td>25.04±2.91FG</td><td>15.21±1.54D</td><td>130.38±19.99E</td></tr><tr><td></td><td>ZJLA</td><td>160.07±7.51bc</td><td>16.12±3.59a</td><td>55.58±9.46A</td><td>47.25±8.25A</td><td>0.85±0.14CDEF</td><td>33.33±8.17BC</td><td>17.75±3.08BCD</td><td>217.98±78.20B</td></tr><tr><td>D</td><td>ZJYQ</td><td>163.49±14.50bc</td><td>13.02±1.06bcdef</td><td>33.83±5.77BC</td><td>35.58±6.78BC</td><td>1.05±0.18CD</td><td>30.2±2.51bCDE</td><td>16.63±2.03CD</td><td>167.94±11.46BCDE</td></tr><tr><td></td><td>JXJGS</td><td>157.53±5.84bc</td><td>14.87±1.21abc</td><td>50.29±8.68A</td><td>47.81±8.54A</td><td>0.94±0.16CDEF</td><td>42.12±10.58A</td><td>21.01±1.40AB</td><td>274.39±116.04A</td></tr><tr><td>S 变异系数</td><td>均值Mean</td><td>150.11</td><td>12.98</td><td>32.85</td><td>30.96</td><td>0.95</td><td>28. 77</td><td>17.38</td><td>166.24</td></tr><tr><td>Variation</td><td></td><td>13.22</td><td>21.73</td><td>39.61</td><td>44.01</td><td>33.06</td><td>25.05</td><td>19. 44</td><td>40. 67</td></tr><tr><td>coefficients （CV，%）</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>F值Fvalue</td><td></td><td>5.51*</td><td>3.91*</td><td>22.275**</td><td>15.36**</td><td>7.077**</td><td>13.213**</td><td>4.168**</td><td>7.607**</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "差异显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note:Data in the table are mean $\\pm$ standard deviation. Different small letters and capital letters in the same column indicate significantdifferencesatthelevelsof0.05and0.0lrespectively.\\*，\\*\\*idicatesignificantdifferencesat0.05or0.0llevel respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/76398e1506e6ecee64620da82793e50bfbe020780c3e9831cf730afa2ecc473f.jpg",
+        "img_caption": [
+            "图1苦楝苗高累积生长曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注：JSNJ．江苏南京；JSPZ．江苏邳州；SDDM．山东东明；JSTX．江苏泰兴；JXNC．江西南昌；HNXY．河南信阳；AHHF．安徽合肥；SDDY．山东东营；GDST．广东汕头；GXNN．广西南宁；HNCS．湖南长沙；HBJZ．湖北荆州；ZJLA．浙江临安；ZJYQ．浙江乐清；JXJGS．江西井冈山。下同。Note: JSNJ. Nanjing， Jiangsu； JSPZ. Pizhou， Jiangsu；SDDM. Dongming， Shangdong;JSTX. Taixing， Jiangsu;JXNC. Nanchang， Jiangxi;HNXY. Xinyang,Henan；AHHF.Hefei,Anhui;SDDY. Dongying， Shandong； GDST. Shantou, Guangdong； GXNN.Nanning,Guangxi; HNCS. Changsha, Hunan; HBJZ. Jingzhou, Hubei; ZJLA. Linan， Zhe jiang； ZJYQ.Yueqing， Zhejiang； JXJGS. Jinggangshan， Jiangxi. The same below.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1 Accumulated growth curve of height of Melia azedarach seedlings ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d89007a7b7d349af19221b2114dde9dfd6b741385a81dcd2f7d1574669fb5ab.jpg",
+        "img_caption": [
+            "图2苦楝地径累积生长曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2 Accumulated growth curve of ground diameter of Melia azedarach seedlings ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d212a2fdeb2b5cfedba8e82d744434e5739e0a9e7008c05f249e2640e1d3a07.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 Net growth curve of height of Melia azedarach seedlings ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/e074b254c01da7519c235401644181a2be24697e99a529006ab18eca2da5f55e.jpg",
+        "img_caption": [
+            "图3苦楝苗高净生长曲线",
+            "图4苦楝地径净生长曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 Net growth curve of ground diameter of Melia azedarach seedlings ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.3苗期生长模型的拟合及生长特点分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "以苗高和地径观测数据为基础，用Logistic方程拟合苦楝的生长模型（表3)，由表可知，苗高、地径拟合方程的 $\\boldsymbol { R } ^ { 2 }$ 为 $1 0 . 9 7 6 { \\sim } 0 . 9 9 4$ ，均达到了极显著相关水平。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "根据Logistic方程求出不同产地苦楝苗木生长模型的两个拐点 $x _ { 1 }$ 和 $x _ { 2 }$ ，两点之间为速生期， $x _ { 1 }$ 之前为幼苗期， $x _ { 2 }$ 之后为生长后期。不同产地苦楝在不同生长阶段的起始时间、持续时间及净生长量等指标见表4。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，与地径相比，苗高进入速生期时间相对较晚，且结束速生期时间相对较早，即苗高速生期持续时间较短，经理论计算结合实际观测，苗高速生期总体上比地径速生期短$2 0 { \\sim } 3 0$ d。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "不同产地苗高进入速生期的时间和持续时间有一定的差异，山东东明和山东东营产地进入速生期和结束速生期时间均较早，而广西南宁产地进入速生期和结束速生期时间均相对较晚，不同产地间苗高速生期持续时间差异规律不明显。地径进入速生期时间和持续时间差异比较明显，最早进入速生期的是山东东营产地，最晚进入速生期的是广东汕头产地，速生期持续时间最短的是河南信阳产地，持续时间最长的是浙江临安产地。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，苦楝在不同生长阶段内的生长量存在显著差异。在幼苗期和生长后期，苗高和地径累积生长量分别占总生长量的 $3 5 \\% \\sim 3 9 \\%$ 和 $2 5 \\% \\sim 3 8 \\%$ ，在6一9月的速生期苗高和地径累积生长量均超过总生长量的 $6 0 \\%$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表3苦楝苗高和地径的Logistic拟合方程",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/3cb67aafab4ba6980b7a05edcde08a28411e48d3d388157a403efdafe7a1b17f.jpg",
+        "table_caption": [
+            "Table 3 Logistics regression of heights and ground diameters of one-year-old Melia azedarach seedlings "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">产地 Seed source</td><td colspan=\"2\">苗高 Seedling height</td><td colspan=\"2\">地径 Ground diameter</td></tr><tr><td>Logistic方程</td><td>R</td><td>Logistic方程</td><td>R</td></tr><tr><td></td><td>Logistic model</td><td>R-value</td><td>Logistic model</td><td>R-value</td></tr><tr><td>JSNJ</td><td>y=166.091/(1+29.772e-0.043x)</td><td>0.976</td><td>y=13.800/(1+11.681e-0.029x)</td><td>0.978</td></tr><tr><td>JSPZ</td><td>y=152.706/(1+24.172e-0.042x)</td><td>0.994</td><td>y=13.652/(1+11.489e-0.03x)</td><td>0. 992</td></tr><tr><td>SDDM</td><td>y=152.777/(1+32.343e-0.046x)</td><td>0.988</td><td>y=12.098/(1+10.426e-0.031x)</td><td>0.987</td></tr><tr><td>JSTX</td><td>y=168.916/(1+23.906e-0.043x)</td><td>0.992</td><td>y=12.372/(1+16.469e-0.033.x)</td><td>0.987</td></tr><tr><td>JXNC</td><td>y=154.458/(1+20.683e-0.040.x)</td><td>0.976</td><td>y=13.782/(1+12.277e-0.031x)</td><td>0.983</td></tr><tr><td>HNXY AHHF</td><td>y=139.273/(1+20.203e-0.040x)</td><td>0.995</td><td>y=10.432/(1+14.814e-0.035x)</td><td>0. 991</td></tr><tr><td>SDDY</td><td>y=149.087/(1+18.547e-0.041x)</td><td>0.987</td><td>y=13.909/(1+13.058e-0.03x)</td><td>0. 976</td></tr><tr><td>GDST</td><td>y=150.096/(1+22.257e-0.044x)</td><td>0.985</td><td>y=11.049/(1+7.939e-0.029x)</td><td>0.988</td></tr><tr><td></td><td>y=201.714/(1+28.586e-0.041x)</td><td>0.978</td><td>y=16.870/(1+15.597e-0. 03x)</td><td>0.989</td></tr><tr><td>GXNN</td><td>y=184.879/(1+35.130e-0.042x)</td><td>0.987</td><td>y=15.499/(1+14.874e-0. 031x)</td><td>0. 992</td></tr><tr><td>HNCS</td><td>y=150.421/(1+19.460e-0.039x)</td><td>0.991</td><td>y=15.504/(1+13.604e0.03x)</td><td>0.985</td></tr><tr><td>HBJZ</td><td>y=153.793/(1+22.651e-0.041x)</td><td>0.985</td><td>y=12.876/(1+11. 246e-0.031x)</td><td>0. 977</td></tr><tr><td>ZJLA</td><td>y=164.221/(1+35.632e-0.047x)</td><td>0.992</td><td>y=17.895/(1+12.085e-o 027x)</td><td>0.986</td></tr><tr><td>ZJYQ</td><td>y=167.952/(1+42.985e-0.047x)</td><td>0.987</td><td>y=14.264/(1+13.659e-0.029x)</td><td>0.982</td></tr><tr><td>JXJGS</td><td>y=163.857/(1+32.717e-0.044)</td><td>0.993</td><td>y=16.104/(1+13.994e-0.03x)</td><td>0. 976</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表4苦楝苗高和地径生长阶段的划分及有关参数",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ec709c24941043ffe6d3a5c542a8b0bac2d6c33ee95ae6bdccf43697850e7eb.jpg",
+        "table_caption": [
+            "ble 4Phenological phase and growth parameters of heights and ground diameters for Melia azedarach seedlings "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">产地 Seed source</td><td rowspan=\"2\">指标 Trait</td><td colspan=\"2\">幼苗期 Seedling stage</td><td colspan=\"4\">速生期 Fast growing stage</td><td colspan=\"3\">生长后期 Late growth stage</td></tr><tr><td>净生长量 Net growth (cm)</td><td>百分率 Percentage (%)</td><td>起始时间 Starting time</td><td>持续时间 Duration (d)</td><td>净生长量 Net growth</td><td>百分率 Percentage</td><td>起始时间 Starting</td><td>净生长量 Net growth</td><td>百分率 Percentage</td></tr><tr><td>JSNJ</td><td></td><td>26.89</td><td>17. 66</td><td>7.10</td><td>61</td><td>（cm） 95.89</td><td>(%) 62.97</td><td>time 8.31</td><td>(cm) 29.50</td><td>(%) 19.37</td></tr><tr><td>JSPZ</td><td></td><td>25.45</td><td>18.15</td><td>6.27</td><td>63</td><td>88.16</td><td>62.86</td><td>8.29</td><td>26.63</td><td>18.99</td></tr><tr><td> SDDM</td><td></td><td>23.13</td><td>17. 01</td><td>6.22</td><td>61</td><td>86.08</td><td>63.31</td><td>8.23</td><td>26.75</td><td>19.67</td></tr><tr><td>JSTX</td><td></td><td>27.46</td><td>17.54</td><td>6.26</td><td>61</td><td>97.52</td><td>62.29</td><td>8.26</td><td>31.59</td><td>20.18</td></tr><tr><td>JXNC</td><td></td><td>23.98</td><td>17. 13</td><td>6.25</td><td>66</td><td>89.18</td><td>63.70</td><td>8.30</td><td>26.85</td><td>19.18</td></tr><tr><td>HNXY</td><td></td><td>21. 63</td><td>17. 13</td><td>6.25</td><td>66</td><td>80.41</td><td>63.69</td><td>8.30</td><td>24.22</td><td>19.18</td></tr><tr><td>AHHF</td><td>苗高</td><td>26.74</td><td>18.73</td><td>6.29</td><td>58</td><td>88.21</td><td>61. 77</td><td>8.26</td><td>27.85</td><td>19.50</td></tr><tr><td>SDDY</td><td>Seedling</td><td>25.16</td><td>18.05</td><td>6.23</td><td>60</td><td>86.66</td><td>62.17</td><td>8.22</td><td>27.57</td><td>19.78</td></tr><tr><td>GDST</td><td>height</td><td>35.08</td><td>18.69</td><td>7.20</td><td>64</td><td>116.46</td><td>62.05</td><td>9.40</td><td>36.14</td><td>19.26</td></tr><tr><td>GXNN</td><td></td><td>32.22</td><td>18.80</td><td>7.60</td><td>63</td><td>106. 74</td><td>62.29</td><td>9.70</td><td>32. 41</td><td>18.91</td></tr><tr><td>HNCS</td><td></td><td>23.34</td><td>17. 17</td><td>6.25</td><td>67</td><td>86.85</td><td>63.91</td><td>8.31</td><td>25.71</td><td>18.92</td></tr><tr><td>HBJZ</td><td></td><td>24.73</td><td>17.70</td><td>6.26</td><td>65</td><td>88.79</td><td>63.54</td><td>8.30</td><td>26.22</td><td>18.76</td></tr><tr><td>ZJLA</td><td></td><td>28.37</td><td>18.45</td><td>7.10</td><td>56</td><td>94.81</td><td>61.67</td><td>8.26</td><td>30.55</td><td>19.87</td></tr><tr><td>ZJYQ</td><td></td><td>26.95</td><td>17.39</td><td>7.40</td><td>57</td><td>96.97</td><td>62.58</td><td>8.30</td><td>31.03</td><td>20.03</td></tr><tr><td>JXJGS</td><td></td><td>28.41</td><td>18.78</td><td>7.20</td><td>60</td><td>94.60</td><td>62.52</td><td>8.31</td><td>28.30</td><td>18.70</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/acaa3b0076d25e84aa59c599cd3f43f81368e92507eac6deaa4dce625b9be4f8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">幼苗期</td><td colspan=\"4\">速生期</td><td colspan=\"3\">生长后期</td></tr><tr><td rowspan=\"3\">产地 Seed source</td><td rowspan=\"3\">指标 Trait</td><td colspan=\"2\">Seedling stage</td><td colspan=\"4\">Fast growing stage</td><td colspan=\"3\">Late growth stage</td></tr><tr><td>净生长量</td><td>百分率</td><td>起始时间</td><td>持续时间</td><td>净生长量</td><td>百分率</td><td>起始时间</td><td>净生长量</td><td>百分率</td></tr><tr><td>Net growth</td><td>Percentage</td><td>Starting</td><td>Duration</td><td>Net growth</td><td>Percentage</td><td>Starting</td><td>Net growth</td><td>Percentage</td></tr><tr><td>JSNJ</td><td></td><td>(cm)</td><td>(%)</td><td>time</td><td>(d)</td><td>(cm)</td><td>(%)</td><td>time</td><td>（(cm）</td><td>（%）</td></tr><tr><td></td><td></td><td>1.70</td><td>14.67</td><td>6.22</td><td>91</td><td>7.97</td><td>68.77</td><td>9.21</td><td>1.92</td><td>16.57</td></tr><tr><td>JSPZ</td><td></td><td>1.66</td><td>14. 61</td><td>6.20</td><td>88</td><td>7.88</td><td>69.37</td><td>9.16</td><td>1.82</td><td>16.02</td></tr><tr><td>SDDM</td><td></td><td>1.54</td><td>14.92</td><td>6.16</td><td>85</td><td>6.98</td><td>67. 64</td><td>9.90</td><td>1.80</td><td>17. 44</td></tr><tr><td>JSTX</td><td></td><td>1. 73</td><td>16.23</td><td>6.27</td><td>80</td><td>7. 14</td><td>66.98</td><td>9.15</td><td>1. 79</td><td>16.79</td></tr><tr><td>JXNC</td><td></td><td>1.93 1. 62</td><td>16.16</td><td>6.21</td><td>85</td><td>7.96</td><td>66.67</td><td>9.14</td><td>2.05</td><td>17.17</td></tr><tr><td>HNXY</td><td>地径</td><td></td><td>17. 22</td><td>6.22</td><td>75</td><td>6.02</td><td>63.97</td><td>9.50</td><td>1. 77</td><td>18.81</td></tr><tr><td>AHHF</td><td></td><td>2. 17</td><td>17.87</td><td>6.24</td><td>88</td><td>8.03</td><td>66.14</td><td>9.20</td><td>1.94</td><td>15.98</td></tr><tr><td> SDDY</td><td>Ground</td><td>1. 10</td><td>11. 93</td><td>6.10</td><td>89</td><td>6.38</td><td>69.20</td><td>9.70</td><td>1. 74</td><td>18.87</td></tr><tr><td>GDST</td><td>diameter</td><td>2.25</td><td>15.76</td><td>6.30</td><td>88</td><td>9. 74</td><td>68.21</td><td>9.26</td><td>2.29</td><td>16.04</td></tr><tr><td>GXNN</td><td></td><td>2.40</td><td>17. 66</td><td>6.27</td><td>85</td><td>8.95</td><td>65.86</td><td>9.20</td><td>2.24</td><td>16.48</td></tr><tr><td>HNCS</td><td></td><td>2.30</td><td>17. 27</td><td>6.26</td><td>87</td><td>8.95</td><td>67.19</td><td>9.21</td><td>2.07</td><td>15.54</td></tr><tr><td>HBJZ</td><td></td><td>1. 70</td><td>15.37</td><td>6.18</td><td>85</td><td>7.43</td><td>67.18</td><td>9.11</td><td>1.93</td><td>17. 45</td></tr><tr><td>ZJLA</td><td></td><td>2.80</td><td>18.49</td><td>6.26</td><td>98</td><td>10.33</td><td>68.23</td><td>10.20</td><td>2.01</td><td>13.28</td></tr><tr><td>ZJYQ</td><td></td><td>2.11</td><td>17. 41</td><td>6.27</td><td>91</td><td>8.24</td><td>67.99</td><td>9.26</td><td>1. 77</td><td>14.60</td></tr><tr><td>JXJGS</td><td></td><td>2.52</td><td>18.01</td><td>6.27</td><td>87</td><td>9.30</td><td>66.48</td><td>9.22</td><td>2.17</td><td>15.51</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.4生长性状的相关性分析 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，苗高与茎生物量、地径与根生物量和茎生物量之间相关性均达到极显著水平（ $\\mathrm { \\mathit { P } } { < } 0 . \\mathrm { \\ } 0 1 \\mathrm { \\ } \\cdot$ )，各复叶性状与地径、根生物量、茎生物量均呈显著或极显著的正相关关系，而苗高与根生物量、复叶长、复叶宽及复叶面积相关性不显著，说明苦棘1年生幼苗苗高对其根系生物量积累及复叶生长性状的影响不明显。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Table 5 Correlation analysis among growth traits of different seed sources of Melia ",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b345f587fa9f40995c11aa8bd94b7cd7a0ec6d1a22da1769c1a80bf36d8ad98.jpg",
+        "table_caption": [
+            "表5苦楝产地间生长性状相关性分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"9\">azedarach seedlings</td></tr><tr><td>性状 Trait</td><td>苗高 Seedling</td><td>地径 Ground</td><td>根生物量 Biomass of</td><td>茎生物量 Biomass of</td><td>茎根比 Ratio of</td><td>复叶长Leaf</td><td>复叶宽Leaf</td><td>复叶面积</td></tr><tr><td>苗高</td><td>height</td><td>diameter</td><td>root</td><td>stem</td><td>root to shoot</td><td>length</td><td>width</td><td>Leaf area</td></tr><tr><td>Seedling</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>height 地径</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ground</td><td>0.615*</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>diameter 根生物量</td><td></td><td>0.892*</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Biomass</td><td>0.388</td><td>*</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>of root 茎生物量</td><td></td><td>0.967*</td><td>0.830**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>Biomass</td><td>0.688**</td><td>*</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>of stem</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>茎根比</td><td></td><td></td><td>-0.135</td><td>0.423</td><td>1</td><td></td><td></td><td></td></tr><tr><td>Ratio of</td><td>0.579*</td><td>0.285</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>root to</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>shoot</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>复叶长</td><td></td><td>0.732*</td><td>0.830**</td><td>0.769**</td><td>0.042</td><td></td><td></td><td></td></tr><tr><td>Leaf</td><td>0.272</td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td></tr><tr><td>length</td><td></td><td>*</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>复叶宽</td><td></td><td></td><td>0.658**</td><td></td><td>0.240</td><td></td><td></td><td></td></tr><tr><td>Leaf</td><td>0.274</td><td>0.700*</td><td></td><td>0.743**</td><td></td><td>0.837**</td><td>1</td><td></td></tr><tr><td></td><td></td><td>*</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>width</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>复叶面积 Leaf area</td><td>0.159</td><td>0.605*</td><td>0.761**</td><td>0.621*</td><td>-0.069</td><td>0.939**</td><td>0.691**</td><td>1</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "大量研究指出，苗木生长存在广泛的地理变异，影响这些变异的除了苗木自身遗传特性，林木生长所处的地理和气候条件也是重要的影响因子。由表6可知，苦楝苗高、根生物量及复叶面积与经度呈正相关关系，而其他指标与经度呈负相关关系；各生长指标均与纬度呈负相关关系，与年均气温、1月均温、年平均降雨量和无霜期均呈正相关关系，说明在年均气温和1月均温较高，无霜期较长的低纬度地区，苦楝苗高和地径的生长期长，生物量积累较多。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Table6 The correlation analysis between growth traits of seedlings and ",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/feed372e65a8aeb85bb6f471f5649b3ae5419b9a1e6af0d2d6230ca2db952c4f.jpg",
+        "table_caption": [
+            "表6苦楝苗期生长性状与地理气候因子相关性分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">geograrhy-climatic factors</td><td>年均气温</td><td></td><td>7月均温</td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">性状 Trait</td><td rowspan=\"2\">经度 Longitude</td><td rowspan=\"2\">纬度</td><td rowspan=\"2\">海拔 Latitude Atitude</td><td>Annual</td><td>1月均温 Average</td><td>Average</td><td>年平均降雨量</td><td>无霜期</td></tr><tr><td>average</td><td>temperature</td><td>temperature</td><td>Annual</td><td>Frost-free</td></tr><tr><td></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td>temperature</td><td>in Jan.</td><td>in Jul.</td><td>precipitation</td><td>season</td></tr><tr><td>苗高 Seedling 0.042</td><td>-0.084 0.673**</td><td>0.722**</td><td>-0.075</td><td>0.475</td><td>0.731**</td></tr><tr><td>height</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>地径</td><td>0.333</td><td></td><td></td><td></td><td></td></tr><tr><td>Ground</td><td>0.670**</td><td>0.650**</td><td>0.351</td><td>0.735**</td><td>0.639*</td></tr><tr><td>diameter</td><td rowspan=\"3\">0.028</td><td rowspan=\"3\">-0.605*</td><td rowspan=\"3\"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>根生物量 Biomass</td><td>0.460</td><td>0.536*</td><td>0.521*</td><td>0.386</td><td>0.493</td></tr><tr><td>of root</td><td></td><td></td><td></td><td>0.734**</td><td></td></tr><tr><td>茎生物量</td><td rowspan=\"3\">-0.091</td><td rowspan=\"3\">-0.783**</td><td rowspan=\"3\">0.380</td><td rowspan=\"3\">0.752**</td><td rowspan=\"3\">0.742**</td><td rowspan=\"3\">0.263</td><td rowspan=\"3\">0.770**</td><td rowspan=\"3\">0.737**</td></tr><tr><td>Biomass</td><td></td></tr><tr><td>of stem</td></tr><tr><td>茎根比</td><td rowspan=\"3\">-0.064</td><td rowspan=\"3\">-0.335</td><td rowspan=\"3\">-0.091</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td></tr><tr><td></td><td>0.408 -0.188</td></tr><tr><td>Ratio of root to</td></tr><tr><td>shoot</td><td rowspan=\"3\">-0.031</td><td rowspan=\"3\">-0.614*</td><td rowspan=\"3\">0.686**</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td></tr><tr><td>复叶长</td><td>0.551*</td></tr><tr><td>Leaf</td></tr><tr><td>length</td><td rowspan=\"3\">-0.243</td><td rowspan=\"3\">-0.651**</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td></tr><tr><td>复叶宽</td></tr><tr><td>Leaf</td></tr><tr><td></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\">0.582*</td><td rowspan=\"3\">0. 171</td><td rowspan=\"3\">0.554*</td><td rowspan=\"3\">0.539*</td></tr><tr><td>width</td><td></td></tr><tr><td>复叶面积</td></tr><tr><td>Leaf</td><td rowspan=\"3\">0.148</td><td rowspan=\"3\">-0.389</td><td rowspan=\"3\">0.625*</td><td rowspan=\"3\">0.261</td><td rowspan=\"3\">0.334</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td>area</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\">0.195</td><td rowspan=\"3\">0.584*</td><td rowspan=\"3\">0.269</td></tr><tr><td></td></tr><tr><td></td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3．讨论与结论",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "目前，苦楝以种子繁殖为主要繁殖方式，因此研究实生苗的生长节律，比较产地间的苗期生长表现及性状变异，是苦楝优良种质选育的重要途径。研究发现，各生长性状在产地间均达到显著或极显著差异水平。苦楝分布广泛，且各分布区环境条件复杂，长时间地理隔离有可能造成物种的生殖隔离，再加上自然选择，不同产地苦楝必然会产生丰富的遗传变异。本试验是在同一试验地开展，且人工管理措施一致，因此认为这种差异主要是种子产地地理气候条件及自身遗传差异造成的，说明苦楝有较大的遗传改良潜力。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明，苦楝幼苗苗高和地径生长均存在2次生长高峰，且总体上到达高峰的时间相互交错，因此认为苦楝生长类型属于全期生长型，这与同科植物麻棘（Chukrasiatabularis）（武冲，2013）、红椿（Toonaciliata）（李培等，2017）生长节律相似，并与黄连木（Pistaciachinensis）（陈隆升，2009）、青钱柳（Cyclocarya paliurus）（杨万霞,2013)等具有相似趋势。各产地苦楝苗高和地径生长均呈现慢-快-慢的S型曲线,Logistic方程拟合回归关系达极显著水平，说明可以用Logistic方程对其生长节律进行拟合分析，与陈丽君等（2014）和李培等（2017）研究结果一致。理论计算结合实际观测分析表明，苗高和地径生长均可划分为出苗期、速生期和生长后期3个阶段，产地间各个生长阶段的持续时间存在显著差异。总体而言，北方产地苗高和地径进入速生期和结束速生期的时间要早于南方产地，与麻栎（Quercusacutissima）（刘志龙，2010）、黄连木（陈隆升，2009）研究结果类似。产生这种现象的原因可能主要与温度和光照有关，与南方产地相比，北方产地生长期对温度的要求较低，所以开始生长早；对于广东汕头和广西南宁等南亚热带产地苗木，种植在北亚热带的南京地区，生长季节内日照相对延长，则会延长生长期，影响封顶，所以速生期结束较晚。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "幼苗生长量是决定苗木质量的重要依据，苗高和地径则是幼苗长势最直接的形态反映，也是衡量苗木质量最为直观的指标（翟明普和马履一，2020)，以速生为选育目标时，速生期的生长量则可作为基本的参考依据（邝雷等，2014)。陈菊艳等（2013）研究指出，生长盛期红花木莲(Manglietiainsignis)苗高和地径净生长量分别占全年总生长量的 $5 8 . 9 0 \\% \\sim$ $6 9 . 3 4 \\%$ 和67. $4 3 \\% \\sim 7 1$ ： $4 9 \\%$ 。而不同种源黄连木幼苗，在不到70d的速生期，苗高累积生长量就占到全年生长量的 $6 0 \\%$ （陈隆升，2009)。本试验结果显示，在6一9月期间，由于雨水充足，日照充分，苦楝苗高和地径累积生长量均超过总生长量的 $6 0 \\%$ ，说明速生期内的苗高和地径生长量决定着苦楝整个生长期的生长量，这也是生长的关键时期，在这一时期应重视苗木养分的供应，以促进苦楝苗木的快速生长，生长后期应停止施肥和减少灌溉，以促进苗木枝干木质化提高抗性。在本试验地条件下，广东汕头、广西南宁、浙江临安、浙江乐清、江西井冈山和江苏南京等产地苗木在速生期苗高和地径净生长量均相对较大，但广东汕头和广西南宁产地苗木在试验地有冻害发生，因此，在试验地附近造林可优先考虑浙江临安、浙江乐清、江西井冈山和江苏南京这4个地区进行采种育苗。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "分布区广的树种，因长期受到不同环境条件的影响和基因交流的限制，种内不同群体间在各种性状上便发生了遗传分化，将不同群体栽植到相同的环境条件下，必然会产生丰富的地理变异（陈晓阳和沈熙环，2005)。不同种源花楸树（Sorbus pohuashanensis）（郑健等，2012）和红椿（李培等，2017）苗期生长性状均受纬度和经度双重控制，红椿以经度控制为主，呈由东到西苗高及地径生长变快的趋势，而纬度在花楸树的变异中起主要作用。闽楠（Phoebe bournei）苗高生长与经度、纬度呈不显著负相关关系，地径生长与经度呈显著负相关关系，与海拔呈显著正相关关系（谭文婧等，2019)。本研究结果表明，苦楝苗期苗高、地径生长及干物质积累均与纬度呈极显著负相关关系，与经度的相关性不明显，与陈羨德等（2008）和廖柏勇（2015）研究结果一致。上述性状与纬度的负相关性实际上是与种源地的温度、年降雨量及无霜期的正相关性，相关分析也证明了这一点，表明温度是制约苦棘生长的主要因素。前文分析认为苦楝属于全期生长型树种，无霜期长意味着生长期的延长，从而利于苦楝的生长和生物量的积累。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "苦楝在我国分布广泛，具有丰富的遗传变异，由于客观条件限制，本试验没有从苦楝全分布区进行采样，仅从华东、华中和华南几个省份采集了15个产地的有限样本，因此研究结论有一定的局限性。为使研究结果更科学合理，还需要进一步扩大采样范围，同时开展田间多点造林试验，进行连年持续跟踪调查，筛选优异种质。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "CHEN JY， DENG LX, CHEN JY，et al.，2013. A study on the annual growth dynamics ofManglietia insignis seedlings from different provenances[J]. Chin Agric ScienceBull，29(31)：8-14.[陈菊艳，邓伦秀，陈景艳，等，2013.不同种源红花木莲实生苗年生长规律研究［J].中国农学通报，29（31)：8-14.]CHEN LJ，LIU MQ，LIAO BY，et al.，2014. Growth traits and growth rhythm of Meliaazedarach seedlings from different provenances[J]. Guangdong Agric Sci， 34(4):  \n1-7.[陈丽君，刘明骞，廖柏勇，等,2014.苦楝不同种源苗期生长性状和生长节律研究［J].西南林业大学学报，34（4)：1-7.]CHEN LJ，LIU MQ,LIAO BY，et al.，2018. Growth traits from different provenancesof Melia azedarach at seedling stage[J]. Guangdong Agric Sci， 45(5): 30-35.[陈丽君，刘明骞，廖柏勇，等，2018．不同种源苦楝苗期生长性状变异研究［J]．广东农业科学，45（5)：30-35．]CHEN LS， 2009. The researches on seed quality and seedling growth characteristicsof Pistacia chinensis Bunge from different provenances[D].Nanjing: NanjingForestry University：27-40.[陈隆升．2009.不同种源黄连木种子品质与苗期生长特性研究[D]．南京:南京林业大学：27-40.]CHEN XD,CHEN LG，QUE MW，et al.，2008. Preliminary study on the provenance testof Melia azedarach at young forest stage[J]. J Fujian Coll For, $2 8 ( 1 ) : 2 3 - 2 6 .$ [陈羨德，陈礼光，阙茂文，等，2008．不同种源苦楝幼林试验初步研究［J]．福建林学院学报，28（1)：23-26.]CHEN XY， SHEN XH，2005. Forest breeding[M]. Beijing: Higher Education Press:  \n51-70.[陈晓阳，沈熙环，2005．林木育种学[M]．北京：高等教育出版社：51-70.]CHENG SM. 2005. Study on genetic diversity of multitudinous populations andconstruction of core germplasm in Melia Azedarach [D]. Beijing: Chinese Academyof Forestry:1-16．［程诗明．2005 苦楝聚合群体遗传多样性研究与核心种质构建[D].北京：中国林业科学研究院：1-16.]CHENG SM. GU WC, 2005. The phenological division of distribution area in China forMelia azedarach[J]．Sci Silv Sin，41(3)：186-191.[程诗明，顾万春，2005．苦楝中国分布区的物候区划[J]．林业科学，41（3)：186-191．]CHENG SM. GU WC， 2006. Studies on filial generation seedling growth rhythm ofdifferent Melia azedaarch populations[J]. J Zhejiang For Sci Technol， 26(2):1-4.[程诗明，顾万春，2006．苦楝聚群子代苗期生长节律研究［J]．浙江林业科技，26(2):1-4.]  \nCUI YD， FU ZX， WANG JH, et al.， 1994. Study on provenance trials of Meliaazedarach[J].J Henan For Sci Technol，44(2)：14-16.[崔赞栋，傅兆祥，王建华,等，1994．苦楝种源试验研究[J]．河南林业科技，44（2)：14-16．]  \nDENG B, FANG SZ， YANG WX,et al.， 2014. Provenance variation in growth and woodproperties of juvenile Cyclocarya paliurus[J]. New For， 45(5): 625-639.  \nHE X,LV ZH,LIA0 BY,et al.，2018. Adaptability and early selection of differentprovenances of Melia azedarach introduced to Guangdong province[J]. J Centr S UnivFor Technol， $3 8 ( 3 ) : 4 4 - 5 0 .$ ，［何霞，吕子豪，廖柏勇，等，2018．苦楝不同种源在广东生长适应性表现及早期选择[J]．中南林业科技大学学报，38（3)：44-50．]  \nJIAO ZY, YANG X, HE KY， 2015. Selection of superior individuals of Melia azedarachL. for high toosendanin content[J]. J Jiangsu For Sci Technol， 42(5):10-13.[教忠意，杨湘，何开跃，2015．高苦楝素含量苦楝优良单株初步选择［J]．江苏林业科技，42(5):10-13.]  \nKUANG L， DENG XM, CHEN S,et al.，2014. Growth rhythm of Zenia insignis seedlingsfrom four provenances[J]．J S Chin Agric Univ，35(5)：98-101．[邝雷，邓小梅,陈思，等，2014．4个任豆种源苗期生长节律的研究[J]．华南农业大学学报，35（5)：98-101.]  \nLI P，KAN QM,WU LY，et al.，2017. Growth rhythms of Toona ciliata seedlings fromdifferent provenances［J]．J S Chin Agric Univ，38(1):96-102.[李培，阙青敏，吴林瑛，等，2017．红椿不同种源的苗期生长节律研究［J]．华南农业大学学报，38（1)：96-102. ]  \nLIAO BY. 2015. Studies on geographic variation and genetic diversity of Chinesepopulations of Melia azedarach L. germplasm resources[D]. Guangzhou: South ChinaAgricultural University:31-56.[廖柏勇，2015．苦楝地理变异和遗传多样性研究[D].广州：华南农业大学：31-56．］  \nLIN QF,2004. Study on salt tolerant plants[M]. Beijing: Science Press: 284-286.[林栖凤，2004.耐盐植物研究[M]．北京：科学出版社：284-286.]  \nLIU ZL， 2010. A study on provenance selection and key silviculture techniques offuelwood plantations of Quercus acutissima[D]. Nanjing: Nanjing ForestryUniversity:20-75.[刘志龙，2010.麻栎炭用林种源选择与关键培育技术研究[D]．南京：南京林业大学，20-75.]  \nMA WX，CHEN MS, SONG SW,et al.，2010. Seedling growth traits in one-years-oldseedlings of half -sib families of Melia azedarach L. ［J]. J Shandong AgricUniv(Nat Sci Ed)，41(1)：27-30．[马万侠，陈民生，宋尚文，等，2010．苦楝半同胞家系苗期生长性状的研究[J]．山东农业大学学报(自然科学版)，41（1)：27-30．］  \nTAN WJ，LI J， LIN JY，et al.， 2019. Geographic variation of seeding growth traitsfor Phoebe bournei among different provenances[J]. Forestry and EnvironmentalScience，35(2)：52-58.[谭文婧，李娟，林建勇，等，2019．闽楠种源苗期生长性状地理变异研究[J]．林业与环境科学，35（2)：52-58.]  \nWU C,2013. Genetic diversity of germplasm resources of Chukrasia tabularis A. Juss.[D]．Beijing:Chinese Academy of Forestry：23-54.[武冲，2013．麻楝种质资源遗传多样性研究[D]．北京：中国林业科学研究院：23-54.]  \nYANG WX, 2013. Variation in seedling growth and its contents of leaf medicinalcompositions in different Cyclocarya paliurus provenances[D]. Nanjing: NanjingForestry University:13-28.[杨万霞，2013．不同种源青钱柳苗期生长及叶药用成分含量的差异性研究[D]．南京：南京林业大学:13-28.]  \nYU SC，ZHANG XS，JI LS, 2012. A method for leaf area measurement of plant based onphotoshop $\\mathrm { C S } _ { 5 }$ software［J]．Hubei Agric Sci，51(15)：3340-3342．[于守超，张秀省，冀芦莎，2012．基于photoshop $\\mathrm { C S } _ { 5 }$ 的植物叶面积测定方法[J]．湖北农业科学，51（15)：3340-3342.]  \nZHAI MP,MA LY， 2020. Silviculture[M].4th ed. Beijing: China Forestry PublishingHouse：137-203．［翟明普，马履一，2020．森林培育学[M].4版．北京：中国林业出版社：137-203.]  \nZHANG H, DONG LM, ZENG YR,et al.，2014. Phenotypic variation on fresh nuts， seedsand seedlings traits among open-pollinated families of Carya cathayensis fromnatural population[J]．Chin For Sci Technol，28(3)：93-95．[张辉，董雷鸣，曾燕如，等，2014．山核桃天然群体家系种实和幼苗性状变异分析[J]．林业科技开发，28（3)：93-95.]  \nZHENG J, HU ZH, ZHENG YQ,et al.， 2012. Analysis on geographic variation of phenotypictraits of Sorbus pohuashanensis among different provenances[J]. JPlant ResourcEnviron，21(3)：50-56.[郑健，胡增辉，郑勇奇，等，2012．花楸树种源间表型性状的地理变异分析[J]．植物资源与环境学报，21（3)：50-56.]  \nZHENG WJ, 2004. Sylva Sinica (Vol. IV) [M]. Bei jing: China Forestry Publishing House,4128-4129.[郑万钧，2004.中国树木志（第四卷）[M]．北京：中国林业出版社：4128-4129.]",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    }
+]

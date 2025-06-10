@@ -1,0 +1,673 @@
+[
+    {
+        "type": "text",
+        "text": "FBMC/OQAM系统中基于子空间的信道估计算法\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王涵‘，廖建庆1，王咸鹏²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.宜春学院 物理科学与工程技术学院，江西 宜春 33600;2.海南大学 南海海洋资源利用国家重点实验室，海口570228)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对滤波器组多载波偏移幅度调制（FBMC/OQAM）系统中基于传统导频结构的信道估计方法估计精确度不高、频谱利用率低的问题，提出一种基于子空间的盲信道估计算法。区别于传统的子空间方法，该算法通过空间上的接收分集技术引入数据冗余进行盲信道估计，不需要发送导频序列，从而提高了频谱利用率。仿真结果表明，该算法可以有效地估计信道且估计性能优于传统导频方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：滤波器组多载波偏移幅度调制；信道估计；子空间；导频 中图分类号：TN911.5 doi:10.3969/j.issn.1001-3695.2017.12.0763 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Channel estimation for FBMC/OQAM systems based on subspace method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Han1,Liao Jianqingl,Wang Xianpeng² (1.CollegeofhysicalScience&Engineering,YchunUniversitychunJangxi3360o,China;2.StateKeyLaboatoryof Marine Resources Utilization of The South China Sea Hainan University,Haikou 570228,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Theconventional preamble-based chanel estimation schemes for filter bank multicarrer withofset quadrature amplitude modulation (FBMC/OQAM)systems have low estimationaccuracyand theuseof preamble forchannel estimation decreasesthe system's spectrum eficiency.This paper proposedasubspace blind channelestimation method forFBMC/OQAM systems.The proposed methoddistinguishes itself from previously preamble based methods byutilizing spatial diversity technique to introducedataredundancyforblindchannel estimation,therebyleading to high spectralutilization.Simulation results verifythe efcacyof the proposed method inFBMC/OQAMsystems and showthatthe proposed method can provide significantly root mean square error(RMSE)performance improvement than conventional preamble based methods at high SNRs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:FBMC/OQAM; channel estimation; subspace; preamble ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于循环前缀的正交频分复用（cyclic prefix-orthogonalfrequencydivision multiplexing,CP-OFDM）传输技术相比单载波传输技术，具有频谱利用率更高、抗符号间干扰能力强并且能提供高速数据传输等优点，已被各类通信标准所采用。随着业务需求的提高和研究的深入，OFDM存在的一些不足之处也逐渐凸显，例如：基于循环前缀的OFDM是以牺牲系统频谱利用率为代价来消除多径干扰的，添加CP可以有效抵抗符号间干扰，但会牺牲一部分有效频带。OFDM在频域内表现出的sinc函数旁瓣较高，频谱旁瓣衰减很慢，具有较大的带外辐射。而且OFDM系统子载波必须满足严格正交，否则会带来严重的载波间干扰，系统对频率偏移较为敏感。OFDM的这些缺陷主要是由其固有特性造成，虽然可以通过采用一些方法来降低这些缺陷的影响，但无法从根本上解决相关问题，因此很难满足未来通信的要求。在这个背景下，作为对多载波传输技术研究的深入，基于滤波器组的多载波偏移正交幅度调制（filter bankmulti-carrierwithoffsetquadratureamplitudemodulation,FBMC/OQAM）技术通过采用具有良好时频聚焦特性的滤波器组对信号进行频谱整形，具有良好的带外抑制，而且它不需要添加循环前缀，相比OFDM而言提高了频谱利用率，各载波不需要保持严格正交，适用于零散化的碎片频谱利用[1-2]。FBMC/OQAM已经成为下一代移动通信无线传输波形技术的研究热点，并且标准推进组IMT-2020（5G）已经将FBMC列为我国5G的无线传输技术备选方案之一[3-7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于FBMC/OQAM系统仅在实数域严格正交，滤波器基函数之间存在固有虚部干扰。在复信道条件下，信道估计值就是信道真实值和固有干扰的叠加，当导频点周围的数据事先未知的情况下，固有干扰很难消除，这严重影响了信道估计的精确度。事实上，信道估计已经成为影响FBMC/OQAM走向具体应用的重要因素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FMBC/OQAM信号自身的特点使得传统OFDM信道估计方法不能直接被应用到FBMC/OQAM中。现有的研究主要基于导频结构来展开，从导频干扰近似和干扰利用两个角度进行了分析。文献[8-10]研究了基于干扰近似（interferenceapproximatemethod,IAM）的信道估计方法，提出了相应的多种导频结构，从理论和仿真上对比了它们的性能优劣。文献[11\\~13]从消除载波间干扰的角度，也就是干扰消除(interferencecancellationmethod,ICM）方面，先计算导频产生的干扰，然后将干扰从接收信号中消除，提出了相应的导频结构来提高信道估计的性能。在文献[12]中，不同于传统的最小二乘(least square,LS）估计方法，作者提出的是基于IAM的线性最小均方误差（linearminimummean square error,LMMSE）估计方法，通过仿真验证了可以在FBMC中实现LMMSE 信道估计。基于训练导频的信道估计方法的优点是估计精度较高，缺点是浪费了频率资源。文献[14]提出了一种基于OQAM符号特征的IAM（OCB-IAM）半盲估计算法，该算法利用IAM导频结构和OQAM实符号的有限集合特征，将信道衰落系数幅度和相位分开估计，在仅获得导频位置而未知导频符号值的条件下实现了FBMC/OQAM系统半盲信道估计。文献[15]提出一种FBMC/OQAM系统（采用IOTA滤波器）基于线性预编码的盲信道估计算法，通过预编码的自相关和互相关矩阵结构在接收端实现盲信道估计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "查阅现有文献发现，针对FBMC/OQAM系统的盲信道估计方法研究较少。本文考虑不需要导频信息，而通过空间上的接收分集技术引入数据冗余，提出一种基于噪声子空间的FBMC/OQAM系统盲信道估计方法。仿真结果证实了该方法的有效性，且在提高了频率利用率的同时，信道估计性能也有一定提高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 FBMC/OQAM系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OFDM系统在一个给定符号速率下传输的是一个复数符号，而FBMC/OQAM可以以同样速率传输两个实值符号。由于不需要CP，FBMC/OQAM具有比OFDM更高的频谱利用率，采用具有良好时频特性的滤波器组也使得FBMC/OQAM的波形带外辐射比OFDM的更低。上述的这些优势都来源于FBMC/OQAM系统的非严格正交（仅在实数域严格正交)，但这也导致基函数之间存在虚部固有干扰。因此，传统的OFDM系统中的信道估计方法并不能直接应用到FBMC/OQAM系统中。本节首先给出FBMC/OQAM传输模型，然后讨论了基于导频结构的信道估计方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1FBMC/OQAM传输模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FBMC/OQAM基带连续时间信号表达式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns ( t ) = \\sum _ { n = - \\infty } ^ { \\infty } \\sum _ { m = 0 } ^ { N - 1 } a _ { m , n } g _ { m , n } ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $N$ 表示子载波数， $a _ { m , n }$ 是第 $n$ 个FBMC/OQAM 符号中第 $\\mathbf { \\nabla } _ { m }$ 个子载波上发送的实值数据符号；（204号 $g _ { _ { m , n } } ( t ) = e ^ { j ( m + n ) \\pi / 2 } e ^ { j 2 \\pi m \\nu _ { 0 } t } g ( t - n \\tau _ { \\scriptscriptstyle 0 } ) \\ , ~ j = \\sqrt { - 1 } \\ , ~ \\nu _ { 0 } \\$ 表示载波间频率间隔， $\\tau _ { 0 }$ 是FBMC/OQAM相邻符号的实部与虚部的时间间隔，无 CP 的OFDM的符号周期T=2τ0。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FBMC/OQAM信号满足实部的正交，那么基函数内积的实部满足",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Re \\{ \\Big \\langle g _ { m , n } , g _ { p , q } \\Big \\rangle \\} = \\Re \\{ \\sum _ { t } g _ { m , n } ( t ) g _ { p , q } ^ { * } ( t ) \\} = \\delta _ { m , p } \\delta _ { n , q }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\delta _ { i , j }$ 表示克罗内克 $\\delta$ 函数，如果 $m = p$ ，则 $\\delta _ { { \\scriptscriptstyle m } , p } = 1$ ，如果 $m \\neq p$ ，则 $\\delta _ { { } _ { m , p } } = 0$ 。实际上，即使在无失真信道良好的时频同步下，输出端也存在虚部载波间干扰。这里设置一个干扰权重 ${ \\left. g \\right. } _ { m , n } ^ { p , q } = - j { \\left. g _ { m , n } , g _ { p , q } \\right. }$ ，其中 $\\left. g _ { m , n } , g _ { p , q } \\right.$ 表示 $( m , n ) \\neq ( p , q )$ 时候的虚部干扰。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "发送信号经过高斯白噪声信道后，接收信号可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ( t ) = \\sum _ { m = 0 } ^ { N - 1 } \\sum _ { n = 0 } ^ { M - 1 } a _ { m , n } g _ { m , n } ( t ) H _ { m , n } ( t ) + \\eta ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { m , n } ( t ) = \\int _ { 0 } ^ { \\tau _ { \\mathrm { m a x } } } h ( t , \\tau ) e ^ { - 2 j \\pi m F _ { 0 } \\tau } d \\tau\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $h ( t , \\tau )$ 为信道冲激响应， $H _ { { \\scriptscriptstyle m } , n } ( t )$ 为时间 $\\mathbf { \\Phi } _ { t }$ 处的复信道。假设每个子载波信道为平坦衰落信道，那么可以认为信道在滤波器周期内是不变的， $H _ { m , n } ( t ) = H _ { m , n }$ 。图1给出了FBMC/OQAM系统IFFT/FFT实现图。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9a1a4111eae9af42fffeff927478a9553d2cf071e9f40754c544eda5808e945.jpg",
+        "img_caption": [
+            "图1FBMC/OQAM系统IFFT/FFT实现图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2基于导频的信道估计分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不考虑噪声的影响，解调接收信号在 $( p , q )$ 点处的输出信号为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle y _ { p , q } = \\left. r , g _ { p , q } \\right. } } \\\\ { { \\displaystyle y _ { p , q } = H _ { p , q } a _ { p , q } + j \\sum _ { ( m _ { 0 } , n _ { 0 } ) \\neq ( 0 , 0 ) } a _ { p + m _ { 0 } , q + n _ { 0 } } H _ { p + m _ { 0 } , q + n _ { 0 } } \\left. g \\right. _ { p + m _ { 0 } , q + n _ { 0 } } ^ { p , q } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在接收端对输出信号进行均衡处理",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\displaystyle { \\frac { y _ { p , q } } { H _ { p , q } } = a _ { p , q } + I _ { p , q } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $I _ { p , q } = j \\sum _ { { ( m _ { 0 } , n _ { 0 } ) \\ne ( 0 , 0 ) } } a _ { p + m _ { 0 } , q + n _ { 0 } } \\frac { H _ { p + m _ { 0 } , q + n _ { 0 } } } { H _ { p , q } } \\Big < g \\Big > _ { p + m _ { 0 } , q + n _ { 0 } } ^ { p , q } \\ .$ 。那么输出符号的估计值为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\hat { a } _ { p , q } = \\Re \\Bigg \\{ \\displaystyle \\frac { y _ { p , q } } { H _ { p , q } } \\Bigg \\} } \\\\ & { \\qquad = a _ { p , q } - \\displaystyle \\sum _ { ( m _ { 0 } , n _ { 0 } ) \\neq ( 0 , 0 ) } a _ { p + m _ { 0 } , q + n _ { 0 } } \\Im \\Bigg \\{ \\displaystyle \\frac { H _ { p + m _ { 0 } , q + n _ { 0 } } } { H _ { p , q } } \\Bigg \\} \\big \\langle g \\big \\rangle _ { p + m _ { 0 } , q + n _ { 0 } } ^ { p , q } } \\\\ & { \\qquad = a _ { p , q } + \\Re \\big \\{ I _ { p , q } \\big \\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\Re \\{ I _ { p , q } \\}$ 表示实部的符号间干扰，由于干扰的存在导致很难获得准确的估计符号。在分析中，可以通过一个近似估计来获得ap.q°",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对给定的 $( p , q )$ 点定义一个邻域 $\\Omega _ { \\Delta m , \\Delta n }$ ， $( \\Delta m , \\Delta n ) \\neq ( 0 , 0 )$ （204号",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega _ { \\Delta m , \\Delta n } = \\left\\{ ( m _ { 0 } , n _ { 0 } ) , \\big | m _ { 0 } \\big | \\leq \\Delta m , \\big | n _ { 0 } \\big | \\leq \\Delta n \\Big | H _ { p + m _ { 0 } , q + n _ { 0 } } \\approx H _ { p , q } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通常来说在分析邻域干扰时只考虑一阶邻域干扰，即 $\\Omega _ { \\ L _ { 1 } , \\ L _ { 1 } }$ ，忽略更高阶的邻域的干扰。实际上，式（6）应该表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\displaystyle \\frac { \\boldsymbol { y } _ { p , q } } { H _ { p , q } } = \\boldsymbol { a } _ { p , q } + \\boldsymbol { j } \\sum _ { ( m _ { 0 } , n _ { 0 } ) \\in \\Omega _ { 1 , 1 } } \\boldsymbol { a } _ { p + m _ { 0 } , q + n _ { 0 } } \\left. \\boldsymbol { g } \\right. _ { p + m _ { 0 } , q + n _ { 0 } } ^ { p , q } } \\\\ { \\displaystyle + \\boldsymbol { j } \\sum _ { ( m _ { 0 } , n _ { 0 } ) \\in \\Omega _ { 1 , 1 } } \\boldsymbol { a } _ { p + m _ { 0 } , q + n _ { 0 } } \\frac { H _ { p + m _ { 0 } , q + n _ { 0 } } } { H _ { p , q } } \\big \\langle \\boldsymbol { g } \\big \\rangle _ { p + m _ { 0 } , q + n _ { 0 } } ^ { p , q } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对一个IOTA 滤波函数，当 $( m _ { 0 } , n _ { 0 } ) \\not \\in \\Omega _ { 1 , 1 }$ 时，有$\\left| \\left. g \\right. _ { p + m _ { 0 } , q + n _ { 0 } } ^ { p , q } \\right| < 0 . 0 4$ ，而且",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { { \\displaystyle \\sum _ { ( m _ { 0 } , n _ { 0 } ) \\notin { \\Omega _ { 1 , 1 } } } } \\left[ \\left. g \\right. _ { p + m _ { 0 } , q + n _ { 0 } } ^ { p , q } \\right] ^ { 2 } } { { \\displaystyle \\sum _ { ( m _ { 0 } , n _ { 0 } ) \\in { \\Omega _ { 1 , 1 } } } } \\left[ \\left. g \\right. _ { p + m _ { 0 } , q + n _ { 0 } } ^ { p , q } \\right] ^ { 2 } } \\approx 0 . 0 2 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "那么可以得到",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left| \\displaystyle \\sum _ { ( m _ { 0 } , n _ { 0 } ) \\notin \\Omega _ { 4 , 1 } } a _ { p + m _ { 0 } , q + n _ { 0 } } \\frac { H _ { p + m _ { 0 } , q + n _ { 0 } } } { H _ { p , q } } \\big \\langle g \\big \\rangle _ { p + m _ { 0 } , q + n _ { 0 } } ^ { p , q } \\right| } \\\\ & { \\ll \\left| \\displaystyle \\sum _ { ( m _ { 0 } , n _ { 0 } ) \\in \\Omega _ { 4 , 1 } } a _ { p + m _ { 0 } , q + n _ { 0 } } \\big \\langle g \\big \\rangle _ { p + m _ { 0 } , q + n _ { 0 } } ^ { p , q } \\right| } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以，式（9）可以近似表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { y _ { p , q } } { H _ { p , q } } \\approx a _ { p , q } + j \\sum _ { ( m _ { 0 } , n _ { 0 } ) \\in \\Omega _ { 1 , 1 } } a _ { p + m _ { 0 } , q + n _ { 0 } } \\left. g \\right. _ { p + m _ { 0 } , q + n _ { 0 } } ^ { p , q }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "把式（12）的后半部分用 $j a _ { p , q } ^ { ( i ) }$ 来表示",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { p , q } ^ { ( i ) } = \\sum _ { ( m _ { 0 } , n _ { 0 } ) \\in \\Omega _ { 1 , 1 } } a _ { p + m _ { 0 } , q + n _ { 0 } } \\left. g \\right. _ { p + m _ { 0 } , q + n _ { 0 } } ^ { p , q }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于 $a _ { p , q } ^ { ( i ) }$ 是一个实值，对式（12）进行取实操作，可以得到",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { a } _ { p , q } = \\Re \\left\\{ \\frac { y _ { p , q } } { H _ { p , q } } \\right\\} \\approx a _ { p , q }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，在时频点 $( p , q )$ 点处的输出符号可以重新表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { p , q } \\approx H _ { p , q } ( a _ { p , q } + j a _ { p , q } ^ { ( i ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "若接收端时频点 $( p , q )$ 上的数据符号已知，考虑噪声影响下的最小二乘信道估计就为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { H } _ { p , q } = \\frac { y _ { p , q } } { a _ { p , q } + j a _ { p , q } ^ { ( i ) } } \\approx H _ { p , q } + \\frac { \\eta } { a _ { p , q } + j a _ { p , q } ^ { ( i ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "很明显， $a _ { p , q } + j a _ { p , q } ^ { ( i ) }$ 的功率越大，信道估计越准确，这个就基于干扰近似方法（IAM）的原理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 噪声子空间盲信道估计方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "OFDM系统中，传统的噪声子空间方法需要利用CP引入数据冗余，而对于不需要CP的FBMC/OQAM系统就无法直接使用该算法。因此，需要对该方法进行改进，以另外的方式引入数据冗余，使得该方法可以应用于FBMC/OQAM系统，从而达到提升估计性能的目的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设FBMC/OQAM系统子载波数为 $N$ ，第 $k$ 个经过4QAM映射后待IFFT变换的信息符号为s(k)=[so(k),s(k),.,SN-(k)]，$W _ { \\scriptscriptstyle { N } }$ 为 $N \\times N$ 阶的 IFFT 矩阵。映射后的符号经过IFFT变换后为发送信号 $x ( k )$ ， $x ( k ) = [ x _ { 0 } ( k ) , x _ { 1 } ( k ) , . . . , x _ { N - 1 } ( k ) ] ^ { T }$ ，那么 $s ( k )$ 和$x ( k )$ 有如下的关系",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ( k ) = W _ { \\scriptscriptstyle N } s ( k )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了改变噪声子空间方法的适应性，考虑使用时间上的过采样技术或空间上的接收分集技术引入新的数据冗余。用 $M$ 来表示冗余因子，它表示发送端经过 $M$ 条不同的路径到达接收端，即单发多收情况。把经过第 $\\mathbf { \\Sigma } _ { m }$ 个信道的接收信号设为${ \\boldsymbol { r } } ^ { m } ( { \\boldsymbol { k } } ) = [ r _ { 0 } ^ { m } ( { \\boldsymbol { k } } ) , r _ { 1 } ^ { m } ( { \\boldsymbol { k } } ) , . . . , r _ { N - 1 } ^ { m } ( { \\boldsymbol { k } } ) ] ^ { T }$ ，然后把信道中的加性高斯白噪声设为 $n ^ { m } ( k ) = [ n _ { 0 } ^ { m } ( k ) , n _ { 1 } ^ { m } ( k ) , . . . , n _ { N - 1 } ^ { m } ( k ) ] ^ { T }$ 。信道的冲击响应用$h ^ { m } = [ h _ { 0 } ^ { m } , h _ { 1 } ^ { m } , . . . , h _ { L } ^ { m } ] ^ { T }$ 来表示，其中 $L$ 表示信道路径数，即信道阶数。为避免符号间干扰影响信道估计的结果，这里选取接收信号 $r ^ { m } ( k )$ 的后 $N - L$ 子信道上的数据来进行估计， $r ^ { m } ( k )$ 重新表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { r l } { ^ { m } ( k ) = [ r _ { L } ^ { m } ( k ) , r _ { L + 1 } ^ { m } ( k ) , . . . , r _ { N - 1 } ^ { m } ( k ) ] ^ { T } } \\\\ & { = { \\left[ \\begin{array} { l l l } { h _ { 0 } ^ { m } } & { \\cdots } & { h _ { L } ^ { m } } \\\\ & { h _ { 0 } ^ { m } } & { \\cdots } & { \\ddots } \\\\ & & { \\ddots } & { \\ddots } \\\\ & & & { h _ { 0 } ^ { m } } \\end{array} \\right] } { \\left[ \\begin{array} { l } { x _ { 0 } ( k ) } \\\\ { x _ { 1 } ( k ) } \\\\ { \\vdots } \\\\ { x _ { N - 1 } ( k ) } \\end{array} \\right] } + { \\left[ \\begin{array} { l } { n _ { L } ^ { m } ( k ) } \\\\ { n _ { L + 1 } ^ { m } ( k ) } \\\\ { \\vdots } \\\\ { n _ { N - 1 } ^ { m } ( k ) } \\end{array} \\right] } } \\\\ & { = H ^ { m } x ( k ) + n ^ { m } ( k ) } \\\\ & { = H ^ { m } W _ { N } s ( k ) + n ^ { m } ( k ) } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $H ^ { m }$ 为 $( N - L ) \\times N$ 阶矩阵。定义矩阵",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = \\left[ \\begin{array} { l } { H ^ { 0 } } \\\\ { H ^ { 1 } } \\\\ { \\vdots } \\\\ { H ^ { M - 1 } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = H W _ { _ { N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $H$ 与 $A$ 均为 $M ( N - L ) \\times N$ 阶矩阵。用 $r ( k )$ 表示经过 $M$ 个信道后的接收信号",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { r ( k ) = \\left[ \\begin{array} { l } { H ^ { 0 } } \\\\ { \\vdots } \\\\ { H ^ { N - 1 } } \\end{array} \\right] W _ { N } s ( k ) + n ( k ) } \\\\ & { ~ = A s ( k ) + n ( k ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用 $N _ { s }$ 个FBMC/OQAM 接收符号进行信道估计， ${ \\cal N } _ { n }$ 为噪声矩阵，把矩阵 $Y$ 定义为FBMC/OQAM的接收信号",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { Y = [ r ( 1 ) , \\cdots r ( N _ { s } ) ] } } \\\\ { { \\ } } \\\\ { { \\quad = A [ s ( 1 ) , \\cdots s ( N _ { s } ) ] + N _ { n } } } \\\\ { { \\ } } \\\\ { { \\quad = X + N _ { n } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $X { = } A [ s ( 1 ) , { \\ldots } , s ( N _ { s } ) ]$ 为信号矩阵。 $Y$ 和 $X$ 都是$M ( N - L ) \\times N _ { s }$ 阶矩阵。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "接收信号的自相关矩阵为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { r } = E \\big \\{ r ( k ) r ^ { H } ( k ) \\big \\} = A R _ { r } A ^ { H } + \\sigma ^ { 2 } I\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\sigma ^ { 2 }$ 为信道加性高斯白噪声的方差， $\\boldsymbol { \\mathbf { \\ell } } _ { I }$ 为单位矩阵。在进行实际的盲信道估计时候，可以利用接收信号自相关矩阵的估计值 $\\hat { R } _ { r }$ 来替代 $R _ { r } , \\quad \\hat { R } _ { r }$ 由下式得到",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { R } _ { r } = \\frac { 1 } { N _ { s } } \\sum _ { i = 1 } ^ { N _ { s } - 1 } r ( i ) r ( i ) ^ { H }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对 $\\hat { R } _ { r }$ 进行奇异值分解可得噪声子空间估计值 $\\hat { U } _ { n }$ ， $U _ { n }$ 为$M ( N - L ) - N$ 阶矩阵的噪声子空间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据子空间理论，噪声子空间正交于信号子空间",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { n } ( i ) ^ { H } A = 0 , i = 1 , . . . , M ( N - L ) - N\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $U _ { n } ( i )$ 是噪声子空间 $U _ { n }$ 的第 $i$ 列。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于接收端的 $R _ { r }$ 是由估计值 $\\hat { R } _ { r }$ 获得的，因此噪声子空间的特征向量不能完全满足式（25)，可以通过基于最小二乘法的最优解来估计信道。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { h } = \\arg \\operatorname* { m i n } \\sum _ { i = 1 } ^ { M ( { N - L } ) - { N } } \\left\\| \\hat { U } _ { n } ( i ) ^ { H } A \\right\\| ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $U _ { n } ( i ) = [ u _ { i } ( 0 ) , . . . , u _ { i } ( M ( N - L ) - 1 ) ] ^ { T } ~ , ~ U _ { n }$ $U _ { n } ( i )$ 中的元素可以构成 $M$ 个 $1 \\times ( N - L )$ 向量 $U ^ { m }$ ，其中",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ^ { m } = [ u _ { i } ( m ( N - L ) ) \\cdots u _ { i } ( ( m + 1 ) ( N - L ) - 1 ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可以由 $U ^ { m }$ 再生成 $U _ { i } ^ { m }$ ，而 $\\boldsymbol { U } _ { i } ^ { m }$ 为 $( L + 1 ) \\times N$ 阶矩阵。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { i } ^ { m } = \\left[ \\begin{array} { r r r } { { U ^ { m } ~ 0 ~ \\cdots ~ 0 } } \\\\ { { } } \\\\ { { 0 ~ U ^ { m } ~ \\cdots ~ 0 } } \\\\ { { \\vdots } } & { { \\ddots ~ \\vdots } } \\\\ { { } } & { { } } \\\\ { { 0 ~ \\cdots ~ 0 ~ U ^ { m } } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设矩阵 $\\boldsymbol { U } _ { i } = \\left[ [ U _ { i } ^ { o } ] ^ { T } , . . . , [ U _ { i } ^ { M - 1 } ] ^ { T } \\right] ^ { T }$ ，那么对于矩阵 $H$ 则有下",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "列等式",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { n } ( i ) ^ { T } H = h ^ { T } U _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由式（20）（29）可得 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left\\| { U _ { n } ( i ) } ^ { H } A \\right\\| ^ { 2 } = { U _ { n } ( i ) } ^ { H } H W _ { N } W _ { N } ^ { H } H ^ { H } U _ { n } ( i ) } \\\\ & { \\qquad = { h } ^ { T } ( { U _ { i } } ) ^ { * } { U _ { i } ^ { T } } { h } ^ { * } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $h ^ { * }$ 为信道 $h$ 的共轭，定义矩阵 $g = \\biggl [ U _ { 1 } , . . . , U _ { M ( N - L ) - L } \\biggr ] ^ { * }$ ，可以将式（26）中求 $\\boldsymbol { h }$ 的最小值转换为求 $h ^ { * }$ 的最小值问题，然后再共轭转换即可获得 $h$ 的估计值",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { h } ^ { * } = \\arg \\operatorname* { m i n } { ( h ^ { * } ) } ^ { H } \\hat { g } \\hat { g } ^ { H } h ^ { * }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\hat { g }$ 可通过噪声子空间的估计值按上述矩阵 $g$ 的定义方式获得。通过将 $\\hat { g } \\hat { g } ^ { \\scriptscriptstyle H }$ 进行特征值分解，然后将最小特征值对应的特征向量进行归一化处理后再取共轭，就得到了最终的信道估计值 $\\hat { h }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该算法的运算复杂度大约为 $o ( N ( N - L ) )$ ，而基于传统导频的估计算法的运算复杂度为 $o ( N )$ 。很明显，本文提出的算法比传统导频方法需要更多的运算耗时，在下一节的仿真结果中将会给出具体的仿真时间对比。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 仿真结果 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用4QAM/16QAM的映射方式对发送数据进行调制。FBMC/OQAM系统采用的是平方根升余弦滤波器，滤波器的滚降系数为1，长度为 $L _ { \\scriptscriptstyle h } = 4 T$ ，子载波数为 $N = 6 4$ ，符号数$N _ { s } = 2 0 0$ 。采用均方根误差（RMSE）来体现信道估计的准确度，表达式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR M S E = \\frac { 1 } { \\left\\| h \\right\\| } \\sqrt { \\frac { 1 } { D M ( L + 1 ) } \\sum _ { i = 1 } ^ { D } \\left\\| \\hat { h } _ { i } - h \\right\\| ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $D$ 为蒙特卡罗仿真次数， $\\hat { h } _ { \\scriptscriptstyle i }$ 为第 $i$ 次仿真的信道估计值。分别在高斯信道和多径信道下进行了仿真，评估了基于子空间的信道估计方法的有效性，与两种经典的导频信道估计方法作了估计性能比较，同时还分析了该方法在不同接收分集 $M$ 、不同调制和不同接收符号数的条件下的估计性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先在高斯信道下对FBMC/OQAM系统子空间信道估计方法的有效性进行了评估。模拟生成两条（即接收分集 $M = 2$ ）不同的高斯信道，信道冲激响应的值分别为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { h ^ { ( 1 ) } = \\left[ { \\begin{array} { c } { - 0 . 0 4 9 + j 0 . 3 5 9 } \\\\ { 0 . 4 8 2 - j 0 . 5 6 9 } \\\\ { - 0 . 5 5 6 + j 0 . 5 8 7 } \\\\ { 1 } \\\\ { - 0 . 1 7 1 + j 0 . 0 6 1 } \\end{array} } \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh ^ { ( 2 ) } = { \\left[ \\begin{array} { l } { 0 . 4 4 3 - j 0 . 0 3 6 4 } \\\\ { 1 } \\\\ { 0 . 9 2 1 - j 0 . 1 9 4 } \\\\ { 0 . 1 8 9 - j 0 . 2 0 8 } \\\\ { - 0 . 0 8 7 - j 0 . 0 5 4 } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/365adf1d5402cc07c49f53d1e1d7ca37d2c9d22846e0549e6d05a1b1703a3e57.jpg",
+        "img_caption": [
+            "图2信道实部的估计"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2和3分别给出了在上述高斯信道中基于子空间估计方法的信道实部和虚部的估计曲线，仿真中的蒙特卡罗次数为5。从两个图中可以看出，该方法可以准确的估计出信道的实部值和虚部值，说明FBMC/OQAM系统中基于子空间的盲估计方法可以有效的进行信道估计。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/31c3965ec332adf76df853b2a2c194529992f03dcc52416fb25e5a6f70aa04a0.jpg",
+        "img_caption": [
+            "图3信道虚部的估计"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然后基于衰落信道环境下，仿真对比了导频(IAM和ICM)方法和子空间方法的信道估计RMSE性能。给出四条（即接收分集 $M = 4$ ）不同的衰落信道，信道冲激响应的值分别为",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4为基于经典导频方法和子空间估计方法的信道估计RMSE性能曲线，蒙特卡罗次数为5，仿真中的导频方法包括两种，分别是引言中提到的IAM和ICM；子空间方法中的$M = 4$ ，也就是接收分集为4。很明显，子空间方法的RMSE性能总体上是优于导频方法的。随着信噪比的增大，子空间方法的RMSE不断降低，估计的准确性也在不断提高。信噪比在0-10dB 范围内时，基于导频方法的RMSE 随着信噪比增大而减小。而当信噪比在10dB-40dB 范围内时，导频方法保持在一个较低的平稳的RMSE 数值上，说明该方法在大信噪比下的信道估计精确度较低，估计性能较差。子空间方法在信噪比40dB 时，RMSE 值低于 $1 0 ^ { - 3 }$ ，其估计性能显著地优于导频方法。需要指出的是，虽然基于子空间的盲信道估计方法优于基于导频信道估计方法，且不需要额外的带宽，但是它计算复杂度更高，仿真耗时更长。表1给出了三种方法的仿真耗时数据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e680ad44f114f134ff23ec3766ff1719bfdb6d32be2f2014a5df559655a588bf.jpg",
+        "img_caption": [
+            "图4经典导频方法和子空间方法的RMSE曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/72242099fcd1b038e91b54e59dec9ab734bf3f895d43fbb1fc995241c1a4900e.jpg",
+        "table_caption": [
+            "表1三种方法的仿真耗时对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>仿真耗时/s</td></tr><tr><td>子空间</td><td>36.825</td></tr><tr><td>IAM</td><td>6.893</td></tr><tr><td>ICM</td><td>6.739</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f6c3d7519f0578681eabd4900ab055d83fec0910292d093137549c30985b086.jpg",
+        "img_caption": [
+            "图5不同M值下子空间方法的RMSE曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5给出了不同 $M$ 值下子空间方法的 RMSE 随信噪比变化的曲线，映射方式为4QAM。增大 $M$ 的值可以提升子空间方法的信道估计性能，但是也会增加相应的计算复杂度。$R M S E = 1 0 ^ { - 2 }$ 时， $M = 4$ 的子空间方法对比 $M = 2$ 的方法具有10 dB 的信噪比增益。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6为不同调制制式下子空间方法的RMSE曲线，仿真中，$M = 4$ 。随着调制阶数的增加，子空间方法的RMSE 性能会恶化，16QAM映射下的子空间方法的信道估计准确度低于4QAM映射下对应的方法，这可能因为FBMC/OQAM系统子载波间存在固有干扰，随着调制阶数的增加，干扰影响就越大，从而影响了信道估计的准确度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7给出了不同FBMC/OQAM接收符号数下子空间方法的 RMSE 曲线图。其中子载波数为16、 $M = 4$ 、采用4QAM映射方式。从图中可以发现，除了 $N _ { s } = 1 0 0$ 的情况，相同信噪比下其他三种情况的RMSE 值都很接近； $N _ { s } = 1 0 0$ 时，具有最差的 RMSE性能。随着接收符号数的增加到一定程度，RMSE 性能提升的越来越小，当选择 $N _ { s } = 2 0 0$ 时已经具有较好的鲁棒性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/705bb921b08955dff4e1280a50f4c0d27f10b004b70be493ea5badfeac8c820b.jpg",
+        "img_caption": [
+            "图6不同调制制式下子空间方法的RMSE曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b109fe684898daae31541eb70aa07da013736f37d56ef9fcb44640796662be96.jpg",
+        "img_caption": [
+            "图7不同接收符号数下子空间方法的RMSE曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文研究了FBMC/OQAM系统中基于噪声子空间的盲信道估计方法。首先在高斯信道下，评估了该方法的有效性，然后在衰落信道下仿真分析了该方法的RMSE性能。仿真对比了两种经典导频方法和子空间方法的估计性能，研究了采用不同$M$ 值和不同调制方式下子空间方法的 RMSE 性能，同时还仿真研究了不同接收符号数下的子空间方法的RMSE性能。仿真结果表明：FBMC/OQAM系统中基于噪声子空间的盲估计方法可以准确的进行信道跟踪并有效的估计信道，该方法信道估计性能总体上优于传统的导频方法且具有更高的频谱利用率，但存在缺点是计算耗时相对更长。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]Du Jinfeng,Signel S.Time frequency localization of pulse shaping filters in OFDM//OQAM system[C]/ Proc of the 6th International Conference of Information, Communications & Signal Processing. 2007: 1-5.   \n[2]Lele C,Siohan P,Legouable R.2 dB better than CP-OFDM with OFDM//OQAM for preamble-based channel estimation [Cl//Proc of IEEE International Conference on Communications.2008:1302-1306.   \n[3] 龙肖虎，潘志文，高西奇，等.5G 移动通信发展趋势与若干关键技术 [J].中国科学:信息科学,2014,44(5): 551-563.   \n[4]李俊，田苑，邱玉，等．面向 5G 应用的OQAM-OFDM调制：原理、技 术和挑战[J]．电信科学,2016,32(6):15-19.   \n[5]5GNOW Project.5thgeneration non-orthogonal waveformsfor asynchronous signaling [EB/OL]. (2015-03-02). htp://www.5gnow.eu/.   \n[6]METIS Project. Mobile and wireless communications enablers for 2020 information society [EB/OL]. (2015-05-11) .http://www.metis2020.com/.   \n[7]IMT-2020(5G）推进组.5G无线技术构架白皮书[EB/OL].(2015-05) http://www.imt-2020.org.cn/zh/documents/1.   \n[8]Lele C,Javaudin JP,Legouable R,et al. Channel estimation Methods for Preamble-based OFDM//OQAMModulations [J]. European Transactions on Telecommunications,2008,19(7): 741-750.   \n[9]王琼，黄静静，吴垒．等效导频功率最大化的 FBMC-OQAM系统导频 结构设计 [J/OL].计算机应用研究,2018(2017-06-14).htp://kns.cnki. net/kcms/detail/51/1196.TP.20170614.1352.184. html.   \n[10] Kofidis E.Preamble-based estimation of highly frequency selective channels in FBMC/OQAM systems [J]. IEEE Trans on Signal Processing, 2017, 65 (7): 1855-1868.   \n[11] Hu Su,Wu Gang,Li Teng,et al. Preamble design with ICI cancelation for channel estimation in OFDM//OQAM system [J].IEICE Transon Communications,2010,93 (1): 211-214.   \n[12] Caro L, Savaux V, Boiteau D,et al.Preamble-based LMMSE channel estimation in OFDM//OQAM modulation [C]// Proc of the 81st IEEE Vehicular Technology Conference.2015:1-5.   \n[13] Cui Wenjia,Qu Daiming,Jiang Tao,etal. Coded auxiliary pilots for channel estimation in FBMC-OQAM systems[J]. IEEE Trans on Vehicular Technology,2016,65 (5): 2936-2946.   \n[14]李啸天，雷菁，刘伟，等．正交频分复用//偏移正交振幅调制半盲信道 估计[J].国防科技大学学报,2015,37(5):169-174.   \n[15] Du Jinfeng, Xiao Pei, Wu Jinsong,et al. Design of isotropic orthogonal transform algorithm based multcarrier systemswith blind channel estimation [J]. IET Communications,2012,6 (16): 2695-2704. ",
+        "page_idx": 5
+    }
+]

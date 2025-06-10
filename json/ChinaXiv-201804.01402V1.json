@@ -1,0 +1,668 @@
+[
+    {
+        "type": "text",
+        "text": "基于I2.1范数原子选择的图像分块稀疏重构\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱华1,²，岳峻1，李振波²，张志旺1，寇光杰1(1．鲁东大学 信息与电气工程学院，山东 烟台 264025;2.中国农业大学 信息与电气工程学院，北京 100083)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对图像压缩采样中原子的选择规则难以确定的问题，在改进的正交匹配追踪算法的基础上提出了一种基于$l _ { 2 , 1 }$ 范数的原子选择方式。 $l _ { 2 , 1 }$ 范数的原子选择方式考虑了原子间的相关性，剔除了干扰原子，选择出了代表性原子。将所提方法用于图像分块重构，算法以图像进行分块，利用 $l _ { 2 , 1 }$ 范数选择对图像块支撑集进行筛选，增强块特征的判别性，提高原子的稀疏度，最终提高图像重构的准确率和速率。实验结果表明，相同条件下在保证重建速度的同时，所提新方法提高了图像重构精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：压缩感知；稀疏表示； $l _ { 2 , 1 }$ 范数选择；图像重构；图像分块；匹配追踪 中图分类号：TP391.41 doi:10.3969/j.issn.1001-3695.2017.12.0829 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Image segmentation sparse reconstruction based on $l _ { 2 , 1 }$ -norm stomic selection ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhu Hua1,², Yue Jun1†, Li Zhenbo², Zhang Zhiwang], Kou Guangjiel (1.ColegeofInformation&ElectricalEngineeing,Ludong University,Yantai Shandong264025China;2.Collgeof Information & Electrical Engineering,China Agricultural University,Beijing l0oo83, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to solve the problemof selecting atoms for image compressed samples automatically,a new $l _ { 2 , 1 }$ -normatomic selection method is proposed.The proposed method takes intoaccountthecorrelation betwee theatoms,eliminating the interference of atoms and selects arepresentative of the atomic.Image reconstruction based on image segmentation and $l _ { 2 , 1 }$ 1 norm selection.Inthisalgorithm,image is divided into blocks,andthe imageblocks supportingsetis filtered bythe $l _ { 2 , 1 }$ -norm selection which enhances the discriminant of block features,improves the sparsityof atoms,and ultimately improves the accuracyand speedofimage reconstruction.The simulationresults showthatthereconstructionacuracycanbe improved with the same condition. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: compressed sensing; sparse representation; $l _ { 2 , 1 }$ -norm selection; image reconstruction; image block; matching pursuit ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，压缩感知（CS）[I作为信号重构的新方法得到极大关注。因为该理论打破了传统的奈奎斯特抽样定理，提高了数据的传输效率。压缩感知基本假设是：当系统表示是欠定时，即观测向量的维数 $m$ 远小于原始信号的维数 $n$ ，稀疏信号$x \\in R ^ { n }$ 可以从稀疏测量矩阵 $\\phi$ 中重构出。其中，原始信号可能不稀疏但是在某个变换域下是稀疏的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "信号重构思想是通过最优化方法从低维数据中最大程度的恢复出高维数据。压缩感知理论可使数据采集和压缩同时进行，对于信号的重构有重要意义。其中代表性的重建算法有贪婪迭代算法[2]、约束优化[3]、近似优化[4]、同伦算法[5]。贪婪迭代算法[2]是其中应用较多的一类方法，其核心思想是在迭代中遍历归一化完备字典，在一定的相似性度量基础上，迭代地从字典中选择最佳原子，得到稀疏解。在贪婪迭代算法中，有正交匹配追踪算法[6][7]（orthogonal matching pursuit,OMP）、正则化正交匹配追踪[8]（regularized orthogonal matching pursuit,ROMP）以及采用回溯思想的压缩采样匹配追踪算法[9]（CoSaMP）和子空间追踪算法[10]（SP），以上算法都需预测信号的稀疏度。针对稀疏度未知的情况，2008年Do等人提出自适应匹配追踪算法[1]（sparsity adaptive matching pursuit,SAMP）,随后又出现了稀疏度自适应子空间追踪算法(sparsity adaptive subspace pursuit.SASP)[l2]、正则化自适应匹配追踪（regularizedadaptivematching pursuit，RAMP）算法[13]、分段正则化正交匹配追踪算法[14][15]、基于约束等距性的稀疏估计匹配追踪算法[16]、基于坐标下降和双残差极小化的自适应匹配追踪算法[17]。在研究和总结上述算法的基础上，本文将 $l _ { 2 , 1 }$ 范数和压缩采样的思想融入到图像重构算法中，提出了基于改进正交匹配追踪算法的 $l _ { 2 , 1 }$ 范数原子选择的图像信号重构算法。通过理论分析与仿真结果证明本文提出的方法可以提高图像的重构精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 压缩感知",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设有一个实值信号 $X$ （ $\\boldsymbol { X } \\in \\boldsymbol { \\mathfrak { R } } ^ { n \\times 1 }$ ），可以用 $N \\times 1$ 维的规范正交基向量 $\\left\\{ \\psi _ { i } \\right\\} _ { i = 1 } ^ { N }$ 进行线性表示，于是任意信号X都可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = \\Psi \\Theta\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果 $\\mathrm { \\Delta } \\mathrm { X }$ 是稀疏的，则表明 $\\mathrm { \\Delta } \\mathrm { X }$ 是可压缩的。如果用一个与变换基 $\\psi$ 不相关的测量矩阵 $\\phi$ （ $\\mathbf { M } ^ { * } \\mathbf { N } , \\mathbf { M } { < } { < } \\mathbf { N } .$ )对进行线性变换，得到测量向量 $\\mathrm { \\Delta Y }$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = \\Phi \\Theta = \\Phi \\Psi ^ { T } X = A ^ { C S } X\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式（2）中的 $\\mathbf { x }$ 为传感矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "信号重构内容的关键是由观测向量 $\\mathrm { \\Delta Y }$ 恢复 $\\Theta$ 。由于 $\\psi$ 矩阵已知，所以恢复等效为恢复原始信号 $X$ 。当 $M \\ll N$ 时，式（2）为欠定方程，所以信号的重建为求解该方程 $Y = D ^ { C S } X$ 的最小 $l _ { 0 }$ 范数解：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } \\lVert \\Theta \\rVert _ { 0 } s . t . \\Phi \\Theta = Y\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式(3)是NP问题，为了降低复杂度，可以用 $l _ { \\mathrm { { l } } }$ 范数代替。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } \\left\\| \\Theta \\right\\| _ { 1 } s . t . \\Phi \\Theta = Y\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而OMP方法是压缩感知中经典的贪婪迭代算法之一，贪婪迭代算法不能直接解决最优化问题，只能找到近似最优解。以后的改进算法都是在此基础上优化而成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于 $l _ { 2 , 1 }$ 范数选择的图像分块稀疏重构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1基于 $l _ { 2 , 1 }$ 范数约束的原子选择方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假定初始化剩余量 $R _ { 0 } = y$ ，完备字典 $A = \\left[ \\boldsymbol { a } _ { 1 } , \\boldsymbol { a } _ { 2 } , . . . , \\boldsymbol { a } _ { N } \\right]$ ，并且过完备字典中 $A$ 的每个原子为 $l _ { 2 }$ 范数单位向量即 $\\left\\| a _ { i } \\right\\| = 1$ ，根据匹配追踪算法的思想，在过完备字典 $A$ 中选择出最匹配的原子列 $a _ { i }$ ，反复迭代以使剩余量 $R _ { 0 }$ 达到最小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "观测向量 $y$ 可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = \\sum _ { j = 1 } ^ { n - 1 } \\bigl \\langle R _ { j } , a _ { i } \\bigr \\rangle a _ { i } + R _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\boldsymbol { R _ { n } }$ 再按上式进行分解,直到余量 $\\boldsymbol { R _ { n } }$ 接近0.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过求解最小二乘解可即得原信号的近似解",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\hat { x } } = \\arg \\operatorname* { m i n } _ { x } \\left\\| y - A X \\right\\| _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } \\left\\| y - A X \\right\\| _ { 2 } + r \\left\\| X \\right\\| _ { 2 , 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$l _ { 2 , 1 }$ 范数被定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "各自表示。 $m _ { i j }$ 为矩阵 $m$ 的 $i$ 行 $j$ 列的元素， $m _ { i }$ 表示矩阵的第 $i$ 行的行向量。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\| M \\right\\| _ { 2 , 1 } = \\sum _ { i = 1 } ^ { n } \\sqrt { \\sum _ { i = 1 } ^ { m } m _ { i j } ^ { 2 } } = \\sum _ { i = 1 } ^ { n } \\left\\| m _ { i } \\right\\| _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中:矩阵 ${ \\cal M } = ( m _ { i j } )$ $i$ 代表行号， $j$ 代表列号，分别用 $m _ { i }$ ， $m _ { j }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过 $l _ { 2 , 1 }$ 范数[19]选择原子建立的模型为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了减少重构误差，从完备字典中选出的原子再用 $l _ { 2 , 1 }$ 范数[18]进行选择。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $r \\big \\| X \\big \\| _ { 2 , 1 }$ 为正则化项， $\\boldsymbol { r }$ 为平衡参数，在分类或拟合中，用来避免过拟合或欠拟合。在此，对正则化项的拟合系数进行$l _ { 2 , 1 }$ 范数约束[20]。具体计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\| X \\right\\| _ { 2 , 1 } = \\sum _ { i = 1 } ^ { b } { \\sqrt { \\sum _ { j = 1 } ^ { d } x _ { i j } ^ { 2 } } } = \\sum _ { i = 1 } ^ { b } \\left\\| x _ { i } \\right\\| _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该范式可以在样本拟合原子的时候，通过对 $X$ 行向量之间的 $l _ { \\mathrm { { l } } }$ 范式约束， $M \\ll N$ 尽可能将无用原子对应的拟合系数约束为零。而对列范式的约束则保证所有原子约束是同时的，即如果某原子拟合系数被约束为零，则所有原子的该拟合系数会被同时约束为零，有效的实现了字典中的原子选择。因此，为了使选择出的原子更好的实现信号的重构，则(8)式整理成目标：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } \\left\\| y - A X \\right\\| _ { 2 , 1 } + r \\left\\| X \\right\\| _ { 2 , 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2模型求解",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式（10）是一个基于 $l _ { 2 , 1 }$ 范数的优化问题。首先将其转换为二阶锥规划（SOCP）问题，采用内点法进行求解，但该方法计算复杂；2009年，文献[21]采用梯度下降方法进行求解，但是只能解决特定问题。利用文献[18的方法进行求解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，转换式（10）为其等价形式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } \\frac { 1 } { r } \\big \\| y - A X \\big \\| _ { 2 , 1 } + \\big \\| X \\big \\| _ { 2 , 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$E = \\frac { 1 } { r } { \\big \\| } y - A X { \\big \\| }$ ，则（11）式转换为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { A , E } \\left\\| E \\right\\| _ { 2 , 1 } + \\left\\| X \\right\\| _ { 2 , 1 } \\quad s . t . A X + r E = y\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "整理后得 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { A , E } \\left\\| { \\boldsymbol { \\cal E } } \\right\\| _ { 2 , 1 } \\quad s . t . \\left[ { \\boldsymbol { X } } ^ { T } \\quad r { \\boldsymbol { I } } \\right] \\left[ { \\boldsymbol { A } } \\right] = y\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $I$ 、 $\\boldsymbol { \\varepsilon }$ 为单位矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令 $\\boldsymbol { B } = \\left[ \\boldsymbol { X } ^ { T } \\quad r \\right] , \\ U = \\left[ \\begin{array} { l } { \\boldsymbol { A } } \\\\ { \\boldsymbol { E } } \\end{array} \\right]$ 所以式（13）可以优化成下列形式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { U } \\left\\| U \\right\\| _ { 2 , 1 } s . t . B U = y\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "写出式（14）的拉格朗日算子：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( U ) = \\left\\| U \\right\\| _ { 2 , 1 } - T r { \\left( \\Lambda ^ { T } \\left( B U - y \\right) \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对式（15）进行求导，并令其导数等于零得：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial L ( U ) } { \\partial U } = 2 D U - B ^ { T } \\Lambda = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $D$ 是一个对角矩阵[16]，对角元素取值为 $d _ { i i } = \\frac { 1 } { 2 \\Big \\| u ^ { i } \\Big \\| _ { 2 } }$ 对式（16）等号两边同乘以 $B D ^ { - 1 }$ ，又因为 $B U = y$ ，故：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Lambda = 2 \\Big ( B D ^ { - 1 } B ^ { T } \\Big ) ^ { - 1 } y\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合式（17）推出：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU = D ^ { - 1 } B ^ { T } \\Big ( B D ^ { - 1 } B ^ { T } \\Big ) ^ { - 1 } y\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据式(14)是凸问题，所以求解该式得到的 $U$ 是全局最优解。根据式（18）可以看出 $U$ 与 $D$ 的取值是相互影响的。文献[20]提出了一种迭代求解算法，具体迭代求解过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入： $\\boldsymbol { B } \\in \\mathfrak { R } ^ { m \\times a } \\ , \\quad \\boldsymbol { y } \\in \\mathfrak { R } ^ { m \\times b }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤：设 $t = 0$ ，初始化 $D _ { t }$ 为单位矩阵， $D _ { t } \\in \\Re ^ { a \\times a }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "重复如下操作，直至收敛：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算矩阵 $U _ { t + 1 }$ ，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { t + 1 } = D _ { t } ^ { - 1 } B ^ { T } \\left( B D _ { t } ^ { - 1 } B ^ { T } \\right) ^ { - 1 } \\mathbf { y }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算对角矩阵 $D _ { t + 1 }$ ，其中第 $i$ 个对角元素为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { i i } = { \\frac { 1 } { 2 \\parallel u ^ { i } \\parallel _ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt = t + 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输出： $\\boldsymbol { U } \\in \\Re ^ { a \\times b }$ （204号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "求出 $U$ 后，根据 $U = { \\binom { A } { E } }$ 便可求出 $A$ ，其非零行对应的便是贡献率较大的原子列，同时也进一步有效剔除无用的干扰原子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3基于 $l _ { 2 , 1 }$ 范数选择的图像分块正交匹配追踪 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将 $l _ { 2 , 1 }$ 范数选择应用到压缩感知中的原子选择，结合分块的思想实现对图像的重构，本文称之为 $l _ { 2 , 1 } - B _ { - } O M P$ 算法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对图像进行分块，解决了现有算子测量矩阵存储量大的问题，又兼备ROMP算子收敛速度快的优点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文所提方法以图像块为单位进行处理，较处理整幅图像相比，容易实现图像重构。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$l _ { 2 , 1 } - B _ { - } O M P$ 算法保留了ROMP中的正则化原子选择标准，并且采用 $l _ { 2 , 1 }$ 范数选择原则对支撑集进行二次筛选。具体的，每次迭代过程，进行两次原子筛选。第一次原子筛选，引入能量思想，选择多个原子作为候选集。第二次原子筛选，从候选集里按 $l _ { 2 , 1 }$ 范数选择原则考虑原子间的相关性，剔除了干扰原子。快速、高效选择出了代表性原子并入最优的支撑集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以图像块为处理单位，采用 $l _ { 2 , 1 }$ 范数选择可以有效地剔除图像块内无用原子，增强快特征的判别性。且兼顾了图像块间的相关关系，即某个原子在某一图像块判定是无用的，则该原子在所有的图像块上都是无用的，回避了图像块间特征选择的不稳定性，提高了重构的准确率和效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$l _ { 2 , 1 } - B _ { - } O M P$ 算法的步骤如下:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入：测量矩阵 $\\phi \\in R ^ { B \\times N }$ ·测量向量 $y \\in R ^ { M }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "信号 $X$ 的稀疏度K输出：重构信号 $x _ { r }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)初始化。将大小为 $I _ { r } \\times I _ { c }$ 的原始图像分割为互不重叠的$B \\times N$ 的子块 $x ^ { s } ( p , q ) , p = 1 , . . . , B , q = 1 , . . . , N ,$ 用 $x _ { i }$ 表示其中$i , s = 1 , 2 \\cdots , S , S = \\left( I _ { r } \\times I _ { c } \\right) / \\left( B \\times N \\right) i \\ r _ { 0 } = y , A = \\Phi , J = \\Phi ,$ 支撑集${ \\phi } _ { A } = \\phi$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "迭代次数 $t = 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)计算相关系数 $u _ { t }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)第一次筛选原子。 $\\boldsymbol { u } _ { t }$ 进行降序排列，将前 $k$ 个最大值的索引存入 $J$ 中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)第二次筛选原子( $l _ { 2 , 1 }$ 范数选择原则筛选)。对 $J$ 中索引值对应的原子的相关系数进行 $l _ { 2 , 1 }$ 范数选择，选择出对应的 $u _ { i }$ 的索引值存入 $A _ { 0 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)更新支撑集 $\\phi _ { _ A }$ ：其中 $A = A \\cup A _ { 0 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)信号逼近： $x = \\operatorname { a r g m i n } \\left\\| y - \\Phi _ { \\mathbf { \\mu } _ { A } } x _ { t - 1 } \\right\\| _ { 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "g)残差的更新： $t + 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "h)判断迭代停止条件：每进行一次迭代操作， $t + 1$ 。如果$t < k$ ，则返回步骤b)，否则执行步骤i）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "i)获取下一个子图像块 $x _ { i + 1 }$ ，将数据重新初始化，$r _ { 0 } = y , A = \\phi , A _ { o } = \\phi , J = \\phi ,$ ，迭代次数 $t = 1$ ，重复步骤b) $\\tilde { \\mathrm { \\Delta h } } _ { , \\cdot }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "j)整合重构后的子图像块 $x _ { i } , i = 1 , \\cdots , S ,$ 恢复图像块 $x _ { i }$ 为重构图像 $x _ { r }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本节对所提基于 $l _ { 2 , 1 }$ 范数原子选择的图像分块稀疏重构算法进行实验仿真。所有实验均在MATLAB2013a实现，运行平台为Windows 7InterCore i5 $2 . 8 ~ \\mathrm { H z }$ CPU4GRAM。实验采用Lena，Barbara，Cameraman，boat图，尺寸大小均为 $2 5 6 \\times 2 5 6$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "测试图像选择Lena图，通过与匹配追踪系列算法中的四种算法（BP，OMP，CoSaMP，StOMP）进行对比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所提方法中，采用离散小波变换的稀疏化方法。实验中，采用高斯随机矩阵为测量矩阵。本文采用分块的思想结合 $l _ { 2 , 1 }$ 范数思想对图像进行重构。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当采样率 $\\mathrm { M } / \\mathrm { N } { = } 0 . 5$ 时，重构算法（BP，OMP，CoSaMP,StOMP， $l _ { 2 , 1 } - B _ { - } O M P \\ .$ ）对Lena 图像在同一采样率下的重构效果对比如图1、2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图1可以直观地看出 $l _ { 2 , 1 } - B _ { - } O M P$ 算法的重构效果明显优于其他四种重构算法。从直观角度方面看，与图(b）～（e)相比，图（f）中帽子和头发的细节很好地重构出来。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2中显示的是信号精确重建概率与信号稀疏度K之间的关系。在这个实验中，选取重建信号为可稀疏信号，其长度为256；测量信号的长度为128。选择稀疏度在10\\~70进行仿真。从图2中可以看出， $l _ { 2 , 1 } - B _ { - } O M P$ 算法在稀疏度大于50时，仍可以工作，其他的算法作用甚微。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/23e9778463217a1d3836999bfde758848eec3f96087b92c777ed292bfe2f4683.jpg",
+        "img_caption": [
+            "图1采样率0.5,不同算法重构效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对压缩图像进行分块重构时，先将实验图像分成 $\\mathrm { B ^ { * } N }$ 个小块，分块示例如图3、4所示，并且保证对每个小块采取相同实验处理。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fbd34dfd0821824ac6e3ea0e7e5882972b91be6276d4dbc334223ea88bd253f.jpg",
+        "img_caption": [
+            "图2稀疏度K与重构成功概率关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$( \\mathrm { a } ) 2 ^ { * } 1$ 块 （204号 $( \\boldsymbol { \\mathrm { b } } ) \\boldsymbol { 2 ^ { * } 2 }$ 块 (c)4\\*2块 $( \\mathrm { d } ) 4 ^ { * } 4$ 块 $( \\mathrm { e } ) 8 ^ { * } 1$ 块 （204号 $( \\mathrm { f } ) 8 ^ { * } 2$ 块 $( \\mathrm { g } ) 8 ^ { * } 4$ 块 $( \\mathrm { h } ) 8 ^ { * } 8$ 块 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/11c542c771a0824c370b92bea05e06d2cffc7bc4f4c4e9167336c144da06e9f5.jpg",
+        "img_caption": [
+            "图3Lena在不同分块下的重构效果",
+            "图4Barbara在不同分块下的重构效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选取Lena( $2 5 6 \\times 2 5 6 )$ 图片进行实验。表1显示的是当采样率相同时，本文所提方法与其他几种算法在两个具体指标（运行时间、峰值信噪比(PSNR)）上的对比情况。运行时间方面，ROMP所需时间最短，CoSaMP所需时间最长。因为CoSaMP加入回溯的思想，耗时较长， $l _ { 2 , 1 } - B _ { - } O M P$ 算法在运行时间上处于中等水平；在峰值信噪比方面， $l _ { 2 , 1 } - B _ { - } O M P$ 算法最高,大幅度领先其他算法。这是因为在分块压缩感知中只需要保存一个 $\\mathrm { n ^ { * } ( B ^ { * } N ) }$ 的矩阵，而不是一个大矩阵。显然，当 $\\mathrm { B ^ { * } N }$ 比较小的时候，内存占用少且计算速度快;当 $\\mathrm { B ^ { * } N }$ 比较大的时候，图像的重构效果比较好。并且采用 $l _ { 2 , 1 }$ 范数原子选择剔除支撑集的干扰原子，保证图像块之间相同无用原子最大程度的消除，提高图像重构质量。综述所述， $l _ { 2 , 1 } - B _ { - } O M P$ 算法融合 $l _ { 2 , 1 }$ 范数分块思想，鲁棒性强，性能佳，优势明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/632d6f9a7f701a64f321e2c374c626cdcd19a8cf5183958f9c891e1a82918ea8.jpg",
+        "table_caption": [
+            "表1采样率为 $50 \\%$ 时，各算法的的性能对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>OMP</td><td>ROMP</td><td>SP</td><td>BP</td><td>CoSaMP</td><td>StOMP</td><td>L2,1-B_OMP</td></tr><tr><td>运行时间/s</td><td>5.0034</td><td>2.2554</td><td>5.2234</td><td>2.6754</td><td>8.2100</td><td>2.4432</td><td>5.2446</td></tr><tr><td>峰值信噪比/db</td><td>26.4102</td><td>18.9943</td><td>27.5643</td><td>25.5404</td><td>26.7988</td><td>25.3743</td><td>67.3043</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了方便图像进行传输，本文采取对图像进行分块操作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令对应的测量值为 $\\mathrm { \\Delta y }$ ，则原始图像的第i个小块经过变换后的向量表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\boldsymbol { y } } _ { i } = \\Phi _ { B } { \\boldsymbol { x } } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从上式可以看到，在分块压缩感知中只需要保存一个$\\mathrm { { \\ n ^ { * } ( B ^ { * } N ) } }$ 的矩阵，而不是一个大矩阵。显然，当 $\\mathrm { B ^ { * } N }$ 比较小的时候，内存占用少且计算速度快;当 $\\mathrm { B ^ { * } N }$ 比较大的时候，图像的重构效果比较好。所以需要找到一个比较折中的 $\\mathrm { { \\mathbf { B } } ^ { * } \\mathrm { { N } } }$ 的值。然后，对每个小块采用基于 $l _ { 2 , 1 }$ 范数选择的正交匹配追踪，从而实现图像重构。由图3、4看出(a)(b)(c)(e)视觉效果良好，剩余的块效应明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，块状数量选取不同，重构效果不同，由统计可知，在分块数量为 $^ { 4 ^ { * } 2 }$ 时，恢复效果佳。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种结合 $l _ { 2 , 1 }$ 范数选择原子的基于分块正交匹配追踪的重构方法。该算法以块结构获取图像，利用 $l _ { 2 , 1 }$ 范数最小化的选择方法选择出各个分块中的代表原子，有效地剔除了干扰原子，降低计算量并且重构效果好。实验结果表明，保证测试条件一致的前提下，从主观视觉和客观数据两方面都说明了该算法性能的有效性。然而，当受污染的数据分布在块状结构的边缘处时，其重构效果有所下降，故在这一方面还有待提出改进措施。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/72523cc9c039932a50c2e1fbddf401645984a71864812328f97660709ca7e76a.jpg",
+        "table_caption": [
+            "表2采样率0.5，不同分块下的的性能对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Lena</td><td colspan=\"2\">Barbara</td><td colspan=\"2\">cameraman</td><td colspan=\"2\">boat</td></tr><tr><td>Psnr</td><td>Time/s</td><td>Psnr</td><td>Time/s</td><td>Psnr</td><td>Time/s</td><td>Psnr</td><td>Time/s</td></tr><tr><td>2*1</td><td>66.7480</td><td>6.0744</td><td>26.8162</td><td>79.3814</td><td>36.4170</td><td>19.2552</td><td>47.3569</td><td>76.3372</td></tr><tr><td>2*2</td><td>63.6056</td><td>9.4125</td><td>27.2386</td><td>71.4876</td><td>37.1783</td><td>18.1028</td><td>44.2096</td><td>71.1920</td></tr><tr><td>4*2</td><td>67.3043</td><td>5.2446</td><td>32.1075</td><td>71.6157</td><td>40.4319</td><td>20.0217</td><td>46.7853</td><td>71.1635</td></tr><tr><td>4*4</td><td>65.0593</td><td>4.1227</td><td>28.2386</td><td>132.7240</td><td>39.1449</td><td>28.7785</td><td>44.6225</td><td>115.2722</td></tr><tr><td>8*1</td><td>65.3982</td><td>9.6814</td><td>30.4458</td><td>202.5869</td><td>36.3285</td><td>32.9373</td><td></td><td>39.3478 138.8600</td></tr><tr><td>8*2</td><td>13.0529</td><td>9.5404</td><td>8.2571</td><td>244.6040</td><td>11,2366</td><td>34.1345</td><td>16.7334</td><td>133.9920</td></tr><tr><td>8*4</td><td>12.7331</td><td>6.1774</td><td>7.3321</td><td>219.0565</td><td>10.5632</td><td>20.3923</td><td>11.5433</td><td>173.4998</td></tr><tr><td>8*8</td><td>11.2948</td><td>5.6814</td><td>4.5861</td><td>179.8573</td><td>9.2342</td><td>37.4083</td><td>9.2234</td><td>193.3932</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Donoho D L.Compressed sensing[J].IEEE Trans on Information theory, 2006,52 (4): 1289-1306   \n[2]Tropp JA,Gilbert AC,Strauss MJ.Algorithms for simultaneous sparse approximation,part I: greedy pursuit [J]. Signal Processing,20o6,86 (3): 589-602.   \n[3]Figueiredo MAT, Nowak R D,Wright S J.Gradient projection for sparse reconstruction:application to compressed sensing and other inverse problems [J].IEEE Journal of Selected Topics in Signal Processing,2008,1 (4): 586-597.   \n[4]Parikh N,Boyd S.Proximal algorithms [J].Foundations & Trends in Optimization,2014,1(3): 127-239.   \n[5]Efron B,Hastie T,Johnstone I,et al.Least angle regression [J].Annals of Statistics,2004,32 (2):407-451.   \n[6]Donoho DL,Tsaig Y,Drori I,et al. Sparse solution of underdetermined systems of linear equations by Stagewise Orthogonal Matching Pursuit [J]. IEEE Trans on Information Theory,2012,58 (2):1094-1121.   \n[7]刘学文，肖嵩，王玲，等．迭代预测正交匹配追踪算法[J].信号处理, 2017,33 (2): 178-184.   \n[8]Needell D,Vershynin R. Signal recovery from incomplete and inaccurate measurements via regularized orthogonal matching pursuit [J].IEEE Journal of Selected Topics in Signal Processing,2010,4(2): 310-316.   \n[9]Needell D,Tropp JA. CoSaMP: iterative signal recovery from incomplete and inaccurate samples [J]. Applied & Computational Harmonic Analysis, 2009,26 (3): 301-321.   \n[10] Dai W,Milenkovic O. Subspace pursuit for signal reconstruction [J].IEEE Trans on Information Theory,2009,55 (5): 2230-2249.   \n[11] Do TT,Lu G,Nguyen N,et al. Sparsity adaptive matching pursuit algorithm for practical compressed sensing [Cl// Proc of Asilomar Conference on Signals, Systems and Computers.2009: 581-587.   \n[12]田金鹏，刘小娟，郑国莘．一种变步长稀疏度自适应子空间追踪算法 [J]．自动化学报,2016,42(10):1512-1519.   \n[13]刘亚新，赵瑞珍，胡绍海，等．用于压缩感知信号重建的正则化自适应 匹配追踪算法 [J]．电子与信息学报,2012,32(11):2716-2717.   \n[14]吴迪，王奎民，赵玉新，等．分段正则化正交匹配追踪算法[J]．光学 精密工程,2014,22(5): 1395-1402.   \n[15]唐朝伟，王雪锋，杜永光．一种稀疏度自适应分段正交匹配追踪算法 [J]．中南大学学报：自然科学版,2016,47(3):784-792.   \n[16] Yao S,Sangaiah A K, Zheng Z,et al. Sparsity estimation matching pursuit algorithm based on restricted isometry property for signal reconstruction [J]. Future Generation Computer Systems, 2017.   \n[17] Onose A,Dumitrescu B.Adaptive matching pursuit using coordinate descent and double residual minimization [M].[S.1.]:Elsevier NorthHolland, Inc. 2013.   \n[18] Nie F,Huang H,Cai X,et al. Efficient and robust feature selection via joint &2,1-norms minimization [C]// Proc of International Conference on Neural Information Processing Systems.[S.1.] : Curran Associates Inc.,2010: 1813-1821.   \n[19] Yang Y,Shen HT,Ma Z,etal.l2,1-norm regularized discriminative feature selection for unsupervised learning [C]// Proc of International Joint Conference on Artificial Intelligence.[S.1] : AAAI Press,2011: 1589-1594.   \n[20] Shi X,Yang Y, Guo Z,etal.Face recognition by sparse discriminantanalysis via joint l2,1-norm minimization [J].Pattern Recognition,2014,47(7): 2447-2453.   \n[21] Sun L,LiuJ,Chen J,et al.Efficient recovery of jointly sparse vectors [C]// Proc of International Conference on Neural Information Processing Systems. Curran Associates Inc.,2009:1812-1820. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

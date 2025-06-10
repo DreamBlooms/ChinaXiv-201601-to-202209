@@ -1,0 +1,252 @@
+# $2 { \sim } 4$ 岁普通话儿童前注意阶段的声调感知机制\*
+
+杨婉晴 肖容 梁丹丹(南京师范大学文学院，南京 210097)
+
+摘要以MMN、p-MMR作为汉语词汇声调感知的神经关联物，探究 $2 { \sim } 4$ 岁汉语普通话儿童前注意阶段对声调刺激的失匹配响应，关注范畴信息和偏差大小两个因素对儿童感知水平的影响。结果显示：在范畴间大偏差条件下（T1/T3），诱发明显的 MMN；在范畴内或小偏差条件下（ $\mathrm { T } 3 \mathrm { a } / \mathrm { T } 3$ 、T3b/T3、T2/T3），都未诱发显著的MMR。表明： $2 { \sim } 4$ 岁普通话儿童正处于声调感知能力的发展过程中，音位信息和声学信息共同影响其声调感知。
+
+关键词 普通话儿童；声调感知；声调范畴；偏差大小
+
+# 1引言
+
+声调是声调语言中的关键成分，声调同时携带声学信息和音位信息。声学信息是指声调所体现的音高属性，表现为声音的高低升降变化；音位信息是指声调和元音、辅音等音段音位一样，具有区辨意义的作用，比如普通话有四个声调范畴，即四个声调音位，音节/yi/依据声调的不同而有不同意义：衣（T1:高平调）；姨（T2:升调）；椅（T3：曲折调）；益（T4:降调）。因为发音情境或嗓音条件的不同，同一范畴内部，具体的声调变体其声学特征并不完全一致，但成熟的声调语言母语者仍然能依据音位信息将它们与其他范畴的声调区分开。Xi等（2010)采用了范畴内（within-category）和范畴间（across-category）的刺激来区分声调中所携带的两类信息，范畴内的刺激只存在声学信息上的差异，而范畴间的刺激在声学和音位信息方面都不同。
+
+事件相关电位（Event-RelatedPotential，ERP）技术可以探究汉语儿童大脑自动加工时隐性的声调感知进程，已成为近年来研究儿童语音感知的有效工具。关于儿童声调感知的 ERP研究证明了失匹配响应成分（Mismatch NegativityResponse，包括失匹配负波MMN 和失匹配正波p-MMR）是探测儿童的声调感知的有效指标（Lee, Yen,Yeh,Lin, Cheng,& Tzeng,2012;Cheng,Wu,Tzeng, Yang,Zhao,&Lee,2013；Cheng,&Lee,2018）。
+
+成人的MMN（MismatchNegativity）通常表现为额中央分布的负成分，是由偏差刺激的 ERP 减去标准刺激的 ERP 得到的（Winkler，2007），其潜伏期在100ms～250ms 之间（Näätänen,Paavilainen,Rinne,& Alho,2007），许多研究发现当被试年龄较小（Trainor,Samuel,Desjardins,& Sonnadara,20o1；He,Hotson,&Trainor,2007，2009a，2009b）或者标准刺激和偏差刺激之间的差异度较小（Morr,Shafer, Kreuzer,& Kurtzberg，2002；Kuo,Lee,Chen, Liu,&Cheng,2014）的时候会出现p-MMR（PositiveMismatch Response）。普通话中不同范畴的声调，它们在音高和声学轮廓上都存在不同程度的差异，以T1、T2、T3为例，T1和T3 的差异程度比T2和T3的差异程度要大很多：从音高轮廓上看，T1是水平调（leveltone），T2、T3 都是轮廓调（contour tone）；从音高水平看，T1的基频要比T2、T3 高很多；根据区别和同一性判断任务，在听感上T2和T3也比其他几个声调更接近（Chandrasekaran,Krishnan,& Gandour,2007）。因此，T1、T2、T3 常作为声调感知研究的刺激材料，其中T1/T3被称为大偏差对（large deviant pair），T2/T3 被称为小偏差对（smalldeviant pair）。在成人研究中，范畴间大、小偏差刺激都会诱发明显的MMN，其中大偏差对所诱发的MMN平均波幅更大，潜伏期更早（Cheng et al.,2013；Yu，Wang，Li，& Li，2014；Yu, Zhou,Li,Su, Wang,&Li,2017）。
+
+一系列以汉语普通话儿童为实验对象的ERP研究表明，大偏差对T1/T3可以诱发0岁儿童的 $\boldsymbol { \mathsf { p } }$ -MMR，并且在6月龄时转化为MMN（Cheng etal.,2013），有学者认为这种极性转化反映了语音感知神经机制成熟（Kushnerenko,Ceponiene,Balan,Fellman,&Näätänen,2002）。其他研究表明大偏差对T1/T3可以诱发 $1 { \sim } 2$ 岁儿童、 $4 { \sim } 6$ 岁儿童稳定的 MMN(Cheng,& Lee,2018；Lee et al.,2012)。大偏差对感知机制的发展进程报道比较一致，而小偏差对的感知情况就比较复杂了。部分研究表明小偏差对 T2/T3 可以诱发 $6 \sim 1 8$ 个月儿童(Cheng etal., 2013;Cheng,& Lee, 2018)和 $4 { \sim } 6$ 岁儿童的 $\mathfrak { p }$ -MMR(Lee et al.,2012)；但在新生儿（Cheng et al.,2013）和2 岁年龄组(Cheng,&Lee,2018)中，小偏差对 T2/T3既不诱发 $\boldsymbol { \mathsf { p } }$ -MMR也不诱发MMN；也有研究指出 $4 { \sim } 6$ 岁儿童也存在不诱发任何MMRs的情况（孙琪，2016）。表1是按照上述研究所梳理的汉语普通话儿童声调感知神经机制的发展脉络(2岁以前细化到天，4岁以后精确到月)。
+
+表1汉语普通话儿童声调感知神经机制的发展脉络  
+
+<html><body><table><tr><td>年龄</td><td>T1/T3</td><td>T2/T3</td></tr><tr><td>新生儿组（出生13天内）</td><td>p-MMR</td><td>无 MMRs</td></tr><tr><td>6月龄组 (6个月15天内）</td><td>MMN</td><td>p-MMR</td></tr><tr><td>12月龄组（11；22～12；14)</td><td>MMN</td><td>p-MMR</td></tr><tr><td>18月龄组（17；25～18；17)</td><td>MMN</td><td>p-MMR</td></tr><tr><td>24月龄组（24；1～24；18）</td><td>MMN</td><td>无MMRs</td></tr><tr><td>3岁</td><td>未知</td><td>未知</td></tr><tr><td>4岁组（4；1～4；11）</td><td>MMN</td><td>弱p-MMR或无MMRs</td></tr><tr><td>5岁组（5；0～5；11)</td><td>MMN</td><td>p-MMR或无MMRs</td></tr><tr><td>6岁组（6；0~6；11)</td><td>MMN</td><td>p-MMR 或无MMRs</td></tr></table></body></html>
+
+通过上表可以看出在普通话儿童声调感知神经机制的研究方面，缺乏 $2 { \sim } 4$ 岁年龄段的数据表现，并且由于现有研究结果的矛盾，我们无法推测该年龄段儿童的声调感知机制。另外，行为研究表明：这个年龄段的儿童已经准确掌握 T1和 T4 两个声调，但对于声学特征比较相似的T2和T3仍存在混淆（Hua，2002;Wong，Schwartz，&Jenkins，2005；Ma,Zhou,Singh,&Gao,2017）。目前尚无神经机制方面的研究与已有的行为研究结果进行印证。因此，本研究以 $2 { \sim } 4$ 罗汉语普通话儿童为研究对象，考察其声调感知的神经机制。考虑到声调本身所携带的声学信息和音位信息在儿童的声调感知中都可能发挥作用，而以往研究所设计的偏差对并没有把这两个因素剥离开，故本研究在选取范畴间大小偏差刺激（yil/yi3;yi2/yi3）的基础上，合成两个范畴内大小偏差刺激（yi3a/yi3;yi3b/yi3），考察偏差大小在范畴间和范畴内两个条件下的表现，从而探讨音位信息和声学信息在儿童声调感知中的作用。
+
+本研究预测 $2 { \sim } 4$ 岁儿童正处于声调感知能力的发展过程中，也就是说该阶段儿童能清晰地感知到T1/T3的差异，但是对T2/T3的差异辨别尚未达到成熟的自动化加工。这种情况下，依据前人研究成果，T1/T3会诱发显著的MMN，而T2/T3可能诱发p-MMR也可能不出现明显的MMR成分。倘若儿童的声调感知机制只与声学信息有关，那么T3a/T3会诱发和T1/T3相同的MMN成分，T3b/T3与T2/T3的趋势也保持一致。倘若声学信息和音位信息共同作用于儿童的声调感知机制，只有声学差异的T3a/T3、T3b/T3诱发的MMR成分将不同于既有声学信息差异又有音位信息差异的T1/T3和T2/T3。
+
+# 2实验
+
+# 2.1被试
+
+32名 $2 { \sim } 4$ 罗汉语普通话儿童自愿参与实验，剔除由于哭闹中途终止实验和由于乱动可叠加tiral数目不足 $30 \%$ 的儿童数据。16名儿童的数据进入最后统计，其中男孩7人，女孩9人，平均年龄3岁4个月（跨度：2岁6个月—3岁10个月），家庭和幼儿园都使用普通话与儿童交流。所有被试视力正常，听力正常，言语发展和非言语发展均正常，无神经系统疾病、头部损伤或连续的药物使用。实验前使用丹佛发育筛查测试（Denver Developmental Screening Test，DDST）对几童进行评估，测试结果均正常。脑电实验前由监护人签定《家长知情同意书》。
+
+# 2.2刺激
+
+实验共有两组刺激：范畴间刺激（下称组1）和范畴内刺激（下称组2），全部刺激的基频图可见图3。
+
+组1包含三个音节yi1（T1），yi2（T2），yi3（T3），它们都包含同一个元音[i]，但是音高轮廓不同，属于不同范畴的三个声调。音节yi1（T1）是高平调，基频在 $2 5 0 \mathrm { H z }$ 左右；音节 yi2（T2）是高升调，基频从 $2 0 0 \mathrm { H z }$ 上升至 245Hz;音节yi3（T3）是低降调，基频从 $1 9 5 \mathrm { H z }$ 将至 $1 5 5 \mathrm { H z }$ 再回升至 $2 0 0 \mathrm { H z }$ 。T3 是标准刺激，T1作为大偏差刺激，T2作为小偏差刺激。刺激由女性普通话母语者录制，以16位记录，采样率为 $4 4 1 0 0 \mathrm { H z }$ 。
+
+组2包含三个音节yi3（T3），yi3a（T3a），yi3b（T3b），这三个刺激只有基频和曲折度上的差异，听感上都是上声，属于同一范畴的三个声调。其中T3/T3a属于大偏差对，T3/T3b属于小偏差对。刺激由T1或T2和T3生成的声调连续统（指一组基频频率呈现连续变化的合成声音信号）中提取，T3a和标准刺激T3的间隔距离与T1和T3的间隔距离相同(图1),基频从 $1 5 2 \mathrm { H z }$ 将至 $5 5 \mathrm { H z }$ 再回升至 $1 5 2 \mathrm { H z }$ ；T3b 和标准刺激T3的间隔距离与T2和T3的间隔距离相同（图2），基频从 $1 9 3 \mathrm { H z }$ 将至 $\mathrm { { 1 0 3 H z } }$ 再回升至 $1 6 4 \mathrm { H z }$ 。
+
+使用Praat软件标准化所有的刺激，刺激的强度和持续时间分别为70dB和$2 5 0 \mathrm { m s }$ 。15名成人对刺激材料进行听感辨析，正确率 $100 \%$ 。
+
+![](images/c5be3d764eaced8fe1afeae414bc007d53d45cdb22db01d07924b2f013efd4a5.jpg)  
+图1T1-T3声调感知连续统
+
+![](images/5b4dd73c4e6d8538d81e2c606ddf389b745458d2001f0573ac800d5f9386529f.jpg)  
+图2 T2-T3声调感知连续统
+
+![](images/dc5ff830727532bba3fc353987f8cbf766eb93525a363ea675e01bc388937dcf.jpg)
+
+![](images/db916d54aef6b006cfe2905a96156dba975aad5a29a4d9910660a2c596d4fc6a.jpg)  
+图3全部刺激的频谱图
+
+# 2.3 实验程序
+
+被试头戴actiCAP 电极帽坐在一个高脚宝宝椅或舒适的椅子上观看一个无声的自选动画片，被试正前方约 $7 0 \mathrm { c m }$ 处一对喇叭以 70dB 的声音强度呈现刺激。实验采用多偏差oddball范式，实验程序先重复呈现20个标准刺激，后呈现1000个 trial包括 $80 \%$ 的标准刺激， $10 \%$ 的大偏差刺激， $10 \%$ 的小偏差刺激。采用伪随机的顺序呈现刺激，任意两个偏差刺激间至少间隔两个标准刺激。每个trial的持续时间是 $2 5 0 \mathrm { m s }$ ，刺激间隔是 $5 0 0 \mathrm { m s }$ 。两组实验程序完全相同，每组实验时长约20 分钟，组1和组2呈现给被试的先后顺序随机，每组实验结束后休息10分钟进入下一组实验。
+
+# 2.4 脑电记录
+
+使用Brain Products 公司生产的 actiCHamp32导联脑电系统记录EEG。EEG记录部位为国际10-20系统。记录FP1，FP2， $\mathrm { F P z }$ ，F3，F4，Fz，C3，C4，Cz和双侧乳突TP9，TP10的脑电信号。在线收集时， $\mathrm { F P z }$ 作为接地电极， $\mathrm { C z }$ 作为参考电极。采样率为 ${ 5 0 0 } \mathrm { H z } / \$ 导，头皮电阻均小于 $5 \mathrm { k } \Omega$ 。
+
+# 2.5 ERP数据分析
+
+离线处理时采用BrainVisionAnalyzer2.1脑电数据处理软件。转为双侧乳突平均参考，离线滤波的频带宽度为 $1 { \sim } 2 0 \mathrm { H z }$ 。取刺激前 $1 0 0 \mathrm { m s }$ 到刺激后 $5 0 0 \mathrm { m s }$ 的 $6 0 0 \mathrm { m s }$ 为分析时程。自动矫正眨眼等伪迹，振幅大于 $\mathrm { \dot { \pm } l 0 0 \mu V }$ 的脑电事件视为伪迹自动剔除，预处理后每个被试在每种条件下可用的trial数目均在30以上。最后对各个实验条件下诱发的脑电信号分别进行叠加。选择以下6个电极位置记录的ERP波形用于统计分析：F3、Fz、F4、C3、Cz、C4。
+
+# 3结果
+
+# 3.1 MMN和p-MMR的可靠性检验
+
+# 3.1.1 范畴间偏差诱发MMN的可靠性检验
+
+根据原始总平均波幅和前人研究结果（Kaan,Wayland,Bao,&Barkley,2007;Wang，Wang,& Chen,2013；Yu et al.,2017），选择 $1 5 0 { \sim } 3 0 0 \mathrm { m s }$ 作为MMN的时间窗，MMN平均波幅为偏差刺激诱发的ERP减去标准刺激诱发的ERP的差异波。根据所有条件下所有被试在 $\mathrm { F } z$ 电极点处差异波的总平均波幅确定分析时间窗，Fz电极点诱发MMN在刺激呈现后 $2 2 0 \mathrm { m s }$ 达到峰值，从波峰向两边各取30ms 作为分析时间窗，最终分析时间窗为刺激呈现后 $1 9 0 { \sim } 2 5 0 ~ \mathrm { m s }$ 。不同刺激在各个电极点上诱发的ERP总平均波形如图4所示。
+
+![](images/4fd6a5ceb201824f516585eda96042cb8385098575523eda27e734bb33896e80.jpg)  
+图4范畴间不同刺激诱发的ERP总平均波形（时间窗： $1 9 0 ^ { \sim } 2 5 0 \mathrm { m s }$ ）
+
+对范畴间的偏差刺激和标准刺激在 $1 9 0 { \sim } 2 5 0 \mathrm { m s }$ 内在 F3、Fz、F4、C3、Cz、C4六个电极点上所引起ERP的平均波幅进行成对样本T检验。结果表明：范畴间大偏差刺激（T1）和标准刺激（T3）在6个电极点上的平均波幅差异显著。在F3、Fz、F4、C3、Cz、C4 六个电极点均显示，T1比T3 在 $1 9 0 { \sim } 2 5 0 ~ \mathrm { m s }$ 处引起一个更负的波，即大偏差对在所选六个电极点上都诱发了可靠的MMN，大偏差刺激与标准刺激在 $1 9 0 { \sim } 2 5 0 ~ \mathrm { m s }$ 时间窗内的平均波幅和标准差如表2所示。
+
+表2范畴间大偏差刺激与标准刺激的平均波幅 $( \mu \lor )$ 和标准差  
+
+<html><body><table><tr><td></td><td>T1</td><td>T3</td><td>T1-T3</td><td>t(15)</td><td>p</td><td>Cohen’sd</td></tr><tr><td>F3</td><td>-0.65(2.44)</td><td>1.34 (2.12)</td><td>-1.99(3.33)</td><td>-2.39</td><td>0.031*</td><td>-0.87</td></tr><tr><td>Fz</td><td>-1.53 (3.71)</td><td>1.87 (2.01)</td><td>-3.40(4.08)</td><td>-3.33</td><td>0.005*</td><td>-1. 14</td></tr><tr><td>F4</td><td>-1.47 (3.63)</td><td>1.62 (1.97)</td><td>-3.09 (4.44)</td><td>-2.78</td><td>0.014*</td><td>-1.06</td></tr><tr><td>C3</td><td>-1.53 (3.18)</td><td>0.99(1.69)</td><td>-2.52 (3.84)</td><td>-2.622</td><td>0.019*</td><td>-0.99</td></tr></table></body></html>
+
+<html><body><table><tr><td>Cz</td><td>-2.22 (4.71)</td><td>1.17 (1.47)</td><td>-3.39 (5.82)</td><td>-2.33</td><td>0.034*</td><td>-0.97</td></tr><tr><td>C4</td><td>-1.58 (3.73)</td><td>1.25 (1.84)</td><td>-2.83 (4.56)</td><td>-2.483</td><td>0.025*</td><td>-0.96</td></tr></table></body></html>
+
+（注： $\ast p / 0 . 0 5$ ;括号内是标准差，下同）
+
+范畴间小偏差刺激（T2）与标准刺激（T3）在6个电极点上的平均波幅差异不显著。在F3、Fz、F4、C3、Cz、C4六个电极点均显示，T2比T3在190\~250ms 处引起一个更负的波，都未达到显著水平。小偏差刺激与标准刺激在190\~250ms 时间窗内的平均波幅和标准差如表3所示。
+
+表3范畴间小偏差刺激与标准刺激的平均波幅 $( \mu \lor )$ 和标准差  
+
+<html><body><table><tr><td></td><td>T2</td><td>T3</td><td>T2-T3</td><td>t (15)</td><td>p</td><td>Cohen’s d</td></tr><tr><td>F3</td><td>0.81(4.00)</td><td>1.34 (2.12)</td><td>-0.53(4.04)</td><td>-0.53</td><td>0.606</td><td>-0.16</td></tr><tr><td>Fz</td><td>1. 68 (3.71)</td><td>1.86 (2.01)</td><td>-0.18(3.56)</td><td>-0.20</td><td>0.844</td><td>-0.06</td></tr><tr><td>F4</td><td>0.59 (3.82)</td><td>1.62 (1.97)</td><td>-1.03 (3.56)</td><td>-1. 12</td><td>0.266</td><td>-0.34</td></tr><tr><td>C3</td><td>0.46 (3.54)</td><td>0.99(1.69)</td><td>-0.53(3.75)</td><td>-0.57</td><td>0.575</td><td>-0.19</td></tr><tr><td>Cz</td><td>0.76 (3.57)</td><td>1. 17 (1.47)</td><td>-0.41(4.05)</td><td>-0.41</td><td>0.687</td><td>-0.15</td></tr><tr><td>C4</td><td>-0.10 (3.68)</td><td>1.25 (1.85)</td><td>-1.35 (4.49)</td><td>-1.20</td><td>0.248</td><td>-0.46</td></tr></table></body></html>
+
+综上，范畴间大偏差刺激在所有电极点上诱发了可靠的MMN；范畴间小偏差刺激在 $1 9 0 { \sim } 2 5 0 ~ \mathrm { m s }$ 处引起了一个负波，但未达到显著水平。
+
+# 3.1.2 范畴内偏差诱发MMN的可靠性检验
+
+采用和组1相同的方法确定时间窗，最终分析时间窗为刺激呈现后190\~250ms。不同刺激在各个电极点上诱发的ERP总平均波形如图5所示。
+
+![](images/32b44f44704110b40cbf35ad26304b6b7ccef61aa8124eca464e2db46212f0d1.jpg)  
+图5范畴内不同刺激诱发的ERP总平均波形（时间窗： $1 9 0 { \sim } 2 5 0 ~ \mathrm { m s }$ ）
+
+对范畴内的偏差刺激和标准刺激在 $1 9 0 { \sim } 2 5 0 ~ \mathrm { m s }$ 内所引起ERP的平均波幅进行成对样本T检验。结果表明：范畴内大偏差刺激（T3a）和标准刺激（T3）在6个电极点上的平均波幅差异不显著。在F3、Fz、F4、C3、 $\mathrm { C z }$ 、C4六个电极点上，T3a都没有引起和T3差异明显的波。范畴内大偏差刺激与标准刺激在$1 9 0 { \sim } 2 5 0 ~ \mathrm { m s }$ 时间窗内的平均波幅和标准差如表4所示。范畴内小偏差刺激(T3b)与标准刺激（T3）在6个电极点上的平均波幅差异不显著。在F3、Fz、F4、C3、Cz、C4六个电极点上，T3b都没有引起和T3差异明显的波。范畴内小偏差刺激与标准刺激在 $1 9 0 { \sim } 2 5 0 ~ \mathrm { m s }$ 时间窗内的平均波幅和标准差如表5所示。也就是说，范畴内大、小偏差均未诱发可靠的MMN。
+
+表4范畴内大偏差刺激与标准刺激的平均波幅（uV）和标准差  
+
+<html><body><table><tr><td></td><td>T3a</td><td>T3</td><td>T3a-T3</td><td>t</td><td>p</td><td>Cohen’s d</td></tr><tr><td>F3</td><td>1.77 (2.88)</td><td>1.18 (2.34)</td><td>0.59 (2.23)</td><td>1.05</td><td>0.309</td><td>0.22</td></tr><tr><td>Fz</td><td>1.25 (3.65)</td><td>1.03(1.92)</td><td>0.22 (3.23)</td><td>0.28</td><td>0.786</td><td>0.08</td></tr><tr><td>F4</td><td>1.87 (3.58)</td><td>1.13(2.63)</td><td>0.74(2.92)</td><td>1.03</td><td>0.322</td><td>0.24</td></tr><tr><td>C3</td><td>0.78(2.15)</td><td>0.66(1.37)</td><td>0.12(2.39)</td><td>0.20</td><td>0.844</td><td>0.07</td></tr><tr><td>Cz</td><td>1.01 (2.76)</td><td>1.66 (1.91)</td><td>-0.65(3.56)</td><td>-0.73</td><td>0.476</td><td>-0.27</td></tr><tr><td>C4</td><td>1.04(3.19)</td><td>0.86 (1.52)</td><td>0.18 (3.17)</td><td>0.22</td><td>0.827</td><td>0.07</td></tr></table></body></html>
+
+表5范畴内小偏差刺激与标准刺激的平均波幅（uV）和标准差  
+
+<html><body><table><tr><td></td><td>T3b</td><td>T3</td><td>T3b-T3</td><td>t</td><td>p</td><td>Cohen’s d</td></tr><tr><td>F3</td><td>1.36 (2.25)</td><td>1.18 (2.34)</td><td>0.18 (1.89)</td><td>0.38</td><td>0.713</td><td>0.08</td></tr><tr><td>Fz</td><td>1. 43 (2.54)</td><td>1.03(1.92)</td><td>0.40(1.64)</td><td>0.99</td><td>0.339</td><td>0.18</td></tr><tr><td>F4</td><td>1.86 (2.28)</td><td>1.13 (2.63)</td><td>0.73 (2.05)</td><td>1. 43</td><td>0.173</td><td>0.30</td></tr><tr><td>C3</td><td>1. 05 (2.11)</td><td>0.66 (1.37)</td><td>0.39 (1.59)</td><td>0.99</td><td>0.340</td><td>0.22</td></tr><tr><td>Cz</td><td>1.68 (3.20)</td><td>1. 66 (1.91)</td><td>0.02 (2.12)</td><td>0.04</td><td>0.970</td><td>0.01</td></tr><tr><td>C4</td><td>1.09 (1.36)</td><td>0.87 (1.52)</td><td>0.22 (1.34)</td><td>0.67</td><td>0.515</td><td>0.15</td></tr></table></body></html>
+
+# 3.1.3范畴间偏差诱发p-MMR的可靠性检验
+
+前人研究表明当刺激区分难度比较大的时候会产生p-MMR成分，p-MMR的出现与细胞成熟度有关，部分学者认为p-MMR的出现是听觉感知不成熟的表现，p-MMR 可能是 MMN的前身（Kushnerenko et al.,2002；Lee et al.,2012；Cheng etal.,2013）。考虑到范畴间小偏差对可能诱发 $2 { \sim } 4$ 岁儿童的p-MMR，对其所诱发的p-MMR进行可靠性检验。
+
+根据差异波波形和前人研究结果（Cheng etal.,2013;Cheng,&Lee,2018;Leeet al.,2012），选择 $1 5 0 { \sim } 3 5 0 ~ \mathrm { m s }$ 作为 $\mathfrak { p }$ -MMR的时间窗，范畴间小偏差刺激对所引起的正波都在这个时间窗内。根据所有被试在Fz电极点处差异波的总平均波幅确定分析时间窗，Fz电极点诱发在刺激呈现后 $2 9 8 \mathrm { m s }$ 达到峰值，从波峰向两边各取 $3 0 \mathrm { m s }$ 作为分析时间窗最终分析时间窗为刺激呈现后268\~328msop-MMR的平均波幅为偏差刺激诱发的ERP减去标准刺激诱发的ERP的差异波。偏差刺激和标准刺激相减所得的差异波如图6所示。
+
+![](images/b8b0ba93cdf238a1c4e7b5c63d61e1f22a664677452f8a9e3551aed685d93d8f.jpg)
+
+![](images/f6b2d46fe61bf2980bfb6982d9461d0be6fd3777e34e00d3a3fc7d2501a06229.jpg)
+
+图6范畴间大小偏差刺激与标准刺激相减得到的差异波比较（时间窗： $2 6 8 { \sim } 3 2 8 \mathrm { m s }$ ）
+
+对小偏差对在 F3、Fz、F4、C3、 $\mathrm { C z }$ 、C4、电极点诱发的p-MMR的平均波幅与零水平的单样本t检验，结果表明：小偏差对在 $2 6 8 { \sim } 3 2 8 \ \mathrm { m s }$ 处引起了一个正波，但均未达到显著水平，即小偏差对没有诱发 $2 { \sim } 4$ 岁汉语普通话儿童可靠的p-MMR。小偏差刺激与标准刺激所引起的差异波在 $2 6 8 { \sim } 3 2 8 \ \mathrm { m s }$ 时间窗内的平均波幅和标准差如表6所示。
+
+表6范畴间小偏差对所诱发差异波的平均波幅 $( \mathrm { ~ \textmu ~ V ~ } )$ 和标准差  
+
+<html><body><table><tr><td>T2-T3</td><td>t(15)</td><td>p</td><td>Cohen’s d</td></tr><tr><td>F3</td><td>0.45 (3.38)</td><td>0.55 0.59</td><td>0.19</td></tr><tr><td>Fz</td><td>1.32 (3.43)</td><td>1.59 0.13</td><td>0.54</td></tr><tr><td>F4</td><td>0.81 (3.27)</td><td>1.02 0.32</td><td>1.12</td></tr><tr><td>C3</td><td>0.04(2.89)</td><td>0.05 0.96</td><td>0.02</td></tr><tr><td>Cz</td><td>1.08 (3.95)</td><td>1.12 0.28</td><td>0.39</td></tr><tr><td>C4</td><td>0.21 (2.78)</td><td>0.31</td><td>0.76 0.11</td></tr></table></body></html>
+
+# 3.1.4 范畴内偏差诱发p-MMR的可靠性检验
+
+yi3a、yi3b与yi3同属于一个范畴，区分难度比较大，很可能诱发p-MMR成分，检测范畴内两种偏差水平的刺激对是否诱发p-MMR成分。采用与组1相同的方法确定最终分析时间窗为刺激呈现后 $3 1 8 { \sim } 3 7 8 ~ \mathrm { m s }$ 。范畴内大、小偏差刺激与标准刺激相减得到的差异波如图7所示。
+
+![](images/92fac51175ab5e016617702dd87704898d5a1db9ec7846b0e16a8ea1eb09bcc1.jpg)
+
+![](images/25c613b7577cbb759ddaec9bce9ef1d9415302da832e7ce44dc58195029edb4c.jpg)
+
+图7范畴内大、小偏差刺激与标准刺激相减得到的差异波比较（时间窗： $3 1 8 { \sim } 3 7 8 \mathrm { m s }$ ）
+
+对范畴内两种偏差水平的刺激对在F3、Fz、F4、C3、Cz、C4、电极点诱发的p-MMR的平均波幅与零水平的单样本t检验，结果表明：范畴内大偏差对在$3 1 8 { \sim } 3 7 8 ~ \mathrm { m s }$ 处引起了一个正波，在六个点均未达到显著水平。范畴内大偏差对在 $3 1 8 { \sim } 3 7 8 ~ \mathrm { m s }$ 时间窗内所诱发差异波的平均波幅和标准差如表7所示。范畴内小偏差对在 $3 1 8 { \sim } 3 7 8 ~ \mathrm { m s }$ 处引起了一个正波，在六个点均未达到显著水平。范畴内小偏差对在 $3 1 8 { \sim } 3 7 8 \ \mathrm { m s }$ 时间窗内所诱发差异波的平均波幅和标准差如表8所示。
+
+表7范畴内大偏差对所诱发差异波的平均波幅（uV）和标准差  
+
+<html><body><table><tr><td></td><td>T3a-T3</td><td>t</td><td>p</td><td>Cohen’sd</td></tr><tr><td>F3</td><td>1.13 (2.73)</td><td>1. 65</td><td>0.119</td><td>0.56</td></tr><tr><td>Fz</td><td>0.68 (3.15)</td><td>0.87</td><td>0.398</td><td>0.31</td></tr><tr><td>F4</td><td>0.24(2.62)</td><td>0.37</td><td>0.717</td><td>0.13</td></tr><tr><td>C3</td><td>0.34(2.35)</td><td>0.58</td><td>0.569</td><td>0.20</td></tr><tr><td>Cz</td><td>0.14(3.97)</td><td>0.14</td><td>0.890</td><td>0.50</td></tr><tr><td>C4</td><td>0.13 (2.62)</td><td>0.02</td><td>0.984</td><td>0.07</td></tr><tr><td colspan="5">表8范畴内小偏差对所诱发差异波的平均波幅 (uV) 和标准差</td></tr><tr><td></td><td>T3b-T3</td><td>t</td><td>p</td><td>Cohen’sd</td></tr><tr><td>F3</td><td>0.39 (3.07)</td><td>0.51</td><td>0.617</td><td>0.18</td></tr><tr><td>Fz</td><td>1.26(3.18)</td><td>1.58</td><td>0.136</td><td>0.56</td></tr><tr><td>F4</td><td>1.19 (2.57)</td><td>1.85</td><td>0.084</td><td>0.65</td></tr><tr><td>C3</td><td>0.58(2.18)</td><td>1.06</td><td>0.307</td><td>0.38</td></tr><tr><td>Cz</td><td>1.43 (3.21)</td><td>1.79</td><td>0.094</td><td>0.63</td></tr><tr><td>C4</td><td>0.85(2.33)</td><td>1.46</td><td>0.164</td><td>0.52</td></tr></table></body></html>
+
+# 3.2范畴与偏差效应检验
+
+分析范畴和偏差大小两个因素对 $2 { \sim } 4$ 岁汉语普通话儿童声调感知的综合作用。观察差异波波形可知，选取的六个电极点F3、Fz、F4、C3、 $C z$ 、C4，在190-250ms 的时间窗内有着差异明显的失匹配成分。虽然观察波形图Cz、F4、Fz点疑似出现了p-MMR，但是由于3.1.3 和3.1.4 部分已经排除了诱发p-MMR的可能，不再重复讨论。仅对 $1 9 0 { - } 2 5 0 \ \mathrm { \ m s }$ 时间窗内的失匹配负波进行比较。四种类型偏差刺激与标准刺激相减得到的差异波波形见图8。
+
+![](images/12ff785dd42ce3131c0ea41452ac7e10dbb95c0433ba6b238622d6426fdd49ee.jpg)  
+图8 四种类型偏差刺激与标准刺激相减得到的差异波波幅比较（时间窗： $1 9 0 { \sim } 2 5 0$ ms）
+
+# 3.2.1 四种条件下差异波平均波幅分析
+
+采用2（范畴：范畴间/范畴内） $\times 2$ （偏差：大偏差/小偏差） $\times 6$ （电极点F3、$\mathrm { F } z$ 、F4、C3、 $\mathrm { C z }$ 、C4）的多因素重复测量方差分析对 $1 9 0 { \sim } 2 5 0 ~ \mathrm { m s }$ 时间窗内F3、$\mathrm { F } z$ 、F4、C3、 $\mathrm { C z }$ 、C4电极点的差异波的平均波幅进行统计分析。结果如下：范畴主效应显著，范畴间刺激比范畴内刺激诱发一个更负的失匹配响应‘ $\mathrm { ( - 1 . 7 7 \mu V }$ VS $0 . 2 6 \mu \mathrm { V } )$ ， $F$ （1,15） $= 7 . 4 5$ ， $p = 0 . 0 1 6$ ， $\boldsymbol { \eta } ^ { 2 } \ = 0 . 3 3$ ；偏差主效应显著，大偏差对比小偏差对诱发一个更负的失匹配响应（ $- 1 . 3 3 ~ \mu \mathrm { V }$ VS $- 0 . 1 7 \mu \mathrm { V } \dot { } ,$ ）， $F$ （1,15)$= 5 . 6 4$ ， $p = 0 . 0 3 1$ ， $\mathfrak { n } ^ { 2 } = 0 . 2 7$ ；电极点主效应不显著， $F \left( 1 , 1 5 \right) \ = 1 . 3 0$ ， $p = 0 . 2 7 3$ ，$\eta ^ { 2 } = 0 . 0 8$ ，六个电极点呈现相同趋势，无明显差异。范畴和偏差交互作用边缘显著， $\begin{array} { l l } { F \ ( 1 , 1 5 ) } & { = 3 . 5 8 } \end{array}$ ， $p = 0 . 0 7 8$ ， $\eta ^ { 2 } = 0 . 1 9$ ；范畴和电极点交互作用不显著， $F$ （1,15） $= 1 . 0 1$ ， $\begin{array} { r } { p = 0 . 4 1 9 } \end{array}$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 0 6$ ；偏差和电极点交互作用不显著， $F$ (1,15)$= 1 . 5 9$ ， $p { = } 0 . 1 7 2$ ， $\eta ^ { 2 } = 0 . 1 0$ ；范畴、偏差、电极点三因素交互作用不显著， $F ( 1 , 1 5 )$ （204号$= 0 . 6 1$ ， $p = 0 . 6 9 0$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 0 4$ 。
+
+# 3.2.2 四种条件下差异波潜伏期分析
+
+采用2（范畴：范畴间/范畴内） $\times 2$ （偏差：大偏差/小偏差） $\times 6$ （电极点F3、$\mathrm { F } z$ 、F4、C3、 $\mathrm { C z }$ 、C4）的多因素重复测量方差分析对 $1 9 0 { \sim } 2 5 0 ~ \mathrm { m s }$ 时间窗内F3、$\mathrm { F } z$ 、F4、C3、 $C z$ 、C4电极点的MMR的潜伏期进行统计分析。结果如下：范畴主效应不显著， $F \left( 1 , 1 5 \right) = 0 . 2 4 \$ ， $p = 0 . 6 2 8$ ， $\displaystyle \mathfrak { n } ^ { \ 2 } \ = 0 . 0 2$ ；偏差主效应不显著， $F$ $( 1 , 1 5 ) = 2 . 1 9$ ， $p = 0 . 1 5 9$ ， $\eta ^ { 2 } = 0 . 1 3$ ；电极点主效应不显著， $F$ $( 1 , 1 5 ) = 0 . 1 9$ ，$p = 0 . 9 6 5$ ， $\mathfrak { n } ^ { 2 } = 0 . 0 1$ ；范畴和偏差交互作用不显著， $F \left( 1 , 1 5 \right) \ = 0 . 0 1$ ， $p = 0 . 9 4 0$ ，$\mathfrak { \eta } ^ { 2 } = 0 . 0 0$ ；范畴和电极点交互作用不显著， $F ( 1 , 1 5 ) \ = 0 . 3 5$ ， $p = 0 . 8 8 1$ ， $\boldsymbol { \eta } ^ { 2 } = 0 . 0 2$ ：偏差和电极点交互作用不显著， $F$ （204号 $( 1 , 1 5 ) = 1 . 7 1$ ， $p = 0 . 1 4 2$ ， $\eta ^ { 2 } = 0 . 1 0$ ；范畴、偏差、电极点三因素交互作用不显著， $F \left( 1 , 1 5 \right) = 1 . 5 6$ ， $\boldsymbol { p } = 0 . 1 8 2$ ， $\eta ^ { 2 } = 0 . 0 9$ 。
+
+# 3.2.3 四种条件下差异波振幅和潜伏期与年龄的相关性
+
+将所有被试的四种条件下差异波的平均振幅和潜伏期与年龄进行 Pearson 双相关分析，结果显示均无显著相关性。相关系数如表9、表10所示。
+
+表9四种条件下差异波的平均振幅与年龄的相关系数  
+
+<html><body><table><tr><td></td><td colspan="5">范畴间大偏差</td><td colspan="5">范畴间小偏差</td><td colspan="5"></td><td colspan="5">范畴内大偏差</td><td colspan="5">范畴内小偏差</td></tr><tr><td></td><td>F3</td><td>F4</td><td>C3</td><td>C4</td><td>Fz</td><td>Cz</td><td>F3</td><td>F4</td><td>C3</td><td>C4</td><td>Fz</td><td>Cz</td><td>F3</td><td>F4</td><td>C3</td><td>C4</td><td>Fz</td><td>Cz</td><td></td><td>F3</td><td>F4</td><td>C3</td><td>C4</td><td>Fz</td><td>Cz</td></tr><tr><td>年龄</td><td>-0.05</td><td>-0.53</td><td>-0.25</td><td>-0.34</td><td>-0.29</td><td>-0. 47</td><td>0.08</td><td>0. 14</td><td>0.14</td><td>0.19</td><td>0.08</td><td>0.15</td><td>0.18</td><td>0.20</td><td>0.17</td><td>0.24</td><td>0.07</td><td>-0.23</td><td>0.17</td><td></td><td>0.22</td><td>0.12</td><td>0.07</td><td>0.16</td><td>0.11</td></tr></table></body></html>
+
+表10四种条件下差异波的潜伏期与年龄的相关系数  
+
+<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>范畴间大偏差</td><td></td><td></td><td></td><td></td><td></td><td>范畴间小偏差</td><td></td><td></td><td></td><td></td><td></td><td>范畴内大偏差</td><td></td><td></td><td></td><td></td><td>范畴内小偏差</td><td></td><td></td><td></td></tr><tr><td></td><td>F3</td><td>F4</td><td>C3</td><td>C4</td><td>Fz</td><td>Cz</td><td></td><td>F3</td><td>F4</td><td>C3</td><td>C4</td><td>Fz</td><td>Cz</td><td>F3</td><td>F4</td><td>C3</td><td></td><td>C4</td><td>Fz</td><td>Cz</td><td>F3</td><td>F4</td><td>C3</td><td>C4</td><td>Fz</td><td>Cz</td></tr><tr><td>年龄</td><td></td><td>-0.17 0.14 -0.21</td><td></td><td>-0.06</td><td>-0.16</td><td>-0.28</td><td>-0.19</td><td>-0.17</td><td>-0.26</td><td>-0.36</td><td></td><td>-0.25</td><td>-0.32</td><td>-0.32</td><td>-0.06</td><td>-0.44</td><td>-0.43</td><td>-0.22</td><td>-0.40</td><td>-0.14</td><td>-0.08</td><td></td><td>-0.240.38</td><td></td><td>-0.18 -0.16</td></tr></table></body></html>
+
+# 4讨论
+
+通过以上分析，可以总结出 $2 { \sim } 4$ 岁儿童在四种情况下声调感知的神经机制表现（见表11），该表显示了一个比较明确的研究发现： $2 { \sim } 4$ 岁儿童的声调感知并未达到成熟水平，范畴内差异不能诱发任何正负MMR反应，只有范畴间差异可以，并且只在大偏差情况下显著。本研究的发现表明 $2 { \sim } 4$ 岁儿童还正处于声调感知发展阶段，仅在声学区分度较大、且含有音位变化的情况下，能够对声调进行前注意区分，音位信息和声学信息共同影响其感知。下面结合声学信息和音位信息的作用对实验结果展开讨论。
+
+表 $1 1 \ 2 { \sim } 4$ 岁儿童在四种条件下的感知机制表现  
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="2">范畴间刺激</td><td colspan="2">范畴内刺激</td></tr><tr><td>T1/T3</td><td>T2/T3</td><td>T3a/T3</td><td>T3b/T3</td></tr><tr><td>MMN</td><td>显著</td><td>不显著</td><td>不显著</td><td>不显著</td></tr><tr><td>p-MMR</td><td></td><td>不显著</td><td>不显著</td><td>不显著</td></tr></table></body></html>
+
+4.1 $\mathbf { 2 } { \sim } 4$ 岁普通话儿童正处于声调自动化感知能力的发展过程中
+
+根据实验结果可推测 $2 { \sim } 4$ 岁普通话儿童正处于声调感知能力的发展过程中,该阶段儿童能清晰地感知到T1/T3的差异，但是对T2/T3的差异辨别尚未达到成熟的自动化加工水平。前人研究结果显示，T1/T3可以诱发6月龄（Cheng et al.,2013）、 $1 { \sim } 2$ 岁（Cheng&Lee,2018）、 $4 { \sim } 6$ 岁（Lee etal.,2012）普通话儿童的MMN。前人研究中的T1/T3对应于本研究中的范畴间大偏差对。本研究中的实验结果也验证了T1/T3所诱发MMN的稳定性， $2 { \sim } 4$ 岁普通话儿童对T1/T3声调对的感知表现与更小和更大的年龄段的儿童相一致。在幼儿期，对 T1/T3声调对差异的探测能力已处于较为稳定的状态。
+
+根据前人研究结果，本研究预测T2/T3可能会诱发p-MMR 成分或不诱发MMR成分。检验结果发现，T2/T3没有诱发任何平均振幅显著的MMR成分。一般来说，p-MMR到 MMN 的极性转化可以反映儿童声调感知的成熟效应（Chengetal.,2013），p-MMR的出现不仅与神经元成熟度有关，还与刺激的区分难度有关（Kushnerenko etal.，2002；Lee etal.,2012）。T2/T3在6月龄被报道诱发p-MMR后一直没有极性转化的报道，但该成分在2岁儿童组中消失了（Cheng,&Lee,2018），Cheng 等认为p-MMR的出现意味着区别范畴需要付出更多努力，声调感知尚未达到一个自动化加工的程度。但尚不知道2岁MMR 成分的缺失是否意味着p-MMR到MMN的转化将在较晚的年龄段发生。本研究顺延Cheng等研究的年龄段，发现 $2 { \sim } 4$ 岁普通话儿童呈现出与2岁组相同的表现，即小偏差对既没有诱发儿童的MMN也没有诱发p-MMR。较低的声学显著度和上声（T3）变调现象可能是幼儿无法准确感知 T2/T3差异的原因。一方面，从声学特征上看，音高高度和音高方向是区分普通话四声最重要的线索，而T2/T3无论是在音高高度，还是音高方向上都是普通话中最接近的声调对（Tsao,2017），因此，听者对T2/T3音高进行早期的听觉分析可能就存在较大困难。另一方面，普通话存在上声变调现象，当两个T3音节连读时，会出现T3转变为T2的现象，儿童在语言接触早期，音系知识还处在不断调整之中，这些复杂的音变现象将加大语音加工的难度。
+
+在行为研究中，儿童在3岁时还不能准确区分T2和T3，但已经较好地掌握了T1（Wong et al，2005；Ma etal,2017），本研究所呈现的MMR发展水平，即 T1/T3 诱发 $2 { \sim } 4$ 岁汉语普通话儿童明显的MMN，T2/T3未诱发显著的负波，结合儿童的行为表现，本研究推测 $2 { \sim } 4$ 岁普通话儿童的声调感知发展仍处于一个循序渐进发展的过程中，没有达到成人的水平，在前注意阶段，仅在部分声调对比上（T1/T3）表现出稳定的感知区分能力，还不能知觉T2/T3的差异。
+
+# 4.2声调中的音位信息和声学信息的结合影响儿童声调感知
+
+实验结果显示,T1/T3 诱发显著的MMN,而T3a/T3未能诱发任何显著MMR。这表明在前注意阶段，仅在声学信息变化诱发了音位信息的改变时， $2 { \sim } 4$ 岁普通话儿童才有可能感知到声调对间的差异，这一结果强调了声学信息和音位信息共同作用于声调感知。这种影响主要在MMN的平均波幅上，对潜伏期影响不明显。
+
+相比于范畴内变化，对范畴间变化更敏感，这是将感知模式向母语音系转变的重要表现。婴儿在出生之初能够区分多种音素，但随着语言接触的增加，保留了区分母语中音位对立（即，范畴间变化）的能力，而区分非母语音位对立（即，范畴内变化）的能力下降（Werker＆Tees，1984）。如4.1所述，前人研究发现T1/T3诱发6月龄之后的幼儿稳定的MMN。本研究通过范畴间与范畴内的对比，进一步发现 $2 { \sim } 4$ 岁普通话儿童已建立了较稳定的T1/T3的声调范畴对立，该年龄儿童对于T1/T3的前注意区分不仅是低水平的、基于声学信息的区分，而是已经到达音位信息水平。
+
+然而，统计结果显示，对于小偏差声调对T2/T3，即使音位信息发生了变化，也未诱发显著的MMR，表明该年龄段儿童无法明显知觉其差异，这强调了声学显著度对声调感知的影响，只有在声学显著度较高的情况下，该年龄段儿童才有可能展现出对声调差异的明显区分。
+
+另外，范畴内小偏差T3b/T3也未诱发显著的MMR，且与范畴间小偏差T2/T3诱发EPR回应之间无显著差异。这一结果暗示 $2 { \sim } 4$ 岁儿童还未能对T2/T3间的范畴信息进行明显的前注意区分，可能还未建立稳定的T2/T3对立。前人研究发现，由于T2/T3音高曲线区分度小，即使是普通话成年人，对T2/T3的感知范畴化程度也不及其他声调对，对其范畴的准确识别还需借助其他辅助线索，例如音节时长和语境音高（Blicher,Diehl,&Cohen,1990）。需要注意的是，在本研究中，虽然范畴间小偏差对与范畴内大、小偏差对都没有诱发任何显著MMR成分，但是背后的神经机制可能不同，理由如下：观察差异波波形可以发现，范畴间小偏差对在F3、Fz、F4、C3、Cz、C4六个电极点上诱发一个较为稳定的负波。而范畴内刺激对没有这种趋势，在大、小偏差两种水平下，差异波都呈现出波动起伏频繁的状态，没有在某一时间段内形成稳定的正波或负波的趋势。我们猜测，儿童正为区分T2/T3付出努力。区分范畴间声调和合并范畴内声调的趋势反映了$2 { \sim } 4$ 岁普通话儿童虽未建立显著而稳定的音位对立，但已有发展的迹象。
+
+本研究的一个不足之处是招募的被试年龄范围较大，组内异质性大。为探究年龄因素的作用，将被试年龄与四种条件下差异波的平均振幅和潜伏期进行相关性分析，结果显示均无显著相关性。这暗示 $2 { \sim } 4$ 岁儿童声调感知处于不稳定发展阶段，未来需增加被试，划分出更多的年龄段，进一步考察声调感知发展的轨迹。
+
+# 5结论
+
+$2 { \sim } 4$ 岁普通话儿童正处于声调自动化感知能力的发展过程中，音位信息和声学信息共同影响儿童的声调感知。 $2 { \sim } 4$ 岁儿童初步建立对声学区分度较大的特定声调对（T1/T3）的音位对立，在前注意阶段可以察觉其范畴的变化。对于声学区分度较小的声调对（T2/T3）的范畴知觉还处于发展的萌芽阶段，还未建立稳定的 T2/T3 对立。
+
+参考文献   
+Blicher,D.L,Diehl,R.L.，&Cohen,L.B.(199).Efectsofsylabledurationontheperceptionofthemandarintone/tone distinction: evidence of auditory enhancement.Journal of Phonetics,18(1),37-49.   
+Chandrasekaran,risan,A.&andor,T.(O)ismatchgativitichotoursisifluencedbnguageece. Brain Research,1128,148-156.   
+Cheng，Y.Y.,&Lee,C.Y.(2018).Thedevelopmentof mismatchresponsestomandarin lexicaltonein12-to24-month-old infants.Frontiers in psychology,9,448-459.   
+Cheng,Y.Y.,Wu,H.C.,Tzeng,Y.L.,Yang,M.T.,Zhao,L.L.,&Lee,C.Y.(2013).Thedevelopmentof mismatchresposesto mandarin lexical tonesinearly infancy.Developmental Neuropsychology,38(5),281-300.   
+He,C.Hotso,L&TainorL.J.(o).smatchresponsestoichchangesinarlyinfancyJouralofogniive Neuroiece, 19(5), 878-892.   
+He,C.,Hotson,L,&Tinor,L.J.(oa).evelopentofinfant msmatchesponses toditorypaterchangesbtwnand4 months old. European Journal of Neuroscience,29(4),861-867.   
+He,C.,Hotson,L,&Trainor,L.J.(b).Maturationofcorticalmismatchresponsestoccasioalpichchangeinarlyinfncy: effects of presentation rate and magnitude of change. Neuropsychologia,47(1),218-229.   
+Hua,Z.(oo2).Phonologicaldevelopment inspecificcontexts:tudiesofchinese-speakingchildren.Childlanguageanddevelopen. Australian Review of Applied Linguistics,29(1),12.1-12.5.   
+Kan,E.,Wayland,R.,Bao,M.,&Barkley,C.M. (Oo7).Efectsofnativeanguageand trainingonlexicatonepereptionn event-related potential study. Brain research,1148,113-122.   
+Kuo,Y.C.,LeeC.Y.,Chen,M.C.,Liu,T.L,&Cheng,S.K.(14).Teimpactofspectralresolutiononthemismatchespoeto mandarn chinese tones: an ERP study of cochlear implant simulations.Clinical Neurophysiology,125(8),1568-1575.   
+Kushnerenko,ECpoene,R,n,P.Fellan,V.&tanen,R.(2).aturationfteditoryageetectiossin infants:alongitudinal ERP study.Neuroreport,13(15),1843-1848.   
+Lee,C.Y.,Yen,H.LYeh,P.W,Lin,W.H.,Cheng,Y.Y.,Tzeng,Y.L,&Wu,H.C.(212).Mismatchresponses tolexicaltone, initialconsonant,andvowelinandari-speakingpresholers.Neuropsychologia,50(14),39.   
+Ma,W.,ZhouP.ngh,L&Gao,L.(O7).Spokenwordrecognitioninyoungtonelanguagelaers:age-dependenteectsf segmental and suprasegmental variation. Cognition,159,139-155.   
+Morr,M.L,eVLree.A.urbg).turfhgaiiicallvei preschool children.Ear and Hearing,23(2),118-136.   
+Naatanen,R.,Paavilainen,P.,Rine,T.,&Alho,K.(Oo7).Themismatchegativity(MM)inbasicresearchofcentralauditory processing:areview. Clinicalneurophysiology,118(12),2544-2590.   
+Su,Q.(2016).ERP studyonpre-attentive processing ofchinese tones inadults and young children.(Unpublished Master's   
+dissertation).Liaoning Normal University.   
+[孙琪.(2016).汉语声调加工的ERP研究（硕士学位论文）.辽宁师范大学.]   
+Trainor,L.J.muel,.S.,Desjardis,R.N&oadaraR..(O).easuigtemporalresolutioniniantsusingsmatch negativity. Neuroreport,12(11),2443-2448.   
+Tsao,F.M.(7).ercptualmprovementofexicaloifants:fctsoftoelanguagexprenc.Frotiersinology, 558.   
+Wang,X.D.,Wang,M.,&Chen,L.(13).Hemisphericlateralatioforarlyuditryprocesingoflexicaltnes: dpedecepich level and pitch contour. Neuropsychologia,51(11)，2238-244.   
+Werker,J.F.,&e,.C.(84).ossaeschtioEefopepaloingtie Infant Behavior andDevelopment,7(25),49-63.   
+Winkler,I. (20o7).Interpreting the mismatch negativity.Journalof Psychophysiology,1(3-4),147-163.   
+Wong,P.,hartz,.G,kis,J.().epddcioficalosarolddsig Journalof Speech,Language,and Hearing Research,48(5),1065-1079.   
+Xi,J.,Zhang,Lu,Hang,Y,&i.).ategcalpeptiofexicaltoeevealedysatchii Neuroscience,170(1),223-231.   
+YangY.F.(Ed).(O16).Ratingscalesforchildren'sdevelopmentalbhaviorandmentalhealth.Beijing,China:People'sMedical Publishing House   
+[杨玉凤(编).(2016)．儿童发育行为心理评定量表.北京：人民卫生出版社.]   
+Yu,K.,Wang,LiL,&Li().rocessigofcousticndonlogicalifoationflexicaltosinadarie revealed by mismatch negativity.Frontiers in Human Neuroscience,8(3),729.   
+Yu,K.,Zhou,Y,Li,LSu,J.A,Wang,R.&i,P.(l).einteractionbetweenphonologicalforationandpichtat pre-attentive stage: an ERP study of lexical tones.Language,Cognition and Neuroscience,32(9),1164-1175.
+
+# Lexical Tone Perception Mechanism in 2- to 4-year-old
+
+# Mandarin-Speaking Children in the Pre-attention Stage
+
+YANG Wanqing, XIAO Rong, LIANG Dandan (School of Chinese Language and Culture,Nanjing Normal University, Nanjing 210097,China)
+
+# Abstract
+
+Lexical tones are a key component of tonal language. The accurate perception of different Mandarin lexical tones is essential for Mandarin-speaking children to process spoken Chinese. Previous studies based on the speech perception model of nontonal language proposed perceptual narrowing theory, while later studies indicated that the perception of lexical tones might be more complicated. Event-related potentials (ERPs) are an effective tool that can investigate Mandarin-speaking children's implicit perception of lexical tones. Some studies targeting children's speech perception have demonstrated that mismatch responses (MMRs, including MMN and p-MMR) indicate the development of phonetic representation.Moreover, these studies have provided empirical evidence in this field. However,ages between 2 and 4 years old needs to be explored empirically. The current study used MMN and p-MMR as the neural correlates of lexical tone perception of Mandarin in the pre-attention stage and investigated the development of lexical tone processing mechanisms in 2- to 4-year-old children. In addition, we paid attention to the influence of category information and the size of the deviance at the acoustic level.
+
+Sixteen 2- to 4-year-old Mandarin-speaking children (7 boys and 9 girls; mean age: 3.4 years old; range: 2.6 - 3.1O years old) were recruited in this study. The study used the oddball paradigm and designed two experiments: Experiment 1 investigated the mismatch responses in across-category lexical tone perception in the participants. The stimuli consisted of three syllables: /yi1/(T1),/yi2/ (T2),and /yi3/(T3).T3 was assigned as the standard; T1 was assigned as the large deviant; T2 was the small deviant.This experiment investigated how the deviance size afects children's perception of different lexical tones in the across-category condition. Experiment 2 investigated the mismatch responses of the participants to the perception of tones in the same category and were designated yi3a (T3a) and yi3b (T3b) within the category. These tones have the same phonological information but differ from the standard T3 stimulus in the acoustic information (based on the frequency and contour). The distances between T3a& T3 and T3b & T3 were modulated in Praat to control the distances of T1 & T3 and T2 & T3,respectively. This experiment detected the influence of the degree of similarity on the acoustic information on lexical tone perception without changing the category information.
+
+The results of the EEG data showed that (1） only the across-category large-deviance pair (T1/T3) elicited an obvious MMN response, indicating that 2- to 4-year-old Mandarin-speaking children can distinguish tones with obvious category boundaries in the pre-attention stage; (2） the across-category small-deviance pair(T2/T3） and the two kinds of within-category deviations (T3a/T3;T3b/T3） achieved the same data performance: no significant MMN or p-MMR was elicited. However, the internal mechanisms of these two conditions are diferent. The former may indicate that 2- to 4-year-old Mandarin-speaking children are in the period of transition from p-MMR to MMN.The latter may reflect that children have established a lexical tone category,and due to their immature perception ability,it is impossible for them to distinguish the differences among within-category lexical tones.
+
+In summary, the current study has filled the age gap in the relevant lexical tone perception neural mechanism research and has revealed what is crucial to children's lexical tone neural mechanism of perception development. Moreover,this research has identified the size difference between isometric across-category stimulation with within-category stimulation, which innovatively provides a reference for future research. The conclusion indicates that 2- to 4-year-old Mandarin-speaking children are in the period of lexical tone category formation. In the pre-attention stage, the obvious category boundary of lexical tones can be distinguished accurately. For the inconspicuous category boundaries of lexical tones, the neural mechanism is transforming from p-MMR to MMN. The magnitude of the deviance does not affect lexical tone perception within the same category.
+
+Key wordsMandarin-speaking children; lexical tone perception; the categories of lexical tones; size of deviant

@@ -1,0 +1,134 @@
+# 短花针茅荒漠草原斑块尺度物种多样性及其共存格局
+
+于瑞鑫²，田娜²，王兴1,²，王磊¹²， 杨新国1²，蒋齐³，周娟1,2
+
+（1．宁夏大学西北土地退化与生态系统恢复省部共建国家重点实验室培育基地,宁夏 银川 750021;2．宁夏大学西北退化生态系统恢复与重建教育部重点实验室,宁夏 银川750021;3．宁夏农林科学院荒漠化治理研究所，宁夏 银川750002)
+
+摘要：阐明斑块尺度上物种共存格局,对于深入认识荒漠草原破碎化草地生物多样性的维持机理具有重要意义。按斑块的土壤生境退化程度,选取短花针茅荒漠草原3类典型群落斑块为研究对象,对比分析不同斑块的物种构成、多样性及物种间的共存关系格局。结果表明： $\textcircled{1}$ 斑块A属单优种短花针茅(Stipabreviflora)群落;斑块B为短花针茅 $^ +$ 草木樨状黄耆（Astragalusmelilotoides）群落;斑块C 为苦豆子（Sophora alopecuroides） $^ +$ 老瓜头（Cynanchumkomarovii) $^ +$ 猪毛蒿(Artemisia scoparia）群落。 $\textcircled{2}$ 群落结构中斑块A和斑块B多样性相近，均高于无短花针茅生长的斑块C。 $\textcircled{3}$ 基于零模型的分析结果显示,物种共存格局的复杂性和强度为：斑块 $\mathrm { \Delta A } >$ 斑块 $\mathbf { B } >$ 斑块C,且下降趋势明显,斑块A存在的16组显著物种对中有4组为显著竞争关系,而斑块C中的物种对减少到7组,且仅存在猪毛蒿与苦豆子组显著竞争物种对。结论：表明未沙化的土壤生境斑块是荒漠草原破碎化草地生物多样性维持的一个重要前提,土壤生境的退化显著降低了斑块内部群落组织的复杂性和物种间相互作用的强度,不利于群落的自我维持。
+
+关键词：荒漠草原；短花针茅；斑块尺度；重要值；物种多样性；共存格局；零模型；宁夏
+
+在自然和人类活动的共同作用下[1-2],荒漠草原出现了不同程度的破碎化现象。生境破碎化被认为是生物多样性和生态系统退化的主要原因之二[3],逐渐成为研究的热点。草地生境的破碎化引发了土壤性状和群落结构的显著变化[4-5],土壤生境变化和植被演替过程相互作用,空间上单优或少数几种优势植物形成的群落以斑块的形式镶嵌分布，并与不同的土壤生境类型相适应。因此，对于破碎化草地而言，在斑块尺度上对植物群落物种组成与种间相互作用关系进行研究具有重要的意义。
+
+斑块尺度上群落物种共存格局与影响因素的研究不断得到深入。斑块的大小可能导致其生物量在数量上和空间分布上的不同。一些学者认为斑块面积的减小和隔离度的增加，增加了物种的灭绝风险，生境斑块被占领的概率下降，对于局域群落物种丰富度是有利的，但对于维持区域的物种多样性是不利的[。土壤的含水量是限制植物生长的主要环境因子，直接影响植物的生长、植物群落的分布及稳定性，马晓东[7等对土壤水分与植被变化的关系进行研究发现，土壤含水率与植被的时空分布具有同步性。在环境资源或空间不足的情况下，物种间的相互作用关系则是植物群落结构、动态的主要动力之-(8]。高福元等[9]对甘肃臭草（Melica przewal-skyi)为优势种的群落斑块进行了研究，其对伴生种西北针茅（Stipasareptana)表现出格局控制关系，使西北针茅由种内竞争转化为种间竞争，进而改变其空间分布格局变化。荒漠草原作为4个过渡带的重叠区，长期的水资源匮乏，生境破碎化，形成了典型的植物群落斑块结构，对这种特殊的群落结构的物种多样性及共存格局问题的研究已经受到越来越多的关注。
+
+鉴于此，本研究在斑块尺度上对宁夏短花针茅荒漠草原不同斑块内的物种进行研究，以共存格局为切入点，以显著物种对识别为研究方法，分析不同斑块内群落的多样性状况及共存格局。旨在对短花针茅荒漠草原群落的多样性及其种间关系进行深度了解，对荒漠草原区植物群落演替、群落构建、植被恢复和植物资源的开发利用具有重要意义。
+
+# 1 材料与方法
+
+# 1.1 研究区概况
+
+研究区位于宁夏盐池县皖记沟村( $3 7 ^ { \circ } 0 4 ^ { \prime } \sim$ $3 8 ^ { \circ } 1 0 ^ { \prime } \mathrm { N } , 1 0 6 ^ { \circ } 3 0 ^ { \prime } \sim 1 0 7 ^ { \circ } 4 7 ^ { \prime } \mathrm { E } )$ ,地处宁夏东部,是干旱草原向荒漠草原过渡的地带,属中温带大陆性气候，年均气温为 $8 . 4 ~ \mathrm { { ^ { 8 } C } }$ ，年均无霜期为160d,年均降水量 $2 5 0 \sim 3 5 0 ~ \mathrm { m m }$ ,主要集中在7一9月，土壤以灰钙土、风沙土、黑泸土为主,试验区发育在灰钙土上,以短花针茅为建群种，小面积斑块分布的猪毛蒿（Artemisia scoparia）苦豆子（Sophora alopecuroides）、牛枝子（Lespedezapotaninii）、老瓜头（Cynanchumkomarovii）草木樨状黄耆（Astragalusmelilotoides）,山苦荬（Ixeridium chinense)等草本植物为主体[10]
+
+# 1.2 研究方法
+
+在前期调查的基础上，于2017年8月植物生长旺盛期开展野外实地样方调查，封育围栏内选取具有代表性的破碎化草地试验样地 $3 3 . 3 4 ~ \mathrm { h m } ^ { 2 }$ ,按照表层 $0 \sim 1 0 \ \mathrm { c m }$ 土壤沙化程度(表1)确定3个不同类型斑块，分别是斑块A(短花针茅群落，未沙化)$4 0 \mathrm { ~ m ~ } \times 8 0 \mathrm { ~ m ~ }$ ,斑块B（短花针茅 $^ +$ 草木樨状黄耆群落，轻度沙化) $4 0 \mathrm { ~ m ~ } \times 8 0 \mathrm { ~ m ~ }$ ,斑块C（苦豆子 $^ +$ 老瓜头 $^ +$ 猪毛蒿群落，沙化) $4 0 \mathrm { ~ m ~ } \times 8 0 \mathrm { ~ m ~ }$ 。不同斑块内的土壤含水量均表现为逐层增加的趋势，且斑块$\mathbf { B } >$ 斑块 $\mathrm { \Delta A } >$ 斑块C;土壤机械组成中 $0 \sim 1 0 \ \mathrm { c m }$ 土层黏粉粒含量表现为斑块 $\mathrm { ~ A ~ } >$ 斑块 $\textbf { B } >$ 斑块C,
+
+$1 0 \sim 2 0 ~ \mathrm { c m }$ 和 $2 0 \sim 4 0 \ \mathrm { c m }$ 土层黏粉粒含量表现为斑块 $\mathrm { ~ B ~ } >$ 斑块 $\mathrm { \Delta A > }$ 斑块C，细砂粒含量总体表现为斑块 $\mathrm { A } >$ 斑块 $\mathbf { B } >$ 斑块 $\mathrm { C } , 0 \sim 1 0 \ \mathrm { c m }$ 土层和 $1 0 \sim 2 0 ~ \mathrm { c m }$ 土层粗砂粒含量表现为斑块 $\mathrm { ~ C ~ } >$ 斑块 $\mathbf { B } >$ 斑块A,$2 0 \sim 4 0 \ \mathrm { c m }$ 土层粗砂粒含量表现为斑块 $\mathrm { ~ C ~ } >$ 斑块$\mathrm { A } >$ 斑块B;3类斑块 $0 \sim 4 0 \ \mathrm { c m }$ 土壤养分总体表现为降低趋势，土壤中全氮含量基本相同，有机碳含量和有效磷含量表现为斑块 $\mathrm { ~ B ~ } >$ 斑块 $\mathrm { \Delta A } >$ 斑块C。每个斑块内等距离布设50 个 $1 \mathrm { ~ m ~ } \times 1 \mathrm { ~ m ~ }$ 的固定监测样方并进行排序，对每个固定样方进行调查，分别统计样方内部的植物名称、株丛数、高度、盖度等指标，高度采用植物自然高度测定，盖度采用针刺法测定[11]。
+
+# 1.3 数据处理
+
+（1）基于样方调查数据，计算各个物种重要值$( I )$ 、物种丰富度 $( R )$ 、香农-维纳指数（Shannon-Wiener指数： $H$ ）、均匀度指数（Pielou指数： $J$ ）、优势度指数（Simpson指数： $D$ ）。各指数计算公式如下：
+
+$I =$ （相对盖度 $^ +$ 相对高度 $^ +$ 相对多度)/3
+
+$$
+\begin{array} { l } { R = S } \\ { H = \mathrm { ~ \sum ~ } _ { i = 1 } ^ { s } ( P _ { i } \mathrm { l n } P _ { i } ) } \\ { J = H / \mathrm { l n } S } \\ { D = 1 - \mathrm { ~ \sum ~ } _ { i = 1 } ^ { s } ( P _ { i } ^ { 2 } ) } \end{array}
+$$
+
+式中： $s$ 表示样方内的平均物种数; $\boldsymbol { P } _ { i }$ 表示样方中第 $\mathbf { \chi } _ { i }$ 个物种占总物种数的比例。
+
+（2）物种共存格局分析：基于R语言“ecospat”包分析，将所有物种多度数据转化为物种有无数据矩阵（presence-absencematrix）。采用FF（fixedrowfixedcolumn)算法计算物种共存指数C-score,同时将得到的标准效应量（standardizedeffect size，SES)用来比较结果的显著性(12]。 $\mathrm { S E S } > 2 . 0$ 表明物种对为显著的负相互作用关系（隔离性关系），说明存在显著的种间相互竞争； $\mathrm { S E S } < - 2 . 0$ 表明物种对为显著的正相互作用关系，说明物种对不存在显著的种间相互竞争。SES绝对值大小可以反映群落聚集或隔离程度,同样可以反映物种间相互作用程度(13] 。
+
+表1不同斑块类型土壤属性  
+Tab.1Soil properties of different patch types   
+
+<html><body><table><tr><td rowspan="2">斑块类型</td><td rowspan="2">土壤深度 /cm</td><td colspan="3">机械组成/%</td><td rowspan="2">有机碳 含量 /%</td><td rowspan="2">全氮 含量</td><td rowspan="2">有效磷 含量</td><td rowspan="2">土壤 水分</td></tr><tr><td>黏粉粒 (<0.05 mm)</td><td>细砂粒 (0.1~0.05 mm)</td><td>粗砂粒 (2~0.1 mm)</td></tr><tr><td>斑块A</td><td>0~10</td><td>4.99</td><td>84.86</td><td>10.15</td><td>0.32</td><td>/% 0.04</td><td>1% 2.68</td><td>/% 6.71</td></tr><tr><td rowspan="4"></td><td>10~20</td><td>4.58</td><td>85.01</td><td>10.41</td><td>0.23</td><td>0.03</td><td>2.03</td><td>7.43</td></tr><tr><td>20~40</td><td>2.91</td><td>79.00</td><td>18.10</td><td>0.21</td><td>0.03</td><td>1.58</td><td>9.24</td></tr><tr><td>0~10</td><td>3.77</td><td>63.43</td><td>32.80</td><td>0.36</td><td>0.04</td><td>2.75</td><td>7.35</td></tr><tr><td>10~20</td><td>6.85</td><td>77.35</td><td>15.80</td><td>0.28</td><td>0.03</td><td>1.29</td><td>8.49</td></tr><tr><td rowspan="4">斑块C</td><td>20~40</td><td>6.70</td><td>81.12</td><td>12.17</td><td>0.20</td><td>0.02</td><td>1.28</td><td>8.93</td></tr><tr><td>0~10</td><td>1.54</td><td>38.08</td><td>60.38</td><td>0.38</td><td>0.04</td><td>4.39</td><td>3.23</td></tr><tr><td>10~20</td><td>1.20</td><td>29.27</td><td>69.52</td><td>0.28</td><td>0.03</td><td>1.13</td><td>4.45</td></tr><tr><td>20~40</td><td>1.28</td><td>31.68</td><td>67.05</td><td>0.25</td><td>0.03</td><td>1.07</td><td>4.91</td></tr></table></body></html>
+
+# 2 结果与分析
+
+# 2.1 不同斑块植被重要值分析
+
+3类斑块中的植物种群重要值大于 $10 \%$ 的植物种群共有22种，其在不同群落斑块中的重要值比较见表2。主要物种短花针茅在不同斑块下的重要值分别为：斑块A为 $2 9 . 7 2 \%$ ,斑块B为 $2 3 . 2 6 \%$ ，斑块C则不存在短花针茅。斑块A中短花针茅的重要值比斑块B高 $6 . 4 6 \%$ ,说明斑块A中短花针茅株丛破碎化程度和分蘖能力高于斑块B。苦豆子和猪毛蒿作为主要伴生种和优势种，其在斑块A、斑块
+
+B、斑块C的重要值分别为 $1 4 . 9 8 \%$ 、 $1 4 . \ 2 6 \%$ 、$2 4 . 2 1 \%$ 和 $9 . 3 3 \% , 1 2 . 3 7 \% \ , 3 3 . 7 3 \%$ ,说明苦豆子和猪毛蒿在斑块C的形成过程中占主要的地位，但在斑块A和斑块B中的作用及地位略低。另外，草木樨状黄耆在3个斑块中的重要值分别为 $1 8 . 9 5 \%$ 、$2 3 . 8 6 \% . 1 8 . 8 6 \%$ ,说明草木樨状黄耆在短花针茅荒漠草原中的适应程度更强。
+
+# 2.2不同群落斑块物种多样性分析
+
+对3类典型群落斑块物种多样性指数进行分析（表3），斑块A和斑块B的物种丰富度、Simpson 指数、Shannon-Wiener指数、Pielou指数之间差异不显著 $\ P > 0 . 0 5 )$ ，说明斑块A与斑块B之间的物种多样性、群落复杂程度、物种个体分配均匀程度基本相同。斑块C的4项多样性指数显著低于其他2个斑块( $\scriptstyle P < 0 . 0 5 )$ ，说明斑块C的物种多样性、群落复杂程度、物种个体分配程度都低于斑块A和斑块B。可见，以短花针茅为主体的植物群落斑块可以较好地保持植物群落的均匀度、维持较复杂的群落结构，
+
+Tab.2Serial numbers and important values of plant populations in different patch types   
+表3不同斑块类型物种多样性指数差异比较  
+
+<html><body><table><tr><td rowspan="2">序号</td><td rowspan="2">物种</td><td colspan="3">平均重要值/%</td><td rowspan="2">序号</td><td rowspan="2">物种</td><td colspan="3">平均重要值/%</td></tr><tr><td>斑块A</td><td>斑块B</td><td>斑块C</td><td>斑块A</td><td>斑块B</td><td>斑块C</td></tr><tr><td>1</td><td>短花针茅 Stipa breviflora</td><td>29.72</td><td>23.26</td><td>1</td><td>16</td><td>米口袋Gueldenstaedtia verna</td><td>3.80</td><td>3.92</td><td>12.10</td></tr><tr><td>2</td><td>苦豆子 Sophora alopecuroides</td><td>14.98</td><td>14.26</td><td>24.21</td><td>17</td><td>牛枝子 Lespedeza potaninii</td><td>11.00</td><td>15.86</td><td>16.32</td></tr><tr><td>3</td><td>猪毛蒿 Artemisia scoparia</td><td>9.33</td><td>12.37</td><td>33.73</td><td>18</td><td>老瓜头Cynanchum komarovii</td><td>15.13</td><td>17.59</td><td>24.31</td></tr><tr><td>4</td><td>阿尔泰狗娃花 Heteropappus altaicus</td><td>8.19</td><td>10.91</td><td>11.01</td><td>19</td><td>菟丝子Cuscuta chinensis</td><td>11. 23</td><td>8.20</td><td>10.84</td></tr><tr><td>5</td><td>砂珍棘豆Oxytropis racemosa</td><td>7.82</td><td>6.06</td><td>9.50</td><td>20</td><td>角蒿 Incarvillea sinensis</td><td></td><td>1</td><td>18.02</td></tr><tr><td>6</td><td>赖草 Leymus secalinus</td><td>12.89</td><td>18.62</td><td>12.03</td><td>21</td><td>沙生大戟 Euphorbia kozlovii</td><td>7. 23</td><td>6.55</td><td>8.01</td></tr><tr><td>7</td><td>骆驼蓬Peganum harmala</td><td>12.82</td><td>8.50</td><td>13.32</td><td>22</td><td>糙隐子草 Cleistogenes squarrosa</td><td>9.26</td><td>10.29</td><td>1</td></tr><tr><td>8</td><td>狗尾草 Setaria viridis</td><td>1</td><td>1</td><td>11. 79</td><td>23</td><td>沙打旺 Astragalus adsurgens</td><td>9.87</td><td>1</td><td>9.15</td></tr><tr><td>9</td><td>草木樨状黄耆 Astragalus melilotoides 18.95</td><td></td><td>23.86</td><td>18.86</td><td>24</td><td>鹤虱 Lappula myosotis</td><td>1</td><td>1</td><td>10.04</td></tr><tr><td>10</td><td>蒺藜Tribulus terrester</td><td>4.75</td><td>5.57</td><td>15.86</td><td>25</td><td>二裂委陵菜Potentilla bifurca</td><td>1</td><td>7.05</td><td>1</td></tr><tr><td>11</td><td>猫头刺Oxytropis aciphylla</td><td>10.46</td><td>10.25</td><td>1</td><td>26</td><td>砂蓝刺头 Echinops gmelini</td><td>1</td><td>12.51</td><td>11. 19</td></tr><tr><td>12</td><td>披针叶黄华Thermopsis lanceolata</td><td>7.62</td><td>7.29</td><td>13.96</td><td>27</td><td>银灰旋花Convolvulus ammannii</td><td>16.26</td><td>17. 27</td><td>1</td></tr><tr><td>13</td><td>蒙古虫实Corispermum mongolicum</td><td>7.79</td><td>1</td><td>19.31</td><td>28</td><td>雾冰藜Bassia dasyphylla</td><td>一</td><td>1</td><td>9.96</td></tr><tr><td>14</td><td>猪毛菜 Salsola collina</td><td>9.60</td><td>9.36</td><td>22. 07</td><td>29</td><td>远志Polygala tenuifolia</td><td>一</td><td>9.88</td><td>1</td></tr><tr><td>15</td><td>山苦卖Ixeridium chinense</td><td>7. 11</td><td>4.08</td><td>8.41</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+表2不同斑块植物种群编号和重要值  
+Tab.3Differences in species diversity indices of different patch types   
+
+<html><body><table><tr><td>多样性指数</td><td>斑块A</td><td>斑块B</td><td>斑块C</td></tr><tr><td>物种丰富度(R)</td><td>7.17 ±0.27a</td><td>6.61±0.21a</td><td>5.06 ±0.25b</td></tr><tr><td>优势度指数(Simpson 指数)</td><td>0.79 ±0.02a</td><td>0.81 ±0.01a</td><td>0.71±0.02b</td></tr><tr><td>香农－威纳指数(Shannon-Wiener指数)</td><td>2.48±0.06a</td><td>2.45 ±0.06a</td><td>1.81±0.07b</td></tr><tr><td>均匀度指数(Pielou 指数)</td><td>1.27 ±0.02a</td><td>1.31 ±0.02a</td><td>1.17 ±0.04b</td></tr></table></body></html>
+
+注：不同字母表示不同斑块类型物种多样性差异显著( $\textstyle P < 0 . 0 5$ ），数据用平均值 $\pm$ 标准误表示。
+
+并提高物种丰富度。
+
+# 2.3不同群落斑块显著物种对共存格局分析
+
+对选取的3类不同群落斑块内的所有物种进行零模型显著物种对共存格局分析（表4和图1）。
+
+斑块A在生长旺盛期发现325对相互作用对物种，显著相互作用16对( $\textstyle P < 0 . 0 5 ,$ ,其中显著负相互作用4对，显著正相互作用12对，说明在生长旺盛期斑块A主要表现为显著的种间共生关系。其中，优势种短花针茅与牛枝子、砂珍棘豆、银灰旋花、隐子草呈显著正相互作用，而与主要伴生种猪毛蒿呈显著的竞争关系，猪毛蒿则与老瓜头、骆驼蓬为显著的竞争关系。
+
+斑块B物种间既存在正相互作用关系，又存在负相互作用关系，且达到显著水平( $P < 0 . 0 5 )$ 。由种间相互作用分析可知：斑块B共有276对相互作用对物种，显著相互作用的物种对有8对，其中显著负相互作用有5对，显著正相互作用有3对。优势种草木樨状黄耆与米口袋、赖草、猪毛蒿存在显著的竞争关系，与阿尔泰狗娃花为共生关系。另外，阿尔泰狗娃花与赖草之间为显著的竞争关系，米口袋与赖草，猪毛蒿与赖草则为共生关系。
+
+斑块C在生长旺盛期存在567对物种对，显著相互作用物种对7对( $\textstyle P < 0 . 0 5 )$ ，呈正相互作用的物种对有6对，负相互作用的物种对仅有1对，说明存在于斑块C内的物种在生长旺盛期主要表现为共生关系。作为斑块优势种的猪毛蒿与苦豆子为显著的负相互作用物种对，说明生长旺盛期的猪毛蒿与苦豆子呈显著的竞争关系;苦豆子与蒙古虫实、猪毛蒿与砂珍棘豆则为显著的正相互作用，说明苦豆子与蒙古虫实、猪毛蒿与砂珍棘豆不存在显著竞争关系。老瓜头则与其他物种无显著相互作用关系。
+
+表4基于零模型不同斑块类型显著物种对分析  
+Tab.4Pair analysis of the significant plant species in different patch types   
+
+<html><body><table><tr><td>斑块类型</td><td>物种1</td><td>物种2</td><td>观测值</td><td>期望值</td><td>标准效应量(SES)</td><td>P</td></tr><tr><td>斑块A</td><td>草木樨状黄耆</td><td>牛枝子</td><td>0.026</td><td>0.322</td><td>-3.20</td><td>0.000</td></tr><tr><td></td><td>草木樨状黄耆</td><td>隐子草</td><td>0.040</td><td>0.267</td><td>-3.10</td><td>0.000</td></tr><tr><td></td><td>短花针茅</td><td>牛枝子</td><td>0.067</td><td>0.301</td><td>-2.64</td><td>0.001</td></tr><tr><td></td><td>短花针茅</td><td>砂珍棘豆</td><td>0.087</td><td>0.335</td><td>-2.66</td><td>0.001</td></tr><tr><td></td><td>短花针茅</td><td>银灰旋花</td><td>0.031</td><td>0.590</td><td>-3.12</td><td>0.000</td></tr><tr><td></td><td>短花针茅</td><td>隐子草</td><td>0.061</td><td>0.209</td><td>-2.78</td><td>0.000</td></tr><tr><td></td><td>牛枝子</td><td>隐子草</td><td>0.086</td><td>0.323</td><td>-2.34</td><td>0.005</td></tr><tr><td></td><td>砂珍棘豆</td><td>蒙古虫实</td><td>0.877</td><td>0.462</td><td>3.15</td><td>0.005</td></tr><tr><td></td><td>砂珍棘豆</td><td>牛枝子</td><td>0.052</td><td>0.260</td><td>-2.87</td><td>0.000</td></tr><tr><td></td><td>砂珍棘豆</td><td>隐子草</td><td>0.132</td><td>0.408</td><td>-2.00</td><td>0.020</td></tr><tr><td></td><td>隐子草</td><td>银灰旋花</td><td>0.120</td><td>0.291</td><td>-2.19</td><td>0.011</td></tr><tr><td></td><td>猪毛菜</td><td>老瓜头</td><td>0.672</td><td>0.397</td><td>2.93</td><td>0.010</td></tr><tr><td></td><td>猪毛蒿</td><td>短花针茅</td><td>0.676</td><td>0.217</td><td>4.24</td><td>0.000</td></tr><tr><td></td><td>猪毛蒿</td><td>骆驼蓬</td><td>0.711</td><td>0.337</td><td>3.03</td><td>0.008</td></tr><tr><td></td><td>猪毛蒿</td><td>蒙古虫实</td><td>0.126</td><td>0.392</td><td>-2.36</td><td>0.006</td></tr><tr><td></td><td>猪毛蒿</td><td>山苦荚</td><td>0.129</td><td>0.129</td><td>-1.96</td><td>0.045</td></tr><tr><td>斑块B</td><td>阿尔泰狗娃花</td><td>草木樨状黄耆</td><td>0.120</td><td>0.333</td><td>-2.53</td><td>0.002</td></tr><tr><td></td><td>阿尔泰狗娃花</td><td>赖草</td><td>0.585</td><td>0.418</td><td>2.90</td><td>0.009</td></tr><tr><td></td><td>草木樨状黄耆</td><td>米口袋</td><td>0.808</td><td>0.411</td><td>3.29</td><td>0.003</td></tr><tr><td></td><td>赖草</td><td>草木樨状黄耆</td><td>0.849</td><td>0.280</td><td>5.97</td><td>0.000</td></tr><tr><td></td><td>赖草</td><td>米口袋</td><td>0.130</td><td>0.475</td><td>-2.68</td><td>0.002</td></tr><tr><td></td><td>猪毛蒿</td><td>草木樨状黄耆</td><td>0.796</td><td>0.323</td><td>6.85</td><td>0.000</td></tr><tr><td></td><td>猪毛蒿</td><td>赖草</td><td>0.032</td><td>0.272</td><td>-3.44</td><td>0.000</td></tr><tr><td></td><td>猪毛蒿</td><td>猫头刺</td><td>0.568</td><td>0.467</td><td>4.10</td><td>0.001</td></tr><tr><td>斑块C</td><td>草木樨状黄耆</td><td>角蒿</td><td>0.485</td><td>0.808</td><td>-2.34</td><td>0.042</td></tr><tr><td></td><td>草木樨状黄耆</td><td>山苦荬</td><td>0.500</td><td>0.815</td><td>-2.26</td><td>0.045</td></tr><tr><td></td><td>角蒿</td><td>苜蓿</td><td>0.385</td><td>0.856</td><td>-2.73</td><td>0.008</td></tr><tr><td></td><td>苦豆子</td><td>蒙古虫实</td><td>0.128</td><td>0.247</td><td>-2.47</td><td>0.005</td></tr><tr><td></td><td>苦豆子</td><td>猪毛蒿</td><td>0.116</td><td>0.080</td><td>2.23</td><td>0.026</td></tr><tr><td></td><td>山苦荬</td><td>米口袋</td><td>0.489</td><td>0.600</td><td>-2.11</td><td>0.047</td></tr><tr><td></td><td>猪毛蒿</td><td>砂珍棘豆</td><td>0.038</td><td>0.160</td><td>-2.49</td><td>0.006</td></tr></table></body></html>
+
+![](images/c09756c002e20a6af8d05346fa33218d1bb3e329caa135bdbd8326b760672201.jpg)  
+注：（a）短花针茅；（b）短花针茅 $^ +$ 草木樨状黄耆；（c）苦豆子 $^ +$ 老瓜头 $^ +$ 猪毛蒿。虚线表示 $9 5 \%$ 置信区间。  
+图1基于零模型共存物种对标准效应量的频度分布  
+Fig.1Frequency distribution of standardized efect size among the pairs of coexisting species
+
+# 3讨论
+
+荒漠草原长期存在着生境破碎化的现象，群落植被表现为不连续的斑块集群形式，存在明显的斑块化特征，斑块间具有较高异质性，物种组成往往存在差异[14]。多样性指数是对一个群落内物种分布的数量和均匀程度的测定指标，反映了各物种对环境的适应能力和对资源的利用能力[15]。斑块A 和斑块B的土壤水分含量要优于斑块C，且斑块A的物种丰富度、多样性指数和均匀度指数显著高于无短花针茅的斑块C。这与苟晓伟[1等在研究荒漠草原群落稳定性中指出的物种丰富度在群落稳定性方面起着关键作用的结论相同，且多年生草本植物在群落稳定中起到了关键的作用。但是也有学者提出多样性和群落稳定性在一定范围内的关系紧密，但是生存环境的改变，导致这种作用关系失衡，多样性较高的情况下由于资源的短缺，造成群落的稳定性下降[17]。因此,群落多样性与稳定性之间的关系还需进一步探讨。另外,斑块B内未出现短花针茅与猪毛蒿的显著物种对，出现这种现象的原因可能是由于斑块内部群落结构改变,群落复杂程度使优势种短花针茅在生长过程中产生了自我抑制作用[14],使斑块A中短花针茅的重要值高于斑块B,从而改变了物种间的共存格局，实现了物种大面积共存，这与无放牧干扰会使植物群落总体显现竞争作用的结论不符[18],可能是由于在对斑块选择的过程中样地间的环境条件存在着差异，因此植物在群落水平上与土壤水分、土壤理化性质、地形等因素也存在密切的关系[19]
+
+通过对不同斑块的共存格局进行对比分析发现,以短花针茅为单一优势种的斑块A显著物种对多于斑块B和斑块C，且斑块A的多样性指数要高于其他2类斑块，说明以短花针茅为优势种的斑块群落结构复杂。在斑块A显著物种对的检验中，短花针茅与其他物种存在显著的竞争或共生关系，说明短花针茅对群落的结构稳定及维持的作用最强。在吕世杰等(18,20]对短花针茅群落物种空间分布数量消长的表现形式和对应关系进行定性研究中发现,短花针茅与碱韭（Alliumpolyrhizum）主要表现为竞争关系，与无芒隐子草（Cleistogenessongorica）从低密度到高密度逐渐由亲和关系转变为竞争关系，说明群落优势种的生长状况决定着短花针茅群落的空间分布密度。斑块B中草木樨状黄耆与其他伴生种的相互作用关系更强，使短花针茅作为共同优势种与其他伴生种的关系发生改变，从而使斑块的均匀度指数和优势度指数高于其他2个斑块，且维持了较高的物种丰富度，使群落结构对环境的适应能力和对资源的利用能力更强。苦豆子在斑块 A、斑块B和斑块C中的重要值都相对较高，但斑块A和斑块B中短花针茅与苦豆子并未出现相互作用关系，出现这种现象的原因可能是短花针茅与苦豆子处于不同层片，生态位不重叠,加之土壤结构及土壤理化性质不同,因此两者间不存在相互作用关系，这与 Pianka[21的研究相符。综上所述,短花针茅作为荒漠草原区的优良牧草,对短花针茅荒漠草原群落斑块结构、分布格局、多样性及其演化机制还需进一步的深入探讨。
+
+# 4结论
+
+以沙化为代表的不同程度的土壤生境退化及其空间异质性分布，推动了草地群落以不同类型斑块形式交错存在，并显著改变了斑块内部群落的物种构成、多样性水平和物种共存格局。未沙化土壤生境斑块是破碎化草地生物多样性维持的一个重要前提，土壤沙化显著降低了斑块内部群落组织的复杂性和物种间相互作用的强度，不利于群落的自我维持。
+
+# 参考文献（References）：
+
+[1]Daily GC,Ehrlich PR.Population,sustainability,and Earth's carrying capacity[J].BioScience,1992,42（10）:761-771. [2]Rietkerk M,Ketner P,Burger J,et al.Multiscale soil and vegetation patchiness along a gradient of herbivore impact in a semi-arid grazing system in West Africa[J].Plant Ecology,2000,148（2）：   
+207 -224. [3]Haddad N M,Brudvig L A,Clobert J,et al.Habitat fragmentation and its lasting impact on Earth's ecosystems[J].Science Advances,2015,1(2):1-9. [4]Angers D A,Caron J. Plant-induced changes in soil structure ; Processes and feedbacks[J].Biogeochemistry,1998,42(1-2）:55-   
+72. [5]Arnot C,Fisher PF,Wadsworth R,et al.Landscape metrics with ecotones:Pattern under uncertainty[J].Landscape Ecology,2004,   
+19(2):181-195. [6」韩大勇.松嫩草地破碎化生境植物组成多样性格局及维持机 制[D].长春：东北师范大学,2009.［Han Dayong.Diversity Patterns of Plant Constituents and the Maintaining Mechanism in Fragmented Habitats in the Songnen Meadow[D].Changchun;Northeast Normal University,2009.] [7]马晓东,李卫红,朱成刚,等.塔里木河下游土壤水分与植被时 空变化特征[J].生态学报,2010,30（15）：4035-4045.[Ma Xiaodong,Li Weihong,Zhu Chenggang,et al. Spatio-temporal variation in soil moisture and vegetation along the lower reaches of Tarim River,China[J].Acta Ecologica Sinica,2010,30（15）：   
+4 035 -4 045.] [8]杜峰,梁宗锁,胡莉娟.植物竞争研究综述[J].生态学杂志,   
+2004(4）：157-163.[Du Feng,Liang Zongsuo,Hu Lijuan.A review on plant competition.[J].Chinese Journal of Ecology,2004 (4):157 -163.] [9］高福元.高寒退化草地甘肃臭草种群空间分布格局对土壤水 分的响应〔D].兰州：西北师范大学,2012.［Gao Fuyuan.A Study on Melica Przewalskyi Population Spatial Pattern and Response to Soil Moisture in Degraded Alpine Grassland[D]. Lanzhou:Northwest Normal University,2012.]   
+[10] Wang X,Yang X, Wang L,et al. A six-year grazing exclusion changed plant species diversity of a Stipa breviflora desert steppe community,Northern China[J].Peer J,2018,6(6）:e4359.   
+[11］贾昭.黄土丘陵区退耕草地群落盖度与物种组成及地上生物 量关系研究[D].杨凌：西北农林科技大学,2018.［Jia Zhao. Relationship Between Community Coverage with Species Composition and Aboveground Biomass Production of Farming-Withdrawn Grasslands in Loess Hilly Gully Region[D]. Yangling:Northwest A & F University,2018.]   
+[12]Gotelli NJ,McCabe D J. Species co-occurrence:A meta-analysis of JM Diamond’s assembly rules model[J].Ecology,2002,83（8）: 2 091-2 096.   
+[13]Miguel JM,Martin-Fores I,Acosta-Gallo B,et al.Non-random cooccurrence of native and exotic plant species in Mediteranean grasslands[J]. Acta Oecologica,2016,77:18-26.   
+[14]宋乃平,王兴,陈林,等.荒漠草原"土岛"生境群落物种共存机 制[J].生物多样性,2018,26（7）:667-677.[Song Naiping, Wang Xing,Chen Lin.Co-existence mechanisms of plant species within“soil islands”habitat of desert steppe[J].Biodiversity Science,2018,26(7) :667-677.]   
+[15］聂莹莹,杜广明,王国庆,等.围栏封育对呼伦贝尔草甸草原群 落物种多样性的影响[J].中国草地学报,2016,38(6):106- 110.[Nie Yingying,Du Guangming,Wang Guoqing,et al. Effects of enclosure on species diversity of community in Hunlunbuir Meadow Steppe[J]. Chinese Journal of Grassland,2016,38（6）： 106 - 110. ]   
+[16]苟晓伟.内蒙古典型草原和荒漠草原群落的稳定性[D].兰 州：兰州大学,2016.［Gou Xiaowei.The Community Stability of Typical Steppe and Desert Steppe in Inner Mongolia[D]. Lanzhou:Lan Zhou University,2016.]   
+[17]Ruijven JV,Deyn G B,Berendse F.Diversity reduces invisibility in experimental plant communities:The role of plant species[J]. Ecology Letters,2003,6（10）:910-918.   
+[18］吕世杰,吴艳玲,刘红梅,等.春季休牧后放牧强度变化对短花 针茅草原植物种群种间关系的影响[J].草地学报,2016,24 (2）:302-308.[Lu Shijie,Wu Yanling,Liu Hongmei,et al. Effect of grazing intensity changes on population inter-specific relationship of Stipa breviflora steppe after baninginspring[J.Acta Agrestia Sinica,2016,24(2）:302-308.]   
+[19］谢一鸣,许月,康蒙,等.基于植物多度的群落物种组成与环境关 联性分析[J].生物多样性,2013,21（1）:80-89.[Xie Yiming, Xu Yue,Kang Meng,et al.Analysis of plant abundance-based association between community species composition and environmental properties[J]. Biodiversity Science,2013,21(1）:80-89.]   
+[20]吕世杰,刘红梅,吴艳玲,等.放牧对短花针茅荒漠草原建群种 与优势种空间分布关系的影响[J].应用生态学报,2014,25 (12）:3 469-3 474.[LuShijie,Liu Hongmei,Wu Yanling,et al. Effectsof grazingonspatialdistributionrelationships betweenon
+
+structive and dominant species in Stipa breviflora desert steppe [J].Chinese Journal of Applied Ecology,2014,25(12）:3 469 - 3 474.]
+
+[21]PiankaER.Niche relations of disertLizards[C]//Cody M,Diamond J.Eeology and Evolution of Communities.Cambridge:HarvardUniversity Press,1975:292-314.
+
+# Species Diversity and Co-Occurrence Pattern at Patch Scale in Stipa breviflora Desert Steppe
+
+YU Rui-xin $^ { 1 , 2 }$ ， TIAN Na $^ { 1 , 2 }$ ，WANG Xing1,2， WANG Lei1²2，YANG Xin-guo $^ { 1 , 2 }$ ， JIANG Qi³， ZHOU Juan1,2 (1.Breding Base for State Key LaboratoryofLand Degradationand Ecological Restoration in Northwest China，Ningxia University，Yinchuan 750021，Ningxia，China； 2.KeyLaboratory for RestorationandReconstructionofDegraded Ecosystemin Northwest Chinaunder Ministryof Education, Ningxia University，Yinchuan 750021，Ningxia，China; 3.Institute of Desert Control，Ningxia Academy of Agriculture and Forestry， Yinchuan 7502，Ningxia，China)
+
+Abstract:Clarifying the species co-occurrence patern at patch scale is of important significance for understanding the maintenance mechanismof biodiversityin desert steppe fragmentation.According to the degreeof soil habitat degradation at patch scale,this study contrastedand examined the species compositionand diversity of diffrent patches and the species co-occurrence pattern based on three typical patches in a Stipa breviflora desert steppe.The results indicated that $\textcircled{1}$ Patch A was a consociation and belonged to a community of S. breviflora.Patch B was a community of $S$ . breviflora and Astragalus melilotoides.And Patch C was a community of Sophora alopecuroides $+$ Cynanchum komarovii $+$ Artemisia scoparia） ; $\textcircled{2}$ In community structure,the diversity of Patch A and Patch B was similar and higher than that of Patch C where $S$ . breviflora grew ; $\textcircled{3}$ The analyzed results based on the null model showed that the complexity and intensity of species co-occurrence pattrns was in an order of Patch $\mathrm { A } >$ Patch $\mathbf { B } >$ Patch C. Fourof the 16 significant species pairs in patch A had asignificant competitive relation,while the species pairs in patch C were reduced to 7 groups,and there was only one significant competitive species pair(A.scoparia and S.alopecuroides )in patch C.Therefore,Non-desertified soil habitat patches werethe important prerequisite forthe biodiversity maintenance of desert steppe fragmentation.The non-desertifiedof soil habitat reduced significantly the complexity of community structure within patches and the intensity of interaction between species,which was unconducive to the self-maintenance of the community.
+
+Key words:desert steppe； Stipa breviflora； patch scale；importance value；species diversity；co-occurrence pat-tern; Ningxia

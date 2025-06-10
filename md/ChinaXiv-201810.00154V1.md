@@ -1,0 +1,115 @@
+# 科技支撑新疆塔里木河流域生态修复及可持续管理
+
+陈亚宁，李卫红， 陈亚鹏，朱成刚(中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011)
+
+摘要：塔里木河流域地处我国西北新疆，面积约 $1 0 2 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ，是我国丝绸之路经济带建设的核心区。在过去50a里,塔里木河流域经历了大规模的水土资源开发，经济社会发展的同时，河道断流,湖泊干涸,沙漠化加剧,生物多样性受损，生态隐忧日益加剧,已威胁塔里木河流域绿洲经济发展和社会稳定，严重影响国家“丝绸之路经济带”建设。荒漠与绿洲生态国家重点实验室针对塔里木河流域的生态环境问题，开展了长期的生态监测与科学研究，基于多年监测调查数据，解析了塔里木河荒漠河岸林植被与地下水的关系，揭示了生态系统退化过程和机理,提出了塔里木河下游合理/胁迫/临界地下水位与流域生态需水量,研发提出的退化生态系统修复重建关键技术得到推广应用;提出的重点生态工程建设方案，被纳入《南疆水利规划》;提出的流域水资源管理建议被国家采纳并实施。科技支撑塔里木河流域生态修复及可持续管理，为丝绸之路经济带生态文明建设提供了重要科学依据和示范样板。
+
+关键词：荒漠河岸林；生态保育与修复；荒漠化防治；塔里木河流域中图分类号：Q146 文献标识码：A 文章编号：
+
+塔里木河流域地处新疆南部，北连天山，南依昆仑山,西接帕米尔高原,面积约 $1 0 2 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ，是我国最长的内陆河，也是世界著名的内陆河之一。塔里木河流域作为丝绸之路经济带建设的核心区，具有自然资源相对丰富和生态环境极端脆弱的双重性特点。由于历史和自然的原因，使这一地区的经济发展相对滞后，是全国最边远贫困的少数民族地区之一，全流域农村人均收入远远低于全国和新疆的水平。生态环境的恶化，将会使得依托自然生态系统的社会、经济失稳，造成社会经济萎缩，进一步导致贫困地区和贫困人口的增多。在过去 $5 0 \mathrm { ~ a ~ }$ 里，塔里木河流域在以水土资源开发利用为核心的大强度人类经济、社会活动的作用下，自然生态过程发生显著变化，荒漠河岸林生态系统因人类对自然水资源时空格局的改变而受到严重影响，河流下游河道断流，尾闾湖泊干涸，沿河地下水位大幅度下降，以胡杨林为主体的荒漠河岸植被全面衰败，沙漠化过程加剧，生物多样性严重受损，塔里木河下游的“绿色走廊"濒临消失，严重危及区域经济社会可持续发展和生态安全，塔里木河流域日益严重的生态问题与水资源危机引起了社会各界和政府的高度关注，成为中国西部生态环境问题研究的热点地区。水利部将塔里木河列入大江、大河治理规划,林业部把塔里木河下游“绿色走廊”纳人全国防沙、治沙重点地区，国家把塔里木河流域的综合治理列入“十五”计划，紧急向塔里木河下游实施以恢复生态、拯救“绿色走廊”为目的的生态输水工程，世界银行针对塔里木河流域生态保护给予巨额贷款支持。
+
+在国家科技部、自然科学基金委、中国科学院以及新疆等科技项目资助下，荒漠与绿洲生态国家重点实验室的科研人员针对塔里木河流域生态系统退化、生物多样性受损、绿洲生产力低下等突出的问题开展了长期的野外监测与试验示范。揭示了塔里木河流域荒漠生态系统退化过程与机理，解析了荒漠河岸林植物水分利用策略，提出了荒漠河岸林恢复过程中的合理/胁迫/临界地下水位，确定了流域生态保护红线和生态需水量，研发的干旱荒漠区退化生态系统修复技术模式被广泛推广，提出的流域水资源管理建议被采纳，多份咨询报告得到国家领导人批示，多项成果获国家及新疆科技奖励，为新疆塔里木河流域经济社会发展和国家“丝绸之路经济带”建设提供了重要的科技支撑。
+
+# 1从生态退化机理研究入手，解析了地下水与植被关系，研究提出了塔里木河下游合理/胁迫/临界地下水位
+
+# 1.1以塔里木河生态输水为契机，解析了地下水与地表生态过程及植被的关系，揭示了荒漠河岸林植物水分利用策略
+
+水资源是制约西北干旱区社会经济发展的命脉和影响生态环境变化的关键要素，塔里木河流域存在的资源型、工程型和管理型缺水现状，以及绿洲经济与荒漠生态两大竞争性用水系统导致区域水资源供需矛盾突出。由于大规模垦荒和过度开采水资源，生态用水被强烈挤占，从而导致塔里木河下游$3 2 1 ~ \mathrm { k m }$ 河道断流，沙漠化过程加剧，具有战略意义的塔里木河下游“绿色走廊”濒临消失。为遏制塔里木河流域日益严峻的生态环境退化问题，自2000年开始,国家投资 $1 1 1 . 3 4 \times { 1 0 } ^ { 8 }$ 元,实施了以“节水、增水、输水”为主要内容的塔里木河流域近期综合治理，2000—2017年累计向塔里木河下游断流河道实施了18次生态输水，输送生态水量 $7 0 . 1 5 \times 1 0 ^ { 8 }$ $\mathbf { m } ^ { 3 }$ 。结合生态输水,自 2000 年起,实验室在塔里木河 $1 \ 3 2 1 \ \mathrm { k m }$ 长 $\ 、 1 \ 5 2 0 \ \mathrm { k m } ^ { 2 }$ 范围内，建成了国内第一个1:1生态水文过程原型长期监测断面，其中包括16个长期监测断面，105眼地下水监测井，74个植物样地。结合生态输水，实验室科研人员对生态输水过程中的地下水位变化、地表生态响应进行了长期的定位监测,解析了塔里木河荒漠河岸林植被赖以生存的地下水与地表生态过程及植被的关系，并从不同尺度和生理生态机制上揭示了荒漠河岸林植被水分利用策略。
+
+多年监测数据综合分析显示，塔里木河流域浅层地下水的埋深对荒漠河岸林天然植被的组成、分布及长势有直接关系[1],河道断流导致的沿河地下水位不断下降和土壤含水率降低是引起塔里木河流域植被退化与荒漠河岸林物种多样性减少的主导因子[2]。沿塔里木河纵向由上游段至下游段及横向距河道由近及远，随地下水位埋深加大，塔里木河沿岸植物种类减少、群落结构单一化、物种多样性指数和丰富度指数呈明显降低的态势[3]。生态输水对地下水位的抬升使得天然植被得到拯救和恢复，随输水次数与输水量的增加，塔里木河两岸退化生态系统对生态输水的响应范围逐渐扩大，但是仍然有限。据此提出了塔里木河下游实施双河道输水建议，以增大受水面积，扩大输水效益。同时，在塔里木河流域极端干旱环境下，荒漠河岸林植物表现出特有的从叶片表型可塑性到植株水力传导与内在渗透调节等生理生态过程的避旱与耐旱策略，在植物群落尺度表现出对地下水及不同层土壤水的利用差异和生态位错位，且群落优势物种胡杨对水分的再分配利用不仅能够优化自身的水分利用策略，同时还能惠及群落内的相对浅根系草本植物，形成良好的共生关系[4-5]。胡杨水力提升及水分再分配特点的发现，不仅解释了为何胡杨附近的浅根系植被能够在地下水埋深较深处生存的现象，同时，还为塔里木河流域受损生态修复重建过程中物种的选择、配置等提供了重要的科技支撑。
+
+# 1.2借助长期定位研究，揭示了塔里木河中下游荒漠河岸林生态系统退化过程与机理
+
+结合对塔里木河流域生态监测样地和地下水监测井的多年数据分析，从物种多样性、植被盖度与群落类型等几方面揭示了塔里木河流域荒漠河岸林植被的受损过程。结果表明：
+
+（1）草本植物丰富度受损发生在地下水埋深大于 $4 \mathrm { ~ m ~ }$ ,而木本植物丰富度受损发生在地下水埋深大于 $8 \mathrm { ~ m ~ }$ ○
+
+（2）荒漠河岸林植被盖度减少始于草本植物盖度受损，与群落多样性受损的临界地下水位相同，发生在地下水埋深大于 $4 \mathrm { ~ m ~ }$ 。在地下水埋深大于 $6 \mathrm { ~ m ~ }$ 之后，植被盖度不断减少则是由木本植物盖度的减少所引起。
+
+(3）群落类型受损体现在芦苇群落和胡杨林群落的结构与类型变化上，芦苇群落的衰退演变出现了优势种的更替，而胡杨林群落中优势种的优势地位没有变化。
+
+（4）此受损过程是由荒漠河岸生态系统脆弱的生态基质和外界干扰共同作用的结果[6-7]。植被退化是人类干扰改变流域水资源的时空分布规律而作用于植被赖以生存的环境主导因子一地下水所致。这为塔里木河卜游生态恢复过程中恢复目标的确定与生态恢复效益评估指标体系的构建等提供了重要的理论指导与科学支撑
+
+# 1.3基于荒漠河岸林植被生理生态过程对地下水位变化响应的研究，提出了塔里木河下游合理/胁迫/临界地下水位
+
+在塔里木河下游长期断流背景下,地下水位大多下降至 $8 \sim 1 2 \mathrm { ~ m ~ }$ ,超过了天然植被生存的临界水位。那么在输水过程中地下水位抬至多高为宜,这个问题对确定生态需水量至关重要。实验室科研人员结合对塔里木河下游不同断面地下水位变化和植物生理生态特性的监测和试验分析，探讨了干旱胁迫环境下塔里木河流域主要建群种胡杨、怪柳的合理生态水位问题[8-9]。通过对不同地下水位埋深背景下胡杨、怪柳叶片的可溶性糖、游离脯氨酸、内源植物激素脱落酸以及细胞分裂素浓度等生理生化指标变化研究发现,胡杨、怪柳生理生化指标的变化特点与地下水位埋深有着密切的关系。表现为随地下水位埋深加大，即植物受生理胁迫加强时，植物叶片的细胞分裂素浓度出现逐渐减少现象，而可溶性糖、游离脯氨酸和脱落酸含量增加，以适应并抵御干旱的胁迫。比较胡杨、怪柳对不同断面地下水位变化的响应可见，在地下水位埋深较浅的监测断面,胡杨、怪柳的各项生理指标变化较小，随地下水位埋深加大,植物体内的可溶性糖和内源植物激素脱落酸含量呈线性关系增加，其中游离脯氨酸含量在地下水埋深不超过 $4 \mathrm { ~ m ~ }$ 时没有明显的反应,表明此时的地下水位没有对胡杨、怪柳产生生理胁迫和生长威胁;当地下水位超过 $6 \mathrm { ~ m ~ }$ 时，植物体内的游离脯氨酸等生理生化指标出现明显反应,说明此时的地下水位已经对植物生存和生长产生了胁迫;而当地下水位埋深达到 $1 0 \mathrm { ~ m ~ }$ 左右时，胡杨和怪柳植物体内的脱落酸和游离脯氨酸含量分别出现异常积累[8,10],反映了此时植物生理受到胁迫程度出现阈值变化,植株整体生理活性的下降，植物生长受到致命胁迫，地表植被表现为大面积死亡和败落景象;结合对不同地下水埋深处植物样地和植物群落退化过程的调查分析，得出塔里木河下游胡杨、怪柳的合理生态水位埋深在 $4 \mathrm { ~ m ~ }$ 以内,胁迫地下水位为 $6 \mathrm { ~ m ~ } , 1 0 \mathrm { ~ m ~ }$ 为胡杨和怪柳死亡的临界地下水位。这为塔里木河下游生态输水量的确定，以及生态恢复过程中不同恢复阶段生态恢复技术方法与措施的研发提供了重要理论基础与支撑[1-13]。成果获2007 年度新疆科技进步一等奖和2008年度国家科技进步二等奖。
+
+# 2以退化生态系统修复为核心，研发提出了塔里木河下游退化生态系统恢复重建技术模式
+
+# 2.1结合对塔里木河下游荒漠河岸林植被的生存策略及生态水文过程监测分析，研发提出了极端干旱环境下退化生态系统修复技术与方法
+
+塔里木河流域是我国最干旱的一隅，天然植被退化和生态系统受损的复杂多元性和时空差异性，使得这一区域的生态恢复与重建异常艰难，退化生态系统修复重建中面临着生态过程的完整性和技术途径的合理性以及自然与人工恢复相融合的高效可持续性等诸多科学与技术难点。针对此，实验室科研人员结合对塔里木河下游生态退化过程与机理研究，对荒漠河岸林退化生态系统修复重建技术进行了研发与试验示范等。
+
+在荒漠植被水分利用与调控机制方面，结合对荒漠河岸林植物耗水特性、植物水力提升、植物水分来源等的研究，研发提出了荒漠河岸林植物群落物种装配技术；在荒漠植物群落自维持能力的建成方面，针对荒漠植被恢复重建初期自维持能力弱、成活率低等问题，开展了以内生固氮菌接种、根系诱导、水分利用等为主要内容的植物群落生态可持续性研究，研发提出了退化荒漠植被修复与自维持技术；在种群的发生和发育方面，针对极端干旱环境下土壤盐分表聚、生境劣变、水分匮乏等非生物制约因素导致的荒漠植物种群难以自然发生和定居等难题，开展了荒漠植物群落发生与定居的水分条件试验研究，研发提出了以种源补充、激活土壤种子库、水分亏缺补偿等为主要内容的退化群落改造与生态多样性构建技术；在种群更新方面，针对塔里木河下游胡杨林更新乏力的问题，开展了不同生境下胡杨种子繁育和断根萌蘖实验研究，研发提出了以人工断根萌蘖、营造“种子陷阱”与“种子富集池”等为主要手段的胡杨种群更新技术;针对干旱荒漠区水资源亏缺，原生荒漠植被受干旱胁迫、受损和发育不良的状况，研发提出了在不破坏原生荒漠植被前提下的人工植被与天然植被的生态融合技术;并结合对荒漠植物生理生态学特性、水分利用过程，生态退化机制等的研究，研发提出了干旱荒漠区水分利用、缓解植物水分亏缺、提高人工恢复植物干旱抗逆性、无灌溉/少灌溉造林等一系列退化生态系统恢复的技术和方法，上述技术成果在塔里木河下游生态恢复中得到了很好应用和实践，为极端干旱环境下的干旱区内陆河流域生态修复和荒漠化防治提供了重要示范样板。
+
+# 2.2结合对塔里木河下游不同植物水分来源、抗逆性特点及种群间供水关系的分析，筛选提出了极端干旱环境下生态修复的首选物种和物种装配技术
+
+调查结果显示，由于长期的干旱、盐碱、风沙等胁迫，生物多样性严重受损，塔里木河下游仅存有物种数40 种[10]。在这样一种特殊环境下,物种选择成为退化生态系统修复重建过程中一个关键问题。针对此，我们系统开展了塔里木河下游不同植物水分来源、抗逆性特点及种群间供水关系的分析，并在此基础上，筛选出塔里木河下游生态修复的适宜物种。
+
+在对荒漠河岸林植物水分传导能力的研究中发现，枝条导水率存在柽柳 $>$ 胡杨 $>$ 花花柴 $>$ 骆驼刺 $>$ 红砂 $>$ 苦豆子 $>$ 白刺 $>$ 骆驼蓬的特点，而根的导水率也具有类似的特点，即：怪柳 $>$ 胡杨 $>$ 骆驼刺 $>$ 花花柴 $>$ 白刺 $>$ 苦豆子 $>$ 红砂 $>$ 骆驼蓬。这项实验结果表明，怪柳、胡杨、花花柴、骆驼刺具有较好的水分传输能力，其中，怪柳对水分胁迫有很强的适应性,抗逆性较强[14-15]。再则,从荒漠河岸林植物根系木质部导管水平，解析了根系水力导度的响应机理。结果显示，怪柳根系水力导度最好，胡杨、花花柴、骆驼刺次之，白刺、红砂、骆驼蓬较低;随着树龄增加，怪柳与胡杨根系的抗栓塞能力增加，抗旱性增强；三是，从荒漠河岸林植物木质部栓塞程度探讨了不同植物的水分传导。一般说来，随干旱胁迫增加，植株根系栓塞度增加，水力导度下降。研究结果显示，怪柳和胡杨的木质部栓塞程度最低，水分传输能力强；草本花花柴、骆驼刺和苦豆子水分传输能力较强。综上表明，在极端干旱环境下，怪柳、胡杨对水分胁迫有很强的抗逆性，适生范围宽，应该是首选物种。
+
+同时，在上述研究基础上，我们进一步对不同荒漠河岸林植物的水分利用与种间竞争关系进行了研究。塔里木河下游的平均年降水量在 $4 0 \ \mathrm { m m }$ 以下,而蒸发能力高达 $2 ~ 5 0 0 ~ \mathrm { m m }$ 以上[16],如此稀少的降水量既无水文意义，也无生态意义。土壤水和地下水是维系塔里木河下游植被生存的主要水分。然而，在塔里木河流域极端干旱环境下，不同物种的水分来源和根系吸水深度是不同的，而了解和掌握不同荒漠河岸林植物的水分利用与种间竞争关系至关重要。研究结果显示，在群落尺度上，胡杨、怪柳主要利用 $2 \mathrm { ~ m ~ }$ 以下的深层土壤水和地下水;黑刺主要利用 $0 \sim 2 0 ~ \mathrm { c m }$ 的浅层土壤水；花花柴吸水层位为 $5 0 \sim 1 0 0 ~ \mathrm { c m }$ ;骆驼蓬主要利用 $0 \sim 2 0 ~ \mathrm { c m }$ 的土壤水;胡杨和怪柳吸水层位相同，存在水分资源的竞争关系，与花花柴、苦豆子都不存在种群间竞争;黑刺和骆驼蓬吸水层位相同，存在竞争关系；其他植物种间不存在明显水分竞争;在种群尺度上，胡杨幼苗主要依靠 $3 0 \sim 5 0$ cm 的土壤水，地下水仅占 $6 \%$ ；成熟木： $2 0 0 \sim 2 2 0$ cm 的土壤水和地下水，占 $8 5 \%$ ;过熟木主要利用地下水,占 $9 6 \% ^ { \left[ 1 6 - 1 8 \right] }$ 。同时,还研究发现,荒漠河岸林植物还存在资源共享机制，即：过熟胡杨为幼龄胡杨、苦豆子等提供水分;怪柳为根系较浅的花花柴供给了水分，这主要是由荒漠河岸林植物特有的水力提升及水分再分配功能所致[5.19]。这一结果的发现,为极端干旱环境下生态修复重建中的物种装配提供了重要科技支撑。
+
+# 2.3基于对干旱荒漠区脆弱生态系统保育恢复技术措施的评价，集成提出了干旱荒漠区退化生态系统恢复重建模式
+
+在干旱荒漠区脆弱生态系统保育恢复技术措施研发过程中，我们以塔里木河下游为重点研究区域，依据退化类型、退化程度和水土条件，研发并集成相关技术，提出了干旱荒漠区退化生态系统恢复重建模式。
+
+在荒漠河岸林退化生态系统恢复重建方面，以生物物种的乡土性为原则，筛选适宜极端干旱荒漠环境的恢复重建的植被物种，开发并集成以胡杨、柽柳为重点，以荒漠河岸林种群更新技术，人工植被与天然植被的生态融合技术，荒漠植物群落人工改造和荒漠植被自然恢复人工促进技术等为主要内容的荒漠河岸林保育与恢复技术模式。
+
+在荒漠一绿洲过渡带退化生态系统恢复方面，以重建生态系统的生态自维持为中心，以生态多样性为主导，遵循景观生态学原理，研发并集成了以绿洲一荒漠过渡带生态多样性时空格局技术，生态可持续性时空诊断技术，植物群落物种装配与生态可持续水分高效利用技术等为主要内容的荒漠一绿洲过渡带退化生态系统恢复重建技术模式。
+
+在荒漠退化生态系统恢复方面，针对极端干旱环境下土地荒漠化导致的土壤结构和理化性质劣变、生态系统功能受损、物种丢失等问题，研发并集成了以物种框架法、最大多样性法和退化土壤原位菌根生物修复为主要内容的荒漠退化生态系统改造修复技术模式。在塔里木河下游建立退化群落改造与生态多样性构建技术示范区146.67$\mathrm { { h m } } ^ { 2 }$ ,生态融合与生态自维持技术示范区 $7 0 \ \mathrm { h m } ^ { 2 }$ ，荒漠河岸林胡杨萌蘖更新技术示范区约133.33$\mathrm { { h m } } ^ { 2 }$ ，荒漠一绿洲过渡带退化生态系统修复技术示范区 $5 3 . 3 3 \ \mathrm { h m } ^ { 2 }$ ;在塔里木河中游堤防外围，建立荒漠河岸林保育示范区 $1 . 6 7 \times 1 0 ^ { 3 } ~ \mathrm { h m } ^ { 2 }$ 。在塔里木河中下游生态整治过程中得到广泛应用，推广面积约 $4 . 6 7 \times 1 0 ^ { 3 } ~ \mathrm { h m } ^ { 2 }$ ,取得了良好的社会和生态效益。“干旱荒漠区土地生产力培植与生态安全保障技术”获2011年度国家科学技术进步二等奖。
+
+# 3从优化流域“三生”用水，提升水资源管理能力角度，研究提出的塔里木河流域水资源统一管理咨询建议得到采纳实施
+
+# 3.1针对塔里木河流域水资源管理存在的问题，提出流域"四源一干”统一地表水资源调配管理，保障了塔里木河流域近期综合治理的顺利实施和目标实现
+
+塔里木河流域深居欧亚腹地，干旱少雨，面积约 $1 0 2 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,由“九源一干"144 条构成,是我国生态环境极为脆弱的地区，水资源的供需矛盾是造成流域生态环境恶化的主要原因。现状的塔里木河仅有其上游的阿克苏河、叶尔羌河、和田河和开都一孔雀河这四条源流补给，而这四源流分别隶属塔里木盆地各地州管理，各源流管理机构既是水资源的使用者，也是水资源的管理者，同时还掌握着土地开发的主动权，管理主体的多元化使得难以实现流域范围内水资源的统一管理与调配，而塔里木河流域管理局无法行使对源流区水资源所有权的管理，更难以对流域内水资源实施统一调度。无序开荒、超额超计划用水、抢占挤占生态用水问题突出，流域的管理体制已经不符合新时期新形势下全面推进新疆发展与长治久安的需要。
+
+针对此，实验室科研人员向国家和自治区人民政府提出将塔里木河源流水资源管理纳入到塔里木河流域水资源统一管理体系中，将源流区的阿克苏河、和田河、叶尔羌河、开都一孔雀河等流域管理机构整建制移交塔里木河流域管理局，把塔里木河“四源一干”作为一个整体，打破水资源发生和利用过程中的多元主体边界，改变过去“区域管理强，流域管理弱”的局面的建议。咨询建议得到国家领导人批示和采纳，并于2011年2月10日新疆维吾尔自治区第十一届人民政府第19次常务会议决定，将塔里木河主要源流（阿克苏河、叶尔羌河、和田河、开都一孔雀河)管理机构整体移交塔里木河流域管理局，实现流域地表水资源的统一调配与管理，确保了塔里木河流域水资源管理的优化，以及水资源管理体制改革的顺利实施。
+
+# 3.2研究提出了塔里木河流域生态需水与重点生态工程布局，研究结果被纳入并支撑了“南疆水利规划”
+
+“塔里木流域近期综合治理”从2000年开始实施，历经12a,取得了较为明显的效果与成绩，但是治理结果与最初规划目标尚有差距，近期治理后塔里木河下游生态退化局面得到一定遏制，近河道自然植被系统得到复壮，但是塔里木河流域生态系统整体退化趋势与格局尚未改变，生态环境问题依旧存在，生态与经济社会发展的水资源利用矛盾依旧突出，问题主要表现在：（1）超承载力的水资源开发依然存在，导致生态恶化；（2)耕地面积与农业用水比重过大，挤占了生态用水;（3）对流域水资源与生态环境的综合监测与管控能力不足；（4）流域生态系统退化趋势未变，生态保护与建设任重道远。
+
+针对塔里木河流域近期综合治理后依然存在的问题,本着“突出解决生计”、“实现生态工程建设的改革创新”、“源头控制，标本兼治”、“自然恢复为主，人工措施为辅”和“系统规划，协同推进”的原则，依据天然植被分布格局、水分来源，研究提出塔里木河“九源一干”（阿克苏河、叶尔羌河、和田河、开都一孔雀河、迪那河、渭干一库车河、喀什噶尔河、克里雅河、车尔臣河以及塔里木河干流)生态保护范围，保护塔里木河“九源一干”平原区天然植被不再退化和减少，保护面积达259.25$\times 1 0 ^ { 4 } \ \mathrm { h m } ^ { 2 }$ ,并在此基础上提出各流域生态敏感区保护范围。采用潜水蒸发法和定额法估算了“九源一干”平原区天然植被生态保护范围内的生态需水量,共计 $8 6 . 0 1 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 。
+
+针对流域现实存在的生态环境问题，综合考虑新时期国家层面的发展战略与生态文明建设要求，以及区域与流域生态建设和经济社会稳定发展的需要，在“九源一干”范围内，确定五项重点生态建设工程：（1）输水河道综合生态治理工程；（2）生态保护封育工程；（3）水源地保护与截污导流工程；（4）水土流失综合治理工程；（5）综合生态监测工程。这些研究成果得到流域管理职能部门的充分肯定，结论被纳入“南疆水利规划”，为西部生态文明建设与“丝绸之路经济带”水资源可持续管理及生态安全保障提供了支撑。
+
+# 3.3从优化流域水资源管理与加强生态保护与修复的角度出发，提出了多项咨询报告与决策建议被政府批示和采纳
+
+塔里木河流域在资源型缺水的大背景下，同时存在结构性缺水、管理型缺水与工程型缺水，区域生态环境问题与水资源密不可分。因此，在水资源开发与生态保护过程中，发现问题，及时解决，优化区域水资源管理，加强生态保护与修复对于塔里木河流域的绿洲经济发展和社会稳定意义重大。实验室科研人员以此为出发点，依据在塔里木河流域多年来开展的水文水资源与生态水文过程研究，结合塔里木河流域的实际情况和科研工作中发现的问题，积极撰写咨询报告与政府决策建议，多份咨询报告获国家及新疆自治区领导人批示和采纳，科技支撑塔里木河流域生态修复及可持续管理。为塔里木河流域可持续管理与区域水资源优化与生态安全保障提供了重要的决策依据与科学支撑。
+
+# 4结语
+
+荒漠与绿洲生态国家重点实验室围绕国家新时期重大战略生态安全需求与区域资源可持续利用管理的需要，在塔里木河流域山区气候变化与水循环、绿洲区水资源可持续利用、荒漠区生态水文过程与生态保护修复等方面开展了长期的监测、定位研究与试验示范工作，研发集成了干旱荒漠区生态修复与重建的关键技术方法，提出了适用于塔里木河流域退化荒漠生态系统修复重建模式,结合塔里木河流域极端干旱环境下荒漠化防治困难、植被恢复难以维持、生态修复易逆向演替等问题,提出了多种适宜塔里木河流域的生态修复技术模式，并进行了试验示范与应用推广，研究提出流域水资源管理体制改革对策得到全面采纳，提出的生态修复技术方案被纳入国家新近批复《南疆水利规划》，科技支撑塔里木河流域生态修复及可持续管理，为丝绸之路经济带核心区的生态安全保障和新疆生态文明建设、区域稳定发展做出了重要贡献。
+
+# 参考文献(References)
+
+[1］陈亚宁,李卫红,徐海量,等.塔里木河下游地下水位对植被 的影响[J].地理学报,2003,58(4）:542-549.[CHEN Yaning,LI Weihong,XU Hailiang,etal. The influence of groundwater on vegetation in the lower reaches of Tarim River,China[J].Acta Geographica Sinica,2003,58(4） :542-549.]   
+[2]陈亚宁,张小雷,祝向民,等.新疆塔里木河下游断流河道输 水的生态效应分析[J].中国科学（D辑）,2004,34（5）：475 -482.［CHEN Yaning,ZHANG Xiaolei,ZHUXiangmin,et al. The ecosystem efect analysis of water input in Tarim River[ J]. Science in China（Ser.D Earth Sciences）,2004,34(5）:475- 482.]   
+[3］陈亚宁,张宏锋,李卫红,等.新疆塔里木河下游物种多样性 变化与地下水的关系[J].地球科学进展,2005,20（2）：158 -165.［CHEN Yaning,ZHANG Hongfeng,LI Weihong,et al. Study on species diversity and the change of groundwater level in the lowes reaches of Tarim River,Xinjiang,China[J].Advances in Earth Science,2005,20(2） :158-165.]   
+[4］陈亚宁.新疆塔里木河流域生态水文问题研究[M].北京：科 学出版社,2010：517-571.[CHEN Yaning.On problems of ecological hydrology of Tarim River Basin in Xinjiang[M].Beijing:Science Press,2010:517 -571.]   
+[5] HAO Xingming,CHEN Yaning,GUO Bing,et al.Hydraulic redistribution of soil water in Populuseuphratica Oliv.in a Central Asian desert riparian forest[J].Ecohydrology,2012,6(6）:974 -983.   
+[6]刘加珍,陈亚宁,李卫红,等.荒漠河岸植被的受损过程域受 损机理分析[J].地理学报,2006,61（9）:946-956.[LIU Jiazhen,CHEN Yaning,LI Weihong,et al. The process and mechanism of degradation of desert riparian vegetation[J].Acta Geographica Sinica,2006,61(9）:946 -956.]   
+[7]LIU Jiazhen,CHEN Yaning,CHEN Yongjin,et al.Degradation of Populus euphratica community in the lower reaches of the Tarim River,Xinjiang,China[J].Journal of Environmental Science, 2005,17(5) :740 -747.   
+[8］CHEN Yaning,CHEN Yapeng,LI Weihong,et al.Response of the accumulation of proline in the bodies of Populus euphratica to the change of ground water level at the lower reaches of Tarim River[J].Chinese Science Bulletin,2003,48（18）：1995- 1999.   
+[9] CHEN Yaning,WANG Qiang,LI Weihong,et al.Rational groundwater table indicated by the ecophysiological parameters of the vegetation:A case study of ecological restoration in the lower reaches of the Tarim River[J].Chinese Science Bulletin,2006,51(supp） :8 -15.   
+[10]CHEN Yaning,WANG Qiang,RUAN Xiao,et al.Physiological response of Populus euphratica to artificial water-recharge of the lowerreaches of Tarim River[J].Acta Botanica Sinica,2O04,46 (12):1393-1401.   
+[11]CHEN Yaning,ZHOU Honghua,CHEN Yapeng.Adaptation strategies of desert riparian forest vegetation in response to drought stress [J].Ecohydrology,2013,6(6）:956-973.   
+[12］CHEN Yaning,LI Weihong,XU Changchun,et al.Desert riparian vegetation and groundwater in the lower reaches of the Tarim River basin[J].Environmental Earth Sciences,2015,73（2）:547- 558.   
+[13]CHEN Yaning,ZILLIACUS H,LI Weihong,et al. Ground-water lever affects plant species diversity along the lower reaches of the TarimRiver[J].Journal of Arid Environments,2006,66:231-246.   
+[14］ZHOU Honghua,CHEN Yaning,LI Weihong,et al.Xylem hydraulic conductivity and embolism in riparian plants and their responses to drought stress in desert of northwest China[J].Ecohydrology，2013,6(6):984-993.   
+[15］周洪华,李卫红,木巴热克·阿尤普,等.荒漠河岸林植物木质 部导水与栓塞特征及其对干旱胁迫的响应[J].植物生态学 报,2012,36(1）:19-29.［ ZHOU Honghua,LI Weihong,AYUP Mubarek,et al.Xylem hydraulic conductivity and embolism properties of desert riparian forest plants and its response to drought stress[J].Chinese Journal of Plant Ecology,2012,36（1）:19- 29.]   
+[16］CHEN Yaning,LI Weihong,ZHOU Honghua,et al.Experimental study on water transport observations of desert riparian forests in the lower reaches of the Tarim River in China［J].International Journal of Biometeorology,2017,61:1055-1062.   
+[17]CHEN Yapeng,CHEN Yaning,XU Changchun,et al.The effects of groundwater depth on water uptake of Populus euphratica,and Tamarix ramosissima,in the hyperarid region of northwestern China[J].Environmental Science & Pollution Research,2O16,23 （17):17404-17412.   
+[18］LIU Shubao,CHEN Yaning,CHEN Yapeng,et al.Use of $^ 2 \mathrm { H }$ and （204号 $^ { 1 8 } 0$ stable isotopes to investigate water sources for different ages of Populus euphratica along the lower Heihe River[J].Ecological Research,2015,30:581-587.   
+[19］HAO Xingming,LI Yang,DENG Haijun.Assessment of hydraulic redistribution on desert riparian forests in an extremely arid area [J].Environmental Monitoring and Assessment,2013,185:10027 -10038.
+
+# Science in supporting the ecological restoration and sustainable development of the Tarim River Basin
+
+CHEN Ya-ning， LI Wei-hong， CHEN Ya-peng， ZHU Cheng-gang (State Key Laboratory of Desert and Oasis Ecology,Xinjiang Institute of Ecologyand Geography Chinese Academyof Sciences,Urumqi 830011,Xinjiang,China)
+
+Abstract:Located in the northwest Xinjiang,China,the Tarim River Basin with an area of about $1 0 2 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ is the heart of China's Silk Road Economic Belt.During the past 5O years,the Tarim River Basin has experienced extensive development of water and soil resources.Along with the economicand social development,negative ecological effects including terminated rivers,dried-up lakes,intensified desertification,and lossof biodiversity havebeen aggravated,threatening the socio-economic development of the Tarim River Basin and the Silk Road Economic Belt. Given these ecologicalisues in the Tarim River Basin,the State Key Laboratoryof Desertand Oasis Ecology has caried ut long-term ecological monitoring and investigation.Basedonthe monitoringdata and extensive investigation,the dependence of the desert riparian vegetationon groundwater level wasilustrated,the degradation processes of the ecosystem were revealed,and reasonable/stressed/critical groundwater level and ecological water demand were proposed in the lower reaches of the Tarim River.Inaddition,the key technologies for ecological restoration and reconstruction of the degraded ecosystems were proposed,promoted and applied widely.The proposed construction plan for key eco-engineering was included inthe Water Resources Planning in Southern Xinjiang implemented by the government of Xinjiang.Recommendations on water resources management have been adopted and implementedby the state.Science and technology can effectively support the ecological restoration and sustainable management of the Tarim River Basin,providing an important scientific basisand demonstrationmodel for theecological civilization construction along the Silk Road Economic Belt.
+
+Key words:desert riparian vegetation；ecological conservation and restoration；prevention and controlof desertification；Tarim River Basin

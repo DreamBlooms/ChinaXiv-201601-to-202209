@@ -1,0 +1,399 @@
+[
+    {
+        "type": "text",
+        "text": "基于快速鲁棒性主成分分析的日冕喷流自动检测方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "耿成杰1，李润鑫²，刘辉3，尚振宏4(1昆明理工大学信息工程与自动化学院，云南昆明650500;2昆明理工大学云南省计算机技术应用重点实验室，云南 昆明 650500;3中国科学院云南天文台，云南 昆明 650216;4昆明理工大学云南省人工智能重点实验室，云南 昆明 650500)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文使用快速鲁棒性主成分分析(Fast RPCA，Fast Robust PrincipalComponentAnalysis)方法对日冕序列图像中的日冕喷流活动进行检测。检测的基本思路是利用FastRPCA方法中低秩和稀疏分解的思想与日冕序列图像中有着变化尺度稍小且占比较大的随机变化背景成分、变化尺度较大且占比较小的日冕喷流的特点相结合，以此来实现随机复杂多变的动态背景和稀疏运动目标之间的分离，从而检测出作为前景变化的日冕喷流。采用太阳动力学天文台(Solar Dynamics Observatory，SDO)卫星上大气成像组件(AtmosphericImagingAssembly，AIA）观测设备的两组不同时间段、不同波段、不同观测位置的日冕序列图像作为研究对象。研究内容主要包括日冕序列图像的预处理、日冕喷流检测、Fast RPCA方法与帧间差分法的检测结果对比分析。实验结果表明，与帧间差分法相比，FastRPCA方法能够检测出强度较弱的日冕喷流且提高了日冕喷流检测的准确度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：日冕喷流检测；FastRPCA；帧间差分；运动目标提取中图分类号：TP399； $\\mathrm { P l } 8 2 . 6 \\substack { + 2 }$ 文献标志码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "日冕喷流(coronal jets)是太阳外层大气(日冕)中普遍存在的太阳瞬变现象[1l，是沿着开放磁力线运动的等离子体流，在不同位置和不同波段观测到的喷流具有不同的形态学和动态学特征[2]。近年来的研究表明，日冕喷流在分析太阳磁场拓扑结构，加热局地日冕以及加速太阳风等方面可能起着十分重要的作用，同时喷流活动经常会伴随着耀斑、暗条和日冕物质抛射等活动现象[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文[4]通过随机选择 20个X射线喷流和极紫外波段(Extreme Ultraviolet，EUV)喷流分析可知，这20个喷流都起源于迷你暗条爆发，并且暗条的喷发始于喷流基部亮点位置附近。在喷流喷发过程中存在迷你暗条的上升运动，在暗条到达喷流顶端位置之前，测量得到的暗条平均长度等于X射线喷流的平均宽度，这与喷流喷发是由微暗条喷发驱动的观点一致。文[5]首次对日冕爆裂喷流，和由它引起的同时发生气泡状和喷流状CME 的活动现象进行分析，提出了一个解释日冕爆裂喷流的模型对日冕爆裂喷流的冷热分量和对应动态相关的CME 现象进行解释：喷流冷分量是由喷流底部的暗条喷发引起，并进一步导致气泡状CME;喷流状CME与喷流热分量有关，热分量是限制暗条的闭合场与周围开放场磁力线重新联接而产生的向外移动的热等离子体。文使用 SDO卫星上的AIA、日震学与磁场成像仪(Helioseismic and Magnetic Imager，HMI)观测设备的图像数据和1m 新真空太阳望远镜(NewVacuum Solar Telescope，NVST)的Hα线心图像数据对喷流的演化和喷流源区两个相邻暗条细丝间的变化进行分析发现，该双向环状喷流的爆发是由于喷流源区相邻暗条细丝间的磁重联所导致，和目前普遍认为的双向喷流的触发机制有很大的不同。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着太阳观测设备的发展，高时空分辨率的日冕图像数据越来越多，如何从海量的数据中，通过图像处理技术，将日冕喷流自动检测出来，将有助于研究人员对喷流的形成过程、触发机制以及喷流对日冕的加热和太阳风加速背后的物理规律的研究，同时也能够为分析喷流与暗条、CME等伴随活动现象之间的内在联系提供便利。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文[7将 Sobel边缘检测方法和 Hough 变换相结合来对 SDO/AIA 观测数据中的日冕喷流进行检测，并将检测出的日冕喷流相应的活动持续时间，长宽度和视线速度等参数存入日球物理学事件知识库(Heliophysics Event Knowledgebase，HEK)中。Hough 变换将检测对象从目标空间转换到参数空间,避免了在目标空间检测时的目标分类运算,但是该方法比较依赖原始图像空间中检测对象的曲线表达式。而日冕喷流在形态上是复杂多变的，其边缘曲线的表达式会难以确定，造成检测结果不佳。文[8-9]中使用帧间差分法对日出(Hinode)卫星上X射线望远镜(X-ray Telescope，XRT)的观测数据进行检测，并对检测到的喷流的长度、速度等参数进行计算和统计分析。帧间差分法原理简单、易于实现，但是在面对喷流运动速度缓慢和强度较弱时检测结果不理想。文[2]中首先对NVST观测到的多个Hα日浪事件进行观测研究，得到该类事件的观测特性和主观判断结果，然后对观测数据上比较暗的结构（黑子、暗条和针状体等）进行标记，在利用阈值分割的方法分离出观测数据中的暗结构，排除已经标记的暗结构，将剩余的暗结构和主观判断结果进行比较，最终得到Hα日浪。该方法需要对黑子，暗条等结构标记，比较费时。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "事实上，日冕喷流的检测可以看成是在日冕序列图像中检测突变，或者是说从复杂随机变化的背景中将有规律变化的喷流活动检测出来。因此，如何实现复杂变化背景与稀疏前景的分离是检测日冕喷流的关键。鲁棒性主成分分析方法在运动目标检测中有着广泛的应用。本文用该方法对 SDO/AIA观测数据中不同时间段、不同波段、不同观测位置的日冕喷流进行检测。检测结果表明该方法与传统的帧间差分法相比能够检测出更加完整的喷流，检测出的喷流区域孔洞较少、比较连续。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文将从以下四个部分对所做工作进行展开和总结：1.对所使用的两组数据的特点和差异进行描述;2.FastRPCA方法的原理及其应用于喷流检测的可行性分析;3．基于FastRPCA的日冕喷流自动检测结果及相关参数分析。4.结论与存在的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 SD0/AIA实验数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SDO 是美国太空总署(National Aeronautics and Space Administration,NASA)于 2010 年 2月发射的一颗空间天气卫星，其上的AIA观测设备成像具有较高的时空分辨率，能够为进一步研究太阳爆发活动提供高质量的观测图像数据。本工作中使用了两组不同时间段、不同波段、不同观测位置的日冕喷流实验数据集：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据集I：波段为171A和193A两个波段，视场范围 $4 4 9 \\times 1 7 9$ 像元，像元分辨率为0.6arcsec/pixel，视场中心坐标(205.2 arcsec，-253.8 arcsec)。171A波段的观测时间为 2014/10/0410:10:00(UT)到 2014/10/0410:41:00(UT)，共156帧图像，193A波段观测时间为2014/10/0410:10:08(UT)到 2014/10/0410:41:08(UT)，共156帧图像，时间分辨率都为12s。数据集II：波段为171A和193A两个波段，视场范围 $1 8 6 \\mathrm { ~ x ~ } 3 1 3$ 像元，像元分辨率为0.6arcsec/pixel,视场中心坐标(-219 arcsec，-366.9 arcsec)。171A波段的观测时间为 2014/03/0319:10:00(UT)到2014/03/03 20:05:00 (UT)，共 276帧图像，193A波段观测时间为2014/03/0319:09:56(UT)到2014/03/0320:04:56(UT)，共276 帧图像，时间分辨率都为12s。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这两组数据中喷流变化尺度较大、像素强度增加比较明显，同时还存在一些亮度增强的非日冕喷流变化，非喷流的日冕变化会导致视场范围内的图像强度发生复杂变化。图 1(a)显示了数据集I中在2014/10/0410:25:00(UT)时刻171A波段对数对比度增强后的全日面图像；(b)显示了(a)中矩形区域视场范围内171A波段在该时刻对应的对数对比度增强后的日冕图像；(c)则显示的是193A波段在2014/10/0410:24:56(UT)时刻对应的对数对比度增强后的日冕图像；(b)和(c)中的日冕喷流在像素强度上分布不均匀，且(b)中的图像内容更复杂，日冕喷流与图像背景像素强度差异大，易于区别；在10:27:20(UT)时193A波段中日冕喷流强度较弱，与图像背景强度差异小，此时171A波段中的日冕喷流像素强度与图像背景依然有较大的区别。图 2显示的是数据集Ⅱ所对应的日冕图像；(b)中的图像内容比(c)中的复杂，但(c)中的日冕喷流在直观上易于辨别。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d28a7b37a79a6ae3c0065ee4e995b9508ecdd65c5224005e4db77e6a1bafaf69.jpg",
+        "img_caption": [
+            "图1 (a)：数据集I在10:25:00(UT)时刻171A波段的全日面日冕图像；(b)：为(a)中红色矩形框标记的日冕图像；(c):为(a)中红色矩形框在10:24:56(UT)时刻193A波段标记的"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "日冕图像",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bc5128e05da13938c2682992fdfd98fbacbbcbca2490061e52ec44580f364a7.jpg",
+        "img_caption": [
+            "图2(a)：数据集II在19:31:49(UT)时刻171A波段的全日面日冕图像；(b)：为(a)中红色矩形框标记的日冕图像；(c)：为(a)中红色矩形框在19:31:56(UT)时刻193A波段标记的日冕"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 (a): Full-disk 171A image of Data Iat 10:25:00 UT.(b): 171A image in the red rectangular box in Fig.1 (a). (c): 193A image at 10:24:56 UT in the red rectangular box in Fig.1 (a). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 (a): Full-disk 171A image of Data IIat 19:31:49 UT.(b): 171A image in the red rectangular box in Fig.2 (a).(c): 193A image at 19:31:56 UT in the red rectangular box in Fig.2 (a) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2快速鲁棒性主成分分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RPCA[10]方法的数学模型如式(1)所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\underset { L , S } { \\mathrm { a r g m i n } } \\quad r a n k ( L ) + \\lambda \\left\\| S \\right\\| _ { 0 } \\quad s . t . D = L + S\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)式是一个非凸的优化问题，针对该问题目前没有有效的解决方案。可以通过松弛技术，将(1)式中矩阵 $s$ 的 $l _ { 0 }$ 范数使用 $l _ { 1 }$ 范数代替，使用核范数 $\\left\\| \\cdot \\right\\| _ { * }$ 代替rank $( \\cdot )$ 来近似的逼近矩阵 $L$ 的秩，由此可以将(1)式松弛为一个凸优化问题(2)进行求解。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\underset { L , S } { \\arg \\operatorname* { m i n } } \\quad \\left\\| L \\right\\| _ { * } + \\lambda \\left\\| S \\right\\| _ { 1 } \\quad s . t . D = L + S\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$D$ 为观测矩阵， $\\| L \\| _ { * }$ 是矩阵 $L$ 的核范数， $\\left\\| S \\right\\| _ { 1 }$ 是矩阵 $s$ 的 $l _ { 1 }$ 范数, $\\lambda ( \\lambda > 0 )$ 为权重参数，用于调节低秩和稀疏的占比。其假设为给定的 $m$ 个数据，每一个数据列向量化为矩阵$D \\in R ^ { m \\times n }$ 的一列，矩阵 $D$ 可以分解为低秩矩阵 $L$ 和稀疏矩阵 $S$ ，即 $D = L + S$ 。其中 $L$ ， $S$ 都是未知的， $L$ 要满足低秩的特性， $S$ 要满足稀疏特性，其数值可以为任意大小，这也是RPCA鲁棒性的体现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于RPCA是通过代价高昂的优化来计算的，在面对诸如视频等数据量比较大的情况时，其实时性比较低，因此 RPCA 的快速算法的开发就显得比较重要。文[II中对(2)式的惩罚约束进行改进，得到在视频背景建模/前景检测下比IALM快一个数量级的 Fast RPCA 算法，其数学模型如式(3)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\underset { \\ b { L } , \\ b { S } } { \\arg \\operatorname* { m i n } } \\frac { 1 } { 2 } \\big \\| \\ b { L } + \\ b { S } - \\boldsymbol { D } \\big \\| _ { \\scriptscriptstyle F } + \\lambda \\big \\| \\boldsymbol { S } \\big \\| _ { \\scriptscriptstyle 1 } \\boldsymbol { s . t . } \\big \\| \\ b { L } \\big \\| _ { \\ast } \\leq t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于性能的原因，文中主要考虑 $r a n k ( L ) = t$ 时的情况，如式(4)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\underset { L , S } { \\arg \\operatorname* { m i n } } \\frac { 1 } { 2 } \\big \\| L + S - D \\big \\| _ { F } + \\lambda \\big \\| S \\big \\| _ { 1 } s . t . r a n k ( L ) = t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对式(4)使用交替最小化方式进行求解，具体求解过程如式(5)式(6)所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { k + 1 } \\ = \\ \\arg \\operatorname* { m i n } _ { L } \\left\\| L + S _ { k } - D \\right\\| _ { F } \\ s . t . \\ r a n k ( L ) = t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { k + 1 } ~ = ~ \\mathop { \\mathrm { a r g m i n } } _ { s } \\left\\| L _ { k + 1 } + S - D \\right\\| _ { F } + \\lambda \\left\\| S \\right\\| _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式(5)通过对 $D - S _ { k }$ 进行部分奇异值分解来计算矩阵 $L , t$ 为奇异值的个数，当 $t$ 很小时，算法有着非常高的计算效率。式(6)通过对 $D - L _ { k + 1 }$ 进行逐像素的软阈值操作$( s h r i n k ( D - L _ { k + 1 } , \\lambda ) )$ 计算矩阵 $s$ 。软阈值函数定义如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns h r i n k ( x , \\varepsilon ) = s i g n ( x ) \\operatorname* { m a x } \\left\\{ 0 , \\left| x \\right| - \\varepsilon \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "虽然FastRPCA的实时性比较高，但是 $t$ 值和 $\\lambda$ 值的设置对实验结果显得尤为重要，且当 ‖D-L-SIlF≤10- 时或者迭代次数≥300时停止检测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fast RPCA方法是根据低秩和稀疏分解的思想来进行运动物体的检测，其基本思路是假设由序列图像所组成的观测矩阵 $D$ 可以被分解为低秩背景矩阵 $L$ 和稀疏前景矩阵 $S$ 。由于太阳日冕时刻都在发生复杂随机的变化，所以日冕图像中的内容是复杂多变的。从数据集I、ⅡI中的序列图像来看，日冕喷流在时间序列上变化尺度大，而序列图像中日冕变化尺度比较小的部分在时间序列上差异不大，且在序列图像有着比较高的占比，因此变化尺度比较小的这一部分日冕内容可以近似认为低秩、相关的。而日冕喷流序列图像数据的这一特点与 FastRPCA 的低秩、稀疏分解思想相似，因此可以尝试将FastRPCA方法用于日冕喷流的检测，其方法的可行性和优势，将在后续实验的对比分析中进行验证。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3日冕喷流检测与检测结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在使用FastRPCA算法检测日冕喷流运动之前，要先对Level1.0的原始图像数据进行预处理。预处理包括Fits 文件的标准化、太阳自传校正、曝光时间校正和图像对比度增强。对于 Fits 文件的标准化和太阳自传校正，太阳软件包中提供了相应的解决方法(aia_prep.pro和 drot_map.pro)。Fits 文件标准化主要是实现 fits 文件日面中心对齐，像元分辨率统一为0.6arcsec 和消除侧倾角。太阳自传校正，主要是消除由太阳自传在投影平面造成的位移，减小对日冕喷流演化分析时的影响。Fits 头文件中包含的图像数据曝光时间大小不一定相同，这导致图像序列的亮度差异大，把图像数据除以曝光时间得到单位时间内的曝光量的图像数据，然后在使用标准差归一化方法，使得图像序列的强度统一。原始fits文件的图像数据的对比度比较低，这里使用对数函数对图像进行对比度增强，方便进行图像内容的观察和喷流的检测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对图像进行预处理之后，使用FastRPCA算法对序列图像进行喷流检测。使用FastRPCA算法分别对数据集I、ⅡI进行实验，对检测结果进行BM3D[12]去噪后，使用OTSU[13]分割图像，并将二值化后连通域面积小于20的区域剔除，得到最终检测结果，如图3、图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文以两组不同时间段、不同波段、不同观测位置的日冕图像序列作为检测对象，用Fast RPCA的检测结果与帧间差分法的结果进行对比分析，来说明FastRPCA算法的有效性和优势。从图3、图4中第二行Ground truth image(使用 MATLAB 的 Image labeler 应用程序中的像素标记工具，将有喷流的地方直接标记出来，标记的地方值为1，其余地方为0,将标记结果作为标签使用)和第三行(Fast RPCA检测结果)图像序列对比来看，Fast RPCA能够检测出喷流的绝大部分，且与帧间差分法(第四行，当前时间帧与前12秒相减)检测出的喷流区域相比，空洞较少，且检测出的区域比较连续，说明RPCA能够用来检测喷流。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于数据集I，从图3左图中的矩形框标记的日冕喷流的检测结果来看，在10:27:12时刻，FastRPCA的检测结果明显优于差分法的检测结果且检测结果中离散点较少，检测出的喷流区域更加完整；在图3右图中的矩形框标记的日冕喷流的检测结果显示，FastRPCA此时能够检测出喷流的微小区域，差分法则没能够检测出。对于数据集ⅡI，从图4中矩形框标记的日冕喷流的检测结果来看，其反应的情况与图3矩形框标记的日冕喷流的检测结果基本一致。从图4上图中矩形框标记的日冕喷流的检测结果来看，FastRPCA能够检测出更多的喷流，其检测结果中不会存在大量的非喷流区域。在图4下图中的矩形框标记的日冕喷流的检测结果显示，此时FastRPCA与差分法相比能够检测出日冕喷流，且此时的日冕喷流检测结果从直观上容易辨认，不存在误检的情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d9007c25da4ba44a87afb72a51c66dc1e7f2c6fbce9cfaa0ae93073826bbdc4.jpg",
+        "img_caption": [
+            "图3数据集I，左：171A波段检测对比结果；右：193A波段检测对比结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/badb80af9a4ef51fe3b9e839bd39fe44312a49479dff37693633c3b6f0d5c48e.jpg",
+        "img_caption": [
+            "Fig.3Detection and comparison results of Data I.Left:171A images.Right:193A images. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d8de145b792ff8b21ed799cb15b7cbcdd2b4a3bce63a7c32f23fbf2bf62fe36.jpg",
+        "img_caption": [
+            "图4数据集II，顶部：171A波段检测对比结果；底部：193A波段检测对比结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Detection and comparison results of Data II.Top:171A images.Bottom:193A images. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图3、图4中日冕喷流的检测结果来看，FastRPCA 能够在复杂多变的日冕背景中检",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "测出运动缓慢且强度较弱的日冕喷流。从原理上讲，帧间差分法在面对图像内容单一、背景稳定的图像数据时具有较好的适用性，但是在面对包含复杂随机变化的日冕图像时，却存在漏检(图4上下图矩形框4)的情况。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "但是FastRPCA和帧间差分法的检测结果有时相差不大(如图3左右图(a)、(b)，图4上下图(a)、(b))，且差分法在检测出喷流区域的同时，也会检测出许多不是喷流的区域。为了对FastRPCA和帧间差分法的检测结果进行客观分析，同时也为FastRPCA算法中的t、λ的设置提供客观依据采用 $F _ { 1 }$ 指标[14]对两者的检测效果进行综合评估。公式如(8)式、(9)式所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a00ca35f4a2a1c6a716a96cd676e916891f5621fdd9f1b3d2e706b11bb992db.jpg",
+        "table_caption": [
+            "表1FastRPCA与帧间差分检测结果综合比较 Tab.1 Comprehensive comparison of Fast RPCA and running difference detection results "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据集</td><td rowspan=\"2\">波段</td><td rowspan=\"2\">方法</td><td colspan=\"3\">Average</td></tr><tr><td>PRE↑</td><td>RE↑</td><td>F1↑</td></tr><tr><td rowspan=\"4\">1</td><td rowspan=\"2\">171</td><td>RPCA</td><td>0.7480</td><td>0.2514</td><td>0.3677</td></tr><tr><td>差分法</td><td>0.3939</td><td>0.3292</td><td>0.1585</td></tr><tr><td rowspan=\"2\">193</td><td>RPCA</td><td>0.7596</td><td>0.1998</td><td>0.2832</td></tr><tr><td>差分法</td><td>0.6259</td><td>0.1863</td><td>0.2410</td></tr><tr><td rowspan=\"4\">II</td><td>171</td><td>RPCA</td><td>0.7414</td><td>0.3955</td><td>0.4877</td></tr><tr><td></td><td>差分法</td><td>0.3075</td><td>0.4404</td><td>0.1658</td></tr><tr><td rowspan=\"2\">193</td><td>RPCA</td><td>0.6924</td><td>0.4090</td><td>0.3390</td></tr><tr><td>差分法</td><td>0.4558</td><td>0.4470</td><td>0.2014</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP R E = { \\frac { T P } { T P + F P } } , R E = { \\frac { T P } { T P + F N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { 1 } = 2 { \\frac { P R E \\cdot R E } { P R E + R E } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中，PRE 为准确率(precision)， $R E$ 为召回率(recall)， $F _ { 1 }$ 为综合性能指标。 $T P$ (truepositives)、 $F P$ (false positives)和 $F N$ (false negatives)分别表示被正确检测为日冕喷流的前景像素点，被错误检测为日冕喷流的背景像素点、被错误检测为背景的前景像素点。当综合性能指标 $F _ { 1 }$ 越高，表明所使用方法的检测效果越好。如表1所示。对于数据集Ⅰ、ⅡI，FastRPCA在综合性能指标上均有提高，且日冕喷流检测的准确率( $P R E$ )明显提升。经过多次实验，根据 $F _ { 1 }$ 指标高低设置FastRPCA模型中的 $t$ 、 $\\lambda$ 值，数据集I中171A波段对应的 $t$ 值为30，λ为0.01，数据集II中171A波段对应的 $t$ 值为7， $\\lambda$ 为0.01。193A波段都采用和171A波段一样的值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，在对日冕喷流进行统计研究时，日冕喷流的速度、长度和宽度等参数经常作为统计对象，这里使用FastRPCA的日冕喷流检测结果的二值图像的最小面积外接矩形估算喷流的长宽比，继而估计喷流的大致形态。最后根据检测结果的二值图像凸壳质心的位移叠加，估算喷流的总体速度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据估算结果得到结论：日冕喷流的长宽比都大于1，形态上具有较明显的朝向性。在数据集I的171A波段测得的速度为 $1 7 4 \\mathrm { k m / s }$ ，长宽比为3.19，在10:25:00 时达到最大长度约 $8 5 \\mathrm { { M m } }$ ，活动时长为10:14:00到10:28:00；在193A波段测得的速度为 $1 9 4 \\mathrm { k m / s }$ ，长宽比为3.25，在19:33:44时达到最大长度约 $9 7 \\mathrm { M m }$ ，活动时长为10:13:31到10:26:03。在数据集ⅡI的171A波段测得的速度为 $1 7 4 \\mathrm { k m / s }$ ，长宽比为4.74，在19:33:12时达到最大长度约93Mm，活动时长为19:25:24到19:34:48；在193A波段测得的速度为 $1 5 7 \\mathrm { k m / s }$ ，长宽比为3.15，在19:32:20时达到最大长度约 $8 0 . 3 \\ \\mathrm { M m }$ ，活动时长为19:22:44到19:34:44。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文将FastRPCA应用于日冕喷流检测，通过低秩和稀疏分解的思想对日冕变化的动态背景进行建模，从而检测出作为前景变化的日冕喷流。实验结果表明Fast RPCA在有着喷流变化尺度较大、像素强度增加明显，同时还存在亮度增强的小尺度非喷流变化的日冕序列图像中检测日冕喷流时，其检测结果与帧间差分法相比，检测出的日冕喷流区域孔洞较少、区域连续，且检测的准确度有所提高。差分法在原理上简单、易于实现，但是在针对日冕喷流检测这种除了日冕喷流的变化之外，还存在其他小的、亮度增加的非喷流变化的动态场景时效果不可观，而FastRPCA却能够检测出帧间差分法不能检测到的强度较弱的日冕喷流。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FastRPCA目前存在的问题是模型中 $t$ 值、 $\\lambda$ 值参数的设置，这些参数还不能够实现自动设置，需要通过多次试验人工选择参数，而如何通过客观指标分析对算法的参数进行自动设置和算法的可行性进行客观评价是算法改进的重点。而且，日冕喷流的提取还需要进一步结合日冕喷流形态和灰度变化的特点，将喷流从检查结果中完整的提取出来；日冕喷流的观测特征参数(如：速度、长度和宽度等参数)还有需要更加精准的测量。此外，Fast RPCA在数据量比较大的情况下运算量大，耗费时间长，而如何对全日面上的日冕喷流，特别是弱的日冕喷流进行检测，将作为后续进一步的工作内容。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Raouafi N E, Patsourakos S, Pariat E, et al. Solar Coronal Jets: observations, theory, and modeling [J]. Space Science Reviews, 2016, 201: 1-53.   \n[2] 郑艳芳．太阳高分辨数据评价与喷流/日浪的观测研究[D]．中国科学院研究生院 (云南天文台);2014. Zheng Yanfang. The research on solar high resolution data assessment and observations of Jets/Surges [D]. The University of Chinese Academy of Sciences (Yunnan Observatories); 2014.   \n[3] 刘佳佳，汪毓明．太阳大气中不可忽视的爆发活动——喷流 [J].物理,2016,45(11): 689-99. Liu Jiajia, Wang Yuming.A nonnegligible type of eruption in the solar atmosphere—Jets [J]. Physics,2016,45(11): 689-99.   \n[4] Sterling A C,Moore R L,Falconer D A,et al. Small-scale filament eruptions as the driver of X-ray jets in solar coronal holes [J]. Nature,2015,523(7561): 437-40.   \n[5] Shen Y,Liu Y, Su J,et al. On a Coronal Blowout Jet: The first observation of a simultaneously produced Bubble-like CME and a Jet-like CME in a solar event [J].The Astrophysical Journal, 2011, 745(2).   \n[6] Tian Z J,Liu Y, Shen Y D,et al. Successive Two-sided Loop Jets caused by Magnetic Reconnection between two Adjacent Filamentary Threads [J]. The Astrophysical Journal, 2017, 845(2).   \n[7] Martens P C H, Attrill G DR, Davey AR, et al. Computer vision for the Solar Dynamics Observatory (SDO)[J]. Solar Physics,2011,275(1-2): 79-113.   \n[8] Sako N, Shimojo M, Watanabe T, et al. A statistical study of coronal active events in the north polar region [J]. The Astrophysical Journal, 2013, 775(1).   \n[9] Savcheva A,Cirtain J,DeLuca E E,et al.A study of polar jet parameters based on Hinode XRT observations [J].Publications of the Astronomical Society of Japan, 2007, 59(sp3): S771-S8.   \n[10] Candes E J, Li X,Ma Y, et al. Robust principal component analysis? [J]. Journal of the ACM, 2009, 58(3): 1-37.   \n[11] Rodriguez P, Wohlberg B. Fast principal component pursuit via alternating minimization [C]. 2013 IEEE International Conference on Image Processing (ICIP). Melbourne: IEEE, 2013:69-73.   \n[12] Dabov K, Foi A, Katkovnik V, et al. Image denoising by sparse 3-D transform-domain collaborative filtering [J]. IEEE Transactions On Image Processing，2007,16(8): 2080-95.   \n[13] Otsu N.A threshold selection method from grey level histograms [J].IEEE Transactions on Systems Man Cybernetics-systems,1979,9(1): 62-6.   \n[14] Gao Z, Cheong L F, Wang Y X. Block-Sparse RPCA for salient motion detection [J]. IEEE Transactions on Pattern Analysis and Machine Intelligence，2O14，36(10): 1975-87. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Coronal jet automatic detection method based on fast robust principal component analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Geng Chengjie1，Li Runxin2\\*，Liu Hui3\\*， Shang Zhenghong4 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(Facultyfatatigsd   \n2Yunan KeyLboratoryfomputerogiesaati,Kung Uversityofieneandecolgyung00 China; 3YunnanObservators，cadofeesug6na   \n4YunanKeyLaboratoryofrtficialIntellgence,Kunming UniversityofScienceandTchnology,Kunming50o,Cina) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this paper, fast robust principal component analysis (Fast RPCA） is used to detect coronal jet activity in coronal sequence images.The basic idea of detection is to combine the idea of low rank and sparse decomposition in Fast RPCA method with the characteristics of coronal sequence images, such as the random background component with smaller scale and larger proportion,and the coronal jet with larger scale and smaller proportion, so as to realize the separation between the random and complex dynamic background and sparse moving objects, So as to detect the coronal jet as the foreground change. Two sets of coronal sequence images of different time periods,diferent channel and different observation positions from the atmospheric imaging assembly (AIA） observation equipment on the solar dynamics observatory (SDO) satellite are used as the research objects. The main research contents include the preprocessing of coronal image sequence, coronal jet detection,and the comparison analysis of the detection results between Fast RPCA method and running difference method. The experimental results show that compared with the running difference method, the Fast RPCA method can detect the weak coronal jet and improve the accuracy of coronal jet detection. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: Coronal jet detection; Fast RPCA; Running difference; Moving target extraction ",
+        "page_idx": 8
+    }
+]

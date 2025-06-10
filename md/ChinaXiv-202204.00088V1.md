@@ -1,0 +1,210 @@
+# 基于地温的宁夏初霜冻日期气候演变及环流异常成因
+
+黄莹¹2，杨建玲1³，李欣¹2，崔洋²，马阳¹，张雯1,2(1.中国气象局旱区特色农业气象灾害监测预警与风险管理重点实验室/宁夏气象防灾减灾重点实验室，宁夏 银川750002；2.宁夏气候中心,宁夏 银川750002；3.宁夏气象科学研究所,宁夏 银川750002)
+
+摘要：利用1961年以来宁夏20个气象站地面温度、美国国家环境预报中心/国家大气研究中心(NCEP/NCAR)逐月位势高度场资料、研究宁夏初霜冻日期最新的气候演变特征及其环流异常的影响，为宁夏开展霜冻灾害预测工作提供理论支撑。结果表明：(1)宁夏初霜冻日期呈现“南早北晚”空间分布特征，黄土丘陵区最早，中部干旱带次之，最晚出现在引黄灌区，这与日平均最低气温“南低北高"分布型相一致。(2)全球明显变暖前后宁夏初霜冻日期呈现出显著差异,相较于气候平均值(1981—2010年),变暖前(1961—1980年)初霜日期普遍偏早，平均出现在9月下旬，各地平均偏早7d;变暖后(1981—2019年)则明显偏晚，平均出现在10月上旬，各地平均偏晚 $2 \mathrm { d } , 2 0 0 0$ 年以后更是平均偏晚 $5 \mathrm { d } _ { \circ } ( 3 )$ 宁夏初霜冻日期自1961年以来明显推迟，趋势为 $3 . 0 \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,其中引黄灌区最为显著，可达到 $3 . 2 \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，中部干旱带与黄土丘陵区次之，分别为 $2 . 6 \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 } { \cdot } 2 . 7 \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ 但在气候变暖背景下仍会发生初霜冻异常偏早的情况，引黄灌区、中部干旱带和黄土丘陵区新世纪以来偏早的概率分别为 $1 5 \% . 2 5 \%$ 和 $3 0 \%$ 。(4）宁夏初霜冻偏早年与偏晚年的高、中、低层大气环流存在显著的年代际和年际差异，其空间分布明显相反，当初霜冻日期偏早(偏晚)时，东亚大槽较常年偏强(偏弱）、西太平洋副热带高压偏弱(偏强)，有利于(不利于)冷空气活跃南下。
+
+关键 词：初霜冻日期；气候演变特征；线性趋势；大气环流
+
+# 文章编号：
+
+霜冻指土壤或植物株冠附近的气温短时降至$0 \mathrm { { ^ { \circ } C } }$ 以下，造成植株体内水分冻结，细胞挤压，植株受害死亡、减产、毁种等损失的一种较为常见的农业气象灾害，我国每年由霜冻导致的农业经济损失可达到数亿元[1-5]。初霜冻是温暖季节向寒冷季节过渡期间初次发生的霜冻，其发生的偏早、偏晚会导致农作物遭受不同程度的冻害，使得农作物籽粒成熟度受到影响，严重时会造成大量减产甚至是绝产。宁夏地处西北内陆，气候复杂多样，独特的地理、气候和土壤优势，已成为我国优质农作物的生产基地，却也是我国霜冻灾害发生频次最多、受影响最严重的地区之一，例如，1972年的初霜冻是危害较为严重的一年，宁夏全区有上万亩农作物遭受严重冻害，2012年宁夏泾源和西吉初霜冻造成了大面积农作物受灾，直接经济损失 $2 . 6 5 \times 1 0 ^ { 4 }$ 元；2018年初霜冻造成葡萄的采收工作受到严重的影响。因此，有必要对宁夏初霜冻日期进行分析和研究，这对全面认识宁夏气候变化以及防灾减灾具有十分重要的意义。
+
+在全球气候变暖的背景下我国各地对全球变暖的响应并不完全相同[6-7],各种极端气候事件逐渐增多，植物受霜冻害的风险也随之改变[8-],而与气温变化紧密联系且对农作物影响巨大的初霜冻势必也会发生新的气候演变特征，值得进一步探讨和研究。因此，越来越多的学者对中国多个区域的初霜冻及其影响因子进行了大量的研究[12-14]。初霜冻日期分布特征方面，陈少勇等15利用逐日地面最低气温研究了中国西北地区初霜冻的气候变化特征，
+
+# 干旱区地理
+
+发现初霜冻发生最早的地方是青海高原，其次是南疆盆地，最晚是陇南一陕南，且西北地区初霜冻日期逐渐推迟，1986年有明显的突变情况。叶殿秀等[16]利用我国577个测站的逐日最低气温资料分析了1961一2007年我国初霜冻变化特征，表明初霜冻日期20世纪90年代开始明显推迟。申双和等[对三江平原地区初霜冻日从倾向率空间分布的分析得出“两峰值中心，两谷值中心"的分布特征，从长时间序列趋势线性分析中得出全区域初霜冻日均值纵跨尺度约为5d，其延后的趋势可能与全球整体变暖的温室效应有相关性的结论。通过以上的研究可以发现不同区域初霜冻空间分布特征存在差异，但是时间演变方面随着气候变暖均存在逐渐推迟的特征。
+
+那么初霜冻日期发生早晚的成因是什么呢？越来越多的学者就该领域开展了一些研究。张健等[18]分析了黑龙江初霜冻日期的时空变化特点，发现其逐渐偏晚的趋势，并且表明初霜冻早晚受欧亚(亚洲)经向环流型、鄂霍茨克海高压、阿留申低压、东亚大槽强度以及西太平洋副热带高压、极涡、北极涛动(AO)等影响。李芬等[19]则认为冷空气强弱、副热带高压和地形是影响初霜冻分区的根本原因，轻微和中度初霜冻分区在一定程度上受地形影响。李想等[20]揭示了长江以北地区初霜发生日期早晚与AO强弱存在密切的相关性：当AO处于正位相时，中国北方大部分地区的初霜期偏晚；反之则相反。高晶2通过对内蒙古初霜冻日期环流因子的初步分析发现中纬度环流系统对该地区初霜冻的发生早、晚起着重要作用，主要受 $5 0 0 \ \mathrm { h P a }$ 高压(低压)的控制。
+
+作为受霜冻影响最严重的地区之一，对于宁夏霜冻的相关研究也已开展，李红英等2利用ArcGIS绘图软件对宁夏晚霜冻灾害风险进行了分析和评价，完成霜冻灾害风险区划图。张晓煜等[23]利用美国国家海洋和大气管理局(NOAA)卫星资料在分析宁夏霜冻发生规律和特点的基础上，利用各种方法监测宁夏不同类型的霜冻，取得了良好效果。但是，有关宁夏初霜冻日期的气候特征及其环流异常成因的分析鲜有研究，且仅有的研究也多建立在将日最低气温 $\mathrm { \leqslant 0 ~ \mathrm { \leqslant C } }$ 定义为初霜冻日期的基础上[24-25]，而韩荣青等[26]通过对不同霜冻日期资料的对比分析发现采用地温定义的初霜冻日期要更接近实际情况，气象业务上统一使用地温来定义初霜冻日期也更为合理,并有利于预测业务的开展。因此，本文基于地面 $0 \mathrm { c m }$ 最低气温初次 $\leqslant 0 \ \mathrm { { \% } }$ 的日期作为初霜冻日期，分析宁夏初霜冻日期的气候演变新特征，并对其环流异常成因进行探究，为宁夏开展霜冻灾害预测工作提供理论支撑，对提高霜冻的防灾、减灾能力提供依据。
+
+# 1资料与方法
+
+# 1.1 研究区概况
+
+宁夏地处 $1 0 4 ^ { \circ } 1 7 ^ { \prime } { \sim } 1 0 9 ^ { \circ } 3 9 ^ { \prime } \mathrm { E } , 3 5 ^ { \circ } 1 4 ^ { \prime } { \sim } 3 9 ^ { \circ } 2 3 ^ { \prime } \mathrm { N }$ 深居中国内陆，远离海洋，地形复杂，全境海拔1000m以上，地形从西南向东北逐渐倾斜，地势南高北低，呈阶梯状下降，落差近 $1 0 0 0 \mathrm { m }$ ,为典型的大陆性气候，水汽来源不足，年平均降水量为 $2 8 3 . 0 \mathrm { m m }$ ，各地降水分配不均。根据气候条件、农牧分布、生态环境状况以及传统习惯，常被划分为3个区域：引黄灌区、中部干旱带和黄土丘陵区(图1)，本文部分内容将采用该分区进行研究。
+
+# 1.2研究资料
+
+考虑到建站时间和地域分布，选取了宁夏1961—2019年20个气象站(图1)地面 $0 \mathrm { c m }$ 最低气温，日最低气温；NCEP/NCAR北半球1981—2019年
+
+注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2017)1267号的标准地图制作，底图边界无修改。下同。
+
+![](images/4e20953bd63b7c2d1a7654801e59da5d3aab8d51b96e3b4e54caf311d9702e90.jpg)  
+图1研究区示意图  
+Fig.1 Research area diagram
+
+$2 . 5 ^ { \circ } \times 2 . 5 ^ { \circ }$ 网格的月平均 $2 0 0 \mathrm { { h P a } }$ 高度场、 $5 0 0 \ \mathrm { h P a }$ 高度场、海平面气压等再分析资料。其中，气候平均值取1981—2010年 $3 0 \mathrm { a }$ 平均。
+
+# 1.3研究方法
+
+根据中华人民共和国气象行业标准（QX/T456-2018)，将温暖季节向寒冷季节过渡期间，气象观测站逐日地面温度第一次 $\leqslant 0 \ \mathrm { { \% } }$ 的日期确定为该站的初霜冻日期。为了便于研究计算，这里设定9月1日记为1，9月2日记为2，…，依次类推建立一个资料集进行分析。
+
+利用线性趋势分析等常用的气象统计方法分析宁夏地区初霜冻日期空间分布以及年际、年代际演变特征。采用相关分析，合成分析等方法分析影响宁夏初霜冻日期的大气环流异常成因[27]
+
+# 2初霜冻日期的气候变化特征
+
+# 2.1平均空间分布特征
+
+1961—2019年宁夏平均初霜冻日期平均为9月下旬至10月上旬，且呈现"南早北晚"的空间分布特征。初霜冻由海拔较高的黄土丘陵区最早出现，平均出现在9月下旬;中部干旱带略晚于黄土丘陵区，平均开始于9月下旬至10月上旬；引黄灌区出现最晚，平均出现在10月上旬。其中，黄土丘陵区隆德最早，出现在9月22日；中部干旱带的同心与引黄灌区石嘴山、贺兰、吴忠同为全区最晚，出现在10月9日（图2a)。此外，气候平均(1981—2010年)的初霜冻日期分布特点与图2一致(图2b)。
+
+气温是影响初霜的直接因素，为了探讨其与气温的关系，图2c给出1961—2019年宁夏9月下旬至10月上旬(初霜冻普遍出现时期)的平均日最低气温。该时期平均日最低气温同样存在“南低北高”的空间分布特征，这与初霜冻日期“南早北晚"的分布型(图2a)基本一致;黄土丘陵区最低，平均为$5 . 2 ^ { \circ } \mathrm { C }$ ,中部干旱带次之，平均 $6 . 6 \mathrm { { ^ circ C } }$ ,引黄灌区最高，可达到 $7 . 3 ~ \mathrm { ^ { \circ } C }$ 。其中，黄土丘陵区的西吉、隆德最低，为 $4 . 8 ~ \mathrm { { ^ circ C } }$ ;中部干旱带的同心与引黄灌区中宁、吴忠同为全区最高，为 $8 \mathrm { { ^ \circ C } }$ (图2c)。由此可见，日平均最低气温越低，初霜冻日期越早，反之亦然。
+
+# 2.2气候变暖前后的空间分布特征
+
+自20世纪80年代以来，全球气候明显变暖[28]，李艳春等2更是发现宁夏在70年代后期及80年代中期均出现了突变，施雅风等[30研究指出西北地区西部明显变暖变湿，宁夏所处的东部还未转型，但整个西北在20世纪80—90年代升温迅速，该变暖理论与李艳春等结论较为一致。因此，选取1981年为界分析变暖前后初霜冻日期是否也会发生显著的差异？
+
+宁夏在气候变暖之前(1961一1980年)及变暖之后(1981—2019年)初霜冻日期的空间分布型与气候平均一致，均呈现"南早北晚"的分布特征，但变暖前后的初霜冻发生时间存在较大差异(图3）。气候变暖前初霜冻日期基本发生在9月下旬，仅引黄灌区的银川、贺兰、灵武、吴忠、中卫以及中部干
+
+![](images/b0f8de0cd0a50324244e5a6162b0463130e9a7c3a1252f9a2f58306180454183.jpg)  
+图2宁夏初霜冻日期及日最低气温的空间分布  
+Fig.2 Spatial distributions of the first frost date and daily minimum temperature in Ningxia
+
+# 干辛区地理
+
+![](images/33b4c5d399cdee7579b79ffbaada6b9e8b9b7c8d24257adc26e57b9d9c5112a5.jpg)  
+图3气候变暖前后宁夏初霜冻日期的空间分布
+
+旱带的同心发生在10月上旬；全区各站较气候平均(图2b)明显偏早，平均偏早7d(图3a)。气候变暖之后黄土丘陵区初霜冻日期发生在9月下旬，而中部干旱带和引黄灌区发生在10月上旬；全区各站较气候平均(图2b)明显偏晚,平均偏晚2d(图3b)。此外，与气候明显变暖前(图3a)相比，变暖后的全区各站初霜冻日(图3b)明显推迟，全区平均推迟9d,引黄灌区和中部干旱带均推迟8d左右，而黄土丘陵区推迟10d左右。其中，引黄灌区灵武最短，推迟1d;青铜峡、永宁和平罗最长，推迟 $1 4 { \mathrm { d } }$ 。
+
+# 2.3年际变化特征
+
+与采用最低气温 $\mathrm { \leqslant 0 \mathrm { ~ \% ~ } }$ 作为霜冻标准相比较，采用 $0 \mathrm { c m }$ 最低地温作为标准的初霜日期空间分布上不存在差异，但存在年际变化差异，具体表现为2种标准均呈现出推迟趋势，但前者趋势大于后者、初霜冻日期普遍晚于后者;且对比《中国灾害大典(宁夏卷)》实际初霜日期来看，采用 $0 \mathrm { c m }$ 地温定义的初霜冻日期更接近实际初霜冻日期[31（图4)。例如，据记载，1962年9月27—28日固原、西吉、海原、隆德、同心、盐池、中卫、贺兰、平罗等地出现初霜冻，采用地温的方法除隆德外，以上各地均出现在此时间段，而日最低气温只有固原、西吉和隆德处在此时间段；1978年9月18日，全区大范围受初霜冻影响，地温标准有11个站出现在该时间，而日最低气温标准仅4个站出现；2012年9月13日固原、西吉和泾源出现初霜冻，地温标准以上地区均符合实际情况，而日最低气温标准只有泾源符合，
+
+![](images/0f6aa4b08d94cdbbd265ad035b0bbbe132111b5bc54b39d4c478d5bfc459eb27.jpg)  
+Fig.3Spatial distributions of the first frost date in Ningxia before and after climate warming   
+图4基于 $0 \mathrm { c m }$ 地温和基于日最低气温的宁夏初霜冻日期年际变化  
+Fig.4 Annual variations of first frost date based on O cm ground temperature or daily air minimum temperature
+
+进一步通过1961—2019年各站最早(最晚)的初霜冻日统计发现(表略)，初霜冻最早普遍发生于变暖前20世纪60—70年代的9月上中旬，其中，惠农、陶乐、青铜峡、中宁、盐池、海原、同心、固原、西吉等地均发生在1972年9月1—3日。除隆德最晚发生在1983年10月25日外，其余各站初霜冻最晚均出现在变暖后2000年以来的10月下旬及11月上旬，中部干旱带和黄土丘陵区各站更是普遍出现在
+
+2010年以后。其中，惠农、灵武、中卫、中宁、盐池、同心、西吉、固原、隆德等地最晚均发生在2016年10月中下旬，陶乐、青铜峡和永宁最晚均发生在2006年11月上旬，可能与这2a各地气温较常年明显偏高有关(2006年和2016年宁夏年平均气温位列1961年以来历史同期第1、第3位），可见气温异常偏高时，初霜冻日期普遍偏晚。
+
+通过长期的线性趋势来看，宁夏全区初霜冻开始日期呈现出明显的推迟趋势,可达到 $3 . 0 \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，线性趋势超过了0.05的显著性水平，2000年以来全区更是普遍偏晚5d左右(图5a)。同样3个分区初霜冻日期也呈现出显著推迟的趋势，其中引黄灌区最为明显，线性趋势可达到 $3 . 2 ~ \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,中部干旱带与黄土丘陵区次之,分别为 $2 . 6 ~ \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 和 $2 . 7 \mathrm { d }$ ：$\left( 1 0 \mathrm { a } \right) ^ { - 1 }$ ,且线性趋势都超过了0.05的显著性水平；但是，尽管初霜冻日期存在显著推迟的趋势，尤其近些年在气候变暖背景下更是如此，但仍会发生初霜冻异常偏早的情况，引黄灌区、中部干旱带和黄土丘陵区2000年以来偏早的概率分别为 $1 5 \%$ ） $2 5 \%$ 和
+
+$30 \%$ ，可见仍会对农作物产生威胁(图5b\~d)。
+
+# 3初霜日期偏早、偏晚年大气异常成因
+
+大气环流对气候变化有着及其重要的作用，除了对流层中低层的影响外，对流层高层的能量能够随时间向下传播，从而影响对流层中低层的环流以及能量的分布， $2 0 0 \mathrm { { h P a } }$ 环流异常往往也是重要天气过程的前兆信号[32]。此外，由以上分析得知1961—2019年全区平均初霜冻日期出现在9月下旬至10月上旬，其中全区20站中有15站出现在10月上旬，占比为 $7 5 \%$ ，因此，将10月认定为初霜冻日期的同期、10月之前为初霜冻日期的前期来进一步讨论初霜冻环流成因。
+
+# 3.1变暖前后大气环流的年代际差异
+
+通过以上年代际分析可知，20世纪80年代全球变暖前后宁夏初霜冻日期存在显著差异(图3)，而前人研究表明全球大气环流在20世纪70年代后期
+
+![](images/69a4f5a1e3af1aa1c9e52b301e53457cb34c6ce6aafb994722d16b6be2c3d41c.jpg)  
+图5宁夏初霜冻日期年际变化  
+Fig.5 Annual variations of first frost date in the whole area ofNingxia
+
+# 干旱区地理
+
+同样发生了显著的年代际变化[33-34]。因此以气温、初霜冻日期和大气环流发生显著变化的1981年为界，讨论变暖前(初霜冻日期普遍偏早)与变暖后(初霜冻日期普遍偏晚)的大气环流高、中和低层年代际分布差异。变暖前后的大气环流特征存在显著差异，变暖后的9月 $2 0 0 \mathrm { { h P a } , 1 0 }$ 月 $5 0 0 \mathrm { { h P a } }$ 以及地面基本被正距平控制，冷空气不活跃，该期间初霜冻日期普遍偏晚；变暖前的环流则明显相反，高、中和低层均被负距平控制，冷空气相对活跃，该期间初霜冻日期普遍偏早(图6)。
+
+变暖后，初霜冻日期普遍偏晚， $2 0 0 \ \mathrm { h P a } \ . 5 0 0$ hPa以及地面的中高纬地区盛行纬向环流，且被正距平环流控制。9月 $2 0 0 \mathrm { { h P a } }$ ，巴伦支海、地中海及鄂霍次克海为明显的“ $^ +$ "距平中心，我国北方处于正距平中心的控制下，东亚东岸存在一槽且偏弱，不利于出现降温天气(图6a)；10月 $5 0 0 \mathrm { { h P a } }$ ，围绕极区的中高纬仍为正距平，在地中海、乌拉尔山附近及楚科奇半岛北部形成明显的“ $^ +$ "距平中心，东亚大槽较 $2 0 0 \mathrm { { h P a } }$ 增强，但较常年仍偏弱，西太平洋副高偏强、冷空气相对不活跃(图6b);10月海平面气压场，高纬 $7 5 ^ { \circ } \mathrm { N }$ 以北的极区为大范围的正距平，鄂霍次克海附近为“-"距平中心，蒙古 $4 5 ^ { \circ } \mathrm { N } , 1 0 0 ^ { \circ } \mathrm { E }$ 为小范围的高压及“ $+$ "距平中心，而我国大陆处于低压中心控制下且呈现正距平，里海附近为“ $^ +$ "距平中心（图6c）。
+
+变暖前，初霜冻日期普遍偏早， $2 0 0 \ \mathrm { h P a }$ 、500hPa以及地面的环流距平与1981一2019年(初霜冻日期普遍偏晚)明显相反，其中心位置与1980—
+
+(a)1981—2019年9月 $2 0 0 \mathrm { { h P a } }$ （202 (b)1981—2019年10月500 hPa (c)1981—2019年10月海平面气压  
+N06 0° 45E 90°E 135E 180° No06 No06 0° 45°E 90°E50 G 135E 180° No06 No06 0° 45E 90E 135E 1  
+N09 1160 160 N09 No09 46 2 No09 No09 N09180 480 H  
+N00 9 20220 1288 N00 N00 2/8 600 N00 N00 上 N00R 3 ? 2 0 力  
+0 之 0 0 h 路 0 % D %0° 45E 90E 135E 180° 0° 45E 90E 135E 180 0 45E 90°E 135E 180°(d)1961—1980年9月200 hPa (e)1961—1980年10月500 hPa (f)1961—1980年10月海平面气压  
+N06 0° 45E 90E 135E 180° No06 No06 0° 45E 90E 135E 180° No06 No06 0° L0QSS 45E 90E 135E 180  
+N09 1160 160 No09 No09 540 No09 No09 N009N0011801801280  
+N00 200 1240 N00 N00 590 N00 N00  
+0 3 1240 CR 0 0 ? 0 0 Y 00° 45E 90E 135E180° 0° 45E 90°E 135E180° 0° 45E 90E 135E180°(g)1981—2019年与1961—1980年 (h)1981—2019年与1961—1980年 (i) 1981—2019年与1961—1980年9月200hPa差值 10月500 hPa差值 10月海平面气压差值45E 90°E 135E 180° No06 N06 0 45E 90 135E No06 0° 45E 90E 135E  
+N09 No09 No09 No09 N09 N09  
+N00 N00 N00 N00 N00 N000  
+0 0 0 D 芝 京 0 0 00° 45E 90E 135E 180° 0° 45E 90°E 135E 180° 0° 45E 90°E 135E 180°$2 0 0 \mathrm { { h P a } }$ 位势高度距平/dagpm $5 0 0 \mathrm { { h P a } }$ 位势高度距平/dagpm 海平面气压/hPa-5-4-3-2-1012345 -3.6-2.4 -1.2 0.0 1.2 2.43.6 -2 -1 0 1 2环流平均正距平 ----负距平+正距平中心一负距平中心■通过0.1显著性水平检验 ■通过0.05显著性水平检验
+
+2019年一致，但符号明显相反，在该环流分布下，各层围绕极区的中高纬为大范围负距平，我国均处于负距平的控制下， $5 0 0 \mathrm { { h P a } }$ 东亚槽较变暖后深厚，西太平洋副高较变暖后偏弱( $6 0 0 ~ \mathrm { d a g p m }$ 范围缩小），有利于冷空气活跃南下(图6d\~f)。
+
+进一步分析了变暖后与变暖前的环流差值分布，可以发现从高层到地面的2个时间段的环流分布存在显著差异，具体表现在环流差值在 $2 0 0 \mathrm { { h P a } }$ 、$5 0 0 \mathrm { { h P a } }$ 以及地面基本均为“ $^ +$ ”异常分布，异常中心位置与变暖前、变暖后的距平中心位置一致，且异常中心大都通过了0.05的显著性水平（图 $6 \mathrm { g } \mathrm { \sim } \dot { 1 } .$ ）
+
+# 3.2变暖后初霜冻日期典型偏早、偏晚年大气环流的异常分布
+
+为了在探讨气候变暖背景下初霜冻日期典型偏早、偏晚年大气环流的异常分布，以便对初霜冻趋势进行趋势预测，选取了变暖后的1981一2019年进行研究。根据1981—2019年初霜日期平均距平序列，选出异常偏晚年排位前5a:2008、2010、2014、2016年及2019年，以及偏早年排位前5a：1982、1986、1991、1993年及1997年进行对比研究年际异常的环流背景异常。
+
+变暖后初霜冻日期异常偏晚年与偏早年的大气环流存在明显差异(图7)。初霜日期偏晚年，200$\mathrm { { h P a } , 5 0 0 \ h P a }$ 以及地面的中高纬地区均形成1个： $\dot { { \bf \varphi } } + { \bf \varphi } - { \bf \varphi } + { \bf \varphi }$ ”的异常波列，波列位置略有差异。9月200$\mathrm { { h P a } }$ ,围绕极区的中高纬为正距平控制，且为二脊一槽，二脊位于欧洲西岸和蒙古，对应2个“ $^ +$ "距平中心，我国大陆也处在正距平控制下，槽在乌拉尔山
+
+(a)偏晚年9月200hPa (b)偏晚年10月 $5 0 0 \mathrm { { h P a } }$ （204号 (c)偏晚年10月海平面气压  
+No06 No09N0 0° 45E 1180 1160 135E 180° 180- No06 N09No0g No06 No09 0° 45E 90°E 135E 180° N06 N09 0° 45E 90E 135E N13883 1240\~ N00 K 580 N00 N00590-  
+% ? ? p 0 0 ? 0 0 r 力 %0° 45E 90°E 135E 180° 0° 45E 90°E 135E 180° 0° 45E 90E 135E 180°(d)偏早年9月 $2 0 0 \mathrm { { h P a } }$ （204号 (e)偏早年10月 $5 0 0 \mathrm { { h P a } }$ (f)偏早年10月海平面气压  
+No06 No09 0° 45E 90E E 135E 180° N06 N06 0° 45E 90°E 135E 180° No06 No06 0° 45E 90E 135E1160 N09 No09 520 530 No09 No09 1000169= 180 主 54  
+N00 P N00 N00 570 N00 N00240 580O 叻 CR  
+% b √ 3 0 0 ? N 0 0 D 自 00° 45°E 90E 135E180° 0° 45E 90E 135E 180° 0 45E 90°E 135E 180°(g)偏晚年与偏早年9月 $2 0 0 \mathrm { { h P a } }$ 差值 (h)偏晚年与偏早年10月 $5 0 0 \mathrm { { h P a } }$ 差值 (i)偏晚年与偏早年10月海平面气压差值  
+No06 0° 45E 90°E 135E 180° No06 No09 N06N09N00 0° Y 45E 90E 2 135E 180° N06 N509 N30 00 45°E 90E 135E 180° N06N09N0  
+No09 2.4共  
+N00 N00O  
+% D 2 书 % % D N 0 0 0 00° 45E 90E 135E180° 0° 45E 90E 135E 180° 0° 45E 90E 135E 180°（204号 $2 0 0 \mathrm { { h P a } }$ 位势高度距平/dagpm $5 0 0 \mathrm { { h P a } }$ 位势高度距平/dagpm 海平面气压/hPa一 H L-10 -8 -4 0 4 8 10 -6-4-2 0 2 46 -5-4-3-2-1012345环流平均 正距平 ---负距平 + 正距平中心一负距平中心通过0.1显著性水平检验 ■通过0.05显著性水平检验
+
+# 干旱区地理
+
+附近，对应“-"距平中心，该形势下，不利于冷空气南下（图 $7 \mathrm { a }$ )；前期9月 $2 0 0 \ \mathrm { h P a }$ 中高纬地区的“ $+ -$ $^ +$ ”波列持续并向下向东传播，使得10月 $5 0 0 \mathrm { { h P a } }$ 中高纬同样存在一个明显的“ $+ - + ^ { \prime \prime }$ 波列，东欧平原存在一脊，对应“ $^ +$ ”距平中心，巴尔喀什湖至贝加尔湖为明显的“-"距平中心，日本海附近存在一槽，对应明显的“ $^ +$ "距平中心，低纬地区为正距平，这种分布形势下西太平洋副高偏强，东亚大槽较常年浅薄、冷空气不活跃，不利于出现降温天气(图7b);地面同样也对应于1个“ $+ - + ^ { \prime }$ 波列，在 $3 0 ^ { \circ } \mathrm { N } , 7 0 ^ { \circ } \mathrm { E }$ 存在1个“ $+$ "距平中心，蒙古 $4 5 ^ { \circ } \mathrm { N }$ 、 $1 0 0 ^ { \circ } \mathrm { E }$ 存在小范围的高压，对应明显的“-"距平中心，日本海附近为明显的“ $^ +$ ”中心，而 $4 5 ^ { \circ } \mathrm { N }$ 以北、 $1 3 5 ^ { \circ } \mathrm { E }$ 以西基本呈正距平， $4 5 ^ { \circ } \mathrm { N }$ 以南包括我国在内的地区大部为负距平，可见控制我国的热低压偏强、西伯利亚高压偏弱，不利于降温(图7c)，因此容易使得初霜日期偏晚
+
+初霜日期偏早年，9月 $2 0 0 \mathrm { \ h P a } , 1 0$ 月 $5 0 0 \mathrm { { h P a } }$ 以及地面相应的中高纬地区则均形成一个与偏晚年几乎相反的“ $\mathbf { - \nabla + - }$ "异常波列。9月 $2 0 0 \mathrm { { h P a } }$ 围绕极区的中高纬为基本为负距平控制，且转为二槽一脊，二槽位于东欧平原和内蒙东部，对应2个“-"距平中心，一脊位于巴尔喀什湖以北，对应“ $^ +$ "距平中心，在高层负异常控制下，有利于冷空气南下（图7d)；9月高层 $2 0 0 \mathrm { { h P a } }$ 中高纬地区的波列可能持续并向下向东传播，使得10月 $5 0 0 \mathrm { { h P a } }$ 中高纬同样存在一个明显的"-+-"异常波列,具体表现为欧洲为“-"距平中心、巴尔喀什湖至贝加尔湖附近为一脊，对应明显的“ $+$ 距平中心，日本海附近为深厚的槽，对应“-"距平中心，西太平洋副高偏南、范围偏小，该分布形势下西太平洋副高偏弱，东亚大槽较常年深厚、冷空气较活跃，有利于出现降温天气(图7e)，同样的,地面中高纬也存在一个“ $\mathrm { \Phi - \Phi + \mathrm { - \Phi } } ^ { \mathrm { } }$ '的异常波列,其中在 $4 5 ^ { \circ } \mathrm { N } , 6 0 ^ { \circ } \mathrm { E }$ 存在一个“-"距平中心,蒙古$4 5 ^ { \circ } \mathrm { N } , 1 0 0 ^ { \circ } \mathrm { E }$ 对应为“ $+$ "距平中心，日本海附近为明显的“-"中心，控制我国大陆的热低压较弱，该形势下气温易偏低,初霜日期偏早(图7f)。
+
+进一步分析了初霜日期偏晚年与偏早年的环流异常差值的显著性，可以发现偏晚年、偏早年从高层到地面的环流形势存在显著差异，具体表现在各个高度偏晚年与偏早年环流差值的正、负异常中心（图 $7 \mathrm { g } \mathrm { \sim } \dot { 1 } \dot { , }$ 与各自的波列中心（图7a\~f)基本对应，且差值大都通过了0.05的显著性水平。
+
+综上所述，变暖后 $2 0 0 \mathrm { { h P a } } \ . 5 0 0 \mathrm { { h P a } }$ 以及地面基本被正距平控制，冷空气不活跃，变暖前的环流则明显相反，均被负距平控制，冷空气相对活跃。变暖后，高空到地面的异常分布对初霜冻日期影响更加显著，通常可以通过对冷空气的制约产生作用，即当东亚大槽较常年偏强(偏弱）、西太平洋副热带高压偏弱(偏强），有利于(不利于)冷空气活跃南下，从而导致初霜冻日期偏早(偏晚）。
+
+# 4结论
+
+（1）宁夏1961—2019年初霜冻日期总体呈现“南早北晚"空间分布特征，由黄土丘陵区最早出现，中部干旱带次之，最晚出现在引黄灌区最晚，并发现中部干旱带的同心为全区最晚地区之一；且该空间分布型与日平均最低气温“南低北高"的分布型基本一致。
+
+(2）全球明显变暖前后宁夏初霜冻日期分布呈现出显著差异，相较于气候平均值，变暖前初霜普遍偏早,平均出现在9月下旬，各地平均偏早7d;而20世纪80年代全球气候明显变暖之后，初霜冻日期普遍偏晚，平均出现在10月上旬，各地平均偏晚2d;且相较于变暖前，变暖后的引黄灌区和中部干旱带初霜冻日期均推迟了8d,黄土丘陵区则推迟$1 0 \mathrm { d } .$ 0
+
+（3）从各站极值分布看，初霜冻最早普遍发生于变暖前的20世纪60—70年代的9月上中旬，最晚发生在变暖后的新世纪以来的10月下旬和11月上旬。从长期趋势看，宁夏初霜冻日期呈现出显著偏晚的趋势，全区平均偏晚 $3 . 0 \mathrm { ~ d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,其中引黄灌区较为明显，线性趋势为 $3 . 2 \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,中部干旱带与黄土丘陵区次之,分别为 $2 . 6 \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 } { \cdot } 2 . 7 \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ 且线性趋势都超过了0.05的显著性水平。尽管2000年以来在气候变暖的背景下初霜冻日期不断推迟，较气候平均，全区更是普遍偏晚5d左右，但仍会发生初霜冻异常偏早的情况，引黄灌区、中部干旱带和黄土丘陵区2000年以来偏早的概率分别为 $1 5 \%$ 、25%和 $3 0 \%$ ○
+
+（4）全球变暖前后的大气环流高、中和低层年代际分布存在显著的年代际差异：变暖后 $2 0 0 \mathrm { { h P a } }$ ）$5 0 0 \ \mathrm { h P a }$ 以及地面基本被正距平控制，冷空气不活跃，变暖前的环流则明显相反，均被负距平控制，冷空气相对活跃。气候变暖背景下的1981一2019年初霜冻日期典型偏早、偏晚年的大气环流年际异常也存在显著差异：偏早年， $2 0 0 \mathrm { { h P a } } \ . 5 0 0 \mathrm { { h P a } }$ 以及地面的欧亚中高纬均出现1个“ $- + -$ "波列，东亚大槽较常年偏强、冷空气活跃，西太平洋副热带高压前期偏弱，有利于宁夏降温;偏晚年则基本相反。
+
+# 参考文献(References)
+
+[1]杨维涛,孙建国,康永泰,等.黄土高原地区极端气候指数时空 变化[J].干旱区地理,2020,43(6):1456-1466.[Yang Weitao,Sun Jianguo,Kang Yongtai, et al. Temporal and spatial changes of extreme weather indices in the Loess Plateau[J]. Arid Land Geography,2020,43(6): 1456-1466.] [2]赵俊芳,郭建平,马玉平,等.气候变化背景下我国农业热量资 源的变化趋势及适应对策[J].应用生态学报,2010,21(11):   
+2922-2930.[Zhao Junfang,Guo Jianping, Ma Yuping,et al. Change trends of China agricultural thermal resources under climate change and related adaptation countermeasures[J]. Chinese Journal of Applied Ecology,2010,21(11): 2922-2930.] [3]房世波,阳晶晶,周广胜.30年来我国农业气象灾害变化趋势 和分布特征[J].自然灾害学报,2011,20(5):69-73.[Fang Shibo, Yang Jingjing, Zhou Guangsheng. Change trend and distributive characteristics of agrometeorological disasters in China in recent   
+30 years[J]. Journal of Natural Disasters,2011,20(5): 69-73.] [4]朱红蕊,刘赫男,孙爽,等.气候变暖背景下黑龙江省水稻初霜 冻灾害风险区划研究[J].中国农学通报,2013,29(30):29-34. [Zhu Hongrui, Liu Henan, Sun Shuang,et al. The research of risk Zzoning of rice frost disaster under the climate warming in Heilongjiang Province[J]. Chinese Agricultural Science Bulletin,   
+2013,29(30): 29-34.] [5]Liu Q,Piao S L, Janssens I A, et al. Extension of the growing season increases vegetation exposure to frost[J]. Nature Communications,2018,9(1): 426-430. [6]秦大河,陈振林,罗勇,等.气候变化科学的最新认知[J].气候变 化研究进展,2007,12(2):63-73.[Qin Dahe,Chen Zhenlin,Luo Yong,etal. Updatedunderstanding of climate change sciences[J]. Advances in Climate Change Research,2007,12(2): 63-73.] [7]焦文慧,张勃,马彬,等.近58a中国北方地区极端气温时空变 化及影响因素分析[J].干旱区地理,2020,43(5):1220-1230.[Jiao Wenhui, Zhang Bo,Ma Bin,et al.Temporal and spatial changes of extreme temperature and its influencing factors in northern China in recent 58 years[J].Arid Land Geography,2020,43(5):   
+1220-1230.] [8]Zhang M,He J, Wang B,et al.Extreme drought changes in southwest China from1960 to 2009[J]. Journal of Geographical Sciences,2013,23(1): 3-16. [9]Brown S J, Caesar J,Ferro C.Global changes in extreme daily temperature sincel950[J]. Journal of Geophysical Research: Atmospheres,2008,113(D5): 1-11.   
+[10] 黄莹,杨建玲,孙银川,等.外强迫因子对宁夏初霜冻日期的影 响及其预测[J].干旱气象,2021,39(6):957-965.[Huang Ying, Yang Jianling,Sun Yinchuan, et al. Influence of external forcing factors on first frost date and its predition in Ningxia[J].Journal of Arid Meterorology,2021,39(6): 957-965.]   
+[11]Hufkens K,Friedl MA,Keenan TF,et al. Ecological impacts of a wide spread frost event following early spring leaf-out[J]. Global Change Biology,2012,18(7): 2365-2377.   
+[12] 杨晓玲,胡津革,张宇林.河西走廊东部初、终霜冻日和无霜期 变化特征分析[J].中国农学通报,2016,32(1):149-155 [Yang Xiaoling,Hu Jin’ge,Zhang Yulin. Change characteristics of first and last frost date and frost-free period in eastern Hexi Corridor[J]. Chinese Agricultural Science Bulletin,2016,32(11): 149-155.]   
+[13] 张鑫,楼俊伟,王勇,等.1961—2017年北疆初终霜日及霜期时 空变化特征[J].干旱区地理,2021,44(2):308-315.[Zhang Xin, Lou Junwei,Wang Yong,et al. Temporal and spatial variation characteristics of first and last frost day and frost period from 1961 to 2017 in northern Xinjiang[J].Arid Land Geography,2021,44 (2): 308-315.]   
+[14] 徐凤霞,张珊,王琪珍,等.寿光1961—2015年初、终霜日、无霜 期变化特征及对农业的影响[J].中国农学通报,2019,35(1): 112-117.[Xu Fengxia, Zhang Shan,Wang Qizhen,et al. Characteristics of change in first,last-frost day and frost-free season in Shouguang from 1961 to 2105 and its impact on agriculture[J]. Chinese Agricultural Science Bulletin,2019,35(1): 112-117.]   
+[15] 陈少勇,郑延祥,楼望萍,等.中国西北地区初霜冻的气候变化 特征[J].资源科学,2013,35(1):165-172.[Chen Shaoyong, Zheng Yanxiang,Lou Wangping,et al. Characteristics of climate change in early frost in northwest China[J].Resources Science,2O13,35 (1): 165-172.]   
+[16]叶殿秀,张勇.1961—2007年我国霜冻变化特征[J].应用气象 学报,2008,19(6): 61-665.[Ye Dianxiu,Zhang Yong.Characteristics of frost changes from 1961 to 2007 over China[J].Journal of Applied Meteorological Science,2008,19(6): 661-665.]   
+[17]申双和,仲宇翔,李鹏飞.近54a三江平原地区初霜冻指标特征 研究[J].气象科学,2018,38(3): 378-384.[Shen Shuanghe, Zhong Yuxiang,Lin Pengfei.Study on the characteristics of early frost in Sanjiang Plain area in recent 54 years[J]. Journal of the Meteorological Sciences,2018,38(3): 378-384.]   
+[18] 张健,许丽玲,班晋,等.黑龙江省初霜冻变化特征研究及预测 方法[J].冰川冻土,2019,41(3):629-636.[Zhang Jian,XuLiling, Ban Jin,et al. Characteristics and prediction method of first frost of ground in Heilongjiang Province[J].Journal of Glaciology and Geocryology,2019,41(3): 629-636.]   
+[19] 李芬,张建新.山西近50年初霜冻的区域特征[J].灾害学, 2013,28(4): 104-109.[Li Fen, Zhang Jianxin. Regional characteristics of the first frost over Shanxi Province in latest 5 decades[J].
+
+# 干吴区地理
+
+Journal of Catastrophology,2013,28(4): 104-109.]
+
+[20] 李想,陈丽娟,张培群.1954—2005年长江以北地区初霜期变 化趋势[J].气候变化研究进展,2008,17(1):21-25.[Li Xiang, Chen Lijuan, Zhang Peiqun. Characteristics of interdecadal variations in first-frost date in northern China during 1954—2005[J]. Advances in Climate Change Research,2008,17(1): 21-25.]   
+[21] 高晶.1971—2014年内蒙古初霜冻的气候特征及环流因子初 步分析[J].内蒙古气象,2016(3):13-16.[Gao Jing.Analysis on the climate characteristics and circulation factors of first frost in Inner Mongolia from 1971 to 2014[J].Meteorology Journal of Inner Mongolia,2016(3): 13-16.]   
+[22] 李红英,张晓煜,曹宁,等.基于GIS 的宁夏晚霜冻害风险评估 与区划[J].自然灾害学报,2014,23(1):167-173.[Li Hongying, Zhang Xiaoyu, Cao Ning,et al. GIS-based risk assessment and zoning of late frost in Ningxia[J]. Journal of Natural Disasters,2014, 23(1): 167-173.]   
+[23] 张晓煜,陈豫英,苏占胜,等.宁夏主要作物霜冻遥感监测研究 [J].遥感技术与应用,2001,16(1):32-36.[Zhang Xiaoyu, Chen Yuying,Su Zhansheng,et al.A study on monitoring frost of main crop in the area of Ningxia by using remote sensing[J]. Remote Sensing Technology and Application,2001,16(1): 32-36.]   
+[24]唐晶,张文煜,赵光平,等.宁夏近44a霜冻的气候变化特征[J]. 干旱气象,2007,25(3):39-43.[Tang Jing, Zhang Wenyu, Zhao Guangping,et al. Climate change on frost in Ningxia in recent 44 years[J]. Journal of Arid Meteorology,2007,25(3):39-43.]   
+[25]马柱国.中国北方地区霜冻日的变化与区域增暖相互关系[J]. 地理学报,2003,58(增刊1):31-37.[Ma Zhuguo.Variation of frost days and its relationship to regional warming in northern China[J]. Acta Geographica Sinica,2003,58(Suppl.1): 31-37.]   
+[26] 韩荣青,李维京,艾婉秀,等.中国北方初霜冻日期变化及其对 农业的影响[J].地理学报,2010,65(5): 525-532.[Han Rongqing,Li Weijing,Ai Wanxiu,etal.Change in date of the first frostin northern China and its impact on agriculture[J].Acta Geographica Sinica,2010,65(5): 525-532.]   
+[27]魏凤英.现代气候统计诊断与预测技术[M].北京:气象出版社, 1999:43-47.[Wei Fengying. Diagnose and forecast technology of modern climate statistics[M].Beijing: China Meteorological Press, 1999: 43-47.]   
+[28]丁一汇,任国玉,石广玉,等.气候变化国家评估报告(I):中国 气候变化的历史和未来趋势[J].气候变化研究进展,2006,3 (1): 1-5.[Ding Yihui,Ren Guoyu,Shi Guangyu, et al. National assessment report of climate chang(I): Climate change in China and its future trend[J].Advances in Climate Change Research, 2006,3 (1): 1-5.]   
+[29] 李艳春,李艳芳.宁夏近百年来的气候变化及突变分析[J].高原 气象,2001,20(1):100-104.[Li Yanchun,Li Yanfang.Period and jump analyses of climatic variation in Ningxia in recent hundred years[J]. Plateau Meteorology,2001,20(1): 100-104.]   
+[30] 施雅风,沈永平,李栋梁,等.中国西北气候由暖干向暖湿转型 的特征和趋势探讨[J].第四纪研究,2003,23(2):152-164.[Shi Yafeng, Shen Yongping,Li Dongliang,et al.Discussion on the present climate change from warm-day to warm-wet in northwest China[J]. Quaternary Sciences,2003,23(2): 152-164.]   
+[31] 温克刚,夏普明.中国气象灾害大典(宁夏卷)[M].北京:气象出 版社,2007: 221.[Wen Kegang,Xia Puming. China meteorological disasters dictionary (Ningxia volume)[M]. Beijing: China Meteorological Press,2007: 221.]   
+[32] 谢清霞,谷晓平,万雪丽,等.西南地区干旱的变化特征及其与 大气环流的关系[J].干旱区地理,2020,43(1):79-86.[Xie Qingxia,Gu Xiaoping,Wan Xueli,et al. Characteristics of drought variation and its relationship with general circulation of southwest China[J]. Arid Land Geography,2020,43(1):79-86.]   
+[33] Nitt T S, Yamada S.Recent warming of tropical sea surface temperature and its relationship to northern hemisphere circulation[J]. Journal of the Meteorological Society of Japan,1989,67(3): 375-383.   
+[34] 李春晖,万齐林,林爱兰,等.1976年大气环流突变前后中国四 季降水量异常和温度的年代际变化及其影响因子[J].气象学 报,2010,68(4): 529-538.[Li Chunhui,Wan Qilin,Lin Ailan,et al.The interdecadal contrast characteristics of the rainfall and temperature in China around the atmospheric circulation carastrophe in 1976 and its afffecting factors[J].Acta Meteorologica Sinica, 2010,68(4): 529-538.]
+
+# Climate change characteristics and circulation anomaly causes of the first frost date in Ningxia based on ground temperature
+
+HUANG Yingl²， YANG Jianling1³，LI Xin’²， CUI Yang1²， MA Yang1²， ZHANG Wen1,2
+
+(1.KeyLaboratoryforMeteorologicalDisasterMonitoringandEarlyWaringandRiskManagementofCharacteristicAgriculture in   
+AridRegions,CMA,KeyaboratoryofMeteorologicalDisasterPreventingandReducingofNngxia,Yinchuan75o,igxia, China;2.Ningxia ClimateCenter,Yinchuan75o2,Ningxia,China;3.Ningxia MeteorologyResearch Institute,Yichuan 750002, Ningxia,China)
+
+Abstract: Based on the ground temperature from 2O meteorological stations in Ningxia Province,China since 1961 and the monthly geopotential height field data of NCEP/NCAR,the latest climatic evolution characteristics of the first frost date in Ningxia and the influence of circulation anomalies have been studied.The results are as follows.(1） The first frost date in Ningxia present the spatial distribution characteristics of“southern early and north late".The loess hilly area is the earliest,followed by middle arid region,and the latest occurrence in irigation region.This is consistent with the“low south and high north”distribution patern in the daily average minimum temperature.Tongxin in the middle arid region and Shizuishan,Helan,and Wuzhong in the irrigation regionare the latestin the entireregion,andLongde inloesshillyarea is theearliest.(2)Thedate of the first frost in Ningxia is significantly diffrent before and after global warming. Compared with the climatic average (1981— 2010),the first frost date before warming (1961—l980) is earlier,appearing on average in late September and seven days earlier on average everywhere. After warming (1981—2019) is late,on average in early October, on average two days later,and fivedays later,onaverage after 20oo.(3) Since 1961,the first frost in Ningxia first occurred in early and mid-September in the 196Os and 197Os.The latest occurred in early November and late October after 2Ooo.The linear trend of the first frost date is $3 . 0 \mathrm { ~ d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，of which irrigation area with $3 . 2 \mathrm { ~ d ~ }$ ： （204号 $\left( 1 0 \mathrm { a } \right) ^ { - 1 }$ is the most prominent, and middle arid region; the southern mountain area are the second place, with $2 . 6 \ : \mathrm { d }$ ： $\left( 1 0 \mathrm { a } \right) ^ { - 1 }$ and $2 . 7 \ : \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ .However, under the background of climatic warming, the first frost has been abnormally early in recent years.The early probability of three partitions since 2000 is $1 5 \%$ ， $2 5 \%$ ,and $30 \%$ . (4) There are significant interdecadaland inter-annual diferences in the high,middle,andlowatmosphericcirculations between the earlyand late years of the first frost in Ningxia,andspatial distributionofthe early years is opposite to that in the late years.When the first frost date was earlier (late),the East Asian trough was stronger (weaker)than usual; the Siberian high was stronger (weaker); the western Pacific subtropical high was weaker (stronger),and cold air was active (inactive).
+
+Key words: data of first frost； climate change; linear trend; atmospheric circulation anomaly

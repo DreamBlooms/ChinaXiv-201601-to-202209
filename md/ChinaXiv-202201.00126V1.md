@@ -1,0 +1,201 @@
+# 自光注视线索对客体注意的影响及作用机制\*
+
+闫驰」高云飞」胡赛赛」宋方兴2.3王勇慧（通讯作者）」赵晶晶（通讯作者）1
+
+( 陕西师范大学心理学院；陕西省行为与认知神经科学重点实验室，西安 710062)
+
+( 中国科学院心理研究所行为科学重点实验室，北京100101)(中国科学院大学心理学系，北京 100049)摘要目光注视在人类社交以及捕获和维持注意方面发挥重要作用。但是，目光注视如何与客体交互作用来引导注意分配至今尚不明确。因此，本研究采用双框线索范式，以具有两种注视方向(直视或回避)的面孔或实物作为客体，通过操纵不同 SOA来考察目光注视对客体注意的影响及作用机制。实验1结果表明，目光注视对客体效应的影响只出现在 $3 0 0 \mathrm { m s }$ SOA时。进一步分析表明，客体效应的差异来自于直视条件下被试对无效相同客体位置上的目标比回避条件下反应更快。这表明与回避目光相比，直视更能捕获我们的注意，从而产生更大的客体效应。实验2将面孔对比度反转，排除了低水平物理特征对实验1结果的影响。为了探究目光注视效应是否能够扩展到其他客体中，实验3使用两种注视方向的眼睛叠加杯子作为客体，结果与实验1相同。本研究结果表明，目光注视能与客体交互作用来引导注意分配，直视捕获注意，并且会受到 SOA的影响，上述结果支持了感觉增强理论。关键词 客体注意，目光注视，社会交互，感觉增强理论，自上而下加工
+
+# 1引言
+
+目光注视在人际交流和情感联结中起着主要作用(Kleinke&Chris,1986)。解码目光注视变化的能力是社会认知发展的基础(Farroni etal.,2002)，对于改善社交互动，调节认知加工，预测未来行为都极为重要(Bristow etal.,2007)。前人研究表明，目光注视方向能够引导注意分配(Chita-Tegmark,2016;Fischer,1999; Song et al.,2021)。例如，直视可以捕获注意，直视面孔比回避面孔被识别得更快，更具吸引力(胡中华 等,2013;Bockler etal.,2014)；直视也可以维持注意，即对直视面孔存在脱离困难(Hietanen et al.,2016;Dalmaso et al.,2017)，直视的眼睛区域具有更大的黑白对比度区域，可能会导致注意力停留时间的延长(Senju&
+
+Hasegawa,2005)。并且，对目光的优先注意从婴儿期起就已经出现，他们更偏好睁眼尤其是直视的面孔(Farroni etal.,2002)。
+
+客体也可以引导注意分配(Chen,2012;Lee＆ Shomstein,2013; Shomstein& Behrmann,2008)。客体对注意分配的引导我们称之为客体注意，它是指个体对相同客体内两个(或多个)特征的识别比对不同客体内两个(或多个)特征的识别更快更准确(Shomstein,2012)。然而，传统的空间线索范式并不能完全的将空间注意和客体注意相分离。Egly等人采用双框线索范式首次将客体注意(object-based attention，OBA)和空间注意(space-based attention，SBA)相分离(Egly,Driver,&Rafal,1994)。在这个范式中，首先呈现给被试两个水平或垂直排列的矩形框和一个注视点，之后线索出现在两个矩形框的任意一端，接着目标会随机出现在线索位置(有效，valid condition)，线索化矩形框的另一端(无效相同客体，invalid same-objectcondition，ISO)或者非线索化矩形框上(无效不同客体，invalid different-objectcondition，IDO)，且ISO 和 IDO 与线索位置之间的距离相等。结果表明，被试对有效位置上目标的反应显著快于ISO 和 IDO位置，即出现了空间注意效应；被试对ISO位置上目标的反应显著快于IDO位置，即出现了一种客体引导的注意优势效应。
+
+实际上，在社会交往中，除了面孔的目光注视信息，面孔的客体属性也会引导我们的注意分配。研究发现，对面孔的注意可以激活梭状回面孔区(fusiform face area，FFA)和额下联合皮层(inferior frontal junction，IFJ)，而 IFJ被认为是 OBA 的神经基础(Baldauf &Desimone 2014)。此外，如前所述，不包含目光注视的客体本身就能够引导注意分配(Hu etal., 2020; Egly et al.,1994; Shomstein & Behrmann, 2008; Shomstein & Johnson,2013; Song etal.,2020; Yeshurun&Rashal,2017; Zhao et al.,2020)。那么，值得我们关注的是，携带社交信息的目光注视信号与客体是否以及如何交互引导注意？因此，Song等(2021)采用面孔和倒置面孔刺激并操纵 SOA为 $3 0 0 \mathrm { m s }$ ，发现直视条件下的OBA效应显著大于回避条件，表明携带社交信息的目光注视信号能够与面孔客体交互作用来引导注意分配(Songetal.,2021)。另外，他们采用眼睛叠加矩形框作为刺激，得到了相似的效应，据此认为目光注视影响OBA具有普遍机制。
+
+然而，前人关于目光注视影响OBA的研究仍存在一些不足。首先，Song等(2021)采用的矩形框和真实客体在知觉属性、复杂程度、三维情境方面存在差异，不能表明目光注视对OBA 的影响具有普遍适用性。(1)矩形框属性单一，而真实客体包含自上而下的高级语义属性和自下而上的低级特征属性(Malcolm et al.,2015)。前人研究表明客体的自上而下和自下而上属性对客体注意选择产生不同影响(Huet al.,2020)。(2)矩形框只是简单的二维图形，跟真实客体在复杂程度上有很大的差别，研究发现注意资源是从线索位置分梯度扩散至其他位置，而区域复杂性会阻碍梯度的扩散，从而影响对目标的反应(Chen etal.,2020)。(3)现实生活中，我们更多地与环境中的真实三维客体而不是二维图形进行交互(Korisky&Mudrik,2021)。真实三维客体也能够引导注意的分配(Stephenson et al.,2017; Bayliss et al.,2006,2007;Hudson et al.,2015)，它更容易捕获注意(Korisky& Mudrik,2021)。然而，面孔相比于其他真实三维客体更具有生物性(Crouzet et al.,2010)，存在着独特的加工优势(Zhou et al.,2021)和注意偏向(Simpson et al.,2014;Langton et al.,2008)。在面孔客体中观察到的目光注视对 OBA的影响是否适用于其他真实客体仍不可知。基于杯子作为一种常见的真实客体，多次被研究者用来考察联合注意(Stephenson et al.,2017; Bayliss et al.,2012)，喜好评价(Bayliss et al.,2006,2007)等问题，因此，本研究除了面孔刺激之外，还采用杯子作为刺激，考察面孔加工消失后，目光注视影响OBA的效果在其他真实的非生物客体中是否仍然存在，以及其背后的认知机制是否相同。
+
+其次，不同线索靶子呈现间隔(Stimulus onset asynhronies，SOA)是影响 OBA的一个重要因素(Jeurissen et al.,2016)，但是，目前尚无研究直接探讨目光注视影响OBA的时间进程。一方面，视觉注意是一个有节律的加工过程(Chakravarthi etal.,2012;Landau&Fries,2012;VanRullen,2013)，随着 SOA的延长，OBA效应呈现先增加后减小的变化过程。前人关于注视线索效应的研究采用空间线索范式发现在探测任务中，短SOA(105 ms)条件下就可以产生显著的线索效应，较长 SOA(300 ms)的线索效应更稳定，且在长 SOA(1005 ms)时线索效应消失(Friesen&Kingstone,1998)；国内研究者操纵 $2 0 0 \mathrm { m s }$ 、 $3 0 0 \mathrm { m s }$ 和 $5 0 0 \mathrm { m s }$ 的 SOA，发现300 ms SOA时的注视线索效应更大(张智君 等,2015)。Jeurissen 等人随机呈现 $2 0 0 { \sim } 6 0 0$ ms SOA，结果表明 $3 0 0 \mathrm { m s }$ 的OBA效应大于 $2 0 0 \mathrm { m s }$ 和 $6 0 0 ~ \mathrm { { m s } }$ (Jeurissen et al.,2016)。此外,以往关于OBA的研究发现无论客体呈现时间长短，客体的颜色等物理特征都会影响OBA效应，这表明自下而上的加工会持续影响 OBA(Shomstein＆ Behrmann,2008)。Shomstein 和Yantis(2004)发现，400 ms SOA条件下OBA会受个体搜索策略等自上而下目标概率的调节，600 ms SOA条件下客体效应消失，注意完全由目标概率引导，但是 $2 0 0 ~ \mathrm { { m s } }$ SOA条件下OBA不受其影响。
+
+另一方面，目光注视在传达关于注意方向、心理状态的社会信息中发挥着重要作用(Frischen etal.,2007)，它包括了目光的解译、共情和社会注意(Kawai,2011)等自上而下社会认知加工过程，因此需要更长的时间才发挥作用。Ristic 和Kingstone(2005)的研究中操纵SOA为100、300、600、1000ms，并给被试呈现一张既可被知觉为汽车，也可被知觉为眼睛的图片，结果发现当刺激被知觉为眼睛时在 $3 0 0 \mathrm { { m s } }$ 和600 ms SOA条件下产生了显著的线索效应，被知觉为汽车时则没有，这表明目光信息虽然以自下而上的方式捕获注意，但其会受到自上而下加工的影响，并且需要一定的时间发挥作用。因此，为了进一步探讨 Song等(2021)人研究中的目光注视这一自上而下信息对OBA效应的影响在短SOA时是否已经产生，在长 SOA时是否持续发挥作用，本研究操纵 SOA为 $1 0 0 \mathrm { m s }$ 、 $3 0 0 \mathrm { m s }$ 和 $6 0 0 \mathrm { { m s } }$ ，我们推测100 ms SOA条件下OBA效应不受目光注视影响，SOA为 $3 0 0 \mathrm { m s }$ 时目光注视会影响OBA效应，且直视条件下的OBA效应大于回避条件，但这种影响会在 $6 0 0 ~ \mathrm { { m s } }$ SOA条件下随着客体效应的减弱而消失。
+
+综上，本研究采用双框线索范式考察不同 SOA条件下目光注视对OBA的影响。研究包含三个实验，实验1选取直视面孔和回避面孔作为实验刺激，考察目光注视如何与面孔客体交互作用来影响选择性注意。为了排除低水平物理特征的影响，实验2将面孔对比度反转(Ramamoorthy et al.,2019)。实验3使用眼睛刺激叠加杯子的方式考察当面孔知觉消除后，目光注视如何影响真实非生物客体的OBA。实验假设，直视条件下的客体效应大于回避条件下的客体效应，差异如果来自于直视和回避条件下被试对ISO位置目标的不同反应，则表明直视面孔捕获注意，导致被试对直视面孔非线索化位置上的目标反应更快；如果差异来自于被试对IDO位置目标的不同反应，则表明直视面孔维持注意，导致被试对回避面孔上的目标反应更慢；如果差异同时来自于ISO 和IDO位置，则表明直视面孔既捕获又维持注意。
+
+# 2实验1：不同SOA条件下目光注视对面孔客体注意的影响
+
+# 2.1方法
+
+# 2.1.1 被试
+
+一方面基于 $\mathbf { G } ^ { * }$ Power 先验分析，先评估一个中等大小的 $2 \times 3 \times 3$ 交互作用的效应量(f $\mathbf { \Sigma } = \mathbf { \Sigma }$ 0.25;Cohen,1992)，并设置 $\alpha$ 值为0.05，统计检验力为0.95(Fauletal.,2009)，计算得到的样本量为14人。另一方面,基于以往关于OBA 研究中的样本量(Zhao et al.,2020; Yeshurun,&Rashal,2017)，得到最终的计划样本量为 $2 0 { \sim } 3 0$ 人，以确保足够的统计效力。实验1招募陕西师范大学25名在校大学生参加了本实验(女生23名，男生2名)，被试年龄在 $1 7 { \sim } 2 3$ 岁之间 $( M = 1 8$ ， $S D = 1 . 3 9 )$ 。所有被试均为右利手，视力或矫正视力正常，未参加过相似实验。实验开始前，已获得所有被试的知情同意，实验结束后，给予被试一定报酬。
+
+# 2.1.2实验仪器和材料
+
+实验所用仪器为19英寸的联想L1900PA显示器，屏幕分辨率为 $1 2 8 0 \times 1 0 2 4$ ，刷新率为$6 0 \mathrm { H z }$ 。被试眼睛与显示器的距离约为 $6 3 \mathrm { c m }$ 。我们采用E-prime 2.0进行实验编程，实验所用材料为两张大小为 $2 ^ { \circ } { \times } 4 . 9 ^ { \circ }$ 的面孔，它们中间存在一个 $0 . 4 8 ^ { \circ } { \times } 0 . 4 8 ^ { \circ }$ 的中央注视点，两张面孔之间距离是 $0 . 9 ^ { \circ }$ 视角。线索是一个黄色轮廓，它随机出现在面孔的上下任意一端上。目标是一个直径为 $0 . 4 8 ^ { \circ }$ 的白色圆点。我们采用9点量表让被试评价了面孔的愉悦度(1为极度不愉快，9为极度愉快)，结果直视( $\mathbf { \mathit { M } } = 4 . 9 7$ ， $S E = 0 . 3 6 )$ 和回避( $\mathbf { \mathit { M } } = 5 . 2 7$ ， $S E = 0 . 4 0 \$ 的面孔差异不显著， $p > 0 . 0 5$ ；面孔唤醒度(1为极度平静，9为极度激动)的评价结果发现，直视 $( M =$ 5.63， $S E = 0 . 2 9 ,$ 和回避 $\cdot M = 5 . 1 7$ ， $S E = 0 . 3 5 \$ 面孔差异不显著， $p > 0 . 0 5$ 。
+
+# 2.1.3 实验设计
+
+实验采用2(提示线索所在位置：直视、回避) $| \times 3 |$ (线索有效性：有效、无效相同客体、无效不同客体） $| \times 3 |$ (SOA:100 ms、300 ms、 $6 0 0 \mathrm { { m s } } ^ { \cdot }$ )被试内实验设计。提示线索所在位置指提示线索出现在直视或回避的面孔上，如图1中的线索屏所示。其中，提示线索所在位置，有效性和SOA为被试内变量，因变量为反应时和正确率。正式实验约60分钟，包含6个block，共1038个试次，为了引起被试的警觉，实验中包括了没有目标出现的空白试次，其中目标试次864个，空白试次为174个。在目标试次中，目标出现在线索化位置(有效)的概率为$50 \%$ ，目标出现在线索化矩形框的另一端(ISO)或者非线索化矩形框上(IDO)的概率均为$2 5 \%$ 。
+
+# 2.1.4实验流程
+
+实验流程如图1所示。实验开始时，首先，在屏幕中央呈现 $1 0 0 0 \mathrm { { m s } }$ 中央注视点“+"和两张面孔，紧接着两张面孔的任意一端出现黄色的线索(RGB：255，255，0)，呈现时间为$1 0 0 \mathrm { m s }$ ，然后注视点和面孔继续呈现 $0 \mathrm { m s }$ 、 $2 0 0 ~ \mathrm { { m s } }$ 或者 $5 0 0 \mathrm { m s }$ 之后，除空白试次之外，目标圆点出现在两面孔的任一末端。目标在被试做出反应时消失，若被试未做出反应则持续$1 5 0 0 \mathrm { { m s } }$ 后消失。在 $5 0 0 \mathrm { m s }$ 的空屏后进入下一试次。被试的任务是当察觉到目标时尽可能快的按下“M"键，没有目标出现时则不按键。在正式实验前，被试需要完成20个试次的练习实验，当正确率达到 $90 \%$ 以上时才能进入正式实验。
+
+![](images/a3b2ba98c9ab31592a71b2bf0f8b71968a7d491e84fb7048bc64d44784d5cf86.jpg)  
+图1实验1流程图
+
+# 2.2数据分析与结果
+
+采用 SPSS16.0对实验数据进行分析，每个被试的正确率均在 $90 \%$ 以上，空白试次的平均错报率为 $2 . 0 \%$ 。在进行正式分析之前，剔除了错误反应以及三个标准差以外的反应时，剔除率为 $1 . 8 \%$ 。我们对数据结果进行2(提示线索所在位置：直视、回避) $| \times 3 |$ （线索有效性：有效、无效相同客体、无效不同客体) $^ { \vert \times 3 }$ (SOA: $1 0 0 \mathrm { m s } , 3 0 0 \mathrm { m s } , 6 0 0 \mathrm { m s }$ )三因素重复测量方差分析。反应时结果显示，SOA的主效应显著， $F \left( 2 , \ 4 8 \right) = 7 8 . 3 8$ ， $p < 0 . 0 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 7 7$ 。事后检验发现，SOA为 $3 0 0 \mathrm { m s }$ 条件 $\begin{array} { r } { { M } = 3 2 6 \mathrm { m s } } \end{array}$ ， $S E = 8 . 6 7 \mathrm { \Omega }$ 被试的反应快于SOA为 $1 0 0 \mathrm { m s }$ 条件$\mathrm { \mathit { M } } = 3 5 7 \mathrm { m s }$ ， $S E = 8 . 7 4 \$ ， $p < 0 . 0 0 1$ ， $9 5 \% \mathrm { C I } = [ - 3 6 . 3 5$ ，-24.77]，和600 ms( $M =$ $3 5 0 \mathrm { m s }$ ， $S E = 8 . 8 5 \$ 条件， $p < 0 . 0 0 1$ ， $9 5 \% \mathrm { C I } = [ - 2 8 . 2 2 , ~ - 1 8 . 0 7 ]$ ，SOA为 $1 0 0 \mathrm { m s }$ 和 $6 0 0 \mathrm { { m s } }$ 时被试的反应不存在显著差异， $p = 0 . 0 9 4$ ， $9 5 \% \mathrm { C I } = [ - 1 5 . 7 6 , \ 0 . 9 3 ]$ 。提示线索所在位置的主效应不显著， $F \left( 1 , \ 2 4 \right) = 0 . 8 7$ ， $p = 0 . 3 6 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 0 4$ 。线索有效性的主效应显著， $F$ (2，48)$= 6 . 0 6$ ， $p = 0 . 0 0 9$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 2 0$ ，被试在ISO条件下的反应 $( M = 3 4 1 ~ \mathrm { m s }$ ， $S E = 8 . 7 7 _ { \cdot }$ )显著快于IDO条件 $( M = 3 4 8 ~ \mathrm { m s }$ ， $S E = 8 . 8 5$ )，这表明产生了显著的OBA效应，有效条件下的反应与ISO 条件和IDO 条件下的反应没有显著差异。SOA 和提示线索所在位置的交互作用不显著，$F \left( 2 , \ 4 8 \right) = 1 . 8 3$ ， $p = 0 . 1 7 5$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 0 7$ 。SOA 和线索有效性的交互作用显著， $F \left( 4 , \ 9 6 \right) =$ 3.56， $p = 0 . 0 1 3$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 1 3$ 。线索有效性和提示线索所在位置的交互作用不显著， $F ( 2 , \ 4 8 )$
+
+$= 0 . 5 2$ ， $p = 0 . 5 9 2$ ， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 0 2$ 。SOA，线索有效性和提示线索所在位置的三重交互作用不显著， $F \left( 4 , 9 6 \right) = 2 . 3 0$ ， $\boldsymbol { p = 0 . 0 8 1 }$ ， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 0 9$ 。
+
+表1实验1中SOA、提示线索所在位置和线索有效性各条件下的平均反应时 $( M \pm S D )$ （204号  
+
+<html><body><table><tr><td rowspan="2">SOA</td><td colspan="3">直视</td><td colspan="3">回避</td></tr><tr><td>有效</td><td>无效相同</td><td>无效不同</td><td>有效</td><td>无效相同</td><td>无效不同</td></tr><tr><td>100 ms</td><td>358±43</td><td>353 ± 47</td><td>360 ± 43</td><td>359 ± 41</td><td>351 ± 46</td><td>361± 48</td></tr><tr><td>300 ms</td><td>321 ± 44</td><td>320 ± 45</td><td>333± 45</td><td>326± 41</td><td>327 ± 47</td><td>331± 46</td></tr><tr><td>600 ms</td><td>350 ± 47</td><td>349 ± 47</td><td>350 ± 44</td><td>350 ± 47</td><td>346±43</td><td>352 ± 47</td></tr></table></body></html>
+
+为了进一步探究 SOA对OBA的影响，我们对反应时数据进行了2(提示线索所在位置：直视、回避) $\times 2 0$ (线索有效性：无效相同客体、无效不同客体) $\times 3$ (SOA:100 ms、300 ms、600ms)重复测量方差分析。结果发现，SOA的主效应显著， $F \left( 2 , \ 4 8 \right) = 6 5 . 7 8$ ， $p < 0 . 0 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } =$ 0.73；提示线索所在位置的主效应不显著 $F \left( 1 , \ 2 4 \right) = 0 . 1 1$ ， $p = 0 . 7 4 0$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 0 1$ ；线索有效性的主效应显著， $F \left( 1 , \ 2 4 \right) = 1 8 . 0 2$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 4 3$ 。所有的二重交互作用均不显著$( p \mathbf { s } > 0 . 0 5 )$ 。重要的是，SOA，线索有效性和提示线索所在位置的三重交互作用显著， $F$ $( 2 , \ 4 8 ) = 3 . 7 9 , \ p = 0 . 0 3 7 , \eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 1 4 \circ$
+
+因此，我们在单个 SOA条件下均进行了2(提示线索所在位置：直视，回避) $\times 2$ （线索有效性：无效相同客体，无效不同客体)重复测量方差分析。当SOA为 $1 0 0 ~ \mathrm { { m s } }$ 时，线索有效性的主效应显著， $F \left( 1 , \ 2 4 \right) = 3 6 . 2 8$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { \mathrm { ~ 2 ~ } } = 0 . 6 0$ ，表明对线索的自下而上注意导致了OBA效应；提示线索所在位置的主效应不显著， $F \left( 1 , \ 2 4 \right) = 0 . 1 2$ ， $\begin{array} { r } { p = 0 . 7 3 3 } \end{array}$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } =$ 0.01；提示线索所在位置和线索有效性的交互作用不显著， $F \left( 1 , \ 2 4 \right) = 0 . 2 8$ ， $p = 0 . 6 0 3$ ， $\eta _ { \mathrm { p } } ^ { 2 }$ $= 0 . 0 1$ ，这表明 $1 0 0 \mathrm { m s } \mathrm { S O A }$ 时提示线索所在位置为直视和回避条件下的OBA效应没有差异；当SOA为 $3 0 0 \mathrm { m s }$ 时，线索有效性的主效应显著， $F \left( 1 , \ 2 4 \right) = 8 . 9 8$ ， $p = 0 . 0 0 6$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } =$ 0.27，表明出现了OBA效应；提示线索所在位置的主效应不显著， $F \left( 1 , \ 2 4 \right) = 1 . 7 8$ ， $p =$ 0.195， $\eta _ { \mathrm { p } } ^ { \mathrm { ~ 2 ~ } } = 0 . 0 7$ ；提示线索所在位置和线索有效性的交互作用显著， $F \left( 1 , \ 2 4 \right) = 7 . 1 7$ ， $p =$ 0.013， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 2 3$ ，这表明对线索的自上而下注意以及对目光注视的自上而下注意交互影响了注意分配，导致300ms SOA时提示线索所在位置为直视和回避条件下的OBA效应存在差异，进一步分析发现，直视条件下的OBA效应 $( M = 1 2 . 7 9 \mathrm { m s }$ ， $S E = 3 . 2 9$ 显著大于回避条件 $( M = 3 . 9 4 ~ \mathrm { m s }$ ， $S E = 3 . 2 0 \$ ， $t \left( 2 4 \right) = - 2 . 6 8$ ， $p = 0 . 0 1 3$ ， Cohen's $d = 0 . 5 5$ ， $9 5 \% \mathrm { C I } = [ -$ 15.67，-2.03]，且这种差异来自于直视条件下被试对ISO位置的目标反应快于回避条件，$t ( 2 4 ) = 2 . 5 9$ ， $p = 0 . 0 1 6$ ，Cohen's $d = 0 . 1 5$ ， $9 5 \% \mathrm { { C I } } = [ 1 . 4 0 , 1 2 . 3 7 ]$ ，直视条件与回避条件下被试对IDO位置的目标反应没有差异， $t \left( 2 4 \right) = - 0 . 8 6$ ， $p = 0 . 3 9 6$ ，Cohen's $d = 0 . 0 4$ ， $9 5 \%$ CI=[-6.67，2.73]，这表明直视相比于回避面孔更能捕获注意，该结果支持注意捕获而不是注意维持假设；当SOA为 $6 0 0 \mathrm { { m s } }$ 时，主效应和交互作用均不显著 $( p \mathbf { s } > 0 . 0 5 )$ ，这表明 $6 0 0 \mathrm { { m s } }$ SOA时提示线索所在位置为直视和回避条件下均未出现OBA效应。
+
+![](images/3d3059298b762e6133a70f1bebcc7ba8915a5a8ac1ba7403d293da4368e805e0.jpg)  
+图2实验1结果图
+
+注：柱状图误差线代表了该条件下均值的标准误。 $^ { * * * } p < 0 . 0 0 1$ ； $^ { * * } p < 0 . 0 1$ ； $^ { * } p < 0 . 0 5$ 正确率的结果分析发现，所有主效应以及交互作用均不显著 $( p \mathbf { s } > 0 . 0 5 )$ 。因此，本实验不存在正确率和反应时的权衡现象。
+
+# 2.3讨论
+
+实验1结果发现，当SOA为 $3 0 0 \mathrm { m s }$ 时，直视条件下的客体效应大于回避条件，且这种差异来自于被试对直视条件下ISO位置目标的探测反应显著快于回避条件下ISO位置目标，表明直视捕获注意。另外，600ms SOA条件下，并没有产生OBA效应，表明了OBA效应会随着线索目标间隔时间的增加而减少，这与前人研究结果一致(Chou&Yeh,2018;Drummond& shomstein,2010; Shomstein& Yantis,2004)。另外，为了排除眼白、明暗对比等低水平物理特征的影响，实验2将面孔的对比度反转。研究发现当巩膜和瞳孔的相对对比度从正（即虹膜比巩膜暗）变为负极性（即巩膜比虹膜暗）时，由眼白、对比度等造成的影响不会发生变化，但成年人判断注视方向时会非常不准确(Ricciardelli,2009)，并且目光注视的效果会消失(Ramamoorthy et al.,2019)。实验假设，如果300 ms SOA 条件下产生直视和回避条件下客体效应无差异，表明实验1的结果是由于对注视信息的编码加工；如果实验2结果和实验1一致，表明对比度的差异这一低水平物理特征是导致实验1结果的重要因素。
+
+# 3实验2：不同SOA条件下目光注视对反相面孔客体注意的影响
+
+# 3.1方法
+
+# 3.1.1被试
+
+陕西师范大学25 名在校大学生被招募参与此实验(女生23名，男生2名)，被试年龄在$1 7 { \sim } 2 1$ 岁之间 $( M = 1 9$ ， $S D = 1 . 0 3 { \mathrm { ' } }$ )。所有被试的视力或矫正视力正常，从未参加过类似实验。实验开始前，已获得所有被试的知情同意，实验结束后，给予被试一定报酬。
+
+# 3.1.2实验仪器，材料
+
+实验材料和仪器与实验一相似，不同之处在于实验二所采用的客体是将实验一中面孔的对比度反转，其他部分和实验一相同。
+
+# 3.1.4实验设计和流程
+
+实验设计采用2(提示线索所在位置：直视、回避) $| \times 3 ($ 线索有效性：有效、无效相同客体、无效不同客体) $\scriptstyle 1 \times 3$ (SOA:100 ms、300 ms、 $6 0 0 \mathrm { { m s } } ^ { \cdot }$ )被试内实验设计。其余设计与实验一相同。实验流程同实验一，如图3所示。
+
+![](images/511d1fdeea7608740852b8d37a89ff119d7092bb2c58c6da378fd19563fd210c.jpg)  
+图3实验2流程图
+
+# 3.2数据分析与结果
+
+每个被试的正确率均在 $90 \%$ 以上，空白试次的平均错报率为 $1 . 6 \%$ 。数据分析方法与实验1相同，在进行正式分析之前，剔除了错误反应以及三个标准差以外的反应时，剔除率为 $2 . 2 \%$ 。我们对数据结果进行2(提示线索所在位置：直视、回避) $| \times 3 ($ 线索有效性：有效、无效相同客体、无效不同客体) $) { \times } 3 ( \mathrm { S O A }$ ： $1 0 0 \mathrm { m s } , 3 0 0 \mathrm { m s } , 6 0 0 \mathrm { m s } )$ 三因素重复测量方差分析。反应时结果显示，SOA的主效应显著， $F \left( 2 , \ 4 8 \right) = 9 0 . 9 5 \$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { \mathrm { ~ 2 ~ } } = 0 . 7 9$ 。事后检验发现,SOA为 $3 0 0 \mathrm { m s }$ 条件 $( M = 3 4 3 ~ \mathrm { m s }$ ， $S E = 9 . 0 9 \mathrm { \Omega }$ 被试的反应快于SOA为 $1 0 0 \mathrm { m s }$ 条件 $\scriptstyle ( M = 3 7 8$ ms， $S E = 8 . 9 5$ ， $p < 0 . 0 0 1$ ， $9 5 \% \mathrm { C I } = [ - 4 0 . 4 1 \$ ，-29.36]和 $6 0 0 \mathrm { { m s } }$ $\mathrm { \mathit { M } } = 3 6 9 \mathrm { m s }$ ， $S E = 9 . 2 4 \$ 条件， $p < 0 . 0 0 1$ ， $9 5 \% \mathrm { C I } = [ - 3 3 . 5 8 , \ - 1 9 . 3 0 ]$ ，SOA为 $6 0 0 \mathrm { m s }$ 时被试的反应快于 $1 0 0 \mathrm { m s }$ 条件，$\begin{array} { r } { p = 0 . 0 3 5 } \end{array}$ ， $9 5 \% \mathrm { C I } = [ - 1 6 . 3 9 , ~ - 0 . 5 0 ]$ 。提示线索所在位置的主效应显著， $F ( 1 , \ 2 4 ) =$ 11.93， $p = 0 . 0 0 2$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 3 3$ ，被试对线索在回避条件下的反应( $M = 3 6 2 ~ \mathrm { m s }$ ， $S E = 8 . 9 3 \$ 显著快于线索在直视条件 $( M = 3 6 5 ~ \mathrm { m s }$ ， $S E = 9 . 0 0 \$ )。线索有效性的主效应显著， $F ( 2 , \ 4 8 ) =$ 16.17, $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 4 0$ ，被试在有效条件下的反应 $\mathrm { \mathit { M } } = 3 6 1 \mathrm { m s }$ ， $S E = 8 . 7 1$ )显著快于IDO 条件，ISO 条件下被试的反应 $M = 3 6 0 ~ \mathrm { m s }$ ， $S E = 8 . 7 9 \$ )显著快于IDO 条件 $( M =$ $3 6 9 \mathrm { m s }$ ， $S E = 9 . 4 9 \mathrm { \Omega }$ ，这表明产生了显著的OBA效应。SOA和线索有效性的交互作用显著，
+
+$F \left( 4 , 9 6 \right) = 4 . 9 2$ ， $p = 0 . 0 0 3$ ， $\eta _ { \mathrm { p } } ^ { \mathrm { ~ 2 ~ } } = 0 . 1 7$ 。SOA和提示线索所在位置的交互作用显著， $F$ $( 2 , \ 4 8 ) = 5 . 7 6$ ， $p = 0 . 0 0 6$ ， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 1 9$ 。线索有效性和提示线索所在位置的交互作用不显著，$F \left( 2 , \ 4 8 \right) = 1 . 4 4$ ， $p = 0 . 2 4 7$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 0 6$ 。SOA，线索有效性和提示线索所在位置的三重交互作用不显著， $F \left( 4 , 9 6 \right) = 2 . 2 0$ ， $p = 0 . 0 9 5$ ， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 0 8$ 。
+
+表2实验2中SOA、提示线索所在位置和线索有效性各条件下的平均反应时 $( M \pm S D )$   
+
+<html><body><table><tr><td rowspan="2">SOA</td><td colspan="3">直视</td><td colspan="3">回避</td></tr><tr><td>有效</td><td>无效相同</td><td>无效不同</td><td>有效</td><td>无效相同</td><td>无效不同</td></tr><tr><td>100 ms</td><td>382 ± 47</td><td>372 ± 42</td><td>388± 49</td><td>375 ± 44</td><td>371 ± 47</td><td>378± 46</td></tr><tr><td>300 ms</td><td>339 ± 46</td><td>340± 42</td><td>354± 54</td><td>335±41</td><td>341± 48</td><td>347± 49</td></tr><tr><td>600 ms</td><td>368± 46</td><td>368 ± 47</td><td>369 ± 47</td><td>368±46</td><td>368± 47</td><td>375± 50</td></tr></table></body></html>
+
+为了进一步探究SOA对OBA的影响，我们对反应时数据进行了2(提示线索所在位置：直视、回避) $\times 2 0$ (线索有效性：无效相同客体、无效不同客体) $\times 3$ (SOA:100 ms、300 ms、600ms)重复测量方差分析。结果发现，SOA的主效应显著， $F \left( 2 , \ 4 8 \right) = 6 4 . 0 2 \$ ， $p < 0 . 0 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } =$ 0.73；提示线索所在位置的主效应不显著， $F \left( 1 , 2 4 \right) = 3 . 9 6$ ， $p = 0 . 0 5 8$ ， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 1 4$ ；线索有效性的主效应显著， $F \left( 1 , \ 2 4 \right) = 3 1 . 6 4$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { \mathrm { ~ 2 ~ } } = 0 . 5 7$ 。SOA 和提示线索所在位置的交互作用显著， $F \left( 2 , \ 4 8 \right) = 5 . 6 6$ ， $\scriptstyle p = 0 . 0 0 8$ ， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 1 9$ ；其他的二重交互作用均不显著 $( p \mathbf { s }$ $> 0 . 0 5 )$ 。重要的是，SOA，线索有效性和提示线索所在位置的三重交互作用显著， $F ( 2 , \ 4 8 )$ $= 3 . 3 4$ ， $\begin{array} { r } { p = 0 . 0 4 6 } \end{array}$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 1 2$ ，这表明OBA会受到线索有效性和提示线索所在位置的影响。
+
+因此，我们在单个SOA条件下均进行了2(提示线索所在位置：直视，回避) $\times 2$ （线索有效性：无效相同客体，无效不同客体)重复测量方差分析。当SOA为 $1 0 0 ~ \mathrm { { m s } }$ 时，线索有效性的主效应显著， $F \left( 1 , \ 2 4 \right) = 2 2 . 0 8$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 4 8$ ，表明对线索的自下而上注意导致了OBA效应；提示线索所在位置的主效应显著， $F \left( 1 , \ 2 4 \right) = 1 0 . 1 2$ ， $p = 0 . 0 0 4$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } =$ 0.30，表明线索在直视和回避条件下的加工存在差异；提示线索所在位置和线索有效性的交互作用不显著， $F \left( 1 , 2 4 \right) = 3 . 2 8$ ， $\boldsymbol { p } = 0 . 0 8 3$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 1 2$ ，这表明 100 ms SOA时提示线索所在位置为直视和回避条件下的OBA效应没有差异；当SOA为 $3 0 0 \mathrm { m s }$ 时，线索有效性的主效应显著， $F \left( 1 , \ 2 4 \right) = 1 2 . 6 8$ ， $p = 0 . 0 0 2$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 3 5$ ，表明对线索的自下而上注意导致了OBA 效应；提示线索所在位置的主效应不显著， $F \left( 1 , 2 4 \right) = 3 . 7 0$ ， $p = 0 . 0 6 6$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 1 3$ ：提示线索所在位置和线索有效性的交互作用不显著， $F \left( 1 , \ 2 4 \right) = 2 . 3 6$ ， $\scriptstyle p = 0 . 1 3 8$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } =$ 0.09，这表明 $3 0 0 \mathrm { m s } \ \mathrm { S O A }$ 时提示线索所在位置为直视和回避条件下的OBA效应没有差异；
+
+当SOA为 $6 0 0 \mathrm { { m s } }$ 时，主效应和交互作用均不显著 $( p \mathbf { s } > 0 . 0 5 )$ ，这表明 $6 0 0 ~ \mathrm { { m s } }$ SOA时直视和回避条件下均未出现OBA效应。
+
+![](images/05176f94216382fd367deba6b802ba0764d36a783058afd0b8a4337f745be0f9.jpg)  
+图4实验2结果图
+
+注：柱状图误差线代表了该条件下均值的标准误。 $^ { * * * } p < 0 . 0 0 1$ ； $^ { * * } p < 0 . 0 1$ ; $^ { * } p < 0 . 0 5$
+
+正确率的结果分析发现，所有主效应以及交互作用均不显著 $( p \mathbf { s } > 0 . 0 5 )$ 。因此，本实验不存在正确率和反应时的权衡现象。
+
+# 3.3讨论
+
+实验2只是将实验1的对比度反转，并没有改变对比度的差异，结果在300ms SOA条件下直视和回避条件下的客体效应没有差异，证明了正是由于对目光注视信息的编码而不是对比度等低水平物理特征导致实验一的结果。600ms SOA条件下，并没有产生OBA效应，这与实验1结果一致。另外，为了考察当面孔知觉消除后，目光注视对OBA的影响是否能够扩展到其他真实客体中，实验3使用非生物的杯子叠加眼睛作为刺激。如果实验3中没有出现目光注视效应，表明目光注视的OBA依赖于对整个面孔信息的加工，如果与实验1结果相似，表明当面孔信息被消除后，目光注视对OBA分配的影响可以扩展到其他真实客体中。
+
+4 实验3：不同SOA条件下目光注视对真实客体注意的影响
+
+# 4.1方法
+
+# 4.1.1被试
+
+某大学25名在校大学生被招募参与此实验(女生23名，男生2名)，被试年龄在17-20岁之间 $( M = 1 8$ ， $S D = 0 . 6 4 )$ 。所有被试的视力或矫正视力正常，从未参加过类似实验。实验开始前，已获得所有被试的知情同意，实验结束后，给予被试一定报酬。
+
+# 4.1.2实验仪器和材料
+
+实验材料和仪器与实验一相似，不同之处在于实验三所采用的客体是两个灰度处理后的杯子叠加眼睛，其他部分和实验一相同。
+
+# 4.1.4实验设计和流程
+
+实验设计采用2(提示线索所在位置：直视、回避) $| \times 3 |$ 线索有效性：有效、无效相同客体、无效不同客体) $\scriptstyle 1 \times 3$ (SOA: $1 0 0 \mathrm { m s }$ 、300 ms、 $6 0 0 \mathrm { \ m s } \mathrm { \Omega }$ )被试内实验设计。其余设计与实验一相同。实验流程同实验一，如图5所示。
+
+![](images/6ad92ddeb98f2cdad3e68f802113ed02c949b247c4979717e98f76d567baf96e.jpg)  
+图5实验3流程图
+
+# 4.2数据分析与结果
+
+每个被试的正确率均在 $90 \%$ 以上，空白试次的错报率为 $1 . 7 \%$ 。数据分析方法与实验1相同，在进行正式分析之前，剔除了错误反应以及三个标准差以外的反应时，剔除率为
+
+$2 . 3 \%$ 。我们对数据结果进行2(提示线索所在位置：直视、回避) $^ { 1 \times 3 }$ (线索有效性：有效、无效相同客体、无效不同客体) $\mathrm { \nabla } \times 3 ( \mathrm { S O A }$ :100 ms、300 ms、 $6 0 0 \mathrm { { m s } } ^ { \cdot }$ )三因素重复测量方差分析。反应时结果显示，SOA的主效应显著， $F \left( 2 , \ 4 8 \right) = 4 8 . 2 9 \$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { \mathrm { ~ 2 ~ } } = 0 . 6 7$ 。事后检验发现，SOA为 $3 0 0 \mathrm { m s }$ 条件 $( M = 3 5 7 ~ \mathrm { m s }$ ， $S E = 9 . 4 8 \AA$ 被试的反应快于SOA为 $1 0 0 \mathrm { m s }$ 条件 $\left( M = 3 9 1 \right.$ ms, $S E = 9 . 8 4 \$ ， $p < 0 . 0 0 1$ ， $) 5 \% \mathrm { C I } = [ - 4 1 . 5 8 \$ ，-27.17]和 $6 0 0 \mathrm { { m s } }$ 0 $\ M = 3 8 2 \ \mathrm { m s }$ ， $S E = 7 . 7 1$ 条件， $p < 0 . 0 0 1$ ， $9 5 \% \mathrm { C I } = [ - 3 3 . 6 0 , \ - 1 6 . 7 2 ]$ ，SOA为 $1 0 0 ~ \mathrm { { m s } }$ 和 $6 0 0 \mathrm { { m s } }$ 时被试的反应不存在显著差异， $\begin{array} { r } { p = 0 . 1 6 3 } \end{array}$ ， $9 5 \% \mathrm { C I } = [ - 2 0 . 9 3 , \ 2 . 5 1 ]$ 。提示线索所在位置的主效应不显著， $F$ （20 $( 1 , \ 2 4 ) = 0 . 3 9$ ， $p = 0 . 5 3 6$ ， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 0 2$ 。线索有效性的主效应显著， $F \left( 2 , \ 4 8 \right) = 1 1 . 7 3$ ， $p <$ 0.001， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 3 3$ ，被试在有效条件下的反应 $( M = 3 7 2 ~ \mathrm { m s }$ ， $S E = 8 . 1 3 \$ )显著快于IDO条件，ISO 条件下被试的反应 $\langle M = 3 7 5 \mathrm { m s }$ ， $S E = 9 . 3 6 \$ 显著快于IDO条件 $( M = 3 8 2 ~ \mathrm { m s }$ ， $\boldsymbol { S } \boldsymbol { E } =$ 9.16)，这表明产生了显著的OBA效应。SOA和线索有效性的交互作用显著， $F \left( 4 , \ 9 6 \right) =$ 3.58， $p = 0 . 0 1 5$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 1 3$ 。SOA 和提示线索所在位置的交互作用不显著， $F ( 2 , \ 4 8 ) =$ 0.93， $p = 0 . 3 9 5$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 0 4$ 。线索有效性和提示线索所在位置的交互作用不显著， $F$ (2，48)$= 2 . 0 6$ ， $\scriptstyle p = 0 . 1 3 8$ ， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 0 8$ 。SOA，线索有效性和提示线索所在位置的三重交互作用不显著， $F \left( 4 , \ 9 6 \right) = 2 . 4 5$ ， $p = 0 . 0 6 3$ ， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 0 9$ 。
+
+表3实验3中SOA、提示线索所在位置和线索有效性各条件下的平均反应时 $( M \pm S D )$   
+
+<html><body><table><tr><td rowspan="2">SOA</td><td colspan="3">直视</td><td colspan="3">回避</td></tr><tr><td>有效</td><td>无效相同</td><td>无效不同</td><td>有效</td><td>无效相同</td><td>无效不同</td></tr><tr><td>100 ms</td><td>389 ± 46</td><td>388 ± 54</td><td>400 ± 51</td><td>387 ± 44</td><td>388± 53</td><td>395±52</td></tr><tr><td>300 ms</td><td>348 ±38</td><td>353 ± 51</td><td>367 ± 51</td><td>349 ± 46</td><td>363± 52</td><td>361 ± 55</td></tr><tr><td>600 ms</td><td>381 ± 41</td><td>382 ± 42</td><td>384± 42</td><td>378± 39</td><td>380±39</td><td>386±39</td></tr></table></body></html>
+
+为了进一步探究 SOA对OBA的影响，我们对反应时数据进行了2(提示线索所在位置：直视、回避) $\times 2 0$ (线索有效性：无效相同客体、无效不同客体) $\times 3$ (SOA:100 ms、300 ms、600ms)重复测量方差分析。结果发现，SOA的主效应显著， $F \left( 2 , \ 4 8 \right) = 3 3 . 6 2$ ， $p < 0 . 0 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } =$ 0.58；提示线索所在位置的主效应不显著， $F \left( 1 , \ 2 4 \right) = 0 . 0 2$ ， $p = 0 . 8 9 3$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 0 0$ ；线索有效性的主效应显著， $F \left( 1 , \ 2 4 \right) = 1 7 . 8 2$ ， $p < 0 . 0 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 4 3$ 。所有的二重交互作用均不显著 $( p \mathbf { s } > 0 . 0 5 )$ 。重要的是，SOA，线索有效性和提示线索所在位置的三重交互作用显著， $F$ $( 2 , 4 8 ) = 4 . 0 5 , p = 0 . 0 2 5 , \eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 1 4 \circ$
+
+因此，我们在单个SOA条件下均进行了2(提示线索所在位置：直视，回避) $\times 2$ （线索有效性：无效相同客体，无效不同客体)重复测量方差分析。当SOA为 $1 0 0 ~ \mathrm { { m s } }$ 时，线索有效性的主效应显著， $F \left( 1 , \ 2 4 \right) = 1 7 . 0 3$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 4 2$ ，表明对线索的自下而上注意导致了OBA效应；提示线索所在位置的主效应不显著， $F \left( 1 , \ 2 4 \right) = 1 . 8 1$ ， $p = 0 . 1 9 2$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } =$ 0.07；提示线索所在位置和线索有效性的交互作用不显著， $F \left( 1 , \ 2 4 \right) = 0 . 5 9$ ， $ { p } = 0 . 4 5 0$ ， $\eta _ { \mathrm { p } } ^ { 2 }$ $= 0 . 0 2$ ，这表明 $1 0 0 \mathrm { m s } \mathrm { S O A }$ 时提示线索所在位置为直视和回避条件下的OBA效应没有差异；当SOA为 $3 0 0 \mathrm { m s }$ 时，线索有效性的主效应显著， $F \left( 1 , \ 2 4 \right) = 9 . 6 2$ ， $p = 0 . 0 0 5$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } =$ 0.29，表明出现了OBA效应；提示线索所在位置的主效应不显著， $F \left( 1 , \ 2 4 \right) = 0 . 4 1$ ， $p =$ 0.531， $\eta _ { \mathrm { p } } ^ { \ 2 } = 0 . 0 2$ ；提示线索所在位置和线索有效性的交互作用显著， $F \left( 1 , \ 2 4 \right) = 8 . 1 3$ ， $p =$ 0.009, $\eta _ { \mathrm { p } } ^ { \mathrm { ~ 2 ~ } } = 0 . 2 5$ ，这表明对线索的自上而下注意以及对目光注视的自上而下注意交互影响了注意分配，导致 $3 0 0 ~ \mathrm { { m s } }$ SOA时提示线索所在位置为直视和回避条件下的OBA效应存在差异，进一步分析发现，直视条件下的OBA效应 $( M = 1 4 . 6 1 ~ \mathrm { m s }$ ， $S E = 3 . 4 1$ )显著大于回避条件 $( M = - 1 . 5 0 ~ \mathrm { m s }$ ， $S E = 3 . 6 4 \AA$ ， $t \left( 2 4 \right) = - 2 . 8 5$ ， $p = 0 . 0 0 9$ ，Cohen's $d = 0 . 9 1$ ， $9 5 \% \mathrm { C I } = [ -$ 27.76，-4.45]，且这种差异来自于直视条件下被试对ISO位置的目标反应快于回避条件， $t$ $( 2 4 ) = 2 . 3 5$ ， $p { = } 0 . 0 2 7$ ，Cohen's $d = 0 . 1 9$ ， $9 5 \% \mathrm { C I } = [ 1 . 2 3 , ~ 1 8 . 7 6 ]$ ，直视条件与回避条件下被试对IDO位置的目标反应没有差异， $t \left( 2 4 \right) = - 1 . 5 0$ ， $p = 0 . 1 4 7$ ，Cohen's $d = 0 . 1 2$ ， $9 5 \%$ CI$= [ - 1 4 . 5 1$ ，2.30]，这表明直视相比于回避面孔更能捕获注意，该结果支持注意捕获而不是注意维持假设；当SOA为 $6 0 0 \mathrm { { m s } }$ 时，主效应和交互作用均不显著 $( p \mathbf { s } > 0 . 0 5 )$ ，这表明600ms SOA时直视和回避条件下均未出现OBA效应。
+
+![](images/c7b55aaf05ca6d62a6357d2fc40b628599128b00b9881df9924e7ccd1f240d9a.jpg)  
+图6实验3结果图
+
+注：柱状图误差线代表了该条件下均值的标准误。 $^ { * * * } p < 0 . 0 0 1$ ; $^ { * * } p < 0 . 0 1$ ； $^ { * } p < 0 . 0 5$
+
+正确率的结果分析发现，所有主效应以及交互作用均不显著 $( p \mathbf { s } > 0 . 0 5 )$ 。因此，本实验不存在正确率和反应时的权衡现象。
+
+# 4.3讨论
+
+实验3产生了与实验1相似的结果，即300ms SOA条件下直视条件下的客体效应显著大于回避条件，且这种差异来自于被试对两种条件下ISO位置目标的不同反应，表明直视捕获注意，更进一步证明了目光注视对OBA的影响也可以扩展到其他真实客体中。另外，600 ms SOA条件下，并没有产生OBA效应，这与实验1结果一致。
+
+# 5讨论
+
+本研究通过三个实验，分别以有目光注视的面孔、杯子作为刺激，揭示了在双框线索范式中目光注视对OBA的影响受到 SOA的调节，目光注视对OBA效应的影响在较长SOA( $\mathrm { 3 0 0 m s ) }$ 条件下出现，在较短( $\mathrm { 1 0 0 ~ m s ) }$ 和更长 SOA(600 ms)时消失。实验1使用面孔刺激并操纵不同的 SOA，考察了目光注视与面孔是否交互引导注意分配，300ms SOA时，被试对直视面孔ISO位置上目标的探测要快于回避面孔，导致更大的OBA效应，这表明与回避条件相比，直视更能捕获我们的注意。实验2将面孔的对比度反转，结果没有产生直视和回避条件下客体效应的差异，表明实验1的结果是由于被试对目光注视信息的编码而不是由于对比度等低水平特征导致的。实验3采用眼睛叠加杯子的刺激发现面孔知觉消失后，出现了与实验1相似的结果。三个实验结果一致表明，直视捕获注意，使注意资源更容易从线索位置分配到了ISO位置，此外，目光注视能够影响基于客体的注意分配，这种影响也可以扩展到真实客体中。
+
+本研究结果发现，直视与回避条件下的客体注意效应存在差异，且这种差异来自于被试对直视客体ISO位置上目标的探测要快于回避客体，这个结果符合客体注意的感觉增强假说。目前解释OBA效应的主流理论有三种，即感觉增强理论(enhancement spreadingtheory)、注意转移理论(attentional shifting theory)和注意优先理论(attentional priorizationtheory)。早期的感觉增强理论是Desimone 和Duncan(1995)提出的偏向竞争模型，他们认为感觉增强可能是多客体间神经表征偏向竞争的结果，该竞争导致与未线索化客体相比，线索化客体的表征变得更为有效，使得个体能够优先选择该客体。而对线索化客体的选择又反过来使该客体内特征的加工变得更快、更准。现有的感觉增强理论认为，注意在客体内扩散并受制于客体边界，从而导致线索化客体的感觉表征增强，所以对该客体的特征或客体内的项目反应更快更准(Conci& Muller,2009; Richard et al.,2008; Shomstein,2012)。然而，注意转移理论认为，在从一个客体转移到另一个客体时有更高的损耗(Brown&Denney,2007;Ushitani et al.,2010; Yeshurun&Rashal,2017)。注意优先理论则认为，OBA 效应是由于视觉搜索过程中对不同位置的注意优先性不同导致的，视觉搜索默认地始于线索化客体中的位置，从而导致对非线索化客体的搜索晚于线索化客体(Drummond& Shomstein,2010;Shomstein,2012; Yeshurun&Rashal,2017)。如果直视面孔捕获注意，那么它将会被分配更多的注意资源，从而进一步增强其表征强度。因此，被试对直视面孔ISO位置上目标的探测要快于回避面孔，导致更大的OBA效应。这个假设与感觉增强理论一致。如果直视面孔维持了注意，导致从直视面孔上脱离难于回避面孔，那么被试对直视面孔IDO位置上目标的探测要慢于回避面孔，导致更大的OBA效应。这个假设与注意转移理论一致。如果直视面孔既捕获注意又维持注意，那么被试对ISO 和IDO上目标的反应在直视面孔和回避面孔之间都有差异。这个假设与注意优先理论一致。本研究结果显示，相比于回避面孔，直视面孔优先捕获了被试的注意，其感觉表征被进一步增强，导致在 $3 0 0 ~ \mathrm { { m s } }$ SOA时ISO有更好的表现，即 OBA效应的产生来源于目光注视对ISO位置自上而下的易化加工。这与感觉增强理论一致。
+
+本研究结果发现，OBA效应会随着线索目标间隔时间的增加而减少，这与前人研究结果一致(Chou & Yeh,2018; Drummond & shomstein,2010; Shomstein & Yantis,2004)。更重要的是，本研究只在300ms SOA条件下出现了直视和回避客体效应的差异，这与前人研究结果一致(Song etal.,2021)。分析其原因：当线索突然出现时，注意会被自下而上地捕获并转移到线索位置(Posner,1980)，短时间内只有线索在发挥作用，因此本研究中100 ms SOA条件下出现了客体效应，且不受目光注视影响；随着时间的推移，注视线索开始发挥作用，这与前人关于目光注视受自上而下的加工影响，对注视方向进行编码需要时间(Bayliss &Tipper,2006;Kawai,2011)的结果一致，因此，在 $3 0 0 \mathrm { m s }$ 时出现了目光注视与客体注意的交互作用；由于SOA时间的增长，可能使得被试对线索产生了心理准备，从而降低了线索空间定向的重要性(彭姓 等,2019)，另外，Lou 和Lorist等人(2021)发现只有在线索目标 130${ \sim } 1 9 0 \mathrm { m s }$ ， $2 3 0 { \sim } 2 6 0 ~ \mathrm { m s }$ ， $5 0 0 { \sim } 5 3 0 ~ \mathrm { m s }$ 等时间间隔时才会产生客体效应，因此 $6 0 0 \mathrm { { m s } }$ SOA条件下随着线索效应的消失，目光注视也不再对OBA产生作用。综上所述，本研究结果表明目光注视对OBA的影响比较短暂，出现得晚，消失得快。
+
+值得注意的是，本研究中，当面孔信息被消除之后，目光注视对OBA效应的影响也可以发生在其他真实客体上，表明这种影响具有普遍适用性。这与前人的研究结果一致，在面孔消失后，单独的眼睛或眼睛叠加其他刺激也可以产生线索效应(Green et al.,2013; Ristic &Kingstone,2005)。Itier等人提出的面孔加工神经模型认为在大脑颞上沟(superior temperalsulcus，STS)区域可能存在着两种神经元，当存在正立面孔时，主要是面孔选择神经元起作用，然而改变面孔对比度或将面孔倒置时，这时眼睛处于非正常的人脸环境中，眼睛选择神经元和面孔神经元会共同起作用，从而产生相似且比正立面孔更大的N170波幅。该模型认为这一结果是由于对眼睛区域的加工引起的。在该研究中，单独眼睛刺激产生的波幅总是大于面孔产生的波幅，去掉眼睛产生的波幅和面孔相似，所以正是因为眼睛的存在才导致面孔如此特别(Itier etal.,2007)，这与我们的研究结果一致。
+
+本研究首次考察了当我们进行社交互动时，OBA随着 SOA变化的趋势，然而也存在一定的局限性。本研究主要关注的是目光注视方向，然而与面孔有关的眼睛运动(Bockler etal.,2014;陈艾睿 等,2014)，面部倒置(Murphy,& Cook,2017)，头部朝向(Yumiko et al,2018)等因素是否会影响OBA还需要进一步考察；本研究的性别比例相对不平衡，这是因为本研究被试招募是随机的。研究发现女性相比男性在面孔识别以及加工社会线索时具有优势(Bayliss et al.,2005)，因此未来研究可以考虑更好的控制性别比例。此外，现有研究关于社会性的目光注视线索和非社会性的箭头线索加工是否存在差异仍存在争议(纪皓月 等，2017)，社会性注意线索相比于箭头等非社会线索更具有反射性，更不易受到自上而下的影响(Friesen et al.,2004)，因此未来研究也可以探索箭头线索是否能产生本研究中类似的认知机制。最后，不同文化下目光注视方向影响OBA的变化趋势也值得探讨(霍鹏辉 等,2021)，例如，日本人认为与他人进行大量目光交流意味着不敬，然而在中国意味着对谈话人的礼貌和兴趣(Shota et al.,2015)；亚洲人通常表现出对面部中央区域的集中注视，而高加索人则主要集中注视眼睛和嘴巴区域(Blais et al.,2008)。
+
+# 6结论
+
+(1)目光注视方向和客体交互引导注意分配，直视的目光更容易捕获注意，目光注视对ISO 位置自上而下的易化加工导致了更大的OBA效应，这支持了感觉增强理论;
+
+(2)目光注视对OBA的影响受 SOA调节，这种影响出现得较晚，并且消失得较快；(3)目光注视对OBA的影响具有普遍适用性，不仅可以发生在面孔作为客体时，也可以扩展到其他真实客体中。
+
+# 参考文献
+
+# Effect and mechanism of direct and averted gazes on object-based attention
+
+YAN Chi ', GAO Yunfei ', HU Saisai ', SONG Fangxing 23, WANG Yonghui $^ { 1 * }$ , ZHAO Jingjing1\*
+
+( School ofPsychology,Shaanxi Normal University; ShaanxiKeyLaboratoryandCognitiveNeuroscience,Xi'an71oo62,China) (CASKeyLaboratoryofBehavioralcience,InstituteofsychologyhineseAcademyofSciences,Beijingo,China) (DepartmentofPsychology,University ofChineseAcademy ofSciences,Beijing 10oo49,China)
+
+# Abstract
+
+Eye contact plays an important role in social interaction and can capture and hold attention. Previous studies have shown that eye contact can guide attentional allocation. However, a face with direct or averted gaze is a special object containing social information. The object's guidance for attentional allocation is called object-based attention, in which items in the cued object are processed more preferentially tan items in the un-cued object. It is stillunclear how eye contact interacts with objects in guiding atentional allocation. Therefore,the aim of the present study was to investigate the impact of eye contact and the cognitive mechanism of object-based attention.
+
+We conducted three experiments using the two-rectangle paradigm and objects with different gaze directions. In Experiment 1,faces were used as stimulus and to investigate whether and how eye contact interacted with face to guide attentional allocation. At the beginning of each trial, the fixation cross and two objects originally were displayed for 1Oo0 ms on a screen. Then, a cue appeared randomly at any of the four ends of the two objects for $1 0 0 \mathrm { { m s } }$ . After 0, 200,or $5 0 0 \mathrm { m s }$ of inter-stimulus, the target appeared until the participant pressed the “M" key or remained on screen for 1,5o0 ms.A black screen was then presented for $5 0 0 ~ \mathrm { { m s } }$ after each trial.During the experiment, the participants were asked to locate targets by pressing “M" as quickly as possible. We ruled out the influence of low-level features by using contrast reversed faces in Experiment 2. In Experiment 3,cups overlaid with eyes were used to explore whether the effect of eye contact still existed on real objects.
+
+The results of Experiment 1 revealed that there was a significant interaction between gaze directions, cue position, and stimulus onset asynchrony (SOA). Specifically,a larger object-based effect was discovered when the cue appeared on the direct-gaze face compared to the averted-gaze face under 300-ms SOA; however, there was no significant difference between them under 100- and 600-ms SOA.Further analysis showed that the differences in object-based effect occurred
+
+because the participants reacted more quickly to the target in direct gaze than in averted gaze under the invalid same-object condition, which indicated that direct gaze could capture attention and cause a larger object-based effect.The difference in object-based effect between direct and averted gaze at 300-ms SOA disappeared in Experiment 2. The results of Experiment 3 replicated the results of Experiment 1 and further demonstrated that the influence of eye contact on objectbased attention can extend to real objects.
+
+In conclusion, the present study extends the extant literature in several dimensions.First, it provides the first evidence,to the best of our knowledge,that eye contact interacts with objects, including faces and cups,in guiding attentional allocation. The top-down processing of eye contact facilitates the processing of objects under an invalid same-object location, which leads to greater object-based attention and supports the enhancement spreading theory. Second, it also reveals that the influence of eye contact on object-based attention is regulated by SOA.
+
+Key words object-based attention, eye contact, social interaction, enhancement spreading theory, top-down processing

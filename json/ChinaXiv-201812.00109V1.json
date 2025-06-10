@@ -1,0 +1,570 @@
+[
+    {
+        "type": "text",
+        "text": "基于EEMD能量矩与邻域粗糙集的转子故障数据集分类方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙泽金，赵荣珍",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(兰州理工大学 机电工程学院，兰州 730050)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对旋转机械故障辨识准确率偏低的问题，将集合经验模态分解(ensemble empirical mode decomposition，EEMD)与能量矩、邻域粗糙集(neighborhood rough set，NRS)进行结合提出一种转子系统故障模式辨识的方法。首先利用EEMD将采集到的振动故障信号自适应分解成若干个平稳的本征模态函数(intrinsic mode function，IMF)分量并计算其能量矩；以此能量矩作为描述故障状态的条件属性建立故障识别决策表，然后利用邻域粗糙集对决策表进行属性约简消除冗余的属性；最后将约简后的敏感特征子集输入所设计的决策树(decision tree，DT)C4.5 算法中进行模式识别。通过典型转子实验台的故障特征集验证了该方法的有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：集合经验模态分解；本征模态函数；能量矩；决策表；邻域粗糙集；属性约简；决策树C4.5算法 中图分类号：TP391 doi:10.19734/j.issn.1001-3695.2018.07.0532 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rotor fault data set classification method based on EEMD energy moment and neighborhood rough sets ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sun Zejin, Zhao Rongzhen (Schoolof Mechanical&Electronical Enginnering，Lanzhou UniversityofTechnology,Lanzhou 73oo5o,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aiming at the problem of low recognition accuracy of rotating machinery faults,this paper proposed a rotor system fault identification method based on the combination of ensemble empirical mode decomposition (EEMD）with Energy Moment and neighborhood rough sets (NRS).Firstly,the method used the EEMD to decompose decompose the non-stationaryvibration signal into several stable intrinsic mode functions (IMF)andcalculated the energy momentof the IMF component.Using this energy moment as thecondition atribute to describe the fault state to establish the fault identification decision table,then us theneighborhood rough set to perform atribute reduction onthe decision table to eliminate the redundant atribute.Finaly,using thereduced sensitivity feature subsets as input intodecision tree C4.5 algorithm for recognition. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:ensemble empirical mode decomposition；intrinsic mode functions；energy moment;decision table; neighborhood rough set;attribute reduction; decision tree C4.5 algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "旋转机械中转子故障的危害性巨大，由于转子通常在多振源环境运转，传统的单一诊断模式难以全面、准确地获取故障特征[1，因此，多通道信号构建故障数据集对智能诊断技术的发展具有积极的促进作用。但这种多通道融合的高维故障特征集往往会不可避免地掺杂冗余属性，这无疑会增加分类器学习、训练时间，甚至降低分析处理的精度[2。故全面挖掘出敏感的故障特征信息、剔除冗余属性，对于提高故障识别的精度尤为重要[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，文献[4]提出的基于邻域粗糙集的属性约减给维数灾难提供了一种良好的解决办法，但是对于条件属性的选择仍待进一步研究。文献[5]提出了一种基于EMD与邻域粗糙集的液体电磁阀故障诊断方法，并在实验中证明了该方法的有效性。文献[6]运用EMD分解后IMF能量矩构造特征向量实现了对滚动轴承故障的精确诊断，但当EMD对多模态混合的复杂信号进行分解时，容易造成IMF分量模态混叠，导致分解精度不高，致使部分IMF分量的能量矩不能准确地描述其工作状态，尚存在转子故障类型辨识精度不够高的问题有待解决，而且在转子系统的故障识别还有待进一步研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "并且多域特征的引入使得多元冗余信息渗入其中，最终导致故障识别的准确率不高。因此需用维数约简方法对特征数据进行有效的二次特征提取，提取出低维敏感的主要特征矢量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经验模态分解[7](empirical mode decomposition,EMD)是由Huang等人提出的一种新的具有自适应性的时频分析方法，可以根据信号的局部时变特性进行自适应的时频分解，非常适合对非线性、非平稳信号进行特征提取，但目前的EMD分解存在着端点效应和模态混叠现象。为解决此问题，Wu 和Huang等人在EMD方法的基础上引入噪声辅助分析，提出的集合经验模态分解[8]（EEMD）方法既能达到与EMD相同的分解目的，又能有效地抑制模式混叠[9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为实现邻域粗糙集属性约简后低维矢量与故障类型间的快速识别，需选择出一种简单、高精度的智能分类器。通过某种测量规则来评估训练样本和测试样本间的相似性，然后根据规则选择邻近的样本，在这些近邻样本点中哪一种类型拥有的点多，测试样本就属于这一类型。通过找出与其最近的已知标签的信息的样本，将给标签信息赋予待分类样本，即故障识别。决策树[15]以其简单直观，分类特性好等优点，在故障诊断方面得到了广泛应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "依据上述分析，本研究提出一种基于EEMD能量矩与邻域粗糙集和决策树算法相结合的转子故障数据分类方法，借助EEMD能够有效获得转子振动信号的特征分布类型，利用分解后所得IMF分量通过能量矩指标选出含有故障信息的IMF分量，构造转子故障分类的特征向量矩阵，运用邻域粗糙集在属性约简上的优势和决策树算法在数据分类上的优势，运用到转子系统的故障诊断中，为转子故障数据集维数约简与故障分类提供了一种参考途径。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关基本原理简介",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1EEMD的信号分解原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EEMD分解能够根据信号自身的特点，自适应地将非线性、非平稳的多模态信号分解为若干个平稳单一模态的IMF分量和一个余项[8]。传统的EMD方法中IMF分量的不连续造成相邻波形模态混叠现象，主要是由以下两个原因造成的：a.信号中没有足够的极值点，造成分解的停止；b.采用三次样条函数对信号的极值点进行拟合时，极值点分布间隔的不均匀。为克服上述缺陷，文献[8]提出了EEMD分解方法。该方法利用高斯白噪声的频率均匀分布的统计特性弥补上述模态不连续的缺陷。具体EEMD方法的分解过程可参考文献[10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2IMF 能量矩的定义 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对采集到的振动信号进行EEMD分解可得到若干个IMF分量和一个余项。研究文献[11]表明，转子系统的故障信息主要集中在靠前的几个IMF分量中，所以一般从主要的前几个IMF分量中提取转子系统的故障特征信息，但是以防遗漏故障信息，本实验计算11个IMF分量和一个余项的能量矩。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）设一个信号序列，计算这个信号经EEMD处理后分量能量矩如式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { i } = \\sum _ { m = i } ^ { n } ( m \\cdot \\Delta t ) \\left| a _ { i } ( m \\cdot \\Delta t ) \\right| ^ { 2 } , \\qquad i = 1 , 2 , 3 , \\cdots , n \\ (\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $a _ { i }$ 为本征模函数； $\\Delta t$ 为采样周期； $\\mathbf { n }$ 为总的采样点数;  \n$\\mathrm { ~ m ~ }$ 为采样点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）以每个IMF分量的能量矩为元素可构造一个描述故障状态的特征向量 $T _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = [ E 1 , ~ E 2 , ~ E 3 , { \\cdot \\cdot } , E _ { n } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "能量矩在机械信号信息量评估、信息成分分析等多方面有独特性能，它与传统方法中采用信号的能量或能量熵作为描述转子系统特征的方法相比，能量矩既可反映能量的大小又可反映其随时间参数的分布情况，能够更好地揭示能量分布特性和信号的本质特征，有利于转子系统故障特征提取[。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3邻域粗糙集与属性约简的概念 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pawlak[12]提出的粗糙集理论(rough sets)只能处理离散的精确集，对数值型数据必须离散化后才能处理，连续数据经过离散化处理可能会丢失重要信息影响最终的处理效果。胡清华等人[13]提出的邻域粗糙集概念可以直接处理连续性的数据集，解决了粗糙集在处理连续性数据必须离散化这一必要环节条件，避免了离散化带来的信息损失。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "给定一邻域决策系统 ${ \\cal N } D T = < U , A , D >$ ，其中非空有限集合 $U = ( x _ { 1 } , x _ { 2 } , x _ { 3 } , \\cdot \\cdot \\cdot , x _ { n } )$ 是实验样本集，即论域； $A = ( a _ { 1 } , a _ { 2 } , \\cdots , a _ { m } )$ 是描述论域 $U$ 的全部条件属性的集合； $D$ 是分类决策属性，即故障类型，根据 $\\mathrm { ~ D ~ }$ 的属性值域可将 $\\mathrm { ~ U ~ }$ 划分为 $\\mathbf { N }$ 个等价类，$U = \\{ X _ { 1 } , X _ { 2 } , \\cdots , X _ { N } \\}$ ， $\\forall B \\subseteq A$ 生成的邻域关系 $N _ { B }$ ，则决策属性 $D$ 关于条件属性子集 $B$ 的上、下近似分别为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { N } } _ { B } D = \\bigcup _ { i = 1 } ^ { N } \\overline { { N } } _ { B } X _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\underline { { N _ { \\mathit { b } } } } D = \\bigcup _ { i = 1 } ^ { N } \\underline { { N _ { \\mathit { b } } } } X _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { N } } _ { \\ l } X = \\{ x _ { i } | \\delta _ { B } ( x _ { i } ) \\cap X \\neq \\emptyset , x _ { i } \\in U \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\underline { { N } } _ { \\ l } X = \\{ x _ { i } \\vert \\delta _ { \\ l _ { B } } ( x _ { i } ) \\subseteq X , x _ { i } \\in U \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "那么决策系统的边界域为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB N ( D ) = \\overline { { N } } _ { B } D - \\underline { { N } } _ { B } D\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "邻域决策系统的正域和负域分别为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP O S ( D ) = \\underline { { N } } _ { B } D\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN E G _ { _ B } = U - \\overline { { N } } _ { ^ B } D\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "决策属性 $\\mathrm { ~ D ~ }$ 对条件属性B的依赖度为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { _ { B } } ( D ) = \\frac { \\left| P O S _ { _ B } ( D ) \\right| } { \\left| U \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依赖度反映了系统中能够被正确分类的样本比例，显然$0 \\leq \\gamma _ { _ B } ( D ) \\leq 1$ 。正域越大，表明决策属性 $\\mathrm { ~ D ~ }$ 对条件属性B的依赖性越强。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "若属性 $a \\in B$ ,那么条件属性 $\\boldsymbol { a }$ 对于决策属性 $D$ 的重要性公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS i g ( a , B , D ) = \\gamma _ { { } _ { B \\cup \\{ a \\} } } ( D ) - \\gamma _ { { } _ { B } } ( D )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "属性约简是邻域粗糙集理论研究的核心之一，是在保持决策表分类能力不变的条件下，利用不可分辨关系删除其中冗余属性的概念，这将有利于槟弃冗余属性，降低数据处理的时间和空间复杂度。基于属性重要度指标，可以构造贪心式属性约简算法[14]。算法的输入为 $N D T = < U , A , D >$ ,输出为属性约简子集B，步骤如下:",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）初始化属性约简子集 $B = \\emptyset$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）对于任意剩余属性 $a _ { i } \\in A - B$ ，计算该属性相对于约简子集 $A$ 的重要度：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS i g ( a _ { i } , B , D ) = \\gamma _ { { } _ { B \\cup \\{ a _ { i } \\} } } ( D ) - \\gamma _ { { } _ { B } } ( D )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）选择重要度最大的属性 $S i g ( a _ { j } , B , D ) = \\operatorname* { m a x } ( S i g ( a _ { i } , B , D ) )$ ，如果 $S i g ( a _ { j } , B , D ) > 0$ ，则属性 $a _ { j }$ 加入属性约简子集 $B$ ，$B = B \\cup \\{ a _ { j } \\}$ ，转至步骤 b)继续计算，否则程序终止，输出最终约简结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4决策树算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "决策树是一个应用广泛的分类算法，它的核心算法是C4.5算法，C4.5算法是由Quinlan在ID3算法的基础上提出的[15]。决策树的核心问题是测试属性的选择与决策树的修剪。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C4.5算法采用信息增益率来作为选择分支属性标准，克服了ID3算法中信息增益选择属性时偏向选择取值多的属性的不足[16]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2基于EEMD 能量矩和邻域粗糙集的故障数据集分类方法设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1基于EEMD能量矩和邻域粗糙集的故障诊断方法设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于1.1和1.2节分别对EEMD分解过程，高维特征集的构造过程做了详述，本节不在做详述。属性约简是邻域粗糙集理论一项重要的应用，邻域粗糙集弥补了经典粗糙集理论中处理连续型数据要先进行离散化的缺陷，经过邻域粗糙集的约简删除了数据中的冗余特征，降低了数据处理的复杂性，有利于之后进行故障的分类。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依据EEMD-NRS算法原理设计转子系统故障诊断流程",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d35dc95ddd8d68dbe04e7aa5b8a174a0be314d03f38cab271abcda1c3702c40e.jpg",
+        "img_caption": [
+            "图1基于eemd 能量矩与邻域粗糙集理论的故障诊断流程图 Fig.1Flow chart of fault diagnosis based on EEMD energy moment and neighborhood rough set theory "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法具体步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)对采集的不平衡、不对中、碰磨、松动和正常5种状态信号进行EEMD分解，分别得到若干个IMF分量和一个余项。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)运用式（1）计算各IMF分量的能量矩，构造以各IMF分量的能量矩为元素的向量E=（E1，E2，，Em）作为转子故障状态的特征向量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)运用特征向量矩阵 $E$ 构造高维特征集，生成决策表，运用邻域粗糙集对决策表进行属性约简，根据式（11）计算每个条件属性的重要度 $S i g ( a _ { j } , B , D )$ ，从中选择属性重要度较大的属性集合加入约简集合中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)将约简后的低维敏感特征子集作为输入，对样本集进行训练构建决策树模型，进行故障类型识别。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 应用结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本项工作所使用的故障数据集源于文献[17]中所示的转子实验台。实验数据选取在采样频率为 $5 0 0 0 ~ \\mathrm { H z }$ ，驱动电机转速为 $2 8 0 0 \\mathrm { r / m i n }$ 下采集的振动信号。模拟如下四种典型故障：{支座松动、动静碰摩、质量不平衡和轴系不对中}，以及正常状态下的实验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1提取的故障特征的状况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实测得到的4种故障和正常状态下原始振动信号的时域波形图如如图2所示（由于篇幅有限仅列出不对中状态下的第一个通道的原始振动信号）。对图2信号进行特征提取分析，对每种状态的每一通道（共12通道）的振动信号进行EEMD处理，为选取含有故障信息的真实特征分量引入能量矩评价指标，本文以信号长度为2048点的不对中故障数据为例进行评价方法说明。本实验中EEMD的辅助白噪声标准差设为原始标准差的0.2倍且 $\\mathbf { M } = 1 0 0$ 。以不对中的故障信号为例，其分解结果的如图3所示。可以看出分解出的11个IMF分量和一个余项运用式(1)计算这12个分量的能量矩。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图4可以看出分解出的11个IMF分量和一个余项的能量各不相同，因此实验中为避免遗漏故障信息选取12个分量的能量矩建立其诊断模型。每种故障各采集50组样本，加上正常状态共250组，生成决策表，将得到的能量矩特征设置为决策表中的条件属性，而决策属性值1，2，3，4，5分别对应着不对中、不平衡、碰磨、松动和正常五种状态，然后对决策表进行属性约简，如表1所示。在表1中，将a1\\~a144作为邻域粗糙集的条件属性。表中最后一列是各样本故障类型，将该列作为邻域粗糙集的决策属性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通常情况下，根据式(13)可得到邻域大小[18]。选择合适的邻域值计算各属性的重要度，表2为根据式(13)得出的邻域半径大小对本文所提方法的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta ( Z _ { i } ) = \\frac { S t d ( Z _ { i } ) } { \\lambda }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $S t d ( Z _ { i } )$ 表示属性 $Z _ { i }$ 的标准差， $\\lambda$ 是一个设定的参数，用来调整邻域大小，不同的 $\\lambda$ 对应不同的邻域半径，通常 $\\lambda$ 取值在2\\~4之间4。如表2所示，为使得诊断结果最佳，对λ以步长为0.1取值，得到不同的邻域半径和约简集合，将属性约简后的结果输入到决策树分类器中，对比分类结果，发现在不同的属性重要度下限，当 $2 \\leq \\lambda \\leq 4$ 时得到的约简属性不一，且当重要度下限为0.01， $\\lambda { = } 3$ 得到的分类效果最佳。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/730e61af9efdc2f4c9fa3ef259ed8352f64b21b32774be660e29c3493ea8c290.jpg",
+        "img_caption": [
+            "图2不对中状态原始振动信号时域波形图",
+            "Fig.2Unbalanced waveform diagram of original vibration signal ",
+            "图3不对中状态振动信号eemd分解图",
+            "Fig.2Unbalanced waveform diagram of original vibration signa "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ww/m IMF1 0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 t/s   \n8 IMF2 0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 t/s   \nww/m IMF3 1 0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 t/s   \nww/啤 IMF4 0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 /s AM w WWM 上 上 0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 /s >< 0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 t/s   \nww/m IMF7   \n69 K > H 0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.45 /s   \nww/ 8 IMF8 H F 3 0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.45 /s   \n8 IMF9 1 H □ 0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.45 /s   \ns IMF10 1 H 日 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.45 t/s   \n8 IMF11 上 F 产 日 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.45 t/s   \n8 r(t) H T T m 0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.45 t/s ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d618fc6a28e453ca2376ad9c4559f148cf1b7e4bcfc55aba12228c35b103f482.jpg",
+        "img_caption": [
+            "图4五种运行状态转子系统的imf能量矩",
+            "Fig.4Five operating state rotor systems of the IMF energy moment "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经过式（10）计算各条件属性的依赖度，经属性约简算法输出的最佳特征约简集合为 $_ { \\mathrm { A = \\{ a 4 , a 4 1 , a 1 1 3 \\} } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "构造决策树。对采集到的250组样本进行训练，将250组样本随机分配，利用MATLAB 中randpern 函数随机的产生1\\~250里的250个随机数，即1\\~250 随机排列，并将分配好的其中的前200组作为训练样本，后50组作为测试样本，进行实验，并且重复10次。为对比本方法的故障识别效果，分别进行EMD分解和EEMD分解，两种方法分类的效果对比情况如图5、表3所示。图5（a）～（d）分别为经过邻域粗糙集约简前的和约简后的样本数据构建的决策树模型分类效果图。表3为约简前后两种状态分别的诊断结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f690c51e3c5a11a9e7aa7c7bcf63a590e288ff4d91de79033e05a20cc9d76748.jpg",
+        "table_caption": [
+            "表1邻域粗糙集约简前后决策表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">reduction</td></tr><tr><td rowspan=\"2\">论域U</td><td colspan=\"3\">条件属性A</td><td rowspan=\"2\">决策属性D</td></tr><tr><td>al</td><td></td><td>a143</td><td>a144</td></tr><tr><td>X1</td><td>399.9463064</td><td></td><td>2.40E-05</td><td>0.000910257</td><td>1</td></tr><tr><td>X2</td><td>398.7100662</td><td>：</td><td>3.52E-05</td><td>0.032099994</td><td>1</td></tr><tr><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>X50</td><td>371.5186968</td><td>…</td><td>3.73E-05</td><td>0.003479771</td><td>1</td></tr><tr><td>X51</td><td>375.3482159</td><td>：</td><td>0.000265156</td><td>0.021435881</td><td>2</td></tr><tr><td>X52</td><td>373.7751872</td><td></td><td>2.51E-05</td><td>0.011634109</td><td>2</td></tr><tr><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>X100</td><td>346.8086636··</td><td></td><td>1.88E-05</td><td>0.004901061</td><td>2</td></tr><tr><td>X101</td><td>416.1019829</td><td>：</td><td>0.000173613</td><td>0.018313799</td><td>3</td></tr><tr><td>X102</td><td>416.5391071</td><td></td><td>3.78E-05</td><td>0.000305911</td><td>3</td></tr><tr><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>X150</td><td>395.3598894·</td><td></td><td>6.30E-05</td><td>0.007640982</td><td>3</td></tr><tr><td>X151</td><td>387.5289057</td><td></td><td>2.73E-06</td><td>0.001246808</td><td>4</td></tr><tr><td>X152</td><td>397.9059451</td><td>：</td><td>2.56E-05</td><td>0.002932133</td><td>4</td></tr><tr><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/33bfd118c3a38678278ca7499050709532cd41df652988b4780366382a21d5b1.jpg",
+        "table_caption": [
+            "Table1The decision table of before and after neighborhood rough set ",
+            "续表1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>X250 X202 X201 X200 X152 X151 X150 X102 X101 X100 X52 X51 X50 ： 区 论域U X250 .. X202 X201 X200 论域U 193.54850470.937404312 15.87132204 205.27681080.955028334 16.3452332 207.4295415 0.978091065 20.24057998 218.06565910.495887547 14.57934126 219.6973014 0.81866692 8.785644878 214.04894290.802180488 9.167763727 231.7128948 8.448036544 20.57047662 231.7418363 7.966704938 23.04836196 236.54928098.178644296 25.93239708 181.41184730.186883806 17.9426854 197.84834380.188093117 18.39926765 196.02928050.172987719 18.37092258 208.09656290.647715298 35.72159452 204.76836210.708904934 40.14830871 208.61482430.769946499 40.97690549 357.9463479 384.51924 384.907661 386.9643172 ： ： a41 条件属性 1.08E-05 · 3.32E-06 1.32E-06 6.26E-05 a143 条件属性A a113 0.000853535 0.006747133 0.000589699 0.002238621 a144 S ··· S 4 乙 ··· 乙 乙 决策属性D S… 决策属性D</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2不同重要度和 $\\lambda$ 下的分类精度对比",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a889b8eff156c0bb46a2e476a22ac93663304ff581a99a792096c3337f0acf9.jpg",
+        "table_caption": [
+            "Table2 Comparison of classification accuracy under differen "
+        ],
+        "table_footnote": [
+            "从图5（a）～（d）可知，经过EEMD分解的约简前后虽然叶子节点都是四个，构造的树的大小也相同，但是约简"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">importances and λ</td></tr><tr><td></td><td>0.1</td><td>分类精度</td><td>0.01 分类精度</td><td>0.001</td><td>分类精度</td></tr><tr><td>2</td><td>4</td><td>100</td><td>6 100</td><td>6</td><td>97.8</td></tr><tr><td>2.5</td><td>3</td><td>95.6</td><td>4 95.1</td><td>4</td><td>95.1</td></tr><tr><td>3</td><td>3</td><td>100</td><td>3 100</td><td>4</td><td>100</td></tr><tr><td>3.5</td><td>3</td><td>98</td><td>3</td><td>98 3</td><td>98</td></tr><tr><td>4</td><td>3</td><td>98</td><td>3</td><td>98</td><td>3 98</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "前用了4个属性值才将五种状态区分开来，而约简后只用了3个属性值就将所有的状态区分开。经EMD分解的约简前叶子节点是四个，而约简后叶子节点是三个，并且约简前用了4个属性值才将五种状态区分开来，而约简后只用了2个属性值就将所有的状态区分开。而从表2中可以看出经过EEMD分解的识别正确率高于EMD分解，这样的原因是EMD分解时会造成IMF分量的混叠在进行属性约简时就会将有用的混叠在一起属性值一同删除造成信息的缺失，虽然在构造决策树模型时所需要的叶子节点和条件属性值相对EEMD少，但是最终的故障识别准确率却相对较低。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f24bb503bb7c95a5dcd1bebe7c5806796dffebe9ac7fda49bdc1de75f321eef.jpg",
+        "img_caption": [
+            "图5两种方法约见前后决策树示意图",
+            "Fig.5Schematic diagram of the decision tree before and after the neighborhood rough set reduction "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b4b583d3d2ea69396de728cac6aad2cc28141325a8f552daaab7837a7e44c84.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "表3邻域粗糙集约简前后的识别准确率"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">方法</td><td colspan=\"5\">各类状态平均识别率/%</td><td rowspan=\"2\">平均识 别时间 /s</td></tr><tr><td>不对中</td><td>不平衡</td><td>碰磨</td><td>松动</td><td>正常</td></tr><tr><td>EEMD-NRS-DT</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td><td>0.952</td></tr><tr><td>EEMD-DT</td><td>97.1</td><td>91.6</td><td>95.9</td><td>99.1</td><td>100</td><td>0.972</td></tr><tr><td>EMD-DT</td><td>83.3</td><td>84.6</td><td>100</td><td>100</td><td>85.7</td><td>1.56</td></tr><tr><td>EMD-NRS-DT</td><td>72.5</td><td>74.8</td><td>54.1</td><td>57.1</td><td>48.6</td><td>1.28</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为进一步验证EEMD-NRS-DT方法针对的优越性，本文在选取不同训练样本数量情况下的BP神经网络、决策树2种模式识别方法经属性约简后的低维矢量以及原始高维特征集在BP神经网络和决策树的识别结果如表4所示。从表4可以看出：a)不论是决策树方法还是神经网络方法，特征约简后，识别效率都有了提高，而且综合确诊率并没有明显下降,原因是经过邻域粗糙集属性约简消除了冗余的特征，提升了系统的效率;b)决策树的识别准确率要高于BP神经网络，这是因为常规的BP神经网络可看做一个“黑箱”，内部结构未知，故其学习过程不能观察，输出结果难以解释，而且需要大量的参数，如网络拓扑结构、权值和阈值的初始值；其采用梯度下降法，存在易陷入局部极小值，训练时间较长，收敛速度较慢的缺陷，并且BP神经网络结构的选择至今没有一种统一而完整的指导理论，一般只能由经验选定；而决策树易于理解和解释，它对数据的准备要求不高，而其他的许多分类算法对于数据属性有一定的约束性，要对数据进行一般化处理后才可以应用，神经网络还需将离散属性转换为数值属性再进行处理，而决策树无须属性的转换。另外决策树是一个“白箱”模型，能很方便地推导相应的逻辑规则。由于决策树可以对有许多属性的数据集构造决策树，所以可以很好地扩展到大型数据库中，同时它的大小独立于数据库的大小，能够在较短的时间内对大型数据源作出可行而且很好的处理结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过对比EMD-NRS-DT和EEMD-NRS-DT的分类结果可知，运用EEMD能量矩和邻域粗糙集这一诊断模型对诊断转子系统的故障是合理的。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e86bfa6d36daedbc9bd80469454328b5897060433217919638d7d82adcc41e0b.jpg",
+        "table_caption": [
+            "┌able 3Methods of before and after the neighborhood rough set reduction of recognition accuracy ",
+            "表4不同样本数对应的识别准确率 $1 \\%$ ",
+            "Table 4Recognition accuracy of different sample numbers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">算法</td><td colspan=\"3\">训练样本数目／测试样本数目</td></tr><tr><td>100/150</td><td>150/100</td><td>200/50</td></tr><tr><td>EMD-DT</td><td>88.7</td><td>85.0</td><td>85.7</td></tr><tr><td>EMD-BP</td><td>74.5</td><td>78.9</td><td>84.7</td></tr><tr><td>EEMD-DT</td><td>91.9</td><td>93.0</td><td>96.7</td></tr><tr><td>EEMD-BP</td><td>85.3</td><td>95.5</td><td>94.8</td></tr><tr><td>EMD-NRS-DT</td><td>59.6</td><td>67.0</td><td>90.7</td></tr><tr><td>EMD-NRS-BP</td><td>13.2</td><td>12</td><td>87.3</td></tr><tr><td>EEMD-NRS-BP</td><td>98.2</td><td>98.9</td><td>99.2</td></tr><tr><td>EEMD-NRS-DT</td><td>100</td><td>100</td><td>100</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)为了能有效地识别出转子系统的故障，提高故障的识别率，本文提出了用EEMD能量矩和邻域粗糙集、决策树相结合的方法。通过实验，模拟转子系统的五种状态：正常、支座松动、动静碰摩、质量不平衡和轴系不对中，验证了该方法对转子系统振动信号进行故障诊断的合理性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)针对分解得到的IMF分量中存在大量的冗余信息，采用邻域粗糙集贪心式属性约简算法对条件属性集进行约简。最后利用约简后的属性子集建立决策树。经过训练，得到的模型的诊断准确率达到 $100 \\%$ ，达到了预期的效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)基于EEMD能量矩和邻域粗糙集相结合的属性约简故障分类模式通过转子实验台故障数据集的实验结果表明，与传统EMD邻域粗糙集的诊断方法相比，本研究所提出的诊断模式故障辨识效果更好，能为复杂旋转机械故障诊断的智能化诊断提供了一种解决思路。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]马再超，赵荣珍，杨文瑛．转子故障特征数据分类的 KPCA—BFDA 方法[J]．振动、测试与诊断，2013，33(2):192-198.(Ma Zaichao, Zhao Rongzhen,Yang Wenbiao.KPCA-BFDA method for rotor fault feature data classification [J]. Vibration,Test & Diagnosis,2O13,33(2): 192-198. )   \n[2]梁胜杰，张志华，崔立林，等．基于主成分分析与核独立成分分析的 降维方法[J]．系统工程与电子技术,2011,33(9):2144-2148.(Liang Shengjie,Zhang Zhihua,Cui Lilin,et al.Dimensionality reduction method based on principal component analysis and kernel independent component analysis[J]. Systems Engineering and Electronics,2011, 33(9):2144-2148.)   \n[3] 赵孝礼,赵荣珍.全局与局部判别信息融合的转子故障数据集降维方 法研究[J]．自动化学报，2017,43(4):560-567.(Zhao Xiaoli,Zhao Rongzhen.Research on dimensionality reduction method of rotor fault data set based on global and local discriminant information fusion [J]. Acta Automatica Sinica,2017,43(4): 560-567.)   \n[4]安若铭，索明亮．邻域粗糙集在属性约简及权重计算中的应用[J]. 计算机工程与应用,2016.52(7):160-165.(An Ruoming Suo Mingliang. Application of attributes reduction and weights calculation through neighborhood rough set [J]. Computer Engineering and Applications, 2016,52(7): 160-165.)   \n[5] 谭洋波，程进军，刘帅．基于EMD与邻域粗糙集的液体电磁阀故障 诊断[J]．计算机工程与应用，2017,53(12):255-260.(Tan Yangbo, Cheng Jinjun,Liu Shuai.Fault diagnosis of liquid solenoid valve based on EMD and neighborhood rough set [J]. Computer Engineering and Applications,2017,53(12):255-260.)   \n[6] 张敏，崔海龙，陈曦晖，等．基于IMF 能量矩和HSMM模型的滚动 轴承故障诊断方法[J].组合机床与自动化加工技术，2015(10): 101-103.(Zhang Min,Cui Hailong,Chen Yuhui,et al.Fault diagnosis method of rolling bearing based on IMF energy moment and HSMM model [J].Combined Machine Tool & Automatic Processing Technology,2015(10): 101-103.）   \n[7] Huang N E, Zheng Shen,Long S R,et al. The empirical mode decompositionandtheHilbertspectrum fornonlinearand non-stationary time series analysis [J].Proceedings Mathematical Physical& Engineering Sciences,1998,454 (1971): 903-995.   \n[8]Wu Zhaohua, Huang N E. Ensemble empirical mode decomposition: a noise-assisted data analysis method [J].Advances in Adaptive Data Analysis,2011,1(1): 1-41.   \n[9]胡爱军,马万里,唐贵基.基于集成经验模态分解和峭度准则的滚动轴 承故障特征提取方法[J]．中国电机工程学报，2012.32(11):106-111. (Hu Aijun,Ma Wanli,Tang Guiji.Fault feature extraction method of roling bearing based on integrated empirical mode decomposition and kurtosis criterion [J].Proceedings of the CSEE，2012，32 (11): 106-111. )   \n[10]郑直，姜万录，胡浩松，等．基于 EEMD 形态谱和 KFCM 聚类集成 的滚动轴承故障诊断方法研究[J].振动工程学报，2015(2):324-330. (Zheng Zhi, Jiang Wanlu,Hu Haosong，et al.Research on fault diagnosis method of rolling bearing based on EEMD morphological spectrum and KFCM clustering integration [J].Journal of Vibration Engineering,2015 (2): 324-330)   \n[11]李林峰，赵军，郭天太，等．基于EEMD、模糊熵和SVM的齿轮故障 诊断方法 [J].机械传动，2014(2):147-151.(Li Linfeng，Zhao Jun, Guo Tiantai,et al. Gear fault diagnosis method based on eemd, fuzzy entropy and SVM[J]. Mechanical Transmission,2014(2):147-151.)   \n[12] Pawlak Z. Theoretical Aspect of Reasoning About Data [M]// Rough Sets: Theoretical Aspects of Reasoning about Data. Kluwer Academic Publishers,1991.   \n[13]胡清华，于达仁，谢宗霞．基于邻域粒化和粗糙逼近的数值属性约 简[J].软件学报,2008,19(3): 640-649.(Hu Qinghua,Yu Daren,Xie Zongxia.Numerical atribute reduction based on neighborhood granularization and rough approximation [J]. Journal of Software, 2008, 19 (3): 640-649. )   \n[14]胡清华，赵辉，于达仁.基于邻域粗糙集的符号与数值属性快速约简 算法[J].模式识别与人工智能，2008，21(6):730-738.(Hu Qinghua, Zhao Hui, Yu Daren.Fast reduction algorithm for symbol and numerical properties based on neighborhood rough sets [J].Pattern Recognition & Artificial Intelligence,2008,21(6):730-738.)   \n[15] Quinlan JR.C4.5: programs for machine learning [M].San Francisco: Morgan Kaufmann Publishers Inc.,1992.   \n[16]李六杏，周黄丽．基于样本熵与决策树调节算法的轴承故障识别 [J]．安徽农业大学学报，2017，44(5):936-940.(Li Liuxing，Zhou Huangli. Bearing fault identification based on sample entropy and decision tree adjustment algorithm [J]. Journal of Anhui Agricultural University,2017,44(5): 1-5.)   \n[17]霍天龙，赵荣珍，胡宝权．基于熵带法与PSO优化的 SVM转子故障 诊断[J]．振动、测试与诊断，2011,31(3):279-284.(Huo Tianlong， Zhao Rongzhen,Hu Baoquan．SVM rotor fault diagnosis based on entropy band method and PSO optimization [J]. Journal of Vibration, Testing and Diagnosis,2011,31(3): 279-284.)   \n[18]张冬雯，王鹏，仇计清．基于邻域粗糙集和蚁群优化的属性约简算 法[J].河北科技大学学报,2011,32(5):403-408.(Zhang Dongwen, Wang Peng，Qiu Jiqing.Atribute reduction algorithm based on neighborhood rough set and ant colony optimization [J].Journal of Hebei Universityof Science and Technology,2011,32(5): 403-408.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

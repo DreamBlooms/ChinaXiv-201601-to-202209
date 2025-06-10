@@ -1,0 +1,125 @@
+# 饲粮粗蛋白质水平对"京红1号"蛋鸡产蛋后期生产性能和蛋品质的影响
+
+段国香 李美玲 张建云 计成赵丽红 马秋刚\*
+
+（中国农业大学动物科学技术学院，动物营养学国家重点实验室，北京100193）摘要：本试验旨在研究饲粮中不同粗蛋白质水平对"京红1号"蛋鸡产蛋后期生产性能和蛋品质的影响，以确定其适宜蛋白质水平。试验选用41周龄"京红1号"商品代蛋鸡720 只，按实测粗蛋白质水平（分别为 $1 4 . 0 8 \%$ 、 $1 4 . 5 3 \%$ 、 $1 4 . 9 8 \%$ 和 $1 5 . 4 4 \%$ ）随机分为I组、ⅡI组、III组和IV组，每组12个重复，每个重复15只鸡。预试期1周，正试期 22周。结果表明：1)饲粮粗蛋白质水平对蛋鸡产蛋率、平均蛋重和日产蛋量影响显著（ $. P { < } 0 . 0 5 )$ ），且其均随饲粮粗蛋白质水平升高线性增加 $( P { < } 0 . 0 5 )$ ；饲粮粗蛋白质水平对蛋鸡料蛋比影响显著( $( P { < } 0 . 0 5 )$ ，且其随粗蛋白质水平升高线性降低（ $P { < } 0 . 0 5$ ）。2）IV组蛋壳厚度显著高于I组和II组（ $( P { < } 0 . 0 5 )$ ）；IV组蛋重显著高于I组和ⅡI组（ $. P { < } 0 . 0 5 .$ ），蛋重随着饲粮粗蛋白质水平升高线性增加（ $\scriptstyle \cdot < 0 . 0 5 .$ ）。3）经济效益分析表明IV组蛋重成本最低，经济效益最佳。综合生产性能与经济效益分析，42\~64 周龄"京红1号"蛋鸡适宜粗蛋白质水平为 $1 5 . 4 4 \%$ ，适宜蛋白能量比为 $1 3 . 4 1 ~ \mathrm { g / M J }$ 。
+
+关键词：“京红1号"蛋鸡；产蛋后期；粗蛋白质；生产性能；蛋品质
+
+中图分类号：S831.5
+
+蛋白质是生命的物质基础，家禽必须通过饲粮获得足够的蛋白质以维持自身生长和生产需要。适宜的蛋白质水平有利于发挥蛋鸡最大的生产潜能，有利于控制粪氮的排泄量，并更加有助于减低饲料成本，提高经济效益。“京红1号"蛋鸡是我国多年培育推出的本土优选品种，“京红1号"商品代雏鸡可以快慢羽自别雌雄，育成鸡成活率达 $9 8 \%$ ，产蛋鸡成活率达$9 5 \%$ ，高峰期产蛋率约为 $9 3 \% { \sim } 9 6 \%$ ，产蛋率 $90 \%$ 以上可维持 $1 8 0 \mathrm { d }$ 以上，然而目前与其生产配套的饲养标准尚未完善。当前已有关于"京红1号"蛋鸡产蛋高峰期适宜粗蛋白质水平的研究[2]，“京红1号"蛋鸡产蛋后期的粗蛋白质水平适宜量的研究未见报道。本试验旨在通过探究不同粗蛋白质水平对"京红1号"蛋鸡产蛋后期生产性能和蛋品质的影响，并结合经济效益分析，确定最适宜的粗蛋白质水平，为建立完善的"京红1号"蛋鸡营养标准提供基础数据。
+
+# 1材料与方法
+
+# 1.1 试验设计与饲粮
+
+试验采用单因子随机试验设计，代谢能水平保持一致。选取健康、体重相近的41周龄"京红1号"商品代蛋鸡（均购于北京华都峪口禽业有限责任公司）720只，随机分为4组，饲粮粗蛋白质水平分别为 $1 4 . 0 8 \%$ 、 $1 4 . 5 3 \%$ 、 $1 4 . 9 8 \%$ 和 $1 5 . 4 4 \%$ ，每组12个重复，每个重复15只鸡，保证每个重复产蛋率和日产蛋量基本一致。预试期1周，正式试验由蛋鸡42周龄开始至64 周龄结束。饲粮为玉米-豆粕-棉籽粕型，参照北京华都峪口禽业有限责任公司提供的产蛋后期蛋鸡营养水平与NY/T33—2004《鸡饲养标准》配制，其组成及营养水平见表1。
+
+表1试验饲粮组成及营养水平(风干基础)  
+Table 1 Composition and nutrient levels of experimental diets (air-dry basis)   
+
+<html><body><table><tr><td>项目Items</td><td>I组Group I</td><td>Ⅱ组 Group II</td><td>IⅢ组 Group III</td><td>IV组 Group IV</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>玉米 Corn</td><td>69.60</td><td>68.50</td><td>67.40</td><td>66.30</td></tr><tr><td>豆粕 Soybean meal</td><td>11.90</td><td>13.37</td><td>14.83</td><td>16.30</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td></tr><tr><td>石粉 Limestone</td><td>8.90</td><td>8.90</td><td>8.90</td><td>8.90</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.70</td><td>1.67</td><td>1.63</td><td>1.60</td></tr><tr><td>沸石粉 Zeolite powder</td><td>0.77</td><td>0.51</td><td>0.26</td><td></td></tr><tr><td>食盐 NaCl</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>小苏打 NaHCO3</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>赖氨酸Lys</td><td>0.13</td><td>0.09</td><td>0.04</td><td></td></tr><tr><td>蛋氨酸Met</td><td>0.10</td><td>0.09</td><td>0.08</td><td>0.07</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>苏氨酸Thr</td><td>0.06</td><td>0.04</td><td>0.02</td><td></td></tr><tr><td>色氨酸Try</td><td>0.01</td><td>0.01</td><td></td><td></td></tr><tr><td>预混料 Premix1)</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.33</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养成分 Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>代谢能ME/(MJ/kg)</td><td>11.51</td><td>11.51</td><td>11.51</td><td>11.51</td></tr><tr><td>粗蛋白质 CP</td><td>14.08</td><td>14.53</td><td>14.98</td><td>15.44</td></tr><tr><td>钙Ca</td><td>3.81</td><td>3.81</td><td>3.80</td><td>3.80</td></tr><tr><td>总磷TP</td><td>0.61</td><td>0.61</td><td>0.61</td><td>0.61</td></tr><tr><td>非植酸磷 NPP</td><td>0.40</td><td>0.40</td><td>0.39</td><td>0.39</td></tr><tr><td>蛋氨酸 Met</td><td>0.31</td><td>0.31</td><td>0.31</td><td>0.31</td></tr><tr><td>赖氨酸 Lys</td><td>0.70</td><td>0.70</td><td>0.71</td><td>0.71</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per kg of diets:VA1 700 IU， $\mathrm { V B } _ { 6 } 3 ~ \mathrm { m g }$ $\mathbf { V B } _ { 1 2 } 0 . 0 2 4 \mathrm { m g }$ ，VD3 3 600 IU，VE 21 IU, $\mathrm { V K } _ { 3 } 4 . 2 \ : \mathrm { m g }$ ，核黄素 riboflavin $1 0 . 2 \mathrm { m g }$ ，叶酸 folic acid $0 . 9 \mathrm { m g }$ 泛酸钙 calcium pantothenate $1 5 \mathrm { m g }$ ，烟酸 nicotinic acid $4 5 ~ \mathrm { m g }$ ，吡哆醇pyridoxine $5 . 4 ~ \mathrm { m g }$ ，生物素 biotin 0.15mg， $\mathrm { C u } 6 . 8 \mathrm { m g }$ ，Fe $6 6 ~ \mathrm { m g }$ ， $\mathrm { Z n } 8 3 \mathrm { m g }$ ， $ { \mathrm { M n } } 8 0  { \mathrm { m g } }$ ， $\mathrm { ~ I ~ l ~ m g ~ }$ ，Se $0 . 3 ~ \mathrm { m g }$ 。
+
+2粗蛋白质为实测值，其余营养水平均为计算值。CP was a measured value,while the others were calculated values.
+
+# 1.2 饲养管理
+
+试验在中国农业大学涿州试验基地进行，鸡舍为全封闭式，纵向负压通风，夏季采用湿帘降温，环境温度控制在 $1 8 { \sim } 2 8 ~ \mathrm { ^ circ C }$ 。光照时间06:00—22：00，共 $1 6 \mathrm { h }$ ，光照强度为 $1 0 \sim$ $2 0 \mathrm { l x }$ 。饲养方式为采用3层阶梯式笼养，粉料饲喂，鸡只自由饮水和采食。
+
+# 1.3 测定指标及方法
+
+# 1.3.1 粗蛋白质水平测定
+
+不同组饲粮的粗蛋白质含量根据GB/T6432—1994用FOSS全自动型凯式定氮仪测定。
+
+# 1.3.2 生产性能
+
+以重复为单位每天记录产蛋数、蛋重，计算产蛋率、平均蛋重和日产蛋量。以重复为单位每2周结料，计算该阶段平均日采食量和料蛋比。试验初期每个重复选取1个鸡笼的 3只鸡，每月称重1次，记录鸡群体重变化情况，计算平均周体增重。
+
+# 1.3.3 蛋品质测定
+
+蛋鸡64周龄时，每组随机选取30枚鸡蛋用于蛋品质测定。使用FO241型蛋壳强度仪（The Egg Force Reader，Orka TechnologyLtd.）测定蛋壳强度；使用 TI-PVX型蛋壳厚度仪（Egg Shell Thickness Gggue，Orka Technology Ltd.）测定蛋壳厚度；使用全自动蛋品质分析仪（Egg AnalyzerTM，Orka TechnologyLtd.）测定蛋黄颜色和哈夫单位；使用电子天平（精度为 $_ { \textrm { 0 . 0 1 } \textrm { g } }$ ）称量蛋黄重、蛋壳重和蛋重。鸡蛋蛋黄、蛋清和蛋壳比率分别为蛋黄、蛋白、蛋壳与蛋重的比值。
+
+# 1.4统计分析
+
+试验数据采用SPSS 20.0软件进行一般线性模型（GLM）分析和Duncan 氏多重比较，线性及二次比较分析评价不同粗蛋白水平作用效果， $P { < } 0 . 0 5$ 为差异显著。
+
+# 2结果与分析
+
+2.1饲粮粗蛋白质水平对"京红1号"蛋鸡产蛋后期生产性能的影响
+
+由表2可知，饲粮粗蛋白质水平对蛋鸡产蛋率、平均蛋重、日产蛋量和料蛋比影响显著（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ）。I组产蛋率显著低于其他组（ $P { < } 0 . 0 5$ ）， $\mathrm { I V }$ 组产蛋率显著高于I组和ⅡI组（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5$ ），且产蛋率随着饲粮粗蛋白质水平升高线性增加（ $. P { < } 0 . 0 5 .$ ）。I组平均蛋重显著低于其他组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ），其他组间差异不显著（ $. P { > } 0 . 0 5 \$ ），且平均蛋重随着饲粮粗蛋白质水平升高线性增加（ $P { < } 0 . 0 5$ ）。I组日产蛋量显著低于其他组（ $. P { < } 0 . 0 5 .$ ），IV组日产蛋量显著高于I组和Ⅱ组 $( P { < } 0 . 0 5 )$ ，且日产蛋量随着粗蛋白质水平升高线性增加（ $( P { < } 0 . 0 5 )$ 。IV组料蛋比显著低于I组和ⅡI组（ $P { < } 0 . 0 5 )$ ， $\mathrm { I V }$ 组料蛋比最低，且料蛋比随饲粮粗蛋白质水平升高而线性降低（ $P { < } 0 . 0 5$ ）。饲粮粗蛋白质水平对蛋鸡平均日采食量和平均周体增重没有显著影响（ $. P { < } 0 . 0 5$ ），各组平均周体增重均为负值，且随着饲粮粗蛋白质水平升高线性增加（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ）。
+
+表2饲粮粗蛋白质水平对"京红1号"蛋鸡产蛋后期（42\~64周龄）生产性能的影响  
+TablefectsofietaryudeproteinevelonpefomaceofJingoglyingesduriglatestagofgproduction(42to4wksofage) $( n { = } 1 2$ 0   
+
+<html><body><table><tr><td>项目</td><td>产蛋率</td><td>平均蛋重</td><td>日产蛋量</td><td>平均日采食量</td><td>料蛋比</td><td>平均周体增重</td></tr><tr><td>Items</td><td>Laying rate/%</td><td>weight/g Average egg</td><td>Daily egg production/g</td><td>ADFI/ (g/d)</td><td>Feed/egg</td><td>Average weekly body weight gain/( g/week）</td></tr><tr><td>I组Group I</td><td>79.29c</td><td>60.01b</td><td>47.50℃</td><td>124.36</td><td>2.68a</td><td>-6.9</td></tr><tr><td>I组 Group II</td><td>82.56b</td><td>61.38a</td><td>50.48b</td><td>126.88</td><td>2.524b</td><td>-8.6</td></tr><tr><td>IⅢI组 Group III</td><td>83.97ab</td><td>61.00a</td><td>51.16ab</td><td>123.82</td><td>2.44bc</td><td>-5.7</td></tr><tr><td>IV组 Group IV</td><td>86.16a</td><td>61.49a</td><td>52.67a</td><td>121.65</td><td>2.330</td><td>-4.2</td></tr><tr><td>SEM</td><td>1.146</td><td>0.234</td><td>0.722</td><td>2.923</td><td>0.059</td><td>0.048</td></tr><tr><td>P值 P-value</td><td>0.001</td><td><0.001</td><td><0.001</td><td>0.405</td><td>0.002</td><td>0.058</td></tr><tr><td>线性P值 Linear P-value</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.231</td><td><0.001</td><td>0.037</td></tr><tr><td>二次曲线P值 Conic P-value</td><td>0.641</td><td>0.068</td><td>0.316</td><td>0.263</td><td>0.740</td><td>0.173</td></tr></table></body></html>
+
+同列数据肩标无字母或相同字母表示差异不显著（ $. { \cal P } { > } 0 . 0 5$ ），不同字母表示差异显著（ $P { < } 0 . 0 5$ ）。下表同。In the same column, values with no letter or the same letter superscripts mean no significant difference ( $P { > } 0 . 0 5 )$ ）,while with different letter superscripts meansignificant difference $\textstyle P { < } 0 . 0 5 { \mathrm { . } }$ ）.The same as below.
+
+2.2饲粮粗蛋白质水平对"京红1号"蛋鸡产蛋后期蛋品质的影响
+
+由表3可知，饲粮粗蛋白质水平对蛋壳厚度和蛋重有显著影响（ $. P { < } 0 . 0 5 .$ ）。IV组蛋壳厚度显著高于I组和II组（ $\scriptstyle \cdot { P < 0 . 0 5 } .$ ）， $\mathrm { I V }$ 组蛋重显著高于I组和ⅡI组（ $( P { < } 0 . 0 5 )$ ），蛋重随着饲粮粗蛋白质水平升高而线性增加（ $. P { < } 0 . 0 5 \$ ）。饲粮粗蛋白质水平对蛋壳强度、哈氏单位、蛋黄颜色、蛋黄、蛋白以及蛋壳比率均没有显著影响（ $P { > } 0 . 0 5$ ）。哈氏单位、蛋壳比率随饲粮粗蛋白质水平升高线性降低（ $. P { < } 0 . 0 5 \mathrm { ) }$ ）。
+
+表3饲粮粗蛋白质水平对"京红1号"蛋鸡产蛋后期（64 周龄）蛋品质的影响  
+[able3Efcts ofcrude proteinlevel oneggqualityofJinghong laying hens duringlate stageofeggproduction(64 weeks of age) $\scriptstyle ( n = 3 0 )$   
+
+<html><body><table><tr><td colspan="4"></td><td colspan="2">哈氏单 蛋黄颜</td><td colspan="2">蛋黄比率</td><td>蛋壳比率</td></tr><tr><td>项目</td><td>蛋壳厚度</td><td>蛋壳强度</td><td>位</td><td>色</td><td>蛋重</td><td>Yolk</td><td>蛋白比率</td><td>Eggshell</td></tr><tr><td>Items</td><td>Eggshell thickness/mm</td><td>Eggshell strength/ （N/kg)</td><td>Haugh unit</td><td>Yolk color</td><td>Egg weight/g</td><td>weight/egg weight/%</td><td>Albumen weight/egg weight/%</td><td>weight/egg</td></tr><tr><td>I组Group I</td><td>0.270b</td><td>36.34</td><td>63.05</td><td>5.00</td><td>61.82b</td><td>25.70</td><td>63.92</td><td>weight/% 10.39</td></tr><tr><td>Ⅱ组 Group II</td><td>0.275ab</td><td>36.74</td><td>61.77</td><td>4.93</td><td>62.52b</td><td>25.43</td><td>64.09</td><td>10.48</td></tr><tr><td>II组 Group III</td><td>0.259c</td><td>33.31</td><td>56.96</td><td>4.70</td><td>62.94ab</td><td>26.06</td><td>63.91</td><td>10.08</td></tr><tr><td>IV组 Group IV</td><td>0.280a</td><td>34.95</td><td>57.93</td><td>4.87</td><td>64.93a</td><td>25.13</td><td>64.75</td><td>10.11</td></tr><tr><td>SEM</td><td>0.003</td><td>1.558</td><td>2.175</td><td>0.168</td><td>0.781</td><td>0.353</td><td>0.083</td><td>0.296</td></tr><tr><td>P值P-value</td><td><0.001</td><td>0.413</td><td>0.051</td><td>0.626</td><td>0.035</td><td>0.297</td><td>0.292</td><td>0.051</td></tr><tr><td>线性P值 Linear</td><td>0.384</td><td>0.279</td><td>0.012</td><td>0.404</td><td>0.006</td><td>0.498</td><td>0.146</td><td>0.026</td></tr><tr><td>P-value 二次曲线P值 Conic P-value</td><td>0.080</td><td>0.694</td><td>0.421</td><td>0.481</td><td>0.401</td><td>0.347</td><td>0.345</td><td>0.815</td></tr></table></body></html>
+
+2.3饲粮粗蛋白质水平对"京红1号"蛋鸡产蛋后期经济效益的影响
+
+由表4可知，蛋重成本随饲粮粗蛋白质水平的升高而降低，IV组的蛋重成本最低，分别比I组、I组和I组降低0.81、0.44 和0.26元/kg。结合生产性能观察，IV组的产蛋率、平均蛋重和日产蛋量最佳，料蛋比最低，因此 $1 5 . 4 4 \%$ 粗蛋白质水平为生产实际最佳推荐量。
+
+表4饲粮粗蛋白质水平对"京红1号"蛋鸡产蛋后期经济效益的影响
+
+Table 4Effects of dietary crude protein level on economic cost of Jinghong laying hens during late stage of egg production   
+
+<html><body><table><tr><td>项目 Items</td><td>I组 Group I</td><td>Ⅱ组 Group II</td><td>Ⅲ组 Group III</td><td>IV组 Group IV</td></tr><tr><td>饲料成本</td><td>2369</td><td>2372</td><td>2376</td><td>2379</td></tr><tr><td>Feed cost/(元/t)</td><td></td><td></td><td></td><td></td></tr><tr><td>料蛋比 Feed/egg</td><td>2.68</td><td>2.52</td><td>2.44</td><td>2.33</td></tr><tr><td>蛋重成本</td><td>6.35</td><td>5.98</td><td>5.80</td><td>5.54</td></tr><tr><td>Egg weight cost/(元/kg)</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+3.1饲粮粗蛋白质水平对"京红1号"蛋鸡产蛋后期生产性能的影响
+
+尹清强等[3]报道， $1 2 . 3 \%$ 粗蛋白水平可满足43\~47周龄罗曼蛋鸡正常产蛋和维持体重恒定所需， $1 4 . 8 \%$ 可满足其最大产蛋所需。本试验中粗蛋白质水平为 $1 4 . 0 8 \%$ 时，尽管其氨基酸水平与其他各组保持一致，但其产蛋率、平均蛋重和日产蛋量显著低于其他组，表明饲粮粗蛋白质水平低至 $1 4 . 0 8 \%$ 水平时会对"京红1号"蛋鸡产蛋后期生产性能产生不利影响。齐明星等[4报道，饲粮粗蛋白质水平为 $1 5 . 0 0 \%$ 时，新杨绿壳蛋鸡产蛋后期（44\~56周龄）生产性能和蛋品质最佳。张利敏等[5报道，家禽对非必须氨基酸或小肽有最低需要，因此饲粮粗蛋白质水平降低到一定程度，即使添加合成氨基酸也不能改善生产性能。本试验中饲粮粗蛋白质水平分别为 $1 4 . 9 8 \%$ 和 $1 5 . 4 4 \%$ 时，蛋鸡生产性能间没有显著差异，说明 $1 4 . 9 8 \%$ 可满足"京红1号"蛋鸡产蛋后期的生产需求。但从生产实际出发， $1 5 . 4 4 \%$ 粗蛋白质组比 $1 4 . 9 8 \%$ 粗蛋白质组产蛋率提高2.19个百分点，日产蛋量提高1.51克，料蛋比降低0.11,因此本试验推荐"京红1号"蛋鸡产蛋后期的粗蛋白质水平为 $1 5 . 4 4 \%$ 。
+
+家禽"为能而食"的理论认为饲粮能量水平是影响家禽采食量的主要因素，粗蛋白质水平对采食量影响不大，本试验中也发现当能量水平保持一致时，粗蛋白质水平对蛋鸡的采食量没有显著影响。Adeyemo 等[报道，饲粮粗蛋白质水平显著影响蛋鸡饲料转化效率，随着粗蛋白质水平的上升（ $1 4 \% { \sim } 1 7 \%$ )，料蛋比显著下降，这与本试验结果一致。王永军等7报道，饲粮蛋白能量比保持在 $1 1 . 9 4 { \sim } 1 4 . 3 3 \ \mathrm { g / M J }$ 时对维持产蛋性能较为适宜，随着蛋白能量比逐渐增加，蛋鸡产蛋性能也呈明显递增变化。本试验中随着饲粮粗蛋白质水平的提高，蛋白能量比由 $1 2 . 2 3 ~ \mathrm { g / M J }$ 逐步增加至 $1 3 . 4 1 ~ \mathrm { g / M J }$ ，其产蛋率、平均蛋重和日产蛋量等生产指标均逐渐上升。因此从蛋白能量比角度来看，推荐"京红1号"蛋鸡产蛋后期适宜的蛋白能量比为13.41g/MJ。
+
+通常蛋鸡高峰期后，鸡只机体容易出现负平衡，导致体重明显减轻。尹清强等[3采用15种粗蛋白质水平的饲粮饲喂43 周龄的罗曼蛋鸡，发现蛋鸡体重随饲粮粗蛋白质水平的下降呈减轻趋势，当粗蛋白质水平在 $1 2 . 3 \%$ 以上时才能保证蛋鸡体重的恒定。本试验各组鸡只64周龄体重与42周龄体重相比均有不同程度地下降（差异不显著），且随着饲粮粗蛋白质水平的提高，体重下降程度呈线性减轻。这可能是由于高峰期后更换相对较低粗蛋白质水平的饲粮，但鸡群在整个产蛋后期仍然维持较高的产蛋水平（ $7 9 . 2 9 \% 8 6 . 1 6 \%$ ），导致蛋鸡粗蛋白质摄入相对不足，体重有所下降。本试验还发现饲粮粗蛋白质水平为 $1 5 . 5 \%$ 左右也不能维持蛋鸡体重的恒定，与尹清强等3结果不符，这可能与蛋鸡品种、试验时间长短以及生产性能不同有关。
+
+# 3.2饲粮粗蛋白质水平对"京红1号"蛋鸡产蛋后期蛋品质的影响
+
+Adeyemo 等[报道，饲粮粗蛋白质水平（ $1 4 \% - 1 7 \%$ ）对蛋壳厚度有显著影响，粗蛋白质水平最低（ $14 \%$ )时蛋壳厚度最小。在本试验中最高粗蛋白质（ $1 5 . 4 4 \%$ )组蛋壳厚度最大，但最低粗蛋白质（ $1 4 . 0 8 \%$ ）组蛋壳厚度并非最小，可见蛋壳厚度不一定随着饲粮粗蛋白质水平增加而增加，其机理还有待进一步探究。
+
+Almeida等[8报道，饲粮粗蛋白质水平（ $1 5 \%$ 和 $1 8 \%$ ）对 20\~32周龄海兰W-36蛋鸡蛋壳强度影响不显著；郭鹏报道，饲粮中不同粗蛋白质水平（ $1 5 . 5 0 \%$ 、 $1 6 . 5 0 \%$ 和 $1 7 . 2 5 \%$ ）对 28\~34周龄花凤鸡蛋壳强度没有显著影响，这与本试验研究结果一致。前期有研究报道，蛋重随着饲粮粗蛋白质水平的升高而呈线性增加[10-1]，这与本试验结果一致。Almeida 等[8]认为饲粮粗蛋白质水平提高导致蛋重增加，而哈氏单位与蛋重的负相关性导致哈氏单位下降，本试验中各组间哈氏单位差异不显著，但其与饲粮粗蛋白质水平显著线性相关，随着粗蛋白水平的提高逐渐下降。
+
+有研究报道，鸡蛋蛋黄颜色随着饲粮粗蛋白质水平的降低显著加深，并认为是玉米含量相对的升高导致饲粮中叶黄素水平增加，最终导致蛋黄颜色加深[12-13]，而本试验中蛋黄颜色不受饲粮粗蛋白质水平的影响，可能与饲粮中玉米比例变化不大有关。
+
+4结论
+
+在本试验条件下，“京红1号"蛋鸡产蛋后期(42\~64周龄)饲粮适宜粗蛋白质水平为 $1 5 . 4 4 \%$ 适宜蛋白能量比为 $1 3 . 4 1 \ \mathrm { g / M J }$ 。
+
+参考文献:
+
+[1]赵秀丽.适合中国饲养环境的优秀品种——“京红1号”、“京粉1号"成功培育[J].家禽科学,2009(5):29-31.
+
+[2]魏玉梅,王昌杰,赵丽红,等.不同蛋白水平对京红蛋鸡产蛋高峰期生产性能的影响[J].饲料 研究,2014(13):9-11,22.   
+[3]尹清强,张忠远,王富强,等.蛋白质水平和氨基酸模型对蛋鸡生产性能的影响[J].中国饲 料,1995(22):7-9.   
+[4]齐明星,丁科,李兰兰,等.饲粮不同代谢能、粗蛋白质水平对新杨绿壳蛋鸡产蛋后期生产 性能、蛋品质及血清生化指标的影响[J].动物营养学报,2017,29(4):1159-1166.   
+[5]张利敏,姚军虎,董延.产蛋鸡粗蛋白质与代谢能需要量研究进展与应用[J).饲料工 业,2012,33(3):13-16.   
+[6]ADEYEMO G O,ABIOYE S A,ADEREMI F A.The effect of varied dietary crude protein levels with balanced amino acids on performance and egg quality characteristics of layers at first laying phase[J].Food and Nutrition Sciences,2012,3(4):18501.   
+[7]王永军,田秀娥.家禽饲料蛋白能量比之探讨[J].黄牛杂志,1994(S2):81,86-88.   
+[8]ALMEIDA V R, DIAS A N,BUENO C F D,et al.Crude protein and metabolizable energy levels for layers reared in hot climates[J].Brazilian Journal of Poultry Science,2O12,14(3):203- 208.   
+[9] 郭鹏.日粮粗蛋白水平对花凤鸡产蛋性能和蛋品质的影响[D].硕士学位论文.扬州:扬州 大学,2012:18-19.   
+[10]PAVAN A C.MORI C,GARCIA E A,et al.Levels of protein and sulfur amino acids on performance,egg quality and nitrogen excretion of brown egg laying hens[J].Revista Brasileira de Zootecnia,2005,34(2):568-574.   
+[11] 任冰.理想氨基酸模式下低蛋白日粮对产蛋鸡生产性能及氨氮排放的影响[D].硕士学位 论文.杨凌:西北农林科技大学,2012:15-16.   
+[12]GUNAWARDANA P,ROLAND D A,Sr,BRYANT M M.Effect of energy and protein on performance,egg components,egg solids,egg quality,and profitsin molted Hy-Line W-36 hens[J].The Journal of Applied Poultry Research,2008,17(4):432-439.   
+[13]ROBERTS S A,XIN H,KERR B J,et al.Effects of dietary fiber and reduced crude protein on nitrogen balance and egg production in laying hens[J].Poultry Science,2007,86(8):1716-1725. Effects of Dietary Crude Protein Level on Performance and Egg Quality of Jinghong Laying Hens during Late Stage of Egg Production
+
+DUAN GuoxiangLIMeiling ZHANG Jianyun JI Cheng ZHAO LihongMA Qiugang ( State Key Laboratory of Animal Nutrition, College of Animal Science, China Agricultural University,Beijing 100193, China)
+
+Abstract: The research was conducted to investigate the effects of different dietary crude protein (CP) level on performance and egg quality of Jinghong laying hens during late stage of egg production, and to obtain optimum protein proportion for them. A total of 720 Jinghong laying hens aged at 41 weeks were randomly divided into groups I，I,II and $\mathrm { I V }$ with 12 replicates per group and 15 hens per replicate. The CP level in diets of four groups was $1 4 . 0 8 \%$ ， $1 4 . 5 3 \%$ ， $1 4 . 9 8 \%$ and $1 5 . 4 4 \%$ ,respectively. The adaptation period was 1 week,and the experimental period was 22 weeks. The results showed as follows: 1) there was significant difference in laying rate,average egg weight and daily egg production $( P { < } 0 . 0 5 )$ among different dietary CPlevels,and all of them were increased linearly with dietary CP level increasing $( P { < } 0 . 0 5 )$ ).Besides,there was significant difference in the ratio of feed to egg $( P { < } 0 . 0 5 )$ among different dietary CP levels,and the ratio of feed to egg was decreased linearly with the increase of dietary CP level $( P { < } 0 . 0 5 )$ . 2） Eggshell thickness in group $\mathrm { I V }$ was significantly higher than that of group I and group III $( P { < } 0 . 0 5 )$ ： Compared with groups I and $\mathrm { I I }$ , egg weight in group $\mathrm { ~ \textmu ~ } \mathrm { ~ U I }$ was significantly higher $( P { < } 0 . 0 5 )$ ，and egg weight was increased with the increasing of dietary CP level ( $( P { < } 0 . 0 5 )$ . 3)Economic analysis showed that the egg weight cost of group $\mathrm { ~ \textmu ~ } \mathrm { ~ U ~ }$ was the lowest and got the best economic benefit among all groups.In conclusion, $1 5 . 4 4 \%$ (CP/energy was $1 3 . 4 1 \ \mathrm { g / M J }$ ）is recommended as the best CP level for Jinghong laying hens with 42 to 64 weeks of age.
+
+Key words: Jinghong laying hens; late stage of egg production; crude protein; performance; egg quality

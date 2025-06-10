@@ -1,0 +1,368 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "氯沙坦降低小鼠呼吸机相关性肺损伤及抑制肺组织内小窝蛋白-1及NOX4的表达",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "凌旭光'，娄安妮1,李 洋1,杨仁强1,宁佐伟²,李 旭南方医科大学南方医院1急诊科，消化内科，感染内科，广东广州510515摘要：目的 利用呼吸机过度通气建立小鼠机械性肺损伤模型,以血管紧张素Ⅱ受体抑制剂氯沙坦进行干预,探讨氯沙坦对机械通气性肺损伤小鼠肺内小窝蛋白-1及氧化应激相关蛋白的调节。方法 36只雄性C57小鼠随机分为对照组、机械通气组、单纯药物对照组和治疗组，建模完成后分别检测各组小鼠急性肺损伤情况以及相关蛋白的表达和相互作用。结果 机械通气组小鼠肺损伤Smith评分3.3,明显高于对照组(0.4)和单纯药物对照组(0.3),治疗组Smith评分2.3,较机械通气组明显降低 $( P { < } 0 . 0 5 )$ ;机械通气组小鼠肺组织内小窝蛋白-1和NOX4蛋白表达明显高于对照组及单纯药物对照组( $P { < } 0 . 0 5 )$ ,荧光共染可见小窝蛋白-1及NOX4发生荧光重合，治疗组小鼠肺组织内上述蛋白表达较机械通气组明显降低( $P { < } 0 . 0 5 )$ ,荧光共染提示小窝蛋白-1及NOX4荧光重合区域较机械通气组减少。结论在机械通气诱导的小鼠急性肺损伤模型中,氯沙坦可缓解机械通气诱导的肺损伤并抑制小窝蛋白-1及NOX4的表达及相互趋近作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：氯沙坦；小窝蛋白-1;机械通气；氧化应激；急性肺损伤",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Losartan regulates oxidative stress via caveolin-1 and $\\mathbf { N O X } _ { 4 }$ in mice with ventilatorinduced lung injury ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LING Xuguangl,LOU Anni,LI Yang,YANGRenqiangl,NING Zuowei²,I Xu   \nDepartmenoeencyicinpmtoiteicinepmntoetioifgial   \nMedical University, Guangzhou 510515,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Objective Toinvestigate the efect oflosartan inregulating oxidative stress and theunderlying mechanism in mice withventilator-induced lung injury. Methods Thirty-six maleC57 mice were randomly divided intocontrol group,losartan treatment group,mechanical ventilation model group,and ventilation pluslosartan treatment group. After thecorresponding treatments, the lung injuries in each group were examined and the expressions of caveolin-1 and $\\mathrm { N O X } _ { 4 }$ in the lung tissues were detected. Results The mean Smith score of lung injury was significantlyhigher in mechanicalventilation model group (3.3) thanin thecontrol group(0.4)，and losartantreatment group (0.3); the meanscore was significantlylowered inventilation plus losartan treatment group (2.3) compared with that in the model group $_ { ( P < 0 . 0 5 ) }$ . The expressions of caveolin-1 and $\\mathsf { N O X } _ { 4 }$ were significantly higher in the model group than in the control and losartan treatment groups $( P { < } 0 . 0 5 )$ but was obviously lowered after losartan treatment $_ { ( P < 0 . 0 5 ) }$ . Co-expression of caveolin-1 and $\\mathrm { N O X } _ { 4 }$ in the lungs was observed in the model group,and was significantlydecreased after losartan treatment. Conclusions Losartan can allviate ventilator-induced lung injury in mice and inhibit the expression of caveolin-1 and $\\mathrm { N O X } _ { 4 }$ and their interaction in the lungs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: losartan; caveolin-1; oxidative stress; mechanical ventilation; acute lung injury ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "急性肺损伤(acute lunginjury,ALI)是一种以急性非心源性肺水肿和顽固性低氧血症为特征的临床综合征,其常见的发病原因包括严重感染、创伤、大量输血等，随着呼吸机辅助通气在临床上应用日益广泛，机械通气所致肺损伤(ventilator induced lung injury,VILI)逐渐增多并受到越来越多的学者的关注。机械通气所造成的应力损伤，可破坏肺组织内细胞膜结构，引起相关信号转导通路发生改变，最终导致炎症因子的大量释放和肺部病变[2]。作为细胞表面重要的信号调控平台之一，小窝及小窝蛋白-1(caveolin-1,cav-1)在机械通气所致肺应力性损伤的过程中发挥关键的调控作用[3-4]。研究证实，肾素一血管紧张素系统(reninangiotensinsystem,RAS)同样存在于心、肾、脑、肺等局部组织中并发挥多种关键作用。机械通气所引起的急性肺损伤与肺组织内局部RAS系统的激活密切相关，RAS信号通路中关键信号分子血管紧张素II(Ang-II)在该过程中扮演重要角色，当应用血管紧张素转换酶抑制剂或血管紧张素Ⅱ受体拮抗剂后，急性肺损伤将得到不同程度的缓解5，同时，相关研究表明，在急性肺损伤病变过程中，局部肾素-血管紧张素-醛固酮系统(RAAS)可显著提高组织内氧化应激水平,加重对靶器官的损害。cav-1与RAS均参与了机械通气所诱导的急性肺损伤过程[37]，但二者间是否具有相关性目前尚无相关报道。本研究拟通过检测呼吸机性肺损伤小鼠肺组织中cav-1及氧化应激相关蛋白NOX4的表达等，探索二者在机械通气肺损伤中的相互关系以及对肺组织内氧化应激的影响，为机械通气所导致的肺损伤的预防和治疗提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1实验动物",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "健康雄性SPF级C57小鼠36只，由南方医科大学实验动物中心提供,体质量 $2 0 { \\sim } 2 5 ~ \\mathrm { g } _ { \\odot }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "氯沙坦购自广州默沙东制药有限公司公司；小鼠源性cav-1单抗、兔源性 $\\mathrm { N O X } _ { 4 }$ 单抗均购自美国Abcam公司；过氧化氢检测试剂盒、488荧光标记山羊抗小鼠抗体、Cy3荧光标记山羊抗兔抗体购自碧云天生物技术公司；蛋白裂解液(RIPA)购自Life生物技术公司;BCA法蛋白检测试剂盒购自Thermo公司;DAB显色液购自中杉金桥生物技术公司，牛血清白蛋白(BSA)购自广州斯佳生物技术公司。PVDF膜购自Life生物技术公司；DAPI购自美国Abcam公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3实验仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "呼吸机为上海奥尔科特生物科技有限公司生产的ALC-V85型小动物呼吸机;PowerPacBasicX型蛋白电泳仪购自Bio-Rad公司(美国伯乐公司);荧光显微镜为OLYMPUS公司U-LS30-3型;酶标仪为BioTek公司Synergy型；远红外成像扫描仪为Odyssey公司LI-COR型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4实验分组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "36只成年雄性C57小鼠随机分为对照组、单纯氯沙坦给药组(losartan,LST)机械通气模型组(mechanicalventilation,MV)和治疗组 $\\mathrm { ( M V + L S T ) } 4$ 组，每组9只。单纯氯沙坦给药组及治疗组小鼠按 $1 0 ~ \\mathrm { m g / k g }$ 预先行氯沙坦灌胃1周。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5模型建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "急性肺损伤模型组小鼠、氯沙坦治疗组小鼠按照$2 0 \\mathrm { m L } / \\mathrm { k g }$ 设定通气时潮气量，吸呼比1：2，呼吸频率130次 $/ \\mathrm { m i n }$ ，吹入气体为空气(氧浓度 $21 \\%$ )。机械通气前以$0 . 5 \\%$ 戊巴比妥钠完全麻醉小鼠，将小鼠取仰卧位固定，切开颈部皮肤并暴露气管，以 $2 2 \\mathrm { G } ( 7 \\# ) \\mathrm { Y }$ 型留置针连接呼吸机,针头穿刺进入气管后，将尖端推送至距气管分叉 $2 { \\sim } 3 ~ \\mathrm { m m }$ 处，固定留置针，开启呼吸机行机械通气 $2  { \\mathrm { h _ { \\circ } } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6 标本制备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "机械通气完成后，脱白法同期处死各组小鼠，开胸完整分离肺组织,夹闭右侧主支气管，行左肺肺泡灌洗，$2 \\mathrm { m L } \\times 3$ 次,回收灌洗液大于 $5 ~ \\mathrm { m L } / \\$ 只， $4 \\mathrm { { ^ \\circ C } }$ 环境 $4 0 0 0 ~ \\mathrm { g }$ 离心 $1 5 ~ \\mathrm { m i n }$ ，取上清液以BCA法检测蛋白浓度。将右肺上叶浸入 $10 \\%$ 中性福尔马林液体中固定，常规石蜡包埋后，制备 $4 \\mu \\mathrm { m }$ 厚组织切片行HE染色及免疫组织化学染色。右肺中、下叶制备蛋白匀浆备行组织蛋白及其他相关检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7蛋白免疫印迹实验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将制备好的肺组织蛋白匀浆于 $4 \\mathrm { { ^ { \\circ } C } }$ 环境 $1 2 \\ : 0 0 0 \\ : g$ 离心 $1 5 \\mathrm { m i n }$ ,取上清检测浓度，加入蛋白上样缓冲液，进行凝胶电泳。电泳结束后根据分子标记切取目的蛋白所在区域凝胶，湿转法将蛋白转移至PVDF膜， $5 \\%$ 牛血清白蛋白(BSA)封闭后，依次于 $4 ^ { \\circ } \\mathrm { C }$ 环境一抗孵育过夜、TBST溶液洗涤、室温荧光二抗封闭 $^ { \\textrm { 1 h } }$ TBST溶液再次洗涤，远红外扫描仪检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.8HE染色及Smith评分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小鼠肺组织石蜡切片常规脱蜡、水化，依次以苏木素、伊红进行染色后，以梯度酒精脱水、二甲苯透明、中性树胶封片。正置高倍显微镜下拍照，以Smith法进行急性肺损伤评分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.9免疫组织化学染色",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小鼠肺组织石蜡切片常规脱蜡、水化后，依次行微波热抗原修复、灭活内源性过氧化物酶 $\\ 、 4 ^ { \\circ } \\mathrm { C }$ 环境一抗孵育过夜，一抗孵育完成后，磷酸盐缓冲液(PBS)充分洗片2次， $3 7 ~ \\mathrm { ^ { \\circ } C }$ 环境二抗孵育 $3 0 \\mathrm { m i n }$ ，再次以磷酸盐缓冲液洗片2次，DAB染液显色，以苏木素复染细胞核后，脱水、封片，正置高倍显微镜下拍照。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.10组织免疫荧光共染",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小鼠肺组织石蜡切片彻底脱蜡、水化后，行微波热抗原修复，同时滴加小鼠源性cav-1一抗和兔源性$\\mathrm { N O X } _ { 4 }$ 一抗， $4 ^ { \\circ } \\mathrm { C }$ 孵育过夜，孵育完成后，以磷酸盐缓冲液(PBS)充分洗片2次，同时滴加2种与一抗相对应的荧光二抗， $3 7 ~ \\mathrm { ^ { \\circ } C }$ 环境避光孵育 $3 0 ~ \\mathrm { m i n }$ 后，加入三合一DAPI染核封片剂，立即于荧光显微镜下观察并拍照，采用DPmanager软件进行图像合成处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.11 统计学分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选用SPSS13.0统计学软件进行数据分析，计量数据以均数或(均数 $\\stackrel { \\cdot } { \\pm }$ 标准差)表示；均数间比较采用单因素方差分析，各组间均数两两比较采用SNK- $\\cdot q$ 检验，以$P { < } 0 . 0 5$ 表示差异有统计学意义。等级资料先以秩和检验分析，各组间数据两两比较采用方差分析，以 $P { < } 0 . 0 5$ 表示差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1肺组织病理改变及肺损伤评分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HE染色光学显微镜下观察，对照组及单纯氯沙坦给药组小鼠各级支气管上皮和肺组织内结构完整，肺泡间隔正常，未见明显炎性细胞浸润。机械通气组小鼠肺内可见大量炎性细胞浸润和弥漫性肺间质水肿，肺泡间隔明显增厚，部分肺泡破裂融合，肺泡腔内有血性液体且有炎性细胞浸润。治疗组小鼠肺内可见部分炎性细胞浸润，肺泡间隔有一定程度增厚，但较机械通气组小鼠组明显减轻(图1)。采用Smith评分法评估各组小鼠肺损伤程度，结果显示，相较于对照组(0.4)及单纯氯沙坦给药组(0.3)，机械通气组小鼠肺损伤程度明显加重(3.3, $P { < } 0 . 0 1 \\$ )，治疗组小鼠肺损伤程度较机械通气组明显减轻 $( 2 . 3 \\ v s \\ 3 . 3 , P { < } 0 . 0 1 )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7844a162f261358c4ca3094cf5d75daf25961a0ed2a8945a24b2cacda60f5796.jpg",
+        "img_caption": [
+            "图1小鼠肺组织HE染色 Fig.1 HE staining of lung tissue of the mice (Original magnification: $\\times 2 0 0$ ).A:Control group; B:Mechanical ventilation $^ { 2 \\mathrm { ~ h ~ } }$ group; C: Losartan group; $D$ ：Ventilation $^ +$ Losartan group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2免疫荧光双染 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各组小鼠肺组织免疫荧光染色结果显示，相较于对照组及单纯氯沙坦给药组小鼠，机械通气组小鼠肺组织内NOX4蛋白(绿色荧光标记)与cav-1蛋白(红色荧光标记)间重叠明显增多，提示 $\\mathrm { N O X } _ { 4 }$ 蛋白在小窝内发生明显富集，而氯沙坦治疗组小鼠肺组织内，cav-1蛋白荧光亮度减弱，且 $\\mathrm { N O X } _ { 4 }$ 蛋白与cav-1蛋白的重叠较机械通气组小鼠明显减少，即提示 $\\mathrm { N O X } _ { 4 }$ 蛋白在小窝内富集程度较小(图2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3免疫组化检测cav-1及NOX4含量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "检测肺组织内cav-1及氧化应激相关蛋白NOX4在不同组小鼠肺组织内表达情况，结果显示，机械通气组小鼠肺组织内cav-1及NOX4蛋白表达较对照组明显升高，而采用氯沙坦治疗组小鼠肺内，机械通气后cav-1及$\\mathrm { N O X } _ { 4 }$ 蛋白表达较机械通气组小鼠明显减少(图3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4Westernblot检测结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蛋白免疫印迹实验检测不同组小鼠肺组织内cav-1、NOX4蛋白表达情况。结果显示：cav-1在机械通气组小鼠肺组织内表达明显升高，而采用LST治疗后，机械通气所引起的cav-1蛋白表达明显受到抑制；对氧化应激相关蛋白 $\\mathrm { N O X } _ { 4 }$ 的检测显示，机械通气组小鼠肺组织内NOX4蛋白表达较对照组明显升高，LST治疗组小鼠肺组织内 $\\mathrm { N O X } _ { 4 }$ 蛋白表达较机械通气组小鼠明显减少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ALI是临床高病死率的急危重症，其发病机制为众多学者广泛关注。20世纪50年代,Palade[8和Yamada[9]首先报道了存在于大多数动物细胞质膜表面的细颈瓶样凹陷结构一一小窝。随着相关研究的不断深入，研究人员发现小窝不仅可参与胞内外物质转运，也是细胞表面信号富集和转导的关键结构，实验发现在急性肺损伤过程中，肺组织内cav-1的含量发生明显改变，但cav-1在急性肺损伤时表达上调还是抑制，目前仍存在争议，cav-1在急性肺损伤病变过程中的具体作用亦尚未明确。因此，我们尝试利用呼吸机过度通气建立小鼠急性机械性肺损伤模型并以蛋白免疫印迹实验和免疫组织化学染色两种方式分析急性机械性肺损伤小鼠肺组织内cav-1的含量变化，实验发现呼吸机过度通气所引起的急性肺损伤小鼠肺组织内cav-1的表达明显升高，提示cav-1参与了小鼠急性机械性肺损伤病变过程。高表达的cav-1在肺损伤病变中的作用机制目前仍无定论：部分研究发现cav-1可通过由中性粒细胞所介导的炎症反应参与急性肺损伤的发生和发展3，亦有研究证实机械通气过程中cav-1在肺组织内的高表达可发挥明显的抗炎作用。为进一步探索高表达的cav-1在急性机械性肺损伤过程中的作用，我们以cav-1为信号转导枢纽，通过寻找并分析急性机械性肺损伤过程中与其相关蛋白的情况，进而评估cav-1在急性机械性肺损伤过程中的作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/59e9098ff4268ef2eff8a78af5fe522826443c2a803167baa8cddfe950b1759a.jpg",
+        "img_caption": [
+            "图2小鼠肺组织免疫荧光双染 Fig.2 Immunofluorescence double staining of the lung tissue of the mice for cav-1 (Red) and $\\mathrm { N O X } _ { 4 }$ (Green) (Original magnification: $\\times 2 0 0$ ） A,E,I M: Control group; B,F,J,N: Mechanical ventilation (MV) $^ { 2 \\mathrm { h } }$ group; C,G, K,O: Losartan (LST) group;D,H,L, P: MV+LST group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4fb2250a008da3c4df96b3f98fa29974d1e5ce574253d13a32b55d629e5a51cf.jpg",
+        "img_caption": [
+            "图3小鼠肺组织内cav-1蛋白免疫组织化学染色 Fig.3 Immunohistochemistryfor cav-1 expresson of the lung tissue of the mice (Original magnification: $\\times 4 0 0 \\mathrm { \\Omega }$ ).A:Control group;B:Mechanical ventilation $^ { 2 \\mathrm { ~ h ~ } }$ group;C:Losartan group; D: $\\mathbf { M } \\mathbf  \\} _ { + \\mathrm { L S T } }$ group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3ae2da62e090bde92c0f0f77d390278c146f382e824109bd1eb112ce1e3c524.jpg",
+        "img_caption": [
+            "图4小鼠肺组织内NOX4蛋白免疫组织化学染色 Fig.4Immunohistochemistry for $\\mathrm { N O X } _ { 4 }$ expression in mouse lung tissue (Original magnification: $\\times 4 0 0 ^ { \\cdot }$ ） $A$ :Control group;B:Mechanical ventilation $^ { 2 \\mathrm { ~ h ~ } }$ group; C: Losartan group; $D$ : Mechanical ventilation group+Losartan group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/34140b382d8496a47787f16b1691f38bbdbcf3e51fde0dcd22b1d5262817255b.jpg",
+        "img_caption": [
+            "图5Westernblot检测肺组织cav- $1 \\mathrm { { \\cdot N O X } _ { 4 } }$ Fig.5Expression of cav-1 and $\\mathrm { N O X } _ { 4 }$ in lung tissue detected by Western blotting. $^ { * } P { < } 0 . 0 1$ us control group; $^ { \\# } P <$ 0.01vs MV group.N:Control group;MV: Mechanical ventilation $^ { 2 \\mathrm { ~ h ~ } }$ group; LST: Losartan group; $\\mathbf { M } \\mathbf { V } + \\mathbf { L } S \\mathbf { T }$ Mechanical ventilation group+Losartan group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究证实，活性氧族(reactive oxygenspecies,ROS)参与了ALI早期的肺毛细血管内皮细胞、肺泡上皮细胞损伤的过程[10]。ROS的过度蓄积不仅引起脂质过氧化反应、细胞内蛋白和酶变性及DNA氧化损伤，亦可激活多条信号通路,间接加重组织、细胞损伤[]。尼克酰胺腺嘌呤二核苷酸磷酸(NADPH)氧化酶是众多ROS合成酶中的主要成员，其相关组分NOX4在ALI的发病过程中扮演重要角色[10.12]。通过蛋白免疫印迹实验和免疫组织化学染色实验，我们发现在小鼠急性呼吸机相关肺损伤病变过程中，小鼠肺组织内NOX4蛋白表达明显升高，提示急性机械性肺损伤过程中小鼠肺组织内可能发生了氧化应激损伤，而通过组织免疫荧光双染检测,我们进一步发现,在呼吸机相关肺损伤的小鼠肺组织内，cav-1及氧化应激相关蛋白 $\\mathrm { N O X } _ { 4 }$ 不仅均表达上调，并且在细胞内发生相互趋近，提示在急性机械性肺损伤过程中，cav-1与 $\\mathrm { N O X } _ { 4 }$ 可能发生了相互作用并与急性肺损伤发生发展密切相关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近年来，RAS在急性肺损伤中的作用引起了广泛关注，在急性肺损伤病变过程中，局部肾素-血管紧张素-醛固酮系统(RAAS)可引起组织内氧化应激水平升高从而加对重靶器官的损害[。研究证实，机械通气所引起的急性肺损伤与RAS系统的激活密切相关，在应用血管紧张素转换酶抑制剂或血管紧张素Ⅱ受体拮抗剂后，过度通气所造成的急性肺损伤将得到不同程度的缓解[5]。前述实验中相关结果提示cav-1可能通过调节细胞内氧化应激水平参与急性机械性肺损伤病变过程，因此，我们将事先给予血管紧张素Ⅱ受体拮抗剂氯沙坦灌胃处理的小鼠，与未经特殊处理的小鼠同时以呼吸机过度通气进行建模并检测各组小鼠肺内cav-1蛋白及$\\mathrm { N O X } _ { 4 }$ 蛋白的表达情况，从而探究急性呼吸机相关肺损伤过程中小鼠肺组织内RAS系统与cav-1的关系。实验结果发现，氯沙坦可明显抑制过度通气所引起的cav-1及 $\\mathrm { N O X } _ { 4 }$ 蛋白的上调,提示RAS系统可能通过调节cav-1及氧化应激相关蛋白 $\\mathrm { N O X } _ { 4 }$ 的表达参与了急性呼吸机相关性肺损伤的病理过程。由于相关研究证实，$\\mathrm { N O X } _ { 4 }$ 在小窝内的富集可进一步开放下游氧化应激通路，并造成细胞内氧代谢产物的大量生成和释放，加重细胞和组织的炎症[5]。因此我们认为：在机械通气所造成的急性肺损伤过程中，小窝可能扮演了富集 $\\mathrm { N O X } _ { 4 }$ 蛋白并进一步开放其下游信号通路的作用,而这种作用可被血管紧张素Ⅱ受体拮抗剂所阻遏。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于cav-1在急性肺损伤中的作用机制，目前学术界尚存较多争议[13-15]。由于本研究在建立过度通气肺损伤小鼠模型时，通气时间选用 $2 \\mathrm { h }$ ，因此相关实验数据仅能反映极早期肺损伤时的情况，由于生物自身调节的广泛存在，相关的实验手段尚需进一步完善，有关机械通气造成的急性肺损伤的病变机制还需要不断探索，氧化应激通路下游炎症相关蛋白的表达亦有待于通过完善相关实验进一步检测；同时，血管紧张素Ⅱ受体抑制剂对cav-1的抑制作用机制尚不明确，仍需进行深人研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，早期机械通气可引起小鼠肺组织内小窝蛋白cav-1表达升高并可能引起NOX4等氧化应激相关蛋白的向小窝内富集，进而激活细胞内氧化应激通路，促进下游炎症因子的表达和释放，导致细胞和肺组织的损伤。这一途径可被血管紧张素Ⅱ受体抑制剂所阻遏，因此，预防性应用血管紧张素Ⅱ受体抑制剂，对于控制早期机械通气所引起的急性肺损伤具有一定意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Dushianthan A,Grocott MP, Postle AD,et al.Acute respiratory distress syndrome and acute lung injury[J].Postgrad Med J, 2011, 87(131): 612-22.   \n[2]Yang SH,Lin JC,Wu SY,et al. Membrane translocation of IL-33 receptor in ventilator induced lung injury[J].PLoS One,2015,10 (3): e0121391.   \n[3]Jin Y,Lee SJ, Minshal RD,et al.Caveolin-1: a critical regulatorof lung injury[J].Am JPhysiol Lung Cell Mol Physiol,2011,300(2): L151-60.   \n[4]Hu G, Ye RD, Dinauer MC,et al. Neutrophil caveolin-1 expression contributes to mechanism of lung inflammation and injury[J].Am J Physiol Lung Cell Mol Physiol,2008,294(2):L178-86.   \n[5]Jerng JS,Hsu YC,Wu HD,et al.Role of the renin-angiotensin system in ventilator-induced lung injury:an in vivo study ina rat model[J]. Thorax,2007,62(6): 527-35.   \n[6]Neyrinck AP,Matthay MA. The role of angiotensin-converting enzyme inhibition in endotoxin-induced lung injury in rats[J]. Crit Care Med,2009,37(2): 776-7.   \n[7]Hoetzel A，Schmidt R,Vallbracht S,et al.Carbon monoxide prevents ventilator-induced lung injury via caveolin-1[J]. Crit Care Med,2009,37(5): 1708-15.   \n[8]Ge PD.Fine structure of blood capillaries[J].JAppl Physiol, 1953, 24(1): 1424-36.   \n[9]Yamada E.The fine structure of the gall bladder epithelium of the mouse[J].JBiophys Biochem Cytol,195,1(5): 445-58.   \n[10]Tasaka S,Amaya F, Hashimoto S,et al. Roles of oxidants and redox signaling in the pathogenesis of acute respiratory distress syndrome [J].AntioxidRedox Signal,2008,10(4):739-53.   \n[11] Brandes RP,Kreuzer J. Vascular NADPH oxidases:molecular mechanisms of activation[J].Cardiovasc Res,20o5,65(1):16-27.   \n[12]卢 婷,朱泽湘.NADPH氧化酶NOX酶家族与急性肺损伤/急性呼吸 窘迫综合征研究进展[J].内科急危重症杂志,2013,19(3):176-8.   \n[13]Dudek SM,Garcia JG.Cytoskeletal regulation of pulmonary vascular permeability[J]. JAppl Physiol, 2001,91(4): 1487-500.   \n[14] Kiemer AK,Weber NC,Furst R,et al.Inhibition of p38 MAPK activation via induction of MKP-1:atrial natriuretic peptide reduces TNF-alpha-induced actin polymerization and endothelial permeability[J]. Circ Res,2002,90(8): 874-81.   \n[15]Lv XJ,Li YY, Zhang YJ,et al. Over-expression of caveolin-1 aggravate LPS-induced inflammatory response in AT-1 cells via up-regulation of cPLA2/p38 MAPK[J]. Inflamm Res,2010,59(7): 531-41. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(编辑：吴锦雅）",
+        "page_idx": 5
+    }
+]

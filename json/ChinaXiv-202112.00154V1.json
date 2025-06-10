@@ -1,0 +1,357 @@
+[
+    {
+        "type": "text",
+        "text": "CBL-CIPK信号系统参与小桐子抗冷性形成的生物信息学分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王海波 $^ { 1 , 2 ^ { * } }$ ，李芙蓉1，杨金翠1，郭俊云1(1．曲靖师范学院 生物资源与食品工程学院，云南 曲靖 655011;2．曲靖师范学院 云南省高校云贵高原动植物遗传多样性及生态适应性进化重点实验室，云南 曲靖 655011)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：类钙调磷酸酶B亚基蛋白（calcineurin B-like calcium sensor，CBL）属 $\\mathrm { C a } ^ { 2 + }$ 结合蛋白，通过与类钙调磷酸酶 B亚基互作蛋白激酶（calcineurin B-like calcium sensor interacting protein kinase，CIPK）互作介导 $\\mathrm { C a } ^ { 2 + }$ 信号转导过程。CBL-CIPK信号系统参与了植物对多种逆境胁迫的响应过程。为深入探讨小桐子抗冷性的机制，该研究基于序列比对的方法，在全基因组水平对小桐子CBL与CIPK基因家族进行鉴定，并对其系统进化、基因结构、表达特性及功能互作进行了解析。结果表明：（1）在小桐子基因组中共鉴定到8个CBL基因与18个CIPK基因，CBL与CIPK蛋白长度分别在211\\~257aa与422\\~484 aa之间，等电点分别在 $4 . 6 5 { \\sim } 5 . 0 8$ 与 $6 . 2 0 { \\sim } 9 . 2 6$ 之间。（2）另外，CBL 基因家族都包含8\\~10个外显子，而CIPK 基因家族分为显著的1\\~2个外显子（11个基因）与 $1 2 { \\sim } 1 5$ 个外显子（7个基因）两类。（3）多序列比对显示，小桐子CBL蛋白都鉴定到1个由14个氨基酸残基组成的非典型EF-hand基序与3个取代程度不同的典型EF-hand基序，而CIPK蛋白都包含N端激酶结构域与C端自抑制FISL/NAF结构域。（4）染色体定位显示，26个小桐子CBL与CIPK基因不均匀地分布于9条染色体上。（5）转录组数据分析表明，大部分CBL与CIPK基因在小桐子叶片、根及种子中都有高水平表达，其中，JcCIPK14与JcCIPK18在低温处理时上调表达量达到了极显著水平（ $_ { , P < 0 . 0 1 } )$ ，参与小桐子的抗冷性过程。以上结果为开展小桐子CBL与CIPK基因的功能鉴定与低温信号转导机制研究提供了借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：小桐子，蛋白激酶,CBL-CIPK，基因家族，表达分析，抗冷性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bioinformatics analysis of CBL-CIPK signaling system participating in the formation of cold resistance in Jatropha curcas ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Haibo1,2\\*,LI Furong1, YANG Jincui1, GUO Junyun1 (1. College of Biological Resource and Food Engineering, Qujing Normal University,Qujing 6550l1, Yunnan, China; 2. Key Laboratory of Yunnan Province Universities ofthe Diversity and Ecological Adaptive Evolution for Animals and Plants on YunGui Plateau, Qujing Normal University,Qujing 655011, Yunnan, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Calcineurin B-like calcium sensor (CBL） is a $\\mathrm { C a } ^ { 2 + }$ -binding protein that mediates the $\\mathrm { C a } ^ { 2 + }$ signal transduction process by interacting with Calcineurin B-like calcium sensor interacting protein kinase (CIPK). CBL-CIPK signaling system is involved in the response of plants to a variety of stressconditions.For insight into the chilling mechanism of CBL and CIPK in Jatropha curcas,the $C B L$ and CIPK gene families were identified from J.curcas based on the BLAST method,and then the phylogenetic relationship,gene structure, expression profile,and functional interaction were analyzed. The results were as follows: (1) A total of $8 ~ C B L$ and $1 8 ~ C I P K$ genes were identified from J.curcas genome. The protein length of CBLs and CIPKs ranged from 211 to 257 aa and 422 to 484 aa,respectively,and the putative isoelectric point ranged from 4.65 to 5.08 and 6.20 to 9.26, respectively. (2) Furthermore,the CBL family genes contained 8-10 exons,while the CIPK family genes were divided into 1-2 exons (11 genes) and 12-15 exons (7 genes). (3) Sequence alignment revealed that CBL proteins identified1 atypical EF-hand motif consisting of 14 amino acid residues and 3 typical EF-hand motifs with different substitution, while CIPK proteins contained kinase domains in N-terminaland self-inhibiting FISL/NAF domains in C-terminal. (4) Chromosome mapping analysis indicated that 26 J.curcas CBL and CIPK genes were distributed with diferent densities on 9 chromosomes.(5) Transcriptome data analysis showed that most of the CBL and CIPK genes were highly expressed in J.curcas leaves,roots,and seeds. Among them, the up-regulated expression of JcCIPK14 and JcCIPK18 reached significant levels under cold stress,which was involved in the cold resistance of J.curcas.The results of this study might lay a significant foundation for further studies on the gene function and chilling signaling transduction mechanism of CBL and CIPK gene families in J.curcas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Jatropha curcas, protein kinase, CBL-CIPK, gene family,expresson analysis, cold resistance ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "蔗糖非发酵-1型相关蛋白激酶SnRK（sucrose non-fermenting-l related protein kinase）是广泛存在于植物中的丝氨酸/苏氨酸（Ser/Thr)类蛋白激酶家族。根据氨基酸序列聚类结果，SnRK家族分为SnRK1、SnRK2、SnRK3三个亚家族。SnRK3又称为类钙调磷酸酶B亚基互作蛋白激酶CIPK（calcineurin B-likecalcium sensorinteracting protein kinase）（Shi etal.,1999; Kim et al.,200）或盐过敏感蛋白SOS（salt overly sensitive）(Ji etal.,2013)，类钙调磷酸酶B亚基蛋白CBL（calcineurin B-likecalcium sensor）是CIPK的直接上游互作蛋白，也能够感知胞内 $\\mathrm { C a } ^ { 2 + }$ 信号，共同组成 $\\mathrm { C a } ^ { 2 + }$ -CBL-CIPK级联信号系统，参与植物渗透、高盐、低温、高温等非生物逆境胁迫的响应过程(Lietal.,2009;Sanyal etal.,2016)。作为 $\\mathrm { C a } ^ { 2 + }$ 受体蛋白，CBL都含有4个保守性不同的“螺旋-环-螺旋\"(helix-loop-helix,HLH)EF手型（EF-hand)基序，是 $\\mathrm { C a } ^ { 2 + }$ 结合所必需的(Weinl&Kudla,2009)，同时，部分CBL蛋白N端还具有脂类修饰的N-豆蔻酰化（N-Myristoylation）或N-棕榈酰化（N-Palmitoylation）位点，辅助该蛋白的跨膜转运(Batistic et al.,2008)。CIPK蛋白N端激酶结构域中都包含1个激活环（activation-loop）基序，位于-DFG-与-APE-序列之间，其中，3个高度保守的Ser、Thr、Tyr残基是激酶活性发挥所必须的(Guo et al.,2001)，而C端负责调控激酶结构域的催化活性，其中，由21或24个氨基酸残基组成的FISL（Phe-Ile-Ser-Leu）/NAF（Asn-Ala-Phe）结构域是CIPK与CBL结合的核心序列(Du etal.,2011)，正常情况下，FISL/NAF结构域与N端激酶结构域互作从而具有自抑制作用，当结合 $\\mathrm { C a } ^ { 2 + }$ 而被激活的CBL蛋白与FISL/NAF结构域结合后，可以解除FISL/NAF结构域对激酶结构区的抑制作用，从而表现出激酶活性(Akaboshi et al.,2008)。另外，C端还包含1个由37个氨基酸残基组成的PPI（protein phosphataseinteraction）结构域，决定与CIPK结合的蛋白磷酸酶PP2C（protein phosphatase 2C）的种类，也竞争性将CBL蛋白脱离FISL/NAF结构域，使CIPK回到自抑制状态(Ohta etal.,2003)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，已经对多种植物在全基因组水平进行了CBL与CIPK基因的鉴定，CBL基因家族包括：拟南芥（Arabidopsis thaliana）10个(Kolukisaoglu et al.,2004)、水稻（Oryza sativa）10个(Kolukisaoglu et al.,2004)、玉米（Zea mays）10个(李利斌等,2010)、杨树（Populus trichocarpa）10个(Zhang et al.,2008)、小麦（Triticumaestivum）7个(Sun et al.,2015)、油菜（Brassica napus）7个(Zhang et al.,2014)、茄子（Solanum melongena)5个(Liet al.,2016)等；CIPK基因家族包括：拟南芥（Arabidopsis thaliana）25个(Kolukisaoglu et al.,2004)、水稻（Oryza sativa） 33个(Kolukisaoglu et al.,2004; Kanwar et al.,2014)、玉米（Zea mays）43个(Chen et al.,2011)、杨树（Populus trichocarpa）27个(Yu et al.,2007)、小麦（Triticum aestivum）20个(Sun et al.,2015)、大豆（Glycine max） 52个(Zhu et al.,2016)、油菜（Brassica napus） 23个(Zhang et al.,2014)、茄子（Solanummelongena）15个(Li et al.,2016)、苹果（Malus domestica）34个(Niu et al.,2018)、葡萄（Vitis vinifera）16个(路志浩等,2017)、番茄(Lycopersicon esculentum)22个(王傲雪和刘思源,2018)等。小桐子(Jatropha curcas）属大戟科（Euphorbiaceae）麻疯树属（Jatropha Linnaeus）多年生落叶小型乔木，原产中南美洲地区(Lin etal.,2004)。作为重要的木本油料植物，小桐子种子含油量高达 $3 5 \\% { \\sim } 6 0 \\%$ ，适应各种柴油发动机，且关键技术指标达到了欧IV标准，具有广阔的开发利用前景(Makkar&Becker,2009)。目前，对于小桐子CBL与CIPK家族的基因鉴定及互作分析还未见报道。本研究基于小桐子基因组信息(Sato etal.,2011)，利用生物信息学方法鉴定小桐子CBL与CIPK基因，并对其理化性质、基因结构、蛋白基序、系统进化、低温表达及功能互作进行了分析，以期为研究小桐子CBL与CIPK基因家族的抗逆信号转导机制奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1小桐子CBL与CIPK基因家族的鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据Kolukisaoglu et al.(2004)、Zhang et al.（2008)、Yu et al.(2007)鉴定的模式植物拟南芥、水稻及小桐子近科物种杨树的CBL与CIPK基因家族序列，从TAIR数据库（htps://www.arabidopsis.org/）下载拟南芥10个CBL基因与25个CIPK基因的蛋白序列，从PlantBiology数据库（htp:/rice.plantbiology.msu.edu/）下载水稻10个CBL基因与33个CIPK基因的蛋白序列，从Phytozome数据库（https://phytozome.jgi.doe.gov/pz/portal.html）下载杨树10个CBL基因与27个CIPK基因的蛋白质序列，通过ClustalX进行多重序列比对，利用Hmmer3.0软件的Hmmbuild程序将比对文件生成CBL与CIPK结构域的隐马可夫HMM模型。同时，分别从GenBank（http://www.ncbi.nlm.nih.gov/genome/915/）与 Kazusa（http://www.kazusa.or.jp/jatropha/）(Sato et al.,2011)下载小桐子最新注释蛋白质数据库，利用NCBI的Makeblastdb程序将该数据库本地化。利用NCBIBlast程序对小桐子蛋白质数据库进行本地BlastP相似性比对（阈值 $_ { \\mathrm { E < l e - } 1 0 }$ ，序列相似性 $5 5 0 \\%$ )，得到初步筛选的小桐子CBL与CIPK蛋白质序列。通过序列自对比（self-blast）去除重复序列，将非冗余的候选序列利用Pfam（http:/pfam.sanger.ac.uk/）与CDD（https://ww.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi）在线工具分析CBL的EF-hand基序与CIPK的蛋白激酶结构域（protein kinase domain）做进一步筛选，得到小桐子CBL与CIPK家族蛋白序列。同时下载其对应的基因序列与mRNA序列用于后续基因结构分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2小桐子CBL与CIPK基因家族的序列分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用 ExPaSy 提供的在线工具 ProtParam（htp://web.expasy.org/protparam/）对小桐子CBL 与 CIPK 进行氨基酸数目、理论分子量（Mw）、等电点（pI）等基本参数的分析。将鉴定的小桐子CBL与CIPK 蛋白序列与拟南芥、水稻及杨树的CBL与CIPK蛋白序列利用ClustalX 进行序列相似性比对，然后用MEGA6.0软件通过邻接法（NJ）构建系统进化树，并采用自展法（bootstrap）进行检验。同时，利用GenDOC 软件对 ClustalX 比对结果进行CBL与CIPK 蛋白保守结构域分析。另外，通过CDS序列（coding sequence）与基因序列比对以确定CBL 与 CIPK基因内含子与外显子的结构,并利用GSDS(gene structure display server，http://gsds.cbi.pku.edu.cn/）绘制基因结构图。另外，染色体定位以Wu et al(2015)构建的小桐子遗传连锁图谱进行锚定，并通过 MapChart（version2.1）绘制基因定位图。利用 STRING（htp:/string-db.org）进行 CBL与CIPK蛋白的信号互作网络分析（设置可信度大于0.7）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3小桐子CBL与CIPK基因家族的表达分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从 GenBank 的 SRA数据库下载小桐子不同器官的 Illumina 高通量测序数据（叶片 SRR1639660、根SRR1639659、种子SRR1639661)。通过 Bowtie2与 Samtools工具将鉴定到的小桐子CBL与CIPK家族基因与测序数据进行比对，得到各CBL与CIPK基因的表达reads 数据，之后通过Cuflinks程序计算每个基因的表达量 FPKM（fragments per kilobase per million）值，进行以2为底的对数转化，并设置以基因与器官同时进行聚类，聚类方法选择层次聚类法（hierarchicalclustering)。另外，以我们前期小桐子转录组(Wanget al.,2014)与数字基因表达谱（digital gene expresson，DGE）（Wang et al.,2013)数据为基础，提取对照与$1 2 ^ { \\circ } \\mathrm { C }$ 低温处理12、24、 $4 8 \\mathrm { { h } }$ 的 CBL 与 CIPK基因的原始 Clean Taq 数据，通过 TPM（transcript per millionclean tags）获得标准化的基因表达量(Thoen et al.,2008;Morrissy et al.,2009)，得到小桐子CBL与CIPK家族基因在低温处理下的差异表达数据。利用R软件（version3.4.1）的 gplots 与 pheatmap 函数进行聚类分析热图（heatmap）的绘制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1小桐子CBL与CIPK的鉴定及序列特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过同源序列比对检索，在小桐子基因组中共鉴定到8个CBL基因（JcCBL1\\~JcCBL8）与18个CIPK基因（JcCIPK1\\~JcCIPK18）（表1)。通过 ExPASy工具对小桐子CBL与CIPK家族基因进行理化参数的分析，结果表明，CBL家族基因长度分布在2172bp（JcCBL7） $^ { \\sim 9 }$ 344 bp（JcCBL2）之间，蛋白质序列长度分布在211aa（JcCBL8） ${ \\sim } 2 5 7$ aa（JcCBL7）之间，等电点全部显强酸性，分布在4.59（JcCBL5） ${ \\sim } 5 . 0 8$ （JcCBL4）之间。另外，CIPK家族基因长度分布在1522 bp（JcCIPK16）\\~9348bp（JcCIPK9）之间，蛋白质序列长度分布在422aa（JcCIPK16） ${ \\sim } 4 8 4$ aa（JcCIPK2）之间，除JcCIPK9、JcCIPK14、JcCIPK15及JcCIPK17，等电点全部呈强碱性，分布在8.03（JcCIPK2） ${ \\sim } 9 . 2 6$ （JcCIPK4）之间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d25546e702b6a2ca964162b78714e2428d357c1ff22e6c336bbfda8656e1f24e.jpg",
+        "table_caption": [
+            "表1小桐子CBL与CIPK基因家族的序列特征",
+            "Table1 Sequence characteristic of Jatropha curcas CBL and CIPK gene familier "
+        ],
+        "table_footnote": [
+            "注：A基因编号来自GenBank 小桐子基因组数据库。B通过 ExPASy工具计算蛋白质等电点。C基于Wuet al.构建的小桐子遗 传连锁图谱进行染色体定位(Wuetal.,2015)。 Note: AGene IDsare availableintheNational Center for Biotechnology Information (NCBI) Jatrophacurcas (Annotation Realease 101）database(htp://www.ncbi.nlm.nih.gov/).BProteincharacteristicsof pI(isoelectricpoint)waspredictedusingtheExPASy onlineservice(htp://web.expasyorg/protparam/).Chromosomallocalizationwascompleted basedonthelinkage mapconstructed by $\\mathrm { W u }$ et al.(2015). "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Table1Sequence characteristc of Jatropha curcas CBL and CiPK gene famies</td></tr><tr><td>基因名称 Gene name</td><td>基因编号A Gene IDA</td><td>基因长度 Gene length</td><td>mRNA长度 mRNA length</td><td>氨基酸数目 Amino acid</td><td>等电点 pIB</td><td>外显子数目 Exon number</td><td>染色体定位C ChromosomeC</td></tr><tr><td></td><td></td><td>(bp)</td><td>(bp)</td><td>(aa)</td><td></td><td></td><td></td></tr><tr><td>JcCBL1</td><td>105636225</td><td>7 811</td><td>1 246</td><td>226</td><td>4.65</td><td>10</td><td>6</td></tr><tr><td>JcCBL2</td><td>105642436</td><td>9 344</td><td>1453</td><td>230</td><td>4.72</td><td>10</td><td>3</td></tr><tr><td>JcCBL3</td><td>105641144</td><td>5327</td><td>1 216</td><td>213</td><td>4.66</td><td>9</td><td>3</td></tr><tr><td>JcCBL4</td><td>105628645</td><td>4 765</td><td>2 256</td><td>222</td><td>5.08</td><td>9</td><td>8</td></tr><tr><td>JcCBL5</td><td>105638156</td><td>2 501</td><td>1320</td><td>249</td><td>4.59</td><td>9</td><td>11</td></tr><tr><td>JcCBL6</td><td>105645647</td><td>6 427</td><td>1210</td><td>212</td><td>4.94</td><td>10</td><td>9</td></tr><tr><td>JcCBL7</td><td>105631691</td><td>2 172</td><td>1197</td><td>257</td><td>4.99</td><td>9</td><td>2</td></tr><tr><td>JcCBL8</td><td>105646026</td><td>2 295</td><td>1 456</td><td>211</td><td>4.73</td><td>8</td><td>9</td></tr><tr><td>JcCIPK1</td><td>105648050</td><td>3 049</td><td>2 148</td><td>465</td><td>8.89</td><td>2</td><td>6</td></tr><tr><td>JcCIPK2</td><td>105649679</td><td>4015</td><td>1968 2 170</td><td>484 458</td><td>8.03</td><td>2</td><td>3</td></tr><tr><td>JcCIPK3</td><td>105639024</td><td>2810</td><td>1 740</td><td>445</td><td>8.92 9.26</td><td>2</td><td>4</td></tr><tr><td>JcCIPK4</td><td>105649678</td><td>1 740</td><td>2 076</td><td>435</td><td>9.22</td><td>1</td><td>3</td></tr><tr><td>JcCIPK5</td><td>105633501</td><td>2 076</td><td>2168</td><td>453</td><td>9.13</td><td>1</td><td>11</td></tr><tr><td>JcCIPK6</td><td>105649201</td><td>3104</td><td>2 346</td><td>459</td><td>8.98</td><td>2</td><td>10</td></tr><tr><td>JcCIPK7</td><td>105634022</td><td>6365</td><td>2006</td><td>447</td><td>8.60</td><td>15</td><td>3</td></tr><tr><td>JcCIPK8</td><td>105637561</td><td>2 006</td><td>2 323</td><td>451</td><td>6.56</td><td>1</td><td>11</td></tr><tr><td>JcCIPK9</td><td>105637170</td><td>9 348</td><td>1 947</td><td>449</td><td>9.06</td><td>15</td><td>8</td></tr><tr><td>JcCIPK10</td><td>105630316</td><td>1 947</td><td>1 995</td><td>443</td><td>8.65</td><td>1</td><td>2</td></tr><tr><td>JcCIPK11</td><td>105642786</td><td>5136</td><td>1 907</td><td>448</td><td>8.83</td><td>15</td><td>8</td></tr><tr><td>JcCIPK12</td><td>105639377</td><td>8199</td><td>1 737</td><td>425</td><td>8.76</td><td>15</td><td>11</td></tr><tr><td>JcCIPK13</td><td>105638989</td><td>1737</td><td>2117</td><td>446</td><td>6.54</td><td>1</td><td>4</td></tr><tr><td>JcCIPK14</td><td>105630750</td><td>5880</td><td>1931</td><td>440</td><td>7.22</td><td>14</td><td>4</td></tr><tr><td>JcCIPK15</td><td>105643632</td><td>4 159</td><td>1 522</td><td>422</td><td>8.78</td><td>12 1</td><td>1</td></tr><tr><td>JcCIPK16</td><td>105648048 105628484</td><td>1 522</td><td>2 249</td><td>464</td><td>6.20</td><td>15</td><td>6 11</td></tr><tr><td>JcCIPK17</td><td></td><td>4 503</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>JcCIPK18</td><td>105632073</td><td>1880</td><td>1880</td><td>442</td><td>8.74</td><td>1</td><td>1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2小桐子CBL与CIPK基因的系统进化与基因结构",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过MEGA分别构建小桐子与拟南芥、水稻、杨树的CBL与CIPK基因家族系统进化树（图1），结果表明，CBL基因家族聚类为I、II、II、IV四个亚族，小桐子对应基因数量分别为3（JcCBL4、JcCBL6、JcCBL8）、1（JcCBL3）、2（JcCBL5、JcCBL7）、2（JcCBL1、JcCBL2）（图1:A），与小桐子CBL基因家族单独聚类结果吻合（图2:A)，其中，JcCBL3在单独聚类中与JcCBL1、JcCBL2距离较近，而在多物种共聚类中则属单独ⅡI亚族，与JcCBL3基因结构（9个外显子）不同于JcCBL1、JcCBL2（10个外显子）一致。另外，CIPK基因家族共聚类为六个亚族，小桐子对应基因数量分别为3、1、5、2、2、5（图1:B），也与小桐子CIPK基因家族单独聚类结果吻合（图2:B)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合小桐子CBL与CIPK基因家族的聚类结果，利用GSDS工具分析其基因结构，结果显示，小桐子CBL与CIPK基因家族的亚族聚类特性与基因结构吻合。小桐子8个CBL基因的外显子数量为 $8 { \\sim } 1 0$ 个 (表1)，且都包含5'-UTR与3'-UTR区域，其中，亚族III的JcCBL5（2501bp）与JcCBL7（2172 bp）都包含9个外显子，且基因都较短，而亚族IV的JcCBL1（7811bp）与JcCBL2（9344 bp）都包含10个外显子，且基因都较长（图2:A）。根据文献报道的其他物种CIPK基因家族的聚类结果与基因结构关系，小桐子CIPK基因家族也都包含5'-UTR与3'-UTR区域，18个基因成员根据基因结构分为两大类，11个JcCIPK基因包含1\\~2个外显子，其中，JcCIPK4、JcCIPK5、JcCIPK8、JcCIPK10、JcCIPK13、JcCIPK16、JcCIPK18仅包含1个外显子，而JcCIPK1、JcCIPK2、JcCIPK3、JcCIPK6包含2个外显子。另外，7个JcCIPK基因包含12\\~15个外显子，其中，JcCIPK7、JcCIPK9、JcCIPK11、JcCIPK12、JcCIPK17都包含15个外显子，而JcCIPK14与JcCIPK15分别包含14个与12个外显子（图2:B)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A 27 oCBL5 B 100 PtCIPK OsCBL8 OsCIPK31 CA PtCIPK10 OsCIPK9 AtCIPK9 2 JeCIPK18 JcCIPK11 AtCIPK7 s 1 CIPK13 VI   \n83 99 PMCBI4 I AtCIPK14 AtC JcCIPK CIP N IPKS CIP AtCIPK4 1199 7100 司 L J01 C SCIPK2 g K23 CIPK24 L K CIPK25 PtCBL7 AtCBL5 PtCIP JeCIPK16 5 < < tC CIPK8 CIPK14 JcCBL8 AtCIPK22 PK21 46 T S 8 T Je SCIPK8 100 95 AsCBL1 OsCIPK29 OsCIPK30 88 93 11 100 OsCIPK24 AtCIPK24 94 JcCBL3 AtCBL9 II OsCIPK22 PtCIPK18 737 23 JcCIPK12 PtCIPK26 47100 PtCBL1 PtCIPK17 1 73 9% PtCIPK27 PtCBL9 PtCIPK19 7 AtCIPK21 100 OsCBL10 JcCIPK2 JcCIPK17 OsCBL9 AtCIPK12 93 21 94 OsCIPK1 100 43 99 ·JcCBL7 PtCBL6 PtCBL10 III II AtCIPK19 AtCIPK1898 AtCIPK13 17 98 52 100 96 99 AtCIPK1 OsCIPK17 OsCIPK21 V 66 AtCBL10 OsCIPK19 10 87 -AtCIPK17 JcCBL5 OsCIPK12 山 100 PtCIPK1 60 OsCBL6 OsCBL2 OsCBL3 OsCIPK25 O sCIPK13 PtC K2 14 9487 H 7 0 30 90 PtC AtC JcCIPK15 sCIPK16 CIPK16 100 AtCBL7 PtC K3 D 公 U 三 TP CIPK23 64 ACBLS PtCBL3 AtCBL3 IV JcC AtC L P 10 S C IPK 2 PrPS T CIPK10 1 £5 原 机 武 PtCIPK S PtCIPK7 2 PtCIPK6 CIPK20 20 IPKS25 P 110 IV 30 PtCBL2 JcCIPK6 OsCIPK15 JcCIPK5 PtCIPK9 8 24 Os OsCIPK14 AtCBL2 41 PtCBL5   \n0.250.200.15 0.10 0.05 0.00 III .CBL 基因家族;B.CIPK 基因家族。下同。   \n. CBL gene family; B.CIPK gene family. The same below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Phylogenetic relationship ofJatropha curcas with Arabidopsis thaliana, Oryzasativa,and Populus trichocarpa CBL and CIPK gene families ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd5cc25e64ef4c2521e0cc5ab89372777c1a42286ce55af3395ae1e2487b3831.jpg",
+        "img_caption": [
+            "图2小桐子CBL与CIPK基因家族的基因结构",
+            "Fig.2 Gene structure features of CBL and CIPK families in Jatropha curcas "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3小桐子CBL与CIPK氨基酸序列及结构域分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "文献报道，CBL蛋白含有4个保守性不同的EF-hand手型基序，螺旋-环-螺旋作为EF-hand的典型结构，中间环（包含12个氨基酸残基，共有序列为-DKDGDGKIDFEE-）的1（X）、3（Y）、5（Z）、7（-Y）、9（-X）、12（-Z）位氨基酸残基较为保守，被认为是CBL蛋白结合 $\\mathrm { C a } ^ { 2 + } ,$ 所必需的（图3:A)。通过分析8个小桐子CBL蛋白的氨基酸序列显示，第一个EF-hand（EF1）都具有14个氨基酸残基，不是典型的EF-hand结构，而第2\\~4个EF-hand（EF2\\~4）具有典型的12个氨基酸残基，其中，除1（Asp）和12（Glu）位氨基酸绝对保守外，其他氨基酸位（3、5、7、9位）都发生了部分取代，且EF4、EF3、EF2的氨基酸取代率逐渐增加。另外，第3位Asp（D）在EF2中被Lys（K）取代，在EF3中被Lys（K）与Arg（R）取代，在EF4中被Lys（K）与Asn（N）取代；第5位Asp（D）在EF2中被Asn（N）与Lys（K）取代，在EF3中被Gln（Q）与Asn（N）取代；第7位Lys（K）在EF2中被Val（V）与Ile（I）取代，在EF3中被Phe（F）与Try（Y）取代；第9位Asp（D）在EF2与EF3中都被Glu（E）取代（图3:B)。以上结果显示，EF-hand2\\~4结构中都被相同类型的氨基酸取代，保证了EF-hand结合 $\\mathrm { \\cdot } \\mathrm { C a } ^ { 2 + }$ 的能力与多样性。另外，根据N端区域的长度，小桐子CBL家族的JcCBL1、JcCBL2、JcCBL3、JcCBL4、JcCBL6及JcCBL8包含16\\~34 aa较短的N端序列，且在JcCBL3与JcCBL8N端鉴定到-MGCXXSK/T-的豆蔻酰化序列，以加强CBL蛋白与膜的结合，而JcCBL5与JcCBL7则包含较长的N端序列（图3:A）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植物特有的CIPK蛋白也称为SnRK3，该激酶与酵母SNF1、哺乳动物AMPK同源，都具有N端激酶结构域，其中内部激活环（activation-loop）基序发挥核心作用。在小桐子18个CIPK蛋白的N-端都鉴定到被-DFG-与-APE-序列（图3:C下划线表示）间隔的激活环基序（图3:C)，且都包含保守的Ser、Thr及Tyr氨基酸残基（图3:C箭头所示)。另外，在C端都鉴定到CIPK蛋白21aa自抑制基序FISL/NAF的保守-NAF-序列（图3：D下划线表示)，以保证CIPK蛋白正常处于自抑制状态。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CBLN CN-Terminal EF1 EF2 EF3 EF4JcCBL1 1 -MVQFLDGLKQFCAILVNCCDADLYKPPRG---LEDPE 34JcCBL2 1 -MLQCIEG---FIASLLRCCDLDLYKQSRG---LEDPE 31JcCBL3 1 -MGCVGSKVARQFPG---HEDPI 19JcCBL4 1 -MSVFSWTIKKDCFCIKRTKYTPG---YEEPT 28JcCBL6 1 -MRAF- -KGCFSLSQSRKS-G---REDPI 22JcCBL8 1 -MGCLCTKQRIKH- --KDPT 16JcCBL5 1 MDFFNNSSR-SSSLTLGEKICAALFPLAALIEVLIYAVTNCFDCQPRIQKIS-YRLTDLA 58JcCBL7 1 MDSTGSSLQGSSYLTIHARLCSVFKAIG---EAVISSFVGCFIFYTSTPKLHCYTFNDLN 57 AEF1 EF2 EF3 EF4X Y Z -Y-X XYZ-Y-X -Z X Y / -Y-X -Z XYZ-Y-X -ZJcCBL1 58 SSAVIDDGLINKEE 95 DIKHNGILDFEE 132 DLKQQGFIERQE 176 DTKHDGKIDKEEJcCBL2 62 SSAVIDDGLINKEE 99 DTKHNGILGFEE 136 DLK QGFIERQE 180 DTKHDGKIDKEEJcCBL3 43 SSSVVDDGLINKEE 80 DVKRKGVIDFGD 117 DLDNTGFIERQE 161 DANNDGKIDKSEJcCBL4 52 SNSIFKDGLIHKEE 89 KRNGVIEFGE 126 DLRQTGCIERDE 170 DTKGDGRIDPEEJcCBL6 46 SSSIIKDNLIHKEE 83 DVKRNGVIEFGE 120 DLRDTGYIEREE 164 DLNGDGKIDOEEJcCBL8 40 SSSLEDDEEISKEE 77 DSKQDGVIEFEE 114 DIRQTGFIEHQE 158 DTKRDGKIDLEEJcCBL5 82 TSIIDDGLIHKEE 119 DEKKNGVIEFDE 156 DLRQTGFIEREE 200 DADKDGRISKEEJcCBL7 81 SSSIIDDGE IHKEE 118 DE E FEE 164 DLRQTGYIEKEE 208 VDKDGKINKEE B激酶结构域 连接结构域 调节结构域N ← Kinasedomain Junction domain Regulatorydomain C  \nCIPK Activation loop FISL/NAF PPIC ............ D  \nJcCIPK13 154 DFGLSAV QIRTD GLLHTLCGTPAYVAPE 297NLNAFDIIS-FSSGLDLSGLFI  \nJcCIPK16 156 DFGLSALRD OIPPD GLLHTLCGTPAYVAPE 296 RI NAFDIIS -FSSGFDLSCLFN  \nJcCIPK2 156 DFGLSAVSD QIROD GLEHTECGTPAYVAPE 330 SLNAFDIIS -FSPGFDLSGLFE  \nJcCIPK1 150 DFGLSALAE-SKROD GLLHTTCGTPAYVAPE 314 NLNAFDIIS SAGFDLSGLFE  \nJcCIPK3 150 DFGLSALAE-SKHOD GLLHTTCGTPAYVAPE 314 ILNAFDIIS SAGFDLSGLFE  \nJcCIPK6 150 DFGLSALVE-SNCQD GLLHTTCGTPAYVAPE 314 S NAFDIIS SNGFDLSGEFT  \nJcCIPK4 150 DFGLSALFDQSRKOD GLLHTTCGTPAYVAPE 313 NFNAFDIIS SKGFDLSGLFE  \nJcCIPK8 149 DFGLSALPE QLRND GLLHTOCGTPAYVAPE 304 FFNAFEFISSMSSGFDLSSLFE  \nJcCIPK10 160 DFGLSALPE QNRND GLLHTOCGTPAYVAPE 312 INAFEEVSAMSSGFDLSSLFE  \nJcCIPK5 156 DFGLSAFSE-HLKOD GLLHTTCGTPAYVAPE 305 NAFHIIS LSEGFDLSPLFE  \nJcCIPK18 178 DFGLSALAEIONDS- -CVLQTACGTPAFTAPE 321 GVNAFDIIS LSSGLDLSGLFE  \nJcCIPK7 155 DFGLSALP-QQVRE- DGLLHTTCGTPNYVAPE 319 TMNAFELIS-TSQGLNLSSLFE  \nJcCIPK11 154 DFGLSAIMSQQ QG GLLHTTCGTPNYVAPE 312 SMNAFELIS-KTQGFSLENLFE  \nJcCIPK9 152 DFGLSALS-QQVREELFLTPKHIWQDDGLLHTTCGTPNYVAPE 322 AMNAFELIS-MSKGLNLGNLFD  \nJcCIPK12 152 DFGLSALPQKGVG- LLHTTCGTPNYVAPE 312 IMNAFEMII -LSOGLNLSALFD  \nJcCIPK14 148 DFGLSAAPEQGVS- LLRTTCGTPNYVAPE 307 NLNAFDLII-LSOGLNLATLFD  \nJcCIPK15 153 DFGLSALPKHFRD DGLLHTTCGSPNYVAPE 310 LINAFQLIG-MSSCLDLSGEFE  \nJcCIPK17 149 DFGLSALRKH- -DDILTTACGSPCYVAPE 306 E INAFQLIA-MSDDLDLSGLFE→ 个 →A.小桐子CBL蛋白N端结构域，下划线表示JCBL3与JcCBL8的N端豆蔻酰化结构域;B.小桐子CBL蛋白4个EF手型基序序列比对（EF1\\~4）;C.小桐子CIPK蛋白N端激酶结构域中的功能激活环，箭头表示保守的Ser、Thr、Tyr残基;D.小桐子CIPK蛋白FISL/NAF结构域。  \nA.N-terminal domainofJ.curcas CBL proteins,N-Myristoylation domainsofJcCBL3and JcCBL8 wereunderlined; B.SequencealignmentofCBLEF-hand (EF1-4)inJ.curcas;C.ActivationloopwithinN-terminal kinasedomaininJ.curcas CIPKprotein waspresented,conservedaminoacidresiduesofSer,Thr,andTyrwere marked byarrows;D.FISL/NAFdomainofJ.curcas CIPKproteins.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图3小桐子CBL与CIPK结构域序列比对",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Sequence alignmentof Jatropha curcas CBL and CIPK domains ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4小桐子CBL与CIPK基因家族的染色体定位",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "依据Wu et al.(Wu et al.,2015)构建的小桐子高密度遗传连锁图谱，在染色体水平定位小桐子CBL与CIPK基因，结果表明，除5号与7号染色体没有基因分布外，26个小桐子CBL与CIPK基因不均匀地分布于9条染色体上，其中，3号与11号染色体上的基因数量最多5个，而10号染色体上的基因数量最少，仅包含1个JcCIPK6基因，进一步鉴定到9号染色体上CBL基因家族的串联复制基因JcCBL6/JcCBL8，以及3号、4号、6号染色体上CIPK基因家族的串联复制基因JcCIPK2IJcCIPK4、JcCIPK3/JcCIPK13、JcCIPK1IJcCIPK16（图4)，推测该类基因发生了基因的倍增事件。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "竖线表示基因串联复制；刻度表示厘摩;LG表示染色体。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The vertical line indicates tandem duplication; The scale is in centiMorgans (cM); LG means chromosome ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e57b0da6c3e614c9d105c855431552c24b8d8c597384fbbf5606765463c97d92.jpg",
+        "img_caption": [
+            "图4小桐子CBL与CIPK基因家族的染色体定位",
+            "Fig.4 Chromosomal localization of Jatropha curcas CBL and CIPK gene families "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5小桐子CBL与CIPK基因的差异表达分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于GenBank小桐子转录组数据，通过Cufflinks程序得到小桐子CBL与CIPK基因家族26个基因的器官表达数据（图5）。结果表明，除JcCBL6与JcCBL8在种子中没有表达外，其他24个小桐子CBL与CIPK基因在叶片、根及种子中都有表达。其中,JcCBL2、JcCIPK1、JcCIPK3、JcCIPK5、JcCIPK7、JcCIPK8、JcCIPK13、JcCIPK18在三种器官中表达量都较高（ $\\mathrm { \\langle } \\log _ { 2 } \\mathrm { F P K M } { > } 3 . 5 \\mathrm { \\ , }$ ，其中，JcCIPK5在三种器官中表达量都最高，推测在小桐子 $\\mathrm { C a } ^ { 2 + }$ -CBL-CIPK信号转导系统中处于核心地位。其它基因存在器官表达特异性，JcCIPK4在叶片中表达量较高，而在种子中表达量较低，JcCBL7只在根中表达，而在叶片与种子中表达量甚微，而JcCBL4在叶片与根中表达量较高，而在种子中基本没有表达（图5）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过DGE数据分析得到9个小桐子CBL与CIPK家族基因在低温处理条件下的表达数据（图6)。与对照相比，JcCIPK14与JcCIPK18在 $1 2 ^ { \\circ } \\mathrm { C }$ 低温处理 $1 2 \\mathrm { { h } }$ 、 $2 4 \\mathrm { h }$ 、48h时上调表达量都达到了极显著水平( ${ \\cdot } P { < } 0 . 0 1 )$ ，与小桐子的抗冷性直接相关。另外，JcCIPK4与JcCIPK16随着低温处理时间的延长，表达量也在逐渐提高，在低温处理48h时，分别较对照上调表达9.92倍（ $_ { \\cdot } P { < } 0 . 0 1$ ）与2.10倍。同时，JcCIPK1与JcCIPK2是响应低温较快的基因，都在低温处理12h就达到最大表达量，分别较对照上调表达5.21倍与2.87倍，之后表达量逐渐下调 (图6)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "器官Organs叶片Leaf 根Root 种子Seed8.87 7.78 8.48 JcCIPK57.25 6.92 6.79 JcCIPK13 6 eeerc5.90 7.74 5.40 JcCIPK1842.56 3.10 3.50 JcCBL33.25 3.11 3.50 JcCIPK12 23.01 4.05 3.19 JcCIPK14 03.44 4.27 3.85 JcCBL53.02 4.20 3.73 JcCIPK9 -24.50 1.56 3.10 JcCIPK17 -44.77 4.12 1.51 JcCIPK114.37 3.74 3.22 JcCIPK156.40 5.34 4.54 JcCIPK86.15 6.02 3.30 JcCIPK164.44 4.41 4.70 JcCBL2L 3.86 4.78 5.22 JcCIPK75.55 4.13 3.49 JcCIPK25.46 4.08 4.74 JcCIPK15.12 3.92 4.58 JcCIPK37.54 1.88 -4.27 JcCIPK4-0.41 1.16 -3.57 JcCBL71.13 -1.02 2.45 JcCIPK10-0.06 0.42 0.00 JcCBL60.18 -0.86 0.00 JcCBL83.67 2.74 -0.36 JcCBL41.39 2.97 2.84 JcCBL10.01 2.07 0.90 JcCIPK6",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "处理时间Treatment times (h) 12 24 48 7.07 7.22 5.39 JcCIPK14 10 10.12 7.00 9.91 JcCIPK18 deeeeeae 8 2.23 2.79 3.31 JcCIPK16 -0.41 -0.73 0.20 JcCIPK5 6 -0.26 0.08 -1.12 JcCIPK8 4 2.38 1.56 1.32 JcCIPK1 0.22 0.70 1.07 JcCIPK4 2 1.52 0.05 1.24 JcCIPK2 1.06 -0.28 1.05 JcCIPK13 0 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig. 6 Expression profiles of Jatropha curcas CBL and CIPK gene families under chilling stress ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6小桐子CBL与CIPK蛋白的互作网络解析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基于小桐子、拟南芥CBL与CIPK同源蛋白，通过STRING10.5进行蛋白互作网络分析，以解析其参与的信号转导途径以及可能的潜在功能。结果表明，在可信度为0.7的情况下，除JcCIPK1、JcCIPK3、JcCIPK4、JcCIPK6外，另外8个JcCBLs与14个JcCIPKs都参与了典型的CBL-CIPK信号转导途径，且表现出一对多与多对一的互作模式。其中，JcCBL1/2、JcCBL3分别可以与12个、10个JcCIPKs互作结合，推测两者在$\\mathrm { C a } ^ { 2 + } .$ -CBL-CIPK信号网络中可能发挥关键作用，而JcCBL6只能与JcCIPK7、JcCIPK16互作结合。同时，JcCIPK7可以与所有8个小桐子JcCBLs结合，而JcCIPK17与JcCIPK18仅可与JcCBL1/2结合（图7）。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e5b55f07570087c0c4b7f53999967bec5ec122a30669e25c72dd4dfe6421948.jpg",
+        "img_caption": [
+            "",
+            "图7小桐子与拟南芥同源CBL与CIPK蛋白的互作网络分析 Fig.7 Interaction network analysis of CBL and CIPK proteins identified in Jatropha curcas and homologous proteins in Arabidopsis thaliana "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "传递类 $\\mathrm { C a } ^ { 2 + }$ 结合蛋白CBL通过解码与感知 $\\mathrm { C a } ^ { 2 + }$ 浓度与分布的变化(Scrase-Field&Knight,2003;Batistic&Kudla,2012)，并特异结合下游CIPK蛋白共同组成 $\\mathrm { C a } ^ { 2 + }$ -CBL-CIPK信号系统参与小桐子的抗冷性过程(Sanders et al.,2002)。本研究在小桐子全基因组共鉴定到8个CBL 基因与18个CIPK基因，其蛋白长度、基因结构都较为保守，尤其CBL与CIPK蛋白的等电点都具有显著的家族特异性，CBL蛋白等电点都呈酸性，而CIPK蛋白等电点大部分都呈碱性（表1)，即生理pH环境条件下，这两类互作蛋白带相反的电荷，预示静电库伦力在CBL蛋白结合CIPK蛋白FISL/NAF 结构域中可能发挥重要的作用。同时，酵母双杂交实验表明,小桐子与拟南芥CBL与CIPK互作结合还表现出交叉性与偏好性(Kim et al.,2000; Guo etal,2001)，如小桐子JcCBL1/2可以与12个JcCIPKs 结合，而 JcCIPK7可以与所有鉴定的小桐子JcCBLs 结合，另外，JcCIPK17与JcCIPK18偏好结合JcCBL1/2，而JcCIPK8/10 则偏好结合JcCBL4/8（图7）。与本研究结果类似,拟南芥 AtCIPK7/17偏好结合 AtCBL9;AtCIPK24 偏好结合 AtCBL4;AtCIPK9 偏好结合 AtCBL2(Kim etal.,2000)。研究表明，这种特异性与偏好性，主要由CBL 蛋白的 EF 手型基序决定的 $\\mathrm { C a } ^ { 2 + }$ 结合能力(Nagae et al.,2003; Sanchez-Barrena et al.,2005)、CIPK 蛋白的FISL/NAF 结构域及其两侧序列结构差异性决定(Kim et al.,2000; Guo et al.,2001; Halfter et al.,2000)。与典型的12 个氨基酸残基 EF 手型基序不同，8个小桐子CBL 蛋白的第一个EF 手型基序都由14个氨基酸残基组成，较其它三个EF手型基序都变异较大，且Asp（D）多被 Ser（S）取代（图3:B)，推测该基序决定了小桐子CBL蛋白与 $\\mathrm { C a } ^ { 2 + }$ 不同的亲和力，赋予小桐子CBL 蛋白同时解码不同 $\\mathrm { C a } ^ { 2 + }$ 信号的能力(Weinl& Kudla,2009; Sanchez-Barrena et al.,2007)。当CIPK 蛋白的FISL/NAF 结构域结合CBL 后，导致CIPK 激酶结构域中激活环保守氨基酸磷酸化而被激活(Weinl&Kudla,2009)。本研究中小桐子CIPK 蛋白激活环都位于保守的-DFG-与-APE-之间，且都鉴定到三个保守磷酸化的 Ser（S）、Thr（T）及Tyr（Y）残基（图3:C）作为激活位点。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "从低等到高等植物，CBL-CIPK信号系统进化与植物的环境适应性如生物与非生物胁迫是协同的(Weinl& Kudla,2009)。小桐子起源热带，具备较强的抗旱、抗盐能力，但对低温环境耐受力有限。CBL-CIPK 信号系统的研究始于拟南芥高盐超敏感 SOS 途径（salt overly sensitive)，当拟南芥遭受高盐胁迫时，AtCBL4（SOS3）、AtCBL10结合 $\\mathrm { C a } ^ { 2 + }$ ，再与AtCIPK24（SOS2）结合形成蛋白复合体，通过AtCBL4/10-AtCIPK24途径调控细胞膜与液泡膜上 $\\mathrm { \\Delta N a ^ { + } { - } K ^ { + } }$ 逆转运蛋白（SOS1)，将过量的 $\\mathrm { { N a ^ { + } } }$ 泵动至胞外或区隔化至液泡中，从而抵抗或减轻高盐胁迫的伤害(Zhu,2002;Quan et al.,2007)，根据拟南芥同源蛋白比较，小桐子对应的 SOS级联途径为JcCBL4/5/7-JcCIPK12（图7）。基于同样的方法，本研究还鉴定到小桐子抗旱信号途径JcCBL3-JcCIPK15（图7），而对应拟南芥通过AtCBL1/9-AtCIPK1信号途径进行感知，并促进CBF家族基因表达，进而实现渗透平衡，以达到抗旱的目的(Dangelo etal.,2006)。作为低温敏感植物，小桐子在低温环境下，同样会启动CBL-CIPK信号系统，并传递至下游抗冷相关转录因子或关键限速蛋白的基因。本研究中,通过小桐子 $1 2 ^ { \\circ } \\mathrm { C }$ 低温处理转录组数据，也鉴定到与小桐子抗冷性密切相关的JcCIPK14与JcCIPK18（图6)，成为后续克隆与抗冷性功能鉴定的重要候选基因。文献报道，低温胁迫下，拟南芥通过AtCBL1-AtCIPK3感知将信号传递至下游抗冷性相关转录因子如RD29A(Kim et al.,2003)，而水稻和玉米分别通过OsCIPK3与 $Z { \\mathrm { m C I P K } } 3$ 作用于渗透相关基因，通过提高转基因株系的脯氨酸和可溶性糖含量，进而提高其抗冷性(Xiong et al.,2007；边鸣镝等,2008)，说明以上转录因子与代谢途径是验证小桐子CBL-CIPK低温信号途径下游作用机制的主要研究方向。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AKABOSHI M, HASHIMOTO H,ISHIDA H,et al.,2008.The crystal structure of plant-specific calcium-binding protein AtCBL2 in complex with the regulatory domain of AtCIPK14 [J]. JMol Bio1, 377(1): 246-257.   \nBATISTIC O, KUDLA J,2012. Analysis of calcium signaling pathways in plants [J]. BBA-Biomembranes,1820 (8): 1283-1293.   \nBATISTIC O,SOREK N,SCHULTKE S,et al.,2008.Dual faty acyl modification determines the localization and plasma membrane targeting of CBL/CIPK $\\mathrm { C a } ^ { 2 + }$ signaling complexes in Arabidopsis [J]. Plant Cell, 20(5): 1346-1362.   \nBIAN MD,LI WL, GUO QX,et al.,2008. cDNA cloning and expresson characteristics of maize protein kinase gene ZmIPK3 in response to abiotic stress [J].JMaize Sci,16(6): 52-57.[边鸣镝，李文亮，郭庆勋，等,2008. 非生物胁迫诱导的玉米蛋白激酶基因 ZmCIPK3 的cDNA克隆和表达特性 [J].玉米科学,16(6):52-57.]   \nCHEN X, GU Z, XIN D,et al.,2011. Identification and characterization of putative CIPK genes in maize [J]. J Genet Genomics, 38(2): 77-87.   \nDANGELO C, WEINL S, BATISTIC O, et al., 2006.Alternative complex formation of the $\\mathrm { C a } ^ { 2 + }$ -regulated protein kinase CIPK1 control abscisic acid-dependent and independent stressresponses in Arabidopsis [J].Plant J, 48(6): 857-872.   \nDU W,LIN H,CHEN S,et al.,2011. Phosphorylation of SOS3-like calciumbinding proteins by their interacting SOS2-like protein kinases is a common regulatory mechanism in Arabidopsis [J]. Plant Physiol,156 (4): 2235-2243.   \nGUO Y,HALFTER U,ISHITANI M,et al.,2001. Molecular characterization of functional domains in the protein kinase SOS2 that is required for plant salt tolerance [J]. Plant Cell, 13(6): 1383-1399.   \nHALFTER U,ISHITANI M, ZHU JK,2000.The Arabidopsis SOS2 protein kinase physically interacts with and is activated by the calcium binding protein SOS3 [J]. P Natl Acad Sci USA, 97(7): 3735-3740.   \nJI H, PARDO JM,BATELLI G, et al.,2013.The salt overly sensitive (SOS) pathway: Established and emerging   \nKANWAR P, SANYAL SK,TOKAS I, et al.,2014. Comprehensive structural, interaction and expressionanalysis of CBL and CIPK complement during abiotic stresses and development in rice [J]. Cell Calcium, 56(2): 81-95.   \nKIM KN, CHEONG YH, GRANT JJ, et al.， 2003. CIPK3,a calcium sensor-associated protein kinase that regulates abscisic acid and cold signal transduction in Arabidopsis [J]. Plant Cell,15(2): 411-423.   \nKIM KN, CHEONG YH, GUPTA R,et al.,200. Interaction specificityof Arabidopsis calcineurin B-like calcium sensors and their target kinases [J]. Plant Physiol, 124(4): 1844-1853.   \nLI LB,LIU KC, WANG DF,et al.,2010. Bioinformatics analysis on maize CBL genes [J]. JMaize Sci,18(1): 6-11.[李利斌，刘开昌，王殿峰,等,2010．玉米 CBL 基因的生物信息学分析 [J].玉米科学,18(1):6-11.]   \nLI J, JIANG MM,REN L,et al.,2016. Identification and characterization of CBL and CIPK gene families in eggplant (Solanum melongena L.) [J]. Mol Genet Genomics,291(4): 1769-1781.   \nLI R,ZHANG J,WEI J, et al.， 2009.Functions and mechanisms of the CBL-CIPK signaling system in plant response to abiotic stress [J]. Prog Nat Sci, 19(6): 667-676.   \nLIN J, ZHOU X, TANG KX,et al.,2004.A survey of the studies on the resources of Jatropha curcas L. [J]. J Trop Subtrop Bot, 12(3): 285-290.   \nLU ZH, HUO JQ, MA Y, et al.,2017. Genome-wide identification and expression analysis of the CIPK gene family in grape [J]. Acta Agr Boreali-occidentalis Sinica,26(11):1619-1630.[路志浩，霍建强，马钰，等, 2017．葡萄 CIPK基因家族的鉴定表达分析 [J]．西北农业学报,26(11):1619-1630.]   \nMAKKAR HPS, BECKER K, 2009. Jatropha curcas，a promising crop for the generation of biodiesel and value-added coproducts [J]. Eur JLipid Sci Tech, 111(8): 773-787.   \nMORRISSY AS, MORIN RD, DELANEY A, et al.， 2009. Next-generation tag sequencing for cancer gene expression profiling [J]. Genome Res,19(10): 1825-1835.   \nNAGAE M,NOZAWA A, KOIZUMI N,et al.,2003.The Crystal strueture of the novel Caleium-binding protein at CBL from Arabidopsis thaliana [J]. J Biol Chem,278(43): 42240-42246.   \nNIU LL,DONG BY, SONG ZH,et al.,2018. Genome-wide identification and characterization of CIPK family and analysis responses to various stresses in apple (Malus domestica)[J]. Int JMol Sci,19(7): 2131.   \nOHTA M,GUO Y, HALFTER U,et al.,2003.A novel domain in the protein kinase SOS2 mediates interaction with the protein phosphatase 2C ABI2 [J].P Natl Acad Sci USA,100(20): 11771-11776.   \nQUAN R, LIN H, MENDOZA I, et al., 2007. SCABP8/CBL10,a putative calcium sensor, interacts with the protein kinase SOS2 to protect Arabidopsis shoots from salt stress [J]. Plant Cell,19(4): 1415-1431.   \nSANCHEZ-BARRENA MJ,FUJII H,ANGULO I, et al., 2007. The structure of the C-terminal domain of the protein kinase AtSOS2 bound to the calcium sensor AtSOS3 [J]. Mol Cell, 26(3): 427-435.   \nSANCHEZ-BARRENA MJ, MARTINEZ-RIPOLL M, ZHU JK, et al., 2005. The structure of the Arabidopsis thaliana SOS3: Molecular mechanism of sensing calcium for salt stress response [J]. J Mol Biol, 345(5): 1253-1264.   \nSANDERS D,PELLOUX J, BROWNLEE C,et al.,2002. Calcium at the cros-roads of signaling [J].Plant Cell, 14: S401-417.   \nSANYAL SK, RAO S, MISHRA LK, et al.,2016. Plant stressresponses mediated by CBL-CIPK phosphorylation network [J]. Enzymes,40: 31-64.   \nSATO S,HIRAKAWAH, ISOBE S,et al.,2011.Sequence analysis of the genome of an oil-bearing tree,Jatropha curcas L. [J]. DNA Res, 18(1): 65-76.   \nSCRASE-FIELD S,KNIGHT MR,2003.Calcium: just a chemical switch [J]. Curr Opin Plant Biol, 6(5): 500-506.   \nSHI J,KIM KN,RITZO,etal.,1999.Novel protein kinase sassociated with calcineurin B-like calcium sensors in Arabidopsis [J]. Plant Cell, 11(12): 2393-2406.   \nSUN T, WANG Y, WANG M, et al.,2015. Identification and comprehensive analyses of the CBL and CIPK gene families in wheat (Triticum aestivum L.)[J]. BMC Plant Biol, 15: 269.   \nTHOEN PA, ARIYUREK Y, THYGESEN HH, et al., 2008.Deep sequencing-based expression analysis shows major advances in robustness,resolution and inter-lab portability over five microarray platforms [J]. Nucleic Acids Res,36(21): e141.   \nWANG AX,LIU SY,2018. Identification and bioinformatics analysis on CIPK gene family in tomato [J]. J Northeast Agric Univ,49(2):31-38.[王傲雪，刘思源,2018．番茄 CIPK基因家族鉴定及生物信息学分析 [J]．东北农业大学学报,49(2):31-38.]   \nWANG HB,ZOU ZR, WANG SS, et al., 2014. Deep sequencing-based transcriptome analysis of the oil-bearing plant Physic Nut (Jatropha curcas L.) under cold treatments [J]. Plant omics,7(3): 178-187.   \nWANG HB, ZOU ZR, WANG SS,et al.,2013. Global analysis of transcriptome responses and gene expression profiles to cold stress of Jatropha curcus L.[J]. PLoS ONE, 8(12): e82817.   \nWEINL S,KUDLAJ,2009.The CBL-CIPK $\\mathrm { C a } ^ { 2 + }$ -decoding signaling network: function and perspectives [J]. New Phytol, 184(3): 517-528.   \nWU PZ, ZHOU CP, CHENG SF, et al.， 2015. Integrated genome sequence and linkage map of physic nut (Jatropha curcas L.), a biodiesel plant [J]. Plant J, 81(5): 810-821.   \nXIONG Y, HUANG Y, XIONG LZ, 2O07. Characterization of stres-responsive CIPK genes in rice for stress tolerance improvement [J]. Plant Physiol, 144(3): 1416-1428.   \nYU YH, XIA XL,YIN WL, et al.,2007. Comparative genomic analysis of CIPK gene family in Arabidopsis and Populus [J]. Plant Growth Regul, 52(2): 101-110.   \nZHANG H, YANG B,LIU WZ, et al.,2014. Identification and characterization of CBL and CIPK gene families in canola (Brassica napus L.) [J]. BMC Plant Biol, 14: 8.   \nZHANG HC, YIN WL, XIA XL, 2008. Calcineurin B-like family in populus: comparative genome analysis and expression patern under cold,drought and salt stress treatment [J]. Plant Growth Regul,56(2): 129-140.   \nZHU JK,2002. Salt and drought stress signal transduction in plants [J]. Annu Rev Plant Biol, 53: 247-273.   \nZHU K,CHENF,LIUJ,etal.,2016.Evolution of an intron-poor clusterof the CIPK gene familyand expression in response to drought stress in soybean [J]. Sci Rep, 6: 28225. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

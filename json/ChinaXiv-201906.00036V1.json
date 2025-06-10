@@ -1,0 +1,349 @@
+[
+    {
+        "type": "text",
+        "text": "An Electropalatographic and Acoustic Study on Anticipatory Coarticulation in V1#C2V2 Sequences in Standard Chinese ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yinghao Li 1,2, Jiangping Kong ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Department of Chinese Language and Literature, Peking University, Beijing, China 2 Department of English Language, Yanbian University, Yanji, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "leeyoungho@pku.edu.cn，kongjp@gmail.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper presents the data on the anticipatory coarticulation of C2 and V2 on V1 in V1#C2V2 sequences in Standard Chinese. Electropalatographic measures and F2 trajectory were obtained to define the articulatory and F2 targets for V1 as well as the displacement for articulatory and F2 transition of V1.Results show that the articulatory target is affected only by C2 place, while C2 place,C2 manner,andV2 show combined effect on the articulatory and F2 displacement of V1.Lip rounding associated with V2 is found to affect the F2 target and F2 transition of V1. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Index Terms: electropalatography，anticipatory coarticulation, Standard Chinese ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Anticipatory coarticulation is considered as the preprogramming forspeech motor control. The articulatory and acoustic properties of the vowel in question are shown tobe systematically influenced by the following consonantsand transconsonantal vowels [1，2].But the synergic anticipatory effect of consonantal places，manners and transconsonantal vowels on the articulatory and acoustic targets of vowel and the transitions toward the second syllable is seldom discussed.The syllable structure in the Standard Chinese(SC) is comprised of optional onset,rhyme that can only be ended with alveolar or velar nasals,and tone.While the tonal coarticulation is stacked with rich literature,segmental coarticulation is rarely studied. Previous acoustic studies on V1#C2V2 sequences (# stands for morpheme boundary）in the SC find that the F2 trajectory displacement varies among consonantal places and V2 identity [3,4]. The acoustic target for V1 is found to be affected by the following consonant in [3] but not in [4].A recent EMMA study contends that the transconsonantal vocalic anticipatory effect is byno means to trespass alveolar and velar intervocalic consonantsinV1#C2V2sequences[5].Butinthe electropalatographic study on speech rate effect on segmental coarticulation in the SC it is found that the articulatory and acoustic trajectory for V1 tends to be affected by consonantal and/or vocalic segments in the following syllable [6].In short, the articulatory and acoustic manifestation for anticipatory effect in V1#C2V2 sequences in the SC is far from being clear. ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/d65dddfb950066a1046efbd7e462adf6a888f5ace2f707986a80d5ad4e32af1e.jpg",
+        "table_caption": [
+            "Table1.Consonant inventory in the SC "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Labial</td><td>Dental</td><td>Alveolar</td><td>Retroflex</td><td>Alveo- palatal</td><td>Velar</td></tr><tr><td>Stop Affricate Fricative</td><td>p ph</td><td>tstsh tsh</td><td>tth</td><td>67 t6 t6h</td><td>r trtrh</td><td>kkh</td></tr></table></body></html>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The paper presents the articulatory and F2 trajectory data to show the anticipatory effect of C2 and V2 on V1 in the V1#C2V2 sequences in the SC，with C2 encompassing all consonantal segments falling into six places and five manners of articulation (Table 1).The anticipatory effects of C2 place, C2 manner,andV2 identity on the linguopalatal and F2 targets for V1 as well as the linguopalatal and F2 transition toward C2V2 is to be examined. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1.Speech material ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A total of 982 V1#C2V2 speech samples were taken from the newly-built 62-electrode EPG corpus for the SC,spoken by a 27-year-old female speaker. The onset for the first syllable was alveolar stop which was designed for fine alignment ofEPG and speech signal. The intervocalic consonants fall into six places, labial/labiodental(LD),dental (DE)，alveolar (AL)，retroflex (RE)，alveopalatal (AP)，and velar (VE).Five mannersof articulation are distinguished: stop (ST),affricate(AF),fricative (FR),nasal (NA),and lateral (LA).Five monophthongal vowels /i，a,u,il,i2/(/i1,i2/are apical vowels and their lingual gestures are similar with the homorganic dental and retroflex fricatives） were in the V1 and V2 positions.Three phonotactic rules had to be dealt with in forming symmetrical V1#C2V2 sequences for studying vocalic anticipatory effect.Firstly, because only monophthongal vowel /i,y/ can appear after AP consonants,thus /iu,ia/were added after AP.Secondly，the dental and retroflex vowels instead of high-front vowel can appear after DE or RE respectively.Thus when the fixed V1/i/ was followed byDE or RE,the V1#C2V2 sequences with apical vowels in V2 position was set to be the symmetrical sequences. Thirdly,the high-front vowel is not allowed to follow labiodental fricative and velar consonants,so /ei/ was used instead. Each speech sample was comprised of three simultaneous signals，EPG $( { 1 0 0 } \\mathrm { { H z } } )$ ，EGG and speech (22kHz)，and was repeated for two to four times at normal speech rate.The segment boundaries were marked manually referring to the articulatory and acoustic landmarks. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.2.Measurement ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows the definition of V1 articulatory and acoustic targets as well as transitional indexes.Two EPG contact indexes were defined.ANT was the contact ratio in the front four rows of electrons,which is closely related with the tongue tip/blade gestures for most consonants,and PST in the posterior four rows of electrons，which is related with tongue body gesture specifically for velar consonants and vowels.The maximum and minimum of ANT/PST from three consecutive EPG frames around the mid-portion of acoustic interval for V1 were respectively defined as the EPG targets for high vowel $/ \\mathrm { i } , \\mathrm { u }$ ,i1, i2/ and low vowel $/ \\mathrm { a } I$ (ANT(T) and PST(T)).The ANT/PST of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "V1-end frame were defined as ANT(E) and PST(E) respectively. Thelinguopalatal displace was measured respectively by subtracting ANT(T)or PST(T)from ANT(E)or PST(E)，which wererespectivelytermedasdelta_ANTanddelta_PST. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7ea951ba00f6d22f34dfea04d97d0ba76a8cd86468af6db120f6effe5db0d0a.jpg",
+        "img_caption": [
+            "Figure1:DefinitionofVl targetandtransitional indexes "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The F2 data for V1 was obtained byLPC covariance method inPraat with the step specifically designed in 5ms for a better alignment with 1O-ms step of linguopalatal contact indexes.The F2 trajectory was manually adjusted on the cepstral-based spectrogram developed on Matlab.The F2 target for V1 (F2(T)) Was the average F2 for three consecutive F2 values in the midportion of the V1 interval,and the lastF2 before the end of V1 interval was defined as F2(E).The F2 transition displacement (delta_F2) wasmeasured by subtracting F2(T) from F2(E). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One-way ANOVA and sheffe post-hoc tests were conducted to obtain statistical significance in each condition.The significance level was set at $\\mathrm { p } { < } 0 . 0 5$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Result ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Consonantal place effect ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ANOVA results show that C2 places significantly affect the V1 targets as well as the linguopalatal and F2 displacement of V1 transition toward C2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/606f55ec9663126047f336e5be4b051e36f5b1da5b81c639a31e26fb1cabe491.jpg",
+        "img_caption": [
+            "Figure2:ANT(T) andPST(T)forVlbeforesix places( $\\boxed { \\bigstar } L D ,$ △AL, $\\times V E ,$ ${ \\bigcirc } A P $ ： $+ D E _ { \\mathrm { { i } } }$ $\\bigcirc R E$ 、Thereference lines denote average values.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "are elevated in anticipation of groove shape for the following RE.The retroflex vowel /i2/ has less posterior contact in DE thanin homorganic RE context,which indicates the tongue body retraction with the tongue root raised toward soft velar[3].V1/a, $\\mu / \\mu$ have no anterior contact target,but the place effect is found for posterior contact target.More posterior contact is found in AP and/or RE contexts,indicating significant tongue body elevation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows the linguopalatal targets for three high vowels,and that for $\\mathrm { \\Delta V 1 / a , u / }$ is not shown for little contact in the posterior area. The Sheffe post-hoc results indicate that the ANT(T) forV1/i,i1,i2/is significantly reduced in VE context. AP incurs more contact in V1/i,il/,which can be attributed to extensive linguopalatal contact at pre-palatal area for AP.V1/i2/ has the larger anterior contact in homorganic RE than in AP context because in the latter case the post-alveolar constriction for retroflex vowel /i2/ tends to be loosened in anticipation of tongue body raising gesture for AP.Regarding PST(T),no place effect is found for V1/i/with the posterior contact variation in each place context spanning in relatively similar range.The dental vowel /il/ has larger posterior contact in RE than in homorganic DE context, indicating the two sides of tongue body ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The F2(T) tends to co-vary with contact indexes for V1 in different C2 contexts.The $\\mathrm { V } 1 / \\mathrm { i } /$ has the minimum F2(T) in VE context and maximum F2(T） in AP context, respectively corresponding to the tongue body retraction in anticipation for velar constriction and enhanced anterior contact at pre-palatal area.The F2(T）for V1/il/ is positively correlated with both ANT(T) $\\scriptstyle ( \\mathrm { r = 0 } . 5 4 )$ and PST(T) $( \\mathrm { r } { = } 0 . 3 7 )$ ．This implies that the tongue tip/blade gesture at alveolar area and tongue body gesture adjustments in anticipation of following C2 determine the variation of F2(T).The F2(T) for V1/i2/ is only moderately correlated with the ANT(T) $( \\mathrm { r } { = } 0 . 1 4 3 )$ .Considering the F2(T) for V1/i2/ is affiliated with the sublingual cavity,the F2(T) variation is contingent on the horizontal tongue movement instead of linguopalatal contact change.The F2(T) for $\\mathrm { V 1 / a } /$ is positivelycorrelatedwith PST(T） $\\scriptstyle ( \\mathrm { r = 0 } . 4 4 2 )$ .Thisresult indicates that the F2(T) linearly increases as the linguopalatal contact becomes larger.No correlation is found between the F2(T)and two EPG indexes for $\\mathrm { V } 1 / \\mathrm { u } /$ ；however,the F2(T) variation tends to be depended on the anteriority of C2 place. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4d93617374eced03ccfb607f7278481d70d804455015b690f1ee642ef31fad8.jpg",
+        "img_caption": [
+            "Figure3:delta_ANTanddelta_PSTforVlbeforesixplaces of (LD, $\\triangle A L , \\times V E ,$ OAP, $+ D E , \\bigcirc R E$ Thereference lines denote zero values) "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To investigate the C2 place effect on the linguopalatal transition for V1, the LD place was excluded because the tongue movement was largely dependent on the transconsonantal vowels.The FR manner was also excluded for the differential effect of FR manner against other manners in the same place category,specifically for VE place. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The displacement of V1 linguopalatal transition is shown in Figure 3.The VE place effectis significantlydifferent from other places.In most cases in VE context,PST is increased for all V1 and ANT is decrease for V1/i,il,i2/,reflective of tongue body retraction gesture over the transition toward velar closure for V1/i,il,i2/and tongue body elevation gesture for V1/a,u/. The fluctuation of delta_F2 around zero in Figure 4 indicates that the F2 displacement direction is influenced by V2 identity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The F2 trajectory forV1/i/ moves downward in the context of the rest four consonantal places,and the magnitude of F2 transition is positively correlated with the tongue body lowering gesture as manifested by PST decline in Figure 3 $_ { ( \\mathrm { r = 0 } . 5 2 8 ) }$ . The F2 trajectory for the two apical vowels has the least excursion magnitude.While the F2 transition magnitude is positively correlated with ANT increase for V1/i1/ $\\scriptstyle ( \\mathrm { r = } 0 . 5 7 7 )$ ，itis positively correlated with both delta_ANT $\\scriptstyle ( \\mathrm { r = 0 } . 4 9 7$ ）and delta_PST $_ { ( \\mathrm { r = 0 } . 2 8 ) }$ increase for V1/i2/. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e550d846d10a7a3679b457a3d5f2c83a18f24776091d581a1e61b0668b8d86e.jpg",
+        "img_caption": [
+            "Figure 4:delta_F2 for fiveVlspreceding fiveC2 places (Errorbar standsforone standard error) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tongue elevation and fronting manifested by large ANT and/orPST increase for V1/a, $\\mathrm { \\Delta } \\mathrm { u } / \\mathrm { \\Delta }$ leads to the upward direction of F2trajectory. The F2 excursion magnitude is positively correlated with delta_PST $\\scriptstyle ( \\mathrm { r = 0 } . 3 4 9 )$ for $\\mathrm { V } 1 / \\mathrm { a } I$ 、No meaningful correlation is foundbetween delta_F2 and contact indexes for $/ \\mathrm { u } /$ ，The F2 excursion magnitude for $\\mathrm { \\Delta V 1 / u / }$ preceding RE is significantly lower than that before other three places.A possible cause may lies in the formation of sublingual cavity toward retroflex consonants. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In short,C2 places show differential effect on the linguapalatal and F2 targets for V1 as well as the displacement for linguopalatal and F2 transition toward C2,and the V2 identity effect may also be involved. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Consonantal manner effect ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The ANOVA results show that the consonant manners for DE, RE,and AP have no significant effect on V1 targets and linguopalatal/F2 displacement. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Similar result is obtained for AL except that the lateral $\\mathcal { N }$ shows significant effect on delta_PST and delta_F2.Compared with stop/nasal in the same place category,the PST is increased less forV1/a,u,il/and decreased more forV1/i,i2/in the LA context. Correspondingly,the F2 displacement shows the similar pattern (Figure 5). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5affc9c16265a62530f53f9841c978754f9ef3c84a04f864a3f2768a04ebe365.jpg",
+        "img_caption": [
+            "Figure5:delta_PSTanddelta_F2 forfiveVlsprecedingLA "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The three manners for LD (stop,nasal,and fricative) do not affect the V1 contact and F2 targets across fixed V2 contexts. Butsignificant difference is found for displacement indexes for V1/i,i1,i2/in fixed V2/i/ context,and F2 transition magnitude for/a,u,il,i2/in fixed $\\mathrm { V } 2 / \\mathrm { u } /$ context. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows the linguopalatal and F2 transition indexes for V1s in fixed $\\mathrm { V } 2 / \\mathrm { i } I$ context.In most cases the ANT and/or PST are reduced in FR context,while they tend to be increased in ST/NA contexts,though reduced ANT and/or PST is also observed in latter case when V1 is high vowel,which is indicative of trough effect. The manner effect on articulatory transition for V1 may be attributed to the aerodynamic motivation.V2 lingual configuration may be involved because the /ei/ instead of $/ \\mathrm { i } / \\$ isallowed to follow labiodental fricative. The manner effect on F2 transition direction and magnitude is shown to be significant for V1/i,il,i2/. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d18bd629bd7312d5a11a17c671bf774aa63623f3b9c31037f750a1adb2ddba11.jpg",
+        "img_caption": [
+            "Figure 6: Linguopalatal andF2 displacement for Vl/i,il,i2/ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the $\\mathrm { v } 2 / \\mathrm { u } /$ context a larger F2 downward excursion in bilabial nasal context is found for V1s (except V1/i/)than in ST/FR contexts,though the linguopalatal transition is similar across manners.The sharp descent of F2 trajectory in nasal context might be related to the lip gesture reconfiguration,for both bilabial stop and labiodental fricative the lower lip is relatively constrained,but for nasal the lip gesture of V2 tends to more readily affect the nasal consonant. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "No significant different is found for V1 targets when C2 is velar consonants.However, the linguopalatal transition toward velar fricative is much more dramatic than toward ST across fiveV1s,manifested in fast reductionofPST.The F2 transition is to be discussed in 3.3. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In short,manner effect is shown to affect both articulatory and F2 transition when the intervocalic consonants falling into places of LD,AL,and VE.But the consonants that have strict control on tongue dorsum show uniform articulatory and F2 transition for V1 across different manners. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.Transconsonantal vocaliceffect ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on the findings in 3.1 and 3.2,manners for LD,AL, and VE were separately discussed in investigating the vocalic anticipatory effect. The V2 identity does not influence the lingual target for V1,but the F2(T) tends to be reduced when V2 is $/ \\mathrm { u } /$ Significant difference is found for V1/i/ in LD(FR) context,for V1/a,i1/in LD(ST)，AL(ST/NA)，and VE(ST) contexts.V1/i2/ is affected almost in all C2 contexts except AP and DE.This result indicates that lip rounding gesture may affect the lip configuration for V1,but it is not the focus of the current paper and thus is not discussed here. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A series of one-way ANOVA results indicate that the linguopalatal and/or F2 transitions differ significantly between the nonsymmetrical and symmetrical sequences when V1 is fixed.Table 2 shows the results of Sheffe post-hoc multiple comparisons for transition indexes.The gray cell indicates symmetrical sequences for each combination. The sign in brackets is the displacement direction.The symbol $\\pm$ is used when the displacement in the cell is in either directions.The comparison followed shows the significant different with the V2 in the symmetrical sequences when the V1 is fixed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Significant vocalic anticipatory effect on the linguopalatal and F2 transition is observed forLD,regardless of manners.The direction and magnitude of transition tends to be related with the target distance between the flanking vowels.V2 effect for linguopalatal transition is found for V1/i,i1,i2/ in AL context; however, the F2 transition direction and magnitude is more likely to be related with the posterior contact change,with lip rounding for V2 mayalso be involved.V2 effect on the ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f51f2b1a17b9eb54b3286faa995bac530cab680b0394bd110deba364ff2255a.jpg",
+        "table_caption": [
+            "Table2.Sheffepost-hocresultsforV2efectonVltransitionalindexes (Thefirstrow indicatesthefixedV1.Thefirstcolumn shows the sixplaceswith necessary division for manners ineach placecategory andthe second column thevarious V2.) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">V1</td><td colspan=\"3\">i</td><td colspan=\"3\">a</td><td colspan=\"3\">u</td><td colspan=\"3\">i1</td><td colspan=\"3\">i2</td></tr><tr><td>C2</td><td>V2</td><td>ANT</td><td>PST</td><td>F2</td><td>ANT</td><td>PST</td><td>F2</td><td>ANT</td><td>PST</td><td>F2</td><td>ANT</td><td>PST</td><td>F2</td><td>ANT</td><td>PST</td><td>F2</td></tr><tr><td rowspan=\"2\">LD (ST)</td><td>i</td><td>（±）</td><td>（-)</td><td>(-)</td><td>(+)>a 0</td><td>(+)>a</td><td>(+）>a</td><td>0</td><td>(+)>u</td><td>(+)>u</td><td>（±）</td><td>(+)</td><td>（+）</td><td>（±）</td><td>（±）</td><td>（±）</td></tr><tr><td>a</td><td>(-）<i</td><td></td><td></td><td></td><td>（±）</td><td>（-)</td><td>0</td><td>(-)</td><td>(+)>u</td><td>(-)<i</td><td></td><td>(-)<i</td><td>(-)<i</td><td>（±）</td><td>(-）)<i</td></tr><tr><td rowspan=\"2\">LD</td><td>u</td><td>(-)<i</td><td>(-)</td><td>(-)<i</td><td></td><td>（+）</td><td>(-)</td><td>0</td><td>(-)</td><td>（-)</td><td>(-）<i</td><td>(±）</td><td>(-)<i</td><td>(-）<i</td><td>（±)</td><td>(-)<i</td></tr><tr><td>i</td><td>（+）</td><td>（+)</td><td></td><td>（+)</td><td>(+）>a</td><td>(+)>a</td><td>(+)</td><td>（+）</td><td>(+）>u</td><td>(+)</td><td>（+）</td><td>（+）</td><td>（±）</td><td>（±）</td><td>(-)</td></tr><tr><td rowspan=\"3\">(NA)</td><td>a</td><td>（-）<i</td><td>(-)<i</td><td>(-)</td><td>（-)</td><td></td><td></td><td>0</td><td></td><td>(±)>u</td><td>（-)<i 0</td><td></td><td>(-)<i</td><td>（）<i -)</td><td></td><td></td></tr><tr><td>u</td><td>)<i</td><td></td><td>(-)<i</td><td></td><td>（+)</td><td>(-)<a</td><td>0</td><td>-)</td><td>-)</td><td>）<i</td><td>（)</td><td>(-）<i</td><td>)<i</td><td></td><td>(-)<i</td></tr><tr><td>i</td><td>（-)</td><td>（-)</td><td>(-)</td><td></td><td>(+)>a</td><td>(+)>a</td><td>0</td><td></td><td>（+)</td><td>(-)</td><td>(+)</td><td>（-)</td><td>(-)</td><td>[-)</td><td>（-)</td></tr><tr><td rowspan=\"2\">LD (FR)</td><td>a</td><td></td><td>（)</td><td></td><td></td><td>（+）</td><td>（±）</td><td>0</td><td></td><td>（+)</td><td></td><td>(±）</td><td>-)</td><td>（-)<i</td><td></td><td>(-)<i</td></tr><tr><td>u</td><td>（-）)<i</td><td>(-)</td><td>(-）</td><td></td><td>（+)</td><td>(-)<a</td><td>0</td><td></td><td>（+)</td><td></td><td>(±）</td><td>(-）<i</td><td>(-)<i</td><td>（-）</td><td>(-)</td></tr><tr><td>AL</td><td>i</td><td>（+)</td><td>(±）</td><td>（-)</td><td>0 （+）</td><td>（+）</td><td>(+)>a</td><td>（+)</td><td>(+)</td><td>(+)>u</td><td>（+）</td><td>（+）</td><td>（+）</td><td>（+）</td><td>(±）</td><td>（+)</td></tr><tr><td>(ST,</td><td>a</td><td>（+)</td><td></td><td>(-）</td><td>(+）</td><td>（+)</td><td>（+)</td><td>（+)</td><td>(±）</td><td>(+)>u</td><td>(+)</td><td>(+)</td><td>(±)<i</td><td>（±）</td><td>（(-)</td><td>(-)<i</td></tr><tr><td>NA)</td><td>u</td><td>（+)</td><td>(-)<i</td><td>(-)<i</td><td>(+）</td><td>(+)</td><td>(+)</td><td>（+)</td><td>（+)</td><td>(+)</td><td>（+)</td><td>（+)</td><td>（±)i</td><td>（+)</td><td></td><td>(-)<i</td></tr><tr><td rowspan=\"2\">AL (LA)</td><td>i</td><td>（±）</td><td>[（-)</td><td>（-)</td><td>（+）</td><td>（+）>a</td><td>(+)</td><td>（+）</td><td>（+）</td><td>(+)>u</td><td>（+）</td><td>（+)</td><td>（+）</td><td>（+）</td><td>(-)</td><td>（-)</td></tr><tr><td>a</td><td>（±）</td><td>（-)<i</td><td></td><td>（+）</td><td>（-）</td><td>（+）</td><td>（+)</td><td>(±）</td><td>(+）>u</td><td>（±）</td><td>(±）i</td><td>(-)<i</td><td>（+）</td><td>(-)<i</td><td>-)</td></tr><tr><td rowspan=\"2\">VE</td><td>u</td><td>（+)</td><td>(-)<i</td><td>(-)<i</td><td>(+)>a</td><td>（-)</td><td>（±)</td><td>(+)</td><td>(+)</td><td>（+)</td><td>(+)</td><td>(-)<i</td><td>(-)<i</td><td>(+)</td><td>-)</td><td>（-)</td></tr><tr><td>i</td><td>（-)</td><td>（+)</td><td>(+)</td><td></td><td>（+)</td><td>(+)>a</td><td>0</td><td>(+)</td><td>(+）>u</td><td>-</td><td>(+)</td><td>-)</td><td></td><td>（+）</td><td>（+)</td></tr><tr><td rowspan=\"2\">(ST)</td><td>a</td><td></td><td>（±）<i</td><td>(±)</td><td></td><td>（+）</td><td>（±）</td><td>0</td><td>(+)</td><td>(+)>u</td><td></td><td>（+）</td><td>（+）>i</td><td></td><td>（+)</td><td>（+)</td></tr><tr><td>u</td><td></td><td>（±）</td><td>(-)<i</td><td></td><td>（+)</td><td>（-)<a</td><td>0</td><td>(+)</td><td>（-)</td><td></td><td>（+)</td><td>(-)<i</td><td></td><td>(+)</td><td>(-)<i</td></tr><tr><td rowspan=\"2\">VE (FR)</td><td>i</td><td>（-)</td><td></td><td>（-)</td><td></td><td>(±）</td><td>(+)>a</td><td></td><td></td><td>(+)>u</td><td>（-)</td><td>(+)</td><td>（-)</td><td></td><td></td><td>(-)</td></tr><tr><td>a</td><td></td><td></td><td></td><td></td><td></td><td>（-)</td><td>0 0</td><td></td><td>(+)>u</td><td></td><td></td><td></td><td>（)</td><td>[)</td><td></td></tr><tr><td rowspan=\"2\">AP</td><td>u</td><td></td><td></td><td>(-)</td><td></td><td>（±)</td><td>(-)<a</td><td>0</td><td>（-)</td><td>(±）</td><td>（-)</td><td>(±)</td><td>(-)<i</td><td></td><td></td><td>(-)</td></tr><tr><td>i</td><td>（+)</td><td></td><td></td><td>（+）</td><td>（+）</td><td>（+）</td><td>（+）</td><td>（+）</td><td>（+)</td><td>（+）</td><td>(+)</td><td>(+）</td><td>（+）</td><td></td><td>（+）</td></tr><tr><td rowspan=\"2\"></td><td>iu</td><td>（+)</td><td></td><td>(-）<i</td><td>(+）</td><td>(+)</td><td>(+)<i</td><td>(+）</td><td>(±）</td><td>（+)</td><td>（+)</td><td>(+)</td><td>(+)<i</td></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "linguopalatal transition is only found for $/ \\mathrm { i } \\# \\mathrm { C } 2 \\mathrm { a } I$ 0 $\\scriptstyle ( C 2 = \\mathbf { S } \\mathrm { T } )$ .The significant difference found for F2 transition direction and magnitude shows the confounding effect of V2 lingual and lip gesture.For AP,DE,and RE no V2 effect is found for the linguopalatal transition.The F2 trajectory for V1 tends to be affected by the lip rounding feature associated with V2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion and Conclusions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The combined articulatory and acoustic results show that the anticipatory effect of the C2 and V2 on V1 depends on C2 places,C2 manners,V2 identity,and the articulatory constraint for V1.The linguopalatal target is affected by C2 places,and the lip rounding gesture associated with V2 is also found to affect the F2 target and transitional displacement for V1.Contrary to the result in [4],consonantal manners in the category ofLD,AL. andVEshowdifferentialanticipatoryeffectsonthe displacement of linguopalatal and F2 transition of V1 toward C2. but consonantal place with constraint on tongue dorsum gesture is exempt from manner difference.This result supports the articulatory constraint degree model in [2].The transconsonantal vowel in LD,AL,and VE contexts is found to affect the lingual displacementin V1 transition,but this effectis not found in DE, AP,and RE contexts. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The implication of the current results indicates that lingual and lip coarticulation may be implemented in an autosegmental fashion. The phase relationship between the lingual and lip gestures is the focus of ongoing project.Secondly，the EPGbased coarticulatory study can provide more delicate cues of articulatory adjustment that are not available either in EMMA or othermovement tracking facilities. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5. Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The work was supported by China National Science Funds (Grant 61O73o85).We thank the anonymous reviewers for the constructive comments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. References ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] Vhman，S.，“Coarticulation in VCV utterances:Spectrographic measurements\",JASA,33:151-168,1966.   \n[2] Recasens,D.,Pallares,M.D.,Fontdevila,J.,“A model of lingual coarticulation based on articulatory constraints”,JASA,1O2:544- 561,1997.   \n[3] Wu,Z.J., Sun,G.H.,“An experimental study of coarticulation of unaspirated stops in CVCV contexts in Standard Chinese\",Annual Report of Phonetic Research,Beijing,Institute of Linguistics of CASS,1989.   \n[4] Chen X.X.，“Segmental coarticulation in Standard Chinese”, Zhong Guo Yu Wen,5:345-350,1997.   \n[5] Ma L.，Perrier，P.，Dang，J.W.，“A study of anticipatory coarticulation for French speakers and for Mandarin Chinese speakers\",Proc.PCC,Beijing,2008.   \n[6] Li,Y.H.,Kong,J.P.,“Effect of speech rate on inter-segmental coarticulation in Standard Chinese\",Proc.ISCSLP,44-49,2010. ",
+        "page_idx": 3
+    }
+]

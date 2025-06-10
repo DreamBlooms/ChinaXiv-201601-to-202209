@@ -1,0 +1,427 @@
+# 基于人工鱼群算法的分数阶P控制器参数整定
+
+张学典，王富彦，秦晓飞+(上海理工大学光电信息与计算机工程学院,上海 200093)
+
+摘要：针对分数阶 $\mathrm { P I } ^ { \lambda }$ 控制器的参数整定，提出图像法和人工鱼群优化算法相结合的方法来对分数阶 PI控制器进行参数整定。分别以一阶系统和二阶系统来模拟典型的速度伺服系统，以此模型为被控对象进行分数阶 PI控制器的设计，首先在频域内，根据系统的相对稳定性和增益变化的鲁棒性等条件，推导出方程式；然后根据图像法解出分数阶 $\mathrm { P I } ^ { \mathrm { \lambda } }$ 控制器的参数，以解出的参数为中心位置，指定寻优的范围，进而用人工鱼群算法对其周围进行寻优。最后进行仿真研究，通过仿真可以看出，通过人工鱼群算法寻优得到的控制器，比单纯用图像法得到分数阶PI"控制器能使系统具有更好的动态响应特性，并且满足增益变化鲁棒性的条件。
+
+关键词：人工鱼群算法；图像法；分数阶 $\mathrm { P I } ^ { \lambda }$ 控制器；参数整定 中图分类号：TP273.2 doi: 10.3969/j.issn.1001-3695.2017.09.0915
+
+# Parameter tuning of fractional order $\mathrm { P I } ^ { \lambda }$ controller based on artificial fish school algorithm
+
+Zhang Xuedian, Wang Fuyan, Qin Xiaofei+ (SchoolofOptical-Electrical&ComputerEngineering,UniversityofShanghaiforScience&Technologyhanghai20093, China)
+
+Abstract: For parameter tuning of fractional order $\mathbf { P I } ^ { \lambda }$ controller,this paper proposed the artificial fish swarm algorithm combined with the image method to tune the parameter.The paper usedthe typical first-order and second-ordersystem to represent the typical speed servo system and used this model to set the parameters of the fractional order $\mathbf { P I } ^ { \lambda }$ controller for thecontrolledobject.Firstly,inthefrequencydomain,according totherelativestabilityofthesystemandthrobustessof the gain,the paper derivedtheequation.Afterthat,using theimage method,itcan solve the parametersofthefractional order $\mathbf { P I } ^ { \lambda }$ controller. Around the parameter,according to artificial fish swarm algorithm, it can optimize these parameters. Finally,simulationresults show that thecontrolleroptimizedave beterdynamiccharacteristic thancontrollrobtained by the image method and meet the conditions of robust gains.
+
+Key Words: artificial fish school algorithm; image method; fractional-order $\mathrm { P I } ^ { \lambda }$ controller; parameter tuning
+
+# 0 引言
+
+最近分数阶微积分逐渐引起国内外学者的关注，尤其在系统理论领域和控制领域，因为可以用分数阶搭建更准确的数学模型，增强系统的控制性能[1,2]。分数阶微积分的概念已经应用到很多工程领域，从而产生了很多分数阶控制器。Oustaloup以控制动态系统的思想，开发了CRONE 控制器，并且证明了CRONE控制器比传统的整数阶PID控制器具有较大的优势[3]。Matignon等人针对分数阶系统的稳定性、可控性和可观性进行了研究。随后，Podlubny在研究分数阶控制系统基础上在1994，提出了分数阶 $\mathrm { P I } ^ { \mathrm { \lambda } } \mathrm { D } ^ { \mathrm { \mu } }$ 控制器。相比于传统的整数阶PID,具有更好的鲁棒性和准确性，并且增加了两个可调参数λ和 $\mu$ ，使控制器具有更好的灵活性[4]。
+
+传统的整数阶PID的整定方法已经得到了很多深入的研究[5,7]，在此基础上很多学者提出了分数阶 $\mathrm { P I } ^ { \mathrm { \lambda } } \mathrm { D } ^ { \mathrm { \mu } }$ 控制器整定方法。胡海波等在传统的粒子群的基础上，使细菌觅食算法与粒子群算法相结合对分数阶PID控制器进行设计，提高了传统粒子群算法的计算效率，同时得到的分数阶PID控制器，比整数阶控制器具有更好的动态特性[8]。秦君琴等人[9]把分数阶PID控制器应用到大棚室内的温度调节，使其产生的效果与传统的整数阶PID和模糊PID控制器进行对比，最后发现分数阶控制器提高了系统的自适应性和鲁棒性。同时，Mohanty等人[10]针对独立微电网的无功补偿，利用ICA(imperialistcompetitivealgorithm)进行分数阶PID控制器的设计，最后通过改变输入参数和负载条件，来验证分数阶控制器的优势。Jauregui等人[11用改进的粒子群算法对分数阶PID"控制器进行了整定。Altintas 等人[12]通过用遗传算法对磁悬浮系统进行控制器的参数的优化，从而获得分数阶 $\mathrm { P I } ^ { \mathrm { \lambda } } \mathrm { D } ^ { \mathrm { \mu } }$ 控制器(FOPID)和整数阶PID 控制器(IOPID)，通过分析验证了FOPID具有更好的灵活性，使系统具有很好的动态响应特性。Singh[13]设计了基于蚁群算法分数阶模糊 $\mathrm { P I } ^ { \lambda } \mathrm { D } ^ { \mu }$ 控制器。Jain 等人[14]在直流电机速度控制环节，用粒子群算法设计了分数阶 $\mathrm { P I } ^ { \mathrm { \lambda } } \mathrm { D } ^ { \mathrm { \mu } }$ 控制器。
+
+本文主要是在文献[15]运用的图像的基础上，运用人工鱼群算法对分数阶 $\mathbf { P I } ^ { \lambda }$ 控制器三个参数进行优化， $\mathrm { \bf P I ^ { \lambda } }$ 控制器的典型公式，如式(1)所示。
+
+$$
+\mathbf { C } ( s ) = K _ { p } ( 1 + \frac { k _ { i } } { s ^ { \lambda } } )
+$$
+
+其中： $k _ { p } , k _ { i }$ 是传统的整数阶可调节的参数， $\lambda$ 为积分阶次。
+
+人工鱼群算法是有李晓磊2002年提出的[16],他是一种基于动物行为的智能优化方法，对寻优的空间和性质没有特殊要求，这种搜索方法通过比较目标函数值来得到结果，不需要有导数信息，因而具有较好的全局寻优能力，可以并行搜索，搜索速度快等优点。由于人工鱼群算法对初值不敏感，避免寻优过程中发生局部最优的情况。
+
+分别用图像法和人工鱼群算法得到分数阶 $\mathrm { P I } ^ { \lambda }$ 控制器的参数，然后通过仿真，对比两种方法的仿真结果，可以发现用人工鱼群优化的结果相比图像法，能使系统具有更好的动态响应特性，最后使此优化结果与其周围的参数进行比较，仿真图像表明优化的结果能使系统达到最佳的状态。
+
+# 1 PI图像法的实现
+
+分数阶 $\mathrm { P I } ^ { \lambda }$ 控制器相对于整数阶PI控制器多了一个可调参数，能在更大范围内调节控制器的性能，所以采用分数阶$\mathbf { P } \mathbf { I } ^ { \lambda }$ 控制器的系统能达到更好的控制性能。分数阶 $\mathbf { P I } ^ { \lambda }$ 控制器设计准则要考虑稳定性和增益鲁棒性的要求。以典型的一阶系统 $P ( s )$ ，如式(2)所示，作为被控对象，用图像法设计其分数阶 $\mathbf { P I } ^ { \lambda }$ 控制器。
+
+$$
+P ( s ) = \frac { 1 } { 1 + T s }
+$$
+
+基于分数阶 $\mathbf { P I } ^ { \lambda }$ 控制器典型的一阶惯性系统的开环传递函数为
+
+$$
+G ( s ) = C ( s ) P ( s )
+$$
+
+其中：C(s)是典型的分数阶 $\mathrm { P I } ^ { \lambda }$ 控制器如式(1)。根据系统的相频特性和幅频特性，首先指定系统的截止频率 $\omega _ { c }$ ，在截止频率处幅值满足式(4)。
+
+$$
+\left| C ( \mathrm { j } \omega _ { c } ) \mathbf { P } ( \mathrm { j } \omega _ { c } ) \right| = 1
+$$
+
+为了保证系统的稳定性，指定其相位裕度 $\varphi _ { { } _ { m } }$ ，可列出下列方程式：
+
+$$
+A r g [ \mathbf { C } ( \mathrm { j } \omega _ { c } ) \mathbf { P } ( \mathrm { j } \omega _ { c } ) ] = - \boldsymbol { \pi } + \varphi _ { m }
+$$
+
+根据控制系统增益的鲁棒性条件,以增益鲁棒性为准则[17],作为控制器的设计的约束条件，增益鲁棒性准则如式(6)所示。
+
+$$
+[ \frac { d [ \mathrm { A r g } [ \mathrm { C ( j } \omega ) \mathrm { P ( j } \omega ) ] ] } { d \omega } ] _ { \omega = \omega _ { c } } = 0
+$$
+
+增益鲁棒性准则规定在增益穿越频率 $\omega _ { c }$ 处，系统相频特性曲线导数为0，即系统的相频曲线是水平的，当系统增益发生小的扰动时，系统的相位裕度基本保持不变，在阶跃响应曲线上通过观察他的超调量，看是否满足增益鲁棒性的条件，此时超调量应该基本保持不变[18]。
+
+对式(4)\~(6)进行化简，可以得到下列公式：
+
+$$
+\left| G ( \mathfrak { j } \omega _ { c } ) \right| = \frac { k _ { p } \sqrt { ( 1 + \mathbf { k } _ { i } \omega _ { c } ^ { - \lambda } \cos ( \lambda \pi \int _ { 2 } ) ) ^ { 2 } + ( \mathbf { k } _ { i } \omega _ { c } \sin ( \lambda \pi \int _ { 2 } ) ) ^ { 2 } } } { \sqrt { 1 + ( \omega \mathbf { T } ) ^ { 2 } } } = 1
+$$
+
+$$
+\left[ \begin{array} { l } { \displaystyle \frac { d [ \mathrm { A r g } [ \mathrm { G } ( \mathrm { j } \omega _ { c } ) ] ] } { d \omega } \Bigg ] _ { \omega = \omega _ { c } } = \frac { k _ { i } \lambda \omega _ { c } \sin ( \lambda \tau _ { 2 } ) } { { \omega _ { c } } ^ { 2 \lambda } + 2 k _ { i } { \omega _ { c } } ^ { \lambda } \cos ( \lambda \tau _ { 2 } ) + { \bf k } _ { i } ^ { 2 } } - } \\ { \displaystyle \frac { T } { 1 + ( \mathrm { T } \omega _ { c } ) ^ { 2 } } = 0 } \end{array} \right.
+$$
+
+$$
+\begin{array} { l } { { \displaystyle { \cal A } r g [ { \bf G } ( { \bf j } \omega _ { c } ) ] = - \tan ^ { - 1 } ( \frac { k _ { i } \omega _ { c } ^ { - \lambda } \sin ( \lambda \eta _ { 2 } ) } { 1 + k _ { i } \omega _ { c } ^ { - \lambda } \cos ( \lambda \eta _ { 2 } ) } ) - \tan ^ { - 1 } ( \omega _ { c } \mathrm { T } ) = } } \\ { { \displaystyle ~ - \pi + \varphi _ { m } } } \end{array}
+$$
+
+联立(7)(8)(9)三个方程组解得(10)和(11)：
+
+$$
+k _ { i } = \frac { - \tan [ \tan ^ { - 1 } ( \omega _ { c } \mathrm { T } ) + \varphi _ { m } ] } { \omega _ { c } ^ { - \lambda } \sin ( ^ { \lambda \eta } _ { 2 } ) + \omega _ { c } ^ { - \lambda } \cos ( ^ { \lambda \eta } _ { 2 } ) \tan [ \tan ^ { - 1 } ( \omega _ { c } \mathrm { T } ) + \varphi _ { m } ] }
+$$
+
+$$
+A { \omega _ { c } } ^ { - 2 \lambda } { k _ { i } } ^ { 2 } + B k _ { i } + A = 0
+$$
+
+由式（11）得：
+
+$$
+k _ { i } = \frac { - B \pm \sqrt { B ^ { 2 } - 4 A ^ { 2 } \omega _ { c } ^ { - 2 \lambda } } } { 2 { A \omega _ { c } } ^ { - 2 \lambda } }
+$$
+
+其中：
+
+$$
+\begin{array} { c } { { B = 2 A \omega _ { c } ^ { - 2 \lambda } \cos ( \mathrm { a } \% ) - \lambda \omega _ { c } ^ { - \lambda - 1 } \sin ( \mathrm { a } \% ) } } \\ { { { } } } \\ { { A = \displaystyle \frac { T } { 1 + \left( \mathrm { T } \omega _ { \mathrm { c } } \right) ^ { 2 } } } } \end{array}
+$$
+
+给定截止频率、相角裕度、时间常数ω=10rad/s，φm=$7 0 ^ { \circ }$ ， $\scriptstyle T = 0 . 6 \mathrm { s }$ 。分别画出式(10)(12)的图形， $k _ { i }$ 关于 $\lambda$ 的函数图像，如图1所示。
+
+![](images/41dcea32dbc8628edcd7800afde2e5e6b7546c10c6a8aa13e891bd5058e748c4.jpg)  
+图1图像法获得的曲线
+
+红线是式(12)的波形图，蓝线是式(10)的波形图，则它
+
+们的交点为所求的参数，则 $( \mathbf { \lambda } _ { \lambda } , \mathbf { \lambda } _ { k _ { i } }$ )的值为(0.72,14.75)，代入式(7)可以得到 $k _ { p } = 2 . 8 6 8$ 进而得到分数阶 $\mathrm { P I } ^ { \lambda }$ 控制器：
+
+$$
+\begin{array} { r } { C _ { 1 } ( \mathrm { s } ) = 2 . 8 6 8 ( 1 + \frac { 1 4 . 7 5 } { s ^ { 0 . 7 2 } } ) } \end{array}
+$$
+
+由式(3)可以求出，系统的开环传递函数 $G _ { \mathrm { 1 } } ( \mathrm { s } )$ ，然后求出$G _ { 1 } ( \mathrm { s } )$ 的闭环传递函数，对其闭环传递换函数进行阶跃仿真，则可以得到系统的阶跃响应图形。如图2所示。
+
+![](images/ba635dd3e0adf292478a9e3e6770a5f0bc3f81005137f40bd7698d32fed57cf9.jpg)  
+图2图像法得到的系统阶跃响应
+
+可以从阶跃响应曲线中得出系统的性能指标。一个是上升时间 $t _ { r } = 0 . 1 3$ ，调节时间 $t _ { s } = 0 . 8 2$ ，超调量 $\sigma \% = 1 9 \%$ 。阶跃响应的上升时间是系统从0起第一次上升到稳态值的时间，反映了系统的响应的快速性，调节时间是系统到达稳态值附近的最短时间，一般是稳态值 $2 \%$ 以内，这里取0.998，它衡量系统调节的快慢。超调量是输出量超出稳态值的最大偏移量与稳态值之比，如式(14)所示，它反映了系统的相对稳定性。图像法是通过指定截止频率 $\omega _ { c }$ 来求解 $\lambda$ 和 $k _ { i }$ ，进而求得 $k _ { p }$ ，不能随意给定截止频率 $\omega _ { c }$ ，从而得不到系统的最优点，不能使系统工作在最优状态。因此使用智能优化算法和系统的增益鲁棒性结合，对 $( \omega _ { c } , \lambda )$ 参数进行优化。系统的截止频率 $\omega _ { c }$ 不会特定给出，使得 $\omega _ { c }$ 和 $\lambda$ 自由组合，用人工鱼群算法筛选出最优的值，从而得到最优的组合。
+
+$$
+\sigma \% = \frac { c _ { \mathrm { m a x } } - c _ { \infty } } { c _ { \infty } }
+$$
+
+# 2 人工鱼群算法
+
+# 2.1 人工鱼群的特点
+
+人工鱼群算法是一种基于动物行为的群体智能优化算法，这种算法来源于鱼的觅食行为。由于鱼的自主性，鱼往往能自行或尾随其他鱼，找到食物源最多的地方。因此鱼数目多的地方就是本水域食物多的地方。根据这些特点，来构造人工鱼群算法，通过人工鱼来模拟鱼群的觅食、聚群、追尾和随机行为，从而实现问题的寻优。下面列举了鱼的三种典型的行为：
+
+觅食行为：当鱼在水域中自由移动时，当鱼发现食物多的区域，鱼会自主向该区域游动。
+
+聚群行为：为了保证生存和躲避伤害，鱼会自然地聚集成群。聚群行为遵守三条规则：
+
+a)分隔规则,尽量避免与临近伙伴过于拥挤。
+
+b)对准规则,尽量与临近伙伴的平均方向一致。
+
+c内聚规则，尽量朝临近伙伴的中心移动。
+
+追尾行为是指当鱼群中某个鱼发现食物多的水域，则其他鱼群则会跟着向该水域游动。
+
+水域中食物的浓度是人工鱼群算法的目标函数，每个鱼的状态值为待优化的变量。它包括觅食行为、聚群行为和追尾行为，通过这些方式，可以得到最优的解。在觅食行为中鱼群根据食物的浓度随机移动，它属于极值优化的过程，同时也是自我学习的过程，保证了鱼群的多样性。聚群行为和追尾行为时人工鱼与周围环境相互作用的过程，这两种行为保证人工鱼之间不太拥挤，可以保证人工鱼总体朝着食物多的地方游动，从而寻找到最有的伙伴。人工鱼是一种群体智能优化算法。人工鱼群通过自身的信息和周围环境来调节移动的方向，实现种群的平衡。最终寻找到食物浓度最大的人工鱼的位置。
+
+人工鱼群的三种模式可以互相嵌套，可以先进行追尾行为，如果没有进步在进行觅食行为，如果还没有朝指定方向前进，则执行聚群行为，如果仍然没有进步则就执行随机行为。三种模式最终的结果就是向系统最优的方向前进，如果是求最大值则鱼群就会向最大值方向移动。所以人工鱼群算法在寻优的过程中就有下面的特征：
+
+a)并行性,多个AF并行的进行搜索。b)简单性,算法中仅使用了目标问题的函数值。c)全局性,算法具有很强的跳出局部极值的能力(因为在觅食行为中具有随机性)。d)快速性,算法中虽然有一定的随机因素，但总体是步步向最优搜索。e)跟随性,随着工作情况或其他因素的变更造成的极值点的漂移，具有快速跟踪变化的能力。
+
+# 2.2人工鱼群模型的构造
+
+人工鱼群算法采用自下而上的设计方法： $X = ( \mathbf { x } _ { 1 , } \mathbf { x } _ { 2 , } . . . , \mathbf { x } _ { _ n } )$ ，其中 $\boldsymbol { x } _ { i } ( \mathbf { i } = 1 , 2 , . . . , \mathbf { n } )$ 为寻优的变量；人工鱼当前的食物浓度表示为 $F C { = } F ( X )$ ，其中 $F C$ 是目标函数；人工鱼个体之间的距离为 $d _ { i j } = \parallel \mathbf { x } _ { i } , \mathbf { x } _ { j } \parallel$ ；visual 表示人工鱼的感知距离；step 表示人工鱼移动的最大步长； $\delta$ 为拥挤度因子，fishnum为鱼的数量，gen为迭代次数，try_number为尝试次数。
+
+当fishnum 越大有利于发生局部最优，收敛速度很快，但迭代次数就会增加。当求最大值问题时，取 $\scriptstyle 0 < \delta < 1$ ，当 $\delta$ 越大时，它的允许拥挤度就越小，在整个范围内具有更好的收敛性，但准确度会降低。如果求最小值得问题，取 $\delta { > } 1$ ，当 $\delta$ 越小，允许拥挤度也会变小，在整个区域中有很好的收敛性，同时它的准确度也会降低。当视野范围越小，则觅食行为和随机移动行为就越显著，当视野范围visual越大时，追尾行为就越显著。step 越大，有利于早期的寻优，但在后期收敛过程中容易产生震荡，影响后期收敛的速度。step越小，有利于在部分区域的寻优，但在整个区域的寻优结果变慢。
+
+1)觅食行为
+
+设人工鱼当前状态为 $X _ { i }$ ，在其感知的范围内随机选择一个状态 $X _ { j }$ ，如果求极大值问题时，当 $F C _ { j } > F C _ { i }$ ，则可以向该方向前进一步，如式(15)所示。反之，则再重新选择状态$X _ { j }$ ，再判断是否满足前进的要求，如果反复尝试try_number次后，如果不满足要求则随机移动一步，如式(16)所示。
+
+$$
+X _ { i } ( \mathrm { n e x t } ) = X _ { i } + \frac { X _ { j } - X _ { i } } { \left\| X _ { j } - X _ { i } \right\| } \ast s t e p ^ { \ast } r a n d ( )
+$$
+
+$$
+X _ { i } ( \mathrm { n e x t } ) { = } \mathbf { { \mathrm { X } } } _ { i } { + } s t e p ^ { * } r a n d { \mathrm { 0 } }
+$$
+
+Step\*rand(取[0,step]之间的任意的值， $\frac { x _ { j } - x _ { i } } { \Vert \mathbf { x } _ { j } - \mathbf { x } _ { i } \Vert }$ 向下一个鱼的位置移动。
+
+2)聚群行为
+
+人工鱼的当前状态为 $X _ { i }$ ，探索当前领域内 $( \ d _ { i j } < \nu i s u a l \ )$ 的伙伴数目 $n _ { f }$ 及中心位置 $X _ { c } \ , \ F C _ { c }$ 代表伙伴中心位置事物的浓度。当 $F C _ { c } / n _ { f } > \delta F C _ { i }$ ，则表明伙伴中心有较多的食物并且不太拥挤，则朝伙伴的中心位置方向前进一步，则执行式(17)，否则执行觅食行为。
+
+$$
+X _ { i } ( \mathrm { n e x t } ) = X _ { i } + \frac { X _ { c } - X _ { i } } { \left\| X _ { c } - X _ { i } \right\| } ^ { * } s t e p ^ { * } r a n d ( )
+$$
+
+3)追尾行为
+
+人工鱼当前状态为 $X _ { i }$ ，探索当前领域( $d _ { i j } < \nu i s u a l \ )$ 有最大实食物浓度 $F C _ { \operatorname* { m a x } }$ ，人工鱼的位置 $X _ { \mathrm { m a x } }$ 。如果$F C _ { \mathrm { { m a x } } } / n _ { _ f } > \delta F C _ { _ i }$ ，表明伙伴 $X _ { \mathrm { m a x } }$ 的状态具有较高的食物浓度并且不太拥挤，则朝 $X _ { \mathrm { m a x } }$ 方向前进一步，则执行式(18),否则执行觅食行。
+
+$$
+X _ { i } ( \mathrm { n e x t } ) = X _ { i } + \frac { X _ { \mathrm { m a x } } - X _ { i } } { \left\| X _ { \mathrm { m a x } } - X _ { i } \right\| } \ast s t e p ^ { \ast } r a n d ( )
+$$
+
+4)公告板
+
+公告板是用来记录最优人工鱼个体的状态和和该人工鱼所处位置的食物浓度，每次优化完毕后，使优化的结果与公告板上的值进行比较，检验自身状态与公告板的状态，如果自身优于公告板状态，则替换公告板上的最优状态。当达到迭代次数后，公告板上显示的值为最优值。
+
+# 2.3人工鱼群的设计及其流程
+
+在对分数阶 $\mathrm { P I } ^ { \lambda }$ 控制器进行优化过程中，需要构造一个目标函数，即食物浓度，本次优化实验中，以时间误差绝对值积分（ITAE）作为目标函数，它是一种具有很好的工程实用性和选择性的控制系统性能评价指标[19]，在进行优化过程中，使函数 $J ( \mathrm { I T A E } ) = \int _ { 0 } ^ { \infty } t { \big | } e ( \mathrm { t } ) { \big | } d t$ 的值最小，在本文中通过求$J ( \mathrm { I T A E } )$ 倒数作为目标函数如式(19)，即用人工鱼群算法求出它的最大值。
+
+$$
+F C = \big \gamma _ { J _ { \mathit { \Pi } _ { \mathit { \Pi } _ { \mathit { \Pi } } \mathrm { T A E } } } }
+$$
+
+确定了目标函数以后，还要确定他的搜寻范围，这样可以提高搜寻结果的精度，降低搜寻的时间。在本文中，每个人工
+
+鱼的位置 $X _ { i }$ 可以表示为 $X _ { i } ( \omega _ { c i } , \lambda _ { i } )$ ,人工鱼之间的距离，如式（20）所示。
+
+$$
+d _ { i j } = \sqrt { ( \omega _ { c j } - \omega _ { c i } ) ^ { 2 } + ( \lambda _ { j } - \lambda _ { i } ) ^ { 2 } }
+$$
+
+通过限制 $\omega _ { c }$ 和 $\lambda$ 的范围，缩小寻优的时间，增加准确度。以图像法得到的和 $\lambda ^ { * }$ 作为中心位置。设定它们的取值范围，如式（21）所示。
+
+$$
+\begin{array} { l } { { ( 1 - \mathrm { a } ) \omega _ { c } ^ { * } < \omega _ { c } < ( 1 + \mathrm { a } ) \omega _ { c } ^ { * } } } \\ { { ( 1 - \mathrm { a } ) \lambda ^ { * } < \lambda < ( 1 + \mathrm { a } ) \lambda ^ { * } } } \end{array}
+$$
+
+其中0≤a≤1°
+
+设计的算法流程图如图3所示。
+
+![](images/dc3891a205ab30ec5543a4157a5e460e071357b486a2504d979f1f24934a004a.jpg)  
+图3算法流程
+
+人工鱼群算法求分数阶 $\mathrm { P I } ^ { \lambda }$ 控制器详细的寻优步骤如下：
+
+a)初始化鱼群，确定个变量的值，取人工鱼数量fishnum $\scriptstyle 1 = 1 0 0$ ，最大迭代次数 $M A X G E N { = } 5 0$ ，设定人工鱼的可视域visual=1，步长 $s t e p { = } 0 . 0 1$ ，拥挤度因子 $\delta \mathrm { = } 0 . 6 1 8$ ，尝试次数 $t r y \_ n u m b e r { = } 1 0 0$ 。在式(21)的范围内随机生成fishnum 个人工鱼的状态 $X _ { i } ( \omega _ { c i } , \lambda _ { i } )$ 。通过式(7)(10)计算各个系数，最后计算出 $F C { = } 1 / J ( \mathrm { I T A E } )$ 。此时 $0 { < } \omega _ { \mathrm { c i } } { < } 2 0 , 0 { < } \lambda ^ { < } 1 . 4 2$ 。同时给公告板赋初值。
+
+b)个体通过觅食、追尾和聚群行为，搜寻具有最大食物浓度的人工鱼的位置，得到新的个体 $X _ { i }$ 和 $F C$ 0
+
+c)对通过比较三种行为得到的个体 $X _ { i }$ 和 $F C$ ，得到三者中最优的个体，再与公告板上的值进行比较，若该位置的食物浓度 $F C$ 大于公告板，则替换公告板上的人工鱼位置 $X _ { i }$ 和食物浓度 $F C$ 。
+
+d)当达到最高迭代次数MAXGEN，算法结束，此时的公告板上的值 $X _ { i } ( \omega _ { c i } , \lambda _ { i } )$ 要求得最优值。如果 gen 没达到最大值，则 $g e n { = } g e n { + } 1$ ，转b)。
+
+# 3 仿真检验
+
+典型的速度环控制模型如图4所示。
+
+![](images/c1ef6acac3a3777d6673a751b1f0386a7910047f91d8df430f9dcc2e10e66c66.jpg)  
+图4典型的速度环控制模型
+
+人工鱼群算法迭代过程如图5所示。
+
+![](images/1bca2719e4c505227c88dfe262371808fd0c863336a3dc98e203f5bf094efc51.jpg)  
+图5人工鱼群迭代过程
+
+通过图5可以看出，在迭代20次左右时，目标函数基本达到了稳定状态。迭代20次后已经确定了最优值，说明寻优的过程还是很快的。
+
+P(s)为典型的一阶速度模型，C(s)为分数阶 $\mathrm { P I } ^ { \lambda }$ 控制器，通过人工鱼群算法优化后得到 $\omega _ { c } { = } 1 6 . 4 3$ ， $\lambda ^ { = } 0 . 5 8$ 。则 $\mathbf { k } _ { \mathrm { i } } = 2 9$ 代入式(7)可以得到 $\mathrm { k _ { p } } = 3 . 4 8 7$ 。分数阶 $\mathrm { P I } ^ { \lambda }$ 控制器为
+
+通过图6，把两个系统的阶跃响应的性能指标以表格的形式进行对比分析，如表1所示。
+
+表1两种方法指标对比  
+
+<html><body><table><tr><td></td><td>调节时间</td><td>上升时间</td><td>超调量</td></tr><tr><td>G1</td><td>0.82</td><td>0.13</td><td>19%</td></tr><tr><td>G2</td><td>0.36</td><td>0.07</td><td>16.6%</td></tr></table></body></html>
+
+通过表1可以看出，优化得到的分数阶 $\mathrm { P I } ^ { \lambda }$ 控制器，调节时间，上升时间和峰值明显降低，提高了系统的响应速度，增强了系统的调节能力，能使系统很快达到稳定状态，超调量得到了降低，提高了系统的稳定性。由于积分阶次 $\lambda$ 的引入，使控制器的调节更具灵活性。优化后得到的控制器对应的 $\lambda$ $_ { = 0 . 5 8 }$ ，低于图像法得到的 $\lambda ^ { = } 0 . 7 2 .$ 由于 $\lambda$ 的降低可以减小系统的调节时间，响应速度快。通过仿真验证了 $\lambda$ 的作用，同时，可以从仿真结果看出优化后的指标明显优于图像法得到的指标。
+
+为了验证优化的结果为最优点，分别在 $\omega _ { c } = 1 6 . 4 3$ ， $\lambda$ （204号$_ { = 0 . 5 8 }$ 周围进行取值，因为其附近值的动态特性优于其较远处的值。所以仅比较其附近的值。值的选取方式如下：
+
+X1: $\omega _ { c } { = } 1 4$ ， $\lambda ^ { = } 0 . 5 8$ （204号 X2: $\omega _ { c } { = } 1 8$ ， $\lambda ^ { = } 0 . 5 8$ （204号 X3: $\omega _ { c } { = } 1 6 . 4 3$ ， $\lambda ^ { = } 0 . 4$ （204 X4: $\omega _ { c } { = } 1 6 . 4 3$ ， $\lambda ^ { = } 0 . 7$ （20
+
+代入式(3)，同样得到系统的开环传递函数 $G _ { 2 } ( \mathrm { s } )$ 。为了验证优化后系统的动态特性得到改变，通过阶跃响应曲线对比两种方法的动态特性。同时在 $\omega _ { c } { = } 1 6 . 4 3$ ， $\lambda ^ { = } 0 . 5 8$ 周围选取四个代表性的值，形成四个分数阶 $\mathbf { P I } ^ { \lambda }$ 控制器，与用人工鱼群算法的得到的控制器进行阶跃响应的比较。为了验证增益鲁棒性，分别取优化后 $\mathbf { k } _ { \mathrm { p } }$ 的 $100 \%$ ， $1 1 0 \%$ ， $90 \%$ ，对比不同 $\mathbf { k } _ { \mathrm { p } }$ 的情况下系统的阶跃响应。
+
+$$
+\begin{array} { r } { C _ { 2 } ( \mathrm { s } ) = 3 . 4 8 7 ( 1 + \frac { 2 9 } { s ^ { 0 . 5 8 } } ) } \end{array}
+$$
+
+首先对用两种方法得到的控制器进行比较，分别得出Gi(s)、G(s)对应的闭环传递函数的阶跃响应曲线，如图6所示。
+
+$$
+\begin{array} { r } { C _ { 3 } ( \mathrm { s } ) = 2 . 7 6 ( 1 + \frac { 3 1 . 2 4 7 } { s ^ { 0 . 5 8 } } ) } \end{array}
+$$
+
+通过第2节中的公式的计算，可以得到它们对应的控制器。
+
+![](images/a6efe0722899790c1f4bff0413139959a4d90874bc80da72933204c6c375a2a7.jpg)  
+图6图像法与人工鱼群算法比较
+
+$$
+\begin{array} { r } { C _ { 4 } ( \mathrm { s } ) = 2 . 8 8 ( 1 + \frac { 2 8 . 3 2 3 } { s ^ { 0 . 5 8 } } ) } \end{array}
+$$
+
+$$
+\begin{array} { r } { C _ { 5 } ( \mathrm { s } ) = 9 . 7 8 ( 1 + \frac { 0 . 0 7 } { s ^ { 0 . 4 } } ) } \end{array}
+$$
+
+$$
+\begin{array} { r } { C _ { 6 } ( \mathrm { s } ) = 5 . 0 3 ( 1 + \frac { 1 6 . 3 3 7 } { s ^ { 0 . 7 } } ) } \end{array}
+$$
+
+然后通过式(3)，得到四个控制器对应的系统开环传递函数G3,G4,G5,G6.则它们对应的闭环传递函数阶跃响应曲线如图7所示。
+
+田
+
+![](images/c92f33d603d6699e774e1d2e0eff40e8be74dfaa68b3560a20e50f170e212ff0.jpg)  
+图7不同控制器比较
+
+通过图形可以得出不同控制器下，系统阶跃响应的性能指标，如表2所示。
+
+表2不同控制器的性能对比  
+
+<html><body><table><tr><td></td><td>调节时间ts</td><td>上升时间tr</td><td>超调量o%</td></tr><tr><td>G2</td><td>0.36</td><td>0.07</td><td>16.6%</td></tr><tr><td>G3</td><td>0.44</td><td>0.078</td><td>17%</td></tr><tr><td>G4</td><td>0.44</td><td>0.08</td><td>17.4%</td></tr><tr><td>G5</td><td></td><td>达不到给定值</td><td></td></tr><tr><td>G6</td><td>0.5</td><td>0.09</td><td>18%</td></tr></table></body></html>
+
+右下角是局部放大图形，蓝色的曲线代表 $C _ { 2 } ( \mathrm { s } )$ 用人工鱼群算法优化得到的控制器),红色的曲线代表 $C _ { 2 } ( \mathsf { s } )$ ，黄色的曲线为 $C _ { 4 } ( \mathrm { s } )$ ，紫色的曲线代表 $C _ { 5 } ( \mathrm { s } )$ ，绿色的曲线代表 $C _ { 6 } ( \mathrm { s } )$ 。通过表2和图7看出， $C _ { 2 } ( \mathrm { s } )$ 的调节时间和峰值都优于其他三个控制器。尽管 $C _ { 6 } ( \mathrm { s } )$ 波动很小，但达不到稳态值，综合考虑各项指标， $C _ { 2 } ( \mathrm { s } )$ 控制器最优。
+
+为了验证增益鲁棒性，分别取 $\mathbf { k } _ { \mathrm { p } } = 3 . 1 3 8 3$ ， $\mathrm { k _ { p } = 3 . 8 3 5 7 }$ ，$\mathrm { ~ k _ { p } = 3 . 4 8 7 ~ }$ （分别是标准值3.487 的 $\pm 1 0 \%$ )，通过取不同的 $\mathbf { k } _ { \mathrm { p } }$ ，来得到对应的动态响应曲线，如图8所示。
+
+![](images/d73dc1d89cd96484b6d04f658d01a02c90ddde81e8e479f90a9da4b796e54e54.jpg)  
+图8增益鲁棒性验证
+
+右下角是图形的局部放大图形，蓝色的曲线为 $\mathrm { k _ { p } } = 3 . 4 8 7$ 红色曲线为 $\mathrm { k _ { p } } = 3 . 1 3 8 3$ ，黄色曲线为 $\mathrm { k } _ { \mathrm { p } } = 3 . 8 3 5 7$ 。通过图像可以看出他们的图像几乎是重合的。所以可以得出结论：当增益变化为 $\pm 1 0 \%$ 时，超调量几乎不变，即相位裕度也几乎一样，则满足增益鲁棒性的条件。
+
+# 4 二阶系统分数阶控制器的整定
+
+对于二阶系统，本文以典型的二阶伺服系统为被控对象。近似的原理框图参考图4.则此时P(S)为二阶传递函数。对应的传递函数如式（22）所示。
+
+$$
+P ( s ) = { \frac { 1 } { s { \big ( } 1 + T s { \big ) } } }
+$$
+
+根据系统鲁棒性和稳定性的要求，由式(4)\~(6)得
+
+$$
+\left| G ( \mathfrak { j } \omega _ { c } ) \right| = \frac { k _ { p } \sqrt { ( 1 + \mathbf { k } _ { i } \omega _ { c } ^ { - \lambda } \cos ( \lambda \pi \ / _ { 2 } ) ) ^ { 2 } + ( \mathbf { k } _ { i } \omega _ { c } \sin ( \lambda \pi \ / _ { 2 } ) ) ^ { 2 } } } { \omega ^ { 2 } \left( \sqrt { 1 + ( \omega \mathsf { T } ) ^ { 2 } } \right) } = 1
+$$
+
+$$
+\begin{array} { r l } & { \left[ \frac { d [ \mathrm { A r g } [ \mathrm { G } ( \mathrm { j } \omega _ { c } ) ] ] } { d \omega } \right] _ { \omega = \omega _ { c } } = \frac { k _ { i } \lambda \omega _ { c } \sin ( \lambda \eta _ { 2 } ) } { { \omega _ { c } } ^ { 2 \lambda } + 2 k _ { i } { \omega _ { c } } ^ { \lambda } \cos ( \lambda \eta _ { 2 } ) + { \bf k } _ { i } ^ { 2 } } - } \\ & { \frac { T } { 1 + { ( \mathrm { T } \omega _ { c } ) } ^ { 2 } } = 0 } \end{array}
+$$
+
+$$
+\begin{array} { l } { { \displaystyle { \cal A } r g [ { \bf G } ( { \bf j } \omega _ { c } ) ] = - \tan ^ { - 1 } ( \frac { k _ { i } \omega _ { c } ^ { - \lambda } \sin ( \lambda \pi _ { / 2 } ) } { 1 + k _ { i } \omega _ { c } ^ { - \lambda } \cos ( \lambda \pi _ { / 2 } ) } ) - \tan ^ { - 1 } ( \omega _ { c } \mathrm { T } ) = } } \\ { { \displaystyle ~ - \pi / 2 + \varphi _ { m } } } \end{array}
+$$
+
+$$
+k _ { i } = \frac { \cot [ \tan ^ { - 1 } ( \omega _ { c } \mathrm { T } ) + \varphi _ { m } ] } { \omega _ { c } ^ { - \lambda } \sin ^ { ( \lambda \gamma _ { 2 } ) } - \omega _ { c } ^ { - \lambda } \cos ^ { ( \lambda \gamma _ { 2 } ) } \cot [ \tan ^ { - 1 } ( \omega _ { c } \mathrm { T } ) + \varphi _ { m } ] }
+$$
+
+给定截止频率、相角裕度、时间常数ω=5rad/s，φm=$6 0 ^ { \circ }$ ， ${ \cal T } { = } 0 . 5 \mathrm { s }$ 。分别画出式(26)(12)的图形， $k _ { i }$ 关于 $\lambda$ 的函数图像。如图9所示。
+
+![](images/15b895120e4e1a202332be9b3ec170589159b285a9a85e45a8319cc87024c605.jpg)  
+图9图像法求二阶系统
+
+从图像可以看出 $( \mathbf { \lambda } _ { \lambda } , \mathbf { \lambda } _ { k _ { i } }$ ）的值为（0.593,0.2425)，代入式（23）可以得到 $k _ { p } = 2 . 5 4 8 4$ 进而得到分数阶 $\mathbf { P } \mathbf { I } ^ { \lambda }$ 控制器：
+
+$$
+\begin{array} { r } { C _ { 7 } ( \mathrm { s } ) = 2 . 5 4 8 4 ( 1 + \frac { 0 . 2 4 2 5 } { s ^ { 0 . 5 9 3 } } ) } \end{array}
+$$
+
+同时根据式(21)确定寻优的范围，则此时 $\lambda$ 和 $\omega _ { c }$ 的寻优范围为 $0 { < } \omega _ { \mathrm { c i } } { < } 1 0 , 0 { < } \lambda { < } 1 . 1 8 6 ,$
+
+根据第 2节，用人工鱼群算法进行寻优，则可以得到 $\omega _ { c }$ $_ { = 6 . 0 4 }$ ， $\lambda ^ { = } 0 . 4 1$ 。进而求得 $\mathrm { k _ { i } } ^ { \mathrm { \Delta } } \mathrm { \overline { { \Omega } } } ^ { \mathrm { \Delta } }$ ， $k _ { p } = 3 . 1 3 1 4$ 。则分数阶控制器 $\mathrm { P I } ^ { \lambda }$ 控制器：
+
+$$
+\begin{array} { r } { C _ { 8 } ( \mathrm { s } ) = 3 . 1 3 1 4 ( 1 + \frac { 0 . 0 3 3 5 } { s ^ { 0 . 4 1 } } ) } \end{array}
+$$
+
+分别求出对应的二阶系统的开环传递函数 $G _ { 7 } ( \mathrm { s } )$ ， $G _ { \mathrm { 8 } } ( \mathrm { s } )$ ，对它们对应的闭环传递函数进行仿真，如图10所示。
+
+![](images/c14b2efd3a76812c61d3336cfa7251a28d76f053dd8c627afbc93a0e4097b223.jpg)  
+图10两种方法的对比图
+
+把两个系统的阶跃响应的性能指标以表格的形式进行对比分析，如表3所示。
+
+表3两种方法指标对比  
+
+<html><body><table><tr><td></td><td>调节时间ts</td><td>上升时间tr</td><td>超调量o%</td></tr><tr><td>G7</td><td>5.3</td><td>0.91</td><td>31.2%</td></tr><tr><td>G8</td><td>4.3</td><td>0.86</td><td>26.5%</td></tr></table></body></html>
+
+优化得到的分数阶 $\mathbf { P I } ^ { \lambda }$ 控制器，调节时间，上升时间和峰值降低，提高了系统的响应速度，增强了系统的调节能力，能使系统很快达到稳定状态，超调量得到了降低，提高了系统的稳定性。
+
+同理在其周围进行取值，观察图形看是否为最优点。
+
+X5: $\omega _ { c } = 5 . 0 4$ ， $\lambda ^ { = } 0 . 4 1$ X6: $\omega _ { c } { = } 7 . 0 4$ ， $\scriptstyle \lambda = 0 . 4 1$ X7: $\omega _ { c } { = } 6 . 0 4$ ， $\lambda ^ { = } 0 . 5$ （204号X8: $\omega _ { c } { = } 6 . 0 4$ ， $\lambda ^ { = 0 . 3 }$ 通过式(23)\~(27)可以求出对应的控制器：
+
+$$
+\begin{array} { r } { C _ { 9 } ( \mathrm { s } ) = 2 . 5 3 3 9 ( 1 + \frac { 0 . 2 4 2 2 } { s ^ { 0 . 4 1 } } ) } \end{array}
+$$
+
+$$
+\begin{array} { r } { C _ { 1 0 } ( \mathrm { s } ) = 3 . 7 8 ( 1 - \frac { 0 . 1 1 7 } { s ^ { 0 . 4 1 } } ) } \end{array}
+$$
+
+$$
+\begin{array} { r } { C _ { 1 1 } ( \mathrm { s } ) = 3 . 1 5 ( 1 + \frac { 0 . 0 3 5 } { s ^ { 0 . 5 } } ) } \end{array}
+$$
+
+$$
+\begin{array} { r } { C _ { 1 2 } ( \mathrm { s } ) = 3 . 1 4 3 ( 1 + \frac { 0 . 0 3 8 6 } { s ^ { 0 . 3 } } ) } \end{array}
+$$
+
+则它们分别对应的二阶系统的开环传函数G9,G10,G11,G12，对它们对应的闭环传递函数进行仿真，如图11所示。
+
+![](images/0c880b64ce029c3402c0cbad3d52139fb7b9d2de3b8708fd7c09b8feafe2079a.jpg)  
+图11不同控制器比较
+
+通过仿真结果可以看出G8，G11,G12，基本上是重合的，而G10的动态响应特性优于G8，但G10最终达不到稳定值，使得系统不稳定。综合各个因素，经过优化后的结果，可以得到该二阶系统的最优控制器。
+
+利用第三节鲁棒性的验证方法：分别取 $\mathrm { k } _ { \mathrm { p } } = 3 . 4 4$ ， $\mathbf { k } _ { \mathrm { p } }$ （204号$= 2 . 8 1 8$ ， $\mathbf { k } _ { \mathrm { p } } = 3 . 1 3 1 4$ （分别是标准值3.1314的 $\pm 1 0 \%$ )，则它们对应的仿真图，如图12所示。
+
+![](images/0cd612b6726e4f0bf1411824f7d65b85fc7b4b7bbf3dc9ca4417f80ee53da087.jpg)  
+图12鲁棒性的验证
+
+通过仿真结果可以看出：不同的kp对应的超调量分别为$2 6 . 3 \%$ ， $2 7 . 6 \%$ ， $23 . 9 \%$ 。当 $\nu _ { \mathrm { p } }$ 变化时，系统对应的超调小幅度的变化，对应的相位裕度也相对变化较小，基本满足鲁棒性的要求。
+
+# 5 结束语
+
+首先用图像法得到分数阶 $\mathrm { P I } ^ { \lambda }$ 控制器的参数，在此基础上指定截止频率 $\omega _ { c }$ 和分数阶系数 $\lambda$ 的范围，用人工鱼群算法对分数阶 $\mathrm { P I } ^ { \lambda }$ 控制器参数进行优化,从而得到截止频率 $\omega _ { c }$ 和分数阶系数 $\lambda$ ，为了验证用人工鱼群算得到控制器最优，分别与图像法得到的控制器进行仿真对比，并且和其周围的值形成的控制器进行对比验证。通过仿真验证可以看出，用人工鱼群算法得到的控制器动态特性最优。为了验证其增益鲁棒性，通过对比 $\mathbf { k } _ { \mathrm { p } }$ 在 $\pm 1 0 \%$ 的范围变化时的响应曲线，对于一阶系统来说曲线没有明显的变化，满足增益鲁棒性的条件，而二阶系统的鲁棒性没有一阶系统的鲁棒性好，从总体的结果来看，人工鱼群算法和图像法的结合使得系统的动态性能指标得到了提高。
+
+# 参考文献：
+
+[1]Podlubny I.Fractional-order systems and controllers [J].IEEE Trans on Automatic Control, 1999,44(1): 208-214.   
+[2]Yahyazadeh M, Haeri M.Application of fractional derivative in control functions [C]//Proc of Annual IEEE India Conference,20o8:252-257.   
+[3]OustaloupA. Frequency-band complex nonintegerdifferentiator: characterization and synthesis [J].IEEE Tans on Circuits & Systems I Fundamental Theory & Applications,2000,47(1): 25-49.   
+[4]Podlubny I,Dorcak L,Kostial I.On fractional derivatives,fractionalorder dynamic systems and-controllers [C]//Proc of International Conference on Decision and Control.1997.   
+[5]杨智，陈颖.改进粒子群算法及其在PID 整定中的应用[J].控制工程, 2016,23 (2): 161-166.   
+[6]Farhadi P,Sojoudi T.PEMFC voltage control using PSO-tunned-PID controller[C]//Proc ofIEEE NWRussia YoungResearchers in Electrical and Electronic Engineering Conference.2014:32-35.   
+[7]Jakhar A,Gaur P.Comparative analysis of GA tunned PID controller for Direct Torque Control [C]// Proc of International Conference on Computer, Communication and Control. 2015:1-6.   
+[8] 胡海波，黄友锐.混合粒子群算法优化分数阶PID控制参数研究[J]计 算机应用研究,2009,29(9):2483-2486.   
+[9]秦君琴，李兴财，杨有贞.分数阶 PID 控制器在蔬菜大棚温度控制中的 应用研究[J].西南大学学报：自然科学版,2016,38(01):179-182.   
+[10]MohantyA,Viswavandya M,Mohanty S,etal.An optimised FOPID controller for dynamic voltage stability and reactive power management ina stand-alone micro grid [J].International Journal of Electrical Power &Energy Systems,2016,78:524-536.   
+[11] Jauregui C,Mermoud MD,Lefranc G,et al. Conical tank level control with fractional PID[J].IEEE Latin America Transactions,2016,14(6): 2598-2604.   
+[12]Altintas G,Aydin Y.A comparison on genetic algorithm based integer order and fractional order PID control of magnetic bearing system $[ \mathrm { C } ] / \hbar$ Proc of the IEEE International Conference on Mechatronics.2O17:20-24.   
+[13] Singh R,Kumar A,Sharma R.Fractional order PID control using ant colony optimization [C]// Proc of the 1st IEEE International Conference on Power Electronics,Intelligent Control and Energy Systems.2016:1-6.   
+[14]JainRV,Aware MV,Junghare A S.Tuning ofFractional Order PID controller using particle swarm optimization technique for DC motor speed control [C]//Proc of the 1st IEEE International Conference on Power Electronics,Intelligent Control and Energy Systems.2016:1-4.   
+[15] Wang Chunyang,Fu Weicheng, Shi, Yaowu.Fractional order proportional integral differential controllr design for first order plus time delay system [C]// Proc of the 25th Chinese Control and Decision Conference. 2013:3259-3262.   
+[16]李晓磊，邵之江，钱积新.一种基于动物自治体的寻优模式：鱼群算法 [J].系统工程理论与实践,2002(11):32-38.   
+[17] Luo Ying,Chen Yangquan,Pu Youguo.Experimental study of fractional order proportional derivative controller synthesis for fractional order systems [J].Mechatronics,2011,21(1): 204-214.   
+[18] Luo Ying,Li Hongsheng,Chen Yangquan.Fractional order proportional and derivative controller synthesis for a class of fractional order systems: Tuning rule and hardware-in-the-loop experiment [C]//Proc of the 48h IEEE Conference on Decision and Control. 2009:5460-5465.   
+[19]刘金琨.先进 PID 控制 MATLAB 仿真[M].北京：电子工业出版社, 2016.

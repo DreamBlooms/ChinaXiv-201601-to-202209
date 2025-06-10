@@ -1,0 +1,437 @@
+[
+    {
+        "type": "text",
+        "text": "儿童图书馆促进读写能力了吗？\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "卫桐圻1，刘颖²(1．中国科学院心理研究所信息中心图书馆，北京，100101)(2．首都医科大学医学人文学院心理系，北京，100069)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[摘要] ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着我国儿童对阅读和图书馆服务的需求日趋加大，国内越来越重视儿童图书馆的馆藏与服务建设。但是，儿童图书馆究竟给儿童读者带来了怎么样的裨益，特别是其服务所重点针对的读写能力，是否真的得到了促进呢？通过文献检索和分析，总结发现回答这个问题的两大类研究：读写促进研究和图书馆儿童读写效益评估研究。第一类研究因为并不将图书馆作为服务主体，所揭示的结论并不能真正回答我们所关心的问题。而第二类研究又可以根据所针对的读者群体不同，分为图书包效益研究、早期读写项目评估和暑期阅读项目评估。国内外图书馆界的研究者已经开始关注到这个关键的基本问题，但是目前的研究深度和规范化程度并不能很好地回答这个问题，依旧留下了很多悬而未决的问题。儿童图书馆研究者应该采取更广阔的视角，更多样的指标工具，更扎实的科学方法，厘清同时也展示儿童图书馆在儿童早期阅读发展中所能够发挥的巨大作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[关键词] ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "未成年人服务读写能力 儿童图书馆图书馆评估",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[分类号] G258.7 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图书馆以促进读写为己任，故而，儿童是图书馆天然的重点服务群体。儿童图书馆是公共图书馆重要组成部分。儿童图书馆通常指以儿童为主要服务对象，以国内外经典绘本、少儿读物及早期儿童教育类图书为主要收藏的一类图书馆[1]。儿童图书馆可能有不同的叫法，比如绘本馆、读书会、悦读馆、童书会、阅读屋等[2]。国外公共图书馆提供儿童服务几乎是其必须的职责。美国图书馆联合会（American Library Association，ALA）明确要求，图书馆员有职责确保每一名儿童，无论其社会经济地位如何，充分地发展成为合格的阅读者。根据ALA的统计，美国有 $9 4 \\%$ 的图书馆有儿童空间， $9 5 \\%$ 的图书馆提供夏季阅读项目（Summer Reading Program）， $8 9 \\%$ 的图书馆提供故事时光活动， $8 3 \\%$ 图书馆与学校建立了合作关系[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近几年，国内也越来越重视公共图书馆中少儿馆藏资源和阅览服务。在2018 年1月1日正式生效的《中华人民共和国公共图书馆法》中，明确规定“政府设立的公共图书馆应当设置少年儿童阅览区域，根据少年儿童的特点配备相应的专业人员，开展面向少年儿童的阅读指导和社会教育活动，并为学校开展有关课外活动提供支持。有条件的地区可以单独设立少年儿童图书馆。”",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与此同时，国内兴起了一股儿童图书馆建设热潮。不仅仅是公共图书馆，一些大学图书馆也创设专门的儿童图书馆和阅读区[4，而私营机构以营利为目的，创建了更多更贴近社区的儿童图书馆。儿童绘本馆俨然成为一个热门行业。在公共图书馆的视野之外，有大量活跃的儿童绘本馆在服务社会，服务社区，并且每年组织行业年会。私营力量的介入从一个侧面显示出，儿童对图书馆服务有着巨大的需求。全国不少一二线城市的儿童绘本馆数量已经达到200-300家，全国绘本馆总数超过1万家，已经俨然成为一个新兴的行业[5。绘本馆的开设速度和规模，远远超过了人们之前对儿童图书馆发展的预期。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "伴随这种热潮随之而来的问题是，究竟儿童图书馆的存在对儿童成长带来了哪些裨益呢？特别是在图书馆资源和服务所直接针对的儿童读写能力，图书馆服务是否真正有所助益？本文希望系统地回顾图书馆促进儿童读写能力的有关研究，对此领域当前的研究现状与前沿动态进行介绍，并引出对未来研究开展的建议和想法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1读写促进研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "读写（Literacy）研究大体上会采取两种取向。一种研究取向来自心理学和教育学，它们更为关心个体的成长，关心通过何种形式，涉及哪些因素，可以提高儿童的读写能力。我们称之为“读写促进研究”。这类研究数量众多。图书馆是否有利于促进读写能力，常常不是此类研究重点考察的核心问题，一般仅仅作为次要变量或者控制变量来探讨，而非主体因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "尽管如此，这类研究对于图书馆而言，其价值在于，它将图书馆作为一个因素，同时与其他众多关键因素放在一起比较，可以了解图书馆效用的相对大小，同时，也可以发现图书馆所扮演的独特作用。比如，在 Seéneéchal等人的研究中，作为一项附加的发现，揭示出图书馆的使用与词汇知识有正相关。幼儿园儿童在词汇量上的差异有 $5 \\%$ 的可能与“是否经常去图书馆”有关，即便考虑了父母的教育水平、父母文本暴露（text expose）和亲子共读的情况后，结果依旧如此。虽然该研究显示了词汇量与图书馆使用之间的正面关系，但是该研究的重点不在图书馆，对图书馆使用行为本身缺少更细致地分析[6]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在“读写促进研究”中，最为著名的是纵向追踪EPPE项目，全称为“学前教育的有 效 供 给”（EffectiveProvisionofPre-SchoolEducation，EPPE）。这项欧洲最大范围的纵向科学调查试图了解学前护理与教育的效果。EPPE随机招募了2800 组参加学前教育的儿童，同时，另招募了接近3000 名居家儿童，即不参加正式学前教育的儿童，作为对照。所调查的内容不仅仅是儿童自身的各项发展轨迹，还包括他们成长的教育环境、家庭环境和社区环境等要素。在该项目中，测量家庭学习环境（homelearningenvironment）的指标起初有14项，包括一般的家庭活动，比如，请朋友来家里游戏、拜访朋友或亲戚、购物、看电视、家人一起吃饭、规律作息等。这些活动因与受测儿童5岁时的读写与数学水平都没有关系，最终被剔除。剩余7项活动，分别为是否经常开展亲子阅读、是否带孩子画画、或者带孩子与他的朋友一起在户外玩耍、教字母、教数字、教唱歌、以及是否经常带孩子去图书馆。每一项都与促进认知和学业进步存在正相关。这些活动的综合测量，可以作为独立变量来预测受测儿童5岁时的读写成绩和数学能力，而且一直到孩子11岁依旧具有非常强的解释力。家庭学习环境不仅可以预测到小学高年级的学业发展，还会影响其社会发展。在良好家庭环境中成长的孩子，有更少的行为问题，表现出更多的亲社会行为，不容易出现多动问题等等。实际上，这从一个重要的侧面，说明了父母带孩子去图书馆，相比其他家庭活动，有非常重要的教育价值[7]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从以上两则读写促进研究中可以看出，仅仅把图书馆作为次要变量开展研究是不够的。儿童图书馆致力于面向儿童群体开展读写服务，塑造与促进儿童读写能力发展，但是在读写促进研究中，无法看清儿童图书馆扮演的角色与功效。儿童图书馆真的对儿童的读写发展至关重要吗？促进儿童读写能力提高的因素有许多，图书馆只是其中一项。不去或者不经常去图书馆的孩子，并不一定缺乏读写学习的条件和环境。不去或不经常去图书馆的孩子是否在读写上与经常去图书馆的孩子存在差异？只有将图书馆作为读写促进的主体来深入细致地加以分析，才能够了解儿童图书馆促进读写发展的关键机制，也才能够促进儿童图书馆在资源建设与阅读服务上的开展与改进。图书馆的研究者并非没有看到和重视这个问题，相关的研究也不算少，这类研究多数采用了“评估”视角，也就是，以评估为目的，来了解图书馆的某项资源和服务是否达到了所设计的目标。我们称之为“图书馆儿童读写服务效益评估研究”。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2图书馆儿童读写效益评估研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "读写相关研究的另外一种取向是，以儿童图书馆为主体开展的服务效益评估研究。根据0rr的图书馆服务评估模型，评估可以从测量输入端入手开展“投入资源评估”，也可以从测量过程端入手开展“服务能力评估”，还可以从结果端入手开展对个体、社区和组织的“产出与效益评估”［8]。这里要特别注意在结果端的评估中，区分产出（Output）评估与效益（Outcome）评估。儿童图书馆服务或者活动的产出可以通过服务或者活动后，直接统计参与规模、借阅量、办证量、媒体报道等体现出来。这往往是图书馆普遍关心的指标。这些指标上的良好表现被用于显示图书馆的服务是否成果、是否有足够的影响力和覆盖面。而实际上，越来越多的人意识到，图书馆应该更延伸一步去测量效益指标。这包括使用质性与量化的客观方法去测量活动参与者和服务对象在技能上、知识上、行为上、态度上的积极变化，去测量图书馆对社区和公众带来的可计量的回报。无疑，只有这样做，使用客观可信的测量方法，建立起图书馆活动和服务与实际效益之间的确定因果关系，才可以更好地彰显图书馆的作用[9]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文所重点关注正是这类工作，特别是，公共图书馆开展未成年人服务对服务对象个体的增益。更具体说，侧重图书馆资源和服务对儿童读写能力的影响，强调图书馆的主体作用，对于明确回答图书馆的儿童服务对儿童发展的作用，更为切合，也更为细致。这也就要求，图书馆评估不能只是关注产出指标，更要关注效益指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1国外研究",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "国外有进行量化评估的传统和氛围。面向不同年龄段开展的读写服务各有不同，差异非常大。通过我们的调研发现，国外相关研究通常可以分为三类：一、面向0-3岁读者，以 Bookstart为代表的图书包效益评估；二、面向学龄前儿童，主要以早期读写项目（故事时间等）为评估对象的相关评估研究；三、面向学龄儿童的夏季阅读项目相关评估研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.1图书包效益研究",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图书包（bookgifting）是图书馆面向0-3岁儿童开展服务的重要形式。这类服务的评估研究就不能不提英国的 Bookstart项目。之前有不少论文介绍过这个项目[10]。该项目最初的主要做法是在孩子9个月大的时候，通过家访赠送图书包。图书包中除了绘本读物外，还有书签、海报、儿童卡片以及一些读写教育的知识手册。后期的类似项目在图书包的内容上有升级，但是基本构成结构变化不大。Bookstart项目之所以广受关注，不仅仅因为它的辐射面广泛，成为了国际性的项目，很大程度上，更是因为它开展了扎实全面的评估研究。Bookstart评估研究展示出的积极效果，是其受到认可、被广泛采纳的重要原因。英国伯明翰大学的研究团队从Bookstart项目一开始就密集、持续地组织了多种方式方法的评估。在发放图书包以后不久，就开展问卷调查，发现收到图书包的家庭对图书有着更为积极的态度，更多地办理了图书馆的读者证，更多开展了亲子阅读，也购买了更多的书籍[11]。两年以后，采用结构化访谈和观察法等质性研究方法，Bookstart的参与家庭相比对照组，依旧对图书，对图书馆更为亲近，亲子共读的互动也更为良好[12，13]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "更重要地是，追踪评估一直在持续。当参加 Bookstart项目的儿童进入学龄阶段后，研究者采用标准化的测量工具进一步发现，这些儿童无论是语文还是数学上的成绩都明显好于没有参加 Bookstart项目的儿童[14]。一直到7岁半,Bookstart项目的参与者相比未参与者，在学业成绩的各个方面都有明显的优势。无论采用教师打分这种主观评估方式，还是学业测量这种客观评估方式，都是如此[15]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其它与Bookstart类似或者升级的图书包项目的评估工作也都做的很好。评估工作更是逐渐走向深入。Berg 等研究者分析了在Bookstart项目中高反应性气质（Temperamentallyreactivechildren）儿童的表现。高反应性气质的儿童对父母口语互动的反馈通常很消极，会更多体验到悲伤、愤怒和受挫等负面情绪。结果发现，这些儿童从Bookstart项目中受益最大，他们在15个月的时候，不仅仅语言发展水平好于没有参加Bookstart项目的婴儿，甚至好于普通和低反应性气质的婴儿[16]。Berg在他的博士论文中，通过统计方法进一步验证了Bookstart与早期语言发展之间的因果关系。如果父母遵从Bookstart 的指引，在1岁之前开始亲子共读，那么他们的孩子在2岁的时候，往往比同龄没有参加Bookstart的孩子有更好的语言发展水平[17]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对两岁孩子的图书包项目被称为Bookstart+。研究者采用较为严格的随机对照试验的设计方案来考察Bookstart+的实施效果。研究者主要关心三方面的变化：父母对阅读与书的态度，父母对亲子阅读的态度，以及对图书馆使用的倾向。两次测量间隔三个月。结果显示，父母对阅读和书的态度出现了明显的积极变化，对亲子阅读的态度没有差别，而对图书馆使用的倾向却呈现负面。这一研究的不足之处有两点：一方面，前后测间隔时间太短；另外一方面，态度变化的原因也非常值得进一步仔细探究[18]。在爱尔兰的“Preparing forLife”项目中，研究者比较了两种干预条件的效果。一种是低强度干预，仅仅发放图书礼包。另外一种是高强度干预，不仅提供图书礼包，还包括从孕期开始到婴儿12个月期间每半个月一次的家访，提供对儿童发展的全面指导。结果显示，两组家庭在亲子阅读的频率上没有差异，均明显高于对照组。孩子6个月的时候亲子阅读频率会影响1岁时的词汇理解、认知与社会情绪能力[19]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.2早期读写项目评估",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最早有意识地专门评估图书馆早期读写项目对儿童读写发展影响的全面研究应该是来自Celano 和Neuman在2001年公布的一项评估报告。这份报告广受瞩目。该工作受到宾夕法尼亚州的资助，来评估宾夕法尼亚州公共图书馆暑期阅读项目和学前项目的实施效果。评估采用了混合研究方法的设计，既使用了问卷调查、实地走访观察与访谈，也有简单的现场实验。研究认为，图书馆提供的学龄前儿童阅读服务和暑期阅读项目，增加了儿童的阅读经验，培养了阅读习惯，显著地促进了儿童的阅读成就。但是这项研究的调查对象主要是图书馆员，而非儿童读者。所有儿童的获益是从图书馆员的观察、分析和评估来得到的，并没有开展面向儿童读写能力的测查。而该项目计划开展的实验研究，以儿童为被试，试图比较参加图书馆暑期项目与参加夏令营的儿童在阅读能力上的差异。因为缺乏后测，其结果的说服力也不足[3]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "十年后，加拿大的图书馆研究者采用了混合研究设计来评估多伦多公共图书馆的学龄前读写项目。他们采用问卷调查了82名抚养人，采用观察法实地观察比较了65名参加图书馆项目的儿童，并访谈了10名图书馆一线馆员。这次的研究考察的变量更为广泛，细致分析到众多早期阅读相关技能。包括有文本动机（print motivation）、语音意识（phonological awareness）、词汇量（vocabulary）、陈述意识（narrativeawareness）以及文本意识（printawareness）等。这些变量都是早期读写技能（emergentliteracy）的重要构成，也是儿童未来学业成绩的重要预测因子。研究深度的增加，是与心理学与教育学对早期读写技能的研究不断深入分不开的，也与图书馆不断努力介入分不开。特别是由美国公共图书馆协会发起的 Every Child Ready to Read项目（ECRR），强调了这六种关键早期读写技能，成为了后来不少图书馆学前读写项目的评估目标[20]。在这项研究中，参加图书馆早期读写项目的3-5岁儿童，相比他们在参加项目之初，发展出多方面的积极变化，培养了更清晰的元语言学意识，掌握了更多的新词汇，以及对馆员陈述有更好的理解。但是这项研究缺乏对照组，即便观察对象产生了积极变化，抚养人也认可图书馆的早期读写项目为孩子带来了正面效益，但依旧需要更多扎实的研究工作[21]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2014-2015 年开展了历时一年的 SPELL 项目（Supporting ParentsinEarlyLiteracythroughLibraries）采用了前后测的追踪研究设计。问卷的发放主要面向在公共图书馆参加早期读写项目的父母，有八所科罗拉多州的图书馆参加。前后测的比较显示出，参加图书馆项目的家长明显提高了对早期读写和阅读的重视程度，掌握了培养早期读写发展的知识和技能，并能在日常活动中更自信地运用这些。但是这项研究，前测与后测采用了两组不同的被试，问卷题目也并不完全相同，这使得两次测验的差异是否真正来自项目实施是有疑问的。[22]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "来自图书馆界发起的评估项目 Valuable Initiatives in Early LearningThatWork Successfully（VIEW2）也同样关注早期读写技能的发展，希望通过观察法和准实验设计的方案来研究公共图书馆故事时间活动如何培养塑造儿童的早期读写技能。该项目认为，虽然在图书馆针对学前儿童的服务中强调了早期读写能力的培养，但是缺乏相应的研究来证明，图书馆对早期读写能力的强调是否对儿童以及他们的家庭产生了真正的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在VIEW2项目的观察研究中，研究者采用了两套观察工具。一套为基准课程规划与评估框架（Benchmarks Curricular Planning and AssessmentFramework，BCPAF)，用于评估儿童早期学习发展情况。另外一套为程序评估工具（Program Evaluation Tool，PET），用于评估讲故事项目和讲故事的人。通过观察研究，发现儿童在参加图书馆活动中所表现出的早期读写行为与图书馆员在故事活动中的有意引导密切相关。这证明了图书馆员的引导对儿童的读写行为表现之间有明确的因果关联。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在准实验研究中，干预方案包括了网络视频教学和手把手活动指导。内容重点为早期读写能力的术语和概念，特别是字母知识和语音意识两项重要的早期读写技能，这两项技能对未来阅读能力具有最强的预测作用。干预方案还包括有馆员之间共享成功经验和挑战的互动环节。第二年的评估环节，包括两个部分，一个是田野笔记的质性分析，另外一个采用 BCPAF 和 PET 的量化编码。BCPAF 和PET的观察结果显示，经过培训后，馆员在故事讲述中对字母知识的强调明显增多，而同时，儿童在字母知识方面的行为表现也随之增多。但是在语音意识上，不存在显著性的变化。研究者认为，这项研究是第一次采用了综合系统可靠的方式进行大范围的准实验研究来评估非正式学习环境（比如图书馆的讲故事活动）对儿童阅读发展的影响。但是，这项研究的缺陷是显而易见的。对儿童早期读写能力的评估并没有采用通行的标准化测试，而是采用了观察编码方式。准实验研究针对的对象也是图书馆员，而非儿童。无论如何，这项研究一定程度上证明了公共图书馆在促进儿童早期读写能力发展中的积极作用[23,24]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "还有一些研究试图检验 ECRR的理念，即图书馆除了直接提供服务外，更重要地是，通过为父母、社区、儿童保育机构等其他主体提供早期读写支持，间接促进儿童阅读发展。比如，Czarnecki（2009）以49名儿童保育机构的教师作为实验组，开展早期读写素养的工作坊，为他们提供教学工具与素材，以及持续的指导。这些工作的实际效益体现在参加实验组的保育老师所培养的学生在早期读写技能评估测试上的三项成绩都显著性地好于控制组，特别是在阅读理解上，超过 $5 0 \\%$ 的实验组儿童的后测成绩比前测提高了6分，而控制组的儿童几乎没有提高6分的。图书馆仅仅提供两期总共4.5小时的工作坊，以及一些材料和日常支持，就可以对保育老师和他们的学生产生那么大的变化，这确实令人惊讶。但这项研究，对接受测试的两组学生的具体情况介绍非常模糊，甚至不清楚到底有多少儿童在实验组和控制组里。这让人对研究结果的可靠性产生不小的怀疑[25]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.1.3暑期阅读项目评估",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图书馆针对学龄儿童读写服务中最具特色的是暑期阅读项目。暑期阅读项目通常被认为是为了应对假期倒退现象（summerloss 或者 summer slide）：在经历过长期的假期后，学生的学业成绩有一定程度的退步，特别会表现在阅读领域，而且低收入阶层最明显[26]。为了避免这种现象发生，美国几乎 $9 0 \\%$ 公共图书馆都会在暑期提供阅读项目[27]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图书馆开展暑期阅读活动最常引用的证据来自Heyns在1978年出版的一本书《Summer Learning and the Effects of Schooling》，此书在 GoogleScholar上的引用已经超过1000余次。该书强调了暑期阅读对学校教育的重要性，并进一步肯定了在暑期，图书馆有不可替代的作用[26]。随后很多年，对暑期读写项目的评估研究往往重视的是产出（Output），看重暑期项目招录了多少参与者、参与者的满意程度与持续参与程度、馆员自己评价等等。比如，在Locke 的博士论文中，对公共图书馆暑期阅读项目的有效性（effectiveness）就只定义为是否招募到了本社区中总几童人口比例的 $8 \\%$ 。超过了 $8 \\%$ ，就被认为是有效的[28]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "以图书馆为主体开展的评估研究，很少真正去测量效益（Outcome）。即便英国每年由 The Reading Agency 定期开展暑期阅读挑战（Summer ReadingChallenge）的评估工作[29]，而加拿大甚至开展全国性的暑期阅读计划的统一评估[30]，这些项目都没有测量实际效益。这样的情况同样发生在美国的夏季阅读项目评估中[31]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "一直到2010年才有研究者使用标准化的阅读测验来考察图书馆开展的夏季阅读项目对三年级小学生是否有助于避免阅读倒退。结果很令人鼓舞，参加项目的孩子们没有表现出明显的阅读倒退。但是，这项研究没有对照组，且自愿参加项目的小学生本身就经济条件较好，阅读成绩也不错，平时就喜欢去图书馆，家里藏书也不少。这样的群体或许并不会经历暑期阅读倒退。但无论如何，这是第一次在较大样本上，以图书馆为主体，采用了标准化的阅读测验来评估图书馆服务项目的实际效益[32]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "之后的研究中，最值得一提的是Dynia等人在2015 年的工作[33]。他和他的团队将参加夏季阅读项目的90名二、三年级的儿童分为两组，分别参加两种夏季阅读项目。每一组都采用标准化的阅读测验进行前后测。作为控制组的儿童在整个项目的后测完成以后，才开始参加暑期阅读项目，因此，控制组可以理解为是有意愿参加夏季阅读项目但尚未开始的一群儿童。从两组之间与前后测之间的比较数据看，夏季阅读项目的效果并不明显。控制组的各项阅读成绩并不全部低于实验组，实验组的阅读后测成绩也不全部好于前测成绩。两组儿童日常的阅读活动也没有明显的差异。作者认为，因为两组都是志愿参与夏季阅读项目的儿童，他们原本就有非常良好的阅读习惯和技能，并不会经历假期倒退。但是研究的结果从另外一方面也对夏季阅读项目的效果提出质疑，夏季阅读项目的作用究竟如何，仍是一个大大的问号。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Waiksnis的研究也对夏季阅读项目与避免假期倒退之间的联系提出了挑战他让30 名贫困学生在学期末带12本书回家阅读，其中2本书是学校推荐书目中的书，另外的书由学生自己根据兴趣选择，以考察在解决了贫困学生获取图书的困难以后，是否可以避免阅读倒退。研究者尽可能减少对学生的干预，观察了两年，测量了三次阅读成绩。结果非常出人意料。原本实验组和控制组在阅读成绩上差别并不大，但是实验组却年年表现出阅读倒退，控制组却没有这个问题。不仅如此，实验组的阅读动机也下降了，对阅读价值的理解也没有改观。这个研究说明，仅仅提供图书，而缺乏其他支持，是远远不够的。夏季阅读活动如何开展，采取什么样的手段，对结果有着充分的影响[34]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "夏季阅读项目也有一些振奋人心的研究结果。比如，美国弗吉尼亚州全州范围的夏季阅读评估报告，是本次文献综述所见最为彻底完整的图书馆夏季阅读评估报告。该项目始于2013年，报告出版于2015年。一共包括4份报告：第一份报告主要调查参加夏季阅读项目的儿童的阅读量和阅读内容，以及整个州90 余家公立图书馆夏季阅读项目的开展情况；第二份报告描述了实地访问弗吉尼亚公共图书馆，观察他们实施夏季阅读项目的具体情况，并针对图书馆员和儿童家长开展访谈；第三份报告则通过与当地教育主管部门的合作，采用了大样本的准实验设计方案，用标准化的读写素养测量工具，全面比较了不同年龄段参加夏季阅读项目的儿童与没有参加项目的儿童在阅读成绩上的差异。整个研究一共涉及参与者4958名和对照组4958名。采用2013年秋季学期的学业成绩作为前测，2014年秋季学期的学业成绩作为后测。比较意外的结果是，学龄前到小学2年级的儿童的后测成绩比前测成绩要差，但总归依旧要好于不参加图书馆项目的儿童。其他年级的儿童在各项阅读成绩的表现都要好于不参加项目的儿童，这一结果充分展示了夏季阅读项目在促进阅读能力提高上的巨大作用。更有价值的结果来自报告四，它展示了为数不多的大样本追踪研究的结果。研究者调查了参加夏季阅读项目的儿童在随后两年的阅读成绩。结果发现，参加过项目的儿童在两年后，依旧会比不参加夏季阅读项目的儿童具有更好的阅读成绩，两组儿童的阅读差距随时间在拉大。而连续两年均参加图书馆项目的儿童可以一直保持良好的阅读成绩。这组评估工作依旧有一些问题。比如，阅读成绩下降最明显的群体是第一年没有参加图书馆项目，而第二年参加的儿童，他们比始终不参加图书馆夏季项目的儿童阅读成绩下降的还要明显，但他们依旧是阅读成绩最好的一组。这样的结果似乎很难解释。但无论如何，这项评估工作依旧以非常标准化的实验设计与测量，以及长时程的追踪调查，令人眼前一亮[35，36]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2国内研究",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "国内儿童图书馆研究中，实证研究偏少。我们2020年2月完成了一项针对国内公共图书馆未成年人服务的文献综述研究，通过文献检索，回顾了3224篇未成年人服务的研究论文，只有202篇采用了实证研究方法，比例只有 $6 \\%$ [37]。其中，多数研究为各个地区的阅读现状、图书馆服务现状、读者满意度的调查，多为描述性研究，并没有研究某一项图书馆的服务与活动，是否真的给读者带来阅读能力上的提升，也不曾从成效上去评估是否达到了服务和活动设计的初衷。虽然有些研究，从题目上看，似乎与这些主题相近，比如发表在2019 年的论文《公共图书馆环境对少儿阅读的影响研究》，但是它并没有真正测量少儿读者的阅读水平，本质上依旧是传统上图书馆服务满意度的调查[38]。还有广州图书馆冯莉的阅读服务评估研究相较严格的实证研究还有不少距离[39]。但是，应该看到，此类问题已经得到国内部分图书馆的重视，有意识地开始对图书馆的未成年人服务进行多手段多指标的评估。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "还有一些框架性研究提出了儿童图书馆活动评估应该采取的指标体系。比如，王素芳等人明确提出要重视图书馆阅读推广活动的评估，并通过德尔菲法构建了一套适用于我国现实情况又符合国际趋势的评估指标框架。在这一框架中，综合考虑了作为服务主体的图书馆，作为服务对象的参与者，以及活动的社会影响等三个方面。其中，参与者收益度在所有二级指标中权重最大，并且在其下的三级指标中不仅仅有图书馆传统的产出指标，诸如借书册数、参与图书馆活动次数等，还包括了阅读技巧、交际能力等效益指标。这个框架的提出，一方面可以指导阅读推广活动的评估工作，为实践服务提供价值导向。另外一方面，对每个评价维度都可以再细化，这也是更进一步细致研究以图书馆为主体的阅读服务的基础性工作[10]。类似的评估框架研究还有广州少年儿童图书馆戚敏仪提出的阅读活动评价指标体系，分别从活动的预备层面、收益层面、过程层面分别提出指标，采用Kano模型来建立针对亲子活动的评价指标系统[40]。稍微更深入一些的研究，如文利情所开展的阅读推广成效评估研究，不仅仅建立一套指标评估体系，还用这套体系去实际评价了一项阅读推广活动[41]。以上三项研究均提出了自己一套独特的评价指标体系，可为未来的研究所借鉴。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上所述，国内研究者也已经开始意识到要通过循证思路，主动去回答儿童图书馆究竟给儿童带来什么样的以及多大的裨益这样的关键问题。但是，相比于国外，国内研究的起步较晚，尚没有多少研究真正采用标准化的工具，或者采用成熟的指标系统去检验服务的效益。这导致了一种奇怪的现象：一方面，图书馆员几乎都认为自己的工作有益于儿童，但另外一方面，这种效益因为缺乏客观评估和测量，要说把具体的好处讲清楚却很难。与此同时，也因为没有对效益进行测量，图书馆员无法弄清楚哪些活动和项目对儿童读者的哪些阅读能力有促进效用。由此，对图书馆业务的改进只能凭借个体的主观经验。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3未来的研究方向与建议",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "通过以上的文献回顾，可以看到，人们（包括图书馆员）对儿童图书馆的期待，尚属于较为朴素的观念，处于感性感知阶段。比如，公众普遍认为，只要儿童使用图书馆，就会有助于增加儿童的语言经验，培养儿童的阅读兴趣与习惯，提高儿童的阅读能力，进而促进儿童的学业表现。但是，这些观念没有经过充分、系统、科学的研究与检验。不使用图书馆的儿童并非不阅读。各类机构中，也并非只有图书馆针对早期读写能力实施针对性培育。儿童图书馆利用对早期读写能力产生多少增益，尚是一个亟待回答的问题。不仅仅国内图书馆面临这个问题，国外图书馆的情况也并没有好多少。虽然Dowd在1997年就写了一篇社论倡导开展幼儿“故事时间”（Storytime）项目对早期读写发展的评估研究[42]，但是至今为止，针对类似“故事时间”的图书馆早期读写项目的实证研究依旧较少。与国内的情况类似，多数图书馆学领域的研究看上去更像是经验分享、个案报告、专题报道[43]。在评估暑期阅读项目时，也只有 $2 . 6 5 \\%$ 的图书馆员会采用标准化的阅读测试来检验参加阅读项目的儿童是否获得了阅读进步[9]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BookStart以及类似项目的评估工作做得远好于其他项目，相对研究较深入一些。虽然不少人称赞 Bookstart项目，和它给予图书馆带来的巨大意义[44]。但 Bookstart项目的评估研究其实更多反映了家庭读写教育的价值，而非图书馆读写服务的价值。与Bookstart形式上类似的项目，作为发起方和执行方的，还可以是其他机构，而不一定是图书馆，比如早期教育机构、公益组织、儿科医院等等。比如，美国的ReadOutandRead（ROR）项目就是由儿科医院发起和执行的。内容不仅包括有图书礼包，还有儿科医生的读写教养建议和志愿者共读活动等等[45]。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在方法和研究思路上，图书馆研究虽然采用了多种多样的手段和思路来试图评估公共图书馆儿童服务的效益，但是，总的来说，质性研究偏多，量化研究较少，同时也缺乏较为规范的实验控制，所采用的测量对象多为图书馆员和儿童抚养人，并非儿童本身。所采用的测量工具也多数为自行编写的受访问卷，而非标准化的或者经过检验的读写测评量表。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "造成这些现象的出现是有多方面原因的。首先，这一定程度上反映出图书馆学对“阅读”的理解与其他学科不同。图书馆领域中的“阅读”往往被看作是一种活动，一种有益的值得鼓励和推广的活动，图书馆应该积极促进这样活动的开展，无论这个活动是在图书馆内还是在图书馆之外。所以，图书馆学的研究多集中在了解阅读活动的开展情况，包括阅读材料、阅读渠道、阅读环境等，以及如何去推广等方面。并不把“阅读”视为一种“能力”，就很少有意识地评估图书馆服务对阅读能力的提升效果。在这方面，我们提倡图书馆学可以进一步借鉴采用其他学科的研究视角、方法与工具，开阔视野，丰富对“阅读”的理解，将“阅读”作为图书馆的核心概念加强研究。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "其次，部分原因还与图书馆员的自我认知有关。图书馆的读写活动希望建立起自己的独特性，以区别于幼儿园、学校与早教机构，大部分图书馆员不希望自己被称为“老师”，希望图书馆提供的是非正式的教学活动。即便是教学活动也要充满乐趣[46]。这也就决定了，图书馆员，特别是儿童馆员不希望引入阅读测试等标准化评估环节对读者进行评价。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "但是，无论图书馆员如何自视，公共图书馆，包括主要以幼儿读者为主的私营绘本馆等，必须要建立自己的一套基于客观评价的教学体系。正如Reif在2000年的文章中所说，如果不能这样做，图书馆的发展就会受限，或者被别人所定义[47]。图书馆需要展示自己的影响力，以及在儿童早期发展中的重要作用，就不能不进行充分的研究和大量的评估。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "我们建议图书馆应该建立一套结果评估监测系统，包含有对所达成目标评价所需要的最基本测量指标，开展定期的持续性的产出与效益评估。荷兰的全国阅读推广项目Artof Reading 的经验值得借鉴。项目的配套工作中专门由图书馆负责部署了指标监测系统，持续性地面向小学生、老师、图书馆员收集数据，利用这套系统来评估他们的工作成效，促进不同单元的有效合作。在这套指标监测系统里，对小学生的测量包括：阅读动机、阅读频次、访问公共和学校图书馆的频次、家庭阅读氛围、对学校图书馆的看法、信息技能等。对教师的测量包括：在课堂上的阅读促进活动、信息技能、信息传授技能、对学校图书馆的看法。对图书馆员工的测量包括：馆藏与开放时间、学校阅读促进政策、学校借阅量、图书馆对学校的服务等等。评测每年进行一次。报告会分为六个层次，从国家、省、到城市和图书馆周边地区，最后细致到学校和班级层次，从而，面向不同的使用者提供参考。例如，每所学校都会收到一份标准化的评估报告，反映本学校在阅读推广上的进展，以及本学校与国家平均水平的比较情况。图书馆员还会与学校一起解释当前的数据，并研讨下一步的举措[48]",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "最后，图书馆研究中多数采用的评估视角也一定程度上限制了研究的深入开展。基于循证的图书馆未成年人服务研究需要回答很多关键的科学问题：作为服务主体的图书馆需要什么样的馆员，需要投入什么样的资源，需要采用怎么样的服务形式，需要构造什么样的氛围和环境，需要面对怎样的不同对象群体，会产生即时和长久的影响，影响阅读以及阅读相关的哪些方面。与此同时，还应该开展儿童利用图书馆的行为分析，厘清哪些具体使用行为与关键要素在培养塑造早期读写能力上有着关键的作用，作用的强度有多大。很多儿童图书馆除了图书阅读和流通业务外，普遍还有延展性的服务内容，比如讲故事活动、绘画与手工活动、数学、英语、音乐等教学课程、游艺会、父母沙龙、产品售卖等。这些活动是否与早期读写能力之间有关系？关系的强度如何？更进一步，从时间维度上来讲，若儿童在图书馆可以获得早期读写技能上的若干收益，这些收益的促进效应是否可以保持到小学甚至以后，影响他们的学业呢？这一系列的问题都有待去解决，而如果仅仅采用“评估”的视角与思路，容易流于表面，无法深入细致的开展分析。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本文通过系统的回顾国内外儿童图书馆服务的相关文献，梳理了图书礼包、早期读写项目、夏季阅读项目等三方面研究，发现儿童图书馆开展服务的诸多关键性、基础性的问题，比如，儿童图书馆在多大程度上促进儿童读写能力的发展，尚没有很好的回答。这实际上与传统图书馆重视产出指标，而忽视效益指标有关，而更进一步分析揭示，这种现象的产生可能有更深层次的问题，反映出对实证方法的陌生，对图书馆角色的自我定位，以及所常常采取的评估视角。因此，本文呼吁无论是儿童图书馆的实践者还是儿童图书馆的研究者，应该采取更广阔的视角，更多样的指标工具，更扎实的科学方法，厘清同时也展示儿童图书馆在儿童早期阅读发展中所能够发挥的巨大作用。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "1．孙玲玲,关利革,刘丽.基于公共文化服务视角的民营儿童图书馆发展路径研究[J].文化学刊,2018(1):123-5.2．马艳霞.民办少儿图书馆的类型、问题与发展趋势[J].图书馆理论与实践,2017(7): 6-11.3. CELANO D,NEUMAN S B. The role of public libraries in children'sliteracy development [R]. Pennsylvania, PA: Pennsylvania Library Association2001.4．王玉杰,史伟.大学图书馆绘本馆构建实践与思考一一以沈阳师范大学图书馆为例 [J].图书馆学刊,2018,40(10):104-8.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5．黄盛,陈金香.儿童绘本馆的困境与发展[J].教育现代化,2017, 4(37): 230-2. 6. SENECHAL M,LEFEVRE JA, HUDSON E, et al. Knowledge of Storybooks as a Predictor of Young Children's Vocabulary [J]. Journal of Educational Psychology, 1996, 88(3): 520-36. 7.SYLVAK,MELHUISHE, SAMMONS P, et al. Early Childhood Matters: Evidence from the Efective Pre-school and Primary Education Project [M]. Taylor & Francis,2010. 8. ORR R H. Progress in documentation: Measuring the goodness of library services: A general framework for considering quantitative measures [J]. Journal of Documentation, 1973, 29(3): 315-32. 9. MATTHEWS J. Evaluating Summer Reading Programs: Suggested Improvements [M]. Public Libraries Online.2010. 10.王素芳,孙云倩,王波.图书馆儿童阅读推广活动评估指标体系构建 研究[J].中国图书馆学报,2013,39(06):41-52. 11. WADE B, MOORE M. Bookstart in Birmingham [M]. London, England: Booktrust, 1993. 12. WADE B, MOORE M. Children's Early Book Behaviour [J]. Educational Review, 1996, 48(3): 283-8. 13. WADE B, MOORE M. Home activities: The advent of literacy [J]. European Early Childhood Education Research Journal,1996, 4(2): 63-76. 14.WADE B,MOORE M. An early start with books: Literacy and mathematical evidence from a longitudinal study [J]. Educational Review, 1998, 50(2): 135-45. 15. MOORE M, WADE B. Bookstart: A qualitative evaluation [J]. Educational Review, 2003, 55(1): 3-13. 16. van den Berg H, Bus A G. Beneficial effects of BookStart in temperamentally highly reactive infants [J]. 2014, 36, 69-75. 17. van den Berg H. From BookStart to BookSmart: about the importance of an early start with parent- child reading [D]. Leiden: Leiden University, 2015. 18. O'HARE L, CONNOLLY P.A cluster randomised controlled trial of \"Bookstart $^ +$ \": A book gifting programme [J]. 2014, 9, 18-30. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "19. CHRISTINE O'FARRELLY, ORLA DOYLE,GERARD VICTORY, et al. Shared reading in infancy and later development: Evidence from an early intervention [J]. 2018, 54, 69-83. 20. MEYERS E, HENDERSON H. Overview of Every Child Ready to Read （20 $@$ Your Library [M]. 2004. 21. PETERSON S S, JANG E, JUPITER C, et al. Preschool Early Literacy Programs in Ontario Public Libraries [J]. Partnership: The Canadian Journal of Library and Information Practice and Research, 2O12, 7(2). 22. CRIST B, DONOVAN C V,DORAN-MYERS M, et al. Supporting Parents in Early Literacy through Libraries (SPELL): An Evaluation of a MultiSite Library Project [J]. Public Library Quarterly, 2019, 39(2): 89-101. 23. MILLS JE, CAMPANA K, CARLYLE A, et al. Early Literacy in Library Storytimes, Part 2: A Quasi-Experimental Study and Intervention with Children's Storytime Providers [J]. Library Quarterly,2018, 88(2): 160-76. 24. CAMPANA K, MILLS JE, CAPPS JL, et al. Early Literacy in Library Storytimes: A Study of Measures of Effectiveness [J]. Library Quarterly, 2016, 86(4): 369-88. 25．CZARNECKI E, STOLTZ D, WILSON C.Every child was ready to learn! A training package for home childcare providers that produced proven results in early literacy outreach [J]. Public libraries,20o9, 47(3): 45-51. 26.HEYNS B. Summer Learning and the Effects of Schooling [M]. New York: Academic Press, 1978. 27. Fiore, C D. Fiore's summer library reading program handbook[M]. Neal Schuman Publisher, 2005. 28.LOCKE JL. The effectiveness of summer reading programs in public libraries in the United States [D]. Pittsburgh: University of Pittsburgh, 1988 29. The Reading Agency. Summer Reading Challenge 2O19 Annual Report[R]. 2019. 30. Environics Research Group. TD Summer Reading Club 2019 National Program Statistics Draft National Report[R]. 2020. 31. KENNEDY R, BEARNE E. Summer Reading Challenge 2OO9 Impact Research Report[R]. 2009. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "32.ROMAN S,FIORE C. Do Public Library Summer Reading Programs Close the Achievement Gap?[J]. Children and Libraries, 2010, 33. DYNIA JM, PIASTA S B, JUSTICE L M, et al. Impact of LibraryBased Summer Reading Clubs on Primary-Grade Children's Literacy Activities and Achievement [J]. Library Quarterly, 2015, 85(4): 386-405. 34. WAIKSNIS M. An Evaluation of a Summer Reading Program at a Public Middle School in a Southeastern State [D]; Gardner-Webb University, 2014. 35．BRADLEY K, COWLE K, GOOD K, et al. Report 2 - Impact of Virginia Public Libraries’ Summer Reading Program [M]. Summer Reading Program Impact Study. 2015 36.GOOD K, HO H-Y. Report 3 - Impact of Virginia Public Libraries' Summer Reading Program [M]. Summer Reading Program Impact Study. 2015 37.刘颖,卫桐圻.国内公共图书馆未成年人服务研究的系统评述 [M]. ChinaXiv. 2020. 38.蔡畯.公共图书馆环境对少儿阅读的影响研究—一基于问卷调查的 实证分析 [J].图书馆学刊,2019(8): 74-8. 39.冯莉.公共图书馆婴幼儿阅读服务评估研究—一以广州图书馆为例 [J].图书馆研究,2019,49(01):86-92. 40.戚敏仪.图书馆亲子阅读活动评价指标体系设计研究—一以广州少 年儿童图书馆为例 [J].山东图书馆学刊,2015(1):74-8. 41.文利情.新媒体环境下公共图书馆阅读推广成效评估研究—一以广 东省立中山图书馆为例 [J].图书馆学刊,2019,41(02):71-8. 42.DOWD F S. Evaluating the Impact of Public Library Storytime Programs Upon the Emergent Literacy of Preschoolers: A Call for Research. [J]. Public Libraries, 1997, 36(6): 43.YOUNG T, SARROUB L, BABCHUK W.Literacy Access through Storytime: An Ethnographic Study of Public Library Storytellrs in a LowIncome Neighborhood [J]. Journal of Ethnographic & Qualitative Research, 2019, 14(59-77. 44.许晓霞,陈力勤.Bookstart项目之于公共图书馆的意义及其在我国的 实践[J].新世纪图书馆,2017(12): 26-30. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "45.MENDELSOHNAL,MOGILNERLN,DREYERBP,etal.The impact of a clinic-based literacy intervention on language development in innercity preschool children [J]. Pediatrics, 2001,107(1): 130-4. 46. BENKE L F. It's All Fun And Games Until Someone Learns to Read, then It's Educational: Children's Librarians As Literacy Educators [D]. Greeley, Colorado: University of Northern Colorado, 2019. 47.REIF K.Are public libraries the preschooler's door to learning? [J]. Public Libraries,2000, 39(5): 262-265. 48.LANGENDONK A, BROEKHOF K. The art of reading: the national Dutch reading promotion program [J]. Public Library Quarterly, 2O17, 36(4): 293-317. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Does the children' s library promote literacy? ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Tongqi Wei1 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Ying Liu²",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "1， Library， Institute of Psychology， Chinese Academy of Sciences,Beijing，1001012， School of Medical Humanities, Capital Medical University,Beijing，100069",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "With the increasing demand for library services for children, China has paid more attention to the collection and service construction of children' s libraries. However， what kind of benefits the children's library has brought to children， especially whether the children’s literacy is really promoted by libraries? Through literature research and analysis， two major types of researches were found to answer this question: literacy promotion researches and library literacy program evaluation. Because the first type of researches does not take the library as the main factor in literacy development， its conclusions cannot really answer the questions we care about. The second type of researches can be divided into three categoriesaccording to different reader groups: book gifting research， early literacy project evaluation， and summer reading project evaluation. However， no substantial research work has been carried out on this issue in China. The library researchers have begun to addressthiscritical andfundamental question. But currently， the depth and standardization of these researches could not answer the question well， and still left many unanswered questions. Children's library researchers should adopt a broader perspective， more diverse metrics tools, and more solid scientific approaches to clarify and demonstrate the great role that children' s libraries can play in literacy development. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Keyword ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Library Service for Minors ； Literacy ； Children’s Library ;Library Evaluation",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "[作者简介」卫垌圻，男，中国科学院心理研究所图书馆，馆长；刘颖，女，中国医科大学医学人文学院，讲师。",
+        "page_idx": 20
+    }
+]

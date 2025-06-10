@@ -1,0 +1,373 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201507271566 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周在明，杨燕明，陈本清.滩涂湿地入侵种互花米草植被覆盖度的高空间分辨率遥感估算.生态学报,2017,37(2):505-512. ZhouZMYagaitifctaleaoaless wetland.Acta Ecologica Sinica,2017,37(2):505-512. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "滩涂湿地入侵种互花米草植被覆盖度的高空间分辨率 遥感估算 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周在明＊，杨燕明，陈本清国家海洋局第三海洋研究所，厦门361005",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;互花米草是沿海滩涂生态系统的重要入侵物种，其分布状况和覆盖度是湿地生态研究的重要参数和基础。以宁德三沙湾（三都澳)滩涂湿地为研究区，以SPOT6 $6 \\mathrm { ~ m ~ }$ 空间分辨率卫星影像为数据源,对互花米草分布和植被覆盖度进行研究,并与同期$1 0 \\ \\mathrm { c m }$ 空间分辨率无人机影像进行比较验证。结果表明,影像覆盖区域内互花米草总面积为 $2 0 . 1 9 \\ \\mathrm { k m } ^ { 2 }$ ,其中蕉城区互花米草分布较广，面积为 $9 . 6 3 \\ \\mathrm { k m } ^ { 2 }$ ，占研究区互花米草总面积的 $4 7 . 7 0 \\%$ 。互花米草植被覆盖度整体上以 $4 0 \\%$ 一 $6 0 \\%$ 和 $6 0 \\%$ 一 $8 0 \\%$ 的中、高覆盖度分布为主，其分布面积分别为 $5 . 4 4 ~ \\mathrm { k m } ^ { 2 }$ 和 $4 . 9 5 \\ \\mathrm { k m } ^ { 2 }$ ，占互花米草总分布面积的 $2 6 . 9 2 \\%$ 和 $2 4 . 5 2 \\%$ ，而 $4 0 \\%$ 以下的低覆盖度和 $8 0 \\%$ 以上较高覆盖度分布相对较少。SPOT6遥感影像估算得到的互花米草植被覆盖度具有较好的精度，与无人机影像值之间的均方根误差RMSE为0.117，线性回归决定系数 $\\mathbf { R } ^ { 2 }$ 为0.918，可用于滩涂湿地植被覆盖度分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词;滩涂湿地；互花米草;高分辨率遥感;无人机;植被覆盖度",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Estimating the Spartina alterniflora fractional vegetation cover using high spatial resolution remote sensing in a coastal wetland ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Zaiming\\*，YANG Yanming，CHEN Benqing Third Institute of Oceanography State Oceanic Administration,Xiamen 361Oo5,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Spartinaalterniflora isan important invasivespecies incoastal beachecosystems，anditsdistributionandcover are basicparametersthataffecttheecologyof these wetlands.Inthisstudy，S.alternifloradistributionand fractional vegetation cover were investigated,using high spatial resolution satelite remote sensing images from SPOT6( $6 \\mathrm { ~ m ~ }$ ），and low altitude Unmanned Aerial Vehicle（UAV） images（ $1 0 \\ \\mathrm { c m }$ ）from Sansha Bay（San Du Ao）.The latter is a typical coastal wetland area in Ningde,Fujian Province，China.For the extractionof SPOT6 remote sensing information，support vector machineand maximum likelihood classification methods were explored.In adition，ageographic information system (GIS）technique was used toreduce errors.Asa result，anaccurate S.alternifloradistribution map wasobtained. Furthermore，the nrmalized diference vegetation index（NDVI）of image pixels wascalculated for the S.alterniflora distributionarea.Subsequently，with the NDVIof pureS.altermiflora pixelsand pure beach soil pixels，thefractional vegetation cover could be calculated. S. alterniflora area was $2 0 . 1 9 \\ \\mathrm { k m } ^ { 2 }$ in the total study region. S. alterniflora area in the Jiaocheng district was $9 . 6 3 ~ \\mathrm { k m } ^ { 2 }$ and was distributed mainly in Zhangwan and Southern Jiaocheng，accounting for $4 7 . 7 0 \\%$ of the total study area. S. alterniflora area in Fuan County was $5 . 2 0 ~ \\mathrm { k m } ^ { 2 }$ ，was distributed mainly in Yantian Bay and Magang Bay，and accounted for $2 5 . 7 6 \\%$ . The fractional vegetation cover of $S$ ，alterniflora was mostly a medium ( $4 0 \\% - 6 0 \\%$ ）anda high degree $( 6 0 \\% - 8 0 \\%$ ）cover.In contrast，much less of the S.alterniflora cover displayed a low degree，( $< 4 0 \\%$ ）or much higher degree $( > 8 0 \\%$ ），of fractional cover.Statistical tests indicated that the fractional vegetation cover area of （204 $40 \\%$ 一 $60 \\%$ and $60 \\%$ 一 $80 \\%$ represented $5 . 4 4 ~ \\mathrm { k m } ^ { 2 }$ and $4 . 9 5 ~ \\mathrm { k m } ^ { 2 }$ ，respectively，and accounted for $2 6 . 9 2 \\%$ and $2 4 . 5 2 \\%$ of the total area，respectively. Overall，the fractional vegetation cover area of a medium and high degree was $1 0 . 3 9 \\ \\mathrm { k m } ^ { 2 }$ ，and accounted for $5 1 . 4 4 \\%$ of the whole S. alterniflora area.Based on these results,it is necessary to increase the monitoring and additional studies on $S$ . alterniflora in Sansha Bay.In addition，relevant measures should be taken to reduce biological invasiondamage，andtopreservetheeficiencyofthiscoastal wetland'secologicalfunctioning.Toevaluatetheestimation accuracy ofthe S.alterniflora vegetation cover,26 sample sites wereselected randomly acording totheoverlapping SPOT6 and UAVimage region.An acuracy analysis indicated aroot mean square eror（RMSE）ofO.117,and a determination coefficient $\\mathrm { R } ^ { 2 }$ of 0.918.Therefore,our S.alterniflora fractional vegetation cover results，as estimated by SPOT6 high spatial resolutionremote sensing，hadasatisfactoryprecision.Theseresults could therefore beusedasareferencefor ecological coastal wetland research. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:coastal wetland；Spartina alterniflora；highspatial resolutionremotesensing；unmanned aerial vehicles （UAV）；fractional vegetation cover ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植被覆盖度是指单位面积上的植被垂向投影覆盖面积[1],作为植被生长状况的直观量化指标,在很大程度上反映了植被的基本状况,是区域植被监测研究的基础,被广泛用于植被变化监测、生态环境调查与综合评价,以及水土保持等诸多研究领域[2-3];是水文模型、气候模型和生态系统模型中的重要参数[4-6]。因此,高精度的估算植被覆盖度对水文、生态、全球变化等研究领域具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卫星遥感是获取地面现势性资料的重要手段，并已成为植被覆盖度区域监测研究的主要途径。近年来发展起来的低空无人机遥感,是卫星遥感的重要补充,以其灵活高效性成为海岸带高精度数据获取的有利工具[8-9]。互花米草（Spartina alterniflora）,作为外来引进物种由于其良好的适应性和旺盛的繁殖能力,造成了爆发式大面积的扩散蔓延,使滩涂湿地生态结构改变、生物多样性降低,生态脆弱性增大,成为生物入侵问题中的热点[10-12]。然而,受滩涂交通通达性的限制,现场实地调查费时费力,特别是区域尺度的调查研究和精度检验难度较大,为了获取互花米草高精度的植被覆盖度信息,掌握其扩散发展趋势,就需要充分发挥高分辨率卫星遥感和低空无人机遥感的空间监测优势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以东南沿海宁德三沙湾(三都澳)为研究区,以 SPOT6高分辨率卫星影像和低空无人机遥感影像为数据源,对互花米草分布和其植被覆盖度进行研究,为滨海湿地生态环境研究提供参考依据和基础数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三沙湾(三都澳)位于福建省宁德市境内,地处霞浦、福安、蕉城、罗源四县(区)滨岸交界处(图1),是一个半封闭港湾,地形口小腹大,四周群山环绕,海岸线曲折,滩涂宽阔,湿地资源丰富。三沙湾属于中亚热带季风湿润气候,气候温暖,光照充足,年均气温16— $1 9 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究通过编程订购获取了研究区SPOT6多光谱影像,覆盖范围 $2 6 ^ { \\circ } 3 6 ^ { \\prime } \\mathrm { - } 2 6 ^ { \\circ } 5 1 ^ { \\prime } \\mathrm { N } , 1 1 9 ^ { \\circ } 3 3 ^ { \\prime } \\mathrm { - } 1 1 9 ^ { \\circ } 4 9 ^ { \\prime } \\mathrm { E }$ ，包括蓝光、绿光、红光和近红外4个波段,影像空间分辨率 $6 \\mathrm { ~ m ~ }$ ,中心点坐标为 $2 6 ^ { \\circ } 4 3 ^ { \\prime } 3 5 ^ { \\prime \\prime } \\mathrm { N } , 1 1 9 ^ { \\circ } 4 1 ^ { \\prime } 1 5 ^ { \\prime \\prime } \\mathrm { E }$ ，影像获取时间为2013年10月27日。在影像获取的同期,对研究区内的飞行试验区进行了无人机低空控制飞行（图1)，获取了 $1 0 \\ \\mathrm { c m }$ 空间分辨率的低空无人机影像。对获取的SOPT6遥感影像和低空无人机影像均通过正射处理得到了用于进一步分析应用的正射影像。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d545c9735687ebaa6ba99fc4b7591c604ee018c5376c8ad88cf7fe7ec0fee13.jpg",
+        "img_caption": [
+            "图1三沙湾研究区示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3互花米草的空间分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SPOT6多光谱影像的光谱特征并不突出，但其空间分辨率较高，地物纹理特征明显。应用支持向量机SVM方法和最大似然法进行地物划分，并利用GIS对基于光谱特征的分类结果进行提高，得到影像覆盖区互花米草分布图(图2)并对其进行统计(表1)。可见，影像覆盖区内的互花米草主要分布在三沙湾近岸淤泥潮滩中，蕉城、福安、霞浦和三都岛近岸均有不同程度的生长发育，既有大片连续分布也有小片斑块状零星分布，互花米草已经成为潮间带滩涂上的优势物种。这与三沙湾是半封闭型的内湾，水流平缓，泥滩发育，颗粒细小有关，加之适宜的气候条件，形成了适合互花米草的生长环境。在这样的生长条件下，人为活动干预少的岸滩成为大片的互花米草分布场，而岸边的围垦养殖活动、海洋工程施工对互花米草的生境会造成一定程度的破坏，加之滩涂中交错纵横的水沟一定程度上阻隔了互花米草的连片分布。由图2可知互花米草多数生长在离岸线100— $5 0 0 \\mathrm { ~ m ~ }$ 之间的垂直距离范围内，而最远的分布距离岸线超过 $2 ~ \\mathrm { k m }$ ,这与已有的研究相一致[13],可见互花米草的分布受潮水淹没的影响与潮位有密切的关系,主要分布在潮间中上带部位,符合互花米草生长的水文与地形条件,受互花米草生态位的限制其扩展与分布以平行于海岸线方向为主[14]。影像覆盖范围内互花米草的总面积为 $2 0 . 1 9 \\ \\mathrm { k m } ^ { 2 }$ ,其中蕉城区互花米草分布较为广泛，面积为 $9 . 6 3 \\ \\mathrm { k m } ^ { 2 }$ ,占研究区互花米草总面积的 $4 7 . 7 0 \\%$ ,多数分布在北部漳湾港附近和蕉城南端的潮滩中;福安近岸互花米草面积 $5 . 2 0 ~ \\mathrm { k m } ^ { 2 }$ ,占米草总",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b63640bf7701dc4e72fc1d29c844611e8cdca4afb07b115e878a6189bb0871f8.jpg",
+        "img_caption": [
+            "Fig.1The Sansha Bay study area ",
+            "图2三沙湾互花米草分布图(红色区域)",
+            "Fig.2The Spartina alterniflora distribution map of Sansha bay (the red region) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "面积的 $2 5 . 7 6 \\%$ ,主要分布在盐田港和马港近岸。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/82b121fcc31c27837059b6e838ee92a8f3aaaa6cdba2b4093c394974cc7cc24e.jpg",
+        "table_caption": [
+            "表1三沙湾互花米草分布面积统计表",
+            "Table1The distribution area statistics of Spartina alterniflora "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分布区域 Distribution district</td><td>分布面积 Distribution area/km²</td><td>面积比例 Area proportion/%</td></tr><tr><td>霞浦</td><td>3.90</td><td>19.32</td></tr><tr><td>福安</td><td>5.20</td><td>25.76</td></tr><tr><td>蕉城</td><td>9.63</td><td>47.70</td></tr><tr><td>三都岛</td><td>1.46</td><td>7.22</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于三沙湾互花米草的分布,孙讽梅的研究表明,该区互花米草的入侵面积为 $8 0 ~ \\mathrm { k m } ^ { 2 [ 1 3 ] }$ ；方民杰的研究结果认为三沙湾互花米草的分布面积为 $6 2 . 4 5 ~ \\mathrm { k m } ^ { 2 }$ ,位居福建省各海湾首位,而整个福建沿岸海域互花米草总面积为 $9 9 . 2 4 ~ \\mathrm { k m } ^ { 2 [ 1 5 ] }$ ;左平等的调查结果认为福建全省沿海互花米草的入侵面积为 $4 1 . 6 6 ~ \\mathrm { k m } ^ { 2 [ 1 6 ] }$ 。综合上述结果和本研究，可以发现互花米草的入侵面积存在一定的差异，作者认为主要存在以下几个方面的原因；研究区范围面积不一致,根据孙讽梅估算其研究区面积约为 $1 8 6 6 . 9 1 ~ \\mathrm { k m } ^ { 2 [ 1 3 ] }$ ,而本研究面积约为 $8 0 1 . 2 8 8 ~ \\mathrm { k m } ^ { 2 }$ ,未包含东吾洋近岸海域(图3）,而其它的相关研究未给出明确的区域范围。其次,与本研究相比,对照孙讽梅[13]，原有的互花米草分布区发生了较大的变化，在马港东岸原有的大片滩涂已经开发建设成为大型的发电厂和港口码头,漳湾港近岸也在开发建设临港工业区,此外区域内大型铁路桥梁的建设等对互花米草的分布也造成一定的影响。再者，受影像分辨率的影响，以往研究多以 $\\mathrm { T M } \\ 3 0 \\ \\mathrm { m }$ 空间分辨率影像为主，可能存在对近岸植被和地物等的误判现象。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b67f7b7dcd1033ce1b7704d3874deba8358d10279bcd54f6beb3d4b822f5acc.jpg",
+        "img_caption": [
+            "图3不同研究区比较",
+            "Fig.3Comparison of the different study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4互花米草植被覆盖度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 NDVI指数选取 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "归一化植被指数(NDVI)是被广泛应用的植被指数,是植被生长状态及植被覆盖度的最佳指示因子,并且经比值处理可以部分消除与太阳高度角、卫星观测角等有关的辐照度影响[17]。其计算公式如下(式1)：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N D V I } = ( \\rho _ { \\mathrm { N I R } } - \\rho _ { R } ) / ( \\rho _ { \\mathrm { N I R } } + \\rho _ { R } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\rho _ { \\mathrm { \\Delta \\ N I R } }$ 为近红外波段反射率， $\\rho _ { R }$ 为可见光红波段反射率,对应 SPOT6多光谱影像的 B3 红光波段（625—$6 9 5 ~ \\mathrm { n m }$ )和B4近红外波段（760一 ${ \\cdot } 8 9 0 \\ \\mathrm { n m }$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "植被覆盖度与NDVI的关系可用公式2表示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { c } = \\mathrm { ( \\Delta N D V I { - N D V } I _ { \\mathrm { s o i l } } ) / ( \\Delta N D V I _ { \\mathrm { v e g } } { - N D V } I _ { \\mathrm { s o i l } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mathrm { \\Delta N D V I _ { s o i l } }$ 为滩涂或无互花米草植被覆盖区域的NDVI值, $\\mathrm { \\Delta N D V I _ { v e g } }$ 是互花米草全覆盖区的 NDVI值;理论上，低植被覆盖像元最小值 $\\mathrm { \\Delta N D V I _ { s o i l } }$ 应接近于0,而高植被覆盖像元最大值 $\\mathrm { \\Delta N D V I _ { v e g } }$ 应接近1,然而，由于地表湿度、粗糙度等因素的影响,使得 $\\mathrm { \\Delta N D V I _ { s o i l } }$ 会有负值出现。此外,由于植被类型的差异及植被的季节变化 $\\mathrm { \\Delta N D V I _ { v e g } }$ 值也有很强的时空异质特征[18]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了避免使用固定 $\\mathrm { \\Delta N D V I _ { s o i l } }$ 值和 $\\mathrm { \\Delta N D V I _ { v e g } }$ 值所带来的误差,本研究基于互花米草的空间分布和地物类型作为计算 $\\mathrm { \\Delta N D V I _ { s o i l } }$ 和 $\\mathrm { \\Delta N D V I _ { v e g } }$ 的依据。根据研究区的 SPOT6影像,求得互花米草分布区每个像元的 NDVI值，并对其进行频率统计。对照影像信息可以发现,NDVI负值多出现在残留水体覆盖区,因此本研究将 NDVI负值像元去掉,像元数为973个（表2）。结合图2可知互花米草分布区像元个数足够多，且SPOT6影像的空间分辨率较高,因此集合中具有 NDVI最大值的像元互花米草植被覆盖度可达 $100 \\%$ ,具有 NDVI最小值的像元植被覆盖度为 $0 ^ { [ 1 9 ] }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据植被覆盖研究中纯像元 NDVI 值的确定方法[20-1],本研究取累积频率 $9 5 \\%$ 的 NDVI值为 $\\mathrm { \\Delta N D V I _ { v e g } }$ 。由表2可见,NDVI值在0一0.3之间的累积频率为 $9 8 . 3 3 \\%$ ,进一步计算表明NDVI值在0一0.26之间的累积频率超过 $9 5 \\%$ ,因此,取0.26作为 $\\mathrm { \\Delta N D V I _ { v e g } }$ 。去除负值的影像像元中 NDVI的最小值0作为裸露滩涂土壤NDVIsoil o",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc8f6bb4a12701b77dd4d6098e67eae19a3407793169138cc996f7eb791b1847.jpg",
+        "table_caption": [
+            "表2三沙湾互花米草影像像元NDVI值统计表",
+            "Table2Statistics of different pixels NDVI values in Sansha bay "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>NDVI 值 NDVI values</td><td>像元数Pixel number</td><td>总像元数 Total pixel number</td><td>概率分布 Percentage/%</td></tr><tr><td>-0.1-0</td><td>973</td><td>560833</td><td>0.17</td></tr><tr><td>0.0-0.1</td><td>158220</td><td>560833</td><td>28.21</td></tr><tr><td>0.1—0.2</td><td>280169</td><td>560833</td><td>49.96</td></tr><tr><td>0.2—0.3</td><td>113058</td><td>560833</td><td>20.16</td></tr><tr><td>0.3-0.4</td><td>6799</td><td>560833</td><td>1.21</td></tr><tr><td>0.4—0.45</td><td>1614</td><td>560833</td><td>0.29</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 覆盖度分布",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据以上NDVI的取值并结合公式2,从而得到研究区互花米草植被覆盖度分布图（图4)。总体看,三沙湾内互花米草植被覆盖度涵盖0— $1 0 0 \\%$ 之间的不同等级范围,在空间上呈现覆盖度多等级分布的格局，并具有一定的连续性、渐变性和区域异质性。根据对植被覆盖度等级的划分[22],并结合本研究可见,研究区内互花米草植被覆盖度以 $4 0 \\%$ 一 $6 0 \\%$ 和 $6 0 \\%$ 一 $8 0 \\%$ 的中、高等级分布为主，而 $4 0 \\%$ 以下的低覆盖度和 $8 0 \\%$ 以上较高覆盖度分布相对较少。马港、盐田港近岸互花米草植被覆盖度的中、高等级分布均一性较为明显(A);漳湾港内云淡门岛以北互花米草以中、低覆盖度分布为主(B);蕉城以南互花米植被覆盖度的低、中、高等级均有不同程度的分布；福安南部和三都岛以北的互花米草则以 $8 0 \\% { - } 1 0 0 \\%$ 的较高覆盖度分布为主。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对图4中不同等级的互花米草植被覆盖度的分布面积进行统计（表3）,结果显示,研究区内 $4 0 \\%$ 一 $6 0 \\%$ 和 $6 0 \\%$ 一 $8 0 \\%$ 的中、高等级互花米草植被覆盖度分布面积分别为 $5 . 4 4 ~ \\mathrm { k m } ^ { 2 }$ 和 $4 . 9 5 ~ \\mathrm { k m } ^ { 2 }$ ，占互花米草总分布面积的 $2 6 . 9 2 \\%$ 和 $2 4 . 5 2 \\%$ ,总体上,中高覆盖度区域面积为 $1 0 . 3 9 \\ \\mathrm { k m } ^ { 2 }$ 占互花米草总面积的 $5 1 . 4 4 \\%$ $2 0 \\%$ 一 $4 0 \\%$ 的低覆盖度互花米草分布面积为 $3 . 9 5 \\ \\mathrm { k m } ^ { 2 }$ ,占总面积的 $1 9 . 5 5 \\%$ ;而小于 $20 \\%$ 的较低覆盖度和大于 $8 0 \\%$ 的较高覆盖度等级的互花米草分布面积分别为 $2 . 6 2 \\ \\mathrm { k m } ^ { 2 }$ 和 $3 . 2 3 \\ \\mathrm { k m } ^ { 2 }$ ,占总面积的 $1 3 . 0 1 \\%$ 和 $1 5 . 9 9 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上可见，由于研究区域内多以 $4 0 \\%$ 一 $8 0 \\%$ 之间的中、高等级覆盖度的互花米草分布为主，且超过 $6 0 \\%$ 的高和较高植被覆盖度区域占有一定的比例，约为 $4 0 . 5 1 \\%$ ，因此需要注重互花米草对三沙湾滩涂湿地生态结构的改变,加强区域扩散和长势监测研究,以采取必要的措施减轻互花米草对湿地生态的破坏,保护湿地生态功能的合理性和高效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6940a4afde49b520e1924ea0c61691d2319e111a5f88cdca793e122e310faa66.jpg",
+        "img_caption": [
+            "Fig.4The fractional vegetation cover distribution map of Spartina alterniflora in Sansha bay "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b5f3bec34000c0b9b7d5b8c8ba07ee96b87753f3b014a3d89cd1eebcf917ada.jpg",
+        "table_caption": [
+            "表3研究区互花米草植被覆盖度统计",
+            "Table 3Statistics of Spartina alterniflora fractional vegetation cover in Sansha bay "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>覆盖度范围/% Region size</td><td>像元数 Pixel number</td><td>分布面积/km² Distribution area</td><td>米草总面积/km Total area</td><td>概率分布/% Percentage</td></tr><tr><td>0-20</td><td>72970</td><td>2.62</td><td>20.19</td><td>13.01</td></tr><tr><td>20—40</td><td>109663</td><td>3.95</td><td>20.19</td><td>19.55</td></tr><tr><td>40-60</td><td>151021</td><td>5.44</td><td>20.19</td><td>26.92</td></tr><tr><td>60-80</td><td>137513</td><td>4.95</td><td>20.19</td><td>24.52</td></tr><tr><td>80—100</td><td>89666</td><td>3.23</td><td>20.19</td><td>15.99</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3 精度检验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了分析应用SPOT6遥感影像估算得到的互花米草植被覆盖度的准确性，本研究以 $1 0 \\ \\mathrm { c m }$ 空间分辨率低空无人机正射影像为基础进行植被覆盖度精度检验。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随机选取无人机影像与SPOT6影像重合区域的26个样点（图5），为了减少无人机与SPOT6影像之间的几何配误差，以SPOT6影像采样点对应的像元为中心，选取 $2 { \\times } 2$ 像元区域，计算该区互花米草植被覆盖度的平均值作为植被覆盖度的估算值。同时在无人机正射影像上找出对应的样点区域，统计互花米草植被的面积，计算植被面积占该区域总面积的百分比，得到互花米草植被覆盖度的真实值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以均方根误差RMSE和决定系数 $R ^ { 2 }$ 评价上述基于NDVI的互花米草植被覆盖度的估算结果。计算得估算值与真实值之间的互花米草植被覆盖度的均方根误差RMSE为0.117，线性回归决定系数 $R ^ { 2 }$ 为0.918（图6)，具有较好的精度，验证结果比较令人满意。由图6可见，当真实值在0— $4 0 \\%$ 时模型估算较好，绝对误差较小，在 $1 0 \\%$ 以内，而当真实值超过 $40 \\%$ 时SPOT6遥感模型估算值稍微偏小，绝对误差在 $20 \\%$ 以内，因此基于NDVI指数的SPOT6遥感影像估算得到的互花米草植被覆盖度可用于滩涂湿地互花米草的植被覆盖度分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcdd7f1ff15e3a6da52d99913d0a1a4ad21965d74a46acf83cdc1f2672f1bd9d.jpg",
+        "img_caption": [
+            "图4三沙湾互花米草植被覆盖度分布图",
+            "图5验证区无人机影像与样点分布图 Fig.5The UVA image and samples of the tested region "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "应用SPOT6 $6 \\mathrm { ~ m ~ }$ 空间分辨率影像获取了影像覆盖区内三沙湾互花米草的分布情况,总面积为 $2 0 . 1 9 \\ \\mathrm { k m } ^ { 2 }$ ，其中蕉城区互花米草分布面积为 $9 . 6 3 \\ \\mathrm { k m } ^ { 2 }$ ,占研究区互花米草总面积的 $4 7 . 7 0 \\%$ ，多分布在北部漳湾港附近和蕉城南端的潮滩中;福安近岸互花米草面积 $5 . 2 0 ~ \\mathrm { k m } ^ { 2 }$ ，以盐田港和马港为主要分布区。互花米草主要分布在近岸100— ${ \\cdot } 5 0 0 \\mathrm { ~ m ~ }$ 之间淤泥潮滩中，而最远的分布距离超过 $2 ~ \\mathrm { k m }$ ,互花米草已经成为潮间带滩涂上的优势物种。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/94607f466447bec943fb8c98e95bced53ed3c6861fdcf1a0fa15529b07b4e75c.jpg",
+        "img_caption": [
+            "图6植被覆盖度散点图",
+            "Fig.6 The scatter diagram of fractional vegetation cover based on NDVI "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "三沙湾湾滩涂湿地互花米草覆盖度以 $4 0 \\%$ 一 $6 0 \\%$ 和 $6 0 \\%$ 一 $8 0 \\%$ 的中、高等覆盖度为主,分布面积分别为$5 . 4 4 ~ \\mathrm { k m } ^ { 2 }$ 和 $4 . 9 5 ~ \\mathrm { k m } ^ { 2 }$ ,占总面积的 $2 6 . 9 2 \\%$ 和 $2 4 . 5 2 \\%$ ，小于 $20 \\%$ 的较低覆盖度和大于 $8 0 \\%$ 的较高覆盖度区域的互花米草面积分别为 $2 . 6 2 \\ \\mathrm { k m } ^ { 2 }$ 和 $3 . 2 3 \\ \\mathrm { k m } ^ { 2 }$ ,占总面积的 $1 3 . 0 1 \\%$ 和 $1 5 . 9 9 \\%$ 。对覆盖较高的区域需要注重监测研究防止对湿地生态功能的破坏。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以低空无人机 $1 0 \\ \\mathrm { c m }$ 空间分辨率影像为真实值对 SPOT6估算得到的互花米草植被覆盖度进行检验,估算值与真实值之间均方根误差RMSE为0.117，线性回归决定系数 $R ^ { 2 }$ 为0.918，具有较好的精度，SPOT6遥感影像估算得到的植被覆盖度可用于滩涂湿地互花米草的植被覆盖度分析研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]GitelsoAKaufanYtark,dstovelgoritsforotetiatioofgeatifctootsingt2002，80(1): 76-87.  \n[2]JingX,YaQ，WangJH,onXYAsdyoteelioshedaicageofvegetatiocoveragedpreipiatioiiig'smountainous areas during the last 20 years.Mathematical and Computer Modeling,2011,54（3/4）1079-1085.  \n［3］张清春，刘宝元，翟刚.植被与水土流失研究综述.水土保持研究，2002，9（4)：96-101.  \n[4］隋洪智，田国良，李付琴.农田蒸散双层模型及其在干旱遥感监测中的应用.遥感学报，1997，1（3)：220-224.  \n[5]MaticeiecolftJournal of Geophysical Research，1997，102（D19）：23277-23287.  \n[6]SeersJ,kerCJltJ,sSstic,,al.evisdufceaeezio（）GCMs.PartIeaofobastesoalefrotelialoate9).  \n[7］张云霞，李晓兵，陈云浩.草地植被覆盖度的多尺度遥感与实地测量方法综述.地球科学进展,2003，18（1)：85-93.  \n[8］杨燕明，郑凌虹，文洪涛，陈本清，阮海林，罗凯.无人机遥感技术在海岛管理中的应用研究.海洋开发与管理,2011,28（1）：6-10.  \n[9］陈本清，杨燕明，郑凌虹，文洪涛.基于 SIFT和TPS算法的四旋翼无人机图像自动配准.遥感技术与应用,2013,28（4)：604-609.  \n[10］袁红伟，李守中，郑怀舟，方舟易.外来种互花米草对中国海滨湿地生态系统的影响评价及对策.海洋通报，2009,28（6)：122-128.  \n[11] TaleyTS,LevinLA.ModficationofsedimentsandmacrofunabyninvasivemarshplantllgicalIvasios,Ool,（）：-68.  \n[12]ZhangYingX,uJFooagsinloabdicsiEsteieseoastaleandgsioya $\\mathrm { C } _ { 4 }$ plant Spartina alterniflora.Soil Biology and Biochemistry，2010,42(10)：1712-1720.  \n[13］孙讽梅.三都湾互花米草的遥感监测.台湾海峡，2005，24(2)：223-227.  \n[14]张忍顺，沈永明，陆丽云，燕守广，王艳红，李加林，张正龙.江苏沿海互花米草（Spartinaaltemijora)盐沼的形成过程.海洋与湖沼，2005，36(4):358-366.  \n[15］方民杰.福建沿岸海域互花米草的分布.台湾海峡，2012，31(1)：100-104.  \n[16］左平，刘长安，赵书河，王春红，梁玉波.米草属植物在中国海岸带的分布现状.海洋学报，2009,31（9)：101-111.  \n[17] 赵英时.遥感应用分析原理与方法.北京：科学出版社，2003.  \n[18］张建香，张勃，尹海霞，王媛媛，赵一飞.2000-2011年黄土高原植被景观格局变化.生态学杂志，2013,32（2）：452-458.  \n[19]HuZQ,HeFQ,nJZ,U,gSagLL,LXJstitooffraoavegeatiocovebseoiialaetadremote sensing model.Journal of China University of Mining and Technology.2O07,17(1）：116-120.  \n[20］肖洋，熊勤犁，欧阳志云，徐卫华，肖燚，肖强.基于MODIS 数据的重庆市植被覆盖度动态变化研究.西南大学学报：自然科学版，2013，35(7)：121-126.  \n[21］朱吉生，李纪人，黄诗峰，臧文斌.近30年十大孔兑流域植被覆盖度空间变化的遥感调查与分析.中国水土保持，2015，（7）：68-70.  \n[22］蔡朝朝，安沙舟，蒲智，淮永建.基于TM NDVI的库尔勒市域植被覆盖动态变化.草业科学,2015，32（7）：1069-1078.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

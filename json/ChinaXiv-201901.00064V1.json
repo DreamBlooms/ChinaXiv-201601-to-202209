@@ -1,0 +1,658 @@
+[
+    {
+        "type": "text",
+        "text": "基于二部图多权重投影的大数据推荐算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高薇1，何可期²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．闽南理工学院，信息管理学院，福建 石狮 362700;2.中山大学，大数据与计算机学院，广州 510275)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于网络结构的推荐算法存在多样性不足的问题，为此提出了一种二部图多权重投影的大数据推荐算法。首先，提取出数据集的基础信息，将所有的项目一用户数据输入莱文斯坦距离程序，计算各个属性之间的相似性；然后，计算二部图网络中节点之间相同邻居的数量、节点之间的共同邻居度以及每个节点的度，计算二部图网络中每条边的三重权重；最后，采用增强的二部图投影技术提取二部图网络的潜在链接，实现基于相似性的链接预测。采用大数据集与小数据集分别完成了实验，结果显示该算法的准确率与覆盖率均优于其他几种类型的推荐算法，并且优于同类型的推荐算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：推荐系统；大数据技术；二部图网络；链接预测；网络投影；单模网络中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2018.07.0612",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recommendation system of big data based on multi-weight projection of bipartite network ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gao Wei',He Keqi² (1.SchoolofInformationManagement,Minnan InstituteofTechnologyShishiFujian3627oo,China;2.InstituteofBig Data&Computer,Sun Yat-sen University,Guangzhou 510275,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Most recommendation systems based on the network structure sufer from lack of diversity，so thata recommendation system of bigdata basedon multi-weight projectionofbipartite network is proposed.Firstly,the basic informationofdatasetsisbstracted,items-userslistsareapliedasaniputtoLevenshteinDistancealgorithmtocompute similarityof each property;then,the numberofcommon neighborsof thenodes in the bipartite network,the degreeof common neighborsofthe nodes in the bipartite network and degreeof each node in bipartitenetwork areallcomputed, triple weightsof each sideofthe bipartite network arecomputed;lastly,theenhanced bipartiteprojection technique is adopted toabstractthe potentiallinksofthe bipartite network torealizethe link prediction basedonsimilarityThe experiments basedon both of big datasetandsmalldataset arerealized,theresultsshow thatthe proposed algorithm outperforms different kinds ofrecommendationsystems in terms of accuracyand coverage of recommendation,atthe same time,it outperforms the other recommendation system based on network structure. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:recommendation system;big data technique；bipartitenetwork；linkage prediction；network projection one-mode network ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "互联网的普及使得网络中的数据量急剧增长，许多大型网站日均访问量巨大，并且包含大量的项目信息，如京东商城[1]、淘宝网[2]、豆瓣网[3]、知网、网易云音乐等。大量的冗余信息极大地降低了用户的检索效率，不仅影响了用户的满意度，也为门户网站带来了巨大的负担。个性化推荐系统是解决上述问题的一个重要方案[4]，根据用户的购买记录、评论信息以及评分信息为用户推送合适的项目，降低用户的访问时间，模拟销售人员的推荐效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前主流的推荐系统主要分为协同过滤推荐算法、基于内容的推荐算法、组合推荐算法、基于网络结构的推荐算法四类[5,6]。协同过滤推荐算法易于实现，使用最为广泛[7]，基于内容的推荐算法根据用户过去的喜好推荐类似的项目[8]。这两种算法易于实现，也可以获得较高的推荐准确率，但是在多样性方面略有不足，并且受到冷启动问题的限制。组合推荐算法则一般结合两个互补的推荐算法，同时提高推荐系统的推荐准确率与推荐覆盖率两个重要指标，但组合推荐算法的计算效率较低，对于大数据的推送实时性不足[9]。基于网络结构的推荐算法是近期受到关注的一类方案，该方案不仅获得了较好的推荐准确率，而且也实现了较高的计算效率[10]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "许多现实问题可建模为一个网络结构，网络的节点表示问题的各个实体，网络的边表示实体之间的关系。二部图网络可描述复杂且规模庞大的问题[11]，包括社交网络、电子商务、生物信息领域等。目前二部图网络已在推荐系统问题上取得了一定的成效，主要通过二部图建模项目与用户群体，然后将项目与用户之间的关系建模为链接，通过已有的链接预测网络的潜在链接，这些潜在链接即为用户可能偏爱的项目。大多数基于二部图网络的推荐算法将流行的项目推送给用户，为用户推荐冷门项目的数量则明显不足，对推荐的多样性具有不利的影响[12]。引起推荐多样性不足的主要原因在于，在实际数据集建模网络的过程中，仅仅考虑了数据集内的强关系，忽略了弱关系和隐藏信息，虽然该机制提高了算法的处理效率，但是牺牲了算法的多样性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了解决上述问题，通过投影将二部图网络转换为单模网络，采用增强的加权单模投影网络保留骨干网络，过滤原数据集的冗余信息，同时保留网络的强、弱关系信息。在过滤冗余信息的过程中，降低了投影网络的信息量，从而提高链接预测的计算效率。在投影网络的链接中考虑了邻居数量、共同邻居度以及节点的度三重关系，保留了原数据集的强关系与弱关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 预测二部图网络的链接",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一个二部图可表示一个网络，其节点分为两个不相交集合，设为 $U$ 与 $V _ { : }$ ，一个 $U$ 节点与一个 $V$ 节点之间存在一条链接。一个二部图网络定义为 $G = ( U , V , E )$ ， $U$ 与 $V$ 是两个不相交节点集， $E$ 是二部图网络 $G$ 的边集合， $L ( U )$ 是网络 $G$ 中节点 $U$ 的邻居节点集， $L ( V )$ 是网络 $G$ 中节点 $V$ 的邻居节点集。在二部图网络中，同一个节点集内的节点没有链接。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1二部图网络。二部图网络表示为一个三元组形式 $G = ( U , V , E )$ ，其中 $U$ 与 $V$ 是 $G$ 的两个节点集， $E \\subseteq | U | \\times | V |$ 是$G$ 的边集合。相同节点集内的节点之间没有连接。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将二部图网络表示为 $| U | \\times | V |$ 的矩阵形式， $U$ 中共有 $n$ 个节点， $V$ 中共有 $\\mathbf { \\nabla } m$ 个节点，网络 $G$ 可表示为 $m { \\times } n$ 维的邻接矩阵。二部图网络 $G$ 的矩阵元素 $A _ { i j }$ 与对角矩阵 $A$ 分别定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { i j } = \\{ { \\begin{array} { l l } { 1 , } & { i f ( u _ { i } , \\nu _ { j } ) \\in E } \\\\ { 0 , } & { { \\mathord { / { \\vphantom { | { \\vphantom { | { \\frac { I } { \\operatorname { H } } } | } } | } }  \\kern - delimiterspace } } { | { \\begin{array} { l } { 1 } \\\\ { 1 } \\end{array} } | } } \\end{array} } , A = [ { \\begin{array} { l l } { 0 _ { m \\times n } } & { A _ { n \\times m } } \\\\ { A _ { m \\times m } ^ { T } } & { 0 _ { n \\times m } } \\end{array} } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $0 _ { n \\times n }$ 与 $0 _ { m \\times n }$ 分别为 $\\scriptstyle n \\times n$ 与 $m { \\times } n$ 的全零矩阵； $A _ { n \\times m }$ 为非零矩阵。所以邻接矩阵具有对称性，使用 $A _ { n \\times m }$ 矩阵表示二部图网络 $G$ ， $U$ 集合的每行与每列表示 $V$ 集合的一个节点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二部图网络链接预测问题的目标是寻找网络当前不存在但未来会出现的链接。假设 $G = ( U , V , E )$ 是时间 $t$ 的二部图，链接预测任务是预测时间 $t { + } 1$ 二部图网络中的新链接。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将二部图转换为单模网络是分析二部图网络广泛使用的一个方案。投影技术是将二部图网络转换为单模网络的有效技术，投影后的网络是典型的单模网络结构。为了预测网络的潜在链接，首先将二部图网络转换为投影网络。投影网络如下定义：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义2投影网络。 $G = ( U , V , E )$ 是一个二部图网络，并且$\\textstyle | U ( G ) | = m$ ， $\\textstyle | V ( G ) | = n$ ， $\\left| E ( G ) \\right| = m \\times n$ 维。二部图网络两个节点集 $U$ 与 $V$ 分别转换为两个投影网络，获得 $U .$ -投影网络 $G _ { u } = ( U ,$ （2$E _ { u } )$ 与 $V -$ 投影网络 $G _ { \\nu } { = } ( U , E _ { \\nu } )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { u } = \\{ { \\left( u _ { i } , u _ { j } \\right) } { \\left| u _ { i } , u _ { j } \\in U , \\right| } \\exists \\nu _ { i } \\in V , \\nu _ { i } \\in T ( u _ { i } ) \\cap T ( u _ { j } ) \\}  \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\nu } = \\{ \\left( \\nu _ { i } , \\nu _ { j } \\right) \\left| \\nu _ { i } , \\nu _ { j } \\in V , \\left| \\exists u _ { i } \\in U , u _ { i } \\in T ( \\nu _ { i } ) \\cap T ( \\nu _ { j } ) \\right. \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据定义2， $u _ { i } \\nu _ { e } u _ { j }$ 节点是二部图网络中 $U$ 集合的元素。如果二部图网络中 $V$ 节点有一个以上的邻居节点，那么 $U .$ 投影网络 $\\left( G _ { u } \\right)$ 中节点 $u _ { i }$ 与 $u _ { j }$ 之间存在一个链接。与之相似，$G$ 的 $V .$ 投影网络定义为 $G _ { \\nu } { = } ( U , E _ { \\nu } )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二部图网络转换为单模网络之后，原网络的拓扑结构信息可能丢失。为了解决该问题，设计了加权的二部图网络。加权二部图网络可以表示网络的拓扑属性，如项目一用户推荐关系、作者一文献关系、病人一病情关系等。加权的单模网络投影技术从一个二维网络获得加权的单模网络，其中边的权重表示节点的共同邻居数量。使用一个加权单模投影获得的网络称为加权投影网络，其数学模型定义为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义3加权投影网络。 $G = ( U , V , E )$ 是一个二部图网络，其空间维度为 $\\vert U ( G ) \\vert = m$ ， $\\left| U ( G ) \\right| = n$ ， $\\left| E ( G ) \\right| = m \\times n$ 。二部图网络的 $U _ { ☉ }$ -投影网络 $G _ { u } = ( U , \\ E _ { u } )$ ， $V .$ 投影网络 $G _ { \\nu } { = } ( U , \\ E _ { \\nu } )$ 。为每个 $E _ { u }$ 与 $E _ { \\nu }$ 边进行加权处理，加权函数 $W$ 定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { u } = \\{ ( u _ { i } , u _ { j } ) | u _ { i } , u _ { j } \\in U , | \\exists \\nu _ { i } \\in V , \\quad \\nu _ { i } \\in T ( u _ { i } ) \\cap T ( u _ { j } )  \\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW : ( u _ { i } , u _ { j } ) {  } { \\mid } T ( u _ { i } ) { \\cap } \\varGamma ( u _ { j } ) { \\mid }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\nu } = \\{ \\left( \\nu _ { i } , \\nu _ { j } \\right) \\left| \\nu _ { i } , \\nu _ { j } \\in V , \\left| \\exists u _ { i } \\in V , \\ u _ { i } \\in T ( \\nu _ { i } ) \\cap T ( \\nu _ { j } ) \\right. \\right\\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW : ( \\nu _ { i } , \\nu _ { j } ) {  } | \\varGamma ( \\nu _ { i } ) \\cap \\varGamma ( \\nu _ { j } ) |\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $W ( u _ { i } , \\ u _ { j } )$ 分别表示 $i$ 节点与 $j$ 节点的重要性。对于 $U _ { ☉ }$ 投影网络， $W ( u _ { i } , u _ { j } )$ 定义为 ${ \\varGamma } ( i ) \\cap { \\varGamma } ( j )$ 相同邻居节点的数量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为从实际数据构建网络，网络中包含大量的冗余信息，这些冗余信息对潜在链接的预测具有不利的影响，所以首先需要过滤数据集的冗余链接，可有效地降低网络的复杂度，并且提高链接的预测质量。本文设计了骨干网提取算法将加权单模网络转换为增强的单模网络，增强的单模网络如下定义：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义4增强的二部图投影。 $U$ 、 $V$ 两个节点集和链接集$E$ 组成了二部图网络 $G = ( U , V , E )$ ，从二部图网络 $G$ 获得两个投影网络 $G _ { u } = ( U , \\ E _ { u } )$ 与 $G _ { \\nu } { = } ( U , \\ E _ { \\nu } )$ 。如果 $A$ 与 $B$ 边的权重$W ( A , B ) > \\alpha$ ，那么 $( A , B )$ 边划分为增强网络 $S B P ^ { \\alpha }$ ；反之， $( A , B )$ 边属于冗余信息，过滤这些边。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 本方案的主要内容",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文从大规模实际数据集构建了复杂的二部图网络，设计了二部图网络的链接预测方案，图1所示是本方案的流程框图,其中包括了基本信息提取方案，另一个关键工作是根据当前的二部图网络预测网络的潜在链接。项目信息、用户、用户评价等数据组成了二部图网络，本文的关键工作是从二部图网络提取基本信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5a8e2ba6344d49b5cd1ee939e4dce469f14ec24f80f73cc1dee712ef23843c6.jpg",
+        "img_caption": [
+            "图1本方案的流程框图",
+            "Fig.1Block diagram of proposed schema "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1提取基础信息",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图2所示是基础信息的提取流程框图，提取了项目的详细信息与用户信息。将所有的项目一用户数据输入莱文斯坦距离算法(levenshtein distance algorithm,LDA)，LDA 算法评估两个词汇之间的相似性。首先，分析原数据集，创建每个项目的名称列表，为选择同一个项目名称的用户建立关联性，并且保持用户的ID信息与日期信息；然后，合并数据集的项目标签，将所有的项目标签与用户分别建立新的列表，将这两个列表输入LDA 算法重新计算；最后，将标签列表内的标签标准化处理，根据标准化的标签更新项目一用户链接信息。例如电影项目的名称为“卧虎藏龙”，标签为“动作片”，将网络中电影项目的标签统一标准化处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2链接预测算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用增强的二部图投影技术提取二部图网络的潜在链接，实现基于相似性的链接预测。首先，使用挖掘技术从大数据集中提取二部图网络(如定义1)，采用2.1节的方案提取数据集的相关信息；然后，二部图网络转换为加权的单模网络(如定义3)，将单模网络转换为投影网络的骨干网络SBP(如定义4)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/89c1dd910614b9810ce3ecd0722d0ad060b2626855eab03fd535fc0b15b7bc20.jpg",
+        "img_caption": [
+            "图2基础信息的提取流程框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 $S B P ^ { \\alpha }$ 单模网络中，检测具有内部节点对属性的节点对，预测网络的潜在链接。该方案降低了预测的链接数量，同时提高了预测的质量。如果二部图网络 $G$ 中两个子节点之间存在交互，那么这两个子节点可能存在潜在链接；如果两个子节点没有共同的邻居节点，那么这两个子节点存在潜在链接的概率较低。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义5潜在链接(potential links,PL)。假设 $G = ( U , V , E )$ 是一个二部图网络， $G _ { u } ^ { \\alpha } = ( U , E _ { u } ^ { \\alpha } )$ 是 $U -$ 投影单模网络，$G _ { \\nu } ^ { \\alpha } = ( U , E _ { \\nu } ^ { \\alpha } )$ 是 $V .$ 投影单模网络，式中 $\\scriptstyle a$ 表示单模网络。假设$A \\in { U }$ 是 $U$ 投影网络 $G _ { u } ^ { \\alpha } = ( U , E _ { u } ^ { \\alpha } )$ 的节点，那么节点 $A$ 具有一个潜在链接的概率：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$P L _ { A } = \\{ K ( { T _ { A } } ) _ { t r a i n } \\}$ ， $K { = } T ( k _ { 1 } ) \\cup T ( k _ { 2 } ) , { \\ldots } , \\cup T ( k _ { n } )$ 表示 $G _ { t r a i n }$ 网络中一个节点 $\\varGamma _ { A } ^ { \\alpha }$ 的邻居，节点 $A$ 属于投影网络 $G _ { u } ^ { \\alpha }$ ， $\\varGamma ( k _ { n } )$ 表示节点 $k _ { n }$ 在二部图 $G$ 中的邻居节点。如果满足式(1)，则$P L _ { \\cal A } = \\{ p | p \\in K \\wedge p \\notin C _ { \\cal A } , ( A , p ) \\}$ ， $P L = \\{ P L _ { _ A } \\bigcup P L _ { _ B } , . . . , \\bigcup P L _ { _ m } \\}$ 表示预测的潜在链接。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "存在潜在链接的节点应当满足",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\varnothing$ 表示空集； $A \\in U$ 与 $p _ { i } \\in V$ 表示两个节点，并且(A,$p _ { i } ) \\notin E _ { \\circ }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义6潜在链接的覆盖模式。假设 $G _ { t r a i n }$ 为二部图训练网络， $G _ { u } ^ { \\alpha }$ 为 $U .$ 投影单模网络。每个 $C \\mathsf { \\epsilon } ( T v ( A ) ) _ { t r a i n } \\cap T ( p _ { i } )$ 的潜在链接是 $P L$ (潜在链接)覆盖的模式。 $P L$ (潜在链接)覆盖的模式数量越多，那么潜在链接变为真实链接的概率越高。因此，$P L$ 覆盖的模式数量越多可用于评估潜在链接的概率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "例如图3(a)所示的二部图网络中，圆形节点表示用户，方形节点表示用户观看的电影。 $T _ { 2 }$ 、 $T _ { 4 }$ 是用户 $B$ 与 $E$ 共同观看的电影， $( E , T _ { 1 } )$ 与 $( E , T _ { 3 } )$ 是满足定义5条件的潜在链接。这两个 $P L$ 覆盖的模式数量不同， $( E , T _ { 1 } )$ 链接覆盖的模式为$\\{ E , A \\} , \\{ E , B \\}$ ； $( E , T _ { 3 } )$ 链接覆盖的模式为 $\\{ E , A \\} , \\{ E , B \\} , \\{ E , C \\}$ 0$( E , T _ { 3 } )$ 潜在链接的概率高于 $( E , T _ { 1 } )$ 潜在链接。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义7改进的模式权重。 $P L$ 覆盖的模式数量越多，网络中 $P L$ 覆盖的每个链接权重则越重要[13]。计算 $\\{ A , B \\}$ 的模式权重，需要考虑三个基本因素：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）二部图网络中A、 $B$ 节点共同的邻居数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "潜在链接覆盖的模式等于投影网络的边。二部图网络 $G$ 中边 $A$ 与 $B$ 有相同的邻居节点，表示为投影网络 $G _ { u }$ 的 $( A , B )$ 边。图4(a)与(c)是两个不同的二部图网络，但它们的投影网络相同，如图4(b)(d)所示。这种情况下，投影网络丢失了二部图网络的拓扑信息，通过采用加权的二部图网络可维护网络的拓扑信息，图4(a)的邻居数量小于(b)，所以 $( A , B )$ 边的值存在差异，由此可实现对二部图网络拓扑信息的保护。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0b92660020faa01743d316a57a0dfb9a1a731454bb1d815e8bb65981108e6e8.jpg",
+        "img_caption": [
+            "图3潜在链接覆盖模式的实例"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1ce8c60c8b27748ed3c57f84296118ccba523493793f901a58cc90eb64c8482.jpg",
+        "img_caption": [
+            "Fig.2Block diagram of basic information abstraction ",
+            "Fig.3Case of potential linkage coverage model ",
+            "Fig.4Two different bipartite graph networks and weighted projecter network "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）二部图网络中节点 $A$ 与 $B$ 的共同邻居度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "二部图网络中共同邻居的度也是重要的隐藏信息。如果二部图网络中两个节点共同邻居的度增加，那么两个节点的相似性也提高。例如图5(a)中 $T _ { 2 }$ 的度是 $A$ 、 $B$ 用户的共同观看的电影，(b)中 $A$ 、 $B$ 、 $c$ 、 $D$ 用户观看了电影 $T _ { 2 }$ ，(a)和(b)的共同邻居度分别为2与4。两个节点的共同邻居度越小，那么两者的相似性越高，模式的权重也越高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）二部图网络中节点 $A$ 与 $B$ 的度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$A$ 与 $B$ 节点的度对于 $\\{ A , B \\}$ 边的模式权重具有一定的影响。例如：图5(a)中节点 $A$ 与 $B$ 的度分别为2与1，(b)中节点 $A$ 与 $B$ 的度分别为2与3。在图5(a)中，当用户 $A$ 观看电影 $T _ { 1 }$ 与 $T _ { 2 }$ ；用户 $B$ 仅观看电影 $T _ { 2 }$ 。而在图 5(b)中A、 $B$ 观看了不同的电影，他们观看的共同电影是 $T _ { 2 }$ ，图5(b)中两者的相似性低于图5(a)， $A$ 与 $B$ 权重也应当高于图5(a)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设 $G _ { u } = ( U , E _ { u } )$ 是从二部图网络 $G = ( U , V , E )$ 获得的投影单模加权网络， $( A , B ) \\in E _ { u }$ 是网络 $G _ { u }$ 内的一条边。 $\\{ A , B \\}$ 模式的权重 $w ( A , B )$ 计算为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw \\big ( A , B \\big ) = \\frac { 2 } { k _ { A } + k _ { B } } \\sum _ { z \\in \\Gamma ( A ) \\cap \\Gamma ( B ) } \\frac { 1 } { k _ { z } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $k _ { a }$ 、 $k _ { b }$ 、 $k _ { z }$ 分别为节点 $A$ 、 $B$ 、 $c$ 在二部图网络 $G$ 中的度； $T ( A )$ 、 $T ( B )$ 分别为二部图网络中 $A$ 与 $B$ 节点的邻居集合。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从式(5)可看出，A、 $B$ 节点的共同邻居度越小，模式的权重越大。 $P L$ 覆盖的每个模式元素概率等价于 $P L$ 覆盖的模式总权重， $( A , p _ { i } )$ 潜在链接的最终总评分计算为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS \\left( A , p _ { i } \\right) = \\sum _ { A , B \\in \\Gamma \\left( A , p _ { i } \\right) } w \\left( A , B \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从式(6)可看出，高权重模式的潜在链接越多，则链接预测的概率越高。因此，潜在链接覆盖的模式权重之和即为潜在链接预测的最终值。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7937d4798e377143a73015b456717a4051c7890f6c35b6cca3c3e0f206811e50.jpg",
+        "img_caption": [
+            "图5两个不同的二部图网络",
+            "Fig.5Two different bipartite graph networks "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3算法的具体实现 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用文献[14]的二部图网络的内部链接定义，基于该定义设计了本文的链接预测方案，算法1所示是基于二部图网络链接预测的推荐算法伪代码。文献[13]基于内部链接定义了候选节点对，基于此概念提出一个链接预测方案，该算法对大规模网络的效率较低。本文则提出了适合大规模二部图网络的链接预测方案。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文从原数据集获得了包含弱关系的投影单模网络，该网络过滤了冗余的信息，提取了骨干网络。根据预定义的阈值创建一个增强的骨干网络，在初始化的单模投影网络中，根据高频率边权重决定该阈值。该方案有效地缩小了潜在链接的集合，降低了算法的总体计算时间，同时也维护了网络中强关系的节点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法1基于二部图网络链接预测的推荐算法  \n输入：二部图网络 $G ( U , V , E )$ ，训练二部图网络 $G _ { t r a i n } ( U , V , E _ { t r a i n } )$   \n阈值 $\\scriptstyle a$ 。  \n输出：潜在链接集合 $P L$ ， $P L$ 中各元素的最终评分。  \n$/ *$ 模块1：根据定义3构建加权的投影网络 $G _ { u } { ^ * } /$   \nforeachnode $A$ in $U$ foreach $x$ in $\\varGamma ( A )$ $/ { ^ * T } ( A )$ 表示 $A$ 的邻居节点 $^ { * } /$ for each B in $\\boldsymbol { { \\varGamma } } ( \\boldsymbol { x } )$ $/ { ^ { * } I } ( x )$ 表示 $x$ 的邻居节点\\*/W: $( A , B ) {  } | T ( A ) \\cap T ( B ) | / { } ^ { * }$ 计算A与B的共同邻居度\\*/$E _ { u } { = } E _ { u } \\cup \\{ ( A , B ) \\}$ end forend for  \nend for  \n$/ *$ 模块2：根据定义4构建强化的投影网络 $G _ { u } ^ { \\alpha }$ \\*/  \nforeach $A$ in $G _ { u }$ for each $B$ in $\\boldsymbol { { \\varGamma _ { u } } } ( A )$ $/ *$ 式中 $B$ 为 $A$ 的邻居节点\\*/if $W ( A , B ) > \\alpha$ then",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$E _ { u } ^ { \\alpha } = E _ { u } ^ { \\alpha } \\bigcup \\{ ( A , B ) \\}$ ；/\\*根据定义4建立投影\\*/end ifend forend for$/ *$ 模块3：根据定义5构建 $P L$ 集合 $^ { * } /$ for each节点 $A$ in $G _ { u } ^ { \\alpha }$ $/ ^ { * } G _ { u } ^ { \\alpha }$ 是强化的投影网络\\*/for each $A$ 的邻居节点 $K$ $/ *$ 遍历 $A$ 的每个邻居节点\\*/for each 与 $K$ 连接的节点 $p$ $/ *$ 遍历 $K$ 直接连接的节点\\*/if $( A , p ) \\notin E _ { t r a i n }$ then$P L _ { A } { = } P L _ { A } \\cup ( A , p )$ . $/ *$ 将 $P L _ { A }$ 边的权重累积起来\\*/end ifend forend for$P L { = } P L \\cup P L _ { A }$ end for$/ *$ 模块4：计算 $P L$ 集合每个元素的最终评分\\*/for each节点对 $( A , p )$ in $P L$ for each 节点 $C \\big ( C \\in ( { \\itGamma } \\pi ( A ) ) _ { \\prime r a i n } \\cap { \\itGamma } ( p ) \\big )$ $/ *$ 遍历每个节点\\*/根据式(2)计算节点对 $( A , p )$ 的权重；$S ( A , p ) = S ( A , p ) + w ( A , C ) ; \\qquad / \\ast \\boxplus \\pmb { \\mathbb { x } }$ $( 3 ) ^ { * } /$ end forend for",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验与结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了评估基于二部图网络链接预测的推荐算法性能，完成了多组实验，通过推荐准确率与推荐覆盖率两个指标评估推荐算法的性能。实验环境为PC机：IntelCorei7处理器，Windows10操作系统，12GB内存。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1实验数据集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验采用FilmTrust与Epinions两个数据集，表1所示是两个数据集的基本介绍。FilmTrust是从FilmTrust网站采集的小数据集[15]，该数据集共包含35 497个评分，1642个用户，2071部电影。评分范围为0.5,1.0,1.5,..,4.0，同时包含了1853条用户评论。第二个数据集是Epinions大数据集，该数据集由Paolo Massa从Epinions.com网站收集，该数据集的评分范围为1,2,3,4,5，该数据集包含49290个用户，139728个项目，实验从Epinions数据集中随机选择了5000个用户与10000个项目作为实验数据集。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c325346a031126f0193f83cdb3e405fb8112b5c83df380fdceaecfe8ce6ebc5b.jpg",
+        "table_caption": [
+            "表1FilmTrust与Epinions 两个数据集的基本信息",
+            "Table 1 Basic information ofFilmTrust and Epinions datasets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>FilmTrust</td><td>Epinions</td></tr><tr><td>用户数量</td><td>1508</td><td>5 000</td></tr><tr><td>项目数量</td><td>2 071</td><td>10 000</td></tr><tr><td>评分数量</td><td>35500</td><td>77100</td></tr><tr><td>评分粒度</td><td>0.5</td><td>1</td></tr><tr><td>评分范围</td><td>[0.5, 4]</td><td>[1,5]</td></tr><tr><td>评论数量</td><td>1 853</td><td>20500</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2性能评价指标 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用平均绝对误差(mean absolutedeviation，MAE)指标评估本方案的推荐准确率，对于一个包含 $N$ 个评分的数据集，MAE的计算方案为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ M A E = { \\frac { \\sum _ { i = 1 } ^ { N } \\left| { \\boldsymbol { r } } _ { i } - { \\boldsymbol { r } } _ { p } \\right| } { N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $r _ { p }$ 为目标项目 $i$ 的预测评分； $r _ { i }$ 是 $i$ 的实际评分。MAE值越低，推荐准确率越高。覆盖率是评估推荐系统性能的另",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一个重要指标，计算式为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR C = M / | \\Omega |\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $M$ 表示预测评分的数量； $| \\Omega |$ 表示数据集内的评分总数量。 $R C$ 值越高表示推荐系统的覆盖性能越好。 $F _ { 1 }$ 指标评估推荐系统的总体性能为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF 1 { = } \\frac { 2 \\times p r e c i s i o n { \\times } R C } { p r e c i s i o n { + } R C }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中：精度precision定义为",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $r _ { m a x }$ 与 $r _ { m i n }$ 分别表示推荐系统内最高评分值与最低评分值，分别为1与0。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3实验结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本算法是一种基于二部图网络的推荐算法，选择其他不同类型的推荐算法与本算法比较，包括协同过滤推荐算法(collaborative filtering recommender system,CF)[16]、基于信任的可靠推荐 算法(more trust-aware recommender system,MT)[17]、基于内容的推荐算法(term weights for content-basedfilteringrecommender,TCF)[18]、协同过滤与社会关系的组合推荐算 法(mergingcollaborativefilteringandsocialrelationships,Merge)[19]；此外还选择了两个近期的基于二部图推荐算法与本算法比较，分别为加权二部图推荐算法(realtime construction full weighted bipartite,RTCF)[20]、二部图网络多视角分区的推荐算法(multiview bipartite network，MV)[21]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.1正常状态的推荐实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6所示是Epinions数据集的推荐性能结果。图6(a)\\~(c)分别是六种推荐算法的MAE、RC与F1指标结果。从结果可看出，本算法对于大规模数据集的推荐准确率与覆盖率均优于其他类型的推荐算法，并且也优于另一种基于二部图的推荐算法RTCF。基于二部图的推荐算法在覆盖率上表现出一定的优势，主要在于RTCF与本算法均建立了较为全面的二部图，保留了数据集的诸多信息，而CF、MT、TCF、Merge四种算法在预处理的阶段，为了提高计算效率，过滤了数据集较多的信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7所示是FilmTrust数据集的推荐性能结果。图7(a)\\~(c)分别是五种推荐算法的MAE、RC与F1指标结果。从结果可看出，本算法对于小规模数据集的推荐准确率与覆盖率均优于其他类型的推荐算法，并且也优于另一个基于二部图的推荐算法MV。综合两组实验的结果，本算法对小数据集的推荐准确率优于大数据集，原因在于本算法在提取二部图投影骨干网络的过程中，增加了冗余信息过滤的处理，该处理对大数据集删除的细节信息较多，影响了后期连接预测的准确率，导致对大数据集的推荐准确率降低，但是依然高于其他的推荐算法。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/eed36a184bb0928dcf9b37ca2c1bb25fa2803341a560e0eaa6938f03f782df3a.jpg",
+        "img_caption": [
+            "图6六种推荐算法对Epinions 数据集的推荐性能"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/74066062923771af5df759e105a7adfe741c3c811c79f803650becf54802279d.jpg",
+        "img_caption": [
+            "Fig.6Performance of six recommendation algorithms with Epinions dataset ",
+            "图7五种推荐算法对FilmTrust数据集的推荐性能",
+            "Fig.7Performance of five recommendation algorithms with filmtrust dataset "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.2冷启动状态的推荐实验 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "冷启动是推荐系统的一个关键问题，是评价推荐系统的一个重要指标。因此对冷启动状态下的推荐系统也进行了实验，分析冷启动状态推荐系统的性能。图8所示是Epinions数据集的推荐性能结果。图8(a)\\~(c)分别是六种推荐算法的MAE、RC与F1指标结果。从结果可看出，本算法对于大规模数据集的推荐准确率与覆盖率均优于其他类型的推荐算法，并且也优于另一种基于二部图的推荐算法RTCF。协同过滤推荐系统受冷启动问题的影响较大，其推荐准确率、覆盖率均较差。MT算法需要计算各个关系之间的信任值，受冷启动的影响较大，因此性能略差；TCF、Merge、RTCF则表现出较为接近的性能，基于二部图的推荐算法受到冷启动的影响较小，并且本算法通过三重权重建立投影网络的链接，能够有效地降低冷启动问题的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图9所示是FilmTrust数据集的推荐性能结果。图9(a)\\~(c)分别是五种推荐算法的MAE、RC与F1指标结果.从结果可看出，本算法对于小规模数据集的推荐准确率与覆盖率均优于其他类型的推荐算法，并且也优于另一种基于二部图的推荐算法MV。协同过滤推荐系统受冷启动问题的影响较大，其推荐准确率、覆盖率均较差。MT算法需要计算各个关系之间的信任值，受冷启动的影响较大，因此性能略差；Merge、MV则表现出较为接近的性能。本算法的推荐准确率指标MAE仅为0.26，获得了极高的准确率。本算法采用增强的加权单模投影网络保留骨干网络，过滤原数据集的冗余信息，同时保留网络的强、弱关系信息，该处理对于大数据集删除了较多的隐藏关系，但是对于小数据集则保留了丰富的强、弱关系信息，因此对小数据的推荐效果优于大数据集。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0d39dac513fe75e3197e899e5f2a76222ad6d1c187fd99c94e67cba04eaa1fd.jpg",
+        "img_caption": [
+            "图8六种推荐算法对Epinions 数据集的推荐性能"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/346046e13e4194eed63d770f5bc79175b00ef2691eec2ac919d4b05c7438dcba.jpg",
+        "img_caption": [
+            "Fig.8Performance of six recommendation algorithms with Epinions dataset ",
+            "图9五种推荐算法对FilmTrust数据集的推荐性能",
+            "Fig.9Performance of five recommendation algorithms with FilmTrust dataset "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "推荐系统在处理大数据时，在实际数据集建模网络的过程中，仅仅考虑了数据集内的强关系，忽略了弱关系和隐藏信息，虽然该机制提高了算法的处理效率，但是牺牲了算法的多样性。本文采用增强的加权单模投影网络保留骨干网络，过滤原数据集的冗余信息，同时保留网络的强、弱关系信息。本文对于大数据集与小数据集均进行了实验，并且考虑了冷启动的情况，结果显示本算法对于大小数据集均表现出一定的性能优势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]卿勇，刘梦娟，银盈，等.SMART:一种面向电商平台快速消费品的 图推荐算法 [J].计算机科学，2017,44 (b11):464-469.(Qing Yong, LiuMengjuan,Yin Ying,et al. SMART:a graph-based recommendation algorithm for fast moving consumer goods in E-commerce platform [J]. Computer Science,2017,44 (b11): 464-469.)   \n[2] 姚静天，王永利，侍秋艳．基于联合物品搭配度的推荐算法框架 [J]. 上海理工大学学报,2017,39(1):42-50.(Yao Jingtian,Wang Yongli, Shi Qiuyan.Joint match degree of items for recommendation systems [J].JournalofUniversity of Shanghai for Scienceand Technology,2017, 39 (1):42-50.)   \n[3]郭均鹏，赵梦楠．面向在线社区用户的群体推荐算法研究[J].计算 机应用研究，2014,31(3):696-699.(Guo Junpeng，Zhao Mengnan. Group recommendation algorithm for online community users [J]. Application Research of Computers,2014,31(3):696-699.)   \n[4]张时俊，王永恒．基于矩阵分解的个性化推荐系统研究[J]．中文信 息学报，2017，31 (3):134-139.(Zhang Shijun，Wang Yongheng. personalized recommender system based on matrix factorization [J]. Journal of Chinese Information Processing,2017,31 (3):134-139.)   \n[5]刘华锋，景丽萍，于剑．融合社交信息的矩阵分解推荐方法研究综 述[J].软件学报,2018,2(2):340-362.(Liu Huafeng,Jing Liping,Yu Jian. Survey of matrix factorization based recommendation methods by integrating social information [J].Journal of Software,2O18,2 (2): 340-362.)   \n[6]张玉洁，杜雨露，孟祥武．组推荐系统及其应用研究[J].计算机学 报,2016,39(4):745-764.(Zhang Yujie,Du Yulu,Meng Xiangwu. Research on group recommender systems and their applications [J]. Chinese Journal of Computers,2016,39 (4):745-764.)   \n[7]Kumar V,Pujari A K,Sahu S K,et al.Collaborative filtering using multiple binary maximum margin matrix factorizations [J]. Information Sciences,2017,380 (C): 1-11.   \n[8]王光，张杰民，董帅含，等．基于内容的加权粒度序列推荐算法 [J]. 计算机工程与科学,2018,1(3):564-570.(Wang Guang,Zhang Jiemin, Dong Shuaihan,et al.A content-based weighted granularity sequence recommendation algorithm [J].Computer Engineering and Science, 2018,1(3):564-570.)   \n[9]伊华伟，张付志．融合k-距离和项目类别信息的鲁棒推荐算法[J]. 小型微型计算机系统，2017,38(11):2476-2481.(Yi Huawei,Zhang Fuzhi.Robust Recommendation Method Fusing k-distance and Item Category Information [J]. Journal of Chinese Computer Systems,2017, 38 (11): 2476-2481.)   \n[10]李镇东，罗琦，施力力．基于增加相似度系数的加权二部图推荐算 法[J].计算机科学,2016,43(7):259-264.(Li Zhendong,Luo Qi,Shi Lili.Weighted bipartite network recommendation algorithm based on increasing similarity coefficient [J].Computer Science,2O16,43(7): 259-264.)   \n[11] Ge Mengqu,Li Ao,Wang Minghui.A biartite network-based method forpredictionoflncRNA-protein interactions．[J].Genomics Proteomics & Bioinformatics,2016,14(1):62-71.   \n[12] Daminelli S,Thomas JM,Duran C,et al.Common neighbours and the local-community-paradigm for topological link prediction in bipartite networks [J].New Journal of Physics,2015,17(11):113037.   \n[13] Cela KL, Sicilia M A,Sänchez S.Social network analysis in E-learning environments:a preliminary systematic review [J].Educational Psychology Review,2015,27(1):219-246.   \n[14]Wu Tsunghan,Yu Sheauharn,Liao Wanjiun,et al.Temporal bipartite projection and link prediction for online social networks [C]/Proc of IEEEInternational Conference on Big Data.2O15:52-59.   \n[15] Guo Guibing,Zhang Jie,Thalmann D.Merging trust in collaborative filtering to alleviate data sparsity and cold start [J].Knowledge-Based Systems,2014,57 (2):57-68.   \n[16] Palomares I,Browne F,Wang Hui,et al.A Collaborative filtering recommender system model using owa and uninorm aggregation operators [C]// Proc of International Conference on Intelligent Systems and Knowledge Engineering.Piscataway，NJ: IEEE Press，2016: 382-388.   \n[17] Abderrahim N,Benslimane S M.Towards improving recommender system:a social trust-aware approach [J].International Journal of ModernEducation& ComputerScience,2015,7(2):8-15.   \n[18] Hardtke D,Hardtke D,Hardtke D,et al.Learning global term weights for content-based recommender systems [C]// Proc of International Conference on World Wide Web.Switzerland:International World Wide Web Conferences Steering Committee.2016:391-400.   \n[19]Meo PD,Ferrara E,Fiumara $\\mathbf { G } ,$ et al.Improving recommendation quality by merging collaborative filtering and social relationships [C]// Proc of International Conference on Intelligent Systems Design and Applications.Piscataway,NJ:IEEE Press,2012:587-592.   \n[20]Haihong E,Wang Jianfeng,Song Meina,et al.Incremental weighted bipartite algorithm for large-scale recommendation systems [J].Turkish Journal of Electrical Engineering& Computer Sciences,2016,24(2): 1-16.   \n[21] Tong Linqiao.Personal recommendation based on community partition of bipartite network [C]// Proc of International Conference on Cloud Computing and Big Data.Piscataway,NJ: IEEE Press,2015: 336-341. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

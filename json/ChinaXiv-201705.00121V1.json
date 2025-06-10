@@ -1,0 +1,292 @@
+[
+    {
+        "type": "text",
+        "text": "A compressible and hierarchical porous graphene/ Co composite aerogel for lithium-ion batteries with high gravimetric/volumetric capacityt ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hailiang Cao, Xufeng Zhou,\\* Wei Deng and Zhaoping Liu\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Graphene-based electrodes with high gravimetric and high volumetric capacity simultaneously are crucial to the realization of high energy storage densitybutstil proved to be challenging to prepare.Herein,we reporta three-dimensional porous graphene/Co aerogel with hierarchical porous structure and compressible features as a high-performance binder-free lithium-ion battry anode.In this composite aerogel,graphene nanosheets interconnect to form continuous macropores,and cobalt nanoparticles stemming from decomposition of cobalt salt not only react with carbon atoms of graphene to form nanopores on the graphene nanosheets,but also increase the conductivity of the aerogel.With efficient ion and electron transport pathways as wellas high packing density,the compressed porous graphene/ Co electrode exhibits significantlyimproved electrochemical performance including high gravimetric and volumetric capacity，excellent rate capability，and superior cycling stability.After compression，such aporous graphene/Co nanocomposite can deliver a gravimetric capacity of $9 0 0 ~ \\mathsf { m A } \\ \\mathsf { h } ~ \\mathsf { g } ^ { - 1 }$ and a volumetric capacity of 358 mA h $c m ^ { - 3 }$ at a current density of $0 . 0 5 \\textsf { A } \\mathfrak { g } ^ { - 1 }$ Furthermore,after 300 discharge/charge cycles at $\\mathsf { 1  A } \\mathsf { g } ^ { - 1 } .$ the specific capacity still remains at $1 6 3 ~ \\mathsf { m A } \\mathsf { h } ~ \\mathsf { c m } ^ { - 3 }$ ，corresponding to $9 0 . 5 \\%$ retention of its initial capacity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The increasing concern of environmental issues and the depletion of fossil fuels urgently require the development of clean and high-effcient energy conversion and storage technologies.1,² Lithium ion batteries (LIBs) have been drawing great attention both from academic and industrial communities because of their superior advantages over other secondary batteries including high energy density,low maintenance,and relatively low self-discharge.3-5 The electrode materials are the critical components of LIBs and largely determine their ultimate performance.Graphite has been widelyused as an anode material in current commercialLIBs;however, its low theoretical capacity $\\left( 3 7 2 \\mathrm { \\ m A } \\mathrm { \\ h \\ g } ^ { - 1 } \\right) $ and poor rate capability cannot satisfy the increasing demands.67 Thus the research for alternative anodematerialswith betterelectrochemical performance has become an urgent task in building next-generation LIBs, so as to meet the ever-growing performance requirements.8-10 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Graphene,a one-atom thick two-dimensional carbon material，possesses a number of distinct properties for electro chemical energy storage，such as large theoretical specific surface area，excellent electrical conductivity，outstanding mechanical strength and elasticity，superior thermal conductivity,high chemical stability,and so on.11-13 In addition,recent studies have reported that graphene can be easily prepared in large quantities through a chemical method from inexpensive graphite.14,15 However,according to current research progress, bare graphene exhibits low reversible specific capacity and poor rate performance especially at high current densities.16-19 For example,at a current density of $5 0 \\mathrm { \\ m A } \\mathrm { g } ^ { - 1 }$ ,the specific capacity of graphene was found to be $5 4 0 ~ \\mathrm { \\ m A }$ h $\\mathrm { g } ^ { - 1 }$ ，and this was increased up only to 730 and $7 8 4 \\mathrm { m A h g } ^ { - 1 }$ ,respectively, even by the incorporation of CNTs and fullerenes.16 Moreover， the measured specific capacities of graphene materials prepared by various methods in different publications vary greatly because of their different structures,16-19 to which relatively little attention has been paid.Furthermore,due to the strong $\\pi { - } \\pi$ interaction between graphene nanosheets, the graphene flakes are easyto aggregate to form graphite-like powders or filmswith dense layered structures,leading toa severelydecreased surface areaand reduced ion diffusionrate,and therefore unsatisfactory capacities and low discharge/charge rate.2o-24 More importantly,although the gravimetric capacity is a very important factor to evaluate electrode materials forLIBs,the volumetric performance is another key figure-of-merit to consider for practical applications due to limited spaces for batteries.25-31 Unfortunately,at present most efforts have been focused on increasing the gravimetric capacity of graphene,while fluffy graphene powder with ultra-low packing density inevitably gives rise to low volumetric capacity. Consequently,it's important to rationally design the structure of graphene to simultaneously achieve high gravimetric and volumetric performances while retaining excellent rate capability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently，several studies have demonstrated that metal nanoparticles can be employed in anode materials to enhance electrochemical properties.32-34 Furthermore,we have demonstrated that metal nanoparticles can react with carbon atoms of graphene to form porous graphene at high temperatures.35 Given these,in this presentwork,we designed a3Dhierarchical porous graphene/Co (PG/Co) composite aerogel to seek better electrochemical performance using a simple hydrothermal method and subsequent thermal treatment.Graphene nanosheetsconnected with each otherto forma 3D frameworkwith continuous macropores,and cobalt nanoparticles not only increase the conductivity of the hybrid aerogel,but also can etch graphene to form nanopores,constitutinga hierarchical porous structure.More importantly,the as-prepared monolithic graphene aerogel can be simply compressed to be a free-standing film-like electrode witha packing density17 times higher than the one before compression.As expected, the compressed $\\mathrm { P G } /$ Coaerogel with ahigh packing density and eficient ion transport pathways can deliver high gravimetric $( 9 0 0 \\ \\mathrm { m A } \\mathrm { h } \\ \\mathrm { g } ^ { - 1 } )$ and volumetric capacity $\\left( 3 5 8 \\mathrm { \\ m A } \\mathrm { h } \\mathrm { c m } ^ { - 3 } \\right)$ simultaneously,and also shows good rate capability and cycling stability.This green strategy can be easily expanded to the rational design of other porous graphene hybrids with various applications. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental section ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Preparation of the PG/Co aerogel ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Graphene oxide (GO) was synthesized from natural graphite flakes by oxidation with $\\mathbf { K M n O } _ { 4 }$ and $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ using a modified Hummers method.36 $\\mathbf { P G } / \\mathbf { C o }$ aerogel was prepared by the hydrothermal assembly of GO,followed by immersion into cobalt(I) nitrate solution,and subsequent freeze-drying and thermal treatment.In a typical experiment,the as-prepared graphite oxide was dispersed in de-ionized water to form a $3 \\mathrm { m g }$ $\\mathbf { m \\mathbf { L } ^ { - 1 } }$ dispersion.The complete exfoliation of graphite oxide into GO was achieved by ultrasonication of the solution for $3 0 ~ \\mathrm { { m i n } }$ . Subsequently,the obtained suspension was treated by high-speed centrifugation $( 8 0 0 0 \\ \\mathrm { r p m } , \\ 2 0 \\ \\mathrm { m i n } )$ to remove any unexfoliated graphite oxide.Afterwards, $3 0 ~ \\mathrm { m L }$ of homogeneous GO suspension was sealed in a $5 0 ~ \\mathrm { m L }$ Teflon-lined autoclave and maintained at $1 8 0 ^ { \\circ } \\mathrm { C }$ for $^ { 1 2 \\mathrm { ~ h ~ } }$ .Afternaturallycooling down to room temperature,the as-prepared hydrogel was immersed in $4 0 ~ \\mathrm { m L }$ of cobalt() nitrate solution $\\left( 3 ~ \\mathrm { g } / 2 0 0 ~ \\mathrm { m L } \\right)$ for $^ { 6 \\mathrm { ~ h ~ } }$ .After that，the sample was freeze-dried overnight，followed by thermal treatment at $8 0 0 ^ { \\circ } \\mathrm { C }$ for $^ { 1 \\mathrm { h } }$ at a ramp rate of $1 0 ^ { \\circ } \\mathbf { C } \\operatorname* { m i n } ^ { - 1 }$ under an Ar atmosphere. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For comparison,we also prepared a bare graphene (G) aerogel and graphene/cobalt nanoparticle $\\scriptstyle \\left( \\mathbf { G } / \\mathbf { C o } \\right)$ composite aerogel with no hierarchical pores via the same procedures. In the case of the bare G aerogel, the graphene hydrogel was directly freeze-dried after hydrothermal treatment without immersion into cobalt nitrate solution.In the case of the $\\mathbf { G } / \\mathbf { C o }$ aerogel, the cobalt nitrate immersed aerogel was annealed at a lower temperature of $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ \\mathrm { ~ 1 ~ h ~ }$ ，during which cobalt nanoparticles barely react with graphene to form pores. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Sample characterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The morphology and microstructure of the as-prepared G, $\\mathbf { G } / \\mathbf { C o }$ and PG/Co aerogels were investigated using a field emission scanning electron microscope (FESEM, S-48oo,Hitachi, Japan) and an FEI Tecnai G2 F20 transmission-electron microscope (TEM) at an accelerating voltage of $2 0 0 ~ \\mathrm { { \\ k V } }$ ，Powder X-ray diffraction measurements were recorded on an AXs D8 Advance diffractometer with Cu $\\kappa \\boldsymbol { \\mathfrak { a } }$ radiation at $4 0 \\ \\mathrm { k V }$ ，Thermogravimetric (TG,Pyris Diamond,Perkin-Elmer) analysis from room temperature to $7 0 0 ^ { \\circ } \\mathrm { C }$ at a rate of $1 0 \\ ^ { \\circ } { \\bf C } \\ \\operatorname* { m i n } ^ { - 1 }$ in air was conducted to calculate the weight percentage of cobalt in the $\\mathbf { P G / C o }$ aerogel.X-ray photoelectron spectra (XPs) were recorded by using an AXIS ULTARDLD spectroscope from Kratos.Raman spectrawere recorded byusing a RenishawinVia Reflex Raman Spectrometer,with a $5 3 2 ~ \\mathrm { n m }$ -wavelengthlaser.Theelectrical conductivity of the samples was measured using the standard 4-point contact method. Nitrogen adsorption/desorption measurements were carried out at $7 7 ~ \\mathrm { K }$ inMicromeritics ASAP 2020Minstrument. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 Electrochemicalcharacterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The electrochemical behaviors of the samples were examined with a CR2o32 coin cell through two methods.In the first method, the paste was prepared by mixing the active material and poly(vinylidene fluoride) (PvDF) in $N _ { \\mathbf { \\lambda } }$ -methyl-2pyrrolidinone solution.The weight ratio of active material ：PVDF was $9 : \\ 1$ . Then the slurry was cast on nickel foam and dried in a vacuum oven overnight for next evaluation.In the second one, the final aerogels were mechanically compressed to form thin discs,which can be directly used as binder free electrodes. Finally the cells were assembled in an argon-filled glovebox using a glass fiber flter paper (Whatman Grade) as the separator，and $1 ~ \\mathrm { ~ M ~ } \\mathrm { ~ L i P F } _ { 6 }$ dissolved in a mixture of ethylene carbonate and dimethyl carbonate $( 1 : 1$ ，by volume）as the electrolyte.The mass of the active material is $1 { - } 2 \\mathrm { m g } \\mathrm { c m } ^ { - 2 }$ . The galvanostatic charge/discharge tests were carried out within a voltage range of $_ { 0 . 0 1 - 3 \\mathrm { ~ V ~ } }$ on a cell testing system (LAND CT2001A,China) at various current densities.Cyclic voltammetry (CV) and electrochemical impedance spectra (EIS) were recorded using a Solartron 14oo cell test system.All the electrochemical data were calculated based on the total weight of the graphene/Co composite aerogel including the mass of the cobalt nanoparticles. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A schematic illustration of the formation process of the 3D hierarchical porous $\\mathbf { P G } / \\mathbf { C o }$ aerogel and the compressed elec trode is shown in Fig.1.Ina typical procedure,graphene oxide (GO)was homogeneously dispersed in water by sonication, reaching a concentration up to $3 \\mathrm { \\ m g \\ m L ^ { - 1 } }$ ，followed by selfassembly at $1 8 0 ~ ^ { \\circ } \\mathrm { C }$ to form a 3D graphene hydrogel via ahydrothermal process. The as-obtained gel was then immersed into an aqueous solution of $\\mathrm { C o } ( \\mathrm { N O } _ { 3 } ) _ { 2 }$ ，with the purpose of uniform distribution of cobalt(I) nitrate in the gra phene networks.Afterwards,the hybrid hydrogel was dehydrated via a freeze-drying process to maintain the monolithic structure and subjected to thermal treatment at $8 0 0 ~ ^ { \\circ } \\mathrm { C }$ in an inert atmosphere to obtain the $\\mathbf { P G } / \\mathbf { C o }$ aerogel with the 3D hierarchical porous architecture.During the annealing process, cobalt(i) nitrate decomposed to form cobalt nanoparticles, which then locally etched graphene basal planes to form nanopores,and the graphene aerogel was further reduced at the same time.35 Finally,the hybrid composite aerogel can be greatly compressed to form a binder-free flm-like electrode with high packing density. It's worth mentioning that the nanopores in graphene sheets are large enough to function as the ion diffusion shortcuts between different layers of graphene,which can facilitate the access of the electrolyte to the internal electrode and greatly speed up the ion transport. This unique structure makes it possible to achieve high volumetric capacity while retaining high gravimetric capacity and excellent rate capability. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/94925d3478f4bcb003949d1524fc1c34621260966488972f64c546b00012942a.jpg",
+        "img_caption": [
+            "Fig.1 Schematic of the preparation process of the 3D hierarchical porous PG/Co aerogel and the compressed PG/Co electrode. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2a presents the representative X-ray diffraction (XRD) patterns of G and $\\mathbf { P G } / \\mathbf { C o }$ aerogels.The broad $2 \\theta$ peak corresponding to the (oo2） diffraction peak of reduced graphene oxide canbeobserved at $2 5 . 8 ^ { \\circ }$ in both XRD patterns of G and PG/Co aerogels.Moreover,it's notable that new peaks at $2 \\theta =$ $4 4 . 7 ^ { \\circ }$ ， $5 1 . 8 ^ { \\circ }$ and $7 6 . 8 ^ { \\circ }$ ,assigned to the planes (111),(2oo) and (220)of metallic Co,7 respectively，can be seen in the XRD pattern of the PG/Co aerogel,demonstrating the formation of cobalt and the reduction of GO. The mass percentage of cobalt in the $\\mathbf { P G } / \\mathbf { C o }$ is measured by TG analysis (Fig.2b). It is proposed that only $\\mathbf { C o } _ { 3 } \\mathbf { O } _ { 4 }$ （ $\\left( 1 5 . 1 ~ \\mathrm { w t \\% } \\right)$ remains after the calcination of the ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d80c742e02325dfd2274735b58a17221c514bc0e41e3e601b15194b355166aa.jpg",
+        "img_caption": [
+            "Fig.2(a) XRD patterns of the $G$ and $\\mathsf { P G } / \\mathsf { C o }$ aerogel. (b) TG curve of the $\\mathsf { P G } / \\mathsf { C o }$ aerogel measured from room temperature to $7 0 0 ^ { \\circ } \\mathsf C$ at a heating rate of $1 0 \\ ^ { \\circ } \\mathsf { C } \\ \\mathsf { m i n } ^ { - 1 }$ in air. (c) Photograph of the $\\mathsf { P G } / \\mathsf { C o }$ aerogel showing its magnetism. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PG/Co aerogel at ${ 7 0 0 ~ ^ { \\circ } \\mathrm { C } }$ in air due to the oxidation of cobalt nanoparticles.31 Therefore,the weight percentage of cobalt in the 3D hierarchical porous $\\mathbf { \\Delta } \\mathbf { P G } / \\mathbf { C o }$ aerogel is calculated to be 11.1 wt%.More interestingly， the PG/Co aerogel exhibits magnetic behavior because of the cobalt nanoparticles，as shown in Fig. 2c. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The detailed morphology and microstructure of the asprepared G, $\\mathbf { G } / \\mathbf { C o }$ andPG/Co aerogels were further characterized by SEMand TEM.As shown in Fig.3,we can see that G and PG/Co aerogels show an interconnected,porous 3D graphene framework with continuous macropores in the size range of 1-2 $\\mu \\mathrm { m }$ .More importantly,a significant amount of Co nanoparticles and nanopores appear on the surface of graphene sheets in the PG/Co aerogel (Fig.3b),indicatinga hierarchical porous structure.Moreover,thehighresolutionSEMimageinFig.3c further clearly reveals the mesh structure of the aerogel with an irreg ular pore size of ${ \\sim } 1 0 0 ~ \\mathrm { n m }$ ,which is expected to facilitate the access of electrolyte into the entire structure and better lithium ion transport kinetics.However,the same mesh structure cannotbe observed in the high resolution SEM image of the $\\mathbf { G } / \\mathbf { \\Sigma }$ Co aerogel (Fig.3d).TEM characterization further demonstrates differences between $\\mathbf { G } / \\mathbf { C o }$ and PG/Co aerogels.For the PG/Co aerogel (Fig.3e)，plenty of nanopores with diameters of ${ \\sim } 1 0 0$ nm，and cobalt nanoparticles with sizes of $5 0 \\mathrm { - } 1 0 0 ~ \\mathrm { ~ n m }$ are clearly observed,consistent with SEM results.However,in the $\\mathbf { G } / \\mathbf { C o }$ sample,only Co nanoparticleswith diameters of ${ \\sim } 2 0 ~ \\mathrm { n m }$ distribute uniformly on the surface of graphene,and no nanopores are obviously observed (Fig.3f).According to our previous report,³³ the pores are formed due to local oxidation of the metallic ad-atoms followed by C-atom dissociation through C-O formation，therefore some energy is needed to initiate the reaction.In the case of preparation of the $\\mathbf { G } / \\mathbf { C o }$ aerogel,when a low annealing temperature of $5 0 0 ~ ^ { \\circ } \\mathbf { C }$ was chosen，cobalt nanoparticles could barely react with graphene to form pores. However,the PG/Co aerogel was prepared at a much higher temperature of $8 0 0 ^ { \\circ } \\mathbf { C }$ ,which is enough to initiate the formation of the nanopores.PG/Co with such nanoporous structures is expected to have an advantage over $\\mathbf { G } / \\mathbf { C o }$ in terms of electrochemical performance,which will be discussed later. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8069ec230ac32be3166a6a70f7a5db621f5fd9b242108590bc3f3bdbf87f3494.jpg",
+        "img_caption": [
+            "Fig.3SEM images of G(a),PG/Co (b and c) and $\\mathsf { G } / \\mathsf { C o }$ (d)aerogels,and TEMimages of PG/Co (e) and G/Co (f)aerogels. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig. $\\mathbf { S 1 \\dag }$ displays the Raman spectra of the G, $\\mathbf { G } / \\mathbf { C o }$ and $\\mathrm { P G } /$ Coaerogels.Theyall displaya typicalD band $\\left( 1 3 4 6 . 4 \\thinspace \\mathrm { c m } ^ { - 1 } \\right)$ and G band $( 1 5 9 9 . 4 ~ \\mathrm { c m } ^ { - 1 } )$ ,corresponding to disordered structures (D band) and the first order scattering of the $\\mathbf { E } _ { 2 \\mathrm { { g } } }$ mode (G band), respectively. The differences are reflected in the intensity ratio of the D to $\\mathbf { G }$ band $\\left( I _ { \\mathrm { D } } / I _ { \\mathrm { G } } \\right)$ .The $I _ { \\mathrm { D } } / I _ { \\mathrm { G } }$ value of the PG/Co aerogel is 1.15,whereas O.98 and1.03 for G and $\\mathbf { G } / \\mathbf { C o }$ ,respectively.The increased $I _ { \\mathrm { D } } / I _ { \\mathrm { G } }$ ratio may be ascribed to more defects in the PG/ Co due to nanopores on the surface of graphene,which is in good agreement with SEM and TEM results.XPS analysis was also used to characterize the G, $\\mathbf { G } / \\mathbf { C o }$ and PG/Co aerogels (Fig. S2t).From the C1s spectra of the three aerogels,we can see that most of the oxygen functional groups are removed successfully after thermal treatment.Moreover,all O1s spectra of the three aerogels show similar curves,indicating no $\\mathbf { C o O } _ { x }$ or other impurities in the $\\mathbf { G } / \\mathbf { C o }$ and PG/Co aerogels. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To study the electrochemical performance of the 3D hierarchical porous $\\mathbf { P G } / \\mathbf { C o }$ aerogel as the anode material for LIBs, we used two methods to evaluate its properties.First one is the conventional test method,in which the PG/Co aerogel and PVDF binder were mixed to form a slurry and cast on nickel foam.Fig.4a shows galvanostatic charge/discharge profiles of PG/Co, $\\mathbf { G } / \\mathbf { C o }$ ,and G for the first cycle at a current density of 50 mA $\\displaystyle { \\mathbf { g } } ^ { - 1 }$ within a cut off voltage window of $0 . 0 1 \\substack { - 3 . 0 \\mathrm { ~ V ~ } }$ versus $\\mathrm { L i ^ { + } } /$ Li.For the graphene electrode,the capacity above $0 . 5 \\mathrm { \\ : V }$ may be ascribed to lithium insertion/extraction from the defects,such as pores or the edge sites of graphene.38 The capacity below $0 . 5 \\mathrm { V }$ is mainly due to lithium intercalation into the graphene layers, while the absence of the potential plateau is caused by electronically and geometrically non-equivalent Li ion sites.19 The large irreversible capacity can be observed for all three samples, which is a common phenomenon for carbon materials due to the formation of solid electrolyte interface (SEI) films on the surface of active materials.39,40 The first discharge and charge capacities are 1654.5 and $5 6 5 . 3 \\mathrm { \\ m A } \\mathrm { \\ h \\ g } ^ { - 1 }$ for the G aerogel, whereas,2208 and $6 7 3 . 9 \\ \\mathrm { m A } \\ \\mathrm { h } \\ \\mathrm { g } ^ { - 1 }$ for the $\\mathbf { G } / \\mathbf { C o }$ electrode.The increased capacity of $\\mathbf { G } / \\mathbf { C o }$ compared with G is mainly ascribed to the Co nanoparticles which can increase the electrical conductivity of the host material.32-34 The $\\mathbf { P G } / \\mathbf { C o }$ electrode exhibits an even higher first discharge capacity of $2 4 5 5 . 7 \\mathrm { \\ m A }$ h $\\mathrm { g } ^ { - 1 }$ and a reversible charge capacity of $8 9 6 . 9 \\mathrm { \\ m A }$ h $\\mathrm { g } ^ { - 1 }$ . The further increased capacity of the PG/Co may be attributable to the synergetic effect of the unique hierarchical porous architecture and the Co nanoparticles. The cyclic voltammograms (CV) of the G, $\\mathbf { G } / \\mathbf { C o }$ and $\\mathbf { P G } / \\mathbf { C o }$ aerogels were also tested.As shown in Fig. S3,† the $\\mathbf { G } / \\mathbf { C o }$ and PG/Co electrodes show similar CV curves to that of the G aerogel,which also matches well with previous research.3³ No peaks of other impurities are observed, demonstrating that graphene is the only active component in the electrode. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb80d80bccbdce46bd8365251d6ad82bd45773ca3589305ab839485823fd1758.jpg",
+        "img_caption": [
+            "Fig.4(a) The initial charge/discharge curves of G, $\\mathsf { G } / \\mathsf { C o }$ and $\\mathsf { P G } / \\mathsf { C o }$ aerogels before compression at a current density of $5 0 \\ m \\mathsf { A \\thinspace g } ^ { - 1 }$ (b) Discharge capacities of the three electrodes between O.O1 and $3 . 0 \\mathrm { \\ V }$ with increasing current densities. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Another significantimprovement of the hierarchical porous $\\mathbf { P G } / \\mathbf { C o }$ electrode forLIBs is its superior rate capability.As shown inFig.4b,itis noted that the PG/Co aerogel shows much higher specific capacities than G and $\\mathbf { G } / \\mathbf { C o }$ over all current densities especiallyathigh current densities.The PG/Co electrode can be reversibly discharged to $9 0 5 ~ \\mathrm { \\ m A }$ h ${ \\mathrm { g } } ^ { - 1 }$ at a current density of $0 . 0 5 \\mathrm { A g } ^ { - 1 }$ .When the current density increases to O.2,O.5 and 1 $\\mathbf { A } { \\mathbf { g } } ^ { - 1 }$ ,its specific capacity still remains at 680,568 and 478 mA h $\\mathrm { g } ^ { - 1 }$ ,respectively. Even ata high current density of $2 \\mathrm { ~ A ~ g ~ } ^ { - 1 }$ ,the specific capacity of the PG/Co electrode is still as high as $3 8 5 \\mathrm { m A }$ $\\ln { \\mathrm { g } ^ { - 1 } }$ .However the corresponding capacity of the G electrode is only $1 5 2 \\mathrm { \\ m A } \\mathrm { h } \\mathrm { g } ^ { - 1 }$ ,and $2 4 8 \\mathrm { \\ m A } \\mathrm { h } \\mathrm { g } ^ { - 1 }$ for the $\\mathbf { G } / \\mathbf { C o }$ aerogel. The capacity retention for the $\\mathbf { P G } / \\mathbf { C o }$ aerogel with increasing the current density from 0.05 to $2 \\mathrm { A g } ^ { - 1 }$ is as high as $4 2 . 5 \\%$ ,whereas the capacity retention of the G and $\\mathbf { G } / \\mathbf { C o }$ electrodeis only $2 6 . 6 \\%$ and $3 4 . 2 \\%$ ,respectively,indicating much improved rate capability for the hierarchical porous sample.When the current density is turned back to $0 . 5 \\mathrm { A g } ^ { - 1 }$ after cyclingat different rates, a capacity of $5 1 3 \\mathrm { \\ m A }$ h $\\mathrm { g } ^ { - 1 }$ can be recovered for the $\\mathbf { P G / C o }$ aerogel,which implies good reversibility.It should also be mentioned that the $\\mathbf { G } / \\mathbf { C o }$ shows better rate capability compared to the G electrode (Fig. 4b)，demonstrating that the metal nanoparticles in the aerogel can enhance the electrochemical performance of the electrode,which is consistent with previous studies.30-32 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To investigate the mechanisms contributing to the superior rate capabilityof the PG/Co aerogel,electrochemical impedance spectroscopy (EIS) was performed for G, $\\mathbf { G } / \\mathbf { C o }$ and PG/Co electrodes.Fig. $\\boldsymbol { \\mathrm { S 4 } } \\dagger$ shows the Nyquist plots of the three electrodes, and the inset is the equivalent circuit. In the circuit, $R _ { \\mathrm { s } }$ represents the electrolyte resistance,CPE represents the nonideal capacitance due to the surface roughness,while $R _ { \\mathrm { S E I } }$ and $R _ { \\mathrm { c t } }$ stand for solid electrolyte interface (SEI) resistance and charge transfer resistance,respectively.41,42 The related parameters calculated fromEISare summarizedin Table S1.† The value of $R _ { \\mathrm { S E I } }$ and $R _ { \\mathrm { { c t } } }$ for the $\\mathbf { G }$ aerogel was calculated to be 96.9 and 285.6 $\\Omega$ ,respectively,and the corresponding data for the $\\mathbf { G } / \\mathbf { C o }$ electrode are 73.4 and $1 4 8 . 1 \\Omega$ .As for the PG/Co electrode,they are drastically reduced to 54.2 and $1 0 5 . 1 \\ \\Omega$ ，respectively，demonstrating the enhanced kinetics of $\\mathrm { L i } ^ { + }$ and electronic transport. Thissubstantial decrease of charge transferresistance allows easyaccessibilityand transportationof the electrolyte through the surface.Moreover,the hierarchical porous structure can also increase electrode-to-electrolyte contact and reduce ion diffusion length,resulting in excellent rate performance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To further demonstrate the superiority of the PG/Co aerogel in practical application, the three aerogels were mechanically compressed to form the film-like electrodes,which can be directly used for testing without the binder and current collector. The electrical conductivity of the compressed $\\mathbf { P G } / \\mathbf { C o }$ aerogel is as high as $1 8 9 6 \\mathrm { ~ S ~ m ~ } ^ { - 1 }$ ，and $1 6 3 8 \\mathrm { ~ S ~ m } ^ { - 1 }$ for the compressed $\\mathbf { G } / \\mathbf { C o }$ aerogel.However, the electrical conductivity of the compressed G aerogel is only $7 5 6 ~ \\mathrm { S ~ m } ^ { - 1 }$ ,indicating that Co nanoparticles could increase the conductivity of the host film.In addition, the packing density of the $\\mathbf { \\Delta } \\mathbf { P G } / \\mathbf { C o }$ aerogel can be increased up to $0 . 3 8 \\ \\mathrm { ~ g ~ } \\ \\mathrm { c m } ^ { - 3 }$ from $0 . 0 2 2 ~ \\mathrm { ~ g ~ } \\mathrm { c m } ^ { - 3 }$ after mechanical compression as shown in Fig.5a.From the top-view SEM image of the compressed $\\mathbf { P G } / \\mathbf { C o }$ aerogel (Fig. 5b),we can see that plenty of nanopores distribute uniformly on its surface, which is beneficial for the access of the electrolyte to the interior of the electrode.Moreover,the graphene sheets are so thin that the Co nanoparticles underneath can also be seen clearly. The cross-sectional SEM image (Fig.5c) shows that the macropores in the PG/Co aerogel completely disappear after compression, and the compressed PG/Co film has a layered structure and a uniform thickness of ${ \\sim } 1 0 ~ \\mu \\mathrm { m }$ ，Many cobalt nanoparticles distributing homogeneously within the film can also be observed.A cross-sectional SEM image with a higher resolution (Fig. 5d) clearly reveals the co-existence of cobalt nanoparticles and nanopores with a similar size in the graphene matrix.The nanopores generated by etching of graphene with Co nanoparticles at high temperatures are beneficial for the penetration of electrolytes and diffusion of Li ions within the entire film. Meanwhile,the existence of Co nanoparticles disturbs the parallel and dense stacking of graphene sheets which usually occurs in pure graphene flms,giving rise to extra gaps and voids for ion diffusion.The cross-sectional views of compressed G and $\\mathbf { G } / \\mathbf { C o }$ aerogels are also provided for comparison (Fig. 5e and f).Both samples show a dense layered structure with no observable nanopores,significantly different from the structure of the PG/Co film.The Co nanoparticles in the $\\mathbf { G } / \\mathbf { C o }$ film are barelydistinguishable as their size is much smaller than that in $\\mathbf { P G } / \\mathbf { C o }$ ，therefore they are not capable of preventing dense restacking of graphene sheets under pressure.Meanwhile,Co nanoparticles are not able to etch graphene sheets under the experimental conditions.Thus,the dense layered structure is formed after compression of $\\mathbf { G } / \\mathbf { C o }$ ,similar to that of pure graphene film. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/db8b6524bca006368819da4b2cc30bb22181c5204fdc98ffe97e5025b1b36ce8.jpg",
+        "img_caption": [
+            "Fig.5(a) Photograph of the PG/Co aerogel before and after compression.(b) Top-view SEM image of compressed PG/Co aerogels. (c and d) Cross-sectional SEM images of PG/Co after compression.Cross-sectional SEM image of G (e) and G/Co (f)after compression. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Nitrogen sorption isotherms of the three samples were also measured to better understand their structural changes before and after compression (Fig.6).All three samples have similar isotherms before compression,includinga similar pore structure of the three aerogels.After compression,the isotherms of G and $\\mathbf { G } / \\mathbf { C o }$ change significantly，suggesting severely reduced porosity. The isotherms of $\\mathbf { P G } / \\mathbf { C o }$ after compression,however, almost overlap with those before compression,which evidently confirms that most of the interior surface of the PG/Co aerogel is still accessible after compression.More quantitatively, the specific surface area of G, $\\mathbf { G } / \\mathbf { C o }$ and PG/Co aerogels before compression is 433.5, 405.6 and $3 8 7 . 1 \\mathrm { m } ^ { 2 } \\mathrm { g } ^ { - 1 }$ , respectively. After compression,the surface areas of theGaerogel and $\\mathbf { G } / \\mathbf { C o }$ aerogel decrease enormously to $1 9 9 . 4 ~ \\mathrm { m } ^ { 2 } ~ \\mathrm { g } ^ { - 1 }$ and $2 3 9 . 3 \\ \\mathrm { m } ^ { 2 } \\ \\mathrm { g } ^ { - 1 }$ respectively.The surface area of the compressed PG/Co film, however, still remains at $3 7 8 \\mathrm { ~ m } ^ { 2 } \\mathrm { ~ g } ^ { - 1 }$ ,almost equal to that of the original aerogel.The change of the pore volume of the three samples before and after compression has a similar trend to that of the specific surface area.Before compression,the pore ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "700 -beforecompresion (a) T = 二 400 1 300 200- 100 5 0 0.0 0RelatvepreseP/P 1.0 700   \n00 beterecopresion (b）   \n500 T   \nuo)   \n00 0 0.0 0.2 0.4 0.6 0.8 1.0 Relative pressure(P/P) 700   \n00 beforecomeresion （c） .   \n500 200- 0 100 0 0.0 0Relatveprsre(P/P 1.0 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "volume of G, $\\mathbf { G } / \\mathbf { C o }$ and PG/Co aerogels is 0.961,0.889 and 0.859 $\\mathrm { c m } ^ { 3 } \\ \\mathrm { g } ^ { - 1 }$ ，respectively. It decreases dramatically to 0.256 and $0 . 2 6 7 ~ \\mathrm { c m } ^ { 3 } ~ \\mathrm { g } ^ { - 1 }$ for $\\mathbf { G }$ and $\\mathbf { G } / \\mathbf { C o }$ aerogels，respectively，after compression,while the compressed PG/Co flm still has a high pore volume of $0 . 8 1 8 ~ \\mathrm { c m } ^ { 3 } ~ \\mathrm { g } ^ { - 1 }$ . It's the nanopores on the graphene sheets and Co nanoparticles in the $\\mathbf { P G } / \\mathbf { C o }$ aerogel that prevent the formation of a dense layered structure after compression,leading to no significant change in the specific surface area and pore volume. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.7a shows the rate performance of the three compressed electrodes based on gravimetric capacity.As expected，the gravimetric capacity of compressed G and $\\mathbf { G } / \\mathbf { C o }$ aerogel reduces significantly due to the dense layered structure which significantly blocks the diffusion of the electrolyte.The discharge capacity of the compressed G aerogel decreased to $3 6 2 \\mathrm { \\ m A } \\mathrm { h } \\mathrm { g } ^ { - 1 }$ from $5 9 2 . 5 \\mathrm { \\ m A } \\mathrm { \\ h \\ g } ^ { - 1 }$ at $0 . 0 5 \\mathrm { ~ A ~ g ^ { - 1 } }$ ,and from 756.4 to 453.2 mA h ${ \\mathrm { g } } ^ { - 1 }$ for the compressed $\\mathbf { G } / \\mathbf { C o }$ aerogel. However， the gravimetric capacity of the compressed PG/Co aerogel is still as high as $9 0 0 \\ \\mathrm { m A } \\mathrm { h } \\ \\mathrm { g } ^ { - 1 }$ at a current density of $0 . 0 5 \\mathrm { A g } ^ { - 1 }$ ,having no capacityloss compared with the sample before compression. The excellent rate capability of the $\\mathbf { P G } / \\mathbf { C o }$ aerogel can also be well preserved after compression. At a current density of $2 \\mathrm { A g } ^ { - 1 }$ ， its discharge capacity still remains at $3 5 5 \\mathrm { \\ m A h \\ g ^ { - 1 } }$ ,very close to ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2600 -PG/Co -G/Co 2400 北 -G 10500.05 Ag 900 0.1 750 1 0.2 600 1 0.5 0.5 450 1.0 1.5 2.0 1 300 A 150 AAA AAAA AAAA AAAA 00000000 0+ 0 10 20 30 40 Cycle numbers   \np 400 beforecompression 350 aftercompression   \n(.a aaa) 200 300 一 0 G G/Co PG/C0   \nC 550 120 500 450 oeeeeee 1000 -Coulombic efficiency -discharge 200 150 100 50 0 0 0 50 100 150 200 250 300 Cyclenumbers ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "the capacity of $3 8 5 \\mathrm { \\ m A h \\ g ^ { - 1 } }$ before compression,mainly due to the nanopores in the PG/Co film that facilitate the access of ions to the entire electrode.As their densities are enormously increased when the aerogels are compressed to thin films, the volumetric capacities of all three aerogels increase significantly after compression (Fig.7b).The compressed PG/Co aerogel exhibits the highest volumetric capacity among the three samples due to efficient ion and electron transport pathways as well as high packing density.The volumetric capacity of the compressed PG/Co aerogel at a current density of $0 . 0 5 ~ \\mathrm { A } ~ \\mathrm { g } ^ { - 1 }$ is $3 5 8 ~ \\mathrm { { m A } }$ h $\\mathrm { c m } ^ { - 3 }$ ,more than twice that of the compressed $\\mathbf { G } / \\mathbf { C o }$ and almost three times that of the compressed G aerogel. This volumetric capacity is also higher than that of the reported anode materials based on carbon nanomaterials,such as carbon nanotube/graphene nanocomposites,43and carbon nanotube/polyanilinenanocomposites.44Moreover，the compressed $\\mathbf { P G } / \\mathbf { C o }$ aerogel can still retain a high volumetric capacity of $1 6 3 ~ \\mathrm { \\ m A }$ h $\\mathrm { c m } ^ { - 3 }$ (corresponding to $4 2 9 ~ \\mathrm { \\ m A }$ h $\\mathrm { g } ^ { - 1 }$ after 300 cycles at1 A $\\mathrm { g } ^ { - 1 }$ (Fig. 7c), corresponding to $9 0 . 5 \\%$ retention of its initial capacity,demonstrating excellent electrochemical stability. The coulombic efficiency is near $1 0 0 \\%$ throughout the cycling from the second cycle.The remarkable electrochemical performance of the compressed PG/Co aerogel mentioned above is undoubtedly ascribed to its unique structure.The interconnected graphene sheets provide a high 3D conductive network,and the creation of nanopores on the graphene sheets can further benefit the diffusion of electrolyte ions between different layers of graphene and facilitate the access of ions to the interior surface，which enable the compressed PG/Co aerogel with both high gravimetric and volumetric capacities. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary,we have successfully fabricated a 3D monolithic PG/Co hybrid aerogel as a compressible anode for LIBs.The cobalt nanoparticles in the aerogel not only etch the carbon atoms of graphene to form nanopores,but also increase the conductivity of the aerogel.The unique 3D hierarchical porous structure facilitates transportation of the electrolyte,fast ion diffusion and electrochemical reaction simultaneously. Therefore,the resulting PG/Co aerogel exhibits higher capacity and better rate capability,compared with the bare G and G/Co aerogels.More importantly,the PG/Co aerogel can be mechanically compressed asa film-like electrode with a high packing density of $0 . 3 8 \\ \\mathrm { g \\ c m } ^ { - 3 }$ . It's the nanopores on the graphene sheets and Co nanoparticles in the PG/Co aerogel that prevent the formation of the dense layered structure after compression,which is beneficial for penetration of electrolytes and diffusion ofLi ions within the entire film.Therefore the compressed PG/Co electrode exhibits high gravimetric $( 9 0 0 \\mathrm { \\ m A } \\mathrm { \\ h \\ g } ^ { - 1 } ) \\$ and volumetric capacity $\\left( 3 5 8 \\mathrm { \\ m A } \\mathrm { \\ h \\ c m } ^ { - 3 } \\right)$ simultaneously,aswell as excellent cycling stability.This facile synthetic strategywill promote the rational design and preparation of porous graphene based materials for electrochemical energy storage and beyond. Furthermore,the achievement of such newLIB electrodes can open up exciting opportunities for mobile power supply in a wide range of applications,such as portable electronics and electrical vehicles. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We greatly appreciate the financial support from the National Natural Science Foundation of China (Grant No.21371176 and 21201173),Key ResearchProgram of the Chinese Academy of Sciences (Grant No.KGZD-EW-To8) and Ningbo Science and Technology Innovation Team (Grant No.2012B82001). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 Y.-G.Guo,J.-S.Hu and L.-J.Wan,Adv. Mater.,2008,20,2878- 2887. 2 D.Yoon,K.Y.Chung,W.Chang, S.M. Kim,M. J. Lee, Z. Lee and J.Kim,Chem.Mater.,2015,27,266-275. 3 J.M.Tarascon and M.Armand,Nature,2001,414,359-367. 4 M.S.Whittingham,Chem.Rev.,2004,104,4271-4302. 5 B.Scrosati and J.Garche,J.Power Sources,2010,195,2419- 2430.   \n6 N.-S. Choi, Z. Chen， S.A. Freunberger,X. Ji, Y.-K. Sun, K.Amine,G.Yushin,L.F.Nazar, J.Cho and P.G.Bruce, Angew. Chem.,Int. Ed.,2012,51, 9994-10024. 7 F. Zhang, R. Zhang, J. Feng, L. Ci, S. Xiong, J. Yan, Y. Qian and L.Li,Nanoscale,2015,7,232-239. 8 C. Yuan, L. Yang,L. Hou, J. Li, Y. Sun, X. Zhang,L. Shen, X.Lu,S.Xiong and X. Lou,Adv.Funct.Mater.,2012,22, 2560-2566. 9 L. Wang, X. He, J. Li,W. Sun, J. Gao, J. Guo and C. Jiang, Angew. Chem., Int. Ed.,2012,51, 9034-9037.   \n10 C.Yuan,H. B.Wu, Y. Xie and X.W.Lou,Angew. Chem., Int. Ed.,2014,53,1488-1504.   \n11 K.-S. Novoselov， A.-K. Geim， S.-V. Morozov，D. Jiang, Y. Zhang, S.-V. Dubonos,I.-V. Grigorieva and A.-A. Firsov, Science,2004,306,666-669.   \n12I.Calizo,A.-A.Balandin,W.Bao,F.Miao and C.-N.Lau,Nano Lett.,2007,7,2645-2649.   \n13A.-K.Geim and K.-S.Novoselov,Nat. Mater.,2007,6,183- 191.   \n14 S．Stankovich,D.A. Dikin，R.D.Piner，K.A.Kohlhaas, A. Kleinhammes，Y. Jia，Y. Wu， S. T. Nguyen and R. S.Ruoff,Carbon,2007,45,1558-1565.   \n15 S.Park and R.-S.Ruoff,Nat. Nanotechnol.,2009,4,217-224.   \n16 E.Yoo,J. Kim,E. Hosono, H.-S. Zhou, T. Kudo and I. Honma, Nano Lett.,2008,8,2277-2282.   \n17 G.Wang,X. Shen,J. Yao and J. Park,Carbon, 20o9,47,2049- 2053.   \n18 P. Lian, X. Zhu, S. Liang, Z. Li, W. Yang and H. Wang, Electrochim.Acta,2010,55,3909-3914.   \n19 D.Pan, S. Wang, B. Zhao, M. Wu, H. Zhang, Y. Wang and Z. Jiao,Chem.Mater.,2009,21,3136-3142.   \n20 Y. Zhu, S. Murali, W. Cai, X.Li,J. Suk,J. Potts and R.S.Ruoff, Adv.Mater.,2010,22,3906-3924.   \n21 Y. Sun,Q.Wu and G.Shi, Energy Environ. Sci.,2011,4,1113- 1132.   \n22 M.D.Stoller, S.Park,Y.Zhu,J.An and R.S.Ruoff,Nano Lett., 2008,8,3498-3502.   \n23J.R.Miller,R.A. Outlaw and B.C.Holloway,Science,2010, 329, 1637-1639.   \n24 C. Liu, Z. Yu, D. Neff, A. Zhamu and B. Z. Jang, Nano Lett., 2010,10,4863-4868.   \n25P. Simon and Y.Gogotsi, Science,2011,334,917-918.   \n26X.Yang,C.Cheng,Y.Wang,L.Qiu and D.Li, Science,2013, 341, 534-537.   \n27P.Simon and Y.Gogotsi,Acc. Chem. Res.,2013,4,1094-1103.   \n28 J.Yan,Q. Wang,T.Wei, L. Jiang,M. Zhang,X. Jing and Z. Fan,ACS Nano,2014,8,4720-4729.   \n29 Y.Tao，X. Xie，W. Lv，D. Tang，D. Kong，Z.Huang, H. Nishihara，T. Ishii，B.Li,D.Golberg，F.Kang, T.Kyotani and Q. Yang, Sci.Rep.,2013,3,2975.   \n30 Z.Wu,K. Parvezl, X. Feng and K. Mullen,Nat. Commun., 2013,4,2487.   \n31D.Yu,K. Goh,H.Wang,L.Wei,W. Jiang,Q. Zhang,L. Dai and Y.Chen,Nat.Nanotechnol.,2014,9,555-562.   \n32 Y.J. Mai,J.P.Tu, C.D.Gu and X.L.Wang,J.Power Sources, 2012,209,1-6.   \n33Z.L.Wang,D.Xu,H.G.Wang,Z.Wu and X.B.Zhang,ACS Nano,2013,7,2422-2430.   \n34 S.H.Bae,K. Karthikeyan,Y.-S.Lee and I.-K.Oh,Carbon, 2013,64,527-536.   \n35H.Cao,X. Zhou,C. Zheng and Z.Liu,Carbon,2015,89,41- 46.   \n36X. Zhou and Z.Liu, Chem. Commun.,2010,46,2611-2613.   \n37 D. Zhang, D. Cao,K. Ye,J. Yin,K. Cheng and G.Wang, Electrochim.Acta,2014,139,250-255.   \n38 Y. Mao, H. Duan, B. Xu, L. Zhang, Y. Hu, C. Zhao, Z. Wang, L.Chen and Y.Yang,Energy Environ. Sci.,2012,5,7950-7955.   \n39 D.Cai, S. Wang,P.Lian, X. Zhu,D.Li,W. Yang and H. Wang, Electrochim.Acta,2013,90,492-497.   \n40 S.Han,D.Wu, S.Li,F. Zhang and X. Feng, Small, 2013,9, 1173-1187.   \n41 F.Su, C.You, Y.He,W.Lv,W. Cui, F. Jin, B. Li,Q. Yang and F.Kang,J.Mater. Chem.,2010,20,9644-9650.   \n42Q.An,F.Lv,Q.Liu, C.Han,K. Zhao,J. Sheng,Q.Wei,M. Yan andL.Mai,Nano Lett.,2014,14,6250-6256.   \n$4 3 \\mathrm { ~ H ~ }$ 、Byon,B.M.Gallant,S.W.Lee and Y.Shao-Horn,Adv. Funct.Mater.,2013,23,1037-1045.   \n44M.N.Hyder, S.W.Lee,F.B.Cebeci,D.J. Schmidt,Y.ShaoHorn and P.T.Hammond,ACS Nano,2011,5,8552-8561. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

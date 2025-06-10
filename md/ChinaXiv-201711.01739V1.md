@@ -1,0 +1,175 @@
+# 半胱胺对宁乡猪血清生化指标和肝脏脂肪代谢的影响
+
+秦龙山」邢月腾1²　张　杨」陈宇光」舒绪刚³刘星亮4张　彬l\*吴　信1,2,3\*（1.湖南农业大学动物科学技术学院，湖南畜禽安全生产协同创新中心，长沙 410128；2.中国科学院亚热带农业生态研究所，中国科学院亚热带农业生态过程重点实验室，湖南省畜禽健康养殖工程技术研究中心，长沙 410125；3.仲恺农业工程学院动物科学技术学院，广州 510225；4.宁乡县畜牧兽医水产局，宁乡 410600）
+
+摘要：本试验旨在研究饲粮中添加半胱胺对宁乡猪血清生化指标和肝脏脂肪代谢的影响。选取同批次平均体重约 $4 3 . 0 \mathrm { k g }$ 宁乡阉公猪30头，随机分为2组，每组5个重复，每个重复3头。对照组饲喂基础饲粮，试验组在基础饲粮中添加 $8 0 \ \mathrm { m g / k g }$ 半胱胺，试验期8周。结果表明：1）与对照组相比，试验组血清中葡萄糖含量提高了 $2 1 . 9 1 \%$ ( $P { < } 0 . 0 1 \$ )，低密度脂蛋白含量提高了 $2 6 . 2 2 \%$ （ $P { < } 0 . 0 1 )$ ，总胆固醇含量提高了 $9 . 7 5 \%$ （ $\cdot P { < } 0 . 1 0 )$ ，尿素氮含量降低了 $1 4 . 1 4 \%$ ( $P { < } 0 . 0 5$ )。2)与对照组相比，试验组肝脏中饱和脂肪酸中肉豆蔻酸、棕榈酸和花生酸含量分别降低了 $7 2 . 0 9 \%$ （ $\scriptstyle \cdot - 0 . 0 1 .$ ）、 $1 3 . 1 2 \%$ （ $\cdot P { < } 0 . 0 5$ ）和 $7 1 . 1 3 \%$ （ $_ { . } { P } { < } 0 . 0 1 \$ ，十七烷酸含量提高了 $1 1 . 7 7 \%$ ( $\scriptstyle P < 0 . 1 0 )$ ；单不饱和脂肪酸含量升高了 $40 . 3 7 \%$ ( $P { < } 0 . 0 1 \$ )，其中反油酸含量降低了 $8 5 . 9 0 \%$ （ $P { < } 0 . 0 1 \rangle$ ，油酸含量提高了 $5 5 . 8 0 \%$ （ $P { < } 0 . 0 1 )$ ；多不饱和脂肪酸含量降低了 $7 . 5 6 \%$ （ $P { < } 0 . 0 5 )$ ，其中亚油酸含量降低了 $1 8 . 5 6 \%$ （ $\scriptstyle P < 0 . 0 1 .$ )，二十二碳六烯酸（DHA)和二十碳三烯酸含量分别提高了 $9 6 . 1 3 \%$ 和 $3 7 . 9 9 \%$ （ $P { < } 0 . 0 1$ )。3)与对照组相比，试验组过氧化物酶增殖体激活受体 $\mathfrak { a }$ （PPARα）表达量显著增加（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ 。综上，在宁乡猪肥育猪饲粮中添加半胱胺能提高肝脏中DHA的含量，可能是通过调控肝脏脂肪代谢基因 $P P A R \mathrm { \Delta }$ 的表达，进而影响机体的脂肪代谢。
+
+关键词：半胱胺；宁乡猪；血清生化指标；脂肪酸组成；脂肪代谢 中图分类号：S816.7
+
+半胱胺（cysteamine，CS）又名β-疏基乙胺，是乙酰辅酶A的组成部分，又是半胱胺酸盐的脱羧产物，因含有活性的巯基和氨基而在动物体内具有促进营养物质代谢、改善胴体品质等多种生物学功能[1-2]。CS 改善三元猪胴体性状、肉质和血清生化指标的报道很多[3-6],但在地方猪上研究较少。宁乡猪是我国四大名猪之一，具有适应性广、蓄脂力强等特点，是典型的脂肪型猪种，但目前却缺乏对其脂肪代谢的深入了解。有研究表明，在宁乡猪肥育后期饲粮中添加CS 可影响其生产性能[7]。我们前期的研究结果表明，CS 可提高宁乡猪屠宰率，且肉品质的改善可能是通过降低硬脂酸和提高亚油酸的含量实现的[8]。在前期研究基础上，本试验旨在进一步研究CS对宁乡猪血清生化指标、肝脏脂肪酸组成以及与脂肪代谢相关基因表达量的影响。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+本试验采用单因素试验设计。试验前，选择肥育猪场同栋栏舍、同一批次、体重约 $4 3 ~ \mathrm { k g }$ 的宁乡阉公猪30头，随机分为2组，分别设为对照组和试验组，每组5个重复，每个重复3头。
+
+# 1.2 试验饲粮及饲养管理
+
+参照 NRC（2012）并结合宁乡猪的饲粮配方配制本试验基础饲粮，其组成及营养水平见表1。试验组在基础饲粮中添加 $8 0 \ \mathrm { m g / k g }$ CS（纯度为 $6 4 . 5 \%$ ，由广州天科生物科技有限公司提供)。试验在湖南宁乡大龙畜牧科技有限公司进行。试验期8周。试验期间，每日饲喂3次（08:00、12:00 和18:00)，消毒和免疫管理按照猪场程序进行。
+
+表1基础饲粮组成及营养水平(干物质基础)   
+Table1 Composition and nutrient levels of the basal diet（DM basis）  
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>65.5</td></tr><tr><td>豆粕 Soybean meal</td><td>6.5</td></tr><tr><td>麸皮Wheatbran</td><td>24.0</td></tr><tr><td>预混料 Premixl)</td><td>4.0</td></tr><tr><td>合计 Total</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels²</td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>12.49</td></tr><tr><td>粗蛋白质CP</td><td>11.91</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>粗脂肪EE</td><td>3.35</td></tr><tr><td>粗灰分 Ash</td><td>4.94</td></tr><tr><td>钙Ca</td><td>0.66</td></tr><tr><td>有效磷AP</td><td>0.25</td></tr><tr><td>总磷 TP</td><td>0.50</td></tr><tr><td>赖氨酸Lys</td><td>0.73</td></tr><tr><td>苏氨酸 Thr</td><td>0.45</td></tr><tr><td>蛋氨酸Met</td><td>0.18</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.39</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per kg of the diet：VA1300 IU, $\mathrm { V D } _ { 3 }$ 150IU， VE 11 IU, $\mathrm { V K } _ { 3 } 0 . 5 \ : \mathrm { m g }$ ， ${ \mathrm { V B } } _ { 1 } 1 . 2 { \mathrm { m g } }$ ， $\mathrm { V B } _ { 2 } 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 1 . 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 5 \mu \mathrm { g }$ ，叶酸 folic acid $0 . 3 ~ \mathrm { m g }$ ，泛酸pantothenic acid $7 \mathrm { m g }$ ， $\mathrm { C u } 3 . 3 \mathrm { m g }$ ， $\mathrm { ~ I ~ 0 . 1 4 ~ m g }$ ，Se $0 . 1 5 \mathrm { m g }$ ， $Z n 5 0 \mathrm { m g }$ ，Fe $4 0 ~ \mathrm { g }$ ， $\mathrm { M n } 2 \mathrm { m g }$ 。
+
+2)消化能为计算值，其余均为实测值。DE was a calculated value,while the others were measured values.
+
+# 1.3样品采集及指标检测
+
+# 1.3.1 血清生化指标测定
+
+血清收集：试验结束时，每个重复挑选1头猪进行前腔静脉采血 $1 0 ~ \mathrm { m L }$ 于离心管中，室温静置1h后4℃、 $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ，收集血清分装于 $1 . 5 ~ \mathrm { m L }$ 离心管中， $- 2 0 \mathrm { ~ \textdegree C }$ 保存。采用氧化酶法检测血清尿素氮（UN）、葡萄糖（GLU）、总胆固醇（TC）、甘油三酯（TG）、高密度脂蛋白（HDL）和低密度脂蛋白（LDL）含量。
+
+# 1.3.2 组织样品采集
+
+饲养试验结束时，禁食 $2 4 \mathrm { h }$ ，自由饮水。每个重复挑选1头猪进行屠宰，取肝中叶于锡箔纸包装好，放入液氮，速冻后转至一80℃冰箱中保存。
+
+# 1.3.3 肝脏中长链脂肪酸含量测定
+
+将肝脏样品冷冻干燥后，称 $\mathbf { 0 . 5 ~ g }$ 左右，长链脂肪酸测定参照喻文娟等用外标气相-色谱－质谱法于中国科学院亚热带农业生态研究所实验室进行。
+
+# 1.3.4肝脏中脂肪代谢相关基因表达量测定
+
+采用 Trizol（Invitrogen 公司，美国）法提取组织中总RNA，具体操作方法参照 Simms等[10]，然后将 RNA 浓度调节一致，取 $\mathrm { 1 ~ 0 0 0 ~ n g }$ 进行反转录，反转录试剂盒购于 TaKaRa 公司（大连，中国)，具体方法按说明书进行。再利用 Real-Time PCR方法检测 mRNA 的表达量，引物由生工生物工程(上海)股份有限公司合成(引物序列见表2),以β-肌动蛋白( $\beta \cdot$ -actin)
+
+为内参基因，以磷酸甘油脱氢酶（GDPH)、过氧化物酶增殖体激活受体 $\mathbf {  { a } }$ （PPARα）、甘油三酯脂肪酶（ATGL）、乙酰辅酶A羧化酶α（ACCα）、肝X受体 $\mathfrak { a }$ （ $L X R \alpha$ ）和脂肪酸合成酶（FASN）为目的基因进行相对定量分析其表达量。
+
+# 表2引物序列
+
+Table 2 Primer sequences   
+
+<html><body><table><tr><td>基因Genes</td><td>引物序列 Primer sequences</td></tr><tr><td>磷酸甘油脱氢酶GDPH</td><td>F:5'-CTGGCTCTGATGGTCTACGC-3'</td></tr><tr><td rowspan="2">过氧化物酶增殖体激活受体αPPARα</td><td>R:5'-TAGGTCAGGTTGTCGGGGTA-3' F:5'-GCTATCATTTGGTGCGGAGAC-3'</td></tr><tr><td>R:5'-GGAGTTTGGGGAAGAGAAAGAC-3'</td></tr><tr><td rowspan="2">甘油三酯脂肪酶ATGL</td><td>F:5'-ATGGTGCCCTACACGCTG-3'</td></tr><tr><td>R:5'-GCCTGTCTGCTCCTTTATCC-3'</td></tr><tr><td rowspan="2">乙酰辅酶A羧化酶αACCα</td><td>F:5'-TCCCAGTGCAAGCAGTATG-3'</td></tr><tr><td>R:5'-TGCCAATCCACACGAAGAC-3'</td></tr><tr><td rowspan="2">肝X受体αLXRα</td><td></td></tr><tr><td>F:5'-GTCCTGCTGAAGCCTAACTC-3' R:5'-TCCTTGGAACCGTCTGTG-3'</td></tr><tr><td></td><td>F:5'-GTAGATGGCTGAGGCGTGAC-3'</td></tr><tr><td>脂肪酸合成酶FASN</td><td>R:5'-TTCCCAACCCTTTGACTCTTT-3'</td></tr></table></body></html>
+
+# 1.4 统计分析
+
+试验数据经Excel2010 初步整理后，运用 SPSS21.0统计软件中的独立样本 $\mathbf { \chi } _ { t }$ 型检验进行各组间差异显著性比较，结果以“平均值 $\pm$ 标准误"表示，以 $P { < } 0 . 0 1$ 为差异极显著， $P { < } 0 . 0 5$ 为差异显著，以 $\scriptstyle P < 0 . 1 0$ 为差异显著性趋势。
+
+# 2结果
+
+2.1CS对宁乡猪血清生化指标的影响
+
+由表3可知，与对照组相比，试验组血清中TC、GLU、HDL 和LDL含量分别提高了$9 . 7 5 \%$ ( $\scriptstyle P < 0 . 1 0$ ）、 $2 1 . 9 1 \%$ （ $_ { \scriptstyle P < 0 . 0 1 }$ ）、 $23 . 5 3 \%$ （ ${ \it P } { > } 0 . 1 0$ ）和 $2 6 . 2 2 \%$ （ $_ { . } { P } { < } 0 . 0 1$ )，UN含量降低了 $1 4 . 1 4 \%$ ( $P { < } 0 . 0 5$ ）°
+
+# 表3CS对宁乡猪血清生化指标的影响
+
+Table 3Effects of CS on serum biochemical indices of Ningxiang pigs mmol/L
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Experimental group</td><td>P值P-value</td></tr><tr><td>尿素氮UN</td><td>4.81±0.20a</td><td>4.13±0.18b</td><td>0.033</td></tr><tr><td>甘油三酯 TG</td><td>0.44±0.01</td><td>0.43±0.03</td><td>0.616</td></tr><tr><td>总胆固醇 TC</td><td>3.18±0.12</td><td>3.49±0.07</td><td>0.058</td></tr><tr><td>葡萄糖 GLU</td><td>3.56±0.06B</td><td>4.34±0.07A</td><td><0.001</td></tr><tr><td>高密度脂蛋白HDL</td><td>0.68±0.05</td><td>0.84±0.07</td><td>0.108</td></tr><tr><td>密度脂蛋白LDL</td><td>1.64±0.09B</td><td>2.07±0.05A</td><td>0.003</td></tr></table></body></html>
+
+同行数据肩标无字母或相同小写字母表示差异不显著( $P { > } 0 . 0 5 \$ ),不同小写字母表示差异显著 $( P { < } 0 . 0 5 ) \$ ），不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ )。下表同。
+
+In the same row,values with no leter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ， while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ . The same as below.
+
+# 2.2CS对宁乡猪肝脏中长链脂肪酸含量的影响
+
+由表4可知，与对照组相比，试验组饱和脂肪酸（saturated fatty acids，SFA）中肉豆蔻酸、棕榈酸和花生酸含量分别降低了 $7 2 . 0 9 \% ( P { < } 0 . 0 1 ) . 1 3 . 1 2 \% ( P { < } 0 . 0 5 )$ 和 $7 1 . 1 3 \% ( P { < } 0 . 0 1 )$ ，十七烷酸含量提高了 $1 1 . 7 7 \% ( P { < } 0 . 1 0 )$ ；单不饱和脂肪酸（monounsaturated fatty acids,MUFA）含量提高了 $40 . 3 7 \%$ （ $P { < } 0 . 0 1 \$ )，其中反油酸含量降低了 $8 5 . 9 0 \%$ （ $P { < } 0 . 0 1 \$ )；油酸含量提高了$5 5 . 8 0 \%$ （ $_ { . } { P } { < } 0 . 0 1 \$ ；多不饱和脂肪酸（polyunsaturated fattyacids，PUFA）含量降低了 $7 . 5 6 \%$ 0 $( P { < } 0 . 0 5 )$ ，其中亚油酸含量降低了 $1 8 . 5 6 \%$ ( $P { < } 0 . 0 1$ )，二十二碳六烯酸（DHA）和二十碳三烯酸含量分别提高了 $9 6 . 1 3 \%$ 和 $3 7 . 9 9 \%$ （ $_ { . P < 0 . 0 1 } )$ ）°
+
+表4CS对宁乡猪肝脏中长链脂肪酸含量的影响  
+Table 4Effects of CS on liver long-chain fatty acid contents of Ningxiang pigs   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Experimental group</td><td>P值P-value</td></tr><tr><td>肉豆蔻酸 C14:0</td><td>0.369±0.006A</td><td>0.103±0.013B</td><td><0.001</td></tr><tr><td>棕榈酸 C16:0</td><td>18.311±0.352a</td><td>15.908±0.723b</td><td>0.017</td></tr><tr><td>十七烷酸 C17:0</td><td>0.586±0.022</td><td>0.655±0.028</td><td>0.093</td></tr><tr><td>硬脂酸 C18:0</td><td>30.248±0.297</td><td>31.027±0.419</td><td>0.168</td></tr><tr><td>花生酸 C20:0</td><td>0.142±0.006A</td><td>0.041±0.003B</td><td><0.001</td></tr><tr><td>棕榈烯酸 C16:1</td><td>0.490±0.019</td><td>0.561±0.036</td><td>0.118</td></tr></table></body></html>
+
+<html><body><table><tr><td>反油酸C18:1n9t</td><td>1.085±0.096A</td><td>0.153±0.003B</td><td>0.001</td></tr><tr><td>油酸 C18:1n9c</td><td>10.186±0.139B</td><td>15.870±0.167A</td><td><0.001</td></tr><tr><td>亚油酸 C18:2n6c</td><td>17.030±0.463A</td><td>13.870±0.459B</td><td>0.001</td></tr><tr><td>α-亚麻酸C18:3n3</td><td>0.100±0.002</td><td>0.106±0.011</td><td>0.627</td></tr><tr><td>γ-亚麻酸 C18:3n6</td><td>0.142±0.018</td><td>0.109±0.006</td><td>0.122</td></tr><tr><td>花生四烯酸 C20:4n6</td><td>19.606±0.597</td><td>18.865±0.862</td><td>0.500</td></tr><tr><td>顺-11-二十碳烯酸 C20:1</td><td>0.185±0.017</td><td>0.185±0.013</td><td>0.995</td></tr><tr><td>二十碳三烯酸 C20:3n6</td><td>0.745±0.048B</td><td>1.028±0.010A</td><td><0.001</td></tr><tr><td>二十二碳六烯酸C22:6n3</td><td>0.775±0.068B</td><td>1.520±0.136A</td><td>0.001</td></tr><tr><td>饱和脂肪酸 SFA</td><td>49.656±0.459</td><td>47.734±1.111</td><td>0.149</td></tr><tr><td>单不饱和脂肪酸 MUFA</td><td>11.946±0.209B</td><td>16.769±0.148A</td><td><0.001</td></tr><tr><td>多不饱和脂肪酸PUFA</td><td>38.398±0.587a</td><td>35.497±1.061b</td><td>0.044</td></tr></table></body></html>
+
+2.3 CS对宁乡猪肝脏中脂肪代谢相关基因表达量的影响
+
+由图1可知，与对照组相比，试验组肝脏中GAPH、PPARα、ATGL 和LXRα表达量分别提高了 $4 1 . 0 0 \%$ （ $P { > } 0 . 0 5$ 、 $89 . 0 0 \%$ （ $P { < } 0 . 0 5 \$ ）、 $2 5 . 0 0 \%$ ( $P { > } 0 . 0 5$ ）和 $1 6 . 0 0 \%$ （ $. P { > } 0 . 0 5 )$ ），$A C C \mathfrak { a }$ 和 $F A S N$ 表达量分别降低了 $3 7 . 0 0 \%$ 和 $2 5 . 0 0 \%$ ( $P { > } 0 . 0 5 )$ ）°
+
+![](images/c9b7bfc55d94ff1205c0ac1617a942aabfecfe07ff09097ba2eea43c73e1056d.jpg)
+
+柱形标注\*表示与对照组相比差异显著（ $P { < } 0 . 0 5 )$ 。
+
+Columns with \* superscripts mean significantly different compared with the control group
+
+Fig.1Effects of CS on the expression levels of genes involved in lipid metabolism in liver of Ningxiang pigs
+
+3讨论
+
+3.1 CS对宁乡猪血清生化指标的影响
+
+血液中各种生化成分是动物体生命活动的物质基础，其含量变化是反映动物机体新陈代谢和营养物质沉积的重要指标，且主要受饲粮营养水平、动物生长发育阶段和内分泌状况等因素的影响[1]。血清 TG、TC 和 HDL 是反映血脂代谢常用的指标[12]。本试验研究结果显示，肥育猪饲粮中添加CS 能提高血清 TC 的含量，这与前人的试验结果[13]一致。胆固醇的合成原料为乙酰辅酶A，其合成和降解受机体激素和其他因素的影响[14]。甲状腺素促进3 －羟基-3－甲基戊二酸单酰辅酶A（HMG-CoA）还原酶和胆固醇的合成，而胰高血糖素、糖皮质类激素则抑制 HMG-CoA 还原酶的生成，减少TC 的合成。CS一方面通过对生长抑素的耗竭，解除其对胰岛素和甲状腺素的抑制；另一方面通过增加乙酰辅酶 A 的合成影响机体对胆固醇的转化，从而使血清TC 含量提高。血清UN 含量间接反映动物机体对蛋白质的利用率，其含量与蛋白质利用率呈负相关[15-16]。本试验的结果发现试验组血清UN 含量降低，表明饲粮添加CS 促进了体内蛋白质代谢，进而增强其利用率，这与朱宇旌等[17和雷胜辉等[18]的试验结果一致。有研究表明LDL 在血液中起到运输脂类尤其是胆固醇的作用[19]，在饲粮中添加CS 有降低血清 TG 和 TC 含量的趋势[20]。关于饲粮中添加CS 对猪血清生化指标的作用差异较大，可能与猪的品种、体重和饲粮成分有关。本试验发现，饲粮中添加CS 降低了血清中UN含量，提高了GLU 和LDL含量，表明CS可能影响蛋白质的代谢。
+
+3.2CS对宁乡猪肝脏中长链脂肪酸含量的影响
+
+脂肪酸可分为 SFA、MUFA和PUFA[21]。本试验结果表明，与对照组相比，试验组MUFA含量极显著提高，SFA 含量无显著差异；但是，试验组 SFA中肉豆蔻酸、棕榈酸和花生酸含量显著降低，十七烷酸含量有提高的趋势。有研究表明肉豆蔻酸可以提高血清中TC含量，棕榈酸能降低血清中 TC 的含量[22]。有关大鼠的研究发现，硬脂酸降低 TC 吸收的机理在于其降低了TC 的溶解，同时对胆酸的生成进行调节[23]。油酸有降低花生四烯酸、血清 TC 和低密度脂蛋白含量及保护棕榈酸的作用[24]。PUFA 中亚油酸可以降低血清 TG 和LDL 含量，提高 HDL 含量[25]。DHA 可降低血清 TG、TC 和 LDL 含量，提高 HDL 含量，从而改善血液循环，降低血液黏度[26-27]。这表明肝脏中 SFA、MUFA 中一些脂肪酸的降低可能是CS 在肝脏中降低TC时，引起脂肪酸含量的变化，其具体的作用机制有待进一步深入研究。不过，试验组血清TC含量是提高的，这可能是负反馈调节的作用。
+
+3.3CS对宁乡猪肝脏脂肪代谢相关基因表达量的影响
+
+肝脏是脂肪代谢的主要场所，在脂肪代谢过程中，关键性的酶有GAPH、PPARα、ATGL、ACCα、FASN与LXRα等，其中ATGL、PPARα与LXRα是肝脏中脂肪分解代谢的关键酶，ACCα、FASN 是脂肪酸合成的关键酶。本试验结果表明，与对照组相比，试验组肝脏中PPARα表达量显著增加。PPARα 在肝细胞表达较高，通过对肝脏脂质代谢相关基因转录水平的调控，参与脂肪酸降解、合成、运输、储存等维持正常的脂质代谢[28-30]。另外，PPARα 参与胆固醇代谢、糖代谢的调节及促进高密度脂蛋白的生成[31]。饲粮中添加CS 可提高胰岛素的含量[32]，从而促进脂肪的合成，胰岛素还能通过细胞自制和脂肪细胞分解调节肝脏 PPARα。有研究表明，PPARα 基因表达上调可以促进脂肪酸的氧化过程，并参与DHA的合成[3]。此外，ATGL 是TG 水解的限速酶，GAPH是 TG代谢中一个重要的酶[34]。本试结果表明，CS促进肝脏脂肪酸的氧化，改善了机体脂肪代谢。
+
+# 4结论
+
+在宁乡猪肥育猪饲粮中添加CS 能提高肝脏中DHA 的含量，可能是通过调控肝脏的脂 肪代谢基因PPARα的表达，进而影响机体的脂肪代谢。 参考文献： [1]孙占田,孙崇源,孙海源,等.小肽和半胱胺对生长肥育猪生产性能和胴体品质的影响[J].饲 料工业,2014,35(22):17-19. [2] 刘红,杨宏波,朱建明,等.半胱胺盐酸盐对奶牛营养物质消化率、血清生化及抗氧化指标的 影响[J].畜牧兽医学报,2015,46(3):416-423. [3] ZHOU P,ZHANG L,LI J L,et al.Effects of dietary crude protein levels and cysteamine supplementation on protein synthetic and degradative signaling in skeletal muscle of finishing pigs[J].PLoS One,2015,10(9):e0139393. [4] LV X Z,WANG Y,LIU G L,et al.Effects of dietary supplementation with cysteamine on performance,carcass characteristics,meat quality and antioxidant status in finishing pigs[J].Journal of Agricultural Science and Technology,2011,5(1):14-19. [5] YANG C B,LI A K,YIN Y L,et al.Effects of dietary supplementation of cysteamine on growth performance,carcass quality,serum hormones and gastric ulcer in finishing pigs[J].Journal of the Science of Food and Agriculture,2005,85(11):1947-1952.
+
+[6] 刘巧婷.半胱胺、N－氨甲酰谷氨酸对不同阶段生长育肥猪生长性能、血清生理化指标及免疫机能的影响[D].硕士学位论文.南宁:广西大学,2015.
+
+[7]向德标,姚元枝,伍福.半胱胺对宁乡猪肥育后期生产性能的影响[J].怀化学院学报,2005,24(2):76-78.
+
+[8]秦龙山,邢月腾,张杨,等.半胱胺对宁乡猪胴体性状和肉品质的影响[J].动物营养学报,2017,29 (9): 页码待添加
+
+[9] 喻文娟,侯静文,朱邦尚.外标气相-色谱－质谱法准确测定猪肉中的 14 种脂肪酸[J].分析器,2012(3):10-16.
+
+[10] SIMMS D,CIZDZIEL P E,CHOMCZYNSKI P.TrizolTM:a neW reagent for optimal single-step isolation of RNA[J].Focus,1993,15:532-535.
+
+[11] WANG J P,YOO J S,KIM H J,et al.Nutrient digestibility,blood profiles and fecal microbiota are influencedbychitooligosaccharidesupplementationofgrowingpigs[J].Livestock Science,2009,125(2/3):298-303.
+
+[12]王成强,徐后国,梁萌青,等.饲料亚麻酸含量对大规格鲈鱼生长性能、抗氧化指标和血清生化指标的影响[J].动物营养学报,2016,28(10):3123-3133.
+
+[13]王容.半胱胺对肉兔生产性能、血清生化指标、肠道发育和肌肉品质的影响[D].硕士学位论文.四川：四川农业大学,2008
+
+[14] 李文全,王子花,申瑞玲.HMG-CoA还原酶的结构和调节[J].动物医学进展,2007,27(2):38-40.
+
+[15] COMA J,CARRION D,ZIMMERMAN D R.Use of plasma urea nitrogen as a rapid response criterion to determine the lysine requirement of pigs[J].Journal of Animal Science,1995,73(2):472-481.
+
+[16] MAO X B,ZENG X F,HUANG Z F,et al.Leptin and leucine synergistically regulate protein metabolism in C2C12myotubesand mouse skeletalmuscles[J].BritishJournalof Nutrition,2013,110(2):256-264.
+
+[17] 朱宇旌,王浩然,李方方,等.半胱胺螯合锌对仔猪生长性能、血清生化指标、养分消化率及粪中微生物菌群的影响[J].动物营养学报,2015,27(10):3225-3232.
+
+[18] 雷胜辉,杨磊,艾晓杰.半胱胺和二氢吡啶对育肥猪生产性能和生化指标的影响[J].饲料研究,2008(7):15-19.
+
+[19]卢玲,何炳林,袁直,等.低密度脂蛋白结构研究进展[J].离子交换与吸附,2001,17(5):363-
+
+\~vv.   
+[20] 黄所含.半胱胺、酵母铬对生长育肥猪和良凤肉鸡生产性能、胴体品质及血清生化指标 的影响[D].硕士学位论文.南宁:广西大学,2006.   
+[21] RISSI R,PASTORELLI G,CANNATA S,et al.Recent advances in the use of fatt acids as supplements in pig diets:a review[J].Animal Feed Science Technology,2010,162(1/2):1-11. [22] SUNDRAM K,HAYE K C,SIRU O H.Dietary palmitic acid results in lower serum cholesterol than does a lauric-myristic acid combination in normolipemic humans[J].American Journal of Clinical Nutrition,1994,59(4):841-846.   
+[23] COWLES R L,LEE J Y,GALLAHER D D,et al.Dietary stearic acid alters galbladder bile acid composition in hamsters fed cereal-based diets[J].Journal Nutrition,2002,132(10):3119-3122. [24]KARACORK,CAMM.Effectofoleicacid[J].MedicalScienceand Discovery,2015,2(1):125-132.   
+[25] 张春娥,张惠,刘楚怡,等.亚油酸的研究进展[J].粮油加工,2010(5):18-21.   
+[26] PARK Y,HARRIS W S.Omega-3 fatty acid supplementation accelerates chylomicron triglyceride clearance[J].Journal of Lipid Research,2003,44(3):455-463.   
+[27] WEINTRAUB M S,ZECHNER R,BROWN A,et al.Dietary polyunsaturated fats of the ω-6 and @-3 series reduce postprandial lipoprotein levels.Chronic and acute effects of fat saturation on postprandial lipoprotein metabolism[J].Journal of Clinical Investigation,1988,82(6):1884-1893. [28]KERSTENS.Integrated physiologyandsystemsbiology of PPARα[J].Molecular Metabolism,2014,3(4):354-371.   
+[29] KERSTEN S,SEYDOUX J,PETERS J M,et al.Peroxisome proliferator-activated receptor α mediates the adaptive response to fasting[J].Journal of Clinical Investigation,1999,103(11):1489- 1498.   
+[30]PATSOURISD,MANDARD S,VOSHOL P J,et al.PPAR α goVernsglycerol metabolism[J].Journal of Clinical Investigation,2004,114(1):94-103.   
+[31] 张云,何秋霞,侯海荣,等.过氧化物酶体增殖物激活受体α的研究进展[J].现代生物医学进 展,2013,13(29):5798-5800.   
+[32] LIU G M,YAO W,WANG Z S,et al.Efcts of dietary supplementation with cysteamine on growth hormone receptor and insulin-like growth factor system in finishing pigs[J].Journal of Agricultural and Food Chemistry,2008,56(13):5422-5427. [33]HEO Y R,CLAYCOMBE K,JONES B H,et al.Effects of fatty $( f a )$ allele and high-fat diet on adipose tissue leptin and lipid metabolism[J].Hormone and Metabolic Research,2002,34(11/12):686-690.   
+[34] NAKAMURA M T,CHEON Y,LI Y,et al.Mechanism s of regulation of gene expression by fatty acids[J].Lipids,2004,39(11):1077-1083.
+
+Effects of Cysteamine on Serum Biochemical Indices and Liver Lipid Metabolism of Ningxiang
+
+# Pigs
+
+QIN Longshan' XING Yueteng1,2 ZHANG Yang1 CHEN Yuguang' SHU Xugang LIU Xingliang4 ZHANG Bin1\* WU Xin1,2.3\*
+
+(1. Hunan Co-Innovation Center of Safety Animal Production, Collge of Animal Science and Technology, Hunan Agricultural University, Changsha 410128, China; 2. Research Center of   
+Healthy Breeding of Livestock and Poultry, Hunan Engineering and Research Center of Animal and Poultry Science, Key Laboratory of Agro-ecological Processes in Subtropical Region,   
+Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha 410125, China; 3.   
+College of Animal Science and Technology, Zhongkai University of Agricultural and Engineering, Guangzhou 510225, China; 4. Ningxiang Animal Husbandry, Veterinary and Aquatic Products Bureau, Ningxiang 410600, China)
+
+Abstract: This study was conducted to explore the effects of cysteamine (CS） on serum biochemical indices and lipid metabolism in liver of Ningxiang pigs. Thirty Ningxiang barrows with an average initial weight of $4 3 ~ \mathrm { k g }$ were randomly allocated into 2 groups (each group had 5 replicates with 3 pigs each). Pigs in the control group were fed a basal diet,and in the experimental group were fed the basal diet supplemented with $8 0 ~ \mathrm { m g / k g C S }$ .The trial lasted for 8 weeks.The results were showed as follows: 1） compared with the control group,dietary supplementation with CS increased serum contents of glucose,low density lipoprotein and total cholesterol by $2 1 . 9 1 \%$ $( P { < } 0 . 0 1 )$ ， $2 6 . 2 2 \%$ 1 $( P { < } 0 . 0 1 )$ ）and $9 . 7 5 \%$ $( P { < } 0 . 1 0 )$ ，but significantly decreased serum urea nitrogen content by $14 . 1 4 \%$ 0 $\scriptstyle \overbrace { P { < } 0 . 0 5 } ^ { }$ ). 2) Compared with the control group, dietary supplementation with CS significantly decreased the contents of saturated fatty acids such as C14:0, C16:0 and C20:0 by $7 2 . 0 9 \%$ $( P { < } 0 . 0 1 )$ ， $1 3 . 1 2 \%$ $( P { < } 0 . 0 5 )$ and $71 . 1 3 \%$ $( P { < } 0 . 0 1 )$ ，but increased C17:0 content by $1 1 . 7 7 \%$ ? $( P { < } 0 . 1 0 )$ ；and increased the monounsaturated fatty acid content by $40 . 3 7 \%$ 0 $( P { < } 0 . 0 1 )$ ）inwhich $\mathrm { C l } 8 { : } \mathrm { l n } 9 \mathrm { c }$ content was increased by $5 5 . 8 0 \%$ 0 $( P { < } 0 . 0 1 )$ ，but $\mathbf { C } 1 8 { : } 1 \mathbf { n } 9 t$ content was decreased by $8 5 . 9 0 \%$ $( P { < } 0 . 0 1 )$ ); while decreased the polyunsaturated fatty acid content by $7 . 5 6 \%$ $( P { < } 0 . 0 5 )$ in which $_ { \mathrm { C l } 8 : 2 \mathrm { n } 6 c }$ content was decreased by $1 8 . 5 6 \%$ $( P { < } 0 . 0 1 )$ ， while content s of C22:6n3 (DHA) and $C 2 0 { : } 3 \mathrm { n } 6$ were increased by $9 6 . 1 3 \%$ and $3 7 . 9 9 \%$ $( P { < } 0 . 0 1$ ） in liver. 3) Compared with the control group, dietary supplementation with CS significantly raised the gene expression level of peroxisome proliferator-activated receptor- $\mathbf { \nabla } \cdot \mathbf { a }$ $( P P A R \mathbf { a } )$ $( P { < } 0 . 0 5 )$ . It is concluded that diet supplementation with CS can increase the DHA content in liver, which may be related to the regulation of the expression of PPARα in liver tissue,and then affects the liver lipid metabolism.
+
+Key word: cysteamine; Ningxiang pig; serum biochemical indices; fatty acid composition; lipid metabolism

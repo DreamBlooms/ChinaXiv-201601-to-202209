@@ -1,0 +1,245 @@
+# 排序下PPS抽样估计量的修正与应用
+
+王峰
+
+（山西财经大学统计学院，山西太原，030006）
+
+摘要：受许多事物具有齐夫现象的启发，本文提出了排序后PPS抽样方法，并给出了修正汉森-赫维茨估计量及其方差。在此过程中本文解决了，长期以来抽样调查实践中将重要单元直接入样时，多少重要单元直接入样没有明确方法的问题，本文给出了理论依据和具体的确定方法。最后通过一个例子和中国城市人口抽样调查的案例，展示了修正汉森-赫维茨估计量的优势，并对这一研究方法做了总结和展望。
+
+关键词：抽样调查；PPS 抽样；齐夫现象中图分类号：C811 文献标识码：A
+
+# Modification and application of PPS sampling estimator under
+
+# the order of rank
+
+WANG Feng (School of statistics, Shanxi University of Finance and Economics ,Shanxi, Taiyuan，030006)
+
+Abstract: Inspired by many things with Zipf phenomenon, this paper presents a modified Hansen-Hurwitz estimator and its variance. In the process, this paper solved the problem that sampling investigation practice for a long time will be the most important unit directly into the sample and how much the most important unit directly into the sample is no clear method. This paper gives the theoretical basis and specific method for determining. Finally, through an example and a case study of China's urban population sampling survey, the advantage of the modified Hansen-Hurwitz estimator was demonstrated， and the research method was summarized and forecasted.
+
+Key words: samplingsurvey; probabilityproportional tosize; Zipf phenomenon
+
+# 1引言
+
+在抽样调查的实践中，多数情况下抽样单元的规模是不同的，因此各单元在总体中的地位也就不同。人们利用这种不同，让重要的单元入样概率高些，不重要的单元入样概率低些，这种重要性通常由抽样单元的规模来衡量。由此人们提出了，每个单元在每次抽样中的概率与其单元的规模大小成比例，这种放回的与规模大小成比例的概率抽样就是PPS（probability proportionalto size）抽样。PPS 抽样在抽样调查实践中有广泛的应用，并被许多学者持续关注，对其进行研究和扩展。在 Hansen M H，Hurwitz W N.（1943）提出 PPS 抽样的理论[]后，Yates F,Grundy PM.（1953）研究了层内应用 PPS 抽样的情况[2]；HolmbergA.（1998）将bootstrap 的方法应用于PPS 抽样；KimYW,KimY,Han HE（2013）研究了二阶段 PPS 系统抽样下的方差估计[}；PateIPA，Bhatt S．A（2016)提出了PPS 抽样基于模型的方差估计[4；等等。在国内，邹国华，冯士雍（1995)研究了PPS 抽样方案在放回抽样方案中的可溶性[}；孙山泽，姜涛（2002）研究了 PPS 样本的轮换抽样[；刘建平，陈光慧(2005)分不同情况讨论了 MPPS 下汉森-赫维茨估计量的扩展；等等[8-1]。国内外的研究普遍认为，衡量抽样单元重要性的指标抽样单元的规模是设计PPS抽样重要的辅助变量。那么是否可以考虑把抽样单元依据其规模排序，然后再设计PPS抽样呢。
+
+为什么要对抽样单元依据其规模排序？齐夫在1935年分析了英语里单词的相对频率，发现一些单词拥有很高的频率。他得出，对所有词汇单词的频数与其排序后序号的乘积保持一个常数，这被认为是齐夫定律[12]。它揭示出，较少的单元拥有较高的频率或者对总量有较大的贡献，人们称这种性质为齐夫现象。后经研究发现，除语言应用外，诸如城市人口、个人收入、粮食生产等等很多方面都具有齐夫现象[13,14]。受此启发，既然很多事物都具有齐夫现象，那么就可以考虑把总体单元按照规模排序后分成两部分，一部分为“重要”单元（齐夫现象的观点)，让其全部入样，一部分为剩余部分再按照传统的PPS 抽样来获取样本，以此来提高抽样的估计精度。在抽样实践中，将一些认为重要的单元直接入样的做法也较为多见，但是到底应该多少个重要的单元直接入样，通常根据实际情况由抽样设计者确定，没有固定的算法。本文将给出“重要”单元样本量的确定方法，并修正PPS抽样估计量一一汉森-赫维茨估计量。
+
+文章剩余部分将首先讨论抽样总体分成两部分后，PPS抽样的估计量及方差的计算。然后利用方差的比较得出来“重要”单元的个数，以及使用条件。接下来利用教材中的例子和实际的案例来展示排序下修正PPS估计量的优势。文章的最后一部分是对这一方法的总结评价。
+
+# 2排序下PPS抽样估计量的修正
+
+首先对总体单元按照其规模变量排序，令 $Y _ { 1 }$ ， $Y _ { _ 2 }$ ，……， $Y _ { _ { N } }$ 为排序后一有
+
+限总体。 $M _ { \mathrm { 1 } }$ ， $M _ { ☉ }$ ，……， $M _ { \scriptscriptstyle { N } }$ 是其对应的规模变量， $M _ { 0 } = \sum _ { i = 1 } ^ { N } M _ { i }$ ，有 $z _ { i } = \frac { M _ { i } } { M _ { 0 } }$ 由传统的PPS 抽样方法可知总体总值的无偏估计量为：
+
+$$
+\hat { Y } _ { H H } = \frac { 1 } { n } { \sum _ { i = 1 } ^ { n } } \frac { y _ { i } } { z _ { i } }
+$$
+
+式（1）为熟知的汉森-赫维茨估计量。
+
+方差为：
+
+$$
+V ( \hat { Y } _ { H H } ) = \frac { 1 } { n } \sum _ { i = 1 } ^ { N } z _ { i } { ( \frac { Y _ { i } } { z _ { i } } { - } Y ) } ^ { 2 }
+$$
+
+若 $n > 1$ ，则式（2）的无偏估计为：
+
+$$
+\nu ( \hat { Y _ { H H } } ) = \frac { 1 } { n ( n - 1 ) } { \sum _ { i = 1 } ^ { n } ( \frac { y _ { i } } { z _ { i } } - \hat { Y _ { H H } } ) ^ { 2 } }
+$$
+
+根据齐夫现象的观点，把总体分成两部分，第一部分 $G _ { \imath }$ 单位数为 $N _ { \scriptscriptstyle 1 }$ ，全部入样，因此有 $n _ { 1 } = N _ { 1 }$ ；第二部分 $G _ { 2 }$ 单位数为 $N _ { _ 2 }$ ，从中按传统 PPS 抽样的方法抽取 $n _ { 2 }$ ，显然 $n _ { 2 } = n - n _ { 1 }$ 。为便于说明，令：
+
+$$
+p _ { 1 } = \sum _ { i = 1 } ^ { N _ { 1 } } z _ { i } , Y _ { 1 } = \sum _ { i = 1 } ^ { N _ { 1 } } y _ { i } , p _ { 2 } = \sum _ { i = N _ { 1 } + 1 } ^ { N } z _ { i } , Y _ { 2 } = \sum _ { i = N _ { 1 } + 1 } ^ { N } y _ { i }
+$$
+
+把 $G _ { 2 }$ 看成一个总体的话，由HansenMH，HurwitzWN．（1943）可以得到$G _ { 2 }$ 总值的无偏估计量为：
+
+$$
+\hat { Y } _ { 2 H H } = { \frac { 1 } { n _ { 2 } } } \sum _ { i = 1 , i \in G _ { 2 } } ^ { n _ { 2 } } { \frac { y _ { i } } { z _ { i } } }
+$$
+
+由于 $G _ { \imath }$ 是全部入样，不存在随机抽样。 $G _ { 2 }$ 是 PPS 抽样，两部分合起来对总体总值的无偏估计量为：
+
+$$
+\hat { Y } _ { m H H } = \sum _ { i = 1 } ^ { n _ { 1 } } { y _ { i } } + \frac { 1 } { n _ { 2 } } \sum _ { i = 1 , i \in G _ { 2 } } ^ { n _ { 2 } } { \frac { y _ { i } } { z _ { i } } }
+$$
+
+称式（4）为修正的汉森-赫维茨估计量。注意到， $G _ { \imath }$ 是全部入样，因此 $\sum _ { i = 1 } ^ { n _ { 1 } } y _ { i }$ $\frac { 1 } { n _ { 2 } } \sum _ { i = 1 , i \in G _ { 2 } } ^ { n _ { 2 } } \frac { y _ { i } } { z _ { i } }$ 是汉森-赫维
+
+茨估计量，因此由汉森-赫维茨估计量的无偏性可以得出 $\frac { 1 } { n _ { 2 } } \sum _ { i = 1 , i \in G _ { 2 } } ^ { n _ { 2 } } \frac { y _ { i } } { z _ { i } }$ 難是難 $G _ { 2 }$ 总值的无偏估计。 $\sum _ { i = 1 } ^ { n _ { 1 } } y _ { i }$ 本身就是 $G _ { \imath }$ 的总值。故这两部分的和 $\hat { Y } _ { m H H }$ 就是总体总值的无偏估计。
+
+同样的道理，修正的汉森-赫维茨估计量第一部分为非随机变量，第二部分是实施 PPS 抽样的汉森-赫维茨估计量，因此修正的汉森-赫维茨估计量的方差为：
+
+$$
+V ( \hat { Y } _ { m H H } ) = \frac { 1 } { n _ { 2 } } \sum _ { i = N _ { 1 } + 1 } ^ { N } \frac { z _ { i } } { p _ { 2 } } ( \frac { p _ { 2 } Y _ { i } } { z _ { i } } - Y _ { 2 } ) ^ { 2 }
+$$
+
+同理，若 $n _ { 2 } > 1$ ，可由 HansenM H，Hurwitz W N.（1943）得到式（5）的无偏估计量为：
+
+$$
+\nu ( \hat { Y } _ { m H H } ) = \frac { 1 } { n _ { 2 } ( n _ { 2 } - 1 ) } \sum _ { i = 1 , i \in G _ { 2 } } ^ { n _ { 2 } } { ( \frac { y _ { i } } { z _ { i } } - \hat { Y } _ { 2 H H } ) ^ { 2 } }
+$$
+
+# 3 比较pps 抽样和修正pps抽样总值估计量的方差
+
+pps 抽样下汉森-赫维茨估计量的方差式（2）可以变形为：
+
+$$
+V ( \hat { Y } _ { _ { H H } } ) = \frac { 1 } { n } \sum _ { i = 1 } ^ { N _ { 1 } } z _ { i } ( \frac { Y _ { i } } { z _ { i } } - Y ) ^ { 2 } + \frac { 1 } { n } \sum _ { i = N _ { 1 } + 1 } ^ { N } z _ { i } ( \frac { Y _ { i } } { z _ { i } } - Y ) ^ { 2 }
+$$
+
+对于修正的汉森-赫维茨估计量的方差有：
+
+$$
+\begin{array} { r l } & { \quad V ( \hat { Y } _ { n m } ) = \displaystyle \frac { 1 } { n _ { 2 } } \frac { \check { \rho } } { \gamma _ { \sigma } - \sigma _ { \sigma } + \gamma } \frac { \check { \rho } } { 2 } \frac { \check { \rho } _ { \sigma } } { \zeta } ( \frac { \hat { p } \hat { \mathcal { Z } } _ { n } } { 2 } - \gamma _ { \sigma } ) ^ { 2 } } \\ & { = \frac { \rho _ { 2 } } { n _ { 2 } } \frac { \check { \rho } } { \gamma _ { \sigma } - \sigma + \gamma } \frac { \check { \rho } } { \zeta } \frac { \dot { \mathcal { Z } } _ { n } } { \gamma } + \gamma - \frac { \check { Y } _ { 2 } } { p _ { 2 } } ) ^ { 2 } } \\ & { = \frac { \rho _ { 2 } } { n _ { 2 } } \bigg ( \displaystyle \frac { \check { \rho } } { \gamma _ { \sigma } - \sigma + \gamma } \frac { \check { \rho } } { \zeta } ( \frac { \check { Y } _ { n } } { 2 } - \gamma ) ^ { 2 } + \frac { \check { \rho } } { \gamma _ { \sigma } - \sigma } ( ( Y - \frac { Y _ { 2 } } { p _ { 2 } } ) ^ { 2 } + 2 \underset { \varepsilon = \gamma + \gamma } { \sum _ { \sigma \sigma } } \frac { \check { \rho } } { \zeta } ( \frac { Y _ { n } } { 2 } - Y ) ( \mathcal { T } - \frac { Y _ { 2 } } { p _ { 2 } } ) \bigg ) } \\ & { = \frac { \rho _ { 2 } } { n _ { 2 } } \bigg ( \displaystyle \sum _ { s = \sigma + \gamma } ^ { \infty } \frac { \check { \rho } } { \zeta } ( \frac { Y } { 2 } - Y ) ^ { 2 } + ( Y - \frac { Y _ { s } } { p _ { 2 } } ) ^ { 2 } \frac { \check { \rho } } { \zeta } \frac { \check { \sigma } } { \gamma _ { \sigma } - \sigma } + 2 ( Y - \frac { Y _ { s } } { p _ { 2 } } ) \sum _ { s = \sigma } ^ { \infty } \frac { \check { \rho } } { \zeta } \frac { \partial \check { \mathcal { Z } } _ { n } } { \partial \xi _ { \sigma } } - \gamma \bigg ) } \\ & { = \frac { \rho _ { 2 } } { n _ { 2 } } \bigg ( \frac { Y } { 2 } \underset { s = \sigma } { \sum _ { \sigma } } ( \frac { Y } { 2 } - \gamma ) ^ { 2 } + ( Y - \frac { Y _ { s } } { p _ { 2 } } ) ^ { 2 } \rho _ { \sigma } - 2 ( Y - \frac { Y _ { s } } { p _ { 2 } } ) ^ { 2 } \rho _ { s } \bigg ) } \end{array}
+$$
+
+$$
+= \frac { p _ { 2 } } { n _ { 2 } } \left( \sum _ { i = N _ { 1 } + 1 } ^ { N } z _ { i } ( \frac { Y _ { i } } { z _ { i } } - Y ) ^ { 2 } - ( Y - \frac { Y _ { 2 } } { p _ { 2 } } ) ^ { 2 } p _ { 2 } \right)
+$$
+
+两方差相减得：
+
+$$
+\begin{array} { l } { { { \displaystyle V ( \hat { Y } _ { n l i n } ) - V ( \hat { Y } _ { n l i n } } ) } } \\ { { { \displaystyle = \frac { 1 } { n } \sum _ { i = 1 } ^ { N _ { 1 } } z _ { i } ( \frac { Y _ { i } } { z _ { i } } - Y ) ^ { 2 } + \frac { 1 } { n } \sum _ { i = N _ { 1 } + 1 } ^ { N } z _ { i } ( \frac { Y _ { i } } { z _ { i } } - Y ) ^ { 2 } } } } \\ { { { \displaystyle - \frac { p _ { 2 } } { n _ { 2 } } \Bigg ( \sum _ { i = N _ { 1 } + 1 } ^ { N } z _ { i } ( \frac { Y _ { i } } { z _ { i } } - Y ) ^ { 2 } - ( Y - \frac { Y _ { 2 } } { p _ { 2 } } ) ^ { 2 } p _ { 2 } \Bigg ) } } } \\ { { { \displaystyle = \frac { 1 } { n } \sum _ { i = 1 } ^ { N _ { 1 } } z _ { i } ( \frac { Y _ { i } } { z _ { i } } - Y ) ^ { 2 } + ( \frac { 1 } { n } - \frac { p _ { 2 } } { n _ { 2 } } ) \sum _ { i = N _ { 1 } + 1 } ^ { N } z _ { i } ( \frac { Y _ { i } } { z _ { i } } - Y ) ^ { 2 } + \frac { p _ { 2 } ^ { 2 } } { n _ { 2 } } ( Y - \frac { Y _ { 2 } } { p _ { 2 } } ) ^ { 2 } } } } \end{array}
+$$
+
+很显然，上述式（7）由三部分构成，第一部分和第三部分均非负。如果第二部分中 $\frac { 1 } { n } - \frac { p _ { 2 } } { n _ { 2 } } > 0$ 的话，则有 $V ( \hat { Y } _ { H H } ) > V ( \hat { Y } _ { m H H } )$ 。此时修正的汉森-赫维茨估计量就会优于传统的汉森-赫维茨估计量。
+
+# 4“重要"单元个数 $n _ { 1 } = N _ { 1 }$ 的确定
+
+要找到“重要”的单元数 $n _ { \mathrm { { 1 } } }$ ，其实就是找到满足 $\frac { 1 } { n } - \frac { p _ { 2 } } { n _ { 2 } } > 0$ _P2>0的n。因为$n _ { 2 } = n - n _ { 1 } , ~ p _ { 2 } = 1 - p _ { 1 }$ ，就有：
+
+$$
+\frac { 1 } { n } - \frac { p _ { 2 } } { n _ { 2 } } > 0 \Longleftrightarrow \frac { 1 } { n } > \frac { 1 - p _ { 1 } } { n - n _ { 1 } } \Longleftrightarrow n - n _ { 1 } > n - n p _ { 1 } \Longleftrightarrow n p _ { 1 } > n _ { 1 }
+$$
+
+由上述不等式知，如果 $p _ { 1 }$ 很小，使得 $n p _ { 1 }$ 都小于1了，显然这样的 $n _ { \mathrm { { } _ { 1 } } }$ 无法得到，因为 $n _ { \mathrm { { 1 } } }$ 不可能小于1，也就不能用修正的汉森-赫维茨估计量，这种情况下可用传统的汉森-赫维茨估计量来做。另一方面也可以通过扩大样本量，使其 $n p _ { 1 }$ ${ > } 1$ ，这一点在后面的例子中有详细说明。如果 $n p _ { 1 } > 1$ 了，就可以使用修正的汉森-赫维茨估计量。
+
+接下来确定 $n _ { \mathrm { { 1 } } }$ 。由上分析知 $n p _ { 1 } > 1$ ，否则无法修正汉森-赫维茨估计量。而
+
+修正汉森-赫维茨估计量的条件为 $\frac { 1 } { n } - \frac { p _ { 2 } } { n _ { 2 } } > 0$ ，即 $n _ { 1 } < n p _ { 1 } \Longleftrightarrow \frac { p _ { 2 } } { n _ { 2 } } < \frac { 1 } { n }$ ；根据这  
+个不等式由抽样原理可知，当 $\underline { { p _ { 2 } } }$ 取最小值时 $\frac { 1 } { n } - \frac { p _ { 2 } } { n _ { 2 } }$ 达到最大值，此时一定有$n _ { 2 }$ （20  
+（20 $V ( \hat { Y } _ { H H } ) > V ( \hat { Y } _ { m H H } )$ 。因此就需要在所有可能的 $n _ { 1 } = 1 , 2 , 3 , \mathbf { L } , n - 1$ 中找到使 $\underline { { p _ { 2 } } }$ （204$n _ { 2 }$   
+达到最小值时的 $n _ { \mathrm { { 1 } } }$ ，令此时的 $n _ { \scriptscriptstyle { 1 } } = n _ { \scriptscriptstyle { j } }$ 。也就是说，当 $n _ { \mathrm { { 1 } } } = 1$ 时，由条件知 $n p _ { 1 } >$   
+1，否则无法进行后续计算，理由如前所述，这里不再赘述。由于  
+$n _ { 1 } < n p _ { 1 } \Longleftrightarrow \frac { p _ { 2 } } { n _ { 2 } } < \frac { 1 } { n }$ ，因此当 $n _ { \mathrm { { 1 } } } = 1$ 时，必须满足 $\frac { p _ { 2 } } { n _ { 2 } } < \frac { 1 } { n }$ 当 $n _ { \mathrm { 1 } } = 2 , 3 , \mathbf { L }$ 按自（204号 （  
+然数递增时， $n _ { 2 }$ 则是按照自然数递减的，即 $n _ { 2 } = ( n - 2 ) , ( n - 3 ) , \mathbf { L }$ 。注意到，  
+总体单位是按照规模排序的，一定有 $z _ { 1 } > z _ { 2 } > \cdots > z _ { n }$ ，且 $z _ { i } < 1$ ， $i = 1 , 2 , { \bf L } , n$   
+由 $p _ { 2 } = 1 - z _ { 1 } - z _ { 2 } , 1 - z _ { 1 } - z _ { 2 } - z _ { 3 } , \mathbf { L }$ ，所以 ${ { p } _ { 2 } }$ 先递减的快后递减的慢，且按 $z _ { i }$ （20  
+（ ${ \bf \chi } _ { z _ { i } } < 1 )$ 递减。由此 $\underline { { p _ { 2 } } }$ 通常会表现为先减小后增加。（具体的数学证明见附录)$n _ { 2 }$ （204号  
+所以在 $n _ { \scriptscriptstyle { 1 } } = n _ { \scriptscriptstyle { j } }$ 时， $\underline { { p _ { 2 } } }$ 达到最小值，此时也一定满足 $\frac { p _ { 2 } } { n _ { 2 } } < \frac { 1 } { n }$ 。这时候必然有$n _ { 2 }$   
+（204号 $V ( \hat { Y } _ { H H } ) > V ( \hat { Y } _ { m H H } )$ 成立，即修正的汉森-赫维茨估计量就会优于传统的汉森-赫  
+维茨估计量。如果 $\frac { p _ { 2 } } { n _ { \circ } }$ 一直在增加，那就说明 $n _ { { } _ { j } } = n _ { { } _ { 1 } } = 1$ 时， $\frac { p _ { 2 } } { \mathbf { \eta } _ { m } }$ 为最小。如果$n _ { 2 }$ （204号 （20 $n _ { 2 }$ （204号  
+连𝑛 =1都无法满足P< $\frac { p _ { 2 } } { n _ { 2 } } < \frac { 1 } { n }$ ，也就是未能满足初始条件，那这个数据就不能用  
+修正的汉森-赫维茨估计量，这时候就用传统的方法即可。接下来用实例验证修  
+正的汉森-赫维茨估计量。
+
+# 5实证分析与检验
+
+这部分用两个例子来说明修正汉森-赫维茨估计量的应用，并与汉森-赫维茨估计量做比较。
+
+# 5.1来自教材的一个实例
+
+这个例子来自于教材，冯士雍，倪加勋，邹国华（1998）中的例7.2职工人数调查[15]。该例子陈述如下：
+
+表1为某系统全部 $N = 3 6$ 个单位上一年职工人数 $X _ { i }$ 及当年职工人数 $Y _ { i }$ 的数据。以 $X _ { i }$ 为单位大小 $M _ { i }$ 的度量，对单位进行PPS 抽样， $n = 1 1$ ，估计全系统当年职工总人数Y。
+
+表1某系统各单位上一年与当年职工人数  
+
+<html><body><table><tr><td>单位号</td><td>X</td><td>Y</td><td>单位号</td><td>X</td><td>Y</td><td>单位号</td><td>X</td><td>Y</td></tr><tr><td>1</td><td>598</td><td>633</td><td>13</td><td>497</td><td>516</td><td>25</td><td>252</td><td>281</td></tr><tr><td>2</td><td>21</td><td>18</td><td>14</td><td>723</td><td>786</td><td>26</td><td>194</td><td>210</td></tr><tr><td>3</td><td>630</td><td>656</td><td>15</td><td>712</td><td>740</td><td>27</td><td>149</td><td>166</td></tr><tr><td>4</td><td>3012</td><td>3273</td><td>16</td><td>335</td><td>352</td><td>28</td><td>173</td><td>189</td></tr><tr><td>5</td><td>372</td><td>386</td><td>17</td><td>267</td><td>299</td><td>29</td><td>318</td><td>344</td></tr><tr><td>6</td><td>142</td><td>164</td><td>18</td><td>1658</td><td>1714</td><td>30</td><td>204</td><td>227</td></tr><tr><td>7</td><td>1072</td><td>1145</td><td>19</td><td>231</td><td>255</td><td>31</td><td>52</td><td>63</td></tr><tr><td>8</td><td>432</td><td>501</td><td>20</td><td>15</td><td>24</td><td>32</td><td>188</td><td>174</td></tr><tr><td>9</td><td>216</td><td>235</td><td>21</td><td>172</td><td>181</td><td>33</td><td>97</td><td>122</td></tr><tr><td>10</td><td>1698</td><td>1778</td><td>22</td><td>234</td><td>243</td><td>34</td><td>218</td><td>242</td></tr><tr><td>11</td><td>1570</td><td>1541</td><td>23</td><td>312</td><td>338</td><td>35</td><td>47</td><td>51</td></tr><tr><td>12</td><td>502</td><td>486</td><td>24</td><td>351</td><td>371</td><td>36</td><td>838</td><td>879</td></tr></table></body></html>
+
+资料来源：冯士雍，倪加勋，邹国华，抽样调查理论与方法，中国统计出版社，1998.
+
+第一步：依据规模变量 $X _ { i }$ 从大到小排序，计算 $n p _ { 1 }$ ，并判断是否满足修正汉森-赫维茨估计量的条件。
+
+计算得 ${ p _ { 1 } } \mathrm { { = } } 0 . 1 6 3$ ， $n = 1 1$ ；满足 $n p _ { 1 } > 1$ 。这里说明一点，教材中原例题取6个样本，如果 $\scriptstyle \mathrm { n = 6 }$ ，即出现了 $n p _ { 1 } < 1$ 的情况无法满足使用修正汉森-赫维茨估计量的条件。一种可以使用教材中的方法，利用汉森-赫维茨估计量去估计；另一种就是扩大样本量，使其满足 $n p _ { 1 } > 1$ ，从而可以使用修正汉森-赫维茨估计量。由于其他教材中的例子多为只给出PPS 样本而没有给出抽取的总体数据，从而没办法抽样比较。因此这里选用该例子并把抽取样本数改为11，这并不影响与汉森-赫维茨估计量的比较。
+
+第二步：确定 $n _ { \mathrm { { 1 } } }$ 。
+
+由 $p _ { 1 } = \sum _ { i = 1 } ^ { N _ { 1 } } z _ { i } \mathrm { ~ , ~ } N _ { 1 } = n _ { 1 }$ ，计算出所有可能 $N _ { \mathrm { 1 } }$ 下的 ${ p } _ { 1 }$ ， $p _ { 2 } = 1 - p _ { 1 }$ ，由此计算出 $p _ { 2 } / n _ { 2 }$ ，并找出使 $p _ { 2 } / n _ { 2 }$ 取最小值的 $n _ { \mathrm { { 1 } } }$ ，计算结果见表2
+
+表2 $\mathtt { n _ { 1 } }$ 的确定  
+
+<html><body><table><tr><td>n1</td><td>n2</td><td>p1</td><td>p2</td><td>p2/n2</td></tr><tr><td>1</td><td>10</td><td>0.163102</td><td>0.836898</td><td>0.08369</td></tr><tr><td>2</td><td>9</td><td>0.25505</td><td>0.74495</td><td>0.082772</td></tr><tr><td>3</td><td>8</td><td>0.344831</td><td>0.655169</td><td>0.081896</td></tr><tr><td>4</td><td>7</td><td>0.42985</td><td>0.57015</td><td>0.081450</td></tr><tr><td>5</td><td>6</td><td>0.487897</td><td>0.512103</td><td>0.085350</td></tr><tr><td>6</td><td>5</td><td>0.533276</td><td>0.466724</td><td>0.093345</td></tr><tr><td>7</td><td>4</td><td>0.572426</td><td>0.427574</td><td>0.106893</td></tr><tr><td>8</td><td>3</td><td>0.610982</td><td>0.389018</td><td>0.129673</td></tr><tr><td>9</td><td>2</td><td>0.645097</td><td>0.354903</td><td>0.177452</td></tr><tr><td>10</td><td>1</td><td>0.677479</td><td>0.322521</td><td></td></tr></table></body></html>
+
+由图1可以看出 $n _ { \mathrm { 1 } } { = } 4$ 时 $p _ { 2 } / n _ { 2 }$ 为最小，即“重要”单元的个数 $N _ { 1 } = n _ { 1 }$ 确定完成，也就是排在前4个的单元为 $G _ { \imath }$ 全部入样。单位号分别为：4，10，18，11。
+
+![](images/12cc1b752a6c0751f8d61116f2376fac87580d4eac9452e3e317173e35e86f71.jpg)  
+图1 $\mathtt { n _ { 1 } }$ 的确定
+
+第三步：去除总体中前 $n _ { \mathrm { { 1 } } }$ 个单元后，在剩余的总体中按PPS 抽样的方法抽取$n _ { 2 } = n - n _ { 1 }$ 个单元，至此抽取样本完成。
+
+PPS 抽样的方法很多，这里用代码法抽取 $n _ { 2 }$ 个单元，得到 $G _ { 2 }$ 中的样本单位号为17，25，12，23，36，15，3。
+
+接下来就可以用抽取的样本，利用式（4）算出修正汉森-赫维茨估计量，估计该系统当年的职工总人数，式（6）可以估计出该估计量的方差。与冯士雍，倪加勋，邹国华（1998）类似，这里也用如上三步同样的方法抽取出四组样本，单位号分别为：
+
+样本l：4，10，18，11；17，25，12，23，36，15，3  
+样本Il：4，10，18，11；24，14，19，21，7，36，25  
+样本ⅢI:4，10，18，11;5，24，14，1，17，3，13  
+样本V:4，10，18，11；13，24，15，25，19，21，1
+
+计算出修正汉森-赫维茨估计量和汉森-赫维茨估计量及各自估计量方差的 估计值，见表3
+
+表3 两种方法的总值估计及标准差的比较  
+
+<html><body><table><tr><td>样本</td><td>Y 1 mHH</td><td>√v(YH）</td><td>Y</td><td>Vv(</td><td>√V(Y)</td></tr><tr><td>样本I</td><td>19791.99</td><td>335.7994</td><td>19780.62</td><td>411.8905</td><td>647.8042</td></tr><tr><td>样本Ⅱ</td><td>19671.38</td><td>104.9526</td><td>19646.18</td><td>205.9549</td><td>647.8042</td></tr><tr><td>样本Ⅲ</td><td>19531.34</td><td>121.9562</td><td>19490.09</td><td>200.4539</td><td>647.8042</td></tr><tr><td>样本IV</td><td>19568.66</td><td>122.5135</td><td>19531.69</td><td>204.6205</td><td>647.8042</td></tr></table></body></html>
+
+表3第二列和第三列分别是修正汉森-赫维茨估计量及估计量的标准差，第四列和第五列分别是同样本下传统汉森-赫维茨估计量及估计量的标准差。从中可以看出，修正后的汉森-赫维茨估计量的标准差均小于其相应汉森-赫维茨估计量的标准差。这一结果与前述理论一致，修正后的汉森-赫维茨估计量要优于汉森-赫维茨估计量。另外需要说明的是，冯士雍，倪加勋，邹国华（1998）中汉森-赫维茨估计量的方差与本文中汉森-赫维茨估计量的方差不一样，多数偏大。一方面是因为抽选的样本不同，更重要的是本文的样本量（ $\cdot n = 1 1$ ）比前者样本量（ $\scriptstyle \mathsf { n } = 6$ ）大。但是，同样本情况下相比，修正汉森-赫维茨估计量要明显优于汉森-赫维茨估计量。
+
+# 5.2中国城市人口抽样调查
+
+接下来通过对中国655个城市人口调查来说明修正汉森-赫维茨估计量的应用及优势。以最近一次的人口普查数据（2010年）为依据，对中国655个城市依据其人口数从大到小排序。估计中国655个城市的人口数，这里取样本量约为总数的 $1 0 \%$ ，即为66个城市来估计调查年份（2014年）中国655个城市的总人□。数据来自于http://www.stats.gov.cn/。
+
+第一步：按照普查年份的人口数对655个城市排序，计算 $n p _ { 1 } = 1 . 6 2$ 大于1,可以使用修正汉森-赫维茨估计量。
+
+第二步：计算所有可能 $n _ { \mathrm { 1 } }$ 下的 $p _ { 2 } / n _ { 2 }$ 的值，并找出使 $p _ { 2 } / n _ { 2 }$ 取最小值的 $n _ { \mathrm { { 1 } } }$ 。这里只列出了前10个，后面 $p _ { 2 } / n _ { 2 }$ 依次增加故省略。
+
+表4 $\mathtt { n _ { 1 } }$ 的确定  
+
+<html><body><table><tr><td>n1</td><td>n2</td><td>p1</td><td>p2</td><td>p2/n2</td></tr><tr><td>1</td><td>65</td><td>0.024488</td><td>0.975512</td><td>0.015008</td></tr></table></body></html>
+
+<html><body><table><tr><td>2</td><td>64</td><td>0.045565</td><td>0.954435</td><td>0.014913</td></tr><tr><td>3</td><td>63</td><td>0.064251</td><td>0.935749</td><td>0.01485</td></tr><tr><td>4</td><td>62</td><td>0.077379</td><td>0.922621</td><td>0.014881</td></tr><tr><td>5</td><td>61</td><td>0.090113</td><td>0.909887</td><td>0.014916</td></tr><tr><td>6</td><td>60</td><td>0.100536</td><td>0.899464</td><td>0.014991</td></tr><tr><td>7</td><td>59</td><td>0.109364</td><td>0.890636</td><td>0.015096</td></tr><tr><td>8</td><td>58</td><td>0.117967</td><td>0.882033</td><td>0.015207</td></tr><tr><td>9</td><td>57</td><td>0.126364</td><td>0.873636</td><td>0.015327</td></tr><tr><td>10</td><td>56</td><td>0.134471</td><td>0.865529</td><td>0.015456</td></tr><tr><td></td><td>…</td><td>…</td><td>…</td><td>：</td></tr></table></body></html>
+
+由表4可以看出 $n _ { \mathrm { 1 } } = 3$ 时， $p _ { 2 } / n _ { 2 }$ 达到最小值。这3个“重要”单元的城市分别是排序后排在前三位的重庆市，上海市，北京市。
+
+第三步，用PPS抽样的方法抽取剩下的63个样本。得到66个样本城市见表5。
+
+已知普查年份城市人口数为637359998人，根据式（4）得到调查年份城市人口数为659772963人，式（6）得到估计量标准差的估计值是2996092人。如果用汉森-赫维茨估计量得到调查年份城市人口数为658451503人，估计量标准差的估计值是3710747人，要比修正后的汉森-赫维茨估计量标准差大很多。如果按照冯士雍，倪加勋，邹国华（1998）中重复多次上述操作比较其结果，也能得出上述类似结论。
+
+# 6总结评价与展望
+
+通过上述的论证和实例的检验与分析可以看出，修正汉森-赫维茨估计量要明显优于传统的汉森-赫维茨估计量。而齐夫现象的广泛性，也说明了本文所提方法应用范围的广泛。当然，如果在应用中没有满足修正汉森-赫维茨估计量的使用条件即 $n p _ { 1 } > 1$ ，可以通过扩大样本量使其满足条件，然后再应用修正汉森-赫维茨估计量。值得一提的是，本文还解决了长期以来在抽样的实践中将部分“重要”单元直接入样，到底多少“重要”单元入样为宜没有明确方法的问题。本文给出了明确的方法和计算公式，即在所有可能的 $n _ { \mathrm { { 1 } } }$ 中，找使 $p _ { 2 } / n _ { 2 }$ 取最小值的$n _ { \mathrm { { 1 } } }$ ，这个 $n _ { \mathrm { { 1 } } }$ 就是需要直接入样的单元数。本文最后的两个案例再次印证了修正汉森-赫维茨估计量应用的广泛性和优势。可以预见，将已证明的事物规律应用于抽样调查，不会仅限于此，更多的辅助信息与方法会更好的应用于抽样调查，促进抽样调查水平的不断提高。
+
+表5  
+66个样本城市普查年份和调查年份人口数  
+
+<html><body><table><tr><td>城市</td><td>2010年</td><td>2014年</td><td>城市</td><td>2010年</td><td>2014年</td><td>城市</td><td>2010年</td><td>2014年</td></tr></table></body></html>
+
+<html><body><table><tr><td>重庆市</td><td>15607433</td><td>19438702</td><td>菏泽市</td><td>1527571</td><td>1555668</td><td>双城市</td><td>821756</td><td>808283</td></tr><tr><td>上海市</td><td>13433709</td><td>13709152</td><td>遂宁市</td><td>1504196</td><td>1523315</td><td>普兰店市</td><td>817837</td><td>923145</td></tr><tr><td>北京市</td><td>11909663</td><td>12631493</td><td>宣威市</td><td>1478563</td><td>1529228</td><td>铜川市</td><td>759827</td><td>747664</td></tr><tr><td>武汉市</td><td>8367323</td><td>8273117</td><td>简阳市</td><td>1468168</td><td>1487044</td><td>义乌市</td><td>739838</td><td>766604</td></tr><tr><td>天津市</td><td>8116493</td><td>8344259</td><td>齐齐哈尔市</td><td>1415146</td><td>1382338</td><td>盖州市</td><td>728823</td><td>703959</td></tr><tr><td>广州市</td><td>6642840</td><td>6949637</td><td>漯河市</td><td>1408206</td><td>1341481</td><td>舟山市</td><td>697226</td><td>709040</td></tr><tr><td>西安市</td><td>5626490</td><td>5871627</td><td>大庆市</td><td>1333657</td><td>1365550</td><td>攀枝花市</td><td>689654</td><td>683575</td></tr><tr><td>沈阳市</td><td>5154241</td><td>5284407</td><td>榆树市</td><td>1304436</td><td>1275220</td><td>长乐市</td><td>685105</td><td>715790</td></tr><tr><td>杭州市</td><td>4348166</td><td>4584653</td><td>福清市</td><td>1275016</td><td>1335158</td><td>荣成市</td><td>670251</td><td>669403</td></tr><tr><td>长春市</td><td>3627536</td><td>3658620</td><td>泰兴市</td><td>1196164</td><td>1198791</td><td>清远市</td><td>655672</td><td>672375</td></tr><tr><td>乌鲁木齐市</td><td>2335780</td><td>2606434</td><td>瑞安市</td><td>1190519</td><td>1231071</td><td>涿州市</td><td>645542</td><td>670571</td></tr><tr><td>普宁市</td><td>2325688</td><td>2444622</td><td>吴川市</td><td>1101691</td><td>1178370</td><td>石河子市</td><td>629651</td><td>637204</td></tr><tr><td>合肥市</td><td>2155767</td><td>2453691</td><td>资阳市</td><td>1089424</td><td>1105495</td><td>西昌市</td><td>618540</td><td>652947</td></tr><tr><td>兰州市</td><td>2103639</td><td>2048802</td><td>晋江市</td><td>1065770</td><td>1108142</td><td>霸州市</td><td>618273</td><td>639732</td></tr><tr><td>福州市</td><td>1885939</td><td>1974319</td><td>章丘市</td><td>1015129</td><td>1023903</td><td>贵溪市</td><td>600398</td><td>637941</td></tr><tr><td>南阳市</td><td>1885076</td><td>1974549</td><td>肥城市</td><td>978866</td><td>988737</td><td>晋中市</td><td>595208</td><td>612206</td></tr><tr><td>六安市</td><td>1865174</td><td>1891181</td><td>大冶市</td><td>942641</td><td>958960</td><td>平湖市</td><td>486996</td><td>491379</td></tr><tr><td>陆丰市</td><td>1770654</td><td>1886043</td><td>金华市</td><td>931854</td><td>950886</td><td>南宫市</td><td>476096</td><td>497387</td></tr><tr><td>商丘市</td><td>1769870</td><td>1804862</td><td>庄河市</td><td>905852</td><td>903662</td><td>伊宁市</td><td>471462</td><td>559691</td></tr><tr><td>滕州市</td><td>1681431</td><td>1693074</td><td>保山市</td><td>900024</td><td>925523</td><td>延安市</td><td>458166</td><td>464885</td></tr><tr><td>化州市</td><td>1612431</td><td>1698541</td><td>岑溪市</td><td>898166</td><td>933674</td><td>铜陵市</td><td>448284</td><td>448738</td></tr><tr><td>宿迁市</td><td>1597733</td><td>1720004</td><td>利川市</td><td>895597</td><td>917101</td><td>中卫市</td><td>395899</td><td>406426</td></tr></table></body></html>
+
+# [参考文献]
+
+[1] Hansen MH, Hurwitz W N. On the Theory of Sampling from Finite Populations[J]. Annals of the Rheumatic Diseases.1943,70(12): 2111-2118. [2] Yates F,Grundy P M. Selection without replacement from within strata with probability proportional to sue[J]. Journal of the Royal Statistical Society. 1953,15(2): 253-261. [3] Kim Y, Kim Y,Han H,et al. Efficiency of Variance Estimators for Two-stage PPS Systematic Sampling[J]. Korean Journal of Applied Statistics.2013,26(6):1033-1041. [4] Patel P A，Bhatt S.A Model-based Estimation of Finite population Variance under PPS Sampling[J].Imperial Journal of Interdisciplinary Research.2O16,2(4). [5] 邹国华，冯士雍．放回的PPS抽样方案在放回抽样方案类中的可容许性[J]．科学通报. 1995(08): 683-686. [6] 孙山泽，姜涛.PPS样本的轮换抽样[J]．数理统计与管理.2002(04):61-64. [7] 刘建平，陈光慧.MPPS抽样下Hansen-Hurwitz估计量的扩展[J]．统计研究.2005(05):50-53. [8]陈光慧，曹伟伟．半参数乘积调整模型的抽样估计方法及应用研究[J].数理统计与管理. 2017: 1-14. [9] 李莉莉．基于Brewer抽样的不放回样本追加策略下域的估计[J].数理统计与管理.2017(04): 651-660. [10] 孟令宾，李二倩，田茂再．基于鞍点逼近的二项抽样下优势比的置信区间构造[J].数理统计 与管理.2017(01):85-102.
+
+[11]米子川，李毅．面向SNS大数据的捕获移出模型抽样估计[J]．数理统计与管理．2016(03):424-434.  
+[12] Zipf G. The Psycho-Biology of Language. An Introduction to Dynamic Philology[J]. Journal ofNervous& Mental Disease.1935,85(1): 93.  
+[13] 张忠友.齐夫定律的理论基础及其实践意义[J]．情报科学.1989(5):62-66.  
+[14] 徐兴余.20/80律与布一齐一洛三个定律之间的关系[J].图书情报工作.2003(8):39-42.[15]冯士雍，倪加勋，邹国华.抽样调查理论与方法[M]．中国统计出版社,1998.
+
+附录：证明： P2序列随n 的增大将表现为先减小后增大，或者一直增大。$n _ { 2 }$ 证明：为便于说明，令 $n _ { 1 } = 1 , 2 , \cdots , i , \cdots , { \mathrm { n } } { \mathrm { - } } 1$ 生成的 $\underline { { p _ { 2 } } }$ 数列为 $a _ { 1 } , a _ { 2 } , \mathbf { L } , a _ { i } , \mathbf { L } , a _ { n - 1 }$ （204号$n _ { 2 }$ 此时,$n _ { 2 } = n - 1 , n - 2 , \mathbf { L } , n - i , \mathbf { L } , 1$ （20 $p _ { 1 } = z _ { 1 } , z _ { 2 } , \mathbf { L } , z _ { i } , \mathbf { L } z _ { n - 1 }$ ；即 $z _ { i }$ $\mathbf { \Phi } _ { \cdot _ { i } } , \ i = 1 , 2 , \mathbf { L } , n - 1$ ，且 $z _ { 1 } > z _ { 2 } > \mathbf { L } z _ { i } > \mathbf { L } > z _ { n - 1 } , \ 0 < z _ { i } < 1$ $p _ { 2 } = 1 - z _ { 1 } , 1 - z _ { 2 } , \mathbf { L } , 1 - z _ { i } , \mathbf { L } , 1 - z _ { n - 1 }$ （204号当 $n _ { \mathrm { { 1 } } } = 1$ 时，由使用修正汉森-赫维茨估计量条件知 $n p _ { 1 } > n _ { 1 } = 1 , p _ { 1 } > \frac { 1 } { n }$ 即$z _ { 1 } > \frac { 1 } { n }$ 此时有 $a _ { 1 } = \frac { p _ { 2 } } { n _ { 2 } } = \frac { 1 - z _ { 1 } } { n - 1 }$ 当 $n _ { \mathrm { { 1 } } } = 2$ 时， $a _ { 2 } = \frac { p _ { 2 } } { n _ { 2 } } = \frac { 1 - z _ { 1 } - z _ { 2 } } { n - 2 }$ 考察： $a _ { 1 } - a _ { 2 } = \cfrac { 1 - z _ { 1 } } { n - 1 } - \cfrac { 1 - z _ { 1 } - z _ { 2 } } { n - 2 } = \cfrac { 1 - z _ { 1 } } { n - 1 } - \cfrac { 1 - z _ { 1 } } { n - 2 } + \cfrac { z _ { 2 } } { n - 2 } = \left( \cfrac { - 1 } { ( n - 1 ) ( n - 2 ) } \right) \left( 1 - z _ { 1 } \right) + \cfrac { z _ { 2 } } { n - 2 }$ 若要使 $a _ { 1 } > a _ { 2 }$ ，只需要 $\cdot \left( \frac { - 1 } { ( n - 1 ) ( n - 2 ) } \right) \left( 1 - z _ { 1 } \right) + \frac { z _ { 2 } } { n - 2 } > 0$ 即Z2 $z _ { 2 } > \frac { 1 } { n - 1 } \left( 1 - z _ { 1 } \right) , ~ \because _ { z _ { 1 } } > \frac { 1 } { n } , ~ \therefore 1 - z _ { 1 } < 1 - \frac { 1 } { n }$ 于是只需要使 $z _ { 2 } > \frac { 1 } { n - 1 } \frac { n - 1 } { n } = \frac { 1 } { n }$ 即可，
+
+所以只要 $z _ { 2 } > \frac { 1 } { n }$ ，就有a>a。  
+同理，  
+$\begin{array} { r l } & { \quad _ { + 1 } = \frac { 1 - z _ { 1 } - z _ { 2 } - \mathbf { L } - z _ { i } } { n - i } - \frac { 1 - z _ { 1 } - z _ { 2 } - \mathbf { L } - z _ { i + 1 } } { n - ( i + 1 ) } } \\ & { \qquad = \frac { 1 - z _ { 1 } - z _ { 2 } - \mathbf { L } - z _ { i } } { n - i } - \frac { 1 - z _ { 1 } - z _ { 2 } - \mathbf { L } - z _ { i } } { n - ( i + 1 ) } + \frac { z _ { i + 1 } } { n - ( i + 1 ) } } \\ & { \qquad = \left( \frac { - 1 } { ( n - i ) \left[ n - ( i + 1 ) \right] } \right) \left( 1 - z _ { 1 } - z _ { 2 } - \mathbf { L } - z _ { i } \right) + \frac { z _ { i + 1 } } { n - ( i + 1 ) } } \end{array}$ 若要使 $a _ { i } > a _ { i + 1 }$ ，需要  
+$\left( \frac { - 1 } { \left( n - i \right) \left[ n - \left( i + 1 \right) \right] } \right) \left( 1 - z _ { 1 } - z _ { 2 } - \mathbf { L } - z _ { i } \right) + \frac { z _ { i + 1 } } { n - \left( i + 1 \right) } > 0$ 即 $z _ { i + 1 } > \frac { 1 } { n - i } \left( 1 - z _ { 1 } - z _ { 2 } - \mathbf { L } - z _ { i } \right)$   
+$\because z _ { 1 } , z _ { 2 , } \mathbf { L } , z _ { i } > \frac { 1 } { n } , \thinspace \thinspace \thinspace \thinspace \div 1 - z _ { 1 } - z _ { 2 } - \mathbf { L } - z _ { i } < 1 - \frac { i } { n } = \frac { n - i } { n }$ 于是只需要使 $z _ { i + 1 } > \frac { 1 } { n - i } \frac { n - i } { n } = \frac { 1 } { n }$ 即可，  
+因此序列 $a _ { i }$ ，即 $\frac { p _ { 2 } } { \mathbf { \Phi } _ { m } }$ 随 $n _ { \mathrm { { 1 } } }$ 的增大在减小。  
+n2  
+注意到： $z _ { 1 } > z _ { 2 } > \mathbf { L } \lor z _ { i } > \mathbf { L } > z _ { n - 1 }$ ，且 $0 < z _ { i } < 1$ ，一定会有此时， P2开始增大。$z _ { j } < \frac { 1 } { n }$ $n _ { 2 }$ （20  
+综上， P先减小后增大。n2  
+如果 $z _ { 1 } < \frac { 1 } { n }$ ，那么 $\underline { { p _ { 2 } } }$ 就一直增大。$n _ { 2 }$ （20

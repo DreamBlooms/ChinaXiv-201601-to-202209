@@ -1,0 +1,282 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高效能沉默BMP-7基因siRNA序列的实验筛选",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李彩霞1²，白鹏²，赵 娴²，董 苑²,代晓明²，李逸松²，刘 流²  \n1昆明医科大学,云南 昆明 650500；昆明医科大学第一附属医院,云南 昆明650032",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 骨形态发生蛋白(bone morphogenetic protein-7,BMP-7)是一种促进骨和软骨再生的关键性生长因子,旨在筛选高效能BMP-7siRNA序列,为后续探讨BMP-7的生物学作用机制的基础和临床应用研究提供实验研究技术手段。方法本实验针对BMP-7基因，构建出相应4条siRNA序列，分别将其转染至大鼠脐静脉内皮细胞，转染72h后用Wb和RT-PCR方法检测BMP-7蛋白和BMP-7mRNA表达水平,筛选出最高效的BMP-7siRNA序列。结果人工合成的4条BMP-7siRNA序列都能有效抑制大鼠脐静脉内皮细胞的BMP-7表达,其中BMP-7-3siRNA序列抑制效果最为明显,抑制率大于 $90 \\%$ ，被确认为体外抑制BMP-7表达最为有效的干扰序列。结论 BMP-7-3 siRNA序列能够在体外高效能抑制BMP-7表达,故可作为一种实验研究技术手段，用于探讨BMP-7的生物学作用机制的基础和临床应用研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：骨形态发生蛋白；筛选；小干扰RNA",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Screening of highly eficient small interfering RNAs against bone morphogenetic protein-7 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I Caixial2,BAI Peng²,ZHAO Xian2,ONG Yuan2,DAI Xiaoming²,LIYisong2,Liu² Kunmingicalityg;flalfgicalityg ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Objective Toobtain highly eficient smallinterfering RNAs (siRNAs)against bone morphogenetic protein-7 (BMP-7) forfuture functional analysis of BMP-7 in bone homeostasis.Methods We designed 4 independent siRNA sequences against rat BMP-7 and transfected them in rat umbilical vein endothelial cells. After $^ { 7 2 \\mathrm { ~ h , ~ } }$ we examined BMP-7 mRNA and protein level in the transfected cels using real-time PCRand Western bloting,respectively. Results Allthe4 siRNAs effectively reduced BMP-7 expression inrat umbilical veinendothelial cels，andamong them BMP-7-3 siRNA showed thehighest fficiency.Conclusion WehaveobtainedaneficientsiRNAtoknockdownBMP-7expresioninvitroforfurther investigation of the role of BMP-7 in bone and cartilage formation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: bone morphogenetic protein-7; screening; small interfering RNA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "各类先天或后天原因造成的骨缺损是临床上常见疾病之一，而此类骨缺损的修复一直是较难解决的问题。因此，骨及软骨形成在骨缺损的修复中生物学作用的研究日益受到重视。近年来研究发现，骨形态发生蛋白（bone morphogenetic proteins,BMPs)是骨及软骨形成过程中的关键性生长因子，在胚胎发育、骨和软骨的形成和修复过程中发挥着重要作用[1-3]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前的研究表明，骨形态发生蛋白-7(BMP-7)是一种具有强大骨诱导活性的成骨因子，不但具有强大的成骨作用，而且对关节软骨也有明显的促进修复作用，能诱导间充质细胞分化为成骨细胞和成软骨细胞。随着研究的深入，BMP-7有望在骨折愈合、骨折延迟愈合、骨不连以及创伤性、退行性骨关节炎的治疗中发挥重要的作用[45]。天然的BMP-7在动物的骨骼中含量极低,基因工程可制造生产大量重组人骨形态发生蛋白-7(rhBMP-7)，美国FDA已批准rhBMP-7用于临床整形外科和口腔外科，并在临床应用中取得了令人满意的结果,这些都证明了BMP-7在骨缺损修复应用中有着前景广阔。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本研究应用RNA干扰技术，设计构建出4条BMP-7基因siRNA序列，旨在筛选出其中最为高效能的一条序列，为后续探讨BMP-7的生物学作用机制的基础和临床应用提供新的实验研究手段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1材料与试剂",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大鼠脐静脉内皮细胞购自(编号：rat-cell-0090)购自美国Pricell；STBL3大肠菌购自上海北诺生物科技有限公司；胎牛血清及双抗购自Millipore;DMEM高糖培养基购自Hyclone;Opti-MEM购自Giboco;RNA提取试剂盒购自OMEGA;RNA逆转录和PCR试剂盒购自GeneCopoeia;BCA蛋白浓度测定试剂盒购自",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Beyotime。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 大鼠脐静脉内皮细胞(UVECs)的培养 大鼠UVECs用ECM专用培养基培养，置于 $3 7 \\%$ （204 $\\mathrm { C O } _ { 2 }$ 培养箱中培养；转染前2d,将细胞铺到6孔板中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2BMP-7千扰质粒构建干扰质粒由广州复能基因有限公司完成（shRNA编号，RSH055406-HIVmU6(NCBI号NM_001191856.1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3BMP-7慢病毒干扰载体的扩增 (1)感受态细胞制作及BMP-7干扰载体转化大肠杆菌：取STBL3大肠菌均匀涂布于LB平板上 $3 7 ^ { \\circ } \\mathrm { C }$ 倒置培养 $1 2 \\mathrm { h }$ ，挑取单克隆菌株接种于 $5 \\mathrm { m l } \\mathrm { L B }$ 液体培养基， $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C } 2 0 0$ $\\mathrm { { r } / \\mathrm { { m i n } } }$ 振荡培养 $1 2 \\mathrm { h }$ 。从 $2 ~ \\mathrm { m l }$ 过夜培养物中取$1 \\mathrm { m l }$ 接种于 $2 0 ~ \\mathrm { m l }$ 的LB培养基中， $3 7 ~ \\mathrm { ^ { \\circ } C }$ 剧烈震荡培养至 $_ { \\mathrm { O D = 0 . 3 - 0 . 5 } }$ ；取 $1 \\mathrm { m l }$ 于无菌EP管中，$1 0 \\ 0 0 0 \\ \\mathrm { r / m i n }$ 离心 $3 0 ~ \\mathrm { s }$ ;弃上清，沉淀用 $0 . 2 { \\mathrm { ~ m l } }$ 冰冷氯化钙悬浮，冰浴 $1 5 \\mathrm { m i n }$ ： $1 0 0 0 0 \\mathrm { r / m i n }$ 离心 $3 0 ~ \\mathrm { s } .$ 取沉淀， $0 . 2 { \\mathrm { ~ m l } }$ 氯化钙溶液悬浮；取 $1 \\mu \\mathrm { l }$ BMP-7质粒，加至制好的感受态细胞中，冰浴$3 0 \\ \\mathrm { m i n } ; 4 2 \\ \\mathrm { } ^ { \\circ } \\mathrm { C }$ 热激 $9 0 \\mathrm { ~ s ~ }$ ，放于冰浴 $5 ~ \\mathrm { m i n }$ ;加入$8 0 0 \\mu \\mathrm { l }$ 培养基， $3 7 \\ \\mathrm { { ^ { \\circ } C } }$ 振荡温育1h;取 $2 0 0 \\mu \\mathrm { l }$ 涂布于含 $1 0 0 ~ \\mathrm { \\mu g / m l }$ Amp的LB固体培养基上;倒置于 $3 7 \\ \\mathrm { { ^ { \\circ } C } }$ 培养箱中培养过夜至菌落清晰;(2)筛选阳性克隆及扩大培养：挑取单克隆菌落，接种于 $5 \\mathrm { m l }$ 氨苄青霉素抗性的LB液体培养基上， $3 7 \\mathrm { ~ \\textdegree ~ { ~ } } 2 0 0 \\mathrm { ~ r / m i n }$ 振荡培养 $1 2 \\mathrm { ~ h _ o }$ 取过夜培养菌液接种于 $2 0 0 ~ \\mathrm { m l }$ LBamp抗性液体培养基 $3 7 \\mathrm { ~ \\textdegree ~ { ~ } 2 0 0 ~ r / m i n }$ 振荡培养 $1 2 { \\sim } 1 6 \\mathrm { h }$ ：(3)提取无内毒素级别BMP-7干扰质粒：重组质粒DNA的提取参照(OMEGA无内毒素质粒大提试剂盒)上的实验步骤。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4BMP-7干扰质粒转染细胞待细胞长到 $80 \\%$ 密度时进行质粒转染：准备2个 $1 . 5 \\mathrm { m l }$ 的灭菌离心管，每管加入 $1 0 0 \\mu \\mathrm { l }$ Opti-MEM培养基,将 $2 . 5 ~ { \\mu \\mathrm { g } }$ 的质粒稀释到其中1支离心管中,将 $1 0 ~ \\mu \\mathrm { l }$ lipofectamine 2Ooo Reagent稀释到另1只离心管中；将稀释好的质粒逐滴加到Lipofectamine 2OooReagent中,室温下孵育 $5 \\mathrm { m i n }$ 。将6孔板中的细胞用PBS洗涤，每孔加入 $1 . 8 ~ \\mathrm { m l }$ 的RPMI1640 培养基，再把孵育好的DNA-lipofectamine 2000Reagent复合物加到6孔板中。将细胞放入 $\\mathrm { C O } _ { 2 }$ 培养箱中孵育，孵育6h,更换不含有抗生素的新鲜培养基继续孵育。转染72h后提取总蛋白和总RNA。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.5RT-PCR检测BMP-7的表达收集大鼠脐静脉内皮细胞标本，参照试剂盒提取总RNA。合成cDNA,参照GeneCopoeia逆转录试剂盒配置 $2 5 ~ \\mu \\mu$ 的反应液，取提取的总RNA1 $\\mu \\mathrm { g }$ ，一次加入 $2 5 0 ~ \\mu \\mathrm { m o l / L }$ RandomPrimer $1 \\ \\mu \\mathrm { l } , 6 0 \\ \\mu \\mathrm { m o l } / \\mathrm { L } \\ \\mathrm { O l i g o } ( \\mathrm { d T } ) 1 8 \\ \\mathrm { ~ 1 ~ } \\mu \\mathrm { l } ,$ 加纯水补足$1 3 \\mu 1$ 总体积，之后 $6 5 ~ \\mathrm { { ^ \\circ C } }$ 孵育 $1 0 \\mathrm { m i n }$ ,孵育之后按照顺序加入 $5 { \\times } \\mathrm { R T }$ Reaction Buffer ${ \\bar { 5 } } \\mu 1 , 2 5$ mmol/L Dntp1 $\\mu \\mathrm { l }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$2 5 \\mathrm { \\Delta ~ U / \\mu l }$ RNase Inhibitor $1 \\ \\mu \\mathrm { l } , 2 0 0 \\ \\mathrm { U } / \\mu \\mathrm { l }$ M-MLVRTase $1 ~ \\mu \\mathrm { l }$ ，加纯水补足体系 $2 5 ~ \\mu \\mu 1$ ,ABI2700PCR仪进行逆转录： $; 3 7 ~ \\mathrm { ^ { \\circ } C ~ 6 0 ~ m i n , 8 5 ~ ^ { \\circ } C ~ 5 ~ m i n }$ ，取 $\\mathrm { c D N A } 2 \\mu \\mathrm { l }$ ，依次加入 $2 \\times$ All-in-One qPCRMix $1 0 ~ \\mu \\mathrm { l }$ ,PCR forwardprimer $( 2 \\ \\mu \\mathrm { m o l / L } ) 2 \\ \\mu \\mathrm { l }$ ,PCRreverse primer( $2 \\mu \\mathrm { m o l } / \\mathrm { L } )$ $2 \\mu \\mathrm { l }$ ，纯水 $4 ~ \\mu \\mu$ ，总体系 $2 0 ~ \\mu \\mathrm { l }$ ,Thermo Fisher ScientificPikoreal96荧光定量PCR仪扩增检测相对表达量，扩展条件为： $9 5 ~ \\mathrm { { ^ { \\circ } C } }$ 预变性 $1 0 \\mathrm { m i n } , 9 4 \\mathrm { ~ \\textdegree C }$ 变性 $1 0 \\mathrm { ~ s } , 6 0 \\mathrm { ~ \\textdegree C }$ 退火 $2 0 \\ \\mathrm { s } , 7 2 \\ \\mathrm { ^ c }$ 延伸 $3 0 \\ \\mathrm { s } , 4 0$ 个循环后 $7 2 \\ \\mathrm { { ^ { \\circ } C } }$ 延伸 $1 0 ~ \\mathrm { m i n }$ (引物序列如表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f37274168426cf9e24a42e7d5b2fb067826f0583004ae28e68d13ea40319915.jpg",
+        "table_caption": [
+            "表1PCR引物序列 Tab.1 Primer sequence for PCR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>RNA</td><td>Sequence</td><td>Length (bp)</td><td>Geneticcode</td></tr><tr><td>β-actin</td><td></td><td></td><td></td></tr><tr><td>F</td><td>5'TGGGTATGGAATCCTGTGGCA3'</td><td>90</td><td>NM_031144</td></tr><tr><td>R</td><td>5'TGTTGGCATAGAGGTCTTTACGG3'</td><td></td><td></td></tr><tr><td>BMP7</td><td></td><td></td><td></td></tr><tr><td>F</td><td>5'AGTGTGCCTTCCCTCTGAAC3'</td><td>99</td><td>NM_001191856</td></tr><tr><td>R</td><td>5'AGGGCTTGGGTACGGTGT3'</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.6Westernblotting检测BMP-7的表达用RIPA裂解液裂解大鼠脐静脉内皮细胞，BCA法测定4组蛋白的浓度分别为：BMP-7-1( $0 . 2 5 ~ \\mu \\mathrm { g / \\mu l } )$ ; BMP-7-2$( 0 . 4 3 7 ~ \\mu \\mathrm { g / \\mu l } )$ ；BMP-7-3 $\\left( 0 . 3 8 7 \\ \\mu \\mathrm { g / \\mu l } \\right)$ ；BMP-7-4（ $( 0 . 3 7 5 ~ \\mu \\mathrm { g } / \\mu \\mathrm { l } )$ ,计算上样量。进行 $8 \\%$ SDS-PAGE胶,$9 0 \\mathrm { V }$ 基层胶， $1 2 0 { \\mathrm { V } }$ 分离胶,转膜,加入一抗 $4 \\mathrm { { ^ circ C } }$ 孵育过夜，加入标记的二抗孵育杂交，以 $\\beta$ -Actin(1:5000)为内参对照,通过HRP-ECL法,X光胶片曝光,用Image J软件阅读蛋白灰度，对Western条带进行扫描，进行定量分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1扩大培养的单克隆菌落 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干扰载体转化成功后涂布于含有氨苄青霉素的LB固 体培养基上进行培养，筛选出成功转化的单克隆菌落， 挑取单克隆菌落进行扩大培养，肉眼可见培养基上均 匀涂布的多个菌落。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2RT-PCR检测BMP-7的表达水平",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1大鼠脐静脉内皮细胞细胞样品RNA提取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BMP7-1,BMP7-2,BMP7-3,BMP7-4干扰质粒分别转染HUVEC细胞，转染 $7 2 \\mathrm { { h } }$ 之后，提取细胞样品的总RNA，计算RNA浓度后(表1)，进行琼脂糖凝胶电泳，由图可看出18S及28S有一定降解，但是5S、18S、28 S条带清晰，证明提取的RNA纯度较高，可进行下一步逆转录反应及RealtimePCR反应，电泳结果(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2定量PCR检测结果RealtimePCR反应：反应以$\\beta$ -Actin为内参对照，反应结束后得到β-Actin和BMP-7扩增曲线和溶解曲线。BMP-7溶解曲线呈单峰均一，证明复能合成的引物纯度较高，RT-PCR过程中未形成非特异性产物或引物二聚体。BMP-7干扰后的样品扩增曲线与正常空白样品和阴性对照样品扩增曲线分群明显，空白对照和阴性对照样品扩增曲线靠前，CT值较小，干扰样品扩增曲线靠后，CT值较大。 $\\beta \\mathrm { . }$ -Actin扩增曲线未出现明显分群，表现相差不大。结合两个基因扩增曲线可以大致看出，BMP-7干扰后的样品表达降低，符合实验设想。统计结果显示：合成的4条BMP-7干扰序列都能有效干扰大鼠脐静脉内皮细胞的BMP-7表达,其中的siRNA-3干扰效率明显,干扰效率大于 $90 \\%$ ，与其它各组比较有统计学差异( $P { < } 0 . 0 5 )$ ,结果证实了BMP-7-3siRNA为效率最高的干扰序列(图2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab36bfbf200f2bd77e3b8e0fe59599ba120a828a3f7f848a1e7697d04fc8ef2d.jpg",
+        "img_caption": [
+            "图1大鼠脐静脉内皮细胞细胞样品RNA电泳图 Fig.1Electrophoresis of the total RNAs from rat umbilical vein endothelial cells.M: 20oo bp DNA ladder; Lanes 1-4:Four different interference plasmids; Lane 5: Blank controlNC: Negative control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e54910c2b81c8e115994dc5e8caaf0cdad57614160a90a12826f73232f050757.jpg",
+        "img_caption": [
+            "图2RT-PCR检测各组BMP-7干扰后mRNA相对表达量 Fig.2 Relative BMP-7 mRNA expression detected by real-time PCR. $^ { * } P { < } 0 . 0 5$ Us siRNA-3 group. ",
+            "图4Western blotting检测BMP-7蛋白表达量 Fig.4 BMP-7 protein expression detected by Western blotting. $^ { * } P { < } 0 . 0 5$ Us siRNA-3 group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Wb对BMP-7干扰效果检测结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用构建的4条BMP7干扰质粒分别转染大鼠脐静脉内皮细胞，转染 $7 2 \\mathrm { { h } }$ 之后,Western blotting对样品进行BMP-7蛋白表达进行检测，从而明确其干扰效率。结果显示：BMP-7-3组的BMP-7蛋白表达量显著低于其余各组，表明BMP-7-3干扰质粒的干扰效率最高，而阴性对照和空白组之间比较没有统计学差异(图3)。用ImageJ软件阅读蛋白灰度，对Western条带扫描，进行定量分析，绘制出柱形图，可以看出BMP-7-3siRNA组的BMP-7/ $\\beta$ -Actin表达量明显低于其余各组 $( P { < } 0 . 0 5 )$ ，尤其低于空白对照和空载体对照组(图4)。此结果与RT-PCR所得到的结果吻合。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbcf98803717a49cfe9a948268fc740ce023b2a3e8eed35418a78b05f23cbae3.jpg",
+        "img_caption": [
+            "图3Western bloting检测BMP-7蛋白表达情况 Fig.3 Expression of BMP-7 protein detected by Western blotting. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Prares p-rirgirlirerserrrgaer 0.7   \n0.6   \n0.5   \n4 1   \n0.2   \n0.1   \nBlank Negtive siRNA-1 siRNA-2 siRNA-3 siRNA-4   \ncontrol control ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究利用siRNA技术，针对BMP-7基因构建出相应4条siRNA质粒，扩增后用于转染大鼠脐静脉内皮细胞，应用Wb和RT-PCR方法对4条干扰质粒的干扰效果进行检测筛选，结果发现设计构建的4条BMP-7干扰序列都能有效抑制大鼠脐静脉内皮细胞的BMP-7表达，其中以BMP-7-3siRNA序列干扰效果最为明显，抑制BMP-7表达率大于 $90 \\%$ ,被确认为体外抑制BMP-7表达的高效能BMP-7干扰序列。这一新发现提示BMP-7-3siRNA序列能够在体外高效能抑制BMP-7表达，可作为一种实验研究技术工具，用于探讨BMP-7作用机制的基础和临床应用研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RNA干扰作为现在分子生物学领域中一项较为有效的基因表达沉默技术，其基础是小分子量的双链RNA分子在mRNA水平上诱发的转录后基因沉默机制。siRNA在RNA沉默目标基因中起着中心作用，是对特定mRNA进行降解的指导要素。siRNA的形成主要由Dicer和Rde-1调控完成[7-8]。近年来,siRNA作为基因功能研究和临床治疗的重要工具，已经被广泛用于诱导哺乳动物体系中的RNA干扰，在基因功能研究和基因药物应用具有广泛的前景。本研究应用siRNA生物学技术，实验经过：(1)构建BMP-7干扰质粒(BMP7-1siRNA，BMP7-2 siRNA，BMP7-3 siRNA,BMP7-4siRNA);(2)将4条BMP-7干扰质粒分别转染大鼠脐静脉内皮细胞;(3)RT-PCR检测BMP-7的表达：合成的4条BMP-7干扰序列都能有效干扰大鼠UVECs的BMP-7表达;(4)Westernblotting对BMP-7干扰效果进行定量检测，完成体外高效能沉默BMP-7干扰序列的检测和筛选，获得并确认BMP-7-3siRNA序列能够在体外高效能抑制BMP-7表达。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BMP-7是骨形态发生蛋白家族中的重要成员之一，被认为是骨形成过程的关键性生长因子,能诱导间充质细胞分化为成骨细胞和骨细胞，具有促进钙化及促进钙化的骨基质完成骨修复的作用[910]。研究表明：BMP-7通过激活Smads信号传导和调节成骨基因转录而发挥其成骨作用。大量的前期研究发现，包括Smad1、Smad4、Smad7等13种相关转录因子在内，BMP-7作为其上游调控因子，可以在这些基因的表达中发挥作用。BMP-7的作用机制主要有：具有强烈的骨诱导活性，可在异位诱导新骨形成;通过作用于软骨内骨化的两个阶段影响软骨细胞分化标志基因的表达，在软骨内骨化的级联机制中起重要的作用[2；促进成骨细胞增殖、碱性磷酸酶和软骨细胞蛋白多糖表达和关节软骨缺损的修复，在骨折愈合及软骨缺损修复中发挥重要作用[13-14]。上世纪80年代末,第一个编码序列为BMP的家庭成员被克隆和表达，开创了未来治疗疾病的可能性,但直到2001年和2002年，美国食品药品管理局才批准使用,它们分别是rhBMP7（Eptotermin- $\\mathbf { \\nabla } \\cdot \\mathbf { a } _ { } $ 和rhBMP2（Dibotermin- $\\mathbf { \\nabla } \\cdot \\mathbf { a } _ { } $ )。BMPs有多个表达生物活性的重组表达系统，如埃希氏杆菌，巴斯德毕赤酵母，杆状病毒/昆虫细胞和哺乳动物细胞[15-17]。然而,用于临床治疗目的，能够使BMPs糖基化的真核表达系统，该系统中BMPs必需大量表达且确保生物活性没有免疫原性。将rhBMP-7同其他的生长因子复合在一起应用于临床的研究已成为今后的主要研究方向。因此,研究BMP-7在促进成骨中的生物学作用机制,对解决目前组织工程骨在体内成骨缓慢和影响临床骨缺损修复应用的难题,具有重要的临床价值和意义。本研究结果提示BMP-7-3siRNA序列能够在体外高效能抑制BMP-7表达，可作为用于探讨BMP-7作用机制的基础和临床应用研究的一种实验技术工具。这有助于为今后开展BMP-7在骨缺损修复应用研究提供实验依据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]Hidaka C,Goodrich LR, ChenCT, et al. Acceleration of carti lage repair by genetically modified chondrocytes over expressing bone morphogenetil protein-7[J]. JOrthop Res,2003,21(4): 573-83.   \n[2]Breitbart AS,Grande DA,Mason JM,et al. Gene-enhanced tissue engineering:applications for bone healing using cultured periosteal cells transduced ret rovirally with the BMP-7 gene［J].Ann Plast Surg,1999,42(5): 488-95.   \n[3]Chubinskaya S,Hurtig M,Rueger DC. OP-1/BMP-7 in cartilage repair[J]. Int Orthop,2007,31(6): 773-81.   \n[4]Michael JW,Schluiter-Brust K,epidemiology ET,et al. Diagnosis, and treatment of osteoarthritis of the knee[J].Dtsch Arztebl Int, 2010, 107(9): 152-62.   \n[5]Chen GQ,Deng CX,Li YP. TGF-beta and BMP Signaling in Osteoblast Differentiation and Bone Formation[J]. Int J Biol Sci, 2012, 8(2): 272-88.   \n[6]De Biase P, Capanna R.Clinical applications of BMPs[J].Injury, 2005,36: S43-6.   \n[7]Duxbury MS.Whang EE RNA nterference a Practical approach[J]. J Surg Res,2004,17(2): 339-44.   \n[8]Bohula EA,Salisbury AJ,Sohail M,et al. The efficacy of small interfering RNAs targeted to the type I insulin-like growth factor re ceptor(IGFlR) is influenced by secondary structure in the IGFIR transcript[J].JBiochem,2003,278(18): 15991-7.   \n[9]Al-Salleeh F, Beatty MW, Reinhardt RA,et al. Human osteogenic protein-1 induces osteogenic differentiation of adipose-derived stem cells harvested from mice[J].Arch Oral Biol,20o8,53(10): 928-36.   \n[10] Koh JT, Zhao Z,Wang Z,et al. Combinatorial gene therapy with BMP2/7 enhances cranial bone regeneration[J].JDent Res,2008, 87(9): 845-9.   \n[11]Lieberman JR,Daluiski A, Steverson S,et al. The effect of regional gene therapy with bone morphogenetic protein-2-produ-cing bone-marrow cells on the repair of segmental femoral defect in rats [J].J Bone Joint Surg (Am),1999,81(7): 905.   \n[12] Chubinskaya S,Kuettner K. Regulation of osteogenic proteins by chondrocytes[J].Int JBiochem Cell Biol, 2003,35(2): 1323-40.   \n[13] Shen B,Wei A，Whitaker S,et al.The role of BMP-7 in chondrogenic and osteogenic differentiation of human bone marrowmultipotent mesenchymal stromal cells in vitro [J].J Cell Biochem,2010,109(3): 406-16.   \n[14] Chubinskaya S,Hakimiyan A,Pacione C,et al. Synergistic effect of IGF-1 and OP-1 on matrix formation by normal and OA chondrocytes cultured in alginate beads [J].Osteoarthritisand Cartilage,2007,15(4): 421-30.   \n[15]Colin C,Demasi MA,Degaki TL,et al.NUCEL(cell and molecular therapy center):a multidisciplinary center for translational research in Brazil[J].Mol Biotechnol,2008,39(2): 89-95.   \n[16]Bustos-Valenzuela JC,Halcsik E,Bassi EJ,et al.And partial characterization of a recombinant human bone morphogenetic protein-7 produced in human 293T cells[J]. Mol Biotechnol, 2010, 46(8): 118-26.   \n[17] Granjeiro JM,Alves GG,Antunes L,et al. Understanding the bone morphogenetic proteins:from structure to clinical applications.In: Uma[C]/Odontologia de Classe Mundial-FDI,2010:109-40. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(编辑：陈望忠）",
+        "page_idx": 3
+    }
+]

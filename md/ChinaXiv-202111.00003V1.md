@@ -1,0 +1,332 @@
+# “美男诱惑”真的奏效吗：男性代言女性 产品对女性消费者产品评价的影响
+
+王丽丽 董梦璐(浙江大学管理学院，杭州310058)
+
+摘要男性代言女性产品的广告策略真的奏效吗?本文旨在探讨女性产品代言人性别与女性消费者对该产品评价之间的关系。4个实验的结果显示，与女性代言女性产品相比，男性代言时女性消费者对该产品的评价会显著降低。该影响是通过身份威胁感的中介实现的。此外，身份肯定对该效应存在调节作用。具体来讲，当被试受到女性身份肯定操控时，主效应会加强。本文实证研究了男性代言女性产品可能带来的负面效应，基于性别认同一致性理论拓展了产品性别属性的下游结果。
+
+关键词跨性别代言，产品评价，身份威胁感，女性身份肯定，性别认同一致性
+
+# 1问题提出
+
+传统广告创意的原则被时代赋予了更丰富的内涵，美男诱惑大行其道。广告大师Oglivy(1963)提出的广告创意黄金3B 原则，包括美(Beauty)、野兽(Beast)和婴儿(Baby)，美表达的是性感有魅力，这与女性产品创意最为一致。但如今，随着男女社会分工差异的缩小以及生活方式、流行文化的变迁，男性开始扮演起与以往完全不同的角色，Beauty 原则中的美不再仅仅表达美女形象，也被拓展到美男形象。与此同时，在媒体技术和社会经济发展的加持下，粉丝经济应运而生。早在20世纪90年代，日本超级巨星木村拓哉就代言了KANEBO 唇膏，在当时经济低迷的日本带来了惊人的销量，这种新颖的跨性别代言方式引起了媒体、广告商、消费者等的广泛关注。在互联网环境下，粉丝数量不仅意味着影响力，也意味着经济价值。邀请知名男星跨性别代言女性产品是广告商迎合女性消费者的选择，但通过男性明星影响力、生理吸引力实现“美男诱惑”带来的广告效应却未必持久，尤其是近年来，女性消费者市场频频掀起对于跨性别代言是否合规、有效的争论，而那些代言女性内衣、卫生巾等具有强烈性别属性的女性产品的男明星们则无一例外地被推向了社会舆论的风口浪尖。。
+
+随着 2015年广告法的修订，要求广告代言人“不得为其未使用过的商品或者未接受过的服务作推荐、证明”，男性代言女性私密产品的广告热潮暂告一段落。但市场并没有放弃跨性别代言的机会，近年来各大美妆品牌纷纷向男爱豆抛出橄榄枝，母婴产品瞄准了明星奶爸进行代言，直播、带货形式的崛起更是突破了传统代言的限制，男主播在直播间售卖女性专属产品成为了常态，男明星在各平台以带货形式对女性私密产品进行宣传的广告也屡见不鲜。跨性别代言下“美男诱惑”是否真的能够如广告商所愿带来积极的效果？本文从理论层面提出跨性别代言带来的表面繁荣背后可能存在威胁，实证检验了男性代言女性产品的策略会对女性消费者产品评价产生越来越消极的影响，并构建了以身份威胁感为中介的内在影响机制，在此基础上进一步探索了身份肯定的调节作用，最后汇总分析了产品女性专属性和私密性对主效应的交互作用，旨在结合消费者自我概念和身份意识，基于性别认同一致性理论拓展产品性别属性的下游结果，为广告商设计广告提供建议。
+
+# 1.1广告性别角色和产品性别属性
+
+性别角色是广告商描绘广告中男性或女性代言人的形象来推广品牌和产品的工具。Eisend(2019)指出，关于广告中性别角色的研究主题主要包括性别角色的评估、性别角色的广告效果以及性别角色对消费者的影响。消费者对代言人性别的态度与产品性别属性密切相关。产品性别属性来源于性别刻板印象。性别刻板印象是将刻板印象观念与性别角色结合起来的一种固有的观念，将群体中的所有个体都贴上群体特征的标签(Wrightsman& Deaux,1981)，认为男性和女性因其性别不同而具有不同的特质和心理特征。Keller(1998)将性别刻板印象的概念与产品属性结合起来，指出市场上的一些产品具有特定的性别关联，这样消费者就可以将某个品牌性别属性与自身性别结合起来，以此为参考选择适合自己的产品。
+
+纵观历史，消费大多是性别化的，消费者也常常以性别化产品和品牌作为展示性别身份的工具(Avery,2012)。很多研究者已经证明了大多数产品和服务具有明确的性别属性(Fugate& Philips,2010; Stern et al.,1993;)，即性别化产品通常带有男性或女性身份特质，表明其仅适用于特定性别类别(Avery,2012)。性别化的产品常常仅针对其中一种性别特质，而忽略另一种性别特质。研究人员推测产品性别属性通常与最有可能使用该产品的人的性别有关(Debevec& Iyer,1986;Golden et al.,1979)，因此广告商通常依据产品目标消费者的性别来定位产品性别属性。例如，由于卫生巾产品通常会聘请女性代言人代言，以提高广告的说服力和消费者对产品的评价。
+
+广告中的性别角色通常会对产品评价产生积极或消极的影响。一方面，在广告中采用性别角色在某些情况下可以改善产品评价和销售(Windels,2016)；另一方面，广告中对男性和女性的描述会刺激性别刻板印象的感知，尤其会对女性消费者造成不利影响(Pounders,2018;Tuncay Zayer＆Coleman,2015)。具体而言，消费者对广告中性别角色的评价是积极的还是消极的，取决于消费者的认知图式和期望(Eisend,2019)，只有当消费者感知到的性别角色与他们的认知图式一致时，才会产生积极的广告效果和产品评价(Jaffe& Berger,1994; Orth &Holancova, 2004; Putrevu, 2004)。
+
+# 1.2跨性别代言和产品评价
+
+跨性别代言指的代言人性别角色与产品性别属性相反的广告代言模式。随着社会风气的日益开放，男女性别角色发生了根本性的转变，传统对性别在责任和希望上的截然不同的认识在当下变得混杂和模糊(Hupfer,2002)，例如男性也会做更多的家务活、花更多的时间陪孩子。于是广告商开始思考这些巨大的社会变化对广告创作意味着什么，并重新评估他们的广告策略。男性早已成为针对女性产品的重要市场力量(Abstrachan,1984)，尤其伴随着粉丝经济的兴起，越来越多的女性产品开始邀请男性代言人，跨性别代言在广告界大行其道。从存在主义哲学视角解读基于生理吸引力的“女性向”文化，通过身体消费获取原始快感的“男色消费”是后现代主义消费的一种表现，能够为女性带来性别反转的满足感和自我认同感，跨性别代言的热潮中隐藏着女性对性别权力再分配的渴望(刘乃歌,2018)。
+
+需要明确的是，由于男性和女性在社会学、生理学、心理学和文化上都是不相同的(Frieden,2013)，男性代言女性产品和女性代言男性产品这两种跨性别代言的广告效果是不对称的(Whipple& McManamon,2002)，本研究只探讨男性代言女性产品的跨性别代言广告效应。
+
+研究表明，无论是男性消费者还是女性消费者，都喜欢符合自身性别特质的商品和代言人(Fry,1971)。Kanungo 和 Pang(1973)研究发现当广告中人体模型性别与产品性别属性不一致时，消费者感知和态度的一致性受到破坏，由此产生不利的产品品质认知。Friedman 和Friedman (1979)提出了代言人类型与产品类型的组合会影响广告效果的匹配假说，Forkan(1980)首次将匹配假说应用到名人代言领域，提出名人与产品的核心实质必须保持一致。Kamins (1990)进一步指出只有在产品特性与名人传达的形象相匹配时，名人代言的生理吸引力才能对产品广告评价产生积极作用。除此之外，也有以往研究指出广告中传统性别角色的消极作用，Whipple 和Courtney(1980)发现与在广告中刻画传统的女性性别角色形象相比，女性消费者更加偏好广告中自由、进步的性别角色形象。
+
+本文基于性别认同一致性(Gender-identity Congruency)理论，认为一个人的产品使用在某种程度上反映了他或她自己的形象和身份，这意味着产品的购买不仅仅给予消费者功能属性(Grubb& Grathwohl,1967)，还被其用来表达自我身份(Belk,1988)。市场营销和心理学研究一直支持这样一种观点，消费者会对自己购买的产品进行性别一致性认同，即消费者认为产品性别属性应与自身性别形象保持一致。这是因为消费者通常会无意识地将他们所拥有的商品与自我意识联结起来(Belk,1988;Goffman,1959)，并通过商品的所有权和使用来定义自我身份，进而作为自我认同的工具(Mittal,2006)。例如，消费者在选购商品时，会选择其心目中最适合自我性别的品牌和商品，以此来创造和保持身份认同感(Belk,1988;Holt &Thompson,2004)。Debevec 和Iyer(1986)也指出跨性别代言时，产品本身的性别属性会被削弱，其原本明显的性别特质就会被模糊化，不利于消费者进行产品选择。然而该研究只是从产品本身出发探讨产品的性别属性，并没有深入探讨消费者对于跨性别代言产品的反应。在目标消费者性别较为明确的产品(例如高尔夫球、吸尘器)上，卡通形象的证据同样指出异性形象会降低消费者对产品性别属性程度的感知(Peirce,2001)。
+
+本文认为男性代言女性产品不仅弱化了产品性别属性，还会进一步降低消费者对于产品的评价，从而影响产品的销售和推广。由此提出以下假设：
+
+H1：与女性代言女性产品相比，当男性代言女性产品时，女性消费者对该产品的评价会更低。
+
+# 1.3女性身份威胁感知的中介效应
+
+由于男性在历史上一直被认为是社会中占主导地位的性别，女性只有通过参与典型的“男性"活动来增强社会影响力(Walzer,2002)，女性具有强烈的性别身份认同的诉求。同时，研究表明相较于男性，女性对性别刻板印象更为焦虑和挑剔(Lulletal.,1977)。因此，本文认为女性消费者对于跨性别代言更为敏感，她们会认为用男性代言女性产品，是对女性身份的质疑，其女性身份也受到了一定的威胁。大量研究表明，当个体身份受到威胁时，个体会拥有强烈的动机进行反抗以维护身份(Baumeister et al.,1996)。例如，Aquino 和 Douglas (2003)的研究发现，身份威胁可以引发反社会行为。通常，这些行为是感受到身份威胁者针对感知到的威胁来源作出的报复性反应。由此可见，如果个体的身份受到威胁，那么他的行为多是消极的、反抗的。因此，广告商在创作广告时会避免威胁到目标消费群体的身份，否则就会起到反作用，削弱品牌形象给顾客留下的印象，甚至是在顾客心中留下负面影响，进而降低顾客购买的可能性。基于此，本文提出以下假设：
+
+H2：身份威胁感对主效应有着中介作用，相比女性代言，男性代言女性产品会激活女性消费者自我身份威胁的感知，从而降低对产品的评价。
+
+# 1.4身份肯定的调节作用
+
+根据自我增强理论(Self-enhancement Theory)，维护积极全面的自我评价是个体的基本需要或行为动机(Steele,1988;Tesser,1988)。换言之，当一个人积极的自我身份(Self-identity)受到质疑或威胁时，人们会感受到心理上的不适，采取措施来维护积极的自我评价以减少威胁感。在以往研究中，研究者们提出了很多可以减少这种心理不适感的策略。例如,Tesser(1988)在他的自我评价维护模型(Self-evaluation Maintenance Model)中提出，在某一领域受到威胁的个体会最小化这一领域在其心中的重要性，或者他们会远离那些在这一领域表现突出的人群而选择接触其他人群。此外，根据早期研究，Festinger (1957)认为自我身份肯定(SelfAffirmation)是一种可以有效减少由认知失调而引起心理不适的方法，即使他们可能无法通过身份肯定来根除实际上的不协调。值得一提的是，是否进行身份肯定的边界条件在于个体的自我评估是否是积极的。也就是说，即使一个人在某领域上受到了威胁，但不影响其整体上积极的自我评价，那么个体会承认甚至坦然接受这种威胁，而不总是采取身份肯定来减少威胁感。综上，本文认为人们进行身份肯定的动机取决于当前人们对自我价值的评估是积极还是消极的，以及个体受威胁领域的重要程度。
+
+进一步的研究表明，当身份肯定的领域和身份威胁的领域相关时，自我防御机制(Self-defensiveness)会被唤醒，身份威胁感也会随之增强(McQueen& Klein,2006)。这一发现支持了 Steele(1988)概述的一种维护或恢复个体全面积极的自我形象、并保证其免受威胁的方法，即身份肯定必须发生在与身份威胁不相关的领域才能起到降低不和谐影响的效果(Blanton etal.,1997; Stone＆Cooper,2003)。因此，身份肯定可以被看作是个体受到威胁时的缓冲器或个体的一种应对能力(Steele etal.,1993)，而不仅仅是一种短暂的积极感受或激活自我概念的工具。
+
+综上，本文认为当身份肯定领域与身份威胁领域相关时，个体在自我防御机制作用下会进一步会采取回避或消极的方式应对这种身份威胁感。具体而言，男性代言女性产品时，会激活女性消费者的身份威胁感，如果此时女性消费者进行女性身份肯定，即身份肯定与身份威胁的领域都是性别时，女性的自我防御机制会被唤醒，此时人们会采用回避或消极的应对方式。由此提出以下假设：
+
+H3：当女性消费者进行女性身份肯定时，男性代言女性产品的负面效应会进一步会加强。
+
+# 2实验1：跨性别代言的主效应
+
+实验1的目的是检验与女性代言女性产品相比，当男性代言女性产品时，女性消费者对该产品的评价是否会更低，意在验证主效应(H1)。
+
+# 2.1实验设计与被试
+
+本实验共邀请了145 名某高校在校女大学生(Median 年龄 $= 1 8 { \sim } 2 5$ ,Mode 年龄 $= 1 8 { \sim } 2 5$ 参与，并以小额人民币作为实验报酬。进入实验室后，被试被随机分配到单因素(女性产品代言人性别：男性vs.女性)组间实验设计中。其中，男性代言人组72人，女性代言人组 73人。
+
+# 2.2实验流程
+
+本实验邀请女性被试参加，在填写人口统计学信息(年龄以区间形式采集)后，被试被随机分配到以下情境中：男性代言人vs.女性代言人。为了消除明星效应和品牌效应的影响，本实验采取了一种基于场景的实验方法。具体而言，被试会看到如下描述：
+
+想象您正在地铁站中行走，此时您看到了一个大型广告牌：一位当红女明星(vs.当红男明星)代言的某知名品牌的口红产品。
+
+紧接着，被试需完成"产品评价"这一因变量的3个测项，测项语句的构成和选取在借鉴前人研究的基础上有所调整(Heitmann et al.,2007)，具体包括"您如何评价这支口红" $1 =$ 非常差， $7 =$ 非常好)；“您对这支口红的喜爱程度” $1 =$ 非常不喜欢， $7 =$ 非常喜欢)；“您对这支口红的态度是”( $1 =$ 消极的， $7 =$ 积极的)(Cronbach's $\mathbf { { a } } = 0 . 8 4 2 \$ ）
+
+# 2.3数据分析与结果
+
+首先，取三个测项的平均值作为因变量"产品评价"的指标 $( M = 4 . 4 2$ ， $S D = 0 . 8 6 \$ ）
+
+以代言人性别作为自变量(女性编码为0，男性编码为1)、产品评价为因变量展开独立样本 $t$ 检验分析，结果显示，不同性别代言人下的产品评价有着显著性差异 $( t ( 1 4 3 ) = 2 . 0 1 , p$ $= 0 . 0 4 6$ ， $d = 0 . 3 4 )$ 。具体而言，男性代言人组的产品评价 $( M = 4 . 2 7$ ， $S D = 0 . 9 2 { \mathrm { \Omega } }$ 显著低于女性代言人组 $\mathrm { \Delta } M = 4 . 5 6$ 0 $S D = 0 . 7 7$ )(见图1)，表明男性代言人代言女性产品会导致消费者对产品的评价降低， $\mathrm { H } 1$ 得到初步验证。进一步将男性代言人组的产品评价和所用七点量表的中间值(4）进行单样本 $\mathbf { \chi } _ { t }$ 检验分析，结果显示，男性代言人组的产品评价显著高于中间值“ $4 ^ { \prime \prime } \ ( t ( 7 1 ) = 2 . 5 2 , p = 0 . 0 1 4 )$ ，这说明男性代言对于女性产品评价可能存在一定程度的积极影响，但与女性代言人组相比，男性代言人组的产品评价明显降低。
+
+![](images/3ef22da181170571af8774bc47accc9d95aeecbc9282aa61ae885c766b7e99d9.jpg)  
+图1实验 $_ { 1 \sim 3 }$ 的主效应检验
+
+# 2.4 讨论
+
+实验1初步验证了女性产品代言人性别对产品评价的影响，即相比女性代言，男性代言女性产品会导致消费者对产品的评价降低。同时，实验1基于日常消费场景展开，保障了实验结果的适用性。接下来的实验将利用不同的操控方法和情景设计来验证主效应的稳健性及中介机制。
+
+# 3实验2A：身份威胁感知的中介效应
+
+本实验旨在通过采用不同的实验场景来验证主效应的内在影响机制，即身份威胁感知对跨性别代言负面效应的中介作用(H2)。
+
+# 3.1实验设计与被试
+
+本实验共从问卷星平台上招募了119名女性被试(Median $_ { \mathrm { f } \parallel \ddagger } = 2 6 \sim 3 0$ Mode年龄 $= 1 8 \sim$ 25)，覆盖了不同的年龄段、职业、生活水平等，从而提高实验结果的说服力。和实验1相同，被试在进入实验后，被随机分配到单因素组(女性产品代言人性别：男性vs.女性)中。其中，男性代言人组61人，女性代言人组58人。
+
+# 3.2实验流程
+
+首先，被试需要填写人口统计学信息(包括年龄、性别等，年龄以区间形式采集)，为了保证被试都是女性，本实验根据性别选项筛选出了女性被试，即如果性别选项为男性，则直接终止问卷。
+
+在完成人口统计学信息部分后，被试会看到如下情景描述：
+
+想象自己在马路上行走，此时看到公交站的广告牌上展示着一位女性代言人(vs．男性代言人代言的妇产医院的广告。 (如图2所示)
+
+![](images/bfe9bce11a835b116961d289d85a7f909d05b2fadd564755240b7e7548f34dfc.jpg)  
+图2 实验2A情景图片
+
+紧接着，与实验1相同，被试完成有关“产品评价"的量表，即"您如何评价这家妇产科医院” $1 { = }$ 非常差， $\ 7 =$ 非常好)、“您对这家妇产科医院的喜爱程度” $1 { = }$ 非常不喜欢， $\scriptstyle 7 =$ 非常喜欢)、“您对这家妇产科医院的态度是” $ 1 { = }$ 消极的， $\ 7 =$ 积极的)(Cronbach's $\mathbf { \boldsymbol { a } } = 0 . 9 4 8 ^ { \cdot }$ ）
+
+接下来，被试填写了有关"身份威胁感"的测量量表，测项语句的选取和构成同样在借鉴前人研究的基础上有所调整(Yogeeswaran&Dasgupta,2014)，具体包括：“在女性主导的产品领域中，广告应该使用女性模特，以避免女性身份的淡化”、“在女性主导的产品广告中使用男性模特，正挑战着女性意味着什么的本质”、“在女性主导的产品使用男性模特威胁了女性的独特性” $1 =$ 非常不同意， $7 =$ 非常同意)(Cronbach's $\mathbf { a } = 0 . 8 7 7$ ）
+
+# 3.3数据分析与结果
+
+产品评价。首先，对女性产品代言人性别进行编码(女性编码为0，男性编码为1)，将其作为自变量，产品评价作为因变量进行独立样本 $\mathbf { \chi } _ { t }$ 检验，结果显示代言人性别对产品评价影响显著 $( t ( 1 1 7 ) = 2 . 1 2$ ， $\mathnormal { p } = 0 . 0 3 6$ ， $d = 0 . 3 8 \AA$ ，即相较于女性代言人组的产品评价( $\stackrel { \cdot } { M } = 3 . 7 7$ ，SD$= 1 . 3 2 )$ ，男性代言人组的产品评价显著更低 $\stackrel { \cdot } { M } = 3 . 3 2$ ， $S D = 1 . 0 0 ) \$ ，再次支持H1。进一步将男性代言人组的产品评价和所用七点量表的中间值进行单样本 $\mathbf { \chi } _ { t }$ 检验分析，结果显示，男性代言人组的产品评价显著低于中间值“4” $( t ( 6 0 ) = \ - \ 5 . 3 6 , p < 0 . 0 0 1 )$ ，表明实验2A中男性代言对于女性产品评价可能存在相当程度的消极影响。
+
+身份威胁感知。以代言人性别为自变量、身份威胁感知为因变量开展独立样本 $t$ 检验分析，结果显示，男性代言人组被试的身份威胁感知 $( M = 4 . 3 9$ ， $S D = 1 . 5 1 \$ )显著高于女性代言人组的身份威胁感知 $| ( M = 3 . 7 4 , S D = 1 . 3 3 ; t ( 1 1 7 ) = 2 . 1 2 , p = 0 . 0 3 6 , d = 0 . 3 8 ) \circ$
+
+中介效应检验。采用对间接中介效应 ${ \bf \nabla } _ { a \mathrm { ~ x ~ } b }$ 的自主抽样检验(bootstrap test)(PROCESSModel4; Hayes,2013)，其中‘ $\dot { \boldsymbol { a } }$ ”代表女性产品代言人性别对身份威胁感知的影响， $^ { * } b _ { } ^ { }$ 代表身份威胁感知对产品评价的影响(Hayes,2013; Zhao et al.,2010)。在样本选择为 5000 次、 $9 5 \%$ 的置信区间下，通过bootstrap 分析发现间接中介效应是显著负向的 $( a \mathrm { ~ x ~ } b = \mathrm { ~ - ~ } 0 . 1 2 , 9 5 \% \mathrm { C I }$ $[ - \ 0 . 3 2 , \ - \ 0 . 0 2 ] )$ 。男性代言女性产品会提高身份威胁感知 $( a = 0 . 6 5 ; t ( 1 1 7 ) = 2 . 4 9 , p = 0 . 0 1 4 )$ ，身份威胁感知对产品评价有着显著的负向影响 $( b = \phantom { - } 0 . 1 9 , t ( 1 1 6 ) = \phantom { - } - 2 . 5 7 , p = 0 . 0 1 2 )$ 。最后，女性产品代言人性别对产品评价的直接影响不显著 $( c ^ { \prime } = \phantom { - } - 0 . 3 3 , t ( 1 1 6 ) = \phantom { - } - 1 . 5 4 , p = 0 . 1 2 7 ;$ （如图3)。综上，实验2A结果表明身份威胁感知起着显著的中介作用，H2得到支持。
+
+![](images/81043f1149a6b006c3b45352d1000c6c6198903b5cdb3efbcb7e4bab65c0f7b4.jpg)  
+图3实验2中身份威胁感的中介作用
+
+\*p<0.05
+
+# 3.4讨论
+
+通过采用不同的实验场景，实验2再次验证了主效应，即相比女性代言，男性代言女性产品会对产品本身产生不利影响，证明了主效应的稳健性。重要的是，实验2A还验证了这一效应的中介机制，即男性代言女性产品的现象会激活女性消费者的身份威胁感知，因而她们作出的产品评价会显著低于女性代言女性产品组。同时，本实验采用直观的图片法让实验场景更加贴近实际，增强了主效应的现实适应性。后续实验将通过寻找调节变量的方式来进一步验证机制。
+
+# 4实验2B：真人代言的稳健性检验
+
+本实验旨在通过采用真人明星代言的实验场景来检验主效应内在影响机制的稳健性，即身份威胁感知对跨性别代言负面效应的中介作用，并排除可能的替代中介解释。除此之外，本实验使用另一种女性产品，即女性内衣来进一步验证主效应的稳健性。
+
+# 4.1实验设计与被试
+
+本实验共邀请了136名某高校在校女大学生(Median $_ { \mp \sharp _ { \check { \tau } } } = 1 8 \sim 2 5$ ,Mode 年龄 $= 1 8 { \sim } 2 5$ 参  
+与，并以小额人民币作为实验报酬。进入实验后，被试被随机分配到单因素(女性产品代言  
+人性别：男性vs.女性)组间实验设计中。其中，男性代言人组68人，女性代言人组68人。本实验所用的明星素材选择了年龄相仿，微博粉丝数相近，均为影视演员且在多部剧中
+
+分别担任男、女主演的任重(41岁，微博粉丝数918万)和万茜(39 岁，微博粉丝数 700 万)。
+
+# 4.2实验流程
+
+在完成人口统计学信息部分(年龄以区间形式采集)后，被试会看到如下情景描述：
+
+想象你正在挑选女士内衣，看到购买内衣的网站上展示着一位男明星代言某品牌女士内衣的广告。 (如图4所示)
+
+![](images/dc95030a2842fd09369324fc0eba00f380598e586d41067c436c073c436e1688.jpg)  
+图4实验2B情景图片
+
+紧接着，与实验1相同，被试完成有关"产品评价"的量表，即"您如何评价该品牌的内衣” $1 =$ 非常差， $\scriptstyle 7 =$ 非常好)、“您对该品牌内衣的喜爱程度”( $1 { = }$ 非常不喜欢， $\ 7 =$ 非常喜欢)、“您对该品牌内衣的态度是” $1 { = }$ 消极的， $\scriptstyle 7 =$ 积极的)(Cronbach's $\mathbf { \boldsymbol { a } } = 0 . 9 6 2$ ）
+
+接下来，与实验2A相同，被试填写了有关"身份威胁感"的测量量表，测项语句的选取和构成同样在借鉴前人研究的基础上有所调整(Yogeeswaran& Dasgupta,2014)，具体包括：“在女性主导的产品领域中，广告应该使用女性模特，以避免女性身份的淡化”、“在女性主导的产品广告中使用男性模特，正挑战着女性意味着什么的本质”、“在女性主导的产品使用男性模特威胁了女性的独特性" $1 =$ 非常不同意， $7 =$ 非常同意)(Cronbach's $\mathbf { \delta a } = 0 . 6 8 9$ )。为了排除可能的替代中介解释，与身份威胁感的测量一致，被试填写了害羞感、羞耻感的测量语句，具体包括：“在女性主导的产品中使用男性模特让我感到害羞”、“在女性主导的产品中使用男性模特让我觉得有羞耻感”( $1 =$ 非常不同意， $7 =$ 非常同意)。
+
+除此之外，被试还回答了对于广告中明星代言人的熟悉度(Simonin&Ruth,1998)并评价了吸引力(Ohanian,1990)，测量语句为：“请指出你对这个广告中的代言人有多熟悉” $1 =$ 不熟悉， $7 =$ 非常熟悉; $1 =$ 不认识， $7 =$ 认识; $1 =$ 没听说过， $7 =$ 曾经听说过)(Cronbach's ${ \mathfrak { a } } =$ 0.956)；“请对广告中的代言人进行评价”（ $1 =$ 毫无吸引力， $7 =$ 非常有吸引力; $1 =$ 毫不性感， $7 =$ 非常性感) $( r = 0 . 8 4 2 )$ 。
+
+# 4.3数据分析与结果
+
+产品评价。首先，对女性产品代言人性别进行编码(女性编码为0，男性编码为1)，将其作为自变量，产品评价作为因变量进行独立样本 $\mathbf { \chi } _ { t }$ 检验，结果显示代言人性别对产品评价影响显著 $( t ( 1 3 4 ) = 1 5 . 0 4$ ， $p < 0 . 0 0 1$ ， $d = 2 . 5 9 ,$ ），即相较于女性代言人组的产品评价 $\begin{array} { r } { T M = 4 . 6 5 } \end{array}$ $S D = 0 . 9 9 _ { , } ^ { \cdot }$ ，男性代言人组的产品评价显著偏低 $( M = 2 . 2 5$ ， $S D = 0 . 8 6 )$ ，再次支持 $\mathrm { H } 1$ 。进一步将男性代言人组的产品评价和所用七点量表的中间值进行单样本 $t$ 检验分析，结果显示，男性代言人组的产品评价显著地低于中间值 $^ { * * } 4 ^ { * * } ( t ( 6 7 ) = \ - \ 1 6 . 6 5 , p < 0 . 0 0 1 )$ ，表明实验2中真实男明星代言对于女性产品评价存在显著的消极影响。
+
+潜在的中介机制。以代言人性别为自变量、分别以身份威胁感知、害羞感、羞耻感为因变量开展独立样本 $t$ 检验分析，结果显示，男性代言人组被试的身份威胁感知 $\mathrm { \mathit { M } } = 4 . 8 9$ ， $S D$ $= 1 . 1 5 )$ 显著高于女性代言人组的身份威胁感知 $( M = 4 . 4 4 , S D = 1 . 3 6 ; t ( 1 3 4 ) = \ - \ 2 . 1 2 , p = 0 . 0 3 6$ $d = 0 . 3 6 )$ ，男性代言人组被试的害羞感 $\scriptstyle { ( M = 3 . 7 4 }$ ， $S D = 1 . 7 8 )$ 与女性代言人组无显著差异 $\scriptstyle ( M =$ 4.07, $S D = 1 . 7 2 ; t ( 1 3 4 ) = 1 . 1 3 , p = 0 . 2 6 3 )$ ，男性代言人组被试的羞耻感 $\ M = 3 . 4 0$ ， $S D = 1 . 6 8$ 也与女性代言人组无显著差异 $( M = 3 . 5 6 , S D = 1 . 6 5 ; t ( 1 3 4 ) = 0 . 5 7 , p = 0 . 1 6 2 ) { \mathrm { , } }$
+
+多重中介效应检验。采用对间接中介效应 $a \mathbf { x } b$ 的自主抽样检验(bootstrap test)(PROCESSModel4;Hayes,2013)，其中"a"代表女性产品代言人性别对身份威胁感知、害羞感、羞耻感的影响， $^ { \mathrm { { e 6 } } } b ^ { \prime }$ 代表身份威胁感知、害羞感、羞耻感对产品评价的影响(Hayes,2013;Zhao et al.,2010)。在样本选择为 5000 次、 $9 5 \%$ 的置信区间下，将明星代言人的熟悉度和吸引力作为控制变量，通过bootstrap 分析发现身份威胁感的间接中介效应是显著负向的 $( a _ { I } \mathrm { \bf ~ x } b _ { I } = \mathrm { \bf ~ - } 0 . 0 9$ $9 5 \% C \mathrm { I } [ - 0 . 2 6 , ~ - 0 . 0 1 ] )$ ，害羞感的间接中介效应不显著 $( a _ { 2 } \mathrm { x } b _ { 2 } = 0 . 0 5 , 9 5 \% \mathrm { C I } [ { \textrm { -- } } 0 . 0 5 , 0 . 2 7 ] )$ 羞耻的间接中介效应不显著 $( a _ { 3 } \mathrm { ~ x ~ } b _ { 3 } = - 0 . 0 6 , 9 5 \% \mathrm { C I } [ - 0 . 2 4 , 0 . 0 2 ] )$ 。男性代言女性产品会提高身份威胁感知 $( a _ { I } = 0 . 7 4 ; t ( 1 3 2 ) = 2 . 1 0 , p = 0 . 0 3 8 )$ ，而不影响害羞感( $\stackrel { \cdot } { a _ { 2 } } = 0 . 4 5$ ， $t ( 1 3 2 ) = 0 . 9 2 , p$ $= 0 . 3 5 7 \mathrm { ; }$ 和羞耻感 $( a _ { 3 } = 0 . 5 3 ; t ( 1 3 2 ) = 1 . 1 5 , p = 0 . 2 5 2 )$ 。身份威胁感知对产品评价有着显著的负向影响 $( b _ { I } = { \phantom { - } } 0 . 1 2 , t ( 1 2 9 ) = { \phantom { - } } - 2 . 1 5 , p = 0 . 0 3 4 )$ ，羞耻感对产品评价也存在显著的负向影响 $( b _ { 3 }$ $\qquad = \ - 0 . 1 2 , t ( 1 2 9 ) = \ - \ 2 . 1 2 , p = 0 . 0 3 6 )$ ，害羞感则对产品评价存在显著的正向影响 $( b _ { 2 } = 0 . 1 2$ $t ( 1 2 9 ) = 2 . 2 3 , p = 0 . 0 2 8 )$ 。最后，女性产品代言人性别对产品评价的直接影响显著 $\ c ( c ^ { \prime } = \ - \ 1 . 0 7$ $t ( 1 2 9 ) = \ - 4 . 7 9 , p < 0 . 0 0 1$ ；如图5)。综上，实验 2B 结果表明身份威胁感知的中介作用在真人明星代言场景下是稳健的，并排除了害羞感、羞耻感的替代中介解释，H2再次得到支持。
+
+![](images/c708363e2725ade153325afc8d14b27899ea11710d20cd759b869d4147760ad3.jpg)  
+图5实验2B中身份威胁感的中介作用
+
+\* p<0.05
+
+# 4.4 讨论
+
+通过真人明星代言的设计，本实验说明了在真人明星影响力下相比女性代言，男性代言女性产品仍然对女性消费者的产品评价存在显著的消极影响，与真实代言场景相贴近，增强了主效应的现实适应性。同时，本实验进行了多重中介效应检验，排除了害羞感和羞耻感可能存在的替代中介解释，证明了身份威胁感作为中介机制的稳健性。然而，本实验中女性代言人穿戴产品的图片可能会改变消费者感知到的真实性，从而对产品评价产生未知的影响。后续实验将通过控制代言人穿戴产品线索的方式检验主效应的稳健性，并通过寻找调节变量的方式来进一步验证机制。
+
+# 5实验3：身份肯定的调节作用
+
+本实验共有三个目标。第一，本实验希望进一步为中介机制(H2)提供理论与实验上的支持。与基于中介效应检验的实验2不同，实验3基于调节效应检验(Spencer et al.,2005)。具体而言，如果男性代言女性产品会提高女性消费者的身份威胁感，那么突显女性身份则会增强这种影响。第二，为了证明假设1和假设2不受文化差异的影响，本实验考察了西方背景下女性被试的态度。第三，本实验与实验2B均使用内衣产品，控制了代言人上身穿戴产品的线索，检验了主效应的稳健性。
+
+# 5.1实验设计与被试
+
+来自Mturk平台的250名美国女性被试 $( M _ { { ☉ H \mathstrut } } = 3 6 . 4 9 , S D _ { { \mathstrut } \mathstrut 4 \sharp \mathstrut } = 1 2 . 0 3 )$ 被随机分配到2(女性产品代言人性别：男性 vs.女性) $\mathbf { x } 2 ($ 女性身份肯定：有vs.无)的组间实验设计中。其中，男性代言人x有女性身份肯定组63人，男性代言人 $\textbf { x }$ 无女性身份肯定组70人，女性代言
+
+人x有女性身份肯定组54人，女性代言人x无女性身份肯定组63人。
+
+# 5.2实验流程
+
+首先采用与实验2A同样的方法招募女性被试。接下来，她们被随机分配到女性身份肯定组和控制组中。在女性身份肯定组中，被试被要求写下自己拥有的女性重要品质和价值观并给出理由(Fein& Spencer,1997; Steele,1988)。而在控制组中，被试被要求列出 20 个她们容易想到的日常用品。紧接着，被试被告知她们正在浏览某网购平台，并且打算购买女性内衣。此时会看到网页主推的由当红女明星(vs.当红男明星)代言的某知名品牌内衣图片(如图 6所示)。随后，被试填写一张与前两组实验相同的、关于产品评价的量表(Cronbach's $\mathfrak { a } = 0 . 9 5 4$ $\textstyle M = 3 . 9 4$ ， $S D = 1 . 5 0 \$ ）
+
+![](images/f85db954874c94be9fb90530a57cdf5628a59808344e9893463007d31409062d.jpg)  
+图6 实验3情景图片
+
+# 5.3数据分析与结果
+
+产品评价。通过独立样本 $\mathbf { \chi } _ { t }$ 检验再一次验证了主效应显著 $( t ( 2 3 8 ) = 5 . 6 4$ $p < 0 . 0 0 1$ ， $d =$ 0.70)，即男性代言人组的产品评价( $\mathbf { \mathcal { M } } = 3 . 4 8$ ， $S D = 1 . 6 2 { \cdot }$ )显著低于女性代言人组的产品评价$M = 4 . 4 7$ ， $S D = 1 . 1 6 \mathrm { \Omega }$ (见图1)。进一步将男性代言人组的产品评价和所用七点量表的中间值进行单样本 $\mathbf { \chi } _ { t }$ 检验分析，结果显示，男性代言人组的产品评价边际显著低于中间值“4"(t(132)$= \ - 3 . 7 1 , p < 0 . 0 0 1 )$ ，表明实验3中男性代言对于女性产品评价存在相当程度的消极影响。
+
+调节效应检验。通过2(女性产品代言人性别：男性 vs.女性) $\mathbf { x } 2 ($ 女性身份肯定：有vs.无)ANOVA检验女性身份肯定的调节作用，其中以产品评价为因变量。结果显示女性产品代言人性别和女性身份肯定的交互效应边际显著 $\langle F ( 1 , 2 4 6 ) = 3 . 1 3 , p = . 0 7 8 , \eta _ { \mathrm { p } } { } ^ { 2 } = 0 . 0 1 3 )$ ；女性产品代言人性别的主效应也显著 $( F ( 1 , 2 4 6 ) = 3 1 . 7 2 , p < 0 . 0 0 1$ ${ \mathfrak { n } } _ { \mathfrak { p } } ^ { 2 } = 0 . 1 1 \cdot$ )，但女性身份肯定的主效应不显著 $( F ( 1 , 2 4 6 ) = 0 . 4 4 , p = 0 . 5 0 9$ $\mathfrak { \eta _ { p } } ^ { 2 } = 0 . 0 0 2 \$ ；由此可知，女性身份肯定调节着女性产品代言人性别对产品评价的影响。
+
+简单效应分析结果进一步表明，在没有女性身份肯定组中，本实验复制了之前的实验结果，即男性代言女性产品会导致产品评价降低 $( M \oplus \nmid \nmid \ �substack { \ z e t t i c } ) \stackrel { \_ } {  } { \textstyle \Lambda } = 3 . 6 9$ $S D$ 男性代言人 $= 1 . 5 0$ ,M女性代言人=4.38, $S D$ 女性代言人 $= 1 . 0 3$ ， $t ( 2 4 6 ) = 2 . 8 2$ $p = 0 . 0 0 5$ $d = 0 . 5 4 { \cdot }$ )。然而在女性身份肯定组中，这种不利影响得到了加强( $M$ 男性代言人 $= 3 . 2 5$ ， $S D$ 男性代言人 $= 1 . 7 2$ ， $M$ 女性代言人 $= 4 . 5 8$ ， $S D$ 女性代言人 $= 1 . 2 9$ $t ( 2 4 6 ) = 5 . 0 7 , p < 0 . 0 0 1 ; d = 0 . 8 7 )$ 。进一步将男性代言人组的产品评价和所用七点量表的中间值进行单样本 $t$ 检验分析，结果显示，在没有女性身份肯定组中，男性代言人组的产品评价边际显著低于中间值“4” $( t ( 6 9 ) = \phantom { - } - 1 . 7 5 , p = 0 . 0 8 5 )$ ，在女性身份肯定组中，男性代言人组的产品评价边际显著低于中间值“4” $( t ( 6 2 ) = \ - 3 . 4 7 , p = 0 . 0 0 1 )$ ，表明实验3中男性代言对于女性产品评价可能存在相当程度的消极影响，且这种消极影响随着女性身份肯定被强化而加强。
+
+最重要的是，实验结果表明，当品牌使用女性代言时，是否进行女性身份肯定并不影响产品评价( $M$ 有女性身份肯定 $_ { ! } = 4 . 5 8$ $S D$ 有女性身份肯定 $= 1 . 2 9$ $M$ 无女性身份肯定 $= 4 . 3 8$ $S D$ 无女性身份肯定 $= 1 . 0 3$ ; t(246)$= 0 . 7 6 , p = 0 . 4 4 9 ; d = 0 . 1 7 )$ 。然而，当品牌使用男性代言时，女性身份肯定组的产品评价 $M =$ 3.25, $S D = 1 . 7 2 ) \$ 边际显著低于控制组的产品评价 $( M = 3 . 6 9 , S D = 1 . 5 0 ; t ( 2 4 6 ) = 1 . 7 8 , p = 0 . 0 7 7 ;$ $d = 0 . 2 7$ (见图7)，H3得到了验证。
+
+![](images/8dd43936b43c3cd15bc3d9a854c14444923e282f0ee5cea497c9a153f6f62b02.jpg)  
+图7女性身份肯定对主效应的调节作用
+
+# 5.4讨论
+
+实验3再次验证了先前研究中的发现，即相比女性代言，男性代言女性产品会导致产品评价的降低。本实验进一步表明，当进行女性身份肯定时，这种不利影响会加强。此外，本实验发现与无女性身份肯定组相比，当使用男性代言时，女性身份肯定会进一步降低产品评价，进一步证明了男性代言女性产品的负面影响是由女性身份威胁感知所驱动的。同时，本实验中女性代言人未穿戴产品，弥补了实验2B的局限性。
+
+# 6研究结论与讨论
+
+# 6.1研究结论
+
+本文研究了女性产品代言人性别和女性消费者对该产品评价之间的关系。针对女性消费者的自我概念和身份意识，首先通过实验1初步验证了主效应，即与女性代言女性产品相比，女性消费者对男性代言的女性产品评价会显著降低。紧接着，本文通过实验2和实验3进一步确定主效应的稳定性(见图1)。实验2意在探究主效应的中介机制，即女性产品代言人性别通过女性消费者感知到的身份威胁影响最终的产品评价，在卡通和真人明星代言场景下验证了效应的稳健性，并排除了替代中介解释，H2得到验证。为了进一步验证内在机制，在实验3通过加强个体感知的威胁，从另一个角度验证中介机制。具体而言，实验3通过对身份肯定的操控加强被试的性别身份肯定，研究发现，当被试进行身份肯定时，主效应则会得到强化，验证了身份肯定的调节作用，H3成立。
+
+除此之外，本文还发现对于口红类产品，男性代言仍然能在一定程度产生正面效应，只是与女性代言相比，消费者评价会有所降低。但随着实验所用产品女性专属性和私密性的提升，对于妇产医院服务、内衣类产品，男性代言存在严重的负面效应。
+
+为了进一步分析专属性和私密性对主效应的影响，本文对 4个实验数据进行了汇总分析，共有650 名被试参与了4次实验，其中，女性代言人组316人，男性代言人组334人。首先，对汇总的4次实验数据进行独立样本 $\mathbf { \chi } _ { t }$ 检验，再一次验证了主效应显著 $( t ( 6 2 9 ) = 1 0 . 3 6 ,$ （2$p < 0 . 0 0 1$ $d = 0 . 8 1$ )，即男性代言人组的产品评价 $( M = 3 . 3 7 , S D = 1 . 4 1 )$ 显著低于女性代言人组的产品评价 $( M = 4 . 4 0 , S D = 1 . 1 2 )$ 。进一步将男性代言人组和女性代言人组的产品评价分别和所用七点量表的中间值“4”进行单样本 $\mathbf { \chi } _ { t }$ 检验分析比较，结果显示，男性代言人组的产品评价显著低于中间值 $^ { \iota \mathfrak { c } } 4 ^ { \mathfrak { p } } \ ( t ( 3 3 3 ) = \ - 8 . 1 6 , p < 0 . 0 0 1 )$ ，女性代言人组的产品评价显著高于中间值“4” $( t ( 3 1 5 ) = 6 . 3 8 , p < 0 . 0 0 1 )$ ，表明汇总数据中男性代言对于女性产品评价存在消极影响。
+
+除此之外，103 名在校女大学生 $( M { = } 2 2 . 7 2 , S D { = } 2 . 7 3 )$ 受邀对本文实验材料中的口红、妇产科医院服务、女性内衣感知到的女性专属性和私密性在7点量表上分别进行了评价，以换取小额人民币作为报酬。为了检验这些产品是否具有女性专属性和私密性，将不同产品的女性专属性评价和所用七点量表的中间值“4”进行单样本 $t$ 检验分析比较，结果显示，口红、妇产科医院服务、女性内衣的女性专属性评价均显著高于中间值“4”(见表1)；将不同产品的私密性评价和所用七点量表的中间值进行单样本 $t$ 检验分析，结果显示，口红的私密性评价显著低于中间值“4”，妇产科医院服务、女性内衣的私密性评价则显著高于中间值“4”(见表2)。
+
+表1产品女性专属性描述性统计及单样本 $t$ 检验结果  
+
+<html><body><table><tr><td>产品</td><td>M</td><td>SD</td><td>t</td><td>df</td><td>p</td></tr><tr><td>□红</td><td>4.35</td><td>1.77</td><td>2.00</td><td>102</td><td>0.048</td></tr><tr><td>妇产科医院服务</td><td>5.91</td><td>1.35</td><td>14.37</td><td>102</td><td><0.001</td></tr><tr><td>女性内衣</td><td>6.03</td><td>1.35</td><td>15.30</td><td>102</td><td><0.001</td></tr></table></body></html>
+
+表2产品私密性描述性统计及单样本 $t$ 检验结果  
+
+<html><body><table><tr><td>产品</td><td>M</td><td>SD</td><td>t</td><td>df</td><td>p</td></tr><tr><td>□红</td><td>2.73</td><td>1.63</td><td>- 7.90</td><td>102</td><td><0.001</td></tr><tr><td>妇产科医院服务</td><td>4.98</td><td>1.64</td><td>6.07</td><td>102</td><td><0.001</td></tr><tr><td>女性内衣</td><td>5.72</td><td>1.38</td><td>12.68</td><td>102</td><td><0.001</td></tr></table></body></html>
+
+对不同产品的女性专属性通过独立样本 $t$ 检验进行两两比较，结果显示，口红的女性专属性与其他两类产品存在显著差异 $( t ( 1 9 1 ) _ { \nparallel 3 ^ { 2 } + 1 6 7 5 ^ { 2 } } = - 7 . 1 3 , p < 0 . 0 0 1$ ， $d = \mathrm { ~  ~ { ~ - ~ } ~ } 0 . 9 9$ ；t(191)女性内衣$= \ - 7 . 6 7 , p < 0 . 0 0 1 , d = \ - \ 1 . 0 7 )$ ，妇产科医院服务、女性内衣之间的女性专属性差异不显著，由此口红、妇产科医院服务或女性内衣的女性专属性逐渐增加。对不同产品的私密性通过独立样本 $t$ 检验进行两两比较，结果显示，口红的私密性与其他两类产品存在显著差异(t(204)$\begin{array} { r l r l r } { \mathrm { s g n e s t i g n s } = } & { - 9 . 8 8 , p < 0 . 0 0 1 , d = } & { - 1 . 3 8 ; t ( 1 9 8 ) _ { \mathrm { d i f f i e f i d e } } = } & { - 1 4 . 2 1 , p < 0 . 0 0 1 , d = } & { - 1 . 9 8 ) _ { \mathrm { d i f f i e f i d e } } = } & { 1 } & { \mathrm { ~ a ~ n ~ d ~ } \omega = \frac { \mathrm { ~ \omega ~ } } { \mathrm { ~ \omega ~ } } } \end{array}$ ，妇产科医院服务与女性内衣之间的私密性存在显著差异(t(204)女性内衣 = － 3.50, $p = 0 . 0 0 1$ ， $d = ~ -$ （200.49)，由此口红、妇产科医院服务、女性内衣的私密性逐渐增加。
+
+将预评价中女性专属性差异显著的产品按均值排序赋值( $1 =$ 口红, $2 =$ 妇产科医院服务或女性内衣)，以女性专属性和代言人性别作为自变量，产品评价作为因变量，对4次实验汇总的数据进行 $2 \times 2$ 方差分析，结果显示女性专属性的主效应显著 $( F ( 1 , 6 4 6 ) = 3 4 . 0 9$ ， $p <$ 0.001, ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } { = } 0 . 0 5 0 \rangle$ ，代言人性别的主效应显著 $( F ( 1 , 6 4 6 ) = 4 1 . 7 2 , p < 0 . 0 0 1$ ， $\boldsymbol \eta _ { \mathrm { p } } { } ^ { 2 } = 0 . 0 6 2 \mathrm { , }$ ，女性专属性和女性产品代言人性别的交互效应也显著 $\langle F ( 1 , 6 4 6 ) = 1 6 . 6 9 , p < 0 . 0 0 1 , { \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 0 2 5 )$ 。由此可知，女性专属性调节着女性产品代言人性别对产品评价的影响。简单效应分析结果进一步表明，当品牌使用女性代言时，产品女性专属性高低对产品评价未产生显著影响 $( M _ { \mathrm { ~ } \bot \Sigma }$ $= 4 . 5 6$ $S D _ { \textrm { \tiny H T } } = 0 . 7 7$ $M$ 妇产科医院、女性内衣 $\circleddash$ 4.35, $S D$ 妇产科医院、女性内衣 $= 1 . 2 0$ ， $t ( 6 4 6 ) = ~ - 1 . 2 \$ ’ $p = 0 . 2 1 6$ $d = 0 . 2 1 \AA ^ { \cdot }$ )。然而，当品牌使用男性代言时，女性专属性较高的妇产科医院服务或女性内衣组的产品评价 $\scriptstyle ( M = 3 . 1 2$ ， $S D = 1 . 4 2 \mathrm { \Omega }$ 显著低于女性专属性较低的口红组的产品评价 $\scriptstyle ( M = 4 . 2 7$ ,SD$= 0 . 9 2$ ：， $t ( 6 4 6 ) = \ - 7 . 0 3$ ， $p < 0 . 0 0 1$ ·， $d = 0 . 9 6$ )。结果显示，男性代言女性产品的负面影响随着产品女性专属性的提高而增强。
+
+将预评价中私密性差异显著的产品按均值排序赋值( $1 =$ 口红, $2 =$ 妇产科医院服务， $\mathbf { \nabla } _ { 3 } =$ 女性内衣)，以私密性和代言人性别作为自变量，产品评价作为因变量，对4次实验汇总的数据进行 $3 \times 2$ 方差分析，结果显示私密性的主效应显著 $( F ( 2 , 6 4 4 ) = 1 9 . 4 8$ ， $p < 0 . 0 0 1$ ， ${ \mathfrak { n } } _ { \mathfrak { p } } ^ { 2 }$ $= 0 . 0 5 7 \rangle$ ，代言人性别的主效应显著 $( F ( 1 , 6 4 4 ) = 4 6 . 3 4 , p < 0 . 0 0 1$ ， ${ \mathfrak { \eta } _ { \mathfrak { p } } } ^ { 2 } = 0 . 0 6 7 \mathrm { ; }$ ，私密性和女性产品代言人性别的交互效应也显著 $( F ( 2 , 6 4 4 ) = 1 6 . 6 2 , p < 0 . 0 0 1$ ， $\displaystyle \boldsymbol { \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 0 4 9 )$ 。由此可知，私密性调节着女性产品代言人性别对产品评价的影响。简单效应分析结果进一步表明，当品牌使用女性代言时，私密性最低的口红组的产品评价显著高于私密性中等的妇产科医院服务组的产品评价 $( M _ { \mathrm { \tiny ~ m i d } } = 4 . 5 6 , S D _ { \mathrm { \tiny ~ m i d } } = 0 . 7 7 , M _ { \mathrm { \tiny ~ i d } } ) \ast \mathrm { \# } \mathrm { \# } \mathrm { \# } \mathrm { \# } \mathrm { \# } \mathrm { \# } = 3 . 7 7 , S D _ { \mathrm { \tiny ~ m i d } } \ast \mathrm { \# } \mathrm { \# } \mathrm { \# } \mathrm { \# } \mathrm { \# } = 1 . 3 2 ; t ( 6 4 4 ) = 3 . 6 9 , p < 0 . 0 0 1$ $d = 0 . 7 3 )$ ，与私密性最高的女性内衣组无显著差异 $( M _ { \perp \parallel } ) _ { = 4 . 5 6 , S D _ { \perp \xi \perp } } = 0 . 7 7 , M _ { \perp \parallel \perp \parallel \lambda } = 4 . 5 4 ,$ SD 女性内衣 $: = 1 . 1 0$ ， $t ( 6 4 4 ) = 0 . 1 2$ $p = 0 . 9 0 4$ $d = 0 . 0 2 )$ ，而私密性中等的妇产科医院服务组的产品评价则显著低于私密性最高的女性内衣组 $( M _ { \mathrm { \ t i p s : \sharp / E \sharp = 3 . 7 7 , ~ } S D _ { \mathrm { \ t i p s : \sharp / E \sharp = 1 . 3 2 , ~ } M _ { \mathrm { \ t i f t { \sharp = 3 . 7 4 } } } } = 4 . 5 4 }$ $\begin{array} { r l } { S D _ { \mathrm { \ J e i t \ 1 3 7 3 7 } } { = } 1 . 1 0 ; t ( 6 4 4 ) { = } } & { { } { - 4 . 1 9 , p < } 0 . 0 0 1 ; d { = } 0 . 6 3 ) } \end{array}$ 。当品牌使用男性代言时，私密性最低的口红组的产品评价显著高于私密性中等的妇产科医院服务组的产品评价 $( M _ { \mathrm { \ D } } ) _ { \Sigma } = 4 . 2 7$ ， $S D$ 口红$= 0 . 9 2 , M _ { \mathrm { ☉ J B ^ { \varepsilon } \rvert 0 5 \% } } = 3 . 3 2 , S D _ { \mathrm { \normalfont ~ s p a r g i l g i n e } } = 1 . 0 0 ; t ( 6 4 4 ) = 4 . 5 3 , p < 0 . 0 0 1 ; d = 0 . 9 9 ) , \quad \mathrm { \normalfont ~ s p a r g e ~ p a r e ~ j \neq ~ j / s ~ }$ 密性最高的女性内衣组 $\mathrm { ~ 1 ~ } \left( M _ { \mathrm { \tiny ~ R e f f } } = 4 . 2 7 , S D _ { \mathrm { \tiny ~ E F L } } = 0 . 9 2 , M _ { \mathrm { \tiny ~ E F L M R } } = 3 . 0 6 , S D _ { \mathrm { \tiny ~ E F L M R } } = 1 . 5 2 ; t ( 6 4 4 ) = 7 . 2 3 , p < \mathrm { \tiny ~ R F L M } \right)$ 0.001; $d = 0 . 9 6 )$ ，而私密性中等的妇产科医院服务组的产品评价与私密性最高的女性内衣组无显著差异(M妇产科医院=3.32, $\boldsymbol { S D }$ 妇产科医院 $= 1 . 0 0$ ,M 女性内衣= 3.06,SD 女性内衣=1.52; $t ( 6 4 4 ) = 1 . 4 2 , p =$ 0.155; $d = 0 . 2 0 \AA$ 。结果显示，对于口红这类不具有私密性的产品，男性代言女性产品的产品评价依然显著低于女性代言。同时，男性代言女性产品的负面影响并不完全随着产品私密性的提高而增强。对于男性代言而言，随着私密性的提高，男性代言的负面效应加强，然而这种加强效应在变化到一定程度后不再进一步加强。而对于女性代言而言，私密性影响产品评价的结果是超出本文预期的，消费者在评价私密性产品或服务时可能会受到尴尬、异性陪同、隐私侵犯等因素的影响，值得未来进行更深入的实验研究。
+
+# 6.2理论贡献
+
+大部分国内外广告代言人相关的文献都是仅仅通过描述、逻辑推演的方式来解释男明星代言女性产品这一现象，而本文则是通过科学系统的方式实证研究了男性代言女性产品可能带来的负面效应，同时揭示了以身份威胁感为中介的内在心理机制，并进一步识别了身份肯
+
+定的调节作用。
+
+首先，本文对传统产品性别属性的研究进行了延伸。以往相关研究围绕产品性别属性，指出跨性别代言会削弱产品的性别属性使得消费者难以辨别和选择(Debevec&Iyer,1986)，仅聚焦于产品自身属性。也有研究指出广告中与产品性别属性不符的人体模型的使用可能会破坏消费者感知和态度的一致性从而降低对产品品质的认可(Kanungo& Pang,1973)，但产品品质的维度选择欠缺科学性且较为繁杂，仅针对特定产品，缺乏普适性，同时早期研究仅提出一致性理论的可能影响，未作具体阐述，理论深度不足。这一系列研究聚焦于产品-代言人匹配度和认知协调性等，强调一致带来的积极效应，并未将性别认同一致性理论作为内在影响机制进行深入论述。而本文则从反面实证研究了不一致导致的负面效果，并基于性别认同一致性理论进一步探讨了跨性别代言对于产品性别属性影响之外的下游结果，即消费者对于跨性别代言产品的评价，更具有现实价值。
+
+除此之外，本文在性别认同一致性理论的基础上以性别刻板印象作为切入点，结合自我概念和身份意识的相关理论(Baumeister et al.,1996; Aquino& Douglas,2003)，强调产品对于消费者自我认同和自我表达的影响，提出身份威胁感作为女性产品的跨性别代言降低女性消费者产品评价的中介影响机制。不仅如此，本文还围绕身份威胁感的关键作用进一步探究了这一主效应的调节变量，即身份肯定，检验了当身份肯定和身份威胁的领域都是性别时，人们用更加回避或消极的方式来做出自我防御(McQueen& Klein,2006)，从而加强了跨性别代言对产品评价产生的负面影响。
+
+# 6.3实践启示
+
+本文对现实的广告营销设计有重要的借鉴意义。首先，广告商在设计广告时要重视并把握目标消费群体在接触新颖广告形式的心理感受和真实想法。思考如何在吸引消费者注意的同时，也不会引发消费者的抵触与不满。思考如何通过广告代言人的选择锁定潜在消费者，并激发消费者的购买意愿。其次，产品形象代言人自身所具备的特质应当与品牌调性相一致，这是优化产品广告代言和品牌传播效应的关键之处。如此，才能取得更好的宣传效果，更有说服力以获得消费者的信任，同时也能更有效地传播品牌内涵，提高消费者的品牌忠诚度。最后，本文发现男性代言女性产品这一现象会让女性消费者感知到身份被威胁。更重要的是，本文还发现随着产品女性专属性的提高，使用男性代言的负面效应会更加严重，私密性在一定范围内也会增强男性代言的负面效应。以往研究表明，人们在产生身份威胁感时，往往会采用消极的应对方式。因此，消费者极有可能不去关注、购买，甚至产生抵触的心情。随着“口红一哥”李佳琦的走红，越来越多的广告商选择男主播或男明星来代言女性产品。对于口红这类女性专属性和私密性相对较低的产品，男性代言在一定程度上仍存在积极影响，但随着产品女性专属性和私密性的提高，涉及卫生巾、内衣等产品时，如何消除女性消费者感知到的身份威胁成为了广告设计中需要思考的重要问题。例如，在代言女性产品时，由男性代言人扮演关心女朋友的暖男角色或为女性朋友着想的贴心好友角色，可以让女性消费者更好地接受这种新颖的代言方式。
+
+# 6.4研究局限和未来研究方向
+
+首先，本文在讨论女性产品的代言人性别和女性消费者的产品评价和购买意愿之间的关系时所使用的产品除了口红这类带有较强性别属性的产品外，还包含妇产医院广告这类女性专属的服务以及内衣等兼具有私密性的女性专属产品。本文发现产品的女性专属性会加强男性代言女性产品的消极影响，男性代言女性专属性较高的产品可能会降低消费者感知到产品类别属性与代言人的匹配度，而对于女性专属性较低的产品（例如护肤品、高跟鞋等），该效应是否依然广泛存在值得进一步探索。同时，私密性也会和本文主效应产生交互作用，其加强作用存在边界条件，可能会受到尴尬、异性陪同、隐私侵犯等因素的影响，未来需要更严谨地选择产品、服务进行深入的实验研究。综上，身份威胁感未必是男性代言女性产品产生负面影响的唯一机制，对于中介机制的丰富和完善仍需要未来研究进行探索。
+
+其次，自我认同的脆弱性可能会成为跨性别代言效应的边界条件。性别认同一致性理论指出消费者会无意识地将他们所拥有的商品作为自我认同的工具(Mittal,2006)，性别认同是自我认同的一部分，男性代言女性产品对女性消费者产品评价的消极影响建立在自我认同基础上。如果消费者对自我认同缺乏信心，会更容易察觉到身份威胁，而对于那些具有高自我认同的女性消费者，跨性别代言或许未必会触发她们的心理防御机制。
+
+不仅如此，本文关注代言人的生理性别，探究生物学定义上跨性别代言的影响，而社会和文化因素构建出了更广泛的男性气质和女性气质(Spence&Helmreich,1979)，拥有女性气质的男性代言人是否会引起女性消费者的身份威胁感需要未来研究进行检验。
+
+同时，本文主要讨论一般意义上的跨性别广告代言，在实验材料中均使用“代言”作为刺激，未强调与区分传统广告代言和直播带货。随着直播领域的蓬勃发展，主播与广告代言人角色的重合度以及法律适用性都值得进一步探讨。未来研究应关注在直播带货的特定领域下，本文的影响机制是否依然存在。
+
+除此之外，本文实验2B 选择的材料是具有一定知名度、发展相对稳定、粉丝数相近的男、女明星，对于超流量明星而言，主效应的机制可能会发生变化。超流量明星的流量和代言影响是否具有长期性，具有极大的不确定性。商家付出高额代言费寻求与超流量明星的合作，除了希望提升单一代言产品销量、提高单一代言产品评价，更可能与整体的品牌策略、市场策略挂钩，而同一时期是否存在与之流量相近的女明星也可能成为广告商选择代言人的考量因素。超流量男明星的跨性别代言是否存在负面效应，如若存在该效应对于品牌整体的影响程度如何，都需要后续研究进行进一步探索。
+
+再者，未来研究还可以关注在赠礼场景下由男性代言人扮演暖男形象是否能够减弱甚至逆转跨性别代言的负面影响。
+
+最后，实验室研究具有局限性，未来研究若能获取真实消费场景的二手数据能够使研究结论更具有说服力。
+
+# 参考文献
+
+Abstrachan,A. (1984). Marketing to men. Advertising Age, 4,11-13.   
+Aquino,K.,& Douglas,S.(2oo3).Identity threat and antisocial behavior inorganizations: The moderating effects of individual diferences,aggressive modeling,and hierarchical status. Organizational Behavior and Human Decision Processes,90,195-208.   
+Avery,J.(20l2).Defending the markers ofmasculinity: Consumerresistance to brand gender-bending. International Journal ofResearch inMarketing,29,322-336.   
+Baumeister,R.F.,Smart,L.,&Boden,J.M. (1996).Relationof threatened egotismto violenceandaggression:The dark side of high self-esteem. Psychological Review, 103, 5-33.   
+Belk,R. W. (1988).Possessions and the extended self.Journal of Consumer Research,15,139-168.   
+Blanton,H.,Cooper,J.,lkurnik,I.,&Aronson,J.(997).Whenbadthings happento goodfeedback:Exacerbating the need for self-justification with self-airmations.Personality and Social Psychology Buletin,23,684-692. Debevec,K.,& Iyer,E. (1986).The influence of spokespersons in altering a product's gender image: Implications for advertising effectiveness.Journal of Advertising, 15,12-20.   
+Eisend, M. (2019). Gender roles. Journal of Advertising, 48, 72-80.   
+Festinger,L.(1957). A theory of cognitive dissonance (Vol. 2). Stanford University Press.   
+Fein,S.,& Spencer,S.J. (1997).Prejudiceas self-image maintenance: Afirming the self through derogating others. Journal of Personality and Social Psychology,73,31-44.   
+Fugate，D.L.，& Philips，J.(2010).Product gender perceptions and antecedents of product gender congruence.Journal ofConsumerMarketing,27,251-261.   
+Forkan,J. (1980). Product match-up key to effective star presentations.Advertising Age,51,42-58. Frieden,L.R. (2o13).Therole of consumer gender identityand brand concept consistency in evaluating crosgender brand extensions. Retrieved January 23, 2017, from htp://cholarcommons.usf.edu/etd/4488/   
+Friedman, H. H.,&Friedman,L. (1979). Endorser effectiveness by product type.Journal ofAdvertising Research, 19, 63-71.   
+Fry, J.N.(1971).Personalityvariables and cigarete brandchoice.Journal ofMarketing Research,8, 298-304. Goffman, E. (1959). The presentation ofself in everyday life.New York: Doubleday.   
+Golden,L.L.,Allison,N.,& Clee, M. (1979).The role ofsex role self-concept in masculine and feminine product perceptions. Advances in Consumer Research, 6, 599-605.   
+Grubb,E.L.,& Grathwohl, H. L. (1967). Consumer self-concept, symbolism and market behavior: A theoretical approach. Journal of Marketing,31, 22-27.   
+Hayes,A.F.(2o13).Introduction t mediation,moderation,and conditionalprocessanalysis:Aregreion-based approach. Guilford Publications.   
+Heitmann, M.,Lehmann,D.R.,& Herrmann,A. (2o07). Choice goal attainment and decision and consumption satisfaction.Journal ofMarketing Research,44,234-250.   
+Holt,D.B.,& Thompson, C.J. (20o4). Man-of-action heroes: The pursuit of heroic masculinity in everyday consumption. Journal of Consumer Research,31, 425-440.   
+Hupfer, M. (2002). Communicating with the agentic woman and the communal man: Are stereotypic advertising appeals still relevant. Academy of Marketing Science Review, 3, 1-15.   
+Jafe，L. J.,& Berger,P. D.(1994). The effect of modern female sex role portrayals on advertising effectiveness. Journal ofAdvertising Research, 34,32-42.   
+Kamins,M.A. (1990). An investigation into the“match-up"hypothesis in celebrity advertising: When beauty may be only skin deep. Journal ofAdvertising,19,4-13.   
+Kanungo,R.N.,& Pang,S.(1973). Effcts of human models on perceived product quality.Journal of Applied Psychology, 57,172-178.   
+Keler,K.L. (1998).Branding perspectives on social marketing.Advances in Consumer Research,25,299-302. Lull,J.T., Hanson, C.A.,&arx,M.J.(1977).Recognition offemale stereotypes inTVcommercials.Journalism Quarterly, 54, 153-157.   
+McQueen, A., & Klein, W.M. (20o6). Experimental manipulations of self-afirmation: Asystematic review. Self and Identity, 5,289-354.   
+Mital,B.(20o6).I, me,and mine—how products become consumers' extended selves.Journal of Consumer Behaviour: An International Research Review,5,550-562.   
+Ohanian, R. (199o). Construction and validation of a scale to measure celebrity endorsers' perceived expertise, trustworthiness,and attractiveness. Journal of Advertising,19,39-52.   
+Ogilvy, D. (1963). Confessions of an advertising man. New York: Ballantine.   
+Orth, U.R.，& Holancova, D. (2004). Men's and women's responses to sex role portrayals in advertisements. International Journal ofResearch inMarketing,21,77-88.   
+Peirce,K. (2Ool). What if the energizer bunny were female? Importance of gender in perceptions of advertising spokes-character effectiveness. Sex Roles, 45, 845-858.   
+Pounders, K. (2018). Are portrayalsof female beauty in advertising finally changing?. Journal of Advertising Research,58,133-137.   
+Putrevu, S. (2004). Communicating withthe sexes: male and female responses to print advertisements. Journal of Advertising, 33, 51-62.   
+Simonin,B.L.,&Ruth,J.A. (1998). Is a company known by the company it keeps?Assessing the spillovereffects of brand alliances on consumer brand attitudes. Journal of Marketing Research,35,30-42.   
+Spence,J.T.,&Helmreich,R.L. (1979).Masculinityand femininity:Their psychological dimensions,correlates, and antecedents. University of Texas Press.   
+Spencer,S.J., Zanna,M.P.,&Fong, G.T. (2oo5).Establishing acausal chain: why experiments are often more effective than mediational analyses in examining psychological processes.Journal of Personality and Social Psychology, 89, 845-851.   
+Steele,C.M. (1988). The psychology of self-affrmation: Sustaining the integrity of the self. Advances in Experimental Social Psychology,21,261-302.   
+Stele,C.M.,Spencer,S.J.,&Lynch,M.(1993).Self-image resilience and dissonance: therole of affirmational resources. Journal of Personality and Social Psychology, 64, 885-896.   
+Stern,B.B.,Tewari,S.,& Gould, S.J.(1993). Sex-typed service images: An empirical investigation of self-service variables.Service Industries Journal,13,74-96.   
+Stone,J.,& Cooper,J. (2oo3).The efct of self-attribute relevance on how self-esteem moderates atitude change in dissonance processes. Journal of Experimental Social Psychology,39, 508-515.   
+Tesser,A. (1988).Toward aself-evaluation maintenance model ofsocial behavior.Advances in Experimental Social Psychology,21,181-227.   
+Tuncay Zayer,L.,& Coleman, C.A. (2015).Advertising professionals’ perceptions of the impact of gender
+
+rtrayals on men and women: A question of ethics?.Journal of Advertising,44,1-12
+
+Walzer,M. (2O02).Equability and civil society. In S.Chambers & W. Kymlicka (Eds.),Alternative conceptions of civil society (pp.34-49). Princeton, NJ: Princeton University Press.   
+Whipple,T.W.,& McManamon, M.K. (2oo2). Implications of using male and female voices in commercials: An exploratory study. Journal of Advertising,31,79-91.   
+Whipple,T. W.,& Courtney,A.E. (1980). How to portray women in TV commercials. Journal of Advertising Research,20,53-59.   
+Windels,K. (20l6). Stereotypical or just typical: how do US practitioners view the role and functionof gender stereotypes in advertisements?.International Journal ofAdvertising,35,864-887.   
+Wrightsman,L. S.,& Deaux, K. (1981). Social psychology in the 80s.Brooks/Cole Publishing Company. Yogeeswaran,K.，& Dasgupta,N. (2O14). The devil is in the details: Abstract versus concrete construals of multiculturalism differentially impactintergroup relations.Journal ofPersonalityand Social Psychology,106,772- 789.   
+Zhao,X.,Lynch Jr,J. G.,& Chen, Q.(2O10).Reconsidering Baron and Kenny: Myths and truths about mediation analysis.Journal of ConsumerResearch,37,197-206.   
+Liu,N.G.(2O18).Facing "her" Era: The phenomenon and cultural analysis of "female-oriented" in film and television art. Modern Communication (Journal of Communication University of China),40, 94-98.   
+[刘乃歌.(2018).面朝"她"时代:影视艺术中的"女性向"现象与文化透析．现代传播(中国传媒大学学报),40, 94-98.]
+
+# Does "male beauty" really work: The impact of male endorsements on female consumers’ evaluation of female-gender-imaged product
+
+WANG Lili, DONG Menglu (School ofManagement,Zhejiang University,Hangzhou 31oo58,China)
+
+# Abstract
+
+Nowadays, using male spokesperson to endorse female-gender-imaged product has become an important advertising strategy and has penetrated into many female-gender-imaged products, especially thanks to celebrity influence. Does it really work? While previous research only
+
+combined with a certain degree of theory to explain the cross-gender endorsement phenomenon, this paper aims to explore the relationship between the gender of female-gender-imaged product spokesperson and female consumer's product evaluation through a quantitative approach. Specifically, we proposed that when male spokesperson endorses female-gender-imaged product, female consumers would significantly downgrade their evaluation of the products compared to female spokesperson, which is mediated by gender-identity threat. In addition, when the participants are manipulated to increase gender affrmation, the main effect would be strengthened.
+
+Studyl used a single factor (gender of female-gender-imaged product spokesperson: male vs. female) between-subjects design. 145 female college students were invited to this study. Participants were asked to imagine a billboard advertising a lipstick and endorsed by male star or female star, and then evaluated this lipstick by a scale.We examined the main effect through this scenario that using male spokesperson to endorse female-gender-imaged product would decrease female consumers' product evaluation.
+
+Study 2A used a similar between-subjects design.119 female participants were recruited to imagine a billboard of maternity hospital endorsed by male star or female star, and then evaluated this maternity hospital as well as sense of gender-identity threat by scales. Study 2B invited 136 female college students to replicate the results of Study 2A,ruling out the alternative explanation of shyness and shame. Participants were asked to look at a lingerie advertisement poster that used endorsement by a real celebrity. We repeated the results of Study 1 and confirmed the mediating effect of gender-identity threat with bootstrap test to clarify the internal influence mechanism.
+
+Study 3 used a 2 (gender of female-gender-imaged product spokesperson: male vs. female) $\times$ 2 (gender affirmation: strengthen vs. control) between-subjects design. 250 female Mturk workers participated in this study. In the gender affirmation condition, participants were asked to write about important qualities and values of women. In the control condition, participants were asked to list 20 everyday items that came to mind. Next, participants were told that they were browsing an online shopping platform and intended to buy lingerie. They would see the lingerie picture of a famous brand endorsed by a popular female star (vs. a popular male star) and then fill out the same product evaluation scale as above. We examined the interaction between gender of femalegender-imaged product spokesperson and gender affirmation. Specifically, when the female
+
+gender-imaged product uses male endorsement, the product evaluation of the gender afirmation condition is lower than that of the control condition.
+
+Apart from the above,results from these studies were summarized and analyzed in general discussion, and showed that both exclusivity and privacy of female-gender-imaged product have significant interaction effects on the relationship between spokesperson gender and product evaluation.
+
+In summary, this paper combines the theory of self-concept and identity consciousness to provide convergent evidences for a mechanism between cross-gender endorsement and female consumer's product evaluation mediated by gender-identity threat, and the moderating effect of gender affirmation, expanding the downstream results of product gender attribute research and contributing to the practice of advertising field.
+
+Key wordscross-gender endorsement, product evaluation, gender-identity threat, gender affirmation, gender-identity congruency

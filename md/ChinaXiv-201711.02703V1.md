@@ -1,0 +1,221 @@
+# 百合鳞片的诱导分化及遗传转化效率分析
+
+# 安婷1季静 $1 ^ { * * }$ 王昱蓉2,3马志刚4王罡1\*\*李倩「杨丹1张松皓1
+
+(1.天津大学环境科学与工程学院 天津 300072；2.天津市天大天福生物技术有限公司天津 300072;3.UCSD,biological Sciences.molecularbiology,California,USA;4.天津大学化学工程与技术学院 天津300072；）
+
+摘要 基因工程是改良百合性状的重要手段，建立高效稳定的遗传转化体系是百合转基因研究的基础。本文以百合地下茎鳞片为外植体，筛选并优化百合的直接和间接再生体系；把含枸杞GR（Glutathione reductase）基因和筛选基因NPTII的载体，利用农杆菌转化法对鳞片和愈伤组织进行转基因操作，采用正交试验，优化转化条件以建立适合不同受体的遗传转化体系。结果表明，各阶段最优培养条件分别为：鳞片诱导和膨大 $\mathrm { M S } { + } 2 \mathrm { m g } / \mathrm { L } 2 { , } 4 { \mathrm { - D } }$ (2,4-二氯苯氧乙酸） $+ 0 . 1 \mathrm { { m g / L } }$ NAA（萘乙酸） $+ 9 0 \mathrm { g / L }$ 蔗糖；鳞片直接分化 $\mathrm { M S } { + } 1 . 0 \mathrm { m g / L }$ 6-BA (6-苄氨基嘌呤) $+ 0 . 2 \mathrm { m g } / \mathrm { L } \mathrm { N A A } + 3 0 \mathrm { g } / \mathrm { L }$ 蔗糖，间接分化 $\mathrm { M S + 2 . 5 m g / L } ~ 2 , 4 \mathrm { - D + 0 . 4 m g / L }$ TDZ（噻重氮苯基脲） $+ 6 0 \mathrm { g / L }$ 蔗糖；百合鳞片的Kana（卡那霉素）选择压为 $1 0 0 ~ \mathrm { { m g / L } }$ ，愈伤组织$7 5 \mathrm { m g / L }$ 。遗传转化体系条件为：鳞片，农杆菌 $\mathrm { O D } _ { 6 0 0 } { = } 0 . 6$ ，预培养3d，侵染 $4 0 \mathrm { m i n }$ ，As（乙酰丁香酮） $2 0 0 \mu \mathrm { m o l / L }$ ，阳性植株转化率为 $1 7 . 5 0 \%$ ；鳞片分化愈伤组织，农杆菌 $\mathrm { O D } _ { 6 0 0 }$ ，预培养5d，侵染 $4 0 \mathrm { { m i n } }$ ，As $2 0 0 \mu \mathrm { m o l / L }$ ，阳性植株转化率为 $12 . 6 0 \%$ 。
+
+关键词百合、遗传转化、GR、再生体系、直接分化
+
+Analysis of the Transformation Efficiency and Induced Differentiation of
+
+lilium brownii Scales
+
+AN Tingl JI Jingl Wang Yu-rong2MA Zhi-gang4 WANG Gang1 LI Qianl YANG Dan1 ZHANG Song-hao1
+
+(1SchoolofEnvionmentalSciencendEnginering，TianjinUniversity,iandaTianfuBio.Co.D,Tanjino,UC, biologicaliesollaroiaUolalEoli
+
+300072,China)
+
+Abstract Genetic engineering is an important means to improve the traits of lily. To establish an efficiency and stable transformation system is the basis of transgenic research. The different regeneration systems of lily were screened. The vector containing the target gene GR and selection gene NPTII wasscreened by Agrobacterium tumefaciens. Establish eficiencygenetic transformation system for callus and scales through orthogonal test. The results showed that the optimum culture conditions as follow. The medium of lily scale inducing was $\mathrm { M S } + 2 \mathrm { \ m g / L \ 2 , 4 - L }$ 0 $+ 0 . 1 \mathrm { \ m g / L \ N A A } + 9 0 \mathrm { \ g / L } + 0 . 2 \mathrm { \ m g / L \ N A A } + 3 0 \mathrm { \ g / L } \{$ sucrose. Indirect differentiation medium was $\mathrm { M S } + 2 . 5 \mathrm { \ m g / L \ 2 , 4 - D + 0 . 4 \ m g / L \ 0 . 4 m g / L \ T D Z + 6 0 \ g }$ sucrose. The Kana selection pressure for scales was $1 0 0 ~ \mathrm { { m g / L } }$ and for callus was $7 5 ~ \mathrm { { m g / L } }$ . The direct genetic transformation of the scales was Agrobacterium $\mathrm { O D } _ { 6 0 0 } = 0 . 6$ ,pre-culture for 3 days, infiltrating for $4 0 \mathrm { m i n }$ ,As $2 0 0 \mu \mathrm { m o l / L }$ . The indirect callus transformation was: Agrobacterium $\mathrm { O D } _ { 6 0 0 }$ ， pre-incubated for 5 days,infiltrating for $4 0 \mathrm { m i n }$ ，As $2 0 0 \mu \mathrm { m o l / L }$ . The direct and indirect positive plant transformation rates were $1 7 . 5 0 \%$ and $12 . 6 0 \%$ ：
+
+作者：安婷，邮箱：Anting $@$ tju.edu.cn$*$ 国家自然科学基金（31271793）、国家科技重大专项（2014Z1-0002）$^ { * * }$ 通讯作者，邮箱：jingtjdx@163.com；wanggangtjdx@126.com
+
+Key wordsLily, Genetic transformation, GR, Regeneration System, Direct differentiation
+
+百合是单子叶植物纲百合科（Liliaccae）百合属（Lilium）的多年生球根草本植物的统称，无论是作为盆栽观赏还是鲜切花生产，百合的销售量在全球花卉市场上都名列前茅。随着分子生物学的发展，通过基因工程方法，能够培育具有抗逆性、抗病性和新园艺性状的百合新品种[I，这对于百合育种具有重要意义。
+
+组织培养技术为百合的遗传转化的建立提供了良好的技术支持[2]，目前百合遗传转化的受体材料多种多样，主要有愈伤组织、鳞片、叶片等[3,4]。百合的直接和间接器官发生途径即经过外植体直接或愈伤组织间接产生不定芽的探索对其遗传转化奠定基础作用[5]，其中百合鳞片分化能力强[6,7]，且越靠近鳞片基部的部分诱导体细胞胚的能力越强，那么鳞片直接和间接再生体系的优化和高效的转化体系则是实现百合转基因的先决条件。
+
+双子叶植物常见遗传转化方法有农杆菌介导法[8]和基因枪法。目前应用最广的方法是农杆菌介导法，具有转化成本低廉，转化效率高的优点[9]，但农杆菌侵染百合的案例并不多见，可能是由于百合是单子叶植物的原因[10]。于1992 年首次使用农杆菌介导法转化百合鳞茎，得到瘤状突起并在愈伤组织中检测到目的基因的表达。
+
+农杆菌介导的遗传转化过程一般为：农杆菌的活化、侵染、共培养、抗生素筛选培养、生根出芽、检测等[I]，各个转化条件不同转化率也有差异，因此转化条件也是保证转基因高效进行的基础。实验对鳞片薄片直接分化成不定芽和鳞片产生愈伤组织的两种分化方式[12,13]，在不同转化条件的正交试验中验证转化效率，寻求所对应的高效再生体系和最优转化条件，旨在建立百合的最优转化体系，为后续的基因转化以及基因功能验证奠定了基础。
+
+# 1材料和方法
+
+# 1.1.材料
+
+实验采用基本培养基（含MS基本培养基，蔗糖 $3 0 \mathrm { g / L }$ ，琼脂 $\mathrm { 7 - 8 g / L }$ ，pH 为 5.8),于 $1 2 1 ^ { \circ } \mathrm { C }$ 灭菌 $2 0 \mathrm { m i n }$ 。组培苗培养条件为：温度 $2 5 { \pm } 1 ^ { \circ } \mathrm { C }$ ，光照16h。植物 RNA 抽提试剂 Trizol、LA TaqDNA 聚合酶、TaKa Ra RNA PCR kit (AMV)Ver 3.0、pMD18-T克隆载体及RT-PCR相关试剂购自大连宝生物工程公司，SMARTRACEcDNAAmplification Kit 购自Clontech 公司。大肠杆菌感受态TOP10、DNA 琼脂糖凝胶回收试剂盒、DNAmarkerIII 购自天根公司，引物合成及序列测定均由天津六合华大基因公司完成。本实验所用引物见表1。
+
+表1 各基因PCR 检测引物序列 Tab.1 Primers of gene sequences 表1-a NPTII基因引物序列 Tab.1-a Primer ofNPTI gene sequences
+
+表1-b GR 基因引物序列  
+
+<html><body><table><tr><td>引物名称 NPTII-F</td><td>引物序列 5'-GCTATGACTGGGCACAACAG-3</td></tr></table></body></html>
+
+Tab.1-bPrimer of GR gene sequences   
+
+<html><body><table><tr><td>引物名称</td><td>引物序列</td></tr><tr><td>LcGRF</td><td>5'TCGTAATAGGTGCTGGAAGTGGT3'</td></tr><tr><td></td><td>5'ATGTGCTTCGCCGAATAGGTTA3'</td></tr><tr><td>LcGRR</td><td></td></tr></table></body></html>
+
+含有植物双元表达载体pCAMBIA2300-LcGR质粒的根癌农杆菌菌株C58为本实验室（天津大学遗传工程研究所保存）[14]，具有卡那霉素抗性基因的质粒图谱见图1。
+
+![](images/d79966c8f97f4119a9f0d173f96b1f8f938e419c9917fc1a2e11cba668b759a8.jpg)  
+图1pCAMBIA2300-LcGR 载体图  
+Fig.1The map of pCAMBIA2300-LcGR vector
+
+# 1.2百合鳞片直接和间接再生
+
+# 1.2.1试管苗诱导鳞片膨大
+
+将有鳞茎的试管苗竖插于培养基内诱导鳞片分化并膨大，添加激素为2,4-D和NAA，并配以不同浓度的蔗糖，详见表3，培养4-6周以筛选优化培养条件。
+
+# 1.2.2鳞片直接诱导小芽
+
+取 $2 { \sim } 3 \mathrm { c m }$ 的带鳞片的茎段竖向接于基本培养基MS培养基中，附加于不同种类和不同浓度的激素，试验设计如表4，以探索最优分化茎叶培养和再生体系。
+
+# 1.2.3鳞片诱导愈伤及分化
+
+试验设计如表5，以探索最优鳞片培养条件及再生体系。
+
+# 1.3抗生素筛选
+
+以 MS 为基本培养基，附加不同浓度抗生素，对百合不同组织进行敏感性试验测定。将薄鳞片、愈伤组织分别置于附加不同浓度的卡那霉素（0、25、50、75、100、 $1 2 0 \mathrm { m g / L ) }$ 和头孢霉素(Cef)(0、250、500、750mg/L)的培养基上,培养条件： $2 5 ^ { \circ } \mathrm { C }$ ， $1 6 \mathrm { h / d } ,$ 定期观察记录外植体褐变的情况，见表6。
+
+# 1.4农杆菌侵染条件优化
+
+# 1.4.1农杆菌侵染实验
+
+农杆菌侵染详细见文献[15]。遗传转化过程包括：农杆菌的活化、受体准备[16]、侵染、共培养、抗生素筛选培养、生根出芽、检测、长成完整的植株移栽验证等。
+
+# 1.4.2侵染条件优化
+
+将农杆菌浓度、受体预培养时间、侵染时间和AS浓度设计四因素三水平正交试验表，详见表7,8，分别探索鳞片直接和间接再生体系的最优遗传转化条件。
+
+# 1.5 PCR检测
+
+待转化再生的不定芽长到 $3 { \sim } 4$ 片叶时，以CTAB 法提取叶片DNA。以野生型试管苗的基因组DNA为阴性对照，植物表达载体质粒(pCAMBIA2300-LcGR)为阳性对照，利用筛选基因NPTII的两个特异引物(表1)，进行PCR扩增。再取初步检测出的阳性植株，以野生型试管苗的基因组DNA为阴性对照，植物表达载体质粒为阳性对照，利用基因GR的两个特异引物(表1)，对目的基因谷胱甘肽还原酶（GR）基因进行PCR扩增，扩增条件为 $9 5 ^ { \circ } \mathsf { C }$ 预变性5min，（ $9 5 ^ { \circ } \mathsf { C }$ 变性30s、退火 $5 7 ^ { \circ } \mathrm { C } 4 0 / 3 0 \mathrm { s }$ 、 $7 2 ^ { \circ } \mathsf { C }$ 延伸30s）30个循环，再 $7 2 ^ { \circ } \mathsf { C }$ 延伸 $1 0 \mathrm { { m i n } }$ ，检测得最终的阳性植株并计算转化率。
+
+# 2结果与分析
+
+# 2.2百合鳞片诱导和再生体系的建立
+
+# 2.2.1诱导鳞片膨大并增殖
+
+按表2试验设计进行诱导，处理7d后基部开始出现膨大趋势， $3 { \sim } 4$ 周后，明显看到鲜绿色鳞片的形成，继续培养一段时间后，鳞片逐渐膨大并增殖，如图2-a，适于后续遗传转化试验。结果可见，2,4-D和蔗糖在鳞片诱导过程中浓度增加可显著提高其鳞片增殖分化效率， $2 . 0 \mathrm { m g / L } 2 . 4 \mathrm { - D }$ 和 $9 0 \mathrm { g / L }$ 蔗糖的组合诱导率高达 $100 \%$ ，且鳞片增殖分化迅速、深绿厚实。而NAA在低浓度下对鳞片诱导影响无明显差异。因此在供试培养基中， $\mathrm { M S + 2 m g / L ~ 2 , 4 - D + 0 . 1 m g / L ~ N A A + 9 0 g / L }$ 蔗糖的百合鳞片增殖分化并膨大最优条件。
+
+表2不同浓度的2,4-D、NAA和蔗糖对鳞片的增殖影响Tab.2Effects of different concentrations of2,4-D、NAA and sucrose on the proliferation of scales  
+
+<html><body><table><tr><td rowspan="2">编号</td><td>2,4-D/</td><td>NAA/</td><td>蔗糖/</td><td>增殖分化</td></tr><tr><td>mg /L</td><td>mg /L)</td><td>g/L</td><td>率/%</td></tr><tr><td>1</td><td>1</td><td>0</td><td>30</td><td>30e</td></tr><tr><td>2</td><td>1</td><td>0.1</td><td>60</td><td>40 de</td></tr><tr><td>3</td><td>1</td><td>0.2</td><td>90</td><td>45d</td></tr><tr><td>4</td><td>2</td><td>0</td><td>60</td><td>75c</td></tr><tr><td>5</td><td>2</td><td>0.1</td><td>90</td><td>100 a</td></tr><tr><td>6</td><td>2</td><td>0.2</td><td>30</td><td>70c</td></tr><tr><td>7</td><td>3</td><td>0</td><td>60</td><td>85 bc</td></tr><tr><td>8</td><td>3</td><td>0.1</td><td>30</td><td>75c</td></tr><tr><td>9</td><td>3</td><td>0.2</td><td>90</td><td>90 ab</td></tr></table></body></html>
+
+# 2.2.2鳞片直接诱导小芽
+
+试验表明，鳞片一般10d左右开始直接分化出不定芽，由表3可见不同浓度6-BA和NAA对鳞片直接诱导不定芽的效率有显著的差异，当6-BA $1 . 0 \mathrm { m g / L }$ 和NAA $0 . 2 \mathrm { m g / L }$ 时，幼芽分化率显著高于其他处理，新生芽长势迅速且形成的叶片深绿健壮，由此得出百合鳞片诱导分化不定芽的最优培养条件为 $\mathrm { M S } { + } 1 . 0 \mathrm { m g / L }$ $6 { \mathrm { - } } \mathrm { B A } + 0 . 2 \mathrm { m g } / \mathrm { L } \mathrm { N A } \mathrm { A } { \mathrm { + } } 3 0 \mathrm { g } / \mathrm { L }$ 蔗糖，分化率为 $9 5 \%$ 。继3-4周后，茎叶生长状况如图 2-b；再培养2-3周，根加密加长如图 $2 { \cdot } \mathrm { d } _ { \circ }$
+
+表3不同浓度的6-BA和NAA对鳞片不定芽形成的影响  
+Tab.3 effectsof 6-BA and NAA onadventitious   
+
+<html><body><table><tr><td colspan="4">budformationinscaleadventitiousdirectly</td></tr><tr><td rowspan="2">编号</td><td>6-BA/</td><td>NAA/</td><td>分化率/%</td><td>生长状态</td></tr><tr><td>mg /L</td><td>mg /L</td><td></td><td></td></tr><tr><td>1</td><td>0.5</td><td>0.2</td><td>70bc</td><td>浅绿，较 弱</td></tr><tr><td rowspan="2">2</td><td>0.5</td><td>0.4</td><td>80b</td><td>浅绿，较</td></tr><tr><td></td><td></td><td></td><td>弱</td></tr><tr><td>3</td><td>0.5</td><td>0.6</td><td>80b</td><td>浅绿，健 康</td></tr><tr><td rowspan="2">4</td><td>1</td><td>0.2</td><td>95a</td><td>深绿，强</td></tr><tr><td></td><td></td><td></td><td>壮</td></tr><tr><td>5</td><td>1</td><td>0.4</td><td>80b</td><td>深绿，健 康</td></tr></table></body></html>
+
+<html><body><table><tr><td>6</td><td>1</td><td>0.6</td><td>65c</td><td>深绿，较 慢</td><td></td></tr><tr><td>7</td><td>1.5</td><td>0.2</td><td>65c</td><td>康</td><td>浅绿，健</td></tr><tr><td>8</td><td>1.5</td><td>0.4</td><td>50d</td><td>慢</td><td>细弱，缓</td></tr><tr><td>9</td><td>1.5</td><td>0.6</td><td>50d</td><td></td><td>细弱，缓 慢</td></tr></table></body></html>
+
+# 2.2.3鳞片诱导愈伤及分化
+
+鳞片一般在25d左右从伤口处形成浅黄或浅绿愈伤组织，然后部分愈伤组织可诱导出小芽。结果表明，愈伤再分化时，2,4-D和蔗糖不同浓度搭配对诱导小芽的效率有明显影响，由表4可见最佳培养条件为 $\mathrm { M S + 2 . 5 \ m g / L \ 2 , 4 - D + 0 . 4 \ m g / L }$ $\mathrm { T D Z ^ { + } } 6 0 ~ \mathrm { g / L }$ 蔗糖，诱导率高达 $92 \%$ ，形成愈伤组织颜色透亮泛绿，小芽分化迅速高效，生长状态如图 $2 \mathrm { - c } _ { \mathsf { c } }$
+
+<html><body><table><tr><td colspan="5">诱导的影响 Tab.4Effects ofDifferent Concentrations of2,4- D,TDZ and Sucrose on callus induction</td></tr><tr><td>编号</td><td>2.4-D/</td><td>TDZ/</td><td>蔗糖/</td><td>分化率</td></tr><tr><td>1</td><td>mg/L 2</td><td>mg/L 0.1</td><td>30 g/L</td><td>/%</td></tr><tr><td>2</td><td>2</td><td>0.2</td><td>60</td><td>30f 70e</td></tr><tr><td>3</td><td>2</td><td>0.3</td><td>90</td><td>89 ab</td></tr><tr><td>4</td><td>2.5</td><td>0.4</td><td>60</td><td>92 a</td></tr><tr><td>5</td><td>2.5</td><td>0.6</td><td>90</td><td>70e</td></tr><tr><td>6</td><td>2.5</td><td>0.2</td><td>30</td><td>70e</td></tr><tr><td>7</td><td>3</td><td>0.4</td><td>60</td><td>85bc</td></tr><tr><td>8</td><td>3</td><td>0.2</td><td>30</td><td>75 de</td></tr><tr><td>9</td><td>3</td><td>0.6</td><td>90</td><td>80 cd</td></tr><tr><td></td><td></td><td>b</td><td>C</td><td>d</td></tr></table></body></html>
+
+图2百合再生过程
+
+Fig.2The regeneration processoflily
+
+a．鳞片增殖、膨大；b.鳞片产生不定芽；c.鳞片诱导产生愈伤组织；d.生根 a.Proliferation and enlargement of lily scale;b.Buds inducement of scales; c.Calus inducement from scales; d.Rooting differentiation
+
+# 2.3抗生素筛选
+
+将百合胚性愈伤组织和鳞片薄片接种于不同质量浓度卡那霉素培养基,30d后观察褐变情况。结果表明，卡那霉素浓度低于 $5 0 \mathrm { m g / L }$ 愈伤组织褐变程度较低，但 $7 5 \mathrm { m g / L }$ 时褐变率大大增加，已达筛选浓度(表5)；鳞片的耐受力较强，高达$1 0 0 \mathrm { m g / L }$ 时基本完全遭到遏制。由于高质量浓度的抗生素能迅速杀死细胞，而死细胞对周围细胞的生长有强烈的抑制作用，不利于转化细胞生长，因此在筛选质量浓度时一般应略低于全致死浓度，据此确定百合胚性愈伤组织卡那霉素的筛选浓度为 $7 5 \mathrm { m g / L }$ 而鳞片为 $1 0 0 \mathrm { m g / L }$ 。
+
+Tab.5 sensitivity tests of antibiotics applied on tissues   
+
+<html><body><table><tr><td>Kan 浓度/mg /L</td><td>鳞片褐化率/%</td><td>愈伤组织褐化率/%</td></tr><tr><td>0</td><td>0</td><td>0</td></tr><tr><td>25</td><td>22.4</td><td>26.1</td></tr><tr><td>50</td><td>49.2</td><td>64.3</td></tr><tr><td>75</td><td>68.8</td><td>92.3</td></tr><tr><td>100</td><td>95.7</td><td>100</td></tr><tr><td>125</td><td>100</td><td>100</td></tr></table></body></html>
+
+头孢霉素抗性广，能有效抑制细菌生长，而且对植物细胞无明显毒性,在植物遗传转化中不可或缺。实验选择头孢霉素作为抑菌性抗生素，设定质量浓度梯度为100,250,500, $7 5 0 \mathrm { m g / L }$ 进行敏感性试验。结果显示，头孢霉素能有效抑制细菌滋生且不抑制植物细胞正常生长，能使外植体形成愈伤组织或分化出不定芽，其选择压 $2 5 0 \mathrm { m g / L }$ 开始即可达到较好抑菌效果。从前人研究来看，较多采用${ 5 0 0 } \mathrm { m g / L }$ 的头孢霉素为选择压。从经济角度出发，转化外源基因并共培养后可先用 $5 0 0 \mathrm { m g / L }$ ，进一步选择培养可设为 $2 5 0 \mathrm { m g / L }$ 。
+
+# 2.4农杆菌侵染条件优化
+
+作为转基因的重要步骤农杆菌侵染，不同组合的处理方式对遗传转化效率的影响有显著差异，经预试验探索，以愈伤组织和鳞片为受体，分别设计了四因素三水平正的交试验，以筛选最佳侵染条件。
+
+实验结果表明，侵染鳞片后，置于直接分化培养基内一般两周左右开始分化小芽；以遗传转化效果得出在鳞片预培养3d，农杆菌 $\mathrm { O D } _ { 6 0 0 } = 0 . 6$ ，侵染时间40min，As乙酰丁香酮浓度为 $2 0 0 \mu \mathrm { m o l / L }$ 时转化效率最高，为 $12 . 9 \%$ 。预培养3d有利于改善受体生理状态；菌液浓度过高易造成农杆菌生长不受控制而降低转化效率，菌 $\mathrm { O D } _ { 6 0 0 } = 0 . 6$ 时效果最好；作为单子叶植物的百合适宜的侵染时间可长达 $4 0 \mathrm { { m i n } }$ ，且需要添加As以促进农杆菌的附着和侵染；另经试验验证，侵染后的共培养为暗培养3d最为合适，鳞片转化后直接分化出芽见图3-a。为保证外植体能够持续吸收营养物质和外源激素的有效性，应10d 换一次新鲜培养基。
+
+结果表明，愈伤组织作为受体，其达到胚性愈伤状态所需时间长，故最优预培养时间为5d，愈伤组织疏松壁薄易于接受农杆菌；农杆菌易富集于愈伤表面造成污染而降低转化效率，浓度以 $\mathrm { O D } _ { 6 0 0 } = 0 . 4$ 最佳；其他条件与受体为鳞片时无差异，转化后分化生长状态见图 $3 \mathrm { - b }$ 。
+
+表5受体组织的抗生素敏感试验  
+表6鳞片转化条件优化Tab.6 Optimization of Scale Transformation  
+
+<html><body><table><tr><td colspan="7">Conditions</td></tr><tr><td rowspan="5">序 号</td><td>农</td><td>预</td><td>侵</td><td></td><td></td><td></td></tr><tr><td>杆</td><td>培</td><td>染</td><td>AS浓</td><td>分化</td><td>最终</td></tr><tr><td>菌</td><td>养</td><td>时</td><td>度</td><td></td><td>转化</td></tr><tr><td>OD</td><td>时</td><td>间</td><td>μmol/L</td><td>率/%</td><td>率/%</td></tr><tr><td></td><td>间</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>值</td><td>/d</td><td>/min</td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>1</td><td>0.4</td><td>1</td><td>20</td><td>100</td><td>9.6</td><td>4.69 f</td></tr><tr><td>2</td><td>0.4</td><td>3</td><td>30</td><td>150</td><td>10.68</td><td>6.52de</td></tr><tr><td>3</td><td>0.4</td><td>5</td><td>40</td><td>200</td><td>19.2</td><td>9.73 b</td></tr><tr><td>4</td><td>0.6</td><td>1</td><td>30</td><td>150</td><td>10.68</td><td>7.59cd</td></tr><tr><td>5</td><td>0.6</td><td>3</td><td>40</td><td>200</td><td>30.20</td><td>12.9 a</td></tr><tr><td>6</td><td>0.6</td><td>5</td><td>20</td><td>100</td><td>20.30</td><td>9.21bc</td></tr><tr><td>7</td><td>0.8</td><td>1</td><td>30</td><td>150</td><td>12.90</td><td>7.67cd</td></tr><tr><td>8</td><td>0.8</td><td>3</td><td>20</td><td>100</td><td>10.40</td><td>5.84ef</td></tr><tr><td>9</td><td>0.8</td><td>5</td><td>40</td><td>200</td><td>13.40</td><td>7.91cd</td></tr></table></body></html>
+
+表7愈伤转化条件优化 Tab.7 Optimization of Callus Transformation   
+
+<html><body><table><tr><td colspan="7">Conditions</td></tr><tr><td>序 号</td><td>农 杆 菌 OD 值</td><td>预 培 养 时 间 /d</td><td>侵染 时间 /min</td><td>AS浓 度 μmol/L</td><td>分化率 1%</td><td>最终转 化率/%</td></tr><tr><td>1</td><td>0.4</td><td>1</td><td>20</td><td>100</td><td>12.80</td><td>2.10 d</td></tr><tr><td>2</td><td>0.4</td><td>3</td><td>30</td><td>150</td><td>31.00</td><td>7.05 bc</td></tr><tr><td>3</td><td>0.4</td><td>5</td><td>40</td><td>200</td><td>32.00</td><td>11.6 a</td></tr><tr><td>4</td><td>0.6</td><td>1</td><td>30</td><td>150</td><td>12.40</td><td>4.58 cd</td></tr><tr><td>5</td><td>0.6</td><td>3</td><td>40</td><td>200</td><td>25.50</td><td>9.21 bc</td></tr><tr><td>6</td><td>0.6</td><td>5</td><td>20</td><td>100</td><td>20.20</td><td>8.20 bc</td></tr><tr><td>7</td><td>0.8</td><td>1</td><td>30</td><td>150</td><td>9.20</td><td>4.06 cd</td></tr><tr><td>8</td><td>0.8</td><td>3</td><td>20</td><td>100</td><td>11.2</td><td>7.83 cd</td></tr><tr><td>9</td><td>0.8</td><td>5</td><td>40</td><td>200</td><td>16.30</td><td>8.13 bc</td></tr></table></body></html>
+
+![](images/eb59af86d31d7ae35fcaffaca22eab54ab2185c1423e8f233b90b963e282ab54.jpg)  
+图3a.鳞片遗传转化直接分化；b.转化时通过愈伤组织间接转化  
+Fig.3 a.direct differentiation in translation;b.indirect differentiation in translation;
+
+# 2.5LcGR遗传转化及PCR检测
+
+利用PCR 检测在抗性条件下成活的转基因植株，先检测796bp 的选择标记基因NPTII，得到PCR 条带(图3)，再对目的基因 $L c G R$ 的427bp片段进行检测，得到PCR 条带(图4),经过对标记基因和目的基因的检测,得到阳性转基因植株。根据阳性植株算转化率，愈伤最优转化率为 $1 1 . 6 0 \%$ ，而鳞片为 $12 . 9 \%$ 。由转化效率可见，愈伤组织和鳞片都是百合比较适合做侵染试验，其遗传转化分化后生长情况见图2-e和2-f。
+
+![](images/03bef647afed519d921630e6e936e3e6aaf5f77124d70e4217f4237c76973c65.jpg)  
+图4转基因百合的NPTII(a)和LcGR(b)基因的PCR产物电泳图 Fig.4 Electrophoresis of PCR product of NPTII and LcGR genes in the transgenic lily lines
+
+3.讨论
+
+# 3.1鳞片再生体系建立
+
+百合鳞片直接再生能力强，再生体系的摸索和优化是基因转化的基础（陈丽静等2013）。鳞片形成再生植株的途径可分为2种：一是鳞片诱导愈伤组织并再分化形成再生植株；另一个为直接分化出不定芽和不定根形成再生植株。Duong等[17]提出为避免愈伤组织细胞突变可优选直接再生体系，但胚性愈伤组织有利于外源基因整合到植物基因组中。本文通过实验证明以百合鳞片为外植体两种再生体系均可顺利分化出不定芽和不定根，进行遗传转化并再生为完整新植株，为百合进一步基因转化奠定了良好基础。
+
+在鳞片直接分化中，TANG等[18]提出BA作用明显，但本文试验表明若BA浓度过高会抑制新芽发育，致分化率降低。在愈伤组织分化中，2,4-D和蔗糖浓度作用显著，蔗糖浓度偏低会致使愈伤组织难以形成，但试验结果显示浓度过高易会引起愈伤组织畸形、难以维持胚性和过早分化等弊端，以浓度 $6 0 \mathrm { g / L }$ 为优。同时，2,4-D浓度过高会抑制胚性愈伤诱导，若搭配TDZ 则愈伤组织的分化效果明显，不仅分化率较高愈伤组织颜色透绿，结构紧致。
+
+# 3.2农杆菌侵染转化
+
+农杆菌侵染的遗传转化过程包括：农杆菌的活化、受体准备、侵染、共培养、抗生素筛选等，每一步都对转化率有重要的影响。
+
+本文选择鳞茎薄片和愈伤组织作为受体，因为它们伤口和创面够大，足以与菌液充分接触。农杆菌浓度以OD6000.4-0.6最适宜，此时细胞分裂生长旺盛，菌活性较强，可提高对百合受体的亲和性。转化前受体材料预培养也是重要影响因素，可调整和改善受体材料的生理状态，Gheysen 等[19]研究指出活跃分裂的细胞对农杆菌介导的基因转化更敏感，本实验结论与其一致，证明受体预培养3d左右能明显提高转化效率。其原因是：一方面可促进细胞分裂使细胞活性增强，进而易于从农杆菌接受外源基因；另一方面是可先筛选掉部分状态不好的外植体。AS乙酰丁香酮，可活化Vir基因系统，能有效提高农杆菌对植物的附着能力，本实验结果表明As浓度 $2 0 0 \mu \mathrm { m o l / L }$ 效果最佳。愈伤组织有利于外源基因整合到植物基因组中，鳞片直接分化可以避免再生过程中变异的发生，且缩短了诱愈时间，本实验探索受体类型时选择了愈伤组织和鳞片。正交试验的转化结果显示：愈伤最优转化率为 $1 1 . 6 0 \%$ ，而鳞片为 $12 . 9 \%$ ，表明愈伤组织和鳞片均可做遗传转化的受体材料。
+
+# 4.结论
+
+$\textcircled{1}$ 通过不同培养基和激素的正交试验，建立了百合鳞片作为外植体直接分化和间接分化的再生体系：鳞片直接分化最优条件为 $\mathrm { M S + 1 . 0 m g / L 6 - B A + 0 . 2 m g / L }$
+
+NAA，间接分化取优余件为 $\mathrm { M S ^ { + } 2 . 5 m g / L ~ 2 , 4 - D + 0 . 4 m g / L ~ T D Z ^ { + } 6 0 g / L }$ 庶裙；
+
+$\textcircled{2}$ 百合鳞片的卡那霉素选择压为 $1 0 0 ~ \mathrm { { m g / L } }$ ，愈伤组织为 $7 5 \mathrm { m g / L }$ ： $\textcircled{3}$ 通过对遗传转化过程中各个条件的优化，建立了鳞片直接和间接遗传转化   
+体系。直接转化体系为：农杆菌 $\mathrm { O D } _ { 6 0 0 } { = } 0 . 6$ ，预培养3d，侵染时间 $4 0 \mathrm { m i n }$ ，As浓   
+度为 $2 0 0 \mu \mathrm { m o l / L }$ ，获得的阳性植株转化率为 $1 7 . 5 0 \%$ ；间接转化体系为：农杆菌   
+$\mathrm { O D } _ { 6 0 0 } { = } 0 . 4$ ，预培养5d,侵染 $4 0 \mathrm { m i n }$ ,As $2 0 0 \mu \mathrm { m o l / L }$ ;得的阳性植株转化率为 $12 . 6 0 \%$ 。 本文优化了百合鳞片的直接和间接再生体系，建立并完善了农杆菌介导的百   
+合遗传转化受体系统，为后续百合的基因功能验证以及种质改造奠定了基础。 （204号   
+参考文献   
+[1] Wang Y, Be van K, Ti M, et al. Regeneration and Agrobacterium-mediated transformation of multiple lily cultivars. Plant Cell Tissue Organ Culture.2012,111:113-122.   
+[2] Adisa P, Jasmina C, Edina M, et al. Induction of bulblets on leaf and bulb explants of endangered Lilium bosniacum (G. Beck)G. Beck ex Fritsch. Botanica Serbica.2011,35(1):31-35. [3] Mehdi B, Mesbah B, Masoud M. Somatic embryogenesis and plant regeneration of Lilium ledebourii (Baker) Boissan endangered species. Plant Cell Tissue and Organ Culture.2010, 102:229-235.   
+[4] Mori S, Adachi Y, Horimoto S. Callus formation and plant regeneration in various Lilium species and cultivars. In vitro Cellular &Developmental Biology. 2005, 41(6):783-788.   
+[5] Sharma K K, Bhatnagar M P, Thorpe T A. Genetic transformation technology: status and problems. In Vitro Cellular & Developmental Biology-Plant.2005,41(2): 102-112.   
+[6] Kim E K,Hahn E J,Murthy H N. High frequency of shoot multiplication and bulblet formation of garlic in liquid cultures. Plant Cell Tissue and Organ Culture. 2003,73:231-236. [7]胡凤荣.百合种质资源鉴定与组培快繁技术体系研究.南京林业大学博士学位论文.2007. Hu F R, Shi J S. Study on the Technical System of Lily Germplasm Identification and Tissue Culture. Nanjing Forestry University. 2007.   
+[8]Francisco F,Nufez C G, Michael R D, et al. Conferred resistance to Botrytis cinerea in Lilium by overexpression of the RCH10 chitinase gene.Plant Cell Reports.2015,34:1201-1209.   
+[9] Liu X H, Gu JH, Wang J M, et al. Lily breeding by using molecular tools and transformation systems. Molecular Biology Reports.2014, 41:6899-6908.   
+[10]Hoshi Y，Kondo M, Mori S，et al. Production of transgenic lily plantsby Agrobacterium-mediated transformation. Plant Cell Reports. 2004,22(6):359-64.   
+[11]张延龙,梁建丽,牛立新.东方百合试管鳞茎膨大的研究.西北农林科技大学学报(自然科学 版),2006,34(6): 75-78.   
+Zhang YL, Ling JL, Niu L X. Research on the growth of oriental lily bulblet in tube.Journal of Northwest Science Tech University of Agriculture and Forest. 2006, 34(6): 75-78.
+
+[12]向地英,薛木易,邹丽红.铁炮百合离体再生体系的建立.江苏农业科学.2015,43(2):55-57.
+
+Xiang D Y, Xue M Y, Zou L H. Establishment of Regeneration System of Lilium longiflorum. Journal of Jiangsu Agricultural Sciences.2015,34(6):75-78.
+
+[13]张杰,李洋,孙红梅.LA系列百合'Eyeliner'花器官组培快繁技术研究.西北植物学报.2014,34(9):1894-189.
+
+Zhang J, Li Y, Sun H M. Floral Organs Tissue Culture and Rapid Propagation Technology of Lilium longiflorum $\mathrm { \times L }$ .asiatic Hybrid ‘Eyeliner'.2014,34(9):1894-189.
+
+[14] Ma Z,An T, Zhu X, et al. GR1-like gene expression in Lycium chinense was regulated by cadmium-inducedendogenousjasmonicacidsaccumulation. Plantcell reports.2017, 299-017-2168-2
+
+[15]贾翠翠,季静,王罡,等.过表达谷胱甘合成酶基因增强烟草对镉的耐受性.中国生物工程杂志,2014,10:79-86.
+
+Jia C C,Ji J, Wang G, et al. Over-expression of Glutathione Synthase Gene Enhances Cadmium Tolerance in Transgenic Tobacco Plant.China Biotechnology,2014,10:79-86.
+
+[16] Wang Y, Kronen B C,Menzel T R.Agrobacterium-mediated Transformation of Lilium longiflorum.IXthIntl. Symp. on Flower Bulbs.2005,673.
+
+[17] Duong T N，Bui V L,Michio T，et al .Shoot induction and plant regeneration from receptacle tissues of Lilium longiflorum..2001, 87 (1 -2):131 -138.
+
+[18] TANG D Q, QIAN HM, HUANG D F, et al . Establishment of gene transformation acceptor system of embryogenic callus in lily.Journal of Zhejiang Forestry College.2003,20(3):273-276.
+
+[19]Gheysen G， Angenon G， VanMontagu M， Transgenicplants: Agrobacterium tumefaciens-mediated transformation and its used for crop improvement. Murray J A H. Transgenesis. John Wiley, Sons Chichester.1992.187-232.

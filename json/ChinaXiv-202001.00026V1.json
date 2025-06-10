@@ -1,0 +1,385 @@
+[
+    {
+        "type": "text",
+        "text": "不同植被覆盖度沙垄土壤化学性质的空间分异",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李浙华}²，李生宇'，李丙文'，范敬龙'，蒋进'，李亚萍},²，宋春武'(1.中国科学院新疆生态与地理研究所,国家荒漠－绿洲生态建设工程技术研究中心,中国科学院莫索湾沙漠研究站，新疆乌鲁木齐 830000；2．中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了研究温带固定半固定沙漠土壤化学性质与地表植被的关系,本文以古尔班通古特沙漠西南缘莫索湾地区沙漠-绿洲过渡带为研究区，分别选取植被覆盖度为 $10 \\%$ 和 $1 5 \\%$ 的半固定沙垄及植被覆盖度为 $3 0 \\%$ 的固定沙垄。采集了各沙垄不同地貌部位的土壤样品,室内测试了土壤pH、电导率、有机质、全氮和全磷等指标。结果表明： $\\textcircled{1}$ 随着植被覆盖度下降，沙垄西坡、坡顶和东坡，土壤 $\\mathrm { \\ p H }$ 、电导率、有机质、全氮和全磷呈逐渐降低趋势； $\\textcircled{2}$ 不同地貌部位的分布格局各沙垄表现不一致，沙垄A和沙垄B的 $\\mathrm { \\ p H }$ 、电导率、有机质、全氮和全磷含量最大值均出现在垄间地，其他部位之间没有明显的规律，沙垄C的 $\\mathrm { \\ p H }$ 和电导率最大值出现在垄间地，而土壤养分含量在坡顶部位富集； $\\textcircled{3}$ 各沙垄不同土层土壤性质分布规律相对一致,土壤 $\\mathrm { \\ p H }$ 、电导率随着土层深度的增加呈上升的趋势，而土壤养分随着土层深度的增加而降低； $\\textcircled{4}$ 土壤化学性质空间分布异质性与植被的分布格局密切相关,相互影响，当植被覆盖度较高时,生物作用起主导作用,当植被覆盖度较低时,风蚀、地形等非生物因素作用加强,影响生物作用,植被对土壤颗粒和养分的拦截及富集作用逐渐减弱或消失。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：沙漠-绿洲过渡带；植被覆盖度；土壤化学性质；空间分布；古尔班通古特沙漠 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤化学性质是衡量土壤质量的重要参数，决定了植被分布格局，影响着植物生长发育状况。在气象和水文条件共同作用下，土壤水分状况和化学性质具有大尺度的空间分异性，而局地的地貌特征和植被覆盖度则造成了土壤空间异质性。Kl-emmedson等['对荒漠生态系统中植物生物量与养分分配关系进行了研究，发现荒漠植物冠幅下具有显著土壤资源聚集现象，称为“肥岛”效应。刘进辉等[2-3]研究发现,随着灌丛沙堆植被覆盖度的下降，土壤pH、盐分及土壤养分等土壤化学性质呈逐渐降低趋势。钱亦兵等[4研究表明，土壤盐分和养分等化学性质也受到植被和地形的影响，具有梯度性变化规律。也有研究报道,在相同地形条件下，植被可影响土壤水分和养分的群落尺度空间分布，而地形因素是影响土壤水分和养分含量的关键因素[5)在干旱区生态系统中，无论在大尺度或小尺度上，土壤化学性质含量分布都具有一定的空间异质性[。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关于地形和灌丛对土壤化学性质的影响已有不少报道，但多数集中在微地形或灌丛尺度上，关于灌丛的研究也仅限于灌丛植被下与空白地的对比[2],而不同植被覆盖下沙垄及沙垄地貌不同部位的土壤化学性质空间分布尚没有定量的系统研究。在干旱区研究土壤化学性质的空间异质性与地形和植被等影响因子的关系，对揭示干旱区生态系统自然因子作用机制和恢复沙漠-绿洲过渡带退化荒漠植被具有重要的理论意义和实践价值。本文以古尔班通古特沙漠西南缘莫索湾地区沙漠－绿洲过渡带为研究区，通过采样分析，研究不同植被盖度沙垄及沙垄不同部位土壤化学性质空间差异，查明土壤化学性质空间分异的发生机制。研究结果有助于深入了解荒漠生态系统物质运移规律，可为自然生境下荒漠植物保育和生态修复提供理论依据",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况和研究方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区域位于古尔班通古特沙漠西南缘的莫索湾垦区，呈狭长状，向西北深入沙漠，为20世纪50年代新疆生产建设兵团的重要垦殖区。研究区块位于中国科学院莫索湾沙漠研究站内( $8 6 ^ { \\circ } 0 6 ^ { \\prime } \\sim$ $8 6 ^ { \\circ } 5 0 ^ { \\prime } \\mathrm { E } , 4 4 ^ { \\circ } 4 0 ^ { \\prime } \\sim 4 5 ^ { \\circ } \\mathrm { N }$ ，海拔 $3 4 6 . 8 \\mathrm { ~ m } \\mathrm { , }$ ），研究区属温带大陆性干旱气候，区域主要优势种群为白梭梭(Haloxylon persicum）与梭梭（Haloxylon ammoden-dron)群落,为我国梭梭荒漠区域的典型分布区[7]。地表起伏不平，风沙地貌以树枝状纵向沙垄为主，沙龙高 $5 \\sim 2 0 \\mathrm { ~ m ~ }$ ，长达数千米,地表呈固定、半固定状态，沙垄裸露程度大，土质结构松散、易风蚀。区域年平均气温 $4 \\sim 6 \\mathrm { ~ ‰ ~ }$ 的活动积温可达$3 ~ 0 0 0 \\sim 3 ~ 5 0 0 ~ \\mathrm { ^ { \\circ } C }$ ,年均日照时数 $3 ~ 1 0 0 \\sim 3 ~ 2 0 0 \\mathrm { ~ h ~ }$ ；年均降水量 $1 1 4 . 8 9 \\ \\mathrm { m m }$ ,潜在蒸发量 $1 ~ 9 4 2 . 1 ~ \\mathrm { m m }$ ，干燥度16.9。冬季有积雪，厚度约 $1 3 \\ \\mathrm { c m }$ ,最大可达27$\\mathrm { c m } ^ { ( 8 ) }$ 。春夏季多风,主风向WNW 和ESE,最大风速达 $2 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 [ 9 ] }$ 。该区处于沙漠－绿洲过渡带,土壤为干旱砂质新成土，为绿洲和沙漠的缓冲区，生态敏感脆弱，受绿洲生态系统和荒漠生态系统的双重影响,对绿洲生态安全具有重要作用[2,10]。20 世纪50 年代以来，气候变化以及人类因素使该区沙垄活化，风沙活动频发，危及沙区人居环境安全与可持续发展[11]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1试验设计于2017年6月选择植被（白梭梭群落)盖度为 $10 \\%$ （沙垄A)和 $1 5 \\%$ （沙垄B)的固定半固定沙垄，植被［怪柳（Tamarixchinensis）群落]盖度为 $30 \\%$ （沙垄C）的固定沙垄作为试验样地。相邻沙垄垄顶间距约 $2 0 0 \\mathrm { ~ m ~ }$ ,垄顶与垄间地的最大高差 $7 \\mathrm { ~ m ~ }$ 。其中沙垄A东坡（背风坡)坡长$2 7 . 6 \\mathrm { ~ m ~ }$ ,坡度 $2 1 ^ { \\circ }$ ,西坡(迎风坡)坡长 $1 3 . 4 \\mathrm { ~ m ~ }$ ,坡度$1 6 ^ { \\circ }$ ;沙垄B东坡坡长 $8 \\mathrm { ~ m ~ }$ ,坡度 $1 2 ^ { \\circ }$ ,西坡坡长24.3$\\mathrm { ~ m ~ }$ ,坡度 $1 6 ^ { \\circ }$ ;沙龙C东坡坡长 $1 2 . 7 \\mathrm { ~ m ~ }$ ,坡度 $1 9 ^ { \\circ }$ ，西坡阴坡坡长 $4 \\mathrm { ~ m ~ }$ ,坡度 $2 0 ^ { \\circ }$ 。各沙垄的植被分布特征和形态特征如表1所述。每个沙垄设置3条样带，样带宽 $2 \\mathrm { ~ m ~ }$ 、长度不一。在样带的西坡、坡顶、东坡和垄间地部位采集土壤样品（图1),用直径 $5 0 ~ \\mathrm { m m }$ 、高 $1 0 0 ~ \\mathrm { { m m } }$ 环刀进行采集，每个部位取3次重复，采集深度分别为 $0 \\sim 1 0 \\ \\mathrm { c m } \\ . 1 0 \\sim 2 0 \\ \\mathrm { c m } \\ . 2 0 \\sim 3 0 \\ \\mathrm { c m }$ ，每个深度取样3次，混合均匀，取 $1 / 3$ 装自封带，做好标记,带回实验室测试。每个样品均测定3次，取其平均值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2指标测定和数据处理土样自然阴干，过孔径 $0 . 5 \\ \\mathrm { m m }$ 筛子，送实验室进行 $\\mathrm { \\ p H }$ 、电导率、有机质、全氮和全磷指标的测定。pH和电导率采用1：5水土比溶液测试，有机质采用重铬酸钾法测定，全氮采用凯氏法，全磷含量采用DU800紫外分光光度计测定，全钾使用火焰光度计测定。数据都采用R语言进行分析，并使用R语言进行单因素方差分析（One-wayANOVA)和多重比较（LSD），用来检验沙垄各部位之间和各土层之间土壤水分及土壤化学性质是否存在显著的差异，并比较不同植被覆盖度下沙垄土壤化学性质的差异。绘图主要采用Origin2017制图软件。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a3442bda9c9a8a061cdf31975e57a728abbcd19f500279ac01c8b9b2c1dff58.jpg",
+        "table_caption": [
+            "表1各样地基本状况",
+            "Tab.1Basic information of the sample plots "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>沙垄类型</td><td>植被特征的描述</td><td>沙垄积蚀强度描述</td></tr><tr><td>有分布</td><td>沙垄A以白梭梭为主。株高大于200cm 沙垄剖面近对称性。 植株主要分布在西坡，为样带植垄间地无积沙，结皮 株总数的17%;株高介于100～盖度较大 200cm植株在各沙垄部位均有分 布，但西坡所占比例最大，坡顶次 之，东坡最小;50~100cm植株 主要分布在西坡和垄间地；当年 白梭梭新生幼苗于各地貌部位均</td><td></td></tr><tr><td></td><td>沙垄B以白梭梭为主，伴生有沙拐枣。沙垄剖面略不对称。 白梭梭株高大于200 cm 的植株 垄间地为沙土平地, 主要分布在坡顶，株高100~200结皮盖度很小 cm 植株在西坡、东坡、垄间地均 有分布，西坡平均株高达到167 cm，垄间地平均株高115cm;植株 高度小于50cm的白梭梭数量较 多，主要分布在坡顶，密度达到 25.88株·m-²</td><td></td></tr><tr><td></td><td>沙垄C以怪柳为主，白梭梭少量分布。基部至顶部差异性不 怪柳长势茂盛，主要分布在坡顶显著，呈半球体状沙 和西坡部位，坡顶最多;东坡也有垄结皮盖度大 少量分布;丘间地有结皮</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/587d9b37e75ef417d1596cbdf8b3af73bd1d6c9dbbb18f309a3a5e4722db7b02.jpg",
+        "img_caption": [
+            "图1沙垄取样点和风向频率玫瑰图 Fig.1The sampling points of a longitudinal dune and wind rose "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1土壤pH空间变化特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，随着沙垄植被覆盖度的降低，沙垄各部位土壤 $\\mathrm { \\ p H }$ 总体呈逐渐降低的变化规律，但沙垄A与沙垄B的差异不显著( $\\cdot P > 0 . 0 5 )$ ,不同沙垄同一部位 $\\mathrm { \\ p H }$ 下降幅度也不尽相同。在西坡、坡顶、东坡和垄间地,沙垄C的 $\\mathrm { \\ p H }$ 分别为 $8 . 0 6 、 7 . 9 3 、 8$ ：36和8.15，至沙垄B则下降为 $7 . 9 6 , 7 . 4 3 , 7 . 6 1$ 和7.93，降幅分别为 $1 . 2 \\% . 6 . 7 \\% . 8 . 9 \\%$ 和 $2 . 7 \\%$ 。沙垄B与沙垄A各部位 $\\mathrm { \\ p H }$ 变化规律相似，西坡和垄间地 $\\mathrm { \\ p H }$ 较高，坡顶和东坡次之，但沙垄A各部位之间差异性不显著( $\\textstyle P > 0 . 0 5 )$ ,沙垄B西坡和坡顶、西坡和东坡、垄间地和坡顶、垄间地和东坡两两之间均存在显著差异( $\\begin{array} { r } { P > 0 . 0 5 \\ ' } \\end{array}$ )；沙垄C则垄间地出现最大值，坡顶最小，且垄间地 $\\mathrm { \\ p H }$ 显著大于坡顶( $P <$ 0.05），其他部位之间差异不显著( $\\cdot P > 0 . 0 5 )$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b21504f3bd9b211ada394e3a1eaf90d6a40effc23377d19615fe64320d4a0cf.jpg",
+        "img_caption": [
+            "Fig.2The change of soil $\\mathrm { \\ p H }$ value "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在垂直方向上，同一沙垄不同土层 $\\mathrm { \\ p H }$ 总体随着土层深度的增加而增大的变化规律。沙垄A20$\\sim 3 0 \\ \\mathrm { c m }$ 土层 $\\mathrm { \\ p H }$ 显著大于 $1 0 \\sim 2 0 ~ \\mathrm { c m }$ ( $\\textstyle P < 0 . 0 5 )$ ，其他沙垄各土层的差异不显著 ${ ' } P > 0 . 0 5 { \\mathrm { ~ , ~ } }$ 。沙龙A的pH从7.75增加到8.05，增幅 $3 . 9 \\%$ ;沙垄B从7.69增加到7.76，增幅 $0 . 9 \\%$ ;沙垄C从8增加到",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8.20，增幅 $2 . 5 \\%$ ,属偏碱性土壤。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤电导率空间变化特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，随着沙垄植被覆盖度的下降，土壤电导率与土壤 $\\mathrm { \\ p H }$ 变化规律相似，于各沙垄部位总体呈逐渐降低趋势。沙垄A和沙垄B在不同地貌部位均表现迥异，没有明显的变化规律，且在不同部位上电导率下降幅度也不尽相同。在西坡，沙垄C最大值为 $3 8 3 . 7 ~ \\mu \\mathrm { S } \\cdot \\ c \\mathrm { m } ^ { - 1 }$ ,最小值位于沙垄A,为$1 1 8 . 4 ~ { \\mu \\mathrm { S } } \\cdot \\mathrm { c m } ^ { - 1 }$ ,下降幅度 $6 9 . 1 \\%$ ；对于坡顶和垄间地,沙垄C电导率分别为 $5 4 0 . 3 ~ { \\mu \\mathrm { S } } \\cdot { \\mathrm { ~ c m } } ^ { - 1 }$ 和$8 0 6 . 3 ~ \\mu \\mathrm { S } \\cdot \\ c \\mathrm { m } ^ { - 1 }$ ,至沙垄B则下降到 $1 2 9 . 4 ~ \\mu \\mathrm { S }$ ：$\\mathrm { c m } ^ { - 1 }$ 和 $2 3 5 . 3 ~ \\mu \\mathrm { S } \\cdot \\ c \\mathrm { m } ^ { - 1 }$ ，下降幅度为 $7 6 . 1 \\%$ 和$7 0 . 8 \\%$ ；但在东坡，最大值出现在沙垄B，为178.1$\\mu \\mathrm { S } \\cdot \\mathrm { c m } ^ { - 1 }$ ,最小值位于沙垄C,为 $1 2 3 . 6 ~ { \\mu \\mathrm { S } } \\cdot \\mathrm { c m } ^ { - 1 }$ ，下降幅度 $3 0 . 6 \\%$ 。除东坡部位,沙垄C于西坡、坡顶和垄间地电导率均显著大于沙垄A和沙垄B（ $\\textstyle P < 0 . 0 5 ,$ ，且沙垄A和沙垄B的差异不显著( $P >$ 0.05）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "沙垄个体部位，各沙垄电导率都以垄间地最大。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/13543fbaa569905eeac8e3c1c2d3895cbd34d22f866df3f4323c2c5739788a89.jpg",
+        "img_caption": [
+            "图2土壤 $\\mathrm { \\ p H }$ 值变化规律",
+            "图3土壤电导率变化规律",
+            "Fig.3The change of soil electrical conductivity "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "沙垄A垄间地电导率显著大于西坡和东坡( $\\boldsymbol { P } <$ 0.05），沙垄C垄间地电导率显著大于东坡( $\\boldsymbol { P } <$ 0.05），沙垄B各部位之间差异不显著( $\\cdot P > 0 . 0 5 )$ ，且各沙垄其他部位之间没有明显的变化规律。在垂直方向上，同一沙垄不同土层电导率总体也随着土层深度的增加而增大的变化规律。沙垄 $\\mathrm { ~ C ~ } 2 0 \\sim 3 0$ cm土层电导率显著大于 $0 \\sim 1 0 \\ \\mathrm { c m }$ ( $\\textstyle P < 0 . 0 5 ~ ,$ 土层,沙垄A和沙垄B各土层之间均不存在显著性差异( $\\textstyle P > 0 . 0 5 )$ ，沙垄A电导率从 $1 4 0 . 7 ~ { \\mu \\mathrm { S } } \\cdot \\mathrm { c m } ^ { - 1 }$ 增加到 $2 2 0 . 3 ~ \\mu \\mathrm { S } \\cdot \\mathrm { c m } ^ { - 1 }$ ,增幅 $5 6 . 6 \\%$ ;沙垄B电导率从 $1 3 7 . 6 ~ { \\mu \\mathrm { S } } \\cdot { \\mathrm { ~ c m } } ^ { - 1 }$ 增加到 $2 0 6 ~ { \\mu \\mathrm { S } } \\cdot \\mathrm { c m } ^ { - 1 }$ ,增幅$4 9 . 7 \\%$ ;沙垄C电导率从 $1 9 0 . 9 ~ \\mu \\mathrm { S } \\cdot \\epsilon \\mathrm { m } ^ { - 1 }$ 增加到$7 4 2 . 5 ~ { \\mu \\mathrm { S } } \\cdot \\mathrm { c m } ^ { - 1 }$ ,增幅 $2 8 8 . 9 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤有机质空间变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，随着植被覆盖度的下降，土壤有机质和 $\\mathrm { \\ p H }$ 、电导率的变化规律相似，于各沙垄部位总体呈下降趋势，且在不同地貌部位上有机质下降幅度也不尽相同。在西坡、东坡和垄间地，沙垄C各部位最大有机质含量为 $3 . 4 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 } \\cdot 3 . 7 1 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 }$ 和 $2 . 6 4 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ ,至沙垄B减少到 $1 . 3 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g } ^ { - 1 }$ 、$1 . 3 1 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ 和 $2 . 3 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,下降幅度为 $5 2 . 3 \\%$ 、$6 4 . 7 \\%$ 和 $1 2 . 1 \\%$ 。对于坡顶，沙垄C有机质含量为$3 . 4 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g } ^ { - 1 }$ ,最小值出现在沙垄A,为 $\\begin{array} { r } { 1 . 6 3 \\mathrm { ~ g ~ } \\cdot } \\end{array}$ （20$\\mathbf { k g } ^ { - 1 }$ ，下降幅度为 $6 1 . 4 \\%$ 。除垄间地外,于西坡、坡顶和东坡上，沙垄C有机质含量显著大于沙垄A和沙垄B( $\\cdot P < 0 . 0 5 )$ ，但沙垄A和沙龙B在各部位没",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/230bc0d56fed9811213bfdbd153bde2b9089abfe970accbb124b7f4ea1316ade.jpg",
+        "img_caption": [
+            "图4土壤有机质变化规律",
+            "Fig.4The change of soil organic matter content "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "有明显的变化规律。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "沙垄个体部位，各沙垄表现各异。沙垄A垄间地有机质含量显著大于西坡、垄间地和东坡部位（ $\\textstyle P < 0 . 0 5 ,$ ，西坡、坡顶和垄间地没有明显的变化规律，互相之间差异性不显著( $\\textstyle P > 0 . 0 5 )$ 。沙垄B总体上和沙垄A保持相对一致的变化规律，有机质最大值均出现在垄间地部位，垄间地和坡顶有机质含量均显著大于西坡和东坡( $\\cdot P < 0 . 0 5 )$ 。沙垄C与前两者沙垄部位变化规律不同，有机质最大出现在坡顶，最小值出现在垄间地部位，但各部位之间差异性不显著 $( P > 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在垂直方向上，各沙垄都保持相对一致的变化规律，随着土层深度的增加，土壤有机质含量呈逐渐降低的趋势，沙垄A有机质从 $2 . 0 2 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ 减少到$1 . 6 9 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,沙垄B有机质从 $1 . 9 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 减少到$1 . 6 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,沙垄C从 $4 . 2 6 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 降至 $2 . 7 3 \\mathrm { ~ g ~ }$ ：$\\mathbf { k g } ^ { - 1 }$ ,各沙垄有机质降幅分别为 $1 6 . 3 \\%$ ） $1 4 . 2 \\%$ 和$3 5 . 9 \\%$ 。其中沙垄 $\\mathrm { ~ C ~ } 0 \\sim 1 0 \\ \\mathrm { c m }$ 土壤有机质含量显著大于 $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土壤有机质含量( $\\cdot P < 0 . 0 5 )$ ，沙垄A和沙垄B之间不同土层土壤的差异均不显著（ $\\cdot P > 0 . 0 5 )$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4土壤全氮和全磷空间变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图5和图6所示，随着植被覆盖度的下降，土壤全氮和全磷在西坡、坡顶和东坡与 $\\mathrm { \\ p H }$ 、电导率和有机质变化规律相对一致，总体呈逐渐下降趋势，但在垄间地部位与其他部位变化规律表现迥异，且沙垄各部位下降幅度表现也不尽相同。在西坡，沙垄C 全氮和全磷含量分别为 $0 . 3 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g } ^ { - 1 }$ 和 $0 . 2 \\ { \\mathrm { g } } \\cdot { }$ $\\mathbf { k g } ^ { - 1 }$ ,至沙垄B 则减少到 $0 . 1 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 和 $0 . 0 4 \\mathrm { ~ g ~ } \\cdot$ $\\mathbf { k g } ^ { - 1 }$ ,下降幅度为 $5 2 . 3 \\%$ 和 $80 \\%$ ;对于坡顶,沙垄C全氮含量为 $0 . 2 3 \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ,至沙垄A则减少到0.17$\\mathbf { g } \\cdot \\mathbf { \\mathrm { k g } } ^ { - 1 }$ ,下降幅度为 $2 6 . 1 \\%$ 。沙垄C全磷含量为$0 . 2 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,至沙垄 $\\mathbf { B }$ 减少到 $0 . 1 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ，下降幅度为 $5 6 . 5 \\%$ ;对于东坡,沙垄C全氮含量为 $0 . 2 { \\ \\mathrm { g } } \\cdot { }$ （20$\\mathbf { k g } ^ { - 1 }$ ,至沙垄B下降至 $0 . ~ 1 5 ~ \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,下降幅度为$2 5 \\%$ 。沙垄C全磷含量为 $0 . ~ 1 6 ~ \\mathrm { g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,至沙垄A则减少到 $0 . 0 6 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 }$ ,下降幅度为 $6 2 . 5 \\%$ ;对于垄间地部位，全氮和全磷最小值均出现在沙垄C,分别为 $0 . 1 8 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g } ^ { - 1 }$ 和 $0 . 1 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 。全氮最大值出现在沙垄A,为 $0 . 2 1 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,而全磷最大值位于沙垄B,为 $0 . 2 7 \\textrm { g } \\cdot \\textrm { k g } ^ { - 1 }$ ,全氮和全磷下降幅度分别为$1 4 . 3 \\%$ 和 $5 5 . 6 \\%$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/25fc15da7c382aceffcb2c10625968887b825ac9e45750d9a4cceaa82520c2a3.jpg",
+        "img_caption": [
+            "Fig.5The change of soil total nitrogen content "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2a58782e785c33462c5bed1405ede0fc08b21c09562e31ebaa72a9bf27c5da9.jpg",
+        "img_caption": [
+            "图5土壤全氮变化规律",
+            "图6土壤全磷变化规律",
+            "Fig.6The change of soil total phosphorus content "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "沙垄个体部位，沙垄A和沙垄B各部位全氮和全磷具有相似的变化规律，最大值均位于垄间地，各部位之间并没有明显的变化规律，且两沙垄各部位全氮含量之间均不存在显著性差异( $P > 0 . 0 5 \\$ ），沙龙A垄间地全磷含量显著大于东坡( $\\textstyle P < 0 . 0 5 )$ ，而沙龙B垄间地全磷含量显著大于西坡、坡顶和东坡( $P <$ 0.05），但其他部位之间差异均不显著( $\\cdot P { > } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在垂直方向上，全氮和有机质变化规律一致，随着土层深度的增加均呈降低的变化规律，沙垄A全氮从 $0 . 2 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 降至 $0 . 1 5 \\textrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ,沙垄B全氮从 $0 . ~ 1 9 ~ \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 减少到 $0 . \\ 1 6 \\ \\mathrm { ~ g ~ } \\cdot \\ \\mathrm { k g } ^ { \\mathrm { ~ - ~ 1 ~ } }$ ,沙垄C从$0 . 2 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 减少到 $0 . 1 8 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,各全氮降幅分别为 $2 7 . 7 \\% . 1 5 . 8 \\%$ 和 $1 4 . 8 \\%$ 。单个沙垄不同土层部位,沙垄 $\\mathrm { ~ A ~ } 0 \\sim 1 0 \\ \\mathrm { c m }$ 全氮含量显著大于 $1 0 \\sim 2 0 ~ \\mathrm { c m }$ 和 $2 0 \\sim 3 0 ~ \\mathrm { c m } (  { P < 0 . 0 5 } )$ ,其他沙垄不同层差异性不显著( $\\cdot P { > } 0 . 0 5 )$ 。对于全磷,沙垄A和沙垄B最大值出现在 $1 0 \\sim 2 0 \\ \\mathrm { c m } , 0 \\sim 1 0 \\ \\mathrm { c m }$ 次之， $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 最小,沙垄C则随着土层深度增加呈递减趋势，全磷于单个沙垄不同土层之间差异均不显著( ${ \\mathrm { ( } } P { \\mathrm { > } } 0 . 0 5 { \\mathrm { ) } }$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤是通过各种自然要素的共同作用而形成的特殊的历史自然综合体[12],为植物的生长提供必要的物质基础。土壤理化性质通常受到气候、水文、地形、植被类型、植被覆盖度以及人类活动等因素的影响。在小空间尺度上，气象和水文基本一致，地形和植被的变化则成为影响土壤化学性质的重要因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究发现，随着沙垄植被覆盖度的下降， $\\mathrm { \\ p H }$ 电导率、有机质、全氮和全磷含量总体上呈逐渐降低的趋势，植被覆盖度 $10 \\%$ 的沙垄和植被覆盖度 $1 5 \\%$ 的沙垄差异没有达到显著水平，是植被和风沙蚀积过程共同作用的结果[2-3,13]。顾梦鹤等[14]对流沙地的防护林土壤理化性质分析发现，流沙地区种植植物能够在一定程度上改善土壤结构和土壤理化性",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "质。植物因吸收盐分，截留水分和降尘，产生养分及凋落物，为周边浅层土壤积累了较为丰富的盐分和有机质，在一定程度上提高了土壤的养分含量[15-16]。随着植被覆盖度的下降,风沙侵蚀增强，会造成表层土壤枯落物和有机质含量的损失，灌木土壤资源聚集现象减弱，“肥岛”效应趋于减弱或消失[17-19]  \nO",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "灌木光合器官的分泌物及枯落物等在灌丛下聚集，受雨水或融雪水入渗影响到较深土层，加之灌木根系与根系分泌物、脱落物在根际富集，形成由浅至深土壤养分含量逐渐降低的现象(20-21]。但不同植被覆盖度沙丘的土壤化学性质表现各异，稀疏植被为土壤提供枯落物少，地表风蚀发育，不利于土壤养分积累和保持;密集植被则反之，凋落物多，地表风蚀弱，有利于土壤的营养物质积累和保持。席军强等[22]对民勤流动沙丘、半固定沙丘和固定沙丘的土壤化学性质研究发现，流动沙丘土壤最高养分含量不在表层,而半固定沙丘和固定沙丘则在表层。而沙垄A和沙垄B植被覆盖较低，抗风蚀能力差，风沙活动频繁，地表物质搬运流失，导致土壤全磷量垂直分布异质性，最高全磷含量在 $1 0 \\sim 2 0 \\ \\mathrm { c m }$ 土层。干旱区土壤盐分主要来源于地下水蒸发，通过水分蒸发作用进入土壤，形成由浅入深土壤盐分含量逐渐升高现象[23]。也有研究发现,干旱区季节性降水和春季融雪水的下渗，也是造成土壤盐分分布异质性的重要因素之一[24] O",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "地形在景观尺度上决定着土壤养分的分布状况[25]。沙垄个体部位,不同地貌部位土壤性质差异缘于微地形的影响。坡度和地形因素控制了土壤水分再分配，使土壤资源沿坡呈梯度分布，不同坡位之间出现显著差异，而土壤资源相对富集在坡底部位[4,26],沙垄A和沙垄B的土壤化学性质指标含量均于丘间地有明显的增加，这与沙垄A和沙垄B的结皮主要分布于垄间地的情况相一致。且结皮的生成，会有效降低土壤风蚀，减少土壤养分的流失，并改善土壤养分[27],从而造成沙垄A 和沙垄B垄间地土壤养分含量均显著大于沙垄其他部位。本研究发现，沙垄西坡、东坡和坡顶的土壤化学指标含量没有明显的变化规律，这与高凯等[28]对浑善达克沙地土壤化学指标微地形变异性的研究结果不一致。这可能与沙垄A和沙垄B各坡位植被分布差异有关，局部灌木植株通过其自身的生态特性和功能，将稀有土壤养分资源截留在周围，而风蚀和水蚀作用对土壤资源的重新分配[18],造成显著的土壤空间异质性。因此，沙垄A和沙垄B的东坡、西坡和坡顶土壤养分并没有明显的规律变化。而沙垄C植被主要分布在坡顶,西坡和东坡分布其次，垄间地为裸露平地，故此沙垄C最大土壤养分含量出现在坡顶，最低出现在垄间地。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤化学性质是衡量土壤质量的重要参数，土壤质量与植物生长之间存在着密切联系，与土壤形成一个相互作用的统一体。通过对莫索湾地区沙漠-绿洲过渡带不同植被覆盖沙垄不同部位土壤性质差异分析，认为沙垄土壤化学性质受到生物及非生物的共同影响，植被覆盖度较高时，生物作用强，非生物作用较弱，“肥岛”效应增强；当植被覆盖度较低时，非生物作用强于生物作用，“肥岛”效应趋于减弱或者消失。其中受地形和植被共同影响的风蚀和水蚀作用是重要的地表过程。总体上，在气象和水文条件较一致时，植被覆盖度是影响沙丘土壤化学性质的主要影响因素，地形对地表物质的再分配起主导作用,造就了沙丘土壤性质的空间差异。因此，在沙地恢复治理过程中，充分利用沙地土壤化学性质空间异质性的特点，提高沙地植被覆盖度，可以有效改善沙地质地均一、养分贫瘠的状况,并合理利用地形对土壤资源重分配的作用，将有限资源集中在灌木丛下，促进灌木的生长，从而实现沙地的恢复治理。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）随着植被覆盖度的下降，沙垄土壤pH和电导率在沙垄各部位总体上呈下降趋势，但较低植被总盖度沙垄之间差异不显著。就沙丘个体而言，土壤pH和电导率最大值出现在垄间地，而其他部位之间并没有明显的变化规律。在不同土层， $\\mathrm { \\ p H }$ 和电导率总体表现为随着土层的深度增加而上升的趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）随着各沙垄植被覆盖度的下降，土壤有机质、全氮、全磷在西坡、坡顶和东坡部位总体上呈递减趋势，但在垄间地土壤全氮和全磷最小值出现在沙垄C，其中较低植被覆盖的沙垄之间差异不显著。就沙丘个体而言，沙垄A和沙垄B土壤有机质、全氮和全磷含量最大值出现在垄间地，而沙垄C有机质、全氮和全磷则富集于坡顶。在不同土层，土壤有机质、全氮和全磷总体上随着土层深度的增加呈递减趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）盖沙漠－绿洲过渡带复杂生态系统中，土壤化学性质和植被之间存在密切联系，植被对能量流的拦截及自身的反馈作用使得土壤养分富集于灌丛下，随着植被覆盖度的下降，风蚀活动加剧，不利于土壤养分的积累和保持。当生物作用减弱时，非生物作用逐渐加强，地形、风蚀和水蚀作用等逐渐成为土壤化学性质异质性的主要影响因素。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Klemmedson OJ,Barth R C.Distribution and Balance of Biomass and Nutrients in Desert Shrub Ecosystems[M].US/IBP Desert Biome Research Memo.Logan:Utah State University Press,1975.   \n[2]刘进辉,王雪芹,马洋，等.绿洲沙漠过渡带怪柳（Tamarix ramosissima)灌丛沙堆-垄间地系统土壤盐分含量特征[J].中 国沙漠,2016,36(1）:181-189.[Liu Jinhui,Wang Xueqin,Ma Yang,et al.Spatial variation of soil salinity on Tamarix ramosissima nebkhas and interdune in oasis-desert ecotone[J]. Journal of Desert Research,2016,36(1） :181-189.]   \n[3]刘进辉,王雪芹,马洋.沙漠绿洲过渡带怪柳灌丛沙堆-垄间地 系统土壤养分空间异质性[J].生态学报,2016,36(4)：979- 990.[Liu Jinhui,Wang Xueqin,Ma Yang,et al. Spatial variation of soil nutrients of Tamarix ramosissima nebkhas and interdune in oasis-desert[J].Acta Ecological Sinica,2016,36(4):979-990.]   \n[4］钱亦兵,吴兆宁,王忠臣,等.古尔班通古特沙漠南部风沙土性 状在沙垄尺度上的空间变异[J].地理研究,2011,30（7）： 1 178-1 186.[Qian Yibing,Wu Zhaoning,Wang Zhongcheng,et al. Spatial variation of physical and chemical properties for aolian sand soil at longitudinal dune scale in Southern Gurbantunggut Desert[J].Geographical Research,2011,30(7）:1 178 -1 186.]   \n[5]李军.古尔班通古特沙漠南缘土壤水分、有机碳和碱解氮的空 间异质性分析[D].乌鲁木齐：新疆农业大学,2016.［LiJun. Spatial Heterogeneity of Soil Moisture,Organic Carbon and Available in the South Gurbantunggt Desert[D]. Urumqi: Xinjiang Agriculutural University,2016.]   \n[6]钱亦兵,吴兆宁,杨海峰,等.古尔班通古特沙漠南部风沙土粒 度分布的空间异质性[J].干旱区地理,2009,32（5)：655- 661.[Qian Yibing,Wu Zhaoning,Yang Haifeng,et al.Spatial heterogeneity for grain size distribution of eolian sand soil in the southern Gurbantunggut desert[J].Arid Land Geography,2009,32 (5) :655 -661.]   \n[7」吕自力,黄培佑,刘立,等.莫索湾150 团沙区短命植物与小地 形的关系[J].新疆环境保护,1995,17(3-4）：7-10,27.[Lu Zili,Huang Peiyou,Liu Li,et al.Relationship between epheneral plant and topography in the 15O group of Mosuowan[J].Environment Protection of Xinjiang,1995,17(3-4）:7 -10,27.]   \n[8]丁改改,蒋进,宋春武,等.土壤因子对莫索湾梭梭林林下植被 分布和多样性的影响[J].水土保持通报,2017,37（4）：20- 26.[Ding Gaigai,Jiang Jin,Song Chunwu,et al.Effects of soil conditions on undergrowth species distribution and dicersity in Haloxylon ammodendron forest in Mosuowan[J].Buletin of Soil and Water Conservation,2017,37(4） :20-26.]   \n[9]李亚萍,蒋进,宋春武,等.莫索湾地区典型沙垄土壤因子与短 命植物物种多样性的关系[J].干旱区研究,2018,35（4）：912 -919.[Li Yaping,Jiang Jin,Song Chunwu,et al.Relationship between soil factorsand epheneral plant species diversity in the typical sand dunes in the Mosuowan[J].Arid Zone Research,2018, 35(4) :912 -919.]   \n[10］郑田,李建贵,李卫红,等.塔里木河下游绿洲荒漠过渡带土壤 异质性及对植物群落的影响[J].中国沙漠,2010,30（1）：128 -134.[Zheng Tian,Li Jiangui,Li Weihong,etal.Soil heterogeneity and its effects on plant community in oasis desert transition zone in the lower reaches of Tarim river[J].Journal of Desert Research, 2010,30(1) :128 -134.]   \n[11］朱震达.中国沙漠概论修订版[M].北京：科学出版社,1980. [Zhu Zhenda.Introdution of Chinese Desert:Revised Edition[M]. Beijing:Science Press,1980.]   \n[12］杨宁,邹冬生,杨满元,等.衡阳紫色土垄陵坡地不同恢复阶段 植被特征与土壤性质的关系[J].应用生态学报,2013,24（1)： 90-96.[Yang Ning,Zou Dongsheng,Yang Manyuan,etal.Relationship between vegetation characteristics and soil propertiesat diferent restoration stageson slope land with purple soils in Hengyang of Hunan province[J]. Chinese Journal of Applied Ecology,2013,24(1):90 -96.]   \n[13］关林婧,梅续芳,张媛媛,等.狭叶锦鸡儿灌丛沙堆土壤水分和 肥力的时空分布[J].干旱区研究,2016,33（2）:253－259. [Guan Linjing,Mei Xufang,Zhang Yuanyuan,et al.Spatiotemporal distribution of soil moisture content and fertility of Caragana stenophylla shrub nebkhas in different habitats[J]．Arid Zone Research,2016,33(2):253 - 259.]   \n[14］顾梦鹤,周立华,王睿,等.防护林对库布其沙漠土壤理化性质 的影响[J].兰州大学学报（自然科学版）,2017,53（5）：646- 651.[Gu Menghe,Zhou Lihua,Wang Rui,et al.Effects of a shelter forest on soil physical and chemical properties in the Kubuqi desert[J].Joural of Lanzhou University（Natural Science Edition）,2017,53(5):646 -651.]   \n[15］瞿王龙,杨小鹏,张存涛,等.干旱、半干旱地区天然草原灌木 及其肥岛效应研究进展[J].草业学报,2015,24（4）：201- 207.[Qu Wanglong,Yang Xiaopeng,Zhang Cuntao,et al.Shrubmediated“fertile island”efects in arid and semi-arid grassland [J].Acta Prataculturae Sinica,2015,24(4）:201-207.]   \n[16］姚小萌,周正朝,王凯博,等.黄土丘陵沟壑区天然植被恢复类 型对土壤微生物碳的影响[J].干旱区研究,2016,33（6）： 1 287 -1 293.[Yao Xiaomeng,Zhou Zhengchao,Wang Kaibo,et al.Effects of natural vegetation regeneration types on soil microbial biomass carbon on the Loess Plateau[J].Arid Zone Research, 2016,33(6) :1 287 -1 293.]   \n[17］狄伟佳,马礼,刘丑年.不同覆盖度牧草地年土壤风蚀量对比 分析[J].河北师范大学学报（自然科学版),2017,41（1)：73 - 77.[Di Weijia,Ma Li,Liu Chounian.Comprative analysis of annual soil wind erosion of grassland under different converage[J]. Journal of Hebei NormalUniversity（Natural Science Edition）, 2017,41(1) :73 -77. ]   \n[18］杨东亮.策勒绿洲－沙漠过渡带典型下垫面风沙活动研究 [D].北京:中国科学院大学,2011.[Yang Dongliang.Wind and Sand Activities on Typical Underlying Surface in Cele Oasis-Desert Transition Zone[D]. Beijing: Universityof Chinese Academy of Sciences,2011.]   \n[19］赵晨光,李青丰.毛乌素沙地不同植被条件下的土壤风蚀效果 [J].草原与草业,2014,26（2）:38-43.[Zhao Chengguang,Li Qingfeng.Soil erosion feature under diferent vegetation in Mu Us sandland[J].Grassland and Prataculuture,2014,26(2):38-43.]   \n[20]Wezel A,RajotJL,Herbrig C.Influence of shrubs on soil characteristics and their function in Sahelian agro-ecosystems in semi-arid Niger[J].Journal of Arid Environments,200O,44(4） :383-398.   \n[21]Archer S,Schimel DS,Holland EA.Mechanisms of shrubland expansion:Land use,climate or $\\mathrm { C O } _ { 2 }$ [J].Climatic Change,1995,29 (1):91-99.   \n[22]席军强,杨自辉,郭树江，等.不同类型白刺沙垄土壤理化性状 与微生物相关性研究[J].草业学报,2015,24(6):64-74.[Xi Junqiang,Yang Zihui,Guo Shujiang,et al.The correlation between soil physical and chemical properties and soil microbes in different types of Nitraria dune[J].Acta Prataculturae Sinica,2O15,24 (6) :64 -74.]   \n[23］刘广明，杨劲松，李冬顺.地下水蒸发规律及其与土壤盐分的关 系[J].土壤学报,2002,39（3）:384-389.[Liu Guangming,Yang Jinsong,Li Dongshun.Evaporation regularity and its relationship with soil salt[J].ActaPedologica Sinica,2002,39(3）:384-389.]   \n[24］李从娟,雷加强,徐新文,等.古尔班通古特沙漠土壤水分与化 学性质的空间分布［J].生态学报，2014,34（15）：4380- 4 389.[Li Congjuan,Lei Jiaqiang,Xu Xinwen,et al. Spatial pattern for soil water and chemical properties in Gurbantunggut desert ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(J].Acta Ecological Sinica,2014,34(15）:4 380-4 389.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[25]Itoh A,Yamakura T,Ohkubo T,et.al.Importance of topography and soil texture in the spatial distribution of two sympatric dipterocarptrees in a Bornean rainforest[J].Ecological Research,2003, 18(3):307 -320.   \n[26]朱德兰，吴发启.不同地形部位土壤水分的年变化分析[J].中 国水土保持科学,2003,1（4）:28-31.[Zhu Delan,Wu Faqi. Study on annual variation of soil moisture in different positions of topography[J].Science of Soil and Water Conservation,2003,1 (4):28 -31.]   \n[27］李新荣,贾玉奎,龙利群,等.干旱半干旱地区土壤微生物结皮 的生态学意义及若干研究进展[J].中国沙漠,2001,21（1）：4 - 11.[Li Xinrong,Jia Yukui,Long Liqun,etal.Advantages in microbiotic soil crust research and its ecological significance in arid and semiarid regions[J].Journal of Desert Research,2O01,21 (1):4-11.]   \n[28」高凯,张丽娟,于永奇,等.沙地土壤pH值、养分含量对微地形 变化的响应[J].水土保持通报，2016，36（1）：88-92.〔Gao Kai,Zhang Lijuan,Yu Yongqi,etal.Effect of micro-topography on soil pH value,nutrient content in sandy land[J].Bulletin of Soil and Water Conservation,2016,36(1):88-92.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Spatial Variation of Soil Chemical Properties of Longitudinal Dunes with Different Vegetation Coverage Levels ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LI Zhe-hua¹2，LI Sheng-yu’，LI Bing-wen’, ，FANJing-long'，JIANG Jin’,LIYa-ping1,2，SONG Chun-wu (1. Xinjiang Institute of Ecologyand Geography,Chinese Academy of Sciences,Urumqi 830,Xinjiang,China; 2. University of Chinese Academy of Sciences,Beijing 100049,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The fixed dunes with $30 \\%$ vegetation coverage and the semi-fixed dunes with $10 \\%$ and $15 \\%$ vegetation coverage were selected as the typical plots in the Mosuowan oasis-desert ecotone in the southwestern marginal Zone of the Gurbantunggut Desert.The purpose of the study was to reveal the relationship between soil chemical propertiesand vegetation inthe temperate fixed and semi-fixed desert.Soil sampleswere collcted from dierent parts of dunes to test soil $\\mathrm { p H }$ value,electrical conductivity,organic matter content,total nitrogen content and total phosphorus content in laboratory.The results showed that : $\\textcircled{1}$ With the decrease of vegetation coverage,the soil pH value,electricalconductivity,organic mater content,total nitrogencontentand total phosphorus content were decreased gradually on the western and eastern slopes as well as the top of the longitudinal dune ; $\\textcircled{2}$ Distribution patterns at different parts of different longitudinal dunes were diferent.The maximum pH value,electrical conductivity, organic mater content,total nitrogen content and total phosphorus content of both the longitudinal dune A and $\\mathrm { B }$ 0Ccured inthe inter-dune land,but there was no obvious regularity in other parts.The maximum pHvalueand electrical conductivityof the longitudinaldune Coccurred in the inter-dune land,while the maximumsoil nutrientcontent occurred on the dune top ; $\\textcircled{3}$ The distribution trend of soil properties in different layers of dune was relatively consistent. The soil $\\mathrm { p H }$ value and electrical conductivity were increased with the increase of soil depth,while the soil nutrient content was decreased with that ; $\\textcircled{4}$ The spatial distribution heterogeneity of soil chemical properties was closelyrelated to the distribution patern of vegetation,and they interacted each other.When the vegetation coverage was high,the biological efect played a dominant role；when the vegetation coverage was low,the abiotic factors, such as wind erosionand topography,playedan important role in enhancing the biological efects,and vegetation intercepted and enriched the soil particles and nutrients. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:desert-oasis ecotone；vegetation coverage；soil chemical property；spatial distribution； Gurbantunggut Desert ",
+        "page_idx": 7
+    }
+]

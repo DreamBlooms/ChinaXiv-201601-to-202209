@@ -1,0 +1,195 @@
+# 海外中国留学生心理健康的影响因素及其干预策略
+
+王扬　彭凯平． 胡晓檬\*(:清华大学心理学系，北京，100087)(中国人民大学心理学系，北京，100872)
+
+摘要：在当前新冠疫情肆虐海外的背景下，中国留学生的心理健康状况十分堪忧。本文较为系统的梳理了海外中国留学生心理健康问题的表现和成因，指出了儒家文化、语言障碍、学业压力、社交压力和偏见歧视等因素对海外中国留学生心理健康状况的显著影响。同时，本文从社交关系、认知行为和互联网社交媒体三个方面评述了如何提升中国留学生心理健康的干预方案。我们希望本文的整合性评述能够促进国际教育工作者、文化心理研究者、心理咨询师等群体更加全面而深入的了解中国留学生群体所面临的跨文化适应困难和心理健康危机，甄别和检验行之有效的心理干预手段，为未来更好的开展心理干预提供科学基础和实践启示。
+
+关键词：中国留学生，心理健康，跨文化适应，心理干预，互联网社交媒体分类号：B849:C91
+
+# 1.引言
+
+根据教育部最新统计的数据显示，1978年到2018年底，我国各类出国留学人员累计达585.71万人，其中153.39万人正在进行学业。中国留学生遍布世界各个角落，尤其是北美、西欧、非洲、大洋洲等国家和地区（中华人民共和国教育部,2019）．随着海外中国留学生的群体规模越来越大，而且趋势愈发低龄化，加之2020 年新冠疫情的全球肆虐，身在异国他乡的中国学子及其背后的千万家庭和高等院校都在面临巨大的心理压力。海外留学生们不仅要面对和本地同学一样的学业压力、实习压力和就业压力，同时也要面对诸如跨文化适应、语言障碍、思乡、歧视等更多严峻挑战(Zhang&Goodson,2011)．因此，中国留学生在留学所在国家和地区的文化适应、心理健康、感知到的歧视等问题十分凸显，值得心理学家的长期关注和系统探究（Zhai&Du,2020）．
+
+大量研究表明，海外中国留学生的心理健康状况十分不容乐观。一项针对耶鲁大学中国留学生的研究发现,参与调查的学生中 $45 \%$ 报告了抑郁症状， $2 9 \%$ 报告了焦虑症状(Han,LuoJacobs & Jean-Baptiste,2013)。而在一项针对澳洲中国留学生的研究发现，与澳大利亚本土学生相比，最终自杀的国际学生在自杀之前寻求心理健康咨询帮助的人明显更少（ $2 2 . 2 \%$ vs.$5 7 . 1 \%$ ）(Forbes-Mewett,2019)。另外一项针对中国留学生的网上调查中，数据显示， $54 \%$ 的被试有抑郁心理，而只有 $9 \%$ 的人选择了寻求心理咨询的帮助(Lu,Dear,Wooton& Titov,2014)。由此可见，中国留学生的心理健康状况不但十分令人忧虑，并且当他们出现心理健康问题的时候，主动寻求外界帮助的倾向更低，导致他们持续受到心理问题的折磨或者最终酿成自杀悲剧（Mitchell,Greenwood& Guglielmi,2011）。
+
+本文总结了前人关于留学生心理健康方面的实证研究，通过梳理中国留学生心理健康问题的影响因素以及干预策略，为未来针对中国留学生心理健康状况的改善提供较为宏观、系统以及基于实证依据的学术建议。本文首先介绍了中国文化背景下学生们对于心理健康的内隐认识和典型症状，之后总结了各类心理健康问题的影响因素和压力来源，最后整理了不同组织、个人对于留学生心理健康的干预手段。本文的整合性评述将对学校内部的心理咨询师和教育管理者、校外的心理服务人员和社会工作者、教师、家长以及中国留学生本身具有重要的理论指导意义和实践启示。
+
+# 2.中国留学生心理健康的影响因素
+
+一项针对澳大利亚大学的学生群体的研究发现，大学生群体的整体心理健康程度远低于澳洲人的整体心理健康程度(Stallman&Shochet,2011)，这些学生遇到的容易引发心理健康危机的主要诱因包括学习压力、经济压力、生活压力以及人际交往问题（Vaez&Laflamme,2008)。同时，更加特别的是，留学生群体往往还会面对跨文化适应方面的挑战。文化适应是指由于两个或两个以上的文化群体及其个体成员之间的接触而发生的文化和心理的双重变化的过程(Berry,2005)。在一个新的文化环境中，个体往往缺乏对新文化中的价值观和社会规范的了解，并在融入当地的过程中面对巨大的文化适应压力，这种文化适应压力可能会带来生理、心理和社会层面的反应，比如焦虑、抑郁、愤怒、被排挤等等。在过往的研究中，文化适应压力的来源主要有语言障碍、学业压力、社交关系和社会歧视等等(Berry,2005)。下面我们将详细阐述这些不同的影响因素如何损害留学生的心理健康以及背后的作用机制是什么。
+
+# 2.1 学业压力
+
+学业压力是每个学生必然面对的压力，但是对于国际学生来说，他们体验到的学业压力跟本地学生并不相同。国际学生的学业压力容易受到如文化背景、语言障碍等因素的加强从而加深学业压力带来的负面心理影响。一项针对143位留学生的研究发现，日常生活中的压力一比如英语使用困难、文化适应困难一以及较低水平的社交支持会带来更大的学业压力，而较大的学业压力往往预示着更强的生理和情绪上的消极反应，比如精力不济、头疼、焦虑、愤怒、哭泣和药物滥用等等（Misra,Crist& Burant,2003)。而在一项针对60 位加拿大留学生的纵向研究中，研究者发现，在测试的第一阶段报告了更多学业压力的学生，在18个月后测试的第二阶段报告了更高水平的心理压力(Rasmi,Safdar&Lewis,2009)。但是，在2004 年另一项针对美国留学生和本地学生的对比研究中，研究者发现，美国本地的学生相对留学生报告了更高水平的学业压力以及更多的压力应激。我们认为这种不一致发现的可能原因是中国留学生群体认为出现心理问题是一种脆弱的、不成熟的、令人羞愧的表现，故而减轻了对学业压力和应激反应的主观报告。未来研究应当进一步探讨这种研究结果不一致情况产生的普遍性和真实原因（Misra＆Castillo,2004）。
+
+# 2.2语言障碍
+
+语言能力是导致留学生心理健康问题的重要因素。在一项针对来自149位在美留学生的问卷调研中，研究者发现，来自亚洲的留学生比欧洲的留学生更容易感受到适应困难，尤其是在课业学习和英语使用方面，这是因为文化距离的大小所导致的适应差异。研究结果同时显示，更差的学习成绩和较低的英语能力与整体上的不适应感具有明显的相关性。另外，值得一提的是，硕士比博士更容易产生上述不适应的问题 (Poyrazli,&Grahame,2007)．另外一项针对美国的372名留学生的问卷研究中，研究者询问留学生们“你的英语表达熟练度如何”、“你使用英语的时候是否觉得自如舒服”，并进一步收集了留学生们关于文化适应压力的反馈，结果发现，英语使用越流畅，自身感受到的文化适应压力越小，就不容易产生思乡、抑郁等情绪反应（Yeh&Inos,2003)。然而，遗憾的是，目前的研究结果都是基于被试的整体意义上的主观报告，前人研究并未收集客观指标或者建立因果模型来探讨语言能力的哪些具体因素影响了留学生的心理适应和心理健康，比如是否区分学术语言和社交语言。同时，已有研究也尚未涉及语言障碍通过哪些心理维度降低了留学生的满意度和幸福感等等。未来研究还需进一步探究如何从心理学的角度出发帮助留学生提升语言能力，减少语言障碍，从而减少心理健康的压力来源。
+
+# 2.3社交关系
+
+除了学业和语言之外，留学生面对的另一项重大挑战是在当地重新建立一种积极的社会关系。高质量的本地社交关系对于留学生的心理健康十分重要（Brunsting,Nelson,Zachry,Corinne，Takeuchi,2018)，参与较多跨文化互动的留学生能够感知到更高的社交支持水平，且焦虑和抑郁水平更低（Berry,2005）．但是，现实生活中留学生的社交关系现状却不容乐观。一项针对 200 名在澳洲留学生的研究发现，有三分之二的留学生刚刚来到澳洲几个月后感到孤独（Sawir,Marginson,Deumert,Nyland&Ramia,2008)，而在新西兰，有 $5 5 \%$ 的中国留学生对他们在本地的人际关系感到不满意，其中有 $71 \%$ 的中国留学生希望有机会与本地人发展更多友谊(Zhang&Brunton,2007)。对于亚裔留学生来说，集体主义的文化价值观使得其相对其他西方文化背景的留学生们，更难融入当地的社交生活 (Mori,2000)。因此，社交层面的障碍和困难很有可能直接引发留学生的焦虑和抑郁水平升高。
+
+# 2.4偏见与歧视
+
+来自亚洲、非洲、印度、拉丁美洲和中东的国际学生与美国学生或欧洲学生相比，经常感知到明显的歧视，经常感到低人一等、被直接语言攻击、在就业时受到另类待遇以及遭受生理方面的暴力攻击（Poyrazli&Lopez,2007）．这种歧视既包括显性的，也包括隐性的(Poyrazli& Grahame,2007)，这种和文化相关的歧视行为被称作"文化种族主义“一即基于文化的差异来区分种族关系，认为一种文化比另一种文化更为高级和优越。受到歧视会对留学生的心理健康状态产生极大的负面影响，并与抑郁和不幸福紧密相关（Jung,Hecht &Wadsworth,2007)。另外，留学生们容易在语言使用方面受到歧视。研究发现，在语言使用方面受到歧视的群体使用心理咨询服务的人数是没有受到过语言歧视的人数的2.2 倍(Spencer&Chen,2004)，且这些遭受歧视的群体还可能产生更多慢性的健康隐患，如高血压等（Yoo,Gee＆Takeuchi,2009)。同时，遭受歧视的留学生更难同当地人群建立良好的社交关系（Mori,2000)，这也加剧了他们的思乡心理和孤独感（Poyrazli&Lopez,2007）。
+
+# 2.5社会文化因素
+
+中国留学生所具有的中国特色的文化背景和西方文化背景是截然不同的。东方文化强调向内，西方文化强调向外。东方的儒家文化强调“克己复礼”，要求人们克制情绪的外在表达并通过约束个人的行为来实现内心的平静（Yip,2005)，在人际交往方面，东方的儒家文化强调人们应该在社交中保持正直、谦虚、友好和宽恕，并且忠于自己的朋友、家人和国家（Oldstone-Moore.,2012)。除此之外，东方文化下的道家学派认为，实现高水平心理健康的最好方式是保持“无"的状态，让生与死、福与祸自然而然的发生（Yip,2004)。所以，由于东方文化“向内"的价值取向，中国留学生在海外遇到心理健康问题时，大部分人很少接受学校或其他组织提供的心理健康服务，并且相比美国学生，更容易在接受心理健康帮助的过程中中断服务 (Pedersen,1991)。同时，由于心理咨询容易令人感到尴尬和丢脸，所以留学生们往往会压抑内心不适的感受，并因此感到更加抑郁。研究显示，相对于美国人和欧洲人，亚裔美国人在谈论心理健康方面的问题时会感受到尴尬和丢脸；而16岁以下的亚裔美国学生，当与自己的同学和朋友谈论心理问题时一相较于和家人谈论同类问题一所感受的不适感更少，这可能是由于青少年的文化适应度相较于父母要更强 (Fogel&Ford,2005)。也有研究显示，在患有抑郁症的门诊病人中，中国文化背景的被试会报告更多的身体症状，而西方文化背景的被试会报告更多的心理症状 (Ryder,etal.,2008)。当中国留学生遇到失眠、胃痛、头疼、疲劳等可能因为心理问题而产生的身体症状时，他们更倾向于寻求针对身体的物理治疗，而非心理咨询方面的服务(Ryder etal.,2008）．这些社会文化因素加剧了留学生的负性心理体验，降低了留学生寻求心理援助的倾向，因此心理学家在对中国留学生进行心理辅导、心理咨询或者心理干预的时候，必须考虑这些社会文化因素的影响，从而制定更加行之有效的干预策略。
+
+# 2.6 COVID-19全球大流行
+
+2020 年初爆发于武汉的新冠疫情对全球人类的生命健康带来了巨大的威胁，这种威胁不仅是生理上的，同时也是心理上和社会上的，传染病大范围的爆发和抑郁、焦虑等心理问题密切相关（Bao et al.,2020)。除了传染病本身带给人们的恐惧和焦虑之外，为了疫情防治而采取的城市封锁政策也会对人们的心理健康产生了消极影响（Ali et al.,2020）．对于留学生而言，关闭学校、线上教学、签证限制等一系列政策导致大量留学生无法返校、滞留家中，使得留学生群体在面对考试、毕业和就业方面更加的焦虑和担心 (Lee,2020)。
+
+大学生是心理健康危机十分频发的群体。在一项针对国内大学生群体的研究显示，$2 1 . 3 \%$ 的学生有轻度焦虑， $2 . 7 \%$ 的学生有中度焦虑， $0 . 9 \%$ 的学生有重度焦虑（Cao et al.,2020)，而对于海外的中国留学生而言，除了焦虑症状之外，他们还要面对国外的种族歧视，并安抚远在国内的家人和朋友不要为自己担心。最新研究发现，仍在国外的中国留学生的焦虑水平高于中国人整体的焦虑水平，且这种焦虑和留学生们感知到的歧视程度密切相关。数据显示， $31 \%$ 的人回答在其生活的社区内受到了歧视， $5 8 . 2 \%$ 的人回答自己在接触新闻媒体时受到了歧视，几乎所有人都反馈担心自己被COVID-19 感染，接近一半的人表示自己陷入了两难的境地，比如虽然感觉回国更加安全，但是担心自己在路上被传染（Ma& Miller,2020)。因此，我们亟需开发、设计和优化适用于中国留学生群体的心理干预方案，帮助海外学子减轻心理压力，提升他们的安全感、归属感和幸福感。
+
+# 3．中国留学生心理健康的干预策略
+
+# 3.1社交关系干预
+
+Berry（2005）在研究中发现良好的社交支持有助于留学生的跨文化适应，同时有助于减轻留学生们的焦虑、抑郁心理(Zhang&Goodso,2011)，良好的社交支持和主观幸福感也呈现正相关的关系。研究发现，留学生对于社会支持的感知主要来源于周围的朋友和学校机构，特别是来源于关系要好的朋友，高质量的本地朋友社交网络意味着更好的文化适应，所以留学生应当更加注重本地社交关系的建立(Shu,etal.,2020)。而在新冠疫情爆发的当下，有研究表明，即使处在缺乏实体接触的封锁条件下，主观感知到社会支持较多的中国留学生的心理健康状态依旧优于感知到的社会支持较少的学生（Ma&Miller,2020）·
+
+同时，在一项针对120位中国留学生的网上调研中，研究者发现更加熟练和频繁的使用在线社交工具的留学生群体，相较于不用或少用的群体，拥有更广和更多元的社交关系，而更广和更多元的社交关系有利于提升留学生在学业上和生活上的跨文化适应能力 (Forbush&Foucault-Welles,2016)。在一项针对澳大利亚的留学生的研究中，研究者发现，感到孤独的留学生中有 $8 8 \%$ 的比例会求助于自己的社交网络，尤其是朋友的帮助来缓解自身的孤独感（Sawir,Marginson,Deumert,Nyland&Ramia,2008)。而一项针对新西兰留学生的调研数据表明，更多的本地朋友意味着更多的娱乐活动，拥有2个以上本地朋友的留学生相比少于两个本地朋友的留学生体验到的孤独感更少，并且更能适应当地的文化（Zhang＆Brunton,2007)。类似的是，Kashima 和Loh(2006)的研究数据表明留学生在国外念书的过程中，如果能结交到更多同文化、同国家背景的朋友，也会在适应国外文化的过程中表现的更好。
+
+基于这样的理论基础，Sakurai、McCall-Wolf 和Kashim（2010）设计了一项体验式的提升文化适应力的方法。在实验过程中，实验组由澳大利亚某大学的47名国际学生组成，实验组的同学共同乘坐巴士去往一个备受欢迎的旅游景点，而控制组有51名参与者没有进行此项活动。在体验式干预完成一个月后，在四个月后，实验组和控制组相比，实验组的留学生与本地人建立了更加多的社会关系，并且加深了融入本地文化的过程，但是该干预方案更加关注社会文化适应，并未直接针对心理适应进行干预。
+
+在一项针对德国大学国际学生的归属感研究中，研究者通过社交归属感干预方案来提升国际学生的归属感水平并降低其在适应期间的抑郁水平(Marksteiner,Janke＆Dickhäuser,2019)。在干预过程中，被试首先在实验室中完成一组读写训练，在阅读训练环节，被试要阅读几份据称是高年级学生写的材料，这些文字材料描述了他们刚进入大学的适应期，并强调无论是哪个社会、文化和种族背景的学生，在刚开学的时候一定会感觉非常挣扎，但是这种感觉会随着时间的推移而消失。而在写作训练中，被试的任务是写出能跟阅读材料中呼应的有关入学适应期不顺利的经历。在实验室干预阶段结束后的五天，被试每天的任务是填写两份问卷，一份问卷在上午发放，内容主要是关于社交适应感、自我效能感和成绩潜力，另一份问卷在晚上发放，除了进一步测量上述指标之外，学生还需回顾自己白天所有积极的融入表现，比如积极回答问题、小组活动等等（Walton&Cohen,2007)。通过以上的干预手段，研究者发现，国际学生们的抑郁水平降低了，社交归属感水平虽然在实验结束的学期末得到了提升，但是在新学期开始后，这种积极变化又消失了。这项研究启示了我们采用写作记录的方式回顾积极适应的经历可能提升国际学生的归属感，但是如果能够延长持续时间，保持干预效果，提高心理韧性还需进一步的研究。
+
+# 3.2基于文化的认知行为干预
+
+Mak、Westwood、Barker 和Ishiyama（1998）为国际学生设计了一个名为“精通体验式学习与领导力”(EXCELL）的跨文化社交能力提升的项目，该项目旨在帮助国际学生在学术交流和社会交往中保持自信，提升效率，并在交流过程中保持自身的文化认同。该项目包括6个阶段，每个阶段包含3个小时的课程，班级人数在10-20人左右，课程内容包括发起社交谈话、寻求帮助、融入集体以及跟其他谈判等。Wong（2001）在研究中发现加拿大某大学的国际学生在EXCELL项目结束后，与本地学生打交道时的自我效能感显著提高，本地学生也认为国际生的沟通能力有很大的提高。不过该项目尚未测量留学生的压力水平和主观幸福感的变化情况。
+
+在另一项认知行为干预方案中，Xu、O'Brien和Chen（2019）设计了一个与文化相关的“接纳与认同"咨询小组。整个项目分为两个阶段，第一阶段为期一个小时，内容是进行小组讨论，讨论主题包含自己的应激症状、如何应对压力、控制压力的方法、如何定义压力源等。一周过后会开始咨询的第二阶段，内容包括如何接纳压力、价值观认同、体现价值观的行动等话题。研究者在实验结束之后的当下和实验结束之后的一个月后对干预效果进行了问卷调查和统计分析，结果显示，参与的留学生的抑郁、焦虑和压力症状都有明显减轻。
+
+一项针对土耳其国际学生的认知行为疗法心理干预项目中，研究人员采取了2\*3的准实验设计，被试被分为实验组和控制组，并被要求在干预项目开始前、刚刚结束后以及结束6个月后报告心理适应感、自我效能感以及压力水平。项目一共持续8周，每周进行一次，一次时间长度为1个半小时。第一次和第二次咨询的主题是破冰和建立友谊，克服文化背景不同带来的沟通焦虑和尴尬，第三次咨询的目标是是帮助国际学生们定义和理解日常生活中的压力源，第四次和第五次咨询的任务是通过彼此分享的方式来探讨各种应对心理适应问题的策略，第六次和第七次咨询主要通过改写被试的内心对话的方式来让国际生们建立更积极的内心语言。第八次咨询的主题是进行复习和回顾，深化咨询过程中学习到的技能和知识。在整个干预过程结束后，干预后立即进行的问卷数据显示，国际学生的自我效能感得到了显著的提升，但是心理适应力和压力水平没有显著差异。然而在6个月之后的追踪测试中，实验组的心理适应能力、自我效能感均有显著提升，同时压力水平下降(Elemo,Aman Sado&Turkum,2019)。因此，这种认知行为疗法的干预手段应当得到更多的应用和推广。
+
+为了满足学生复杂的心理健康需求，美国一些大学咨询中心（UCC）实施了直入式心理咨询流程，以替代原有的预约式心理咨询流程。在直入式心理咨询流程和制度下，学生进行咨询的比例和咨询师接待咨询量的数量得到了显著的提升 (Blau&DiMino,2019)。
+
+# 3.3互联网在线社交工具干预
+
+随着互联网在线社交工具的普及，留学生们通过在海外使用诸如Facebook、Twitter 和Youtube 等社交媒体工具，从而进一步融入当地社会、适应了当地文化，减轻了其面对的社交、学业和文化适应压力（Pang,2018;Wang,2015）．互联网社交媒体的使用为留学生们锻炼英语能力、结交本地朋友、了解本地信息提供了宝贵的机会，同时增强了他们和家乡亲朋好友的联系 (Hofhuis,Hanke & Ruten,2019; Hendrickson & Rosen,2017; Croucher & Rahmani,2015)。数据显示，中国海外留学生的主观幸福感水平和社交媒体的使用程度呈正相关关系。但是，也有一些研究结果显示，留学生对社交媒体的使用也可能会带来消极影响(Park,Song&Lee,2014)，比如大量使用Facebook可能导致国际学生的社交技能不足，并使其与原有的本国社交联系中断 (McEwan,2011)。类似的是，研究发现，留学生高频的使用互联网社交媒体一以Facebook 为例一会在短期和长期内减少留学生们的思乡情绪，但是也会在短期内使得其在当地的社交能力降低(Billedo,Kerkhof,&Finkenauer,2020)，并在长期内对其感知到的社会支持起到负面影响(Biledo,Kerkhof,Finkenauer&Ganzeboom,2019)。在一项针对342 位美国大学生的研究中，研究者发现Facebook的使用程度和学生的线上社交满意度呈正相关关系，和线下社交满意度呈负相关关系，且相较于外向性格的人，内向性格的人通过使用Facebook 可以到感知更多的社交支持并因此获得更强的幸福感（Hu,Kim,Siwek，&Wilder,2017）。而一项针对日本的中国留学生的调研数据显示，如果将社交网络用于娱乐用途，那么这会增加留学生自身的孤独感（Guo,Li&Ito,2014）；类似的，研究表明，在新冠疫情蔓延的当下，频繁的使用社交网络获取有关新冠疫情的信息和较高水平的焦虑和抑郁紧密相关 (Gao,et al.,2020)。因此，世界卫生组织建议为了在疫情期间保护自己的心理健康，人们应当减少关注有关新冠疫情的信息，并且将了解信息的时间固定下来，比如一天一次或者两次，同时要通过可靠的信源获得相关信息，拒绝谣言和错误信息（World HealthOrganization,2020)。关于社交媒体工具对于留学生文化适应以及心理健康的影响，目前并没有十分明确的定论，未来的研究还需更加细致，比如从使用时间、使用目的、互动群体等维度出发进行多个层次的研究，从而揭示社交媒体和心理健康之间更加清晰的关系，提升基于互联网平台进行心理干预的精准性和有效性。
+
+# 4．总结与展望
+
+已有研究对留学生心理健康的影响因素和干预手段进行了基本的描述、解释和分析，大力推动了我们对留学生群体存在哪些心理健康症状、哪些诱因和哪些干预策略最为有效的认识和理解。然而，已有研究仍然存在一些局限和不足之处。首先，互联网社交媒体的使用和文化适应及心理健康水平的关系比较模糊，证据较少，不能做出明确、严谨、细致的推论未来需要更多精细的因果研究和追踪研究，尤其是关于互联网社交媒体使用的类型、目标、时长等因素如何影响中国留学生的跨文化适应和心理健康及其背后的作用机制。其次，鉴于有关留学生心理健康和文化适应的有效干预方案较少，尤其是在线咨询和在线治疗对于留学生的干预方案的开发和干预效果的检验方面，研究者应当投入更多的时间和精力。最后，目前研究大多集中在留学生群体本身，忽略了留学生所在的微观环境和社交网络，比如留学生所在国家、所在地区的教育机构以及周围的社交圈子对留学生个体的心理健康和文化适应影响很大，然而目前直接涉及情境变量的研究十分之少，因此同样值得研究者更多的关注。
+
+综上所述，随着心理学家越来越重视中国留学生群体的心理与行为，不同角度的心理学研究正在逐步的积累和成熟，未来需要大量的工作同时开展大规模的问卷调查、精细的行为实验、深入的个案分析以及有效的干预手段，以期提升海外留学生群体的学业成就、社交融入、心理健康、文化适应和主观幸福感。这个宏大的目标的实现离不开心理学家、心理咨询师、教育工作者、政策制定者、家长、教师、政府机构等多个力量携手努力。我们希望本文能对这个领域的学术研究和实践应用提供有价值的科学参考。
+
+# 参考文献
+
+Han,X.,Han,X.,Luo,Q.,Jacobs,S.,&Jean-Baptiste,M.(2O13).Report of amental health survey among Chinese international students at Yale University.Journal of American College Health,61(1),1-8. https://doi.0rg/10.1080/07448481.2012.738267
+
+Bao,Y.,Sun,Y.,Meng,S.,Shi,J.,&Lu,L.(202O).2019-nCoV epidemic: address mental health care to empower society.Lancet (London,England),395(10224),e37-e38.htps://doi.org/10.1016/S0140-6736(20)30309-3
+
+Berry,J.W.. (2Oo5).Acculturation: livingsuccessully in twocultures.International Journal of Intercultural Relations,29(6),697-712.
+
+Billedo,C.J.,Kerkhof,P.,&Finkenauer,C.. (202O).More facebook,lesshomesick? investigating the short-term and long-term reciprocal relations of interactions,homesickness,and adjustment among international students.International Journal of Intercultural Relations,75,118-131.
+
+Billedo,C.J.,Kerkhof,P.,Finkenauer,C.,& Ganzeboom,H.(2O19).Facebook andface-to-face: Examining the short-and long-termreciprocal efectsof interactions,perceived social support,and depresionamong international students.Journal of Computer-Mediated Communication,24(2),73-89.htps://doi.org/10.1093/jcmc/zmy025,
+
+Brunsting,Nelson & Zachry,Corinne &Takeuchi,Risa. (2O18).Predictors ofundergraduate international student psychosocial adjustment to US universities: A systematic review from 2009-2018. International Journal of Intercultural Relations. 66.10.1016/j.ijintrel.2018.06.002.
+
+Cao,W.,Fang,Z.,Hou,G.,Han,M.,Xu,X.,Dong,J.,& Zheng,J.(202O). The psychological impact of the COVID-19 epidemic on college students in China. Psychiatry research,287,112934. https://doi.org/10.1016/j.psychres.2020.112934
+
+Elemo,Aman Sado & Turkum,Ayse. (2O19).The effects of psychoeducational interventionon the adjustment, coping self-efficacyand psychological distresslevels of international students in Turkey.International Journal of Intercultural Relations.70.7-18.10.1016/j.ijintrel.2019.02.003.
+
+Fogel,J.,&Ford,D.E.(2Oo5).Stigma Beliefsof Asian Americans withDepression inanInternet Sample.The Canadian Journal of Psychiatry,50(8),470-478. htps://doi.org/10.1177/070674370505000807
+
+Forbes-Mewet,H.(2Ol9).Mental health and international students: Issues,challengesand effective practice International Education Association of Australia (IEAA).
+
+Forbush,E.,& Foucault-Welles,B.. (2O16).Social media use and adaptation among Chinese students beginning to study in the United States.Conference of the International Communication Association.
+
+Gary Blau,John DiMino. (2O19)Impact of Brief Counseling on Nonurgent Prior- versus Never-counseled Samples. Journal of College Student Psychotherapy 33:2, pages 145-162.   
+Gao,J.,Zheng,P.,Jia,Y.,Chen,H.,Mao,Y.,Chen,S.,Wang,Y.,Fu,H.,&Dai,J. (2O2O).Mental health problems and social media exposure during COVID-19 outbreak. PloS one,15(4),e0231924.   
+https://doi.org/10.1371/jourmal.pone.0231924   
+Guo,Y.,Li,Y.,& Ito,N. (2014).Exploring the predicted effct of social networking site use on perceived social capital and psychological well-being of Chinese international students in Japan. Cyberpsychology, Behavior and Social Networking,17(1),52-58. https://doi.org/10.1089/cyber.2012.0537   
+Hendrickson,B.and Rosen,D.(2O17) Insights into New Media Use by International Students: Implications for Cross-Cultural Adaptation Theory. Social Networking,6,81-106.doi: 10.4236/sn.2017.62006.   
+Hofhuis,J.,Hanke,K.,& Rutten,T. (2O19).Social network sites andacculturationof interational sojourners in the Netherlands: The mediating role of psychological alienation and online social support. International Journal of Intercultural Relations,69,120-130. https://oi.org/10.1016/j.ijintrel.2019.02.002   
+Jennifer Oldstone-Moore. (2O12). Confucianism. International Journal of Philosophical Studies.   
+Kashima,E..,&Loh,E.().Iterationalstudentscculturation:Eectsofinternational,conational,dlocal ties and need for closure. International Journal of Intercultural Relations,3O(4), 471-   
+485. https://doi.org/10.1016/j.ijintrel.2005.12.003   
+Jung,E., Hecht,M.L.& Wadsworth,B.C.(2Oo7).The role of identity in international students'psychological wel-being in the United States: A model ofdepresson level,identity gaps,discrimination,and aculturation. International Journal of Intercultural Relations,31, 605-624.   
+Lee J. (202O).Mental health effects of school closures during COVID-19.The Lancet. Child & adolescent health,4(6),421. https:/doi.0rg/10.1016/S2352-4642(20)30109-7   
+Lu,S.H.,Dear,B.F.,Johnston,L.,Wooton,B.M.,& Titov,N. (2O14). Aninternet survey of emotional health, treatment seeking and barriers to accessing mental health treatment among Chinese-speaking international students in Australia. Counselling Psychology Quarterly,27(1),96-108.htps:/oi.org/10.1080/09515070.2013.824408 Mak, A., Westwood,M.,Barker,M,& Ishiyama,F.I.(1998).Developing sociocultural competencies forsuccess among international students: The EXCELL programme. Journal of International Education,9,33-38. Ma,H.,& Miler,C. (2O2O).Trapped in a Double Bind: Chinese Overseas Student Anxiety during the COVID-19 Pandemic.Health Communication,1-8.Advance online publication.   
+https://doi.0rg/10.1080/10410236.2020.1775439
+
+Marksteiner,T.,Janke,S.,&Dickhäuser,O.(2O19).Effects ofabrief psychological interventionon students'sense of belonging and educational outcomes: The role of students'migration and educational background.Journal of school psychology,75,41-57. https://doi.org/10.1016/j.jsp.2019.06.002
+
+McEwan,B.(2O11),"Hybrid engagement: HowFacebook helps and hinders students’social integration",Wankel, L.A.and Wankel,C. (Ed.) Higher Education Administration with Social Media (Cuting-Edge Technologies in Higher Education,Vol.2),Emerald Group Publishing Limited,Bingley,pp.3-23.https:/doi.org/10.1108/S2044- 9968(2011)0000002004
+
+Mertens,G.,Geritsen,L.,Duijndam,S.,Salemink,E.,&Engelhard,I.M.(2O2O).Fearof the coronavirus(COVID19): Predictors in an online study conducted in March 2020.Journal of Anxiety Disorders,74,102258. https://doi.org/10.1016/j.janxdis.2020.102258
+
+Misra,R.,& Castillo,L.(2O04).Academic Stress Among College Students: Comparison of American and International Students. International Journal of Stress Management,11,132-148.
+
+Misra,R.,Crist,M.,&Burant, C.J. (2Oo3).Relationships Among Life Stress,Social Support,Academic Stressors, and Reactions to Stressors of International Students in the United States.International Journal of Stress Management,10(2),137-157.https://doi.org/10.1037/1072-5245.10.2.137
+
+Mitchell,S.L., Greenwood,A.K.,& Guglielmi,M. C.. (2011). Utilization of counseling services: comparing international and u.s.college students.Journal of College Counseling,10(2).
+
+Mori,S.(C.). (2ooo).Addressing the mental health concerns of international students.Journal of Counseling& Development,78(2),137-144.https://doi.0rg/10.1002/j.1556-6676.2000.tb02571.x
+
+Pang,Hua.(2O18).How does time spent on WeChat bolster subjective well-being through social integration and social capital?.Telematics and Informatics.35.10.1016/j.tele.2018.07.015.
+
+Park,N.,Song,H.andLee,K.M.(2O14)Social Networking Sites and Other Media Use,Acculturation Stress,and Psychological Well-Being among East Asian College Students in the United States.Computers in Human Behavior, 36,138-146.https://doi.org/10.1016/j.chb.2014.03.037
+
+Pedersen,P.B.(1991).Counseling International Students.The Counseling Psychologist,19(1),10-58. https://doi.0rg/10.1177/0011000091191002
+
+Poyrazli,S.,& Grahame,K.(2Oo7).Barrers to Adjustment: Needs of International Students withina Semi-Urban Campus Community.Journal of Instructional Psychology,34,28-45.
+
+Poyrazli,S.,& Lopez,M.D.(2O07).An exploratory study of perceived discrimination and homesickness: a comparison of international students and American students.The Journal of Psychology,141(3),263-280. https://doi.0rg/10.3200/JRLP.141.3.263-280
+
+Rasmi,S.,Safdar,S.F.,&Lewis,J.R.(2O9).ALongitudinal Examinationof the MIDA model with Intermational Students.InA.Chybicka,S.F.Safdar,& A. Kwiatkowska (Eds.), Culture & Gender: An Intimate Relation (pp.42- 57). Gdanskie Wydawnictwo Psychologiczne.
+
+Ryder,A.G.,Yang,J.,Zhu,X.,Yao,S.,Yi,J.,& Heine,S.J.,et al. (2O08).The cultural shaping of depression: somatic symptoms inchina,psychological symptoms in north america? Journal of Abnormal Psychology,117(2), 300-313.
+
+Sakurai,T.,McCall-Wolf,F.,& Kashima,E.S. (2Ol0).Building intercultural links: The impact of a multicultural intervention programmeon social ties of international students in Australia.International JournalofIntercultural Relations,34(2),176-185. https://doi.org/10.1016/j.ijintrel.2009.11.002
+
+Sawir,E.,Marginson,S.,Deumert,A.,Nyland,C.,&Ramia,G. (2Oo8).Loneliness and Intermational Students: An Australian Study.Journal of Studies in International Education,12(2),148-180.   
+https://doi.0rg/10.1177/1028315307299699
+
+Shu,Frank & Ahmed,Shujaat & Pickett,Meghan & Ayman,Roya & McAbee,Samuel. (2O20).Social support perceptions,network characteristics,and international studentadjustment.International Journal of Intercultural Relations.74.136-148.10.1016/j.ijintrel.2019.11.002.
+
+Spencer,M.S.,& Chen,J. (2Oo4).Effect of discrimination on mental health service utilization among Chinese Americans. American Journal of Public Health,94(5),809-814. https://doi.org/10.2105/ajph.94.5.809
+
+Stallman,H.M.,& Shochet,I..(2O11).Prevalence of mental health problems in australian university health services.Australian Psychologist,44(2),122-127.
+
+StephenM.Croucher & Diyako Rahmani(2O15)ALongitudinal Test of the Effects ofFacebook on Cultural Adaptation,Journal of International and Intercultural Communication,8:4,330- 345,DOI:10.1080/17513057.2015.1087093
+
+Vaez,M.,& Laflamme,L.. (2oo8).Experienced stress, psychological symptoms,self-rated health and academic achievement:alongitudinal studyof swedish university students.Social Behavior &Personality An International Journal, 36.
+
+Walton,G.M.,& Cohen,G.L.(2O07).A question of belonging: race,social fit,and achievement.Journal of Personality and Social Psychology,92(1),82-96.https://doi.org/10.1037/0022-3514.92.1.82
+
+Wang,Hua. (2Ol5).Social network sitesandinternationalstudents’cross-culturaladaptation.ComputersinHuman Behavior.49.10.1016/j.chb.2015.03.041.
+
+Wong,Y.S. (2Ool).Evaluation of sociocultural competency training in enhancing self-efficacy among immigrant and Canadian-born health sciences trainees (T). University of British Columbia.Retrieved from https://open.library.ubc.ca/collections/ubctheses/831/items/1.0054503
+
+World Health Organization.(2O2O).Mental health and psychosocial considerations duringthe COVID-19 outbreak, 18 March 2020 (No.WHO/2019-nCoV/MentalHealth/2020.1).World Health Organization.
+
+Xiaomeng,H.,Andrew,K.,Nicholas,S.,& David,W.. (2O17).The facebook paradox: effects offacebooking on individuals’ social relationships and psychological well-being.Frontiers in Psychology,8(e69841).
+
+Xu,H.,O'Brien,W.H.,& Chen,Y..(2019).Chinese international student stressand coping: a pilot study of acceptance and commitment therapy.Journal of Contextual Behavioral Science.
+
+Yeh,C.J.,& Inose,M.(2oo3).International students'reported English fluency,social support satisfaction,and social connectedness as predictors of acculturative stress.Counselling Psychology Quarterly,16(1),15- 28.https://doi.0rg/10.1080/0951507031000114058
+
+Yip,K.-S. (2O04).Taoismand Its Impact on Mental Healthof the Chinese Communities. International Journal of Social Psychiatry,50(1),25-42.https://doi.org/10.1177/0020764004038758
+
+Yip,K.-S.(2Oo5).Chinese concepts of mental health: Cultural implications for social work practice.International Social Work,48(4),391-407. https://doi.0rg/10.1177/0020872805053462
+
+Yoo,H.C., Gee,G.C.,& Takeuchi,D.(2009). Discrimination and health among Asian American immigrants: disentangling racial from language discrimination.Social Science & Medicine (1982),68(4),726-732. https://doi.org/10.1016/j.socscimed.2008.11.013
+
+Zhai,Y.,&Du,X.(2O2O).Mental healthcare for international Chinese students affectedby the COVID-19   
+outbreak.The lancet.Psychiatry,7(4),e22.htps://doi.org/10.1016/S2215-0366(20)30089-4
+
+Zhang,Jing & Goodson,Patricia.(2O11).Predictors ofinternational students’ psychosocialadjustment to lifein the United States: A systematic review.International Journal of Intercultural Relations.35.139-162. 10.1016/j.ijintrel.2010.11.011.
+
+Zhang,Z.,& Brunton,M.(2OO7).Differences inLiving and Learning: Chinese International Students in New Zealand.JournalofSudiesin International Education,11(2),124140.htps://oi.org/10.1177/128315306289834 中国人民共和国教育部（2019）.2018年度我国出国留学人员情况统计.Retrieved from http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/201903/t20190327_375704.html
+
+# The Influencing Factors and Intervention Strategies of the Mental health of
+
+# Chinese International Students
+
+Yang Wang1 Kaiping Peng1 Xiaomeng Hu2 (1DepartmentofPsychology,Tsinghua University,Beijing,100084)
+
+(2Department of Psychology,Renmin University of China,Beijing,100872)
+
+Abstract: This article systematically sorts out the influencing factors of the mental health problems of Chinese International students. We point out that the impacts of Confucian culture,language barrier，academic stress，social relations and discrimination on the mental health of Chinese International students.Moreover,we synthesize intervention techniques for mental health problems based on three aspects: social relations,cognitive and behavior,and Internet social media, which may inspire new and effective interventions for Chinese International students in the future.We hope that this integrated review can beter inform international educators,cultural psychology researchers, psychological counselors and other relevant groups to gain a more comprehensive and in-depth understanding of the acculturation difficulties and mental issues faced by Chinese International students, which will ultimately facilitate the development of effective psychological interventions. Keywords: Chinese International students,Mental health,Acculturation difficulties,Mental Intervention, Social media

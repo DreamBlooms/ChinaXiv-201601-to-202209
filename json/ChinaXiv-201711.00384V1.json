@@ -1,0 +1,304 @@
+[
+    {
+        "type": "text",
+        "text": "1 硫胺素在瘤胃内的合成及其在预防亚急性瘤胃酸中毒中的应用",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 潘晓花 　杨 亮 薛夫光 熊本海\\*（中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京，100193）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：亚急性瘤胃酸中毒是现代集约化反刍动物生产中的常见营养代谢病，揭示亚急性瘤胃酸中毒的发生机制及其预防措施是畜牧业生产中的重要科学问题。本文通过综述了硫胺素在反刍动物生产中的应用效果、影响硫胺素合成的因素、硫胺素与亚急性瘤胃酸中毒的关系及其调控亚急性瘤胃酸中毒的可能作用途径，进一步揭示了亚急性瘤胃酸中毒的发生机理和",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "8 硫胺素的生理作用，并为反刍动物生产提供理论参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：反刍动物；硫胺素；亚急性瘤胃酸中毒；调控途径中图分类号：S816 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "11 当前我国反刍动物生产中由于苜蓿等优质粗饲料资源不足，使得饲粮中精料的比例大幅  \n12 度提高以满足高产奶牛泌乳以及肉牛和肉羊强度育肥的能量需求，但高精料的饲喂模式增加  \n13 了瘤胃酸中毒等营养代谢病的发生率。Plaizier 等[1报道约有 $20 \\%$ 高产泌乳奶牛患有亚急性  \n14 瘤胃酸中毒（SARA)，北美国家每年奶牛业因瘤胃酸中毒损失 $5 { \\sim } 1 0$ 亿美元[2]。若奶牛长期  \n15 处于亚急性瘤胃酸中毒状态，则可能会进一步导致肝水肿、腹泻、蹄叶炎等疾病的发生，亚  \n16 急性瘤胃酸中毒已成为制约我国畜牧业发展的重要因素，为此，寻求亚急性瘤胃酸中毒的预  \n17 防与调控措施成为近年来国内外研究的重点。近年来研究发现，高精料饲粮可能影响瘤胃微  \n18 生物硫胺素的合成及流通，添加适量的硫胺素可通过提高瘤胃液pH，改善挥发性脂肪酸构  \n19 成以及降低乳酸和内毒素的积累，缓解亚急性瘤胃酸中毒的发生[3-4]。但这些研究主要集中  \n20 在硫胺素对瘤胃内单一代谢物作用效果的研究，而亚急性瘤胃酸中毒影响硫胺素合成的原因  \n21 以及硫胺素缓解亚急性瘤胃酸中毒的作用途径尚不可知。因此，本文针对硫胺素在反刍动物  \n22 生产中的应用以及硫胺素与亚急性瘤胃酸中毒的关系进行综述，旨在进一步认知硫胺素的营",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2015-11-17基金项目：国家自然科学基金（31572435)；奶牛产业体系北京市创新团队作者简介：潘晓花(1988-)，女，河南商丘人，博士，从事反刍动物营养研究。E-mail:",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "养作用以及为生产中亚急性瘤胃酸中毒的有效预防和调控提供技术参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1反刍动物硫胺素营养的研究进展",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1硫胺素在反刍动物生产中的应用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "：  \n过去研究认为，瘤胃微生物能够合成足够的硫胺素来满足反刍动物的营养需要量，不需要在饲粮中额外添加[5-6]。然而，在当前集约化的饲养模式下，随着饲粮中碳水化合物水平的提高，参与碳水化合物代谢的硫胺素需要量也随之升高，瘤胃微生物合成的硫胺素量可能难以满足动物的需要。因而,近几年来硫胺素在反刍动物生产上的应用重新得到重视。Neville等[7]研究发现，育成期羔羊饲粮中添加 $\\mathrm { 1 0 0 ~ m g / }$ （只·d）的硫胺素可提高动物的采食量，降低料肉比；Shaver 等[8]向饲喂高精料高产奶牛的饲粮中添加 $3 0 0 \\ \\mathrm { m g / d }$ 的硫胺素有助于提高奶牛产奶量和乳蛋白率；Kholif 等[]也证明添加 $3 4 0 \\mathrm { \\ m g / d }$ 的硫胺素后奶牛产奶量增加了$12 . 2 8 \\%$ ，乳脂和乳蛋白产量显著提高，除乳脂率外，乳糖率和乳蛋白率无显著差异；Solouma等[10]向母羊饲粮中添加 $4 0 \\mathrm { m g / d }$ 的硫胺素，母羊血液中乳成分合成前体物（白蛋白、球蛋白、葡萄糖）及产奶量均显著提高。产奶量、乳脂率及乳蛋白率可能与硫胺素促进碳水化合物代谢有关。硫胺素以焦磷酸硫胺素形式参与丙酮酸脱氢酶和 $\\mathbf { \\boldsymbol { a } } .$ 酮戊二酸脱氢酶辅酶的脱羧反应[]。高精料碳水化合物比例的增大提高了硫胺素的需要量，但微生物硫胺素合成量的不足将导致葡萄糖通过多元醇、已糖胺、蛋白激酶C 等途径代谢转化[12]，丙酮酸脱羧受阻而转化为乳酸，这将降低乙酸、丙酸等乳成分前体物的供应量。添加外源硫胺素可能通过促进丙酮酸脱羧进入三羧酸（TCA）循环而增加乳成分前体物的合成，从而提高泌乳性能。然而，硫胺素在反刍动物生产上的应用效果并不一致，Rowghani等[13]研究了不同添加水平（0、4、6 mg/kg·DM）的硫胺素对饲喂高精料饲粮条件下羔羊育肥性能、血液葡萄糖和尿素氮水平及胴体品质的影响，结果发现，除降低血液中尿素氮水平外，硫胺素对其他指标无显著影响。Silzell 等[14]发现向阉公牛饲粮添加 $1 4 0 \\mathrm { m g / k g \\cdot D M }$ 的硫胺素并未对平均日增重、平均日采食量及饲料转化率产生显著影响。上述研究中硫胺素作用效果存在差异的可能原因是试验动物和硫胺素添加水平不同，以及饲粮营养水平的差异引起瘤胃内微生物合成硫胺素量的变化；另外，影响动物生产性能的主要因素是采食量、饲粮营养水平及消化率，各研究间饲粮和试验条件的不同也会导致硫胺素应用效果的差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2硫胺素在瘤胃内的合成及影响因素",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "硫胺素主要存在于瘤胃内容物固相中的细菌体内，而瘤胃内容物液相中的含量较少[15]。硫胺素主要来源于瘤胃微生物的合成，部分来源于饲料原料经微生物降解释放。但有关瘤胄微生物合成的硫胺素量的报道尚不一致，Schwab 等[1]研究发现硫胺素在瘤胃内的表观合成量为 $5 0 . 6 \\mathrm { m g / d }$ ，与Breves 等[17]报道的 $5 1 . 7 \\mathrm { m g / d }$ 接近，但比 Santschi 等[18]报道的合成量高$6 . 1 \\mathrm { m g / d }$ ；Steinberg 等[19]证明硫胺素合成量的变化范围为 $2 3 { \\sim } 5 0 \\ \\mathrm { m g / d }$ （平均值为 $3 2 \\mathrm { m g / d } )$ ，但 NRC（2001）[20]过高估测了瘤胃硫胺素的合成量（ $1 2 7 \\mathrm { m g / d } \\AA .$ )。上述研究结果差异的部分原因是各研究之间试验条件不一致；另外，硫胺素的合成还受多种因素的影响，现列举如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 饲粮氮源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Buziassy 等[21研究表明，当饲粮蛋白质水平降低时，瘤胃中硫胺素的含量明显降低，但当饲粮中的蛋白质全部用尿素替代时，硫胺素的含量不受影响。Breves 等[17]也发现，当饲粮中氮含量降低 $2 6 \\%$ 后，瘤胃内硫胺素净合成量以及十二指肠硫胺素流通量均显著降低;瘤胃内硫胺素的合成量与十二指肠的微生物蛋白氮流量呈正相关关系 $\\scriptstyle ( r = 0 . 7 6 )$ ，进一步说明瘤胃微生物代谢活性影响硫胺素的合成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 饲粮结构及碳水化合物水平",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hunt 等[22]研究发现，在以干草和苜蓿为主的饲粮中添加淀粉可提高瘘管牛瘤胃内B 族维生素的合成量。Schwab 等[16]发现，当奶牛饲喂 $60 \\%$ 粗饲料饲粮时，非纤维性碳水化合物（NFC）水平的增加会提高维生素 $\\mathbf { B } _ { 1 }$ 的瘤胃合成量；但当奶牛饲喂 $3 5 \\%$ 粗饲料饲粮时，增加 NFC 水平降低了硫胺素的瘤胃表观合成量。Tafaj 等[23]证明硫胺素与精料水平之间存在负的二次方关系， $70 \\%$ 高精料条件下瘤胃液硫胺素含量最高， $60 \\%$ 和 $50 \\%$ 精料组硫胺素含量较低， $40 \\%$ 和 $2 5 \\%$ 精料组硫胺素含量居中。Miller等[5]报道，饲喂高谷物饲粮（含 $90 \\%$ 玉米)的肉牛瘤胃中硫胺素的含量明显低于低谷物饲粮（含 $30 \\%$ 玉米)。上述报道表明，适当地增加饲粮中碳水化合物水平及添加易消化碳水化合物能够促进硫胺素的合成，但过量的碳水化合物反而不利于硫胺素的合成，进一步说明硫胺素的合成主要受能量摄入量和可消化有机物摄入量的影响[23]。这可能是由于瘤胃丙酸细菌能够合成硫胺素或其中间产物[24]，适当地提高饲粮中碳水化合物的水平增加了瘤胃内细菌代谢的能量供应，促进埃氏巨型球菌和反刍兽新月单胞菌等丙酸产生菌的增殖[25]，从而提高了硫胺素的合成；但玉米等易发酵碳水化合物比例过高，会诱发酸中毒，引起挥发性脂肪酸及乳酸的积累及pH降低，导致埃氏巨型球菌和反刍兽新月单胞菌等丙酸产生菌生长受到抑制[25]，进而影响硫胺素的合成。此外，瘤胃液pH的降低会促进细菌硫胺素酶的释放，硫胺素酶将进一步降解硫胺素[26]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 瘤胃内环境及代谢物",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "瘤胃液 pH 和代谢产物会对硫胺素合成产生影响。Tufaj 等[27]研究表明，当全混合日粮（TMR）中硫胺素含量相同但粗饲料（牧草青贮）颗粒大小不同时，高产奶牛瘤胃硫胺素含量与 $\\mathsf { p H }$ 呈负相关（ $\\scriptstyle \\cdot R ^ { 2 } = 0 . 2 1 \\sim 0 . 2 6 )$ )；Tafaj 等[23]通过逐渐提高饲粮精料水平研究硫胺素含量与发酵类型之间的关系，发现瘤胃硫胺素含量与 $\\mathsf { p H }$ 之间存在线性负相关的关系$\\scriptstyle \\stackrel { \\prime } { \\cdot } R ^ { 2 } = 0 . 0 7 \\sim 0 . 0 9$ )，采样时间点在16:00和19:00时两者强相关（ $\\scriptstyle R ^ { 2 } = 0 . 7 0 \\sim 0 . 7 7 .$ )，且瘤胃内硫胺素含量与短链脂肪酸（SCFA）浓度呈线性正相关关系，与其他短链脂肪酸相比，丙酸浓度与硫胺素含量的相关度更高[23]。上述瘤胃液pH和短链脂肪酸浓度的变化影响硫胺素含量的可能原因是，高精料饲粮条件下奶牛快速发酵使得碳水化合物摄入量增加，引起丙酸浓度的升高和pH降低[4]，同时饲粮能量水平的增加提高了瘤胃微生物合成硫胺素的效率[17]。但若瘤胃液pH过低发生亚急性瘤胃酸中毒或急性酸中毒时，瘤胃微生物类型构成的变化、酸中毒后奶牛瘤胃细菌产生的硫胺素酶活性升高、硫胺素的吸收障碍以及代谢需要量增加等因素可能会引起硫胺素的缺乏[26]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2硫胺素与亚急性瘤胃酸中毒",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 亚急性瘤胃酸中毒的发生机制及其影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当反刍动物过量地采食高精料饲粮时，碳水化合物快速降解导致挥发性脂肪酸及乳酸等酸类物质的积累，同时饲粮中物理有效中性洗涤纤维含量降低，减少了奶牛唾液分泌量，导致瘤胃液缓冲功能下降，pH迅速降低，当瘤胃液pH低于5.6 的时间长于 $3 ~ \\mathrm { h / d }$ 则发生亚急性瘤胃酸中毒[28]。目前，研究认为亚急性瘤胃酸中毒的发生主要有乳酸中毒、有机酸中毒以及内毒素和组胺作用机制[4]。亚急性瘤胃酸中毒的发生引起瘤胃微生物区系及瘤胃代谢产物的变化，主要表现为：第一，瘤胃微生物区系结构发生变化。亚急性瘤胃酸中毒状态下有机酸的积累引起瘤胃液pH逐渐降低，由于不同细菌生长耐受的pH存在差异，pH的下降会影响不同细菌的生长增殖而导致区系失衡。如牛链球菌、反刍兽新月单胞菌和埃氏巨型球菌的耐受pH分别为5.6，4.8和5.4，当pH下降到6.0以下时，瘤胃内主要的乳酸产生菌（如牛链球菌和乳酸杆菌）的数量明显增加，而主要的乳酸利用菌（如埃氏巨型球菌和反刍兽新月单胞菌）的生长受到抑制；此外，纤维分解菌数量也会显著降低，原虫大量死亡，使得瘤胃微生物区系失衡[29-30]。第二，瘤胃微生物的代谢产物发生变化。瘤胃长期处于酸性环境下，革兰氏阴性菌将会大量死亡裂解，释放脂多糖（lipopolysaccharide，LPS）和组胺等异常代谢物[1,31-32]；瘤胃酸度的改变导致牛链球菌等细菌的代谢路径和代谢产物由乙酸-丙酸型发酵转化为乳酸型发酵，乳酸积累增加。第三，瘤胃上皮结构形态及通透性发生改变。适当的增加饲粮精料比例和营养水平可提高瘤胃乳头的长度和密度，但过高精料诱发亚急性瘤胃酸中毒，主要原因有VFA 浓度过高引起瘤胃乳头角质化不全，形态异常；亚急性瘤胃酸中毒可通过降低瘤胃复层扁平上皮的厚度而减弱颗粒层间的黏附作用，引起瘤胃上皮细胞的渗透性增强，从而降低了瘤胃上皮组织的屏障保护功能[33]；另外，LPS 可通过增加一氧化氮（NO)的产生量进而改变紧密连接蛋白 ZO-1 的结构和功能[34]，以及诱导产生的肿瘤坏死因子-α(TNF-α)。白介素（IL）-3 和IL-4 促进细胞凋亡并破坏紧密结合蛋白，从而增加瘤胃黏膜的通透性[35]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2亚急性瘤胃酸中毒与硫胺素缺乏",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "红细胞转酮醇酶活性系数，即焦磷酸硫胺素（TPP）效应值可反映机体硫胺素状态。硫胺素的缺乏会降低转酮醇酶的活性，增加红细胞中 TPP 的水平，当TPP 效应值高于 $45 \\%$ 时，说明机体可能缺乏硫胺素[36]。已有研究发现，牛和羊出现临床性急性酸中毒症状时，TPP效应值分别为 $4 6 . 7 \\%$ 和 $1 0 9 . 3 \\% ^ { [ 2 6 ] }$ ，绵羊发生亚急性瘤胃酸中毒时，TPP 效应值为 $5 9 . 4 \\% ^ { [ 3 7 ] }$ 同时Karapinar 等[38]以 $_ { 1 \\sim 2 }$ 岁的育肥牛为研究对象，研究含 $7 5 \\%$ 燕麦的高精料饲粮对机体硫胺素含量的影响，结果发现高精料组血液TPP效应的平均值达到 $47 . 2 \\%$ ，明显高于对照组（ $1 9 . 5 3 \\%$ )。上述结果说明，高精料饲喂条件下，虽然饲粮中硫胺素含量随着谷物水平的增加而增加，但动物机体仍缺乏硫胺素，硫胺素的缺乏会引起血液中丙酮酸和乳酸浓度的升高，转酮醇酶和丙酮酸脱氢酶活性的降低[39]，代谢产物乳酸及挥发性脂肪酸的积累，有可能诱发酸中毒的发生。引起硫胺素缺乏的可能原因是TPP 是丙酮酸脱氢酶和 $\\mathfrak { a }$ -酮戊二酸脱氢酶的辅酶，参与碳水化合物代谢过程中 $\\scriptstyle { \\mathfrak { a } } .$ -酮酸的氧化脱羧反应，高精料饲粮中碳水化合物水平增加引起硫胺素的需要量增加；同时，高精料诱发瘤胃酸中毒发生时，瘤胃液 $\\mathfrak { p H }$ 的卜降以及乳酸的积累不利于瘤胃微生物的生长，合成B 族维生素的微生物生长受到抑制，导致硫胺素合成量减少；此外，酸中毒后细菌产生的硫胺素酶活性升高，增加了硫胺素的降",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "解量[26]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3硫胺素缓解亚急性瘤胃酸中毒",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1硫胺素缓解亚急性瘤胃酸中毒研究进展",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "硫胺素的不足将引起碳水化合物代谢受阻，导致中间代谢产物丙酮酸和乳酸积累，从而诱发瘤胃酸中毒的发生。当前已有研究表明，饲粮中添加硫胺素可缓解亚急性瘤胃酸中毒。董淑红等[3]证明，试验山羊处于亚急性瘤胃酸中毒状态后，试验组饲粮中添加 $2 4 0 ~ \\mathrm { m g / k g }$ 硫胺素可提高瘤胃液 $\\mathfrak { p H }$ ，显著降低瘤胃液内乳酸和乙酸浓度及乙酸/丙酸，同时显著提高丙酸与丁酸的浓度，缓解了山羊亚急性瘤胃酸中毒。同时，Wang 等[40]研究表明，泌乳奶牛高精料饲粮中添加 $1 8 0 ~ \\mathrm { m g / k g }$ 的硫胺素具有降低乳酸产生菌牛链球菌和乳酸杆菌的数量，提高乳酸利用菌埃氏巨型球菌数量的作用，从而抑制了乳酸积累，提高了瘤胃液pH。Holtershinker等[411证明亚急性瘤胃酸中毒下硫胺素具有保护原虫的作用。另外，硫胺素还可能通过促进瘤胃上皮组织生长及其功能而缓解亚急性瘤胃酸中毒。王龙[42]发现，在犊牛高精料饲粮中添加 $1 2 0 ~ \\mathrm { m g / k g }$ 硫胺素可促进瘤胃上皮组织的发育，表现为亚急性瘤胃酸中毒组犊牛瘤胃上皮乳头出现囊肿及角质层的异常脱落，而添加硫胺素的犊牛瘤胃上皮乳头发育相对良好，瘤胃上皮乳头顶端未出现微脓肿，且角质层光滑平整，但硫胺素促进瘤胃上皮发育作用途径尚不清楚。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 硫胺素缓解亚急性瘤胃酸中毒的可能作用途径",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "亚急性瘤胃酸中毒发生的根本原因是饲粮精粗比例不合理引起瘤胃微生物代谢紊乱，进一步引起瘤胃内有机酸的积累以及微生物死亡裂解释放异常代谢物质，同时瘤胃上皮组织因长期处于低pH环境而受损，进一步引起代谢物的吸收障碍而加重机体的瘤胃酸中毒。因此，探讨硫胺素缓解亚急性瘤胃酸中毒的作用机制，应从瘤胃微生物系统（包括原虫、真菌和细菌）及其代谢产物的整体变化以及与瘤胃上皮组织功能和动物机体代谢的相互联系方面入手。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 系统地调控瘤胃内碳水化合物代谢及微生态平衡",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当前，硫胺素缓解亚急性瘤胃酸中毒作用途径的研究主要侧重于瘤胃发酵指标及单一代谢产物（如挥发性脂肪酸、乳酸、LPS、组胺等）的研究，而对于反刍动物瘤胃代谢与动物机体代谢两者之间的关联以及不同代谢物之间的内在联系缺乏研究。除引起上述乳酸、短链脂肪酸代谢产物浓度变化外，Brownlee[12]证明硫胺素缺乏还会因葡萄糖代谢磷酸戊糖途径中转酮醇酶以及TCA 循环中丙酮酸脱氢酶和 $\\scriptstyle { \\mathfrak { a } } .$ -酮戊二酸脱氢酶的活性受到抑制，导致葡萄糖通过多元醇、己糖胺、蛋白激酶C等途径代谢转化，且Bubber 等[]发现硫胺素缺乏情况下TCA 循环中的琥珀酸脱氢酶、琥珀酸硫激酶、苹果酸酶等非硫胺素依赖酶的活性也显著降低，其降低程度高于丙酮酸脱氢酶和 $\\mathfrak { a }$ -酮戊二酸脱氢酶，这将引起整个TCA循环中间代谢产物浓度的变化，可见硫胺素对碳水化合物的多个代谢途径均有影响。此外，硫胺素对瘤胃微生物的影响仅局限于牛链球菌、溶纤维丁酸弧菌、反刍兽新月形单胞菌、乳酸杆菌和埃氏巨型球菌等乳酸代谢相关菌[40]，而瘤胃微生物之间存在共生竞争等复杂的关系，几种细菌的变化并不能反映硫胺素所引起的瘤胃微生物整体变化。因而，当前研究仅从单一角度无法准确揭示硫胺素的作用，将来的研究需从瘤胃微生物消化代谢、瘤胃代谢产物组成平衡和清除等整体角度系统阐明硫胺素缓解亚急性瘤胃酸中毒的作用机制。目前，高通量测序技术和代谢组学技术的发展为系统地研究瘤胃微生物及其代谢产物的整体变化提供了技术手段[43-44],这将有助于揭示硫胺素和亚急性瘤胃酸中毒对瘤胃微生物区系及其代谢产物的整体变化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 调控瘤胃上皮屏障功能",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "硫胺素缺乏促进亚急性瘤胃酸中毒的发生还可能与组织屏障功能受损相关。目前，硫胺素对组织屏障作用的研究主要集中在人血脑屏障方面，尚未有硫胺素对瘤胃上皮功能等方面的研究。一方面，硫胺素缺乏引起上皮组织的细胞凋亡和通透性增加。Gioda 等[45]和 Hazell等[4]的研究均表明，硫胺素缺乏会增强一氧化氮合成酶（eNOS）活性而提高NO 的产量，过多的NO与超氧阴离子 $\\mathrm { O } _ { 2 }$ 结合形成过氧硝酸盐（ONOO-）产生毒物效应，引起细胞的凋亡；同时闭合蛋白occludin，紧密连接蛋白 ZO-1和 ZO-2的蛋白质表达量降低，增加了脑血管内皮细胞的通透性[47]。另一方面，硫胺素缺乏导致促炎性反应细胞因子的释放而引起炎症反应[48]。Vemuganti 等[49]用微阵列分析发现硫胺素缺乏后大脑敏感区炎症反应的相关基因表达量上调，这包括促炎症细胞因子[IL-6、IL-18、TNF-α、同种异体移植炎症因子1(AIF1)和骨桥蛋白]、趋化因子[单核细胞趋化蛋白-1(MCP-1)、巨噬细胞炎性蛋白(MIP)-1α、MIP-1和生长相关性癌基因-1(Gro1)]、干扰素(IFN)和 IFN 诱导蛋白。同时，Karuppagounder 等[50]研究也发现硫胺素缺乏可显著提高丘脑中线旁丘脑核内CD11b、胶质纤维酸性蛋白（GFAP)",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "和细胞间黏附分子-1（ICAM-1）的免疫反应，同时引起eNOS(4 倍)、IL-1β(43倍)、IL-6(44倍)和TNF-α(64 倍)mRNA表达水平的显著升高；此外，还引起皮质部位TNF- $\\cdot a$ 的 mRNA表达水平提高 22倍。可见，硫胺素缺乏会引起脑血管内皮的渗透性增加以及炎症反应而破坏血脑屏障功能，临床上以静脉注射硫胺素的方式治疗该疾病。但硫胺素缺乏对瘤胃上皮组织通透性以及瘤胃上皮的影响鲜有报道，添加硫胺素缓解亚急性瘤胃酸中毒，促进瘤胃上皮发育的可能原因是增强了瘤胃上皮的屏障功能，减轻瘤胃上皮的炎症反应，这些仍需进一步验证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 促进瘤胃上皮增殖与更新 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "饲粮的营养水平会通过胰岛素样生长因子（IGF）系统调节瘤胃上皮的生长和结构[51],IGF 系统包括IGF-I、IGF-II、IGF受体、IGF 结合蛋白（IGFBP）和IGFBP酶。硫胺素缺乏会引起组织生长和增殖受阻，Molina 等[52l以小鼠为试验对象，发现硫胺素缺乏组小鼠血浆IGF-I含量降低 $2 8 \\% { \\sim } 6 0 \\%$ ，肾脏组织IGF-I含量降低 $20 \\% { \\sim } 6 0 \\%$ ，IGFBP-3 和 IGFBP-1/2含量降低。据此，硫胺素可能通过调控IGF 系统进而影响瘤胃上皮的增殖与更新，但仍需进一步的验证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，硫胺素的合成受饲粮中氮源、碳水化合物水平及饲粮结构的影响。高精料饲粮条件下，碳水化合物代谢对硫胺素的需要量增加，同时碳水化合物分解产生大量的乳酸和挥发性脂肪酸会诱发瘤胃酸中毒的发生，引起瘤胃液pH迅速下降及瘤胃微生物区系失调和功能紊乱，合成B族维生素的微生物生长受到抑制而导致硫胺素合成量减少；此外，酸中毒后细菌产生的硫胺素酶活性升高，增加了硫胺素的降解量。由此可见，亚急性瘤胃酸中毒的发生与硫胺素缺乏密切相关。高精料饲粮条件下添加硫胺素具有提高动物生产性能和缓解亚急性瘤胃酸中毒的作用，其作用途径可能是系统地调控瘤胃微生物代谢及碳水化合物的代谢，调控瘤胃上皮的屏障功能，并促进瘤胃上皮的增殖与更新。因此，为进一步深入了解亚急性瘤胃酸中毒的发生机制及硫胺素缓解亚急性瘤胃酸中毒的作用机制，今后需加强硫胺素在瘤胃内碳水化合物和瘤胃微生物代谢方面的系统研究以及对瘤胃上皮功能的影响，这将为亚急性瘤胃酸中毒的诊断与预防以及减少反刍动物生产经济损失提供新的科学思路与方法。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] PLAIZIERJC.KHAFIPOURE,LIS.etal.Subacuteruminal ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "acidosis(SARA):endotoxins and health consequences[J].Animal Feed Science and Technology,2012,172(1/2):9-21.   \n[2] MUTSVANGWA T,WRIGHT T C.Sub-acute ruminal acidosis (SARA) in dairy cows[R].Ontario:Ministry of Agriculture and Food,2003.   \n[3] 董淑红,王洪荣,潘晓花,等.硫胺素对亚急性瘤胃酸中毒状态下山羊瘤胃发酵 特性的影响[J].动物营养学报,2013,25(5):1004-1009.   \n[4] 王洪荣.反刍动物瘤胃酸中毒机制解析及其营养调控措施[J].动物营养学 报,2014,26(10):3140-3148.   \n[5]MILLER B L,MEISKE JC,GOODRICH R D.Effects of grain source and concentrate level on B-vitamin production and absorption in steers[J].Journal of Animal Science,1986,62(2):473-483.   \n[6] ZINN R A,OWENS F N,STUART R L,et al.B-vitamin supplementation of diets for feedlot calves[J].Journal of Animal Science,1987,65(1):267-277.   \n[7]NEVILLE B W,SCHAUER C S,KARGES K,et al.Effect of thiamine concentration on animal health,feedlot performance,carcass characteristics,and ruminal hydrogen sulfide concentrationsin lambs fed dietsbasedon $60 \\%$ distillersdriedgrainsplus solubles[J].Journal of Animal Science,2010,88(7):2444-2455.   \n[8]SHAVER R D,BAL M A.Effect of dietary thiamin supplementation on milk production by dairy cows[J].Journal of Dairy Science,2000,83(10):2335-2340.   \n[9]KHOLIF A M,HANAFY M A,EL-SHEWY A A,et al.Efect of supplementing rations with thiamin and/or sodium bicarbonate onmilk yield and composition of lactating cows[J].Egyptian Journal of Nutrition and Feeds,2009,12(2):187-195.   \n[10] SOLOUMA G M,KHOLIF A M,HAMDON H A,et al.Blood components and milk production as affected by supplementing ration with thiamin in Ewe Sohagi Sheep[J].Life Science Journal,2014,11(11):60-65.   \n[11] BUBBER P,KE Z J,GIBSON G E.Tricarboxylic acid cycle enzymes following ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "thiamine deficiency[J].Neurochemistry International,2004,45(7):1021-1028. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[12] BROWNLEEM.Biochemistryandmolecularcellbiologyofdiabetic complications[J].Nature,2001,414(6865):813-820.   \n[13]ROWGHANI E,ZAMIRI M J,EBRAHIMI S R.Effects of monensin and thiamin and their combinations on feedlot performance,blood glucose,BUN levels and carcass characteristics of mehraban lambs fed a high concentrate diet[J].Pakistan Journal of Biological Sciences,2006,9(15):2835-2840.   \n[14]SILZELL S A,KEGLEY E B,COFFEY K P,et al.Case study:thiamin status and growth performance of catte new to the feedlot environment as affected by amprolium and supplemental dietary thiamin1[J].The Professional Animal Scientist,2O01,17(3):202-207.   \n[15]SANTSCHI D E,BERTHIAUME R,MATTE J J,et al.Fate of supplementary B-vitamins in the gastrointestinal tract of dairy cows[J].Journal of Dairy Science,2005,88(6):2043-2054.   \n[16] SCHWAB E C,SCHWAB C GSHAVER R D,et al.Dietary forage and nonfiber carbohydrate contents influence B-vitamin intake,duodenal flow,and apparent ruminal synthesis in lactating dairy cows[J].Journal of Dairy Science,2006,89(1):174-187.   \n[17]BREVES G,BRANDT M,HOELLER H,et al.Flow of thiamin to the duodenum in dairy cows fed different rations[J].The Journal of Agricultural Science,1981,96(3):587-591.   \n[18] SANTSCHI D E,CHIQUETTE J,BERTHIAUME R,et al.Effects of the forage to concentrate ratio on B-vitamin concentrations in diferent ruminal fractions of dairy cows[J].Canadian Journal of Animal Science,2005,85(3):389-399.   \n[19]STEINBERG W,KAUFMANN W.Untersuchungen zur bakteriellen Thiaminsynthese in den vormägenvonmilchkuhen[J].ZeitschriftfurTierphysiologieTierernährungund Futtermittelkunde,1977,39(1/2/3/4/5/6):289-301.   \n[20]NRC.Nutrient requirements of dairy catle[S].7th ed.Washington,D.C.:National Academies Press,2001.   \n[21]BUZIASSY C,TRIBE D E.The synthesis of vitamins in the rumen of the sheep. I .The effect of diet on the synthesis of thiamine,riboflavin and nicotinic acid[J].Australian ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Journal of Agriculture Research,1960,11(6):989-1001. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[22]HUNT C H,BENTLEY O G,HERSHBERGER T V,et al.The effect of carbohydrates and sulfur on B-vitaminssynthesis,celulose digestion,and urea utilization by rumen microorganisms in vitro[J].Journal of Animal Science,1954,13(3):570-580.   \n[23]TAFAJ M,SCHOLLENBERGER M,FEOFILOWA J,et al.Relationship between thiamine concentration and fermentation patterns in the rumen fluid of dairy cows fed with graded concentrate levels[J].JournalofAnimal Physiology and Animal Nutrition,2006,90(/8):335-343.   \n[24]SILVERMAN M,WERKMAN C H.Adaptation of the propionic-acid bacteria to synthesis vitamin $\\mathbf { B } _ { 1 }$ including a method of assay[J].Journal of Bacteriology,1939,38(1):25-32.   \n[25]胡红莲.奶山羊亚急性瘤胃酸中毒营养生理机制的研究[D].博士学位论文.呼和浩特:内 蒙古农业大学,2008.   \n[26]KARAPINAR T,DABAK M,KIZIL O,et al.Severe thiamine deficiency in sheep with acute ruminal lactic acidosis[J].Journal of Veterinary Internal Medicine,20o8,22(3):662-665.   \n[27]TUFAJ M,ZEBELI Q.SCHOLLENBERGER S,et al.Efect of the grass silage particle size offered as TMR on the ruminal thiamine concentration in high-yielding dairy cows[J].Journal of Animal and Feed Sciences,2004,13(1):219-222.   \n[28]ALZAHAL O,ALZAHAL H,STEELE M A,et al.The use of a radiotelemetric ruminal bolus to detect body temperature changes in lactating dairy catle[J].Journal of Dairy Science,2011,94(7):3568-3574.   \n[29]FERNANDO S C,PURVIS H T,NAJAR F Z,et al.Rumen microbial population dynamics duringadaptationtoahigh-graindiet[J].AppliedandEnvironmental Microbiology,2010,76(22):7482-7490.   \n[30]PETRI R M,SCHWAIGER T,PENNER G B,et al.Changes in the rumen epimural bacterial diversity of beef cattle as affected by diet and induced ruminal acidosis[J].Applied and Environmental Microbiology,2013,79(12):3744-3755.   \n[31]LI S,KHAFIPOUR E,KRAUSE D O.et al.Effects of subacute ruminal acidosis challenges on fermentation and endotoxins in the rumen and hindgut of dairy cows[J].Journal of Dairy Science,2012,95(1):294-303.   \n[32]METZLER-ZEBELI B U,SCHMITZ-ESSER S,KLEVENHUSEN F,et al.Grain-rich diets differently alter ruminal and colonic abundance of microbial populationsand lipopolysaccharide in goats[J].Anaerobe,2013,20:65-73.   \n[33]STEELE M A,CROOM J,KAHLER M,et al.Bovine rumen epithelium undergoes rapid structural adaptations during grain-induced subacute ruminal acidosis[J].American Journal of Physiology:Regulatory,Integrative and Comparative Physiology,2011,300(6):R1515-R1523.   \n[34] CUNNINGHAMC.Microgliaandneurodegeneration:theroleof systemic inflammation[J].Glia,2013,61(1):71-90.   \n[35]IQBAL S,ZEBELI Q,MANSMANN D A,et al.Oral administration of LPS and lipoteichoic acid prepartum modulated reactants of innate and humoral immunity in periparturient dairy cows[J].Innate Immunity,2014,20(4):390-400.   \n[36]REHM W F,ZEROBIN K,CHRISTELLER S,et al.Diagnosis of clinical vitamin $\\mathbf { B } _ { 1 }$ （204号 deficiency in catte[J].Berl Munch Tiearar Wochenschr,1971,84:64-67   \n[37]DABAK M,GUL Y.Thiamine deficiency in sheep with chronic rumen acidosis[J].The Veterinary Record,2004,154(2):58-59.   \n[38] KARAPINAR T,DABAK M,KIZIL O.Thiamine status of feedlot cattle feda high-concentrate diet[J].The Canadian Veterinary Journal,2010,51(11):1251-1553.   \n[39]BENEVENGA N J,BALDWIN R L,RONNING M.Alterations in liver enzyme activities and blood and urine metabolite levels during the onset of thiamine deficiency in the dairy calf[J].The Journal of Nutrition,1966,90(2):131-140.   \n[40]WANG HR,PAN X H,WANG C,et al.Effects of different dietary concentrate to forage ratio and thiamine supplementation on the rumen fermentation and ruminal bacterial community in dairy cows[J].Animal Production Science,2015,55(2):189-193.   \n[41]HOLTERSHINKER M,HOHLING A,WENDELKEN G,et al.Effects on rumen protozoa in ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "cattle (in vitro).Part 2:influence of a subclinical ruminal acidosis without and with thiamine supply[J].Tierärztliche Praxis GroBtiere,2003,31(4):178-182. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[42]王龙.硫胺素对犊牛瘤胃组织形态及其生长发育影响的研究[D].硕士学位论 文.扬州:扬州大学,2013.   \n[43]MAO S Y,HUO W J,ZHU W Y.Microbiome-metabolome analysis reveals unhealthy alterations in the composition and metabolism of ruminal microbiota with increasing dietary grain in a goat model[J].Environmental Microbiology,2016,18(2):525-541.   \n[44]SALEEMF,AETAJ B N,BOUATRA S,et al.A metabolomics approach to uncover the effects of grain diets on rumen health in dairy cows[J].Journal of Dairy Science,2012,95(11):6606-6623.   \n[45]GIODA C R,CAPETTINI L S A,CRUZ J S,et al.Thiamine deficiency leads to reduced nitric oxide production and vascular dysfunction in rats[J].Nutrition,Metabolism and Cardiovascular Diseases,2014,24(2):183-188.   \n[46]HAZELL A S,FAIM S,WERTHEIMER G,et al.The impact of oxidative stress in thiamine deficiency:a multifactorial targeting issue[J].Neurochemistry International,2013,62(5):796-802.   \n[47]BEAUCHESNE E,DESJARDINS P,HAZELL A S,et al.Altered expression of tight junction proteins and matrix metalloproteinases in thiamine-deficient mouse brain[J].Neurochemistry International,2009,55(5):275-281.   \n[48]NERI M,CANTATORE S,POMARA C,et al.Immunohistochemical expression of proinflammatory cytokines IL-1β,IL-6,TNF- $\\mathfrak { a }$ and involvement of COX-2,quantitatively confirmed by Western blot analysis,in Wernicke's encephalopathy[J].Pathology-Research and Practice,2011,207(10):652-658.   \n[49]VEMUGANTI R,KALLURI H,YI JH,et al.Gene expresson changes in thalamus and inferior colliculus associated with inflammation,cellular stress,metabolism and structural damage in thiamine deficiency[J].European Journal of Neuroscience,2006,23(5):1172-1188.   \n[50] KARUPPAGOUNDER S S,SHI Q L,XU H,et al.Changes in inflammatory processes associated with selective vulnerability following mild impairment of oxidative metabolism[J].Neurobiology of Disease,2007,26(2):353-362.   \n[51] STEELE M A,ALZAHAL O,WALPOLE ME,et al.Short communication:grain-induced subacute ruminal acidosis is associated with the differential expression of insulin-like growth factor-binding proteins in rumen papillae of lactating dairy catte[J].Journal of Dairy Science,2012,95(10):6072-6076.   \n[52] MOLINA P E,FAN J,BOXER R,et al.Modulation of insulin-like growth factorI :a specific role for vitamin ${ \\bf B } _ { 1 }$ (thiamine)[J].The Journal of Nutritional Biochemistry,1996,7(4):207-213. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Recent Advances in Ruminal Thiamine Synthesis and Thiamine's Application for Subacute Rumen Acidosis Prevention PAN Xiaohua YANG Liang XUE Fuguang XIONG Benhai\\* (Institute of Animal Science, Chinese Academy of Agricultural Sciences, State Key Laboratory of Animal Nutrition,Beijing 100193) Abstract: Subacute ruminal acidosis (SARA） is a common chronic digestive disorder in high-yielding dairy cows fed highly digestible grain diets，and to reveal the occurrence mechanisms of SARA and the effects of thiamine on SARA were the important scientific problems for modern intensive ruminant production.. This paper reviewed the application effect of thiamine on ruminant production, the factors affecting thiamine synthesis in the rumen， the relationship between thiamine and SARA as well as the possible regulating routes of thiamine to relieve SARA,and further revealed the occurrence mechanisms of SARA and the physiological function of thiamine, thus provided the theory reference for ruminant production. Key words: ruminant; thiamine; subacute rumen acidosis; regulation pathway ",
+        "page_idx": 14
+    }
+]

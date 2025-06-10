@@ -1,0 +1,177 @@
+# 误差消除型里程计定位方法的分析与研究
+
+闫毅平1,2 崔凯楠² 袁 懿² 张玥红²（1.北京交通大学电气工程学院电力电子研究所北京1000442.北京市工贸技师学院电气系北京100097）
+
+![](images/39a0077378176a322b6fb8520579b5dfe9cdce0b29bfdc6b4e04b7ed2f9b0ce4.jpg)
+
+闫毅平男1974年生，硕士研究生，研究方向为电力电子与电力传动。
+
+摘要：全向移动平台可向任意方向直线运动而无需事先旋转运动，可在直线运动的同时执行旋转运动，机动性及避障性能好。本文介绍了基于NI公司myRIO-1900 型控制器的误差消除型里程计定位系统，在基于编码器、陀螺仪的传统里程计定位的基础上，引入红外传感器、超声波传感器，通过均值滤波与修正，精确测量平台的姿态，并周期性将累计误差清零，达到消除累计误差的目的。该方法已应用于2017年世界技能大赛移动机器人项目，竞赛平台运动控制效果良好，满足高速、精确的运动控制要求。本文提出的误差消除型里程计定位方案性价比高，实用性强，控制精确，应用前景广阔。
+
+关键词：PWM闭环控制 误差消除平台定位运动导航中图分类号：TP242
+
+![](images/8927f7aec75790e541829d84224d847cdb30a99bfd67e80da47d6fbabd45b16a.jpg)
+
+# An Analysis on the Odometer Positioning System With Error Elimination
+
+Yan Yiping1,2 Cui Kainan²Yuan $Y i ^ { 2 }$ Zhang Yuehong² （1.Beijing Jiaotong UniversityBeijing100044 China 2.Beijing Industry and Trade Technicians CollegeBeijing 100097 China )
+
+崔凯楠男 1985年生，博士研究生，研究方向为信息传播分析。
+
+Abstract: The omni-directional mobile platform is maneuverable and good at obstacle avoidance,as it can move straight in any direction and perform rotational motion at the same time. In this paper, an odometer positioning system is introduced with error elimination for NI myRIO-190o. Compared to traditional odometer positioning system which mainly depends on encoder and gyroscope, infrared sensor and ultrasonic sensor are introduced to our system. Through mean filter and periodical clearing cumulative error,our system could measure the posture of the platform accurately. This method has been applied in the 2017 the 44th World Skills Competition mobile robotics project. The competition result proved that our positioning system has good performance, which satisfies the requirement of high speed and precise motion control. The odometer positioning system with error elimination presented in this paper is cost-effective and practicable,which is a precise control scheme.
+
+Keywords: PWM,closed-loop control, error elimination,platform positioning, motion navigation
+
+# 1 引言
+
+移动机器人在星球探险、电力巡检、医疗卫生、工业制造、国防及公共服务领域的应用越来越广泛[1-3]。移动平台精确定位是机器人完成设定任务的基本前提[4]。全向轮式移动平台可在平面 $3 6 0 ^ { \circ }$ 任意角度回转、平移，准确定位，灵活调姿，适于狭小空间或复杂路径移动。全向轮式移动平台定位方法包括导航信标定位、地图匹配定位、GPS定位、北斗定位、视觉跟踪定位和里程计定位等[5-9]。不同的定位方法具有不同的特点。导航信标定位依赖于坏境中事先添加的标志物，前期投入较大，成本高昂；地图匹配定位精度高，但需要事先预知坏境地图，运算数据量大，要求存储空间大，对处理器要求高，不能适应动态变化的环境；GPS定位和北斗定位基于全球卫星定位系统[10]，定位精度低，室内可能定位失败；视觉跟踪定位精度较高，但实时性较差，存在跟踪目标遮挡导致的目标丢失问题[11]；里程计定位采用惯性传感器[12-13]，存在误差积累[14-15]。误差消除型里程计定位方法可周期性校准移动平台的位姿，消除累计误差，可获得全方位运动效果。
+
+# 2 全向平台运动学模型与里程计定位分析
+
+# 2.1全向平台运动学模型
+
+全向移动平台[16-17]由三个全向轮组成，轮子均匀分布，互差 $1 2 0 ^ { \circ }$ 角，如图1所示。全向移动平台不存在不完整约束，可向任意方向直线运动而无需事先旋转运动，可在直线运动的同时执行旋转运动，具有运动灵活的特点。
+
+![](images/0e9cd98275238f0c3e148f2c4b3a270d3f3671dc26282636ae4a00e740e1943c.jpg)  
+图1全向移动平台  
+Fig.1 Omni-directional mobile platform   
+Fig.2Kinematic model of mobile platform
+
+移动平台的运动学简化模型如图2所示，XOY为世界坐标系，xoy为平台坐标系，两坐标系间的夹角为 $\phi$ ，3个轮子分别标记为i、j、 $k$ ，线速度标记为 $V _ { i \cdot }$ ， $V _ { j }$ ， $\boldsymbol { V } _ { k }$ ，平台旋转的角速度为 $\omega$ ，轮子到平台中心点 $o$ 的距离为 $R$ 。
+
+![](images/a9569c822ed9f90a0662030b33732a538312d8d6261ea77822e540b16961e605.jpg)  
+图2移动平台的运动学简化模型
+
+在平台坐标系中，平台沿两个坐标轴方向的线速度为 $\nu _ { x } .$ ， $\nu _ { y }$ ， $\nu _ { x } .$ ， $\nu _ { y }$ ， $\omega$ 与 $V _ { i \cdot }$ ， $V _ { j }$ ， $V _ { k }$ 之间的关系式为
+
+$$
+\left( \begin{array} { c } { { \nu _ { x } } } \\ { { \nu _ { y } } } \\ { { \omega } } \end{array} \right) = \left( \begin{array} { c c c } { { \displaystyle \frac { 2 } { 3 } } } & { { \displaystyle - \frac { 1 } { 3 } } } & { { \displaystyle - \frac { 1 } { 3 } } } \\ { { } } & { { } } & { { \displaystyle - \frac { \sqrt { 3 } } { 3 } } } & { { \displaystyle - \frac { \sqrt { 3 } } { 3 } } } \\ { { \displaystyle \frac { 1 } { 3 R } } } & { { \displaystyle \frac { 1 } { 3 R } } } & { { \displaystyle \frac { 1 } { 3 R } } } \end{array} \right) \left( V _ { k } \right)
+$$
+
+在世界坐标系中，平台沿两个坐标轴方向的线速度为 $V _ { X } .$ $\therefore \ K _ { _ { Y \circ } } \quad V _ { _ { X \bullet } } \quad V _ { _ { Y } }$ ， $\omega$ 与 $\nu _ { x } , \ \nu _ { y } ,$ （204号 $\omega$ 之间的关系式为
+
+$$
+\left( \begin{array} { c } { V _ { x } } \\ { V _ { y } } \\ { \omega } \end{array} \right) = \left( \begin{array} { c c c } { \cos \phi } & { - \sin \phi } & { 0 } \\ { \sin \phi } & { \cos \phi } & { 0 } \\ { 0 } & { 0 } & { 1 } \end{array} \right) \left( \begin{array} { c } { \nu _ { x } } \\ { \nu _ { y } } \\ { \omega } \end{array} \right)
+$$
+
+机器人的当前姿态 $( x _ { 1 } , \ y _ { 1 } , \ \theta _ { 1 } )$ 与初始姿态$( x _ { 0 } , \ y _ { 0 } , \ \theta _ { 0 } )$ 之间的关系式为
+
+$$
+\left( \begin{array} { c } { x _ { 1 } } \\ { y _ { 1 } } \\ { \theta _ { 1 } } \end{array} \right) = \left( \begin{array} { c c c } { \Delta t } & { 0 } & { 0 } \\ { 0 } & { \Delta t } & { 0 } \\ { 0 } & { 0 } & { \Delta t } \end{array} \right) \left( \begin{array} { c } { x _ { 0 } } \\ { y _ { 0 } } \\ { \theta _ { 0 } } \end{array} \right)
+$$
+
+式中， $\Delta t$ 为机器人运行时间； $x _ { i }$ ， $y _ { i } .$ ， $\theta _ { i } \left( i = 0 , 1 \right)$ 分别为移动平台位姿的 $x$ 轴坐标值、 $y$ 轴坐标值和角度值。
+
+# 2.2里程计定位分析
+
+里程计定位方法基于里程计惯性传感器相对于初始状态数据的变化量来计算移动平台的当前位姿。
+
+这种相对定位方法按照移动平台的运动学模型来推测自身的运动轨迹，不需要外界提供平台环境信息，具有自适应的优点。然而随着运动轨迹的推移，会出现定位误差积累现象。平台的轮子直径、轴距的差异与安装精度引起的系统误差具有规律性；平台运动过程中打滑、锁死以及轮子与地面的不连续接触引起的非系统误差具有不确定性特点。
+
+# 3误差消除型里程计定位系统设计
+
+传统的里程计方法采用电机编码器和陀螺仪等惯性传感器，存在误差积累。误差消除型里程计系统采用NI公司的myRIO-1900型控制器，在传统里程计定位系统的基础上，硬件上增加超声波、红外测距传感器，控制软件中增加位姿校准子程序，定期对移动平台的位姿进行校准，将安装精度与轮子与地面接触不连续等原因造成的累计误差清零，之后继续完成预定任务。系统硬件结构如图3所示。
+
+![](images/5d10332f676e47c830a5e6f399159b5782279feee560c8d10dfd3a6b78b4dcf2.jpg)  
+图3控制系统硬件组成  
+Fig.3Hardware composition of control system
+
+# 3.1硬件电路设计
+
+全向移动平台主要电气元器件见表1。红外传感器与超声波传感器结合使用测量移动平台的直角坐标值，在事先确定的固定点与绝对坐标值进行比较，得出误差值，myRIO-1900型控制器发出校准信号，经功率放大后驱动电机进行校正，直至误差清零。系统接线图如图4所示，其中，传感器接线图如图5所示。
+
+![](images/2b35400231dbd8d93bac876d36b91b773e68cb1bdd0fe443245b8df3f1855899.jpg)  
+图5传感器接线图  
+Fig.5Senor wiring diagram
+
+平台行走结构采用3台直流减速电机进行驱动，电机需要正反向运转，采用H桥PWM驱动。H桥PWM驱动芯片为A4973型，内置PWM电流控制，具有快速和慢速两种电流衰减模式，驱动电流为1.5A，具有过电流和欠电压等完善的保护功能。电机驱动电路如图6所示，PWM1信号来自myRIO-1900型控制器接口B/DIO8（PWM0）， $\mathbf { M } 1 +$ 、M1-接1#直流电机，AO1可设置电机限流保护点，SENSE1将电机电流上报myRIO-1900型控制器。电机正常驱动电流路径（正向旋转）、PWM电流控制快速衰减电机电流路径和慢速衰减电机电流路径如图7所示。
+
+# 3.2 软件设计
+
+全向移动平台程序控制采用LabVIEW2015，程序采用模块化设计方法。主要模块包括陀螺仪数据采集与定位计算、电机速度采集与闭环控制、红外和超声传感器数据采集与位姿校准。
+
+myRIO-1900型控制器通过采集陀螺仪数据得到平台当前的旋转角度，采集平台3台电机的编码值得到平台当前的直角坐标值，进而得到平台的运
+
+# 表1主要电气元器件
+
+Tab.1List of electrical components   
+
+<html><body><table><tr><td>序号</td><td>名称</td><td>规格型号</td><td>性能指标</td><td>数量/个</td></tr><tr><td>1</td><td>控制器</td><td>NI，myRIO-1900 型</td><td>双核 ARM Cortex-A9，Xilinx FPGA</td><td>1</td></tr><tr><td>2</td><td>直流减速电机</td><td>TETRI，V2型</td><td>12V，2.26N·m，152r/min</td><td>3</td></tr><tr><td>3</td><td>旋转编码器</td><td>US Digital E4P 型</td><td>1 440 PPR</td><td>3</td></tr><tr><td>4</td><td>电机驱动板</td><td>A4973型</td><td>两路，驱动电流1.5A</td><td>2</td></tr><tr><td>5</td><td>红外传感器</td><td>SHARP，GP2Y0A21YK0F型</td><td>量程：100～800mm</td><td>1</td></tr><tr><td>6</td><td>超声波传感器</td><td>PARALLAX，28015#型</td><td>量程：20～3000mm</td><td>2</td></tr></table></body></html>
+
+0.2mm² 0.2mm² USB 0.5mm² Camera myRIO-1900 日 M 0.75mm² ABc m.. 0.5mm² 0.5mm² C3m 四 nn T3 静 广 SB S2   
+□J14 0.5mm²！ DC M0 1 3 A 2 A M1 01mmm 、 SB   
+□J15 J1 X4 0.5mm²！ 明 DC 5V2A out 0.5mm² 5V output + sB3 0.5m² PCB1 XS1 X7 M DO 0.5m² VD 0.2mm² L2 2mo 0.5mm² 5v+ +5V 日 GND 1 GND DIaS B/DIO9 SIG S1 0.2mm² 17 B 3 B B/DI010 G ND SIG DiaS M1 21m 0.2mm²   
+J15 J1 0 Signalitefae Motorpower GD ND DIaS 日 C/DI03 SIG 0.5mm² 0.2mm² 0.12mm 0.5mm² 106 M 804 20P 12P 0.2mm² 日 Signal interface Motor power B/DIO0 G+ GND SIG DNId 0.5mm² 0.2mm² M日 E GND 5v+ +5v 1 GND DNId 0.2mm² B/DI01 SIG 品 PCB 2 0.2mm² 0.5mm² GS ND prreerr M 01 0.2mm² SIG 0.2mm² HH $^ +$ W Gyroscope 0.2mm² G ND prrerur 0.5mm² B/AI1 SIG 0.2mm²
+
+![](images/3305c0b448e465ace5a7e322e6bae4356303a372b48595dc5961f351063689ff.jpg)  
+图6电机驱动电路图
+
+![](images/33de7668796fe2070e4f05ca008c00dfb95279662fa6576548f296cc29eba8f7.jpg)  
+Fig.6Motor driver circuit diagram
+
+![](images/497c0167092a9525b7af481b687bf1b6fa07c890f9c99dd5bcf12bb42268c467.jpg)  
+Fig.7Motor current path diagram   
+图8数据采集流程图
+
+行速度，即通过数据采集与定位计算得到平台的位姿、坐标和速度。运动导航根据当前坐标和目标坐标，得到补偿距离和速度，经过速度环和位置环控制，采用PID算法，实现平台 $X$ 轴、 $Y$ 轴直线运动。平台采集红外和超声传感器数据信息，并定期对平台 $X$ 轴、Y轴两个方向进行位置校准，红外和超声传感器数据采集流程图如图8所示，位姿校准示意图如图9所示，流程图如图10所示。
+
+# 4 实验结果
+
+取 $1 0 0 \mathrm { m m }$ ， $2 0 0 \mathrm { m m }$ ， $3 0 0 \mathrm { m m }$ 三个实际距离，标记为距离1、距离2、距离3，全向移动平台采用“Analoginput”VI读取红外传感器数据，得到三个测量数据，与对应实际距离进行对比，如图11a所示，测量数据偏差范围为 $1 2 . 3 6 \sim 1 5 . 2 1 \mathrm { m m }$ ，波动为 $2 . 8 5 \mathrm { m m }$ ；对测量数据进行均值滤波后，与对应实际距离进行对比，如图11b所示，测量数据偏差范围为 $9 . 2 3 \sim 1 0 . 5 4 \mathrm { { m m } }$ ，波动为 $1 . 3 1 \mathrm { m m }$ 。可见，均值滤波后，偏差基本恒定，数据波动减小。在平台位置校准中进行偏差修正，测量误差为 $\pm 0 . 6 6 \mathrm { m m }$ 。myRIO-1900型控制器的IO口数据由FPGA采集，依然取 $1 0 0 \mathrm { m m }$ 、 $2 0 0 \mathrm { m m }$ 、 $3 0 0 \mathrm { m m }$ 三个实际距离，标记为距离1、距离2、距离3，LabVIEW实时模块（LabVIEWReal-Time，RT）查询访问FPGA时，测量值与实际值对比如图12a所示，测量数据偏差范围为 $2 1 . 3 5 \sim 2 4 . 2 8 \mathrm { m m }$ ，波动为 $2 . 9 3 \mathrm { m m }$ ；FPGA直接读取IO口数据时，测量值与实际值对比如图12b所示，测量数据偏差范围为 $6 . 3 4 \sim 8 . 2 6 \mathrm { { m m } }$ ，波动为 $1 . 9 2 \mathrm { m m }$ 。可见，FPGA直接读取IO口数据时，测量数值与实际值的偏差明显减小，数据波动减小，进行偏差修正和均值滤波后，测量误差为 $\pm 0 . 9 6 \mathrm { m m }$ 。RT查询访问FPGA时，测量值波动大，且与实际值偏差大的原因是超声波传感器的触发与读取时间长，引起数字信号的丢失和延迟。将基于上述算法的红外传感器与超声波传感器应用于全向移动平台，让平台进行多次向前直线运动 $1 0 \mathrm { m }$ ，测试数据显示：平台在前行过程中，运行 $1 0 \mathrm { m }$ 平均累计误差为 $\pm 5 0 \mathrm { m m }$ ，在移动平台目标管理任务中，该误差尚可以接受。为了移动平台执行目标管理任务时更精准，让全向移动平台沿着如图13所示的路径前行，并在 $A$ 、 $B$ 、C、D、$E$ 五点进行移动平台姿态校准与误差清零，将移动平台位姿误差与实际行进距离关系绘成曲线，如图14所示。观察移动平台位姿误差值与实际行进距离之间的关系曲线，发现曲线分为四段，每段曲线随着移动平台前行，位置误差不断积累；第三段曲线累计误差最大，达到 $2 2 \mathrm { m m }$ ，为平台最大误差；在
+
+![](images/e86b08f2dbbd0b22eb2eeb1b6288bfeb3e204ddb99b36686cb0dcc5e84bf6acd.jpg)  
+图7电机电流路径图  
+Fig.8Data collection flow chart   
+图9位姿校准示意图  
+Fig.9Position and posture calibration
+
+![](images/ac62580f1b283eddd5d66be79d49697767c8666641369a523e42749faa7937c4.jpg)  
+图10位姿校准流程图  
+Fig.10Position and posture calibration flow chart
+
+![](images/f6eef9f9b88aa42e5fb22f715b57aca8ca4370d07a0b8ed42c60da33066a6e47.jpg)  
+图11红外传感器测量值与实际值对比 Fig.11Comparison of measured and actual values of infrared sensors
+
+![](images/1f2f5526d07dca4340d62127c7a686c36f2cb202a40e32db2bfee5d909f5701e.jpg)  
+图12超声波传感器测量值与实际值对比 Fig.12Comparison of measured and actual values of ultrasonic sensor   
+图13 测试路径规划图  
+Fig.13Diagram of test path planning
+
+$A$ $E$ B D
+
+A、 $B$ 、 $C$ ， $D$ 点移动平台进行误差清零；标红的部分误差有阶跃现象，是因为移动平台转弯，轮子与地面发生打滑所致。
+
+# 5 结束语
+
+本文提出一种改进型里程计定位方法，在利用编码器、陀螺仪的传统里程计定位的基础上，引入红外传感器和超声波传感器，通过均值滤波与修正，精确测量平台直角坐标与位姿，周期性清除累计误差，达到消除累计误差的目的。2017年10月，将上述方法制作的移动机器人应用于世界技能大赛移动机器人赛场上，运动控制效果良好，可靠性高[18,19],满足比赛定位需求。
+
+![](images/abb8b87c4f16d939261152d22154afe86ad123ebcde2c17df079b3bb56cb66a9.jpg)  
+图14移动平台位姿误差值与行进路程试验对照图  
+Fig.l4Comparison of mobile platform error and move distance
+
+该方法适于固定场地、周期性循环应用场合，如电力巡检[20]、医疗服务、库房管理等。本文提出的改进型里程计定位方法为低成本机器人定位方法，性价比高，实用性强，在全向移动机器人定位、导航控制方面具有推广价值。
+
+# 参考文献
+
+[1] 徐德，邹伟．室内移动式服务机器人的感知、定
+
+位与控制[M]．北京：科学出版社，2008.  
+[2] 张翮，熊蓉，褚健，等．一种全方位移动机器人的运动分析与控制实现[J].浙江大学学报（工学版），2004，38(12):1650-1652.Zhang He,Xiong Rong,Chu Jian,et al.Motionanalysis and control realization of omni-directionalrobot[J]. Journal of Zhejiang University (EngineeringScience),2004,38(12):1650-1652.  
+[3] 赵伟．移动机器人路径跟踪及运动控制的研究[D].济南：济南大学，2009.  
+[4] Han KL, Choi O K,Kim JW,et al. Design andcontrol ofmobile robot with mecanum wheel[C].Proceedings of IC-CAS-SICE International JointConference,Fukuoka,2009:2932-2937.  
+[5] 王田苗．工业机器人发展思考[J]．机器人技术与应用，2004(2)：1-4.Wang Tianmiao. Thinking on the development ofindustry robot[J].Robot Technique and Application,2004(2): 1-4.  
+[6] 陆振宇．自主导航移动机器人的设计[D]．南昌：南昌大学，2013.  
+[7] 李运奇．四轮全向移动机器人的运动控制[D]．广州：广东工业大学，2014.  
+[8] 刘祖兵．基于视觉跟踪的移动机器人定位研究[D].乌鲁木齐：新疆大学，2017.  
+[9] 肖俊君．多姿态便携式履带机器人设计与分析[D].长沙：国防科技大学，2006.  
+[10] 卢盛才．足球机器人的设计与全向移动平台的控制[D]．长沙：国防科技大学，2009.  
+[11]张增芳，胡迎春，梁毅珩．基于感知-行为模式的地面探索机器人的行为设计[J]．广西科学，2004(2): 109-112.Zhang Zengfang, Hu Yingchun, Liang Yiheng. Studyon a groping robot based on the apperceived-actionpattern[J]. Guangxi Sciences, 2004(2): 109-112.  
+[12]陈骏，周建军．运用曲率参数优化的全向轮滚子廓型设计[J]．现代制造工程，2012(10)：90-94.Chen Jun, Zhou Jianjun. The omnidirectional rollerprofile design using curvature parameter optimization[J]. Modern Manufacturing Engineering,2012 (10):90-94.  
+[13]牟学刚，朱劲，蒋平．三轮全向足球机器人结构设计与系统模型研究[J]．机械与电子，2006(5)：38-41.Mu Xuegang, Zhu Jin, Jiang Ping. Research onstructural design and modeling of a three-wheelomni-directional soccer robot[J]. Machinery &Electronics,2006(5): 38-41.  
+[14]Goldberg S B,Maimone M W, Matthies L. Stereovision and rover navigation software for planetaryexploration[C]. Aerospace Conference Proceedings,IEEE,2003,5:2025-2036.  
+[15]Hooman S,Abdollahi A, Hossein O, et al. Design anddevelopment of acomprehensive omni-directionalsoccer player robot[J]. International Journal ofAdvanced Robotic Systems,2004,1(3):191-200.  
+[16]陈旭东，孔令成，刘尊朋．基于全向轮的机器人移动机构运动分析与控制设计[J]．测控技术，2012,31(1): 48-56.Chen Xudong, Kong Lingchen, Liu Zunpeng. Motionanalysis and control design of moving mechanismof robot based on omni-directional wheel[J].Measurement & Control Technology,2012,31(1):48-56.  
+[17]陆琦，沈林勇，章亚男，等．基于轮毂电机驱动的全方位移动平台[J]．机械设计，2009，26(12)：61-64.Lu Qi, Shen Linyong, Zhang Yanan, et al. Omni-directional mobile platform based on hub motordrive[J]. Journal of Machine Design, 2009,26(12):61-64.  
+[18]闫毅平．基于LLC 谐振半桥变换的通信电源研究[J]．微型机与应用，2014(9)：17-21.Yan Yiping, Research of communication powersupply based on LLC half-bridge resonantconverter[J]. Microcomputer & Its Applications.2014(9): 17-21.  
+[19]Hong Li, Zhong Li,Bo Zhang,et al. The stabilityof a chaotic PWM boost converter[J]. InternationalJournal of Circuit Theory and Application, 2011,39(5): 451-460.  
+[20]杨令晨，周武能，汤文兵，等．超声波测距系统的研究及其硬件设计[J]．仪表技术与传感器,2018(2): 41-47.Yang Lingchen, Zhou Wuneng, Tang Wenbing,et al. Research and hardware design of ultrasonicranging system[J]. Instrument Technique and Sensor,2018(2): 41-47.

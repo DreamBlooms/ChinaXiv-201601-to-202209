@@ -1,0 +1,288 @@
+[
+    {
+        "type": "text",
+        "text": "5-HT与腹泻型肠易激综合征相关性及中医药调控研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10.12114/j.issn.1007-9572.2022.0460 苏海霞1，付兆媛²\\*，高永泽1，尉戎戎1，钟建春1 1甘肃中医药大学，甘肃 兰州，730000 2 甘肃中医药大学附属医院，甘肃兰州，730000 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：5-羟色胺是影响腹泻型肠易激综合征患者胃肠道功能活动的重要脑肠肽。近年来研究发现5-羟色胺的合成、释放、与受体结合及重摄取等信号传导过程中，任一环节发生异常均有可能导致腹泻型肠易激综合征的发生。笔者通过查阅国内外大量文献，发现中医药通过调节5羟色胺治疗腹泻型肠易激综合征疗效显著。因此，笔者从5羟色胺的现代医学认识、5羟色胺与腹泻型肠易激综合征的相关性及中医药干预5羟色胺治疗腹泻型肠易激综合征的研究进展等进行综述，以期探索5-羟色胺在腹泻型肠易激综合征中的潜在治疗价值，同时也为中医药防治腹泻型肠易激综合征提供理论参考及依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：5羟色胺；5羟色胺受体；腹泻型肠易激综合征；中医药",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research progressoncorrelation between 5-HTand diarrhea-type iritable bowel syndrome and regulation of Traditional Chinese medicine ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SU-Haixia1,FU-Zhaoyuan²\\*,GAO-yongze1,YU-rongrong1,ZHONG-Jianchun1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Department of Gansu University of Traditional Chinese Medicine,730000: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.Department of Affiliated Hospital of Gansu University of Traditional Chinese Medicine,730000. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：5hydroxytryptamineisanimportantbrain-gutpeptidethataffectsgastrointestinalfunctioninpatientswithdiaeatypeiritablebowelsyndrome.Inrecentyears,ithasbeenfound thatanyabnormalityinanyof thesignaltransductionproc esessuchassynthesis,release,bindingtoreceptorsandreuptakeof serotoninmayleadtodiarrhoeal iritablebowelsyndro me.Throughreviewingalargenumberofdomesticand foreignliterature,theauthorfoundthatTCMhasasignificant efect onthetreatmentof diarrhea typeiitablebowelsyndromebyregulating 5hydroxytryptamine.Therefore,theauthorreviewe dthemodern medical understandingofserotonin，theinteraction betweenserotoninanddiarhea-type IRRITABLEbowelsynd rome，andtheresearchprogressofTCMinterventionwithserotonininthetreatmentofdiarrea-typeiitablebowel syndrom e,inordertoexplorethepotentialtherapeuticvalueofserotonin indiarrhea-typeiritablebowelsyndrome.Italsoprovidest heoretical reference and basis for TCM prevention and treatment of diarrhea-type irritable bowel syndrome. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords：5hydroxytryptamine；5hydroxytryptaminereceptor;Diarrhealiritablebowelsyndrome;TraditionalChinesemedic ine ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肠易激综合征（irritablebowelsyndrome,IBS）是临床上常见的功能性胃肠病，依照罗马IV标准，可将其分为4种亚型，我国以腹泻型（diarrheapredominant IBS,IBS-D）最为多见[1]。近年来关于 5-羟色胺（5-hydroxytryptamine，5-HT）参与IBS-D的研究逐渐增多，发现5-HT是参与调节胃肠运动和分泌功能的重要神经递质，主要通过影响内脏敏感性、肠道免疫、肠道动力、精神心理等引起肠平滑肌运动紊乱和水代谢紊乱，引起 IBS-D 患者腹痛、腹泻等临床症状的发生和排便习惯的改变2]。中医药干预具有多成分、多靶点、多途径等优势，其治疗 IBS-D疗效确切、副作用小。近年来通过中医药调节 5-HT 治疗 IBS-D是热点研究方向，因此深入研究中医药调节5-HT 治疗IBS-D 的诊疗措施对于临床工作具有重要意义[3]。笔者通过综述中医药调节 5-HT 治疗 IBS-D 的研究进展，以期为中医药对 IBS-D的治疗提供研究思路与科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "15-HT的现代医学认识 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.15-HT的代谢调节 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5-HT 是一种吲哚衍生物，最早在血清中发现。约 $9 5 \\%$ 的 5-HT分布在肠道内，其中 $9 0 \\%$ 是由肠嗜铬细胞（chrofin cels，EC）合成和分泌的，它可以调节肠道神经系统的发育、肠道运动、分泌和炎性反应等4]。色氨酸是合成5-HT的底物，在色氨酸羟化酶（tryptophan hydroxylase，TPH）的催化作用下生成 5-羟色氨酸，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：甘肃省兰州市城关区科技计划项目（2021JSCX0008）；甘肃中医药大学附属医院院内创新基金项目（gzfy-2020-11）；甘肃省中西医结合肿瘤临床医学研究中心开放基金项目（zlzx2021-4)  \n通讯作者：付兆媛\\*，女，医学博士，主要从事中西医结合防治消化系统疾病的研究。  \n作者简介：苏海霞，女，在读研究生，主要从事中西医结合防治消化系统疾病的研究。E-mail:1989975468@qq.com；Tel：18419380792",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "再在5-羟色氨酸脱羧酶作用下生成5-HT，储存于囊泡内[5-6]。当胃肠道受到刺激时，EC释放的5-HT或直接参与脑肠轴上异常化学信号的调节，或与肠黏膜上皮、黏膜下层或肌间神经丛中的 5-HT 受体（5-HT receptors，5-HTR）结合，进一步影响胃肠运动和内脏敏感性[7]。与相应受体结合后，5-HT迅速解离，并被跨膜转运蛋白（transmembrane transporters，SERT）重新摄取到细胞中，终止其对胃肠道的作用，见图1。研究发现：5-HT 的合成、释放、与受体结合及重摄取等信号传导过程中，任一环节发生异常均有可能导致内脏高敏感的产生、肠道免疫的破坏、肠道菌群的紊乱、肠道动力的异常及精神心理的变化[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3c2860826b369fd6c727d59a1ad427e5a4c2426c41d45c9be6bb33985de8a83.jpg",
+        "img_caption": [
+            "图15-HT代谢示意图FIG.1 5-HT metabolism"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "主：5-HIAA：5-羟吲哚乙酸；MAOA：单氨酸氧化酶A；Vesicle：囊泡；vessel:血管；platelat：血小板",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 EC是5-HT合成和分泌的主要细胞",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EC 由富含分泌颗粒的肠上皮基底干细胞分化而来，通过肠腔和循环系统的感应信号合成和分泌5-HT9]。EC 通过肠道脑回路与神经细胞建立直接突触连接，感知胃肠道吸收的食物及相关化学因子，调节胃肠道对营养物质的吸收，参与肠道免疫调节[10]。肠道 EC 表面有多种神经递质受体，当结肠内压力增加时 EC 功能活跃，释放 5-HT等神经递质，这些递质作用于相应的受体，并将信号传输到肠肌间神经丛，以调节胃肠蠕动反射。同时EC 能够激活黏膜下传入神经纤维，通过肠神经系统调节局部的兴奋和抑制[]。TPH是触发5-HT合成的关键酶，可通过其生理活性和表达水平调控5-HT 的合成，进一步参与调节胃肠各种生理活动[12-13]。TPH 分为两种亚型：TPH-1和 TPH-2。TPH-1表达量与调节肠道信号通路的5-HT 含量呈关联性；TPH-2 在某些特定的神经细胞中表达[14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2SERT的功能及其基因多态性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SERT作为5-HT转运蛋白，主要分布于肠黏膜、肌间神经丛和边缘系统的神经元膜，对5-HT具有高选择性亲和力，并在调节其受体持续时间和信号空间分布中发挥重要作用。SERT不是肠道中唯一的5-HT转运体。有机阳离子转运体、多巴胺转运体和其他选择性转运体平行于 SERT在肠道内分布和表达[15-17]。当 5-HT作用于胃肠黏膜后，SERT利用 $\\mathrm { \\Delta N a ^ { + } { - } K ^ { + } } .$ -ATP酶产生的 $\\mathrm { { N a ^ { + } } }$ 浓度梯度差从突触间隙重新摄取5-HT到突触前神经元，通过 SERT转运到周围的肠细胞，被单胺氧化酶降解为5-羟基吲哚乙醛，进一步转化为5-羟基吲哚乙酸，随尿液排泄[18-20]。同时 SERT 是影响局部 5-HT浓度及其生物活性的重要物质。选择性 5-HT 再摄取抑制剂可增加突触间隙中的 5-HT浓度，因此 SERT 可能在内脏超敏反应的发生中起重要作用[21]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SERT基因具有两个多态性位点，一个是启动子区的44bp核苷酸序列的插入/缺失，形成长型（L）和短型（S）两种等位基因片段，构成L/L、L/S、S/S 三种等位基因类型。另一个多态位点是 SERT基因内含子2的17bp 重复序列。SERT基因多态性的 SS 基因型和 S等位基因频率与 IBS-D 的发病显著相关，但与临床症状无明显相关性[22-23]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 5-HT受体",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5-HT通过与不同受体相互作用，调节胃肠道的感觉及运动功能。5-HTR超家族主要有7种：5-HT1-7R，在肠道炎症条件下，5-HT通过与不同的受体结合，对肠道产生抗炎和促炎作用。其中 5-HT1-4R和 5-HT7R在胃肠道表达，以5-HT3R和5-HT4R参与胃肠道的研究最为广泛[24]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5-HT3R是一个五聚体复合体，也是众多5-HTR中唯一的配体门控离子通道型受体。据报道 5-HT3R 共有5种亚型：5-HT3A-ER[25]。激活5-HT3R可产生一系列效应：增加细胞内 $\\mathrm { C a ^ { 2 + } }$ 浓度、调节中枢和外周神经元的兴奋性、促进神经递质的释放、增加乙酰胆碱（acetylcholine，ACh）的释放、引起内脏敏感和腹部不适等一系列胃肠道异常[26]。动物实验已证明5-HT3R括抗剂能抑制非选择性阳离子通道的激活，并在体外以剂量依赖性的方式阻断 5-HT3R介导的肠黏膜下神经元的去极化等效应，增加肠道顺应性，提高痛阈水平，增加小肠对水和电解质的吸收，有效缓解腹胀和腹痛等胃肠道症状[27-28]。5-HT4R 是一种G 蛋白偶联亲代谢性受体，通过开放电压敏感性钙通道激活，激发在胃肠道运动和感觉方面发挥作用的其他神经递质释放，影响胃肠道动力及内脏感觉。5-HT4R在不同组织中存在表达及效应差异：位于结肠上皮5-HT4R在维持黏膜完整性方面发挥着重要作用[29]；在肌层中发挥有益的神经源性作用，可促进神经元生长和存活[30]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "25-HT与IBS-D发病的相关性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.15-HT调控内脏敏感性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "内脏高敏感性是IBS-D的病理生理基础。5-HT影响内脏敏感性基于其调节胃肠分泌和蠕动的作用，其作用机制可能与干预5-HT与受体结合有关。初级传入神经元上的5-HTR可激活腺苷酸环化酶，使肠道平滑肌紧张收缩和舒张，内脏传入神经元连接脊髓背角神经元突触，激活多种神经活性物质，降低对疼痛的耐受度[31]。当胃肠道受刺激时，EC 释放5-HT，肠道5-HT阳性神经纤维或神经元的表达增强，导致内脏传入神经和肠神经系统的多种神经活性物质被激活，引起内脏敏感性增强，出现胃肠道不适[32]。SERT表达异常时，导致重摄取5-HT降低，造成内脏感觉异常，出现腹痛、腹泻等胃肠道功能异常症状，因此大多数 SERT基因敲除的大鼠会交替出现腹泻和便秘[3-34]。在中枢，P物质（substancep，SP）作为兴奋性递质，参与疼痛信息传递并且产生疼痛、诱导释放5-HT，引起内脏高敏感性[35]。另外，丁酸是肠道菌群代谢产物的一种，通过增加肠道内 5-HT水平及促进神经生长因子的表达，激活 5-HT3R，诱导IBS-D 患者的内脏高敏感性而出现大便性状的改变[36-38]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.25-HT影响肠道免疫",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5-HT在IBS-D 患者肠道免疫调中发挥着重要作用。树突状细胞、B细胞可以迅速摄取并储存微环境中存在的5-HT；5-HT也能显著促进NK细胞的杀伤作用，但具体机制尚不清楚[39]。B、T、树突状细胞、巨噬细胞上存在许多5-HTR。当胃肠道受刺激时，肠道黏膜屏障受损，影响免疫细胞的功能，刺激分泌肿瘤坏死因子（Tumor necrosis factor,TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a } _ { } $ ）、白介素-6（Interleukin-6，IL-6）、IL-9 等炎性因子，大量炎性因子浸润损害肠黏膜，引起腹痛、腹泻等胃肠症状[40]。既往研究表明，Th1或 Th2介导炎症细胞因子如 TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ 和IL-10的水平在Th1/Th2平衡和 $\\mathrm { C D _ { 4 } ^ { + } T }$ 细胞扩增中起重要作用，5-HT通过结合5-HT4R和5-HT7R，影响树突状细胞中细胞因子的分泌并增加 Th2 细胞的生成，促进树突状细胞作出适应性免疫反应[41]。一些学者发现，EC 细胞增生被认为与 $\\mathrm { C D _ { 4 } ^ { + } T }$ 淋巴细胞密切相关，尤其是Th1/Th2平衡。EC 可以通过调节胃肠运动和分泌活动，影响巨噬细胞的极化和吞噬功能，从而改善免疫功能[42]，进一步发现EC细胞可以感应到IL-33 等炎症细胞的表达，IL-33 通过特异性在EC细胞中的非典型信号通路触发钙内流，从而诱导 5-HT 的释放[43]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 5-HT调控胃肠动力",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IBS-D胃肠动力调节机制复杂，5-HT是肠道中广泛存在的关键动力调控分子。大量研究表明促肾上腺皮质激素释放因子和5-HT通路在调节结肠运动过程中存在相互作用[44]。束缚应激或中枢注射促肾上腺皮质激素释放因子可刺激胆碱能神经，调节结肠壁张力，并促进EC释放5-HT，释放的5-HT刺激内在初级传入神经元，使其在肌间神经丛中与上下行中间神经元形成突触，从而调节局部的兴奋与抑制，调节胃肠动力[45];5-HT也可以直接作用于肠神经元及肌细胞等效应器发挥作用，能通过增加神经效应接头处胆碱类递质 ACh的释放刺激结肠收缩[46]。当SERT受到抑制或敲除时，5-HT再摄取与失活受到抑制，肠道蠕动反射活动初期增强；随着5-HT受体敏感性逐渐降低，肠道动力受到抑制。因此 SERT的表达与转录异常可能是IBS-D 患者肠道运动、分泌功能和感觉异常的原因之一[47]。胃肠道感觉和运动关系最为密切的受体是5-HT3R，5-HT3R 可同时调节兴奋性和抑制性神经传导物质的传递。5-HT与5-HT3R 结合，可增加细胞内 $\\mathrm { C a } ^ { 2 + }$ 浓度并刺激中枢和外周神经元的兴奋性，促进神经递质的释放，引起ACh增多[48]。另外 SP为胃肠道和运动神经元兴奋递质，其含量在胃肠道和中枢神经系统中最多，是连接中枢神经系统和消化系统的重要传导分子，可以刺激平滑肌兴奋，促进胃肠道蠕动，促进腺体和肠道水分泌[49]。因此5-HT和SP都具有促进胃肠运动，促进液体分泌作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.45-HT调节精神心理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着对疾病的认识，精神、心理因素在IBS-D 中的作用越来越受到人们的重视。循证医学证据显示 $5 0 \\%$ （204 $- 9 0 \\% \\mathrm { I B S - D }$ 患者多伴随一系列精神心理问题，包括焦虑、抑郁、精神状态躯体化等[50]。5-HT广泛存在于大脑及肠道，与精神类疾患密切相关，参与脑肠功能异常的调节。作用于大脑边缘系统的5-HT3R，可使 IBS-D患者产生焦虑及抑郁。一项同卵双生研究结果提示在5-HT3AR及5-HT3BR的染色体部分存在着感受态基因，这些基因可以引起抑郁及精神分裂[51]。5-HT3R拮抗剂可使大脑负责情感运动的区域血流减少，缓解症状[52]。TPH-1作为一些精神系统疾病如焦虑、抑郁、自杀的候补基因受到较多关注[53]。SERT表达水平与 IBS-D 患者的心理密切相关，SERT蛋白表达越低，越容易患焦虑和抑郁[54-55]。可能存在共同的因素导致中枢神经系统和肠肌神经丛内的发挥脑肠调节的5-HT数量减少、有效浓度下降，使IBS-D患者同时出现精神症状和肠道腹泻症状[56]。临床上常应用选择性 5-HT再摄取抑制剂治疗存在精神心理障碍的IBS-D 患者。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3中医药调控5-HT治疗IBS-D ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中医药通过作用于5-HT 影响脑肠表达，改善IBS-D 患者内脏敏感性、肠道免疫、肠道分泌及肠道动力治疗 IBS-D，具有多成分、多效应、多靶点的干预优势，疗效确切，毒副作用少，成为目前治疗的新靶点。现将中医药干预5-HT治疗 IBS-D 的动物实验研究及临床研究总结如下，见表1、表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/361ad7ebe260d05a3a292bbda7347684443170790591b4dee7ab164131636149.jpg",
+        "table_caption": [
+            "表1中医药干预5-HT治疗IBS-D动物实验研究",
+            "1 Experimental study of TCM intervention in 5-HT treatment of IBS-D animal "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>干预 方法</td><td>配方/组穴</td><td>研究对象 (IBS-D 模型）</td><td>给药/治 疗途径</td><td>作用机制</td><td>参考 文献</td></tr><tr><td>中药 汤剂</td><td>广藿香配方颗粒： 广藿香 肠康方：白芍、防风、</td><td>SD雄鼠</td><td>灌胃</td><td>降低大鼠结肠5-HT3ARmRNA水平，改 善大鼠内脏高敏感性和结肠平滑肌舒缩 状态</td><td>[57]</td></tr><tr><td>中药 汤剂</td><td>熟地黄、菟丝子、黄连、SD孕鼠 金荞麦、蝉蜕 痛泻安脾汤：党参、炒 白术、茯苓、薏苡仁、</td><td></td><td>灌胃</td><td>降低结肠黏膜5-HT水平，调控结肠黏膜 肥大细和脑肠轴中5-HT信号系统，改善 大鼠肠道高敏感状态</td><td>[58]</td></tr><tr><td>中药 汤剂</td><td>陈皮、白扁豆、防风、 白芍、全蝎、乌药、当 归、石菖蒲、炙甘草</td><td>SD大鼠</td><td>灌胃</td><td>降低血清和结肠组织中5-HT、SERT 水 平，引起肠道传入神经元的兴奋性降低， 肠道敏感性降低，缓解腹痛、腹泻等症 状，</td><td>[59]</td></tr><tr><td>中药 汤剂</td><td>温胃调肠颗粒： 柴胡、川芎、白芍、白 术、甘草</td><td>SD雄鼠</td><td>灌胃</td><td>降低血清和下丘脑组织中5-HT、SP含 量，改善胃肠蠕动紊乱和感觉异常，纠 正下丘脑和肠黏膜组织脑肠肽的表达， 调节脑-肠互动平衡来调解降粪便含水 量、稀便次数</td><td>[60]</td></tr><tr><td>中药 汤剂</td><td>肠激宁方：党参、白术、 茯神、柴胡、枳壳、白 芍、陈皮、防风、延胡 索、木香、石榴皮、诃 子、火炭母、远志、甘 草</td><td>SD大鼠</td><td>灌胃</td><td>降低大鼠血清5-HT含量，调解肠道内分 泌及感觉传导，提高肠道敏感性阈值， 进一步调节肠道感觉状态及水的吸收分 泌平衡</td><td>[61]</td></tr><tr><td>中药 汤剂</td><td>加味柴芍六君汤：白芍、 白术、党参、柴胡、枳 实、茯苓、陈皮、防风、 半夏、甘草</td><td>SD雄鼠</td><td>灌胃+ 灌肠</td><td>降低大鼠血清 5-HT、SP 含量，改善肠道 分泌和运动，降低大鼠内脏敏感性</td><td>[62]</td></tr><tr><td>艾灸</td><td>肝俞、脾俞、章门、期 门、足三里</td><td>SD雄鼠</td><td>艾灸</td><td>降低结肠组织5-HT、5-HT3R含量，降 低内脏高敏感性，缓解腹泻症状</td><td>[63]</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/403e78912d6072c9cd860685eb02fe722003f3fd5bdef6f75797f17e86cc633a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>隔药 饼灸</td><td>肝俞、脾俞、足三里、 章门、期门</td><td>SD雄鼠</td><td>隔药饼 灸</td><td>降低结肠组织中5-HT、5-HT3R含量， 改善大鼠内脏敏感性</td><td>[64]</td></tr><tr><td>电针</td><td>足三里、内关、太冲</td><td>Wistar 孕 鼠</td><td>电针</td><td>降低血清中5-HT含量和炎症因子水平， 减少粪便含水量肠道蠕动频率，增强免 疫力</td><td>[65]</td></tr><tr><td>针刀</td><td>两侧的足三里穴选取大 鼠背部 T10-L3 脊髓节 段</td><td>SD雌鼠</td><td>针刀松 解术</td><td>降低大鼠血清与结肠组中5-HT、SP含 量，降低粪便含水量，降低内脏敏感性， 缓解腹痛、腹泻症状</td><td>[66]</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a9b65d1bff2326640cd9f70cba628a9163322d0d5874667897d0892f84c47dbc.jpg",
+        "table_caption": [
+            "表2中医药干预5-HT治疗IBS-D临床研究",
+            "Table 2 Clinical study of TCM intervention in 5-HT treatment of IBS-D "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>干预 方式</td><td>raoie2 Study 配方/组穴</td><td>给药/治 疗途径</td><td>IDS-D 作用机制</td><td>参考 文献</td></tr><tr><td>中药 汤剂</td><td>痛泻药方：白术、防风、陈皮、白 芍、茯苓、苍术、木香、香附、当 归、泽泻、川芎</td><td>口服</td><td>降低患者血清中5-HT及SERT表达，降 低内脏高敏感，抑制平滑肌收缩，调节 患者体内肠道因子变化</td><td>[67]</td></tr><tr><td>中药 汤剂</td><td>安肠汤：柴胡、川芎、枳壳、白术、 陈皮、防风、香附、芍药、炙甘草</td><td>口服</td><td>降低患者血清5-HT水平，引起内脏高敏 感性降低，缓解腹痛、腹泻等症状</td><td>[68]</td></tr><tr><td>中药 汤剂</td><td>益气固肠方：党参、炒白术、柴胡、 山药、茯苓、砂仁、草豆蔻、白扁 豆、厚朴、乌梅、诃子、甘草</td><td>口服</td><td>降低结肠组织5-HT水平和肥大细胞脱颗 粒，调节患者的内脏高敏感性，缓解患 者腹痛、腹泻</td><td>[69]</td></tr><tr><td>中药 汤剂</td><td>四神丸：补骨脂、五味子、肉豆蔻、 吴茱萸、生姜、大枣</td><td>口服</td><td>降低患者血清SP、5-HT3R水平，调节 内脏敏感性，抑制结肠收缩频率和胃肠 道的运动与分泌</td><td>[70]</td></tr><tr><td>隔药 灸</td><td>中皖、关元、天枢（双）、上巨虚 （双） 药饼组成：附子、肉桂、茯苓、木 香、丹参</td><td>隔药灸</td><td>降低患者血清5-HT水平，调节内脏敏感 性，降低肠黏膜EC数量表达及活化</td><td>[71]</td></tr><tr><td>针刺</td><td>太冲、足三里、三阴交、天枢、上 巨虚、百会、印堂</td><td>针刺</td><td>降低患者血清5-HT水平，降低患者内脏 敏感性、改善肠动力紊乱状况，调节脑- 肠互动作用失衡状态而起到治疗作用</td><td>[72]</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c01ea830f375352eb8f770b98e3d77edf99de561d8ebdfb6d9bf2175c75f07c3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>针药</td><td>百会、天枢、大肠俞、关元、期门、 上巨虚、足三里、太冲、大陵、公 孙+白术芍药散加减（炒白术、白芍、 陈皮、防风、甘草)</td><td>针刺十 口服中 药汤剂</td><td>降低5-HT水平，减轻患者肠黏膜的炎症 反应，缓解患者肠动力紊乱</td></tr><tr><td>针药</td><td>百会、印堂、双侧天枢、上巨虚、 足三里、三阴交、太冲+补脾益肠丸 （黄芪、党参、砂仁、当归、白术、 肉桂、醋延胡索、荔枝核、炮姜、 炙甘草、防风、木香、盐补骨脂、 煅赤石脂)</td><td>针刺十 口服中 药汤剂</td><td>降低外周血中5-HT水平，调节外周血中 [74] 神经递质的分泌</td></tr><tr><td>针灸</td><td>四神聪、神阙及双侧天枢、水道、 上巨虚、阴陵泉、太冲、复溜、内 关+神阙穴隔盐灸</td><td>盐灸</td><td>针刺+隔降低患者血清 5-HT 水平，调节内脏敏感 [75] 性，缓解症状</td></tr><tr><td>耳穴</td><td>直肠、大肠、交感、神门、内分泌、 皮质下（消化及神经系统皮质下）、 肝、脾、胃肠沟</td><td>耳穴贴 压</td><td>降低患者血清5-HT含量，抑制肠道平滑 [76] 肌收缩而起到治疗作用</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "中医药调控 5-HT 治疗 IBS-D 的动物实验研究主要通过中药灌胃、灌肠、电针、艾灸、隔药饼灸、针刀松解术等途径调节机体5-HT 水平，改善胃肠蠕动紊乱和感觉异常及内脏高敏感性，纠正下丘脑和肠黏膜组织脑肠肽的表达，调节脑-肠互动平衡来降低粪便含水量、稀便次数，缓解腹痛、腹泻症状。选方用药以健脾和胃疏肝为主、选穴以足三里、脾俞、肝俞、肝俞、章门、期门等脾经、胃经、肝经穴位为主。临床研究主要通过中药口服、针灸、针药联合以及耳穴等途径调节血清 5-HT 和炎症因子水平，降低内脏高敏感，抑制平滑肌收缩，调节患者体内肠道因子变化。选方用药较实验研究有所不同，用药以健脾疏肝、补肾益气为主、选穴除足三里、上巨虚、三阴交等脾胃经穴位外，多配以中皖、关元、天枢等近部取穴和百会、印堂等任、督脉穴位。总体来讲，中医药能够降低 IBS-D大鼠或患者血清及结肠组织中5-HT、SERT含量，进而改善内脏敏感性等，改善腹痛腹泻症状及大便性状。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4小结与展望 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随着社会的不断发展，人们所面临的精神心理压力逐渐上升，压力应激以及各种精神因素与IBS-D的相关性逐渐突显，5-HT作为重要脑肠肽在IBS-D的影响逐渐成为近年来研究的热点。5-HT通过与特异性受体结合调节胃肠活动，同时能够参与如认知、学习、记忆、情绪、睡眠障碍等一系列机体生理病理过程。随着中医药多措施、多成分、多效应、多靶点及通路协调作用的干预优势被逐渐阐释，发现其调节5-HT 治疗IBS-D 可作为本病的治疗新靶点，在IBS-D的防治方面具有广阔的应用前景。中医药能够通过调节与脑-肠轴的正常和病理胃肠功能的影响有关的传入和传出通路，调节5-HT等脑肠肽水平，改善脑-肠互动异常，调节内脏敏感性、改善胃肠蠕动紊乱和感觉异常，有效改善IBS-D症状。目前研究多集中于某一中药方剂或中医治疗技术，鉴于中药及中药复方的有效成分复杂，我们期盼未来随着研究者的不断探索，通过对单味中药有效成分或中药提取物的化学成分进行研究，以探索出更加完善的药物和治疗方案。同时有必要进行大量的随机、双盲、安慰剂对照试验，为临床工作者对于IBS-D的靶向治疗及改善预后提供新的探索方向。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]SperberAD.EpidemiologyandBurdenof Iritable Bowel Syndrome:AnIntermationalPerspective[J].Gastroenterol Clin North Am. 2021,50(3):489-503.   \n[2]LiuYL,Liu JS.Iitablebowel syndromein China:areviewontheepidemiology，diagnosis,and management[J].Chin Med J (Engl). 2021 Jun 1;134(12):1396-1401.   \n[3]Banskota S,Regmi SC,Gautam J,etal.Serotonin disturbscolon epithelial toleranceofcommensalE.colibyincreasin g NOX2-derived superoxide[J].Free Radic Biol Med. 2017,10(6):196-207.   \n[4]LiuN,Sun S,WangP,etal.TheMechanismof Secretionand Metabolismof Gut-Derived5-Hydroxytryptamine[J].Int J Mol Sc1. 2021;22(15):/931.   \n[5]ComaiS,BertazzoA,Brughera M,etal.Tryptophan in healthanddisease[J].AdvClin Chem.2O20,95(1):165-218.   \n[6]Benvenuti E,Pierini A,GoriE,etal.Serumaminoacid profilein51dogs with immunosuppressnt-responsiventeropa thy (IRE):a pilot study on clinical aspects and outcomes[J].BMC Vet Res. 2020,16(1):117.   \n[7]ObaraY,MachidaT,TakanoY,etal.CisplatinincreasesthenumberofenterochromafincelscontainingsubstancePin rat intestine[J]. Naunyn Schmiedebergs Arch Pharmacol. 2018,391(8):847-858.   \n[8]裴丽霞.基于5-HT信号系统探讨电针治疗便秘型肠易激综合征的机制[D].南京中医药大学,2017.   \n[9]Qin HY,Xavier Wong HL,Zang KH,etal.Enterochromaffncell hyperplasiainthegut:Factors，mechanismandtherape utic clues[J].Life Sci. 2019,239(11):116886.   \n[10] Lumsden AL,MartinAM,Sun EW,et al. Sugar Responses of Human Enterochromaffin Cells Dependon Gut Region, Sex,and Body MassJ]. Nutrients. 2019,11(2):234.   \n[11] 朱敏佳,杨泽俊,王菲菲,等.肠嗜铬细胞与胃肠道疾病的研究进展[J].世界华人消化杂志,2019,27(02):117-124.   \n[12]Park S,KimY,Lee J,etal.A SystemsBiologyApproach to Investigatingthe Interactionbetween SerotoninSythesis by Tryptophan Hydroxylase and the Metabolic Homeostasis[J]. Int J Mol Sci. 2021,22(5):2452.   \n[13]MartinAM,YoungRL,LeongL,etal.TheDiverseMetabolicRolesofPeripheral Serotonin[J].Endocrinology.2017,15 8(5):1049-1063.   \n[14]WangF,KnutsonK,AlcainoC,etal.MechanosensitiveionchannelPiezo2isimportantforenterochromafincellrespo nse to mechanical forces[J]. J Physiol. 2017,595(1):79-91.   \n[15] 张晓敏.5-羟色胺相关基因多态性与功能性肠病的关系及功能性肠病患者的心理评价[D].福建医科大学,2006.   \n[16]RokasT,EkmektzoglouK,NivY.Comparativefectivenessof 5-ydroxytrptamine3receptorantagonistsinitable bowel syndrome:a network meta-analysisof randomizedcontroled studies[J].Ann Gastroenterol.2O21,34(4):535-546.   \n[17]TongL,WuLB,LiN,etal.[Moxibustionrelievesabdominalhypersensitivityanddiarheabyregulatingcolonic-hydr oxytryptaminesignaling pathway inrats with diarrheatype iritable bowel syndrome[J].Zhen Ci Yan Jiu.2020,45(7):53 5-540.   \n[18]Saraf MK,Piccolo BD,BowlinAK,etal.Formula dietdriven microbiota shiftstryptophan metabolism fromserotonint O tryptamine in neonatal porcine colon[J]. Microbiome.2017,5(1):77.   \n[19]Walker M,Kuebler L,Goehring CM,etal.Imaging SERT Availability inaRat Modelof L-DOPA-Induced Dyskinesia [J]．Mol Imaging Biol. 2020,22(3):634-642.   \n[20]ReisingerSN,WanekT,LangerO,etal.PETimagingofthe mouse brainrevealsadynamicregulationof SERTdensit y in a chronic stress model[J].Transl Psychiatry. 2019,9(1):80.   \n[21] 于丰彦,黄绍刚,张海燕,等.基于 5-HT信号通路的肝郁脾虚型 IBS-D与UC 内脏敏感性的差异性研究[J].亚太传统医药,2016, 12(21):15-20.   \n[22] ChouYH,ChenCK,WangSJ,etal.Asociationofbrainserotonintransporteravailabilityandbrain-derivedneurotrophi cfactorinmodelsof serotonin transportergenotypes in healthysubjects.JClin Psychopharmacol.2O13,3(3):432-435.   \n[23]吴晓亮,孙建华,刘兰英,等.基因多态性技术在肠易激综合征个体化针刺治疗中的可行性分析[J].针刺研究,2014,39(3):252-25 5.   \n[24]WangYQ,LinWW,WuN,etal.Structural insightinto theserotonin (5-HT）receptor familybymoleculardocking，m olecular dynamics simulationand systems pharmacology analysis[J].Acta Pharmacol Sin.2019,40(9):1138-1156.   \n[25]Gunn D,Garsed K,Lam C,etal.Abnormaitiesof mucosal serotonin metabolism and 5-HT3receptorsubunit 3C polym orphism in iritable bowel syndrome with diarrhoea predictresponsivenesstoondansetron[J].Aliment Pharmacol Ther.2 019,50(5):538-546.   \n[26]李芳,王海苹,狄建英,等.舒郁胶囊在大鼠脑内的化学成分鉴定及对 5-HT_3R 通道功能的影响[J].中医药导报,2021,27(1):35- 40.   \n[27] ZhaoDQ,XueH,SunHJ.Nervousmechanismsofrestraint water-immersionstress-iducedgastricmucosallesion[J].W orld J Gastroenterol. 2020,26(20):2533-2549.   \n[28]Spohn SN,BiancoF,ScottRB,etal.ProtectiveActionsofEpithelial5-Hydroxytryptamine4ReceptorsinNoraland ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Inflamed Colon[J]. Gastroenterology. 2016,151(5):933-944. [29]王殷姝,王恩康,孟杨杨,等.5-羟色胺及其受体与肠易激综合征肠道动力异常的关系研究进展[J].世界华人消化杂志,2019,27(1 5):954-960. [30] 刘子昱,慕春龙,朱伟云.肠道微生物与血清素互作研究进展[J].微生物学报,2021(11),1-12. [31] 吴澎泞,熊帅,蒋晓涵,张怡,梁超,陈敏.基于5-羟色胺治疗肠易激综合征的中西医研究进展[J].中国全科医学,2022,25(15):1800- 1806. [32]YuFY,HuangSG,Zhang HY,etal.Comparisonof5-hydroxytryptophansignalingpathwaycharacteristicsindiarea-pr edominant iritable bowel syndrome and ulcerative colitis[J].World J Gastroenterol. 2016,22(12):3451-9. [33]MaJ,Li J，QianM,etal.Thecomprehensivepathophysiological changesinanovelratmodelof postinflammatoryvis ceral hypersensitivity[J]. FASEB J. 2019,33(12):13560-13571. [34]GothertM,Bonisch H,MalinowskaB,etal.Serotonindiscoveryandstepwisedisclosureof5-HTreceptorcomplexity ver four decades.Part II. Some contributions of Manfred Gothert[J].Pharmacol Rep.2020,72(2):271-284. [35]TengW,ChenH,GuoF,etalExpressionanddistributionofSPanditsNKlreceptorinthebrain-gutaxisinneonata 1 maternally separated rat model with visceral hypersensitivity[J]. Genet Mol Res. 2016,15(3):112-115 [36]ShaidulovIF,SorokinaDM,SitdikovFG,etal.Shortchainfattacidsandcolonmotilityinamouse modelof iritabl e bowel syndrome[J]. BMC Gastroenterol. 2021,21(1):37. [37]AsanoT,TanakaKI,TadaA,etal.Ameliorativeeffectofchlorpromazine hydrochlorideonvisceralhypersensitivityin rats:possible involvement of 5-HT2A receptor[J]. Br J Pharmacol. 2017,174(19):3370-3381. [38]Long X,iM,LiLX,etal.ButyratepromotesvisceralhpersensitivityinanBS-likemodelviaentericglialel-eriv ed nerve growth factor[J].Neurogastroenterol Motil.2018,30(4):e13227. [39] Li CX, Zheng Y, Zhu H, et al. $\\beta$ -arrestin 2 is essential for fluoxetine-mediated promotion of hippocampal neurogenesis i n a mouse model of depression[J]. Acta Pharmacol Sin. 2021,42(5):679-690. [40]Yang Y,Zhu X,QinY,etalTheAnti-InflammatoryEfectofGuchangzhixie-PillbyReducingColonicECCellHyperp lasiaandSerotoninAvailabilityinan UlcerativeColitisRatModel[J].Evid Based ComplementAlternat Med.2017,20(1 7):8547257. [41]Irving H,TurekI,KetteC,etalTainginto5-HT3ReceptorstoModifyMetabolicandImmuneResponses[J]IntJ Mol Sci. 2021,22(21):11910. [42]ObaraY,Machida T,TakanoY,etal.Cisplatinincreasesthenumberofenterochromaffincelscontainingsubstance $\\mathrm { ~ \\bf ~ P ~ }$ in rat intestine[J]. Naunyn Schmiedebergs Arch Pharmacol. 2018,391(8):847-858. [43]ChenZLuoJ,LiJtalIterleukin-33PromotesSerotoninReleasefromEnterochromafinCelsforIntestinalHome stasis[J]. Immunity. 2021,54(1):151-163. [4]GwynneRM,BorsteinJC.Luminal5-HT4receptors-Asuccessultargetforprokineticactions[J].NeurogastroenterolMo til. 2019,31(10):e13708. [45] 俞媛洁,陈继红.5-羟色胺与胃肠动力障碍的关系[J].医学综述,2016,22(04):636-639. [46]Goodlich BI, HoranSA,Kavanagh J.Blockadeof5-HT2receptorssupresesrateof torquedevelopmentandmotoru nit discharge rate during rapid contractions[J]. J Neurophysiol. 2022,127(1):150-160. [47] Patel BA, Fidalgo S,Wang C,et al. The TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a } _ { } $ antagonist etanercept reverses age-related decreases in colonic SERT ex pression and faecal output in mice[J]. Sci Rep.2017,7:42754. [48] Gonzalez-PonsR,McRae K,Thompson JM,etal.5-HT7ReceptorRestrains5-HT-induced5-HT2A MediatedContractio n in the Isolated Abdominal Vena Cava[J].J Cardiovasc Pharmacol. 2O21,78(2):319-327. [49]El-SalhyM,GiljaOH.Abnormalitiesinileal stem，neurogenin3,andenteroendocrinecelsinpatientswithiitablebo wel syndrome[J]. BMC Gastroenterol. 2017,17(1):90. [50] 由欣鹏.基于胃肠动力学研究腹泻型肠易激综合征与焦虑抑郁状态的相关性及中药复方疗效评价[D].山东中医药大学,2019. [51] 吴鹏强,陈梅,韩丽英.血清5-羟色胺及其受体基因T102C多态性与非抑郁症患者服毒自杀行为的相关研究[J].华西医学,2015, 30(08):1411-1414. [52] 刘鹏鸿.伴胃肠道症状抑郁症的生物学特征研究[Dl.山西医科大学.2020. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[53]袁付丽.基于代谢组学和网络药理学的栀子抗焦虑作用机制研究[D].北京中医药大学,2021.DOI:10.26973/d.cnki.gbjzu.2021.000806.  \n[54] 于惠玲,5-羟色胺转运体与肠易激综合征患者焦虑抑郁的相关性分析.河北省,河北大学附属医院,2017-07-11.  \n[55]IsraelyanN,DelCollA,LiZ,etal.EfectsofSerotoninandSlow-Release5-HydroxytryptophanonGastrointestinalotility in a Mouse Model of Depression[J]. Gastroenterology. 2019,157(2):507-521.  \n[56]QinGZhangYYaoSK.erotonintransporterandcholecystokininindiarrhea-predominantiritablebowelsdome:Asociations withabdominal pain,visceral hypersensitivityand psychological performance[J].WorldJClin Cases.200,8(9):1632-1641.  \n[57] 周天然,黄晶晶,琚欣,等.广藿香配方颗粒干预 IBS-D 大鼠的药效学研究[J].中药材,2018,41(01):180-183.D  \n[58]任杰,樊欣钰,范志巍,等.肠康方对腹泻型肠易激综合征模型大鼠肥大细胞的影响[J].中医药信息,2020,37(03):35-39.  \n[59] 黄柳向,朱楚月,旷思敏.痛泻安脾汤对腹泻型肠易激综合征大鼠5-羟色胺、5-羟色胺转运蛋白的影响[J].中医学报,2020,35(05):1034-1039.  \n[60]杨梅,李玉先,刘欢.基于脑-肠互动轴探讨温胃调肠颗粒干预腹泻型肠易激综合征的机制分析[J].中药药理与临床,2019,35(06):106-110.  \n[61] 郭红.肠激宁改善肝郁脾虚证腹泻型肠易激综合征患者身心症状及胃肠激素的研究[D].广州中医药大学,2017.  \n[62] 张洋.加味柴芍六君汤不同给药方式对肝郁脾虚型 IBS-D模型大鼠的疗效对比研究[D].西南医科大学,2020.  \n[63]曹佳男,刘霞,刘涛,等.艾灸对腹泻型肠易激综合征大鼠结肠5-HT及5-HT3R的影响[J].湖南中医药大学学报,2021,41(10):1493-1497.  \n[64] 曹佳男.隔药饼灸对腹泻型肠易激综合征大鼠结肠 5-HT、5-HT3R、5-HT4R 表达的影响[D].湖南中医药大学,2019.  \n[65]李丹,李佳,吴松.电针“足三里\"\"内关\"太冲\"穴对腹泻型肠易激综合征大鼠炎性反应相关物质的影响[J].辽宁中医杂志,2021,48(08):238-241.  \n[66] 李方文卉.针刀松解术对 IBS-D 大鼠脑肠肽 NPY、SP、VIP 表达水平的影响[D].湖北中医药大学,2021.  \n[67] 刘畅,刘晓燕,张燕,等.痛泻要方加减治疗腹泻型肠道易激综合征临床研究[J].四川中医,2022,40(01):110-113.  \n[68]蔡林坤,黄适,彭卓崙,等.从内脏敏感性角度探讨安肠汤治疗腹泻型肠易激综合征的临床疗效及其对血清5-羟色胺水平的影响研究[J].中国全科医学,2019,22(36):4488-4492+4498.  \n[69] 刘伟,刘莹莹,高学清,等.益气固肠方治疗腹泻型肠易激综合征的疗效观察及对结肠组织5-HT和肥大细胞脱颗粒情况的影响[J].中国中西医结合消化杂志,2018,26(05):411-415.  \n[70] 何群芳,廖亮英.四神丸对肾阳虚腹泻型肠易激综合征患者血清 VIP、SP、5-HT3R 水平的影响[J].中国中西医结合消化杂志,2017,25(04):261-264.  \n[71] 徐秋莲．隔药灸为主对腹泻型肠易激综合征患者血清 5-HT水平影响的临床观察[D].福建中医药大学,2018.  \n[72]占道伟,孙建华,罗开涛,等.针刺治疗腹泻型肠易激综合征及其对患者血清5-羟色胺的影响[J].中国针灸,2014,34(02):135-138.  \n[73]娄静,王菲,侯留法.针药并用对腹泻型肠易激综合征患者血清5-羟色胺、降钙素基因相关肽以及内皮素的影响[J].上海针灸杂志,2017,36(08):929-934.  \n[74]王慧芹,王振云.针刺疗法联合中药治疗腹泻型肠易激综合征(肝郁脾虚证)患者临床疗效及对外周血 5-HT、NPY、CGRP 的影响[J].中国中医急症,2016,25(09):1802-1804.  \n[75]陈茜,周愉,张孟,等.针刺配合隔盐灸治疗脾虚型腹泻型肠易激综合征疗效观察[J].上海针灸杂志,2021,40(04):400-405..  \n[76]黄应杰,陈加云.耳穴贴压对腹泻型肠易激综合征患者疗效及血清 5-羟色胺的影响[J].上海针灸杂志,2013,32(11):916-918.",
+        "page_idx": 8
+    }
+]

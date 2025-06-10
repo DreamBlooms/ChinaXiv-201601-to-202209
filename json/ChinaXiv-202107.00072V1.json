@@ -1,0 +1,421 @@
+[
+    {
+        "type": "text",
+        "text": "从征求到反应：建言行为链中的管理者角色",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "施李晓云 朱悦 段锦云",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（华东师范大学心理与认知科学学院，上海市心理健康与危机干预重点实验室，上海",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "200062) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要在建言行为发生链中，管理者扮演着征求者和反应者的不同角色。在管理实践中，管理者却罕于从员工处征求建言，或未能对员工建言做出有效反应。在学术界，目前有关管理者征求建言、纳谏和建言/建言者评估的研究日益丰富，但不成系统。为解决这些实践和理论上的不足,提出并整合建言行为链框架;并基于输入-过程-输出模型，从管理者角色入手，系统分析和归纳管理者征求建言、采纳建言、评估建言（者）的前提和结果，以诠释管理者在员工建言行为链中发挥的作用及其机制，并为管理者更好履行建言管理职能提供实践参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词建言征求，管理者反应，纳谏，建言评估，输入-过程-输出模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "From Solicitation to Responses: Managers’ Roles in Employee Voice Behavior Chain ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHI Lixiaoyun， ZHU Yue，DUAN Jinyun\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Shanghai Key Laboratory of Mental Health and Psychological Crisis Intervention, School of Psychology and Cognitive Science， East China Normal University, Shanghai 200062， China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In a voice behavior chain， managers can be both the initiator and the reactor. However， managers can neither solicit employee voice efficiently nor respond to employee voice effectively in practice all the time. Although there has been an increasing amount of research on managerial solicitation， endorsement and evaluation， those topics are separated and unsystematic. To address the managerial puzzle theoretically and practically， we propose the framework of voice behavior chain. Based on the Input-Process-Output Model，we summarize the antecedents and consequences of voice solicitation， voice endorsement，and voice (voicer） evaluation. We aim to depict the roles managers play in the voice behavior chain， and to provide suggestions for the practice in employee voice management. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keyword: voice solicitation， managerial responses， voice endorsement， voiceevaluation， Input-Process-Output Model",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在当下强调创新和群体智慧的时代，员工参与在组织决策过程中发挥着日益重要的作用，而建言则是员工参与组织决策的一种重要形式，其对员工本身、管理者和组织来说都有着不可忽视的作用(Bashshur&Oc，2015；Detert et al.,2013； Duan et al.， 2021; Frazier & Bowler， 2015; Li et al.， 2017;Morrison，2011)。出于对建言积极作用的认识以及自身的角色需要，管理者会主动向员工征求建言(Fast et al.， 2014)。管理者建言征求(voicesolicitation)被定义为管理者主动向员工征求工作相关的意见和想法的行为(Fast et al.，2014)。管理者建言征求频次越多，就越能够向员工传达建言角色期望，从而能够更大程度地激发员工建言(Carnevale etal.，2020)。同时，管理者通常也是建言信息的接收者、组织重大决策的制定者，只有当管理者认可、支持、推广并执行员工的建言时，建言的积极作用才能落到实处（韩翼等人，2020)。并且，管理者有权决定员工的工作分配、绩效评估、薪酬核算以及晋升提拔等(Morrison，2011)，而这些往往构成了员工建言时的顾虑，因而对于建言的前提、结果研究很少能够绕开管理者端的变量。但学界目前对于上述管理者行为角色的研究与总结还不成系统。因此，本文提出“建言行为链”的概念，并将这一行为链定义为一个由管理者征求建言、员工实施建言、管理者评估与纳谏等行为组成的有机整体，以串联组织情境中“管理者主动征求意见-员工建言-管理者评估与纳谏”这一完整的组织反馈与微变革机制，从而为如何促进员工建言、如何将建言对组织的积极意义放大、以及管理者如何有效做出反应等提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "“输入-过程-输出模型(Input-Process-Output Model，简称IPO)”是组织管理研究中的常用模型，它将个人、团队、组织三个水平的变量及作用过程划分为“输入”、“过程”、“输出”三个阶段(Tannenbaumetal.，1992)。“输入”阶段的要素包括个人层面(例如，动机)、团队层面(例如，目标一致性)、组织层面(例如，组织氛围)的变量。“过程”阶段则涵盖团队沟通、合作、问题解决等方面。而本文提出的建言行为发生链由管理者征求建言、员工建言、管理者评估与纳谏等组成，这三个环节互相影响、协同演化，共同描绘了一个上下级沟通互动过程。相应地，在建言行为链各个环节发生后，又会产生个人（组织支持）、团队（绩效）、组织层面（创新氛围）的“输出”结果。因此，本文旨在以IPO 模型梳理建言行为链的背景、过程和后效的作用框架，对过往分散的研究做系统总结，以打通各个建言子领域中不同水平、不同主题的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于IP0模型，管理者在一个建言过程（如图1所示的“过程”部分）的不同阶段中承担着不同的行为角色：首先，管理者通过建言征求激发员工建言（第一“环\")；而在建言发生（第二“环\"）之后，管理者评估建言事件和建言员工，并决定是否采纳员工建言（第三“环\")。但必须承认的是，首先，建言行为链不一定有“始”有“终”。一方面，管理者在很多情况下并不愿意向员工征求意见(Sherf et al.，2019)，同时，建言在很多情况下是员工自发的(Liu et al.,2010)，不以管理者征求为前提，因而建言征求和员工建言之间尚不构成充要条件。另一方面，在员工建言后，这些建议与方案也不一定能得到管理者的回应和反馈。再者，行为链内的先后顺序会在某一些情境下有所变动（如下图中虚线箭头所示)，例如，组织内建言氛围可能会激发管理者的建言征求行为（即员工建言促进建言征求)；而管理者是否纳谏也会影响员工后续建言的积极性(King etal.，2019)。但尽管如此，本文从建言行为链的视角切入，旨在对这一完整的组织反馈与微变革机制进行系统的文献整理和回顾，从管理者的行为角色入手，以解释管理者在员工建言中发挥作用的具体机制，并为管理者如何有效征求意见、对建言做出合适反应提供理论上的指导。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/241ac381e515f01c046a803b8db5bc4d9e527487200b831534593098066a0b38.jpg",
+        "img_caption": [
+            "图1．基于IPO模型的建言行为链前提、过程、后效图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2“过程”：建言行为链 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1第一“环\"：管理者征求建言",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在建言行为链的起始阶段，管理者会主动向员工征求不同的意见。管理者建言征求反映了管理者希望员工参与变革导向行为的意愿(Carnevaleetal.,2020)，是管理者促进员工建言的一种关键策略，表现为管理者鼓励员工的建议，并向员工表达他们对“异议”的开放与包容(Fast etal.，2014；Sherf et al.,2019)。类似地,Tangirala 和 Ramanujam(2012)提出了“管理者征询\"(managerialconsultation)的概念，并将其定义为管理者从员工处征求、倾听工作相关的建议，通过增加员工的影响力感知而激励员工建言的一种行为。许多研究都默认“管理者征询”和建言征求乃相同概念的不同表述(例如，Carnevaleetal.，2020;Liu& Dong，2020；Sherf et al.，2019)，因此，本文也不刻意做区分，并统一表述为“建言征求”。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "早在2012年,Tangirala和Ramanu jam通过简版的管理实践调查(ManagerialPractice Survey；Kim&Yukl，1998)对建言征求进行了测量。而目前，有关建言征求的测量方式主要是Fast等人(2014)开发的4项量表，该量表从员工角度评价管理者建言征求。在编订这一量表时，研究者将建言征求与管理者开放性（下属对于管理者对他们看法的倾听意愿、兴趣和给予公平考虑的感知；Detert&Burris，2007)、领导成员交换(领导和下属之间交往关系的质量；Scandura&Graen，1984)、辱虐管理(上司对员工充满敌意的言语/非言语行为；Tepper,2000)、主动型人格（一种使个体相对不受情境限制而发挥影响改变环境的稳定特质；Seibertetal.，1999)等概念做了区分。但总体来说，学界对于建言征求的测量方式还比较单一，未来研究者可以根据管理者建言征求的分类(周浩，盛欣怡，2019)开发出更具有情境特异性的量表。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2第二“环\"：员工建言",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因本文重点在于对行为链中的管理者角色进行探讨，故不在本节赘述员工建言行为的研究进展（后文同)，而着重强调员工作为行为发起人（即建言）与管理者作为发起人（即建言征求）在目的、对象和动机上的差异。员工建言行为是员工对提高组织或工作单元机能的观点、建议和意见的自主表达(Morrison etal.，2011)，具有自发性、挑战性和风险性特征(Liu et al.，2010)。以往有不少学者视建言为员工为了改变现状，自下而上地向组织中的权威提出想法的主动行为(例如，Detert& Burris，2007)，而后也有学者补充到除了向上级建言以外，员工还可能向同事建言，即平行建言(Liuet al.，2010)。建言的动机因人、因情境而异，但主要包括印象管理动机(Choi etal.，2015；Fuller et al.,2007；Zhouet al.，2017)、自我服务动机(例如，Duan et al.，2021)和亲管理者/组织动机(例如，Barry& Wilkinson，2016；Burris et al.，2013)等。员工建言的直接结果有三种：管理者纳谏、拒谏和忽略建言；由于建言常被认为是一种角色外的员工主动行为，因而其间接结果还包括管理者对建言员工绩效、能力的评估(Burris，2012；Duan et al.，2021；Whiting et al.，2012)，甚至可能在管理者行为等因素的影响下导致员工的离职(McClean et al.， 2013)等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于目前学界对于管理者建言征求的研究还比较初步，员工建言方面的一些成果也许能够为建言征求的研究给予方向上的启发。管理者建言征求则是管理者为了搜集来自员工的信息，自上而下地向员工征求意见和建议的行为。目前有关建言征求动机的研究尚未成熟，而参考建言相关的文献，管理者征求建言的动机也可以根据获益对象划分为亲组织动机、亲团队/工作单元动机、以及利己动机。亲组织动机和亲团队/工作单元动机都可以视为利他动机，但由于管理者在组织和工作团队中扮演着不同的角色，这里将两者分而论之。具体而言，管理者除了要跟随企业的战略目标提升组织绩效以外，有时候还需要考虑所处团队的利益。并且，员工建言的内容范围可大可小，可以指向团队中的问题和现状，也可以指向公司的整体运营(Burris et al.，2017)。因此，管理者在建言征求时很有可能会有不同的侧重。管理者建言征求的利己动机主要表现为印象管理动机，即管理者通过征求下属的想法和观点，给下属留下亲和、从善如流的管理形象，和下属建立良好的交换关系来达成自身目的。鉴于管理者可以从员工建言中获得丰富的信息，掌握目标取向的管理者对员工建言的接受度更高(Sijbom& Parker,2020)，因此掌握动机可能是管理者建言征求的重要前提。另外，强化控制感和权威也有可能是管理者建言征求的一种利己驱动因素(Fast etal.，2014;Sherf et al.，2019；周浩，盛欣怡，2019)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ece6a4adc51176e041927e185e9b2c2f01c0e7d75d7e5caa1564c2aab57ca574.jpg",
+        "table_caption": [
+            "表1．员工建言和管理者建言征求的差异"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>建言</td><td>建言征求</td></tr><tr><td>发起人</td><td>员工</td><td>管理者</td></tr><tr><td rowspan=\"3\">目的、动机</td><td>亲组织/团队/管理者动机</td><td>亲组织/团队动机</td></tr><tr><td>“外溢”的绩效评估、权</td><td>绩效评估、权力、</td></tr><tr><td>力、地位 印象管理动机</td><td>地位 印象管理动机</td></tr><tr><td colspan=\"2\">对象 行为链中的地位</td><td>掌握动机、控制感 通常为下属员工</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3第三“环\"：纳谏/拒谏与建言评估",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "管理者对于员工建言有两种反应，一种为决定是否纳谏，另一种则为对建言员工和建言行为的评估(Burris，2012)。管理者作为员工建言的对象，有权决定是否采纳员工建议。Burris(2012)指出，管理者对员工建言分配额外的注意和资源并实施建言内容，或者向更高层的管理者推广员工提出的建议与方案的过程，被统称为管理者纳谏(managerial endorsement）。周浩和盛欣怡(2019)在比较建言征求和管理者纳谏行为时指出，建言征求一般发生在员工建言之前，是管理者的一种主动性行为；而管理者纳谏发生在员工建言之后，是管理者对建言反应的一种形式。但除了纳谏/拒谏外，管理者对于员工建言的反应还包含一系列的评估过程，包括管理者对建言的建设性感知，以及对建言员工的能力评估和人际等方面的判断(例如，Burris，2012；Duan et al.，2021；Huanget al.，2018)。首先，在员工建言发生后，管理者会对建言员工进行评估，而不同的建言类型会使管理者对员工产生不同的评价。其次，管理者也会对建言事件本身进行评估，其中不仅涉及到建言的内容(Huang et al.， 2018； Sessions et al.， 2020;Whitingetal.，2012)，还包括建言行为发生的情境因素等(Whitinget al.,2012)。因此，管理者对于员工建言的反应，不仅包括对方案的肯定与否（纳谏/拒谏)，还包含对建言事件、建言员工的积极认可与消极评价。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "纳谏与评估既有联系，又有区别。一方面，两种反应的联系体现在：首先，与建言征求不同，在建言行为链系统中，这两种反应均发生在员工建言之后（周浩，盛欣怡，2020)。其次，评估和建言采纳会相互影响。管理者对员工可信度以及专业度的判断会影响管理者的纳谏行为（Lam et al.，2019；Li et al.,2019)；而当管理者知觉到员工的权力动机较高时，他们会较少支持员工建言(Urbach&Fay，2018)。并且，管理者对于员工的喜爱程度可能会影响其纳谏的意愿。但建言采纳和建言/建言者评估之间并不存在固定的时间先后关系，两者极有可能同时发生，而管理者若能在纳谏/拒谏的过程中，外化自己对于建言员工/建言行为的评估，给予员工反馈，将能够促进员工下一次的建言(Kinget al.,2019)。再者，如图1所示，管理者纳谏/拒谏以及对建言/建言者评估均受到管理者个人状态和与员工关系的影响。其中，管理者情绪状态(Xu et al.，2020)、权力感和动机(Sessions et al.，2020；Urbach& Fay，2018；Whiting et al.,2012)、领导成员交换(Huang et al.，2018；Isaakyan et al.，2020)等发挥了重要作用。另外，二者均会在员工层面和团队层面产生影响，除了能够促进员工建言外(Kingetal.，2019)，还有可能会影响上下级关系和团队氛围等，甚至会泛化到员工、团队在其他方面的行为和绩效表现。最后，尽管本文以建言行为链为单位，但并未限制建言的时间跨度和可迭代性，因此管理者的纳谏决策以及对建言（者）的评估都有可能因情境而变。例如，管理者可能对于建言的初始评估是消极的，拒绝了员工建言，但是在团队的合力下，建言有可能最终被认可和采纳(Satterstorm et al.，2020)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "另一方面，两种反应之间也存在区别：第一，两者在本质上就有明显的差异，而这一差异在量表条目中可见一斑。不管是对建言行为的评估还是对建言员工的评价，这些都是认知过程，而管理者纳谏、拒谏则是外显行为。第二，虽然两者都是具备一定过程和具体结果的行为反应，但评估和纳谏在决策上的侧重点会有不同。对建言行为的评估以及对建言员工的评价侧重于决策的过程，而纳谏、拒谏侧重于决策的结果。第三，建言/建言者评估和纳谏/拒谏对于员工行为、团队氛围的影响机制会有所不同，主要表现为，建言/建言者评估对员工和团队的影响需要通过管理者的一系列行为和举措才能为人所知，因而较管理者纳谏/拒谏的影响而言要更为间接。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3“输入”：建言行为链的发生前提 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1管理者建言征求的影响因素",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "正如员工会谨慎考虑是否建言一样，管理者在决定是否向员工征求建言时也会进行成本-收益分析，因此他们在征求建言前会对个人、团队和组织等方面的因素进行考量，其中还会涉及到长短期利益的取舍等。例如，虽然在短期内，落实员工变革导向的建言会对组织内现有的制度产生破坏，但从长远来看，这些变革举措更有可能会产生积极影响，因此高个人控制感的管理者若持有长期取向，则会增加建言征求行为(Sherfet al.，2019)。另外有研究表明，管理者的工龄、工作满意度、变革行为及自我效能感等个人层面的变量和建言征求正相关(Fast et al.，2014)。Liu 和Dong(2020)则指出，管理者建言征求有赖于他们对于自身和员工目标一致性的评估，当管理者感到自身与员工目标一致时，他们更有可能向员工征求建言。而周浩和盛欣怡(2019)在提出了建言征求基于通道（公开/私密建言征求）和信息类型（笼统/具体建言征求）的分类外，他们还进一步提出了权力距离和变革氛围等团队、组织层面的变量会对管理者建言征求意向产生显著影响的命题。总的来看，目前对于建言征求的影响因素研究还比较少，多数研究都强调管理者个人控制感、自我效能对其建言征求行为的影响(Fast etal.，2014；Sherf etal.，2019；周浩，盛欣怡，2019)。除此以外，未来研究也可以从资源保存视角(Hobfoll，1989)、沟通动机模型(Hart et al.，2021)，以及解释水平理论(Liberman&Trope，1998)等出发，探讨“什么样的”管理者“何时”和“为何”主动做出或回避征求建言的行为。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2管理者纳谏的原因和条件",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "管理者纳谏即管理者倾听、采纳员工的建言并加以推广的过程(Burris,",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2012)。尽管建言对组织有诸多好处，但由于员工的建言内容可能不切实际或者观点不突出，管理者也无需接受每一条建议。并且，组织的权力多数情况下都集中在高层，因而管理者改变现状的影响力会有所局限(Sherf et al.，2019)。因此，管理者忽视建言或直接拒谏的情况时有发生。关于管理者纳谏/拒谏的机制探讨，学者们主要基于如下两个理论视角进行研究，分别是自我调节理论和面子威胁观。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于自我调节理论，个体会通过有限的自我控制资源来调整当下的行为，而自我损耗(ego depletion)是自我调节失败的一种形式(例如，Baumeisteretal.，1998)。管理者对于建言内容的分析和判断显然要花费较多的时间和精力。但当管理者自我损耗时，他们无法拥有正常状态下所持的自我控制资源。此时，由于缺乏审慎的考虑以及充足的自我控制资源，他们倾向于“节省”认知加工的时间和精力，拒绝分析和采纳员工建言，转而依赖触手可及的信息快速作出决策。建言研究者常用现状偏差（即在信息缺乏的环境下，对损失的厌恶和对保持现状的承诺）以及确认偏好（即接纳和管理者初始偏好一致的信息，排斥不一致的信息）这两种认知谬误来分析管理者在自我损耗时拒谏的现象(Liet al.，2019)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于面子威胁观，面子是个体在人际互动中建构的期望受到社会赞许的形象(Goffman，1967)。来自下属的建言可被管理者视为一种对其所做工作的批评或（和）对其权威的挑战(Burris，2012；Lam etal.，2019)。但从员工的角度来看，较为正式的建言更可能使管理者提高对该问题的关注和认可，因此当问题越重要时，员工越有可能冒着威胁管理者脸面的风险来公开建言(Xu etal.,2020)。一项新近研究表明，员工建言时是否有他人在场会显著影响管理者纳谏(Isaakyan et al.，2020)。这是因为当员工在公开场合向管理者提出建议时，管理者会感到自身地位受到侵犯、在公开场合下的控制力正在被削弱，这会使他们更多关注自身的名誉，而非建言的实用性；而在一对一的私人建言情境下，管理者无须考虑除了建言员工之外其他人对自己的看法，从而更多关注员工建议本身的价值。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "除此以外，研究者还发现建言者的语气和表达方式也会影响管理者纳谏，员工的直言不讳能够提高沟通的清晰度，从而让管理者注意到关键性问题，而在这一过程中，员工若能礼貌地表达，则会大大增加管理者纳谏的可能性(Lamet al.,",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2019)。而除了建言的形式以外，建言的内容如问题的重要性、管理开放性、管理者的积极情绪(Xuet al.，2020)、领导成员交换关系(Huangetal.，2018)、管理者对建言员工动机的归因(Urbach&Fay，2018)、管理者的成就目标(Si jbom et al.，2015a，2015b)等也是影响管理者纳谏的重要因素。目前，有关管理者纳谏的研究还有很大的发掘空间，除了关注是否有第三方在场外(Isaakyan et al.，2020)，还可以讨论影响管理者纳谏的其他情境因素，例如团队氛围和建言规范等(Xu et al.，2020）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3何种因素会影响管理者建言评估",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "管理者对建言及建言者的评估过程也会受到多种因素的影响，例如，建言内容、领导成员关系、建言动机归因等。大量研究表明管理者对于不同类型的建言内容及其提出员工会有截然不同的评价：促进性建言会增加他们的个人福祉，抑制性建言则会阻碍他们的个人发展(Sessions et al.，2020)；挑战组织当前制度和政策（挑战性建言）的员工会被管理者认为绩效不佳，而拥护组织现有实践（支持性建言)的员工则被认为更忠诚、工作表现更好、也更有提拔空间(Burris,2012)。但领导成员关系能够缓和抑制性建言对管理者评估的负面效应(Huang etal.，2018)，管理者也许会反感频繁指出组织内现有问题的员工，但如果管理者和建言员工享有更高质量的交换关系，他们会更看重员工建言在防范组织中潜在威胁上的价值。除此之外，Whiting 等人(2012)发现建言内容是否包括解决方案、建言行为是否符合组织规范、建言的及时性、建言员工的可信度以及专业性等会通过影响管理者对员工的喜爱或者对建言的建设性感知，从而影响管理者对建言员工的绩效评价。因此，对建言的评估和对建言者的评估并非完全彼此独立，而是相互交织与影响。另外，管理者还会对员工建言的原因进行推断，例如，权力动机归因(Urbach& Fay，2018)、利他/利己动机归因(Urbach& Fay，2018;Whitingetal.，2012；严瑜，何亚男，2016)等。管理者通常没那么喜欢出于自身利益的考虑而建言的员工，也相应地更少建议组织给这些员工升职加薪(Duan et al.， 2021）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4“输出”：建言行为链的作用后效 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1管理者建言征求的行为结果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "管理者征求建言的最直接结果即让员工建言“师出有名”，从而激发员工建言的积极性，而管理者也能借此获取所需要的信息来解决当前的问题(Carnevaleet al.，2020；Fast et al.，2014； Tangirala & Ramanujam， 2012)。当管理者向员工征求建言时，员工会接收到管理者所传达的建言期望，以及管理者对于员工变革导向行为的鼓励(Carnevale et al.，2020；Duan et al.，2017)，特别地，当员工认为征求建言的管理者地位较高时，他们对自身影响力的感知也会增强(Tangirala& Ramanujam，2012)，从而踊跃提出变革想法。但管理者并非因为能力不足才询问员工意见，恰恰相反，建言征求却足以成为彰显其自信、谦逊和领导力的一种策略(Fast et al.，2014)。最近一项研究表明，自恋领导者可以通过建言征求，向员工传达热情与关怀，从而削弱领导自恋对员工自尊及其组织公民行为的负面影响(Carnevale et al.，2018)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "目前，建言征求的行为影响研究还比较局限在行动者目的视角，而未来研究也可以考虑建言征求作为管理者的一种主动行为对其自身的影响。例如，管理者建言征求后，若员工踊跃建言，便可以使管理者感到被员工认可，得到了组织支持；但若是管理者积极寻求建言却得不到反馈，可能会产生管理者自身的情绪耗竭(Lin et al.，2019)等负面影响。除此以外，研究者在未来还可以讨论建言征求对组织创新绩效等方面的影响。而由于员工对管理者主动行为的归因将直接影响员工的后续行为(Mattaetal.，2020)，未来研究除了关注管理者建言征求的动机外，还可以探索员工对管理者建言征求的动机归因对其建言的影响机制。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2管理者建言评估/纳谏的行为结果",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "首先，管理者对建言/建言者的评估可以影响管理者后续的纳谏决策、员工的升职加薪以及管理者的情绪状态与绩效等。从间接作用上分析，同事和管理者均会认为提出高质量建言的员工将有更大的晋升空间(Brykman&Raver，2021)，员工在建言过程中展现出的能力也会影响后续管理者对该员工的升职加薪决策(例如，Duan et al.，2021；Morrison，2011）。但凡事皆有利弊，对建言的评估也会带来一系列负面影响。例如，近来有研究表明，管理者对建言内容的防御性评估会导致管理者的情绪耗竭，甚至会影响其管理绩效(Sessionset al.,2020)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其次，管理者采纳员工建言是建言发挥积极影响的必要条件。King及其同事采用“建言弹性(voiceresilience)”来形容员工在建言过程中虽遭遇拒谏，但是依然会继续建言的积极品质。他们通过实地和实验研究发现，在管理者拒谏之后，如果员工收到了管理者有关拒谏的解释和对建言的反馈，他们的建言安全感将得以提升，并降低对未来建言失败的恐惧与焦虑，从而大大增加再次建言的概率。无独有偶，国内有研究者发现，管理者建言采纳会提升员工的工作意义感和建言效能感，从而激发员工后续建言的积极性(章凯 等人，2020)。不难推出，从纳谏到员工再次建言的正反馈机制，将能促进员工建言的积极作用落地—一提升组织学习能力和效率(例如，Detert etal.，2013；Frazier& Bowler，2015;Liet al.，2017)、增强组织错误勘测能力和问题解决能力(Detert＆ Burris,2007；Morrison，2011)、提高组织创新和绩效等(例如，Lam& Mayer，2014;MacKenzie et al.， 2011）。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5未来研究展望",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "目前建言情境下管理者行为的研究彼此割裂，存在诸多不足。具体而言，学界对本文所提出的“建言行为链”中各要素的研究经历了如下阶段：建言的影响及其前提研究、管理者评估与纳谏的影响及其前提研究、管理者主动征求建言的影响及其前提研究。纵观这一发展历程，不难发现：首先，管理者建言征求、员工建言行为、管理者评估与纳谏等这些行为要素之间环环相扣，互相影响，并且在产生前提和结果上有较多的相似之处。其次，从发展趋势上看，管理者在这一系统中所扮演的角色在近年来愈发受到学者重视，越来越多的研究者开始从管理者处着手，寻找激发员工建言、提高建言成功率等的因素。在这个关键节点上，很有必要对管理者建言征求、评估与纳谏的研究成果做一个系统的回顾，从而为今后的研究给予启发。本文透过建言行为链的系统视角回顾了建言征求、纳谏和建言评估的文献，并基于IPO模型，概括了管理者在建言情境下行为的前提和结果变量，把这些离散的内容有机地串联了起来，以打通这些分散的研究主题。然而，随着建言背景下管理者端的研究日益丰富，一些理论和方法上的不足也逐渐暴露了出来。本文在此指出部分问题，留与诸位研究者探讨。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.1中国文化背景下的建言征求与反应研究",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "从“邹忌讽齐王纳谏”到“贞观政要”，国内部分学者尝试从儒家伦理中提炼出影响管理者建言反应的文化基础(胡国栋，王天娇，2019)。这样的工作对跨文化研究来说意义重大，但在强调传统经典与文化人格的同时，我们也应该注意，在全球化浪潮和社会的快速变迁之下，中国人的文化价值、人格特征以及社会态度和行为都发生了巨大的改变(蔡华俭 等人，2020)。文化差异依然存在，而我们不仅需要关注根植于传统文化的中国管理情境的特殊性，也需要重视当代中国管理环境的变迁以及独特之处。一方面，理论具有普遍性。国内外很多有关建言情境下的管理者行为研究通过改良取样方法、研究设计等方式增加研究结果的可推广性，并且多数结果得到了社会交换理论(Kingetal.，2019)、心理威胁理论(Lam etal.，2019)、社会说服理论(Huangetal.，2018；韩翼 等人，2020)、领导成员交换理论(Carnevale et al.，2020)、自我调节理论(Li et al.，2019)等的支持。而伴随着我国经济的高速发展，中西方的管理理论研究也在发展阶段、思想理论上不断趋近、融合(陆亚东 等人，2015)。另一方面，理论具有时空的不平衡性。在时间维度上，改革开放以来，中国人的价值观念、人格和态度等都发生了改变(蔡华俭 等人，2020)，例如，和建言情境关系较为密切的变化有：（1）价值观念方面，自主等现代观念日益盛行，而服从和内敛等传统观念不断衰落；（2）人格方面，人情和面子等人格要素水平在降低，而多元和开放等要素水平在不断上升；（3）态度方面，人际信任的总体水平也在不断降低，而社会支持也在下降。在空间维度上，东西方在制度、经济和人文三个环境上依然存在差异(Tsui，2006；段锦云 等人，2018；陆亚东 等人，2015)。因此，在进行中国文化背景下的建言行为链研究以及应用、推广国外管理者行为研究成果时，我们应当注意把握并平衡理论研究的这两大特性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.2管理者建言征求、纳谏行为的测量与操纵",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "如前文所述，目前学界对于建言征求(Fast et al.，2014)和领导纳谏(纳谏行为：Burris，2012；纳谏意图：Fast et al.，2014)的测量方式还比较单一，并且直接报告行为或意图的测量方式可能存在较大的社会赞许问题(Isaakyanet al.，2020)。而在建言和纳谏研究领域，研究者常用多时段取样，但这种方法容易受抽样时间和指导语的限制，产生“漏报”问题。可能的解决方案之一是通过经验取样法重复抽样，减小时间和个体因素的变异(张银普 等人，2016)。但除此以外，学者还可以通过丰富建言征求和纳谏的维度，或者扩展和开发直接行为测量以外的其他测量工具。例如，未来研究者可以通过开发情境判断测验，以及改良实验任务范式等方法量化管理者在员工建言情境中的行为角色。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.3建言行为链中管理者行为的“溢出”效应",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "目前在建言行为链研究中，研究者多以促进员工建言为管理者建言征求的唯一结果变量(Carnevale et al.， 2020； Fast et al.， 2014； Tangirala &Ramanujam，2012)，而建言评估和采纳则为建言情境的终端(Isaakyan et al.,2020；Liet al.，2019；Lamet al.，2019)，虽然少数研究者也关注管理者反馈和拒谏对员工下一次建言的影响(King et al.，2019；章凯 等人，2020)，但整体来说，这些研究仅描绘了一个相对孤立的单向沟通路径。如图1所示，本文提出的建言行为链扩展并丰富了各行为要素之间的关系和作用方向，并基于IPO 模型，系统分析了建言行为链的前提、发生过程和后效。一方面，管理者可能在主动征求建言、或者进行建言评估和纳谏决策之前也会根据自身、团队情境和对员工建言积极性的感知进行成本-收益分析。而另一方面，管理者的外显行为（如建言征求和纳谏)，或者潜藏在行为反应下的态度（如建言评估)，也会产生一系列“外溢”影响。例如，管理者征求促进员工建言，并且落实建言后，将有助于提高组织创新和绩效等(例如，Lam& Mayer，2014；MacKenzie et al.,2011)。而参考变革领导行为对管理者自身的负面影响研究(Linetal.，2019)，研究者也应考虑，当管理者积极寻求建言却得不到反馈时，或者在管理者推广实行员工建言的过程中，可能产生的管理者情绪耗竭，甚至离职意愿等。并且，管理者对员工建言质量(Brykman& Raver，2021；江静 等人，2020)的评估以及对员工能力的评估等，可能泛化为他们对于团队发现、解决问题能力的评估。而管理者行为也会对员工产生影响，例如，建言采纳很有可能影响员工的组织支持感、建言效能(Kish-Gephart et al.，2009)等一系列信念。综上所述，未来在研究建言背景下管理者的行为角色时，研究者应从具体的建言事件背景和管理情境中出发，避免因“管中窥豹”而局限研究问题。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1］蔡华俭，黄梓航，林莉，张明杨，王潇欧，朱慧珺，谢怡萍，杨盈，杨紫嫣，敬一鸣．（2020)．半 个多世纪来中国人的心理与行为变化一一心理学视野下的研究.心理科学进展， $\\mathcal { Z } 8 ( 1 0 )$ ，1599 - 1618.   \n[2] 段锦云，徐悦，郁林瀚．(2018)．中国儒家传统中的自我修为思想:对交换范式的审视与补充．心理 科学进展，26(10)，1890－1900.   \n[3]韩翼，肖素芳，龚鹏飞． (2020)．基于说服理论的员工谏言和领导纳谏研究．管理学报， $\\phantom { - } I 7 ( 4 )$ ， 509 - 517.   \n[4］胡国栋，王天娇．(2019)．基于《贞观政要》文本解读的儒家伦理与领导纳谏行为关系研究.管理学 报，16(8)，1107 -1116.   \n[5］江静，董雅楠，李艳，杨百寅．(2020)．让建言更多含金量：员工建言质量的前因机制．心理科学进 展，28(7)，1093 -1107.   \n[6]陆亚东，孙金云，武亚军．(2015)．“合”理论——基于东方文化背景的战略理论新范式．外国经济 与管理，37 (6)，3-25.   \n[7］严瑜，何亚男．(2016)．领导对建言反应的动机感知作用机制：基于归因理论的阐释．心理科学进 展，24(9)，1457 -1466.   \n[8］章凯，时金京，罗文豪．(2020)．建言采纳如何促进员工建言：基于目标自组织视角的整合机制．心 理学报， ${ \\it 5 2 ( 2 ) }$ ，229 - 239.   \n[9］张银普，骆南峰，石伟．(2016)．经验取样法—一一种收集“真实”数据的新方法．心理科学进展， 24(2)， 305 - 316.   \n[10]周浩，盛欣怡． (2019)．管理者征求建言的内在机制．心理科学进展，27(12)，1980－1987.   \n[11] Barry， M.，& Wilkinson, A. (2016). Pro-social or pro-management? A critique of the conception of employee voice as a pro-social behaviour within organizational behaviour. British Journal of Industrial Relations，54(2)，261-284.   \n[12] Bashshur，M. R.，& Oc,B. (20l5)． When voice matters: A multilevel review of the impact of voice in organizations. Journal of Management， 41(5)，1530-1554.   \n[13] Baumeister，R.F.，Bratslavsky，E.， Muraven， M.，& Tice，D. M. (1998). Ego depletion: Is the active self a limited resource? Journal of Personality and Social Psychology， 74(5), 1252 - 1265.   \n[14] Brykman,K. M.，& Raver， J. L. (2021). To speak up effectively or often? The effects of voice quality and voice frequency on peers’and managers’evaluations. Journal of Organizational Behavior. Advance online publication. https://doi.org/10.1002/job.2509   \n[15] Burris, E. R. (2012). The risks and rewards of speaking up: Managerial responses to employee voice. Academy of Management Journal， 55(4)，851-875.   \n[16] Burris，E. R.，Detert，J. R.，& Romney，A. C.(2013)． Speaking up vs. being heard: The disagreement around and outcomes of employee voice. Organization Science, 24(1)，22-38.   \n[17] Burris，E. R.，Rockmann,K. W.，& Kimmons，Y. S. (2017). The value of voice to managers: Employee identification and the content of voice. Academy of Management Journal,60(6), 2099 - 2125.   \n[18] Carnevale，J. B.， Huang，L.，& Harms，P. D. (2018).Leader consultation mitigates the harmful effects of leader narcissism: A belongingness perspective. Organizational Behavior and Human Decision Processes， 146, 76 - 84.   \n[19] Carnevale，J.B.， Huang，L.，Uhl-Bien，M.，& Harris，S.(2020)．Feeling obligated yet hesitant to speak up: Investigating the curvilinear relationship between LMX and employee promotive voice. Journal of Occupational and Organizational psychology， 93, 505 - 529.   \n[20] Choi，B. K.，Moon， H. K.，& Chun，J.U. (2015)． Impression management motive and voice: Moderating effects of self-monitoring, self-efficacy， and voice instrumentality. Asian Journal of Social Psychology， 18(3)，225- 235.   \n[21] Detert， J. R.，& Burris，E. R. (2007). Leadership behavior and employee voice:Isthe door really open? Academy of Management Journal， 50， 869 - 884.   \n[22] Detert，J. R.，Burris，E. R.，Harrison, D. A.，& Martin,S.R. (2013).Voice flows to and around leaders: Understanding when units are helped or hurt by employee voice. Administrative Science Quarterly， 58, 624-668.   \n[23] Duan，J.，Li，C.， Xu， Y.，& Wu,C. H. (2017)． Transformational leadership and employee voice behavior:A Pygmalion mechanism. Journal of Organizational Behavior， 38(5)，650 - 670.   \n[24] Duan，J.， Xu, Y.，Wang， X.，Wu,C.，& Wang，Y. (2021).Voice for oneself: Self- interested voice and its antecedents and consequences. Journal of Occupational & Organizational Psychology， 94(1)，1- 28.   \n[25]Fast，N. J.， Burris，E. R.，& Bartel，C. A. (2014). Managing to stay in the dark: Managerial self -efficacy，ego defensiveness，and the aversion to employee voice. Academy of Management Journal， 57, 1013 - 1034.   \n[26] Frazier，M. L.，& Bowler，W. M. (2015). Voice climate， supervisor undermining，and work outcomes: A group-level examination. Journal of Management， 41, 841 -863.   \n[27] Fuller，J.B.，Barnett，T.，Hester，K.，Relyea，C.，& Frey，L.(2007)．An exploratory examination of voice behavior from an impression management perspective. Journal of Managerial Issues，19(1)，134-151. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[28] Goffman,E. (1967)． Interaction ritual: Essays on face-to-face behavior. Garden City，NY: Doubleday. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[29] Hart，E.，VanEpps，E. M.， Schweitzer， M.E. (2021)． The (better than expected) consequences of asking sensitive questions. Organizational Behavior and Human Decision Process，162，136-154.   \n[30] Hobfoll, S. E. (1989). Conservation of resources: A new attempt at conceptualizing stress. American Psychologist， 44(3)，513-524.   \n[31] Huang， X.，Xu，E.，Huang，L.，& Liu，W. (2018)． Nonlinear consequences of promotive and prohibitive voice for managers’ responses: The roles of voice frequency and LMX. Journal of Applied Psychology，103(10)，1101-1120.   \n[32] Kim，H.，& Yukl，G. (1998).Relationships of managerial effectiveness and advancement to self-reported and subordinate-reported leadership behaviors from the multiple-linkage model. Leadership Quarterly，6,361- 377.   \n[33] King， D. D.，Ryan, A. M.，& Van Dyne,L. (2019). Voice resilience:Fostering future voice after non -endorsement of suggestions. Journal of Occupational and Organizational Psychology， 92(3)，535- 565.   \n[34] Kish-Gephart，J.J.，Detert，J. R.，Trevino，L.K.，& Edmondson，A.C.(2009)． Silenced by fear: The nature， sources，and consequences of fear at work. Research in Organizational Behavior，29，163-193.   \n[35] Isaakyan， S.，Sherf，E. N.， Tangirala, S.，& Guenter，H. (2020)． Keeping it between us: Managerial endorsement of public versus private voice. Journal of Applied Psychology. Advance online publication. https://doi.org/10.1037/apl0000816   \n[36] Lam, C. F.，Lee，C.，& Sui，Y. (2019)． Say it as it is: Consequences of voice directness, voice politeness， and voicer credibility on voice endorsement. Journal of Applied Psychol0gy，104(5)，642 -658.   \n[37] Lam, C. F.，& Mayer， D. M. (2014)． When do employees speak up for their customers? A model of voice in a customer service context. Personnel Psychology， 67， 637 -666.   \n[38] Li，A.N.，Liao，H.， Tangirala， S.，& Firth，B. M. (2017)． The content of the message matters: The differential effects of promotive and prohibitive team voice on team productivity and safety performance gains. Journal of Applied Psychology， 102，1259 -   \n[39] Li，J.，Barnes，C. M.，Yam，K.C.，Guarana，C.L.，& Wang，L.(2019)．Do not like it when you need it the most:Examining the effect of manager ego depletion on managerial voice endorsement. Journal of Organizational Behavior， 40， 869 - 882.   \n[40] Lin,S.-H. (Joanna)，Scott，B. A.，& Matta,F. K. (2019). The dark side of transformational leader behaviors for leaders themselves: A conservation of resources perspective. Academy of Management Journal，62(5)，1556 - 1582.   \n[41] Liberman, N.，& Trope,Y. (1998). The role of feasibility and desirability considerations in near and distant future decisions: A test of temporal construal theory. Journal of Personality and Social Psychology， 75(1)，5-18.   \n[42] Liu，F.，& Dong， M. (2020). Perspective taking and voice solicitation: A moderated mediation model. Asia Pacific Journal of Human Resources， 58, 504- 526.   \n[43] Liu,W.，Zhu, R. H.，& Yang，Y. K.(2010)．I warn you because I like you: Voice behavior, employee identifications， and transformational leadership. The Leadership Quarterly, 21(1)，189 - 202.   \n[44] MacKenzie， S. B.， Podsakoff，P. M.，& Podsakoff，N.P.(2011)． Challenge-oriented organizational citizenship behaviors and organizational effectiveness: Do challengeoriented behaviors really have an impact on the organization’ s bottom line? Personnel Psychology，64， 559- 592.   \n[45] Matta，F.K.，Sabey，T. B.，Scott，B.A.，Lin，S-H.，& Koopman，J.(2020)．Not all fairness is created equal: A study of employee attributions of supervisor justice motives. Journal of Applied Psychology，105(3)， 274- 293.   \n[46] McClean，E. J.，Burris，E.R.，& Detert，J.R.(2013)．When does voice lead to exit？ It depends on leadership. Academy of Management Journal， 56(2)， 525 - 548.   \n[47] Morrison, E. W. (2011). Employee voice behavior: Integration and directions for future research. Academy of Management Annals, 5(1)，373 - 412.   \n[48] Morrison，E. W.，Wheeler-Smith， S.L.，& Kamdar，D. (2011)． Speaking up in groups:A cross-level study of group voice climate and voice. Journal of Applied Psychology， $g \\mathcal { \\epsilon } ( 1 )$ ， 183 - 191.   \n[49] Satterstorm， P.，Kerrissey， M.，& DiBenigno，J. (2020). The voice cultivation process: ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "How team members can help upward voice live on to implementation.Administrative Science ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Quarterly. Advance online publication. https://doi.org/10.1177/0001839220962795   \n[50] Scandura，T.A.，& Graen，G. B.(1984). Moderating effects of initial leader-member exchange status on the effects of a leadership intervention. Journal of Applied Psychology, 69，428 - 436.   \n[51] Seibert， S. E.，Crant，J. M.，& Kraimer，M. L. (1999). Proactive personality and career success. Journal of Applied Psychology， 84, 416-427.   \n[52] Sessions，H.，Nahrgang，J. D.，Newton，D.W.，& Chamberlin，M. (2020)．I’m tired of listening: The effects of supervisor appraisals of group voice on supervisor emotional exhaustion and performance． Journal of Applied Psychology， 105(6)，619 - 636.   \n[53] Sherf,E. N.，Tangirala， S.，Venkataramani，V. (2019)．Why managers do not seek voice from employees: The importance of managers’personal control and long-term orientation. Organization Science, 30(3)， 447 - 466.   \n[54] Sijbom， R. B.L.，Janssen，O.，& Van Yperen， N.W. (2015a). How to get radical creative ideas into a leader’ s mind? Leader’ s achievement goals and subordinates’voice of creative ideas. European Journal of Work & Organizational Psychology， 24, 279 - 296.   \n[55] Sijbom，R.B.L.，Janssen，O.，& Van Yperen，N. W. (2015b)． Leaders’receptivity to subordinates’ creative input:The role of achievement goals and composition of creative input. European Journal of Work & Organizational Psychology， 24, 462- 478.   \n[56] Sijbom, R. B. L.，& Parker， S. K. (2020)． When are leaders receptive to voiced creative ideas? Joint effects of leaders’ achievement goals and personal sense of power. Frontiers in Psychology. Advance online publication. https://doi.org/10.3389/fpsyg.2020.01527   \n[57]Tangirala, S.，& Ramanujam， R. (2012). Ask and you shall hear (but not always): Examining the relationship between manager consultation and employee voice. Personnel Psychology, 65，251- 282.   \n[58] Tannenbaum， S.I.，Beard,R.L.& Salas，E.(1992)． Team building and itsinfluence on team effectiveness: An examination of conceptual and empirical developments. In K. Kelley (Eds.)，Issues， theory and research in industrial/organizational psychology (pp. 117 - 153)． New York: Elsevier Science.   \n[59] Tepper， B. J. (2ooo). Consequences of abusive supervision. Academy of Management Journal, ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "43,178-190. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[60] Tsui，A.S. (2006)． Contextualization in Chinese management research. Management & Organization Review, 2(1)，1-13.   \n[61] Urbach，T.，& Fay， D. (2018). When proactivity produces a power struggle: How supervisors' power motivation affects their support for employees’ promotive voice. European Journal of Work and Organizational Psychology，27(2)，280 - 295.   \n[62] Whiting，S.W.，Maynes，T. D.，Podsakoff，N.P.，& Podsakoff，P. M.(2012)．Effects of message，source,and context on evaluations of employee voice behavior. Journal of Applied Psychology，97(1)，159 -182.   \n[63] Xu,E.，Huang，X.，Ouyang，K.，Liu，W.，& Hu， S.(2020)． Tactics of speaking up: The roles of issue importance， perceived managerial openness， and managers’positive mood. Human Resource Management，59(3)，255-269.   \n[64] Zhou，X.，Liao， J.Q.，Liu，Y.，& Liao，S.(2017)．Leader impression management and employee voice behavior: Trust and suspicion as mediators. Social Behavior and Personality, 45(11)，1843-1854. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "作者贡献说明\\*：",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "施李晓云：提出研究问题，提出或设计文章框架，写作、修改论文。  \n朱悦：参与最终版本修订。  \n段锦云：审定论文。",
+        "page_idx": 19
+    }
+]

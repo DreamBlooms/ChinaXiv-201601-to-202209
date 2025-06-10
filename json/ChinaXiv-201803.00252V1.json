@@ -1,0 +1,345 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201701200166 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘耕源.生态系统服务功能非货币量核算研究.生态学报,2018,38(4)：1487-1499.  \nLiu GY.Areview of anon-monetaryvaluationofecosystemservices.Acta Ecologica Sinica,2O18,38(4):1487-1499.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生态系统服务功能非货币量核算研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘耕源1,2，\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1北京师范大学环境学院,环境模拟与污染控制国家重点联合实验室,北京100875  \n2北京市流域环境生态修复与综合调控工程技术研究中心，北京100875",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：区别于价值量核算方法,基于生态热力学的环境核算方法从物质计量角度开展环境核算,以期打破大多数以人类为中心框架下的经济学方法,而新的方法框架进一步关注对人类及生态有益的生态服务的价值,即不忽视自然界提供的无关人类的相关服务功能。综述了基于生态热力学的环境核算理论基础,从禀赋价值视角重新解读了社会经济系统,从更深层次明确了“当前的”自然资产和生态服务实际是生态系统对资源使用的一种努力和结果,其“过去的\"生态过程经历了长时间\"试错和优化”。以美国森林生态服务功能案例研究展现了基于生态热力学的生态服务功能核算方法与基于支付意愿的市场价值核算方法与异同,并提出了使用能值方法进行生态系统服务功能核算的六大步骤。最后,针对近期能值方法的改进,给出四点发展展望：1)能值基准的不断更新夯实了生态系统服务功能非价值量核算的基础;2)已有大量能值分析在生态资产和生态服务功能应用案例可为今后的研究提供方法参照和比较的可能;3)生态服务功能价值量和非价值量的差异的根源在于从人类中心论到生态中心论的环境伦理观的转移;4)从生态热力学的视角研究生态服务功能为从能量的角度提出环境税确立了可能性。本研究建议采用双重核算方法，即类似于金融会计中使用的方法一样,用能量来记录环境负债，并建立一个货币化的资产负债表说明经济情况及环境对经济生产的贡献。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态系统服务功能;能值;非货币量核算；货币量核算；定价",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A review of a non-monetary valuation of ecosystem services ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Gengyuan1,2, \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1StateKeyftl   \n2BeijigEngeingReseachCenterforatesdEotalestoation&tegatedEcooicaleguoeiing ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Governments use the money-based accounting systems of their national economies to calculate macroeconomic indicators，such as Gross Domestic Product,Gross National Product,andPer Capita Income.Overthe last few years，in response to the perceived lack of comprehensiveness for such accounting systems，more atention has been placed on the economicuseand evaluation of ecosystems.Methods forcalculatingthe valueof ecological services are atracting interestas aninstrumenttoconvert thenon-monetaryvaluesoftheenvironment intorealmonetarythinking.Thescientificdiscussionon methods to estimate these values is stillembryonic.In several cases，the valuesof environmental servicesseem tobeused arbitrarily foreconomic-based instruments，such ascharging entrance payments to visitors，andestablishing a value for ecosystemservicesandnatural capital.Thisstudysummarizes the theoretical basisof environmental acounting basedon ecological thermodynamicsandreinterprets socio-economic systems fromthe perspectiveof donors.Emergy，thetotalamount ofsolar equivalent energythatisinvestedbytheenvironment insupportofagiven process，issuggestedasascientifc measureof the directand indirect work performed bythe biosphere.Withinsuch a“donor-side”perspective,the valueof a resourcereliesontheefortthatis neededforitsproductionanddeliveryovera“trialanderror”processthatensures optimization of resourceuse.Finally，basedon the improvementsintherecentemergy methods，four development perspectivesaregiven：1）thecontinuous updating of theemergybenchmarksreinforces the foundationof thenon-value accounting of ecosystem service functions；2）there havebeen large numbers of emergyanalyses of ecologicalasetsand ecology；3）thediference betweenthemonetaryandnon-monetary valuesof ecological servicefunctions liesinthe transfer of environmental ethicsfromanthropocentrictoecocentricperspectives；and4）theecological perspectivesuggeststhatitis necesary to studytherelationship between eco-service functionandecological value.From the thermodynamic perspective, thestudyof ecological servicefunctions establishestheposibilityof proposing environmental taxes.Thisstudysuggests both monetary and non-monetaryaccounting approaches could be used to quantitatively account for natural capital without relying solely on financial tools based on human preferences and fluctuating market dynamics. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: ecosystem services ;emergy ; non-monetary accounting method; monetary accounting method; pricing ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当前政府普遍使用国民经济的货币经济核算方法(如国内生产总值、人均收入等)来计算宏观经济指标。但是在过去半个世纪,由于环境污染、资源稀缺、生态退化等问题日益严重,人们对生态系统的经济使用给予了更多的关注。由于传统的货币经济核算系统不能反映生态系统的破坏及环境恶化对国民财富的影响,使得环境核算(也有文献翻译成环境会计)方法逐渐步人研究者的视野，并很快成为研究自然资源的储备价值的有力工具。如 2010 年完成的国际项目“生态系统和生物多样性经济学（The Economics of Ecosystems andBiodiversity，TEEB)\"就尝试在生产性经济系统框架内以货币方式评估生态系统和生物多样性的贡献。而其核心思想是在做经济决策时,将环境成本作为经济核算的直接或间接的成本或收益,如常用的绿色GDP,即在货币核算基础上,从GDP中扣除资源耗减成本和环境降级成本,很多国家都尝试计算绿色GDP,为此联合国于1993年公布了《环境与经济综合核算体系(SEEA)》,将环境因素纳入国民核算中,但是由于在实现过程中面临的种种困难,加之不够成熟的实践经验,使得 SEEA在施行过程中往往无法很好的达到预期的目标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新古典主义经济学的基础是在19 世纪末提出,被称为\"边际革命（Marginal Revolution)”。其一般不强调环境在经济中的作用,将重点从生产手段转移到市场动态[1]。新古典经济学家 Solow[2]完全将土地从经济生产函数中去除,确定自然的工作可以被制造资本代替。Georgescu-Roegen[3]驳斥了自然可以代替的主张,并断言经济学受到热力学限制的约束和限制。Odum[4]提出了类似的主张,他阐明了环境工作和经济财富之间的联系。在这个时候,环境对经济的贡献的估值开始分为两个阵营;生物物理评估（能量投入、能量投入回报、生命周期分析等)和生态经济学(条件价值评估法、享乐定价理论、生产函数分析等),具体方法学参见文献[5]。因此,新古典经济学原理中经济和环境的关系完全是脱钩的,所以在后续的研究中,如何将人类经济所依赖的自然资源资产和生态系统服务统一进来可能是生态经济学研究中最重要的问题之一[6-9],这也将会成为现代经济理论的重要分支之一[5,10]。该项研究的主要问题是：自然资本和生态系统服务的真正价值是什么？以及如何量化？但在新古典经济学的框架内,当自然资源富足时,其价值非常小;但是当自然资源濒临稀缺时,其价值又开始增加。例如,当自然资源(如土地、淡水、湿地)的丰富量与人类经济活动的规模相比很大时,我们不会去考虑它们的价值,直到人口的增长与经济活动的加快使得这些自然资源变得很有“价值”。但是这也仅限于那些容易被量化和销售的资本,譬如土地、森林和淡水资源这些易于被赋予货币价值的自然资源。一些资源至今也没有定价,如清洁的空气和雨水等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在此情况下,更多的环境核算方法开始主要从物质计量角度开展环境核算,以期打破大多数以人类为中心框架下的经济学方法的弊端,而新的方法框架进一步关注对人类及生态有益的生态服务的价值,即不忽视自然界提供的无关人类的相关服务功能。典型的方法包括：生态足迹法,即计算生产性土地的直接、间接需求;物质流分析法,即计算自然界到经济系统中的直接和隐性物质投入;体现能核算法,主要计算全生命周期的累积能量消耗；各种计量经济过程排放物的环境影响核算法,如IPCC 温室气体核算、CML2000环境影响系数等;以及能值分析法，即计量从生物圈能量运动角度来衡量某物质或某系统所需要的所有能量总和。$\\mathrm { O d u m } ^ { [ 1 1 - 1 2 ] }$ 确定了由太阳能、潮汐能和地热能驱动的生物圈作为自然资源和生态服务的原始驱动力的研究,将这些能量核算为太阳能等效能量,并用能值进行可持续性评估和自然资本评估的核算基础[13-14]。上述这些环境核算方法都能从一定角度反映人类活动对自然资源和环境的真实载荷,因而得到了学界乃至政府组织的广泛认可,成为指导和评价环境绩效和可持续发展的重要工具。这些方法的重点是将地球生态系统的所有部分作为一个包含结构与过程的功能整体,而人类社会经济系统只是嵌入其中的一部分而已。这种研究框架可以精细地核算地球上各个物种获得自然资源及服务(矿产、化石燃料、生物质、水、空气、文化、信息等)的通量、效率、层级结构及反馈过程,并可看出如何最大程度的提高生态系统和经济系统的产出效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1基于生态热力学的环境核算理论基础",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "能值分析作为环境核算领域的重要方法之一，能够持续受到广泛关注的原因是源于它具有一套独特的理论和方法体系。能值理论和方法是由美国著名生态学家、系统能量分析先驱——H.T.Odum,基于其兄弟 E.P.Odum无法直观的表达能量生态学的苦恼,借助于物理学的电路原理,于20世纪80年代创立的一个新的系统分析理论和方法,它从地球生物圈能量运动角度出发,以太阳能值来表达某种资源或产品在形成或生产过程中所消耗的所有能量,并在此基础上建立一般系统的可持续性能值评价指标体系。实际上Odum 家族从20 世纪50年代便开始对生态系统能量学进行深入的研究、追溯生态系统中的能流,并在20世纪70—80年代提出了一些在当时看来的新概念和具有开拓性的重要观点,诸如能量系统、体现能(embodied energy）和能量品质（energyquality）等,第一次将能流和经济流联系在了一起。有趣的是,由embodied energy 转变到emergy（能值)是1983 年由一位在当时在美国、名叫 David Scienceman 的澳大利亚的访问学者将 embodied energy 这两个单词捏合到一起而提出的[15],是一个当时的新词汇,以至于一段时间内,能值研究者发表文章在写到eMergy 这个词的时候要单独大写字母M,以突出和energy这个词的不同。H.T.Odum 随后又创立了能值理论以及提出太阳能值转换率(solar transformity)等一系列概念,从能量、体现能发展到能值,从能量分析发展到能值分析在今天看来在理论和方法上都是一个重大飞跃[16]。H.T.Odum[1]在 Science 期刊上发表了题为 Self-Organization，Transformation的文章,文中阐述了能值理论,论述了能值与能量品质、能量等级等概念的关系[17];随后在 1996年出版了第一部能值专著 Environment Acounting：Emergy and Environmental DecisionMaking,这本书可以认为是能值研究领域的第一本系统的代表作,产生了深远的影响,具有里程碑式的意义。H.T.Odum[1-12]在他的文章中将自然资本和生态系统服务确定为财富的真正来源（即禀赋价值视角—Donor Side）,尽管当时普遍认为只有劳动和经济资本才是财富的来源（即接收者视角——Receiver Side）。E.P.Odum 和H.T.Odum 观点的通常理解是抛开生态系统的具体物质组成、结构特征和连接形式,把能量作为“无差别”的通用“货币”,使生命的与非生命的成分连接成为了一个通过能量执行生态功能、反映生态关系的功能性整体系统。在葛永林和徐正春[18]的文章中也提到了“在E.P.Odum把整个生物圈看作是一个最大的生态系统的基础上，‘盖娅理论'把整个生物圈看作了生命有机体：由所有生物与地球环境组成的整合的有机整体系统。它们相互调节、彼此适应、共同进化。‘活’的地球完全就是这些生物聚集在一块所表现出的社会、生物属性,以及无意识进化对环境影响的结果”。这也说明了从禀赋价值视角重新解读了社会经济系统，更深层次明确了“当前的”自然资产和生态服务实际是生态系统对资源使用的一种努力和结果,其“过去的”生态过程经历了长时间“试错和优化”。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相比较于其他环境核算方法,能值分析法具有较为明显的优点：它能够将所有不同类别的能量、资源、产品,甚至劳务和服务等这种不可比、难合算的项目换算为统一的量纲—“太阳能等效能量（太阳能值,solaremergy）”,这就为环境负载计算和环境经济绩效的评价提供了一种新的思路。这种合成性的方法是一种定量评估技术,用于确定非市场化和市场化资源、服务、商品和存储在以给定产品或服务所需的能值中的环境价值[12]。其次,能值理论是基于生物圈内物质和能量流动规律而建立的,该方法基于能量学原理[19],系统理论[20]和系统生态学[14],在反映自然资源和生态服务的真实价值上,能值更具有说服力。能值分析不仅是环境核算的重要方法,它对物质流动和能量传递的细致剖析,也使其成为系统分析和评价的重要工具。它允许量化支持每个流量或存储的环境工作量,从禀赋价值视角(donor side)来评估每个资源,而不仅仅是基于人类偏好和市场偶然性。简而言之,能量被定义为直接和间接支持过程并产生产出产品或服务所需的总可用能量（通常归一为太阳能等效焦耳,也有的相似研究归一为宇宙辐射[21）。所有可再生和不可再生、本地和进口的流入（物质、能量、劳动、金钱和信息)流入一个清单,并通过名为能值转换率(UEV:Unit Emergy Value）的转化系数将不直接来自太阳的流动能量转换成太阳能等效焦耳,对该过程产生的所有能量输入流进行统一核算,最后进行相关性能指标的计算。在评估经济体中,能源供应和经济绩效之间的关系由总能源使用量与国内生产总值(GDP)的比值来衡量,以 sej/货币单位表示。它表示创造一个货币财富单位所需的能值投资总量。在能值计算程序中使用该能值货币比,以将与劳动和服务相关联的资金投入转换为能量单位。能值理论与分析方法被认为是连接生态学和经济学的桥梁,它能够：(1)为各种生态经济系统各种生态流的综合分析开辟了定量研究新方法,提供了一个衡量和比较各种物质流、能量流、价值流的共同尺度;（2)可以衡量分析整个自然界和人类社会经济系统,定量分析资源环境与经济活动的真实价值以及它们之间的关系,有助于调整生态环境与经济发展,对自然资源的科学评价与合理利用、经济发展方针的制定,可持续发展战略的实施，均具有重要意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以,用生态热力学的方法重新理解自然资产及生态服务功能的产生,可以看出：太阳辐射、地月引力造成的潮汐能和深层地热是支持地球物质和能量循环、维持生物圈可持续发展的原始驱动力。通过循环过程，生态系统自发地保持自身远离热力学平衡状态。系统的循环允许能量、物质和信息的连续收敛和发散,以及高品质能量(如化石燃料)与低品质能量(如太阳能、地热能等)在汇集放大过程中的相互作用[22]。经济系统实际在这个过程中的作用是加速了能量的流动和释放了新的能力储存,例如将石油转化为电力和运输服务、将矿物质转化为基础设施和机械、又将电力、机械和生态服务转化为教育、娱乐、服务等。所以生态服务功能的热力学价值是实现了增强能量传输过程稳定性的“缓冲器”。为了防止或者延缓资源能源的衰竭,常用一些经济“贴现”反哺低品质能源,以确保能量基础的稳定性。例如,在砍伐后重新种植新的树木、焚烧秸秆并还田以维持土壤有机质与养分、循环可利用的材料等等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2基于生态热力学的生态服务功能核算方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态系统服务的定义随不同组织和研究人员[23-26]定义不同。一般的定义是,人们从生态系统中获得的益处。这种定义范围较广，即任何来自生态系统的益处均可认为是一种生态服务。“千年生态系统评估（MEA)”的2005年的报告指出,生态系统服务对人类社会和人类福祉是有稳定的作用[27]。虽然这种观点主要侧重于人类价值观和偏好(接收者视角),但是MEA研究人员提出的这一整套生态系统服务体系为进一步评估人与生物圈的相互作用提供了重要的起点。MEA文件列出了供应、调节、支持和文化功能这四种生态系统服务,这些类别涉及向人类提供产品、调节人类所依赖的生态系统、支持提供服务的系统以及增强人们的文化娱乐体验等：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)支持服务(生产所有其他生态系统服务所需的服务):包括土壤形成、养分循环、光合作用的初级生  \n产等；b)供应服务(从生态系统获得的产品)：包括食品、淡水、燃料木材、纤维、生物化学品、遗传资源等;c)调节服务(从生态系统过程的调节中获得的好处)：包括气候调节、疾病调节、水资源调节、水净化等;d)文化服务(从生态系统获得的非物质利益):包括精神和宗教、娱乐和生态旅游、美学、教育、感受、文化  \n遗产等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这4项服务是为人类社会提供切实利益的生态系统服务，但并且没有以某种方式支付，因此这些服务应该包括在现有的经济系统中。所以对生态系统服务功能的研究不应仅考虑“替代价格”而应该考虑“生态价格”的概念。生态价格是对生态系统服务对社会的总体效益的核算。能值分析是通过单位价值能源消耗量（即国家消耗能值总量与国民生产总值之比),将生态系统服务的能值转换为货币,可以得到生态价格的核算值。能值分析认为一个区域的GDP 产生是本地的各种可更新、不可更新、进出口产品和服务共同作用的结果,借助太阳能值对区域所有投入的统一核算,可以将生态系统服务功能和整体经济系统纳入到一个完整的核算体系中,可以用能量单位或者货币单位平衡的比较生态服务功能与总体经济价值,不会产生估值过大的问题(如货币化评估常常过高的估计森林的价值)。生态价格是从禀赋价值的角度更准确地评估生态系统服务所需要的能量(即从同一片土地提供的多种生态系统),而不是传统的支付意愿方法对所有价值的简单“堆叠”,这涉及到生态系统服务功能评估中的“分裂”原则[28]。能值方法协调了生态系统为人们提供的生物物理现实,即为人类提供的生态系统服务的价值。将生态系统服务纳入经济系统进行统一核算是至关重要的，这是因为如果还是从经济补贴的角度来考虑生态系统服务,那么在生态系统服务的降低变得限制经济活动之前,是不会感觉到这种稀缺性的增加,这时,对自然资本修复性的投入成本将会远远超过生态服务功能降低前的维护性投入。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "譬如在 Brown 和Campbell[29]对美国森林生态系统服务功能的计算中可以初步的比较基于能值、能值转换成的\"生态价值”以及用货币方法计算出的服务功能的差别(表1)。表中可以看出,他们计算的森林的生态价值是市场价值的8.2倍,最大的价值提供是娱乐活动(生态价值排序第一)而不是水资源供给（市场价值排序第一）。而没有市场价值的生态服务功能的价值是523亿美元。 )",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6283e680c1d26496d9b021f0c3d9ed6977aeefaf33c1a15a4b073a306cae8e5c.jpg",
+        "table_caption": [
+            "表1能值、能值转换成的\"生态价值\"以及用货币方法计算美国森林的生态服务功能[29",
+            "Table1 Emergy，emdollar and economic value of services of the USFS system[29] "
+        ],
+        "table_footnote": [
+            "\\*生态价值的计算是通过前一列的能值量 $\\ \\cdot \\ x$ 能值货币比( $1 . 9 { \\times } 1 0 ^ { 1 2 } \\ \\mathrm { s e j / \\ s }$ ),这个值是全美能值货币比的平均值。“N/A\"指缺乏数据导致的只列出计算公式，没有给出计算数值；“一”指没有考虑该项"
+        ],
+        "table_body": "<html><body><table><tr><td>森林的生态服务功能 Ecological Services of the USFS system</td><td>能值价值 Emergy Value/(1021 sej)</td><td>生态价值* Emdollars/(10°em $)</td><td colspan=\"2\"></td><td colspan=\"2\">市场(货币)价值 Dollar Value/(10$)</td></tr><tr><td>拥有市场价值的生态服务功能 Services with market value</td><td>C</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>科学研究Research</td><td>0.2</td><td>0.1</td><td>排序9</td><td>0.02</td><td></td><td>排序10</td></tr><tr><td>娱乐活动 Organized recreation</td><td>2 535.4</td><td>1 334.0</td><td>排序1</td><td></td><td>9.2</td><td>排序4</td></tr><tr><td>木材产品的销售等 Sales，permits and concessions</td><td>5.9</td><td>3.1</td><td></td><td>排序5</td><td>3.1</td><td>排序5</td></tr><tr><td>水电开发 Hydroelectric energy</td><td></td><td>32</td><td></td><td>排序3</td><td>11.2</td><td>排序3</td></tr><tr><td>水资源供给 Water supply</td><td>60.7</td><td></td><td></td><td>排序2</td><td>127.1</td><td></td></tr><tr><td>碳储存 Carbon storage</td><td></td><td>101.7 2.4</td><td>53.6 1.3</td><td>排序7</td><td>1.4</td><td>排序1 排序7</td></tr><tr><td>水源地保护Watershed protection</td><td></td><td></td><td>2</td><td>排序6</td><td></td><td></td></tr><tr><td>狩猎 Wildlife hunting</td><td>3.8</td><td></td><td>22.6</td><td>排序4</td><td>19.9</td><td>排序2</td></tr><tr><td>捕捞鱼Fish harvest</td><td>42.8</td><td></td><td>0.9</td><td>排序8</td><td>2.9</td><td>排序6</td></tr><tr><td>观赏野生动物 Wildlife watching</td><td>1.7</td><td></td><td></td><td>排序10</td><td>1.3</td><td>排序8</td></tr><tr><td>每年总的市场价值 Total market services per year</td><td>0.1</td><td>0.1</td><td>1449.7</td><td></td><td>0.8 176.9</td><td>排序9</td></tr><tr><td>不拥有市场价值的生态服务功能 Non-market services</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>净化空气 Clean air</td><td>13.2</td><td></td><td>6.9</td><td></td><td></td><td></td></tr><tr><td>净化水 Clean water</td><td>81.1</td><td></td><td>42.7</td><td></td><td></td><td></td></tr><tr><td>授粉 Pollination</td><td>N/A</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>种子散播 Seed dispersal</td><td></td><td>N/A</td><td></td><td></td><td></td><td></td></tr><tr><td>食肉-食草动物平衡 Predator control</td><td></td><td>N/A</td><td></td><td></td><td></td><td></td></tr><tr><td>总初级生产力 Gross primary productivity</td><td></td><td>2.4</td><td>1.3</td><td></td><td></td><td></td></tr><tr><td>净初级生产力 Net primary productivity</td><td></td><td>1</td><td>0.5</td><td></td><td></td><td></td></tr><tr><td>呼吸效应 Total respiration</td><td></td><td>1.4</td><td>0.8</td><td></td><td></td><td></td></tr><tr><td>科学情报 Scientific information</td><td></td><td>0.3</td><td>0.1</td><td></td><td></td><td></td></tr><tr><td>每年总的非市场价值 Total non-market services per year</td><td></td><td>52.3</td><td>0</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当前已有不少能值研究针对不同生态系统服务开发了相应的核算方法。这里我们提出使用能值方法进行生态系统服务功能核算的6个步骤：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)采用最新的能值基准对研究区域进行能值核算,这是获得将使用当地货币核算文化服务类功能所需能值货币比系数的重要步骤。(2)对研究区域的生态资本进行核算,该步骤主要是核算产品类供给服务。(3)通过开发区域系统不同生态服务功能的微观模型来确定产生每个关键生态系统服务过程中所需的能值,识别在每个生产过程中的能值投入情况。该步骤主要用于核算支持服务和调节服务。 1(4)通过评估现有市场直接或间接为自然服务支付的货币金额,例如暴雨容纳费用、碳储存在碳市场中的价格、流域保护的费用、空气/水中污染物处置的费用等,这种替代价格或者影子价格的方法可以量化一系列生态价值,相对于计算出与提供的服务相关联的能量的量。然后借助步骤一的数据,进行文化服务类生态系统服务功能核算。每种生态系统服务的货币价值范围将通过将服务的能量流量乘以一系列具体的能源与货币比来获得。（5)将生态系统服务价值集成到研究区域现有的社会经济系统中。(6)研究结果将被开发为标准电子表格,评估人员可以利用该工具进行生态系统服务功能评估验证与比较。以2005 年计算美国森林系统的生态服务功能为例进行说明（表2）,研究发现,那些远离市场定价的自然资本和生态系统服务功能的生态价值与市场价值差异更大。在有市场的服务功能（如供应服务）,生态价值和市场价值更紧密的一致,除了水资源供应（这种由森林提供的服务对于社会通过基础设施复制而言是昂贵的）。矿石和化石燃料的生态价值约为货币价值的 $3 0 { \\ - } - 6 0$ 倍,巨大的差异反映了社会从价格低廉的矿物和燃料中获得巨大的利益。没有市场定价的服务功能的生态价值明显高于市场价值,如净化空气,这可能会随着人们对大气污染的敏感程度提高而变化。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b25f2c144d5c16e16a1bf0244149d053eb432829e131c39ccebad6914457da5.jpg",
+        "table_caption": [
+            "表2美国森林生态服务功能的能值、生态价值以及市场价值(2005年)",
+            "Table 2Emergy，emdollar，and economic value of services of the National Forest System（2005 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号 Note</td><td>生态同服务功能 Ecological Services</td><td>能值 Emergy value/ (10²1 sej/a)</td><td>生态价值 Emdollars/(10Em $/a)</td><td>市场价值 Economic value/ (10$/a)</td></tr><tr><td colspan=\"5\">供应服务Provisioning services</td></tr><tr><td>1</td><td>捕捞鱼</td><td>0.2</td><td>0.1</td><td>1.3</td></tr><tr><td>2</td><td>打柴</td><td>0.4</td><td>0.2</td><td>0.1</td></tr><tr><td>3</td><td>捕获的野生动物</td><td>0.5</td><td>0.3</td><td>2.9</td></tr><tr><td>4</td><td>砍伐的木材</td><td>5.2</td><td>2.7</td><td>0.2</td></tr><tr><td>5</td><td>水资源供应</td><td>13.6</td><td>7.2</td><td>12.4</td></tr><tr><td>6</td><td>矿石开采</td><td>60.7</td><td>31.9</td><td>1.1</td></tr><tr><td></td><td>化石燃料开采</td><td>198.1</td><td>104.3</td><td>1.7</td></tr><tr><td colspan=\"5\">调节服务 Regulating services</td></tr><tr><td>8</td><td>碳汇</td><td>6.6</td><td>3.5</td><td>0.4</td></tr><tr><td>9</td><td>净化空气</td><td>23.7</td><td>12.5</td><td>3.3</td></tr><tr><td>10</td><td>净化水</td><td>19.9</td><td>10.5</td><td>1</td></tr><tr><td colspan=\"5\">支持服务 Supporting services</td></tr><tr><td>11</td><td>总初级生产力</td><td>16.6</td><td>8.7</td><td>36.8</td></tr><tr><td colspan=\"5\">文化服务 Cultural services</td></tr><tr><td>12</td><td>娱乐活动</td><td>24</td><td>12.6</td><td>9.2</td></tr><tr><td>13</td><td>科学信息</td><td>4.6</td><td>2.4</td><td>0.2</td></tr><tr><td colspan=\"5\">年均生态系统服务功能总量 Total ecosystem services/year</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3对能值方法的批评与近期的改进",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与大多数其他生物物理环境核算方法一样,能值这种运用统一单位进行系统性计量方法的关键是生态资产存量的准确性和能值转换率(UEV)的可靠性。这些观点构成了早期能值研究者与传统经济学家之间针对生态经济学、生态热力学和不确定性之间的争论[30-33]。大多数的问题已经在过去的十年中得到的解决和回答。但是问题的提出仍然是必要的,也促进了这种基于生态热力学方法的进一步改进。而且,正如Hau 和Bakshi[31]所提出的,很多的问题,如不确定性、所选取指标的敏感性、量化方法学的选择等,这些批评同样适用于经济学方法及这种类似的基于整体论的方法学(如生命周期评价、物质流分析、可用能分析等)，这就需要这些相关领域的研究者共同的努力来进行方法的改进。下面我们选择了一些针对生态系统服务功能的非价值量核算方面的核心问题进行论述。 5",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1能值基准的不断更新夯实了生态系统服务功能非价值量核算的基础",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "驱动地理生物圈（geobiosphere,Brown 和 Ulgiati 定义 geobiosphere 的系统边界是地表上下各 $\\mathrm { { 1 k m } }$ ;时间范围是1a)的主要能值流对能值核算方法来说很重要,因为它们是其他流的参照,是建立UEVs计算表格的基准[34]。这个基准的雏形可以追溯到20世纪70年代初,当时只包含了驱动地球生态系统的太阳能;之后在90年代中期,Odum将潮汐动力与地热能也纳入核算,将它们转化为等量太阳能值,从而得出地理生物圈的基准值为 $9 . 4 4 \\times 1 0 ^ { 2 4 } \\ \\mathrm { s e J / a }$ 。随后伴随着能值分析的不断发展成熟,出现了不同的地理生物圈能值基准[15]。在2000 年,利用更好的数据， $\\mathrm { { 0 d u m } }$ 在考虑了地球运动的能量吸收后，将1996年的计算值从 $9 . 4 4 \\times 1 0 ^ { 2 4 } ~ \\mathrm { { s e J / a } }$ 修正到 $1 5 . 8 3 \\times 1 0 ^ { 2 4 } \\mathrm { ~ s e J } / \\mathrm { a } ^ { [ 3 5 ] }$ 。因而,为了保证能值计算的精确性和严谨性,在能值核算中需要明确所采用的能值基准值,因为它和能值转换率息息相关,是能值转换率计算的前提条件。所以如果采用Odum修正的能值基准值,那么参考的2000 年以前的能值转换率的值就要相应地乘以转换系数 $1 . 6 8 ( 1 5 . 8 3 \\times 1 0 ^ { 2 4 } \\ \\mathrm { s e J / a }$ 与 $9 . 4 4 \\times$ $1 0 ^ { 2 4 } \\mathrm { ~ s e J / a ~ }$ 的比值)。另有Campbell在2000 年在重新计算了潮汐能之后采纳 $9 . 2 6 \\times 1 0 ^ { 2 4 }$ seJ/yr作为能值基准值[36]。2010年,Brown 和Ulgiati利用卫星测绘等更为先进的技术手段所得的数据,依照1996 年Odum 对能值的定义重新计算了全球烟(烟即可用能)流值;并采用蒙特卡洛模拟,考虑了来源于地球地热能的不确定性（总量和在地幔、地壳间的分布)[34]。结果得出能值转换率的能值基准约为 $1 5 . 2 0 \\times 1 0 ^ { 2 4 } \\ \\mathrm { s e J / a }$ 。蒙特卡洛模拟也是一种应对能值分析不确定性的一种方法。除了值有变化外,能值基准的名称也有若干种不同的叫法，Brown 等[37将驱动地理生物圈的可得太阳辐射能、地热源和潮汐动力合称为地理生物圈能值基准（geobiosphere emergy baseline，GEB）。2016年,Brown 和Ulgiati[38];Campbel[39]均又发表了最近计算的结果，分别是 $1 2 . 1 \\times 1 0 ^ { 2 4 }$ seJ/a 和 11 $\\phantom { 0 } { . 6 } \\times 1 0 ^ { 2 4 }$ seJ/a,两个值很接近,且平均值为 $1 1 . 9 { \\times } 1 0 ^ { 2 4 } \\ \\mathrm { s e J / a }$ ,若考虑可接受程度的不确定性,则可定为 $1 2 . 0 { \\times } 1 0 ^ { 2 4 } \\ \\mathrm { s e J / a }$ （表3）。这个值可以被命名为GEB2016,因为未来仍有修订的空间,会出现新的GEB值",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/315b43626f5194f95faa65597194d417e2955721f458ee9a7041650e183be8fb.jpg",
+        "table_caption": [
+            "表3能值基准值组成及三次计算结果比较[38",
+            "Table 3Annual Emergy Contributions to Global Processes[38 "
+        ],
+        "table_footnote": [
+            "a在以往的研究中,使用的是UEV,但Brown和Ugiat[38]提出更合适的术语—等量太阳能比率(solareqivalence raio,SER);b类似地,在以往的研究中,使用的是Empower来表示每种源的入流,但Brown和Ulgiat[38提出更适宜的术语应该是等量太阳能烟值（solar equivalen exergy）；c括号内数字表示标准差."
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">入流</td><td colspan=\"3\">Odum（2000)的结果[35]</td><td colspan=\"3\">Brown 和Ulgiati（2010)的结果[34]</td><td colspan=\"3\">Brown 和 Ulgiati（2016)的结果[38]</td></tr><tr><td>能量 Energy</td><td>能值转换率 UEVa/</td><td>能值密度 Empowerb/</td><td>烟 Exergy</td><td>能值转换率 UEVa/</td><td>能值密度 Empowerb/ (x1024 seJ/a)</td><td>烟 Exergy</td><td>等量太阳 能比率 seR)</td><td>等量太阳能烟值 Solar equivalent (x1020s/y)</td></tr><tr><td></td><td></td><td>(seJ/J)</td><td>(×1024 seJ/a)</td><td></td><td>(seJ/J)</td><td></td><td></td><td></td><td></td></tr><tr><td>吸收的太阳能 Solar Insolation</td><td>3.93×1024</td><td>1</td><td>3.93</td><td>3.59×1024</td><td>1</td><td>3.6</td><td>3.60×1024</td><td>1</td><td>3.6</td></tr><tr><td>地热 Deep earth heat</td><td>6.72×1020</td><td>12000</td><td>8.06</td><td>1.63×1020</td><td>20300</td><td>3.3</td><td>9.78×1020</td><td>5500 (985)</td><td>5.4 (0.95)</td></tr><tr><td>潮汐能 Tidal energy</td><td>5.20×1019</td><td>73700</td><td>3.83</td><td>1.17×1021</td><td>72400</td><td>8.3</td><td>1.17×1020</td><td>26300 （3800)</td><td>3.1 (0.44)</td></tr><tr><td>加和 Total</td><td></td><td>15.83</td><td></td><td></td><td>15.2</td><td></td><td></td><td>12.1 (1.51)</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "能值基准的单位中的字母J是大写的,原因是潮汐动力、地热能与太阳辐射能本质是不同的,所以能值基准的量度是等量太阳能焦耳（solar equivalent joules，seJ),而不是太阳能值的单位太阳能焦耳（solar emjoules，sej）[39]。无论采用哪个能值基准,它正如英文名称\"baseline”,是一个基础基准参照值;Odum 在他的书中[12]也写到,基准值究竟是多少并没有那么重要,因为能值分析的结果和给定的基准相关,也就意味着可以用系数进行转换;Ulgiati教授曾将能值基准比喻为地理学中海拔的概念[40]。不过在研究中仍需要选定一种并注意甄别所参考的文献中的能值基准值。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在各个学科领域中基础常数和标准并不总是恒定不变的,会随着新的知识而更新;如果能值研究者都能参照一个统一的基准值,那么应用能值方法的研究产出将更容易进行相互比较[37]。这是 Brown、Campbell、Ulgiati 等能值研究者在 2016年对能值基准作出重要更新的初衷,这接近二十年的能值基准不断更新的过程体现了几代能值研究者对科学的执着与严谨。 2",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2已有大量能值分析在生态资产和生态服务功能应用案例可为今后的研究提供方法参照和比较的可能",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "国内外能值研究在近十几年来日新月异,研究者进行了能值理论[41]、方法[42-45]、基准[12.34-35,38-39]、算法[46-49]、动力学[50-53]、不确定性[54-56]等研究;也有学者将能值应用在不同尺度的生态经济系统结构、功能分析,如城市或区域生态系统[57-67]、农业生态系统[68-71]、生态工业园[72-73]、自然保护区[74]、旅游业[75]以及国家尺度[76-79]等;在能值与其他方法技术的比较与结合上,能值分析与生命周期评价（LCA）[80-83]、生态足迹[84]、地理信息系统[85-86]得到了较多的关注;此外,能值分析的研究对象还涉及废弃物处理[87]、建筑物[8-89]、生态系统服务功能[90-95]等。在国家层面上, $\\mathrm { { O d u m } ^ { [ 9 6 ] } }$ 首先对美国、瑞士等很多国家进行了能值分析,而后意大利（1994）、中国(1994)等很多国家的学者也陆续开展了各国的能值分析。2002年,佛罗里达大学 Brown 教授发布了其计算的134个国家的能值评价结论（2000 年数据),为区域层面的能值研究奠定了重要的基础,也为全球生态系统服务功能的能值评估提供了可在全球尺度比较的参照值。之后在2011年刘耕源与 Brown 教授一起更新了2004、2008 年的世界各国能值核算数据。创新地针对可更新能源计算、农产品、进出口产品等进行模型修改和重新计算,并更新了最新的能值转换率数值,使结果的准确性提升。最终形成国家环境核算基础数据库(National Environmental Accounting Database 2.0)并发布在网站 http://www.cep.ees.ufl.edu/nead/供世界能值研究者使用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "依照研究对象隶属于不同的系统类型,能值理论的研究领域划分以下几类（表4）,分别为：自然环境系统、农业系统、环境治理工程、区域经济系统等。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a80fbab6c4db04786191ff3d5a6b8f4906b33ad078bd37496d5f18877fe8fe9.jpg",
+        "table_caption": [
+            "表4能值分析方法现有的研究领域",
+            "Table 4The existing research areas of Emergy analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>系统 System</td><td>组成Composition</td><td>结构 Structure</td><td>功能Function</td><td>核心内容Contents</td></tr><tr><td>自然系统 Ecosystem</td><td>矿物、水、气、土地、生物、 地球作用、生态服务功 能、生态损害</td><td>物质流、生物流、能量流</td><td>供给、消纳、缓冲等生态 服务功能</td><td>生态资本的物质循环与能 量流动</td></tr><tr><td>经济系统 Economic system</td><td>生产者、消费者、还原者、 污染造成的经济损害、 经济</td><td>物质流、能量流、资金流</td><td>生产、流通、消费、还原、 调控</td><td>经济活动对生态资本的消 耗及环境损害</td></tr><tr><td>社会系</td><td>害、文化、人群健康</td><td>人口流、信息流</td><td>蕴育、支持、管理、调控</td><td>劳力与服务、人群健康对污</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3生态服务功能价值量和非价值量的差异的根源在于从人类中心论到生态中心论的环境伦理观的转移",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "现今越来越多的人们意识到人类中心主义是引发并导致环境破坏的重要原因,森林的退化就是一个例子。人类中心论可以给出人们之所以伐木的若干种原因;赚钱获利、建造房屋等,与此同时却忽视或不顾及林木本身固有的价值和所能提供的生态服务(影响水循环、稳定土壤性质、维护生物多样性等)。由此,不但生境遭破坏,其他更大尺度上的对人类的生态挑战也会逐渐显现[78]。可喜的是,许多和环境保护相关的观念日益涌现来遏制人类中心主义占据主导。这些观念主要聚焦于人类作为环境管理者的角色，而这源于生态中心",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "主义[97] 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "这种管理的角色并不对人类自身特别对待,而是同样注重全球环境中的其他生物。这种角色对人类来讲也很特殊。但问题在于人类拥有能改变环境的能力,或许这种改变会是极具破坏性的,因为人类能在一定程度上拥有控制自然中的其他生物的能力。但这种能力绝不能让人类产生可以驾驭自然界中一切的这种想法;应该提倡的是,人类同自然和谐互动从而促进自然界生物之间维系良好的状态[78]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "区域可持续发展争论已久。环保学者和生态经济学家形成了一个普遍的共识,即经济增长会被“环境的再生能力和吸收能力\"所限,是有极限的。Liu等[98]提出可持续发展的内在矛盾,可归纳如下：“可持续”暗示了能源和资源的全球平均，“发展”暗示了生产和消费的持续增长。任何现实主义的可持续发展定义都应该是减少而不是增加资源的开采和使用,这才是唯一可以使全球平均消费和扩张率下降的方法。这也是我们为什么要越来越强调资源的稀缺性的原因。任何社会经济生态系统,最终的可持续表现都在于促进人群福祉、政治的公正以及长期的生态平衡等。 C/y",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Stewardship一词有哲学观念,尤其是伦理道德层面的含义。它同样也被用来呼呼人们对环境伦理的关注。依照以生态为中心的观念,人类应该作为生态系统的守护者。能值反对人类中心这种观念,而将人类只是看做整体自然中的一部分,反映了从人类中心主义向生态中心主义的变迁[98]。能值的生态哲学是一种整体论的观念,即生态系统各组成部分相互作用使整体所具有的结构功能要复杂于各组成部分的单纯组合。原文的论述是，“组织层次的一个重要意义是组分或者子集合可以联合起来产生更大的功能整体，从而突现新的功能特性,这些特性在较低层次是不存在的。因此,每个生态层次或者单元上的涌现性,是无法通过研究层次或单元的组分来预测的。这个概念的另一种表述是不可还原性,也就是说,整体的特征不能还原成组分特性的综合”[18]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4从生态热力学的视角研究生态服务功能为从能量的角度提出环境税确立了可能性",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Bimonte 和Ulgiati[9指出存在“新的稀缺性”,即生态支持系统的重要组成部分越来越不够用。环境作为主要资源的来源和作为废物的汇的能力不像过去那样是无限的。如果仅考虑进行资源开发而不关心其对环境完整性的影响,退化的生态系统越来越无法提供基本的生态服务（水循环、光合作用、对生物多样性的支持等)和资源产品（木材、食品、淡水等)。因此,Bimonte 和 Ulgiati99]提出了一种基于Odum 的能值方法的税收工具,指出当前基于货币化服务功能核算的环境政策和税收计划只专注于对人群收益和损害的部分,并不考虑对整体生态环境的贡献和对全球的影响。例如,当前设置碳税的目的是减少二氧化碳排放以实现防止全球变暖,但是大气温度的变化不仅仅对经济系统这个单一参数产生影响,最核心的是会造成整个生态环境完整性的破坏。而如果目的是解决生产基础的问题,那么不能简单的通过限制给定的资源使用来实现。这正如Odum[12]所指出的：“如果从提高效率的意义上说,节约能源是有益的。但是这种建立在限制燃料使用上的“节约”的经济体往往会降低其经济竞争力。征收燃料税有时可以作为节约能源的奖励措施,但限制燃料对经济产生负面的放大效应，可能会大于效率的提高”。所以我们设置环境税的目的如果放大到实现整体生态环境的完整性,那么这种税收政策将注重生态生产过程(生态服务功能)与使用过程(经济过程)的整体绩效，而不仅仅是考虑单一资源效率或者排放量。例如 Bimonte 和 Ulgiati 在他们的文章中提出建议根据能值可持续发展指数（Environmental Sustainable Index, $\\mathrm { E S I } ^ { [ 1 0 0 ] }$ )来建立面向环境完整性的税收体系。能值可持续发展指数(ESI)既考虑了经济优势(基于能值产出率EYR来衡量能值投资回报率),又考虑了环境负荷(由环境承载力ELR表示)。而ESI正是EYR和ELR的比。而基于ESI的环境税收策略是用于惩罚那些较少使用对环境无害技术或较少使用可再生资源的发展方式。这种税收是将维持经济活动的生态环境作为一种“基金”而不是“股票”,环境税的目的是通过税收恢复其维持经济系统发展的能力,保持这种“基金”不变。这种说法类似于 Bames 提出的通过将所有利益相关者返还给他们所拥有的财富的一小部分来回报所有利益相关者的想法,原则上适用于当前的自由市场体系[101]。这种方式可以实现以下3种效果:1)对整个区域的生态服务功能及经济投入进行统一而全面的评估,并以此为基础实施环境政策;2)税收的目的为恢复或维持生态环境，这不仅是维持生态环境能为人类经济活动提供什么样的支持活动,而是为了整体的环境完整性保护和恢复;3)由于税收的目的不仅是限制经济系统单一资源效率或者排放量,也是增加和修复生态资产提升服务功能，这种向生态环境“基金”的投资将极大的减缓其折旧率。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究梳理了基于生态热力学的生态系统服务功能非价值量核算的理论基础、方法框架及这种方法对发展与展望,可以总结出生态系统服务功能非价值量核算方法的两大特点：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1)这种方法对与资本(存量)与服务(流量)的核算不是基于人类偏好而估价的,而是根据在划定的时空尺度下对生态经济系统的环境支持的需求来估价的。这样就使得我们应该着重对那些需要空间尺度大、积累时间长、用尽后难以找到替换资源的投入予以更科学的核算。但这部分的投入由于低品质、分散化的特点又很少被市场动态“定价”或者说根本就没有“上市”,但是这部分又是至关重要的,它们反映了生物圈的价值。2)能值方法将生态系统和经济系统联系在一起的价值在于体现“反馈控制”的生态内涵。即更加公平的生态资本定价及通过环境税对自然资本的修复,这种涵盖了自然系统的\"反馈控制\"在常规经济系统的动态价格市场中是不被考虑的。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "这里还需要补充的是使用能值方法可以确定生态资本、服务功能的“生物圈价值”,这种价值实际是对现有的货币价值评估有很好的补充作用。所以在当前对于生态资产和生态系统服务的核算手段缺乏的情况下，建议采用双重核算方法,即类似于金融会计中使用的方法一样,用能量来记录环境负债,并建立一个货币化的资产负债表说明经济情况及环境对经济生产的贡献。正如 Bames 所说,现在需要建立一套被其成为“市场经济3.0”的全新的金融体系,实现包括自然的所有“利益相关者\"的财富回归[102]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]G6ez-BeE,eotomsPtesCTetofossteiioctodpractice:frarlyotiostmarkets and payment schemes. Ecological Economics，2010,69(6): 1209-1218.  \n[2]Solow RM.Acontribution to the theoryofeconomic growth.The QuarterlyJournalof Economics，1956,7O(1）:65-94.  \n[3] Georgescu-Roegen N.TheEntropyLawand the Economic Process.Cambridge，MA：Harvard University Press，1971:1-476.  \n[4] Odum H T. Environment,Power and Society.New York:John Wiley，1971: 1-336.  \n[5] DalyH,FarleyJ.Ecological Economics：Principlesand Applications.Washington,DC：Island Press,2004.  \n[6] Georgescu-Roegen N. Energy and economic myths.Southern Economic Journal,1975,41(3）: 347-381.  \n[7] Costanza R.What is ecological economics? Ecological Economics，1989,1(1）：1-7.  \n[8] Martinez-AlierJ.EcologicalEconomics：Energy，Environmentand Society.Oxford，England；Basil Blackwell，1990.  \n[9] Paterson M.Commensurationandtheoriesofvalueinecological economics.Ecological Economics，1998,25（1）：105-125.  \n[10] Faber M. How to be an ecological economist. Ecological Economics,20o8,66(1）：1-7.  \n[11] OdumHT.Self-organization,transformity，and information.Science，1988,242(4882）:1132-1139.  \n[12] Odum HT.Environmental Accounting:Emergy and Environmental Decision Making.New York:John Wiley&Sons，1996.  \n[13] Odum HT.Ecologicaland General Systems:An Introductionto Systems Ecology.Niwot： UniversityPressofColorado，1994.  \n[14] Odum H T.Emergy and Policy. Gainesville：University of Florida,1994：25-29.  \n[15] BrowMT,UgiatiSEergalysisdviroentalaccouting//eveland,d.EncyclopiaofEnergOxford,UKcadecrs，Elsevier，2004，329-354.  \n[16] 吕翠美.区域水资源生态经济价值的能值研究[D].郑州：郑州大学，2009.  \n[17] 蓝盛芳，钦佩，陆宏芳.生态经济系统能值分析.北京：化学工业出版社，2002.  \n[18] 葛永林，徐正春.奥德姆的生态思想是整体论吗?生态学报，2014，34（15)：4151-4159.  \n[19] LotkaAJ.CotbtoergeisofeoutioroceingsofteatioalAcadeyofecsofUnitedatesfmeca9(6) : 147-151.  \n[20] von Bertalanffy L.General Systems Theory.3rd ed.New York：Braziller,1968.  \n[21]Chen G Q.Exergy consumption of the earth.Ecological Modeling，2005，184(2/4）：363-380.  \n[22]Brown MT,Ulgiati S.Emergyevaluation of the biosphere and natural capital.Ambio，1999,28(6):46-493.  \n23]Farberioocdaleptsgoolcalois392.  \n24]BoydJafateossercdfoadadedtalotiitsEolcalocs6（/3) : 616-626.  \n[25]U.S.EviroentalProteioAgcUSitigatiobaningfacshe（）tp://epagwasfactsfacthtml.  \n[26]U.S.DeparentofAgriculure，ForestServiceUSDAS].Vagosteservices：capturinteuevaueofatue’apia7.(2010-10-14). htp://www.fs.fed.us/ecosystemservices/pdf/ecosystem-services.pdf.  \n[27]MEA.Milennium Ecosystem Assessment.Ecosystemsand Human Wellbeing:Synthesis.Washington，DC:IandPress，2005.  \n[28]CarollJC，GoblerCJ，PetersonB.Resource limitationofeelgrassiNewYorkestuaries:ight limitationandnutrientstre salleviationbyhardclams.Marine Ecology Progress Series，2008，369：39-50.  \n[29]Brown M T,Campbell E.Natural capital and environmental services of the U.S.national forest rgysynthe FinalReport.Gainesville：Center for Environmental Policy，University of Florida，20O7，176.htp://www.cep.e .ufl. edu/emer gy/doe ments/publications/BrownCampbell_2007_NatCapEnvServ-USFS-FinalReport.pdf.  \n[30]Mansson BA,McGladeJM.Ecology,thermodynamicsand H.T.Odum'sconjectures.Oecologia,1993,93(4)：582-596.  \n[31]Hau JL,Bakshi B R.Promise and problems of emergy analysis.Ecological Modeling，2004,178(1/2):215-225.  \n[32]ClevelandCJ. Energyquality//Cleveland CJ,ed.Encyclopedia of Earth.2008.http:/ earth.org/article/Energy_quality.  \n[33]Ingwersen WW.Uncertaintycharacterizationformergyvalues.EcologicalModellng，2010,221（3）:445-452.  \n[34]Brown M T，Ulgiati S.Updated evaluation of exergy and emergy driving tl eobiosp view and refinement of the emergy baseline.Ecological Modelling，2010,221（20）：2501-2508.  \n[35]Odum HT.Energy，Hierarchy and Money[D]. Toronto,Can Interr ofs Sciences Meeting，2000：1-13.  \n[36]CampbellD E. Proposal for including what is valuable to ecosystems in environmental ass essments.Environmental Science & Technology，2001，35(14): 2867-2873.  \n[37]BroambellD,DVC，Ugatigeobospeselietolgcalelin，995.  \n8]roatisthasdeiolal,339:126-132.  \n[39]Campbell D E.Emergy baseline for the Earth： storical review of the science and a new calculation.Ecological Modelling，2016,339：96-125.  \n40]UlgiatiS，gstiFsteEaca.itefualieentfuerues//rfthe 6th Biennial Emergy Evaluation and Research Conference.Gainesville：University of Florida,2010.  \n[41]AmaralL,artisGouveiaJBrevefemeroyitsalicatioandlatestdeveoentsReneablendSustaableEgyReviews, 2016,54: 882-888.  \n[42]BronMT,HerendenRAEmbodiedenergyanalysisandEMERGYanalysis:aomparativeviewEcologicalEcoomics，996，9（3）：219-235.  \n[43］董孝斌，严茂超，董云，杨凌志，张玉芳，张新时.基于能值的内蒙古生态经济系统分析与可持续发展战略研究.地理科学进展，2007,26(3) : 47-57.  \n[44]LiuGYangZF,Su，hen.heructurevoutdustaabityfbanoiocste.EcolgcalIfoatis10: 2-9Liu GY，YangZF，ChenB.Emergy-basedurbandynamicmodelingoflong-runresourceconsumption，conomicgrowthandenviroentalimpact:co eptual considerations and calibration.Procedia Environmental Sciences,2012,13：1179-1188.LeCorreO,TrufeLEtsoputationfroitcoctedersstmdagram.Ecologialodeling15,.Tiruta-BarnaL，BenetoE.Aconceptualframeworkandinterpretationofergyalgebra.EcologicalEgineering，O13,：90-298.LeCoeO,TufetLlouCuenbarowcalcuussergdcmealysisEogicaldeling9-12.  \n[49]Tennenbaum SE. Emergy and co-emergy. Ecological Modelling，2015，315:116-134.  \n[50TilalleEcological Modelling，2006，192(3/4）：327-361.  \n[51]Tilley DR. Dynamic accounting of emergy cycling. Ecological Modeling,2011，22（(20/22）: 3734-3742.  \n[52]TilyDasfoitaiseatedtaiowrfprovdieldtiatiosologcaldeling596.  \n[53]ZarbaL，Brown MT.Cycling emergy：computing emergy introphic networks.Ecological Modeling，2015,315：37-45.  \n[54]RezaB，adiq，geK.Afuoachfoacterztioceaisisalefadt.Journal of Cleaner Production，2013,59：99-110.  \n[55]Hudsoletofeatieaealulaoldel.  \n[56] YiH,BrahamWW.Uncertaintycharacterizationofbuildingemergyanalysis（BEmA).uildingandEnvironent，2Ol5,92：538-558.  \n[57] 隋春花，蓝盛芳.广州城市生态系统能值分析研究.重庆环境科学，2001，23(5）：4-6,23.  \n[58] 刘耕源，杨志峰，陈彬，张妍，张力小.基于能值分析的城市生态系统健康评价——以包头市为例.生态学报，2008，28（4)：1720-1728  \n[59] 张力小，杨志峰，陈彬，刘耕源，梁竞.基于生物物理视角的城市生态竞争力.生态学报，2008，28（9)：4344-4351.  \n[60] Ascione M,CampanellL,CherubiniF,UlgiatiS.Environentaldrivingforcesofurbangrowthnddevelopment：anemergy-based ssmentthe city of Rome，Italy.Landscape and Urban Planning,2009,93(3/4）：238-249.  \n[61]CampbellDE，GarmestaniAS.AnenergysystemsvieofsustainabilityeergyevalutiooftheSanLuisBasin，ColoradoJoualfEnvironmental Management，2012,95(1)：72-97.  \n[62]Liu GY,Yang ZF,Chen B,Ulgiati S.Emergy-basedurban health evaluationand development patern analysis.Eco I Modelling，2009,220(18):2291-2301.  \n[63]LiuGYngZBagLdeliodcdoaiefefobalitopoiand ecological losses into emergy analysis.Ecological Modelling，2013,252：280-287.  \n[64]Liu G Y，Yang Z F， Chen B,Ulgiati S.Emergy-based dynamic mechanisms of urban developmen source consumption and environmentalimpacts.Ecological Modelling，2014,271：90-102.  \n[65] 刘耕源，杨志峰，陈彬.基于能值分析方法的城市代谢过程研究一 -理论与方法. ，2013 33(15) : 4539-4551.  \n[66] 刘耕源，杨志峰，陈彬.基于能值分析方法的城市代谢过程——案例研究.生态学报，2013，33（16）：5078-5089.  \n[67] 李金平，陈飞鹏，王志石.城市环境经济能值综合和可持续性分析.生态学报，2006，26(2)：439-448.  \n[68] RydbergT,HadenACEmergevaatiosofarkandnishagcultureaessgteifueneofhangingresouceavailabiltytorganization of agriculture and society.Agriculture,Ecosystems & Environment，2006,117(2/3）:145-158.  \n[69] 王建源，薛德强，田晓萍，陈艳春．山东省农业生态系统能值分析.生态学杂志，2007，26(5)：718-722.  \n[70] 杨松，孙凡，刘伯云，杜洋文，李霞.重庆市农业生态经济系统能值分析.西南大学学报：自然科学版，2007，29（8）：49-54.  \n[71] 王闰平，荣湘民．山西省农业生态经济系统能值分析.应用生态学报，2008，19（10)：2259-2264.  \n[72] 王灵梅，张金屯.火电厂生态工业园的能值评估.应用生态学报，2004，15(6)：1047-1050.  \n[73] GengY，SarkisJ，UlgiatiS，ZhangP.Environmentanddevelopment.MeasuringChina'scirculareconomy.Science，2013，9（6127）:1526-1527.  \n[74] 李洪波，李海燕.武夷山自然保护区生态旅游系统能值分析.生态学报，2009，29（11)：5869-5876.  \n[75]Lei K P,Liu L,Hu D,Lou I. Mass and emergy analysis of the metabolism of Macao. Journal of Cleaner Production，2O16,114:160-170.  \n[76]李寒娥，蓝盛芳，陆宏芳.H.T.奥德姆与中国的能值研究.生态科学，2005,24（2)：182-187.  \n[77]OhnishiS,DongHJ，GengY，FujiM，FujitaT.Acomprehensiveevaluationonindustrial&urbansymbiosisbyombiningMFA，carbonfootprint and emergy method Case of Kawasaki, Japan.Ecological Indicators，2017,73：513-524.  \n[78]LiuXYLiuG，angZF，henB,UgiatiS.Coparigaiolevirontalandomicperfoanestoughergailitindicators:movingenvironmentalethicseyondanthropocentrismtowardecocentrismRenewableandSustainableEnergyRevies，16，58:1532-1542.79 SicheJRAgostirteE，eustablitftisbspatidyvioetalssaide，ecological fotprint and the emergy performance indices.Ecological Economics，2008，66(4）: 628-637.  \n[80] Liu GY,HaoYongLYangZF,gY,Ugiati.eg-alysisfuicipalsldwasteagentRsources,otiand Recycling，2017,120：131-143.  \n[81] RaugeiM，RuganiB，BenetoE，IngwersenWW.IntegraingemergyintoLCA：potentialadedvalueandlingeringobstacles.EcologicalModelling，2014,271: 4-9.  \n[82]WifartA,oeJaeJubiJoutigfacuesadslcaltialof Environmental Management，2013,121：96-109.  \n[83]PizigallACraaC,osTejontusefCAndeealuatifrealysoftolaesalotalManagement,2008，86(2）:396-406.  \n[84]NakajiaES，OrteE.aingapaitingeerdalulatiofteologicalfotprintEcologcalIdicators，6",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1200-1207.[85]MeliuoocoeE,Ugiatiorthofndus：GerevauatioofaturalandumanadeapitaleefeotalEnvironment，2015，506-507：137-148.[6]ArbalgtBaAsdallldedGIS-maps.Ecological Modelling，2014,281: 52-64.[87]LiuGY,YangZF,ChenB,ZhangJR,LiuXY,ZhangY,SuMR,UgatiS.Scenariosforsewagesludgereductionandreuseinlinkerproductiontowardsaldustrialdevelopent：omparativeergsedessmentoualofleaerroductio10371-383.[88]Andricina,eacae,Lrrofrotiomeasureoigeiotalefoaeapproach.Journal of Cleaner Production，2017,162：776-790.[89]YiH,aR,raWlAolcaldsaingfet-oe：vaatoofsaailedoemergy theory. Journal of Cleaner Production，2017,143：654-671.[90]BeriosF，CampbellDE，rtizMEergevauatiofbenthcosstesiuencedbyupwelinginorthChile：otrbofeecosystems to the regional economy.Ecological Modelling，2017,359：146-164.[91] Coscieme L，Pulselli F M，Marchettini N，Sutton P C，Anderson S，Sweeney S.Emergy idecosystemservices a national biogeographicalassessment.Ecosystem Services，2014，7：152-159.[92] GronlundE,FrolingarlanIDonorvasimesessmntofcossteservicesEoloicalodelig，15,：105.[93] 崔丽娟，赵欣胜.鄱阳湖湿地生态能值分析研究.生态学报，2004，24（7)：1480-1485.[94] 赵欣胜，崔保山，杨志峰.红树林湿地生态效益能值分析——以南沙地区十九涌红树林湿地为案例.生态学杂志，2005，24（7)：841-844.[95] 杨谨，陈彬，刘耕源.基于能值的沼气农业生态系统可持续发展水平综合评价——以恭城县为例.生态学报，2012，32（13）：4007-4016.[96] Odum HT,Odum EC.A Prosperous Way Down: Principles and Policies.Niwot: University Pressof Colorado,2001.[97] Merchant C.Radical Ecology.New York：Routledge，1992.[98] Liu GY，BrowMasaza M.Eaningthestaabiltaatietouhdepederstaingofustaiableevelotdicator.Sustainability，2017,9(6)：1078.[99]BimonteSUgiatixploghcalacstevelovotalaatitsviatoaceth“nai//Institutions and Environmental Policy. England:Ashgate Publishing Limited,2002,177-200.100]Ulgiatifiedl98[101]Barnes P.Who Owns the Sky?:Our Common Asets and the Futureof Capitalism.Washington,DC:Island Press，2001.[102]BarmesP.Capitalism 3.0.A Guide to Reclaiming the Commons.San Francisco：Beret-Koehler Publishers，Inc,2006.",
+        "page_idx": 12
+    }
+]

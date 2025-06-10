@@ -1,0 +1,333 @@
+[
+    {
+        "type": "text",
+        "text": "纳米复合肽SCM的制备及其对II型糖尿病治疗作用的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "党诗莹¹马义1\\*\\*文涛’肖兴¹洪岸（1 暨南大学细胞生物学系 暨南大学生物医药研究院 广东省生物工程药物重点实验室，基因工程药物国家工程研究中心 广州",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "510632) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要一种新型的神经内分泌肽，垂体腺苷酸环化酶激活肽（PACAP）被发现在碳水化合物或脂质代谢中具有重要作用，但是易受二肽基肽酶IV的降解。本研究将壳聚糖修饰的纳米硒（SeNPs-CTS,SC）作为载体，通过酰胺键负载连接PACAP 衍生肽MPL-2，制备稳定性良好，具有协同治疗II型糖尿病作用的纳米复合肽 SeNPs-CTS-MPL-2（SCM)。实验结果表明：成功构建了高稳定性的纳米复合肽SCM，SCM的平均粒径为 $1 5 8 \\mathrm { n m }$ ，粒径较为集中，表面Zeta电位为 $3 5 . 6 \\mathrm { m V }$ ，较 SC粒径以及Zeta电位有明显的变化，说明MPL-2成功的连接到了SC表面。SCM在水溶液中可稳定存在40天，在水溶液中有较强的稳定性。体外缓释实验表明 SCM在48h内不断释放活性多肽MPL-2，有效的延长了MPL-2的作用时间。ⅡI型糖尿病模型鼠（db/db小鼠）腹腔注射 SCM，葡萄糖耐量实验结果表明MPL-2负载到载体 SC上构建了SCM后，SCM在体内不断缓释MPL-2，延长了MPL-2的作用时间，增强了MPL-2的药效。在8周连续用药治疗的过程中，SCM可显著提高ⅡI型糖尿病模型小鼠的胰岛素敏感性，药效明显强于MPL-2和SC单独用药。构建了纳米复合肽 SCM，可有效的延长MPL-2的作用时间，发挥治疗ⅡI型糖尿病的生物学作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 垂体腺苷酸环化酶激活肽衍生肽（MPL-2)；纳米硒；II型糖尿病；胰岛素敏感性；葡萄糖耐量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "垂体腺苷酸环化酶激活肽（pituitary adenylate cyclase-activatingpolypetide,PACAP）是Miyata等1989年从羊下丘脑发现并提取的神经肽，包括PACAP38和PACAP27两种[1]。PACAP在中枢神经系统和外周组织中广泛分布，神经系统中以下丘脑含量最高，其次是神经垂体、延髓、脑桥等处，PACAP在小脑成纤维细胞、三叉神经节等处也有发现[2-4]。在外周组织中，PACAP及其受体分布在心血管系统、胃肠系统、胰腺、脂肪组织、免疫细胞及肿瘤等处[5]。PACAP主要通过三种特异性的受体PAC1、VPAC1、VPAC2发挥其生物学作用，PAC1是PACAP的特异受体，而VPAC1和VPAC2是PACAP 和血管活性肠肽（Vasoactiveintestinal peptide，VIP）的共同受体。VPAC2 受体可以偶联Gs 和Gq蛋白，调节了cAMP、IP3、DAG等多种第二信使的浓度，从而发挥不同的生物学作用[6]。研究表明PACAP通过受体VPAC2能有效降低胰岛β细胞的损伤，促进胰岛素的分泌，增加葡萄糖摄取，从而有效降低血糖和改善胰岛素抵抗以达到治疗2型糖尿病的作用[7-10]。因此VPAC2受体特异性激动剂是治疗2型糖尿病的新型靶点。MPL-2是我们课题组前期研制的PACAP的衍生物，VPAC2的特异性激动剂，有很好的治疗糖尿病效果[I。但其在体内的利用度和稳定性不够，半衰期较短。为了解决这些问题，本研究利用前期研制的壳聚糖修饰的纳米硒（SeNPs-CTS.SC）作为载体共价偶联PACAP重组多肽MPL-2，构建纳米复合肽SCM。纳米硒是一种纳米尺寸大小具有生物活性的零价单质硒[12],具有抗氧化、清除自由基、保护胰脏等功能[12-14]。其优点是活性高而毒性低，可以用来作为多肽药物的载体[12]。印度科学家KumarGS 等人的研究表明，纳米硒能有效延缓模型大鼠的糖尿病发展，纳米硒不仅通过抑制体内的氧化应激损伤、激活细胞色素氧化酶保护蛋白一热休克蛋白HSP70、延缓沉默调节因子 SIRT1代谢，从而防治糖尿病肾病，还通过降低Bax 蛋白、增加 Bcl-2 蛋白的表达，有效防止肾脏细胞的凋亡[15]。现有研究表明：糖尿病患者体内硒代谢紊乱、氧自由基及脂质过氧化水平高、抗氧化酶活性低，尤其是谷胱甘肽过氧化物酶（含硒酶）的活性显著降低[16]。而硒及硒蛋白是机体内抗氧化系统的重要组成部分，能有效地抑制过氧化脂质的产生，清除多余的自由基，调节并维持机体正常的氧化还原状态，因此硒与糖尿病及其并发症间存在高度的相关性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "壳聚糖修饰的纳米硒可作为药物缓释载体负载药物，能有效延长药物的半衰期，同时还可与负载药物协同作用，增强药效。2008年童春义通过乙酰基将5-氟尿嘧啶（5FU）和壳寡糖形成稳定的氟尿嘧啶-壳寡糖前体，将该前体作为模板制备了同时负载氟尿嘧啶和纳米硒的氟尿嘧啶-壳寡糖/硒纳米颗粒，并证实该复合纳米药物对肿瘤细胞具有显著的抑制作用，且纳米硒和 5FU具有协同作用[17]。2012年，刘雯等研制出纳米硒作为载体直接负载 5FU的药物运输体系，证实 SeNPs 作为载体可高效负载5FU，能通过激活caspase、促进线粒体跨膜电位的消散以及细胞氧化损伤而诱导肿瘤细胞凋亡，且SeNPs与5FU有良好的协同抗肿瘤作用[18]。我们课题组前期研究了利用纳米硒（SeNPs）作为载体，壳聚糖（CTS）作为稳定剂和包覆剂，负载运输多肽BAY55-9837，结果表明，纳米复合肽SeNPs-CTS-BAY55-9837能显著提高BAY55-9837体内外的半衰期，有效降低BAY55-9837的肾清除率，显著增强药物肽BAY55-9837的体内生物学效应[14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究的利用壳聚糖修饰的纳米硒（SeNPs-CTS,SC）作为载体共价偶联PACAP重组多肽MPL-2，构建纳米复合肽SCM，对其结构、稳定性进行评价，并利用db/db小鼠作为II型糖尿病动物模型研究纳米复合肽SCM用于II型糖尿病的治疗、改善胰岛素抵抗的生物学作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "壳聚糖（分子式为 $\\mathrm { ( C _ { 6 } H _ { 1 1 } N O _ { 4 } ) _ { n } }$ ， $\\scriptstyle 1 = 7 0 - 8 0$ 万，脱乙酰化 $9 0 . 0 \\%$ ）购自北京鼎国昌盛生物技术有限责任公司；亚硒酸钠购自北京索莱宝科技有限公司；抗坏血酸Vc购自北京鼎国昌盛生物技术有限责任公司；透析袋（6000-8000）购自北京鼎国昌盛生物技术有限责任公司；ⅡI型糖尿病模型db/db小鼠（BKS.Cg-m$+ / +$ Leprdb/J）及同品系正常对照小鼠购于南京大学模式动物研究所。基因重组多肽 MPL-2来源于课题组前期制备[1]。Exendin-4 购自上海强耀生物技术有限公司，产品序列为：His-Gly-Glu-Gly-Thr-Phe-Thr-Ser-Asp-Leu-Ser-Lys-Gln-Met-Glu-Glu-Glu-Ala-Val-Arg-Leu-Phe-Ile-Glu-Trp-Leu-Lys-Asn-Gly-Gly-Pro-Ser-Ser-Gly-Ala-Pro-Pro-Pro-Ser-NH2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 主要仪器设备",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "细胞恒温培养箱（美国 Thermo scientific)；纳米粒度及 zeta 电位分析仪（英国马尔文仪器有限公司，型号NANO ZS)；微量移液器（美国 Eppendorf 公司）;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sartoriu 电子天平（德国 Sartorius公司）；90-2型定时恒温磁力搅拌器（上海沪西分析仪器厂)；自动立式灭菌器（山东新华医疗器械股份有限公司)；血糖仪（瑞士Roche 公司）；Mini Spin 离心机（美国 Eppendorf 公司）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1纳米复合肽SCM的制备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在室温下，向 $1 0 \\mathrm { m l }$ 的玻璃烧杯中加入1m1亚硒酸钠溶液（ $5 \\mathrm { m M }$ ）和 $1 0 0 \\mathrm { u l }$ 壳聚糖溶液（ $0 . 8 \\mathrm { m g / m l } \\cdot$ )，混合均匀，滴加1ml抗坏血酸（Vc）（ $2 0 \\mathrm { m M }$ ）溶液，并且边加边摇匀，待溶液颜色不再变化，于 $4 ^ { \\circ } \\mathrm { C }$ 静置 $3 0 \\mathrm { m i n }$ ，将溶液装入透析袋中，于 $4 ^ { \\circ } \\mathrm { C }$ 透析12h去除未反应的试剂，即得到了纳米硒载体 SC。称取 $2 \\mathrm { m g }$ 基因重组多肽MPL-2，溶解后加入到 SC 溶液中，EDC/NHS 作为酰胺催化剂，室温搅拌反应12h，将溶液装入透析袋中，于 $4 ^ { \\circ } \\mathrm { C }$ 透析48h除去未连接的多肽，即得到了纳米复合肽SCM。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2纳米复合肽SCM表征测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用纳米粒度及 zeta 电位分析仪测定纳米复合肽 SCM的粒径及其 Zeta 电位，并连续测定SCM粒径4周从而观察SCM的稳定性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3测定纳米复合肽SCM包封率和负载量",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取透析前的纳米复合肽SCM溶液 $\\mathrm { 1 0 0 u l }$ ，加入到 $1 \\mathrm { m L }$ 的Millipore ( $\\mathrm { 1 0 \\ k D a ) }$ ）超滤管中 $4 0 0 0 \\mathrm { r p m }$ 离心 $3 0 \\mathrm { m i n }$ ，收集滤液，高效液相（HPLC）检测滤液中MPL-2含量，计算包封率。取纳米复合肽 SCM冻干样，测定纳米复合肽 SCM对MPL-2的负载量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "包封率 $\\ c =$ （投入MPL-2量-游离MPL-2量）/投入MPL-2量 $\\times 1 0 0 \\%$ 负载量 $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ （投入MPL-2量-游离MPL-2量）/SCM质量 $\\times 1 0 0 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.4纳米复合肽SCM体外缓释 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取 $5 \\mathrm { m l }$ 纳米复合肽SCM于透析袋中，将透析袋放入装有50mlPBS的玻璃烧杯中，于 $3 7 ^ { \\circ } \\mathrm { C }$ ， $2 0 0 \\mathrm { r / m i n }$ 匀速震荡，于0、4、8、12、16、20、24、28、32、36、40、44、 $4 8 \\mathrm { ~ h ~ }$ 分别吸取1mIPBS 溶液，同时补充1ml的PBS 溶液于烧杯中，高效液相（HPLC）检测吸取的1mlPBS 中 MPL-2的含量，计算MPL-12 的累计释放率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.5SCM对二型糖尿病模型db/db小鼠急性药效学研究 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "30只6周龄的雄性ⅡI型糖尿病模型鼠（db/db小鼠），于SPF 级房间内适应性喂养2周后，饥饿过夜，将小鼠随机分为5组：生理盐水处理组（NS)，MPL-2处理组，SC 处理组，SCM处理组，Exendin-4 处理组（阳性对照组)。给药前使用血糖仪测定小鼠的血糖值。根据 SCM的载药量和包封率换算为 MPL-2的用药剂量为 $2 0 \\mathrm { n m o l / }$ （ $\\ \\cdot \\ \\mathrm { k g } \\ \\mathrm { B } . \\mathrm { W } )$ 、纳米硒的剂量为 $1 8 . 4 2 \\mu \\mathrm { g / }$ （ $\\mathrm { ( k g \\ B . W ) }$ 、注射体积为$2 0 0 \\mu \\mathrm { L }$ ；相同体积或剂量的生理盐水（ $( 2 0 0 \\mathrm { u l } )$ 、壳聚糖修饰的纳米硒[SC， $2 0 0 \\mu \\mathrm { L }$ ，纳米硒剂量为 $1 8 . 4 2 \\mu \\mathrm { g } / ( \\mu \\mathrm { g } \\mathrm { B . W } ) _ { . } ^ { . }$ 、MPL-2 $[ 2 0 0 \\mu \\mathrm { L }$ ， $2 0 \\mathrm { n m o l / ( k g \\mathrm { B . W ) } ] }$ 、Exendin-4$[ 2 0 0 \\mu \\mathrm { L }$ ， $2 0 \\mathrm { n m o l } /$ （kgB.W）」作为对照。给药 $3 0 \\mathrm { { m i n } }$ 后取血测血糖值，该时间点标记为0min，接着腹腔注射 $2 \\mathrm { k g } /$ ( $\\mathrm { \\ k g \\ B . W } \\cdot$ ）的剂量的D-葡萄糖，在注射葡萄糖后15min, $3 0 \\mathrm { m i n } , 4 5 \\mathrm { m i n } , 6 0 \\mathrm { m i n } , 7 5 \\mathrm { m i n } , 9 0 \\mathrm { m i n } , 1 0 5 \\mathrm { m i n } , 1 2 0 \\mathrm { m i n }$ ，小鼠尾静脉采血测量血糖值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.6SCM对二型糖尿病模型db/db小鼠长期药效学作用研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "30只6周龄的雄性ⅡI型糖尿病模型鼠（db/db 小鼠），于 SPF 级房间内适应性喂养2周后，将小鼠随机分为5组：生理盐水处理组（NS)，MPL-2处理组，SC 处理组，SCM处理组，Exendin-4 处理组（阳性对照组）。以 $2 0 \\mathrm { n m o l / ( k g \\ B . W ) }$ 的剂量每天腹腔给药一次，连续给药8周。连续给药8周后，将小鼠饥饿过夜进行胰岛素耐量实验，测定小鼠的初始血糖值，然后以1U/kg的剂量腹腔注射人重组胰岛素，注射后 20min,40min,60min,80min,100min，和 $1 2 0 \\mathrm { m i n }$ 测定各组小鼠血糖值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1纳米复合肽SCM表面Zeta电位、粒径以及粒径稳定性",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图1a所示，壳聚糖修饰纳米硒SC平均粒径为 $7 7 . 5 \\mathrm { n m }$ ，粒径分布集中。如图1b所示，纳米复合肽SCM平均粒径为 $1 5 8 . 6 \\mathrm { n m }$ ，粒径大小较SC增加 $8 1 . 1 \\mathrm { n m }$ 。纳米复合肽 SCM表面Zeta电位测定结果如图1c所示，纳米硒 SeNPs表面 Zeta电位为 ${ \\cdot } 5 . 3 2 \\mathrm { m V }$ ，壳聚糖修饰后的纳米硒SC表面Zeta电位为 $2 6 . 5 \\mathrm { m V }$ ，负载了MPL-2之后，SCM表面Zeta电位升至 $3 5 . 6 \\mathrm { m V }$ ，较 SC 增加了 $9 . 1 \\mathrm { m V }$ ，这可能是因为MPL-2等电点为9.81,在酸性纳米复合肽 SCM溶液中带正电荷，导致 SCM表面 Zeta 电位较SC 增加。SCM较 SC 粒径增加，Zeta 电位增加都说明MPL-2成功连接到了SC表面。根据图1d可以看到，SCM在水溶液中有较强的稳定性，可稳定存在40天。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4bdfc177440ce311270761eff5df047eb7157bd4e90048d1ccc20d4947df593.jpg",
+        "img_caption": [
+            "图1（a）SC 粒径，其平均粒径为 $7 7 . 5 n m$ ；（b）SCM粒径，其平均粒径为158.6nm；（c）SeNPs，SC 和 SCM表面 Zeta 电位;(d) SCM 粒径稳定性。Fig.1 (a) Size distribution of SC, the average particle size was $7 7 . 5 \\ \\mathrm { n m }$ ：(b) Size distribution of SCM,the averageparticle size was $1 5 8 . 6 \\mathrm { n m }$ (c) Zeta potential of SeNPs, SC and SCM.(d) Stability analysis of SCM."
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2纳米复合肽SCM包封率和负载量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "纳米复合肽SCM对多肽MPL-2 的包封率为 $6 8 . 9 { \\pm } 3 . 2 8 \\%$ ，载药量为：$6 7 . 4 5 { \\scriptstyle \\pm 2 . 9 1 \\% }$ ，显示了SC作为载体对多肽MPL-2具有较好的负载能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3纳米复合肽SCM体外缓释实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，48h内SCM持续释放多肽MPL-2,到12h 时已有 $6 0 . 3 \\ \\% \\mathrm { M P L } { - 2 }$ 释放出来，12h\\~48hMPL-12开始缓慢释放，至48h，MPL-12已被释放了 $9 5 . 3 \\%$ 。这种缓释效应，使活性多肽MPL-12可以在生物体内快速持续的释放，有助于二型糖尿病的治疗。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a5a3c16b8335b36149526380606499e12a0ae345a70472f4923d48103aea6c8.jpg",
+        "img_caption": [
+            "图2SCM体外缓释，SCM可持续释放48h。 Fig.2 In vitro release process of MPL-2 from SCM，SCM can sustained release for 48 hours. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4SCM可显著改善db/db小鼠急性糖耐量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图3所示， $5 { \\cdot } 1 5 \\mathrm { m i n }$ 的时候ⅡI型糖尿病小鼠（db/db小鼠）的胰岛素分泌不足，表现出了明显的葡萄糖不耐受。与生理盐水组（NS）相比，SC 组对db/db小鼠的葡萄糖耐量有一定的改善作用，但是效果并不明显，可能是由于SC 的剂量比较低。MPL-2组，Exendin-4组，SCM组在5-15min均能较好的促进胰岛素的分泌，在 $3 0 \\mathrm { m i n }$ 的时候就可以抑制住血糖的升高。MPL-2由于半衰期短，使其改善葡萄糖耐量的作用低于阳性对照组Exendin-4，但是 SCM在小鼠体内可以不断缓释MPL-2，延长MPL-2的作用时间，并且SC 也具有一定的胰岛素类似功能，和MPL-2可协同起作用，由于SC 剂量较低，致使其改善作用不明显。因此SCM对葡萄糖耐量的改善作用要明显强于SC和MPL-2单独用药，并且优于目前临床上使用的多肽药物Exendin-4。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ff2950c37ffb18d98d52bec19de83b3cb45620ca8d1fde57e42be26e823e0bb.jpg",
+        "img_caption": [
+            "图 $3 ~ \\mathrm { d b / d b }$ 小鼠的腹腔内注射葡萄糖耐量试验。数据是三个独立实验的平均值，数据表示为平均值 $\\cdot \\pm$ 标准差。 Fig.3 Intraperitoneal glucose tolerance test of db/db mice.Data are the mean of three independent experiments. Data presented as mean $\\pm$ SEM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5II型糖尿病模型鼠（ $\\mathrm { d b / d b }$ 小鼠）胰岛素耐量实验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "连续给药8周后，胰岛素耐量实验的结果如图4所示，注射胰岛素 $4 0 \\mathrm { { m i n } }$ 后各组的血糖值均降到了最低，生理盐水组降到初始值的 $59 . 3 \\%$ ，SC组降到初始值的 $5 7 . 0 \\%$ ，MPL-2组降到初始值的 $5 1 . 7 \\%$ ，阳性对照组Exendin-4降到初始值的 $3 3 . 7 \\%$ ，SCM组降到初始值的 $3 2 . 3 \\%$ 。但是 $1 2 0 \\mathrm { m i n }$ 的时候生理盐水组（NS)血糖值恢复到了初始值的 $9 0 . 7 \\%$ ，SC组也恢复到了初始值的 $8 2 . 7 \\%$ ，由于SC剂量较低，致使其对胰岛素敏感性有一定的改善作用，但是并不明显。MPL-2 由于半衰期短也恢复到了初始值 $7 3 . 3 \\%$ ，而SCM组和Exendin-4组仅恢复到了初始值 $60 \\%$ 左右，说明 SCM对ⅡI型糖尿病模型鼠（db/db小鼠）的胰岛素敏感性有明显的改善作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e7825ed9488d81ef65d0b773e9c0d3d5f4048577bbaa9bedf3e0ed937424a3d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图4连续用药8周db/db小鼠的胰岛素耐量实验。数据是三个独立实验的平均值，数据表示为平均值±标准 差。   \nFig.4 insulin tolerance test of db/db mice after 8-week treatment.Data are the mean of three independent experiments.Data presented as mean $\\pm$ SEM. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "二型糖尿病是一种慢性的代谢疾病，其主要的发病机制是胰岛β细胞功能障碍和胰岛素抵抗，其中胰岛β细胞功能障碍包括细胞数量减少或者功能下降。根据国际糖尿病联盟的统计，糖尿病患者的数量预计将从2017年的4.25亿增加到2045年的6.29亿,净增长 $48 \\%$ 。糖尿病的主要形式是二型糖尿病(T2DM)，占所有糖尿病病例的将近 $90 \\%$ 。目前二型糖尿病的治疗方法主要包括胰岛素增敏剂，外源性供应胰岛素， $\\mathfrak { a }$ -葡萄糖苷酶抑制剂和磺酰脲类药物，但具有治疗的局限性，并且长期使用具有一定的副作用。因此，保护胰岛β细胞，增强胰岛素敏感性和使用组合药物的治疗策略得到了越来越多研究者的接受与认可。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MPL-2是课题组在前人研究开发的VPAC2特异性激动剂PACAP衍生多肽 BAY55-9837的基础上，利用基因工程技术，结合具有高效自剪切功能的蛋白内含肽固相柱纯化技术制备的高稳定性、高活性的VPAC2受体特异性激动剂。MPL-2可有效的促进胰岛β细胞的增值，胰岛素的表达分泌，葡萄糖摄取和利用。本课题将壳聚糖作为稳定剂和包覆剂，将多肽MPL-2负载到纳米硒的表面。有研究表明：糖尿病患者体内硒代谢紊乱、氧自由基及脂质过氧化水平高、抗氧化酶活性低，尤其是谷胱甘肽过氧化物酶（含硒酶）的活性显著降低[19]。而硒及硒蛋白是机体内抗氧化系统的重要组成部分，能有效地抑制过氧化脂质的产生，清除多余的自由基，调节并维持机体正常的氧化还原状态，因此硒与糖尿病及其并发症间存在高度的相关性。1992年IizukaY研究表明，亚硒酸钠喂养急性糖尿病大鼠，能显著地降低其血糖含量，且不会增加血清胰岛素含量；离体胰岛的胰岛素释放实验证明：一定剂量范围内，随亚硒酸钠剂量增加，胰岛素释放量呈剂量依赖性增多[20]。硒作为胰岛素类似物能促进葡萄糖的吸收，通过刺激糖酵解以及脂肪酸合成，加快血糖代谢，同时还能激活胰岛素介导的信号转导通路，调节机体的新陈代谢，维持血糖平衡[21]。纳米硒是机体主要的抗氧化剂，可有效的清除体内的多余的自由基，抑制肿瘤及糖尿病，心血管疾病的发生。而壳聚糖是一种线性天然的阳离子多糖，含有大量的氨基和羟基，可以结合到纳米硒的表面，稳定并调节纳米硒的粒径大小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究证明了多肽MPL-2可成功的连接到壳聚糖修饰的纳米硒上，并且稳定性良好，在水溶液中可稳定存在40天。通过体外实验纳米复合肽SCM体外缓释实验证明了SCM对MPL-2具有较好的缓释作用，在48h内MPL-2可以被持续释放。并且动物学实验结果证明了纳米复合肽SCM对ⅡI型糖尿病有较好的治疗作用，可显著的改善db/db小鼠的葡萄糖耐量和胰岛素敏感性。本研究可为新型纳米复合肽SCM用于II型糖尿病治疗进行更深入的药理学研究提供实验基础。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Miyata A,Arimura A,Dahl R R,et al. Isolation of a novel 38 residue-hypothalamic polypeptide which stimulates adenylate cyclase in pituitary cells[J]. Biochem Biophys Res Commun, 1989,164(1): 567-74. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2] Ghzili H, Grumolato L，Thouennon E,et al. Role of PACAP in the physiology and pathology of the sympathoadrenal system[J]. Front Neuroendocrinol， 2008,29(1): 128-41.   \n[3] Yon L,Alexandre D, Montero M, et al. Pituitary adenylate cyclase-activating polypeptide and its receptors in amphibians[J]. Microsc Res Tech, 2001, 54(3): 137-57.   \n[4] Yon L, Breault L, Contesse V, et al. Pituitary adenylate cyclase-activating polypeptide receptors in the fetal human adrenal gland[J]. Ann N Y Acad Sci, 1998, 865: 416-9.   \n[5] Pirger Z, Laszlo Z, Hiripi L,et al. Pituitary adenylate cyclase activating polypeptide (PACAP) and its receptors are present and biochemically active in the central nervous system of the pond snail Lymnaea stagnalis[J]. JMol Neurosci, 2010, 42(3): 464-71.   \n[6] Vaudry D, Falluel-Morel A, Bourgault S,et al. Pituitary adenylate cyclase-activating polypeptide and its receptors: 20 years after the discovery[J]. Pharmacol Rev, 2009, 61(3): 283-357.   \n[7] Lee JC, Cho Y J, Kim J,et al. Region-specific changes in the immunoreactivity of vasoactive intestinal peptide and pituitary adenylate cyclase-activating polypeptide receptors (VPAC2, and PAC1 receptor) in the aged rat brains[J]. Brain Res, 2010,1351: 32-40.   \n[8] Pan C Q, Li F, Tom I, et al. Engineering novel VPAC2-selective agonists with improved stability and glucose-lowering activity in vivo[J]. J Pharmacol Exp Ther, 2007, 320(2): 900-6.   \n[9] Joo K M, Chung Y H, Kim M K, et al. Distribution of vasoactive intestinal peptide and pituitary adenylate cyclase-activating polypeptide receptors (VPAC1, VPAC2, and PAC1 receptor) in the rat brain[J]. J Comp Neurol, 2004,476(4): 388-413.   \n[10] Alexandre D，Anouar Y, Jegou S, et al. A cloned frog vasoactive intestinal polypeptide/pituitaryadenylatecyclase-activatingpolypeptidereceptorexhibits pharmacological and tissue distribution characteristics of both VPAC1 and VPAC2 receptors in mammals[J]. Endocrinology,1999,140(3): 1285-93.   \n[11] Wang D H, Ma Y, Han L, et al. Preparation of Novel Recombinant PACAP Derivative MPL-2 and Its Effect on anti-type 2 Diabetes Melitus[J]. Journal of Chinese Biotechnology, 2017, 37(05): 59-65.   \n[12] Papp L V,Lu J, Holmgren A,et al. From selenium to selenoproteins: Synthesis,identity, and their role in human health[J]. Antioxidants & Redox Signaling, 2007, 9(7): 775-806.   \n[13] Benstoem C,Goetzenich A， Kraemer S,et al. Selenium and Its Supplementation in Cardiovascular Disease-What do We Know?[J]. Nutrients,2015,7(5): 3094-3118.   \n[14] Rao L, Ma Y, Zhuang M J, et al. Chitosan-decorated selenium nanoparticles as protein carriers to improve the in vivo half-life of the peptide therapeutic BAY 55-9837 for type 2 diabetes mellitus[J]. International Journal of Nanomedicine,2014, 9: 4819-4828.   \n[15] Kumar G S, Kulkarni A, Khurana A,et al. Selenium nanoparticles involve HSP-70 and SIRT1inpreventingtheprogressionoftype1 diabeticnephropathy[J]. Chemico-biological interactions,2014,223 : 125-133.   \n[16] Rayman M P. Selenium and human health[J]. The Lancet, 379 (9822) : 1256-1268.   \n[17] 童春义.基于硒纳米颗粒的新型生物材料研制与表征方法研究[D].长沙：湖南大学, 2008. Tong C Y. Development and characterization of novel biological materials based on Selenium Nanoparticles[D]. Hunan university. 2008.   \n[18] Liu W, Li X L,Wong Y S, et al. Selenium Nanoparticles as a Carrier of 5-Fluorouracil to Achieve Anticancer Synergism. Acs Nano. 2012; 6(8): 6578-6591.   \n[19] Rayman MP. Selenium and human health[J]. The Lancet, 379 (9822) : 1256-1268.   \n[20] lizuka Y, Sakurai E, Hikichi N.Effects of selenium on the serum glucose and insulin levels in diabetic rats[J]. Nihon yakurigaku zasshi Folia pharmacologica Japonica,1992,100 (2) : 151-156.   \n[21] Stapleton SR. Selenium: an insulin-mimetic[J]. Cellular and molecular life sciences: CMLS,2000,57 (13-14) : 1874-1879. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Preparation of nanometer composite peptide SCM and its therapeutic effect on type II diabetes ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DANG Shi-ying], MA Yil\\*\\*, WEN Tao1, XIAO Xingl, HONG An1 (1DepartmentofCelliologyofJinanUnversity,IstituteofiologicalMedicineofJinanUniversity,GuangdongProvicialKey LaboratoryofBioenginering Medicine,NationalEngineringResearchCenterofGeneticMedicine,Guangzhou510632,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract A new type of neuroendocrine peptide, pituitary adenylate cyclase activating peptide (PACAP),has been found to play an important role in carbohydrate or lipid metabolism but is susceptible to dipeptidyl peptidase IV degradation. In this study，chitosan-modified nano-selenium (SeNPs-CTS, SC) was used as a carrier and the PACAP-derived peptide MPL-2 was loaded by amide bond to prepare a stable and stable nanoparticle peptide SeNPs- CTS-MPL-2 (SCM). The experimental results show that the high stability nano-composite peptide SCM was successfully constructed. The average particle diameter of SCM was $1 5 8 ~ \\mathrm { n m }$ ,the particle size was relatively concentrated, and the surface Zeta potential was $3 5 . 6 ~ \\mathrm { m V } ;$ ，which was significantly different from the SC particle size and Zeta potential. These proved that MPL-2 successfully connected to the SC surface. SCM was stable in aqueous solution for 40 days and has strong stability in aqueous solution. In vitro sustained release experiments showed that SCM released MPL-2 continuously within 48 hours, effectively prolonging the action time of MPL-2. Type 2 diabetes model mice (db/db mice） were injected intraperitoneally with SCM. Glucose tolerance test results showed that SCM sustained release of MPL-2 in vivo after MPL-2 was loaded onto carrier SC, prolonged the effect time of MPL-2 and enhanced the efficacy of MPL-2. During 8 weeks of continuous medication, SCM significantly increased insulin sensitivity in mice with type 2 diabetes melitus, significantly more potent than MPL-2 and SC alone. The nanocomposite peptide SCM was constructed to effectively prolong the action time of MPL-2 and to exert the biological effect of treating type II diabetes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words Pituitary adenylate cyclase-activating peptide-derived peptide (MPL-2)； Nano selenium;Type II diabetes; Insulin sensitivity; Glucose tolerance ",
+        "page_idx": 8
+    }
+]

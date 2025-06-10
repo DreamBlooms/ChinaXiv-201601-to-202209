@@ -1,0 +1,341 @@
+[
+    {
+        "type": "text",
+        "text": "Flexible fluorine containing ionic binders to mitigate the negative impact caused by the drastic volume fluctuation from silicon nano-particles in high capacity anodes of lithium-ion batteries† ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dejun Qin, Lixin Xue,\\* Bing Du, Jian Wang, Feng Nie and Lele Wen\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Novel ionic binders based on sulfonated polyether ether ketones and polysulfone backbones,bearing pendant lithiated fluorinated sulfonimide groups (SPEEK-PSI-Li and PSU-PSI-Li) were developed.Their performance in high performance silicon (Si) nano-particle anodes was studied in comparison with conventional binders suchaslithiated sulfonated poly(ether-ether-ketone) containing fluorinated sulfonic acid side chains(SPEEK-PSA-Li),poly(vinylidene) difluoride (PVDF),sodium carboxymethyl cellulose (CMC) and alginate.Much superior to other anode binders,the ionic conducting SPEEK-PSl-Li binders could not only provide good adhesion properties,but also efectively reduce the over-potential during rapid charge and discharge cycles.When cycled at a current of $4 0 0 \\mathsf { m A } \\mathsf { g } ^ { - 1 } .$ ，these anodes could maintain above 2000 mA h ${ \\mathfrak { g } } ^ { - 1 }$ after 5O cycles.Even when cycled at a high current rate of $2 0 0 0 \\ \\mathsf { m A } \\ \\mathsf { g } ^ { - 1 } .$ ，the anodes with SPEEK-PSl-Li binders could be cycled above $5 0 0 \\mathrm { \\ m A } \\mathrm { \\ h \\ g } ^ { - 1 }$ in 50 cycles.The superior performance of the novel SPEEK-PSl-Libinders could be atributed to their high cohesion capability，low solubility in electrolytes,high adaptability tovolume fluctuationand high ionic conducting capabilityresulting from of the co-existence of flexible PEEK backbones，flexible fluorinated ether side chains,ionic transporting sulfonate groups,and pentadentate super ionic sulfonimide groups in the molecule structures. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Owing to their high power and energy densities,lithium ion batteries (LIBs) are considered as one of the most promising energy storage devices.1 However,their applications in automotive power systems are still limited by their capacity and power density.Recently,silicon (Si) nano-particle based materialshave attracted significant attention as high capacity active materials for lithium ion battery (LIB) anodes.Theoretically, their gravimetric capacity could approach approximately 10 times that of conventional graphite.² However,during battery cycles,anodes containing Si particles tend to go through large volume expansion and contraction caused by ${ \\mathrm { L i } } ^ { + }$ ion insertion and extraction generating mechanical stress and gaps or voids. On full lithiation to form the alloy of $\\mathrm { L i } _ { 4 . 4 } \\mathrm { S i }$ ，Si particles could undergo a drastic volume expansion of ${ \\sim } 3 0 0 \\%$ .3,4Itis observed that long time cycling under high current results in cracks in the anodes,pulverization of Si particles,loss of contact between the Si particles and their surrounding media,and excess growth of the solid-electrolyte interphase (SEI),5-8 leading to rapid decay in battery performance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently,studies showed that the stability and irreversible capacity losses of the batteries may also be affected by the binders used in the anodes.9,1o For example,water soluble sodium carboxymethyl cellulose (CMC） binders performed better than poly(vinylidene） difluoride (PVDF) bindersin silicon-based electrodes.4,1 Si based anodes prepared with CMC bindersmaybe cycledatahigh specific capacity of about1100 mA h ${ \\mathrm { g } } ^ { - 1 }$ for 70 cycles while similar anodes using PVDF binders showed no cycling capability.1² The electrochemical performance of silicon based anodes can be further improved by using the binders extracted from brown algae or carboxymethyl chitosan.9,13 In the charging and discharging processes,lithiumions need to be transferred at the interface between the electrodesand the electrolyte,as well as inside the active materials and porous spaces of the electrodes,therefore,the kinetics of these processes in part determine the overall battery performance.It seems that currently reported binders still lack the adequate functionalityto tightly bind thesiliconbased active particles,adapt to the large volume fluctuation and facilitate the transportation of ${ \\mathrm { L i } } ^ { + }$ ions under high rate charging/discharg ing.14 Although stable cycling of the anodes could be achieved using these binders at lower rates，their electrochemical performance is still problematic under high rates. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fluorinated polymers with sulfonimide groups have been studied since the 199os,especially by DesMarteau and Watanabe et al.15,16 The lithiated forms of the fluorinated ionic polymers had low lithium dissociation energy due to the delocalization of the negative charge of the conjugated base over the functional groups stabilized by the electron withdrawing fluo rinated sulfonyl chains.17Recently,lithiated fluorine containing ionomers have been developed as effective electrode binders to enhance the ionic conductivity and ${ \\bf L i } ^ { + }$ ion diffusion in high rate cycling processes.14,18-20 We have also demonstrated that using lithiated sulfonated poly(ether-ether-ketone) containing fluorinated sulfonic acid side chains (SPEEK-PSA-Li) as binders could greatly enhance the electrochemical performance of lithium battery electrodes under high rates.To study the impact of binders with sulfonimide groups with higher ionic dissociation potential, two novel binders containing lithiated fluorinated sulfonimide groups(SPEEK-PSI-Li and PSU-PSI-Li) were prepared and investigated.In this paper,we investigate if the novel fluorine containing sulfonimide binders containing flexible fluorinated ether linkages could mitigate the negative impact caused by the drastic volume fluctuation from silicon nano-particles during high rate cycling in the high capacity anodes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation of binder solutions and composite anodes ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The anodes comprised $6 0 ~ \\mathrm { w t \\% }$ of Si, $2 0 \\mathrm { w t \\% }$ of Super P (Timcal Graphite & Carbon，Switzerland) and $2 0 \\ \\mathrm { \\ w t \\% }$ of binder. Si powderwithaverageparticle sizes of $5 0 ~ \\mathrm { n m }$ wasobtained from Jiechuang NewMaterial Technology Co. (China). PVDF (HSV900,Arkema Co.,LTD,France) in NMP,Na-CMC $\\left( M _ { \\mathrm { w } } = \\right.$ $5 0 0 \\ 0 0 0 \\ \\mathrm { g } \\ \\mathrm { m o l } ^ { - 1 }$ ,Alfa Aesar, USA) and alginate $\\left( M _ { \\mathrm { w } } = 2 5 0 \\ 0 0 0 \\ \\mathrm { g } \\right.$ $\\mathrm { m o l } ^ { - 1 }$ ,Aladdin) in water with the addition of ethanol $( 5 ~ \\mathrm { w t \\% } )$ （204号 were used as binders for the anodes.Lithiated ionomers,as shown in Scheme 1,such as SPEEK-PSI-Li, SPEEK-PSA-Li,and PSU-PSI-Li (synthesis and characterization are in the $\\mathbf { E S I \\dagger } _ { \\mathbf { \\Phi } _ { \\cdot } }$ ）， dissolved in1-methyl-2-pyrrolidone (NMP,AR,Aladdin,China) to form a $4 \\ \\mathrm { w t \\% }$ solution were used as binders.The lithiated ionomer membranes were prepared by the solution casting method. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical and adhesion measurements ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The electrochemical properties of the anodes were tested in coin cells with a size of $2 0 ~ \\mathrm { m m }$ .Working electrodes for cells were prepared by casting the slurry consisting of $6 0 ~ \\mathrm { w t \\% }$ of active materials (Si nanoparticles), $2 0 ~ \\mathrm { w t \\% }$ of conductive Super P carbon,and $2 0 \\ \\mathrm { w t \\% }$ of the binder onto copper foil.The electrolyte consisted of a solution of $1 \\mathrm { ~ M ~ L i P F } _ { 6 }$ in ethylene carbonate (EC)/diethyl carbonate (DEC) ${ \\bf \\left( 1 : 1 v / v \\right) }$ . Lithium foils were used as counter electrodes.The mass loading of the active material was about $1 . 2 ~ \\mathrm { m g } \\mathrm { c m } ^ { - 2 }$ .These cells were assembled in anargon-filled glove-box and galvanostatically cycled between $_ { 0 . 0 1 \\mathrm { ~ V ~ } }$ and $2 . 0 \\mathrm { V }$ onabattery tester (Land CT 2oo1 A).Their AC impedance was measured at an Autolab electrochemical workstation (CH Instruments) with the frequency range and voltage amplitude sets as $1 0 0 ~ \\mathrm { { k H z } }$ to $0 . 0 1 ~ \\mathrm { { H z } }$ and $\\mathbf { 1 0 } \\ \\mathrm { \\ m V } _ { : }$ respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d9e0982e46384036c2d25554e9a8c71a529d43a8833e8c72fb4a1cabedd19fa.jpg",
+        "img_caption": [
+            "Scheme 1 The molecular structure of (a) SPEEK-PSA-Li,(b) SPEEKPSI-Li,and (c) PSU-PSl-Li. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The vertical peeling experiment was used to test the adhesion ability between the coating of the electrode and the Cu current collector on an omnipotent electronic stress-strain tester (UTM,Instron 567,USA).The silicon anode electrodes with different binders were prepared,and an adhesive tape with a 1 cm width was stuck to the coating of the electrode.The Cu collector plane was horizontally fixed to the lower chuck,and one side of the adhesive tape was nipped by the upper chuck. The tensile rate was $1 0 \\ \\mathrm { m m } \\ \\mathrm { S } ^ { - 1 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A specific weight-loss process was developed to assess the relative adhesion capability of the binders to hold the electrode materials together in electrolytes. The anodes were first immersed into the liquid electrolyte solutions for1week.After the excess liquid on the surface was removed with tissue paper, the anodes were then dried in a vacuum oven at $6 0 ~ ^ { \\circ } \\mathbf { C }$ overnight and then placed under ultra-sound for $6 0 ~ \\mathrm { { m i n } }$ into a small glass bottle in the cell of ultrasonic wave cleaner (Branson CPX1800, USA).The weight loss of the electrodes as well as the visual appearance of the resulting electrode surfaces were recorded (average value of three times repeated),respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Scanning electron microscopy (SEM) was performed using a Hitachi S-48oo to detect the morphology of the electrodes, which was sputtered with gold for 1oo s beforehand. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Charge-discharge performance ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To mitigate the negative impact from the drastic volume fluctuation of Si nano-particles during battery cycling,both the strength of ionic functional groups and the flexibility of the polymer backbone are important in the presence of flexible fluorinated ether side chains.Three ionomers,containing the flexible fluorinated ether side chains,SPEEK-PSA-Li $\\mathbf  \\{ I E C = 1 . 4 5 \\$ meq. $\\mathrm { g } ^ { - 1 } ,$ ，SPEEK-PSI-Li $\\mathrm { ( I E C = 1 . 7 3 ~ m e q . ~ g ^ { - 1 } ) }$ and PSU-PSI-Li $\\mathrm { ( I E C = 1 . 0 2 ~ m e q . ~ g ^ { - 1 } ) }$ were prepared and tested as the binders for Si particle based battery anodes.The battery capacity retentionafter10 cycles,as well as binder ionic conductivityand electrode vertical peeling strength,are compared in Fig.1. SPEEK-PSI-Li showed the highest peeling strength $( 6 . 8 2 ~ \\mathrm { ~ N ~ }$ $\\mathrm { c m } ^ { - 1 }$ ),capacity retentionafter10 cycles $\\left( 2 4 0 4 \\mathrm { m A h g } ^ { - 1 } \\right) .$ ,as well as the highest ionic conductivity $\\left( 4 . 6 \\times 1 0 ^ { - 6 } \\mathrm { S } \\mathrm { c m } ^ { - 1 } \\right)$ with flexible polymer chains and stronger ionic groups. SPEEK-PSA-Li electrodes showed less peeling strength $\\left( 3 . 2 0 \\mathrm { ~ N ~ } \\mathrm { c m } ^ { - 1 } \\right) ^ { }$ ）and capacity retentionafter10 cycles $( 1 1 8 1 \\mathrm { \\ m A } \\mathrm { \\ h \\ g } ^ { - 1 } )$ with weaker ionic groups.Electrodes with PSU-PSI-Li binders showed less peeling strength and capacity retention because of their rigid PSU backbone. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.2, the electrochemical performance of the SPEEK-PSI-Li binder was also superior to the reported conven tional binders in siliconbased electrodes.All theanodes exhibit a long flat plateau at approximately O.4 (vs.Li/Li+) during the first charging (lithiation) voltage profiles of the Si anode at 200 mA $\\mathrm { g } ^ { - 1 }$ . Si anodes with PVDF,CMC and alginate binders showed a lower charge/discharge capacity of $1 8 6 9 / 1 6 1 2 \\mathrm { \\ m A } \\mathrm { ~ h ~ }$ $\\mathrm { g } ^ { - 1 }$ 0 $\\mathrm { C E } = 8 6 . 2 \\% )$ ， $2 1 3 1 / 1 7 4 6 \\mathrm { \\ m A }$ h $\\mathrm { g } ^ { - 1 }$ 1 $\\mathrm { \\hat { C } E } = 8 1 . 9 \\% \\mathrm { \\Omega }$ ,and $3 0 0 4 / \\$ $2 2 0 7 \\mathrm { m A h g } ^ { - 1 } \\left( \\mathrm { C E } = 7 3 . 5 \\% \\right)$ .Si based anodes with SPEEK-PSI-Li binders demonstrated the best charge/discharge capacity of $3 2 6 6 / 2 8 7 4 \\mathrm { \\ m A } \\mathrm { h } \\mathrm { g } ^ { - 1 }$ ,with a highest initial coulombic effciency (CE)of $8 8 . 0 \\%$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These results confirmed that the existence of the binding ionic group and the adaptable backbone structures are important in mitigating the negative effects caused by the drastic volume change of Si particles.As shown in Fig.3,the superiority of SPEEK-PSI-Libindersover traditional binders forSi-basedanodes in lithium ion batteries can be further illustrated in the long term charging and discharging cycles under higher current rates. The poorperformance of PVDF can be explained by its lack of ionic groups to bind to Si particle surface, leading to the formation of gaps and voids after cycling,CMC binders showed improved performance by having ionic functional groups, $- \\mathrm { O H }$ and $- \\mathbf { C O } _ { 2 } ^ { - }$ to bind to the oxidized Si particle surfaces.The performance of alginate binderswas further enhanced byhaving flexibilityin the sugar backbones in addition to the ionic binding groups.9 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The poor high rate performance of the cell with CMC and alginate binders is partially due to the lack of strong ionic functionality to facilitate rapid cation transportation,resulting in salt concentration polarization and salt depletion within the electrodes during high rate charging and discharging.14 In the case ofusing SPEEK-PSI-Lias anode binders,the conformation ofnotonly PEEK back bones butalso the side fluorinated ether chains could be changed to accommodate the volume change. The introduction of the fluorinated ether portion not only reduced the solubility of the material in the electrolyte,but also enhanced the Li ion dissociation degree from the anions.The pentadentate ionic sulfonimide groups not only provide high capability to bind to the Si particle surface via hydrogen or Li ionic bridges,but also can associate with sulfonate groups from the flexible SPEEK back bones to form highly efficient cation transporting nano-channels to allow rapid lithiation and delithiation during the battery cycling as illustrated in Fig.8.As shown in Fig. 3,even at a high current rate of $2 0 0 0 \\ \\mathrm { m A } \\ \\mathrm { g } ^ { - 1 }$ ,the capacity of the anode was maintained above $5 0 0 \\ \\mathrm { m A }$ h $\\mathrm { g } ^ { - 1 }$ which could quickly return to about $2 0 0 0 ~ \\mathrm { { m A } }$ h ${ \\mathrm { g } } ^ { - 1 }$ when the current was changed back to $2 0 0 \\ \\mathrm { m A } \\ \\mathrm { g } ^ { - 1 }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/724441ca6413accc1e4abc9dc34b794355a150a765621edd834e009ff91908b5.jpg",
+        "img_caption": [
+            "Fig.1(a) Capacity retention of Si anodes with SPEEK-PSA-Li,SPEEKPSI-Li and PSU-PSl-Li binders at the rate of $4 0 0 \\mathsf { m A } \\mathsf { g } ^ { - 1 }$ after 10 cycles. (b)Conductivity of SPEEK-PSA-Li， SPEEK-PSl-Li and PSU-PSl-Li membranes.(c)Vertical peeling strength of the electrodes with different binders. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3611c8f293683f6591d82951ad07ce8a6ab7310a8ddb431ef1d5c5998c4d539f.jpg",
+        "img_caption": [
+            "Fig.2Comparison of first galvanostatic reduction and oxidation curves of Si anodes with different binders. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a174a22114e1d4a0a35bd74d59e8862422260e7a7107535a831d801367c358f5.jpg",
+        "img_caption": [
+            "Fig.3(a) Rate performance of Si anodes with different binders recorded at $0 . 0 1 { - } 2 \\ V .$ ：(b) the long cycling performance of Si anodes withthe SPEEK-PSl-Li binderat different rates. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Using the novel SPEEK-PSI-Li binder,a high capacity Si based anode with long term cycling stability can be developed for lithium ion batteries running at a high current rate.Fig. 3(b) displays the long term cycling performance of Si/SPEEK-PSI-Li anodes for 5O cycles at different rates.The discharge capacity has a slight increase during the first few cycles fora current rate of $4 0 0 \\ \\mathrm { m A } \\ \\mathrm { g } ^ { - 1 }$ ,probably due to the cell formation in the initial cycles,inwhich the active material Si was thoroughly wetted by the liquid electrolyte solution.The retention capacity of this rate was still $2 0 9 0 \\ \\mathrm { m A } \\mathrm { h } \\ \\mathrm { g } ^ { - 1 }$ .Even when the cycling current rate was increased to $2 0 0 0 \\ \\mathrm { { m A g } ^ { - 1 } }$ ,the specifc capacity was retained at about $5 1 0 \\mathrm { \\ m A } \\mathrm { ~ h ~ g ~ } ^ { - 1 }$ after 5O cycles,still much higher than the theoretical capacity of graphite. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Adhesion performance ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The superior performance of SPEEK-PSI-Li binders can further be illustrated in the specific weight loss procedure as described in the Experimental.As shown in Table 1and in Fig.4,PVDF provided the worst adhesion for the particles in the electrodes, with the highest weight loss of $3 7 . 5 \\%$ with no ionic binding groups,while CMC and alginate showed better adhesive capability with a lower weight loss of $1 2 { - } 1 4 \\%$ . The adhesion capability of SPEEK-PSI-Li was the best with the least weight loss of less than $1 0 \\%$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It should be also noted that the solubility of binders in electrolytes could affect the binding strength.' The fluorinated section in the SPEEK-PSI-Li polymer chains could provide nonswellable fluorinated barrier sections in the binding regions to enhance the binding strength.The interaction between the binder and Cu foil is also very important. SPEEK-PSI-Li provides good adhesion between the electrode materials and the Cu current collector and no Cu foil surface was exposed.On the otherhand, the images of Si/PVDF,Si/CMC and Si/alginate all exposed a portion of bare Cu foil on its top surface after the ultrasound treatment resulting from weak adhesion to the Cu surfaces. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SPEEK-PSI-Li binders could stickto the surfaces of Si nano particles and flexibly adjust with the size and shape change of Si nano-particles during lithiation and de-lithiation to prevent the destruction of electrical and ionic transporting networks.As shown in Fig.5,Si nano-particles of spherical shape with $5 0 -$ $1 0 0 \\mathrm { n m }$ in size were effectively bound together in the beginning. After cycling,voids and cracks were formed in Si/PvDF elec trodes (Fig.5(b))，where the Si particles aggregated to nonconnected big chunks with no adhesion.The Si nano-particles lost most of their shapes and merged into the blocks of SEI materials in the electrodes of Si/CMC and Si/alginate,resulting in the loss of reactive contact areas to the electrolyte.It is clear that Si nano-particles in Si/SPEEK-PSI-Li (Fig. 5(e)) still preserved their size and shapes after cycling to a large extent. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical impedance spectroscopy (EIs) performance ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 shows the Nyquist plots of Si anodes with different binders after 2nd and 50th cycles.After the 2nd (Fig. 6(a)) cycle, all the Nyquist plots were composed of a large semicircle from the high to medium frequencies and a nearly straight line at low frequencies.The semicircle at high to medium frequencies is generally accepted as the migration of lithium ions in the surface layer while the low frequency straight line is likely the result of lithium ion diffusion through the electrodes.21 Generally，good interactions between the Si and the binder make it easier to forma relatively more uniform coverage of the SEI layer on the Si surface.As observed in the SEM images,after cycling,the network of the binder surrounding the nano-particles may degrade to some extent,which would lead to increase in resistance.As shown in Fig.6(b),no additional semicircle was observed in the case of Si/SPEEK-PSI-Li and Si/alginate. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6759f08d169573b468786a6b3e84dab9417ec70503f93e44df344989d3d7799.jpg",
+        "table_caption": [
+            "Table1Weight lost percentage of the Si anode electrodes with diferentbinders after treated with ultrasound "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>PVDF/mg</td><td>CMC/mg</td><td>Alginate/mg</td><td>SPEEK-PSI-Li/mg</td></tr><tr><td>Original</td><td>1.52</td><td>1.52</td><td>1.50</td><td>1.53</td></tr><tr><td>After treated</td><td>0.95</td><td>1.31</td><td>1.32</td><td>1.38</td></tr><tr><td>Weight loss percentage</td><td>37.5%</td><td>13.8%</td><td>12.0%</td><td>9.8%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/30c7cd97f2b8fd28aa8a28ddbacbe3260953eb8a64715b88f81b2472597ce171.jpg",
+        "img_caption": [
+            "Fig.4Visual appearance of anodes after ultrasonication with (a) PVDF (b) CMC (c) alginate (d) SPEEK-PSl-Li binders. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dc1e018f3a3e20f9fecf7120494c4a14d26d57dc995276881998b7e9900b3f9.jpg",
+        "img_caption": [
+            "Fig.5SEM images of (a) Si nano-particles electrodes before cycling, and (b-e) Si anodes with PVDF,CMC,alginate and SPEEK-PSl-Li as binders respectivelyafter 50 cycles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebb869c8ca169e95f5fc8090dbaf457f4318aca594d40c2324fa6ec9230b3dac.jpg",
+        "img_caption": [
+            "Fig.6Nyquist plots of anodeswith differentbinders;(a)after 2 cycles, (b)after 5O cycles,and (c) the equivalent circuit for the fitting of the experimental electrochemical impedance spectra of lithium ion intercalation orde-intercalation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "While the Si/PVDF and Si/CMC electrodes showed two additional semicircles in the high and middle frequency regionafter 50th cycles,correspondingto the formationof thick SEI layers and increase in charge transfer resistances. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The impedance data were fitted into equivalent electrical circle analysis using Z-simpwin software as shown in Table 2, after 5O cycles,the charge transfer resistance $R _ { \\mathrm { { c t } } }$ of the electrodes madewitha SPEEK-PSI-Li was about $2 0 \\%$ .Whilethe change of $R _ { \\mathrm { { c t } } }$ in the case of PVDF and CMC binders increased by $5 0 0 \\%$ from the 2nd cycle, the change of $R _ { \\mathrm { c t } }$ for the electrodes made with Si/alginate anodes performed slightly better than CMCdue to its increased inchain flexibility.Si/SPEEK-PSI-Li anodes showed the lowest interaction resistance due to their higher lithium ion conductivity，packing flexibility,and other preferred characters from the structuresas discussed before. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Polarization performance ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The superiority in cycling performance of SPEEK-PSI-Li can be further illustrated in the $\\mathbf { d } Q / \\mathbf { d } V$ profle of Si anodes in Fig.7 under two current rates of $2 0 0 \\ \\mathrm { m A } \\ \\mathrm { g } ^ { - 1 }$ and $4 0 0 \\ \\mathrm { m A } \\ \\mathrm { g } ^ { - 1 }$ . At 200 mA $\\mathrm { g } ^ { - 1 }$ ,the lithiation peak at $0 . 0 8 { \\mathrm { ~ V ~ } }$ corresponding to the long flat plateau in the discharge voltage profile is related to the phase transition of crystalline Si to amorphous lithium silicide, while the lithiation peak around $0 . 2 5 { \\mathrm { ~ V ~ } }$ comes from the phase transition between amorphous $\\mathrm { L i } _ { x } \\mathrm { S i }$ phases;the de-lithiation peaks at $0 . 3 1 \\mathrm { V }$ and $0 . 5 0 \\mathrm { V }$ are related to the extraction of Li from Si particles,1’ corresponding to the initial slope in the charge voltage profile.When the current rate was increased to $4 0 0 ~ \\mathrm { { m A } }$ $\\mathrm { g } ^ { - 1 }$ ,the Li insertion and extraction voltage profile of the anode with alginate binders showed an obvious shifting in peak positions and lowering in capacity due to the polarization.It is interesting that the Li insertion and extraction profiles of the anode with SPEEK-PSI-Li binders exhibit no obvious shift and much less capacity change,showing no obvious increase in over-polarization loss at this rate.Efficient intrinsic ionic transporting channels may have been established in the case of SPEEK-PSI-Li and eliminated over-polarization.As shown in Fig.8，the flexible SPEEK-PSI-Li polymers physically twist around the Si nano-particles to allow the effective binding of sulfonimide functional groups to the cations on the surfaces of the nano-particles,while the association of the sulfonimide and sulfonate functional groups in the structures forms ionic domains with effective ${ \\mathrm { L i } } ^ { + }$ cation transportation channels.The association of fluorinated ether linkages formed non-soluble fluorinated domains to prevent electrolyte etching. More importantly,the size and shape of these components may be adjusted to mitigate the negative impact caused by the drastic volume fluctuation from Si nano-particles via adjustment in the flexible PEEK backbones or the fluorinated ether side chains. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa78ba3e7f9d5d157ecf46a9ed92d9233700c914a0b0ce0ca6fe1838d91c90c5.jpg",
+        "table_caption": [
+            "Table 2 Resistance values obtained from fitting impedance spectra "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">After 2 cycles</td><td colspan=\"3\">After 50 cycles</td></tr><tr><td>Binder type</td><td>Rs/Ω cm-2</td><td>Rf/Ω cm-2</td><td>Rct/Ω cm-2</td><td>Rs/ cm-2</td><td>Rf/Ω cm-2</td><td>Ret/ cm-2</td></tr><tr><td>PVDF</td><td>1.3</td><td>21</td><td>62</td><td>1.3</td><td>32</td><td>362</td></tr><tr><td>CMC</td><td>1.2</td><td>14</td><td>37</td><td>1.2</td><td>59</td><td>228</td></tr><tr><td>Alginate</td><td>1.3</td><td>12</td><td>33</td><td>1.4</td><td>27</td><td>50</td></tr><tr><td>SPEEK-PSI-Li</td><td>1.3</td><td>11</td><td>25</td><td>1.3</td><td>14</td><td>30</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb4f5308c1cfc2f2855eb1bc0d9f45b986f93fc3e55a38ad91cfa62e756c86ae.jpg",
+        "img_caption": [
+            "Fig.7Differential capacity ${ \\mathsf { d } } { \\mathsf { Q } } / { \\mathsf { d V } }$ curve of the second cycle of the asprepared Si anode with (a)alginate binders and (b) SPEEK-PSl-Li binders. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7bf8fd98aab7e8075763b3c6acfaac831c94ab2afd9fefc61d707155a5b6bba8.jpg",
+        "img_caption": [
+            "Fig.8Illustration of the interaction between SPEEK-PSl-Li and Si nano-particles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary, the negative impact causedby the largevolume change from the Si nano-particles in lithium ion battery anodes during high rate cycling can be mitigated byusing novel fluorine containing ionic binders with sulfonimide groups and structural flexibility.When cycled under high rates,the discharge capacity of comparison binders such as PVDF,CMC, alginate,SPEEK-PSA-Li and PSU-PSI-Li faded quickly,but the Si anode with SPEEK-PSI-Li showed a superior cycling stability, which could be attributed to its high cohesion capability, low solubility in electrolytes,high adaptability to volume fluctuation and high ionic conducting capability resulting from the coexistence of flexible PEEK backbones,flexible fluorinated ether side chains,ionic transporting sulfonate groups,and pentadentate super ionic sulfonimide groups in the structure.It can be seen that theuse of SPEEK-PSI-Libinders offersanattractive wayto stabilize of the performance of Si based anodes under high rate cycling,bearing high potential for applications in high performance lithium ion batteries. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The authors appreciate financial support from the National Natural Science Foundation of China (no. 51273211 and 51103171),the Ministry of Science and Technology of China (no.2012AA03A605,2012DFR50470 and 2014BAJ02B02),Bureau of Science and Technology of Ningbo (no. 2014B81004, 2014S10007， 2014B70023 and 2013C910012） and Ningbo Natural Science Foundation (no.2014A610137,2014A610138, and 2014A610194),and also appreciate Professor Hong Li and Professor Liquan Chen (Institute of Physics,Chinese Academy of Sciences) for discussion and supports. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 J. Song,M. Zhou,R.Yi, T.Xu,M.L. Gordin,D. Tang, Z.Yu, M.Regula andD.Wang,Adv.Funct.Mater.,2014,24,5904. 6 J.R.Szczech and S. Jin,Energy Environ. Sci.,2011,4,56.   \n7 N. Liu, H. Wu, M. T. McDowell, Y. Yao, C. Wang and Y. Cui, Nano Lett.,2012,12,3315.   \n8 S.Chen，M.L.Gordin，R.Yi,G.Howlett，H.Sohn and D.Wang,Phys. Chem. Chem.Phys.,2012,14,12741.   \n9 I.Kovalenko，B. Zdyrko，A. Magasinski，B. Hertzberg, Z. Milicev,R.Burtovyy,I.Luzinov and G. Yushin, Science, 2011, 334, 75.   \n10 J.S.Bridel,T.Azais，M.Morcrette,J.M. Tarascon and D.Larcher,Chem.Mater.,2009,22,1229.   \n11 L. Yue,L. Zhang and H. Zhong,J. Power Sources,2014, 247, 327.   \n12 J.Li,R. Lewis and J. Dahn,Electrochem. Solid-State Lett., 2007,10,A17.   \n13 D. Chen, R. Yi, S. Chen, T. Xu, M. L. Gordin and D. Wang, Solid State Ionics,2014,254,65.   \n14 J.-M. Oh,O.Geiculescu,D.DesMarteau and S.Creager,J. Electrochem. Soc.,2011,158,A207.   \n15D.D.DesMarteau,J.Fluorine Chem.,1995,72,203.   \n16 M.Watanabe,H. Tokuda and S. Muto,Electrochim. Acta, 2001,46,1487.   \n17 R.Meziane，J.-P. Bonnet，M.Courty，K. Djellab and M.Armand,Electrochim.Acta,2011,57,14.   \n18 K.-F.Chiu,S.H. Su,H.-J.Leu and Y. S.Chen, Electrochim. Acta,2014,117,134.   \n19 Z.Wei,L. Xue,F. Nie,J. Sheng, Q. Shi and X. Zhao,J. Power Sources,2014,256,28.   \n20 Q. Shi, L. Xue, Z. Wei, F. Liu, X. Du and D. D. DesMarteau,J. Mater.Chem.A,2013,1,15016.   \n21 C.H. Chen,J.Liu and K.Amine,Electrochem. Commun., 2001,3, 44. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Notes and references ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 B.Koo,H.Kim,Y.Cho,K.T.Lee,N.S.Choi and J.Cho, Angew.Chem.,Int.Ed.,2012,51,8762.   \n2 C.K. Chan,H. Peng,G. Liu,K. Mcllwrath,X. F. Zhang, R.A.Huggins and Y. Cui,Nat.Nanotechnol.,2oo8,3,31.   \n3 A.Magasinski,P.Dixon,B.Hertzberg,A.Kvit,J.Ayala and G.Yushin,Nat.Mater.,2010,9,353.   \n4Y.K. Jeong, T.-W.Kwon,I. Lee, T.-S.Kim,A. Coskun and J.W. Choi, Nano Lett.,2014,14,864. ",
+        "page_idx": 6
+    }
+]

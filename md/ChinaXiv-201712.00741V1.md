@@ -1,0 +1,144 @@
+临床研究
+
+# 健康成人24h尿液细胞外囊泡定量及大小分布
+
+林韩翡',刘新宇',徐小蒙',Luca Musante²,HarryHolthofer²,邹和群'  
+1南方医科大学第三附属医院肾内科、泌尿疾病研究所,广东广州 510630;Centre for BioAnalytical Sciences,  
+Dublin City University,Republic of Ireland
+
+摘要：目的研究观察健康成人24h尿液细胞外囊泡(uEVs)数量、大小分布及个体间差异。方法 利用液压透析滤过法分离9名健康成年人 $2 4 \mathrm { h }$ uEVs,通过western blot(WB)和透射电镜(TEM)技术验证uEVs的分离效果,应用BCA蛋白定量法及纳米微粒跟踪分析技术分别对富集的uEVs样品进行蛋白定量测定和囊泡数量及大小分布的分析。结果TEM下可见大小不等、形状不一的囊泡。WB技术检测到外泌体的标记物—人肿瘤易感基因(TSG101)。9名健康成人24h尿液分离的uEVs样品蛋白定量范围为 $1 3 2 . 5 0 { \sim } 7 6 0 . 7 0 ~ \mathrm { n g / m L }$ 。纳米微粒跟踪分析技术检测结果显示 $2 4 \mathrm { h }$ uEVs数量为 $( 3 . 5 6 { \sim } 5 . 1 2 ) { \times } 1 0 ^ { 1 2 }$ 个， $\mathrm { C V = 1 4 . 2 3 \% }$ 。 $2 4 \mathrm { h }$ 分泌的uEVs中，直径在 ${ < } 4 0 \ \mathrm { n m }$ 范围内的囊泡占所检测到的总囊泡数的 $0 . 0 4 \sim 0 . 6 9 \%$ ，数量为 $( 1 . 8 0 { \sim } 2 6 . 4 9 ) { \times } 1 0 ^ { 9 }$ 个；符合外泌体直径范围 ${ \mathrm { 4 0 { \sim } 1 0 0 ~ n m } }$ 的囊泡占总囊泡数的 $2 2 . 0 7 \% { \sim } 4 2 . 0 8 \%$ ，数量为 $\left( 1 . 0 0 { \sim } 1 . 7 7 \right) { \times } 1 0 ^ { 1 2 }$ 个。符合微囊泡直径范围( $1 0 0 { \sim } 1 0 0 0 \mathrm { n m } ,$ 的囊泡约占总囊泡数的 $5 7 . 8 8 \% { \sim } 7 7 . 8 5 \%$ ，数量为 $( 2 . 0 9 { \sim } 3 . 8 6 ) { \times } 1 0 ^ { 1 2 }$ 个。结论 新型液压透析滤过法能高效、便捷地实现大样本尿液uEVs的分离。健康成人分泌的 $2 4 \mathrm { h }$ uEVs个体间差异较小，是uEVs相关研究较理想的标本来源。
+
+关键词：尿液细胞外微囊泡；外泌体；纳米颗粒跟踪分析
+
+# Quantification and size distribution of 24-hour urinary extracellular vesicles from healthy adults
+
+LINHanfei',LIUXinyu',XUXiaomeng,LucaMusante²,Harry Holthofer,ZOUHequn   
+InstituteofhooroidfltedHosalfuthedicaliesityangzouinaCtef   
+BioAnalytical Sciences,Dublin City University,RepublicofIreland
+
+Abstract: ObjectiveToanalyze thequantityandsize distributionof 24-hour urinary extracellular vesicles (uEVs)fromhealthy adults.Methods The 24-houruEVs from 9healthyadultswere isolated by hydrostatic filtration dialysis (HFD).The efectiveness of uEVs enrichment was evaluatedusing Western bloting and transmission electron microscopy (TEM).The quantity and size distributionof the uEVs was analyzed with BCA protein quantification,TEM,and nanoparticletracking analysis (NTA).Results uEVs with diferent sizes and morphologies were observed under TEM. Western bloting confirmed the expression of TSG101 in all the uEV fractions from the 9 donors, ranging from 132.50 to $7 6 0 . 7 0 ~ \mathrm { n g / m L }$ . NTA results showed that the number of 24-hour uEVs amount ranged from $3 . 5 6 \times 1 0 ^ { 1 2 }$ particles to $5 . 1 2 \times 1 0 ^ { 1 2 }$ particles, with a CV of $1 4 . 2 3 \%$ . The proportion of the vesicles with a diameter ${ < } 4 0 \ \mathrm { n m }$ was $0 . 0 4 \% - 0 . 6 9 \%$ with a number range of $( 1 . 8 0 - 2 6 . 4 9 ) \times 1 0 ^ { 9 }$ particles; the proportion of vesicles with a diameter of $4 0 { - } 1 0 0 ~ \mathrm { n m }$ (which is consistent with the size of exosomes)was $2 2 . 0 7 \%$ $4 2 . 0 8 \%$ with a number range of $( 1 . 0 0 \mathrm { - } 1 . 7 7 ) \times 1 0 ^ { 1 2 }$ particles. The proportion of vesicles with a diameter of $1 0 0 { - } 1 0 0 0 \ \mathrm { n m }$ (consistent with the size of microvesicles) was $5 7 . 8 8 \% - 7 7 . 8 5 \%$ with a number range of $( 2 . 0 9 - 3 . 8 6 ) \times 1 0 ^ { 1 2 }$ particles. Conclusion The established HFD method allows eficient and convenient isolation of uEVs from a large amount of urine samples.The 24-hour uEVs from healthyadultsshow narow diferencesbetween individualsand thuscanbeanidealsource ofsamplesforrelevantstudies. Key words: urinary extracellular vesicles; exosomes; nanoparticle tracking analysis
+
+细胞外囊泡(extracellularvesicles,EVs)是由细胞分泌并携带着相应来源细胞生物信息(蛋白、RNA等)的纳米级颗粒[-3]。2004年,尿液细胞外囊泡(Urinaryextracellularvesicles,uEVs)首次被分离和鉴定出来，此后对其相关研究不断深入。泌尿系统上皮细胞(包括肾小球足细胞、肾小管细胞、膀胱等)均可分泌uEVs。uEVs的发现与研究对泌尿系统疾病早期诊断生物标记物以及治疗与监测靶点的发现带来广阔的前景，也为疾病发病机制相关研究带来了新的方法[46]。uEVs包括多种类型的囊泡，在大小、密度、沉降力、特异性标记物等方面存在着差别。根据uEVs的大小和分泌方式不同，目前大体上将其分为3种：外泌体、微囊泡以及凋亡小体，其中外泌体直径为 $4 0 { \sim } 1 0 0 ~ \mathrm { n m }$ ，微囊泡直径为100\~1000 nm,而调亡小体直径大于1000 nm[7-8]。
+
+当前我们对uEVs的研究仍处于初级阶段，欲实现最终的临床应用，仍需解决很多面临的难题。其中包括目前为止仍未发现uEVs的管家蛋白，如何对uEVs及其成分进行良好定量是研究人员面临的棘手问题9。由于受uEVs分离方法等条件的限制，目前绝大多数的uEVs相关研究所采用的标本都为晨尿或随机尿，前期已有报道提示个体间单次尿液uEVs量存在较大差异，最新研究还提示uEVs分泌有昼夜变化[10-],因此非常有必要对 $2 4 \mathrm { h }$ uEVs总体分泌情况进行分析，从而更全面地了解健康人uEVs的分泌情况，为后续的研究及临床相关检测应用提供指导。而国内外目前尚无针对 $2 4 \mathrm { h }$ 分泌的全部uEVs进行分离和分析的报道。
+
+本研究中，我们利用近期国际上报道的液压透析滤过法[12]。对健康成人 $2 4 \mathrm { ~ h ~ }$ 全部尿液中的uEVs进行提取、分析。进而明确健康成人 $2 4 \mathrm { h }$ uEVs含量、大小分布及个体间差异。
+
+# 1材料和方法
+
+# 1.1尿标本的留取
+
+9名健康成年人，年龄在22\~63岁（中位数年龄为49岁），所有人选志愿者经血糖、空腹胰岛素、尿常规、$2 4 \mathrm { h }$ 尿蛋白定量、24h尿微量白蛋白定量、血清肌酐检测及eGFR评估，结合B超等检查结果提示无肾脏病、糖尿病等慢性病史，在 $2 4 \mathrm { h }$ 尿液留取前2周内无急性感染、无药物使用史，女性避开月经期，标本留取中使用甲苯作为防腐剂(本团队前期已验证甲苯不会破坏uEVs)。
+
+# 1.2uEVs的分离和富集
+
+使用液压透析滤过法对收集到的9份 $2 4 \mathrm { h }$ 尿标本的uEVs进行分离、富集，具体步骤如下：(1)首先对尿标本进行 $2 0 0 0 \ \mathrm { g }$ 低速离心 $3 0 \mathrm { m i n }$ ,可除去细胞、细胞碎片及部分Tomm-Horsfall蛋白；(2)离心后的上清液倒入截留相对分子质量为1000000的透析膜装置中进行透析滤过;(3)当透析膜中尿液剩余 $6 { \sim } 8 ~ \mathrm { m L }$ 时，予 $2 0 0 ~ \mathrm { m L }$ miliQ水进行冲洗;(4)当透析膜中尿液剩余 $1 5 { \sim } 2 0 ~ \mathrm { m L }$ 时收集膜内富含uEVs的液体，每份分离的uEVs样品均定容至 $2 0 ~ \mathrm { m L }$ ○
+
+# 1.3BCA(bicinchoninic acid)法蛋白定量分析
+
+使用96孔板和BCA试剂盒。分别取一定体积的浓度为 $2 \mathrm { m g / m l }$ 的标准BSA溶液，加PBS溶液至 $2 0 ~ \mu \mathrm { L }$ 配成如下浓度梯度的BSA溶液：0、0.025、0.125、0.25、$0 . 5 、 0 . 7 5 、 1 、 1 . 5 、 2 \mathrm { m g / m L }$ 。样品（样品BSA溶液或蛋白质溶液)与PBS共 $2 0 \mu \mathrm { L }$ 加样,最后每孔均加 $1 6 0 ~ \mu \mathrm { L }$ 工作液混匀， $3 7 ~ \mathrm { ^ { \circ } C }$ 孵育 $3 0 \mathrm { m i n }$ ,冷却到室温后，酶标仪上$5 6 2 \mathrm { n m }$ 处读数。
+
+# 1.4Western blot,WB
+
+采用垂直板形电泳，连续凝胶系统，凝胶浓度为$1 5 \%$ ，电极缓冲液为Tris-甘氨酸缓冲液，电泳至溴甲酚蓝指示剂距凝胶底端 $0 . 5 { \sim } 1 ~ \mathrm { c m }$ 处终止电泳。样品液在沸水浴 $1 5 \mathrm { m i n }$ ，每个样品槽上样量为 $3 0 \mu \mathrm { L } _ { \circ }$ 用Bio-Rad转移槽将凝胶中的蛋白条带转移至硝酸纤维膜上，TBS洗涤2次， $. 5 \mathrm { m i n } / \mathrm { \acute { x } }$ ，用 $3 \%$ BSA封闭液封闭( $4 \mathrm { { ^ { \circ } C } }$ 冰箱过夜)。甩去封闭液，TBST洗膜3次，5min/次;把膜浸入抗体缓冲液中(稀释一抗， $1 : 2 5 0 ) 3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 孵育 $2 \mathrm { h }$ （一抗为家兔抗人Tumor Susceptibility Genel01,TSG101)。甩去一抗，同上清洗膜3次，后加入 $1 { : } 5 0 0 0$ 比例稀释的二抗，室温孵育1h(二抗为山羊抗家兔二抗)。甩去二抗，同上清洗膜3次。加入曝光液A、B(按1:1混合)各 $1 ~ \mathrm { m L }$ ；将膜置于平血中，取出在滤纸上轻轻滤干，进行定影，并扫描。
+
+# 1.5透射电镜
+
+取 $2 0 { \sim } 3 0 ~ \mu \mathrm { L }$ uEVs沉淀悬液于载样铜网上,室温静置 $2 ~ \mathrm { m i n }$ ,用滤纸从侧面吸干液体，滴加 $4 \%$ 磷钨酸溶液约 $3 0 ~ \mu \mathrm { L }$ 于铜网上，室温负染 $2 ~ \mathrm { m i n }$ 。滤纸吸干负染液，白炽灯下烤干约 $1 0 \mathrm { m i n }$ ,以PHLIPS—TECNAI10电子显微镜在电压 $8 0 \mathrm { k V }$ 条件观察照相。
+
+# 1.6纳米微粒跟踪分析(Nanoparticle trackinganalysis, NTA)
+
+NTA的可检测范围为 $1 0 ^ { 7 } { \sim } 1 0 ^ { 9 }$ particles/mL,取健康成年人的尿样品(共9份)，用miliQ水按 $1 : 1 0 0 0$ 比例稀释成 $1 ~ \mathrm { m L }$ ,通过NanoSight 3OO(NanoSight,Malvern,UK)进行测量，温度 $2 3 . 7 { \pm } 0 . 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 。25帧/s，测量时间为60s,利用囊泡布朗运动的原理及提供样品可视化和近似囊泡浓度的功能。最终得到浓度和囊泡大小的二维(2D)分布图。对NTA的设置进行优化并在测量不同样品时保证参数不变，分析样品的近似浓度、不同囊泡大小亚群的分布情况。
+
+# 1.7统计学处理
+
+采用SPSS19.0软件对数据进行分析，计量资料应用均数 $\trianglerighteq$ 标准差表示，计数资料应用率表示，个体间差异用变异系数(CV)表示。变异系数的计算公式为(标准偏差 $\div$ 平均值） $\times 1 0 0 \%$ 。
+
+# 2结果
+
+# 2.1 基本资料
+
+入组的9名健康成年人的年龄为22\~63岁（中位数年龄为49岁），其中3名年龄45岁以下，3名年龄在45\~59岁，3名年龄在60\~74岁之间。 $2 4 \mathrm { ~ h ~ }$ 尿量为$1 6 8 8 . 3 3 { \pm } 7 2 1 . 1 4 ~ \mathrm { m L }$ 。肾功能及尿蛋白定量均在正常范围内(表1)。
+
+# 2.224huEVs总蛋白定量
+
+经BCA法测得的9名健康成人 $2 4 \mathrm { h }$ 尿液富集后的uEVs样品蛋白浓度，蛋白浓度范围为 $1 3 2 . 5 0 \sim$ $7 6 0 . 7 0 ~ \mathrm { n g / m L }$ ,平均蛋白浓度为 $( 3 9 8 . 5 1 { \pm } 2 1 7 . 6 3 ) \mathrm { n g / m L }$ $C V { = } 5 4 . 6 1 \%$ 。
+
+# 2.3Westernblot检测TSG101
+
+采用Westernblot检测外泌体标志物蛋白TSG101,
+
+表19名健康成年人临床资料 Tab.1 Clinical characteristics of 9 healthy adults   
+
+<html><body><table><tr><td>Paramater</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>Age (year)</td><td>28</td><td>24</td><td>22</td><td>51</td><td>49</td><td>45</td><td>63</td><td>61</td><td>62</td></tr><tr><td>Creatinine (mmol/L)</td><td>76</td><td>65</td><td>89</td><td>60</td><td>68</td><td>71</td><td>67</td><td>64</td><td>68</td></tr><tr><td>24-hour protein uria (mg/24 h)</td><td>50</td><td>64</td><td>72</td><td>49</td><td>43</td><td>59</td><td>73</td><td>43</td><td>56</td></tr></table></body></html>
+
+结果显示每个样品在相对分子质量为45000存在清晰地条带，提示我们通过液压透析滤过法收集的uEVs样品中含有大量外泌体(图1)。
+
+![](images/0b0777f0f0e47c4fce5f1d380dd005c92cfdfc360129c406e13a075b3b15f771.jpg)
+
+# 2.4 TEM观察uEVs
+
+透射电子显微镜下观察到我们所分离的uEVs样品中进行存在很多大小不一、呈圆形、椭圆形、杯状或不规则形状的囊泡，直径范围为 $2 0 { \sim } 2 0 0 0 \mathrm { n m }$ （图2）。
+
+# 2.5NTA检测到的 $2 4 \mathrm { h }$ uEVs数量及大小分布
+
+NTA检测出的9个样品（每个样品均为 $2 0 ~ \mathrm { m L }$ ）中uEVs近似浓度范围为 $( 1 . 7 8 { \sim } 2 . 5 6 ) { \times } 1 0 ^ { 8 } / \mathrm { m L }$ ，浓度为$( 2 . 1 3 \pm 0 . 3 0 ) \times 1 0 ^ { \mathrm { { s } } } / \mathrm { { m L _ { \mathrm { { o } } } } }$ 按体积计算出健康成人 $2 4 \mathrm { ~ h ~ }$ uEVs的总含量范围为 $( 3 . 5 6 { \sim } 5 . 1 2 ) { \times } 1 0 ^ { 1 2 }$ ,uEVs含量为$( 4 . 2 5 { \pm } 0 . 6 0 ) { \times } 1 0 ^ { 1 2 }$ 个,个体间CV为 $1 4 . 2 3 \%$ （表2）。
+
+NTA分析还显示出详细的不同大小囊泡分布情况。每个样品的囊泡直径 $1 6 0 { \pm } 8 5 { \sim } 3 0 2 { \pm } 1 9 9 \ \mathrm { n m }$ ，囊泡总体直径为 $2 3 3 { \pm } 1 5 3 ~ \mathrm { n m }$ （图3)。我们按前述的uEVs的分类标准进一步按大小进行分类分析：直径在 ${ < } 4 0 ~ \mathrm { n m }$ 范围内的囊泡占总囊泡数的 $0 . 0 4 \% \sim 0 . 6 9 \%$ ，数量为（204 $( 1 . 8 0 { \sim } 2 6 . 4 9 ) { \times } 1 0 ^ { 9 }$ ;直径在 $4 0 { \sim } 1 0 0 ~ \mathrm { n m }$ 范围内的囊泡占总囊泡数的 $2 2 . 0 7 \% { \sim } 4 2 . 0 8 \%$ ，数量为 $\left( 1 . 0 0 { \sim } 1 . 7 7 \right) { \times } 1 0 ^ { 1 2 }$ 直径在 $1 0 0 { \sim } 1 0 0 0 ~ \mathrm { n m }$ 范围内的囊泡占总囊泡数的$5 7 . 8 8 \% { \sim } 7 7 . 8 5 \%$ ,数量为 $( 2 . 0 9 { \sim } 3 . 8 6 ) { \times } 1 0 ^ { 1 2 } \$ 。直径处在微囊泡大小 $( 1 0 0 { \sim } 1 0 0 0 ~ \mathrm { n m } ,$ 的囊泡占所有uEVs的比例最高(表2)。
+
+![](images/2c74bd184edf8ae59a5747ee0537642ba4b1e8ae44d71c8e474c0c340f88f331.jpg)  
+图1免疫印迹检测9名健康成人 $2 4 \mathrm { ~ h ~ }$ uEVs样 本中TSG101 Fig.1Western blot analysis of TSG101 for 24h uEVs samples of 9 healthy adults.   
+图2透射电镜下所观察到的uEVs特征 Fig.2 Characterization of uEVs observed using transmission electron microscope.
+
+表29名健康成人NTA检测结果 Tab.2NTAanalysis of $2 4 \mathrm { h }$ uEVs from9 healthyadults   
+
+<html><body><table><tr><td>Paramater</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>Concentration (10" paticles/mL)</td><td>1.78</td><td>1.92</td><td>1.81</td><td>2.09</td><td>2.30</td><td>2.56</td><td>2.44</td><td>1.84</td><td>2.39</td></tr><tr><td>Quantity (10l² paticles)</td><td>3.56</td><td>3.84</td><td>3.62</td><td>4.18</td><td>4.60</td><td>5.12</td><td>4.88</td><td>3.68</td><td>4.78</td></tr><tr><td>Average diameter (nm)</td><td>224±178</td><td>180±101</td><td>160±85</td><td>244±150</td><td>249±152</td><td>302±199</td><td>251±101</td><td>226±155</td><td>265±181</td></tr><tr><td>Ratio of <40 nm in diameter (%)</td><td>0.68</td><td>0.69</td><td>0.04</td><td>0.18</td><td>0.18</td><td>0.32</td><td>0.36</td><td>0.05</td><td>0.08</td></tr><tr><td>Ratio of 40~100 nm in diameter (%)</td><td>38.31</td><td>36.66</td><td>42.08</td><td>30.58</td><td>24.61</td><td>24.30</td><td>36.17</td><td>27.20</td><td>22.07</td></tr><tr><td>Ratio of 100~1000 nm in diameter (%)</td><td>61.01</td><td>62.65</td><td>57.88</td><td>69.24</td><td>75.21</td><td>75.38</td><td>63.47</td><td>72.75</td><td>77.85</td></tr></table></body></html>
+
+![](images/08b4c6ed4a6e97e5125ffa93b43280593eb2cd9ebc20bb31f73a98fd0b26d2d8.jpg)  
+图3NAT分析9名健康24h尿液中uEVs含量及分布情况 Fig.3NATaalysisoftheamountandsizedistributionof24-huEVsfromthe9healthyadults.A-I:No.1toNo.9uEVssamples, respectively. The abscissa is the vesicle diameter (range $0 { - } 1 0 0 0 \ \mathrm { n m }$ ),and the ordinate is the number of vesicles per $1 ~ \mathrm { m L }$ of the urine sample.
+
+# 3讨论
+
+本研究在利用新型的uEVs分离方法基础上，首次对健康成人24h尿液中的所有uEVs进行分离、富集，并对 $2 4 \mathrm { h }$ uEVs的分泌总量、大小分布、个体间差异等情况等进行了综合检测和分析。既往关于uEVs的研究采用的标本均为从晨尿、随机尿或是留取24h尿液混匀后的尿液总量中取少量标本[13-14]。然而,单次尿标本中的微囊泡常常会因为昼夜节律，水合状态的变化、锻炼和饮食的影响导致误差[15-17]。文献检索未见到对 $2 4 \mathrm { h }$ 所有尿液标本进行处理的报道，本研究首次报道对24h尿液中所有uEVs进行分离并分析。研究结果显示通过液压透析滤过法可以快速有效地处理健康成人24h尿液(约$\scriptstyle 1 \sim 3 \mathrm { ~ L ~ } ,$ 并分离出uEVs,分离时间约为 $2 0 \mathrm { h }$ 。分离出的uEVs样品通过Westernblot检测可以清晰地显示外泌体的标志蛋白-TSG101的表达。此外，通过TEM观察可见大小不一，形态各异的囊泡。NTA检测的结果也显示所分离的样品中含有大量不同大小的小泡。综上结果表明利用液压透析滤过法能够简单、高效地对大样本尿液(24h尿液)标本进行uEVs分离，从而为后续的分析与检测提供理论和实验基础。
+
+目前对uEVs的定量研究报道较少，有限的关于单次尿液中uEVs的间接定量报道如下：Mitchell等[1通过BCA蛋白定量法，对10名健康成人随机尿外泌体平均蛋白定量为 $\left( 3 6 6 . 7 1 \pm 2 9 2 . 6 9 \right) \mathrm { n g / m L }$ ， $C \mathrm { V } { = } 7 9 . 8 1 \%$ 。Zhen等[14通过Bradford法对7名健康成人 $2 0 0 ~ \mathrm { m L }$ 尿外泌体平均蛋白定量为 $\left( 4 0 0 . 8 6 \pm 2 1 0 . 8 5 \right) \mathrm { n g / m L }$ ， $\mathrm { C V = }$ $5 2 . 6 0 \%$ 。而Wilna等[9则通过NTA对单次尿标本中特定标志蛋白的外泌体量进行检测显示，外泌体粒子浓度为 $( 0 . 1 9 \mathrm { { \sim } } 0 . 3 2 ) \mathrm { { \times } } 1 0 ^ { 6 }$ particles/mmoL, $C V = 2 4 \%$ 。本研究首次对健康成人 $2 4 \mathrm { h }$ 总uEVs进行定量研究，结果表明：用BCA法测得的总uEVs样品(每个 $2 4 \mathrm { h }$ 尿样品浓缩后容积 $2 0 ~ \mathrm { m L }$ )蛋白浓度范围为 $1 3 2 . 5 0 { \sim } 7 6 0 . 7 0 ~ \mathrm { n g / m L }$ ，蛋白浓度为( $3 9 8 . 5 1 \pm 2 1 7 . 6 3 \$ ） $\mathrm { { n g / m L } }$ $C \mathrm { V } { = } 5 4 . 6 1 \%$ 。用NAT测得的 $2 4 \mathrm { ~ h ~ }$ uEVs分泌总量为 $( 4 . 2 5 { \pm } 0 . 6 0 ) { \times } 1 0 ^ { 1 2 }$ particles, $\mathrm { C V = 1 4 . 2 3 \% }$ 。作者分析用BCA法测定的各标本间CV较大的主要原因有两点：(1)目前缺乏对uEVs样品蛋白浓度进行良好测定的方法，常规的测定蛋白浓度的方法(包括BCA与考马斯亮蓝法)均不准确2o；(2)
+
+初步分离的uEVs样品中存在干扰蛋白。目前国际上现有的uEVs分离方法均不能完全消除中干扰蛋白的影响，尤其是Tamm-Horsfall蛋白(THP)、色素等的干扰,从而影响蛋白浓度分析的偏差。由于NTA是直接追踪并测定囊泡颗粒，是目前现有的研究囊泡定量的相对而言最科学的方法。因此我们认为本研究用NTA方法测得的 $2 4 \mathrm { ~ h ~ }$ 总uEVs定量信息及个体间差异结果可靠，健康成人1d内分泌的uEVs平均总量大，但个体间差异较小。
+
+虽本研究提示健康成人个体间 $2 4 \mathrm { h }$ 尿液uEVs总量差异性较小，但该结果并不能推导出单次晨尿或随机尿液个体间差异亦较小。相反，由于单次尿液样品中尿液浓缩程度的不同，而目前又缺乏对uEVs含量进行良好校正的方法或指标，因此通过晨尿或随机尿液样品对uEVs成分进行分析比较时需慎重对待结果。
+
+目前对于囊泡的分类并未统一，囊泡的直径大小是分类参考的主要指标[21]。本研究通过TEM和NTA检测uEVs的形态及大小分布提示，uEVs样品中存在大小不等的囊泡，呈圆形、椭圆形、杯状或不规则形状。NTA发现囊泡平均直径范围为 $2 3 3 { \pm } 1 5 3 \ \mathrm { n m }$ ，与电镜所见的主要囊泡范围相符。通过NTA对不同大小范围内的囊泡分布进行分析显示,在可检测到的 $0 { \sim } 1 0 0 0 ~ \mathrm { { n m } }$ 范围内，符合microvesicles直径范围（ $1 0 0 { \sim } 1 0 0 0 ~ \mathrm { n m }$ 的囊泡所占比例最高(约占总囊泡数的 $5 8 \% { \sim } 7 8 \%$ )，符合外泌体大小范围 $( 4 0 { \sim } 1 0 0 ~ \mathrm { n m } )$ 的囊泡所占比例次之（2 $( 2 2 \% \sim 4 2 \%$ ),亦有少一部分直径低于 $4 0 \ \mathrm { n m }$ 的囊泡,该结果与既往文献报道相符。Oosthuyzen[通过NanoSightLM10检测5名健康成人单次尿标本结果显示在 $0 { \sim } 3 0 0 ~ \mathrm { n m }$ 范围内观测,分布在 $2 0 { \sim } 1 0 0 ~ \mathrm { n m }$ 范围内的囊泡所占比例相对较小 $( 1 4 . 6 { \pm } 2 . 3 ) \%$ 。Maria[23]通过NTA分析健康成人血小板分泌的囊泡显示， $90 \%$ 以上的囊泡直径小于 $5 0 0 \ \mathrm { n m }$ ,而分布在 $1 0 0 { \sim } 2 5 0 ~ \mathrm { n m }$ 范围内的囊泡比例较高[22]。尽管不同类型囊泡在大小方面可能存在重叠,但本研究结果提示人体所分泌的uEVs中，外泌体并不是最主要的囊泡成分。虽然我们已经意识到外泌体在细胞间信号通讯过程中可能起到了重要的作用,对其研究也较多，但同时我们亦不能忽视泌尿系统上皮细胞所分泌的更大量其它不同类型与大小的囊泡，其同样可能是生物标记物的良好来源,值得进一步关注。后续的研究有望对uEVs进行更好的分类分析，从而找到其中的差别。有趣的是本研究也发现uEVs样品中存在小部分直径很小甚至 $< 2 0 ~ \mathrm { n m }$ 的小囊泡,本团队前期通过超速离心法分离uEVs也发现了类似的微囊泡[24]。目前国际上对该部分小囊泡未有明确界定,报道极少,其形成与作用机制不清,亦有待进一步研究。
+
+综上所述，采用新型液压透析滤过法能高效、便捷地实现大样本尿液uEVs的分离。健康成人分泌的 $2 4 \mathrm { ~ h ~ }$ uEVs个体间差异较小，是uEVs相关研究较理想的标本来源。符合微囊泡范围的直径在 $1 0 0 { \sim } 1 0 0 0 ~ \mathrm { n m }$ 的囊泡占人体分泌的uEVs的主要部分。对人体 $2 4 \mathrm { h }$ 分泌的uEVs的总体认识，将对我们后续的分类研究提供科学的实验基础。
+
+# 参考文献：
+
+[1]Kim DK, Kang B, Kim OY, et al. EVpedia:an integrated database of high-throughput data for systemic analyses of extracellular vesicles[J].2013,2. doi: 10.3402/jev.v2i0.20384.   
+[2]Hill AF,Pegtel DM,Lambertz U,et al. ISEV position paper: extracellular vesicleRNA analysisand bioinformatics [J].J Extracell Vesicles,2013,2.doi:10.3402/jev.v2i0.22859.   
+[3]Théry C, Ostrowski M, Segura E. Membrane vesicles as conveyors of immune responses[J]. Nat Rev Immunol, 2009,9(8): 581-93.   
+[4]Camussi G,Deregibus MC,Bruno S,et al.Exosome/microvesiclemediated epigenetic reprogramming of cells[J].Am J Cancer Res, 2011,1(1): 98-110.   
+[5] Borges FT, Reis LA, Schor N. Extracellular vesicles: structure, function,and potential clinical uses in renal diseases[J].Braz JMed Biol Res,2013,46(10): 824-30.   
+[6]Wang D,Sun W.Urinary extracellular microvesicles: isolation methods and prospects for urinary proteome[J].Proteomics,2014, 14(16): 1922-32.   
+[7]Burger D，Schock S,Thompson CS，et al.Microparticles: biomarkers and beyond[J].Clin Sci,2013,124(7/8):423-41.   
+[8]Burger D,Thibodeau JF, Holterman CE,et al. Urinary podocyte microparticles identify prealbuminuric diabetic glomerular injury [J].JAm Soc Nephrol,2014,25(7): 1401-7.   
+[9]Jacquillet G,Hoorn EJ, Vilasi A,etal. Urinary vesicles: in splendid isolation[J].Nephrol Dial Transplant,2013,28(6): 1332-5.   
+[10]Kojima S,Shingle DL,Green CB.Post-transcriptional control of circadian rhythms[J].JCell Sci,2011,124(Pt 3): 311-20.   
+[11]Guo J, Cheng P, Yuan H,et al. The exosome regulates circadian gene expression in a posttranscriptional negative feedback loop[J]. Cell,2009,138(6): 1236-46.   
+[12]Musante L,Tataruch D, Gu D,et al.A simplified method to recover urinary vesicles for clinical applications,and sample banking [J]. Sci Rep,2014,4: 7532.   
+[13]Pisitkun T,Shen RF,Knepper MA.Identificationand proteomic profiling of exosomes in human urine[J]. Proc Natl Acad Sci USA, 2004,101(36): 13368-73.   
+[14] Wang Z,Hill S,Luther JM,et al. Proteomic analysis of urine exosomes by multidimensional protein identification technology (MudPIT)[J].Proteomics,2012,12(2):329-38.   
+[15]Koopman MG, Krediet RT, Koomen GC,et al. Circadian rhythm of proteinuria: Consequences of the use of urinary protein:creatinine ratios[J]. Nephrol Dial Transplant,1989,4(1): 9-14.   
+[16]Hoorn EJ,Pisitkun T, Zietse R,et al. Prospects for urinary proteomics: exosomes as a source of urinary biomarkers[J]. Nephrology (Carlton),2005,10(3): 283-90.
+
+# （上接1534页）
+
+[17]Price CP,Newall RG,Boyd JC.Use of protein: creatinine ratio measurementson random urinesamples forpredictionof significant proteinuria:a systematic review[J].Clin Chem,2O05,51 (9): 1577-86. [18]Mitchell PJ,Welton J, Staffurth J,et al.Can urinary exosomes act as treatment response markers in prostate cancer?[J].J Transl Med,   
+2009,7,doi: 10.1186/1479-5876-7-4 [19]Oosthuyzen W,Sime NE, Ivy JR,et al.Quantification of human urinary exosomes by nanoparticle tracking analysis[J].J Physiol,   
+2013,591(Pt 23): 5833-42. [20]Salih M,Zietse R,Hoorn EJ.Urinary extracellular vesicles and the kidney:biomarkers and beyond[J].Am JPhysiol Renal Physiol,   
+2014,306(11): F1251-9.   
+[21] Van Der Pol E,Hoekstra AG, Sturk A,et al. Optical and non-optical methods for detection and characterization of microparticles and exosomes[J].JThromb Haemost,2010,8(12):2596-607.   
+[22]Aatonen MT,Ohman T,Nyman TA,et al. Isolation and characterization of platelet-derived extracellular vesicles [J].J Extracell Vesicles,2014,3.doi:10.3402/jev.v3.24692.   
+[23]Aupeix K,Hugel B,Martin T,et al. The significance of shed membrane particles during programmed cell death in vitro,and in vivo,in HIV-1 infection[J].JClin Invest,1997,99(7): 1546-54.   
+[24]Musante L,Saraswat M,Ravida A,et al.Recovery of urinary nanovesicles from ultracentrifugation supernatants[J].Nephrol Dial Transplant,2013,28(6):1425-33.
+
+（编辑：吴锦雅）

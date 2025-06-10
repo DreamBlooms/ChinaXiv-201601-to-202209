@@ -1,0 +1,334 @@
+[
+    {
+        "type": "text",
+        "text": "长期高策略性技能训练对运动员大脑白质",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "结构的影响：一项DTI研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "祁亚鹏'王怡萱」朱桦²周成林'王莹莹l\\*（1上海体育学院心理学院，上海 200438)(²北京航空航天大学生物与医学工程学院，北京100191)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要目前关于运动员经验优势的脑机制还存在争议，尤其对于涉及较多认知过程参与的高策略性技能项目运动员，其大脑白质结构可塑性变化还需进一步探究。研究横向对比了乒乓球运动员和非运动员大脑白质纤维束的弥散张量成像数据。结果发现，相比于非运动员，乒乓球运动员在连接背侧和腹侧通路脑区的双侧皮质脊髓束、左侧上纵束、左侧下纵束和双侧额枕下束的各向异性值（FA）更大，进一步分析发现，部分腹侧通路白质纤维束FA 增加的原因是径向扩散系数（RD）下降。研究结果支持了动作双通路模型。提示经过长期高策略性技能训练，乒乓球运动员在背侧和腹侧通路上的白质纤维束结构完整性增强。￥键词 脑丝均可朔言竿析辻能顶口乓乓球行动邑改斯改县成确",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects associated with long-term training in sports ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "requiring high levels of strategy on brain white matter structure in expert players: a DTI study ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "QI yapeng',WANG yixuan1, ZHU hua², ZHOU chenglin1,WANG yingyingl ('Department of Psychology, Shanghai University of Sport, Shanghai, 200438, China) (School of Biological Science and Medical Engineering, Beijing University of Aeronautics and Astronautics,Beijing 100191, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Previous brain imaging studies have shown that the specialized experience achieved by expert sports players after years of training contributes to plasticity in both brain function and structure. However, changes in brain plasticity related to participating in various types of sports, specifically sports that involve higher-level strategies and cognitive function, remain unclear. Table tennis is a sport requiring high levels of strategy. Thus, the present study investigated the white matter structure of the brain in expert table tennis players who had undergone long-term training. Given the accumulating evidence that action processing in the brain occurs along two distinct pathways dorsal and ventral—we hypothesized that, in addition to changes in the white matter of the dorsal sensorimotor system, the white mater in the ventral pathway linking brain regions related to higher-level cognitive function would differ between expert table tennis players and nonplayers. An investigational group of 31 expert table tennis players ( $2 0 . 0 6 \\pm 1 . 6 9$ years of age) and a control group of 28 college students ( $2 0 . 6 8 \\pm 1 . 6 6$ years of age) who had no professional training in table tennis were recruited for the study. The table tennis players were members of university teams, and each player had more than 7 years of table tennis training.Diffusion tensor imaging techniques were used to compare white matter microstructure properties of the brain between expert players and nonplayers. Statistical analyses were performed using independent t-tests. Further analysis was conducted for the expert player group to assess whether any correlation existed between fractional anisotropy (FA) values and training time. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Consistent with our hypothesis, the white mater microstructure properties of both the dorsal and ventral pathways in expert table tennis players significantly differed from those in nonplayers. Specifically,FA values in the bilateral corticospinal tracts, which mainly connect brain regions in the dorsal sensorimotor system，were higher in experts than in nonplayers. Compared with nonplayers, expert players also had higher FA values in the left inferior longitudinal fasciculus and bilateral inferior occipitofrontal fasciculus of the ventral pathway, which are involved in higherlevel cognitive processing, such as semantic processing or thinking. By contrast, no white matter region showed a higher FA value in nonplayers than in expert players,and no region was found with axial diffusivity difference between the groups. Additionally, radial diffusivity was lower in the left superior longitudinal fasciculus and bilateral inferior occipitofrontal fasciculus in experts than in nonplayers. Correlation analysis of the expert group showed significant positive correlations between training time and FA values in both the left superior longitudinal fasciculus in the ventral pathway and bilateral corticospinal tracts in the dorsal pathway. Taken together, these findings suggest that enhanced structural integrity of the white mattr in both the dorsal and ventral pathways is associated with long-term, expert table tennis training. The observed structural plasticity is conducive to promoting cognitive processng of concrete sensorimotor and abstract information,which would enable expert players to excel at sports requiring a high level of strategy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Key words brain structural plasticity,high-level strategy sports,table tennis player,diffusion tensor imaging ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "揭示运动员的脑结构变化对于理解并促进运动表现过程具有重要意义[]&。长期专项训练对运动员脑结构可塑性的影响已得到诸多研究的证实[2-5]，大部分脑结构的改变是反映运动员专家优势的基础。同时，近期有研究者提出不同类型项目运动员的脑结构存在差异[6]。根据动作执行时所需的认知策略多少，可将动作技能划分为低策略性技能和高策略性技能：对于低策略性技能项目运动员（如体操），动作完成表现的决定因素是动作本身的质量；而对于高策略性技能项目运动员（如乒乓球），动作本身并不重要，重要的是如何利用思维、言语等高级认知功能（higher-level cognitive functions）对动作进行计划和执行，以击败对手。然而，作为一类更强调认知策略参与的技能项目，高策略性项目运动员在与这些高级认知功能相关的大脑结构上是否发生了特异性的变化还未可知。揭示该问题将有利于理解运动技能学习的神经机制，并为运动训练提供指导。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当前较多研究采用MRI技术，发现低策略性技能项目运动员经过长期专项训练会引发感知运动通路脑区的可塑性变化。如长跑运动员和武术运动员在辅助运动区、前运动皮层的灰质体积均显著大于普通人，舞蹈运动员感知运动通路白质纤维束的弥散率更高[7，8]。这些感知运动系统的可塑性变化与“前馈模型”理论的观点是一致的，该理论认为，执行动作时积累的相关经验主要是感觉和动作表征，当再次知觉到相似动作时，大脑感觉区和运动区就会激活，从而利用这些表征对动作进行模拟（actionsimulation），最终高效地完成动作加工和动作反应过程[9]。同时，这种模拟过程也能够满足低策略性技能项目的认知需求，运动员很大程度上仅需要从具体感知运动层面完成动作即可。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然而，对于涉及较多认知策略参与的高策略性技能项目而言，除感知运动脑区外，还可能存在其他负责高级认知功能的脑区在运动表现中发挥着重要作用。如本团队前期采用功能MRI技术发现，乒乓球运动员在对发球动作结果进行预判时，激活了角回、内侧前额叶皮层和颞中回等腹侧言语脑区[10]。Guo 等人(2017）[1]也发现，足球运动员在判断专项相关的假动作时比普通人多激活了内侧前额叶皮层、前岛叶和扣带回，这些区域主要与情绪感知、判断与决策等高级认知功能有关[12，13]。早在 2011年，Kilner（2011）[14]提出了双通路模型，从结构上来说，背侧通路主要以下顶叶区域为中心，与前运动皮层和颞上沟后部相连，腹侧通路主要从颞中回后部延伸至腹侧额下回。他认为除了背侧感知运动系统外，负责言语加工等高级认知功能的腹侧通路也会参与到动作学习过程中[14,15]，这就意味着经过长期专项动作训练后的运动员，不仅仅会发生感知运动系统的可塑性改变，可能还会引起腹侧通路的改变。Pulvermuller［16]早在 2005年就指出，大脑感知运动系统和言语系统存在功能和结构连接，可以构成一个更大的脑网络参与动作认知加工过程[16]。因此，本研究认为腹侧通路在高策略性技能项目表现中占有十分重要的地位，经过长期高策略性技能训练的运动员在背侧和腹侧通路结构均会发生可塑性改变。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结构MRI技术是了解大脑结构特征的有效手段，它不受限于功能MRI技术对实验任务和人体状态的影响，可以稳定地获取大脑结构图像，是分析和揭示大脑可塑性的重要技术。其中，白质纤维束是维持大脑功能的重要脑结构之一，它们负责连接着各个脑区，使得脑区内部和脑区之间可以以网络或系统的形式协同发挥其功能作用[16-19]，这种连接的效率可以通过白质纤维束结构特征反映出来。DTI技术在大脑白质纤维的成像方面具有独特的优势，各项异性分数（Fractional anisotropy，FA）和平均弥散率（Mean diffusivity，MD）是DTI数据的常用参数，FA的大小与髓鞘的完整性、纤维致密性及平行性有关，反映了水分子在白质纤维中轴向和径向扩散的比例，并且可以通过轴向扩散系数（axial diffusivity，AD）和径向扩散系数（radial diffusivity，RD）进一步反映白质纤维束的变化特征。MD反映了水分子弥散水平和弥散阻力的整体情况，可以反映弥散的大小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究通过对比乒乓球运动员和非运动员白质纤维FA、MD、AD 和 RD的差异，探究长期高策略性技能训练对大脑白质结构可塑性的影响，特别是连接腹侧通路脑区的白质结构变化。基于双通路模型和已有文献，提出假设：乒乓球运动员相比于非运动员，连接背侧和腹侧通路脑区的白质结构更加完整。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本实验从上海体育学院校级乒乓球队招募了31名队员作为专家组，其中国家一级运动员30人，国家二级运动员1人；从同一高校招募了28名普通大学生作为对照组，以确保两组被试的学习和生活环境相似，对对照组的问卷调查结果表明，对照组被试均无任何项目的运动经验和习惯。两组被试年龄 $\\left[ \\ t \\left( 5 7 \\right) \\ = \\right.$ -1.41， $\\mathrm { ~ p ~ } = \\ 0 . \\ 1 6 5$ ，Cohen’s $\\mathrm { ~ d ~ } = \\ 0 . \\ 3 7$ ，差异的 $9 5 \\%$ CI为(-0.26，1.49)]、身体质量指数 $\\left[ \\ t \\left( 5 7 \\right) \\ = \\ - 0 . \\ 5 7 , \\right.$ ， $\\mathrm { ~ p ~ } = \\mathrm { ~ 0 . ~ 5 6 9 ~ }$ ，Cohen’s $\\mathrm { ~ d ~ } = \\ - - 0 . 1 5$ ，差异的 $9 5 \\%$ CI为 $\\left( - 1 . 6 6 , 0 . 9 2 \\right) ]$ 和性别比例 $[ { \\underline { { y } } } ^ { \\underline { { \\hat { 2 } } } } ~ = ~ 0 . 0 1$ ， $\\mathrm { ~ p ~ } = \\ 0 . \\ 9 2 2 ]$ 均无显著差异，尽可能确保两组被试的差异主要为乒乓球运动经验。在实验开始前所有被试签署了知情同意书，并填写了基本信息表。所有被试健康状况良好，无颅脑疾病史和精神疾病史，均自我报告为右利手，且自愿参加本实验（具体被试信息见表1）。本研究通过上海体育学院伦理委员会批准。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/78354b2714e54a77a00001840ac579e6cbd7f383b56242e2c53b9e8aa3e69b15.jpg",
+        "table_caption": [
+            "表1被试基本信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>专家组</td><td>对照组</td></tr><tr><td>人数（男/女）</td><td>31 (14/17)</td><td>28 (13/15)</td></tr><tr><td>年龄(M±SD)</td><td>20.06±1.69岁</td><td>20.68 ±1.66岁</td></tr><tr><td>训练年限</td><td>11.97±2.68年</td><td>/</td></tr><tr><td>训练强度</td><td>5次/周、2小时/次</td><td>/</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2数据采集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用同济大学电信学院数字影像实验室GE3.0T磁共振成像系统采集图像(GE Discovery MR-750 3.OT scanner， GE Medical Systems， Waukesha,WI）。被试闭目仰卧于扫描仪内，被告知尽量保持头部不要动，并且保持安静、清醒。以快速扰相梯度回波（FSPGR）扫描获得无间隔三维全脑T1结构像，具体扫描参数如下：层数 $= 1 7 6$ ，层厚1mm，体素大小$\\mathrm { \\tau = 1 \\times 1 \\times 1 m m ^ { 3 } }$ ，TR=8.156ms， $\\mathrm { T E { = } 3 . 1 8 m s }$ ，翻转角 $\\overline { { = 8 ^ { \\circ } } }$ ，扫描视野$= 2 5 6 \\times 2 5 6 \\mathrm { m m } 2$ 。DTI图像采集具体参数如下： $\\scriptstyle \\mathrm { T R = } 8 6 0 0$ ms， $\\mathrm { T E { = } 8 4 . 2 ~ m s }$ ，采集矩阵（Acquisition matrix） $= 1 2 8 \\times 1 2 8 \\mathrm { m m }$ ，层厚 $1 . 5 \\mathrm { { m m } }$ ，层间距0mm，共扫描67层，扫描范围不包括小脑。每名被试采集4个T2-权重图像 $\\mathrm { ( b 1 ~ = ~ 0 ~ \\ s / m m 2 ) }$ ）和1个包括30个方向的弥散-权重回波平面成像扫描‘ $\\mathrm { \\mathit { \\Omega } \\mathit { \\Delta } b 2 \\ = \\ 1 0 0 0 \\ \\ s / m m 2 } \\mathrm { \\mathit { \\Omega } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3数据处理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) 预处理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用MRIcron软件将每名被试的原始数据转换为4D的NIFTI格式文件，然后采用FSL（FMRIBSoftwareLibrary）软件工具包进行预处理，包括：（1）涡流矫正，减少由于梯度线圈的涡流引起的图像形变和可能由头动导致的对齐错误。（2）剥脑，去掉头皮等非脑组织结构，减少DTI拟合和追踪运算量，提高配准准确性。（3）DTI指标解算，使用单指数弥散模型，按照最小二乘法原理线性拟合单高斯弥散张量，提取出弥散本征值和本征向量，根据弥散本征值计算出FA指标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2基于纤维束空间统计方法（TBSS）",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用基于纤维束空间统计方法（tract-based spatial statistics,TBSS）对获得的参数指标图进行进一步分析[20]，该方法相比于手动设定兴趣区（ROI）和基于体素的分析方法（voxel-basedanalysis，VBA），能够避免配准不齐和平滑核不确定等问题。TBSS方法可以产生组平均骨架以及进一步得到个体骨架，并且不需要对数据进行平滑。每个被试的FA图像被配准至 $1 \\ \\mathrm { m m } \\times 1 \\$ mm $\\times 1$ mm 的标准空间中（MNI152）；将获得的平均FA图像生成平均骨架；为了去除灰质和脑脊液等部分，设定FA骨架的阈值为0.2；将所有被试配准后的FA图像投影到平均骨架上，生成个体FA骨架，对每个被试的MD图、AD图和RD图重复上述过程。最后，基于假设，采用randomise对骨架化的FA、MD、AD和RD图进行专家组和对照组之间的独立样本t检验和置换检验，随机置换5000次，显著水平设置为采用无阈值聚类增强（Threshold-freecluster enhancement,TFCE）方法对结果进行多重比较矫正（p〈0.05）［7，21]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将上述DTI指标存在显著差异的白质纤维束分别与JHU-ICBM-tracts-maxprob-thr $2 5 \\mathrm { - } 1 \\mathrm { m m }$ 模板相乘，做交集后得到白质纤维束感兴趣区。然后依次从每个被试的骨架图上提取这些白质纤维束的指标值。对提取到的指标值进行组间差异检验，进一步验证组间白质纤维束的结构差异。对于运动员组，为深入揭示这种白质纤维束的结构改变与乒乓球专项训练的关系，将指标相比于对照组显著更高的白质纤维束特征值与训练时间做相关分析，其中训练时间 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 持续训练年限 $\\times 1 2$ （月） $\\times 4$ （周） $\\times$ 训练频率（每周几天） $\\times$ 训练频率（每天几次） $\\times$ 训练时长（每次几小时）。最后，采用R4.0.3软件对差异检验和相关分析结果p值进行Hochberg多重比较矫正（p〈0.05）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "专家组在双侧皮质脊髓束、双侧额枕下束、左侧下纵束和左侧上纵束的FA 显著高于对照组（图1），而未能发现对照组FA高于专家组的白质纤维束，反映了专家组在背侧和腹侧通路白质结构可塑性的改变。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/23186fa6231120c617fb7892f7958c3e37d05a52cd8067af952a01c4576c24b7.jpg",
+        "img_caption": [
+            "图1白质纤维束结构图。A：绿色区域代表白质纤维束骨架，红色区域代表专家组相比于对照组FA更高的白质纤维束。B：FA存在组间差异的白质纤维束解剖位置。其中，绿色，皮质脊髓束；红色：额枕下束；黄色：下纵束；蓝色：上纵束。"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "组间FA差异分析结果显示，专家组在左侧皮质脊髓束 $[ \\ t ( 5 7 ) \\ = \\ 3 . 7 5$ ，p<0.001]、右侧皮质脊髓束 $[ \\ t ( 5 7 ) \\ = \\ 3 . 8 0$ ， $\\mathrm { ~ p ~ } \\langle \\ 0 . 0 0 1 ]$ 、左侧额枕下束 $\\left[ \\ t \\left( 5 7 \\right) \\ = \\right.$ 4.22， $\\mathrm { ~ p ~ } \\ < \\ 0 . 0 0 1 ]$ 、右侧额枕下束 $\\left[ \\operatorname { t } \\left( 5 7 \\right) \\ = \\ 3 . \\ 1 0 \\right.$ ， $\\mathrm { ~ p ~ } = \\ 0 . 0 0 3 ]$ 、左侧下纵束$[ t ( 5 7 ) ~ = ~ 4 . 7 8$ ，p〈0.001]和左侧上纵束 $\\left[ \\operatorname { t } \\left( 5 7 \\right) \\ = \\ 2 . 2 9 \\right.$ ， $\\mathrm { ~ p ~ } = \\ 0 . \\ 0 2 6 ]$ 的FA显著高于对照组（图2）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e72979ccb5f5d1accd875de4c75a4be4eadced9afca36906b27752f3074554f8.jpg",
+        "img_caption": [
+            "图2专家组和对照组在双侧皮质脊髓束、双侧额枕下束、左侧下纵束和左侧上纵束FA的比较条形图。实心圆代表专家组（ATH），空心圆代表对照组（CON）。\\*表示 $\\cdot p < 0 . 0 5$ ；\\*\\*表示 ${ \\cdot \\boldsymbol { p } } < 0 . 0 1$ ；\\*\\*\\*表示 $p < 0 . 0 0 1$ 。"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "相关分析结果显示，左、右侧皮质脊髓束和左侧上纵束的FA与训练时间均存在显著正相关（图3），反映了背侧通路和部分腹侧通路白质纤维束的可塑性改变与乒乓球运动训练经验有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8f4ee08db37794332063acc08ccef9c41c32bb2bf937079f9ead210f9369902.jpg",
+        "img_caption": [
+            "图3专家组左、右侧皮质脊髓束和左侧上纵束的FA与训练时间的相关散点图。\\*表示 $p < 0 . 0 5$ 。"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "所有白质纤维束的MD和AD均未发现组间差异。然而，结果显示了对照组RD高于专家组的白质纤维束，包括双侧上纵束、双侧额枕下束、左侧丘脑后辐射、右侧内囊后肢、上辐射冠和左侧内囊前肢，但未发现专家组RD高于对照组的白质纤维束。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究以乒乓球这一典型的高策略性技能项目为研究对象，对比了专业乒兵球运动员和非运动员在全脑白质FA、MD、AD和RD 的差异，以探究长期专项训练对大脑白质结构可塑性的影响。与假设一致的是，乒乓球运动员相比于非运动员，在大脑白质结构上发生了显著改变，具体包括双侧皮质脊髓束、左侧上纵束左侧下纵束和双侧额枕下束的FA更高，证实了大脑背侧感知运动通路和腹侧言语通路在乒乓球专项动作学习过程中的重要作用，运动员白质结构完整性的提高将有利于动作信息在相应脑区间的高效传递。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Kilner (2011)的双通路模型把动作执行前的过程分为5个步骤：（1）视觉加工外部信息；（2）在已有经验中回忆相关动作；（3）根据意图选择合适的动作；（4）对已选动作表征进行编码；（5）预测动作信息。其中第2、3、4步主要由腹侧通路完成，第4、5步主要由背侧通路完成，反映了该双通路对动作加工和执行的重要作用。本研究结果发现专家组在双侧皮质脊髓束的FA更高，该白质纤维束主要连接初级运动皮层、躯体感觉皮层、顶叶和扣带回，负责传入身体感觉和传出肌肉运动的相关信息[22]，这些脑区几乎都是背侧感知运动系统的组成部分，反映了乒乓球运动员背侧通路白质结构的可塑性改变。显然，运动训练过程有感知运动系统的参与。因而，即使是高策略性技能项目也发现皮质脊髓束的完整性得到了增强，这符合已有关于运动员的研究主要集中探讨感知运动系统的现状。除乒乓球项目外，长期进行钢琴、体操、手球、篮球等各类项目的运动训练，均可以引起皮质脊髓束的FA升高[23-26]。同时，结果还发现双侧皮质脊髓束的FA与训练时间呈显著正相关，进一步证实了感知运动系统的白质结构改变与长期乒乓球技能训练是紧密相关的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除了双侧皮质脊髓束，结果还显示乒乓球运动员在左侧上纵束、左侧下纵束和双侧额枕下束等位于腹侧通路的FA更高。左侧上纵束是人脑形态结构最复杂、包含成分最多并且传递功能最重要的白质纤维束[27]，该纤维束负责将额区和鳃盖区分别连接到顶上小叶、角回、缘上回和颞上回等众多脑区[28，29]。左侧上纵束与许多高级认知功能相关[29]。如Urger等人(2015）［30]发现，上纵束FA与执行功能有正相关，而左侧上纵束FA与注意力和言语能力均存在正相关。疾病类研究则对这一相关推论提供了更加有力的证据，研究指出，左侧上纵束的顶叶及颞叶后部与额叶下部的连接，在发音-语义匹配中起到了直接作用[31，32]。结合本研究相关分析发现，乒乓球运动员组左侧上纵束FA与训练时间呈显著正相关。这表明了，乒乓球运动员在该白质纤维束上的结构变化，证实了高策略性技能项目需要言语等高级认知功能的参与，他们在专项训练和比赛中经常需要通过言语、思维等功能制定技战术策略，指导动作计划和执行，以赢得比赛，从而其左侧上纵束位置神经纤维发生了可塑性的有利改变，这与运动实践中教练员提倡的“用脑子打球”是相符的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "另外，左侧下纵束负责将枕颞区后部至颞极间的脑区连接至额叶，在枕叶、颞叶和前额叶的腹侧皮层之间起到信号传递的作用[33]，这与双通路模型中的腹侧通路几乎重合。枕叶负责处理视觉信息，而颞叶，特别是左侧颞叶负责言语功能[34]，所以，连接二者的左侧下纵束参与了很多与视觉和言语功能有关的认知活动[35]，如物体特征处理、阅读、词汇和语义处理等[36]。乒乓球运动员之所以在左侧下纵束上的FA更高，是因为该技能项目需要快速的视觉和动作反应，但是单纯的视觉信息加工显然不足以让运动员做出有效的应对。我们认为在对对手的动作进行分析的过程中，视觉信息在枕叶得到初步加工后，会通过下纵束传递至颞叶进行“翻译”，从而将其变为有意义的动作线索，这些线索会被进一步传递到额下回，并用于制定“赢球”的动作计划。如已有学者提出，下纵束可以对视觉线索进行整理和调节[36]，从而影响后续的决策和行为。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "同时，我们还发现乒乓球运动员在双侧额枕下束的FA更高。该白质纤维束主要连接腹侧眶额皮层、背外侧和后部额区以及颞区后部到枕叶皮层[34，37，38]，同样也与腹侧通路的解剖学位置大体一致。疾病类研究结果表明，额枕下束白质结构的改变与语义缺失有关，术中电刺激额枕下束会诱导产生语意错乱[39]。基于这些实证结果，研究者认为额枕下束在语义系统相关的皮下网络功能中起重要作用[40]。Vandermosten等人(2012）[41]则进一步指出，额枕下束主要负责词汇-语义的匹配过程，即将词汇视觉信息转化为语义信息。这和乒乓球运动员从动作信息（视觉运动学信息）到推测动作意图以及制定技战术策略（语义信息）的过程是相似的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，上述负责连接言语脑区的白质纤维束完整性发生的可塑性变化与乒乓球专项动作训练相关。这意味着，虽然言语脑区的发现是基于词汇、句子等加工过程[42]，但是这些脑区并不局限于加工词汇刺激，还与加工一些可转换成符号等抽象信息的对象有关，如动作。一些研究结果也证实了言语和动作加工的脑机制是相似的[16,43-45]。在运动科学领域，Beilock等人(2008）[46]也发现冰球训练会影响对冰球动作相关的言语理解能力。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "最后，我们还通过AD和RD指标，进一步分析了乒乓球运动员上述6条纤维束FA改变的具体生理基础。结果指出，专家组在左侧上纵束、左侧和右侧额枕下束的RD显著低于对照组，而AD未发现组间差异。AD和RD分别反映了轴突和髓鞘的完整程度，是影响白质纤维束FA 的重要因素[47-49]，如 Zhang 等人(2009)[49]发现白鼠的 RD 增加和髓鞘解体成正相关。因此，本实验发现专家组在这三条白质纤维束FA的增加主要源于其RD的下降所致，标志着其髓鞘完整度高于非运动员，但轴突的变化不大。另外，结果未发现其余三条白质纤维束，即左侧、右侧皮质脊髓束和左侧下纵束的AD和RD组间差异显著，无法推测专家组FA值增大的轴向和径向扩散情况。通过上述对FA值发生改变的白质纤维束AD 和 RD的比较和分析，我们可以推测，经过长期专项训练，乒乓球运动员连接位于负责言语、思维等高级认知功能的腹侧通路的白质纤维束髓鞘完整度显著提升。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究首次发现了乒乓球运动员大脑负责言语等高级认知功能的白质纤维束完整性发生了正向的可塑性改变，这种改变符合高策略性技能项目运动员所必备的心理技能特征。该结构改变也进一步支撑了本团队前期发现的乒乓球运动员语义脑区的功能性改变[10]，即乒乓球运动员相比于非运动员，在加工专项动作过程中，会显著激活颞中回等语义脑区。其次，与以往功能性和结构性脑成像研究结果相似的是，本研究也验证了运动员背侧通路脑白质结构完整性发生了可塑性的变化，这可能是乒乓球运动员动作技能水平高于非运动员的重要脑机制之一。总之，本研究验证了假设，即长期高策略性训练可以引起大脑白质结构的可塑性改变，特别是负责连接腹侧语义脑区的白质纤维束，其在高策略性技能项目中可能扮演着重要角色。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究存在以下几点不足：首先，在被试选择上，仅选取了乒乓球运动员和无球类经验的非运动员，无法将结果推广至其它项目。今后研究可从项目类型入手，通过对比高策略性和低策略性技能项目运动员的大脑结构特征，进一步揭示不同类型的专项训练对大脑的可塑性影响。其次，本研究未对言语能力等高级认知功能进行测试，无法验证乒乓球运动对腹侧通路功能可塑性影响的认知表现特征，今后研究可进一步探讨高策略性技能项目运动经验对专项动作或一般动作相关的言语加工能力的影响（如动词）。最后，本研究通过横向比较对乒乓球专项训练与大脑结构改变的关系做出了相关关系的结论，今后研究可以采用纵向干预研究，探究长期运动训练对脑结构的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "长期乒乓球专项技能训练能够使运动员大脑白质结构发生可塑性改变。具体包括连接背侧感知运动通路和腹侧言语通路脑区的白质纤维束方向性增强，其中负责连接腹侧通路脑区的左侧上纵束和双侧额枕下束的髓鞘完整度加强。这与高策略性技能项目特征是一致的，可有利于乒乓球运动员加工专项动作相关的感知运动信息和复杂言语思维信息，为高策略性技能项目运动员专家优势提出了新的视角和机制解释。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n[1]DAYAN E, COHEN L G. Neuroplasticity subserving motor skillearning [J]. Neuron, 2011, 72(3): 443-54.   \n[2] BEZZOLA L, MERILLAT S, GASER C,et al. Training-induced neural plasticity in golf novices [J]. J Neurosci, 2011, 31(35): 12444-8.   \n[3] CALMELS C. Neural correlates of motor expertise: Extensive motor training and cortical changes [J]. Brain Res, 2019,146323.   \n[4] KELLER T A， JUST M A. Altering cortical connectivity: remediation-induced changes in the white matter of poor readers [J]. Neuron, 2009, 64(5): 624-31.   \n[5] TAUBERT M, DRAGANSKI B,ANWANDER A,et al. Dynamic properties of human brain structure: learning-related changes in cortical areas and associated fiber connections [J]. J Neurosci, 2010, 30(35): 11670-7.   \n[6]任占兵,胡琳琳,张远超,etal.运动技能专家脑可塑性研究进展：来自磁共振成像的证据 [J].中国体育科技,2019,55(2): 16.   \n[7] GIACOSA C, KARPATI F J, FOSTER N E V, et al. Dance and music training have different effects on white matter diffusivity in sensorimotor pathways [J]. Neuroimage, 2016, 135(273-86.   \n[8] SCHLAFFKE L, LISSEK S, LENZ M,et al. Sports and Brain Morphology - a VoxelBased Morphometry Study with Endurance Athletes and Martial Artists[J]. Neuroscience, 2014, 259(35-42.   \n[9] BLAKEMORE S J, DECETY J. From the perception of action to the understanding of intention [J]. Nat Rev Neurosci, 2001, 2(8): 561-7.   \n[10] WANG Y, LU Y, DENG Y, et al. Predicting domain-specific actions in expert table tennis players activates the semantic brain network [J]. Neuroimage, 2019, 200(482-9. [11] GUO Z P, LI A M, YU L. \"Neural Efficiency\" of Athletes' Brain during Visuo-Spatial Task: An fMRI Study on Table Tennis Players [J]. Front Behav Neurosci, 2017,11( [12] CRITCHLEY H D,WIENS S，ROTSHTEIN P, et al. Neural systems supporting interoceptive awareness [J]. Nat Neurosci, 2004, 7(2): 189-95.   \n[13] MONSELL S. Task switching [J]. Trends Cogn Sci, 2003, 7(3): 134-40.   \n[14] KILNER J M. More than one pathway to action understanding [J]. Trends Cogn Sci, 2011, 15(8): 352-7.   \n[15] BUXBAUM L J，KALENINE S. Action knowledge，visuomotor activation，and embodiment in the two action systems [J]. Ann N Y Acad Sci, 2010,1191(201-18. [16] PULVERMULLER F. Brain mechanisms linking language and action [J]. Nat Rev Neurosci, 2005,6(7): 576-82.   \n[17] MAKRIS N, MEYER JW, BATES J F, et al. MRI-Based topographic parcellation of human cerebral white matter and nuclei II Rationale and applications with systematics of cerebral connectivity [J]. Neuroimage, 1999, 9(1): 18-45.   \n[18] RIZZOLATTI G, LUPPINO G. The cortical motor system [J]. Neuron,2001,31(6): 889-901.   \n[19] ROMANSKI L M, TIAN B, FRITZ J, et al. Dual streams of auditory afferents target multiple domains in the primate prefrontal cortex [J]. Nat Neurosci, 1999, 2(12): 1131- 6.   \n[20] SMITH S M， JENKINSON M, JOHANSEN-BERG H,et al. Tract-based spatial statistics: voxelwise analysis of multi-subject diffusion data [J]. Neuroimage，2006, 31(4): 1487-505.   \n[21] WINKLER A M, RIDGWAY G R,WEBSTER M A,et al. Permutation inference for the general linear model [J]. Neuroimage, 2014, 92(381-97.   \n[22] GUYTON A C，HALL JE. Textbook of medical physiology 11th ed [J]. Elsiever Saunders, 2006, 788-817.   \n[23] BENGTSSON S L, NAGY Z, SKARE S,et al. Extensive piano practicing has regionally specific effects on white matter development [J]. Nature neuroscience， 2005，8(9): 1148.   \n[24] HANGGI J, LANGER N, LUTZ K, et al. Structural Brain Correlates Associated with Professional Handball Playing [J]. Plos One,2015,10(4):   \n[25] WANG B, FAN Y, LU M, et al. Brain anatomical networks in world class gymnasts: a DTI tractography study [J]. Neuroimage, 2013, 65(476-87.   \n[26]吴殷，张剑，沈城.不同类型运动项目对运动员大脑结构可塑性变化研究[J].体育科学, 2015, 35(4): 6.   \n[27] KAMALI A, FLANDERS A E, BRODY J, et al. Tracing superior longitudinal fasciculus connectivity in the human brain using high resolution difusion tensor tractography [J]. Brain Struct Funct, 2014, 219(1): 269-81.   \n[28] DICK A S, TREMBLAY P. Beyond the arcuate fasciculus: consensus and controversy in the connectional anatomy of language [J]. Brain,2012,135(3529-50.   \n[29] MAKRIS N, KENNEDY D N, MCINERNEY S, et al. Segmentation of subcomponents within the superior longitudinal fascicle in humans: a quantitative,in vivo,DT-MRI study [J]. Cereb Cortex, 2005,15(6): 854-69.   \n[30]URGER S E， DE BELLIS M D， HOOPER S R,et al. The Superior Longitudinal Fasciculus in Typically Developing Children and Adolescents: Difusion Tensor Imaging and Neuropsychological Correlates [J]. J Child Neurol, 2015,30(1): 9-20.   \n[31] BRAUER J，ANWANDER A，PERANI D，et al. Dorsal and ventral pathways in language development [J]. Brain and language, 2013,127(2): 289-95.   \n[32] MONZALVO K， DEHAENE-LAMBERTZ G. How reading acquisition changes children's spoken language network [J]. Brain and Language, 2013,127(3): 356-65. [33] YEATMAN J D, RAUSCHECKER A M, WANDELL B A. Anatomy of the Visual word form area: adjacent cortical circuits and long-range white matter connections [J]. Brain Lang, 2013, 125(2): 146-55.   \n[34] VIGNEAU M, BEAUCOUSIN V, HERVE P Y, et al. Meta-analyzing left hemisphere language areas: phonology， semantics,and sentence processing [J]. Neuroimage, 2006,30(4): 1414-32.   \n[35] CATANI M, DELL'ACQUA F, BIZZI A,et al. Beyond cortical localization in clinicoanatomical correlation [J]. Cortex, 2012, 48(10): 1262-87.   \n[36] HERBET G，ZEMMOURA I，DUFFAU H. Functional Anatomy of the Inferior Longitudinal Fasciculus: From Historical Reports to Current Hypotheses [J]. Front Neuroanat, 2018,12(   \n[37] MARTINO J，BROGNA C,ROBLES S G,et al. Anatomic dissection of the inferior fronto-occipital fasciculus revisited in the lights of brain stimulation data [J]. Cortex, 2010, 46(5): 691-9.   \n[38] SARUBBO S, DE BENEDICTIS A,MALDONADO I L, et al. Frontal terminations for the inferior fronto-occipital fascicle: anatomical dissection, DTI study and functional considerations on a multi-component bundle [J]. Brain Struct Funct, 2013, 218(1): 21- 37.   \n[39] HAN Z Z, MA Y J, GONG G L, et al. White matter structural connectivity underlying semantic processing: evidence from brain damaged patients [J]. Brain, 2013,136(2952- 65.   \n[40] DUFFAU H, GATIGNOL P, MANDONNET $\\mathsf { E } ,$ et al. New insights into the anatomofunctional connectivity of the semantic system: a study using cortico-subcortical electrostimulations [J]. Brain, 2005,128(4): 797-810.   \n[41] VANDERMOSTEN M， BOETS B， POELMANS H,et al. A tractography study in dyslexia: neuroanatomic correlatesof orthographic， phonological and speech processing [J]. Brain, 2012,135(935-48.   \n[42] BINDER J R, DESAI R H, GRAVES W W, et al. Where is the semantic system? A critical review and meta-analysis of 120 functional neuroimaging studies [J]. Cerebral Cortex, 2009,19(12): 2767-96.   \n[43]AMORUSO L, GELORMINI C， ABOITIZ F, et al. N40O ERPs for actions: building meaning in context [J]. Frontiers in Human Neuroscience, 2013,7(   \n[44] REID V M, HOEHL S, GRIGUTSCH M, et al. The neural correlates of infant and adult goal prediction: evidence for semantic processing systems [J]. Dev Psychol，2009, 45(3): 620-9.   \n[45] REID V M, STRIANO T. N400 involvement in the processing of action sequences [J]. Neurosci Lett, 2008, 433(2): 93-7.   \n[46] BEILOCK S L, LYONS I M, MATTARELLA-MICKE A, et al. Sports experience changes the neural processing of action language [J]. Proc Natl Acad Sci U S A, 2008,105(36): 13269-73.   \n[47]白学军，邵梦灵，刘婷，etal.羽毛球运动重塑成年早期的大脑灰质和白质结构[J].心理学报， 2020, 52(02): 173-83 %@ 0439-755X %L 11-1911/B %W CNKI.   \n[48] SONG S K, SUN S W, RAMSBOTTOM M J, et al. Dysmyelination revealed through MRI as increased radial (but unchanged axial) diffusion of water [J]. Neuroimage, 2002, 17(3): 1429-36.   \n[49] ZHANG J, JONES M, DEBOY C A，et al. Diffusion tensor magnetic resonance imaging of Wallerian degeneration in rat spinal cord after dorsal root axotomy [J]. J Neurosci, 2009, 29(10): 3160-71. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "王莹莹，祁亚鹏：提出研究思路，设计研究方案祁亚鹏，王怡萱：进行实验朱桦，祁亚鹏：数据采集、清洗和分析王莹莹，祁亚鹏，王怡萱：论文起草和撰写周成林，王莹莹：论文修订与最终版确定",
+        "page_idx": 13
+    }
+]

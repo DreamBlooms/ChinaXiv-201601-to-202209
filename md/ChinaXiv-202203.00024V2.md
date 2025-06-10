@@ -1,0 +1,167 @@
+# 荷瘤与切除肿瘤小鼠尿液蛋白质组的比较
+
+衡姊琦」赵晨阳「高友鹤1（北京师范大学基因工程药物及生物技术北京市重点实验室 北京 100871)
+
+# 摘要:
+
+[目的]本研究关注了临床外科医生最关心的问题—一实体肿瘤切除效果。尿液蛋白质组能够灵敏的反映机体的生理变化。探索小鼠MC38皮下瘤切除与否尿液蛋白质组的变化。
+
+[方法]建立MC38皮下荷瘤小鼠模型，将小鼠分为健康对照组，完全切除实验组和完全不切除实验组。对三组小鼠进行手术，收集手术后第7天、第30天的尿液，利用液相色谱联用质谱（LC-MS/MS)，对尿液蛋白质组进行鉴定，分析差异蛋白和相关生物学通路。[结果] (1)皮下瘤完全切除组和完全不切除组切除手术后7天，尿液蛋白质组可以筛选出能够区分两组的20个差异蛋白，生物学过程包括昼夜节律、Notch信号通路、白细胞间粘附、异嗜性细胞通过质膜粘附细胞分子等。（2)皮下瘤完全切除组和完全不切除组切除手术后30天，尿液蛋白质组可以筛选出能够区分两组的33个差异蛋白，生物学过程包括细胞粘附、补体激活和替代途径、免疫系统的过程、血管生成等。（3）皮下瘤完全切除组和健康对照组切除手术后30天两组差异不明显。
+
+[结论]尿液蛋白质组的变化可以反应肿瘤切除与否。关键词：肿瘤；手术切除；尿液；蛋白质组
+
+The comparison of urine proteomes from tumor-bearing mice with those from tumor-resected mice Heng Ziqi' Zhao Chenyang² Gao Youhe\* 1 (Gene Engineering Drug and Biotechnology Beijing Key Laboratory， Bei jing Normal University，Beijing 100871， China)
+
+Abstract:
+
+[Objective] This study focuses on the most important concern of surgeons - whether they resected all the tumors. Urine may reflect early changes associated with physiological or pathophysiological processes. Based on the above ideas, we have conducted some experiments to explore changes in the urine proteome urine proteomes between tumor-bearing mice to tumor-resected mice. [Method] The tumor-bearing mouse model was established with MC38 mouse colon cancer cell， and the mice were divided into the healthy control group， tumor complete resection group， and the tumor non-resection group. Urine was collected on the 7 days and 30 days after resection. Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) was used to identify the urine proteome and then analyze differential proteins and biological pathways.
+
+[Results] (1） 7 days after the tumor removal surgery between the complete resection group and the non-resection group， there are 20 differential proteins that can distinguish the two groups. The biological process includes circadian rhythm, Notch signaling pathway， leukocyte cell-cell adhesion， heterophilic cellcell adhesion via plasma membrane cell adhesion molecules. (2) 30 days after the tumor removal surgery between the complete resection group and the non-resection group， there are 33 differential proteins that can distinguish the two groups. The biological process includes cell adhesion， complement activation， the alternative pathway， immune system process， angiogenesis. (3) There was no significant difference between the two groups at 30 days after the tumor removal surgery between the complete resection group and the healthy control group. [Conclusion] The changes of urine proteome can reflect tumor with surgical removal or not.
+
+Keywords: tumor; resection； urine; proteome
+
+# 1引言
+
+外科治疗实体肿瘤最常用的方法是手术切除加化疗或放疗的方法，但肿瘤切除后的复发情况也十分常见，针对实体肿瘤是否切除干净是很多外科医生最关心的问题。
+
+人体内的所有细胞都依赖于一个稳定的内环境来生存和发挥作用。血液作为所有组织和器官内部环境的关键提供者，需要保持稳定和平衡，以保护器官免受干扰因素的影响。相反，作为血液的滤液，尿液不需要也不具有稳定的机制。因此，尿液可以将机体排出体外的变化进行富集，且不受稳态机制的调控，因此可反映机体疾病引起的早期变化，是寻找生物标志物良好的生物学来源[1]。
+
+在我们实验室之前的研究中，Walker256荷瘤大鼠在生长出可触及肿瘤肿块之前，尿液蛋白质组就表现出显著变化，并且尿液中的这些早期变化也可以在癌症晚期通过差异丰度来识别[2]。大鼠尾静脉注射Walkers-256细胞后的第2天尿蛋白质组就发生了变化，早于第4天出现的肺肿瘤结节的病理变化[3]。Walker 256细胞植入大鼠胫骨的3天后肿瘤组的大鼠尿液中有25个蛋白发生显著变化，早于计算机断层扫描（CT）检查中发现明显的病变[4]。利用Walker-256 细胞注射大鼠肝脏后第3天，实验大鼠中有12个差异蛋白质发生变化，有7个差异蛋白与肝癌显著相关，而且在不同器官中生长的相同肿瘤细胞能反映在差异尿蛋白中[5].
+
+临床尿液样本影响因素多，而且要收集早期病人的样本耗时长，因此建立结直肠癌的小鼠模型，可以将潜在的干扰因素降到最低，并且能够动态的关注动物的发病时间，在病理或临床表现出现之前在足够早期的时间点获得尿液样本，利于肿瘤切除和是否复发的观察[6]。
+
+本实验利用小鼠构建小鼠结肠腺癌细胞系（MC38）皮下瘤模型，模型建立后进行皮下瘤切除手术，并在手术完成后收集小鼠尿液，利用液相串联质谱进行尿液蛋白质组学分析，实验流程如图1所示。本实验旨在探索小鼠MC38皮下瘤切除与否尿液蛋白质组的变化。
+
+![](images/aedd00e862ba02c6b4b865ac2ffcaf97453f534ac9c7df01ad95cd869b1f0aed.jpg)  
+图1小鼠皮下瘤切除与否的尿液蛋白质组学表现的研究流程
+
+# 2 材料与方法
+
+# 2.1MC38皮下瘤小鼠模型的建立
+
+雄性c57BL/6j 小鼠 $1 8 \mathrm { g } { \cdot } 2 0 \mathrm { g }$ 购自北京维通利华实验动物技术有限公司15只，动物许可证为SYXK(京)2021-0074。所有动物在标准环境中（室温 $2 2 \pm 1 ^ { \circ } \mathrm { C }$ ，湿度 $6 5 \% { \sim } 7 0 \%$ ）饲养。将实验小鼠在新环境中饲养三天，使其熟悉环境后，随机分为三组，分别是健康对照组（ $\mathrm { \Delta } \mathrm { n } { = } 5 \mathrm { \Delta }$ )，皮下瘤完全切除实验组（ $\scriptstyle 1 = 5$ ）和皮下瘤完全不切除实验组（ $\mathrm { \underline { { n } } } { = } 5 \mathrm { \underline { { \cdot } } }$ )。MC38细胞（由北京工业大学盛望教授课题组赠予）加入完全培养基（DMEM培养液， $10 \%$ 胎牛血清和 $1 \%$ 青霉素/链霉素），放置于T75细胞培养瓶中培养，直至准备好充足的细胞。细胞状态良好时，细胞用台盼蓝染色计数，确保植入动物体内前每管活细胞数大于 $90 \%$ 。将计数好的细胞均调整数量为 $5 { \times } 1 0 ^ { 6 }$ 个 $/ \mathrm { m l }$ 。
+
+建模方法如下：小鼠参考体重麻醉，麻醉剂为戊巴比妥钠，剂量为( $1 0 \mathrm { m g / k g } )$ 。待其麻醉后，固定小鼠四肢于一次性无菌医用垫单上，剔除注射部位毛发后进行消毒。用1ml 注射器吸取分装好的细胞（对照组注射PBS 缓冲液)，注射体积为 $0 . 1 \mathrm { m l }$ ，将MC38细胞注射于皮下瘤完全切除实验组（ $\scriptstyle \cdot = 5$ ）和皮下瘤完全不切除实验组（ $\mathrm { \Delta } \cdot \mathrm { n } { = } 5 \mathrm { \Delta }$ ）小鼠的右后肢皮下。健康对照组（ $\mathrm { n } { = } 5$ ）注射PBS缓冲液。根据肿瘤生长状况，对三组小鼠分别给予手术。将皮下瘤完全切除实验组小鼠的皮下瘤完全切除；皮下瘤完全不切除实验组小鼠的皮下瘤保留，只切除部分组织肌肉并保证与完全切除实验组小鼠创面一致；健康对照组只切除部分组织肌肉保证与完全切除实验组小鼠创面一致。
+
+# 2.2尿液样本的收集
+
+收集实验小鼠的尿液。在尿液收集期间，所有小鼠单独放置于代谢笼中，并且禁食禁水。过夜收集尿液，收集时间为12小时，收集尿液的量不少于 $\mathrm { 1 m l }$ 。
+
+# 2.3尿液蛋白质的提取和酶解
+
+将小鼠尿液进行蛋白提取,利用胰蛋白酶（Trypsin Gold,Promega,Fitchburg,WI,USA),进行酶切后收集肽段；酶切的肽段通过 HLB 柱 (Waters,Milford,MA)除盐，然后使用真空干燥仪抽干。用 $0 . 1 \%$ 甲酸水重溶，并稀释到 $0 . 5 \mu \mathrm { g / u L }$ ，使用真空干燥仪抽干后用 $0 . 1 \%$ 甲酸水复溶。再取每个样品制备混合多肽样，使用高pH反相肽段分离试剂盒（Thermo Fisher Scientific）进行分级，使用真空干燥仪抽干后用 $0 . 1 \%$ 甲酸水复溶，用于后续建库。向所有鉴定的样品中加入iRT（Biognosys）进行保留时间的统一。
+
+# 2.4LC-MS/MS 串联质谱分析
+
+# 2.4.1数据依赖性采集模式的质谱鉴定数据库采集
+
+使用 EASY-nLC 1200 超高效液相色谱串联 Orbitrap Fusion Lumos 高分辨质谱仪对10个分级组分进行数据采集。将溶于 $0 . 1 \%$ 甲酸水中的肽段装载至预柱（ $( 7 5 \mu \mathrm { m } \times 2 \mathrm { c m }$ $3 \mu \mathrm { m }$ ,C18,100A°)，将洗脱液装载至反相分析柱（ $5 0 \mu \mathrm { m } \times 2 5 0$ $\mathrm { m m }$ ， $2 ~ { \mu \mathrm { m } }$ ,C18, $1 0 0 { \mathrm { A } } ^ { \circ }$ )，洗脱梯度为 $4 \% - 3 5 \%$ 流动相B（ $80 \%$ 乙腈 $+ 0 . 1 \%$ 甲酸$+ 2 0 \%$ 水，流速为 $3 0 0 \mathrm { n L / m i n } .$ ， $9 0 \mathrm { m i n }$ 。为实现全自动、灵敏的信号处理，在所有样品中使用校准试剂盒（iRTkit，Biognosys,Switzerland)，浓度为 $1 { : } 2 0 ~ \mathrm { v / v }$ 。
+
+以 DDA-MS 模式分析 10 个组分，参数设置如下：喷雾电压 $2 . 4 \mathrm { k V }$ , Orbitrap 的一级分辨率为 60000、扫描范围为 $3 5 0 \mathrm { - } 1 5 5 0 \mathrm { m / z }$ ，二级扫描范围为 $2 0 0 { - } 2 0 0 0 \mathrm { m / z }$ ，分辨率为30000，筛选窗口为 $2 \mathrm { D a }$ ，碰撞能量为 $30 \%$ HCD)。AGC 目标为 5e4,最大进样时间为 $3 0 \mathrm { m s }$ 。raw 文件通过 PD（Proteome Discoverer2.1，ThermoFisher Scientific公司）软件建库和分析，
+
+# 2.4.2 实验样品的DIA 数据采集
+
+以DIA-MS 模式分析36 个实验样品。液相参数同DDA 数据库采集。质谱参数设置如下：以60000 分辨率、 $3 5 0 \mathrm { ~ - ~ } 1 5 5 0 ~ \mathrm { m / z }$ 扫描范围进行一级全扫描;接下来进行二级扫描，分辨率为30000，建立36个筛选窗口，HCD碰撞能量为 $30 \%$ ，AGC目标为 $\mathrm { 1 e ^ { 6 } }$ ，最大注入时间为 $5 0 \mathrm { m s }$ 。窗口计算方式：建库采集到的DDA搜库结果，依据 $\mathrm { m / z }$ 将所有鉴定到的肽段数量进行排序，分成36组，每一组的 $\mathrm { m / z }$ 范围即为采集DIA 数据的窗口宽度。
+
+# 2.5质谱数据分析
+
+使用 Spectronaut X 软件对质谱数据进行处理和分析。导入每个样本 DIA采集的raw文件进行搜库。高度可信蛋白标准为肽段qvalue $< 0 . 0 1$ ，采用二级肽段所有碎片离子峰面积进行蛋白定量。
+
+# 2.6统计学分析
+
+采用成组比较，两组数据之间的比较采用独立样本t检验。筛选差异蛋白标准为：两组之间变化倍数 $\mathrm { F C } { \ge } 1 . 5$ 或 $\mathrm { F C } { \le } 0 . 6 7$ ， $\scriptstyle \mathrm { { P < 0 . 0 5 } }$ 。
+
+# 2.7随机分组验证
+
+为了确定鉴定到的差异蛋白由于随机产生的可能性，应用同样的筛选差异蛋白的标准： $\mathrm { F C } \geq 1 . 5 ~ \& \leq 0 . 6 7$ ， $\mathrm { { \sf P } } < 0 . 0 1$ ，进行随机分组验证。
+
+# 2.8差异蛋白的功能分析
+
+利用悟空平台（https://www.omicsolution.org/）将总蛋白进行正交信号校正的偏最小二乘判别分析（OPLS-DA）[7]。将筛选到的差异蛋白用DAVID 数据库（https://david.ncifcrf.gov/）进行功能富集分析，采用 $\mathbf { P } < 0 . 0 5$ 的显著性阈值。
+
+# 3结果与讨论
+
+3.1动物模型构建及皮下肿瘤生长情况
+
+三组实验组在皮下注射的7-8天后，肿瘤生长到可触及的状态时进行手术切除，手术后的第7天和第30天进行尿液收集，实验过程如图2所示。
+
+肿瘤生长状况提示10只进行了皮下注射MC38细胞的小鼠都获得成功，长7-8天肿瘤大小（用平均直径表示）如表1所示，皮下瘤完全切除组进行手术切除后90天未见复发，认为手术切除成功。健康对照组未见任何异常。
+
+![](images/16d1102f2c39e24058ae38081a29e7e194e3365696f07f57c9356f87836a3f28.jpg)  
+图2动物模型构建过程及收尿时间点
+
+表1肿瘤大小(用平均直径表示）  
+
+<html><body><table><tr><td></td><td colspan="5">完全切除组（n=5）</td></tr><tr><td>No.</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>size（mm）</td><td>4.2</td><td>5.0</td><td>5.2</td><td>4.6</td><td>4.5</td></tr><tr><td colspan="6">完全不切除组</td></tr><tr><td>No.</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td>size （mm）</td><td>4.6</td><td>3.7</td><td>6.0</td><td>4.8</td><td>3.4</td></tr><tr><td colspan="6">健康对照组</td></tr><tr><td>No.</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr><tr><td>size（mm）</td><td>-</td><td>-</td><td></td><td>-</td><td></td></tr></table></body></html>
+
+# 3.2尿液蛋白质组变化分析
+
+3.2.1不同时间点尿液总蛋白的正交信号校正的偏最小二乘判别分析 (OPLS-DA)经过DIA定量分析，三个实验组的两个时间点尿液蛋白质组的结果分析显示，所有样品共鉴定到了405种可信蛋白。
+
+利用基于OPLS-DA分析，对术后7天完全不切除组完全切除组的两组样本（ $\mathrm { \ n = 1 0 }$ ）鉴定到的总的尿蛋白分析处理，结果如图3（a）所示，两组能明显区分开。R^X、R^Y 和Q^Y的数值分别为0.369、0.993和0.788，数据说明模型拟合准确度较好。对差异蛋白进行变量投影重要度（VariableImportance for theProjection，VIP）的计算，发现20个差异蛋白均满足VIP值 $> 1 . 0$ 的标准，说明差异蛋白对模型构建前后两组样本分类判别对能力很强。
+
+同样的，利用OPLS-DA分析，对术后30天完全不切除组完全切除组的两组样本（ $\mathrm { \ n = 1 0 }$ ）鉴定到的总的尿蛋白分析处理，结果如图3（b）所示，两组能明显区分开。RX、R^Y 和Q^Y 的数值分别为0.435、0.968和0.766，模型拟合准确度较好。对差异蛋白进行VIP计算，发现33个差异蛋白均满足VIP 值 $>$ 1.0 的标准，说明差异蛋白对模型构建前后两组样本分类判别对能力很强。
+
+![](images/87e4cf498deef700e08054be0676723680095da3ab427af92f720488cd74762a.jpg)  
+图3两组样本不同时间总蛋白的OPLS-DA分析
+
+# 3.2.2D7天完全切除与完全不切除组对比差异蛋白与生物学通路
+
+手术后7天完全切除与完全不切除组对比筛选出20个差异蛋白（如表2所示)，其中上调的差异蛋白9个，下调的差异蛋白11个，差异蛋白富集到6条生物学通路（如表3所示)。生物学过程包括昼夜节律、Notch信号通路、白细胞间粘附、异嗜性细胞通过质膜粘附细胞分子等。有研究表明[8,9]，昼夜节律与动物的伤口愈合和肿瘤生长都具有相关性，比如皮肤伤口愈合存在炎症，白细胞运输，组织重塑等过程，其中一些蛋白质参与了昼夜节律驱动的时间顺序协调机制。Notch 信号传导涉及多维皮下荷瘤行为的调节[10]。在一些实验中，Notch信号传导可以直接用作癌基因或肿瘤抑制剂，并影响肿瘤细胞增殖，分化，细胞凋亡和基因组不稳定性[]。机体通过对淋巴内皮细胞控制白细胞过渡的整联素配体ICAM-1和VCAM的表达调节，引起白细胞黏附作用增强产生抵御肿瘤的免疫反应[12]。
+
+表2D7天完全切除与完全不切除组的差异蛋白  
+
+<html><body><table><tr><td>Protein Accessions</td><td>Protein Descriptions</td><td>Fold change</td></tr><tr><td>Q62266</td><td>Cornifin-A</td><td>2.883407</td></tr><tr><td>P00687</td><td>Alpha-amylase 1</td><td>2.129584</td></tr><tr><td>Q91X17</td><td>Uromodulin</td><td>2.09201</td></tr><tr><td>035657</td><td>Sialidase-1</td><td>2.001852</td></tr><tr><td>P0CG49</td><td>Polyubiquitin-B</td><td>1.968327</td></tr><tr><td>Q80X71</td><td>Transmembrane protein 106B</td><td>1.949486</td></tr><tr><td>Q60590</td><td>Alpha-1-acid glycoprotein 1</td><td>1.824588</td></tr><tr><td>P81117</td><td>Nucleobindin-2</td><td>1.727192</td></tr><tr><td>P18761</td><td>Carbonic anhydrase 6</td><td>1.540709</td></tr><tr><td>Q07797</td><td>Galectin-3-binding protein</td><td>0.668885</td></tr><tr><td>P06869</td><td>Urokinase-type plasminogen activator</td><td>0.668198</td></tr><tr><td>Q05793</td><td>Basement membrane-specific heparan sulfate proteoglycan core protein</td><td>0.665791</td></tr><tr><td>P29533</td><td>Vascular cell adhesion protein 1</td><td>0.662338</td></tr><tr><td>P05533</td><td>Lymphocyte antigen 6A-2/6E-1</td><td>0.661418</td></tr><tr><td>P0CW02</td><td>Lymphocyte antigen 6C1</td><td>0.660106</td></tr></table></body></html>
+
+<html><body><table><tr><td>Q9ESD1</td><td>Prostasin</td><td>0.65866</td></tr><tr><td>P15947</td><td>Kallikrein-1</td><td>0.631505</td></tr><tr><td>Q9Z0J0</td><td>NPC intracellular cholesterol transporter 2</td><td>0.578208</td></tr><tr><td>O09051</td><td>Guanylate cyclase activator 2B</td><td>0.532387</td></tr><tr><td>Q9EP95</td><td>Resistin-like alpha</td><td>0.420915</td></tr></table></body></html>
+
+表3D7天完全切除与完全不切除组的差异蛋白相关生物学通路  
+
+<html><body><table><tr><td>Biological Process</td><td>PValue</td></tr><tr><td>circadian rhythm</td><td>1.33E-04</td></tr><tr><td>Notch signaling pathway</td><td>2.04E-04</td></tr><tr><td>ubiquitin homeostasis</td><td>0.003756</td></tr><tr><td>excretion</td><td>0.014015</td></tr><tr><td>leukocyte cell-cell adhesion</td><td>0.022336</td></tr><tr><td>heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules</td><td>0.0478</td></tr></table></body></html>
+
+# 3.2.3D30天完全切除与完全不切除对比差异蛋白与生物学通路
+
+手术后30天完全切除与完全不切除组对比筛选出33个差异蛋白（如表4所示)，完全切除组与完全不切除组相比，上调的差异蛋白13个，下调的差异蛋白20 个，富集到19条生物学通路（如表5所示)。生物学过程包括细胞粘附、补体激活和替代途径、免疫系统的过程、葡萄糖代谢过程的正向调节、线粒体形态发生、血管生成等。其中，有文献表明细胞粘附、蛋白质定位到细胞表面的过程与肿瘤生长息息相关，特别是钙粘蛋白和整联素，因为这些蛋白可以充当配体活化的受体并通过物理环境变化激活相关信号传导[13]。在肿瘤生长过程中与免疫相关的通路经常发生改变，如肿瘤微环境中的补体激活可增强肿瘤生长并增加转移[14]。有证据表明钙依赖细胞粘附分子的变化与肿瘤有关，如钙粘蛋白1（Cadherin-1，CDH1）钙粘蛋白的下调可以用于上皮癌的诊断和预后[15]。钙粘蛋白13（Cadherin-13，CDH13）在肿瘤生长的血管中起调节作用，促进肿瘤新血管形成[15,16]。此外，肿瘤细胞分泌高水平的促血管生成因子，这有助于产生异常的血管网络，因此肿瘤血管是癌症治疗管理的关键靶标[17]。
+
+表4D30天完全切除与完全不切除组的差异蛋白  
+
+<html><body><table><tr><td>Protein Accessions</td><td>Protein Descriptions</td><td>Fold change</td></tr><tr><td>Q8VED5</td><td>Keratin, type II cytoskeletal 79</td><td>3.026224</td></tr><tr><td>P00687</td><td>Alpha-amylase 1</td><td>2.778291</td></tr><tr><td>Q922U2</td><td>Keratin, type II cytoskeletal 5</td><td>2.73239</td></tr><tr><td>Q61781</td><td>Keratin, type I cytoskeletal 14</td><td>2.68467</td></tr><tr><td>P11591</td><td>Major urinary protein 5</td><td>2.292109</td></tr><tr><td>Q6NXH9</td><td>Keratin, type II cytoskeletal 73</td><td>1.996678</td></tr><tr><td>P03953</td><td>Complement factor D</td><td>1.783884</td></tr><tr><td>055186</td><td>CD59A glycoprotein</td><td>1.670896</td></tr><tr><td>Q61581</td><td>Insulin-like growth factor-binding protein 7</td><td>1.597907</td></tr><tr><td>P09803</td><td>Cadherin-1</td><td>1.541891</td></tr><tr><td>Q9JJS0</td><td>Signal peptide, CUB and EGF-like domain-containing protein 2</td><td>1.534623</td></tr></table></body></html>
+
+<html><body><table><tr><td>P11589</td><td>Major urinary protein 2</td><td>1.522737</td></tr><tr><td>P01132</td><td>Pro-epidermal growth factor</td><td>1.515764</td></tr><tr><td>Q07456</td><td>Protein AMBP</td><td>0.651965</td></tr><tr><td>P47878</td><td>Insulin-like growth factor-binding protein 3</td><td>0.628489</td></tr><tr><td>P04186</td><td>Complement factor B</td><td>0.626626</td></tr><tr><td>Q9WTR5</td><td>Cadherin-13</td><td>0.617213</td></tr><tr><td>P11276</td><td>Fibronectin</td><td>0.594281</td></tr><tr><td>Q61129</td><td>Complement factor I</td><td>0.578513</td></tr><tr><td>Q921W8</td><td>Secreted and transmembrane protein 1A</td><td>0.574514</td></tr><tr><td>088968</td><td>Transcobalamin-2</td><td>0.537758</td></tr><tr><td>Q91X72</td><td>Hemopexin</td><td>0.472864</td></tr><tr><td>P0CW02</td><td>Lymphocyte antigen 6C1</td><td>0.465717</td></tr><tr><td>Q8K4G1</td><td>Latent-transforming growth factor beta-binding protein 4</td><td>0.453987</td></tr><tr><td>O09051</td><td>Guanylate cyclase activator 2B</td><td>0.441702</td></tr><tr><td>P25119</td><td>Tumor necrosis factor receptor superfamily member 1B</td><td>0.431061</td></tr><tr><td>Q9EP95</td><td>Resistin-like alpha</td><td>0.388686</td></tr><tr><td>Q05793</td><td>Basement membrane-specific heparan sulfate proteoglycan core protein</td><td>0.378189</td></tr><tr><td>P29533</td><td>Vascular cell adhesion protein 1</td><td>0.351521</td></tr><tr><td>008997</td><td>Copper transport protein ATOX1</td><td>0.318311</td></tr><tr><td>Q91VW3</td><td>SH3 domain-binding glutamic acid-rich-like protein 3</td><td>0.296519</td></tr><tr><td>Q4KML4</td><td>Costars family protein ABRACL</td><td>0.253859</td></tr><tr><td>Q61646</td><td>Haptoglobin</td><td>0.213844</td></tr></table></body></html>
+
+表5D30天完全切除与完全不切除组的差异蛋白相关生物学通路  
+
+<html><body><table><tr><td>Biological Process</td><td>PValue</td></tr><tr><td>cell adhesion</td><td>0.005498</td></tr><tr><td>regulation of proteinlocalization to cell surface</td><td>0.013362</td></tr><tr><td>complement activation, alternative pathway</td><td>0.014836</td></tr><tr><td>immune system process</td><td>0.018926</td></tr><tr><td>cell activation</td><td>0.02071</td></tr><tr><td>heat generation</td><td>0.022174</td></tr><tr><td>positive regulation of lipid metabolic process</td><td>0.022174</td></tr><tr><td>cellular response to lipid</td><td>0.022174</td></tr><tr><td>negative regulation of lipid biosynthetic process</td><td>0.023635</td></tr><tr><td>aging</td><td>0.027313</td></tr><tr><td>calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules</td><td>0.028006</td></tr><tr><td>negative regulation of lipid storage</td><td>0.028006</td></tr><tr><td>positive regulation of glucose metabolic process</td><td>0.03091</td></tr><tr><td>energy reserve metabolic process</td><td>0.032359</td></tr><tr><td>negative regulation of insulin secretion involved in cellular response to glucose stimulus</td><td>0.032359</td></tr><tr><td>negative regulation of gluconeogenesis</td><td>0.03525</td></tr><tr><td>locomotor rhythm</td><td>0.038133</td></tr><tr><td>mitochondrion morphogenesis</td><td>0.046732</td></tr><tr><td>angiogenesis</td><td>0.049176</td></tr></table></body></html>
+
+# 3.2.4D30天完全切除与健康对照组对比差异蛋白
+
+手术后30天完全切除与健康对照组对比筛选出8个差异蛋白（如表6所示)，其中上调的差异蛋白3个，下调的差异蛋白5个，未富集到生物学通路。富集不到生物学通路。将手术后30天完全切除与完全不切除组的10只小鼠尿液蛋白质组数据进行随机分组，结果显示，在125种随机分组结果中平均筛选出约3.77个差异蛋白，说明差异蛋白的假阳性率达到 $4 7 . 1 2 5 \%$ ，这提示我们手术进行30 天后，肿瘤完全切除小鼠同健康未接种过肿瘤的小鼠的尿液蛋白质水平差异不明显。
+
+表6D30天完全切除与健康对照组的差异蛋白  
+
+<html><body><table><tr><td>Protein Accessions</td><td>Protein Descriptions</td><td>Fold change</td></tr><tr><td>Q922U2</td><td>Keratin, type II cytoskeletal 5</td><td>2.102056</td></tr><tr><td>P60710</td><td>Actin, cytoplasmic 1</td><td>1.694629</td></tr><tr><td>055186</td><td>CD59A glycoprotein</td><td>1.501774</td></tr><tr><td>P11276</td><td>Fibronectin</td><td>0.61668</td></tr><tr><td>P0CW02</td><td>Lymphocyte antigen 6C1</td><td>0.609322</td></tr><tr><td>P06869</td><td>Urokinase-type plasminogen activator</td><td>0.575882</td></tr><tr><td>Q05793</td><td>Basement membrane-specific heparan sulfate proteoglycan core</td><td>0.52626</td></tr><tr><td>Q91WR8</td><td>protein Glutathione peroxidase 6</td><td>0.479504</td></tr></table></body></html>
+
+# 3结论
+
+实验表明，尿液蛋白质组学有潜力区分实体肿瘤是否被切除。
+
+# 参考文献
+
+1. Gao，Y.，Urine-an untapped goldmine for biomarker discovery? Sci China Life Sci，2013. 56(12):p. 1145-6.   
+2. Wu，J.，Z. Guo，and Y. Gao， Dynamic changes of urine proteome in a Walker 256 tumorbearing rat model. Cancer Med，2017.6(11):p. 2713-2722.   
+3. Wei，J.，et al.，Early urine proteome changes in the Walker-256 tail-vein injection rat model．Sci Rep，2019．9(1)：p.13804.   
+4. Wang，T.，et al.，Early urine proteome changes in an implanted bone cancer rat model. Bone Rep，2020．12：p．100238.   
+5. Zhang，Y.，Y. Gao，and Y. Gao，Early changes in the urine proteome in a rat liver tumour model．PeerJ，2020.8:p.e8462.   
+6.Wei，J. and Y. Gao，Early disease biomarkers can be found using animal models urine proteomics. Expert Rev Proteomics，2021． 18(5):p. 363-378.   
+7. Yang，Y.，et al.， StatsPro: Systematic integration and evaluation of statistical approaches for detecting differential expression in label-free quantitative proteomics. J Proteomics，2022．250:p． 104386.   
+8.Cable，E.J.，K.G. Onishi，and B.J. Prendergast， Circadian rhythms accelerate wound healing in female Siberian hamsters. Physiol Behav，2017.171:p. 165-174.   
+9.Sherratt，M.J.，et al.，Circadian rhythms in skin and other elastic tissues. Matrix Biol，2019.84:p. 97-110.   
+10.Hu， X.B.，et al.，Blockade of Notch signaling in tumor-bearing mice may lead to tumor regression， progression， or metastasis, depending on tumor cell types. Neoplasia, 2009. 11(1):p. 32-8.   
+11.Bernardo，M.，et al.，An experimental model of anti-PD-1 resistance exhibits activation of TGFss and Notch pathways and is sensitive to local mRNA immunotherapy. Oncoimmunology, 2021．10(1):p． 1881268.   
+12. Rodriguez-Ruiz，M.E.，et al.， Intercellular Adhesion Molecule-1 and Vascular Cell Adhesion Molecule Are Induced by Ionizing Radiation on Lymphatic Endothelium. Int J Radiat Oncol Biol Phys，2017．97(2):p. 389-400.   
+13.Janiszewska，M.，M.C. Primi，and T. Izard，Cell adhesion in cancer:Beyond the migration of single cells. J Biol Chem，2020.295(8):p. 2495-2505.   
+14.Afshar-Kharghan，V.，The role of the complement system in cancer.J Clin Invest，2017. 127(3): p. 780-789.   
+15.van Roy，F.，Beyond E-cadherin: roles of other cadherin superfamily members in cancer. Nat Rev Cancer，2014.14(2):p. 121-34.   
+16.Andreeva，A.V.and M.A. Kutuzov，Cadherin 13 in cancer. Genes Chromosomes Cancer，2010. 49(9):p. 775-90.   
+17. Viallard, C. and B. Larrivee， Tumor angiogenesis and vascular normalization:   
+alternative therapeutic targets. Angiogenesis， 2017. 20(4): p. 409-426.

@@ -1,0 +1,272 @@
+# 灾难性测光红移对重子声波振荡和弱引力透镜 限制暗能量状态方程参数的影响
+
+高鹏远1,2
+
+（1.中国科学院国家天文台，北京100012；2.中国科学院大学，北京100049)
+
+摘要：研究了存在灾难性测光红移误差时重子声波振荡（Baryon Acoustic Oscillations，BAO）和弱引力透镜(WeakLensing，WL)的互补效应，以及灾难性测光红移误差对限制暗能量状态方程参数的影响。针对类大口径全天巡视望远镜(Large Synoptic Survey Telescope，LSST）的巡天项目，建构了在 $z ^ { - }  { z _ { \mathrm { { p h } } } }$ 面左上角(UL)和右下角(BR)局域性分布的灾难性测光红移误差模型，并分别针对左上角和右下角的灾难性测光红移，利用费舍尔矩阵(FisherMatrix)分别估计它们对重子声波振荡、弱引力透镜和联合重子声波振荡 $+$ 弱引力透镜( $\mathrm { B A O + W L }$ )限制暗能量状态方程参数的影响。若拟合模型没有包括实际存在的灾难性测光红移误差，则左上角和右下角的灾难性测光红移造成的偏差并非总是同号的。重子声波振荡受灾难性测光红移误差的影响最小，对于总比例为 $F _ { \mathrm { { t } } } = 0 . 0 2$ 的灾难性测光红移，最大的影响也只是左上角和右下角两部分对$w _ { 0 }$ 造成的偏差，相对偏差约为 $30 \%$ 。但在对弱引力透镜和联合重子声波振荡 $+$ 弱引力透镜的影响上，通常都有几倍的偏差，因此灾难性测光红移误差的影响不可忽略。另外，关于弱引力透镜对$w _ { 0 }$ 的限制，左上角和右下角造成的偏差大小几乎相等，但符号相反，从而导致总体影响反而变得很小。当拟合模型包括灾难性测光红移误差在内后，虽然测光红移误差分布模型多了45个自由度，但在同样大小的训练集的情况下，重子声波振荡和弱引力透镜的互补效应仍然很强。在此条件下，暗能量状态方程参数的误差并没有太大的增加。特别是重子声波振荡的限制结果增加量少于 $1 \%$ 。弱引力透镜对 $\boldsymbol { w } _ { 0 }$ 和 $w _ { \mathrm { a } }$ 的限制误差分别增加了 $14 \%$ 左右( $\mathrm { U L + B R }$ )和 $6 \%$ 左右( ${ \mathrm { U L } } +$ BR)，而联合重子声波振荡 $^ +$ 弱引力透镜对 ${ \boldsymbol w } _ { 0 }$ 和 $w _ { \mathrm { a } }$ 的限制误差都只增加 $5 \%$ 左右( $\mathrm { U L + B R }$ ）。
+
+关键词：宇宙学；大尺度结构；引力透镜；星系巡天；暗能量中图分类号：P159 文献标识码：A 文章编号：1672-7673(2016)01-0001-10
+
+弱引力透镜被认为是探测暗能量的一种强有力的工具，它通过探测遥远星系图像的切变来研究暗能量的性质及其他宇宙学参数。很多大型巡天望远镜（如 $\mathrm { L S S T ^ { \mathrm { ( D ) } } }$ 、EUCLID②、 $\mathrm { W F I R S T ^ { ( 3 ) } }$ )把弱引力透镜作为探测暗能量的重要手段。由于弱引力透镜的信号极其微弱，为了提取有用信息，未来的大型弱引力透镜项目需要探测大量的星系红移样本，以至于探测全部样本的光谱红移在时间上是不可能的。因此，必须用多色测光的方法估计红移，而测光红移通过多波段成像，利用经验公式[1-2]、能谱分布（Spectral Energy Distribution，SED)模板拟合[3]、人工神经网络[4]等方法估计红移。对宇宙学有用的是星系的红移分布，而不是每个星系的红移。通过抽样测量星系的真实红移或者利用宇宙学方法可以校正测光红移误差分布[5-8]。但是红移分布的不确定性不可避免地传递到暗能量状态方程参数及其他宇宙学参数上[9-10]。研究表明，若所有在真实红移区间为0.1的星系的测光红移误差分布都可用一个平均值在真实红移附近的高斯分布近似，则需要 $1 0 ^ { 4 }$ 到 $1 0 ^ { 5 }$ 的光谱红移校正，才使得暗能量的误差放大限制在1.5倍以内[9]。其次，由于星系能谱分布中的谱线特征信息混淆或者波段缺乏特征信息，导致估计的测光红移对真实红移出现较大的偏离 $\textcircled{4}$ ，即所谓灾难性测光红移。特别是红移约小于1的星系能谱分布中的巴尔莫跳变（Balmer break)和红移约大于2的星系能谱分布中的拉曼跳变（Lyman break)的混淆导致局域性的灾难性测光红移[1]。灾难性测光红移的存在使弱引力透镜对暗能量状态方程参数的估计产生偏差[11-13]。对于灾难性的测光红移，可以通过剔除一些灾难性红移可能性较大的样本，从而在一定程度上减少灾难性红移导致的系统误差的同时又不会过多地增加因减少样本而导致的统计误差[13-14]。
+
+星系功率谱(或星系关联函数)中的重子声波振荡包含了在最后散射截面的声波视界(标准尺)的信息。利用标准尺可以测量哈勃参数-红移关系及角直径距离-红移的关系[15]。在多色成像巡天中，仅靠重子声波振荡测量的多个红移处的角直径距离对暗能量状态方程参数的限制有较大的简并性[16]。此外，由于星系偏袒因子的不确定性，使得难以从星系角功率谱中抽取更多的信息[17-18]
+
+由于重子声波振荡和弱引力透镜的互补效应，当把星系与弱引力透镜的交叉功率谱也考虑进来时，在没有灾难性测光红移的情况下，一方面弱引力透镜可以帮助校正星系偏袒因子，另一方面不同的测光红移区间的星系交叉角功率谱对测光红移的误差分布非常敏感，从而对测光红移误差分布参数具有很强的自校正作用，联合重子声波振荡和弱引力透镜也能使测光红移偏差 $\delta z$ 得到更强的限制[19]
+
+本文研究由于存在局域性的灾难性测光红移但没有把它们纳入拟合的模型而导致暗能量状态方程参数在重子声波振荡和弱引力透镜单独以及联合限制下的估计偏差。然后探讨把灾难性测光红移纳入拟合模型后重子声波振荡和弱引力透镜的互补效应和对暗能量状态方程参数的限制能力。
+
+本文第1节主要介绍星系功率谱和弱引力透镜功率谱，包括局域性的灾难性测光红移在内的测光红移误差分布的模型，以及误差估计的方法——费舍尔矩阵；第2节给出本研究的预测结果；第3节是本文的结论。
+
+# 1方法
+
+1. 1 观测量：功率谱
+
+以星系的角功率谱、弱引力透镜的角功率谱以及它们的交叉功率谱作为观测量。在林伯(Limber)近似[20-21]下，星系和弱引力透镜的角功率谱可以写为[19]
+
+$$
+P _ { \overset { . } { i j } } ^ { ^ { X Y } } ( l ) = \frac { 2 \pi ^ { 2 } } { c l ^ { 3 } } \int \mathrm { d } z { H } ( z ) D _ { \mathrm { \scriptscriptstyle A } } \left( z \right) W _ { \overset { . } { i } } ^ { X } ( z ) W _ { \overset { . } { j } } ^ { Y } ( z ) \Delta _ { \overset { . } { \delta } } ^ { 2 } ( k , z ) ,
+$$
+
+其中， $\boldsymbol { \mathbf { \mathit { c } } }$ 是光速； $H ( z )$ 、 $D _ { \mathrm { A } } ( z )$ 和 $\Delta _ { \delta } ^ { 2 } ( \boldsymbol { k } , \boldsymbol { z } )$ 分别是红移为 $z$ 处的哈勃参数、共动角直径距离和无量纲的物质功率谱；窗函数 $\boldsymbol { W } _ { i } ^ { X } ( z )$ 可写为
+
+$$
+W _ { i } ^ { X } ( z ) = \left\{ \begin{array} { l l } { \displaystyle b ( z ) \frac { n _ { i } ( z ) } { \overline { { n } } _ { i } } } & { X = g } \\ { \displaystyle \frac { 3 } { 2 } \frac { \Omega _ { \mathrm { m } } H _ { 0 } ^ { 2 } } { H ( z ) } \frac { D _ { \mathrm { A } } ( z ) } { a c } \int _ { z } ^ { \infty } \mathrm { d } z ^ { \prime } \frac { n _ { i } ( z ^ { \prime } ) } { \overline { { n } } _ { i } } \frac { D _ { \mathrm { A } } ( z , ~ z ^ { \prime } ) } { D _ { \mathrm { A } } ( z ^ { \prime } ) } } & { X = \gamma } \end{array} \right. ,
+$$
+
+其中， $g$ 和 $\gamma$ 分别代表重子声波振荡和弱引力透镜； $b ( z )$ 是线性的星系成团性偏袒因子； $\varOmega _ { \mathrm { m } }$ 和 $H _ { 0 }$ 分别是红移为0处的物质成分比和哈勃常数； $\mathbf { \Omega } _ { a }$ 是宇宙尺度因子； $n _ { i } ( z )$ 和 $\overline { { n } } _ { i }$ 分别是第 $i$ 个测光红移区间的真实红移分布和星系数目。重子声波振荡和弱引力透镜的分区办法可以相互独立。
+
+在实际观测中，由于星系角功率谱受到星系散粒(形状)噪声 $\overline { n } _ { i } ^ { - 1 }$ 的影响，弱引力透镜角功率谱则受到固有形状噪声 $\gamma _ { \mathrm { r m s } } ^ { 2 } \overline { n } _ { i } ^ { - 1 }$ 的影响，因而观测的功率谱为
+
+$$
+\widetilde { P } _ { i j } ^ { X Y } ( l ) = P _ { i j } ^ { X Y } ( l ) + \delta _ { X Y } ^ { K } \delta _ { i j } ^ { K } \frac { X _ { \mathrm { r m s } } ^ { 2 } } { \overline { { n } } _ { i } } ~ ,
+$$
+
+其中， $\delta _ { X Y } ^ { K }$ 和 $\delta _ { i j } ^ { K }$ 是克罗内克(Kroneckerdelta)函数。对于星系角功率谱， $\boldsymbol { g } _ { \mathrm { r m s } } \equiv 1$ ；对于弱引力透镜， $\gamma _ { \mathrm { r m s } } \sim 0 . 2$ 。本文用 $\mathrm { C A M B } ^ { [ 2 2 - 2 3 ] }$ 输出不同红移处的非线性物质功率谱（基于Halofit模型[24]的修正[25]），具体使用参考CAMB 主页。
+
+# 1.2模型与巡天属性
+
+模型参数包括10个宇宙学参数，31个星系偏袒因子，60个测光红移误差分布参数。当把灾难性测光红移加入拟合模型时，会增加45个灾难性测光红移误差分布参数。
+
+# 1.2.1 模型
+
+在没有灾难性测光红移的情况下，每一个测光红移区间的真实红移分布用高斯函数描述。如果存在灾难性测光红移，则可相应多加一个高斯函数描述灾难性测光红移的真实红移分布。
+
+假设巡天的测光红移分布是 $n \big ( z _ { \mathrm { p h } } \big )$ ，对测光红移空间平均分成 $N$ 个区间，在没有灾难性测光红移的情况下，第 $i$ 个区间星系的真实红移分布可用高斯分布近似：
+
+$$
+n _ { \mathrm { c o r e } , \ i } ( z ) = \frac { 1 } { \sqrt { 2 \pi } \sigma _ { \mathrm { c o r e } , \ i } } \exp \left[ - \frac { ( z - z _ { \mathrm { c o r e } , \ i } ) ^ { 2 } } { 2 \sigma _ { \mathrm { c o r e } , \ i } ^ { 2 } } \right] ,
+$$
+
+其中， $z _ { \mathrm { c o r e , i \setminus } } ~ \sigma _ { \mathrm { c o r e , i \setminus } }$ 分别是第 $i$ 个区间的平均红移以及该分布的标准差。
+
+存在灾难性测光红移的情况下，任意区间的真实红移分布可用两个高斯分布的叠加近似，分别用于描述核心(真实红移附近)部分和灾难性测光红移部分的真实红移分布：
+
+$$
+n _ { \mathrm { { \scriptscriptstyle t o t } } , \ i } ( z ) = ( 1 - f _ { i } ) n _ { \mathrm { { \scriptscriptstyle c o r e } } , \ i } ( z ) + f _ { i } n _ { \mathrm { { \scriptscriptstyle c a t } } , \ i } ( z ) ,
+$$
+
+其中， $f _ { i }$ 是第 $i$ 个区间的灾难性测光红移数目占该区间总数目的比例； $n _ { \mathrm { c a t , i } } ( z )$ 是该区间的灾难性测光红移的真实红移分布：
+
+$$
+n _ { \mathrm { c a t } , \ i } ( z ) = \frac { 1 } { \sqrt { 2 \pi } \sigma _ { \mathrm { c a t } , \ i } } \exp \left[ - \frac { ( z - z _ { \mathrm { c a t } , \ i } ) ^ { 2 } } { 2 \sigma _ { \mathrm { c a t } , \ i } ^ { 2 } } \right] ,
+$$
+
+其中， $z _ { \mathrm { c a t } , i \setminus } ~ \sigma _ { \mathrm { c a t } , i }$ 分别是该分布的平均值和标准差。
+
+参照[9，19]，把测光红移为0到3的区间均匀分成30个子区间，即 $N = 3 0$ ，每个子区间宽为0.1。$z _ { \mathrm { c o r e } , i }$ 和 $\sigma _ { \mathrm { c o r e } , i }$ 的基准值取：
+
+$$
+z _ { \mathrm { c o r e } , \ i } = 0 . 1 i + 0 . 0 5 ,
+$$
+
+$$
+\sigma _ { \mathrm { c o r e , \it \ i } } = 0 . 0 5 ( 1 + z _ { \mathrm { c o r e , \it \ i } } ) .
+$$
+
+$i$ 值取0到29，即每个区间的中心值作为该区间的星系真实红移分布的平均值。把这30个区间作为重子声波振荡的区间（0-29），然后每5个区间合并成一个区间作为弱引力透镜区间，即共有6个弱引力透镜区间（0-5）。弱引力透镜区间的星系分布和数目可以通过组成它们的重子声波振荡区间的星系分布和数目得到。描述核心部分的真实红移分布的参数为 $3 0 \times 2 = 6 0$ 个。
+
+由于光谱特征的混淆或者光谱缺乏信息量等原因，测光红移的估计会出现灾难性的错误，特别是当光谱上的拉曼跳变和巴尔莫跳变混淆时，会在 $z - z _ { \mathrm { p h } }$ 面的左上角和右下角分别出现局域性分布的灾难性测光红移[11]（下文将用UL和 BR分别指代左上角和右下角出现的灾难性测光红移)。为构造在 $z { - } z _ { \mathrm { { p h } } }$ 面的左上角和右下角分别出现局域性分布的灾难性测光红移，令在前5个区间和最后10个区间才存在灾难性测光红移，而第5到第19个区间没有灾难性测光红移，见图1。前5个区间的参数基准值统一为 $z _ { \mathrm { c a t } , i } = 2 . 5$ ，$\sigma _ { \mathrm { c a t } , i } = 0 . 5 ( i = 0$ 到4），最后10个区间的参数基
+
+![](images/8da68379ac2a11d988c45241a3b541402e2108b70f8563399a231ba32f1dcdd2.jpg)  
+图1灾难性测光红移误差分布示意图。测光红移从0到3分成30个区间，灾难性测光红移分布在右下角(分布在前5个区间)和左上角(分布在最后10个区间）。矩形的半宽表示灾难性测光红移分布的标准差
+
+Fig.1Schematic diagram of the catastrophic photo-z error distribution.The Photo-z space is divided into 3O bins from O to 3.The catastrophic photo $\mathbf { z }$ is distributed at the bottom-right $( ~ 0 ^ { \mathrm { t h } } - 4 ^ { \mathrm { t h } } ~ \mathrm { b i n } ^ { \cdot } ,$ ）and the upper-left （2 $( 2 0 ^ { \mathrm { t h } } - 2 9 ^ { \mathrm { t h } } \ \mathrm { b i n } ,$ ）of the $z { - } z _ { \mathrm { { p h } } }$ plane
+
+准值统一为 $z _ { \mathrm { c a t } , i } = 0 . 4$ ， $\sigma _ { \mathrm { c a t } , i } { = } 0 . 3 ( i { = } 2 0$ 到 29）。对所有存在灾难性测光红移的区间 $f _ { i }$ 取相同值，并根据给定的灾难性测光红移的总比值 $\boldsymbol { F } _ { t }$ 确定 $f _ { i }$ 。用 $N _ { i }$ 表示测光红移分布归一化为1时任一测光红移区间的星系数目， $\sum _ { i \mathrm { { \to c a t } } } N _ { i }$ 表示包含灾难性测光红移的区间的星系数目总和，则 $f _ { i }$ 和 $\boldsymbol { F } _ { t }$ 的关系满足$F _ { _ t } = f _ { i } \sum _ { i \mathrm { \longrightarrow c a t } } N _ { i }$ 。本文采用(13)式作为星系的测光红移分布，经计算 $f _ { i }$ 和 $\boldsymbol { F } _ { t }$ 的关系满足 $f _ { i } = 3 . 6 5 F _ { t }$ 。描述灾难性测光红移的参数共有 $1 5 \times 3 = 4 5$ 个。
+
+参照文［19]的方法，在真实红移为0到3分成30个区间，每个节点对应一个星系偏袒因子参数，共31个，其他红移上的偏袒因子通过线性插值得到。星系偏袒因子的基准值随真实红移的变化关系为b=1+0.84z[26]。
+
+假设每个重子声波振荡区间用 $n _ { \mathrm { t r } }$ 个光谱红移校正。测光红移模型中参数的先验误差与 $n _ { \mathrm { t r } }$ 的关系为[13]
+
+$$
+\Delta z _ { \mathrm { c o r e , \textit { i } } } = \sigma _ { \mathrm { c o r e , \textit { i } } } / \sqrt { n _ { \mathrm { t r } } \times ( 1 - f _ { i } ) } \mathrm { ~ , ~ }
+$$
+
+$$
+\Delta \sigma _ { \mathrm { c o r e , \textit { i } } } = \Delta z _ { \mathrm { c o r e , \textit { i } } } / \sqrt { 2 } \mathrm { ~ , ~ }
+$$
+
+$$
+\Delta z _ { \mathrm { c a t , } \ i } = \sigma _ { \mathrm { c a t , } \ i } / \sqrt { n _ { \mathrm { t r } } \times f _ { i } } \ ,
+$$
+
+$$
+\Delta \sigma _ { \mathrm { c a t , } i } = \Delta z _ { \mathrm { c a t , } i } / \sqrt { 2 } ,
+$$
+
+本文取 $n _ { \mathrm { { t r } } } = 4 0 0$ ， $\Delta \ln f _ { i } = 1 0 0 \%$ 。星系偏袒因子先验误差取 $\Delta { \ln } b = 1 5 \%$ 。
+
+宇宙学参数取10个，它们分别是暗能量状态方程参数 $\boldsymbol { w } _ { 0 }$ 和 $w _ { \mathrm { a } }$ ，重子密度 $\omega _ { \mathrm { b } }$ ，暗物质密度 $\omega _ { \mathrm { c } }$ ，曲率的等价成分比 $\varOmega _ { \mathrm { k } }$ ，约化的哈勃常数 $h$ ，原初氮丰度 $Y _ { \mathrm { { p } } }$ ，谱指数 $n _ { \mathrm { s } }$ ，谱指数的移动（running） $\alpha$ （定义同[19]），原初曲率功率谱在 $k = 0 . \ 0 5 \mathrm { M p \ c } ^ { - 1 }$ 处的幅值 $\Delta _ { \mathrm { R } } ^ { 2 }$ 。 $\boldsymbol { w } _ { 0 }$ 和 $w _ { \mathrm { a } }$ 是描述随红移演化的暗能量状态方程： $w = w _ { \mathrm { 0 } } + w _ { \mathrm { a } } \left( 1 - a \right)$ 。这些参数基准值和先验误差主要参考了PLANK2013年的结果[27]，具体见表1。
+
+表1宇宙学参数基准值及其先验误差  
+Table 1 Fiducial cosmological parameters and their prior errors   
+
+<html><body><table><tr><td></td><td>w</td><td>Wa</td><td>ωb</td><td>W</td><td></td><td>h</td><td>Y</td><td>n</td><td>α</td><td>A</td></tr><tr><td>基准值</td><td>-1</td><td>0</td><td>0.022</td><td>0.12</td><td>0</td><td>0. 673</td><td>0.248</td><td>0.96</td><td>-0.013</td><td>2. 196E-9</td></tr><tr><td>先验误差</td><td>0.5</td><td>2.5</td><td>2.8E-4</td><td>2.7E-3</td><td>0.023</td><td>0.012</td><td>1. 2E-4</td><td>7.3E-3</td><td>9.0E-3</td><td>5. 6E-11</td></tr></table></body></html>
+
+# 1.2.2 巡天属性
+
+本文依据大口径全天巡视望远镜的巡天能力设定巡天参数。取星系的测光红移分布为
+
+$$
+n _ { \mathrm { p h } } \propto z _ { \mathrm { p h } } ^ { 2 } \mathrm { e x p } ( - z _ { \mathrm { p h } } / z _ { 0 } )
+$$
+
+取 $z _ { \mathrm { 0 } } = 0 . 5$ ，巡天面积取 $\mathrm { a r e a } = 2 0 0 0 0 \mathrm { d e g } ^ { 2 }$ ，星系的面密度取 $N _ { \mathrm { A } } { = } 5 0 \ \mathrm { a r c m i n } ^ { - 2 }$
+
+参照［28]，本文取
+
+$$
+\gamma _ { _ \mathrm { r m s } } = 0 . 1 8 + 0 . 0 4 2 z _ { i } \ ,
+$$
+
+其中， $z _ { i }$ 为弱引力透镜区间中心值。
+
+1.3费舍尔矩阵(Fisher Matrix)
+
+用 $N _ { \mathrm { b } }$ 和 $N _ { \mathrm { w } }$ 分别表示重子声波振荡区间的数目和弱引力透镜区间的数目，用 $N _ { \mathrm { b w } }$ 表示它们的数目之和，即 $N _ { \mathrm { b w } } = N _ { \mathrm { b } } + N _ { \mathrm { w } } = 3 6$ 0
+
+参数 $\{ p _ { \alpha } \}$ 的费舍尔矩阵可表示为[29]
+
+$$
+F _ { _ { \alpha \beta } } = \sum _ { l } \ \frac { \partial O ^ { T } ( l ) } { \partial p _ { \alpha } } \ C ^ { - 1 } \frac { \partial O ( l ) } { \partial p _ { \beta } } + F _ { _ { \alpha \beta } } ^ { p } \ ,
+$$
+
+其中， $o ( l )$ 是一列由独立的观测量 $\widetilde { P } _ { i j } ^ { X Y } ( l )$ 构成的列向量，共有 $N _ { \mathrm { t } } \big ( N _ { \mathrm { t } } + 1 \big ) / 2$ 个元素。重子声波振荡,弱引力透镜和联合重子声波振荡 $+$ 弱引力透镜分别对应于 $N _ { \mathrm { t } } = N _ { \mathrm { b } }$ ， $N _ { \mathrm { w } }$ 和 $N _ { \mathrm { b w } }$ ，即
+
+$$
+O _ { \mathrm { u } = \mathrm { m } ( \mathrm { m } + 1 ) / 2 + \mathrm { n } } ( l ) = \widetilde { P } _ { \mathrm { m n } } ( l ) ~ ( N _ { \mathrm { t } } > m \ge n \ge 0 ) ,
+$$
+
+其中， $m ( n )$ 是重子声波振荡区间或(和)弱引力透镜区间(一起)排列的序列号; $\widetilde { P } _ { \mathrm { m n } }$ 是相应的功率谱 $\widetilde { P } _ { i j } ^ { X Y }$ $m$ 和 $i$ 满足关系：
+
+$$
+m = \{ \begin{array} { c c c } { { i } } & { { i f } } & { { X  B A O } } \\ { { i + N _ { \mathrm { b } } } } & { { i f } } & { { X  W L } } \end{array} , 
+$$
+
+$c$ 是观测量 $o$ 的协方差矩阵； $\boldsymbol { C } ^ { - 1 }$ 是 $C$ 的逆矩阵。在观测量样本为高斯分布的情况下， $C$ 的元素是
+
+$$
+C _ { _ { u v } } ^ { \ } = \frac { 1 } { ( 2 l + 1 ) f _ { \mathrm { s k y } } } [ \widetilde { P } _ { _ { m r } } \widetilde { P } _ { _ { n s } } ^ { \ } + \widetilde { P } _ { _ { m s } } \widetilde { P } _ { _ { n r } } ^ { \ } ] \ ,
+$$
+
+其中， $u = m \left( { m + 1 } \right) / 2 + n$ ; $v = r ( r + 1 ) / 2 + s$ ： $f _ { \mathrm { s k y } }$ 是巡天的天球覆盖比例。
+
+参数的协方差矩阵与相应的费舍尔矩阵互逆。本文计算的任一参数的限制误差都是把其他参数边缘化后的误差，即 $\sigma ( p _ { \alpha } ) = [ F ^ { - 1 } ] _ { \alpha \alpha }$ 。
+
+假设观测量存在系统误差，则拟合的参数会出现偏离，可以用费舍尔矩阵估计系统误差给参数带来的偏差 $\{ \delta p _ { \alpha } \} ^ { [ 1 0 , 1 3 , 3 0 ] }$ ：
+
+$$
+\delta p _ { \alpha } = \left[ F ^ { - 1 } \right] _ { \alpha \beta } \sum _ { l } \Delta O _ { u } \left[ C ^ { - 1 } \right] _ { u v } \frac { \partial O _ { v } } { \partial p _ { \beta } } ,
+$$
+
+其中， $\Delta O _ { u }$ 是由于系统误差给观测量 $\textstyle O _ { u }$ 带来的偏差，下标遵循爱因斯坦求和约定。
+
+# 2 预测
+
+为避免可能存在的暗能量成团性效应，本文忽略大尺度的星系及其图像切变统计信息[28]，同时为避免小尺度非线性效应和重子效应[15.31]，对于弱引力透镜取 $4 0 < l < 2 0 0 0$ ，对于重子声波振荡取 $4 0 < l < 3 0 0 0$ 。且重子声波振荡还要求功率谱 $\Delta _ { \delta } ^ { 2 } ( k ; z ) < 0 . 4$ ，在实际处理时 $z$ 取相应重子声波振荡区间的中心值。
+
+2.1由灾难性测光红移导致的暗能量状态方程参数的系统偏差
+
+表2是没有灾难性测光红移误差时对暗能量状态方程参数的限制情况以及由 $\boldsymbol { F } _ { \mathrm { t } } = 0 . 0 2$ 的灾难性测光红移误差导致的暗能量状态方程参数的偏差。其中， $\sigma ( p )$ 是没有灾难性测光红移误差时的限制情况； $\delta _ { \mathrm { { p } } }$ 是灾难性测光红移导致的偏差； $\delta _ { \mathrm { p } } / \sigma ( \boldsymbol { p } )$ 即两者比值。 $\delta _ { \mathrm { { p } } }$ 和 $\delta _ { \mathrm { p } } / \sigma ( \boldsymbol { p } )$ 下分别有3列，分别对应于图1中左上角出现的灾难性测光红移，右下角出现的灾难性测光红移和左上角 $^ +$ 右下角出现的灾难性测光红移的情况。注意 $\boldsymbol { F } _ { \mathrm { t } }$ 是指包括左上角出现的灾难性测光红移和右下角出现的灾难性测光红移在内的总比值，当只有左上角出现的灾难性测光红移或右下角出现的灾难性测光红移误差时，相应的 $f _ { i }$ 仍然满足 $f _ { i } = 3 . 6 5 F _ { \mathrm { t } }$ 。
+
+从表2和图2可以看出，左上角出现的灾难性测光红移和右下角出现的灾难性测光红移的影响有些是正负反号的(重子声波振荡对 $w _ { \mathrm { a } }$ ，弱引力透镜对 $\boldsymbol { w } _ { 0 }$ ，重子声波振荡 $+$ 弱引力透镜对 $\boldsymbol { w } _ { 0 }$ )，特别在弱引力透镜限制 $\boldsymbol { w } _ { 0 }$ 的影响上，左上角出现的灾难性测光红移和右下角出现的灾难性测光红移造成的偏差大小几乎相等，但符号却相反，从而导致总体的影响反而变得很小。重子声波振荡受灾难性测光红移误差的影响最小（见表2和图2），对于 $\boldsymbol { F } _ { \mathrm { t } } = 0 . 0 2$ ，最大的影响是左上角和右下角出现的灾难性测光红移两部分对 $\boldsymbol { w } _ { 0 }$ 的偏差（相对偏差为 $31 \%$ ，见表2）。
+
+表2暗能量状态方程参数因灾难性测光红移( $\pmb { F } _ { \mathrm { t } } = \mathbf { 0 . 0 2 } )$ 导致的系统偏差  
+able 2Biases on the dark energy EOS parameters caused by the catastrophic photo-z error $\left( { \cal F } _ { \mathrm { t } } = 0 . \ 0 2 \right)$   
+
+<html><body><table><tr><td colspan="2"></td><td rowspan="2">g(p)</td><td colspan="3">Sp</td><td colspan="3">Sp/σ(p)</td></tr><tr><td></td><td></td><td>ULa</td><td>BRb</td><td>BOTH</td><td>UL</td><td>BR</td><td>BOTH</td></tr><tr><td rowspan="2">BAO</td><td>w0</td><td>0.1188</td><td>-0.031</td><td>-0. 0058</td><td>-0.037</td><td>-0.26</td><td>-0.049</td><td>-0.31</td></tr><tr><td>Wa</td><td>0. 4191</td><td>-0. 0097</td><td>+0.04</td><td>+0.030</td><td>-0.023</td><td>+0.095</td><td>+0. 072</td></tr><tr><td rowspan="2">WL</td><td>W</td><td>0.088</td><td>-0.75</td><td>+0.69</td><td>-0.058</td><td>-8.5</td><td>+7.8</td><td>-0.66</td></tr><tr><td>Wa</td><td>0.340</td><td>-1.1</td><td>-0.42</td><td>-1.4</td><td>-3.1</td><td>-1.2</td><td>-4.2</td></tr><tr><td rowspan="2">BAO+WL</td><td>W</td><td>0.064</td><td>-0.31</td><td>+1. 1</td><td>+0.75</td><td>-4.8</td><td>+17</td><td>+12</td></tr><tr><td>Wa</td><td>0.2081</td><td>-1.0</td><td>-2.7</td><td>-3.6</td><td>-4.9</td><td>-13</td><td>-17</td></tr></table></body></html>
+
+a）include UL only；b）include BR only；c）include $\mathrm { U L + B R }$
+
+![](images/430cc09a31ef9a279b98731678f99ada2687574dc2e6aa558c0a02e779cc8723.jpg)  
+图2 $\delta ( w _ { 0 } ) / \sigma ( w _ { 0 } )$ 以及 $\delta ( w _ { \mathrm { a } } ) / \sigma ( w _ { \mathrm { a } } )$ 随 $\boldsymbol { F } _ { \mathrm { t } }$ 的变化。左边3幅图从上到下分别是图1中左上角、右下角以及这两部分灾难性测光红移误差对 $\boldsymbol { w } _ { 0 }$ 造成的相对偏差。右边3幅图同左，但是对 $w _ { \mathrm { a } }$ 造成的相对偏差Fig.2The variations of $\delta ( w _ { 0 } ) / \sigma ( w _ { 0 } )$ and $\delta ( w _ { \mathrm { a } } ) / \sigma ( w _ { \mathrm { a } } )$ with $\boldsymbol { F } _ { \mathrm { t } }$ . The three panels on the left are the impact of the upper-left（UL），botom-right（BR）and both the two parts（ $\mathrm { U L + B R }$ ）catastrophic photo $\mathbf { \sigma } \cdot \mathbf { z }$ in Fig. 1 on $\boldsymbol { w } _ { 0 }$ . The right panels arethe same as the left but for impact on （20
+
+灾难性测光红移误差对重子声波振荡的影响相对弱引力透镜较小的原因是由于弱引力透镜的窗函数比重子声波振荡的要宽得多，尤其对于红移较远的区间更甚。因此弱引力透镜窗函数比重子声波振荡受灾难性测光红移误差的影响更明显，从而直接导致弱引力透镜的功率谱比重子声波振荡受灾难性测光红移误差的影响更明显。
+
+2.2把灾难性测光红移的误差分布加入拟合模型中时暗能量状态方程参数的限制情况
+
+在没有灾难性测光红移误差的情况下，由于弱引力透镜不受星系偏袒因子的影响，联合重子声波振荡可以有效地提高对星系偏袒因子的限制能力[19]。让测光红移误差模型包括灾难性测光红移误差,结果发现，对于 $\textstyle F _ { _ { \mathrm { t } } } = 0 . 0 2$ ，在测光红移误差模型添加了 $1 5 \times 3 = 4 5$ 个自由度后，星系偏袒因子 $\textit { b }$ ，测光红移区间的核心部分的星系真实红移分布的平均值 $z _ { \mathrm { c o r e } , i }$ 和标准差 $\sigma _ { \mathrm { c o r e } , i }$ 的限制情况与没有灾难性测光红移误差的情况并没有实质性的差别。图3比较这种情况下与没有灾难性测光红移误差时b、zcore,i和 $\sigma _ { \mathrm { c o r e } , i }$ 的限制情况。重子声波振荡和联合重子声波振荡 $+$ 弱引力透镜对 $b$ 的限制受灾难性测光红移误差的影响主要出现在相应区间附近（即 $z { < } 0 . 5$ 和 $z { > } 2$ )，而中间没有灾难性测光红移误差的区域则不受影响。总体来说，联合重子声波振荡和弱引力透镜仍然使星系偏袒因子得到比单独重子声波振荡更强的限制。另外，重子声波振荡和联合重子声波振荡 $^ +$ 弱引力透镜对 $z _ { \mathrm { c o r e } , i }$ 和 $\sigma _ { \mathrm { c o r e } , i }$ 的限制几乎没有变化。综上所述，在加入 $\textstyle F _ { _ { \mathrm { t } } } = 0 . 0 2$ 的灾难性测光红移误差的情况下，重子声波振荡和弱引力透镜仍然具有很强的互补效应。
+
+![](images/4741ad8a426b6659dea78c0fff41af621a1a92399973516cdc5d53f98ca4844c.jpg)  
+Differences between with and without catastrophic photo-z errors ( $\scriptstyle \cdot F _ { \mathrm { t } } = 0 . 0 2$ $f _ { i } { = } 0 . 0 7 3 )$   
+图3比较存在和不存在局域性灾难性测光红移的两种模型下重子声波振荡，弱引力透镜及联合重子声波振荡 $^ +$ 弱引力透镜的校正能力。3张子图的图例相同并画在第3张子图上。第1张子图是重子声波振荡和联合重子声波振荡 $^ +$ 弱引力透镜对星系偏袒因子的限制情况，并分别对应两条曲线，略高者为存在灾难性测光红移的情况（后面两子图同理）。每个参数的先验误差为 $1 5 \%$ 。第2张子图是弱引力透镜、重子声波振荡和联合重子声波振荡 $^ +$ 弱引力透镜对 $z _ { \mathrm { c o r e } , i }$ 的限制情况。先验误差为 $\Delta z _ { \mathrm { c o r e } , i } = 0 . 0 5 \sigma _ { \mathrm { c o r e } , i } / \sqrt { 1 - f _ { i } }$ 。第3张子图是对 $\sigma _ { \mathrm { c o r e } , i }$ 的限制情况。先验误差是 $\Delta z _ { \mathrm { c o r e } , i }$ 的 $1 / \sqrt { 2 }$ 倍，对重子声波振荡和联合重子声波振荡 $^ +$ 弱引力透镜，图中几乎分辨不出存在和不存在灾难性测光红移的限制差别。子图2，3中弱引力透镜的限制情况在 $0 < z _ { \mathrm { p h } } < 0 . 5$ 和 $2 < z _ { \mathrm { p h } } < 3$ 出现明显的差别是由于先验误差的取值不同造成的
+
+Fig.3The comparison of different constrains by BAO，WL and $\mathrm { B A O + W L }$ between with and without localized catastrophic photoz error ( $\boldsymbol { F } _ { \mathrm { t } } = 0 . 0 2$ ).The legends for each panel are the same and put in the $3 ^ { \mathrm { r d } }$ panel. The $1 ^ { \mathrm { s t } }$ panel is constrains of galaxy biases by BAO and $\mathrm { B A O + W L }$ and each has two curves respectively corresponding to the one with and without catastrophic photo-z error respectively.For both BAO and $\mathrm { B A O + W L }$ ，the curve which is a little higher is the one with catastrophic photo-z error（The same for the $2 ^ { \mathrm { n d } }$ and $3 ^ { \mathrm { r d } }$ panel).The prior for each galaxy bias parameter is $1 5 \%$ . The $2 ^ { \mathrm { n d } }$ panel is constrains of $z _ { \mathrm { c o r e } , i }$ by BAO,WL,BAO+WL. The prior is $\Delta z _ { \mathrm { c o r e } , i } = 0 . 0 5 \sigma _ { \mathrm { c o r e } , i } / \sqrt { 1 - f _ { i } }$ . The $3 ^ { \mathrm { r d } }$ panel is constrains of $\sigma _ { \mathrm { c o r e } , i }$ ： The prior for $\sigma _ { \mathrm { c o r e } , i }$ is $\Delta z _ { \mathrm { c o r e , \it { i } } } / \sqrt { 2 }$ . For BAO and BAO $+$ WL constrains，the curves with and without catastrophic photo-z errors are almost the same in the $3 ^ { \mathrm { r d } }$ panel. The obvious diferences between WL constrains at $0 { < } z _ { \mathrm { p h } } { < } 0 . 5$ and $2 < z _ { \mathrm { p h } } < 3$ is due to the different priors adopted
+
+表3列出了加入灾难性测光红移误差到测光红移误差分布模型中之后的暗能量状态方程参数的限制情况，并与没有灾难性测光红移误差时的结果做了比较。在加入 $\textstyle F _ { _ { \mathrm { t } } } = 0 . 0 2$ 的灾难性测光红移误差后，总体来看，暗能量状态方程参数的误差并没有太大的增加。特别是重子声波振荡的限制结果增加量少于 $1 \%$ 。弱引力透镜对 $\boldsymbol { w } _ { 0 }$ 和 $w _ { \textrm { a } }$ 的限制误差分别增加了 $14 \%$ 左右( $\mathrm { U L + B R } { \mathrm { ~ } }$ 和 $6 \%$ 左右( $\mathrm { U L + B R } { \mathrm { ~ } }$ ）。而联合重子声波振荡 $^ +$ 弱引力透镜对 $\boldsymbol { w } _ { 0 }$ 和 $w _ { \mathrm { a } }$ 的限制误差都只增加了 $5 \%$ 左右( $\mathrm { U L + B R }$ ）。
+
+# 3总结及讨论
+
+本文建构了在 $z { - } z _ { \mathrm { { p h } } }$ 面左上角和右下角局域性分布的灾难性测光红移误差分布模型。计算了由于不知道灾难性测光红移误差的存在( $\boldsymbol { F } _ { \mathrm { t } } = 0 . 0 2 \$ )导致的重子声波振荡、弱引力透镜以及联合重子声波振荡 $^ +$ 弱引力透镜限制暗能量状态方程参数时的系统偏差，并分别考察左上角和右下角部分的测光红移误差造成的影响。结果发现，左上角和右下角造成的偏差有些是正负反号的（重子声波振荡对 $w _ { \mathrm { a } }$ ，弱引力透镜对 $\boldsymbol { w } _ { 0 }$ ，联合重子声波振荡 $+$ 弱引力透镜对 $\boldsymbol { w } _ { 0 }$ )，特别在对弱引力透镜限制 $\boldsymbol { w } _ { 0 }$ 的影响上，左上角和右下角造成的偏差大小几乎相等，但符号却相反，从而导致总体的影响反而变得很小。重子声波振荡受灾难性测光红移误差的影响最小，对于 $\textstyle F _ { _ { \mathrm { t } } } = 0 . 0 2$ ，对重子声波振荡最大的影响是左上角 $^ +$ 右下角两部分对 $\boldsymbol { w } _ { 0 }$ 造成的偏差( $3 1 \%$ 。最后把 $\boldsymbol { F } _ { \mathrm { t } } = 0 . 0 2$ 的灾难性测光红移误差加入测光红移误差模型中，计算增加45个自由度后对星系偏袒因子、测光红移误差参数以及暗能量状态方程参数的限制。结果在加入 $\boldsymbol { F } _ { \mathrm { t } } = 0 . 0 2$ 的灾难性测光红移误差的情况下，重子声波振荡和弱引力透镜仍然具有很强的互补效应。重子声波振荡和联合重子声波振荡 $^ +$ 弱引力透镜对星系偏袒因子的限制受灾难性测光红移误差的影响主要出现在相应有灾难性测光红移误差的区间附近（即 $z { < } 0 . 5$ 和 $z { > } 2$ )，而中间没有灾难性测光红移误差的区域则几乎不受影响。总体来说，联合重子声波振荡和弱引力透镜仍然使星系偏祖因子得到比单独重子声波振荡更强的限制。另外，重子声波振荡和联合重子声波振荡 $+$ 弱引力透镜对$z _ { \mathrm { c o r e } , i }$ 和 $\sigma _ { \mathrm { c o r e } , i }$ 的限制几乎没有变化。至于对暗能量状态方程参数限制的影响，在把 $F _ { \mathrm { { t } } } = 0 . 0 2$ 的灾难性测光红移误差加入拟合模型后，暗能量状态方程参数的误差并没有太大的增加。特别是重子声波振荡的限制结果增加量少于 $1 \%$ 。弱引力透镜对 $\boldsymbol { w } _ { 0 }$ 和 $w _ { \mathrm { a } }$ 的限制误差分别增加了 $14 \%$ 左右( $\mathrm { \Delta \ U L + B R }$ 和 $6 \%$ 左右(UL$+ \mathrm { B R }$ )，而联合重子声波振荡 $^ +$ 弱引力透镜对 $\boldsymbol { w } _ { 0 }$ 和 $w _ { \mathrm { a } }$ 的限制误差都只增加了 $5 \%$ 左右( $\mathrm { U L + B R }$ ）。
+
+表3加入灾难性测光红移 $\mathbf { \nabla } \cdot F _ { \mathrm { t } } = \mathbf { 0 } . \mathbf { 0 } 2 )$ 到拟合模型中后暗能量状态方程参数的限制结果  
+Table 3Constrains of dark energy EOS parameters after adding the catastrophic photo- $\mathbf { \sigma } \cdot \mathbf { z }$ error $\mathbf { \nabla } \cdot F _ { \mathrm { t } } = 0 . \mathbf { \nabla } \cdot 0 2 )$ to the fitting model   
+
+<html><body><table><tr><td rowspan="2" colspan="2"></td><td colspan="3">add cata</td><td colspan="3"></td></tr><tr><td>UL</td><td>BR</td><td>BOTH</td><td>UL</td><td>BR</td><td>BOTH</td></tr><tr><td rowspan="2">BAO</td><td>Wo</td><td>0.11960</td><td>0. 1189</td><td>0.11963</td><td>0.67</td><td>0.08</td><td>0.70</td></tr><tr><td>Wa</td><td>0.4217</td><td>0.4193</td><td>0.4218</td><td>0.62</td><td>0.05</td><td>0. 64</td></tr><tr><td rowspan="2">WL</td><td>Wo</td><td>0.097</td><td>0. 095</td><td>0.10</td><td>10</td><td>8.0</td><td>14</td></tr><tr><td>Wa</td><td>0.355</td><td>0.345</td><td>0.360</td><td>4.4</td><td>1.5</td><td>5.9</td></tr><tr><td rowspan="2">BAO+WL</td><td></td><td>0. 065</td><td>0. 066</td><td>0.067</td><td>1.6</td><td>3.1</td><td>4.7</td></tr><tr><td>Wa</td><td>0.2120</td><td>0.2119</td><td>0. 2159</td><td>1.9</td><td>1.8</td><td>5.5</td></tr></table></body></html>
+
+a.“cat”means“catastrophic photo-z error”； $~ \mathrm { b . } ~ R ~ = { \frac { r e s u l t ~ o f ~ ^ { \ast } a d d ~ c a t ^ { \ast } } { r e s u l t ~ o f ~ ^ { \ast } n o ~ c a t ^ { \ast } } } - 1$
+
+致谢：感谢国家天文台詹虎研究员在研究过程中给予的宝贵意见和指导。感谢孙磊、许优华、王乔在此过程中非常有益的讨论和帮助。
+
+# 参考文献：
+
+[1] Connolly A J, Csabai I, Szalay A S,et al. Slicing through multicolor space:galaxy redshifts from broadband photometry［J].The Astronomical Journal，1995，110(6）：2655-2664.   
+[2] Carliles S，Budavári T，Heinis S，et al.Random forests for photometric redshifts [J].The Astrophysical Journal，2010，712:511-515.   
+[3] Bolzonella M，Miralles JM，Pello R，et al.Photometric redshifts based on standard SED fitting procedures [J].Astronomy & Astrophysics，2000，363:476-492.   
+[4] Collisster A A，Lahav O.ANNz:estimating photometric redshifts using artificial neural networks [J].The Publications of the Astronomical Society of the Pacific，2004，116(818)：345-351.   
+[5] Schneider M K L， Zhan H C A.Using galaxy two-point correlation functions to determine the redshift Distributions of galaxies binned by photometric redshift [J]. The Astrophysical Journal, 2006，651(1) : 14-23.   
+[6」 Newman JA. Calibrating redshit distributions beyond spectroscopic limits with cross-correlations [J].The Astrophysical Journal，2008，684(1）:88-101.   
+[7] Benjamin J,Waerbeke L V，Ménard B,et al. Photometric redshifts :estimating their contamination and distribution using clustering information [J]. Monthly Notices of the Royal Astronomical Society，2010，408:1168-1180.   
+[8] Schmidt S J，Ménard B， Scranton R. Recovering redshift distributions with cross-correlations : pushing the boundaries [J].Monthly Notices of the Royal Astronomical Society，2013，431 (4): 3307-3318.   
+[9] Ma Z，Hu W，Huterer D.Eects of photometric redshift uncertainties on weak-lensing tomography [J].The Astrophysical Journal，2006,636(1）: 21-29.   
+[10]Huterer D，Takada M,Bernstein G，et al. Systematic errors in future weak lensing surveys : requirements and prospects for self-calibration [J].Monthly Notices of the Royal Astronomical Society，2006,366(1）:101-114.   
+[11]Sun L，Fan Z H，Tao C，et al. Catastrophic photo-z errors and the dark energy parameter estimates with cosmic shear [J]. The Astrophysical Journal,2009,699: 958-967.   
+[12]Bernstein G,Huterer D. Catastrophic photometric redshift errrs :weak-lensing survey requirements [J].Monthly Notices of the Royal Astronomical Society，2010,401(2）：1399-1408.   
+[13]Hearin A P，Zentner A R，Ma Z，et al. A general study of the influence of catastrophic photometric redshift errors on cosmology with cosmic shear tomography[J].Astrophysical Journal，2010，720(2）：1351-1369.   
+[14]Nishizawa A J，Takada M， Hamana T,et al. A clipping method to mitigate the impact of catastrophic photometric redshift errors on weak lensing tomography ［J]. The Astrophysical Journal，2010，718（2):1252-1265.   
+[15]Seo HJ,Eisenstein D J. Probing dark energy with baryonic acoustic oscillations from future large galaxy redshift surveys [J]. The Astrophysical Journal,2003,598(2）:720-740.   
+[16]Zhan H，Knox L，Tyson JA.Distance，growth factor，and dark energy constraints from photometric baryon acoustic oscillation and weak lensing measurements [J]. The Astrophysical Journal，2009，690(1） :923-936.   
+[17]Knox L，Song Y S，Zhan H. Weighing the universe with photometric redshift surveys and the impact on dark energy forecasts [J]. The Astrophysical Journal,2006,652(2）: 857-863.   
+[18]Zhan H,Knox L.Baryon oscillations and consistency tests for photometrically determined redshifts of very faint galaxies [J]. The Astrophysical Journal，2006,644(2） : 663-670.   
+[19]Zhan H. Cosmic tomographies:baryon acoustic oscillations and weak lensing [J]. Journal of Cosmology and Astroparticle Physics，2006，4(8） : 747-748.   
+[20]Limber D N.The analysis of counts of the extragalactic nebulae in terms of a fluctuating density field.II ［J]. The Astrophysical Journal，1954，119: 655-681.   
+[21]Kaiser N. Weak gravitational lensing of distant galaxies [J]. The Astrophysical Journal,1992, 388:272-286.   
+[22]Lewis A，Challinor A，Lasenby A. Efficient computation of cosmic microwave background anisotropies in closed friedmann-robertson-walker models [J]. The Astrophysical Journal,2000, 538(2) : 473-476.   
+[23]Howlett C， Lewis A，Hall A，et al. CMB power spectrum parameter degeneracies in the era of precision cosmology [J]. Journal of Cosmology and Astroparticle Physics，2012，4(4） : 1-27.   
+[24]Smith R E，Peacock JA，Jenkins A，et al. Stable clustering，the halo model and non-linear cosmological power spectra [J]. Monthly Notices of the Royal Astronomical Society，2003，341 (4):1311-1332.   
+[25] Takahashi R，Sato M，Nishimichi T,et al.Revising the halofit model for the nonlinear matter power spectrum [J]. The Astrophysical Journal,2012，761(2）：152-161.   
+[26] Weinberg D H,Dave'R,Katz N,et al. Galaxy clustering and galaxy bias in a ΛCDM universe [J].The Astrophysical Journal，2004，601（1）：1-21.   
+[27] Plank Collaboration，Ade PA R，Aghanim N，et al.Planck 2013 results.XVI.cosmological parameters [J].Astronomy and Astrophysics，2014，571:A16-A81.   
+[28] Song Y S，Knox L. Determination of cosmological parameters from cosmic shear data [J]. Physical Review D，2004，70(6) :298.   
+[29] Tegmark M. Measuring cosmological parameters with galaxy surveys [J]. Physical Review Letters, 1997，79(20): 3806-3809.   
+[30] Amara A，Refrégier A. Systematic bias in cosmic shear:extending the Fisher matrix [J]. Monthly Notices of the Royal Astronomical Society，2008，391(1）:228-236.   
+[31] Seo HJ,Eisenstein D J. Baryonic acoustic oscilltions in simulated galaxy redshift surveys [J]. The Astrophysical Journal，2005，633(2） : 575-588.
+
+# Impact of the Catastrophic Photo-z Error on the Dark Energy Equation of State Parameters by the Method of Baryon Acoustic Oscillations and Weak Lensing
+
+Gao Pengyuan1,2 (1.National Astronomical Observatories，Chinese Academyof Sciences，Beijing10oo12,China,Email:pygao@ nao.cas.cn; 2.University of Chinese Academy of Sciences，Beijing1OoO49，China)
+
+Abstract：The impact of thecatastrophic photo-z erors on the constraints of dark energy equation of state （EOS） parameters and the complementarity of baryon acoustic oscillations（BAO）and weak lensing（WL） is studied in this paper. Targeting LSST（Large Synoptic Survey Telescope)-like survey projects，we construct a localized catastrophic photo-z error distribution in the upper-left（UL）and bottom-right（BR）of the $z ^ { - }  { z _ { \mathrm { { p h } } } }$ （204 plane.For the two parts of the catastrophic distribution，we use Fisher matrix to forecast the impact on dark energy EOS parameter constraints by the methods of BAO，WL and joint BAO and WL（ $\mathrm { B A O + W L }$ .If the existing catastrophic photo-z errors are not included in the fiting model，systematic biases on EOS parameters could be presented.The constraints from UL and BR do not always have the same sign.BAO suffers the least from catastrophic photo-z errors.For total fraction of catastrophic outliers $\textstyle F _ { \mathrm { _ t } } = 0 . 0 2$ ，the biggest bias is on $w _ { 0 }$ for BAO（UL $+$ BR）which is about $30 \%$ statistical error.But for $\mathbb { W L }$ or $\mathrm { B A O + W L }$ ，biases are always several times the statistical errors，which shows that the $\textstyle F _ { \mathrm { _ t } } = 0 . 0 2$ catastrophic photo-z errors can not be ignored. Moreover, the impacts of UL and BR on $\boldsymbol { w } _ { 0 }$ for $\mathbb { W L }$ are almost the same magnitude but different signs，which reduces the total impact.With the $F _ { \mathrm { t } } { = } 0 . 0 2$ catastrophic photo-z errors included in the fitting model,the complementarity of BAO and WL is still very strong even though 45 degree of freedom are added into the photo-z error distribution model.Under this condition,the errors of EOS parameters do not increase much.In particular,the errors of EOS parameter from BAO increase by less than one percent compared to that without catastrophic photo-z errors.The errors of $w _ { 0 }$ and $w _ { \mathrm { a } }$ from WL increase by approximately 14 percent ( $\mathrm { U L + B R }$ ）and6 percent（ $\mathrm { U L + B R } \dot { }$ ， respectively. For $\mathrm { B A O + W L }$ ，the errors of $w _ { 0 }$ and $w _ { \mathrm { a } }$ both increase about 5 percent（UL $+$ BR).
+
+Key words: Cosmology； Large scale structure； Surveys of galaxies； Gravitational lensing；Dark energy

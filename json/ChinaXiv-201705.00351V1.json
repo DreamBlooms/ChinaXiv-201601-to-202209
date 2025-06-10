@@ -1,0 +1,408 @@
+[
+    {
+        "type": "text",
+        "text": "Highly permselective MIL-68(Al)/matrimid mixed matrix membranes for $C O _ { 2 } / C H _ { 4 }$ separation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xinyu Dong,1.2 Qian Liu,1 Aisheng Huang1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1InstituteofNewEnergyTechnology,Ningbo Instituteof MaterialTechnologyandEngineering,CAS,1219ZhongguanRoad,   \nNingbo 315201,People's Republic of China   \n2Key Laboratory for Microstructures, Shanghai University, Shanghai 2OO444,People's Republic of China   \nCorrespondence to:A. Huang (E-mail: huangaisheng@nimte.ac.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT:Withglobalappeal togreenandeficientutilizationofenergiesmetal-organicframeworksbasedmixedmatrixmembranesare standingout in aplicationssuchasgasand liquid separation becauseofthe integrationofsize/shape selectivityof MOFs with processability and mechanical stability of polymers.In the present work,a novel MIL-68(Al) $\\mathrm { { \\ : { M I L } = } }$ Material of InstituteLavoisier）based mixed matrix membrane(MMM)was developed byadding porous MIL-68(Al) into Matrimid fortheseparationof $\\mathrm { C O } _ { 2 } /$ （204号 $\\mathrm { C H } _ { 4 }$ mixture.The MIL-68(Al)/Matrimid MMM displays a high $\\mathrm { C O } _ { 2 }$ permselectivity. For the separation of an equimolar $\\mathrm { C O _ { 2 } / C H _ { 4 } }$ （20 mixture at $3 7 3 \\mathrm { ~ K ~ }$ and 1 bar, the $\\mathrm { C O } _ { 2 }$ permeability and the $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ selectivity are 284.3 Barrer and 79.0,respectively,which far exceedthe Robesonupperbound limit and thoseofthe previouslyreported MMMs.Both theoperation pressreandtemperature havegreat influence totheseparation performanceof the MIL-68(Al)/Matrimid MMM.Further,the MIL-68(Al)/Matrimid MMM shows a high stability in the long-term separation of $\\mathrm { C O _ { 2 } / C H _ { 4 } }$ .These properties recommend the MIL-68(Al)/Matrimid MMM as a promising candidate for the purification of natural gases. $\\textcircled { \\scriptsize { \\mathbb { C } } 2 0 1 6 }$ Wiley Periodicals,Inc.J. Appl. Polym.Sci.2016,133,43485. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDs:composites; membranes;porous materials; polyimides; separation techniques ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Natural gas has long been exploited as the source of energy for both domestic and industrial applications because of its high energy efficiency and eco-compatibility.However,most raw natural gases contain undesirable impurity $\\mathrm { C O } _ { 2 }$ with concentration as high as $7 0 \\%$ .1 The presence of $\\mathrm { C O } _ { 2 }$ will reduce the energy efficiency of natural gases,and corrode pipelines in the presence of water.14 Consequently，efectiveseparation techniquesare highly desired to separate $\\mathrm { C O } _ { 2 }$ from natural gases.Conventional technologies like pressure swing adsorption (PSA） and cryogenic distillationareenergy-intensive, operation-complex,and environment-hurting. Therefore,a clean and energy-economical separation technique is desired. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Membrane-based separation has been considered to be the most promising alternative because of its low energy consumption, ease of operation，and cost effectiveness.5-7\" The polymeric membranes have dominated industrial applications because of their low cost and easy preparation.However, the performances of traditional polymeric membranes are limited by a trade-off between permeability and separation selectivity.89 Furthermore, polymeric membranes are easy to plasticize by some gases or vapors like $\\mathrm { C O } _ { 2 }$ or $\\begin{array} { r l } { \\mathrm { H } _ { 2 } \\mathrm { O } _ { : } } \\end{array}$ ，resulting in severe reduction in their separation performances.1° To solve these problems，various strategies have been developed, including modification of polymer structure,blending of different polymers,and fabrication of mixed matrix membranes (MMMs).1i-15 MMMs are a type of hybrid membranes characterized by the incorporation of inorganic fillers into polymer matrix,making use of both easy processability of the polymer and flexibility of the filler to enhance the permselective performance of membranes.16-18 Various inorganic porous materials such as zeolites,silica,carbon nanotubes,and newly emerged MOFs,were incorporated into polymer matrices to enhance the performances of polymeric membranes.19-25 MOFs are a fascinating kind of porous materials built with metal ions and organic linkers.Because of their excellent thermal stability, favorable pore regularity,and high surface area,MOFs have attracted intense attention in potential applications such as gas storage and adsorption,gas separation, catalysis,and drug delivery.26-33 Because the organic linkers in MOFs have excellent affinity with polymer chains,MOF-based MMMs display outstanding separation performances.34-37 Generally,MMMs with both high permeability and high separation selectivity are desirable in practical applications.To achieve these aims,a rational choice of matrix/filler pair plays an important role insuccessul preparation of MMMs.38,39 Moreover,in practical usage,the operation conditions,especially operation pressure and temperature,are of great importance.40,41Guoetal. probed into the influenceof pressure on the $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ separation performances of ${ \\mathrm { N H } } _ { 2 } { \\mathrm { - M I L } } { \\mathrm { - } } 1 2 5 ( { \\mathrm { T i } } ) /$ PSF MMMs and found that both the $\\mathrm { C O } _ { 2 }$ permeability and $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ separation factor decreased with increasing pressure.42 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b369a3670d42d1a54e78a6471d7fb0958aff8a3de6c05bc29be8d844ce09950a.jpg",
+        "img_caption": [
+            "Figurel.CemicaltructueofMatriid8ndth-68()stalstructueviewedalogdectio.Colorfgurecaneviedt online issue,which is available at wileyonlinelibrary.com.] "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MIL-68(Al) is a MOF of the MIL category.It has infinite chains of corner-sharing metal-centered octahedral $\\mathrm { A l O } _ { 4 } ( \\mathrm { O H } ) _ { 2 }$ linked via hydroxyl groups and terephthalate ligands (Figure 1).There are two kinds of channels with opening diameters of $6 . 0 { - } 6 . 4 \\mathrm { ~ \\AA ~ }$ and 16-17 A for its triangular and hexagonal pores,respectively.43 It is expected that such a one-dimensional large-pore structure can facilitate the diffusion of gases,thus significantly increasing the gas permeability. Furthermore,MIL-68(Al),with a large surface area of $1 4 1 7 ~ \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { g } ^ { - 1 }$ (pore volume $0 . 6 7 ~ \\mathrm { c m } ^ { 3 } { \\cdot } \\mathrm { g } ^ { - 1 }$ and particle density $0 . 8 4 ~ \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { - 3 } .$ ),has plentiful hydroxyl groups along the channel directions,showing strong adsorption afinity to $\\mathrm { C O } _ { 2 }$ and potential selectivity of $\\mathrm { C O } _ { 2 }$ over $\\mathrm { C H } _ { 4 }$ .27,43 It is well recognized that the $\\mathrm { C O } _ { 2 }$ -selective materials as fillers can simultaneously improve the permeability and selectivity of MMMs for $\\mathrm { C O } _ { 2 }$ separation.42,44 An additional merit is that the MIL68(Al） shows good chemical stability toward water,which is helpful for the practical utility under real industrial conditions, because water vapor exists inevitably in most natural gas wells.27 Attributing to these merits,MIL-68(Al) is expected to be a promising candidate to prepare $\\mathrm { C O } _ { 2 }$ -selective MMMs for the separation of $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ .Recently, Seoane et al. reported the synthesis of MIL-68(Al)/Polysulfone MMMs for the separation of $\\mathrm { H } _ { 2 } / \\mathrm { C H } _ { 4 }$ and $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ .45 However, the separation performances of the MIL-68(Al)/Polysulfone MMMs were limited by the polysulfone polymer whose permselectivity is far below the Robeson upper bound,thus a better choice of filler/matrix pair is desired. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The glassy polymer Matrimid@5218 (Figure.1） is widely selected as matrix because of its outstanding separation performance for $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 } ,$ whose permslectivity is close to the trade-off limit of the Robeson’s plot.3,5,6,46In this work，we incorporate MIL-68(Al) into Matrimid matrix to prepare MIL68(Al)/Matrimid MMMs for $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ separation. This combination of highly porous fillers and high performance matrix is expected to prepare membranes with high $\\mathrm { C O } _ { 2 }$ permeability and selectivity over $\\mathrm { C H } _ { 4 }$ . To the best of our knowledge,this is the first report of MIL-68(Al)/Matrimid MMMs.The separation of $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ by using the MIL-68(Al)/Matrimid MMMs is investigated in detail, focusing on the effect of operation pressure and temperature on the separation performances. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chemicals ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All chemicals were used as received: terephthalic acid (Alfa Aesar, $9 9 \\%$ ),aluminum chloride hexahydrate $( \\mathrm { A l C l } _ { 3 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O } ,$ Alfa Aesar, $9 9 \\%$ ， $\\mathrm { \\Delta N _ { : } }$ ， $\\mathrm { \\Delta N ^ { \\prime } }$ -dimethylformamide(DMF,CarloErba, pure),Matrimid? 5218 polyimide polymer(VWR International GmbH),methanol (Sinopharm, $9 9 . 5 \\%$ ),and chloroform（Sinopharm, $9 9 \\%$ ） ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of MIL-68(Al) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MIL-68(Al） was synthesized according to previously reported procedures.43 In a typical synthesis, $\\mathrm { ~ 5 ~ g ~ }$ 0 $\\mathrm { 3 0 ~ m m o l } ;$ terephthalic acid and $4 . 8 8 ~ \\mathrm { g }$ 0 $2 0 \\ \\mathrm { m m o l } ;$ $\\mathrm { A l C l } _ { 3 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ were dissolved in $2 8 4 \\mathrm { ~ g ~ }$ （ $( 3 8 9 1 ~ \\mathrm { m m o l } )$ ）DMF. The mixture was placed in a round bottom flask equipped with condenser,continuously stirred,and heated at $4 0 3 \\mathrm { ~ K ~ }$ for $1 8 . 5 \\mathrm { ~ h ~ }$ in oil bath.After the mixture cooled down naturally to room temperature,a yellow solid was separated by filtration. To eliminate the free acid remaining in the pores,the as-synthesized solid was washed with $5 0 ~ \\mathrm { \\ m L }$ DMF for three times,and subsequently washed with $5 0 ~ \\mathrm { m L }$ methanol for four times at ambient temperature under continuous stirring,and then some light yellow solid was obtained. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Preparation of MIL-68(Al)/Matrimid MMMs ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MIL-68(Al)/Matrimid MMMs were prepared by following the procedures described elsewhere with minor modification.34 Before preparation of MIL-68(Al)/Matrimid MMMs,Matrimid, and MIL-68(Al) crystals were heated overnight at $3 9 3 \\mathrm { ~ K ~ }$ ina conventional oven to remove adsorbed water and residual solvent.Under the same fabrication condition,a filler loading of $1 0 \\%$ was certified to be the optimal loading for MIL/Matrimid pair in previous literature.17 Therefore, the loading of $1 0 \\%$ was employed for a further comprehensive evaluation of operation pressure and temperature.In a typical synthesis, $0 . 0 4 \\mathrm { ~ g ~ }$ MIL68(Al) was added into $3 . 6 \\mathrm { ~ g ~ }$ chloroform,and then the mixture was treated with sonication for $1 5 \\ \\mathrm { m i n }$ to get a well-dispersed solution. Thereafter, $0 . 3 6 \\mathrm { ~ g ~ }$ Matrimid was added into the solution,and the resulted solution was kept stirring for $^ { 4 8 \\mathrm { ~ h ~ } }$ at room temperature to obtain a homogeneous solution for membrane preparation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Flat-scraping method was used for membrane-casting. The homogeneous solution was poured onto a flat glass plate and was quickly scraped with a membrane fabricator. Within a few minutes,the membrane was dried and immediately peeled off from the glass plate,and annealed at $4 5 3 \\mathrm { ~ K ~ }$ for $^ { 1 6 \\mathrm { ~ h ~ } }$ .The annealing step is important to remove residual solvent and activate filler crystals.34,43 The MIL-68(Al)/Matrimid MMMs generally have a thickness of 20 $( \\pm 2 ) \\ \\mu \\mathrm { m } ,$ as measured with a digital micrometer (Guilin Guanglu Measuring Instrument). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Characterizations of MIL-68(Al) Crystals and MIL-68(Al)/ MatrimidMMMs ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The phase purity and crystallinity of the MIL-68(Al) crystals and MIL-68(Al)/Matrimid MMMs were characterized by X-ray diffraction (XRD).The XRD patterns were recorded at room temperatureunder ambientconditionswith Bruker D8 ADVANCE X-ray diffractometer with CuKa radiation at $4 0 ~ \\mathrm { k V }$ and $4 0 ~ \\mathrm { m A }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The morphology and crystal size of the MIL-68(Al) crystals,as well as the morphology and thickness of the MIL-68(Al)/Matrimid MMMs were characterized by field emission scanning electron microscopy (FESEM).FESEM micrographs were taken on an S-480o (Hitachi) with a cold field emission gun operating at $4 ~ \\mathrm { k V }$ and $1 0 ~ \\mu \\mathrm { A }$ 、All membrane samples were made with freezefracturemethodand coatedwithplatinumbefore characterization. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Single Gas Permeation and Mixture Gas Separation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The MIL-68(Al)/Matrimid MMMs were evaluated by single gas permeation and mixture gas separation in a Wicke-Kallenbach permeation apparatus.47,48 For gas permeation, the MIL-68(Al)/ Matrimid MMMs were sealed in a permeation module with silicone O-rings and checked by leakage detection.Because of a very low permeability of $\\mathrm { C H } _ { 4 }$ at room temperature,which was almost undetected by gas chromatograph (GC,Echrom A90), the gas permeation and separation experiment was evaluated at a temperature higher than $3 7 3 \\mathrm { ~ K ~ }$ in all the cases. The sweep gas $\\mathrm { N } _ { 2 }$ 0 $\\mathrm { ^ { 5 0 } ~ m L ~ m i n ^ { - 1 } }$ ）was fed on the permeate side to keep the concentration of the permeating gas as low as possible,thus providing a driving force for permeation. Single gases $\\mathrm { C O } _ { 2 }$ $( 5 0 \\mathrm { \\ m L \\ m i n } ^ { - 1 } ) ,$ and $\\mathrm { C H } _ { 4 }$ $( 5 0 \\mathrm { \\ m L \\ m i n ^ { - 1 } }$ ）aswell as equimolar mixture $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ (both $5 0 \\mathrm { \\ m L \\ m i n ^ { - 1 } }$ ）were fed on the feed side of the permeation module.For both single gas permeation and mixture gas separation, the fluxes of feed and sweep gases were determined with mass flow controllers,and a calibrated GC was used to measure the gas concentrations. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For data collection and calculation,single gas permeability was calculated with the following equation34: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP { = } \\frac { V l } { A } \\frac { T _ { 0 } } { p _ { f e e d } p _ { 0 } T } \\left( \\frac { d p } { d t } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $P$ is the permeability of the permeated gas,generally expressed as Barrer (1 Barrer equals to $1 0 ^ { - 1 0 } ~ \\mathrm { c m } ^ { 3 }$ (STP）cm $\\mathrm { c m } ^ { - 2 } \\ s ^ { - 1 } \\ \\mathrm { c m H g } ^ { - 1 } ,$ ; $V$ is the volume of permeation $( \\mathrm { c m } ^ { 3 } )$ $l$ i3 the thickness of the membrane $( \\mathrm { c m } )$ ; $A$ is the effective area of the membrane $( \\mathrm { c m } ^ { 2 } )$ ; $T$ is the absolute operating temperature (K); $T _ { 0 }$ is the standard-state temperature (273.15 K); $p _ { f e e d }$ is the pressure of the feed gas $\\mathrm { ( c m H g ) }$ ； $p _ { 0 }$ is the standard-state pressure $( 7 6 ~ \\mathrm { c m H g } )$ ； dp/dt is the increasing rate of pressure in the permeating volume at steady state $\\mathrm { ( c m H g \\ s ^ { - 1 } \\mathrm { \\not { C } } ) } ,$ ） ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ideal separation factor was calculated from the single gas permeabilities $P _ { i }$ and $P _ { j }$ as in the following equation49: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { i j } ^ { i d e a l } = \\frac { P _ { i } } { P _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "And mixture gas separation factor $\\boldsymbol { \\mathscr { A } } _ { i j }$ was defined as the quotient of molar ratios of components in the permeate $\\gamma _ { i }$ and $\\gamma _ { j } ,$ divided by the quotient of molar ratio of components in the retentate $x _ { i }$ and $\\displaystyle x _ { j } ,$ as in the following equation50: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { i j } = \\frac { \\gamma _ { i } / \\gamma _ { j } } { x _ { i } / x _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Characterizations of MIL-68(Al) Crystals and MIL-68(Al)/ MatrimidMMMs ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure.2 shows the XRD patterns of the Matrimid,MIL-68(Al) crystals and MIL-68(Al)/Matrimid MMMs.The XRD pattern of MIL-68(Al) crystals [Figure 2(b)] displays all the typical peaks of MIL-68(Al),with the highest peak at $2 \\theta = 9 . 4 ^ { \\circ }$ .This XRD pattern is in good agreement with literatures,43,45 thus confirming the formation of pure MIL-68(Al) crystal in this study. For MIL-68(Al)/Matrimid MMMs,the XRD pattern [Figure 2(c)] shows both the intense reflection peaks of MIL-68(Al) and the broad amorphous peak of Matrimid in Figure2(a),suggesting that the membrane preparation procedure did not alter the crystal structure of MIL-68(Al). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 3(a） shows the morphology of MIL-68(Al） crystals.It reveals that the MIL-68(Al) crystals display a typical needle-like morphology with size of ca. $4 0 0 \\ \\mathrm { n m }$ in length and $1 0 0 \\ \\mathrm { n m }$ in diameter. Similar morphologies are found in previous reports of ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/048a233875dd0a4ba23f00f913d9d3b1370bca0a2ea7f3a641257700ecae1dd9.jpg",
+        "img_caption": [
+            "Figure 2.XRD patterns of the (a） as-synthesized Matrimid,(b）MIL68(Al) crystals,and (c)MIL-68(Al)/Matrimid MMM.[Color figure can be viewed in the online issue,which is available atwileyonlinelibrary.com.] "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MIL-68(Ga）and MIL-68(In),which are isostructures of MIL68(Al),indicating the consistency of crystals morphology in this MOF group.51 For MIL-68(Al)/Matrimid MMM, both the top [Figure 3(b)] and cross-section FESEM [Figure $3 { \\left( \\mathrm { c , d } \\right) } ^ { \\cdot }$ showa homogeneous distribution of the MIL-68(Al） crystals in the Matrimid matrix without visible defects,exhibiting a favorable interaction between the two phases.In particular, from the cross-section views,it can be seen that circular cavities and polymer veins (elongated matrix segments） are formed,which are evidences of this favorable interaction between the two phases.Perez et al.pointed out that circular cavities and polymer veins were indications of strong contact or interaction between the matrix and the filler crystals.46 There are also some agglomerates of MIL-68(Al) crystals in the membrane,but no de-bonding of the agglomerates from the matrix is observed. It suggests that the interaction between the two phases were not strong enough to break the agglomerates and make them disperse at initial particle level,which is normal for nanoscale fillers in mixed matrix membranes.46 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GasPermeation Tests of the MIL-68(Al)/Matrimid MMMs Single Gas Permeation and Mixture Gas Separation. Table II shows the single gas permeability and the ideal separation factor of the $\\mathrm { C O } _ { 2 }$ and $\\mathrm { C H } _ { 4 }$ through the MIL-68(Al)/Matrimid MMMs at $3 7 3 \\mathrm { ~ K ~ }$ under the operation pressure of 1 and 4 bar. It can be seen that the $\\mathrm { C O } _ { 2 }$ permeability(279.6 Barrer）is much higher than the $\\mathrm { C H } _ { 4 }$ permeability(3.4 Barrer）at $3 7 3 \\mathrm { ~ K ~ }$ and 1 bar, with anideal separation factor of 82.2,which by far exceeds the corresponding Knudsen coefficient of 0.6,suggesting that the MIL68(Al)/Matrimid MMMs show a high separation performance for $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ separation. Comparing with the $\\mathrm { C O } _ { 2 }$ permeability of the pure polyimide membranes (about l26.9 Barrer in average in Table I),the $\\mathrm { C O } _ { 2 }$ permeability of the MIL-68(Al)/ Matrimid MMMs increases as much as $12 0 \\%$ ，while the $\\mathrm { C H } _ { 4 }$ permeabilities for both pure polyimide membranes and MIL68(Al)/Matrimid MMMs are almost the same,resulting in a great enhancement in the selectivity of $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ .Both $\\mathrm { C O } _ { 2 }$ permeation and ideal separation factor of $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ decrease when the operation pressure increases to 4 bar,which is normal phenomenon in MMMs.42 The influence of operation pressure on the separation performances of the MMM will be discussed in the following section. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4859a9f3187912a1ad6eded42c445e1a2e62b0b58a39c94c017300fde39b45a.jpg",
+        "img_caption": [
+            "Figure3.FEEafsd8aooticf 68(Al)/Matrimid MMM.[Colorfigurecanbe viewed in theonlineisue,which isavailableatwileyonlinelibrary.com.] "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b73f20f2217621a21cd9b276fc2227f066375b8f2b4761622aaccdac1adf9ba.jpg",
+        "table_caption": [
+            "Table I. $\\mathrm { C O } _ { 2 }$ Permeability and $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ Selectivity of Different Membranes "
+        ],
+        "table_footnote": [
+            "Single gas permeability,exceptfor ZIF-90A/PI,ZIF-9OB/Pland ZIF-8,which are taken from mixed gas data. aData were calculated from the corresponding reported MOF membranes. b Mixture gas permeability. Cldeal separation factor. "
+        ],
+        "table_body": "<html><body><table><tr><td>Category</td><td>Membranes</td><td>Testing condition</td><td>P(CO2) Barrera</td><td>α(CO2/CH4)</td><td>Ref.</td></tr><tr><td>Polymer membranes</td><td>DDA-polyimide</td><td>303 K, 1 bar</td><td>200</td><td>26.3</td><td>56</td></tr><tr><td></td><td>MDA-polyimide</td><td>303 K, 1 bar</td><td>110</td><td>27.5</td><td>56</td></tr><tr><td></td><td>DATRI-polyimide</td><td>308 K,1 bar</td><td>189</td><td>30.5</td><td>55</td></tr><tr><td></td><td>Matrimid</td><td>308 K,2 bar</td><td>8.4</td><td>39.4a</td><td>35</td></tr><tr><td>MOF membranes</td><td>ZIF-90</td><td>498 K,1 bar</td><td>1130a</td><td>4.7</td><td>27</td></tr><tr><td></td><td>ZIF-8</td><td>295 K,1 bar</td><td>454,708a</td><td>7.0</td><td>1</td></tr><tr><td>MMMs</td><td>MIL-53/polyimide-1</td><td>308 K,1 bar</td><td>20.89</td><td>44.44</td><td>50</td></tr><tr><td></td><td>MIL-53/polyimide-2</td><td>308 K,1 bar</td><td>14.52</td><td>72.70</td><td>50</td></tr><tr><td></td><td>MIL-53/Polyimide-3</td><td>308 K,1 bar</td><td>14.69</td><td>76.88</td><td>50</td></tr><tr><td></td><td>MIL-53/matrimid</td><td>308 K,2 bar</td><td>40.0</td><td>90.1°</td><td>35</td></tr><tr><td></td><td>MIL-68 (AI)/PSF</td><td>308 K,3 bar</td><td>4.7℃</td><td>36.5</td><td>45</td></tr><tr><td></td><td>NHz-MIL-125(Ti)/PSF</td><td>303 K, 3 bar</td><td>29.3b</td><td>29.5</td><td>42</td></tr><tr><td></td><td>ZIF-90A/polyimide</td><td>298K, 2 bar</td><td>720</td><td>37</td><td>57</td></tr><tr><td></td><td>ZIF-90B/polyimide</td><td>298K,2 bar</td><td>590</td><td>34</td><td>57</td></tr><tr><td></td><td>MIL-68(Al)/polyimide</td><td>373 K,1 bar</td><td>279.6</td><td>79.0</td><td>This work</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The molecular sieve performances of the MIL-68(Al)/Matrimid MMMs were confirmed by the separation of equimolar $\\mathrm { C O } _ { 2 } /$ $\\mathrm { C H } _ { 4 }$ mixture. Compared with the single gas permeability at $3 7 3 \\mathrm { ~ K ~ }$ and 1 bar, the $\\mathrm { C O } _ { 2 }$ permeability(about 284.3 Barrer） in the mixture is quite stable,while the $\\mathrm { C H } _ { 4 }$ permeability (about 3.6Barrer）shows a slight increase,resulting ina slight decrease in $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ selectivity (79.O),which also by far exceeds the corresponding Knudsen coefficient (Table II).The gas permeation in mixture is usually less than single gas permeation because of competition between gas components.47 Compared with other MMMs,these results indicate that the MIL-68(Al)/Matrimid MMM turns out to be one of the best MMMs in $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ separation(Table I),which is in good agreement with a prediction from a molecular simulation study of MIL-68(Al).43 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Attributed to the addition of fillers which would facilitate the permeation of smaller gases,MMMs show high permselectivity or enhanced permeability with little reduction of selectivity,as reported in FAU-EMT/polyimide,MOF-199/polyimide,zeolite4A/PVAc.393allysysii selectivity is dominant in gas permeation because of the low mobility of glassypolymer chains,which is in favor of a faster permeation of smaller gases (e.g., $\\mathrm { C O } _ { 2 }$ ）than larger ones(e.g., $\\mathrm { C H } _ { 4 } \\mathrm { \\cdot }$ 0.54 However, the gas permeation is always limited by the nature of the polymer. Therefore,in this work,we introduced MIL-68(Al) into Matrimid to prepare high permselectivity MIL68(Al)/Matrimid MMMs.On the one hand, the introduction of MIL-68(Al) nanocrystals will increase the free volume of the Matrimid which will facilitate the gas permeation,and thus the gas transport in the MIL-68(Al)/Matrimid MMMs is dominated bysolubility-selectivityratherthandiffusivity-selectivity.14 Therefore,more condensable gases (e.g., $\\mathrm { C O } _ { 2 }$ ）are more permeable than less condensable gases (e.g., $\\mathrm { C H } _ { 4 }$ ).On the other hand,MIL-68(Al)，with large pores (6.0-6.4，16-17 A）and abundant hydroxyl groups along the channel direction,shows high adsorption affinity to $\\mathrm { C O } _ { 2 } ,$ resulting in significant increase of $\\mathrm { C O } _ { 2 }$ permeability.These synergetic effects of solubility, absorbability,and diffusivity lead to the favorable permeation of $\\mathrm { C O } _ { 2 }$ and excellent separation performance of $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/37cfdbe8831d1f708ef8c56c55b3f101d859dc6d9c6570e334f28acf4cfbe950.jpg",
+        "table_caption": [
+            "Table I1. $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ Separation Performances for MIL-68(Al)/Matrimid Mixed Matrix Membranes under Different Operation Pressures "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td colspan=\"6\">Separation performances of the MIL-68(Al)/Matrimid MMM</td></tr><tr><td></td><td></td><td colspan=\"3\">Single gas</td><td colspan=\"3\">Mixedgases</td></tr><tr><td>Operation pressure</td><td>Knudsen coefficient</td><td>Permeability (CO2) (Barrer)</td><td>Permeability (CH4) (Barrer)</td><td>Ideal separation factor</td><td>Permeability (CO2) (Barrer)</td><td>Permeability (CH4) (Barrer)</td><td>Separation factor</td></tr><tr><td>1 bar</td><td>0.6</td><td>279.6</td><td>3.4</td><td>82.2</td><td>284.3</td><td>3.6</td><td>79.0</td></tr><tr><td>4 bar</td><td></td><td>176.6</td><td>3.2</td><td>55.2</td><td>164.5</td><td>3.1</td><td>53.1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaf0f041cd4823c8821945d8603460bd7aae42d1918f765092fce57265fbbe1a.jpg",
+        "img_caption": [
+            "Figure 4. $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ mixture selectivity versus $\\mathrm { C O } _ { 2 }$ permeability of the MIL-68(Al)/Matrimid MMM compared with those of polyimide membranes and mixed matrix membranes.The upper bound trade-off lines are those summarized by Robeson in 1991,and 20o8.[Color figure can beviewed in the online issue,which is available at wileyonlinelibrary. com.] "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { C O } _ { 2 }$ permeabilityand $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ selectivity ofthe as-prepared MIL-68(Al)/Matrimid MMMs are drawn in the Robeson upper bound plot,as shown in Figure 4. For comparison,the permselectivities of polyimide membranes and MMMs are also shown in Figure 4 and Table I.It can be seen that the permselectivity of the MIL-68(Al)/Matrimid MMMs is much higher than other MMMs and polyimide membranes,and also far exceeds the Robeson upper bound.9,557 These results highly recommend that the MIL-68(Al)/Matrimid MMM is a promising material for the separation of $\\mathrm { C O } _ { 2 }$ in natural gas industry. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "EffectofOperationPressure ontheSeparation Performances.To get a profound view of the effect of operation pressure on the permselectivity of the MIL-68(Al)/Matrimid MMMs,the MIL-68(Al)/Matrimid MMMs were tested with the separation of $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ with operation pressure ranging from 1 to 5 bar. Figure 5 shows the gas permeability and $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ selectivityof the MIL-68(Al)/Matrimid MMMsasa function of operation pressure at $3 7 3 \\mathrm { ~ K ~ }$ 、It can be seen that with increasing pressure,the $\\mathrm { C O } _ { 2 }$ permeability decreases,while $\\mathrm { C H } _ { 4 }$ permeability remains almost constant,leading to a decrease of $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ selectivity. Similar phenomena are usually observed for other MMMs.39,58 Diferent from the diffusion-dependent permeation, the permeation in this study is controlled by solution and adsorption mode.14 As mentioned above,MIL-68(Al)） shows a high adsorption affinity and capacity of $\\mathrm { C O } _ { 2 }$ over $\\mathrm { C H } _ { 4 }$ .43With increasing permeation pressure,the adsorption affinity of $\\mathrm { C O } _ { 2 }$ decreases,thus resulting in a decrease of $\\mathrm { C O } _ { 2 }$ permeability and $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ selectivity. Further,the results indicate that $\\mathrm { C O } _ { 2 }$ shows higher solubility in Matrimid polymer and higher adsorbility in the MIL-68(Al) pores than $\\mathrm { C H } _ { 4 }$ 6,43As pressure increases,the $\\mathrm { C O } _ { 2 }$ molecules dissolved in the matrix and adsorbed at the MIL-68(Al) sorption sides become saturated and keep unchanged until the penetrants plasticizes the polymer at the plasticization pressure.Diestel et al. found that the $\\mathrm { C O } _ { 2 }$ permeability kept decreasing until reaching a minimum at the plasticization pressure underwhich permeability increased again.A phenomenon to be noted is that with increasing pressure,the flux still increases.However,after corrected by pressure,the permeability shows a decreasing trend.In a word,the increased amount of gases is not proportionate to the increase of pressure.Similar phenomenon was also observed by Rodenas et al.40 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6fbed8f89e46b4329e5782b4b2cdbe9da47d214b64be8703bcc871638781e68.jpg",
+        "img_caption": [
+            "Figure 5. The permeability of $\\mathrm { C O } _ { 2 }$ and $\\mathrm { C H } _ { 4 }$ as well as $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ mixture separation factor of the MIL-68(Al)/Matrimid MMM for the separation of an equimolar $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ mixture as a function of operation pressure at $3 7 3 \\mathrm { ~ K ~ }$ 、[Color figure can be viewed in the online issue,which is available at wileyonlinelibrary.com.] "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/605dec0c26913bc2f8c72262cc290ec717c024d199bf9821202205f9fddbf831.jpg",
+        "img_caption": [
+            "Figure 6. The permeability of $\\mathrm { C O } _ { 2 }$ and $\\mathrm { C H } _ { 4 }$ as well as $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ mixture separation factor of the MIL-68(Al)/Matrimid MMM for the separation of an equimolar $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ mixture as a function of operation temperature under 1 bar.[Color figure can be viewed in the online issue,which is available at wileyonlinelibrary.com.] "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d23bf56acee50a004ca456c97b5feea7d9d53a54f43def77de131cfd1703d325.jpg",
+        "img_caption": [
+            "Figure 7.Stability measurement of the MIL-68(Al)/Matrimid MMM for the separation of an equimolar $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ mixture at $3 7 3 \\mathrm { ~ K ~ }$ and 1 bar. [Color figure can be viewed in the online issue,which is available at wileyonlinelibrary.com.] "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "EffectofOperationTemperatureontheSeparation Performances.Temperature is an important factor in determining the separation performances of MMMs.Therefore,we tested the effect of operation temperature on the permselectivity of the MIL-68(Al)/Matrimid MMMs at 1 bar.Figure 6 shows the gas permeability and $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ selectivity of the MIL-68(Al)/Matrimid MMMs as a function of operation temperature.As shown in Figure 6,both $\\mathrm { C O } _ { 2 }$ and $\\mathrm { C H } _ { 4 }$ permeabilities increase with increasing temperature,but $\\mathrm { C H } _ { 4 }$ permeability increases more obviously, thus resulting in a decrease of $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ . Similar phenomenon is seen in the work of Chen et al.49 The diffusion of gases relates with the amount of energy required by the penetrants to execute a diffusive jump through the membrane,and with increasing temperature,the energy provided for diffusive jumping increases. Therefore,under a temperature range without significant thermal transitions of the polymer matrix,the diffusioncoefficienttypicallyincreasesconsiderablywith increasing temperature.49 Larger molecules such as $\\mathrm { C H } _ { 4 }$ will execute more jumps at high temperature because they have more limited opportunities at low temperature.49 Further,in this work,since $\\mathrm { C H } _ { 4 }$ molecules have relatively weak interaction with the MIL-68(Al) crystals and Matrimid matrix,permeation of $\\mathrm { C H } _ { 4 }$ through the motivated polymer chains increases more than $\\mathrm { C O } _ { 2 }$ at high temperatures,thus leading to a decrease in the $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ selectivity. Further, the MIL-68(Al)/Matrimid MMMs have been tested for more than $2 4 \\mathrm { ~ h ~ }$ for the separation of equimolar $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ mixtures at $3 7 3 \\mathrm { ~ K ~ }$ and 1 bar.It can be seen that both the $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ selectivity and the $\\mathrm { C O } _ { 2 }$ permeability remained unchanged (Figure 7),suggesting that the MIL68(Al)/Matrimid MMMs show a high stability in the $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ separation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,we have successfully synthesized a novel MIL68(Al)/Matrimid MMM for the separation of $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ mixture. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It is found that the MIL-68(Al)/Matrimid MMMs show high permselectivity for $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ separation.At $3 7 3 \\mathrm { ~ K ~ }$ and 1 bar, the $\\mathrm { C O } _ { 2 }$ permeability and the $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ selectivity are 284.3 Barrer and 79.O,respectively,which are much higher than the Robeson upper bound limit and those of previously reported MMMs.Both the operation pressure and temperature have a significant effect on the separation performance of the MIL68(Al)/Matrimid MMM.Further, the MIL-68(Al)/Matrimid MMM shows a high stability in the long-term separation of $\\mathrm { C O } _ { 2 } / \\mathrm { C H } _ { 4 }$ at $3 7 3 \\mathrm { ~ K ~ }$ and 1 bar. These properties recommend the developed MIL-68(Al)/Matrimid MMM as a promising candidate for the purification of natural gases.Future work will focus on different loadings and their permselectivity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Financial support by the Chinese Academy of Science Visiting Professorship for SeniorInternational Scientists(GrantNo. 2013T1Go047),External Cooperation Program of BIC,Chinese Academy of Science (Grant No.174433KYSB2013005)，and Ningbo Science and Technology Innovation Team (Grant No. 2014B81004) is acknowledged. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.Venna,S.R.； Carreon,M.A. J.Am.Chem. Soc.2010,132,76.2.Carreon,M.A.;Li,S.； Falconer, J.L.; Noble,R.D. J.Am.Chem. Soc.2008,130,5412.  \n3. Xiao,Y.； Low, B. T.；Hosseini, S. S.； Chung,T. S.； Paul,D.R.Prog.Polym.Sci.2009,34,561.4.Moradihamedani,P.；Ibrahim,N.A.;Yunus,W.M.Z.W.;Yusof, N.A.J.Appl.Polym.Sci.2013,130,1139.  \n5. Zhang, Y.； Sunarso, J.; Liu, S.; Wang,R. Int.J. Greenh. GasCon. 2013,12,84.  \n6.Diestel,L.; Wang,N.； Schulz,A.； Steinbach,F.; Caro,J. Ind.Eng. Chem.Res.2015,54,1103.  \n7. Sridhar,S.； Smitha,B.；Aminabhavi,T. M. Sep.Purif.Rev.2007,36,113.  \n8.Robeson,L.M.J.Membr. Sci.1991,62,165.  \n9.Robeson,L.M.J.Membr. Sci.2008,320,390.  \n10.Japip,S.； Wang,H.； Xiao,Y.； Shung Chung,T. J. Membr.Sci. 2014,467,162.  \n11. Liu, X.; Hu, D.; Li, M.; Zhang, J.; Zhu, Z.; Zeng, G.; Zhang,Y.; Sun, Y. J. Appl.Polym. Sci. 2015,132.  \n12.Powell，C.E.；Duthie，X.J.；Kentish，S.E.；Qiao,G.G.;Stevens,G.W.J.Membr. Sci.2007,291,199.  \n13.Yong，W.F.； Li,F.Y.; Xiao,Y. C.; Li, P.;Pramoda,K.P.;Tong,Y.W.; Chung, T. S.J.Membr. Sci.2012,407-408,47.  \n14. Chung， T. S.； Jiang,L. Y.；Li,Y.； Kulprathipanja, S. Prog.Polym. Sci.2007,32,483.  \n15.Mahajan,R.； Koros，W. J. Ind. Eng.Chem. Res. 2000，39,2692.  \n16. Won, J. G.; Seo,J. S.; Kim, J.H.;Kim,H. S.;Kang,Y. S.;Kim,S.J.;Kim,Y.M.; Jegal,J.G.Adv.Mater.2005,17,80.  \n17. Xiao, Y. L.; Guo, X. Y.; Huang,H. L.; Yang, Q. Y.; Huang,A.S.; Zhong, C.L. RSC Adv. 2015,5,7253.  \n18.Farrukh, S.; Minhas,F T.; Hussain,A.; Memon, S.; Bhanger,M. I.; Mujahid,M. J. Appl.Polym. Sci. 2014,131,  \n19.Rezakazemi, M.； Shahidi, K.; Mohammadi, T. Int.J. Hydro-gen Energ. 2012,37,14576.  \n20. Zornoza,B.； Seoane,B.； Zamaro,J. M.； Tellez, C.; Coronas,J.ChemPhysChem 2011,12,2781.  \n21.Valero,M.; Zornoza,B.； Tellez,C.; Coronas, J.MicroporousMesoporousMater.2014,192,23.  \n22.Khan，M.M.；Filiz，V.；Bengtson，G.；Shishatskiy，S.;Rahman,M.M.; Lillepaerg,J.; Abetz, V.J. Membr. Sci.2013,436,109.  \n23. Wu, H.; Li, X. Q.; Li, Y. F; Wang, S. F.; Guo,R. L.; Jiang, Z.Y.; Wu, C.; Xin, Q.P.; Lu, X. J. Membr. Sci. 2014,465,78.  \n24.Vatanpour，V.； Madaeni,S. S.；Rajabi，L.； Zinadini，S.;Derakhshan,A.A.J.Membr. Sci.2012,401,132.  \n25.Duan, C.； Kang, G.； Liu, D.； Wang, L.； Jiang, C.； Cao,Y.;Yuan, Q. J. Appl. Polym. Sci. 2014,131,  \n26.Kanehashi， S.； Gu,H.； Shindo,R.； Sato,S.； Miyakoshi, T.;Nagai, K.J. Appl.Polym. Sci.2013,128,3814.  \n27. Xie, L.; Liu, D.; Huang, H.; Yang, Q.; Zhong, C. Chem. Eng.J. 2014,246,142.  \n28. Shah, M.; McCarthy, M. C.; Sachdeva,S.; Lee,A. K.; Jeong,H.K.Ind.Eng. Chem. Res. 2012,51,2179.  \n29.Rosi, N.L.; Eckert,J.; Eddaoudi,M.; Vodak,D. T.; Kim,J;O'Keeffe,M.; Yaghi, O.M. Science 2003,300,1127.  \n30.Lee, J; Farha, O. K.； Roberts,J.; Scheidt, K. A.; Nguyen， S.T.; Hupp,J. T. Chem. Soc. Rev. 2009,38,1450.  \n31.Volkringer，C.；Loiseau，T.；Férey，G.；Morais，C.M.;Taulelle,F.; Montouillout,V.; Massiot,D.Microporous Mes-oporous Mater. 2007,105,111.  \n32.Yamada,T.; Kitagawa,H.J.Am. Chem. Soc. 2009,131,6312.  \n33. Millward,A. R.; Yaghi, O. M. J. Am.Chem. Soc.2005,127,17998.  \n34.Song，Q.； Nataraj，S. K.； Roussenova,M. V.； Tan,J.C.;Hughes,D.J.; Li, W.; Bourgoin, P.; Alam, M. A.; Cheetham,A.K.；Al-Muhtaseb, S.A.； Sivaniah,E. Energ.Environ. Sci.2012,5,8359.  \n35.Hsieh,J. O.； Balkus,K.J.；Ferraris,J.P.；Musselman,I.H.Microporous Mesoporous Mater. 2014,196,165.  \n36. Thompson, J. A.; Chapman, K. W.； Koros,W. J.; Jones,C.W.; Nair, S.Microporous Mesoporous Mater.2012,158,292.  \n37.Kanehashi, S.; Chen, G.Q.; Scholes, C.A.; Ozcelik,B.; Hua,C.; Ciddor,L.; Southon,P.D.; D'Alessandro, D. M.; Kentish,S.E.J.Membr. Sci.2015,482,49.  \n38.Moradihamedani,P.； Ibrahim,N.A.； Ramimoghadam,D.;Yunus,W. M. Z. W.; Yusof, N. A. J. Appl. Polym. Sci. 2014,131,  \n39.Nik,O.G.； Chen,X.Y.； Kaliaguine,S. J. Membr. Sci. 2012,413,48.  \n40.Rodenas,T.；van Dalen，M.； Serra-Crespo,P.； Kapteijn，F;Gascon,J. Microporous Mesoporous Mater. 2014,192,35.  \n41.Amooghin，A. E.；Omidkhah,M.；Kargari,A. RSC Adv.2015,5,8552.  \n42. Guo, X. Y.; Huang,H. L.; Ban, Y. J; Yang, Q. Y.; Xiao,Y. L.;Li,Y. S.; Yang,W. S.; Zhong, C.L. J. Membr. Sci. 2015,478,130.  \n43.Yang,Q.； Vaesen， S.； Vishnuvarthan, M.；Ragon, F.； Serre,C.；Vimont,A.；Daturi,M.；De Weireld,G.；Maurin,G.J.Mater. Chem.2012,22,10210.  \n44.Junaidi, M.U. M.; Leo, C.P.；Kamal, S.N.M.; Ahmad,A.L.; Chew, T.L.Fuel Process. Technol. 2013,112,1.  \n45.Seoane,B.； Sebastian,V.；Tellez,C.；Coronas,J. CrystEng-Comm. 2013,15,9483.  \n46.Perez,E.V.; Balkus,K.J.; Ferraris,J. P.; Musselman,I. H.J.Membr. Sci.2009,328,165.  \n47.Huang,A. S.； Dou,W.； Caro,J. J. Am. Chem. Soc. 2010,132, 15562.  \n48.Liu,Q.； Wang,N.； Caro,J.； Huang,A. J. Am. Chem. Soc.2013,135,17679.  \n49.Chen, X. Y.； Vinh-Thang,H.； Rodrigue,D.； Kaliaguine,S.RSC Adv. 2013,3,24266.  \n50. Chen,X. Y.； Vinh-Thang,H.； Rodrigue,D.；Kaliaguine,S.Ind. Eng. Chem. Res.2012,51,6895.  \n51.Volkringer，C.；Meddouri，M.； Loiseau，T.；Guillou，N.;Marrot,J.； Ferey,G.; Haouas,M.； Taulelle,F； Audebrand,N.; Latroche,M.Inorg. Chem. 2008,47,11892.  \n52.Nik, O.G.; Chen,X.Y.; Kaliaguine,S.J. Membr. Sci.2011,379,468.  \n53.Adams,R.T.; Lee,J. S.; Bae,T.H.; Ward,J.K.; Johnson,J.R.;Jones,C.W.；Nair, S.; Koros,W.J.J.Membr. Sci.2011,367, 197.  \n54.Du, N.; Park, H. B.; Dal-Cin, M. M.; Guiver, M. D. EnergyEnviron. Sci. 2012,5,7306.  \n55.Cho, Y. J.; Park, H. B. Macromol.Rapid Commun. 2011,32,579.  \n56.Al-Masri,M.; Fritsch,D.; Kricheldorf,H.R.Macromolecules2000,33,7127.  \n57.Bae,T.H.; Lee, J. S.; Qiu, W.； Koros,W. J.； Jones, C. W;Nair, S.Angew. Chem. Int. Ed.2010,49,9863.  \n58.Shahid, S.; Nijmeijer, K.J. Membr. Sci.2014,459,33.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

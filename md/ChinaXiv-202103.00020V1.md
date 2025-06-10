@@ -1,0 +1,245 @@
+# 黄土高原地区人口收缩格局与驱动力分析
+
+陈棋，薛东前，马蓓蓓，代兰海，宋永永(陕西师范大学地理科学与旅游学院，陕西 西安710119)
+
+摘要：基于2005年和2015年人口数据，运用收缩指数、地统计分析和地理探测器等方法，研究不同地理尺度下黄土高原地区人口收缩现象与地域分异格局，揭示黄土高原地区人口收缩驱动力差异及机理。结果表明：(1)黄土高原地区县级与地级行政单元下人口收缩比例均较高，单一地理尺度识别人口收缩存在偏差。(2)黄土高原地区的人口收缩现象在区域-省-地级市尺度均符合“核心-外围"模式，核心区域(城市)人口集聚,边缘地区(县)人口流失。(3)经济发展水平差异和城乡发展不平衡成为黄土高原地区人口集聚与流失的主要诱因。地级市收缩型主要受城镇化和工业化水平驱动，为城市综合发展能力不足而导致的人口收缩;地级市局部收缩型处在社会-经济高速发展时期，内部要素分配不均导致内部局部收缩。
+
+关键词：人口收缩；人口密度；空间格局；地理探测器；黄土高原
+
+# 文章编号：
+
+20世纪60年代以来，受社会-经济等要素影响，西方部分城市出现了严重的人口流失，诸多社会问题也伴随出现，如英国曼彻斯特在1961一1983年人口流失 $2 5 . 6 \times 1 0 ^ { 4 }$ ，德国莱比锡在1990年前后大量工厂倒闭,工人外迁,住房空置率超过 $1 5 \% ^ { [ 2 ] }$ 。这种城市人口收缩现象开始进人规划界和学术界的视野[]。国际城市收缩网络"(SCIRN)从人口规模角度定义了城市收缩，即人口规模大于 $1 \times 1 0 ^ { 4 }$ 的人口密集地区，经历结构性危机的经济转型，人口不断流失且持续时间在2a以上[2]。国外研究表明，西方城市收缩原因主要为全球化[2-4]、工业化[5-6、老年化[7-8]、郊区化[9-12]和后社会主义转型等[9],收缩城市多面临人力资源不足[13]、经济或财政危机[14]和住房空置[15]等问题。对此，西方规划界提出了以“合理精简"为主要手段的绿色基础设施建设[8、土地银行设置和公众参与等来改善城市收缩问题。
+
+中国部分城市同样出现了人口收缩现象[16-19]，但受增长主义[17的影响，土地扩张与人口流失现象并存[18-20]。2014年国内学者组建了“中国收缩城市研究网络"（SCRNC），持续开展收缩城市方面的理论和实证研究。在理论方面，龙瀛、杨振山、孙东琪、张学良等在引进西方城市收缩理论的基础上提出了中国城市收缩的背景[16]、框架、研究方向[19-20]，刘合林分析了城市收缩量化方法进展[21],这些理论为后续的实证研究奠定了基础。实践层面上，国内城市收缩研究主要利用人口普查数据分析全国收缩城市现象和格局[16.22],辅助资料包括遥感影像[23]夜间灯光数据[24]和统计年鉴[20]等。龙瀛等[16]利用2000年与2010年人口普查数据识别出了中国存在180个常住人口数量和密度降低的城市，发现国内城市收缩具有数量大、广泛分布和收缩程度较轻特点。杨东峰等[23]进一步利用遥感数据，发现上述180个收缩城市中超过 $5 0 \%$ 城市存在土地蔓延问题。较多研究者对中国东部(长三角[24]、珠三角[17]、京津冀[24])和东北地区[25-27]进行了研究,中部的湖北[28]、湖南29和河南[30与西南的川渝地区[31也有部分研究，而对于中西部其它地区关注相对较少。
+
+近年，国内社会-经济进人高速发展期，区域发展的不平衡3诱发了地区间人口流动，“孔雀东南飞”[33-34]与"进城"成为一种典型社会现象。大量务工人员涌向沿海发达地区或周边发展较好城市寻求机会，引发了中西部地区人口收缩新现象。基于此，文章选择横跨中国中部和西部黄土高原作为研究区域，分析其人口集聚与流失特点，对黄土高原地区收缩城市进行测度并分析格局。挖掘社会-经济视角下黄土高原地级市尺度收缩驱动因素，分析人口收缩的普适性与特殊性规律，丰富国内欠发达地区中尺度城市收缩研究，同时为黄土高原人口收缩城市的城市定位和相关规划提供理论支持。
+
+# 1数据来源与研究方法
+
+# 1.1数据来源
+
+依据《黄土高原地区综合治理规划大纲(2010一2030年）》范围，选取45个地级行政单元和316个县级行政单元为研究对象（地级市的市辖区均合并，视作一个县级行政单元)(图1)。行政区划以2015年为基础，2005年相关社会-经济数据均参照2015年行政地域范围进行修正。地级行政单元包含40个地级市和4个自治州和1个省辖市；县级行政单元包含42个市辖区，10个自治县，26个县级市、17个旗，1个林区，以及220个一般县。
+
+文中常住人口数据来自黄土高原地区所含7省的2006年与2016年统计年鉴[甘肃省2015年常住人口数据来自于《甘肃发展年鉴 $2 0 1 6 \rangle$ ，内蒙古自治区各区(县)2005年常住人口数据为《内蒙古统计年鉴2006》中年末人口数据」。黄土高原地区60岁以上人口比重来源于2015年 $1 \%$ 人口抽样数据统计，相关经济数据来自各省(地级市)统计年鉴。
+
+# 1.2研究方法
+
+利用人口收缩指数识别收缩研究单元，借助Geoda进行空间相关性验证，再利用SPSS进行相关性分析和多元回归分析对相关因素进行筛选和初步分析，最后利用地理探测器识别因子重要性。
+
+（1）收缩测度与识别
+
+对于人口收缩的测度方式，已经较为成熟[7.24-27],可用就业、基础设施水平等[26-28]指标体现,文章使用更有代表性的常住人口数值变化绝对值进行人口收缩测度。公式如下：
+
+$$
+R _ { i j } = \frac { P _ { i j } 2 0 1 5 } { P _ { i j } 2 0 0 5 }
+$$
+
+式中： $R _ { i j }$ 为人口收缩指数; $P$ 为人口； $i$ 为地级-县级行政尺度( $\scriptstyle i = 1 , 2 , 1$ 代表地级行政单元，2代表县级行政单元) $_ { ; j }$ 为对应的研究单元; $R _ { i j } < 1$ 则判定为收缩城市， $R _ { i j } { \geqslant } 1$ 为非收缩城市。
+
+注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2016)2888号的标准地图制作，底图无修改。
+
+![](images/b9de8559e81abf3126f3d3f5dabdd57c97def1aace90a88c875f087cdc16755d.jpg)  
+图1黄土高原的地理区位  
+Fig.1 Geographical location of the Loess Plateau
+
+# 干辛区地理
+
+(2）探索性空间分析
+
+空间自相关[35]是检验某一要素属性值与其相邻空间要素的属性值是否显著关联的重要指标，有全局空间自相关和局部空间自相关2种测度方法，前者可描述区域单元观测值的整体分布状况，后者可以衡量空间单元属性与周围单元的相近与相异程度的指标。
+
+# （3）因子探测
+
+地理探测器[36],是一种新型探索空间分异性的工具,在土地利用、区域差异、人口格局等领域广泛应用。该方法能够较好地分析小样本数据的分异机制，各因子的地理探测值用 $q$ 表示，公式为：
+
+$$
+q = 1 - \frac { 1 } { N \sigma ^ { 2 } } { \sum _ { h = 1 } ^ { L } } N _ { h } { \sigma ^ { 2 } } _ { h }
+$$
+
+式中： $q$ 为探测因子的决定力大小， $q { \in } [ 0 , 1 ] , q$ 越大,则 $X$ 对城市发展的驱动作用越大; $N , \sigma ^ { 2 }$ 为样本总单元数和方差； ${ \cal N } _ { h } , \sigma ^ { 2 } { } _ { h }$ 为分层 $h$ 的单元数和方差。
+
+# 2结果与分析
+
+# 2.1黄土高原地区城市收缩格局与类型
+
+2.1.1黄土高原城市收缩现象常住人口在城市发展起着重要作用，利用黄土高原地区地级和县级2个尺度的常住人口数据对进行人口收缩研究。人口收缩指数计算结果如图2所示，县级行政单元数量众多，利用表格辅助分析(表1)。
+
+地级行政单元尺度下，整体收缩比例较高，不同省份收缩差异较大，省会城市和自治州均未收缩。共10个地级行政单元收缩，占地级行政单元总数比例 $2 2 . 2 2 \%$ 。7个省份中，甘肃省人口收缩最严重。山西、青海和河南3省在研究时段内黄土高原范围内的人口均未减少；陕西省有渭南市和咸阳市2个地级市出现人口收缩，内蒙古自治区有巴彦淖尔市和乌兰察布市2个地级市收缩，宁夏回族自治区仅固原市收缩;甘肃省收缩的地级市数量最多，共5个(兰州市和临夏回族自治州未收缩)，占甘肃
+
+![](images/1a0a5ba69cf9f6c3a051eb846bfbe67aee6ddb215caf425b99c9bba6ccf64f06.jpg)  
+图2黄土高原地级(a)与县级(b)行政单元人口收缩图
+
+Fig.2Population shrinkage of prefecture-level cities (a) and county-level (b)units on the Loess Plateau
+
+# 表1县级行政单元人口收缩表
+
+Tab.1 Shrinkage of population in counties   
+
+<html><body><table><tr><td></td><td></td><td>县</td><td>市辖区</td><td>个数</td><td>比例/%</td></tr><tr><td>R1j<1</td><td>R2j<1</td><td>五原县、华县、清水县、西吉县等45个</td><td>渭南市辖区、定西市辖区、固原市辖区、 乌兰察布市辖区</td><td>49</td><td>15.51</td></tr><tr><td rowspan="3">R1≥1</td><td>R2≥1</td><td>潼关县、三原县、武山县、漳县等23个</td><td>巴彦淖尔市辖区、白银市辖区等6个</td><td>29</td><td>9.18</td></tr><tr><td>R2j<1</td><td>阳曲县、土默特左旗、米脂县等59个</td><td>海东市辖区</td><td>60</td><td>18.99</td></tr><tr><td>R2≥1</td><td>清徐县、曲沃县、巩义市、蓝田县、海原县 等138个;化隆回族自治县等9个</td><td>太原市辖区、乌海市辖区、郑州市辖区、西安 市辖区、银川市辖区等31个</td><td>178</td><td>56.33</td></tr></table></body></html>
+
+注： $R _ { i j }$ 为人口收缩指数;i为地级-县级行政尺度 $\cdot { = } 1 , 2 , 1$ 代表地级行政单元，2代表县级行政单元） $_ { ; j }$ 为对应的研究单元； $R _ { i j } < 1$ 则判定为收缩城市， $. R _ { i j } \geqslant 1$ 为非收缩城市。
+
+省研究区内地级市的 $7 1 . 4 3 \%$ ，占黄土高原地级市尺度下收缩城市总数的 $5 0 . 0 0 \%$ ，人口收缩严重。
+
+县级行政单元尺度下，整体收缩比例更高，收缩县级行政单元表现出一般县收缩比例高，旗、市辖区、自治县和县级市收缩比例低的规律。共109个县级行政单元收缩，占黄土高原地区县级行政单元总数的 $3 4 . 4 9 \%$ 。其中，90个一般县收缩，占收缩县级行政单元总数的比例为 $8 2 . 5 7 \%$ ;7个旗收缩，占收缩县级行政单元总数的比例为 $6 . 4 2 \%$ ;5个市辖区收缩，占收缩县级行政单元总数的比例为 $4 . 5 9 \%$ ;3个县级市收缩，占收缩县级行政单元总数的比例为$2 . 7 5 \%$ ;1个林区和1个自治县收缩，合计占收缩县级行政单元总数的比例为 $1 . 8 3 \%$ 。
+
+地级市尺度可以对黄土高原地区收缩进行整体判断，而区县尺度能够进一步揭示地级市内人口集聚与流失规律，对地级市收缩指数进行验证和补充。黄土高原地级市-区县人口收缩现象具有普遍性，单一地理尺度识别黄土高原地区人口收缩具有一定局限性。拥有人口收缩的县级行政单元的地级行政单元共31个，但地级市面板数据呈现的收缩地级市仅10个。如果仅进行单一的地级市行政尺度研究，则21个地级行政单元内部人口收缩现象将被忽略。同时某些人口整体流失的地级行政单元，其内部的市辖区人口仍在加速集聚。如太原市整体人口增长，但内部的清徐县人口收缩。因此，对于人口收缩的认识应该从多地理尺度出发，以增加识别的准确性和分类的科学性。
+
+2.1.2黄土高原城市收缩格局揭示黄土高原城市收缩现象，可以利用统计学分析，但对于空间上的分异特征，仍需地学空间分析工具辅助。利用全局自相关验证黄土高原收缩的空间集聚性，利用LISA集聚图(Local indicators of spatial association,反映空间联系的局部指标)分析空间单元属性的一致性与异质性。 $R _ { 1 j }$ 和 $R _ { 2 j }$ 均通过了全局自相关的Z值与 $P$ 检验，表明黄土高原地区整体收缩城市具有地域集聚特点(表2)。
+
+# 表2全局相关性分析结果
+
+Tab.2 Result of global Moran’ s I   
+
+<html><body><table><tr><td></td><td>Moran's I</td><td>Z-score</td><td>P-value</td><td>空间格局</td></tr><tr><td>R1j</td><td>0.2252</td><td>2.6399</td><td>0.01200</td><td>集聚</td></tr><tr><td>R2j</td><td>0.0555</td><td>3.6796</td><td>0.00234</td><td>集聚</td></tr></table></body></html>
+
+局部Moran'sI指数从空间上表现空间属性的相近与相异程度，正局部空间自相关(高-高和低-低)可以探究黄土高原收缩指数整体分布规律；负局部空间自相关(低-高和高-低)可以识别出收缩指数异常点，黄土高原地区局部自相关分析结果见图3。
+
+地级行政单元下，正局部空间自相关集中在甘肃省、宁夏回族自治区和内蒙古自治区，负局部空间自相关零星分布在前者外围地区。低-低集聚区，主要集中在甘肃省，形成了人口流失区；高-高集聚区，集中在宁夏回族自治区和内蒙古自治区南部和中部，人口较周围区域增长显著。高值与低值集聚区之间存在异常点。低-高异常点分别为石嘴山市、忻州市和巴彦淖尔市。石嘴山市和忻州市人口仍在增长，只是与周边地区相比,增长不明显，而巴彦淖尔市人口绝对减少。高-低异常点为中卫
+
+![](images/12a2a0f556ec31877800ae9b77351b01336c7d97d7cfef14c2111d2523fa6e73.jpg)  
+图3黄土高原地级(a)与县级(b)行政单元人口收缩指数LISA图
+
+Fig.3LISA mapof population shrinkageindex of prefecture-levelcities (a)and county-levelunits (b)onthe LoesPlateat
+
+市，其南部是甘肃省人口集中流失区。
+
+县级行政单元与地级行政单元LISA图的整体空间分布相似，但对人口收缩指数空间识别更精确。低-低集聚主要在甘肃省六盘山及周边地区，在榆林市南部出现新的一个低值集聚区。高-高集聚主要在宁夏和内蒙古，新增以自治州核心的青海省高值集聚区和以县级市为核心的河南省高值集聚区。空间离群值数量增多，低-高异常点在宁夏和内蒙古交界处、内蒙古北部和洛阳市南部出现，成为人口被剥夺区，其周边多与市辖区临接;高-低异常点多为人口收缩地级市外围的市辖区，分布相对分散。受临接关系限制，LISA图呈现部分与事实相悖的现象，如内蒙古北部区县众多低值异常点，从人口收缩指数来看，这些低值异常点应为低值集聚区。
+
+综合黄土高原地区人口收缩指数空间分布格局与集聚特性，黄土高原地区人口收缩在多地理尺度上展现出统一的"核心-边缘"特征。从黄土高原地区整体来看，关中平原和宁夏平原地区作为地区经济发展的核心区域，吸纳了更多的资本、信息和技术，人口集聚较多；六盘山区则多以生态保护为重点，地区内人口为了生计选择外出。省级层面对比而言，省会城市在多优势的加持下，保持着较强的人口吸引力，对周边地级市内人口产生较强的拉力，普通的地级市则人口向外迁，出现人口收缩现象。从地级市内部对比，大多数市辖区仍为人口集聚的较优目的地，收缩比例较低；普通县的人口承载力相对较低，剩余劳动力多选择向市辖区等更发达地区转移。需要注意的一个现象是，基于现有数据，少数民族地区人口具有相对稳定增长的特点，这些地区的人口向外迁移的意愿可能较低。
+
+2.1.3黄土高原地区人口收缩类型“市带县"发展模式在中国由来已久，现象分析的多尺度旨在厘清不同地级行政单元人口收缩的异同、精准识别地级市人口收缩的特征。考虑到地级市内部县在经济-社会属性较高的相似度，按地级行政单元划分黄土高原人口收缩类型，并进行不同类型的驱动力对比分析。综合地级与县级行政尺度的人口收缩指数将黄土高原地区45个地级市分为3种类型，括号内为对应的简称，分类结果见表3。
+
+地级市收缩型(A型)，地级行政单元人口整体处于流失趋势，内部县级人口收缩行政单元所占比例较高，大部分地级市内人口收缩县的比例超过了$5 0 \%$ 。地级市局部收缩型(B型)，地级行政单元人□整体增长，内部存在少量人口收缩的县级行政单元。地级市增长型(C型），地级行政单元和县级行政单元人口均增长，C型为非人口收缩城市，作为另外2种收缩类型的对比。
+
+# 2.2 黄土高原地区人口收缩驱动力分析
+
+2.2.1指标选取引起城市或区域人口收缩的因素众多，主要为"经济因素”、“社会因素”[17.2.26],选取14个经济指标和10个社会指标，利用SPSS软件进行相关性分析和共线性诊断，剔除统计学上不相关和方差膨胀系数(VIF)较大的因素，VIF较大表明该因子独立性较差，同时与其它因子信息重复度较高。最终选择4个经济因素和2个社会因素指标，对黄土高原3种类型地级市进行驱动力分析。
+
+选取人均 $\mathrm { G D P } ( X _ { 1 } )$ 衡量地区经济综合发展水平，财政自给率 $\left( { { X } _ { 2 } } \right)$ 衡量地区经济健康发展水平，城乡居民收入比 $\left( { { X } _ { 3 } } \right)$ 衡量地区经济不平衡程度和城乡差距，第二产业增加值占GDP比重年均变化率 $\left( { { X } _ { 4 } } \right)$ 衡量地区工业化(去工业化)水平;选取城镇化率
+
+表3黄土高原地区人口收缩类型及特征  
+Tab.3 Population shrinkage type ofLoess Plateau   
+
+<html><body><table><tr><td>类型</td><td>地级行政单元</td><td>识别依据</td><td>比例/%</td></tr><tr><td>A型</td><td>巴彦淖尔市、乌兰察布市、咸阳市、渭南市、白银市、天水市、平凉市、庆阳市、定西 市、固原市</td><td>R1j<1</td><td>22.22</td></tr><tr><td>B型</td><td>太原市、大同市、长治市、晋城市、忻州市、临汾市、呼和浩特市、包头市、鄂尔多斯 市、洛阳市、三门峡市、宝鸡市、延安市、榆林市、兰州市、临夏回族自治州、西宁市、 海东市、石嘴山市、吴忠市</td><td>R1j≥1R2ji<1</td><td>44.44</td></tr><tr><td>C型</td><td>朔州市、晋中市、运城市、阳泉市、吕梁市、郑州市、济源市、乌海市、西安市、铜川市、 银川市、中卫市、海北藏族自治州、黄南藏族自治州、海南藏族自治州</td><td>R≥1∀R≥1</td><td>33.33</td></tr></table></body></html>
+
+注：A型,地级市收缩型;B型,地级市局部收缩型;C型,地级市增长型;“",且;“”,存在；“V”,任意。
+
+# 表4黄土高原地区社会-经济因素与人口收缩指数相关性分析
+
+Tab.4 Pearson of social-economic factors on the Loess Plateau   
+
+<html><body><table><tr><td></td><td>X</td><td>X</td><td>X</td><td>X4</td><td>X5</td><td>X6</td></tr><tr><td>相关系数</td><td>0.421</td><td>0.620</td><td>-0.413</td><td>-0.327</td><td>0.563</td><td>-0.361</td></tr><tr><td>P值</td><td>0.004</td><td>0.000</td><td>0.005</td><td>0.023</td><td>0.000</td><td>0.015</td></tr></table></body></html>
+
+注： $X _ { 1 }$ ，人均 ${ \mathrm { G D P } } ; X _ { 2 }$ ，财政自给率； $X _ { 3 }$ ，城乡居民收入比； $X _ { 4 }$ ，第二产业增加值占GDP比重年均变化率； $X _ { 5 }$ ，选取城镇化率； $X _ { 6 } , 6 0$ 岁以上人口比重。
+
+$( X _ { 5 } )$ 衡量地区社会综合发展水平，60岁以上人口比重 $( X _ { 6 } )$ 衡量地区老龄化程度。所选指标与人口收缩指数的相关性见表4。
+
+2.2.2 黄土高原人 $0$ 收缩驱动力分析利用地理探测器对不同空间收缩类型城市进行因子探测，探究不同人口收缩类型主导因素驱动力差异，探测结果见图3。
+
+（1）A型因子决定力 $X _ { 5 } > X _ { 6 } > X _ { 4 } > X _ { 2 } > X _ { 1 } > X _ { 3 }$ 受城镇化和老龄化驱动作用大，工业化影响次之，受城乡差距影响小，为低水平均衡状态。A型主要驱动因素为城市综合能力差和老龄化程度高。黄土高原地区此类收缩城市经济发展水平低，人均GDP仅28110.90元；地区内年轻人受区域不平衡发展的影响选择外出就业，老年人口则安土重迁，使得地区老龄化问题凸显；地区工业基础薄弱，多仍处于工业化初期。2015年，超过 $6 0 \%$ 的地级市收缩型城市内拥有3个以上国家级贫困县(http://www.cpad.gov.cn/),地区整体资源禀赋较差，加之内区县经济基础弱、城乡差异小，内部人口集聚不显著，可能面临人口持续外流问题。
+
+(2）B型因子决定力 $X _ { 5 } > X _ { 1 } > X _ { 3 } > X _ { 2 } > X _ { 6 } > X _ { 4 }$ 受城镇化、城市经济发展水平和城乡差距驱动作用较大，去工业化影响较小，为一种较高城镇化、经济发展水平下城乡差距较大引起的局部收缩型。黄土高原地区B型收缩城市社会-经济发展较好，城镇化率均值为 $6 0 . 2 8 \%$ ；人均GDP均值超过60000元，在陕西省为综合发展较好的地级市；但地级市内城乡差距较大，存在极化效应，农村富余劳动人口向中心区域不断集聚。
+
+(3）C型因子决定力 $X _ { 1 } > X _ { 5 } > X _ { 6 } > X _ { 2 } > X _ { 4 } > X _ { 3 }$ 受城市经济发展水平、城镇化和老龄化驱动作用较大，受城乡差距影响较小，为一种较高水平的均衡发展状态。C型在地级市-区县地理尺度均未收缩，与A型相比，受工业化影响较小;与B型相比，受城乡差距影响较小，受老龄化影响较大。C型处于较高的经济发展水平下，吸引人口流入，同时城乡差距较小,使得人口并未在地级市内进一步极化，或极化效应不明显。
+
+不同收缩类型主导因素存在一定差异， $X _ { 2 }$ 和 $X _ { 5 }$ 在3种类型中 $q$ 值均较大，为黄土高原所有类型城市均需要关注的因素。 $X _ { 2 }$ 可以从一定程度上反映城市发展是否健康， $X _ { 5 }$ 则反映城市的人口、经济、技术、信息和土地的集聚程度。综合相关性分析(表4)、不用类型均值(表5)和因子决定力(图4)发现，城市综合发展水平越高，人口收缩可能性越小;城乡差距大、去工业化程度低和老龄化程度严重的地区，则收缩可能性大。
+
+黄土高原地区人口收缩是一个复杂的社会-经济过程，是区域多因子交互作用下的地方响应过程。人口收缩受到多因素的加强，3种类型因子交互 $q$ 值均大于单因子 $q$ 值(表6)。A型有4组交互 $q$ 值大于 $0 . 9 ( X _ { 1 } \cap X _ { 4 } \setminus X _ { 2 } \cap X _ { 4 } \setminus X _ { 4 } \cap X _ { 5 } \setminus X _ { 4 } \cap X _ { 6 } )$ ,均为非线性增强。工业化在A型地区作用力显著，内生逻辑为：地区资源禀赋较差，GDP较低，处于低工业化水平的加速阶段，加上地区城乡居民收入比较大(3.05），
+
+表5黄土高原不同收缩类型社会-经济因素平均值和标准差  
+Mean and standard deviation of social-economic factors of different shrinking types on the Loess   
+
+<html><body><table><tr><td rowspan="2">因素</td><td colspan="2">全部样本</td><td colspan="2">A型</td><td colspan="2">B型</td><td colspan="2">C型</td></tr><tr><td>均值</td><td>标准差</td><td>均值</td><td>标准差</td><td>均值</td><td>标准差</td><td>均值</td><td>标准差</td></tr><tr><td>X</td><td>48239.21</td><td>34547.72</td><td>28110.90</td><td>13236.94</td><td>61978.67</td><td>42525.52</td><td>41528.00</td><td>17943.86</td></tr><tr><td>X</td><td>48.762</td><td>28.38</td><td>24.820</td><td>13.77</td><td>54.699</td><td>25.20</td><td>57.589</td><td>31.29</td></tr><tr><td>X</td><td>2.767</td><td>0.43</td><td>3.050</td><td>0.45</td><td>2.704</td><td>0.37</td><td>2.652</td><td>0.41</td></tr><tr><td>X4</td><td>-1.923</td><td>19.19</td><td>9.741</td><td>21.60</td><td>-6.498</td><td>15.29</td><td>-3.504</td><td>19.23</td></tr><tr><td>X5</td><td>53.917</td><td>15.98</td><td>40.456</td><td>7.47</td><td>60.284</td><td>16.39</td><td>53.986</td><td>13.52</td></tr><tr><td>X6</td><td>13.994</td><td>2.26</td><td>15.430</td><td>2.25</td><td>13.992</td><td>1.74</td><td>12.894</td><td>2.37</td></tr></table></body></html>
+
+# 干旱区地理
+
+![](images/38c5c565191dc43a145264a993d4ece1768922f317f8600b9bbe5a54f92a91ba.jpg)  
+图4黄土高原不同收缩类型因子决定力
+
+注 $\smash { : X _ { 1 } }$ ，人均 ${ \mathrm { G D P } } ; X _ { 2 }$ ，财政自给率； $X _ { 3 }$ ，城乡居民收入比： ${ } ; X _ { 4 }$ ，第二产业增加值占GDP比重年均变化率： $X _ { 5 }$ ，选取城镇化率； $X _ { 6 } , 6 0$ 岁以上人口比重；A型，地级市收缩型;B型，地级市局部收缩型；C型，地级市增长型。
+
+Fig.4Weights of factors of different shrinkage types on the Loess Plateau
+
+人口受到外来拉力和内部推力的双重作用，加速了地区人口流失过程。B型仅 $\smash { X _ { 3 } \cap X _ { 5 } }$ 交互 $q$ 值较大，为0.7871，为城乡收入比与城镇化率的交互项，表明当地级市城乡差距较大、综合发展水平又较高时，其内部极化作用造成人口局部收缩的可能性增加，同时 $X _ { 1 }$ 与其它因子的交互值较大。C型 $X _ { 1 } , X _ { 5 }$ 与其它因子交互后的加强作用明显，这2个因子可以说明该类型地级市综合发展较好；同时 $X _ { 3 }$ 的交互加强作用较弱，表明内部发展较为协调。
+
+表63种类型交互式探测结果  
+Tab.6 Interactive detection results of the three types   
+
+<html><body><table><tr><td rowspan="2">交互项</td><td colspan="3">交互探测结果(q值)</td></tr><tr><td>A型</td><td>B型</td><td>C型</td></tr><tr><td>XNX2</td><td>0.3691##</td><td>0.4925**</td><td>0.8526*</td></tr><tr><td>XNX3</td><td>0.3803#</td><td>0.5966*#</td><td>0.8168#</td></tr><tr><td>XiNX4</td><td>0.9259*</td><td>0.5019#</td><td>0.9096#</td></tr><tr><td>XnX5</td><td>0.4908**</td><td>0.5602##</td><td>0.5084##</td></tr><tr><td>X∩X6</td><td>0.3365##</td><td>0.5775#</td><td>0.9407#</td></tr><tr><td>XNX3</td><td>0.3805*#</td><td>0.5041#</td><td>0.4496#</td></tr><tr><td>X∩X4</td><td>0.9104*</td><td>0.4346#</td><td>0.9343#</td></tr><tr><td>X∩X5</td><td>0.4694**</td><td>0.5552*#*</td><td>0.4261##</td></tr><tr><td>X∩X6</td><td>0.4719*#</td><td>0.3755#</td><td>0.9394#</td></tr><tr><td>X∩X4</td><td>0.4366#</td><td>0.4042#</td><td>0.3419#</td></tr><tr><td>X3∩X5</td><td>0.5104*#</td><td>0.7871#</td><td>0.7832#</td></tr><tr><td>X∩X6</td><td>0.4559##</td><td>0.4630#</td><td>0.4018*</td></tr><tr><td>X4NX5</td><td>0.9262#</td><td>0.5353#</td><td>0.9159#</td></tr><tr><td>X4∩X6</td><td>0.9264#</td><td>0.2230*</td><td>0.3867##</td></tr><tr><td>X5∩X6</td><td>0.4696**</td><td>0.5394**</td><td>0.9254#</td></tr></table></body></html>
+
+注：#，非线性增强;##，双因子增强。
+
+# 3结论与展望
+
+# 3.1结论
+
+通过对黄土高原不同尺度的城市收缩格局与机理的研究，主要得出以下结论：
+
+（1）黄土高原地区人口收缩具有普遍性，地级与县级行政尺度收缩比例均较高。地级行政单元收缩比例为 $2 2 . 2 2 \%$ ，县级行政单元收缩比例为$3 4 . 4 9 \%$ ，县级行政单元收缩比例相对更高，多尺度比较研究有利于提高人口收缩判断的准确性。人口收缩地级行政单元占地级市总数的比例较低，为$2 2 . 2 2 \%$ ;内部存在县级行政单元收缩的地级市数量共计31个，占所有地级市比例较高，为 $6 8 . 8 9 \%$ 。具体而言，地级行政尺度人口收缩呈现“一低一高"规律，县级行政尺度人口收缩呈现"四低一高"规律。收缩县级行政单元中，县级市、旗、市辖区和自治县收缩比例低，合计占收缩县级行政单元比例为$1 6 . 5 1 \%$ ;一般县收缩比例高，数量为90个，占收缩县级行政单元比例为 $8 2 . 5 7 \%$ ○
+
+(2）黄土高原人口在区域-省-地级市尺度均符合“核心-边缘"模式，核心区域(城市)人口集聚，边缘地区(县)人口流失。黄土高原地区来看，关中、宁夏平原地区为发展核心区域，其社会-经济基础较好，投人产出比也更高，受到了政策和外来投资的青睐，人口集聚；六盘山区发展相对较差，人口被周边或东部地区剥夺。省层面来看，省会城市是发展核心，相关公共服务水平也更高，资金、信息、人口集聚能力更强;普通地级市发展相对落后，人口收缩。地级市内部而言，市辖区的发展优势突出，吸引周边人口；其外围县处于损益边缘，人口收缩。
+
+(3）黄土高原地区2种收缩类型主导驱动因素不同，与国内典型收缩地区收缩原因不尽相同。经济水平、老龄化程度和城乡差距对黄土高原地区城市收缩影响较大，去工业化影响较小。A型收缩主要驱动原因为经济弱与老龄化严重和工业化水平低；B型主要由于社会-经济快速发展引起区域发展不平衡，进而导致地级市内部局部收缩。黄土高原地区工业化水平不高，社会-经济发展水平也较低，目前仍处于承接中东部产业转移来促进城市发展阶段，与东北地区去工业化主导[25-26]的城市收缩差异较大。B型与长三角、珠三角和京津冀地区的局部收缩[17.24]有一定相似性，A型社会-经济属性与川渝地区3部分城市收缩类似。
+
+# 3.2研究展望
+
+基于对黄土高原人口收缩的识别与驱动力分析，后续研究或可关注这2个角度：
+
+（1）城市发展存在从低水平的均衡发展到较高水平的极化发展最后到高水平的均衡发展的规律，地级行政单元尺度下，人口收缩是否遵循A型 $\mathrm { \Gamma \to B }$ 型 ${ \mathrm { \Gamma \to C } }$ 型的发展规律，这需要也值得一个更长时间序列和更大样本的验证。
+
+(2）《国家新型城镇化规划(2014—2020年）》提出了“区域协调发展”、“公共服务均等化”等要求，社会-经济资源向部分地区倾斜，资源的倾斜是否间接导致了城市收缩，资源倾斜度较高的城市是否不会收缩，诸如此类城市收缩问题值得关注。
+
+# 参考文献(References)
+
+[1] Clark D.Urban decline: The British experience[M].London: Routledge,1989:1-44.   
+[2] Philipp O. Shrinking cities (Vol.1): International research[M]. OstFildern: Hatje Cantz Publishers,2006: 219-385.   
+[3] 高舒琦.收缩城市研究综述[J].城市规划学刊,2015(3):44-49. [Gao Shuqi.Review of studies on shrinking cities[J]. Journal of Urban Planning,2015(3): 44-49.]   
+[4] 徐博,庞德良.增长与衰退：国际城市收缩问题研究及对中国的 启示[J].经济学家,2014(4):5-13.[Xu Bo,Pang Deliang.Growth and decline: Research on international urban shrinkage and its implications for China[J]. Economist,2014(4): 5-13.]   
+[5]杨东峰,殷成志.如何拯救收缩的城市:英国老工业城市转型经 验及启示[J].国际城市规划,2013,28(6):50-56.[Yang Dongfeng,Yin Chengzhi.How to save shrinking cities:Experience and inspiration from transformation of old industrial cities in Britain [J].International Urban Planning,2013,28(6): 50-56.]   
+[6]姜鹏,周静,崔勋.基于中日韩实例研究的收缩城市应对思辨 [J].现代城市研究,2016(2):2-7.[Jiang Peng,Zhou Jing,Cui Xun.Speculation on shrinking city response based on case studies of China,Japan and South Korea[J].Modern City Research,2016 (2): 2-7.]   
+[7]黄玮婷.英国城市收缩现象的经验及启示[J].规划师,2014,30 (S5): 205-2O9.[Huang Weiting. Experience and enlightenment of urban shrinkage in Britain[J].Planners,2014,30(S5): 205-209.]   
+[8]张洁,郭城.德国针对收缩城市的研究及策略:以莱比锡为例 [J].现代城市研究,2016(2):11-16.[Zhang Jie,Guo Cheng.German research and strategies for shrinking cities: Taking Leipzig as an example[J]. Modern City Research,2016(2): 11-16.]   
+[9]李翔,陈可石,郭新.增长主义价值观转变背景下的收缩城市复 兴策略比较—以美国与德国为例[J].国际城市规划,2015, 30(2): 81-86.[Li Xiang, Chen Keshi, Guo Xin. Comparison of strategies for shrinking cities under the background of transformation of growth values: Taking the United States and Germany as examples[J]. International Urban Planning,2015,30(2): 81-86.]   
+[10]Bontje M. Facing the challenge of shrinking cities in east Germany: The case of Leipzig[J]. GeoJournal,2005,61(1): 13-21.   
+[11]Bernt M.Partnerships for demolition: The governance of urban renewal in east Germany’sshrinking cities[J]. International Journal of Urban and Regional Research,2009,33(3): 754-769.   
+[12]马佐澎,李诚固,张婧,等.发达国家城市收缩现象及其对中国 的启示[J].人文地理,2016,31(2):13-17.[Ma Zuopeng,Li Chenggu,Zhang Jing,et al. Urban shrinking in developed countries and its implications for China[J]. Human Geography,2016,31 (2): 13-17.]   
+[13] 张京祥,冯灿芳,陈浩.城市收缩的国际研究与中国本土化探索 [J].国际城市规划,2017,32(5):1-9.[Zhang Jingxiang,Feng Canfang, Chen Hao.International research on urban shrinkage and exploration of localization in China[J]. International Urban Planning, 2017,32(5): 1-9.]   
+[14]Nefs M,Alves S, Zasada I, etal. Shrinking cities as retirement cities? Opportunities for shrinking cities as green living environment for olderindividuals[J].EnvironmentandPlangA,,45(6): 1455-1473.   
+[15]Pallagst K,Wiechmann T. Shrinking smart-procesesofurban shrinkage in the USA[M]. Jahrbuch Stadtregion,2004: 5-7.   
+[16]龙瀛,吴康,王江浩.中国收缩城市及其研究框架[J].现代城市 研究,2015(9):14-19.[Long Ying,Wu Kang,Wang Jianghao. Shrinking cities in China and its research framework[J].Modern City Research,2015(9): 14-19.]   
+[17]杜志威,李郁.珠三角快速城镇化地区发展的增长与收缩新现 象[J].地理学报,2017,72(10): 1800-1811.[Du Zhiwei,Li Xun. New phenomenon of growth and shrinkage in rapid urbanization area of Pearl River Delta[J].Acta of Geographica Sinica,2017,72 (10): 1800-1811.]   
+[18] 杨艳昭,封志明,赵延德,等.中国城市土地扩张与人口增长协 调性研究[J].地理研究,2013,32(9):1668-1678.[Yang Yanzhao,Feng Zhiming, Zhao Yande,et al. Study on coordination between urban land expansion and population growth in China[J]. Geographical Research,2013,32(9): 1668-1678.]   
+[19] 杨振山,孙艺芸.城市收缩现象、过程与问题[J].人文地理, 2015,30(4): 6-10.[Yang Zhenshan,Sun Yiyun.Phenomenon,processand problems of urban shrinkage[J].Human Geography, 2015, 30(4): 6-10.]   
+[20] 吴康,孙东琪.城市收缩的研究进展与展望[J].经济地理,2017, 37(11):59-67.[Wu Kang,Sun Dongqi. Research progress and prospect of urban shrinkage[J].Economic Geography,2017,37
+
+# 干旱区地理
+
+# (11): 59-67.]
+
+[21]刘合林.收缩城市量化计算方法进展[J].现代城市研究,2016 (2):17-22.[Liu Helin. Progress in quantitative calculation methods for shrinking cities[J].Modern Urban Research,2016(2): 17-22.]   
+[22] 龙瀛,吴康.中国城市化的几个现实问题:空间扩张、人口收缩、 低密度人类活动与城市范围界定[J].城市规划学刊,2016(2): 72-77.[Long Ying, Wu Kang.Several practical problems of urbanization in China: Spatial expansion, population shrinkage,low density human activities and urban scope definition[J]. Journal of Urban Planning,2016(2): 72-77.]   
+[23] 杨东峰,龙瀛,杨文诗,等.人口流失与空间扩张:中国快速城市 化进程中的城市收缩悖论[J].现代城市研究,2015(9):20-25. [Yang Dongfeng,Long Ying,Yang Wenshi,et al. Population loss and spatial expansion: Paradox of urban shrinkage in China's rapid urbanization[J]. Modern Urban Research,2015(9):20-25.]   
+[24] 吴康,龙瀛,杨宇.京津冀与长江三角洲的局部收缩:格局、类型 与影响因素识别[J].现代城市研究,2015(9):26-35.[Wu Kang, Long Ying,Yang Yu.Local shrinkage of Beijing-Tianjin-Hebei and Yangtze River Delta: Pattern,type and identification of influencing factors[J]. Modern Urban Research,2015(9): 26-35.]   
+[25] 杨琳,何邕健.吉林省收缩城市的空间分布与影响因素分析[J]. 西部人居环境学刊,2018,33(3):21-27.[Yang Ling,He Yongjian.Analysis on spatial distribution and influencing factors of shrinking cities in Jilin Province[J].Journal of Western Human Settlements,2018,33(3): 21-27.]   
+[26] 高舒琦,龙瀛.东北地区收缩城市的识别分析及规划应对[J].规 划师,2017,33(1): 26-32.[Gao Shuqi,Long Ying.Identification and analysis of shrinking cities in northeast China and planning response[J]. Planners,2017,33(1): 26-32.]   
+[27] 马智莉.伊春市城市收缩特征及驱动力评价研究[D].哈尔滨: 哈尔滨工业大学,2017.[Ma Zhili. Study on evaluation of urban shrinkage characteristics and driving forces in Yichun City[D]. Harbin: Harbin Institute of Technology,2017.]   
+[28] 刘玉博,张学良.武汉城市圈城市收缩现研究[J].规划师,2017, 33(1):18-25.[Liu Yubo, Zhang Xueliang. Study on urban shrinkage in Wuhan metropolitan area[J].Planner,2017,33(1):18-25.]   
+[29]周恺,钱芳芳,严妍.湖南省多地理尺度下的人口“收缩地图"
+
+[J].地理研究,2017,36(2): 267-280.[Zhou Kai, Qian Fangfang, Yan Yan.Population“shrink map”in Hunan Province under multi- geographical scale[J]. Geographical Research,2017,36(2): 267-280.]   
+[30]张莉.增长的城市与收缩的区域:我国中西部地区人口空间重 构——以四川省与河南省信阳市为例[J].城市发展研究, 2015,22(9):74-80.[Zhang Li. Growing cities and shrinking regions: Reconstruction of population space in central and western China: Taking Sichuan Province and Xinyang City in Henan Province as examples[J]. Urban Development Research,2015,22(9): 74-80.]   
+[31] 张学良,张明斗,肖航.成渝城市群城市收缩的空间格局与形成 机制研究[J].重庆大学学报(社会科学版),2018,24(6):1-14. [Zhang Xueliang,Zhang Mingdou, Xiao Hang. Study on spatial pattern and formation mechanism of urban shrinkage in ChengduChongqing urban agglomeration[J]. Journal of Chongqing University (Social Science Edition),2018,24(6): 1-14.]   
+[32] 薛东前,马蓓蓓.空间视角下的城市贫困:格局、耦合与感知 [M].北京:科学出版社,2017:16-31.[Xue Dongqian,Ma Beibei. Urban poverty from spatial perspective: Pattern, coupling and perception[M]. Beijing: Science Press,2017: 16-31.]   
+[33] 童玉芬.人口老龄化过程中我国劳动力供给变化特点及面临的 挑战[J].人口研究,2014,38(2): 52-60.[Tong Yufen.Characteristics and challenges of China's labor supply in the process of population aging[J].Population Research,2014,38(2): 52-60.]   
+[34]王桂新.我国城市化发展的几点思考[J].人口研究,2012,36(2): 37-44.[Wang Guixin. Some thoughts on urbanization development in China[J].Population Research,2012,36(2): 37-44.]   
+[35] 杨振山,蔡建明.空间统计学进展及其在经济地理研究中的应 用[J].地理科学进展,2010,29(6):757-768.[Yang Zhenshan, Cai Jianming.Progress in spatial statistics and its application in economic geography research[J].Progress in Geographic Science, 2010,29(6): 757-768.]   
+[36]王劲峰,徐成东.地理探测器—原理与展望[J].地理学报, 2017,72(1):116-134.[Wang Jinfeng,Xu Chengdong.Geodetector: Principle and prospect[J].Acta of Geographica Sinica, 2017, 72(1): 116-134.]
+
+# Population shrinking pattern and driving forces in the Loess Plateau region
+
+CHEN Qi， XUE Dongqian， MA Beibei， DAI Lanhai， SONG Yongyong(School of Geography and Tourism,Shaanxi Normal University，Xi'an 71O119,Shaanxi, China)
+
+Abstract: The execution of the strategy of west China development acelerated social and economic development in the Loess Plateau region. Unbalanced regional development has induced population migration, which has triggered a new phenomenon of population shrinkage in the western region. A population shrinkage index，geostatistical analysis,and geographical detectors based on resident population data in 20o5 and 2015 were used to study the population shrinkage and regional differentiation in the LoessPlateau at prefecture-level cities and county scales. Based on these geographic scales,45 prefecture-level cities inthe Loess Plateau were classified by population change,revealing differences and mechanisms of population shrinkage driving forces in the Loess Plateau.We explore the driving factors of population shrinkage in the Loess Plateau from a socio-economic perspective,analyze the universality and specificity of population shrinkage，and enrich the research on mesoscale urban shrinkage in less developed regions in China.The results are as follows:(1） Population shrinkage in the Loess Plateau region is universal,and the proportion of population shrinkage is higher under county-and prefecture-level administrative units.The shrinkage rate of county-level administrative units was $34 . 4 9 \%$ ， and that of prefecture-level administrative units was $2 2 . 2 2 \%$ . There is a bias in identifying a shrinking population at a single geographic scale,and the proportion of prefecture-level cities with at least one shrinking county-level unit accounts for $6 8 . 8 9 \%$ of all prefecture-level cities.At the prefecture-level city level,all provincial capital cities are shrinking,and general prefecture-level cities have high shrinkage rates.At the county level, municipal districts, county-level cities,and autonomous counties have low shrinkage rates.The number of general counties with a shrinking population is 90,accounting for $8 2 . 5 7 \%$ of shrinking county- level units. (2） Population shrinkage conforms to the core-periphery model atthe regional-provincial-prefecture-levelscale.Corearea (cities)populations are concentrated,and marginal areas (counties)are losing population.The Guanzhong Plain and Ningxia Plain have become core areas of population concentration，and the Liupan Mountain District has become a concentrated population loss area; the provincial capital cities have stronger population concentration capabilities, and the ordinary prefecture-level cities have population shrinkage. Specific to the prefecture-level cities,the population will be concentrated in the municipal districts,and the population of peripheral counties will shrink. (3) Differences in economic development levels and imbalances in urban and rural development have become the main incentives for population agglomeration and lossin the Loess Plateau.The contraction of prefecture-level cities is driven by urbanization and industrialization,leading to insuficient comprehensive developmentcapacity; prefecture-level cities are in a period of rapid socio-economic development,and the uneven distribution of internal factors leads to internal partial shrinkage.Coordinated regional development for resource allocation to diferent types of prefecture-level cities and ensuring a relatively fair society are issues that governments and planners should reflect on and pay attention to.
+
+Key words: population shrinkage; population density； spatial pattern; geographic detectors; the Loess Plateau

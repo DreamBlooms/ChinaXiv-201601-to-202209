@@ -1,0 +1,223 @@
+[
+    {
+        "type": "text",
+        "text": "Helium/hydrogen synergistic effect in reduced activation ferritic/martensitic steel investigated by slow positron beam ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Te Zhua,b, Shuoxue Jina \\*, Liping Guoc, Yuanchao Hua, Eryang Lua, Jianping ${ \\mathrm { W u } } ^ { \\mathrm { b } }$ Baoyi Wanga, Long Weia, Xingzhong Caoa, \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aInstitute of High Energy Physics, CAS, Beijing 100049, China $b$ College of Nuclear Technology and Automation Engineering, Chengdu University of Technology, Chengdu 610059, China cSchool of Physics and Technology, Wuhan University, Wuhan 430072, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here， weinvestigatedtheirradiationdefectin reduced activation ferritic/martensitic steels by slow positron beam. Three ion-irradiation experiments were carried out: (i) ${ \\mathrm { H e } } ^ { 2 + }$ irradiation, (ii) $\\mathrm { H } ^ { + }$ irradiation and (iii) ${ \\mathrm { H e } } ^ { 2 + }$ irradiation followed by $\\mathrm { H } ^ { + }$ irradiation,at temperature $4 5 0 ~ \\mathrm { { ^ \\circ C } }$ . The presents of vacancy defects, represented by $\\Delta S _ { \\mathrm { H e + H } }$ parameter, induced by sequential irradiations was larger than the sum of defects, $\\Delta S _ { \\mathrm { H e } }$ parameter $+ \\ \\Delta \\mathrm { S } _ { \\mathrm { H } }$ parameter, caused by single He ions and single H ions. The synergistic effect of He and $\\mathrm { ~ H ~ }$ was confirmed clearly from the perspective of positron annihilation spectroscopy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Synergistic effect; Helium/hydrogen; Slow positron beam; Vacancy defect ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reduced activation ferritic/martensitic (RAFM) steels are promising structural materials for the future nuclear fusion reactors since they have the advantages of low activation， excellent void swelling resistance and adequate mechanical properties. However,one of the critical issues is the synergistic effect of helium and hydrogen produced by (n,α) and (n, p） transmutation reactions [1-4]. It was reported that helium can enhance the nucleation of cavity formation, and hydrogen could play an important role in the void growth and dislocation bias [5]. According to the Sievert's law,the solubility of hydrogen in iron-base alloy is expected to be quite low. Hydrogen trapping is significantly enhanced even for periods of years after irradiation when helium pre-existed within the alloy [6-8]. Hydrogen-helium interaction is an interesting problem not only from an engineering perspective,but also a fundamental study. The synergistic effect between helium and hydrogen has been confirmed clearly in RAFM steels by Transmission Electron Microscopy [9,1O]. These studies indicated the idea that RAFM steels got larger damage under dual ion irradiation than under single ion situation. Lee et al., gave an analysis that irradiation induced hardening by single, dual and triple ions using Fe, He and H ions. Hardness measurements revealed that most severe hardening was produced by the triple ion $( \\mathrm { F e } + \\mathrm { H e } + \\mathrm { H } )$ irradiation, and the synergistic effect was quite evident [1O]. The positron is a powerful and well-established self-seeking probe for vacancy-type defects (micro-voids and open volume regions) of a material. Energy-variable positron beam technique provides a method to measure defect profiles in materials [11,12]. In particular, the formation of defect structures after ion implantation could also be investigated by positron annihilation spectroscopy (PAS). In this work，energetic $\\mathrm { H e }$ and $\\mathrm { ~ H ~ }$ ionswere introduced separately and sequentially (first irradiated with ${ \\mathrm { H e } } ^ { 2 + }$ ，and then with $\\mathrm { H ^ { + } }$ ， i.e., $\\mathrm { H e } + \\mathrm { H } )$ to RAFM steel. The purpose of this study is to evaluate the synergistic effect of He and H on vacancy defect formation, and the final goal is to understand the cause of the irradiation-induced degradation for the nuclear structural materials. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The RAFM steel used in this experiment contains the following chemical composition: $9 . 0 3 \\% \\mathrm { C r }$ ， $2 . 2 8 \\% \\mathrm { W }$ ， $0 . 5 \\% \\mathrm { M n }$ ， $0 . 0 9 2 \\% \\mathrm { V }$ .， $0 . 2 8 \\% \\mathrm { S i }$ ， $0 . 0 7 8 \\% C$ ， $0 . 0 0 5 6 \\% \\mathrm { P } ,$ （20 $0 . 0 0 2 \\% \\mathrm { S }$ in weight percent. Sheets of size $2 0 \\mathrm { m m } \\times 5 \\mathrm { m m } \\times 1$ mm were cut from bulk RAFM steel, followed by mechanically polishing with SiC sandpapers from 8OO up to 2000 Grit. Finally electro-polishing using $2 5 \\%$ （20 $\\mathrm { { H C l O _ { 4 } } }$ and $7 5 \\%$ （20 $\\mathrm { C H _ { 3 } C O O H }$ was to remove the surface damage caused by mechanically polishing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathrm { H e } } ^ { 2 + }$ and $\\mathrm { H } ^ { + }$ implantations were performed at $4 5 0 \\pm 5 ^ { \\mathrm { ~ \\circ } } \\mathrm { C }$ with a $2 0 0 ~ \\mathrm { k V }$ ion implanter located in the Accelerator Lab of Wuhan University, and the temperature was monitored by a thermocouple throughout the period of the experiment. The beam (with the dimension of $2 0 \\times 2 0 ~ \\mathrm { m m } ^ { 2 }$ ）was scanned in both the horizontal and vertical directions to maintain the uniformity of the irradiation dose,and the beam-current density was $\\mathord { \\sim } 0 . 7 5 \\ \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 }$ . Energies of hydrogen $\\mathrm { ( H ^ { + } ) }$ and helium $( \\mathrm { H e } ^ { 2 + } )$ ion beams were fixed at $1 3 0 \\mathrm { k e V }$ and $2 5 0 \\mathrm { k e V } ,$ respectively. The peaks for the ion concentration were overlap at about $6 1 0 ~ \\mathrm { { n m } }$ according to the SRIM calculation [13],which was shown in Fig. 1. The doses of ${ \\mathrm { H e } } ^ { 2 + }$ and $\\mathrm { H } ^ { + }$ were $5 . 1 \\times 1 0 ^ { 1 5 }$ ions $/ \\mathrm { c m } ^ { 2 }$ (corresponding to the peak dose of $0 . 2 3 \\ \\mathrm { \\ d p a } )$ and $2 . 1 \\times 1 0 ^ { 1 6 }$ $\\mathrm { i o n s } / \\mathrm { c m } ^ { 2 }$ (peak dose of 0.08 dpa), respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/05d5678c51d06b9d2dd5ad5834cc67d4146d005bb62a563b1fb56fe74b628ce1.jpg",
+        "img_caption": [
+            "Fig.1.Profiles of damage and atom concentration in RAFM steel irradiated with $2 5 0 \\mathrm { k e V } \\mathrm { H e } ^ { 2 + }$ and $1 3 0 \\mathrm { k e V H ^ { + } }$ calculated with SRIM. CR is the cascades region, corresponding to the region where incident helium/hydrogen ions mainly interact with alloy via nuclear colisions.TR denotes the tracks region, corresponding to the zone where ions slow down mainly by electronic energy loss processes. NIR denotes the non-implanted region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PAS experiments were performed using an energy-variable slow positron beam facility at Institute of High Energy Physics.Positrons are generated by a $5 0 \\mathrm { m C i } ^ { 2 2 } \\mathrm { N a }$ radiation source, and then moderated by tungsten. Monoenergetic positrons within the energy range of $0 . 1 8 { - } 2 0 \\ \\mathrm { k e V }$ are implanted into the specimens.Doppler Broadening Energy Spectroscopy measurement uses a single HPGe detector whose energy resolution is $1 . 3 \\mathrm { k e V }$ at $5 1 1 . 0 \\mathrm { k e V }$ [14]. Two parameters, namely S and W parameters respectively, are introduced to characterize the information of specimens. The S and W parameters are defined as the ratios of the counts in central low momentum area 0 $( 5 1 0 . 2 \\mathrm { - } 5 1 1 . 8 \\ \\mathrm { k e V } )$ and two flanks high momentum regions $( 5 0 4 . 2 – 5 0 8 . 4 \\ \\mathrm { k e V }$ and $5 1 3 . 6 { - } 5 1 7 . 8  { \\mathrm { ~ \\ k e V } } )$ in the DB spectra to the total counts，respectively. The whole spectrum is accumulated to a total counts of $2 . 0 \\times 1 0 ^ { 6 }$ to reduce the statistical error. Consequently an increase in the S parameter indicates the presence of vacancy type defects [15]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e345b7b989be25269843a935bb706261d3a4d447a9b0d5e20bc8a52244ba0cf8.jpg",
+        "img_caption": [
+            "Fig. 2. S-parameter (a) and $\\Delta \\mathrm { S } / \\mathrm { S }$ (b) as a function of incident positron energy. $\\Delta \\mathrm { S } _ { \\mathrm { H e } + } \\Delta \\mathrm { S } _ { \\mathrm { H } }$ (i.e., the sum of△S parameter for single ion-irradiation) and $\\Delta \\mathrm { S } _ { \\mathrm { H e + H } }$ parameter were also shown in (c). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The S and $\\Delta \\mathrm { S } / \\mathrm { S }$ parameters $( \\Delta \\mathrm { S } / \\mathrm { S } = ( \\mathrm { S } _ { \\mathrm { i r r a d i a t e d } } - \\mathrm { S } _ { \\mathrm { u n i r r a d i a t e d } } ) / \\mathrm { S } _ { \\mathrm { u n i r r a d i a t e d } } )$ as a function of incident positron energy (mean implantation depth) in unirradiated and irradiated RAFM steel are shown in Fig. 2. The upper horizontal scale gives the mean depth of the annihilated positron calculated using the following established equation [16]: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { { Z } \\left( E \\right) = 4 0 0 0 0 \\mathrm { { E } ^ { 1 . 6 } / \\rho } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Where Z is expressed in units of nm, $\\rho$ is the density in units of $\\mathrm { k g / m } ^ { 3 }$ (here we used the density of pure iron with a value of $7 . 8 6 \\times 1 0 ^ { 3 } \\mathrm { k g } / \\mathrm { m } ^ { 3 } )$ ，and $\\mathrm { ~ E ~ }$ is the incident positron energy in units of $\\displaystyle \\mathrm { k e V . }$ （20 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The S-E curve for the unirradiated steel in Fig. 2(a) is a typical curve shape for annealed metals，which gradually decreases with increasing positron energy and shows a stable tendency above $1 0  { \\mathrm { \\ k e V } }$ [17].S values of ion-implanted samples decrease when energies increase from O.18 to $3 \\mathrm { k e V } .$ Xu et al., explained that the high S parameter at low incident positron energies was due to the surface effect and production of ortho-positronium [18]. Fig. 2(b) shows the dependence of the $\\Delta \\mathrm { S } / \\mathrm { S }$ parameter on implanted positron energy. The $\\Delta \\mathrm { S } / \\mathrm { S }$ parameter could clearly reflect the change of the vacancy defect concentration after ion irradiation experiments. The peak value of $\\Delta \\mathrm { S } / \\mathrm { S }$ reaches at the depth about $5 8 0 ~ \\mathrm { n m }$ ，which is similar to the peak depths of vacancies generated by the two type ions, as shown in Fig.1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When energies increase at above $3 \\mathrm { \\ k e V , }$ the S values for irradiated samples become larger than that for the unirradiated one,which clearly indicates that the positron trapping at radiation-induced defects.For the H-irradiation situation, the S value was smaller than that of single He ions irradiated specimen. On one hand, we can observe directly the number of displaced atoms (vacancies） is approximate 5.5 times higher for helium irradiation than for hydrogen irradiation in the SRIM (see Fig.1). On the other hand, the first principle calculated the binding energy between H and point defects,which illustrates that vacancies are the strongest sinks for trapping H atoms compared to other solute atoms [19]. It means that H-vacancy complexes were formed after H ions implantation. H in vacancy-type defects can degrade the trapping positron capacity [2O], which could delay the increment of the S parameter. Moreover, elevated temperature irradiation $\\mathrm { ( \\sim ~ 4 5 0 ~ ^ { \\circ } C ) }$ ，as thermal annealing processing， also could promote the recovery of the vacancy defects. Therefore, the S parameter for the H-irradiated specimen was smaller compared to other irradiated specimens. For the He-irradiation situation, He ions would interact with multi-vacancies to form $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ clusters,when helium is introduced into vacancy clusters. The stable configuration of helium atoms in a cluster $\\mathrm { ( H e _ { n } V _ { m } ) }$ primarily depends on the helium-to-vacancy ratio $\\left( \\mathrm { { n / m } } \\right)$ of the cluster. When the ratio is approximately 1,it refers to as‘stable $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ clusters'. The helium atoms have bcc configuration, coherent with matrix iron lattice atoms.However, once the ratio is greater than approximately 6,it refers to as 'overpressured $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ clusters'or‘small clusters $\\mathrm { H e _ { n } V _ { m } } ^ { \\prime }$ ,and they have close-packed configuration in the cluster [21,22 and 23]. In this case,the collective motion of helium atoms in the cluster would produce bubble pressure large enough to push a lattice atom off its normal site and spontaneously create additional vacancies and associated self-interstitial atoms [21]. Additional vacancy defect will cause the increment of the S parameter. Importantly, the ratio between 1 to 6 clusters is called \"larger clusters $\\mathrm { H e _ { n } V _ { m } } ^ { \\prime }$ . Since the irradiation temperature of the specimen is $4 5 0 ^ { \\mathrm { { o } C } }$ ,it is the peak bubble swelling temperature for RAFM steels [24]. During the process, a large number of overpressured $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ clusters are formed in bulk，which could enhance the larger S parameter than that of $\\mathrm { H }$ -irradiated specimen,as shown in Fig. 2. For the $\\mathrm { H e } + \\mathrm { H }$ sequential irradiation, the S parameter Was much larger than that of the He ions irradiated specimen. As we known above, the S value increment induced by single $\\mathrm { ~ H ~ }$ ions irradiation was slight compared to the unirradiated specimen. It means that $\\mathrm { ~ H ~ }$ ions could accelerate the formation of vacancy type defects in the $\\mathrm { H e } +$ （204号 H sequential irradiated specimen. Some studies showed that it contained stronger trap hydrogen capacity for implanted He atom than other latice defects [25,26]. That was to say, most hydrogen atoms were trapped by overpressured $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ clusters.The subsequent formation of higher pressure He-H-V clusters could push latice atoms off their normal sites. Finally it spontaneously created additional vacancies to obtain greatest S parameter as shown in Fig. 2. Fig. 2(c) shows that the $\\Delta \\mathrm { S } _ { \\mathrm { H e + H } }$ parameter of the $\\mathrm { H e } + \\mathrm { H }$ sequential irradiated specimens was larger than the sum of $\\Delta \\mathsf { S }$ parameter for single He and H ion-irradiated samples. It suggests that the degree of irradiation damage for the $\\mathrm { H e } ~ + ~ \\mathrm { H }$ sequential irradiated specimen increased significantly compared to samples irradiated with single ions. Synergistic effects have been observed by slow positron beam technique in the present work.However， the mechanisms behind the synergistic effects of hydrogen and helium are complicated, and it is affected by many factors such as implantation temperature, irradiation dose etc [24, 27]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The S-W plot can be used to determine the number of defect types [18]. Every kind of positron annihilation site is characterized by a typical (S,W） couple. When only one type of defect exists in the sample, the S-W plot can be fitted as a linear function. Fig. 3 shows the results of S- and W-parameter correlations (S-W plot) before and after ion irradiation. S-W lines of unirradiated and single ion-irradiated samples were almost aligned on the same line segment, even though the range of (S,W） point of different samples was different. This indicates that there was no significant aggregation of $\\mathrm { H e / H }$ atoms in implanted samples,and only vacancy-type defects were detected by the positrons. However, the S-W line of the $\\mathrm { H e } + \\mathrm { H }$ sequential irradiated specimens deviated from the line segment (i.e., the slope was different from the single ion irradiated specimens). It indicates that positron annihilation mechanisms for the defect in the $\\mathrm { H e } + \\mathrm { H }$ sequential irradiated specimen maybe not consistent with the vacancy defects. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fdb4a93d33f09dfb675d735a53cc1710ce4652373556391cefc95db988320c86.jpg",
+        "img_caption": [
+            "Fig.3.W-parameter as a function of the S-parameter. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac14b0bb7fd1672bc28ca74b77dab4dd909017199adc3b88c457d79baf4cfbef.jpg",
+        "img_caption": [
+            "Fig.4.Fitted S parameters versus VEPFIT for irradiated samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According to the vacancy distribution profiles in SRIM calculation (Fig. 1), the VEPFIT analysis of the experimental data was divided into three layers [28]. The thickness of each layer and the S parameter are plotted as a function of the depth, as shown in Fig.4.The first layer is the surface layer, which is about $2 0 \\mathrm { n m }$ .The S value was the largest because the surface effect and production of ortho-positronium. The other region was divided into CR and TR regions. CR is the cascades region, corresponding to the region where incident ions mainly interact with atoms of the solid via nuclear collisions and finally stop into the latice. TR denotes the tracks region， localizes between the surface and the nuclear cascades region， and corresponding to the zone where ions slow down mainly by electronic energy loss processes. In this work, the boundaries of TR, CR are about 2O-45O and $4 5 0 { - } 8 0 0 \\ \\mathrm { n m }$ ， respectively. In the TR，a small number of helium/hydrogen atoms diffused to vacancies,and formed the‘stable $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ clusters’ and H-vacancy complexes in TR. Differently, H in vacancy-type defects could affect the annihilation of positrons with the electrons in vacancy-like defects, which delayed the increment of the S parameter [20]. In the CR,a large number of helium/hydrogen ions get through the TR and accumulated in CR. Since diffusion of hydrogen atoms in metal is easy at $4 5 0 ~ \\mathrm { { ^ \\circ C } }$ ,it could easily escape from metal. However, helium atoms cannot escape from vacancies under the same condition. Therefore,‘larger $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ clusters’ and even ‘overpressured $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ clusters’ maybe form in CR.For the $\\mathrm { H e } + \\mathrm { H }$ sequential irradiation, ‘larger $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ clusters’and‘overpressured $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ clusters’ could bound the sequential incident hydrogen atoms.The formation of the He-H-V clusters could enhance the S value. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary, the defect profiles in RAFM steel irradiated with $2 5 0 \\mathrm { k e V }$ He ions and $1 3 0 \\mathrm { k e V H }$ ions at $4 5 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ were observed by PAS. Slow positron beam study revealed that single ions (He or H) implanted into RAFM steel would combine with vacancies and form (He or $\\mathrm { ~ H ~ }$ )-V clusters. $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ clusters were more likely to grow by thermal activating，and formed overpressured $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ clusters. The synergistic effect of post-irradiation of $\\mathrm { ~ H ~ }$ ions on $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ clusters was to help them turn into He-H-V clusters,which were in higher pressure. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The financial supports from the National Natural Science foundation of China 11475193，11475197，91226103，11275140and11505192　aregratefully acknowledged. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] I. Cook, Nature 5 (2006) p.77.   \n[2] R.L.Klueh,M.A. Sokolov, K. Shiba, Y. Miwa, J.P. Robertson, J. Nucl. Mater. 283-287 (2000) 478.   \n[3]K.Shiba,A.Hishinuma, J.Nucl. Mater. 283-287(200O) 474.   \n[4] S. J. Zinkle, Nasr M. Ghoniem, J. Nucl. Mater. 417 (2011) 2.   \n[5] E. Wakai, N. Hashimoto, Y. Miwa, J.P. Robertson， R.L. Klueh, K. Shiba， S. Jitsukawa, J. Nucl. Mater. 283-287 (2000) 799.   \n[6] G.D. Tolstolutskaya, V.V. Ruzhytskiy, I.E. Kopanets, S.A.Karpov, V.V.Bryk, V. Voyevodin, F. A. Garner, J. Nucl. Mater. 356 (2006) 136.   \n[7] F.A. Garner, E.P. Simonen， B. Oliver, L. Greenwood, M.L. Grossbeck， W.G. Wolfer, P.M. Scott, J.Nucl. Mater. 356 (2006) 122.   \n[8] F.A. Garner, B. Oliver, L. Greenwood,M.R. James,P.D. Ferguson, S.A. Maloy and W. Sommer, J.Nucl. Mater. 296 (2001) 66.   \n[9] T.Tanaka,K. Oka, S. Ohnuki, S. Yamashita, T. Suda, S.Watanabe, E. Wakai, J. Nucl. Mater. 329-333 (Part A), 294.   \n[10] E.H. Lee, J.D. Hunn, G.R. Rao， R.L. Klueh,L.K. Mansur, J. Nucl. Mater. 271-272 (1999) 385.   \n[11] V. Slugen, Nucl. Eng. Des. 235 (2005) 1961.   \n[12] V. KrSjak, S. Sojak, V. Slugen, M. Petriska, J. Phys.: Conf. Ser. 265 (2011) 012014.   \n[13] ASTM E521, 1989. Standard Practice for Neutron Radiation Damage Simulation by Charged Particle Irradiation. vol. 12.O2. Annual Book of ASTM Standards, American Society for Testing and Materials,Philadelphia, PA p.D-9.   \n[14] H. Wu, X. Cao, G. Cheng, J.P. Wu, J. Yang, P. Zhang, Z.X. Li, Abu Zayed M.S.R., R.S. Yu, B.Y. Wang, Phys. Status Solidi A,210 (2013) 1758.   \n[15] Y. Xin, X. Ju, J. Qiu, L. Guo, J. Chen, Z. Yang, P. Zhang, X. Cao, B. Wang, Fusion Eng.Des., 87 (2012) 432.   \n[16] T.M. Kang,2Ooo, Positron Annihilation Spectroscopy and Application,Atomic Energy Press, pp. 4-6 (in Chinese).   \n[17] T. Iwai, H. Tsuchida,M. Awano, J. Nucl. Mater. 367-370 (2007) 372.   \n[18] Q. Xu, K. Sato, X.Z. Cao, B.Y. Wang, T. Yoshiie,H. Watanabe, N. Yoshida, Nucl. Instr. Meth.B 315(2013) 146.   \n[19]W.A. Counts, C. Wolverton, R. Gibala, Acta Mater. 58 (201O) 4730.   \n[20] S.Linderoth,A.V. Shishkin, Philos. Mag.A 55 (3) (1987) 291.   \n[21] K.Morishita, R. Sugano, B.D.Wirth, et al., Nucl. Instr. Meth. B 202 (2003) 76.   \n[22] R.E. Stoller, Yu.N. Osetsky, J. Nucl. Mater. 455 (2014) 258.   \n[23] V. Krsjak, J. Kuriplach, T.L. Shen et al., J. Nucl. Mater. 456 (2015) 382.   \n[24] W.H. Hu,L.P.Guo, J.H. Chen, F.F.Luo, T.C. Li, Y.Y. Ren, J.P. Suo, F. Yang, Fusion Eng. Des. 89(2014) 324.   \n[25] F. Besenbacher, J.Bgttiger, S.M. Myers,J.Appl. Phys.53 (1982) 3547.   \n[26] S.R.Lee, S.M. Myers,R.G. Spulak, J.Appl. Phys. 66 (1989) 1137.   \n[27] J. Qiu, Y. Xin, X. Ju, L.P. Guo, B.Y. Wang, YR. Zhong, Q.Y. Huang, Y.C. Wu, Nucl. Instr. Meth.B 267 (2009) 3162.   \n[28] A. van Veen, H. Schut, J. de Vries, R.A. Hakvoort, M.R. Ijpma, AIP Conf. Proc. 218 (1991) 171. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure captions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.1. Profiles of damage and atom concentration in RAFM steel irradiated with $2 5 0 \\ \\mathrm { k e V } \\ \\mathrm { H e } ^ { 2 + }$ and $1 3 0  { ~ \\mathrm { k e V } ~ \\mathrm { H } ^ { + } }$ calculated with SRIM. CR is the cascades region, corresponding to the region where incident helium/hydrogen ions mainly interact with alloy via nuclear collisions.TR denotes the tracks region, corresponding to the zone where ions slow down mainly by electronic energy loss processes. NIR denotes the non-implanted region. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.2. S-parameter (a) and △S/S (b) as a function of incident positron energy. $\\Delta S _ { \\mathrm { H e } + } \\Delta S _ { \\mathrm { H } }$ (i.e., the sum of $\\Delta \\mathsf { S }$ parameter for single ion-irradiation) and $\\Delta \\mathrm { S } _ { \\mathrm { H e + H } }$ parameter were also shown in (c). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.3.W-parameter as a function of the S-parameter. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.4.Fitted S parameters versus VEPFIT for irradiated samples. ",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,245 @@
+# 利用区块链构建公平的安全多方计算\*
+
+黄建华，江亚慧，李忠诚(华东理工大学 信息科学与工程学院，上海 200237)
+
+摘要：针对安全多方计算（MPC）中大部分参与者不诚实情况下无法获得公平性这一问题，基于区块链智能合约构造惩罚机制，提出了公平的安全MPC协议。协议分为两个阶段，分别为基于可验证秘密共享的MPC 阶段和公平的秘密重建阶段，参与方只要收集 $_ { \mathrm { t + l } }$ 个正确份额即可得到最终输出。协议利用同态承诺来验证秘密份额的正确性，使用超时机制来判别恶意参与方的提前终止行为，并对恶意方进行经济惩罚。安全性分析表明诚实参与方能够获得最终输出，否则将得到经济补偿；性能分析表明参与方只需缴纳一轮押金并且大量复杂的秘密份额验证工作都在链下，协议的执行效率得到保证。
+
+关键词：安全多方计算；区块链；智能合约；公平性 中图分类号：TP309.2 doi:10.19734/j.issn.1001-3695.2018.07.0479
+
+# Constructing fair secure multi-party computation based on blockchain
+
+Huang Jianhua, Jiang Yahui, Li Zhongcheng (SchoolofInformationScience&Engineering,EastChina Universityofcience&echnologyhanghai3,China)
+
+Abstract: This paper proposed a fair secure multi-party computation (MPC)protocol to solve the problem that fairnesscannot beachieved when there is no honest majority.The protocolconstructeda penalty mechanism basedonsmart contracts which are stored on the blockchain.It includes the MPC phase based onverifiable secret sharing and the fair secret reconstruction phase.The participants can obtain the final output by collecting just $_ { \mathrm { t + l } }$ correct shares.The protocol utilized homomorphic commitments to verifythe correctnessof the secret shares,employed timeouts to identify the prematureabort behaviorsof malicious parties,andpunishedtheabortingpartiesfnancially.Securityanalysisshows thathonestparticipantscangetthefinal output,otherwise theywillget financial compensation.Performance analysis shows thatthe protocolrequiresonlyonecointransferroundandalarge numberofcomplex secretshare verification work isoffthechain,which ensures theimplementation efficiency.
+
+Key words: secure multi-party computation; blockchain; smart contracts; fairness
+
+# 0 引言
+
+安全多方计算（secure multi-party computation，MPC）是由图灵奖获得者姚期智提出的百万富翁[1问题延伸而来,经过Goldreich、Micali和Wigderson等人l2的研究发展，安全多方计算已成为国际密码学界研究的热点问题之一。MPC用于解决一组互不信任的参与方之间保护其隐私的协同计算问题，在安全MPC场景中，持有秘密输入的两方或多方，希望共同计算一个函数并得到各自的输出，在这个过程中，除了应得的输出之外，参与方得不到任何额外信息。安全的MPC协议除了需要保证输出结果的正确性和参与方输入的隐私性，还要保证公平性，即要么所有人都得到输出要么所有人都得不到输出。
+
+目前研究人员提出了很多高效的MPC协议[3-5]，但是这些协议大都只有在应对半诚实攻击者或参与方大多数是诚实者的情况下才能满足上述安全特性，比较明显的例外就是SPDZ线的研究成果[6-8]，这类MPC协议在大部分参与者都是恶意攻击者的情况下仍能保证协议的输入隐私性和结果正确性。但是，上述高效的MPC协议都无法保证公平性[9]。早在1986年，文献[10]就已经证明当超过一半的参与者不诚实时，MPC协议的公平性无法得到保证。目前设计MPC协议时考虑得较多的是安全性和正确性，现实世界中协议很难满足公平性，因为恶意参与者会提前终止协议[1]。
+
+安全模型中最常见的就是半诚实模型和恶意敌手模型，这两种模型假设参与者按照初始设定采取行动，半诚实参与者一定会推断其他参与者的秘密信息，恶意参与者一定会无视协议要求破坏协议执行。但是，现实中参与者往往都是理性的，他们会为自身的利益最大化来采取行动，在适当的激励机制下，所有人（或大多数人）可以不做任何破坏。据此，解决公平性问题的一个新的方法就是在MPC协议中加入经济惩罚机制，具体来说就是参与方在执行计算之前先缴纳押金，计算结束后对参与方行为进行验证，诚实者的押金将被退回，恶意者的押金将平分给诚实者。结合惩罚机制来实现公平计算需要解决的一个问题就是如何在没有可信方的情况下管理参与方的押金并对参与方行为进行可信判断。
+
+比特币[12是第一个去除可信代理的数字加密货币，而以太坊[13]则通过支持在区块链上编写智能合约实现了对其扩展。区块链是加密货币的底层技术，其通过加密技术和协商共识解决了没有信任基础的参与方之间进行交易的信任问题。针对安全多方计算中大部分参与者不诚实情况下无法获得公平性这一问题[14]，本文提出了基于区块链的公平安全多方计算协议（blockchain-based fair and secure multi-party computationprotocol，BFSMPC)，该协议使用以太坊创建智能合约，参与方将押金交给智能合约保管，由智能合约判定参与方是否诚实，再对押金做相应的处理，并采用超时机制来判定恶意方提前终止协议的行为。在大多数不诚实参与方的情况下，基于区块链密码学模型的BFSMPC可以保证获得公平性。BFSMPC将大量验证工作放到了链下，进一步简化了智能合约的操作，保证了协议的执行效率。
+
+# 1 相关工作
+
+MPC是解决一组互不信任的参与方之间保护隐私的协同计算问题，如何保证安全MPC的公平性是目前学术界关注的重点和难点，文献[15]设计了云计算中基于秘密共享的安全MPC协议，要求每个服务器得到每个用户的全部盲化输出，之后向全部用户发送输出，这样，用户可以校验来自不同服务器的输出是否一致。但是这种方法并没有真正解决公平性问题，因为在大多数服务器都是恶意的情况下，诚实服务器可能根本得不到用户的盲化输出。文献[10]已经证明了两方计算中无法获得完全公平性，虽然文献[16]的研究成果表明在某些特定的两方计算中完全公平是存在的，但这只是特例，不具通用性，所以有必要考虑对公平性的概念进行弱化。最理想的安全需要满足现实世界和“理想世界”之间的计算上不可区分性，理想世界要能模拟出现实世界的所有攻击行为。理想世界中，因为存在可信的第三方，各参与方都能得到输出。但现实中，公平性只有在大多数参与者都诚实的情况下才能得到保证，文献[17]弱化了这一安全特性，对理想世界进行削弱，使其不再保证公平性，但协议满足计算不可区分性。这类满足除了公平性以外一切安全特性的协议被称为是“安全中止”的。文献[18]的方式则是不改变理想世界，但是放宽了模拟的概念，要求真实世界和理想世界的可区分性最多为 $I / p + n e g l$ ，其中 $p$ 是某个规定的多项式，negl表示一定条件下可忽略的函数。满足这类条件的协议被称为是“ $I / p$ 安全的”。文献[19]在标准的真实/理想世界范式下定义了两方安全计算的部分安全性，扩展了公平的密码协议的研究领域。文献[9]提出了可识别的安全中止协议，当恶意方中止协议时，所有参与方都得到通知并识别出谁是恶意中止方。文献[20]提出了UC安全的公平安全MPC 模型，包括了公平的加法理想函数和公平的乘法理想函数，并根据这些模型设计了公平的安全加法协议和公平的安全乘法协议。文献[11,21]借助了原语的辅助来构建公平的安全计算协议，原语担任了可信方的角色，它是通用的，不需要事先知道有关计算的任何信息。其中文献[21]提出的通用黑盒（UBB）原语在两方和多方设置中实现了完备的公平安全计算，它从参与方接收计算电路和一个同意值，对于给定相同电路的参与方集，输出针对该电路的结果，其不足之处在于输入大小和运行时间依赖于目标函数的复杂性。文献[11]表明实现完备公平性不存在“短”的原语，并介绍了公平一致性秘密重建原语，但原语需要多次调用。上述文献都是从协议本身考虑构建公平的安全多方计算，研究结论大多比较消极，与他们不同的是，基于区块链的方案将参与者视为理性的，利用加密货币提供激励机制，促使参与者诚实执行协议。文献[22]利用比特币构造了限时承诺，使得参与者必须在限定的时间内公布其秘密，否则要面临经济惩罚。文献[23]对比特币网络中的属性进行形式化和抽象化，定义了理想函数 $\boldsymbol { F } _ { c r } ^ { * }$ ，在 $\boldsymbol { F } _ { c r } ^ { * }$ -混合模型中设计出公平的MPC 协议。文献[24]定义了理想函数 $\boldsymbol { F } _ { M L } ^ { * }$ ，在 $\boldsymbol { F } _ { M L } ^ { * }$ -混合模型中设计出了常数轮协议。文献[25]对文献[23]作出了改进，降低了脚本的复杂度，减少了链上成本。但是上述协议都是基于比特币网络的，比特币网络不提供图灵完备的语言，无法实现复杂的功能，致使参与方缴纳的押金数达到 $O ( N ^ { 2 } )$ ，对于理想函数的调用数达到$O ( N )$ 。文献[26]基于以太坊设计智能合约，利用门限秘密共享方案，根据秘密重建情况向黑名单中添加欺骗者，实现MPC协议的安全公平进行，押金数为 $O ( N )$ 。文献[27]基于区块链在UC模型下构建了具有公平性和鲁棒性的MPC协议，但是货币的传输轮数与MPC协议轮数相同。
+
+# 2 公平的安全多方计算协议
+
+BFSMPC基于以太坊智能合约构建惩罚机制以实现公平性，协议开始时所有参与方需向智能合约缴纳押金，否则协议终止。BFSMPC主要由两阶段组成，第一阶段中参与方链下执行一个基于Gennaro方案[28的不公平通用MPC协议，该协议应用了可验证秘密共享（VSS）方案，秘密被分享在一个t阶随机多项式中，最终n个参与方得到各自的秘密份额；第二阶段参与方执行一个公平的秘密重建协议，该阶段需要与智能合约进行多轮交互，参与方先链下向其他参与方公布自己的秘密份额，其他参与方验证后，将验证结果反馈给智能合约，由智能合约判定恶意方，最终恶意方押金会被平分给诚实方。该阶段中诚实方只要收集到 $_ { \mathrm { t + l } }$ 个正确份额即可恢复秘密，如果恢复失败，将得到补偿。
+
+# 2.1 链下通用MPC协议
+
+一般来说，构造通用的安全MPC协议主要有三种方法，即基于Yao 混乱电路的构造方法、基于秘密共享的构造方法和基于同态加密的构造方法[29]。就隐私保护而言，基于秘密共享的通用安全MPC协议往往有着更好的性能，可以轻松扩展至云辅助安全计算中，从而使得MPC协议更为实用。很多通用的MPC 协议都是基于半诚实模型，虽然文献[2,9]提出用编译器将半诚实模型下的安全MPC协议转换为恶意模型下的安全MPC协议，但是在输出阶段，恶意方得到输出后会提前终止协议，诚实方可能得不到最终输出，所以公平性始终无法保障。
+
+为了保证公平性，BFSMPC在底层通用MPC协议输出阶段构建了一个公平的秘密重建协议。文献[25]中使用n-n 秘密共享方案，承诺方案使用单向散列函数构造，只能保证份额未被窜改，无法保证份额的正确性，这样在秘密恢复的时候，参与者无法分辨其恢复结果是否正确。为解决这一问题，BFSMPC的底层通用安全MPC协议将GennaroVSS方案和Pedersen 同态承诺方案[30进行结合，以实现对份额正确性的验证。该通用MPC将待计算的函数 $y = f ( x \imath , x \imath , . . . , x \imath )$ 表示成由加法和乘法组成的有向图，通过执行相应的加法协议和乘法协议来实现任意的计算，协议大体流程包括三个阶段[31，如图1所示。
+
+![](images/524f6514a6933517e8f6a8816c0d7d96f20a8ad169512c92fa47e20ffd9e9220.jpg)  
+图1基于VSS的MPC协议执行过程  
+Fig.1:Execution process of MPC protocol based on VSS
+
+第一阶段为输入阶段，每个参与者使用VSS方案在所有参与者中分享自己的秘密输入；第二阶段为计算阶段，参与者执行相应的加法协议和乘法协议，输入都是秘密份额，这些份额均是可验证的，计算阶段输出的是重建 $y$ 所需要的秘密份额，每个协议参与者 $P _ { i }$ 得到份额 $y _ { i }$ ；第三阶段为输出阶段，参与者公布自己的份额 $y _ { i }$ ，共同将 $y$ 恢复。
+
+# 2.1.1输入门
+
+在输入阶段，为了保护隐私，每个参与方 $P _ { i ( i \in [ 1 , n ] ) }$ 作为分发者（Dealer）利用Shamir秘密共享方案将自己的输入分享给其他参与方，并使用Pedersen同态承诺方案来保证秘密份额的可验证性。 $P _ { i }$ 选择两个随机多项式 $a ( x ) = \alpha _ { 0 } + \alpha _ { 1 } x + \alpha _ { 2 } x ^ { 2 } + . . . + \alpha _ { t } x ^ { t }$ 和 $b ( \boldsymbol { x } ) = \beta _ { 0 } + \beta _ { 1 } \boldsymbol { x } + \beta _ { 2 } \boldsymbol { x } ^ { 2 } + . . . + \beta _ { t } \boldsymbol { x } ^ { t }$ ，其中 $\alpha _ { 0 }$ 为秘密值。 $P _ { i }$ 将份额$s _ { j } = ( a ( j ) , b ( j ) )$ 秘密地发送给其他参与方 $P _ { j } , _ { j = 1 , 2 , . . . , n } ,$ 。同时，$P _ { i }$ 广播承诺值 $A _ { k } = g ^ { a ( k ) } h ^ { b ( k ) } \mathrm { m o d } p , k = 0 , 1 , 2 . . . n$ 。其中 $p$ 为 $\mathbf { n }$ 个参与方之间协商的一个大素数，满足 $\scriptstyle { p = 2 q + l , q }$ 也是一个素数，$g$ 为 $\boldsymbol Z _ { p } ^ { * }$ 的 $q$ 阶元， $h$ 为 $g$ 生成的子群中的随机元素。
+
+$P _ { j }$ 收到自己份额后，他需要验证自己的份额是否有效，即验证自己的份额与其他所有人的份额是否在同一个次数为t的多项式上（称为VSPS性质）。方法如下：
+
+因为 $f ( x ) = a _ { 0 } + a _ { 1 } x + a _ { 2 } x ^ { 2 } + \ldots + a _ { t } x ^ { t }$ ，有
+
+$$
+\begin{array} { r } { ( ( \begin{array} { c c c c } { 1 } & { 0 } & { \cdots } & { 0 } \\ { 1 } & { 1 } & { \cdots } & { 1 } \\ { \vdots } & { \vdots } & { \vdots } & { \vdots } \\ { 1 } & { t } & { \cdots } & { t ^ { t } } \end{array} ) ( \begin{array} { c } { a _ { 0 } } \\ { a _ { 1 } } \\ { \vdots } \\ { a _ { t } } \end{array} ) = ( \begin{array} { c } { f ( 0 ) } \\ { f ( 1 ) } \\ { \vdots } \\ { f ( t ) } \end{array} ) } \end{array}
+$$
+
+记为
+
+$$
+V \left( \begin{array} { c } { { a _ { 0 } } } \\ { { a _ { 1 } } } \\ { { \vdots } } \\ { { a _ { t } } } \end{array} \right) = \left( \begin{array} { c } { { f ( 0 ) } } \\ { { f ( 1 ) } } \\ { { \vdots } } \\ { { f ( t ) } } \end{array} \right)
+$$
+
+所以
+
+$$
+\left( \begin{array} { c } { a _ { 0 } } \\ { a _ { 1 } } \\ { \vdots } \\ { a _ { t } } \end{array} \right) = \boldsymbol { V } ^ { - 1 } \left( \begin{array} { c } { f ( 0 ) } \\ { f ( 1 ) } \\ { \vdots } \\ { f ( t ) } \end{array} \right)
+$$
+
+参与方随机选取 $\delta \in [ 1 , n ]$ ， $A _ { \delta }$ 是已公布的承诺，计算
+
+$$
+A _ { \delta } ^ { ' } = g ^ { f ( \delta ) } h ^ { r ( \delta ) } = g ^ { a _ { 0 } + a _ { 1 } \delta + a _ { 2 } \delta ^ { 2 } + . . . + a _ { t } \delta ^ { t } } h ^ { \beta _ { 0 } + \beta _ { 1 } \delta + \beta _ { 2 } \delta ^ { 2 } + . . . + \beta _ { t } \delta ^ { t } } = \sum _ { g ^ { j = 0 } } ^ { \stackrel { t } { \sum } a _ { j } \delta ^ { j } } \sum _ { h ^ { j = 0 } } ^ { \stackrel { t } { \sum } \beta _ { j } \delta ^ { j } }
+$$
+
+记 $\lambda _ { j i }$ 为 $\boldsymbol { V } ^ { - 1 }$ 的第 $j$ 行第 $i$ 列的值，有 $a _ { j } = \sum _ { i = 0 } ^ { t } \lambda _ { j i } f ( i )$ ，所以
+
+$$
+\dot { A _ { \delta } } = \sum _ { g ^ { j - 0 _ { i } - 0 } } ^ { \prime } \lambda _ { j i } f ( i ) \delta ^ { j } \sum _ { h ^ { j - 0 _ { i } - 0 } } ^ { i } \lambda _ { j i } ^ { \prime } r ( i ) \delta ^ { j } \ = \prod _ { i = 0 } ^ { t } ( g ^ { f ( i ) } h ^ { r ( i ) } ) ^ { \Delta _ { i } } = \prod _ { i = 0 } ^ { t } ( A _ { i } ) ^ { \Delta _ { i } }
+$$
+
+其中 $\Delta _ { i } = \sum _ { j = 0 } ^ { t } \lambda _ { j i } \delta ^ { j }$ 。
+
+$P _ { j }$ 将计算得出的 $A _ { \delta } ^ { ' }$ 和之前公布的 $A _ { \delta }$ 进行比较，若相等，则检查自己的份额与承诺是否相匹配，若匹配则认为收到的份额是有效的，如果不匹配，则向Dealer申请正确的份额。通过这一验证过程，每个参与方都能检查出秘密分发者是否诚实。
+
+安全性分析：在方案中， $P _ { i }$ 广播的承诺中与秘密有关的信息仅为 $A _ { 0 } = g ^ { a ( 0 ) } h ^ { b ( 0 ) } { \bmod { p } }$ ，对于任意的 $a ^ { \prime } ( 0 ) \in Z _ { p }$ ，都存在唯一的 $b ^ { \prime } ( 0 ) \in Z _ { p }$ ，使得 $C _ { 0 } = g ^ { a ^ { * } ( 0 ) } h ^ { b ^ { \prime } ( 0 ) } \mathrm { m o d } p$ ， $C _ { 0 }$ 没有泄露关于 $a ( 0 )$ （204号的任何信息，所以上述过程是信息论安全的。除此之外，上述方案可以抵抗秘密分发者发送错误的份额给其他参与者这一主动攻击。通过上述推导过程可以看出，如果分发的份额不在同一个t次多项式上，是不会通过VSPS验证的，因此可以检测出Dealer是否诚实。
+
+2.1.2加法门
+
+假设参与方 $P _ { j ( j \in [ 1 , n ] ) }$ 拥有通过 VSPS 验证的 $\alpha$ 和 $\beta$ 的份额$\alpha _ { j } = f _ { \alpha } ( j )$ 和 $\beta _ { j } = f _ { \beta } ( j )$ 以及与承诺有关的份额 $\rho _ { j } = r ( j )$ 和$\sigma _ { j } = s ( j )$ ，公开的信息为 $A _ { 0 } = g ^ { \alpha } h ^ { \rho } { \bmod { p } }$ ， $A _ { k } = g ^ { a _ { k } } h ^ { \rho _ { k } } { \bmod { p } }$ 和 $B _ { 0 } = g ^ { \beta } h ^ { \sigma } { \bmod { p } }$ ， $B _ { k } = g ^ { \beta _ { k } } h ^ { \sigma _ { k } } \mathrm { m o d } p$ ，其中 $k { = } 1 , 2 , . . . , n$ 。需要计算 $\scriptstyle \gamma = \alpha + \beta$ ， $P _ { j }$ 计算 $\gamma _ { _ j } { = } \alpha _ { _ j } { + } \beta _ { _ j }$ 作为自己加法门得到的秘密份额，同时公布对其份额的承诺 $C _ { j } = g ^ { \gamma _ { j } } h ^ { \rho _ { j } + \sigma _ { j } } \bmod p$ 。
+
+安全性分析：因为使用同态承诺方案， $\gamma _ { j } { = } \alpha _ { j } { + } \beta _ { j }$ 的承诺为（204号 $C ^ { \prime } { } _ { j } = g ^ { \alpha _ { j } + \beta _ { j } } h ^ { \rho _ { j } + \sigma _ { j } } \bmod p = g ^ { \alpha _ { j } } h ^ { \rho _ { j } } g ^ { \beta _ { j } } h ^ { \sigma _ { j } } \bmod p = A _ { j } B _ { j }$ ，因为 $A _ { j }$ 和$B _ { j }$ 已经通过了VSPS 验证，所以其他参与方都可以对比 $\boldsymbol { C ^ { \prime } } _ { j }$ 和$C _ { j }$ 来验证 $C _ { j }$ 的正确性，判定 $P _ { j }$ 是否诚实，同时所有参与方都可以计算出对的承诺为 $C _ { 0 } = A _ { 0 } B _ { 0 }$ 。除此之外，同输入门中分析一样，此加法协议是信息论安全的，公布的承诺没有泄露关于秘密份额的任何信息。
+
+# 2.1.3乘法门
+
+假设参与方 $P _ { j ( j \in [ 1 , n ] ) }$ 拥有通过 VSPS 验证的 $\alpha$ 和 $\beta$ 的份额$\alpha _ { j } = f _ { \alpha } ( j )$ 和 $\beta _ { j } = f _ { \beta } ( j )$ 以及与承诺有关的份额 $\rho _ { j } = r ( j )$ 和$\sigma _ { j } = s ( j )$ ，公开的信息为承诺 $A _ { 0 } = g ^ { \alpha } h ^ { \rho } { \bmod { p } }$ ，（204号 $A _ { k } = g ^ { a _ { k } } h ^ { \rho _ { k } } { \bmod { p } }$ 和 $B _ { 0 } = g ^ { \beta } h ^ { \sigma } { \bmod { p } }$ ， $B _ { k } = g ^ { \beta _ { k } } h ^ { \sigma _ { k } } \mathrm { m o d } p$ ，其中$k { = } 1 , 2 , . . . , n$ 。需要计算 $\gamma { = } \alpha \beta$ ，方法如下：
+
+$$
+f _ { \alpha \beta } ( x ) \triangleq f _ { \alpha } ( x ) f _ { \beta } ( x ) = r _ { 2 t } x ^ { 2 t } + . . . + r _ { 1 } x + \alpha \beta
+$$
+
+有
+
+$$
+V \left( \begin{array} { c } { { \alpha \beta } } \\ { { r _ { 1 } } } \\ { { \vdots } } \\ { { r _ { 2 t } } } \end{array} \right) = \left( \begin{array} { c } { { f _ { \alpha \beta } ( 1 ) } } \\ { { f _ { \alpha \beta } ( 2 ) } } \\ { { \vdots } } \\ { { f _ { \alpha \beta } ( 2 t + 1 ) } } \end{array} \right)
+$$
+
+$V$ 是一个非奇异矩阵，记 $\lambda _ { j ( j \in [ 1 , 2 t + 1 ] ) }$ 为 $\boldsymbol { V } ^ { - 1 }$ 的第1行第 $j$ 列，aβ=2faβ $( 1 ) + . . . + \lambda _ { 2 t + 1 } f _ { \alpha \beta } ( 2 t + 1 ) = \lambda _ { 1 } f _ { \alpha } ( 1 ) f _ { \beta } ( 1 ) + . . . + \lambda _ { 2 t + 1 } f _ { \alpha } ( 2 t + 1 ) f _ { \beta } ( 2 t + 1 ) , P _ { \beta } ( 1 ) + . . . + \lambda _ { 2 t + 1 } f _ { \alpha } ( 2 t + 1 ) .$ 计算 $\lambda _ { j } \alpha _ { j } \beta _ { j }$ 并选择两个随机多项式 $h _ { j } ( x )$ 和 $u _ { j } ( x )$ ，满足$h _ { j } ( 0 ) = \lambda _ { j } \alpha _ { j } \beta _ { j }$ 。对于 $\scriptstyle i = 1 , 2 , \ldots , n$ ， $P _ { j }$ 作为Dealer 将 $( h _ { j } ( i ) , u _ { j } ( i ) )$ 发送给 $P _ { i }$ ，并广播承诺 $H ( h _ { j } ( k ) ) = g ^ { h _ { j } ( k ) } h ^ { u _ { j } ( k ) }$ ， $k { = } 0 , 1 , . . . , n$
+
+$P _ { j }$ 需要使用零知识证明方法证明其分享的秘密确实是$\lambda _ { j } \alpha _ { j } \beta _ { j }$ ，也就是现有公开信息 $A _ { j } = g ^ { a _ { j } } h ^ { \rho _ { j } } { \bmod { p } }$ ，$B _ { j } = g ^ { \beta _ { j } } h ^ { \sigma _ { j } } \bmod p$ 和 $D _ { j } = g ^ { a _ { j } \beta _ { j } } h ^ { \tau } { \bmod { p } }$ ，其中 $A _ { j }$ 和 $B _ { j }$ 是已通过检验的正确承诺， $P _ { j }$ 需要证明 $D _ { j }$ 打开承诺后的值的确是 $A _ { j }$ 和$B _ { j }$ 打开承诺后的值之积。文献[28]给出了相关的零知识证明方案。
+
+通过零知识证明后保证了正确的秘密份额被分享，然后每一个 $P _ { i }$ 对 $P _ { j }$ 公布的承诺进行VSPS 验证，通过则检查自己的份额与承诺是否匹配，匹配则认为收到的是有效份额，最终选取$2 \mathrm { t } { + } 1$ 个有效份额，计算 $\gamma _ { i } = \sum _ { j = 1 } ^ { 2 t + 1 } h _ { j } ( i )$ 作为自己乘法门得到的秘密份额，并公布对 $\gamma _ { i }$ 的承诺 $H ( \gamma _ { i } ) = g ^ { \gamma _ { i } } h ^ { \theta } { \bmod { p } }$ 。
+
+安全性分析：该乘法方案可以抵抗主动攻击，零知识证明保证了每个参与方 $P _ { j }$ 都正确地产生了 $h _ { j } ( x )$ ，即 $h _ { j } ( 0 ) = \lambda _ { j } \alpha _ { j } \beta _ { j }$ ，之后通过VSPS验证 $P _ { j }$ 分发份额的正确性，若VSPS验证不通过，说明 $P _ { j }$ 发送了错误份额，其他参与者向 $P _ { j }$ 申请正确份额。对于每个参与方 $P _ { i }$ 在乘法门输出的承诺 $H ( \gamma _ { i } )$ ，其他参与方通过检测其是否等于 $\prod _ { j = 1 } ^ { 2 t + 1 } H ( h _ { j } ( i ) )$ 来判定正确性。所有参与方都可以计算出对／的承诺为 $H ( \gamma ) = \prod _ { j = 1 } ^ { 2 t + 1 } H ( h _ { j } ( 0 ) )$ 。同输入门中分析一样，此乘法协议是信息论安全的，公布的内容没有泄露关于秘密份额的任何信息。在乘法门中每个参与方需要进行 $^ { n - 1 }$ 次VSPS 验证，为了提高效率，可以中途不进行VSPS验证，而是在所有参与方得到各自乘法门的秘密份额后，再对他们公布的份额承诺进行1次VSPS验证，但是这种方式是对聚合值进行验证，无法找出具体恶意方，也无法确定恶意方的数量，只能应对被动攻击者，所以如果通过VSPS验证，计算继续行进，如果验证不通过，所有参与方在本次乘法门全部重新进行计算并且中途当每个参与方作为Dealer分发秘密份额时都要对其进行VSPS 验证。
+
+# 2.1.4输出门
+
+当参与方的秘密输入通过输入门被秘密分享之后，加法门和乘法门都是对这些份额进行运算，不会泄露有关秘密输入的任何信息，且在加法门和乘法门中每个参与方分发份额都要经过VSPS验证，这样可以检测出分发者是否诚实，最终输出门的结果是重建 $y$ 所需要的秘密份额，每个参与方 $P _ { i }$ 得到份额 $y _ { i }$ 公开信息为对秘密 $y$ 的承诺 $\scriptstyle A _ { 0 }$ 以及对份额的承诺 $A _ { i } , _ { } i { = } 1 , 2 , . . . , n _ { \circ }$
+
+通过对输入门、加法门和乘法门的分析可以看出，到达输出门的所有承诺都是经过验证确保是正确的，所以在输出阶段也就是借助区块链实现公平重建阶段，只需要检验参与者公布的份额 $y _ { i }$ 与其之前公开的承诺 $A _ { i }$ 是否匹配，如果匹配，就是正确的份额，只要找到 $_ { \mathrm { t + l } }$ 个正确的份额， $y$ 就能被正确恢复。
+
+# 2.2公平的秘密重建协议
+
+执行完链下通用MPC协议后，所有参与方都得到各自的份额，需要公开自己的份额来恢复秘密，但是恶意参与方在得到别人的秘密份额并成功恢复秘密之后，没有公开自己的份额就提前终止协议，可能导致有的参与方得不到最终结果，破坏了MPC的公平性。所以需要执行公平的秘密重建协议，检测出恶意参与方并对其进行惩罚，同时对诚实方进行补偿。因为惩罚机制的存在，理性参与者会选择不去作恶。
+
+利用惩罚机制构建公平的MPC协议首先要解决押金存储问题。文献[25]提出的公平MPC协议基于比特币脚本语言，由于传统比特币区块链的种种限制，没有一个可信方可以存放押金，押金只能通过claim-or-refund方式在参与方两两之间传递，总押金数达到 $O ( N ^ { 2 } )$ ，且只能识别出一个恶意方，文献[27]同样基于比特币网络，交易轮数与采用的恶意模型下MPC 协议的轮数相同。BFSMPC基于以太坊智能合约实现，协议中有两种账户[32]：外部账户和合约账户，外部账户由用户个人私钥控制，而合约账户由合约代码控制，不为任何人所控制，它可以作为一个可信方来存储押金。在BFSMPC中，所有参与方都将押金发送给合约账户，由智能合约进行统一保管，因此缴纳押金轮数只有一轮，总押金数为 ${ \mathrm { O } } ( N )$ 。
+
+BFSMPC包括本地协议ConLocal和智能合约ConContract。ConContract由某个参与方 $P _ { i }$ 编写，所有参与方对合约内容达成一致后， $P _ { i }$ 将其发布到区块链网络，经矿工验证后写入区块链。以下具体描述了ConLocal和ConContract的内容。ConLocal由参与方执行，规定了参与方的计算操作以及发送给ConContract 的数据，ConContract 则由区块链节点执行，负责保管押金及在秘密重建阶段对参与方行为进行判断。因为在区块链网络中，对于智能合约的执行结果需要经过共识，所以为了提高效率，先由参与方本地相互验证各自份额的正确性，如果验证不通过，再将自己的份额交由ConContract验证。对于提前终止协议的行为，ConContract用超时来判定，如果参与方在规定时间内没有向ConContract发送信息，则被判为恶意方。
+
+参与方本地协议ConLocal：Init：协议参与方集 $P : = \{ P _ { 1 } , P _ { 2 } , . . . , P _ { n } \}$ ， $\mathfrak { n }$ 个参与方之间协商一个大素数$p$ ，满足 $\scriptstyle p = 2 q + 1$ ， $q$ 也是一个素数， $g$ 为 $\boldsymbol { Z } _ { p } ^ { * }$ 的 $q$ 阶元， $h$ 为 $g$ 生成的子群中的随机元素，押金数为\$dep，验证数组 $\mathcal { I } _ { i }$ 为全0。
+
+Deposit:确认当前T<over(0); 将(Deposit，\$dep， $\begin{array} { r } { P _ { i } \overset { \cdot } { , } } \end{array}$ 发送给ConContract;
+
+Compute：一旦 $T > = o v e r ( \theta ) + 2$ 0/\*为了确保在所有诚实方完成第 $\rho$ 轮任务之前不会有参与方行进到第 $\rho + 1$ 轮，任两轮之间至少有两个时钟间隔。 $^ { * } /$ 向 ConContract 发送(ReadD， $\pmb { P } _ { i }$ ：接收到D后，如果 $\mathsf { D } ! = 1$ ，得到押金后协议终止。否则，执行一个不公平的安全MPC 协议,对于每个 $i \in [ n ]$ $\boldsymbol { P } _ { i }$ 得到结果 $o u t _ { i } \colon = ( y _ { i } .$ （204号 $r _ { i } , ~ A _ { \theta } , ~ A _ { 1 } , ~ . . . , ~ A _ { n } )$ ，其中 $A _ { j ( j \in [ n ] ) } : = g ^ { y _ { j } } h ^ { r _ { j } }$ 。
+
+SubCom：一旦 ${ \cal T } > = o v e r ( 1 ) + 2$ 将(SubCom， $P _ { i , \ A _ { i } } )$ 发送给ConContract;  
+SubVerify：一旦 $T > = o v e r ( 2 ) + 2$ 将(Verify, $P _ { i } , y _ { i } , r _ { i }$ 发送给 $P _ { j ( j \neq i , j = 1 , 2 , \dots , n ) }$ ；
+
+Verify：一旦接收到来自 $P _ { j ( j \neq i , j \in [ 1 , n ] ) }$ 的(Verify, $y _ { j } , r _ { j }$ )：确认T<over(3)，不满足则忽略此消息;验证 $g ^ { y _ { j } } h ^ { r _ { j } }$ 是否等于 $A _ { j }$ ，相等置 $\boldsymbol { \mathscr { I } } _ { \mathrm { i } } [ \boldsymbol { \dot { \mathcal { I } } } ]$ 为1;验证完所有的份额后，任取 $^ { \ t + 1 }$ 个正确份额恢复秘密，成功则置$\mathcal { I } _ { i } [ \theta ]$ 为1；将(Verify， $P _ { i , \mathrm { ~ } } \ J _ { i } )$ 发送给ConContract;
+
+Check：一旦 $T > = o v e r ( 4 ) + 2$ 向 ConContract 发送(Check， $\boldsymbol { P } _ { i }$ ）；收到 $\upsilon$ 后，如果 $\scriptstyle { \mathcal { I } } [ \varnothing ] = 1$ ，向ConContract 发送(Pay， $\pmb { P } _ { \mathrm { i } }$ ，如果押金退还正确，协议终止；如果J[G $\Game \left[ \begin{array} { l } { 1 } \\ { - 1 8 8 \mathcal { I } [ i ] ! = 1 } \end{array} \right]$ ，向ConContract 发送(Reverify, $P _ { i } , y _ { i } , r _ { i } \ )$ ：如果 $\mathcal { I } [ \Theta ] \mathrel { \mathop : } = 1 8 \& \mathcal { I } [ i ] = 1$ 且恢复秘密成功，一旦 $\tau >$ over $( 5 ) + 2$ 向 ConContract 发送(RePay， $\begin{array} { r } { P _ { \mathrm { i } } \overset { \cdot } { \underset { \ r { i } } { \mathrm {  } } } } \end{array}$ ：
+
+ReCon：一旦 $T > = o v e r ( 5 ) + 2$ 向 ConContract 发送(ReturnShare， $\boldsymbol { P } _ { \mathrm { i } }$ ）；收到Sh后，再次尝试重建秘密；向 ConContract 发送(RePay， $\begin{array} { r } { P _ { i }  , } \end{array}$ ：
+
+实现公平安全MPC的智能合约ConContract:
+
+Init：恶意方集合 $F { : = } \mathcal { O }$ ，恶意方的个数 $\boldsymbol { \mathscr { f } }$ 初始化为0，协议参与方集$P : = \{ P _ { 1 } , P _ { 2 } , . . . , P _ { n } \}$ ，押金标志位 $\mathsf { D } \colon = \mathsf { \boldsymbol { \theta } }$ ，n个参与方之间协商的一个大素数 $p$ ，满足 $\scriptstyle p = 2 q + 1$ ， $q$ 也是一个素数， $g$ 为 $\boldsymbol { Z } _ { p } ^ { * }$ 的 $q$ 阶元，h为 $g$ 生成的子群中的随机元素，押金数为\$dep，押金数组 $\boldsymbol { \mathsf { \Pi } } _ { M }$ 记录押金缴纳情况为全0，状态数组J为全0，数组Ch和Sh分别用来存储参与方公布的承诺和份额且初始化为空。
+
+Deposit：一旦接收到来自参与方 $\boldsymbol { P } _ { i }$ 的(Deposit， $\$ 123,456,7$ ：确认当前时间T<over(0)且 Ledger $\left[ P _ { i } \right] > = { \mathfrak { F } } { \mathsf { d e p } }$ 确认 $\mathsf { \Pi } _ { P _ { i } }$ 在本次计算中第一次触发 Deposit;Ledger $\cdot \boldsymbol { P } _ { i } \mathbf { ] }$ ： $\mathbf { \sigma } = \mathbf { \sigma }$ Ledger[Pi]-\$dep,Ledger[ConContract]: $\mathbf { \sigma } = \mathbf { \sigma }$ Ledger[ConContract] $\pm \$ { \mathsf { d e p } }$ M[i]: $\scriptstyle = 1$ 如果 $M [ 1 ] \& M [ 2 ] \& m [ M ] = 1 , \mathsf { D } : = 1 ,$
+
+ReadD:一旦T>over(0):拒绝接受任何参与方发送的(Deposit， $\$ 123,456$ ：一旦接收到来自参与方 $\boldsymbol { P } _ { i }$ 的(ReadD):确认T<over(1)，不满足则忽略该消息;如果 $\mathsf { D } ! = 1$ ，退还押金。返回D；
+
+SubCom：一旦接收到 $\boldsymbol { P } _ { i }$ 发送的(SubCom， $\pmb { A } _ { i } \mathrm { ^ { * } }$ ：确认当前时间T<over(2)，不满足则忽略该消息;记录 $\boldsymbol { P } _ { i }$ 触发了SubCom;$\mathsf { C h } [ \mathrm { i } ] : = \ A _ { \mathrm { i } }$ 一旦T>over(2)：将没有触发 SubCom 的参与方加入 $F$
+
+Verify：一旦接收到来自 $\mathsf { \Pi } _ { P _ { i } }$ 的(Verify， $\begin{array} { r } { \boldsymbol { { \mathcal { I } } } _ { i } \dot { \mathbf { \Psi } } } \end{array}$ ：确认T<over(4)，不满足则忽略该消息;记录 $\mathsf { \Pi } _ { P _ { i } }$ 触发了Verify;将收到的所有验证数组逐位相与，得到状态数组 $\mathcal { I } : = \mathcal { I } _ { 1 } \& \mathcal { I } _ { 2 } \& \ldots \& \mathcal { I } _ { n }$ 一旦T>over(4)：将没有触发Verify 的参与方加入 $F$
+
+Pay:如果 $\scriptstyle { \mathcal { I } } [ \varnothing ] = 1$ ，对于任意的 $P _ { i } \in P - F$ ： $\mathsf { L e d g e r } [ P _ { i } ] : = \mathsf { L e d g e r } [ P _ { i } ] + \mathsf { \Sigma p d e p } + \left( f \cdot \Phi \mathrm { d e p } \right) / \left( n - f \right) ) ,$   
+Check: $U : = \ ( \mathcal { I } , \boldsymbol { F } )$ 返回 $\upsilon$
+
+ReVerify：一旦接收到来自 $P _ { i }$ 的(Reverify, $y _ { i } , r _ { i }$ )：确认T<over(5)，不满足则忽略此消息;如果 $\mathcal { I } [ \theta ] ! = 1 8 8 \mathcal { I } [ i ] ! = 1$ ，验证 $g ^ { y _ { i } } h ^ { r _ { i } }$ 是否等于 $A _ { i }$ ，相等则${ \sf S h } [ { \bf i } ] : = \mathrm { ~ ( ~ } y _ { i } , r _ { i } \mathrm { ~ ) ~ }$ ，置J[i]为1;
+
+RePay: 一旦T>over(5)： $F { : = } F \cup \{ P _ { i } | i \in [ 1 , n ] \& \& J [ i ] ! { = } 1 \}$ 一旦接收到来自 $\boldsymbol { P } _ { i }$ 的(RePay)，对于任意的 $P _ { i } \in P - F$ ：L $\mathsf { \cdot e d g e r } \left[ P _ { i } \right] : = \mathsf { L e d g e r } \left[ P _ { i } \right] + \mathsf { \nabla 5 d e p } + ( f \cdot \ S \mathsf { d e p } ) / ( n - f ) \ j ;$ 返回Check;
+
+ReturnShare：返回Sh;
+
+BFSMPC执行前先进入预准备阶段，参与方对押金数和其他公共参数达成一致，生成公钥和私钥，广播公共信息（如以太坊地址和公钥)。假设参与方可以使用秘密通信信道和广播信道，整个协议在同步网络中运行。BFSMPC的执行流程如图2所示。
+
+![](images/5bb708e118807e47e1f46f6b1da2f283d8bbd30938e5e96d708ad50679241e8d.jpg)  
+图2BFSMPC 执行流程  
+Fig.2:BFSMPC execution process
+
+a）BFSMPC一开始进行押金提交，也就是图4中的第3步。记 $o \nu e r ( \rho )$ 为第 $\rho$ 轮的结束时间，参与方 $P _ { i }$ 在over(0)之前向 ConContract 发送(Deposit, \$dep, $P _ { i }$ )，ConContract收到后先检查 $P _ { i }$ 的账户余额是否充足，充足则记录下 $P _ { i }$ 已经缴纳过押金，以后再收到(Deposit,\$dep, $P _ { i } )$ 则忽略。当检测到所有人都缴纳押金之后，置标志位D 为1。一旦当前时间 T>over(0)，ConContract就不再接受任何(Deposit, \$dep, $P _ { j } )$ ，这时如果 ${ \bf D } ! { = } 1$ 则将押金退还给所有参与者，协议终止，否则协议继续。
+
+b）参与方 $P _ { i }$ 在 over(2)之前向 ConContract 发送(SubCom,$P _ { i , A _ { i } } )$ 提交对自己份额的承诺 $A _ { i }$ ，ConContract收到后检测是否满足 $\scriptstyle { T < o \nu e r ( 2 ) }$ ，满足则将 $\mathbf { \mathcal { A } } _ { i }$ 存入Ch[i]中，一旦 $\scriptstyle { T > o \nu e r ( 2 ) }$ ，将没有发送承诺的参与方加入恶意方集合 $F$ 中。这里对应图4的第5步。
+
+c）接下来进行链下验证，对应于图4中的第6、7步。在over(3)之前，参与方 $P _ { i }$ 调用(SubVerify, $y _ { i } , r _ { i }$ )将自己的秘密份额$\left( { { y } _ { i } } , { { r } _ { i } } \right)$ 发送给其他所有参与方 $P _ { j } ( j { = } 1 , 2 , . . . , n$ 且 $j ! { = } i$ )。 $P _ { j }$ 使用一个验证数组 $J _ { j }$ 来记录自己对其他参与方份额的验证结果， $J _ { j }$ 的初始值为全0。先检查是否满足T<over(3)，不满足则忽略此信息，否则验证 $g ^ { y _ { i } } h ^ { r _ { i } }$ 是否等于 $\mathbf { \mathcal { A } } _ { i }$ ，相等则 $J _ { j } [ i ] { : = } 1$ 。 $P _ { j }$ 验证完所有的份额之后，如果能取到 $_ { t + 1 }$ 个正确份额来成功恢复秘密，则 $J _ { j } [ 0 ] { : = } 1$ 。 $P _ { j }$ 将(Verify, $P _ { j } , J _ { j } )$ 发送给ConContract。
+
+d）ConContract接受到(Verify, $P _ { j } , J _ { j } )$ 后，判断当前时间是否满足T<over(4)，不满足则忽略此消息，否则记录 $P _ { j }$ 提交了验证数组。ConContract将收到的所有数组逐位相与，得到状态数组$J _ { \circ }$ 一旦 $T > o \nu e r ( 4 )$ ，将没有提交验证数组的参与方加入恶意方集合 $F$ 中。
+
+e）参与方 $P _ { i }$ 向ConContract 发送(Check, $P _ { i }$ )，收到响应$\scriptstyle { \mathrm { U } = } ( ( J , F )$ 后，如果 $\scriptstyle J [ 0 ] = 1$ ，说明所有参与方都成功恢复了秘密，而不用考虑 $\boldsymbol { \mathcal { I } } [ i ]$ 的值是否为1，因为所有参与方都得到了输出，计算成功。此时，若 $P _ { i } \notin F$ ， $F$ 中恶意方的个数记为f， $P _ { i }$ 计算自己应得到 $\mathbb { S } \mathrm { d e p } + \left( f \cdot \mathbb { S } \mathrm { d e p } \right) / \left( n - f \right) .$ 的退款并向ConContract发送 $( \mathrm { P a y } , P _ { i } )$ ，得到退款且确认无误后，协议终止。这里对应图4中的第13步。
+
+如果 $\scriptstyle J [ 0 ] = 0$ ，说明有参与方没有成功恢复秘密，这种情况下若 $\boldsymbol { J } [ i ] = 1$ ，表明 $P _ { i }$ 的份额得到了其他所有参与方的认可，如果 $P _ { i }$ 成功恢复秘密，等到 $T { > } { = } o \nu e \mathrm { r } ( 5 ) { + } 2$ 之后， $P _ { i }$ 向 ConContract发送 $( \mathrm { R e P a y } , P _ { i } )$ ；若 $\mathcal { I } [ i ] { = } 0$ ，说明 $P _ { i }$ 的份额没有得到其他参与方的认可，需要在over(5)之前向ConContract 发送(Reverify, $P _ { i }$ ，$y _ { i } , r _ { i }$ )，这对应于图4中的第9步。
+
+f）ConContract 接受到(Reverify, $P _ { i } \ , y _ { i } , r _ { i } \ .$ 后，判断是否满足T<over(5)，不满足则忽略此消息，否则判断若$\mathcal { I } [ 0 ] ! = 1$ && $\begin{array} { r } { J [ i ] ! = 1 } \end{array}$ ，ConContract从 $\mathrm { C h } [ i ]$ 中取出 $A _ { i }$ ，验证 $g ^ { y _ { i } } h ^ { r _ { i } }$ 是否等于 $A _ { i }$ ，相等则将 $\mathbf { \Phi } ( \mathbf { \Phi } y _ { i } , r _ { i } \mathbf { \Phi } )$ 存入 Sh[i]， $\boldsymbol { \mathcal { I } } [ i ]$ 赋值为1。当$T > o \nu e r ( 5 )$ 时，对于任意的 $P _ { j }$ ，如果 $\mathcal { I } [ j ] ! = 1$ ，则将 $P _ { j }$ 加入恶意方集合 $F$ 中，这一步检测了两种不诚实行为，第一种为 $P _ { j }$ 提交的秘密份额( $\cdot \ : y _ { j } , r _ { j }$ )ConContract验证不通过；第二种为 $P _ { j }$ 的份额$( \mathbf { \nabla } y _ { j } , r _ { j }$ )没有被其他参与方认可， $P _ { j }$ 也没有将份额提交给ConContract验证。
+
+g）ConContract 接受到(RePay, $P _ { i , }$ 后，判断是否满足$T { > } o { \nu } e r ( 5 )$ ，不满足则忽略，否则如果检测到 $P _ { i } \notin F$ ， $F$ 中恶意方的个数为 $f$ ， $P _ { i }$ 将收到值为 $\mathbb { S } \mathrm { d e p } + \left( f \cdot \mathbb { S } \mathrm { d e p } \right) / \left( n - f \right)$ 的退款，同时 $P _ { i }$ 会获取到 $\scriptstyle { \mathrm { U } } = ( ( J , F )$ ，可以验证退款是否正确。这里对应于图4中的第13步。
+
+h)如果参与方 $P _ { i }$ 没有成功恢复秘密，当 $\scriptstyle { T > = o \nu e \mathrm { r } ( 5 ) + 2 }$ 时，$P _ { i }$ 向 ConContract 发送(ReturnShare, $P _ { i }$ )，对应于图4中的第10步。ConContract收到后会返回数组Sh，对应于图4中的第11步。Sh保存了链下验证不通过但区块链验证通过的份额， $P _ { i }$ 之前恢复秘密失败说明没有收集到 $_ { \mathrm { t + l } }$ 个正确份额，其得到Sh后可能会凑齐 $^ { 1 + 1 }$ 个份额，也可能恶意方太多，凑不齐，但在之前几步中已经找出发送错误份额和提前终止协议的恶意方，所以 $P _ { i }$ 会得到补偿， $P _ { i }$ 向ConContract 发送(RePay, $P _ { i }$ )来请求退款，如果ConContract 检测到 $P _ { i } \notin F$ ， $F$ 中恶意方的个数记 $f ,$ （204号$P _ { i }$ 将收到值为 $\mathbb { S } \mathrm { d e p } + \left( f \cdot \mathbb { S } \mathrm { d e p } \right) / \left( n - f \right)$ )的退款。协议终止。
+
+# 3 安全性分析
+
+根据第2.1节的推导可以看出BFSMPC使用的通用MPC协议基于可验证秘密共享方案，可以抵抗主动攻击者。在协议输入阶段，每个参与方作为Dealer将秘密份额分发给其他参与方时，会公布对份额以及对秘密的承诺，这个承诺方案是信息论安全的，不会泄露有关秘密的任何信息。除此之外，承诺方案具有同态性，对于 $A _ { 1 } = H ( \alpha _ { 1 } , \rho _ { 1 } ) , A _ { 2 } = H ( \alpha _ { 2 } , \rho _ { 2 } )$ ，有$A _ { 1 } A _ { 2 } = H ( \alpha _ { 1 } + \alpha _ { 2 } , \rho _ { 1 } + \rho _ { 2 } )$ 成立，这样，对于多项式 $f ( x )$ ，当得到对 $f ( i )$ 的承诺，根据同态承诺的性质，可以计算出对多项式系数的承诺，进而可以进行VSPS验证，以检测所有份额是否在同一个t次多项式上，具体的推导过程见2.1.1节。如果验证通过，则可以判定Dealer是诚实的，每个参与者都得到了正确的份额。对于乘法门，从2.1.3节的推导可以看出每个参与者都需要作为Dealer分发份额，使用零知识证明和VSPS验证可以检测出其是否是诚实者。在加法门中，对于 $P _ { i }$ ，所有参与方都可以计算出其加法门输出的承诺。链下MPC的整个过程中对每个参与方的行为都做了检测，可以识别出恶意参与方，保证MPC 输出门的承诺是正确的。在公平的秘密重建阶段，只要秘密份额与之前公布的承诺相匹配就认为是正确的份额，收集到$_ { \mathrm { t + l } }$ 个正确的份额即可正确恢复秘密，即使有其他的错误份额也不会影响恢复结果，协议具有鲁棒性，BFSMPC能容忍的最大恶意方数为n-t-1，因为必须 $^ { 1 + 1 }$ 个正确份额才能恢复秘密。
+
+为了保证效率，BFSMPC公平重建阶段先进行链下验证，参与方 $P _ { i }$ 的份额可能不被其他参与方认可，有三种可能，第一种为 $P _ { i }$ 向其他参与方发送了错误份额，第二种为 $P _ { i }$ 发送的是正确份额，但是被其他参与方恶意诬赖，第三种为 $P _ { i }$ 提前退出了协议，没有向其他参与方公布份额。如果链下验证完毕后所有参与方都成功恢复了秘密，这三种恶意行为是不会去检测的，因为已经实现了MPC的公平性。如果链下验证结束后，有参与方恢复秘密失败，则任何链下验证不通过的份额都需提交给智能合约ConContract验证，ConContract是自动执行的，不为任何人控制，理性参与方会选择发送正确的份额，因为发送错误份额很容易被检测出来，从而被ConContract加入恶意方集，押金就会被没收。对于提前终止协议的行为，区块链使用超时来判断，协议的每一轮都有时限，超出了时限未发送信息则被判为恶意方。对于任一参与者 $P _ { i }$ ，ConContract判定其为恶意方的规则为：a）超时未交纳押金(无法惩罚，协议终止)；b)超时未上传承诺的 $\mathbf { \mathcal { A } } _ { i }$ ；c）超时未上传验证数组 $J _ { i }$ ；d）没有通过其他参与方的验证，最终超时未向智能合约提交秘密份额$( y _ { i } , r _ { i } )$ ；e）提交的秘密份额( $y _ { i } , r _ { i }$ )区块链验证不通过。
+
+任何提前终止协议及发送错误信息的参与方都会被ConContract识别出来并没收其全部押金，这使得在BFSMPC中作恶是有代价的，只要押金数适当，理性的参与方会选择诚实地执行协议。
+
+# 4 性能分析
+
+基于区块链需要完成共识过程，在区块链上执行操作会耗费大量时间和算力资源，所以应尽可能地将验证操作放到链下。文献[25]中参与者与区块链进行交互的轮数达到O(N，执行完底层MPC协议后，每个参与方得到秘密输出份额，区块链需要验证每个参与方的秘密份额，而且只有每个人都公布正确的秘密份额才能成功恢复秘密。文献[27]中MPC协议的每一轮都需要区块链的参与，每一轮参与方都要向区块链证明自己诚实地执行了协议，也就是说每一轮区块链都要验证每个参与方公布的信息，进行大量的零知识证明计算。无论是文献[25]还是[27]，缴纳押金的次数都达到O(N)。
+
+BFSMPC中第一阶段通用MPC协议输出的是通过VSPS验证的公开承诺，以及参与方各自掌握的秘密份额。参与方链下验证秘密份额的正确性，因为基于门限秘密共享方案，参与方只需收集t+1个正确的份额即可恢复秘密，不需要自己检验的n个份额全部正确。区块链只要检测到所有人都恢复了秘密，协议便终止，不需要再检测是否有恶意方链下发送错误份额。只有当有参与方恢复秘密失败时，那些未通过验证的参与方才需要将份额广播给区块链网络，由区块链进行验证，找出恶意方，从而对诚实参与者进行赔偿。因为基于以太坊的BFSMPC中存在合约账户，可以用来存储数据和价值，所以只需要协议执行前参与方统一将押金发送到智能合约账户中即可，即BFSMPC中参与方只要缴纳一次押金，显著降低了算法的复杂度。
+
+任何基于区块链的解决方案，都要考虑上链的共识时长。在比特币区块链中，产生一个块的时间大约是10分钟，为了防正分叉，最终确认要等6个块，所以确认一笔交易被写入区块链中需要大概60分钟，显然效率太低。文献[25]的协议考虑了确认块的问题，所以每轮时长都非常长。基于以太坊的BFSMPC采用ghost[33]共识机制，15秒即可产出一个区块，效率比文献[25]的协议更高。
+
+# 5 结束语
+
+安全MPC中，当大多数参与者都不诚实时，公平性无法保证。基于现实中攻击者都是理性的这一特点，采取惩罚措施可以使得恶意攻击者公平地执行协议。区块链具有去中心化，去信任及不可窜改等特点，其上的智能合约不仅可以不为人控制地自动执行代码，存储数据，还能和普通账户一样存储价值。本文利用区块链智能合约构造了惩罚机制，设计了公平的MPC协议BFSMPC。参与方在执行协议前向智能合约缴纳押金，之后，执行一个不公平的安全MPC协议，此协议基于VSS方案，秘密输出被分享在一个t次多项式中，该阶段最终每个参与方得到各自的秘密份额，随后执行一个公平的秘密重建协议，参与者之间互相公布其掌握的份额，并进行链下验证，将验证结果反馈给智能合约，由智能合约判别出恶意方。协议具有鲁棒性，不需要所有份额都正确，诚实方只要收集到 $^ { \mathrm { t } + 1 }$ 个正确份额即可恢复秘密，如果秘密恢复失败会得到补偿。安全性分析表明参与方可以通过验证秘密份额的正确性以及与智能合约交互信息的正确性，以得到正确的输出结果；性能分析表明BFSMPC只需缴纳一轮押金并且大量复杂的验证操作都在链下进行，相较于文献[25]的算法效率更高。
+
+# 参考文献：
+
+[1]Yao C.Protocols for secure computations [C]// Proc of the 23rd IEEE Symposium on Foundations of Computer Science.Piscataway,NJ:IEEE Press,1982:160-164.   
+[2]Goldreich O,Micali S,Wigderson A.How to play any mental game [C]// Proc of the 19th Annual ACM Conference on Theory of Computing.New York:ACMPress,1987:218-229.   
+[3]Garg S,Srinivasan A. Two-round multiparty secure computation from minimal assumptions [C]//Proc of the 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques.Berlin: Springer, 2018: 468-499.   
+[4] Benhamouda F, Lin H. k-round MPC from k-round OT viagarbled interactive circuits [EB/OL].(2017） [2018-05-03]. https://eprint.iacr. org/2017/1125. pdf.   
+[5]Cuvelier E,Pereira O. Verifiable multi-party computation with perfectly private audit trail[C]// Proc ofthe 14th InternationalConference on Applied Cryptographyand Network Security.Berlin: Springer,2016:367-385.   
+[6]Keller M,Pastro V,Rotaru D. Overdrive: Making SPDZ great again[C]/ Proc of the 37th Annual International Conference on the Theory and Application of Cryptographic Techniques.Berlin: Springer,2018: 158-189.   
+[7]Spini G,Fehr S. Cheater detection in SPDZ multiparty computation [C]// Proc of International Conference on Information Theoretic Security. Berlin Springer,2016: 151-176.   
+[8]LindellY,Pinkas B,Smart NP,etal.Efficient constant round multi-party computation combining BMR and SPDZ [C]// Proc of the 35th Annual CryptologyConference.Berlin: Springer,2015: 319-38.   
+[9]Ishai Y,Ostrovsky R,Zikas V. Secure multi-party computation with identifiable abort [Cl//Proc of the 34th Annual Cryptology Conference on Advance in Cryptology.Berlin: Springer,2014:369-386.   
+[10] Cleve R. Limits on the security of coin flips when half the processors are faulty[C]//Proc of the 18th Annual ACM symposium on Theory of computing.New York: ACMPress,1986: 364-369.   
+[11] Gordon D,Ishai Y,Moran T,et al. Oncomplete primitives for fairness [C]/ Proc of the 7th Theory ofCryptography Conference.Berlin: Springer,2010: 91-108.   
+[12] Nakamoto S.Bitcoin: apeer-to-peer electronic cash system [EB/OL]. (2008) [2018-05-03]. htp:/bitcoin.org/bitcoin.pdf.   
+[13] Singhal B,Dhameja G,Panda P S.Beginning blockchain[M].Berkeley: Apress, 2018: 219-266.   
+[14] KosbaA,MilerA,ShiE,etal.Hawk: the blockchainmodelofcryptography and privacy-preserving smart contracts [C]// Proc of IEEE Symposium on Security and Privacy.Piscataway,NJ: IEEEPress,2016:839-858.   
+[15] Jakobsen TP, Nielsen JB,Orlandi C.Aframework for outsourcing of secure computation [C]//Proc of the 6th Edition of the ACM Workshop on Cloud Computing Security. New York: ACMPress,2014: 81-92.   
+[16] Gordon SD,HazayC,Katz J,et al. Complete fairness insecure two-party computation[J]. Jourmal of the ACM,2011,58 (6): 1-24.   
+[17] Goldreich O.Foundations of cryptography: volume 2,basic applications [M]. Cambridge: Cambridge University Press,2004.   
+[18] Katz J.On achieving the best of both worlds in secure multiparty computation [Cl//Proc of the 39th Annual ACM Symposium on Theory of Computing. New York: ACM Press,2007: 11-20.   
+[19] Gordon SD,Katz J.Partial fairness insecure two-party computation[C]/ Procof the 29th Annual International Conference on the Theory and Applications ofCryptographic Techniques.Berlin: Springer,2010:157-176   
+[20]田有亮，彭长根，马建峰，等．通用可组合公平安全多方计算协议[J]. 通信学报,2014 (2): 54-62.(Tian Youliang,Peng Changgen,Ma Jianfeng, et al. Universally composable secure multiparty computation protocol with fairness [J]. Journal on Communications,2014(2): 54-62.)   
+[21]Fitzi M,Garay JA,Maurer UM,etal.Minimal complete primitives for secure multi-partycomputation[J]. Journal ofCryptology,20o5,18 (1): 37- 61.   
+[22] Andrychowicz M, Dziembowski S, Malinowski D,et al. Secure multiparty computations on bitcoin [C]//Proc of IEEE Symposium on Security and Privacy. Piscataway,NJ: IEEE Press,2014: 76-84.   
+[23] BentovI,Kumaresan R.How to use bitcoin to design fair protocols [C]/ Proc of the 34th Annual Cryptology Conference on Advance in Cryptology. Berlin: Springer,2014: 421-439.   
+[24] Kumaresan R,Bentov I.How to use bitcoin to incentivize correct computations [C]// Proc of the 21st ACM Conference on Computer and Communications Security. New York: ACM Press,2014: 30-41.   
+[25] Kumaresan R, Vaikuntanathan V, Vasudevan PN. Improvements to secure computation with penalties [Cl//Proc of the 23rd ACM Conference on Computer and Communications Security. New York: ACM Press, 2016: 406-417.   
+[26] Zyskind G. Eficient secure computation enabled by blockchain technology [D]. Cambridge: Massachusets Institute of Technology,2016.   
+[27] Kiayias A,Zhou HS,Zikas V.Fair and robust multi-partycomputation using a global transaction ledger [C]// Proc of the 35th Annual International Conference on the Theory and Applications of Cryptographic Techniques. Berlin: Springer,2016:705-734   
+[28] GennaroR,RabinMO,Rabin T.Simplified VSSand fast-track multiparty computations with applications to threshold cryptography[C]// Proc of the 17th Annual ACM Symposium on Principles of Distributed Computing. New York: ACM Press,1998: 101-111.   
+[29]蒋瀚，徐秋亮．基于云计算服务的安全多方计算[J].计算机研究与发 展,2016,53 (10): 2152-2162. (Jiang Han,Xu Qiuliang.Secure multiparty computation in cloud computing [J]. Journal of Computer Research and Development,2016,53 (10): 2152-2162.)   
+[30]Pedersen TP.Non-interactive and information-theoretic secure verifiable secret sharing [C]/ Proc ofAnnual International Cryptology Conference on Advances in Cryptology.Berlin: Springer,1991:129-140   
+[31]邱卫东，黄征．密码协议基础[M].北京：高等教育出版社,2009:156. (Qiu Weidong,Huang Zheng.Cryptographic protocols [M].Bei Jing: Higher Education Press,2009:156.)   
+[32] Jameson H.Accounts,transactions,gas and block gas limits in ethereum [EB/OL]. (2017）[2018-05-21].https://hudsonjameson.com/2017-06-27- accounts-transactions-gas-ethereum/.   
+[33] Sompolinsky Y, ZoharA.Secure high-rate transaction processing in bitcoin [J]. Computer Science,2015,8975: 507-527.

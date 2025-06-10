@@ -1,0 +1,434 @@
+[
+    {
+        "type": "text",
+        "text": "应用于机器人路径规划的双向时效A\\*算法\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高民东，张雅妮，朱凌云(重庆理工大学 计算机科学与工程学院，重庆 400054)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对时效 ${ \\mathbf A } ^ { * }$ 算法为了大幅减少算法时间，导致路径规划长度增加和路径锯齿过多的问题，提出一种改进的双向时效 $\\mathbf { A } ^ { * }$ 算法，该方法将从起点和终点同时运行时效 $\\mathbf { A } ^ { * }$ 算法寻找路径，并采用多近邻栅格距离计算方案；同时，根据不同环境地图对传统 $\\mathbf { A } ^ { * }$ 算法、时效 $\\mathbf { A } ^ { * }$ 算法和双向时效 $\\mathbf { A } ^ { * }$ 算法运行结果进行对比研究及分析；最后，制定算法时间、路径长度两个指标来评判算法的优劣。实验结果显示，双向时效 $\\mathbf { A } ^ { * }$ 算法相对于传统 $\\mathbf { A } ^ { * }$ 算法，算法时间最大减少$7 6 . 8 \\%$ ，相对于时效A\\*算法，时间最大减少 $5 5 . 4 \\%$ ，并解决了时效A\\*算法规划路径距离增加、路径不够平滑的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：路径规划；启发式算法；时效 $\\mathbf { A } ^ { * }$ 算法中图分类号：TP301.6",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bidirectional time-efficient $\\mathbf { A } ^ { * }$ algorithm for robot path planning ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gao Mindong, Zhang Yani, Zhu Lingyun+ (College ofComputerScience&Engineering,Chongqing UniversityofTechnology,Chongqing 40o054,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: As for the Time-Efficient $\\mathbf { A } ^ { * }$ algorithm significantly reduces the algorithm time,lead to the problem of increase path planning length and path sawtooth. This paper proposed an improved Bidirectional Time-Efficient $\\mathbf { A } ^ { * }$ Algorithm,which will run the $\\mathbf { A } ^ { * }$ algorithm from the startand the end point to find the path and apply the multiple neighbor grid distance computation scheme.At the same time,according to different environment map,this paper compared and analyzed the $\\mathbf { A } ^ { * }$ algorithm, TimeEfficient $\\mathbf { A } ^ { * }$ algorithm and Bidirectional Time-Efficient $\\mathbf { A } ^ { * }$ algorithm.Finally,the index of algorithm time and path length will bechosenas two indicators toevaluatethe meritsanddemeritsofthealgorithm.Experimentalresults show thatcompared with with traditional $\\mathbf { A } ^ { * }$ algorithm, the Bidirectional Time-Efficient $\\mathbf { A } ^ { * }$ decreases the time of the algorithm by $76 . 8 \\%$ at the maximum, and reduces the maximum time by $5 5 . 4 \\%$ compared with Time-efficient $\\mathbf { A } ^ { * }$ algorithm. It also solves the problem that the path distance of the Time-Efficient $\\mathbf { A } ^ { * }$ algorithm is augmented and the path is not smooth enough. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:path planning;heuristic algorithm; time-efficient $\\mathbf { A } ^ { * }$ algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "路径规划技术是机器人研究的一个重要领域，是实现轮式机器人自主定位与导航的关键技术之一。路径规划主要任务是使机器人能够安全避开各种环境中的障碍物，并以最短且最优的路径到达所指定的终点。路径规划技术根据环境的已知程度可以分为基于模型的全局路径规划和基于传感器的局部路径规划，根据机器人周围环境是否变化可分为静态路径规划和动态路径规划[1]；在动态路径规划研究中，人工势场法具有同时处理静态、动态环境的优点，但在路径规划过程中容易陷入局部最小值，目前已有很多相关领域专家针对此问题展开了广泛的研究，如将机器人相对加速度引入引力势场函数的思想[2]；智能仿生路径规划具有搜索快、参数少，易于实现的优点，郑健，黄敏等人曾通过引入遗传交叉因子、精英保留策略和动态侦查蜂机制对传统人工蜂群算法进行改进，并将其应用于指路标志系统中[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在全局静态路径规划算法中，因为 $\\mathbf { A } ^ { * }$ 算法的成熟性及其稳定性，诸多学者对A\\*算法进行了多种改进研究：Sariff等人曾对不同的可视图法与 $\\mathbf { A } ^ { * }$ 算法结合后的算法进行对比研究，并进行综述性分析[4]；针对地图构建方面的改进，Wang等人对路径规划在城市地图中进行应用研究，提出基于 $\\mathbf { A } ^ { * }$ 算法的分层 $\\mathbf { A } ^ { * }$ 算法，该算法通过对城市地图进行分层处理，然后对不同层次地图进行A\\*算法路径规划，有效的较少了算法的运行时间[5]；Lv 等人提出以拓扑模型方式建立地图，并以 $\\mathbf { A } ^ { * }$ 算法来解决自主地面车辆的路径规划问题。该方法解决了多个自主车辆路径规划的问题，并且稳定性较高[；李冲等人提出了一种新的单边矩形扩展 $\\mathbf { A } ^ { * }$ 算法，该算法采用受迫扩展规则，用单条公共边取代相邻矩形的两条重复边来提高算法效率[7]。刘大瑞等人基于代价向量多目标 $\\mathbf { A } ^ { * }$ 算法进行改进，提出MOVA\\*算法，并将该算法成功应用于NPC 路径规划中[8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文主要针对全局静态路径规划算法进行改进研究。Guruji提出基于A\\*算法改进的时效A\\*算法，该算法通过采用斜率检测计算方式来减少传统A\\*算法的近邻搜索次数，从而达到提高算法效率的目的，但却增加了规划路径的长度，且路径不够平滑[9；本文针对该算法继续进行改进，首先，通过在起点、终点同时运行时效A\\*算法，使得路径搜索更快，算法效率进一步提高；其次，在解决路径不够平滑问题时，从辛煜，梁华为等人提出的无限邻域的A\\*算法思想[1o]以及Fernandes 等人提出的修改传统A\\*算法的近邻数来使路径规划适用于多边形障碍物情况的思想[I]中研究新的近邻搜索矩阵改进思路，采用改进的多近邻搜索方案来替换原8近邻搜索方案[12]；最后，本文针对对不同环境地图对三种路径规划算法进行仿真实验结果对比与分析，结果显示，该方案极大的改善了时效 $\\mathbf { A } ^ { * }$ 算法因减少算法运行时间而导致路径长度增加以及路径不够平滑的问题",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 时效 $\\mathsf { A } ^ { \\star }$ 算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统 $\\mathbf { A } ^ { * }$ 算法采用启发式函数路径规划思路，其主要思想是：从起点开始，检测当前栅格周围八个近邻栅格的 $f ( n )$ 值，并选取周围八个近邻栅格 $f ( n )$ 值最小的栅格为下一个，继续进行检测，直到检测范围到达终点为止。其中， $f ( n )$ 值的计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( n ) = g ( n ) + h ( n )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $g ( n )$ 是当前栅格到第 $n$ 个 $n$ 近邻栅格的距离耗费， $h ( n )$ 是第 $n$ 个近邻栅格到终点的距离耗费。栅格之间的距离计算方法有很多种，如欧氏距离、马氏距离和曼哈顿距离等。本文传统 $\\mathbf { A } ^ { * }$ 算法采用欧式距离计算 $g ( n )$ 和 $h ( n )$ 的值，欧式距离计算公式如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng ( n ) { \\mathrm { o r } } h ( n ) = { \\sqrt { ( x _ { n } - x _ { o } ) ^ { 2 } + ( y _ { n } - y _ { o } ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "时效 $\\mathbf { A } ^ { * }$ 算法思想是在传统 $\\mathbf { A } ^ { * }$ 算法中加入了斜率检测阶段，从而减少了传统 $\\mathbf { A } ^ { * }$ 算法的运行时间。与传统 ${ \\mathbf A } ^ { * }$ 算法不同，时效 $\\mathbf { A } ^ { * }$ 算法主要在临近碰撞物前才会去计算当前栅格周围八个近邻栅格的启发式函数 $f ( n )$ 值，而不需要从一开始就执行 $\\mathbf { A } ^ { * }$ 算法的近邻栅格计算步骤。时效 $\\mathbf { A } ^ { * }$ 算法主要分为五个阶段：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)输入阶段，主要输入机器人的运行环境地图和机器人的起点、终点。运行环境地图主要为经过栅格法处理过后的二进制位图，其黑色区域代表障碍物，白色区域代表可通行区域。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)接近检测阶段，该阶段会检测起点和终点的距离，如果距离较短，则意味这接近条件满足，然后执行 $\\mathbf { A } ^ { * }$ 算法，否则继续下一阶段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)斜率检测阶段，该阶段将会以起点和下一目标点为终点计算斜率，并与起点至终点计算的初始斜率进行比较，如果斜率统一，则投射到该目标点，如果斜率不统一，则根据斜率是否大于或小于统一值来投射下一目标点到任意角度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)转换阶段，当目标点S临近障碍物后，标记目标点为 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SwitchS，同时将SwitchS作为新的起点，并从该点进行A\\*算法继续规划路径。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "e)结合阶段，当A\\*算法将终点加入关闭列表后，即可得出一条规划路径，结合斜率检测得出的路径结果以及 $\\mathbf { A } ^ { * }$ 算法得出的路径结果即可获得最终路径规划结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 双向时效 $\\mathsf { A } ^ { \\star }$ 算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "双向时效A\\*算法流程与时效A\\*算法大致相同，其不同之处在于对时效 $\\mathbf { A } ^ { * }$ 算法斜率检测阶段和转换阶段的改进；本章主要讨论本文改进算法的算法流程以及本文提出的多近邻栅格改进方案。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1算法近邻栅格改进 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先针对时效 $\\mathbf { A } ^ { * }$ 算法中的近邻搜索矩阵进行改进，即转换阶段中的执行的 $\\mathbf { A } ^ { * }$ 算法固定8个近邻栅格搜索方式改进为16、32和56近邻栅格搜索方式。定义 $\\boldsymbol { M } _ { \\mathfrak { n } }$ 代表 $n$ 个近邻搜索矩阵，同时，矩阵值中的元素 $M _ { n } ( x , y )$ 代表第 $x$ 行，第 $y$ 列的近邻栅格，矩阵中心 $M _ { n } ( x + 1 / 2 , y + 1 / 2 )$ 为开启列表中的目标点，根据以上定义，可以得出原始算法的8近邻栅格搜索矩阵为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { s } = { \\left[ \\begin{array} { l l l } { I } & { I } & { I } \\\\ { I } & { \\theta } & { I } \\\\ { I } & { I } & { I } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中:当 $M _ { 8 } ( x , y ) = 1$ 代表该栅格为需要进行距离计算的近邻栅格且存在与开始列表中，当 $M _ { \\mathrm { { s } } } ( x , y ) = 0$ 代表该栅格不需要进行距离计算，且在关闭列表中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同理可得16近邻栅格搜索矩阵如式(4)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { \\scriptscriptstyle { I 6 } } = { \\left[ \\begin{array} { l l l l l } { 0 } & { I } & { \\theta } & { I } & { \\theta } \\\\ { I } & { I } & { I } & { I } & { I } \\\\ { \\theta } & { I } & { \\theta } & { I } & { \\theta } \\\\ { I } & { I } & { I } & { I } & { I } \\\\ { \\theta } & { I } & { \\theta } & { I } & { \\theta } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对比 $M _ { 8 }$ 和 $M _ { \\scriptscriptstyle { 1 6 } }$ 可以看出，采用 $M _ { 8 }$ 作为搜索矩阵的路径规划算法具有8个备选方向，而采用 $M _ { \\scriptscriptstyle { 1 6 } }$ 作为搜索矩阵的路径规划算法具有16个备选方向，使得路径规划方向选择更加多样化。同理可得32近邻的搜索矩阵 $M _ { \\mathfrak { z } 2 }$ 和 56近邻的搜索矩阵M56°",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据以上公式可以看出，多近邻搜索矩阵 $M _ { \\scriptscriptstyle { 1 6 } }$ 、 $M _ { \\mathfrak { z } 2 }$ 和$M _ { 5 6 }$ 比传统算法近邻搜索矩阵 $M _ { 8 }$ 拥有更多的备选方向，同时在近邻搜索过程中，更更大范围的进行启发式函数的遍历计算，从理论上不仅可以使得路径规划过程更加迅速，还能减少路径规划路线结果的锯齿，使其更加平滑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2算法改进流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同时效 $\\mathbf { A } ^ { * }$ 算法一样，双向时效 $\\mathbf { A } ^ { * }$ 算法同样包含五个阶段：输入阶段、接近检测阶段、斜率检测阶段、转换阶段、结合阶段。但在斜率检测阶段，双向时效A\"算法是从起点和终点同时进行斜率检测，从而在原算法基础上再次减少了算法的遍历次数以及算法运行时间。其算法流程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba869a23c7571295596a0eab6b43e8e4f96cc5b788f8581f1c24dba2815f41fd.jpg",
+        "img_caption": [
+            "图1双向时效A算法流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图1中可以看出，在斜率检测阶段，算法首先计算起点与终点的初始斜率，然后同时计算并比较起点与下一目标点斜率，终点与下一目标点与斜率与初始斜率的大小，如果斜率统一，则分别投射至下一目标点，如果不统一，则根据斜率是否大于或小于统一值来投射下一目标点到任意角度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在转换阶段，会存在两个目标点临近障碍物，一个是从起点投射的目标点A，另一个是从终点投射的目标点 $B$ ，然后标记目标点A为新的起点SwitchA，目标点 $B$ 为新的终点SwitchB，并以SwitchA和SwitchB为输入变量转而执行 $\\mathbf { A } ^ { * }$ 路径规划算法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 仿真结果与分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本节主要对传统A\\*算法、时效 $\\mathbf { A } ^ { * }$ 算法、双向时效A\\*算法在不同地图环境下进行对比实验，实验平台为MATLABr2016a,以路径规划结果、路径长度、算法运行时间为评价指标进行算法优劣的评价。本文首先实现了三种算法，并运用实现的算法在不同地图环境下的路径规划结果进行实验得出数据；然后对三种算法的路径长度、算法运行时间等实验结果进行对比分析；最后根据不同近邻下双向时效算法的实验结果，并结合其余两种算法进行研究与分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1路径规划结果对比分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先对三种算法在不同地图环境下的路径规划结果进行实验与分析，本文设置五种地图环境，其中前三种为小地图环境，包括单障碍物、多障碍物和圆形障碍物等情况，其大小为100$\\times 1 0 0 \\mathrm { d p i }$ ；后两种为大地图环境，包括圆形障碍物和混合障碍物情况，其大小为 $5 0 0 \\times 5 0 0 ~ \\mathrm { d p i }$ 。设置机器人起点为[10,10],小地图环境终点为[95,95]，大地图环境终点为[450,450]。其路径规划实验结果如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e77bb98874d9c8fcfeb813c3c0cb76dec9523cec620f278eee5d7aa76ecfb3e.jpg",
+        "img_caption": [
+            "图2不同算法路径规划结果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2中显示了传统A\\*算法、时效 $\\mathbf { A } ^ { * }$ 算法、双向时效 $\\mathbf { A } ^ { * }$ 算法的路径规划对比结果，在小地图环境下，图2(a)(c)的改进算法规划路径结果比其余两种算法规划路径结果更优越，并减少了不必要的行走路径；图2(b)中改进算法规划路径与其余两种算法规划路径略优，且锯齿过多。在大地图环境下，图2(d)的改进算法规划路径比其余两种算法更优越，且弯折较少，虽然时效 $\\mathbf { A } ^ { * }$ 算法规划路径亦合理，但规划路径距离障碍物过近，不适合机器人行走；图2(e)的改进算法路径并避开了方形障碍物的转折点，使得比其余两种算法规划路径更加合理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2中改进算法路径在大多数地图环境下比其余两种算法更加合理、有效，但是其锯齿仍然过多，故通过第二步改进，即替换原搜索矩阵 $M _ { 8 }$ 为近邻搜索矩阵 $M _ { \\scriptscriptstyle { 1 6 } }$ 、 $M _ { 3 2 }$ 和 $M _ { 5 6 }$ ，其实验结果如图3和4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ad3e242e8461b3eb9b5e05e693f857fce93d90e122f00dddf0b7ee92a9d311c.jpg",
+        "img_caption": [
+            "图3多近邻路径规划结果对比（小地图环境)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8近邻 56近邻 。 起点 。 起点 100 。 终点 100 ○ 终点 路径 路径   \n200 200 房 400 400 5 5 500 500 100 200 300 400 500 100 200 300 400 500 房间距离Y 房间距离Y 8近邻 56近邻 L O 起点 。 起点   \n200 100 r 风回 200 100 r   \n房300 房 300 400 400 500 500 100 200 300 400 500 100 200 300 400 500 房间距离Y 房间距离Y ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因篇幅有限，图3和4仅对比双向时效 $\\mathbf { A } ^ { * }$ 算法（8近邻）和双向时效 $\\mathbf { A } ^ { * }$ 算法（56近邻）的路径规划结果。从图3和4可以看出，经过替换多近邻搜索矩阵后的双向时效 ${ \\boldsymbol { \\mathrm { A } } } ^ { * }$ 算法比原双向时效 $\\mathbf { A } ^ { * }$ 算法路径更加平滑，无过多弯折，并有效的避开了障碍物，在图3的地图二环境中，多近邻改进后的算法重新规划处一条与原算法完全不同的更优路径，亦达到了路径平滑的要求。综上所述，本文改进算法可以完整的规划出一条比其余两种算法更优更平滑的路径结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2算法效率与路径长度对比分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文以算法效率、路径长度为评价指标来判定本文改进算法的路径规划结果是否达到最优最短路径的要求。通过上节对三种算法的对比实验，可以得出传统 $\\mathbf { A } ^ { * }$ 算法、时效 $\\mathbf { A } ^ { * }$ 算法、双向时效A\"算法的算法效率以及路径规划长度结果，如图5\\~7所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/406e4495bd85e0b42ddb71374e6bb02f8ef46773b9344ab4d0cfff6a2f34d347.jpg",
+        "img_caption": [
+            "图5算法效率对比结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5显示了三个不同算法的运行时间对比，可以明显看出，传统A\"算法规划路径时间过长，而时效A\"算法在原算法基础上明显减少了算法运行时间，本文改进算法在大多数地图情况下提升了算法效率，但在地图五情况下，算法运行时间较时效A\\*算法高。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/543fd7918ea77f1e6df3d195ae98f2431a8291e4f1c7c42054cb5b5d8f21852d.jpg",
+        "img_caption": [
+            "图4多近邻路径规划结果对比（大地图环境）",
+            "图6多近邻算法效率对比结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过多近邻搜索矩阵可以使得每一次遍历栅格数增加而减少算法循环次数，从而减少算法运行时间，同时多近邻搜索矩阵提供更多的路径备选方向，使得路径更加平滑，针对改进后的双向时效 $\\mathbf { A } ^ { * }$ 算法进行替换多近邻搜索矩阵实验，其算法效率实验结果对比如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图6中可以看出，替换多近邻搜索矩阵后的双向时效 $\\mathbf { A } ^ { * }$ 算法比前面几种算法效率更高；在某些地图环境下，32近邻的双向时效A\\*算法要比56近邻的双向时效 $\\mathbf { A } ^ { * }$ 算法的算法效率略高，但算法运行时间总体呈下降趋势；在地图五中，多近邻改进后的双向时效A算法效率得到了明显提高，比时效A\\*算法运行时间更少。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/40625cd4e1273d9c6b2af32b3c1e607fb97312d2a39826066bf118641961615e.jpg",
+        "img_caption": [
+            "图7算法路径长度对比结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图7可以看出，时效 $\\mathbf { A } ^ { * }$ 算法在减少传统A\\*算法运行时间的过程中，也会导致其路径长度的增加，本文改进算法虽然在某些地图情况下，也会在时效 $\\mathbf { A } ^ { * }$ 算法规划路径长度结果上进一步增加，但进过替换多近邻搜索矩阵后的双向时效A算法，其路径规划长度结果呈下降并逐步稳定趋势；最终结果表明，本文改进算法不仅在算法效率上比时效 $\\mathbf { A } ^ { * }$ 算法更高，而且还解决了时效A\\*算法为了提高算法效率而增加路径规划长度的问题，并小幅减少传统 $\\mathbf { A } ^ { * }$ 算法的路径规划长度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 小结 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本节对传统 $\\mathbf { A } ^ { * }$ 算法、时效 ${ \\mathbf A } ^ { * }$ 算法和双向时效 $\\mathbf { A } ^ { * }$ 算法在五种不同地图环境下，以路径规划结果、算法效率及路径长度为评价指标进行了仿真实验与结果分析，最终得出表1的实验结果。表1中列举了三种不同算法的算法效率以及路径长度结果对比，并计算了其算法效率减少百分比以及路径规划结果减少百分比。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表1中可以看出，本文改进算法比原作者算法在算法效率上最少提升了 $14 . 4 \\%$ ，最大提升了 $5 5 . 4 \\%$ ；在规划路径结果中，本文改进算法相对于原作者算法最大减少了 $5 . 2 \\%$ 的路径长度。综上所述，多近邻改进后的双向时效 $\\mathbf { A } ^ { * }$ 算法在规划路径过程中，相对于其余两种算法，在保证路径最优的情况下，不仅有效、合理的减少了算法运行时间，而且解决了时效 $\\mathbf { A } ^ { * }$ 算法的路径长度增加问题，在替换多近邻矩阵后的算法路径规划结果有效减少了路径的弯折过多的问题，路径平滑可靠，使得改进后的双向时效A\\*算法在路径规划中的应用更加具有可靠性和稳定性。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4266f2275f61059b4b53255cfb8ecc69612ab2e71f41bd49b8cc00e9c436c1f.jpg",
+        "table_caption": [
+            "表1算法路径长度对比结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">地图编号</td><td colspan=\"2\">传统 Astar 算法</td><td colspan=\"2\">时效Astar 算法</td><td colspan=\"2\">双向时效 Astar 算法</td><td colspan=\"2\">结果对比</td></tr><tr><td>算法效率/s</td><td>路径长度/m</td><td>算法效率/s</td><td>路径长度/m</td><td>算法效率/s</td><td>路径长度/m</td><td>减少时间</td><td>减少长度</td></tr><tr><td>1</td><td>0.121</td><td>1.267</td><td>0.053</td><td>1.267</td><td>0.028</td><td>1.244</td><td>46.8%</td><td>1.8%</td></tr><tr><td>2</td><td>0.233</td><td>1.442</td><td>0.183</td><td>1.442</td><td>0.110</td><td>1.377</td><td>40.1%</td><td>4.5%</td></tr><tr><td>3</td><td>0.164</td><td>1.378</td><td>0.115</td><td>1.394</td><td>0.010</td><td>1.345</td><td>55.4%</td><td>3.5%</td></tr><tr><td>4</td><td>27.949</td><td>7.101</td><td>18.636</td><td>7.134</td><td>9.950</td><td>6.888</td><td>46.6%</td><td>3.5%</td></tr><tr><td>5</td><td>44.130</td><td>7.814</td><td>32.952</td><td>7.884</td><td>28.195</td><td>7.473</td><td>14.4%</td><td>5.2%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文针对时效 $\\mathbf { A } ^ { * }$ 算法进行改进研究，时效 $\\mathbf { A } ^ { * }$ 算法在传统A\\*算法的基础上使得算法的效率提高，但是也导致了路径距离增大的问题，同时规划路径的弯折过多不够平滑；双向时效 $\\mathbf { A } ^ { * }$ 算法在原时效 $\\mathbf { A } ^ { * }$ 算法进行了两处改进：首先改进了算法的流程，使得时效 $\\mathbf { A } ^ { * }$ 算法从起点、终点开始同时搜寻路径，从而进一步提高了算法效率；然后替换原8近邻搜索矩阵为多近邻搜索矩阵，使得路径备选方向增加，路径规划结果弯折明显减少，亦解决了时效 $\\mathbf { A } ^ { * }$ 算法在路径规划中距离增加的问题。故基于时效 $\\mathbf { A } ^ { * }$ 算法改进的双向时效A\\*算法在路径规划结果、算法效率和路径长度上相较前两种算法都具有明显的优点，其路径规划结果可靠性高，可以合理地应用于机器人路径规划中。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文下一步将针对以下方向继续进行研究，其一是在距离障碍物多少距离前标记目标点为SwitchA和SwitchB，此处应可以定义一种评判准则来进行判定；其二是可以考虑不同地图环境来决定不同近邻的搜索矩阵。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]徐飞．基于改进人工势场法的机器人避障及路径规划研究[J].计算机 科学，2016,43(12):293-296.   \n[2] 徐腾飞，罗琦，王海．基于向量场的移动机器人动态路径规划[J].计 算机科学,2015,42(5):237-244.   \n[3] 郑健，黄敏，张腾，等．求解指路标志指引路径规划问题的改进人工蜂 群算法[J].计算机应用研究,2017,34(8):2355-2359.   \n[4]Sariff N,Buniyamin N.An overview of autonomous mobile robot path planning algorithms [C]//Proc of the 4th Student Conference on Research and Developmen. 2006:183-188.   \n[5]Wang H, Zhou J, Zheng G,et al.HAS: hierarchical A-star algorithm for big map navigation in special areas [C]// Proc of the 5th International Conference on Digital Home.2014: 222-225.   \n[6]Lv M, Gao T, Zhang N. Research of AGV scheduling and path planning of automatic transport system [J]. International Journal of Control and Automation,2016,9(4): 1-10.   \n[7]李冲，张安，毕文豪．单边矩形扩展 A\\*算法[J].机器人,2016,39(1): 46-56.   \n[8]刘大瑞，钱程，林涛.基于多目标 $\\mathbf { A } ^ { * }$ 算法的游戏NPC 路径规划[J].计 算机应用研究,2014,31(8):2279-2282.   \n[9]Guruji A K,Agarwal H,Parsediya D K. Time-efficient $\\mathbf { A } ^ { * }$ algorithm for robot path planning [J].Procedia Technology,2016,23 (3):144-149.   \n[10]辛煜，梁华为，杜明博，等．一种可搜索无限个邻域的改进 $\\mathbf { A } ^ { * }$ 算法[J] 机器人,2014,36(5):627-633.   \n[11]Fernandes E,Costa P,Lima J,et al. Towards an orientation enhanced $\\mathbf { A } ^ { * }$ algorithm for robotic navigation [C]// Proc of IEEE International Conference on Industrial Technology.2015:3320-3325.   \n[12] Ueland E S,Skjetne R,Dahl AR.Marine autonomous exploration using a lidar and SLAM[Cl//Proc of the 36th International Conference on Ocean, Offshore and Arctic Engineering-Volume 6: Ocean Space Utilization. American Society of Mechanical Engineers.2017. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,387 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201604040608 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐继洪,程云霞,罗礼智,张蕾,江幸福.基于 Maxent模型的不同气候变化情景下我国草地螟越冬区预测.生态学报,2017,37(14):4852-4863.TangJH,oechange scenarios.Acta Ecologica Sinica,2017,37(14）:4852-4863.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于Maxent模型的不同气候变化情景下我国草地螟越冬区预测",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐继洪1,²，程云霞}，罗礼智¹，张 蕾},江幸福，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 植物病虫害生物学国家重点实验室,中国农业科学院植物保护研究所,北京100193  \n2中国热带农业科学院环境与植物保护研究所，海口571101",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：草地螟(Loxostege sticticalis L.)是我国华北、东北和西北地区农牧业生产的重大害虫,其每年暴发成灾的程度及造成的经济损失与越冬虫源基数或面积密切相关,但我国草地螟主要越冬区的变化规律至今尚未见报道。为了阐明全球气候变化条件下我国草地螟越冬区的变化规律,以1951—2000 年我国草地螟越冬场所及面积为基础,结合政府间气候变化专门委员会(IPCC)第五次评估报告发布的BCC-CSM1.1气候模式数据,采用最大熵（Maxent)模型预测了4种气候变化（RCP2.6,4.5，6.0和8.5)情景下 2050s 及2070s我国草地螟越冬区的变化情况。研究结果:1)训练数据集和测试数据集的受试者工作特征曲线下的面积(AUC)分别为0.989和0.987,表明模型的模拟精度很好。2)经Jackknife方法检验,降雨量变化方差bio_15是最重要的变量,最湿月份降雨量bio_13次之,最后为10月份降水量prec_10及年温变化范围bio_7。这些环境变量对模型的贡献率均超过 $10 \\%$ ,是模型构建最重要的环境变量。3)在各种气候变化情景下,到2050s及2070s我国草地螟的越冬区面积和位置相对于当前都有不同程度的扩大和北移。其中高适宜越冬区面积为当前的1.41—2.94倍,其质心位置向北移动78.79— $2 2 6 . 9 7 ~ \\mathrm { k m }$ 。这些结果表明,我国未来草地螟越冬场所将会扩大和北移。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：草地螟；Maxent模型；越冬区预测；气候变化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Maxent-based prediction of overwintering areas of Loxostege sticticalis in China under different climate change scenarios ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TANG Jihong1,²，CHENG Yunxia',LUO Lizhi1， ZHANG Lei’， JIANG Xingful, \\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1StateKeyLbotofoftDisedsetststuteoftroteonedeofrcuuale 100193，China 2EnvironmentandPlantProtection Institute，Chinese Academyof TropicalAgricultural Sciences，Haikou5711o1，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The bet webworm，Loxostege sticticalis L.（Lepidoptera:Crambidae）isa destructive insect pest of cropsand fodderplants in northern China.Thedegree ofannual outbreaksofthelarval populationduring the breeding season is highly related tothe sizeand locationof theoverwintering areafor hibernating larvae,buthowthisrelationshipwill change in the future remains unknown. Therefore，variations in the size and location of the overwintering area of $L$ ， sticticalis were studied torevealchangesunder various scenarios of global climate change.This wasaccomplished using overwintering data of $L$ sticticalis in China from1951to2000,combined withtheapplicationofthe Maxent modelandthe BCC-CSM1.1climate change modeling data under four scenarios of RCP,2.6,4.5,6.0and8.5,released by IPCC AR5.Our results showed that the AUC（area under thereceiver operating characteristic curve）valuefor the training and testdata were O.989 and 0.987, respectively,indicating thedatafit themodelverywell.Inadition,the most importantvariableinthe modelasdetermined bythe jackknifetestwasthevarianceintheprecipitationcoefcient（bio_15）,folowedbyprecipitationduringthe wetest month（bio_13），precipitationinOctober（bio_10），andannual temperaturerange（bio_7）.Their individual contribution to the model was greater than $10 \\%$ each.Finally,the centroid of the highly suitable overwintering location would be shifted 104.93—207.47 km and78.79—26.97 km northward，whereas thesizeof thearea would expanded to1.41—2.00 and 1.94—2.94 fold by the 205Os and 2O70s，respectively，compared to those at the present time. 5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Loxostege sticticalis；Maxent model；overwintering acreage and location forecasting；climate change ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "草地螟是我国华北、东北和西北(三北)地区一种重要的农牧业害虫,曾多次暴发成灾并造成重大经济损失[1,2]。从建国以来至2000 年我国草地螟的主要越冬区分布在 $3 8 ^ { \\circ } - 4 3 ^ { \\circ } \\mathrm { N } , 1 0 8 ^ { \\circ } - 1 1 8 ^ { \\circ } \\mathrm { E }$ 之间的农牧交错地区，这片区域海拔较高( $\\mathrm { ~ \\ ' ~ } 1 0 0 0 { - } 1 6 0 0 \\mathrm { ~ m } ,$ ),而从行政区划方面来看，主要囊括山西北部,河北北部和内蒙古中西部地区[3-5]。而在东北草地螟一代常发区,某些年份也有一定数量的越冬虫源,但没有形成稳定的越冬区[6-8]。草地螟必须以老熟幼虫在土壤中做茧滞育的方式来越过严寒的冬季,这是其年生活史中较薄弱的一环,因而能否顺利越冬及越冬基数的大小将会直接影响到来年草地螟是否发生及发生的程度。罗礼智等根据2003 年我国草地螟2幼虫代发生严重,并在较广阔的区域留下大量越冬虫源的情形,成功预测了2004 年我国草地螟一代幼虫的大发生[9]。而 2005 年我国草地螟二代幼虫发生较轻,面积较小,因而该年草地螟的越冬区、越冬基数较小,根据这种形势,罗礼智等预测 2005年我国草地螟一代幼虫发生程度较轻,和当年实际的发生情况相符[10]。通过生产实践已经证明我国草地螟一代幼虫的发生程度和越冬区以及越冬基数的大小有着密切的联系,因而能否准确的预测草地螟越冬区和越冬基数的大小将在一定程度上决定能否准确预测草地螟一代幼虫的发生程度。而目前国内对草地螟越冬区的预测却鲜有研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着全球气候的变暖,我国草地螟的越冬区也有了一些新的变化,2008 年草地螟二代幼虫在我国三北地区大暴发,其发生范围和发生程度都为历年历次之最,而随后二代幼虫留下的大量虫源又成功在东北地区越冬,并成为次年当地越冬代成虫大发生的主要虫源[1]。同样是二代幼虫大发生的次年,2009 年春在新疆和田地区海拔 $4 0 0 0 \\mathrm { ~ m ~ }$ 以上的昆仑山脉调查到了草地螟越冬幼虫[1]。这些变化和气候变化应该存在某种联系。草地螟的越冬地是草地螟种群的庇护所,其适宜的环境条件为草地螟顺利度过冬季提供了保证。而同时草地螟的越冬地也将是草地螟幼虫生长发育繁殖的较为适宜的场所。越冬区的大小和位置在一定程度上会影响到草地螟越冬虫源的数量和质量，从而进一步影响的次年草地螟发生的数量和位置。随着气候的变化,世界范围内很多物种都有相应的变化,较为一致的结论是随着气候的变暖,物种的分布区向着高纬度以及高海拔的方向移动[1-14]。草地螟在我国的越冬区呈现的这些变化和其他物种的变化趋势较为一致。而随着气候的进一步变化,我国草地螟的越冬区将会如何变化？这对我国未来草地螟的防治工作将会有重大的影响。本文将结合目前通用的物种分布模型(Maxent)和不同气候变化情景数据对我国草地螟越冬区在21世纪50年代及70 年代的变化情况进行研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1草地螟越冬地分布数据点来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "草地螟越冬地分布数据收集于目前发表过的期刊论文,会议论文,学位论文,相关省地植保站及全国农技推广中心相关草地螟越冬调查文件等[2.45,15-20]。在越冬地分布数据处理中去除了部分范围较大,模糊不清的,重点采用具有明确经纬度标记,以及位置能精确到乡镇一级的记录,并通过这些地名在谷歌地图上查出相应位置,并利用其提供的经纬度工具查询记录地所在位置的经纬度。并将经度及纬度两者之间相差都不超过$0 . 1 6 6 6 6 6 6 7 ^ { \\circ }$ 的记录点只保留经度及纬度最小的点,以避免在分析时同一栅格内出现多个记录点。经过整理最终获得114个有效的草地螟主要越冬记录数据点（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2环境数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文根据草地螟的生物学习性,选取了草地螟越冬期间1—4月及9—12月的温度(平均最高气温，平均最低气温及平均气温)和降水的相关气候因子以及如表1所示的19个生物气候学因子、以及海拔高度做为模型预测的环境数据。1951—2000年50年间每月的平均气温，平均最高气温,平均最低气温以及平均降水量，海拔高度等及19个生物气候学指标作为草地螟当前越冬区的环境数据。2041—2060和2061—2080两个未来时间段的相应气候指标作为预测越冬区分布的环境数据。所有的环境数据均下载于Worldclim（http://www.worldclim.org)网站，各变量的空间分辨率为10arc-min（ $\\mathrm { \\Phi } \\approx 1 8 \\mathrm { k m } ^ { \\mathrm { \\prime } }$ ）。2050s和2070s两个未来时间段的相应环境数据采用政府间气候变化专门委员会（IPCC)第五次气候评估报告发布的BCC-CSM1.1气候模式4种不同气候变化情景(RCP2.6、RCP4.5、RCP6.0 和RCP8.5)数据。RCPs（Representative Concentration Pathways）情景为IPCC第5次评估报告开发的以本世纪末的辐射强迫大小命名的气候变化新情景，共包括4种典型情景（RCP2.6、RCP4.5、RCP6.0和RCP8.5，RCP2.6代表到2100 年辐射强迫大小达到 $2 . 6 \\mathrm { W } / \\mathrm { m } ^ { 2 }$ 的温室气体排放量,其他以此类推,分别代表温室气体排放量低,中低,中高和高4种情景)。与前人研究常采用的温室气体排放情景（Special Report on Emissions Scenarios，SRES）相比,RCPs 情景进一步考虑了应对气候变化的各种策略对未来温室气体排放的影响,因而更科学地描述了未来气候变化的预估结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/955ceb0483c3e8604e2b910bae8dce18d6fc8fb60c72dd0408e0bfeb458ce133.jpg",
+        "img_caption": [
+            "图1我国草地螟主要越冬区越冬点分布情况（图中的小黑点代 表越冬点) Fig.1Distribution of overwintering points for L. sticticalis in China（dark dots in the figure represent overwintering points) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7aad10001cb1c058de945329354b5ada776d6596a11e5828457b77f5bc8ca09.jpg",
+        "table_caption": [
+            "表1相关环境变量名称及描述",
+            "Table1 Description of environmental variables "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量Variables</td><td>描述 Descriptions</td><td>变量Variables</td><td>描述 Descriptions</td></tr><tr><td>bio_1</td><td>年平均气温</td><td>bio_2</td><td>昼夜温差月平均值</td></tr><tr><td>bio_3</td><td>昼夜温差与年温差比值</td><td>bio_4</td><td>温度变化方差</td></tr><tr><td>bio_5</td><td>最热月份最高温</td><td>bio_6</td><td>最冷月份最低温</td></tr><tr><td>bio_7</td><td>年温变化范围</td><td>bio_8</td><td>最湿季度平均温度</td></tr><tr><td>bio_9</td><td>最干季度平均温度</td><td>bio_10</td><td>最暖季度平均温度</td></tr><tr><td>bio_11</td><td>最冷季度平均温度</td><td>bio_12</td><td>年平均降雨量</td></tr><tr><td>bio_13</td><td>最湿月份降雨量</td><td>bio_14</td><td>最干月份降雨量</td></tr><tr><td>bio_15</td><td>降雨量变化方差</td><td>bio_16</td><td>最湿季度降雨量</td></tr><tr><td>bio_17</td><td>最干季度降雨量</td><td>bio_18</td><td>最暖季度降雨量</td></tr><tr><td>bio_19</td><td>最冷季度降雨量</td><td>alt</td><td>海拔</td></tr><tr><td>tmax_M</td><td>M月平均最高温度</td><td>tmin_M</td><td>M月平均最低温度</td></tr><tr><td>tmean_M</td><td>M月平均温度</td><td>prec_M</td><td>M月平均降水量</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Maxent预测模型构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Maxent 模型（最大熵模型 Maxent $3 . 3 . 3 \\mathrm { ~ k ~ }$ 版本 http://www.cs.princeton.edu/schapire/maxent)是 Phillips 等开发用于模拟给定环境条件下物种出现的概率的物种分布模型[21]。模型输出为一系列概率值的栅格,概率越大,表明该栅格环境条件越适宜于物种生存。最大熵原理是根据已知物种分布点对被预测地域该物种适生性作出最客观的推断，而并不需要无物种分布的数据点。而在历史的记录之中,有物种分布的数据点能够引起人们的高度关注,而无物种分布的情况则相反,因此物种分布的数据往往都是只有有物种分布的存在点的数据。Maxent模型能够用这种只有存在点的物种分布数据来对拟预测的区域该物种存在概率进行很好的预测。模型基于Java语言开发,输入草地螟越冬区分布点文件,并输入ASCII格式的相关环境因子,设置模型参数,便能运行模型,得到相关参数。模型还提供刀切法(Jackknife)检验,能对环境因子贡献率和重要性进行分析,并利用 ROC 曲线(受试者工作特征曲线)评价模型模拟结果的精准度,ROC 曲线下的面积(AUC)越大代表模型模拟效果越好[22]。不同的 AUC 取值对应的含义如下:0.5—0.6预测失败,0.6—0.7预测效果差,0.7—0.8 预测效果一般,0.8—0.9预测效果较好,0.9—1预测效果极好。大量实践证实 Maxent 模型是一种用于评价物种栖息及越冬地适宜性效果较好的物种分布模型[23-28]。 ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将草地螟越冬区分布点数据整理成包含经纬度的csv 文件,导人 Maxent 模型,并将 1951—2000 年期间bio_1-bio_19共19个生物气候学因子、1—4月及9—12月的月平均气温,月平均最高气温,月平均最低气温，月平均降水量及海拔高度等数据导人Maxent模型的环境数据项,再将不同气候变化情景下2050s及2070s 相应的数据导人Maxent模型的预测数据项,选中绘制环境变量响应曲线和环境变量重要性Jackknife检验选项，并设置用于模型随机检验的分布点数据为 $20 \\%$ ,其它参数保持默认值。设置好输出数据的相关路径后运行模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Maxent模型预测效果评价及不同气候变化情景下我国草地螟越冬区变化情况",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对 Maxent 模型输出数据进行评价,根据训练样本及测试样本的 AUC 值判断模型模拟预测效果的好坏。考察各个环境变量对模型的贡献率及重要性。对于输出的草地螟越冬区适合性概率值栅格图层,选取特异性和灵敏度之和最大时的概率值作为区分草地螟越冬区适宜与否的阈值(TH,经过计算本研究中 $\\mathrm { T H } = 0 . 1 0 7$ ）。在 ArcGIS10.1中对所得草地螟越冬区适合性栅格图层运用栅格分类工具Reclass 按照 $0 { \\cdot } \\mathrm { T H } , \\mathrm { T H } { \\cdot } 0 . 5$ 及0.5—1分类成非适宜区、适宜区及高适宜区3类。再运用分类统计工具Zonal计算3类分区的面积以及质心位置。比较适宜区及高适宜区在不同年代及不同气候变化情景下面积和质心位置变化情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 气候变化情况 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对本文所用未来气候预测模拟的BCC-CSM1.1气候模式数据检测发现,无论是2050s还是2070s,我国区域内的气候相对于基准年1951—2000 年的都有所改变。随着温室气体排量的增加,2050s 年均温上升1.5—$3 . 5 \\mathrm { ^ { \\circ } C }$ 不等;2070s年均温上升幅度在 $1 . 5 { \\mathrm { - } } 4 ^ { \\circ } \\mathrm { C }$ 不等，在同一温室气体排量下2070s气温上升的幅度较2050s要大;而北方地区特别是东北地区,年均温的上升幅度高于南方地区（图2)。而年降水量的变化则较不规则,全国大部分地区在2050s及2070s年降水量将会有所增加,但是新疆地区,华北平原区以及西南地区则在一定程度上年降水量将会减少（图3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2Maxent模型的预测评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图4所示,训练数据集和测试数据集 ROC曲线下的面积AUC 分别为0.989 和0.987,和1非常接近,在模型的建立过程中，随机选取了 $8 0 \\%$ 的数据点作为训练数据集，建立了预测模型，对未参与模型构建的 $2 0 \\%$ 的数据点进行检验,发现其符合度较高,表明模型的模拟效果较好。Jacknife 的检验结果表明,在去除一个变量后\"gain\"值下降最多的是降雨量变化方差bio_15,也就是说 bio_15 变量中包含了更多其他变量没有的信息,是最重要的变量（图5）。其次,最湿月份降雨量bio_13、10月份降水量prec_10及年温变化范围 bio_7三个环境变量在模型中的贡献率也较大,都超过了 $10 \\%$ ,而它们的变化情况对成为草地螟越冬区的概率的影响呈现峰形曲线(图9)；而10月份平均最低温 $\\mathrm { t m i n } _ { - } 1 0$ 、温度变化方差bio_4、海拔高度alt、最暖季度降雨量bio_18、二月份降水量 prec_2、3月份平均最低温 tmin_3、3月份平均最高温tmax_3、2月份平均最低温tmin_2、最干季度降雨量bio_17、最湿季度降雨量bio_16和最湿季度平均温度bio_8等11个环境变量的贡献率也都超过了 $1 \\%$ ,这些变量是模型构建比较重要的环境变量(表2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfd0ba134774af97ce32e1947d82a50dcb8c98d7aa84779e5882fabe2a4a2231.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d09aa3b7cf8cfdba4f7509fd2afd1e9c48670a7dc3aaf5accd50df300af747e4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5fb2faea094173edb934adb1285def15f31812982e423f2c1440368617fa839c.jpg",
+        "table_caption": [
+            "表2不同环境变量在模型构建中的贡献率与重要性",
+            "Table 2Percent contribution and permutation importance for environmental variables "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>环境变量 Variable</td><td>贡献率 Percent contribution</td><td>重要性 Permutation importance</td><td>环境变量 Variable</td><td>贡献率 Percent contribution</td><td>重要性 Permutation importance</td></tr><tr><td>alt</td><td>5.7</td><td>11.9</td><td>prec_4</td><td>0.2</td><td>1.2</td></tr><tr><td>bio_1</td><td>0</td><td>0</td><td>prec_9</td><td>0.1</td><td>13.3</td></tr><tr><td>bio_10</td><td>0</td><td>0.6</td><td>tmax_1</td><td>0.9</td><td>0.3</td></tr><tr><td>bio_11</td><td>0</td><td>0</td><td>tmax_10</td><td>0</td><td>0</td></tr><tr><td>bio_12</td><td>0</td><td>0</td><td>tmax_11</td><td>0</td><td>0.2</td></tr><tr><td>bio_13</td><td>12.3</td><td>17.6</td><td>tmax_12</td><td>0</td><td>0</td></tr><tr><td>bio_14</td><td>0</td><td>0</td><td>tmax_2</td><td>0</td><td>0</td></tr><tr><td>bio_15</td><td>19.3</td><td>14.6</td><td>tmax_3</td><td>2.6</td><td>3.8</td></tr><tr><td>bio_16</td><td>1.3</td><td>0.3</td><td>tmax_4</td><td>0</td><td>2</td></tr><tr><td>bio_17</td><td>1.8</td><td>13.1</td><td>tmax_9</td><td>0</td><td></td></tr><tr><td>bio_18</td><td>4.3</td><td>0.5</td><td>tmean_1</td><td>0.2</td><td>0</td></tr><tr><td>bio_19</td><td>0.3</td><td>0.2</td><td>tmean_10</td><td>0</td><td>0.1 0</td></tr><tr><td>bio_2</td><td>0</td><td>0</td><td>tmean_11</td><td>0.2</td><td>0.1</td></tr><tr><td>bio_3</td><td>0</td><td>0</td><td>tmean_12</td><td>0</td><td>0.1</td></tr><tr><td>bio_4</td><td>7.4</td><td>0.5</td><td>tmean_2</td><td>0.2</td><td>0.1</td></tr><tr><td>bio_5</td><td>0.2</td><td>0.7</td><td>tmean_3</td><td>0</td><td>0.9</td></tr><tr><td>bio_6</td><td>0.1</td><td>0.1</td><td>tmean_4</td><td>0</td><td>0</td></tr><tr><td>bio_7</td><td>10.1</td><td>0.9</td><td>tmean_9</td><td>0</td><td>0</td></tr><tr><td>bio_8</td><td>1.1</td><td>15.7</td><td>tmin_1</td><td>0 colc</td><td>0</td></tr><tr><td>bio_9</td><td>0</td><td>0</td><td>tmin_10</td><td>8.8</td><td>0</td></tr><tr><td>prec_1</td><td>0</td><td>0</td><td>tmin_11</td><td>0</td><td>0</td></tr><tr><td>prec_10</td><td>12</td><td>0.4</td><td>tmin_12</td><td>0.1</td><td>0.8</td></tr><tr><td>prec_11</td><td>0</td><td>0.2</td><td>tmin_2</td><td>2.6</td><td>0.9</td></tr><tr><td>prec_12</td><td>0</td><td>0.2</td><td>tmin_3</td><td>3.7</td><td>0.2</td></tr><tr><td>prec_2</td><td>4.2</td><td>0 1</td><td>tmin_4</td><td>0.2</td><td>0.3</td></tr><tr><td>prec_3</td><td>0</td><td>0</td><td>tmin_9</td><td>0</td><td>0.2</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "刀切法检验的步骤是先去除某个变量，再计算剩余变量构建模型的“gain\"值,以及计算只有这个变量时构建模型的\"gain”值,同时还计算包括所有变量时构建模型的“gain”值。通过比较这些“gain”值的变化情况来确定该变量的重要性，去除某个变量后“gain”值减少越多，该变量在模型构建中作用越大，贡献率越高",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3气候变化下草地螟越冬区空间格局变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Maxent模型输出的我国草地螟当前越冬区位于山西北部、河北张家口以及内蒙古乌兰察布盟(图6)；这和我国草地螟目前越冬区的范围是一致的。而在不同气候变化情景下,我国草地螟的越冬区位置相对于当前都有一定程度的北移。在2050sRCP4.5及RCP6.0情景模式下我国草地螟越冬区将会完全移出山西及河北北部，并全部落在内蒙古境内；而2070s我国草地螟越冬区在不同气候变化情景下相对于2050s面积有所扩大,特别是高适宜越冬区的面积扩张明显(图6)。由于越冬区的边缘并不规则和整齐，因而采用越冬区的质心来表征其位置的变迁更形象直观和具有代表性。对草地螟的适宜越冬区质心变化分析表明：2050s及2070s我国草地螟适宜越冬区的质心在未来不同气候变化情景下较当前越冬区的质心位置都有一定程度的北移，经过计算其经向距离为 $9 3 . 0 8 {  { - } } 2 3 0 . 4 2 ~ \\mathrm { k m }$ 不等；其中2070sRCP2.6情景下草地螟适宜越冬区质心经向北移距离最短为 $9 3 . 0 8 ~ \\mathrm { k m }$ ；而 $2 0 5 0 \\mathrm { s } { \\mathrm { ~ R C P ~ } } 8 . 5$ 情景下草地螟适宜越冬区质心经向北移距离最长为 $2 3 0 . 4 2 ~ \\mathrm { k m }$ ；同一气候变化情景下草地螟适宜越冬区质心2050s较2070s位置更靠北( $\\mathrm { R C P ~ } 6 . 0$ 除外,图7B)。对草地螟的高适宜越冬区质心变化分析表明：不同气候变化情景下我国草地螟高适宜越冬区质心在2050s及2070s相对于当前的高适宜越冬区质心位置有 $7 8 . 7 9 - 2 2 6 . 9 7 \\ \\mathrm { k m }$ 不等的经向北移;2070sRCP2.6情景下高适宜越冬区的质心相对于当前位置移动距离最小，为 $7 8 . 7 9 \\ \\mathrm { k m }$ ;而2070s$\\mathrm { R C P } ~ 8 . 5$ 情景下高适宜越冬区的质心相对于当前位置移动距离最大,为 $2 2 6 . 9 7 ~ \\mathrm { k m }$ （图7A）。 1",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd7952865f3727ccac5c1c5c34ae0c7a67a4f9b494a0ac91a4f9269797deb005.jpg",
+        "img_caption": [
+            "图4Maxent模型ROC曲线Fig.4ROC curve of Maxent model"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4气候变化下草地螟越冬区面积变化",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图8所示，随着温室气体排量的上升，不同气候变化情景下我国草地螟的越冬区面积有所增长，而高适宜越冬区面积增长较为明显。当前气候条件下我国草地螟越冬区的面积通过Maxent模型预测的是36.61万$ { \\mathrm { k m } } ^ { 2 }$ ;其中,高适宜越冬区 $1 2 \\ \\overline { { \\mathcal { H } } } \\ \\mathrm { k m } ^ { 2 }$ ,适宜越冬区24.61万 $\\mathrm { k m } ^ { 2 }$ 。草地螟越冬区面积在2050s不同气候变化情景下变化不大，但是高适宜越冬区的面积变化则较为明显，随着温室气体排量的增加，高适宜越冬区面积不断增长;2050s在RCP8.5气候变化情景下高适宜越冬区面积最大为24.08万 $\\mathrm { k m } ^ { 2 }$ ，为当前的2.00倍，在RCP2.6下最小为16.97万 $\\mathrm { k m } ^ { 2 }$ ,为当前的1.41倍（图8A）。2070s草地螟越冬区面积在不同气候变化情景下变化较大,最高值出现在 $\\mathrm { R C P ~ } 6 . 0$ 气候变化情景下，达到了59.92万 $ { \\mathrm { k m } } ^ { 2 }$ ,是当前气候条件下的1.64倍;高适宜越冬区面积的最大值也出现在 $\\mathrm { R C P } ~ 6 . 0$ 气候变化情景下为35.28万 $ { \\mathrm { k m } } ^ { 2 }$ ,是当前的2.94倍,最小值出现在RCP 2.6下为23.33万 $ { \\mathrm { k m } } ^ { 2 }$ ,是当前的1.94倍。2070s其它气候变化情景下高适宜越冬区的面积较当前也有比较明显的增长（图8B）。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbddee7f8022bf324ab3daa404e881aab3002671c55ee759e20bc52646f9997d.jpg",
+        "img_caption": [
+            "图5环境变量刀切法检验",
+            "Fig.5Jackknife test for environmental variables "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究通过收集和整理我国草地螟目前有记录的越冬点,并作为Maxent 模型预测的存在点数据,结合IPCC 第五次评估报告发布的 BCC-CSM1.1模式4种代表性气候变化情景数据（RCP 2.6、RCP4.5、RCP 6.0及tribution map of Overwintering area of L.sticticalis during 2050s and 2070s under diferent climate ch",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/298944975cc21b07a34202b3c491d59f3fe9e77aac13737e9eeab84d07ae2172.jpg",
+        "img_caption": [
+            "图6不同气候变化情景下2050s和2070s我国草地螟越冬区分布情况图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/59fc6b99a21b5519e4a90ff543480de88e2687ddc96c2ae8d54378483f58a7e6.jpg",
+        "img_caption": [
+            "图7不同气候变化情景下2050s和2070s我国草地螟高适宜越冬区（A)与适宜越冬区（B)质心分布情况图（图中质心位置旁边的数字代 表该点位置相对于当前质心点位置的经向距离) Fig.7Centroidsdistributionofhighlysuitableoverwinteringarea（A）andsuitableoverwinteringarea（B）forLsticticalisinChina during2050sand2070sunderdiferentclimatechangescenario（Numbersbesidethemarkofcentroidrepresentthelongitudinaldistances between the mark and current centroid) "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "RCP 8.5）对我国草地螟在2050s及2070s越冬区的分布情况进行了预测。所建立的预测模型预测的模拟较好,对目前草地螟越冬区的预测结果和实际情况符合度较高。而预测模型中贡献率最大的几个因子则有降雨量变化方差bio_15、最湿月份降雨量bio_13,10月份降水量prec_10及年温变化范围bio_7;从响应曲线上看，降雨量变化方差bio_15在100—120之间时,成为草地螟越冬区的概率最大,降雨量变化方差则是代表一年中降雨量的各月份的变异性,变化越大,其值越大。最湿月份降雨量bio_13在 $1 0 0 ~ \\mathrm { { m m } }$ 左右时,成为草地螟越冬区的概率值最大。草地螟在我国目前分布于三北地区,这一带属于半干旱半湿润地区,一定量的雨水能够",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9072660c68e12f50241c83a4adddf927cf715722b13efe8464ddef9b1c4ba4d.jpg",
+        "img_caption": [
+            "图82050s及2070s不同气候变化情景下我国草地螟越冬区面积变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.8Overwintering area variation of $\\pmb { L }$ ，sticticalis in China in 205Os and 207Os under different climate change scenario促进其寄主植物的生长,从而为其生长发育提供食物。然而降水量太大反而对其生长发育不利,有研究表明在暴雨过后草地螟的虫口数量急剧降低[29]。10 月份降水量prec_10 在0— $5 0 \\mathrm { m m }$ 之间时,成为草地螟越冬区的概率值较大(图9);10月份草地螟老熟幼虫已经进入滞育状态进行越冬,并且时间还不久,这时适量的降水量有助于保持土壤的湿度,从而有利于草地螟顺利越冬。年温变化范围bio_7在40一 ${ \\boldsymbol { - 5 0 } } \\mathrm { { \\% } }$ 范围内时，成为草地螟越冬区的概率较大,要出现这种温度变化范围,则需要夏季温度相对较高而冬季温度相对较低。草地螟滞育幼虫的过冷却点大概为 $- 2 5 . 8 4 ^ { \\circ } \\mathrm { C }$ [30],冬季的气温低于这个温度那么草地螟将面临体液大量结冰从而死亡不能安全越冬的危险。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/19d93bf815baae7cc52e1992697ea8684836c1d1a0f74377f2a6becb2f652b65.jpg",
+        "img_caption": [
+            "图9重要环境因子响应曲线",
+            "Fig.9Response curves of some important environmental variables "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "草地螟是一种迁飞性的农牧业害虫,其扩散能力较强,东北、华北和西北的广大区域都有它们的发生危害甚至成灾。而其生活史中也存在薄弱的一环,那就是必须靠滞育的方式来度过严寒的冬季。而其生理上的理化性质决定其越冬的地点冬季的温度不能低于其过冷却点也就是 $- 2 5 . 8 4 ^ { \\circ } \\mathrm { C }$ ；同时温度也不能太高，否则滞育幼虫可能打破滞育而变得较为脆弱,不能安全度过冬季。草地螟越冬区的形成是各种因素综合作用的一个结果。首先要有足够的越冬虫源,也就是二代幼虫要大量发生,并且在环境条件的作用下进入滞育状态,再者当地冬季的气温降水等条件需要适宜草地螟越冬幼虫的存活;还有土壤理化性质,土壤中的微生物以及草地螟的天敌等多种因素都会对草地螟越冬产生影响,种种因素相互影响,是一个复杂的过程。而 Maxent 模型正是能将各种复杂的因素融合起来,从中找出一些共性的因子从而建立一个较为完善的解释模型。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "按照 IPCC 第五次评估报告发布的 2050s及2070s BCC-CSM1.1模式的4种气候变化情景数据进行预测，我国草地螟越冬区将会较当前在面积上有所增长并且位置上有向北移动的趋势。更大的越冬区将能承载更大的越冬基数,因而在未来草地螟的种群数量可能较当前有更大增长，其暴发成灾的可能性会更大,其防控任务也将会更加艰巨。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "［1］罗礼智，黄绍哲，江幸福，张蕾.我国 2008年草地螟大发生特征及成因分析.植物保护，2009,35(1)：27-33.  \n[2］陈晓，翟保平，宫瑞杰，尹明浩，张友，赵奎军.东北地区草地螟(Loxostege stcticlis)越冬代成虫虫源地轨迹分析.生态学报，2008,，28(4):1521-1535.  \n[3］全国草地螟科研协作组.草地螟(Loxostege stiticatis Linnaeus）发生及测报和防治的研究.病虫测报，1987，（S1）：1-9.  \n［4］陈晓.草地螟迁飞、越冬规律及暴发机制研究[D]．南京：南京农业大学，2010：226-226.  \n[5］孙雅杰，陈瑞鹿.草地螟迁飞、发生区与生活史的研究.华北农学报，1995，10(4)：86-91.  \n[6] 呼伦贝尔盟草地螟研究协作组.草地螟发生规律及预测预报和防治研究.病虫测报，1987，（S1)：70-82.  \n[7] 吉林省草地螟科研协作组.吉林省草地螟发生规律及防治技术研究报告.病虫测报，1987，（S1)：34-52.  \n[8］魏倩，崔万里，杜俊岭，孙明江，赵晓丽，顾成玉，梁艳春，张广芝,李长祥，黄自芳，贾宗谊.黑龙江省草地螟(Loxostgestictcalis)发生规律、预测预报及综合防治研究(1981—1985年).病虫测报，1987，（S1)：98-107.  \n[9］罗礼智.我国 2004年一代草地螟将暴发成灾．植物保护，2004，30（3）：86-88.  \n[10] 罗礼智，屈西锋.我国草地螟 2004 年危害特点及 2005年一代危害趋势分析.植物保护，2005，31（3）：69-71.  \n[11]BelerCultnedekFicFtiatiofeetictsfoigotaeseoefglobal warmingandassessmentof theirsuitabilityascros-taxon indicatorsEcologicalIndicators，2O10,0(2）：341-352.  \n[12]BuizerB，WeijersS，vanBodegomPlsosIG,EidesenPB,anBredaJ，eKrteManRijckevorselJ,ozeaJRangefsdglobalwarmingologicalresposesofEmpetrumnigrumLtoexperimentalwaingatitsnorth（ighArctic）ndsouth（Atlantic）geographical range margin. Environmental Research Letters，2012，7(2）:025501.  \n[13]ColwellR,GrdelusC，anACginobaingevaioaagss，ndlowladottrihetropics.Science，2008,322（5899）:258-261.  \n[14]FremnBGrenAdpslossiairdsltratetrtioalsposoftocaloeiglobal warming.Procedingsofthe NationalAcademyof Sciencesof theUnited Statesof America014，11(12):490-4494.  \n[15] 田绍义，高世金.草地螟滞育性的研究.病虫测报，1987，（S1)：65-69.  \n[16] 陈玉宝，孟正平.乌盟地区草地螟越冬问题探讨.病虫测报，1988，（3)：30-33.  \n[17] 黄绍哲.我国草地螟（Loxostege sticticalis)种群时空动态规律研究[D].北京：中国农业科学院,2010：131-131.  \n[18] 孟正平.草地螟越冬调查技术.植保技术与推广，2003，23(1)：11-12.  \n[19] 内蒙古自治区植保站.内蒙古自治区草地螟发生调查总结(摘要)．病虫测报，1987，（S1)：108-114.  \n[20] 朱世模.山西中部草地螟发生规律及防治研究.山西农业科学，1963，（2)：16-20.  \n[21]Pilpddelifssrtositessieeaatia）:161- 175.  \n22]PhilRi.elarllel/4):231-259.  \n[23］李明阳，席庆，徐海根.基于WEB数据库和 Maxent模型的白头叶猴潜在生境评价研究.林业资源管理，2010,（4)：31-36,57-57.  \n[24]Matyukhina,queleDG,MurznAA,PikuovDG,FomenkoV,ArailevVV,LitvinovkinaG,SeryokinV,olIG,KostyriaAVpovVdinVGusemoEKrkishoG,oJsessing theuenceoftalparametersoAurigdistributioinussanFarEastusingaaxEntodeligoahAceveentsinteLifeies，4（2)：95- 100.  \n[25］徐卫华，罗翀.Maxent模型在秦岭川金丝猴生境评价中的应用.森林工程，2010,26(2)：1-3，26-26.  \n[26］卢辉，钟义海，徐雪莲，卢芙萍，谢贵水，陈青.基于 Maxent 模型的对粒材小蠹的适生性分析.热带作物学报，2013，34（11)：2239-2245.  \n[27］张微，姜哲，巩虎忠，栾晓峰.气候变化对东北濒危动物驼鹿潜在生境影响.生态学报，2016，36(7)：1815-1823.  \n[28］颜文博，王琦，王超.应用 Maxent模型分析秦巴地区朱鹦适宜繁殖地的分布.动物学杂志，2015,50(2）：185-193.  \n[29］李占文，杨学荣,杨文奇,乔生智，王素琴,李国民，于洁,孙耀武，王瑞霞,楼小平，杨振江,孙慧芳.降水对灵武山沙区密集性食叶害  \n[30］李朝绪，罗礼智，潘贤丽.草地螟滞育和非滞育幼虫抗寒能力的研究.植物保护，2006，32（2）：41-44. 虫的影响.陕西林业科技，2003，（4)：64-66. Y",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

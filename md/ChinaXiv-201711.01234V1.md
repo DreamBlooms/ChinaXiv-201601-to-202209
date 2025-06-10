@@ -1,0 +1,238 @@
+# 面向临床决策的电子病历文本潜在语义分析
+
+李国垒」陈先来1,2.3 夏冬4杨荣5
+
+(中南大学信息安全与大数据研究院长沙 410013)  
+2(医学信息研究湖南省普通高等学校重点实验室(中南大学）长沙 410013)  
+3(湖南省高等学校医学大数据 2011协同创新中心 长沙 410013)  
+4(中国科学院成都文献情报中心成都 610041)  
+5(中南大学湘雅医院 长沙 410078)
+
+摘要：【目的】通过对电子病历中重要文本进行语义分析，提取辅助临床治疗方案选择的决策知识，实现电子病历的临床决策支持功能。【方法】使用词典和统计相结合的分词算法，对训练样本中出院记录文本进行分词处理，从中提取临床术语及治疗方案，并对其进行潜在语义分析，找出临床术语与治疗方案之间的潜在语义联系，建立胃癌治疗方案辅助选择的潜在语义模型。【结果】利用测试样本对语义模型进行测试，在三维语义空间内，发现1000 份测试样本中有 605份可以从临床症状的描述准确地推算出其所对应的治疗方案，正确率为 $60 . 5 \%$ 。【局限】仅以出院记录文本为研究对象，没有对其他病历文本进行分词处理。【结论】潜在语义分析方法能够有效地处理临床文本，辅助医生的临床决策，对于电子病历的开发应用具有重要意义。
+
+关键词：电子病历中文文本切分潜在语义分析胃癌临床决策支持治疗方案选择分类号：G350
+
+# 1引言
+
+病历是一种十分重要的医学信息资源。我国卫生信息化进程的加速使得电子病历逐渐普及，而电子病历的价值也越来越受到相关领域专家学者的重视。电子病历中除了结构化数据，还存在大量非结构化数据，既有规范的临床术语，也有不规范的自然语言。从电子病历中提取知识用于临床决策，已成为近年来电子病历应用研究中亟待解决的主要问题之一。
+
+全球胃癌的发病率和死亡率居恶性肿瘤的第2位和第3位，胃癌的诊疗是人们高度关注的研究热点。对每一个胃癌病人而言，合理的个性化治疗方案是提高治愈率和取得良好治疗效果的前提。对于采取何种治疗方案，目前主要还是依靠医生的主观经验。随着电子病历的普及，依据大规模历史病历文本建立临床决策支持系统，辅助医务人员开展临床诊疗工作，对提高胃癌的治疗效果，提高电子病历的使用价值，具有十分重要的意义。
+
+# 2 研究背景
+
+目前，国内在电子病历结构化方面，由于中文语言的特殊性，医护人员通常以自由文本的形式对患者的相关临床信息进行描述。医护人员在使用这些描述性语言时，用词不受约束，可以使用任意词汇、代码或者缩略词。这种方式会造成临床数据共享困难，不利于临床数据的利用和临床医疗决策支持系统的应用。因此国内对于电子病历系统的研究，还是侧重于电子病历系统编辑器的研究，并没有实现具有较强临床决策支持功能的电子病历系统。从电子病历中提取知识，就要使病历内容能被计算机“理解”，而语义分析则是计算机"理解"病历内容的有效方法。
+
+潜在语义分析(Latent Semantic Analysis,LSA)作为一种用于知识获取、归纳和展示的计算理论和方法，具有可计算性强、主观影响因素少等优点[1]。它利用统计学方法对文本集进行处理，从而提取出词的潜在语义结构，这种潜在语义结构即是词语在上下文语境信息的总和。经过20多年的发展，LSA理论与技术已较为完善、成熟，且已被用于处理医学信息,Cohen等利用潜在语义分析法构建了精神病术语的语义空间[2],并探索抽取相关概念之间的语义关系[3]。Ginter等应用潜在语义分析法和隐马尔可夫模型对分割、标识护理文档主题开展研究[4]。Wild 等结合网络分析和潜在语义分析法对医学概念的发展进行研究[5]。Wang等依据病历信息，利用LSA实现了生物医学时间序列的自动聚类[]，Abate 等则依托PubMed 文献数据库，利用潜在语义分析法将生物医学文献中的生物医学术语的相关关系进行量化7。国内甘艳芳等利用LSA计算中医证候间的相关关系[8]；雷蕾等基于中医药文献数据,使用概率潜在语义分析算法研究中药配伍方案，为中药处方发现提供新途径[9]。目前国内主要针对已有的较为规范的临床术语或医学文献主题词语义关系进行研究，还没有对于临床实践应用较多的大量的非规范化临床用语进行相关语义分析的研究。
+
+本文收集了1500份胃肿瘤病例的出院记录，抽取其中的文本作为研究对象。以中国科学院计算技术研究所ICTCLAS分词系统为基础，对出院记录文本的词语切分进行探索，利用中国生物医学文献数据库术语、基于互信息的统计方法对出院记录文本进行分词处理，从中抽取临床术语；制定胃肿瘤治疗方案自动抽取规则，并使用Python编写脚本从出院记录中提取了胃肿瘤治疗方案；利用潜在语义分析方法建立胃肿瘤治疗方案选择决策支持模型，并对其进行评价。在此过程中，构建了临床术语与治疗方案的共现矩阵，并利用NumPy进行矩阵的奇异值分解，得到临床术语和治疗方案在语义空间中的坐标向量，计算出两者之间的相关度，按照相关度大小抽取决策规则，初步完成了胃肿瘤治疗方案选择支持模型的建立，并利用另外的1000份病例记录作为测试样本，完成模型的验证，为临床决策支持系统的开发奠定基础。
+
+# 3研究对象与方法
+
+# 3.1 数据来源
+
+从湖南省多所三甲医院中提取2500份2010年-2014 年间第一诊断为胃癌(ICD-10 编码：C16,D00.2)的病历，随机抽取1500份用于训练，其余1000份用于测试。
+
+病历中的出院记录主要包含住院病情摘要、诊治经过、出院时情况和出院医嘱等模块，是患者完整电子病历的高度浓缩。其中，住院病情摘要模块详细记录了患者住院时的临床症状及检查检验结果，诊治经过模块中详细记录了患者的整个诊治过程。患者出院记录部分内容示例如图1所示：
+
+中年男性，腹胀半年。体查：体温36.5℃脉搏80次/分呼吸20次/分血压125/70mmHg皮肤粘膜色正常，巩膜无黄染。肺部无异常，心前区无隆起，心尖搏动正常，位于左侧第5肋间锁骨中线内侧 $0 . 5 \mathtt { c m } .$ ，肺部无异常，全腹柔软，右下腹可触及一肿块，无压痛，无反跳痛；肝脏剑突下未及，肋下未及；脾脏肋下未及；肾脏未及。肝区无叩痛，双肾区无印痛，移动性浊音阳性。肠鸣音3次/分，音正常。脊柱正常，棘突无压痛，无叩痛，四肢活动正常，双侧下肢无水肿。肛门外生殖器正常。生理反射正常，肌张力正常，肌力5级。入院后完善相关检查，血常规、肝肾功能电解质、心电图基本正常。胸片示双上肺陈旧性结核，右上肺结核球形，建议进一步CT检查。ECG示卖性心动过缓；T波改变。腹部CT示上腹部网膜增厚并多发淋巴结肿大右肝实质性结节腹水。考虑胃癌腹腔广泛转移。于2013-06-19予奥沙利铂针+替吉奥胶囊化疗，辅以护胃护肝护心、止呕等对症支持治疗。
+
+# 3.2 治疗方案的抽取
+
+通过咨询相关临床医生并参考《胃癌规范化诊疗指南(试行)》[10]，将胃癌的治疗方案归纳为手术治疗、放化疗、手术治疗与放化疗相结合以及对症治疗4种。在翻阅大量病历资料和咨询相关医生的基础上，发现出院记录中若采取手术治疗，通常会有与手术相关的字样；如采取放化疗方案，也会有与放化疗相关的字样。通过对病历信息的查阅，得到治疗方案与相关字样的对应关系如表1所示：
+
+表1治疗方案与相关字样对应关系  
+
+<html><body><table><tr><td>治疗方案</td><td>相关字样</td></tr><tr><td>手术治疗</td><td>全麻、(全)麻、行胃镜下、胃癌根治术、 胃大部分切除术、局麻、全胃切除等</td></tr><tr><td>放化疗</td><td>化疗、放疗和放化疗相关药品名称</td></tr></table></body></html>
+
+根据病历中"诊治经过"的文本内容，制定如下规则，用于抽取治疗方案:
+
+(1）若其中含有“手术"相关字样而不含"放化疗"相关字样，则治疗方案被认定为手术治疗;(2)若其中含有"手术"相关字样且含有"放化疗”相关字样，则治疗方案被认定为手术 $^ +$ 放化疗；(3）若其中含有“放化疗"相关字样，且不含“手术"相关字样，则治疗方案被认定为放化疗;(4)若其中既无"手术"相关字样也无"放化疗"相关字样，则治疗方案被认定为对症治疗。
+
+按照上述规则，利用Python 编写程序，对2500份出院记录(包括1500份训练样本和1000份测试样本)进行处理，提取出每一份出院记录中的治疗方案。结果发现，其中1102例采取手术治疗，286例采取手术 $+$ 放化疗，457例采取放化疗,655例对症治疗。例如，对图1所示的出院记录进行治疗方案抽取，结果为放化疗，这与实际结果是一致的。从2500份样本中随机抽取100份出院记录，进行人工核查，发现有95份抽取出的治疗方案与实际相符合，正确率达到 $9 5 \%$ ，证实该抽取方案是可行的。
+
+# 3.3 临床术语的抽取
+
+本文利用自定义词典结合统计分词的方法抽取病历文本中的临床术语。实验在MyEclipse 集成开发环境下，参考ICTCLAS5.0分词系统提供的API，采用Java 语言实现对出院记录文本的分词处理[1]。具体步骤如图2所示：
+
+以中国生物医学文献数据库(SinoMed)为依据，构建自定义词典。SinoMed中包含大量的临床研究文献，并且在题录中有规范的主题词和关键词。本研究以分类号‘R735.2"检索SinoMed中2001年-2003年的文献(近几年的文献题录中只标注了关键词，没有标注主题词)，共检索到有效文献题录4244条，抽取其中的关键词和主题词，合并去重后得到自定义词典，共含有5429个词汇。
+
+采用统计方法进一步完善自定义词典。利用ICTCLAS分词系统，使用以上步骤所构建的自定义词典，对1500份训练样本数据进行词语切分后，直接对切分结果进行统计分析，计算相邻词汇的互信息值[12]，公式为:
+
+$$
+\mathrm { M I } ( \mathrm { A } , \mathrm { B } ) = \log _ { 2 } \frac { \mathrm { P ( A , B ) } } { \mathrm { P ( A ) P ( B ) } }
+$$
+
+其中,P(A,B)表示词汇A,B在所有记录中共现频次的概率,P(A)表示出现词汇A的概率,P(B)表示出现词汇B的概率。在实验文本中，相邻两个字组合生成新的词汇共有51658种可能，其中互信息值大于等于0的词对共有11845种，将其与之前构建的自定义词典中的5429个词汇进行合并去重，构成新的自定义词典，共含有词汇17113个。
+
+利用所建自定义词典对医疗文本进行切分。依据所构建的自定义词典，再次对1500份训练样本出院记录进行切分。图1的出院记录切分的结果如图3所示，发现词典分词结合统计分词的方法可以弥补ICTCLAS系统的不足，能够将ICTCLAS系统拆分开的词汇有效地合并起来。例如，可以将"无黄染”、“无压痛”、“外生殖器"等临床症状描述的术语准确地切分出来。
+
+中年 男性 腹胀 半年。体查： 体温 36.5℃ 脉搏80次/分呼吸20次/分血压125/70mmHg皮肤粘膜色泽 正常，巩膜 无黄染。肺部 无异常，心前区无隆起，心尖 搏动 正常，位于 左侧 第5 肋间 锁骨中线内侧0.5cm。肺部 无异常，全腹 柔软，右下腹可 触及一 肿块，无压痛，无反跳痛；肝脏剑突 下未及，肋下未及；脾脏肋下未及；肾脏未及。肝区无叩痛，双肾 区 无叩痛，移动性 浊音 阳性。肠鸣音3 次/分，音 正常。脊柱 正常，棘突 无压痛，无叩痛，四肢 动正常，双侧 下肢 无水肿。肛门外生殖器正常。生理反射正常，肌张力正常，肌力5级。入院 后 完善 相关检查，血常规、肝肾 功能电解质、心电图 基本 正常。胸片 示 双上肺 陈旧 性结核，右上肺 结核 球形， 建议 进一步CT检查。 ECG示窦性心动过缓：T波改变。腹部CT示上腹部网膜增厚 并 多发 淋巴结 肿大 右肝 实质性 结节 腹水。 考虑胃癌 腹腔广泛转移。于 2013-06-19予 奥沙利针+替吉奥 胶囊 化疗，辅以 护胃 护肝 护心、止呕等对症支持治疗
+
+![](images/930d1028a7a9bcf9a7c4e40f60b0804cc0c731dcb0c081bc8b81db89d9fc2a2c.jpg)  
+图2分词流程  
+图3分词结果示例
+
+采用ICTCLAS+自定义词典 $+$ 统计分词策略对1500份训练样本进行切分，并统计每一个切分出来的临床术语的出现频次，剔除掉标点符号、数字、日期、单个字符等特殊字符以及与治疗方案相关的手术名称与放化疗药品名称等，结果如表2所示：
+
+表2临床术语频次统计  
+
+<html><body><table><tr><td>序号</td><td>词汇</td><td>频次</td></tr><tr><td>1</td><td>未见</td><td>3864</td></tr><tr><td>2</td><td>正常</td><td>3346</td></tr><tr><td>3</td><td>入院</td><td>3239</td></tr><tr><td>4</td><td>患者</td><td>3031</td></tr><tr><td>5</td><td>未触及</td><td>2 662</td></tr><tr><td>6</td><td>淋巴结</td><td>2 472</td></tr><tr><td>…</td><td></td><td>……</td></tr><tr><td>1091</td><td>表面凹凸不平</td><td>15</td></tr><tr><td>1092</td><td>两端</td><td>15</td></tr><tr><td></td><td></td><td></td></tr><tr><td>7209</td><td>唐*秋</td><td>1</td></tr><tr><td>7210</td><td>段*勤</td><td>1</td></tr></table></body></html>
+
+为了防止临床术语与治疗方案共现频次矩阵过于稀疏而影响计算结果，本实验只抽取临床术语出现频次大于等于15的词汇，得到词汇1092条。
+
+# 3.4 潜在语义空间的构造
+
+(1）临床术语-治疗方案矩阵的构建
+
+在提取临床术语、治疗方案的基础上，根据临床术语与治疗方案之间的共现情况，构建临床术语-治疗方案矩阵。利用Java编制程序，统计1500份训练样本中临床术语与治疗方案在出院记录中的共现频次，生成临床术语-治疗方案矩阵 $\mathrm { H } ( 1 0 9 2 \times 4 )$ ，其部分示例如表3所示：
+
+表3临床术语-治疗方案共现矩阵H(部分示例)  
+
+<html><body><table><tr><td rowspan="2">临床症状</td><td colspan="4">治疗方案</td></tr><tr><td>手术+放化疗</td><td>手术</td><td>对症治疗</td><td>放化疗</td></tr><tr><td></td><td>：</td><td>：</td><td></td><td>：</td></tr><tr><td>无压痛</td><td>116</td><td>308</td><td>168</td><td>127</td></tr><tr><td>大弯</td><td>81</td><td>372</td><td>13</td><td>8</td></tr><tr><td>免疫</td><td>20</td><td>101</td><td>90</td><td>64</td></tr><tr><td>伴恶心</td><td>10</td><td>10</td><td>7</td><td>1</td></tr><tr><td>广泛转移</td><td>4</td><td>3</td><td>2</td><td>10</td></tr><tr><td>弱阳性</td><td>1</td><td>5</td><td>12</td><td>12</td></tr><tr><td></td><td>…</td><td>…</td><td>…</td><td>…</td></tr></table></body></html>
+
+(2）临床术语-治疗方案矩阵的奇异值分解
+
+奇异值分解(Singular Value Decomposition，SVD)是LSA中构造语义空间的常见方法之一，大量应用于解决不受限的最小立方问题、矩阵阶次估计和规范相关分析等问题。通过矩阵的奇异值分解，可得到矩阵A的三个原始矩阵乘积的形式：
+
+$$
+\mathrm { \bf A } = \mathrm { \bf U } \sum \mathrm { \bf V } ^ { \mathrm { T } }
+$$
+
+其中，U是 $\mathbf { m } \times \mathbf { r }$ 的A的左奇异正交矩阵，U的列向量称为左奇异值向量。 $\mathrm { v }$ 是r $\cdot \times \mathtt { n }$ 的A的右奇异正交矩阵，V的行向量称为右奇异值向量。 $\textstyle \sum$ 是r $\times \mathbf { r }$ 的A的奇异值组成的对角矩阵。
+
+在本实验中，利用 $\mathrm { N u m P y } ^ { [ 1 3 ] }$ 实现矩阵的奇异值分解，将临床术语-治疗方案矩阵分解成三个矩阵U、S、V，其中矩阵U的1092个行向量代表1092个临床术语在语义空间中的坐标向量，矩阵V的4个行向量代表4种治疗方案在语义空间中的坐标向量。由于矩阵U 和矩阵V的维度大，计算较为复杂，因此本研究将U和V分别投影到二维、三维和四维语义空间内，然后计算临床术语和治疗方案在二维、三维和四维语义空间内的坐标向量[14]。
+
+对所得的矩阵进行奇异值分解，根据矩阵U和V,分别取矩阵U和V的前两列、前三列和全部四列，分别可以得到临床术语和治疗方案在二维、三维和四维语义空间内的坐标向量，如表4至表9所示：
+
+表4临床术语在二维语义空间内的坐标向量示例  
+
+<html><body><table><tr><td>临床术语</td><td>二维语义空间坐标</td></tr><tr><td>无压痛</td><td>-0.1007 -0.0638</td></tr><tr><td>大弯</td><td>-0.0384 0.0662</td></tr><tr><td>免疫</td><td>-0.0139 -0.0439</td></tr><tr><td>伴恶心</td><td>-0.0014 -0.0016</td></tr><tr><td>广泛转移</td><td>-0.0009 -0.0028</td></tr><tr><td>弱阳性</td><td>-0.0011 -0.0088</td></tr></table></body></html>
+
+表5临床术语在三维语义空间内的坐标向量示例  
+
+<html><body><table><tr><td>临床术语</td><td colspan="2">三维语义空间坐标</td></tr><tr><td>无压痛</td><td>-0.1007 -0.0638</td><td>0.0045</td></tr><tr><td>大弯</td><td>-0.0384 0.0662</td><td>0.0107</td></tr><tr><td>免疫</td><td>-0.0139 -0.0439</td><td>0.0122</td></tr><tr><td>伴恶心</td><td>-0.0014 -0.0016</td><td>-0.0026</td></tr><tr><td>广泛转移</td><td>-0.0009 -0.0028</td><td>-0.0072</td></tr><tr><td>弱阳性</td><td>-0.0011 -0.0088</td><td>-0.0012</td></tr></table></body></html>
+
+表6临床术语在四维语义空间内的坐标向量示例  
+
+<html><body><table><tr><td>临床术语</td><td colspan="3">四维语义空间坐标</td></tr><tr><td>无压痛</td><td>-0.1007</td><td>-0.0638</td><td>0.0045 0.0945</td></tr><tr><td>大弯</td><td>-0.0384</td><td>0.0662 0.0107</td><td>-0.0199</td></tr><tr><td>免疫</td><td>-0.0139</td><td>-0.0439</td><td>0.0122 0.0353</td></tr><tr><td>伴恶心</td><td>-0.0014</td><td>-0.0016</td><td>-0.0026 0.0001</td></tr><tr><td>广泛转移</td><td>-0.0009</td><td>-0.0028 -0.0072</td><td>0.0010</td></tr><tr><td>弱阳性</td><td>-0.0011</td><td>-0.0088</td><td>-0.0012 0.0025</td></tr></table></body></html>
+
+表7治疗方案在二维语义空间内的坐标向量  
+
+<html><body><table><tr><td>治疗方案</td><td>二维语义空间坐标</td></tr><tr><td>手术+放化疗</td><td>-0.2311 0.0022</td></tr><tr><td>手术</td><td>-0.9191 0.3270</td></tr><tr><td>对症治疗</td><td>-0.2469 -0.7655</td></tr><tr><td>放化疗</td><td>-0.2023 -0.5542</td></tr></table></body></html>
+
+表8治疗方案在三维语义空间内的坐标向量  
+
+<html><body><table><tr><td>治疗方案</td><td colspan="2">三维语义空间坐标</td></tr><tr><td>手术+放化疗</td><td>-0.2311</td><td>0.0022 -0.6432</td></tr><tr><td>手术</td><td>-0.9191</td><td>0.3270 0.1587</td></tr><tr><td>对症治疗</td><td>-0.2469</td><td>-0.7655 0.4815</td></tr><tr><td>放化疗</td><td>-0.2023</td><td>-0.5542 -0.5738</td></tr></table></body></html>
+
+表9治疗方案在四维语义空间内的坐标向量  
+
+<html><body><table><tr><td>治疗方案</td><td colspan="3">四维语义空间坐标</td></tr><tr><td>手术+放化疗</td><td>-0.2311</td><td>0.0022</td><td>-0.6432 0.8592</td></tr><tr><td>手术</td><td>-0.9191</td><td>0.3270</td><td>0.1587 -0.2075</td></tr><tr><td>对症治疗</td><td>-0.2469</td><td>-0.7655</td><td>0.4815 0.2722</td></tr><tr><td>放化疗</td><td>-0.2023</td><td>-0.5542</td><td>0.5738 -0.3802</td></tr></table></body></html>
+
+# 3.5潜在语义空间的应用
+
+由临床术语-治疗方案矩阵构建的潜在语义空间能充分体现临床术语与临床术语之间、临床术语与治疗方案之间以及治疗方案与治疗方案之间的相关关系。要查询单个或多个临床术语与某一治疗方案的相关关系，只需将所查询的临床术语投影到所构建的潜在语义空间中，计算出其在语义空间内的坐标向量，采用余弦夹角定理，即可计算出临床术语或临床术语组合的坐标向量与各治疗方案之间的语义距离。根据各临床术语的出现频率生成查询向量 $\mathrm { X q } ^ { [ 1 5 ] }$ ，按公式(3)对Xq进行处理
+
+$$
+\mathrm { D q = X _ { q } ^ { T } U S ^ { - 1 } }
+$$
+
+其中，Dq为待查询向量在语义空间中的坐标向量。
+
+通过余弦夹角公式[16]，可以计算出临床术语或临床术语组合与治疗方案在语义空间内的相关度，公式
+
+如下:
+
+$$
+\mathrm { C q = \frac { \displaystyle \sum _ { k = 1 } ^ { n } { D q _ { i } D _ { i } } } { \sqrt { \displaystyle \sum _ { k = 1 } ^ { n } ( { D q _ { i } ^ { 2 } ) } } \sqrt { \sum _ { k = 1 } ^ { n } ( { D _ { i } ^ { 2 } ) } } } }
+$$
+
+其中，Cq为查询向量在语义空间内的坐标向量Dq与某治疗方案在语义空间内的坐标向量D之间的相关度大小, $\mathrm { { D q } _ { \mathrm { { i } } } }$ 为向量Dq 的第i个分量, $\mathrm { \Delta D _ { i } }$ 为向量D的第i个分量,n 为语义空间的维度大小。在 NumPy中，编写程序计算查询向量与所有治疗方案的相关度,并以相关度值最大的治疗方案作为决策结果，建立治疗方案选择的决策支持模型。
+
+# 3.6决策支持模型的评价
+
+对于所建立的决策支持模型，可以通过准确性进行评价，其步骤与以上建模过程相似。对测试样本进行治疗方案抽取、分词处理；经奇异值分解构建相应的二维、三维和四维语义空间；计算出相关度，并根据相关度大小决定每个样本的治疗方案，将计算出的治疗方案与实际的治疗方案进行对照，一致者为准确预测，不一致为错误预测。
+
+例如，对于图1的出院记录，从中抽取治疗方案，对其文本进行分词，并依据其出现频次构建查询向量Xq。将Xq投影到语义空间中，分别得到其在二维语义空间的坐标向量 $\mathrm { D q } _ { 2 } ( - 0 . 0 0 0 8 , - 0 . 0 0 2 9 )$ 、三维语义空间内的坐标向量 $\mathrm { D q _ { 3 } } ( - 0 . 0 0 0 8 , - 0 . 0 0 2 9 , - 0 . 0 0 1 0 )$ 和四维语义空间的坐标向量 $\mathrm { D q } _ { 4 } ( - 0 . 0 0 0 8$ ，-0.0029, $- 0 . 0 0 1 0$ 0.0024)。通过余弦公式计算此向量Xq与各治疗方案向量在同一个语义空间内的相关度。将治疗方案按照相关度大小降序排序，结果如表10至表12所示：
+
+表10二维空间内治疗方案及其相关度  
+
+<html><body><table><tr><td>治疗方案</td><td>相关度</td></tr><tr><td>对症治疗</td><td>0.9995</td></tr><tr><td>放化疗</td><td>0.9976</td></tr><tr><td>手术+放化疗</td><td>0.2686</td></tr><tr><td>手术</td><td>-0.0604</td></tr></table></body></html>
+
+表11三维空间内治疗方案及其相关度  
+
+<html><body><table><tr><td>治疗方案</td><td>相关度</td></tr><tr><td>放化疗</td><td>0.9033</td></tr><tr><td>对症治疗</td><td>0.6435</td></tr><tr><td>手术+放化疗</td><td>0.3925</td></tr><tr><td>手术</td><td>-0.1086</td></tr></table></body></html>
+
+表12四维空间内治疗方案及其相关度  
+
+<html><body><table><tr><td>治疗方案</td><td>相关度</td></tr><tr><td>对症治疗</td><td>0.6671</td></tr><tr><td>手术+放化疗</td><td>0.6606</td></tr><tr><td>放化疗</td><td>0.3968</td></tr><tr><td>手术</td><td>-0.2165</td></tr></table></body></html>
+
+由表10可知，在二维语义空间内，对于图1中的出院记录信息推测出的最佳治疗方案为对症治疗，而病历信息中采取的治疗方案为放化疗，即模型推算错误。但是，由表11可知，在三维语义空间内，对于图1中的出院记录信息推算出的最佳治疗方案为放化疗，这与实际病历信息中所采取的治疗方案是一致的，即模型推算正确。由表12可知，在四维语义空间内，对于图1中的出院记录信息推测出的最佳治疗方案为对症治疗，而病历信息中采取的治疗方案为放化疗，即模型推算错误。
+
+使用所收集病历中的1000份测试样本，对建立的决策模型进行测试。在二维语义空间内，有504份测试样本经决策模型推算出的治疗方案与实际采取的治疗方案一致，准确率为 $50 . 4 \%$ 。而在三维语义空间内，有605份测试样本经决策模型推算出的治疗方案与实际采取的治疗方案一致，准确率为 $60 . 5 \%$ 在四维语义空间内，有529份测试样本经决策模型推算出的治疗方案与实际采取的治疗方案一致，准确率为$5 2 . 9 \%$ 。
+
+# 4结果及讨论
+
+模型的测试结果显示，通过构建电子病历文本的潜在语义空间，可以从历史病历信息中有效地抽取临床决策支持规则，建立决策支持模型。这证明了潜在语义分析方法在医学文本分析中有较好效果。
+
+通过实验发现，在矩阵降维前，模型的准确率为$5 2 . 9 \%$ ，通过对矩阵降维，计算其二维和三维语义空间，发现在二维语义空间中(见表7)，对症治疗和放化疗两种治疗方案在语义上较为接近，在计算查询向量与治疗方案的相关度时，两者的相关度大小接近，导致模型推算的准确率较低。而在三维潜在语义空间中，临床术语和治疗方案的坐标向量都较为精确，减少了彼此间的相互干扰，强化了临床术语与治疗方案之间的潜在语义结构，提高了模型推算的准确率 $( 6 0 . 5 \% )$ 。
+
+在潜在语义空间的构建过程中，维数 $\mathbf { k }$ 的选择是语义空间构建中的关键。通过查阅文献[17]，本研究中将k值分别选择为2、3和4，构建二维语义空间、三维语义空间和四维语义空间。维数越大，临床术语和治疗方案的空间位置越精确，但是会导致4种治疗方案的相关度值大小均较低，且数值大小差别不大；维数越小，噪音越大，空间位置不精确，导致治疗方案的相关度值大小均较高。通过实验发现，选择三维语义空间，治疗方案相关度值大小差别大，且空间位置较为精确，能够有效地减少干扰因素，实验准确率相对较高。
+
+# 5结语
+
+本文通过抽取临床术语和治疗方案，构建临床术语-治疗方案矩阵，利用NumPy分解矩阵，完成了语义空间的构建、应用和评价。分别构建了二维、三维和四维潜在语义空间。在语义空间内，可以发现临床术语与治疗方案之间的潜在语义结构，从中抽取辅助治疗方案选择的决策知识。研究结果可以证实潜在语义分析技术能够有效地应用到医学文本分析中。
+
+由于存在实验训练样本数量较少，构建的词典不够完备，临床术语的多样性以及治疗方案抽取错误等问题，在三维语义空间内，模型的准确率还有待提高。此外，治疗方案抽取原则的制定至关重要，实验经过大量查阅病历信息以及咨询相关临床医生，并经过反复实验测试，完成了治疗方案抽取原则的制定。虽然抽取得到的治疗方案准确率高，但由于病历信息的多样性，在抽取过程中仍然可能会出现错误。例如，某位患者服用某种特殊的化疗药物，但是其出院记录中并没有出现化疗相关字样，那么，在抽取治疗方案时,系统会认为该患者采用的治疗方案为对症治疗，从而导致治疗方案抽取错误。如何提高治疗方案抽取的准确率，是未来研究内容之一。
+
+# 参考文献：
+
+[1] Landauer T K.A Solution to Plato's Problem:The Latent Semantic Analysis Theory of Acquisition,Induction and Representation of Knowledge [J]. Psychological Review, 1997,104(2): 211-240.   
+[2] Cohen T,Blatter B,Patel V.Simulating Expert Clinical Comprehension: Adapting Latent Semantic Analysis to Accurately Extract Clinical Concepts from Psychiatric Narrative [J].Journal of Biomedical Informatics,2008,41(6): 1070-1087.   
+[3]Cohen T，Blatter B，Patel V. Exploring Dangerous Neighborhoods:Latent Semantic Analysis and Computing Beyond the Bounds of the Familiar [C].In: Proceedings of the Annual Symposium of American Medical Informatics Association. 2005:151-155.   
+[4]Ginter F, Suominen H, Pyysalo S,et al.Combining Hidden Markov Models and Latent Semantic Analysis for Topic Segmentation and Labeling: Method and Clinical Application [J].International Journal of Medical Informatics,2009, 78(12): 1-6.   
+[5]Wild F， Haley D. Using Latent-Semantic Analysis and Network Analysis for Monitoring Conceptual Development [J].Journal for Language Technology and Computational Linguistics,2011,26(1): 9-21.   
+[6]Wang J，Sun X P,Nahavandi S，et al. Multichannel Biomedical TimeSeriesClusteringvia Hierarchical Probabilistic Latent Semantic Analysis[J]. Computer Methods and Programs in Biomedicine,2014，117(2): 238-246.   
+[7]Abate F,Acquaviva A,Ficarra E,et al. A New Latent Semantic Analysis Based Methodology for Knowledge Extraction from Biomedical Literature and Biological Pathways Databases [C]. In: Proceedings of the International Conferenceon BioinformaticsModels， Methodsand Algorithms,Rome,Italy.2011: 66-74.   
+[8]甘艳芳，倪子伟，林凡．潜在语义分析在中医证候分类中 的应用[J]．厦门大学学报：自然科学版，2012，51(6): 991-994.(Gan Yanfang,Ni Ziwei,Lin Fan.The Application of LSA in Traditional Chinese Medicine Syndromes Classification [J].Journal of Xiamen University:Natural Science,2012,51(6): 991-994).   
+[9]雷蕾，张早华，温先荣，等．概率潜在语义分析(PLSA)在 中药新药处方发现中的应用[J]．世界科学技术(中医药现 代化)，2012(5):1976-1980.(Lei Lei,Zhang Zaohua,Wen Xianrong,et al. Study on Application of Probability Latent Semantic Analysis (PLSA) in Herbal Prescription Development [J].World Science and Technology (Modernization of Traditional Chinese Medicine and Materi Medica),2012(5): 1976-1980).   
+[10]中华人民共和国国家卫生和计划生育委员会．胃癌规范化 诊治指南(试行)[J]．中国医学前沿杂志(电子版)，2013, 5(8):29-36. (National Health and Family Planning Commission of the People's Republic of China.Gastric Standardized Treatment Guidelines(Trial）[J].Chinese Journal of the Frontiers of Medical Science (Electronic Version),2013,5(8): 29-36.)   
+[11]王思力．面向大规模信息检索的中文分词技术研究[D].北 京：中国科学院研究生院，2006.（Wang Sili.Research on Chinese Word Segmentation for Large Scale Information Retrieval [D]. Beijing: Graduate School of Chinese Academy of Sciences,2006.)   
+[12]Chung Y M，Lee J Y. A Corpus-based Approach to Comparative Evaluation of Statistical Term Association Measure [J]. Journal of the American Society for Information Science and Technology,2001,52(4): 283-296.   
+[13]Idris I.Python 数据分析基础教程 NumPy 学习指南[M]. 张驭宇译．北京：人民邮电出版社，2014:110.(Idris I. NumPy Beginner's Guide [M]. Translated by Zhang Yuyu. Beijing: Posts & Telecom Press,2014:110.)   
+[14] Bendersky M,Croft W B.Discovering Key Concepts in Verbose Queries [C]. In: Proceedings of the 31st Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, 20o8:491-498.   
+[15]李国垒，陈先来．潜在语义分析在关键词—叙词对照系统 构建中的应用[J]．情报理论与实践，2014，37(4):127-130, 133.(Li Guolei,Chen Xianlai. The Application of Latent Semantic Analysis to Construction of Keyword-Descriptor Comparison System [J]． Information Studies: Theory & Application,2014,37(4): 127-130,133.)   
+[16] 夏冬，肖晓旦，李国垒，等．基于潜在语义分析的关键词- 分类号对应关系研究[J]．现代图书情报技术，2014(12): 92-96.(Xia Dong,Xiao Xiaodan,Li Guolei,et al.Research on Correspondence Between Keyword and Chinese Library Classification Based on Latent Semantic Analysis[J]. New Technology of Library and Information Service,2014(12): 92-96.)   
+[17]盖杰，王怡，武港山．基于潜在语义分析的信息检索[J]. 计算机工程,2004,30(2):58-60.(Gai Jie,Wang Yi,Wu Gangshan. Text Information Retrieval Based on Latent Semantic Analysis [J]. Computer Engineering,2004,30(2): 58-60.)
+
+# 作者贡献声明：
+
+杨荣：提出研究思路;  
+陈先来：设计研究方法，准备实验环境;  
+李国垒：实施实验，收集数据，起草论文;
+
+夏冬：论文修改及最终版本修订。
+
+# 利益冲突声明：
+
+[1]李国垒.SinoMed.xlsx.中国生物医学文献数据库术语.  
+[2]李国垒.Matrix.csv.临床术语与治疗方案矩阵.  
+[3]李国垒.ClinicalTerms.xlsx.临床术语.  
+[4]李国垒.MutualInformation.xlsx.互信息值大小.  
+[5]李国垒.Semantic Analysis.py.语义分析代码.
+
+所有作者声明不存在利益冲突关系。
+
+# 支撑数据：
+
+支撑数据见期刊网络版http://www.infotech.ac.cn。
+
+收稿日期:2015-09-28  
+收修改稿日期:2015-11-18
+
+# Latent Semantic Analysis of Electronic Medical Record Text for Clinical Decision Making
+
+Li Guolei1Chen Xianlai1,2.3Xia Dong4Yang Rong l(Information Security and Big Data Research Institute, Central South University, Changsha 4100l3, China) 2(Key Laboratory of Medical Information Research (Central South University), Collge of Hunan Province, Changsha 410013, China) 3(Hunan Province Cooperative Innovation Center of Medical Big Data, Changsha 410013, China) 4(Chengdu Documentation and Information Center, Chinese Academy of Sciences, Chengdu 610041, China) 5(Xiangya Hospital, Central South University, Changsha 410o78, China)
+
+Abstract:[Objective]This study aims to extract knowledge for clinical decision from electronic medical records through semantic analysis.[Methods] We first extracted clinical terms from the training samples by the word segmentation algorithm with the help ofcustom dictionary and statistical method.Then，we used latent semantic analysis to find the potential corelations between clinical terms and treatment plans.Finally,we established alatent semantic model to support gastric cancer treatments. [Results] We succesfully extracted 605 treatment plans from 1000 test samples based on the discharge summary texts.[Limitations]Only discharge record texts were examined for this study.[Conclusions]The latent semantic analysis could effectively process electronic medical records to assist doctors'clinical decision-making work,which posed positive effects to the development of electronic medical record applications.
+
+Keywords: Electronic medical record Chinese text segmentation Latent Semantic AnalysisGastric cancer Clinical decision supportSelection of treatment plans

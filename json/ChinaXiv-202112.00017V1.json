@@ -1,0 +1,581 @@
+[
+    {
+        "type": "text",
+        "text": "Predicting of dust storm source by combining remote sensing， statistic-based predictive models and game theory in the Sistan watershed, southwestern Asia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mahdi BOROUGHANI1\\*, Sima POURHASHEMI², Hamid GHOLAMI3, Dimitris G KASKAOUTIS4,5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "l Research Center for Geoscience and Social Studies,Hakim Sabzevari University,Sazbevar 9617976487,Iran;   \n2FacultyofGeographyandEnvironmentalSciences,HakimSabzevariUnversity,abzevar9617976487,Iran;   \n3 Department of Natural Resources Engineering,University of Hormozgan,Hormozgan 7916193145,Iran;   \n4 Institute forEnvironmentalResearchandSustainable Development,NationalObservatoryofAthens,Athens15784,Greece;   \n5 EnvironmentalChemical Processes Laboratory,DepartmentofChemistryUniversityofCrete, Crete7o0l3,Greece ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Dust storms in arid and desert areas affect radiation budget, air quality,visibility, enzymatic activities,agricultural products and human health.Due to increased drought and land use changes in recent years, the frequency of dust storms occurrence in Iran has been increased. This study aims to identify dust source areas in the Sistan watershed (Iran-Afghanistan borders)-an important regional source for dust storms in southwestern Asia, using remote sensing (RS) and bivariate statistical models. Furthermore, this study determines the relative importance of factors controling dust emissions using frequency ratio (FR) and weights of evidence (WOE) models and interpretability of predictive models using game theory. For this purpose, we identified 211 dust sources in the study area and generated a dust source distribution map-inventory map-by dust source potential index based on RS data. In addition, spatial maps of topographic factors affecting dust source areas including soil,lithology,slope,Normalized diference vegetation index (NDVI), geomorphology and land use were prepared. The performance of two models (WOE and FR) was evaluated using the area under curve (AUC) of the receiver operating characteristic curve. The results showed that soil, geomorphology and slope exhibited the greatest influence in the dust source areas. The $5 5 . 3 \\%$ (according to FR) and $6 2 . 6 \\%$ (according to WOE) of the total area were classified as high and very high potential dust sources,while both models displayed acceptable accuracy with subsurface levels of O.704 for FR and 0.751 for WOE,although they predict diferent fractions of dust potential classes. Based on Shapley additive explanations (SHAP),three factors, i.e.,soil, slope and NDVI have the highest impact on the model's output. Overall，combination of statistic-based predictive models (or data mining models),RS and game theory techniques can provide accurate maps of dust source areas in arid and semi-arid regions, which can be helpful for mitigation of negative effects of dust storms. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: potential dust source; remote sensing; frequency ratio; weight of evidence; dust emission ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Atmospheric dust is the most abundant aerosol type over land, which affects climate, water cycle, cloud, solar radiation, terrestrial and marine ecosystems,public health and welfare (Soltani et al., 2015; Raspanti et al., 2016; Stafoggia et al., 2016; Shahsavani et al.,2020; Suresh et al.,2021). Dust storms usually occur in arid and desert areas with annual precipitation $< 2 0 0 ~ \\mathrm { ~ m m }$ (Engelstaedter et al., 2006; Indoitu et al., 2012) and these phenomena are especially frequent in the Sahara and Middle East facilitated by local cyclonicity and pressure gradients that trigger intense local winds (Schepanski et al.,2012; Yu et al.,2015,2016; Francis et al., 2019,2021). More than $2 \\times 1 0 ^ { 9 }$ people live in areas,which are exposed to the phenomenon of dust storms, with serious deleterious impacts on socio-economic and health (Middleton,2017). During the last decades, due to climate change, global warming and expanded desertification, dust aerosols have increased in arid and semi-arid regions of the Middle East (Notaro et al., 2O15; Klingmüller et al., 2016; Middleton,2019; Shaheen et al.,2020; Boloorani et al.,2021; Modarres,2021; Rashki et al.,2021)). The Middle East is the most important dust source after North Africa, while the maximum dust emission occurs in summer. About $90 \\%$ dust of the Middle East is produced in the Tigris-Euphrates floodplain, the Syrian-Iraqi desert, the deserts in northern, eastern and southern Saudi Arabia and the Sistan watershed in eastern Iran (Cao et al.,2O15; Boroughani et al., 2020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RS is one of the most important techniques for identifying dust source areas around the world (Baddock et al.,2011; Bilal et al., 2014; Jiao et al.,2021). Therefore, many studies have used several satelite sensors,RS techniques and data mining models to identify dust source areas and dust emissions over the world (Miler, 2003; Lee et al., 2009; Zhang et al.,2010; Liu et al., 2011; Miller et al.,2012; Park et al.,2014; Namdari et al., 2018; Soni et al., 2018; Boroughani et al., 2019； Gholami et al.， 2020a). Most studiesused the moderate-resolution imaging spectroradiometer (MODIS） observations and developed dust detection indices (brightness temperature difference (BTD2931 and BTD3132） NDVI， D-parameters and over-land dust enhancement technique） to identify dust source areas at different regions of the world. The identification and mapping of dust source can be considered as the first step to manage and reduce dust efects on environment and human health (Emamian et al., 2O21). Data mining,as a typical technique for mapping environmental and natural hazards, is a way to discover new and potentially useful information from a large amount of data (Yilmaz, 20o9; Gholami et al.,2020b). Numerous studies have used data mining with different methods dealing with identification of land susceptibility to dust sources,landslides，wind erosion hazard， subsidence, fires, $\\mathbf { P M } _ { 1 0 }$ concentrations, groundwater, gully erosion and floods and have addressed the potential mapping of these factors around the world (Dube et al., 2014; Chen et al., 2015; Motevali et al.,2019; Boroughani et al., 202O; Lee et al., 2021). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sistan watershed is one of the most important dust source areas in southwestern Asia (Kaskaoutis et al.,2O16). Many studies have analyzed different aspects of dust storms in this area, especially in the basin of Iran,including health issues (Behrooz et al.,2021; Javan, et al., 2021), geomorphology (Evenstar et al.,2018), climatology (Kaskaoutis et al.,2018; Hamidianpour et al., 2021),water resources (Mianabadi et al., 2021), dust provenance (Behrooz et al.,2019), land susceptibility to dust emissons (Gholami et al., 2020c), mineralogy and geochemistry of dust (Rashki et al.,2O13). Dust storms in the Sistan watershed mainly originated from the dried playas of the Hamoun Lake, with high possibility of saline dust storms due to high contents of remaining salts in the lake beds after dryness (Rashki et al.,2013; Behrooz et al.,2019). Gholami et al. (2020c) applied several data mining models for classifying land susceptibility to dust emissions in the Sistan watershed and they reported that most of the study area is classfied as high and very high susceptibility levels for dust emissions.Namdari et al. (2O21) examined the relationship of dust storms with wind speed and vegetation cover in the Sistan watershed using RS data and found a positive feedback of wind and sparse vegetation to dust emissions. Recently, Ebrahimi-Khusfi et al. (2O21） predicted the number of dusty days in the Sistan watershed by means of feature selection and machine learning techniques,with satisfactory results about the model's performance. Most previous studies in the Sistan watershed have focused on the dried-up part of the Hamoun Lake, without covering the whole watershed region. Furthermore, in these studies, only machine learning techniques have been used, without examining all the factors affecting dust source areas.The present study examines the whole Sistan watershed using RS and machine learning techniques and determines the importance of various topographic factors that influence the establishment of dust source areas. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study，RS techniques,data mining models like FR, WOE and game theory were synergized to identify dust source areas. Potential map of dust sources in the whole Sistan watershed, including parts of Iran and Afghanistan were plottd. MODIS satellite images were processed using various RS techniques to identify dust source areas-inventory map-in the study domain. Two statistical algorithms (FR and WOE) were used to prepare potential maps of dust sources,while the accuracy of identified dust sources was confirmed through a field survey. The performance of the models was evaluated using the AUC and the contributing variables for mapping dust potential. Finally， the game theory through SHAP and permutation feature importance measure (PFIM) was applied to address the interpretability of predictive models. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Study area and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study area used here is the whole Sistan watershed, including Helmand River (in Afghanistan) and Sistan and Baluchestan (in Iran) watersheds,with a total area of about $1 4 8 , 7 7 9 { \\mathrm { ~ k m } } ^ { \\bar { 2 } }$ (Fig. 1). The most important cities in the study area include Zahedan, Zabol in Iran and Zaranj in Afghanistan. The region is characterized by an arid/desert climate with an intense seasonal (summer) north wind (Levar wind), summer thermal cyclones and westerly winter flows (Abbasi et al.,2019; Hamidianpour et al., 2O21). The average annual precipitation in the study area is about 60 to $1 3 0 ~ \\mathrm { m m }$ . The temperature reaches about $5 0 ^ { \\circ } \\mathrm { C }$ in summer and drops to $- 7 ^ { \\circ } \\mathrm { C }$ to $- 8 ^ { \\circ } \\mathrm { C }$ in winter,with annual average temperature of $2 1 ^ { \\circ } \\mathrm { C }$ ，relative humidity of $3 8 \\%$ and potential evapotranspiration ranging from 4196 to $5 7 0 0 ~ \\mathrm { m m }$ (Kaskaoutis et al., 2015). Helmand River and Hamoun Lake are the main surface water sources in the Sistan watershed (Mianabadi et al., 2021). However, after the construction of a dam in the Helmand River and the occurrence of frequent droughts,especially the 2ooOs,the wetland has dried up and resulted in a dramatic increase in the occurrence of dust storms (Rashki et al., 2013b). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c060944db1abadc448f8af2779cb633bf3e51cc5545aad23f39b4a39470605d.jpg",
+        "img_caption": [
+            "Fig.1Location (a) and elevation (b) maps of the Sistan watershed in Iran and Afghanistan "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Datasets ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this research, the required data were obtained from topographic maps of 1:25,0oo and 1:50,000 scales,geological maps of 1:100,000 and 1:250,000 scales (https://gsi.ir), satelite images, field studies and library resources. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 Inventory map of dust sources ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The distribution map of the dust source areas was prepared using MODIS imagery from Terra (morning) and Aqua (afternoon) satellites (Vickery and Eckardt, 2O13). The Terra and Aqua imageries correspond to the selected dust days from 2010 to 2019, which were determined based on meteorological data such as visibility, wind speed and direction at the Zabol station (Rashki et al.,2018). Then, the days when dust occurrence coincides with satellite imagery are determined. Using RS techniques and parameters that track dust aerosols (brightness temperature difference between MODIS bands 31 and 32 $\\left( \\operatorname { B T D } _ { 3 1 3 2 } \\right)$ ,bands 29 and 31 $\\left( \\mathrm { B T D } _ { 2 9 3 1 } \\right)$ ,normalized difference dust index (NDDI) and D), we identified the dust source areas (Bonham-Carter, 1994; Ackerman, 1997；Sankey et al.，2013). Therefore， four indicators $\\mathrm { B T D } _ { 3 1 3 2 }$ ， $\\mathrm { B T D } _ { 2 9 3 1 }$ ，NDDI and D for detection of dust from MODIS imagery were used in this research. The brightness temperature (BT) is expressed as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { B T } { \\big ( } T , \\lambda { \\big ) } = { \\frac { 2 \\operatorname { h c } ^ { 2 } } { \\lambda ^ { 5 } { \\frac { \\operatorname { h c } } { \\left( \\operatorname { e } \\lambda \\operatorname { k } t - 1 \\right) } } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { B T } ( T , \\lambda )$ represents the Planck equation at $\\lambda \\left( \\mu \\mathrm { m } \\right)$ ； h is the Planck's constant ( $\\phantom { 0 } { 6 . 6 2 6 \\times 1 0 ^ { - 3 4 } }$ Js); $\\mathbf { k }$ is the Boltzmann's constant $( 1 . 3 \\dot { 8 } \\times 1 0 ^ { - 2 3 } ) ^ { 5 }$ ; e is the mathematical constant approximately equal to 2.71828 (known as the Euler's number); c is the speed of light $( 2 . 9 9 { \\times } 1 0 ^ { 8 } ~ \\mathrm { { m } / { s } ) }$ ; and $t$ is the temperature $( ^ { \\circ } \\mathrm { C } )$ (Hao et al.,2Oo7). Using Planck equation,we can derive the value of temperature: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt = \\frac { \\mathrm { h c } } { \\lambda \\mathrm { k l n } \\left( 1 + \\displaystyle \\frac { 2 \\mathrm { h c } ^ { 2 } } { L \\lambda ^ { 5 } } \\right) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $L$ is the amount of radiance in the images ( $\\scriptstyle \\mathrm { W / ( m ^ { 2 } \\cdot s r \\cdot \\mu m ) } \\rangle$ . In addition, the NDDI is given via the following formula: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N D D I } = \\frac { p _ { 2 . 1 3 } - p _ { 0 . 4 6 9 } } { p _ { 2 . 1 3 } + p _ { 0 . 4 6 9 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $p 2 . 1 3$ and $p _ { 0 . 4 6 9 }$ are the reflectance values at the top-of-atmosphere at 2.13 and $0 . 4 6 9 ~ { \\mu \\mathrm { m } }$ respectively (Qu et al., 2006). Finally, $D$ is given by: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = \\exp \\left\\{ - \\Big [ r r \\times \\mathrm { a } + \\big ( \\mathrm { B T D } - \\mathrm { b } \\big ) \\Big ] \\right\\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $r r$ represents the reflectance proportion among the wavelengths of O.54 and $0 . 8 6 ~ \\mu \\mathrm { m }$ ; BTD is the difference among the bands 11 and $1 2 \\ \\mathrm { ( \\mu m ) }$ ; a and $\\boldsymbol { \\mathbf { b } }$ are constants obtained during the calibration of the first stage (Miller,2003; Qu et al.,2006; Hao et al.,2007; Boroughani et al., 2020). Finally,for dust detection,a false color combination (FCC) was used using four indicators $\\left( \\mathrm { B T D } _ { 2 9 3 1 } \\right.$ ， $\\mathrm { B T D } _ { 3 1 3 2 }$ ， NDDI and D) and bands 3 and 4 of MODIS imagery. In this respect, four methods to generate the FCC (i.e., method 1: NDDI, B4 and B3; method 2: D,BTD2931 and NDDI; method 3: D, $\\mathrm { B T D } _ { 3 1 3 2 }$ and NDDI; and method 4:BTD2931，B4 and B3） were employed for reconstruction of dust sources using the MODIS satelite images. The method of detecting dust-source areas in this study was based on the Gaussian-Plum diffusion model (Lee et al., 2009). When the dust is formed, the starting point of the dust plume covers a narrow area and the time progressing dust is spread and takes a conical shape continuing to expand (Lee et al.,2009). Finally, an inventory map of the dust sources in the Sistan watershed was prepared. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 Factors controlling dust sources ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Identifying the factors influencing the occurrence of dust events is the first step,while the selection of the important factors has a great role in the accuracy of dust source mapping (Gholami et al., 2O2Oa). In this study，after extensive field surveys in the study area,6 topographic factors including soil, lithology，slope,NDVI, geomorphology units and land use were identified as effective for dust sources. These factors，among others,have been also recognized as effective for land susceptibility，wind erosion and dust emissions in the Sistan watershed by previous studies (Gholami et al.,2020c; Ebrahimi-Khusfi et al.,2021). On the other hand, Sistan watershed is considered as one of the dustiest and windiest arid environments over the globe (Abbasi et al.，2019； Rashki et al., 2021),where the summer Levar wind strongly modulates the dust activity (Kaskaoutis et al.，2018； Hamidianpour et al.， 2021). However, measured wind-speed data were not available at the stations in Afghanistan and, therefore, we limited the research by examining the effect of topographic variables. Effect of wind on land susceptibility to wind erosion was previously examined in southeastern Iran (Kerman Province) with availability of wind speed data (Gholami et al., 2021). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The land use that is characterized by low vegetation cover or regions that have undergone either natural or anthropogenic impact, i.e. poor vegetation or removed soil crust, have a higher potential to dust emissions (Goossens and Buck, 2014; Parajuli and Zender,2017; Gholami et al., 2021). In this study,Landsat 8 satelite imagery was used to prepare the land use map. These images weredownloadedfromtheUnitedStatesGeologicalSurveywebsite (https://earthexplorer.usgs.gov/). Most of the dust storms in the study area occurred between May and July,so satellite images in these months were downloaded. Land use map for 2018 was prepared using the environment for visualizing images software. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Plains and flat terrains with low slope gradients,especially less than $5 \\%$ ，have a higher potential to become dust sources than gravel lands, steep slopes and elevated terrains (Lee et al., 2009;Emamian et al.,2021). In these areas,due to the flatten terrain, the wind velocity easily reaches and overcomes the threshold for wind erosion,causing the soil to be raised and dust storms to occur (Lee et al., 2Oo9). Digital elevation model with a spatial resolution $3 0 \\mathrm { ~ m ~ } { \\times } 3 0 \\mathrm { ~ m ~ }$ was used in the geographical information systems (GIS) software to prepare the slope map of the Sistan watershed. The slope ranges between $0 \\%$ and $32 \\%$ in the study area. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Geology is considered as a fundamental variable for susceptibility mapping of dust sources (Gholami et al.，202Ob)， since it represents the erodibility of land and ground surface characteristics. The susceptible units have a crucial role in creating dust source areas relative to other resistant units and soil types (Sissakian et al., 2Ol3). A geological map of the area was prepared using a 1:250,00O scale, while the soil map of the Sistan watershed was prepared using the 1:250,OoO scale.The soil in the study area is highly sensitive to wind erosion (Gholami et al., 2020b) and also lacks of organic matter, being not suitable for agriculture. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To assess the vegetation cover in the study area, we used the NDVI. Vegetation in the Sistan watershed is very sparse due to low rainfall, excessve use of natural resources, drought and severe dust storms.NDVI shows the pattern of vegetation cover that can be associated with the dust source areas (Dawelbait and Morari, 2012; Kharol et al., 2O13) and was used to prepare the vegetation map of the region. For this purpose,ETM $\\cdot +$ images of the Landsat 8 satellite (2018) were used. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Geomorphologic characteristics of dust-blown source regions contribute to the amount and type of mineral aerosols emitted into the air (Lee et al., 2012; Rashki et al., 2013). In order to prepare the map of geomorphological units of the region, we initially used slope and topographic maps with a scale of 1:50,00O and the geological map of the study area. In the next step,from the interpretation of Google Earth and Landsat 8 satellite images in 2O18, more detailed information was extracted and transferred to the original map. Then,by completing the field information and final control, we prepared a map with geomorphology units of the region. By combining the dust distribution map with the effective factor maps,we obtained the number of dust source pixels in each class from the study layers,using WOE and FR models in R statistical software. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 Predictive models for mapping dust source ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For examining the dust source potential (Akbari et al., 2O17), dust source areas were randomly divided into two categories for training $( 7 0 \\% )$ and validation $( 3 0 \\% )$ datasets. The training data were used to determine the weight and prepare the potential map using two probabilistic models (WOE and FR), while the validation data were used to validate the potential dust source map. In order to determine each class of effective factors in creating the dust source areas,we classified all layers of effective factors for modeling. By overlapping the position of each dust source with each of the effective factors,we identified the statistical relationship between them and then,by obtaining the frequency of dust pixels of each class of layers and total frequency, we calculated the density of dust source in each class. Using the frequency of dust pixels and total frequency, we obtained the dust source density in the study area. Finally, we computed the weighting of each class based on probabilistic models of WOE and FR. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "WOE probability model is one of the two-variable statistical methods that use the Bayesian probabilistic method to determine the relative importance of effective factors by statistical tools using the linear logarithm entry form. By overlapping the position of each dust source with each of the effective factors,we identified the statistical relationship between them.In parallel, the degree that each variable contributes to the dust-source area is evaluated.We defined the probabilistic model of WOE based on the calculation of positive $( W ^ { + } )$ and negative $( W ^ { - } )$ weights. In this model, the weight calculation for the presence or absence of any dust source prediction factor ${ \\bf \\nabla } ^ { \\prime } F _ { \\bf \\cdot }$ or $F ^ { * }$ ),based on the presence or absence of dust source (DS or $\\mathrm { D S } ^ { * }$ ) in the study area,is as follows: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { W ^ { + } = \\log _ { \\mathrm { g } } \\frac { P \\Big ( \\displaystyle \\frac { F } { \\mathrm { D S } } \\Big ) } { P \\Big ( \\displaystyle \\frac { F } { \\mathrm { D S } ^ { * } } \\Big ) } , } \\\\ & { } & { W ^ { - } = \\log _ { \\mathrm { g } } \\frac { P \\Big ( \\displaystyle \\frac { F ^ { * } } { \\mathrm { D S } } \\Big ) } { P \\Big ( \\displaystyle \\frac { F ^ { * } } { \\mathrm { D S } ^ { * } } \\Big ) } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $P$ is the probability of occurrence; $F$ and $\\boldsymbol { F } ^ { * }$ are the presence or absence of factors affecting the formation of dust sources,respectively; DS are the presence of dust sources or the absence of dust sources $( \\boldsymbol { \\mathrm { D } } \\boldsymbol { \\mathrm { S } } ^ { * } )$ . In this model,weight values usually have a range between positive and negative numbers,which indicates the role of more or fewer variables in the formation of dust sources.A positive weight $( W ^ { + } )$ indicates that there is an effective factor at the dust sources, whereas the negative weight $( W ^ { - } )$ shows that the examined factor does not affect the location of the dust sources,leading to a negative correlation. The difference between the positive and negative weights $( C )$ indicates the magnitude of the relationship between the effective factor and the dust sources. Equations 7, 8 and 9 are used to obtain the final weight: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = [ ( { W } ^ { + } ) - ( { W } ^ { - } ) ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S D } = \\sqrt { S ^ { 2 } \\left( W ^ { + } \\right) + S ^ { 2 } \\left( W ^ { - } \\right) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\mathrm { F i n a l } } = C / \\mathrm { S D } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $S$ is the variances of $( W ^ { \\top } )$ and $( W ^ { + } )$ ； SD is the standard deviation,which is equal to the square root of the variance of each of the positive and negative weights; and $W _ { \\mathrm { F i n a l } }$ (final weight) is standardized and used to zone the dust potential sources.By entering weights into the information layer map, weighted thematic maps are obtained. The dust source potential index (DSPI) was calculated from the sum of these weights (Eq.10). ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D S P I } = \\sum ( W _ { \\mathrm { F i n a l } } ) \\quad ( i = 1 , 2 , 3 , . . . , n ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FR model is a simple spatial evaluation tool for identifying probabilistic relationships between dependent and independent variables (Bonham-Carter, 1994). FR determines a simple relationship between the occurrence of a dust source and the various affecting variables. In determining FR,the ratio of dust source areas in each class to the total dust source areas is obtained from the influencing factors and the ratio of the level of each class to the total areas is also calculated. The calculation of FR for each class of factors afecting the dust source areas is shown in Equation 11. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F R } = \\frac { A / B } { C / D } { = } \\frac { E } { F } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $A$ is the number of pixels of dust source areas for each of the effective factor classes; $B$ is the total number of dust source areas occurred in the study area; $C$ the number of pixels in each of the effective factor classes; $D$ is the total number of pixels in the study area; $E$ is the percentage of dust source areas in each subclass of effective factors $( \\% )$ ; and $F$ is the relative percentage of the area of each subclass to the total area $( \\% )$ . To obtain the DSPI, we added the results of the factors together in the GIS software (Eq. 12). ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D S P I } = \\sum ( \\mathrm { F R } ) _ { i } \\quad \\big ( i = 1 , 2 , 3 , . . . , n \\big ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Finally,the weight of each of the 6 effective factor classes was assessed. The information layer of the values of potential factors to the dust source areas was obtained from their algebraic sum and finally, the dust potential map was prepared on 4 floors. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.5 Assessment of predictive models ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The potential maps obtained using FR and WOE models are tested and validated by calculating relative operating characteristics (ROC).In this method, the AUC takes values between 0.5 and 1.0 and was used to evaluate the accuracy of models (Nandi and Shakoor, 2O1O). The best models exhibit an AUC value close to 1.0, while values close to O.5 indicate high inaccuracies in the model performance (Floyd and Gill, 2011). To evaluate the dust source potential maps obtained using WOE and FR models,we used the $30 \\%$ of dust source areas, corresponding to the validation dataset. Then, the accuracy of the prepared potential maps was evaluated using ROC curve. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.6 Game theory for assessing the interpretability of predictive models In addition， PFIM, suggested by Breiman (2001)，was applied to determine the relative importance of effective factors for dust emissions. PFIM measures the importance of a feature by calculating the increase in the model's prediction error after permutating the feature. SHAP was used to interpret the models for predicting land susceptibility to dust emissions in the Sistan watershed (Lundberg and Lee, 2O17). SHAP,a method based on game theory theoretically optimal Shapley values, may explain the individual prediction. SHAP explains the prediction of an instance $x$ by computing the contribution of each feature to the prediction (Mohammadifaer et al., 2O21). SHAP values can, therefore,estimate the expected marginal contribution of a factor among all possible contributions (Shapley,2016).Figure 2 shows the whole process of effective factors selection, dust source mapping and evaluation of the models, which practically corresponds to the flow chart. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 Results and discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 Mapping inventory of dust source ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A total of 211 dust source areas were identified throughout the examined region, 61 located in Iran and 15O in Afghanistan (Boroughani, 2O2O). The analysis was based on the results of previous researches that identified dust source areas at different parts of the world (Walker et al.,2009; Miller et al.,2012; Boroughani et al.,2020). Figure 3 shows an example of dust storm detection from MODIS FCC satelite imagery over the Sistan watershed on 19 September 2014. In this FCC image， different dust plumes originated from the Hamoun Lake spreading south/southeastward and driven from thermal cyclonic lows usually developed over the Sistan watershed during summer due to the very high surface temperature (Kaskaoutis et al., 2015; Behrooz et al., 2019). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We carried out field visits at 4 of the identified dust source areas in order to verify the dust sources obtained via RS method. Figure 4 shows the areas that were investigated from 12 to 16 July 2019,all investigation is within the Iranian territory. During field visits,four variables including topographic properties, vegetation type,soil sensitivity to wind erosion and soil particle size were investigated. Same figure also includes photos taken at the 7 examined areas during field visits, where we observed poor vegetation cover, visible plant roots, fine soil particles prone to wind erosion and flat terrains (Hamoun Lake) that help wind to reach the threshold velocity enabling dust emissions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3feaabc85b593015ca2559f6ffe56d9170180de8043536d5a0fbbb519b4a4b26.jpg",
+        "img_caption": [
+            "Fig.2Flow chart of the dust source mapping procedure in the Sistan watershed and model evaluation. NDVI, normalized difference vegetation index; FR, frequency ratio; WOE, weights of evidence; AUC,area under curve. The abbreviations are the same as the following figures. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/13d996e0fd21c1a978ae6305c69fd7f369c86ab285e9d6026e07fcb8e3b23cf0.jpg",
+        "img_caption": [
+            "Fig.3An example of dust storm detection in the Sistan watershed from MODIS satelite imagery with FCC (false color combination) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The inventory map of dust source areas in the Sistan watershed is shown in Figure 5.A total of 211 dust source areas were identified, in which $70 \\%$ (147 dust source areas） were randomly selected as modeling training points and $30 \\%$ (64 dust source areas）as validation points for the model evaluation. The training and validation points were distributed rather equally along the plain areas in the Sistan watershed,apart from the northeastern mountainous and rocky areas (Hazarat Mountains in central Afghanistan), where dust sources were very scarce or even absent (Fig. 5). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c0e07034f860cb7341d27079a104d037d31a5f6be008a1ba2d5a019b24556a6.jpg",
+        "img_caption": [
+            "Fig.4Locations (a)and photos (b-e)offield visits in the Iranian teritoryofthe Sistan watershed from l2 to 16 July 2019.The figures b-e are the 1-4 observation sites in Figure 4a. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2Spatial maps of dust source generated by two predictive models ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "After determining the weight of all factors affecting dust source area and multiplying it with the classes of influential factors,the weight maps are combined and the final maps of potential for dust source areas based on the models WOE and FR were obtained.Then, we classified the maps into 4 classes based on naturals break method in ArcGIS: low, medium, high and very high potentials (Fig. 6a and b). According to FR model (Fig. 6a), we detected the very high potential class at the topographic-lower Sistan watershed,as expected, covered by the desiccated Hamoun ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a65c7b2c4ef1e0504394e408cc2e0f66f5d6394feb90f6a3450e249fce1ba034.jpg",
+        "img_caption": [
+            "Fig.5Inventory map with distribution of dust sources divided into training points ( $70 \\%$ ,red)and validation points $30 \\%$ ，green) ",
+            "Fig.6Dust source potential maps (DSPM) produced by FR (a) and WOE (b) models in the Sistan watershed "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Lake and the dried beds of Helmand River at the southern part of the study region (Rashki et al., 2013；Evenstar et al.，2018；Mianabadi et al.， 2021). Therefore,the results show that areas associated with wetlands or rivers are more potential to dust emissions,due to often desiccation and/or dryness during long drought periods (Xi and Sokolik, 2018; Gholami et al., 2020b, c). On the other hand,the high and very high potential classes cover mostly the central part of the Sistan watershed, while moderate and low dust potential classes represent the mountainous northeastern part of the study region (Hazarat Mountains). In general, the results from WOE model (Fig. 6b) present a similar spatial distribution of the potential classes, but highly overestimate the very high potential class,which covered nearly the whole central part of the study region and not only the Hamoun Lake and the dried beds of Helmand River, as predicted by FR model. Steep,rocky and arid mountains in the Iranian part of the study region (westernmost part) are characterized by low and moderate potential classes,indicating that the spatial distribution of the classes is highly related to the topography and slope characteristics, apart from the low NDVI. As shown in the analysis,the very high potential class is strongly related to specific soil characteristics like Orthic Solonchaks,mostly around the Hamoun Lakeand Cambie Arenosols along the Helmand River. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "58°E59E60E61E62°E63E64E65°E66E 58E59E60E61E62E63E64E65E66E3053333353331331 Dust source ata 3000333335331331 40594 Dust source data 3050 333351331 331for validation 3333533 for validationDSPM by DSPM byFR model N11 WOE modelLoW ×LoW8 Moderate No09 MgderateVery high 0 80km Very high 0 80km58E59E60E61E62E63E64E65E66E 58°E59E60E61E62E63E64E65E66E",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table l summarizes the areas corresponding to each dust source potential class and the fraction of the dust sources belonging in each class for the two models. The results of FR model showed that $2 4 . 4 \\%$ of the Sistan watershed is characterized as low potential for dust sources, $20 . 3 \\%$ corresponds to moderate potential, $40 . 8 \\%$ to high potential, while $1 4 . 5 \\%$ of the Sistan watershed exhibits very high potential for dust sources. The results of WOE model present notable differences, especially in the determination of high and very high potential classes, since most areas with the high potential in FR model are appeared in very high potential class in WOE (Fig. 6). More specifically, $12 . 8 \\%$ of the study area is classified as low potential class, $2 4 . 6 \\%$ as moderate potential class, $2 7 . 1 \\%$ as high potential class and $3 5 . 5 \\%$ as very high potential class by the result of WOE. Some changes in the different model algorithms may misclassify a specific range of values (dust source areas) that belong in the margins between high and very high classes and, therefore,such changes in the spatial distribution maps obtained by diferent models may arise.However, the critical is that both models present a similarity in the detection of potential dust class, since the summary of high and very high classes correspond to $5 5 . 3 \\%$ according to FR model and $6 2 . 6 \\%$ according to WOE model of the total area.In addition, $9 3 . 5 \\%$ of dust sources are located in areas characterized by high and very high potential classes by the result of FR model. In WOE model, more than $9 5 . 0 \\%$ of dust source areas are located in regions characterized by high and very high potential classes to dust emissions with different relative fractions between high and very high classes compared with FR model (Table 1).Results presented in this study are in agreement with those reported by Gholami et al. (2O2Ob), who found that a large part $( > 8 0 . 0 \\% )$ （204号 of the Sistan watershed located in Iran, is susceptible to dust emissions and was classified as high and very high susceptibility classes.Behrooz et al. (2O19) reported that desiccated beds of the Hamoun Lake are the dominant sources for dust storms in the Sistan riverside. Overall desiccated beds of the Hamoun Lake, abandoned agricultural lands and bare lands resulted in high and very high susceptibility of dust sources in the Sistan watershed. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/054a55d86208a06fac50fd87d294a4a717f4d3bc86d34c47b099e09361d02fb9.jpg",
+        "table_caption": [
+            "Table1Percentage of dust source areas for each potential classand percentage of dust sources in the validation phase for FR and WOE models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>Potential class of dust source</td><td>Area covered (%)</td><td>Dust source (%)</td></tr><tr><td rowspan=\"4\">FR</td><td>Low</td><td>24.4</td><td>0.00</td></tr><tr><td>Moderate</td><td>20.3</td><td>6.35</td></tr><tr><td>High</td><td>40.8</td><td>50.79</td></tr><tr><td>Very high</td><td>14.5</td><td>42.86</td></tr><tr><td rowspan=\"4\">WOE</td><td>Low</td><td>12.8</td><td>0.00</td></tr><tr><td>Moderate</td><td>24.6</td><td>4.76</td></tr><tr><td>High</td><td>27.1</td><td>15.87</td></tr><tr><td>Very high</td><td>35.5</td><td>79.37</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3Evaluating spatial maps generated by models ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ROC curve was used to evaluate the accuracy of WOE and FR models. The higher the area under the curve, the higher the accuracy of the model that varies from O.5 to 1.0. In general, the classification is characterized as excellent for ROC values between O.9 and 1.0,as very good for 0.8-0.9, good for O.7-0.8,average for $0 . 6 \\mathrm { - } 0 . 7$ and weak for 0.5-0.6(Yesilnacar, 2005).As stated before,in the present study, $30 \\%$ of the dust source areas was used for the evaluation phase (called forecast rate) and $70 \\%$ of the dust source areas was used for the modeling phase (called success rate). The results from the evaluation of the probabilistic WOE and FR models using ROC curve showed that both models exhibited similar values of 0.848 and 0.854,respectively for the training phase (Fig.7a) and O.825 and O.831 for the validation phase (Fig. 7b),which are classified in the very good category. The training and validation rates indicate that both models are acceptable and can be used for satisfactory determination of the potential dust source areas in the Sistan watershed. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4Factors controlling dust sources and assessing relationship between effective factors and dust source areas using predictive models ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Spatial distribution maps of soil information, lithology, slope, vegetation index, geomorphology units and land use that were introduced as independent variables for the determination of dust source areas in the Sistan watershed are shown in Figure 8. Based on the Figure 8a, geomorphological landscapes in the study area include playa, dagg,covered pediment, rock pediment, erosion pediment and mountain in the northeast. A great part of the study area is consisted of bare land and moderate rangeland,while agricultural areas located in southern Hamoun Lake are very limited (Fig. 8b). Furthermore， sand dunes are observed in areas downwind of the major dust sources and along the main dust plumes,as shown in Figure 3. In view of lithology, most area of the Sistan watershed is covered by sedimentary consolidated and non-consolidated rocks (Fig. 8c). In addition， three soil types including Lithosols，Calcic Yermosols and Orthic Solonchacks cover a great part of the study area (Fig. 8d), while the later dominates in the playas and around the Hamoun Lake,i.e., in the areas that are mostly responsible for the dust storms in the Sistan watershed. The whole Sistan watershed had poor and sparse vegetation cover,but a small part, including central and northeastern regions,had a NDVI value ${ > } 0 . 1$ (Fig. 8e). The central part, characterized by flat topography and slope $< 2 \\%$ ，covers more than $50 \\%$ of total area, while steep mountains cover the northeastern part, as well as areas in the west (Fig. 8f). Apart from the geological characteristics that are examined here as potential factors for dust sources, previous studies in the Sistan watershed revealed that surface wind speed, maximum air temperature,relative humidity, Hamoun Lake and the frequency of erosive winds constitute the most important factors for predicting dusty days and land susceptibility to wind erosions (Ebrahimi-Khusfi et al.,2O21).However,the lack of such observational meteorological data in the Sistan watershed belonging to Afghanistan, limited the current analysis to geological factors. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/da84b6b3d9bf28d1d7573d435983ff52898ce15e1bcc9eaa8e809e263aead64b.jpg",
+        "img_caption": [
+            "Fig.7AUC of the receiver operating characteristic (ROC) curve. (a) success rate curve for the dust source potential map of FR and WOE models (training phase); (b) forecast rate curve for the dust source potential map of FR and WOE models (validation phase). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Results of the relationship between each of effective factors and dust source areas using FR and WOE models are presented in Table 2.Based on the results obtained from WOE model and the relationship between land-use parameters and dust source areas,it was found that the highest correlation value was found in periodically dry lake and bare land (0.21), while for other land use types (e.g.， marsh land,residential area, flood plain, salt land and agriculture), correlation was reduced to zero or negative, which indicates no association between these land use types and dust source areas. In FR model, dried-lake surfaces and irrigated agricultural lands displayed the largest coefficients of 2.91 and 1.44,respectively, indicating that irrgated agriculture lands have also high potential in being transformed to dust sources after being abandoned,as also found for water surfaces (e.g., Hamouns Lake) after desiccation (Rashki et al.， 2013). Marsh land, residential areas,salt land and flood plain have the lowest values of correlation, indicating lower probability of dust sources in these areas. These results are consistent with those of previous ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "61E 63E 65E 61E 63E 65E 61E 63E 65E  \n320 (a) Geomorphology 353 350 (b)Landuse 353 353 (c) Lithology 350  \n330 300 20 300 330 330  \nN3 N N N N N0  \nN6Z N6 No6 N67 N67 No6  \nNoL Dust source L 120km NoL NLZ Sand dunee ！ 120km NoLZ NoLZ Dust source 0 120km NoL61E 63°E 65E 61°E 63E 65E 61°E 63°E 65E61E 63E 65E 61E 63E 65E 61E 63E 65E  \n323 (d) Soil 250 250 (e) NDVI 350 Ns3 (f) Slope 320  \n333 333 230 300 333 330  \nN1 N N N N N  \nNo67 Lithosols Calcaric Fluvisols No67 No6 No6 N67 No661E 63E 65E NLZ NL 00000 61E 63E L 120km 65E NLZ NoLZ 61°E 63°E 120km 65E NoL",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "studies, which determined the dust sources in different land use types (Lee et al.,2Oo9; Jewell and Nicoll,2011; Crouvi et al.,2012; Lee et al.,2012; Miler et al.,2012). Zobeck et al. (2013) found that most of dust source areas are located in poor pastures and rainfed agricultural lands, which is consistent with the results in the Sistan watershed.The current results are also in agreement with Lindley et al. (2O11), who considered poor vegetation and unhardened sediments as important factors affecting dust source and wind erosion. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Results about topographic slope showed that slope class of $0 \\% - 2 \\%$ has the highest weight and correlation with dust sources for both models (2.49 and 0.43 for FR and WOE models, respectively) indicating that dust source potential decreases with increasing slope. In FR model, slopes less than $5 \\%$ ，which correspond to plains and flat areas,have the highest correlation with dust source areas,while slopes more than $5 \\%$ that represent hilly and mountainous areas exhibit a lower coefficient with dust source areas. Results of surveying the topographic slope classes using WOE model show that only slope class of $0 \\% - 2 \\%$ ，with a weight of O.43 has a positive relationship with dust source areas,while slope classes $2 \\% - 5 \\%$ ， $5 \\% - 8 \\%$ ， $8 \\% - 1 2 \\%$ and $53 \\%$ display negative relationships.As shown by the distribution of dust source areas on the slope map (Fig. 8f), the maximum and minimum points of dust sources distribute in the slopes from $0 \\%$ to $2 \\%$ and more than $32 \\%$ , respectively. In slope class of $0 \\% - 2 \\%$ , there are 107 points,which cover $50 . 7 1 \\%$ of dust source areas and in slope class of more than $32 \\%$ ， only 6 points $( 2 . 8 0 \\% )$ exist. The results of distribution of dust source areas on geological map of the Sistan watershed indicate that the highest dust source area distribute on the soil of Orthic Solonchaks,which is in the category of soils of arid and desert areas (Aridi Sol)，with l29 dust points, corresponding to ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/473e505d81f038f564c64611e9bd4f25f7dcfb470dffd26ecbf019d1b33fb8e7.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Table 2 Relationship between each of the effective factors and dust source areas using FR and WOE models</td></tr><tr><td>Factor</td><td>pNuIs ieroass</td><td>Class (%)</td><td>Nusmberof</td><td>Dustsoure</td><td>FR</td><td>WOE</td></tr><tr><td>Land use</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Moderate rangeland</td><td>32,868.54</td><td>21.96</td><td>6</td><td>2.84</td><td>0.13</td><td>-0.98</td></tr><tr><td>Agriculture</td><td>5912.27</td><td>3.95</td><td>12</td><td>5.69</td><td>1.44</td><td>-0.98</td></tr><tr><td>Bare land</td><td>101,275.60</td><td>67.67</td><td>172</td><td>81.52</td><td>1.20</td><td>0.21</td></tr><tr><td>Marsh land</td><td>1266.97</td><td>0.85</td><td>0</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Sand dune</td><td>3960.49</td><td>2.65</td><td>5</td><td>2.37</td><td>0.90</td><td>0.00</td></tr><tr><td>Water-dry lake</td><td>3897.69</td><td>2.60</td><td>16</td><td>7.58</td><td>2.91</td><td>0.21</td></tr><tr><td>Residental area</td><td>113.33</td><td>0.08</td><td>0</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Flood plain</td><td>94.46</td><td>0.06</td><td>0</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Salt land</td><td>278.41</td><td>0.19</td><td>0</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Lithology</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sedimentary rocks-consolidated</td><td>96,815.97</td><td>64.69</td><td>111</td><td>52.61</td><td>0.81</td><td>0.54</td></tr><tr><td>Sedimentary rocks-unconsolidated</td><td>42,117.53</td><td>28.14</td><td>98</td><td>46.45</td><td>1.65</td><td>0.54</td></tr><tr><td>Volcano rocks</td><td>8087.59</td><td>5.40</td><td>2</td><td>0.95</td><td>0.18</td><td>-0.32</td></tr><tr><td>Intrusive rocks</td><td>1452.63</td><td>0.97</td><td>0</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Metamorphic rocks</td><td>1194.05</td><td>0.80</td><td>0</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Slope</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0%-2%</td><td>30,529.54</td><td>20.40</td><td>107</td><td>50.71</td><td>2.49</td><td>0.43</td></tr><tr><td>2%-5%</td><td>23,344.82</td><td>15.60</td><td>43</td><td>20.38</td><td>1.31</td><td>-0.81</td></tr><tr><td>5%-8%</td><td>16,660.65</td><td>11.13</td><td>18</td><td>8.53</td><td>0.77</td><td>-0.81</td></tr><tr><td>8%-12%</td><td>16,630.44</td><td>11.11</td><td>19</td><td>9.00</td><td>0.81</td><td>-1.98</td></tr><tr><td>12%-32%</td><td>39,260.29</td><td>26.23</td><td>18</td><td>8.53</td><td>0.33</td><td>0.00</td></tr><tr><td>>32%</td><td>23,242.03</td><td>15.53</td><td>6</td><td>2.84</td><td>0.18</td><td>-1.98</td></tr><tr><td>Soil</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Calcaric Fluvisols</td><td>914.13</td><td>0.61</td><td>0</td><td>0.00</td><td>0.00</td><td>-1.50</td></tr><tr><td>Calcic Yermosols</td><td>66,191.80</td><td>44.23</td><td>48</td><td>22.75</td><td>0.51</td><td>-0.57</td></tr><tr><td>Cambic Arenosols</td><td>6231.48</td><td>4.16</td><td>9</td><td>4.27</td><td>1.00</td><td>1.02</td></tr><tr><td>Lithosols</td><td>42,050.36</td><td>28.10</td><td>13</td><td>6.16</td><td>0.22</td><td>0.00</td></tr><tr><td>Orthic Solonchaks</td><td>31,610.87</td><td>21.12</td><td>129</td><td>61.14</td><td>2.88</td><td>0.91</td></tr><tr><td>Water bodies</td><td>1770.44</td><td>1.18</td><td>12</td><td>5.69</td><td>4.43</td><td>0.00</td></tr><tr><td>Geomorphology</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Playa</td><td>21,037.10</td><td>14.06</td><td>84</td><td>39.81</td><td>2.83</td><td>1.02</td></tr><tr><td>Clay pan (Dagg)</td><td>29,216.91</td><td>19.52</td><td>63</td><td>29.86</td><td>1.53</td><td>0.44</td></tr><tr><td>Covered pediment</td><td>36,726.39</td><td>24.54</td><td>43</td><td>20.38</td><td>0.83</td><td>-0.32</td></tr><tr><td>Rock pediment</td><td>36,130.21</td><td>24.14</td><td>16</td><td>7.58</td><td>0.31</td><td>-0.83</td></tr><tr><td>Erosion pediment</td><td>23,359.55</td><td>15.61</td><td>5</td><td>2.37</td><td>0.15</td><td>-1.32</td></tr><tr><td>Mountain</td><td>3197.62</td><td>2.14</td><td>0</td><td>0.00</td><td>0.00</td><td>-1.32</td></tr><tr><td>NDVI</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>-0.4-0.0</td><td>148,415.93</td><td>99.16</td><td>211</td><td>100.00</td><td>1.01</td><td>0.01</td></tr><tr><td>0.0-0.1</td><td>1048.86</td><td>0.70</td><td>0</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>0.1-0.2</td><td>141.04</td><td>0.09</td><td>0</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>>0.2</td><td>61.94</td><td>0.04</td><td>0</td><td>0.00</td><td>0.00</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$6 1 . 1 4 \\%$ of total dust source areas. Other soil types present correlation values less than l and/or even negative. Similarly， results of WOE model， regarding the relationship between soil characteristics and dust source areas，show that the highest values belong to the Orthic Solonchaks and Cambic Arenosol classes with coefficients of 0.91 and 1.02,respectively, while the lowest, to the Calcaric Fluvisols class with a coefficient of -1.50 (Table 2). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Regarding NDVI, areas with sparse vegetation and bare soil exhibit the highest probability of dust occurrence and areas with dense vegetation the lowest (Dawelbait and Morari,2O12). Both models show that all the weights belong to NDVI class $- 0 . 4$ to O.0,in which dust source areas is located,while the other classes,which are without dust sources, have not taken any weight. Regarding the geomorphological units and types in the study area, according to FR model, it is found that the highest values are related to salt playa (desert) and clay pan (Dagg) with the values of 2.83 and 1.53, respectively, indicating a high correlation, whereas the lowest value (zero) is related to mountain class.Results obtained from WOE model present lower values or even negative for certain geomorphology types (Table 2).Regarding WOE model, the highest value of dust source areas is related with playa and then clay pan terrains. By examining dust source areas on the lithological map of the region, it is found that most of dust sources are related to the unit of discontinuous and continuous sediments. In FR model， the highest correlation is between discontinuous sediment classes with a coefficient of 1.65.In WOE model, discontinuous and continuous sedimentary strata with a coefcient of 0.54 exhibit the highest potential and a direct relationship with dust source areas.Furthermore, there is no dust source areas in the metamorphic and intrusive rocks class (Table 2). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The degree of participation (importance) of each factor on dust source areas from both FR and WOE models is presented in Table 3. Results show that in both models, soil factor exhibited the most effect, followed by geomorphology and slope in FR model and the reverse in WOE model. In addition, NDVI and lithology had the least effects in FR and WOE models, respectively (Table 3). ",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/acc72c2d7c16cf59f76c8953ead2abf4ebf95112d0e2a02a186c0eacd0b162af.jpg",
+        "table_caption": [
+            "Table 3Relative importance of each of effective factors on dust source areas according to FR and WOE models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Factor</td><td>FR</td><td>Factor</td><td>WOE</td></tr><tr><td>Soil</td><td>0.9080</td><td>Soil</td><td>0.908</td></tr><tr><td>Geomorphology</td><td>0.6160</td><td>Slope</td><td>0.693</td></tr><tr><td>Slope</td><td>0.5750</td><td>Geomorphology</td><td>0.616</td></tr><tr><td>Land use</td><td>0.2000</td><td>NDVI</td><td>0.508</td></tr><tr><td>Lithology</td><td>0.1720</td><td>Land use</td><td>0.200</td></tr><tr><td>NDVI</td><td>0.0001</td><td>Lithology</td><td>0.172</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.5Interpretability of predictive models using game theory ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "PFIM and SHAP plots show the relative importance of factors controlling dust emissions and their contributions to base value and predictions (Fig. 9).Based on PFIM,the relative importance ofeffectivecontrolling factors on dust emissions was as follows: slope>NDVI>soil>geomorphology>land use>lithology (Fig.9a). SHAP values for each feature are presented in Figure 9b.The highest and lowest values of SHAP were calculated for soil and geomorphology,respectively.Figure 9c combines the feature importance with feature efects.The color shows the value of factors from low to high. Based on SHAP,the contribution of factors controlling dust emissions was as follows: soil>slope>NDVI>land use>lithology>geomorphology. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The novel contribution of this study is combining indicators extracted from RS, statistic-based predictive models and game theory to spatial mapping of land susceptibility to dust emissions in a very important dust source area-Sistan watershed-in the borders of Iran and Afghanistan. In order to generate the spatial maps of dust source areas, we initially developed the inventory map of dust sources by using DSPI based on RS data. Then, two predictive models (FR and WOE） were applied to determine the relative importance of factors that control land susceptibility to dust emissions in the Sistan watershed.The model results were validated using ROC method and AUC indicator, while game theory (PFIM and SHAP) was applied to assess the interpretability of predictive models.Based on both models,soil, slope and geomorphology were found as the most important topographic factors controlling dust emissions in the study area. According to the results of both predictive models, $5 5 5 \\%$ of the study area was categorized into high and very high susceptibility classes.The results from models' evaluation using ROC method showed that both models have high and very similar performance. Based on SHAP, three factors consisting slope, NDVI and soil had the most impact on model's predictions. Overall, our modelling approach is recommended to generate spatial maps of diferent environmental hazards,especially wind erosion and predict land susceptibility to dust emissions over dusty areas with active wind erosion. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/54d3255fab6fe58713ae39302e2fccb93b9037c5361c006e6c980b22c401305d.jpg",
+        "img_caption": [
+            "Fig.9(a) relative importance of factors controlling dust emissons by PFIM (permutation feature importance measure); (b)contribution of base value for factors controling dust emissions by SHAP; (c) SHAP value for each factor. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The study was financially supported by the Fund for Support of Researchers and Technologists of Iran (97022330),Panhelenic Infrastructure for Atmospheric Composition and Climate Change (PANACEA；MIS 5021516), Competitiveness,Entrepreneurshipand Innovation (NSRF 2014-2020) and co-financedby Grece and the European Union (European Regional Development Fund). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abasi H,OppC,GrollM,etal.2019.WindregimeandsandtransportintheSistanandRegistanregions (Iran/Afghanistan). Zeitschrift fur Geomorphologie (Suppl.),62(1): 41-57.   \nAckerman SA.1997.Remote sensing aerosols using satelite infrared observations.Journalof Geophysical Research: Atmospheres,102(D14): 17069-17079.   \nAkbari M,Bashiri M,Rangavar A.20l7.Aplicationofdata miningalgorithms toappreciatesensitivityand spatial zoning prone to floating view in Khorasan RazaviDisplay Basins.Journal ofEnvironmental Erosion Research,7(26):16-42.   \nBaddock MC,GillTE,BulardJE,etal.20l.Geomorphologyof the ChihuahuanDesertbasedonpotential dustemiions.   \nBenrooZ K D，Esmal-Sarl A，Banramiar N，etal.ZUl/．Irace-eiement concentrauons and water-Solubie ionsin size-segregated dustborne and soil samples in Sistan,southeast Iran.Aeolian Resarch,25:87-105.   \nBehroozRD,Kaskaoutis DG,Grivas G,etal.2O21.Humanhealth riskassssmentfortoxic elements inthe extremeambient dust conditions observed in Sistan,Iran.Chemosphere,262:127835,doi:10.1016/j.chemosphere.2020.127835.   \nBilal M,NicholJE,ChanPW.2014.Validationandaccuracy assessmentofa Simplified Aerosol Retrieval Algorithm (SARA) over Beijing under low and high aerosol loadings and dust storms.Remote Sensing of Environment,153:50-60.   \nBoloorani AD,PapiR,SoleimaniM,etal.2O21.WaterbodieschangesinTigrisandEuphratesbasinhasimpacteddusttorms phenomena.Aeolian Research,50:100698,doi:10.1016/j.aeolia.2021.100698.   \nBonham-Carter GF.1994.Geographic information systems for geoscientists: modeling with GIS.Computer Methods in the Geoscientists,13:398.   \nBoroughani M,Hashemi HHossini SH,etal.2019.Desiccating Lake Urmia: anewdustsourceofregional importane.IEEE Geoscience and Remote Sensing Letters,17(9): 1483-1487.   \nBoroughaniM.2O2o.Identificationofdustsource area in Sistanbasinanddeterminationoftheir characteristics.IranianJournal of Range and Desert Research,27: 617-631.   \nBoroughani M,Pourhashemi S,Hashemi H,et al.2020.Aplication of remote sensing techniques and machine learning algorithms in dust source detection and dust source susceptibility mapping.Ecological Informatics,56:101059.   \nCao H,AmiraslaniF,LiuJ,etal.2O15.Identificationofduststormsourceareas in West Asiausing multipleenvironmental datasets. Science of the Total Environment, 502: 224-235.   \nChen X,Chen H,YouY,etal.20l5.Susceptibilityassessmentofebris flowsusingtheanalytic hierarchyprocess ethd-A case study in Subao river valley, China.Journal ofRock Mechanics and Geotechnical Enginering,7(4): 404-410.   \nCrouvi O,Schepanski K,Amit R,et al.2012.Multiple dust sources in the Sahara Desert:The importance of sand dunes. Geophysical Research Letters,39(13): L13401,doi:10.1029/2012GL052145.   \nDawelbait M,MorariF.2O12.Monitoring desertificationina Savannah region in SudanusingLandsat imagesand spectral mixture analysis. Journal of Arid Environments,8O:45-55.   \nDubeF,NhapiI,Murwira A,etal.2014.Potential of weight of evidence modelling forgully erosion hazard asessment in Mbire District-Zimbabwe.Physics and Chemistry of the Earth,67-69:145-152.   \nEbrahimi-Khusfi Z,Nafarzadegan AR,DargahianF2021.Predicting thenumberofdustydays aroundthe desert wetlands in southeastern Iran using feature selection and machine learning techniques.Ecological Indicators,125:107499,doi: 10.1016/j.ecolind.2021.107499.   \nEmamianA,RashkiA,KaskaoutisDG,etal.2O21.Assessngvegetationrestorationpotentialunderdierentlandussand climatic classes in northeast Iran.Ecological Indicators,122:107325,doi:10.1016/j.ecolind.2020.107325.   \nEngelstaedter S,TegenI,WashingtonR.2O06.NorthAfrican dustemissionsandtransport.Earth ScienceReview,79(1-2): 73-100.   \nEvenstar LA,Sparks R SJ,CooperFJ,etal.2O18.Quaternary landscape evolution of the Helmand Basin,Afghanistan: Insights fromstaircaseterraces,eltas,andpaleoshorelines using highresolutionremote sensinganalysis.Geomorphology1: 37-50.   \nFloydKW,GillTE.2O11.Theasociationof landcoverwithaeolian sediment productionat Jornada Basin,New Mexico, USA.Aeolian Research,3(1): 55-66.   \nFrancis D,AlshamsiN,Cuesta J,etal.2O19.Cyclogenesisanddensitycurrnts inthe MiddleEast andtheassciatedust activity in September 2015.Geosciences,9:376.   \nFrancis D,Chaboureau JP,NeliN,etal.2O21.Summertimedust storms overthe ArabianPeninsulaand impactsonradiation, circulation,cloud development and rain.Atmospheric Research.250:105364,doi: 10.1016/j.atmosres.2020.105364.   \nGholami H,MohamadifarA,Colins AL.202Oa.Spatial mappngof the provenanceofstorm dust:Applicationof data mining and ensemble modelling.Atmospheric Research,233:104716,doi: 10.1016/j.atmosres.2019.104716.   \nGholami H,MohammadifarA,PourghasemiHR,etal.202ob.Anewintegrateddata mining model to mapspatialvariationin the susceptibility of land toact asa source of aeolian dust.Environmental Science and Pollution Research,27(33): 42022-42039.   \nGholami H,MohamadifarA,SorooshianA,etal.2O2Oc.Machine-learningalgorithms forpredictinglandsusceptibilitytodust emissions: The case of the Jazmurian Basin,Iran.Atmospheric Pollution Research,11(8):1303-1315.   \nGoossens D,Buck B.2014.Dynamicsof dustclouds produced byof-road vehicle driving.Journalof Earth Sciencesand Geotechnical Engineering,4(2): 1-21.   \nHamidianpour M,Jahanshahi S MA,Kaskaoutis DG,etal.2021.Climatologyof the Sistan Levar wind:Atmospheric aynamicsariving isonset,quratonand witnarawal.Atmospneric Kesearcn,ou:iu/i1,aol: IU.Uio/J.atmosres.zU1. 105711.   \nHao J,Ma C,Gao C,et al.2Oo7.Pseudomonas stutzeri asa novel biocatalyst for pyruvate production from DL-lactate. Biotechnology Letters,29(1):105-110.   \nIndoitu R,OrlovskyL,OrlovskyN.2012.Dust storms inCentral Asia: Spatial and temporal variations.Journal of Arid Environment, 85: 62-70.   \nJavan S,RahdarS,MiriM,etal.2O21.ModelingofthePM10polutanthealth effects inasemi-aridarea:acase studyin Zabol, Iran.Modeling Earth Systems and Environment,7: 455-463.   \nJewellPW,NicollK.201.Windregimesandaeolian transportintheGreatBasin,U.S.A.Geomorphology,29(1-2):1-13.   \nJiaoP,WangJ,ChenX,eal.021.Nextgeneratioremotessingandpredictioofsandndduststorms:State-of-tartand future trends.International Journal of Remote Sensing,42(14): 5281-5320.   \nKaskaoutis DG,RashkiA,HussosEE,etal.20l5.Meteorologicalaspectsassociated with duststorms intheSistaregion, southeastern Iran. Climate Dynamics,45(1-2): 407-424.   \nKaskaoutis DG,HoussosEE,Rashki A,etal.20l6.The Caspian Sea-Hindu Kush Index (CasHKI):aregulatory factorfordust activity over southwest Asia. Glob Planet Change,137:10-23.   \nKaskaoutisDG,HoussosEE,MinvielleF,etal.2O18.Long-termvariabilityandtrendsintheCaspianSea-Hindu Kush Index: influenceonatmospheric circulation paterns,temperature andrainfallover the Middle Eastand southwest Asia.Global Planet Change,169:16-33.   \nKharol SK,Kaskaoutis DG,Badarinath KVS,etal.2013.Influenceof land use/land cover (LULC)changes onatmospheric dynamics over the arid region of Rajasthan state,India. Journal of Arid Environment, 88: 90-101.   \nKlingmüler K,PozerA,MetzgerS,etal.2O16.Aerosoloptical depth trendoverthe MiddleEast.Atmospheric Chemical Physics,16: 5063-5073.   \nLeJ,ShiYR,CaiC,etal.2O21.Machinelearnngbasedalgorithms forglobaldustaerosoldetectionfromsatelite images: Inter-comparisons and evaluation. Remote Sensing,13(3): 456.   \nLee JA,GillTE,Mullgan KR,et al.2009.Landuse/land coverand pointsourcesof the15 December 2003 dust storm in southwestern North America. Geomorphology,105(1-2): 18-27.   \nLee JA,Baddock MC,MbuhMJ,et al.2012.Geomorphic andlandcovercharacteristicsof aeoliandustsources in WestTexas and eastern New Mexico,USA.Aeolian Research,3(4): 459-466.   \nLindleyTT,VitaleJD,Burgett WS,etal201roxiitymeteorologicalobservations forwind-drivengrasland wildfire starts on the southern High Plains.E-Journal of Severe Storms Meteorology,6(1): 1-27.   \nLiu D,Abuduwaili J,LeiJ,etal.2O11.Depositionrateandchemical compositionoftheaeoliandust fromabare salie playa, Ebinur Lake,Xinjiang,China.Water,Air,& Soil Pollution,218(1):175-184.   \nMianabadi H,Alioghli S,Morid S.2O21.Quantitativeevaluationof'No-harm'rulein internationaltransboundary waterlawin the Helmand River basin.Journal of Hydrology,599:126368,doi:10.1016/j.jhydrol.2021.1.   \nMiddleton N,Kang U.2017. Sand and dust storms: Impact mitigation. Sustainability,9(6):1053.   \nMidleton N.2O19.Variabilityand trends indust stormfrequencyon decadal timescales: Climatic drivers and human mpacts. Geosciences,9(6): 261,doi:10.3390/geosciences9060261.   \nMillerME,BowkerMA,Reynolds RLetal.20l2.Post-fire land treatmentsandwinderosion-lessons from the MilfordFlat Fire,UT, USA.Aeolian Research,7: 29-44.   \nMiler S D.2003.A consolidated technique for enhancing desert dust storms with MODIS.Geophysical Research Leters, 30(20): 1-4.   \nModarres R.2021.Dust storm frequencychange inrelation to climate drivers.International Journal of Climatology,41(S1): E187-E199.   \nMohammadifar A,Gholami H,CominoJR,et al.2021.Asessentof the interpretabilityof data mining forthe spatial modelling of water erosion using game theory. CATENA,200:105178,doi: 10.1016/j.catena.2021.105178.   \nMotevalliA,NaghibiSA,HashemiH,etal.20l9.Inversemethodusingboostedregresiontreeandk-earestneigborto quantify efectsof point and non-point source nitrate polution in groundwater.Journal of Cleaner Production，228: 1248-1263.   \nNamdari S,KarimiN,Soroshian A,etal.2018.Impactsofclimateand synoptic fluctuations ondust storm activityover the Middle East.Atmospheric Environmental,173: 265-276.   \nNamdari S,Valizadeh Kamran K,SorooshianA,etal.2021.Analysisofsomefactors relatedtodust stormsoccurrence nthe Sistan region.Environmental Science and Polltion Research,28: 45450-45458,doi:10.1007/s11356-021-13922-6.   \nNandi A,Shakoor A.2O10.AGIS-basedlandslide susceptibilityevaluation using bivariate and multivariate statisticalanalyses. Engineering Geology,110(1-2): 11-20.   \nNotaroM,YuY,KalashnikovaOV.2O15.RegimeshiftinArabiandustactivity,triggeredbypersistentFertileCrescent drought. Journal of Geophysics Research,120(19):10229-10249,doi: 10.1002/2015JD023855.   \nParajuli SP,ZenderC S.2017.Connecting geomorphology to dustemision through high-resolution mappngof global land cover and sediment supply.Aeolian Research,27: 47-65.   \nPark SS,Kim J,LeeJ,etal.2014.Combineddust detectionalgorithmbyusing MODIS infraredchannelsoverEastAsia. Remote Sensing of Environment,141: 24-39.   \nQu JJ,Hao X,Kafatos M,etal.2O06.Asian dust storm monitoring combining Terr and Aqua MODIS SRB measurements. IEEE Geoscience and Remote Sensing Letters,3(4): 484-486.   \nRashki A,EriksonPG,Rautenbach CDW,etal.O13Assssmentofhemicalandieralogicalcharacteristicsofboe dust in the Sistan region,Iran. Chemosphere,90(2): 227-236.   \nRashkiA,KaskaoutisDG,SepehrA.2O18.Statistical evauationofthedusteventsatselected stations insouthwestAsia:from the Caspian Sea to the Arabian Sea. CATENA,165: 590-603.   \nRaspanti GA,HashibeM,SiwakotiB,etal.2O16.Householdairpollutionand lungcancerriskamong never-smokers Nepal. Environmental Research,147: 141-145.   \nSankey JB,Wallace C S,Ravi S.20l13.Phenology-based,remote sensing of post-burn disturbance windows inrangelands. Ecological Indicators,30: 35-44.   \nSchepanski K,Tegen I,Macke A.2012.Comparison of satelitebased observations of Saharan dustsource areas.Remote Sensing of Environment,123: 90-97.   \nShaheenA,WuR,AldabashM.2O20.Long-termAODtrendassessmentover theEastern Mediterraneanregion:Acomparative study includinganew mergedaerosolproduct.AtmosphericEnvironmental,7736,doi:10.1016/j.atmosenv.20.1736.   \nShapley L.S.2016.17.A Value for N-person Games.Princeton: Princeton University Press,307-318   \nShahsavani A,Tobias A,Querol X,etal.2O2O.Short-term efectsofparticulate materduringdesert and non-desertdust days on mortality in Iran.Environment International,134:105299,doi:10.1016/j.envint.2019.105299.   \nSissakianVK,Al-AnsariN,Knutsson S.2013.Sand anddust storm events in Iraq.Natural Science,5(1O):1084-1094.   \nSoltani N,KeshavarziB,MooreF,etal.2Ol5.Ecologicalandumanhealthhazardsofheavymetalsandpolycyclicaromatic hydrocarbons (PAHs)in road dust of Isfahan metropolis,Iran. Science Total Environmental,5O5:712-723.   \nSoni M,Payra S,Verma S.2O18.Particulate mater estimationoverasemi-aridrgion Jaipur,Indiausingsatelite AODand meteorological parameters.Atmospheric Pollution Research,9(5): 949-958.   \nStafoggia M,Zauli-Sajani S,PeyJ,etal.2O16.Desert dustoutbreaks in Southern Europe:Contribution todaily PM10 concentrations and shorttermasociations with mortalityand hospitaladmissions.Environmental Health Perspectives,124: 413-419.   \nSuresh K,Singh U,Kumar A,etal.2021.Provenance tracingoflong-range transporteddustoverthe Northeastern Arabian Sea during the southwest monsoon.Atmospheric Research,250:105377,doi: 10.1016/j.atmosres.2020.105377.   \nVickery K J,EckardtFD.2O13.Dust emision controls onthe lower KuisebRivervalley,Central Namib.AeolianResearch, 10: 125-133.   \nWalker AL,LiuM,MilerSD,etal.29.Developmentofadustsourcedatabase formesoscale forecasting insouthwest Asia. Journal of Geophysical Research: Atmospheres,114,D18207,doi: 10.1029/2008JD011541.   \nYesilnacarEK.2oo5.Theapplicationofcomputationalintellgence tolandslidesusceptibilitymapping inTurkey.PhDThesis. Melbourne: University of Melbourne.   \nYilmazI.2009.Landslidesusceptibilityappingusing frequencyratio,logisticegression,artificialneuraletworksadthr comparison: a case study from Kat landslides (Tokat-Turkey). Computers & Geosciences,35(6):1125-1138.   \nYuY,NotaroM,KalashnikovaOV,etal.2016.ClimatologyofsummerShamal windinthe MiddleEast.JouralofGeophsics Research,121(1):289-305,doi: 10.1002/2015JD024063.   \nYuY,NotaroM,LiuZ,etal.ol5.ClimaticcontrolsontheinteranuatodecadalvariabilityinSaudi Arabiandustactivity: toward the development ofa seasonal dust prediction model. Journal of Geophysics Research,120(5):1739-1758.   \nZhang X,Kang T,Wang H,et al.2O10.Analysison spatial structureof landusechange basedonremote sensing and geographical information system.International Journalof Appied Earth Observationand Geoinformation，12(S2): S145-S150.   \nZobeckTM,Baddock M,vanPeltRS,etal.2O13.Soilpropertyeffectsonwinderosionoforganicsoils.AeolianResearch,10: 43-51. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    }
+]

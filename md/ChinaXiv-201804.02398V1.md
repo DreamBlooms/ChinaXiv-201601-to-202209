@@ -1,0 +1,256 @@
+# 一种改进的个性化查询引文推荐方法“
+
+李飞‘，张宏鸣1，蔡晓妍²，刘斌1，郭蓝天²(1．西北农林科技大学 信息工程学院，陕西 杨陵 712100;2．西北工业大学 自动化学院，西安 710072)
+
+摘要：为充分利用文本内容的上下文信息，结合图模型及查询向量的构建方法，提出一种融合查询内容信息的个性化引文推荐方法。通过三种论文信息构建三层图模型，并在不同层上设置不同参数，调整节点向不同层次的跳转概率；利用word2vec技术构建的查询向量，可以有效利用文本上下文内容信息，使相似的文章在距离上更加接近，进而对候选文章进行评分预测与论文推荐。在 Asociation of Computational Linguistics Anthology Network 数据集上进行计算分析，相同查询下与原有的方法相比在recall $@ \mathrm { N }$ 上平均提高约 $7 \%$ ，在 $\mathsf { N D C G } @ \mathsf { N }$ 上平均提高约 $1 1 \%$ 。实验结果表明该方法可以使引文推荐的质量得到有效的提升，能够获得较好的推荐效果。
+
+关键词：多关系图；词向量；查询向量；带重启的随机游走；个性化推荐 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.02.0086
+
+# Improved method for personalized query citation recommendation
+
+Li Fei1, Zhang Hongmingl†, Cai Xiaoyan², Liu Bin1, Guo Lantian² (1.CollegeofIformationEngieeing,NrthwestA&FUniversityYanglingSani,China;2,hoolofutotio Northwestern Polytechnical University,Xi'an 710072,China)
+
+Abstract: To make full useofthecontext information ofthe papers,combined with the construction methodof graph model and query vector, this paper proposeda fusionquery information personalized citation recommendation method.Builtathree layer graph model through threekinds ofpaper information,and setdiferent parametersondiferent layers toadjustthe jump probabilityof nodes todiferent levels;the query vector constructedusing word2vec technologycan efectivelyuse the text context information,so that similar papers are closer to the distance,and then thecandidate papersare predicted and recommended.Computational analyzes performedonthe Associationof Computational Linguistics Anthology Network dataset showed an average increase of about $7 \%$ over recall $@ \mathrm { N }$ and an average increase of about $1 1 \%$ over NDCG $@ ^ { \chi }$ N for the same querycomparedtotheoriginal method.Experimentalresultsshowthattheproposed methodcan efectively improve thequality of citation recommendation and get better recommendation results.
+
+Key Words: multi-relation; word vector; query vector; random walk with restarts; personalized recommendation
+
+# 0 引言
+
+科技论文推荐的研究是为满足研究人员引用需求，推荐少量的并与他们研究内容相关的科技论文[I]。目前，使用最广泛的推荐技术是基于内容过滤（content-based filtering，CBF）和基于协同过滤（collaborative filtering，CF）[2]。CBF从文本内容中提取到的单词或者根据一定方法获得文章主题层面的研究内容，从而推荐与查询相匹配的论文。但同时CBF具有传统信息检索所存在的问题，如语义模糊性[3]。CF方法主要是利用论文引用网络和作者合作关系网络来挖掘论文和查询者之间相互关系进行推荐，用到的信息如用户标签[4或用户历史信息[5]，但CF 这种方法具有数据稀疏、冷启动和可扩展性等问题[67]。
+
+随着复杂异构信息网络研究的兴起，基于图模型的推荐方法受到越来越多的关注[8]。现有基于图的推荐方法使用数据集各种关联信息等来构建图模型（如文献[9])，把引文推荐作为一项引用链接预测工作，如West等人[10]提出的基于引用关系图的层次聚类算法来确定论文的相关性，并根据论文在这些聚类中的重要性进行推荐。为解决引用关系图的稀疏和噪音问题，
+
+Zhou 等人[1提出了一种新的整合了引用关系和作者关系来衡量论文相似度的推荐任务的分解策略图模型。然而，该方法主要强调引文网络的链接作用，忽视了数据集中的其他有用信息。Pan等人[9利用引用关系和内容信息形成一个异构网络，使用基于图的相似度学习算法执行推荐任务。Meng等人[12]基于作者，论文，词和主题四个层面构建异构图模型，提出了个性化推荐算法，在构建关键字层时用到了latentDirichletallocation（LDA)[13]或者TF-IDF[14.3]。但是TF-IDF只是词之间的重叠，没有考虑词语之间的语义信息。Ren 等[I认为一些目标文章查询进行推荐结果产生的过程是不同的，因此他们提出了一种软聚类方法来解释这种行为差异。Wang 等人[15]通过基于主题建模和内容分析的概率模型将文本内容融入到传统的矩阵分解方法中去。
+
+上述方法存在两个方面的问题：a）这些方法没有考虑没有考虑到词与词之间的上下文之间的关系；b)查询中没有用到查询内容与候选集合论文的关系。本文利用作者关系、论文引用关系和论文内容等信息构建三层图模型，在层与层之间添加相关参数来控制模型中节点跳转的不确定性。在此基础上，利用研究人员的个性化信息和上下文内容信息构建查询向量向量，运行带重启的RandomWalk的方法，产生最终的推荐列表。本文所提方法具有以下贡献：a)文本内容表示向量的生成，可以更有效的利用文本上下文信息；b)在不同节点层之间设置不同的游走参数，可以使节点的跳转更符合实际情况，能够对目标的推荐结果进行优化。
+
+# 1 本文方法
+
+# 1.1问题定义
+
+为了能够简单的表示和直观的理解，在本文中把文献推荐问题定义为训练得到相关论文评分列表的问题 $r ( q , p ) { \mathrel { : } } Q { \times } P {  } R$ 其中 $\pmb q$ 表示针对一篇文章的一个查询向量， $\pmb q \in \pmb q$ ： $\pmb { p }$ 为一篇候选文献， $\pmb { p } { \in } P$ . $\pmb { R }$ 是查询结果集合，此问题是根据论文集合中的异构关系构成的。通过训练得到的针对查询文献与候选文献之间的得分列表 $r ( q , p )$ ，然后根据 $r ( q , p )$ 产生推荐结果集合。更详尽地，本文把个性化引文推荐问题定义如下：给定一个由论文集合中相关信息构建的异构图 $G$ 和查询论文 $q _ { P }$ 查询关键字 $\scriptstyle q _ { w }$ 和查询人 $\scriptstyle q _ { a }$ （如果该查询者是已知的)组成一个查询向量$\scriptstyle q = [ q _ { p } , q _ { a } , q _ { w } ]$ 。根据构建的推荐模型，为一个查询 $\pmb q$ 推荐一个与目标文献相关的候选文献子集。表1是给出了本文用到的一些标记符号。
+
+表1符号标记  
+
+<html><body><table><tr><td>标记符</td><td>标记符描述</td></tr><tr><td>P</td><td>论文集合</td></tr><tr><td>A</td><td>作者集合</td></tr><tr><td>W</td><td>关键字集合</td></tr><tr><td>Q</td><td>查询向量集合</td></tr><tr><td>m</td><td>作者数量</td></tr></table></body></html>
+
+<html><body><table><tr><td>n</td><td>论文数量</td></tr><tr><td>k</td><td>关键字个数</td></tr><tr><td>Mpp</td><td>nxn 的论文引用关系矩阵</td></tr><tr><td>Maa</td><td>m×m 的作者关系矩阵</td></tr><tr><td>Mww</td><td>kxk 的关键字矩阵</td></tr><tr><td>Map</td><td>mxn 的作者-论文关系矩阵</td></tr><tr><td>Mpw</td><td>nxk的论文-关键字关系矩阵</td></tr><tr><td></td><td>n+m+k个元素的查询向量</td></tr><tr><td>qp</td><td>包含于q的n个元素的论文向量</td></tr><tr><td>qa</td><td>包含于q的m个元素的作者向量</td></tr><tr><td>qw</td><td>包含于q的m个元素的关键字向量</td></tr><tr><td></td><td>词向量相似度阈值</td></tr></table></body></html>
+
+# 1.2基于个性化查询的文献推荐方法
+
+# 1.2.1三层图模型
+
+为了尽可能有效地利用数据集中信息进行推荐，本文构建了多层图网络模型。如图1所示，该图模型包含三种不同类型的实体一作者、论文、关键字，存在的关系有作者-作者合作关系（ $\mathbf { \left| R _ { l } \right. }$ ，作者-论文关系（ $\left[ { \mathsf { R } } _ { 2 } \right)$ ，论文-论文引用关系（ $\left. \mathbf { R } _ { 3 } \right.$ ，论文-关键字包含关系（ $\mathrm { . R _ { 4 } } \mathrm { . }$ ）等四种。因此，它们之间的关系可以归结为一个三层图模型，层内之间连接的两点表示两个相同的实体类型，层间的链接的两点表示两个不同实体类型。该三层图模型可以表示如下： $G = < V , E , M >$ ，其中 $V$ 表示的是节点的集合。 $V$ 包含三个集合：作者集合 $A { = } \{ a \imath , a 2 , . . . , a { _ m } \}$ ，论文集合$P { = } \{ p _ { I } , p _ { 2 } , . . . , p _ { n } \}$ ，关键字集合 $V { = } \{ w I , w 2 , { \ldots } , w k _ { f } ^ { \chi }$ ,也即 $V { = } A \cup P \cup$ $\smash {  { V _ { \circ } } }$ 集合 $E$ 是集合 $V$ 中存在链接的边， $E { = } \{ { < } \nu i , \nu j { > } |$ vi,vj $\in V \}$ 。$M$ 是关系矩阵，其中wij表示链接节点 $\mathbf { \Psi } _ { \nu i }$ 和节点vj之间的权重。
+
+![](images/b2c42384803ad4c7dd215e18102a617528b7e94cec4007b5829655dd8bc73f64.jpg)  
+图1三层图模型
+
+a)作者层。当查询相关文档时，作者的可靠性和专业知识可以发挥重要的作用[16]。在构建作者关系矩阵 $\pmb { M } _ { A A }$ 时，如果作者 $a _ { i }$ 和 $a _ { j }$ 有合作关系，则 $w _ { i j } { = } w _ { j i } { = } 1$ ；如果两个作者没有合作关系 $w _ { i j } { = } w _ { j i } { = } 0$ 。同理，在 $\pmb { M } _ { A P }$ 中，如果作者 $a _ { i }$ 是论文 $p _ { j }$ 的一个作者，则 $w _ { i j } { = } w _ { j i } { = } 1$ ；如果不是则置 $w _ { i j } { = } w _ { j i } { = } 0$ 。
+
+b)关键字层。在 $M _ { W W }$ 中设置所有边权值为0，对于 $\mathbf { M } _ { \mathrm { P W } }$ 和上文作者与论文关系类似，如果论文 $p _ { i }$ 中包含关键字 $\nu _ { j }$ $w _ { j i } { = } w _ { i j } { = } 1$ ，否则 $w _ { j i } { = } w _ { i j } { = } 0$ 。
+
+c)论文层。与上面不同，在 $\pmb { M } _ { P P }$ 中，如果论文 $p _ { i }$ 引用了论文 $p _ { j }$ ， $w _ { i j } = 1$ ，则 $w _ { j i } = 0$ ；如果两篇论文之间不存在引用关系则
+
+$$
+w _ { i j } = w _ { j i } = 0 _ { \circ }
+$$
+
+根据上文所述，本文中概率转移矩阵 $\pmb { M }$ 被分解为九个子矩阵，即 $\pmb { M } _ { A A }$ ， $\pmb { M } _ { P P }$ ， $M _ { W W }$ ， $\pmb { M } _ { A P }$ ， $M _ { A W }$ ， $M _ { P W }$ ， $M _ { W P }$ ， $\pmb { M } _ { P A }$ ， $\scriptstyle { M _ { W A } }$ ，其中 $\scriptstyle M _ { A W } = \pmb { \theta }$ ， $\scriptstyle M _ { W A } = \pmb { \theta }$ 。一篇候选文章与目标文献的相关性可以通过层加权和得到，计算如下所示：
+
+$$
+\begin{array} { l } { { { \cal R } \Big ( p _ { _ { i } } \Big ) = \displaystyle ( I - \theta ) \Bigg [ \alpha \sum _ { p ,  p _ { i } } M _ { _ { P P } } ^ { \mu } { \cal R } \Big ( p _ { _ { j } } \Big ) + \beta \sum _ { a ,  p _ { i } } M _ { _ { P A } } ^ { \mu } { \cal R } \Big ( a _ { _ { j } } \Big ) } } \\ { { + \gamma \sum _ { w ,  p _ { i } } M _ { _ { P w } } ^ { ^ { j } } { \cal R } \Big ( w _ { _ { j } } \Big ) \Bigg ] + \theta q } } \end{array}
+$$
+
+其他层节点的相关性可以通过相似的公式计算得到。从式（1）可知通过调整相应的参数 $( \alpha , \beta ,$ y）可以控制层节点从当前层游走的下一层的概率。分解后的关系矩阵 $M$ 可以表示成如下所示：
+
+$$
+M = \left( \begin{array} { c c c } { { \alpha _ { \it { l } } M _ { \it \Delta p } } } & { { \beta _ { \it { l } } M _ { \it \Delta s } } } & { { \gamma M _ { \it \Delta w } } } \\ { { \alpha _ { \it { 2 } } M _ { \it \Delta p } } } & { { \beta _ { \it { 2 } } M _ { \it \Delta s } } } & { { o } } \\ { { \alpha _ { \it { 3 } } M _ { \it \Delta p } } } & { { o } } & { { o } } \end{array} \right)
+$$
+
+在分解矩阵 $\pmb { M }$ 中， $\pmb { M } _ { P P } ( i , j )$ 表示三层图模型中论文 $p _ { i }$ 和 $p _ { j }$ 之间的引用关系矩阵， $M _ { A A } ( i , j )$ 表示模型中的作者是作者 $a _ { i }$ 和作者 $a _ { j }$ 的合作关系矩阵， $\mathbf { \delta } _ { M _ { A P } ( i , j ) }$ 表示模型中的作者-论文关系矩阵， $\pmb { M } _ { P W } ( i , j )$ 表示图模型中论文-关键字关系矩阵。并且在矩阵 $\pmb { M }$ 中 $\mathbf { M } _ { A P } { = } M _ { P A } { } ^ { \mathrm { T } }$ ， $\pmb { M } _ { W P } \mathrm { = } \pmb { M } _ { P W } \mathrm { T }$ 。各个位置所对应的值如上文作者层，关键字层，论文层所述。
+
+在该模型中，在论文层的一个节点，有三种可能的运动行为：运动到作者层或者是关键字层，亦或者是还在论文层，所以本文设定 $a _ { l } + a _ { 2 } + a _ { 3 } = 1$ 。本文还假定 $\beta _ { l } + \beta _ { 2 } = 1$ ，因为一个节点再次游走之后及可能在作者层，也有可能调出作者层。类比于关键字层，设 $\scriptstyle \gamma = 1$ 。通过这些约束简化参数个数，所以矩阵 $\pmb { M }$ 可以有如下表示：
+
+$$
+M = \left( \begin{array} { c c c } { { \alpha _ { \it { M }  { \tiny { P P } } } } } & { { \beta { \it { M } } _ { \textsc { \tiny { P W } } } } } & { { { \it { M } } _ { \textsc { \tiny { P W } } } } } \\ { { \alpha _ { \it { 2 } } { \it { M } } _ { \textsc { \tiny { s P } } } } } & { { ( I - \beta ) { \it { M } } _ { \textsc { \tiny { A } } } } } & { { o } } \\ { { \big ( I - \alpha _ { \it { 1 } } - \alpha _ { \it { 2 } } \big ) { \it { M } } _ { \textsc { \tiny { w P } } } } } & { { o } } & { { o } } \end{array} \right)
+$$
+
+1.2.2查询向量
+
+与Totti等人[3]的查询向量不同，本文所采用的三层模型的查询向量 $q$ 的构成如下所示：
+
+a)针对作者的查询 $\scriptstyle q _ { a }$ 表示查询作者已经确定，针对一个查询对象 $u$ ，如果该作者存在于候选作者集合中，则有 $\scriptstyle q _ { a } ( u ) = 1$ ，否则， ${ \pmb q } _ { \pmb a } \ ( \pmb { i } ) = \ \mathbf { 0 }$ ，iu。
+
+b)在进行查询时，研究人员输入的查询内容是几个独立的词汇，而非具有完整语义信息的文本，利用文本相似度计算方法难以得到。词向量化wordembedding[17]可以将词映射为特征向量，利用向量之间的距离来逼近词与词之间的语义。因此本文采用word2vec 中的CBOW词向量化模型[17]生成词向量。设研究人员输入的原始查询 $q _ { r }$ 为 $m$ 个单词的集合，即$q _ { r } { = } \{ w _ { i } | \mathrm { i } { = } 1 , 2 , { \ldots } , \mathrm { m } \}$ 。利用词向量模型训练语料库，可以得到 $q _ { r }$ 中各个单词的 $N$ 维向量，单词 $w _ { i }$ 表示为 $\boldsymbol { w _ { i } } = \left[ \boldsymbol { w } _ { i } ^ { l } , ~ \cdots ~ \boldsymbol { w } _ { i } ^ { N } \right]$ （204文章向量本文用 $q _ { r }$ 中各个单词的词向量进行累加得到，得到 $N$ 维的文章内容表示。计算公式如下所示：
+
+$$
+\pmb q _ { r } = \left[ \sum _ { i = l } ^ { n } \pmb { W } _ { i } ^ { l } , \sum _ { i = l } ^ { n } \pmb { W } _ { i } ^ { 2 } , \dots , \sum _ { i = l } ^ { n } \pmb { W } _ { i } ^ { N - l } , \sum _ { i = l } ^ { n } \pmb { W } _ { i } ^ { N } \right]
+$$
+
+其中 $: n$ 为某篇文章的单词数量。同样的方法可以得到图模型中各个文章的内容进行 $N$ 维向量空间的表示，记为$p \nu { = } \{ p \nu _ { \mathrm { j } } | \mathrm { j } { = } 1 , 2 , . . . , k \}$ ，其中 $k$ 为图模型中的文章数量。若查询向量 $\scriptstyle q _ { r } = X = [ x _ { I } , \dotsc , x _ { N } ]$ ，候选文章向量 $p { \boldsymbol { \nu } } { = } Y { = } [ y _ { I } , . . . , y _ { N } ]$ ，通过consine相似度计算 $q _ { r }$ 内容向量与各个候选文章 $p \nu$ 的内容向量之间的相似度得consine $( q _ { r } , p \nu ) = \phantom { \frac { q _ { r } , } { p } }$ consine $( X , Y )$ ，计算公式如下所示：
+
+$$
+c o n s i n e \Big ( X , Y \Big ) = \frac { \displaystyle \sum _ { i = I } ^ { N } { x _ { i } } ^ { * } y _ { i } } { \sqrt { \displaystyle \sum _ { i = I } ^ { N } { x _ { i } } ^ { 2 } } \times \sqrt { \displaystyle \sum _ { i = I } ^ { N } { y _ { i } ^ { 2 } } } }
+$$
+
+则查询向量 $q$ 中研究人员查询内容 $q _ { r }$ 与图模型中的各个文章的内容相似度向量 $q _ { p }$ 可表示为
+
+$$
+\begin{array} { c } { { q _ { p } ( q _ { r } ) \mathrm { = } \large \left[ c o n s i n e \big ( q _ { r } , p \nu _ { I } \big ) , c o n s i n e \big ( q _ { r } , p \nu _ { 2 } \big ) , \mathrm { . . . . . . . . , } } } \\ { { c o n s i n e \big ( q _ { r } , p \nu _ { k - I } \big ) , c o n s i n e \big ( q _ { r } , p \nu _ { k } \big ) \large \right] } } \end{array}
+$$
+
+根据上述过程可以得到查询向量 $q _ { p }$ 的distributedrepresentation表示。
+
+c）在关键字层，本文利用上述word2vec的方法生成关键字的向量，关键字 $w _ { i }$ ， $w _ { j }$ 的向量用 $\boldsymbol { \cal X }$ 和 $\boldsymbol { \mathsf { Y } }$ 表示。而词与词之间的关系则用两者之间的consine 相似度来表示。计算公式如公式3所示，则有 $q _ { w } \ ( w _ { i } , \ w _ { j } ) \ = \mathrm { c o n s i n e } ( X , Y )$ 。
+
+最终查询向量为 $\scriptstyle q = [ q _ { p } , \ q _ { a } , \ q _ { w } ]$ ，使用上述三层图模型，利用上面的概率转移矩阵 $\pmb { M }$ 运行推荐模型。
+
+# 1.3推荐模型
+
+为了能给目标文献推荐出合适的文章，需要计算目标文章和候选文章之间的相关性大小。因此，本文用到了重启动随机游走（RandomWalkwithRestarts，RWR）算法[18]。用 ${ \pmb R } \ ( \pmb { \nu } _ { i } )$ 表示图 $\textbf { \textit { G } }$ 中的节点与目标文献的相关性。 $\textbf { \textit { G } }$ 中所有节点与目标文献的相关性向量 $\pmb { R }$ 可以通过幂迭代得到，计算公式如下所示：
+
+$$
+\boldsymbol { R } ^ { ( t + l ) } = \left( l - \theta \right) \boldsymbol { M } \boldsymbol { R } ^ { t } + \theta \boldsymbol { q }
+$$
+
+其中： $\theta$ 是返回起始节点的重启概率， $\pmb { M }$ 是图 $\textbf { \textit { G } }$ 的权重矩阵。在公式5中，初始时令 $\scriptstyle { R ^ { ( 0 ) } = q }$ 。计算出目标文献与候选文献的相关性 $\pmb { R }$ 后，本文所要的结果是对论文的评分值，即 $\pmb { R } ( \pmb { p } )$ ，选取前 $k$ 篇 $\pmb { R }$ 值较大的论文作为推荐返回。为使公式5在经过若干次幂迭代之后能够收敛，需要对 $\pmb { M }$ 和 $\pmb q$ 进行列归一化。
+
+本文的推荐算法过程如下：
+
+a)数据准备。对数据集中的论文内容进行提取，并对数据集中作者一文章关系、作者一作者关系、文章一文章关系、文章一关键字关系进行提取。
+
+b)模型构建。构建多关系图模型，用矩阵 $\pmb { M }$ 表示，利用word2vec生成词向量，并根据词向量生成文本向量，计算词与词之间的相似度，并计算研究人员输入的查询内容与候选文章之间的关联性，并根据研究人员生成查询作者向量；
+
+c)循环迭代。依照式（5）所示的随机游走进行计算，更新$\pmb { R }$ 并与 $\pmb { M }$ 相乘不断迭代，直到 $\pmb { R }$ 收敛，得到 $\pmb { R }$ 的最终结果。
+
+d)结果输出。对 $\pmb { R }$ 最终值，选取对应的文章维度向量，并排序，输出文章的topN的列表。
+
+# 2 实验与分析
+
+为了验证本文中所提的算法的有效性，本小节将进行文中所提出的方法在召回率(recall)和归一化折损累积增益(NDCG)这两个评价指标与其他不同的方法做实验对比。并介绍了常用的一个数据集合 AAN（Association ofComputational Linguistics(ACL)anthology network）[19]。
+
+# 2.1实验数据
+
+本文所做的验证测试均是在AAN数据集上进行的，该数据集包含了许多ACL期刊上的所有论文。未经处理的数据集合包含从1965年到2013年的21，236篇文章，并且有论文内容包括摘要和题目，论文出版年份，作者和期刊等信息。在对文章关键词的表示时，本文用论文标题和摘要来表示，由于数据集合中并没有给出文章的摘要信息，需要对摘要进行提取工作，并生成关键词。先通过下面的方法对文章内容进行预处理：
+
+a)删除没有引用关系的论文；
+
+b)提取文章摘要和标题，并删除没有摘要和标题的论文；
+
+c)删除由少于三个字符组成的单词;
+
+d)删除停用词；
+
+e)用NLTK的 stemmer 词干分析工具对单词进行词干化，为了减少噪声数据，还删除了在整个数据集的语料中词频少于十次的单词，这样一共产生的4，918个不重复的单词。
+
+本文使用2013年之前发表的11129 篇论文候选文章集合来建立多关系的图模型，并把2013年发表的1,375篇论文的作者身份ID作为查询向量的作者部分，关键词与候选文章关键词的相似度作为查询向量的内容部分，查询内容与候选文章内容的相似度作为查询向量的文章部分。对这1375 篇论文进行引用文献推荐。表2给出了本文用到的AAN数据集进行处理之后的基本统计信息。被引用的文章表示在相应的范围内至少被引用了一次的文章，引用关系表示在相应的范围内总共的引用关系。
+
+表2AAN数据集的基本统计信息  
+
+<html><body><table><tr><td>年份</td><td>论文数目</td><td>作者数目</td><td>被引用的文章</td><td>引用关系</td></tr><tr><td>2013年之前</td><td>11,129</td><td>9,744</td><td>9,016</td><td>65,891</td></tr><tr><td>2013年</td><td>1,375</td><td>1, 333</td><td>4,822</td><td>11, 529</td></tr></table></body></html>
+
+# 2.2评价指标
+
+本文用recall@N值[20]和 $\mathsf { N D C G } @ N$ 值[3]进行来对推荐结果的准确性和排序质量评测，这两种方法被广泛应用于信息检索和统计分类领域。
+
+a)recall@N。在信息检索领域，recall@N衡量的是检索系统的查全率。在本文中recall@N是Top-N的推荐列表中实际被引用的文献数量与目标文献实际引用列表中文献数量的比值。计算公式可以表示为
+
+$$
+r e c a l l @ \mathbb { C } N = \frac { I } { C } \sum _ { i = I } ^ { C } \frac { R \big ( p \big ) \cap T \big ( p \big ) } { T \big ( p \big ) }
+$$
+
+其中： $C$ 表示的是查询列表的个数， $N$ 表示的是推荐列表的个数。 $T ( p )$ 表示目标文献实际引用的文献集合， $R ( p )$ 表示推荐结果中文献集合。所以 $R { \bf \Xi } ( p )$ NT $( p$ ）表示推荐列表中实际引用的文献集合。
+
+b)NDCG@N。recall $@ N$ 并不能充分评估推荐方法的有效性，一个好的推荐系统对实际相关的引用文献在推荐结果中的位置应该是敏感的，显然，recall $@ N$ 并不具有这样的功能。本文希望推荐结果中的相关文献出现在推荐列表的靠前位置，因此在这篇文章中用到了NDCG@N来衡量推荐列表的排序。$\mathsf { N D C G } @ N$ 的定义如下：
+
+$$
+N D C G \ @ N = \frac { I } { C } \sum _ { i = I } ^ { C } \left\{ \left\{ \sum _ { j = I } ^ { N } \frac { 2 ^ { r _ { j } } - I } { l \pmb { o g } _ { \left( j + I \right) } } \right\} / \ I D C G \ @ N \right\}
+$$
+
+其中： $C$ 和 $N$ 的表示和上文中recall@N中的表述相同， $r _ { j }$ 表示推荐结果列表中，排名为 $j$ 的文献的评级， $\mathrm { r _ { j } } \in \{ 0 , 1 \} \mathrm { s s }$ ， $r _ { j } { = } 1$ 表示该文章是一个相关文献， $r _ { j } { = } 0$ 则意味着不相关。 $I D C G @ N$ 则是理想状态下的推荐结果排序，计算公式如下：
+
+$$
+I D C G @ N = \sum _ { i = I } ^ { | R E L | } \frac { 2 ^ { r _ { i } } - I } { l { \pmb { \sigma } } { \pmb { g } } _ { _ { 2 } } ( i + I ) }
+$$
+
+其中：REL表示推荐结果中实际相关的论文集合。
+
+# 2.3 参数调整与分析
+
+在推荐系统中，最初的概率转移矩阵，通过迭代过程中不断重启动随机游走模型最终确定节点的概率转移矩阵。本节中，将主要分析一个1.3小节中所提到的重启概率参数 $\theta _ { \mathsf { c } }$ （204
+
+不同的 $\theta$ 值对最终的推荐结果的质量有着不同的影响，所以本小节中通过本文提出的方法使用不同的 $\theta$ 执行相关实验。对一个查询向量的节点来说，（1-θ）表示从当前节点过渡到相邻节点的概率，而 $\theta$ 则代表了从当前节点过渡到初始查询向量（查询论文）的起始节点的概率。公式5中的 $\theta$ 的值越大意味着返回初始查询向量中的节点的概率越大。图2显示了 $\theta$ 从0.1到0.9时的recall@75、recall@100 和 NDCG@75、NDCG@100的实验对比。
+
+![](images/e6e3ed4b78565bf047f2f8c275c5e8d568d279eaca4f5c021a2fe06dbdd04b92.jpg)  
+图2不同重启概率 $\theta$ 的recall和NDCG的值的变化。（a）图为recall@75和recall@100，（b）图为NDCG@75和NDCG@
+
+如图2(a)所示，在 $0 . 1 { \sim } 0 . 6$ 内，随着 $\theta$ 值的增大,recall@75和recall@100随之变大。当 $\theta$ 从0.6改变成0.7时，recall@75减小，而recall@10o 则变大，但recall $\textcircled{4} 7 5$ 减小幅度不大，当$\theta$ 大于0.7时这两个评测指标都开始下降。从而本文得出，当$\scriptstyle \theta = 0 . 7$ 时，recall@75和recalll@100达到最优值，并且从图中观察到，当 $\scriptstyle \theta = 0 . 1$ 时，recall $\textcircled{ a} 7 5$ 和recall@100 的结果值最差。
+
+如图2（b）所示， $N D C G @ 7 5$ 和NDCG@100的变化曲线大致相同，当 $\theta$ 在[0.1,0.7]间时，随着 $\theta$ 值的变大，NDCG@75和 $N D C G @ . l O O$ 总体呈上升趋势，在[0.7,0.9]之间，这两个测量指标呈下降趋势。由此得出，在 $\scriptstyle \theta = 0 . 7$ 时，NDCG@75和$\scriptstyle \mathrm { N D C G } \ @ 1 0 0$ 的值达到最大，当 $\scriptstyle \theta = 0 . 1$ 时，NDCG@75和NDCG@100结果最小。
+
+根据图2可以得到当 $\scriptstyle { \theta = 0 . 7 }$ 时，recall@N 和NDCG@N达到最大值，因此本文把 $\theta$ 的值确定为0.7。根据相关分析表明不同的重启概率 $\theta$ 对本文所提方法的推荐结果有着不同的影响，并且当设置 $\scriptstyle { \theta = 0 . 7 }$ 时，本文提出的方法的推荐效果达到最好。
+
+# 2.4对比实验
+
+通过五个不同方法和本文提出的方法作对比来说明本文提出方法的有效性。这五种方法如下所示：
+
+a)关联主题模型[21l（relational topic model，RTM）。RTM是 sLDA的一个扩展算法，用链接作为监督来训练LDA模型。RTM在两个不同的文本数据之间增加了一个二元随机变量，利用主题分布的带有Hadamard积的SIGMOD 函数来推荐论文。在本文实验中，设置RTM的主题数目为60。
+
+b)Link-PLSA-LDA[22]。Link-PLSA-LDA 使用PLSA生成引用博客和LDA生成引用的博客，在本文中，把每篇文章当成一个博客，推荐列表是根据引文中论文的主题-词分布的相关性和引用论文中论文分布的相关性生成的。在本实验中，Link-PLSA-LDA主题数目同样设置为60。
+
+c)LDA。LDA是一个文档主题生成模型，包含文档、词、主题三个部分。在本实验中首先使用LDA得到主题信息，之后推荐与查询高度相关的主题下的文章，主题数目设置为70。
+
+d)CiteRank[23]。CiteRank为每一个节点使用个性化的传送因素，并且考虑到了时间衰减，使用交通动力学的一个简单的网络模型来对科技论文进行排序，CiteRank使用到了统计力学，通信供应和信息网络的知识内容。在本实验中，该方法的衰减参数t设置为 $2 . 6 _ { \circ }$
+
+e)PopRank[24]。PopRank 是PageRank 的一种扩展算法。该方法将一个流行的传播因子(PPF)添加到一个对象的每一个引用，并且利用作者论文关系和出版信息对候选论文进行排序。本实验中设置流行的传播因子 $\mathrm { P P F } { = } 0 . 3$ ，阈值为0.01。
+
+本文提出了一种基于RandomWalk的论文、作者、论文关键字的三层图模型的方法（PAWRW)，查询中使用到了论文相似度，作者关系，关键字相似度作为的查询向量，并且考虑了不同层之间的转换概率。
+
+表3是不同的方法性能对比的结果，明显地可以看到随着$N$ 的增大，recall@N和NDCG@N的值都会随之变大。从不同的方法对比中可以看出，PAWRW的实验结果均高于RTM、Link-PLSA-LDA、LDA、CiteRank、PopRank这五种方法在AAN数据集上，这是因为本文的实验模型中融入了内容和网络信息还有作者信息，而仅仅通过引用关系或者是内容信息来进行相关论文的推荐具有一定的局限性。由于缺少文本信息，从表3中可以发现在所有指标上PopRank的效果明显比其他方法要差。由于仅仅依赖文本主题相似度信息，LDA各项指标的结果是所有方法中最差的。RTM和Link-PLSA-LDA 的实验结果较为相近，并且要优于LDA，这是因为这两种方法整合了引用链接信息和其他一些额外的信息来进行主题学习。通过表3还可以看出，CiteRank与LDA相比，即在论文内容的基础上使考虑了时间因素推荐结果并没有得到明显提高。
+
+表3不同方法的对比结果  
+
+<html><body><table><tr><td>Top-N</td><td colspan="2">25</td><td colspan="2">50</td><td colspan="2">75</td><td colspan="2">100</td></tr><tr><td>方法</td><td>recall</td><td>NDCG</td><td>recall</td><td>NDCG</td><td>recall</td><td>NDCG</td><td>recall</td><td>NDCG</td></tr><tr><td>PAWRW</td><td>0.2176</td><td>0.3084</td><td>0.2853</td><td>0.3429</td><td>0.3458</td><td>0.3891</td><td>0.396</td><td>0.3995</td></tr><tr><td>RTM</td><td>0.1734</td><td>0.2738</td><td>0.2751</td><td>0.3225</td><td>0.3273</td><td>0.3851</td><td>0.3698</td><td>0.3841</td></tr><tr><td>Link-PLSA-LDA</td><td>0.1725</td><td>0.2742</td><td>0.2576</td><td>0.3174</td><td>0.3207</td><td>0.3815</td><td>0.3647</td><td>0.3786</td></tr><tr><td>PopRank</td><td>0.1341</td><td>0.1124</td><td>0.2254</td><td>0.2149</td><td>0.2911</td><td>0.2635</td><td>0.3092</td><td>0.2782</td></tr><tr><td>LDA</td><td>0.1132</td><td>0.037</td><td>0.1473</td><td>0.083</td><td>0.1755</td><td>0.1207</td><td>0.1826</td><td>0.1865</td></tr><tr><td>CiteRank</td><td>0.1233</td><td>0.052</td><td>0.1506</td><td>0.9254</td><td>0.1783</td><td>0.1327</td><td>0.1907</td><td>0.1941</td></tr></table></body></html>
+
+# 2.5 不同查询向量的对比分析
+
+最后，为了分析查询向量对PAWRW推荐结果的影响，本小节将对比不同向量的推荐结果， $\pmb q \imath$ 表示查询向量中只有作者信息，没有论文相似度信息和关键字信息，即 $\scriptstyle q _ { I } = [ \mathbf { 0 } , \quad q _ { a } , \ \mathbf { 0 } ]$ $\scriptstyle q _ { 2 } = [ q _ { p } , q _ { a } , 0 ]$ ，包含作者信息和论文相似度信息，而不包括关键字信息； $\scriptstyle q _ { 3 } = [ 0 , q _ { a } , q _ { w } ]$ ，包含作者信息和关键字信息，但不包括文本相似度信息； $\scriptstyle q _ { 4 }$ 则是本文中所用查询，包含了作者信息，论文相似度信息，关键字信息， $\scriptstyle q _ { 4 } = [ q _ { p } , q _ { a } , q _ { w } ]$ 。表4为各不同查询向量的推荐结果。
+
+通过表4可知，在查询语句中添加文章相似度信息和关键字的信息都可以使推荐效果得到提升，并且发现，添加关键字信息之后的推荐效果要比添加文章相似度信息的推荐效果好。同时，还可以发现，查询为 ${ \pmb q } _ { 3 }$ 和 $\scriptstyle q _ { 4 }$ 情况下的推荐效果比较接近，特别是recall@N的值。这是因为在论文相似度的计算过程中，虽然也用到了word2vec，但比关键字相似度的计算多了一步，就是文本向量进行了简单的相加，使本来就有误差的词向量生成的文本向量误差更大，所以查询 ${ \pmb q } _ { 3 }$ 的推荐效果要比 $\pmb q _ { 2 }$ 的推荐效果高，同时也从侧面说明了查询 $\scriptstyle { \pmb q } _ { 4 }$ 的推荐效果为什么与${ \pmb q } _ { 3 }$ 的推荐效果在性能指标上较为接近。
+
+表4不同查询向量推荐结果对比  
+
+<html><body><table><tr><td>Top-N</td><td colspan="2">25</td><td colspan="2">50</td><td colspan="2">75</td><td colspan="2">100</td></tr><tr><td></td><td>recall</td><td>NDCG</td><td>recall</td><td>NDCG</td><td>recall</td><td>NDCG</td><td>recall</td><td>NDCG</td></tr><tr><td>q1</td><td>0.1446</td><td>0.1846</td><td>0.2171</td><td>0.3207</td><td>0.2617</td><td>0.3518</td><td>0.299</td><td>0.3541</td></tr><tr><td>q2</td><td>0.1565</td><td>0.2537</td><td>0.2363</td><td>0.3469</td><td>0.2844</td><td>0.3812</td><td>0.3213</td><td>0.3885</td></tr><tr><td>q3</td><td>0.1749</td><td>0.2743</td><td>0.2722</td><td>0.3128</td><td>0.3384</td><td>0.3402</td><td>0.3931</td><td>0.3716</td></tr><tr><td>q4</td><td>0.2176</td><td>0.3084</td><td>0.2853</td><td>0.3429</td><td>0.3458</td><td>0.3891</td><td>0.396</td><td>0.3995</td></tr></table></body></html>
+
+# 3 结束语
+
+本文提出了一种结合论文引用关系、作者关系、论文内容等信息的三层图模型的文本推荐方法。考虑到一篇论文被推荐不仅仅与同时被推荐的论文相关，还与这篇论文的作者和该论文的内容相关，并在不同层次类型的关系对象上使用不同的参数，使某节点在向不同层次的节点跳转时的概率不同，构建概率转移矩阵，针对查询向量中的文本信息缺失问题，提出了利用word2vec的方法计算文本相似度及词的相似度对查询向量进行填充，有效利用了文本内容的上下文信息。之后基于RandomWalk对相应的查询给出相关的推荐结果。实验表明，改进的查询向量和基于三层图模型的推荐方法可以提高个性化引文推荐的效果，突出相关论文的排序结果。本文并没有考虑模型中词关系的信息，未来的研究工作在对模型中词关系进行下一步的研究和优化的同时，建立更有效的推荐模型。
+
+# 参考文献：
+
+[1]Ren Xiang，Liu Jialu,Yu Xiao,et al.Cluscite:effective citation recommendation by information network-based clustering [C]//Proc of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.New York:ACMPress,2014: 821-830.
+
+[2]李伟霖，王成良，文俊浩．基于评论与评分的协同过滤算法[J].计算 机应用研究,2017,34(2):361-364.(Li Weilin,Wang Chengliang,Wen Junhao.Collaborative filtering recommendation algorithm based on reviews and ratings [J].Application Research of Computers,2017,34(2): 361-364.)   
+[3]TottiLC,MitraP,Ouzzani M,et al.Aquery-oriented approach for relevance in citation networks [C]// Proc of the 25th International Conference Companion on World Wide Web.2016:401-406
+
+[4]王宁宁，鲁燃，王智昊，等．基于用户标签的微博推荐算法[J].计算 机应用研究,2017,34(1):58-61.(Wang Ningning,Lu Ran,Wang Zhihao, et al.Microblog recommendation algorithm based on user’ s tag [J]. Application Research ofComputers,2017,34(1):58-61.)
+
+[5]吴一帆，王浩然．结合用户背景信息的协同过滤推荐算法[J]，计算机 应 用,2008,28(11):2972-2974.(Wu Yifan,Wang Haoran. Collaborative filtering algorithm using user background information [J].Computer Applications,2008,28 (11): 2972-2974.)
+
+[6]王茜，王均波．一种改进的协同过滤推荐算法[J].计算机科学,2010, 37(6):226-228.(Wang Qian，Wang Junbo.Improved Col laborative Filtering Recommendation Algorithm [J]. Computer Science,37 (6): 26- 228.）   
+[7]Yang Zhe,Wu Bing,Zheng Kan,et al.Asurvey of collaborative filteringbased recommender systems for mobile Internet applications [J]. IEEE Access,2016,4:3273-3287   
+[8]Xia Feng,Wang Wei,Bekele TM,et al.Big scholarly data: a survey [J]. IEEE Trans on Big Data,2017,3(1):18-35   
+[9] Pan Linlin，Dai Xinyu,Huang Shujian，et al.Academicpaper recommendation based on heterogeneous graph [M].[S.1.]:Springer International Publishing,2015:81-392   
+[10] West JD,Wesleysmith I, Bergstrom C T.A recommendation system based on hierarchicalclustering of an article-level citation network[J].IEEE Trans on Big Data,2016,2(2): 113-123   
+[11] Zhou Ding, Zhu Shenghuo,Yu Kai,et al. Learning multiple graphs for document recommendations [C]//Proc of the 17th International Conference on World Wide Web.New York: ACMPress,2008:141-150   
+[12] Meng Fanqi,Gao Dehong,Li Wenjie,et al.A unified graph model for personalized query-oriented reference paper recommendation [C]// Proc of ACM International Conference on Conference on Information & Knowledge Management.New York: ACM Press,2013:1509-1512.   
+[13]郭蓝天，李扬，慕德俊，等．基于LDA 主题模型的话题发现方法 [J]. 西北工业大学学报,2016,34 (4):698-702.(Guo Lantian,Li Yang,Mu Dejun et al.A LDA model based topic detection method [J]. Journal of Northwestern Polytechnical University,2016,34(4): 698-702)   
+[14]许珂，蒙祖强，林啓峰．基于语义关联和信息增益的TFIDF改进算法研 究[J].计算机应用研究,2012,29(2):557-560.(Xu Ke,Meng Zuqiang, Lin Qifeng.Improved TFIDF feature extraction algorithm based on semantic association and inflormatian gain [J].Application Research of Computers,2012,29 (2): 557-560.)
+
+[15] Wang Chong,Blei D M.Collaborative topic modeling for recommending
+
+scientific articles [C]// Proc of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Minin g. New York: ACM Press,2011: 448-456. [16] Li Jing,Xia Feng,Wang Wei,et al.Acrec: a co-authorship based random walk model for academic collaboration recommendation [C]//Proc of the   
+23rd International Conference on World Wide Web.New York: ACM Press,   
+2014: 1209-1214 [17]Mikolov T,Chen Kai,Corrado G,et al.Efficient estimation of word representations in vector space [J].arXiv preprint arXiv:13013781,2013 [18]黄斌．社会网络中基于随机游走的名称消歧算法[J].计算机应用研究,   
+2015，32 (12):3650-3653 (Huang Bin. Random walk based name disambiguation algorithm in social networks [J].Application Research of Computers,2015,32(12):3650-3653.) [19] Radev D R,Muthukrishnan P, Qazvinian V,et al. The ACL anthology network corpus [J].Language Resources and Evaluation,2013,47(4): 919-   
+944 [20] Liu Qi,Chen Enhong,Xiong Hui,et al.Enhancing collaborative filtering by user interest expansion via personalized ranking [J]. IEEE Trans on Systems, Man,and Cybernetics,Part B(Cybernetics),2012,42(1):218-233 [21] Chang Jonathan,Blei D M. Relational topic models for document networks [C]//Proc of the 12th International Conference on Artificial Intelligence and Statistics.200: 81-88. [22] Nallapati R M.,Ahmed A,Xing E P,et al. Joint latent topic models for text and citations [C]// Proc of ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.20o8:542-550. [23] Walker D,Xie Huafeng,Yan K K,et al.Ranking scientific publications using a simple model of network traffic [J].Journal of Statistical MechanicsTheory and Experiment,2006,6(6): P06010-1- P06010-10. [24] Nie Zaiqing,Zhang Yuanzhi,Wen Ji Rong,et al. Object-level ranking: bringing order to Web objects [C]// Proc of International Conference on World Wide Web.New York: ACMPress,2005: 567-574

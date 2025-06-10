@@ -1,0 +1,251 @@
+# 一种基于移动用户位置预测的垂直切换算法
+
+孟磊，唐鑫，徐彦彦(武汉大学 测绘遥感信息工程国家重点实验室，武汉 430079)
+
+摘要：针对异构无线网络环境中现有垂直切换算法存在难以实现移动用户接入网络的无缝切换，无法向用户提供稳定通信服务的问题，提出一种基于移动用户位置预测的垂直切换算法。首先利用用户移动轨迹的相似性，使用用户轨迹数据离线训练LSTM模型以学习各用户普遍具有的移动规律；然后在线加载LSTM模型进行用户位置预测，从而使用模糊逻辑分析计算下一时刻用户对应候选网络的回报值，并选取回报值最高的网络进行切换。实验结果表明，该算法与已有垂直切换算法相比，在不同的用户移动速度和用户规模条件下的切换次数、切换失败次数和切换时延均有明显下降，内存消耗较低，能够实现无缝切换。
+
+关键词：垂直切换；LSTM；模糊逻辑；异构网络 中图分类号：TP393 doi:10.19734/j.issn.1001-3695.2022.01.0007
+
+Vertical handoff algorithm based on mobile user location prediction
+
+Meng Lei, Tang Xin, Xu Yanyan† (StateKeyLaboratoryof InformationEngineering in Surveying,Mapping&Remote Sensing,Wuhan UniversityWuhan 430079, China)
+
+Abstract:Most existing vertical handoff algorithms cannot realize seamlesshandoff and provide stablecommunication services for mobile users in heterogeneous wireless networks.Inorder to solve the above problem,this paper proposed a vertical handoff algorithm basedon mobileuser locationpredictiontorealize seamlesshandof.Firstlyusing the similar regular caracteristicsof the mobile trajectories ofeach user,the algorithm trained the Long ShortTerm Memory (LSTM) model offlineand used it to predictthe location ofeach mobileuseratthe next moment online,and estimated the multiatribute parametersof thefuture networks.Afterthat,thealgorithmused fuzzylogictoanalyzethereturnsetofalloptional networksunder theconditionof multi-atribute parameters,and selected the network with the highest return inorder to complete the handoffdecision.The experimental results show thatthe proposed algorithm has beter handover performance thantheexisting handoveralgorithms in terms ofthe numberofhandofand the numberofhandofailures underdifferent mobile speedsand the scale of users,and is superior to other methods in terms of switching time and memory resource consumption. In conclusion, it can realize seamless handoff in heterogeneous wireless networks.
+
+Key words: vertical switching; LSTM; fuzzy logic; Heterogeneous network
+
+# 0 引言
+
+用户在蜂窝移动通信网络和局域网WLAN(WirelessLocalAreaNetwork)等异构无线网络的覆盖区域间移动时会较频繁地切换网络，导致通信的稳定性难以得到保障[1]。垂直切换是指当前接入网络和目标接入网络异构时发生的切换，高效的垂直切换算法是实现移动用户在异构无线网络间无缝切换的必要前提，以及向用户提供稳定通信服务2的重要保障。
+
+基于干扰信噪比(Signal to Interference plus Noise Ratio,SINR)[3\~5]的垂直切换算法选取SINR值最高的网络进行切换但可能导致用户在SINR值相近的多个网络间频繁切换，影响网络服务质量。基于多属性决策理论的垂直切换算法将垂直切换过程抽象为多属性决策过程，基于各网络的属性值参数，利用模糊逻辑方法进行综合评判以辅助切换决策，从而避免频繁切换[67]，但在用户移动过程中难以提供准确位置预测结果，无法提前为用户预留切换资源，可能导致用户由于资源不足而切换失败，增加了不必要的切换次数，因此对切换性能的提升有限。基于马尔可夫模型进行位置预测以辅助垂直切换[8的方法可以提供用户位置预测信息以辅助切换，但在异构无线网络环境下其状态空间规模随网络数目的增加而急剧增大，导致计算复杂度急剧增加，从而增大预测延迟，降低切换性能。基于个性化位置预测的垂直切换算法[9]针对每个用户建立长短期记忆(long short term memory,LSTM)模型学习用户移动规律并进行个性化位置预测以辅助切换，可以避免计算复杂度随网络数目增加而急剧增大[10]，但消耗的内存等计算成本随用户数量增加而线性增加，在多用户场景中不具备应用可行性。综上，现有垂直切换算法在异构无线网络环境中存在难以实现移动用户接入网络的无缝切换，无法向用户提供稳定通信服务的问题。
+
+因此，本文提出一种基于移动用户位置预测的垂直切换算法，结合用户移动轨迹的相似性[1I\~13]，将用户个性化位置预测转变为面向所有用户的位置预测，以此来降低用户位置预测的计算成本。其次，对移动用户的历史移动轨迹进行网格化预处理，以降低LSTM位置预测难度并提高预测准确度。之后，使用训练好的LSTM模型在线预测用户的下一时刻位置，利用模糊逻辑方法分析该位置对应的各网络属性参数，选取未来最为优质的网络进行切换，从而为用户提供稳定的网络服务。
+
+# 1 模型框架
+
+本文所提出的基于移动用户位置预测的垂直切换算法的实现，借鉴了SDN(software defined network)架构的集中控制器[14]设计，将LSTM模型和模糊逻辑控制器部署于集中控制器中，解决LSTM模型对运算能力的要求，同时使得模糊逻辑控制器能够充分地利用全局网络属性参数信息辅助切换判决。在离线训练中收集仿真网络中的用户移动轨迹信息，对轨迹信息进行网格化预处理后作为数据集来训练LSTM模型。
+
+以图1所示异构网络场景为例，描述本文算法处理网络切换问题的线上模型框架。其中4G网络实现广域覆盖，WLAN网络则提供小范围内较高数据传输速率的网络服务，用户在异构网络中移动，不断切换至新的网络。集中控制器加载已利用所采集的用户历史移动数据集离线训练出的LSTM模型，线上实时切换步骤如下：
+
+a)采集信息：集中控制器周期性采集用户的位置、移动速度，以便进行位置预测。
+
+b)位置预测：集中控制器将实时采集到的用户信息与用户的历史轨迹信息相结合，网格化预处理后输入到离线训练完成的LSTM模型中，预测下一时刻用户所处的位置。
+
+c)估算网络的参数：利用预测的位置信息结果，估算出下一时刻候选网络的接收信号强度、多普勒频移等网络多属性参数。
+
+d)网络多属性参数处理：利用模糊逻辑对估算出的网络多属性参数进行处理，得到每个候选网络的未来回报。
+
+e)网络未来回报分析：集中控制器从候选网络中选择出未来回报最高的网络进行切换决策。
+
+f)更新决策：移动用户执行集中控制器所更新的切换决策。
+
+集中控制器用户位置 信道容量 模糊 全局移动速度 LSTM 信号强度 逻辑 收益模型 多 控制 换历史位置 2 ③的参数 分析 报  
+①集 + 异构网络 更新? 1 TrWLAN WLAN WLANWLAN  
+WLAN C 4G T Y T 4GWLAN WLAN
+
+# 2 算法设计
+
+# 2.1移动模型
+
+为了使仿真网络中用户移动轨迹更真实地反映人类移动规律，用户移动轨迹的生成采用对人类移动规律进行归纳总结的SLAW移动模型[15]。集中控制器的采样周期为 $T$ ， $k _ { i } ( t )$ 为按照SLAW模型移动的用户 $i$ 在 $t$ 时刻的位置，其中用户 $i$ 的移动过程如下：
+
+a)初始化：随机从可移动范围内选择路径点生成候选路径点集合 $K _ { i }$ ，并从 $K _ { i }$ 中随机选取两个路径点作为用户 $\mathbf { \chi } _ { i }$ 的起点和第一个到达目标点，并将用户 $i$ 的起点设置为当前路径点。
+
+b)访问目标点：用户 $i$ 按照设定的移动速度 $\nu _ { i }$ 访问目标点。
+
+c)确定停留时间：用户 $i$ 到达目标点后，在该点的停留时间服从截断幂律分布。
+
+d)选择合适的下一目标点：由于用户移动时会偏好最短路径，因此根据距离权重计算用户从当前路径点移动到其他候选路径点的概率。对于用户 $i$ 当前的停留点 $k _ { i , c r n t }$ ，候选路径点作为目标点的概率可通过式(1)计算。
+
+$$
+P ( k _ { i } ^ { ' } , k _ { i , c r n t } ) = \frac { \displaystyle \frac { 1 } { d ( k _ { i } ^ { ' } , k _ { i , c r n t } ) ^ { \beta } } } { \displaystyle \sum _ { k _ { i } ^ { ' } } \frac { 1 } { d ( k _ { i } ^ { ' } , k _ { i , c r n t } ) ^ { \beta } } } , k _ { i } ^ { ' } \in K _ { i }
+$$
+
+其中, $K _ { i }$ 为所有候选路径点的集合， $d ( k _ { i } ^ { ' } , k _ { i , c r n t } )$ 为当前停留点$k _ { i , c r n t }$ 与候选路径点 $k _ { i } ^ { \prime }$ 之间的欧氏距离， $\beta$ 为距离权重。 $\beta$ 越大，用户越倾向于选取距离近的候选路径点，当 ${ \boldsymbol { \beta } } = \mathbf { 0 }$ 时则用户随机从 $K _ { i }$ 选择下一目标点。选择 $P ( k _ { i } ^ { ' } , k _ { i , c r n t } )$ 最高的候选路径点作为用户 $i$ 的下一目标点。
+
+e)循环进行步骤 ${ \mathsf { b } } ) { \sim } { \mathsf { d } } _ { , } ^ { \mathsf { \Gamma } }$ ，直到到达设定的用户 $i$ 移动总时间。
+
+# 2.2位置预测
+
+集中控制器以周期 $T$ 采集用户位置信息，但因原始位置信息排列相对紧密，难以挖掘出用户的移动规律，不利于预测分析，所以反而会降低垂直切换算法的性能。因此采用目前研究移动轨迹常用的位置信息网格化表示方法[16]，对原始轨迹数据进行网格化预处理，将精确的位置点转换为更加抽象的网格信息，以便挖掘出移动用户轨迹信息的规律。如图2所示，分别使用实线和虚线表示两名用户的原始轨迹Li与L2，可见二者原始轨迹之间没有任何关联，但进行网格化预处理后可以发现两条轨迹均为 $g _ { 4 }  g _ { 1 }  g _ { 2 }  g _ { 3 }$ ，其中 $g _ { i }$ 代表编号为i的网格，据此可将精确的位置信息转换为网格编号。
+
+![](images/23806caf72b1d3f8979ed2e3b5f240c0f77b3cb382571178163995703395b52c.jpg)  
+图1切换的场景示意图和模型框架  
+Fig.1The scene diagram and model framework of handoff   
+图2轨迹网格化处理  
+Fig.2The gridding process of trajectories
+
+因为网格化轨迹能够帮助分析用户的移动规律，而且网络属性在较小的网格范围内不会有明显变化，所以对移动用户的轨迹进行适当的网格划分并不会影响网络的综合评价。
+
+设定网络覆盖范围为 $X \times Y$ 的矩形，网格的宽度设定为$w _ { d }$ ，网格划分后得到编号集合 $G { = } \{ g _ { 1 } , g _ { 2 } , { \ldots } \}$ ，将用户 $i$ 在 $t$ 时刻的位置 $k _ { i } ( t )$ 映射为网格编号 $g _ { i } ( t )$ 。
+
+LSTM将历史位置信息保存在记忆单元中，再使用调节门控制如何保留这些信息。 $g _ { i } ( t )$ 为 $t$ 时刻输入的用户 $i$ 网格位置，设 $F _ { L , i } ( t )$ 为遗忘门输出， $I _ { L , i } ( t )$ 为输入门输出， $C _ { L , i } ( t )$ 为记忆单元的状态值， $\tilde { C } _ { L , i } ( t )$ 表示 $t$ 时刻的候选记忆单元的状态值，$O _ { L , i } ( t )$ 为输出门输出，则可通过式(2)计算得到 LSTM 预测的下一时刻用户 $i$ 的网格位置 $h _ { L , i } ( t )$ 0
+
+$$
+\{ \begin{array} { l l } { \boldsymbol { F } _ { L , i } ( t ) = \sigma ( \boldsymbol { W } _ { f } [ h _ { L , i } ( t - 1 ) , \boldsymbol { g } _ { i } ( t ) ] + \boldsymbol { b } _ { f } ) } \\ { \boldsymbol { I } _ { L , i } ( t ) = \sigma ( \boldsymbol { W } _ { i } [ h _ { L , i } ( t - 1 ) , \boldsymbol { g } _ { i } ( t ) ] + \boldsymbol { b } _ { i } ) } \\ { \boldsymbol { C } _ { L , i } ( t ) = \boldsymbol { f } _ { t } \cdot \boldsymbol { C } _ { L , i } ( t - 1 ) + \boldsymbol { I } _ { L , i } ( t ) \cdot \tilde { \boldsymbol { C } } _ { L , i } ( t ) } \\ { \tilde { \boldsymbol { C } } _ { L , i } ( t ) = \operatorname { t a n h } ( \boldsymbol { W } _ { c } [ h _ { L , i } ( t - 1 ) , \boldsymbol { g } _ { i } ( t ) ] + \boldsymbol { b } _ { c } ) } \\ { \boldsymbol { O } _ { L , i } ( t ) = \sigma ( \boldsymbol { W } _ { o } [ h _ { L , i } ( t - 1 ) , \boldsymbol { g } _ { i } ( t ) ] + \boldsymbol { b } _ { o } ) } \\ { \boldsymbol { h } _ { L , i } ( t ) = \boldsymbol { O } _ { L , i } ( t ) \cdot \operatorname { t a n h } ( \boldsymbol { C } _ { L , i } ( t ) ) } \end{array} 
+$$
+
+其中， $\boldsymbol { W } _ { \boldsymbol { f } }$ 是遗忘门的权重矩阵， $h _ { L , i } ( t - 1 )$ 为 $_ { t - 1 }$ 时刻的输出,$b _ { f }$ 为遗忘门的偏移量， $\sigma \in ( 0 , 1 )$ 是激活函数， $b _ { i }$ 为输入门的偏移量， $\pmb { W } _ { c }$ 为记忆单元权重矩阵， $b _ { c }$ 为记忆单元偏移量， $\boldsymbol { \mathsf { W } } _ { o }$ 为输出门的权重矩阵， $b _ { o }$ 为输出门的偏移量。
+
+# 2.3 网络模型
+
+设异构无线网络环境中包含有 $M$ 个可选网络，每个网络具有 $N$ 个多属性参数，本文算法使用包括接收信号强度(received signal strength,RSS) $R _ { s s , i }$ 、多普勒频移 $f _ { d , i }$ 、干扰信噪比 $S _ { n r , i }$ 、信道容量 $C _ { m a x , i }$ 、网络时延 $t _ { \mathrm { d , i } }$ 和时延抖动 $t _ { \mathrm { s h , i } }$ 在内的多属性参数来刻画网络。集中控制器以周期 $T$ 来采集各移动用户的位置信息 $k _ { i } ( t )$ 和移动速度 $\nu _ { i } ( t )$ ，利用LSTM根据 $t$ 时刻时的 $k _ { i } ( t )$ 预测得到用户 $i$ 在 $^ { t + 1 }$ 时刻的位置 $h _ { L , i } ( t )$ ，以此估算出$t + 1$ 时刻用户 $i$ 到无线网络的接收信号强度 $R _ { s s , i } ( t { + } 1 )$ 、多普勒频移 $f _ { d , i } ( t { + } 1 )$ 、干扰信噪比 $S _ { n r , i } ( t { + } 1 )$ 和信道容量 $C _ { m a x , i } ( t { + } 1 )$ ，以便后续进行模糊逻辑切换判决。此外，由于下一时刻的时延和时延抖动无法利用位置估算，因此二者使用固定参数。
+
+# 2.4模糊逻辑切换判决
+
+异构网络中，不同网络的参数变化范围是不同的，因此无法直接使用数值的大小来比较网络的好坏情况。所以，本文使用模糊逻辑控制模型，对计算得到的异构网络多属性参数进行分析，形成统一尺度的评估输出，客观评价候选网络的回报。
+
+设 $m$ 为用户 $i$ 对应候选网络集合中的任一网络。使用模糊逻辑分析，对 $t + 1$ 时刻网络 $m$ 的多属性参数的综合评判过程如下：
+
+1)归一化
+
+使用式(3)对网络 $m$ 的任意属性 $n$ 的收益进行归一化处理。
+
+$$
+b e n e f i t _ { m , n , i } ( t + 1 ) = r _ { n } \times \frac { q _ { m , n , i } ( t + 1 ) - \operatorname* { m i n } { ( Q _ { m , n , i } ) } } { \operatorname* { m a x } { ( Q _ { m , n , i } ) } - \operatorname* { m i n } { ( Q _ { m , n , i } ) } }
+$$
+
+其中， $\varrho _ { m , n , i }$ 为用户 $i$ 的候选网络 $m$ 的第 $n$ 个属性值集合，$q _ { m , n , i } ( t { + } 1 )$ 是估算出的 $_ { t + 1 }$ 时刻网络 $m$ 的第 $n$ 个属性值， $r _ { n } \in \left[ - 1 , 1 \right]$ 是网络收益调节因子，为负时表示网络收益为负，即参数数值越大网络状态越差，如网络时延、时延抖动等；为正时表示网络收益为正，即参数值越大网络状态越好，如接收信号强度、干扰信噪比等。
+
+# 2)构建模糊决策映射
+
+为兼顾计算开销和决策效果[17]，采用三角隶属度函数将网络参数划分为{弱,中,强}三个模糊集， $\mathbf { k } _ { \mathrm { m , n } }$ 表示网络 $m$ 的第$n$ 个属性值隶属的模糊集。
+
+3)计算网络参数收益权值
+
+因为不同网络参数对网络状态变化的影响程度不同，所以使用层次分析法构建决策因子矩阵。设定网络状态变化情况受用户移动的影响程度 $f _ { d , i } > S _ { n r , i } > R _ { s s , i } > C _ { m a x , i }$ ，据此采用1\~9标度法[18]得到如式(4)所示的网络决策因子矩阵 $\pmb { U }$ ，对 $\pmb { U }$ 进行一致性检验并调整各因子，直到其满足一致性要求，从而避免人为主观设定的影响。
+
+$$
+U = \left( \begin{array} { c c c } { \mathbf { u } _ { 1 , 1 } } & { \ldots } & { \mathbf { u } _ { 1 , \mathrm { N } } } \\ { \ldots } & { \ldots } & { \ldots } \\ { \mathbf { u } _ { N , 1 } } & { \ldots } & { \mathbf { u } _ { N , \mathrm { N } } } \end{array} \right) _ { N \times \mathrm { N } }
+$$
+
+式(4)中 $\begin{array} { r } { \sum _ { j = 1 } ^ { N } u _ { z , j } = 1 ( z = 1 , 2 , \cdots , N ) } \end{array}$ ， $N$ 为网络参数种类数目。根据模糊决策映射和决策因子矩阵，按照式(5)计算网络收益调节权重 $w _ { m , n }$ 。
+
+$$
+{ \bf { W } } _ { \mathrm { { m , n } } } = { \bf { u } } _ { \mathrm { { z , n } } } \cdot { \bf { k } } _ { \mathrm { { m , n } } } , m = 1 , . . . , M , n = 1 , . . . , N , z = 1 , . . . , N
+$$
+
+4)计算网络回报
+
+根据计算出的网络收益调节权重，按照式(6)计算用户 $i$ 在 $\textit { t }$ 时刻时，预测的 $^ { t + 1 }$ 时刻网络 $m$ 的多属性总回报$T _ { b e n e f i t , i } ( m , t { + } 1 )$ 。
+
+$$
+\begin{array} { r } { T _ { b e n e f i t , i } ( m , t + 1 ) = \sum _ { n = 1 } ^ { N } w _ { m , n } \cdot b e n e f i t _ { m , n , i } ( t + 1 ) } \end{array}
+$$
+
+最终，集中控制器得到用户对应的所有候选网络的 $^ { t + 1 }$ 时刻回报，并从中选择回报最高的网络 $m ^ { \prime }$ 执行切换。
+
+# 2.5切换流程
+
+为有效学习并使用用户的移动规律，采集用户历史移动数据集 $A$ 后，线下训练LSTM模型。线上集中控制器加载训练完成的LSTM模型后，利用用户 $i$ 的实时轨迹变化，预测下一时刻的位置，以便分析可选网络总回报，具体的切换流程如算法1所示。
+
+算法1移动用户位置预测的切换判决输入：用户历史移动数据集A， $M$ 个候选网络， $N$ 个多属性参数，移动速度 $\nu _ { i }$ 。输出：切换至网络 $m ^ { \prime }$ 。
+
+a）初始化：网格宽度 $w _ { d }$ ，采样周期 $T$ 。  
+b）将数据集 $A$ 网格化处理后，训练LSTM模型。  
+c）集中控制器在线加载LSTM模型。  
+d）while t  
+e) 采集用户 $i$ 的实时轨迹 $k _ { i } ( t )$ ，网格化处理得到 $g _ { i } ( t )$ 。  
+$\textsf { f }$ ） 将 $g _ { i } ( t )$ 输入至LSTM模型预测得到用户 $i$ 在 $_ { t + 1 }$ 时刻的位置 $h _ { L , i } ( t )$ 。g) 利用 $h _ { L , i } ( t )$ 估算各候选网络参数 $R _ { s s , i } ( t + 1 )$ 、 $f _ { d , i } ( t + 1 )$ 、 $S _ { n r , i } ( t + 1 )$ 、$C _ { \operatorname* { m a x } , i } ( t + 1 )$ ，得到各候选网络回报 $T _ { b e n e f i t , i } ( t + 1 )$ 0  
+h) 从候选网络集合中选出回报最高的网络 $m ^ { \prime }$ 并切换。  
+i) $t \gets t + T$   
+j) end while  
+k) end
+
+一次在线切换过程包括第f到 $\mathbf { h }$ 之间的步骤，其中模型位置预测过程f的计算复杂度不随可选网络数目 $M$ 或用户数量的增加而增加；而 $\mathbf { g }$ 和 $\mathbf { h }$ 的计算复杂度均为 $O ( M )$ ，所以在线切换的整体计算复杂度为 $O ( M )$ ，满足网络切换的实时性应用需求。
+
+# 3 实验结果与分析
+
+# 3.1仿真实验环境
+
+# 3.1.1仿真环境和参数设置
+
+实验用处理平台使用英特尔酷睿i7-10710UCPU，操作系统采用Ubuntu16.04，内存为32GB。实验中集中控制器加载训练后的LSTM模型，异步处理各移动用户的位置信息以完成决策切换。为方便评估算法模型，仿真时简化网络环境，异构无线网络由目前使用最为广泛的4G网络和WLAN网络组成。区域大小设置为 $5 0 0 \times 5 0 0 \mathrm { m }$ ，移动用户的数量和移动速度不断变化，其余保持不变。初始化时，随机生成每个移动用户的位置，并将每个移动用户连接到RSS最高的网络中。实验中设置的网络参数如表1所示。
+
+采用切换用时、内存变化、切换次数和切换失败次数四个评价指标评判各切换算法性能。其中切换用时越低，越能满足用户在异构无线网络中的无缝切换需求；集中控制器中的运算内存随着用户数量的增加，如果基本稳定则说明算法满足多用户场景下的实际应用需求；用户执行的切换次数越少，切换延迟就越小，用户切换网络时的服务质量就更能得到保障；当用户请求切换网络时，切换失败次数越少，说明接入网络容量越充足或用户所在位置的网络信号强度较高，网络的服务质量越稳定。
+
+表1网络仿真参数设置  
+Tab.1Network simulation parameters   
+
+<html><body><table><tr><td>参数</td><td>4G 蜂窝基站</td><td>WLAN网络</td></tr><tr><td>覆盖范围</td><td>300m</td><td>50m</td></tr><tr><td>调制方式</td><td>QPSK</td><td>QPSK</td></tr><tr><td>网络带宽</td><td>10MHz~30MHz</td><td>25MHz~40MHz</td></tr><tr><td>通信时延</td><td>10ms~50ms</td><td>40ms~100ms</td></tr><tr><td>时延抖动</td><td>2ms~10ms</td><td>15ms~30ms</td></tr><tr><td>信号强度</td><td>-65dBm</td><td>-80dBm</td></tr><tr><td>基站高度</td><td>30m</td><td>1m</td></tr><tr><td>发射功率</td><td>23dBm</td><td>10dBm</td></tr></table></body></html>
+
+3.1.2训练过程
+
+采用SLAW模型作为用户移动模型，设置移动用户数量和移动速度不断变化，基于此生成移动数据集，其中训练数据集 $\mathbf { \nabla } _ { A }$ 包含10000条数据，测试集包含2000条数据。
+
+LSTM结构中式(2)所用权重参数采用Xavier[19]方法完成初始化，偏移量简化为0，最终构建了一个具有三个隐藏层的LSTM网络，第一层和第二层的激活函数采用tanh，第三层的激活函数采用ReLU(RectifiedLinearUnit)。训练前对轨迹数据进行网格化预处理，训练集的迭代次数设置为100，步长设置为 64,优化器采用RMSProp(RootMean Square Prop):利用梯度下降法进行误差训练，得到误差稳定状态下的模型。学习率是影响训练速度的重要参数，学习率过高会导致学习过程震荡，过低会导致收敛缓慢，本文设置学习率为0.05。在 $w _ { d }$ 取 $3 \mathrm { m }$ 时，训练过程中误差由1.08降至0.007，训练结束时模型在测试集上的精度为 $94 . 1 \%$ 。
+
+# 3.1.3网格化参数选取
+
+本文所提算法首先要对用户轨迹进行网格化处理，网格宽度越窄，切换算法对位置的变化越敏感，从而轨迹预测的准确度也越高；但网络属性变化也会越来越不明显，从而使切换性能提升受限，同时网格化管理消耗的计算资源也越多。因为减小网格宽度将会增加网格化管理难度和计算成本，且$3 \mathrm { m }$ 内各网络的属性值几乎没有变化，所以实验中 $w _ { d }$ 最少为$3 \mathrm { m }$ ，最终设置网格宽度 $w _ { d }$ 为9、6、 $3 \mathrm { m }$ 三组。如图3所示为用户速度变化区间为 $1 { \sim } 5 \mathrm { m / s }$ 时，不同网格宽度设置条件下，随着用户数量的增加，切换失败次数的变化趋势。从实验结果可知网格宽度越小，切换失败次数越小，这是因为网格宽度越小模型预测的准确度越高，从而获得的下一时刻网络属性参数更准确，使得模糊逻辑切换判决更高效，进而提升切换性能。因此，综合考虑计算成本与轨迹预测的准确性，最终选定 ${  { \boldsymbol } w } _ { d } = 3  { \mathrm { m } }$ 。
+
+![](images/30004d72e0a3e2b7f3a65d17080d7ef1995cf04cb9d728eecc7cc16b6561c0e9.jpg)  
+图3不同网格宽度划分对算法性能的影响
+
+# 3.2仿真实验结果
+
+# 3.2.1切换用时和内存占用对比实验
+
+为检验本文算法在异构无线网络环境中是否能实现多移动用户接入网络无缝切换，实验对比了本文算法与VHO-SINR[3]、UDWS[7]、MPVH[8]以及个性化位置预测算法[9]在不同移动用户数量下的切换用时，实验结果如图4所示，各算法的切换用时均未随着用户数量的增加而显著增加，但本文算法切换用时较VHO-SINR、UDWS、MPVH以及个性化位置预测算法，分别平均减少了 $4 8 . 3 6 \%$ 、 $3 3 . 5 3 \%$ 、 $4 7 . 1 2 \%$ 和$45 . 9 2 \%$ 。这是由于本文算法采用集中控制策略，对各用户的位置预测和切换判决均为异步操作，且只需要加载单个LSTM模型，所以切换用时更低，而且切换用时不会随着用户数量的增加而增长。而VHO-SINR和UDWS算法无法对移动用户未来的位置进行预测，因此难以选择下一时刻可接入的最佳网络，使得切换用时较高；MPVH算法进行位置预测的计算复杂度较高，使得预测延迟和切换用时较高；个性化预测算法需要识别每一个用户并分别加载LSTM模型，从而增加了切换用时。
+
+为检验本文算法计算成本是否满足实际应用需求，实验对比了各算法在不同移动用户数量下的内存占用，实验结果如图5所示，个性化预测算法、MPVH、UDWS算法所占内存随用户数量的增加而呈增加趋势，VHO-SINR算法与本文算法所占内存均未随用户数量增加而显著增加，且本文算法所占内存维持在一个较低的水平。具体地，本文算法内存占用较个性化预测算法、VHO-SINR、UDWS和MPVH算法分别平均减少了 $23 . 4 0 \%$ 、 $3 5 . 6 4 \%$ 、 $4 9 . 5 9 \%$ 和 $6 1 . 8 9 \%$ 。这是因为本文所提算法针对所有用户只需加载一个LSTM预测模型：而个性化预测算法针对每一个用户都需要加载对应的LSTM模型，MPVH总的状态空间规模随着用户数量增加而不断增加，UDWS需要记录的网络历史属性信息也随用户数量增加而不断增加，因此上述算法难以满足多移动用户环境中网络切换的实际应用需求。
+
+综上，本文所提出的垂直切换算法，在用户规模增加时仍能够保持较低的切换用时和计算成本，可以满足网络切换的实际应用需求。
+
+![](images/56817720b64ec56114af792d76c08cd3b454a8c85db707bfdd2b9dd8a70529f1.jpg)  
+图4不同移动用户数量下的切换用时
+
+![](images/ae00a9c7f991d38106d730592982751f9037cc34098980336180323404390d78.jpg)  
+Fig.3Comparison of the number of failed handoffs by different grid width   
+Fig.4The handoff delay comparison of different methods with different number of mobile users   
+图5不同移动用户数量下的内存变化  
+Fig.5The memory consumption comparison of different methods with different number of mobile users
+
+# 3.2.2不同用户移动速度下切换性能对比
+
+为分析本文所提算法应对不同用户移动速度的能力，实验对比了各算法在不同用户移动速度下的切换次数和切换失败次数，实验结果如图6和7所示，在用户数量为200个、异构网络密度为 75个 $/ \mathrm { k m } ^ { 2 }$ 时，本文算法与 VHO-SINR、UDWS以及MPVH算法相比，切换次数分别平均下降了$4 3 . 0 9 \%$ 、 $1 9 . 1 5 \%$ 和 $3 0 . 7 8 \%$ ，切换失败次数分别平均下降了$4 2 . 2 2 \%$ 、 $80 . 8 4 \%$ 和 $2 6 . 1 1 \%$ ，切换性能相较于对比算法更优。这是因为VHO-SINR和UDWS算法在用户移动时，无法对用户未来的行为作出预判断，因此不断根据移动用户的当前位置进行切换，导致切换次数不断增多。MVPH算法虽然会使用马尔可夫模型对用户的位置进行预测，但只考虑上一时刻的位置，导致预测的精度不及LSTM，所以切换失败次数高于本文算法。而本文算法采用LSTM模型学习用户移动规律，能够实现对用户的下一时刻位置的准确预测，可以应对不同移动速度的用户，因此切换次数和切换失败次数都更少，切换性能更优。
+
+![](images/45cb1744c66d1054452316d62c4d7e9840d7beb248a0f1583897db4263ec4081.jpg)  
+图6不同用户移动速度下的切换次数对比
+
+![](images/cdde06d6ee731e710bb3b34086b29991161c209112a8f9fcce153b10947947d8.jpg)  
+Fig.6Comparison of the number of handoffs by different methods with different user speed
+
+# 3.2.3不同移动用户数量下切换性能对比
+
+为分析本文所提算法在不同移动用户数量下的性能，实验对比了各算法在不同移动用户数量下的切换次数和切换失败次数，实验结果如图8、9所示，异构无线网络密度为75个 $/ \mathrm { k m } ^ { 2 }$ 、用户移动速度区间在 $1 { \sim } 5 \mathrm { m / s }$ 变化时，随着用户数量的增多，各方案的切换次数和切换失败次数均增加，本文算法与VHO-SINR、UDWS和MPVH算法相比，切换次数分别平均下降了 $49 . 7 3 \%$ 、 $3 5 . 5 1 \%$ 和 $3 3 . 8 4 \%$ ，切换失败次数分别平均下降了 $3 3 . 3 5 \%$ 、 $8 2 . 3 8 \%$ 和 $12 . 3 \%$ ，切换性能相较于对比算法更优。这是因为VHO-SINR算法优先选择当前SINR最高的网络，使得用户数量增长时会造成部分接入网络过载，从而导致切换失败次数增加。UDWS难以对移动用户未来的位置进行预测，因此难以选择下一时刻可接入的最佳网络，导致切换失败次数增加。MPVH作出位置预测后只考虑单一的RSS作为判决因素，可能会集中接入热门网络，因此用户数量增加时会导致部分热门网络过载，使得切换性能降低。而本文算法利用LSTM进行精确位置预测的同时，集中控制器采用模糊逻辑方法对网络多属性参数进行综合分析，不会因为只考虑单一网络属性而判断不准确，并且从全局网络中选择综合回报最高的网络，避免集中接入部分热门网络造成过载，从而降低切换次数和切换失败次数。
+
+# 4 结束语
+
+针对异构无线网络环境中现有垂直切换算法存在难以实现移动用户接入网络的无缝切换，无法向用户提供稳定通信服务的问题，提出了一种基于移动用户位置预测的垂直切换算法。首先将用户个性化位置预测转变为面向所有用户的位置预测，以此来降低用户位置预测的计算成本。其次，对移动用户的历史移动轨迹进行网格化预处理，以降低LSTM位置预测难度并提高预测准确度。之后，使用训练好的LSTM模型在线预测用户的下一时刻位置，利用模糊逻辑方法分析该位置对应的各网络属性参数，选取未来最为优质的网络进行切换，从而为用户提供稳定的网络服务。实验结果表明，所提算法在不同移动用户移动速度和数量条件下的切换次数、切换失败次数和切换时延均有明显下降，内存消耗较低，能够实现无缝切换。
+
+![](images/9b75c6b5a1abca708f9926e76648cf2cfae735f19e9fcef8265e2e1977023ebb.jpg)  
+图8不同移动用户数量下的切换次数对比
+
+![](images/dcde6342f313b576a843fa15fff394a70d7e35ba72300ded95e7f7196ad112d2.jpg)  
+图7不同用户移动速度下的切换失败次数对比 Fig.7Comparison of the number of failed handoffs by different methodswith different user speed   
+Fig.8Comparison of the number of handoffs by different methods with different number of users   
+图9不同移动用户数量下的切换失败次数对比 Fig.9Comparison of the numberof failed handoffs by different methods with different number of users
+
+# 参考文献：
+
+[1]Liu Jiajia,Shi Yongpeng,Fadlullah ZM,et al.Space-Air-Ground Integrated Network:A Survey [J]. IEEE Communications Surveys Tutorials,2018,20(4): 2714-2741.   
+[2]李思思，程良伦，王涛，等．移动互联异构网络下多终端协同的垂直 切换决策算法[J]．计算机应用研究,2018,35(08):2474-2476+2497. (LiSisi,Cheng Lianglun,Wang Tao,et al.Vertical handoff decision algorithm for multi-terminal cooperative in mobile interconnected heterogeneous networks [J].Application Research of Computers,2018, 35 (08): 2474-2476+2497.)   
+[3]Ayyappan K,Narasimman K,Dananjayan P. SINR Based Vertical Handoff Scheme for QoS in Heterogeneous Wireless Networks [C]// 2009 International Conference on Future Computer and Communication. Piscataway,NJ:IEEE Press,2009:117-121.   
+[4]Yu Hewei,Ma Yanan,Yu Jingxi. Network Selection Algorithm for Multiservice Multimode Terminals in Heterogeneous Wireless Networks [J].IEEE Access,2019,7: 46240-46260.   
+[5]Goyal P,Lobiyal D K, Katti C P. Dynamic user preference based group vertical handoffs in heterogeneous wireless networks:a non-cooperative game approach [J].Wireless Networks,2020,26 (2):775-789.   
+[6]王继博，杨蕾，齐东元．基于差分预测和模糊逻辑的垂直切换机制 研究[J].计算机应用研究,2020,37(S2):284-286.(Wang Jibo,Yang Lei,Qi Dongyuan,et al. The Vertical Handoff Research Based on Forward Diferential Prediction and Fuzzy Logic [J].Application Research of Computers,2020,37 (S2):284-286.)   
+[7]Zhao Hu,Eyhab A.A User-Centered Handoff Procedure in 5G Cellular Networks $[ \mathrm { C } ] / \hbar$ Companion Proceedings of the Web Conference 2020. Association for Computing Machinery.New York:ACM Press,2020: 107-108.   
+[8]Mahmoud A,Ghaith H,Wail M. Improving Vertical Handoffs Using Mobility Prediction [J]. International Journal of Advanced Computer Science and Applications,2016,7(3):413-419.   
+[9]王楚捷．面向用户移动性的预测方法与资源管理技术研究[D].杭 州：浙江大学,2020.(Wang Chujie.Research on Mobility Prediction Methods and Resource Management Based on User Mobility [D]. Hangzhou: ZheJiang University,2020.)   
+[10] Altché F,de La Fortelle A.An LSTM network for highway trajectory prediction [C]// 2017 IEEE 2Oth International Conference on Intelligent Transportation Systems (ITSC).Piscataway,NJ:IEEE Press,2017:353- 359.   
+[11]张瑾．基于用户移动性预测的异构无线网络资源管理研究[D].北 京：北京邮电大学,2015.(Zhang Jin.The Management Research Based on User Mobility Prediction in Heterogeneous Wireless Networks [D]. Beijing:Beijing University of Posts and Telecommunications,2015)   
+[12] Wang Chujie,Ma Lin,Li Rongpeng，et al.Exploring Trajectory Prediction Through Machine Learning Methods [J].IEEE Access,2019, 99:101441-101452.   
+[13]Wang Chujie,Zhao Zhifeng，Qi Sun,et al.Deep Learning-based Intelligent Dual Connectivity for Mobility Management in Dense Network [C]//IEEE 88th Vehicular Technology Conference (VTC-Fall), Piscataway,NJ:IEEE Press,2O18:1-5.   
+[14] Yu Yinbo,Li Xing,Leng Xue,et al.Fault Management in SoftwareDefined Networking:A Survey[J].IEEE Communications Surveys & Tutorials,2019,21(1):349-392.   
+[15]LeeK,HongS,KimSJ,et al.SLAW: Self-SimilarLeast-Action Human Walk[J].Networking IEEE/ACM Transactions on,2012,20 (2):515- 529.   
+[16] Greff K,Srivastava RK,Koutnik J,et al.LSTM:A Search Space Odyssey [J].IEEE Transactions on Neural Networks & Learning Systems,2017,28(10):2222-2232.   
+[17]陶洋，刘小虎，陶玲．基于QoS 的异构网络垂直切换算法[J].计算 机工程,2016,42(12):91-96.(Tao Yang,Liu Xiaohu,Tao Ling.Vertical Handoff Algorithm in Heterogeneous Network Based on QoS [J]. Computer Engineering,2016,42 (12):91-96.)   
+[18]钱志鸿，于新艺，许建华，等．基于车辆用户行为的异构网络垂直切 换算法 [J]．吉林大学学报（工学版），2019,49(02):614-623.(Qian Zhihong,Yu Xinyi,Xu Jianhua,et al.Vertical handoff algorithm in heterogeneous networks based on vehicle terminal behavior[J]. Journal of Jilin University (Engineering and Technology Edition),2019,49 (02): 614-623.)   
+[19] Glorot X,Bengio Y.Understanding the difficulty of training deep feedforward neural networks[J]. Journal of Machine Learning ResearchProceedings Track,2010,9:249-256.

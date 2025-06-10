@@ -1,0 +1,518 @@
+[
+    {
+        "type": "text",
+        "text": "刘艳芳²马健l\\*都文²王雅晶²曹志军²李胜利\\*\\*余雄\\*\\*（1.新疆农业大学动物科学学院，乌鲁木齐830052；2.中国农业大学动物科技学院，动物营养学国家重点实验室，北京市生鲜乳质量安全工程技术研究中心，北京100193)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究苜蓿青贮、全株小麦青贮、全株玉米青贮、苜蓿干草、燕麦草（2种）、稻草、花生秧、谷子秸秆和小麦秸秆共10 种粗饲料在奶牛瘤胃中的降解特性，为科学配制奶牛饲粮提供数据参考。采用尼龙袋法评定其干物质（DM）、粗蛋白质（CP）、中性洗涤纤维（NDF）和酸性洗涤纤维（ADF）的 $7 2 \\mathrm { { h } }$ 动态降解率和有效降解率。结果表明，苜蓿青贮的DM有效降解率最高，达到 $5 8 . 2 4 \\%$ ，小麦秸秆的最低，为 $34 . 2 0 \\%$ ；CP有效降解率最高的是苜蓿干草，与依次降低的全株小麦青贮、苜蓿青贮、全株玉米青贮、燕麦草、稻草、小麦秸秆、谷子秸秆和花生秧差异显著（ $P { < } 0 . 0 5$ ）；全株小麦青贮的NDF有效降解率与全株玉米青贮、苜蓿干草、燕麦草差异不显著（ $P { > } 0 . 0 5$ ），但显著高于其他粗饲料（ $\\scriptstyle P < 0 . 0 5 .$ ）；全株小麦青贮的ADF有效降解率显著高于其他粗饲料（ $_ { \\cdot \\textcircled { P } < 0 . 0 5 }$ ）。综上所述，苜蓿干草和苜蓿青贮的瘤胃降解率较高，营养价值较高，小麦秸秆和谷子秸秆品质相对较差，花生秧与上述秸秆饲料比具有一定的优势。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：奶牛；粗饲料；瘤胃；有效降解率",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S823",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "受国际市场的影响，2016年1—11月我国原料奶收购价为3.47元/kg，较 2015年同期（3.43元/kg）仅提高了 $1 . 2 \\% ^ { [ 1 ] }$ ，我国生鲜奶价格低迷还将持续，这对我国奶牛养殖业提出了更高的要求。畜牧业的发展导致优质粗饲料需求量增加，进而导致养殖成本高等问题[2]。我国优质粗饲料主要依赖进口，2017年1一6月，我国进口干草累计97.72万t，同比增长$2 1 . 8 9 \\%$ ，其中进口苜蓿干草 83.45万t，同比增长 $20 . 4 1 \\%$ 。不同品种以及不同生长阶段的草食动物对营养物质的需求不一样，饲粮中合理使用一部分中低质粗饲料可以在不降低其生产性能的前提下大幅度降低饲料成本，所以，中低质粗饲料的开发利用也不容忽视。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除概略养分分析外，研究饲料营养物质在瘤胃内的降解特性也是反映其营养价值的常用方法。我国具有丰富的饲料资源，马健等[3]以禾王草为研究对象，发现禾王草瘤胃降解特性高于羊草；黎力之等[4研究了大豆秸、甘蔗梢、油菜秸、苎麻、花生藤和莲叶6种经济副作物，发现莲叶营养价值最高，油菜秸最低。在国外，DeAndrade等[5研究了玉米青贮、新鲜甘蔗和3种甘蔗青贮对奶牛生产性能和消化率的影响，结果表明新鲜甘蔗和青贮甘蔗可在奶牛生产中应用。为更好衡量粗饲料的营养价值，需要对粗饲料的营养成分及其降解率进行分析。本试验分析了10种粗饲料的常规营养成分，并采用尼龙袋技术研究其营养成分在瘤胃中的降解规律，为合理利用饲料资源，补充我国饲料营养价值库提供数据参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验选用的10 种粗饲料包括：苜蓿青贮、全株玉米青贮、全株小麦青贮、苜蓿干草、燕麦草（2种）、稻草、花生秧、谷子秸秆和小麦秸秆。饲料的详细描述见表1。收集的青贮样品在65℃烘箱中烘干至恒重，计算初水分，所有饲料样品粉碎，一部分样品通过 $1 \\mathrm { m m }$ 筛，用于测定营养常规指标，另一部分样品通过 $2 . 5 \\mathrm { m m }$ 筛，用于瘤胃降解试验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1粗饲料详细信息描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "饲料名称 样品描述 产地 采样时间  \nFeed name Sample description Producing area Sampling time  \n苜蓿青贮 Alfalfa silage 紫花苜蓿，初花期 安徽省蚌埠市 2016-10-11  \n全株小麦青贮 Whole wheat silage 冬小麦，蜡熟期 河北省张家口市 2016-10-04  \n全株玉米青贮 Whole corn silage 京科青贮516，蜡熟期 北京市 2016-09-18  \n苜蓿干草 Alfalfa hay 巨人 $2 0 1 + z$ 苜蓿，现蕾期，一级 美国 2016-09-26  \n燕麦草1Oat hay 1 一级燕麦 澳大利亚 2016-10-03  \n燕麦草2Oat hay 2 丹燕111，乳熟期 内蒙古自治区乌兰察布市 2016-10-06  \n稻草 Rice straw 龙粳21，完熟期 黑龙江省齐齐哈尔市 2016-10-15  \n花生秧 Peanut vine 冀花2号 河南省郑州市 2016-10-09  \n谷子秸秆 Millet straw 小米秸秆，完熟期 内蒙古自治区乌兰察布市 2016-10-06  \n小麦秸秆 Wheat straw 冬小麦，完熟期 黑龙江省齐齐哈尔市 2016-10-15",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "41 1.2 试验操作过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "42 选用孔径 $4 0 { \\sim } 6 0$ $\\mu \\textrm { m }$ 的尼龙布，缝成 $8 \\times 1 2 ~ \\mathrm { c m }$ 的尼龙袋，准确称取风干样的饲料样品  \n43 $\\mathfrak { 4 } \\mathfrak { g }$ 装入尼龙袋底部，每个时间点每头牛共设4个平行，每4个袋用橡皮筋固定在一根长约",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$5 0 \\mathrm { c m }$ 的软性塑料管上，塑料软管的另一端系结实的尼龙绳，尼龙绳固定在瘘管外的铁环上。晨饲前1h将尼龙袋经瘘管全部放入瘤胃中培养，按“同时投入，依次取出”的原则，于投入后4、8、12、24、30、36、48和 $7 2 \\mathrm { { h } }$ 取出，用自来水冲洗取出的尼龙袋，直至流水澄清，放入 $6 5 ^ { \\circ } \\mathrm { C }$ 恒温干燥箱内烘 $4 8 \\mathrm { h }$ ，回潮后称重记录，备测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3试验动物及饲养管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选用4头体况良好，体重、胎次和产奶量等相近的泌乳后期中国荷斯坦奶牛，安装有永久性瘤胃瘘管。试验在北京中地种畜良种奶牛科技园进行，根据《奶牛营养需要和饲养标准》配制基础饲粮。基础饲粮组成及营养水平见表2。每天饲喂2次，自由饮水。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2基础饲粮组成及营养水平（干物质基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table 2Composition and nutrient levels of the basal diet (DM basis) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "% ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "项目Items 含量Content  \n原料Ingredients  \n羊草 Chinese wildrye 6.38  \n苜蓿干草 Alfalfa hay 20.31  \n燕麦草 Oat hay 5.58  \n全株玉米青贮 Whole corn silage 24.48  \n玉米Corn 3.66  \n压片玉米 Falked corn 13.52  \n豆粕 Soybean meal 6.55  \n糖蜜 Molasses beet 3.80  \n膨化大豆 Extruded soybean 3.76  \n棉籽 Cottonseed 3.41  \n大豆皮 Soybean hull 3.00  \n小麦 Wheat 1.76  \n过瘤胃脂肪酸 Rumen-pass fatty acid 1.20  \n酵母粉 Yeast powder 0.20  \n脱霉剂 Mycotoxin removement agent 0.06  \n食盐 NaCl 0.31  \n石粉 Limestone 0.32  \n碳酸氢钙 $\\mathrm { C a ( H C O _ { 3 } ) _ { 2 } }$ 0.34  \n小苏打 NaHCO3 0.67  \n碳酸氢钾 ${ \\mathrm { K H C O } } _ { 3 }$ （204号 0.26  \n预混料 Premix1) 0.31  \n氧化镁MgO 0.12  \n合计 Total 100.00  \n营养水平 Nutrient levels2)  \n产奶净能 NEL/(MJ/kg) 5.68  \n粗蛋白质 CP 15.01  \n粗脂肪 EE 3.40  \n中性洗涤纤维 NDF 41.03  \n酸性洗涤纤维ADF 26.69  \n钙Ca 0.55  \n磷P 0.39",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)每千克预混料含有 One kilogram of premix contains the following：VA1 O0o 000 IU， $\\mathrm { V D } _ { 3 } 2 8 0 0 0 0 \\mathrm { I U }$ ，VE 10 000 IU，烟酸 nicotinic acid $1 0 0 0 \\mathrm { m g }$ ， $\\mathrm { c u }$ (as copper sulfate) $3 2 5 0 \\mathrm { m g }$ ， $\\mathrm { M n } 4 8 0 0 \\mathrm { m g }$ ， $Z n 1 2 8 5 0 \\mathrm { m g }$ （204 $\\mathrm { ~ I ~ l 4 0 ~ m g ~ }$ ，Se $1 5 0 \\mathrm { m g }$ ，Co $1 1 0 \\mathrm { m g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)产奶净能为计算值，产奶净能 $_ { : = 0 . 5 5 0 1 \\times }$ 消化能 $\\cdot 0 . 0 9 4 6 ^ { [ 6 ] }$ ；其余营养水平为实测值。 $\\mathrm { N E } _ { \\mathrm { L } }$ is a calculated value, $\\mathrm { N E _ { L } } { = } 0 . 5 5 0 \\ 1 \\times \\mathrm { D E - } 0 . 0 9 4 \\ 6 ^ { [ 6 ] }$ while other nutrient levelsare measured values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 测定指标与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "尼龙袋中残余物经粉碎机粉碎过 $\\mid 1 \\mathrm { m m }$ 分析筛后，烘箱干燥法测定样品干物质（DM）、凯氏定氮法测定粗蛋白质（CP）、VanSoest法测定中性洗涤纤维（NDF）和酸性洗涤纤维（ADF）含量。以上具体操作参加《饲料分析及饲料质量检测技术》[7]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 计算公式",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲料样品某养分实时降解率 $( \\% ) ~ = 1 0 0 \\times$ （降解前某养分含量一降解后某养分含量）/降解前某养分含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据Orskov等[8提出的模型计算动态降解模型参数和有效降解率（ED）：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP { = } a { + } b ( 1 { - } \\mathrm { e } ^ { - c t } ) ;\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：t为饲料在瘤胃中的滞留时间（h）； $P$ 为某营养成分 $t$ 时刻的实时降解率 $( \\% )$ ；a为该营养成分的快速降解部分 $( \\% )$ ）； $b$ 为慢速降解部分 $( \\% )$ ）； $\\mathbf { \\Psi } _ { c }$ 为慢速降解部分的降解速率（%/h）； $k$ 为该营养成分的瘤胃外流速率 $( \\% ) \\%$ ），参考宫福臣等 $^ { [ 9 ] } k$ 取 $0 . 0 3 1 \\% / \\mathrm { h }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 数据统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用 SAS9.2 软件中非线性指数模型计算a、b、c值，再用ANOVA 和Duncan 氏法进行平均值的方差分析和多重比较，结果用平均值 $\\pm$ 标准差表示，以 $P { < } 0 . 0 5$ 作为差异显著性的判断标准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.110种不同粗饲料的常规营养成分含量",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，10 种粗饲料的营养成分含量存在很大差异。青贮中DM含量最高的是苜蓿青贮，显著高于另外2种青贮（ $P { < } 0 . 0 5$ ），干草DM含量在 $90 \\%$ 左右。CP含量处于$3 . 0 5 \\% { \\sim } 2 0 . 3 9 \\%$ ，首蓿青贮CP含量最高，首蓿青贮和干草的CP含量显著高于其他粗饲料中 $_ { , P < 0 . 0 5 ) }$ ，小麦秸秆的CP含量在所有饲料中处于最低水平，仅为 $3 . 0 5 \\%$ 。所有饲料的NDF含量在 $4 1 . 9 3 \\% 8 3 . 6 2 \\%$ ，小麦秸秆的NDF含量最高，为 $8 3 . 6 2 \\%$ ，显著高于其他粗饲料中 $\\cdot P { < } 0 . 0 5$ ），全株玉米青贮NDF含量显著低于全株小麦青贮（ $\\cdot P { < } 0 . 0 5$ ）。与NDF 测定结果类似，小麦秸秆的 ADF 含量最高，为 $54 . 0 3 \\%$ ，显著高于其他粗饲料（ $_ { \\cdot } P { < } 0 . 0 5 )$ ），ADF含量最低的为全株玉米青贮。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b26ffff618a9a454d77f2be1dd603d857551a5dbb764a676b8142f8251f05e9c.jpg",
+        "table_caption": [
+            "表310种粗饲料的常规营养成分含量（干物质基础)"
+        ],
+        "table_footnote": [
+            "同列数据肩标无字母或相同字母表示差异不显著（ $P { > } 0 . 0 5$ ），不同小写字母表示差异显著（ $\\scriptstyle \\cdot < 0 . 0 5$ ）。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">87 项目</td><td colspan=\"4\">Table 3 Common nutrient component contents of 10 roughages (DM basis)</td><td colspan=\"2\">%</td></tr><tr><td>干物质</td><td>粗蛋白质</td><td>中性洗涤纤维</td><td>酸性洗涤纤维</td><td>粗脂肪</td><td>粗灰分</td></tr><tr><td>Jtems</td><td>DM</td><td>CP</td><td>NDF</td><td>ADF</td><td>EE</td><td>Ash</td></tr><tr><td>苜蓿青贮Alfalfa silage</td><td>43.33±0.28g</td><td>20.39±1.59a</td><td>42.33±1.11h</td><td>30.45±0.56ef</td><td>2.89±0.14a</td><td>8.86±0.10bc</td></tr><tr><td>全株小麦青贮Whole wheat silage</td><td>31.63±0.26h</td><td>12.92±0.50b</td><td>52.97±0.50ef</td><td>31.56±0.14ef</td><td>3.07±0.03a</td><td>8.23±0.31d</td></tr><tr><td>全株玉米青贮Wholecorn silage</td><td>27.38±0.01i</td><td>9.53±0.36c</td><td>48.09±0.07gh</td><td>28.94±0.67f</td><td>2.94±0.07a</td><td>6.02±0.03e</td></tr><tr><td>苜蓿干草 Alfalfa hay</td><td>91.50±0.04d</td><td>20.23±0.03a</td><td>41.93±0.85h</td><td>31.08±0.87ef</td><td>2.40±0.03b</td><td>8.40±0.38bcd</td></tr><tr><td>燕麦草1 Oat hay 1</td><td>91.54±0.03d</td><td>6.98±0.41d</td><td>58.26±4.33cd</td><td>34.96±2.25cd</td><td>2.28±0.11b</td><td>8.35±0.24cd</td></tr><tr><td>燕麦草 2 Oat hay 2</td><td>91.70±0.03c</td><td>10.02±0.18c</td><td>56.18±0.48de</td><td>32.65±0.10de</td><td>2.46±0.09b</td><td>8.52±0.13bed</td></tr><tr><td>稻草 Rice straw</td><td>93.00±0.12a</td><td>5.35±0.00e</td><td>71.54±1.11b</td><td>45.66±0.78b</td><td>1.52±0.03d</td><td>11.89±0.01a</td></tr><tr><td>花生秧 Peanut vine</td><td>89.33±0.04f</td><td>9.29±0.30c</td><td>49.98±0.95fg</td><td>37.50±1.07c</td><td>1.60±0.09d</td><td>8.89±0.14b</td></tr><tr><td>谷子秸秆 Millet traw</td><td>90.55±0.01e</td><td>6.86±0.11d</td><td>61.24±4.50c</td><td>35.87±2.50c</td><td>1.80±0.13c</td><td>11.94±0.06a</td></tr><tr><td>小麦秸秆Wheat straw</td><td>91.99±0.01b</td><td>3.05±0.04f</td><td>83.62±1.61a</td><td>54.03±0.37a</td><td>1.79±0.00c</td><td>8.30±0.34d</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "下表同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the same column,values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ,while with different small letter superscripts mean significant difference ( $\\scriptstyle \\overbrace { P } < 0 . 0 5 )$ ).The same below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2DM 降解特性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，苜蓿青贮在 $^ { 4 \\mathrm { h } }$ 的DM降解率为 $4 0 . 1 4 \\%$ ，3种青贮在 $3 6 \\mathrm { h }$ 的DM降解率均已达到 $60 \\%$ 以上，苜蓿青贮在 $^ { 7 2 \\mathrm { ~ h ~ } }$ 的DM降解率显著高于全株玉米青贮（ $\\cdot P { < } 0 . 0 5$ ），但与全株小麦青贮无显著差异（ $P { > } 0 . 0 5$ ）。苜蓿干草在各个时间点的DM降解率均显著高于其他几种干草 （ $\\scriptstyle \\cdot - 0 . 0 5$ ），2种燕麦草在 $7 2 \\mathrm { { h } }$ 内的降解率均差异不显著（ $P { > } 0 . 0 5$ ）。花生秧在 $7 2 \\mathrm { { h } }$ 的DM降解率显著高于谷子秸秆（ $P { < } 0 . 0 5$ ），谷子秸秆和小麦秸秆在前 $2 4 \\mathrm { h }$ 的降解率处于较低水平，小麦秸秆在 $2 4 \\mathrm { h }$ 内的降解率低于谷子秸秆，但 $2 4 \\mathrm { h }$ 之后其DM降解加快，$7 2 \\mathrm { { h } }$ 时DM降解率显著高于谷子秸秆（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0321c28e5cb0710710009595cca9c242ec0ff77e072e4f429f2518d6880fcb0c.jpg",
+        "table_caption": [
+            "表4粗饲料在瘤胃不同时间点的DM降解率",
+            "Table 4DM degradation rates of different roughages in rumen at different time % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">取样时间点 Sampling time/h</td></tr><tr><td>4</td><td>8</td><td>12</td><td>24</td><td>30</td><td>36</td><td>48</td><td>72</td></tr><tr><td>40.14±2.73a</td><td>45.49±3.44b</td><td>52.36±1.94a</td><td>61.06±0.39a</td><td>63.88±2.07b</td><td>66.22±4.12ab</td><td>69.22±1.39a</td><td>75.03±3.34a</td></tr><tr><td>36.72±1.53ab</td><td>40.84±0.69c</td><td>42.73±1.78b</td><td>57.97±0.90b</td><td>60.47±1.78c</td><td>63.44±2.46bc</td><td>69.34±1.83a</td><td>73.31±1.30a</td></tr><tr><td>37.91±1.29ab</td><td>40.74±2.44c</td><td>45.73±2.12b</td><td>50.27±1.21c</td><td>55.32±1.01d</td><td>60.25±1.35c</td><td>64.39±0.95b</td><td>69.75±0.36b</td></tr><tr><td>36.13±4.53b</td><td>49.15±3.69a</td><td>51.42±5.01a</td><td>62.98±2.93a</td><td>66.70±1.21a</td><td>68.39±1.36a</td><td>70.49±1.65a</td><td>72.22±1.16ab</td></tr><tr><td>32.52±2.27c</td><td>35.66±1.73d</td><td>38.85±2.38c</td><td>48.17±3.19c</td><td>50.35±0.52ef</td><td>54.92±3.54d</td><td>56.64±1.26c</td><td>63.04±2.58c</td></tr><tr><td>31.12±3.10c</td><td>36.87±2.52d</td><td>38.08±3.62cd</td><td>48.46±1.84c</td><td>52.47±1.17e</td><td>55.96±3.61d</td><td>58.46±1.26c</td><td>62.68±2.58c</td></tr><tr><td>23.85±1.51d</td><td>28.62±1.02e</td><td>32.47±1.63e</td><td>39.94±2.37d</td><td>42.15±2.55g</td><td>44.61±2.11e</td><td>48.46±1.55e</td><td>56.94±2.34d</td></tr><tr><td>25.34±0.67d</td><td>31.13±0.57e</td><td>34.79±2.98de</td><td>47.81±0.81c</td><td>49.85±2.39f</td><td>52.11±1.32d</td><td>57.61±1.12c</td><td>60.19±1.59cd</td></tr><tr><td>17.64±1.06e</td><td>21.75±1.95f</td><td>25.25±1.39f</td><td>35.59±3.14e</td><td>39.39±1.81h</td><td>43.73±2.39e</td><td>47.71±2.76e</td><td>52.24±3.34e</td></tr><tr><td>8.68±0.80f</td><td>14.87±0.70g</td><td>24.50±0.99f</td><td>35.37±1.32e</td><td>41.22±0.69gh</td><td>46.26±1.00e</td><td>52.30±2.89d</td><td>59.18±2.15d</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "项目   \nItems   \n苜蓿青贮   \nAlfalfa silage   \n全株小麦青贮   \nWhole wheat silage   \n全株玉米青贮   \nWhole corn silage 8   \n苜蓿干草   \nAlfalfa hay ? 草1   \nOat hay 1   \n燕麦草2 8   \nOat hay 2   \n稻草 2   \nRice straw   \n花生秧   \nPeanut vine a   \n谷子秸秆   \nMillet straw   \n小麦秸秆   \nWheat straw ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，粗饲料的DM降解参数存在很大差异。DM快速降解部分含量最高的是苜蓿青贮，为 $34 . 2 8 \\%$ ，与全株玉米青贮差异不显著（ ${ \\mathrm { \\ P } } { > } 0 . 0 5 { \\mathrm { \\ } }$ ），显著高于其他粗饲料（ $( P { < } 0 . 0 5 )$ ，小麦秸秆的快速降解部分最低，仅为 $0 . 7 2 \\%$ 。小麦秸秆的慢速降解部分含量最高，显著高于其他饲料（ $\\cdot P { < } 0 . 0 5$ ）。苜蓿青贮和苜蓿干草的有效降解率差异不显著（ $\\cdot P { > } 0 . 0 5$ ），显著高于其他粗饲料 ( $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ ），2种燕麦草的有效降解率差异不显著（ $\\cdot P { > } 0 . 0 5$ ），谷子秸秆和小麦秸秆的有效降解率较低，分别为 $34 . 7 4 \\%$ 和 $34 . 2 0 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5粗饲料的DM动态降解模型参数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/30549172b039598de130db994315f3da772006aba193e71d465bcb9c11ffe083.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>a/%</td><td>b/%</td><td>c/(%/h)</td><td>a+b/%</td><td>有效降解率 ED/%</td></tr><tr><td>苜蓿青贮 Alfalfa silage</td><td>34.28±2.27a</td><td>42.06±3.41bc</td><td>0.042±0.005b</td><td>76.34±3.61ab</td><td>58.24±1.70a</td></tr><tr><td>全株小麦青贮 Whole wheat silage</td><td>29.21±1.34b</td><td>49.28±1.89b</td><td>0.034±0.005bc</td><td>78.49±2.65a</td><td>54.78±0.71b</td></tr><tr><td>全株玉米青贮 Whole corn silage</td><td>33.95±2.14a</td><td>47.10±3.90bc</td><td>0.021±0.004d</td><td>81.04±5.13a</td><td>52.83±0.67c</td></tr><tr><td>苜蓿干草 Alfalfa hay</td><td>25.45±6.25bc</td><td>46.55±5.84bc</td><td>0.074±0.014a</td><td>72.00±0.44bc</td><td>58.12±2.37a</td></tr><tr><td>燕麦草1 Oat hay 1</td><td>27.74±2.70b</td><td>40.73±4.60c</td><td>0.028±0.005cd</td><td>68.47±4.08cd</td><td>47.04±0.96d</td></tr><tr><td>燕麦草2Oat hay 2</td><td>25.70±4.89bc</td><td>41.37±4.93c</td><td>0.035±0.009bc</td><td>67.07±4.40cd</td><td>47.31±0.82d</td></tr><tr><td>稻草 Rice straw</td><td>21.31±0.40cd</td><td>45.63±5.55bc</td><td>0.021±0.006d</td><td>66.94±5.72cd</td><td>39.46±1.31f</td></tr><tr><td>花生秧 Peanut vine</td><td>17.95±1.36d</td><td>44.83±2.17bc</td><td>0.043±0.008b</td><td>62.78±2.69de</td><td>43.83±0.52e</td></tr><tr><td>谷子秸秆 Millet straw</td><td>11.58±1.89e</td><td>46.42±6.07bc</td><td>0.032±0.006bcd</td><td>58.01±6.12e</td><td>34.74±1.23g</td></tr><tr><td>小麦秸秆 Wheat straw</td><td>0.72±0.38f</td><td>63.93±3.72a</td><td>0.034±0.002bc</td><td>64.65±3.52d</td><td>34.20±0.81g</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": ".10 a为快速降解部分，b为慢速降解部分，c为慢速降解部分的降解速率， $a + b$ 为潜在降解部分。表7、表 .11 9 和表11同。   \n.12 ais the fractionof immediatelydegraded,bis the fractionof slowlydegraded,cis thedegradationrateof the .13 fraction of slowly degraded $( \\% )$ . The same as Table 7, Table 9 and Table 11. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 CP降解特性",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "115 由表6可知，苜蓿干草在 $8 \\mathrm { h }$ 时CP降解率已经达到了 $5 8 . 8 5 \\%$ ,72h降解率已高达 $8 2 . 7 9 \\%$   \n116 其显著高于其他粗饲料（ $\\cdot P { < } 0 . 0 5$ ）。苜蓿青贮在 $1 2 \\mathrm { h }$ 之前的CP 降解率均显著低于全株小麦  \n117 青贮（ $\\scriptstyle \\cdot < 0 . 0 5$ ），但 $^ { 7 2 \\mathrm { ~ h ~ } }$ 的CP 降解率显著高于全株小麦青贮（ $\\scriptstyle \\cdot < 0 . 0 5$ ）。除 $4 8 \\mathrm { h }$ 外，2种  \n118 燕麦草的CP 降解率无显著差异（ $P { > } 0 . 0 5$ ），燕麦草 $3 0 \\mathrm { h }$ 之后CP 降解变缓。花生秧在 $1 2 \\mathrm { h }$   \n119 的CP 降解率显著低于稻草（ $\\cdot P { < } 0 . 0 5$ ），但 $7 2 \\mathrm { { h } }$ 时差异不显著（ $P { > } 0 . 0 5$ ），花生秧在 $^ { 4 \\mathrm { h } }$ 时  \n120 CP 降解率较低， $2 4 \\mathrm { h }$ 之后CP 降解变缓，说明花生秧CP主要在 $1 2 { \\sim } 2 4 \\mathrm { h }$ 降解。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f066ab4b03b75e50c526563ce24bc6bb11e697ebdbeb5061100500f4efacb588.jpg",
+        "table_caption": [
+            "表6粗饲料在瘤胃不同时间点的CP降解率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Table 6 CP degradation rates of different roughages in rumen at different time</td><td colspan=\"2\">%</td></tr><tr><td colspan=\"7\">取样时间点 Sampling time/h</td><td></td></tr><tr><td>4</td><td>8</td><td>12</td><td>24</td><td>30</td><td>36</td><td>48</td><td>72</td></tr><tr><td>42.77±2.49b</td><td>48.50±3.80c</td><td></td><td>52.47±3.58c 64.27±3.25bc66.45±1.57℃</td><td></td><td>69.77±2.58b</td><td>73.18±1.20b</td><td>79.93±1.06b</td></tr><tr><td></td><td></td><td></td><td></td><td>48.96±1.80a52.95±2.44b57.35±2.90b66.83±2.69b69.47±2.01b71.36±2.38b72.92±1.57b76.56±1.24c</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>44.57±3.67b46.52±4.68cd49.99±7.35cd60.87±7.09c63.57±1.74d66.78±6.03bc70.09±3.47c71.56±1.42d</td><td></td><td></td></tr><tr><td>47.44±1.39a</td><td>58.85±3.17a</td><td>66.84±2.06a</td><td>76.89±2.62a</td><td>79.21±0.45a</td><td>80.42±1.03a</td><td>81.52±1.13a</td><td>82.79±0.48a</td></tr><tr><td>38.97±0.70c</td><td>42.16±0.96ef</td><td></td><td>44.84±1.31e 52.27±1.72de</td><td>57.37±1.58e</td><td>59.15±1.00d</td><td>61.94±1.12e</td><td>67.86±0.88e</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "项目   \nItems   \n苜蓿青贮   \nAlfalfa silage   \n全株小麦青贮   \nWhole wheat silage   \n全株玉米青贮   \nWhole corn silage   \n苜蓿干草   \nAlfalfa hay   \n燕麦草1 ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a12b5f5eed3e4a70aaeaf99a4b4fb3fea01483bbbb06065cd14ed14703b88b4e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>燕麦早2</td><td></td><td></td><td></td><td>39.64±2.19c42.97±2.55de46.04±2.65de54.86±3.14d58.31±2.22e61.99±1.09cd64.68±0.66d69.66±1.4de</td><td></td><td></td><td></td><td></td></tr><tr><td>Oat hay 2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>稻草</td><td></td><td></td><td></td><td>35.37±1.08d39.08±1.69fg43.97±1.43e48.09±1.66ef50.47±1.46g53.18±2.05e57.06±1.16f</td><td></td><td></td><td></td><td>62.90±3.66f</td></tr><tr><td>Rice straw</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>花生秧</td><td></td><td></td><td></td><td>16.25±0.44f24.76±0.23i34.82±2.73f 50.40±2.04def54.92±2.10f59.33±4.10d60.77±1.31e</td><td></td><td></td><td></td><td>64.41±2.27f</td></tr><tr><td>Peanut vine</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷子秸秆</td><td></td><td></td><td></td><td>28.97±0.76e30.50±0.63h38.16±1.14f47.66±1.23ef49.66±1.46g51.83±1.38e55.56±0.82f</td><td></td><td></td><td></td><td>60.22±1.15g</td></tr><tr><td>Millet straw</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>小麦秸秆</td><td></td><td></td><td></td><td>31.50±0.43e 35.76±0.74g38.72±1.88f47.15±1.67f 48.92±1.21g</td><td></td><td>51.08±1.03e</td><td>55.02±0.85f57.91±0.78g</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "123 由表7可知，全株小麦青贮的CP快速降解部分含量最高，显著高于其他粗饲料  \n124 （ $\\cdot P { < } 0 . 0 5 \\$ ），其次为苜蓿青贮和全株玉米青贮，两者之间差异不显著（ $\\cdot \\mathrm { \\Delta } P { > } 0 . 0 5$ ），花生秧的  \n125 CP 快速降解部分含量最低，仅为 $1 . 5 5 \\%$ 。与CP快速降解部分含量相反，花生秧的CP 慢速  \n126 降解部分含量显著高于其他粗饲料（ $( P { < } 0 . 0 5 )$ ）。有效降解率最高的是苜蓿干草，花生秧最低，  \n127 与谷子秸秆和小麦秸秆差异不显著（ $P { > } 0 . 0 5$ ），这3者显著低于其他粗饲料（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/068536476e206fab94bae87737a56eabf2df8113d4a12c684214af927a619496.jpg",
+        "table_caption": [
+            "表7粗饲料的CP动态降解模型参数",
+            "Table 7Parameters of CP dynamic degradation model of roughages "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>a/%</td><td>b/%</td><td>c/(%/h)</td><td>a+b/%</td><td>有效降解率 ED/%</td></tr><tr><td>苜蓿青贮 Alfalfa silage</td><td>36.89±4.02b</td><td>46.70±3.07bc</td><td>0.035±0.010cde</td><td>83.59±2.91a</td><td>61.37±0.74c</td></tr><tr><td>全株小麦青贮 Whole wheat silage</td><td>42.04±1.81a</td><td>35.52±1.73d</td><td>0.050±0.013bc</td><td>77.56±2.16a</td><td>63.63±0.78b</td></tr><tr><td>全株玉米青贮 Whole corn silage</td><td>37.16±4.54b</td><td>38.93±6.03cd</td><td>0.041±0.017cd</td><td>76.09±2.92a</td><td>58.49±2.86d</td></tr><tr><td>苜蓿干草 Alfalfa hay</td><td>30.66±3.46cd</td><td>51.58±3.19b</td><td>0.099±0.016a</td><td>82.24±0.59a</td><td>69.85±0.45a</td></tr><tr><td>燕麦草1Oat hay 1</td><td>34.62±0.36bc</td><td>39.08±4.20cd</td><td>0.027±0.006de</td><td>73.69±4.07ab</td><td>52.66±0.31e</td></tr><tr><td>燕麦草2Oat hay 2</td><td>34.51±3.20bc</td><td>39.98±2.86cd</td><td>0.030±0.005de</td><td>74.49±2.45ab</td><td>54.22±0.70e</td></tr><tr><td>稻草 Rice straw</td><td>33.24±2.31bc</td><td>43.53±17.10bcd</td><td>0.022±0.011e</td><td>76.77±19.32a</td><td>48.64±1.38f</td></tr><tr><td>花生秧 Peanut vine</td><td>1.55±1.45f</td><td>63.76±2.71a</td><td>0.061±0.009b</td><td>65.30±3.19bc</td><td>43.74±0.84g</td></tr><tr><td>谷子秸秆 Millet straw</td><td>22.19±0.87e</td><td>40.19±0.95cd</td><td>0.039±0.003cde</td><td>62.38±1.58c</td><td>44.49±0.74g</td></tr><tr><td>小麦秸秆 Wheat straw</td><td>26.90±0.34d</td><td>33.59±2.57d</td><td>0.038±0.007cde</td><td>60.49±2.86c</td><td>45.11±0.42g</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "130 2.4 NDF 降解特性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表8可知， $7 2 \\mathrm { { h } }$ 时 NDF 降解率最高的是全株小麦青贮，与全株玉米青贮差异不显著1 $P { > } 0 . 0 5$ ），显著高于其他饲料（ $. P { < } 0 . 0 5$ ）。苜蓿干草和苜蓿青贮在 $2 4 \\mathrm { h }$ 以前 NDF 降解速度快，之后增长缓慢。 $ { 4 \\mathrm { h } }$ 时除苜蓿干草外，其他干草的 NDF 降解率均在 $10 \\%$ 以下，小麦秸秆的 72hNDF 降解率最低，显著低于其他粗饲料（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/45966665bcad14303ae81c343b09cbcec5838cc6cddbf9a27276bb2fe78fd14b.jpg",
+        "table_caption": [
+            "Table 8NDF degradation rates of different roughages in rumen at different time % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"8\">取样时间点Samplingtime/h</td></tr><tr><td>Items</td><td>4</td><td>8</td><td>12</td><td>24</td><td>30</td><td>36</td><td>48</td><td>72</td></tr><tr><td>苜蓿青贮</td><td>10.91±1.47a</td><td></td><td></td><td></td><td></td><td></td><td></td><td>15.73±1.78b18.77±4.88cd36.02±1.84a37.30±3.21ab 40.75±1.18bc 43.01±3.32cd48.52±2.11b</td></tr><tr><td>Alfalfa silage</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>全株小麦青贮</td><td>11.35±0.28a</td><td></td><td>13.81±1.10c16.06±3.06def 36.43±0.69a41.11±1.36a45.96±2.38a54.32±2.59a</td><td></td><td></td><td></td><td></td><td>59.22±1.36a</td></tr><tr><td>Whole wheat silage</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>全株玉米青贮</td><td>10.56±1.59a</td><td></td><td>13.66±1.69c18.35±1.09cde34.08±1.54a40.00±2.27a 42.41±3.35abc48.46±3.52b57.87±2.60a</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Whole corn silage</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>苜蓿干草</td><td>11.34±1.18a</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Alfalfa hay</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>18.56±1.95a23.95±2.75ab35.59±4.51a40.45±3.12a42.31±2.37abc 45.91±2.86bd 48.36±1.39b</td></tr><tr><td>燕麦草1</td><td>9.81±1.37a</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Oat hay 1</td><td></td><td>16.79±1.04b</td><td></td><td></td><td></td><td></td><td></td><td>25.88±2.40a35.50±2.59a38.94±2.57ab 42.84±2.27abc 46.83±4.29bcd51.62±3.13b</td></tr><tr><td>燕麦草2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Oat hay 2</td><td>9.91±1.20a</td><td>16.24±0.49b</td><td>26.04±2.63a36.73±2.79a38.34±2.49ab44.44±2.93ab47.54±3.11bc51.00±3.13b</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>稻草</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Rice straw</td><td>7.82±0.88b</td><td></td><td>15.29±0.82bc21.69±2.65bc30.29±1.83b35.56±2.32b39.64±3.04cd 45.27±1.19bcd 49.53±1.13b</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>花生秧</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Peanut vine</td><td>5.82±0.21cd</td><td>10.35±0.47d</td><td>14.80±0.53ef24.69±0.99c29.85±2.38cd 36.38±1.84d 44.71±2.61bcd 51.40±2.82b</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷子秸秆</td><td>7.12±1.38bc</td><td>10.38±0.48d</td><td></td><td></td><td></td><td></td><td></td><td>13.93±1.08f26.12±3.44°31.25±4.73c35.62±4.72d42.75±2.43d48.98±5.73b</td></tr><tr><td>Millet straw</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>小麦秸秆</td><td>4.45±0.58d</td><td>10.93±0.61d</td><td>13.67±0.91f</td><td>23.19±1.11</td><td>26.80±1.48d</td><td>30.58±1.08e</td><td>35.02±1.86e</td><td>42.77±1.63c</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "137 由表9可知，所有粗饲料的NDF 快速降解部分含量均不高，且彼此之间差异不显著  \n138 （ $P { > } 0 . 0 5$ ），最高的是苜蓿干草，也仅为 $2 . 2 8 \\%$ 。全株小麦青贮的 NDF 慢速降解部分含量  \n139 最高，与全株玉米青贮和花生秧差异不显著（ $. P { > } 0 . 0 5$ ），显著高于其他粗饲料（ $\\scriptstyle \\cdot < 0 . 0 5$ ）。  \n140 2 种燕麦草的 NDF 有效降解率之间差异不显著（ $\\cdot P { > } 0 . 0 5$ ），小麦秸秆的NDF 有效降解率最  \n141 低。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/1dfa4f3eded1c78a64b6ce81721085df76f8b57466b29c4b516d083825f78b05.jpg",
+        "table_caption": [
+            "表9粗饲料的NDF动态降解模型参数",
+            "Table 9Parameters of NDF dynamic degradation model of roughages "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>a/%</td><td>b/%</td><td>c/(%/h)</td><td>a+b/%</td><td>有双降解率 ED/%</td></tr><tr><td>苜蓿青贮 Alfalfa silage</td><td>1.57±1.18</td><td>48.77±2.36c</td><td>0.045±0.009ab</td><td>50.34±2.58c</td><td>30.18±0.56bc</td></tr><tr><td>全株小麦青贮 Whole wheat silage</td><td>0.38±0.26</td><td>68.63±1.39a</td><td>0.030±0.001cd</td><td>69.01±1.36a</td><td>33.87±0.80a</td></tr><tr><td>全株玉米青贮 Whole corn silage</td><td>2.24±2.20</td><td>65.85±3.32ab</td><td>0.027±0.006cd</td><td>68.09±4.48a</td><td>32.50±0.81a</td></tr><tr><td>苜蓿干草 Alfalfa hay</td><td>2.28±1.68</td><td>47.66±2.71c</td><td>0.052±0.009a</td><td>49.94±2.18c</td><td>32.00±1.61ab</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/a056679896caf57154f38601d707f9d9296111500027b6b9a6470ae1f8f66e27.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>燕麦草1 Oat hay 1</td><td>1.86±2.76</td><td>51.61±3.09c</td><td>0.046±0.011ab</td><td>53.47±3.89c</td><td>32.29±1.71a</td></tr><tr><td>燕麦草2Oat hay 2</td><td>0.72±0.36</td><td>51.68±3.09c</td><td>0.050±0.006a</td><td>52.40±3.38c</td><td>32.41±0.74a</td></tr><tr><td>稻草Rice straw</td><td>1.66±1.08</td><td>52.42±2.63c</td><td>0.036±0.008bc</td><td>54.09±3.23c</td><td>29.68±1.05c</td></tr><tr><td>花生秧 Peanut vine</td><td>0.06±0.32</td><td>68.56±5.15a</td><td>0.020±0.001d</td><td>68.62±4.86a</td><td>27.01±1.22d</td></tr><tr><td>谷子秸秆 Millet straw</td><td>0.32±0.20</td><td>60.75±8.26b</td><td>0.024±0.003d</td><td>61.06±8.21b</td><td>26.57±2.39d</td></tr><tr><td>小麦秸秆 Wheat straw</td><td>0.64±0.32</td><td>50.51±4.53c</td><td>0.025±0.004d</td><td>51.15±4.72c</td><td>23.00±0.65e</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "144 2.5 ADF降解特性",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表10可知，4h时，全株小麦青贮的ADF 降解率最高，为 $1 1 . 7 9 \\%$ ，小麦秸秆的最低，为 $4 . 1 8 \\%$ 。 $^ { 7 2 \\mathrm { ~ h ~ } }$ 时，小麦秸秆的ADF 降解率显著低于其他粗饲料（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ ），花生秧的ADF降解率超过了 $50 \\%$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/f11969d29777a90505e06837497de828a3b7551a5425bf61f7ff60fe14de5050.jpg",
+        "table_caption": [
+            "表10粗饲料在瘤胃不同时间点的ADF 降解率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>149</td><td></td><td colspan=\"5\">Table 10ADF degradation rates of different roughages in rumen at different time</td><td colspan=\"2\">%</td></tr><tr><td>项目</td><td colspan=\"7\">取样时间点 Sampling time/h</td></tr><tr><td>Items</td><td>4</td><td>8</td><td>12</td><td>24</td><td>30</td><td>36</td><td>48</td><td>72</td></tr><tr><td>苜蓿青贮</td><td>10.13±0.69ab</td><td>16.82±2.45ab</td><td>18.49±4.82bc</td><td>35.33±1.77a</td><td>37.51±2.80a</td><td>39.25±1.19bc</td><td>40.85±3.93e</td><td>44.38±1.53e</td></tr><tr><td>Alfalfa silage 全株小麦青贮</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Whole wheat silage</td><td>11.79±2.56a</td><td>16.01±4.14ab</td><td>18.47±5.45bc</td><td>35.45±1.84a</td><td>39.98±1.27a</td><td>44.41±2.51a</td><td>51.24±2.90a</td><td>58.21±0.80a</td></tr><tr><td>全株玉米青贮</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Whole corn silage</td><td>10.04±1.99ab</td><td>13.96±1.36b</td><td>18.35±1.09bc</td><td>28.14±1.42b</td><td>33.10±1.62b</td><td></td><td>40.76±2.81abc 47.00±2.97bc</td><td>55.74±1.36a</td></tr><tr><td>苜蓿干草</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Alfalfa hay</td><td>9.76±0.68ab</td><td>18.27±0.50a</td><td>21.80±3.02ab</td><td>34.01±1.76a</td><td>38.49±2.80a</td><td></td><td>40.80±1.72abc 42.73±1.08de</td><td>45.55±1.53de</td></tr><tr><td>燕麦草1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>8.96±1.56b</td><td>15.57±0.97ab</td><td>25.60±2.40a</td><td>35.83±2.57a</td><td>40.02±3.37a</td><td></td><td>42.56±1.57ab 47.77±2.59ab</td><td>51.56±2.44bc</td></tr><tr><td>Oat hay 1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>燕麦草2</td><td>10.41±0.38ab</td><td>16.03±1.77ab</td><td>24.27±2.33a</td><td>36.49±2.14a</td><td>38.24±1.84a</td><td></td><td>44.10±2.64a 46.28±1.84bcd 48.51±1.94cd</td><td></td></tr><tr><td>Oat hay 2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>稻草</td><td>8.32±0.81b</td><td>13.95±0.99b</td><td>17.20±1.19bc</td><td>23.59±1.67c</td><td>27.79±0.75cd</td><td>29.95±2.70de</td><td>41.18±0.91e</td><td>45.80±1.62de</td></tr><tr><td>Rice straw</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>花生秧</td><td>8.28±1.09b</td><td>10.52±1.55c</td><td>11.72±1.73d</td><td>25.07±1.62c</td><td>29.57±1.73c</td><td>33.00±2.15d</td><td>48.04±2.00ab</td><td>52.02±1.71b</td></tr><tr><td>Peanut vine</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷子秸秆</td><td>9.51±1.25b</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Millet straw</td><td></td><td>14.18±0.72b</td><td>16.80±2.05c</td><td>30.90±3.31b</td><td>34.28±2.31b</td><td>38.18±3.25c</td><td>43.53±2.29cde</td><td>46.24±4.98de</td></tr><tr><td>小麦秸秆</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Whe</td><td>4.18±0.12c</td><td>10.04±0.80c</td><td>12.21±0.52d</td><td>22.11±1.78c</td><td>25.63±1.27d</td><td>28.08±1.29e</td><td>31.14±1.79f</td><td>38.68±1.61f</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表11可知，稻草的ADF 快速降解部分含量最高，燕麦草1、燕麦草2较低。ADF 的慢速降解部分含量差异较大，在 $4 3 . 6 0 \\% { \\sim } 7 9 . 3 9 \\%$ ，花生秧的慢速降解部分含量显著高于其他粗饲料（ $\\cdot P { < } 0 . 0 5$ ）。有效降解率最高的是全株小麦青贮，小麦秸秆的有效降解率在所有粗饲",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/72d05cee3484a720f8339e06869139dd4be44f79a0e6f0bb0b4d91a4cbe225f5.jpg",
+        "table_caption": [
+            "表11粗饲料的ADF动态降解模型参数",
+            "Table 11Parameters of ADF dynamic degradation model of roughages "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>a/%</td><td>b/%</td><td>c/(%/h)</td><td>a+b/%</td><td>有效降解率 ED/%</td></tr><tr><td>苜蓿青贮 Alfalfa silage</td><td>0.31±0.21d</td><td>45.02±1.31ef</td><td>0.055±0.003ab</td><td>45.34±1.10de</td><td>29.04±0.85de</td></tr><tr><td>全株小麦青贮 Whole wheat silage</td><td>3.10±2.86bc</td><td>65.20±3.43c</td><td>0.028±0.006d</td><td>68.30±6.26b</td><td>33.70±0.93a</td></tr><tr><td>全株玉米青贮 Whole corn silage</td><td>4.40±2.25ab</td><td>72.59±3.91b</td><td>0.018±0.004e</td><td>76.99±5.36a</td><td>30.81±0.64bc</td></tr><tr><td>苜蓿干草 Alfalfa hay</td><td>0.77±0.28d</td><td>45.68±1.35ef</td><td>0.056±0.005a</td><td>46.45±1.21de</td><td>30.09±1.05cd</td></tr><tr><td>燕麦草1Oat hay 1</td><td>-0.12±1.66d</td><td>52.89±3.68d</td><td>0.048±0.002b</td><td>52.77±2.36c</td><td>32.10±1.46b</td></tr><tr><td>燕麦草2Oat hay 2</td><td>0.12±0.35d</td><td>49.98±2.28de</td><td>0.053±0.006ab</td><td>50.11±2.58cd</td><td>31.63±0.88bc</td></tr><tr><td>稻草 Rice straw</td><td>5.60±0.66a</td><td>60.51±5.83c</td><td>0.016±0.001e</td><td>66.11±5.39b</td><td>26.05±0.46g</td></tr><tr><td>花生秧 Peanut vine</td><td>1.30±0.88cd</td><td>79.39±3.24a</td><td>0.015±0.001e</td><td>80.70±2.50a</td><td>27.43±1.05fg</td></tr><tr><td>谷子秸秆 Millet straw</td><td>1.63±1.66cd</td><td>49.41±5.37de</td><td>0.037±0.005c</td><td>51.04±4.94cd</td><td>28.27±1.72ef</td></tr><tr><td>小麦秸秆 Wheat straw</td><td>0.13±0.22d</td><td>43.60±2.77f</td><td>0.029±0.003d</td><td>43.74±2.92e</td><td>20.98±0.73h</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1粗饲料的常规营养成分含量",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "粗饲料的营养价值不仅受品种的影响，其收获时间、生长环境以及制作方式都会影响到营养价值。本试验中，苜蓿青贮的DM含量显著高于另外2种青贮；苜蓿青贮CP含量显著高于全株小麦和全株玉米青贮。张晓娜[10]研究指出，苜蓿青贮具有较高的CP含量，本试验结果与其一致。本试验中，干草类饲料与秸秆类饲料DM含量差异不大，但CP 和 NDF 含量差异较大，这与前人研究结果一致[I]。苜蓿干草CP 含量最高，这也符合苜蓿“牧草之王”的称谓。2种燕麦草 NDF 和ADF 含量差异不显著，但燕麦草2的CP 比燕麦草1高出 $4 3 . 5 5 \\%$ 这与品种有关。裘燕[12]研究结果显示，小麦秸秆CP含量为 $3 . 6 0 \\%$ ，NDF含量为 $7 4 . 9 4 \\%$ 。本试验结果CP 含量低于裘燕[12]数据，NDF 含量较高，这可能跟收获期有关；花生秧的CP含量高于稻草和秸秆，而 NDF 和ADF 含量相对较低。这说明花生秧的营养价值较高，品质较好，这与李洋等[2]试验结果一致。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2不同粗饲料的DM降解特性",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "DM 降解率是影响奶牛干物质采食量（DMI）的重要因素，DM降解率越高，DMI就越大。从本试验结果可以看出，不同粗饲料的DM降解率随着时间的延长，其上升的幅度不同。本试验中全株玉米青贮 $7 2 \\mathrm { { h } }$ 的 DM 降解率低于夏科等[13]测定的结果，这可能与试验动物有关。苜蓿青贮的有效降解率略高于苜蓿干草，说明青贮过程不仅能保存营养成分，还能",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "提高消化率。2种燕麦草的有效降解率差别不大，其动态降解率也相似，可以推测2种燕麦草的 DMI 相近。  \n农作物中，花生秧的DM有效降解率显著高于稻草、谷子秸秆和小麦秸秆，这说明花生秧较容易消化；花生秧的DM 降解率在 $2 4 \\mathrm { h }$ 就达到了 $4 7 . 8 1 \\%$ ，之后稳定上升，说明花生秧同苜蓿一样，主要在 $2 4 \\mathrm { h }$ 以内降解。相对于花生秧来说，谷子秸秆和小麦秸秆植株成熟度高，植物的细胞内容物增加，细胞壁含量降低导致DM降解率低。本试验花生秧DM降解率结果与郑向丽等[14基本一致，由此可以推测，相对于谷子秸秆和小麦秸秆，花生秧能更好地被奶牛消化利用。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3不同粗饲料的CP降解特性",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CP 降解率主要受饲料蛋白质的含量、组成及饲料在瘤胃内的滞留时间等因素的影响[15]。本试验中，苜蓿干草和全株玉米青贮的有效降解率为 $6 9 . 8 5 \\%$ 和 $6 3 . 6 3 \\%$ ，与前人研究结果相似[13]；全株小麦青贮的CP含量低于苜蓿青贮，但其有效降解率略高于苜蓿青贮，这可能与蛋白质的组成有关，需要进一步研究；3种青贮的CP降解率在 $2 4 \\mathrm { h }$ 时都超过了 $60 \\%$ ，说明青贮中CP 的降解主要在 $2 4 \\mathrm { h }$ 以前，姚庆[16]也得出相似结论。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Larry[17指出，饲料的CP 降解率受饲料本身性质影响很大，快速降解部分、慢速降解部分和不易降解部分在不同饲料中比例不同，本试验中，花生秧 $7 2 \\mathrm { { h } }$ 的CP 降解率高于谷子秸秆和小麦秸秆，因其快速降解部分很低，所以有效降解率略低于谷子秸秆和小麦秸秆。综合不同饲料CP含量来看，粗饲料中的CP含量高低顺序与粗饲料在瘤胃中的降解率顺序不完全一致，由此可以看出，仅通过化学分析方法不能完全判断粗饲料的营养价值，需要结合粗饲料被动物采食或与瘤胃液接触后判断其可利用性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4不同粗饲料的NDF和ADF 降解特性",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "NDF 和ADF 的瘤胃降解率是衡量粗饲料品质的重要指标，其高低能反映饲料消化的难易程度。粗纤维由木质素、纤维素和半纤维素组成，其中木质素不被微生物利用，因而纤维在瘤胃中的消化主要受木质素的影响，裘燕[12]指出不同粗饲料的 NDF 和ADF 含量不同，因此瘤胃有效降解率不同。夏科等[13]研究指出，饲料的营养成分经青贮后，可降解性提高，但在本试验中，苜蓿青贮与苜蓿干草的NDF 降解率差异不明显，这可能与饲料品种有关。从动态变化趋势看，3种青贮饲料的NDF和ADF降解率在 $1 2 \\mathrm { { h } }$ 之前普遍较低， $7 2 \\mathrm { { h } }$ 降解率较高，说明NDF和ADF的降解在青贮类饲料中主要发生在 $1 2 \\mathrm { h }$ 以后。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在试验中，小麦秸秆的NDF有效降解率较低，这是因为随着植株的成熟，含有的可消化成分降低。本试验结果表明，苜蓿干草的ADF有效降解率小于燕麦草。这与前人研究结果不一致[12]；但侯玉洁等[18]试验结果与本试验结果相似，这可能跟饲料来源以及试验动物等因素有关。Jung 等[19]指出禾本科牧草的潜在可降解纤维成分高于豆科牧草，但降解速率低于豆科牧草，这与本试验结果基本一致。豆科牧草NDF慢速降解部分降解速度快，但不能降解部分也多，因此与禾本科牧草 NDF 降解率相近，这与Hoffman 等[20]研究结果一致。ADF 是粗饲料中最难消化的部分，因此ADF的瘤胃降解率普遍偏低。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 不同粗饲料在瘤胃中随培养时间的延长，其DM、CP、NDF 和 ADF 的降解率均呈现不同程度的上升趋势。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 苜蓿干草和苜蓿青贮的瘤胃降解率较高，营养价值较高，小麦秸秆和谷子秸秆品质相对较差，花生秧与上述秸秆饲料比具有一定的优势。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献：  \n[1]李胜利,姚琨,曹志军,等.2016年奶牛产业技术发展报告[J].中国畜牧杂志,2017,53(1):156-164.  \n[2]李洋,窦秀静,张幸怡,等.非常规粗饲料分级指数和相对价值比较研究[J].东北农业大学学报,2016,47(2):54-60.  \n[3]马健,刘艳芳,杜云,等.禾王草与奶牛常用粗饲料瘤胃降解特性的对比研究[J].动物营养学报,2016,28(3):816-825.  \n[4]黎力之,潘珂,欧阳克蕙,等.6 种经济作物副产物的营养价值评定[J].黑龙江畜牧兽医,2016(8):151-153.  \n[5]DE ANDRADE F L,RODRIGUES JP P,DETMANN E,et al.Nutritional and productiveperformance of dairy cows fed corn silage or sugarcane silage with or withoutadditives[J].Tropical Animal Health and Production,2016,48(4):747-753.  \n[6]冯仰廉,周建民,张晓明,等.我国奶牛饲料产奶净能值测算方法的研究[J].中国畜牧杂志,1987(1):8-11.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[7]张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[8]ORSKOV E R,MCDONALD I.The estimation of protein degradability in the rumen fromincubation measurements weighted according to rate of passage[J].The Journal ofAgricultural Science,1979,92(2):499-503.  \n[9]宫福臣,韩梅琳,杨琼,等.菌糠与奶牛常用粗饲料瘤胃降解特性的对比研究[J].动物营养学报,2013,25(6):1366-1374.  \n[10] 张晓娜.刈割期、品种及青贮方式对苜蓿品质的影响[D].硕士学位论文.杨凌:西北农林科技大学,2016.  \n[11]陈晓琳.肉羊常用粗饲料营养价值和瘤胃降解特性研究[D].硕士学位论文.青岛:青岛农业大学,2014.  \n[12]裘燕.奶牛常用粗饲料的营养成分及其瘤胃降解率与体外发酵特性[D].硕士学位论文.北京:中国农业大学,2013.  \n[13]夏科,姚庆,李富国,等.奶牛常用粗饲料的瘤胃降解规律[J].动物营养学报,2012,24(4):769-777.  \n[14]郑向丽,王俊宏,徐国忠,等.4 种花生秸秆在奶牛瘤胃中的降解特性[J].草业学报,2016,25(5):149-155.  \n[15]冯仰廉.反刍动物营养学[M].北京:科学出版社,2004.  \n[16]姚庆.酒精清液发酵玉米秸秆营养价值评定及对奶牛生产性能的影响[D].硕士学位论文.哈尔滨:东北农业大学,2013.  \n[17]LARRY D S.Protein supply from undegraded dietary protein[J].Journal of DairyScience,1986,69(10):2734-2749.  \n[18]侯玉洁,徐俊,吴春华,等.5 种不同牧草在奶牛瘤胃中降解特性的研究[J].中国奶牛,2013(16):4-8.  \n[19]JUNG H G,ALLEN M S.Characteristics of plant cell walls affecting intake and digestibilityof forages by ruminants[J].Journal of Animal Science,1995,73(9):2774-2790.  \n[20]HOFFMAN P C,SIEVERT S J,SHAVER R D,et al.In stiu dry matter,protein,and fiberdegradation of perennial forages[J].Journal of Dairy Science,1993,76(9):2632-2643.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Cows LIU Yanfang1,2 MA Jian1\\* DU Wen² WANG Yajing² CAO Zhijun² LI Shengli2\\*\\* YU Xiong1\\*\\* (1. College of Animal Science and Technology, Xinjiang Agricultural University, Urumqi 830052, China; 2. State Key Laboratory of Animal Nutrition, Beijing Engineering Technology Research Center of Raw Milk Quality and Safety Control, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China) Abstract: In order to provide references when making formulas for dairy cows, rumen degradation characteristics of 10 roughages including alfalfa silage, whole wheat silage, whole corn silage, alfalfa hay, oat hay (2 kinds), rice straw, peanut vine, millet straw and wheat straw. Nylon-bag technique was used to evaluate the degradation rates and effective degradability of dry matter, crude protein,neutral detergent fiber and acid detergent fiber in $^ { 7 2 \\mathrm { ~ h ~ } }$ .The results showed as follows: dry matter effective degradability of alfalfa silage $( 5 8 . 2 4 \\% )$ ）was the highest, and to the contrary, that of wheat straw $( 3 4 . 2 0 \\% )$ was the minimum. Crude protein efective degradability of alfalfa hay was the highest,and was significantly higher than that of whole wheat silage,alfalfa silage,whole corn silage, oat hay, rice straw, wheat straw, millet straw and peanut vine $( P { < } 0 . 0 5 )$ _， which was decreased in the above order. Neutral detergent fiber effective degradability of whole wheat silage was not significantly different from whole corn silage， alfalfa hay and oat hay （204 $( P { > } 0 . 0 5 )$ , but was significantly higher than that of other roughages $( P { < } 0 . 0 5 )$ . Acid detergent fiber effective degradability of whole wheat silage was significantly higher than that of other roughages （20号 $( P { < } 0 . 0 5 )$ . It is concluded that the rumen degradation rate of alfalfa hay and alfalfa silage is higher, so they have beter nutritional value; wheat straw and millet straw had low nutritional quality, and compared with them, peanut vine possesses certain advantages. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key words: dairy cow; roughage; rumen; effective degradability ",
+        "page_idx": 14
+    }
+]

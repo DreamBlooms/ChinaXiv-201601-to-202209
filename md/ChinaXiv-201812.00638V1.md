@@ -1,0 +1,168 @@
+# 利用端点延拓提高 $L S + N N$ 模型的UT1-UTC预报精度
+
+赵丹宁¹，雷雨”²(1．宝鸡文理学院 电子电气工程学院，陕西 宝鸡 7210132．中国科学院国家授时中心，陕西 西安 710600)
+
+摘要：现有UT1-UTC预报模式在进行周期项与残差项拟合分离时，通常没有考虑最小二乘（least-squares，LS）拟合序列的端部效应，预报精度难以取得较大提高。针对LS拟合存在的端部效应，首先采用灰色模型在UT1-UTC序列的两端进行数据延拓，形成一个新序列，然后对新序列进行LS拟合，最后再联合LS外推和神经网络（ $\mathrm { L S ^ { \scriptstyle + N N } }$ ）模型对UT1-UTC原始序列进行外推。结果表明，对UT1-UTC序列进行端点数据延拓再进行LS拟合，能够有效地改善LS拟合序列的端部效应；相对于常规 $. { \mathrm { L S } } + { \mathrm { N N } }$ 模型，端部效应改善的 $\mathrm { L S ^ { + N N } }$ 模型的UT1-UTC预报精度有一定提高，尤其对中长期预报精度提高更为明显。
+
+关键词：世界时；预报；端点延拓；灰色模型；最小二乘外推；神经网络中图分类号：P227 文献标识码：A 文章编号：
+
+# 0引言
+
+地球自转运动可以用地球定向参数(Earth orientation parameters，EOP)来表征。EOP 包括岁差、章动、UT1-UTC及极移的两个分量 $x _ { \mathfrak { p } }$ 与 $y _ { \mathfrak { p } }$ 。EOP 是实现地球参考坐标系与天球参考坐标系相互转换的必要参数，在天文地球动力学研究、卫星导航及深空探测与跟踪等领域均有重要作用。甚长干涉基线测量(Very Long Baseline Interferometry，VLBI)和全球卫星导航系统(Global Navigation Satellite System，GNSS)等空间测地技术是测量 EOP 的主要手段，其中UT1-UTC 的测量精度为 $3 { \sim } 5 { \mu } \mathrm { s } ^ { [ 1 ] }$ ，但复杂的资料处理过程致使 EOP 的获取存在一定的延迟。由于深空探测与跟踪等领域对EOP实时观测值有重要需求，而卫星自主导航又对 EOP中长期预报值有重要需求，因此对 EOP进行高精度的短期与中长期预报具有重要的现实意义。在 EOP 的几个分量中，UT1-UTC 是变化最快、最难精确预报的一个分量。
+
+当前预报UT1-UTC的方法有多种，其中多数方法联合最小二乘(least-squares，LS)外推和神经网络(neural network，NN)或自回归(autoregressive，AR)等模型进行预报[2-3]，这些方法的思路为，首先采用最小二乘外推模型提取UT1-UTC序列中的周期项，并对周期项进行外推，然后利用神经网络或AR等模型等对LS拟合残差进行建模、预报，最后再将周期项和残差项的外推值相加以得到UT1-UTC预报值。在预报实践中发现，在利用LS外推模型对UT1-UTC观测资料进行拟合时，在拟合序列的两端存在发散畸变现象，这种现象在数据处理中称为端部效应[4-5]。端部效应使残差项、周期项的预报值出现偏差，最终导致UT1-UTC预报值不准确。
+
+本文针对UT1-UTC预报中LS拟合出现的端部畸变现象，在采用LS外推模型对UT1-UTC观测资料进行拟合之前，先利用灰色模型对UT1-UTC观测资料进行数据延拓，即在UT1-UTC序列的两端增加应用灰色模型延拓的若干数据点，形成一个新序列，然后利用LS外推模型对新序列进行拟合，最后再联合LS外推模型和神经网络（ $\mathrm { L S ^ { + N N } } )$ ）对原始UT1-UTC序列进行外推，这样就可以将LS拟合出现的端部畸变现象移至新序列的两端。数值分析表明，通过在UT1-UTC序列两端增加统计延拓数据，可以有效地抑制LS拟合出现的端部效应现象，并且可以显著提高
+
+UT1-UTC预报精度。
+
+# 1端点延拓算法
+
+灰色模型可以在系统变化规律不明确情况下利用少量的已知信息来推知系统的发展趋势，且预测精度高、建模简单。一方面，灰色模型可以利用较少的观测数据进行UT1-UTC序列的端点外推延拓，所外推的的序列可以在一定程度上反映UT1-UTC序列的整体变化趋势；另一方面，基于端点延拓算法所形成的UT1-UTC新序列仅用来求解LS模型系数，目的是将LS拟合出现的端部效应移至新序列的两端，而两端序列并不参与UT1-UTC预报。因此，基于灰色模型的端点延拓算法用于改善LS拟合的端部效应是完全可行的。下面阐述基于灰色模型的端点延拓算法。
+
+灰色模型建模的基本思路为，首先利用少量原始观测值通过累加生成操作（accumulatedgeneratingoperation，AGO）生成一次累加序列，然后利用此累加序列建立相应的离散预测模型，并获得累加序列的预测值，最后再通过累减生成操作（inverse accumulatedgenerating operation，IAGO）获得原始序列的预测值。下面直接给出灰色预报模型GM(1,1)的一般形式：
+
+$$
+\hat { x } ( k + p ) = [ x ( 1 ) - u / a ] { \sf x e } ^ { - a ( k + p - 1 ) } { \sf x } ( 1 - e ^ { a } )
+$$
+
+式中， $u$ 、 $a$ 为灰色模型系数； $k$ 为参与建模的原始观测值个数； $p$ 为预报跨度。
+
+设 $X = \{ x ( 1 ) , x ( 2 ) , \cdots , x ( n ) \}$ 为原始离散序列，则灰色模型端点延拓算法如下：
+
+1）对于原始离散序列 $X$ 的左端，在左端点处取 $k$ 个观测值，其反序列为
+
+$$
+X _ { 1 } = \{ x ( k ) , x ( k - 1 ) , \cdots , x ( 1 ) \}
+$$
+
+将 $X _ { _ { 1 } }$ 作为左端建模序列进行灰色预测，得到预测序列：
+
+$$
+X _ { _ { 2 } } = \{ \hat { x } ( 0 ) , \hat { x } ( - 1 ) , \cdots , \hat { x } ( 1 - p ) \}
+$$
+
+则 $X _ { _ { 2 } }$ 的反序列，即原始离散序列 $X$ 的左端点延拓序列为
+
+$$
+X _ { \scriptscriptstyle 3 } = \{ \hat { x } ( 1 - p ) , \hat { x } ( 2 - p ) , \cdots , \hat { x } ( 0 ) \}
+$$
+
+2）对于原始离散序列 $X$ 的右端，在右端点处取 $k$ 个观测值，得到序列 $X _ { _ 4 }$ ：
+
+$$
+X _ { 4 } = \{ x ^ { ( 0 ) } ( n - k + 1 ) , x ^ { ( 0 ) } ( n - k + 2 ) , \cdots , x ^ { ( 0 ) } ( n ) \}
+$$
+
+将 $X _ { _ 4 }$ 作为右端建模序列进行灰色预测，得到预测序列：
+
+$$
+X _ { 5 } = \{ \hat { x } ( n + 1 ) , \hat { x } ( n + 2 ) , \cdots , \hat { x } ( n + p ) \}
+$$
+
+将序列 $X _ { _ 3 }$ 、 $X _ { _ { 5 } }$ 分别作为原始离散序列 $X$ 的左右端点延拓值，得到延拓后的离散序列：
+
+$$
+X ^ { \prime } = \{ \hat { x } ( 1 - p ) , \cdots , \hat { x } ( 0 ) , x ( 1 ) , \cdots , x ( n ) , \hat { x } ( n + 1 ) , \cdots , \hat { x } ( n + p ) \}
+$$
+
+# 2预报模型
+
+# 2.1最小二乘外推模型
+
+UT1-UTC序列中的长期趋势项、周年项及半年项利用如下模型进行拟合：
+
+$$
+f ( t ) = \gamma + \beta t + \sum _ { i = 1 } ^ { 2 } \Bigl [ d _ { i } \cos ( \omega _ { i } t ) + e _ { i } \sin ( \omega _ { i } t ) \Bigr ]
+$$
+
+式中， $\omega _ { 1 } \cdot \omega _ { 2 }$ 表示周年项和半年项的振荡角频率，取 $\omega _ { \scriptscriptstyle 1 } = 2 \pi / 3 6 5 . 2 4$ 、$\omega _ { _ 2 } { = } 2 \pi / 1 8 2 . 6 2 \ : ^ { [ 4 ] }$ ；2、 $\beta$ 、 $d _ { i }$ 和 $e _ { _ i }$ 为未知参数，可通过最小二乘法求解。
+
+# 2.2神经网络模型
+
+提取长期趋势项和周期项后的LS拟合残差序列中含有剩余的短周期成分，也含有非线性成分，对于这些成分，利用神经网络进行建模较为合理。对于LS拟合残差序列$\{ \varepsilon ( t ) , t = 1 , 2 , \cdots , n \}$ ，假设 $t$ 时刻的残差值 $\varepsilon ( t )$ 可由 $t - 1 , \ t - 2 , \ \cdots , \ t - m$ 时刻的历史残差值 $\varepsilon ( t - 1 ) , \ \varepsilon ( t - 2 ) , \ \cdots , \ \varepsilon ( t - m )$ 来进行预测，则可建立从输入模式到输出模式的数据映射 $f$ ： $R ^ { m } \to R$ ，预测模型可表示为
+
+$$
+\varepsilon ( t ) = f ( [ \varepsilon ( t - 1 ) , \varepsilon ( t - 2 ) , \cdots , \varepsilon ( t - m ) ] )
+$$
+
+式中， $\mid m$ 为嵌入维数，本文采用极限学习机（extreme learning machine，ELM）算法训练神经网络[8，从而建立从从输入模式到输出模式的数据非线性映射。在残差预报过程中，当已经预报出一部分残差值的情况下，后面的残差是根据其所对应的历元通过移动窗口的方法而获得[9]。
+
+# 2.3预报流程
+
+本文模型与常规LS+NN模型的差别之处在于，本文模型在对UT1-UTC序列进行LS拟合之前，先应用灰色模型在UT1-UTC序列两端进行数据延拓，然后再对延拓后的UT1-UTC序列进行LS拟合，建立周期项和趋势项LS外推模型，最后利用LS+NN模型对原始UT1-UTC序列进行预报。值得说明的是，在对UT1-UTC序列进行外推之前，需要根据国际地球自转与参考系服务(International Earth Rotation and Reference Systems Service， IERS)协议扣除UT1-UTC序列中周期为 $5 \mathrm { d } \sim 1 8 . 6 \mathrm { a }$ 的62个固体地球带谐潮汐项[1，同时还必须扣除闰秒。将本文提出的模型称之为端部效应改善的 $\mathrm { L S ^ { + N N } }$ （edge-effect corrected $\mathrm { L S ^ { + N N } }$ ， $E C L S { + } \mathbb { N }$ ）模型，其预报流程如图1所示。
+
+![](images/5ad56b36083fa7f6c3f7f70cef9bc3535ace8f96487856a4b974b517904dd1e7.jpg)  
+图 $1 E C \mathsf { L S + N N }$ 模型的预报流程  
+Fig.1Flowchart of the $E C L S + N N$ prediction model
+
+# 3模型验证
+
+# 3.1数据来源
+
+本文试验所用的UT1-UTC数据来自IERS发布的EOP08C04序列，时间跨度为 $2 0 0 0 { - } 1 { - } 1 \sim$
+
+2016-10-1，采样间隔为1d。
+
+# 3.2精度评定标准
+
+为了衡量UT1-UTC预报结果的精度，选用平均绝对误差（mean absolute error，MAE）作为精度评定标准，其计算公式为
+
+$$
+\mathrm { M A E } _ { _ p } = \frac { 1 } { N } \sum _ { i = 1 } ^ { N } \Bigr | F _ { i } ^ { ( p ) } - O _ { i } ^ { ( p ) } \Bigr |
+$$
+
+式中， $N$ 为预报期数； $F _ { i } ^ { ( p ) }$ 、 $O _ { i } ^ { ( p ) }$ 分别为 $i$ 点的预报值和观测值。
+
+# 3.3结果分析
+
+选取 $2 0 0 1 . 1 . 1 { \sim } 2 0 1 6 . 9 . 2 0$ 期间的UT1-UTC观测资料进行试验分析，其中 $2 0 1 0 . 1 . 1 \sim$ 2016.9.20为预测期，建模数据长度为10a，每隔7d预报1次，总共进行了300次预测。
+
+为了验证端点延拓方法对LS拟合端部效应的改善效果，首先对比端点延拓前后LS拟合效果。图2分别绘出了端点数据延拓前后LS拟合序列左、右端360个历元的拟合残差数据点，拟合时段为 $2 0 0 2 . 1 . 1 { \sim } 2 0 1 1 . 1 2 . 3 1$ ，其中，端点数据延拓个数为240，即在UT1-UTC观测序列的左、右两端各延拓120个数据点。从图2可以看到，与直接对UT1-UTC原始序列进行拟合相比，基于灰色模型端点延拓后的UT1-UTC序列在左、右两端LS拟合的残差值更小，这说明端点延拓方法可以提高LS模型在UT1-UTC序列左、右两端的拟合准确性，从而抑制LS拟合序列出现的端部效应现象。
+
+![](images/b87fca39c856ca88c9882eaecfc35171a5e8071f870d7e1da442a1e71c8adabb.jpg)  
+图2LS和ECLS模型在UT1-UTC序列左、右两端的拟合残差 Fig.2LS and ECLS fitting residuals of the UT1-UTC time-seriesat boundaries
+
+为了进一步检验基于灰色模型的端点延拓方法对 $\mathrm { L S ^ { + N N } }$ 模型预报UT1-UTC的改善效果，本文分别利用 $\mathrm { L S ^ { + N N } }$ 模型与 $E C L S + N N$ 模型对UT1-UTC进行 $\boldsymbol { \mathrm { 1 } } ^ { \sim } \mathrm { 3 0 0 d }$ 的预报，图3绘出了 $\mathrm { L S ^ { + N N } }$ 模型和ECLS+NN模型UT1-UTC预报结果的MAE曲线，表1统计了LS+NN模型和ECLS $+ \mathrm { N N }$ 模型在不同预报长度下的MAE值。从图3与表1可以发现，ECLS+NN模型相对于LS+NN模型的UT1-UTC预报精度在各个跨度都有不同程度的提高，其中，对于跨度为 $1 { \sim } 9 0 \mathrm { d }$ 的预报，精度提高在 $1 0 \%$ 以内；从第90d开始，ECLS+NN模型的预报精度提高越来越显著，最大提高达 $4 0 \%$ ，这说明ECLS+NN模型对于UT1-UTC中长期预报精度改进更为显著。
+
+表1 $L S + N N$ 模型和 $E C \mathsf { L S + N N }$ 模型不同跨度UT1-UTC预报结果的MAE统计  
+ib.1MAE statistics of the UT1-UTC predictions by the $L S + N N$ and $E C L S + N N$ mode   
+
+<html><body><table><tr><td>跨度/d</td><td>LS+NN/ms</td><td>ECLS+NN/ms</td><td>精度改善百分比/%</td></tr><tr><td>1</td><td>0.088</td><td>0.081</td><td>8</td></tr><tr><td>5</td><td>0.399</td><td>0.394</td><td>1</td></tr></table></body></html>
+
+![](images/24e76cd1c1ddffac1973880f711818f47877bae6f1fe69a1adba0c65ef34e44c.jpg)  
+图 $3 \lfloor S + N N$ 模型和 $E C \mathsf { L S } + \mathsf { N N }$ 模型UT1-UTC预报结果的MAE比较
+
+Fig.3 MAE comparison between the $L S + N N$ and $E C L S + N N$ models for the UT1-UTC predictions
+
+# 4结果分析
+
+提出了一种利用端点延拓改善LS拟合序列端部效应的方法，该方法在对UT1-UTC序列进行LS拟合之前，首先在UT1-UTC序列两端增加统计延拓数据，然后再对数据延拓后的新序列进行LS拟合，目的是将LS拟合存在的端部畸变移至新序列的两端，从而抑制原始拟合序列的端部畸变。试验结果表明，通过在UT1-UTC观测序列的两端增加用灰色模型延拓出的外推数据点，然后再进行LS拟合，能够有效地抑制端部效应的影响；与常规 $\mathrm { L S ^ { + N N } }$ 预报模型相比，ECLS+NN模型的UT1-UTC预报精度在各种跨度均有不同程度提高，其中在跨度为中长期预报中精度提升尤为明显，因此ECLS+NN模型更适用于UT1-UTC中长期预报。
+
+# 参考文献：
+
+[1]Gambis D,LzumB.Earthrotationmonitoring,UT1determinationandprediction[J].Metrologia,2011,48(4):165-170.   
+[2SchuhH,UicgrDtldictirtetiraersrtiratwks[]ldy 76 (5): 247-258.   
+[3]XuXQ,ZhouYHEOPpredictionusingleastSquarefitingandautoregresivefilteroveroptimizeddataintervals[J].Advancesin Space Research,2015,56 (10): 2248-2253.   
+[4]刘建，王琪洁，张昊.利用端部效应改正的 $1 S + A R$ 模型进行日长变化预报[J].武汉大学学报·信息科学版，2013,38(8):916-919. LiuJian,WangQijie,ZangHao.PredictionofLODchangebasedontheLSandARmodelwithEdgeEfectCorrectedJ].Geomatics and Information Science of Wuhan University, 2013,38(8):916-919.   
+[5]雷雨，蔡宏兵．顾及最小二乘拟合端点效应的日长变化预报 [J].天文研究与技术，2016，13(4)：441-445. LeiYu,CaiHongbingEnancingthepredictionaccracyofthelngthofaychangebyeliminatingtheedge-effectofleastquares
+
+fitting [J].ASTRONOMICAL RESEARCH AND TECHNOLOGY,2016,13(4):441-445.
+
+[6]LeiYGuoaoDetal.AplicatiofgeydelG(1,ttraotepredictisfversatieiil Satellites,2016,51(1): 19-29.   
+[7]雷雨，赵丹宁，蔡宏兵．利用端部效应改善的最小二乘外推模型进行 UT1-UTC预报[J].天文研究与技术,2018,15(3):302-307. LeiYu,Zhao Danning,CaiHongbing.Aleastsquares extrapolationmodelforUT-TCpredictionmethodwithconsiderationofthe edge-effect [J]. ASTRONOMICAL RESEARCH AND TECHNOLOGY,2018,15(3): 302-307.   
+[8]HuangGB,ZhuQSiewCK.Etremelearingmachine:theoryndapplications[J].Neurocomputing,o,70(-3):49-01.   
+[9]雷雨，蔡宏兵，赵丹宁．样本输入方式对极端学习机预报日长变化的影响 [J].天文研究与技术，2015，12(3)：299-305. LeiYu,Cai Hongbing,ZhaoDanning.Effectsof trainingpaternsonpredictionsofvariationsoflengthofdayusinganextreme learning machine neural network[J].ASTRONOMICAL RESEARCHAND TECHNOLOGY,2015,12(3): 299-305.   
+[10]PetitG,LuzumB.RConventions(01)[R].Germany:VerlagdsBundesamtsfurKartgraphieudGeodasie,2:-131.
+
+# Improving the performance of the $L S + N N$ model for UT1-UTC forecast with the edge extension
+
+ZHAO Danning1 LEI Yul,²
+
+(1 School of Electrical &Electronic Engineering,Baoji Universityof Artsand Sciences,Baoji 721o13,China
+
+2 National Time Service Center, Chinese Academy of Sciences,Xi'an 71O6Oo,China)
+
+Abstract: The prediction accuracy of UT1-UTC can be easily affected by the edge distortion of least-squares (LS) fitting time-series,referred to as the edge effect in data-processing fields, when periodic oscillations and residuals are separated by LS fitting. In order to alleviate the edge effect, the original UT1-UTC time-series is first extended on both boundaries using the GM(1,1) grey model in this work. A LS extrapolation model is then set up using the extended time-series to remove the edge distortion to the boundaries. Finally, UT1-UTC predictions are generated by the combination of the edge effect correlated LS (ECLS） extrapolation model and extreme learning machine neural network( $\mathbf { \mathrm { E C L S + N N } }$ ).The numerical experiments show that the edge effect can be remarkably alleviated with the presented approach. In addition, the accuracy of the UT1-UTC short-term predictions by the $_ \mathrm { E C L S + N N }$ method is better than that obtained by the $\mathsf { L S + N N }$ approach,but only slighter. The medium- and long-term predictions,however,are noticeably more accurate than those by the $\mathbf { \Gamma } _ { \mathrm { L S + N N } }$ solution.
+
+Key words: Universal time (UT1)； Prediction; Edge extension; Grey model; Least-squares extrapolation; Neural network

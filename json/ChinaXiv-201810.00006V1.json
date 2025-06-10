@@ -1,0 +1,498 @@
+[
+    {
+        "type": "text",
+        "text": "干细胞专利价值评估与转移转化对策研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "范月蕾 陆娇 陈大明 毛开云\\*\\*（中国科学院上海生命科学信息中心，上海，200031)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的：构建适用于干细胞专利价值评估的指标模型，并对现实场景中除指标内容外影响干细胞专利转移转化的因素进行分析。方法：基于中国技术交易所《专利价值分析指标体系》构建适用于干细胞的专利价值评估体系，采用层次分析法确定权重，通过案例分析验证指标模型的可操作性。结果：基于干细胞的技术特点与指标可操作性构建了适用于干细胞专利价值评估的指标体系，包括技术价值度、市场价值度和法律价值度3个一级指标，技术先进性、技术成熟度、技术成本等9个二级指标，其中，技术先进性、技术成熟度、政策适应性以及市场需求是对干细胞专利价值评估影响力最大的指标。其他因素的分析中，技术核心优势是影响干细胞专利转移转化的关键，此外，技术可行性、质量控制与远期收益均对干细胞技术的成功转移转化有着重要的影响。结论：本文建立的专利价值评估模型与因素分析可用于干细胞领域的专利价值评估，有助于推动专利技术的有效开发和产业化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：干细胞；专利价值评估；转移转化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Strategies for Stem Cell Patent Evaluation and Patent Transfer and Transformation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FAN Yue-Lei, MAO Kai-Yun, LU Jiao, CHEN Da-Ming (Shanghai Information Center for Life Sciences,Chinese Academy of Sciences，Shanghai,2Oo031,Chi 【Abstract】 Objective: To construct an indicator model for stem cel patent evaluation and to analyze the factors affecting stem cell patent transfer and transformation in real scenarios besides the indicators.Methods: Based on the Patent Value Analysis Indicator System edited by China Technology Exchange,we constructed a patent evaluation system suitable for stem cels patents. The weight was determined by AHP,and the operability of the indicator model was verified by case analysis.Results: Based on the technical characteristics of stem cell technologies and operability, an indicator system for evaluating stem cell patents was constructed, which included three first-level indicators including technical value,market value and legal value,and nine second-level indicators such as technological advancement, technological maturity,technological cost, et al. Technological advancement, technological maturity, policy adaptability and market demand were the four most influential indicators for the valuation of stem cell patents.In the analysis of other factors, the core advantage of the stem cel technologies was the key to affect the transformation of stem cell patents.In addition, technical feasibility,quality control and long-term benefits also had important impact on the successful transfer and transformation of stem cell technologies. Conclusion: The patent value evaluation model and factor analysis established in this paper can be used in stem cell patent evaluation,which is helpful to promote the effective development and industrialization of the patent technology. Key Words: Stem Cells; Patent Evaluation; Transfer and Transformation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自1968 年世界第一例骨髓移植手术开始1，干细胞技术正式进入临床应用阶段。经过半个世纪的发展，干细胞技术已广泛用于肿瘤、糖尿病、帕金森、呼吸系统疾病等多个疾病治疗领域，多种干细胞治疗药物获得批准上市²。市场研究咨询公司Markets and Markets 发布干细胞制造市场调研报告显示：2017年全球干细胞制造市场值为101.9亿美元，未来5年预计以 $6 . 3 \\%$ 的复合年增长率增长；2023年，全球干细胞制造市场值预计达146.1亿美元。基于干细胞技术广泛的应用前景和巨大的市场潜力，许多研究机构与企业纷纷投入巨资进入该创新医疗技术的研究中，获得了一批重要的研究成果，并积极通过专利申请展开技术布局。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用科睿唯安专利检索平台Thomson Innovation 进行检索分析，2008 年至 2017年全球干细胞领域的专利申请始终保持较高的申请量，总数达到了102349件，其中中国干细胞专利申请12666件，占全球的 $12 . 4 \\%$ ，且专利申请量增长较快，2008年至2016年平均增长率达到 $7 . 8 \\%$ （因为数据库数据收录的延迟与专利申请至公开的审查时间，2017年专利数量参考意义较小，未计入增长率的统计）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/138f8afe93a64e31fcac61f0bfc8516d46b474fed16581af82d1c7dd57b3751f.jpg",
+        "img_caption": [
+            "图12008-2017年全球干细胞领域专利申请年度趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Global Annual Trend of Patent Applications in Stem Cell Field from 20o8 to 2017 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从干细胞专利受理的国家或地区来看，全球共有近70个国家或地区受理了干细胞专利的申请，排在前五位的国家或地区分别为美国、中国、日本、韩国和澳大利亚，这些国家形成了较强的干细胞技术竞争格局。美国作为最大的干细胞专利申请国家，拥有专利申请24540件，以美国为优先权国家/地区申请的专利数量为58077件，以美国为优先权国家/地区申请的专利数量约为排在第2位中国的7倍，可见美国在干细胞研究与市场布局领域的绝对优势。中国拥有专利申请数量12328件，以中国为优先权国家/地区申请的专利数量为8608件，排在世界第2位。优先权国家/地区一般是技术创新的来源地，可见除了国外机构与企业在中国的专利布局外，中国在干细胞技术领域已拥有了丰富的自主创新成果。从干细胞专利权人的分布来看，高校与研究机构仍是我国干细胞技术最主要的专利拥有者，在我国拥有干细胞专利数量前20位的专利权人中，除了国外的专利权人，高校与研究机构占 $86 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d80b4d4c2d809fa782b26ec823a23f2b6f59be0eb6086be996dbbd6cc8590be.jpg",
+        "table_caption": [
+            "Table 1TOP10 Application Country/Region and Priority Countries ／Regions in Stem CellField from 2008 to 2017 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>排名</td><td>申请国家/地区</td><td>专利数量（件）</td><td>优先权国家/地区</td><td>专利数量（件）</td></tr><tr><td>1</td><td>美国</td><td>24540</td><td>美国</td><td>58077</td></tr><tr><td>2</td><td>WIPO</td><td>15020</td><td>中国</td><td>8608</td></tr><tr><td>3</td><td>中国</td><td>12328</td><td>日本</td><td>8468</td></tr><tr><td>4</td><td>EPO</td><td>11348</td><td>韩国</td><td>6447</td></tr><tr><td>5</td><td>日本</td><td>9093</td><td>EPO</td><td>5831</td></tr><tr><td>6</td><td>韩国</td><td>6233</td><td>英国</td><td>3071</td></tr><tr><td>7</td><td>澳大利亚</td><td>5193</td><td>WIPO</td><td>2578</td></tr><tr><td>8</td><td>加拿大</td><td>3865</td><td>澳大利亚</td><td>1915</td></tr><tr><td>9</td><td>香港</td><td>2188</td><td>法国</td><td>848</td></tr><tr><td>10</td><td>新加坡</td><td>1962</td><td>德国</td><td>805</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4bbfd59ab33c3fcc0d2a3bf4b80ccc4700641e0ef5a8f75418ea978cc469f1b.jpg",
+        "table_caption": [
+            "表12008-2017年干细胞技术领域T0P10申请国家/地区与优先权国家/地区",
+            "表22008-2017年我国干细胞技术领域T0P10专利权人",
+            "Table2TOP10PatentHoldersinChina'sStemCellField "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>排名</td><td>专利权人</td><td>拥有专利数量</td></tr><tr><td>1</td><td>广州赛莱拉干细胞科技股份有限公司</td><td>356</td></tr><tr><td>2</td><td>浙江大学</td><td>172</td></tr><tr><td>3</td><td>中国人民解放军第三军医大学</td><td>96</td></tr><tr><td>4</td><td>中国科学院广州生物医药与健康研究院</td><td>92</td></tr><tr><td>5</td><td>中国人民解放军第二军医大学</td><td>74</td></tr><tr><td>6</td><td>加州大学</td><td>58</td></tr><tr><td>7</td><td>上海生命科学研究院</td><td>53</td></tr><tr><td>8</td><td>解放军总医院,301医院</td><td>53</td></tr><tr><td>9</td><td>新加坡科技研究局</td><td>52</td></tr><tr><td>10</td><td>中国人民解放军第四军医大学</td><td>51</td></tr><tr><td>11</td><td>JANSSEN生物技术公司</td><td>48</td></tr><tr><td>12</td><td>西北农林大学</td><td>47</td></tr><tr><td>13</td><td>北京大学</td><td>46</td></tr><tr><td>14</td><td>中国人民解放军军事医学科学院</td><td>46</td></tr><tr><td>15</td><td>Anthrogenesis 公司</td><td>40</td></tr><tr><td>16</td><td>深圳爱生再生医学科技有限公司</td><td>40</td></tr><tr><td>17</td><td>济南大学</td><td>38</td></tr><tr><td>18</td><td>清华大学</td><td>36</td></tr><tr><td>19</td><td>罗氏制药公司</td><td>36</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b03393fb7b91b99234797c947604b3c47624d4793f9dd31380daeb9d247d884d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>20</td><td>aTyr制药公司</td><td>35</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "虽然我国在干细胞领域拥有很高的专利申请量，但多数专利并未在进一步研发、产业化应用或专利布局中发挥切实的价值。干细胞领域专利技术的转移转化仍不充分，创新主体日益增长的技术成果与市场需求无法有效衔接，制约了干细胞技术与产业化进程的发展4。2015年初公布的《促进科技成果转化法修正案（草案)》提出：“国家设立的研究开发机构、高等院校应当加强对科技成果转化的管理、组织和协调，促进科技成果转化队伍建设，优化科技成果转化流程，通过本单位负责技术转移工作的机构或者委托独立的科技成果转化服务机构开展技术转移5。”在这样的环境下，通过专利运营工作来提升知识产权运用能力的重要性越发凸显，而专利价值的评估与专利转移转化方案的制定是专利运营工作重要的组成部分。本文基于中国技术交易所编制的《专利价值分析指标体系》的各项指标，结合干细胞领域的专利特征构建了适用于干细胞的专利价值评估模型。同时，本文根据干细胞领域的发展特点以及涉及到产业转移转化中的实际问题，总结了提升干细胞专利转移转化竞争力的若干要素，为干细胞技术领域的专利管理与转移转化提供参考。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1．研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1信息来源",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对于专利文献的检索主要使用国家知识产权局专利检索系统、科睿唯安专利检索平台 Thomson Innovation平台以及合享智慧专利检索数据库 incoPat，对于期刊文献的检索主要使用中国知网（CNKI）、万方数据知识服务平台以及科睿唯安Webof Science科研数据库平台。另外，公司的市场分析报告，国家政策信息与机构官方新闻也是本文重要的信息来源。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2分析方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文针对干细胞专利价值评估的方法采用指标分析法，在中国技术交易所《专利价值分析指标体系》的指标体系的基础上进行优化，形成适用干细胞技术领域专利价值评估的专利价值评估指标体系，并邀请中科院13位相关领域的专家为指标权重进行打分，应用层次分析法获得最终的指标权重，形成干细胞专利价值评估模型。对于形成的干细胞专利价值评估模型，本文对专利名称为“高效诱导人多能干细胞向心肌细胞分化的小分子化合物组合物”的干细胞专利进行价值评估的实例分析，以验证模型的可操作性，并具体说明应用过程中的注意事项。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文就干细胞专利的转移转化对中科院干细胞领域的专家进行专家访谈，对专利价值评估体系外其他影响干细胞专利转移转化的因素进行了总结与归纳。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2．结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1干细胞专利价值评估模型的建立与案例分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 指标的选择 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过对国内现有的专利价值评估体系进行调研，中国技术交易所编制的《专利价值分析指标体系》认可度较高，实用性较强，适合作为干细胞专利价值评估指标选取时的参考指标体系。然而，在具体应用中，中国技术交易所《专利价值分析指标体系》的指标评价标准并不完全适用于干细胞技术领域，部分指标在干细胞技术领域代表性不强，部分主观性较强且数据难以获得。此外，指标数量过多，也不利于专利评估过程中时间成本与人力成本的控制。因此，本文在指标选择时除了全面性与科学性外，是否反映干细胞技术领域专利的特点与具有良好的可操作性是重点考虑的因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在技术价值度层面，本文在保留技术先进性、技术成熟度、技术可替代性3个指标的同时增加技术成本指标对干细胞专利的技术价值进行评估。对于技术先进性来说，干细胞技术在分离纯化、培养、保存与运输、改造、鉴定表征、诱导分化、移植等不同流程中采用的技术体现出不同的先进性。此外，干细胞技术在不同疾病领域的应用体现出的技术先进性也不同，如造血干细胞移植术已成为世界范围内广泛应用治疗白血病的治疗方式7，而干细胞在老年痴呆症领域的研究尚处于起步阶段8。对于技术成熟度来说，干细胞技术作为一种治疗手段，其所处的临床阶段是非常重要的考察标准。一件干细胞专利技术离上市的距离越近，其面临的风险越小，价值就越高。对于技术可替代性来说，一件干细胞专利技术的可替代性越低，表明该专利技术在市场中越具有垄断价值，未来可能产生的产业化收益越多。对于专利成本来说，不同技术手段对应的原材料及设备不同造成技术成本不同，不同技术手段风险不同造成风险成本不同，不同技术手段操作难易度造成人力成本不同，这些技术成本均影响到干细胞的价值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在经济价值度层面，因为干细胞属于新兴的研究领域，其临床应用尚处于起步阶段，因此，其远期的市场价值是重点考察的方面，很难直接对市场应用、市场占有率、竞争情况等指标做出直接评价。本文在保留市场规模前景与政策适应症的同时增加市场需求指标对干细胞专利的经济价值进行评估。对于市场需求来说，干细胞产品对应的适应人群不同，其市场需求不同，如对于患者较多，发病范围较大，缺乏有效的药物或治疗手段的疾病，干细胞在该领域则具有较大的市场需求，显示出更大的价值。对于市场规模来说，市场规模除了与市场需求相关，还与产品定价相关，是技术经济因素的集中体现。市场需求大且普遍定价高的干细胞产品，其市场规模更大，远期收益更高。对于政策适应性来说，政策适应性是干细胞专利价值重要的考虑量因素，我国经历“干细胞乱象”后，在干细胞领域的临床研究逐渐放开。2017年4月11日，我国正式备案的首批两个干细胞临床研究项目——“人胚胎干细胞来源的神经前体细胞治疗帕金森病”和“人胚胎干细胞来源的视网膜色素上皮细胞治疗干性年龄相关性黄斑变性”，在郑州大学第一附属医院正式启动。2017年12月22日，国家食品药品监督管理总局发布《细胞治疗产品研究与评价技术指导原则（试行)》标志着我国开启全面、有序开展干细胞临床治疗的时代。然而，目前国内并无任何形式的干细胞药物批准，也无法保证未来的干细胞领域政策是否会再度收紧，影响干细胞技术的研究与产品应用。因此，政策是否利好对于干细胞技术的应用与干细胞专利的价值有着重要的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从法律价值度来看，本文将专利稳定性、可规避性、依赖性以及侵权可判定性四个指标合并为专利保护强度这一个指标综合考虑，使指标体系重点突出，且层次清晰。另外，选择专利期限指标对干细胞专利的法律价值进行评估。对于专利保护强度来说，专利保护强度需要考虑干细胞专利稳定性、可规避性、依赖性以及侵权可判定性四个因素，其中专利稳定性对于未授权的专利，主要考察通过三性分析后得到的专利被授予专利权的可能性。对于已授权的专利，主要考察专利授权后对抗无效请求的能力。专利保护强度表现越好的干细胞专利，价值越高。对于专利期限来说，主要针对已授权的干细胞专利，如果专利剩余的保护期还长，那么专利离失效的时间还久，具有更高的价值。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b950a91c1b5dec3a3669e474e8866de03dc6897c55dbad5651430db89e76e55e.jpg",
+        "table_caption": [
+            "表3干细胞专利价值评估指标的选择",
+            "Table3SelectionofIndicatorsforStemCellPatentValueEvaluation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>一级指标</td><td>二级指标</td><td>取舍</td><td>理由</td></tr><tr><td rowspan=\"7\">技术价值度</td><td>先进性</td><td>√</td><td>符合干细胞技术在不同流程、不同应用领域中先进性不 同的特性，对于技术价值评估具有代表性。</td></tr><tr><td>行业发展趋势</td><td>×</td><td>评判干细胞技术领域专利的情况，行业趋势主要体现在 干细胞产业的发展特点，不同专利区分度较小。</td></tr><tr><td>适用范围</td><td>×</td><td>干细胞专利技术应用领域较为明确，很少有跨行业，跨 领域的应用情况出现。</td></tr><tr><td>配套技术依存度</td><td>×</td><td>该“指标”与法律价值维度“依赖性”指标考察点部分 重合。</td></tr><tr><td>可替代性</td><td>√</td><td>符合干细胞领域达到相同目标可采用不同技术的特点， 对于技术价值评估具有代表性。</td></tr><tr><td>成熟度</td><td>√</td><td>符合技术所处的临床阶段对于干细胞专利价值有着重大 影响的特点，对于技术价值评估具有代表性。</td></tr><tr><td>技术成本 (增加)</td><td>√</td><td>符合干细胞领域达到相同目标不同技术成本差异较大的 特点，对于技术价值评估具有代表性。</td></tr><tr><td rowspan=\"6\">经济价值度</td><td>市场应用</td><td>×</td><td>干细胞的市场应用尚处于起步阶段，大多数专利技术尚 未应用于市场，适用度不高。</td></tr><tr><td>市场规模前景</td><td>√</td><td>符合干细胞专利对于远期市场规模的预期需要，对于市 场价值评估具有参考性。</td></tr><tr><td>市场占有率</td><td>×</td><td>大多数专利技术尚未应用于市场，该领域的机构与企业 尚处于研发阶段，很难评市场占有率。</td></tr><tr><td>竞争情况</td><td>×</td><td>大多数专利技术尚未应用于市场，该领域的机构与企业 尚处于研发阶段，很难评竞争情况。</td></tr><tr><td>政策适应性</td><td>√</td><td>符合干细胞领域发展易受政策影响的特点，且不同疾病 的干细胞应用政策放开程度可能不同，对于市场价值评 估具有参考性。</td></tr><tr><td>市场需求 (增加)</td><td>√</td><td>符合干细胞专利对于远期市场需求的预期需要，对于市 场价值评估具有参考性。</td></tr><tr><td rowspan=\"3\">法律价值度</td><td>稳定性 可规避性</td><td>合并</td><td>将四个因素合并为专利保护强度指标，综合反映专利稳 定性、专利可规避性、专利依赖性与专利侵权可判定性，</td></tr><tr><td></td><td></td><td></td></tr><tr><td>依赖性</td><td></td><td>对于干细胞法律价值具有决定性的影响。</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/41b71e8172fe10ddee930cc3c0ac10bbb70f2a749b7d70349ffdd3df142817cf.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：基于中技所《专利价值分析指标体系》基础上进行指标优化"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"4\"></td><td>专利侵权可判定性</td><td></td><td></td></tr><tr><td>有效期</td><td>√</td><td>专利有效期可反映权利有效的时间，对于干细胞专利价 值有着重大的影响，因此，对于法律价值评估具有参考 性。</td></tr><tr><td>多国申请</td><td>×</td><td>因为多国申请需要大量的专利经费投入，我国干细胞领 域专利极少发生多国申请，暂不计入指标体系，可作为 备注进行考察。</td></tr><tr><td>专利许可状态</td><td>×</td><td>我国干细胞领域专利发生专利许可或转移转让的比例不 足万分之一，暂不计入指标体系，可作为备注进行考察。</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 指标体系的建立",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从技术价值度、市场价值度、法律价值度三个维度挑选了干细胞专利价值的评估指标后，本文对各个指标进行了明确的定义，并建立了指标的基准值和分值，便于未来干细胞指标体系的应用。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/60add67b55fba8654e8c32452445e6e84d0a5f0ef4a0caaea189d5ddb898dc8b.jpg",
+        "table_caption": [
+            "表4干细胞价值评估指标体系",
+            "Table 4 Indicator System forStemcell ValueEvaluation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>一级指标</td><td>二级指标</td><td>含义</td><td>基准值</td><td>打分参考（满分 10分）</td></tr><tr><td rowspan=\"9\">技术价值度</td><td rowspan=\"3\">技术先进性</td><td rowspan=\"3\">专利技术在当前进 行评估的时间点上 与本领域的其他技 术相比是否处于领</td><td>① 该技术属于国际领先</td><td>9~10分</td></tr><tr><td>② 该技术属于国际先进</td><td>8~9分</td></tr><tr><td>③ 该技术属于国内领先</td><td>6~7分</td></tr><tr><td rowspan=\"3\"></td><td rowspan=\"3\">先地位 专利技术在评估时</td><td>④ 该技术属于国内先进</td><td>4~5分 1~3分</td></tr><tr><td>⑤ 其他情况酌情打分 ① 药物上市</td><td>10分</td></tr><tr><td>② 临床三期</td><td>9分</td></tr><tr><td rowspan=\"3\">技术成熟度</td><td rowspan=\"3\">所处的发展阶段</td><td>③ 临床二期</td><td>8分</td></tr><tr><td>④ 临床一期</td><td>6~7分</td></tr><tr><td>⑤临床前</td><td>1~5分</td></tr><tr><td rowspan=\"2\">技术成本</td><td rowspan=\"2\">专利技术的实现所 需要付出的代价</td><td>① 成本低 ② 成本中等</td><td>7~10分 4~6分</td></tr><tr><td>③成本高</td><td>1~3分</td></tr><tr><td rowspan=\"2\">技术可替代性</td><td rowspan=\"2\">在当前时间点，是否 存在解的相代或类 方案</td><td>① 不存在替代技术</td><td>8~10分</td></tr><tr><td>② 存在替代技术，但本技术占</td><td>4~7分</td></tr><tr><td rowspan=\"3\">市场价值度</td><td rowspan=\"3\">市场需求</td><td rowspan=\"3\">专利技术目前是否 有需求,需求的规模</td><td>③ 存在替代技术，且比本技术有 优势</td><td>1~3分</td></tr><tr><td>① 需求量大</td><td>8~10分</td></tr><tr><td>② 需求量中等</td><td>5~7分</td></tr><tr><td>市场规模</td><td>结合地域考虑专利</td><td>③需求量小 ① 市场规模大</td><td>1~4分 8~10分</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/274b00873496e7c53a9ee4ee00fdd14e4714370ee4f641358a3bffb0219112e9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td></td><td>技术经过充分的市 场推广后,在未来其 对应专利产品或工 艺总共有可能实现</td><td>② 市场规模中等</td><td>5~7分</td></tr><tr><td rowspan=\"3\">政策适应性</td><td rowspan=\"3\">的销售收益 宏观政策、技术标准 以及管理规范对行 业技术发展的限制</td><td>① 无政策壁垒，易于应用</td><td>8~10分</td></tr><tr><td>② 有完善的应用规范，技术的应 用需要一系列的认证</td><td>5~7分</td></tr><tr><td>③有伦理问题，不易于应用</td><td>1~4分</td></tr><tr><td rowspan=\"2\">法律价值度</td><td>专利保护强度</td><td>专利的稳定性、可规 避性、依赖性以及专 利侵权可判定性</td><td>①稳定性好 ②稳定性中等</td><td>8~10分 5~7分</td></tr><tr><td rowspan=\"2\">专利期限</td><td rowspan=\"2\">基于一项授权的专 利从当前算起还有 多长时间的保护期。</td><td>③稳定性差</td><td>1~4分</td></tr><tr><td>①16 年以上 ②12-15年</td><td>10分 8分</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 指标权重的确定",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "层次分析法可把多目标、多准则又难以全部量化处理的决策问题化为多层次单目标问题，是一种简洁实用的决策方法，适用于本文指标权重的计算工作1。本文设计了《间充质干细胞专利价值评估指标专家打分表》，邀请了13位来自中科院的专家（包括5位干细胞领域研究人员、5位科研岗位专利管理人员以及3位生命科学领域情报研究人员）对指标的重要性进行打分，经过问卷回收，形成了10份有效的打分结果。因为层次分析法的分析过程已非常成熟，因此具体计算过程不再赘述。对10位专家的打分结果进行一致性检验，没有一致性的打分结果使用最大方向改进法进行调整后，获得10位专家的指标权重值，如下表所示：",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9f900be58ccc74ea1c86b5ec26e2bb475f9ae04d475d56874c25ef40dfd2261.jpg",
+        "table_caption": [
+            "表5专家打分指标权重结果汇总",
+            "Table5Experts’ScoringData forIndicator Weight "
+        ],
+        "table_footnote": [
+            "通过将10个各专家排序向量求加权平均数，计算得到各指标的指标权重。为了便于指"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">判别指标</td><td colspan=\"10\">指标打分权重结果</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td>技术先进性</td><td>0.106</td><td>0.167</td><td>0.052</td><td>0.063</td><td>0.089</td><td>0.134</td><td>0.082</td><td>0.096</td><td>0.089</td><td>0.116</td></tr><tr><td>技术成熟度</td><td>0.048</td><td>0.095</td><td>0.193</td><td>0.107</td><td>0.241</td><td>0.105</td><td>0.176</td><td>0.205</td><td>0.237</td><td>0.082</td></tr><tr><td>技术成本</td><td>0.035</td><td>0.058</td><td>0.134</td><td>0.162</td><td>0.135</td><td>0.043</td><td>0.041</td><td>0.066</td><td>0.048</td><td>0.088</td></tr><tr><td>技术可替代性</td><td>0.123</td><td>0.338</td><td>0.074</td><td>0.030</td><td>0.090</td><td>0.075</td><td>0.086</td><td>0.075</td><td>0.096</td><td>0.049</td></tr><tr><td>政策适应性</td><td>0.412</td><td>0.045</td><td>0.037</td><td>0.299</td><td>0.069</td><td>0.077</td><td>0.215</td><td>0.221</td><td>0.215</td><td>0.276</td></tr><tr><td>市场需求</td><td>0.052</td><td>0.184</td><td>0.348</td><td>0.257</td><td>0.031</td><td>0.244</td><td>0.083</td><td>0.078</td><td>0.080</td><td>0.196</td></tr><tr><td>市场规模前景</td><td>0.032</td><td>0.046</td><td>0.076</td><td>0.046</td><td>0.039</td><td>0.215</td><td>0.090</td><td>0.084</td><td>0.065</td><td>0.137</td></tr><tr><td>专利保护强度</td><td>0.085</td><td>0.048</td><td>0.046</td><td>0.018</td><td>0.172</td><td>0.074</td><td>0.065</td><td>0.067</td><td>0.057</td><td>0.024</td></tr><tr><td>专利期限</td><td>0.108</td><td>0.019</td><td>0.039</td><td>0.018</td><td>0.134</td><td>0.034</td><td>0.161</td><td>0.108</td><td>0.114</td><td>0.032</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "标模型数值的比较，将各权重进行归一化处理，得到最终的指标权重结果，具体如下表：",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8e14711266787cbf7a8ef8f814fdcfbc5bb30a92a3889c512e023fef58b6445.jpg",
+        "table_caption": [
+            "Table 6 Experts’Scoring Result for Indicator Weight "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>判别指标</td><td>最终权重</td></tr><tr><td>技术先进性</td><td>0.1142</td></tr><tr><td>技术成熟度</td><td>0.1599</td></tr><tr><td>技术成本</td><td>0.0847</td></tr><tr><td>技术可替代性</td><td>0.1025</td></tr><tr><td>政策适应性</td><td>0.1705</td></tr><tr><td>市场需求</td><td>0.1463</td></tr><tr><td>市场规模前景</td><td>0.0848</td></tr><tr><td>专利保护强度</td><td>0.0668</td></tr><tr><td>专利期限</td><td>0.0702</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由此本文得到干细胞领域专利价值评估模型，从权重来看，技术先进性、技术成熟度、政策适应性以及市场需求是专家认为最重要的4个指标，其中政策适应性是专家认为对干细胞专利价值影响最大的指标。可见，国家干细胞技术的临床审批、产业的支持、产品的顺利上市与临床应用对于我国干细胞专利价值具有重大的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.1.4 案例分析 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "中国科学院上海生命科学研究院专利申请号为201610038160.4，专利名称为“高效诱导人多能干细胞向心肌细胞分化的小分子化合物组合物”的专利具有较高的转移转化前景，是院内转移转化的重点对象。本文采用构建的干细胞专利价值评估模型对其进行价值评估。其基本信息如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/fada8abfe30699abf03599b8a519a7f11ee8e4fbf6ebe72896e97020e40a0684.jpg",
+        "table_caption": [
+            "表6专家打分指标最终权重",
+            "表7待评估专利基本信息",
+            "Table7BasicInformationof thePatent "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基本信息</td><td>具体内容</td></tr><tr><td>专利名称</td><td>高效诱导人多能干细胞向心肌细胞分化的小分子化合物组合物</td></tr><tr><td>专利申请号</td><td>201610038160.4</td></tr><tr><td>专利公开号</td><td>CN106987555A</td></tr><tr><td>申请人</td><td>中国科学院上海生命科学研究院</td></tr><tr><td>发明人</td><td>荆清</td></tr><tr><td>申请日</td><td>2016年1月20日</td></tr><tr><td>公开日</td><td>2017年7月8日</td></tr><tr><td>法律状态</td><td>实审阶段</td></tr><tr><td>主要创新点</td><td>用于高效诱导人多能干细胞向心肌细胞分化的小分子化合物组合物，所述的小分子</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/9723488c0a6a0286ce9fc74b22e60d2c179adbdb188b74dd133434d635385405.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>化合物组合物包括mTOR 信号通路抑制剂和Wnt 通路促进剂和/或药物载体</td></tr><tr><td>主要指标</td><td>初筛的心肌细胞分化率高达86%，优化后的心肌细胞分化率高达98.3%</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "因为该专利尚未授权，因此，待评估专利的专利价值评估中未使用法律价值度中的“专利期限”指标，从而专利价值评估结果中各指标赋权后总分相加的结果为9分，为了对总分有更直观的认识，最后以换算为总分为10分时价值评估的结果。通过从技术价值度、市场价值度、法律价值度的深入分析，该专利利用该专利价值评估模型进行价值评估的结果为8.15分，具体评估依据如表8。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在干细胞专利价值评估模型的应用中，需尽量用对该领域文献、专利、产品等调研后获取的数据与分析结果客观地对专利在各个指标的表现进行评价，避免主观臆断。这里以待评估专利技术价值维度的评估过程为例。从技术上先进性来看，该专利种采用含有mTOR 信号通路抑制剂和Wnt通路促进剂的小分子组合物进行诱导分化，这两种小分子化合物在干细胞分化为心肌细胞中的研究主要集中在近3年，尤其是mTOR信号通路抑制剂雷帕霉素的应用，主要研究成果就集中在2017年112，代表着该领域最先进的技术成果；从技术成熟度来看，虽然该专利采用了人胚胎干细胞系 H9-cTnT-eGFP、H9、H7、人多能干细胞系U-Q1,与采用动物细胞进行试验更近一步，但尚未进入临床，技术成熟度有待提升；从技术成本来看，该专利将小分子化合物组合物加入培养基促进干细胞的分化，比起采用细胞转染等方法促进干细胞分化，操作难度小，比起采用细胞因子诱导分化，稳定性更高。另外，该专利说明书提到采用该方法可节省一半的培养液和添加剂，很好地控制了使用成本；从技术可替代性来看，小分子化合物提升干细胞分化为心肌细胞的方法已有研究基础，但该专利从干细胞到心肌细胞的分化效率达 $90 \\%$ 以上，高于现有期刊论文与专利中的分化效率，如专利\"利用小分子化合物诱导干细胞向心肌分化的方法”（申请号为CN201110286477.7）中最高分化率达到 $40 \\%$ ，远低于该专利的分化率1。因此，该专利存在替代技术，但在功效上具有优势。依此，本文对该专利在技术价值度各指标上表现进行评估与打分，分别给予技术先进性9分、技术成熟度3分、技术成本7分以及技术可替代性7分的结果。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表8待评估专利价值评估结果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/066d1ccf078e524d0b6dab968d34877c21db36273003f37f528d6876de6cee91.jpg",
+        "table_caption": [
+            "Table8EvaluationResultofthePatent "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">高效诱导人多能干细胞向心肌细胞分化的小分子化合物组合物（专利申请号201610038160.4)</td></tr><tr><td colspan=\"2\">指标</td><td>打分</td><td>赋权后分数</td><td>评价依据</td></tr><tr><td>技术</td><td>技术先进性</td><td>9</td><td>1.11</td><td>采用小分子化合物促进干细胞转化为心肌</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/3fef04e703cac6483f40addac966b09eb3ca844d05c98263713da20ae992e871.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"9\">价值度</td><td></td><td></td><td></td><td>细胞的相关技术在该领域属于具有前景的新研 究领域。该专利采用mTOR信号通路抑制剂和</td></tr><tr><td></td><td></td><td></td><td>Wnt 通路促进剂的组合促进干细胞的分化属于</td></tr><tr><td></td><td></td><td></td><td>最新的研究成果，尤其是在人干细胞上的应用。</td></tr><tr><td>技术成熟度</td><td>3</td><td>0.52</td><td>该研究尚处于实验室阶段，尚未进入临床。</td></tr><tr><td>技术成本</td><td>7</td><td>0.64</td><td>与常规流程相比，未增加流程的复杂程度， 不会增加额外的人员成本。所加入小分子化合物</td></tr><tr><td rowspan=\"3\">技术可替代</td><td rowspan=\"3\">7</td><td rowspan=\"3\">0.77</td><td>的价格适中，成本控制较好。</td></tr><tr><td>目前已有较多促进干细胞分化为心肌细胞</td></tr><tr><td>的方法，以小分子化合物为例，就有多种类似的</td></tr><tr><td rowspan=\"3\">性 政策适应性</td><td rowspan=\"3\"></td><td rowspan=\"3\">5</td><td></td><td>化合物可促进分化。但该专利显示出极高的分化</td></tr><tr><td></td><td>效率，其分化效率在同类型研究中具有优势。</td></tr><tr><td rowspan=\"2\">0.92</td><td>我国在干细胞领域政策逐年放开，多项干 细胞临床试点已展开，政策壁垒逐渐放开。</td></tr><tr><td rowspan=\"5\">市场 价值度</td><td rowspan=\"2\">市场需求</td><td rowspan=\"2\">8</td><td>心肌病属于心脏病领域的常见病，且猝死率</td></tr><tr><td>很高，在各个年龄段均有分布。因为该病症属于</td></tr><tr><td rowspan=\"4\">市场规模</td><td rowspan=\"4\">8</td><td rowspan=\"4\">0.73</td><td>无法挽回的细胞坏死，目前无特效药物可以医 治，因此具有较大的市场需求。</td></tr><tr><td>心肌病相关药物的市场销售额达到10 亿左</td></tr><tr><td>右，重症期间的心脏移植以及植入式心律转复除</td></tr><tr><td>颤器需10多万的费用，医疗成本高。该领域产</td></tr><tr><td rowspan=\"4\">法律 价值度</td><td rowspan=\"4\">专利保护强 度</td><td rowspan=\"4\">8</td><td rowspan=\"4\">0.57</td><td>品经济效益好，市场规模大。</td></tr><tr><td>专利未授权，对专利的稳定性进行分析，对</td></tr><tr><td>于其独立权利要求所表现出的创新点未找到可</td></tr><tr><td>影响其新颖性和创造性的对比文献。从专利内容</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td>来看，该专利无需依赖其他专利进行实施。从专</td></tr><tr><td>利权利要求来看，该专利权利要求书写严密，可</td></tr><tr><td>总分</td><td colspan=\"5\">6.52（换算成满分为10分制后的得分为8.15）</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2干细胞专利转移转化其他因素分析",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "专利的转移转化是对专利技术进行的后续试验、开发、应用和推广，从而推动其形成新产品、新工艺、新材料和新的产业。干细胞被称为医药史上最为复杂的治疗性产品之一，研发者与监管者均缺乏经验。与化学药、抗生素等化学成分明确的药物不同，干细胞制品的动态性、异质性等问题需要转移转化双方对干细胞的专利技术的进行更多的考虑。2017年科学技术部火炬高技术产业开发中心编制了《技术转移服务规范》国家标准对技术转移服务机构的工作提出了要求,WHO 出台 WHO Guidelines on Transfer of Technology in Pharmaceuticalmanufacturing,国际制药工程协会（International Society For Pharmaceutical Engineering,ISPE）编制新药转移技术指南分别阐述了制药过程中技术转移转化要点，而尚未有文献、指南或标准对干细胞专利技术转移转化中的因素进行阐述。本文基于干细胞技术的特点，并走访了多位中科院干细胞领域参与干细胞转移转化的专家，对干细胞专利价值评估模型之外，未体现在干细胞专利的专利文本中，但与干细胞专利价值息息相关的其他因素进行分析。若技术的提供方可在转移转化的过程中提供相关信息的详实数据，对于转移转化将有重要的推动作用。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 专利核心优势 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本文认为专利的技术创新点与特性即为专利的核心优势，也是专利是否能得到转移转化的决定性因素。转移转化的双方必须明确专利技术的核心创新点、技术优势与技术局限，并对比该技术与转移转化目标的匹配性，从而决定是否将专利列为转移转化的考虑对象。本部分再以1.4中待评估专利“高效诱导人多能干细胞向心肌细胞分化的小分子化合物组合物”（申请号CN201610038160.4）为例，通过对其权力要求与说明书内容的深入剖析并对比相关领域的发展现状，对该专利的核心优势进行阐述。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/83a9a946cc45a59f1b4d99baafa57f73d039cdb089a01d33230fe46fcd47c218.jpg",
+        "table_caption": [
+            "表9专利核心优势分析要点",
+            "Table 9Key points of PatentCore Advantage Analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标</td><td>内容</td></tr><tr><td>核心创新点</td><td>通过采用促进干细胞分化为心肌细胞的小分子化合物，大幅提高心肌细胞分化 率。</td></tr><tr><td>技术优势</td><td>（1）从方法使用成本来看，该发明的促进心肌分化的方法还能节省一半的培养 液和添加剂，降低了成本。 （2）小分子化合物促进分化相比于采用细胞因子等方法成分可控，且稳定； （3）初筛的心肌细胞分化率高达86%，优化后的心肌细胞分化率高达98.3%， 尚未有文献显示这么高的分化率。 （4）使用范围广，包括胚胎干细胞，ips 细胞以及成体干细胞，有效避免了胚胎 干细胞的伦理问题以及免疫问题。实施例针对人类细胞系展开，相对针对动物细</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd0970182d85c83afe837ca713b7e4e1d7d177946cea3ed3ed77e18f91bafc81.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>胞系展开的试验，更能证明其在人类细胞系中的应用价值。 （5）该发明方法能够利用特定信号通路的抑制剂的组合，诱导多能干细胞转分 化为心肌细胞，分化得到的心肌细胞成熟度较高，拥有发挥正常的心肌功能的结</td></tr><tr><td>技术局限</td><td>也很难考证其在实际应用中高分化率是否稳定存在; （2）专利实际上保护的是一种特定的促分化方法，而非一套完整的干细胞或心 肌细胞构建体系，在转移转化对象的寻找中存在局限;</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 技术可行性因素",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在决定是否将一件干细胞技术进行转移转化，技术的需求方首先进行重复性的验证实验确定的是该技术的质量是否与其专利文本中描述的内容相一致。在这一过程中，技术与产品是否符合伦理规范，技术买卖双方的资源匹配，技术可操作性、设备与人员要求等都是很重要的指标。干细胞专利评估模型中的技术成熟度指标在这里再次提出，因为这是产品转移转化过程中对于技术可行性最重要的考虑因素之一，如果干细胞技术或产品上了临床，意味着其上市的可能性很大，而投资的风险相对要小得多。",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/43eb6c3fa5c598f896b6bf9220fde35470c8ec82d317e51296a9e78504f9872f.jpg",
+        "table_caption": [
+            "表10技术可行性分析要点",
+            "Table10KeyPointsof TechnicalFeasibilityAnalysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>涉及领域</td><td>具体要求</td></tr><tr><td>伦理要求</td><td>干细胞研究和生产是否成立伦理审查委员会，负责相关伦理问题的审查和评价，是否 根据国家法规和行业要求建立相应的伦理操作规范。</td></tr><tr><td>资源匹配要求</td><td>技术提供方与需求方是怎样的关系，是采用技术，还是完全引入相关产品或是辅助提 升现有技术</td></tr><tr><td>技术成熟度要求</td><td>该技术处于什么阶段，实验室阶段，还是上了临床，临床几期，技术和产品的临床表 现如何。</td></tr><tr><td>产品要求</td><td>是否明确关键属性，如质量属性与工艺参数</td></tr><tr><td>可操作性要求</td><td>是否提供详细且可行的工艺流程图、单元操作、工艺参数、质量属性、风险评估</td></tr><tr><td>设施设备要求</td><td>是否配备相关的设备及生产链，或者需要引入怎样的设备</td></tr><tr><td>人员资质要求</td><td>是否配备相关的技术人员，或者需要引入怎样的技术人员</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 质量控制因素",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "对于干细胞专利的转移转化，尤其是专利产品，干细胞产品或技术流程中的质量控制是非常重要的转移转化考虑因素。本文参考了2017年12月中国细胞生物学学会发布的《干细",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "胞通用要求》，认为技术转移转化双方需在技术或产品的质量特点、原材料、辅料、风险控制等角度进行全面的考虑。",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2df7cd5969bc2d8d43fcc6ba5671b07eb171208229a5abe3b7888a43fdd6f2e.jpg",
+        "table_caption": [
+            "Table11 Key Points of Quality Control Factors Analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">涉及领域</td><td>具体要求</td></tr><tr><td rowspan=\"4\">质 量 要 求</td><td>生物学特 性</td><td>是否建立标志物、分化潜能、细胞形态、遗传学等干细胞生物学指标。</td></tr><tr><td>安全性</td><td>是否建立无菌试验、支原体检测、细胞内外源致病因子检测、异常免疫学反应、培养基 等安全性指标。</td></tr><tr><td>稳定性</td><td>是否建立密度/浓度、纯度、存活率、生物学活性等干细胞稳定性指标。</td></tr><tr><td>有效性</td><td>是否建立干细胞分化潜能、分化细胞的结构和生理功能、特定基因和蛋白的表达及细胞 因子的分泌等干细胞有效性指标。</td></tr><tr><td colspan=\"2\">原材料要求</td><td>干细胞来源是否符合伦理和法律法规；人类胚胎和干细胞研究的配子、胚胎在获取前是 否严格审查；干细胞材料供者是否签署书面的合法有效的知情同意书，建立干细胞供者 个人隐私保护机制；每一株干细胞是否具有获取方式、途径及相关的临床资料。</td></tr><tr><td colspan=\"2\">辅料要求</td><td>培养基、生长因子等辅料是否符合相应的质量要求；使用动物血清时、应无特定动物源 性病毒污染；培养基中的血液成分是否明确其来源、批号和质量检定合格报告。</td></tr><tr><td colspan=\"2\">风险控制要求</td><td>是否有足够的实验证明，该产品不会引发免疫毒性、也不存在致瘤、促瘤的风险或者引 发内分泌、免疫系统、生殖系统及神经系统紊乱。</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 远期收益因素",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "干细胞专利技术或产品大多还未上市，甚至未进入临床阶段，因此专利需求方希望获取的是该领域的远期收益，市场因素是专利需求方考虑的重点因素，同时因为技术转移产生的成本以及成本回收周期也是非常重要的内容，在整个过程中，建立完备的风险控制是保证转移转化顺利进行的重要因素。",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc4e90b3c374959d0fa2c8c98dee728286e136c3d140ac2c2b4cadd3f63bf95b.jpg",
+        "table_caption": [
+            "表11质量控制因素分析要点",
+            "表12远期收益因素分析要点",
+            "Table12 Key Points ofLong-term Earnings Analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>涉及领域</td><td>具体要求</td></tr><tr><td>市场需求要求</td><td>干细胞技术或产品具有怎样的市场潜力，将匹配技术需求方的那些优势，或弥补哪些 劣势产生效益。</td></tr><tr><td>成本控制要求</td><td>转移转化过程中产生的有形资产与无形资产成本是否在预算范围内</td></tr><tr><td>风险评估要求</td><td>干细胞技术或产品能否按期上市的风险，技术或产品产业化后在生产、采购、质量控 制、人才引入等阶段可能存在的风险</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3．总结 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本文提出的干细胞专利价值评估模型对现有的专利价值评估指标体系进行了优化，结合了干细胞的技术发展特点，从技术价值度、市场价值度、法律价值度三个维度对干细胞专利的价值进行了评估，并可通过专利价值评估指标模型使每一个待评估的专利获得一个分数便于对专利的分级管理。在指标分析法的运用中，深入了解评估专利技术的特点，以及专利文本对于专利技术的保护能力的客观分析，对于专利价值的评估结果至关重要。现有文献中往往更重视专利分析方法或指标体系的研究，忽略了方法对于特定领域专利的适用性与专利内容分析的重要程度。本文以“高效诱导人多能干细胞向心肌细胞分化的小分子化合物组合物”专利为例，对该指标模型在干细胞专利价值评估中的应用进行了展示，在实际操作中，该步骤可由专利分析师与干细胞领域的专家合作完成。此外，在转移转化的实际过程中，技术需求方往往需要专利提供方提供更多有关干细胞专利技术的信息，包括专利技术是否符合伦理规范，实验流程与设备以及未在专利中说明的技术信息等技术可行性要素，产品稳定性、原材料与辅料来源等质量控制要素，该专利技术与需求方的匹配度以及可能带来的价值等远期收益要素。干细胞领域的研究人员与专利管理人员可参考本文，提升专利的管理效率与专利转移转化中的主动性，促进专利技术的转移转化。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[1]Meuwissen HJ，Gatti RA， Terasaki PI， et al. Treatment of lymphopenic   \nhypogammaglobulinemia and bone-marrow aplasia by transplantation of allogeneic marrow. Crucial role of histocompatiility matching，New England Journal Of Medicine，1969， 281(13): 691-697.   \n[2]Bacakova L， Zarubova J， Travnickova M， et al. Stem cells: their source, potency and use in regenerative therapies with focus on adipose-derived stem cells - a review. Biotechnology Advances，2018，36(4): 1111-1126.   \n[3]Stem Cell Manufacturing Market by Product (HSCs,MSCs, iPSCs,ESCs, Instruments, Media, Consumables), Application (Research, Target Identification, Therapy (Autologous, Allogeneic), Cell Banks), End User (Pharma, Hospitals) - Global Forecast to 2023.[2018-3-31].   \nhttps://www.marketsandmarkets.com/Market-Reports/stem-cel-manufacturing-market-70743403. html.   \n[4]霍国庆.我国科技成果转移转化的根本症结及其解决策略.智库理论与实践，2016，1(2)： 119-125.   \n[4]Huo G Q. The sticking points and solutions of China's scientific and technological achievement transformation.Think Tank:Theory & Practice，2016，1(2): 119-125.   \n[5]促进科技成果转化法修正案（草案）条   \n文.[2015-3-2].htp://www.npc.gov.cn/npc/xinwen/lfgz/flca/2015-03/02/content_1906948.htm [5]Amendments to the law for promoting the transformation of scientific and technological achievements (Draft) .   \n[2015-3-2].http://www.npc.gov.cn/npc/xinwen/lfgz/flca/2015-03/02/content_1906948.htm [6]中国技术交易所.专利价值分析指标体系操作手册.北京：知识产权出版社，2012：5-32. [6] China Technology Exchange. Operating Manual of Patent Value Analysis Index System. Beijing: Intellectual Property Publishing House, 2012: 5-32.   \n[7]de Alvarenga E C， Silva W N， Vasconcellos R， et al.Promyelocytic leukemia protein in mesenchymal stem cels is essential for leukemia progression.Annals of Hematology， 2018, 97(10): 1749-1755.   \n[8]Cao N,Liao TL,Liu JJ,et al.Clinical-grade human umbilical cord-derived mesenchymal stem cells reverse cognitive aging via improving synaptic plasticity and endogenous neurogenesis.Cell Death & Disease，8(8):e2996.   \n[9]我国首批胚胎干细胞临床研究项目今日启   \n动.[2017-4-11].http://politics.people.com.cn/n1/2017/0411/c1001-29202930.html.   \n[9] The first clinical research projects on embryonic stem cells in China were launched today. [2017-4-11]. http://politics.people.com.cn/n1/2017/0411/c1001-29202930.html.   \n[10]丁建业，陆毅.专利评估与层次分析法(AHP).专利文献研究，2007，6：1-7.   \n[10] Ding JY， Lu Y. Patent evaluation and analytic hierarchy process (AHP). Patent Literature Research，2007，6: 1-7.   \n[11]Qiu X X，Liu Y， Zhang YF， et al.Rapamycin and CHIR99021 Coordinate Robust Cardiomyocyte Differentiation From Human Pluripotent Stem Cells Via Reducing p53-Dependent Apoptosis.JOURNAL OF THE AMERICAN HEARTASSOCIATION，2017，10(6): e005295. [12]Lu Q,Liu YA, Wang Y,et al.Rapamycin efficiently promotes cardiac differentiation of mouse embryonic stem cells.[2017-6-7].   \nhttp://www.bioscirep.org/content/ppbioscirep/37/3/BSR20160552.full.pdf   \n[13]厦门大学.利用小分子化合物诱导干细胞向心肌分化的方法：中   \n国.CN104447417A.2015-03-25   \n[2018-08-18].htp://www.pss-system.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpTo View.shtml.   \n[13] Xiamen University. Method for inducing cardiac diffrentiation of stem cells by utilizing small molecule compounds. CN104447417A.2015-03-25   \n[2018-08-18].http://www.pss-system.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpTo View.shtml. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

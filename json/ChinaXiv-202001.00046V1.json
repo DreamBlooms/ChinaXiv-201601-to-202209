@@ -1,0 +1,1441 @@
+[
+    {
+        "type": "text",
+        "text": "A general self-consistent framework for studying cumulative displacement damage in nanostructured metals based on parameter passng and structural feedback between atomic and coarse-grained techniques ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiangyan Lia1, Yange Zhanga1, Yichun Xua1, Xuebang Wua \\*, Xianping Wanga, B.C.Panb, C.S.Liua.\\*\\*, Q.F. Fanga, Jun-Ling Chen, G.-N. Luoc, Zhiguang Wangd, X. Liue   \na Key LaboratoryofMaterials Physics,InstituteofSolid State Physics,Chinese AcademyofSciences,P.O.Box 1129,Hefei 230031,PR China   \nb Hefei National Laboratory for Physical Sciences at Microscale and Department of Physics,University of Science and Technology of China, Hefei 230026,PR China   \n‘ Institute of Plasma Physics, Chinese Academy of Sciences, Hefei 230031,PR China   \ndInstitute of Modern Physics, Chinese Academy of Sciences,Lanzhou 73000,PR China   \ne Southwestern Institute of Physics, Chengdu, Sichuan 610041, China   \nE-mail: xbwu@issp.ac.cn and csliu $@$ issp.ac.cn (C.S. Liu)   \nlThese authors contributed equally to this work. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nano-crystalline metals (NCs) exhibit radiation-tolerance due to the sink of grain boundaries (GBs) for radiation-induced defects such as self-interstitial atoms (SIAs)and vacancies (Vs). However,the relevant mechanisms for the radiation damage accumulation and GB structural relaxation under high radiation field in NCs are still not well understood due to the lack of self-consistent across-scale techniques for simulating radiation-induced microstructures evolution. In this article, by combining coarse-grained and atomistic simulations,we proposed a coupling method to investigate the evolution of the microstructure and SIA/V-GB interaction under cumulative irradiation in NC iron. The SIA overloaded efect was revealed in iron GBs at a high radiation dose rate and/or low temperature.Two types of GB structural response were observed to cumulative irradiation. With the SIA accumulated at the GB,the new GB phase formed and then a critical concentration ofthe SIA at the GB transited to the smallquantity of the V during the GB structural recovery，accompanied by the local GB motion. Consequently，the GB's role for Vs nearby alternated between the trapping and annihilation center with radiation dose.Alternatively，GB developed to a disordered structure after trapping abundant SIAs.The GB response patern to cumulative irrdiation that is related to the SIA formation energy at the GB or the GB thermal stability is well manifested in the cumulative distribution function of the defects formation energy and its energy level density.The present work reveals the dynamic healing picture for radiation damage near the GB under cumulative iradiation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: nano-crystalline; grain boundary; radiation-resistance; structural relaxation; self-healing ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Current and future generation nuclear reactors call for structural materials with outstanding properties that can withstand hundreds of atomic displacements per atom (dpa) produced by neutron damage []. Radiation to the material creates defects of self-interstitial atoms (SIAs), vacancies (Vs) and their clusters （20 $( \\mathrm { V _ { n } } / \\mathrm { S I A _ { n } } )$ in the material[]. These defects often induce the degradation of materials performance in terms of irradiation dislocation hardening, creep, void swelling,and helium embritlement []. Engineering materials with a high density of defect sinks,such as GBs in nano-crystalline metals (NCs) with the grain size below $1 0 0 ~ \\mathrm { { n m } }$ ,has been proved to be one of the fundamental options for mitigating these deleterious efects over the past 50 years []. The novel radiation resistance of NCs is apparently manifested by the formation of a defect denuded zone near the GB,as observed in irradiation experiments of metals $[ ]$ and oxides []. Quite recently， the NCs iron (Fe） with high thermal stability have been prepared successfully $[ ]$ and see a promising application in extreme irradiation environments [].   \nUntil now, great effort has been made to reveal the atomic origin of the radiation-tolerance of NCs, focusing on the fundamental interactions of the V/SIA with the GB in several metals $[ ]$ . It is found that the GB has two basic roles either as a trapping center for the SIA/V or as the annihilation catalyst for the SIA-V recombination. On the one hand, the trapping of the SIA/V by the GB suppresses the formation of the large immobile defect clusters in the grain interior,leading to the low defect density in the grain interior in NCs. The mechanism is supported by the rate theory models of the grain size efect on the GB sink strength [], the in-situ observation of defect cluster absorption by GBs in Kr ion irradiated NC nickel []. Atomic simulations suggest that the low V/SIA formation energy at the GB and low diffusion energy barrier near the GB acts as the respective energetic and kinetic driving force for the V/SIA segregation to the GB[]. On the other hand, several distinct annihilation mechanisms/processes have been proposed in recent years []. In NC copper $\\mathrm { ( C u ) }$ ， the SIA was observed to firstly segregate to the GB and then remit from the GB. Consequently,the V near the GB was efficiently annihilated via a low energy barrier process. Such interstitial emission $( I E )$ was ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "shown to work near the GB/surface in Fe,tungsten (W),and Cu []. Recently [], it was found that the SIA motion along the GB carrying with the low-energy barrier annihilation region around the SIA coupled with the diffusion of the V towards the GB could also anneal radiation damage in NC Fe []; the coupling mechanism also applies to SIA-V annihilation in W and Cu GBs/surfaces []. The SIA-cluster Was found to be reflected back into the grain interior as approaching the locally dense GB and annihilate the V near the GB in W[], although the SIA-V annihilation could be via the $I E$ and coupling mechanisms near the locally loose GB region. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Despite these advances， significant scientific questions remain unanswered, such as how the microstructure near the GB evolves and how the GB relaxes under a harsh cumulative irradiation condition. Given that the experimental observation was conducted after a certain radiation dose，the defects accumulation and GB relaxation mechanisms are critical to understanding the final experimental observations.First, the complex experimental conditions and multiple SIA/V-GB interatomic processes render the defects accumulation and GB structural relaxation mechanism hard to access. As illustrated in supplementary Fig. S3, the experimental conditions consist of multiple parameters spanning a large range (supplementary Table S1), including radiation conditions of temperature $( T )$ ，radiation dose (rd） and radiation dose rate $( \\tau )$ ， and the grain size $( L )$ . The radiation response of the GB is related to the atomic processes in the bulk, near the GB and within the GB,and also the process associated with GB motion. In diferent parameter regimes, the system could have various defects accumulation mechanisms, involving distinct atomic processes. Second, one also has simulation technique challenge facing the prediction of the response of the GB to cumulative irradiation damage of a certain dose due to the possble evolution of the SIA/V-GB interaction with radiation dose.The popular simulation methods for exploring cumulative irradiation response of NCs are molecular dynamics (MD) and object kinetic Monte Carlo (OKMC) []. In MD simulation of cumulative irradiation damage, the repeating ion bombardments with certain kinetic energy continuously hit the simulation cell at a certain incident angle at an certain time interval, as performed in Fe [],and Cu[]. Chen et al. discovered that the SIA-V annihilation at GBs was mediated by the formation of chain-like defects []; they concluded that the GBs actas highly efcient defect sinks that cannot saturate under extreme radiation conditions. Using similar methods, Jin et al. found the synergistic motion of the stacking fault tetrahedra and GBs under repeated bombardments to the GB in Cu []. Our simulations on a Fe GB also revealed such mechanism (supplementary Figs. S1 and S2). Although these MD simulation results reveal the cascade-GB interaction,the short simulation time interval (an inherent limitation of MD) between colision cascades yields a dose rate several orders of magnitude higher than that in experiments. As a result, the revealed microstructure relaxation mechanism/process near the GB may not occur in the other parameter regime of the real experiments. Alternatively，with the basic SIA/V-GB interaction processes as input, the long-time evolution of the radiation-induced microstructure could be accessed by OKMC. However,the OKMC model would fail to work if new process emerges as defects accumulate with radiation dose. Therefore, in the OKMC model it requires not only the fundamental atomic processes to drive the microstructure evolution but also the feedback on the modification of the processes from the microstructure subjected to a specific dose of radiation. Such coupling between coarse-grained and atomistic simulation is critical for accurately accessing the long-term radiation response of NCs, which may also be encountered in stochastic cluster dynamics (SCD） simulation of defects accumulation inside Fe grains and in GB []. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this work, we proposed a computational predictor-corrector framework for simulating displacement damage accumulation and structural relaxation in NC Fe by combining molecular statics (MS), MD and OKMC.The method takes advantage of the coarse-grained technique to access the long term evolution of the microstructure and the atomic technique to explore the structural transition. The atomic model with reproduced defect structure at a radiation dose drawn from OKMC simulations was relaxed by using MD at a certain temperature. As a feedback of atomistic simulations to OKMC,the new relaxation process was reconsidered in the OKMC model to correct the initial OKMC simulation results. In addition, via calculating cumulative distribution function for the defect energy level and its density,the fine and sensitive method was developed for characterizing the modification of the whole and local GB structures and the GB's role for the V by the SIA segregation. NC Fe was chosen as a prototypical model system since ferritic steels with body-centered cubic (bcc) $\\mathfrak { a }$ -Fe as the matrix structure are widely used in nuclear reactors as structure materials []. Besides,the basic defect properties,e.g. defect formation energy,diffusion energy barrier and defect-GB binding energy in Fe are of the same order of magnitude as that in Cu,Ag and Au []. The present results may exhibit universality. In the parameter regime of a high dose rate,a low temperature and a small grain size considering experimental conditions $[ ]$ ,the SIA overloaded effect was revealed in Fe GBs and an alternating evolution of GB structure and the role of trapping and annihilation of Vs was reported. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. Computational method ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1. Interatomic potential and GB models ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.1. Interatomic potential The inter-atomic potential proposed by Mendelev et al. as part of their embedded-atom-method [39] (Potential 2 in Ref.[39]) was used to model the inter-atomic interaction in Fe.Tests show that this potential correctly predicts the properties of the point defects, e.g., the V/SIA formation energy $( 1 . 7 1 / 3 . 5 3 ~ \\mathrm { e V } )$ and diffusion energy barrier $( 0 . 6 3 / 0 . 3 3 \\ \\mathrm { e V } )$ ，and the stable configuration of the SIA in the bulk Fe ([110] dumbbell) []. The potential has been widely used for studying radiation damage and defect behavior in Fe []. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.2.Atomic GB models ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The atomic GBs studied in this work include 13 high-angle and small-angle symmetric tilt GBs with two kinds of the tilt axes of [0 0 1] and [1 1 0]. These GBs areΣ5(210)/[001],£5(310)/[001],£ 13(510)/[001]，£ 13(320)/[001],£25(430)/[001],£85(760)/[001],£85(131 0)/[001],£3(111)/[110], ∑3(112)/[110], £9(114)/[110], £9(221)/[110],∑11(113)/[110],£11(332)/[110]. The GBs have been frequently modeled []. The creation and relaxation procedures are identical to the previously reported procedures [29]. Periodic boundary conditions were applied in the two directions parallel to the GB plane. The vacuum of $1 5 \\mathrm { \\AA }$ was added in the direction normal to the GB plane and the size in the direction is about （204号 $3 0 \\textup { \\AA }$ . The GB system energy was minimized through the rigid-body translations of one grain relative to the other,followed by the full atomic relaxation in all three Cartesian directions at $0 \\mathrm { K }$ . After relaxation, the GB energy density ( $\\cdot E _ { G B }$ ） per unit area, as defined in Ref. $[ ]$ ， was calculated. The relaxed GB structures are shown in supplementary Fig. S4. It can be seen, different GBs have distinct structures.Similar GB structures are obtained in other work []. It is found that the twin boundary of $\\Sigma 3 ( 1 \\ 1 \\ 2 ) / [ 1 \\ 1 \\ 0 ]$ (supplementary Fig. S4(i)） has the lowest $E _ { G B }$ of $0 . 2 6 \\mathrm { ~ \\ J / m } ^ { 2 }$ due to smaller distortion compared to other GBs； similar structure-energy relation was found in $\\textrm { w } [ ]$ . The GBs of $\\Sigma 3 ( 1 \\ 1 \\ 1 ) / [ 1 \\ 1 \\ 0 ]$ (supplementary Fig. S4(h)) and £9(2 2 1)/[1 1 0] (supplementary Fig. $\\mathrm { S 4 ( k ) } ,$ )have higher $E _ { G B }$ of about $1 . 3 ~ \\mathrm { J / m } ^ { 2 }$ . In the main text of the article, these GBs willbe shown to have rather different defects accumulation and structural relaxation properties, which is correlated with $E _ { G B }$ . The stability of the GB structure was also investigated by performing MD simulations at $3 0 0 ~ \\mathrm { K }$ for about 50 pico-seconds (ps). The velocity-Verlet algorithm was employed to solve the Newton motion equation. The time-step was set 2 femto-seconds (fs). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.3.Coarse-grained GB models ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For OKMC simulating defects accumulation in NCs, the coarse-grained GB models of the square-shaped cubic cells are built (Fig.1(a)). Periodic boundary conditions were applied in the three Cartesian directions.Based on the previous atomic calculations of the basic SIA/V properties near the GB[], the whole model was divided into the bulk region,the region nearby the GB and the GB plane.In the three regions，the defects have corresponding energetic and kinetic properties, simplified by using different physical pictures in the following text. In the OKMC model, the different regimes of the $\\scriptstyle \\tau - L - T$ space were accessed with specific defect-GB interaction parameters. The values of these parameters of $\\tau , L , T$ were assigned based on experimental conditions $[ ]$ in order to make comparison of the theoretical simulation results with the experimental results $[ ]$ .Parameter $\\tau$ was assigned to be three levels of $1 0 ^ { 2 }$ ， ${ { 1 0 } ^ { - 2 } }$ and ${ { 1 0 } ^ { - 5 } }$ dpa- $\\mathbf { s } ^ { - 1 }$ ：， $L$ was given of 10, 50,100 and $2 0 0 ~ \\mathrm { n m }$ ：， $T$ was given of 100,200,300 and 600 K[实验]. The purpose of choosing different values of the relevant parameters is to explore parameter-regime dependence of the defects accumulation and SIA/V-GB interaction pictures. The other defect-GB interaction parameters were obtained from MS calculations.For a large $L$ ,it is hard to reach several dpa in a three-dimensional (3D) GB model due to the large number of objects included in the model. The two-dimensional (2D) GB models were thus also built, while in 3D models $L$ was only given $1 0 \\mathrm { n m }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.Framework ofthe predictor-corrector method for simulating displacement damage accumulation and structural relaxation in NC-Fe ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The proposed predictor-corrector method combines the MS, OKMC and MD,as ilustrated in Fig. 1(b). The MS was adopted to parameterize a set of unit processes/events. In addition to the defect production, the fundamental atomic processes include diffusion of the $\\mathrm { V _ { n } / S I A _ { n } } .$ ，annihilation of the $\\mathrm { V _ { n 1 } } { - } \\mathrm { S I A _ { n 2 } }$ , clustering of the $\\mathrm { V _ { n } / S I A _ { n } }$ ， dissolution of the $\\mathrm { V _ { n } / S I A _ { n } }$ in the bulk, near the GB and within the GB,and emission of the $\\mathrm { \\Delta V _ { n } / S I A _ { n } }$ from the GB.These basic processes drive the microstructure evolution from one basin to another. Since all the unit processes about the behavior of a single $\\mathrm { V _ { n } / S I A _ { n } }$ or $\\mathrm { { V _ { n } } \\mathrm { { - S I A _ { n } } } }$ interaction near the GB known have been incorporated into the model, it is expected that the model is accurate enough to describe the structural evolution as the radiation dose is lower than a certain level. The OKMC model at this stage gives the $\\mathrm { S I A _ { n } / V _ { n } }$ distribution and concentration with radiation dose, as illustrated in Fig. 1(b) by the curve of $C _ { S I A , V } { \\sim } d o s e$ . The OKMC modeling method based on MS-characterized basic processes during this stage was termed as the predictor. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The next step is the corrector. The curve $C _ { S I A , V } { \\sim } d o s e$ was sampled to obtain the corresponding defects distribution at a specific radiation dose and at an elevated temperature. The atomic model with reproduced defect structure at a radiation dose was relaxed by using MD at a certain temperature. And then, the defects properties of the model were calculated by the MS. After the procedure, the $C _ { S I A , V }$ dependent $E _ { G B }$ and SIA/V-GB interactions were obtained, as illustrated by the curve of $E _ { G B } \\sim C _ { S I A , V }$ (Fig. 1(b)). Once new atomic process was found, the process was again incorporated into the OKMC model to correct the initial OKMC prediction of the microstructure evolution based on the new set of unit processes of the $\\mathrm { V _ { n } / S I A _ { n } }$ . In principle, the prediction-corrction procedure is repeated.The details of the predictor-corrector method are described as follows. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2.1.MS calculation of the V/SIA properties near the GB ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MS was used to calculate fundamental interaction parameters of the $\\mathrm { S I A _ { n } / V _ { n } }$ with the GB, including V/SIA formation energy ( $\\cdot \\ : E _ { V / S L A } ^ { f }$ ） [], V/SIA-GB binding energy, V/SIA diffusion energy barriers near the GB and within the GB, V-V/SIA-SIA binding energy within the GB.Results for £5(310)/[001]are summarized in supplementary Fig.S5. Based on the defects formation energy, the stable configurations of the defects at the GB were meanwhile found; the V/SIA configurations at the other several GBs are shown in supplementary Fig. S6. Note that, the stability of the site for the V/SIA was also examined at $3 0 0 \\mathrm { K }$ by using MD. It is found that the site only for di-V/SIA obtained at $3 0 0 ~ \\mathrm { K }$ is slightly different to that at $0 \\mathrm { ~ K ~ }$ . The energy difference is less than $0 . 2 { \\mathrm { ~ e V } } .$ The V/SIA segregation energy, characterizing the energetic driving force for a V/SIA to segregate to the GB from the bulk, was defined as the reduction in the system energy as the defect migrates to the GB from the grain interior, which equals the bulk defect formation energy minus the defect formation energy at the GB.In some other references,the segregation energy is also termed as the V/SIA-GB binding energy. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The energy barrier for the V/SIA to overcome to be reemited from the GB $\\left( E _ { a } ^ { V E / I E } \\right)$ was also defined. The barrier equals the sum of the V/SIA diffusion energy barrier in the bulk and the V/SIA segregation energy. The time needed for te V/SIA emission from the GB $\\left( t _ { _ { V E / I E } } \\right)$ was calculated via $t _ { { _ { V E / I E } } } = \\nu _ { 0 } ^ { ~ - 1 } e ^ { E _ { a } ^ { V E / I E } / k B \\times T }$ ， where prefactor $\\nu _ { 0 } \\mathrm { w a s }$ given $1 0 ^ { 1 2 } / \\mathrm { s }$ ，Boltzmann constant $k _ { B }$ has a value of $8 . 5 1 7 { \\times } 1 0 ^ { - 5 } \\ \\mathrm { e V / K }$ ，and $T$ is the system temperature. To show whether the V/SIA tends to be clustered within the GB,the binding energy of the V-V/SIA-SIAat theGB ( $E _ { b } ^ { V - V / S I A - S I A } )$ was defined. $E _ { b } ^ { V - V / S I A - S L A }$ was calculaed by $E _ { b } ^ { V - V / S L A - S L A } = 2 E _ { V / S L A } ^ { f } - E _ { V _ { 2 } / S L A _ { 2 } } ^ { f }$ By this definition,a positive value of the binding energy means attraction between two Vs/SIAs,while a negative value indicates the repulsion between the two defects of the same type. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The standard nudged-elastic-band (NEB) method [38] was employed to calculate the V/SIA migration energy barriers near the GB and along the GB.As calculating the V/SIA migration along the GB, the GB was termed as a two-dimensional plane. Two non-equivalent migration paths were determined. To do this, the energy barriers along all the possible migration paths connected from the initial site to the other two nearest sites were calculated.For example, for the V diffusion from site A to B,the common nearest site C of sites A and B was firstly searched. The energy barriers along the paths A-B and A-C-B were then calculated; the path with the minimal energy barrer was chosen as the most kinetically favorable one in the direction from A to B.Similarly, the migration with low energy barrier on the other direction was calculated. The states that have been relaxed for calculating defects formation energy were employed as the possible initial and final states of a diffusion process.The dense images of 28 intermediate images were inserted between the initial and final states by using the linear interpolation method. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.2.2. Model assumption and parameters for the OKMC simulating V/SIA accumulation in NC Fe Based on the spherical approximation of an object (Fig.1(d-e)), the radius of an object of the $\\mathrm { { V _ { n } } / \\mathrm { { S I A _ { n } } } }$ was defined as follows: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 4 \\pi } { 3 } { \\mathrm R } ^ { 3 } = n \\frac { a _ { 0 } ^ { 3 } } { 2 } , r ( n ) = R + r s h e l l \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $a _ { 0 }$ is the lattice constant of $2 . 8 5 5 \\mathrm { ~ \\AA ~ }$ . As shown in Eq. 1, the radius of an object $\\mathbf { \\Psi } ( \\mathbf { r } ( \\mathbf { n } ) )$ includes two parts: the core part $R$ and the shell part rshell. Considering the large stress filed of the $\\mathrm { S I A _ { n } }$ in the bulk, rshell for a bulk $\\mathrm { S I A _ { n } }$ was given a larger value than that for the bulk $\\mathrm { V _ { n } }$ . By definition, the radius for a $\\mathrm { S I A _ { n } / V _ { n } }$ in the bulk and within the GB is given by Eqs. 2-5,as follows: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { r ( b u l k , V , n ) = 5 . 0 + a _ { 0 } \\times ( \\displaystyle \\frac { 3 \\pi } { 8 } ) ^ { 1 / 3 } \\times n ^ { 1 / 3 } , } } \\\\ { { { } } } \\\\ { { r ( b u l k , S I A , n ) = 7 . 5 + a _ { 0 } \\times ( \\displaystyle \\frac { 3 \\pi } { 8 } ) ^ { 1 / 3 } \\times n ^ { 1 / 3 } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ( G B , V , n ) = 5 . 0 + a _ { 0 } \\times ( \\frac { 3 \\pi } { 8 } ) ^ { 1 / 3 } \\times n ^ { 1 / 3 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ( G B , S L A , n ) = 5 . 0 + a _ { 0 } \\times ( \\frac { 3 \\pi } { 8 } ) ^ { 1 / 3 } \\times n ^ { 1 / 3 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In Eqs. 2-5, the radius is in unit of $\\mathrm { \\AA }$ . Note that, only when the two defects are both in the bulk or both at the GB,the defects were viewed as spherical objects.As we treated the interaction of the $\\mathrm { V _ { n } }$ nearby the GB with the $\\mathrm { S I A _ { n } }$ at the GB, the $\\mathrm { S I A _ { n } }$ within the GB was given a limited radius such as $1 0 . 0 \\mathrm { ~ \\AA ~ }$ because of the localization of the SIA composing the $\\mathrm { S I A _ { n } }$ at the GB (Fig. 1(d). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the OKMC model for simulating cumulative irradiation damage in nano-crystal Fe, for a transition with an energy barrier of $E _ { m }$ ,the rate $r$ was calculated via $r = \\nu _ { \\mathrm { 0 } } \\exp [ - E _ { m } / ( k _ { B } T ) ]$ . The detailed procedure for calculating $r$ of different types of events is as follows. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a). Defect production ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For a given dose rate $\\tau$ and grain size $L$ ， the SIA/V production rate $\\left( r c W I \\right)$ was calculated by $r c V I = \\frac { V _ { m o d e l } } { V _ { a t o m } } \\times \\tau$ ,where thevolume of thecalculationcel $\\left( V _ { _ { m o d e l } } \\right)$ is $L ^ { 3 }$ and the volume of an atom $\\left( { \\cal V } _ { _ { a t o m } } \\right) \\mathrm { i s } { \\frac { a _ { 0 } ^ { 3 } } { 2 } }$ （20 Note that,ina 2DOKMCGBodel, $V _ { m o d e l }$ iä $L ^ { 2 }$ and $V _ { a t o m } \\mathrm { i s } { \\frac { a _ { 0 } ^ { 2 } } { 2 } }$ . As the defect productioeventsose during the implementation of the OKMC program,a pair of $\\mathrm { v }$ and SIA was placed randomly in the calculation cell. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(b). Diffusion of the $\\mathrm { V _ { n } / S I A _ { n } }$ in the bulk, near the GB and within the GB ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Within the three regions, the $\\mathrm { V _ { n } / S I A _ { n } }$ migrates over half the lattice constant each time in one direction Diffusion of the $\\mathrm { V _ { n } / S I A _ { n } }$ in the bulk was set to be 3D random walk. Only the small $\\mathrm { V _ { n } }$ with $n$ less than 5 was set to be possibly mobile at an elevated temperature (at a high temperature, such simplification may be insufficient to correctly predict the microstructure evolution).The energy barrier for the small $\\mathrm { { V _ { n } } / \\mathrm { { S I A _ { n } } } }$ diffusion in the bulk was from Ref.[]. Considering higher mobility of the $\\mathrm { S I A _ { n } }$ than the $\\mathrm { V _ { n } }$ ,only $\\mathrm { S I A _ { n } }$ with $n$ （204号 larger than 1O was set to be immobile,while the barrier for the $\\mathrm { S I A _ { n } }$ （ $3 { < } n { < } 1 0 _ { \\cdot }$ ） diffusion was set to be that for $\\mathrm { S I A } _ { 3 }$ (the size limit set here for the mobile $\\mathrm { V _ { n } / S I A _ { n } }$ ensures the preferential absorption of the $\\mathrm { S I A _ { n } }$ by the ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "GB over the $\\mathrm { V _ { n } }$ ). The diffusion energy barriers for the bulk $\\mathrm { S I A _ { n } / V _ { n } }$ are summarized in supplementary Table S2. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The physical picture for the $\\mathrm { V _ { n } / S I A _ { n } }$ behavior near the GB considered in the OKMC model includes GB-enhanced diffusion of the $\\mathrm { V _ { n } / S I A _ { n } }$ nearby. Diffusion of a $\\mathrm { V _ { n } / S I A _ { n } }$ near the GB was considered to be one-dimensional walk. Only the $\\mathrm { V _ { n } }$ with $n$ less than 5 was considered to be possibly trapped by the GB (such approximation may not hold true at a high temperature,as proofed by the absorption of defects clusters by the GB in experiments []). The energy barrier for the GB trapping of the $\\mathrm { V _ { n } }$ was set to be a half of the barrier for the $\\mathrm { V _ { n } }$ diffusion in the bulk given the accelerated diffusion of the $\\mathrm { V _ { n } }$ by the GB []. Since the $\\mathrm { S I A _ { n } }$ near the GB was spontaneously trapped by the GB, the energy barrier for the $\\mathrm { S I A _ { n } }$ migration near the GB was set to be zero. The energy barriers for the $\\mathrm { S I A _ { n } / V _ { n } }$ migration near the GB are shown in supplementary Table S2. The up limit of $n$ was set 5Oo. The trapping radius of the GB for the $\\mathrm { V _ { n } }$ and $\\mathrm { S I A _ { n } }$ was set to be 5 and $1 0 \\mathrm { ~ \\AA ~ }$ ， respectively. To execute the trapping of a $\\mathrm { \\Delta V _ { n } / S I A _ { n } }$ by the GB, the $\\mathrm { V _ { n } / S I A _ { n } }$ was put at the GB plane. In the present square-shaped model, there are three GB planes. The plane with the shortest distance from the $\\mathrm { { V _ { n } } / \\mathrm { { S I A _ { n } } } }$ traps the $\\mathrm { V _ { n } / S I A _ { n } }$ . The simplified picture is illustrated in Fig. 1(d) and (f). Diffusion of the $\\mathrm { { V _ { n } } / \\mathrm { { S I A _ { n } } } }$ within the GB was modeled to be 2D; only the single V/SIA was considered to be mobile within the GB (Fig. 1(e)). The energy barriers for the $\\mathrm { V _ { n } / S I A _ { n } }$ migration on the two nonequivalent directions within the GB are shown in supplementary Tables S3 and S4. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(c). Annihilation of the $\\mathrm { V } _ { \\mathrm { n } 1 } { - } \\mathrm { S I A } _ { \\mathrm { n } 2 }$ in the bulk, near the GB and within the GB ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "As both the $\\mathrm { \\Delta V _ { n l } }$ and $\\mathrm { S I A } _ { \\mathrm { n 2 } }$ are located in the bulk or within the GB,the energy barrier for the annihilation of the $\\mathrm { \\Delta V _ { n 1 } }$ with $\\mathrm { S I A } _ { \\mathrm { n 2 } }$ was set to be zero.For the annihilation of the $\\mathrm { \\Delta V _ { n 1 } }$ near the GB with the $\\mathrm { S I A } _ { \\mathrm { n 2 } }$ at the GB (Fig. l(f)),the considered annihilation mechanisms include the annihilation induced by the SIA-emission $[ ]$ and the V-hop $[ ]$ . Given the results of MS calculations that reveal the formation of the spontaneous annihilation region surrounding the $\\mathrm { S I A _ { n } }$ at the GB $[ ]$ , the radius of such region was set to be 5 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A. Out of the region,the energy barrier for the recombination varies lineally with the distance of the $\\mathrm { \\Delta V _ { n l } }$ from the border of the annihilation region; the barrier converges to the value for the $\\mathrm { \\Delta V _ { n 1 } }$ migration in the bulk.The approximation picture is illustrated in Fig.1(f). After annihilation, the defect with a larger size survives with the reduced size of $\\left| n 1 - n 2 \\right|$ ： ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(d). Clustering of the $\\mathrm { V _ { n } / S I A _ { n } }$ in the bulk and within the GB ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The energy barrier for the $\\mathrm { \\Delta V }$ clustering in the bulk was set to be half that for the single V migration in the bulk. Only the cluster $\\mathrm { V _ { n } }$ with $n$ less than 5 was allowed to be trapped by another $\\mathrm { V _ { n } }$ . Considering the high mobility of the SIA,the energy barrier for the SIA clustering in the bulk was set to be zero. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For the SIA/V clustering within the GB,the energy barrier was set to be the half of the minimal barrier for the V/SIA migration along the GB if the binding energy of the V-V/SIA-SIA is positive; otherwise, the barrier for the clustering was assigned to be the V/SIA migration energy barrier along the GB minus the V-V/SIA-SIA binding energy. Only the single V/SIA was alowed to be trapped by another cluster. The binding energies are given in supplementary Tables S5 and S6. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(e). Dissolution of the $\\mathrm { V _ { n } / S I A _ { n } }$ in the bulk and within the GB ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Each time,only one V/SIA was dissolved from the $\\mathrm { V _ { n } / S I A _ { n } }$ . The energy barrier for the V/SIA dissolution from a $\\mathrm { V _ { n } / S I A _ { n } }$ in the bulk and within the GB was set to be the sum of the migration energy barrier for the single V/SIA and the binding energy of the $\\mathrm { V { - } V _ { n } / S I A { - } S I A _ { n } \\ i n }$ the corresponding region. Only small clusters with $n$ less than 4 were allowed to be dissolved. To execute the V/SIA dissolution from a $\\mathrm { \\Delta V _ { n } / S I A _ { n } }$ ,a V/SIA composing the $\\mathrm { V _ { n } / S I A _ { n } }$ was put at a site that is $d$ away from the $\\mathrm { V _ { n } / S I A _ { n } }$ ；distance $d$ is the sum of radius of the $\\mathrm { V _ { n - 1 } / S I A _ { n - 1 } }$ and that for the V/SIA plus $1 0 \\textup { \\AA }$ to avoid the re-trapping of the V/SIA by the $\\mathrm { \\Delta V _ { n } / S I A _ { n } }$ in the next OKMC step. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(f).Emission of the $\\mathrm { V _ { n } / S I A _ { n } }$ from the GB ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The energy barrier for the $\\mathrm { V _ { n } / S I A _ { n } }$ emission from the GB is the sum of the $\\mathrm { V _ { n } / S I A _ { n } }$ segregation energy and the $\\mathrm { V _ { n } / S I A _ { n } }$ migration energy barrier in the bulk,as listed in supplementary Tables S7 and S8. Each time, only one of the V/SIA of the $\\mathrm { V _ { n } / S I A _ { n } }$ was emitted from the GB. During executing the emission event, the emitted V/SIA was put the bulk site that is $d$ away from the GB. To avoid the subsequent frequent re-trapping of the V/SIA by the GB, the distance $d$ was set to be the GB trapping radius for the V/SIA plus 5 A. Note that the emission described here is diffrent to the SIA-emission that induces the annihilation of the V nearby $[ ]$ ,which is the atomic detail for the V-SIA annihilation near the GB. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We found that, as all the atomic processes in the bulk, near the GB and along the GB were incorporated into the model, the long timescale or high radiation dose could not be accessed in some cases. The preferentially segregated SIA at the GB was observed to frequently migrate within the GB at high temperature,and consequently the V in the bulk region nearly remained immobile. In these cases,the difusion of the V/SIA along the GB was inhibited. In the one hand,such picture corresponds to the GB with large V/SIA diffusion energy barrier along the GB.In the other hand, in the case of the very smallbarrier for the V/SIA along the GB,such assumption implies that the SIA quickly adjusted its position during the occurrence of other events. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.2.3.Details for MD simulating GB thermodynamics under different levels of V/SIA concentration With the defects distribution in hand, the structure and energetics of the GB under different levels of V/SIA concentration were investigated. After loading a certain number of the V/SIA into the GB,the system was firstly relaxed at $0 \\mathrm { ~ K ~ }$ by using the steepest descent method, followed by the MD relaxation at $3 0 0 ~ \\mathrm { K }$ After the relaxation, the $E _ { G B }$ and corresponding structure with a certain V/SIA concentration were obtained. To obtain the statistical results of the GB structure and $E _ { { \\scriptscriptstyle G B } }$ , 10 distinct MD simulations were performed. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "To access more discrete V/SIA concentration values at the GB,the number of the structural unit in the two directions paralll to the GB varies. Depending on the size of the minimal structural unit of a GB,the number lies in the range 2-5. In addition,diffrent SIA loaded styles were considered given the short time scale of MD and the resulted possibly metastable state of the GB with the loaded defects. In Stylel (Fig. 1(g)), the site for the single SIA/V occupation within the GB is first found based on the calculation of the energetic property of the SIA/V near the GB. Then, a certain number of SIAs/Vs are put at these sites to produce the required SIA/V concentration. It could expect that such style would generate a defect structure close to the stable state under a low dose. In Style2 (Fig. 1(h))，the SIA/V is put near the GB one at a time, followed by the MD relaxation at a certain temperature, e.g. $3 0 0 ~ \\mathrm { K }$ . The sequentially added SIAs/Vs are finally trapped at the GB. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "To characterize the GB structure with different concentrations of defects, some other more effective methods were developed in addition to the $E _ { G B }$ and the visualization method. Because, the GB was found to develop to many rather different local structures under accumulated radiation damage, while $E _ { G B }$ measuring the stability of the whole GB structure, is insensitive to the local GB structure. Based on the $\\mathrm { v }$ formation energy near the GB with a certain SIA concentration at the GB( $\\left( C _ { S L A } ^ { G B } \\right)$ ，we calculated the cumulative distribution function of the defects energy level and the density of a specific energy level. The distribution function and density were found to be sensitive to the distinct local GB structures. For a given GB with a certain concentration of SIAs, the $\\mathrm { \\Delta V }$ formation energy at the sites within the range with a radius of $1 0 \\textup { \\AA }$ was calculated. Results suggest that, such width of the range is large enough for covering the region affected by the GB.The defects energy level cumulative distribution function $\\big ( C ( E _ { V } ^ { f } ) \\big )$ is calculated as ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ( E _ { \\nu } ^ { f } ) = \\frac { \\displaystyle \\sum _ { i } N _ { i } ( E _ { \\nu i } ^ { f } \\le E _ { \\nu } ^ { f } ) } { N _ { t o t } } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { i }$ is the number of sites with $E _ { \\scriptscriptstyle { V i } } ^ { f }$ less than $E _ { \\scriptscriptstyle V } ^ { { f } }$ ,and $N _ { t o t }$ is the total number of sites in the calculation region. $\\mathrm { C } ( E _ { \\scriptscriptstyle V } ^ { f } )$ could give the cumulative probability of the $\\mathrm { v }$ with a certain energy level $\\left( E _ { V } ^ { f } \\right)$ . Generally the V near the GB has multiple discrete levels of the formation energy near the GB $[ ]$ ，which makes the occurrence of the terrace on the $\\mathrm { C } ( E _ { \\scriptscriptstyle V } ^ { f } )$ curve. The $E _ { \\scriptscriptstyle V } ^ { f }$ of the end point of the terrace defines the $\\mathrm { v }$ energy level. Note that,since only the sites near the GB are underlined,the sites in Eq.6 are restricted to ones with $E _ { \\nu i } ^ { f }$ less than the bulk $\\mathrm { v }$ formation energy a certain value,e.g. $0 . 3 \\ \\mathrm { e V } .$ Otherwise,the bulk sites take a too large fraction of the calculated region to effectively analyze the evolution of the site property (trapping or ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "annihilation) with radiation dose. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "According to the physical meaning of the $E _ { \\scriptscriptstyle V } ^ { f }$ (e.g. a negative value of $\\cdot { E } _ { \\scriptscriptstyle V } ^ { f }$ often indicates the instability of the site and the spontaneous annihilation of the $\\mathrm { \\Delta V }$ with the SIA []), the $\\mathrm { C } ( E _ { \\scriptscriptstyle V } ^ { f } )$ was further divided into several regimes. The site density within a specific regime $\\left( C _ { r e g } \\right)$ was calculated as ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { r e g } = N _ { t o t } \\times [ C ( E _ { V j } ^ { f } ) - C ( E _ { V i } ^ { f } ) ] / S _ { G B } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { \\scriptscriptstyle V i } ^ { f }$ and $E _ { V j } ^ { f }$ are the lower and upper limits of the $E _ { \\scriptscriptstyle V } ^ { { f } }$ in the regime,and $S _ { G B }$ is the GB area. The density could give the information on the relative importance of a certain atomic process. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.1. OKMC simulations of microstructure evolution near $2 5 ( 3 \\ : I \\ : 0 ) / / 0 \\ : 0$ 1]under cumulative irradiation ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "With the fundamental interaction parameters of the SIA/V with the GB of $\\Sigma 5 ( 3 ~ 1 ~ 0 ) / [ 0 ~ 0 ~ 1 ]$ (as summarized in supplementary Fig.S5） in hand, OKMC simulations were firstly performed to explore defects behavior in the GB system under cumulative irradiation. The parameters $L , T$ and $\\tau$ are varied. To characterize the evolution in the microstructure driven by the defects accumulation in the system， we calculated the defects concentration and distribution near the GB and at the GB,as well as their variation with radiation dose. For the $L$ of $1 0 \\ \\mathrm { n m }$ , results are mainly presented in Fig. 2,while results for other cases are shown in supplementary Figs. S7 and S8.We found that defects accumulation behavior depends on the parameter regimes of ${ L - } T { - } \\tau$ space,as illustrated in Fig. 2(j) for the defects concentration level in different parameters regimes. Apparently, in most of cases the SIA concentration in the bulk ( $\\cdot ( C _ { S L A } ^ { b u l k } )$ is lower than the bulk V concentration $\\big ( C _ { V } ^ { b u l k } \\big )$ ； it is in agreement with the atomic calculation predicting the preferential segregation of the SIA to the GB over the V []. Particularly, in a system with a small $L$ ,e.g. $1 0 \\ \\mathrm { n m }$ ，the extremely small value of $C _ { S L A } ^ { b u l k }$ was observed, indicating that no SIAs survive in the bulk under such condition. It may be due to the too small value of $L$ for the SIA to aggregate to large stable $\\mathrm { S I A _ { n } s }$ .Such phenomenon weakly depends on $T$ and $\\tau$ possibly because of the very low diffusion energy barrier of the SIA near the GB. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In contrast, $T$ and $\\tau$ significantly affects $\\mathrm { v }$ accumulation near the GB. At a high $T$ and/or low $\\tau$ ,the system has a low $C _ { V } ^ { b u l k }$ . Especially, as $L$ is smaller than $1 0 0 ~ \\mathrm { { n m } }$ ， $T$ is higher than a certain level e.g. $3 0 0 ~ \\mathrm { K }$ and $\\tau$ s lower than a level e.g. $1 0 ^ { - 5 } \\mathrm { { d p a } \\cdot \\mathrm { { s } ^ { - 1 } } }$ , there is nearly no $\\mathrm { v }$ surviving near the GB, as suggested by the quite low level of $C _ { V } ^ { b u l k }$ . This is in agreement with the expectation that the GB system with a small $L$ should well self-heal the radiation damage subjected to under a certain kinetic condition. It could be attributed to the enhanced diffusion/annihilation of the $\\mathrm { ~ V ~ } [ ]$ and reduced formation probability of immobile $\\mathrm { V _ { n } }$ near the GB in the corresponding parameter regime. It also implies that the radiation resistance of NC Fe in the regime could be explained based on the fundamental SIA/V segregation and annihilation processes included in the OKMC model (Fig. 1(b)). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Besides these observations consistent with our intuition, we however also observed exceptional results. In a certain regime of the ${ L - } T { - } \\tau$ e.g. a low $T$ and high $\\tau , C _ { V } ^ { b u l k }$ increases with radiation dose, even if when $L$ is as small as $1 0 \\mathrm { n m }$ (Fig. 2(a-c)); it implies that the $\\mathrm { v }$ accumulates in the bulk with radiation in the considered parameter regime. Meanwhile, SIAs accumulate at the GB, as indicated by the increase in $C _ { S L A } ^ { G B }$ with dose (Fig. 2(e-g)). Besides, further examination of the defect distribution near the GB (Fig. $2 ( \\mathrm { k - n } )$ and supplementary Fig. S8) suggests that after a certain dose, the $C _ { V } ^ { b u l k }$ reaches a peak in the bulk region quite near the region with a very low $C _ { V } ^ { b u l k }$ in the vicinity of the GB; $C _ { V } ^ { b u l k }$ also decreases with the increase in the V distance to the GB due to the periodical property of the OKMC model. These results suggest that the OKMC model containing annihilation and segregation processes of the SIA/V predicts the accumulation of radiation damage in the bulk region near the GB and at the GB, which seems to contract the self-healing property of the smal-sized GB system with low-energy barriers for the V/SIA diffusion and annihilation nearby[]. Then, we are naturally faced with the following issues: whether both $C _ { V } ^ { b u l k }$ and $C _ { S L A } ^ { G B }$ would continue to increase as radiation proceeds and how the accumulated defects modify the GB structure and consequently affect the SIA/V behavior near the damaged GB (Fig. $2 ( \\mathrm { k - n } ) ,$ . If the trend of $C _ { V } ^ { b u l k }$ and $C _ { S L A } ^ { G B }$ fails to increase after a critical dose, it requires the clarification of new atomic processes or mechanisms occuring, which have to be incorporated into the OKMC model to correctly predict the radiation damage accumulation in NC Fe together with the ones in Fig. 1(b). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3.2. MD simulations of the structural relaxation of the GB £5(3 1 0)/[0 0 1] with accumulated defects ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "To answer the questions raised above,we sampled the OKMC-calculated $C _ { S U V } ^ { b u l k } / C _ { S U / V } ^ { G B }$ -dose curve (Fig. 4(a-d))and revisited to the defects accumulation and structural relaxation mechanisms near the GB on the atomic scale by using MD. We concentrated on the regime of the ${ L - } T { - } \\tau$ parameter space where the radiation damage could not be well healed as predicted by initial OKMC simulation results (Fig. 2). Although the OKMC simulations reveal that Vs accumulate near the GB and SIAs aggregate at the GB,firstly only SIAs were contained in the atomic models at the GB to explore how the GB relaxes after it absorbs defects.To do this,a certain number of SIAs were loaded into the GB by using the method as described in section 2.2.3; the relation of the $C _ { S L A } ^ { G B }$ to radiation dose and ${ L - } T { - } \\tau$ could be obtained by referring to $_ { A I }$ in Fig. 2(e). The GB with SIAs was relaxed sequentially at O and $3 0 0 \\mathrm { K }$ . The $E _ { G B }$ was then calculated. By analyzing the change in $E _ { G B }$ and the corresponding GB structural variation process，we revealed the GB structural response to cumulative irradiation. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Figure 3(a) shows the $E _ { G B }$ profile as a function of $C _ { S L A } ^ { G B }$ . The profile could be divided into three stages with different features of the $E _ { G B }$ changes with $C _ { S L A } ^ { G B }$ . From $C _ { \\theta }$ to about $C _ { c }$ ，the $E _ { G B }$ nearly increases linearly with $C _ { S I A } ^ { G B }$ , as reported in Ref. $[ ]$ for one Fe GB of $\\Sigma 1 7 ( 5 3 0 ) / [ 0 0 1 ]$ . Such tendency could be derived from the definitions of the $E _ { G B } , E _ { f } ^ { S I A }$ and $E _ { b } ^ { S I A - S I A }$ (supplementary text S1).For the isolated SIAs at the GB in the case of a low $C _ { S I A } ^ { G B }$ produced by a low dose irradiation, the slope of the curve only depends on the $E _ { f } ^ { S I A }$ at the GB. Yet, with more SIAs introduced into the GB, $C _ { S L A } ^ { G B }$ is over than the level of $C _ { S L A l } ^ { G B ^ { * } }$ (Fig. 3(a)), the growth in $E _ { G B }$ （20 slows down, as shown in Fig. 3(a) from $C _ { c }$ to $C _ { e }$ . During this growth stage from $C _ { \\theta }$ to $C _ { e }$ ，a noticeable change in $E _ { G B }$ was observed. The increase in $E _ { G B }$ due to the SIA accumulation at the GB could be readily understood based on the contribution of the defect formation to $E _ { G B }$ .However,as $C _ { S L A } ^ { G B }$ increases to a certain level ( $C _ { S L A 2 } ^ { G B ^ { * } }$ in Fig. 3(a)), the $E _ { G B }$ no longer increases but exhibits a drop trend with the increasing in the $C _ { S I A } ^ { G B }$ ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The decrease trend holds from $C _ { e }$ to $C _ { g }$ . The different dependence of $E _ { G B }$ on the $C _ { S I A } ^ { G B }$ from $C _ { d }$ to $C _ { g }$ to that from $C _ { \\theta }$ to $C _ { d }$ was termed as the SIA overloaded effect. Of course, the overloaded SIAs at the GB would also affect the GB structural transition and the subsequent defect-GB interactions. After $C _ { g } ,$ the $E _ { G B }$ seems to increase and decrease periodically (\"Cycle1” and“Cycle2” in Fig. 3(a)), although it changes smaller than that from $C _ { \\theta }$ to $C _ { g }$ (\"Cycle0” in Fig. 3(a)). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "To reveal the GB structural evolution and corresponding relaxation mechanism during the different （204号 $E _ { G B } \\sim C _ { S L A } ^ { G B }$ stages in Fig. 3(a), we examined the relaxed GB structure after each loading of the SIAs into the GB with focus on the effect of the overloaded SIAs on the GB structure. Several typical GB structures with different levels of $C _ { S I A } ^ { G B }$ are shown in Fig. 3(b-j). We found that, from $C _ { \\theta }$ to $C _ { c }$ ， the GB containing a low concentration of SIAs remains its basic structure (Fig. 3(b) and (c) as a pure one without defects (supplementary Fig.S4(b); in other words, the structural unit along the GB is not modified by the absorbed SIAs. Meanwhile,the loaded SIAs also maintain their identity at the GB,as shown in Fig. 3(b) and (c) by thered spheres with high potential energies.The structural observation here is consistent with the linear dependence of $E _ { G B }$ on $C _ { S L A } ^ { G B }$ (from $C _ { \\theta }$ to $C _ { c }$ in Fig. 3(a)), as predicted by the supplementary text S1 on the theoretical derivation of the relation of the $E _ { { \\scriptscriptstyle G B } }$ to $C _ { S I A } ^ { G B }$ . It also implies that, in this SIA concentration range or corresponding dose range,the OKMC modeling results (Fig. 2） are corrct due to the fidelity of the important SIA-induced annihilation process incorporated into the OKMC model. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Nevertheless, from $C _ { d }$ to $C _ { e }$ 。parts of the loaded SIAs were found to disappear after the GB relaxation. Particularly, the new GB structure was formed as more SIAs were introduced into the GB (Fig. 3(e). The structure with the $E _ { G B }$ of $1 . 3 5 \\ \\mathrm { J } { \\cdot } \\mathrm { m } ^ { - 2 }$ is obviously different to that for the pure GB with the $E _ { G B }$ of $0 . 9 8 \\ \\mathrm { J } { \\cdot } \\mathrm { m } ^ { - 2 }$ The atom separation distance in the new GB system also exhibits unique quasi-continuous distribution compared to the discrete distribution in a pure GB (inset figure in Fig.3(e). In the later section, we wil show the new GB structure has its special defects properties. In some cases of MD simulations,we also observed the formation of the other new GB structures induced by the introduced SIAs (supplementary Fig. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "S9(a) and (b)). Similar formation of the new GB phases induced by the defects accumulation at the GB has been reported in several face-centered cubic (fcc) GB systems $[ ]$ . Therefore, the interaction among excess SIAs and the new phase formation could give rise to the reduced growth rate in $E _ { G B }$ from $C _ { d }$ t0 $C _ { e }$ (Fig. 3(a); the attraction between SIAs and the transition of the loaded SIAs to components of the GB release the system energy. From $C _ { e }$ to $C _ { g } ,$ the GB gradually recovers to its original structure, accompanied by the migration of the local GB parts (Fig. 3(f)). More specifically, some Vs in the form of V-SIA-V complexes appear near the sites of the lost SIAs at the GB.Finally,the SIAs and Vs coexist at the GB.The recovery of the GB structure via the GB migration and V formation could thus lead to the decrease trend of the $E _ { G B }$ with $C _ { S L A } ^ { G B }$ from $C _ { e }$ t0 $C _ { g }$ in Fig. 3(a). The $C _ { S L A } ^ { G B }$ -dependent GB structural relaxation behavior suggests that it requires different OKMC modeling schemes before and after the critical radiation dose. For example, as $C _ { s l A 1 } ^ { G B ^ { * } } = 2 . 5$ $\\mathrm { n m } ^ { - 2 }$ (Fig. 3(a)), we could obtain the critical dose of about 0.75 dpa for a given radiation condition of $L { = } 1 0$ （204号 nm, $\\scriptstyle { T = 3 0 0 \\mathrm { K } }$ ,and $\\tau { = } 1 0 ^ { - 2 } \\ \\mathrm { d p a { \\cdot } s ^ { - 1 } }$ (Fig. 2(g)).   \nSince from $C _ { \\theta }$ to $C _ { g }$ ，the SIA accumulates at the GB, followed by the GB relaxation and recovery, the period from $C _ { \\theta }$ to $C _ { g }$ could considered as a cycle, as marked by CycleO in Fig. 3(a). As the GB in Fig. 3(g) containing a certain concentration of Vs and SIAs is selected as the starting structure for absorbing the subsequent SIAs,it could expect the similar behavior of the GB to that in Cycle0.For instance,we observed the formation of new GB phases,although it is not so frequent due to the existence of the Vs. We more frequently observed SIA-V transition during the GB relaxation and also found the enhanced GB mobility. Therefore,as the GB continuously absorbs SIAs, new atomic process occurs; the overloaded SIAs could not only affect $E _ { G B }$ variation trend but also modify the GB structure. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "3.3. SIA-V transition process near $2 5 ( 3 \\ I \\ O ) / / 0 \\ O \\ I J$ ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "To reveal the transition process for the SIA to the $\\mathrm { v }$ and the underlying physical reason, we analyzed the atom displacements field near the GB during the structural relaxation. Fig. 4 shows the atom displacements of the GB of $\\Sigma 5 ( 3 \\ 1 \\ 0 ) / [ 0 \\ 0 \\ 1 ]$ with a certain concentration of the SIA at $3 0 0 ~ \\mathrm { K }$ for 50 ps relative to the initial GB state. As the SIA was put near the GB in Style2 (Fig.1(h)), the atom displacement was induced by both the SIA segregation and GB relaxation. Furthermore,the atom displacement due to the formation of new GB phases (Fig. 3(e))relative to a pure GB is also involved in the transition.The atom that are aligned in one column near the GB in the final state are however not well aligned in the initial state,e.g. atoms in columns $C$ and $D$ (Fig. 4(b)). Consequently, the displacement field is complex (Fig. 4(a). Yet, we still could observe that it lacks one atom in column $_ { G I }$ in the final state, forming a V at the GB; meanwhile, in the initial state the atoms or SIAs are not fully occupied in one column (Fig. 4(c)). We speculated that the overloaded SIAs at the GB occupied one atom column after transition,forming regular atom columns but with a certain number of Vs due to the incomplete occupation of the atoms in the column. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Such picture was further validated in another simple model where SIAs were loaded into the GB via Stylel (Fig.l(g)); the SIAs were intentionally put at the SIA site at the GB to avoid the coupling of the displacement fields of the SIA segregation and that for the SIA-V transition. After comparing the GB position before and after relaxation, we found that the GB migrated to the nearest state (Fig. 4(d)). Besides, the displacement fields near the GB core are significantly different from that far from the GB.Some regular displacement patterns correspond to the intrinsic motion of the atoms during the GB migration, while others were induced by the transition from the SIA to V.Fig.4(e) shows the corresponding atoms in the initial and final states. The above transition picture was confirmed, as illustrated in Fig. 4(f). The $\\mathrm { S I A _ { i } }$ in a GB structure unit was initially aligned along the tilt axis.The number of defects locations along the tilt axis in a computational cel is $N .$ As the number of SIAs $i$ approaches to $N _ { \\ast }$ ，the GB structure was transformed to the structure with a $\\mathrm { V _ { j } } \\left( j \\mathrm { = } N { - } i \\right)$ after tens of ps at $3 0 0 \\mathrm { K }$ . Meanwhile, the $j$ atoms on the opposite GB side move to the GB plane and become the $\\mathrm { S I A _ { j } }$ ， leaving a $\\mathrm { V _ { j } }$ behind. The structure of a $\\mathrm { V _ { j } { \\mathrm { - } S I A _ { j } { \\mathrm { - } } V _ { j } } }$ forms (the MS calculation suggests that the energy of the GB with a V-SIA-V complex is about $0 . 1 \\ \\mathrm { e V }$ lower than that for the GB with a V). As for the transition from a new GB phase (Fig. 3(e)), it could be considered as transition of the atoms in Fig. 4(d) and (e) with extra displacements related to the new GB phase. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The energetic driving force for the SIA-V transition was then analyzed. In supplementary text S1, we have derived the relation of the GB energy variation $\\left( \\Delta E _ { _ { G B } } \\right)$ to the defects formation energy $( E _ { S U U V f } ^ { G B } )$ and the defects concentration $( c )$ at the GB approximately as $\\Delta E _ { _ { G B } } = E _ { _ { S L A / V f } } ^ { { G B } } \\times C$ . Therefore,the two factors of $E _ { S U / V f } ^ { G B }$ and （204号 $C$ influence $\\Delta E _ { { \\scriptscriptstyle G B } }$ and further affect the transition process. As shown in supplementary Fig. S5, $E _ { S L A f } ^ { G B }$ is lower than $E _ { V f } ^ { G B }$ , implying that it is energetically unfavorable for the SIA to transit to the V. Only when the excess SIAs are transited to the minority of Vs could $\\Delta E _ { { \\scriptscriptstyle G B } }$ be greatly reduced during the transition. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3.4. Evolution in the GB's role for Vs under cumulative damage ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "OKMC simulations in Fig.2 and supplementary Figs. S7 and S8 suggest that at a specific radiation condition the V mainly survives near the GB.Meanwhile,Figs. 3 and 4 show the variation in $E _ { G B }$ and GB structural evolution during the cumulative irradiation. Thus, it is of meaning to explore the corresponding variation of the GB's role as a sink for the V during the cumulative radiation. Previously $[ ] ,$ , it has revealed that the GB mainly has two kinds of roles for the V either as the trapping center for the $\\mathrm { v }$ or as the catalyst for the V-SIA annihilation, closely related to the sign and magnitude of $\\cdot { E } _ { \\scriptscriptstyle V } ^ { f }$ . To reveal the evolution in the GB's role for Vs under accumulated radiation damage, we calculated the $E _ { V } ^ { f }$ near the GB with different concentration of SIAs as well as the cumulative distribution function of the $E _ { V } ^ { f } { \\left( C ( E _ { V } ^ { f } ) \\right) }$ . As shown in Fig. 5(a)，the GBs with several levels of $C _ { S L A } ^ { G B }$ (atomic structures in Fig. $3 ( \\mathrm { b - j } ) )$ ）have characteristic $C ( E _ { V } ^ { f } )$ ： Depending on the level of the $C _ { S I A } ^ { G B }$ ，the $C ( E _ { V } ^ { f } )$ for these GBs could be divided into three categories. The pure GB (supplementary Fig. S4(b)） only has $E _ { V } ^ { f }$ distribution in the regime of the large positive $E _ { \\scriptscriptstyle V } ^ { f } \\big ( \\big [ \\ : E _ { \\scriptscriptstyle V } ^ { f } , E _ { \\scriptscriptstyle V f } ^ { b u l k } \\ : \\big ] \\big )$ The GB in Fig. 3(e) has a quasi-continuous distribution of the $E _ { V } ^ { f }$ ， starting from zero point to the $E _ { V f } ^ { b u l k }$ ([0, $E _ { V f } ^ { b u l k } ] )$ . The GBs with the other levels of the $C _ { S L A } ^ { G B }$ have similar $C ( E _ { \\nu } ^ { f } )$ ，featured by the high contribution of large negative $E _ { \\scriptscriptstyle V } ^ { f }$ .Actually, the different features of the $C ( E _ { \\ V } ^ { f } )$ suggest the changes brought about by the accumulated SIAs at the GB related to the V-GB interaction in terms of the V-GB interaction nature and binding strength. Specifically, the sign of the $E _ { \\scriptscriptstyle V } ^ { f }$ is positive for the $\\mathrm { v }$ near a pure GB,and then the sigh becomes negative as for the GB loaded with a certain number of SIAs.However,above a critical value of the $C _ { S L A } ^ { G B }$ , the sign for most of sites is positive again. We also found that the V-GB binding strength is greatly enhanced, as manifested by the occurrence of small but positive $E _ { \\scriptscriptstyle V } ^ { { f } }$ on $C ( E _ { \\nu } ^ { f } )$ . This could arise from the enhanced effect in the new GB phase with a high atomic density and the binding of the $\\mathrm { v }$ to the $\\mathrm { v }$ transited from the SIA.The variation in the V-GB binding energy will affect the basic behavior of the V near the GB. Therefore, as the $C _ { S I A } ^ { G B }$ varies, the V-GB interaction nature would be modified; meanwhile, the GB's role for the V may dynamically change. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "To beter characterize evolution of the V-GB interaction, we further categorize the sites near the GB with different $C _ { S I A } ^ { G B }$ of SIAs based on the feature of the $C ( E _ { \\scriptscriptstyle V } ^ { f } )$ . Considering the physical meaning of $E _ { \\scriptscriptstyle V } ^ { f }$ ，the $C ( E _ { V } ^ { f } )$ was further divided into three groups $( R e g I , R e g 2$ , and Reg3 in Fig. 5). The Vs in each regime has a $E _ { V } ^ { f }$ within a certain range, which was considered as an general energy level for the V. In Regl, the $\\mathrm { \\Delta V }$ has clear energy levels of large positive value and smalldisplacement after relaxation of the GB with the V (Fig. 5(b)). It implies that after the bulk $\\mathrm { v }$ enters $R e g l$ , the system energy reduces but the V remains locally at the site.Therefore,the region could be considered as a trapping region for the bulk V.In Reg3,the Valso has a large magnitude of $E _ { V } ^ { f }$ , but the value is negative; the atom has a large displacement after relaxation of the system with a $\\mathrm { v }$ in the region (Fig. 5(b)). We have shown that it forms the spontaneous annihilation region near the trapped SIAs with such $E _ { \\scriptscriptstyle V } ^ { { f } }$ feature $[ ]$ . And thus, Reg3 could be defined as the recombination region. We also found additional feature of $E _ { V } ^ { f }$ that has a very small value close to zero in Reg2, e.g. the results for the $C _ { S I A } ^ { G B }$ of $C _ { e }$ in Fig. 5(a). It may be related to the locally disordered structure (Fig. 3(e)). ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "To further qualitatively describe the probabilistic V-GB interaction and its evolution with the $C _ { S L A } ^ { G B }$ ，we further introduced the concept of the density of the V energy level (characterized by $E _ { V } ^ { f }$ ) in the three regimes. Combining the physical meaning of each regimes and the density variation with the $C _ { S I A } ^ { G B }$ , we could obtain the evolution information of the GB's role for the V.Fig.5(c)) presents thecalculated density $\\big ( C _ { R e g I , R e g 2 , R e g 3 } ^ { } \\big )$ for each GB system loaded with diferent $C _ { S I A } ^ { G B }$ of SIAs. As can be seen from Fig. 5(c) $C _ { R e g I , R e g 2 , R e g 3 }$ varies remarkably with $C _ { S I A } ^ { G B }$ , suggesting that $C _ { R e g I , R e g 2 , R e g 3 }$ is more sensitive than $E _ { G B }$ (Fig. 3(a)) to the microstructure and ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "However, the accumulated SIAs at the GB have totally different effects on $C _ { R e g 1 }$ and $C _ { R e g 3 }$ given their individual trends (Fig.5(c)). Specifically, from $I$ t0 $P l , C _ { R e g 3 }$ increases with $C _ { S L A } ^ { G B }$ , implying a more important role of the GB in annihilating the $\\mathrm { \\Delta V }$ nearby as more SIAs accumulate at the GB due to the more contribution of the atomic processes related to annihilation e.g. $I E$ to alleviate the Vs near the GB with the SIAs aggregated at the GB.Such enhanced effect of the GB's role in annihilating defects could be readily understood based on the natural extension of the annihilation region near the multiple SIAs compared with the single SIA. Meanwhile, the reverse trend for $C _ { R e g I }$ with $C _ { S L A } ^ { G B }$ was observed within the same $C _ { S I A } ^ { G B }$ range, e.g. from $I 0$ to $S I$ within the first Cycle of Cycle0. It indicates that the GB's role as a trapping center for the $\\mathrm { v }$ becomes weakened. Exactly, parts of the trapping sites for the $\\mathrm { v }$ near a pure GB were changed to the annihilation sites near the GB with a low concentration of SIAs (Fig. 3(a-c)). The reason could be the instability of more sites near the GB induced by the more SIAs at the GB. Note that, for a smaller $E _ { b }$ (as described in the caption of Fig. 5), $C _ { R e g I }$ would increase with $C _ { S I A } ^ { G B }$ ， suggesting that the SIAs at the GB only slightly affect the stability of the sites with positive $E _ { \\scriptscriptstyle V } ^ { f }$ . From $P l$ 0 $B l , C _ { R e g 3 }$ reduces greatly with $C _ { S L A } ^ { G B }$ , indicating the weak role of the GB in annihilating the $\\mathrm { \\Delta V }$ nearby. This is consistent with the structural observation in Fig. 3(b-e） that at Blcorresponding to the $C _ { S L A } ^ { G B }$ 啦 $C _ { e }$ the loaded SIAs become components of the new GB phase. After $S l , C _ { R e g l }$ （20 increases greatly and reaches its peak value at $T l$ ，while $C _ { R e g 3 }$ has a quite small value. It suggests that near the new GB phase, the $\\mathrm { v }$ interacts with the GB mainly via the trapping process. The extended strain field near the GB (Fig. 3(e) by the large atom density could account for the enhanced trapping for the V. The similar trends of $\\dot { C } _ { R e g l }$ and $C _ { R e g 3 }$ were observed from $T l$ t0 $S 2$ or from $B I$ to $P 2$ to that from $I$ to $P l$ . The structural reason for the trends is also similar.In the two cases,the accumulated SIAs at the GB induced the transition of the trapping site to the annihilation sites due to the lost identity of the SIAs at the GB. Only the initial GBs at $I 0$ (supplementary Fig. S4(b)) and Tl (Fig. 3(e)) have different phases. The special structural reason during this concentration range includes the recovery of the GB from $T l$ to $S 2$ . Therefore, within the first cycle of Cycle0, we revealed an alternating evolution of the GB's role of trapping and annihilation of Vs compared to the previously known unique role of the GB either as a trapping center for the $\\mathrm { \\Delta V }$ or as the annihilation catalyst []. Furthermore,the alternating pattern or mechanism leads to the different dominated roles that the trapping and annihilation play in the V-GB interaction within different $C _ { S I A } ^ { G B }$ ranges or equivalently under diferent radiation conditions.For instance,by comparing the magnitude of $C _ { R e g 1 }$ and $C _ { R e g 3 }$ ， we found that the trapping plays a dominated role in removing the V near the GB from $I 0$ to $J _ { \\ l }$ ，while from $J _ { \\ l }$ to $P l$ the annihilation dominates. The present results suggest that, the previous reported self-healing mechanisms for radiation damage in NCs based on the SIA behavior near the GB (e.g.the annihilation induced by the $I E \\left[ \\right]$ and the coupling of the V migration towards the GB with the SIA moving along the GB) may fail under extreme irradiation conditions due to either the new phase formation of the GB or the GB structural recovery. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "After $C g$ , although no fine features were observed on $C _ { R e g I , R e g 2 , R e g 3 }$ compared with that within CycleO, some similar trends were still noticed. The $C _ { R e g I }$ for a GB with a certain concentration of SIAs is much higher than （204号 $C _ { R e g 3 }$ and also than $C _ { R e g l }$ for a pure GB without SIAs, indicating that the trapping is a more basic process than annihilation in the GB system exposed to continuous iradiation. It could arise from the formation of the V after GB structural transition (e.g.Fig. $3 ( \\mathrm  g ) \\}$ .Basically, $C _ { R e g l }$ and $C _ { R e g 3 }$ show a reverse trend with $C _ { S I A } ^ { G B }$ ： Exception wascncounteredduring acertain $C _ { S I A } ^ { G B }$ range (e.g.from about 17 to $2 1 ~ \\mathrm { n m } ^ { - 2 }$ ）where $C _ { R e g l }$ and $C _ { R e g 3 }$ （20 increase simultaneously due to the formation of the V. Finally,some special features were observed on the curve of the $C _ { R e g 2 }$ with $C _ { S L A } ^ { G B }$ , which reflects the structural meaning of $C _ { R e g 2 }$ and its connection to GB structures. For example, $C _ { R e g 2 }$ reaches a peak at U1 in Fig. 5(c) where the new GB phase also forms (Fig. 3(e)). Besides, （204号 $C _ { R e g 2 }$ has a larger value within Cyclel and Cycle2 where the GB consists of V-SIA complexes and is not so regular compared to a pure GB. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "3.5.Evolution in the kinetic property of Vs under accumulated damage ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "We next examined the V kinetics near several typical GB structures as observed in Fig.3(b-j), including a pure one(Fig. 6(a)), the GB with multiple SIAs with well-defined identity (Fig. 6(b)), the GB with a new phase (Fig. 6(c)),and the GB after recovery (Fig. 6(d). We calculated the V migration energy barriers along one typical paths near these GBs by using the NEB method (section 2.2.1)[]. As seen in Fig. 6(e),all the profiles show a decreasing trend with the V closing to the GB,implying the enhanced kinetics of the V near the GBs.The diference is also significant. Comparing the results for the GB in Fig. 6(a)and Fig. 6(b), we found that the V is finally trapped at the GB along the diffusion and trapping path of path1, while along path2 the V would be annihilated at site $E 2$ within the annihilation region Reg3.Furthermore, the energy barriers along path2 are smaller than that along pathl,indicating that SIAs at the GB promotes the V difusion and annihilation near the GB via reducing the energy barrers.These results are consistent with previous results []. Comparing the results along pathl and path3, we found that the energy barriers for the V diffusion along path3 are also smaller than that along path1, implying that the kinetics for the $\\mathrm { v }$ near the new GB phase is further enhanced than that near a pure GB. Since both sites $_ { G I }$ and $F 3$ locate within $R e g l$ pathl and path3 are diffusion-trapping paths for the V. We also found the promoted difusion of the $\\mathrm { v }$ along path4 near a GB containing the V after recovery compared to that along path1.Therefore, no matter how the GB relaxes after trapping a concentration of SIAs from the bulk region nearby, the diffusion of the V near these GBs is always accelerated due to three factors of the accumulation of a specific concentration of SIAs, or the new phase formation of the GB or V formation after the GB structural recovery. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "These enhanced processes for the V predicted by the above MS calculations of the V kinetics near the GBs were validated by MD simulations of the V behavior near the three typical GB structures at $3 0 0 \\mathrm { K }$ (Fig. 6(f-h). A certain concentration of Vs were initially put near the GB.We found that after 50 ps at $3 0 0 \\mathrm { K }$ ,the Vs near the pure GB remain immobile (Fig. 6(f)), while the Vs near the new GB phase were trapped by the GB (Fig. 6(g). The Vs closer to the GB after the GB's recovery also segregated to the GB (Fig. 6(h)). Therefore,it becomes easier for the Vs near the GB to enter the GB with a new phase or containing Vs after recovery. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "3.6.Defects accumulation and structural relaxation mechanisms in the other GBs ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The above OKMC, MS and MD results (Figs. 1-6) are obtained in the GB of $\\Sigma 5 ( 3 \\ 1 \\ 0 ) / [ 0 \\ 0 \\ 1 ]$ . To show whether the defects accumulation features and GB structural relaxation mechanisms apply to the other GBs, we also performed extended similar simulations in several other GBs (the relaxed pristine structures of these GBs are given in supplementary Fig. S4). We compared the atomic and coarse-grained defects behavior in these GBs.We found that both the V and SIA distributes within several layers near the GB (supplementary Fig.S6). The Vlocates at the stable site of the GB as a point (Fig. S6). However,the SIA configurations are complex (supplementary Fig. S6). In addition to the point configuration at the GBs of $\\Sigma 5 ( 2 \\ 1 \\ 0 ) / [ 0 \\ 0 \\ 1 ] .$ （20号 £13(5 1 0)/[0 $0 ~ 1 ] , ~ \\Sigma 1 3 ( 3 ~ 2 ~ 0 ) / [ 0 ~ 0 ~ 1 ] , ~ \\Sigma 8 5 ( 1 3 ~ 1 ~ 0 ) / [ 0 ~ 0 ~ 1 ] , ~ \\Sigma 3 ( 1 ~ 1 ~ 1 ) / [ 1 ~ 1 ~ 0 ] , ~ \\Sigma 9 ( 2 ~ 2 ~ 1 ) / [ 1 ~ 1 ~ 0 ] ,$ other configurations were also found, including the dumbbellat the GBs of $\\Sigma 2 5 ( 4 ~ 3 ~ 0 ) / [ 0 ~ 0 ~ 1 ] , \\Sigma 8 5 ( 7 ~ 6 ~ 0 ) / [ 0 ~ 0 ~ 1 ] ,$ （204号 £9(1 1 4)/[1 1 0], ∑11(1 1 3)/[1 1 0],∑11(3 3 2)/[1 1 0] and the crowdion at the GB of $\\Sigma 3 ( 1 \\ 1 \\ 2 ) / [ 1 \\ 1 \\ 0 ]$ . The different SIA configurations at the GB may be related to the atom density near the GB core.For example, the twin boundary of $\\Sigma 3 ( 1 \\ 1 \\ 2 ) / [ 1 \\ 1 \\ 0 ]$ with the SIA of a crowdion has the largest atom density near the GB core. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The OKMC parameters also depend on the GB structures (supplementary Tables S3, S4,and S6-S8). Based on the MS parameters, particularly the emission energy barrier for the V/SIA from the GB $\\left( E _ { a } ^ { V E } / E _ { a } ^ { I E } \\right)$ and the corresponding time $( t _ { V E } / t _ { I E } )$ ， prejudge the V/SIA behavior near the GB. We found that the twin boundary has the lowest $E _ { a } ^ { V E / I E }$ . Consequently, only at the twin boundary is $t _ { V E / I E }$ on the order of one hour at room temperature, while in the other GBs $t _ { \\scriptscriptstyle V E / I E }$ is far larger than one hour, particularly for the SIA). Thus, the V/SIA could be reemited from the twin GB once segregated to the GB at an elevated temperature. The further OKMC simulations of a single SIA/V behavior suggest that at $3 0 0 ~ \\mathrm { K }$ , the SIA near all the GBs first randomly walks in the bulk region and finally gets trapped at the GB; it is tightly bound at the GB after trapping (supplementary Fig. S10(a). Yet, the V was observed to be occasionally reemitted from the twin GB at $3 0 0 \\mathrm { K }$ after segregation to the GB (supplementary Fig. S10(b)). As the $T$ increases to $4 0 0 ~ \\mathrm { K }$ ,both the ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "SIA and V were frequently remited from the GB (supplementary Fig. S10(c)and (d), particularly for the V (supplementary Fig. S10(d)). It could expect that the difference in the defect accumulation rates in the two GBs is not significant at a low T. The emission in the twin boundary enhances bulk Vaccumulation rate and decreases the healing efficiency for radiation damage in the bulk region by the GB at the parameter regime of a high $T$ and a low $\\tau$ . Therefore, in the parameter regime we are interested in e.g. low $T$ and high $\\tau$ the reemission of the SIA/V from the GB may not affect the SIA/V accumulation and GB relaxation mechanism significantly; of course,the critical dose for the new GB relaxation mechanism to occur (point A on the curve of $C _ { S I A , V } { \\sim }$ dose in Fig. l(b)) would be modified once the remission was activated. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "We next mainly explored the curve of $E _ { G B } \\sim C _ { S I A , V }$ in the other GBs by performing similar relaxation simulations to that in $\\Sigma 5 ( 3 \\ 1 \\ 0 ) / [ 0 \\ 0 \\ 1 ]$ . Yet, MD simulations at $3 0 0 ~ \\mathrm { K }$ suggest that different GBs have distinct intrinsic mobility,as measured by the GB migration distance within a time interval (supplementary Fig. S11). Some of the GBs remain immobile at room temperature, e.g., the GBs of $\\Sigma 5 ( 2 \\ 1 \\ 0 ) / [ 0 \\ 0 \\ 1 ]$ and $\\Sigma 5 ( 3 \\ 1 \\ 0 ) / [ 0 \\ 0 \\ 1 ]$ . However, the GBs of $^ { \\cdot } \\Sigma 2 5 ( 4 ~ 3 ~ 0 ) / [ 0 ~ 0 ~ 1 ] , \\Sigma 8 5 ( 7 ~ 6 ~ 0 ) / [ 0 ~ 0 ~ 1 ] , \\Sigma 8 5 ( 1 3 ~ 1 ~ 0 ) / [ 0 ~ 0 ~ 1 ] , \\Sigma 3 ( 1 ~ 1 ~ 1 ~ 0 ) / [ 0 ~ 0 ~ 1 ]$ $1 ) / [ 1 1 0 ] , \\Sigma 9 ( 2 2 1 ) / [ 1 1 0 ]$ and $\\Sigma 1 1 ( 3 \\ 3 \\ 2 ) / [ 1 \\ 1 \\ 0 ]$ were observed to move and even disappeared via interacting with the free surface in the GB system .We thus only present results for the GB that did not disappear after MD simulations of the GB relaxation for 50 ps. Figure 7(a-i) presents the $E _ { G B }$ profiles as a function of $C _ { S U } ^ { G B }$ in these relatively stable GBs.First, it was noticed that the magnitude of $\\dot { \\Delta E _ { G B } }$ varies greatly in different GBs. Since $E _ { G B }$ measures the thermodynamic stability of a GB,it implies different effects of the SIAs at the GB on the GB's stability, depending on the GB structure. As seen in Fig. 7i),the maximal $\\Delta E _ { G B }$ （20 basically increases with $E _ { S L A f } ^ { G B }$ linearly. As a result, the loading of the SIA to the GB with a lower SIA stability (a large $E _ { S L A f } ^ { G B }$ ） would cause the GB to be more easily instable. Figure 7(j) also suggests that $\\Delta E _ { G B }$ exhibits an approximately negative relation to the $E _ { G B 0 }$ . Given the meaning of $\\dot { E } _ { G B 0 }$ as the indicator for the intrinsic thermodynamic stability of a pure GB and the $\\Delta E _ { \\scriptscriptstyle G B }$ as an indicator for the radiation-stability of the GB, such relation may reveal the contradiction ofthe two types of stabilities.To maintain a relative stability of a GB under radiation, a specific intrinsic stability of the GB is required ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "We also found that the profiles in $\\Sigma 5 ( 2 \\ 1 \\ 0 ) / [ 0 \\ 0 \\ 1 ]$ (Fig.7(a)), £3(1 1 2)/[1 1 0] (Fig. 7(e)) and ∑11(3 3 2)/[1 1 0] (Fig. 7(i)) exhibit a obviously periodical trend similar to that in $\\Sigma 5 ( 3 \\ 1 \\ 0 ) / [ 0 \\ 0 \\ 1 ]$ (Fig. 3(a)) (labeled as Type $^ { \\small 1 }$ in Fig. 7). However, for the other GBs a different trend was observed, where the $E _ { G B }$ firstly increases and then basically becomes constant (Fig.7(b-d) and (f-h) labeled as Type 2). Given the SIA-V transition during the GB structural relaxation,the two different types of the GB energy response to the accumulated SIAs at the GB could be related to the distinct SIA/V energetic properties at the GB.As shown in Fig. 7(i)，the GBs of Type $\\boldsymbol { { l } }$ were found to have a large absolute difference between $C _ { S L A } ^ { G B }$ and $C _ { \\scriptscriptstyle V } ^ { G B }$ （20 $\\left( \\left. E _ { S L A f } ^ { G B } - E _ { V f } ^ { G B } \\right. \\right)$ ， while the $\\left| E _ { S I A f } ^ { G B } - E _ { V f } ^ { G B } \\right|$ is small in the GBs of Type 2. This could be readily understood, since a small value of $\\left. E _ { S L A f } ^ { G B } - E _ { V f } ^ { G B } \\right.$ implies that the slight variation in the GB energy would be induced after the transition of the SIA to $\\mathrm { v }$ at the GB. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Based on the structural response of the GB to irradiation, the GBs were further divided into two categories of Type I and Type II. The GBs of Type $^ { \\small 1 }$ and some of GBs of Type 2 belong to Type I. These GBs have similar defects accumulation and structural relaxation behavior to that in $\\Sigma 5 ( 3 \\ 1 \\ 0 ) / [ 0 \\ 0 \\ 1 ]$ . The loaded SIAs also become components of the GB and new ordered GB structures form (Fig. 7(al-el) and (i1).As the concentration of the SIA at the GB increases to a certain level, the GB migrates locally, accompanied by the transition of the SIA to V. These GBs were found to have high SIA/V formation energy at the GB $( E _ { S I A / V f } ^ { G B } )$ (Fig. $7 ( \\mathrm { k } ) )$ .Theothers belonging toTypeI exhibit theuniqueresponsetothe V/SIA accumulation at the GBs (Fig.7(f1-h1)). We frequently observed the formation of the disordered GB structures during the loading of the SIAs to the GBs, which could arise from the low thermal stability of the GBs as sugested by the small $E _ { S L A / V f } ^ { G B }$ intheseGBs (Fig7(k)TheseGBshaveaquasi-continuous distribution of the $E _ { V } ^ { f }$ after absorbing a certain concentration of SIAs, as shown in supplementary Fig. S13 for the case of $\\Sigma 9 ( 1 \\ 1 \\ 4 ) / [ 1 \\ 1 \\ 0 ]$ ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Figure 7(a2-i2) further presents the evolution of $C _ { R e g I , R e g 2 , R e g 3 }$ with $C _ { S I A } ^ { G B }$ in the two types of GBs. For the GBs of Type I, the similar profiles were observed to that for $\\Sigma 5 ( 3 \\mathrm { ~ l ~ } 0 ) / [ 0 \\mathrm { ~ } 0 \\mathrm { ~ l ~ } ] .$ ,including the alternating variation in the $C _ { R e g l }$ and $C _ { R e g 3 }$ . It indicates the mutual transition of the GB's role of the trapping and annihilation for the V during the SIA loading to the GB. However, for the twin boundary of $\\Sigma 3 ( 1 \\ 1 \\ 2 ) / [ 1 \\ 1 \\ 0 ]$ ，we frequently observed the simultaneous increase of the $C _ { R e g I }$ and $C _ { R e g 3 }$ . This is due to the very small segregation energy of the $\\mathrm { v }$ at the pure GB ( $\\phantom { + } 0 . 1 8 ~ \\mathrm { e V }$ in supplementary Table S8). Consequently, $C _ { R e g I }$ increases from zero point. Therefore,an additional picture about defects accumulation and GB structural relaxation works in the twin boudaryviateistillradofVFf $T y p e I I , C _ { _ { R e g I } }$ （20 is much larger than $C _ { R e g 2 }$ and $C _ { R e g 3 }$ , indicating that the trapping is a main process for the GB absorbing the V nearby. It can also be seen that $C _ { R e g 2 }$ is close to $C _ { R e g 3 }$ ; besides, both $C _ { R e g 2 }$ and $C _ { R e g 3 }$ do not change apparently with $C _ { S I A } ^ { G B }$ , compared to that in the GBs of Type $I .$ Such variation feature wellcorresponds tothedisordered GB structure of Type $I .$ The level of $C _ { R e g 3 }$ may be related to the $E _ { S I A f } ^ { G B }$ in the GBs (supplementary Fig. S12). The small $E _ { S I A f } ^ { G B }$ in the GBs of Type I leads to the smallevel of $C _ { R e g 3 }$ , in agreement withthe GB classification basedonE Fig. 7(k)). ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "3.7. OKMC remodeling of defects accumulation and structural relaxation near the GB ",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "By performing MD simulations of the GB structure predicted by the OKMC simulation and the V-GB interaction， we have revealed the new processes of the GB relaxation and its interaction with the V. Considering these new atomic processes, we remodeled the defects accumulation and structural relaxation near the GB by using the OKMC method.The main features captured into the new OKMC model include the disappearing of the SIAs at the GB after a critical $C _ { S L A } ^ { G B }$ and the simultaneous GB migration as observed in the GBs of Type I.The effect of the formation of the new GB phase on the V nearby is similarly reflected by the transition of the annihilation region to the trapping region. As for the GB of Type II,it does not involve the SIA-V transition, while the trapping for the $\\mathrm { v }$ always works (Fig. 7(f2-h2)). In the remodeling of the defects behavior, we mainly considered the GB of Type I. Since the GB only directly interacts with the V near itself, we thus defined the V concentration near the GB $\\ ( \\mathsf { C } _ { V } ^ { n e a r G B } )$ . By examining its variation combined with the snapshots of the defects microstructure，we explored the evolution of the V-GB interaction HecHaIsis WiuI IauiauoI uose. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Figure 8 presents the OKMC simulation results of the variation in $C _ { S U } ^ { G B }$ and the corresponding $\\mathrm { C } _ { V } ^ { n e a r G B }$ with radiation dose at several values of $T$ and $\\tau$ (see supplementary Fig. S14 for the results of ${ \\cal T } { = } 3 0 0 \\mathrm { ~ K ~ }$ and $\\tau$ of $1 0 ^ { - 5 } ~ \\mathrm { { d p a } \\cdot { s } ^ { - 1 } ) }$ . As seen from Fig.8(a-c)， different to the old OKMC model prediction of $C _ { S I A } ^ { G B }$ to increase continuously with radiation dose (Fig. 2(e-g),the new OKMC model predicts that $C _ { S L A } ^ { G B }$ no longer increases after a critical dose at the most considered radiation conditions (Fig. 8(a-c)) except at the condition of $T$ of （204号 $3 0 0 \\mathrm { K }$ and $\\tau$ d $1 0 ^ { - 5 } \\mathrm { \\ d p a } { \\cdot } \\mathrm { s } ^ { - 1 }$ where both the $C _ { S U } ^ { G B }$ and $\\mathrm { C } _ { V } ^ { n e a r G B }$ remain at a low level (blue curves in Fig. 8(c). This is consistent with the MD simulation results and the preset picture in the OKMC model. Noticeable feature was also observed on $\\mathrm { C } _ { V } ^ { n e a r G B }$ .At $T$ of $1 0 0 \\mathrm { K }$ and $\\tau$ of $1 0 ^ { 2 } \\ \\mathrm { d p a } { \\cdot } \\mathrm { s } ^ { - 1 }$ , it was found that $\\mathrm { C } _ { V } ^ { n e a r G B }$ firstly increases and then decreases from O to about 0.1dpa (if there is no SIA-V transition process, $\\mathrm { C } _ { V } ^ { n e a r G B }$ would always decline due to the annihilation of the $\\mathrm { v }$ with the sufficient amount of SIAs collected at the GB) . During this period (as illustrated in Fig. 8(a) by $P$ ), the SIAs gradually accumulate at the GB (Fig. 8(d) and (e)), and finally a region free of Vs but with a high concentration of SIAs at the GB was formed (Fig. 8(e). The period well corresponds to the trapping-annihilation transition stage (from $I 0$ to $P l$ in Fig. 5(c)). Since $1 0 0 \\mathrm { K }$ is too low to activate the trapping,the annihilation plays a more and more important role in removing the V near the GB as more SIAs are stored at the GB.Such increase-decrease trend in $\\mathrm { C } _ { V } ^ { n e a r G B }$ was repeatedly observed as radiation continues; similar patern in the microstructure also occurred repeatedly (Fig. 8(d),(e) and(f), (g)). Besides, the peak value of $\\mathrm { C } _ { V } ^ { n e a r G B }$ becomes large in the following several periods. In addition, there is no such V accumulation stage at relative high $T$ of 200 and $3 0 0 ~ \\mathrm { K }$ (Fig. 8(b) and (c)), which could be attributed to the effective absorption and annihilation of the Vby the GB due to GB-enhanced diffusion and annihilation of the V nearby. Furthermore, after the critical $C _ { S I A } ^ { G B }$ ， $\\mathbf { C } _ { V } ^ { n e a r G B }$ immediately reaches a peak value. Examining the microstructure, we found that these features could arise from the V accumulation in the bulk region near the GB (Fig. 8(e) and (g)) and the formation of $\\mathrm { v }$ clusters (Fig. 8(h-k)). Consequently, after the SIA transition and the simultaneous GB migration, more Vs enter the GB interacting region. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "4.1. The pattern for the defects accumulation and GB structural relaxation under continuous radiation ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "As mentioned in the introduction, the real radiation conditions $( T , \\tau , r d , L )$ are complex and span a large parameter range over which radiation damage could accumulate or be healed through distinct mechanisms. We summarized the main parameters in iradiation experiments on typical Fe and W systems (supplementary Table S1), given the importance of the two systems in the nuclear engineering application. Fig. $9 ( \\mathrm { a ^ { \\prime } } )$ shows the experimental parameters distribution in the $T \\ – \\tau$ space. In the parameter regime of a small $L$ in NCs, a high $T$ and a low $\\tau$ (Regime $A$ in Fig. 9(a)), OKMC simulations (Fig. 2, supplementary Figs. S7 and S8) have shown that radiation damage could not accumulate in the system. The self-healing property for radiation damage in the parameter regime could be accounted for by the basic segregation and annihilation processes promoted by the GB, e.g. V-hop and $I E$ [] (of course, IE has also been shown to work at a $T [ ]$ in Regimes $B I$ and $B 2$ ） ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "In the other regimes of low $T$ and/or high $\\tau$ ） of the authors' interest (Regimes B1,B2 and $B 3$ )，the present study however reveals an alternative patern or mechanism for the defects accumulation and GB structural under continuous radiation, involving the cooperative relaxation of the defects and GB.As illustrated in Fig. $9 ( \\mathrm { a - j } )$ , the defect-GB interaction evolves with the distribution of the defects or radiation dose (Fig.2) in terms of the change of the energetic and kinetic properties of the V near the GB and at the GB,and also the modification of the GB structure,energetics,and the kinetics by the segregated defects at the GB (Figs. 3-7,supplementary Figs. S4-S6,S9,S10, S12). Prior to iradiation, a pure GB could serve as a sink for the SIA and V due to the wel-known energetic and kinetic reasons (supplementary Figs. S5 and S6,[),as shown in Fig. 9(a) for the trapping region for the V near the GB. After the SIA escaping the annihilation with a bulk V and segregation at the GB,the annihilation region forms around the SIA[] (Fig. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "9(b)); the V near the region could be recombined via previously reported $I E$ at a low energy barrier (process $\\textcircled{1}$ in Fig. 9(b))[]. Due to the preferential absorption of the SIA over the V, there is a net increase in the SIA concentration at the GB (Fig.9(c)), while the V in the bulk region far away from the annihilation region accumulate in the grain interior (Fig. 2(k-n), Fig. 8(d-k). ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Above a critical SIA concentration,the SIAs at the GB lost their identity accompanying the formation of a new GB phase forms (Fig.9(d). Near the new GB structure,the V difusion is further accelerated compared to that near a pure GB in Fig. 9(a) (Fig. 6),leading to the trapping of the Vby the GB via a low energy barrier process $\\textcircled{2}$ (Fig. 9(d)). With the relaxation of the defects near the GB and the SIAs at the GB, the V in the bulk region far away from the GB meanwhile gets clustered (Fig. 9(d)) or assemble in the neighboring hood of the GB.From Fig. 9(a) to (d), the GB energy increases with the SIA accumulation at the GB(Fig. 9(i). During the period,the functional region for the V near the GB evolves from the trapping region for the GB (Regimel in Fig.9i) to the annihilation region (Regime3 in Fig. 9j)) and finally to Regime2 with $E _ { \\scriptscriptstyle V } ^ { f }$ close to zero (Fig. 9(j)). With the SIA continuing to accumulate at the GB, the GB begins to recover to its original structure via the transition of the excess SIAs trapped at the GB to the minority of the V at the GB and the GB migration (Fig. 9(e)). The GB energy also decreases remarkably, while the functional region returns to the trapping region for the V. Consequently,the Von the one side of the GB (e.g. V3 in (Fig. 9(e)) that initially locates in the bulk enters the GB's interaction range and could be trapped by the GB.Particularly, the V near the local GB structure containing Vs could also easily segregate to the GB (Fig. 9(f)) due to the enhanced binding of the V to the GB and difusion by the Vs at the GB (Fig. 6).The subsequently segregated SIAs could annihilate the V at the GB (process $\\textcircled{5}$ in Fig. 9(g)). Meanwhile, the bulk V-cluster $\\mathrm { ( V _ { n } ) }$ located near the GB could also be trapped by the GB due to the GB motion (process $\\textcircled{6}$ in Fig. 9(g). Such cycle ( $M l$ in Fig. 9) repeats over radiation dose (supplementary Table S1) involving the collection of the SIAs at the GB,the formation of new GB phase,the SIA-V transition and the GB motion, and the interaction of the $\\mathrm { V } / \\mathrm { V } _ { \\mathrm { n } }$ with the GB. Depending on the GB structure, the alternative response mechanism for the GB cumulative irradiation exists (M2 in Fig. 9).The GB with low defect formation energy could also develop to the disordered structure with the defects accumulated within the GB. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "The revealed defects accumulation and GB structural relaxation mechanisms (Ml and M2 in Fig. 9) in a model system of Fe would apply to other systems, e.g. NCs Au and W, although the exact transition kinetics may depend on the material type and GB characters.The systems ofFe and Au have similar relative defects properties,e.g. the higher mobility of the SIA compared that for the V,which induces the common phenomenon of the preferential segregation of the SIAs at the GB over the V. Despite the different levels of defects migration energy barriers in bulk Fe and W (0.63 versus $1 . 8 0 \\mathrm { e V }$ for V migration), only the $T$ range of a low $T$ is affected. For example, the $T$ of $5 6 3 \\mathrm { K }$ in irradiation experiments on W[] could be considered as a low $T$ for W. These results also motivate investigating the defects accumulation processes and interface/boundary relaxation mechanisms in nano-composites [] and oxide dispersion strengthened materials []. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "4.2. Implication of the GB relaxation mechanism for designing the radiation resistance of a nano-structured metal ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Reducing the grain size in NCs is a well-known option for enhancing the radiation resistance of a poly-crystal metal. Our results provide another atomic insight into radiation damage reduction in NC metals from the view of the coupling relaxation of the defects and the GB structure, and have implications for designing and optimizing radiation-resistant NCs. The present work reveals several compromise approaches to tailor radiation performance of NCs. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "First, although the radiation damage near the GB could be healed via the interaction of the defects with the GB,the damage at the GB should not be neglected. Generally,it is considered that the defects segregate to the GB in NCs and then are eliminated at the GB via complex annihilation mechanisms near the GB []. The trapping of the defects by the GB allviates the defects accumulation in the grain interior, reducing posible swelling. Yet,depending on the radiation conditions and the energetic and kinetic properties of the ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "defects in the grain interior, near the GB and at the GB,the SIA/V could accumulate within the GB.The SIA-V transition mechanism revealed in the present work could prevent the over-accumulation of the defects at the GB. Consequently,the GB owes a sustainable capacity for absorbing defects from the grain interior.The mechanism is related to the defects behavior within the GB and the GB relaxation mechanism, e.g.GB migration. The GB motion leads to competing effects related to the radiation performance. In addition to the trapping of the V/SIA by a static GB via the motion of the defects,a moving GB could more effectively absorb the V/SIA in the grain interior []. And consequently,the defects accumulation rate in the grain interior is lower than that near a static GB.Nevertheles,it is wellknown that the GB migration would lead to the grain growth. The reduction in the trapping efficiency caused by the increase in the grain size could cancel the enhanced trapping of the V/SIA by a moving GB.   \nSecond,there should be compromise between radiation stability of the GB and the intrinsic stability of a pure GB. The present study suggests that the GB stability is reduced as radiation defects accumulate at the GB.Furthermore,the magnitude of the increase in the GB energy is basically inversely correlated with the GB energy of a pure one. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Third, there is contradiction between the GB absorption rate for defects and the GB's thermal stability. To maintain the basic mechanical property of a GB,it is rational to select the GB that has a low V/SIA accumulation rate as the one with beter radiation performance (Regime A in Fig. 9(a)). To improve the trapping eficiency of the defects by the GB, it qualitatively requires the increase in the binding energy of the defects with the GB.For example,the twin boundary binds with the V/SIA weakly compared to other GBs,and consequently the defects accumulation rate in the grain interior is larger than in other GBs at 400 K. To obtain better radiation resistance at a high $T _ { \\cdot }$ ， the fraction of the twin boundary in the nano-structured system should be decreased. At a low $T _ { \\cdot }$ e.g. $3 0 0 ~ \\mathrm { K }$ ， the twin boundary behaves similarly to other GBs in defects accumulation behavior. Yet, we should not overemphasize the value of the V/SIA-GB binding energy.The thermal stability and defect-GB binding strength (binding energy) are two contradictory factors. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "On the one hand,at an elevated temperature,as the binding energy is higher than a certain level,the defects accumulation in the grain interior is insensitive to the binding energy. On the other hand,a large binding energy corresponds to small defect formation energy at the GB.As the defect formation energy is too low, the GB exhibits a poor thermal stability.Consequently,as defects accumulate within the GB,the disordered structure is easily formed. Such structure may serve as the nucleation point for the radiation-induced amorphization []. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Finally,the present study may also touch the controversy over the equivalence between ion and neutron irradiation. As NC Fe is used as structural materials for next-generation fission and fusion reactors, it should be able to survive up to 20o dpa of damage at a high operating $T$ of ${ \\sim } 5 5 0 ^ { \\circ } \\mathsf C$ []. Yet, the $\\tau$ is as low as $1 0 ^ { - 6 } { - } 1 0 ^ { - 7 } ~ \\mathrm { d p a { \\cdot } s ^ { - 1 } }$ . And thus, the relevant parameter regime may locate within Regime $A$ (points $A$ and $B$ in Fig. $\\left. 9 ( \\mathrm { a ^ { \\prime } } ) \\right.$ ). However, in many accelerated irradiation testing experiments (e.g. the use of ion irradiation as a surrogate for neutron irradiation) the $\\tau$ is much higher $( \\sim 1 0 ^ { - 2 } { - } 1 0 ^ { - 3 } ~ \\mathrm { d p a { \\cdot } s ^ { - 1 } } )$ than that in reality. Besides, some experiments are performed at a low $T$ to elucidate the effect of a specific atomic process. And hence, the radiation conditions in ion radiation experiments may locate within Regimes $A l , A 2$ and $\\mathbf { \\delta } _ { A 3 }$ in Fig. $9 ( \\mathrm { a ^ { \\prime } } )$ .We have shown that diferent defect accumulation and GB structural relaxation mechanisms apply to these parameter regimes. Therefore,it may be controversial to extrapolate the results about the defect-GB interaction and microstructure evolution from high dose rate to low dose rate. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "4.3.Thelimits in the current predictor-corrector method ",
+        "text_level": 1,
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Complementary to experiments， theoretical modeling/simulation playsan important role in understanding materials properties degradation and predicting their performance under iradiation. Radiation-induced microstructural evolution is an inherent multiscale process ranging from atomistic to macroscopic time-space level []. To model this complex process,a multiscale approach with information passing between diferent scales is often required. The defect energetics，kinetics，and controling mechanisms obtained from atomistic modeling are usually used as inputs of the mesoscale methods,e.g. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "KMC.However, the present study suggests that the feedback from mesoscale simulations to atomistic calculations is necessary to accurately or precisely predict the microstructure evolution under cumulative iradiation. In other words,the close coupling between the two methods in the neighboring scales is needed. This motivates the development of the predictor-corrector method in the current work. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "The limits of the present method exist. There is obvious difference in the scale that the two methods of the atomic and coarse-grained simulation methods can access, particularly the space scale. It brings about the difficulty in dealing with the KMC-passed large clusters in atomistic simulations.This is important, since radiation to the material in real fusion/fission or ion radiation conditions produce both point defects and complex defect structures, e.g. V clusters and SIA loops. These clusters may have rather diferent behaviors near the GB from the point SIA/V,affecting the structural relaxation mechanism for the GB with defects clusters. In addition,the possible coupling between the cascade and the thermally-activated atomistic processes is also hard to deal with in the present simulation framework. Finally,besides for the variation in the basic energetic and kinetic properties of the defects with radiation dose,the other parameters e.g. the sink strength and its evolution with radiation dose relevant to the high level of simulating techniques are also needed. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "4.4. The SIA-V transition in the locally pinned GB ",
+        "text_level": 1,
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Generally, NCs exhibit poor thermal stability of and coarsen significantly when heated to 0.3 to 0.5 of their melting temperature []. To stabilize NCs, nano-precipitates are often introduced at GBs to reduce the GB mobility and hence slow the rate of grain growth []. By pinning several atoms near the GB of $\\Sigma 5 ( 3 \\ 1 \\$ 0)/[ 0 01], we modeled the drag of the GB by the nano-precipitates and explored whether the observed SIA-V transition phenomenon occurs in a stabilized NC. We found that the curves of the GB energy as a function of $C _ { S I A } ^ { G B }$ for a locally pinned GB (supplementary Fig. S15(a)） exhibit similar trend to that for a freely-migrating GB (Fig. 3(a)). The GB energy is only slightly higher as some atoms are pinned due to the inadequate relaxation of these pinned atoms. We further examined the GB structure and atom displacements fields after relaxation (supplementary Fig. S15(b-f)). As one atom on the GB plane (atom A in supplementary Fig. S15(d)) was pinned, the transition occurred with the grain on one side of the GB migrating to the neighboring low energy state. As one atom on one side of the GB (atom $B$ in supplementary Fig. S15(e)) was also pinned, the grain on the other GB side migrated during the SIA-V transition. Nevertheless,as more atoms (atoms $A , B$ and $C$ in supplementary Fig. S15(f)） were pinned, the atoms surrounding the pinned atoms also nearly remain immobile, while the GB parts far away from the pinned region migrated during the relaxation.The SIA near the pinned atoms did not transit to the V (supplementary Fig. S15(c)), but the other SIAs transited to the Vs or V-SIA-V complexes (supplementary Fig. S15(c)). Therefore， we conclude that the SIA-V transition would occur within the GB containing the nano-precipitates. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "5. Conclusions ",
+        "text_level": 1,
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "In this study, we developed the predictor-corrector simulation method and preliminarily realized the close coupling between the atomistic and coarse-grained modeling techniques. Using the method, we investigated the defects accumulation and GB structural relaxation mechanisms in NC Fe under successive irradiation. We revealed the radiation-parameter dependent picture for the defect-GB interactions. Within the parameter regime of a high temperature and or low dose rate, defects are wel annihilated within the GB, renderig the GB system exhibit the self-healing property for radiation damage. The performance is explained by the GB-promoted annihilation of the V with SIA via the well-known processes of $I E$ and V-hop. Nevertheless, within the parameter regime of a high dose rate and/or a low temperature,the new dynamic defect-GB interaction process were revealed involving the cooperated relaxation of the defects and GB. As radiation proceeds,the SIAs initially accumulate at the GB,and then become structural components of the GB,and finally the GB recovers to its background structure. The recovery involves the transition ofa critical concentration of the SIAs to the minority of the Vs accompanied by the local GB motion. We revealed the enhanced location and migration of the V near the GB with a new phase,containing Vs, making the V-type defects instable near the GB.By calculating the cumulative distribution function of the vacancy formation energy and the grouping of the sites into several regimes with the same physical meaning, we meanwhile revealed the alternating evolution of the GB structure and role of trapping and annihilation of Vs. We also found that some GBs with low thermal stability develop into disordered structure during irrdiation. The results reveal the evolution of the distribution of the defects near the GB,the energetics and kinetics of defects, GB energy, structure and mobility with radiation dose. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Key Research and Development Program of China (Grant Nos.: 2017YFE0302400,2018YFE0308102,2017YFA0402800), the National Natural Science Foundation of China (Nos.:11735015, 51871207, 51671185,51771181,and 51971212, U1832206,11575229), and by the Center for Computation Science,Hefei Institutes of Physical Sciences. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "[1] IJ.Beyerlein,M.J.Demkowicz,A.Misra,B.P. Uberuaga,Defect-interface interactions.Prog.Mater.Sci.74(2015) 125-210. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "[2] S.J. Zinkle, G.S. Was, Materials challenges in nuclear energy. Acta Mater. 61 (2013) 735-758. [3] P. Lejcek, Grain boundary segregation in metals, Springer, Verlag, 2010. [4] Y.Mishin,M.Asta,J.Li,Atomistic modelingof interfaces andtheir impact onmicrostructureand properties.Acta Mater.   \n58 (2010) 1117-51. [5]IJ.Beyerlein,A.Caro,M.J.Dmkowicz,N.A.Mara,A.Misra,B.P.Uberuaga,Radiationdamage tolerantnanoterials.   \nMater. Today 16 (2013) 443-449.   \n[6] X. Zhang, et al., Radiation damage in nanostructured materials. Prog. Mater. Sci. 96 (2018) 217-321.   \n[7] J. Knaster,A. Moeslang,T. Muroga, Materials research for fusion. Nat. Phys.12 (2016) 424-434.   \n[8] G.R.Odette,M.J.Alinger,B.D.Wirth,Recent developments in irrdiation-resistant steels.Annu.Rev.Mater.Res.38   \n(2008)471-503.   \n[9] W.Liu,Y.Ji,P.Tan,H. Zhang,C.He,D.Yun,C.Zhang,Z.Yang,Irradiation induced microstructure evolution in   \nnanostructured materials: A review. Mater. 9 (2016) 105.   \n[10] S.J. Zinkle,L.L.Snead,Designing radiationresistance in materials forfusion energy.Annu.Rev.Mater.Res.44 (2014) 241-67. [10-1] G.S.Was,Fundamentals of Radiation Materials Science: Metals and Aloys,Springer, Heidelberg, 2007. [10-2] G. Ackland, Controlling radiation damage. Science 327 (2010) 1587-1588.   \n[11]T.Frolov,M.Asta,Y.Mishin,Phase transformations atinterfaces: observations fromatomistic modeling.Cur.Opin. Solid State Mater. Sci. 20 (2016) 308-315.   \n[12]T.Frolov,Q. Zhu,T.Oppelstrup,J.Marian,R.E.Rudd,Structures andtransitionsinbc tungsten grainboundariesand their role in the absorption of point defects. Acta Mater. 159 (2018) 123-134. [13]T.Frolov,D.L.Olmsted,M.Asta,Y.Mishin,Structural phase transformations inmetalicgrain boundaries.Nat. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Commun.4(2013) 1899. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "[14] J.Hickman,Y.Mishin,Extra variable in grain boundary description. Phys.Rev.Mater.1 (2017)010601 (R). [15]D.Chen,J. Wang,T. Chen,L.Shao,Defect annihilationat grainboundaries inalpha-Fe.Sci. Rep.3(2013)1450. [16] X. Li, W.Liu, Y. Xu,C.S.Liu,Q.F.Fang,B.C.Pan,J.-L.Chen, G.-N.Luo,Z. Wang,Principal physical parameters characterizing the interactions between irrdiation-induced point defectsand several tilt symmetric grain boundaries inFe, Mo and W. J. Nucl. Mater. 444 (2014) 229-236. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "[17] G.Duan, X.Li, J. Sun, C. Hao, Y. Xu,Y. Zhang,W.Liu, C.S.Liu, Surface-structure dependence of healing radiation-damage mechanism in nanoporous tungsten. J. Nucl. Mater. 498 (2018) 362-372.   \n[18]X.Li,etal.,Radiationresistanceof nano-crystaline iron: Couplingofthe fundamental segregation processand the   \nannihilation of interstitials and vacancies near the grain boundaries. Acta Mater. 109 (2016) 115-127.   \n[19] X.Li,Y.Xu,G.Duan,J.Sun,C.Hao,Y.Zhang,W.Liu,C.S.Liu,Q.F.Fang,Onthe possbilityofunversalintetitial emission induced annihilation in metallc nanostructures. J. Nucl. Mater. 500 (2018) 199-212.   \n[20]N.Chen,L.-L.Niu,Y.Zhang,X.Shu,H.-B.Zhou,S.Jin,G.Ran,G.-H.Lv,F.Gao,Energeticsofvacancysegregation   \nto [100] symmetric tilt grain boundaries in bcc tungsten. Sci. Rep. 6 (2016) 36955.   \n[21]M.Tschopp,K.N.Solanki,F.Gao,X.Sun,M.A.Khalel,M.F.Horstemeyer,Probing grain boundarysink strengthat   \nthe nanoscale: Energetics and length scales of vacancy and interstitial absorption by grain boundaries in $\\mathfrak { a }$ -Fe. Phys. Rev. B 85 (2012) 064108. [22] X.Li, G. Duan,Y. Xu,Y. Zhang, W. Liu, C.S.Liu,Y. Liang, J.-L. Chen, G.-N.Luo,Annihilating vacancies via dynamics reflection and emisson of interstitials in nano-crystal tungsten. Nucl. Fusion 57 (2017) 116055. [23] X.-M.Bai,A.F.Voter,R.G.Hoagland,M.Nastasi,B.P.Uberuaga,Eficientannealingofradiationdamageneargrain boundaries via interstitial emission. Science 327 (2010) 1631. [24]M.Jin,P. Cao，S.Yip,M.P. Short,Radiation damage reduction bygrain-boundary biased defect migration in nanocrystalline in nanocrystalline Cu. Acta Mater. 155 (2018) 410-417. [25]L. Zhang, C.Lu,K.Tieu,Y.Shibuta,Dynamic interactionbetween grain boundaryand stacking fault tetrahedron.Scr. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Mater.144(2018) 78-83. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "[26] Y.Gu,Y.Xiang,D.J.Srolovitz,JA.El-AwadySelf-healingof lowangle grain boundaries byvacancydifusionand dislocation climb. Scr. Mater. 155 (2018) 155-159. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "[27]B.P.Uberuaga,L.J.Veron,E.Martinez,AF.Voter,Therelationshipbetweengraiboundarystructur,defectmobility and grain boundary sink efficiency. Sci. Rep. 5 (2015) 9095. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "[28] V.Borovikov,X.-Z.Tang,D.Perez,X.-M.Ba,B.P.Uberuaga,A.F.Voter, Coupled motionof grain boundaries inbcc tungsten as a possibleradiation-damage healing mechanism under fusion reactor conditions.Nucl.Fusion 53 (2013) 063001. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": ".[29]L. Zhang,Y.Shibuta,C.Lu,X. Huang,Atomistic simulation of the interaction between point defectsand twin   \nboundary. Phys.Status Solidi B 255 (2018)1800228.   \n[30]I.Adlakha,K.N.Solanki,Atomic-scale investigationof triplejunctionroleondefects binding energeticsandstructural stability in $\\mathfrak { a }$ -Fe.Acta Mater. 118 (2016) 64-76.   \n[31] X. Li, W. Liu, Y. Xu,C.S.Liu, Q.F.Fang, B.C. Pan,J.-L.Chen,G.-N. Luo,Z. Wang,An energetic and kinetic   \nperspective of the grain boundary role in healing radiation damage in tungsten. Nucl. Fusion 53 (2013)123014.   \n[32]M.Jin,P.Cao,M.P.Short, Mechanisms of grain boundary migrationand growth innanocrystaline metals under irradiation. Scr. Mater. 163 (2019) 66-70. [33]B.N.Singh,A.JE.Foreman,Calculated grain size-dependent vacancysupersaturationandits effectonvoid formation. Philos. Mag.29 (1974) 847-858. [34]X.-M.Bai,L.J.Vernon,R.G.Hoagland,A.F. Voter,M.Nastasi,B.P.Uberuaga,Roleofatomic structureongrain boundary-defect interactions in Cu. Phys.Rev. B 85 (2012) 214103. [35]F.J.Perez-Pérez,R.Smith,Preferential damageat symmetrical tilt grainboundaries inbcciron.Nucl.Instrand Meth. B 180 (2001) 322-328. [36]L. Zhang,M.J. Demkowicz,Radiation-induced mixing between metals of low solid solubility.Acta Mater.76 (2014) 135-150. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "[37]X.-Z.Tang,Y.F.Guo,Y.Fan,S.Yip,B.Yidiz,Interstitialemisionat grainboundaryinnanolayeredalpha-Fe.Acta Mater. 105 (2016) 147-154. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "[38]M.A.Tschopp,M.F.Horstemeyer,F.Gao,X.Sun,M.Khalel,Energetic driving force for preferential bindingof self-interstitial atoms to Fe grain boundaries over vacancies. Scr. Mater. 64 (2011) 908-911.   \n[39]X.Li, W.Liu,Y. Xu,C.S.Liu,Q.F.Fang,B.C.Pan,Z. Wang,Energeticand kineticbehaviors ofsmallvacancyclusters near a symmetric $\\Sigma 5 ( 3 \\ 1 \\ 0 ) / [ 0 \\ 0 \\ 1 ]$ tilt grain boundary in bcc Fe. J. Nucl. Mater. 440 (2013) 250-256.   \n[40]X.Li,etal.,Energeticand kineticdatasetoninteractionof the vacancyandself-interstial atom with thegrain boundary in $\\mathfrak { a }$ -iron. Data Brief 7 (2016) 798-813.   \n[40-1]A.Duan,R.Dingrevile,E.Martinez,L.Capolungo,Identificationofdominant damageaccumulation proceesat grain boundaries during irradiation in nanocrystalline $\\mathfrak { a }$ -Fe: A statistical study. Acta Mater. 110 (2016) 306-323.   \n[40-2] J.Xu,J.-B.Liu,S.-N.LiB.-X.Liu,Y.Jiang,Self-healingpropertisofnanocrystaline materials:afirst-iiples analysis of the role of grain boundaries. Phys. Chem. Chem. Phys.18 (2016) 17930.   \n[41]M.Samaras,P.M.Perlet,H.Van Swygenoven,M.Victoria,tacking faulttetrahedra formationintheneighbourhood of grain boundaries. Nucl. Instr. and Meth. B 202 (2003) 51-55.   \n[42]A.Esfandiarpour,S.A.H.Feghhi,A.A.Shokri,Efect ofatomic grain boundary structures on primaryradiation damage in α-Fe.Nucl. Instr. and Meth. B 362 (2015) 1-8.   \n[43]F.J.Pérez-Pérez,R.Smith,Modelingradiation efects at grain boundaries inbcciron.Nucl.Instr.and Meth.B153 (1999) 136-141.   \n[44]M.Samaras,P.M.Derlet,H.VanSwygenhoven,M.Victoria,SIA activityduring irrdiationofnanocrystallne Ni.J. Nucl. Mater. 323 (2003) 213-219.   \n[45]M.Samaras,P.M.Derlet, H.Van Swygenhoven,M. Victoria,Atomic scale modellingof the primary damage stateof irradiated fcc and bcc nanocrystalline metals. J. Nucl. Mater. 351 (2006) 47-55.   \n[46]H.Li,Y. Qin,Y.Yang,M.Yao,X. Wang,H. Xu,S.R.Phillpot,The evolutionof interaction betweengrain boundary and irradiation-induced point defects: Symmetric tilt GB in tungsten. J. Nucl. Mater. 500 (2018) 42-49. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "[47] C.G. Zhang,W.H. Zhou, Y.G.Li,Z. Zeng, X. Ju,Primary radiation damage near grain boundary inbcc tungsten by molecular dynamics simulations. J. Nucl. Mater. 458 (2015) 138-145. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "[48] A.Arjhangmehr,S.A.H.Feghhi,A.Esfandiyarpour,F.Hatami,Anenergeticand kinetic investigation of theroleof diferent atomic grain boundaries in healing radiation damage in nickel. J. Mater. Sci. 51 (2016) 1017-1031.   \n[49] X.-M.Bai,B.P. Uberuaga,Theinfluenceof grain boundaries onradiation-inducedpoint defect production inmaterials: A review of atomistic studies. JOM. 65 (2013) 360-373.   \n[50]M.Samaras,P.M.Derlet,H.Van Swygenhoven,M.Victoria, Computer simulation of displacementcascades in nanocrystalline Ni. Phys. Rev. Lett. 88 (2002) 125505.   \n[51]P.Lejcek,S. Hofmann,V.Paidar, Solute segregation and clasification of [1o0] tilt grain boundaries in $\\mathfrak { a }$ -iron: consequences for grain boundary engineering. Acta Mater. 51 (2003) 3951-3963.   \n[52]M.D.Sangid,H.J.Maier,H. Sehitoglu,A physically based fatigue modelfor prediction of crack initiation from persistent slip bands in polycrystals. Acta Mater. 59 (2011) 328-341.   \n[53]M.D.Sangid,T.Ezaz,H.Sehitoglu,IM.Robertson,Energyofsliptransmiionand nucleationatgranbodaries. Acta Mater. 59 (2011) 283-296.   \n[54] Z. You,X.Li,L.Gui,Q.Lu,T.Zhu,H.Gao,L.Lu,Plastic anisotropyandassciated deformationmechanismsin nanotwinned metals. Acta Mater. 61 (2013) 217-227.   \n[55]L.Cao,M.Koslowski,Effect ofmicrostructural uncertaintyontheyield stress of nanocrystalline nickel.ActaMater. 61 (2013) 1413-1420.   \n[56] X.Wu,Y.-W.You,X.-S.Kong,J.-L.Chen,G.-N.Luo,G.-H.Lu,C.S.Liu,Z. Wang,Fist-principlesdeterminationof grain boundary strengthening in tungsten: Dependence on grain boundary structure and metalic radius ofsolute. Acta Mater. 120 (2016) 315-326.   \n[57]J.J.Moler,E.Bitzek,Fracture toughnesandbond trapping of grainboundary cracks.Acta Mater.73 (2014)1-11. [58]M.A.Gibson,C.A.Schuh,Segregation-inducedchanges ingrainboundarycohesionandembritlement inbiaryoys. Acta Mater. 95 (2015) 145-155. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "[58-1]T.Meiners,Z.Peng,B.Gault,C.H.Lebscher,G.Dehm,Sulfur-inducedembritlementinig-purity,polyctalle copper. Acta Mater. 156 (2018) 64-75. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "[58-2]P.Lejcek,S. Hofmann,Modeling grain boundary segregation by prediction of allthe necessary parameters.Acta Mater. 170 (2019) 253-267. [59] X.Y. Wang,N.Gao,B.Xu,Y.N.Wang,G.G.Shu,C.L.Li, W.Liu,Effectof iradiation and iradiation defects onthe mobility of∑5 symmetric tilt grain boundaries in iron: An atomistic study.J. Nucl. Mater. 510 (2018) 568-574. [60] X.Y. Wang,N. Gao,W.Setyawan,B. Xu,W.Liu, Z.G. Wang,Effectof irradiation on mechanical propertiesof   \nsymmetrical grain boundaries investigated by atomic simulations.J. Nucl. Mater. 491 (2017) 154-161.   \n，[61]L.Li，P.M. Anderson,M.-G.Lee,E.Bitzek，P. Derlet，H. Van Swygenhoven，The stress-strain response of   \nnanocrystalline metals: A quantized crystal plasticity approach. Acta Mater. 57 (2009) 812-822.   \n[62]N. Gao,D.Perez, G.H.Lu, Z.G. Wang,Molecular dynamics studyof the interactionbetween nanoscale interstitial   \ndislocation loops and grain boundaries in BCC iron. J. Nucl. Mater. 498 (2018) 378-386.   \n[63]J. Li, K.YYu,Y.Chen,M.Song,H. Wang,M.A.Kirk,M.Li,X. Zhang,In situstudyof defectmigrationkinetics and   \nself-healing of twin boundaries in heavy ion irradiated nanotwinned metals. Nano Let.15 (2015) 2922-2927.   \n[64]C.Sun,M.Song, K.YYu,Y. Chen,M. Kirk,M.Li,H. Wang,X. Zhang, In situ evidence ofdefect clusterabsorption   \nby grain boundaries in Kr ion irradiated nanocrystaline Ni. Metall. Mater. Trans. A 44A (2013) 1966-1974. [65]M.Rose,A.G.Balogh,H.Hahn,Instabilityof irrdiation induceddefects innanostructured materials.Nucl.Istr.and   \nMeth. B 127-128 (1997) 119-112. [66] C.M. Barr,N.Li,B.L.Boyce，K.Hatar,，Examining the influence of grain size on radiation tolerance in the   \nnanocrystalline regime. Appl. Phys.Lett.112 (2018) 181903. [67] Y. Chimi,A.Iwase,N. Ishikawa,M. Kobiyama,T.Inami, S.Okuda,Accumulation and recoveryof defects in ion-irradiated nanocrystalline gold. J. Nucl. Mater. 297 (2001) 355-357. [68]G.M.Cheng, W.Z. Xu, Y.Q. Wang,A. Misra, Y.T. Zhu, Grain size efect onradiation tolerance ofnanocrystallne Mo. Scr. Mater. 123 (2016) 90-94. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "[69]K.Y.Yu,Y.Liu,C.Sun,H.Wang,L.Shao,E.G.Fu,X. Zhang,Radiation damage in helium ionirradiated nanocrystalline Fe. J. Nucl. Mater. 425 (2012) 140-146. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "[70]O.El-Atwani,JE.N.I,A.C.Leff,B.R.untifering,J.K.Baldwin,K.Hattar,M.L.Taheri,Theroleof graisizeinHe bubble formation: Implications for sweling resistance. J. Nucl. Mater. 484 (2017) 236-244. [71]T.S.Byun,D.T.Hoelzer, J.H.Kim,S.A.Maloy,A comparative assessmentof the fracture toughness behaviorof fertic-martensitic steels and nanostructured ferritic alloys. J. Nucl. Mater. 484 (2017) 157-167. [72]B.Muntifering,YFang,A.C.Leff,A.Dun,J.Qu,.L.Taeri,R.Dngrevile,K.Hatar,Iiutransmissioeletron microscopy $\\mathrm { H e } ^ { + }$ implantation and thermal aging of nanocrystalline iron. J. Nucl. Mater. 482 (2016) 139-146.   \n[73] W.B. Liu,J.H. Zhang,Y.Z.Ji,L.D. Xia, H.P.Liu,D.Yun, C.H. He,C. Zhang, Z.G.Yang, Comparative studyof He   \nbubble formation in nanostructured reduced activation steel and its coarsen-grained counterpart. J. Nucl. Mater.500 (2018)   \n213-219. [74] M.Song,et al.,Responseof equal channel angular extrusion procesed ultrafine-grained T91 steel subjected to high   \ntemperature heavy ion irradiation. Acta Mater. 74 (2014) 285-295.   \n[75]C.Du,etal., Ultrastrong nanocrystaline steel with exceptional thermal stabilityandradiation tolerance.Nat.Commun.   \n9 (2018) 5389.   \n[76]C.Sun,etal.,Superiorradiation-resistant nanoengineered austenitic304L stainless steel forapplications inextreme radiation environments. Sci. Rep.5 (7801) 2015. [77]N.Li,J. Wang,Y.Q.Wang,Y.Seruys,M.Nastasi,A. Misra,Incoherent twin boundary migration induced byion irradiation in Cu. J. Appl. Phys. 113 (2013) 023508. [78]W.Z.Han,M.J.Demkowicz,E.G.Fu,YQ.Wang,A. Misra,Efectof grainboundarycharacteronsink effcency.Acta Mater. 60 (2012) 6341-6351. [79] Y. Chen,J.Li,K.Y.Yu,H. Wang,M.A.Kirk,M.Li,X.Zhang,Insitu studies onradiationtolerance ofnanotwinedCu. Acta Mater. 111 (2016) 148-156. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "[80] W.Han,E.G.Fu,M.J.Demkowicz,Y.Wang,A. Misra, Iradiationdamage of single crystal,coarsegrained,and nanograined copper under helium bombardment at $4 5 0 \\ \\mathrm { { ^ \\circ C } }$ . J. Mater. Res.28 (2013) 2763-2770. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "[81]O.El-Atwani,K.Hattar,JA.Hinks,G.Greaves,S.S.Harilal,A.Hassanein,Helumbubble formationiultraineand nanocrystalline tungsten under diferent extreme conditions. J. Nucl. Mater. 458 (2015) 216-223. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "[82]O.El-Atwani,A.Suslova,T.J.Novakowski,K.Hatar,M.Efe,S.S.Harilal,A.Hassanein,In-situ TEM/heayion irradiation on ultrafie-and nanocrystaline-grained tungsten: Effectof3 MeV Si, Cu and Wions.Mater. Char.99 (2015) 68-76. [83] Z.Chen,L.-L.Niu,Z.Wang,L.Tian,L.Kecskes,K. Zhu,Q.Wei,Acomparativestudy on the in situ helium irradiation behavior of tungsten: Coarse grain vs. nanocrystalline grain. Acta Mater. 147 (2018) 100-112. [84]O.El-Atwani,E.Esquivel,M.Efe,E.Aydogan,Y.Q. Wang,E.Martiez,S.A.Maloy,Loopand void damageduring heavy ion irradiation on nanocrystalline and coarse grained tungsten: Microstructure,effect of dparate,temperature,and grain size.Acta Mater.149 (2018) 206-19. [85]O.El-Atwani,J.A.Hinks,G.Greaves,S.Gondeman,T.Qiu,M.Efe,J.P.Allin,In-situ TEM observationof the response ofultrafine- and nanocrystaline-grained tungsten to extreme irradiation environments.Sci.Rep. 4 (2014)4716. [86]O.El-Atwani,E.Esquivel,E.Aydogan,E.Martinez,JK.Baldwin,M.Li,B.P.Uberuaga,S.A. Maloy,Unprecedented iradiationresistanceof nanocrystallne tungsten with equiaxed nanocrystaline grains to dislocation loop accumulation. Acta Mater. 165 (2019) 118-128. [87] T. Chookajorn, H.A. Murdoch, C.A. Schuh,Design of stable nanocrystalline allys. Science 337 (2012) 951. [88] K.A. Darling,M.Rajagopalan,M. Komarasamy,M.A.Bhatia,B.C.Hornbuckle,R.S.Mishra,K.N.Solanki,Extreme creep resistance in a microstructurally stable naoncrystalline alloy. Nature 537 (2O16) 378-381. [89]M.I. Mendelev,S.Han,D.J.Srolovitz, G.J.Ackland,D.Y.Sun,M. Asta,Development ofnew interatomicpotentials appropriate for crystalline and liquid iron. Philos. Mag. 83 (2003) 3977-3994. [90]G.Henkelman, H.Jonssn,Improved tangent estimate inthe nudged elastic band method for finding minimum energy paths and saddle points. J. Chem. Phys. 113 (2000) 9978-9985. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "[91] K.Cheng,L.Zhang,C.Lu,K.Tieu, Coupled grainboundary motion inaluminium: the effectof structural multiplicity.   \nSci. Rep. 6 (2016) 25427.   \n[92]L. Zang,C.Lu,K.Tieu,Areview on atomistic simulationof grain boundarybehaviors in face-centered cubic metals.   \nComput.Mater. Sci.118 (2016) 180-191.   \n[93] W. Xing,A.R. Kalidindi,D.Amram, C.A. Schuh,Solute interaction effects on grain boundary segregation interary alloys.Acta Mater. 161 (2018) 285-294. ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "Graphicalabstract ",
+        "page_idx": 48
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0f675ae4bb5d5586844c782e6f8496f14c7ba917d6ccf96b6eaca1b832551ff.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 48
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e7283e5a4b0f1d71bbb4c9ec45a44193085a20836baa8cc8fc88d584ad60a4e.jpg",
+        "img_caption": [
+            "Fig.1. (a) Geometric model for OKMC modeling radiation damage accumulation in NC Fe. The grain size "
+        ],
+        "img_footnote": [],
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "is $L$ . The GB locates at the center of the cubic;planes ABCD,EFGH, IJKL are GBs.(b) Schematic illustration of the combination of the MS, MD and OKMC methods simulating defects structure evolution under accumulative radiation. The red sphere represents a SIA and the green cubic is for a V. Here,1-9 represent the fundamental atomic processes incorporated into the OKMC model, including SIA/V diffusion and clstering in the bulk (1/2), SIA-Vannihilation in the bulk (3), IE-induced annihilation of the SIA-V near the GB (4), SIA/V segregation from the bulk to the GB $( 5 / 6 )$ , SIA/V migration and clustering at the GB (7/8),and SIA-V annihilation within the GB (9). $C _ { S I A , \\ V }$ denotes the SIA/V concentration in the simulation model. $E _ { G B }$ means the GB energy. Actually, the curve of $C _ { S I A , V } { \\sim } d o s e$ illustrates the variation of the SIA/V distribution and concentration with the radiation dose. Similarly,the curve of $E _ { G B } \\sim C _ { S I A , V }$ denotes the $C _ { S I A , V }$ dependent GBA energy and SIA/V-GB interactions. (c) Illustration of the interaction between two defects in the bulk region. Here,the large red sphere represents a SIA-cluster,and the large cubic is fora V-cluster. (d) Illusion of the $\\mathrm { S I A _ { n } / V _ { n } }$ segregation near the GB. (e) Ilustration of the $\\mathrm { S I A _ { n } / V _ { n } }$ behavior within the GB. (f) shows the energy barrier profiles for the $\\mathrm { S I A _ { n } / V _ { n } }$ diffusion and their annihilation near the GB.(g) and (h) Illustration of the two styles of producing a certain concentration of the $\\mathrm { S I A _ { n } / V _ { n } }$ within the GB. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "100 K 200 K 300 K 600 K SIA, t=10² dpa's-1 @) (b) ④) (d) (i) V, t=10² dpa s-1 SIA, t=10² dpa's-1 2 V, t=10² dpa s1 SIA, t=105 dpa's-1 V, t=105 dpa's-1   \n盖 e (f) (g) (h) G0 LB LG HBHG,LBLGHBHG,LBLGHB HG 300 HBHG,LBLG HB Hg HB HG Hb Hg A1 众众 200 HB Hg HB Hg HB HG HBHG 100 HB Hg HB HG HB Hg Hb HG 0.0 0.5 0.0 0.5 0.0 0.5 0.0 0.5 1.0 10 50 100 200 Dose (dpa) L (nm)   \n(u)mm) 8 (k) 100 K () 200 K (m) 300 K (n) 600 K (0) t=10² dpa·s1, dose=0.1dpa MLAAAA t=10² dpa:s1, dose=0.5dpa t=10² dpa's1, dose $\\mathrel { \\mathop : }$ 1dpa 一 $\\scriptstyle \\tau = 1 0 ^ { - 2 }$ dpa's, dose $\\ L =$ 1dpa ， $\\scriptstyle \\tau = 1 0 ^ { - 5 }$ dpa's1, dose $\\mathbf { \\Psi } = \\mathbf { \\dot { \\Psi } }$ 1dpa -300　30-300　30-300　30 -30 0 30 Distance of V to the GB (A) ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "temperatures of 100, 200, 300 and $6 0 0 ~ \\mathrm { K }$ . (e-h) The SIA/V concentration at the GB $( C _ { S U / V } ^ { G B } )$ ） as a function of theradiation dose at the above four temperatures.The legend for (a-h) is given in (i).In (e-h), the horizontal dash line separates the two possible regimes where the GB responses to irradiation via diffrent mechanisms. Symbol $A$ in (a) and $_ { A l }$ in (e) respectively mark defects accumulation in the bulk and at the GB under a certain radiation dose. (i) Ilustration of the SIA/V concentration level in the bulk and at the GB after about 1 dpa in the regime of temperature $( T )$ and grain size $( L )$ . Here, $H _ { B }$ and $L _ { B }$ respectively represent the high and low $C _ { V } ^ { b u l k }$ ， while $H _ { G }$ and $L _ { G }$ represent the corresponding high and low $C _ { S U } ^ { G B }$ (here,the high level of defects concentration means the concentration increases with radiation dose). $( \\mathtt { k - n } )$ The bulk V concentration as a function of the distance of the $\\mathrm { v }$ to the GB at different temperatures of 100, 200, 300 and $6 0 0 \\mathrm { K }$ . The legend for $( \\mathtt { k - n } )$ is given in (o). Note that, in (a-h) and (k-n) $L$ is $1 0 \\ \\mathrm { n m }$ . As calculating $C _ { V } ^ { b u l k }$ ,the Vs near the GB were also considered as bulk defects. In (k-n), the curves were smoothed by using a moving average filter with a span of 5. ",
+        "page_idx": 51
+    },
+    {
+        "type": "image",
+        "img_path": "images/87309b5e7a4a51e00a25d9bb950b7debbe935c288ba6ca1ed5418d370516b0fc.jpg",
+        "img_caption": [
+            "Fig. 3. (a) GB energy $( E _ { G B } )$ profile as a function of the loaded SIA concentration at the GB of $\\Sigma 5 ( 3 \\mathrm { ~ l ~ } 0 ) / [ 0 \\mathrm { ~ } 0$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "1]( $( C _ { S U } ^ { G B } )$ in the manner of Style2 (Fig. 1(h). Error bars here indicate the variation range of the calculated $E _ { G B }$ from multiple independent MD simulations,while the pink dash line indicates the variation trend of the profile. $E _ { G B 0 }$ is for the energy of a pure GB without SIAs loaded, while $\\Delta E _ { \\scriptscriptstyle G B }$ is the variation in $E _ { G B }$ relative to EGBo. (b-j) The relaxed structures of the GB loaded with several diferent concentrations of SIAs.The horizontal dash black line indicates the initial GB position prior to the structural relaxation of the GB with SIAs. In $\\mathrm { ( f - j ) }$ ，the horizontal pink line indicates the GB position after relaxation. In $( \\mathsf { b - j } )$ ， the atoms are colored with their potential energies $( E )$ ,as shown by the colorbar on the right hand. In (a), $C _ { \\theta }$ is zero,while symbols $C _ { b } , C _ { c } , C _ { d } , C _ { e } , C _ { f } , C _ { g } , C _ { h } , C _ { i } , C _ { j }$ respectively denote the $C _ { S L A } ^ { G B }$ in $( \\mathsf { b - j } )$ . In (e), the inset figure shows the distribution of the atom separation distance in the two GB systems with SIA concentrations of 0.0 and about $4 . 6 \\ \\mathrm { n m } ^ { - 2 }$ . The calculated regions are limited to the atom layers near the GB with the width of 6 A. For the pure GB, such region consists of three atom layers on each side of the GB. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 53
+    },
+    {
+        "type": "image",
+        "img_path": "images/64e0f99d73f4ad64c87866635a068150147870c0c21c1d01e8d885bba58202cd.jpg",
+        "img_caption": [
+            "Fig. 4. (a-c) Relaxation process of the GB of $\\Sigma 5 ( 3 \\mathrm { ~ l ~ } 0 ) / [ 0 \\mathrm { ~ } 0 \\mathrm { ~ l ~ } ]$ loaded with a certain concentration of SIAs "
+        ],
+        "img_footnote": [],
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "in the manner of Style2.(a) shows the atom motion process during the transition of the GB system by connecting the initial atom position to the final position in the two GB systems.The horizontal dash black and green lines respectively indicate the initial and final GB positions.The black circle and green polygon indicate the GB structural unit before and after transition,respectively. (b)shows the corresponding atoms in initial state ${ \\mathrm { G B s l } } ( A , B , C , D , E , F )$ to that in final state GBs2 (A1,B1,C1,D1,E1,F1). Note that A1/B1/C1/D1/E1/F1 mark a specific column of atoms aligned along [0 0 1] in GBs2. The atoms in one column are further indicated by 1,2,3,4.In GBs1, the corresponding column of atoms $A / B / C / D / E / F$ in GBsl are not wellalong [OO1] due to the distortion induced by the loaded SIAs.(c) shows the transition of the atoms $G$ in GBs1 to $_ { G I }$ in GBs2. Note that the gray sphere denotes the atom that actually does not exist, and hence the gray square represents the vacancy formed in atom column $_ { G I }$ . (d) and (e) present the similar transition of the GB as the SIA is put in to the GB in the manner of Stylel at O K. (f) Ilustration of the SIA-V transition process during the GB relaxation loaded with excess SIAs.IR1, IR2 and IR3 denote the atom columns in the initial state, while FR1,FR2 and FR3 represent the atom columns in the final state after relaxation.The red spheres denote the interstitials trapped at the initial GB state,while the light green cubic represents the vacancy formed in the final GB state after relaxation. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 55
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ec287dfdd05cb80022ea1c2ace2938bb7e58cd7770c377fa626a3480a628b3a.jpg",
+        "img_caption": [
+            "Fig. 5. (a) Cumulative distribution function C( $E _ { \\scriptscriptstyle V } ^ { { f } }$ ）in several GB systems loaded with different "
+        ],
+        "img_footnote": [],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "concentration levels of the SIAs. Symbols $R e g I , R e g 2$ and $R e g 3$ represent three regimes with different site stabilities; in $\\mathrm { R e g } 1 , E _ { V } ^ { f 1 } < E _ { V } ^ { f } < E _ { V f } ^ { b u l k } - E _ { b }$ , in Reg2,- $E _ { V } ^ { f 1 } < E _ { V } ^ { f } < E _ { V } ^ { f 1 }$ , and in Reg3, $E _ { V } ^ { f } { < } _ { - } E _ { V } ^ { f 1 }$ . Here, $E _ { b }$ and $E _ { V } ^ { f 1 }$ were assigned to be 0.3 and $0 . 2 ~ \\mathrm { e V } ,$ respectively. (i) shows the average maximal displacement of the atoms after the structural relaxation at $0 \\mathrm { K }$ of the GB with a vacancy at a specific site in the three regime as a function of $C _ { S U } ^ { G B }$ , represented by $\\mathit { l i s m a x } _ { \\mathrm { R e } g 1 , \\mathrm { R e } g 2 , \\mathrm { R e } g 3 } \\cdot \\left( \\begin{array} { l } { \\right. } \\end{array}$ i） shows the site density of the three regimes as a function of $C _ { S H } ^ { G B }$ （20 （20 $\\big ( C _ { \\mathrm { R e } g 1 , \\mathrm { R e } g 2 , \\mathrm { R e } g 3 } ^ { } \\big )$ , defined as the number of sites in a specific $E _ { V } ^ { f }$ regime divided by the GB area. Note that, the curves in (j) were smoothed by using a moving average filter with the span for the moving average of 5. $C _ { \\theta }$ is zero, while symbols $C _ { b } , C _ { c } , C _ { d } , C _ { e } , C _ { f } , C _ { g } , C _ { h } , C _ { i } , C _ { j }$ respectively denote the $C _ { S U } ^ { G B }$ in Fig. $3 ( \\mathrm { b - j } )$ ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 57
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c26d10475bac6e76e3dad5982bab4bf4cae5e685c961bd9b0f20e36eaf097b2.jpg",
+        "img_caption": [
+            "Fig.6. (a-e) show the energetic and kinetic properties of the $\\mathrm { \\Delta V }$ near several typical GB systems with "
+        ],
+        "img_footnote": [],
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "different concentrations of SIAs.In (a-d),the sites with diferent stability are shown by different colored symbols.The horizontal dash line indicates the GB position.(e） The energy profiles for the V diffusion along several typical paths near the GB.The two horizontal red and blue dash lines mark zero point and bulk $E _ { V } ^ { f }$ , respectively. The corresponding paths are illustrated in (a-d). (f-h) Interaction of the V with GB £5(3 1 $0 ) / [ 0 \\ 0 \\ 1 ]$ that has distinct structures revealed by MD simulations at $3 0 0 ~ \\mathrm { K }$ .(f) The GB is pure without SIA loading, (g) the GB has a meta-stable phase,and (h) the GB consists of Vs. A vacancy is denoted by a green square.The horizontal dash blue line indicates the GB position. The atoms positions before and after 50 ps at $3 0 0 ~ \\mathrm { K }$ were connected to show the dynamic behavior of the V. In the three systems,the Vs were created initially at the same sites.The minimal distance of the V from the pure GB is about 5 A. The V concentration near the GB is about $7 . 6 \\mathrm { n m } ^ { - 3 }$ ",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "Reg1 Reg2 Reg3 0.6 (a) £5(210)/[001] b) £13(510)/[001] C) £13(320/1001 30a [(b2) C2) 品 0.4 0.4 0.4 s 0.2- 0.2 TypeI peI 磁 Type I 0.0+ Type 1(I) 0.0 Type 2(I) 0.0 Type 2(I) N } (d) £3(111)/[110] 1.6 Θ) 3(12)/[110] (T) ∑9(114)/[110] uu) 40 (d2) 1.2 H 0.2 心 m1 3020 WV\\* 0.0- Pypeg言 0.4 Typ𝑣1(I) \" 0.0 Type 2(II) RE 10 0.4@) 20(21/1101 (h) ∑11(113)/[110] ①)∑11(332)/I18 40 0.4- 0.4 0.2- 0.2- NTN 00.2 C 20- 0.01 Type () 0.0 Type2(II) 0.0 Type 1(I) 10- Type II ypeII Iype 1 0 5 10 15 20 25 5 10 15 20 25 0 5 10 15 20 25 0 5 10 15 20 250 5 10 15 20 250 510 15 20 25 \\~GB (nm²) EGBo (J m²) GB SIA 0.2 0.4 0.6 0.8 1.0 1.2 1.4 SIA (nm\\*) 3.0 V 1.2- N ∑3(112)/[110] 1.2 (k) a A 1 品 1 10 / 0.6 Type 1 △ TypeI :2.5 1.5 (d1)Type1 (enTps. 11Type II □ □ Z 显 V 0.6 g1Type IF h1. 0.4- ? 0.2 0.2- Σ3(111)/[110) ? 0.5 4 中 Type 2 A pe II 0 0.00.510152.02.530 0.0 6665 Y EGB (eV) 5 b SIAf 5 \\$5 ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "Fig. 7. (a-i) GB energy profile as a function of the loaded $C _ { S U } ^ { G B }$ in the manner of Style2 (Fig. 1(h). Error bars here indicate the variation range of the calculated $E _ { G B }$ from multiple independent MD simulations. Here, $\\Delta E _ { \\scriptscriptstyle G B }$ .is $E _ { G B }$ referred to the GB energy of a pure GB $\\left( E _ { \\scriptscriptstyle G B 0 } \\right)$ .(al-i1） The GB structures loaded with a concentration of about $2 5 . 0 \\ \\mathrm { n m } ^ { - 2 }$ SIAs. The atoms are colored with their potential energies by using the identical scheme to that in Fig. 3.In (a-i), axis $Z$ is along [2 1 0],[5 1 0],[3 2 0],[111],[11 2],[11 4],[2 2 1],[11 3], and [3 3 2], respectively. In (a-c), axis $Y$ is along $[ 1 \\ \\overline { { { 2 } } } \\ \\ 0 ] , [ 1 \\ \\overline { { { 5 } } } \\ \\ 0 ] , [ 2 \\ \\overline { { { 3 } } } \\ \\ 0 ] ,$ ,respectively. In (d-i),Y is along[1 I O]. (a2-i2) The site density of the three regimes Regl,Reg2 and Reg3 as a function of $C _ { S U } ^ { G B }$ . Symbols Reg1, Reg2 and Reg3 have the same meaning as that in Fig. 5. Here, $E _ { b }$ and $E _ { V } ^ { f 1 }$ were also assigned to be 0.3 and $0 . 2 \\ \\mathrm { e V } ,$ ，respectively. (j) shows the relation of the maximal $\\Delta E _ { \\scriptscriptstyle G B }$ to the formation energy of a single SIA at a pure GB ( $E _ { S U f } ^ { G B }$ , bottom axis) and $E _ { G B 0 }$ (top axis). $( \\mathbf { k } )$ shows the absolute difference between the SIA and V formation energy at the GB $\\left( \\left. E _ { S I A f } ^ { G B } - E _ { V f } ^ { G B } \\right. \\right)$ (left axis) and the minimal SIA/V formation energy at the GB (right axis) as a function of the GB type. ",
+        "page_idx": 59
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0afc29c85ea40bebfefb1f2303c574f6877fee24150300c41d29326b8eab6d9.jpg",
+        "img_caption": [
+            "Fig. 8. (a-c) Variation in $C _ { S H } ^ { G B }$ (the left axis) and the corresponding V concentration near the GB $\\big ( \\mathsf { C } _ { V } ^ { n e a r G B } \\big )$ (the "
+        ],
+        "img_footnote": [],
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "right axis) with radiation dose at several values of $T$ and $\\tau$ ， According to Fig. 3(a)， the critical SIA concentration at the GB was set $4 . 0 \\ \\mathrm { n m } ^ { - 2 }$ for inducing the GB motion. Each time, the GB migrates along a random direction jumping over a distance of $2 . 5 \\mathrm { ~ \\AA ~ }$ . The grain size is $1 0 \\ \\mathrm { n m }$ . The region near the GB was defined as the atom layers across the GB with a width of W. W was assigned to be $1 0 \\textup { \\AA }$ in most cases. At $T$ （20 of $2 0 0 \\mathrm { K }$ and $\\tau$ of $1 0 ^ { - 5 } \\mathrm { { \\ d p a } \\cdot \\mathrm { { \\ s } ^ { - 1 } } }$ ， $W$ was given of $1 6 \\textup { \\AA }$ At $T$ d $3 0 0 \\mathrm { K }$ and $\\tau$ of $1 0 ^ { - 5 } \\mathrm { { \\ d p a } \\cdot \\mathrm { { \\ s } ^ { - 1 } } }$ ， $W$ was given of 30 ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "A. At a $T$ of $3 0 0 \\mathrm { K }$ and $\\tau$ of $1 0 ^ { - 2 } \\mathrm { { \\ d p a } \\cdot \\mathrm { { \\ s } ^ { - 1 } } }$ ， $W$ was given of $1 6 \\textup { \\AA }$ At such relatively high $T$ and /or low $\\tau$ ,there is no defects survived near the region with a certain distance from the GB. Here, $\\mathrm { C } _ { V } ^ { n e a r G B }$ was defined as the number of Vs in the region near the GB divided by the volume of the region.The volume was calculated as W times the GB area. $( \\mathrm { d - k } )$ shows typical snapshots for the microstructure evolution at an elevated $T$ and $\\tau$ In this visualization scheme,a V-cluster is displayed by a red square, while a SIA-cluster is shown by a red filled circle.The radius of the square/circle is proportional to the real size of the V/SIA-cluster. ",
+        "page_idx": 61
+    },
+    {
+        "type": "image",
+        "img_path": "images/370b199632676cc6cde302f1781f273c046917fb4200f5147e455bcb97236ecb.jpg",
+        "img_caption": [
+            "Fig. 9. (a') Ilustration of the $T \\sb { - \\tau }$ parameter regime where the data points are obtained from references []. (a-j) "
+        ],
+        "img_footnote": [],
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Schematic ilustration of two kinds of the GB response patterns to cumulative irradiation. A SIA is denoted by a red sphere and a $\\mathrm { v }$ is represented by a green cubic. The light blue sphere indicates the atoms at the GB, ilustrating the GB structure and acting reference atoms for the SIA/V site within the GB.The vertical dash line in (a) indicates the GB position. The pink filled elipse in (b), (c) and (g) represents the annihilation region formed around a SIA trapped at the GB.The deep blue filled ellpse in (d) represents the extended enhanced difusion region for V near the meta-stable GB phase, while the large blue sphere represents the ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "SIA that loses its identity at the GB.Symbols W0, W1 and W2 respectively represents the width of the pure GB, the GB with SIAs, and the meta-stable GB for trapping/annihilating the V. Symbols $E _ { 0 } , E _ { I } , E _ { 2 } , E _ { 3 }$ and $E _ { \\theta } { } ^ { \\prime }$ respectively denotes the energy for the pristine GB,the GB with small concentration of SIAs, the GB with high concentration of SIAs, the meta-stable GB and the GB containing a certain concentration of $\\mathrm { v } _ { \\mathrm { s } }$ symbol $d _ { \\theta }$ in $( { \\mathrm { e - g } } )$ denotes the distance for the GB migration after the transition from (d) to (e). (i) illustrates the energy and structural variation during a response period of the GB to cumulative irradiation. Symbol $\\textcircled{1}$ marks the $I E$ -induced annihilation of the SIA with the V near the GB, $\\textcircled{2}$ marks the trapping of the V by the meta-stable GB, $\\textcircled{3}$ marks the trapping of the V by the GB containing Vs, $\\textcircled{4}$ marks the trapping of the V by a migrating GB, $\\textcircled{5}$ marks the annihilation of the $\\mathrm { \\Delta V }$ at the GB with the SIA nearby, and $\\textcircled{6}$ denotes the clustering of the V near the GB. ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Supplementary materials for ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "A general self-consistent framework for studying cumulative displacement damage in nanostructured metals based on parameter passng and structural feedback between atomic and coarse-grained techniques ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "Xiangyan Lia1, Yange Zhanga1, Yichun Xua1， Xuebang Wua\\*, Xianping Wang, C.S.Liua\\*\\*, Q.F.Fanga, Jun-Ling Chenb, G.-N. Luob, Zhiguang Wangc, X. Liud   \naKey Laboratoryof Materials Physics,Institute ofSolid State Physics,Chinese Academy ofSciences,P.O.Box1129,Hefei 230031, PR China   \nbInstitute of Plasma Physics, Chinese Academy of Sciences, Hefei 230031,PR China   \nInstitute of Modern Physics, Chinese Academy of Sciences, Lanzhou 73000,PR China   \ndSouthwestern Institute of Physics, Chengdu,Sichuan 610041, China   \nE-mail: xbwu@issp.ac.cn and csliu $@$ issp.ac.cn (C.S. Liu)   \n1 These authors contributed equally to this work. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "Thisfileincludes:   \nFig. S1-S15   \nTablesS1-S8   \nText S1   \nReferences S1-S24 ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "1. Supplementary figures ",
+        "page_idx": 65
+    },
+    {
+        "type": "image",
+        "img_path": "images/03cf829907102143ae717c070d5e6a9c04a32e1d74ba368c64acd0c65a960a43.jpg",
+        "img_caption": [
+            "Fig. S1. The number of bulk vacancies ( $\\cdot N _ { \\scriptscriptstyle V } ^ { b u l k }$ ）after the irradiation to the symmetric tilt grain boundary (GB) "
+        ],
+        "img_footnote": [],
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "$\\Sigma 5 ( 3 \\ 1 \\ 0 ) / [ 0 \\ 0 \\ 1 ]$ by many consecutive $3 \\mathrm { k e V }$ -PKAs (primary knock-on atom, PKA) at a time interval of 50 ps in $\\mathfrak { a }$ -iron (Fe). Results from Ref. [S1] are also shown for comparison. Molecular dynamics (MD) was performed to study cascade-induced damage near the GB at $1 0 0 0 \\mathrm { K }$ using the velocity-Verlet method for the numerical integration,and the simulations ran for about 50oo ps.An atom at one side of the GB was selected as the PKA. The atom was given $3 \\mathrm { \\ k e V }$ of kinetic energy with its velocity directed perpendicularly toward the GB.The atoms in the outermost layers of the moving region, with a thickness of two times the lattice constant，were coupled with a velocity-rescaling thermostat to absorb the cascade energy and maintain the system temperature at $1 0 0 0 \\mathrm { ~ K ~ }$ . The embedded-atom-method (EAM) interatomic potential developed by Mendelev et al was used to model the interatomic interaction [S2],and the short-range form of the potential was splined to reproduce the high-energy empirical potential of Ziegler et al [S3]. ",
+        "page_idx": 65
+    },
+    {
+        "type": "image",
+        "img_path": "images/88748f7cca61b96df009f4f133bb0da5bf0632715585e9c27e72ec76f889297a.jpg",
+        "img_caption": [
+            "Fig. S2. Snapshots for the accumulation of vacancies nearby the GB and their absorption by the migrating "
+        ],
+        "img_footnote": [],
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "GB.(a-g) The growth of accumulated vacancies in the bulk region during the successive radiation to the GB with the PKA randomly selected near the GB.(h-l) The dissolution of accumulated clusters and absorption by the migrating GB. The arrow indicates the vacancy position. $V$ denotes the mono-vacancy. The dashed circle sketches out the vacancy clusters. The axes $X .$ $Y$ and $Z$ are along [310],[130] and [001], respectively. The atoms within the GB are colored with their potential energies, while the defects near the GB are red. ",
+        "page_idx": 66
+    },
+    {
+        "type": "image",
+        "img_path": "images/03398fde6e49eeaf817df3459e374d29a8a5a48d8e6418472c87b0f73860d3a8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "Defects accumulation (bulk, GB): F[Radiation condition(T, dose, dose rate), Pbulk(V, SIA), PnearGB(V, SIA, GB structure), PatGB(V, SIA, GB structure), $\\mathrm { P _ { G B } }$ (GB structure), L] ",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "Fig.S3.Schematic illustration of the factors determining the radiation damage accumulation in the bulk/GB region of a nano-crystal. These factors include radiation conditions of temperature $( T )$ , radiation dose $( r d )$ radiation dose rate $( \\tau )$ , and the grain size $( L )$ . The atomic processes in the NC system include the processes in the bulk represented by $\\mathrm { P _ { b u l k } ( V , \\ S I A ) }$ ，the processes near the GB denoted by PnearGB(V，SIA)，the processes within the GB represented by PatGB(V, SIA), the process associated with GB structural relaxation denoted by $\\mathrm { P _ { G B } ( G B }$ structure). The GB region is separated from the bulk region by two horizontal dash red lines. The GB plane is indicated by a horizontal red line. ",
+        "page_idx": 67
+    },
+    {
+        "type": "image",
+        "img_path": "images/7455c7d5370fe2a4e63369d35fac9ca6876fea8d65f800e751eb40f5f7bf2d5f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "Fig. S4.The relaxed structures for the investigated thirteen tilt symmetric GBs.The atoms are colored with their potential energies. (a-g)are for the GBs with tilt axis of[0 O1],while (h-m) show the GBs with the tile axis of[1 1 0]. In (a-m), axis $Z$ is along [21 0],[3 1 0],[5 10],[3 2 0],[4 3 0],[7 6 0],[13 10],[1 1 1], [1 1 2],[1 1 4],[2 2 1],[11 3],and [3 3 2],respectively. And axis Y is along $[ 1 \\ \\overline { { { 2 } } } \\ \\ 0 ] , [ 1 \\ \\overline { { { 3 } } } \\ \\ 0 ] , [ 1 \\ \\overline { { { 5 } } } \\ \\ 0 ] ,$ （20 [2 3 0],[34 0],[6 70],[1 13 O],respectivelyin (a-g).In (h-m),Yis along[1 1 0].In each figure, the tilt angle and the GB energy are marked. The horizontal dash line indicates the GB position. ",
+        "page_idx": 68
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7e3ec623046696eee5dfdbb5713f90b66396146d5200f224a433eacb3272bd9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "Fig. S5. (a) SIA formation energy( $\\cdot E _ { S L A } ^ { f } \\rangle$ ）profile near the GB of $\\Sigma ^ { 5 ( 3 \\mathrm { ~ 1 ~ } 0 ) / [ 0 \\mathrm { ~ 0 ~ 1 ] ~ } }$ as a function of the distance of the initial SIA center to the GB.(b) SIA configuration within a GB structural unit, as labeled by symbols $I l$ and $I 2$ . A SIA is denoted by a red sphere. The $E _ { S L A } ^ { f }$ is marked near the SIA. (c) V formation energy $( E _ { \\scriptscriptstyle V } ^ { f } )$ profile near the GB as a function of the $\\mathrm { \\Delta V }$ distance to the GB.(d) V configuration within a GB structural unit. A V is represented by a green square. V1, V2, V3 and V4 denote the four V occupation sites. $E _ { V } ^ { f }$ is marked near the V. In (a-d), the dash black line indicates the GB position. In (b) and (d),the polygon indicates the GB structural unit. (e) Fundamental parameters charactering the SIA/V behavior near the GB, including SIA formation energy at the GB $( E _ { S L A f } ^ { G B } )$ ， SIA segregation energy $\\left( E _ { s e g } ^ { S I A } \\right)$ ， SIA emission energy barrier from a pure GB $\\left( E _ { a } ^ { I E } \\right)$ ,V formation energy at the GB $\\textstyle { \\left( E _ { \\scriptscriptstyle { V f } } ^ { \\scriptscriptstyle { G B } } \\right) }$ ， $\\mathrm { v }$ segregation energy $\\left( E _ { s e g } ^ { V } \\right.$ ), V emission energy barrier from a pure GB $\\left( E _ { a } ^ { V E } \\right)$ , the migration energy barrier for the SIA along the tilt axis $\\left( E _ { i m } ^ { \\parallel } \\right)$ ， the SIA migration energy barrier in the direction nonparallel to the tilt axis $\\left( E _ { i m } ^ { \\mathcal { H } } \\right)$ ， the migration energy barrier for the V along the tilt axis $( E _ { \\nu m } ^ { \\parallel } )$ ，the $\\mathrm { \\Delta V }$ migration energy barrier in the direction nonparallel to the tilt axis $\\left( E _ { \\nu m } ^ { \\# } \\right)$ , binding energy of the V-V $\\left( E _ { b } ^ { V - V } \\right)$ ）and SIA-SIA $\\big ( E _ { b } ^ { S I A - S I A } \\big )$ at the GB. The values for the corresponding parameter in the bulk are also given for comparison. ",
+        "page_idx": 69
+    },
+    {
+        "type": "image",
+        "img_path": "images/b62f9850056882f66b818a24ca566a3992b03f3780fc551d431878fcb77309f7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "Fig. S6.(a-j) The V/SIA configurations at several GBs. A V is shown by a green square; a SIA is represented by red spheres,the number of which depends on the SIA configuration at the GB.For the V, the metastable site is also shown with $\\mathrm { v }$ formation energy above the minimal $E _ { \\scriptscriptstyle V } ^ { f }$ less than $0 . 2 ~ \\mathrm { e V } .$ The $E _ { \\scriptscriptstyle V } ^ { f }$ is marked on a site. $E _ { S I A } ^ { f }$ is marked near the SIA configuration. The vertical blue line indicates the GB position. In (i) and $( \\mathbf { k } )$ , the inset shows the SIA configuration along another view. Axis $Z$ is normal to the GB plane, while axis $Y$ is parallel to the GB plane.Axes $Y$ and $Z$ are identical to that in Fig. S4. ",
+        "page_idx": 70
+    },
+    {
+        "type": "image",
+        "img_path": "images/a35ca37b5afc0662e2ed659aab0e33ed86f95d54d85ab3aa411687c70d77747d.jpg",
+        "img_caption": [
+            "Fig. S7. (a-l） The bulk SIA/V concentration（ $C _ { S U / V } ^ { b u l k }$ ）as a function of the radiation dose at different"
+        ],
+        "img_footnote": [],
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "temperatures of 100,200,300 and $6 0 0 ~ \\mathrm { K }$ and grain sizes of 50, 100 and $2 0 0 \\ \\mathrm { n m }$ .(al-l1) The SIA/V concentration at the GB ( $\\cdot \\ : C _ { S L A / V } ^ { G B } )$ as a function of the radiation dose atthe above four temperatures and grain sizes. The legend for (a-l) is given in (m). The legend for (a1-l1) is given in (m1). ",
+        "page_idx": 71
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a66b0fd13ba38e95b82d11a872fb493a072f3af7dcc45ff85f517ad0ab43911.jpg",
+        "img_caption": [
+            "Fig. S8. (a-l) The bulk V concentration as a function of the distance of the $\\mathrm { \\Delta V }$ to the GB at different "
+        ],
+        "img_footnote": [],
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "temperatures of 100,200,300 and $6 0 0 ~ \\mathrm { K }$ and dose rates ofl $0 ^ { 2 }$ ， ${ { 1 0 } ^ { - 2 } }$ and $1 0 ^ { - 5 } \\mathrm { \\ d p a { \\cdot } s ^ { - 1 } }$ . The legend for (a-l) is given in (a). ",
+        "page_idx": 72
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb36daf4ed2d8b87ef4562862c29876d6de8861bc5f7cd238fdc600200555f44.jpg",
+        "img_caption": [
+            "Fig. S9. The relaxed GB structures of $\\Sigma ^ { 5 ( 3 \\mathrm { ~ l ~ } 0 ) / [ 0 \\mathrm { ~ 0 ~ l ~ } ] }$ with a certain concentration of SIAs at $3 0 0 \\mathrm { K }$ for 50 "
+        ],
+        "img_footnote": [],
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "ps.In (a） and (b),the horizontal black line indicates the GB position. The polygon indicates the GB structural unit. The atom is represented by a sphere colored by the potential energy of the atom. ",
+        "page_idx": 73
+    },
+    {
+        "type": "image",
+        "img_path": "images/d295901aea20374da330e810e9397044b9fde69a4094b00b2a399a2a6ecc6163.jpg",
+        "img_caption": [
+            "Fig. S10.(a) The trajectories of a SIA near all the eleven GBs at $3 0 0 ~ \\mathrm { K }$ drawn from object kinetic Monte "
+        ],
+        "img_footnote": [],
+        "page_idx": 74
+    },
+    {
+        "type": "text",
+        "text": "Carlo (OKMC) simulations of the SIA behavior near the GB. Initially, the SIA is about $6 \\mathrm { n m }$ away from the GBs. The red curve is for $\\Sigma 3 ( 1 \\ 1 \\ 2 ) / [ 1 \\ 1 \\ 0 ]$ . The horizontal blue line indicates the GB position.(b） The trajectories of a V near all the GBs at $3 0 0 ~ \\mathrm { K }$ . (c) and (d) shows the trajectories at $4 0 0 ~ \\mathrm { K }$ for a SIA and V, respectively. ",
+        "page_idx": 74
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc98df53fe62407e6b0a5de50e85a3b4fdc325ece61597ecc04b6d7384903415.jpg",
+        "img_caption": [
+            "Fig. S11. The GB migration distance within 5O ps at $3 0 0 ~ \\mathrm { K }$ in several distinct MD simulations,which is in unit of the distance that the GB moves from one stable state to another nearest one (d0). "
+        ],
+        "img_footnote": [],
+        "page_idx": 75
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c2215649bfcb7500a8314cf9fc9a096d8e03a961beb988e1b70773c7c2bb995.jpg",
+        "img_caption": [
+            "Fig. S12. The relation of the $C _ { R e g 3 }$ to the formation energy ofa single SIA at a pure GB( $( E _ { S U f } ^ { G B } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 76
+    },
+    {
+        "type": "image",
+        "img_path": "images/4392156afd4f392a0108c98c8a71686e3f91b3b72b1686a05dd3da1577e8a90f.jpg",
+        "img_caption": [
+            "Fig. S13. Cumulative distribution function $\\mathrm { C } ( E _ { V } ^ { f } )$ in the GB $\\Sigma 9 ( 1 ~ 1 ~ 4 ) / [ 1 ~ 1 ~ 0 ]$ loaded with different "
+        ],
+        "img_footnote": [],
+        "page_idx": 77
+    },
+    {
+        "type": "text",
+        "text": "concentration levels of the SIAs. ",
+        "page_idx": 77
+    },
+    {
+        "type": "image",
+        "img_path": "images/de2fddce3bdf1cde52c3c750e683bf5fc5b1bac3ba7e49aa4058bf88ea80504d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "Fig. S14. (a) Variation in $C _ { S U } ^ { G B }$ (the left axis) and the corresponding V concentration near the GB $\\big ( \\mathsf { C } _ { V } ^ { n e a r G B } \\big )$ (the right axis) with radiation dose at a temperature $( T )$ of $3 0 0 \\mathrm { K }$ and dose rate $( \\tau )$ of $1 0 ^ { - 5 } \\mathrm { { d p a } \\cdot \\mathrm { { s } ^ { - 1 } } }$ . (b-e) Snapshots for microstructure evolution at above $T , \\tau$ condition. In this visualization scheme,a V-cluster is displayed by a red square，while a SIA-clusters is shown by ared filed circle.The radius of the square/circle is proportional to the real size of the V/SIA-cluster. ",
+        "page_idx": 78
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a0e1617c0e7a3ab272887b08a0b18908a25efff87e4b5bd9ca433db77b16a55.jpg",
+        "img_caption": [
+            "Fig. S15.(a) GB energy ( $\\left[ E _ { G B } \\right]$ ) as a function of the SIA concentration at the GB of $\\Sigma 5 ( 3 \\ 1 \\ 0 ) / [ 0 \\ 0 \\ 1 ] \\left( C _ { s l A } ^ { G B } \\right)$ (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "and (c）The initial structure of the GB with a certain concentration of SIAs and the GB structure after relaxation at $3 0 0 \\mathrm { K }$ , respectively. Three atoms near the GB were pinned during the relaxation. The atoms are colored with their potential energies,using the same visualization scheme as that in Fig. 4(c-h). (d-f) The GB relaxation proces. A, B and C mark the pinned atoms during the structural relaxation. In (f), the atoms that nearly remain immobile are covered by the light green circle. In (d-f),the black and blue horizontal line indicates the GB position before and after relaxation, respectively. ",
+        "page_idx": 79
+    },
+    {
+        "type": "table",
+        "img_path": "images/075a5c8d19ae1ef462f7f1af1bb088e1ee10e1d05c38ce1fe7b64705a27085ee.jpg",
+        "table_caption": [
+            "Table S1. Irradiation conditions in several systems. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Reference</td><td>System</td><td>Radiation-particle</td><td>T (K)</td><td>rd (dpa)</td><td>τ (dpa-s-1)</td><td>L (nm)</td></tr><tr><td>[S4]</td><td>Pd</td><td> 4MeV-Kr2+</td><td>298</td><td>170-210</td><td>3×10-1</td><td>10-300</td></tr><tr><td>[S4]</td><td>ZrO2</td><td>4MeV-Kr2+</td><td>298</td><td>3-8</td><td>9×10-4</td><td>10-300</td></tr><tr><td>[S5]</td><td>Pt</td><td>2.8MeV-Au4+</td><td>573</td><td>3</td><td>8×10-4</td><td>20-100</td></tr><tr><td>[S6]</td><td>Ag</td><td>1MeV-Kr2+</td><td>298</td><td>1</td><td>1.25×10-3</td><td>100</td></tr><tr><td>[S7]</td><td>Ni</td><td>1MeV-Kr2+</td><td>298</td><td>1-5</td><td>3×10-3</td><td>200</td></tr><tr><td>[S8]</td><td>Au</td><td>60MeV-12C</td><td>15</td><td>unknown</td><td>unknown</td><td>23</td></tr><tr><td>[S8]</td><td>Au</td><td>60MeV-12C</td><td>300</td><td>unknown</td><td>unknown</td><td>23</td></tr><tr><td>[S9]</td><td>bcc-Fe</td><td>100keV-He2+</td><td>298</td><td>6號</td><td>8×10-4</td><td>49-96</td></tr><tr><td>[S10]</td><td>bcc-Fe</td><td>10keV-He2+</td><td>700</td><td>12.5</td><td>1×10-2</td><td>100</td></tr><tr><td>[S11]</td><td>bcc-Fe</td><td>10keV-He2+</td><td>298</td><td>2</td><td>1×10-²</td><td>50</td></tr><tr><td>[S11]</td><td>bcc-Fe</td><td>10keV-He2+</td><td>873</td><td>2</td><td>1×10-2</td><td>50</td></tr><tr><td>[S12]</td><td>bcc-Fe</td><td>440keV-He2+</td><td>823</td><td>2</td><td>4×10-6</td><td>12.6</td></tr><tr><td>[S13]</td><td>bcc-Fe</td><td>3.5MeV-Fe+</td><td>723</td><td>150</td><td>1×10-2</td><td>320</td></tr><tr><td>[S13]</td><td>bcc-Fe</td><td>3.5MeV-Fe+</td><td>723</td><td>150</td><td>1×10-2</td><td>2000</td></tr><tr><td>[S14]</td><td>fcc-Fe</td><td>1MeV-Kr2+</td><td>723</td><td>40</td><td>2.5×10-3</td><td>45</td></tr><tr><td>[S14]</td><td>fcc-Fe</td><td>1MeV-Kr2+</td><td>873</td><td>108</td><td>2.5×10-3</td><td>45</td></tr><tr><td>[S15]</td><td>fcc-Fe</td><td>3.5MeV-Fe+</td><td>773</td><td>80</td><td>3×10-3</td><td>100</td></tr><tr><td>[S15]</td><td>fcc-Fe</td><td>3.5MeV-Fe+</td><td>773</td><td>80</td><td>3×10-3</td><td>35000</td></tr><tr><td>[S16]</td><td>Cu</td><td> 4.5MeV-Cu3+</td><td>298</td><td>1.7/8.5</td><td>unknown</td><td>280</td></tr><tr><td>[S17]</td><td>Cu</td><td>1MeV-Kr2+</td><td>298</td><td>1.56</td><td>0.43-1.98x10-3</td><td>unknown</td></tr><tr><td>[S18]</td><td>Cu</td><td>200keV-He2+</td><td>723</td><td>3</td><td>2.8×10-4</td><td>15</td></tr><tr><td>[S19]</td><td>Mo</td><td>200keV-He2+</td><td>298</td><td>4</td><td>unknown</td><td>25-3900</td></tr><tr><td>[S20]</td><td>W</td><td>8keV-He2+</td><td>298</td><td>unknown</td><td>unknown</td><td>40-300</td></tr><tr><td>[S21]</td><td>W</td><td> 3MeV-Si2+/Cu3+/W4+</td><td>298</td><td>1.03-5.72</td><td>6×10-4/9×10-4/3×10-3</td><td>60-400</td></tr><tr><td>[S22]</td><td>W</td><td>3MeV-Cu3+</td><td>298/1050</td><td>0.2-4</td><td>1×10-4</td><td>50.6-800</td></tr><tr><td>[S22]</td><td>W</td><td>3MeV-Cu3+</td><td>298/1050</td><td>0.2-4</td><td>1×10-2</td><td>50.6-800</td></tr><tr><td>[S23]</td><td>W</td><td>2keV-He2+</td><td>1223</td><td>unknown</td><td>unknown</td><td>60-100,100-500</td></tr><tr><td>[S24]</td><td>W</td><td>1MeV-Kr2+</td><td>298/1073</td><td>2</td><td>2×10-3</td><td>35,85,80-400,1-30</td></tr></table></body></html>",
+        "page_idx": 80
+    },
+    {
+        "type": "table",
+        "img_path": "images/c44a73a820921caa0402987ebab8aab6d6dc600c199d0793d3be566eb3b8109a.jpg",
+        "table_caption": [
+            "Table S2. The migration energy barriers for small $\\mathrm { V _ { n } / S I A _ { n } }$ in the bulk and near the GB. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Value</td><td>Term</td><td>Comments</td></tr><tr><td>0.67 eV</td><td>Em_V_bulk</td><td>Migration energy barrier for a single V in Fe bulk</td></tr><tr><td>0.62 eV</td><td>Em_V2_bulk</td><td>Migration energy barrier for V2 in Fe bulk</td></tr><tr><td>0.35 eV</td><td>Em_V3_bulk</td><td>Migration energy barrier for V3 in Fe bulk</td></tr><tr><td>0.48 eV</td><td>Em_V4_bulk</td><td>Migration energy barrier for V4 in Fe bulk</td></tr><tr><td>2.8 eV</td><td>Em_Vn_bulk</td><td>Migration energy barrier for Vn (n>4) in Fe bulk</td></tr><tr><td>0.34 eV</td><td>Em_SIA_bulk</td><td>Migration energy barrier for a single SIA in Fe bulk</td></tr><tr><td>0.43 eV</td><td>Em_SIA2_bulk</td><td>Migration energy barrier for SIA2 in Fe bulk</td></tr><tr><td></td><td>Em_SIA3_bulk</td><td>Migration energy barrier for SIA3 in Fe bulk</td></tr><tr><td>00 0.43 eV</td><td>Em_SIAn1_bulk</td><td>Migration energy barrier for SIAn1 (n1>3, n1<=1O) in Fe bulk</td></tr><tr><td>2.8 eV</td><td>Em_SIAn2_bulk</td><td>Migration energy barrier for SIAn2 (n2>1O) in Fe bulk</td></tr><tr><td>0.0 eV</td><td>Em_SIAn_nearGB</td><td>Migration energy barrier for SIAn (n<=500) near Fe GB</td></tr><tr><td>0.34 eV</td><td>Em_V_nearGB</td><td>Migration energy barrier for a single V near Fe GB</td></tr><tr><td></td><td>Em_V2_nearGB</td><td>Migration energy barrier for V2 near Fe GB</td></tr><tr><td>0.18 eV</td><td>Em_V3_nearGB</td><td>Migration energy barrier for V3 near Fe GB</td></tr><tr><td>0.24 eV</td><td>Em_V4_nearGB</td><td>Migration energy barrier for V4 near Fe GB</td></tr><tr><td>1.4 eV</td><td>Em_Vn_nearGB</td><td>Migration energy barrier for Vn (n>4) near Fe GB</td></tr></table></body></html>",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "Table S3.Some parameters describing the SIA migration along the GB, including migration energy barrier for the SIA along the tilt axis $\\left( E _ { i m } ^ { \\parallel } \\right)$ , the time for SIA migration along the tilt axis at $3 0 0 \\mathrm { ~ K ~ } ( t _ { i m } ^ { \\parallel } )$ ，the SIA migration energy barrier in the direction nonparallel to the tilt axis $\\left( E _ { i m } ^ { \\mathcal { H } } \\right)$ , the time for the SIA migration in the corresponding direction at $3 0 0 \\mathrm { K } \\left( t _ { i m } ^ { \\ast } \\right)$ ",
+        "page_idx": 82
+    },
+    {
+        "type": "table",
+        "img_path": "images/176359e823345ad74ca5820a9daf685f127c2befc42a8df52925f9068a4eee89.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>GB</td><td>E(ev)</td><td>t（s)</td><td>E(eV)</td><td>t(s）</td></tr><tr><td>bulk</td><td>0.33</td><td>3.5×10-7</td><td>0.33</td><td>3.5×10-7</td></tr><tr><td>£5(2 1 0)/[0 0 1]</td><td>0.12</td><td>1.0×10-10</td><td>1.52</td><td>3.4×1013</td></tr><tr><td>£5(3 1 0)/[0 0 1]</td><td>0.44</td><td>2.5×10-5</td><td>1.176</td><td>5.7×107</td></tr><tr><td></td><td></td><td>1.7×10-4</td><td>3030</td><td>2.6×1039</td></tr><tr><td></td><td></td><td>4.7×10-12</td><td></td><td>1.7×1039</td></tr><tr><td>£25(4 3 0)/[0 0 1]</td><td>0.52</td><td>5.4×10-4</td><td>1.80</td><td>1.7×1018</td></tr><tr><td>£85(7 6 0)/[0 0 1]</td><td>0.77</td><td>8.6</td><td>1.7</td><td>3.6×1016</td></tr><tr><td>£85(13 1 0)/[0 0 1]</td><td>0.34</td><td>5.2×10-7</td><td>2.0</td><td>4.0×1021</td></tr><tr><td>£3(1 1 1)/[1 1 0]</td><td>0.69</td><td>3.9×10-1</td><td>0.50</td><td>2.5×10-4</td></tr><tr><td>£3(1 1 2)/[1 1 0]</td><td>0.55</td><td>1.7×10-3</td><td>0.07</td><td>1.5×10-11</td></tr><tr><td>£9(1 1 4)/[1 1 0]</td><td>0.45</td><td>3.6×10-5</td><td>1.04</td><td>3.0×105</td></tr><tr><td>£9(2 2 1)/[1 1 0]</td><td>0.53</td><td>8.0×10-4</td><td>0.82</td><td>6.0×101</td></tr><tr><td>∑11(1 1 3)/[1 1 0]</td><td>0.66</td><td>1.2×10-1</td><td>1.22</td><td>3.1×108</td></tr><tr><td>∑11(3 3 2)/[1 1 0]</td><td>0.87</td><td>4.1×10²</td><td>0.99</td><td>4.3×104</td></tr></table></body></html>",
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "Table S4. Some parameters describing the V migration along the GB,including migration energy barrier for the V along the tilt axis $( E _ { \\nu m } ^ { \\parallel } )$ , the time for $\\mathrm { v }$ migration along the tilt axis at $3 0 0 \\mathrm { ~ K ~ } ( t _ { { \\nu } m } ^ { \\parallel } )$ the $\\mathrm { \\Delta V }$ migration energy barrier in the direction nonparallel to the tilt axis $\\left( E _ { \\nu m } ^ { \\nparallel } \\right)$ ，the time for the $\\mathrm { \\Delta V }$ migration in the corresponding direction at $3 0 0 \\mathrm { K } \\left( t _ { \\nu m } ^ { \\nparallel } \\right)$ ",
+        "page_idx": 83
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b8e84471101437f56e49395c3a391175aab52f0674c6b9fe56982a60ce8d034.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>GB</td><td>E(ev)</td><td>t (s)</td><td>E (ev)</td><td>t（s）</td></tr><tr><td>bulk</td><td>0.63</td><td>3.8×10-2</td><td>0.63</td><td>3.8×10-2</td></tr><tr><td>£5(2 1 0)/[0 0 1]</td><td>0.36</td><td>1.1×10-6</td><td>1.07</td><td>9.5×105</td></tr><tr><td>£5(3 1 0)/[0 0 1]</td><td>0.55</td><td>1.7×10-3</td><td>0.82</td><td>6.0×101</td></tr><tr><td>£13(5 1 0)/[0 0 1]</td><td>0.68</td><td>2.7×10-1</td><td>1.46</td><td>3.4×1012</td></tr><tr><td>£13(3 2 0)/[0 0 1]</td><td>0.37</td><td>1.6×10-6</td><td>1.61</td><td>1.1×1015</td></tr><tr><td>£25(4 3 0)/[0 0 1]</td><td>0.72</td><td>1.2×101</td><td>1.28</td><td>3.2×109</td></tr><tr><td>£85(7 6 0)/[0 0 1]</td><td>0.78</td><td>1.3×101</td><td>1.4</td><td>3.3×1011</td></tr><tr><td>£85(13 1 0)/[0 0 1]</td><td>0.89</td><td>9.0×10²</td><td>1.73</td><td>1.2×1017</td></tr><tr><td>£3(1 1 1)/[1 1 0]</td><td>0.95</td><td>9.1×103</td><td>0.95</td><td>9.1×103</td></tr><tr><td>£3(1 1 2)/[1 1 0]</td><td>0.60</td><td>1.2×10-2</td><td>0.38</td><td>2.4×10-6</td></tr><tr><td>£9(1 1 4)/[1 1 0]</td><td>0.68</td><td>2.7×10-1</td><td>1.75</td><td>2.5×1017</td></tr><tr><td>£9(2 2 1)/[1 1 0]</td><td>1.25</td><td>1.0×109</td><td>1.73</td><td>1.2×1017</td></tr><tr><td>∑11(1 13)/[1 1 0]</td><td>0.79</td><td>1.9×101</td><td>2.18</td><td>4.2×1024</td></tr><tr><td>∑11(3 3 2)/[1 1 0]</td><td>0.66</td><td>1.2×10-1</td><td>0.56</td><td>2.6×10-3</td></tr></table></body></html>",
+        "page_idx": 83
+    },
+    {
+        "type": "table",
+        "img_path": "images/9fe35dab819af0e7e70b835730f572a897d4c3feae0b034d62bcb7d639693038.jpg",
+        "table_caption": [
+            "Table S5.The binding energy for the V/SIA with small $\\mathrm { V _ { n } / S I A _ { n } }$ in Fe bulk. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Value</td><td>Term</td><td>Comments</td></tr><tr><td>0.30 eV</td><td>Eb_V_V_bulk</td><td>Binding energy for the V with a V in Fe bulk</td></tr><tr><td>0.37eV</td><td>Eb_V_V2_bulk</td><td>Binding energy for the V with a V2 in Fe bulk</td></tr><tr><td>0.62 eV</td><td>Eb_V_V3_bulk</td><td>Binding energy for the V with a V3 in Fe bulk</td></tr><tr><td>0.62 eV</td><td>Eb_V_Vn_bulk</td><td>Binding energy for the V with a Vn (n>3) in Fe bulk</td></tr><tr><td>0.80 eV</td><td>Eb_SIA_SIA_bulk</td><td>Binding energy for the SIA with a SIA in Fe bulk</td></tr><tr><td>0.92 eV</td><td>Eb_SIA_SIA2_bulk</td><td>Binding energy for the SIA with a SIA2 in Fe bulk</td></tr><tr><td>1.64 eV</td><td>Eb_SIA_SIA3_bulk</td><td>Binding energy for the SIA with a SIA3 in Fe bulk</td></tr><tr><td>1.64 eV</td><td>Eb_SIA_SIAn_bulk</td><td>Binding energy for the SIA with a SIAn (n>3) in Fe bulk</td></tr></table></body></html>",
+        "page_idx": 84
+    },
+    {
+        "type": "table",
+        "img_path": "images/2786967062b569b4b6e7804b461e8e50cf6727b94a1a7939958ed1524d906011.jpg",
+        "table_caption": [
+            "Table S6. Binding energy of the V-V ( $\\left( E _ { b } ^ { V - V } \\right)$ and SIA-SIA ( $( E _ { b } ^ { S L A - S L A } )$ at the GB. Note that, before calculating the binding energy，the stable sites for $\\mathrm { V } / \\mathrm { V } _ { 2 }$ and $\\mathrm { S I A } / \\mathrm { S I A } _ { 2 }$ at the GB were found by relaxing the corresponding GB system at $3 0 0 \\mathrm { K }$ ： "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>GB</td><td>E- (ev)</td><td></td></tr><tr><td>bulk</td><td>0.30</td><td>0.80</td></tr><tr><td>£5(2 1 0)/[0 0 1]</td><td>0.44</td><td>-0.27</td></tr><tr><td>£5(3 1 0)/[0 0 1]</td><td>0.55</td><td>0.25</td></tr><tr><td>£13(5 1 0)/[0 0 1]</td><td>0.42</td><td>0.38</td></tr><tr><td></td><td></td><td>100</td></tr><tr><td></td><td></td><td></td></tr><tr><td>£85(7 6 0)/[0 0 1]</td><td>0.57</td><td>0.40</td></tr><tr><td>£85(13 1 0)/[0 0 1]</td><td>0.53</td><td>0.19</td></tr><tr><td>£3(1 1 1)/[1 1 0]</td><td>-1.09</td><td>0.02</td></tr><tr><td>£3(1 1 2)/[1 1 0]</td><td>0.1</td><td>0.48</td></tr><tr><td>£9(1 1 4)/[1 1 0]</td><td>0.15</td><td>-0.23</td></tr><tr><td>∑9(2 2 1)/[1 1 0]</td><td>-0.25</td><td>0.09</td></tr><tr><td>∑11(1 1 3)/[1 1 0]</td><td>-0.08</td><td>-0.04</td></tr><tr><td>∑11(3 3 2)/[1 1 0]</td><td>0.44</td><td>0.07</td></tr></table></body></html>",
+        "page_idx": 85
+    },
+    {
+        "type": "text",
+        "text": "Table S7. Some parameters describing the interaction of a SIA with a GB, including the minimal SIA formation energy $( E _ { S L A f } ^ { G B } )$ near the GB,the maximal SIA segregation energy $( E _ { s e g } ^ { S I A } )$ ， the maximal SIA emission energy barrier from the GB $( E _ { a } ^ { I E } )$ , the time for SIA emission from the GB at $3 0 0 \\mathrm { ~ K ~ } ( t _ { { _ { I E } } } )$ ，the minimal di-SIA formation energy near the GB $( E _ { S L A _ { 2 } f } ^ { G B }$ ). Note that,the GB with a SIA ordi-SIA was relaxed at $3 0 0 \\mathrm { K }$ to find the stable site for the $\\mathrm { S I A } / \\mathrm { S I A } _ { 2 }$ location at the GB. ",
+        "page_idx": 86
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d9ab0c6c357f5cbef8339cf5f703db56ca6e7aa956354cf8f3031685ac2c446.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>GB</td><td>E/ (ev）</td><td>E (ev）</td><td>E (eV)</td><td>tE(s)</td><td>E/(ev)</td></tr><tr><td>bulk</td><td>3.53</td><td>0.00</td><td>0.33</td><td>3.5×10-7</td><td></td></tr><tr><td>£5(2 1 0)/[0 0 1]</td><td>0.64</td><td>2.89</td><td>3.22</td><td>1.3×1042</td><td>1.55</td></tr><tr><td>26 1000</td><td>80</td><td>282</td><td>303</td><td>2.9×1038</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>8.8×1040</td><td></td></tr><tr><td>£13(3 2 0)/[0 0 1]</td><td>0.66</td><td>2.87</td><td>3.20</td><td>6.1×1041</td><td>1.38</td></tr><tr><td>£25(4 3 0)/[0 0 1]</td><td>0.73</td><td>2.80</td><td>3.13</td><td>3.5×1040</td><td>1.04</td></tr><tr><td>£85(7 6 0)/[0 0 1]</td><td>0.59</td><td>2.94</td><td>3.27</td><td>5.8×1041</td><td>0.78</td></tr><tr><td>£85(13 1 0)/[0 0 1]</td><td>0.56</td><td>2.97</td><td>3.30</td><td>2.5×1043</td><td>0.93</td></tr><tr><td>£3(1 1 1)/[1 1 0]</td><td>0.25</td><td>3.28</td><td>3.61</td><td>3.9×1048</td><td>0.48</td></tr><tr><td>£3(1 1 2)/[1 1 0]</td><td>2.82</td><td>0.71</td><td>1.04</td><td>2.8×10</td><td>5.16</td></tr><tr><td>£9(1 1 4)/[1 1 0]</td><td>0.52</td><td>3.01</td><td>3.34</td><td>1.3×1044</td><td>1.27</td></tr><tr><td>∑9(2 2 1)/[1 1 0]</td><td>0.40</td><td>3.13</td><td>3.50</td><td>1.3×1046</td><td>0.71</td></tr><tr><td>∑11(1 1 3)/[1 1 0]</td><td>0.46</td><td>3.07</td><td>3.40</td><td>1.4×1045</td><td>0.96</td></tr><tr><td>∑11(3 3 2)/[1 1 0]</td><td>0.93</td><td>2.60</td><td>2.93</td><td>1.5×1037</td><td>1.79</td></tr></table></body></html>",
+        "page_idx": 86
+    },
+    {
+        "type": "text",
+        "text": "Table S8. Some parameters describing the interaction of a $\\mathrm { v }$ with a GB, including the minimal vacancy formation energy $( E _ { V f } ^ { G B } )$ ） near the GB,the maximal $\\mathrm { v }$ segregation energy ( $( E _ { s e g } ^ { V } )$ , the maximal $\\mathrm { \\Delta V }$ emission energy barrier from the GB $( E _ { a } ^ { V E } )$ , the time for $\\mathrm { \\Delta V }$ emission from the GB at $3 0 0 \\mathrm { ~ K ~ } ( t _ { \\scriptscriptstyle { V E } } )$ , the minimal di-V formation energy near the GB $( E _ { V _ { 2 } f } ^ { G B } )$ ). Note that, the GB with a $\\mathrm { v }$ or di-V was relaxed at $3 0 0 ~ \\mathrm { K }$ to find the stable site for the $\\mathrm { V } / \\mathrm { V } _ { 2 }$ location at the GB. ",
+        "page_idx": 87
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab05f446a811b32e2b2a9a42b587f870b08c04ada99e4037fcafc987dccdede3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>GB</td><td>E (ev)</td><td>E(ev)</td><td>E(ev)</td><td>tvE(s)</td><td></td><td>E(ev)</td></tr><tr><td></td><td>bulk</td><td>1.71</td><td>0.00</td><td>0.63</td><td>3.8×10-2</td><td></td></tr><tr><td></td><td>£5(2 10)/[0 0 1]</td><td>1.22</td><td>0.49</td><td>1.12</td><td>5.6×106</td><td>2.00</td></tr><tr><td></td><td></td><td>208</td><td></td><td>4</td><td></td><td>818</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>£13(3 2 0)/[0 0 1]</td><td>0.80</td><td>0.91</td><td>1.54</td><td>8.2×1013</td><td>1.08</td></tr><tr><td></td><td>£25(4 3 0)/[0 0 1]</td><td>0.78</td><td>0.93</td><td>1.56</td><td>1.7×1014</td><td>0.93</td></tr><tr><td></td><td>£85(7 6 0)/[0 0 1]</td><td>0.66</td><td>1.05</td><td>1.34</td><td>3.3×1010</td><td>0.75</td></tr><tr><td></td><td>£85(13 1 0)/[0 0 1]</td><td>0.71</td><td>1.00</td><td>1.63</td><td>2.6×1015</td><td>0.89</td></tr><tr><td></td><td>£3(1 1 1)/[1 1 0]</td><td>0.35</td><td>1.37</td><td>1.99</td><td>3.2×1021</td><td>1.79</td></tr><tr><td></td><td>£3(1 1 2)/[1 1 0]</td><td>1.53</td><td>0.18</td><td>0.81</td><td>3.8×101</td><td>2.96</td></tr><tr><td>£9(1 1 4)/[1 1 0]</td><td></td><td>0.70</td><td>1.01</td><td>1.62</td><td>1.9×1015</td><td>1.25</td></tr><tr><td>£9(2 2 1)/[1 1 0]</td><td></td><td>0.34</td><td>1.37</td><td>2.00</td><td>3.3×1021</td><td>0.93</td></tr><tr><td>∑11(1 13)/[1 1 0]</td><td></td><td>0.55</td><td>1.16</td><td>1.79</td><td>1.3×1018</td><td>1.18</td></tr><tr><td>∑11(3 3 2)/[1 1 0]</td><td></td><td>1.14</td><td>0.57</td><td>1.20</td><td>1.6×108</td><td>1.84</td></tr></table></body></html>",
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "3.Supplementary text ",
+        "text_level": 1,
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "Text S1.Derivation for the linear increase of the GB energy with the defects concentration at the GB. ",
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "The meaning of the relevant symbols is defined as follows. $S _ { G B }$ : the area of a GB, $N$ : the number of atoms in a GB system, $E _ { c o h }$ : cohesive energy per atom in the bulk, $n$ : the number V/SIA at the GB, $E _ { G B } ^ { t o t }$ ： the total energy of a GB system, $C$ : the V/SIA concentration at the GB, $E _ { b }$ : the average V-V/SIA-SIA binding energy at the GB. ",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "The GB energy of a pure GB,by definition, is given by: ",
+        "page_idx": 88
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { _ { G B 1 } } = \\left[ E _ { _ { G B } } ^ { \\scriptscriptstyle t o t } ( N ) - N \\times E _ { _ { c o h } } \\right] / S _ { _ { G B } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "The GB energy of the GB with a certain number of defects is given by: ",
+        "page_idx": 88
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { _ { G B 2 } } = \\left[ E _ { _ { G B } } ^ { \\prime o t } ( N \\pm n ) - ( N \\pm n ) \\times E _ { _ { c o h } } \\right] / S _ { _ { G B } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "The energy difference is: ",
+        "page_idx": 88
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Delta E _ { G B } = E _ { G B 2 } - E _ { G B 1 } = \\Big [ E _ { G B } ^ { t o t } ( N \\pm n ) - E _ { G B } ^ { t o t } ( N ) \\mp n \\times E _ { c o h } \\Big ] / S _ { G B } } \\\\ & { = \\Bigg [ \\frac { E _ { G B } ^ { t o t } ( N \\pm n ) - E _ { G B } ^ { t o t } ( N ) } { n } \\mp E _ { c o h } \\Bigg ] n / S _ { G B } } \\\\ & { = \\Bigg [ \\frac { E _ { G B } ^ { t o t } ( N \\pm n ) - E _ { G B } ^ { t o t } ( N ) } { n } \\mp E _ { c o h } \\Bigg ] C } \\end{array} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "The V/SIA formation energy, by definition, is given by: ",
+        "page_idx": 88
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\scriptscriptstyle { S I A / V f } } ^ { \\scriptscriptstyle { G B } } = E _ { \\scriptscriptstyle { G B } } ^ { t o t } ( N \\pm 1 ) - E _ { \\scriptscriptstyle { G B } } ^ { t o t } ( N ) \\mp E _ { c o h } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "$E _ { G B } ^ { t o t } ( N \\pm n ) - E _ { G B } ^ { t o t } ( N )$ In Eq. 3, the term （204号 $n$ means the average energy variation induced by the adding of n defects.In Eq. 4, the term $E _ { { G B } } ^ { t o t } ( N \\pm 1 ) { - } E _ { { G B } } ^ { t o t } ( N )$ means the energy variation induced by adding of one defect. 1 If there is no interaction among defects, the two terms would be the same. In this case, we obtain: ",
+        "page_idx": 88
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta E _ { G B } = E _ { S L A / V f } ^ { G B } \\times C ,\n$$",
+        "text_format": "latex",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "If there is interaction among defects, then we obtain: ",
+        "page_idx": 88
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta E _ { _ { G B } } \\approx ( E _ { \\scriptscriptstyle { S I A / V f } } ^ { \\scriptscriptstyle { G B } } - f I \\times E _ { \\scriptscriptstyle { b } } ) \\times C \\ : ,\n$$",
+        "text_format": "latex",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "where $f I$ is approximately the fraction of defects pairs relative to the total number of defects. ",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "From Eqs.5 and 6,one could see the linear dependence of the GB energy on the defects concentration at the GB. ",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 89
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Key Research and Development Program of China (Grant Nos.: 2017YFE0302400,2018YFE0308102,2017YFA0402800), the National Natural Science Foundation of China (Nos.:11735015, 51871207, 51671185,51771181,and 51971212, U1832206,11575229), and by the Center for Computation Science, Hefei Institutes of Physical Sciences. ",
+        "page_idx": 89
+    },
+    {
+        "type": "text",
+        "text": "Supplementary references ",
+        "text_level": 1,
+        "page_idx": 89
+    },
+    {
+        "type": "text",
+        "text": "[S1]D.Chen,J.Wang,T.Chen,L.Shao,Defect anihilationat grainboundaries inalpha-Fe.Sci.Rep.3(2013)1450.   \n[S2]M.I. Mendelev,S.Han,D.J.Srolovitz,G.J.Ackland,D.Y.Sun,M.Asta,Developmentof newinteratomicpotentials appropriate for crystalline and liquid iron. Philos.Mag. 83 (2003) 3977-3994.   \n[S3] J.F.Ziegler,M.D.Zegler,J.P.Bersack,SRICThe stoppingandrangeofions inmater,Nucl.Instrm.Method Phys. Res. B 268 (2010) 1818-183.   \n[S4]M.Rose,A.G.Balogh,H.Hahn,Instabilityofiradiated induceddefects inanostructuredmaterials.NuclInstrndMeth.B 127 (1997) 119-122.   \n[S5] C.M.Barr,N.L,B.L.Boye,K.Hatar,Examiningtheifluenceofgrainzeoadiationtoleranceinteanoctalie regime. Appl. Phys.Lett. 112 (2018) 181903.   \n[S6]J.Li,K.Y.Yu, Y.Chen,M.Song,H. Wang,M.A. Kirk,M.Li, X. Zhang, Insitu studyofdefect migration kineticsand self-healing of twin boundaries in heavy ion iradiated nanotwinned metals.Nano Lett.15 (2015)2922-2927.   \n[S7] C.Sun,M.Song,K.Y.Yu,Y.Chen,M.Kirk,M.Li,H.Wang,X.Zhang,Insitu evidenceof defectcluster absorptionby grain boundaries in Kr ion irradiated nanocrystalline Ni. Metall. Mater. Trans.A 44A (2013) 1966-1974.   \n[S8]Y.Chimi,A.Iwase,N.Ishikawa,M.Kobiyama,T.Inami,S.Okuda,Accumulationandrecoveryofdefectsinio-iradated nanocrystalline gold. J. Nucl. Mater. 297 (2001) 355-357.   \n[S9] K.Y.Yu,Y.Liu,C.Sun,H.Wang,L.Shao,E.G.Fu,X.Zang,RadiationdamagiheliumoniadiatednanocrtaineFe. J. Nucl. Mater. 425 (2012) 140-146.   \n[S10]O.El-Atwani,JE.NataelI,A.Ceff.uifeing,JKBain,K.aar,.L.eri,eroeofgiie He bubble formation: Implications for swelling resistance. J. Nucl. Mater. 484 (2017) 236-244.   \n[S11]B.Muntifering,Y.Fang,A.C.Le,A.Du,J.Qu,.L.Taeri,R.ngreville,K.Hatar,Inittransmsseectro microscopy $\\mathrm { H e } ^ { + }$ implantation and thermal aging of nanocrystalline iron. J. Nucl. Mater. 482 (2016) 139-146. ",
+        "page_idx": 89
+    },
+    {
+        "type": "text",
+        "text": "[S12]W.B.Liu,J.H.Zhang,Y.Z.Ji,L.D.Xia,H.P.Liu,D.Yun,C.H.He,C.Zhang,Z.G.Yang,Comparative studyofHe bubble formation in nanostructuredreducedactivation steel and itscoarsen-grainedcounterpart.J.Nucl. Mater.500 (2018) 213-219. ",
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "[S13]M.Song, Y.D.Wu,D.Chen, X.M. Wang, C.Sun, K.Y. Yu, Y.Chen,L. Shao,Y.Yang,K.T. Hartwig, X. Zhang, Response of equalchannel angular extrusion processed ultrafine-grained T91 stel subjected to high temperature heavy ion irradiation. Acta Mater. 74 (2014) 285-295.   \n[S14] C.Du,S.Jin,Y.Fang,J.Li,S.Hu,T.Yang,Y.Zhang,J.Huang,G.Sha,Y.Wang,Z.Shang,X.Zhang,B.Sun,S. Xin,T. Shen,Ultrastrong nanocrystaline steel with exceptional thermal stabilityandradiation tolerance.Nat. Commun.9(2018) 5389.   \n[S15] C.Sun,S. Zheng, C.C.Wei, Y.Wu,L.Shao,Y.Yang,K.T.Hartwig,S.A. Maloy,S.J. Zinkle,T.R. Alen,H.Wang, X. Zhang，Superior radiation-resistant nanoengineeredaustenitic 304L stainless steel for applications in extremeradiation environments. Sci. Rep.5 (2015) 7801.   \n[S16]N.Li,J.Wang,Y.Q.Wang,Y.Seruys,M.Nastasi,A.Misra,Incoherenttwinboundarymigrationinduced byion irradiation in Cu. J. Appl. Phys.113 (2013) 023508.   \n[S17]Y.Chen,J.LiK.Y.Yu,H.Wang,M.A.Kirk,M.Li,X.Zhang,Insitustudies onradiationtoleranceofnanotwinedCu. Acta Mater. 111 (2016) 148-156.   \n[S18]W.Han,E.G.Fu,Idiationdmageofsingletal,oarsegrained,andograinedcopperderelbobrdent at 450 C. J. Mate. Res. 28 (2013) 2763-770.   \n[S19] G.M.Cheng, W.Z.Xu,Y.Q.Wang,A.Misra,Y.T.Zhu,Grainsizeefectonradiationtoleranceofnanocrystallne Mo.Scr. Mater. 123 (2016) 90-94.   \n[S20]O.El-Atwani,K.Hattr,JA.Hnks,G.Greaves,S.S.Harilal,A.Hasnein,Helumbubbleformationinultraend nanocrystalline tungsten under different extreme conditions. J. Nucl. Mater. 458 (2015) 216-223.   \n[S21] O.El-Atwani,A.Suslova,T.J.Novakowski,K.Hattar,M.Efe,S.S.Harilal,A.Hasanein,In-situ TEM/heavion irradiation onultrafine-and nanocrystaline-grained tungsten: Effectof3 MeVSi, Cuand Wions.Mater.Charact.99 (015) 68-76.   \n[S22] O.El-Atwani,E.Esquivel,M.Efe,E.Aydogan,Y.Q.Wang,E.Martinez,S.A. Maloy,Loopand voiddamageduring heavy ion iradiationonnanocrystalineand grained tungsten: Microstructure,efectofdparate,temperature,andgrai size. Acta Mater.149 (2018) 206-219.   \n[S23]O.E-Atwani,J.Hinks,G.Greaves,S.Gonderman,T.Qiu.Efe,JP.lin,I-situobservationofthespoe of ultrafine- and nanocrystalline-grained tungsten to extreme irradiation environments. Sci. Rep. 4 (2014) 4716.   \n[S24]O.El-Atwani,E.Esquivel,E.Aydogan,E.Martiez,JK.Baldwin,.Li.P.Uberuaga,S.A.aloy,Unpreted iradiaton resistance of nanocrystaline tungsten with equiaxed nanocrystalline grains to dislocation loop accumulation. Acta Mater.165 (2019) 118-128. ",
+        "page_idx": 90
+    }
+]

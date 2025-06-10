@@ -1,0 +1,134 @@
+# 外泌体与自噬体相互关系研究进展
+
+刘艳1,2，戴鹏²，朱运峰1 3\*\*(1北京交通大学生命科学与生物工程研究院北京1000442 河南省华之源生物技术有限公司 郑州4500003 解放军总医院肿瘤中心实验室 北京100853)
+
+摘要真核细胞内膜系统由细胞内相互联系的膜状细胞器组成，包括外泌体的生成和自噬过程，对应激反应和维持细胞内稳态起着重要作用。外泌体是含有蛋白质与核酸内容物的多泡体分泌到体外形成的胞外囊泡，而自噬是溶酶体依赖性的降解和循环再利用的过程。研究发现，外泌体的生成和自噬之间有着共同的分子机制，二者存在实质性的交互通讯。本文对外泌体的生成和自噬的过程，包括二者与溶酶体之间的关系进行综述。
+
+关键词 自噬 外泌体 溶酶体 胞外囊泡中图分类号 Q28
+
+# Research Progress of Relationship between Exosomes and Autophagosomes
+
+LIU Yan，DAI Peng， ZHU Yun-feng
+
+(1 College of Life Sciences and Bioengineering， Beijing Jiaotong University， Beijing l0o044， China)
+
+(2 Henan Province OriginBio Biotechnology Co.,Ltd., Zhengzhou 45oooo, China)
+
+(3 The Key Laboratory of Tumor Center in PLA General Hospital,Beijing 100853, China)
+
+Abstract The eukaryotic intima system consists of intercellular membranous organelles, including the formation of exosomes and autophagy， which play an important role in stress response and maintenance of cell homeostasis. Exosomes are extracellular vesicles secreted into the body by multivesicular bodies containing contents of proteins and nuclear acids， while autophagy is a process of lysosomal-dependent degradation and recycling. The study found that there is a common molecular mechanism between the formation of exosomes and autophagy, and there is substantial interaction between them. This article reviews the formation of exosomes and the process of autophagy, including the relationship between the two and lysosomes.
+
+Key wordsAutophagy exosomes lysosomes extracellular vesicles
+
+真核细胞内膜系统（eukaryotic endomembrane system，EMS）是一系列相互关联的膜性细胞器，包括内质网（endoplasmic reticulum，ER）、高尔基体、溶酶体和质膜、以及它们之间运输的囊泡，它承担细胞内许多生物过程。EMS 的组分在结构和功能上相互交错。理清其中的关系将有助于我们对细胞内囊泡运输、囊泡内货物的去向、细胞内和细胞间通讯等生物过程更深入的了解。
+
+最初研究者认为外泌体是网织红细胞受体脱落的方式[1]，同样，最初认为巨自噬仅仅是一种细胞废物的清除计划。近年来研究发现，外泌体是细胞之间信息的重要传递者，其作为疾病生物标志物潜力引起越来越多的关注，而巨自噬在从非常规分泌到应激适应和细胞间通讯等也发挥着重要的作用[2.3]。提示外泌体生物发生和巨自噬之间有着共有的分子机制和调控机制，二者之间有着密切的关系。正常发育和多种疾病模型的研究证明协调的外泌体-巨自噬应答可通过溶酶体降解或细胞货物释放来维持体内平衡[4,5]。为阐明自噬内涵体作为重要的细胞器是如何连接外泌体和巨自噬，我们首先对外泌体生物发生和巨自噬的经典观点进行阐述，并探索巨自噬和巨自噬相关蛋白的非常规作用，以及在此过程中某些巨自噬蛋白在外泌体生物发生所起的作用。
+
+# 1外泌体
+
+外泌体是来源于内吞途径的纳米级胞外囊泡。内吞作用是细胞通过质膜内陷使细胞质、大分子、膜和受体内化的过程，在膜断裂后成为细胞内囊泡。初级内吞囊泡与早期内体融合，启动“货物”分选。早期内体成熟为晚期内体，并最终与溶酶体融合[]。在成熟期间，一些内体会产生许多以管腔内囊泡（intraluminalvesicles，ILVs）为特征的中间细胞器，被称为多泡体（multivesicular bodies,MVBs）。MVBs与质膜融合释放 ILVs至细胞外空间，从而产生外泌体[7](图1)。外泌体是细胞释放到外界的胞外囊泡（extracellular vesicles，EVs）中的其中一类。EVs还包括较大的囊泡，如微囊泡和凋亡小体，以及源自质膜的较小的囊泡，如核外颗粒体。本文所述外泌体是直径在50到 $1 3 0 \mathrm { n m }$ 之间，通常富含与内体起源相关分子标记的EVs[8]。
+
+1.1外泌体的发生和装载研究指出，内体分选复合物（endosome sortingcomplexes required for transport，ESCRT）及其辅助蛋白在ILVs的形成和外泌体生物发生过程中起重要作用[9]。因此，基因沉默 ESCRT复合物的单个组分则导致外泌体大小、数量和蛋白质组成发生改变[10]。此外还有研究指出神经酰胺在
+
+MVB膜出芽以及以ESCRT非依赖性方式的外泌体生物发生过程中发挥重要的作用[11]。
+
+![](images/d021642c754df68855197433c46deb57f091f335f0fd81b3bfd8c86dbdd6e2f2.jpg)  
+图1 外泌体和自噬体相互关系简图[12]。
+
+Figure 1 . The relationship between exosome and autophagosome.
+
+外泌体中含有膜相关蛋白和可溶性蛋白、DNA、mRNA和小RNA（如microRNA）等[7]。虽然大多数外泌体装载是非选择性的，但由于细胞类型和刺激物不同，也会存在选择性装载[13]。例如，寡核苷酸可以通过与MVB中的RNA结合蛋白或脂筏结合进入外泌体[14],其中富含四跨膜蛋白的膜微结构参与了外泌体蛋白质和寡核苷酸的招募[15]。泛素也在外泌体蛋白的选择性装载中发挥作用[16]。此外，哺乳动物中外泌体装载存在另一机制，即利用HSC70 与 MVB 膜的静电结合，促进具有KFERQ基序的蛋白质装载[17]。外泌体组成和功能的异质性提示外泌体装载还存在其它机制，其作用仍需进一步研究证明[13]。
+
+1.2外泌体的靶向和摄取MVB与质膜融合时，外泌体被释放至胞外空间。外泌体可被母细胞本身以自分泌、或者其它细胞以旁分泌或者内分泌的方式内化。但外泌体释放和摄取的决定因素尚不完全清楚。Edgar等[18]的研究指出束缚蛋白能将外泌体附着于分泌细胞的表面并影响外泌体信号传导的范围。哺乳动物中，表面整合蛋白促进外泌体附着和摄入预期的受体细胞中[19]。相反，外泌体膜上含有CD47"不要吃我"信号，可以保护它们不被吞噬细胞清除，并提高其在循环中的稳定性[20]。此外，外泌体的摄取可以通过各种途径进行，其中包括膜受体介导的内吞作用，吞噬作用和巨胞饮作用等[21,22]。有趣的是，研究发现丝状伪足可以作为外泌体内化的热点部位，使这些细胞突起的动态构建与解构的过程中内吞作用增强[23]。提示我们，外泌体可以利用其它小细胞外实体如病毒颗粒的进入途径等被细胞摄入。
+
+# 2自噬
+
+自噬是几乎所有真核生物中普遍存在的过程，细胞质和蛋白以及细胞器被双层膜包饶成囊泡，称为自噬体。自噬体可与溶酶体融合进行降解。自噬可以去除蛋白质、错误折叠的蛋白以及损伤的细胞器，通过溶酶体降解回收再利用氨基酸、脂质和糖，尤其是在饥饿等应激条件下，维持细胞存活[24]。自噬可以分为3种，即巨自噬、微自噬和分子伴侣介导的自噬。微自噬通过溶酶体的向内出芽促进蛋白质的溶酶体降解，而分子伴侣介导的自噬转运将蛋白质直接穿过溶酶体膜进行降解[25]。
+
+2.1自噬机制与调控 自噬所需的基因，称为自噬相关（autophagyassociated gene，ATG）基因，最初是在酵母中发现[26]。在真核生物中，目前已发现超过30种具有保守的同源物ATG基因，饥饿、活性氧（ROS）和缺氧均会诱导自噬，并且自噬过程受各种信号通路调控。营养物质是最常见的自噬调节剂，其可通过雷帕霉素（mechanistic targetof rapamycin，mTOR）靶向机制进行调控。营养物质和生长因子丰富时，mTOR复合物1（mTORC1）能够使自噬起始激酶ULK1磷酸化并使其失活，从而抑制自噬。相反，营养物质缺乏使mTORC1失活诱导自噬[27]。诱导自噬后，ATG1和ULK1复合物启动早期自噬体膜集结，并招募ATG6（哺乳动物中的Beclin1）,其中ATG6能够合成磷脂酰肌醇3-磷酸（phosphatidylinositol 3-phosphate，PI3P）以促进吞噬细胞扩增[28]。此外，由ATG5-ATG12和ATG7-ATG3复合物组成的两个泛素复合体能够使ATG8[microtubule associated protein1 light chain 3B,LC3B]与自噬体膜上的磷脂酰乙醇胺共价连接[29]。当成形的自噬体与溶酶体融合，完成自噬。其中货物被酸和酶降解循环再利用（图1）。
+
+2.2自噬的非典型功能自噬除降解功能外，还参与细胞质蛋白分泌。这种方式不同于从ER到高尔基体的常规分泌途径，而是需要信号肽序列的质膜参与，已引起研究者的广泛关注。例如，研究认为LC3B可以从细胞质中隔离白介素$1 \beta$ （IL-1β），之后与质膜融合释放 $\mathrm { I L } { - } 1 \beta ^ { [ 3 0 ] }$ 。此外，还有研究证明自噬可以促进常规分泌以及膜蛋白向质膜的运动[31],提示我们自噬在细胞过程中的多功能性和细胞间通讯中的潜在作用。
+
+由于LC3B存在于自噬体膜上，所以长期以来研究者将LC3B作为自噬的标志物。在LC3 相关吞噬作用（LC3-associated phagocytosis，LAP）过程中，LC3B脂质化被招募用以形成单膜吞噬体和巨噬体等单膜自噬体[32.33]。其中，ATG5-ATG12-ATG16L1复合物在LC3B 靶向吞噬体膜中起着重要的作用[34]。此外LAP通常被称为非典型自噬[35]，通过介导与溶酶体的融合来加速自噬体内容物降解。而且Jacquin[36等人新近研究发现，即使抑制溶酶体，在单膜内体中依然发生LC3B脂化，提示我们LAP可能具有降解功能以外的作用。
+
+# 3外泌体生物发生与自噬之间的交互通讯
+
+除了我们已知的自噬和内吞作用之间相互作用，新的研究证据还表明，自噬体与外泌体生物发生之间通过共享的分子或细胞器存在其它直接联系，这对机体的正常生理和病理具有重要意义[37]。此外，自噬体和外泌体生物发生之间的交互通讯在很大程度上取决于机体所处的环境。它们在清除不需要的蛋白质方面发挥作用，而且可以相互弥补对方缺陷。
+
+3.1外泌体生物发生过程中的自噬相关蛋白近年来，越来越多的研究指出，自噬相关分子参与外泌体的生物发生过程而非自噬过程[38.39]。
+
+首先，Guo 等人[38]研究中指出，ATG5和ATG16L1在外泌体生物发生中发挥着关键的非自噬功能。ATG5介导液泡质子泵（ $\mathrm { V } _ { 1 } \mathrm { V } _ { \mathrm { o } }$ -ATPase）与MVB的解离，阻止MVB内腔酸化并使MVB-PM融合和外泌体释放。因此敲除ATG5或ATG16L1能够显著减少外泌体的释放，以及减弱脂质化LC3B的募集。另外，用溶酶体或V-ATP酶抑制剂处理可以恢复ATG5敲除后的外泌体释放，这进一步的证明了内腔pH值在控制MVB最终是经过溶酶体降解还是与质膜融合中的关键作用。值得一提的是，ATG7敲除并不影响外泌体的释放，这表明该过程并不需要形成自噬体或者LC3B 脂质化。因此该研究指出自噬相关蛋白直接调控MVB 的"命运"以及后来外泌体生物发生机制。虽然LC3B在外泌体中的生物学功能仍不清楚，但是如Guo 等人的研究所说，LC3B 能够定位在ILV的内腔侧，这表明在MVB 膜或者膜内陷成ILV 的过程中发生过LC3相关吞噬作用。此外，含有LC3B 的外泌体的释放也证明了LAP的非降解功能[38]。
+
+其次，ATG12-ATG3 复合物通过与ALG-2 相互作用蛋白X（ALIX，也称为PDCD6IP）相互作用来调节外泌体生物发生，值得一提的是，ALIX蛋白是外泌体生物发生过程中至关重要的 ESCRT 相关蛋白[39]。研究指出，ATG12-ATG3 的缺失能够改变MVB形态，阻碍晚期内体运输并减少外泌体的生物发生。ALIX敲低后本底自噬水平下降，这表明自噬和外泌体生物发生之间存在相互调节的关系。更重要的是，ALIX缺失或ATG12-ATG3复合物的解体，并不影响饥饿诱导的自噬水平，提示我们本底水平自噬、应激诱导的自噬以及自噬与这些内体之间的相互作用存在不同的调节机制[39]。两种过程对各种细胞应激产生应答，使二者之间存在着多重的交互通讯。
+
+再次，ClassIIIPI3K复合物也是自噬和内吞作用所必需的，能够通过磷酸化磷脂酰肌醇产生PI3P来调节膜运输。VPS34（也称为PIK3C3）、Beclin1和p150（也称为PIK3R4）构成内吞作用和自噬过程共用PI3K复合物，能够与不同的调节蛋白结合决定复合物的功能。PI3K复合物与RUN结构域和富含半胱氨酸的结构域的蛋白Rubicon结合，可以抑制自噬和内吞作用，这也是LC3相关的吞噬作用（LAP）所必需的[40]。此外，siRNA敲低或 Spautin-1 处理抑制 Beclin-1能够破坏PI3K复合物的稳定性，从而降低慢性粒细胞白血病（CML）细胞外泌体释放和自噬水平[41]。鉴于PI3K复合物在胞吞作用和自噬中的作用，其各组分对外泌体生物发生的影响还需要进一步研究。
+
+最后，Bader 等人在研究中发现ATG9参与了果蝇中ILV的形成。在基础情况下，ATG9 缺失降低本底自噬水平以及自噬内涵体和自噬溶酶体中ILV的数量[42]，但是这种情况下 ILV 是否进行外泌体释放尚未可知。
+
+3.2自噬内涵体-降解和新型分泌细胞器过去的研究中自噬内涵体被定义为细胞中降解的小室。早期自噬体与MVB融合形成被称为自噬内涵体的杂交细胞器，随后与溶酶体结合进行内容物降解[43]（图1）。已有研究发现，以自噬内涵体的形式进行的自噬和外泌体的释放之间是相互拮抗的关系。在白血病细胞系K562中，饥饿或雷帕霉素诱导的自噬，自噬体-MVB融合增加，同时外泌体的释放减少，这可能是由于细胞试图将MVB再循环用于能量提供[44]。未能释放外泌体也可导致MVB进行自噬降解。例如，在哺乳动物细胞系和小鼠模型中，泛素化蛋白ISG15（称为ISGylation 泛素化）的结合促进蛋白质聚集和降解，同时MVB 数量和外泌体释放减少[45]。相反，使用巴弗洛霉素抑制自噬能够阻止内体-溶酶体融合，恢复外泌体的释放，这表明，自噬参与了MVB的溶酶体降解[45]。此外，Hurwitz等人[46]的报道也证明CD63敲除促进异常内吞空泡的自噬清除，其中抑制自噬能够恢复CD63空载细胞中外泌体的生物发生。综上，在不同背景下MVB的自噬降解的具有普遍性。
+
+另一方面，自噬内涵体还具有非降解功能。小鼠肠杯状细胞中LC3B能与内体标志物EEA1、RAB7和RAB11在类似自噬内涵体细胞器上共定位。这对调节粘蛋白颗粒分泌的活性氧（ROS）产生至关重要[47]。Chen等人[48]的研究也证明了肺上皮细胞中自噬内涵体起分泌作用的可能性。研究指出，干扰素-γ（IFN-γ)诱导的自噬依赖性膜联蛋白A2（ANXA2）的外泌体分泌，这一过程可能通过自噬内涵体发生。IFN-γ处理诱导LC3B、CD63 和 ANXA2 在自噬内涵体上共定位。这种共定位以及之后的外泌体释放都依赖于ATG5、RAB11和RAB27A，提示我们自噬体、MVB的形成以及质膜与质膜的融合对该过程至关重要[48]。然而，我们必须将自噬依赖性非常规分泌与外泌体分泌区分开。例如，虽然功能性MVB是自噬依赖性IL-1β分泌所必需的[32]，但是，在该分泌过程中自噬体-溶酶体融合并不一定存在，这表明含有LC3B的IL-1β载体囊泡可以直接与质膜融合，对MVB 功能的依赖可能是由于自噬和内吞作用之间存在大量交互通讯[37]。奇怪的是,IFN-γ诱导的ANXA2 的外泌体分泌需要RAB8A，该分子是自噬依赖性IL-1β分泌的调控因子[48]。这些结果表明自噬介导的非常规分泌与外泌体释放之间可能存在交叉重叠，这些过程之间可能存在的联系仍需进一步的深入研究。
+
+3.3外泌体与自噬体的交互通讯和病毒的免疫逃逸病毒性感染的研究为自噬和外泌体产生之间的相互作用开辟了新领域。目前已知病毒能够拦截外泌体途径以逃避宿主免疫系统并增加感染性。而且越来越多的证据表明病毒也可利用自噬-外泌体交互通讯来促进其复制和释放。其中丙型肝炎病毒（hepatitisC virus,HCV）是研究自噬和外泌体生物发生之间联系的特定病毒模型。Bukong 等人[49]和Liu等人[50]的研究指出HCV感染导致自噬的上调以及含病毒的外泌体的释放。敲低 Beclin1或ATG7能够降低细胞外 外泌体相关HCV 的水平[51]，表明自噬核心分子参与了HCV颗粒包装进外泌体的过程。实际上自噬体-溶酶体融合的增加能够减少HCV颗粒的释放，这表明一部分HCV颗粒或其复制机制可能存在于自噬体内[52]。令人惊讶的是，HCV 感染分别在不同时间点调节自噬，如在HCV感染的早期阶段，自噬体-溶酶体融合的负调节因子Rubicon上调进一步抑制自噬，提示HCV病毒可能利用自噬体的累积进行复制，在感染后期，诱导UVRAG表达[53]。鉴于UVRAG 在增强内体转运和内体成熟中的作用，其在HCV 感染中的延迟诱导表明，内体运输发生改变以促进病毒通过外泌体逃逸。HCV颗粒的从细胞排出的途径有望为感染条件下自噬和内吞途径之间的关联研究提供证据。
+
+# 4结论与展望
+
+外泌体的生物发生和自噬对维持细胞稳态和缓解细胞应激起着至关重要的作用，而且越来越多的证据表明这些细胞反应是通过自噬和外泌体之间的交互通讯完成的。分子水平上，在外泌体生物发生过程中自噬相关蛋白和蛋白质复合物发挥一定作用。细胞器水平上，外泌体和自噬途径在自噬内涵体相互交叉，其内含物具有多种“命运”，包括细胞外释放或溶酶体降解。外泌体的生物发生和自噬之间相互作用的动态性和环境依赖性对正常生理和病理都具有十分重要的意义。因此如能够更清晰的了解其调控机制和复杂性，可对临床治疗提供支持。
+
+目前，仍然存在外泌体-自噬交互通讯和囊泡运输中各种媒介物的同一性和异质性的问题。例如，尚不清楚是否存在特定的与质膜、溶酶体或自噬体融合的MVB 单独群体，如果不存在，是否存在决定MVB"命运"的特定信号通路。同时，不清楚是否存在优先与MVB融合或直接与溶酶体融合的自噬体亚群，或者分泌和降解自噬体是如何被分别调控的。而且，随着研究技术和方法的进步，各种类型的EVs其中包括外泌体将被重新理解和定义。新的研究有可能阐明外泌体-自噬相互作用和囊泡运输的复杂模式。
+
+# 参考文献
+
+[1] Pan BT, Johnstone RM. Fate of the transferrin receptor during maturation of sheep reticulocytes in vitro: selective externalization of the receptor.Cell, 1983, 33(3):967-978.   
+[2] Claude-Taupin A, Jia J, Mudd M,et al. Autophagy's secret life: secretion instead of degradation. Essays Biochem, 2017, 61(6):637-647.   
+[3] Cadwell K, Debnath J. Beyond self-eating: the control of nonautophagic functions and signaling pathways by autophagyrelated proteins. J Cell Biol, 2018, 217(3):813-822.   
+[4] Baixauli F, López-Otin C， Mittelbrunn M. Exosomes and autophagy: coordinated mechanisms for the maintenance of cellular fitness. Front Immunol, 2014, 5:403.   
+[5] Ojha CR, Lapierre J， Rodriguez M, et al. Interplay between autophagy, exosomes and HIV-1 associated neurological disorders: new insights for diagnosis and therapeutic applications. Viruses,2017, 9(7):176.   
+[6] Scott CC, Vacca F, Gruenberg J. Endosome maturation, transport and functions. Semin Cell Dev Biol, 2014, 31:2-10.   
+[7] Hessvik NP, Llorente A. Current knowledge on exosome biogenesis and release. Cell Mol Life Sci, 2018, 75(2):193-208.   
+[8] Yanez-Mó M, Siljander PR,Andreu Z,et al. Biological properties of extracellular vesiclesand theirphysiological functions. J Extracell Vesicles,2015, 4:27066.   
+[9] Hurley JH. ESCRTs are everywhere. EMBO J, 2015, 34(19):2398-2407.   
+[10] Colombo M, Moita C,van Niel G,et al. Analysis of ESCRT functions in exosome biogenesis, composition and secretion highlights the heterogeneity of extracellular vesicles. J Cell Sci,2013,126(Pt 24):5553-5565.   
+[11]Trajkovic K, Hsu C, Chiantia S, et al. Ceramide triggers budding of exosome vesicles into multivesicular endosomes. Science,2008, 319(5867):1244- 1247.   
+[12] Xu J, Camfield R, Gorski SM. The interplay between exosomes and autophagy - partners in crime. JCell Sci. 2018 Aug 3; 131(15):jcs.215210.   
+[13]Villarroya-Beltri C, Baixauli F, Gutiérrez-Vazquez C, et al. Sorting it out: regulation of exosome loading. Semin Cancer Biol, 2014, 28:3-13.   
+[14]Janas T, Janas M, Sapoh K, et al. Mechanisms of RNA loading into exosomes. FEBS Lett, 2015,89(13):1391-1398.   
+[15]Andreu Z, Yanez-Mó M. Tetraspanins in extracellular vesicle formation and function. Front Immunol, 2014, 5:442.   
+[16]Smith VL, Jackson L, Schorey JS. Ubiquitination as a mechanism to transport soluble mycobacterial and eukaryotic proteins to exosomes. J Immunol, 2015, 195(6):2722-2730.   
+[17]Sahu R, Kaushik S, Clement CC, et al. Microautophagy of cytosolic proteins by late endosomes. Dev Cell, 2011, 20(1):131-139.   
+[18] Edgar JR，Manna PT,Nishimura S,et al. Tetherin is an exosomal tether. eLife,2016, 5:e17180.   
+[19]Hoshino A, Costa-Silva B, Shen TL, et al.Tumour exosome integrins determine organotropic metastasis. Nature, 2015, 527(7578):329-335.   
+[20] Kamerkar S, Lebleu VS, Sugimoto H, et al. Exosomes facilitate therapeutic targeting of oncogenic KRAS in pancreatic cancer. Nature, 2017, 546(7659): 498-503.   
+[21]Christianson HC, Svensson KJ, Van Kuppevelt TH, et al. Cancer cell exosomes depend on cell-surface heparan sulfate proteoglycans for their internalization and functional activity. Proc Natl Acad Sci USA, 2013,110(43):17380-17385.   
+[22]Mulcahy LA, Pink RC, Carter DR. Routes and mechanisms of extracellular vesicle uptake. JExtracell Vesicles, 2014, 3:24641.   
+[23]Heusermann W, Hean J, Trojer D, et al. Exosomes surf on filopodia to enter cells at endocytic hot spots, traffic within endosomes,and are targeted to the ER. J Cell Biol, 2016, 213(2):173-184.   
+[24] Klionsky DJ，Emr SD. Autophagy as a regulated pathway of cellular degradation. Science, 2000, 290(5497):1717-1721.   
+[25] Galluzzi L，Baehrecke EH，Ballabio A，et al. Molecular definitions of autophagy and related processes. EMBO J, 2017, 36(13):1811-1836.   
+[26] Tsukada M, Ohsumi Y. Isolation and characterization of autophagydefective mutants of saccharomyces cerevisiae. FEBS Lett, 1993, 333(1-2):169-174.   
+[27]Park JM, Jung CH, Seo M, et al. The ULK1 complex mediates MTORC1 signalingtothe autophagy initiation machinery viabindingand phosphorylating ATG14. Autophagy, 2016,12(3):547-564.   
+[28]Matsuura A, Tsukada M, Wada Y. et al. Apglp, a novel protein kinase required for the autophagic process in Saccharomyces cerevisiae. Gene，1997, 192(2):245-250.   
+[29]Ichimura Y,Kirisako T, Takao T, et al. A ubiquitinlike system mediates protein lipidation. Nature, 2000, 408(6811):488-492.   
+[30]Zhang M, Kenny SJ, Ge L, et al. Translocation of interleukin- $\cdot 1 \beta$ into a vesicle intermediate in autophagy-mediated secretion. eLife, 2015, 4:1463.   
+[31] Deretic V, Jiang S,Dupont N. Autophagy intersections with conventional and unconventional secretion in tissue development, remodeling and inflammation. Trends Cell Biol, 2012, 22(8):397-406.   
+[32] Florey O，Kim SE， Sandoval CP,et al. Autophagy machinery mediates macroendocytic processing and entotic cell death by targeting single membranes. Nat Cell Biol, 2011, 13(11):1335-1343.   
+[33] Martinez J, Almendinger J, Oberst A, et al Microtubule-associated protein 1 light chain 3 alpha (LC3)-associated phagocytosis is required for the efficient clearance of dead cells. Proc Natl Acad Sci USA，2011， 108(42):17396- 17401.   
+[34] Fletcher K,Ulferts R, Jacquin E,et al. The WD40 domain of ATG16L1 is required for its non-canonical role in lipidation of LC3 at single membranes. EMBO J,2018,37(4):e97840.   
+[35] Codogno P, Mehrpour M, Proikas-Cezanne T. Canonical and non-canonical autophagy: variations on a common theme of self-eating?. Nat Rev MolCell Biol, 2011,13(1):7-12.   
+[36]Jacquin E, Leclerc-Mercier S, Judon C,et al. Pharmacological modulators of autophagy activate a parallel noncanonical pathway driving unconventional LC3 lipidation. Autophagy, 2017, 13(5):854-867.   
+[37] Tooze SA,Abada A, Elazar Z. Endocytosis and autophagy: exploitation or cooperation?. Cold Spring Harbor Perspect Biol, 2014, 6(5):a018358.   
+[38] Guo H,Chitiprolu M, Roncevic L，et al. Atg5 disassociates the $\mathrm { ~ v ~ } 1 \mathrm { ~ V ~ } 0$ （204号 -ATPase to promote exosome production and tumor metastasis independent of canonical macroautophagy. Dev Cell, 2017, 43(6):716-730.e7.   
+[39] Murrow L，Malhotra R,Debnath J. ATG12-ATG3 interacts with Alix to promote basal autophagic flux and late endosome function. Nat Cell Biol, 2015, 17(3):300-310.   
+[40] Martinez J，Malireddi RK，Lu Q，et al. Molecular characterization of LC3-associated phagocytosis reveals distinct roles for Rubicon, NOX2 and autophagy proteins. Nat Cell Biol, 2015, 17(7):893-906.   
+[41] Liu J, Zhang Y,Liu A，et al. Distinct dasatinib-induced mechanisms of apoptotic response and exosome release in imatinib-resistant human chronic myeloid leukemia cells. Int J Mol Sci, 2016 17(4):531.   
+[42]Bader CA, Shandala T, $\mathrm { { N g \ Y S } }$ , et al. Atg9 is required for intraluminal vesicles in amphisomes and autolysosomes. Biol Open, 2015, 4(11):1345-1355.   
+[43]Liou W, Geuze HJ, Geelen MJ, et al. The autophagic and endocytic pathways converge at the nascent autophagic vacuoles. J Cel Biol, 1997, 136(1):61- 70.   
+[44] Fade CM, Sanchez D, Furlan M,et al. Induction of autophagy promotes fusion of multivesicular bodies with autophagic vacuoles in k562 cells. Traffic, 2008,9(2):230-250.   
+[45] Villarroya-Beltri C，Baixauli F，Mittelbrunn M，et al. ISGylation controls exosome secretion by promoting lysosomal degradation of MVB proteins[J]. Nat Commun, 2016, 7:13588.   
+[46] Hurwitz SN, Cheerathodi MR, Nkosi D,et al. Tetraspanin CD63 bridges autophagic and endosomal processes to regulate exosomal secretion and intracellular signaling of Epstein-Barr virus LMP1. J Virol， 2018,92(5): e01969-17.   
+[47]Patel KK, Miyoshi H, Beatty WL, et al. Autophagy proteins control goblet cell function by potentiating reactive oxygen species production. EMBO J, 2013, 32(4):3130-3144. [48] Chen YD, Fang YT, Cheng YL, et al. Exophagy of annexin A2 via RAB11, RAB8A and RAB27A in IFN- $\cdot \gamma$ -stimulated lung epithelial cells. Sci Rep, 2017,   
+7(1):5676. [49] Bukong TN,Momen-Heravi F,Kodys K,et al. Exosomes from hepatitis C infected patients transmit HCV infection and contain replication competent viral RNA in complex with Ago2-miR122-HSP90. PLoS Pathog，2014,   
+10(10):e1004424. [50] Liu Z, Zhang X, Yu Q,et al. Exosome-associated hepatitis C virus in cell cultures and patient plasma. Biochem Biophys Res Commun, 2014,455(3-   
+4):218-222. [51] Shrivastava S, Devhare P, Sujijantarat N, et al. Knockdown of autophagy inhibits infectious hepatitis C virus release by the exosomal pathway. J Virol,   
+2015, 90(3):1387-1396. [52] Ren H, Elgner F, Jiang B, et al. The autophagosomal SNARE protein syntaxin   
+17 is an essential factor for the hepatitis C virus life cycle. J Virol, 2016,   
+90(13):5989-6000. [53] Wang L, Tian Y, Ou JJ, et al. HCV induces the expression of Rubicon and UVRAG to temporally regulate the maturation of autophagosomes and viral replication. PLoS Pathog,2015, 11(3):e1004764.

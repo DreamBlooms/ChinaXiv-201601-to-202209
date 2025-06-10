@@ -1,0 +1,145 @@
+# Antigenic variation of the human influenza A (H3N2) virus during the 2014-2015 winter season
+
+HUA Sha124,LI XiYan34,LIUMi124t, CHENG YanHui3†, PENG YouSong4 HUANG WeiJuan³, TAN MinJu’, WEI HeJiang³, GUO JunFeng³, WANG DaYan $^ 3$ WU AiPing15\*,SHU YueLong&JIANG TaiJiaol.45\*
+
+lInstitute of Biophysics,Chinese Academy of Sciences,Beijing lOolol,China; ²University of the Chinese Academy of Sciences,Beijing 10o049,China;   
+3National IstitutefoViraliseaseontrolandPreventionChinaCenteforDiseaseControlandPreventio,Beijing,Cina; 4College of Information Science and Engineering,Hunan University,Changsha 4loo82,China;   
+CenterforSystemsMedicine,IstituteofBsicMedicalSciences,ChineseAcademyofMedicalSciences&eking UnionMedicalCollge Beijing lOooo5;Suzhou Institute of Systems Medicine,Suzhou,Jiangsu 215123,China
+
+Received May 25,2015;accepted June 24,2015;published online July 27,201:
+
+The human influenzaA(H3N2)virus dominatedthe 2014-2015 winter season inmanycountries and caused massive morbidityandmortalitybecauseof isantigenicvariation.SofarverylitleisknownabouttheantigenicpatersoftherecentH3N2 virus.By systematically mapping theantigenicrelationships of H3N2 strains isolated since 2O10,we discovered that two groupswith obviousantigenic divergence,named SW13(A/Switzerland/9715293/2013-like strains）and HK14（A/Hong Kong/5738/2014-like strains),co-circulated during the 2014-2015 winter season.HK14 group co-circulated with SW13 in Europe andthe United States during thisseason,while there were few strainsof HK14 in mainland China,where SW13 has dominated since2Ol2.Furthermore,we found that substitutions nearthereceptor-binding siteon hemagglutinin played an importantrole in theantigenic variationofboththe groups.These findings provideacomprehensiveunderstanding of therecent antigenic evolution of H3N2 virus and will aid in the selection of vaccine strains.
+
+influenza,H3N2 virus,antigenic evolution,antigenicity
+
+Citation: HuaS,LiXY,Lu,heng,PengY,HangWJ,Tan,WeiGoJFWangD,uAPL,ngT.Atigeni humanfluenaA(3)iusdurgte45nterseasoSiCnaLife,15,58:88,doi:/s14z
+
+The human influenza A(H3N2) virus has been one of the leading causes of seasonal epidemics since its emergence in 1968 and poses a substantial threat to public health.H3N2 infections appeared to become more severe during the 2014-2O15 flu season,which was widespread across the globe [1-4]. According to the Chinese Centre for Disease Control and Prevention (China CDC) [4],all of China expe rienced H3N2 flu activity (Figure S1A). The percentage of specimens positive for H3N2 was significantly higher during the 2014-2O15 flu season than that during the previous four flu seasons (Figure S1B).
+
+As indicated in a report published by the US Centers for Disease Control and Prevention (CDC) [5], in 2014-2015 the flu-associated hospitalization rate among people who were 65 years and older was the highest since the CDC began surveillance in 2OO5.Another CDC report indicated that more than two thirds of the influenza A(H3N2) strains circulating in 2O14-2015 were antigenically distinct from the H3N2 vaccine strain A/Texas/5O/2012,which wasused to produce vaccines for the 2O14-2O15 season in the Northern Hemisphere[2].Early estimates of thisvaccine's effectiveness showed the lowest efficacy of the last eight years (Fig ure S1C).A deep understanding of the antigenic divergence of recent H3N2 strains is important for formulating proper surveillance and control strategies [6].
+
+Recently,many efforts have been made to investigate the antigenic diversity，evolution,and geographical transmission of the human influenza A(H3N2)virus [7-1O].It was reported that the antigenic evolution of the H3N2 virus was more punctuated than the genetic evolution [7]. A few genetic changes near the receptor-binding site (RBS) on hemagglutinin (HA） mightsignificantly drive antigenic changes in the H3N2 virus [8]. Other researchers found that human influenza A (H3N2） strains originating in East and Southeast Asia usually seeded worldwide epidemics [9]. The most important factor driving the global dynamics of the human influenza A (H3N2) virus is air passenger flow[1O]. Some very useful prediction models have been developed in recent years to accurately and rapidly catch the antigenic changes [11-14].Developments include our own predict antigenic cluster(PREDAC)method[14],which has shown good performance in clustering the antigenically similar strains of the human influenza A (H3N2) virus.
+
+The PREDAC method provides a means to capture the antigenic diversity and explore the regional transmission of different groups of antigenically similar strains of the human influenza A(H3N2) virus.By analyzing the antigenic relationships of all H3N2 strains isolated since 2O1O,we discovered that these strains could be divided into five antigenic groups that showed the punctuated pattern of antigenic evolution. Unexpectedly， we found that two antigenic groups， SW13 and HK14， co-circulated during the 2014-2015 flu season.
+
+# 1Materials and methods
+
+# 1.1Sequence data and phylogenetic analysis
+
+The HA1 protein sequences of 11,O73 H3N2 viruses,sampled from all over the world between 201O and 2O14,were downloaded from the China CDC website and the Global Initiative on Sharing all Influenza Data (GISAID) platform. All HA1 sequences were aligned with Muscle v3.8.31 [21]. Re-assortment sequences from the laboratory and marked egg isolates were excluded. To reduce systematic biases, sequences with a gap content greater than $5 \%$ were removed. We excluded 25 sequences that were clearly recog nized as outliers in the reconstructed strain trees. The phylogenetic tree was constructed using PhyML [22] and displayed in Dendroscope [23]. We collected structural data forH3N2HA(A/Aichi/2/1968) [24] from the Protein Data Bank (PDB ID: 3HMG).
+
+# 1.2Mapping the antigenic groups of the human influenza A(H3N2) virus
+
+We used the computational method PREDAC [14] to model the antigenic groups of the H3N2 virus. The antigenic relationship between each pair of strains was predicted using HA1 sequences,and pairs that were predicted to be antigenically similar were grouped using the MCL(Markov Cluster） program [25]. The antigenic correlation network Was visualized using Cytoscape [26],and the positions of some nodes were adjusted to distinguish the groups from each other.
+
+# 1.3Molecular clock analysis
+
+The different phylogenetic relationships of the strains present in antigenic groups SW13 and HK14 were determined. We conducted a phylogenetic analysis for all strains within five years using the software BEAST v1.7.5[18].To reduce the number of very similar sequences in our initial data set, strains with the same sequence,country,and month of observation were counted only once,and no more than five strains were selected from each continent in the same year; this reduced the number of strains to 145.Nucleotide sequences encoding the HA1 subunit were downloaded from GISAID and China CDC.
+
+The Markov chain Monte Carlo analysis was performed in two independent runs.The codon position-specific HKY plus Gamma 14 nucleotide substitution model and the uncorrelated lognormal molecular clock model were used in the analysis.The first $10 \%$ of trees were discarded as ‘burn-in'’,as recommended in the BEAST package manual. The tree with maximum log clade credibility was selected and visualized using FigTree v1.4.2 [27].
+
+# 1.4Percentages of strains in antigenic groups
+
+The percentage of strains in each group,on a monthly basis, Was computed as the number of strains of one antigenic group divided by the total monthly number of strains. To investigate the antigenic patterns of different regions，the percentage was computed as the number of strains in one month divided by the number of strains of six months before or after that month.
+
+# 1.5Hemagglutination inhibition data and antigenic cartography
+
+HI data were collected from the European Centre for Disease Prevention and Control[16] (see Table S1 for detailed information). We then used AntigenMap 3D [28] to create the antigenic map.
+
+# 1.6Analysis of amino acid substitutions and $N$ -glyco sylation sites
+
+Cluster-difference amino acid substitutions were defined as previously described[7],with a conservative cut-off of $90 \%$ $N _ { \mathbf { \ell } }$ -glycosylation sites were predicted using the NetNGlyc server (http://www.cbs.dtu.dk/services/NetNGlyc/). Bootstrap resampling（1,OOO replicates） was performed.
+
+# 2 Results
+
+# 2.1Antigenic evolution of the human influenza A (H3N2) virus since 2010
+
+The antigenic relationships of the human influenza A (H3N2） strains isolated over the last five years were analyzed using the PREDAC method [14].All of the seasonal human influenza A(H3N2) strains from 201O to 2014 could be divided into five antigenic groups (Figure 1A): BR07 (A/Brisbane/10/2007-like strains),PE09(A/Perth/15/2009- likestrains)，VIC11 (A/Victoria/361/2011-like strains), SW13,and HK14. These groups were named for the vaccine strain or representative strain they contained.
+
+Antigenic group BRO7 was replaced by PEO9,and PE09 was replaced by VIC11. Two antigenic groups (SW13 and HK14) co-circulated after the replacement of VIC11 in
+
+![](images/59004c0b37465b5ab20a20529e4b657a245cecf7e547038753b2a64e616383d7.jpg)  
+FigureGddiceo groupsofareotio emaglutibiebd genicgroupHK14elongingtoadC.2aandntigeicgroupSW13(elogingtoade3C3)roupsH14andSW3arecoloredorangeaded respectivelycsficoslssrts mendedyeeuplaepresetsrsaeTptscierPerth/er represents vaccine strain A/Victoria/361/20l1.Geybackgrounds indicate winterinfluenzaseasons inthe Northern Hemisphere.
+
+March 2O14(Figure 1B and1D).Based ona report from the World Health Organization（WHO) [15] and our phylogenetic analysis,we concluded that both SW13 and HK14 evolved from group VIC11 and fell into two distinct genetic clades,referred to as genetic clades 3C.2a and 3C.3 in the WHO report (Figure 1B). To confirm the antigenic distinctiveness of groups SW13 and VIC11,we collected hemagglutination-inhibition (HI) test data from the surveillance reports of EU/EEA (the European Union and European Economic Area）countries （Table S1）and constructed a three-dimensional antigenic map (Figure 1C).Although the two groups were still not antigenically distinguishable from each other according to a WHO report in March 2O15 [15], obvious antigenic divergence was observed between these two groups (Figure 1C) [16].
+
+A significant difference in emergence and transmission was observed between antigenic groups SW13 and HK14. Group SW13 waspredominant after October 2013, while group HK14 was noticed in 2O14,according to the WHO [17]. Group HK14 first appeared in September 2013 and co-circulated with group SW13 after April 2014, representing over $20 \%$ of circulating strains.
+
+To infer the phylodynamic spread of the two co-circulating antigenic groups in time,we performed molecular clock analysisusing the BEAST software package[18].The inference was made forHA1 segments of strains within five years,as shown in Figure 2 (the detailed treeis shown in Figure S2).Groups SW13 and HK14 were distinct from each other and both derived from group VIC11.The date for the most recent common ancestor for group SW13 was August 2012( $9 5 \%$ Bayesian credible interval May 2O12-November 2012)，while that for group HK14 was September 2013 0 $9 5 \%$ Bayesian credible interval May 2O13-January 2014).
+
+# 2.2Epidemic patterns of human influenza A (H3N2) virus among different regions
+
+For better understanding of the detailed epidemic patterns in different regions,we mapped the antigenic groups of human influenza A(H3N2)virus from 2O1O to 2O14 in three differentregions:mainland China,the United States,and Europe (Figure 3). Overall, the epidemic patterns of H3N2 in the United States and Europe were more similar to each other than to the pattern in mainland China from 2O1O to 2014.The antigenic group PEO9 was replaced by group VIC11 in the 2O11-2O12 winter season in mainland China but was epidemic until the 2O12-2O13 winter season in the other two regions. The strains of antigenic group SW13 were observed sporadically in the 2O11-2O12 winter season and increased quickly afterNovember 2012.
+
+During the 2O12-2O13 winter season, the strains of antigenic group SW13 were widespread in mainland China, Europe,and the United States，with a proportion almost equal to that of the predominant group,VIC11.Later, in the 2013-2014 winter season, group SW13 was predominant in all three regions.The interesting thing is that another antigenic group,HK14,also occurred during the 2O13-2014 winter season in the United States and Europe. It co-circulated with group SW13 during the 2014-2015 winter season.However, in mainland China, SW14 was the dominant group during the 2013-2014 and 2014-2015 winter seasons and only a few strains of group HK14 were observed.
+
+![](images/fc0b8e3e4d8ea2b8622bab5c3abf4c1211259631bc60e9d69f8c7fe300f3f6de.jpg)  
+Figure 2 Temporal reconstruction of the phylogenetic relationships of HA1 sequences.Antigenic groups are shown on the right. Internal nodes are reconstructed common ancestors； the $9 5 \%$ highest posterior density intervals on their dates are indicated by the orange bars.
+
+# 2.3Antigenic and genetic variation of the co-circulating antigenic groups
+
+The observation of two unusual co-circulating antigenic groups drove us to further investigate the genetic and antigenic variation between groups SW13 and HK14.We found that both HK14 and SW13 possessed several amino acid mutations compared with group VIC11 (Figure 4A). Most mutations were located in antigenic epitopes.The transition from VIC11 to SW13 was mainly associated with two substitutions at positions 128 and 142.However, the transition from VIC11 to HK14 was mainly associated with three other substitutions,at positions 144,225,and 311.
+
+We then mapped the mutations onto the HA structure (Figure 4B and 4C). Four of the five substitutions (all except the substitution at position 128）were in or near the RBS,which is thought to play an important role in antigenic evolution [8]. Differences in glycosylation sites between the antigenic groups were also examined (Figure 4D).In comparison with group VIC11, there were two changes（glyco sylation sites 126 and 144) in group SW13 and two changes (glycosylation sites 144 and 158) in group HK14.These glycosylation sites are all located in antigenic epitopes A and B,which are thought to contribute significantly to antigenic change [8].
+
+![](images/9b2f70d2c43752145eeb2ae5c6ef2bff706d6b115493164ebbbee9bb326c4567.jpg)  
+Figure3ComaooftigenicasofafAtriseretioaicgsineecestsi antigenicoucdldttodti groups.GreyackgroudsdateteeasosVacistraseomeddytforNrtdoutHmispeflueose shown at the bottom.
+
+# 3Discussion
+
+Through systematic prediction and analysis of recent antigenic relationships,we have developed a comprehensive picture of the antigenic evolution of human influenza A (H3N2) strains from the 2010-2011 to 2014-2015 winter seasons.Five antigenic groups were identified,and two of them, SW13 and HK14,co-circulated during the 2014-2015 winter season.We also found that the epidemic patterns of antigenic groups SW13 and HK14 were quite different in different regions.During the 2014-2O15 winter season, HK14 co-circulated with SW13 in the United States and Europe，while mainland China was still dominated by SW13 and only a few strains of HK14 were reported.
+
+Previous studies have indicated that mutations near the
+
+RBS or in the antigenic epitopes of HA are the major determinants of antigenic variation of influenza viruses [8,19]. Several mutations near the RBS or in the antigenic epitopes were found in antigenic groups SW13 and HK14. The T128A and R142G substitutions of group SW13 are located on epitopes B and A,respectively.Among the three mutations of group HK14,N225Dislocated in theRBS,N144S is quite near the RBS,and Q311H is located on epitope C. These mutations probably explain the antigenic variation of influenza A (H3N2） strains during the 2014-2015 winter season.
+
+Unlike with human influenza B virus [2O], co-circulation of two antigenic groups rarely happens with human influenza A (H3N2） virus. However，during the 2014-2015 winter season, co-circulation of antigenic groups SW13 and HK14 occurred in many regions. In the United States and Europe,SW13 and HK14 were present at similar scales during the most recent flu season.
+
+It is worth noting that the SW13 vaccine strain was not recommended until the 2O15 Southern Hemisphere influenza season,and the HK14 group was not noticed until recently.Thus,there would be a mismatch between the 2014-2O15 vaccines and the dominant human influenza A (H3N2) virus strains. Antigenic groups SW13 and HK14 should both be considered during the selection of vaccine strains.Furthermore,knowledge of the antigenic patterns in different regions and the phylodynamic spread of each group,in time and space,will help improve vaccine strain selection.
+
+![](images/9bb459956e637e83cc17f848a5ded4d02ef7c46bd8c836778b0313072cd77d9a.jpg)  
+Figure 4Variation in amino acid substitutions and $N _ { \mathbf { \delta } }$ glycosylation sites between antigenic groups.A,Amino acid mutations in antigenic groups VIC11, SW13,andH4.edolyeetedsfrochooetoottfutatioinkitio;e sitesi structurefrestCddtereeloedddagspielCubsttisa tor-binding site (blue) ofHA.D,Predicted $N$ glycosylation sites in antigenic groups VIC11,SW13,and HK14.Errorbars representthestandard deviationof bootstrap analysis with 1,OoO replications.
+
+Theauthors declare that they haveno conflict of interest.
+
+Thiswork was supported by the National Basic Research Program of China (2015CB9io50l),the Major National Earmark Project forInfectious Diseases (2014ZX10004002-001),the Key Research Program of the ChineseAcademyofSciences(KJZD-EW-Lo9-1-2) to JiangTaiJiao,and the National Natural Science Foundation of China (31470273) to Wu AiPing. Wearegrateful totheindividualswho submitted thesequencesused inthis study to GenBank and GISAID.
+
+63:1189-1194   
+3 The Department of Health.Australian Influenza Surveillance Report, 2014,8: 1-18   
+4 Chinese Center for Disease Control and Prevention.Influenza weekly report-52/2014.2014   
+5 Centers for Disease Control and Prevention.Update: Influenza Activity—United States,September28,2014-February 21,2015.MMWR, 2015,64:206-212   
+6 Centers for Disease Control and Prevention.Early Estimates of Seasonal Influenza Vaccine Effectiveness—United States,January 2015. MMWR,2015,64:10-15   
+7 SmithDJ,Lapedes AS,de JongJC,Bestebroer TM,Rimmelzwaan GF,Osterhaus AD,Fouchier RA.Mapping the antigenic and genetic evolution of influenza virus.Science,20O4,305:371-376   
+8 Koel BF,Burke DF,Bestebroer TM,van der Vliet S,Zondag GC, Vervaet G,SkepnerE,Lewis NS,Spronken MI,Russell CA,Eropkin MY,Hurt AC,Barr IG, Jong JC,Rimmelzwaan GF,Osterhaus AD, Fouchier RA,Smith DJ.Substitutions near the receptor binding site determine major antigenic change during influenza virus evolution. Science,2013,342:976-979   
+9 Russell CA, Jones TC,Barr IG,Cox NJ,Garten RJ,Gregory V,Gust ID,Hampson AW,Hay AJ,Hurt AC,Jong JC,Kelso A,Klimov AI, Kageyama T,Komadina N,Lapedes AS,Lin YP,Mosterin A, Obuchi M,Odagiri T,Osterhaus AD,Rimmelzwaan GF,Shaw MW, SkepnerE,StohrK,Tashiro M,FouchierRA,SmithDJ.The global circulation of seasonal influenza A(H3N2) viruses.Science,2008, 320:340-346   
+10 LemeyP,RambautA,BedfordT,FariaN,BielejecF,BaeleG,Russell CA, Smith DJ,Pybus OG,Brockmann D, Suchard MA. Unifying viral genetics and human transportation data to predict the global transmission dynamics of human influenza H3N2.PLoS Pathog, 2014,10:e1003932   
+11 Bush RM.Predicting the evolution of human influenza A. Science, 1999,286:1921-1925   
+12 Lee MS,Chen JS.Predicting antigenic variants of influenza A/H3N2 viruses.Emerg InfectDis,2004,10:1385-1390   
+13 Liao YC,Lee MS,Ko CY,Hsiung CA.Bioinformatics models for predicting antigenic variants of influenza A/H3N2 virus.Bioinformatics,2008,24:505-512   
+14 DuX,DongL,LanY,PengY,WuA,ZhangY,HuangW,Wang D, WangM,Guo Y,Shu Y,Jiang T.Mapping of H3N2 influenza antigenic evolution in China reveals a strategy for vaccine strain recommendation.Nat Commun,2012,3:709   
+15 World Health Organization.Recommended composition of influenza virus vaccines for use in the 2O15-2Ol6 northern hemisphere influenza season.Wkly Epidemiol Rec,2015:1-6   
+16 European Centre for Disease Prevention and Control.Influenza virus characterisation,summary Europe,February 2O15.Stockholm,2015   
+17 World Health Organization. Weekly epidemiological record-Oct, 2014.Wkly Epidemiol Rec,2014,41: 441-456   
+18 Drummond AJ,Rambaut A.BEAST:Bayesian evolutionary analysis by sampling trees.BMC Evol Biol,2007,7:214   
+19 Wilson IA, Jolla L. Structural Basis of immune recognition of influenza virus.Annu Rev Immunol,199O,8:737-771   
+20 Yamashita M,Krystal M,Fitch WM,Palese P.Influenza B virus evolution: co-circulating lineages and comparison of evolutionary pattern with those of influenza A and C viruses.Virology,1988,163: 112-122   
+21 Edgar RC.MUSCLE:multiple sequence alignment with high accuracyand high throughput.Nucleic Acids Res,2004,32:1792-1797   
+22 Guindon S,DufayardJF,LefortV,AnisimovaM,HordijkW,Gascuel O. New algorithms and methods to estimate maximum-likelihood phylogenies:assessing the performance of PhyML 3.0. Syst Biol,2010,59:307-321   
+23 Huson DH,Richter DC,Rausch C,Dezulian T,Franz M,Rupp R. Dendroscope:an interactive viewer for large phylogenetic tres. BMC Bioinformatics,2007,6:1-6   
+24 Weis WI,Briinger AT,Skehel JJ,Wiley DC.Refinement of the influenza virus hemagglutinin by simulated annealing.J Mol Biol, 1990,212: 737-761   
+25 Enright AJ,Van Dongen S,Ouzounis CA.An efficient algorithm for large-scale detection of protein families.Nucleic Acids Res,2002, 30:1575-1584   
+26 Shannon P,Markiel A,Ozier O,Baliga NS,Wang JT,Ramage D, Amin N, Schwikowski B,Ideker T.Cytoscape:a software environment for integrated models of biomolecular interaction networks. Genome Res,2003,13:2498-2504   
+27 Rambaut A.FigTree,a graphical viewer of phylogenetic trees. http://tree.bio.ed.ac.uk/software/figtree,2007   
+28 BarnettJL,YangJ,Cai Z,Zhang T,Wan X.AntigenMap 3D:an online antigenic cartography resource.Bioinformatics,2O12,28: 1292-1293
+
+OpeAcessfisc in any medium,provided the original author(s) and source are credited
+
+# Supporting Information
+
+Figure S1Surveillance data of human influenza A(H3N2) virus recently.
+
+Figure S2Detailed dated phylogenies of HA1 segments for the 145 H3N2 viruses,related to Figure 2.
+
+TableS1FoldferencscomparedtothereferencestrainsofifluenaA(H3N)viusescolletedfromHassaysofECDCin405
+
+The supporting information is available online atlife.scichina.com and link.springer.com.The supporting materials are publishedassubmited,withouttypesetingorediting.Theresponsibilityforscientificacuracyandcontentremainsetirely with the authors.

@@ -1,0 +1,354 @@
+[
+    {
+        "type": "text",
+        "text": "绿原酸的生物活性及其作用机制研究进展王文龙1,2文超越 1,2郭秋平2,3段叶辉 2.3李颖慧 2.3何善平」李凤娜 $^ { 2 , 4 ^ { * } }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.湖南师范大学生命科学学院，动物营养与人类健康实验室，长沙410006；2.中国科学院亚热带农业生态研究所，畜禽养殖污染控制与资源化技术国家工程实验室，中国科学院亚热带农业生态过程重点实验室，长沙 410125；3.中国科学院大学研究生院，北京 100049；4.湖南畜禽安全生产协同创新中心，长沙 410128)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：绿原酸（CGA）是一种广泛存在的多酚类物质，具有抗氧化、抗炎、抗菌和降糖降脂等多种生物学功能，在动物生产和人体健康领域具有广阔的应用前景。本文简要综述了CGA 的来源与分布、理化性质、生物活性及其主要作用机制，为CGA的深入研究和进一步开发应用提供参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：绿原酸；多酚；抗氧化；脂类代谢；作用机制；畜产品品质中图分类号：S852.2 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "绿原酸（chlorogenicacid，CGA）是植物体在有氧呼吸过程中经莽草酸途径产生的一种苯丙素类化合物[1,自20 世纪50年代首次从苹果中提取成功就一直受到学者们的高度关注。CGA 因具有抗氧化、消炎抗菌和抗辐射等生物学功能已广泛应用于食品、美容、医药和化工等领域[2-3]；研究也发现CGA在抗癌、降糖降脂、调节免疫和兴奋神经中枢等方面发挥着积极作用[3-5]，但其具体作用机制尚不明确。随着青蒿素等天然植物提取物研究热潮的再次兴起，在“谈抗生素、食品安全色变”以及人们愈加追求畜产品品质和健康水平的时代背景下，CGA的开发应用已成为热点。本文就CGA的来源与分布、理化性质、生物活性及其主要作用机制进行简要综述，并展望其在动物生产和人体健康领域的应用前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "21 1CGA的主要来源与分布",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2016-12-14  \n基金项目：湖南省重大专项（2015NK1002）；湖南省重点研发计划（2016NK2170）；湖南  \n省自然科学基金面上项目（S2014J504I）；中国科学院青年创新促进会项目（2016326)  \n作者简介：王文龙（1989—），男，河南平顶山人，博士研究生，从事动物营养与生理生化  \n研究。E-mail: wangwenlong2012@yeah.net  \n\\*通信作者：李凤娜，副研究员，E-mail: lifengna@isa.ac.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CGA 在植物界中广泛存在，从双子叶植物到蕨类植物中都有分布，主要存在于忍冬科忍冬属（LoniceraL.）、菊科蒿属（ArtemisiaL.）等植物中[6-8]，如杜仲、金银花、向日葵、野菊花、茵陈、牛蒡等，其他植物中如咖啡、苹果、胡萝卜、绿茶、小麦、大豆、马铃薯、苦丁等也有分布[1.7.9]，其中，金银花和杜仲的CGA 含量较高。此外，CGA 的含量随产地、土质、气候以及发育阶段、基因型、器官部位等的差异也会有所不同[8]。我国蕴藏着巨大的CGA资源，为CGA的进一步开发利用提供了有力的保障。作为CGA重要来源之一的金银花，在我国大部分地区均有产出，主要源产地包括山东平邑和湖南隆回等，两地先后被命名为“中国金银花之乡”。山东平邑是我国传统金银花（忍冬）的源产地和主产区，而湖南隆回传统上以灰毡毛忍冬作为主栽品种，清代同治十年的《新化县志》（隆回县属新化县辖区)物产篇中就有收载，原为野生种，分布面积约5000 亩（1亩 ${ \\approx } 6 6 6 . 6 7 ~ \\mathrm { m } ^ { 2 } .$ )，60 年代初转为家种，栽培技术比较系统、完善。灰毡毛忍冬花蕾的CGA含量远高于传统产地金银花的忍冬花蕾，湖南隆回和新宁的灰毡毛忍冬中CGA 的含量达到 $4 \\%$ 以上，目前的种植面积已达20余万亩，年产量1万余t（干花)，占全国总产量的 $5 0 \\%$ 以上，其种植规模居全国之首。此外，作为CGA的另一重要来源的杜仲也在我国储量丰富，杜仲源产于我国中部及西南部，是我国的特有物种，湖南是杜仲的中心产区之一，张家界慈利县作为中国最大的野生杜仲林基地，早在1996 年就享有“神秘的北纬 $3 0 ^ { \\circ }$ ，中国杜仲之乡”的美誉，目前全县杜仲保存面积可达15 万亩以上。因此，研究CGA 的生物活性并最大限度地挖掘其在动物生产和人体健康领域的应用潜力对充分利用我国现有的物产资源、提高食品安全和人民健康水平具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 CGA的理化性质 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CGA又名咖啡鞣酸、咖啡单宁酸，是由咖啡酸（caffeic acid）与奎尼酸（quinic acid）组成的缩酚酸，是植物体在有氧呼吸过程中由肉桂酸和奎宁酸经莽草酸途径形成的一种苯丙素类物质。根据奎宁酸发生酯化部位的不同可将CGA分为3-O-咖啡酰奎宁酸（绿原酸）、4-O-咖啡酰奎宁酸（隐绿原酸）、5-O-咖啡酰奎宁酸（新绿原酸）、3,4-二咖啡酰奎宁酸（异绿原酸B）、3,5-二咖啡酰奎宁酸（异绿原酸A）、4,5-二咖啡酰奎宁酸（异绿原酸C）等[10]。CGA分子式为 $\\mathrm { C _ { 1 6 } H _ { 1 8 } O _ { 9 } }$ ，相对分子质量为354.30，化学分子结构式如图1所示，其半水合物为白色或黄色针状结晶，在110℃时成为无水物，熔点为206\\~208℃，在中药材和食物中分布广泛。天然植物中的CGA 常伴有异构体存在，因此从植物中提取分离的CGA 往往为混合物[]，其中最主要的成分为5-O-咖啡酰奎尼酸（新绿原酸）[12]。室温条件下，CGA在水中的溶解度较低（约为 $4 \\%$ )，在热水中溶解度会增大；易溶于乙醇、丙酮、甲醇，微溶于乙酸乙酯，难溶于氯仿、乙醚、苯等亲脂性有机溶剂。CGA为极性有机酸，不太稳定，在提取过程中易发生异构化[13]；分子结构中含有的邻二酚羟基是酚酶催化最适的反应底物，受热、见光易氧化[14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/59fd8c44d190f2986db548c70f60982117ac3004374a5af298c58d5ba299adbd.jpg",
+        "img_caption": [
+            "图1CGA的化学分子结构式",
+            "Fig.1The chemical molecular structural formula of CGA[15] "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3CGA的生物活性及其可能的作用机制",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 抗氧化性",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究表明，CGA是一种有效的酚型抗氧化剂，其抗氧化能力要强于咖啡酸、对羟苯酸、阿魏酸、丁香酸、维生素C 和维生素E 等常见抗氧化剂[16-17]。CGA的天然抗氧化特性取决于其特殊的分子结构，其中含有的5个活性羟基和1个羧基能够提供一定量的氢自由基来消除活性氧和羟基自由基，且含有邻二酚羟基，性质不稳定，极易发生氧化，从而保护组织免受氧化损伤。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，已有报道证实CGA可以抑制黄嘌呤氧化酶（xanthine oxidase，XO）的活性，减少体内氧自由基的产生[15]；CGA 还可以通过上调抗氧化酶的活性，降低体内脂质过氧化水平[16]。CGA发挥抗氧化性的可能机制（图2）还包括：1）促进机体氨基酸代谢和谷胱甘肽代谢途径，改善机体脂质代谢水平。2）通过上调核因子E2相关因子2/抗氧化反应元件(nuclear factor-erythroid 2-related factor 2/antioxidant response element,Nrf2-ARE）信号通路,抑制由泛素介导的核因子E2相关因子2（Nrf2）蛋白质降解，稳定细胞质中Nrf2蛋白质的浓度，增强应激条件下Nrf2蛋白质的转录活性，保护和促进抗氧化蛋白质、 $\\mathrm { I I }$ 相解毒酶类等保护性基因的表达[16.18]，从而提高机体抗氧化能力。3）上调磷脂酰肌醇-3 激酶/蛋白激酶",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "B（phosphatidylinositol 3-kinase/protein kinase B,PI3K-Akt）信号通路，促进蛋白激酶B（Akt）磷酸化和叉头蛋白转录因子（forkhead box O transcription factor，FoxO）、抑癌基因 $p 5 3$ 、抗凋亡蛋白B 细胞淋巴瘤-2（B-cellleukemia/lymphoma2，Bcl-2）基因的表达，抑制细胞的凋亡[19]。4）CGA 的抗氧化性还可能与丝裂原活化蛋白激酶（mitogen-activated protein kinase，MAPK）信号通路有关，研究表明CGA 可以抑制 MAPK 途径中细胞外信号调节激酶(extrallular signal regulated protein kinase 1/2,ERK1/2）、c-jun 氨基末端激酶(c-jun N-terminalkinase，JNK）和p38 丝裂原激活化蛋白激酶（p38MAPK）3种重要激酶的磷酸化[15]。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/eafac61a57d1d64c93ab9d38c19140cd6055acc5489362798ed80c8324fc9949.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CGA：绿原酸chlorogenic acid；Nrf2-ARE：核因子E2 相关因子2/抗氧化反应元 件信号通路 nuclear factor-erythroid 2-related factor 2/antioxidant response element pathway；PI3K-Akt：磷脂酰肌醇-3 激酶/蛋白激酶B 信号通路 phosphatidylinositol 3-kinase/proteinkinaseBpathway；MAPK：丝裂原活化蛋白激酶信号通路 mitogen-activated protein kinases pathway；Nrf2：核因子 E2 相关因子 2 nuclear factor-erythroid 2-related factor 2；p-Akt:磷酸化蛋白激酶 B phosphorylased kinase-protein kinase B；FoxO：叉头蛋白转录因子 forkhead box O transcription factor；p53：抑癌基因 p53 tumor suppressor gene p53；Bcl-2 B 细胞淋巴瘤2 B-cell leukemia/lymphoma 2; p-p38：磷酸化 p38 丝裂原激活蛋白激酶 phosphorylased p38 mitogen-activated protein kinase；p-JNK：磷酸化 c-jun 氨基末端激酶 phosphorylased c-jun N-terminal kinase; p-ERK：磷酸化细胞外信号调节激酶 phosphorylased extrallular signal regulated protein ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "kinase。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2The potential mechanism of antioxidant activity of CGA ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 抗炎性",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "抗炎是CGA 的重要生物活性之一，也是除抗氧化性之外CGA被广泛应用的又一重要特性。CGA可以参与酪氨酸激酶/信号转导子和转录激活子3（janus kinase/signal transducerand activatorof transcription 3，JAK-STAT3）信号通路，抑制氧化应激条件下白细胞介素6（IL-6）受体 $\\beta$ 亚基（ $g p 1 3 0 \\rangle$ 、酪氨酸激酶1（JAK1）和磷酸化信号转导子和转录激活子3（ $p$ -STAT3）的基因表达，进而反向调控炎症因子的表达和分泌[19]。炎症反应是自身免疫的重要表现形式，而核转录因子kappaB（nuclear factor kappa B，NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ ）通路与机体自身免疫紧密相关，对促炎性细胞因子、趋化因子和黏附分子等的分泌起着关键的调控作用[20]。研究表明，CGA 能通过抑制NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathbf { B } }$ 进而抑制四氯化碳（ $\\mathrm { \\cdot } \\mathrm { C } _ { 4 } \\mathrm { C l } _ { 4 }$ ）和脂多糖（LPS）诱导的白细胞介素 $1 \\beta$ （interleukin- $1 \\beta$ ，IL $\\cdot 1 \\beta$ )、IL-6、肿瘤坏死因子 $- \\alpha$ (tumor necrosis factor $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ，TNF- $\\mathbf { \\nabla } \\cdot \\boldsymbol { a }$ ）等炎症因子的基因表达[21-22]，也可通过 ${ \\bf N F - K B }$ 抑制活性蛋白质来缓解炎症[23]。此外，Toll样受体（Toll-likereceptors，TLRs）信号通路也是CGA 发挥抗炎性作用的重要调控途径，CGA 可抑制 Toll样受体4（TLR4）信号通路的活化，下调TLR4、髓样分化因子88（myeloiddifferentiation factor $8 8 , M y D 8 8$ ）、诱导型一氧化氮合酶（inducible nitric oxide synthase，iNOs)和环氧合酶-2（cyclooxygenase-2，COX-2）的基因表达，上调 BMP 激活素膜结合抑制因子（BMP and activin membrane-bound inhibitor，BAMBI）的基因表达，进而抑制 TNF- $\\mathbf { \\alpha } _ { \\mathrm { ~ \\mathfrak { a } ~ } }$ 、IL-6和 $\\mathrm { I L } { - } 1 \\beta$ 的分泌，缓解肝脏炎症损伤和纤维化[24-25]。后续研究发现，CGA 还可以通过抑制Toll样受体2（TLR2）、Toll样受体3（TLR3）和Toll样受体9（TLR9）信号通路改善机体的炎症反应[26-28]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 抗菌抗病毒性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CGA 也是金银花、杜仲等传统中药材的主要抗菌有效药理成分之一，研究表明CGA具有广谱抗菌活性，对多种致病细菌和真菌具有较强的抑制和杀灭作用，且对真菌的作用强于细菌，并伴随有一定的剂量效应[29]。目前，CGA类物质单体的抗菌机制尚不明确，亦少见较系统的关于抗菌机制方面的研究报道，据已有文献推断CGA的抗菌机制可能与以下几点有关：1)CGA分子中含有酚羟基，是酚酶催化最适的反应底物，可影响相关代谢酶的活性，降低物质和能量代谢水平，导致代谢过程受阻从而抑制细菌的活性[16.30]。已有证据表明，CGA 可能是大肠杆菌等胃肠道细菌体内芳基胺乙酰转移酶（arylamine acetyl transferase）的有效非竞争性抑制剂[31]，CGA 可通过抑制该酶的活性从而影响细菌体内代谢，也能抑制细菌对糖的代谢，导致细菌能量不足，进而影响其生长繁殖[32]。2）CGA分子极性较强，对脂类等大分子物质有高度的亲和力，能够结合于细菌表面并改变细菌膜结构，增大细菌细胞膜通透性，致使细菌体内DNA、RNA、电解质、酶和营养物质部分外泄，影响蛋白质的合成[10.3-34]。3）除了生物膜稳定性，病原细菌抗药性和感染能力的高低与其集群效应（swarmingability）的强弱息息相关，CGA可能通过抑制细菌鞭毛的合成，造成细菌鞭毛数量的减少，进而降低细菌的集群效应，这是CGA 发挥抗菌作用的又一可能机制[35]。目前关于CGA抗病毒作用的研究相对较少，其作用机制尚不明了。据报道，CGA 对甲型流感病毒FM1 株、单纯疱疹病毒（herpes simplex virus，HSV）、体外猪细小病毒（porcineparvovirus in vitro，PPV）和猪繁殖与呼吸综合征病毒（porcine reproductive and respiratorysyndrome virus，PRRSV）具有显著的阻断和抑制作用[36-39]，其机制可能与CGA抑制了病毒和宿主结合的某些蛋白质的表达、阻碍了病毒进入宿主细胞及释放子代毒粒有关，但还需进一步研究探明。此外，绿原酸乙酯具有植物生长素样活性[40]，因此CGA也被学者认为是潜在的抗艾滋病毒（human immunodeficiency virus，HIV）的先导化合物，可能在未来HIV 的治疗药物开发中发挥重要作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 降糖降脂 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "近些年来，由肥胖引发的Ⅱ型糖尿病等代谢疾病成为人类健康的主要威胁之一，并呈现快速蔓延的趋势，而减少脂肪的过度沉积是解决此类问题的重要思路，与此同时，调控机体脂肪沉积也是提高动物源性肉品质的主要策略。CGA 被确认为大鼠肝微粒体中葡萄糖-6-磷酸位移酶的第一个新型特异性抑制剂[41]，由于葡萄糖-6-磷酸位移酶在体内平衡血糖调控中承担着由糖原异生和糖原分解产生内源性葡萄糖的形成，摄入CGA将有利于降低由ⅡI型糖尿病造成的肝糖元排泄过快，CGA也因此成为治疗糖尿病的潜在选择。CGA还可通过抑制与脂肪细胞分化相关的核转录因子过氧化物酶体增殖物激活受体-α2（peroxisomeproliferators-activated receptor-α2，PPAR-α2）和 CCAAT 增强因子结合蛋白（CCAAT enhancer",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "binding protein，C/EBP）的基因表达，减少脂肪沉积，降低血液及肝脏中脂肪含量[42]。此外，CGA 还能参与在调节代谢与细胞发育中具有重要生物学意义的腺苷酸活化蛋白激酶（AMP-activated protein kinase，AMPK）信号通路，而AMPK是细胞能量状态的关键感应器，是肝脏和机体脂类稳态的主要调控器[43]，是研究糖尿病及相关代谢疾病的重要靶点。研究表明，CGA可以激活 AMPK，上调葡萄糖转运蛋白4（glucose transporter 4，GLUT4）的基因表达，刺激骨骼肌葡萄糖的吸收，还能下调葡萄糖-6-磷酸位移酶的基因表达，抑制糖异生作用，抑制脂肪酸的合成[44]。同时，CGA 也被证实能够通过下调乌头酸酶（aconitase，ACO）、过氧化氢酶（catalase，CAT)、脂肪酸合成酶（fatty acid synthetase，FAS）和核转录因子过氧化物酶体增殖物激活受体 $- \\gamma 2$ （PPAR-y2）的基因表达来降低脂肪酸的合成，减少动物机体脂肪的沉积[45]。胰脂肪酶（pancreatic lipase，PL）是由胰腺合成分泌的一类分解脂肪的酶，负责 $5 0 \\% \\sim 7 0 \\%$ 膳食脂肪的分解[46]，报道表明，CGA 等植物提取物是天然的PL 抑制因子，可用于肥胖症和糖尿病的干预治疗[47]。  \n此外，CGA的降血糖效果也被证实，其降血糖的作用机制可能与以下途径有关：1)CGA能够刺激胰高血糖素样肽1（glucagon-like peptide 1，GLP-1）介导的胰岛素分泌。2）激活AMPK 促使GLUT4 移位至细胞膜，从而促进葡萄糖的吸收[48-50]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4CGA在动物生产和人体健康领域的应用前景",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1CGA在动物生产中应用前景广阔",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CGA作为一种来源广泛的天然植物提取物，具有多种生物功能以及无污染、无毒副作用的优点，有助于改善动物肠道菌群结构和机体氧化还原平衡状态，并能缓解动物生产过程中各种应激因素的不良影响，调控脂肪沉积，增强动物机体的免疫力和抗感染力，是一种潜在的替代抗生素类和激素类药物的理想饲料添加剂，对降抗替抗、提高动物生产效率和产品品质有重要意义。在断奶仔猪饲粮中添加 $3 0 0 \\mathrm { m g / k g }$ 的CGA（有效含量 $8 5 \\%$ )，能够显著提高仔猪血浆谷胱甘肽过氧物酶（GSH-Px）和CAT 活性，降低丙二醛（MDA）含量，显著提高血浆抑制羟自由基的能力，提高断奶仔猪的抗氧化能力，缓解应激造成的过氧化损伤，这可能与CGA分子结构中酚羟基能与自由基结合生成稳定的半醌式结构有关[51]。在以母猪为模型的试验中也得出了类似的结论，母猪饲粮中添加 $3 0 0 \\mathrm { m g / k g }$ 的CGA（有效含量 $9 0 \\%$ ）可以提高母猪和新生仔猪的抗氧化能力，显著提高仔猪初生重、窝产活仔猪数和21日龄仔猪窝增重，显著降低哺乳期母猪背膘损失，可有效缓解母猪的分娩应激，改善母猪的健康状况，提高动物的生产效率[52]。在育肥猪基础饲粮中添加 $0 . 0 8 \\%$ 杜仲叶多酚提取物（CGA含量为 $3 3 . 7 \\%$ ）则能够显著提高育肥猪的终末体重和平均日增重，显著降低料重比，提高生长性能，同时提高育肥猪对饲粮蛋白质的利用率，调节其脂肪代谢，提高肉品质[53]。除在猪生产中的应用外，也有学者将CGA在其他动物生产中进行了尝试，研究表明，饲粮中添加CGA 能够提高家禽、水产动物等的生长性能，并能缓解应激，强化免疫，改善动物产品品质[54-57]，其机制与CGA 丰富的天然生物学功能密不可分，以上研究也为CGA 在动物生产中的应用奠定了坚实的基础。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2CGA在人体健康领域的应用有望取得新突破 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "有关CGA能清除自由基、抗菌消炎的研究和应用较多；据不完全统计，我国卫生部《药品标准》收录的170余种具有清热解毒、抗菌消炎的中成药均含有CGA且为主要成分，CGA已成为双黄连制剂等药品生产中质量控制的重要指标之一。此外，CGA 作为保鲜剂、防腐剂、美容和日化产品的主要活性成分在食品和化工工业中应用广泛。随着研究的深入和医疗技术的飞速发展，CGA 更多的应用价值正在不断挖掘，未来也有望在遏制营养代谢性疾病（肥胖、糖尿病等）的蔓延、治疗免疫缺陷性疾病（HIV 等）及增强机体天然免疫力等方面取得新的突破。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5小结 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上，CGA 具有多种生物学功能，在动物生产和人体健康领域有着广泛的应用基础。然而，目前还存在诸多问题，并在一定程度上限制了CGA的深度开发和利用：1）CGA 的制备技术还不成熟，从植物中分离制备CGA纯品成本较高。2）CGA代谢途径不明确，生物利用率较低，还有待进一步提高[58]。3）CGA作用机制尚不清楚。4）CGA在动物生产中的应用还相对较少，如何将CGA更好更高效地应用于动物生产中还需深入研究。因此，为了最大限度挖掘CGA 源植物的开发和应用潜力，系统地研究CGA的生物合成方法，探明其代谢途径及分子机制显得尤为迫切。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] PCHELKINVP.Naturalphenolicandlipophiliccomplexesofchlorogenic acid[J].Pharmaceutical Chemistry Journal,2OO3,37(1):25-27. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2] BASSOLI B K,CASSOLLA P,BORBA-MURAD G R,et al.Chlorogenic acid reduces the plasma glucose peak in the oral glucose tolerance test:effects on hepatic glucose release and glycaemia[J].Cell Biochemistry and Function,2008,26(3):320-328. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DOS SANTOS M D,ALMEIDA M C,LOPES N P,et al.Evaluation of the anti-inflammatory,analgesic and antipyretic activities of the natural polyphenol chlorogenic acid[J].Biological and Pharmaceutical Bulletin,2006,29(11):2236-2240. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DE SOTILLO D VR,HADLEY M,SOTILLO JE.Insulin receptor exon $1 1 ^ { + } I ^ { - }$ is expressed in Zucker (fa/fa) rats,and chlorogenic acid modifies their plasma insulin and liver protein and DNA[J].The Journal of Nutritional Biochemistry,2O06,17(1):63-71. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "NICASIO P,AGUILAR-SANTAMARIA L,ARANDA E,et al.Hypoglycemic effect and chlorogenic acid content in two Cecropia species[J].Phytotherapy Research,2005,19(8):661-664. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DAAYF F,LATTANZIO V.Recent advances in polyphenol research Vol.1[M].New Jersey:Wiley-Blackwell,2009:311-351. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "KIMURA Y,OKUDA H,OKUDA T,et al.Studies on the activities of tannins and related compounds from medicinal plants and drugs.VII.Effects of extracts of leaves of Artemisia species,and caffeic acid and chlorogenic acid on lipid metabolic injury in rats fed peroxidized oil[J].Chemical and Pharmaceutical Bulletin,1985,33(5):2028-2034. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "周荣汉.中药资源学[M].北京:中国医药科技出版社，1993:240.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MATTILA P,HELLSTROM J.Phenolic acids in potatoes,vegetables,and some of their products[J].Journal of Food Composition and Analysis,2007,20(3/4):152-160. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "周志娥,罗秋水,熊建华,等.绿原酸、异绿原酸A 对大肠杆菌的抑菌机制[J].食品科技,2014,39(3):228-232.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "李淑媛,常翠青.氯原酸的生物活性与人体健康[J].卫生研究,2005,34(6):762-764.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CLIFFORD M N.Chlorogenic acids and other cinnamates-nature,occurrence,dietary burden,absorptionandmetabolism[J].Journalofthe Science of Food and Agriculture,2000,80(7):1033-1043. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[13] DORRELL D G.Chlorogenic acid content of meal from cultivated and wild sunflowers[J].Crop Science,1976,16(3):422-424. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[14] 宁正祥.食品生物化学[M].2版.广州:华南理工大学出版社,2006:356.   \n[15] JI L L,JIANG P,LUB,et al.Chlorogenicacid,a dietarypolyphenol,protects acetaminophen-induced liver injury and its mechanism[J].The Journal of Nutritional Biochemistry,2013,24(11):1911-1919.   \n[16]FENG R T,LU Y J,BOWMAN L L,et al.Inhibition of activator protein-1,NF-kB,and MAPKs and induction of phase 2 detoxifying enzyme activity by chlorogenic acid[J].Journal of Biological Chemistry,2005,280(30):27888-27895.   \n[17] 李文娜,肖苑,陈阳,等.杜仲叶绿原酸提取物与绿原酸、维生素C体外抗氧化比较[J].食 品工业科技,2012,33(11):137-140.   \n[18] BOETTLER U,VOLZ N,PAHLKE G,et al.Coffees rich in chlorogenic acid or $N$ -methylpyridinium induce chemopreventive phase I -enzymes via the Nrf2/ARE pathway in vitro and in vivo[J].Molecular Nutrition & Food Research,2011,55(5):798-802.   \n[19]LOU L X,ZHOU J W,LIU Y J,et al.Chlorogenic acid induces apoptosis to inhibit inflammatory proliferation of IL-6-induced fibroblast-like synoviocytes through modulating the activation of JAK/STAT and NF- $\\kappa \\mathrm { B }$ signaling pathways[J].Experimental and Therapeutic Medicine,2016,11(5):2054-2060.   \n[20] LAWRENCE T.The nuclear factor NF $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ pathway in inflammation[J].Cold Spring Harbor Perspectives in Biology,2009,1(6):a001651.   \n[21] SHAN J H,FU J,ZHAO Z H,et al.Chlorogenic acid inhibits lipopolysaccharide-induced cyclooxygenase-2 expression in RAW264.7 cells through suppressing NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ and JNK/AP-1 activation[J].International Immunopharmacology,209,9(9):1042-1048.   \n[22] HWANG S J,KIM Y W,PARK Y,et al.Anti-inflammatory effects of chlorogenic acid in lipopolysaccharide-stimulated RAW 264.7 cells[J].Inflammation Research,2014,63(1):81-90.   \n[23] YOON T,CHEON M S,LEE A Y,et al.Anti-inflammatory activity of methylene chloride ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "fraction from Glehnia littoralis extract via suppression of NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ and mitogen-activated protein kinase activity[J].Journal of Pharmacological Sciences,2O10,112(1):46-55. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[24] MITJAVILA M T,MORENO JJ.The effects of polyphenols on oxidative stress and the arachidonic acid cascade.Implications for the prevention/treatment of high prevalence diseases[J].Biochemical Pharmacology,2012,84(9):1113-1122.   \n[25] SHI H T,DONG L,JIANG J,et al.Chlorogenic acid reduces liver inflammation and fibrosis through inhibition of toll-like receptor 4 signaling pathway[J].Toxicology,2013,303:107-114.   \n[26] GAO R F,FU Y H,WEI Z K,et al.Chlorogenic acid attenuates lipopolysaccharide-induced mice mastitis by suppressing TLR4-mediated NF-kB signaling pathway[J].Eurpean Journal of Pharmacology,2014,729:54-58.   \n[27] GUO Y J,LUO T,WU F,et al.Involvement of TLR2 and TLR9 in the anti-inflammatory effects of chlorogenic acid in HSV-1-infected microglia[J].Life Sciences,2015,127:12-18.   \n[28] ZHENG Z Y,SHENG Y C,LU B,et al.The therapeutic detoxification of chlorogenic acid against acetaminophen-induced liverinjurybyameliorating hepatic inflammation[J].Chemico-Biological Interactions,2015,238:93-101.   \n[29] ZHU X F,ZHANG H X,LO R.Phenolic compounds from the leaf extract of artichoke (Cynara scolymus L.) and their antimicrobial activities[J].Journal of Agricultural and Food Chemistry,2004,52(24):7272-7278.   \n[30] KONO Y,KOBAYASHI K,TAGAWA S,et al.Antioxidant activity of polyphenolics in diets:rate constants of reactions of chlorogenic acid and caffeic acid with reactive species of oxygenandnitrogen[J].Biochimicaet BiophysicaActa(BBA）- General Subjects,1997,1335(3):335-342.   \n[31] LO H H,CHUNG J G.The effects of plant phenolics,caffeic acid,chlorogenic acid and ferulic acid on arylamine N-acetyltransferase activities in human gastrointestinal microflora[J].Anticancer Research,1999,19(1A):133-139. 罗艺邑 黄利明 杨 竿 绿原酸抑制全黄色葡萄球菌机理研究Ⅲ西南大学学报·白然 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[32] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "科学版,2016,38(3):15-19.   \n[33] FRANCISCO V,COSTA G,FIGUEIRINHA A,et al.Anti-inflammatory activityof Cymbopogon citratus leaves infusion via proteasome and nuclear factor-kB pathway inhibition:contribution of chlorogenic acid[J].Journal of Ethnopharmacology,2013,148(1):126-134.   \n[34] LOU Z X,WANG H X,ZHU S,et al.Antibacterial activity and mechanism of action of chlorogenic acid[J].Journal of Food Science,2011,76(6):M398-M403.   \n[35] REN S,WU M,GUO J Y,et al.Sterilization of polydimethylsiloxane surface with Chinese herbextract:anewantibioticmechanismofchlorogenicacid[J].Scientific Reports,2015,5:10464.   \n[36] OJHA D,MUKHERJEE H,GHOSH S,et al.Evaluation of anti-infective potential of a tribal folklore Odina wodier Roxb against some selected microbes and herpes simplex virus associated with skin infection[J].Jourmal of Applied Microbiology,2013,115(6):1317-1328.   \n[37] 潘墨垦,王雪峰,闫丽娟,等.金银花提取物体外抗甲型流感病毒 FM1 株的研究[J].中国 中医药信息杂志,2007,14(6):37-38,51.   \n[38] 王学兵,崔保安,魏战勇,等.绿原酸对猪繁殖与呼吸综合征病毒体外作用的研究[J].中国 农业科技导报,2008,10(3):107-110.   \n[39] 王学兵,魏战勇,崔保安,等.绿原酸的提取及其对猪细小病毒的体外作用研究[J].中国畜 牧兽医,2008,35(12):123-125.   \n[40] 相婷,吴立军,董梅,等.西南忍冬化学成分的研究(I)[J].中国药物化学杂 志,1998,8(1):44-45,48.   \n[41] SCHINDLER P W,BELOW P,HEMMERLE H,et al.Identification of two new inhibitors of thehepaticglucose-6-phosphatase system[J].Drug Development Research,1998,44(1):34-40.   \n[42] 邱阳阳.咖啡碱和绿原酸对小鼠和 3T3-L1 细胞脂肪代谢的影响[D].硕士学位论文.南 昌:江西农业大学,2013:43-56.   \n[43] 吴铁梅,闫素梅,格日乐玛.脂肪细胞因子对动物脂类代谢的调控机理[J].动物营养学 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "报,2016,28(10):3034-3041. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[44] ONG K W,HSU A,TAN B K H.Anti-diabetic and anti-lipidemic effects of chlorogenic acid are mediated by ampk activation[J].Biochemical Pharmacol0gy,2013,85(9):1341-1351.   \n[45]ZHENG G D,QIU Y Y,ZHANG Q F,et al.Chlorogenic acid and caffeine in combination inhibit fat accumulation by regulating hepatic lipid metabolism-related enzymes in mice[J].British Journal of Nutrition,2014,112(6):1034-1040.   \n[46] BIRARI R B,BHUTANI K K.Pancreatic lipase inhibitors from natural sources:unexplored potential[J].Drug Discovery Today,2007,12(19/20):879-889.   \n[47] DE LA GARZA A L,MILAGRO F I,BOQUE N,et al.Natural inhibitors of pancreatic lipase as new players in obesity treatment[J].Planta Medica,2011,77(8):773-785.   \n[48] JOHNSTON K L,CLIFFORD M N,MORGAN L M.Coffee acutely modifies gastrointestinal hormone secretion and glucose tolerance in humans:glycemic effects of chlorogenicacidandcaffeine[J].TheAmericanJournalofClinical Nutrition,2003,78(4):728-733.   \n[49]JUNG U J,LEE M K,PARK Y B,et al.Antihyperglycemic and antioxidant properties of caffeicacidindb/dbmice[J].JournalofPharmacologyandExperimental Therapeutics,2006,318(2):476-483.   \n[50] ONG K W,HSU A,TAN B K H.Chlorogenic acid stimulates glucose transport in skeletal muscle via AMPK activation:a contributor to the beneficial effects of coffee on diabetes[J].PLoS One,2012,7(3):e32718.   \n[51] 刘英,王之盛,周安国.橙皮苷、绿原酸对断奶仔猪生长、抗氧化和免疫机能的影响[J]. 中国兽医学报,2009,29(9):1233-1236.   \n[52] 黄少文,魏金涛,赵娜,等.绿原酸和维生素E对母猪繁殖和抗氧化性能的影响[J].中国畜 牧杂志,2015,51(24):79-83.   \n[53] 周艳.杜仲叶多酚提取物对猪肉品质及绿原酸缓解肝-肠损伤研究[D].博士学位论文. 南昌:南昌大学,2015:17-34. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[54] RUAN Z,LIU S Q,ZHOU Y,et al.Chlorogenic acid decreases intestinal permeability and increases expression of intestinal tight junction proteins in weaned rats challenged with LPS[J].PLoS One,2014,9(6):e97815. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[55] 陈玉敏,黄涛,宋小珍,等.饲粮中添加杜仲叶提取物对爱拔益加肉鸡生长性能及免疫功能的影响[J].动物营养学报,2015,27(7):2224-2230.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[56] 李乃顺,冷向军,李小勤,等.绿原酸对草鱼鱼种生长、非特异性免疫和肉质的影响[J].水 生生物学报,2014,38(4):619-626 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[57] 温安祥,舒辉,肖洋.绿原酸对中华鳖生产性能及抗氧化能力的影响[J].动物营养学报，2010,22(3):729-733.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[58] LIANG N J,KITTS D D.Role of chlorogenic acids in controlling oxidative and inflammatory stress conditions[J].Nutrients,2O15,8(1):16. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Advance in Biological Properties of Chlorogenic Acid and its Mechanism of Action   \nWANG Wenlong1.2WEN Chaoyue1.2GUO Qiuping2.3DUAN Yehui2.3LI Yinghui2.3 HE Shanping1 LI Fengna2,4\\* (1.Laboratory ofAnimal Nutrition and Human Health,School of Life Sciences,Hunan Normal University, Changsha 410o06, China; 2. Key Laboratory of Agro-Ecological Processes in   \nSubtropical Region,National Engineering Laboratory for Pollution Control and Waste Utilization in Livestock and Poultry Production, Institute of Subtropical Agriculture, Chinese Academy of   \nScience, Changsha 410125, China; 3. University of Chinese Academy of Science,Beijing 100049,   \nChina; 4. Hunan Co-Innovation Center of Animal Production Safety, CICAPS, Changsha 410128, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Chlorogenic acid (CGA),as one of the most abundant polyphenol compounds,is widely distributed in nature. Its biological properties include antioxidant,anti-inflammatory,antibacterial, hypoglycemic, hypolipidemic activities and so on, which make it have broad scope in applications in the fields of animal production and human health care.This paper briefly summarized the source, ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "distribution, physicochemical characters, biological properties of CGA and its mechanism of action, in order to provide a reference for further research and exploitation.   \nKey words: chlorogenic acid; polyphenol; antioxidant; lipid metabolism; mechanism; quality of animal products ",
+        "page_idx": 14
+    }
+]

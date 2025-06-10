@@ -1,0 +1,549 @@
+[
+    {
+        "type": "text",
+        "text": "新疆旅游产业一经济发展一生态环境耦合态势分析及预测",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵胡兰1²，杨兆萍}，韩芳¹，时卉'，王璀蓉}，郭姣姣1,2（1中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011;2中国科学院大学，北京100049）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：旅游产业作为国家战略产业之一，在经济发展中起到了很大的贡献作用，旅游与经济的发展都以生态环境为主要依托，因此处理好三者之间的关系是实现可持续发展的关键。在构建旅游产业一经济发展一生态环境评价指标体系的基础上，运用耦合协调模型对新疆2008—2017年三大系统耦合协调发展进行综合实证研究，并利用灰色预测模型 $\\operatorname { G M } ( 1 , 1 )$ 对未来五年的耦合协调度进行预测。结果表明：2008—2017年新疆旅游产业一经济发展一生态环境系统综合发展状态可分为两种类型，其中2008—2010年为生态超前型,2011—2017年为经济超前型;三大系统之间具有较高的关联度，从时间维度上看，耦合协调度呈现波动上升的趋势，从协调等级上看,整体从初级协调逐步演变到中级协调；未来几年内，新疆三大系统的耦合协调度总体上呈现小幅增长的趋势，在2021年达到良好协调水平。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：耦合协调模型；旅游产业；经济发展；生态环境；新疆文章编号： 1000-6060(2020)04-1146-09(1146\\~1154)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "旅游业作为国家战略性支柱产业之一，在带动相关产业发展、创造就业机会、增加税收收入等方面起到了很大的作用[1]。截至2017年底，旅游业对国民经济的综合贡献度，以及旅游就业人口占全国就业人口的比值均达到 $1 0 \\%$ 以上。旅游产业、经济发展和生态环境三者之间相互作用密切，其中生态环境的优化是支撑旅游产业和经济增长的基础；另外，旅游产业向好加快经济增长，经济增长为旅游产业提供更好的基础服务设施，也为生态环境保护提供资金保障。然而，旅游和经济带动相关效益的快速增加，往往以牺牲环境为代价，引起严重的资源消耗和环境污染问题，从而又反向成为制约旅游发展的瓶颈[2-4]。因此,在促进旅游和经济持续向好发展的同时，协调好生态环境的可持续发展，做到旅游、经济和生态环境的良性循环是地区发展的重",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "点问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内关于旅游产业、经济发展和生态环境的研究成果较多，大部分集中在旅游与经济、旅游与生态、经济与生态等两两之间的耦合协调分析方面。在旅游与经济耦合研究方面，安强等[5分析了南疆三地州贫困与旅游资源优势度在空间上的关联；杨艳等6基于耦合协调模型，对江苏乡村旅游信息化与经济发展的耦合协调关系进行了实证研究；另外刘丹丽等从竞争力的视角对全球35个贫困国家旅游与经济的耦合协调水平及其成因机制进行了分析。在经济与生态环境研究方面，学者们运用耦合协调模型，从生态脆弱性与贫困区[8-9]、环境污染与经济增长[10]、生态环境与城市化[1I-12]等多角度进行耦合协调关系的研究。在旅游与生态耦合研究方面,涉及单独的省市[13]、特定的城市群[14-15]、发达的沿海区域[16]等多个研究尺度。目前在旅游一经济一生态三者的耦合协调研究方面已有不少成果，周成等运用耦合协调数学模型对全国31个省市经济一旅游一生态耦合协调度进行了实证分析，并探讨了各省市之间的差异；李悦铮等[18]、王维[19]分别选取不同区域对三者的耦合关系进行了相关研究，并利用ArcGIS软件模拟了其空间动态演变过程。然而现有关于旅游、经济与生态环境的文献大部分在时间选择上集中在截面数据或短期时段，缺乏对未来情况的分析预测，且研究区域集中在中东部省市，经济发达且生态环境条件相对较好，对西部脆弱干旱区的研究略显不足。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆维吾尔自治区是中国面积最大的省份，也是我国干旱半干旱区和生态脆弱区的典型代表。十三五以来，新疆旅游产业呈现出井喷式增长，生态环境负担也因此加重。本文以新疆为研究对象，通过获取2008一2017年间旅游产业、经济发展、生态环境三类数据，分析计算三者之间的耦合协调度。并借助GM(1,1)灰色预测模型，对新疆未来耦合协调情况进行预测，以期为相关部门制定旅游发展策略，为推进新疆自然资源科学保护与合理利用，提供参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况及数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆地处欧亚腹地，属于温带大陆性干旱气候，光热丰富，降水稀少，且分布不均、蒸发量大，植被覆盖率低，土地荒漠化严重，是我国典型的干旱区和生态脆弱区。其拥有着“三山夹两盆\"的特殊地形，创造了种类丰富的旅游资源，同时也是我国旅游业发展的重要战略区。近年来，新疆旅游产业发展持续增长，从2008一2017年，人境旅游人数$3 . 6 3 2 \\times 1 0 ^ { 5 }$ 人次增长到了 $2 . 3 4 8 \\times 1 0 ^ { 6 }$ 人次，GDP从2008年的 $4 . 1 8 3 \\times 1 0 ^ { 1 1 }$ 元增长到2017年的 $1 . 0 8 8 \\times 1 0 ^ { 1 2 }$ 元，旅游总收入占GDP的比重从 $4 . 9 3 \\%$ 增长到了$1 6 . 7 4 \\%$ ,10a期间增加了11.81个百分点，平均每年增加1.181个百分点，旅游产业持续强劲发展态势全面带动新疆宏观经济增速，已成为新疆经济快速增长的重要动力之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以新疆维吾尔自治区为研究对象，对",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2008一2017年新疆旅游产业、经济发展、生态环境系统三类数据的耦合协调情况，进行相关性分析测算。指标数据主要来源于国家统计局和新疆维吾尔自治区统计局，包括新疆《统计年鉴》（2009—2018)和《国民经济与社会发展统计公报》（2008—2017)等。部分数据来源于旅游部门、环境部门和其他相关单位的官方统计结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 指标体系构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过新疆整体区域的实地调研，遵循指标选取的科学性、代表性和可获得性原则，借鉴已有的相关研究[20-22],本文从7个准则层选取相应的30个指标建立旅游产业一经济发展一生态环境评价指标体系。为了消除各子系统内选取的指标所代表的量纲和物理意义不同造成的影响，首先利用极差标准化方法对指标的原始数据进行无量纲化处理，并采用熵值法23进一步计算得到旅游产业、经济发展和生态环境三个系统各指标的权重(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2各子系统发展水平评价模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "旅游产业一经济发展一生态环境系统是一个庞大复杂的系统，三者之间相互作用、相互影响，本文通过线性加权法对各系统综合发展水平进行测算。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { i = 1 , 2 , 3 } = \\sum _ { j = 1 } ^ { n } \\ W _ { i j } R _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { i j }$ 表示标准化处理后的数据; $\\boldsymbol { W } _ { i j }$ 为子系统 $i$ 第 $j$ 项指标的权重; $U _ { 1 } \\setminus U _ { 2 } \\setminus U _ { 3 }$ 分别代表旅游产业系统、经济发展系统和生态环境系统综合评价指数。$U _ { i }$ 越大，表示系统发展水平状况越好，反之越差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3系统耦合协调模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "耦合来自于物理学概念，用来表征各系统或各要素之间的相互作用程度的好坏。本文涉及到旅游产业、经济发展和生态环境三个系统的耦合度研究,参考相关学者[24-25]的研究成果,借助物理学耦合协调模型，得到耦合度公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\sqrt [ 3 ] { \\frac { U _ { 1 } \\times U _ { 2 } \\times U _ { 3 } } { \\left( ( U _ { 1 } + U _ { 2 } + U _ { 3 } ) / \\mathrm { ~ 3 } \\right) ^ { 3 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $C$ 表示耦合度，取值范围在[0,1]。耦合程度越大，则表明系统间相关性越大，反之则越小。耦合度的局限在于只能表示系统之间的相互作用的强弱，因此为了能够分析系统间整体的协调情况，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/eae8fadb5da2c057954831cf743cedf59e6a6416f935523c1b1bba395be02eba.jpg",
+        "table_caption": [
+            "Tab.1Evaluation index systemand its weight of tourism industry-economicdevelopment-ecological environment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目标层</td><td>准则层</td><td>指标层</td><td>权重</td><td>性质</td></tr><tr><td>旅游产业系统</td><td>旅游市场规模</td><td>入境旅游人数／人</td><td>0.030 5</td><td>正向</td></tr><tr><td></td><td></td><td>国内旅游人数／人</td><td>0.032 9</td><td>正向</td></tr><tr><td></td><td>旅游经济效益</td><td>入境旅游消费／10USD</td><td>0.0318</td><td>正向</td></tr><tr><td></td><td></td><td>国内旅游消费／10元</td><td>0.0377</td><td>正向</td></tr><tr><td></td><td>旅游产业水平</td><td>旅行社总数／个</td><td>0.037 4</td><td>正向</td></tr><tr><td></td><td></td><td>星级宾馆数量／个</td><td>0.029 9</td><td>正向</td></tr><tr><td></td><td></td><td>旅游收入占GDP的比重／%</td><td>0.038 2</td><td>正向</td></tr><tr><td></td><td></td><td>旅游产业占第三产业的比重/%</td><td>0.0308</td><td>正向</td></tr><tr><td></td><td></td><td>限额以上餐饮企业营业额/10元</td><td>0.036 0</td><td>正向</td></tr><tr><td>经济发展系统</td><td></td><td>限额以上住宿企业营业额/10元</td><td>0.024 6</td><td>正向</td></tr><tr><td></td><td>经济规模总量</td><td>GDP/10元</td><td>0.0361</td><td>正向</td></tr><tr><td></td><td></td><td>人均GDP/元</td><td>0.0372</td><td>正向</td></tr><tr><td></td><td></td><td>第三产业产值/10元</td><td>0.039 8</td><td>正向</td></tr><tr><td></td><td></td><td>进出口贸易总额/10USD</td><td>0.029 5</td><td>正向</td></tr><tr><td></td><td></td><td>社会消费品零售总额/10元</td><td>0.036 4</td><td>正向</td></tr><tr><td></td><td></td><td>实际使用外商投资／10\"USD</td><td>0.0453</td><td>正向</td></tr><tr><td></td><td>经济结构特征</td><td>工业增加值/10元</td><td>0.0311</td><td>正向</td></tr><tr><td></td><td></td><td>城镇居民家庭人均可支配收入／元</td><td>0.038 6</td><td>正向</td></tr><tr><td></td><td></td><td>一般公共预算收入增长指数/%</td><td>0.027 6</td><td>正向</td></tr><tr><td>生态环境系统</td><td></td><td>全员劳动生产率/10元·人-</td><td>0.029 6</td><td>正向</td></tr><tr><td></td><td>环境污染现状</td><td>工业废水排放总量/10\"t</td><td>0.0361</td><td>负向</td></tr><tr><td></td><td></td><td>工业废气排放总量/10m</td><td>0.0369</td><td>负向</td></tr><tr><td></td><td></td><td>二氧化硫排放总量/t</td><td>0.041 7</td><td>负向</td></tr><tr><td></td><td></td><td>工业粉尘排放量/t</td><td>0.034 3</td><td>负向</td></tr><tr><td></td><td></td><td>工业固体废物产生量/10\"t</td><td>0.036 7</td><td>负向</td></tr><tr><td></td><td>环境治理成果</td><td>生活垃圾清运量/10t</td><td>0.033 6</td><td>正向</td></tr><tr><td></td><td></td><td>生活垃圾处理率/%</td><td>0.024 4</td><td>正向</td></tr><tr><td></td><td></td><td>建成区绿化覆盖率/%</td><td>0.018 9</td><td>正向</td></tr><tr><td></td><td></td><td>人均公园绿地面积／m</td><td>0.033 9</td><td>正向</td></tr><tr><td></td><td></td><td>人均水资源量／m·人-</td><td>0.022 5</td><td>正向</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引入了耦合协调模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = U _ { 1 } \\alpha + U _ { 2 } \\beta + U _ { 3 } \\gamma\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = { \\sqrt { C \\times T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $D$ 表示耦合协调度； $T$ 为系统综合评价指数；其中 $\\alpha , \\beta , \\gamma$ 为待定系数且三者之和为1。由于三者之间相互促进相互制约，且旅游产业与经济发展都有赖于生态环境的发展状况，参考已有的研究成果[20.26]，故将三者分别设置为 $\\alpha = 0 . 3$ ， $\\beta = 0 . 3$ ，$\\gamma = 0 . 4$ 。本文借鉴廖重斌[27]对协调度的等级及其划分标准研究，将耦合协调度划分为10个等级(表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4灰色预测模型GM(1,1) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "灰色预测模型是针对层次、结构具有不确定性，动态变化具有随机性特点的系统建立的预测模型，也称GM模型。通过对原始随机变量进行累加、均值处理,构建微分方程模型,对未来的数据做出预测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/06ff529b1370b5da25531942cdfe392f4f7fed097740ea200bc45f5412fb38db.jpg",
+        "table_caption": [
+            "表1旅游产业一经济发展一生态环境评价指标体系及其权重",
+            "表2耦合协调度等级分类",
+            "Tab.2 Classification of coupling coordinative degree "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>耦合协调度D</td><td>协调等级</td><td>耦合协调度D</td><td>协调等级</td></tr><tr><td>0.000~0.090</td><td>极度失调</td><td>0.500~ 0.590</td><td>勉强协调</td></tr><tr><td>0.100~0.190</td><td>严重失调</td><td>0.600~0.690</td><td>初级协调</td></tr><tr><td>0.200~0.290</td><td>中度失调</td><td>0.700~0.790</td><td>中级协调</td></tr><tr><td>0.300~0.390</td><td>轻度失调</td><td>0.800~0.890</td><td>良好协调</td></tr><tr><td>0.400~0.490</td><td>濒临失调</td><td>0.900~1.000</td><td>优质协调</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)设原始数据列为 $x ^ { ( 0 ) } = \\{ x ^ { ( 0 ) } ( 1 ) , x ^ { ( 0 ) } ( 2 ) , \\cdots ,$ $x ^ { ^ { ( 0 ) } } ( n ) \\}$ ，进行累加后得到新序列： $x ^ { \\mathit { \\Pi } _ { \\left( m \\right) } } = \\{ x ^ { \\mathit { \\Pi } _ { \\left( m \\right) } } ( 1 )$ ，$x ^ { ( m ) } ( 2 ) , \\cdots , x ^ { ( m ) } ( n ) \\} ( m { = } 1 , 2 , \\cdots )$ ,则 $\\operatorname { G M } ( 1 , 1 )$ 模型相应的一阶线性常系数微分方程为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } x ^ { ( 1 ) } } { \\mathrm { d } t } + \\alpha x ^ { ( 1 ) } = \\mu\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\alpha$ 表示发展系数； $\\mu$ 表示灰作用量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)利用Python软件编程求解微分方程，可得预测模型：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX ^ { ( 1 ) } ( k + 1 ) = \\left[ x ^ { ( 0 ) } \\bigl ( \\ 1 \\ \\bigr ) - \\frac { \\mu } { \\alpha } \\right] { \\mathrm e } ^ { - \\alpha k } + \\frac { \\mu } { \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( k = 0 , ~ 1 , ~ 2 . . . , ~ n )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $a \\mathrm { ~ , ~ } \\mu$ 为待确定的未知参数； $k$ 表示时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)为了验证灰色模型预测结果的可信性，需要进行后验差检验：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\frac { S _ { 2 } } { S _ { 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $S _ { \\mathrm { 1 } }$ 为原始数据列的标准差； $S _ { 2 }$ 为残差数据列的标准差。 $F$ 为后验差比值表示按灰色预测模型计算的估计值与实际值的接近程度， $F$ 越小表示越接近。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\mathrm { = } P \\Big ( \\left| q ( k ) - \\overline { { q } } \\right| < 0 . 6 7 4 ~ 5 S _ { 1 } \\Big )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $P$ 为小误差频率，表示残差与残差平均值之差小于给定值 $0 . 6 7 4 5 \\ S _ { _ 1 }$ 的频率, $P$ 越大越好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据后验差比值和小误差频率可以综合评价模型的精度(表3)。若后验差比值 $F$ 和小误差概率$P$ 均处于允许范围，即利用建立的模型对耦合协调度的预测可行，否则需要通过分析残差序列，对公式进行修正[28]。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/56e30debc1f88aec6a043cc593fcc06f36cd929d59e5e64db8448bbd95546e3f.jpg",
+        "table_caption": [
+            "表3预测模型精度的等级划分",
+            "Tab.3Classification of prediction model accuracy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>精度等级</td><td>后验差比值F</td><td>小误差频率P</td></tr><tr><td>好</td><td><0.350</td><td>> 0.950</td></tr><tr><td>合格</td><td><0.500</td><td>> 0.800</td></tr><tr><td>勉强</td><td><0.650</td><td>> 0.700</td></tr><tr><td>不合格</td><td>≤0.700</td><td>≥0.650</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1各子系统综合发展水平分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据线性加权法对各子系统综合发展水平进行测算，结果如图1。总体上，三个子系统均呈现不同程度的波动增长，其中经济发展系统波动最大，由最低值0.368增长到了最高值0.625，而旅游产业系统与生态环境系统在波动增长过程中均出现了短期较大幅度的下降状况，具体分析如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/05304da6e6570c09462aa152dba6302917915591ed9a09a2c3e18af5c6f1d313.jpg",
+        "img_caption": [
+            "图12008—2017年新疆旅游产业一经济发展一生态环境的综合发展水平",
+            "Fig.1Xinjiang tourism industry-economic development-ecological environment comprehensive development level from 2008 to 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "旅游产业系统 $U _ { 1 }$ ：2008—2017年新疆旅游产业总体上呈现波动上升状况。2008—2012年， $U _ { \\scriptscriptstyle 1 }$ 由0.392增长到0.503；2012—2017年， $U _ { \\scriptscriptstyle 1 }$ 呈现\"V\"型波动增长形式,2014年出现低谷。在“一带一路\"倡议的提出后，新疆的旅游产业发展迎来新的机遇，在此阶段 $U _ { \\scriptscriptstyle 1 }$ 有所回升，在2017年达到最高值 $0 . 6 0 9$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经济发展系统 $U _ { _ { 2 } }$ ：除2009年有所下降以外，在2008—2014年期间， $U _ { _ { 2 } }$ 呈现持续稳定增长的趋势，并在2011年开始反超 $U _ { \\scriptscriptstyle 1 }$ 和 $U _ { 3 }$ 。新疆经济得到迅猛提升得益于对口援疆政策的扶持。2015年开始经济增长有些波动，但指数也维持在0.600左右，且于2017年达到最大值0.625。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态环境系统 $U _ { 3 }$ :2008—2010年, $U _ { 3 }$ 发展较平稳，保持在 $0 . 4 8 0 \\sim 0 . 5 1 0$ 之间。2010—2014年，指数出现逐步下降态势，且明显低于 $U _ { \\scriptscriptstyle 1 }$ 和 $U _ { _ { 2 } }$ ,尤其到2014年， $U _ { 3 }$ 仅为0.390。在自治区政府不断加强完善生态保护与监管机制后，2014一2017年生态环境得到有效改善,指数也在相应提升,到2016年时， $U _ { 3 }$ 达到最大值 $0 . 5 8 0$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2耦合协调度时序分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用各子系统的综合评价指数，可以计算得出2008一2017年新疆旅游产业一经济发展一生态环境的耦合度 $C$ 和耦合协调度 $D$ ,再结合现有的划分标准，则可得出耦合协调等级及类型(图2、表4所",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一耦合度C—耦合协调度D 1.005 0.780   \n1.995 M   \n度0.990 出网   \n合0.985   \n耦0.980 0.975 0.970 0.580 8 0 10 Ⅱ 12 3 4 5 16 20 20 20 20 20 20 20 2 80 20 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "示）。从图中可以明显看出，近十年来新疆旅游产业一经济发展一生态环境耦合度总体水平较高，均达到0.900以上。这说明2008—2017年新疆旅游产业、经济发展和生态环境三系统之间关联度较高。另一方面，各子系统综合发展水平，由于受到社会环境和生态环境影响，不同年份的耦合协调度呈“下降一上升\"循环波浪型增长趋势,但总体达到中等较高水平。如在2009年，耦合协调度下降到波谷值0.647，但横观2008—2017年，总体耦合协调度的变化，却从0.656增长到了0.766，协调水平也从初级提升到了中级。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据耦合协调度变化，可将其划分为两个阶段：第一阶段为初级协调阶段(2008—2014年）。新疆整体耦合协调水平在2009年降到最低值0.647，但在2010年全国对口支援新疆工作会议召开后，19个省市建立起人才、技术、管理、资金等方面援助新疆的有效机制，这对新疆旅游及经济的发展起到了很大的带动作用，耦合协调度呈现持续增长的形势，并在2012年一度达到0.700，从初级协调向中级协调逼近。但在长期的发展过程中，新疆旅游产业一经济发展一生态环境还是稳定在初级协调水平。第二阶段为中级协调阶段（2015—2017年）。此阶段新疆旅游综合评价指数持续向好，经济和生态综合评价指数呈现波动增长，在2016年三系统耦合度达到最大值，并且耦合协调度也迅猛上升，在中级协调水平保持稳定发展。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3耦合协调类型分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从耦合协调类型来看，近10a新疆旅游产业一经济发展一生态环境耦合协调类型可分为两种类型：生态超前型和经济超前型，如表4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中2008—2010年属于生态超前型， $U _ { \\scriptscriptstyle 1 }$ 和 $U _ { \\scriptscriptstyle 2 }$ 都远远低于 $U _ { 3 }$ ,这表明新疆自然生态环境本身具有良好的状态，然而此阶段经济发展落后，新疆丰富的旅游资源未得到有效的开发利用，旅游产业、经济发展和生态环境三系统仅能达到初级协调水平，长期来看旅游和经济仍然有很大的上升空间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从2011年开始，新疆旅游产业一经济发展一生态环境耦合协调类型由生态超前型转向经济超前型， $U _ { \\scriptscriptstyle 1 }$ 和 $U _ { 3 }$ 都经历先下降再上升的发展过程，但总体上都低于 $U _ { _ { 2 } }$ ，这时期正值中央新疆工作会议的召开，全国19省市对口援疆行动的实施大力促进了新疆经济的发展，然而此时 $U _ { 3 }$ 远远低于 $U _ { _ { 2 } }$ 和 $U _ { 1 }$ ，这意味着经济发展和旅游产业的快速发展在很大程度上对生态环境产生了负面的影响，粗放式的经济发展不可避免的会对环境产生破坏，制约生态环境的可持续健康稳定发展。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4耦合协调发展预测分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了进一步了解未来耦合协调度的变化趋势，本文以2008—2017年新疆旅游产业一经济发展—生态环境耦合协调度序列作为原始数据，基于灰色预测模型 $\\mathrm { G M } ( 1 , 1 )$ ,在Anaconda3软件下的Python3.6编译环境中对其进行求解，计算出未来五年耦合协调度(图3)。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ff0e022117afb21320864579fbfba56db57ffe0f0947bedff75d799baa2e6f6.jpg",
+        "table_caption": [
+            "表42008—2017年新疆旅游产业一经济发展一生态环境耦合协调发展类型及评判标准",
+            "Tab.4Xinjiang tourism industry-economicdevelopment-ecological environmentcoupling coordinative development classification and evaluation criteria from 2oo8 to 2017 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>U</td><td>U</td><td>U3</td><td>C</td><td>T</td><td>D</td><td>U、U、U对比关系</td><td>耦合协调等级</td><td>类型划分</td></tr><tr><td>2008</td><td>0.394 6</td><td>0.395 3</td><td>0.487 6</td><td>0.995 0</td><td>0.432 0</td><td>0.655 6</td><td>U3>U>U1</td><td>初级协调</td><td>生态超前型</td></tr><tr><td>2009</td><td>0.391 7</td><td>0.368 0</td><td>0.485 8</td><td>0.992 8</td><td>0.422 2</td><td>0.647 4</td><td>U3>U>U</td><td>初级协调</td><td>生态超前型</td></tr><tr><td>2010</td><td>0.447 3</td><td>0.438 4</td><td>0.503 8</td><td>0.998 1</td><td>0.467 2</td><td>0.682 9</td><td>U3>U>U2</td><td>初级协调</td><td>生态超前型</td></tr><tr><td>2011</td><td>0.462 8</td><td>0.528 6</td><td>0.462 8</td><td>0.998 0</td><td>0.482 6</td><td>0.694 0</td><td>U>U>U1</td><td>初级协调</td><td>经济超前型</td></tr><tr><td>2012</td><td>0.503 3</td><td>0.557 9</td><td>0.436 5</td><td>0.995 0</td><td>0.493 0</td><td>0.700 4</td><td>U>U>U3</td><td>中级协调</td><td>经济超前型</td></tr><tr><td>2013</td><td>0.460 1</td><td>0.6031</td><td>0.396 7</td><td>0.984 8</td><td>0.477 7</td><td>0.685 9</td><td>U>U>U3</td><td>初级协调</td><td>经济超前型</td></tr><tr><td>2014</td><td>0.447 4</td><td>0.612 2</td><td>0.390 4</td><td>0.982 0</td><td>0.474 0</td><td>0.682 3</td><td>U>U>U3</td><td>初级协调</td><td>经济超前型</td></tr><tr><td>2015</td><td>0.497 0</td><td>0.593 4</td><td>0.460 2</td><td>0.994 3</td><td>0.511 2</td><td>0.712 9</td><td>U>U>U3</td><td>中级协调</td><td>经济超前型</td></tr><tr><td>2016</td><td>0.552 2</td><td>0.587 5</td><td>0.580 1</td><td>0.999 6</td><td>0.574 0</td><td>0.757 5</td><td>U>U>U1</td><td>中级协调</td><td>经济超前型</td></tr><tr><td>2017</td><td>0.608 6</td><td>0.624 6</td><td>0.543 1</td><td>0.9982</td><td>0.5872</td><td>0.7659</td><td>U2>U>U3</td><td>中级协调</td><td>经济超前型</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/14d95d79430b3ed856bf6638394de3fca1241055eb88b4cafab5cc920cb8f4b1.jpg",
+        "img_caption": [
+            "图3新疆旅游产业一经济发展一生态环境耦合协调发展预测",
+            "Fig.3Forecast of coupling coordinative degree among the three systems "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于灰色预测模型，运用Python3.6进行计算求解，获得 $\\alpha \\mathcal { \\beta }$ 参数值分别为－0.00625，0.65075，并利用参数求解出微分方程并获得预测模型为$\\left( 0 . 6 5 6 + 4 0 . 0 4 6 ~ 1 5 \\right) \\mathrm { e } ^ { 0 . 0 1 6 ~ 2 5 } - 4 0 . 0 4 6 ~ 1 5 \\$ 。经过对模型的后验差检验，得到 $F = 0 . 2 0 6 , P = 0 . 9 0 0$ ，可知预测模型具有较高的精度。最后得出2018一2022年耦合协调度分别为： $0 . 7 7 2 、 0 . 7 8 4 、 0 . 7 9 7 、 0 . 8 1 0 、 0 . 8 2 4 、$ 门预测结果显示，未来五年新疆旅游产业一经济发展一生态环境耦合协调度将保持小幅度的持续上升趋势，在2021年将由原来的中级协调达到良好协调。耦合协调度虽总体上在逐步向好发展，协调程度有所提高，但是其演变速度还较为缓慢，要实现旅游产业一经济发展一生态环境的稳步优质协调发展，还需要进一步维护社会环境的稳定，针对阻碍发展的关键性因素，着力突破难点，以达到三系统的互利共赢。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文通过建立旅游产业一经济发展一生态环境评价指标体系，运用耦合协调度模型，对新疆的旅游产业一经济发展一生态环境耦合协调发展态势进行了分析。其结论如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）各子系统的综合评价指数均出现不同程度的增长，其中经济发展系统增幅最大，旅游产业与生态环境整体上有上升，但在经济以及整个社会环境的影响下均出现短期下降。这意味着经济的发展与旅游、生态之间有着相互影响、相互制约的作用，要实现三者的平衡，未来应在发展经济的同时加大生态保护投入，完善生态补偿机制，不断拓展生态保护和建设的投融资渠道，并鼓励引导企业、社会参与生态保护与建设。加强生态系统监测体系建设，并定期进行生态环境质量的评价，提高监测能力，实现发展与环保\"双赢”。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）当前，新疆旅游、经济发展和生态环境三者之间的耦合，总体上具有较高的关联度，耦合协调度在时间维度上呈现波动上升的趋势，近年来协调能力也逐步从初级协调演变到稳定的中级协调。新疆旅游和经济的持续向好发展，得益于“一带一路”的政策性发展机遇，也得益于新疆天山自然遗产的成功申遗。未来更应加大旅游产业的政府引导和政策支持，促进旅游产业多元化发展，推动“旅游 $+$ \"多种新业态旅游产品发展壮大。大力实施旅游扶贫工程，充分发挥旅游产业的带动作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）研究期间系统综合发展状态可分为生态超前型和经济超前型，其中2008一2010年为生态超前型，2011一2017年为经济超前型。经济发展速度与生态环境保护之间的平衡是决定地区发展的关键，对口援疆政策实施在总量上得到了体现，在质量上也应树立和践行“绿水青山就是金山银山\"的发展理念，绝不以牺牲环境为代价去换取一时的经济增长。应继续大力调整产业结构，控制高污染高耗能的企业，促进粗放式发展模式向集约式转变，不断提高创新能力，使得三者之间相互促进、协同发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）根据灰色模型预测结果显示，模型拟合度较高，未来五年内新疆三大系统的耦合协调度总体上呈现小幅上升的趋势，在2021年达到中级协调水平。为了实现新疆旅游产业、经济发展和生态环境三者之间耦合协调度的稳定上升，新疆应继续加大力度维护社会稳定、民族团结，依靠对口援疆政策的同时提高自身的“造血功能”；并坚持以旅游业发展作为新疆战略支柱产业和经济高质量发展的重要引擎，加强产业融合，促进全区稳步发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前学者针对旅游产业、经济发展和生态环境",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "三者之间的耦合协调研究逐步成熟起来，但针对西部干旱区的还处于探索阶段，本文借鉴相关领域的研究成果对近年来新疆旅游产业一经济发展一生态环境的耦合协调度态势进行分析并做出了预测，可以更好的了解新疆旅游、经济与生态环境之间目前的发展协调状况，并为未来制定合理的发展规划、推动国家公园的科学选定和建设给予参考。但是由于数据的有限性，对于指标的选取和空间上不同地州的横向研究还不够深入，日后有待加强",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]DURBARRY R.Tourism and economic growth:The case of Mauritius[J].Tourism Economics,2004,10(4):389-401.   \n[2]KUZNETS S.Economic growth and income inequality[J]. American Economic Review,1955,45(1):1-28.   \n[3］金春雨,吴安兵.工业经济结构、经济增长对环境污染的非线 性影响[J].中国人口·资源与环境,2017,27(10):64－73. [JIN Chunyu,WU Anbing.An empirical study on the nonlinear effects of industrial economic structure and economic growth on environmental pollution[J].China Population Resources and Environment,2017,27(10):64-73.]   \n[4］周杰文,蒋正云,赵月.生态文明视角下旅游产业集聚对环境 污染的影响—以西部地区为例[J].生态经济,2019,35(4)： 132 - 139.[ZHOU Jiewen,JIANG Zhengyun,ZHAO Yue. The impact of tourism industry agglomeration on environmental pollution from the perspective of ecological civilization: Taking the western region as an example[J].Ecological Economy,2019,35 (4):132-139.]   \n[5］安强,杨兆萍,徐晓亮,等.南疆三地州贫困与旅游资源优势空 间关联研究[J].地理科学进展,2016,35(4)：515-525.[AN Qiang,YANG Zhaoping,XU Xiaoliang,et al. Spatial correlation of poverty and tourism resources in three prefactures in South Xinjiang[J]. Progress in Geography,2016,35(4) : 515- 525.]   \n[6]杨艳,丁正山,葛军莲,等.江苏省乡村旅游信息化与区域旅游 经济耦合协调关系[J].经济地理,2018,38(11):220－225. [YANG Yan,DING Zhengshan,GE Junlian,et al. Coupling coordination between rural tourism information and regional tourism economy in Jiangsu Province [J]. Economic Geography, 2018,38(11):220-225.]   \n[7］刘丹丽,汪侠,吴小根,等.全球贫困国家旅游竞争力与经济发 展的耦合协调度及时空变化[J].地理科学进展,2018,37 (10）: 1381 - 1391.[LIU Danli,WANG Xia,WU Xiaogen,et al. Coupling coordination between tourism competitiveness and economic development in global poverty-stricken countries and spatiotemporal changes [J].Progress in Geography,2018,37 (10):1381-1391.]   \n[8］曹诗颂,王艳慧,段福洲,等.中国贫困地区生态环境脆弱性与 经济贫困的耦合关系——基于连片特困区714个贫困县的实 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "证分析[J].应用生态学报，2016,27(8)：2614-2622.［CAO Shisong，WANG Yanhui,DUAN Fuzhou,et al.Coupling between ecological vulnerability and economic poverty in contiguous destitute areas,China:Empirical analysis of 714 poverty-stricken counties[J]. Chinese Journal of Applied Ecology, 2016,27(8):2614- 2622.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9]王昭,刘建红,李同昇,等.秦巴特困区生态脆弱性与经济贫困 的耦合关系分析—以陕西省山阳县为例[J].生态学报,   \n2019,（11):1-9.[WANG Zhao,LIU Jianhong,LI Tongsheng, et al.Analysis of the coupling relationship between ecological vulnerability and economic poverty in Qinling-Dabashan contiguous poor areas:A case study of Shanyang County in Shanxi Province[J].Acta Ecologica Sinica,2019,(11):1-9.] [10］魏媛,王晓颖,吴长勇,等.喀斯特山区经济发展与生态环境耦 合协调性评价—以贵州省为例[J].生态经济,2018,34 （10）:69- 75.[WEI Yuan,WANG Xiaoying,WU Changyong, et al.Assessment on the dynamic coupled coordination of economic and ecological environment system: A case study of Guizhou[J].Ecological Economy,2018,34(10):69-75.] [11］冯霞,刘新平.江苏省城镇化与生态环境系统耦合协同发展的 路径选择[J].干旱区地理,2016,39(2):420－427.[FENG Xia,LIU Xinping. Path selecting on coordinated and coupling development of urbanization and eco-environment system in Jiangsu Province[J]. Arid Land Geography,2016,39(2） :420 -   \n427.] [12］雷军,李建刚,段祖亮,等.喀什城市圈城镇化与生态环境交互 胁迫效应研究综述[J].干旱区地理，2018,41(6)：1358-   \n1366.[LEI Jun,LI Jiangang,DUAN Zuliang,et al. Research review on reciprocal coercing effect between urbanization and eco-environment in Kashgar metropolitan,Xinjiang,China[J]. Arid Land Geography,2018,41(6):1358-1366.] [13］丛小丽,黄悦,刘继生.吉林省生态旅游与旅游环境耦合协调 度的时空演化研究[J].地理科学,2019,39(3)：496－ 505. [CONG Xiaoli,HUANG Yue,LIU Jisheng. Spatial and temporal evolution of coupled coordination degree of ecotourism and tourism environment of Jilin Province［J]. Scientia Geographica Sinica,2019,39(3):496-505.] [14］贾巨才,孔伟,任亮.京津冀协同发展背景下冀西北地区旅游 经济与生态环境协调发展研究[J]．中国农业资源与区划,   \n2019,40(2）: 167- 173.[JIA Jucai,KONG Wei,REN Liang. Research on coordinated development of tourism economy and ecological environment in the northest of Hebei Province under the backgound of coordinated development of Beijing-Tianjin-Hebei[J]. Chinese Journal of Agricultural Resources and Regional Planning,2019,40(2):167-173.] [15］杨莎莎,秦艳辉,邓闻静,等.中国十大城市群旅游经济与生态 环境耦合关系的比较[J].统计与决策,2017,(22):131－134. [YANG Shasha,QIN Yanhui,DENG Wenjing,et al. Comparison on coupling relationship between tourist economy and ecological environment in China's ten major urban agglomerations [J].Statistics & Decision,2017,(22):131-134.] [16］张广海 刘直直王新越 中国沿海区域旅游化与生太环培耦 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "合度分析及预测[J].生态环境学报，2013，22(5)：792－800. [ZHANG Guanghai,LIU Zhenzhen,WANG Xinyue.Analysis and forecast of coupling degree between tourism-oriented development and eco-environment in coastal region of China［J]. Ecology and Environmental Sciences,2013,22(5):792-800.]   \n[17］周成,金川,赵彪,等.区域经济一生态一旅游耦合协调发展省 际空间差异研究[J].干旱区资源与环境，2016,30(7)：203- 208.［ZHOU Cheng,JIN Chuan,ZHAO Bin,et al. The provincial difference of coupling coordinative development of regional economy-ecology-tourism[J]. Journal of Arid Land Resources and Environment,2016,30(7):203-208.]   \n[18］李悦铮,徐凯,王凯.山东省旅游一经济—环境耦合协调分析 [J].地域研究与开发,2016,35(4):99－103.[LI Yuezheng, XU Kai,WANG Kai. Analysis of tourism-economy-environment coupling and coordination in Shandong Province［J].Areal Research and Development,2016,35(4):99-103.]   \n[19］王维.长江经济带旅游一经济一生态环境协调发展评价及其 影响因素研究[J].首都师范大学学报（自然科学版),2018,39 (5）:81-88.[WANG Wei. Study on evaluation and its influencing factors of tourism-economic-ecological environment coordinated development in the Yangtze River Economic Zone ［J]. Journal of Capital Normal University(Natural Science Edition）, 2018,39(5):81-88.]   \n[20］马勇,李丽霞,任洁.神农架林区旅游经济一交通状况一生态 环境协调发展研究[J].经济地理，2017,37(10)：215－220. [MA Yong,LI Lixia,REN Jie.Coordination development research among the tourism economy-traffic condition-ecological environment in Shengnongjia forest district[J]. Economic Geography,2017,37(10):215-220.]   \n[21］张秀改,赵媛,朱敬敬.丝绸之路经济带中国段旅游资源与旅 游发展耦合研究[J].干旱区地理,2018,41(1)：170－177. [ZHANG Xiugai,ZHAO Yuan,ZHU Jingjing. Coupling coordination between tourism resources and tourism development in the Chinese section of the Silk Road Economic Belt[J].Arid Land Geography,2018,41(1):170-177.]   \n[22］王成,唐宁.重庆市乡村三生空间功能耦合协调的时空特征与 格局演化[J].地理研究,2018,37(6)：1100-1114.［WANG Cheng,TANG Ning.Spatio-temporal characteristics and evolution of rural productionliving-ecological space function coupling coordination in Chongqing Municipality [J].Geography Re",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "search,2018,37(6):1100-1114.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23］韩文艳,陈兴鹏,庞家幸,等.城镇化一生态环境—旅游产业耦合协调发展研究—以丝绸之路经济带9省(区、市)为例[J].兰州大学学报（自然科学版),2018,54(6):762－769.[HANWenyan,CHEN Xingpeng,PANG Jiaxing,et al. Coupling coor-dination development amidst the urbanization-ecological envi-ronment-tourism industry:Taking nine provinces and cities onthe Silk Road Economic Belt as an example[J]. Journal of Lan-zhou University(Natural Sciences）,2018,54(6):762-769.]  \n[24］张玉萍,瓦哈甫·哈力克,党建华,等.吐鲁番旅游一经济一生态环境耦合协调发展分析[J].人文地理,2014,29(4)：140-145.［ZHANG Yuping,HALIK Wahap,DANG Jianhua,et al.Coupled coordination degree of tourism-economy-ecological sys-tem in Turpan area[J]. Human Geography,2014,29(4） : 140 -145.]  \n[25］姜磊,柏玲,吴玉鸣.中国省域经济、资源与环境协调分析一兼论三系统耦合公式及其扩展形式[J].自然资源学报，2017，32（5）: 788- 799.[JIANG Lei,BAI Ling,WU Yuming. Cou-pling and coordinating degrees of provincial economy,resourcesand environment in China［J]. Journal of Natural Resources,2017,32(5):788- 799.]  \n[26］钟霞，刘毅华.广东省旅游—经济一生态环境耦合协调发展分析[J].热带地理,2012,32(5):568－574.[ZHONG Xia,LIUYihua. Coupled coordination degree of tourism-economy-ecolog-ical system in Guangdong Province［J].Tropical Geography,2012,32(5):568-574.]  \n[27］廖重斌.环境与经济协调发展的定量评判及其分类体系-以珠江三角洲城市群为例[J].热带地理,1999,(2):76 －82.[LIAO Chongbin. Quantitative judgement and classification sys-tem for coordinated development of environment and economy:A case study of the city group in the Pearl River Delta[J].Tropi-cal Geography,1999,(2):76-82.]  \n[28］周成,冯学钢,唐睿.区域经济一生态环境一旅游产业耦合协调发展分析与预测——以长江经济带沿线各省市为例[J].经济地理,2016,36(3）:186-193.[ZHOU Cheng,FENG Xue-gang,TANG Rui. Analysis and forecast of coupling coordinationdevelopment among the regional economy-ecological environ-ment-tourism industry :A case study of provinces along the Yang-tze Economic Zone[J]. Economic Geography,2016,36（3）：186-193.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Analysis and forecast of coupling situation among tourism industry-economic development-ecological environment in Xinjiang ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Hu-lan'²，YANG Zhao-ping'，HAN Fang'， SHI Hui'，WANG Cui-rong'，GUO Jiao-jiao1.2(1StateKeyLaboratoryofDesertandOasisEcology,XinjiangInstituteofEcologyandGeography,ChineseAcademyofSciences，Urumqi830011,Xinjiang,China；2UniversityofChineseAcademy ofSciences,Beijingl00049,China）",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:As one of the national strategic industries,tourism plays a vital role in supporting the development of related industries,creating employment opportunities,increasing tax revenue,and promoting the overaleconomic development.Tourism and economic development rely heavilyon the ecological environment;however, rapid development tends to negatively affect the environment.Therefore,dealing with the relationship between the three is key to achieving sustainable development.Based on existing research,this paper selects 3O corresponding indicators to establish a tourism industry-economic development-ecological environment evaluation index composed of seven criteria,including the tourism market scale,economic benefits to tourism,tourism industry level,economic scale,economic structure characteristics,environmental polltion status,and environmental governance outcomes.This study also uses the entropy method to standardize the data and further calculate the weights ofthe indicators of the three systems.As abasis forconstructing this evaluation index,this paper uses the coupling coordination model to conduct a comprehensive empirical study of the coupling coordination development of the tourism industry,economic development,and the natural environment in Xinjiang,China from 2008 to 2017.Subsequently,this study predicts the coupling coordination degree of the three systems for the next five years using a GM(1,1） forecasting model.The research demonstrates that the comprehensive evaluation index of the three systems all increase at different degrees.Among these,the economic development system increases the most.Although the tourism industry and ecological environment increase overall,they all decline in the short term under the influence of the economy and the overallsocial environment.The effect of development on the three sectors of the tourism industry,economic development,and the ecological environment in Xinjiang from 2008 to 2017 can be divided into two types.The comprehensive evaluation index of the natural environment from 2008 to 2010 was higher than that of the tourism industry and economic development,which is ecologically advanced.From 2011 to 2017,the comprehensive evaluation index of economic development was higher than that of the tourism industry and ecological environment. There is a high degree of correlation among the three systems. Over time,the coupling coordination degree shows a trend of rising volatility. Concerning coordination, overall coordination gradually evolves from primary coordination to intermediate coordination.The GM $( 1 , 1 )$ （204 forecasting model displayed a high degree of fiting.Inthe next few years,the coupling coordination degree of the three major systems in Xinjiang willslightly increase and reach a good coordination level in 2021. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:coupling coordination model;tourism industry;economic development;ecological environment; Xinjiang ",
+        "page_idx": 8
+    }
+]

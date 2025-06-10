@@ -1,0 +1,481 @@
+[
+    {
+        "type": "text",
+        "text": "基于数据密度的半监督自训练分类算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "艾震鹏，王振友",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(广东工业大学应用数学学院，广州 510520)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在实际的分类任务中，无标记样本数量充足而有标记样本数量稀少的情况经常出现，目前处理这种情况的常用方法是半监督自训练分类算法。提出了一种基于数据密度的半监督自训练分类算法，该算法首先依据数据的密度对数据集进行划分，从而确定数据的空间结构；然后再按照数据的空间结构对分类器进行自训练的迭代，最终得到一个新的分类器。在UCI中6个数据集上的实验结果表明，与三种监督学习算法以及其分别对应的自训练版本相比，提出的算法分类效果更好。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：半监督学习；自训练；密度；分类 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2017.12.0753 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Self-training semi-supervised classification based on density of data ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ai Zhenpeng,Wang Zhenyou (Department ofApplied Mathematicslege Guangdong University of Technology,Guangzhou 510520,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: It isacommon problemin many practicalapplications thatunlabeled samples issuffcientbutlabeledones is very rare.Asucefulmethodtockle tisproblemisself-trainingsemsuperisedclasicatio.Intispaper,elf-aigsemisupervisedclassificationmethodisintroduced,inwhichentiredataisdividedintothreepartsbasedondensityofdata,sothat thereal structureofdata spacecouldbefound.Andthen,aframeworkforself-trainingsemi-supervisedclasification,in which thestructureofdataspaceisintegrated intotheself-training iterativeprocess tohelptrainabeterclasifier,is proposed. Experimentson6data sets from UCIshowthatthe classifierget fromthe method proposed haveabeterperformance than the ones get from supervised method with few labeled samples and standard self-training semi-supervised clasification method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:semi-supervised;self-training;density;classification ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在数据挖掘和机器学习中，监督学习是一个活跃的研究领域，到目前为止，已经被广泛应用于异常检测，生物医学，人脸识别和文本分类等诸多地方 $[ 1 ^ { - } 4 ]$ 。监督学习依赖于利用充足的有标记样本训练出一个优秀的分类器，再利用该分类器来完成分类任务。然而在实际应用中，获得充足的有标记样本本身就是一件困难的事情，与此相反，获得大量的无标记样本则会相对容易很多。而监督学习在只有少量的有标记样本时往往不能训练出一个性能良好的分类器，并且因为没有对大量的无标记样本加以利用，造成了极大的浪费。半监督学习的目的就是要使用无标记样本来提升监督学习算法的性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，有许多半监督学习的方法被提出。这些方法大多基于数据的聚类假设和流形假设。例如Joachims提出的TSVM算法[5]就是基于聚类假设。而Zhu等人提出的基于图的半监督学习[则是利用了流形假设。还有一类半监督学习的方法是自标记的方法，即自训练和协同训练。其中自训练方法首先利用初始的有标记样本训练出一个分类器，然后利用该分类器对无标记样本进行打标记，并选择置信度高的被打上标记的样本加入到有标记样本集中，不断迭代，直到达到停止条件，以这样的方式来扩大有标记样本的容量，例如Yarowsky的文章中提到的自训练算法[7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而，当初始有标记样本不能够体现整个数据的空间结构，或者有标记样本数量过少时，自训练算法的效果很不理想。因为最初始的分类器对无标记样本的分类效果并不好，那么之后的打标记过程就相当于引入了噪声，在这样的情况下，自训练算法可能会比单纯地使用有标记样本进行监督学习的效果更差，Adankon和Cheriet提出了一种叫help-training的自训练算法[8],使用生成式模型来训练分类器，但这个方法依然没有解决自训练的问题，因为生成式的模型仅仅是依靠有标记样本得到的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gan 等人引入了模糊K-means来优化自训练算法[9]，并取得了较好的效果，但是对于非高斯分布的数据，分类效果并不理想。在本文中，本文提出了一种基于数据密度的自训练分类算法，算法首先使用基于密度的方法确定整个数据集的真实空间结构，然后按照数据的空间结构迭代地对分类器进行训练。本文提出的算法有以下两点优势：a)对非高斯分布的数据依然有较好的分类效果。值得一提的是，在实际应用中，数据许多情况下并不是高斯分布;b)可以使用任意监督学习的算法作为分类器，充分发挥不同监督学习算法的优势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 数据空间结构的确定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在处理无标记数据时，聚类是一种能够发现数据空间结构的重要方法。聚类算法有很多，比如 $\\mathbf { k }$ -means就是一个易于实现并在多数情况下效果良好的算法，但 $\\mathbf { k }$ -means 的缺点在于处理非高斯分布的数据时效果不佳。而DBSCAN是一个比较有代表性的基于密度的聚类算法[10]，较 $\\mathbf { k }$ -means 的优势在于它将簇定义为密度相连的点的最大集合，能够把具有足够高密度的区域划分为簇，并可在有噪声的数据空间中发现任意空间结构的聚类。本文对数据空间结构的确定方法就是基于这样的想法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1基于数据密度的空间结构确定方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本文中，设 $L = \\{ ( x _ { i } , y _ { i } ) \\}$ 是有标记样本集，其中 $x _ { i }$ 是训练样本， $y _ { i }$ 是它的标记， $y _ { i } \\in \\{ \\omega _ { 1 } , \\omega _ { 2 } , \\cdots , \\omega _ { s } \\}$ ， $i = 1 , 2 , \\cdots , n$ ， $s$ 是类别数。 $U = \\{ x _ { n + 1 } , x _ { n + 2 } , \\cdots , x _ { m } \\}$ 是无标记样本集。则样本点 $x _ { i }$ 的密度定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { i } = \\sum _ { j } \\delta ( d _ { i j } - d _ { c } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta ( x ) = { \\left\\{ \\begin{array} { l l } { 1 , x < 0 } \\\\ { 0 , x \\geq 0 } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$d _ { i j }$ 表示 $x _ { i }$ 到 $\\boldsymbol { x } _ { j }$ 的距离， $\\boldsymbol { d } _ { c }$ 被称为截断距离，是一个与数据集本身有关的常数。显然， $\\rho _ { i }$ 的值等于到 $x _ { i }$ 距离小于 $d _ { c }$ 的点的个数。取密度阈值为 $\\rho _ { \\mathrm { 0 } }$ ，对于 $x _ { i }$ 来说，若 $\\rho _ { i }$ 大于 $\\rho _ { \\mathrm { 0 } }$ ，则 $x _ { i }$ 就被称为核心点。若 $\\rho _ { i }$ 小于 $\\rho _ { \\mathrm { 0 } }$ ，且 $x _ { i }$ 的 $d _ { c }$ 领域内有核心点，则 $x _ { i }$ 就被称为边界点，若 $x _ { i }$ 既不是核心点又不是边界点，那么$x _ { i }$ 就叫做噪声点。通过将数据集中的每一个样本点标注为核心点、边界点或噪声点，那么不论该数据是高斯分布还是其他分布，本文都能够发现数据真实的空间结构。在图1中，A、B两类总共 40个样本点 $\\{ x _ { 1 } , x _ { 2 } , \\cdots , x _ { 4 0 } \\}$ 按照如下分布分别随机产生：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A类： $\\{ ( a , b ) \\vert a \\sim N ( 3 . 5 , 0 . 5 ) , b \\sim U ( 1 , 9 ) \\} , i = 1 , 2 , \\cdots , 2 0$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B类： $\\{ ( a , b ) \\vert a \\sim N ( 6 . 5 , 0 . 5 ) , b \\sim U ( 1 , 9 ) \\} , i = 2 1 , 2 2 , \\cdots , 4 0$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $N ( \\mu , \\sigma ^ { 2 } )$ 是以 $\\mu$ 为均值， $\\sigma ^ { 2 }$ 为方差的高斯分布，$U ( a , b )$ 是从 $a$ 到 $b$ 的均匀分布。接下来利用式(1)，首先可以算出每个点的密度值 $\\rho _ { i }$ ，然后按照上述方法将样本点分为核心点，边界点和噪声点，最后如图2所示，得到了数据的真实空间结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/811b4ba115db00707c4b73fa474e25f02d671e330c3cb0b07bc64a6a27f3b8e2.jpg",
+        "img_caption": [
+            "图1样本点分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/13159138a58fb663dfa15f8f1ff88a15e1e272b941db1421517468364b771571.jpg",
+        "img_caption": [
+            "图2整个数据集的真实空间结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2参数 $d _ { c }$ 和 $\\rho _ { \\mathrm { 0 } }$ 的选取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据文献[11]中的结论， $d _ { c }$ 的取值要使得所有样本点的平均邻居个数在样本总数的 $1 \\%$ 到 $2 \\%$ 范围内。具体选取方式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先计算出所有的 $d _ { i j }$ ，然后将 $d _ { i j }$ 1 $( i < j )$ 按照升序排列，得到序列 $d _ { 1 } , d _ { 2 } , \\cdots , d _ { M }$ ，其中 $d _ { 1 } < d _ { 2 } < \\cdots < d _ { M }$ ， $M = \\frac { 1 } { 2 } N ( N - 1 )$ ，$N$ 是样本点数目，最后令",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { c } = d _ { f ( M t ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$t \\in ( 0 , 1 )$ ,用于将 $d _ { c }$ 控制在合适的范围内， $f ( M t )$ 表示对 $M t$ 的乘积进行四舍五入取整。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而 $\\rho _ { \\mathrm { 0 } }$ 的选取则以核心点能够描述出数据的整体空间结构为目标，局部更为细微的结构则由依赖于核心点和 $d _ { c }$ 的边界点来完成。 $\\rho _ { \\mathrm { 0 } }$ 的具体选取方式与 $d _ { c }$ 类似：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先计算出所有的 $\\rho _ { i }$ ，并将 $\\rho _ { i }$ 按照升序排列，得到$\\rho _ { 1 } , \\rho _ { 2 } , \\cdots , \\rho _ { { } _ { N } }$ ，然后令",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { \\scriptscriptstyle 0 } = \\rho _ { \\scriptscriptstyle g ( N h ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与式(2)相似， $g ( N h )$ 表示对 $N h$ 的乘积四舍五入取整，而$h \\in ( 0 , 1 )$ 用于将 $\\rho _ { \\mathrm { 0 } }$ 控制在合适范围内。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如前文所述，不论数据是高斯分布还是其他形状的分布类型，只需通过式 $\\textcircled{2} \\textcircled{3}$ 取到合适的阈值 $\\rho _ { \\mathrm { 0 } }$ 和 $d _ { c }$ ，并利用式 $\\textcircled{1}$ 计算每个样本点 $x _ { i }$ 的密度 $\\rho _ { i }$ ，就可以将数据分为核心点，边界点和噪声点，进而得到数据的空间结构，而没有迭代的过程，因此计算速度很快，非常适合用在自训练算法中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 基于数据空间结构的自训练算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在本文的这个部分将会给出一个半监督自训练的具体方法，在该方法中，数据集的真实空间结构将会在迭代训练分类器时被考虑进去。具体步骤描述如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)通过将所有样本点分类为核心点，边界点和噪声点，得到数据集的真实空间结构",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)利用初始有标记集 $L$ 训练得到一个分类器 $c$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)利用分类器 $c$ 对 $U$ 中所有核心点迭代地打标记，同时更新 $L$ 和 $U$ ，并再次利用 $L$ 训练 $c$ ，直到 $U$ 中所有核心点都被打上标记",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)与c)类似，利用分类器 $c$ 对 $U$ 中所有边界点迭代地打标记，同时更新 $L$ 和 $U$ ，并再次利用 $L$ 训练 $c$ ，直到 $U$ 中所有边界点都被打上标记。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "类器 $c$ 的流程图。算法伪代码如下：输入：有标记样本集 $L$ ，无标记样本集 $U$ ，参数 $\\rho _ { \\mathrm { 0 } }$ ， $\\boldsymbol { d } _ { c }$ 。输出：分类器 $C$ 。for $T _ { R } = L \\cup U$ 中的每个点 $x _ { i }$ DO",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用式（1）计算 $\\rho _ { i }$ if $\\rho _ { i } > \\rho _ { 0 }$ then",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将 $x _ { i }$ 标记为核心点 else if $\\rho _ { i } < \\rho _ { 0 }$ and 邻域 $\\delta ( x _ { i } , d _ { c } )$ 中有核心点then ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b6f610e04dcaa6c4216006a3c66f18fc3f8e1f2bbdbe75f0c8bafb9b1078787.jpg",
+        "img_caption": [
+            "图3确定数据空间结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将 $x _ { i }$ 标记为边界点",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "do else ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f75ed4e59920f17312613b36cf9a67aa320d1d94905e494e4ec1533564bb73c.jpg",
+        "img_caption": [
+            "图4自训练过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将 $x _ { i }$ 标记为噪声点",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图3是算法a)步中确定数据空间结构的流程图，图4是b)步 ${ \\bf \\ddot { \\Pi } } \\sim \\bf d _ { \\tau } ^ { \\mathrm { v } } ,$ 步中对 $U$ 中核心点和边界点迭代打标记，并得到最终分",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用 $L$ 训练得到分类器 $C$ while $U$ 中有核心点 DO",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取核心点 $x _ { c } \\in U$ ，分类器 $C$ 对 $x _ { c }$ 打标记后得到新的有 标记样本${ x _ { c } } ^ { \\prime }$ ；更新 $L = L \\cup x _ { c } ^ { ' }$ ， $U = U \\mathrm { ~ / ~ } x _ { c }$ ，并用 $L$ 训练分类器 $C$ （204号while $U$ 中有边界点 do",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取边界点 $x _ { b } \\in U$ ，分类器 $C$ 对 $x _ { b }$ 打标记后得到新的有标记样本${ x _ { b } } ^ { \\prime }$ ；更新 $L = L \\cup x _ { b } ^ { ' } , U = U / x _ { b }$ ，并用 $L$ 训练分类器 $C$ （20return 分类器 $C$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在本章中，将基于数据密度的自训练算法与三种监督学习算法以及它们分别对应的标准自训练算法进行比较，并对得到的实验结果进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 实验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1实验数据 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在实验中，使用了六个真实数据集来测试算法的表现，这些数据集全部来自于UCI，表1中是这些数据集的详细信息。在实验中，本文首先将每一个数据集随机划分为两部分，第一部分占总样本数的 $2 5 \\%$ ，作为测试集 $T$ 。剩下 $7 5 \\%$ 作为训练集。然后再将训练集随机分为两部分，其中 $10 \\%$ 保留标记，作为有标记样本集 $L$ ， $90 \\%$ 去掉标记，作为无标记样本集 $U$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc4a2653dc2022d00516003865e5e0c95abc6c655ed49d1de722d29d90ef0832.jpg",
+        "table_caption": [
+            "表1数据集信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据名称</td><td>样本数目</td><td>属性数目</td><td>类别数目</td></tr><tr><td>iris</td><td>150</td><td>4</td><td>3</td></tr><tr><td>banknote</td><td>1372</td><td>4</td><td>2</td></tr><tr><td>seeds</td><td>210</td><td>7</td><td>3</td></tr><tr><td>haberman</td><td>306</td><td>3</td><td>2</td></tr><tr><td>pima</td><td>768</td><td>8</td><td>2</td></tr><tr><td>wine</td><td>178</td><td>13</td><td>3</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2参数设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择了最近邻算法(KNN)、支持向量机(SVM)、单层神经网络(SLNN)以及它们分别对应的标准自训练算法与本文提出的基于数据密度的自训练算法进行对比，这些算法的参数信息展示在表2中。表3中的是将数据标准化处理以后，不同数据集$\\rho _ { \\mathrm { 0 } }$ 和 $d _ { c }$ 的选取情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce54937551d1380a5055d9f5c9bb1b7ff321ca17170a1dcda2f21c2b056b9a18.jpg",
+        "table_caption": [
+            "表2算法相关参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法名称</td><td>记号</td><td>参数</td></tr><tr><td>最近邻算法</td><td>KNN</td><td>最近邻数K=5</td></tr><tr><td>支持向量机</td><td>SVM</td><td></td></tr><tr><td rowspan=\"3\">单层神经网络</td><td></td><td>隐藏层神经元数目64，最</td></tr><tr><td>SLNN</td><td>大迭代数2000，学习率</td></tr><tr><td></td><td>0.005</td></tr><tr><td>标准自训练算法</td><td>ST</td><td></td></tr><tr><td>改进的自训练算法</td><td>OST</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1451b59e5726a9931efa1c353ffe99f5161af85770d8ca5745663c90f3f63c33.jpg",
+        "table_caption": [
+            "表3 $\\rho _ { \\mathrm { 0 } }$ 和 $d _ { c }$ 选取情况"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据名称</td><td>P</td><td>d</td></tr><tr><td>iris</td><td>3</td><td>0.3877</td></tr><tr><td>banknote</td><td>20</td><td>0.4895</td></tr><tr><td>seeds</td><td>4</td><td>0.7842</td></tr><tr><td>haberman</td><td>6</td><td>3.0000</td></tr><tr><td>pima</td><td>8</td><td>1.3339</td></tr><tr><td>wine</td><td>2</td><td>1.9763</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4-6中是50次实验结果的平均正确率和方差，每一次实验都重新随机抽样得到 $T$ 、 $L$ 和 $U$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d7fe6ef2e3efe02f5ebc4f423534d8dfe8c426d393f250267bfba69f6aba1f5c.jpg",
+        "table_caption": [
+            "表4基于KNN 的实验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据集</td><td colspan=\"3\">算法</td></tr><tr><td>KNN</td><td>ST-KNN</td><td>OST-KNN</td></tr><tr><td>iris</td><td>0.701/0.053</td><td>0.726/0.077</td><td>0.743/0.036</td></tr><tr><td>banknote</td><td>0.954/0.014</td><td>0.970/0.016</td><td>0.979/0.009</td></tr><tr><td>seeds</td><td>0.870/0.041</td><td>0.899/0.060</td><td>0.905/0.025</td></tr><tr><td>haberman</td><td>0.712/0.062</td><td>0.717/0.085</td><td>0.738/0.040</td></tr><tr><td>pima</td><td>0.665/0.047</td><td>0.689/0.066</td><td>0.710/0.031</td></tr><tr><td>wine</td><td>0.913/0.068</td><td>0.957/0.104</td><td>0.969/0.047</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/13792414bbb1b5131bce197d6781e2fb600601340a3b4ca7bf76bd44646d1078.jpg",
+        "table_caption": [
+            "表5基于SVM的实验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据集</td><td colspan=\"3\">算法</td></tr><tr><td>SVM</td><td>ST-SVM</td><td>OST-SVM</td></tr><tr><td>iris</td><td>0.734/0.042</td><td>0.744/0.054</td><td>0.753/0.028</td></tr><tr><td>banknote</td><td>0.972/0.009</td><td>0.988/0.018</td><td>0.979/0.006</td></tr><tr><td>seeds</td><td>0.913/0.037</td><td>0.920/0.051</td><td>0.914/0.019</td></tr><tr><td>haberman</td><td>0.720/0.051</td><td>0.747/0.076</td><td>0.758/0.038</td></tr><tr><td>pima</td><td>0.691/0.039</td><td>0.702/0.042</td><td>0.720/0.025</td></tr><tr><td>wine</td><td>0.966/0.041</td><td>0.969/0.042</td><td>0.979/0.027</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/48d8cae11b525eb86f2bf28c155ec232d7d10c05cddc17a2885d55d385d4c7a0.jpg",
+        "table_caption": [
+            "表6基于SLNN 的实验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据集</td><td colspan=\"3\">算法</td></tr><tr><td>SLNN</td><td>ST-SLNN</td><td>OST-SLNN</td></tr><tr><td>iris</td><td>0.701/0.055</td><td>0.727/0.064</td><td>0.736/0.039</td></tr><tr><td>banknote</td><td>0.979/0.008</td><td>0.981/0.016</td><td>0.988/0.006</td></tr><tr><td>seeds</td><td>0.886/0.041</td><td>0.908/0.068</td><td>0.914/0.030</td></tr><tr><td>haberman</td><td>0.694/0.131</td><td>0.682/0.133</td><td>0.733/0.062</td></tr><tr><td>pima</td><td>0.683/0.045</td><td>0.710/0.062</td><td>0.712/0.033</td></tr><tr><td>wine</td><td>0.945/0.048</td><td>0.960/0.060</td><td>0.979/0.034</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过表4\\~6的结果可知，提出的半监督自训练算法在所选取六个样本集上，无论是从正确率还是从稳定性来说，全部优于仅仅使用有标记样本的监督学习算法，而在大多数样本上的表现比标准的半监督自训练算法要好，且明显更稳定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种基于数据密度的半监督自训练分类算法，算法利用密度和距离将数据集划分成三类，进而确定数据的空间结构，然后按照数据的空间结构对分类器进行自训练的迭代，最终得到一个新的分类器。在本文中，选择了UCI上的6个真实数据集进行实验，并以三种常用的监督学习算法所得到的分类器为基础来进行自训练。实验结果表明，通过本文提出的算法得到的分类器，在分类效果上总体优于仅仅使用有标记样本进行监督学习和使用传统自训练算法得到的分类器。在今后，将进一步对距离参数 $d _ { c }$ 和密度参数 $\\rho _ { \\mathrm { 0 } }$ 的自适应取值方法进行研究，避免需要多次的实验来人为确定这两个参数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Ashfaq RAR,Wang Xizhao,Huang Joshua Zhexue,et al.Fuzziness based semi-supervised learning approach for intrusion detection system [J]. Information Sciences,2017,378(C): 484-497.   \n[2]Xu Guangru, Zhang Minghui, Zhu Hongxing,et al.A15-gene signature for prediction of colon cancer recurrence and prognosis based on SVM[J]. Gene, 2017,604:33-40.   \n[3]Vijayan A,Kareem S,Kizhakkethottam JJ,et al.Face recognition across gender transformation using SVMclassifier[J].Procedia Technology,2016, 24:1366-1373.   \n[4]Pavlinek M,Podgorelec V.Text classification method based on self-training and LDA topic models [J].Expert Systems with Applications,2017,80: 83- 93.   \n[5]Joachims T. Transductive inference for text classification using support vector machines [C]//Proc ofthe l6th International Conference on Machine Learning.1999:200-209.   \n[6] Zhou D,Bousquet O,Lal T N,et al.Learning with local and global consistencyAdvancesinNeuralInformation Processing Systems. Cambridge:MITPress,2004:321-328.   \n[7]Yarowsky D. Unsupervised word sense disambiguation rivaling supervised methods [C]//Proc of the 33rd Annual Meeting of the Association for Computational Linguistics.1995:189-196.   \n[8]Adankon MM, Cheriet M.Help-training for semi-supervised support vector Machines [J].Pattern Recognit,2011,44(9): 2220-2230.   \n[9]Gan Haitao,Sang Nong,Huang Rui,et al.Using clustering analysis to improve semi-supervised classification [J].Neurocomputing,2013,101: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "290-298. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[10] Kumar K M,Reddy A R M.A fast DBSCAN clustering algorithm by accelerating neighbor searching using Groups method [J].Pattern Recognition,2016,58:39-48.   \n[11]Rodriguez A,Laio A. Clustering by fast search and find of density peaks [J]. Science,2014,344(6191):1492-1496. ",
+        "page_idx": 4
+    }
+]

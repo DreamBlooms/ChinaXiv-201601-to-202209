@@ -1,0 +1,354 @@
+[
+    {
+        "type": "text",
+        "text": "Relative phase between strong and electromagnetic amplitudes in $\\psi ( 2 S )  0 ^ { - } 0 ^ { - }$ decays ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. Z. Yuan a $^ *$ , P.Wang a, X. H. Mo $^ { \\mathbf { a } , \\mathbf { b } }$ aInstitute of High Energy Physics,P.O.Box 918,Beijing 100039, China $^ \\mathrm { b }$ China Center of Advanced Science and Technology, Beijing 10oo80, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the known branching ratios of $\\psi ( 2 S )  \\pi ^ { + } \\pi ^ { - }$ and $\\psi ( 2 S )  K ^ { + } K ^ { - }$ ,the branching ratio of $\\psi ( 2 S ) $ $K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ is calculated as a function of the relative phase between the strong and the electromagnetic amplitudes of the $\\psi ( 2 S )$ decays. The study shows_that the branching ratio of $\\psi ( 2 S ) \\to K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ is sensitive to the relative phase and a measurement of the $K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ branching ratio will shed light on the relative phase determination in $\\psi ( 2 S )  0 ^ { - } 0 ^ { - }$ decays. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The relative phase between the strong and the electromagnetic amplitudes of the charmonium decays is a basic parameter in understanding the decay dynamics. Studies have been carried out for many $J / \\psi$ two-body decay modes: $1 ^ { - } 0 ^ { - }$ [1,2], $0 ^ { - } 0 ^ { - }$ [3,4], $1 ^ { - } 1 ^ { - }$ [4]and $N \\overline { { N } }$ [5].These analyses revealed that there exists a relative orthogonal phase between the strong and the electromagnetic amplitudes in $J / \\psi$ decays [1-6]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As to $\\psi ( 2 S )$ ,it has been argued [6] that the only large energy scale involved in the three-gluon decay of charmonia is the charm quark mass,one expects that the corresponding phase should not be much different between $J / \\psi$ and $\\psi ( 2 S )$ decays. There is also a theoretical argument which favors the $\\pm 9 0 ^ { \\circ }$ phase [7]. This large phase follows from the orthogonality of the three-gluon and one-photon virtual processes.But an extensively quoted work [6] found that a fit to $\\psi ( 2 S )  1 ^ { - } 0 ^ { - }$ with a large phase $\\pm 9 0 ^ { \\circ }$ is virtually impossible and concluded that the relative phase between the strong and the electromagnetic amplitudes should be around 180 degreet. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However,it is pointed out in Ref.[8] that the contribution of the continuum process via virtual photon was neglected in almost all data analyses in $e ^ { + } e ^ { - }$ experiments.By including the contribution of the continuum process, $\\psi ( 2 S )  1 ^ { - } 0 ^ { - }$ decays have been reanalyzed and it is found [9] that the phase of $- 9 0 ^ { \\circ }$ can not be ruled out.Unfortunately the current experimental information on $\\psi ( 2 S )  1 ^ { - } 0 ^ { - }$ decays are not precise enough to determine the phase. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For the time being the experimental information for $\\psi ( 2 S )$ decays islessabundant than that for $J / \\psi$ . Among the other modes used in $J / \\psi$ decays to measure the relative phase,the only mode with experimental data in $\\psi ( 2 S )$ decays is the $\\psi ( 2 S )  0 ^ { - } 0 ^ { - }$ (i.e.pseudoscalar meson pairs), including $\\psi ( 2 S )  \\pi ^ { + } \\pi ^ { - }$ and $\\psi ( 2 S )  K ^ { + } K ^ { - }$ But this is not enough to extract the phase between the strong and the electromagnetic amplitudes,since there are three free parameters, namely,the absolute values of the strong and the electromagnetic amplitudes,and the relative phase between them.Another $0 ^ { - } 0 ^ { - }$ decay channel $\\psi ( 2 S ) \\to K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ is thus needed to determine all these three parameters. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this letter,the existing experimental data on $\\psi ( 2 S )$ decays to $\\pi ^ { + } \\pi ^ { - }$ and $K ^ { + } K ^ { - }$ are used as inputs to calculate the branching ratio of $\\psi ( 2 S ) $ $K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ as a function of the relative phase. Once ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$B ( \\psi ( 2 S )  K _ { S } ^ { 0 } K _ { L } ^ { 0 } )$ is known, the relative phase between the strong and the electromagnetic amplitudes in $\\psi ( 2 S )  0 ^ { - } 0 ^ { - }$ decays could be determined based on the calculation in this letter. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Theoretical framework ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In $\\psi ( 2 S ) \\ :  \\ : 0 ^ { - } 0 ^ { - }$ decays, $\\pi ^ { + } \\pi ^ { - }$ is through electromagnetic process, $K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ through SU(3) breaking strong process，and $K ^ { + } K ^ { - }$ through both.As has been observed in $J / \\psi \\to K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ [10], the SU(3) breaking strong decay amplitude is not small. Following the convention in Ref.[4], the $\\psi ( 2 S ) \\quad \\to \\quad 0 ^ { - } 0 ^ { - }$ decay amplitudes are parametrized as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l c l } { { A _ { \\pi ^ { + } \\pi ^ { - } } } } & { { = } } & { { E ~ , } } \\\\ { { A _ { K ^ { + } K ^ { - } } } } & { { = } } & { { E + \\frac { \\sqrt { 3 } } { 2 } M ~ , } } \\\\ { { A _ { K _ { S } ^ { 0 } K _ { L } ^ { 0 } } } } & { { = } } & { { \\frac { \\sqrt { 3 } } { 2 } M ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $E$ denotes the electromagnetic amplitude and $\\textstyle { \\frac { \\sqrt { 3 } } { 2 } } M$ the ${ \\mathrm { S U } } ( 3 )$ breaking strong amplitude. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As has been discussed in Refs. [8,11], if $\\psi ( 2 S )$ is produced in $e ^ { + } e ^ { - }$ experiment,the contribution of the continuum must be included in the total amplitude,that is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l c l } { { A _ { \\pi ^ { + } \\pi ^ { - } } ^ { t o t } } } & { { = } } & { { E _ { c } + E , } } \\\\ { { A _ { K ^ { + } K ^ { - } } ^ { t o t } } } & { { = } } & { { E _ { c } + E + \\frac { \\sqrt { 3 } } { 2 } M , } } \\\\ { { A _ { K _ { S } ^ { 0 } K _ { L } ^ { 0 } } ^ { t o t } } } & { { = } } & { { \\frac { \\sqrt { 3 } } { 2 } M , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { c }$ is the amplitude of the continuum contribution.Besides the common part, $E _ { c }$ ， $E$ and √ M can be expressed explicitly as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { E _ { c } \\displaystyle \\mathrm { ~  ~ { ~ \\cal ~ { ~ \\alpha ~ } ~ } ~ } _ { s } ^ { 1 } \\mathrm { ~  ~ { ~ \\textstyle ~ , ~ } ~ } } } \\\\ { { E \\mathrm { ~  ~ { ~ \\alpha ~ } ~ } _ { s } ^ { 1 } B ( s ) \\mathrm { ~  ~ { ~ \\sigma ~ } ~ } , } } \\\\ { { \\frac { \\sqrt { 3 } } { 2 } M \\displaystyle \\mathrm { ~  ~ { ~ \\alpha ~ } ~ } ^ { \\ell e ^ { i \\phi } \\cdot \\frac { 1 } { s } B ( s ) , } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the real parameters $\\phi$ and $\\mathcal { C }$ are the relative phase and the relative strength between the strong and the electromagnetic amplitudes,and $B ( s )$ is defined as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB ( s ) = { \\frac { 3 \\sqrt s \\Gamma _ { e e } / \\alpha } { s - M _ { \\psi ( 2 S ) } ^ { 2 } + i M _ { \\psi ( 2 S ) } \\Gamma _ { t } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here $\\sqrt { s }$ is the center of mass energy, $\\alpha$ is the QED fine structure constant; $M _ { \\psi ( 2 S ) }$ and $\\Gamma _ { t }$ are ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "the mass and the total width of $\\psi ( 2 S )$ ， $\\Gamma _ { e e }$ is the partial width to $e ^ { + } e ^ { - }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Born order cross sections for the three channels are thus ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\sigma _ { \\pi ^ { + } \\pi ^ { - } } ^ { B o r n } ( s ) = \\displaystyle \\frac { 4 \\pi \\alpha ^ { 2 } } { s ^ { 3 / 2 } } [ 1 + 2 \\Re B ( s ) + | B ( s ) | ^ { 2 } ] } } \\\\ { { \\times | \\mathcal { F } _ { \\pi } ( s ) | ^ { 2 } \\mathcal { P } _ { \\pi ^ { + } \\pi ^ { - } } ( s ) ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { \\sigma _ { K ^ { + } K ^ { - } } ^ { B o r n } ( s ) = \\cfrac { 4 \\pi \\alpha ^ { 2 } } { s ^ { 3 / 2 } } [ 1 + 2 \\Re ( \\mathcal { C } _ { \\phi } B ( s ) ) + | \\mathcal { C } _ { \\phi } B ( s ) | ^ { 2 } ] } \\\\ & { } & { \\times | \\mathcal { F } _ { \\pi } ( s ) | ^ { 2 } \\mathcal { P } _ { K ^ { + } K ^ { - } } ( s ) ~ , ~ ( 6 } \\\\ & { } & { \\sigma _ { K _ { S } ^ { 0 } K _ { L } ^ { 0 } } ^ { B o r n } ( s ) = \\cfrac { 4 \\pi \\alpha ^ { 2 } } { s ^ { 3 / 2 } } \\mathcal { C } ^ { 2 } | B ( s ) | ^ { 2 } | \\mathcal { F } _ { \\pi } ( s ) | ^ { 2 } \\mathcal { P } _ { K _ { S } ^ { 0 } K _ { L } ^ { 0 } } ( s ) , ( 7 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathcal { F } _ { \\pi } ( s )$ is the pion form factor and the phase space factor $\\mathcal { P } _ { f } ( s )$ 1 $\\mathrm { \\Lambda } ^ { \\prime } f = \\pi ^ { + } \\pi ^ { - } , K ^ { + } K ^ { - } , K _ { S } ^ { 0 } K _ { L } ^ { 0 } )$ is expressed as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { P } _ { f } ( s ) = \\frac { 2 } { 3 s } q _ { f } ^ { 3 } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $q _ { f }$ the momentum of the final state particle in two-body decay. The symbol $\\mathcal { C } _ { \\phi } \\equiv 1 + \\mathcal { C } e ^ { i \\phi }$ is introduced for briefness. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the measurement of the narrow resonance like $J / \\psi$ and $\\psi ( 2 S )$ in $e ^ { + } e ^ { - }$ experiment,the radiative correction and the energy spread of the collider must be considered in the calculation of the observed cross sections.In fact,the observed cross sections and the proportions of the contributions from resonance and continuum depend sensitively on the experiment conditions [11]. For $\\psi ( 2 S )$ decays to $\\pi ^ { + } \\pi ^ { - }$ and $K ^ { + } K ^ { - }$ ，the contributions of the continuum,as well as interference terms,must be subtracted from the total cross sections to obtain the correct branching ratios. For $K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ mode, there is no continuum contribution. Although the observed $K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ cross section depends on the energy spread, the branching ratio is simply the observed $K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ cross section divided by the total resonance cross section.The formulae to calculate the experimentally observed cross section are presented in Ref.[11].In the following analysis,the energy spread of different $e ^ { + } e ^ { - }$ colliders,as listed in Table 1,are adopted in the corresponding calculations.In addition,it is also assumed that experimental data are taken at the energy which yields the maximum inclusive hadronic cross section [11]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4797167f7a634233efb9abc0555de8d047900794c21f1be328b05c908856c9f.jpg",
+        "table_caption": [
+            "Table1 Energy spreads of different experiments. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Exp.</td><td>DASP/ DORIS</td><td>BESI/ BEPC</td><td>MARKIII/ SPEAR</td></tr><tr><td>Ecm</td><td>(2S)</td><td>(2S)</td><td>J/</td></tr><tr><td>(GeV)</td><td>(3.686)</td><td>(3.686)</td><td>(3.096)</td></tr><tr><td>Energy spread</td><td>2.0 MeV</td><td>1.3 MeV</td><td>2.4 MeV</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Experimental data and predictions of （20 $B ( \\psi ( 2 S )  K _ { S } ^ { 0 } K _ { L } ^ { 0 } )$ （204 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Presently the experimental data on $\\psi ( 2 S ) $ $0 ^ { - } 0 ^ { - }$ are limited. The only results which have been published are from DASP [12]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle B ( \\psi ( 2 S )  \\pi ^ { + } \\pi ^ { - } ) = ( 8 \\pm 5 ) \\times 1 0 ^ { - 5 } ~ , } } } \\\\ { { { \\displaystyle B ( \\psi ( 2 S )  K ^ { + } K ^ { - } ) = ( 1 0 \\pm 7 ) \\times 1 0 ^ { - 5 } ~ , } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "which are based on about $0 . 9 \\times 1 0 ^ { 6 }$ produced （204号 $\\psi ( 2 S )$ events.The uncertainties of the measurements are more than $6 0 \\%$ because of the small data sample. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Another attempt to measure the branching ratios of $\\psi ( 2 S )  \\pi ^ { + } \\pi ^ { - }$ and $K ^ { + } K ^ { - }$ is based on （20 $2 . 3 \\times 1 0 ^ { 6 } ~ \\psi ( 2 S )$ data collected by BESI, the results are [13]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { B ( \\psi ( 2 S ) \\to \\pi ^ { + } \\pi ^ { - } ) = ( 0 . 8 4 \\pm 0 . 5 5 _ { - 0 . 3 5 } ^ { + 0 . 1 6 } ) \\times 1 0 ^ { - 5 } , } } \\\\ { { } } \\\\ { { B ( \\psi ( 2 S ) \\to K ^ { + } K ^ { - } ) = ( 6 . 1 \\pm 1 . 4 _ { - 1 . 3 } ^ { + 1 . 5 } ) \\times 1 0 ^ { - 5 } . ( } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here the uncertainty for $\\pi ^ { + } \\pi ^ { - }$ is also considerably large,around $7 0 \\%$ ；while for $K ^ { + } K ^ { - }$ ，the uncertainty is about $3 0 \\%$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It should be emphasized that the forementioned values without subtracting the contributions from the continuum are not the real physical branching ratios. These values should be multiplied by the experimentally measured total resonance cross section of the corresponding experiment and the products are to be interpreted as the observed cross sections of these two modes under the particular experimental condition.More detailed discussion of this point is in Ref.[11]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since in both of these two experiments,the $\\pi ^ { + } \\pi ^ { - }$ branching ratios have large uncertainties, andthe central values differ by almost an order of magnitude,an alternative way to do the analysis is to estimate $B ( \\psi ( 2 S )  \\pi ^ { + } \\pi ^ { - } )$ ）interms of pion form factor extrapolated from $B ( J / \\psi $ $\\pi ^ { + } \\pi ^ { - } )$ ）with better precision．For this purpose, ${ \\cal B } ( J / \\psi \\to \\pi ^ { + } \\pi ^ { - } ) = ( 1 . 5 8 \\pm 0 . 2 0 \\pm 0 . 1 5 ) \\times 1 0 ^ { - 4 }$ from MARKIII/SPEAR [14] is used. Although the contribution of the continuum is small for $J / \\psi$ decays,it is taken into account in the calculation herewhich yields ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| F _ { \\pi } ( M _ { J / \\psi } ^ { 2 } ) | = ( 9 . 3 \\pm 0 . 7 ) \\times 1 0 ^ { - 2 } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Extrapolate the result by $1 / s$ dependence [15,16] the pion form factor becomes ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| F _ { \\pi } ( s ) | = \\frac { ( 0 . 8 9 \\pm 0 . 0 7 ) \\ \\mathrm { G e V ^ { 2 } } } { s } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "With the pion form factor in Eq. (13),for example,BESI should observe a $\\pi ^ { + } \\pi ^ { - }$ cross section of $1 1 . 6 \\mathrm { p b }$ at $\\psi ( 2 S )$ energy,of which 4.8 pb is from the resonance decays (the total $\\psi ( 2 S )$ cross section is 640 nb). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "With the input of the branching ratios of $\\pi ^ { + } \\pi ^ { - }$ and $K ^ { + } K ^ { - }$ , the branching ratio of $K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ is calculated as a function of the phase between $E$ and M,as solved from Eqs. (5), (6) and (7) with radiative correction and energy spread of the $e ^ { + } e ^ { - }$ collider considered.Three sets of inputs are used for the calculations : ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "· Input 1: DASP results in Eqs.(8) and (9);   \n·Input 2: BESI results in Eqs.(1O)and (11);   \n·Input 3: pion form factor from Eq. (13) and $B ( \\psi ( 2 S )  K ^ { + } K ^ { - } )$ ）from BESI measurement in Eq.(11). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows $B ( \\psi ( 2 S )  K _ { S } ^ { \\cup } K _ { L } ^ { \\cup } )$ as a function of the phase for the three sets of inputs.It could be seen that $B ( \\psi ( 2 S )  K _ { S } ^ { 0 } K _ { L } ^ { 0 } ,$ ）is very sensitive to the relative phase. With all three sets of inputs,the variation shows the same trend. They reach the maxima and minima at roughly the same values of the phase.With the Input 1, $B ( \\psi ( 2 S )  K _ { S } ^ { 0 } K _ { L } ^ { 0 } ,$ ）varies in a larger range than the other two sets of inputs.This is because the $\\pi ^ { + } \\pi ^ { - }$ branching ratio from DASP is large,so the ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/26e2f3b39f03b7271d659955daaca558db7c24939033e94b9e69d8d0f72c4eff.jpg",
+        "img_caption": [
+            "Figure 1. $\\psi ( 2 S ) \\to K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ branching ratio as a function of the relative phase for three different inputs which describedin the text. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a40856b45bbfa04c96cf3242976ef3b679e3fddf269cca0df4c31adc40228a55.jpg",
+        "table_caption": [
+            "Table 2 Predicated $B ( \\psi ( 2 S )  K _ { S } ^ { \\cup } K _ { L } ^ { \\cup } )$ 1 $( \\times 1 0 ^ { - 5 } )$ ）atdifferent phases for different inputs. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Phase</td><td>Input 1</td><td>Input 2</td><td>Input 3</td></tr><tr><td>-90°</td><td>5.294</td><td>6.3+2</td><td>5.8+2</td></tr><tr><td>+90°</td><td>1.5-</td><td>4.5+21</td><td>3.4+1.8</td></tr><tr><td>180°</td><td>14+14</td><td>8.6+2.5</td><td>9.4+2.7</td></tr><tr><td>0°</td><td>0.64.6</td><td>3.3+2.2</td><td>2.1+1.2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.Discussions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From Fig.1 and Table 2,it can be seen that with the Input 1,the central value of $\\psi ( 2 S ) $ $K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ changes dramatically as the phase varies. Nevertheless, such predictions come with huge uncertainties due to the large experimental errors of the input $B ( \\psi ( 2 S )  \\pi ^ { + } \\pi ^ { - } )$ and $B ( \\psi ( 2 S ) $ $K ^ { + } K ^ { - }$ ).As a matter of fact,the results by DASP in Eqs. (8) and (9) can accommodate the assumption within one standard deviation that M = O in Eq. (2), i.e. the strong interaction is totally absent which means $B ( \\psi ( 2 S ) $ $K _ { S } ^ { 0 } K _ { L } ^ { 0 } ) = 0$ . Such huge uncertainties make it virtually impossible to draw any useful conclusion about the phase even with $B ( \\psi ( 2 S )  K _ { S } ^ { \\cup } K _ { L } ^ { \\cup } ,$ measured. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "electromagneticamplitude $E$ and the continuum amplitude $E _ { c }$ are relatively large compared with the strong decay amplitude $\\textstyle { \\frac { \\sqrt { 3 } } { 2 } } M$ ， so the interference is more important.On the contrary,with the Input 2,the $\\pi ^ { + } \\pi ^ { - }$ branching ratio is small from BESI experiment,which means that $E$ and $E _ { c }$ arerelatively small,so the interference is less significant. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 2 lists the predictions of the $\\psi ( 2 S ) $ $K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ branching ratios with some values of the phase which are most interesting from theoretical point of view.These phases are $\\phi = - 9 0 ^ { \\circ }$ ， $+ 9 0 ^ { \\circ }$ ， $1 8 0 ^ { \\circ }$ and $0 ^ { \\circ }$ ,for the three sets of inputs as discussed above. The first two phases are favored by the theory [7],and are the fitted results from $J / \\psi$ data;while the third one is from an early fitting of $\\psi ( 2 S )  1 ^ { - } 0 ^ { - }$ mode [3]. Here the uncertainties due to the experimental errors of $\\pi ^ { + } \\pi ^ { - }$ and $K ^ { + } K ^ { - }$ measurements are included in the table. With the third set of input,the theoretical uncertainty due to the extrapolation of the pion form factor from $J / \\psi$ to $\\psi ( 2 S )$ according to $1 / s$ dependence is not included. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "However,with Input 2,because of the smaller error of $B ( \\psi ( 2 S ) ~  ~ K ^ { + } K ^ { - } )$ and the relatively small $\\psi ( 2 S ) ~ \\to ~ \\pi ^ { + } \\pi ^ { - }$ branching ratio, $B ( \\psi ( 2 S ) \\  \\ K _ { S } ^ { 0 } K _ { L } ^ { 0 } )$ are calculated with much smaller uncertainty. The strong interaction amplitude $\\textstyle { \\frac { \\sqrt { 3 } } { 2 } } M$ is nonzero within two standard deviation，and $B ( \\psi ( 2 S ) \\  \\ K _ { S } ^ { 0 } K _ { L } ^ { 0 } )$ is predicted at the order of $1 0 ^ { - 5 }$ .The exact value depends on the phase and varies by a factor 2.7 from the minimum to maximum. The uncertainty of the prediction,depending on the phase,is between $3 3 \\%$ to $5 0 \\%$ ．So with this result，once $B ( \\psi ( 2 S )  K _ { S } ^ { 0 } K _ { L } ^ { 0 } )$ ）is measured,the phase between the strong and the electromagnetic amplitudes can be determined to be within one of following regions: close to $0 ^ { \\circ }$ ,around $\\pm 9 0 ^ { \\circ }$ ,or close to $1 8 0 ^ { \\circ }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "With Input 3,the usage of the better measured pion form factor at $J / \\psi$ does not reduce the uncertainty of the predicted $B ( \\psi ( 2 S )  K _ { S } ^ { 0 } K _ { L } ^ { 0 } .$ very much. This is due to the larger pion form factor and so larger contribution from the electromagnetic interactions( $E$ and $E _ { c }$ in Eq. (2)) than with Input 2. But the predicted central values of $B ( \\psi ( 2 S )  K _ { S } ^ { 0 } K _ { L } ^ { 0 } )$ vary in a larger range, with a factor of 4.9 from the minimum to maximum.This makes it more sensitive to determine the phase by $B ( \\psi ( 2 S )  K _ { S } ^ { \\cup } K _ { L } ^ { \\cup } ,$ thanwith Input 2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "By virtue of the calculations with Input 2 and Input 3,once $B ( \\psi ( 2 S )  K _ { S } ^ { 0 } K _ { L } ^ { 0 } .$ ）is known，at least it can distinguish whether the strong and the electromagnetic amplitudes are roughly orthogonal (with phase around $\\pm 9 0 ^ { \\circ }$ ）orof the same or opposite phase ( $0 ^ { \\circ }$ or $1 8 0 ^ { \\circ }$ ). This is highly desirable from the theoretical point of view. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To determine the relative phase between the strong and the electromagnetic interactions with small error,the branching ratios of $\\psi ( 2 S ) ~ $ （204 （204号 $\\pi ^ { + } \\pi ^ { - }$ and $\\psi ( 2 S )  K ^ { + } K ^ { - }$ must also be measured to high precisions. These are expected from the forthcoming CLEOc and BESII experiments [17,18]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.Summary ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（20 $\\psi ( 2 S ) ~  ~ K _ { S } ^ { \\cup } K _ { L } ^ { \\cup }$ branching ratio is calculated asa function of the relative phase between the strong and the electromagnetic amplitudes, based on the available experimental information of $\\psi ( 2 S )  \\pi ^ { + } \\pi ^ { - }$ and $\\psi ( 2 S )  K ^ { + } K ^ { - }$ decay branching ratios.With the results in this letter, a measurement of the $\\psi ( 2 S ) \\to K _ { S } ^ { 0 } K _ { L } ^ { 0 }$ branching ratio will shed light on answering the question that whether the phase between the strong and the electromagnetic amplitudes is large $( \\pm 9 0 ^ { \\circ } )$ or small ( $0 ^ { \\circ }$ or $1 8 0 ^ { \\circ }$ )inthe $\\psi ( 2 S )  0 ^ { - } 0 ^ { - }$ decays. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1．J. Jousset et al., (DMII Collab.),Phys. Rev. D41 (1990) 1389.   \n2.D.Coffman et al., (Mark III Collab.),Phys. Rev.D38 (1988) 2695.   \n3. M. Suzuki, Phys.Rev.D60（1999) 051501.   \n4. L.Kopke and N. Wermes，Phys. Rep.74 (1989) 67.   \n5．R.Baldini et al.,Phys.Lett.B444 (1998) 111.   \n6．M. Suzuki,Phys.Rev.D63(2001) 054021.   \n7. J.-M. Gérard and J. Weyers, Phys. Lett. B462(1999) 324.   \n8. P. Wang, C. Z. Yuan, X. H. Mo and D.H. Zhang,hep-ex/0210063,submitted to Phys. Rev.Lett.; S. Rudaz, Phys.Rev.D14 (1976) 298.   \n9. P. Wang,C. Z. Yuan， X. H. Mo，hepph/0303144,submitted to Phys.Rev. Lett..   \n10.Particle Data Group,K.Hagiwara et al., Phys.Rev.D66(2002) 010001.   \n11.P. Wang, X. H. Mo and C. Z. Yuan, Phys. Lett.B557(2003)192.   \n12.R.Brandelik et al.,(DASP Collab.), Z.Phys. C1(1979) 233.   \n13. S.W. Ye, “Study of some VP and PP modes of $\\psi ( 2 S )$ decays”,Ph.D.thesis,University of Science and Technology of China,1997 (in Chinese).   \n14.R.M.Baltrusaitis et al., (Mark III Collab.), Phys. Rev.D32(1985) 566.   \n15.S. J. Brodsky and C. R. Ji, SLAC-PUB3747 (1985).   \n16.V. Chernyak, hep-ph/9906387.   \n17.CLEO-c Collab.，“CLEO-c and CESR-c: A New Frontier of Weak and Strong Interactions”, CLNS 01/1742.   \n18.H.S.Chen，“BEPCII/BESII project”,talk at ICHEP 2002，Amsterdam，Netherland, July 24-31, 2002. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

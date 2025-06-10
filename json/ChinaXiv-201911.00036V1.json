@@ -1,0 +1,449 @@
+[
+    {
+        "type": "text",
+        "text": "近54a蒙古高原降水变化趋势及区域分异特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "那音太}²，秦福莹3,4，贾根锁，杨，包玉海³",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1内蒙古财经大学资源与环境经济学院,内蒙古呼和浩特010070；2内蒙古财经大学规划与地理信息系统实验室,内蒙古呼和浩特010070；3内蒙古师范大学地理科学学院,内蒙古呼和浩特010022；4内蒙古师范大学蒙古高原灾害与生态安全重点实验室,内蒙古呼和浩特010022;5中国科学院大气物理研究所,北京100029；6内蒙古财经大学,内蒙古呼和浩特010070）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：近半个世纪，有关全球气候的话题一直是科学界争论的焦点，拥有世界最大温带草原的蒙古高原降水变化是属于全球变化问题，又是其脆弱环境变化的最主要驱动因子之一。通过利用蒙古高原1961—2014年136个气象站点的月降水量数据,采用 Sen's斜率法、Mann-Kendall趋势检验法和空间地统计方法，研究了该地区近54a降水要素基本气候特征及其时空变化规律。结果表明：(1)近54a蒙古高原年降水量呈减少趋势，趋势为 $- 2 . 3 0 \\ \\mathrm { m m } \\cdot \\mathrm { ~ ( 1 0 ~ a ) ~ } ^ { - 1 } \\mathrm { ~ ( ~ } P > 0 . 0 5 \\mathrm { ~ ) ~ }$ ，整体上年降水量东南及西北显著减少，东北及中南明显增加(2)夏季和秋季降水量呈减少趋势，趋势分别为$- 5 . 7 5 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { ~ a } ) \\ ^ { - 1 }$ 和 $- 0 . 4 2 \\mathrm { ~ m m } \\cdot ( 1 0 \\mathrm { ~ a } ) ^ { - 1 } ( P > 0 . 0 5 )$ ；春季和冬季降水量呈显著增加趋势，趋势分别为 $1 . 9 5 \\mathrm { ~ m m } \\cdot ( 1 0 \\mathrm { ~ a } ) ^ { \\mathrm { ~ } ^ { - 1 } }$ 和 $0 . 5 0 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { ~ a } ) ^ { - 1 } ( P < 0 . 0 5 )$ ;季节降水量出现正负距平的年份和周期有所不同。(3)春季和冬季降水量呈增加趋势的站点居多，占全部站点的 $8 9 . 0 \\%$ 和 $8 4 . 6 \\%$ ，主要分布于高原东北部和中南部地区；夏季和秋季降水量呈减少趋势的站点居多，占全部站点的$8 0 . 1 \\%$ 和 $5 7 . 4 \\%$ ，主要分布于高原东南部和西北部地区。为准确评估蒙古高原气候变化以及合理提出生态环境决策提供科学参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蒙古高原；降水量；变化趋势；季节变化；区域分异 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒙古高原位于北半球中纬度地区，四面远离海洋，在大气系统上处于东亚季风边缘区，同时受西风带环流的影响，气候的主要特点为干旱少雨和雨热同期[1-2]。蒙古高原大部分地区处于干旱和半干旱区域，其脆弱的生态环境对气候变化的响应非常敏感[3-4]。降水是影响该地区生态系统和环境演变的关键因素，降水变化对植被动态、土地荒漠化以及河流、湖泊等水文过程产生重要影响[5-6]。近 70 a(1940一2010 年)全球年平均气温上升了 $0 . 8 5 \\mathrm { ~ \\textdegree C }$ ，而这期间的蒙古高原年平均气温上升了 $2 . 0 7 ~ \\mathrm { ^ { \\circ } C }$ ，上升速率约同时期全球气温上升速率的3倍[7-8]。显著的气候变暖以及剧烈的人类活动的影响，使得该区降水量时空格局变化更加复杂。由于降水量的增加或减少皆有可能导致生态环境的波动和灾害的频繁发生[9-I],因此,降水变化的波动性及其时空变化特征引起了热点关注[12-14] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以往有关蒙古高原降水变化研究由于受到资料获取和共享的限制，多只限于内蒙古或只限于蒙古国或两者的一些局部地区，把整个蒙古高原作为研究对象的较少，尤其是有关降水季节分配研究及其时空分异规律的研究极少，而且由于研究范围和时段的不统一,其结果不尽相同[15-17]。丁勇等[18]对内蒙古年降水量变化进行研究发现，1969一2008 年年降水量呈减少趋势,存在明显的区域差异,其中，内蒙古东中部地区降水量显著减少，西部地区微弱增加趋势。DAGVADORJ等[8]对蒙古国降水量变化进行研究指出，1940—2010 年蒙古国年降水量整体上未发生显著变化,但蒙古国中部地区减少显著，而东部和西部地区明显增加；季节变化上冬、春季降水量显著减少,夏、秋季降水量没有显著变化[19-20] 。ENDO 等[20]和VANDANDORJ 等[7]对1981—2014年蒙古国夏季降水量变化进行研究发现，60个气象站点中只有4个站点的夏季降水量显著减少，其余站点没有显著变化。在少有的中蒙气候变化比较研究中，刘兆飞等[2]指出1960—2010 年蒙古国年降水量减少幅度大于中国境内的内蒙古、甘肃以及宁夏等地区。丹丹等[22]分析表明，近35a蒙古高原年降水量整体上呈减少趋势，其中夏季和秋季降水量表现为减少趋势，特别是夏季降水量明显减少，而冬季和春季降水量呈微弱上升趋势。综上所述，本文以整个蒙古高原为研究区，研究了该地区近50a年降水量和季节降水量的年际变化趋势及其时空分布特征，为准确评估蒙古高原气候变化以及制定生态保护有关政策提供科学参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "蒙古高原位于亚洲东北部，四周环山，北部分布着雅布洛诺夫山、萨彦岭和肯特山，南部为阴山山脉，东部为大兴安岭，西部为蒙古阿尔泰山脉，面积约 $1 2 6 0 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 [ 2 3 - 2 4 ] }$ 。本研究选取了蒙古高原的主体部分蒙古国和中国内蒙古自治区（图1）。地势从西向东逐渐降低，海拔范围介于 $1 \\ 0 0 0 \\sim 1 \\ 5 0 0 \\ \\mathrm { m }$ 之间，中部和东部为大片丘陵草原，西南部为戈壁荒漠，西北部多山地。以大陆性季风气候为主，春季(3\\~5月)干旱多风，夏季(6\\~8月)高温多雨，秋季(9\\~11月)晴爽宜人，冬季(12月 $\\sim$ 次年2月)寒冷干燥，蒸发量远高于降水量，降水集中于 $5 \\sim 1 0$ 月，约占年降水量的 $90 \\%$ 以上。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1e13df4b0352b824da2fecb94a9ace3f6dd075da9ad9f9fd6ba66efe791afa5.jpg",
+        "img_caption": [
+            "图1图1蒙古高原及其气象站点分布 Fig.1 The Mongolian Plateau and distribution of meteorological stations "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 气象数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文利用1961-2014年间蒙古高原136个气象站点逐月降水量数据，其中包括内蒙古境内102个站点，蒙古国境内34个站点。对每个站点数据进行质量控制，数据量的缺失率不到 $0 . 1 \\%$ ，取前后两年同一个月份的降水量平均值来代替个别月份缺失的数据[13]。站点分布上,东部站点相对较多,西南和中部的广阔荒漠、戈壁和荒漠草原区站点较稀少（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Mann-Kendall趋势检验法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用Mann-Kendall非参数统计检验法，该方法不要求其检验的变量必须服从某一种分布，能够很好地规避离群数据和测量误差数据，因而在气候变量趋势检验中得以广泛应用[25-26],该方法定义了统计量 $s$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS \\ = \\ \\sum _ { i \\ = 1 } ^ { n - 1 } \\sum _ { j \\ = i + 1 } ^ { n } \\ \\mathrm { s g n } { \\bigl ( } X _ { j } - X _ { i } { \\bigr ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { s g n } ( X _ { j } - X _ { i } ) = { \\left\\{ \\begin{array} { l l } { \\ 1 } & { { \\mathrm { i f } } \\quad ( X _ { j } - X _ { i } ) > 0 } \\\\ { \\ 0 } & { { \\mathrm { i f } } \\quad ( X _ { j } - X _ { i } ) = 0 } \\\\ { - 1 } & { { \\mathrm { i f } } \\quad ( X _ { j } - X _ { i } ) < 0 } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $X _ { 1 } , X _ { 2 } , \\cdots , X _ { n }$ 为时间序列变量; $n$ 为时间步长； $X _ { j } , X _ { i }$ 分别为 $j , i$ 年的相应测量值,且 $j > i$ ○",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c c l } { { } } & { { \\displaystyle \\frac { S - 1 } { \\sqrt { V a r ( S ) } } } } & { { ~ \\mathrm { i f } ~ } } & { { S > 0 } } \\\\ { { } } & { { } } & { { } } \\\\ { { Z _ { \\scriptscriptstyle M \\scriptscriptstyle K } = } } & { { 0 } } & { { ~ \\mathrm { i f } ~ } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\displaystyle \\frac { S + 1 } { \\sqrt { V a r ( S ) } } } } & { { ~ \\mathrm { i f } ~ } } & { { S < 0 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV a r ( S ) ~ = ~ \\frac { 1 } { 1 8 } \\left[ n ( n - 1 ) ( 2 n + 5 ) ~ - \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { p = 1 } ^ { q } t { \\big ( } t - 1 { \\big ) } \\left( 2 t + 5 \\right) \\bigg ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $Z$ 为一个正态分布的统计量; $V a r ( S )$ 为方差。在给定的 $\\alpha$ 置信水平上,如果 $\\mid Z \\mid \\geqslant Z _ { 1 - \\alpha / 2 }$ ，则时间序列数据在 $\\alpha$ 置信水平上存在显著的变化趋势。采用 $\\mathit { S e n } ^ { \\prime } \\mathit { s }$ 斜率表示变化趋势的幅度，当 $\\boldsymbol { s e n ^ { \\prime } s }$ 斜率为正值时上升趋势；当 $\\mathit { S e n } ^ { * } \\mathit { s }$ 斜率为负值时下降趋势。算法公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS e n ^ { , } s \\ f i g ^ { , } = \\mathbb { M } \\mathrm { e d i a n } \\left( { \\frac { x _ { j } - x _ { i } } { j - i } } \\right) , \\forall i < j\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 蒙古高原降水量基本气候特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1年降水量空间分布特征研究区多年平均年降水量呈从高原东南部、东北部和北部向中心地带递减的环带状的空间分布特征，即从湿润和半湿润气候渐变为半干旱和干旱气候(图2）。年降水量在高原东北部(呼伦贝尔市和兴安盟等)和东南部地区(呼和浩特市等)介于 $4 0 0 \\sim 5 0 0 ~ \\mathrm { m m }$ 之间,其中大兴安岭东麓地区超出 $5 0 0 ~ \\mathrm { m m }$ ；高原北部和东南部年降水量在 $3 0 0 \\sim 4 0 0 ~ \\mathrm { m m }$ 之间，包括内蒙古的赤峰市、通辽市、锡林郭勒盟东南部和蒙古国的后杭爱省、库苏古尔省、布尔干省等地区;高原西南部和西北部的西端年降水量小于 $2 0 0 ~ \\mathrm { { m m } }$ ,其中内蒙古阿拉善盟和蒙古国的巴彦洪戈尔省、戈壁阿尔泰省、前戈壁省等地年降水量小于 $1 0 0 ~ \\mathrm { { m m } }$ ;高原西北部、中北部、中东部和中南部地区呈环状，年降水量在 $2 0 0 \\sim$ $3 0 0 ~ \\mathrm { m m }$ 之间，经过地区包括蒙古国的扎布汗省一中央省一内蒙古的锡林郭勒盟中部一乌兰察布市一鄂尔多斯市北部等地区，其延长程度高，经过的盟市界线最多。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e4d0f72a578beb4d997e2ef55dafbbf4faf7cff243a55232e5b6089f2604ae1.jpg",
+        "img_caption": [
+            "图21961—2014 年蒙古高原多年平均年降水量空间分布 Fig.2Spatial pattern of average annual mean precipitation across the Mongolian Plateau during 1961—2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2季节降水量空间分布特征从研究区季节降水量空间分布格局(图3)可看出，春、夏、秋季降水量均从高原北部、东北部和东南部向中心逐渐递减，与年降水量的空间分布特征大体一致;冬季降水量从东北向西南、从西北向东南方向逐渐递减的空间分布特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "春季降水量在 $1 0 . 3 \\sim 6 2 . 7 \\ \\mathrm { m m }$ 之间,高原东北和东南部地区高于 $4 0 ~ \\mathrm { m m }$ ,其中呼伦贝尔市东部、兴安盟、科尔沁南部和呼和浩特市等地区高于 $5 0 ~ \\mathrm { m m }$ ，高原北部地区为 $3 0 \\sim 4 0 ~ \\mathrm { m m }$ 之间，西南地区少于20$\\mathbf { m } \\mathbf { m }$ ,西北和中部的环状地带在 $2 0 \\sim 3 0 ~ \\mathrm { \\ m m }$ 之间。夏季降水量在 $2 2 . 0 \\sim 3 7 4 . 9 \\ \\mathrm { m m }$ 之间,其中，高原东北部、东南部和北部地区高于 $2 0 0 ~ \\mathrm { { m m } }$ ,西南部、西北部的西端地区以及正中心部分少于 $1 0 0 ~ \\mathrm { { m m } }$ ,西北部一中北部一中东部一中南部地区的环状地带在$1 0 0 \\sim 2 0 0 ~ \\mathrm { m m }$ 之间。秋季降水量在 $1 4 . 2 \\sim 7 9 . 1 \\ \\mathrm { m m }$ 之间，高原东部(除中心地区外）北部地区高于40$\\mathbf { m } \\mathbf { m }$ ,其中呼伦贝尔市和呼和浩特市附近超过了70$\\mathbf { m } \\mathbf { m }$ ,西南部、西北部的西端小于 $3 0 ~ \\mathrm { m m }$ ,西北部一中北部一中东部一中南部的环状地带在 $3 0 \\sim 4 0 ~ \\mathrm { \\ m m }$ 之间。冬季降水量在 $1 . 6 \\sim 1 2 . 9 \\ \\mathrm { m m }$ 之间,高原东北部和西北部较高，其中大兴安岭和杭爱山等地区高于 $1 0 ~ \\mathrm { m m }$ ,西南和东南部小于 $5 ~ \\mathrm { m m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4f09436757ffd1adafaa9cf58eafcab9aff15713372fc31fac94dd73c7ecfb9.jpg",
+        "img_caption": [
+            "图3蒙古高原四季平均降水量空间分布",
+            "Fig.3Spatial distribution of seasonal mean precipitation across the Mongolian Plateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.3季节降水量的年内分布特征1961—2014年研究区多年平均春、夏、秋和冬季降水量分别为$4 0 . 6 ~ \\mathrm { { m m } } \\cdot 2 0 7 . 9 ~ \\mathrm { { m m } } \\cdot 5 0 . 4 ~ \\mathrm { { m m } }$ 和 $6 . 8 ~ \\mathrm { m m }$ ,分别占年降水量的 $1 3 . 3 \\% . 6 8 . 0 \\% . 1 6 . 5 \\%$ 和 $2 . 2 \\%$ （表1）。变异系数分别为冬季（ $( 2 9 . 9 \\%$ ） $>$ 春季和秋季（202 $( 2 7 . 5 \\%$ ） $>$ 夏季 $( 1 6 . 9 \\%$ )，冬季降水量年际波动最强;季节降水量极差分别为夏季( $1 5 4 . 8 ~ \\mathrm { m m }$ ） $>$ 秋季中 $\\mathrm { 6 1 . 1 ~ m m }$ ） $>$ 春季( $5 0 . 9 \\ \\mathrm { m m }$ ） $>$ 冬季 $( 7 . 4 ~ \\mathrm { m m } )$ ，夏季降水量最多年和最少年之间的相差最大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2蒙古高原降水量气候变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1年降水量变化特征1961—2014 年年降水量呈微下降趋势，趋势为 $- 2 . 3 0 \\ \\mathrm { ~ m m ~ } \\cdot \\mathrm { ~ ( ~ 1 0 ~ ~ a ~ ) ~ } ^ { - 1 }$ 1 $\\cdot P > 0 . 0 5 )$ （图4)。从年降水距平及5a滑动平均曲线可知，有两个较明显的正距平时期，分别是",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b977d6eed42bf8268220d6a196bfdaad4c4afd6944d8114426a1ff6aa1c9a55.jpg",
+        "table_caption": [
+            "表1季节降水量变化特征的统计值",
+            "Tab.1Statistics of seasonal precipitation during 1961—2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时间</td><td>均值 /mm</td><td>变异系 数/%</td><td>标准差 /mm</td><td>最大值 /mm</td><td>最小值 /mm</td><td>极差 /mm</td></tr><tr><td>春季</td><td>40.6</td><td>27.5</td><td>11.1</td><td>73.6</td><td>22.6</td><td>50.9</td></tr><tr><td>夏季</td><td>207.9</td><td>16.9</td><td>35.1</td><td>296.2</td><td>141.4</td><td>154.8</td></tr><tr><td>秋季</td><td>50.4</td><td>27.5</td><td>12.6</td><td>88.4</td><td>27.3</td><td>61.1</td></tr><tr><td>冬季</td><td>6.8</td><td>29.9</td><td>2.0</td><td>10.6</td><td>3.2</td><td>7.4</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/baec46fba0621547ecfbabe0a083dbbe72660bfcb4c27c28b189d934efd4f552.jpg",
+        "img_caption": [
+            "图41961—2014年蒙古高原地区年降水量距平及其年际趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1976—1979 年和1990—1996 年;1999—2010 年以负距平为主，2011年后转为正距平，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从统计结果来看，年降水量呈增加趋势和减少趋势的站点数分别为53个和83个，占全部站点的$3 9 \\%$ 和 $6 1 \\%$ ,其中显著增加(减少)趋势的站点数为4个(7个），占 $2 . 9 \\% ( 5 . 1 \\% ) ( P < 0 . 0 5 )$ 。空间分布上，具有减少趋势的站点集中于高原中北部、偏西地区和东南部，尤其在内蒙古赤峰市、通辽市和蒙古国布尔干省、中央省和后杭爱省等地区减少趋势更加明显(图5)；具有增加趋势的站点集中于高原中南部和东北部地区，其中内蒙古呼伦贝尔市、兴安盟、呼和浩特市以及蒙古国的前杭爱省等地区增加趋势显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2季节降水量变化特征春季降水量呈增加趋势，趋势为 $1 . 9 5 \\mathrm { \\ m m } \\cdot ( 1 0 \\mathrm { \\ a } ) ^ { - 1 } ( P < 0 . 0 5 )$ ,1990年前以负距平为主，1990 年后除了20 世纪90 年代中期和21世纪初为负距平以外，其它多数年份为正距平（图6）。夏季降水量呈减少趋势，趋势为$- 5 . 7 5 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { ~ a ~ } ) ^ { - 1 } ( P > 0 . 0 5 )$ ,其减少的幅度大于年降水的减少幅度 $\\left[ \\ - 2 . 3 \\ \\mathrm { m m } \\cdot \\mathrm { ~ ( 1 0 \\ a ) ~ } ^ { - 1 } \\right]$ ,20世纪60年代 $\\sim 8 0$ 年代正负距平交替出现，20世纪90年代以正距平为主,21世纪00 年代以负距平为主，2011年后有所回升。秋季降水量呈微弱减少趋势，趋势为 $- 0 . 4 2 \\mathrm { ~ m m ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 } \\mathrm { ~ ( ~ } P > 0 . 0 5 \\mathrm { ~ ) ~ }$ ,1962—1967年、1979—1985年和1996—2011年为负距平，20 世纪60 年代末期 $\\sim 7 0$ 年末期、21世纪10 年代初期以正距平为主。冬季降水量呈波动增加趋势，趋势为 $0 . 5 0 \\mathrm { ~ m m } \\cdot ( 1 0 \\mathrm { ~ a } ) ^ { - 1 } ( P < 0 . 0 5 )$ ,1985年前以负距平为主，1985年后以正距平为主，增加趋势尤为显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2列出了基于不同显著性水平的四季降水量呈增减趋势的站点个数。春季呈增加(减少)趋势",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9053c5e039953e540501f6c2d0494a3ba1c81b09545787e7b8496bdbfc9032e.jpg",
+        "img_caption": [
+            "Fig.4Inter-annual variation of annual total precipitation and its anomaly in recent 54 years ",
+            "图5蒙古高原年降水量变化趋势空间分布 Fig.5Spatial pattern of variation trend in annual precipitation and change trend across the Mongolian Plateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/28e98e90a56d319be53c2181c8803130cd1c719e6001a4d90db59845aebf1839.jpg",
+        "img_caption": [
+            "图61961—2014年蒙古高原季节降水量距平统计和变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Anomalies and interannual trend of regional mean seasonal precipitation in recent 54 years的站点数为121个（15个），占全部站点的 $8 9 . 0 \\%$ $( 1 1 . 0 \\%$ )，其中显著增加（减少)趋势的站点数为16个(0个），占 $1 1 . 7 6 \\% ( 0 \\% )$ 。夏季呈增加和减少趋势的站点数分别为27个和109个，占所有站点的$1 9 . 9 \\%$ 和 $8 0 . 1 \\%$ ,其中显著增加和减少趋势的站点数分别为2个和13个，占 $1 . 4 7 \\%$ 0 $9 . 5 6 \\%$ )。秋季呈增加(减少)趋势的站点数为58个（78个），占全部站点的 $4 2 . 6 \\% ( 5 7 . 4 \\% )$ ,其中显著增加(减少)趋势的站点数为3个（4个），占 $2 . 2 \\%$ （ $2 . 9 4 \\%$ ）。冬季呈增加（减少）趋势的站点数为115个（21个），占全部站点的 $8 4 . 6 \\% ( 1 5 . 4 \\% )$ ），其中显著增加(减少）趋势的站点数为33个（1个），占 $2 4 . 3 \\%$ $( 0 . 7 \\% )$ 。总体上，春季和冬季呈增加趋势的站点居多，春季（121个） $>$ 冬季（115个），其中显著增加趋势的站点数为，冬季(33个） $>$ 春季(16个）；夏季和秋季呈减少趋势的站点居多，夏季(109个） $>$ 秋季（78个），其中显著减少趋势的站点数为，夏季（13个） $>$ 秋季(4个）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2基于不同显著性水平的四季降水量变化的站点个数统计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/85d3068e7b44c777de992898c5bb5f9786e90d49f30995689416f83737923309.jpg",
+        "table_caption": [
+            "Tab.2Station numbers with different significance levelsfor seasonal precipitation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">季节</td><td colspan=\"2\">不显著增加 (P>0.05)</td><td colspan=\"2\">显著增加 (P<0.05)</td><td colspan=\"2\">不显著减少 (P>0.05)</td><td colspan=\"2\">显著减少 (P<0.05)</td></tr><tr><td>站点 数</td><td>百分 比</td><td>站点 数</td><td>百分 比</td><td>站点 数</td><td>百分 比</td><td>站点 数</td><td>百分 比</td></tr><tr><td>春季</td><td>105</td><td>77.2</td><td>16</td><td>11.8</td><td>15</td><td>11.0</td><td>0</td><td>0</td></tr><tr><td>夏季</td><td>25</td><td>18.4</td><td>2</td><td>1.5</td><td>96</td><td>70.6</td><td>13</td><td>9.6</td></tr><tr><td>秋季</td><td>74</td><td>54.4</td><td>4</td><td>2.9</td><td>55</td><td>40.4</td><td>3</td><td>2.2</td></tr><tr><td>冬季</td><td>82</td><td>60.3</td><td>33</td><td>24.3</td><td>20</td><td>14.7</td><td>1</td><td>0.7</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7显示了四季降水量年际变化趋势的空间分布。春季年际变化趋势在 $- \\ 2 . \\ 3 \\ \\sim \\ 7 . \\ 2 \\ \\mathrm { \\ m m }$ ·（10a）-之间，呈增加趋势的站点占多数，主要分布于高原东南部边境地区（包括内蒙古的兴安盟、通辽市、赤峰市和呼伦贝尔市西部)和西北部的局部地区（包括蒙古国的前杭爱省、扎布汗省、乌苏尔省等)；西北部和西南部呈减少趋势的站点相对较多",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（图7a）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "夏季降水量年际变化趋势在 $- 2 3 . 6 \\sim 1 7 . 2 ~ \\mathrm { m m } \\ \\cdot$ （10a）-之间，减少趋势的站点占多数，主要分布于高原东南部(内蒙古兴安盟、赤峰市、通辽市、锡林郭勒盟大部分、呼和浩特市、乌兰察布市、包头市等)和中北部偏西地区(蒙古国的后杭爱省、库苏古尔省、布尔干省）；呈增加趋势的站点主要分布于高原东北部（呼伦贝尔市）和西南部地区（鄂尔多斯市）（图7b）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "秋季降水量年际变化趋势在 $- 6 . 0 \\sim 5 . 2 \\ \\mathrm { m m }$ ：（10a）-之间，呈减少趋势的站点数量大于呈增加趋势的站点数量，呈减少趋势的站点主要分布于高原西北部和东南部，包括蒙古国库苏古尔省、布尔干省以及内蒙古通辽市、赤峰市等地区；呈增加趋势的站点集中分布于高原中南部，包括呼和浩特市、包头市、鄂尔多斯市、巴彦淖尔市等（图7c）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "冬季降水量年际变化趋势在-0.74～12.0$\\mathrm { m m } \\cdot ( 1 0 \\mathrm { ~ a ~ } ) ^ { \\ - 1 }$ 之间，多数站点降水量增加，呈增加趋势的站点主要分布于高原西北部和东南部，包括蒙古国扎布汗省、中央省附近，内蒙古呼伦贝尔市、通辽市和呼和浩特市等地区;呈减少趋势的站点主要分布于高原南部边缘地带，包括内蒙古赤峰市南部、鄂尔多斯市等地区(图7d）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/210e2772554219e09fd9fb2ce2e5a41cd62b5960f0198c931e6159505f407766.jpg",
+        "img_caption": [
+            "图7蒙古高原季节降水量变化趋势的空间分布",
+            "Fig.7Spatial pattern of seasonal precipitation variation trend across the Mongolian Plateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IPCC 第五次评估报告指出，1901年以来，全球陆地降水量没有明显的增加或减少，但就区域而言，具有显著差异[27],其中 20 世纪以来北半球中高纬度陆地的年降水量呈增加趋势[28],而该时间段内,蒙古高原年降水量整体上呈减少趋势，其中高原中北部年降水减少趋势可能与环贝加尔湖地区的地表气温的变化有联系。环贝加尔湖地区持续的地表气温上升，减小了蒙古高原对流层中低层水平温度的经向变化，进而增强了大气的稳定程度，从而抑制了该地区气旋生成频数，上述大气动力机制可能直接导致了蒙古高原中北部降水量的持续减少[29]。研究区东南部主要受到东亚季风的影响，其降水量减少主要与20世纪70年代以来东亚季风环流呈减弱趋势有关[30-32],季风减弱会减少水汽输送,从而导致蒙古高原大部分地区降水量减少，尤其东南部降水量显著减少。严中伟等[33]研究表明20世纪60年代自北非经过印度西北部，直至中国和日本等广阔的变干带的南北两侧均存在降水增加带，本文发现研究区西南部降水量显著增加的变湿痕迹，这与20世纪开始中国西北地区由暖干向暖湿转型的结论基本一致[34]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于全球变暖、ENSO 事件等影响着气压带和风带的位移、季风气流到达的早晚、持续时间和强度等,进而影响着降水量的季节变化等各种变化[35]蒙古高原夏季雨热同期，夏季降水量的减少可能导致降水量的有效利用程度降低，将对该地区生态环境影响深远，可能草原进一步退化，干旱等自然灾害频繁发生，当地居民的生产生活受到极大影响[36-37]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "蒙古高原降水变化的时空格局及其演变特征不仅与全球气候变化的大背景有关，也受区域和局地大气环流和要素影响，如地形地貌、地表含水量、气温、人为因素等[38-39],其研究区范围广阔,136 个站点有些稀疏，有待结合数值模式和卫星降水数据等手段对该地区降水变化进行进一步分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）近54a蒙古高原年降水量呈减少趋势，趋势为 $- 2 . 3 0 \\ \\mathrm { m m } \\cdot \\left( 1 0 \\ \\mathrm { a } \\right) ^ { - 1 } \\left( P > 0 . 0 5 \\right) , 2 0$ 世纪60年代 $\\sim 8 0$ 年代波动变化,90年代降水偏多，21世纪00 年代降水偏少，10年代开始降水有所回升。总体来说，高原中南部和东北部降水增加趋势显著，西北部和东南部减少趋势明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）春季、夏季、秋季和冬季多年平均降水量分别为 $4 0 . 6 ~ \\mathrm { { m m } , 2 0 7 . 9 ~ \\mathrm { { m m } , 5 0 . 4 ~ \\mathrm { { m m } } } }$ 和 $6 . 8 ~ \\mathrm { m m }$ ，分别占年降水量的 $1 3 . 3 \\% . 6 8 . 0 \\% . 1 6 . 5 \\%$ 和 $2 . 2 \\%$ ，受东亚夏季风的影响，降水量主要集中于夏季；变异系数分别为冬季 $( 2 9 . 9 \\%$ ） $>$ 春季和秋季( $( 2 7 . 5 \\%$ ）>夏季( $1 6 . 9 \\%$ )，冬季降水量年际波动最强。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）夏季和秋季降水量呈减少趋势，趋势分别为 $- 5 . 7 5 \\mathrm { ~ m m ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 和 $- 0 . 4 2 \\mathrm { ~ m m ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 }$ （ $\\textstyle P > 0 . 0 5 ,$ ;春季和冬季降水量呈显著增加趋势，趋势分别为 $1 . 9 5 \\mathrm { ~ m m } \\cdot ( 1 0 \\mathrm { ~ a } ) ^ { - 1 }$ 和 $0 . 5 0 \\ \\mathrm { m m } \\cdot ( 1 0 \\ \\mathrm { a } ) ^ { \\ - 1 }$ （ $\\textstyle P < 0 . 0 5 ,$ ；季节降水量出现正负距平的年份和周期有所不同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）春季和冬季降水量呈增加趋势的站点居多，占全部站点的 $8 9 . 0 \\%$ 和 $8 4 . 6 \\%$ ,主要分布于高原东北部和中南部；夏秋季降水量呈下降趋势的站点占多数，约占所有站点的 $8 0 . 1 \\%$ 和 $5 7 . 4 \\%$ ，主要分布于高原东南部和西北部。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]ANGERERJ,HANGD,FUJISAKII,etal.Climate change and e cosystems of Asiawith emphasis on Inner Mongolia and Mongolia [J].Rangelands,2008,30(3） :46-51. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2］秦福莹.蒙古高原植被时空格局对气候变化的响应研究[D]. 内蒙古大学,2019,1-2.［QIN Fuying.Vegetation patterms and dynamics in response to climate change across the Mongolian Plateau[D].Doctor Thesis of Inner Mongolia University,2019,1- 2.]   \n[3]TONG S Q,ZHANG JQ,BAO Y H,et al. Spatial and temporal variations of vegetation cover and the relationships with climate factors in Inner Mongolia based on GIMMS NDVI3 $\\mathbf { g }$ data[J]. Journal of Arid Land,2017,9(3) :394-407.   \n[4]BAO G,BAO Y H,SANJJAVA A,et al. NDV-indicated long-term vegetation dynamics in Mongolia and their response to climate changeatbiomescaleJ].International Journalof Climatology， 2016,35(14) :4293-4306.   \n[5]HAO L,SUN G,LIU Y Q,et al. Effcts of precipitationon grassland ecosystem restoration under grazing exclusion in Inner Mongolia,China[J].Landscape Ecology,2014,29（10）:1657-1673.   \n[6]陈敏玲,张兵伟,任婷婷,等.内蒙古半干旱草原土壤水分对降 水格局变化的响应[J].植物生态学报,2016,40（7）：658- 668.[CHEN Minling,ZHANG Bingwei,REN Tingting et al. Responses of soil moisture to precipitation pattrn change in semiarid grasslands in Nei Mongol,China[J].Chinese Journal of Plant Ecology,2016,40(7） :658 -668.]   \n[7]VANDANDORJ S,MUNKHJARGAL E,BOLDGIV B,et al. Changes in event number and duration of rain types over Mongolia from 1981 to 2014[J].Environmental Earth Science,2017,76:70- 81.   \n[8]DAGVADORJD,BATJARGAL Z,NATSAGDORJL. Mongolia second assessment report on climate change 2O14[M]. Ulaanbaatar: Ministry of Environment and Green Development of Mongolia, 2014:88 -103.   \n[9］王菱,甄霖,刘雪林,等.蒙古高原中部气候变化及影响因素比 较研究[J].地理研究,2008,27（1）:171-180.[WANG Ling, ZHEN Lin,LIU Xuelin,et al. Comparative studies on climate changes and influencing factors in central Mongolian Plateau region [J].Geographical Research,2008,27(1）:171-180.]   \n[10]WANG J,BROWN D G,CHEN JQ. Drivers of the dynamics in net primary productivity across ecological zones on the Mongolian Plateau[J].Landscape Ecology,2013,28(4） :725-739.   \n[11]GOULDEN C E,MEAD J,HORWITZ R,et al. Interviews of Mongolian herders and high resolution precipitation data reveal an increase in short heavy rainsand thunderstorm activity insemi-arid Mongolia[J]. Climatic Change,2016,136(2）:1-15.   \n[12]JIANG L G,YAO ZJ,HUANG HQ,et al. Climate variability and change on the Mongolian Plateau; Historical variation and future predictions[J]. Climate Research,2016,67:1-14.   \n[13]HU Q,PANFF,PAN X B,et al. Spatial analysis of climate change in Inner Mongolia during 1961—2012,China[J].Applied Geography,2015,60:254 - 260.   \n[14]NANDINTSETSEG B,SHINODA M.Multi-decadal soil moisture trends in Mongolia and their relationships to precipitation and evapotranspiration[J].Arid Land Research and Management,2014, 28:247 -260.   \n[15]QINFY,JIA GS,YANG J,et al. Spatiotemporal variability of precipitation during l961—2014 across the Mongolian Plateau[J]. Journal of Mountain Science,2018,15(5）:992-1005.   \n[16]LU N,WILSKE B,NI J,et al. Climate change in Inner Mongolia from 1955 to 20o5:Trends atregional,biome and local scales[J]. Environmental Research Leers,2009,4:045006（6pp）.   \n[17］徐慧,陈鸣,黄进,等.内蒙古地区近53a降水格局的时空变化 特征[J].人民黄河,2015,37（10）:35－38.[XU Hui,CHEN M,HUANG J,et al.Spatial-temporal variations of precipitation pattern in Inner Mongolia in recent 53 years[J].Yellow River,2015, 37(10) :35 -38.]   \n[18］丁勇,萨茹拉,刘朋涛,等.近40 年内蒙古区域温度和降雨量 变化的时空格局[J].干旱区资源与环境,2014,28(4)：96- 102.[DING Yong,SA Rula,LIU Pengtao et al.Spatial changes of temperature and precipitation in Inner Mongolia in the past 40 years[J]. Journal of Arid Land Resources and Environment,2014, 28(4) :96 -102.]   \n[19]JACOBY G,PEDERSON N,ARRIGO R D. Temperature and precipitation in Mongolia based on dendroclimatic investigations[J]. Chinese Science Bulletin,2003,48(14):1474-1479.   \n[20]ENDO N, KADOTA T,MATSUMOTO J,et al. Climatology and trends in summer precipitation characteristics in Mongolia for the period 1960—1998[J].Journal of the Meteorological Society of Japan,2006,84(3）:543-551.   \n[21］刘兆飞,王蕊,姚治君.蒙古高原气温与降水变化特征及 CMIP5 气候模式评估[J].资源科学,2016,38（5）:956－969. [LIU Zhaofei, WANG Rui,YAO Zhijun. Air temperature and precipitation over the Mongolian Plateau and assessment of CMIP 5 climate models[J].Resources Science,2016,38(5） :956 -969.]   \n[22］丹丹.蒙古高原近35 年气候变化[D].呼和浩特:内蒙古师范 大学,2014.［DAN Dan.Climate changes in Mongolia Plateau during last 35 years[D].Hohhot:Inner Mongolia Normal University, 2014.]   \n[23］魏宝成,玉山,贾旭,等.基于AMSR-2 蒙古高原土壤水分反演 及对气象因子响应分析[J].中国生态农业学报,2016,24（6)： 837-844.[WEI Baocheng,YU Shan,JIA Xu,et al.Analysis of soil moisture retrieval and response to meteorological factors using AMSR-2[J]. Chinese Journal of Eco-Agriculture,2016,24（6）: 837 -844. ]   \n[24］刘钟龄.蒙古高原景观生态区域的分析[J].干旱区资源与环 境,1993,7（3-4）:256-261.[LIU Zhongling.Analysis of the landscape ecological area of MongolianPlateau[J]. Journalof Arid Land Resources and Environment,1993,7(3-4）:256-261.]   \n[25]YUE S,PILON P,CAVADIAS G.Power of the Mann-Kendall and Spearman's rho tests for detecting monotonic trends in hydrological series[J]. Journal of Hydrology,2002,259:254-271.   \n[26］郭小芹 刘明春,钱莉,等.从 Mann-Kendall特征看石羊河流域 降水量的演变规律[J].干旱区地理,2010,33（4）：593-599. [GUO Xiaoqin,LIU Mingchun,QIANLi,et al.Evolution regularity of precipitation in the Shi Yang River Basin on Mann-Kendall features[J].Arid Land Geography,2010,33（4）:593-599.]   \n[27］沈永平,王国亚.IPCC 第一工作组第五次评估报告对全球气候 变化认知的最新科学要点[J].冰川冻土,2013,35（5）：1068- 1076.[SHEN Yongping,WANG Guoya. Key findings and assessment results of IPCC WGI fifth assessment report[J]. Journal of Glaciology and Geocryology,2013,35（5）:1068-1076.]   \n[28]DORE M.Climate change and changes in global precipitation patterns:What do we know[J].Environment International,2005,31 (8) :1167 - 1181.   \n[29］徐康,祝从文,何金海,等.近50 年环贝加尔湖区变暖对中国 华北夏季降水的影响机理[J].高原气象,2011,30（2）：309- 317.[XU Kang,ZHU Congwen,HE Jinhai,et al. Impact of the sureface air temperature warming around Lake Baikal on trend of summer precipitation in north China in the past 5O years[J].Plateau Meteorology,2011,30(2）:309 -317.]   \n[30]WANG H J.The weakening of the Asian monsoon circulation after the end of 1970's[J].Advances in Atmospheric Sciences,2001, 18(3) :376 -386.   \n[31] ZHU Y L,WANG H J,ZHOU W,et al. Recent changes inthe summer precipitation patern in east China and the background circulation[J].Climate Dynamics,2011,36:1463-1473.   \n[32]HAN TT,CHEN HP,WANG H J. Recent changes in summer precipitation in northeast China and the background circulation[J]. International Journal of Climatology,2016,35（14）:4210 -4219.   \n[33］严中伟,季劲钧,叶笃正.60年代北半球夏季气候跃变—I.降 水和温度变化[J].中国科学(B辑),1990,（1):97－103.[YAN Zhongwei,JI Jinjun,YE Duzheng. Summer climate jump in the northern Hemisphere in the 196Os:I. precipitation and temperature change[J].Chinese Science（Series B）,1990,（1) :97-103.]   \n[34］施雅风,沈永平,李栋梁,等.中国西北气候由暖干向暖湿转型 的特征和趋势探讨[J].第四纪研究,2003,23（2）：152－164. [SHI Yafeng,SHEN Yongping,LI Dongliang,et al. Discussion on the present climate change from warm-dry to warm-wet in northwest China[J]. Quaternary Sciences,2003,23(2）:152-164.]   \n[35］闻正.黄土记录显示全球变暖导致东亚夏季风雨带北移[J]. 科学,2015,67（6）:31.[WEN Zheng.Loess records show that global warming leads to the northward shift of the summer monsoon belt in east Asia[J].Science,2015,67(6) :31.]   \n[36]LIU S L,KANG W P,WANG T.Drought variability in Iner Mongolia of northern China during 1960—2013 based on standardized precipitation evapotranspiration index［J].Environmental Earth Sciences,2016,75(2):145-158.   \n[37］秦福莹,贾根锁,杨劫,等.基于TRMM卫星数据的蒙古高原降 水精度评估与季节分布特征[J].干旱区研究,2018,35（2）： 395-403.[QIN Fuying,JIA Gensuo,YANG Jie,et al.Accuracy evaluation and seasonal distribution of precipitation over the Mongolian Plateau based on TRMM data[J].Arid Zone Research, 2018,35(2) :395 -403.]   \n[38］李文宝,李畅游,刘志娇,等.内蒙古中西部地区近60 年降水 分布特征及影响因素分析[J].内蒙古农业大学学报（自然科 学版）,2015,36（1）:85－94.[LI Wenbao,LI Changyou,LIU Zhijiao,etal.Distribution of precipitation and its effect factorsanalysis in the central and western regions of Inner Mongolia during the last 6O years[J]. Journal of Inner Mongolia Agricultural University(Natural Science Edition）,2015,36(1) :85-94.]   \n[39］高晶,王文,包福祥.内蒙古夏季降水特征及其与全球海温异 常的统计关系［J].内蒙古气象,2013，（2）：10-15.［GAO Jing,WANG Wen,BAO Fuxiang. Inner Mongolia summer precipitation features and its statistical relationships with global sea surface temperature anomalies[J]. Meteorology Journal of Iner Mongolia,2013,(2) :10-15.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Change trend and regional differentiation of precipitation over the Mongolian Plateau in recent 54 years ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "NA Yin-tai1²， QINFu-ying³4， JIA Gen-suo’， YANG Jie，BAO Yu-hai³ (1ResourcesandEnvironmentconomyCollge,InnerMongoliaUniversityofFinanceandEconomics，HohhotOo,Iner Mongolia,China；2PlanningandGeographic Information System Laboratory,Inner Mongolia UniversityofFinanceand Economics,，HohhotOoo,Inner ongolia,China；3CollegeofGeographical Sciene,InnerMongolia NormalUniesity, Hohot O10O22,InnerMongolia,China；4KeyLaboratoryof Mongolia Plateau Disasterand Ecological Security,Inner MongoliaNormalUniversity,HohhotOo2,Innerongolia,China；5IstituteoftmosphericPhysics,Chinesecademyof SciencesBeijingo9,hina；6InerongoliaUniversityofFinanceandEcoomics,ohoto,Inerongoiahna) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The topic of global climate has been the focus of scientific debate for nearlyhalf acentury.Precipitation change of Mongolian Plateau,where distributes the largest temperate grassand in the world,is not only a global change isue,but alsoone of themain driving factors of its fragile environment change.Climatic characteristics of precipitation and itsspatial and temporal variations were analyzed with Sen’sslope,Mann-Kendalltrend test and geostatistical method based onthe monthly precipitation data of 136 weather stations across the Mongolian Plateau during 1961—2014.The results show as follows:（1）Plateau averaged multi-year mean annual precipitation was $3 0 5 . 6 ~ \\mathrm { m m }$ with spatial distribution gradually decreasing from the northern,eastern and southeastern parts of the Plateau to the central regions.Annual precipitation showed a decreasing trend at the rate of $- 2 . 3 0 \\ \\mathrm { m m } \\cdot ( 1 0 \\ \\mathrm { a } ) \\ ^ { - 1 }$ （204 $^ { \\prime } P > 0 . 0 5 )$ over the Mongolian Plateau in recent 54 years with the obvious positive anomalies in the 1990s and negative ones in the 2000s of $2 1 ^ { \\mathrm { s t } }$ century. On the whole,significant decreasing trends of annual precipitation were observed inthesoutheasternand northwesternregion,while significant increasing trends were found inthe northeastern and central and southern regions.（2） Seasonal mean precipitation is $4 0 . 6 \\ \\mathrm { m m } , 2 0 7 . 9 \\ \\mathrm { m m } , 5 0 . 4 \\ \\mathrm { m m }$ and $6 . 8 \\ \\mathrm { m m }$ in spring,summer,autumn and winter,accounting for $1 3 . 3 \\%$ ， $6 8 . 0 \\%$ ， $1 6 . 5 \\%$ and $2 . 2 \\%$ of the annual precipitation,respectively.In inter-annual variability,precipitation insummer and autumn showed adecreasing trend at the rate of $- 5 . 7 5 \\mathrm { ~ m m ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 }$ and $- 0 . 4 2 \\mathrm { ~ m m ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 } \\mathrm { ~ ( ~ } P > 0 . 0 5 \\mathrm { ~ ) ~ }$ respectively over the period of 1961—2014,while precipitation in spring and winter showed a significant increasing trend at the rate of $1 . 9 5 \\ \\mathrm { m m } \\cdot$ （20 (10 a）-1 and $0 . 5 0 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { ~ a } ) ^ { - 1 } ( P < 0 . 0 5 )$ respectively.The years with positive or negative anomaly and periodic changes are quite diferent for the seasonal precipitation.（3）A majority of stations showed increasing trend for spring and winter precipitation,which accounting for $8 9 . 0 \\%$ and $8 4 . 6 \\%$ of all stations respectively,and mainly distributed inthe northeastand central southern partof the Mongolian Plateau.Whilealarge numberof stations displayed decreasing trend for summer and autumn precipitation,which accounting for $8 0 . 1 \\%$ and $5 7 . 4 \\%$ of all stationsrespectively,and mainlylocated inthe southeastand northwest parts of this Plateau.This paper foundopposite trends in the fraction of summer precipitation,with significant declines,while thecontributionof non-summer (spring,autumn and winter）precipitation increased,which implied aseasonal reallcation of precipitation in the study area.A decline of summer precipitation together with a strong temperature increase willincreaseevaporation rates,which willikelycause waterresource shortages,drought,and declines in vegetation productivity.This paper could provide scientific reference for accurate assessment of climate change and reasonable decision-making of ecological environment across the Mongolian Plateau. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:Mongolian Plateau；precipitation；change trends； seasonal variation；regional diferentiation ",
+        "page_idx": 8
+    }
+]

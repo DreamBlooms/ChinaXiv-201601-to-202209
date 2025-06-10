@@ -1,0 +1,541 @@
+[
+    {
+        "type": "text",
+        "text": "Complex-valued Renyi Entropy ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lipeng Pana, Yong Denga,b,c,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$a$ InstituteofFundamentalandFrontier Science,Unioersityof Electronic Scienceand TechnologyofChina, Chengdu,610054,China b School ofdation,ialesity,inn CSchoolofKnowledgecience,JapanAdoanced InstituteofcienceandTechnology,Nomi,kawa 923-1211,Japan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Complex-valued expression models have been widely used in the application of intelligent decision systems. However, there is a lack of entropy to measure the uncertain information of the complex-valued probability distribution. Therefore,how to reasonably measure the uncertain information of the complex-valued probability distribution is a gap to be filled. In this paper, inspired by the Renyi entropy, we propose the Complex-valued Renyi entropy, which can measure uncertain information of the complex-valued probability distribution under the framework of complex numbers,and is also the first time to measure uncertain information in the complex space. The Complex valued Renyi entropy contains the features of the classical Renyi entropy, i.e, the Complex-valued Renyi Entropy corresponds to different information functions with different parameters $q$ . Meanwhile, the Complex-valued Renyi entropy has some properties, such as non-negativity, monotonicity, etc. Some numerical examples can demonstrate the flexibilities and reasonableness of the Complex-valued Renyi entropy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: complex-valued probability distribution, Renyi entropy complex-valued Renyi entropy,uncertain information ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In view of the fact that modeling and measuring uncertain information is the basis of expert and artificial intelligence decision making,researchers have proposed a series of modeling theories, such as probability theory[1], Dempster-Shafer theory[2,3],fuzzy set theory[4], rough set theory[5] and their extensions[6,7,8]. Accordingly, effective theories for measuring uncertain information have also been proposed, such as Shannon entropy[9], belief entropy[10], fuzzy entropy[11], Renyi entropy[12], Tsallis entropy[13] and correlation entropies[11]. These theoretical refinements in real-valued space allow for more practical ap  \n10plications of expert and artificial intelligence decision making, such as group decision-making[14,15,16], pattern classification[17, 18], cluster analysis[19,   \n20], reliability analysis[21,22] and etc[23,24,25, 26]. In recent years,complex-valued functions have been successively introduced into uncertain information modeling theory. Ramot et al extended real  \n15 valued affiliation to complex-valued affiliation and proposed complex-valued fuzzy sets[27]. Alkouri and Salleh proposed complex-valued intuitionistic fuzzy sets and discussed the distance measure between complex-valued intuitionistic fuzzy sets[28],and some related theories of complex-valued functions have also been proposed based on belief function[29,30]. In addition, some informa  \n20 tion carriers containing complex-valued signals are emerging, such as image signals[31],audio signals[32], physiological signals[33]. However, the current uncertain information measurement methods in the real space space cannot reasonably measure the uncertain information of these complex value theories, further limiting the practical application of complex value theories in many   \n25fields. Therefore, proposing some reasonable uncertain information measures in the complex-valued framework is an urgent problem to be addressed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, inspired by the Renyi entropy[12], we propose a new entropy for measuring uncertain information in the complex-valued framework, name",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ly the Complex-valued Renyi entropy (CRE). CRE is a generalization of the 30 classical Renyi entropy in complex-valued spaces. With different parameters $\\alpha$ ,CRE can be transformed into different information functions,and CRE also has some properties, therefore, CRE has a high compatibility, which is proved by some numerical examples. Moreover, several numerical examples explain thereasonablenessof CRE. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "35 The remainder of the work is organized as follows. Section 2 introduces the basics of Renyi entropy. The Complex-valued Renyi entropy is presented in Section 3. Section 4 proves the compatibility and reasonableness of Complexvalued Renyi entropy. The work is summarized in Section 5. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.Preliminaries ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "40 In the section, the basic knowledge of Renyi entropy is introduced. In 1970, Renyi proposed the $q$ - order generalized entropy in phase space, called Renyi entropy, which is also is a common generalized entropy, and detailed definitions are as follows:[12] ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Definition 2.1 (Renyi entropy) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "45 Suppose that $p _ { j }$ is the probability of falling in the $j - t h$ phase frame system state, $N$ is the number of phase frames, and satisfied that $\\begin{array} { r } { \\sum _ { j = 1 } ^ { N } p _ { j } = 1 } \\end{array}$ ，then Renyi entropy is described by the following form. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { q } = \\frac { 1 } { 1 - q } l o g _ { 2 } \\sum _ { j = 1 } ^ { N } \\left( p _ { j } \\right) ^ { q }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Obviously, the Renyi entropy has some properties in measuring the uncertainty of the probability distribution, defined as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "50 Definition 2.2 (The properties of Renyi entropy) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "P.1: Non-negativity, i.e., $R _ { q } \\geq 0$ （号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "P.2: Monotonically decreasing ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "P.3: Convexity, i.e., if and only if $0 < q \\leq 1 , R _ { q }$ is concave function. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Renyi entropy can be transferred to other information functions as $\\alpha$ changes, 55as described in detail below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Shannon entropy: when $\\alpha = 1$ , Renyi entropy degenerates to the Shannon entropy, that is to say, $\\begin{array} { r } { R _ { 1 } = \\sum _ { j = 1 } ^ { N } p _ { j } l o g _ { 2 } p _ { j } ; } \\end{array}$ （204号 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hartley entropy: when $\\alpha  0$ ,then $R _ { \\alpha \\to 0 } = l o g _ { 2 } N ;$ （2 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Collision entropy: when $\\alpha = 2$ ,then $R _ { 2 } = - l o g _ { 2 } \\sum _ { j = 1 } ^ { N } \\left( p _ { j } \\right) ^ { 2 } = - l o g _ { 2 } P ( X =$ 60 $\\gamma$ ),where $X$ and $Y$ are independently and identically distributed; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. The Complex-valued Renyi entropy complex-valued probability distribution ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this section,we propose the Complex-valued Renyi entropy (CRE) to measuring uncertain information in the complex-valued space,it can be con55verted to other information functions,being defined as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Definition 2.2 ( Complex-valued Renyi entropy) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Suppose there is a complex-valued probability distribution $P = \\{ \\hat { p _ { 1 } } , \\hat { p _ { 2 } } , \\cdot \\cdot \\cdot , \\hat { p _ { j } } , \\cdot \\cdot \\cdot \\hat { p _ { n } } \\} _ { . }$ where $\\hat { p _ { j } } = p _ { j } e ^ { i 2 \\pi \\theta _ { j } }$ and satisfied that $\\begin{array} { r } { \\sum _ { j = 1 } ^ { n } \\left( p _ { j } \\right) ^ { 2 } = 1 , \\theta _ { j } \\in \\left[ 0 , 1 \\right] } \\end{array}$ . The uncertainty of the complex-valued probability distribution is measured by the following 70format. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\breve { R } _ { q } = \\frac { 1 } { 1 - q } l o g _ { 2 } \\sum _ { j = 1 } ^ { n } \\left( \\hat { p _ { j } } \\hat { p _ { j } } ^ { ' } \\right) ^ { q }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\hat { p _ { j } } ^ { \\prime }$ is the conjugate of $\\hat { p _ { j } }$ .Next, we discuss the information function corresponding to Complex-valued Renyi entropy when $\\alpha$ changes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "·when $\\alpha = 1$ , CRE degraded to Shannon entropyof complex-valued framework. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Consider ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { 1 } { 1 - q } } l o g _ { 2 } \\sum _ { j = 1 } ^ { N } \\left( { \\hat { p } } _ { j } { \\hat { p } } _ { j } ^ { \\prime } \\right) ^ { q } = { \\frac { 1 } { - 1 } } { \\frac { \\sum _ { j = 1 } ^ { n } \\left( { \\hat { p } } _ { j } { \\hat { p } } _ { j } ^ { \\prime } \\right) ^ { q } l n \\left( { \\hat { p } } _ { j } { \\hat { p } } _ { j } ^ { \\prime } \\right) } { \\sum _ { j = 1 } ^ { n } \\left( { \\hat { p } } _ { j } { \\hat { p } } _ { j } ^ { \\prime } \\right) ^ { q } } } = - \\sum _ { j = 1 } ^ { n } { \\hat { p } } _ { j } { \\hat { p } } _ { j } ^ { \\prime } l n \\left( { \\hat { p } } _ { j } { \\hat { p } } _ { j } ^ { \\prime } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Next, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\sum _ { j = 1 } ^ { n } \\hat { p _ { j } } \\hat { p _ { j } } ^ { ' } l n \\left( \\hat { p _ { j } } \\hat { p _ { j } } ^ { ' } \\right) = - \\left( \\sum _ { j = 1 } ^ { n } \\hat { p _ { j } } \\hat { p _ { j } } ^ { ' } l n \\hat { p _ { j } } + \\sum _ { j = 1 } ^ { n } \\hat { p _ { j } } \\hat { p _ { j } } ^ { ' } l n \\hat { p _ { j } } ^ { ' } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l } { { \\displaystyle = - \\left[ \\left( \\sum _ { j = 1 } ^ { n } \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } l n p _ { j } + \\sum _ { j = 1 } ^ { n } \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } l n e ^ { i 2 \\pi \\theta _ { j } } \\right) + \\left( \\sum _ { j = 1 } ^ { n } \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } l n p _ { j } + \\sum _ { j = 1 } ^ { n } \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } l n e ^ { - i 2 \\pi \\theta _ { j } } \\right) \\right] } }  \\\\ { { \\displaystyle = - \\left( \\sum _ { j = 1 } ^ { n } \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } l n p _ { j } + i \\sum _ { j = 1 } ^ { n } \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } 2 \\pi \\theta _ { j } \\right) - \\left( \\sum _ { j = 1 } ^ { n } \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } l n p _ { j } - i \\sum _ { j = 1 } ^ { n } \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } 2 \\pi \\theta _ { j } \\right) } } \\\\ { { \\displaystyle \\propto - \\left( \\sum _ { j = 1 } ^ { n } \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } l o g _ { 2 } p _ { j } + i \\sum _ { j = 1 } ^ { n } \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } 2 \\pi \\theta _ { j } \\right) - \\left( \\sum _ { j = 1 } ^ { n } \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } l o g _ { 2 } p _ { j } - i \\sum _ { j = 1 } ^ { n } \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } 2 \\pi \\theta _ { j } \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Therefore,wedescribe $\\breve { R } _ { 1 }$ as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\check { R } _ { 1 } = \\left\\| - 2 \\left( \\sum _ { j = 1 } ^ { n } \\hat { p _ { j } } \\hat { p _ { j } } ^ { ' } l o g _ { 2 } p _ { j } - \\frac { i \\sum _ { j = 1 } ^ { n } \\hat { p _ { j } } \\hat { p _ { j } } ^ { ' } 2 \\pi \\theta _ { j } } { 2 \\pi } \\right) \\right\\|\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "·when $\\alpha  0$ , CRE degraded to Hartley entropy of complex-valued framework. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\check { R } _ { \\alpha \\to 0 } = { \\frac { 1 } { 1 - 0 } } l o g _ { 2 } \\sum _ { j = 1 } ^ { n } \\left( \\hat { p _ { j } } \\hat { p _ { j } } ^ { \\prime } \\right) ^ { 0 } = l o g _ { 2 } N\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "·when $\\alpha = 2$ , CRE degraded to Collision entropy of complex-valued framework. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\breve { R } _ { 2 } = \\frac { 1 } { 1 - 2 } l o g _ { 2 } \\sum _ { j = 1 } ^ { n } \\left( \\hat { p _ { j } } \\hat { p _ { j } } ^ { \\prime } \\right) ^ { 2 } = - l o g _ { 2 } \\sum _ { j = 1 } ^ { n } \\left( \\hat { p _ { j } } \\hat { p _ { j } } ^ { \\prime } \\right) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Next,we discuss the properties of the CRE. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "P.1: Non-negativity, i.e., ${ \\check { R } _ { q } } \\ge 0$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Proof: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Consider $q > 1 ,$ and $0 \\leq \\hat { p } _ { j } \\hat { p _ { j } } ^ { \\prime } \\leq 1 ,$ then $\\begin{array} { r } { \\sum _ { j = 1 } ^ { n } \\left( \\hat { p _ { j } } \\hat { p _ { j } } ^ { \\prime } \\right) ^ { q } \\leq \\sum _ { j = 1 } ^ { n } \\hat { p _ { j } } \\hat { p _ { j } } ^ { \\prime } = 1 . } \\end{array}$ Further, $\\begin{array} { r } { l o g _ { 2 } \\sum _ { j = 1 } ^ { n } \\left( \\hat { p _ { j } } \\hat { p _ { j } } ^ { \\prime } \\right) ^ { q } \\leq 0 , } \\end{array}$ finally, ${ \\check { R } _ { q } } \\ge 0$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "35 Wh $\\begin{array} { r } { \\mathrm { e n } q < 1 , \\sum _ { j = 1 } ^ { \\tilde { n } } \\left( \\hat { \\vec { p } _ { j } } \\hat { p _ { j } ^ { \\prime } } \\right) ^ { q } \\ge \\sum _ { j = 1 } ^ { n } \\hat { p } _ { j } \\hat { p _ { j } ^ { \\prime } } = 1 . \\mathrm { T h e n } , l o g _ { 2 } \\sum _ { j = 1 } ^ { n } \\left( \\hat { p _ { j } } \\hat { p _ { j } ^ { \\prime } } \\right) ^ { q } \\ge 0 , } \\end{array}$ and ${ \\check { R } _ { q } } \\ge 0$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "When $q = 1$ , CRE degenerates to ${ \\breve { R } } _ { 1 } ,$ and $\\check { R } _ { 1 } \\geq 0$ , that is to say, ${ \\check { R } _ { q } } \\ge 0$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "P.2: Monotonically decreasing,i.e., ${ \\breve { R } } _ { q }$ decreases as $q$ increases. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Proof: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By taking the derivative of ${ \\breve { R } } _ { q }$ with respect to parameter $q ,$ we can obtain: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d \\check { R } _ { q } } { d q } = \\frac { 1 } { 1 - q } \\sum _ { i = 1 } ^ { n } \\frac { 1 } { \\left( \\hat { p _ { j } } \\hat { p _ { j } } ^ { \\prime } \\right) ^ { q } } l n \\left( \\hat { p _ { j } } \\hat { p _ { j } } ^ { \\prime } \\right) + \\frac { 1 } { \\left( 1 - q \\right) ^ { 2 } } l n \\sum _ { i = 1 } ^ { n } \\left( \\hat { p _ { j } } \\hat { p _ { j } } ^ { \\prime } \\right) ^ { q }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle = \\frac { 1 } { 1 - q } \\sum _ { j = 1 } ^ { n } { \\frac { \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } \\right) ^ { q } } { \\sum _ { j = 1 } ^ { n } \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } \\right) ^ { q } } } { l n \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } } - \\frac { 1 } { \\left( 1 - q \\right) ^ { 2 } } { l n \\frac { 1 } { \\sum _ { i = 1 } ^ { n } \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } \\right) ^ { q } } } } \\\\ { \\displaystyle = \\frac { 1 } { 1 - q } \\sum _ { j = 1 } ^ { n } { \\frac { \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } \\right) ^ { q } } { \\sum _ { j = 1 } ^ { n } \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } \\right) ^ { q } } { l n \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } } - \\frac { 1 } { \\left( 1 - q \\right) ^ { 2 } } { l n \\frac { \\sum _ { i = 1 } ^ { n } \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } \\right) ^ { q } } { \\sum _ { i = 1 } ^ { n } \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } \\right) ^ { q } } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\frac { 1 } { 1 - q } \\sum _ { j = 1 } ^ { n } \\frac { \\left( \\hat { p _ { j } } \\hat { p _ { j } ^ { \\prime } } \\right) ^ { q } } { \\sum _ { j = 1 } ^ { n } \\left( \\hat { p _ { j } } \\hat { p _ { j } ^ { \\prime } } \\right) ^ { q } } l n \\hat { p _ { j } } \\hat { p _ { j } ^ { \\prime } } - \\frac { 1 } { \\left( 1 - q \\right) ^ { 2 } } l n \\frac { \\sum _ { i = 1 } ^ { n } \\left( \\hat { p _ { j } } \\hat { p _ { j } ^ { \\prime } } \\right) ^ { q } } { \\sum _ { i = 1 } ^ { n } \\left( \\hat { p _ { j } } \\hat { p _ { j } ^ { \\prime } } \\right) ^ { q } } \\left( \\hat { p } _ { j } \\hat { p _ { j } ^ { \\prime } } \\right) ^ { 1 - q }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\frac { 1 } { \\left( 1 - q \\right) ^ { 2 } } \\left[ \\underset { j = 1 } { \\overset { n } { \\sum } } \\frac { \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } \\right) ^ { q } } { \\sum _ { j = 1 } ^ { n } \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } \\right) ^ { q } } l n \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } \\right) ^ { 1 - q } - l n \\underset { j = 1 } { \\overset { n } { \\sum } } \\frac { \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } \\right) ^ { q } } { \\sum _ { j = 1 } ^ { n } \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } \\right) ^ { q } } \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { ' } \\right) ^ { 1 - q } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From Jensen's inequality, it follows that if $f \\left( x \\right)$ is a concave function, then $E \\left( f \\left( X \\right) \\right) \\ \\leq \\ f \\left( E \\left( X \\right) \\right) .$ and if $f \\left( x \\right)$ is a convex function, then $E \\left( f \\left( X \\right) \\right) ~ \\geq$ $f \\left( E \\left( X \\right) \\right)$ , and $L n$ is a concave function, then ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { j = 1 } ^ { n } \\frac { \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { \\prime } \\right) ^ { q } } { \\sum _ { j = 1 } ^ { n } \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { \\prime } \\right) ^ { q } } l n \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { \\prime } \\right) ^ { 1 - q } - l n \\sum _ { j = 1 } ^ { n } \\frac { \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { \\prime } \\right) ^ { q } } { \\sum _ { j = 1 } ^ { n } \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { \\prime } \\right) ^ { q } } \\left( \\hat { p } _ { j } \\hat { p } _ { j } ^ { \\prime } \\right) ^ { 1 - q } \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thus, ${ \\breve { R } } _ { q }$ decreases as $q$ increases. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "P.3: Convexity, i.e., if and only if $0 < q \\leq 1 , \\breve { R } _ { q }$ is concave function. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Proof: ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Consider when $0 < q < 1 , l n ( x )$ and $x ^ { q }$ are both concave functions, then $\\begin{array} { r } { \\breve { R } _ { q } = \\frac 1 { 1 - q } l o g _ { 2 } \\sum _ { j = 1 } ^ { n } \\left( \\hat { p _ { j } } \\hat { p _ { j } } ^ { \\prime } \\right) ^ { q } } \\end{array}$ is also a concave functions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "95 When $\\begin{array} { r } { q = 1 , - \\left( \\sum _ { j = 1 } ^ { n } \\hat { p _ { j } } \\hat { p _ { j } } ^ { ' } l o g _ { 2 } p _ { j } - \\frac { i \\sum _ { j = 1 } ^ { n } \\hat { p _ { j } } \\hat { p _ { j } } ^ { ' } 2 \\pi \\theta _ { j } } { 2 \\pi } \\right) } \\end{array}$ and $\\left\\| { \\big \\| } _ { 2 } \\right.$ are the concave functions, thus, $\\breve { R } _ { 1 }$ is also a concave function. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When $q \\geq 1 , l n ( x )$ is a concave function, but $x ^ { q }$ is a convex function, then ${ \\breve { R } } _ { q }$ is neither a convex function nor a concave function. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary, if and only if $0 < q \\leq 1 , \\breve { R } _ { q }$ is concave function. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "100 4. Numerical examples ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this section, the flexibilities and reasonableness of CRE for uncertain information measures is explained through several numerical examples in a complex-valued framework. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Example.1 Suppose there exists a set consisting of elementary events, denoted as $\\boldsymbol { E } = \\{ e _ { 1 } , e _ { 2 } , e _ { 3 } \\}$ ，and the complex-valued probability distribution is described in $E$ as follows: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { P } = \\left\\{ 1 e ^ { i 2 \\pi 0 } , 0 , 0 \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "With the above equation, we can get to the uncertainty information measurement results corresponding to parameters $q ,$ as shown in Table 1. As can be seen in Table 1, for any $q ,$ the measurement of the probability distribution $\\hat { P }$ is O,which is an intuitive result, because the probability of occurrence of event $e _ { 1 }$ is 1. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Example.2 There exists a complex-valued probability distribution $\\hat { P }$ corresponding to the set of fundamental events $E = \\{ e _ { 1 } , e _ { 2 } , e _ { 3 } , e _ { 4 } \\} _ { . }$ noted as follows: ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/eebe382a557226fba55a4ad3d72a3cf41eccac464649c2ca3277b44f4883fb42.jpg",
+        "table_caption": [
+            "Table1: The measurement of uncertain information in Example 1. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Rq</td><td>Rq=0</td><td>Rq=0.5</td><td></td><td></td><td>Rg→1Rq=2Rq=8</td></tr><tr><td>Entropy</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { P } = \\left\\{ \\sqrt { 0 . 2 } e ^ { i 2 \\pi 0 . 3 } , \\sqrt { 0 . 1 } e ^ { i 2 \\pi 0 . 5 } , \\sqrt { 0 . 4 } e ^ { i 2 \\pi 0 . 4 } , \\sqrt { 0 . 3 } e ^ { i 2 \\pi 0 . 9 } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f49bc045454b4bb73dade344a98ac3ace93aa67182d777449b9737db1b8e5f8.jpg",
+        "table_caption": [
+            "Table 2: The measurement of uncertain information in Example 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Rq</td><td>Rq=0</td><td>Rq=0.5</td><td>Rq→1</td><td>Rq=2</td><td>Rq=8</td></tr><tr><td>Entropy</td><td>2</td><td>1.9175</td><td>2.1391</td><td>1.7370</td><td>1.4904</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The results of CRE measures on $\\hat { P }$ are shown in Table 2. It can be seen from Table 2, that different values of $p$ correspond to different results of measure, for example, when $q = 0$ ${ \\breve { R } } _ { 0 } = 2$ ,and $q = 0 . 5$ $\\breve { R } _ { 0 . 5 } = 1 . 9 1 7 5$ , Obviously, when 105 $q \\in [ 0 , 1 )$ ，then ${ \\breve { R } } _ { q }$ is monotonically decreasing. When $q = 1 , \\breve { R } _ { 1 } = 2 . 1 3 9 1 ,$ which characterizes the uncertainty of amplitude and phase angle,and also $\\breve { R } _ { 8 }$ has more uncertainty than ${ \\breve { R } } _ { 2 }$ for $\\hat { P }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Example.3 Suppose there is a complex-valued probability distribution $\\hat { P } =$ $\\left\\{ \\sqrt { 0 . 4 } e ^ { i 2 \\pi 0 . 4 } , \\sqrt { 0 . 3 } e ^ { i 2 \\pi 0 . 2 } , \\sqrt { 0 . 1 } e ^ { i 2 \\pi 0 . 8 } \\right\\}$ corresponding to thesetof elementary 110 events $E$ .when $q$ varies,the uncertainty measure of CRE for this probability distribution is shown in Figure 1. From Figure 1, we can see that ${ \\breve { R } } _ { q }$ is larger than O when $q$ changes from O to 10o. Moreover, it proves that ${ \\check { R } } _ { q }$ has monotonic decreasing property. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4a701c289fd8c7bee9ccbe5044fb7f89c4193738d9678f0641bad35065efd19.jpg",
+        "img_caption": [
+            "Figure 1: Uncertainty measurement results Figure 2: Uncertainty measurement results when $q$ varies when $| E |$ varies "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "115 Example.4 Suppose there exists a complex-valued probability distribution $\\hat { P }$ in the set of basic eventsE,te distributionsatisfies β= ei2π，El is the number of events,and its variation is shown in Table 3. The uncertainty measure for the complex-valued probability distribution $\\hat { P }$ based on CRE is shown in Figure 2. As can be seen from the figure, the uncertainty of this complex  \n120 valued distribution increases continuously as the basic events increase.When $| E | = 3 2$ ,for any $q , \\breve { R } _ { q }$ is the largest. This example demonstrates that CRE can effectively measure the uncertainty of the complex-valued probability distribution under the condition that the number of basic events changes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Example.5 There is a complex-valued probability distribution P = {αei2π0.5, βei2π0.2, ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/e48976d9e1406fa6a3bcb199bdc0199f4f34304a6773d3ab0f4edf7f336e6224.jpg",
+        "table_caption": [
+            "Table 3: The set of basic events $E$ in Example 4. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>|E|</td><td>E</td></tr><tr><td>1</td><td>{e1}</td></tr><tr><td>2</td><td>{e1,e2}</td></tr><tr><td>3</td><td>{e1,e2,e3}</td></tr><tr><td>j</td><td>{e1,e2,e3·.,ej}</td></tr><tr><td>32</td><td>{e1,e2,e..,ej,·.,e32}</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "125 $\\sqrt { 1 - \\alpha ^ { 2 } - \\beta ^ { 2 } } e ^ { i 2 \\pi 0 . 1 } \\biggr \\}$ m $E = \\{ e _ { 1 } , e _ { 2 } , e _ { 3 } \\}$ where the relationship between $\\alpha$ and $\\beta$ is shown in Figure 3(a). We can see from Figure 3(a) that $\\alpha$ and $\\beta$ satisfy $0 \\leq \\alpha \\leq 1 , 0 \\leq \\beta \\leq 1$ and $0 \\leq \\alpha ^ { 2 } + \\beta ^ { 2 } \\leq 1$ Figure $3 ( \\boldsymbol { \\mathrm { b } } )$ is the measurement ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/30441a6b1c54a28d9f425fab5bad742401f45bb9d1631bc70088fc479a94a7e2.jpg",
+        "img_caption": [
+            "Figure 3: The uncertainty measurements based on CRE under different parameters $p$ （20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "of $\\hat { P }$ based on CRE when $q = 0 .$ ，which shows that ${ \\breve { R } } _ { q = 0 }$ does not vary with $\\alpha$ and $\\beta$ . This is reasonable. It is know by Equation (4) that the factor affect130 ing $\\breve { R } _ { q = 0 }$ is the number of basic events. When $q = 0 . 5 ,$ ，the measurement of $\\hat { P }$ based on CRE is shown in Figure $3 ( \\mathrm { c } )$ . From the figure, we can know that （20 ${ \\breve { R } } _ { q = 0 . 5 } \\ \\leq \\ { \\breve { R } } _ { q = 0 } ,$ regardless of the variation of $\\alpha$ and $\\beta$ When $q \\to 1 , \\breve { R } _ { q \\to 1 }$ measures the uncertainty between phase angle and amplitude in $\\hat { P } _ { . }$ ,as shown in Figure 3(d). Figure $3 ( \\mathrm { d } )$ is asymmetric,which is intuitive. In $\\hat { P } _ { . }$ ，the phase 135 angles of the three fundamental events are not equal leading to measurements that are also not symmetric. Figure 3(e) and Figure 3(f) show the uncertainty of CRE measurement in $\\hat { P }$ when $q = 2$ and $q = 8$ , respectively, from which it can be seen that in the same coordinate system, $\\breve { R } _ { q = 2 } \\geq \\breve { R } _ { q = 8 }$ . This example demonstrates the reasonable results that can be obtained from the CRE when 140 the support of a proposition changes. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.Conclusion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In this paper, given that current methods of uncertainty measurement cannot effectively measure the uncertainty of complex-valued probability distributions, inspired by the Renyi entropy, we propose the Complex-valued Renyi   \n145 entropy. The Complex-valued Renyi entropy provides an effective measure of uncertainty of probability distributions in a complex-valued framework. We discuss the effect of the change of the parameter $q$ in the Complex-valued Renyi entropy, and we also discuss some properties of the Complex-valued Renyi entropy, and further, verify the Complex-valued Renyi entropy can effective  \n150 ly and reasonably measure the uncertainty of the complex-valued probability distribution by numerical examples when the propositional support degree and the number of underlying events change. In addition, there are two future research directions for this work, firstly, first,to study the meaning of the parameter $q$ representation in CRE under the framework of complex-valued   \n155probability distribution. Second,some related concepts of the Complex-valued ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Renyi entropy, such as divergence and etc, are discussed to further explain its physical meaning and apply it to engineering practice. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Declaration of competing interest ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that they have no known competing financial interests 160 or personal relationships that could have appeared to influence the work reported in this paper. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The work is partially supported by National Natural Science Foundation of China (Grant No. 61973332), JSPS Invitational Fellowships for Research in Japan (Short-term). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]P.-S.Laplace,Analytical theoryof probabilities,published in. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[2] A.Dempster, Upper and lower probabilities induced by a multivalued mapping(upper and lower probabilities induced by multivalued map  \n170 ping). [3] G. Shafer, A mathematical theory of evidence,Vol. 42,Princeton university press, 1976. [4] L. A. Zadeh, Fuzzy sets, in: Fuzzy sets, fuzzy logic, and fuzzy systems: selected papers by Lotfi A Zadeh, World Scientific,1996, pp.394-432.   \n175 [5] Z. Pawlak, Rough sets, International journal of computer & information sciences 11 (5) (1982) 341-356. [6] K.T. Atanassov,Intuitionistic fuzzy sets, Vol. 20,Springer, 1986,pp.87-96. [7] R.R. Yager, A. M. Abbasov, Pythagorean membership grades,complex numbers,and decision making, International Journal of Intelligent Sys   \n180 tems 28 (5) (2013) 436-452. [8] X. Gao, Y. Deng, Quantum model of mass function, International Journal of Intelligent Systems 35 (2) (2020) 267-282. [9] C.E. Shannon, A mathematical theory of communication,ACM SIGMOBILE mobile computing and communications review 5 (1) (2001) 3-55.   \n185[10] Y. Deng, Information volume of mass function, International Journal of Computers Communications & Control 15 (6) (2020) 3983. doi:https: //doi.org/10.15837/ijccc.2020.6.3983. [11] J. Deng, Y. Deng, Information volume of fuzzy membership function., International Journal of Computers, Communications & Control 16 (1).   \n190[12] A. Renyi, et al., On measures of entropy and information, in: Proceedings of the Fourth Berkeley Symposium on Mathematical Statistics and Probability, Volume 1: Contributions to the Theory of Statistics, The Regents of the University of California, 1961. [13] C. Tsallis,Possible generalization of boltzmann-gibbs statistics, Journal of   \n195 statistical physics 52 (1) (1988) 479-487. [14] X. Peng, Z. Luo,Decision-making model for chinas stock market bubble warning: the cocoso with picture fuzzy information, Artificial Intelligence Review (2021) 1-23. [15] G. Yari,A. Sajedi,M. Rahimi, Portfolio selection in the credibilistic frame  \n200 work using renyi entropy and renyi cross entropy, International Journal of Fuzzy Logic and Intelligent Systems 18 (1) (2018) 78-83. [16] R. Tao, Z. Liu, R. Cai, K. H. Cheong, A dynamic group mcdm model with intuitionistic fuzzy set: Perspective of alternative queuing method, Information Sciences 555 (2021) 85-103.   \n205[17] A. V. Karpagam, M. Manikandan, Multi-level fuzzy based renyi entropy for linguistic classification of texts in natural scene images, International Journal of Fuzzy Systems 22 (2) (2020) 438-449. [18] L. Xu,L. Bai, X. Jiang, M. Tan, D. Zhang, B.Luo, Deep rényi entropy graph kernel, Pattern Recognition 111 (2021) 107668.   \n210[19] C. Wu, N. Liu, Robust suppressed competitive picture fuzzy clustering driven by entropy, International Journal of Fuzzy Systems 22 (8) (2020) 2466-2492. [20] F. Oggier, A. Datta, Renyi entropy driven hierarchical graph clustering, PeerJ Computer Science 7 (2021) e366.   \n215[21] M. Xu, P. Shang, S. Zhang, Multiscale rényi cumulative residual distribution entropy: Reliability analysis of financial time series, Chaos, Solitons & Fractals 143 (2021) 110410. [22] S.-H. Wang, X. Wu, Y.-D. Zhang, C. Tang, X. Zhang, Diagnosis of covid19 by wavelet renyi entropy and three-segment biogeography-based op  \n220 timization, International Journal of Computational Intelligence Systems 13 (1) (2020) 1332-1344. [23] Z. E. Giski, A. Ebrahimzadeh,D. Markechova, Rényi entropy of fuzzy dynamical systems, Chaos, Solitons & Fractals 123 (2019) 244-253. [24] I. T. Koponen, E. Palmgren, E. Keski-Vakkuri, Characterising heavy-tailed   \n225 networks using q-generalised entropy and q-adjacency kernels, Physica A: Statistical Mechanics and its Applications 566 (2021) 125666. [25] S. Koltcov, Application of rényi and tsallis entropies to topic modeling optimization, Physica A: Statistical Mechanics and its Applications 512 (2018) 1192-1204.   \n230[26] L. Wang, L. Ma, C. Wang, N.-g. Xie, J. M. Koh,K. H. Cheong, Identifying influential spreaders in social networks through discrete moth-flame optimization, IEEE Transactions on Evolutionary Computation. [27] D. Ramot, R. Milo, M. Friedman,A. Kandel, Complex fuzzy sets, IEEE Transactions on Fuzzy Systems 10 (2) (2002) 171-186.   \n235[28] A. U. M. Alkouri, A. R. Salleh, Complex atanassov's intuitionistic fuzzy relation, in: Abstract and Applied Analysis, Vol. 2013, Hindawi, 2013. [29] L.Pan, Y. Deng, 202103.00132,chinaXiv (2021) 202103.00132. [30] F. Xiao, Generalized belief function in complex evidence theory, Journal of Intelligent & Fuzzy Systems (Preprint) (2020) 1-9.   \n240[31] R.Trabelsi，I. Jabri,F. Melgani，F. Smach，N. Conci，A. Bouallegue, Complex-valued representation for rgb-d object recognition, in: PacificRim Symposium on Image and Video Technology, Springer, 2017, pp. 17- 27. [32] A. R. Diewald, M. Steins, S. Müller, Radar target simulator with complex  \n245 valued delay line modeling based on standard radar components,Advances in Radio Science 16 (F.) (2018) 203-213. [33] Z. Wang, X. Wang, Y. Li, X. Huang, Stability and hopf bifurcation of fractional-order complex-valued single neuron model with time delay, International Journal of Bifurcation and Chaos 27 (13) (2017) 1750209. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

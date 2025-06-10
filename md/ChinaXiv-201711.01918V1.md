@@ -1,0 +1,128 @@
+# Cyprinus-like pharyngeal bones and teeth (Teleostei, Cypriniformes, Cyprinidae) from the Early-Middle Oligocene deposits of South China
+
+CHEN Geng-Jiao1,2 CEN Li-Di1 LIU Juan34 (1 Natural History Museum of Guangxi Zhuang Autonomous Region Nanning 5300l2,China cgj@nhmg.org) (2StateKeyLaboratoryofPalaeobiologyandStratigraphy,NanjingInstituteofGeologyandPalaeontology,Chinese Academyof Sciences Nanjing 210oo8,China) (3DepartmentofBiological Sciences,UniversityofAlberta Edmonton,Alberta T6G2E9,Canada) (4Division of Paleontology,American Museum ofNatural History New York NY10024,USA)
+
+AbstractHere we describe tNanningocyprinus wui gen. et sp. nov,a fossil Cyprinus-like fish from the Early-Middle Oligocene deposits of Langdong, Nanning Basin, Guangxi Province, South China. tNanningocyprinus wui is represented by a number of pharyngeal bones and teeth. It differs from all other cyprinid fishes in the following character combination: tooth formula —3·2·1,crushing molar-like Al much larger than A2,only one groove on the grinding surface of A2 and Bl respectively,and the anterior angle of the pharyngeal bone triangular and prominent. The new-found Cyprinus-like fish,along with the previously known Late Eocene tEoprocypris maomingensis (Procypris-like) and Oligocene +Huashancyprinus robustispinus (Cyprinus-like) from South China,further indicates an early branching and diversification of the Cyprininae (Cyprinidae) in this area.
+
+Key WordsNanning Basin; Yongning Formation, Oligocene; Cyprinidae, pharyngeal bone and teeth
+
+Citation Chen G J, Cen L D,Liu J,2017. Cyprinus-like pharyngeal bones and teeth (Teleostei, Cypriniformes,Cyprinidae) from the Early-Middle Oligocene deposits of South China. Vertebrata PalAsiatica,55(3): 201-209
+
+Many disarticulated bones of fishes and reptiles have been found from Early-Middle Oligocene deposits in Langdong,Nanning Basin, Guangxi, South China since 2Ooo (Chen et al., 2015a). Among them, some are the pharyngeal bones (enlarged fifth ceratobranchial) and teeth of a Cyprinus-like fish. Though fishes of Cyprinus,a genus of Cyprinidae that contains Asian Common Carp,are very common in the present freshwater fauna, little is known about their early evolution. Only one genus with one species +Huashancyprinus robustispinus, which closely related to Cyprinus,have been found from the Paleogene (Chen and Chang, 2011).Therefore,the following description of new fosil materials of Cyprinus-like fish is in need to further understanding of the morphology, diversification,distribution,and evolution of the Cyprinus,and even the family Cyprinidae,which is the most diversified and speciose freshwater fish group (Nelson et al, 2016).
+
+# 1 Materials and methods
+
+Fossil materials studied in this paper were collected from the Early-Middle Oligocene deposits in Langdong,Nanning, Guangxi, China,and are deposited in the collection of the Natural History Museum of Guangxi Zhuang Autonomous Region (NHMG) with catalog numbers NHMG 033663-033672. The terminology of the pharyngeal bone and teeth is mainly based on Chu (1935). Tooth positions in the adult dentition are numbered according to Nakajima (1984). The most medial row is named main row (or row A), and lateral rows named outer and most-outer rows (or rows B and C). Tooth position is numbered from anterior to posterior in each row. So,A1,A2,and A3 represent the first,second,and third tooth of the main row (row A), whereas Bl and C1 represent the first tooth of row B and row C respectively,and so on. Each tooth consists of a enamaloid-coated crown and a dentine/ predentine-only neck region, which terms were used in Sytchevskaya (1989). The tooth base at the proximal end of a pharyngeal tooth is ankylosed to a depression on pharyngeal bone (tooth-base pit). The dagger symbol “†" is used to denote extinct taxon.
+
+# 2 Systematic paleontology
+
+Superorder Ostariophysi Sagemehl, 1885 Order Cypriniformes Bleeker, 1860 Family CyprinidaeBonaparte,1840 Subfamily Cyprininae sensu Cavender& Coburn, 1992 Tribe Cyprinini sensu Yang et al., 2010 +Nanningocyprinus gen. nov.
+
+EtymologyNanning, name of the locality where the specimens were collected; cyprinus, genus name for carp,Latin.
+
+Type species +Nanningocyprinus wui gen. et sp. nov.
+
+Diagnosis Same as for the type and only known species.
+
++Nanningocyprinuswui gen. et sp. nov.
+
+EtymologyThe species name is dedicated to the late Prof. Hsianwen Wu, who made great contributions to the study of Chinese cyprinids.
+
+HolotypeNHMG O33663 (Fig. la-b), a nearly complete right pharyngeal bone with pharyngeal teeth A1, A2 and B1.
+
+ParatypeNHMG O33665 (Fig. 1e),a nearly complete left pharyngeal bone with pharyngeal teeth A1 and B1.
+
+![](images/31930c986f9f37e55a6eabde6db737f319140646826ea7c5069da600dd7de940.jpg)  
+Fig.1 pharyngeal bone and teeth of tNanningocyprinus wui gen. et sp. nov. NHMG O33663:(a) ventro-lateral view,(b) dentigerous surface view; NHMG O33664: (c) pitted surface view,(d) dentigerous surface view; NHMG 033665: (e) dentigerous surface view; NHMG 033667: (f) dentigerous surface view Abbreviations: 1. tip of anterior limb; 2.anterior angle; P. pitted surface of pharyngeal bone; V.ventral surface of pharyngeal bone. Question mark indicates an uncertain structure that is a tooth-base pit near C1.All scale bars except (e) equal to $3 \mathrm { m m }$ , scale bar of(e) equals to $1 \mathrm { m m }$ （20
+
+Referred materialsNHMG O33664 (Fig. lc-d),an incomplete right pharyngeal bone with pharyngeal teeth A1 and B1; NHMG O33666,an incomplete left pharyngeal bone with pharyngeal teeth A1 and A2; NHMG O33667 (Fig. 1f),an incomplete left pharyngeal bone with pharyngeal teeth A1, A2,and B1; and NHMG O33668-033672, incomplete pharyngeal bones with pharyngeal tooth A1.
+
+Locality and horizon Langdong,Nanning,Guangxi. Lower-Middle Oligocene,lower part of Yongning Formation.
+
+Diagnosis Dental formula —3·2·1, teeth molar-like,A1 about three to four times of A2 in size,A2 and B1 with only one transverse groove on the grinding surface.
+
+Description The overall appearance of the pharyngeal bone and teeth resembles that of the fishes in the genus Cyprinus. The pharyngeal bone is relatively broad and bending in the middle(NHMG O33663-O33665).Its anterior limb is short.The surface ventral to the teeth is comparatively wide. The anterior angle is triangular and prominent,opposite to the anterior margin of A2.The anterior edentulous process is broad at the base and pointed at the tip. The pitted surface is wide and extending forward to the anterior limb.There are some foramina on the pitted surface via which nerves and blood vessels passing through (Fig.la,c). The dentigerous surface is moderately broad with three rows of teeth on it (Fig.1d-f).
+
+Two rows of pharyngeal teeth, including A1,A2,and B1, were preserved in the holotype (Fig.1b). The shape of all preserved teeth is molar-like.The teeth in the row Aare much larger than that in the row B.A1 is the largest tooth with its grinding surface smooth and slightly convex.A2 is much smaller than A1,with its size about 1/3 of the latter. The length of A2 (distance in antero-posterior direction) is about half of its width (distance in mesio-lateral direction). On the grinding surface of A2, there is a transversal groove.B1 is much narrower and shorter than A2,with the length slightly shorter than the width of itself. On its grinding surface,there is a groove extending mesio-laterally as in A2. The above shape and size pattern of A1,A2,and B1 are consistently seen in all specimens,except that B1 of the holotype is somewhat compressed instead of cylindrical in the rest specimens.
+
+The pharyngeal dental formula is —3·2·1, recognized from NHMG 033664-033667 (Fig. ld-f). Three large teeth,A1,A2,and B1,are generally well-preserved in al specimens. The crown of A3, B2, and C1 are usually missing, whereas fragmentary tooth necks/bases and/or tooth-base pits are clearly visible.
+
+# 3 Discussion and conclusion
+
+# 3.1 Taxonomic position of the new form
+
+The character combination of pharyngeal bone and teeth possessed by the new form +Nanningocyprinus, that three rows molar-like pharyngeal teeth with groove on the grinding surface except A1,are only seen in cyprinid fishes that belong to the genus Cyprinus Linnaeus,1758 or tHuashancyprinus Chen & Chang, 201l prior to this study. Although +Nanningocyprinus resembles Cyprinus and tHuashancyprinus in having three rows of molarlike pharyngeal teeth, the pharyngeal tooth formula —3·2·1 of tNanningocyprinus differes from that of Cyprinus and tHuashancyprinus (-3·1·1). The intraspecific variations in the pharyngeal tooth formulae in some cyprinid fishes have been noted, however, the percentage of the variations of pharyngeal tooth formula 1·1·3-3·1·1 is significantly low.In the case of the study of Cyprinus carpio conducted by Eastman and Underhill (1973),two teeth on the row B is only $3 . 7 \%$ based on the observation of 380 pharyngeal bones with teeth.In the rest species of Cyprinus,as far as the available references are concerned,no tooth of B2 has been reported (Chen and Huang,1977; Wang,1979; Zhou and Chu,1986; Luo and Yue,2000; etc). In our sampled specimens, all three pharyngeal bones, preserved with the portion that B2 can be possibly ankylosed to,are observed with either tooth neck or tooth-base pit,and thus confirme the—3·2·1 formula. If there is any intraspecific variation have occurred in tNanningocyprinus resembling that of extant cyprinids addressed by Eastman and Underhill(1973),the variation won't significantly affect the recognition of the pharyngeal dental formula. Therefore, the pharyngeal tooth formula - $3 { \cdot } 2 { \cdot } 1$ of tNanningocyprinus is distinguishable from that of Cyprinus and tHuashancyprinus (-3·1·1).
+
+tNanningocyprinus also differs from Cyprinus and tHuashancyprinus in the tooth size , shape,and tooth positions.First,A1 is much larger than A2,with its size about three to four times to that of A2 in tNanningocyprinus (Fig. 1), whereas A1 is usually slightly larger or even smaller than A2 in all known extant (Chen and Huang,1977; Zhou and Chu,1986; Luo and Yue,2000; Chen and Chang,2011:fig. 5e-f) and certain fossil Cyprinus (Lee, 2004:fig. 3). In some fossil Cyprinus-like fish,A1 is about 1.5 times of A2 in size (Liu,1985:fig.1; Nakajima and Hattori, 1992:figs.1-2); and in some others, such as tHuashancyprinus,Al is slightly larger than A2 (Chen and Chang,201:fig. 5b). Second, the lateral wall of the crown of A2 in the new form is smooth as in Cyprinus,whereas tHuashancyprinus bears a number of deep grooves on the lateral wall of the crown. Third,the new form has only one groove on the grinding surface of A2 and B1 resembling the species that referred to “C. (Mesocyprinus)” by Luo and Yue in 20o0, whereas the species referred to “C.(Cyprinus)”by Luo and Yue in 2000 have at least two grooves on the grinding surface of A2 and B1. Last, for the pharyngeal bone, there are variations in the development on the anterior angle among the species of Cyprinus. It is triangle and prominent in the new form, as in that of $C$ 、carpio (a“C.(Cyprinus)” species) (Pasco-Viel et al.,201O:fig. 3F) and tHuashancyprinus,but it is round in $C .$ fuxianensis(Chen and Chang,2011:fig. 5d), a so-called “C. (Mesocyprinus)” species. A summary of comparison on tNanningocyprinus wui with Cyprinus fuxianensis, C. carpio, and $\dagger$ Huashancyprinus can be found in Table 1.To sum up,the new form is apparently different from any species of genus Cyprinus and tHuashancyprinus,and should be assigned to a new genus and species.
+
+# 3.2Distribution of Cyprinus and Cyprinus-like fishes and its implication
+
+The Common Carp Cyprinus carpio presents disjunct distribution in Europe and East Asia, whereas all other species of the genus Cyprinus are restricted in East Asia, especially in the lakes of Yunnan Province and Xijiang River of Guangxi Province, South China (Banarescu
+
+Table1 Comparison of tNanningocyprinus wui with Cyprinus fuxianensis, C.carpio, and+Huashancyprinusrobustispinus   
+
+<html><body><table><tr><td></td><td>+Nanningocyprinus wui</td><td>Cyprinus fuxianensis</td><td>Cyprinus carpio</td><td>+Huashanocyprinus robustispinus</td></tr><tr><td>Tooth formular</td><td>1-2.3-3·2·1</td><td>1:1:3-3:1·1</td><td>1:1:3-3:1·1</td><td>1:1:3-3:1·1</td></tr><tr><td>Size of Al and A2</td><td>Al about 3-4 times of A2</td><td>about equal</td><td>about equal</td><td>about equal</td></tr><tr><td>Number of groove on the grinding surface of A2</td><td>one</td><td>usually one, occasionally two</td><td>at least two</td><td>one</td></tr><tr><td>Number of groove on the grinding surface of B1</td><td>one</td><td>one</td><td>at least two</td><td>unknown</td></tr><tr><td>Anterior angle</td><td>triangle, prominent</td><td>round</td><td>triangle, prominent</td><td>triangle, prominent</td></tr></table></body></html>
+
+1992; Chen and Huang,1977). To date,a number of Neogene Cyprinus have been unearthed from the deposits of the Middle-Late Miocene to Pleistocene of China (Liu and Su,1962; Liu,1985; Tao and Hu, 2001; Chang and Chen, 2008), South Korea (Lee, 2004), Japan (Nakajima,1985; Nakajima and Hattori, 1992; Nakajima and Yue,1995; Nakajima et al, 2001; Yasuno,1986,2003), Mongolia (Sytchevskaya,1989), Russian Altai (Sytchevskaya, 1989),and India (Kotlia,1985) (Fig. 2). In Europe,Cyprinus carpio remains were found from a number of Pleistocene and Paleolithic localities along the valley of the lower reach of the River Don in Russia (Lebedev, 1960) (Fig.2). Recently, Kovalchuk (2013) overviewed Cyprinus fossils from Late Miocene to Holocene of several localities of Ukraine,and Gaudant et al. (2014) described Cyprinus sp.from the Middle to Upper Miocene deposits in southern Spain (Fig. 2). It is interesting to note that some pharyngeal teeth with one groove on the grinding surface, similar to those of the living species $C .$ fuxianensis and $C .$ yilongensis, have been discovered from Nei Mongol (China) and Japan, which are completely outside of the distribution range of these living species.Also, those Cyprinus fossils from Spain, Mongolia, Altai (Russia),and India are not overlapped with the natural distribution of extant species of Cyprinus.No species of Cyprinus has been found from the deposits with age earlier than the Early Miocene.As for the Cyprinus-like fishes from the Paleogene,two single species based genera, tNanningocyprinus and +Huashancyprinus,have been recovered from the Oligocene of Guangxi, South China. And these two fishes bear pharyngeal teeth with only one groove on the grinding surface resembling that of the foresaid Neogene Cyprinus and living species of $C$ fuxianensis and C.yilongensis.
+
+Not only fossil species of Cyprinus or Cyprinus-like cyprinids,the Paleogene Cyprinini (sensu Yang et al., 2010) fish, tEoprocypris (Procypris-like), is also unearthed from South China (Chen et al., 2015b). With all known fossil Cyprinus and the forms closely related to it allow us to draw a conclusion: Cyprinins have been present in East Asia at least since the Late Eocene,and South China might be the center of origin and diversification of this group; the Cyprinini has already diverged obviously during the Oligocene,and molariform dental morphotype,especially those with one groove on the grinding surface,is probably a plesiomorphic pharyngeal tooth type in cyprinids; and Cyprinus and the forms closely related to it were widespread in Eurasia and had a much wider distribution during the Neogene than today.The absence of Cyprinus-like fish in most part of central Asia and South Asia of extant freshwater aquatic ecosystem is probably caused by the Cenozoic mountain-building activities in this area resembling that of Cobitis (Chen et al.,2010).
+
+![](images/cbfdbcecb0679177002e0c02146f1bb5f6ae0a9bd49b0ee408b6051f4ad82af4.jpg)
+
+Fig.2Main localities of fossil Cyprinus and Cyprinus-like and distribution of the Recent Cyprinus (shaded) (based on Banarescu,1990:fig.2/26) 1. Nanning,2.Ningming,Guangxi; 3,4. Yuanmou and Lufeng,5.Yiliang,Yunnan; 6.Tainan,Taiwan;   
+7.Lantian,Shaanxi;8.Tonggur,9.Abagaqi,10.Bilike,11. Zhalainuoer,Nei Mongol;12.Yangyuan,Hebei; 13.Yushe,14,15. Xianfeng,16.Tangying,Shanxi; 17.Sanmenxia, Henan;18.Fuyu,Heilongjiang, China;   
+19.Gifu,20.Hyogo,21,22.Shiga,23.Mie,Honshu; 24.Oita,25.Matsuura City,Nagasaki,Kyushu,Japan;   
+26.Bukpyeong Basin,South Korea;27.Russan Altai; 28.Shargain Gobi, Mongolia; 29.Karewa intermontane basin,Kashmir, northwestern India; 30.lower reach of the River Don,Russia; 31. Zaporizhia region, 32.Kherson region,33.Poltava region,Ukraine;34. shoutern Spain
+
+AcknowledgementsSpecial thanks to Chang Mee-Mann (IVPP) for providing generous guidance and constructive suggestions and reviewing the manuscript. We thank Zhang Jiang-Yong (IVPP) for careful review of the manuscript. Thanks are extended to Xie ZhiMing,Lei Xue-Qiang,and Luo Yi (NHMG) for the fieldwork,and Lei Xue-Qiang for photographing. This study was supported by Natural Science Foundation of Guangxi (Grant No.2013GXNSFAA019284), State Key Laboratory of Palaeobiology and Stratigraphy (Grant No.123104),and National Natural Science Foundation of China (Grant No.41162002).
+
+# 广西南宁渐新世基于咽齿的鲤亚科一新属
+
+陈耿娇1,2 岑立地' 刘娟34(1广西壮族自治区自然博物馆 南宁 530012)
+
+(2现代古生物学和地层学国家重点实验室，中国科学院南京地质古生物研究所 南京210008)
+
+(3 加拿大阿尔伯塔大学生物系 埃德蒙顿T6G 2E9)
+
+(4 美国自然历史博物馆古生物学部 纽约NY10024)
+
+摘要：记述了产自广西南宁盆地渐新世早—中期的鲤科鲤亚科一新属种——伍氏南宁鲤(tNanningocyprinus wui gen.et sp.nov)。化石材料包括一些咽喉骨和咽齿。这些咽喉骨和咽齿的以下特征组合明显不同于其他鲤科鱼类：齿式—3·2·1,主行第一枚咽齿大小是第二枚的3\~4倍，第二枚咽齿及第二行第一枚咽齿咀嚼面上各仅有一条沟纹，咽骨前角很发育。该属种的发现进一步证明鲤亚科是鲤科中较早的分支，中国南方很有可能是鲤亚科的起源和分化中心。
+
+关键词：广西南宁盆地，邕宁组，渐新世，鲤属，咽骨及咽齿中图法分类号：Q915.862 文献标识码：A 文章编号：1000-3118(2017)03-0201-09
+
+# References
+
+BanarescuP,1990.ZoogeographyofFreshwaters.Vol.1.General Distributionand Dispersal ofFreshwaterAnimals. Wiesbaden: AULA Verlag.48-170,499-510   
+Banarescu P,1992.ZoogeographyofFreshwaters.Vol.2.Distribution and Dispersal ofFreshwater Animals inNorth America and Eurasia.Wiesbaden:AULA Verlag.524-531,860-1091   
+Chang MM,Chen GJ,2Oo8.Fossil Cypriniformes from Chinaand itsadjacent areasand their palaeobiogeographical implications. Geol Soc Spec Publ,295: 337-350   
+Chen G J,Chang MM,2011.A new earlycyprinin from Oligoceneof South China.Sci China Earth Sci,54(4): 481- 492   
+ChenGJ,ChangMM,WangQ,2010.Redescriptionof Cobitislongipectoralis Zhou1992(Cypriniformes:Cobiidae) from late Early Miocene of East China.Sci China Earth Sci,53(7):933-1090   
+ChenGJ,LiaoW,LeiXQ,20l5a.Firstfosilcobitid (Tleostei:Cypriniformes)fromEarly-MiddleOligocenedepositsof South China.Vert PalAsiat,53:153-163   
+ChenGJ,ChangMM,LiuHZ,2015b.RevisionofCyprinus maomingensisLiu,1957andthefirstdiscoveryofProcyprislike cyprinid(Teleostei,Pisces)from theLate EoceneofSouth China.SciChina Earth Sci,2015,58(7):1123-132. doi: 10.1007/s11430-015-5085-7   
+Chen XL,HuangHJ,1977.Cyprininae.In:WuXWetal.eds.TheCyprinoidFishesofChina,Vol.2.Shanghai: Shanghai People's Press.395-438   
+Chu YT,1935.Comparative studies on the scalesandon the pharyngeals and their teth in Chinese cyprinids,with particular reference to taxonomy and evolution.Biol Bull St John's Univ,2:1-290   
+EastmanJT,UnderhillJC,1973.Intraspecificvariationinthepharyngeal tooth formulaeofsomecyprinidfshes.Copeia,(1): 45-53   
+Gaudant J,Garcia-Alix A,Freudenthal M,2014.Occurence of pharyngeal teeth of the carp,Cyprinus Linnaeus (Teleostei, Cyprinidae) in the Middle and Upper Miocene of Andalusia (southern Spain): a puzling disconnected palaeobiogeographical distribution. CR Palevol,14: 25-29   
+KotliaB S,985.Vertebrate fossilsandpalaeoenvironmentoftheKarewaItermontaneBasin,Kashmir,orthwesterdia. Curr Sci,54: 1275-1277   
+KovalchukOM,20l3.Historyofthefosilcarpfshes (Teleostei,Cyprinidae)in Ukraine.ActaZoolCracov56(1):4-51   
+Lebedev VD,1960. Quaternary Freshwater Ichthyofauna of European Part of USSR.Moscow: Moscow University Press. 1-402   
+Lee YN,2004.The first cyprinid fishandsmallmammal fosils from the Korean Peninsula.JVert Paleont,24: 489- 493   
+Liu HT, Su TT,1962.Pliocene fishes from Yushe Basin,Shansi. Vert PalAsiat, 6: 1-25   
+Liu XT,1985.Fish fosils fromthe hominoidsbearing localityatShihuiba,Lufeng,Yunnan.ActaAnthrool Sin,4:109 112   
+LuoYL,YuePQ,20o.Cyprininae.In:YuePQet al.eds.Fauna Sinica,Osteichthyes,Cypriniformes II.Beijing:Science Press. 91-433,619-623   
+Nakajima T,1984.Larval vs.adult pharyngeal dentition in some Japanese cyprinid fishes.JDent Res,63:1140-1146   
+Nakajima T,1985.Fossil pharyngeal teeth ofcyprinids from the Pliocene Iga Formation of the Kobiwako Groupat Ohyamada-mura, Mie Prefecture, Central Japan.Assoc Geol Collaborat Jpn,29: 65-70   
+Nakajima T,Hattori N,1992.Anew speciesofthecyprinid fish,Cyprinus (Cyprinus)stridentatus,fromthePleistocene Katata Formation of the Kobiwako Group inOtsu City,Shiga Prefecture,central Japan.Earth Sci,46: 235-240   
+Nakajima T,YuePQ,1995.Anewspeciesofthe fosilcyprinid fish,Cyprinus (Mesocyprinus)okuyamai,fromthePliocene Ueno Formationofthe Kobiwako Group in the Ueno Basin,Mie Prefecture,central Japan.Earth Sci,49:221-26   
+Nakajima T,Matsuoka K,KitabayashiE,2Ool.Pharyngeal teethof cyprinid fishes fromPlio-Pleistocene Koitsuma Formation in Oita Prefecture,central Kyushu, Japan. Earth Sci, 55:3-10   
+Nelson JS,Grande TC,Wilson MVH,2016.Fishes of the World. $5 ^ { \mathrm { t h } }$ ed.New Jersey: John Wiley& Sons Inc.1-752   
+Pasco-Viel E,Charles C,Chevret Pet al.,2010.Evolutionary trends of the pharyngeal dentition in Cypriniformes (Actinopterygii: Ostariophysi).PLoS ONE,5(6): e11293,doi:10.1371/journal.pone.0011293   
+SytchevskayaEK,989.Neogene freshwater fishfaunaofMongolia.JointSoviet-MongolPaleontolExped,39:77-82   
+Tao HJ,Hu CH,20o1. Cyprinidae fosil fishes of Tainan Hsien,Taiwan. Geology,21: 51-64   
+WangYH,1979.Ontheclassification,distribution,originandevolutionofthefisesreferredtothesubfamilyCyprininae of China,with discription of a new species.Acta Hydrobiol Sin,6: 419-438   
+YangL,MaydenRL,SadoTetal.,2O10.Molecularphylogenyofthe fshes traditionallreferredto Cyprinini sensustricto (Teleostei: Cypriniformes). Zool Scr,39: 527-550   
+Yasuno T,1986.aleontological studiesofthefosil cyprinids from thelateCenozoicdepositsinJapan.BullSeniHighSch, Fukui Prefect, 4: 61-82   
+Yasuno T,2Oo3.EarlyMiocenepharyngealteeth(Cyprinidae)fosilsfromnorthwestern Shan-inandKyusu,Japan ().Bull Fukui City Mus Nat Hist,50: 1-8   
+Zhou W,Chu XL,1986.Systematic studyofthe genus Cyprinus (Pisces: Cyprinidae)in Yunnan, China. ZoolRes,7:297
+
+310

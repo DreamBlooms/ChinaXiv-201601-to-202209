@@ -1,0 +1,752 @@
+[
+    {
+        "type": "text",
+        "text": "Entanglement Entropy in Holographic P-Wave Superconductor/Insulator Model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rong-Gen Cai $^ { 1 * }$ ，LiLi $^ { 1 \\dagger }$ ，Li-Fang Li $^ { 1 3 \\ddag }$ ， Ru-Keng Su $2 \\ S$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（204 $^ { 1 }$ State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing 100190, China. （20 $^ 2$ Department of Physics,Fudan University, Shanghai 200433, China （20 $^ 3$ State Key Laboratory of Space Weather, Center for Space Science and Applied Research, Chinese Academy of Sciences, Beijing 100190, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "May 28,2013 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We continue our study of entanglement entropy in the holographic superconducting phase transitions. In this paper we consider the holographic p-wave superconductor/insulator model, where as the back reaction increases, the transition is changed from second order to first order. We find that unlike the s-wave case, there is no additional first order transition in the superconducting phase. We calculate the entanglement entropy for two strip geometries. One is parallel to the super current，and the other is orthogonal to the super current. In both cases, we find that the entanglement entropy monotonically increases with respect to the chemical potential. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2Holographic P-wave superconductor/insulator model 4   \n2.1Gravity background 4   \n2.2Thermodynamics and phase transition 6 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Entanglement entropy ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1Strip with finite width along $x$ direction 8   \n3.2Strip with finite width along $y$ direction 12 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4Conclusion and discussions 14 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ANumerical details 18 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The entanglement entropy nowadays plays an important role in understanding some characterizations in quantum field theory and many-body physics (see, for example, Refs.[1, 2, 3]). The entanglement entropy, as the name suggests, measures how a given quantum system is entangled or strongly correlated. Further, it can also be used to distinguish different phases and corresponding phase transitions and is considered as a useful tool for keeping track of the degrees of freedom of strongly coupled systems. For a given system, the entanglement entropy of one subsystem with its complement is defined as the von Neumann entropy. However,the calculation of entanglement entropy is found to be very difficult except for the case in $1 + 1$ dimensions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the framework of AdS/CFT correspondence [4, 5, 6], a holographic method to calculate the entanglement entropy has been proposed in Ref. [7]. Following Ref. [7], for a conformal field theory (CFT） which has a dual gravitational configuration living in one higher dimension, the entanglement entropy of the CFT in a subsystem $\\mathcal { A }$ with its complement is given by finding the minimal area surface $\\gamma _ { \\mathcal { A } }$ extended into the bulk with the same boundary $\\partial \\mathcal { A }$ of $\\mathcal { A }$ (see Refs. [8, 9] for reviews). Namely, the entanglement entropy of $\\mathcal { A }$ with its complement is given by the “area law” ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { A } = \\frac { 2 \\pi } { \\kappa ^ { 2 } } A r e a ( \\gamma _ { A } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\kappa ^ { 2 } \\equiv 8 \\pi G$ is related to the gravitational constant in the bulk. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Holographic superconductor model was first constructed in Refs. [10, 11] where the model is a s-wave one since the condensed field is a scalar field dual to a scalar operator in the field theory side. The holographic approach was also generalized to the p-wave case [12] and d-wave case [13,14]. It is interesting to note that the back reaction of matter field on the background geometry will change the order of the holographic p-wave superconductor phase transition from second order to first order [15]. On the other hand, the effect of higher derivatives on the holographic p-wave model was studied in Refs.[16,17,18]. And near critical point, an analytic study on the holographic p-wave superconductor/conductor phase transition has been made in the probe limit [19, 20]. In Ref.[21],a holographic s-wave superconductor/insulator phase transition model was built at zero temperature. Combining the conductor/superconductor phase transition with the insulator/superconductor phase transition, Horowitz and Way [22] described a complete phase diagram for a holographic S-wave superconductor/conductor/insulator system. In addition, the holographic p-wave superconductor/insulator phase transition was discussed in Ref. [23],and Ref. [24] carried out an analytic study for the holographic superconductor/insulator phase transition. While various properties of holographic superconductor models have been intensively investigated in the literature,in this paper we are interested in the behavior of entanglement entropy in the holographic superconductor models. Refs. [25, 26, 27] studied the behavior of entanglement entropy in holographic conductor/superconductor phase transition models, including S-wave and p-wave cases. It showed that the entanglement entropy decreases as one lowers temperature, indicating the degrees of freedom are reduced at lower temperature,and that the entanglement entropy can tell us not only the occurrence of the phase transition, but also the order of the phase transition. It indicates that entanglement entropy is indeed a good probe to phase transition. In Refs. [28, 29] we investigated the behavior of entanglement entropy in the holographic s-wave superconductor/insulator model, and found that the entanglement entropy as a function of chemical potential is not monotonic in the superconducting phase: at the beginning of the transition, the entropy first increases and arrives at its maximum at some chemical potential, and then decreases monotonically. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper we continue our study of the entanglement entropy in holographic superconductor phase transitions. We here focus on the holographic p-wave superconductor/insulator model, paying main attention on whether those properties of entanglement entropy found in the previous studies are universal or not, in particular, on the nonmonotonic behavior of the entropy in the superconductor/insulator phase transition. This will be helpful to further understand the superconductor/insulator transition. Furthermore,there are also other motivations. It is well known that there is no thermal phase transition in $( 2 + 1 )$ -dimensional field theories due to the Mermin-Wagner theorem or Coleman theorem, which states that in quantum field theory, continuous symmetries cannot be spontaneously broken at finite temperature in systems with suffciently short-range interactions in spatial dimensions $d \\leq 2$ ，which at least tells us that the phase transition can be affected by the space-time dimension of the system. However,one indeed observes the superconducting phase transition in the gravity dual of $( 3 + 1 )$ -dimensional AdS black hole backgrounds [10]. This might be caused by the suppresson of the large fluctuations in the large $N$ limit,which is supposed to be one of conditions for the validness of the AdS/CFT correspondence. In the framework of AdS/CFT correspondence, we can study the strongly coupled systems simply through their dual weakly interacting gravity theories. So a natural question arises that how the order of the phase transition of the strongly coupled systems can be affected by the dimension of space-time. Indeed,it is observed in Ref.[27] that in contrast to the $( 3 + 1 )$ -dimensional holographic p-wave superconductor/conductor phase transition, the phase transition in the $( 2 + 1 )$ -dimensional case is always second order, regardless of the strength of the back reaction. To further stress the issue and enrich our understanding of the holographic superconductor phase transitions, therefore it would be helpful to study the full back reacted holographic p-wave superconductor/insulator model ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The p-wave superconducting phase is characterized by the condensation of the vector “hair” [30,12],while the normal insulator phase is described by a pure AdS soliton solution. As one increases the chemical potential, the pure AdS soliton background will become unstable to develop the vector “hair”. The emergence of the “hair” induces the symmetry breaking and gives a finite vacuum expectation value of the dual current operator in the field theory side,which plays the role of order parameter in the holographic phase transition. We will choose the condensate of the current operator along one spatial direction. Thus, the $U ( 1 )$ symmetry as well as the spatial rotational symmetry are broken in the superconducting phase. The order of the transition from the insulator phase to superconducting phase can be either second order or first order, depending on the strength of the back reaction of matter feld on the bulk geometry. For the holographic s-wave superconductor/insulator case,one can find a new first order phase transition inside the superconducting phase [22, 29]. We will see that this does not happen in the p-wave model. In view of the anisotropy in the superconducting phase,we will consider two strip geometries with a finite width along directions parallel to the super current and orthogonal to the super current， respectively. The value of entanglement entropy calculated in former setup is larger than the one in the latter case for given parameters. In addition, no matter of the order of the transition,we find the behavior of the entanglement entropy as a function of chemical potential is monotonic. More precisely, the entanglement entropy always increases as the increase of chemical potential. Such result is quite different from the one in the s-wave case. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In section 2， we introduce the holographic model and study the thermodynamics of the transition. Since the system is anisotropic in the superconducting phase, we calculate, in section 3, the entanglement entropy for strip geometry along spatial direction $x$ and $y$ , respectively. The conclusion and some discussions are included in section 4. Some numerical details are given in appendix A. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 Holographic P-wave superconductor/insulator model ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 Gravity background ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Let's begin with the $( 4 + 1 )$ -dimensional $S U ( 2 )$ Einstein-Yang-Mills theory with a negative cosmological constant [12] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\int d ^ { 5 } x \\sqrt { - g } [ \\frac { 1 } { 2 \\kappa ^ { 2 } } ( \\mathcal { R } + \\frac { 1 2 } { L ^ { 2 } } ) - \\frac { 1 } { 4 \\hat { g } ^ { 2 } } F _ { \\mu \\nu } ^ { a } F ^ { a \\mu \\nu } ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\hat { g }$ is the Yang-Mills coupling constant and $L$ is the AdS radius. The SU(2) Yang-Mills field strength is given by 1 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\mu \\nu } ^ { a } = \\partial _ { \\mu } A _ { \\nu } ^ { a } - \\partial _ { \\nu } A _ { \\mu } ^ { a } + \\epsilon ^ { a b c } A _ { \\mu } ^ { b } A _ { \\nu } ^ { c } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\epsilon ^ { a b c }$ is the totally antisymmetric tensor with $\\epsilon ^ { 1 2 3 } = + 1$ . The gauge field is given by $A = A _ { \\mu } ^ { a } \\tau ^ { a } d x ^ { \\mu }$ . Here we define a parameter $\\alpha \\equiv \\kappa / \\hat { g }$ which measures the strength of the back reaction of the Yang-Mills field on the background geometry. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Our ansatz for the metric and Yang-Mills fields are given by ² ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd s ^ { 2 } = { \\frac { L ^ { 2 } } { r ^ { 2 } } } { \\frac { d r ^ { 2 } } { g ( r ) } } + r ^ { 2 } ( - f ( r ) d t ^ { 2 } + h ( r ) d x ^ { 2 } + d y ^ { 2 } + g ( r ) e ^ { - \\chi ( r ) } d \\eta ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = \\phi ( r ) \\tau ^ { 3 } d t + w ( r ) \\tau ^ { 1 } d x .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（204号 $g ( r )$ vanishes at the tip $r = r _ { 0 }$ of the soliton. Further, in order to obtain a smooth geometry at the tip $r _ { 0 }$ ， $\\eta$ should be made with an identification ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta \\sim \\eta + \\Gamma , \\qquad \\Gamma = \\frac { 4 \\pi L e ^ { \\frac { \\chi ( r _ { 0 } ) } { 2 } } } { r _ { 0 } ^ { 2 } g ^ { \\prime } ( r _ { 0 } ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This gives a dual picture of the boundary theory with a mass gap, which is reminiscent of an insulator phase [21]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The independent equations of motion in terms of the above ansatz can be written as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\phi ^ { \\mu } + ( \\frac { 3 } { r } - \\frac { f ^ { \\prime } } { 2 f } + \\frac { g ^ { \\prime } } { 3 } + \\frac { h ^ { \\prime } } { 2 h } - \\frac { \\chi ^ { \\prime } } { 2 } ) \\phi ^ { \\mu } - \\frac { 2 L ^ { 2 } \\omega ^ { 2 } \\phi ^ { \\mu } } { r ^ { 3 } \\phi h } = 0 ; } \\\\ { \\omega ^ { \\mu } + ( \\frac { 3 } { r } + \\frac { f ^ { \\prime } } { 2 f } + \\frac { g ^ { \\prime } } { 3 } - \\frac { h ^ { \\prime } } { 2 h } - \\frac { \\chi ^ { \\prime } } { 2 } ) \\omega ^ { \\mu } + \\frac { H ^ { 2 } \\phi ^ { \\mu } \\omega } { r ^ { 3 } \\phi f } = 0 ; } \\\\ { f ^ { \\mu } + ( \\frac { 3 } { r } + \\frac { g ^ { \\prime } } { g } - \\chi ^ { \\prime } ) ( f h ) ^ { \\prime } - \\frac { 3 f h \\chi ^ { \\prime } } { r } - \\frac { 4 L ^ { \\prime } \\alpha ^ { 3 } \\phi ^ { \\frac { \\chi } { 2 } } \\omega ^ { 2 } } { r ^ { 5 } } = 0 ; } \\\\ { f ^ { \\mu } + ( \\frac { 5 } { r } - \\frac { f ^ { \\prime } } { 2 f } + \\frac { g ^ { \\prime } } { g } + \\frac { h ^ { \\prime } } { 2 h } - \\frac { \\chi ^ { \\prime } } { 2 } ) { f ^ { \\mu } } - \\frac { 2 \\kappa ^ { 2 } \\phi ^ { 2 } } { r ^ { 7 } } - \\frac { 2 L ^ { 2 } \\alpha ^ { 2 } \\phi ^ { 2 } \\omega ^ { 2 } } { r ^ { 9 } h } = 0 ; } \\\\ { \\tilde { h } ^ { \\mu } + ( \\frac { 5 } { r } - \\frac { f ^ { \\prime } } { 2 f } + \\frac { g ^ { \\prime } } { g } - \\frac { \\tilde { h } ^ { \\prime } } { 2 h } - \\frac { \\chi ^ { \\prime } } { 2 h } ) { f ^ { \\mu } } + \\frac { 2 \\kappa ^ { 2 } \\omega ^ { 2 } } { r ^ { 2 } } - \\frac { 2 L ^ { 2 } \\alpha ^ { 2 } \\phi ^ { 2 } \\omega ^ { 2 } } { r ^ { 9 } f } = 0 ; } \\\\ { \\chi ^ { \\prime } - \\frac { f ^ { \\prime } } { f } - \\frac { 2 g ^ { \\prime } } { g } - \\frac { h ^ { \\prime } } { h } + \\frac { 8 } { r ^ { 9 } } - \\frac { 8 } { r } - \\frac { 2 \\kappa ^ { 2 } } { 3 r } + \\frac { 2 \\kappa ^ { 2 } } { f } - \\frac { 2 f ^ { \\prime } } { h } - \\frac { 2 f ^ { \\prime } } { 3 r ^ { 5 } f } = 0 ; } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where the prime denotes the derivative with respect to $r$ and the tip $r = r _ { 0 }$ is determined by the condition $g ( r _ { 0 } ) = 0$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to match the asymptotical AdS boundary, the matter and metric fields near the AdS boundary $r  \\infty$ should behave as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\phi = \\phi _ { 0 } - { \\frac { \\phi _ { 2 } } { r ^ { 2 } } } + \\ldots , \\quad \\omega = \\omega _ { 0 } + { \\frac { \\omega _ { 2 } } { r ^ { 2 } } } + \\ldots , , } } \\\\ { { f = 1 + { \\frac { f _ { 4 } } { r ^ { 4 } } } + \\ldots , \\quad g = 1 + { \\frac { g _ { 4 } } { r ^ { 4 } } } + \\ldots , \\quad h = 1 + { \\frac { h _ { 4 } } { r ^ { 4 } } } + \\ldots , \\quad \\chi = { \\frac { \\chi _ { 4 } } { r ^ { 4 } } } + \\ldots , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\omega _ { 0 }$ is regarded as the source of the dual current operator. To break the $U ( 1 )$ gauge   \nsymmetry spontaneously, we impose $\\omega _ { 0 } = 0$ . In addition，we choose the condensate along   \nthe $x$ direction. Thus, the rotational symmetry in $x - y$ plane is also destroyed in su$\\begin{array} { r } { \\langle \\hat { J } _ { 1 } ^ { x } \\rangle = \\frac { 2 \\alpha ^ { 2 } } { \\kappa ^ { 2 } L } w _ { 2 } } \\end{array}$ 0 ie， $\\mu = \\phi _ { 0 }$ g $\\begin{array} { r } { \\rho = \\frac { 2 \\alpha ^ { 2 } } { \\kappa ^ { 2 } L } \\phi _ { 2 } } \\end{array}$ by e （20 $w _ { 2 }$ $\\phi _ { 0 }$ $\\phi _ { 2 }$ $f _ { 4 }$ $g _ { 4 }$ $h _ { 4 }$   \nand $\\chi _ { 4 }$ are all constants. Let us note that there exists an analytic solution for the equations   \nof motion (7),which is just the so-called AdS soliton solution ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi ( r ) = \\mu , \\quad \\omega ( r ) = \\chi ( r ) = 0 , \\quad f ( r ) = h ( r ) = 1 , \\quad g ( r ) = 1 - \\frac { r _ { 0 } ^ { 4 } } { r ^ { 4 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Here $\\mu$ is an arbitrary constant, but less than its critical value, which willbe showed shortly and $r = r _ { 0 }$ stands for the tip of the soliton. The AdS soliton solution has vanishing $\\omega$ ， thus corresponds to the normal insulator phase. In order to compare physical quantities obtained from different solutions, the boundary geometry must be the same, in particular, the $\\eta$ coordinate must have the same compactification length $\\Gamma$ . Therefore, we scale all of $\\Gamma$ for each solution to be $\\pi L$ . We work in unites where $L = 1$ hereafter, so when $L$ appears in later sections it is set to be one. Numerical details for solving the equations of motion (7) can be found in appendix (A). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0320cd8958dee05e66ac6d7bafe50d244af094f61696e4b803aebc128ae799a.jpg",
+        "img_caption": [
+            "Figure 1: The condensate of current operator $\\langle \\hat { J } _ { 1 } ^ { x } \\rangle$ (left plot） versus chemical potential $\\mu$ （204号 for $\\alpha = 0 . 2$ ： $\\Gamma$ is scaled to be $\\pi L$ . The critical chemical potential in this case is $\\mu _ { c } \\simeq 2 . 2 6 5$ It is a typical second order phase transition which can be seen clearly from right plot, which presents the grand potential of the soliton with vector “hair\" (solid purple) and of the soliton without vector “hair” (dashed black)，with respect to chemical potential. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 Thermodynamics and phase transition ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To find the thermodynamically favored phases and to determine the critical point of phase transition,we should calculate the grand potential function $\\Omega$ of the system since we are working in grand canonical ensemble in this paper. In gauge/gravity duality the grand potential $\\Omega$ of the boundary thermal state is identified with temperature times the on-shell bulk action in Euclidean signature. The Euclidean action must include the GibbonsHawking boundary term for a well-defined Dirichlet variational principle and further a surface counterterm for removing divergence ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ L _ { E u c l i d e a n } ^ { \\epsilon } = - \\int d ^ { 5 } x \\sqrt { g } [ \\frac { 1 } { 2 \\kappa ^ { 2 } } ( \\mathcal { R } + \\frac { 1 2 } { L ^ { 2 } } ) - \\frac { 1 } { 4 \\hat { g } ^ { 2 } } F _ { \\mu \\nu } ^ { a } F ^ { a \\mu \\nu } ] + \\frac { 1 } { 2 \\kappa ^ { 2 } } \\int _ { r \\to \\infty } d ^ { 4 } x \\sqrt { h } ( - 2 K + 1 ) - \\frac { 1 } { 2 \\kappa ^ { 2 } } F _ { \\mu \\nu } ^ { a } F ^ { \\mu \\nu } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $h$ is the induced metric on the boundary,and $\\mathcal { K }$ is the trace of the extrinsic curvature. By using of the equations of motion (7) and the asymptotical expansion of matter and metric functions near the boundary, the grand potential $\\Omega$ turns out to be 3 ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 2 L \\kappa ^ { 2 } \\Omega } { V _ { 3 } } = g _ { 4 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\textstyle V _ { 3 } = \\int d x d y d \\eta$ . Since we have scaled $\\Gamma$ to be $\\pi L$ ， $g _ { 4 } = - 1$ for the pure AdS soliton solution, namely, in the normal insulator phase. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The condensation of vector operator $\\hat { J } _ { 1 } ^ { x }$ and the grand potential as a function of chemical potential for $\\alpha = 0 . 2$ and $\\alpha = 0 . 6$ , as two typical examples,are presented in Figure (1) and Figure (2)，respectively. Above the critical chemical potential $\\mu _ { c }$ , the solution with nonvanishing vector “hair” is thermodynamically favored over the pure AdS soliton solution. The emergency of the vector “hair” breaks the $U ( 1 )$ gauge symmetry as well as rotational symmetry and represents the superconducting phase. In contrast to the case in Figure (1) where $\\langle \\hat { J } _ { 1 } ^ { x } \\rangle$ rises continuously from zero at $\\mu _ { c }$ , the case in Figure (2) has a jump in the $\\langle \\hat { J } _ { 1 } ^ { x } \\rangle$ at $\\mu _ { c }$ indicating the first order of the transition. The corresponding charge density is drawn in Figure (3)，which behaves qualitatively similar as the condensation. The order of the phase transition can be seen more clearly from the grand potential $\\Omega$ with respect to chemical potential. For the first case, the grand potential decreases monotonically as one increases the chemical potential, indicating a continuous phase transition. For the second case, the grand potential with respect to chemical potential develops a “swallow tail\",which is a typical feature in first order transition. Thus,as expected,we find that the order of the phase transition depends on the parameter $\\alpha$ , i.e., the strength of the back reaction. The critical value is $\\alpha _ { c } \\simeq 0 . 5 3 8 \\pm 0 . 0 0 2$ ， beyond which the order of the phase transition changes from second order to first order. However,unlike the s-wave case, there is no additional first order transition occurring in the superconducting phase [22, 29]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In addition, it is worth pointing out that except for the pure AdS soliton solution (insulator phase） and hairy soliton solution (superconducting phase） mentioned above, the action (2) admits another two solutions: the black hole solution without hair (conductor phase) and black hole solution with vector hair (another superconducting phase). A rough phase diagram has been drawn in Ref.[23]. The details depend on the strength of the back reaction. The dependence of the order of phase transition on the back reaction is mentioned there. In this paper we just focus on the case with zero temperature insultor/superconductor phase transition. In this case, the black hole phase does not appear. In particular, in the zero temperature case,for any values of chemical potential beyond the critical one, the superconducting phase always exists. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/138a336f4cc71b18b3ceedc31baee57413d8250d95ab2787708a53c00be159f2.jpg",
+        "img_caption": [
+            "Figure 2: The condensate of current operator $\\langle \\hat { J } _ { 1 } ^ { x } \\rangle$ (left plot） versus chemical potential $\\mu$ （204号 for $\\alpha = 0 . 6$ ： $\\Gamma$ is scaled to be $\\pi L$ . The right plot shows the grand potential of the soliton with vector“hair” (solid red) and the soliton without vector “hair” (dashed black) with respect to chemical potential. It is a typical first order phase transition and the critical chemical potential denoted by vertical dotted line is $\\mu _ { c } \\simeq 2 . 1 5 7$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3 Entanglement entropy ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Let us begin to study the behavior of entanglement entropy in this p-wave model. Since the system is anisotropic in the superconducting phase， we will consider a straight belt geometry with a finite width $\\ell$ along spatial direction $x$ and $y$ ， respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1 Strip with finite width along $x$ direction ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We first consider a straight belt geometry with a finite width $\\ell$ along the $x$ direction. More specifically, the subsystem $\\mathcal { A }$ sits on the slice $\\textstyle r = { \\frac { 1 } { \\epsilon } }$ where $\\epsilon  0$ is the UV cutoff, and extends in $y$ and $\\eta$ directions. The holographic dual surface $\\gamma _ { A }$ is defined as a threedimensional surface ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt = 0 , r = r ( x ) , - \\frac { R } { 2 } < y < \\frac { R } { 2 } ( R  \\infty ) , 0 \\leq \\eta \\leq \\Gamma .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$R$ is the regularized length in $y$ direction. For this boundary subsystem，there exist two kinds of dual surfaces in the bulk. One is called connected configuration and the other is disconnected configuration.We first focus on the connected configuration which is smooth at the turning point : The holographic surface starts from $\\begin{array} { r } { x \\stackrel { } { = } \\frac { \\ell } { 2 } } \\end{array}$ at $r = \\frac { 1 } { \\epsilon }$ extendsintothebulkuntilitreachesr=r,thenretursbacktotheAdSboundar at $\\begin{array} { r } { x = - \\frac { \\ell } { 2 } } \\end{array}$ . For such an embedding, following the formula (1), the entanglement entropy of the subsystem is given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0cb591b80a72a0ad2a628ae77857a7c6d60c63115cfede8dd0e76ef9aebee692.jpg",
+        "img_caption": [
+            "Figure 3: The charge density as a function of chemical potential for $\\alpha = 0 . 2$ with $\\mu _ { c } \\simeq 2 . 2 6 5$ (left plot) and $\\alpha = 0 . 6$ (right plot), respectively. $\\Gamma$ is scaled to be $\\pi L$ . The critical chemical potential denoted by vertical dotted line is $\\mu _ { c } \\simeq 2 . 1 5 7$ for the right plot. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw e c t = \\frac { 4 \\pi L } { \\kappa ^ { 2 } } R \\Gamma \\int _ { r _ { * } } ^ { \\frac { 1 } { \\epsilon } } \\frac { r ^ { 4 } \\sqrt { g ( r ) h ( r ) } e ^ { - \\chi ( r ) } } { \\sqrt { r ^ { 6 } g ( r ) h ( r ) e ^ { - \\chi ( r ) } - r _ { * } ^ { 6 } g ( r _ { * } ) h ( r _ { * } ) e ^ { - \\chi ( r _ { * } ) } } } d r = \\frac { 2 \\pi L } { \\kappa ^ { 2 } } R \\Gamma ( \\frac { 1 } { \\epsilon ^ { 2 } } + S ( r ) ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where the UV divergent part $1 / \\epsilon ^ { 2 }$ has been separated from the total entropy and $S ^ { c o n }$ isa finite part. The width $\\ell$ of the subsystem $\\mathcal { A }$ and $r _ { * }$ are connected by the relation ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\ell } { 2 } = \\int _ { r _ { * } } ^ { \\frac { 1 } { \\epsilon } } d r \\frac { d x } { d r } = \\int _ { r _ { * } } ^ { \\frac { 1 } { \\epsilon } } \\frac { L } { r ^ { 2 } \\sqrt { g ( r ) h ( r ) ( \\frac { r ^ { 6 } g ( r ) h ( r ) e ^ { - \\chi ( r ) } } { r _ { * } ^ { 6 } g ( r _ { * } ) h ( r _ { * } ) e ^ { - \\chi ( r _ { * } ) } } - 1 ) } } d r .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, the disconnected confguration consists of two separated surfaces that are located at $\\textstyle x = \\pm { \\frac { \\ell } { 2 } }$ and both start from the AdS boundary $r = 1 / \\epsilon$ ， extend into the bulk until they reach the tip of the soliton solution $r = r _ { 0 }$ . The entanglement entropy for this disconnected configuration is independent of $\\ell$ ， and given by ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\mathcal { A } } ^ { d i s c o n n e c t } = \\frac { 4 \\pi L } { \\kappa ^ { 2 } } R \\Gamma \\int _ { r _ { 0 } } ^ { \\frac { 1 } { \\epsilon } } r e ^ { - \\frac { \\chi ( r ) } { 2 } } d r = \\frac { 2 \\pi L } { \\kappa ^ { 2 } } R \\Gamma ( \\frac { 1 } { \\epsilon ^ { 2 } } + S ^ { d i s c o n } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $S ^ { d i s c o n }$ is the finite part. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Once have numerically solved the metric functions, we can now calculate the entanglement entropy. Following the above discussion we must calculate the entropies of the connected configuration (13) and the disconnected one (15),respectively. One must take care of the UV divergence for the calculations of each entropy, but the difference of entropies is insensitive to it. Therefore,what we are interested in is the finite part of the entanglement entropy, i.e., $S ^ { d i s c o n }$ and $S ^ { c o n }$ in our discussion. We find that the entanglement entropy with respect to strip width $\\ell$ behaves quite similar for different choice of parameters, i.e., $\\alpha$ and $\\mu$ ，which is schematically drawn in Figure (4). We stress here that the entanglement entropy drawn in Figure (4) and hereafter is the finite part with the UV divergent part subtracted off 4 We find that there exists a maximal width $\\ell _ { m a x }$ For $\\ell > \\ell _ { m a x }$ , the connected configuration does not exist and the physical solution comes from the trivial disconnected configuration where the entropy is independent of $\\ell$ . On the Contrary, there are three different branches for the entanglement entropy when $\\ell < \\ell _ { m a x }$ ： Two of them come from connected configurations and the third one corresponds to the disconnected one. The physical entropy can be found by always choosing the lowest branch since it has minimal value. As we can see from Figure (4), the lower connected branch is favored for sufficiently small $\\ell$ . Hence, there is a critical value $\\ell _ { c r i t i c a l }$ below which the connected branch is physically favored. Thus,as we change $\\ell$ ，a phase transition must occur at $\\ell _ { c r i t i c a l }$ , which is just the so called “confinement/deconfinement” phase transition discussed intensively， for example, in Refs.[31, 32, 33]. To be precise， for $\\ell < \\ell _ { c r i t i c a l }$ ， the entanglement entropy comes from the connected configuration and exhibits non-trivial dependence on $\\ell$ ，which describes a “deconfining” phase. For $\\ell > \\ell _ { c r i t i c a l }$ ， the entropy is dominated by the disconnected configuration and is $\\ell$ independent，which indicates a \"confining\" phase. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6ea42bad0dac289f77e8c6086f9c347408f9fc808ee25e5bb292f562af7d6e3.jpg",
+        "img_caption": [
+            "Figure 4: The typical configuration for the entanglement entropy as a function of strip width $\\ell$ . The entanglement entropy plotted in this figure and hereafter is the finite part with the UV divergent part subtracted off. The dashed purple and solid blue curves come from the connected configuration，while the solid red one comes from the disconnected configuration. The lowest curve is physically favored compared with others. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Thus we have totally four phases in the boundary field theory side,i.e., the confining/deconfining phases for the insulator and superconductor [28], respectively, which are characterized by the chemical potential $\\mu$ and strip width $\\ell$ . In particular, the strip width controls the “confinement/deconfinement” phase transition. 5 ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/8752e7da70bb4d49f07f7e1347de7add7ebfc27424773287b672a0da25754c46.jpg",
+        "img_caption": [
+            "Figure 5: The entanglement entropy as a function of chemical potential for strip with finite length along $x$ direction. We choose $\\alpha = 0 . 2$ at fixed $\\ell = 0 . 5 L$ (within “deconfining phase”, left plot） and $\\ell \\longrightarrow \\infty$ (within “confining phase”,right plot),respectively. The transition from the insulator to superconductor is second order here. In both plots, the solid curves come from superconducting phase, while the dashed black lines come from insulator phase. The critical chemical potential here is $\\mu _ { c } \\simeq 2 . 2 6 5$ . The physical curve is determined by choosing the dashed line below $\\mu _ { c }$ and solid curve above $\\mu _ { c }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "It is instructive to study how the entropy of the subsystem changes with respect to chemical potential at fixed $\\ell$ .We first focus on the second order transition case,which is presented in Figure (5). We can see that, from the insulator phase to the superconductor phase, the entanglement entropy increases monotonically with the increment of chemical potential both in “deconfining phase” and “confining phase\".6 Furthermore, the entanglement entropy is continuous at critical chemical potential $\\mu _ { c }$ ，but its slope has a discontinuous change at $\\mu _ { c }$ . Comparing with Figure (5)，we can see a dramatic change in the first order case drawn in Figure (6). Although the entropy increases, there is an sudden jump in entropy as well as its slope at $\\mu _ { c }$ . The discontinuity or jump at critical point indicates some kind of significant reorganization of the degrees of freedom of the system, since new degrees of freedom are expected to emerge in the new phase. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "No matter of the order of the transition, the entanglement entropy increases as one increases chemical potential for the p-wave superconductor/insulator case. Such behavior is quite different from the s-wave superconductor/insulator case, where the entropy with respect to chemical potential is non-monotonic in the superconducting phase. However, we can find that the critical width as a function of chemical potential in the superconducting phase behaves non-monotonic, which is presented in Figure (7). This behavior is qualitatively same as the s-wave case. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a692ec626e2e5736b8ac7d1cbff38fbe0871bb7c4ff9be18847cdeeda4b0da0.jpg",
+        "img_caption": [
+            "Figure 6: The entanglement entropy as a function of chemical potential for strip with finite length along $x$ direction. We choose $\\alpha = 0 . 6$ at fixed $\\ell = 0 . 5 L$ (within “deconfining phase”, left plot） and $\\ell \\longrightarrow \\infty$ (within “confining phase”，right plot),respectively. The transition from the insulator to superconductor is first order here. The critical chemical potential $\\mu _ { c } \\simeq 2 . 1 5 7$ is indicated by the vertical dotted blue line.In both plots,the solid curves come from the superconducting phase,while the dashed black lines come from the insulator phase. The physical curve is determined by choosing the dashed line below $\\mu _ { c }$ （204 and solid upper curve above $\\mu _ { c }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2 Strip with finite width along $y$ direction ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We now consider a straight belt geometry with a finite width $\\ell$ along the $y$ direction. The subsystem $\\boldsymbol { B }$ locates in the slice $\\textstyle r = { \\frac { 1 } { \\epsilon } }$ with the UV cutoff $\\epsilon  0$ ， and extends in $x$ and $\\eta$ directions. The holographic dual surface $\\gamma _ { B }$ extending to the bulk,is defined as a three-dimensional surface ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt = 0 , r = r ( y ) , - \\frac { R } { 2 } < x < \\frac { R } { 2 } ( R  \\infty ) , 0 \\leq \\eta \\leq \\Gamma ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where $R$ is the regularized length in the $x$ direction. In this case, there also exist two kinds of dual surafces: connected configuration and disconnected configuration as in the previous subsection. Let us first concentrate on the connected configuration which is smooth at the turning point at $r = r _ { * }$ . The dual surface $\\gamma _ { B }$ starting from $\\begin{array} { r } { y = \\frac { \\ell } { 2 } } \\end{array}$ at $\\begin{array} { r } { r = \\frac { 1 } { \\epsilon } } \\end{array}$ extends into the bulk until it reaches the turning point $r = r _ { * }$ , then goes back to the AdS boundary $\\begin{array} { r } { r = \\frac { 1 } { \\epsilon } } \\end{array}$ （204 at y=- ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/226d64e270ace8cf58ee15e93cb1b075adf751a246dd254171dc3aee1054b992.jpg",
+        "img_caption": [
+            "Figure 7: The critical width as a function of chemical potential in superconducting phase for （204号 $\\alpha = 0 . 2$ with $\\mu _ { c } \\simeq 2 . 2 6 5$ (left plot） and $\\alpha = 0 . 6$ with $\\mu _ { c } \\simeq 2 . 1 5 7$ (right plot),respectively. For the first order phase transition case (right plot),the physical curve denoted by solid curve starts from the critical chemical potential $\\mu _ { c } \\simeq 2 . 1 5 7$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this case, the corresponding entanglement entropy is given by ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu e c t  = \\frac { 4 \\pi L } { \\kappa ^ { 2 } } R \\Gamma \\int _ { r _ { * } } ^ { \\frac { 1 } { \\epsilon } } \\frac { r ^ { 4 } \\sqrt { g ( r ) } h ( r ) e ^ { - \\chi ( r ) } } { \\sqrt { r ^ { 6 } g ( r ) h ( r ) e ^ { - \\chi ( r ) } - r _ { * } ^ { 6 } g ( r _ { * } ) h ( r _ { * } ) e ^ { - \\chi ( r _ { * } ) } } } d r = \\frac { 2 \\pi L } { \\kappa ^ { 2 } } R \\Gamma ( \\frac { 1 } { \\epsilon ^ { 2 } } + S ( r ) ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where the UV divergent part has been separated form the total entropy and $S ^ { c o n }$ is a finite part.The width $\\ell$ of the subsystem $\\boldsymbol { B }$ and $r _ { * }$ are related by the equation ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\ell } { 2 } = \\int _ { r _ { * } } ^ { \\frac { 1 } { \\epsilon } } d r \\frac { d y } { d r } = \\int _ { r _ { * } } ^ { \\frac { 1 } { \\epsilon } } \\frac { L } { r ^ { 2 } \\sqrt { g ( r ) ( \\frac { r ^ { 6 } g ( r ) h ( r ) e ^ { - \\chi ( r ) } } { r _ { * } ^ { 6 } g ( r _ { * } ) h ( r _ { * } ) e ^ { - \\chi ( r _ { * } ) } } - 1 ) } } d r .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, the disconnected confguration consists of two separated surfaces are located at $\\begin{array} { r } { y = \\pm \\frac { \\ell } { 2 } } \\end{array}$ , respectively, and extend into the bulk until they reach the tip $r = r _ { 0 }$ ， The entropy for this disconnected configuration is $\\ell$ independent and given by ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { B } ^ { d i s c o n n e c t } = \\frac { 4 \\pi L } { \\kappa ^ { 2 } } R \\Gamma \\int _ { r _ { 0 } } ^ { \\frac { 1 } { \\epsilon } } r \\sqrt { h ( r ) } e ^ { - \\frac { \\chi ( r ) } { 2 } } d r = \\frac { 2 \\pi L } { \\kappa ^ { 2 } } R \\Gamma ( \\frac { 1 } { \\epsilon ^ { 2 } } + S ^ { d i s c o n } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where once again, $S ^ { d s i c o n }$ denotes the finite part. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We find that for the strip along the $y$ direction, the entanglement entropy with respect to strip width $\\ell$ behaves similar as the case along the $x$ direction shown in Figure (4) for different choice of parameters, i.e., $\\alpha$ and $\\mu$ . As one tunes strip width,the “confinement/deconfinement” phase transition always exists. We present the entanglement entropy versus chemical potential in Figure (8） for $\\alpha = 0 . 2$ and in Figure (9) for $\\alpha = 0 . 6$ ，respectively. No matter of the order of the transition,the entanglement entropy increases as one increases chemical potential for the p-wave superconductor/insulator case. The critical width as a function of chemical potential in the superconducting phase also behaves non-monotonic,which is presented in Figure (10). ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbc24299f05ba28f9014bbe4241baa5ca19306160e5b48f60eed55ace85272f0.jpg",
+        "img_caption": [
+            "Figure 8: The entanglement entropy as a function of chemical potential for strip with finite length along the $y$ direction. We consider $\\alpha = 0 . 2$ at fixed $\\ell = 0 . 5 L$ (within “deconfining phase”， left plot）and $\\ell \\longrightarrow \\infty$ (within “confining phase”，right plot)，respectively. The transition from the insulator to superconductor is second order here with the critical chemical potential $\\mu _ { c } \\simeq 2 . 2 6 5$ . In both plots, the solid curves come from the superconducting phase,while the dashed black lines come from the insulator phase. The physical curve is determined by choosing the dashed line below $\\mu _ { c }$ and solid upper curve above $\\mu _ { c }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Comparing the two setups, i.e., the strip with width $\\ell$ along the $x$ direction and the strip with width $\\ell$ along the $y$ direction，the results are qualitatively similar. However, the values of entanglement entropy and critical width in the former case are larger for given parameters than in the latter case and the difference grows quickly as one increases the chemical potential. Since the degree of anisotropy of the superconducting phase is characterized by the value of condensate. The growth of the difference of the entanglement entropy in two setups suggests that the entanglement entropy indeed describes the new degrees of freedom emerging in the superconducting phase. As a non-local quantity, the entanglement entropy for different configurations considered in this paper is not expected to have qualitatively difference,which is indeed confirmed by our numerical calculation. On the other hand, if considering local quantities for holographic p-wave model, such as conductivity [12,16],one can find that the conductivity $\\sigma _ { y y }$ orthogonal to the super current $\\langle \\hat { J } _ { 1 } ^ { x } \\rangle$ displays gapped dependence similar to the findings of s-wave case. The conductivity $\\sigma _ { x x }$ parallel to the super current $\\langle \\hat { J } _ { 1 } ^ { x } \\rangle$ is qualitatively unlike $\\sigma _ { y y }$ and the low-frequency behavior of $R e [ \\sigma _ { x x } ]$ can be characterized very accurately in terms of the Drude model. The essential difference between two conductivities along different directions is the consequence of the anisotropy in the superconducting phase. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusion and discussions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In our previous papers [28, 29], we studied the properties of entanglement entropy in the holographic s-wave superconductor/insulator transitions,where a non-monotonic behavior of the entanglement entropy with respect to chemical potential was found. Such behavior exists for more complex interaction 29]. In order to see whether the non-monotonic behavior is universal or not,in this paper we generalized our study to the p-wave case. Depending on the strength of the back reaction,the transition between the insulator phase and superconducting phase can be either second order or first order. However,unlike the case in s-wave model, there is no additional first order transition inside the superconducting phase. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/041d949f05b99338bf7dfcac303d0414c9796d3f47c224079faafbe2492fa9da.jpg",
+        "img_caption": [
+            "Figure 9: The entanglement entropy as a function of chemical potential for the strip with finite length along the $y$ direction.We consider $\\alpha = 0 . 6$ at fixed $\\ell = 0 . 5 L$ (within“deconfining phase”,left plot） and $\\ell \\longrightarrow \\infty$ (within “confining phase”,right plot)，respectively. The transition from the insulator to superconductor is first order here. The critical chemical potential $\\mu _ { c } \\simeq 2 . 1 5 7$ is indicated by the vertical dotted blue line.In both plots, the solid curves come from the superconducting phase,while the dashed black lines come from the insulator phase. The physical curve is determined by choosing the dashed line below $\\mu _ { c }$ and solid upper curve above $\\mu _ { c }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "With the aim of providing more information on some universal properties of holographic superconductors which may shed toy-model-based insights on understanding the real high （204号 $T _ { c }$ superconductors, we continued the study of the behavior of entanglement entropy in the holographic superconducting phase transition. We limited ourselves in this paper to investigate an Einstein-Yang-Mils model, which is dual to the p-wave superconductor/insulator phase transition. In this model, the rotational symmetry acting on $x$ and $y$ is also broken in the superconducting phase. In order to account for such anisotropy, we calculated the entanglement entropy for two kinds of strip geometry with finite width $\\ell$ along $x$ direction and $y$ direction, respectively. In both cases,the “confinement/deconfinement” phase transition always appears. No matter of the order of the phase transition, the entanglement entropy as a function of chemical potential monotonically increases,which is much different from the s-wave case. Since the entanglement entropy is a non-local quantity in the field theory side and measures the area of a minimal surface extending into the bulk in the holographic description, we do not expect that the entanglement entropy for the two kinds of strip geometry will be qualitatively different. Our calculations indeed confirmed this and the entanglement entropy has a difference only quantitatively. More precisely, the difference increases as the condensate increases. Thus,it is reasonable to conclude that the entanglement entropy indeed describes the new degrees of freedom emerging in the superconducting phase. We also extracted the critical width which behaves non-monotonic with respect to chemical potential. This behavior is the same as the one in the s-wave case. In addition,we further provided the evidence that the entanglement entropy can indeed indicate the appearance and the order of phase transition: In the second order phase transition case, the entanglement entropy is continuous, but its slope has a jump at the critical chemical potential, while in the first order transition case,both the entanglement entropy and its slope have a jump at the critical chemical potential. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a5c9843b855fe8bb8ce38a3c3c6e86025df02c2872be9e12cb856e605a21a49.jpg",
+        "img_caption": [
+            "Figure 10: The critical width as a function of chemical potential in superconducting phase for $\\alpha = 0 . 2$ with $\\mu _ { c } \\simeq 2 . 2 6 5$ (left plot) and $\\alpha = 0 . 6$ with $\\mu _ { c } \\simeq 2 . 1 5 7$ (right plot),respectively. For the first order phase transition case (right plot),the physical curve denoted by solid curve starts from the critical chemical potential $\\mu _ { c } \\simeq 2 . 1 5 7$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The different behavior of entanglement entropy in the s-wave case and p-wave case makes the aim to understand the non-monotonic behavior difficult at the moment. Nevertheless,after a second thought,the different behavior of entanglement entropy in both cases looks not so surprised， since the properties of holographic s-wave model and pwave model are quite different. Ref. [22] studied $( 3 + 1 )$ -dimensional s-wave superconductor/conductor/insulator phase transition. For the conductor/superconductor case, the order of the phase transition is always second order. In contrast to the conductor/superconductor case, the insulator/superconductor phase transition is second order for small back reaction, for intermediate back reaction,there is an additional first order transition inside the superconducting phase and the transition finally becomes first order for suffciently large back reaction. Similar phenomena exist even when one introduces more complex interaction [29]. Actually, we have also checked the same model in one dimension less, i.e.， in （204号 $( 2 + 1 )$ -dimensional case and found the same result. Let us now consider holographic pwave models. The full back reacted p-wave superconductor/conductor transition in $( 3 + 1 )$ dimensions studied in Ref. [15] shows that the order of the phase transition changes from second order to first order as one increases the strength of the back reaction，while for the $( 2 + 1 )$ -dimensional case, the transition is always second order [27]. The $( 3 + 1 )$ -dimensional ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "p-wave superconductor/insulator model studied in this paper and Ref. [23] behaves very similar to the $( 3 + 1 )$ dimensional p-wave superconductor/conductor model. Let us note that the order of the phase transition for the p-wave case depends on not only the dimension of space-time, but also the strength of the back reaction. This is quite different from the s-wave case. Furthermore,let us notice that in Ref.[1],the entanglement entropy for a $( 2 + 1 )$ -dimensional chiral p-wave superconductor model is calculated by dividing the system as two parts separated by a hyperplane. In this model, there are four phases separated by three quantum critical points at chemical potential $\\mu = 0$ and $\\pm 4$ ，which are labeled by the Chern number $C h$ as $C h = 0$ ( $| \\mu | > 4$ ， $C h = - 1$ ( $- 4 < \\mu < 0$ )，and $C h = + 1$ （204号 ( $0 < \\mu < + 4$ ). The entanglement entropy as a function of chemical potential is presented in Figure 4-(e) of Ref.[1]. One can see from the plot that the behavior of the entanglement entropy depends on not only the phase, but also the aspect ratio $r = N _ { y } / N _ { x }$ , the ratio of lattice number in $y$ direction over in $x$ direction. In particular, in some phases both the monotonic and non-monotonic behaviors appear depending on the value of $r$ . For a large （204号 $r$ , the entanglement entropy is monotonic in a fixed phase while it becomes non-monotonic for a small $r$ . It indicates that the entanglement entropy can indeed reveal many properties of many-body systems. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In our setup, the holographic superconductor extends infinitely along $x$ and $y$ directions. In some sense this case corresponds to the large r situation discussed in Ref.[1]. Therefore consider the entanglement entropy as a measure of the degrees of freedom for a given system，the monotonic behavior of the entanglement entropy in the holographic p-wave superconductor/insulator arises naturally. The normal insulator phase can be thought of as having little degrees of freedom due to the mass gap, which is consistent with the vanishing charge density. As we increase the chemical potential, the superconducting phase appears. The growth of the condensate and the charge density indicates that the total degrees of freedom increase，which just accounts for the increase of the entanglement entropy. However, it is stillobviously necessary to understand the different behavior of entanglement entropy in holographic s-wave and p-wave superconductor/insulator transitions. For this, one needs know the details of dual field theories for these two kinds of models. In principle, one can finish this task if one could embed these two models into string theory or Mtheory. Unfortunately, we have not yet had the microscopic theories for these two models. Nevertheless, the phenomenological bottom-up approach we adopted here can provide some basic information of a particular class of strongly coupled field theory. In this sense it might also helpful to use the entanglement entropy as a probe to study the holographic d-wave models [34]. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "This work was supported in part by the National Natural Science Foundation of China (No.10821504, No.10975168 and No.11035008,No.11205226,No.11175019),and in part by the Ministry of Science and Technology of China under Grant No. 2010CB833004. LFL would like appreciate the general financial support from China Postdoctoral Science Foundation No. 2012M510563. LL and LFL would like to thank Hai-Qing Zhang, Yun-Long Zhang and Song He for useful discussions. LL is extremely grateful to Yong-Qiang Wang for his help in the numerical calculations. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "ANumerical details ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In this Appendix, we give the details for solving the coupled equations of motion (7). In order to find the solutions for all the six functions $\\mathcal { F } = \\{ \\phi , \\omega , f , h , g , \\chi \\}$ , one must impose suitable boundary conditions at boundary $r  \\infty$ and at the tip $r = r _ { 0 }$ . The general falloff near the boundary is given by (8） where we choose $\\omega _ { 0 } = 0$ since one wants the condensate to arise spontaneously. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Regularity of the solution at the tip $r = r _ { 0 }$ requires that all six functions have finite values at the tip and have Taylor series expansions near the tip ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { F } = \\mathcal { F } ( r _ { 0 } ) + \\mathcal { F } ^ { \\prime } ( r _ { 0 } ) ( r - r _ { 0 } ) + \\cdots .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Plugging the expansion (20) into (7),and using $g ( r _ { 0 } ) = 0$ ，we are left with six independent parameters $\\{ r _ { 0 } , \\phi ( r _ { 0 } ) , \\omega ( r _ { 0 } ) , f ( r _ { 0 } ) , h ( r _ { 0 } ) , \\chi ( r _ { 0 } ) \\}$ . However, the equations of motion(7) have four useful scaling symmetries ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf  \\lambda ^ { 2 } f , \\quad \\phi  \\lambda \\phi ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh  \\lambda ^ { 2 } h , \\quad \\omega  \\lambda \\omega ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi  \\chi + \\lambda , \\quad \\eta  \\eta e ^ { \\lambda / 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr \\to \\lambda r , \\quad ( t , x , y , \\eta ) \\to \\lambda ^ { - 1 } ( t , x , y , \\eta ) , \\quad ( \\phi , \\omega ) \\to \\lambda ( \\phi , \\omega ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Taking advantage of such four scaling symmetries, we can firstly set $\\{ r _ { 0 } = 1 , f ( r _ { 0 } ) =$ （20 $1 , h ( r _ { 0 } ) = 1 , \\chi ( r _ { 0 } ) = 0 \\}$ for performing numerics. After solving the coupled differential equations, we should use the first three symmetries again to satisfy the asymptotic conditions. We will choose $\\phi ( r _ { 0 } )$ as a shooting parameter to match the source free condition, i.e, $\\omega _ { 0 } = 0$ ： ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "All in all, for each choice of $\\alpha$ and $\\omega ( r _ { 0 } )$ ， we can solve the equations of motion (7). After solving the equations, we can obtain the current condensate $\\begin{array} { r } { \\langle \\hat { J } _ { 1 } ^ { x } \\rangle = \\frac { 2 \\alpha ^ { 2 } } { \\kappa ^ { 2 } L } w _ { 2 } } \\end{array}$ L w2, chemical potential $\\mu = \\phi _ { 0 }$ and charge density $\\begin{array} { r } { \\rho = \\frac { 2 \\alpha ^ { 2 } } { \\kappa ^ { 2 } L } \\phi _ { 2 } } \\end{array}$ by readingoff the ceffcients $w _ { 2 }$ ， $\\phi _ { 0 }$ and （204号 $\\phi _ { 2 }$ in (8),respectively. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In fact,it is convenient in the numerical calculations to make a coordinate transformation from $r$ coordinate to $z$ coordinate by defining $z = 1 / r$ . In that case, the infinite boundary is now at $z = 0$ and the tip sits at $z _ { 0 } = 1 / r _ { 0 } = 1$ . Two typical sets of solution for the metric and gauge field configurations are presented in Figure (11) for $\\alpha = 0 . 2$ and $\\alpha = 0 . 6$ . respectively. Note that the metric functions $g$ and $h$ will be used in calculating the holographic entanglement entropy. For fixed strength of back reaction $\\alpha$ , one has a one parameter family of solutions denoted by the value of $\\omega$ at the tip. However,for different choices of $\\omega ( r _ { 0 } )$ ，the identification length $\\Gamma$ in $\\eta$ coordinate will be different. In order to compare different solutions appropriately, the boundary geometry should be the same. Making use of the scaling symmetry (24),one can find that the relevant quantities scale as follows ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/ecbd77c3181678ed5045970fec525828e1b8e8359f4327348964d6c3a8ccc65f.jpg",
+        "img_caption": [
+            "Figure 11: Typical soliton solution with nonvanishing vector hair. The solid curves stand for the case with $\\alpha = 0 . 6$ , where the value of $\\omega$ at tip is $\\omega ( z _ { 0 } ) \\simeq 1 . 5 7 6$ and the corresponding identification length $\\Gamma \\simeq 2 . 8 4 2$ , while the dashed lines are for the case with $\\alpha = 0 . 2$ ,where the value of $\\omega$ at tip $\\omega ( z _ { 0 } ) \\sim 1 . 9 2 2$ and the corresponding identification length $\\Gamma \\sim 3 . 1 1 8$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Gamma \\to \\Gamma / \\lambda , \\quad r _ { 0 } \\to \\lambda r _ { 0 } , \\quad \\mu \\to \\lambda \\mu , \\quad \\rho \\to \\lambda ^ { 2 } \\rho , \\quad \\langle \\hat { J } _ { 1 } ^ { x } \\rangle \\to \\lambda ^ { 2 } \\langle \\hat { J } _ { 1 } ^ { x } \\rangle , } \\\\ & { S ^ { c o n / d i s c o n } \\to \\lambda ^ { 2 } S ^ { c o n / d i s c o n } , \\quad \\ell \\to \\ell / \\lambda , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "where $S ^ { c o n / d i s c o n }$ stands for the finite part of the entanglement entropy defined in section (3) and $\\ell$ is the strip width. Since in our units setup,the identification length $\\Gamma$ in the pure soliton is $\\pi$ ， we will scale all $\\Gamma$ for each solution to be $\\pi$ . It should be stressed here that after the scaling transformation, the tip $r _ { 0 }$ will be no longer at $r _ { 0 } = 1$ ： ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "For each $\\alpha$ ，as one increases the chemical potential, the solution with non-vanishing vector “hair” will appear and will be finally thermodynamically favored over the pure AdS soliton solution above the critical chemical potential $\\mu _ { c }$ ，where a phase transition from insulator phase to superconducting phase happens. We present critical chemical potential $\\mu _ { c }$ as a function of the strength of the back reaction $\\alpha$ in Figure (12). For small $\\alpha$ ，the transition is second order and $\\mu _ { c }$ is almost independent of the strength of the back reaction. For larger $\\alpha$ ,the transition becomes first order and the critical chemical potential decreases as $\\alpha$ increases. Therefore, there exists a critical value $\\alpha _ { c } \\simeq 0 . 5 3 8 \\pm 0 . 0 0 2$ ，beyond which the phase transition changes from second order to first order. ",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6ed421e78667388f9815b5e3bbc689b254cb181eb38c74b571de83e42ca58cf.jpg",
+        "img_caption": [
+            "Figure 12: The critical chemical potential $\\mu _ { c }$ as a function of the strength of back reaction （204号 $\\alpha$ . The critical strength $\\alpha _ { c } \\simeq 0 . 5 3 8 \\pm 0 . 0 0 2$ , denoted by the dashed vertical line,where the order of transition is changed. Here we scale all $\\Gamma$ for each $\\alpha$ to be $\\pi$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[1] Ryu, S., Hatsugai, Y. “Entanglement entropy and the Berry phase in the solid state,” Phys.Rev. B 73, 245115 (2006) [arXiv:cond-mat/0601237].   \n[2]L.Amico, R. Fazio, A. Osterloh and V. Vedral， “Entanglement in many-body systems,” Rev. Mod. Phys. 80, 517 (2008) [quant-ph/0703044 [QUANT-PH]].   \n[3] J. Eisert, M. Cramer and M. B._Plenio, “Area laws for the entanglement entropy - a review,” Rev. Mod. Phys.82, 277 (2010) [arXiv:0808.3773 [quant-ph]].   \n[4] J. M. Maldacena,“The large N limit_of superconformal field theories and supergravity,”Adv. Theor. Math. Phys.2, 231 (1998) [Int. J. Theor. Phys. 38,1113 (1999)] [arXiv:hep-th/9711200].   \n[5] S. S. Gubser, I. R. Klebanov and A. M. Polyakov,“Gauge theory correlators from non-critical string theory,” Phys. Lett. B 428,105 (1998) [arXiv:hep-th/9802109].   \n[6] E. Witten, “Anti-de Sitter space and holography,” Adv. Theor. Math. Phys. 2, 253 (1998)[arXiv:hep-th/9802150].   \n[7] S. Ryu_and T. Takayanagi， “Holographic_derivation of entanglement entropy from AdS/CFT,” Phys.Rev. Lett. 96,181602 (2006) [hep-th/0603001].   \n[8] T.Nishioka， S. Ryu and T. Takayanagi, “Holographic Entanglement Entropy: An Overview,” J. Phys. A A 42, 504008 (2009) [arXiv:0905.0932 [hep-th].   \n[9] T..Takayanagi,，“EntanglementEntropyfromaHolographicViewpoint,” arXiv:1204.2450 [gr-qc].   \n10] S. A. Hartnoll, C. P. Herzog and G. T. Horowitz, “Building a Holographic Superconductor,” Phys. Rev.Lett.101, 031601 (2008) [arXiv:0803.3295 [hep-th]].   \n[11] S. A. Hartnoll, C. P. Herzog and G. T. Horowitz, “Holographic Superconductors,” JHEP 0812,015 （2008) [arXiv:0810.1563 [hep-th]].   \n[12] S. S. Gubser and S. S. Pufu,“The Gravity_dual of a p-wave superconductor,” JHEP 0811,033（2008）[arXiv:0805.2960 [hep-th]].   \n[13] J. -W. Chen, Y. -J. Kao,D. Maity,W. -Y. Wen and_C. -P. Yeh，“Towards A Holographic Model of D-Wave Superconductors,” Phys. Rev. D 81, 106008 (2010) [arXiv:1003.2991 [hep-th].   \n[14] F. Benini, C. P. Herzog, R. Rahman and A. Yarom, “Gauge gravity duality for d-wave superconductors: prospects and challenges,” JHEP 1011,137 (2010) [arXiv:1007.1981 [hep-th]].   \n[15] M. Ammon, J. Erdmenger, V. Grass, P. Kerner and A. O'Bannon,“On Holographic pwave Superfluids with Back-reaction,” Phys. Lett. B 686,192 (2010) [arXiv:0912.3515 [hep-th]].   \n[16] R. -G. Cai, Z. -Y. Nie and H. -Q. Zhang, Holographic p-wave superconductors from Gauss-Bonnet gravity,” Phys. Rev. D 82, 066007 (2010) [arXiv:1007.3321 [hep-th]].   \n[17] R. -G. Cai, Z. -Y. Nie and H. -Q. Zhang,“Holographic Phase Transitions of P-wave Superconductors in Gauss-Bonnet Gravity with Back-reaction,” Phys. Rev. D 83, 066013 (2011） [arXiv:1012.5559 [hep-th].   \n[18] D. Momeni, N. Majd and R. Myrzakulov, “p-wave holographic superconductors with Weyl corrections,” Europhys. Lett. 97, 61001 (2012) [arXiv:1204.1246 [hep-th].   \n[19] H. -B. Zeng, X. Gao, Y. Jiang and H. -S. Zong, “Analytical Computation of Critical_Exponents in Several Holographic Superconductors,” JHEP 1105, 002 (2011) [arXiv:1012.5564 [hep-th].   \n[20] S. Gangopadhyay and D. Roychowdhury, “Analytic study of properties of holographic p-wave superconductors,” JHEP 1208, 104 (2012) [arXiv:1207.5605 [hep-th].   \n[21] T. Nishioka, S. Ryu and T. Takayanagi, “Holographic Superconductor/Insulator Transition at Zero Temperature,” JHEP i003,131 (2010) [arXiv:0911.0962 [hep-th]].   \n[22] G. T. Horowitz and B. Way, “Complete Phase Diagrams for a Holographic Superconductor/Insulator System,” JHEP 1011, 011 (2010) [arXiv:1007.3714 [hep-th]:   \n[23] A. Akhavan_ and.M. Alishahiha， “P-Wave Holographic Insulator/Superconductor Phase Transition,” Phys. Rev. D 83, 086003 (2011) [arXiv:1011.6158 [hep-th]].   \n[24] R. -G. Cai， H. -F. Li and H. -Q. Zhang,“Analytical Studies on Holographic Insulator/Superconductor Phase Transitions,” Phys. Rev. D 83,126007 (2011) [arXiv:1103.5568 [hep-th]].   \n[25] T. Albash and C. V. Johnson，“Holographic_ Studies of Entanglement Entropy in Superconductors,” JHEP 1205, 079 (2012) [arXiv:1202.2605 [hep-th].   \n[26] R. -G. Cai, S. He, L. Li_and Y. -L. Zhang,“Holographic Entanglement Entropy_on P-wave Superconductor Phase Transition,” JHEP 1207, 027 (2012) [arXiv:1204.5962 [hep-th]].   \n[27] R. E. Arias_and I. S. Landea，“Backreacting p-wave Superconductors,” JHEP 1301, 157(2013)[arXiv:1210.6823 [hep-th]].   \n[28] R. -G. Cai, S. He, L. Li and Y. -L. Zhang,“Holographic Entanglement Entropy in Insulator/Superconductor Transition,” JHEP 1207, 088 (2012) [arXiv:1203.6620 [hep-th]].   \n[29] R. -G. Cai, S. He, L. Li and L. -F. Li, “Entanglement Entropy_and Wilson Loop in Stuckelberg Holographic_Insulator/Superconductor Model,” JHEP 1210, 107 (2012) [arXiv:1209.1019 [hep-th].   \n[30] S. S. Gubser,“Colorful horizons with charge in anti-de Sitter space,” Phys. Rev. Lett. 101,191601 (2008)[arXiv:0803.3483 [hep-th]].   \n[31] T.Nishioka and T. Takayanagi, “AdS Bubbles, Entropy and Closed String Tachyons,” JHEP 0701,090 (2007) [hep-th/0611035].   \n[32] I. R. Klebanov, D. Kutasov and A. Murugan, “Entanglement as a probe of confinement,” Nucl. Phys. B 796, 274 (2008) [arXiv:0709.2140 [hep-th]].   \n[33] R. C. Myers_and _A. Singh，“Comments_on Holographic Entanglement Entropy and RG Flows,” JHEP 1204,122 (2012) [arXiv:1202.2068 [hep-th].   \n[34] X. -H. Ge, S. F. Tu and B. Wang, “d-Wave holographic superconductors with backreaction in external magnetic fields,” JHEP 1209, 088 (2012)[arXiv:1209.4272 [hep-th]]. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    }
+]

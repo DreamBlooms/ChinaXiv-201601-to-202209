@@ -1,0 +1,900 @@
+[
+    {
+        "type": "text",
+        "text": "政策血缘关系网络构建与传播演化机理研究\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘刚，李涛，路彩霞，崔一冬(哈尔滨工程大学 计算机科学与技术学院，哈尔滨 150001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：政策体系是一个庞大的系统，R政策碎片化日益严重导致政策不一致性。本文通过挖掘政策血缘关系对政策系统进行建模，将数量庞大的政策形式化为政策血缘网络。在此基础上构建PCL模型，通过机器学习确定模型中节点的容量定义，实现政策网络中脆性点挖掘。该方法通过挖掘政策间的相关概念，将政策体系形式化为政策谱系树模型，再由政策谱系树的节点对之间发生“树影相吸”，最终形成基于政策血缘关系的政策血缘网络。通过政策血缘网络的传播演化机理，构建了PCRL模型，通过机器学习对容量参数进行参数训练，挖掘传播演化机理。最后选取政策实例进行仿真实验，验证了方法的有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：政策体系；政策血缘网络；机器学习；脆性点中图分类号：P315.69 doi: 10.3969/j.issn.1001-3695.2017.09.0918",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Text lineage network construction and evolution mechanism of communication ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu Gang, Li Tao,Lu Caixia, Cui Yidong (College of Computer Science& Technology,Harbin Engineering University,Harbin150001,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Inthis paper,thelineagefromapolicytext perspective modelingapproach.The method is an industrypolicytext formalized policies lineage tre.Between policytext lineage treenode \"shadows atract\"，eventuallyforming policybased network text lineage relationship.Andon the basisofthe policytexton the basisoflineage network nodes inthenetwork referralvalue,evaluateand dominant policypoints found kinship network text,through thediseminationof policy text lineage network evolutionmechanismconstructedPCRL model,andthe modelbasedonPCLabove,toachieveabrilepoint of excavationandto mine theevolutionmechanism.Finaly,the policytext experiment inthe fieldof modeling and analysis methods used in the field of policy text points specific area of policy research. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: policy system; policy text crucial points; Machine learning; brittle points mining ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着我国社会主义现代化建设的不断深入发展和社会主义法治社会的不断完善，各地政策层出不穷，中国特色社会主义法律体系基本形成[1]。但是著名民法学家孙宪忠指出我国社会主义法律体系的建成仅仅表明我国已基本解决了“有法可依\"的问题，如何将这些海量的政策法规体系化、完善化，迫切地需要研究人员们进一步地深入研究政策之间的关系，形成解读政策的研究工具，使我国的政策体系科学化，立法体系化。单纯通过人工的纯感性或半理性的政策分析方式，恐怕很难给出精确的结论。研究政策之间关系的存在与否、强度如何和传播机理，具有极为重要的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1）国内外研究现状",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现有的公共政策仿真大多采用仿真模型作为一种定量分析的分析方法。文献[13]在对政策研究的相关文献的研究基础上，可以看出，截止2012年5月27日，我国现有的政策仿真方法研究中，采用系统动力学作为政策仿真方法的文献有366篇，排在第二位的是多主体仿真方法55篇，数值仿真方法相关文献30篇。从政策的血缘关系角度对政策进行研究，现在国内外尚无相关研究成果发表。但是作为生物学领域的一个重要分支的血缘关系在数据血缘领域的研究在国外已有许多研究成果发表，值得本文借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Karvounarakis等人研究出一种基于元组的、半环溯源的语言，这种语言支持数据查询的存储、处理和索引方案，并且通过实验证明了该语言在数据溯源上可用。Bao等人[7提出一种紧凑的、高效的可达性标签方案用于解答给定规范下的工作流的数据溯源。即使工作流的结构更复杂，以及由于并行和循环执行导致的任意大的规范，运用源于固定规范的事实文中展示了一次运行的紧凑的可达性标记的有效计算。标签方案使用对数长度的标签，以线性时间运行，并在常数时间内，回答任意的可达性查询。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2）本文主要研究内容",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在前期研究中已经提出了一种新的政策形式化方法，即从政策血缘的角度将政策之间的血缘关系划分为政策显性血缘关系以及政策隐性血缘关系，并提出了挖掘政策隐性血缘关系的算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文将在前期研究工作的基础上，进行更进一步的深化。将以政策形式化的方法搭建政策血缘网络，并在此基础上进行政策脆性点提取，进而实现政策关键节点的发现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)构建政策血缘网络模型",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在前期研究工作的基础上，以政策中政策之间的关系为基础，以政策篇章为节点，政策篇章之间的相似度为政策血缘网络中边的权值，构建政策血缘网络，进而实现政策血缘网络的可视化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)基于政策血缘网络的PCL模型",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究适合于政策血缘网络基因传播方式和政策血缘网络上相继故障的负载-容量模型PCL（PolicyCapacityLoad）模型，观察政策基因在政策血缘网络上的传播模式，探究政策的相继故障方法，构建政策血缘网络的PCL模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)基于政策血缘网络的网络脆性点发现",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随机移除政策血缘网络中的节点或者节点集，记录被移除节点或节点集的原始负载在网络中重新分配的过程，记录相继故障结束后，网络中剩余节点的数量，计算节点的脆性度，并依据节点脆性度发掘政策血缘网络中的脆性点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作与理论基础",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在政策血缘关系的研究过程中，运用到政策网络的相关理论知识。在政策脆性点发现的研究中采用了相继故障的思想。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1政策血缘网络上的相继故障现象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相继故障模型大致可分为以下三类，即负载一容量模型，耦合映像格子模型及其他相继故障模型。其中负载-容量模型又可以分为只考虑节点负荷的节点动态模型、只考虑网络中边负荷的边动态模型以及既考虑节点负荷又考虑边负荷的节点与边的混合动态模型[10]。本研究中，网络中的节点之间因血缘关系而相连，节点之间血缘关系强的，边的权值就大，反之，则小。由于用汉语描述的政策政策，可以用形似或相近的词汇替换后，使得政策政策还保持原来的语义，那么政策血缘网络的研究就适合采用负载-容量模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 政策血缘网络模型构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "政策血缘网络模型的构建是政策显性要点分析和政策脆性点发现的基础。将行业政策形式化为一棵政策谱系树。政策谱系树的节点对之间发生\"树影相吸”，最终形成基于政策血缘关系的政策血缘网络。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1政策血缘关系挖掘",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本文中，政策之间的血缘关系用政策政策之间的相似度来度量。本文选择向量空间模型VSM（Vector Space Model）来计算政策政策之间的相似度。假设政策政策 $D _ { I }$ 与政策政策$D _ { 2 }$ 可分别表示为向量 $D _ { l } \\mathrm { = } ( W _ { l } , W _ { 2 } , \\ldots W _ { i } , \\ldots W _ { k } , \\ldots , W _ { n } )$ 与政策政策向量 $D _ { 2 } \\mathrm { = } ( W _ { i } \\mathrm { ^ { \\prime } } , \\ldots W _ { k } \\mathrm { ^ { \\prime } } , X _ { l } , . . . X _ { j } , . . . X _ { m } )$ ，其中 $\\textstyle \\mathcal { W } _ { i }$ 为特征项 $t _ { i }$ 的权重，$W _ { i }$ 为政策政策 $D _ { 2 }$ 中与政策政策 $D _ { I }$ 相同的特征项 $t _ { i }$ 在政策政策$D _ { 2 }$ 中的权重， $X _ { j }$ 为政策政策 $D _ { 2 }$ 中不同于政策政策 $D _ { I }$ 的特征项$t _ { j }$ 的对应权重， $\\mathbf { \\eta } _ { \\mathrm { ~ n ~ } }$ 和 $\\mathbf { m }$ 分别为政策政策 $D _ { I }$ 中与政策政策 $D _ { 2 }$ 中的特征项数目，那么政策政策 $D _ { I }$ 与政策政策 $D _ { 2 }$ 的血缘关系可以用式（1）来衡量。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { \\# H ( | \\mathfrak { L } ) , \\{ \\mathbf { \\delta } \\} , \\mathbf { \\Lambda } } } ( D 1 , D 2 ) = \\frac { \\sum \\mathbf { w } _ { i } \\times \\mathbf { w } _ { i } ^ { \\prime } } { \\left| D _ { 1 } \\right| \\times \\left| D _ { 2 } \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2政策谱系树的构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1政策谱系树的构建原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以政策谱系树的形式形象地表示了政策之间的血缘关系。以国宪法作为根节点，紧随宪法之后的各行业基本法为第一层子节点，之后各个行业的具体政策构成其基本法的子孙节点，由此形成树状的政策体系表示被称为政策谱系树。政策谱系树[I]传递的是政策之间的显性血缘关系，称通过政策谱系树显性地传播的政策的血缘关系为政策显性血缘。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于政策谱系树的概念，下面首先给出政策谱系树的形式化描述如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1 政策谱系树（policy pedigree tree）。Ps 是一个政策集合，基于Ps的政策谱系树是一个二元组PPTtree $\\scriptstyle : = < \\mathrm { T } , \\mathrm { R } >$ ，有：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）PPTtree是一棵政策谱系树；b）T是特征相同的数据元素的集合， $T \\in P s$ ：c）如果 $\\scriptstyle { \\left| { \\mathrm { T } } \\right| = 0 }$ ，那么 $R = \\emptyset$ ，此时的 PPTtree 是一棵空的政策谱系树;d）如果 $| \\mathrm { T } | { = } 1$ ，那么 $R = \\emptyset$ ，PPTtree只有一个根节点;e）如果 $| \\mathrm { T } | { > } 2$ ，那么R是 $\\mathrm { ~ T ~ }$ 上的一个二元关系的集合。除根节点外，对于集合T中的每一个节点，在关系R中有且仅有一个前趋节点，但可以有多个后继节点",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2政策谱系树的构建与更新算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于定义2给出的政策谱系树的模型，可以继续给出政策谱系树的构建和更新算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "输入：政策谱系树根节点root,新引入的政策节点newnode，阈值0.1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "输出：更新后的政策谱系树的根节点newroot生成新引入的政策节点newnode 的向量模型。if root= $\\Phi$ thenroot←newnode;newroot $$ root;}else{计算节点root与新引入的政策节点newnode的政策相似度值 $I _ { \\mathrm { \\# \\# \\# \\# } } ( r o o t , n e w n o d e ) ;$ （204号",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "比较阈值与I相似度(root,newnode);  \nifI 相似度(root,newnode) $\\scriptstyle > =$ 阈值then  \n将新引入节点newnode插入root节点的子节点序列中；end if;  \nend if;  \n}  \n返回更新后的政策谱系树的根节点newroot。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 树影相吸现象",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "现在整个法律法规体系由原来的一棵政策谱系树，分化为包含多个行业法规体系树林立的政策森林[1]。但都衍生自宪法，各棵树之间仍隐性地保持着政策森林的统一性。在政策森林中，政策谱系树之间形成隐性血缘关系，表现为一棵树的部分节点投影到另一棵树的部分节点上，从某一方向观察两棵树部分重合，这种现象称为\"树影相吸\"现象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义2对于政策谱系树A和B，树A中含有的政策节点为 $\\{ a I , a 2 , . . . a i , . . . , a n \\}$ ，树B中含有的政策节点为$\\{ b I , b 2 , . . . b j , . . . , b m \\}$ ，若存在满足 $I$ $\\begin{array} { r } { \\dot { \\eta } _ { \\dot { \\mathcal { H } } \\dot { \\mathcal { H } } \\ddot { \\mathcal { H } } } ( a _ { i } , b _ { j } ) \\in ( 0 , 1 ] , } \\end{array}$ 其中$\\scriptstyle 0 < i < n , 0 < j < m$ 关系的一对或者多对节点对，则称树A与树B发生了“树影相吸”。如图1所示",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取前 $k$ 个节点对;for $\\mathrm { i } { = } 1$ tok{将节点 $b _ { j }$ 插入节点 $a _ { i }$ 的子节点序列中；}返回更新后的政策模型 $A ^ { \\prime }$ 。其中 $1 < = \\mathrm { n } < = \\mathrm { N } , 1 < = \\mathrm { m } < = \\mathrm { M }$ ，其中N，M分别是子树A与子树B中的节点总数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5政策血缘网络的构建",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在政策森林中，政策隐性基因的传播，导致了“树影相吸”现象的发生，并且这种现象经常发生于不同的政策谱系树对之间，使得政策森林中的政策谱系树变得不再是相互独立的树木，而是充斥着不同强度的血缘关系的网络。本文称这种由于政策基因的传播而形成的政策关系网络为政策血缘网络，并将政策抽象为网络中的节点，政策之间的关系抽象为连接连个政策节点的网络中的边。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义3利用图G=(V,E,W)代表政策血缘网络，其中，V是政策政策节点的集合，即 $\\mathrm { { V } = \\{ V _ { j } | V _ { j } } $ 代表政策政策节点}；E是无向边的集合，即 $\\mathrm { { E } = \\{ \\Phi \\mid \\Delta , V _ { j } \\} }$ |单节点对政策政策 $\\mathrm { \\Delta V _ { i } }$ 与政策政策 $\\mathrm { V _ { j } }$ 之间存在血缘关系}，W为无向边的权值，值的大小代表政策政策之间的血缘关系的强弱。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8：。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4树影相吸的构造过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 基于政策血缘网络的脆性点发现",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单节点对的连接极有可能增加节点的负载，进而影响血缘关系在森林中传递的畅通性，当节点的负载超过其容量时，将影响政策谱系树的连通性，引起与节点相连的政策父节点和政策子节点的过载，使节点故障进一步扩大，最终导致整个政策体系的崩溃。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了避免单节点对的连接导致的政策体系的崩溃，本文有选择地选择节点对，使得既可以适应政策血缘关系的描述，又不增加政策森林的复杂度。政策谱系树子树对间连接算法具体过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入：子树A，子树B。  \n输出：更新后的政策模型 $A ^ { \\prime }$ 。  \n获取子树 A中的相吸节点集 $a _ { i }$   \n获取子树B中的相吸节点集 $b _ { j }$   \n创建变量 temp[i];  \nfor 子树A中的每一个节点 $a _ { i } { \\left\\{ \\begin{array} { l l } {  } \\end{array} }\\right.$   \nfor 子树B中的每一个节点 $b _ { j }$   \n{利用式(1)计算节点 $a _ { i }$ 与节点 $b _ { j }$ 的相似度值 $I _ { \\mathrm { \\# \\# } \\mathrm { A } ; \\mathrm { I \\# } } ( a _ { i } , b _ { j } )$ 将 $I _ { \\mathbb { H } \\{ | \\mathbb { E } / \\mathbb { H } \\} } ( a _ { i } , b _ { j } )$ 存入变量 temp[i；}  \n$\\}$ （204  \n对temp[i]中的值进行降序排列;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本章在政策血缘网络的基础上,研究政策血缘网络基因传播方式,通过构建政策血缘网络上相继故障的负载一容量模型PCL（policycapacityload）模型，发掘政策血缘网络中的脆性点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1政策脆性点发现思想",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在政策血缘网络中，如果某项关键政策的修改或删除导致与之相关的政策的正常执行受阻，那么影响会随着政策之间的血缘关系逐渐向相邻的政策节点传播，从而造成局部政策瘫痪。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义4脆性点。设政策血缘网络G 由 $\\mathbf { \\bar { n } }$ 个节点 $\\boldsymbol { V } _ { j }$ [ $i = 1 , 2 , \\dots , \\mathrm { n }$ ）组成，如果存在一个节点或者节点集，当节点因受到外部攻击而发生故障，从而使与之相连的节点和边也发生故障，有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m } _ { t \\to \\infty } \\delta ( G ) = \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则称政策血缘网络G具有脆性，该节点或者节点集就是政策血缘网络的脆性点或脆性点集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2构建 PCL模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文构建的基于政策血缘网络的PCL模型是节点容量和初始负载不相关的模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义5称句子 $s$ 中是否存在词语 $x$ ，句子 $S$ 语义的变化程度为词语 $x$ 在句子 $s$ 中的贡献度[11]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "词语对句子的贡献度用词语的权值来计算。假设句子 $S$ 中含有词语为 $\\{ t _ { 1 } , t _ { 2 } , \\cdots , t _ { n } \\}$ ，词语 $t _ { i } ( i = 1 , 2 , \\cdots , n )$ 的权值为 $\\boldsymbol { V } _ { j }$ ，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则词语 $t _ { i }$ 对句子 $S$ 的贡献值 $C o n W d _ { i s }$ 为 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC o n W d _ { _ { i s } } = \\frac { { \\cal { V } } _ { i } } { \\displaystyle \\sum _ { i = 1 } ^ { n } { \\cal { V } } _ { i } } = { \\cal { V } } _ { i } \\ast ( \\sum _ { i = 1 } ^ { n } { \\cal { V } } _ { i } ) ^ { - 1 } \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义6称句子 $s$ 对含有句子 $s$ 的段落 $C h p$ 的语义的影响程度称为句子 $s$ 在段落 $C h p$ 中的贡献度[]。如果段落 $P$ 中含有的子句序列为 $\\{ s _ { 1 } , s _ { 2 } , \\cdots , s _ { n } \\}$ ，子句 $s _ { i } ( i = 1 , 2 , \\cdots , n )$ 的权值设为 ${ \\bf \\nabla } _ { S } \\nu _ { i }$ ，那么子句 $s _ { i }$ 在段落 $P$ 中的贡献值 $\\it C o n S e n _ { i }$ 的计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC o n S e n _ { i } = \\frac { s v _ { i } } { \\displaystyle \\sum _ { i = 1 } ^ { n } s v _ { i } } = s v _ { i } * ( \\sum _ { i = 1 } ^ { n } s v _ { i } ) ^ { - 1 } \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "政策政策中的概念信息存储在政策概念信息表InformationofConcept中，InformationofConcept的表结构为{规范词；规范词的权值；词对句子的贡献度[]；词所在句子的编号；句子所在篇章的编号；句子对段落的贡献度[1]}。采用公式 $W _ { i = }$ 计算政策篇章中概念在政策篇章中的权值.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义5政策血缘网络中节点 $i$ 在时刻 $\\mathbf { \\chi } _ { t }$ 的负载为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { i } } ( \\mathrm { t } ) = \\sum _ { i = 1 } ^ { \\mathrm { n } } \\alpha W _ { i } ( t ) , 1 \\leq i \\leq n\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathfrak { n }$ 为t时刻时政策政策节点 $\\mathbf { i }$ 中含有的概念数量， $\\alpha$ 为可变参数。 $I _ { \\mathrm { i } } \\left( 0 \\right) = \\sum _ { i = 1 } ^ { \\mathrm { m } } \\alpha W _ { i } \\left( 0 \\right) , 1 \\leq i \\leq m$ （初始负载）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义6定义网络中节点 $i$ 的容量 $C _ { _ i } = \\sqrt { \\mathfrak { n } }$ 其中 $n$ 为政策篇章向量中含有的概念的数量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义7在政策血缘网络的负载均衡过程中，以网络边权为比例均衡到相邻节点 $j$ 上，那么邻居节点 $j$ 在 $t$ 时刻的额外负载为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta I _ { \\mathrm { j } } \\left( t \\right) = \\frac { s i m ( i , j ) \\times I _ { \\mathrm { i } } \\left( t \\right) } { \\displaystyle \\sum _ { h = 1 } ^ { \\mathrm { k } } s i m ( i , j ) } = \\frac { s i m ( i , j ) } { \\displaystyle \\sum _ { h = 1 } ^ { \\mathrm { k } } s i m ( i , j ) } \\times I _ { \\mathrm { i } } \\left( t \\right) , j \\in \\theta\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\theta$ 是政策政策节点 $i$ 的邻居节点集， $k$ 为节点i的相邻节点数目。 $\\mathrm { { S i m } ( i , j ) }$ 是政策政策节点i和政策政策节点j之间的相似度值。当节点 $i$ 只有一个相邻节点时，节点 $i$ 发生故障时，原来附加在节点 $i$ 上的负载将全部分配给节点 $i$ 的邻居节点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3脆性点挖掘 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.1相继故障过程",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文为研究政策网络中碎片化政策的影响，基于政策血缘网络构建容量与负载正相关的容量-负载模型研究政策网络的相继故障过程，具体过程如下：对网络进行随机攻击和蓄意攻击，删除网络中的节点i，该节点的负载按照相关度成正比分配给与之相邻的节点集，计算与之相邻的节点j的负载，如果负载大于节点容量，则节点j发生故障，设为故障节点进行负载均衡过程，如果网络中所有节点的负载都小于节点的容量，那么相继故障结束。演化过程如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e6453f0a84315d431f2956b79f7656b722e28e31345114fa3595501803ea48b.jpg",
+        "img_caption": [
+            "图2PCL模型演化过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.2脆性点挖掘 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在政策血缘网络中，如果移除的节点是政策血缘网络中的“重要节点 $\\dot { \\boldsymbol { \\mathit { I } } _ { \\mathbf { \\delta } } }$ ”，那么节点 $\\dot { \\boldsymbol { \\mathit { I } } _ { \\mathbf { \\delta } } }$ 的移除将触发政策血缘网络的相继故障现象，并将降低网络的连通性。网络中移除的节点越重要，网络遭到破坏的程度越严重，也即相继故障结束后，网络中节点的数量越少，因此可以用网络中节点的数目来衡量网络中节点的重要度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义8节点脆性度。在含有 $\\mathrm { ~ N ~ }$ 个节点的政策血缘网络 $\\scriptstyle { G = }$ $( V , E , W )$ 中，由于节点 $\\mathbf { \\nabla } _ { \\boldsymbol { { i } } }$ 的移除触发的网络中发生故障的节点的数量为 $n$ ，则称 $I _ { k i }$ 为节点 $i$ 的脆性度。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { k i } = \\frac { n } { N }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "显然 $0 \\leq I _ { k i } \\leq 1$ 。 $I _ { k i }$ 值越大，节点受到外界攻击时越容易触发网络中的其他节点发生故障。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在定义10的基础上给出政策血缘网络中节点的脆性度评估的具体算法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输入：政策血缘网络 $G$ 的邻接矩阵 $G$ ，概念信息表InformationofConcept",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输出：节点脆性度 $I _ { k i }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）定义存储政策血缘网络中每个节点的初始负载的数组  \n$\\scriptscriptstyle { L } / \\scriptscriptstyle { J }$ ；存储每个节点容量的数组 $c / J$ b）定义数组变量templ，temp，sum；//统计故障节点的  \n个数//计算政策血缘网络中节点的初始负载和容量c）for $\\scriptstyle { i = I }$ to $n$ {计算节点 $i$ 的初始负载 $I _ { i } ( 0 )$ ； $/ / n$ 为政策血  \n缘网络中节点的数目d） $L [ i ] \\gets I _ { i } ( 0 )$ ：e） $C [ i ] \\gets ( 1 + a ) * I _ { i } ( 0 ) \\left\\{ \\begin{array} { r l } \\end{array} \\right. \\left. \\begin{array} { r l } \\end{array} \\right. \\qquad \\}$ （204/\\*对变量 temp 赋值，变量 temp 中始终存放网络中因过载  \n而删除的节点 $^ { * } /$ f) $\\mathrm { t e m p }  i$ ：g）删除节点temp；/\\*提取节点temp的相邻节点集 $\\theta ^ { * } /$ h）遍历节点temp 的相邻节点 $j$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "i）将节点 $j$ 存储于数组temp[中；j）while ( $\\left| \\theta \\right| )$ {//负载均衡k)for $\\theta$ 中的每一个节点j{计算节点temp 的相邻节点j在t时刻的总负载 $I _ { j } ( t )$ ·1）if $I _ { j } ( t ) { \\le } C _ { j }$ then节点 $\\mathrm { ~ j ~ }$ 不发生故障;m）本次负载均衡结束;n）if $I _ { j } ( t ) > C _ { j }$ then节点j变为故障节点;0）从网络中移除节点 $j$ 以及与节点 $j$ 相连的边；p）转（17);q） $\\scriptstyle \\mathrm { s u m = s u m + 1 }$ ；}}r）用式（6）计算节点的脆性度；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4PCRL模型的构建 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文后期研究中对PCL的模型上进一步改进，提出容量与负载成正相关的容量—负载模型 PCRL(policy capacity positiverelatedtoload）模型。PCRL模型改进了节点容量的定义，负载均衡策略，并且构建了基于节点相关度的政策血缘网络，在此相关度网络上按照节点间的相关度成比例分配故障节点的负载。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.1节点容量的定义",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "节点的初始负载为节点正常状态下政策政策规定的条款，新旧政策的冲突导致政策中部分条款遭到破坏，因此政策节点的最大承受限度与初始负成正相关，其定义如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定义9政策血缘网络中节点i的容量：网络中节点 $\\mathbf { \\Phi } _ { j }$ 的容量与节点i的初始负载 $I _ { i }$ 成正比，网络中节点 $\\boldsymbol { i }$ 的容量 $C _ { _ i }$ 定义为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i } = ( 1 + \\lambda ) I _ { i } \\ , \\lambda > 0\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "λ为容量参数，基于决策树C4.5算法计算得出，容量参数是在0\\~1之间的实数，以0.1为单位，对节点集进行映射，将得到的节点重要性与已知节点重要度比较，计算信息增益率，本文中取节点的信息增益率为节点负载集映射得到的数据集与已知节点重要度的测试集的逼近程度，容量参数作为待确定容量定义的属性，把信息增益率最大的属性作为决策树的根节点，分裂出子节点，判断产生的子节点是否为叶子节点，是叶子节点则完成计算，得到节点容量的定义，否则以0.01为单位，循环进行上述过程，确定节点容量参数，确定节点容量定义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.2按政策相关度分配负载",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "政策相似度：直观表现为两政策文字的相同程度。政策相关度：直观表现为两政策内容的主体及涉及的元素的相互作用力度。相似的两政策不一定相关，相关的两政策可能相似。假设发生故障节点为 $i$ ，节点 $i$ 上的负载 $I _ { i } ( t )$ 以节点间的相关度为比例分配到与之相连的节点 $j$ 上，此时节点 $j$ 的负载增量 $\\Delta I j ( t )$ 为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta I j ( t ) = \\frac { r e ( i , j ) } { \\displaystyle \\sum _ { h = 1 } ^ { k } r e ( i , j ) } \\times I _ { 1 } ( t ) , \\quad j \\in \\theta\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $r e ( i , j )$ 是政策政策节点 $i$ 和其邻节点 $j$ 之间的相关度值。3.4.3构建相关性网络",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1）政策政策相关性计算思想",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文的研究以政策政策中的条款为基本单位，记为政策子句。一个句子的成分由句子主体、主体的动作和动作的承受者构成，一般句子的主体和动作承受者为名词，隐含的相关性因素即为名词本身，可通过相同关键词比较明显的得到，即运用句子向量的相似性计算即可得出。句子中的动作，直观表现为动词，通常隐含的相关性因素为动作的执行者和动作的执行范围等。如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/51b87fb639c961a95bd2af87948cca422740366d5486b27ed5724aa90b1d2196.jpg",
+        "img_caption": [
+            "图3句子的构成成分"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "两个句子间的相关性表现为主体或承受者的相关和结构性相关。其中主体或承受者相关表现为句子中名词的相同或相近，句子结构性相关表现为由句子中动词涉及的相关因素出现交集而造成的相关。根据政策政策中的政策子句相关度计算政策政策的相关度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）相关度计算形式化探究",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对政策血缘网络对政策预处理过程中，引进动词相关因素集，例如监督 $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ (监督部门，监督范围)，动词相关因素集建成一个词典。词典的存储形式：关键词 $$ 动作的发出者 $$ 动作的接受者。提取关键词时，对于动词进行筛选，对照动词相关空间词典中的元素。如果关键词 $\\ c =$ 元素，用动作的发出者、动作的接受者替换。得到句子的相关因素向量表示$f ( c _ { 1 } , c _ { 2 } . . . c _ { n } ) \\ [ 1 2 ]$ 。运用向量相似度算法[13]，得到两个句子的相似度，设定阈值 $\\mathbf { \\Omega } _ { a }$ 相似度大于 $\\mathbf { \\Delta } _ { a }$ ，则相关设置句子 $i$ 和句子 $j$ 的相关度 $r ( i , j ) { = } I$ 否则 $r ( i , j ) = 0 .$ 。相关度算法如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "输入：子句预处理后所得词汇集合WS，相关因素表RelatedWordTable",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "输出：子句词汇相关性因素分解后的词汇集合RWS。a)获取子句预处理后所得的词汇集合WS；b)令 $R W S = W S$ ;c）for each Rws中的词汇word{d）获取预处理过程中对词汇word的词性标记sign；//词性过滤e）ifsign为动词{//选择动词替换f)在相关因素表RelatedWordTable中检索词汇word；g)if词汇word在相关因素表RelatedWordTable中{h)将word替换为相关因素表RelatedWordTable中的相关主体和相关范围;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "i)}elseifsign不为名词{ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "j）删除词汇word；}//进行词性过滤，删除辅助性词汇}} ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "k)返回词汇集合RWS；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3)相关性网络的构建 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "按照上面提到的算法，计算网络中节点的相关度，依次确定网络节点的连接关系，即确定网络中的边和边的权值。基于政策子句的政策政策相关度计算的具体算法如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "输入：政策子句的相关度矩阵RS，节点a的政策子句起始序号 ${ \\bf { a } } _ { 0 } , { \\bf { a } } _ { \\mathrm { { n } } }$ ，节点b的政策子句起始序号 ${ \\mathsf { b } } _ { 0 } , { \\boldsymbol { b } } _ { m }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "输出：政策政策 $^ { } | a , b _ { }$ 的相关度 $R E ( a , b )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a)初始化政策政策相关度 $\\mathtt { R E } ( \\mathtt { a } , \\mathtt { b } )$ ，令 $\\mathrm { R E } ( \\mathrm { a } , \\mathrm { b } ) { = } 0$ ；定义变量 $s u m { \\mathrm { = } } 0$ b)for矩阵横坐标i $\\scriptstyle ( { \\mathrm { ~ a 0 } } < = { \\mathrm { i } } < = { \\mathrm { a } } _ { \\mathrm { n } } )$ Yc)for 矩阵纵坐标 j $, ( \\boldsymbol { \\mathrm { b } } _ { 0 } < = \\boldsymbol { \\mathrm { j } } < = \\boldsymbol { b _ { m } }$ ）{记录政策子句 $i$ 和 $j$ 的相关度 $r ( i , j )$ e) $s u m i \\mathrm { = r ( i , j ) ; } \\qquad \\} \\}$ f)定义变量 $\\mathrm { S ( a , b ) { = } 0 ; S ( a , b ) { = } ( a _ { n } { - } a _ { 0 } ) ^ { * } ( } b _ { m } { - } b _ { 0 } ) ;$ g)政策政策相关度 $\\mathrm { R E ( a , b ) } { = } s u m _ { i } / \\mathrm { S ( a , b ) }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 实验结果验证及其应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1政策血缘网络的可视化结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本实验以社会养老保险相关政策政策为例，进行数据处理，得到政策血缘网络的节点和边的数据，用EXCEL 将数据进行处理和转换，导入GEPHI软件进行运算，绘制出该政策政策的血缘关系网络，如图4所示",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2政策脆性点发现",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "政策脆性点发现实验由政策篇章中词汇权值计算、节点容量和负载的计算、负载均衡策略三部分组成。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2.1PCRL模型的构建的结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "改进后的容量定义： $\\mathrm { { C i } = \\left( 1 + a \\right) }$ Li，按照4.3中容量参数的训练算法计算a的值。网络中节点发生故障时，可认为政策向量中特征项均受到破坏，负载变为原来的两倍，因此节点容量参数a应满足 $\\scriptstyle 0 < = \\mathop { \\mathrm { a } } < = 1$ ，整理数据，得到效果见图5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/44876610fe212a5d0d13b972a0b19d90a6c86a0f8a98d118f1b22ba1b7506a27.jpg",
+        "img_caption": [
+            "图4政策血缘网络",
+            "图5容量参数训练",
+            "图7改进结果对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5分析可得，猜想正确，容量参数 $\\scriptstyle { \\mathrm { a } } = 1$ 时，网络的相继故障不明显，节点重要性评估相差很大。B4 的初始负载是0.8272444，并且在根节点周围以0.01为单位，所以以 $\\mathtt { a } { = } 0 . 8$ 为决策树根节点，循环计算，处理数据，折线图对比分析如图6所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10 专家评估 出金重项护 MWN 排序1.2 排序1.3 0 排序1.4 A1A6B3B6B9 一排序1.5 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "864 专家评 节点重要度 估 VWN 排序 2 1.75 0 排序 A 0 B 6 B8 1.76 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "按照算法，选取0.81为决策树分枝点，由图6可得，容量参数为0.81效果最好，验证了算法的正确性。取0.01为单位，循环计算得出结果参数为 $\\scriptstyle \\mathtt { a } = 0 . 8 1 0$ 。容量与负载正相关的PCRL模型更加接近专家评估排序，对节点的重要性评估更加准确，完成了PCL模型的改进。改进结果如图7所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10度 节点重要 5 WM 结果 专家评估0 111111111AA44B",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2.2负载均衡过程的改进验证 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "负载均衡过程的改进分为两部分实现：计算政策血缘网络中有边相连的节点对的相关度，在前期研究阶段构建的基于相似性的政策血缘网络上按照节点间的相关度成比例分配负载。对政策血缘网络中有边相连的节点对的相关度进行评估，结果如表3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2.3构建基于相关性的政策血缘网络",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于节点相关性的政策血缘网络的构建分为政策政策子句间相关性计算和政策政策间相关性计算。根据算法计算得到所有政策政策间的相关度，设置节点间存在边的阈值a为0.1，构建的相关性网络如图8所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/078056c9d9313b40f8bfd47ff930f374911d7e23fcccb94189705abd3157d6f8.jpg",
+        "img_caption": [
+            "图6容量参数训练效果",
+            "图8阈值为0.1的基于相关性的政策血缘网络"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2.4PCL模型实验结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1)政策篇章向量表示",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首先对每个政策政策进行政策预处理，得到篇章中的关键词，计算每个篇章中词的权值，词对句子的贡献度，句子对篇章的贡献度。如表1所示，是政府采购法中第一章的部分词汇信息表。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2)节点的容量和初始负载的计算",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由第1）步计算所得每个篇章节点的概念信息为源数据，录入信息表InformationofConcept中，计算政策血缘网络中每个节点的初始负载和容量，计算结果如图9所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ca4c417b1ab226f5b1b9af5e9b19d345115c5ebd0910fb605f0f0ab6f13e252.jpg",
+        "img_caption": [
+            "图9政策血缘网络中节点故障结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3)负载均衡过程",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "政策血缘网络的负载均衡实验过程包括三个部分：a）随机选择要删除的政策血缘网络中的节点i；b）节点i的初始负载在网络中进行负载重新分配；c）负载均衡结束后网络的情况。随机移除政策血缘网络的每个节点之后，网络中发生的相继故障过程如表2所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4)脆性点评估结果",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "依据上述结果，对政策血缘网络中的节点的脆性度进行评估，评估结果如图10所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9ee60a77ab10eb3392815fa1f9a5d3201a1a7302a54e3188dba56bd0a5d9922.jpg",
+        "img_caption": [
+            "图10政策血缘网络脆性点评估结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2.5实验结果对比分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文对于脆性点的挖掘进行了两种改进，在原网络上按照节点相关性成比例分配负载和构建相关性网络并按照节点相关性成比例分配负载，本节将以专家评估结果为准，对两种改进方式的实验结果与PCL模型相对比，分析改进效果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "按照在相关性网络上节点间按相关度负载均衡方式即PCRL模型的结果中，节点的重要度评估更贴近专家评估结果，其中对于节点B3的重要性评估两种改进方法较PCL模型都明显提高。B3是采购法第三章，规定了政府采购的方式，内",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "容涉及需要废标的情形、采用竞争性谈判方式采购等，与招标投标法具有很强的血缘关系。点间的相互影响出发，基于节点相关性给出节点的关系，可以更好地挖掘网络中的脆性点。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/17d27f996392c9864bcbcb1b13f04fec7c3ca143352a4843e883db7bc2ec2b51.jpg",
+        "table_caption": [
+            "表1政府采购法第一章部分词汇信息表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>关键词</td><td>权值</td><td>关键词对句子的贡献度</td><td>关键词所在的句子编号</td><td>关键词</td><td>权值</td><td>关键词对句子的贡献度</td><td>关键词所在的句子编号</td></tr><tr><td>规范</td><td>6</td><td>0.003442</td><td>1</td><td>自治区</td><td>3</td><td>0.001721</td><td>15</td></tr><tr><td>公共利益</td><td>3</td><td>0.001721</td><td>1</td><td>实施</td><td>6</td><td>0.002754</td><td>16</td></tr><tr><td>工程</td><td>3</td><td>0.001721</td><td>8</td><td>服务</td><td>3</td><td>0.001721</td><td>21</td></tr><tr><td>政府</td><td>1</td><td>0.000574</td><td>8</td><td>国务院</td><td>5</td><td>0.002869</td><td>21</td></tr><tr><td></td><td>.....</td><td></td><td></td><td>·</td><td></td><td></td><td></td></tr><tr><td>规定</td><td>6</td><td>0.011016</td><td>9</td><td>监督</td><td>3</td><td>0.001721</td><td>22</td></tr><tr><td>公平竞争</td><td>3</td><td>0.001721</td><td>9</td><td>管理部门</td><td>6</td><td>0.003442</td><td>22</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/04b918272719cc09304083b4587ed9151c61ad0b7e707e413d77b28778195c1d.jpg",
+        "table_caption": [
+            "表2政策血缘网络中节点的初始负载和容量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>节点</td><td>相继故障过程</td><td>网络中剩余节点</td></tr><tr><td>A1</td><td>A1->B3->A6</td><td>A3,A5,B1,B2,B4,B5,B6,B7,B8,B9,</td></tr><tr><td>A2</td><td>无</td><td>A1,A3,A5,A6,B1,B2,B3,B4,B5,B6,B7,B8,B9</td></tr><tr><td>A5</td><td>A5->B3->A6->B4->A1->B2->B6</td><td>A3,B1,B5,B7,B8,B9</td></tr><tr><td>A6</td><td>A6->B3->A1</td><td>A3,A5,B1,B2,B4,B5,B6,B7,B8,B9</td></tr><tr><td>B1</td><td>B1->B3</td><td>A1,A3,A5,A6,B2,B4,B5,B6,B7,B8,B9</td></tr><tr><td>B2</td><td>B2->B3->A1->A6->B6</td><td>A3,A5,B1,B4,B5,B7,B8,B9</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d17014dce090245cad3ed8feec39ff55ec1d9c559920e1b5a1fee0a72c940bb5.jpg",
+        "table_caption": [
+            "表3基于政策血缘网络的节点相关度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>节点对</td><td></td><td>相关度</td><td>节点对</td><td></td><td>相关度</td></tr><tr><td>A1</td><td>B1</td><td>0.430769231</td><td>A5</td><td>B1</td><td>0.148351648</td></tr><tr><td>A1</td><td>B2</td><td>0.07142857</td><td>A5</td><td>B3</td><td>0.136363636</td></tr><tr><td>A1</td><td>B3</td><td>0.5</td><td>A5</td><td>B4</td><td>0.230769231</td></tr><tr><td>A1</td><td>B5</td><td>0.14</td><td>A6</td><td>B1</td><td>0.038461538</td></tr><tr><td>A3</td><td>B1</td><td>0.11538462</td><td>A6</td><td>B9</td><td>0.333333333</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "针对海量政策法规中普遍存在的政策不统一和政策\"碎片化\"现象，本文从政策血缘的角度出发，提出了将政策网络、政策血缘理论以及社会网络中的相继故障理论三者相结合的研究技术路线与研究内容。根据政策体系的血缘关系，构建政策谱系树、政策森林，根据\"树影相吸\"现象，构建政策血缘网络模型，将海量政策建成统一网络，建立基于政策血缘网络的PCL模型。同时基于政策血缘网络的PCL 模型和改进后的PCRL模型挖掘出政策血缘网络中的脆性点及脆性点集。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]赵之滢，于海，朱志良，等．基于网络社团结构的节点传播影响力分析[J].计算机学报,2015,38(4):754-755.[2]王莉，程学旗．在线社会网络的动态社区发现及演化[J].计算机学",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "报2015,38(2):223-224.  \n[3]周涛，张子柯，陈关荣，等．复杂网络研究的机遇与挑战[J]．电子科技大学学报,2014(1).  \n[4]胡磊．浅谈中国特色社会主义法学理论体系研究[J]．法制博览,2013 (5): 104-105  \n[5]程克勤 李世伟 周健.基于边权值的网络抗毁性评估方法[J].计算机工程与应用.2010(35):95-100.  \n[6]胡磊．浅谈中国特色社会主义法学理论体系研究．法制博览．2013(5): 104-105.  \n[7]SchweitzerF,Fagiolo G, Sornette D,et al.The new challenges.science[J].Economic Networks,2009 (6): 422-425.  \n[8]刘刚．面向领域的软件需求一致性验证方法研究[D].哈尔滨：哈尔滨工程大学.2008:21-54.  \n[9] 刘铭，吴冲，刘远超，等．基于特征权重量化的相似度计算方法[J].计算机学报 2015,38(7):1422-1423.  \n[10]Moreno Y,Pastor-Satorraset al.Critical load and congestioninstabilities in scale-free networks [J].Europhys.Lett.，2003,62:292-298P  \n[11] Crucitti P,Latora V,Marchiori M.Model for cascading failures incomplex networks [J].Phys.Rev.E,2004: 69  \n[12] Freeman L C.Conceptual clarification.social networks [J]. Centrality inSocial Networks,1979,1: 215-239  \n[13]刘影．面向领域的隐形政策血缘挖掘方法研究[D].哈尔滨：哈尔滨工程大学工学.2013:14-33.",
+        "page_idx": 7
+    }
+]

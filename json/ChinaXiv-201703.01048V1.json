@@ -1,0 +1,470 @@
+[
+    {
+        "type": "text",
+        "text": "Laminar Forced Convection from a Rotating Horizontal Cylinder in Cross Flow ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Prabul Chandran1, G. Venugopal², H.Abdul Jaleel 1,M. R. Rajkumar1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Dept of Mechanical Engineering, College of Engineering Trivandrum, Kerala, India.   \n2. Dept of Mechanical Engineering, Government Engineering CollgeThrissur, Kerala, India. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\copyright$ Science Press and Institute of Engineering Thermophysics, CASand Springer-Verlag Berlin Heidelberg 2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The influence of non-dimensional rotational velocity,flow Reynolds numberand Prandtl numberof the fluid on laminar forced convection from arotating horizontal cylinder subject to constant heat flux boundary condition is numericaly investigated.The numerical simulations have been conducted using commercial Computational Fluid Dynamics package CFX available in ANSYS Workbench 14.Results are presented for the non-dimensional rotational velocity $\\mathfrak { a }$ ranging from O to 4,flow Reynolds number from 25 to 40 and Prandtl number of the fluid from 0.7 to 5.4.The rotational efects results in reduction in heat transfer compared to heat transfer from stationary heated cylinder due to thickening of boundary layer as consequence of the rotation of the cylinder. Heat transfer rate increases with increase in Prandtl number of the fluid. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Heated rotatingcylinder,Non-dimensionalrotational velocityFlowReynoldsnumber,Prandtlnumber ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The flow of fluids past heated stationary horizontal circular cylinder(s) is a challenging classical problem in fluid mechanics and heat transfer [1,2]. Heat transfer from a stationary horizontal cylinder has been a subject of interest for many experimental and theoretical researches because of its numerous engineering applications. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dennis et al. [3] numerically investigated steady laminar forced convection from a circular cylinder at low Reynolds numbers.The flow and energy equation were solved for Prandtl number up to $3 . 3 { \\times } 1 0 ^ { 4 }$ and Reynolds number up to 4O for the cylinder subjected to constant temperature.ThepredictedmeanandlocalNusselt numberwas compared with the available experimental data of McAdams [4] and Van Der Hegge Zijen [5] and found to agree well.A numerical model was developed by Chun and Boehm [6] to study the forced convection heat transfer over a circular cylinder in cross flow. Two different cases were studied viz.cylinder surface subjected to constant heat flux and constant wall temperature.The developed numerical model were able to successfully predict the heat transfer rate from the cylinder for Reynolds number up to $ { \\mathrm { R e } } { } = 2 0 0 0$ ，which were in good agreement with the laboratory experimental values.They also reported that uniform heat flux condition showed a higher value of heat transfer coefficient at the constant wall temperature of the cylinder for the same Reynolds num ber. Experiments were performed by Sanitjaiand Goldstein [7] to investigate the heat transfer by forced convection from a circular cylinder in cross flow for Reynolds number $2 \\times 1 0 ^ { 3 }$ to $9 \\times { 1 0 } ^ { 4 }$ and Prandtl number from 7 to 176. The cylinder was subjected to uniform heat flux boundary condition. The study reported that on the front part $( 0 ^ { \\circ } < \\theta < 8 5 ^ { \\circ } )$ ）ofthecylinder,local heat transfer increases with increasing Prandtl number.However,on the rear part ( $( 8 5 ^ { \\circ } < \\theta < 1 8 0 ^ { \\circ } )$ ,local heat transfer depends on flow characteristics near the surface. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nomenclature ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/687a2c633f5550a72f2cb42b472544c90dc4045fc784b8212e2da94de2fdcb5b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Cp</td><td> specific heat of fluid (J/kg K)</td><td>T</td><td>temperature (K)</td></tr><tr><td>D</td><td>diameter of the circular cylinder (m).</td><td>T8</td><td>temperature of fluid at inlet (K).</td></tr><tr><td>h</td><td>local convective heat transfer coefficient.</td><td>U</td><td>Velocity vector.</td></tr><tr><td>k</td><td>(Wm-2K-1). thermal conductivity of fluid (W/m K)</td><td>U8</td><td>uniform velocity of fluid at inlet (ms-1).</td></tr><tr><td>L</td><td>upstream length from the inlet to the centre</td><td>u</td><td>X-component of velocity(ms-1).</td></tr><tr><td>L2</td><td>of the cylinder (m) downstream length from the centre of the cy-</td><td>V</td><td>y component of velocity(ms-1).</td></tr><tr><td>Ly</td><td>linder to the outlet (m) height of the computational domain (m)</td><td>Greek letters</td><td></td></tr><tr><td>NuL</td><td>local Nusselt number.</td><td>α</td><td>non-dimensional rotational velocity (Do /2U</td></tr><tr><td>Nuavg</td><td>mean Nusselt number.</td><td>V</td><td>Kinematic viscosity (m²/s).</td></tr><tr><td>P</td><td>pressure (Pa)</td><td>p</td><td>Density (kgm-3).</td></tr><tr><td>Pr</td><td>Prandtl number.</td><td></td><td>Angular velocity (rads-1).</td></tr><tr><td>q\"</td><td>heat flux (Wm-2).</td><td>0</td><td>Angular displacement from the front stagnat</td></tr><tr><td>Re</td><td>Reynolds number (UoD/v).</td><td></td><td>point in the anti-clockwise direction (degrees</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results of numerical investigation of momentum and heat transfer from cylinders in laminar cross-flow at $1 0 ^ { - 4 } { \\le } \\mathrm { R e } \\le 2 0 0$ was presented by Lange et al [8]. The finite element code developed by Lange et al. [8] employing multi grid and local grid refinement gave highly accurate results for drag coefficient, Strouhal and Nusselt numbers.Also for the Reynolds number considered in the study they were able to identify different flow regimes especially the critical Reynolds number where vortex shedding started was determined.Bharti et al. [9] analyzed numerically heat transfer from an unconfined circular cylinder in steady cross-flow regime.Numerical investigations were performed using a finite volume method implemented on a Cartesian grid system in the range as $1 0 { \\leq } \\mathrm { R e } { \\leq } 4 5$ and $0 . 7 { \\le } \\mathrm { P r } { \\le } 4 0 0$ .A correlation for Nusselt number as a function of dimensionless variables was presented. The study revealed that for the same Reynolds number and Prandtl number the heat transfer coefficient from the cylinder surface is higher when it is subjected to uniform heat flux condition in comparison with uniform wall temperature condition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently forced convection heat transfer from rotating circular cylinders has gathered great importance for many researches due to its various applications which includes cylindrical cooling devices in plastics and glass industries,contact cylinder driers in paper making,textile,and food processing industries,etc. The flow past such cylinders is characterized by a series of wake interactions with increase in Reynolds number. These wakes interact with the hydrodynamic and thermal boundary layer over the heated rotating cylinder(s) altering the flow and thermal field. Badr et al. [1O] numerically investigated the laminar forced convection flow from a heated rotating isothermal cylinder for Reynolds number up to 100. It was reported that for range of parameters considered in the study, the flow and thermal field were strongly influ enced by the speed of rotationof the cylinder.Peramane and Sharma[11] studied numerically the flow and thermal field over a rotating cylinder for $2 0 \\leq \\mathrm { R e } \\leq 1 6 0$ and $\\mathfrak { a }$ $\\leq 6$ . The study revealed that the mean Nusselt number and coefficient of drag decreases with increasing rotation speed. Numerical investigations were performed by Sharma et al. [12] to study the influence of Prandtl number on flow and heat transfer from a heated rotating cylinder subjected to constant wall temperature.They reported that the average Nusselt number increases with Prandtl number for affixed value of Reynolds number and non-dimensional rotational velocity. The above lite rature review shows that many of the previous investiga torshave analyzed the flow and heat transfer characteristics of heated stationary/rotating cylinders.In the above literature review it is also pointed out that the fluids in the vicinity of the heated cylinder can have a major in fluence in the thermal energy transport process.It's worth to mention here that the literature pertaining to the role of different fluids on the heat transfer from heated rotating cylinder is scarce. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present work role of rotational rate of the heated cylinder and Prandtl number on the rate of heat transfer froma circular cylinder in the low Reynolds number regime in steady cross-flow is investigated. Detailed nu merical results are presented for Reynolds number range $2 5 \\leq \\mathrm { R e } \\leq 4 0$ ,Prandtl number range $0 . 7 \\leq \\mathrm { P r } \\leq 5 . 4$ and non-dimensional rotational velocity range $0 \\leq \\alpha \\leq 4$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Problem Statement and Mathematical Formulation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2D,steady and incompressible flow of fluid of uniform velocity $\\mathrm { U } _ { \\infty }$ and temperature $\\mathrm { { T _ { \\infty } } }$ over a heated ro tating circularcylinder of diameter $\\mathrm { D } = 3 \\mathrm { c m }$ is considered (Fig.1). The cylinder is placed in an unconfined channel. This unconfined flow is simulated by placing the cylinder symmetrically between two walls which are subjected to slip boundary condition. The cylinder is placedata distance of $_ { \\mathrm { L _ { 1 } = 9 1 } . 5 \\mathrm { c m } }$ from the inlet and at a distance $\\mathrm { L } _ { 2 } { = } 9 1 . 5 \\mathrm { c m }$ from the outlet. The surface of the cylinder is subjected to constant heat flux of $1 0 0 \\mathrm { W / m } ^ { 2 }$ Furthermore the thermo-physical properties of the fluid are assumed to be independent of temperature.The objective of this work is to elucidate the role of Prandtl number, Reynolds number and non-dimensional rotational velocity on the forced convection from the heated rotating horizontal cylinder. The governing differential equations pertaining to this problem is given below. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cae3c9f85d2e459d5c86ed9e00e981c020fd1f7eb73c522627ad2594a26e1b78.jpg",
+        "img_caption": [
+            "Fig.1Schematic diagram of the physical configuration "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Continuity Equation: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla \\cdot \\boldsymbol { U } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Momentum Equation: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\big ( \\boldsymbol { U } \\cdot \\boldsymbol { \\nabla } \\big ) \\boldsymbol { U } = - \\frac { \\boldsymbol { \\nabla } p } { \\rho } + \\nu \\boldsymbol { \\nabla } ^ { 2 } \\boldsymbol { U }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Energy Equation: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\big ( } U \\cdot \\nabla { \\big ) } T = { \\frac { k } { \\rho C _ { p } } } \\nabla ^ { 2 } T \n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Numerical Analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The numerical analysis of the problem has been performed using commercial computational fluid dynamics package CFX available of ANSYS Workbench 14 [13]. The cylinder is modeled as a wall subjected to rotation and constant heat flux.The region between the cylinder and parallel plates ismodeled as fluid.Simulations have beenperformedfor different fluidsofPrandtl number 0.7. 0.9,1.4 and 5.4.For each fluid simulations have been performed for Reynoldsnumber25,30,35 and 40, $\\mathtt { a } = 0$ 1,2,3 and 4.The maximum Reynolds number considered in the study is less than 45.It is worth to mention here that as reported by Bharti et al.[9] for $\\scriptstyle { \\mathrm { R e } } < 4 9$ the flow can be treated as steady, incompressible and lami nar. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Boundary Conditions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Free slip velocity condition is imposed on the outer walls.At the inlet uniform velocity is specified,wheras at the outlet outflow boundary condition is employed. The above boundary conditions is explained in detail as below. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inlet: ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Velocity- $\\scriptstyle \\mathbf { u = U _ { \\infty } }$ $\\scriptstyle \\mathbf { v } = 0$ . Temperature- $\\mathrm { T } \\mathrm { = } \\mathrm { T } _ { \\infty . }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Outlet: ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The default outlet boundary condition in CFX,which assumes a zero diffusion flux for the flow variables.This physically means that the conditions of the outflow plane are extrapolated within the domain and have negligible impact on the upstream flow conditions.This is similar to Neumann boundary condition [14] ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cylinder surface: ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "No-slip boundary condition. Velocity- $\\scriptstyle { \\mathfrak { o } } =$ constant. Heatflu $\\kappa = 1 0 0 \\mathrm { W } / \\mathrm { m } ^ { 2 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Outer wall: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } u } { \\hat { \\sigma } y } = 0 , \\nu = 0 \\mathrm { a n d } \\frac { \\hat { \\sigma } T } { \\hat { \\sigma } y } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The local and the average Nusselt number are evaluated by the following expressions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN u _ { L } = \\frac { h D } { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN u _ { a \\nu g } = \\frac { 1 } { 2 \\pi } { \\int _ { 0 } ^ { 2 \\pi } N u _ { l o c a l } d \\theta }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Computational Domain and Grid ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A two dimensional computational domain has been created for numerical computations. The computational domain is discretized using structured non-uniform hexahedral cells.At the solid liquid interface and also at the region downstream of the cylinder the gradient of temperature and velocity are high and therefore to resolve these gradients fine grids have been employed in these regions.The grid is generated using the commercial grid generator ICEM CFD available in ANSYS Workbench 14.In order to obtain an optimum grid for numerical computations a grid independence study was conducted and the results are presented in Table 1.It can be observed from Table 1 that a structured,non-uniform grid structure with total 1,12,800 elementsis found to be optimum for numerical simulations.The final computational domain along with the grid used for the analysis is shown in Fig. 2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e562a565bc4aed11ff80b9ec87403b102b191b6b04722e2c2713e75ee56023a9.jpg",
+        "table_caption": [
+            "Table1 Grid Sensitivity Study $( { \\mathsf { q } } ^ { \\prime \\prime } = 1 0 0 \\mathrm { W } / \\mathrm { m } ^ { 2 }$ $\\mathfrak { a } = 3$ $\\mathtt { R e } = 4 0$ and $ { \\mathrm { P r } } = 0 . 7$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Noofcells</td><td colspan=\"11\">Numerically predicted surface temperature at different angular positions(0)</td></tr><tr><td>T</td><td>T</td><td>T</td><td>T4</td><td>T5</td><td>T6</td><td>T7</td><td>T</td><td>T9</td><td>T10</td><td>T11</td><td>T12</td></tr><tr><td>28,200</td><td>337.6</td><td>334.4</td><td>331.8</td><td>330.6</td><td>330.6</td><td>331.4</td><td>332.6</td><td>334.0</td><td>335.5</td><td>337.1</td><td>338.5</td><td>338.9</td></tr><tr><td>56,400</td><td>336.8</td><td>334.2</td><td>331.6</td><td>330.5</td><td>330.4</td><td>331.0</td><td>332.1</td><td>333.4</td><td>334.7</td><td>336.2</td><td>337.4</td><td>337.8</td></tr><tr><td>1,12.800</td><td>338.1</td><td>334.9</td><td>332.2</td><td>331.0</td><td>330.9</td><td>331.7</td><td>333</td><td>334.5</td><td>336.0</td><td>337.6</td><td>339.0</td><td>339.4</td></tr><tr><td>2.25,600</td><td>338.4</td><td>334.8</td><td>332.4</td><td>331.1</td><td>331</td><td>332.1</td><td>333.4</td><td>334.6</td><td>336.1</td><td>338.5</td><td>339.2</td><td>339.6</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7488d355f555f1418a851a82daca2030948beb43d55443896aec0a398ff24a4b.jpg",
+        "img_caption": [
+            "Fig.2 Computational domain along with grid used for 2D numerical simulation "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NumericalSolutionProcedure ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The governing equations of flow and heat transfer are solved by using a finite volume solver CFX. The semi implicit method for the pressure linked equations (SIMPLE) has been used as the pressure velocity coupling scheme.The upwind scheme is employed to discretize the convective and diffusive terms. Convergences of the solution are checked by monitoring the residues of discretized governing equations.A convergence criterion of $1 0 ^ { - 6 }$ is used for continuity, momentum and energy equations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The numerical methodology employed in the present study has been validated with the previous numerical work reported in literature(Bharati and Chhabra) [9], to investigate heat transfer froma stationaryheated cylinder in cross-flow. The comparison of results ofLocal Nusselt number variations shown in Fig.3 is of good agreement with each other. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To get more insight into the quantitative measure of heat transfer, a representative comparison of the thermal fieldis made andtheresultisshown in Table2.The results presented in Table 2 indicate that the average surface temperature is found to agree well with the work of Bharati and Chhabra [9]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/99ac122e08233e0a2f8e244ce1cd0c955f9a3aa997424a245d20e0d5771c233a.jpg",
+        "img_caption": [
+            "Fig.3Comparison of Local Nusselt number $\\left( \\mathrm { N u _ { L } } \\right)$ along the circumference of the cylinder for different angular po sitions (0). ( $\\mathrm { R e } = 2 0$ $\\mathrm { q } ^ { \\prime \\prime } = 1 0 0 \\mathrm { W } / \\mathrm { m } ^ { 2 }$ $ { \\mathrm { P r } } = 0 . 7$ ${ \\mathfrak { a } } = 0$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b721a61e293b9222a3eb840936ad4f9042ab20b0c42ef81ccdcfeaf7fdf40758.jpg",
+        "table_caption": [
+            "Table 2Comparison of average surface temperature with literature value ( $\\mathrm { R e } = 4 0$ $\\mathrm { q } ^ { \\prime \\prime } = 1 0 0 \\mathrm { W } / \\mathrm { m } ^ { 2 }$ $\\mathrm { P r } = 0 . 7$ $\\mathbf { \\boldsymbol { a } } = 0 \\mathrm { \\dot { \\Omega } }$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>No of elements</td><td>Bharti and Chhabra [9]</td><td>Numericallypredicted surface temperature</td></tr><tr><td>28,200</td><td></td><td>331.3</td></tr><tr><td>56,400</td><td>329.9</td><td>330.9</td></tr><tr><td>1,12,800</td><td></td><td>332.4</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The good agreement between the results of present work and that of [9] is indicative of the efficacy of the numerical methodology employed here for the numerical analysis of heat transfer problems of similar nature.The numerical methodology is further extended to study the influence of rotation of the heated cylinder. Numerical simulations were performed for different non-dimensional rotational velocity $( \\mathfrak { a } = 0 , 1 , 2 , 3 , 4 )$ at $ { \\mathrm { R e } } { } = 4 0$ ,35,30 and 25. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The simulation exercises were also performed to study theeffectofPrandtlnumber( $\\mathrm { P r } = 0 . 7$ ,0.9,1.4 and 5.4) that corresponds to fluids air,ammonia,methane and water respectively,while keeping the heat flux as 100 $\\mathrm { W / m } ^ { 2 }$ .It is important to mention here that the rotation direction is taken in the anticlockwise sense. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Effectof rotationon heat transfer ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The variation of local Nusselt number along the circumference of the heated cylinder computed at different angular positions for various non-dimensional rotational speed corresponding to $\\mathrm { P r } = 0 . 7$ and $ { \\mathrm { R e } } { } = 4 0$ is depicted in Fig. 4. Figure illustrates that as rotational velocity changes the position of maximum heat transfer shifts in the direction of rotation.As rotational speed increases the flow becomes asymmetric under the influence of the rotation of the cylinder due to the interaction between the flow generated by the rotation of the cylinder and the free stream flow. The streamlines and isotherms shown in Figs.5 (a） and (b)，respectively，clearly indicate the asymmetric nature of flow created by the rotation. The impact of rotation of cylinder results in thickening of boundary layers,therefore the transport of momentum and energy by diffusion is expected to be reduced.Consequently the rotation effects causes reduction in heat transferwhen compared to heat transfer from the cylinder when it is in stationary condition. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Interestingly,as seen in velocity streamlines depicted in Fig 5(a) the stagnation point shifts from the front end (equator) of the cylinder to the pole (top） as rotation speed increases.This causes the isotherm to lose its symmetrical nature and shift in the direction of rotation of the cylinder that is towards the bottom side of the cylinder. Fig. 5(b） conveys that increasing rotational speed causes the location of denser regions of isotherms to shift in the anticlockwise direction. Therefore,maximum value of Nusselt number also changes from front stagnation point towards the bottom of the cylinder in the anticlockwisedirection. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/264bad690bd2a9a040fe7660ee3bc67938c4d1d3b72abad6115d7daf5e1afc74.jpg",
+        "img_caption": [
+            "Fig.4Local Nusselt number $\\left( \\mathrm { N u _ { L } } \\right)$ variation along the circumference of the cylinder for different angular positions (0) for air.( $\\mathrm { R e } = 4 0$ $\\mathrm { q } ^ { \\prime \\prime } = 1 0 0 \\mathrm { W } / \\mathrm { m } ^ { 2 }$ $ { \\mathrm { P r } } = 0 . 7$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c46c96bd1911bf43e1415d27f3ff97661c59b57b3e8b71ace369067ba638f7e.jpg",
+        "img_caption": [
+            "Fig.5Streamline contour and isotherms( $ { \\mathrm { R e } } = 4 0$ ， $\\mathsf { q } ^ { \\prime \\prime } = 1 0 0$ $\\mathrm { W / m } ^ { 2 }$ $ { \\mathrm { P r } } = 0 . 7$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Effect of flowReynoldsnumberonheat Transfer ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The influence of Reynolds number on heat transfer is studied by varying the free-stream velocity,while keeping non-dimensional rotational velocity and Prandtl number of the fluid at fixed values.The result presented in Fig.6 shows that for a given dimensionless rotational velocityand Prandtl number, the average Nusselt number increases with flow Reynolds number. For a given dimensionless rotational speed,as the flow Reynolds number increases the inertia force increases.Obviously, higher inertial force of the incoming fluid counteracts the flow field generated by the rotation thereby thinning the boundary layer.Asa result the heat transfer increases due to increase in flow Reynolds number at a given rotation speed.Also it is important to note that increase in inertia causes the streamlines to bent more towards the heated cylinder(Fig.7) resulting in higher heat transfer from the cylinder.Revisiting Fig.6,it can be inferred that for a given flow Reynolds number the average Nusselt number decreases with rotational speed, the reason for this was explained in section 3.1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cd06d5ff00dc5741e9051494ba3c05c6b1db1c1a87df914dd2966f3a56244ec.jpg",
+        "img_caption": [
+            "Fig.6 Average surface Nusselt number $\\left( \\mathrm { N u } _ { \\mathrm { a v g } } \\right)$ at different rotational velocity and Reynolds number.( $\\mathrm { P r } = 0 . 7$ ${ \\sf q ^ { \\prime \\prime } }$ $= 1 0 0 \\mathrm { W / m } ^ { 2 } ,$ 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/586ca8b88a841e2924f6fa66e067aeab3394da10d2f97c71ca53416a83a679b7.jpg",
+        "img_caption": [
+            "Fig.7Streamline contour $\\mathit { \\Pi } _ { \\mathbf { { \\tilde { a } } } } = 4$ $\\mathrm { q } ^ { \\prime \\prime } = 1 0 0 \\mathrm { W } / \\mathrm { m } ^ { 2 }$ $\\mathrm { P r } = 0 . 7$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EffectofPrandtl number onheat transfer ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to study heat transfer from a rotating cylinder in various fluids,numerical simulations were carried out with fluids having Prandtl number of different values such as O.7,O.9,1.4 and 5.4. The results of study have shown that as Prandtl number increases the average Nusselt number increases as presented in Table.3.As we know, as thermal boundary layer thickness decreases with increase in Prandtl number the heat transfer rate is expected to increase with increase in Prandtl number. Moreover, higher momentum diffusivity of the fluid enhances the momentum transport by diffusion in the boundary layer. These supplements to the higher heat transfer rates. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A comparison of the variation in local heat transfer coefficient for different angular positions along the circumference of the cylinder plotted in Fig. 4 and Fig.8 shows marked difference in behavior. When the heated cylinder is stationary and placed in air the heat transfer decreases progressively from the leading edge to angular position at $1 8 0 ^ { \\circ }$ ， thereafter heat transfer increases. The reason for this characterization is evident from the plot of isotherms shown in Fig.9.However, for heated stationarycylinderplaced in water the heat transfer decreases to the point at $1 5 0 ^ { \\circ }$ ,followed bya small increase at $1 8 0 ^ { \\circ }$ thereafter the pattern repeat till the back leading edge is reached.This behavior is due to the shift in the isotherm pattern depicted in Fig.9.Similar results were also obtained for other fluids but the deviations tend to decrease for smallerPrandtl number. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c79100b34a6ce1230efd1ac372ef5449fad1bf795c479aa5c8e4fc0993fe6d01.jpg",
+        "table_caption": [
+            "Table 3Comparison of Average surface Nusselt number $\\left( \\mathrm { N u } _ { \\mathrm { a v g } } \\right)$ for different Prandtl number ( $\\mathrm { R e } = 4 0$ $\\mathrm { q } ^ { \\prime \\prime } = 1 0 0 \\mathrm { W } / \\mathrm { m } ^ { 2 }$ ${ \\mathfrak { a } } = 3$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Prandtl number (Pr)</td><td>Average surface Nusselt number(Nuavg)</td></tr><tr><td>0.7</td><td>3.23</td></tr><tr><td>0.9</td><td>3.46</td></tr><tr><td>1.4</td><td>3.66</td></tr><tr><td>5.4</td><td>6.25</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0cfe0e57ad0568643c2064656987aa56444421eb077414095dd1c205d66fc1ed.jpg",
+        "img_caption": [
+            "Fig.8 Local Nusselt number $\\left( \\mathrm { N u _ { L } } \\right)$ variation along the circumference of the cylinder for different angular positions (0).( $\\mathrm { R e } = 4 0$ $\\mathrm { q } ^ { \\prime \\prime } = 1 0 0 \\mathrm { W } / \\mathrm { m } ^ { 2 }$ $ { \\mathrm { P r } } = 5 . 4$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/99abdeeaf1c5ab87b1fa71a9339defef552db1fbe085be3450176ee8084b7b47.jpg",
+        "img_caption": [
+            "Fig.9Isotherms.( $\\mathrm { R e } = 4 0$ $\\mathrm { q } ^ { \\prime \\prime } = 1 0 0 \\mathrm { W } / \\mathrm { m } ^ { 2 }$ $\\mathbf { \\boldsymbol { a } } = 0$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Numerical simulations have been performed to study the effect of non-dimensional rotational velocity,flow Reynolds number and Prandtl number on the flow and heat transfer from a heated rotating cylinder subjected to constant heat flux.The salient conclusions from the study are ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Asrotational speed increases the location of maximum heat transfer shift towards the bottom of the cylinder along anticlockwise direction due to the redistribution of flow and thermal field.   \nFor a given flow Reynolds number,as rotational speed increases the thickness of the boundary layer developed due to the rotation of heated cylinder increases，thereby，deteriorating heat transfer performance.   \nWhile keeping the rotational speed constant, increase in flow Reynolds number causes stream lines to shift more towards the heated cylinder resulting in higher heat transfer rate.   \nForlow and high Prandtl number fluids considered in the study,heat transfer characteristics of a stationary heat cylinder shows distinct features.   \nFor a given flow Reynolds number, the variation of local Nusselt number is found to be quashing progressively as non-dimensional rotational velocity increases. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]M.M Zdravkovich. Flow Around Circular Cylinders: Volume1.Oxford SciencePublication,Oxford,1997.   \n[2]M.M Zdravkovich. Flow Around Circular Cylinders: Volume2:Applications,Oxford Science Publication,Oxford, 1997.   \n[3]S.C.R Dennis, J.D. Hudson and N. Smith. Steady Laminar Convection from a Circular Cylinder atLow ReynoldsNumbers.PhysicsofFluids Vol11,No.5,933 (1968).   \n[4] W.H McAdams,Heat Transmission (McGraw-Hill Book Company, Inc.,New York,1954),p.289.   \n[5] B.G Van der Hegge Zijnen,Appl.Sci. Res. A6,129 (1956).   \n[6]Wongee Chun and R.F Boehm.Calculation of Forced Flowand Heat Transferaround a Cylinder in Cross-Flow. Numerical Heat Transfer; Vol.15,pp.101-122,1989.   \n[7]S. Sanitjai and R.J.Goldstein. Heat transfer from a circular cylinder to mixtures of water and ethylene glycol. International Journal of Heat and Mass Transfer 47 (2004) 4785-4794.   \n[8]C.F.Lange,F.Durst and M.Breuer. Momentum and Heat Transfer from Cylinders inLaminar Cross-Flow at $1 0 ^ { - 4 } \\leq \\mathrm { R e } \\leq 2 0 0$ International Journal of Heat and Mass Transfer41(1998) 3409-3430.   \n[9]Ram Prakash Bharti,V Eswaran and R.P Chabbra.A Numerical Studyof the Steady Forced Convection Heat Transfer fromanUnconfined CircularCylinder.Heat and Mass Transfer(2007) 43:639-648.   \n[10]H.M Badr and S.C.R Dennis. Laminar Forced Convection from a Rotating Cylinder.Int.J.Heat and Mass Transfer: Vol.28,No.1, pp.253-264,1985.   \n[11]Sachin B.Paramane and Atul Sharma.Heat and Fluid Flow Across a Rotating Cylinder Dissipating Uniform Heat Flux in 2D Laminar Flow Regime. International Journal of Heat and Mass Transfer 53(2010) 4672- 4683.   \n[12]Varun Sharma and Amit Kumar Dhiman.Heat Transfer fromRotating Circular Cylinder in The Steady Regime: Effects ofPrandtl Number.Thermal Science，2012,Vol. 16, No. 1, pp. 79-91.   \n[13]ANSYS Workbench 14,275 Technology Drive,Canonburg. USA.   \n[14]H.K,Versteeg and W.Malalasekera.An Introduction to Computational Fluid Dynamics.Second Edition Pearson Education ltd2007.New Delhi. India. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

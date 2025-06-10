@@ -1,0 +1,567 @@
+[
+    {
+        "type": "text",
+        "text": "尾矿区居民的环境污染感知研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨维鸽}，勾萌萌¹，叶媛媛²，李美兰²，龚伟²（1商洛学院城乡规划与建筑工程学院，陕西 商洛 726000;2商洛学院化学工程与现代材料学院，陕西 商洛 726000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以陕西省商洛市商州区典型的铅锌矿尾矿区一铁炉子村为研究区，以问卷的形式调查了常住居民对开矿引起的环境污染的感知状况，采用秩和检验及相关分析方法，研究该尾矿区居民的环境污染感知状况与居民属性的关系。结果表明：(1）尾矿区居民认为该尾矿区最为严重的环境问题为水污染，其次为粉尘和大气污染等。(2)超过 $5 0 \\%$ 的居民认为矿区的大气、粉尘和水污染等环境污染均与开矿有关系，且开矿对居民身体健康和生产造成了不同程度的影响，最有可能使居民患上肺吸尘等呼吸系统疾病，并使矿区周围的农牧业减产。（3）居民属性与居民对环境污染感知的相关关系表明，居民职业显著影响居民对水和噪音污染以及健康担心程度的感知，居民年龄与其对环境卫生污染的感知、居民文化程度与其对大气污染的感知、居住时间与居民对粉尘和水污染的感知均呈显著正相关，居民文化程度对环境卫生污染的感知、居民距矿区的距离与其对粉尘、水、噪音、环境污染感知均呈显著负相关，居民性别对环境污染的感知无明显影响。研究可为当地政府部门治理和规划尾矿区的环境提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：环境污染感知；铅锌矿；居民属性；秩和检验；商洛市文章编号： $1 0 0 0 - 6 0 6 0 { \\left( 2 0 2 0 \\right) } 0 4 - 1 1 0 8 - 0 9 { \\left( 1 1 0 8 \\sim 1 1 1 6 \\right) }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "环境感知是环境质量在个体头脑中形成的印象[1]。准确的环境感知可提高人们的环境意识，形成合理的环境行为[1]。环境污染感知是环境质量在个体大脑中形成的印象及由此产生的个体对环境的态度2]，形成环境行为的前提是环境污染感知[2]。国外已对环境感知进行了研究，ENGLE等[3]调查了不同属性人群之间的环境行为差异。FLY-NN等4针对种族等属性对环境感知造成的影响，进行了一系列相关分析。BLOCKER等[5对性别、社会地位等属性对人们环境态度的影响进行了研究。目前对环境感知方面的研究主要集中在居民对城市环境问题感知[6-7]、对气候变暖的感知和适应行为研究[8-10] 对灾害的感知状况[11-12] 对不同地区生态环境政策的感知[13-21]等，对环境污染感知的研究也主要集中在煤矿区[22-24],而对于铅锌尾矿区居民环境污染感知方面的研究尚显不足，因此有必要对其进行深入的探讨和研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "商洛市地处陕西省东南部的秦岭山区，矿产资源种类多样且分布广泛，其中，铅、锌矿探明储量居陕西省第二位。随着当地矿产资源开发利用程度的提高，一方面促进了矿区的经济发展，另一方面也不可避免的对生态环境造成了极大的威胁，严重影响到了居民的身体健康和生产生活。鉴于此，本文以陕西省商洛市商州区典型的铅锌矿尾矿区一铁炉子村为研究区，通过秩和检验和相关分析等方法，研究该尾矿区居民的环境污染感知状况，并分析居民属性与其对环境污染感知状况的相关关系，也可为当地政府部门对该矿区的环境治理和规划工作提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "铁炉子村位于陕西省商洛市商州区西部，距商州城区 $3 5 \\mathrm { k m }$ ,101省道穿境而过。全村总面积26.7$\\mathrm { k m } ^ { 2 }$ ,耕地面积约 $1 9 4 ~ \\mathrm { h m } ^ { 2 }$ ,林地面积约 $1 ~ 6 8 2 . 7 ~ \\mathrm { h m } ^ { 2 }$ 有23个村民小组，810户，共3160人（其中农业人口2610人，非农人口550人)，全村以洋芋、药材、核桃以及猪羊兔鸡的养殖为主导产业。福元矿业有限公司坐落于铁炉子村，以开采铅锌矿为主，开矿约34a,停矿约 $2 \\mathrm { ~ a ~ }$ 。该矿区的开采一方面造成了周围土壤和植被的重金属污染，测定结果显示，矿区植被和土壤的Pb达重度污染，Cd为中度污染，Cu为轻度污染；另一方面，对附近居民的身体健康造成了严重的威胁，访谈中发现周边居民患有鼻炎和肺病等呼吸系统疾病的人数较多。鉴于该矿区开矿时间长，环境污染严重，尾矿库规模大，是一个典型的尾矿区，故将铁炉子村作为研究区。研究区位置见图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 2 问卷设计与调查方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般情况下,开矿引起的环境问题有粉尘、大气、水、噪音和环境卫生污染等[23-24]。大气污染物可分为有害气体和颗粒物(如粉尘等)，人们对粉尘的感知敏感，而对有害气体的感知不敏感，因此，研究中对大气污染和粉尘污染均进行了调查[23-24]。调查问卷涉及的内容分为两方面：(1)居民的基本属性(性别、文化程度、年龄、职业、居住时间、距矿区距离)；(2)居民对环境污染的感知，包括对开矿造成的大气、水、粉尘和噪音污染以及环境卫生的感知，对环境的满意度和健康担心程度，对引起环境污染的原因和对环境污染造成影响的感知。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2018年3月，采用访谈与问卷相结合的方法进行了调查。访谈法主要用于了解该研究区的概况，问卷调查以采取随机抽样调查村中常住人口的方式进行。本次调查共发放调查问卷300份，收回280份，去除乱答、漏答和不答以外，得到有效调查问卷240份，问卷的有效率为 $8 5 . 7 1 \\%$ 。使用SPSS软件统计分析，得出调查问卷各维度内部一致性信度系数值均介于 $0 . 7 1 \\sim 0 . 8 2$ 之间，说明各调查项目基本很好的反映其所在的维度。问卷总体的Alpha信度系数值大于0.80，表明该问卷的可信度高。表1为铁炉子村受访居民的特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）采用感知强度分析居民属性与居民对环境污染感知状况间的相互关系，感知强度的计算公式如下[25]：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b0749c58bfc3345a795a99157962c1bfa6002b7d03210adba2386cffd2ddb22.jpg",
+        "img_caption": [
+            "图1研究区位置",
+            "Fig.1 Location of study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4091b5f7855cf88a91b4d6773d43475c086982f816e003ecf7c21cdba130d242.jpg",
+        "table_caption": [
+            "Tab.1 Characteristics of the investigated residences in the Tieluzi Village "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\"></td></tr><tr><td>属性</td><td>类别</td><td>比例 1%</td><td>属性</td><td>类别</td><td>比例 1%</td></tr><tr><td rowspan=\"5\">年龄</td><td>1= 30岁以下</td><td>13.8</td><td rowspan=\"2\">性别</td><td>1=男</td><td>43.3</td></tr><tr><td>2= 30~40岁</td><td>12.2</td><td>2=女</td><td>56.7</td></tr><tr><td>3=40~50岁</td><td>29.2</td><td rowspan=\"3\">职业</td><td>1=工矿业 15.0</td></tr><tr><td>4= 50~60岁</td><td>34.2</td><td>2=农林牧业</td><td>51.7</td></tr><tr><td>5=60岁以上</td><td>10.8</td><td>3=其他</td><td>7.1</td></tr><tr><td rowspan=\"5\">文化 程度</td><td>1=未上学</td><td>2.1</td><td></td><td>4=自由职业</td><td>7.5</td></tr><tr><td>2=小学</td><td>42.5</td><td rowspan=\"2\"></td><td>5=外出打工</td><td>18.8</td></tr><tr><td>3=初中</td><td>31.7</td><td>1=1 km以下</td><td>29.6</td></tr><tr><td>4=高中</td><td>14.6</td><td rowspan=\"2\">距离</td><td>2 = 1~2 km 19.2</td><td></td></tr><tr><td>5=高中以上</td><td>9.2</td><td>3= 2~3 km</td><td>15.4</td></tr><tr><td rowspan=\"5\">居住 时间</td><td>1=2a以下</td><td>8.8</td><td>矿区</td><td>4= 3~4 km</td><td>20.8</td></tr><tr><td>2=2~5a</td><td>10.8</td><td></td><td>5=4km以上</td><td>15.0</td></tr><tr><td>3=5~7a</td><td>4.6</td><td rowspan=\"2\">1</td><td>1</td><td>1</td></tr><tr><td>4=7~10 a</td><td>5.0</td><td></td><td>1</td></tr><tr><td>5=10a以上</td><td>28.8</td><td colspan=\"2\">1 1</td><td>1</td></tr><tr><td></td><td>6=祖籍在此地</td><td>42.5</td><td colspan=\"3\">二 二</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = \\frac { \\sum { V _ { i } \\times N _ { i j } } } { \\sum { N _ { i j } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $A$ 为居民的感知强度； $V _ { i }$ 为某类居民持i种观点的得分； $N _ { i j }$ 为居民对调查因子 $j$ 持 $i$ 种观点的人数。各维度的感知强度为该维度下各因子感知强度的平均值。感知强度值介于 $1 \\sim 5$ 之间,其中，$3 . 5 \\sim 5$ 表示感知强度非常严重， $2 . 5 \\sim 3 . 4$ 表示比较严重， $1 \\sim 2 . 4$ 表示较轻[24]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）居民的环境感知存在着个体差异，不同属性的人对矿区的感知状况可能存在差异，因此采用秩和检验(RandSumTest)的方法判断不同居民属性对环境污染是否存在差异。若 $P > 0 . 0 5$ ,表示变量之间无显著性差异， $P < 0 . 0 5$ ,表示变量之间有显著性差异，通常以\\*标记；若 $P { < } 0 . 0 1$ ,表示变量之间极显著性差异，通常以\\*\\*标记。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 采用Mann-Whitney秩和检验来分析两组独立样本的等级资料，文中性别对环境污染感知程度的影响采取Mann-Whitney 秩和检验。 $\\textcircled{2}$ 采用Kruskal-Wallis秩和检验来分析多组等级资料，职业对环境污染感知程度的影响采取Kruskal-Wallis秩和检验。 $\\textcircled{3}$ 采用行列表-Kendall等级相关法检验分析双向有序变量，文化程度、年龄、距矿区距离、居住时间对环境污染感知程度的影响使用行列表-Kendall等级相关法检验分析双向有序变量[24]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）采用秩和检验挑选出居民属性中对环境污染感知有显著影响的指标后，用皮尔森相关分析对这些属性与环境污染感知的相关性进行分析。相关系数若为正数，表明变量之间关系是一致的，系数若为负数，则表明变量间是相反关系，系数值大小代表变量关系的强弱，据此分析居民属性影响环境污染感知的规律[24]。一般来说,对于皮尔森相关的相关系数的绝对值在 $0 . 0 \\sim 0 . 2 \\$ 表示两变量极弱相关或无相关， $0 . 2 \\sim 0 . 4$ 表示两变量弱相关， $0 . 4 \\sim 0 . 6$ 表示两变量中等程度相关， $0 . 6 \\sim 0 . 8$ 表示两变量强相关， $0 . 8 \\sim 1 . 0$ 之间表示两变量极强相关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2矿区居民的环境污染感知状况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1居民对环境污染感知强度的差异 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "居民对环境污染感知强度的结果表明，居民对水、粉尘和大气污染的感知强度均达到了非常严重的程度，其值分别为4.52、3.93、3.60；比较严重的为噪音污染和环境卫生污染，分别为3.20、2.91；而居民的环境满意度的感知强度仅为1.83，感知强度最低，表明居民对矿区周围环境很不满意；居民的健康担心程度为3.80，说明当地居民认为附近矿区开矿对身体健康有很大的影响(表2)。该矿区居民对环境污染感知强度最高的是水污染，其次是粉尘污染、大气污染、噪音污染，最轻的是环境卫生污染，",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8aba40e692148e73e9e42b837dcc1bb11bc621ca3d82139de92e4960f4693e80.jpg",
+        "table_caption": [
+            "表1铁炉子村受访居民的特征",
+            "表2居民对环境污染的感知强度",
+            "Tab.2Residences'perception intensities of environmental pollution "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">P</td></tr><tr><td>污染 类型</td><td>大气 污染</td><td>粉尘 污染</td><td>水污 染</td><td>噪音 污染</td><td>环境卫 生污染</td><td>环境满 意度</td><td>健康担 心程度</td></tr><tr><td>感知 强度</td><td>3.60</td><td>3.93</td><td>4.52</td><td>3.20</td><td>2.91</td><td>1.83</td><td>3.80</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2居民对矿区环境污染原因的认知",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1居民对矿区大气污染原因的认知居民对矿区大气污染原因的认知表明， $4 8 . 3 \\%$ 的居民认为是开矿引起大气的污染， $3 4 . 2 \\%$ 的居民认为大气污染是附近工厂废气排放引起的，少数居民认为是由交通车辆尾气、居民生活和采暖或其他原因引起大气污染(图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2居民对矿区粉尘污染原因的认知居民认为矿区粉尘污染的原因有矿区开矿、自然原因等，其中认为粉尘污染是由于矿区开采过程中产生的居民比例最高，约为 $4 0 \\%$ ，认为矿山运输过程会产生粉尘污染的居民比例为 $2 4 . 2 \\%$ ,认为矿山开采废物会引发粉尘污染的居民所占比例为 $2 5 . 8 \\%$ （图3)。除此之外，认为矿区附近的粉尘污染是由于自然原因造成的居民所占比例较小，约为 $5 . 4 \\%$ ，认为其他原因导致粉尘污染的居民最少，比例仅为 $4 . 6 \\%$ （图3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8a1136e08f2ac2d1654c100ecc8d92b6b0dc3ae2d50149c53ce3e1b72ed8576.jpg",
+        "img_caption": [
+            "图2居民对矿区大气污染原因的认知"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/511289f4a033de338075c6bbcc6aad14cf74252fca3b628f9b080af459bda700.jpg",
+        "img_caption": [
+            "Fig.2Residents’understanding of the causes of atmospheric pollution in coal mine ",
+            "图6居民对矿区环境卫生污染原因的认识 Fig.6Residents’understanding of the causes of environmental health pollution in coal mine "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3居民对矿区水污染原因的认知居民认为矿区的水污染与开矿有着密切的关系， $5 3 . 3 \\%$ 的居民认为是开矿引起的地下水质污染，认为水污染的原因是由于附近工业废水排放的居民比例约为$3 5 . 8 \\%$ ，认为是生活污水或其他原因导致水污染的居民比例最少，分别占到 $5 \\%$ 和 $5 . 9 \\%$ （图4）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.4居民对矿区噪音污染原因的认知调查发现，受访居民中 $56 . 7 \\%$ 认为矿区噪音污染的来源是矿区开矿， $2 3 . 3 \\%$ 的受访居民认为交通运输产生了噪音， $1 9 . 4 4 \\%$ 认为是附近的建筑产生了噪音，认为是其他原因引起噪音的居民人数较少，占 $6 . 7 \\%$ （图5）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cee1c346e4ad24459a66a846ba29b1cc2731d14abed6b3f247da3d5f4dd629cf.jpg",
+        "img_caption": [
+            "图4居民对矿区水污染原因的认知 Fig.4Residents’understanding of the causes of water pollution in coal mine "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/917b1c6562570864fd37ef93a94429cd0644efd8a2baefa4f6f97e174ae147ad.jpg",
+        "img_caption": [
+            "图3居民对矿区粉尘污染原因的认知Fig.3Residents’understanding of the causes of dustpollution in coal mine",
+            "图5居民对矿区噪音污染原因的认知",
+            "Fig.5Residents’understanding of the causes of noise pollution in coal mine "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "矿区开矿回村民环保意识不强图环保部门执法不严  \n60 53.7% 矿区管理落后其他  \n50  \n20 14.2 % 17.1%9.6%  \n10 5.4 %  \n0矿区开矿 村民环保 环保部门 矿区管理 其他意识不强 执法不严 落后环境污染原因",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.5居民对矿区环境卫生污染原因的认知据调查， $5 3 . 7 \\%$ 的居民认为矿区开矿造成了矿区环境卫生污染，认为矿区管理落后和当地环保部门执法不严造成的矿区环境卫生污染的居民分别为 $1 7 . 1 \\%$ 和 $1 4 . 2 \\%$ ，而认为是自身环保意识不强造成的环境卫生污染的居民比例为 $9 . 6 \\%$ （图6）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3居民对矿区环境污染影响的认知",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "调查表明，居民认为开矿对环境污染的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "主要表现在两方面，一是矿区环境污染对居民健康的危害，二是环境污染对生产的影响。居民认为矿区开矿可能产生一系列疾病，其中 $5 8 \\%$ 的居民认为矿区环境污染可能会产生肺吸尘等呼吸系统病，认为开矿导致鼻炎、癌症、免疫功能下降的居民比例分别为 $2 0 \\% . 8 \\% . 7 \\%$ ，而认为皮肤病是由于矿区环境污染的居民比例约为 $7 \\%$ （图7）；居民认为开矿会影响生产，认为开矿引起的环境污染使得农牧业减产、农产品质量降低、生产成本降低的居民比例分别 $4 2 . 5 \\% , 2 5 . 8 \\% , 2 2 . 9 \\%$ ,表明居民认为环境污染对农牧业减产的影响是最大的（图8）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ceaf2d32b8bd5a715017c4604ce0d317ab91380e95a16588c236fd511b0b7e77.jpg",
+        "img_caption": [
+            "图7矿区开矿对居民健康的危害Fig.7 Harm to the health of residents"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ceb1c40f6eb52932b02576f5a4d41df7753b21eb64ee33badf455b662802b095.jpg",
+        "img_caption": [
+            "图8矿区开矿对生产的影响 Fig.8Impact on product residents "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3居民属性变量对矿区环境污染感知的差异分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对性别属性进行两组独立样本的秩和检验（表3)，结果表明，水、大气和粉尘污染等的检验结果均为 $P > 0 . 0 5$ ，所以不同性别属性与环境污染感知之间没有显著差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对职业进行多组等级资料的秩和检验(表3），结果表明：水污染、噪音污染、健康担心程度感知的检验结果为 $P < 0 . 0 5$ ，所以不同职业属性与水污染、噪音污染、健康担心程度感知之间存在显著差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对居民年龄、文化程度、居住时间、距矿区距离进行双向有序资料行列表-Kendall等级相关法检验(表3)。环境卫生污染、健康担心程度感知的检验结果为 $P < 0 . 0 5$ ,所以不同年龄属性与环境卫生污染、健康担心程度感知之间存在显著差异；大气污染、环境卫生状况、环境满意度、健康担心程度感知的检验结果为 $P < 0 . 0 5$ ,可知居民文化程度明显影响对其对大气污染、环境满意度、环境卫生状况、健康担心程度感知；粉尘污染、水污染、环境满意度、健康担心程度感知的检验结果为 $P < 0 . 0 5$ ，所以居民的居住时间影响其对粉尘污染、水污染、环境满意度、健康担心程度感知；粉尘污染、水污染、噪音污染、环境卫生污染、健康担心程度感知的检验结果为： $P < 0 . 0 5$ ，所以距离矿区距离对水污染、粉尘污染、环境卫生污染、噪音污染、健康担心程度感知有显著差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/15b8f4a3cea34ba09e0c468c832a62cd91601c28bf72f754a796ea13e3161c84.jpg",
+        "table_caption": [
+            "表3环境污染感知的居民属性差异检验",
+            "Tab.3Test of residents' attribute difference in environmental pollution perception "
+        ],
+        "table_footnote": [
+            "注：\\*在0.05检验水平上是显著的(双边检验)，表示变量之间有显著性差异； $^ { * * }$ 在0.01检验水平上是显著的(双边检验)，表示变量之间有极显著性差异"
+        ],
+        "table_body": "<html><body><table><tr><td>秩和检验相关系 数(显著性)</td><td>大气污染</td><td>粉尘污染</td><td>水污染</td><td>噪音污染</td><td>环境卫生污染</td><td>环境满意度</td><td>健康担心程度</td></tr><tr><td>性别</td><td>6070.000</td><td>6 674.000</td><td>6789.500</td><td>6 679.00</td><td>6 302.000</td><td>7 0.9.00</td><td>6921.500</td></tr><tr><td>职业</td><td>3.769 (0.438)</td><td>3.799 (0.434)</td><td>11.059 (0.026)</td><td>14.017 (0.007)</td><td>2.593 (0.682)</td><td>3.798 (0.434)</td><td>11.344 (0.023)</td></tr><tr><td>年龄</td><td>0.043 (0.419)</td><td>0.082 (0.125)</td><td>0.027 (0.616)</td><td>0.027 (0.615)</td><td>(0.008) 0.142**</td><td>0.041 (0.445)</td><td>0.229** (0.000)</td></tr><tr><td>文化程度</td><td>0.283** (0.000)</td><td>-0.053 (0.331)</td><td>-0.035 (0.525)</td><td>-0.104 (0.057)</td><td>-0.134** (0.013)</td><td>-0.395* (0.000)</td><td>0.238** (0.000)</td></tr><tr><td>居住时间</td><td>0.074 (0.170)</td><td>0.134* (0.013)</td><td>0.408** (0.000)</td><td>0.099 (0.064)</td><td>0.104 (0.054)</td><td>-0.290** (0.000)</td><td>0.261** (0.000)</td></tr><tr><td>距矿区距离</td><td>-0.088 (0.094)</td><td>-0.303** (0.000)</td><td>-0.116* (0.028)</td><td>-0.506** (0.000)</td><td>-0.250** (0.000)</td><td>-0.028 (0.606)</td><td>-0.254** (0.000)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "居民属性对居民环境污染认知的影响(表4)表明，距矿区距离对居民对环境污染感知的影响最大，影响居民对粉尘污染、水污染、噪音污染、环境卫生污染和健康担心程度5项认知，其次是文化程度和居住时间属性对环境污染的4项认知，而职业属性仅对水污染、噪音污染、健康担心程度的感知有影响，居民年龄仅影响居民对环境卫生污染和健康担心程度的感知。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4居民属性对环境污染认知的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/453ecc378ab73ed3434a6355986b0dfbc7664500d8907a62023c16277ae1cd78.jpg",
+        "table_caption": [
+            "Tab.4Impact of residents attribute on environmental "
+        ],
+        "table_footnote": [
+            "注：“-\"表示无显著影响，“ $^ +$ \"表示有显著影响"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">pollutionperception</td></tr><tr><td>居民属性</td><td>大气 污染</td><td>粉尘 污染</td><td>水污 染</td><td>噪音 污染</td><td>环境 卫生 污染</td><td>环境 满意 度</td><td>健康 担心 程度</td></tr><tr><td>性别</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>年龄</td><td>1</td><td>1</td><td>1</td><td>1</td><td>+</td><td>1</td><td>+</td></tr><tr><td>文化程度</td><td>+</td><td>1</td><td>1</td><td>1</td><td>+</td><td>+</td><td>+</td></tr><tr><td>居住时间</td><td>1</td><td>+</td><td>+</td><td>1</td><td>1</td><td>+</td><td>+</td></tr><tr><td>职业</td><td>1</td><td>1</td><td>+</td><td>+</td><td>一</td><td>1</td><td>+</td></tr><tr><td>距矿区距离</td><td>二</td><td>+</td><td>+</td><td>+</td><td>+</td><td>二</td><td>+</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4居民属性与居民对污染感知的相 关分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据居民属性对环境污染认知的差异，可将居民属性分为两类：一类是对环境污染感知无显著影响的变量(如性别)；二类是对环境污染感知有显著影响的变量(如年龄、文化程度、职业、居民居住时间、距矿区的距离)。由于职业这一属性无法进行相关分析，所以只选择年龄、文化程度、居住时间、距矿区的距离这四种居民属性与居民对环境污染感知进行皮尔森相关分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "距矿区距离与噪音污染为强相关；文化程度与环境满意度，居住时间与水污染为中度相关;年龄与环境卫生污染、健康担心程度，文化程度与大气污染、环境卫生污染、健康担心程度，居住时间与粉尘污染、环境满意度、健康担心程度，距矿区距离与粉尘污染、水污染、环境卫生污染、健康担心程度均为低度相关(表5)。变量之间呈正相关的是居民年龄与环境卫生污染、健康担心程度感知，文化程度属性与大气污染、健康担心程度，居住时间属性与粉尘污染、水污染、健康担心程度感知(表5)。变量之间呈负相关的是文化程度属性与环境卫生污染、环境满意度感知，居住时间属性与环境满意度感知，居民与矿区之间的距离与粉尘污染、水污染、噪音污染、环境卫生污染、健康担心程度感知(表5)。在年龄属性方面，随着年龄增加，人们的身体健康状况不断下降，对环境污染感知程度更加敏感，对健康也越来越担心。在文化程度属性方面,居民的文化程度越高，对大气污染感知越强烈，对环境满意度越低，对健康担心程度越高。而环境卫生污染感知方面，文化程度越高，居民对环境污染的敏感性越高[24]。而调查的铁炉子村居民表现为文化程度越高，对环境卫生污染感知强度越低。出现此现象的原因可能是因为该村文化程度较高的居民收入因开矿增加，而文化程度较低的居民不但没有享受到开矿的经济效益，反而因为开矿对身体健康和生产造成了负面影响[24」。此外，居民居住时间越长，对大气污染感知越强烈，居民的环境满意度越低，对健康的担心程度越高。居民距离矿区越近，对大气污染感知越强烈，居民的健康担心程度越高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文以陕西省商洛市铁炉子村的铅锌矿为研究区域，采用调查问卷的方式，通过秩和检验和相关分析的方法，研究居民对环境污染的感知。得出以下主要结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）尾矿区居民认为开矿引起的最为严峻的环境污染是水污染，较严重的是粉尘污染、大气污染和噪音污染，环境卫生污染程度最小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/82862aeae0e720c846edb26cdeee137318f91950dfd9aea0864dab2830374685.jpg",
+        "table_caption": [
+            "表5居民属性与环境污染感知的相关性",
+            "Tab.5Correlation between resident attributes and environmental pollution perception "
+        ],
+        "table_footnote": [
+            "注：“-\"表示无显著影响;括号内为显著性水平"
+        ],
+        "table_body": "<html><body><table><tr><td>居民属性</td><td>大气污染</td><td>粉尘污染</td><td>水污染</td><td>噪音污染</td><td>环境卫生污染</td><td>环境满意度</td><td>健康担心程度</td></tr><tr><td>年龄</td><td>1</td><td>1</td><td>1</td><td>一</td><td>0.165(0.011)</td><td>1</td><td>0.339(0.000)</td></tr><tr><td>文化程度</td><td>0.370(0.000)</td><td>1</td><td>一</td><td>一</td><td>-0.151(0.019)</td><td>-0.421(0.000)</td><td>0.306(0.000)</td></tr><tr><td>居住时间</td><td>一</td><td>0.143(0.027)</td><td>0.545(0.000)</td><td></td><td>1</td><td>-0.337(0.000)</td><td>0.369(0.000)</td></tr><tr><td>距矿区距离</td><td>一</td><td>- 0.390(0.000)</td><td>-0.180(0.005)</td><td>-0.617(0.000)</td><td>- 0.280(0.000)</td><td>二</td><td>- 0.354(0.000)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）居民认为矿区的大气污染、粉尘污染、水污染、噪音污染、环境卫生污染，均不同程度的与矿区开矿有关。居民认为矿区环境污染可能对身体健康和生产生活带来一定程度的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）居民属性中性别对居民环境污染感知没有显著影响;年龄、文化程度、职业、居住时间、距矿区的距离等属性均对居民环境污染感知有显著影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]彭建,周尚意.公众环境感知与建立环境意识—以北京市南 沙河环境感知调查为例[J].人文地理，2001，16(3)：21－25. [PENG Jian,ZHOU Shangzhi. Environmental perception and awareness building of Beijing citizens:A case study of Nansha River[J].Human Geography,2001,16(3):21- 25.]   \n[2]袁维春.煤矿可持续发展中的环境问题与对策研究[J].矿山 机械,2008,（10):1-3.[YUAN Weichun.Research on environmental problems and its countermeasures of coal-mine in course of sustainable development [J]. Mining and Processing Equipment,2008,(10):1-3.]   \n[3] ENGEL U.P,TSCHKE M.Willingness to pay for the environment:social structure,value orientation and environmental behavior in a multilevel perspective[J].European Journal of Social Science Research,1998,11(3):315-332.   \n[4]FLYNN J,SLOVIC P,MERTZ C K. Gender,race,and perception of environmental health risks［J].Risk Analysis,1994,14 (6):1101-1108.   \n[5] BLOCKER T.J,ECKBERG D L.Gender and environmentalism:results from the 1993 general social survey[J]. Social Science Quarterly,1997,78(4):841-858.   \n[6]王笑梅,谭绿贵,刘晓升,等.城市居民对环境噪声的感知调查 [J].环境与健康杂志,2007,24(11):893－896.[WANG Xiaomei,TAN Lvgui,LIU Xiaosheng,et al. Investigation of environmental noise perception of residences in Lu'an City[J].Journal Environment and Health,2007,24(11) :893-896.]   \n[7］史兴民.城市居民燃放烟花爆竹行为的影响因素分析[J].干 旱区资源与环境,2015,29(10):68-73.[SHIXingmin.An empirical study on the factors influencing the residents burning fireworks behavior[J].Journal of Arid Land Resources and En",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "vironment.2015,29(10):68-73.][8]王媛，方修琦，田青，等.气候变暖及人类适应行为对农作物总产变化的影响——以黑龙江省1990年代水稻生产为例[J].自然科学进展，2006，16(12)：1645-1650.WANGYuan，FANGXiuqi,TIAN Qing,et al.Effects of climate warming and humanadaptation on total crop yields:A case study of rice productionin Heilongjiang Province in the 199Os[J].Progress in NaturalScience,2006,16（12):1645-1650.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9]田青，方修琦,乔佃锋.从吉林省安图县案例看人类对全球变 化适应的行为心理学研究[J].地球科学进展，2005,20(8)： 916- 919.[TIAN Qing,FANG Xiuqi,QIAO Dianfeng.Research on human adaptive behavior to global change in the view of behavioristic psychology indicator from the case study of Antu County,Jilin Province[J].Advances in Earth Science,2005, 20(8):916-919.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10]周旗，郁耀闯.关中地区公众气候变化感知的时空变异[J].地理研究,2009,28(1):45-54.[ZHOU Qi,YU Yaochuang. Spa-tio-temporal variation of public perception on climate change inthe Guanzhong area[J].Geographical Research,20o9,28（1）：45 - 54.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11］周旗，郁耀闯.山区乡村居民的自然灾害感知研究——以陕西 省太白县咀头镇上白云村为例[J].山地学报，2008,26(5)： 571- 576.[ZHOU Qi,YU Yaochuang. Study on the natural disaster perception of village in a mountainous area|J」.Journal of Mountain Science ,2008,26(5):571-576.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[12」石彦，杨庆媛，周旗，等.半干旱区居民旱灾灾感知的初步研究 一 以陕西省关中平原西部为例[J].灾害学，2008,23(2)： 24-29.[SHI Yan,YANG Qingyuan. ZHOUQi,et al.Application of delay exploration of high density resistivity method in geological disaster monitoring and early warninglJ」.Journal of Catastrophology,2008,23(2):24-29.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13］曹世雄,陈军，陈莉,等.关于我国国民环境的态度调查[J].生 态学报,2008,28(2）:735－741.［CAO Shixin,CHEN Jun, CHEN LI,et al. Investigation of Chinese environmental attitudes [J].Acta Eclogical Sinica,2008,28(2):735-741.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14」韩月英，红雨，嘎毕雅图.牧民对牧区生态环境的感知—一以 赤峰市中西部地区为例J」.内蒙古师范大学学报(哲学社会 科学版）,2016,45(5):139-145.[HAN Yueying,HONG Yu, GABIYATU.Herdsmen's perceptionof pastoral ecological environment:Acase study of themidwest of Chifeng City[J」.Journal of Inner Mongolia of Normal University （Philosophy and Social Science),2016,45(5):139-145.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[15］赵雪雁.不同生计方式农户的环境感知——以甘南高原为例[J].生态学报,2012,32(21):6776-6787.[ZHAO Xueyan.Environment perception of farmers of different livelihood strate-gies:A case of Ganan Plateau[J].Acta Ecological Sinica,2012,32(21):6776-6787.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[16］赵雪雁.牧民对高寒牧区生态环境的感知—以甘南牧区为例［J].生态学报，2009，29（5）：2427－2436.［ZHAOXueyan.Research on the herds'perception of the environmentin the high and cold pasturing area:a case study of Ganan pas-turing area[J].Acta Ecological Sinica,2009,29（5）:2427-2436.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[17］李文美，赵雪雁，郭芳，等.石羊河下游农户对生态退化的感知及响应[J].中国生态农业学报，2015，23(11)：1481-1490.[LIWenmei,ZHAO Xueyan,GUO Fang,et al.Farmers’perceptionandadaptive behaviorto environmental degradationin thelowerreaches of Shiyang River[J].Chinese Journal of Eco-Agricul-ture,2015,23(11):1481-1490.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18］杨美玲，朱志玲，任凯丽.限制开发生态区农户生态补偿参与 意愿及其影响因素——以宁夏盐池县为例[J].干旱区地理， 2018,41（3）:634-642.[YANG Meiling,ZHU Zhiling,REN Kaili.Farmers’participation and influencing factors in payment for environmental services limited developing ecological zones : a case of Yanchi County in Ningxia Province[J」Arid Land Geography,2018,41(3):634-642. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[19］郭玲霞，封建民，孙铂.陕北生态脆弱区农民环境感知状况及 其影响因素[J].水土保持通报，2015，35(4)：235-241.[GUO Lingxia,FENG Jianmin,SUNBo.Environmental perception of farmers and its influence factors in ecological fragile area of northern Shaanxi Province[J].Bulletin of Soil and Water Conservation,2015,35(4):235-241.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[20］周俊俊,杨美玲，樊新刚，等.基于结构方程模型的农户生态补 偿参与意愿影响因素研究——以宁夏盐池县为例[J」.干旱区 地理,2019,42(5):1185-1194.[ZHOUJunjun,YANGMeiling,FAN Xingang et al.Farmers'willingness to participate in ecological compensation based on structural equation model:A case of Yanchi County in Ningxia[J].Arid Land Geography, 2019,42(5):1185-1194.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[21」杨人豪,杨庆媛，印文，等.基于结构方程模型的休耕地管护意 愿及行为分析——以河北省邢台市为例[J].干旱区地理,2020, 43（1):260-270.[YANG Renhao,YANG Qingyuan,YIN Wen, et al.Farmers’willingness and behavior of fallow land management-protected based on SEM:A case study ofXingtai,Hebei [J].Arid Land Geography,2020,43(1):260-270.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[22］史兴民，高乔乔，张肖南.矿区居民环境感知在空间尺度上的 效应[J].干旱区资源与环境,2014,28(12):8-13.[SHIXingmin,GAOQiaoqiao,ZHANGXiaonan.The spatial effectof environmental perception of residents in coal mine area[J].Journal of Arid Land Resources and Environment,2014,28（12）: 8-13.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23］史兴民，廖文果.陕西省铜川矿区居民对环境问题的感知[J] 地理科学,2012,32(9)：1087-1092.［SHIXingmin,LIAO Wenguo.Residence’s perception difference on environmental problem in coal mine area:a case study of Tongchuan mine area, Shaanxi Province[J]. Science Geographica Sinica,2012,32(9): 1087-1092.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[24］史兴民，刘戎.煤矿区居民的环境污染感知——以陕西省韩城 矿区为例[J].地理研究,2012,31(4):641-651.[SHI Xing ming,LIU Rong.Perception of environment pollution in a coal mine area:A case study of Hangcheng mine area,Shaanxi Province[J].Geographical Research,2012,31(4):641-651.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[25］杜忠潮，邢东兴，李玲.汉唐帝陵旅游地居民对旅游影响的感知分析——陕西省茂陵、乾陵实证研究[J].宝鸡文理学院学报（自然科学版）,2007,27（1）：73－77.［DU Zhongchao,XING Dongxing,LI Ling. The analyses on the resident’percep-tion of tourism impact in ancient king cemetery:The case studyof Maoling and Qingling,Shaanxi Province,China［J].JournalofBaoji Universityo fArts and Science s（Natural Science），2007,27(1):73- 77.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Perception of environmental pollution in the residents of the tail mining area ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "YANG Wei-ge'， GOU Meng-meng'， YE Yuan-yuan²， LI Mei-lan²， GONG Wei² (1CollegeofRuralPlanningandArchitecturalEngineering,Shangluo University,Shangluo26oo,Shaanxi,China; 2ColegeofChemical EngineeringandModernMaterials,ShangluoUniversity,hangluo26oo,Shaanxi,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This study was conducted in Tieluzi Vilage,a typical tailings area of the Shangzhou District,which is located in Shangluo City,Shaanxi Province,China.Field interviews and questionnaires resulted in 240 valid questionnaires.These results were analyzed through rank-sum test and correlation analysis.This paper studied the environmental pollution perception of the residents in the mining area and analyzed its relationship to the residents’attributes.The results showed as follows:(1） The residents’perception of the diferent types of pollution was different and its intensity was ordered as follows :water pollution $( 4 . 5 2 ) >$ dust pollution $\\left( 3 . 9 3 \\right) >$ health concern $\\left( 3 . 8 \\right) >$ air pollution $\\left( 3 . 6 \\right) >$ noise pollution $( 3 . 2 ) >$ environmental sanitation pollution $( 2 . 9 1 ) >$ environmental satisfaction（1.83).This indicates the residents’believe that water and dust polutions were caused by mining and their impact on the public health were greater compared to other types of pollution. However,the impacts of these two types on the public health were small.（2）More than half of the residents believed that the environmental pollution,such as water polution,dust pollution,air pollution,noise pollution,and environmental sanitation polution,in the mining area was related to mining activities,and mining had different effects on the health and productivity of the residents.More than half ( $58 \\%$ ）of the residents believed that the environmental pollution in mining areas might cause respiratory diseases,such as pneumoconiosis.In fact,the percentages of the residents who suffered from rhinitis ,cancer,and weakened immune function due to mining were $20 \\%$ ， $8 \\%$ ， and $7 \\%$ ,respectively. In addition,they believed that pollution caused by mining reduced the agriculture production and animal husbandry as well as quality of agricultural products,while increasing the production cost.The mining activities were found to account for decreases of $4 2 . 5 \\%$ and $2 5 . 8 \\%$ in the formers as well as an increase of $2 2 . 9 \\%$ in the later.（3）The residents atributes’relationship to the environmental pollution awareness indicated thatthe influence of gender on the environment pollution perception was not significant. However,the professional attributes showed a significant effect on the perception of water and noise polutions. Other significant relationships were found between the polution perception and residents’attributes: health worry,degree of awareness, age,cultural level affected the environmental pollution perception,especially the atmospheric pollution perception;time perception affcted the dust pollution perception; water pollution had a significant negative influence; the distance between the residents and the mining area affected their perception ofdust pollution;and finally,pollution awareness had significant negative efects on water,noise,and environmental pollution perceptions.This study can provide a theoreticalbasis for the local government to manage,plan,and formulate relevant policies for the mining area. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:environmental pollution perception； lead-zinc mine；resident attributes；rank sum test； ShangluoCity",
+        "page_idx": 8
+    }
+]

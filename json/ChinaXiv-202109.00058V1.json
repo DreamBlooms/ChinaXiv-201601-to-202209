@@ -1,0 +1,536 @@
+[
+    {
+        "type": "text",
+        "text": "Dating the First Case of COVID-19 Epidemic from a Probabilistic ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Perspective ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhouwang Yang1， Yunhe $\\mathrm { H u } ^ { 1 }$ ， Zhiwei Ding1， Tiande Guo\\*2 lUniversity of Science and Technology of China 2University of Chinese Academy of Sciences \\* Corresponding author: tdguo@ucas.edu.cn (Tiande Guo) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the early days of the epidemic of coronavirus disease 2019 (COVID-19), due to insufficient knowledge of the pandemic, inadequate nucleic acid tests,lack of timely data reporting, etc., the origin time of the onset of COVID-19 is difficult to determine. Therefore,source tracing is crucial for infectious disease prevention and control. The purpose of this paper is to infer the origin time of pandemic of COVID-19 based on a data and model hybrid driven method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We model the testing positive rate to fit its actual trend,and use the least squares estimation to obtain the optimal model parameters.Further, the kernel density estimation is applied to infer the origin time of pandemic given the specific confidence probability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "By selecting 12 representative regions in the United States for analysis, the dates of the first infected case with $50 \\%$ confidence probability are mostly between August and October 2019, which are earlier than the officially announced date of the first confirmed case in the United States on January 20,2020.The experimental results indicate that the COVID-19 pandemic in the United States starts to spread around September 2O19 with a high confidence probability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In addition, the existing confirmed cases are also used in Wuhan City and Zhejiang Province in China to infer the origin time of COVID-19 and provide the confidence probability. The results show that the spread of COVID-19 pandemic in China is likely to begin in late December 2019. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORD ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pandemic; COVID-19; Testing positive rate; Infectious disease dynamic model; Least squares optimization; Kernel density estimation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In human history, it usually takes decades to explore the origin of infectious diseases and even until now people have not found all of the answers. Recently studying the origin, spread and evolution of coronavirus disease 2019 (COVID-19) in more than 200 countries and regions around the world has become a new research subject for global scientific community. Source tracking is crucial for infectious disease prevention and control. However, the process of scientific demonstration is complex for it requires a large amount of biological information and epidemiological evidence to converge into a mutually supportive evidence chain, which is timeconsuming and uncertain.A series of previous studies showed that the United States, Spain, France, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Italy, Brazil and other countries had been attacked by the coronavirus before its outbreak in China. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The main task of disease tracing is to find the first case. Though the first known case in Wuhan, China is the first confirmed case reported,it does not mean it is the first case people seek for.From the human history offighting against infectious diseases,it is difficult to find a successful precedent for tracing the origin yet. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The primary method for origin tracing of COVID-19 is molecular traceability[1].First of all, a global coronavirus information database is needed to further integrate genomic,epidemiological and clinical data. Secondly， based on the integration and analysis of molecular data and epidemiological data, it is able to systematically study the correlation and law between this series of coronavirus and various exposed factors, which provide an important reference for traceability. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Epidemic spread is a complex process involving many factors [2], some of which are difficult to figure out. However, the epidemic data imply the comprehensive influence of these factors. Theoretically，by analyzing these big data, the law of epidemic spread can also be obtained. Therefore,another method for origin tracing of COVID-19 is based on big data analysis. Combined with mathematical model and artificial intelligence technology, qualitative and quantitative analysis of infectious diseases can reveal the epidemic law of infectious diseases and detect the origin and development trend of infectious diseases. There are many studies on predicting forward using epidemic model and data at home and abroad [3-7], but there are few studies on tracing backward by establishing mathematical models and using big data analysis methods [8,9]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the early days of COVID-19, most countries including the United States and China lacked basic knowledge of the epidemic situation and nucleic acid detection was not in place.There were other problems such as lack,lag or distortion in the data released, which made it even more difficult to determine the origin time of the epidemic onset. To this end, we collect daily epidemic data of the U.S.including the number of newly confirmed people,the number of new deaths,the number of Nucleic Acid Amplification Tests (NAATs) and the positive rate of tests. We analyze the characteristics of various data and finally choose the number of nucleic acid tests and the testing positive rate of each state in the U.S.as the modeling data. According to the classical infectious disease model and statistical methods,an optimization model is established.The model parameters are obtained by using least squares estimation. The origin time of epidemic situation in selected states of the U.S. is inferred,and the time with corresponding probability O.5,O.6,0.7 and 0.8 of the first infection,5O infections and 10O infections in these states are obtained by kernel density estimation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Datadescription ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The main data used for modeling in this study are the daily testing positive rate, that is,the daily proportion of the number of positive nucleic acid tests accounts for the total number of nucleic acid tests of COVID-19.The data on the total number of tests and the number of positive tests of each state in the U.S.come from the official website of the United States Department of Health and Human Services [10]. By observing the early testing positive rate curves of more than 50 states in the U.S., it is found that 13 states and District of Columbia (mainly in the Northeast) where the excess mortality reached the peak earlier in 2O2O [11] share the same pattrn of change,that is,the testing positive rate rises to the peak rapidly after a short fluctuation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 1 shows the cumulative number of tests,the population and the percentage of total tests in the population of the 13 states and District of Columbia in the U.S.at the peak of the testing positive rate.When the testing positive rate in New Jersey and Vermont reached the peak, the cumulative number of tests was less than 1,0oO and the test ratio was too small, so these two states are not considered in the following analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/82900e270e2006e34f562a207a6754812cb8780759f7b19e9fbc3137c6624e30.jpg",
+        "table_caption": [
+            "Table 1.Cumulative Number of Tests,Population and Test Ratio of the 13 States and District of Columbia in the U.S. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Region</td><td>Cumulative Number of Tests</td><td>Population</td><td>Test Ratio</td></tr><tr><td>New Jersey</td><td>158</td><td>8882190</td><td>0.000018</td></tr><tr><td>Vermont</td><td>715</td><td>623989</td><td>0.001146</td></tr><tr><td>Virginia</td><td>18194</td><td>8535519</td><td>0.002132</td></tr><tr><td>Michigan</td><td>50905</td><td>9986857</td><td>0.005097</td></tr><tr><td>New Hampshire</td><td>12001</td><td>1359711</td><td>0.008826</td></tr><tr><td>Louisiana</td><td>45567</td><td>4648794</td><td>0.009802</td></tr><tr><td>Connecticut</td><td>44479</td><td>3565287</td><td>0.012476</td></tr><tr><td>New York</td><td>247165</td><td>19453561</td><td>0.012705</td></tr><tr><td>Pennsylvania</td><td>168746</td><td>12801989</td><td>0.013181</td></tr><tr><td>Maryland</td><td>86939</td><td>6045680</td><td>0.01438</td></tr><tr><td>District of Columbia</td><td>12256</td><td>705749</td><td>0.017366</td></tr><tr><td>Massachusetts</td><td>126162</td><td>6892503</td><td>0.018304</td></tr><tr><td>Delaware</td><td>22636</td><td>973764</td><td>0.023246</td></tr><tr><td>Rhode Island</td><td>44018</td><td>1059361</td><td>0.041551</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Take Maryland as an example (Figure 1). The black dots represent the calculated daily testing positive rate,and the red line represents the values after 15-day smoothing (7 days each before and after that very day). The purpose of smoothing is to reduce the impact of data fluctuations. The following testing positive rate refers to the smoothed testing positive rate unless specified otherwise. The positive rate in Maryland began to increase from $8 \\%$ on March 18,and reached a peak of nearly $30 \\%$ on April 15,after which the positive rate started to decline. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c0529efad23228e0ba92ce42d3fce583a53bbee50c3cf21dca8ee0d4975da4d.jpg",
+        "img_caption": [
+            "Figure 1. Testing Positive Rate of Maryland "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The positive rates of the remaining 1O states and District of Columbia have the same characteristics as that of Maryland,as shown in Figure 2. All states began to open commercial nucleic acid tests around March 15 and before that, due to the limit of detection level and inadequate number of tests, the positive rate may fluctuate to some extent and cannot represent the actual situation. Therefore, only the steadily increasing sequence from the first valley to the first peak is selected for modeling. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b0ab2c95c60a0151aad943e30f1b6cb0be066886ba55f530b4b114ebe2704a4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdda9f5b966dc86026e30e12e89adc3dad9f9dc07df075a94be050b5d1023a1e.jpg",
+        "img_caption": [
+            "Figure 2.TestingPositive Rates of10 states and District of Columbia "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The above-mentioned 11 states and District of Columbia share the same characteristic that the testing positive rate rises to a peak not long after the beginning, due to the approximately natural propagation in the early stage of the epidemic in the U.S. If for each state, the infectious disease model we build can fit the first rising part of the positive rate wel, it indicates that the model can accurately reflect the spread ofthe epidemic within time,then we can trace the origin ofthe epidemic by looking backwards in history. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Date tracing process ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The process of tracing the origin time of the pandemic is mainly divided into three steps. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Step 1. Perform a 15-day smoothing process on the daily positive rate of the target district to reduce the impact of random noise. If there are abnormal fluctuations in the previous period, drop this part of the data, and only choose the sequence corresponding to the first stably rising period. The time interval is denoted as T,whose length is denoted as $\\tau$ ,and the endpoints on both sides correspond to the trough time and the crest time respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Step 2.Take the 14 consecutive days of interval T as the fitting data $y _ { i } , i = 1 , \\ldots , 1 4$ ,use the twoparameter exponential epidemic model of the testing positive rate to get the fitting function $\\hat { y }$ ,and record the fitting accuracy index MAPE (Mean Absolute Percentage Error) ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { 1 4 } \\sum _ { i = 1 } ^ { 1 4 } \\frac { | \\hat { y } _ { i } - y _ { i } | } { y _ { i } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Denote the number of the people engaged in NAATs in the target district as M. Extend the positive rate fitting function $\\hat { y }$ towards history,and solve for the time $\\bar { t } ^ { 1 }$ when $\\hat { y } ( t ) \\mathbb { M } = 1$ ,that is,the occurring time of first case of the target district. Similarly, solve for the time $\\bar { t } ^ { 5 0 }$ when $\\hat { y } ( t ) \\mathbf { M } = 5 0$ and the time $\\bar { t } ^ { 1 0 0 }$ when $\\hat { y } ( t ) \\mathrm { M } = 1 0 0$ ，which represent the occurring time of 50 cases and 1O0 cases in the target district respectively. Since ${ \\hat { y } } ( t ) \\to 0 , t \\to - \\infty$ , the above equation must have a solution. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Step 3.Take 14 days as the size of the fitting window and 1 as the step size,and perform sliding sampling on the interval T.Repeat step 2 for each window to obtain $\\tau { - } 1 3$ retrospective dates and MAPE values.Apply the kernel density estimation to obtain the probability distribution of the origin time, and calculate the average MAPE as the evaluation index of the overallfiting accuracy. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Origin time of11 states and District of Columbia in the U.S. ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Take Maryland as an example to trace the origin of the epidemic.The rising period of the testing positive rate in Maryland is from March 18,2020 to April 15,2020. The observation data, transmission model data,and retrospective data are shown in Figure 3.The time interval between the blue dotted lines corresponds to March 18,2020 to April15,2020,and the time interval between the gray dotted lines is one of the sliding data windows used for fitting. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3abc26a24d7a65918d27131dfd5c75ed29df392a823cacd87b93d91e6b010f1b.jpg",
+        "img_caption": [
+            "Figure 3.Modeling the testing positive rate in Maryland and tracing the Origin date "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Through the sliding of the fiting window,several inferred dates of the first case in Maryland are obtained and the corresponding probability density is shown in the Figure 4A. In the same way, dates of 50,1O0 cases are inferred and their corresponding probability densities are shown in the Figure 4B and 4C.The two red lines in figures represent the mean line (left) and the density peak line (right). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e23d2eb32daf55c748d3bb1a572f1030156321b61232349e9695e9baf256f905.jpg",
+        "img_caption": [
+            "Figure 4.Tracing dates of the first case,50 cases,10o cases and corresponding probability lensity forMaryland "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 2 shows the results of inferring origins of the COVID-19 pandemic for 11 states and District of Columbia in the U.S., including dates of the first infection,50 infections,and 100 infections given the probability of $50 \\%$ ， $60 \\%$ ， $70 \\%$ ，and $80 \\%$ ， respectively. Taking Maryland as an example, the probabilities that the first infection occurred before 2019-09-22,2019-10-06,2019-10-19,and 2019- 11-02 are $50 \\%$ $60 \\%$ $70 \\%$ ,and $80 \\%$ ,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c0e7dc9013a2aeabd1aeda2bae813a7fad88c0717337ea759ba5d821f4dabec.jpg",
+        "table_caption": [
+            "Table 2.Dates and corresponding probabilities of the first,50,and 100 outbreaks in 12 regions of the United States "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Region</td><td colspan=\"4\">6oirst as 0%</td><td colspan=\"4\"></td><td colspan=\"4\"></td><td rowspan=\"2\">Average MAPE</td></tr><tr><td>50%</td><td></td><td></td><td>80%</td><td>50%</td><td>650Cases 70%</td><td></td><td>80%</td><td>50%</td><td>10CaseS50%</td><td></td><td>80%</td></tr><tr><td>Rhode Island</td><td>2019/4/26</td><td>2019/5/7</td><td>2019/5/18</td><td>2019/5/29</td><td>2019/9/28</td><td>2019/10/5</td><td></td><td>2019/10/102019/10/172019/10/262019/10/31</td><td></td><td></td><td>2019/11/6</td><td>2019/11/11</td><td>0.0116</td></tr><tr><td>Connecticut</td><td>2019/5/12</td><td>2019/5/25</td><td>2019/6/6</td><td>2019/6/20</td><td>2019/9/20</td><td>2019/9/27</td><td>2019/10/5</td><td>2019/10/13</td><td>2019/10/132019/10/20</td><td></td><td>2019/10/27</td><td>2019/11/2</td><td>0.013</td></tr><tr><td>Michigan</td><td>2019/8/14</td><td>2019/8/27</td><td>2019/9/8</td><td>2019/9/21</td><td>2019/11/14</td><td>2019/11/21</td><td>2019/11/28</td><td>2019/12/6</td><td>2019/11/30</td><td>2019/12/6</td><td>2019/12/13</td><td>2019/12/20</td><td>0.0159</td></tr><tr><td>District of Columbia</td><td>2019/8/29</td><td>2019/9/21</td><td>2019/10/9</td><td></td><td>2019/10/272019/12/142019/12/25</td><td></td><td>2020/1/3</td><td>2020/1/12</td><td>2020/1/1</td><td>2020/1/11</td><td>2020/1/18</td><td>2020/1/25</td><td>0.0228</td></tr><tr><td>Maryland</td><td>2019/9/22</td><td>2019/10/6</td><td>2019/10/19</td><td>2019/11/2</td><td>2019/12/9</td><td>2019/12/17</td><td>2019/12/25</td><td>2020/1/2</td><td>2019/12/23</td><td>2019/12/30</td><td>2020/1/6</td><td>2020/1/13</td><td>0.0211</td></tr><tr><td>Pennsylvania</td><td>2019/9/22</td><td>2019/9/26</td><td>2019/9/29</td><td>2019/10/2</td><td>2019/12/3</td><td>2019/12/6</td><td>2019/12/7</td><td>2019/12/9</td><td>2019/12/16</td><td>2019/12/182019/12/20</td><td></td><td>2019/12/22</td><td>0.0209</td></tr><tr><td>Massachusetts</td><td>2019/10/5</td><td></td><td></td><td>2019/10/182019/10/302019/11/122019/12/132019/12/212019/12/28</td><td></td><td></td><td></td><td>2020/1/5</td><td>2019/12/242019/12/31</td><td></td><td>2020/1/7</td><td>2020/1/14</td><td>0.0422</td></tr><tr><td>New York</td><td></td><td></td><td>2019/10/122019/10/162019/10/202019/10/23</td><td></td><td>2019/12/7</td><td>2019/12/102019/12/122019/12/152019/12/172019/12/192019/12/21</td><td></td><td></td><td></td><td></td><td></td><td>2019/12/23</td><td>0.0378</td></tr><tr><td>New Hampshire</td><td></td><td>2019/10/222019/10/29</td><td>2019/11/4</td><td>2019/11/11</td><td>2020/1/20</td><td>2020/1/23</td><td>2020/1/26</td><td>2020/1/29</td><td>2020/2/4</td><td>2020/2/7</td><td>2020/2/9</td><td>2020/2/11</td><td>0.0277</td></tr><tr><td>Virginia</td><td></td><td>2019/10/232019/11/3</td><td>2019/11/152019/11/27</td><td></td><td>2020/1/9</td><td>2020/1/14</td><td>2020/1/20</td><td>2020/1/26</td><td>2020/1/23</td><td>2020/1/27</td><td>2020/2/1</td><td>2020/2/5</td><td>0.0168</td></tr><tr><td>Louisiana</td><td>2019/11/4</td><td>2019/11/15 2019/11/26</td><td></td><td>2019/12/7</td><td>2020/1/1</td><td>2020/1/7</td><td>2020/1/13</td><td>2020/1/20</td><td>2020/1/11</td><td>2020/1/16</td><td>2020/1/22</td><td>2020/1/28</td><td>0.0777</td></tr><tr><td>Delaware</td><td></td><td></td><td></td><td>2019/11/302019/12/92019/12/182019/12/272020/1/29</td><td></td><td>2020/2/2</td><td>2020/2/7</td><td>2020/2/12</td><td>2020/2/8</td><td>2020/2/12</td><td>2020/2/16</td><td>2020/2/20</td><td>0.0306</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The average MAPE for modelling each state's testing positive rate is less than $5 \\%$ , indicating that the models are of high accuracy. In addition,the rising period of the positive rate is short in several states,thus the length of the fiting window is appropriately reduced to obtain more results of inferring origins, ensuring the accuracy of the kernel density estimation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The above uses the cumulative number of positive tests to conduct into the origins of COVID-19. Since the actual number of positive people is much larger than the number of positive tests due to the limitation of testing,the former inferences are relatively conservative inference,that is, the inferred dates of origins are relatively late.The authoritative study has shown that the actual infected cases of COVID-19 in the United States are between 3 and 20 times the number of confirmed cases [12],which means that the early detection of the epidemic in the United States is obviously insufficient, resulting in that the number of infected cases is seriously underestimated.To this end, we have expanded the cumulative number of people involved in the nucleic acid test up to the peak of the positive rate to 3,5,10,15,and 20 times,respectively,and then we can infer the earlier date of the onset ofthe epidemic.The testing rate in Maryland at the peak of the positiveis at a medium level among the selected regions. As a typical representative example, we wil expand Maryland's cumulative number of tests before the peak of positive rate rises to 3,5,10,15,and 20 times, respectively, the corresponding dates of origin and probabilities are shown in Table 3. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f61290255448433335ca7bfa10d7f2a594b3aa12e14790a73d6d1b9401ef6b26.jpg",
+        "table_caption": [
+            "Table 3.The date of origin of the epidemic and its corresponding probabilities for the cumulative number of people detected in Maryland expanded by different multiples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Multiple</td><td colspan=\"4\">First Case</td><td colspan=\"4\">50 Cases</td><td colspan=\"4\">100 Cases</td></tr><tr><td>50%</td><td>60%</td><td>70%</td><td>80%</td><td>50%</td><td>60%</td><td>70%</td><td>80%</td><td>50%</td><td>60%</td><td>70%</td><td>80%</td></tr><tr><td>3</td><td>2019/9/1</td><td></td><td>2019/9/16 2019/9/30</td><td></td><td>2019/10/162019/11/17</td><td>2019/11/27</td><td>2019/12/6</td><td>2019/12/16</td><td>2019/12/1</td><td></td><td>2019/12/102019/12/18</td><td>2019/12/27</td></tr><tr><td>5</td><td>2019/8/21</td><td>2019/9/7</td><td>2019/9/22</td><td>2019/10/8</td><td>2019/11/7</td><td>2019/11/18</td><td>2019/11/27</td><td>2019/12/8</td><td>2019/11/21</td><td>2019/11/30</td><td>2019/12/10</td><td>2019/12/19</td></tr><tr><td>10</td><td>2019/8/8</td><td>2019/8/25</td><td>2019/9/10</td><td>2019/9/27</td><td>2019/10/24</td><td>2019/11/5</td><td>2019/11/16</td><td>2019/11/27</td><td>2019/11/7</td><td>2019/11/18</td><td>2019/11/27</td><td>2019/12/8</td></tr><tr><td>15</td><td>2019/7/31</td><td>2019/8/17</td><td>2019/9/3</td><td>2019/9/20</td><td>2019/10/16</td><td>2019/10/29</td><td>2019/11/9</td><td>2019/11/202019/10/30</td><td></td><td>2019/11/10</td><td>2019/11/21</td><td>2019/12/2</td></tr><tr><td>20</td><td></td><td></td><td>2019/7/252019/8/132019/8/29</td><td>2019/9/17</td><td>2019/10/102019/10/23</td><td></td><td>2019/11/4</td><td></td><td>2019/11/16 2019/10/24</td><td>2019/11/5</td><td>2019/11/16 2019/11/27</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Origin time of Wuhan City and Zhejiang Province in China ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The number of ‘existing confirmed cases' is defined as the ‘cumulative number of confirmed cases' minus the ‘sum of cumulative number of recovered cases and cumulative number of deaths'. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As China adopts a masstesting strategy of epidemic prevention and control[13],the testing positive rate maintains a very low level in most time, which is not suitable for modeling. However, because of this strategy, the number of existing confirmed cases in China is closer to the actual number of infections. Therefore, we directly use the number of existing confirmed cases to replace the testing positive rate, and select Wuhan City and Zhejiang Province, China, as the two representative regions to trace the origin of the COVID-19. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The changes in the existing confirmed cases in Wuhan City and Zhejiang Province [14,15] are shown in Figure 5.As for Wuhan (Figure 5A), we find that the number of existing confirmed cases increased sharply on February 12,2O20.This is mainly caused by the revision of the definition of confirmed cases. Specifically, the number of clinically diagnosed cases is also included into the number of confirmed cases.The number of existing confirmed cases peaks on February 18, 2020. With respect to Zhejiang (Figure 5B), the number of existing confirmed cases peaks on February 7, 2020. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e288e90ac104c29e5b1de53868d74d2f6a43a0a81fed37f8ac24fbf51323955a.jpg",
+        "img_caption": [
+            "Figure 5.Modeling the number of existing confirmed cases and tracing the Origin time in Wuhan and Zhejiang, China "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In order to improve the reliability of results, we change the time interval and the size of sliding window to conduct multiple numerical experiments,and select the model with the smallest MAPE as the final model. For Wuhan, we take January 27,202O to February 11,2020,and January 27, 2020 to February 18, 2020 as the fiting time intervals. Meanwhile, we change the window size. With regard to Zhejiang,we take January 22,2020 to February 7,2020, January 23, 2020 to February7,2020,January 24,2020 to February 7,2020,and January 25,2020 to February 7,2020 as the fiting time interval, respectively. The model results of two regions are listed in Table 5. The model selected for furtherly inferring the Origin time is marked with the star in the MAPE column (Table 5). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Through the sliding of the fiting window, multiple inferred dates of the first case, 5O cases,100 cases in Wuhan are obtained and the corresponding probability density is shown in Figure 6. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7687f2a68b5d577141ba6b17dc681e1e135dedc7ea063fd8e11f44309d03f6ba.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) 50 cases ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Wuhan ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/13497f314395e976fbd61f907c76ddd41eb2157c23522200cca9480a4a6ae8e6.jpg",
+        "img_caption": [
+            "Figure 6. Tracing dates of the first case,50 cases,10o cases and corresponding probability density for Wuhan "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 5 shows that the probabilities that the first infection occurred in Wuhan, China before December 20,2019,December 22, 2019,December 24,2019,and December 26,2019 are $50 \\%$ $60 \\%$ ， $70 \\%$ ,and $80 \\%$ ,respectively. The probabilities that the first infection occurred in Zhejiang, China before December 23,2019,December 31,2019, January 6,2020,and January 14, 2020 are $50 \\%$ 0 $60 \\%$ 0 $70 \\%$ ,and $80 \\%$ ,respectively. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c8a829a81c4c0503d1a4a02cb3f000e76ad6909f75ee6d104a1710e88cc2a26.jpg",
+        "table_caption": [
+            "Table 5.Dates and corresponding probabilities of the first case,50 cases and 1oo cases in Wuhan and Zhejiang, China "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Region</td><td colspan=\"4\">60% irst Case70%</td><td colspan=\"4\">650 Case570%</td><td colspan=\"4\"></td><td rowspan=\"2\">Average MAPE</td><td rowspan=\"2\">Start</td><td rowspan=\"2\">End</td><td rowspan=\"2\"></td><td rowspan=\"2\">Window Size</td></tr><tr><td></td><td>50%</td><td></td><td></td><td>80%</td><td>50%</td><td></td><td></td><td>80%</td><td>506</td><td>60100Case50%</td><td>2020/1/102020/1/11</td><td>2020/1/12 80%</td></tr><tr><td>Wuhan</td><td>2019/12/12</td><td>2019/12/14</td><td>2019/12/16</td><td>2019/12/18</td><td>2020/1/5</td><td>2020/1/6</td><td>2020/1/7</td><td>2020/1/9</td><td>2020/1/9</td><td></td><td></td><td></td><td></td><td>0.0964</td><td>2020/1/27</td><td>2020/2/18</td><td>14</td></tr><tr><td>Wuhan</td><td>2019/12/11</td><td>2019/12/15</td><td>2019/12/19</td><td>2019/12/23</td><td>2020/1/4</td><td>2020/1/7</td><td>2020/1/9</td><td>2020/1/11</td><td>2020/1/8</td><td></td><td>2020/1/11</td><td>2020/1/12</td><td>2020/1/14</td><td>0.0690</td><td>2020/1/27</td><td>2020/2/18</td><td>7</td></tr><tr><td>Wuhan</td><td>2019/12/20</td><td>2019/12/22</td><td>2019/12/24</td><td>2019/12/26</td><td>2020/1/9</td><td>2020/1/10</td><td>2020/1/11</td><td>2020/1/13</td><td>2020/1/13</td><td></td><td>2020/1/14</td><td>2020/1/15</td><td>2020/1/16</td><td>0.04*</td><td>2020/1/27</td><td>2020/2/11</td><td>7</td></tr><tr><td>Zhejiang</td><td>2019/12/26</td><td>2020/1/2</td><td>2020/1/9</td><td>2020/1/16</td><td>2020/1/17</td><td>2020/1/20</td><td>2020/1/22</td><td>2020/1/24</td><td>2020/1/20</td><td>2020/1/22</td><td></td><td>2020/1/23</td><td>2020/1/25</td><td>0.1040</td><td>2020/1/22</td><td>2020/2/7</td><td>7</td></tr><tr><td>Zhejiang</td><td>2019/12/23</td><td>2019/12/31</td><td>2020/1/6</td><td>2020/1/14</td><td>2020/1/16</td><td>2020/1/19</td><td>2020/1/21</td><td></td><td>2020/1/242020/1/20</td><td>2020/1/22</td><td></td><td>2020/1/23</td><td>2020/1/25</td><td>0.0874*</td><td>2020/1/23</td><td>2020/2/7</td><td>7</td></tr><tr><td>Zhejiang</td><td>2019/12/18</td><td>2019/12/26</td><td>2020/1/3</td><td>2020/1/11</td><td>2020/1/14</td><td>2020/1/18</td><td>2020/1/21</td><td>2020/1/23</td><td>2020/1/19</td><td>2020/1/21</td><td></td><td>2020/1/23</td><td>2020/1/25</td><td>0.0900</td><td>2020/1/24</td><td>2020/2/7</td><td>7</td></tr><tr><td>Zhejiang</td><td>2019/12/132019/12/21</td><td></td><td>2019/12/30</td><td>2020/1/7</td><td></td><td>2020/1/122020/1/162020/1/192020/1/222020/1/182020/1/202020/1/222020/1/25</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.0881</td><td>2020/1/25</td><td>2020/2/7</td><td>7</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Based on the infectious disease transmission model and big data analysis method, this paper establishes an optimization model. Using the daily data released by the 12 representative regions of the United States,the model parameters are obtained separately,and then dates of first case, 50 cases and 100 cases of COVID-19 infection are inferred with corresponding probabilities.For the 12 representative regions, the dates of the first infection with probability $50 \\%$ are mostly between August and October 2019,the earliest is April 26,2019 for Rhode Island,and the latest is November 2019 for Delaware, which are all earlier than January 20,2O20,the officially announced date of the first confirmed case in the United States. The calculation results show that the COVID-19 epidemic in the United States has a high probability of beginning to spread around September 2019. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "According to this model, we use the daily existing number of confirmed diagnoses in Wuhan City, China and Zhejiang Province, China to obtain the model parameters and infer the infection time of first case,50 cases and 1OO cases with corresponding probabilities.For Wuhan, the date of the first case of COVID-19 with probability $50 \\%$ is inferred as December 20,2019,and the date of the first case in Zhejiang is inferred as December 23,2019.The calculation results show that the COVID19 epidemic in China has a high probability of beginning to spread in late December 2019. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "If the detection data in the early stage of epidemic of other countries or regions are relatively accurate,this method can be used to infer the Origin time of the epidemic and provide the date of the first case or certain cases under a given probability. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "METHODS ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Epidemic model ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The classic infectious disease dynamic model assumes that the number of infected persons wil increase exponentially in the early stage of epidemic under the condition of non-intervention and approximately natural transmission, and thus intuitively presents a J curve. This assumption is consistent with the early epidemic situation of the U.S. Literature [16] proposed the folowing infectious disease transmission model ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN ( t ) = N ( t _ { 0 } ) \\exp \\{ a _ { t } ( t - t _ { 0 } ) \\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where $N ( t )$ is the number of existing infections at time $t$ ， $N ( t _ { 0 } )$ and $t _ { 0 }$ are constants, and $a _ { t }$ varies with time $t$ . Due to the short initial spread of the epidemic, the virus has not mutated yet, we can assume that $a _ { t }$ does not change over time and is denoted as $a$ . After simplifying the model (1),a two-parameter exponential model of the number of existing infections is obtained ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN ( t ) = e ^ { b + a t } .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Denote $s$ as the set of cumulative test population up to the first peak of testing positive rate in the target district.Then the population participating in the test every day can be regarded as a random sampling ofthe set S,and the test positive rate represents the infection rate ofthe set S.The positive rate is multiplied by $\\mathtt { M }$ (the number of elements in $S$ ） to get the number of existing infections in the test population, which is much lower than the number of existing infections in the target district during the same period. The curve of the testing positive rate synchronizes with the curve of the existing number of infected persons,and the only difference between them is a constant multiple, so the model (2) is also applicable to the testing positive rate. Denote the testing positive rate in the target district as $y$ .From the above two-parameter exponential model (2), the following model can be obtained ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny ( t ) = \\mathrm { e } ^ { c _ { 0 } + c _ { 1 } t } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where $c _ { 0 } , c _ { 1 }$ are model parameters to be determined，which can be estimated from the observational data of testing positive rate. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Least squares optimization ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Assuming that a total of $n$ days ofobservational data $( t _ { i } , y _ { i } ) , i = 1 , \\ldots , n$ are collected, in order to estimate the parameters $c _ { 0 }$ and $c _ { 1 }$ , the following least squares optimization model is established ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { { \\bf c } _ { 0 } , { c _ { 1 } } } \\sum _ { i = 1 } ^ { n } ( y _ { i } - e ^ { { c _ { 0 } + c _ { 1 } t _ { i } } } ) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To simplify the calculation, first take the natural logarithm ofboth sides of the model(3) to obtain $\\log y = c _ { 0 } + c _ { 1 } t$ ， and then for the transformed data $( t _ { i } , \\log y _ { i } ) , i = 1 , \\ldots , n$ ，we reformulate the least squares optimization model ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\mathbf { c } _ { 0 } , c _ { 1 } } \\sum _ { i = 1 } ^ { n } ( \\log y _ { i } - c _ { 0 } - c _ { 1 } t _ { i } ) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Solve model (5) to get the optimal solution $( \\hat { c } _ { 0 } , \\hat { c } _ { 1 } )$ , thus obtaining the epidemic spread model $\\hat { y } ( t ) = \\mathrm { e } ^ { \\hat { c } _ { 0 } + \\hat { c } _ { 1 } t }$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Kernel densityestimation ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Kernel density estimation,as a non-parametric estimation method,can be applied to estimate the unknown probability distribution without prior knowledge.The principle is that if a certain number appears in observation, it can be considered that the probability density of this number is relatively large,the probability density of the number close to it will also be relatively large,and the probability density of the number far away from it will be relatively smal. Therefore,a function that satisfies the above conditions can be used to approximate the probability density for each observed number, and then sum allthe functions to obtain the probability density function after normalization. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Assuming that several possible Origin times of the target district are calculated as $x _ { i } , i = 1 , \\ldots , m$ according to different data fiting intervals, the probability density of the Origin date at $x$ is ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { f } _ { h } ( x ) = \\frac { 1 } { m h } \\sum _ { i = 1 } ^ { m } K \\Big ( x - \\frac { x _ { i } } { h } \\Big ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where the kernel function $K$ satisfies $\\textstyle \\int K ( x ) \\mathrm { d } x = 1$ ，and the smoothing parameter $h$ is called bandwidth. The kernel function is generally a symmetric and unimodal probability density function. Here, the commonly used Gaussian kernel is selected as ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK ( x ) = { \\frac { 1 } { \\sqrt { 2 \\pi } } } \\exp { \\left( - { \\frac { x ^ { 2 } } { 2 } } \\right) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "and the choice of bandwidth follows Silverman's rule of thumb [17]. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "FUNDING ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The work is supported by Anhui Center for Applied Mathematics, the NSF of China (No. 11871447). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] Shan K J, Wei C, Wang Y, Huan Q, Qian W. Host-specific asymmetric accumulation of mutation types reveals that the origin of SARS-CoV-2 is consistent with a natural process[J]. The Innovation, 2021, doi: https://doi.org/10.1016/j.xinn.2021.100159.   \n[2] Wu R, Ai S,JCai, et al. Predictive Model and Risk Factors for Case Fatality of COVID-19: A Cohort of 21,392 Cases in Hubei, China[J]. The Innovation,2020, 1(2):100022.   \n[3] Shen,M.,Peng, Z., Xiao,Y.and Zhang,L. Modeling the Epidemic Trend of the 2019 Novel Coronavirus Outbreak in China. The Innovation, 2020, 1(3): 100048.   \n[4] Sun H, Qiu Y, Yan H, Huang Y, Zhu Y and Chen S. Tracking and Predicting COVID-19 Epidemic in China Mainland. medRxiv, 2020.   \n[5] Chen Y,Lu P, Chang C and Liu T.A Time-Dependent SIR Model for COVID-19 With Undetectable Infected Persons. IEEE Transactions on Network Science and Engineering,2020,7(4): 3279-3294.   \n[6] Giordano G, Blanchini F and Bruno R. Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy. Nature Medicine, 2020.   \n[7] Zhang Y, You C, Cai Z, et al. Prediction of the COVID-19 outbreak in China based on a new stochastic dynamic model. Scientific Reports, 2020. [8] Roberts DL, Rossman JS, Jaric I. Dating first cases of COVID-19.PLoS Pathog, 2021,17(6): e1009620.   \n[9] Zhang C, Wang M. Origin time and epidemic dynamics of the 2019 novel coronavirus. bioRxiv, 2020.   \n[10] https://ealthdata.gov/dataset/COVID-19-Diagnostic-Laboratory-Testing-PCR-Testing/j8mbicvb   \n[11] https://www.nytimes.com/interactive/2020/us/covid-death-toll-us.html   \n[12] Wu S L,Mertens AN, Crider Y S, et al. Substantial underestimation of SARS-CoV-2 infection in the United States[J]. Nature Communications,2020,11(1): 4507.   \n[13] Shen M, Xiao Y, Zhuang G,Li Y and Zhang L. Mass testing—An underexplored strategy for COVID-19 control. The Innovation, 2021.   \n[14]https://github.com/CSSEGISandData/COVID-19   \n[15] http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml   \n[16] Huang NE,Qiao F. A data driven time-dependent transmission rate for tracking an epidemic: a case study of 2019-nCoV[J]. Science Bulletin,2020, 65(6): 425-427.   \n[17] Silverman B W. Density Estimation for Statistics and Data Analysis[M]. Chapman and Hall, 1986. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

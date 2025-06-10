@@ -1,0 +1,544 @@
+[
+    {
+        "type": "text",
+        "text": "Drought trend analysis in a semi-arid area of Iraq based on Normalized Difference Vegetation Index, Normalized Difference Water Index and Standardized Precipitation Index ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ayad MFAL-QURAISHIl\\*,Heman AGAZNAYEE²,Mattia CRESPI,4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Departmentof Surveyingand GeomaticsEngineering,Facultyof Enginering,Tishk InternationalUniversity,Erbil4401, Iraq;   \n2DepartmentofForestry,ColegeofAgriculturalEngineringSciences,SaaaddinUniversityErbil44a;   \n3GeodesyandGeomaticsDivisio,DepartmentofCivil,ConstructionalandEnvironmentalEnginering,pienzaUnisityf Rome,Rome 00185, Italy;   \n4Sapienza School for Advanced Studies,Sapienza University of Rome,Rome OO185, Italy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Drought was a severe recurring phenomenon in Iraq over the past two decades due to climate change despite the fact that Iraq has been one of the most water-rich countries in the Middle East in the past. The Iraqi Kurdistan Region (IKR) is located in the north of Iraq, which has also sufered from extreme drought. In this study, the drought severity status in Sulaimaniyah Province,one of four provinces of the IKR, was investigated for the years from 1998 to 2017. Thus,Landsat time series dataset, including 40 images, were downloaded and used in this study. The Normalized Difference Vegetation Index (NDVI) and the Normalized Difference Water Index (NDWI) were utilized as spectral-based drought indices and the Standardized Precipitation Index (SPI) was employed as a meteorological-based drought index, to assess the drought severity and analyse the changes of vegetative cover and water bodies. The study area experienced precipitation deficiency and severe drought in 1999,2000,2008,2009,and 2012. Study findings also revealed a drop in the vegetative cover by $3 3 . 3 \\%$ in the year 2OO0.Furthermore,the most significant shrinkage in water bodies was observed in the Lake Darbandikhan (LDK),which lost $40 . 5 \\%$ of its total surface area in 2Oo9.The statistical analyses revealed that precipitation was significantly positively correlated with the SPI and the surface area of the LDK (correlation coefficients of 0.92 and 0.72, respectively). The relationship between SPI and NDVI-based vegetation cover was positive but not significant. Low precipitation did not always correspond to vegetative drought; the delay of the effect of precipitation on NDVI was one year. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: climate change; drought; Normalized Difference Vegetation Index (NDVI); Normalized Difference Water Index (NDWI); Standardized Precipitation Index (SPI); delay effect ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Drought is one of the most complex natural disasters; it is still challenging to identify its cause and range of development (Aadhar and Mishra, 2O17). In general, drought gives an impression of water scarcity due to insufficient precipitation, high evapotranspiration,and overexploitation of water resources，or a combination of all the above (Sheffield and Wood,2Oo8).Drought is triggered by an extended period of precipitation deficiency (Fadhil，2O11） and is usually associated with increased evaporation rates (Perez et al.， 2Ol6). Depending on how long and severe the lack of precipitation is, drought can bring various degrees of negative influence on soil/vegetation moisture， groundwater, rivers， streams, ecosystems， and human activities (Smakhtin and Hughes,2004). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Due to global warming, precipitation has decreased in many regions in the world (Yu et al., 2019). Hence,this climate change is likely to cause more frequent and more severe droughts in several countries (Al-Quraishi et al.， 2O2O). Various kinds of drought, such as agricultural, hydrological, meteorological, ecological, and socioeconomic drought, are caused by a reduction in the amount of water resources in areas characterized by a reduction in the availability of water resources (Sharma, 2OO6). Drought has severe impacts on agricultural and livestock production resources in any country. It negatively afects irigated farmlands and areas that depend on rainfed irrigation farmlands. It also has serious consequences on population distribution, production, and life (Al-Quraishi et al., 2O19; Gaznayee and Al-Quraishi, 2019a). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Geographically, Iraq is situated in the driest zone in the world; the water resources in Iraq are limited and mostly shared with other neighbouring countries (UNESCO,2O14).Water is the decisive factor for the stability and continuity of the agricultural department and the corerstone of economic and social development in Iraq (Yaseen et al.,2O18), which is heavily dependent on surface water and groundwater resources (Alobaidy et al.,2O1O). Unfortunately, Iraq has suffered from recurring droughts for the past 2O years (Street, 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Remote sensing (RS） technology can assess, monitor,and predict drought (Sun et al., 2010; Hazaymeh and Hassan,2O17).Proper indices derived from optical RS data have been used to assess and analyze drought severity (Hazaymeh and Hassan,2O17; Ghebrezgabher et al., 2019). RS and Geographic Information System (GIS） play vital roles in drought investigation as they offer practical and economical means to study the spatiotemporal distribution and evolution of vegetative cover and water resources through specific indices, such as the Normalized Difference Vegetation Index (NDVI) and the Normalized Difference Water Index (NDWI) (Acharya and Ray, 2007; Fadhil, 2013; Zhang et al.,2013). Based on the RS dataset, it is possible to employ spectral water indices to investigate the impacts of drought on water resources (Li et al.,2O14; Gaznayee and Al-Quraishi, 2O19b). The type of spectral indices for drought as well as their use depend on the kind of drought and the factors that lead to drought (Yang et al.,2O14; Awchi and Jasim, 2017).The Standardized Precipitation Index (SPI) is a well-known meteorological parameter widely used in drought studies (McKee et al.,1993; Edossa et al., 2010; Al-Quraishi and Negm, 2020).Most drought studies often rely on meteorological and spectral indices so that appropriate measures and treatments can be established to mitigate the efects of drought (Loucks and van Beek,2017; Mustafa,2020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although drought assessment using RS data and GIS technique is not a novel topic,to the best of our knowledge,few studies have employed these tools in the Iraqi Kurdistan Region (IKR) of Iraq,particularly in Sulaimaniyah Province. Therefore,we conducted this study for this reason. RS data were collcted for the 2O-year period from 1998 to 2O17 (as this was a crucial period for the recurrence of drought episodes in Iraq) to calculate the NDVI and NDWI. The results were then integrated with meteorological data from the SPI and hydrological data (the surface area of the Lake Darbandikhan (LDK))to analyze and assess drought trends in Sulaimaniyah Province in the IKR. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study was conducted in Sulaimaniyah Province in the IKR (Fig.1),an area located in the north of Iraq. The IKR includes four provinces, with Sulaimaniyah Province being the largest one (two-thirds of the IKR). The study area is bordered by Iran from the east and surrounded by Kirkuk Province to the west, Salahalddin Province to the southwest,and Diyala Province to the south. Sulaimaniyah Province extends over $2 . 4 3 { \\times } 1 0 ^ { 4 } ~ \\mathrm { { k m } } ^ { 2 }$ and consists of 15 districts: Sulaimaniyah， Qaradagh， Sharazure， Saidsadiq， Penjwin， Halabja， Darbandikhan， Kalar, Khanaqin, Kifri, Chamchamal, Dukan, Sharbazher (Mawat), Ranya,and Pishdar (Fig. la). LDK, one of the three largest lakes in the IKR,is situated $2 3 0 \\mathrm { k m }$ northeast of Baghdad and nearly 60 km southeast of Sulaimaniyah Province.LDK is connected to the Diyala River, a tributary of the Tigris River; it is a source of drinking and irrigation water for Sulaimaniyah Province and the surrounding areas,and has significant tourism benefits. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e897bd1d1995926c1d6b302d781deae2473cf8bb6438d0690643f2cb75293845.jpg",
+        "img_caption": [
+            "Fig.1Digital Elevation Model (DEM)of Sulaimaniyah Province (a) and locations of meteorological stations and geographical distribution of annual precipitation in Sulaimaniyah Province from 1998 to 2O17(b).District numbers:1,Sulaimaniyah;2,Qaradagh;3,Sharazure;4,Saidsadiq;5,Penjwin; 6,Halabja;7,Darbandikhan;8, Kalar; 9,Khanaqin;10,Kifri;11,Chamchamal;12,Dukan;13,Sharbazher(Mawat);14,Ranya;15,Pishdar.The abbreviations of the districts are the same in Figure 3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Forty images of Landsat 5 TM, Landsat ${ } ^ { 7 } \\mathrm { E T M + }$ ,and Landsat 8 OLI representing the data (168/35 and 168/36) for 20 years from 1998 through 2O17 (Table S1) were assembled and used.The study period from 1998 to 2017 was chosen because it contained recurrent drought episodes.A mosaic of two Landsat scenes was constructed for each of the 2O years. The time series imageries were downloaded from the United States Geological Survey (USGS; https://glovis.usgs.gov/). All Landsat images were acquired in April or May in each of the 2O years, during which most of the vegetative proliferation occurred. Landsat images have a spatial resolution of $3 0 \\mathrm { m }$ .The Advanced Spaceborne Thermal Emission and Reflection Radiometer-Global Digital Elevation Model (ASTER-GDEM) V2 dataset with a spatial resolution of $3 0 \\mathrm { ~ m ~ }$ ，available from the National Aeronautics and Space Administration (NASA; https://www.nasa.gov/), was utilized as the Digital Elevation Model (DEM) for this study (Fig. la)；the DEM was used to identify the relationships between vegetation percentage and altitude. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Daily and monthly precipitation datasets at the ten meteorological stations in Sulaimaniyah Province were obtained from the Meteorological Department of the Ministry of Agriculture and Water Resources, Kurdistan Region Government (KRG),Iraq, during the period from 1998 to 2017. The detailed information of precipitation at the ten meteorological stations during the period from ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1998 to 2017 is shown in Table S2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 RS data processing ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After May 2OO3,the scan line corrector (SLC) of the Landsat $^ { 7 } \\mathrm { E T M + }$ sensor failed, resulting in images with strip line gaps, called SLC-off data type images. Those images had strip line gaps on their sides, causing approximately $2 2 . 0 \\%$ data loss.To correct the SLC-off images and perform gap-filling，we employed the ENVI 5.3 (Harris Geospatial Solutions, Inc.， USA) and a gap-fill plugin; it should be noted that it is not available in the ENVI Code Library currently, but a copy can be found at htps://docs.google.com/file/d/0B3e_wo8OTO47b3c4ZHNyV0NmUkk/edit?pli $_ { = 1 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This add-on module of the ENVI software platform fills gaps in one scene with data from another Landsat scene. The downloaded Landsat images were corrected by calibrating the digital number into radiance values using the data in Landsat image metadata files.Then,the resultant images were converted into top of atmosphere reflectance values using ENVI 5.3. The images were then georeferenced to the Universal Transverse Mercator, Zone 38 North，with the World Geodetic System 84 datum. A mosaic of two Landsat satellite scenes covering the entire study area was conducted for each of the 2O years of the study period.The produced mosaic represents and includes the entire study area. The image-to-image registration was accomplished with a root mean square error (RMSE) of O.5 pixels. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Spectral drought indices ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 NDVI ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The NDVI is the most used index for vegetation monitoring. It accounts for all the green vegetation and is based on the combination of red band and near infra-red (NIR) band wavelengths and can be computed by the well-known formula (Eq. 1) of Rouse et al. (1974). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where NDVI is the Normalized Difference Vegetation Index;NIR is the near infra-red band （204号 $( 8 4 1 - 8 7 6 \\mathrm { n m } )$ ; and RED is the red band ( $( 6 2 0 - 6 7 0 \\mathrm { n m } )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Healthy vegetation has less reflection in the visible range of the electromagnetic spectrum (EMS) due to the absorption of chlorophyll and other pigments.However, it has a high reflectance in the NIR section of the EMS. The NDVI is a strong vegetation signal and is mostly utilized to diferentiate vegetative areas from non-vegetative areas (Huang et al.，2O14). Its digital number values range from $^ { - 1 }$ to 1. Specifically, values from $^ { - 1 }$ to O represent the non-vegetative features, such as bare surface,built-up area, and water bodies,while values from O to 1 represent vegetative cover features. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 NDWI ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The NDWI is a parameter used for monitoring water body changes based on green band and NIR band wavelengths. It can be computed by the formula (Eq. 2) of McFeeters (1996): ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where NDWI is the Normalized Difference Water Index; and GREEN is the green band (525-600 nm). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A water body has strong absorbability and low radiation from the visible spectrum to the infra-red range. According to McFeeters (1996),the water body can be mapped using a threshold value to better distinguish surfaces without detectable water (NDWI values less than O.3） from those with detectable water (NDWI values higher than or equal to O.3). In the current study, the NDWI was used to determine the size of water body, such as the LDK,and the NDWI fraction images were classified using the ArcGIS package. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5Meteorological drought index ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The SPI was proposed by McKee et al. (1993) and has been increasingly used during the last two decades because of its substantial theoretical development and robustness and versatility in drought analyses (Tsakiris et al., 2OO7; Nalbantis and Tsakiris, 2Oo9). It can be calculated using ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "the following formula: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S P I } { = } ( X _ { i j } { - } X _ { i } ) / \\sigma _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where SPI is the Standardized Precipitation Index; $X _ { i j }$ is the seasonal precipitation for the $i ^ { \\mathrm { t h } }$ station and $j ^ { \\mathrm { t h } }$ observation (mm); $X _ { i }$ is the long-term mean precipitation for the $i ^ { \\mathrm { t h } }$ station (mm); and $\\sigma _ { i }$ is the standard deviation for the $i ^ { \\mathrm { t h } }$ station $\\left( \\mathrm { m m } \\right)$ . The SPI calculation for any location is based on the long-term precipitation record for the desired period. This long-term record is fitted to a probability distribution,which is then transformed into a normal distribution so that the mean SPI for the location and desired period is zero.The equation is widely used for monitoring meteorological drought and investigating and assessing its severity. It is also utilized to test the relationship of SPI with precipitation and crop production. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One of the main advantages of SPI is that it only requires precipitation data for calculation. This simplicity makes it suitable in areas that lack diverse data,and renders it a popular tool. The SPI guarantees independence from a geographic location,and it can be calculated using the precipitation averages in the same location (Rossi et al., 2Oo7). It was developed to measure the amount of precipitation decline for different time scales,reflect the reduced precipitation on water resource availability. Typically, calculating SPI requires precipitation data over a long period (at least 2O years). The precipitation time series dataset is fitted to a gamma distribution, and then it is transformed into a normal distribution with the aid of an equal probability transformation (Guttman，1999). The function of probability density defines the gamma distribution: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng ( x , \\alpha , \\beta ) { = } \\frac { 1 } { \\beta ^ { a } \\Gamma ( \\alpha ) } x ^ { \\alpha - 1 } \\mathrm { e } ^ { - x / \\beta } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $ { \\alpha }$ and $\\beta$ are the shape and scale parameters,respectively; $x$ is the amount of precipitation at a meteorological station $\\left( \\mathrm { m m } \\right)$ ; and $\\Gamma ( \\boldsymbol { a } )$ is the gamma function. The SPI calculation includes a gamma probability distribution fited to a given frequency distribution for a meteorological station.For each meteorological station， the $ { \\alpha }$ and $\\beta$ parameters of the gamma probability density function were estimated for 12 months per year and for each year of the 2O-year period. The maximum likelihood solutions were used to optimally estimate the $a$ and $\\beta$ parameters: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle \\alpha { = } \\frac { 1 } { 4 A } ( 1 { + } \\sqrt { 1 { + } \\frac { 4 A } { 3 } } ) , } } \\\\ { { \\beta { = } \\bar { X } / \\alpha , } } \\\\ { { A { = } l n ( \\bar { X } ) { - } \\displaystyle \\frac { { \\sum } l n ( x ) } { n } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $n$ is the number of observations; $\\bar { X }$ is the mean precipitation $\\left( \\mathrm { m m } \\right)$ ; and $A$ is the sample arithmetic and geometric means given by under some conditions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The results from Equation 8 were used to calculate the cumulative probability of an observed precipitation event. Since the gamma function is undefined for $\\scriptstyle x = 0$ and a precipitation distribution may contain zero, the cumulative probability $( H ( x ) )$ is the extended gamma: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( x ) { = } q { + } ( 1 { - } q ) { \\times } G ( x ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $H ( x )$ is the cumulative probability; $q$ is the probability of zero; and $G ( x )$ is the cumulative probability of the incomplete gamma function. If $m$ is the number of zero in a precipitation time series, $q$ can be estimated by $m / n$ . The cumulative probability was then transformed to the standard normal random variable (Guttman, 1999). The Drought Indices Calculator (DrinC) software used for calculating the SPI was designed by Tigkas et al. (2O13).Positive SPI values indicate the availability of wet conditions,and the precipitation average is higher than the general precipitation average. In contrast, negative SPI values indicate the prevalence of dry conditions,and the precipitation average is lower than the general precipitation average in the region (Kamali et al., 2Ol7). The anomaly strength was classified after the standardization of ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SPI values,as shown in Table 1. Further, Figure 2 represents the general methodology flowchart adopted in this study, demonstrating the fundamental process of drought trend analysis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2548a2464f802412f10f635574ce7ea8857b859f80090fcc6aa176c3270ed3f9.jpg",
+        "table_caption": [
+            "Table1SPI-based drought severity classes (McKee et al.,1993) "
+        ],
+        "table_footnote": [
+            "Note: SPI, Standardized Precipitation Index. "
+        ],
+        "table_body": "<html><body><table><tr><td>SPI</td><td>Classification</td></tr><tr><td>≥2.00</td><td>Extremely wet</td></tr><tr><td>1.50-1.99</td><td>Severe wet</td></tr><tr><td>1.00-1.49</td><td>Moderatelywet</td></tr><tr><td>-0.99-0.99</td><td>Near normal</td></tr><tr><td>-1.49- -1.00</td><td>Moderate drought</td></tr><tr><td>-1.99- -1.50</td><td>Severe drought</td></tr><tr><td>≤-2.00</td><td>Extreme drought</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5da42c435f4c8393a97a368427cea0c7abf92eda83786ea03398fe04f32e9de.jpg",
+        "img_caption": [
+            "Fig.2Flowchart of the methodologyadopted in this study.NDVI, Normalized Difference Vegetation Index; NDWI,Normalized Difference Water Index; SPI, Standardized Precipitation Index;DN,digital number;RED,red band; GREEN,green band; NIR, near infra-red band; USGS, United States Geological Survey. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "All the indices (NDVI, NDWI, and SPI) and the surface area of the LDK were computed on a one-year basis due to limited imagery availability for the study area. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 NDVI variation ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results shown in Table 2 and Figure 3 indicated that the most critical years for drought as detected from vegetation growth were 2000，2008，2009，and 2013.During these years，the vegetation cover was remarkably reduced compared with that in other years. Drought was most severe in 2Ooo, and the vegetative cover area reduced to $3 . 3 1 \\times 1 0 ^ { 3 } \\mathrm { k m } ^ { 2 }$ (occupying $1 3 . 6 \\%$ of the total study area). The average of the vegetation coverage is $4 9 . 6 \\%$ during 1998-2017,and the vegetation coverage in 200o fluctuated $3 3 . 3 \\%$ from the average. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the spatiotemporal distribution of NDVI in Sulaimaniyah Province from 1998 to 2017.The vegetation cover had a considerable spatial variability at the spatial scale,mainly in the center of Sulaimaniyah Province,whereas the northeastern and southern parts constantly remained the most and least vegetative areas,respectively.For the study period from 1998 to 2O17, there was a strong relationship between NDVI and precipitation averages across most parts of Sulaimaniyah Province. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/692fc84dbd2134019f8c55f103db5564a69075a5870013a7719ff1795203ed82.jpg",
+        "table_caption": [
+            "Table 2Characteristics of NDVI and vegetative cover in the study area from 1998 to 2017 "
+        ],
+        "table_footnote": [
+            "Note:NDVI,NormalediferenceVegetationIdex;Max.,aimum;Min,nimum;SD,tadarddeviatio.Fucuationitelast column indicates fluctuation around the mean vegetation coverage. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Year</td><td colspan=\"4\">NDVI</td><td colspan=\"3\">Vegetative cover</td></tr><tr><td>Max.</td><td>Min.</td><td>Mean</td><td>SD</td><td>Area (×10 km²)</td><td>Coverage (%)</td><td>Fluctuation (%)</td></tr><tr><td>1998</td><td>0.992</td><td>0.098</td><td>0.242</td><td>0.120</td><td>10.09</td><td>41.5</td><td>-5.4</td></tr><tr><td>1999</td><td>0.983</td><td>0.098</td><td>0.230</td><td>0.101</td><td>12.17</td><td>50.1</td><td>3.1</td></tr><tr><td>2000</td><td>0.553</td><td>0.016</td><td>0.097</td><td>0.098</td><td>3.31</td><td>13.6</td><td>-33.3</td></tr><tr><td>2001</td><td>0.724</td><td>0.029</td><td>0.201</td><td>0.126</td><td>14.78</td><td>60.5</td><td>13.6</td></tr><tr><td>2002</td><td>0.726</td><td>0.064</td><td>0.233</td><td>0.118</td><td>13.58</td><td>55.9</td><td>9.0</td></tr><tr><td>2003</td><td>0.722</td><td>0.051</td><td>0.245</td><td>0.128</td><td>11.95</td><td>49.2</td><td>2.3</td></tr><tr><td>2004</td><td>0.674</td><td>0.039</td><td>0.204</td><td>0.112</td><td>12.23</td><td>50.3</td><td>3.4</td></tr><tr><td>2005</td><td>0.668</td><td>0.057</td><td>0.167</td><td>0.101</td><td>10.84</td><td>44.6</td><td>-2.3</td></tr><tr><td>2006</td><td>0.782</td><td>0.018</td><td>0.214</td><td>0.143</td><td>14.99</td><td>61.7</td><td>14.8</td></tr><tr><td>2007</td><td>0.730</td><td>0.108</td><td>0.318</td><td>0.127</td><td>12.93</td><td>53.2</td><td>6.3</td></tr><tr><td>2008</td><td>0.611</td><td>0.019</td><td>0.116</td><td>0.081</td><td>8.88</td><td>36.5</td><td>-10.4</td></tr><tr><td>2009</td><td>0.696</td><td>0.084</td><td>0.234</td><td>0.110</td><td>8.84</td><td>36.4</td><td>-10.5</td></tr><tr><td>2010</td><td>0.655</td><td>0.127</td><td>0.258</td><td>0.097</td><td>10.71</td><td>44.1</td><td>-2.8</td></tr><tr><td>2011</td><td>0.598</td><td>0.061</td><td>0.150</td><td>0.068</td><td>11.09</td><td>45.6</td><td>-1.3</td></tr><tr><td>2012</td><td>0.691</td><td>0.013</td><td>0.211</td><td>0.129</td><td>11.85</td><td>48.8</td><td>1.8</td></tr><tr><td>2013</td><td>0.628</td><td>0.163</td><td>0.267</td><td>0.079</td><td>9.37</td><td>38.6</td><td>-8.4</td></tr><tr><td>2014</td><td>0.862</td><td>0.288</td><td>0.484</td><td>0.125</td><td>13.47</td><td>55.4</td><td>8.5</td></tr><tr><td>2015</td><td>0.642</td><td>0.182</td><td>0.320</td><td>0.085</td><td>13.43</td><td>55.3</td><td>8.3</td></tr><tr><td>2016</td><td>0.646</td><td>0.175</td><td>0.289</td><td>0.078</td><td>12.87</td><td>53.0</td><td>6.1</td></tr><tr><td>2017</td><td>0.640</td><td>0.178</td><td>0.278</td><td>0.070</td><td>10.75</td><td>44.2</td><td>-2.7</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 SPIvariation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table S3 and Figure 4 show the calculated SPI values for Sulaimaniyah Province from 1998 to 2017.The results showed an irregular cyclical pattern of dry/wet periods during the study period. Droughts were observed in hydrological years of 1998-1999，1999-2000，2007-2008, 2008-2009,and 2011-2012, with some differences across the meteorological stations.Generally, droughts commonly occurred at the beginning of the rainy season,reflecting either a delay in rainfall or a decrease in rainfall. However, the highest level of drought was observed during 1998-1999in Sulaimaniyah，Bazian，Halabja，Penjwen， Saidsadiq，and Darbandikhan meteorological stations,with average SPI values around $- 2 . 2 2$ ，-1.90,-1.94,-2.08,-1.48,and -1.72, respectively (Table S3; Fig. 4).Moreover, Bazian,Halabja, Darbandikhan, Chamchamal, Kalar,and Pebaz meteorological stations also experienced moderate to severe droughts during 2007-2008, with average SPI values of -2.38,-1.92,-1.92,-2.17, -2.56, and $- 2 . 0 8$ ,respectively (Table S3; Fig. 4). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, the highest degree of drought severity occurred in Kalar, where the average SPI value was $- 2 . 5 6$ during 2O07-2008 (Table S3; Fig. 4). Figure 5 shows that SPI fluctuated in Darbandikhan meteorological station in Sulaimaniyah Province from 1998 to 2O17.The first SPI value decline began in 1999 and continued until 2OO1. This reduction $( - 1 . 7 2 )$ is consistent with the decrease in precipitation observed in Sulaimaniyah Province throughout 1998-1999,as it was a dry year (Table S3; Fig.4). The second SPI value decline began in 2OO7 with the decrease in precipitation in Sulaimaniyah Province throughout 2O07-2Oo8 (Table S3; Fig. 4). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0aebd643572ddef0177e5f855b2d80cb7fc95f73373e4363cb1584d7c0ae6c53.jpg",
+        "img_caption": [
+            "Fig.3Spatiotemporal variations of NDVI-based vegetation cover in the study area from 1998 to 2007 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b02d8febe9bbf68cc4e9f7c76c18f6f1e53d27462a96cb58056000283ac822a.jpg",
+        "img_caption": [
+            "Fig.4SPI values of the Sulaimaniyah,Bazian,Halabja,Penjwen,and Saidsadiq meteorological stations (a),and Darbandikhan, Chamchamal, Kalar,Pebaz,and Kifri meteorological stations (b)in Sulaimaniyah Province from 1998 to 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f63cdb16beffec08fa80e0ade5e7e9000ae97f0bddcbcfebdc4f5ad9627e89c5.jpg",
+        "img_caption": [
+            "Fig.5Annual precipitation,SPI,and the surface area of the LDK (Lake Darbandikhan）at Darbandikhan meteorological station from 1998 to 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3LDK area and NDWI variation ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The combination of NDWI and SPI is a very effective method for investigating drought pattrns to monitor the surface area of the LDK and the river water levels.We found that the effect of drought on the surface area of the LDK was severely pronounced in 1999,2000, 2001, 2008,and 2009, based on NDWI values (Table 3; Fig. 6). The mentioned years had lower SPI values,less surface area of the LDK,and lower precipitation averages. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The surface area of the LDK changed throughout the studied 2O years (Table 3； Fig.6). Specifically,the largest surface area was observed in 2O03,20o5,and 20l6,with the values of 113.70, 113.50, and $1 1 4 . 4 0 \\mathrm { k m } ^ { 2 }$ ,respectively; the lowest surface area was found in 1999 and 2009, with the values of 37.50 and $3 9 . 0 0 \\mathrm { k m } ^ { 2 }$ ,respectively. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b238083af9a63d126388faa0305270b709776a24fd236860068fb5cc8f3c6c74.jpg",
+        "table_caption": [
+            "Table 3Surface area of the LDK and its percentage change from 1998 to 2017 "
+        ],
+        "table_footnote": [
+            "Note:LDK,LakeDarbandikhan.FluctuatioindicatesthefluctuationaroundtheaveragepercentageofthesurfaceareaoftheLDK. "
+        ],
+        "table_body": "<html><body><table><tr><td>Year</td><td>Surface area (km2)</td><td>Fluctuation (%)</td></tr><tr><td>1998</td><td>103.60</td><td>25.6</td></tr><tr><td>1999</td><td>37.50</td><td>-40.5</td></tr><tr><td>2000</td><td>49.50</td><td>-28.5</td></tr><tr><td>2001</td><td>48.60</td><td>-29.4</td></tr><tr><td>2002</td><td>93.80</td><td>15.8</td></tr><tr><td>2003</td><td>113.70</td><td>35.7</td></tr><tr><td>2004</td><td>94.50</td><td>16.5</td></tr><tr><td>2005</td><td>113.50</td><td>35.5</td></tr><tr><td>2006</td><td>93.10</td><td>15.1</td></tr><tr><td>2007</td><td>89.00</td><td>11.0</td></tr><tr><td>2008</td><td>49.72</td><td>-28.3</td></tr><tr><td>2009</td><td>39.00</td><td>-39.0</td></tr><tr><td>2010</td><td>66.40</td><td>-11.6</td></tr><tr><td>2011</td><td>53.40</td><td>-24.6</td></tr><tr><td>2012</td><td>92.30</td><td>14.3</td></tr><tr><td>2013</td><td>81.40</td><td>3.4</td></tr><tr><td>2014</td><td>60.10</td><td>-17.9</td></tr><tr><td>2015</td><td>59.00</td><td>-19.0</td></tr><tr><td>2016</td><td>114.40</td><td>36.4</td></tr><tr><td>2017</td><td>106.90</td><td>28.9</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Although the IKR has abundant water resources, these resources are generally considered to be limited and to change with time and place. Based on data from the Ministry of Agriculture and Water Resources in Iraq, we found that about $4 0 . 0 \\%$ of the region's spring water dried up during previous drought events (UNESCO, 2014). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4 Pearson correlation analysis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The Pearson correlation analysis between NDVI and SPI showed that NDVI had a low and insignificant correlation coefficient with SPI (Table 4)，which indicated that vegetation cover extension in a specific year (assessed from April to May) was not dependent on the rainfall (or SPI) measured in the same year. Further, there was a significant positive relationship $( P { < } 0 . 0 1 )$ of SPI with precipitation $_ { ( r = 0 . 9 2 ) }$ and surface area of the LDK $( r { = } 0 . 7 3 )$ . These results are consistent with those of Gaznayee and Al-Quraishi (2020). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The lowest NDVI values were found in the southern and western regions of the study area; the northeastern region constantly had more developed vegetation and higher NDVI values (Fig. 3). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "There was a significant decline in the annual precipitation averages in some districts in Sulaimaniyah Province in 200o, 2O08,and 2009 (Table S2). The vegetation coverage percentage of the NDVI-based vegetative areas shown in Table 2 was due to the fluctuation in the precipitation averages shown in Table S2. Furthermore,low precipitation and high temperature played significant roles in decreasing NDVI values and vegetative areas in the southwestern parts of Sulaimaniyah Province during the growing seasons,which are depicted in the correlation coeffcient statistics.The consecutive spatiotemporal variations of NDVI can reveal the onset and extent of drought over the studied 2O years.Based on the results of NDVI variation shown in Table 2 and Figure 3,we conclude that Sulaimaniyah Province experienced drought episodes mainly in 2000,2008,and 2009.The results mentioned above are consistent with Almamalachy (2020),who found that the year 2OOO was characterized by the most severe drought compared to other years during 1998-2017. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f0fe10058dbeec7a4b68418075a7f42fbc77e2ca7b294efcb4e646eb99e0983.jpg",
+        "img_caption": [
+            "Fig.6Spatial distribution changes of the LDK surface area from 1998 to 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/f293ffd1a9019bcb3e9160b0dfd06d0204da0a4ea8758b82bfb309f4495e6a4e.jpg",
+        "table_caption": [
+            "Table 4Pearson correlation coeficients among the NDVI, precipitation, SPI,and the surface area of the LDK "
+        ],
+        "table_footnote": [
+            "Note:\\*\\* indicates that correlation is significant at $P { < } 0 . 0 1$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>NDVI</td><td>Precipitation</td><td>SPI</td><td>Surface area of the LDK</td></tr><tr><td>NDVI</td><td>1.00</td><td>0.20</td><td>0.24</td><td>0.13</td></tr><tr><td>Precipitation</td><td>0.20</td><td>1.00</td><td>0.92**</td><td>0.72**</td></tr><tr><td>SPI</td><td>0.24</td><td>0.92**</td><td>1.00</td><td>0.73**</td></tr><tr><td>Surface area of the LDK</td><td>0.13</td><td>0.72**</td><td>0.73**</td><td>1.00</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Results of SPI variation indicated that the severity of drought was profound during 1998-1999 and 1999-2000; in 2007-2008,and the southeastern region was the most affected area.The western and southern parts of Sulaimaniyah Province were influenced by moderate and severe drought in 2012 (Table 1 and S3).The hydrological years of 2001-2002,2009-2010, and 2015-2O16 were wet compared with other hydrological years (Figs. 4-5). According to the study of McKee et al. (1993),drought occurs when the SPI is negative, while there is no drought occurring when the SPI is positive. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The SPI values did not have a noticeable trend over the study period (Table S3). However, there were two periods when the drought was severe: period from 1998-1999 to 1999-2000 and period from 2007-2008 to 2008-2009 (Figs. 4-5). The precipitation deficits lasted for at least three years; hence, the drought that occurred during these two periods can be considered long-term drought. The SPI results indicated that low precipitation does not always correspond to vegetative drought (Figs. 3-4). A positive relationship existed between SPI and NDVI, especially in drought years of 2Ooo, 2008,and 2013. However, vegetation cover extension in a specific year (assessed from April to May） was not dependent on the precipitation measured in the same year. This is likely due to the delayed efect of precipitation on vegetation vitality. Ji and Peters (2003) reported that the effect of rainfall on vegetation became detectable more than one month later. A similar study was done by Wang et al. (2OO3), who found that the delay of the response of NDVI to precipitation was 4-8 weeks. In this study, the delay of the effect of precipitation on NDVI was one year. A low SPI in 1998-1999 caused a low NDVI in 2000,a low SPI in 2007-2008 caused a low NDVI in 2009,and a low SPI in 2011-2012 caused a low NDVI in 2013 (only in the western and southern parts of the study area).The lack of coordination between SPI and hydrological and agricultural drought is more prominent during the growing seasons (Bhuiyan et al., 2006). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The decrease in the surface area of the LDK is consistent with the shrinkage in the lake surface area reported by UNESCO (2O14). Fadhil (2011) investigated the impacts of drought on the LDK in terms of climate change,and found that the LDK experienced the most significant drought events in 2OO8 and 2OO9.The decline in surface area of the LDK could be attributed to the reduction in the amount of water flowed into Iraq from neighboring countries， since approximately $7 0 . 0 \\%$ of the water in the LDK originates from Iran. Furthermore, fluctuation in the amount of water from rivers of neighboring countries such as Turkey and Iran also caused increasing and frequent droughts in the IKR.In this study, based on the NDWI values, we found that the effects of severe droughts on the surface area of the LDK were pronounced in 1999 and 2009,the years characterized by low precipitation and SPI values. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The present study investigated the occurrence and effects of drought in Sulaimaniyah Province in the IKR,over a period of 20 years (1998-2017). Landsat optical remote sensing images were collected in the same season (April-May) during each year,and meteorological data were also used.Three standard spectral indices, i.e., SPI, NDVI, and NDWI, were evaluated on a one-year basis to assess the drought and its effect on vegetation cover and water resources with respect to the surface area of the LDK.Drought was more severe in 1999-2000 and 2008-2009,the years that were characterized by low SPI values and low surface area of the LDK due to reduced precipitation. Considering the significant recurrence of drought, it is crucial to satisfy the water needs of the study area by using other available water resources， such as snowfall,and groundwater, to increase the amount of water flow into the LDK. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Statistical analyses highlighted that SPI is highly correlated with the surface area of the LDK. The correlation between SPI and NDVI in the same measured year was not significant, which was likely due to the delayed effect of scarce precipitation on vegetation. More detailed investigations are neded to understand the frequency of drought and its relationship to factors affecting itself. Additionally, eforts should be made to understand the effects of drought on crop production, forests,sustainability，water bodies,and socioeconomic resources.Due to the fact that only a one-year level analysis was conducted in this study, the jointly combined research of SPI and NDVI on a shorter-term basis (seasonal or even monthly level), in order to highlight the delay of the direct efect of drought on vegetation cover,and therefore on NDVI, is needed.We advise that Google Earth Engine may be a possible resource to develop such an analysis in the future. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The authors would like to thank the Colege of Agricultural Enginering Sciences,Salahaddin University,Erbil in Iraq,for its valuable support in this article.We are also grateful to the United States Geological Survey for gratuitously providing Landsat images. Special thanks are also to the anonymous reviewers,whose comments remarkably contributed to improve the paper. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Aadhar S,Mishra V.2Ol7.High-resolution nearreal-timedrought monitoring in South Asia.ScientificData,4:170145,doi: 10.1038/sdata.2017.145.   \nAcharyaT,RayAK.2Oo7.Image Processing: Principlesand Applications.Hoboken: John Wiley& Sons,Inc.,1-4.   \nAl-KananiY.2O16.Monitoringand calculating thesurfaceareaof lakesinnorthern Iraq using satelite images.Applied Research Journal, 2(2): 54-62.   \nAl-Quraishi AMFSadiq HA,MesinaJP.20l9.Characterizationandmodelingsurfacesoil physicochemicalpropertiesusing Landsat mages:Acase studyintheIraqi Kurdistanregion.In:Stila U,HoegnerL,XuY.Te InternationalArchivesof the Photogrammetry,Remote Sensingand Spatial Information Sciences.Munich:International Societyof Photogrammetryand Remote Sensing,21-28.   \nAl-Quraishi AMF,Negm AM.2O20.Environmental Remote Sensingand GIS inIraq.Heidelberg:Springer International Publishing,205-223.   \nAl-Quraishi AMF,Qader SH,Wu W.2O20.Drought monitoring using spectraland meteorological based indices combination: Acase study in Sulaimaniyah,Kurdistanregionof Iraq.In: Al-Quraishi AMF,Negm AM.EnvironmentalRemote Sensing and GIS in Iraq.Heidelberg: Springer International Publishing,377-393.   \nAlmamalachyY S,Al-Quraishi AMF,Moradkhani H.2O20.Agricultural drought monitoring over Iraq utilizing MODIS products.In:Al-QuraishiAMF,NegmAM.EnvironmentalRemote SensingandGISin Iraq.Heidelberg:Springer International Publishing,253-278.   \nAlobaidyAHMJ,AbidHS,MauloodBK.2010.Applicationof waterquality index for assessmentof DokanLakeecosystem, Kurdistan region,Iraq. Journal of Water Resource and Protection,2:792-798.   \nAwchiTA,JasimAI.2O17.Rainfalldataanalysisandstudyofmeteorological droughtinIraqfortheperiod197-2010.Tkrit Journal of Engineering Sciences,24(1):110-121.   \nBhuiyanC,SinghRP,KoganFN.2O06.Monitoringdroughtdynamics intheAravalliregion(India)usingdiferentindices basedongroundand remote sensingdata.International Journal of Applied Earth Observationand Geoinformation,8(4): 289-302.   \nCamastraF.2O7.Image Procesing:PrinciplesandApplications [book review].In:IEEE Transactionson NeuralNetworks,   \nEdoss DC,BabelMS,GuptaAD.2Ol0.Droughtanalysisin theAwashRiverBasin,Ethiopia.Water Resources Management, 24: 1441-1460.   \nFadhilAM.2O11.Drought mapingusing geoinformationtechnology forsomesites inthe Iraqi Kurdistanregion.Interational Journal of Digital Earth,4(3): 239-257.   \nFadhilAM.2O13.Sand dunes monitoringusing remote sensing and GIS techniques forsome sites in Iraq.In:Tan HH. Proceedings Volume8762PAGENG2013:Intelligent Information,Control,and Communication Technology forAgricultural Engineering.Sanya: The International Society for Optical Engineering,876206,doi: 10.1117/12.2019735.   \nGaznaye HAA,Al-Quraishi AMF.20l9a.Analysis ofagricultural drought'sseverityand impacts inErbil Province,theIraqi Kurdistan region basedon time series NDVIand TCIindices for 1998 through 2O17.Journal of Advanced Research in Dynamical and Control Systems,11(11): 287-297.   \nGaznayee HAA,Al-Quraishi AMF2Ol9b.Analysisof agriculturaldrought,rainfallandcropyieldrelationships inErbil Province,the Kurdistan region of Iraq based on Landsat time-series MSAVI2.Journal of Advanced Research in Dynamical and Control Systems,11(12): 536-545.   \nGaznaye HAA,Al-Quraishi AMF.2O20.Identifying drought status in Duhok Governorate(Iraqi Kurdistan region)from198 through 2012 using Landsat time series dataset.Journal of Applied Science and Technology Trends,1(1):17-23.   \nGhebrezgabherMG,Yang TB,YangXM,etal.2019.Assessmentofdesertification inEritrea:landdegradationbasedon Landsat images.Journal of Arid Land,11(3): 319-331.   \nGuttman NB.199.Accepting the standardized precipitation index:Acalculation algorithm.Journal of the American Water Resources Association, 35(2):311-322.   \nHazaymeh K,Hassan QK.2O17.Aremote sensing-basedagricultural drought indicatorand its implementationoverasemi-arid region, Jordan. Journal of Arid Land,9(3): 319-330.   \nHuang X,LuQ K,Zhang LP.2O14.A multi-index learningapproach for clasificationof high-resolution remotelysensed images over urban areas.ISPRS Journal of Photogrammetry and Remote Sensing,9O: 36-48.   \nJiL,PetersAJ.2O03.Asssing vegetationresponse todroughtinthe northern Great Plainsusingvegetationand drought indices. Remote Sensing of Environment, 87(1): 85-98.   \nKamali B,KouchiDH,Yang H,etal.2O17.Multileveldroughthazardasessmentunderclimatechangescenariosinsi-arid regions—Acase study of the Karkheh River Basin in Iran.Water,9(4): 241,doi: 10.3390/w9040241.   \nKartheD,Chalov S,KasimovN,etal.2O15.WaterandEnvironmentinthe Selenga-BaikalBasin:InternationalResearch Cooperation for an Ecoregion of Global Relevance. Stuttgart: Ibidem Press,19-22.   \nLiR,Tsunekawa A,Tsubo M.2O14.Index-based assessmentof agricultural drought in asemi-arid regionof Inner Mongolia, China. Journal of Arid Land, 6(1): 3-15.   \nLoucks DP,vanBeek E.2Ol7.WaterResource Systems Plannngand Management:AnIntroductionto Methods,Models,and Applications.Herdelberg: Springer International Publishing,77-89.   \nMcFeeters S K.1996.The useof the Normalized Difference Water Index (NDWI) in the delineation of open water features. International Journal of Remote Sensing,17(7): 1425-1432.   \nMcKee TB,DeskenNJ,KleistJ.1993.Therelationshipof drought frequencyanddurationtotime scales.In: Proceedingsof the ${ 8 } ^ { \\mathrm { { u } } }$ Conference on Applied Climatology. Anaheim, USA.   \nMustafaYT.2O2o.Spatiotemporal analysis of vegetation cover inKurdistanregion-Iraq using MODIS image data.Journalof Applied Science and Technology Trends,1(1):1-7.   \nNalbantis I,Tsakiris G2O09.Assessment of hydrologicaldroughtrevisited.Water Resources Management,23:81-897.   \nPerez GJ,Macapagal M,OlivaresR,etal.216.Forecastingand monitoringagricultural drought inthePhilippines.In: Halounova L,SafarV,RajuPLN,etal.International Archivesof thePhotogrammetry,RemoteSensingand Spatial Information Sciences.Prague: International Society for Photogrammetry and Remote Sensing,1263-1269.   \nRossiGVega T,Bonacorso B.2O07.Methodsand Tools forDroughtAnalysisand Management.Dordrecht:Springer International Publishing,46-48.   \nRouseJW,HaasRH,SchellJA,etal.1974.Monitoringvegetationsystems inthe GreatPlains with ERTS.In:FredenSC, Mercanti E P, Becker M A.The $3 ^ { \\mathrm { r d } }$ ERTS (Earth Resources Technology Statelite)-1 Symposium Volume I: Technical Presentations.NASA SP-351.Washington D.C.: National Aeronautics and Space Administration,309-317.   \nSharma A.2Oo6.Spatial data mining for drought monitoring: An approach using temporal NDVIandrainfallspatial data mining for drought monitoring:Anapproach using temporal NDVI and rainfall relationship.MSc Thesis.Enschede: Universityof Twente.   \nSheffeldJ,WoodEF.2O08.Globaltrendsandvariabilityinsoilmoistureanddroughtcharacteristics,195o-2000,from observation-driven simulations of the terrestrial hydrologic cycle.Journal of Climate,21: 432-458.   \nSmakhtin VU,Hughes DA.2O04.Review,automated estimationandanalysesofdrought indices in South Asia.WorkingPaper 83.Colombo: International Water Management Institute.   \nStreet MA.20l2.Capacity Assssmentfor Drought Risk Management in Iraq.InterdisciplinaryResearch Consultants.Amman, Jordan.   \nSun QQ,TanJJ,XuYH2010.AnERDAS image procesing method forretrievingLSTanddescribingurbanheatevolution: Acase study in the Pearl River Delta region in South China.Environmental Earth Sciences,59:1047-1055.   \nTigkasD,VangelisH,TsakirisG2Ol3.Thedroughtindicescalculator(DrinC).In:MaiaR,deBritoAGTeixeiraAS,etal. Proceedings of the $8 ^ { \\mathrm { { u } } }$ International Conference of EWRA \"Water Resources Management in an Interdisciplinary and Changing Context\".Porto: European Water Resources Association,1333-1342.   \nTsakirisG,LoukasA,PangalouD,etal.2Oo7.Droughtcharacterization[Part1.Componentsof droughtplanning.1.3. Methodologicalcomponent].I:IglesiasA,MoneoM,Lpez-Francos A.DroughtManagement Guidelines TchnicalAnex, Zaragoza: CIHEAM/EC MEDA Water, 85-102.   \nUNESCO(United NationsEducational,Scientificand CulturalOrganization).2O14.IntegrateddroughtriskmanagementDRM national framework for Iraq.[2020-01-12]. http://www.unesco.org/.   \nWang QWatanabe M,Hayashi S,et al.2003.Using NOAA AVHRR data to assssflood damage in China.Environmental Monitoring and Assessment, 82:119-148.   \nYangL,CaoYG,Zhu XH,etal.2O14.Landsurface temperature retrieval foraridregionsbasedonLandsat-8TIRSdata:acase study in Shihezi,Northwest China. Journal of Arid Land,6(6):7O4-716.   \nYaseenAK,Mahmood MI,Yaseen GK,etal.2O18.Area change monitoringof Dokan &Darbandikhan Iraqi lakes using satellite data. Sustainable Resources Management Journal, 3(2): 25-41.   \nYu W,LiY,CaoY,etal019.Droughtassssmentusing GRACEterrestrialwaterstoragedeficit inMongoliafro202 to 2017.Water,11(6):1301,doi:10.3390/w11061301.   \nZhangF,TiyipTDingJL,etal.2Ol3.Vegetation fractionalcoveragechangeinatypicaloasisregioninTarimRiver Watershed based on remote sensing. Journal of Arid Land,5(1): 89-101. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/235ad11b45569597d675fc5ddb15f25e117ee516015ebf8ee2b97f93fc3a92d6.jpg",
+        "table_caption": [
+            "Table S1Information ofLandsat 5 TM,Landsat $^ { 7 } \\mathrm { E T M + }$ ，and Landsat 8 OLI images in the study area from 1998 to 2017 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Year</td><td>Sensor</td><td>Path/Row</td><td>Acquisition date (dd/mm)</td><td>Resolution (m)</td></tr><tr><td>1998</td><td>Landsat5 TM</td><td>168/35,168/36</td><td>30/05,30/05</td><td>30</td></tr><tr><td>1999</td><td>Landsat5 TM</td><td>168/35,168/36</td><td>01/05,01/05</td><td>30</td></tr><tr><td>2000</td><td>Landsat7ETM+</td><td>168/35,168/36</td><td>25/04,25/04</td><td>30</td></tr><tr><td>2001</td><td>Landsat7ETM+</td><td>168/35,168/36</td><td>28/04,28/04</td><td>30</td></tr><tr><td>2002</td><td>Landsat7ETM+</td><td>168/35,168/36</td><td>01/05,01/05</td><td>30</td></tr><tr><td>2003</td><td>Landsat7ETM+</td><td>168/35,168/36</td><td>20/05,20/05</td><td>30</td></tr><tr><td>2004</td><td>Landsat 7ETM+</td><td>168/35,168/36</td><td>06/05,06/05</td><td>30</td></tr><tr><td>2005</td><td>Landsat7ETM+</td><td>168/35,168/36</td><td>23/04,23/04</td><td>30</td></tr><tr><td>2006</td><td>Landsat7ETM+</td><td>168/35,168/36</td><td>12/05,28/05</td><td>30</td></tr><tr><td>2007</td><td>Landsat7ETM+</td><td>168/35,168/36</td><td>07/05,07/05</td><td>30</td></tr><tr><td>2008</td><td>Landsat 7 ETM+</td><td>168/35,168/36</td><td>15/04,15/04</td><td>30</td></tr><tr><td>2009</td><td>Landsat7ETM+</td><td>168/35,168/36</td><td>20/05,20/05</td><td>30</td></tr><tr><td>2010</td><td>Landsat 7 ETM+</td><td>168/35,168/36</td><td>05/04,19/04</td><td>30</td></tr><tr><td>2011</td><td>Landsat5 TM</td><td>168/35,168/36</td><td>16/04,15/04</td><td>30</td></tr><tr><td>2012</td><td>Landsat7ETM+</td><td>168/35,168/36</td><td>26/04,26/04</td><td>30</td></tr><tr><td>2013</td><td>Landsat 8 OLI</td><td>168/35,168/36</td><td>23/05,23/05</td><td>30</td></tr><tr><td>2014</td><td>Landsat 8 OLI</td><td>168/35,168/36</td><td>24/04,24/04</td><td>30</td></tr><tr><td>2015</td><td>Landsat 8 OLI</td><td>168/35,168/36</td><td>27/04,27/04</td><td>30</td></tr><tr><td>2016</td><td>Landsat 8 OLI</td><td>168/35,168/36</td><td>15/05,15/05</td><td>30</td></tr><tr><td>2017</td><td>Landsat 8 OLI</td><td>168/35,168/36</td><td>18/05,18/05</td><td>30</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/582f7c9e3d20fb1fd59612d854ca282a588fcccf5e43abec556f49e5dfffb64e.jpg",
+        "table_caption": [
+            "elnrlresgerrreeaetieenersrlirleerrnrneniresge 7 aqee ",
+            "aiior\"irtr :apnerrr :giate "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Station</td><td colspan=\"2\">Coordinate</td><td colspan=\"10\">Annual precipitation</td></tr><tr><td>Lat. (oN)</td><td>Long. (E)</td><td>1998</td><td>1999</td><td>2000</td><td>2001</td><td>2002</td><td>2003</td><td>2004</td><td>2005</td><td>2006</td><td>2007</td></tr><tr><td>Sulaimaniyah</td><td>35.56</td><td>45.44</td><td>978.3</td><td>230.2</td><td>388.4</td><td>524.3</td><td>782.7</td><td>880.8</td><td>852.5</td><td>654.5</td><td>747.5</td><td>607.2</td></tr><tr><td>Bazian</td><td>35.59</td><td>45.14</td><td>858.6</td><td>255.4</td><td>396.9</td><td>603.7</td><td>732.8</td><td>851.6</td><td>775.4</td><td>713.0</td><td>736.5</td><td>646.3</td></tr><tr><td>Halabja</td><td>35.19</td><td>45.97</td><td>984.6</td><td>295.4</td><td>393.9</td><td>448.3</td><td>851.9</td><td>779.5</td><td>943.5</td><td>823.8</td><td>873.4</td><td>684.3</td></tr><tr><td>Penjwen</td><td>35.62</td><td>45.94</td><td>887.3</td><td>398.4</td><td>384.0</td><td>693.2</td><td>1281.9</td><td>1441.1</td><td>1240.3</td><td>1074.6</td><td>1261.6</td><td>1126.1</td></tr><tr><td>Saidsadiq</td><td>35.34</td><td>45.85</td><td>977.4</td><td>295.4</td><td>294.0</td><td>366.4</td><td>738.9</td><td>647.3</td><td>648.9</td><td>516.1</td><td>737.6</td><td>560.6</td></tr><tr><td>Darbandikhan</td><td>36.21</td><td>44.79</td><td>713.1</td><td>242.3</td><td>289.6</td><td>315.9</td><td>886.1</td><td>783.5</td><td>705.0</td><td>693.7</td><td>651.7</td><td>486.1</td></tr><tr><td>Chamchamal</td><td>35.12</td><td>45.69</td><td>471.5</td><td>254.1</td><td>214.5</td><td>416.3</td><td>543.2</td><td>591.9</td><td>607.0</td><td>560.3</td><td>407.4</td><td>305.4</td></tr><tr><td>Kalar</td><td>35.53</td><td>44.83</td><td>404.4</td><td>289.2</td><td>308.8</td><td>317.0</td><td>432.2</td><td>277.5</td><td>275.3</td><td>322.7</td><td>293.2</td><td>234.7</td></tr><tr><td>Pebaz</td><td>34.82</td><td>45.51</td><td>476.6</td><td>277.0</td><td>268.4</td><td>416.0</td><td>485.8</td><td>390.5</td><td>346.3</td><td>387.3</td><td>250.4</td><td>273.2</td></tr><tr><td>Kifri</td><td>34.68</td><td>44.97</td><td>410.8</td><td>179.7</td><td>192.9</td><td>285.2</td><td>287.4</td><td>173.1</td><td>134.3</td><td>214.0</td><td>250.1</td><td>234.5</td></tr><tr><td rowspan=\"3\">Station</td><td colspan=\"3\">Coordinate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lat. (°N)</td><td>Long. (°E)</td><td>2008</td><td>2009</td><td>2010</td><td>2011</td><td>2012</td><td>Annual precipitation 2013</td><td></td><td>2015</td><td></td><td></td></tr><tr><td>35.56</td><td>45.44</td><td>370.4</td><td>423.8</td><td>799.8</td><td></td><td></td><td></td><td>2014</td><td></td><td>2016</td><td>2017</td></tr><tr><td>Sulaimaniyah Bazian</td><td>35.59</td><td>45.14</td><td>201.6</td><td>332.2</td><td>805.8</td><td>568.9 486.8</td><td>548.6 436.0</td><td>431.4 513.1</td><td>439.6 568.0</td><td>353.9</td><td>765.1</td><td>552.8</td></tr><tr><td>Halabja</td><td>35.19</td><td>45.97</td><td>297.5</td><td>486.5</td><td>880.6</td><td>627.7</td><td>592.6</td><td></td><td></td><td>612.2</td><td>854.3</td><td>541.0</td></tr><tr><td>Penjwen</td><td>35.62</td><td>45.94</td><td>522.4</td><td>655.7</td><td></td><td>928.8</td><td>1016.2</td><td>672.0</td><td>485.0</td><td>553.8</td><td>795.9</td><td>506.5</td></tr><tr><td>Saidsadiq</td><td>35.34</td><td>45.85</td><td>265.0</td><td>322.7</td><td>1241.0</td><td>525.2</td><td></td><td>1055.5</td><td>911.2</td><td>910.1</td><td>1443.4</td><td>901.5</td></tr><tr><td>Darbandikhan</td><td>36.21</td><td>44.79</td><td>218.1</td><td>357.9</td><td>707.4 790.4</td><td></td><td>435.5 409.0</td><td>549.9 630.4</td><td>480.3</td><td>523.6</td><td>885.2</td><td>526.7</td></tr><tr><td>Chamchamal</td><td>35.12</td><td>45.69</td><td>148.9</td><td>249.5</td><td>533.4</td><td>618.4 361.9</td><td>204.4</td><td>549.7</td><td>480.4 499.2</td><td>497.9</td><td>916.2</td><td>472.6</td></tr><tr><td>Kalar</td><td>35.53</td><td>44.83</td><td>106.3</td><td>214.5</td><td>386.3</td><td>246.4</td><td>149.6</td><td>380.6</td><td>340.8</td><td>481.0 283.6</td><td>709.6 558.9</td><td>430.3 271.4</td></tr><tr><td>Pebaz</td><td>34.82</td><td>45.51</td><td>370.4</td><td>423.8</td><td>799.8</td><td>568.9</td><td>548.6</td><td>431.4</td><td>439.6</td><td>353.9</td><td>765.1</td><td>552.8</td></tr><tr><td>Kifri</td><td>34.68</td><td>44.97</td><td>201.6</td><td>332.2</td><td>805.8</td><td>486.8</td><td>436.0</td><td>513.1</td><td>568.0</td><td>612.2</td><td>854.3</td><td>541.0</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/05f1f1c7a669e2997252a474632ec094403819777be0046443d2e6b52c91126f.jpg",
+        "table_caption": [
+            "Trrernesgeerrereeelerigen grnirrrrerr irt rerrnrnentrilierleerrereert s e "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Station</td><td>Lat. (°N)</td><td>Long. (°E)</td><td>1998</td><td>1999</td><td>2000</td><td>2001</td><td>2002</td><td>2003</td><td>2004</td><td>2005</td><td>2006</td><td>2007</td></tr><tr><td>Sulaimaniyah</td><td>35.56</td><td>45.44</td><td>1.66</td><td>-2.22</td><td>-1.02</td><td>-0.24</td><td>0.94</td><td>1.31</td><td>1.21</td><td>0.39</td><td>0.79</td><td>0.17</td></tr><tr><td>Bazian</td><td>35.59</td><td>45.14</td><td>1.18</td><td>-1.90</td><td>-0.91</td><td>0.16</td><td>0.70</td><td>1.16</td><td>0.87</td><td>0.62</td><td>0.72</td><td>0.35</td></tr><tr><td>Halabja</td><td>35.19</td><td>45.97</td><td>1.44</td><td>-1.94</td><td>-1.25</td><td>-0.91</td><td>0.95</td><td>0.67</td><td>1.29</td><td>0.85</td><td>1.04</td><td>0.27</td></tr><tr><td>Penjwen</td><td>35.62</td><td>45.94</td><td>-0.13</td><td>-2.08</td><td>-2.16</td><td>-0.78</td><td>0.95</td><td>1.32</td><td>0.85</td><td>0.42</td><td>0.90</td><td>0.56</td></tr><tr><td>Saidsadiq</td><td>35.34</td><td>45.85</td><td>1.92</td><td>-1.48</td><td>-1.49</td><td>-0.96</td><td>1.00</td><td>0.59</td><td>0.60</td><td>-0.06</td><td>0.99</td><td>0.17</td></tr><tr><td>Darbandikhan</td><td>36.21</td><td>44.79</td><td>0.78</td><td>-1.72</td><td>-1.36</td><td>-1.18</td><td>1.40</td><td>1.04</td><td>0.75</td><td>0.70</td><td>0.53</td><td>-0.21</td></tr><tr><td>Chamchamal</td><td>35.12</td><td>45.69</td><td>0.39</td><td>-1.09</td><td>-1.45</td><td>0.07</td><td>0.77</td><td>1.01</td><td>1.09</td><td>0.86</td><td>0.01</td><td>-0.68</td></tr><tr><td>Kalar</td><td>35.53</td><td>44.83</td><td>1.00</td><td>-0.04</td><td>0.15</td><td>0.23</td><td>1.22</td><td>-0.16</td><td>-0.19</td><td>0.28</td><td>0.00</td><td>-0.63</td></tr><tr><td>Pebaz</td><td>34.82</td><td>45.51</td><td>0.87</td><td>-0.57</td><td>-0.65</td><td>0.49</td><td>0.93</td><td>0.31</td><td>-0.01</td><td>0.29</td><td>-0.81</td><td>-0.60</td></tr><tr><td>Kifri</td><td>34.68</td><td>44.97</td><td>1.06</td><td>-0.76</td><td>-0.62</td><td>0.20</td><td>0.22</td><td>-0.83</td><td>-1.29</td><td>-0.41</td><td>-0.09</td><td>-0.22</td></tr><tr><td rowspan=\"3\">Station</td><td colspan=\"2\">Coordinate</td><td></td><td></td><td></td><td></td><td>SPI</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lat. (°N)</td><td>Long.(E)</td><td>2008</td><td>2009</td><td>2010</td><td>2011</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>35.56</td><td>45.44</td><td>-1.14</td><td>-0.80</td><td>1.00</td><td>-0.01</td><td>2012</td><td>2013</td><td>2014</td><td>2015</td><td>2016</td><td>2017</td></tr><tr><td>Sulaimaniyah Bazian</td><td>35.59</td><td>45.14</td><td>-2.38</td><td>-1.33</td><td>0.99</td><td>-0.41</td><td>-0.11 -0.69</td><td>-0.75 -0.28</td><td>-0.71 -0.01</td><td>-1.25</td><td>0.86</td><td>-0.09</td></tr><tr><td>Halabja</td><td>35.19</td><td>45.97</td><td>-1.92</td><td>-0.70</td><td>1.06</td><td>0.02</td><td>-0.15</td><td>0.22</td><td>-0.71</td><td>0.20 -0.34</td><td>1.16</td><td>-0.14</td></tr><tr><td>Penjwen</td><td>35.62</td><td>45.94</td><td>-1.47</td><td>-0.92</td><td>0.85</td><td>0.00</td><td>0.25</td><td>0.36</td><td>-0.05</td><td>-0.06</td><td>0.74</td><td>-0.59</td></tr><tr><td>Saidsadiq</td><td>35.34</td><td>45.85</td><td>-1.73</td><td>-1.27</td><td>0.86</td><td>-0.01</td><td>-0.52</td><td>0.12</td><td>-0.26</td><td>-0.02</td><td>1.33</td><td>-0.08</td></tr><tr><td>Darbandikhan</td><td>36.21</td><td>44.79</td><td>-1.92</td><td>-0.91</td><td>1.07</td><td>0.40</td><td>-0.61</td><td>0.45</td><td>-0.24</td><td>-0.15</td><td>1.58 1.50</td><td>-0.01</td></tr><tr><td>Chamchamal</td><td>35.12</td><td>45.69</td><td>-2.17</td><td>-1.13</td><td>0.72</td><td>-0.28</td><td></td><td>0.81</td><td>0.54</td><td>0.44</td><td></td><td>-0.28</td></tr><tr><td>Kalar</td><td>35.53</td><td>44.83</td><td>-2.56</td><td>-0.88</td><td>0.85</td><td>-0.50</td><td>-1.55 -1.78</td><td>0.80</td><td>0.45</td><td>-0.10</td><td>1.55 2.12</td><td>0.15</td></tr><tr><td>Pebaz</td><td>34.82</td><td>45.51</td><td>-2.08</td><td>-1.32</td><td>1.05</td><td>-0.04</td><td>-1.28</td><td>0.69</td><td>0.46</td><td>0.07</td><td>2.55</td><td>-0.23</td></tr><tr><td>Kifri</td><td>34.68</td><td>44.97</td><td>-0.61</td><td>-0.19</td><td>1.44</td><td>-0.33</td><td>-1.18</td><td>-0.02</td><td>0.76</td><td>-0.30</td><td>3.24</td><td>-0.37 -0.24</td></tr></table></body></html>",
+        "page_idx": 17
+    }
+]

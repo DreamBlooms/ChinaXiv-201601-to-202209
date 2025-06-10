@@ -1,0 +1,576 @@
+[
+    {
+        "type": "text",
+        "text": "科技预印本库的政策动向与政策挑战",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张智雄\\*1、2、3 黄金霞」3 陈雪飞’　王玉菊'",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.中国科学院文献情报中心北京100190；2.中国科学院武汉文献情报中心武汉430071；3.中国科学院大学经济与管理学院图书情报与档案管理系北京100190）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[摘要]论文梳理了科技预印本库的国际发展趋势；从国际重要预印本库自身、科研基金为代表的科技管理部门、以及科技期刊三个方面，分析了当前预印本交流的相关政策动向；研究提出了我国科技预印本库建设中面临的五个政策挑战：政策定位不清晰，政策机制不完善、高层管理政策缺失、得不到期刊出版政策支持、政策起点高度不够；最后提出了发展我国科技预印本交流体系的四条政策建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[关键词]：预印本库政策；基金组织预印本政策；科技期刊预印本政策;我国预印本政策挑战；我国预印本政策建议",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在美国《科学》杂志2017年12月21日公布的2017年十大科学突破中，以BioRxiv为标志的“生物学预印本交流兴起”赫然位列其中，被认为是“学术交流中的重大文化变革”［1]。这一事件标志着国际科技预印本库在学术交流中的重要作用已经得到了整个科学界的高度关注。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "实际上近年来，随着开放获取、开放科学运动的兴起，学界自治的预印本交流已经得到了国际上很多科技管理部门、基金组织、学术团体、学协会、出版商的认同和支持。在很多科研机构纷纷推出不同领域的预印本库（如BioRxiv[2]、ChemRxiv[3]、PsyArXiv[4]、SocArXiv[5]等）的同时，原有的重要预印本库，如arXiv[6]、SSRN[7]等，也适应需要，成功实现了转型升级，不断进行领域扩张，努力捍卫其在学术交流中的主导权。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文分析当前科技预印本库在学术交流中的地位和作用，梳理当前国际科技预印本库的发展趋势和政策动向，研究我国预印本库建设面临的主要政策挑战，提出发展我国科技预印本库的政策建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1、国际科技预印本库的发展趋势",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，预印本交流迎来了一个繁荣发展的重要时期。国际科技预印本库的发展趋势表现为以下几个方面。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1预印本库在学术交流中的作用越显重要",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "预印本（Preprint）是一种用于在学术团体间进行学术交流的论文手稿。在学术界，预印本指尚未在同行评议学术期刊上正式发表的、由作者上传到公共数字仓储服务系统上供开放交流的论文手稿［8]。那些接收预印本论文存缴，并提供开放交流的数字仓储系统也被称为预印本库。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "预印本虽然不是经过同行评议的、最终正式排版发表的论文，但它包括完整的研究数据和研究过程，是一篇完整的科研论文［9]。预印本库在接收到作者提交的预印本之后，经过简短的内容检查，在确保论文的科学性之后，作者的论文手稿在一两天之内便会在预印本库上公布出来，供免费查阅。作者还可以根据预印本库上的科研同行对文章的反馈意见，更新预印本版本，完善研究成果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "科技预印本库在学术交流中的作用早就为人所知，例如在2000 年，JulieM．Hurd就曾在其“科学交流的转型：2020年模式”论文[10]中预测，到2020年预印本库将与同行评议期刊一起，共同成为学术交流的两个重要支撑。现在，这一预测正在成为现实。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "预印本交流提供了一条由科学界自主控制的、将研究成果迅速向全球科学界传播的重要渠道。与传统期刊交流模式相比，基于预印本库的科学交流有着以下六个方面的重要作用：（1）迅速公布科研成果。作者可以及时将研究成果公布给全球科学界，而不必等上数周、数月、甚至是数年的时间，才能把研究成果在科技期刊上发表出来。（2）促进学术自由交流。由于预印本交流不采用同行评议机制，因此也不存在同行评议时碰到的评阅歧视。（3）更大范围获取论文反馈意见。通过发布预印本论文，作者能够获得更大范围的同行意见，而",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "仅仅是同行评议时少数评阅人的意见。（4）记录思想发展历程。预印本库有论文版本记录和更新功能，在作者更新了论文版本之后，旧版本论文还保留在预印本库中，可以反映出作者的思想发展历程。（5）确立科研发现的优先权。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这也正是arXiv的创建者Ginsparg所强调的，科技预印本库可以及时公开发布科研成果，并且为所发布的成果打上时间戳，因此它在确定科研发现的优先权上起着关键作用[11]。（6）及时跟踪最新科研动态。对于读者而言，由于科技预印本库上发布的预印本论文时效性强，包含了完整的研究过程、数据和方法，因而科技预印本库也成为很多学者及时跟踪最新科研动态的重要场所。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1991年出现的arXiv是科技预印本库的典型代表，它反映了预印本交流在学术交流中所能起到的重要作用。经过28年的发展，arXiv已经彻底改变了物理学、数学、天文学等领域的学术交流模式，成为了物理学家的“一种生活方式”［12」。每天早上醒来，物理学家们所要做的一件重要事情就是到arXiv上去查阅本领域的最新进展。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "很多成果都是最先发布在arXiv之上。以粒子物理为例，大约 $70 \\%$ 的粒子物理论文首先作为预印本发布在arXiv平台上。很多重大科技成果都可以在arXiv上找到，其中最典型的是俄罗斯数学家格里戈里·佩雷尔曼（GrishaPerelman）本世纪初对庞加莱猜想的证明。在2002年11月至2003年7月间，佩雷尔曼在arXiv上发布了三篇论文手稿。这三篇论文仅仅提交给了arXiv，而并没有在正式的期刊上发表。但这三篇预印本论文，表明佩雷尔曼已完成了庞加莱猜想的证明。佩雷尔曼也因此在2006 年获得了菲尔兹奖，其证明也被美国《科学》杂志认为是2006 年的最大年度科学突破。这一例子突显了arXiv 在科技界中的重要地位，也充分展示了科技预印本库在学术交流中的重要作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2重要预印本库成功转型发展，进行领域扩张",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近年来，以arXiv和SSRN为代表的重要预印本库，成功实现了转型发展，主动进行了领域扩张，已经在新型学术交流中取得了一定的主导权和话语权。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）arXiv主动扩张，成为了计算机科学领域的重要预印本库",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自1998年以来，arXiv一直由康乃尔大学图书馆运营。但自2019年1月开始，为了更好地促进arXiv在计算和信息科学研究团体中的应用，arXiv转而由康奈尔大学计算与信息科学院（CIS）负责运营［13]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在这几年中，arXiv通过可持续发展模式探索，得到了基金的支持，赢来了大发展，并进行了学科领域的扩展。arXiv原先只收录物理学、数学、计算机科学、定量生物学、定量金融和统计学等6个学科领域的预印本论文。但",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2017年，arXiv处于竞争需要，分两次对其收录的学科领域进行了扩张。2017年9月18日，arXiv扩张了电气工程与系统科学领域，2017年9月26日，扩张了经济学领域。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近年来，arXiv上发布的论文数量快速增长。2018年10月，单月论文提交量已达13446 篇。2019年2月，在arXiv发布的论文总数已超过150万余篇。另一方面，arXiv上新提交论文的领域出现了显著变化。长期以来，arXiv被认为是物理学领域的预印本库。但自2017年开始，arXiv上全年新发布物理学论文的数量就已经不到arXiv发布所有论文总数的一半。2018年全年新提交的论文之中， $4 3 . 8 \\%$ 来自物理学， $2 5 . 5 \\%$ 的来自计算机科学， $2 3 . 8 \\%$ 的来自数学[14]。可以看到，arXiv悄然占领了计算机科学，成为了计算机科学领域的重要预印本库。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）SSRN成功转型，向生物、化学等重要领域扩张",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SSRN（Social Science Research Network）是一个1994 年创建的社会和人文科学领域的预印本库。但2016年，出版巨头Elsevier收购了SSRN。自此，SSRN不再固守社会和人文科学，而积极向很多重要领域的“科研网络”扩张。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2017年就发布了四个“科研网络”，分别为生物学科研网络（BioRN）、化学科研网络（ChemRN）、工程研究网络（EngRN)，以及妇女与性别研究网络（WGSRN)。目前，SSRN的科研网络已经高达十三个[7]，除了上述四个领域之外，还包括计算机科学（CompSciRN）、刑事司法（CJRN）、能源（EnergyRN）、物质科学（MatSciRN）、生态学（EcoRN）、医学（MedRN）、教育学（EduRN）、食品科学（FoodSciRN）、交通运输（TransportRN）等领域。到目前为止，SSRN上发布了约84万篇研究论文。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SSRN的转型和多领域扩张，预示着争夺预印本交流学术话语权的战争已然 打响。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3各领域纷纷推出“Xiv”，带来国际科技预印本库的繁荣发展",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在原有预印本库转型发展的同时，很多学术机构纷纷推出各自领域的“Xiv”，带来国际预印本库的繁荣发展。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）生物学界推出BioRxiv，引领学术交流的重大文化变革近年，生物学界深刻反思arXiv 在物理学、数学、计算机科学中的成功经验，积极推动生物学预印本库建设。2013年，美国冷泉港实验室推出了生物学预印本库BioRxiv。后来，在“加速生物学科研和出版”（AcceleratingScience and Publication in biology，ASAPbio）这一科学家团体［15]的推动下，很多生物学领域的科学家、科研管理机构、基金组织、科学协会、出版商都积极支持BioRxiv，使BioRxiv得到了快速发展。2017年，BioRxiv获得陈扎克伯格基金会（Chan ZuckerbergInitiative，CZI）资助。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前，BioRxiv已发布了4万余篇论文，每月新提交的论文数已经超过2700 篇［2]。BioRxiv已然成为了生物学领域的重要交流渠道，带来了生物领域学术交流的重大文化变革。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）美国化学学会推出ChemRxiv，捍卫化学领域的学术话语权",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "美国化学学会（ACS）的期刊在化学界有着重要的学术话语权。近年来，在开放学术交流形势下，美国化学学会积极建设化学预印本库，以捍卫其在这一领域学术交流中的主导地位。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2016 年美国化学学会就提出将构建国际化预印本平台ChemRxiv。2017年8月14日，也就是在SSRN推出化学科研网络（ChemRN）一周之后，美国化学学会随即联合英国皇家化学学会、德国化学学会等，对外宣布ChemRxiv 的 Beta版正式发布，供全球化学团体和研究人员使用。其捍卫化学领域学术话语权的意图十分明显。2018年3月，美国化学学会正式与英国皇家化学学会、德国化学学会达成协议，组建联盟，共同在财政和战略上支持ChemRxiv[16][17]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）很多机构纷纷推出预印本库，抢占预印本交流话语权",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除了BioRxiv和ChemRxiv之外，近年来，很多机构积极适应开放科学发展需要，推出各类科技预印本库，抢占预印本交流的话语权。表1为近年推出的一些主要预印本库，可以看到其中有领域型预印本库，有区域和国家型预印本，还有专门收录特定语种的预印本库；有的为研究机构、国际组织、学会或协会发起，也有的则通过组建新的预印本指导委员会运作。需要强调的是在2016 年6 月，中国科学院发布了ChinaXiv预印本库，以支持中国和世界范围内的学者交流中英文预印本论文。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe2744e5475a63a373ca942a5fdf95051adde1f42342d92724b4c41b3ba39909.jpg",
+        "table_caption": [
+            "表1、近年推出的一些主要预印本库"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>科技预印本库</td><td>发起时间</td><td>发起组织</td><td>领域或区域</td></tr><tr><td>PeerJ Preprints</td><td>2013年4月</td><td>PeerJ</td><td>多领域</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c4bebe8c5befd8a6392c87bb4759aa7a46bbf4101673a59742146a929f76da74.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>The Multidisciplinar y Preprint</td><td>2016年6月</td><td>瑞典多领域数字出版所MDPI</td><td>多领域</td></tr><tr><td>Platform PsyArXiv</td><td>2016年</td><td>心理科学促进会（SIPS）和开</td><td>心理科学</td></tr><tr><td>SocArXiv</td><td>2016年12月</td><td>放科学中心（COS） 马里兰大学</td><td>社会科学</td></tr><tr><td>Therapoid</td><td>2017年</td><td>Open Therapeutics（国际医疗 机构）</td><td>医疗、生物制药</td></tr><tr><td>LISScholarship Archive(LISSA)</td><td>2017年</td><td>相关国际小组和开放科学中心 （COS)</td><td>图书馆学、档案 学领域</td></tr><tr><td>Agrixiv</td><td>2017年2月</td><td>印度开放获取(Open Access India）和开放科学中心</td><td>农业领域</td></tr><tr><td>engrXiv</td><td>2017年4月</td><td>(COS） 威斯康星大学</td><td>工程领域</td></tr><tr><td>LawArXiv</td><td>2017年5月</td><td>开放科学中心（COS）联合康 奈尔法律图书馆</td><td>法律领域</td></tr><tr><td>PaleorXiv</td><td>2017年5月</td><td>由来自全球古生物学界专家组 成的指导委员会</td><td>古生物学</td></tr><tr><td>Thesis Commons</td><td>2017年8月</td><td>开放科学中心（COS）</td><td>硕博士论文预印 本</td></tr><tr><td>SportRxiv</td><td>2017年8月</td><td>SportRxiv指导委员会</td><td>体育</td></tr><tr><td>MedArXiv</td><td>2017年9月</td><td>耶鲁大学数据获取项目（Yale Open Data Access</td><td>医学和健康领域</td></tr><tr><td>EarthArXiv</td><td>2017年10月</td><td>Project） 开放科学中心（COS）</td><td>地学领域</td></tr><tr><td>ESSOAr</td><td>2017年11月</td><td>美国地球物理联合会（AGU） 大卫与露西尔·帕克德基金会</td><td>地球物理</td></tr><tr><td>MarXiv</td><td>2017年11月</td><td>(David and Lucille Packard Foundation）和开放</td><td>海洋保护和海洋 气候</td></tr><tr><td>ECSarXiv</td><td>2017年</td><td>科学中心（COS） 电化学学会（The Electrochemistry Society)</td><td>电化学，固态科 学与技术</td></tr><tr><td>ChinaXiv</td><td>2016年6月</td><td>中国科学院</td><td>多学科领域，收 录中英文预印本 论文</td></tr><tr><td>INA-Rxiv</td><td>2017年8月</td><td>万隆技术学院</td><td>印尼国家级预印 本库，多领域</td></tr><tr><td>SciELO Preprints</td><td>2017年12月 宣布在建</td><td>SciEL0</td><td>面向拉丁美洲、 伊比利亚半岛、 南非的预印本平</td></tr><tr><td>ArabiXiv</td><td>2018年1月</td><td>ArabiXiv指导委员会和开放科 学中心（COS）</td><td>台 多学科领域，以 阿拉伯语为主</td></tr><tr><td>Frenxiv</td><td>2018年1月</td><td>Frenxiv指导委员会和开放科 学中心（COS）</td><td>多学科领域，以 法语为主</td></tr><tr><td>AfricArxiv</td><td>2018年6月</td><td>AfricArxiv指导委员会和开放</td><td>多领域</td></tr><tr><td>indiaRxiv</td><td>建设之中</td><td>科学中心（COS） The Open Access India 和开 放科学中心（COS)</td><td>多领域</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2、当前国际科技预印本库的主要政策动向",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "国际科技预印本库繁荣发展的背后是相关政策机制的支撑。近年来，国际科技预印本库的政策出现了三个值得关注的动向。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1国际科技预印本库明确其政策定位，着力与科技期刊有效互补",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "虽然国际预印本库越来越得到学术团体的关注，但这些科技预印本库并没有无限制地放大预印本库在学术交流中的地位和作用，反而更加清晰地明确其政策定位，形成了一种与科技期刊同行评议大不相同的运作机制，并着力与科技期刊实现有效互补。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以arXiv为例，arXiv通过明确其政策定位、用户认可机制和提交论文管理机制，形成了与科技期刊同行评议大不相同的运作横式。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从政策定位上讲，arXiv将自己定义为一个供特定学科领域学术论文交流的、可开放访问并受适当管理的数字仓储库（moderatedrepository）。也就是说，arXiv在其政策定位上，就是一个促进完整科研论文手稿快速共享交流的场所，它坚持通过其提交内容管理机制（Submission Moderation），而不是同行评议机制（PeerReview）来判断是否发布用户提交的内容。arXiv并不能取代科技期刊，但也并不是什么内容都可以发布的平台。“arXiv不是一个保存不可发表材料的存储库，也不是一个发布同行评议论文的场所”。提交给arXiv 的内容应当是符合领域的研究兴趣，与具体学科领域相关，并且有研究价值的内容。arXiv拥有拒绝或重新分类任何提交内容的权利。提交给arXiv 的论文需要被arXiv专业管理员（moderator）按照学术交流规范进行检阅，以确定这些论文符合主题要求，有可供审阅的科学贡献。对于与科技期刊的关系，arXiv认为，尽管arXiv在科学交流中发挥着重要作用，但是arXiv仍然是还只是科技期刊的一个补充。“通过提供学术文章的即时传播和开放访问，arXiv补充了常规的出版系统”［18]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "用户想在arXiv上发布预印本论文，首先需要获得认可（Endorsement）。arXiv的用户认可机制（User Endorsement）验证用户是否属于科学界。arXiv的用户认可机制[19]规定，来自于公认学术研究机构的用户可以免于用户认可，而其他用户则需要联系符合条件的arXiv认可人（eligible arXivendorser），来确认其是否是特定领域的科学共同体中的一员。arXiv的用户认可机制能够将某些不符合要求的用户（如民科）挡在预印本库之外，有助于保证用户提交给arXiv的论文是符合领域的研究兴趣，与具体学科领域相关，并且是值得参阅的内容。这一机制确保了arXiv提交内容管理机制的有效运行。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "arXiv提交内容管理机制（SubmissionModeration）充分体现了科技预印本库的运作模式和科技期刊的同行评议有着本质的区别。它在确保arXiv 内容的科学性的同时，又降低了运营成本。具体而言，对于作者提交给arXiv特定学科领域的论文，arXiv都会有其对应的专业领域志愿管理员（VolunteerModerator）来对提交论文进行管理。志愿管理员可以对所提交的论文提出“重新分类”（reclassification）或“删除”（removal）的操作建议。arXiv 明确对于以下六种违反arXiv政策的提交内容，志愿管理者将会提出删除建议。（1）不适合评审的内容（Unrefereeablecontent）。arXiv只接受以研究论文形式提交的、可以被常规科技期刊认为适合进一步评审的内容。对于不包含原始或实质性研究过程的文章，如课程项目、项目研究建议书等可能会被删除。那些包含有煽动性或虚幻性内容的文章，使用了戏剧性和误导性的标题、摘要、介绍的论文，以及那些需要进行重大审查和重大修改的论文都可能会被删除。（2）格式不符合要求的内容（Inappropriate format）。没有原文的论文摘要演示文稿、书籍公告、书评、没有引用的论文、论文征集或广告都可以被删除。arXiv也不接受带有行号或带有水印的论文。（3）",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "属于arXiv支持学科领域的内容（Inappropriatetopic）。arXiv支持的学科领域有八个，如果所提交的论文不属于这八个学科领域，则可能被删除。（4）重复提交的内容（Duplicatedcontent）。对于相似性很大或者是同一论文的不同版本，不能重复提交，可以采用arXiv的论文版本更新机制，否则将被删除。（5）受版权保护的内容（Submissionofcopyrightedmaterial）。arXiv不接收从期刊网站上下载下来的PDF文件，有版权声明的内容，或者提交者没有公开发布权的内容。（6）提交频率过高者提交的内容(Excessive submission rate)。如果某位提交者的提交频率过高，arXiv 管理者可以限制其提交频率［20]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从上面三个方面可以看到，arXiv形成了一种完全不同于期刊同行评议的机制来实现预印本交流。这也让arXiv能够与科技期刊形成有效互补，共同支撑了相关领域的学术交流。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其它的预印本库也提出了相类似的政策机制。例如在bioRxiv中，相关的提交内容管理过程被称为筛选过程（screening process）。bioRxiv 强调，在其预印本库上发布的论文未经同行评议，也未经编辑或排版。但是所有文章都会经过一个基本的筛选过程，排除攻击性、非科学性、以及可能造成健康或生物安全风险的内容，并检查其是否存在剽窃行为[21」。另一方面，bioRxiv 也声明，某一论文在bioRxiv上发布了出来，并不意味着冷泉港实验室认可了这一论文的方法、假设、结论或科学质量。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2科研基金出台政策，支持并规范预印本库的应用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "预印本交流鼓励科研成果的及时发布、开放传播、迅速扩散，其本质上有利于促进科研成果的尽快应用，更快更好地产生社会和经济效益。这与科研基金、科技管理部门等提高科研经费使用效率、促进科技创新的目标相一致。近年来，国际上越来越多的科研基金、重要研究组织、研究委员会等都出台具体政策，积极支持预印本交流，逐步接收预印本作为项目申请和项目结项的重要依据，同时也在为了加强成果发布的严谨性，明确在预印本库上发布的预印本论文是一种阶段性成果。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "美国国立卫生研究院（NIH）是通过出台具体政策，实质性支持预印本交流的重要代表。NIH认为，科学家发布预印本可以加速成果的传播，确定科研发现的优先权，获得更多的同行反馈，同时避免出版歧视。NIH的预印本政策一方面鼓励及时发布预印本，使研究成果能够更快地被更多人阅读和评议；另一方面，NIH也明确地将预印本论文认定为是一种阶段性研究成果，以提高项目研究的严谨性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2017年3月，NIH在广泛征集意见之后宣布，自2017年5月25日起，在NIH的项目申请和进展报告中可以引用公开发布的预印本论文［22」。NIH指出预印本论文可以像正式发表论文一样在项目申请和研究报告中被引用，在项目申请书的引用文献、申请人简历、计划产出成果等部分都可以引用预印本，在撰写研究成效进展报告时，也可以将预印本论文纳入到项目的主要成果产出列表",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "之中。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "NIH还进一步明确了预印本成果的引用规范，要求项目申请者和项目执行人在引用预印本论文的时候，要明确标识其数字对象标识符，明确其对象类型为预印本，列出预印本的版本信息（包括最近修改的日期）及引用预印本的日期等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "除了NIH之外，还有很多基金和研究组织都专门制定了预印本相关的政策，积极支持科技预印本交流。表2为除NIH之外，当前一些重要的科研基金、研究委员会支持预印本的政策要点。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a2d86d44021d0e4d61ee1a8dbe2051d09839541361d5b35ce85e5f0677fdd17.jpg",
+        "table_caption": [
+            "表2、除NIH之外，一些重要科研基金支持预印本的政策要点"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基金</td><td>宣布时间</td><td>）1， 入不文黑 政策要点</td></tr><tr><td>西蒙斯基金 会（Simons Foundation ）</td><td>2016年 9月1日</td><td>鼓励PI在向同行评议期刊投稿的同时（甚至在此之前），在 公开的科技预印本库上（如arXiv或bioRxiv）发布预印本论 文；受基金支持的所有预印本论文需要纳入在项目年度和最终 进展报告中；PI简历中的成果出版一栏需要包括预印本论文 [23]</td></tr><tr><td>陈扎克伯格 基金会 (Chan Zuckerberg Initiative ）</td><td>2016年 开始</td><td>“我们支持无条件或无限制的完整出版。我们强烈鼓励（在某 些情况下是一种硬性要求），研究人员在同行评议之前，将论 文在预印本库上发布，以加速对研究成果的访问，加快科研成 果的交流”[24] “为了鼓励科研成果的快速传播，任何本基金资助项目所产出 的出版物必须在提交给期刊之前，先提交给预印本库，例如</td></tr><tr><td>英国医学研 究委员 （MRC）</td><td>2017年 1月3日</td><td>bioRxiv”[25] “我们现在积极鼓励研究人员通过预印本库分享同行评议之前 的论文手稿。为此，我们允许研究人员在其项目申请和奖学金 申请中引用预印本。2017年4月1日之后，这将生效。” “MRC欢迎把预印本列入到以下申请和报告的出版物清单之中： 项目资助和奖学金申请；职位申请；MRC单位和研究所五年期 的进展审查报告和未来建议方案”[26]</td></tr><tr><td>威康信托基 金会 (Wellcome Trust)</td><td>2017年 1月10 日发布 11月5 日修改</td><td>“允许研究人员引用预印本将使他们更快地交流其研究成果， 加速新知识的发现”，“自2017年1月起，我们将允许研究 人员在其项目申请和结题报告中引用预印本或其它未经同行评 议的稿件”[27] 2018年」在2018年的威康信托基金会开放获取政策中，进一步提出 “在广泛而快速共享预印本可以带来显著的公共卫生效益的时 候，例如当某一疾病爆发的时候，基金资助的预印本：必须在 同行评议之前公布；在符合要求的预印本库上，以完整手稿的</td></tr><tr><td>英国癌症研 究中心 (CRUK)</td><td>2017年 5月30 日</td><td>方式立即发布；以CC-BY许可模式发布”［28] “我们相信，在预印本库上发布预印本论文将加速研究成果传 播，给尽早取得突破的研究人员带来荣誉，最终加速科技进 步” “我们允许（并鼓励）我们的研究人员发布其出版物的预印本， 在其项目资助申请中引用预印本和其他非传统研究成</td></tr><tr><td>欧洲研究理</td><td>2017年</td><td>果。”[29] 在2017年发布的ERC资助工作计划中，提及“在评估申请人</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a69631807118ef101af6b00996d25762f2be0e5b279134fe0db48e3a54ac086b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>事会 (ERC)</td><td>11月3 1 日 2018年 9月5日</td><td>的业绩记录中，具有DOI标识、并且在科技预印本库中的预印 本论文，也可以纳入考虑范围”［30] 在2018年发布的ERC资助工作计划中，改为了“在业绩记录 中，在预印本库中可以免费获取的预印本应当包括其中”[31]</td></tr><tr><td>cOAlition S 计划的基金 组织</td><td>2018年 9月4日</td><td>“到2020年，由参与cOAlitionS计划的国家、欧洲研究理 事会和基金组织提供资助的研究成果出版物必须发布在符合要 求的开放存取期刊或符合要求的开放存取平台之上” “开放存档库和仓储库对于保管研究成果的重要性需要被认可， 因为他们具有长期归档的功能和促进编辑创新的潜力”[32]</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3科技期刊出台政策，实现与预印本库合作共赢",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在科研管理部门、科研基金和研究团体的不断努力之下，越来越多有远见的出版商和期刊不再过多地封闭和限制学界自治的学术交流，转而积极支持预印本库，允许作者在投稿之前将论文手稿发布在预印本库上。目前，预印本交流和科技期刊有效互补，逐步形成了在预印本库上快速发布预印本，而在科学期刊上发表高质量的同行评议论文的新型学术交流模式。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "很多顶级期刊都对预印本交流持开放态度。Nature认为在预印本库上发布论文手稿并不是事先发布（priorpublication），不会危及Nature期刊。因此，Nature支持在公开的预印本库上发布论文手稿，进行开放交流[33]。例如，Nature Communications 就认为，虽然 Nature Communications 对其同行评议的彻底性感到自豪，但是他们也认识到这一过程需要让作者等待很长时间才能看到其论文发表。NatureCommunications认为预印本交流可以让作者将其声称的令人兴奋的发现及时让领域同行知晓，因而它在促进科研发现方面有着重要价值。当然，NatureCommunications 也认为，预印本成果在未经仔细的同行评议之前，需要被谨慎地对待。但不论怎样，Nature Communications认为，在预印本库上快速发布预印本，以及通过科学期刊发表高质量的同行评议论文，需要携手同行，齐头并进[34]。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "对于作者的原始投稿论文和已接收稿件，Nature对其要求是不一样的。对于作者的原始投稿论文（尚未经过同行评议的论文版本），作者可以在任何时候发布在预印本平台之上。当然，Nature也要求，作者在向Nature 期刊投稿时，需要及时告之论文的预印本发布情况，包括预印本的数字对象标识符（DOI）信息。而对于作者的已接收稿件（经同行评议、作者修改之后的已接收论文版本），Nature要求，如果它不采用开放获取模式在Nature的研究期刊上发表，则这一已接收稿件只能在期刊的正式论文发表了6个月之后，才可以对外公布。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "作为出版巨头，Elsevier支持预印本交流。Elsevier认为“作者可以随时随地分享他们的预印本”［35]。如果投稿给Elsevier的论文已被Elsevier 期刊发表，Elsevier鼓励作者在预印本库上为预印本添加正式发表论文的DOI，使其可以链接到正式发表论文。Elsevier认为，数以百万计的研究人员可以访问 ScienceDirect上的正式出版物，因此作者在预印本平台上添加链接有助于让用户更好地查找、访问、引用和使用论文的最佳版本。Elsevier预印本政策还明确，作者可以使用他们的已接收稿件更新在arXiv或RePEc上的预印本版本。在这一点上，Elsevier 显然比Nature更加开放。当然Elsevier也提醒，Elsevier旗下有一些学协会拥有、需要进行双盲同行评议的期刊，这些期刊有不同的预印本政策，需要查看具体的期刊指南；另一方面，Elsevier还认为，预印本的本质就是论文手稿，作者不能过分增强预印本，使其更像是论文的最终版本。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "美国化学学会近年来也积极支持预印本交流。美国化学学会期刊的预印本政策明确，作者可以在稿件被美国化学学会期刊接收发表之前，将其论文手稿发布在诸如ChemRxiv、bioRxiv、arXiv或者其它适合的预印本库之上。作者可以一直对其预印本论文进行修改，直到其收到美国化学学会期刊的最终接收决定。需要注意的是，美国化学学会期刊同时要求作者在投稿信中说明稿件发布在哪个预印本库上，提供相关链接，并且适当说明预印本库上的论文版本和目前所投稿件的差别［36」。美国化学学会也要求作者在论文被美国化学学会的期刊发表之后，应当在预印本库上给其预印本论文添加期刊论文的数字对象标识符（DOI），从而可以让读者从预印本库链接到已发表论文之上。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "有关更多期刊支持预印本的情况，还可参考英国的SHERPA/RoMEO项目[37]、维基百科上期刊的预印本政策列表［38]、以及TRANSPOSE项目［39]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3、我国科技预印本库建设面临的政策挑战",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "与国际上科技预印本库繁荣发展的局面不同，在我国，真正意义上的科技预印本库建设还处于初创阶段，科技预印本库在学术交流中的地位和作用尚未得到我国科学界的广泛认同，科技预印本库的运营举步维艰。很多政策问题得不到解决是导致这一情况的主要原因。具体而言，我国科技预印本库的建设面临着政策定位不清晰，政策机制不完善、高层管理政策缺失、得不到科技期刊政策支持、政策起点高度不够等五方面的政策挑战。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.1我国科技预印本库的政策定位不清晰",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "通过上文，可以看到科技预印本库在政策定位上就是一个促进有科学价值的阶段性研究成果快速交流的场所。科技预印本库自身并不能取代同行评议科技期刊，但也并不是什么内容都可以发布的平台。科技预印本库需要通过提交内容管理机制（如arXiv的moderation，或bioRxiv的screening），而不是同行评议机制来判断是否发布所提交的内容。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在我国预印本库的建设过程中，存在着科技预印本库的政策定位不清晰的问题，容易导致科技预印本库在政策定位上的两种错误。一种错误是将预印本库定位成什么内容都可以发布的平台。例如有的数字仓储平台，打着预印本库的旗号，但不对提交论文进行适当管控，结果平台成为了民间科学家什么内容都可以发布的场所。另外一种错误是将预印本库定位为学术成果认证平台。有的平台打着预印本库的口号，但声称自己也具有学术质量审查机制、因此发布的论文可以与学术期刊论文同等对待，并且将在其平台上发布的论文手稿与成果认证挂钩，可出具相关证书。其结果是得不到科学界的承认，反而破坏了预印本库的名声。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2我国科技预印本库自身的政策机制不完善",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "不论是arXiv的moderation机制，还是bioRxiv的screening处理过程，希望达到的目标就是通过有效的内容管理，过滤掉不适合供科学界交流的内容，快速地将有科学价值研究论文发布出来。尽管在这些预印本库中，内容审核基本上是通过志愿者来完成，但是由于建立起了一套完善的政策机制，这些预印本库的内容管理效果十分显著。例如阿蒂亚爵士（Michael Francis Atiyah）曾向arXiv提交过关于其证明了黎曼猜想的论文手稿，但arXiv没有接收，最后阿蒂亚只能通过谷歌文档这样不正式的方式来进行传播。从目前来看，arXiv的内容管理机制成功阻止了那篇论文的发布，arXiv的科学性并没有在2018 年",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "9月阿蒂亚的海德堡演讲之后受到批评和质疑。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "我国预印本库的建设中，对这一问题的重要性认识不到位，对内容管理的政策机制研究还",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "充分。我国预印本库的内容管理机制普遍存在着管理角色不明确、政策规范",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "清晰、流程设计不合理、专家资源调用不充分、管理机制不完善、可操作性不强等问题。我国预印本库的建设，迫切需要补足这一短板。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.3我国预印本交流体系存在着高层管理政策的缺失问题",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "到目前为止，我国科技管理层还没有对我国的科技预印本交流提出过明确的政策指引。高层管理政策缺失导致了预印本交流在国内不被重视，预印本交流对科技的促进作用尚未被我国科学界广泛了解。我国科技界尚未形成支持科研成果及时在预印本库上公开，以实现快速传播、有效利用的环境氛围。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "从科技管理层面上看，除中国科学院之外，尚无科研管理机构、重要基金组织声称支持中国预印本学术交流。即便是中国科学院，虽然建设了ChinaXiv，但也缺乏明确的、实质性的、可操作性的科技预印本政策，特别是在科研人员十分关注的科研评价、项目申请、人才评价、职位申请等方面，尚未参照国际经验，提出实质性的政策措施。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "从国际经验上看，科技管理部门、科研基金组织在推动预印本交流方面，往往能够比一般的科学家团体、科研机构能够起到更大的作用。正如开放获取计划Plan S的推动者施密茨（Robert-Jan Smits）所说的，数十年来，出版商一直在决定如何发表研究成果，“现在，是科研基金说了算的时候”［40]。中国的科技管理部门、科研基金组织需要及时补位，研究并提出推动科技预印本交流的相关政策。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.4我国预印本交流体系尚得不到科技期刊的政策支持",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "目前，我国正在努力加强科技期刊建设。2018年11月14日，中央全面深化改革委员会第五次会议审议通过了《关于深化改革培育世界一流科技期刊的意见》。这是中国科技期刊界，乃至中国科技界的一件大事，笔者高度赞同。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "如何建设世界一流科技期刊需要我们高度关注。从Nature等期刊的发展模",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "式来看，目前这些高水平科技期刊更关注围绕学术交流全过程开展服务，已经形成了与预印本库合作共赢，支持作者在预印本库上快速发布预印本，在科学期刊上发表高质量的同行评议论文的新型学术交流模式。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "与此相对应的是，我国的大多数科技期刊还未适应开放科学需要，尚未考虑其预印本政策，仍然固守自我封闭的传统学术交流老路。我国新型学术交流模式的构建还任重而道远。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.5我国科技预印本交流的政策起点尚未提升到战略高度",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "科技预印本交流问题是一个很重要的科技学术话语权问题。当前各类预印本平台的繁荣发展，改变着以期刊为主体的传统学术交流模式，也代表着包括预印本在内的新型学术交流话语权的激烈竞争。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "目前，我国相关机构尚未从国家科技学术话语权的角度来看待预印本交流问题。我国相关机构应当从战略高度，研究和分析科技预印本交流对于国家科技学术话语权的重要意义，积极组织建设国家级的科技预印本平台，主导符合国际潮流的新型学术交流模式，提升我国科技界在学术交流中的主导权和话语权。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4、发展我国科技预印本库的政策建议",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "根据国际预印本的发展趋势，结合我国的现实问题，笔者提出发展我国科技预印本交流的政策建议。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "（1）认清当前国际学术交流体系发展趋势是开放交流。当前国际科学研究模式正向着开放科学的方向发展，开放科学倡导一种全周期公开透明的新模式。预印本和基于预印本的开放学术交流正在成为科研人员、学术团体、学协会、出版商和基金组织等适应开放科学需要的重要工具和手段。我们需要认清这一发展趋势，积极推进预印本库和基于预印本的开放学术交流体系的建设。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "（2）制定促进预印本交流的国家级政策措施。建议组织开展支持预印本交流的相关政策研究，研究提出通过预印本交流促进科研成果快速传播和应用的国家级政策措施。建议国家自然科学基金委员会、中国科学院、科技部、教育部、中国科协等科研资助管理机构研究和制定在项目申请和项目报告中允许引用预印本的相关政策，并且明确项目申请和研究报告中引用预印本的标准规范。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "（3）建设国家级的预印本交流平台。积极组织建设“符合要求的”国家级的科技预印本平台，提升我国在国际预印本交流中的主导权和话语权。该平台需体现国家促进预印本交流的政策取向，有明确的预印本交流政策定位和管理机制，按照国际通行的预印本交流模式运营。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "（4）推进我国科学家充分应用预印本交流体系。需要推进预印本交流在我国科学界中的普及，充分利用预印本交流体系来发布重要科研成果，竞争重要科研发现的优先权。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[1] Breakthrough ofthe Year [EB/OL]. 2017. 12 Feb 2019 <https://vis.sciencemag.org/breakthrough2017/finalists/#bio-preprints>   \n[2] ColdSpringHarborLaboratory.bioRxiv[DB/OL]. 2013. 12 Feb 2019 <https://www.biorxiv.org/>   \n[3] American Chemical Society. ChemRxiv [DB/OL]. 2017. 12 Feb 2019 <https://chemrxiv.org/>   \n[4] Society for the Improvement of Psychological Science. PsyArXiv [DB/OL]. 2016.12 Feb 2019 <https://psyarxiv.com $/ >$ （204   \n[5] University of Maryland. SocArXiv [DB/OL]. 2016.12 Feb 2019 <http://socarxiv.0rg/>   \n[6] Cornell University. ArXiv [DB/OL]. 1991.12 Feb 2019 <https://arxiv.0rg/>   \n[7] Elsevier. SSRN [DB/OL]. 1994.12 Feb 2019 <https://ssrn.com/en/1994>   \n[8] Preprint [EB/OL].8 Feb 2019.12 Feb 2019 <https://en.wikipedia.org/wiki/Preprint>   \n[9]Preprint FAQ [EB/OL].12 Feb 2019 <http://sapbio.org/preprint-info/preprint-faq#qe-faq$6 3 7 >$   \n[10] Hurd JM. The transformation of scientific communication: A model for 202o [J]. Journal of the American society for information science, 2000, 51(14): 1279-1283.   \n[11] Berg JM,Bhalla N,Bourne P E,et al. Preprints for the life sciences [J]. Science,2016, 352(6288): 899-901.   \n[12] ChemRxiv: Publishing in the Age of Preprint Servers Proceedings of a Symposium—in Brief [EB/OL]. Mar 2018.12 Feb 2019 <https://www.nap.edu/read/25050/chapter/ $1 >$   \n[13] ARXIV LOOKS TO THE FUTURE WITH MOVE TO CORNELL CIS [EB/OL].12 Feb 2019 <https://cis.cornell.edu/arxiv-looks-future-move-cornell-cis>   \n[14] arXiv submission rate statistics [EB/OL].1 Jan 2019.12 Feb 2019 <htps:/arxiv.org/help/stat s/2018_by_area/index>   \n[15] Asapbio [EB/OL].12 Feb 2019 <http://asapbio.0rg/>   \n[16] ChemRxiv: Year One and Beyond[EB/OL]. 25Oct2018. 12 Feb2019 <https://axial.acs.org/2018/10/25/chemrxiv-year-one-and-beyond/>   \n[17] The American Chemical Society, the Royal Society of Chemistry, and the German Chemical Society Partner to Support ChemRxiv [EB/OL]. 23 Apr 2018. 12 Feb 2019 <https://axial.acs.org/2018/04/23/partner-to-support-chemrxiv/>   \n[18] arXiv Primer [EB/OL].10 Feb 2019.12 Feb 2019 <https://arxiv.org/help/primer>   \n[19]ThearXivendorsementsystem[EB/OL]. 10Feb2019.12Feb 2019 <https://arxiv.org/help/endorsement>   \n[20] arXiv moderation [EB/OL].10 Feb 2019.12 Feb 2019 <https://arxiv.0rg/help/moderation>   \n[21] About bioRxiv [EB/OL].12 Feb 2019 <https://www.biorxiv.org/about-biorxiv>   \n[22] Reporting Preprints and Other Interim Research Products [EB/OL]. 24 Mar 2017.12 Feb 2019 <https://grants.nih.gov/grants/guide/notice-files/not-od-17-050.html>   \n[23] Policies and Procedures [EB/OL]. 12 Feb 2019 <https://www.simonsfoundation.org/fundingopportunities/policies-and-procedures/>   \n[24] Our Policies [EB/OL].12 Feb 2019 <https://chanzuckerberg.com/science/#our-policies>   \n[25] Collaborative ScienceAwards (RFA Closed) [EB/OL]. 12 Feb 2019 <https://chanzuckerberg.com/rfa/collaborative-science-awards/>   \n[26] The MRCsupports preprints [EB/OL]. 3 Jan 2017. 12 Feb 2019 <https://mrc.ukri.org/news/browse/the-mrc-supports-preprints/>   \n[27] We now accept preprints in grant applications [EB/OL]. 10 Jan 2017. 12 Feb 2019 <https://wellcome.ac.uk/news/we-now-accept-preprints-grant-applications>   \n[28] Wellcome is updating its open access policy [EB/OL]. 5 Nov 2018. 12 Feb 2019 <https://wellcome.ac.uk/news/wellcome-updating-its-open-access-policy>   \n[29] We accept preprints in grant applications: new guidance for researchers [EB/OL]. 30 May 2018.12 Feb 2019 <htps://www.cancerresearchuk.org/funding-for-researchers/researchfeatures/2017-05-30-we-accept-preprints-in-grant-applications-new-guidance-forresearchers>   \n[30] European Research Council. Guide for Peer Reviewers [EB/OL].3 Nov 2017.12 Feb 2019 <https://ec.europa.eu/research/participants/data/ref/h2020/other/experts_manual/h2020_peerreview_erc-stg-cog-adg-2018_en.pdf>   \n[31] European Research Council. ERC Work Programme 2019 [EB/OL]. 6 Sep 2018.12 Feb 2019 <hp://ec.europa.eu/research/participants/data/ref/h2020/wp/2018-2020/erc/h2020-wp19- erc_en.pdf>   \n[32] Plan S: Making full and immediate Open Access a reality [EB/OL].12 Feb 2019 <https://www.coalition-s.org/>   \n[33] Preprints: authors and referees [EB/OL]. 12 Feb 2019 <https://www.nature.com/authors/policies/preprints.html>   \n[34] Preprints underpeerreview [EB/OL].12 Sep 2017. 12 Feb 2019 <https://www.nature.com/articles/s41467-017-00950-5>   \n[35] Article Sharing [EB/OL]. 12 Feb 2019 <https://www.elsevier.com/about/policies/sharing#preprint>   \n[36] Policy Summary on Prior Publication [EB/OL]. 12 Feb 2019 <https://pubs.acs.org.ccindex.cn/page/jacsat/submission/prior.html>   \n[37] Sherpa [EB/OL].12 Feb 2019 <http://www.sherpa.ac.uk/romeo/index.php>   \n[38] List of academic journals by preprint policy [EB/OL]. 21 Dec 2018. 12 Feb 2019 <https://en.wikipedia.org/wiki/List_of_academic_journals_by_preprint_policy>   \n[39] TRANSPOSE [EB/OL]. 12 Feb 2019 https://transpose-publishing.github.io/   \n[40] Nature's 10: Ten people who mattered this year [EB/OL]. 2018. 12 Feb 2019 <https://www.nature.com/immersive/d41586-018-07683-5/index.html> ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The policy trends of international preprint servers and policy challenges of prepr int servers in China ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "ZHANG ZhiXiong1,2,3 HUANG JinXia1,3Cheng XueFei1 Wang Yuju1 (1.National Science Library, Chinese Academyof Sciences,Beijing100190;2.Wuhan Library, Chin ese Academy of Sciences,Wuhan 430071; 3. Department of Library Information and Archives Ma nagement, University of Chinese Academy of Science, Beijing 100190) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Abstract The paper sorts out the development trends of the international preprint servers; analy zes the policy trends of preprint servers,funding agencies and journals; brings forth the five polic y challenges faced in developing Chinese preprint servers: unclear policy positioning, imperfect p olicy mechanism,lack of high-level management policies,lack of policy support from journals,an d insufficient policy starting point; make four suggestions in the development preprint servers in China. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Key words policy of preprint server, preprint policy offunding agency, preprint policy of journal s, policy challenges of preprint server in China, suggestion for preprint server in China ",
+        "page_idx": 17
+    }
+]

@@ -1,0 +1,566 @@
+[
+    {
+        "type": "text",
+        "text": "米激光光斑特性测量方法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "万凡12，汤儒峰1,2，翟东升1，苏向泽1,2，赵闯闯1,2，李语强1(1．中国科学院云南天文台，云南 昆明 650011；2.中国科学院大学，北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在卫星激光测距系统中激光光斑特性的好坏关系到测距成功与否，而经望远镜出射后的真实激光光斑特性尤为重要。为了准确掌握经望远镜出射后的激光光斑特性，提出了一种精准测量激光光斑特性的方法。首先将激光照射在一定距离的漫反射屏上，利用CCD相机采集激光光斑的漫反射图像，同时利用安装在漫反射屏上的能量计实时记录光斑相应区域的激光能量，最后结合激光光斑的CCD图像以及光斑相应区域的能量分布，分析计算出激光光斑的相关特性参数。文中详细给出了激光光斑的测量原理、实验方案以及数据处理方法，并通过实测数据精确的计算出了经望远镜出射后的激光光斑半径、发散角、平均能量密度分布等参数。实验结果表明：本测量方法具有测量精度高、响应速度快、操作简单，易于控制等优点，在激光光斑测量方面具有重要的应用前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：测量方法；激光光斑；CCD成像；漫反射；光斑半径；发散角中图分类号：P232 文献标识码：A 文章编号：1672-7673（2020）03",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0.引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在卫星激光测距系统中，出射激光光斑特性的好坏是制约测距成功与否的一个十分重要因素。但激光光束在经过激光发射系统以及大气传输以后，其光斑特性发生了何种变化无法得知。因此，需要在地面先进行相关的光斑测量实验，获取出射激光光斑的相关特征参数。利用实验获取的光斑数据分析判断整个激光发射系统是否处于最佳工作状态，以及为理论分析计算探测器能接收到的回波光子数提供实测技术支持。目前国内外对激光光斑的测量方法主要有：烧蚀法、感光法、扫描法、CCD 成像法、阵列探测器法等[1]。其中烧蚀法、感光法是定性的测量，不能够定量的测量出激光光斑的具体能量大小，扫描法一般适用于光斑尺度在几微米乃至更小的场合，不能满足较大口径出射的激光光斑测量；阵列探测器法是一种新颖的激光光斑测量方法，此方法能直接细致的测量出光斑具体位置的能量值，具有信噪比高，能响应高速窄脉冲等优点。但阵列探测器法的激光入射角度较小：即当激光入射角度发生较小变化时，测量到的激光能量值便会发生较为显著的变化，从而影响到激光光斑强度分布的测量精度2]。而CCD 成像法在激光光斑特性参数的测量中具有响应速度快、测量精度高的优势，同时CCD相机其体积和重量都比较小，具有容易与控制系统相结合，操作简单的优点。另外随着CCD技术的不断发展，其动态范围在不断扩大，信噪比也越来越高，而成本却在不断下降3]。因此，综合以上考虑，本文设计了一套基于CCD 成像法对激光光斑信息进行测量的装置，此装置能够精准的测量出通过望远镜出射的激光光斑半径、发散角大小、质心分布、平均能量密度分布等参数。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.CCD成像法测量原理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在CCD成像法中，选择高度近似朗伯体的材料作为漫反射屏，光源经过此种材料发生漫反射后，其漫反射光强的空间分布满足余弦定律。激光光斑的漫反射测量原理如图1所示：入射激光照射到漫反射屏上发生漫反射，漫反射光经滤光片、衰减片组成的衰减系统进行能量衰减后，进入到CCD相机成像，通过数据线的连接，光斑图像实时的传输到计算机中。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "同时利用漫反射屏上安装的能量计，将实时采集到的光斑相应区域的能量也传输到计算机中，最后结合激光光斑的CCD图像以及光斑相应区域的能量分布进行分析处理，计算出激光光斑的相关特性参数。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/afcab9af00d04a18ba2397133408003a3700faea1aba850997375ae6509a13ab.jpg",
+        "img_caption": [
+            "Fig.1CCD diffuse reflection imaging method diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在CCD 漫反射成像法测量光斑能量空间分布的实验中，需要采集经过 $1 . 2 \\mathrm { m }$ 望远镜出射的激光光斑的相关数据，如：出射激光在漫反射屏上的光斑图样、能量计采集到的能量值。利用获取到的CCD光斑图像以及能量计采集到的光斑相应区域的能量值，进一步分析计算：光斑能量密度空间分布 $I _ { n } ( r )$ 、光斑尺寸大小 $\\mathbf { \\sigma } _ { \\omega }$ 与质心分布 $( { \\overline { { X } } } , { \\overline { { Y } } } )$ 、激光的发散角大小（204号 $2 \\theta _ { m e a }$ 、激光在经过 $1 . 2 \\mathrm { m }$ 望远镜系统以及大气传输的能量传输效率 $\\eta$ 等参数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中为了光斑数据采集的准确性，漫反射屏的漫反射特性要满足理想漫反射体特性或者高度接近理想漫反射体特性,其漫反射光的发光强度的空间分布满足余弦定理：即当入射光与漫反射屏的法线方向夹角不太大时，与漫反射屏法线成任意角度 $\\theta$ 方向的漫反射光的发光强度 $I _ { \\theta }$ 与 $\\cos \\theta$ 成正比[4]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\theta } = I _ { N } \\times \\cos \\theta\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $I _ { \\scriptscriptstyle N }$ 为漫反射屏法线方向的漫反射光的发光强度， $I _ { \\theta }$ 为与漫反射屏法线成任意 $\\theta$ 方向的漫反射光的发光强度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由此可知，发光强度向量端点轨迹是一个与发光面相切的球面，球心在法线上面，球的直径为 $I _ { \\scriptscriptstyle N }$ ，其在通过法线的任意截面内的发光强度分布如图²所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d62a04e79e3d1f521759cd5c3366d041100db2eb55e3d2b2cc0f469f856f62e4.jpg",
+        "img_caption": [
+            "图1CCD漫反射成像法原理图",
+            "图2余弦辐射体的漫反射特性",
+            "Fig.2Cosine radiator diffuse reflection characteristics "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而与漫反射屏法线成任意 $\\theta$ 的方向上发光亮度 $L _ { \\theta }$ 为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { \\theta } = \\frac { I _ { \\theta } } { d A \\cos \\theta } = \\frac { I _ { N } \\cos \\theta } { d A \\cos \\theta } = \\frac { I _ { N } } { d A } =\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由上式计算结果可知，理想漫反射体的漫反射光在各个方向上发光亮度是个定值，也就是说，当激光入射到理想漫反射体发生漫反射后，其漫反射光场的分布就是确定的，再通过CCD 相机采集其漫反射光的光斑图样，能量计实时记录光斑对应区域的激光能量，即能准确测量出射激光的光斑能量分布。一般常用的漫反射体材料有硫酸钡涂层板，喷铝砂板，以及漫反射特性十分优异的聚四氟乙烯板等。经过多方比较考量，定制一块 $1 . 2 \\mathrm { m }$ 其漫反射率达到 $9 8 \\%$ 的喷聚四氟乙烯的漫反射板，经过检测其漫反射特性十分优异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "而在能量定标的设计上，在关闭CCD相机自动增益控制以及设置相机较大的信噪比以后，相机采集到的光斑图样的灰度值与激光光强呈线性关系[5]。因此设计在漫反射屏上开一个与能量计大小相同的孔放置能量计。通过USB数据线将其连接到计算机上，实时的采集同帧幅光斑图像对应区域的能量值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "另外，设计激光与漫反射屏法线方向成较小的角度入射的方式，是在满足漫反射光场分布不变的情况下，使漫反射屏与CCD相机的光轴相垂直，光斑经过相机镜头成像以后，减小其成像光斑的形状畸变以及能量畸变。减少后期光斑图像处理所带来的测量误差，提高其测量精度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.漫反射法测量系统",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "激光光斑测量系统由激光发射装置、光斑测量装置、以及后期的图像分析系统构成，其中激光发射装置由高能固体激光器、准直扩束光路、以及 $1 . 2 \\mathrm { m }$ 发射望远镜组成。本次试验中固体激光器的性能参数、以及发射望远镜的光学参数如表1、表2所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/15c585f2dab61607fdcc1a5ccfa547c79fad462c4b4704219dc631f38b251ff3.jpg",
+        "table_caption": [
+            "Tab.1 High-energy solid laser parameters ",
+            "表 $2 1 . 2 \\mathrm { m }$ 望远镜主副镜光学参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Wavelength</td><td>Frequency</td><td>Pulse width</td><td>Power</td><td>Divergence</td><td>Spot radius</td></tr><tr><td>λ/nm</td><td>f/Hz</td><td>△t/ns</td><td>P/w</td><td>angle</td><td>@ /mm</td></tr><tr><td></td><td></td><td></td><td></td><td>0/mrad</td><td></td></tr><tr><td>532</td><td>10</td><td>10</td><td>32</td><td>0.5</td><td>10</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/108c5562f22253cb55aa32050697798e728c9be5486c7ba3ee9f76765f48c3ff.jpg",
+        "table_caption": [
+            "表1高能固体激光器性能参数",
+            "Tab.2Optical parameters of $\\mathbf { 1 . 2 m }$ telescope "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Primary mirror</td><td>Focal length of</td><td>Secondary mirror</td><td>Focal length of</td><td>Magnification</td><td>Shielded ratio</td></tr><tr><td>effective diameter</td><td>Primary mirror</td><td>effective diameter</td><td>Primary mirror</td><td>f'p/f's</td><td></td></tr><tr><td>Dp/mm</td><td>f/mm</td><td>D/mm</td><td>f'/mm</td><td>-7.5</td><td></td></tr><tr><td>1060</td><td>1800</td><td>150</td><td>240</td><td></td><td>14.15%</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "激光经准直扩束光路一级扩束，再经望远镜主副镜二级扩束后出射，漫反射屏漫反射激光到CCD相机镜头，同时，能量计实时采集光斑相应区域能量。整套激光光斑测量装置由漫反射屏、能量计、相机镜头、CCD相机、三脚架、滤光片、衰减片以及数据处理计算机构成，其结构示意图如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/df5c3c500e642176877d177d441d291e889ea4be3d7dc8d986324410b78f3e4d.jpg",
+        "img_caption": [
+            "图3激光测量装置结构示意图",
+            "Fig.3Measurement system structure of intense laser "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中漫反射屏用来漫反射出射激光，并使漫反射光的光场分布近似满足余弦定律。漫反射屏是由聚四氟乙烯板构成，近似理想的漫反射体，其漫反射率可达 $9 8 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "能量计用来实时采集光斑相应区域的能量值，给光斑图像的灰度值实现定标作用。其波长测量范围为 $0 . 1 9 \\mu \\mathrm { m } - 1 2 \\mu \\mathrm { m }$ ，能量测量范围为 $1 2 \\mathrm { u J } { - 2 0 } \\mathrm { m J }$ ，最大可承受平均功率为4W，最大可承受能量密度为 $5 0 0 \\mathrm { m J } / \\mathrm { c m } ^ { 2 }$ (10ns， $5 3 2 \\mathrm { n m } )$ ，其靶面直径为 $1 0 \\mathrm { m m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相机镜头使光线聚焦在CCD像面上，使光斑图像成像清晰，镜头采用标准C口，其焦距$8 \\mathrm { m m } { - } 2 8 \\mathrm { m m }$ ，手动可调；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CCD相机用来接收经相机镜头聚焦的光斑图像，并将采集到的光斑图像通过USB数据线传输到计算机中。本次测量实验所使用的的CCD相机其传感器尺寸为2/3”，其分辨率为$1 9 3 6 \\times 1 4 5 6$ ，AD转换位数为14bit，且采用逐行扫瞄的方式，其最高帧频可达到40fps;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "滤光片采用以 $5 3 2 \\mathrm { n m }$ 为中心波长、带宽为 $2 0 \\mathrm { n m }$ 的吸收式滤光片，滤除其他波长的杂散光；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "衰减片采用不同衰减倍率相组合的方式，衰减经过滤光片滤光后的强激光，防止进入相机的光强过大，导致CCD过曝。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.光斑数据的采集与分析处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过上述设计的激光光斑测量装置采集 $1 . 2 \\mathrm { m }$ 望远镜出射的激光光斑数据，并通过相应的图像处理软件对其进行分析处理，获得出射激光的相关特征参数，如：激光光斑尺寸大小 $\\pmb { \\omega }$ ，能量密度分布 $I _ { n } ( r )$ 、发散角大小 $2 \\theta _ { m e a }$ 乃至能量传输效率 $\\eta$ 等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于激光光束在经过大气传输的过程中会受到大气湍流的影响，尤其是在近地面附近，湍流效应较为明显。如：光束扩展、光斑抖动和光斑质心分离等现象，使得采集到的光斑形状不规则，且存在明显的明暗区域，这些对激光光斑特征信息的测量会产生较大的影响[7]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此对采集到的光斑数据进行分析处理之前，需要对其进行相关预处理，如：图像背景噪声的去除等等。经过预处理以后，对图像的处理才能准确的反映光斑的特征参数[8]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1测量数据处理方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）光斑强度空间分布 $I _ { n } ( r )$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "光斑强度的空间分布是由所有像元的灰度值所对应的光强 $I _ { ( x , y ) }$ 决定，设t时刻第 $n$ 个探测区域的灰度值对应的光斑强度为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { n } ( r ) = K _ { n } [ G _ { n } ( r ) - G _ { n } ( a \\nu e r a g e ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { _ n } ( a \\nu e r a g e ) = \\frac 1 { M } \\sum _ { m = 1 } ^ { M } G _ { _ n } ( m )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $G _ { n } ( r )$ 为第r帧第 $n$ 个探测区域的瞬时光强对应的灰度值， $G _ { n } ( a \\nu e r a g e )$ 为第 $n$ 个探测区域的平均背景灰度值， $G _ { n } ( m )$ 为没有激光照射时的第 $m$ 帧的瞬时灰度值， $I _ { n } ( r )$ 为第r帧的第 $n$ 个探测区域的瞬时光强， $K _ { n }$ 为能量计实时记录的能量值对像元灰度值的定标系数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）光斑质心位置 $( { \\overline { { X } } } , { \\overline { { Y } } } )$ ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实际的光斑由于存在大气湍流的影响，会发生光斑扩展，光束抖动，光斑质心分离等现象，此时的光斑形心并不是光斑的强度中心（质心），此时需要用质心法计算光斑的强度中心。将整副光斑图像按照能量计大小所对应的像区域进行坐标划分，对应区域的灰度值也进行累加划分，此时质心为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { \\boldsymbol { X } } } = \\sum ( \\boldsymbol { X } _ { i } \\times \\boldsymbol { I } _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { Y } } = \\sum ( Y _ { i } \\times I _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $( { \\overline { { X } } } , { \\overline { { Y } } } )$ 为光斑质心， $( X _ { i } , Y _ { i } )$ 为对应区域的坐标， $I _ { i }$ 为对应区域的灰度值。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）光斑半径 $\\pmb { \\omega }$ ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选择圆形的光斑形状，采用光强的等强线来分割光强能量密度分布平面，光斑半径 $\\mathbf { \\sigma } _ { [ 0 ] }$ 大小是根据光强降低到中心光强的 $e ^ { - 2 }$ 时的光斑尺寸，设半径为@的光斑其环围的功率为 $P _ { \\omega }$ ，像面上总功率为 $P$ ，经过计算可得[5]：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { \\omega } = 0 . 8 6 5 p\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此时光斑半径 $\\omega$ 为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega = { \\sqrt { \\frac { 2 { \\sum I _ { i } } [ { ( X _ { i } - { \\overline { { X } } } ) } ^ { 2 } + { ( Y _ { i } - { \\overline { { Y } } } ) } ^ { 2 } ] } { \\sum I _ { i } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $( X _ { i } , Y _ { i } )$ 为对应区域的坐标， $( { \\overline { { X } } } , { \\overline { { Y } } } )$ 为光斑的质心坐标， $I _ { \\ i }$ 为对应区域的灰度值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（4）激光发散角 $2 \\theta _ { m e a }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 \\theta _ { { m e a } } = \\frac { 2 ( \\omega - \\omega _ { t e l e s c o p e } ) } { L }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\omega$ 为测量所得的光斑半径， $\\omega _ { t e l e s c o p e }$ 为出射激光在望远镜处的光斑半径， $L$ 为激光传输距离。由于大气湍流的影响，实际的光斑会发生光斑扩展，光束抖动等现象，从微观的角度上看，大气湍流可以看作为激光传输路径上的许多相干长度为 $r _ { 0 }$ 的楔镜，光束会在楔镜上发生衍射，使得光束扩展。光束扩展的角半径为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { d } = 1 . 2 2 { \\frac { \\lambda } { r _ { 0 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\lambda$ 为激光波长， $r _ { 0 }$ 为激光传输过程中大气相干长度，云南天文台所在台址的大气相干长度约为 $1 0 \\mathrm { { c m } }$ ，考虑到激光传输是在近地面斜程传输，其大气湍流受温度影响较竖直传输更为剧烈，其相干长度约为8cm[9][10]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因此激光在大气传输中，测量到的光斑理论发散角为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 \\theta _ { _ { t h o d } } = 2 \\sqrt { \\theta _ { e m i t } ^ { 2 } + \\sigma _ { d } ^ { 2 } } = 2 \\sqrt { \\theta _ { e m i t } ^ { 2 } + ( 1 . 2 2 \\frac { \\lambda } { r _ { 0 } } } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $2 \\theta _ { t h o d }$ 为激光经过大气湍流后的理论发散角， $2 \\theta _ { e m i t }$ 为激光经望远镜出射的发散角。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（5）平均功率密度 $\\boldsymbol { I } _ { a \\nu e }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal I } _ { \\phantom { } _ { a \\nu e } } = \\frac { P _ { \\omega } } { \\pi \\omega ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { \\omega }$ 为光斑半径为 $\\omega$ 所包围的实际能量大小， $\\omega$ 为实测的光斑半径。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（6）传输效率 $\\eta$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta = \\frac { P _ { \\omega } } { P _ { l a s e r } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { \\omega }$ 为光斑半径为 $\\omega$ 所包围的实际能量大小， $P _ { l a s e r }$ 为激光器的出射能量值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 能量系数定标 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在关闭CCD 相机的自动增益控制以及将γ校正设置为1以后，测量到的光斑图像的灰度值与光斑强度呈线性关系[]。在漫反射屏上安装一个口径为 $1 0 \\mathrm { m m }$ 的能量计，实时采集漫反射屏上能量计对应的像区域接收到的能量。再根据物象成像关系，口径为 $1 0 \\mathrm { m m }$ 的物",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在像面上所成的像由多少个像元组成，然后以能量计的像元数量为基准对整个光斑图像进行像元划分。又因为能量计的像区域的所有像素灰度值为全黑，用等环围面积像元的灰度值总和等价为能量计像区域的灰度值总和[12]，如图4所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta = \\frac { f ^ { \\prime } } { L _ { o d } } = \\frac { n l _ { p i c } } { l _ { a p e r } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中：f'为CCD相机的焦距，Lod为漫反射屏距离CCD相机的物距，lpic为像元大小，laper为能量计的口径。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "O ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "选择合适的 $f ^ { \\prime }$ 以及物距 $L _ { o d }$ ，在已知像元大小 $l _ { p i c }$ 与能量计口径 $l _ { a p e r }$ 的情况下，可得到能量计口径 $l _ { a p e r }$ 为 $1 0 \\mathrm { m m }$ 对应的像元数量n，并以此为基准将光斑图像划分为N个区域。用等环围面积像元的灰度值总和等价为能量计像区域的灰度值总和，进而可以对其他N-1个区域的灰度值进行能量定标。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过采集20组能量计的读数以及对应20组能量计像区域的等价灰度值总和，取平均值，进而得到其定标系数 $K _ { n }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3实验数据处理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用上述设计的激光光斑测量装置对望远镜出射的激光光斑特性进行了相关测量，望远镜口径 $D$ 为 $1 . 2 \\mathrm { m }$ ，相关参数如表1所示，传输距离 $L$ 为 $2 0 2 \\mathrm { m }$ ，激光器输出的最大脉冲能量为3.2J，相关参数如表2所示，CCD相机曝光时间为 $5 0 \\mathrm { m s }$ ，采集频率为 $2 0 \\mathrm { { H z } }$ ，设置采集时长为125s，采集帧频为2500帧。此时，采集到的原始图像如图5所示：根据公式（3）～（13）对采集到的光斑图像利用软件进行分析处理，图6是处理后的光斑图像，图7是数据处理软件处理成功后的光斑数据，图8是光斑从望远镜中心到边缘的能量密度三维分布图，图9是以图像左上角为坐标原点，光斑的能量密度分布归一化灰度值图。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c8f5dc8c43bb2b44793caaca55519b559755b9f6bd873a55f8110fc1d63e5a4.jpg",
+        "img_caption": [
+            "图5原始光斑图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1372fc3598c03755ad6c86b34f40738038c3ce0740e16655344a346ccdc0240.jpg",
+        "img_caption": [
+            "Fig.5Original laser spot image ",
+            "图6去除背景噪声的光斑灰度图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/56b23ffaa924f36296f63a8ab5ea100c1edaeb657ebfb49fdffe48b701e9a11a.jpg",
+        "img_caption": [
+            "Fig.6Grayscale image of flare with background noise removed ",
+            "图7光斑灰度图像的质心分布Fig.7The Center mass of Spot image"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/58a193dbed7c3cc65128f0907fe09644e557b4cd6262dfc56b96717017032480.jpg",
+        "img_caption": [
+            "图8光斑能量密度分布三维显示"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/11c1e0f7277244b409ee220033161a7cf53890975bb6d2edd488adc53a537e4b.jpg",
+        "img_caption": [
+            "Fig.8Three-dimensional display of laser spot energy density distribution ",
+            "图9 能量密度分布归一化灰度值",
+            "Fig.9Normalized gray value of energy density distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "上述图5是出射激光光斑的原始图像，由于望远镜副镜的遮挡以及激光传输过程中树木的遮挡，激光光斑的中心区域与部分边缘缺失，在图5中，中心区域上方的黑色圆点即是安装能量计的位置。图6是在matlab中去除背景噪声前后的光斑灰度图像。图7是根据公式（5）\\~（6）处理后的光斑质心；再根据公式（7）\\~（14），利用matlab 可计算出光斑直径为 $9 7 4 \\mathrm { m m }$ 光斑总能量为 $1 2 . 5 0 6 \\mathrm { J }$ 。由此可计算出此时光斑尺寸 $\\omega$ 为 $4 8 7 \\mathrm { m m }$ ，激光理论发散角约？ $2 \\theta _ { t h o d }$ 为$3 . 1 2 ^ { \\prime \\prime }$ ，实测发散角 $2 \\theta _ { m e a }$ 约为 $3 . 9 6 ^ { \\prime \\prime }$ ，激光在目标靶的平均能量密度分布为 $1 . 6 7 9 6 \\mathrm { m J } / \\mathrm { c m } ^ { 2 }$ ，平均功率密度分布 $I _ { \\mathit { a } \\nu e }$ 为 $1 1 . 0 4 6 7 \\mathrm { u W / c m } ^ { 2 }$ ，以及激光的能量传输效率 $\\eta$ 为 $3 7 . 6 \\%$ 。图8为光斑能量密度从中心到边缘的三维分布图，中心部分由于副镜遮挡导致光强几乎为0。图9是以光斑图像左上角为坐标原点到光斑边缘位置，光斑能量密度分布的归一化灰度图。由于距离图像坐标原点 $5 0 0 \\mathrm { m m }$ 左右的位置处是被望远镜副镜遮挡的中心区域，所以图像此处的灰度值近乎为全黑且灰度曲线变化十分陡峭。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在整个光斑测量过程中，由于存在这一系列的实验误差，影响着最终测量结果的精确度。经分析可知，误差来源主要来自以下几个方面：光斑测量装置的误差；其次，在外场进行试验时，实验环境的视宁度较差，对大气相干长度 $r _ { 0 }$ 的测量精度不够带来的误差；最后对实验数据进行数字图像处理时，对背景光的滤除以及对灰度值的分级带来的误差。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "根据上述实验结果可知，采用漫反射CCD成像法来测量激光光斑特性参数的方法是可行的，且其测量精度高，响应速度快。利用此方法能精准的测量出经云南天文台 $1 . 2 \\mathrm { m }$ 望远镜出射激光的光斑特性参数，如：能量密度空间分布 $I _ { n } ( r )$ 、光斑尺寸 $\\mathbf { \\dot { \\omega } } _ { \\mathrm { ~ \\tiny ~  ~ } } \\mathbf { \\omega } _ { \\mathrm { ~ \\tiny ~  ~ } }$ 、发散角大小 $2 \\theta _ { m e a }$ mea、激光的能量传输效率7以及激光在目标靶的平均功率密度分布 $I _ { \\mathit { a } \\nu e }$ 等。其测量的光斑数据证实了本激光测距系统工作状态正常，为云南天文台能顺利开展月球激光测距实验打下技术基础；同时，本实验所设计的激光光斑特性测量方法可以为后续进一步改善激光发射系统性能或压缩激光发散角提供检测技术支持。进而使激光测距系统能够探测到距离更远，尺寸更小的空间目标。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] 张立．激光光斑测量系统[D].西安电子科技大学,2010, $5 \\sim 1 3$ 车  \n[2] 庞淼．小型化大口径激光强度时空分布特性测量系统[D].电子科技大学,2009,3～22  \n[3] 易琮,李晨,杨建昌,李鉴.CCD摄像法测量激光近场光斑能量的研究[J].光电子技术,2018,38(04):282-285.  \n[4] 郁道银,谈恒英.工程光学.北京：机械工业出版社,2016, $7 9 \\sim 8 7 .$ （2  \n[5] 苏毅,万敏.高能激光系统.北京：国防工业出版社,2005,206～223.  \n[6] 李语强，李祝莲，伏红林，郑向明，何少辉，翟东升，熊耀恒.空间碎片漫反射激光测距试验[J].中国激光,2011,38(09):160-164.  \n[7]李艳娜，唐力铁，谢翔云,尹飞，于志闯，沈丽娟.固体激光远场瞬时光斑时空分布测量技术[J].红外与激光工程,2016,45(08):189-195.  \n[8]Pang Miao,Zhou Shan,Wu Juan,et al.Research on scattering sampling and atenuating in measurement of laserintensity distribution [J]. Infrared and Laser Engineering,2013,42(12): 213-217.  \n[9］周丹．近地面大气湍流特性的研究[D].中国科学院研究生院（云南天文台）， $2 0 0 2 , 3 { \\sim } 2 5$   \n[10] 钱铜铃，玉兰，尚琼珍,李景谦，许骏，岑学奋.云南天文台大气视宁度观测和初步探讨[J].云南天文台台刊,1996(S1) :57-63.  \n[11]Huang Jipeng，Wang Yanjie,Sun Honghai，etal.Preciseposition measuring system for laser spots[J].Opticsand Precision Engineering，2013，21(4):841-848.  \n[12］李钟敏,张海庄，赵纲,刘志林，吕嵩.CCD 摄像法测量激光远场光斑中图像校正和能量修正算法研究[J].光学与光电技术,2011,9(02):19-21.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Research on Measurement Method of Laser Spot Characteristics ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Wan Fan12， Tang Rufeng1.2， Zhai Dongsheng’，Su Xiangze1,²， Zhao Chuangchuang1.2 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Li Yuqiang1 , ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1.Yunnan Observatories,Chinese Academy of Science，Kunming65O216,China 2.University of Chinese Academy of Science,Beijing 1Ooo49,China ） ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract : The quality of the laser spot in the satellite laser ranging system is related to the success of the ranging,and the characteristics of the real laser spot emited by the telescope is particularly important.In order to accurately measure the characteristics of the laser spot emitted through the telescope,the author presents a method for measuring laser spot characteristics.At first, the laser is irradiated on a diffuse reflection screen at a certain distance.Then we use a CCD camera to receive the diffuse reflection image of the laser spot.At the same time,we use the energy meter installed on the diffuse reflection screen to record the laser energy in the corresponding area of the spot.Finally，the CCD image of the laser spot and the energy distribution of the corresponding area of the spot are combined,which was analyzed and calculated the relevant characteristic parameters of the laser spot.In this paper,the measurement principle, experimental scheme and data processing method of laser spot are given in detail,and based on the measured data,the parameters such as the laser spot radius, divergence angle,and average energy density distribution, etc emitted by the telescope were calculated accurately.Experimental results show that this measurement method has the advantages of high measurement accuracy, fast response speed,simple operation,and easy control.Therefore,this measurement method has important application prospects in laser spot measurement. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Measurement method; Laser spot; CCD imaging; Diffuse reflection; Laser spot radius; Divergence angle ",
+        "page_idx": 10
+    }
+]

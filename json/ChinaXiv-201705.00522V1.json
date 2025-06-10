@@ -1,0 +1,145 @@
+[
+    {
+        "type": "text",
+        "text": "Thermally-stable resistive switching with a large ON/OFF ratio achieved in poly(triphenylamine)† ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wenbin Zhang,≠abc Cheng Wang,‡d Gang Liu,\\*ac Xiaojian Zhu,ac Xinxin Chen,ac Liang Pan,ac Hongwei Tan,ac Wuhong Xue,ac Zhenghui Ji,ac Jun Wang,b Yu Chen\\*c and Run-Wei Li\\*ac ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Thermally stable poly(triphenylamine) (PTPA) synthesized by an oxidative coupling reaction is used as the functional layer in memory devices,which exhibit non-volatile bistable resistive switching behavior with a large ON/OFF ratio over $5 \\times 1 0 ^ { 8 }$ .a long retention time exceeding $\\mathsf { \\pmb { 8 } } \\times \\mathsf { \\pmb { 1 0 } } ^ { \\mathsf { \\pmb { 3 } } }$ s and a wide working temperature range of 30-390 K. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Taking full advantage of the low cost, light weight, optical transparency and mechanical flexibility,polymer memories are considered aspromising candidates to revolutionize the field of information storage technology.1-4 One of the major remaining issues that hinders the practical application of polymer memories is their thermal degradation，which may arise from the field-induced oxidation of the organic semiconductors,changes in the crystal structure or the morphology of the thin films,or the peeling off of the functional layers from the substrates.' The optimization of the memory performance,the ON/OFF ratio，in particular，has attracted equal attention from the academic communities.6 To be specific,a large ON/OFF ratio between the high and low conductivities presents a great benefit as it not only enables the reliable retention of the device states,but also simplifies the periphery circuit to distinguish the stored information. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Great efforts have been devoted to make these happen.For instance, thermally stable aromatic polyimides and polyamides have been used to construct memory devices with excellent thermal and chemical stability.\" Several approaches, including the covalent attachment of carbon nano-materials to the polymer structures,’ inclusion of metal-containing species,10 and tuning of the donor-acceptor interaction11 have also been proposed to enhance the performance of polymer based memory devices. However,it is still a pending challenge to achieve the promising thermal stability，non-volatility and a large ON/OFF ratio in a memory polymer simultaneously at the moment.In this contribution,we report the use of a thermally-stable conjugated polymer of triphenylamine (PTPA) to achieve a large ON/OFF ratio in memory devices.Triphenylamine based macromolecules are selected because the unpaired electrons on the nitrogen atoms can be easily removed from the backbone to provide a stable cationic conducting pathway,1² while the carbon-rich aromatic structure makes them thermally more stable.13 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Poly(triphenylamine) was synthesized through a one-step oxidative coupling of the TPA molecules with ferric chloride as the oxidizing agent (see Scheme S1 in the ESIt).An illustrative dendrimeric structure of the as-received PTPA is shown in Fig.1a. Other linear or branched structures of PTPA are also possible.Besides, the successful synthesis of PTPA is further confirmed by the ${ } ^ { 1 } \\mathrm { H } ~ \\mathrm { N M R } ,$ （20 FTIR,EDX and elemental analysis (Fig. S1 and S2, $\\mathrm { E S I \\dag }$ ).Thebulky and three-dimensional triphenylamine units promise PTPA polymers good solubilities in many organic solvents including chloro benzene,toluene,N,N-dimethylformamideanddimethylsulfoxide. Nevertheless,thermogravimetric analysis and differential scanning calorimetry suggest that PTPA exhibits excellent thermal stability,as the polymer neither shows any glass transition until heating up to $4 5 0 ^ { \\circ } \\mathrm { C }$ ,nor decomposes until $5 8 8 ^ { \\circ } \\mathrm { C }$ (Fig. S3,ESIt). An optical band gap of the polymer, $3 . 0 7 \\ \\mathrm { e V } \\left( E _ { \\mathrm { o p } } \\right)$ ,is estimated from the optical absorption edge of the UV-visible absorption spectrum (Fig. S4, ESI†).The electrochemical properties of the PTPA film are explored in the cyclic voltammetry measurement (Fig. S5, $\\mathbf { E S I \\dagger } _ { \\mathbf { \\Phi } _ { \\ast } } ^ { \\mathbf { \\dot { \\mathbf { \\alpha } } } }$ ) and the highest occupied molecular orbital (HOMO) and the lowest unoccupied molecular orbital (LUMO) energy levels are derived to be $- 5 . 2 7 \\ \\mathrm { e V }$ and $- 2 . 2 0 \\ \\mathrm { e V }$ ,respectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The resistive switching characteristics of the Ta/PTPA/Pt devices are shown in the current-voltage $\\left( I { - } V \\right)$ curve of Fig.1b,which distinctly display bistable resistance states and the non-volatile memory effect.At first, tantalum was used as a top electrode to fabricate the capacitor-type devices.As estimated from Fig.1b, the initial resistance of the PTPA9o device is $\\sim 2 . 5 \\times 1 0 ^ { 1 0 } \\Omega$ which can be defined as the OFF state of a memory device. When the voltage is sweeping from $_ { 0 \\mathrm { ~ V ~ } }$ to $- 0 . 5 5 \\mathrm { ~ V ~ }$ ，anabrupt increase of the device current to the magnitude of the preset compliance current (CC, ${ { 1 0 } ^ { - 2 } }$ A) is observed,indicating that the device has transited from the OFF state to the ON state.This OFF to ON transition serves as the“Set’or“Write”process for a memory device,with an ON/OFF ratio as high as $5 \\times { 1 0 } ^ { 8 }$ .It is noteworthy that sucha large ON/OFF ratio is beneficial for the differentiation of the stored information,and is useful to lower the misreading rate in practical applications.An even larger ON/OFF ratio can be achieved by further increasing the preset CC level $\\left( 1 0 ^ { - 1 } \\mathbf { A } \\right)$ ,which also indicates the bipolar switching nature of the PTPA memory devices (Fig. S6,ESIt).² The device stays at the ON state after removing the power supply, suggesting the non-volatile characteristics of the resistive switching of the Ta/PTPA/Pt structure. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/47414a66bc3b1be5a2769654cbf955c5672d6d11b43e7a248d4ed7e868f4c109.jpg",
+        "img_caption": [
+            "Fig.1（a)Posibmolecuaructurefadhaticilstratif/mmevce.(botmpeatureu characteristics and retention capability of the Ta/PTPA/Pt structured devices. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A reverse sweeping voltage of $0 . 5 \\mathrm { V }$ can reprogram the device to the initial OFF state, serving as the“Reset\"or“Erase”process of a rewritable memory.Therefore,binarydigital data can be encoded as‘ $\\mathbf { \\cdot } _ { 0 } \\mathbf { \\cdot } \\mathbf { \\cdot }$ and “1”in respect of the conductance (or resistance) response of the polymer device to the external electric field. The set voltage of the memory devices shows a linear dependence on the PTPA film thickness (Fig. S7,ESIt),indicating the fieldinduced nature of the observed resistive switching behavior. The threshold switching field for the PTPA memory devices is estimated to be $\\sim 2 2 ~ \\mathrm { M V ~ m } ^ { - 1 }$ . Nevertheless,the reset voltages of all the devices remain almost constant,which suggests the Joule-heating induced resetting process in the polymer films. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to address the reliability of the memory device, the endurance and retention performance were further examined in the TA/PTPA/Pt structure.Fig. S8 $\\left( \\mathrm { E S I \\dag } \\right)$ displays the evolution of theresistancevaluesof thewell-resolvedHRSandLRSin the first 117 switching cycles,which were read at $_ { 0 . 1 \\mathrm { ~ V ~ } }$ in each voltage sweeping.Althougha slight fluctuation of the resistance in the ON or OFF state can be observed, the ON/OFF ratio remained over ${ 1 0 } ^ { 8 }$ during the cyclic switching operation. The device resistance as a function of the retention time in both ON and OFF states is also shown in Fig.1b.No significant degradation of either state is observed until 8ooo s after setting or resetting the device with a voltage pulse of $- 2 \\mathsf { V } / 1 \\mathsf { V }$ ,respectively,again confirming that both the polymer and the electrode/polymer interfaces are stable in an ambient environment. It is expected that upon proper encapsulation, the performance of the Ta/PTPA/Pt device can be further improved. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The thermal stability of the memory performance was also explored by monitoring the $I { - } V$ characteristics of the PTPA90 device under different temperatures in vacuum (Fig.2).Reproducible resistance switching between the ON and OFF states has been observed in the temperature range of $3 0 ~ \\mathrm { K }$ to $3 9 0 \\mathrm { K } ,$ which isreally rare in organic memory materials.14 Thus, the common thermal degradation problem of organic electronic devices has been avoided in the present thermally-stable triphenylamine polymer.The slightly reduced ON/OFF ratio along with the increase in the sampling temperature reveals that the ON state device behaves asa metallic conductor,while the OFF state device is a semiconductor (Fig. S9, $\\mathrm { E S I \\dag }$ ).The decrease of the reset voltages,again,suggests that the switching behaviors of the PTPA devices are thermallyactivated (Fig. S1o,ESIt).When the device was tested in air,only minor fluctuation in the switching voltage was observed (Fig. S11, $\\mathrm { E S I \\dag } \\$ 一 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To better understand the electronic process occurring inside the thin film, computational studies on the charge density isocontour surface and molecular orbital energy levels of the triphenylamine (TPA) molecule were performed using the Gaussian O9 program package and density functional theory (DFT) calculations at the B3LYP/6-31G(d) level.15 As depicted in Fig. 3, the absence of electron-accepting species in the TPA molecules leads to partial overlapping of and a facile electron transition between the HOMO and LUMO in the arylamine unit of the polymer.Under the stimulation of an external electric field,electrons excited from the HOMO into the LUMO of PTPA will get easily removed from the polymer,resulting in a cationic conducting pathway in the thin film and switching the device to the ON state.The vacancy in the HOMO can be partially compensated by electrons from HOMO-1,which stabilize the excited state of the polymer and lead to the non-volatile nature of the observed resistive switching in PTPA memory devices. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d252d7fd9ce4c1aa444f3cfbeac8936cdaa14e7f631ce6d53ba56848c7f154e.jpg",
+        "img_caption": [
+            "Fig.2 Temperature-dependent current-voltage characteristics of the Ta/PTPA90/Ptdevice. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b442e3be7c852361e19879a8e857bc8b1686bd1b7b2de1107c9b876960ec8851.jpg",
+        "img_caption": [
+            "Fig.3(upper) Molecular orbitalsand (lower) the plausible transition mechanism illustrated with the basic unit of PTPA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "By carrying out in situ conductive atomic force microscopic (C-AFM) measurements,it is found that the resistive switching and thus the electron transfer processes in the ultra-smooth PTPA film (Fig. 4a) show an interesting filamentary nature. Pristinely in the high resistance state,no obvious leakage current can be observed below 3V (Fig.4b).When the applied voltage has been increased to $- 6 { \\mathrm { ~ V ~ } }$ ,multiple conductive spots appear in the C-AFM map,which implies that the PTPA film undergoes an electrical transition from the OFF state to the ON state (Fig. 4c). The diameters of the conductive areas vary from about $3 0 ~ \\mathrm { { n m } }$ to $5 0 ~ \\mathrm { n m }$ . By probing into a single conductive spot, $I { - } V$ characteristics demonstrating an abrupt modulation similar to that of the Ta/PTPA/Pt devices is also observed (Fig. 4d).As the location, size and numbers of the formed conductive filaments are random, minor fluctuation of the device resistance during cyclic switching operations,as shown in Fig. S8 $\\bigl ( \\mathrm { E S I \\dag } \\bigr )$ ,isthereforereasonable. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eecfda2a0e9e03f53d118a1d34863703485507111f9b311d442c25401ece23ee.jpg",
+        "img_caption": [
+            "Fig.4(a) AFM image of the PTPA film with a scanning size of $2 \\times 2 \\ : \\mu \\mathrm { m } ^ { 2 }$ (b) and (c) Current mapping upon being subject to voltages of $3 \\vee$ and $6 \\vee ,$ respectively.(d) Current-voltage characteristics of a conducting filament. Inset of (d):a schematic setup for C-AFM measurement. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In summary,thermally-stable poly(triphenylamine) has been synthesized for memory applications.The PTPA device exhibits excellent non-volatile bistable resistive switching behavior with a long retention time over ${ \\boldsymbol { 8 \\times 1 0 } ^ { 3 } \\mathrm { \\ s } }$ ,superior ON/OFF ratio of $5 \\times { 1 0 } ^ { 8 }$ and a wide working temperature range of $3 0 { - } 3 9 0 ~ \\mathrm { K } .$ The excellent resistive switching behavior can be ascribed to the formation of localized cationic conducting pathways in the polymer films. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the State Key Project of Fundamental Research of China (973 Program,2012CB933004),National Natural Science Foundation of China (11274321， 51303194, 61328402,51333002,21074034), the Youth Innovation Promotion Association of the Chinese Academy of Sciences,Ningbo Science and Technology Innovation Team (2011B82004)，and Ningbo Natural Science Foundations (2013A610031). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Notes and references ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 Y.Ji,D.F.Zeigler,D.S.Lee,H.Choi,A.K.Y. Jen,H.C.Ko and T.W.Kim,Nat. Commun.,2013,4,7.   \n2 E.Kapetanakis,A.M.Douvas,D.Velessiotis,E.Makarona,P.Argitis, N.Glezos and P.Normand,Adv.Mater.,2008,20,4568;R.Waser, R.Dittmann,G. Staikov and K. Szot,Adv.Mater.,2009,21,2632.   \n3 C.W. Chu, J. Ouyang,H. H. Tseng and Y. Yang,Adv. Mater.,2005, 17, 1440.   \n4 Emerging research devices.In: International Technology Roadmap for Semiconductors (ITRs) 2005 edn 1-70 (Semiconductor Industry Association,International Sematech,Austin,TX,2005). 5K.Kuribara，H.Wang，N.Uchiyama，K.Fukuda，T.Yokota, U．Zschieschang,C.Jaye，D.Fischer，H.Klauk,T.Yamamoto, K.Takimiya,MIkeda,H.Kuwabara,T.Sekitani,Y.-L.Loo and T.Someya,Nat.Commun.,2012,3,723. 6Q.D.Ling,D.J.Liaw,C.X.Zhu,D.S.H.Chan,E.T.Kang and K.G.Neoh,Prog.Polym.Sci.,2008,33,91;L.Cheng-Liang and C.Wen-Chang,Polym.Chem.,2011,2,2169; B.Cho,S. Song,Y. Ji, T.W.Kim and T.Lee,Adv.Funct.Mater.,2011,21,2806. 7J.Chen,M.A.Reed,A.M.Rawlett and J.M.Tour,Science,1999, 286,1550. 8 T.Kurosawa,C.C.Chueh,C.L.Liu,T.Higishihara,M.Ueda and W.C.Chen,Macromolecules,2010,43,1236;H.J.Yen,C.J.Chen and G.S.Liou,Adv.Funct.Mater.,2013,23,5307. 9C.J.Chen,J.H.Wu and G.S.Liou,Chem. Commun.,2014,50,4335.   \nl0 S.Choi,S.H.Hong,S.H.Cho,S.Park,S.M.Park,O.Kim and M.Ree,Adv.Mater.,2008,20,1766.   \n[1 K.L.Wang,G.Liu,P.H. Chen,L.Pan and H.L. Tsai, Org. Electron., 2014,15,322.   \nl2A.Kraft,P.L.Burn,A.B.Holmes,D.D.C.Bradley,R.H.Friend and J.H.F.Martens,Synth.Met.,1993,55,4163.   \nl3S.L.Li,X.P.Ai,H.X.Yang and Y.L.Cao,J.Power Sources,2009, 189,771.   \n[4 B. L. Hu, X. J. Zhu, X. X. Chen,L. Pan, S.S.Peng, Y. Z. Wu,J. Shang, G.Liu,Q.Yan and R.W.Li,J.Am. Chem.Soc.,2012,134,17408; S.Park,K.Kim,D.M.Kim,W.Kwon,J. Choi and M.Ree,ACS Appl. Mater.Interfaces,2011,3,765.   \nl5M.J.Frish,G.W.Trucks,H.B.Schiegel,G.E. Scuseria,M.A.Robb and J.R.Cheeseman,Gaussian O9,Revision A.O2,Gaussian Inc., Wallingford CT, 2009. ",
+        "page_idx": 2
+    }
+]

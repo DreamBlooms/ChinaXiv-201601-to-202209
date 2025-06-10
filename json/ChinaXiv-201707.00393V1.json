@@ -1,0 +1,489 @@
+[
+    {
+        "type": "text",
+        "text": "理论研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内外智库研究的可视化对比分析兼论我国智库发展的新趋势",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王晨 王嘉男",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "南京政治学院上海校区上海 200433",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：「目的/意义]智库作为国家软实力的象征，已被摆上了国家层面的战略地位。对国内外智库研究进行对比分析，对我国打造中国特色新型智库具有重要的借鉴和现实意义。［方法/过程]文章以关键词为侧重点，通过CitespaceII可视化软件对国际智库研究文献进行了可视化对比分析，并提出了我国智库发展的新趋势和新模式。[结果/结论]结果表明国外研究热点领域为政府治理、风险管控、科技创新和民生医疗，政策研究和医疗是近年来的研究前沿；国内研究的关键词则归为智库概念研究、国外智库研究和新型智库建设3类，其中中国特色新型智库的建设是国内关注的前沿。结合对国内外智库的可视化分析，本文对我国智库建设提出了：关注焦点从宏观政治转移至微观民生，组成结构从官方主宰拓展到官民共赢，运作模式从单一咨询向多方联合发展的3个转变，并构想了以高校智库为中心的“1+1”智库发展模式。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：智库知识图谱科学决策对比分析　转变分类号：G351DOI: 10.19318/j.cnki.issn.2096-1634.2016.05.03",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "智库（thinktank）是致力于公共政策研究并以影响公共政策制定为目的的研究机构。近年来，随着国际社会状况的日趋复杂以及知识服务的强力兴起，智库逐渐成为国家软实力和国际竞争力的象征，在学术研究、社会政策制定和国际关系问题等方面扮演着越来越重要的角色[1]。2015年1月中共中央办公厅和国务院办公厅联合印发《关于加强中国特色新型智库建设的意见》，意味着智库建设已经成为一项重要的国家战略。然而，由于我国20世纪80年代才开始涉猎现代智库领域的研究，相对国外落后了近20年，所以如何在国内外智库研究的基础上掌握目前智库整体发展状况，发现其规律、了解其特点，对我国打造中国特色新型智库具有重要的借鉴和现实意义。本文旨在通过可视化软件CitespaceⅢ对国内外知名学术资源数据库内有关智库研究的相关文献进行对比分析，结合中外智库发展的特点和趋势，为我国未来新型智库的建设提供经验支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文献数据获取",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国外数据库方面，选择WebofScience引文索引数据库核心合集（以下简称：WoS）作为数据分析来源。将检索式设定为主题 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （‘think tank”），引文索引范围为SCI、SSCI、A&HCL、CPCI-S以及CPCI-SSH，截至2016年4月1日共检索到相关",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王晨，王嘉男．国内外智库研究的可视化对比分析：兼论我国智库发展的新趋势[J].智库理论与实践，2016,1(5): 18-27.",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献 733篇[2]。在文献类型中对上述检索结果进行精炼，选择文献类型 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ (“Article or Proceedingpaper”），其余条件均为默认，经处理后共得到431篇相关文献。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内选择CNKI全文数据库为论文数据来源，在检索界面中将检索式设定为篇名 $\\ c = \\cfrac { \\cdot } { \\vert \\cdot \\vert }$ “智库”“思想库”或含“智囊团”，来源期刊类别为中文核心期刊和CSSCI，其中剔除会议通知、论坛讲话和简介等非学术性论文，截至2016年4月1日，经数据清洗后共得到相关文献 781篇[3]。在此基础上，将上述431篇外文文献同781篇中文文献作为本次可视化研究的样本数据进行统计分析，后续再通过CitespaceI分别对其进行合作机构、关键词热点领域及研究趋势等方面的可视化分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可视化结果分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用CitespaceI导出的知识图谱可以揭示出单凭个人知识积累无法直接获得的学科结构特征与发展态势，将科学文献的研究动态和趋势进行可视化展示，从而在此基础上做出相应的精细化分析[4]。与此同时，它还提供了突现词（burstterms）探测功能，用以揭示该学科领域的前沿发展趋势，并通过关键词聚类对文献所反映的重点领域进行总结和归纳[2.5]。基于本次研究的侧重点，本文主要选取样本文献中的关键词作为可视化分析的对象，从而对国内外智库研究领域内的热点问题和演进趋势做出总体性的分析与把握。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1国外智库发展可视化分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.1国外热点领域研究由于研究初期部分文献并没有列出关键词，因而笔者通过对相关文献的摘要进行归纳提炼得出具有代表性意义的关键词，以弥补样本文献可视化过程中的疏漏。在CitespaceI的国外数据项目的运行界面中，选择时间区域为1968年至2016年，节点类型为“Keyword”，阈值设定上从引文数量、共被引频次和共被引系数三个层次，按前中后三个时区分别设定为（2,2,20）（2,3,15）（2,3,15），其余参数按照默认设置。运行该项目文件后，共得到有112个网络节点和91条连线的关键词共现网络视图，调节网络视图相关参数进行优化后，如图1所示。另外，CitespaceⅢ还提供了中介中心度的概念作为网络节点重要性的参考，中介中心度测量了网络中一个节点在连接其他节点的路径上的重要程度[。国外高频关键词和高中介中心度关键词如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B,2016 11:48:08 PM CST nceldata -2016（Slice Cri   \ng: MST advocacy:ducation Cthink-tank think tanks Cphysicians G magnetic-resonance Crandomized-trial participation nuclear-cardiology metaanalysis foreign policy science surgery risk policy united-states discourse democracy Cpolitics children double-blind innovation governance disease bladdercancer Ctechnology Cqualityiof-life multiplesclerosis Cachieving qualitythinktank therapy · management Coveractivebladder O center think-tanKative care randomized controlled-trial safety drugdevelopdiagnosis biodiversity myocardial-infarction ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过对国外智库相关文献的研究与分析，结合高频与高中介中心度关键词统计表和关键词共现网络视图，笔者认为，除了直接相关的主题词“think tanks”“think tank”之外，国外现代智",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1国外高频与高中介中心度关键词统计表",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/69652099a1fabaa7e4b4f78d1ff51169cd4782aacf813d091d27be22ebd55fbd.jpg",
+        "table_caption": [
+            "Table 1 The statistics of foreign high-frequency and high-centrality keywords "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序号</td><td colspan=\"2\">高频关键词</td><td colspan=\"2\">高中介中心度关键词</td></tr><tr><td>关键词</td><td>频次</td><td>关键词</td><td>中介中心度</td></tr><tr><td>1</td><td>think tanks</td><td>23</td><td>quality-of-life</td><td>0.10</td></tr><tr><td>2</td><td>risk</td><td>12</td><td>therapy</td><td>0.10</td></tr><tr><td>3</td><td>policy</td><td>11</td><td>perspective</td><td>0.06</td></tr><tr><td>4</td><td>management</td><td>11</td><td>discourse</td><td>0.05</td></tr><tr><td>5</td><td>think tank</td><td>10</td><td>double-blind</td><td>0.05</td></tr><tr><td>6</td><td>children</td><td>8</td><td>review</td><td>0.05</td></tr><tr><td>7</td><td>science</td><td>8</td><td>safety</td><td>0.04</td></tr><tr><td>8</td><td>therapy</td><td>8</td><td>early diagnosis</td><td>0.03</td></tr><tr><td>9</td><td>United-States</td><td>7</td><td>myocardial-infarction</td><td>0.03</td></tr><tr><td>10</td><td>advocacy</td><td>7</td><td>risk</td><td>0.03</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "库的研究热点主要集中在“风险”（risk）、“政策”（policy）、“管理”（management）、“儿童”（children）、“科学”（science）以及“治疗”（therapy）等方向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "例如，在治疗（therapy）方面，国外智库研究会对医学上新的治疗途径进行探讨和选择，以决定新疗法是否能应用于临床，无论是政策制定者、研究人员，抑或是相关从业者对此都十分关注[7]。巴特尔斯（Bartels）等详细探讨了多伦多智库助力神经胶质瘤研究取得突破性进展，建设该智库旨在汇集政策、研究和领域相关者的多元力量，以应对医学上亟待解决的难题[8]。另外，儿童（children）健康状况观察是智库的又一重要工作[9。例如，近年来儿童肥胖率的持续上升引起了各部门的关注，门德尔松（Mendelson）指出需要各个行业和领域的专家和领导的持续投入，充分发挥智库在促进健康的生活方式中的重要作用[10]。总体而言，国外智库研究的热点领域较为分散。在对关键词进行聚类分析之后，从这些突出的研究热点可以归纳出，目前世界范围内，值得社会民众关注的几大领域主要是政府治理、风险管控、科技创新以及民生医疗。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 前沿主题研究变化Citespace Ⅲ软件内嵌的突现词（burstterms）探测功能能够将研究领域内前沿主题的演变以可视化的形式表现出来。在关键词共现网络的参数设置基础上，经测试，将阀值设定为（2，2，20）时效果最优，其余设置均保持不变[2-3]。从得到的初始图来看，2005 年以前文献关注点较为分散，没有出现突现词。因而，这里重新调整时间跨度为2005一2016年，将前沿主题的探索集中在近10年，运行项目后得到国外智库研究前沿的关键词时区视图如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图2中可以看到，进入21世纪以来，国外对智库领域的探索以2011年为分界线，在2011年之前主要关注对智库本身的质化研究以及国家层面在政治、经济、民主等方向上的宏观问题研究；自2011年开始，国外智库探索开始呈现出了全方位、多视角的研究格局，从科学技术到教育创新，从医疗诊断到国际问题研究，覆盖到了国家日常运转过程中所涉及到的方方面面[1I-12]。其中，在国际政策与合作、临床医疗这两类关乎国家和个人存亡的问题上所出现的相关突现词数量最多，例如“政策”（policy）、“美国”（UnitedStates）、“疾病”（disease）以及“诊断”（diagnosis）等等，并且在发文机构的排名中，名列前茅的也多是国际化的高校和高水平医院。结合发文量的变化和机构排名，这两个领域的研究也正是国外智库研究的前沿主题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在国际政策与合作方面，美国政府经常通过智库来测试新政策的影响，以此提高政策的可行性，同时降低政策的风险性。智库还是国外领导人和高级官员的对外沟通平台，例如对外关系协会已经成为很多国外领导人的必访之地。另外，值得一提的是，国外的智库研究近年来不断“扩",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "王晨，王嘉男．国内外智库研究的可视化对比分析：兼论我国智库发展的新趋势[J].智库理论与实践，2016,1(5): 18-27.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": ".8.F :WsersinrDesk baceliWeb of scienceldata biodiversity h=1 safetal neualty improvement amerandseaseact innovation double-blind diagnosis technology overactive bladder thinktank science achievirforeign policy breast-cancer united-statesinion bladder outlet obstruction nuclear-cardiology acc training statement economlcs randomized-trial multiple sclerosis transesophageal echocardiograpl review drugdevelopment voidingdysfuncticparticipation perspective Cpalliative.care; quality-of-life center think-tankphy guidelines education randomized controlled-trmanagement curagery politics democracy discourse space therapy clinical competence physicians acute coronary syndromes magnetic-resonance china children qualit thinktankspolicyme .risk advocacy obesity fellowship training myocardial-infarction 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "张”，并已逐渐融入到了各学科门类之中，深入到了民众社会生活之中[13-14]。这种“内化”的研究趋势既是智库社会职能的自我完善，同时也是智库作为国家发展与建设“软实力”的集中体现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2国内智库发展可视化分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1国内热点领域研究 相比国外智库在20世纪的启动研究以及21世纪初的集中发展，我国智库研究整体上与之同步，数量则后来居上。为保证可视化分析的科学合理性，在对国内智库研究学术文献进行分析中，笔者使参数设置同上述国外研究保持一致，运行项目文件可得到网络节点为94、连线为95的关键词共现网络以及国内高频和高中介中心度关键词，分别如表2和图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/627c01d1d45f1b673643c9588287976a1a5c4040e38b2795465bb00e05a12563.jpg",
+        "table_caption": [
+            "表2国内高频和高中介中心度关键词统计表",
+            "Table 2 The statistics of domestic high-frequency and high-centrality keywords "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序号</td><td colspan=\"2\">高频关键词</td><td colspan=\"2\">高中介中心度关键词</td></tr><tr><td>关键词</td><td>频次</td><td>关键词</td><td>中介中心度</td></tr><tr><td>1</td><td>智库</td><td>151</td><td>美国</td><td>0.46</td></tr><tr><td>2</td><td>中国特色</td><td>70</td><td>研究机构</td><td>0.33</td></tr><tr><td>3</td><td>决策咨询</td><td>62</td><td>布鲁金斯学会</td><td>0.30</td></tr><tr><td>4</td><td>思想库</td><td>55</td><td>全球治理</td><td>0.24</td></tr><tr><td>5</td><td>研究成果</td><td>41</td><td>思想库</td><td>0.23</td></tr><tr><td>6</td><td>研究机构</td><td>41</td><td>决策咨询</td><td>0.21</td></tr><tr><td>7</td><td>智库建设</td><td>28</td><td>政策过程</td><td>0.20</td></tr><tr><td>8</td><td>全面深化改革</td><td>27</td><td>智库</td><td>0.17</td></tr><tr><td>9</td><td>新型智库</td><td>24</td><td>全面深化改革</td><td>0.15</td></tr><tr><td>10</td><td>高校智库</td><td>23</td><td>高校智库</td><td>0.14</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "iteSpacev.3.8.R1(32-bit)  \npril29,20167:15:03AMCST  \n\\Users\\Oo\\Desktoplcitespace\\0Olcnkildata  \nmespan:1983-2016(Slice Length=1)  \nelectionCriteriac,cc,ccv）:2，2,20；2，3,15;2,3,15  \network:N=266,E=306 (Density=0.0087)  \nruning: MST公共政策”经济发展 智库\"运行机制思想库民间智库 \"国家战略”智库建设\" 协同创新欧府决策” \"影响力\" “新型智库 决策咨询\"国际话语权” 中国特色新型智库中国社会科学院” “综述” 政策过程\" \"高校智库\"治理能力” 布鲁金斯学会\" 决策方案” 公共政策研究\"副主任政策研究” 人文社会科学 功能定位” 大学智库 研究机构 中国””学术研究 全面深化改革公共外交研究 \"研究中心” ”胡佛研究所” 研究成果\"国际问题研究” 兰德公司\"中国特色\"政府机构\"",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从对国内文献进行可视化分析所得到的关键词统计表和共现网络中不难发现，除去作为研究主题本身的“智库”和“思想库”二词，国内智库研究的关键词主要集中在“中国特色”“决策咨询”“全面深化改革”和“智库建设”等方面。中国社会目前正处于急速转型的过程中，各级政府正着力向公共服务型政府靠拢，政府决策机制也正发生着根本性的转变。科学决策的目标对中国的智库研究提出了新的命题，同时也给中国智库发展带来了新的机遇。但是，对于“中国智库的特色、新型智库的内涵、如何建设中国特色新型智库”的研究才刚刚兴起，仍有很多问题亟待探索[15]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在关键词共现网络中，可以将关键词主要归为3类：（1）智库自身研究—包含了“研究机构”“决策咨询”和“研究中心”等词，主要是对智库发展历程和前景、概念作用以及特征模式等的探讨[16-17]；（2）国外智库研究——包含“布鲁金斯学会”“兰德公司”以及“美国”等，深入剖析国外知名智库的发展模式和特点，从而为现阶段的国内智库建设提供经验支撑；（3）新型智库建设—一包含“中国特色”“全面深化改革”“智库建设”和“新型智库”等，探索基于我国国情的中国特色智库，为深化改革以及国家建设发力供能[5]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据图中核心关键词的分布，再结合对国内智库文献的深人研究，可以发现较国外而言，国内智库研究的热点集中在国内外智库作用机理和新型智库建设上[3,15]。进入21世纪以来，我国在改革过程中尤其注重国家治理体系和治理能力的现代化建设，对政策制定的科学性要求越来越高，因而如何在中国国情的基础上打造具有中国特色的智库，如何最大化发挥智库的功效用以我国各方面建设无疑是国内智库研究的两大热门。3.2.2前沿主题研究变化挖掘国内智库研究的前沿，采取与国外文献相同参数设置的突现词探测，时间跨度设置为1990一2016年，得到的相关视图如图4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可以看出以2007年为界，我国智库研究的主题变化主要分为两大阶段：第一阶段以智库的概念研究为主，其中既有对国外诸如“兰德公司”和“胡佛研究所”等知名智库的调查研究，也有针对智库内涵和外延的质化研究。在2007年之前，尽管政府决策的背后多有智库在支持，然而",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "王晨，王嘉男．国内外智库研究的可视化对比分析：兼论我国智库发展的新趋势[J].智库理论与实践，2016,1(5): 18-27.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": ".3.8.R1 (32space\\0OcnlildataPruning: MST经债交调 中国发“美国智库” 功能定位“运行智囊机构”“智库”\"美国” “政策研究” IROU'“公共政策”研究中心故略研究”公共政策研究”方国家 刚主任民间智库决策科学化” 公共外交 “影响力”新型智库\"国际医研究 \"决策咨询 “治理能力”兰德公司\"人文社会 研究成果\"丽佛研究所\"思想库\" 国家战“中国社会科学院” 人民路 中国特色新型智库”研究机构\" “全面深化改革\"布鲁金斯学会\" 大学智库政府机构”199019911992199319941995 19961997 1998 1999 20002001 200220032004200520062007 2008 200920102011 2012201320142015 2016",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于当时政府信息公开透明度不高，我国智库始终没有揭开其神秘面纱，因此相关研究多围绕智库概念和国外智库开展。随着改革的推进和国内“旋转门”机制的逐步成熟，2007年我国首届智库论坛公开了长期为党、政、军各界提供咨询服务的大型智库，这也意味着从此正式打开了国内智库研究与建设的大门[18]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第二阶段主要是致力于政策研究的中国特色智库建设，从出现的频率来看，依次有“中国特色”“全面深化改革”“智库建设”“新型智库”和“政策研究”等高频关键词作为研究的前沿主题。自智库作用曝光于大众视线后，我国对智库研究和建设的投人力度更是有增无减。尤其是十八大以后，政府强调科学决策、民主决策、依法决策，发挥思想库作用；《关于加强中国特色新型智库建设的意见》更是明确提出了未来智库的发展方向。在此基础上，智库要完成其被赋予的使命，做出科学合理的决策咨询，就需要探索出根植于中国实际的新的发展模式，而这正是目前智库研究的前沿和重点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3可视化对比研究的结果分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "国际智库研究的可视化分析阐明了目前国内外智库的发展现状及趋势，对比二者不难发现国内外智库的研究方向和趋势在初期基本吻合，但在之后的发展过程中，我国同国外智库发展的路径并不完全一致且有一定的差距。结合可视化结果的对比，笔者认为我国智库发展有以下几点值得注意。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第一，国外智库的“内化”研究是我国未来智库建设需重点关注的方面。智库在国外研究中的“内化”趋势充分表明了其用以解决社会问题的本质属性终要回归并落在细处。我国是一个拥有14亿人口的大国，社会矛盾和民生问题凸显，因而智库这个国家公共政策制定背后的“智囊团”不能仅仅用于政府决策咨询，日后无疑也要成为解决社会民生问题的“金钥匙”。当前正努力打造中国特色新型智库，更要关注并把握好这种由广到细、从宏观到微观的研究趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第二，智库组织的社会化问题同样是我国智库科学发展的症结所在。国外智库的蓬勃发展不仅仅是因为政府支持，更多的还是由智库组织自身的社会属性决定的。可视化分析中所提到的国外智库研究组织多是由民间基金会或相应的学会建立起来的，其研究的自由度和独立性相比我国多数是官方性质的智库要更大。面对民间智库发展的孱弱形势，我国智库组织的社会化进程将是政府未来面临的一大难题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "我国智库发展的新趋势与新模式",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "据宾夕法尼亚大学TTCSP项目组2016年初所发布的《全球智库报告2015》披露，截止到2015年，我国智库共有435家，尽管数量上稳居世界第2，但是建设质量依旧有待改进[19]。结合国际智库的对比分析结果，笔者认为我国智库建设需要加强3方面的转变，开辟出以高校智库为中心、从官方到民间智库的发展新模式。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1关注焦点从宏观政治转移至微观民生",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "智库建立的初衷在于研究公共政策，为国家制定相关政策提供客观、民主和科学的咨询服务[20]。在现代智库发展初期，以兰德公司为首的美国智库主要源于国家和州政府的需求，其主要精力集中在国际政治以及军事情报搜集等方面的研究，更多地关注国家政治和世界军事走向等宏观主题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随着社会化进程的逐步推进，智库的社会职能无疑得到更大程度的扩散和释放。所以，在国外智库研究的关键词共现网络中可以看到除了“政策”（policy）和“政治”（politics）之外，还出现了诸如“管理”（management）、“治疗”（therapy）、“孩子”（children）以及“疾病”（disease）等更多涉及微观民生领域的问题研究，而目前我国的智库研究涉及这些微观实践领域的问题还相对较少。在利益和价值观念多元化的社会格局下，未来智库发展的源动力将不再局限于政府部门需求，转而将会以社会民众需求为直接导向[21]。因此以社会需求为导向开展智库研究，关注社会所关注的焦点话题、解决社会所出现的民生问题将成为未来智库发展所必经的转变。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2组成结构从官方主宰拓展到官民共赢",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "保持独立性是树立智库品牌公信力、维持咨询权威性的重要保障。从《全球智库报告2015》来看，我国目前重点建设且排名靠前的智库多是官方或半官方的，同国家政府机构有着密切的利益关系。这种关联性不仅体现在智库的资金来源上，同时也体现在组织体系架构上。以目前我国排名靠前的大型智库为例，中国社会科学院（全球第31名）、中国国际问题研究院（第35名）",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以及上海国际问题研究院（第72名）都是直接隶属于中共中央、外交部或者省市级政府的[21]。而美国智库中，绝大多数都是民间智库，无论是布鲁金斯学会还是兰德公司，都是以独立的民间智库身份成为美国政府不可或缺的决策智囊团。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "先进智库同政府相生相依，而民间智库发展疲软正是我国智库同西方智库的一个显著差别。中国现阶段的政策规定，非营利性组织在注册时必须挂靠在政府主管单位名下，这就在很大程度上影响了民间智库的独立性，如安邦集团、长城企业战略研究所、天则经济研究所，迫于各种发展障碍，只能在夹缝中求生存[22]。尽管智库本质上都应算作学术研究机构，但官方智库与生俱来的组织属性从一定程度上来讲代表了政府或者阶级利益，在进行政策研究和咨询时不可避免会存在一些偏向。我国智库需要学习国外智库的运营模式，以独立性为前提保障研究和决策的科学性，把智库类型从单纯的官方机构拓展到官民共建、官民共赢，加大对民间智库的扶持力度，保证研究独立性的同时也促使民众意愿更多地反映和参与到公共政策的制定中去。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3运作模式由单一咨询向多方联合发展",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "国家与社会面临的问题日益的多样化与对应政策制定的复杂性，使得仅靠智库单方面的研究已很难保证咨询的科学性与合理性。尤其是目前大多数问题所涉及到的领域往往多达数个，如国外文献关键词共现网络中所出现的诸如“治疗”（therapy）、“疾病”（disease）等医疗领域相关问题，不可避免也要与“科学”（science）等科学技术有所关联，且互相之间难以分割。而我国智库所建立的基础多是针对某一类问题，如此一来单一智库提供的建议可用性就显得较为有限。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从目前智库的发展趋势来看，今后要解决复杂问题、提供科学建议，需要智库实现多方机构联合。这意味着为完成一个项目需要依靠多个独立智库或智库与其他组织机构的共同合作，并在智库与机构间共享多重、复合的数据和信息，以此为基础来实现咨询的科学化与合理化。举例来说，与官方智库相比，高校智库学术能力较强，专业人才比较集中，涉及领域广泛[23]，然而其在公共政策咨询决策中发挥的作用却十分有限。若官方智",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "王晨，王嘉男．国内外智库研究的可视化对比分析：兼论我国智库发展的新趋势[J].智库理论与实践，2016，1(5): 18-27.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "库在政策研究的过程中能够同高校智库的相关课题结合起来，达成资源共享和协同合作，对政府工作者和智库本身来说无疑是双赢的局面[24]。正如胡佛研究所主任约翰·雷西亚（JohnRaisian）在对胡佛研究所和斯坦福大学关系界定时所说：“胡佛的公共政策取向和斯坦福大学的学术支撑是一种强大的融合，两者之间具有巨大的协同效应与互补性。”[25]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "多样化、复杂化的需求很可能会使协同合作的局面出现在未来智库的运作模式中。无论是官方智库、民间智库还是高校智库，在建设过程中应更多地面向社会，努力与其他类型的智库、学术机构和公众团体等加强联系，充分利用其资源优势发挥自身价值。只有建立并巩固彼此间的强强联合关系，才能在日益多元化的问题面前真正起到智囊团的作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.4我国智库发展的中间栈模式构想",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从WoS和CNKI检索的样本文献来看，对智库研究的文章多来自国内外著名高校及研究所，作为“旋转门”机制的人力输入输出口之一，这些机构自身又建设有用于政策及学术研究的智库。从这个角度来讲，高校智库既面向我国政府进行公共政策制定的研究，同时又没有浓重的官方背景，独立自主性较强，能够以学术为依托去接触和研究社会需求。如此一来，结合我国未来智库建设所面临的“三个转变”，高校及其智库顺理成章地成为了智库发展的关键中心点。与此同时，从现实情况来看，我国新型智库的建设不可能一蹴而就，而要在现有的发展模式下完成智库的转型式发展。笔者认为可将高校智库作为过渡的中间栈，用以联结官方智库、民间智库和社会需求，从而形成中间栈模式的智库发展联盟，如图5所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d7fb5573812585fbb270b27e9f6009b148c2889c547a5319024e92936f43b28.jpg",
+        "img_caption": [
+            "图5我国智库发展的中间栈模式构想",
+            "Figure 5 The intermediate stack development mode of the think tank development in China "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "构建该模式最为重要的一点是，高校需要在智库的基础上建立一个网络平台，作为项目研究和信息共享的中间栈。在该模式的运行过程中，高校智库作为咨询与研究中间栈的承载机构，其连线两端任意两个节点间的信息流都是双向可反馈的。一方面，对于官方智库而言，其对政策制定的研究既可以直接来源于社会民众，也能够通过高校智库网络平台的课题或学术研究获得科学、可靠并已有一定集成度的咨询意见，这丰富了其信息的来源渠道，使其成果更加科学合理；另一方面，民间智库也可以借助高校及其智库将自己的项目摆上更公开、更受公众关注的平台，以此获取更多的资源和资金支持。同时，项目信息和数据的共享也能够促进官方、高校与民间智库的合作，从而带动我国智库向多元化发展[26]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结语 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "就现阶段而言，国内外的智库研究都处在高峰期，与此同时也都取得了一定的成绩；智库研究所关注的热点领域层出不穷，而这也正体现出了未来智库发展的可塑性。不可否认的是，我国智库建设正处在这个转型期，结合CitespaceI的可视化分析结果来看，对新型智库的探索将是我国十三五规划的重点项目。因而如何在新形势下借鉴国外智库的建设经验，打造出具有中国特色的先进智库无疑会成为接下来一段时间内智库研究的重点。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]徐晓虎,陈圻.智库发展历程及前景展望[J].中国科技论坛,2012(7):63-68.  \n[2] 陈琴，蒋合领.基于WoS核心合集的国际智库研究可视化分析[J].情报资料工作,2016(1):68-73.  \n[3] 陈琴，蒋合领，王晴.基于CSSCI的我国智库研究态势可视化分析[J].情报杂志，2015(7):71-76.  \n[4] 侯海燕．基于知识图谱的科学计量学进展研究[D].大连：大连理工大学,2006.  \n[5] 梁丽,张学福.智库研究及其发展趋势可视化分析[J].沈阳农业大学学报,2015(7):385-390.  \n[6] Chaomei Chen. CiteSpace II: Detecting and Visualizingemerging trends and transient patterns in scientificliterature[J]. Journal of the American Society forInformation Science and Technology, 2006, 57(3): 359-377.  \n[7]Smith.Detrusor underactivity and the underactivebladder: Symptoms,function,causewhat do wemean? ICI-RS think tank 2014[J]. Neurourology &Urodynamics,2016,35(2): 312-317.  \n[8] Bartels U,Hawkins C,Vézina G, et al.Proceedings ofthe diffuse intrinsic pontine glioma (DIPG) TorontoThink Tank:advancing basic and translational researchand cooperation in DIPG[J]. Journal of Neuro-Oncology,2011,105(1): 119-125.  \n[9] Wise J.Think tank calls for Royal Commission onchild protection[J].Bmj Clinical Research,2014(348):g4263-g4263.  \n[10]Mendelson.Think tank on school-aged children: nutritionand physical activity to prevent the rise in obesity[J].Applied Physiology Nutrition & Metabolism,2007,32(3): 495-499.  \n[11]吴育良．国外智库信息服务的分析与启示[J].情报杂志,2015(2): 188-193.  \n[12]Jacques PeterJ.The Organization ofDenial:ConservativeThink Tanks and Environmental Skepticism[J].Environmental,Politics,2008,17(3):349-385.  \n[13]Lacobucci G. Think Tank Calls for New GP Contracts toEncourage Innovation [J].BMJ British Medical Journa1,2014,239(11): 6653-6656.  \n[14]金芳．当前国际智库的发展趋势及研究动向[J].社会观察，2008(2):49-51.  \n[15]朱旭峰．构建中国特色新型智库研究的理论框架[J].中国行政管理,2014(5):29-33.  \n[16]薛澜.智库热的冷思考：破解中国特色智库发展之道[J].中国行政管理,2014(5):6-10.  \n[17] Xue Lan, Zhu Xufeng.The Social Functions of China'sThink Tanks.Management World, 2009(4).  \n[18]陈旭峰．中国特色社会主义新智库研究：美国经验对中国智库的借鉴意义[J].西北工业大学学报,2010,30(4): 3-5,29.  \n[19]美国宾夕法尼亚大学智库与公民社会项目组.全球智库报告2015[R].美国宾夕法尼亚州,2016.  \n[20]薛澜，朱旭峰．“中国思想库\":涵义、分类与研究展望[J].科学学研究,2006,24(3):321-327.  \n[21]李凯林，何少华.关于国内智库建设的几个问题：以首都智库建设为例[J].北京行政学院学报，2013(2):67-70.  \n[22]徐晓虎,陈圻.中国智库的基本问题研究[J].学术论坛,2012,35(11): 178-184.  \n[23]许宝健.大学智库要影响有影响力的人：加拿大智库考察记（四)[N].中国经济时报,2014-10-08(5).  \n[24] 杨静,陈赞畅．协同创新理念下高校新型智库建设研究[J].科技进步与对策,2015(7):7-11.  \n[25]余章宝．作为非政府组织的美国智库与公共政策[J].厦门大学学报,2007(3):114-121.  \n[26]朱旭峰，韩万渠.中国智库建设：基于国际比较的三个维度[J].开放导报,2014(4):9-12.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作者贡献说明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "王晨：撰写论文、修改论文以及定稿;  \n王嘉男：收集数据、可视化分析、修改论文。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "王晨，王嘉男．国内外智库研究的可视化对比分析：兼论我国智库发展的新趋势[J].智库理论与实践，2016，1(5): 18-27.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Visualized Comparative Analysis on Researches of Think Tanks at Home and Abroad: Comment on the New Tendency of China's Think Tanks ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Wang Chen Wang Jianan Nanjing Political College's Shanghai Campus, Shanghai 200433 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Purpose/significance] As a symbol of the state's soft power, think tanks play an important strategicrole at the national level.It is of practical significance for China tobuild new types of think tanks with Chinese characteristics by making a comparative analysis of domestic and foreign researches.[Method/process] With visualization the software Citespace,the paper made statistics and visualization analysis of documents on think tanks from ISI Web of Science and CNKI by focusing on the keywords and put forward the new trend and new model of the think tank development in China.[Result/conclusion] The results show that international think tank researches focus on the field of governance,risk,innovation and therapy.The policy and the therapy are research frontiers. Keywords in the domestic research are divided into three categories, which were focused on the concept study,foreign think tanksand new types ofthink tanks.The active research major is the construction of think tanks with Chinese characteristics.Combined with the visualization analysis of think tanks at home and abroad,this paper proposes three changes that transform the focus from macro-politics to micro-livelihood, transform the composition structure from the oficial-based structure to the oficial and folk cooperated one, transform the mode of operation from single consulting one to multi-joint one,and constructs the intermediate stack development model based on university think tanks. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: think tankmapping knowledge domain scientific decision-making comparative analysis transformation ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "科技智库影响力评价及国际化发展”研讨会在沪成功举办",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2016年9月26日，上海市欧美同学会联合中国科学学与科技政策研究会区域创新专业委员会、上海市科学学研究会共同主办，上海科学技术政策研究所承办的“科技智库影响力评价及国际化发展”研讨会，在上海科技管理干部学院举行。来自知名智库的负责人和专家学者等50余名代表出席了此次研讨会。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "此次会议具体围绕科技智库国内外发展态势、智库影响力评价体系、全球科技智库网络与国际化发展路径、新媒体与智库影响力提升等几个议题展开研讨。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "与会专家认为，科技智库要在决策影响力、学术影响力、社会影响力和国际化影响力4个方面发力，评价时应该注意评价指标的共性选取和评价方法的主客观结合。有条件的科技智库应该加快国际化发展路径，融人全球智库网络，增加国际话语权和影响力。同时应该注意充分利用新媒体加强自身成果的传播能力。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "此次研讨会对引导我国科技智库发展、凝聚科技智库发展共识具有重要的现实意义，也有助于加快上海乃至全国的科技智库建设与发展。",
+        "page_idx": 9
+    }
+]

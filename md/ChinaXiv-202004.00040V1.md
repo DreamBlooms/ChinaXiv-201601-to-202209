@@ -1,0 +1,237 @@
+# “动手不动口”：手部动作与语言进化的关系
+
+# 殷融
+
+(潍坊学院教师教育学院，山东 潍坊 261061)
+
+摘要语言进化是进化心理学研究领域的重要问题。镜像系统假说、工具制造假说与传授假说从不同角度对手部动作与语言进化间的关系进行了解释，三种假说都认为人类语言起源于手部动作经验。相关实证研究发现：手语与口语具有一致性特征、语言与手部动作具有共同的神经基础、手势发展可以预测语言发展水平以及手势可以提高工具制造知识的传播效率，这些研究为三种假说的具体观点提供了实证支持。未来该领域的研究需要关注手势语与口语在进化中的发展关系，以及人类语言进化与其他认知特征的进化关系。
+
+关键词手部动作；手势；手语；语言；进化分类号：B842
+
+# 1引言
+
+在传世名著《哈姆雷特》中，莎士比亚用热情洋溢的词句赞颂了人类之美，他写到：“人类是件多么了不得的杰作！多么高贵的理性！多么伟大的能力…宇宙的精华！万物的灵长！”毫无疑问，在所有使人类从动物世界脱颖而出的特征中，语言能力占据重要地位。诚然，自然界大部分动物都存在交流系统，从生物结构最简单的昆虫身上也可以找到有效的社会交流形式，但动物能传达的信息是有限的，而人类的语言却具有几乎无限的开放性。成熟的语言系统是人类进化史上最晚出现的特征之一，开口说话看似是一种平凡的行为，但它却是人类心智能力的集中体现。在探索人类及人类心智进化的科学道路上，语言起源是不可回避的问题。
+
+然而，在上世纪80年代之前，科学界对语言的进化适应性还有很大疑问。例如，按照语言学家Chomsky(2002)的说法，人类的语言能力的确是一种与生俱来的“精神器官”，但精神器官并不是适应选择的结果。Chomsky指出，随着在进化中大脑越来越发达，人类只是非常幸运地“偶然”得到了语言。而生物学家Gould(1991)也坚持认为，语言是大脑容量扩增以及人类思维增强的副产品。不过，这种观点后来遭受了猛烈的批评，Pinker(2007)在其著作《TheLanguage Instinct（语言本能）》中曾指出，为了能够说出话语并能对语言进行加工，人类需要一系列相互适应、相互协调的复杂生理组织，包括喉头、声带、口腔、舌头以及大脑的语言中枢，这一切要素根本不可能忽然出现并融合成统一体。因此，语言绝不是进化的副产品，作为一个复杂的功能系统，语言的形成只能借助自然选择的理论加以解释。
+
+由于人类大部分心理机制（如审美观、择偶偏好或道德公正感）所引发的行为结果是清晰且有限的，这就为进化心理学家通过“逆向工程”的方法研究其原始功能提供了线索。然而，语言却几乎涉及到了人类生活的方方面面，交流情感、传递信息、合作互惠、追求配偶、教导后代、描述知识这些都是语言所能起到的作用。行为结果并不等同于进化动因，一旦复杂的语言开始进化，它会涌现出与其原始功能无关的各种用途，区分出哪一个是自然选择的结果、哪一个是后来发展的功能会极为困难。正因如此，语言起源也就成为了进化心理学研究中分歧最多、争议最大的问题之一。近年来，越来越多的学者关注到这一领域，他们分别聚焦于亲属沟通(Nowicki& Searcy,2014; Smit,2014)、社会关系(Dunbar,1998)、互惠合作(Tomasello,2008)、性资源竞争(Okanoya,2017)或知识传递(Laland,2017b)等不同解释角度。本文则关注手部动作（hand actions）与语言进化的关系，对与之相关的理论和实证研究进行梳理介绍，并对当前研究中存在的问题及未来研究方向进行评述。
+
+# 2手部动作与语言进化间关系的理论研究
+
+手部动作和语言具有紧密复杂的关系。虽然在日常生活中开口说话是最常见的交流方式，可声音并不是人们交谈时唯一的信息传输媒介，大部分人在对话过程中会有意或无意地“手舞足蹈”。作为一种普遍存在的辅助沟通手段，手部动作在各个文化背景的交流场景中都会频繁出现。心理学研究发现，尽管手势和语言表达形式不同，但是彼此会相辅相成。一方面，手势和语言表达具有一致性，手势内容总是与语义相匹配；另一方面，手势和语言表达还具有互补性，手势并不仅仅是对语义的模拟，有时还会弥补语言的未尽之意，借助于手势人们可以在交谈时传达更丰富的信息。另外，手势对语言加工具有易化作用，这种促进性同时存在于语言的发生和理解过程，也就是说，手势既有利于说话者构建自己的话语表达，也会让听者更容易理解(Kang,Tversky,& Black,2015;Novack&Goldin-Meadow,2017)。实验证明，如果交流过程中禁止使用手势，说话者的语言会失去流畅性。因此，手势可以增进交谈者之间的共同理解，提高交流效率(Koppensteiner,Stephan,& Jäschke,2016)。神经成像研究也显示，示意动作会涉及与语言理解相同的大脑区域（(Marstaller&Burianova,2014; Redcay,Ludlum, Velnoskey,& Kanwal,2016; Yang,Andric,& Mathew,2015)。
+
+总之，手势是人们日常交流中一种重要的媒介，同时也是人类交流系统中不可分割的一部分。近十几年来，许多学者对手势交流的认知特征、手语的脑机制以及手势对语言加工的影响等问题进行了大量理论与实证研究，国内已有学者对此进行过专门的介绍(李俊宏，丁国盛,2013;张恒超,2019)。不过除此之外，手部动作与语言机制之间是否还具有更深层次的关系？近年来进化心理学语言研究领域开始关注到这一问题，一些研究者就手部动作与语言进化起源的关系进行了论述(Arbib,2010; Corballis,2010;Fogassi&Ferrari,2007;Tomasello,2008)，其中具有代表性的包括镜像系统假说（Mirror System Hypothesis）、工具制造假说（Tool-makingHypothesis）与传授假说（TeachingHypothesis）。
+
+# 2.1镜像系统假说
+
+镜像系统假说与镜像神经元（mirrorneurons）的发现具有直接关系。在上世纪90年代，意大利帕尔玛大学神经科学家Rizzolatti领导的团队曾尝试把把微电极植入恒河猴大脑皮层运动前腹侧区域(F5区)的神经细胞中,以记录这些神经细胞在猴子活动时的电反应状态。研究者偶然发现，即使猴子自己不做出任何动作，但如果它们看到其它猴子做出一些目标指向动作，例如抓握香蕉，它们腹侧前运动皮层F5区的某些神经细胞也会产生强烈激活(diPellegrino,Fadiga,Fogassi,Gallese,&Rizzolatti,1992)。也就是说，这类神经元似乎能将执行者的动作“映射”到观看者的大脑中，使它们能够理解和识别这些动作，因此研究人员为之命名为“镜像神经元”(陈巍,2019)。镜像神经元是近30年来认知神经科学研究领域最重要、影响力最大的科学发现之一。大量研究都表明，人类大脑中也存在类似的用于动作观察和动作执行匹配的“镜像系统”（叶浩生,2019;Cracco et al.,2018;Salo,Ferrari,&Fox,2019)。
+
+Arbib 和Rizzolatti(1997)根据镜像神经元的发现提出了语言起源的镜像系统假说，研究者认为，语言作为交流系统必须要具备“对等性”（parityproperty），也就是信息传播者要表达的意思可以被接收者准确理解，而对等性正是镜像系统的典型特征和功能。研究发现，通过镜像神经元的激活，恒河猴不但能够识别其他猴子的动作，还能预测到它们的目标及接下来要做的动作，这就构成了理解行为意图的基础(Bonini,2017;Ondobaka,Kilner,&Friston,2017)。因此，镜像系统为语言的产生提供了必要的神经机制。镜像系统假说认为，正是镜像系统的存在，人类祖先才可以使用手部动作对具体的物品、行为或想法进行表征，进而导致人类逐渐形成了使用手势进行复杂交流的能力。总的来说，现代人所使用的成熟语言源于手势语，而镜像系统中与执行、识别和模仿手部动作有关的神经回路，为大脑的语言功能进化提供了基础架构 (Arbib,2012)。
+
+基于这一假设，Arbib (2010,2016)还提出了语言进化的基本过程：首先，人类祖先要发展出对复杂行为进行识别及模仿的能力，这一能力要求有机体在识别行为时能够将行为分解为一些熟悉动作的组合，以及将某些动作看作是熟悉动作的变形。之后，随着部分动作在个体互动中不断重复出现，人类祖先在复杂模仿能力的基础上产生了“默剧手势”（pantomime），他们可以不借助任何物品，只通过手部动作在个体间传递信息，从而对他人的行为产生影响。在这一阶段，手势从具体动作中抽取出来，具有了表征功能。例如，在共同采摘食物的过程中，人们逐渐形成了用“伸手够取”动作来表达“采摘”的模拟手势。但是，默剧手势的含义还具有很高的模糊性。在一些社群中，随着手势交流使用范围的扩大和仪式化，约定俗成的默剧手势发展成为了原始手语（protosign）。原始手语简化了默剧手势的动作复杂性，同时进一步明确了手势的意义。例如，通过对“飞鸟”的手势进行分化和界定，产生了“飞”和“鸟”这两个概念的手势。最后，原始手语系统为发音语言的进化适应提供了认知契机，手语与声音相结合，产生了原始语言（protolanguage）。当发音语言出现后，口语也逐渐精细话，成为一种更高效的交流方式。随着早期智人（early Homosapiens）文化实践活动的扩展，最终创造出了具有丰富概念及语法规则的成熟语言。
+
+镜像系统假说的提出者Arbib(2017)也承认，人类语言具体的进化历程及神经机制演变仍有许多分歧或疑义，但可以确定，识别动作的镜像系统为语言的进化提供了基础，而手势语则是人类语言的先驱。
+
+# 2.2工具制造假说
+
+工具制造假说认为，制造和使用工具为语言施加了进化压力，而手部操作相关的大脑神经机制与语言功能相契合（coupling），为大脑中语言神经回路的发展提供了基础(Kolodny & Edelman， 2018；Stout & Chaminade，20l2； Stout， Passingham， Frith，Apel，&Chaminade, 2011)。
+
+Fitch(2010)曾提出，当从进化的角度探索某种心理机制的成因时，应该要考虑形成这种机制的生态背景（ecologicalcontext），即什么样的生存环境（社会的或自然的）会导致这种机制出现。而与语言进化相关的生态背景必须要符合“独立性”原则，它具体指产生语言的生态背景必须先于语言而独立出现，也就是说，“孵化”出语言的生态背景其本身的存在并不依赖于语言(Laland,2017b)。例如，人类学家Dunbar(1998)提出的社会复杂性假说（social complexityhypothesis）认为，更大的群体规模与社会系统对复杂交流形式施加了进化压力。然而，Kolodny 和Edelman (2018)则指出，如果语言是为了维持复杂社会网络而出现的，那么，当人类还没有进化出语言时，复杂社会网络又是怎么出现的？因此这一假说并不符合独立性原则'。
+
+根据工具制造假说，利用工具的生活方式正是符合上述要求、有利于推动语言进化的生态背景(Kolodny&Edelman,2018)。人类祖先最早开始制造和使用工具时并不依赖于语言，但当早期人类开始使用工具后，越善于将工具制造技术在个体间进行传播的群体，就越具有生存适应性。因此，工具的使用和制造为语言进化提供了生态背景及进化驱动力(Stout&Chaminade,2012)。在这一过程中，与工具制作相关的手部动作同交流系统发生了契合，执行手部操作的大脑神经回路产生了新功能，发展成为了支持语言功能的大脑脑区(Hecht etal.,2015)。因此，语言的认知特征也能体现出工具制作的认知特征。其中，工具制作需要将任务进行分解，按照一定顺序进行手部操作，这种处理层级结构（hierarchical structure）与序列顺序（serial order）的认知计算能力正是人类语言所必须的(Kolodny,Lotem,&Edelman,2015)。只有按照一定的顺序和层次规则将词汇组成句子，人类才可以用有限的符号表达出无限的意义。
+
+Kolodny 和Edelman (2018)指出，工具制造假说对语言起源的解释符合进化的连续性原则。黑猩猩、大猩猩与红毛猩猩等类人猿并不具备对声音进行精细控制的生理条件，但它们能够使用简单手势进行沟通，手势是类人猿主要的交流形式，并且它们使用工具进行觅食时，会像人类一样，能够表现出具有层级结构和序列顺序特征的手部操作行为。而人类祖先可能正是在这些能力的基础上，通过一系列微小的、具有适应性的变化，逐渐发展出了复杂的交流系统。因此，虽然人类的语言与其他类人猿的交流形式具有巨大差异，但它源于人类祖先和其他类人猿所共同具备的心理和生理机制。
+
+# 2.3传授假说
+
+传授假说认为，语言最初是为了促进传授而进化的。在人类进化过程中，随着累积的工具、经验和技能越来越丰富，对于个体以及整个人类物种的生存适应来说，后天知识学习都变得越来越重要。而语言作为一种信息交流方式，具有精准、有效且成本低廉的优势，因此，自然选择之所以会选择语言这一心理机制，是因为早期语言能够使得传授活动更加经济高效(Dean,Vale,Laland,Flynn,&Kendal,2014; Laland, 2017b)。
+
+英国生物学家Laland (2017b)在综合其他学者观点的基础上，明确了评判语言起源理论的七条标准(Bickerton,2009; Szamado& Szathmary,2006)。Laland认为，当面对语言的进化动因这一问题时，一种学说越符合这些标准，解释力也就越强，而传授假说则符合所有标准1。
+
+首先，语言起源理论必须对早期语言的真实性做出解释（标准1），人类的语言成本非常低廉，无论是手势还是语音，其产出过程几乎不需要耗费什么精力。既然如此，个体有什么理由去相信其他人传达的信息(Fitch,2010)？这条标准要求在语言最初出现时，信息发出者必须传播真实的信息。如果个体向他人发出的信息是有价值的真实信息，那么信息的发出者与接收者之间应该没有利益冲突，传播信息必须对发出者和接收者都是有益的（标准2）。传授假说可以对此做出很好的解释，由于传授的目的就在于确保将知识传递给其他人，因此，如果语言最初用于教学，传递的信息当然是真实可靠的。而信息接收的对象，通常是传授者的亲属或社群同伴，当他们提高生存竞争力后，传授者的总适应度也会有所增加，因此，双方都可以从信息传输中受益(Fitch,2010)。
+
+成功的理论还需要解释语言如何在刚刚起源时就具备适应能力，也就是说，在概念范围以及精确性都不完备的情况下，原始语言的进化优势体现在什么方面（标准3），以及原始语言是如何获得意义的（标准4）。从知识传播的角度看，粗糙的原始语在传授过程中也可以起到非常关键的作用，通过一些简单的手势提示，传播者可以让观察者注意到要模仿学习的重点，这就可以大大提高知识传播的效率。另外，在传授的过程中，通过实际动作，语言也更容易被赋予意义，例如，传授者可以先做出一个指代“打磨”的手势，之后拿起石块摩擦边缘，观察者就明白了这个手势的意义(Deanetal.,2014)。
+
+其他三条标准是，为什么人类语言可以对各个不同领域不同范围的事物进行概念化（标准5）？为什么只有人类进化出了语言（标准6）？以及为什么语言交流需要后天习得（标准7）？传授假说依然符合这三条标准，语言在刚刚出现时可能主要用于传播工具制作、食品加工以及采集狩猎方面的知识，这种能力大大提高了人类的生存适应性，同时加快了知识更新的速度，人类的知识和技能扩展到各个领域，因此语言的范围也就不断扩大。而其他动物没有进化出语言，是因为它们不具备足够复杂的工具和技术，传授需求要远远小于人类。没有传授活动的压力，动物就不会也不需要进化出像语言一样能大幅提高教学效率的心理机制(Street,Navarrete,Reader,&Laland,2017)。另外，语言出现后，知识的创新和传播会进入正向反馈循环，知识越能高效传播，就越容易迭代更新，与之相一致的，语言所涉及的对象也日趋复杂多样，在这种情况下，语言的后天学习可以保证人类祖先灵活掌握新的语言符号。
+
+虽然传授假说并没有特别强调手部动作与语言起源的关系，但这种假说也支持手势是最早的语言形式。原因是从生物结构看，早期人类还不具备声音控制和声音学习的条件(Fitch,2017)。例如，考古学研究发现，由于胸腔神经束的限制，生活在100至200万年前的早期直立人还无法发出精细多变的声音(Walker&Leakey,1993)，而目前出土的最早石器工具已有330万年的历史(Harmand etal.,2015)。因此Laland (2017b)也认为，当人类祖先开始知识积累进程时，他们并不具备用声音进行沟通交流的能力，在这种情况下，传授活动导致人类用手势进行沟通的能力率先产生了重大变革。
+
+需要指出的是，虽然镜像系统假说、工具制造假说与传授假说的侧重点各有不同，但它们其实并不互相矛盾。三种假说都认为语言与早期人类的手部动作有关，对人类语言的发展轨迹都持同样看法一一即人类独特的语言进化始于手势语。只是镜像系统假说重点从镜像神经系统的角度，阐释了为什么手势可以表征概念，明确了语言进化所必备的生理基础，它回答的是关于语言进化中“是什么”的近因机制（proximate mechanism）问题；传授假说则强调了知识传播（特别是与工具制作相关的知识）对语言进化施加的压力，解释了自然选择为什么会在人类身上选择出语言这一心理机制，它回答的是语言进化中“为什么”的远因机制（ultimatemechanism）问题；而工具制造假说则兼具远因与近因视角，它既强调工具制造和使用这一行为为语言进化提供了契机，同时也分析了与手部操作功能相关的大脑神经回路在发展语言神经机制中的作用。三种假说在不同的层面上对语言进化做出了描述，具有良好的互补性，而实证研究则为这些假说提供了支持。
+
+# 3手部动作与语言进化间关系的实证研究
+
+# 3.1手语与口语的一致性特征
+
+手部动作是否能构成一种独立的交流手段？直到21世界中叶时，手语（signlanguage）都不被认为是一种真正的语言，许多语言学家认为，与口语或文字的符号系统相比，手语缺乏精确性、微妙性和灵活性，而且无法表征抽象的概念和思维。Hockett (1960)曾总结归纳了人类语言的13条特征，其中第一条就是以声音-听觉通道为基础。然而，DeMatteo (1977)对美国手语（American Sign Language）的研究发现，手语的语言结构与口语非常相似，之后许多研究者对手语开展了深入的研究，他们的研究结论从根本上改变了语言学、心理学及教育学界对手语的看法。
+
+经过几十年系统的探索，研究者目前已经确信，手部动作本身也可以组成一种完整的交流手段。聋哑人使用的手语既包括语法规则，也存在词汇、句子和篇章等语言结构，还能对符号编码进行分解与组合，因此，手语可以像任何一门其他语言一样表达出丰富复杂的涵义(Brentari& Coppola,2013; Susan Goldin-Meadow& Brentari,2017)。在学习机制上，手语学习与口语学习并不存在显著差异，如果儿童从小接触的是手语环境，那么他们可以像其他儿童习得口语一样，毫不费力地掌握手语表达(Garcia,2002;Petitto,1992)。另外，无论是在语言产生还是语言理解层面，手语都具有部分和口语相似的神经基础(Permiss,Ozyurek,&Morgan,2015)。例如，聋人在理解手语词时也会激活布洛卡区及威尔尼克区，一旦聋人因为中风或其他事故损伤了大脑布洛卡区，他们的手语表达同样会出现“运动性失语症”的症状，即无法再做出有意义的手语(Pinker,2007)。
+
+调查研究显示，在没有任何成人介入和指导的情况下，儿童也可以在日常互动中萌发出具有极强表达力的自然手语。上世纪80年代末，尼加拉瓜政府在首都马那瓜市开办了两所聋哑儿童学校，政府的目的是帮助失聪儿童学会用手语交流，遗憾的是，由于缺乏经验教师的教学并不成功。不过，学生却在日常集体互动中逐渐创造出一套手语，而后来的学生则把之前学生发明的手语不断改善。手语专家Kegl(2002)进行研究分析后确信，这是一套非常成熟的语言系统，而且独一无二，是尼加拉瓜失聪儿童所独创的。许多研究者都认为，这些聋哑儿童的经历完全再现了语言从无到有的演变历程，或许人类祖先也像这群孩子一样，在群居生活中发展出了用手势进行沟通的能力，之后才逐渐用声音代替了动作(Senghas& Coppola,2001; Senghas,Senghas,&Pyers,2005)。另外其他研究还发现，如果失聪儿童没有从小系统学习手语，他们也会自己发展出一套家庭手语（homesign），这种自我发明的手势系统也具有语法结构和规则 (Hunsicker&Goldin-Meadow,2012)。总之，这些研究都表明人类天生就拥有用手势进行交流的潜质，手语具备表征性、可塑性、结构性与开放性等人类语言的关键特征，手部动作可以构成一种完善而独立的沟通系统，这为人类语言的手势起源观提供了间接支持。不过，如果要证明语言进化与手部动作的关系，还需要更直接的证据。
+
+# 3.2手部操作与语言加工的共同神经机制
+
+探索语言的大脑神经机制，是理解语言进化起源的重要研究途径之一。根据神经复用假设（Neural Reuse hypothesis），不同脑区所能承载的认知功能不是单一的，在进化或个体发育的过程中，原有承载某一功能的脑区可以支持发展新的高级认知功能，新的认知功能被整合到已形成的脑区，大脑神经回路可通过复用的方式来实现多种新的认知能力(Anderson,2010)。镜像系统假说与工具制造假说都强调，语言功能的神经机制是由与手部操作相关的大脑神经回路发展形成的，这正符合神经复用假设的理论，认知神经科学研究为此观点提供了充分的证据。实际上，最早发现的同猕猴手部动作识别相关的镜像神经元位于猕猴腹侧前运动皮层F5区，而该脑区与人类大脑负责语言功能的布洛卡区正具有同源性（Arbib&Rizzolatti,1997）。近年来大量研究则进一步表明，手部运动（特别是与工具操作相关的复杂动作）和语言加工具有共同的脑神经基础，这证明了镜像系统假说与工具制造假说的观点。
+
+例如，Farsin等人(2003)曾使用功能性磁功能共振成像（fMRI）记录分析了被试在完成动作识别、语言生成和抓取运动目标时的大脑激活情况，研究发现，被试在执行这些任务时会激活一些共同的大脑皮层，包括顶叶、左侧额下回和中央前回。Stout,Toth,Schick 和Chaminade (2008)对石器专家进行 fMRI扫描发现，制作石器会激活他们大脑中与语言功能密切相关的布洛卡区。Higuchi,Chaminade,Imamizu 和Kawato (2009)的研究也发现，被试在听故事或执行工具操作的任务时，布洛卡区的活动都会明显增强。Uomini和Meyer(2013)在实验中要求被试先后完成两项任务，第一项是制作阿舍利手斧，被试每隔一段时间要执行干扰动作，之后继续敲击制作石斧；第二项是按照提示音完成单词测试任务。研究者采用功能经颅多普勒超声(functional transcranial Doppler ultrasonography，fTCD)测量了被试的脑血流模式，结果显示，被试在执行这两项任务的最初10秒产生了高度一致的脑血流模式。这些研究说明，手部操作与语言加工具有部分共享神经机制。
+
+根据工具制造假说，之所以手部操作与语言加工具有共享神经机制，是因为与工具制作相关的手部动作同交流系统发生了功能契合，因此，语言的认知特征能体现出工具制作的认知特征。大脑布洛卡区的功能为这一假设提供了支持。研究发现，除了涉及语言结构(语法)加工外，布洛卡区还与对层级结构及顺序的加工有关，这两种能力是完成复杂手工操作任务的必要条件(Clerget,Andres,& Olivier, 2013;Koechlin & Jubault, 2006;Pammi et al,2012;UIlman,2006)。换句话说，布洛卡区既负责处理语言的语法，也负责处理复杂手部操作的“动作语法”。例如，Emeline Clerget,Winderickx,Fadiga 和Olivier(2009)研究采用重复经颅磁刺激对13位健康被试的布洛卡区进行短暂干扰，同时要求被试对电脑上显示的动作进行顺序排序，结果显示，这项操作会影响被试完成动作排序任务，这表明布洛卡区在编码复杂的人类动作“语法”中起着至关重要的作用。Alamia等人(2016)研究发现，对布洛卡区施加经颅磁刺激会延长被试在实验任务中对高阶组块（higher-orderchunks）进行心理表征的加工时间，这进一步显示了布洛卡区在处理层次结构方面的作用。其他研究者采用不同的研究方式也证明了类似结论(Meyer,Greenlee,&Wuerger,2011;Pritchett,Hoeflin,Koldewyn,Dechter,&Fedorenko,2018)。
+
+不过，也有学者认为，由于布洛卡区所属的额下回是大脑结构中功能最混杂的脑区之一，因此，仅仅观察到语言加工和手部操作会激活布洛卡区，并不足以证明这两种活动具有共同的神经机制。为了更准确的探讨动作观察与执行同语言加工在大脑皮层上的关系，Pritchett等人(2018)在实验中首先要求被试阅读正常句子和无意义词组成的句子，通过功能定位任务（functionallocalizertask）确定每个被试精确的语言神经网络。然后再通过实验检验个体与语言活动相关的神经网络在动作模仿和动作观察任务中的参与情况。研究发现，语言加工网络在动作观察或模仿时并没有出现超出基线（baseline）的强烈反应。另外，Weiss 等人(2016)通过对失语症（aphasia）和失用症（apraxia）患者进行研究，分析了语言障碍与动作障碍之间的关系。研究发现，左下额叶、岛叶、顶叶和颞上皮层的病变与命名、阅读、写作或听力理解方面的语言缺陷相关；而左额下回、运动前区、中央区以及下顶叶皮层的病变则与丧失工具操作能力有关。因此，布洛卡区损伤确实会同时导致失用症与失语症，但除此之外，其他引发失语症或失用症的脑区并没有相互重合。
+
+# 3.3手势与语言能力发展的关系
+
+镜像系统假说、工具制造假说以及传授假说都一致主张，人类语言起源于手部动作经验，早期人类的大脑首先进化出了理解手势语言的能力，之后手语又发展成为声音和文字等其他语言形式。由于人类某些心理机制的演变可以在个体发育过程中有所体现，如果这种观点正确，那么很可能在个体发展过程中，手势的使用既先于语言出现，同时又与语言能力的发展具有密不可分的关系（Salo,Ferrari,&Fox,2019）。
+
+该假设目前已得到了大量实证研究的支持。研究发现，婴幼儿运用手势的能力可以预测他们今后的语言发展水平。例如，在亲子互动过程中能做出更多手势（包括通过手势传达更多的含义以及更频繁地使用指示性手势）的1岁儿童，会在3至4岁时掌握更多的词汇(Rowe,Goldin-Meadow,S,2009)以及能更早掌握复杂的语句(Rowe,Goldin-Meadow,S2009）。Kuhn等人(2014)的研究发现，父母报告的婴儿15个月时的手势使用状况，可以预测他们2至3岁时的表达能力，其他研究也发现了相似结果(Cadime,Silva,Santos,Ribeiro,&Viana,2017; Zambrana,Ystrom, Schjolberg,&Pons,2013)。特别值得注意的是，这种规律在患有自闭症或唐氏综合症儿童的身上同样存在(Ozcaliskan,Adamson,Dimitrova,& Baumann,2017)。Luke,Riterfeld,Grimminger,Liszkowski,和Rohlfing (2017）的研究则发现，在12至14个月时还较少使用指示性手势的儿童，会在2岁时表现出语言发育迟缓的迹象。另外，Salo,Rowe 和Reeb-Sutherland (2018)曾在一项研究中首先评估了婴儿1岁时的手势使用频率和联合注意（Joint Attention）水平，一年后又检测了他们理解和表达语言的能力。分析结果显示，即便排除联合注意水平，婴儿手势使用情况依然可以显著预测他们语言能力的发展走向。
+
+Salo 等人(2019)认为，这些研究结论可以说明，在开口说话之前，婴儿可以通过手部动作的方式与外部世界产生互动，产生交际手势，而这种早期的心理表征为他们后来发展语言奠定了基础。与该观点相一致，研究发现，手势确实可以帮助人们习得语言，加深个体在语言学习时对概念的理解(Carly Kontra,Goldin-Meadow,& Beilock,2012;Mumford& Kita,2014; Novack & Goldin-Meadow,2017; Thill& Twomey,2016)。例如 Dean,Kendal, Schapiro,Thierry 和Laland(2013)通过观察23个教学实例发现，辅助性的手势和动作可以显著促进语音学习。Iani 和Bucciarelli(2017)在一项实验中要求被试听一位表演者说出目标句，表演者或者一动不动，或者在说目标句时还做出与句子内容相一致的手势。研究显示，当被试观察到动作时，他们会对句子的记忆更准确。但如果被试在听句子时自己的手部也忙于做出某些动作，则会抵消这种效应。也就是说，在语言理解过程中，手势会影响个体对语言信息的加工。而 Wakefield,Novack,Congdon,Franconeri 和 Goldin-Meadow (2018）使用眼动仪进行的实验则发现，在词汇教学中，相比语音教学的学习模式，利用“语音 $^ +$ 手势”教学的学习模式，可以让儿童获得更好的学习效果。研究者认为，相对于抽象的语音符号，由于手势具有直观化和具体化的特征，有助于学习者将自我感知运动经验同概念建立联系，因此对语言学习具有易化作用。正因如此，早期人类首先形成了用手势进行概念表征的能力。
+
+另外，Wakefield,Hall,James 和Goldin-Meadow (2018)在一项实验中将儿童被试分为4组，其中两组儿童在学习动词时可以观看主试对一个相关物品做出动作，或自己对一个物品做出动作，例如儿童学习“旋钮”这一词时手拿一个可以旋转的教具；另外两组儿童在学习动词时可以观看主试对一个相关物品做出模拟手势，或者自己对一个物品做出模拟手势，例如儿童学习“旋钮”这一词时用手在一个教具的上方旋转（但不能接触）。一天后完成再认测试任务，测试内容是要求儿童对视频中呈现的动作进行命名。研究发现，观看或自己做出手势的实验组被试，在概念测试任务中成绩会更好。研究者认为，由于手势不与物品发生直接接触，因此通过手势学习，被试会更容易将之前学习到的词汇泛化到新的场景中。手势经验是表征动作概念的有效途径，这些研究也为人类语言起源于手部动作的假设提供了间接证据。
+
+不过，在其他与语言无关的学习任务中，研究者也发现手部动作可以促进加工理解。例如，Goldin-Meadow,Cook 和Mitchell(2009)发现在问题解决任务中，使用手势有助于被试产生新的创意想法。Kontra,Lyons,Fischer 和Beilock(2015)研究发现，手部操作经验可以强化学生对物理科学概念的学习效果。Novack,Congdon,Hemani-Lopez 和Goldin-Meadow(2014)的实验显示，在数学解题任务中，手势模拟有助于3年级学生将数学知识迁移到不同形式的问题中。这表明，手势对认知加工的易化作用具有普遍性，而不仅仅局限在语言领域。
+
+# 3.4手势对传播工具制造知识的影响
+
+工具制造假说及传授假说认为，制造和使用工具为语言施加了进化压力，导致了手势语的出现。如果这一观点正确，在学习制作工具的过程中，相比单纯观察模仿，手势交流应该会大大提高信息传播的效率。实际上，考古学家曾断定，直立人时代的石片就已具有尖锐锋利的边缘，制造这种石片对材料的选择、分离、切割以及打磨都有严格要求，只靠观察模仿很难掌握这些技术(Chazan,2015)。
+
+Morgan,Uomini,Rendell, Chouinardthuly 和 Street 等人（2015)在一项实验中曾检验了五种不同信息传播机制的学习效果，被试在该实验中按照五种不同的方式学习制造石器工具的知识并进行实践，这五种方式分别是：1）观察成品—一学习者只能看到已经制作好的工具，但不能看到制作过程；2）模仿学习—一学习者可以看到教授者制作石器的过程，但不能与教授者交流；3）指导教学—一教授者可以根据学习者的要求放慢或重复某些动作，进行特定的演示，但不能相互交流；4）手势教学—一学习者和教授者可以用手势进行交流；5）语言教学—一学习者和教授者可以用语言交流。在每种情况下，实验人员都安排了4条短的传播链（5人传递）以及2条长的传播链（10人传递），200个成年人参与了这个实验，他们一共制作了6000多块打火石。研究发现，无论在哪种情况下，石器制作信息在传播过程中都会不断丢失，但沟通性教学可以充分弥补传播链上的这一缺憾，在手势教学组与语言教学组，学习者制造打火石的质量和效率会明显改善，而语言教学组制作的火石最为精细。该实验结果至少可以说明，相比单纯的模仿或观察，手势交流可以大幅提高工具制作技术的传播效率。由于考古学研究证明，当人类祖先开始制造工具时，他们并不具备用声音进行沟通交流的能力，因此，技术传播的压力导致人类祖先首先在手势语方面取得了重大进步。
+
+Lombao,Guardiola和Mosquera (2017)也用类似研究检验了交流方式对石器工具制作的影响，研究者将被试分为模仿组、手势交流组与语言交流组。结果显示，在效率指标上，模仿组被试的制作速度要显著低于手势交流组和语言交流组被试；在质量指标上，手势交流组和语言交流组被试可以像石器制作专家一样掌握正确的制作技巧与方法，而模仿组被试则做不到这一点。研究结果同样证明，与其他信息传播机制(如简单的观察)相比，手势和语言交流能在短时间内传输更多信息，从而能让个体更有效地获取关于工具制作的知识。因此，一旦人类祖先对工具产生高度依赖，自然选择便可能“选择”出复杂的手势交流能力。
+
+另外，Putt,Woods 和Franciscus(2014）的研究还发现，在学习制作阿舍利石器（Acheulean stone）的过程中，口语交流组被试与手势交流组被试所制作的石器在关键指标上并不存在差异。为了澄清这一结论，Cataldo,Migliano 和Vinicius (2018)在石器制作实验中将被试分为四组，分别是手势交流组（只能使用手语同专家交流）、口语交流组（只能使用口语和专家交流）、完整交流组（可同时使用手势和口语与专家交流）以及观察模仿组（只能观察专家的做法），研究发现，与手势交流组或完整交流组被试相比，观察模仿组与口语交流组被试在石器制作上的表现更差，而他们对专家指导的满意度也更低。研究者推测，该结果表明，对于制造石器工具来说，单纯的语音交流并不比手势交流更具任何优势。Fay,Lister,Ellison 和Goldin-Meadow(2014)研究也曾证明，相对于要求被试用声音（自己根据目标物模拟的声音，而不是语言声音）去创造出指代目标物的符号，当被试被要求用手势指代目标物时，所创造的手势符号更易于被他人理解。而且相比于手势符号，手势符号与声音符号的结合并不会提高理解的准确度。因此，手部动作可能比口语更容易被选择成为早期人类信息传播的手段，而手势语也就成为了人类语言的先驱。之后其他的进化压力（例如对合作互惠的需求或更复杂的人际互动）才导致了声音语言的出现。
+
+# 4评述与展望
+
+人类日常生活与语言紧密相连，很少有人能在清醒时连续一小时不与任何形式的语言发生接触。无论在地球上的哪个角落，只要有两个或两个以上的人聚在一起，他们很快就会交谈起来。从祖先掌握语言的那个时刻起，人类的进化便走上了另外一条道路。通过语言，每一个个体都可以轻易进入全人类共同创造的知识宝库，语言使得人类文明真正进入了大跃进时代。不过，如同其他复杂的生理机制经历过漫长进化一样，人类语言作为一种复杂的心理机制，也不是一出现就成为了今天“完善的”形态，而是在自然选择的压力下逐步经历了许多不同发展阶段。本文重点阐述了手部动作与人类语言进化的关系，对与之相关的理论进行了介绍，这些理论既解释了人类为什么“需要”进化出语言，也回答了人类为什么“能够”进化出语言。同时本文总结梳理了该领域的实证研究，这些研究对相关假说进行了不同角度的验证。而未来研究则还需要重点考虑以下问题。
+
+# 4.1手势语和有声语在进化中的发展关系
+
+首先，手势语与有声语言在进化中的关系是需要进一步探讨的主题。在语言研究领域，到底最早的语言源于手势还是源于口语是长期以来存在的争论。由于无论是手势还是语音都无法留下直接的考古学证据，这为澄清该分歧制造了很大困难。本文所介绍的理论与实证研究都表明，人类语言起源与手部动作具有紧密的联系，但该假说必须要解答的一个问题是如果语言最早源于手势，为什么后来在进化过程中会转向“语音”这种有声表达模式。有声语言是现代人的主要交流形式，既然手势语也可以具有完善的语法规则、语言结构以及丰富的表达性，为什么口语会取代手语，成为最通用的语言形式？开口说话并不是一件容易的事情，为了能够产生准确而清晰地发音，人类进化出了独特的喉头和声带形状，但这也导致人类进食时食物非常容易滑入气管引起呛噎。因此，口语必须要产生足以抵偿这种风险的好处。相比于手语，口语的确具有一些明显的优势：例如传递信息的速率更高、不受光线条件限制以及让个体在手部忙于其他事务时也能与他人交流。然而，这些显而易见的优势其实并不一定能构成口语进化的选择压力，因为在进化过程中，一种心理机制所带来的结果并不等同于其进化动因。目前，所有支持语言起源于手部动作的假说，都没有为有声语言的进化提出合理的理论解释，相关实证研究也基本空白。
+
+另外一个衍生问题是，如果在进化过程中口语由于某种选择压力而取代了手势语，那么为什么手势这种交流形式依然保留了下来，并且在日常对话中频繁出现？研究发现，手势不是口语表达的附带现象,手势有助于降低话语信息的模糊性，可以互补性地传达一些话语无法说明的信息，从而促进信息接受者对语义的完整理解(SusanGoldin-Meadow&Brentari,2017;Koppensteiner et al.,2016)。而对于信息发出者来说，手势表达也有助于提高交流的流畅性(Brooks&Goldin-Meadow,2016)。这说明，手势语依然是一种重要的信息表征方式。McNeill(2012)认为，手势交流之所以还存在，可能在于人类对语言的表征需要拟态编码（mimetic encoding），而这是符号语言所无法满足的，口语或书面语是一种抽象符号，这些符号需要与具体的感知动作经验联系在一起。也就是说，抽象的符号编码和具体的拟态编码共同构成了完整的语言表征系统。因此，人类语言的源头并不仅仅只有手势语这一种形式，手势语和口语经历了共同的进化和发展。
+
+与之相对应的，古人类学研究也发现，在人属动物进化史上'，开口说话的时间要早于成熟语言系统（指拥有复杂语法结构的语言）出现的时间。例如，对尼安德特人2的基因、大脑结构以及喉骨化石进行的分析表明，由于基因和脑结构的限制，尼安德特人的语言系统还不像现代人一样完善，但他们已经具有了精细控制声音的能力，如果不是为了用口语进行交流，他们不太可能发展出这种特征(Kochiyama et al.,2018;Maricic etal.,2013)。这说明，人类并不是先在手势语的基础上发展出了复杂的语法，之后才将语言能力“嫁接”到口语这种表达形式上。实际上，如今许多学者都认为，在解释语言起源时不应该将手势语和口语对立起来，假定某一种交流形式先于另一种交流形式。很可能是这两种形式的语言同时出现，并经历了共同进化(Susan Goldin-Meadow&Brentari,2017; Kendon,2017)，这就是语言起源的多模态（multimodal）假说。例如，Kendon(2017)认为，在语言进化早期人类就形成了“手——嘴”协调一致的多模态信号系统。Frohlich,Sievers,Townsend,Gruber 和van Schaik(2019)指出，虽然早期人类还不具备对声音精细控制的能力，但是他们表征的信息内容也并不像当代人一样复杂，简单的发声能力可以与手势相配合，减少沟通中的歧义。其他猿类会根据情景需要灵活地选择手势、叫声或“手势 $+$ 叫声”等不同的交流方式，人类祖先可能也正是如此。甚至许多支持手势起源的研究者，也不完全否认口语在语言进化之初就已经存在（Arbib,2016；Tomasello,2008）。而这其中具体的进化机制，还需要未来研究进一步的探索。
+
+# 4.2人类语言机制与其他心理特征在进化中的关系
+
+另外一个需要考虑的问题是人类语言机制与其他心理特征在进化中的发展关系。镜像系统假说、工具制造假说及传授假说所强调的语言进化的基础一一如用手势进行交流、识别其他个体动作目的以及信息传播的能力一一在类人猿身上也同样存在（只是与人类有量的区别）。然而，为什么其他猿类没有在这些能力的基础上发展出像人类一样复杂完备的语言？实际上，上世纪60年代起就不断有人尝试教黑猩猩、红毛猩猩或大猩猩等猿类学习手语，虽然具体的结果颇有争议，但如今可以确定的是，只要在人类的环境下长大，大多数猩猩都可以学会用一些手势与人进行互动，甚至它们在不经过特殊训练的情况下，也能自发创造一些动作来向人类表达它们的要求。例如，猩猩被关在笼子里时，会把手指或手掌伸出笼外往食物的方向比划，让实验员帮助它们得到食物。如果它们想到笼子外面去玩，还会比着上锁的门要实验员替它们开门(Pepperberg,2016)。
+
+然而，不管猩猩在什么样的环境下成长，它们都无法发展出除了要求或命令以外更高深的手势，它们不会指着某个物品，告知对方可能想知道的信息。大量实验都表明，黑猩猩能够理解其他猩猩的意图，它们可以想象对方会怎么思考和行动，但它们却不会有意识的分享。在一项实验中，黑猩猩既可以靠拉动一个机关获取一份食物，也可以靠拉动另一个机关为自己与另一只猩猩各获取一份食物，虽然后一种行为并不需要它们多付出什么代价，但实验中黑猩猩的选择却相当任意，它们并不会考虑让其他个体也得到好处(Silk et al.,2005)。相反，研究发现，12个月大的婴儿就可以表现出无条件的利他行为，婴儿在察觉了成人的某些需要后，会用手指指向他们所需要的物品，帮助他们找到它(Liszkowski,Carpenter,&Tomasello,2008)。1岁的婴儿在看到有趣的东西时就会指给父母分享(Warmeken&Tomasello,2006)。因此，虽然猿类和人类都会使用手势，但二者在功能上存在本质不同。人类“以手指物”这个平凡的动作包含着重要的进化意义，它说明了人类沟通背后的利他动机。从进化的观点来看，这一事实暗示了手语的发展与社会协作密切相关，猿类没有发展出更复杂的手语系统，在一定程度上是因为它们缺乏合作互惠。相反，人类具有“共享意图”，个体会主动互相教授有用的东西，而分享信息的心智正是构成语言的重要基础。
+
+实际上，语言机制原本就是一个复杂的系统，它的背后包括各种复杂的认知能力、大脑结构以及基因基础，其中没有任何一个单一因素可以定义人类的沟通系统，它们是作为一个整体而发挥作用的。因此，在探讨语言进化与起源时，一定要综合考虑人类其他独特的认知特征，这样才能解释人类语言进化有别于其他动物的特异性问题。
+
+# 4.3整合多学科研究成果，构建统一理论框架
+
+最后，回到语言进化研究领域本身，当前需要解决的问题是如何将已有的研究成果统一到一个完成的理论框架下。语言进化涉及遗传学、考古学、语言学、古人类学、认知神经科学心理学与比较动物学等多个学科，每个学科的进展都可以为揭开语言进化之谜提供独有建树。例如，比较动物学研究显示，灵长类动物的群体规模与交流系统密切相关，更庞大的群体规模、社会网络以及多样化的社会关系要求更复杂的交流系统，因此，语言进化的压力之一可能来自于保持亲密关系、维护群体凝聚力及建立同盟的需要(Dunbar,1998;Feinberg,Willer,& Schultz,2014)。认知神经科学发现，学习制作石器工具会导致个体脑部连接与脑组织发生变化，其中就包括与语言交流、计划以及逻辑推理等高级认知功能相关的顶叶缘上回和右侧额下回脑区(Hecht etal.,2015;Morgan etal.,2015)。遗传学研究发现，人类进化史上NOTCH2NL(Fiddes et al.,2018)、ARHGAP11B(Florio et al.,2015)、ASPM(Mekelbobrov et al.,2005)、MCPH1(Evans,2005; Huang et al.,2019)与 GADD45G 等基因(McLean et al.,2011)在不同时期的基因变异主导了人类大脑容量的增加和皮层结构的改变，从而使人类大脑可以支持像语言这样的复杂心理机制。考古学研究发现，在距今3万到4万年前人类突然发生了一次史无前例的艺术大爆发，他们开始绘制图画、雕刻塑像、佩戴首饰，并出现了原始宗教和神话文化，人类祖先掌握成熟语言的时间不可能大大早于这一时期，成熟的语言系统是智人的专属特权(Laland,2017a)。语言学研究则证明，一种语言距离非洲越远，用来生成词汇的音素数量越少，这表现出了以非洲为原点的奠基者效应（founder effect）。因此，世界所有的语言都具有同源性，语言是在智人接管地球的过程中，随着人口迁徙而扩散分化的(Atkinson,2011)。这些不同学科之间的研究成果可以相互印证对比，为某一语言进化假说提供强有力的检验，而只有将这些不同学科的成果搜集整合到一起，才可以构建完整的理论框架，从而对语言的进化与演变提供系统解释。
+
+# 参考文献
+
+陈巍.(2019).同感等于镜像化吗?一一镜像神经元与现象学的理论兼容性及其争议.哲学研 究,06,96-107.   
+李俊宏，丁国盛.(2013).手语和口语理解及产生的脑机制对比 心理科学进展,21(9),1560- 1569.   
+叶浩生.(2019).身体的教育价值：现象学的视角.教育研究,10,41-51.   
+张恒超.(2019).交流手势的认知特征.心理科学进展,26(5),796-809.   
+Alamia,A., Solopchuk,O.,D'Ausilio,A. Van Bever, V., Fadiga,L., Olivier, E.,& Zénon,A. (2016). Disruption of Broca's brea alters higher-order chunking processing during perceptual sequence learning. Journal of Cognitive Neuroscience, 28(3), 402-417.   
+Anderson，M. L. (201O). Neural reuse: a fundamental organizational principle of the brain. Behavioral& Brain Sciences,33(4),275-276.   
+Arbib,M.A. (2010). Mirror system activity for action and language is embedded in the integration of dorsal and ventral pathways. Brain Language, 112,12-24.   
+Arbib,M. A. (2012). How the brain got language: The miror system hypothesis. New York, NY: Oxford University Press.   
+Arbib，M. A. (2016). Towards a computational comparative neuroprimatology: Framing the language-ready brain. Physics of Life Reviews, 16,1-54.   
+Arbib，M. A. (2O17).Toward the language-ready brain: Biological evolution and primate comparisons. Psychonomic Bulletin & Review, 24,142-150.   
+Arbib,M. A.，& Rizzolatti， G. (1997). Neural expectations: a possble evolutionary path from manual skills to language. Communication and Cognition, 29,393-424.   
+Atkinson, Q. D. (2O11). Phonemic diversity supports a serial founder effect model of language expansion from Africa. Science, 332(6027),346-349.   
+Bickerton, A. (2009). Adam's Tongue. New York, NY: Hill& Wang.   
+Bonini，L. (2O17). The extended mirror neuron network:Anatomy， origin，and functions.The Neuroscientist, 23(1),56-67.   
+Brentari，D.，& Coppola，M. (2O13).What sign language creation teaches us about language. Wiley's Interdisciplinary Reviews (WiREs): Cognitive Science.,4,201-211.   
+Brooks，N.，& Goldin-Meadow, S. (2016). Moving to learn: How guiding the hands can set the stage for learning. Cognitive Science, 40(7),1831-1849.   
+Cadime,I.， Silva, C. Santos, S.， Ribeiro,I.，& Viana,F. L. (2017). The interrelatedness between infants' communicative gestures and lexicon size: A longitudinal study. Infant Behavior and Development, 48,88-97.   
+Cataldo, D.M., Migliano,A.B.,& Vinicius,L. (2018). Speech, stone tool-making and the evolution of language. Plos One,13(1),e0191071.   
+Chazan，M. (2015). Technological trends in the Acheulean of Wonderwerk Cave, South Africa. African Archaeological Review, 32(4),701-728.   
+Chomsky, N. (2002). On Nature and Language. Cambridge, England: Cambridge University Press.   
+Clerget,E., Andres,M.,& Olivier, E.(2013). Deficit in complex sequence processing after a virtual lesion of left BA 45. Plos One, 8, 1-9.   
+Clerget，E.，Winderickx，A.，Fadiga,L.，& Olivier，E. (2009). Role of Broca's area in encoding sequential human actions: a virtual lesion study. Neuroreport, 20(16), 1496-1499.   
+Corballis, M. C. (2010). Mirror neurons and the evolution of language. Brain Language,112,25- 35.   
+Cracco,E.， Bardi,L., Desmet, C.，Genschow, O.， Rigoni,D., De Coster, L.，...Brass，M. (2018). Automatic imitation: A meta-analysis. Psychological Bulletin, 144(5), 453-500.   
+Dean,L.G., Kendal,R.L., Schapiro,S.J., Thierry, B.,& Laland, K.N.(2013). Identification of the social and cognitive processes underlying human cumulative culture. Science, 335(6072), 1114-1118.   
+Dean,L.G., Vale, G.L., Laland, K.N.,Flynn,E.,& Kendal,R.L. (2O14). Human cumulative culture: a comparative perspective. Biological Reviews, 89(2),284-301.   
+DeMatteo, A. (1977). Visusal imagery and visual analogues in American Sign Language. In L. Friedman (Ed.),On the Other Hand (pp.109-137). New York: Academic Press.   
+di Pellegrino, G.，Fadiga,L., Fogassi, L., Gallese,V.,& Rizzolati, G. (1992). Understanding motor events: A neurophysiological study. Experimental Brain Research,91,176-180.   
+Dor, D. (2O17).The role of the lie in the evolution of human language. Language Sciences,63, 44-
+
+59. Dunbar, R.(1998). Groups,Gossip,and the Evolution of Language. Journal of the History of the Behavioral Sciences, 34(4),398-399. Evans，P. D.，Gilbert，S.L.，Mekel-Bobrov,N.，Ballender，E.J.，Anderson，J.R.，BaezAzizi，L.M., Tishkoff, S.A.， Hudson,R.R.,Lahn, B.T. (2O05). Microcephalin,a gene regulating brain size, continues to evolve adaptively in humans. Science, 309,1717-1720. Farsin,H.,Michel,R., Christian,D., Volkmar, G., Cornelius,W.,& Christian, B.(2OO3). The human action recognition system and its relationship to Broca's area: An fMRl study. Neurolmage, 19(3), 637-644. Fay, N.,Lister, C.J.,Ellison,T.M.,& Goldin-Meadow, S. (2014). Creating a communication system from scratch: gesture beats vocalization hands down. Frontiers in Psychology, 5(354). Feinberg，M.，Willer， R.，& Schultz，M. (2014). Gossip and ostracism promote cooperation in groups.Psychological Science, 25(3),656-664. Fiddes,I. T., Lodewijk, G.A.， Mooring, M.， Bosworth, C. M., Ewing, A. D., Mantalas, G. L.，. Haussler, D. (2018). Human-Specific NOTCH2NL genes affect notch signaling and cortical neurogenesis. Cell,173(6), 1356-1369. Fitch,W.T. (2010). The evolution of language. Cambridge, UK: Cambridge University Press. Fitch，W. T. (2017). Empirical approaches to the study of language evolution. Psychonomic Bulletin & Review, 24(1),3-33. Florio,M.,Albert,M.,Taverna,E., Namba,T., Brandl,H., Lewitus,E.,... Huttner, W.B. (2015). Human-specific gene ARHGAP11B promotes basal progenitor amplification and neocortex expansion.Science, 347(6229),1465-1470. Fogassi，L.，& Ferrari, P. F. (2oo7). Mirror neurons and the evolution of embodied language. Current Directions in Psychological Science,16(3),136-141. Fröhlich，M.， Sievers,C.， Townsend, S.W.，Gruber, T.，& van Schaik,C. P. (2019). Multimodal communication and language origins: integrating gestures and vocalizations. Biological Reviews, 94(5), 1809-1829. Garcia,J. (2002). Sign With Your Baby: How to communicate with infants before they can speak. USA: Northlight Communications. Goldin-Meadow, S.,& Brentari, D. (2017). Gesture, sign,and language: The coming of age of sign language and gesture studies. Behavioral and Brain Sciences,40,e46. Goldin-Meadow, S.， Cook, S.W.，& Mitchell Z. A. (2009). Gesturing gives children new ideas about math. Psychological Science, 20, 267-272. Gould,S.J. (1991). Exaptation: A Crucial Tool for an Evolutionary Psychology. Journal of Social Issues, 47(3), 43-65. Harmand,S.,Lewis,J.E.,Feibel, C.S.,Lepre,C.J.,Prat,S.,Lenoble,A.,...Arroyo,A. (2015).3.3- million-year-old stone tools from Lomekwi 3,West Turkana, Kenya. Nature, 521(7552), 310. Hecht,E.E., Gutman, D.A., Khreisheh,N.,Taylor,S.V., Kilner,J.,Faisal,A.A.,...Stout, D.(2015). Acquisition of Paleolithic toolmaking abilities involves structural remodeling to inferior frontoparietal regions. Brain Structure & Function,220(4),2315-2331. Higuchi，S.，Chaminade，T.， Imamizu，H.，& Kawato，M. (2009). Shared neural correlates for language and tool use in Broca's area. Cognitive Neuroscience and Neuropsychology， 20, 1376-1381 Hockett, C.F. (196O). The Origin of Speech. Scientific American, 203,89-97.
+
+Huang,J.,LiM,Lin,Q.,Li,Y,Shi,L,Su,B.,..Lu,Y. (2019).Transgenicrhesus monkeys carring the human MCPH1 gene copies show human-like neoteny of brain development. National Science Review, 6(3), 480-493.   
+Hunsicker， D.，& Goldin-Meadow， S. (2O12)． Hierarchical structure ina self-created communication system: Building nominal constituents in homesign. Language, 88(4),732- 763.   
+lani，F.，& Bucciarell，M. (2017). Mechanisms underlying the beneficial effect of a speaker's gestures on the listener. Journal of Memory and Language, 96,110-121.   
+Kang,S., Tversky, B.,& Black,J. B.(2015). Coordinating gesture,word,and diagram: Explanations for experts and novices.Spatial Cognition & Computation,15(1),1-26.   
+Kegl, J.(2OO2). Language emergence in a language-ready brain: Acquisition issues.In G. Morgan & B.Woll (Eds.)， Language acquisition in signed languages (pp. 207-254). Cambridge: Cambridge University Press.   
+Kendon,A.(2017). Reflections on the “gesture-first" hypothesis of language origins. Psychonomic Bulletin & Review, 24,163-170.   
+Kochiyama,T., Ogihara,N.， Tanabe,H. C.，Kondo,O.，Amano, H.， Hasegawa，K.，．.. Bastir， M. (2018). Reconstructing the Neanderthal brain using computational anatomy. Scientific reports, 8(1), 6296.   
+Koechlin，E.，& Jubault， T. (2O06). Broca's area and the hierarchical organization of human behavior. Neuron, 50, 963-974.   
+Kolodny, O.，& Edelman, S. (2018). The evolution of the capacity for language: the ecological context and adaptive value of a process of cognitive hijacking. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1743), 20170052.   
+Kolodny, O.， Lotem,A.，& Edelman, S. (2015). Learning a generative probabilistic grammar of experience: A process-level model of language acquisition. Cognitive Science,39(2),227- 267.   
+Kontra,C.， Goldin-Meadow, S.，& Beilock, S.L. (2012).Embodied learning across the life span. Topics in Cognitive Science, 4(4), 731-739.   
+Kontra, C., Lyons, D.J., Fischer, S.M.,& Beilock,S.L. (2015). Physical experience enhances science learning. Psychological Science, 26(6), 737-749.   
+Koppensteiner， M.， Stephan，P.，& Jäschke,J. P.M. (2016)．Moving speeches:Dominance, trustworthiness and competence in body motion. Personality and Individual Differences,94, 101-106.   
+Kuhn,L.J.,Willoughby, M.T.,Wilbourn,M.P., Vernon-Feagans,L., Blair, C.B.,& Investigators,T.F. L. P. K. (2014). Early communicative gestures prospectively predict language development and executive function in early childhood. Child Development, 85(5),1898-1914.   
+Laland, K. N. (2017a). Darwin's unfinished symphony: How culture made the human mind. New Jersey: Princeton University Press.   
+Laland,K.N. (2017b). The origins of language in teaching. Psychonomic Bulletin Review, 24,225- 231.   
+Liszkowski, U., Carpenter, M.,& Tomasello,M. (20o8). Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners. Cognition, 108(3),732-739.   
+Lombao，D.，Guardiola，M.，& Mosquera，M. (2017). Teaching to make stone tools: new experimental evidence supporting a technological hypothesis for the origins of language. Scientific Reports, 7(1), 14394.   
+Lüke,C.， Ritterfeld, U.， Grimminger, A.,Liszkowski, U.，& Rohlfing, K.J.(2017). Development of pointing gestures in children with typical and delayed language acquisition. Journal of Speech, Language, and Hearing Research, 60(11), 3185-3197.   
+Maricic,T.，Gunther, V.， Georgiev, O.， Gehre,S.， Curlin，M., Schreiweis, C.，...Lalueza-Fox,C. (2013).A recent evolutionary change affects a regulatory element in the human FOXP2 gene.Molecular Biology & Evolution,30(4),844-852.   
+Marstaller, L.，& Burianova,H. (2014). The multisensory perception of co-speech gestures - a review and meta-analysis of neuroimaging studies.Journal of Neurolinguistics, 30, 69-77.   
+McLean, C.Y., Reno,P.L., Pollen, A. A.， Bassan, A.I., Capellini, T.D., Guenther, C.,... Kingsley, D. M.(2011). Human-specific loss of regulatory DNA and the evolution of human-specific traits. Nature, 471, 216.   
+McNeill,D. (2012). How language began: Gesture and speech in human evolution. New York: Cambridge University Press.   
+Mekelbobrov, N., Gilbert, S.L.， Evans,P. D., Vallender, E.J., Anderson,J.R., Hudson,R.R.，. Lahn,B. T. (2005). Ongoing Adaptive Evolution of ASPM,a Brain Size Determinant in Homo sapiens. Science, 309(5741),1720-1722.   
+Meyer，G. F.，Greenlee，M.，& Wuerger， S. (2011). Interactions between auditory and visual semantic stimulusclasses: Evidence for common processing networks for speech and body actions.Journal of Cognitive Neuroscience, 23(9),2291-2308.   
+Morgan,T.J.H.， Uomini, N.T.， Rendel,L. E., Chouinardthuly, L., Street, S.E., Lewis, H. M.，. Torre,l.D.L. (2015). Experimental evidence for the co-evolution of hominin tool-making teaching and language. Nature Communications, $\boldsymbol { 6 ( 1 ) }$ ,6029-6029.   
+Mumford, K. H.,& Kita, S. (2014). Children use gesture to interpret novel verb meanings. Child Development, 85,1181-1189.   
+Novack，M.， Congdon，E.， Hemani-Lopez， N.，& Goldin-Meadow, S. (2014). From action to abstraction: Using the hands to learn math. Psychological Science,25, 903-910.   
+Novack, M. A.,& Goldin-Meadow, S. (2017). Gesture as representational action: A paper about function. Psychonomic Bulletin & Review, 24(3),652-665.   
+Nowicki，S.，& Searcy，W. A. (2014). The evolution of vocal learning. Current Opinion in Neurobiology, 28,48-53.   
+Okanoya，K. (2017). Sexual communication and domestication may give rise to the signal complexity necessary for the emergence of language: An indication from songbird studies. Psychonomic Bulletin & Review, 24,106-110.   
+Ondobaka,S., Kilner, J.,& Friston, K. (2017).The role of interoceptive inference in theory of mind. Brain and Cognition, 112,64-68.   
+Ozcaliskan, \$.，Adamson,L. B.， Dimitrova,N.，& Baumann, S. (2017). Early gesture provides a helping hand to spoken vocabulary development for children with autism, Down syndrome and typical development. Journal of Cognition and Development, 18(3),325-337.   
+Pammi, V.S.C.,Miyapuram, K.P., Ahmed,Samejima,K.， Bapi, R.S.,& Doya, K. (2012). Changing the structure of complex visuo-motor sequences selectively activates the fronto-parietal network. Neurolmage, 59(2),1180-1189.   
+Pepperberg, I. M. (2016).Animal language studies: What happened? Psychonomic Bulltin & Review,24(1)181-185.   
+Perniss, P., Ozyurek, A.,& Morgan, G. (2015). The influence of the visual modality on language structure and conventionalization: Insights from sign language and gesture. Topics in Cognitive Science, 7, 2-11.   
+Petitto,L. A. (1992). Modularity and constraints in early lexical acquisition: Evidence from children's early language and gesture. In.In M. Gunnar (Ed.), Minnesota Symposium on Child Psychology (Vol.25,pp.25-58). Hillsdale, NJ: Erlbaum.   
+Pinker, S. (2O07). The language instinct: How the mind creates language. New York, NY: Harper Perennial Modern Classics.   
+Pritchett, B.L., Hoeflin,C., Koldewyn, K., Dechter,E.,& Fedorenko,E. (2018). High-level language processing regions are not engaged in action observation or imitation. Journal of Neurophysiology,120(5),2555-2570.   
+PuttS.S.，Woods，A. D.，& Franciscus，R.G. (2014).The role of verbal interaction during experimental bifacial stone tool manufacture.Lithic Technology, 39(2), 96-112.   
+Redcay, E., Ludlum, R.S., Velnoskey, K. R.,& Kanwal, S. (2016). Communicative signals promote object recognition memory and modulate the right posterior STS. Journal of Cognitive Neuroscience, 28(1), 8-19.   
+Rowe,M.L.， Goldin-Meadow, S. (2O09). Differences in early gesture explain SES disparities in child vocabulary size at school entry. Science, 323, 951-953.   
+Rowe,M. L., Goldin-Meadow, S (2009). Early gesture selectively predicts later language learning. Developmental Science, 12,182-187.   
+Salo, V. C., Ferrari, P.F.,& Fox, N.A. (2019). The role of the motor system in action understanding andcommunication: Evidence from human infantsand non-humanprimates. Developmental Psychobiology, 61(3),390-401.   
+Salo,V. C.， Rowe,M. L.，& Reeb-Sutherland, B. C.(2018). Exploring infant gesture and joint attention as related constructs and as predictors of later language.Infancy, 23(3), 432-452.   
+Senghas，A.，& Coppola,M. (2Oo1). Children creating language: How Nicaraguan sign language acquired a spatial grammar. Psychological Science, 12(4),323-328.   
+Senghas，R.J., Senghas, A.，& Pyers,J.E. (2Oo5). The emergence of Nicaraguan sign language: Questions of development, acquisition and evolution. In S.T. Parker, J. Langer,& C. Milbrath (Eds.),Biology and knowledge revisited: From neurogenesis to psychogenesis (pp.287-306). Mahwah, NJ: Erlbaum.   
+Silk,J.B., Brosnan, S.F., Vonk,J.， Henrich,J.,Povinelli, D.J., Richardson,A.S.，... Schapiro,S.J. (2005). Chimpanzees are indiferent to the welfare of unrelated group members. Nature, 437(7063), 1357-1359.   
+Smit，H. (2O14).The social evolution of human nature. Cambridge，UK: Cambridge University Press.   
+Stout,D.，& Chaminade,T. (2012). Stone tools, language and the brain in human evolution. Philosophical Transactions of the Royal Society B: Biological Sciences,367(1585),75-87.   
+Stout,D.，Passingham,R.， Frith, C.，Apel,J.，& Chaminade,T. (2011).Technology, expertise and social cognition in human evolution. European Journal of Neuroscience,33(7),1328-1338.   
+Stout，D.，Toth，N.， Schick，K.，& Chaminade,T. (2O08). Neural correlates of early stone age toolmaking: technology， language and cognition in human evolution. Philosophical Transactions of the Royal Society B: Biological Sciences,363(1499),1939-1949.   
+Street, S.E.， Navarrete,A.F.，Reader, S. M.，& Laland,K.N. (2O17). Coevolution of cultural intelligence,extended life history，sociality,and brain size in primates. Proceedings of the National Academy of Sciences,114(30),7908-7914.   
+Szamado, S.,& Szathmary, E. (2Oo6). Selective scenarios for the emergence of natural language. Trends in Ecology and Evolution,21,555-561.   
+Thill,S.,& Twomey, K. E. (2016). What's on the inside counts: A grounded account of concept acquisition and development. Frontiers in Psychology, 7,402-402.   
+Tomasello,M. (20o8). Origins of human communication. Cambridge,MA: MIT Press.   
+Ullman, M.T. (2oo6). Is Broca's area part of a basal ganglia thalamocortical circuit? Cortex, 42(4), 480-485.   
+Uomini，N.T.，& Meyer， G.F. (2O13). Shared brain lateralization patterns in language and acheulean stone tool production: A functional transcranial doppler ultrasound study. Plos One,8(8),e72693.   
+Wakefield,E., Novack, M.A., Congdon,E.L.,Franconeri,S.,& Goldin-Meadow, S. (2O18).Gesture helps learners learn， but not merely by guiding their visual attention. Developmental Science,21(6),e12664.   
+Wakefield,E.M., Hal, C.,James, K. H.,& Goldin-Meadow, S. (2018). Gesture for generalization: gesture facilitates flexible learning of words for actions on objects. Developmental Science, 21(5),e12656.   
+Walker,A.,& Leakey, R. (1993).The Nariokotome Homo erectus skeleton.Netherlands: Springer.   
+Warneken，F.，& Tomasello，M. (2O06). Altruistic helping in human infants and Young Chimpanzees.Science,311(5765),1301-1303.   
+Weiss,P. H.,Ubben,S.D., Kaesberg,S.,Kalbe,E.,Kessler,J.,Liebig,T.,&Fink,G.R.(2O16).Where language meets meaningful action: a combined behavior and lesion analysis of aphasia and apraxia. Brain Structure& Function,221(1),563-576.   
+Yang, J., Andric, M.,& Mathew, M.M.(2015). The neural basis of hand gesture comprehension: a meta-analysis of functional magnetic resonance imaging studies. Neuroscience & Biobehavioral Reviews, 57,88-104.   
+Zambrana,I. M., Ystrom,E., Schjolberg, S.,& Pons, F. (2013). Action Imitation at $1 \%$ years Is better than pointing gesture in predicting late development of language production at 3 years of age. Child Development, 84(2),560-573.
+
+# Use Gesture Instead of Speech:
+
+# Hand action and language evolution
+
+YIN Rong
+
+(Schoolof TeacherEducation,Weifang University,Weifang26lo6l,China)
+
+Abstract: Language evolution is an important issue of evolutionary psychology. Mirror System Hypothesis,Tool-making Hypothesis and Teaching Hypothesis explain the relationship between hand action and language evolution from different perspectives. All thre hypotheses agree that human language originates from the experience of hand movements. Relevant empirical researches found that sign language and spoken language have some common features, language and hand movements share common neural circuits, gesture development can predict the level of language ability,and gesture can enhance the transmission efficiency of knowledge about tool making. These studies provide empirical support for specific inferences of above three hypotheses. Future research in this field needs to focus on the evolutionary relationship between sign language and spoken language,as well as the relationship between human language and other cognitive characteristics.
+
+Key words: hand action; gesture; sign language; language; evolution

@@ -1,0 +1,305 @@
+# DOI: 10.5846/stxb201701140115
+
+何宝忠,丁建丽,李焕,刘博华,陈文倩.新疆植被物候时空变化特征.生态学报,2018,38(6):2139-2155.   
+HeBZ,DingJiStetirtc, 38(6):2139-2155.
+
+# 新疆植被物候时空变化特征
+
+何宝忠1,²，丁建丽1,2，\*，李焕1,²，刘博华1,²，陈文倩1,2
+
+1新疆大学资源与环境科学学院智慧城市与环境建模自治区普通高校重点实验室，乌鲁木齐830046  
+2 新疆大学绿洲生态教育部重点实验室，乌鲁木齐830046
+
+摘要：基于 MODIS-NDVI数据,提取新疆 2001—2016 年典型植被物候期,分析新疆不同生态分区的山地-绿洲系统植被物候期的时空演变趋势和空间分异特征,并结合同期气象数据,探讨植被物候与气候变化的响应关系。结论为： $\textcircled{1}$ 新疆植被物候具有明显的纬向分布和垂直地带性分布特征,海拔在物候的地域分异中扮演着重要作用。新疆植被生长季开始时间（Start ofseason，SOS)集中于3月中旬至5月上旬,生长季结束时间(End of season，EOS)集中于10月中旬至12月下旬。 $\textcircled{2}$ 与全球大背景下典型植被物候特征变化趋势相反,新疆植被 SOS呈推迟趋势,推迟幅度为1.9d/10a;EOS呈提前趋势,提前幅度为 $3 . 6 6 \mathrm { d }$ 10a;生长季长度(Lengthof season，LEN)呈缩短趋势,缩短幅度为 $5 . 6 \mathrm { d } / 1 0 \mathrm { a }$ 。除东疆地区外，全疆及不同分区均呈现出绿洲及平原 SOS 较早,山地区域较迟;全疆及不同分区均呈现出山地EOS 结束较早,绿洲结束较迟;除东疆地区外,全疆及不同分区的LEN 均为绿洲及平原区域>山地,同样显示出垂直地带性分布的特征。 $\textcircled{3}$ 通过冗余分析（Redundancyanalysis，RDA）解释了物候特征与气象因子关系的绝大部分信息,生长季开始时间受春季气温、前一年冬季降水量和日照时数的显著影响。夏季和秋季降水量是新疆植被生长季结束时间的重要影响因素,在总体上受气温和日照时数的影响较小。
+
+关键词：植被物候；山地-绿洲系统;时空变化；气候变化;新疆
+
+# Spatiotemporal variation of vegetation phenology in Xinjiang from 2oo1 to 2016
+
+HE Baozhong1,²，DING Jianli1,2,\*，LI Huan1.2，LIU Bohua1,2，CHEN Wenqian1,2 1XinjiangCommon UniversityKeyLabofSmartCityandEnironmental Stimulation，XinjiangUniversityUrumqi83006,Cina 2 Key Laboratory for Oasis Ecology， Xinjiang University，Urumqi 830046，China
+
+Abstract:Typical phenological metrics（start of the season，SOS；end of the season，EOS；and length of the season, LEN）were estimated using moderate resolution imaging spectroradiometer（MODIS)-normalized diference vegetation index (NDVI）data from2Ool to 20l6.Then,thephenological interannual variation trendandits spatial paern wereanalyzed for the ecological mountain-oasis-desert system（MODS）in Xinjiangand its sub-regions，andtherelationship between the vegetation changes and theclimatevariations werediscussed in combinationwith the meteorologicaldata.The following results wereobtained inthisstudy.Thephenologicalcharacteristicsin Xinjiang exhibitedobviouszonaland vertical zonal distributioncharacters，andthealtitudeplaysanimportantroleintheregional diffrentiationofphenology.The SOSand EOSranged frommid-March to early-May，andmid-October to late-December，respectively.Contraryto theglobal phenological change direction,the SOS wasdelayed in Xinjiang withadelayedamplitudeof1.9days inevery1O years,the EOS was advanced with an advanced amplitude of 3.66 days in every 10 years，and the shortened LEN amplitude was 5.6 days in every1Oyears.TheSOSwas earlier at theoasisand plain regions but later in the mountainarea in theentire
+
+Xinjiangarea exceptfortheEasternpart.TheEOSoccurredearlierin the mountainandlaterin theoasisregionof the entire Xinjiangareaanddiferentpartition zones.TheLENrangechanged fromtheoasisand plaintothemountainareas excep for the eastern part and showed avertical zoning character.Basedonthe redundancyanalysis（RDA），which explains mostof therelationship information between the phenological charactersandtheclimatefactors,the SOS wasremarkably influenced byspring temperatures，theyear before the winterrainfalland sunshine duration.Summerand autumn precipitation wa the importantinfluencing factorfortheEOS,which wasaffectedbythe temperatureandsunshineduration,although theffect wa limited.We may have toconsiderthechanging amplitudeas the mainandsecondary factor thataffectsthe phenology metricswhen studyingtheassociated interannualvariation.Thisisbecausevarious influencing factorsmayhavediferent effectsandchange the directionof theadvancedordelayed vegetation phenology，whichultimatelyafects thephenological characteristics of the interannual trend.
+
+Key Words: vegetation phenology；mountain-oasis system； spatiotemporal variation； climate change；Xinjiang
+
+植物物候是指植物受生物因子和非生物因子如气候、水文、土壤等影响而出现的以年为周期的自然现象,是植物长期适应环境的季节性变化而形成的生长发育节律[1]和集中于对物候事件的关注[2],同时是植物应对环境变化时表现出的一系列生活史对策,关系到植物物体本身的生存繁衍和群落生物多样性的维持[3]。植被物候是最精确响应气候变化的敏感性指标之一[4],在生态系统碳循环和水循环方面起着重要作用[5],而且不同农作物的物候阶段特征对于如灌溉、施肥等的农业活动提供了关键信息,也是基于遥感植被指数来估测作物产量的关键输入变量[7-8]。从20世纪80年代以来,北半球部分区域增温显著,使人们越来越关注植被物候期及其对气象变化的响应研究[9]。
+
+大量研究表明,气候变暖提前了生长季始期,延迟了生长季末期的到来[3.10],从而带来更长的生长季长度[11]。在过去的几十年,北半球、欧洲和北美大部分植被的春季萌发期呈提前趋势[12-13]。许多研究者认为温度与植物物候变化最具相关性[3.14],但是对一些植物,温度仅影响到对植物一些可见的物候相,如叶着色等进行调节和诱导作用[3,15]。我国学者主要在北半球中高纬地区[12]、中亚地区[16]、以及中国大陆[17]、中国温带地区[18]、中国东部地区[19-21]、华北地区[22]、青藏高原[13,23-24]、北方农牧交错带[25]、内蒙古草原[26]、秦岭山地[27]、黑河流域[28]等地区进行了植被物候研究,总体上可以得出生长季提前是中国植被对全球变化响应的最主要方式,但存在区域性差异[17],同时中国温带植被物候的生长时间延长,物候始期提前,物候末期推迟,这些变化主要是因为增温的趋势所致[18];因此,我国学者对于上述区域的研究也表明了温度是驱动植被物候变化的重要影响因素。国外学者主要集中在2014年之前对世界各地进行植物物候研究,而且特别重视对于农作物物候的研究,如 Zeng 等[29]利用2009—2012年 MODIS-WDRVI数据和陆面地表温度数据研究了美国内布拉斯加州和爱荷华州的玉米和大豆的物候期,结果表明所用的融合形状拟合模型的两步滤波法提取物候信息的精度较高,同时表明种植时间由北向南逐渐提前和由于增温的影响,2012年作物开始生长的时间早于其他年份;Melaas 等[30]以 TM/ETM $^ +$ EVI为数据源,利用陆地卫星物候反演算法（Landsat phenology algorithm，LPA）对北美地区1982—2013年的温带和北方森林的物候特征进行了反演研究,并与地面实测资料和以 MODIS 物候产品数据的反演结果进行了比较,结果表明 LPA 法与地面实测值具有高度的一致性;Dong 等[31]以Landsat8为数据源,运用基于物候与像元的水稻制图法（phenology-and pixel-based paddy rice mapping,PPPM)结合谷歌引擎(Gogle Earth Engine，GEE)对东北亚地区（日本、朝鲜、韩国、中国东北部)2014 年的水稻种植区进行了制图,生产者、用户精度分别达到了 $7 3 \%$ 和 $9 2 \%$ 。
+
+以上国内外研究主要运用的是遥感类的方法来研究大区域尺度的物候变化特征，这是因为遥感观测具有覆盖范围广、连续性强的特点,弥补了传统物候观测手段的不足[32]。遥感方法提取物候参数是基于传感器获取植被的绿度信息,与传统意义上植被物候期如出苗、展叶、抽穗和开花不严格一致,但它能在宏观上反映植被物候关键信息的相对状况[23]。相关学者已经研究了整个中国不同地区植被的物候特征[16-28],但研究区域明显集中于我国中东部和北部地区,极少有对处于西北内陆的新疆地区做系统的研究。虽然相关学者[13,6-18]等所研究的中亚和温带区域包括新疆地区,但这些研究主要是从总体上分析这些区域在2006年之前植被物候的发展趋势,且主要用的是分辨率低于1km 分辨率的 MODIS-NDVI/EVI、SPOT-VGT 和 NOAA AVHRR-NDVI等数据,没有探讨近10多年来全疆及不同分区的植被物候空间细节上的变化特征，因为不同的分区有着自身独特的气候特点、生态特征、行政区界限等特点[33];因此,本研究运用 $5 0 0 \mathrm { m }$ 分辨率的MOD13A1-NDVI数据提取新疆 2001—2016 年植被的典型物候期,包括生长季开始时间（Start of season，SOS）、生长季结束时间（End of season，EOS）和生长季长度（Length of growth season，LEN）,结合同期气象数据,从宏观角度定量角度揭示气候与新疆植被物候变化的响应关系。 C）
+
+# 1研究区域
+
+新疆位于中国西北部,其"三山夹两盆”的地域结构使得植被具有明显的纬向水平地带性分布规律[34]，为典型的山地-绿洲-荒漠系统（MODS,mountain-oasis-desert system）[3-34]。全疆属于明显的温带大陆性气候，气温温差较大,降水量少,气候干燥;森林稀少,植被覆盖率低。土地沙质荒漠化、土壤盐渍化明显,使其生态环境极其脆弱[35]。结合相关学者[35-37]的研究,把新疆分为东疆、南疆、北疆及伊犁地区,每个分区又分为山地、绿洲、荒漠和平原,其中伊犁地区只有山地和平原。基于此,将新疆共划分为2001—2016年11年4个分区在内的共11个子区（图1）。
+
+![](images/50bed930ed1a7c7a7aeca48a25a8d029a373b9385442ee74c4f874c36ea38186.jpg)  
+图1研究区示意图  
+Fig.1Sketch of different sub-regions in the study area
+
+# 2数据与处理方法
+
+# 2.1数据来源与预处理
+
+NDVI数据:从美国国家航空航天局 NASA 的 EOS/MODIS 数据网(ladsweb.nascom.nasa.gov）下载,内容为
+
+http://www.ecologica.cn
+
+栅格归一化植被指数（NDVI），MOD13A1,周期为16天,将全年划分为23个时段 $5 0 0 \mathrm { m }$ 分辨率的3级正弦投影产品[38]。应用 MRT（MODIS Reprojection Tol)工具将下载的数据进行格式和投影转换、图像拼接和裁切[21]。气象数据;选取新疆自治区内 53个气象站 2001—2012 年的中国地面气候资料月值数据集,包括气温、降水和日照时间,数据来源于中国气象数据网(http://data.cma.cn/）。站点数据均匀分布在了全疆不同地理位置、气候带、地类且具有较好同质性的地区,能较好的从总体上代表研究区的气候情况(图1)。2013—2015 年虽有中国地面国际交换站气候资料日值数据集,但只有18个站点,不能很好的表示研究区域的总体气候特征,因此只讨论研究区2001—2012年物候特征与气候因子的关系。将站点月实测数据求平均,作为整个研究区的气候月均值。DEM来源于美国地质勘探局 USGS 网站（htp://www.usgs.gov/）的 SRTM数据,分辨率为 $9 0 \mathrm { m }$ ,为了与所用的MODIS 影像分辨率一致,把SRTM数据重采样为 $5 0 0 \mathrm { m }$ 分辨率的DEM数据。
+
+# 2.2 研究方法
+
+# 2.2.1 时间序列数据的预处理
+
+虽然所采用的数据经过了16天最大值合成法的处理,但云和大气对获取的遥感影像的影响依旧很大,带来一些噪声,需要对其进一步平滑处理[25]。由于 Savitzky-Golay 滤波可以消除噪声的影响,平滑后重构的曲线很好的体现了NDVI时序数据的“峰”、“谷"特征[25]。因此本文运用 TIMESAT[39]软件采用 Savitzky-Golay滤波处理,得到重建后的NDVI曲线。拟合公式为： 1
+
+式中， $Y _ { j }$ 为拟合之后的序列数据， $Y _ { j + i }$ 为原始序列数据 $, C _ { i }$ 为滤波系数， $N$ 为滑动窗口的大小( $2 m + 1 ^ { \cdot }$ 。
+
+# 2.2.2 物候期的确定
+
+植被物候信息提取的方法包括6类常用方法：阈值法、滑动平均法、拟合法、最大斜率法、累积频率法和主成分分析法[32]。采用动态阈值法从NDVI数据集中提取新疆植被物候的始末期（SOS,EOS）。主要是因为北半球尺度上区域水热条件限制,动态阈值的检测方法更适合内部差异较大的地区[12],是确定大尺度区域植被物候较为合适的方法[27]。动态阈值法的计算方法通常为：
+
+$$
+\mathrm { N D V I } _ { \mathrm { t h r e } } = \left( \mathrm { N D V I } _ { \operatorname* { m a x } } - \mathrm { N D V I } _ { \operatorname* { m i n } } \right) \times C
+$$
+
+式中， $\mathrm { \Delta N D V I _ { \mathrm { t h r e } } }$ 为最后确定的阈值,NDVIa为 NDVI上升阶段的最大值, $\mathrm { \Delta N D V I _ { \mathrm { { m i n } } } }$ 为 NDVI下降阶段的最小值, $C$ 为系数或称百分比。 A
+
+根据相关学者[16,19]的研究,本文将 SOS 和 EOS 的系数都设置为 $20 \%$ 。用儒略历(Julian calendar)计算法(1月1日为一年中第1天)进行物候期统计分析[24]。由于荒漠地区植被稀少,植被物候特征受到土壤背景的影响严重[17.40],因此根据历年分区文件和土地利用图去除荒漠、水体、冰川及积雪区域,只在全疆的山地、绿洲及平原区域进行研究。
+
+# 2.2.3 物候特征年际变化趋势计算
+
+研究中普遍采用最小二乘法分析 SOS,EOS 和LEN 的年际变化趋势[13],因此本研究采用一次线性方程来定量描述植被物候期的变化趋势,即以年代 $\mathbf { \chi } _ { t }$ 为时间因子,植被物候期 $y$ 为模拟对象,建立 $y$ 与 $\mathbf { \chi } _ { t }$ 之间的线性回归方程[21,26]：
+
+$$
+y = c + b t
+$$
+
+$$
+b = \frac { n \times \displaystyle \sum _ { i = 1 } ^ { n } \left( i \times P _ { i } \right) \ : - \ : \displaystyle \sum _ { i = 1 } ^ { n } i \sum _ { i = 1 } ^ { n } P _ { i } } { n \times \displaystyle \sum _ { i = 1 } ^ { n } i ^ { 2 } - \left( \sum _ { i = 1 } ^ { n } i \right) ^ { 2 } }
+$$
+
+式中， $\mathbf { \Psi } _ { c , b }$ 为待定系数,其中 $b$ 为倾向值,若 $b > 0$ 表示研究的要素呈上升趋势， $\textit { b } < 0$ 表示研究的要素呈下降趋势， $b \times 1 0$ 称为倾向率,单位为 $d$ （天） $\ / 1 0 a$ （年）。 $n$ 表示年数,文中该值为16; ${ \mathbf { } } _ { P _ { i } }$ 为植被生长季在第 $i$ 年的
+
+开始日期、结束日期或生长季长度。受各种环境因素的的影响，有些像元的SOS,EOS和 $L E N$ 在某些年份无效,因此对于同一像元累积有效年数大于等于7年的有效像元用此方法进行分析,并对上升和下降的趋势做显著性检验,根据是否具有显著性分为显著、不显著和无变化的情况。用最小二乘法来确定 $\boldsymbol { c } , \boldsymbol { b }$ 系数。
+
+# 2.2.4物候特征与海拔之间的关系
+
+相关研究结果表明海拔与植被物候变化存在明显的海拔分异规律[13],因此在DEM上通过随机选点的方式(至少间隔 $4 \mathrm { k m }$ ),共选出3000 个样点,这些样点均匀的分布在新疆不同海拔高度上,然后提取每个样点的高程值和对应像元中 SOS、EOS 和LEN值,做成新疆植被物候多年均值与海拔高程之间的散点图,通过线性拟合的方式来探讨新疆地区植被物候特征的海拔分异规律性特点。 C））
+
+# 2.2.5 冗余分析(RDA)
+
+冗余分析 RDA（Redundancyanalysis）是生态学中的一种直接梯度排序法,可以分析解释变量和多个响应变量之间的关系,已被广泛应用于土壤、生态、环境和气候等领域[41]。与常规的统计分析相比,RDA 所包含的信息量更大,它以样方为基础,通过箭头方向和长度等在排序图上直观的表达出各要素之间的相关性和影响程度。因此,本研究应用RDA来分析植被物候特征与气象因子间的响应关系。RDA 分析和作图应用国际标准通用软件CANOCO 4.5。
+
+# 3结果与讨论
+
+# 3.1植被物候提取结果的精度验证
+
+由于中国新疆干旱区物候观测点和数据都极度缺乏，仅有的物候观测站点范围小且物种分布混杂，很难直接与较粗分辨率的遥感数据相匹配,因此根据相关学者的研究,采用在新疆分布面积广泛的春小麦的出苗时间作为校准数据,是因为在没有精确的数据采集坐标下，可以假定该观测数据代表气候站点周围春小麦的出苗时间[42]。各气象站点作物及发育数据来源于中国气象数据网（htp://data.cma.cn/)的中国农作物生长发育和农田土壤湿度旬值数据集，共整理出86个样本点数据。
+
+由验证结果来看（图2），新疆植被物候有显著的分区特征，呈明显的团块状分布，北疆与伊犁地区春小麦的出苗时间较迟，东疆和南疆较早，由于南北疆气候的显著差异，遥感监测与实测值的响应关系不一定一致，如果把这两个区域进行总体验证必然会带来误差，因此对这两个大的区域分别进行验证。可以得出在不同分区中遥感监测值与实测值均呈极显著的线性关系( $P$ 值均 $\leqslant 0 . 0 0 1$ ),在北疆和伊犁地区二者之间的相关系数为0.466，在东疆和南疆达到了0.572。从整个验证结果来看，遥感监测均值为第90.08天，实测春小麦出苗期为第102.58天,二者总体上相差12.50d,这与相关学者[42]的研究结论相近（二者相差18.40d），因此由以上分析可得基于动态阈值的遥感监测方法能够从整体上正确反映研究区植被物候特征。
+
+# 3.2植被物候多年均值的空间分布特征
+
+# 3.2.1生长季开始时间(SOS)空间变化特征
+
+![](images/0f9edfea60800d731b1b6a82d0769c321f3ec6635145e47f0b813224ba13b300.jpg)  
+图2植被物候特征提取精度验证  
+Fig.2Validation result of vegetation phenological metrics based on the observed spring wheat data of different sub-regions in the study area
+
+图3 SOS 为新疆多年SOS平均空间分布。总体上,全疆山地区域 SOS较迟,晚于第120天,绿洲及平原地区SOS 较早,早于第120天,但地域差异明显。在伊犁平原、部分绿洲区域(主要在北疆绿洲、东疆吐鲁番市绿洲）离绿洲较近的天山山麓地区和昆仑山山麓地区、沿阿尔金山山麓至外围绿洲区域、拜城县绿洲外围至天山山麓的 SOS早于第90天。除南疆昆仑山附近绿洲 SOS 早于第100天外，其他南疆地区的绿洲 SOS 主要集中于第 110—150天。东疆绿洲东部 SOS 集中于第110—150天,东疆西部绿洲 SOS 集中于早于第 120 天。北疆大部分绿洲区域 SOS早于第120天,天山山麓的部分绿洲（主要位于北疆南部绿洲)SOS集中于第110一140天。全疆山地区域的SOS 在较低海拔区大部分晚于第110天,在山顶较高海拔及积雪区周边晚于第150天。从多年平均值的统计分析可以得到：(1)对于绿洲 SOS;南疆(118.71) $>$ 东疆(114.82) $>$ 北疆(94.60)；(2)对于山地 SOS：南疆 $( 1 2 0 . 8 8 ) >$ 伊犁（105.07) $>$ 北疆 $( 1 0 1 . 8 4 ) >$ 东疆(101.00)；（3)因此可以得出，对于全疆任何分区的 SOS 均明显的表现出从南往北逐渐提前的纬向分布特征,这与相关学者等的研究一致[20]。以上分析也表明全疆植被物候表现出明显的垂直地带性分布的特征,海拔每升高 $1 0 0 0 \mathrm { m }$ ,SOS 推迟 $8 . 9 \mathrm { d }$ （图4 SOS），而青藏高原每升高 $1 0 0 0 \mathrm { m }$ ,SOS推迟 $9 . 0 \mathrm { d } ^ { [ 1 3 ] }$ ,说明海拔高度对新疆 SOS 的影响与青藏高原类似。
+
+![](images/61c85cc99103664152b10bdee2732f36ff838d37ab90b8b41d90f5bd17bfd4fe.jpg)  
+图3新疆植被物候特征多年均值的空间分布  
+Fig.3Average spatial distribution of the phenological parameters during 20o1—2016 in Xinjiang
+
+SOS:生长季开始时间,Startof season;EOS;生长季结束时间,Endof season;LEN;生长季长度,Lengthof season;DEM;海拔高度,Digita elevation model
+
+3.2.2 植被生长季结束时间(EOS)空间变化特征
+
+三 图3 EOS 为新疆多年EOS 平均空间分布。总体上,山区EOS 结束较早,早于第327天,绿洲及平原区域结束较迟,晚于第327天,地域性差异同样明显;EOS与 SOS 分布情况大体相反,即表现为SOS 越早的区域，EOS 越迟;同时,EOS比 SOS 表现的更为集中,集中晚于第300天以上。在南疆部分绿洲区域、南疆荒漠中沿河流分布的绿洲区域、伊型平原、昆仑山最南部地区、昆仑山和阿尔金山中分布有河流或山谷沿线等区域的EOS 均晚于12月中旬(第345天)。全疆绿洲 EOS 集中于10月份之后(大于第308天);山地区域中离积雪或冰川分布较近的区域和阿尔金山东南部集中于10月上旬—11月上旬（第 284—308天),分布较远的区域
+
+![](images/4100bf623038a6cf2aca64b573203451fc1b4e9f966f2dada7a9236db0759481.jpg)  
+图42001一2016年间新疆植被物候多年均值与海拔之间的关系  
+Fig.4Changes in the mean of SOS,EOS and LEN during 2001—2016 along altitude gradient in Xinjiang
+
+SOS;生长季开始时间,Startofseason;EOS:生长季结束时间,Endof season;LEN:生长季长度,Length of season;DEM:海拔高度,Digitalelevation model ）
+
+集中于第308—327天;但是从全疆范围来看,离冰川积雪区更远的地理位置,如山地和绿洲之间的过渡带,在这个过渡带中EOS集中于第327—345天,这与绿洲EOS几乎一致。从多年平均值的统计分析可以得到：(1)对于绿洲 EOS,东疆（333.46） $\angle$ 南疆(339.37) $\angle$ 北疆（340.64)；（2）对于山地 EOS,南疆(320.59） $<$ 东疆(328.98) $\angle C$ 北疆(329.26) $<$ 伊犁(329.73)；(3)因此可以得出,绿洲和山地区域的 EOS 并没有表面出明显的纬向分布特征。以上分析也表明,EOS 的变化表现出明显的垂直地带性分布的特征,海拔每升高 $1 0 0 0 \mathrm { m }$ ,EOS提前6.6d（图4EOS）,而青藏高原每升高 $1 0 0 0 \mathrm { { m } }$ ,EOS 提前 $\left( 1 . 0 \mathrm { d } ^ { [ 1 3 ] } \right.$ ,说明海拔高度对新疆 EOS 的影响更大。
+
+3.2.3 植被生长季长度(LEN)空间变化特征
+
+图3LEN为新疆多年LEN平均空间分布。总体上,山区LEN较短,小于180d,绿洲及平原LEN大于180d,但地域性差异同样明显。北疆南部绿洲 LEN集中于200—250d;北疆北部绿洲 LEN 集中于 250—280d。东疆绿洲 LEN集中于180—230d,伊犁平原 LEN集中于250—300d,南疆绿洲 LEN集中于180—230d。全疆山地区域的LEN均较小:离积雪区较近的距离LEN集中于120—150d,较远的距离集中于150—180d,更远的距离集中于180—230d;山谷( $2 0 0 { \ - } 2 5 0 \mathrm { d }$ )明显比山峰(120—150d)的生长季长,即从海拔高处向低处渐变增长;在南疆的昆仑山和阿尔金山中,除了距离绿洲区域较近的山地区域外,其他山地区域的LEN 普遍偏低,低于180d;低值区集中于由昆仑山中部和阿尔金山中部及其东南部所构成的宽条块状区域中,以及天山山脉、阿尔泰山山脉等区域。从多年平均值的统计分析可以得到：(1)对于绿洲 LEN,东疆(218.65)<南疆(220.66)<北疆(246.04)；(2)对于山地LEN,南疆(199.71) $<$ 伊犁(224.66) $<$ 北疆(227.42) $<$ 东疆(227.98)；（3)因此可以得出,除东疆外,全疆任何分区的生长季长度均表现出从南向北逐渐延长的纬向变化趋势。以上分析也表明,LEN 的变化表现出明显的垂直地带性分布的特征,海拔每升高 $1 0 0 0 \mathrm { m }$ ,LEN 缩短15.5d（图4）,而青藏高原海拔每升高 $1 0 0 0 \mathrm { m }$ ,LEN 缩短 $9 . 0 \mathrm { d } ^ { [ 1 3 ] }$ ,说明海拔对新疆LEN 的影响更加显著。
+
+# 3.3物候年际变化特征分析
+
+# 3.3.1 物候期年际变化的时间特征
+
+由图5SOS 和图6SOS可得到以下结论： $\textcircled{1}$ 全疆：S0S 总体为绿洲(104.94)<山地(113.70);全疆 SOS 呈不显著推迟趋势,推迟速率为 $1 . 9 \mathrm { { d / 1 0 a } }$ ,这与全球大环境下SOS 提前的结论相反[3」，说明在新疆区域内有别于大环境下的地理气候环境的分布,极可能是由于气温、降水或日照时间长度等气候要素所主导变化的不同影响方式和方向所致;本研究 SOS 变化幅度的结果表明要低于全球的 $3 \mathrm { d } / 1 0 \mathrm { a } ^ { [ 4 3 ] }$ 、北半球的( $( 4 . 0 ~ \pm 0 . 8 ) \mathrm { d }$
+
+$1 0 \mathbf { a } ^ { [ 1 2 , 4 4 ] }$ 、欧亚大陆的 2.2- $3 . 3 \mathrm { d } / 1 0 \mathrm { a } ^ { [ 1 2 , 4 5 ] }$ 、中国温带的 $7 . 9 \mathrm { d } / 1 0 \mathrm { a } ^ { [ 1 8 ] }$ ,青藏高原的 $6 . 0 \mathrm { d } / 1 0 \mathrm { a } ^ { [ 1 3 ] }$ ,高于北美大陆的 $0 . 3 \mathrm { { d } / 1 0 a ^ { [ 1 2 ] } }$ ;全疆绿洲 SOS 呈显著推迟趋势( $P { = } 0 . 0 1 5 \$ ),推迟速率为 $5 . 6 \mathrm { d } / 1 0 \mathrm { a }$ ;全疆山地 SOS 呈不显著推迟趋势,推迟速率为 $1 . 2 \mathrm { d } / 1 0 \mathrm { a }$ ,因此可以得出绿洲SOS变化的更加剧烈,可能是因为受到人类活动的影响更大所致。 $\textcircled{2}$ 分区：东疆 SOS总体为山地(101.00) $<$ 绿洲（114.82），山地、绿洲区域 SOS均呈不显著推迟趋势，推迟速率分别为 $5 . 7 \mathrm { d } / 1 0 \mathrm { a }$ 和 $4 . 1 \mathrm { d } / 1 0 \mathrm { a }$ ;南疆绿洲与山地区域的先后顺序呈历年交替的方式进行，总体上绿洲（118.71)<山地(120.88），南疆绿洲区域 SOS 呈显著推迟趋势( $P { = } 0 . 0 0 1$ ),推迟速率为 $8 . 4 \mathrm { { d } / 1 0 a }$ ,南疆山地区域 SOS呈不显著推迟趋势，推迟速率为 $3 . 7 \mathrm { d } / 1 0 \mathrm { a }$ ;北疆 SOS总体为绿洲(94.60) $<$ 山地（101.84），绿洲 SOS呈不显著推迟趋势,推迟速率为 $4 . 0 \mathrm { d / 1 0 a }$ ,山地 SOS 呈不显著提前趋势,提前速率为 $3 . 4 \mathrm { d } / 1 0 \mathrm { a }$ ;伊犁 SOS 总体为平原(74.12)<山地(105.07），平原区呈显著推迟趋势( $P { = } 0 . 0 3 4 ) $ ,推迟速率为 $7 . 6 \mathrm { d } / 1 0 \mathrm { a }$ ,山地呈不显著提前趋势,提前速率为 $6 . 4 \mathrm { { d } / 1 0 a }$ 。 $\textcircled{3}$ 从以上分析可以得出，总体上，全疆和不同分区均呈现出绿洲及平原地区（除东疆外)的 SOS 较早,山地区域较迟,总体上二者之间相差9d左右;除北疆山地和伊犁山地 SOS 呈提前趋势,全疆其他分区SOS均呈推迟趋势。 \~
+
+![](images/476db087059b0a526b48fdfb78efed6e0269ddd4b086a0a9201cc90ccc010aee.jpg)  
+图52001—2016年新疆地区植被物候总体年际变化  
+Fig.5Inter-annual variation of Xinjiang's SOS,EOS and LEN from 2001 to 2016
+
+由图5EOS 和图6EOS可得到以下结论： $\textcircled{1}$ 全疆：EOS 总体为山地(324.00) $<$ 绿洲（339.86)；全疆 EOS 呈显著提前趋势( $P { = } 0 . 0 1 1 { \mathrm { ~ ; } }$ ）,提前速率为 $3 . 6 6 \mathrm { d } / 1 0 \mathrm { a }$ ,该结论与全球大背景下EOS 呈推迟的趋势相反[3],这个变化幅度的结果高于全球尺度的 $0 . 5 \mathrm { d } / 1 0 \mathrm { a } ^ { [ 4 3 ] }$ 、北半球的 $2 . 3 \mathrm { d } / 1 0 \mathrm { a } ^ { [ 4 4 ] }$ 、青藏高原的 $2 . 0 \mathrm { d } / 1 0 \mathrm { a } ^ { [ 1 3 ] }$ ,低于中国温带的$3 . 7 \mathrm { d } / 1 0 \mathrm { a } ^ { [ 1 8 ] }$ 、欧亚大陆的 $6 . 1 \mathrm { d } / 1 0 \mathrm { a } ^ { [ 4 5 ] }$ ,表明新疆 EOS 的年际变化相对于大背景下更加剧烈;全疆绿洲 EOS 呈不显著提前趋势,山地 EOS 呈显著提前趋势( $P = 0 . 0 2 1$ ）,提前的幅度分别为 $3 . 8 \mathrm { d } / 1 0 \mathrm { a }$ 和 $3 . 9 \mathrm { d } / 1 0 \mathrm { a }$ 。 $\textcircled{2}$ 分区：东疆EOS 总体为山地(328.98) $<$ 绿洲（333.46），山地与绿洲EOS 均呈不显著提前趋势，提前速率分别为 $6 . 4 \mathrm { d } / \$ 10a和 $0 . 3 \mathrm { d } / 1 0 \mathrm { a }$ ;南疆EOS总体为山地(320.59） $<$ 绿洲（339.37），绿洲与山地EOS均呈不显著提前趋势，提前速率分别为 $2 . 9 \mathrm { { d } / 1 0 a }$ 和 $3 . 8 \mathrm { d } / 1 0 \mathrm { a }$ ;北疆EOS 总体为山地(329.26) $<$ 绿洲（340.64），山地EOS呈显著提前趋势（ $P = 0 . 0 2 4 \rangle$ ）,绿洲EOS呈不显著提前趋势，提前速率分别为 $4 . 4 \mathrm { { d / 1 0 a } }$ 和 $4 . 5 \mathrm { { d } / 1 0 a }$ ;伊犁地区EOS总体为山地
+
+←绿洲 山地 y= 0.3733x - 628.86 东疆SOS R=0.1358 P=0.341 S国 3530 南疆 SOS R²=0.0612 P=0.356   
+115 125   
+105 120 585万 R²=0.5704x-1-05324 1B1015 R²=0.5769x -1=76.21 2000 20022004 2006 2008 2010 20122014 2016 2018 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018   
+120 北疆 SOS 130 伊型 SOS y = -0.6421x + 1394.8 y = -0.3372x + 779.12 R2=0.1787 P=0.103   
+110 R²=0.0678 P=0.33 110   
+105 100   
+100 080   
+95 70   
+98 R =0.1193x - 7=8.194 生 6050 R²=0.7373x-0.734 80 40 2000 2002200420062008 2010 2012 2014 2016 2018 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 东疆EOS R²=0.0261x+=81.019 南疆 EOS R²=-0.2934x =28.659   
+3303 3035335 ²=0.1371x +=0.458   
+320 y = -0.6421x + 1618.6 320   
+315 R²= 0.1952,P=0.087 生 315   
+310 310 2000 200220042006 2008 20102012 20142016 2018 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 北疆EOS -0.4523x + 1249 伊型EOS V -0.3955x + 1142.3   
+345 R²= 0.2302 P= 0.060 355 R²=0.1392 P=0.155   
+340 350   
+335 3粥533 R2=0.0167 +-5.33   
+325 y = -0.4392x + 1211.5 330   
+320 R²=0.3141 P=0.024 325   
+315 320 2000 20022004 2006 2008 20102012 2014 2016 2018 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018   
+260 东疆LEN y = -1.2129x + 2664 南疆LEN R²=−1.1373x+=250402   
+240 R²=0.1789 P=0.103 220   
+230 210   
+220 200   
+210 ²=0.087x +=9.354 生 10080 ²=0.753x+71373   
+190 170 2000 20022004 20062008 20102012 2014 2016 2018 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018   
+255 北疆LEN R²=0.2521x =57.5 伊型LEN R²=1.1528x +=502   
+245 270   
+235 250 ²=0.5234x-=26.53   
+225 230   
+215 y=0.102x=P-32.379 210   
+205 190 20002002 2004 20062008 20102012 20142016 2018 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 年份Year
+
+SOS;生长季开始时间,Start of season;EOS:生长季结束时间,End of season;LEN:生长季长度,Length of season(329.73) $<$ 平原（347.90）,平原和山地EOS 均呈不显著提前趋势，提前速率分别为 $4 . 0 \mathrm { d / 1 0 a }$ 和 $1 . 2 \mathrm { d } / 1 0 \mathrm { a }$ 。 $\textcircled{3}$ 以上分析表明,新疆总体和不同分区均呈现出山地EOS 结束较早,绿洲结束较晚,总体上二者相差16d 左右，全疆及不同分区的EOS均呈提前趋势。
+
+由图5LEN和图6LEN可得到以下结论： $\textcircled{1}$ 全疆：LEN总体为为绿洲 $( 2 3 4 . 9 3 ) >$ 山地（210.31）；全疆LEN呈不显著缩短趋势,缩短的幅度为 $5 . 6 \mathrm { d } / 1 0 \mathrm { a }$ ,这个变化幅度的结果与全球生长季长度呈增长的趋势相反[3],这是由 SOS 和 EOS 所决定,数值要高于全球的 $3 . 8 \mathrm { d } / 1 0 \mathrm { a } ^ { [ 4 3 ] }$ ,与北半球的 $5 . 6 \mathrm { d } / 1 0 \mathrm { a }$ 相等[44],低于青藏高原的$8 . 0 \mathrm { d } / 1 0 \mathrm { a } ^ { [ 1 3 ] }$ 、欧亚大陆的 $1 3 . 3 \mathrm { d } / 1 0 \mathrm { a } ^ { [ 4 5 ] }$ 、中国温带的 $1 1 . 6 \mathrm { d } / 1 0 \mathrm { a } ^ { [ 1 8 ] }$ ;全疆绿洲 LEN 呈显著缩短趋势（P=0.004）,山地LEN呈不显著缩短趋势,缩短的幅度分别为 $9 . 4 \mathrm { { d / 1 0 a } }$ 和 $5 . 1 \mathrm { { d } / 1 0 a }$ 。 $\textcircled{2}$ 分区：东疆LEN 总体为山地(227.98) $>$ 绿洲（218.65），山地和绿洲LEN 均呈不显著缩短趋势，缩短的幅度分别为 $1 2 . 1 \mathrm { d } / 1 0 \mathrm { a }$ 和 $3 . 9 \mathrm { d }$ 10a;南疆LEN总体为绿洲 $\left( 2 2 0 . 6 6 \right) >$ 山地（199.71），绿洲LEN 呈显著缩短趋势( $P { = } 0 . 0 0 2$ ）,山地LEN 呈不显著缩短趋势,缩短的幅度分别为 $1 1 . 4 \mathrm { d } / 1 0 \mathrm { a }$ 和 $7 . 5 \mathrm { d } / 1 0 \mathrm { a }$ ,可得绿洲区域的变动幅度更大，可能受人类活动的影响较大所致;北疆LEN 总体为绿洲 $( 2 4 6 . 0 4 ) >$ 山地（227.42），绿洲LEN呈显著缩短趋势( $P { = } 0 . 0 4 5 )$ ,山地LEN呈不显著缩短趋势,缩短的幅度分别为 $8 . 5 \mathrm { d } / 1 0 \mathrm { a }$ 和 $1 . 0 \mathrm { d / 1 0 a }$ ;在整个北疆地区,每隔几年其LEN 会有比较大的波动,如2003年,2010年,2015 年等,与其他较平稳的年份相差在10d 以上;伊犁LEN 总体为平原(273.78)>山地(224.66）,平原LEN呈显著缩短趋势( $P { = } 0 . 0 1 2 ) \$ ,缩短的幅度为11.5d/10a,山地LEN 呈不显著增加趋势,增加的幅度为 $5 . 2 \mathrm { d } / 1 0 \mathrm { a }$ 。 $\textcircled{3}$ 从总体上看，除东疆区域外，全疆及不同分区的LEN均为绿洲及平原区域>山地,二者总体上相差近 25d,同样显示出垂直地带性分布的特征;除伊犁山地区域外,全疆其他分区的LEN 均呈缩短趋势。 2
+
+# 3.3.2物候期年际变化的空间分布特征
+
+由图7SOS可得以下结论： $\textcircled{1}$ 从总体可得，全疆SOS在山地区域呈提前趋势，在绿洲及平原地区呈推迟趋势,全疆 SOS 总体呈推迟趋势。SOS 提前、无明显变化和推迟的区域分别占有效像元的 $3 8 . 9 2 \%$ ， $0 . 0 5 \%$ 和（204号 $6 1 . 0 3 \%$ ,可见推迟的区域占了大部分比例。 $\textcircled { 2 } 3 7 . 8 2 \%$ 的区域不显著提前,只有 $1 . 1 0 \%$ 的区域显著提前。提前的区域主要分布在全疆的山地区域,提前幅度集中于 $\mathrm { 0 } { - } 2 0 \mathrm { d / 1 0 a }$ ,但在部分山地区域(昆仑山南部,阿尔金山东南部)的提前幅度达到了20—30d/10a,较少部分区域达到了 $3 0 { \mathrm { - } } 4 0 \mathrm { d / 1 0 a }$ ,在阿尔金山东南部部分稀疏植被区达到了大于 $4 0 \mathrm { d / 1 0 a }$ 的变化幅度。 $\textcircled{3}$ 无明显变化的区域极少,绝大部分区域都呈现一定程度的变动。 $\textcircled{4}$ $5 . 2 7 \%$ 的区域呈显著推迟,主要分布在全疆各个绿洲和平原,包括北疆绿洲、东疆绿洲（主要是托克逊县绿洲）、伊犁平原和南疆绿洲。北疆绿洲推迟的幅度集中于大于 $1 0 \mathrm { { d } / 1 0 \mathrm { { a } } }$ ;南疆绿洲推迟度的幅度集中于大于$1 0 \mathrm { { d } / 1 0 \mathrm { { a } } }$ ;伊犁平原推迟幅度集中于0—20d/10a;东疆绿洲推迟幅度集中于 $0 { - } 3 0 \mathrm { d } / 1 0 \mathrm { a }$ 。 $\textcircled{5} 5 9 . 7 2 \%$ 的地区呈不显著推迟,不显著推迟的区域主要位于山地与绿洲、山地与荒漠、山地与平原等的过渡带上,推迟的幅度集中于0—20d/10a,其中离山地较近的区域推迟的幅度集中于 $0 { - } 1 0 \mathrm { d } / 1 0 \mathrm { a }$ ,较远的区域集中于 $1 0 { - } 2 0 \mathrm { d } / 1 0 \mathrm { a }$ 。在南疆的昆仑山和阿尔金山具有较高植被覆盖度的灌丛和草地区域,以及在北疆东部的天山边缘区也主要呈现为不显著推迟的特征,推迟的幅度集中于大于 $1 0 \mathrm { { d } / 1 0 \mathrm { { a } } }$ ,在其边缘区推迟的幅度集中于大于 $3 0 \mathrm { d / 1 0 a }$ 。
+
+由图7EOS可得以下结论： $\textcircled{1}$ 从总体上可得,除新疆伊犁和阿尔金山东南部的部分区域外,全疆其他区域的EOS 主要呈现的是提前趋势。EOS 提前、无明显变化和推迟的区域分别占有效像元的 $6 5 . 9 1 \%$ ， $0 . 0 7 \%$ 和$3 4 . 0 2 \%$ 。 $\textcircled { 2 } 7 . 1 6 \%$ 的区域呈显著提前趋势,主要呈零星块状分布于北疆的绿洲、山地,以及南疆泽普县、莎车县 麦盖提县、伽师县、疏勒县的绿洲区域,提前的幅度集中于大于 $2 0 \mathrm { d } / 1 0 \mathrm { a }$ 。 $5 8 . 7 5 \%$ 的区域呈不显著提前趋势,广泛分布于全疆各个区域,大部分北疆、南疆、东疆的山地和绿洲区域,以及伊犁北部山地区域和农用地区均呈提前趋势,提前的幅度集中于0一 $- 3 0 \mathrm { d } / 1 0 \mathrm { a }$ 。 $\textcircled{3}$ 无明显变化的区域极少，大部分都存在不同的变化幅度。$\textcircled {4 } 1 . 4 3 \%$ 的区域呈显著推迟趋势， $3 2 . 6 0 \%$ 的区域呈不显著推迟趋势,主要分布于东疆海拔较高的山地区域和部分绿洲区域,天山山脉中部,伊犁山地南部、东南部与东北部和大部分平原农用地区,昆仑山高海拔有积雪附近区域和阿尔金山东南部区域,推迟的幅度集中在 $0 { - } 3 0 \mathrm { d } / 1 0 \mathrm { a }$ 。
+
+http ://www.ecologica.cn
+
+![](images/0c99981adc4a1a3f38dbba49c622da28733af1e6b5f745bffe0ea0937a2d6a14.jpg)  
+图7新疆植被物候特征变化趋势的空间分布特征
+
+.7Spatial distributionof inter-annual change trendand significanceofSOS,EOS,andLENfrom2001 to2016in Xinjia
+
+SOS:生长季开始时间,Startof season;EOS:生长季结束时间,Endof season;LEN:生长季长度,Lengthofseason由图7LEN可得以下结论： $\textcircled{1}$ 从总体上可得,除新疆伊犁和阿尔金山东南部的部分区域外,全疆其他区域的LEN 主要呈缩短趋势。LEN 缩短、无明显变化和增长的区域分别占有效像元的 $5 8 . 3 7 \%$ ， $0 . 0 5 \%$ 和$4 1 . 5 9 \%$ 。 $\textcircled { 2 } 7 . 4 7 \%$ 的区域呈显著缩短趋势,主要呈零星块状分布于全疆各绿洲中,而且位于南疆西南部的大部分绿洲区域都显示出显著缩短趋势，缩短幅度集中于大于 $3 0 \mathrm { d / 1 0 a }$ 。 $5 0 . 9 0 \%$ 的区域呈不显著缩短趋势：从总体上看,除伊犁东部和南部、北疆中部和北部(北疆山地与绿洲、荒漠的过渡带)、昆仑山靠近冰川积雪区和阿尔金山东南部外的其他新疆区域均显示出缩短趋势;在南疆西南部各绿洲部分区域和全疆各山地较高海拔处至山麓区域(除北疆山区外)缩短的幅度大于 $4 0 \mathrm { d / 1 0 a }$ ,南疆北部绿洲和山地区域(昆仑山南部,阿尔金山东南部以外区域)缩短幅度集中于0—30d/10a;北疆绿洲缩短幅度集中于 $0 { - } 4 0 \mathrm { d / 1 0 a }$ ,北疆山地缩短幅度集中于 $0 { - } 3 0 \mathrm { d } / 1 0 \mathrm { a }$ ;伊犁平原的缩短幅度集中于 $0 { - } 4 0 \mathrm { d / 1 0 a }$ ;东疆绿洲缩短幅度集中于 $0 { - } 3 0 \mathrm { d } / 1 0 \mathrm { a }$ 。 $\textcircled { 3 } 0 . 0 5 \%$ 的区域无明显变化，说明全疆大部分区域的LEN都有较大幅度的变动。 $\textcircled{4} 2 . 5 0 \%$ 的区域呈显著增长趋势，$3 9 . 0 9 \%$ 的区域呈不显著增长趋势,主要分布于北疆山地与绿洲的过渡带、北疆南部绿洲的南端区域、伊犁山区、南疆和静县山地区域、和硕县山地区域、昆仑山靠近冰川积雪区与西北部北段区域、阿尔金山东南部区域(若羌县山地区),增长的幅度集中于0—30d/10a,但在北疆玛纳斯县、昌吉市、乌鲁木齐县、托克逊县等山地区域,南疆和硕县部分区域、阿尔金山东南部区域、昆仑山西北部北端等区域的增长幅度可达大于30d/10a,可见在高海拔地区LEN 变动更为剧烈。 2
+
+# 3.4气候变化对新疆植被物候期的影响
+
+环境因素对物候期影响更为显著,其中气温、光照和水分等气候因素是最主要的影响因子[26]。由前论述也可得出,在温带和寒带地区,控制植物物候变化的3个重要因素是温度、低温持续时间和光周期[3],另一方面， $1 0 ^ { \circ } \mathrm { C }$ 是喜温植物适宜生长的起始温度,推算作物生育期、害虫发生期、各种虫期等数值时,往往都要依据有效积温, $\geqslant 1 0 ^ { \circ } \mathrm { C }$ 有效积温是衡量某地区热量资源的重要指标,其时空分布差异性直接影响着农业布局以及生态格局[46；但是在日平均气温低于 $1 0 ^ { \circ } \mathrm { C }$ 时也可能存在某个时间段的温度超过 $1 0 \%$ 的情况，因此以日平均气温求算月平均气温来代替有效积温的指标,以更好的考虑到所有情况,因为有效积温是根据日平均气温进行推算[47],从这个层面考虑用平均温度代替有效积温具有一定的可行性。一些研究也表明物候期与前期其温度具有显著相关关系[48],同时由于气温的变化与物候期的变化不一定同时存在并显现出来,可能存在时间上的滞后性[27,49],以及由于全疆总体上 SOS 集中于3月中旬至5月上旬（平均第74—122天),EOS集中于10月中旬至12月下旬（平均第 284-354 天),因此根据相关学者的研究[23,262,49],本研究选取植被生长季开始时间和结束时间的前8个月的气温、降水量和日照时数作为气象因子,应用冗余分析(RDA)来分析物候参数与气象因子之间的关系。将各物候参数与气象因子的排序结果用排序图(图8,图9)表示。RDA可将研究对象和环境因子(箭头表示)排序表示在一个图上,箭头所处的象限表示环境因子与排序轴之间的正负相关性，箭头连线的长度代表某个环境因子与研究对象的相关程度的大小,连线越长表示这个环境因子对研究对象的分布影响越大。研究对象箭头之间的夹角和环境因子之间的夹角分别表示它们之间的相关性，一个环境因子的箭头长度越长表明与研究对象的相关性越大,对其影响也就越大。箭头之间夹角越小,相关性越大,箭头与排序轴的夹角代表着某个环境因子与排序轴的相关性大小[50]。
+
+为了更好的展示同一月份中植被物候受不同气象因子的影响,针对不同的月份进行单独出图。由于每个图只有一个响应变量(物候参数),使得第一轴和第二轴完全正交(图8,图9),相关系数为零,从而所有环境变量的气象因子只与第一轴有相关性而与第二轴无相关性(表1,表2）,因此在RDA 排序结果图中显示出所有气象因子均集中在一个轴上,不能体现出环境变量(气象因子)和研究对象(物候参数)的夹角,但能通过象限直接判断二者的正负相关性,以及通过RDA 分析能统计出不同因子之间和与物候特征的相关性,同时能直观的通过箭头连线的大小来判断某种气象因子对于物候特征的影响程度。从图8和表1可以得出以下结论：$\textcircled{1}$ 生长季开始时间与前一年10—12月各月的平均气温相关性低,绝对值不超过0.34,表明前一年气温因子对于 SOS 影响不大;但是SOS与3—5月各月的气温均呈显著负相关(绝对值均在0.56以上),在总体上的相关性达到了-0.82,表明 SOS与春季的气温呈显著的负相关。 $\textcircled{2}$ 前一年11和12月与当年的1月、2月、3月的降水量均与 SOS呈显著正相关(绝对值均在0.52以上),前一年11和12月—今年2月的总体降水量对 SOS 的影响尤其显著,相关性在0.77 以上,表明冬季的降水量对 SOS 影响重大。3—5月的总体降水量对 SOS 有较大的影响,相关性达到了0.52,表明春季降水量对 SOS 的影响要低于冬季降水量。 $\textcircled{3}$ 前一年11月、12月和当年2月、5月的日照时数与SOS呈显著负相关关系（相关性绝对值在 $0 . 4 0 \mathrm { - } 0 . 5 6 )$ ,前一年11月一今年2月的日照时数对 SOS 的影响最大（相关性达-0.67）,表明 SOS 主要受冬季日照时数的影响。 $\textcircled{4}$ 所选的不同气象因子接近 $100 \%$ 的解释了SOS的变化特征，第一轴解释的信息量可达 $7 2 \%$ 以上,第二轴可达 $1 1 \%$ 以上，不同气象因子前两轴累积解释的信息量都为1,表明排序轴反映了气象因子与SOS 的绝大部分信息。 $\textcircled{5}$ 从以上几点可以得出,新疆植被生长季开始时间主要受到春季气温、冬季降水和冬季日照时数的影响,受到前一年11—12月的降水和日照时数的显著影响;但是，由于SOS 同时受到春季和冬季降水量的显著作用,因此从总体上可以得出新疆植物生长季开始时间受降水量大小的影响 $>$ 日照时数 $\approx$ 平均气温，表明干湿程度对新疆植被的变化大于温度,这与浙江省的情况类似[21]。水是影响植物物候期的另一重要气候因子,降水对植物开花的影响在热带和干旱地区尤其明显[51]。新疆远离海洋,深居内陆,降水量少,形成了温带大陆性气候,普遍存在干旱情况[33.35],而干旱会延缓植物的生长发育,使发育的物候期推迟,因此干旱发生时,光、热条件再好,植物也不能利用,在这种情况下,水就成为影响植物生长发育的主要生态因子[51]。但是新疆1—3月份的降水主要是以雪的形式出现,降雪后地表反照率增大,融雪也需要大量的热量,导致地表温度降低,植被萌芽返青时期出现推迟[26],所以降水量是影响新疆生长季始期的主导因子且呈显著的正相关关系。同时,有关研究表明,持续延长日照时间最能促进植物发芽开发[51]。因年际温度变化幅度大,那些由光周期决定物候期开始的类群便能通过适时的解除休眠来很好地躲避由升温带来的可能伤害[15],所以日照时数与 SOS 呈显著的负相关关系。
+
+![](images/139e041ddf58870a122cc4b3c60c50ca8ea361557b8ebfadf3487553218ec650.jpg)  
+图8新疆生长季开始时间与气象因子的RDA排序图  
+Fig.8 RDA ordination diagram of the SOS and meteorological factors in Xinjiang
+
+emp:气温,Temperature;Pre:降水,Precipitation;DLen:日照时数,Sunshine duration;SOS:生长季开始时间,Start of seas
+
+从图9和表2中可以得出以下结论： $\textcircled{1}$ EOS 与10月气温呈较明显的负相关（相关系数为-0.47）,与11月气温呈较明显正相关（相关系数为0.374）,其他月份的气温对EOS 的影响都较小,相关性不超过0.25,如6—8月,9—11月,10—12月,表明总体上气温对 E0S 的影响较小。 $\textcircled { 2 } 7$ —8月的降水量与EOS 呈显著正相关,总体降水量与EOS 相关性达0.63;9—11月和10—12月的降水量与EOS 呈较显著负相关（相关系数绝对值在0.40以上）;表明夏季和秋季的降水量对于EOS有显著影响。 $\textcircled{3}$ 不同月份的日照时数与EOS的影响均较小，相关系数绝对值均小于0.33。7—8月日照时数与EOS呈较明显的负相关（相关系数为-0.33）。从6—12月各月来看，日照时数与EOS主要呈负相关关系。 $\textcircled{4}$ 与SOS类似，所选的不同气象因子接近 $100 \%$ 的解释了EOS 的变化特征,第一轴解释的信息量可达 $6 6 \%$ 以上,第二轴可达 $1 9 . 7 \%$ 以上（除日照时数外,其第二轴的解释信息量更大),不同气象因子前两轴累积解释的信息量都为1,说明排序轴反映了气象因子与EOS的绝大部分信息。 $\textcircled{5}$ 从以上几点可以得出,新疆植被生长季结束时间主要受当年10—11月气温、7—8月和9—11月
+
+![](images/87b2c5e2a674e028203f0332860408a0cc0c8eb91e772bf926d01ffce957b622.jpg)  
+图9新疆生长季结束时间与气象因子的RDA排序图  
+Fig.9RDA ordination diagram of EOS and meteorological factors in Xinjiang
+
+Temp:气温,Temperature;Pre:降水,Precipitation;DLen;日照时数,Sunshine duration;EOS;生长季结束时间,Endof seasor降水、7—8月日照时数的影响,但从总体来看,降水和气温对于EOS 的影响最为显著。原因可能在于叶片从生长到衰老需要一定的积温,物候期持续的时期与活动积温有显著的相关性[5-52]。前期气温的升高使得植物叶片所需的积温用较短时间即可满足,提前达到黄枯期[26],同时降水量增多有利于植被的生长,促使生长季长度延长,从而使得植被生长季结束时间推迟,所以降水量与EOS 呈显著正相关关系。
+
+表12001一2012年新疆生长季开始时间RDA排序前两轴与气象因子的相关系数  
+Table 1Correlation of two SOS's RDA axes and meteorological factors of each plot in Xinjiang from 2001 to 2012   
+
+<html><body><table><tr><td rowspan="2">因子Factor</td><td colspan="2">气温 Temperature</td><td colspan="2">降水 Precipitation</td><td colspan="2">日照时数 Sunshine duration</td></tr><tr><td>第1排序轴 Axis 1</td><td>第2排序轴 Axis 2</td><td>第1排序轴 Axis 1</td><td>第2排序轴 Axis 2</td><td>第1排序轴 Axis 1</td><td>第2排序轴 Axis 2</td></tr><tr><td>7 前一年10 月 Last October</td><td>0.206</td><td>0.000</td><td>-0.151</td><td>0.000</td><td>0.096</td><td>0.000</td></tr><tr><td>前一年11月 Last November</td><td>-0.332</td><td>0.000</td><td>0.545</td><td>0.000</td><td>-0.488</td><td>0.000</td></tr><tr><td>前一年12月 Last December</td><td>-0.088</td><td>0.000</td><td>0.552</td><td>0.000</td><td>-0.398</td><td>0.000</td></tr><tr><td>1月January</td><td>0.269</td><td>0.000</td><td>0.541</td><td>0.000</td><td>0.024</td><td>0.000</td></tr><tr><td>2月February</td><td>-0.284</td><td>0.000</td><td>0.617 *</td><td>0.000</td><td>-0.562</td><td>0.000</td></tr><tr><td>3月March</td><td>-0.565</td><td>0.000</td><td>0.521</td><td>0.000</td><td>-0.277</td><td>0.000</td></tr><tr><td>4月April</td><td>-0.571 *</td><td>0.000</td><td>-0.052</td><td>0.000</td><td>0.055</td><td>0.000</td></tr></table></body></html>
+
+http ://www.ecologica.cn
+
+续表  
+
+<html><body><table><tr><td rowspan="2">因子Factor</td><td colspan="2">气温 Temperature</td><td colspan="2">降水Precipitation</td><td colspan="2">日照时数 Sunshine duration</td></tr><tr><td>第1排序轴 Axis 1</td><td>第2排序轴 Axis 2</td><td>第1排序轴 Axis 1</td><td>第2排序轴 Axis 2</td><td>第1排序轴 Axis 1</td><td>第2排序轴 Axis 2</td></tr><tr><td>5月May</td><td>-0.627 *</td><td>0.000</td><td>0.382</td><td>0.000</td><td>-0.527</td><td>0.000</td></tr><tr><td>前一年10—12月 Last October to December</td><td>-0.154</td><td>0.000</td><td>0.389</td><td>0.000</td><td>-0.452</td><td>0.000</td></tr><tr><td>前一年11月－今年2月 Last November to February this year</td><td>-0.160</td><td>0.000</td><td>0.777 *</td><td>0.000</td><td>-0.672 *</td><td>0.000</td></tr><tr><td>前一年12月一今年2月(冬季) Last December to February this year</td><td>-0.025</td><td>0.000</td><td>0.784 *</td><td>0.000</td><td>-0.518</td><td>0.000</td></tr><tr><td>3—5月March to May</td><td>-0.824 *</td><td>0.000</td><td>0.520</td><td>0.000</td><td>-0.291</td><td>0.000</td></tr><tr><td>特征值 Eigenvalue</td><td>0.889</td><td>0.111</td><td>0.718</td><td>0.282</td><td>0.732</td><td>0.268</td></tr><tr><td>特征值总和 Eigenvalue summation</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td></td></tr></table></body></html>
+
+\*为通过0.05可信度检验的显著因子
+
+表22001一2012年新疆生长季结束时间RDA排序前两轴与气象因子的相关系数  
+Table2Correlation of two EOS's RDA axes and meteorological factors of each plot in Xinjiang from 2001 to 2012   
+
+<html><body><table><tr><td rowspan="2">因子Factor</td><td colspan="2">气温 Temperature</td><td colspan="3">降水 Precipitation 日照时数 Sunshine duration</td></tr><tr><td>第1排序轴 Axis 1</td><td>第2排序轴 Axis 2</td><td>第1排序轴 第2排序轴 Axis1 Axis 2</td><td>第1排序轴 Axis 1</td><td>第2排序轴 Axis 2</td></tr><tr><td>5月May</td><td>0.245</td><td>0.000</td><td>0.138</td><td>0.000 0.096</td><td>0.000</td></tr><tr><td>6月June</td><td>0.207</td><td>0.000</td><td>-0.370 0.000</td><td>0.188</td><td>0.000</td></tr><tr><td>7月July</td><td>0.085</td><td>0.000</td><td>0.497 0.000</td><td>-0.280</td><td>0.000</td></tr><tr><td>8月August</td><td>-0.223</td><td>0.000</td><td>0.428 0.000</td><td>-0.318</td><td>0.000</td></tr><tr><td>9月 September</td><td>0.082</td><td>0.000</td><td>-0.306</td><td>0.000 0.233</td><td>0.000</td></tr><tr><td>10月October</td><td>-0.472</td><td>0.000</td><td>-0.200</td><td>0.000 -0.321</td><td>0.000</td></tr><tr><td>11月November</td><td>0.374</td><td>0.000</td><td>-0.395</td><td>0.000 0.199</td><td>0.000</td></tr><tr><td>12月December</td><td>-0.155</td><td>0.000</td><td>-0.141</td><td>0.000 -0.096</td><td>0.000</td></tr><tr><td>6—8月June to August</td><td>-0.004</td><td>0.000</td><td>0.354 0.000</td><td>-0.217</td><td>0.000</td></tr><tr><td>7—8月July to August</td><td>-0.146</td><td>0.000</td><td>0.635 * 0.000</td><td>0.333</td><td>0.000</td></tr><tr><td>8——11月 August to November</td><td>-0.019</td><td>0.000</td><td>-0.025 0.000</td><td>-0.040</td><td>0.000</td></tr><tr><td>9—11月 September to November</td><td>0.068</td><td>0.000</td><td>-0.447 0.000</td><td>0.218</td><td>0.000</td></tr><tr><td>10—12月 October to December</td><td>-0.054</td><td>0.000</td><td>-0.392 0.000</td><td>-0.046</td><td>0.000</td></tr><tr><td>特征值 Eigenvalue</td><td>0.803</td><td>0.197</td><td>0.659 0.341</td><td>0.406</td><td>0.594</td></tr><tr><td>特征值总和 Eigenvalue summation</td><td>1</td><td>1</td><td>1</td><td></td><td></td></tr></table></body></html>
+
+\*为通过0.05可信度检验的显著因子
+
+# 4结论
+
+（1）新疆物候特征具有明显的纬向分布和垂直地带分布特征,海拔在物候的地域分异中扮演着重要作用。新疆生长季始期集中于3月中旬至5月上旬(平均第74—122天),生长季末期集中于10月中旬至12月下旬(平均第 284—354天）。海拔对于植被物候特征的影响为：海拔每升高 $1 0 0 0 \mathrm { m }$ ,生长季开始时间推迟8.9d,生长季结束时间提前6.6d,生长季长度缩短 $1 5 . 5 \mathrm { d }$ 。
+
+（2）与全球大背景下物候特征趋势相反,新疆植被物候生长季开始时间呈推迟趋势,推迟的幅度为 $1 . 9 \mathrm { d } / \$ 10a;生长季结束时间呈提前趋势,提前的幅度为 $3 . 6 6 \mathrm { d } / 1 0 \mathrm { a }$ ;生长季长度呈缩短趋势,缩短的幅度为 $5 . 6 \mathrm { d } / 1 0 \mathrm { a }$ ，生长季长度变动幅度较大。新疆绿洲、山地的植被生长季开始时间推迟幅度分别为 $5 . 6 \mathrm { d } / 1 0 \mathrm { a }$ 和 $1 . 2 \mathrm { d } / 1 0 \mathrm { a }$ 。除东疆地区外,全疆及不同分区均呈现出绿洲及平原生长季开始时间较早,山地区域较迟,总体上二者之间相差9d左右;全疆及不同分区均呈现出山地植被生长季结束时间结束的较早,绿洲结束的较迟,总体上二者之
+
+http ://www.ecologica.cn
+
+间相差16d左右;除东疆地区外,全疆及不同分区的生长季长度均为绿洲及平原区域 $\mid >$ 山地,二者总体上相差近25d,同样显示出了垂直地带性分布的特征。
+
+（3）通过冗余分析表明排序轴解释了物候特征与气象因子关系的绝大部分信息,降水量、气温和日照时数是影响新疆植被物候期的重要影响因素。生长季开始时间受前一年冬季降水量的影响最为显著,也受到当年春季气温和前一年冬季日照时数的显著影响,其与降水量呈正相关,与气温和日照时数呈负相关。夏季和秋季降水量新疆植被生长季结束时间的主要影响因素,除10—11月份的气温和7—8月日照时数有稍高的影响外，在总体上受气温和日照时数的影响较小。 \~，
+
+本研究只是以遥感影像为数据源,从宏观角度来探讨新疆近16年来植被物候的总体变化趋势,并不与实际的植物物候完全一致,因此以后还应该做按不同生态分区和海拔高度进行典型植被采样进行精度验证，以及更加深人的探讨为什么新疆植被物候年际变化趋势有别于国内与全球物候变化的趋势与方向。（
+
+# 参考文献（References）：
+
+[1］陆佩玲,于强,贺庆棠.植物物候对气候变化的响应.生态学报，2006，26(3)：923-929.  
+[2]MarianoGC,MorelltoLPC，AlmeidaJ，lbertonB,deCamargoMGG,ToresRSModelingplantphenologdatabase:Blendingnear-surface remote phenology with on-the-ground observations.Ecological Engineering，2016,91:396-408.  
+[3]莫非,赵鸿,王建永,强生才,周宏,王绍明,熊友才.全球变化下植物物候研究的关键问题.生态学报，2011,31（9)：2593-2601.  
+[4]Bro，esK,ashallalpalespoetegseltotesao,humidity and temperature over 26 years. Remote Sensing of Environment,2012,126(11): 174-183.  
+[5]Richardson A D,Keenan TF，Migliavacca M，Ryu Y，Sonnentag O,Toomey M.Climate phenology，and phenological control ofvegetation feedbacks to the climate system.Agricultural and Forest Meteorology，2013，169(3）：156-173.  
+[6]Sakaoto，WardowBD,GitelsonAA,VeaS,SuyerAE,ArkebuerTJ.ATw-StepFileringappacfdetectingmedanphenology with time-series MODIS data.Remote Sensing of Environment，2010,114(10）:2146-2159.  
+[7]BlonDK，dl.reastingoeldugotelsedgeatioiddopologetriAgicltualdtMeteorology，2013，173(2）：74-84.  
+[8]SakaotT，GitelsonAA，ArkebaerTJODS-basedcoanildstatiomodelicopoatingcohenofatioeoteSensing of Environment，2013，131：215-231.  
+[9]ChsiFlsEtegsooftrdosiay6land Forest Meteorology，2004，121(1/2）: 69-78.  
+[10]Steltzer H,Post E. Seasons and life cycles. Science，2009,324(5929）:886-887.  
+[11] 方修琦,余卫红.物候对全球变暖响应的研究综述.地球科学进展，2002，17(5）：714-719.  
+[12] 丛楠,沈妙根.1982—2009年基于卫星数据的北半球中高纬地区植被春季物候动态及其与气候的关系.应用生态学报，2016，27（9)：2737-2746.  
+[13] 丁明军,张镜锂,孙晓敏,刘林山,王兆锋.近10年青藏高原高寒草地物候时空变化特征分析.科学通报，2012，57（33)：3185-3194.  
+[14] Pefuelas J,Filella I. Responses to a warming world.Science,2001,294(5543): 793-795.  
+[15] Korner C，Basler D. Phenology under global warming.Science，2010,327(5972): 1461-1462.  
+[16] 马勇刚,张弛,塔西甫拉提·特依拜.中亚区域陆表植被物候时空变化特征分析.干旱区地理，2014，37(2)：310-317.  
+[17] 朴世龙，方精云.1982-1999 年我国陆地植被活动对气候变化响应的季节差异.地理学报，2003,58(1)：119-125.  
+18] PiaoSL，FangJY,ZouL，Ciais,Zu.Vratioiatelieeivedpooginina'teperateegeatio.GlobalCagelog，2006,12(4) : 672-685.  
+19] 陈效逑,喻蓉.1982—1999 年我国东部暖温带植被生长季节的时空变化.地理学报，2007,62(1)：41-51.  
+[20] 余振,孙鹏森,刘世荣.中国东部南北样带主要植被类型物候期的变化.植物生态学报，2010，34（3）：316-329.  
+[21] 何月,樊高峰,张小伟,李正泉,高大伟.浙江省植被物候变化及其对气候变化的响应.自然资源学报，2013，28(2)：220-233.  
+[22] 李正国,杨鹏,周清波,王仰麟,吴文斌,张莉,张小飞.基于时序植被指数的华北地区作物物候期/种植制度的时空格局特征.生态学报，2009，29(11):6216-6226.  
+[23］宋春桥,游松财,柯灵红,刘高焕,钟新科.藏北高原植被物候时空动态变化的遥感监测研究.植物生态学报，2011,35（8）：853-863.  
+[24]叶鑫,周华坤,刘国华,姚步青,赵新全.高寒矮生嵩草草甸主要植物物候特征对养分和水分添加的响应.植物生态学报，2014，38（2)：147- 158.  
+[25］侯学会,牛铮,高帅,黄妮.基于 SPOT-VGT NDVI时间序列的农牧交错带植被物候监测.农业工程学报，2013，29（1）：142-150.  
+[26］顾润源,周伟灿,白美兰,李喜仓,邸瑞琦,杨晶.气候变化对内蒙古草原典型植物物候的影响.生态学报，2012，32(3)：767-776.  
+[27］马新萍,白红英,贺映娜,秦进.基于NDVI的秦岭山地植被遥感物候及其与气温的响应关系——以陕西境内为例.地理科学，2015，35(12):1616-1621.  
+[28]ZhouJH,CaiWT,QinY,LaiLM,GuanTY,ZhangXL,JiangLH,DuH,YangDW,CongZT,ZhengYR.Alpinevegetationologdynamicover16yearsaditsovariationwithateinasemaridrgioofCina.ScienceoftheotalEnviroent,16,7：9-18  
+[29]ZengLL,WardowBD,WngR,ShandessT,HayesJ,iR.Abridaproacordetectingcoandbeanpeoloihieseries MODIS data.Remote Sensing of Environment,2016,181：237-250.  
+[30]MelasEK,Sl-MeaseD,GryJlackT,ornTHichardonAD,FriedM.MultisteanalysflnsurfaceNorth American temperate andboreal deciduous forests from Landsat.Remote Sensing of Environment,2016,186：452-464.  
+[31]DongJW,XiaoXM,MenarguezMA,ZhangGL,QiYW,TauD,radarC,MoreIB.MappingpaddyriceplantingareainnorheasteAsia withLandsat8images，phenology-basedalgorithmandGogleEarthEngine.Remote SensingofEnvironment,2O16,185:14-154.  
+[32] 夏传福,李静,柳钦火.植被物候遥感监测研究进展.遥感学报，2013，17(1)：1-16.  
+[33］王智,师庆三,王涛,师庆东,常顺利,张履冰.1982—206年新疆山地-绿洲-荒漠系统植被覆盖变化时空特征．自然资源学报，2011，26(4):609-618.  
+[34] 师庆东,肖继东,潘晓玲,吕光辉,陆海燕.近 20a来新疆植被覆盖变化特征研究.干旱区研究，2004，21(4)：389-394.  
+[35] 邵霜霜,师庆东.基于FVC 的新疆植被覆盖度时空变化.林业科学，2015，51（10)：35-42.  
+[36] 师庆东,吕光辉,潘晓玲,程维明.遥感影像中分区分类法及在新疆北部植被分类中的应用.干旱区地理，2003，26(3)：264-268.  
+[37］王智,常顺利,师庆东,马珂,梁凤超.基于FVC 指数的中国西北干旱区植被覆盖变化 Markov过程．应用生态学报，2010,21（5)：1129- 1136.  
+[38］布仁，包玉海.基于 MOD13A1的锡林郭勒草原近13年植被覆盖度变化分析／风险分析和危机反应中的信息技术——中国灾害防御协会风险分析专业委员会第六届年会论文集.北京：中国灾害防御协会风险分析专业委员会，2014.  
+[39]Zhang,QiJGGaoY,OyagZT,ZegSLZaoBDetetingslsiityithStiesersVdataEologicalIatos,52: 480-489.  
+[40]ShenG,TangYenJZuXL,ZgYIeesperaturedpreiiatofortheoesrgingrasslandsofthecentralandeastern Qinghai-TibetanPlateauAgriculturalandForest Meteorology，20l1,151（12)：17-1722.  
+[41］于文婧，孙丹峰，曲葳.基于冗余分析的宁夏平罗耕地土壤盐渍化特征研究.中国农业大学学报，2015,20(5)：103-110.  
+[42］马勇刚，张弛，塔西甫拉提·特依拜.中亚及中国新疆干旱区植被物候时空变化.气候变化研究进展，2014，10(2）：95-102.  
+[43]JulienYbJAbaldfeeodfrabasteatialaloftesing）493513.  
+[44]JeongSJ,HCH,GiHJroMEenolgshfstsarsndofgrowingeasoineperatevegetatioerthetispefor the period 1982-2008.Global Change Biology，2011,17（7）：2385-2399.  
+[45]ZouLucrCKRKckD,oVratoieatioctielidata of vegetation index during 1981 to 1999.Journal of Geophysical Research，2001，106(D17）:20069-20083.  
+[46]刘少华,严登华,翁白莎,邢子强,王刚.近50a 中国 $\geqslant 1 0 ^ { \circ } \mathrm { C }$ 有效积温时空演变.干旱区研究，2013，30(4)：689-696.  
+[47］肖悦岩.介绍一种计算有效积温的方法——根据日最高最低气温.植物保护，1983,9(2)：43-45.  
+[48］仲舒颖,葛全胜,郑景云,戴君虎,王焕炯.近30年北京自然历的主要物候期、物候季节变化及归因.植物生态学报，2012，36（12)：1217- 1225.  
+[49] 俎佳星，杨健.东北地区植被物候时序变化.生态学报，2016，36(7)：2015-2023.501 龙健,廖洪凯,李娟,陈彩云.基于冗余分析的典型喀斯特山区土壤-石漠化关系研究.环境科学，2012,33(6)：2131-2138.  
+[51]王连喜,陈怀亮,李琪,余卫东.植物物候与气候研究进展.生态学报，2010,30(2)：447-454.52]Zhang XB，RenJR,ZhangDE.PhenologicalobservatiosonLarixprincipis-ruprechtiiMayr.inpriarysedohardJoualoforestResearch，2001,12(3）：201-204.

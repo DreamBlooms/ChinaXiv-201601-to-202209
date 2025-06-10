@@ -1,0 +1,539 @@
+[
+    {
+        "type": "text",
+        "text": "基于用户特征属性的微博话题关键用户挖掘",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "柯阳，隋杰 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(中国科学院大学 工程科学学院，北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对微博话题存在时效性的特征以及用户之间交互行为特征，在经典PageRank 算法的基础上，提出基于用户交互的微博用户挖掘算法来有效挖掘推动微博话题流行的关键用户。首先，介绍了微博话题关键用户的定义及其相关特征；其次，由于传统模型未考虑用户交互以及时间属性的影响，所以融合了时间属性以及用户之间交互特征，同时结合微博网络结构提出了MUR算法；最后，将算法与经典PageRank 算法和TS算法做了比较。实验结果表明，模型在微博话题用户的时效性、话题推动以及对粉丝的影响力等方面表现较好，证明了模型的合理性和有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：关键用户；MUR；时间属性；用户交互中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2017.12.0795",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key users mining in micro-blogging topic based on user attributes ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ke Yang, Sui Jie† (School of Engineering Science,University ofChinese Academy ofSciences,Beijing 10o049,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Consideringthe timelinessofthe microblogingtopicandthefeatureofinteractionbetweentheusers,therefore,this paper put forwardakeyuser's mining algorithm based on user interaction to efectively find topic-sensitive keyusers.Firstly, this paper introducedthedefinitionofkeyusers inmicroblogging topicanditsrelevantcharacteristics.Secondly,inthatthe traditional models ignored the influenceofuser interactionandtimeatribute,this model fused the timepropertyand the characteristicsofinteractionbetweentheusertogetherinthe modelat thefirsttime,ndthe MURalgorithm wasputforward withthecombinationofte microbloggingnetworkstructure.Finaly,itcompared thealgorithm withtheclassicalPageRank algorithmandTSalgorithm.The experimentalresultsshowthatthe model is more reasonable intermsof timelinessand topic driving,certificating the rationality and validity of the model. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:keyuser;MUR; time;user interaction ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "影响力通常被认为是可以改变他人思想和行为的能力。在传播学理论中，有这样一种人被称为意见领袖，在社交网络中经常向公众提供意见和建议。他们向受众传播信息，形成信息的二级传递。影响力存在于生活的方方面面，其中一个例子就是它经常应用于商业领域。因此，营销人员可以通过口口相传去建立大规模的连锁反映，从而更好地销售产品。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "微博是基于社交关系来进行信息传播的媒体平台，作为重要的社交网站，微博引发了众多的关注和研究[1]。在微博中，只有很少的人才能成为话题的引领者。统计显示，约有 $20 \\%$ 的微博用户发布超过 $76 \\%$ 的微博。因此，只有少数用户在微博中特别突出，他们发布了大量微博，相比之下，大量用户充当了微博话题的接收者。微博中的用户影响力是通过影响他人的思想感情、激励他人产生更多的交互行为来体现的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内外研究人员对关键用户的挖掘方法也是层出不穷。相关学者提出了很多影响力度量方法 $. [ 2 ^ { \\sim } 4 ]$ ，通过比较入度、回复、转发、提及、读者数量等指标度量用户的影响力。其中，Bakshy等人[5]利用消息扩散的结构信息预测和计算用户的影响力，大量实验数据表明Twitter上的很多热门话题都是由高影响力用户发起或传播。赵之滢等人[6发现社团结构对于理解和控制消息传播有重要意义，并提出了一种基于网络社团结构的节点影响力度量方法，该方法能够更加真实地挖掘社会关系网络中对传播过程至关重要的Hub节点。毛佳昕等人[提出了一个通过预测用户传播信息能力大小来分析和度量用户社会影响力的方法，该方法将用户访问微博的时间以及用户偏好等行为因素与社会网络结构信息相结合，从而获得更好的影响力估计结果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在基于给定话题的影响力计算方面，Tang等人[8提出了话题因子图模型同时支持同质和异质网络环境下的影响力分析。Weng等人[9]提出了一个TwitterRank算法，该算法将话题相似度融合到基于网络结构的分析方法中，能够对不同话题领域的影响力用户进行排序。Saez-Trumper等人[l0将时间属性融合到用户关系图中，并提出了一个基于PageRank的排序方法对特定话题的用户影响力进行排序。但是话题传播扩散过程中用户影响力是一个快速增长和衰减的过程，因此需要融合动态属性计算话题传播过程中的用户影响力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从用户的个人属性来看，Cha等人[2认为高入度并非是高影响力的必要因素。他认为真正有影响力的用户在任何话题上都具有很高的影响力，通过研究入度影响、转推影响以及提及影响，他发现这三者之间并没有必要的联系，从而得出了真正有影响力的用户在任何话题上都具有很高的影响力的结论。Pal等人[1I通过研究一系列的属性特征去找寻微博中的权威用户，通过构建用户影响力评价模型，最终产生给定话题的权威用户集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在基于社会网络的信息传播方面，由于社会网络融合为社会计算等各项研究提供更充分的用户行为数据和更完整的网络结构，从而更有利于人们通过社会网络理解和挖掘人类社会，具有重要的理论价值和实践意义[12]。很多学者针对社会网络信息传播已经开展一些有意义的研究，提出了一些知名的信息传播模型包括独立级联模型[13]和线性阈值模型[14]。Sait等人[15]针对社会网络中如何选择对应的模型做了深入的研究，并在独立级联模型和线性阈值模型基础上提出了改进方案，但是并没有考虑用户之间的交互对信息传播的影响，消息传播是一个动态的过程，需要通过传播模型动态的描述消息传播过程。Manue等人[16针对博客和新闻文章的传播研究跟踪传播路径和在网络中的影响，提出了一种近似的算法。但是作者为了研究简单，设定的前提假设网络是静态且不变的，而微博网络中的信息是瞬变的。Fan 等人[I7针对新浪微博的消息扩散方式进行研究，发现热门事件的消息扩散拓扑结构呈星型或者两级结构。微博中的用户行为对消息传播起着重要作用，对关注和转发行为进行了广泛的研究[18,19]。Michael 等人[20]研究关注和转发链接的语义表明主题的相关性能够很好的通过转发传递，通过关注和转发建立起Twitter图进行分析，但是并没有考虑交互双方的用户属性和时间因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过对相关文献的调研发现，很多对关键用户的研究和方法主要集中于静态拓扑或者考虑单一属性。与之不同，本文创新性地在关键用户挖掘模型中引入用户交互属性和时间属性，提出了MicroblogUserRank(MUR)方法。实验结果表明该方法能够比较好地挖掘特定话题下的关键用户。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 关键用户挖掘算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本章主要讨论三个部分：第一个部分讨论了对关键用户的定义；第二个部分讨论了微博话题关键用户的相关属性；第三个部分基于PageRank 算法考虑结合了用户的相关属性提出了MUR挖掘模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 关键用户的定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本文中把关键用户定义为比较早的接受话题趋势并激发更多交互使话题变得流行的人。作为一名“创新者”，关键用户必须比较早的接受话题趋势。对于关键用户来说，仅仅比较早的知道话题是不够的，因为其他微博受众接受话题可能与他们无关。对于一个特定的话题，用户交互在信息传播中扮演了非常重要的角色。关键用户应该是保持较高交互的一类人，他们通过产生更多交互来使话题变得流行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2关键用户的特征属性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1时间属性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其他度量如入度甚至经典的PageRank 算法都忽略了与话题相关的时间属性。这可能导致用户事实上根本没受目标用户的影响，而在所提的模型中却错误地计算了这个影响。不可以认为在话题已经流行之后才接受微博话题的用户是推动话题的关键用户，即便他拥有数以亿计的粉丝。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2用户交互",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本文把关键用户定义为比较早的接受话题趋势并激发更多交互使话题变的流行的人。作为一名“创新者”，关键用户必须比较早的接受话题趋势。对于关键用户来说，仅仅比较早的知道话题是不够的，因为其他微博受众接受话题可能与他们无关。对于一个特定的话题，用户交互在信息传播中扮演了非常重要的角色。关键用户应该是保持较高交互的一类人，他们通过产生更多交互来使话题变得流行。在微博中，用户交互主要是通过用户之间的评论和转发体现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3关键用户挖掘模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "微博话题 $k$ 可以利用特征形式化描述为 $\\{ f _ { 1 } , f _ { 2 } , \\ldots , f _ { n } \\}$ ，其中 $f _ { n }$ 为微博话题 $k$ 的第 $n$ 个特征。假设 $G _ { k } \\left( N _ { k } , E _ { k } \\right)$ 表示微博话题 $k$ 的用户关系图，其中 $N _ { \\boldsymbol { k } }$ 为微博话题 $k$ 的用户集合，该用户集合内的每个用户至少发布了包含突发话题 $k$ 的一个特征，$E _ { k }$ 表示边集合，对于任意的 $( u , v ) \\in E _ { k }$ ， $\\left( u , \\nu \\right)$ 表示用户 $u$ 与用户 $\\nu$ 之间的转发关系。为了挖掘微博话题演变过程中促使突发话题形成的关键用户，用户行为的时间属性显得尤为重要。本文将时间属性融合到用户关系图模型的建立过程中，对于用户$v \\in N _ { k }$ ，令 $t _ { i } \\left( \\nu \\right)$ 表示用户 $\\nu$ 发布包含特征 $f _ { i }$ 的消息时间(如果用户 $\\mathrm { ~ v ~ }$ 未发布包含特征 $f _ { i }$ 的消息，则 $t _ { i } \\left( \\nu \\right) = 0 )$ 。令 $s _ { 1 } \\big ( \\nu \\big )$ 为用户-话题特征向量，该向量的每个分量 $s _ { 1 } ( \\nu ) _ { i }$ 表示用户 $\\nu$ 是否发布描述特定话题 $k$ 的特征 $f _ { i }$ 的权重，其计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { 1 } ( \\nu ) _ { i } = { \\left\\{ \\begin{array} { l l } { 1 , { \\mathrm { i f } } t _ { i } ( \\nu ) > 0 } \\\\ { 0 , { \\mathrm { o t h e r w i s e } } } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当用户 $\\nu$ 发布了微博话题 $k$ 的特征 $f _ { i }$ 时，把 $s _ { 1 } ( \\nu ) _ { i }$ 的值设置为1；如果没有，则设置为0。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 $I _ { ( u , \\nu ) _ { i } }$ 为 $u$ 对 $\\nu$ 关于话题 $k$ 的特征f的交互权重序列：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { ( u , v ) _ { i } } = [ I _ { ( u , v ) } ( 0 ) _ { i } , I _ { ( u , v ) } ( 1 ) _ { i } , \\ldots , I _ { ( u , v ) } ( T ) _ { i } ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $T$ 代表时间窗口的序号； $I _ { ( u , \\nu ) } ( T ) _ { i }$ 表示在第 $T$ 个时间窗□； $u$ 和 $v$ 关于话题 $k$ 的特征f的交互权值大小。本实验中，时间窗口的长度设置为1天。在微博话题中，用户之间的交互主要",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "体现在评论与转发，所以定义 $I _ { ( u , \\nu ) } ( T ) _ { i }$ 如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { ( u , v ) } ( T ) _ { i } = \\alpha \\frac { R e p o s t _ { ( u , v ) } ( T ) _ { i } + 1 } { \\mathrm { R e } p o s t _ { u } ( T ) _ { i } + 2 4 } + \\beta \\frac { C o m m e n t _ { ( u , v ) } ( T ) _ { i } + 1 } { C o m m e n t _ { u } ( T ) _ { i } + 2 4 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha + \\beta = 1 ,$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这里 $R e p o s t _ { ( u , \\nu ) } ( T ) _ { i }$ 表示在第 $T$ 个时间窗口，用户 $u$ 转发 $\\nu$ （204号关于微博话题 $k$ 的特征 $f _ { i }$ 微博的数量； ${ \\mathrm { R e } } p o s t _ { u } ( T ) _ { i }$ 表示全部用户 $u$ 转发关于微博话题 $k$ 的特征 $f _ { i }$ 微博的数量。同理，$C o m m e n t _ { ( u , \\nu ) } ( T ) _ { i }$ 表示在第 $T$ 个时间窗口，用户 $u$ 评论 $\\nu$ 关于微博话题 $k$ 的特征 $f _ { i }$ 微博的数量； $C o m m e n t _ { u } ( T ) _ { i }$ 表示全部用户 $u$ 评论关于微博话题 $k$ 的特征 $f _ { i }$ 微博的数量。如果用户 $\\mathrm { ~ \\tt ~ u ~ }$ 在第 $T$ 个时间窗口既没有评论也没有转发，不能简单地把 $I _ { ( u , \\nu ) } ( T ) _ { i }$ 设置为0。在这里作了Laplacian平滑处理，得到平滑后的交互权值 $I _ { ( u , \\nu ) } ( T ) _ { i }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "令 $s _ { 2 } \\left( u , \\nu \\right)$ 为用户关系向量，该向量的每个分量 $s _ { 2 } ( u , \\nu ) _ { i }$ 表示用户 $u$ 与用户 $\\nu$ 针对特定话题 $k$ 的特征 $f _ { i }$ 的边权重，其计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( u , v ) _ { i } = \\left\\{ \\begin{array} { l l } { \\frac { \\sum _ { T = T _ { t _ { i } ( v ) } } ^ { T _ { t _ { i } ( u ) } } I _ { ( u , v ) } ( T ) _ { i } } { T _ { t _ { i } ( u ) } - T _ { t _ { i } ( v ) } + 1 } \\mathrm { ~ , ~ } \\Delta > 0 , } \\\\ { 0 \\mathrm { ~ . ~ } \\quad \\quad { o t h e r w i s e } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Delta = t _ { i } ( u )  – t _ { i } ( v )$ 表示用户 $u$ 与用户 $\\nu$ 发布特征f的微博时间间隔。 $T _ { t _ { i } ( u ) }$ 表示 $t _ { i } \\left( u \\right)$ 所在的时间窗口的序号数。当 $\\Delta \\leq 0$ ，即$t _ { i } ( u ) \\leq t _ { i } ( v )$ ，用户 $u$ 发布的特征 $f _ { i }$ 的话题微博时间要早于用户 $\\nu$ ，所以不能认为用户 $\\nu$ 向用户 $u$ 传递了话题趋势。因此将（204 $s _ { 2 } ( u , \\nu ) _ { i }$ 的值设置为0。当 $\\Delta > 0$ 时， $s _ { 2 } ( u , \\nu ) _ { i }$ 的值通过计算 $T _ { t _ { i } ( \\nu ) }$ 到 $T _ { t _ { i } ( u ) }$ 这段时间 $u$ 和 $\\nu$ 的交互均值得出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于任意的 $( u , v ) \\epsilon E _ { k } ,$ 令 $I _ { k } ^ { * } { \\left( u , \\nu \\right) }$ 表示用户 $u$ 对用户 $\\nu$ 的影响力，其计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { k } ^ { * } ( u , v ) = \\bigg ( \\frac { s _ { 1 } ( v ) \\cdot s _ { 2 } ( u , v ) } { \\big | \\big | s _ { 1 } ( v ) \\big | \\big | \\times \\big | \\big | s _ { 2 } ( u , v ) \\big | \\big | } \\bigg ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于PageRank 算法将 $I _ { k } ^ { * } { \\left( u , \\nu \\right) }$ 规范化公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { k } ( u , v ) = \\frac { I _ { k } ^ { * } ( u , v ) } { \\sum _ { \\omega \\in O u t _ { G _ { k } ( u ) } } I _ { k } ^ { * } ( u , \\omega ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "令 $M U R _ { k } \\left( \\nu \\right)$ 为微博话题 $k$ 的关键用户权重，其计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM U R _ { k } ( v ) = ( 1 - d ) D _ { k } ( v ) + d \\sum _ { \\omega \\in I n _ { G _ { k } ( v ) } } M U R _ { k } ( \\omega ) I _ { k } ( \\omega , v ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $d ( 0 \\leq d \\leq 1 )$ 为调节因子； $D _ { k }$ 表示用户在用户关系图上的概率分布。由于话题间是相互独立的，对于任意的 $v \\in N _ { k }$ $D _ { k } \\left( \\nu \\right)$ 的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { k } \\left( \\nu \\right) = \\big / _ { \\left. N _ { k } \\right. } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了算法能够收敛，这里将 $d$ 的值设置为0.8。用户的MUR值越大，即为促使微博话题形成的关键用户。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法的过程见算法1。通过输入开始节点的ID、目的节点的 ID 以及边权重 $I _ { k } ^ { * } { \\left( u , \\nu \\right) }$ ，最终可以得到MUR值以及它们的节点 $\\mathrm { I D }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1MUR算法表示 算法：MUR 输入：“start_id-des_id- $I _ { k } ^ { * } { \\left( u , \\nu \\right) }$ ”，迭代次数N，阻尼系数d 输出：排名-节点-权值 //迭代N次直到算法收敛 for iteration in range $( 0 , \\ N )$ ： foreach node in node_set: if iteration $\\scriptstyle = = \\ 0$ //首次迭代所有节点初值设为1 node.set_value(1) else: //计算节点的入边影响力总和 $\\mathrm { i n \\_ s u m } = 0$ （204 foreach in_edge in node.in_edges: in_sum $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ in_sum $^ +$ in_edge.value end foreach //计算当前节点的MUR 值 $\\mathrm { M U R } ~ = ~ \\left( \\mathrm { 1 - d } \\right) ~ + ~ \\mathrm { d } ~ * ~ \\mathrm { i n \\_ s u m }$ //保存当前节点的MUR值 node.set_value (MUR) //计算节点出边权值总和 $\\mathrm { \\ o u t \\_ s u m } = 0$ （204号 foreach out_edge in node.out_edges: out_sum $\\mathbf { \\tau } = \\mathbf { \\tau }$ out_sum $^ +$ out_edge.value end foreach //更新每条边的权值 foreach out_edge in node.out_edges: new_edge_value=node.value\\*out_edge_value/out_sum //赋予每条边新值 out_edge.set_value(new_edge_value) end foreach endif end foreach node ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "end for iteration ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验方案及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所有的实验都是在Intel酷睿I7-6700UCPU，8GB内存，64位操作系统上实现。Graphchi是由 CMU(卡内基梅隆大学)博士AapoKyrola[21]开发的一套基于磁盘的图处理系统，该系统能有效处理边数目达数十亿规模的数据图。在本实验室的硬件条件下，基于Graphchi框架[22]开发出关键用户的挖掘模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1实验数据 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SGYYGY收集了腾讯微博2016年1月1日到2016年12月31日的3个话题共计550万条数据，话题涉猎政治/时尚和美食方面。同时，有超过100万微博用户以及他们之间的社交关系，详细描写如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9bd1ac9a3e6f3560168dbab3de9c4b1c6e07c3477e12c27239b42db918816a0.jpg",
+        "table_caption": [
+            "表1实验数据集描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Topics</td><td>用户</td><td>原创数</td><td>转发数</td></tr><tr><td>#两会#</td><td>384671</td><td>184833</td><td>1102337</td></tr><tr><td>#VGirl#</td><td>646322</td><td>494093</td><td>2121899</td></tr><tr><td>#家乡美食#</td><td>318218</td><td>305637</td><td>1525895</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了下面描述的方便，用话题#1#、#2#、#3#来分别表示上面三个话题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 实验评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文算法的有效性，选择了一些经典模型进行结果比较。相应模型描述如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PageRank算法：它是最流行的链接分析算法，用于对搜索引擎在用户查询后返回的结果进行排序。在微博社区中，如果一个节点被许多其他节点关注，那么它的 PageRank 值相对较高。然而当一个被大量节点关注的用户接受的话题微博在话题流行趋势之后的话，当然只能认为他是信息的被动接受者，而不能是推动话题流行的关键用户，所以这种方法挖掘出来的结果可能会不准确。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TS算法[10]：它是基于PageRank将时间属性融合到用户关系图的排序方法。与前者不同，它考虑了时间属性，但是计算用户关系向量仅仅取决用户发布的微博时间间隔对于挖掘关键用户并不精确，无法得出其他人接受话题与所挖掘的关键用户之间是否存在相关关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1时间考量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "时间来说对关键用户来说非常重要，因为挖掘一个在话题流行趋势之后才接受话题的“关键用户”是毫无意义的。全国两会是2016年一个非常重要的话题。根据话题的特征化定义为kNPC&cPPCC $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ [#两会#,#微博看两会#,.]，共计11个话题特征。经过统计，网络图共包括384671个节点以及2443924条有向边。全国两会这个话题讨论的峰值出现在2016年3月6日，共计79443个用户发布118786条微博。根据上述提出的算法，本文计算网络图中至少发布一个话题特征的关键用户权值，与PageRank算法和TS算法进行比较，发现经典PageRank算法易于给一些过时的用户很高的权值，而TS算法和本文的MUR算法由于都考虑了时间属性，所以表现较好。为了说明这个，本文计算了3种算法 top- $k$ （ $k = 1 0 , 2 0 , 3 0 , 4 0 ,$ 50)用户在峰值之前发布话题微博的比例。结果如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，在任一话题TS算法和MUR算法都比PageRank算法表现要好。本文将其归因于PageRank算法由于不考虑时间属性更容易挖掘一些过时的人。尤其在关于时尚的#2#话题，PageRank 算法更是表现不佳。由于MUR算法和TS算法都考虑了时间属性，导致实验结果看起来好像没有太大差别。但是为了说明满足时间条件的TS挖掘模型挖掘出来的用户并非促使特定话题形成的关键用户，在接下来的部分做了些实验来进一步说明。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a80ab905dbb575f2a714c8315e61c37436a8a56093bf4f96e5f3ae0c4c7b4637.jpg",
+        "img_caption": [
+            "(a)话题1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3a4078d68e584d870180a0cca434aab1e0f53b36c4295bb040243ab842fd487.jpg",
+        "img_caption": [
+            "(b)话题2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b084661e7779df4cdc2d3d0d90623713590e9f8c63dd7e279dc0d4b97977a89.jpg",
+        "img_caption": [
+            "图1不同算法Top-k用户中在峰值之前接受话题的比例"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2用户交互",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "时间来说对关键用户来说非常重要，因为挖掘一个在话题流行趋势之后才接受话题的“关键用户”是毫无意义的。在微博中，用户话题影响主要通过他的粉丝的评论和转发向网络图中进行扩散。评论可以影响信息传播的深度，转发可以影响信息传播的广度。本文中认为用户微博被评论数和被转发数一定程度上能反映关键用户的影响力，所以计算了top- $k$ ( $k$ $= 1 0 , 2 0 , 3 0 , 4 0 )$ 用户微博直接被评论量和被转发量。实验结果展",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "现如图2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae18664ae27c61d7ba274cd86fa54b1d9371ff327d9081f9495cb22efa062ddf.jpg",
+        "img_caption": [
+            "图2不同算法间Top-k用户直接评论量总和与直接转发量的总和"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，相比较其他两个算法，发现用户之间的交互在MUR算法上得到了更大的体现。很明显，MUR挖掘的用户在考虑交互的情况下对网络中的舆论产生更加积极的影响，促使更多用户参与评论与转发。同时想知道满足时间条件的TS挖掘模型挖掘出来的关键用户是否促使了微博特定话题形成。在top-20的用户中，从影响信息传播广度的转发数上来看，TS算法的总数比MUR算法少，甚至比PageRank算法还低，把原因归结于TS算法考虑的网络图中边的权值仅仅取决于时间间隔。所以只能认为TS算法挖掘出来的用户看起来更像个“创新者”，而不能被认为是关键用户。限于篇幅，本文在这里仅仅展示了话题1用户被评论与被转发的情况，在另外两个话题中，MUR算法依然比其他两个算法表现更好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文算法致力于发现网络图中的一些节点，这些节点比较早得接受话题，而且有能力影响其他节点产生更多交互，最终使话题流行。为了进一步说明这个问题，本文计算了top-10的用户话题微博的全局转发量。实验结果如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，在涉及政治、时尚和美食领域的话题时，MUR值高的top用户可以通过影响他们的粉丝产生更多的用户交互，从而推动话题的形成与发展。图3也意味着更多的人接受话题是因为MUR算法挖掘的top用户。更多的粉丝通过转发去扩散top 用户的影响，最终推动了微博话题的形成。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3社会关系影响力",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "令 $I F R _ { k } \\left( \\nu \\right)$ 去衡量top 用户影响其社会关系的能力。其公式计算如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI F R _ { k } \\left( \\nu \\right) = \\sqrt [ N I F _ { k } \\left( \\nu \\right) ] { T N F \\left( \\nu \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $N I F _ { k } \\left( \\nu \\right)$ 表示 top 用户的粉丝中发布微博时间晚于 top用户的数量； $T N F ( \\nu )$ 表示这些用户的全体粉丝数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Top-50 用户平均影响粉丝率如表2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2753b673902d0f69648919a11d61d70543748e71fa001ed74aa53eb7669ae5b.jpg",
+        "img_caption": [
+            "图3不同算法Top-10用户在微博网络全局转发量的总和"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b5a7d25c60552a34154d8183fedb288d0f3897afa0aef546ddff82c419cfd2d.jpg",
+        "table_caption": [
+            "表2top-50用户平均影响粉丝率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Topics</td><td>MUR(%)</td><td>TS(%)</td><td>PR(%)</td></tr><tr><td>#1#</td><td>0.058</td><td>0.050</td><td>0.039</td></tr><tr><td>#2#</td><td>0.134</td><td>0.113</td><td>0.105</td></tr><tr><td>#3#</td><td>0.085</td><td>0.081</td><td>0.070</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表2中可以知道，MUR算法的top用户的IFR值比PageRank算法以及TS算法都要高，将其归因于PageRank算法挖掘了“过时”的用户和TS算法忽略了用户交互的影响。这也表明了高交互性的MUR用户更能影响其社会关系，从另一个方面也表明本文考虑关键用户属性的正确性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.4算法相关性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文尝试研究MUR、PageRank、TS这三种算法产生的关键用户列表的相关性。Kendall's是数学统计中一个常用的系数。的取值区间是[-1,1]。如果两个用户列表一致，则 $\\tau = 1$ 两个互逆序列的Kendall's系数为-1。的值越大，表明更大的正相关性。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f5c61c14b1b429eadd9bd9ff7e294b060196e9ec02a9f4a8c93aadd574017cf.jpg",
+        "table_caption": [
+            "表3不同算法间的相关性"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>#1#</td><td>#2#</td><td>#3#</td></tr><tr><td>MUR vs. TS</td><td>0.4286</td><td>0.4017</td><td>0.4501</td></tr><tr><td>MUR vs. PR</td><td>0.5187</td><td>0. 4984</td><td>0.5327</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3展现了MUR算法与PageRank算法及TS算法之间挖掘用户之间的．值以发现本文算法与其他两种算法的结果并不是非常相似，这也表明本文算法在挖掘关键用户方面的实验结果与其他算法相比有一定的区分度和不可替代性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文定义的关键用户是比较早的接受话题趋势并激发更多交互使话题变得流行的人。通过将时间属性和用户交互结合，提出了一种有效的算法去挖掘微博话题的关键用户。本文做了一系列的实验去验证本文模型，实验结果表明，本文算法在时间性和用户影响角度优于先前算法。考虑到用户交互存在其他的形式，未来计划进一步研究交互作用，从而建立一个更加准确的模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]熊才伟，曹亚男．基于发文内容的微博用户兴趣挖掘方法研究[J].计 算机应用研究,2018,35(6):1-6.   \n[2]Cha M,Haddadi H,Benevenuto F,etal,Measuring user influence in Twitter: the million follower fallacy [C]//Proc of International Conference on Weblogs and Social Media.2010.   \n[3]Lee C,Kwak H,Park H,et al,Finding influentials based on the temporal order of information adoption in twitter [C]// Proc of International Conference on World Wide Web.2010:1137-1138.   \n[4]Ye S,Wu F.Measuring message propagation and social influence on Twitter [J].Communication Networks and Distributed Systems,2013.11(1): 59-76.   \n[5]Bakshy E,Hofman JM,Mason W A,et al.Everyone's an influencer: quantifying influence on twitter [C]// Proc of the 4th ACM International Conference on Web Search and Data Mining.2011:65-74.   \n[6]赵之滢，于海，朱志良，等．基于网络社团结构的节点传播影响力分析 [J]．计算机学报,2014,37(4):753-766.   \n[7] 毛佳昕，刘奕群，张敏，等．基于用户行为的微博用户社会影响力分析 [J]．计算机学报 2014,37(4):791-800.   \n[8]Tang J,Sun J,Wang C,et al. Social influence analysis in large-scale networks [C]// Proc of ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.2009: 807-816.   \n[9]Weng J,LimE,Jiang J,et al.Twitterrank: finding topic-sensitive influential twitterers [C]// Proc of the 3rd ACM International Conference on Web Search and Data Mining.201o: 261-270.   \n[10] Saez-Trumper D,Comarela G，Almeida V. Finding trendsettersin information networks [C]// Proc of the 18th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 2012: 1014-1022.   \n[11]Pal A,Counts S.Identifying topical authorities in microblogs [C]// Proc of ACM International Conference on Web Search and Data Mining. 2011: 45- 54.   \n[12]周小平，梁循，赵吉超，等．面向社会网络融合的关联用户挖掘方法综 述[J].软件学报,201728(6):1565-1583.   \n[13] Watts D J.A simple model of global cascades on random networks [C]/ Proc of National Academy of Sciences.2002: 5766-5771.   \n[14] Goldenberg J,Libai B,Muller E.Talk of the network:a complex systems look at the underlying process of word-of-mouth [J].Marketing Letters, 200112 (3): 211-223.   \n[15] Saito K, Kimura M, Ohara K,et al. Selecting information diffusion models over social networks for behavioral analysis [C]//Proc of European Conference on Machine Learning and Knowledge Discovery in Databases. 2010: 180-195.   \n[16] Gomez-Rodriguez M, Leskovec J, Krause A. Inferring networks of diffusion and influence [C]/ Proc of ACM Knowledge Discovery & Data Mining. 2011: 1019-1028.   \n[17]Fan P,Li P,Jiang Z,et al. Measurement and analysis of topology and information propagation on Sina-Microblog [C]//Proc of IEEE International Conference on Intelligence and Security Informatics.2011: 396-401.   \n[18] Ghosh R, Surachawala T, Lerman K. Entropy-based classi cation ofretweeting\"activity on Twitter[C]//Proc of KDD Workshop on Social Network Analysis.2011.   \n[19] Hong L,Dan O, Davison B D.Predicting popular messages in Twiter [C]// Proc of International Conference on World Wide Web.2011: 57-58.   \n[20] Welch MJ,Schonfeld U,He D,et al. Topical semantics oftwitter links [C]/ Proc of ACM International Conference on Web Search and Data Mining. 2011: 327-336.   \n[21] KyrolaA.DrunkardMob: billions of random walks on just a PC[C]//Proc ofACM Conference on Recommender Systems.2013: 257-264.   \n[22] Kyrola A,Blelloch G, Guestrin C. GraphChi: large-scale graph computation on just a PC [C]// Proc of Usenix Conference on Operating Systems Design and Implementation. 2012: 31-46. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

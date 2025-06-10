@@ -1,0 +1,174 @@
+# shPLCε通过下调CDC25A抑制T24细胞的瓦伯格效应
+
+郝燕妮1李婷「范佳鑫1李罗1牛凌芳1欧俐苹1吴小候²罗春丽1\*(1 重庆医科大学检验医学院，临床检验诊断学教育部重点实验室,重庆市重点实验室，重庆，400016)(2重庆医科大学附属第一医院泌尿外科，重庆，400016)
+
+摘要：目的：探讨 shPLCε对膀胱癌T24细胞瓦伯格效应的影响及其相关机制。方法：
+
+（1）慢病毒感染T24细胞，葡萄糖测定试剂盒和乳酸测试盒分别检测细胞葡萄糖利用和乳酸生成情况；q-PCR、Westerm blot分别检测PLCε、CDC25A及瓦伯格效应相关分子的表达。（2）转染 shCDC25A 质粒，q-PCR、Westerm blot 检测CDC25A 的表达；Western blot检测瓦伯格效应相关分子的表达情况。结果：（1）慢病毒干扰PLCε后，T24 细胞利用葡萄糖和生成乳酸的能力降低，同时下调CDC25A、PKM2、GLUT1、LDHA的表达。（2）干扰CDC25A的表达后可抑制 PKM2、GLUT1、LDHA的表达。结论：shPLCε通过下调关键分子CDC25A的表达抑制膀胱癌T24细胞的瓦伯格效应，从而为膀胱癌的治疗提供了新思路。
+
+关键词：PLCεCDC25A膀胱癌瓦伯格效应
+
+膀胱癌是最常见的泌尿系恶性肿瘤，具有易转移、易复发等生物学特性。据最新报道，我国膀胱癌的发病率为8.05/10万，死亡率为3.29/10万[。代谢组学分析表明，癌细胞在有氧或无氧条件下均表现出为糖酵解增加的能量代谢表型[2.3]。因此，探究膀胱癌能量供应的分子机制，对于提高膀胱癌的治疗至关重要。
+
+磷脂酰肌醇特异性磷脂酶Cepsilon（phospholipaseC epsilon，PLCε）属于磷脂酶C家族的一员，其催化多磷酸肌醇如磷脂酰肌醇4， $5 -$ 二磷酸（PIP2），并产生第二信使包括1，4， $5 -$ 三磷酸和二酰基甘油[4]。近年来研究证实，PLCε在恶性肿瘤中高表达，且在恶性肿瘤的发生发展中发挥重要的作用。本课题组前期研究显示，PLCε在膀胱癌组织和细胞中表达均增加,敲低PLCε的表达可以降低糖原合酶激酶3（glycogen synthase kinase 3 beta,GSK- $\cdot 3 \beta$ ）的磷酸化水平，从而抑制膀胱癌的发生发展[5]。瓦伯格效应是肿瘤细胞在有氧的条件下通过糖酵解获取生存所需能量的一种方式[67]。有文献报道葡萄糖转运蛋白（glucosetransporter,GLUT）、乳酸脱氢酶（lactate dehydrogenase,LDHA）、M型丙酮酸激酶（pyruvatekinase,PKM）等在大多数肿瘤中高表达，同时应用18FDG-PET/CT等检测方法证实肿瘤细胞利用葡萄糖的能力强于正常细胞[8.9]。本课题组芯片结果显示敲低膀胱癌T24 细胞中PLCε的表达可以下调LDHA的表达。在此基础上，研究膀胱癌细胞T24中PLCε的高表达是否是通过细胞分裂周期素25A(celldivision cycle 25A,CDC25A)参与膀胱癌 T24 细胞的瓦伯格效应，从而为膀胱癌的治疗提供一个新的思路。
+
+# 1材料与方法
+
+# 1.1细胞株
+
+人膀胱癌细胞株T24（重庆医科大学临床检验诊断学教育部重点实验室保存）
+
+# 1.2病毒和质粒
+
+阴性对照慢病毒LV-shNC及PLCε的干扰慢病毒LV-shPLCε购自上海吉玛制药技术有限公司，序列信息见表1；阴性对照质粒pGPU6/GFP/Neo-shNC及CDC25A的干扰质粒pGPU6/GFP/Neo-shCDC25A购自上海吉玛制药技术有限公司，序列信息见表2
+
+# 表1慢病毒信息
+
+# Table1 lentivirus sequence
+
+<html><body><table><tr><td>lentivirus name</td><td>Lentivirus sequence( 5'-3')</td></tr><tr><td>LV-shPLCε</td><td>Sense:GGTTCTCTCCTAGAAGCAACC Antisense:CCAAGAGAGGATCTTCGTTGG</td></tr><tr><td>LV-shNC</td><td>Sense:TTCTCCGAACGTGTCACGT</td></tr><tr><td></td><td></td></tr><tr><td></td><td>Antisense:AAGAGGCTTGCACAGTGCA</td></tr><tr><td></td><td></td></tr></table></body></html>
+
+# 表2质粒信息
+
+Table2 plasmid vector sequence
+
+Plasmid name
+
+Plasmid sequence( 5'-3')
+
+<html><body><table><tr><td rowspan="2">pGPU6/GFP/Ne0- shCDC25A</td><td>Sense:CACCGTTCTCCGAACGTGTCACGTTTCAAGAGAACGTGACACGTTCGGAGAATTTTTTG</td></tr><tr><td></td></tr><tr><td></td><td>Antisense:GATCCAAAAAATTCTCCGAACGTGTCACGTTCTCTTGAAACGTGACACGTTCGGAGAAC</td></tr><tr><td></td><td></td></tr><tr><td></td><td>pGPU6/GFP/Neo-shNC Sense:CACCGCAGGGAATTTCATTCCTCTTTCAAGAGAAGAGGAATGAAATTCCCTGTTTTTG</td></tr><tr><td></td><td></td></tr><tr><td></td><td>Antisense:GATCCAAAAAACAGGGAATTTCATTCCTCTTCTCTTGAAAGAGGAATGAAATTCCCTGC</td></tr></table></body></html>
+
+# 1.3主要试剂
+
+细胞培养基RPMI1640和胎牛血清（均购于Gibco公司）；转染试lipofectamine2000（Invitrogen公司）；嘌呤霉素（北京索莱宝科技有限公司）；葡萄糖检测试剂盒和乳酸检测试剂盒（南京建成生物工程研究所）；RNA提取试剂盒Trizol、RT-PCR 试剂盒和Real-time PCR试剂盒（Takara生物技术有限公司）；PCR引物合成（Invitrogen公司）；蛋白提取试剂盒及Western blot相关试剂（上海碧云天公司）；PVDF膜（美国Millipore 公司）；山羊抗人多克隆抗体 PLCε（Santa cruz 公司)；兔抗人 PKM2 抗体（Cell signalingtechnology公司）；兔抗人CDC25A、GLUT1（Wanleibio公司）；鼠抗人LDHA（Santa cruz 公司）； $\beta$ -actin多克隆抗体（北京中杉金桥生物技术有限公司）。
+
+# 1.4 方法
+
+# 1.4.1 细胞培养
+
+膀胱癌细胞株T24常规培养于RPMI1640完全培养基（含 $10 \%$ 胎牛血清），置于 $3 7 ^ { \circ } \mathrm { C }$ 、 $5 \%$ CO2的湿度饱和培养箱中培养，待细胞贴壁且生长至 $8 0 \% \sim 9 0 \%$ 时以 $0 . 2 5 \%$ 胰酶消化法进行传代。
+
+# 1.4.2不同组慢病毒感染和稳定细胞株的筛选
+
+将膀胱癌 T24 细胞消化后，接种于6孔板中（每孔 $5 ^ { * } 1 0 ^ { 4 } )$ 待细胞生长融合度达$4 0 \% \sim 6 0 \%$ ，更换培养基，同时分别在其中两个孔中加入2uLPolybrene 之后再分别加入 $1 5 \mathrm { u L }$ 的LV-shNC、LV-shPLCε病毒原液，轻轻摇匀，置于 $3 7 ^ { \circ } \mathrm { C }$ ！$5 \% C O 2$ 孵箱中孵育48h后观察细胞状态和转染效率。将被病毒感染的细胞进行传代，待细胞生长融合度达到 $30 \%$ ，更换培养基，同时加入 $\mathrm { { 1 u g / m L } }$ 嘌呤霉素进行筛选，1周后获得稳定细胞株。
+
+# 1.4.3不同组质粒（shNC和shCDC25A）转染T24细胞
+
+细胞转染时实验分为3组：空白对照组（仅加入无血清培养基 $+$ 转染试剂）、阴性质粒组（无血清培养基 $^ +$ 转染试剂 $+$ 阴性对照质粒）、特异性阳性质粒组（无血清培养基 $+$ 转染试剂 $+$ 阳性质粒）。转染前一天，将膀胱癌T24细胞消化后，接种于6孔板中(每孔 $5 ^ { * } 1 0 ^ { 4 } )$ 置于 $3 7 ^ { \circ } \mathrm { C } , 5 \% \mathrm { C O } _ { 2 }$ 培养箱内常规培养，待细胞生长融合度达 $70 \sim 8 0 \%$ ，用lipofectamine 2000试剂进行转染，每孔按2ug质粒和4uLlipofectamine2000 转染试剂分别用 $2 5 0 \mathrm { u L }$ 无血清1640培养基稀释后，室温静置 $5 \mathrm { m i n }$ 后将二者混匀后再静置 $2 0 \mathrm { { m i n } }$ ，每孔加入 ${ 5 0 0 } \mathrm { u L }$ 混合复合物，同时再补加 $1 . 5 \mathrm { m L }$ 无血清培养基，轻轻混匀后放入培养箱中培养 $4 { \sim } 6 \mathrm { h }$ 后，更换含血清培养基，继续培养 $4 8 \mathrm { h }$ 后，继续后续所需实验。
+
+# 1.4.4试剂盒检测葡萄糖的消耗和乳酸的生成
+
+将筛选好的加入病毒的稳定细胞株及未做任何处理的T24细胞接种于6孔板中(每孔 $5 ^ { * } 1 0 ^ { 5 } \$ ，置于 $3 7 ^ { \circ } \mathrm { C }$ 、 $5 \% C O 2$ 孵箱培养24h，收集上清，同时消化细胞，并对各组的细胞进行计数；收集上清并以 $1 5 0 0 \mathrm { r p m / m i n }$ 离心10min,弃沉渣留上清。按照葡萄糖检测试剂盒和乳酸检测试剂盒说明书，检测各组的葡萄糖的利用和乳酸生成量。
+
+# 1.4.5 PCR 检测PLCε和 CDC25A的 $\mathbf { m }$ RNA表达水平
+
+常规培养未处理的T24细胞、上述筛选出的稳定细胞，采用Trizol法抽取细胞总RNA。利用反转录试剂盒将提取的RNA逆转录成cDNA，然后以cDNA为模板进行 $\mathsf { q }$ -PCR（以 $\beta$ -antin为内参）和RT-PCR（以 $\beta$ -antin为内参)检测。反应条件：预变性 $9 5 ^ { \circ } \mathrm { C } ~ 3 \mathrm { m i n }$ ;变性 $9 5 ^ { \circ } \mathrm { C } ~ 1 0 \mathrm { s }$ ；退火温度（不同基因对应不同的温度）30s；延伸 $7 2 ^ { \circ } \mathrm { C } 2 0 \mathrm { s }$ ;共 40个循环（RT-PCR为30个循环）。q-PCR 结果，根据读取的CT值采用 2-△ACT 法分析，mRNA相对表达量=2-[(CT处理-CT内参)-(CT对照-CT内参）」。RT-PCR结果用 Quantity One 软件分析条带的灰度值，mRNA 相对表达量 $\mathbf { \partial } : =$ 目的条带灰度值/内参条带灰度值。所用引物序列见表3。
+
+# 表3引物信息
+
+Table3ThesequenceofPrimerforPCR   
+
+<html><body><table><tr><td>Gene</td><td>Forward primer(5'to 3')</td><td>Reverse primer( 5'to 3')</td></tr><tr><td>PLCε</td><td>GCAACTACAACGCTGTCATGGAG</td><td>CCTCATGGTCTCAATATCAGACTGG</td></tr><tr><td>CDC25A</td><td>TTCCTCTTTTTACACCCCAGTCA</td><td>TCGGTTGTCAAGGTTTGTAGTTC</td></tr><tr><td>PKM2</td><td>AAATCACGCTGGATAACGC</td><td>CAGGAAGTCGGCACCTTT</td></tr><tr><td>GLUT1</td><td>TGCTCATCAACCGCAACGA</td><td>CCGCATCATCTGCCGACT</td></tr></table></body></html>
+
+# 1.4.6Westernblot检测蛋白表达水平
+
+常规培养未处理的T24细胞、上述筛选出的稳定细胞，按常规方法提取细胞总蛋白，BCA法测定蛋白浓度。蛋白上样量约为 $3 0 \mu \mathrm { g }$ ，经十二烷基硫酸钠-聚丙烯酰胺凝胶 电泳（sodium dodecylsulfate-polyacrylamideelectrophoresis， SDS-PAGE）分离后，湿转移至聚偏氟乙稀（polyvinylidene fluoride，PVDF）膜,$5 \%$ 封闭液室温封闭 $2 \mathrm { h }$ 后加入相应一抗 $4 ^ { \circ } \mathrm { C }$ 孵育过夜；TBST洗涤 $5 \mathrm { m i n } { \times } 6$ 次，加入相应二抗室温孵育 $^ { \textrm { 1 h } }$ ；TBST洗膜 $5 \mathrm { m i n } { \times } 6$ 次，ECL暗室化学发光检测。实验结果采用ImageJ软件进行灰度定量分析，并将目的蛋白灰度与内参 $\beta$ -actin灰度的比值作为目的蛋白的相对表达量。
+
+# 1.4.7统计学分析
+
+实验结果采用SPSS17.0软件进行统计分析。计量资料用均数±标准差 $\left( \bf { { x } } \bot \bf { { s } } \right)$ 表示，多组间比较采用单因素方差分析，组间两两比较采用 $\mathrm { ~  ~ t ~ }$ 检验。 $\scriptstyle \mathtt { P < 0 . 0 5 }$ 认为差异有统计学意义。
+
+# 2结果
+
+# 2.1转染LV-shNC、LV-shPLCε慢病毒及稳定细胞株的筛选
+
+LV-shNC、LV-shPLCε慢病毒成功感染T24细胞，并筛选出稳定细胞株
+
+![](images/9f351252792e936b8507a251628d4839a08f25941d994ea114e9cb31604dc810.jpg)  
+图1慢病毒感染膀胱癌细胞T24后感染效率的检测 Fig.1Infectionrate of T24cellsinfected withlentivirus
+
+Microscopic image of T24-NC cells (a)Light microscopy image( $\times 1 0 0 )$ （b）Fluorescent photomicrograph( $\mathrm { \Phi } \times 1 0 0 )$ ; Microscopic image of T24-shPLCε cells（c）Light microscopy image( $\times 1 0 0 )$ （d）Fluorescent photomicrograph $\left( \times 1 0 0 \right)$ （204号 2.2转染LV-shPLCε慢病毒下调膀胱癌T24细胞内源性PLCε的表达
+
+PCR和Westermblot结果分别显示，转染LV-shPLCε组，在mRNA和蛋白水平PLCε的表达均低于LV-NC组（ $\mathrm { \Phi } ^ { \mathrm { p } < } 0 . 0 1 \$ ）（图2）；而空白对照组、LV-NC组PLCε表达无统计学差异（ $\mathrm { \Phi } \mathrm { P } { > } 0 . 0 5 \$ ）（图2）。表明LV-shPLCε慢病毒成功下调T24细胞内源性PLCε的表达，为后续实验奠定基础。
+
+![](images/92ea9f25740e48c11b89e676d6ae0cb2cbcdaf7f73b440bef21ca272733b5f19.jpg)  
+图2感染慢病毒后膀胱癌细胞T24细胞内PLCε的表达 Fig.2The expression of PLCε inT24after treated withlentivirus
+
+(a)Relative mRNA expression of PLCε detected by $\mathsf { q }$ -PCR;(b)Expression of PLCε detected by Western Blot:(c)Relative protein   
+expression of PLCε; $^ { * * } \mathrm { P } < 0 . 0 1$ $^ { * * * } { \bf { \tilde { P } } } { < } 0 . 0 0 1$ compared with blank control and LV-NC control   
+2.3下调PLCε的表达抑制T24细胞利用葡萄糖及生成乳酸
+
+葡萄糖消耗检测实验结果显示，转染LV-shPLCε组24h利用葡萄糖的能力较LV-NC组和Blank组均减弱（ $\scriptstyle \mathbf { P < } 0 . 0 1$ ）(图3a);乳酸生成检测实验显示，转染
+
+LV-shPLCε组24h生成乳酸的量较LV-NC 组和Blank 组均减弱（ $\scriptstyle \mathbf { P < } 0 . 0 1$ ）（图3b）。以上实验结果表明下调PLCε的表达可以抑制T24细胞利用葡萄糖及生成乳酸。
+
+![](images/e3cda11b588ce3d5c53e45072962809f8e81feea24582d60f6d8057c586e7d62.jpg)  
+图3下调PLCε对膀胱癌T24细胞利用葡萄糖和生成乳酸的影响  
+Fig.2 The effect of PLCε on glucose consumption and lactate production in bladder cancer T24 cells (a)GlucoseconsumptioninT24cels treated withLV-shPLCε; (b)Lactate productioninT24cells treatedwithLV-shPLCε; $\ast \ast \mathbf { p } < 0 . 0 1$ compared with blank control and LV-NC control 2.4下调PLCε后CDC25A以及瓦伯格效应相关分子的表达也降低
+
+q-PCR 结果显示，转染LV-shPLCε组CDC25A、PKM2、GLUT1、LDHA 在mRNA水平的表达量均低于对照组，差异均有统计学意义（ $\scriptstyle \mathbf { P < 0 . 0 1 }$ ）（图4a）；Western blot 结果显示CDC25A、PKM2、GLUT1、LDHA 在蛋白水平的表达量与PCR 结果一致（图4b,4c）。以后上实验结果表明，下调PLCε的表达能够降低CDC25A、PKM2、GLUT1、LDHA的表达。
+
+![](images/47b56c86f655b4ac0e8b89f3b4a45277650bf81d1b1a35b3c8dc532339842ef6.jpg)  
+图4下调PLCε对CDC25A和瓦伯格效应相关部分分子的影响
+
+Fig 4.The effectofPLCεon CDC25Aand themolecule related withWarburyEffe (a) CDC25A、PKM2、GLUT1、LDHA mRNA expression detected by $\mathsf { q }$ -PCR; $^ { * * } \mathrm { P } < 0 . 0 1$ ，compared with Blank and LV-NC control (b）CDC25A、PKM2、GLUT1、LDHA protein expresson detected by western blot ；（c） $^ { * } \mathrm { P } ~ < ~ 0 . 0 5 , ^ { * * } \mathrm { P } ~ < ~ 0 . 0 1$ ， $^ { * * * } \mathrm { P } { < } 0 . 0 0 1$ ,compared with Blank and LV-NC control
+
+# 2.5转染shCDC25A质粒下调膀胱癌T24细胞内源性CDC25A的表达
+
+PCR 和Westermblot结果分别显示，转染 shCDC25A组，在mRNA和蛋白水平CDC25A的表达低于LV-NC组（ $\mathbf { \boldsymbol { P } } { < } 0 . 0 1$ ）（图5）；而空白对照组、LV-NC组PLCε表达无统计学差异（ $\mathrm { \Phi } _ { \cdot } \mathrm { P } { > } 0 . 0 5$ ）（图5）。表明shCDC25A成功下调T24细胞内源性CDC25A的表达，为后续实验奠定基础。
+
+![](images/1d8c8f73a0c04be7b87fd92ee7d6c662651ced0b34a71930b7f1fa4cb785eda7.jpg)  
+图2感染质粒后膀胱癌细胞T24细胞内CDC25A的表达 Fig.2The expression of CDCD25A inT24 after treated with plasmid
+
+(a)RelativemRNA_expression ofCDC25A detected by $\mathbf { q } { \mathrm { - } } \mathbf { P } \mathbf { C } \mathbf { R }$ $^ { * * * } \mathrm { P } { < } 0 . 0 0 1$ compared with blank control and shNC control (b)Expression of CDC25A detected by Western Blot:(c)Relative protein expression of $\mathrm { C D C } 2 5 \mathrm { A } ; { ^ { * * } \mathrm { P } } < 0 . 0 1$ compared with blank control and shNC control
+
+# 2.6下调CDC25A抑制PKM2、GLUT1、LDHA的表达
+
+Western blot结果显示，转染shCDC25A质粒后，膀胱癌T24 细胞中PKM2、GLUT1、LDHA蛋白水平降低（ $\mathrm { P } { < } 0 . 0 5$ ）（图6)。表明下调CDC25A的表达可以下调 PKM2、GLUT1、LDHA的表达。
+
+![](images/030342f28e3442999ddecbdbb0467033d59c5ba025a45c7c493933485bc62299.jpg)  
+图6下调CDC25A抑制PKM2、GLUT1、LDHA的表达  
+Fig 6.Down - regulation of CDC25A inhibits the expression of PKM2、GLUT1、LDHA (a)PKM2、GLUT1、LDHA protein expression detected by western blot；(b)Relative protein expression of PKM2、GLUT1、 LDHA ; $^ { * } \mathrm { P } { < } 0 . 0 5 , ^ { * * } \mathrm { P } { < } 0 . 0 1$ compared with blank control and LV-NC control
+
+# 3、讨论
+
+PLCε作为PLC家族的成员之一，除了具有典型的催化结构域XY、C2结构域外，还具有羧基端的Ras 结构域RA和氨基酸的鸟苷酸交换因子结构域$\mathrm { C D C } 2 5 ^ { [ 1 0 , 1 1 ] }$ ，这些特殊的结构域可以激活多条信号通路，促进恶性肿瘤的发生发展。已有研究证实PLCε的高表达与多种癌症的发生有关，包括胃癌和食管鳞状细胞癌[12.13]。近年来，本课题组研究表明PLCε的高表达与泌尿系系统肿瘤膀胱癌和前列腺癌的发生发展侵袭转移相关，但与膀胱癌的瓦伯格效应的关系尚不清楚。
+
+瓦伯格效应被证实在大多数恶性肿瘤中为肿瘤的发生发展以及侵袭转移提供能量，是癌细胞由于生长过快处于缺氧状态使线粒体功能受损后，糖代谢至丙酮酸后不再通过线粒体进行有氧氧化而是通过乳酸脱氢酶转变成乳酸[14,15]。课题组前期芯片结果显示，敲减PLCε的表达后LDHA的表达也随之降低。因此本研究探讨了膀胱癌T24细胞PLCε的高表达与瓦伯格效应的关系。研究结果显示，用LV-shPLCε敲低 T24 细胞中PLCε的表达后，T24 细胞利用葡萄糖的能力和生成乳酸的能力均下降，PKM2、GLUT1、LDHA在基因水平和蛋白水平的表达均降低，表明下调PLCε的表达可以抑制膀胱癌T24细胞的瓦伯格效应。
+
+CDC25A是一种具有双重特性的蛋白磷酸酶，可以调节细胞周期的进展[16],包括促进作用和凋亡作用，在人类多种癌症细胞中呈异常高表达，很多癌基因可以通过影响其活性或表达影响肿瘤的发生发展。本课题组前期研究显示PLCε可以磷酸化GSK-3β使其失活[5],p-GSK-3β抑制了CDC25A蛋白的水解使CDC25A 积累增加[17]。在本研究中，慢病毒干扰PLCε的表达后CDC25A的表达也降低。已有文献报道，在脑胶质瘤细胞中CDC25A可以上调PKM2、GLUT1、LDHA的表达，从而促进瓦伯格效应和肿瘤的发生[18]。在本研究中，用质粒技术干扰膀胱癌 T24 细胞内CDC25A的表达后，PKM2、GLUT1、LDHA的表达均降低，表明干扰T24 细胞中CDC25A的表达抑制了其瓦伯格效应。
+
+综上所述，本研究揭示了干扰PLCε的表达后通过下调CDC25A的表达抑制膀胱癌的瓦伯格效应，为抑制膀胱癌的发展提供了新的方法和靶点，但其具体相关机制还有待探讨。
+
+# 参考文献：
+
+1. Chen W, Zheng R, Baade PD,et al. Cancer statistics in China,2O15 .CA: a cancer journal for clinicians,2016,66(2):115-132.   
+2. Warburg O. On the origin of cancer cells. Science,1956;123:309-314.   
+3. Vander Heiden M.G.， Cantley L.C.， Thompson C.B. Understanding the Warburg effect: The metabolic requirements of cell proliferation.Science,2009;324:1029-1033.   
+4. Henry J,Guilltte A,Luberto C, Del Poeta M. Characterization of inositol phospho-sphingolipidphospholipase C1 (lsc1) in Cryptococcus neoformans reveals unique biochemical features. FEBS Lett. 2011;585:635-640.   
+5. 赵燕,郝燕妮,刘南京,李婷,吴小候,罗春丽.miR-145 通过下调 PLCε抑制膀胱癌 EMT 和迁移 及其机制研究.中国生物工程杂志,2017,37(03):27-36.[2017-09-01].   
+6. Wind F， Negelein E. The metabolism of tumors in the body. Journal of General Physiology, 1927, 8(6):519-530.   
+7. Warburg O.Warburg OOn respiratory impairment in cancer cels. Science，1956,124(3215): 269-270.   
+8. Cairns R A, Harris IS, Mak TW. Regulation of cancer cell metabolism. Nature Reviews Cancer, 2011, 11(2):85-95.   
+9. CantorJ R, Sabatini D M. Cancer cell metabolism: one hallmark,many faces.Cancer Discovery, 2012,2(10):881.   
+10. Hicks SN, Jezyk MR，Gershburg S,Seifert JP，Harden TK,Sondek 」 General and versatile autoinhibition of PLC isozymes. Mol Cell. 2008; 31:383-394.   
+11. Wing MR, Snyder JT, Sondek J, Harden TK. Direct activation of phospholipase C-epsilon by Rho. JBiol Chem.2003;278:41253-41258.   
+12. Abnet C C, Freedman N D,Hu N,et al.A shared susceptibility locus in PLCE1 at 10q23 for gastric adenocarcinoma and esophageal squamous cell carcinoma. Nature Genetics，2010, 42(9):764-7.   
+13. Smrcka A V, Brown JH, Holz G G. Role of phospholipase Cε in physiological phosphoinositide signaling networks.Cellular Signalling,2012,24(6):1333.   
+14. Alfarouk K O,Verduzco D,Rauch C,et al. Glycolysis, tumor metabolism,cancer growth and dissemination. A new pH-based etiopathogenic perspective and therapeutic approach to an old cancer question. Oncoscience, 2014,1(12):777-802.   
+15. Kim J,Dang C V. Cancer's Molecular Sweet Tooth and the Warburg Effect. Cancer Research, 2006, 66(18):8927.   
+16. Jinno S, Suto K, Nagata A,et al. Cdc25A is a novel phosphatase functioning early in the cell cycle.Embo Journal,1994,13(7):1549-1556.   
+17. Kang T,Wei Y, Honaker Y, et al. $G S K - 3 \beta$ targets Cdc25A for ubiquitin-mediated proteolysis,and $G S K - 3 \beta$ inactivation correlates with Cdc25A overproduction in human cancers. Cancer cell, 2008, 13(1): 36-47.   
+18. Ji L, Cao R, Zhang Y,et al. PKM2 dephosphorylation by Cdc25A promotes the Warburg effect and tumorigenesis.Nature Communications,2016,7:12431.
+
+# Effects of shPLCε on Warburg effect through CDC25A in T24 cells
+
+HAO Yan-ni1 LI Tingl FAN Jia-xin1 LI Luo1 NIU Ling-fang1 OU Li-ping1 WUXiao-hou² LUO Chun-li 1\*
+
+(1KeyLaboratoryofCiicalDiagnosticsFoundedbyMinistryofEducation,ColegeofLaboratory,ChongqingMedicalUnersity Chongqing, 400016)
+
+(DepartmentofUrinarySurgeryTheFirstAfiliatedHospitalofChongqing,MedicalUniversityChongqing,400016)
+
+Abstract Objective:To study the effect of shPLCe on Warburg effect in bladder cancer and the potential mechanism. Methods:(1) Using lentivirus infecting T24 cels,the glucose consumption and lactate production were detected by the corresponding kit. The expression of PLCε、 CDC25A and the molecules related with Warburg efect such as PKM2、GLUT1、 LDHA were detected by q-PCR and western blot. (2)To investigate the related molecular mechanism,using plasimid infecting T24 cels,the expression of CDC25A was detected by q-PCR and western blot. The expression of molecules related with Warburg effect were detected by western blot. Result:(1)After reducing the expression of PLCε， glucose consumption and lactate production were significantly decreased in the LV-sh PLCε group,compared with the blank control group and LV-NC group $\scriptstyle ( { \mathsf { P } } < 0 . 0 1 )$ ）.q-PCR and western blot showed that the expression of CDC25A、 PKM2、 GLUT1、LDHA were remarkably lower in LV-shPLCε group than that in blank group and LV-NC group $( \mathsf { P } { < } 0 . 0 5 )$ ． (2)Western blot showed that the expression of PKM2、GLUT1、 LDHA were remarkably lower in shCDC25A group than in blank group and shNC group( $\mathsf { \Pi } [ \mathsf { P } { < } 0 . 0 5 ]$ ，after treated with shCDC25A-plasimid. Conclusion: sh PLCε can reduce Warburg effect through decreasing the expression of CDC25A in bladder cancer, which can not provide energy for the development and progression of bladder cancer.
+
+Key words: PLCε CDC25A Bladder cancer Warburg effect

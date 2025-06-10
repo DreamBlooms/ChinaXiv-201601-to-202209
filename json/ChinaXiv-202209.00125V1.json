@@ -1,0 +1,178 @@
+[
+    {
+        "type": "text",
+        "text": "两类伽玛射线暴的能谱硬度与持续时间的相关性检验",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "潘彩娟，林樱如，陆伟坚，杨婕(百色学院 广西 百色 533000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：根据持续时间！ $( T _ { 9 0 }$ ）是否大于2s，把3589个伽玛射线暴组成的总样本分为长暴子样本和短暴子样本，然后分别研究这三个样本的能谱硬度与持续时间的相关性。结果发现，总样本的能谱硬度与持续时间存在相关性，而长暴和短暴两个子样本的能谱硬度与持续时间并不存在相关性。这个结果证明了伽玛射线暴的能谱硬度与持续时间不存在显著的相关性，由此推测总样本的能谱硬度与持续时间的相关性是由于长暴与短暴这两个样本的性质不同所导致的；而且揭示了把伽玛射线暴分为长暴和短暴这两种类型的合理性，也暗示着长暴和短暴性质的差异，支持了长暴和短暴具有不同起源的观点。本研究所用伽玛射线暴样本较之已有研究的样本量扩充了3倍多，因此得到的统计结果更为可靠。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：伽玛射线暴；能谱硬度；持续时间；相关性Keywords: gamma-ray bursts; hardness ratio; duration; correlation中图分类号：p14天体物理学 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在距今约50 年前，伽玛射线暴（Gamma-Ray Bursts,GRBs）被Vela卫星（Vela SatelliteNetwork）首次探测到[1]。伽玛射线暴的持续时间短至千分之一秒，长则持续数小时，在短时间内释放出巨大能量，是目前所发现的宇宙中最剧烈的爆发形式[2]。经历半个世纪的研究，人们对伽玛射线暴的本质仍然不很清楚，但人们还在继续努力探索[3.4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { T } _ { 9 0 }$ 是伽玛射线暴重要的参数之一，它是伽玛射线光子流量占总流量的 $5 \\%$ 到 $9 5 \\%$ 之间的持续时间。20世纪90年代，根据大样本的伽玛射线暴数据，人们发现 $\\mathrm { T } _ { 9 0 }$ 的分布呈双峰结构，并据此把伽玛射线暴分为长暴 $\\mathrm { \\Delta ( l o n g G R B s , T _ { 9 0 } > 2 s ) }$ ）和短暴（shortGRBs $\\mathrm { T } _ { 9 0 } { < } 2 \\mathrm { s }$ ）两种类型，它们的分界线在2s左右的位置，前者的峰值在30秒左右，后者的峰值在0.3s左右的位置[5-9]。通常认为长暴和短暴具有不同起源，长暴起源于大质量恒星（massive star）的塌缩[10-14]，而短暴起源于双致密星（compact star）的并合[15.,6]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "探讨伽玛射线暴各个物理参数之间的相关性是人们研究伽玛射线暴的重要手段。1999年,Fishman 等人利用 BATSE（Burst and Transient Source Experiment)观察到的大量脉冲，证明伽玛射线暴的能谱硬度（hardness ratio,HR）与持续时间（duration）存在负相关关系。但Fishman等人没有排除该相关性是否由于长暴与短暴两个样本的本身的差别而导致[17];换言之，没有验证分别对于长暴和短暴，该相关性是否仍然存在。为了验证这个假设，2000年，Qin等人[18]把筛选自4B 星表（the Fourth BATSEburst catalog[9]）的1179个伽马射线暴根据 $T _ { 9 0 }$ 是否大于2s 分为长暴和短暴两个子样本，然后分别分析这两个子样本的能谱硬度与持续时间的相关性，结果显示分别对于长暴子样本和短暴子样本，能谱硬度与持续时间均不存在相关性 $( r _ { l o n g } = 0 . 0 0 2 , N _ { l o n g } = 3 0 4 ; r _ { s h o r t } = - 0 . 0 5 0 , N _ { s h o r t } = 8 7 5 ^ { \\circ }$ ）；而总样本的能谱硬度与持续时间存在明显的相关性 $( r _ { t o t a l } = - 0 . 3 9 1 , N _ { t o t a l } = 1 1 7 9 )$ 。由此证明伽玛射线暴的能谱硬度与持续时间之间的负相关关系是由长暴与短暴这两类伽玛射线暴的区别导致。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近 20 年来，伽玛射线暴的样本体量不断扩充，本文利用Wang 等人[19整理的最新伽玛射线暴星表数据，再次验证长暴和短暴的能谱硬度与持续时间是否存在相关性。该研究结果可以为伽玛射线暴的能谱硬度与持续时间之间是否存在相关性提供更加可靠的统计结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1样本来源与筛选",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用的伽玛射线暴数据来自Wang 等人[19根据以往的文献所整理出来的包含 6289个伽玛射线暴的样本（从GRB910421到GRB160509A）。该样本中的伽玛射线暴的观测时间从1991年8月21日到 2016年5月9日。样本中的数据大部分收集自Gamma-rayCoordinates Network(GCN)网站、已发表的文章（例如星表文章）和BATSE 官网'。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Wang 等人[19]所整理的样本包含了6289个伽玛射线暴的红移、光度距离、 $T _ { 9 0 }$ 等共46个参数。本研究需要的参数是伽玛射线暴的能谱硬度和持续时间。因此，我们对6289个伽玛射线暴的样本进行筛选，把持续时间或能谱硬度为空值的数据去掉，余下3589个伽玛射线暴组成本研究的总样本。这3589个伽玛射线暴大部分来自Swift、Fermi和CGRO（康普顿卫星，Compton Gamma Ray Observatory）卫星的观测结果。CGRO 即搭载 BATSE（BurstAnd Transient Source Experiment）探测器的卫星，其伽玛暴数据公布于BATSE 官网。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据持续时间 $T _ { 9 0 }$ 是否大于2秒，我们把总样本分为长暴子样本和短暴子样本，其中长暴子样本包含2913个伽玛射线暴，短暴子样本包含676个伽玛射线暴，短暴的样本数据相对较少，短暴与长暴样本数据之比约为1：4。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们对伽玛射线暴的能谱硬度和持续时间分别取对数值，其中能谱硬度为 $1 0 0 { - } 2 0 0 0 \\mathrm { k e V }$ 能段与 $2 0 { \\cdot } 1 0 0 \\mathrm { k e V }$ 能段的伽玛射线暴通量的比值，持续时间采用 $T _ { 9 0 }$ ，最后，我们把3589个伽玛射线暴画在能谱硬度与持续时间的对数图上，如图1所示。图1中的横坐标为伽玛射线暴的持续时间 $T _ { 9 0 }$ （单位为秒),纵坐标为伽玛射线暴的能谱硬度；蓝色垂直虚线为 $T _ { 9 0 } = 2 s$ ，左边是短暴数据点，右边是长暴数据点。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f62ba3b9ad5e3d7905998e14d35fa670e8d0b1d18c6b80223485cdb1d8fc3a2f.jpg",
+        "img_caption": [
+            "图13589个伽玛射线暴的能谱硬度与持续时间的统计分布。"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 数据分布和相关性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3589个伽玛射线暴的能谱硬度与持续时间的数据分布图如图1所示，图1的蓝色垂直虚线（ $\\mathrm { T } _ { 9 0 } = 2 s \\$ ）的左边是676个短暴的数据点，右边是2913个长暴的数据点。图2是两个子样本的能谱硬度与持续时间的数据分布图，其中左边是676个短暴的数据点，右边是2913个长暴的数据点。从 $l o g ( H R )$ 的值来看，短暴的能谱硬度的中值约为1.03，平均值为1.01；长暴的能谱硬度的中值约为0.43，平均值为0.44，说明短暴能谱的平均硬度比长暴高。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a426dca414c806cf8908bc52dbadc872f7b83b35864a93b8fe3eee35e48ba79.jpg",
+        "img_caption": [
+            "Fig.1The statistical distribution of the duration and hardness ratio of the 3,589 gamma-ray bursts. ",
+            "图2两个子样本伽玛射线暴的能谱硬度与持续时间的统计分布。",
+            "Fig.2The statistical distribution of the duration and hardness ratio of gamma-ray bursts in two sub-samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "能谱硬度和持续时间的相关性分析结果显示，3589 个伽玛射线暴总样本的 $r _ { t o t a l } =$ $- 0 . 2 8 4 , p _ { t o t a l } < 0 . 0 0 1$ ，676个短暴子样本的 $r _ { s h o r t } = - 0 . 0 7 3 , p _ { s h o r t } = 0 . 0 5 8$ ，2913个长暴子样本 ${ r _ { l o n g } } = - 0 . 0 1 6 , { p _ { l o n g } } = 0 . 3 8 0 { . }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过相关性分析，总样本的能谱硬度和持续时间存在相关性 $( \\mathbf { r } _ { \\mathrm { t o t a l } } = - 0 . 2 8 4 , \\mathbf { p } { < } 0 . 0 0 1 )$ ，对于长暴子样本和短暴子样本，能谱硬度和持续时间并不存在相关性$( p _ { l o n g } = 0 . 3 8 0$ ， $p _ { s h o r t } = 0 . 0 5 8$ ）。由此推论总样本的能谱硬度和持续时间存在相关性是由于长暴与短暴这两个样本的性质不同所导致的。我们这个研究结果与Qin等人[18的结论一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在本文的总样本中，短暴的能谱硬度的中值约为1.03，平均值为1.01；长暴的能谱硬度的中值约为0.43，平均值为0.44（以上4个值均为logHR值）。短暴的能谱平均硬度比长暴的大，相当于前者高能光子与低能光子的比值更大。造成短暴的能谱比长暴的能谱偏硬的原因是什么呢？目前还没有定论。通常认为长暴起源于大质量恒星(massive star)的塌缩[10-14],而短暴起源于双致密星（compact star）的并合[15.16]。由此可见，起源于致密双星并合的伽玛射线暴能谱比起源于大质量恒星的坍缩的伽玛射线暴更硬。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从伽玛射线暴能谱硬度与持续时间的数据分布图，以及短暴子样本和长暴子样的能谱硬度和持续时间不存在显著的相关性，揭示了伽玛射线暴存在长暴和短暴这两种类型，证明了这种分类方法的合理性，也暗示着长暴和短暴性质的差异，支持了这两种伽玛射线暴具有不同起源的观点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Qin 等人[18]的研究所采用的总样本只包含1179个伽玛射线暴,其中304个短暴子样本，875 个长暴子样本。本文采用的伽玛射线暴总样本为3589个，短暴子样本为676个，长暴子样本为2913个，总样本和长暴的样本量较之Qin等人[18的样本提升了3倍多，因此本文得到的统计结果更为可靠。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] Klebesadel R W, Strong IB,Olson R A.The Astrophysical Journal, Observations of Gamma-Ray Bursts of Cosmic Origin[J]. Astrophysical Journal, 1973,182: L85   \n[2] Kumar P, Zhang B. Phys. Rep. The physics of gamma-ray bursts & relativistic jets[J]. Physics,2014, 561:1-109.   \n[3]常学钊,彭朝阳,王道周,陈家明.基于GRB051117A的能谱延迟及其耀发特性的研究[J/O L].天文研究与技术，2022,1-12[2022-03-31].DOI:10.14005/j.cnki.issn1672-7673.20210 316.001. CHANG X Z,PENG Z Y, WANG D Z, CHEN J M. Study on spectral lag and flare characters based on GRB051117A[J/OL]. Astronomical Research & Technol0gy， 2022，1-12[2022-03-31].DO1:10.14005/j.cnki.issn1672-7673.20210316.00 1.   \n[4]王道周,彭朝阳,常学钊,陈家明,王晨,罗双玲.Fermi伽玛暴时间分辨谱拐折幂率拟合的 模型限制[J].天文研究与技术,2021,18(01):43-51.WANGD,PENG ZY,CHANG X Z, et al. Model Limitation of Break Power-Law Fiting of the Fermi GRB Time-Resolved Spectra [J]. Astronomical Research & Technology,2021,18(01):43-51.   \n[5] Dezalay JP, Barat C, Talon R, et al. Short cosmic events: A subset of classical GRBs?[C], American Institute of Physics Conference Series,1992,265:304-309.   \n[6] Kouveliotou C，Meegan C A，Fishman G J,et al. Identification of two classes of gamma-ray bursts[J]. Astrophysical Journal, 1993,413(2): L101   \n[7] Fishman G J,Meegan C A,Wilson R B,et al. The First BATSE Gammma-Ray Burst Catalong[J]. Astrophysical Journal Supplement,1994,92: 229.   \n[8] Meegan C A,Pendleton G N, Briggs M S,et al. The Third BATSE Gamma-Ray Burst Catalog[J].Astrophysical Journal, Suppl. Ser,1996,106: 65.   \n[9] Paciesas W S, Meegan C A,Pendleton G N, et al. The Fourth BATSE Gamma-Ray Burst Catalog (Revised)[J].Astrophysical Journal, Suppl. Ser,1999,122(2): 465-495.   \n[10] Galama T J, Vreeswijk P M, van Paradijs J. Discovery of the peculiar supernova 1998bw in the error box of GRB980425[J]. Nature,1998,395: 670-672.   \n[11] Stanek K Z,Matheson T,Garnavich P M,et al. Spectroscopic Discovery of the Supernova 2003dh Associated with GRB 030329[J]. Astrophysical Journal, 2003, 591(1): L17-L20   \n[12] Woosley S E, Bloom J S. The Supernova Gamma-Ray Burst Connection[J]. Annual Rev. Astron. Astrophys,2006, 44(1): 507-556.   \n[13] Hjorth J,Malesani D, Jakobsson P,et al.The optically unbiased GRB host (TOUGH) survey. I. Survey design and catalogs[J]. The Astrophysical Journal, 2012,756(2): 187   \n[14] Xu D,de Ugarte Postigo A,Leloudas G, et al. Discovery of the broad-lined Type Ic SN 2013cq associated with the very energetic GRB 130427A[J].The Astrophysical Journal, 2013, 776(2): 98.   \n[15] Zhang B, Zhang B B,Virgili FJ,et al.Discerning the Physical Origins of Cosmological Gamma-ray Bursts Based on Multiple Observational Criteria: The Cases of $z = 6 . 7$ GRB 080913, $z = 8 . 2$ GRB O9O423,and Some Short/Hard GRBs[J].The Astrophysical Journal, 2009, 703(2): 1696-1724   \n[16] Nakar E. Short-Hard Gamma-Ray Bursts[J]. Physics Reports,2007,442(1-6): 166-236   \n[17] Fishman G J. Observed properties of gamma-ray bursts[J]. A&AS,1999,138: 395-398   \n[18] Qin Y P, Xie G Z, Xue S J, et al. The Hardness-Duration Correlation in the Two Classes of Gamma-Ray Bursts[J].Publications of the Astronomical Society of Japan,2000,52: 759.   \n[19] Wang F, Zou Y C, Liu F,et al.A Comprehensive Statistical Study of Gamma-Ray Bursts[J].The Astrophysical Journal, 2020, 893(1): 77 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Test of the Hardiness-Duration Correlation in the Two Classes of Gamma-Ray Bursts ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pan Caijuan, Lin Ying ru, Lu Weijian， Yang Jie (Baise University,Baise 5330oO,China) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This paper uses a total sample composed of 3589 gamma-ray bursts to study the correlation between their duration and the hardness ratio.First, according to whether the duration （204号 $( T _ { 9 0 } )$ is greater than 2s,we divide the total sample into two sub-samples of long bursts and short bursts. We study the correlation between hardness ratio and $T _ { 9 0 }$ of the total sample,the long burst and the short burst sub-samples,respectively. The results are: for the long burst and short burst sub-samples,there is no correlation between the hardness ratio and the $T _ { 9 0 }$ ；therefore，the correlation between the hardness ratio and the $T _ { 9 0 }$ of the total sample is caused by the differences between the two sub-samples.The results of this paper reveal the rationality of classifying GRBs into two types: long bursts and short bursts,and also imply the diferences in the properties of long bursts and short bursts,supporting the view that long bursts and short bursts have different origins. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Keywords: gamma-ray bursts; hardness ratio; duration; correlation ",
+        "page_idx": 5
+    }
+]

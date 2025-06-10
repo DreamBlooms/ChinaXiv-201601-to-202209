@@ -1,0 +1,70 @@
+# Resonance assignments for the substrate binding domain of Hsp70 chaperone Ssa1 from Saccharomyces cerevisiae
+
+Wanhui Hu $\cdot \cdot$ Huiwen Wu $\cdot \cdot$ Hong Zhang $\cdot \cdot$ Weibin Gong $\cdot \cdot$ Sarah Perrett
+
+Received: 22 December 2014/Accepted: 9 February 2015/Published online:15 February 2015   
+$\circledcirc$ Springer Science+Business Media Dordrecht 2015
+
+AbstractHsp7O chaperone proteins play crucial roles in the cell.Extensive structural and functional studies have been performed for bacterial and mammalianHsp7Os.Ssal fromSaccharomyces cerevisiae is a member of the $\mathrm { H s p } 7 0$ family.In vivo and biochemical studies on Ssal have revealed that it regulates prion propagation and the cell cycle. However, no structural data has been obtained for Ssal up to now. Here we report the almost complete $( 9 6 ~ \% )$ ） $^ 1 \mathrm { H }$ 13C,15N backbone and side chain NMR assgnment of the $1 8 . 8 \mathrm { \ k D a }$ Ssal substrate binding domain.The construct includes residues 382-554,which corresponds to the entire substrate binding domain and two following $\textsf { \textsf { Q } }$ -helicesin homologous structures.The secondary structure predicted from the assigned chemical shifts is consistent with that of homologous Hsp7O substrate binding domains.
+
+KeywordsSsa1 $\mathbf { \nabla } \cdot \mathbf { \varepsilon }$ Saccharomyces $\mathbf { \nabla } \cdot \mathbf { \varepsilon }$ Substrate binding domain $\mathbf { \nabla } \cdot \mathbf { \varepsilon }$ NMR assignments $\mathbf { \nabla } \cdot \mathbf { \varepsilon }$ Secondary structure
+
+# Biological context
+
+Hsp7O constitutes a highly conserved family of molecular chaperones,existing ubiquitously in all organisms and cellular compartments (Zuiderweg et al. 2O13).Hsp70 is considered a core mediator of protein homeostasis,because of its various roles in processes such as protein folding, protein degradation,translation and translocation (Zuiderweg et al. 2013).
+
+The Hsp7O family shares a highly conserved architecture,consisting of an N-terminal nucleotide binding domain(NBD,alsotermedtheATPasedomain),asubstrate binding domain(SBD) containinga hydrophobic substratebindingpocket,anda C-terminal lid domain(CTD),which caps the hydrophobic pocket and regulates substrate binding (Zuiderweg et al. 2013). Allosteric communication between the NBD and the SBD/CTD has been intensively studied,as recentlyreviewed:N-terminal ATPhydrolysis induces a conformational change in the NBD,which then induces a conformational change in the SBD,enhancing its substrate binding ability,while binding of substrate to the SBD also stimulates the ATPase activity of the NBD (Zuiderweg et al. 2013).
+
+The Ssa subfamily of Hsp7O chaperones comprises four members(Ssal-4） and is essential for cell viability (Wernerwashburne et al.1987). Ssal is involved in yeast prion propagation，and its overexpression,deletion and mutation often affect stability of yeast prions (Liebman and Chernoff 2012).The mutation $\mathrm { L } 4 8 3 \mathrm { W }$ in the SBD of Ssal was found to impair $[ P S I ^ { + } ]$ propagation and weaken the phenotype caused by $[ P S I ^ { + } ]$ (Jung et al. 200O). Due to lack of an available structure for Ssal, the DnaK SBD structure Was used to perform steered molecular dynamics on mutants of Ssal that affect prion propagation in vivo (Xu et al. 2013a);and DnaK and bovine Hsc7O structures were used to obtain a model structure of full-length Ssal in order to carry out a mutagenesis study of the structural basis for inhibition of amyloid formation of a yeast prion protein in vitro (Xu et al. 2O13b). Ssal can interact with yeast prion proteins directly (Shorter and Lindquist 2OO8;Xu et al. 2013b).It was observed that the SBD of Ssal alone is sufficient to inhibit Ure2 fibril formation,but the presence of the CTD enhances this inhibition (Xu etal.2O13b).Ssal also cooperates with other chaperones including Hsp104,
+
+Ydj1,Sis1, Fes1,and Stil to modulate prion propagation (Shorter and Lindquist 2OO8). Other studies show that posttranslational modification (PTM) of Ssal,namely phosphorylation at T36 in the NBD,controls G1 cyclin abundance and cell-cycle progression (Truman et al. 2O12).A number of otherPTM sites have been identified in the NBD，SBD and CTD of Ssa1(Beltrao et al.2012;Henriksen et al.2O12).Structural studies are necessary in order to understand the possible regulation mechanisms of different types of PTM.
+
+![](images/7aecb997a4c7dd7e438ddf12cca9172c11b5f46c8503c06bfe67efa9874d52b3.jpg)  
+Fig. 1 2D $^ 1 \mathrm { H - } ^ { 1 5 } \mathrm { N }$ HSQC spectrum of Ssal SBD at $2 9 8 \mathrm { ~ K ~ }$ Assign- crosses.There are some unassigned weak peaks in the HSQC ments are indicated by the one-letter amino acid code and the spectrum of the Ssal SBD,which are possibly due to slight local sequence number. Side chain NH signals from N496 and N537 are conformational heterogeneity under the plot contour level and their positions are indicated by
+
+Although many functional studies have been performed onyeast Ssal, there is onlylimited structural dataavailable for the yeast Ssa family,as most structural studies have focused on bacterial Hsp7O (DnaK） and mammalian Hsp7O. Thus,structural investigation of Ssa1 will provide information that is important to understand related functional and mechanistic studies.Here,we report the complete $^ 1 \mathrm { H }$ ， $^ { 1 3 } \mathrm { C }$ and $^ { 1 5 } \mathrm { N }$ chemical shift assignments of the truncated SBD domain of Ssa1 from Saccharomyces cerevisiae，which includes residue 382-554 of the full length protein.This serves as a starting point for structure determination and continued functional studies of the Ssal SBD domain.
+
+# Methods and experiments
+
+Protein expression and purification
+
+The truncation mutant of Ssa1 SBD (corresponding to amino acid residues 382-554 of the full length protein) was cloned into a modified pET28a plasmid containing an N-terminal $6 \times$ His tag and a SUMO tag (Zheng et al. 2012). Theplasmid wasused to transform Escherichia coli BL21- CodonPlus (DE3)-RIL cells.After induction by IPTG, $^ { 1 5 } \mathrm { N }$ and $^ { 1 5 } \mathrm { N / ^ { 1 3 } C }$ labelled recombinant proteins were expressed in the transformed cells grown in $^ { 1 5 } \mathrm { N - N H _ { 4 } C l }$ and $^ { 1 3 } \mathrm { C } .$ glucose enriched M9 minimal medium.
+
+The expressed proteins were first purified by Ni affinity column (Chelating Sepharose Fast Flow;GE Healthcare), followed by SUMO protease Ulp1 treatment ( $^ { 2 \mathrm { ~ h ~ } }$ at $4 \ ^ { \circ } \mathrm { C }$ ， to cleave the N-terminal $6 \times \mathrm { H i s }$ tag and SUMO tag.The protease cleavage leaves an extra serine as the N-terminal residue of the protein of interest.An additional Ni affinity chromatography step was applied to remove uncleaved protein，the digested N-terminal SUMO tag and Ulpl protease.The proteins were further purified by gel filtration chromatography using a SuperdexTM 75 column (GE Healthcare).
+
+# NMR spectroscopy
+
+NMR samples consisted of $1 ~ \mathrm { m M }$ protein in $5 0 ~ \mathrm { m M }$ $\mathrm { N a H _ { 2 } P O _ { 4 } \mathrm { - N a _ { 2 } H P O _ { 4 } } }$ ，50 mM NaCl, $1 \ \mathrm { m M }$ DTT, $1 ~ \mathrm { m M }$ EDTA and $10 \%$ (v/v) ${ \bf D } _ { 2 } \mathrm { O }$ at $\mathrm { p H } ~ 7 . 0$ All NMR eXperiments were performed at $2 9 8 \mathrm { ~ K ~ }$ on a Varian INOVA $6 0 0 ~ \mathrm { { M H z } }$ spectrometer equipped with a triple resonance cryoprobe. $^ 1 \mathrm { H - } ^ { 1 5 } \mathrm { N }$ and ${ } ^ { 1 } \mathrm { H - } ^ { 1 3 } \mathrm { C }$ HSQC，HNCO,
+
+HN(CA)CO, HNCACB and $\mathbf { C B C A ( C O ) N H }$ spectra were recorded for backbone assignment. The side chain assignments were based on $\mathbf { C } ( \mathbf { C C O } ) \mathbf { N H }$ HBHA(CO)NH,HCCHTOCSY，CCH-TOCSY, $^ 1 \mathrm { H - } ^ { 1 5 } \mathrm { N }$ and ${ } ^ { 1 } \mathrm { H - } ^ { 1 3 } \mathrm { C }$ NOESYHSQC experiments. All spectra were processed with NMRPipe (Delaglio et al. 1995） and analyzed with NMRViewJ (Johnson and Blevins 1994).
+
+# Assignment and data deposition
+
+The Ssa1 SBD construct (residues 382-554) contains 174 amino acids,including the N-terminal serine left behind by protease cleavage. The $^ 1 \mathrm { H - } ^ { 1 5 } \mathrm { N }$ HSQC spectrum of the Ssal SBD and the assignment of the amide proton signals are shown in Fig.1.All non-proline backbone amide protons and nitrogen signals of the Ssa1 SBD could be assigned,except for the signals of the N-terminal serine and Ser582-Lys584,Leu507 and Leu540.Assignment is missing for all atoms of Ser582-Ser583,while assignments were obtained for $\mathrm { H } \alpha$ ， $\mathbf { \boldsymbol { C } } \mathbf { \boldsymbol { \alpha } }$ and the side chains of Lys584, Leu5O7 and Leu54O.The assignment of the backbone resonances of $\mathrm { H } ^ { \mathrm { N } }$ ,N, $C ^ { \alpha }$ and $C ^ { \beta }$ was completed to $98 \%$ Assignment of aliphatic and aromatic side chains was achieved to $9 5 . 7 \ \%$ (side chain atoms of lysine residues, OH, SH, side chain $^ { 1 3 } \mathrm { C } ^ { \prime }$ ， $^ { 1 3 } { \mathrm { C } } ^ { \xi }$ ， and quaternary $^ { 1 3 } \mathrm { C }$ were excluded). There are some unassigned weak peaks in the $^ 1 \mathrm { H - } ^ { 1 5 } \mathrm { N }$ HSQC spectrum of the Ssa1 SBD，which are possibly due to slight local conformational heterogeneity.
+
+The secondary structure of the Ssa1 SBD was predicted from the assigned chemical shifts using the software $\mathrm { T A L O S + }$ (Shen et al.2OO9).The results indicate that the
+
+![](images/ad3fc524bfe71e9b0d1be9e70fbc6a5ba498721cc0a7563fd5fd69c2e195eafb.jpg)  
+Fig.2 The secondary structure of the Ssa1 SBD predicted by the software $\mathrm { T A L O S + }$ (Shen et al.2009).The predicted $\textsf { \textsf { a } }$ -helixand $\beta \cdot$ sheet probabilities of each residue are plotted in black and red, respectively.The secondary structure elements,indicated on the top of the figure,were obtained with the criterion that the probability ${ > } 0 . 5$ for three or more continuous residues
+
+Ssa1 SBD contains one $\textsf { \textsf { Q } }$ -helixandseven $\beta$ -strands in the order $\beta 1 - \beta 2 - \beta 3 - \beta 4 - \beta 5 - \beta 6 - \beta 7 - \beta 8 - \alpha 1$ (Fig. 2). The pre dicted secondary structure is consistent with the human homologous structure (PDB ID:1CKR) (Morshauser et al. 1999). The structure determination of the Ssa1 SBD based on the reported chemical shift assignments is underway. All assigned chemical shifts were deposited in the BioMagResBank of the University of Wisconsin-Madison under the accession number 25385.
+
+AcknowledgmentsWe thank Dr.Xuehui Liu and Miss Shanshan Zang(Core Facility for Protein Research,Institute of Biophysics) for helpwith NMR experiments.This work was support by the 973Program [2012CB911000，2013CB910700] and the NSFC [31200578, 31270794].
+
+# References
+
+Beltrao P,Albanese V,Kenner LR,Swaney DL,Burlingame A Villen J,Lim WA,Fraser JS,Frydman J,Krogan NJ (2012) Systematic functional prioritization of protein posttranslational modifications. Cell 150(2):413-425   
+DelaglioF,GrzesiekS,Vuister GW,ZhuG,PfeiferJ,BaxA(1995) NMRPipe:a multidimensional spectral processing system based on UNIX pipes.JBiomol NMR 6(3):277-293   
+Henriksen P,WagnerSA,Weinert BT,Sharma S,BacinskajaG, Rehman M,Juffer AH,Walther TC,Lisby M,Choudhary C (2012) Proteome-wide analysis of lysine acetylation suggests its broad regulatory scope in Saccharomyces cerevisiae.Mol Cell Proteomics 11(11):1510-1522   
+Johnson BA,BlevinsRA(1994) NMR View: a computer program for the visualization and analysis of NMR data.JBiomol NMR 4(5):603-614   
+Jung G,Jones G，Wegrzyn RD，Masison DC(200O）A role for cytosolic hsp70 in yeast $\mathrm { [ P S I ( + ) ] }$ prion propagation and $\mathrm { [ P S I ( + ) ] }$ as a cellular stress.Genetics 156(2):559-570   
+Liebman SW，Chernoff YO (2012） Prions in yeast. Genetics 191(4):1041-1072   
+MorshauserRC,HuW,WangH,PangY,Flynn GC,Zuiderweg ER (1999）High-resolution solution structure of the $1 8 ~ \mathrm { \ k D a }$ substrate-binding domain of the mammalian chaperone protein Hsc70.JMol Biol 289(5):1387-1403   
+Shen Y,Delaglio F,Cornilescu G,Bax A(2009) TALOS $^ +$ : a hybrid method for predicting protein backbone torsion angles from NMR chemical shifts.JBiomol NMR 44(4):213-223   
+Shorter J,Lindquist S(2O08)Hspl04,Hsp70 and Hsp40 interplay regulates formation,growth and elimination of Sup35 prions. EMBO J27(20):2712-2724   
+Truman AW,Kristjansdottir K,WolfgeherD,Hasin N,Polier S, Zhang H,Perrett S,Prodromou C,Jones GW,Kron SJ(2012) CDK-dependent Hsp70 Phosphorylation controls G1 cyclin abundance and cell-cycle progression. Cell 151(6):1308-1318   
+Wernerwashburne M,Stone DE,Craig EA(1987) Complex interactions among members of an essential subfamily of Hsp7O genes inSaccharomyces-Cerevisiae.Mol Cell Biol 7(7):2568-2577   
+Xu L,Hasin N, Shen M,He J,Xue Y,Zhou X,Perrett S, Song Y, Jones GW(2O13a) Using steered molecular dynamics to predict and assess Hsp7O substrate-binding domain mutants that alter prion propagation.PLoS Comput Biol 9(1):el002896   
+Xu LQ,Wu S,Buell AK,Cohen SI,Chen LJ,Hu WH,Cusack SA, ItzhakiLS,Zhang H,Knowles TP,Dobson CM,Welland ME, Jones GW，Perrett S(2O13b）Influence of specific HSP70 domains on fibril formation of the yeast prion protein Ure2. Philos Trans R Soc Lond B Biol Sci 368(1617):20110410   
+Zheng S,Wang J, Feng Y,Wang J, Ye K (2O12) Solution structure of MSL2 CXC domain reveals an unusual Zn3Cys9 cluster and similarity to pre-SET domains of histone lysine methyltransferases.PLoS One 7(9):e45437   
+Zuiderweg ER,Bertelsen EB,Rousaki A,MayerMP,Gestwicki JE, Ahmad A (2013) Allostery in the Hsp70 chaperone proteins.Top Curr Chem 328:99-153

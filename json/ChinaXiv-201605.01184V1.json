@@ -1,0 +1,376 @@
+[
+    {
+        "type": "text",
+        "text": "Colocalization of insulin and glucagon in insulinoma cells and developing pancreatic endocrine cells ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zai Wang a,1, Jia You a,1, Shiqing Xu a, Zhan Hua b,Wenjian Zhanga, Tingting Deng a, Ni Fang , Qing Fang a, Honglin Liua, Liang Peng a, Peigang Wangd, Jinning Loua \\* aInstitute of Clinical Medical Sciences,China-Japan Friendship Hospital, Beijing 10oo29,PR China b Department of General Surgery,China-Japan Friendship Hospital,Beijing iooo29,PR Chind ‘WangjingHospital,China Academy of Chinese Medical Sciences,Beijing10102,PRChina d Institute of Biophysics,Chinese Academy of Sciences,Beijing 10olo1,PR Chind ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history: Received 9 April 2015 Available online 23 April 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nInsulin   \nGlucagon   \nINS-1   \nColocalization   \nCosecretion ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A significant portion of human and rat insulinomas coexpress multiple hormones.This character termed as multihormonality is also observed in some early pancreatic endocrine cels which coexpress insulin and glucagon,suggesting an incomplete differentiation status of both cells.Here we demonstrate that insulinoma cels INS-1 and INS-1-derived single cellclone INS-1-15 coexpressed insulin and glucagon in a portion of cells.These two hormones highly colocalized in the intracellular vesicles within acell Due to the existence of both $\\mathsf { P C } 1 / 3$ and PC2 in INS-1-derived cells，proglucagon could be processed into glucagon, GLP-1 and GLP-2.These glucagon-family peptides and insulin were secreted simultaneously corresponding to the elevating glucose concentrations.The coexpression and partial colocalization of insulin and glucagon was also observed in rat fetal pancreatic endocrine cels,but the colocalization rate was generally lower and more diverse,suggesting that in the developing pancreatic endocrine cells, insulin and glucagon may be stored in nonidentical pools of secreting vesicles and might be secreted discordantly upon stimulus. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2015 Elsevier Inc.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Insulinoma isa pancreas tumor derived from endocrine beta cells.Different from normal beta cells,it has been frequently observed that the human insulinomas as well as rat spontaneous insulinomas coexpress multiple hormones including insulin, glucagon, somatostatin and islet amyloid polypeptide (Iapp)[1-3]. In the widely used X-ray or virus induced beta cell lines such as RIN, HIT,MIN,INS-1 and TC cells,large amount of insulin and small amounts of glucagonand/or somatostatinare present[4]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INS-1 cells were derived from X-ray induced rat insulinoma cells [5].Because of their capacity on glucose-stimulated insulin secretion (GSIS), these cells have been employed as a beta cell model in the aspect of GSIS,as well as in beta cell proliferation,apoptosis and other functional studies.However, glucagon expression in parental [6]or subcloned INS-1 cells with genetic modifications [7,8] has been discovered in several subsequent studies,making it more restrictive to use INS-1 cells as the substitution of primary beta cells.Instead, the potential coexpression of insulin and glucagon in a subpopulation of INS-1 cells confirms the nature of multihormonality of the insulinoma. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Interestingly,a small portion of early pancreatic endocrine cells also coexpress insulin and glucagon,which has been considered as animmature differentiation stage.Insulin and glucagon are both first expressed in E9.5 mouse embryos,and many cells coexpress these two hormones with some vesicles containing both hormones [9].In human pancreas development, the earliest multihormonal cells have been observed in 8-week fetal pancreas when the first wave of endocrine differentiation initiates [1O]. During 11-13 weeks of fetal development,this population of cells reaches its peak around more than $20 \\%$ ；and then the co-expressing cells diminish upon development.Very few coexpressing cells can be observed in theadult pancreas [11].Due to the difficulty in isolating these multihormonal cells,it is not known that these two hormones are secreted separately or theyare cosecreted upon stimulations.Here we compared the colocalization levels of insulin and glucagon in ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INS-1,MIN6 and rat fetal endocrine cells.Our results showed that insulin and glucagon highly colocalized in multihormonal insulinoma cells,while the hormone-coexpressing endocrine cells present in the pancreatic development showed a lower and more diversecolocalization level. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.INS-1 and MIN6 cell culture ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rat insulinoma INS-1 cells were cultured in RPMI 1640 (GIBCO) medium $\\mathrm { ' } 1 1 . 2 \\mathrm { ~ m M }$ glucose）supplemented with $10 \\%$ fetal calf serum, $5 0 ~ \\mu \\mathrm { M }$ 2-mercaptoethanol and $1 0 ^ { 5 } ~ \\mathrm { { U / L } }$ penicillin and $1 0 0 ~ \\mathrm { { m g / L } }$ streptomycin [12]. Subcloning of INS-1 cells was performed by limited dilution method.Single colonies were confirmed two weeks later under microscope.Mouse MIN6 insulinoma cells [13] were cultured in DMEM(high glucose) supplemented with $1 5 \\%$ fetal calf serum, $5 0 ~ { \\mu \\mathrm { M } }$ 2-mercaptoethanol and $1 0 ^ { 5 } ~ \\mathrm { U / L }$ penicillin and $1 0 0 ~ \\mathrm { { m g / L } }$ streptomycin. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Primary culture of rat fetal pancreatic cells ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Animal Ethics Committee of China-Japan Friendship Hospital approved all animal experiments,which were performed according to the Principles of Laboratory Animal Care.The pancreas of E17 SD rat embryos were dissected under a stereomicroscope (Nikon).Five pancreata were collected and digested with collagenaseI(Sigma） for $1 \\ \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathsf C .$ The cells were cultured in M199 medium (Sigma) containing $1 0 \\%$ fetal calf serum, $1 0 ^ { 5 } \\mathrm { U / L }$ penicillin and $1 0 0 ~ \\mathrm { { m g / L } }$ streptomycin for overnight until fully attachment and spreading. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Immunofluorescence ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cells for immunofluorescence were cultured in 8-well chamber slides（Nunc） coated with $1 0 0 ~ \\mathrm { \\mu g / m l }$ poly-D-lysine (Sigma)， followed by $1 0 ~ \\mathrm { \\mu g / m l }$ laminin (Sigma).The cells were preincubated in medium containing $5 . 5 ~ \\mathrm { m M }$ glucose for $^ { 6 \\mathrm { ~ h ~ } }$ before fixed with $4 \\%$ PFA/PBS for $1 0 ~ \\mathrm { m i n }$ ,and then permeabilized with $0 . 2 \\%$ Triton X100/PBS for $1 0 ~ \\mathrm { { m i n } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The samples were incubated with primary antibodies (mouse anti-insulin, Sigma;rabbit anti-full length proglucagon, Santa Cruz; mouse anti-Nkx6.1,DSHB；mouse anti-PC1/3,Abcam） in $1 \\% \\ \\mathsf { B S A } / \\$ PBS overnight at $4 \\ ^ { \\circ } \\mathsf C ,$ rinsed with TBST,followed by secondary antibodies (Alex Fluor? 488 Donkey Anti-Rabbit IgG $\\left( \\mathsf { H } + \\mathsf { L } \\right)$ and Alex Fluor? 555 Donkey Anti-Mouse IgG $\\left( \\mathrm { H } + \\mathrm { L } \\right)$ ,Invitrogen） in $1 \\%$ BSA/PBS for $^ { 2 \\mathrm { ~ h ~ } }$ at room temperature.Samples were then stained forDAPI for1 min,rinsed with TBST,and then mounted with antifade mounting medium (Boster). Controls of immunofluorescence wereperformed by omission of the primaryantibody.Imageswere captured by fluorescence microscope Olympus IX71 or confocal microscope Olympus FV1000. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Microarrayanalysis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INS-1-3 and INS-1-15 in T25 flasks were used for microarray analysis performed by CapitalBio Corporation.Rat Genome 230 2.0 Array(Affymetrix) was used to detect the gene expression levels. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5.Real-timePCR ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Total RNA was extracted using RNAiso plus (TaKaRa) following the instruction. $1 \\mu \\ g$ of total RNA wasused for reverse transcription using Reverse Transcriptase M-MLV (RNaseH-） (TaKaRa).Realtime PCR was performed on an Applied Biosystems instrument (ABI 7500 system),using $\\mathsf { S Y B R } ^ { \\mathbb { B } }$ Premix Ex TaqTM(TaKaRa) for 40 cycles.Primers used are as listed in Supplementary Table 1.In control experiments,no cDNA template was added in the reaction system (data not shown). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.6.Hormone release assay by EIA ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INS-1-derived cells were seeded 24-well plates at a density of $5 \\times 1 0 ^ { 5 }$ cells/well. Cells were incubated with culture medium containing $5 . 5 ~ \\mathrm { m M }$ glucose overnight before hormone release assays. On the day of glucose-stimulated hormone release assay, the cells were pre-incubated with Krebs-Ringer buffer containing $5 . 5 ~ \\mathrm { m M }$ glucose at $3 7 ^ { \\circ } \\mathsf { C }$ for $3 0 \\mathrm { m i n }$ ,and then stimulated with KRBHbuffer (140 mM NaCl, $3 . 6 \\ \\mathrm { m M }$ KCl, $0 . 5 \\ \\mathrm { m M }$ （20 ${ \\sf N a H } _ { 2 } { \\sf P O } _ { 4 }$ ， $0 . 5 \\ \\mathrm { m M }$ （204 $\\mathrm { { \\bf M g } S O _ { 4 } }$ $1 . 5 \\mathrm { \\ m M \\ C a C l _ { 2 } } , 2 \\mathrm { \\ m M \\ N a H C O _ { 3 } } ,$ （20 $1 0 ~ \\mathrm { m M }$ HEPES $\\mathrm { \\langle p H ~ 7 . 4 ~ }$ ） $0 . 1 \\% \\ ( \\mathrm { w / v } )$ bovine serum albumin (fatty acid free)) containing 1,2.5,5.5 or $1 6 . 7 ~ \\mathrm { m M }$ glucose at $3 7 ^ { \\circ } \\mathsf C$ for $^ { 2 \\mathrm { ~ h ~ } }$ asindicated.The supernatants were collected,centrifuged and assayed for insulin,glucagon,GLP-1 total(GLP-1（7-36）and(9-36)）or GLP-2 contents by EIA kits (Millipore).KRBH buffer alone was used as a negative control.For each EIA kit,no significant cross-reactivity with other cytokine/ chemokine molecules or hormones was detected as indicated by the manufacturer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.7.Quantitative and statistical analysis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The percentage of insulin positive,glucagon positive and insulin & glucagon double positive cells in INS-1, INS-1-3,INS-1-15 and MIN6 cells was calculated by counting five immunofluorescence pictures taken under $1 0 0 \\ \\times$ or $4 0 0 \\times$ magnification. For Nkx6.1 expression in glucagon positive and negative populations in INS-1- 15 cells,Photoshop software was used to quantify the $\\mathsf { N k x } 6 . 1$ immunofluorescence intensity in the cell nuclei.4O cells were randomly selected in each group.To quantify the colocalization degree of insulin and glucagon,more than 2O coexpressing cells wererandomly selected.The single cell was gated,and the Pearson's correlation coefficient was calculated using the FV1O-ASW 2.0 Viewer software.Student's t-test was used to compare the statistical difference between each two groups. $P < 0 . 0 1 \\$ or $P < 0 . 0 5$ was considered significantas indicated in the figure legends. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Isolationof INS-1-derived singlecell cloneswithinsulin and glucagondifferentiallyexpressed ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INS-1 is an X-ray induced rat insulinoma cell line that may be genetically heterogenic [5]. By insulin and glucagon coimmunostaining,we observed four cell types existed in INS-1 cells:doublehormonepositive (about $9 . 1 7 \\%$ )；insulin- or glucagon-single positive;and double-hormone negative cells.By single cell cloning we achieved 46 INS-1-derived cell clones.Most of them expressed insulin and/or glucagon in a mosaic pattern like their parental INS-1 cells. Two clones,INS-1-3 and INS-1-15,were selectedas the representativesas insulin-single-positive clone and double-hormone positive clone for further studies,respectively. About $9 0 . 0 0 \\%$ INS-1-3 cells were positive for insulin staining,while little glucagon expression was observed.In contrast,about $1 8 . 8 0 \\%$ INS-1-15 cells coexpressed insulin and glucagon;and this coexpression percentage was significantly higher than that in INS-1 cells (Fig.1A and B).Asa comparison,we also examined the expression of insulin and glucagon in MIN6 cells,which is a mouse insulinoma cell linewithMenin deficiency[13].While about $9 4 . 2 8 \\%$ MIN6 cells were positive for insulin staining,onlyabout $0 . 1 8 \\%$ of the cells were positive for glucagon (Fig.1A and B). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/35745e43e47cfeb8bc669628fdfed64d494c1cc04ff3bfd052409b864d2e5bf2.jpg",
+        "img_caption": [
+            "green:anti-glucagon;blue:DAPI. Scale bar: $2 0 ~ { \\mu \\mathrm { m } }$ (B)Thepercentageofinsulinpositive,ucagonpositive,andinsulin&glucagonpositivecelsinIS-1,INS-1-3,IS--15nd Me positive and double positive groups. $^ { * } P < 0 . 0 5$ .(Forinterpretationofthereferences tocolour inthis figure legend,thereaderisreferredtothewebversionof thisarticle.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Wedid a preliminarymicroarrayanalysis to compare the gene expression of INS-1-3 and INS-1-15 cells.Besides glucagon,both of the clones coexpressed other hormones including beta cell hormone Iapp,and other hormones such as chromogranin A,intestinal trefoil factor(Tff3), gastrin and secretin (Fig.2A and B). Both of the clones expressed transcriptional factors specific for beta cells such asPdx-1,NeuroD1 and Nkx6.1[14,15],and for both beta and alpha cells such as Isl1,Hopx and Pax6,but not Pou3f4 or Arx specific for alpha cells [16,17] (Fig.2C and D),which identified their beta cell origin.The expression level of Nkx6.1 was significantly higher in INS-1-3 than INS-1-15 cells,as revealed by microarray analysis and further confirmed by real-time PCR (Fig.2C and D),which was suspected as a reason for the lower expression of glucagon in INS-1- 3 cells than INS-1-15 and INS-1 cells (Fig.2A and B),as Nkx6.1 has been discovered as an inhibitor of glucagon expression [18].To examine this hypothesis,we performed coimmunofluorescence of ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A Hormones B Hormones   \n1 INS1-15 用 15 Ins1 Ins2 Gcg Tff3 lapp ChgA Gast Sct Ins Gcg Tf3 lapp ChgA Gast Sct Transcription factors 1 Transcription factors E NKX6.1 GCG \\*\\* 000 INS1-135 15 2015 2000 0.01 T 10 1000 000 5 0 广 二 Pdx1NeuroD1 Nkx6.1 Isl1 Hopx Pax6 Arx Pou3f4 Pdx1NeuroD1 Nkx6.1 Isl1 Hopx Pax6 Arx Pou3f4 INS1-15 GCG+ GCG ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Nkx6.1 and glucagon on INS-1-15 cells (Fig.2E). Although the expression level of $\\mathsf { N k x } 6 . 1$ varied from cell to cell in both glucagon positive and negative populations, the overall immunofluorescnece intensity of Nkx6.1 was significantly higher in glucagon negative cells than in glucagon positive cells (Fig.2F),supporting our hypothesis that the lower Nkx6.1 expression level may be responsible for the stronger glucagon expression in INS-1-15 cells. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.Insulin and glucagon are colocalized in insulinoma cells and in ratfetal endocrine cells ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In normal pancreatic islets,beta cells secret insulin upon high concentration of glucose stimulation,whereas alpha cells secret glucagon upon low concentration of glucose stimulation. It is interesting to know that whether these two hormones are secreted simultaneously or separately within a coexpressing insulinoma cell ora developing endocrine cell.We examined the colocalization status of insulin and glucagon in INS-1-15,MIN6 and rat fetal pancreatic cells.Insulin and glucagon were highly colocalized in the double-homrone positive INS-1-15 and MIN6 cells,with the Pearson's correlation coefficient $\\mathbf { r } = 0 . 8 2 5 \\pm 0 . 0 6 4$ and $0 . 8 0 7 \\pm 0 . 0 8 6$ respectively. The distribution patterns of insulin- or glucagoncontaining vesicles were exactly the same,with the concentrated localization in the storage pool near the nuclei and in the presecreting vesicles at close proximity to the plasma membranes.In comparison,insulin and glucagon showed a more diverse colocalization level in the double-hormone positive cells from the rat fetal pancreas.To quantify the colocalization level,we did primary culture of the fetal pancreatic epithelial cells for fully spreading and proceeded to immunostaining.The colocalization rate was significantly lower in these developing endocrine cells than in insulinoma cells,and the variation was relatively bigger,with the Pearson's correlation coefficient $\\mathbf { r } = 0 . 6 4 1 \\pm 0 . 1 4 3$ (Fig. 3A and B). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.Insulin and glucagon-family peptides are cosecreted upon glucose stimulation in INS-1-15 cells ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In pancreatic beta cells,proprotein convertase $\\mathsf { P C } 1 / 3$ and PC2 work cooperatively to process proinsulin into mature insulin[19]. Proglucagon is mainly processed by PC2 to generate mature glucagon in pancreatic alpha cells [2o,21],while it can be cleaved into GLP-1 and GLP-2 by PC1/3 in L cells [22].In INS-1-derived cells, $\\mathsf { P C } 1 / 3$ and PC2 were coexpressed as examined by real-time PCR (Supplementary Fig1.A). Moreover, $\\mathsf { P C } 1 / 3$ and PC2 were coexpressed in every single cell as examined by coimmunofluorescence (Supplementary Fig1.B),which may result in the fully processing of both proinsulin and proglucagon to generate mature insulin and glucagon-family peptides including glucagon,GLP-1 and GLP-2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Due to the high colocalization level of insulin and glucagon in INS-1-15 cells,we hypothesized that insulin and glucagon-family peptides might share the same secretion pathway.We performed glucose-stimulated hormone secretion assay and examined the individual hormone release by EIA.As a result, the secretion of glucagon,GLP-1 and GLP-2all corresponded to the elevated glucose concentration in the same manner as insulin,with the secretion amount significantly higher upon $1 6 . 7 \\ \\mathrm { m M }$ glucose stimulation than $1 \\mathrm { m M }$ glucose stimulation both from INS-1 and INS-1-15 cells (Fig.4).In addition,INS-1-15 cells secreted a larger amount of glucagon-family peptides than INS-1 cells when compared at $1 6 . 7 ~ \\mathrm { m M }$ glucose stimulation; INS-1-3 and INS-1-15 exhibited a largeramount of insulin secretion than INS-1 cells when compared the at $1 6 . 7 \\mathrm { \\ m M }$ glucose stimulation (Fig.4).These data were consistent with the hormone expression levels in these cells as revealed byreal-time PCR(Fig. 2B). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Before the establishment of a functional human pancreatic $\\beta$ cell line [23],several mouse and rat insulinoma cell lines for a long term have been served as models to study the $\\beta$ cell biology， such as insulin secretion,cell proliferation and apoptosis. INS-1 cells were derived from X-ray induced rat insulinoma cells [5].These cells are heterogenic in nature,with insulin and glucagon expressed in a mosaic pattern,and a portion of cells coexpress both hormones [6,24].Here we isolated a double-hormone-positive cell clone INS1-15 and an insulin-single-positive cell clone INS-1-3 from parental INS-1 cells without any genetic modifications [7,8]. We compared their gene expressions by microarray analysis and Real-time PCR. Nkx6.1 expression was found to be significant higher in INS-1-3 cells than INS-1-15 cells.Nkx6.1 is a direct transcriptional activator for insulin expression whereas it suppresses glucagon expression [18,25]. Thus the differential expression of Nkx6.1 may count for the differential expression of glucagon in INS-1-3and INS-1-15 cells.The coimmunofluorescence of Nkx6.1 and glucagon on INS-1-15 cells showed that the immunofluorescnece intensity of Nkx6.1 was generally higher in glucagon negative cells than in glucagon positive cells,which supported our hypothesis;and was consistent with the previous publication[18].In addition,we found that another hormone Tff3 also showed a more than 1O-times higher expression level in INS-1-15 cells than INS-1-3 cells.Tff3 is expressed in mucosal epithelial cells.It has also been shown to be exclusively and abundantly expressed in the endocrine cells in the pancreas [26,27]. Thus the difference in glucagon and Tff3 expression in these two cell clones made them valuable tools to study the potential functions of these two hormones. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6c631a8cb3194d47c09742f03b978c8a5eb3779ee22bab2b9686a310f8dd178.jpg",
+        "img_caption": [
+            "i cuel rowheads) were indicated in INS-1-15 cels.Red: anti-insulin; green: anti-glucagon; blue: DAPI.Scale bar: $1 0 \\mu \\mathrm { m }$ (B) Colocalization level between insulin and glucagon,expressed as presented as mean $\\pm \\mathsf { S D }$ # $^ { * } P < 0 . 0 1$ (at17groupsoo)teetatiectrde the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although the coexpression of insulin and glucagon has been documented,the subcellular localization of these two hormones has not been well investigated.We found that insulin and glucagon were highly colocalized in the double-hormone positive INS-1-15 and MIN6 cells.Due to the relatively high level of glucagon expression in INS-1-15 cells,we utilized this clone to study the glucagon secretion.As INS-1 cells secret insulin upon glucose stimulation,we hypothesized that glucagon and its family peptides may be released in company with insulin from the same pool of secreting vesicles in this process.Our data showed that insulin and glucagon-family peptides including glucagon,GLP-1 and GLP-2 were secreted at basal level in the presence of low concentration of glucose,and their release was all stimulated by about two-fold as the glucose concentration raised from $1 \\ \\mathrm { m M }$ to $1 6 . 7 \\ \\mathrm { m M }$ In an earlier experiment,it has been reported thatwhile insulinrelease is stimulated corresponding to the raised glucose concentration, glucagon shows a stable release mode with glucose-independency [6].We considered that compared to parental INS-1 cells,our INS1-15 cells with higher expression level of glucagon may serve as a more sensitive model for glucagon release.Besides glucagon,our studyalso demonstrated the co-secretion of insulin and the other two glucagon-family peptides:GLP-1 and GLP-2.The consistent results confirmed our hypothesis that glucagon-family peptides may be released together with insulin from the same pool of secreting vesicles in response to glucose stimulation.As the expression amount of proglucagon was much lower than insulin, the cosecretion of glucagon-family peptides with insulin did not alter the hypoglycemia in mice resulted from INS-1 or INS-1-15 xenografted tumors ([28] and data not shown). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8711993357e13e6a7dc49f521b83b0fdd0c5bae2a1c67c9b1dd4a14323d037ac.jpg",
+        "img_caption": [
+            "g4 fromINS-1-3,INS-1-15or INS-1cels in the stimulating mediumcontaining diferent concentrationof glucose re analyzed by EIA kits.Data were derived from three independent experiments and are presented as mean $\\pm \\mathsf { S D }$ $^ { * } P < 0 . 0 5$ $^ { * * } P < 0 . 0 1$ (compared with $1 ~ \\mathrm { m M }$ glucose group); $\\# P < 0 . 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "During the early development of pancreas,a significant portion of endocrine cells coexpress insulin and glucagon [9,11]. To compare the hormone distribution pattern between insulinoma cells and the developing endocrine cells,we performed immunofluorescence on primarily cultured pancreatic epithelial cells from E17 rat embryos.The coexpressing cells were observed in the primarily cultured cells,but the colocalization rate was generally lower and more diverse than insulinoma cells,suggesting that in the developing pancreatic endocrine cells,insulin and glucagon maybe stored in nonidentical pools of secreting vesiclesand might be secreted discordantly upon stimulus. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interest ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "None. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the National Nature Science Foundation of China(No.81302334 to ZW,81370873 to WZ and 81200616 to LP),China-Japan Friendship Hospital Youth Science and Technology Excellence Project (2015-QNYC-B-O6 to ZW and 2014-QNYC-A-O5 to LP)and National Basic Research Program of China (2012CB966402 to JL).We thank Lin Pan for excellent technical assistance with immunohistochemistry,Chunli Jiang for confocal microscopy and Dr. Gang Niu for colocalization quantification assistance. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Appendix A. Supplementarydata ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data related to this article can be found at http:// dx.doi.0rg/10.1016/j.bbrc.2015.04.072. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Transparency document ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Transparency document related to this article can be found online at http://dx.doi.org/10.1016/j.bbrc.2015.04.072 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]L.I.Larsson，L.Grimelius,R. Hakanson,J.F.Rehfeld,F. Stadil,J.Holst, L. Angervall, F. Sundler, Mixed endocrine pancreatic tumors producing several peptide hormones, Am. J. Pathol. 79(1975)271-284.   \n[2]J.Philippe，A.C. Powers，S. Mojsov，D.J. Drucker，R. Comi,J.F. Habener, Expression of peptide hormone genes in human islet cell tumors, Diabetes 37 (1988) 1647-1651.   \n[3] P.G. Germann,M. Heinrichs,H. Puschner, J. Hellmann,M. Kohler,H. Ernst, RITA/Registry of industrial toxicology animal data: a comparative immunohistochemical study of 77 islet cell carcinomas in Sprague-Dawley and Wistar rats using antibodies against insulin, glucagon, somatostatin and gastrin, Exp. Toxicol. Pathol. 51(1999) 477-487.   \n[4] M.Skelin, M. Rupnik, A. Cencic, Pancreatic beta cell lines and their applications in diabetes mellitus research,ALTEX 27 (2010) 105-113.   \n[5]M. Asfari,D.Janjic,P.Meda, G.Li, P.A. Halban, C.B. Wollheim, Establishment of 2-mercaptoethanol-dependent differentiated insulin-secreting cell lines, Endocrinology 130 (1992） 167-178.   \n[6]L.C.Bollheimer，C.E.Wrede，F. Rockmann，I. Ottinger，J. Scholmerich, R.Buettner,Glucagon production of the rat insulinoma cell line INS-1-A quantitative comparison with primary rat pancreatic islets, Biochem. Biophys. Res. Commun.330(2005)327-332.   \n[7]H.E.Hohmeier，H. Mulder，G. Chen，R.Henkel-Rieger，M.Prentki, C.B.Newgard, Isolation of INS-1-derived cell lines with robust ATP-sensitive $\\mathsf { K } +$ channel-dependent and -independent glucose-stimulated insulin secretion,Diabetes 49 (2000) 424-430.   \n[8]H.Wang,P.Maechler,B. Ritz-Laser,K.A. Hagenfeldt,H. Ishihara, J. Philippe, C.B. Wollheim, Pdx1 level defines pancreatic gene expression pattern and cell lineage differentiation, J. Biol. Chem.276(2001) 25279-25286.   \n[9] G.Teitelman, S. Alpert, J.M.Polak,A. Martinez, D. Hanahan, Precursor cells of mouse endocrine pancreas coexpress insulin，glucagon and the neuronal proteins tyrosine hydroxylase and neuropeptide Y,but not pancreatic polypeptide,Development118(1993）1031-1039.   \n[10] M.Polak, L. Bouchareb-Banaei, R. Scharfmann,P. Czernichow, Early pattern of differentiation in the human pancreas, Diabetes 49 (20o0) 225-232.   \n[11]M.J. Riedel, A. Asadi, R.Wang, Z. Ao, G.L.Warnock,T.J. Kieffer,Immunohistochemical characterisation of cells co-producing insulin and glucagon in the developing human pancreas, Diabetologia 55 (2012) 372-381.   \n[12]L. Peng, X. Men, W. Zhang, H. Wang, S. Xu, Q. Fang, H. Liu, W. Yang, J. Lou, Involvement of dynamin-related protein 1 in free fatty acid-induced INS-1- derived cell apoptosis,PLoS One 7 (2012) e49258.   \n[13] J. Miyazaki, K. Araki,E. Yamato,H. Ikegami, T. Asano,Y. Shibasaki, Y. Oka, K.Yamamura, Establishment of a pancreatic beta cell line that retains glucoseinducible insulin secretion: special reference to expression of glucose transporter isoforms,Endocrinology 127(1990) 126-132.   \n[14]M. Sander,M.S. German, The beta cell transcription factors and development of the pancreas, J. Mol. Med.Berl. 75(1997) 327-340.   \n[15]T.van der Meulen,M.O. Huising,Role of transcription factors in the transdifferentiation of pancreatic islet cells，J. Mol. Endocrinol. 54 (2015) R103-r117.   \n[16] N.C. Bramswig, K.H. Kaestner, Transcriptional regulation of alpha-cell differentiation,Diabetes Obes.Metab.13(Suppl1) (2011) 13-20.   \n[17] C. Dorrell, J. Schug, C.F. Lin,P.S. Canaday, A.J. Fox, O. Smirnova,R. Bonnah, P.R. Streeter, C.J. Stoeckert Jr., K.H. Kaestner,M. Grompe, Transcriptomes of the major human pancreatic cell types, Diabetologia 54 (2011) 2832-2844.   \n[18] J.C. Schisler，P.B. Jensen，D.G.Taylor,T.C.Becker,F.K.Knop，S. Takekawa, M. German, G.C.Weir, D. Lu, R.G. Mirmira, C.B.Newgard, The Nkx6.1 homeodomain transcription factor suppresses glucagon expression and regulates glucose-stimulated insulin secretion in islet beta cells,Proc.Natl. Acad. Sci. U. S.A. 102 (2005) 7297-7302.   \n[19]D.F. Steiner,Y. Rouille, Q. Gong, S. Martin,R. Carroll, S.J. Chan,The role of prohormone convertases in insulin biosynthesis: evidence for inherited defects in their action in man and experimental animals, Diabetes Metab.22 (1996) 94-104.   \n[20] M. Neerman-Arbez, V. Ciruli, P.A. Halban, Levels of the conversion endoproteases PC1 (PC3) and PC2 distinguish between insulin-producing pancreatic islet beta cells and non-beta cells, Biochem. J. 300 (Pt 1) (1994) 57-61.   \n[21] S. Tanaka, S. Kurabuchi,H. Mochida,T. Kato,S. Takahashi,T. Watanabe, K.Nakayama, Immunocytochemical localization of prohormone convertases PC1/PC3 and PC2 in rat pancreatic islets，Arch. Histol. Cytol.59 (1996) 261-271.   \n[22]D.J. Drucker, Glucagon-like peptides,Diabetes 47 (1998)159-169.   \n[23]R. Scharfmann, S. Pechberty,Y. Hazhouz,M. von Bulow,E. Bricout-Neveu, M.Grenier-Godard，F. Guez，L. Rachdi，M. Lohmann，P. Czernichow, P. Ravassard, Development of a conditionally immortalized human pancreatic beta cell line, J. Clin. Invest. 124 (2014) 2087-2098.   \n[24] V. Poitout, L.K. Olson, R.P. Robertson, Insulin-secreting cell lines: classification, characteristics and potential applications,Diabetes Metab.22(1996) 7-14.   \n[25] A.E. Schaffer, B.L. Taylor, J.R. Benthuysen, J. Liu,F. Thorel,W. Yuan,Y. Jiao, K.H.Kaestner,P.L.Herrera,M.A. Magnuson, C.L. May,M. Sander，Nkx6.1 controls a gene regulatory network required for establishing and maintaining pancreatic beta cell identity, PLoS Genet. 9 (2013) e1003274.   \n[26]M.Jackerott，Y.C.Lee，K.Mollgard，H. Kofod，J. Jensen，S. Rohleder, N.Neubauer，L.W. Gaarn,J.Lykke，R. Dodge，L.T. Dalgaard，B. Sostrup, D.B. Jensen,L. Thim, E.Nexo,P. Thams,H.C.Bisgaard, J.H. Nielsen, Trefoil factors are expressed in human and rat endocrine pancreas: differential regulation by growth hormone, Endocrinology 147 (2006) 5752-5759.   \n[27] $\\scriptstyle { \\mathrm { Q } } .$ Li,Z.C. Lai,Recent progress in studies of factors that elicit pancreatic beta-cell expansion, Protein Cell. 6(2015) 81-87.   \n[28] N. Fang, W. Zhang, S. Xu, H. Lin, Z. Wang, H. Liu, Q. Fang, C. Li, L. Peng, J. Lou, TRIB3 alters endoplasmic reticulum stress-induced beta-cell apoptosis via the NF-kappaB pathway,Metabolism 63 (2014) 822-830. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

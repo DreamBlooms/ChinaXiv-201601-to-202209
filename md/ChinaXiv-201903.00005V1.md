@@ -1,0 +1,164 @@
+# 风险决策的概率权重偏差：心理机制与优化策略
+
+孙庆洲，邬青渊，张静，江程铭，赵雷，胡凤培1浙江工业大学管理学院，杭州310023
+
+摘要概率权重偏差指人对事件发生的主观概率估计与客观概率的差异。它影响投资、投保、医患沟通等方面。“重结果轻概率”的非补偿性策略和参照点诱发的情绪波动会引发概率权重偏差；改变“概率”的描述形式、“结果”的情绪体验、“损益”的参照点、风险的心理距离等可调整权重偏差、优化决策。未来需深究权重偏差的适用情境、机制关联及偏差辨别等问题。
+
+关键词概率权重偏差；结果维度；概率维度；参照点；情绪体验；优化策略
+
+# 引言
+
+对事件发生概率的权重偏差会影响人类的判断与决策，探索人类概率权重偏差的规律是富有意义和前景的科学问题（Fox&Poldrack,2009）。在现实生活中，由于不善于表征和理解概率信息，人们时常无法准确估计概率事件的发生（Pachur,Suter,&Hertwig,2017），如高估中得彩票的机率和遭遇车祸的机率、低估通过考试的机率和手术成功的机率等。这些偏差影响着生活的诸多方面，如盲目购彩、过度投保、考试高压、手术焦虑等。为此，不同学科领域的科学家，如诺贝尔经济学奖获得者Kahneman、有限理性的倡导者Gigerenzer、齐当别规则的提出者李纾等，一直在探索人类概率权重偏差的规律。特别是，近年来，围绕着这一问题，科学家们开展了卓有成效的研究，不少成果发表在《Nature》、《Science》等国际顶级期刊上（Athey,2017; Prelec,Seung,& McCoy,2017），掀起了概率权重偏差的研究热潮。值得注意的是，虽然现有研究对概率权重偏差的特征做了深入探究，也取得了重要发现，但是仍有两个亟待回答的问题：（1)人为何存在概率权重偏差？（2）如何改变（增大或减小）概率权重偏差来优化决策？
+
+本研究首先基于“选择”和“赋值”范式梳理和比较了概率权重偏差的特征；其次，提出了“重结果轻概率”的非补偿性策略和参照点诱发的情绪波动如何影响概率权重偏差；在此基础上提出了调整权重偏差的策略。最后，提出未来值得探索的问题。
+
+# 1概率权重偏差
+
+概率权重偏差（probabilityweightingbias）指人们对事件发生的主观概率估计（weight of probability; $w ( p )$ ）与该事件发生的客观概率（probability; $p$ ）不一致的现象（ $w ( p ) \neq p$ ； Fox & Poldrack, 2009; Gonzalez & Wu, 1999; Tversky &Kahneman,1992）。在现实生活中，人们时常存在概率权重偏差。例如，人们很清楚投掷一枚硬币后人头面朝上的客观概率为 $50 \%$ ，但在其心里该事件发生的主观概率可能高于或低于 $50 \%$ 。
+
+# 1.1基于“选择”的推演
+
+累积预期理论（cumulative prospect theory）和双参数理论（double parameterstheory）采用“选择”任务（pairwise choice task;PC 任务）推演出概率权重偏差特征，他们认为人们会选择“期望值最大化”的选项，可依据选项推导出概率被高估还是被低估（Gonzalez & Wu,1999; Tversky & Kahneman,1992）。
+
+以俄罗斯轮盘赌（Russianroulette）为例，试想你将装有子弹的左轮枪（可装6发子弹）旋转轮子，对准太阳穴扣动扳机。如果有机会花钱从弹膛里买出一颗子弹，把子弹数从4减到3和从1减到0两种情况，你会出同样的价格吗？虽然两种情况都只能减少1/6的死亡率，但大多数人愿意花更多的钱使死亡率从1/6变成0（Kahneman& Tversky,1979）。由此推论，人们对客观概率的感受性呈现非线性特点（即高估小概率而低估中大概率）。类似地，基于人们在A（ $0 . 0 0 1 \%$ 获益 $\$ 5000$ ）和B（确定获益 $\$ 5$ ）之间选择前者，而在C（ $9 9 . 9 9 9 \%$ 获益 $\$ 5000$ ）和D（确定获益 $\$ 4995$ ）之间选择后者，可推导出小概率被高估而大概率被低估。
+
+通过不同概率下的“选择”，累积预期理论和双参数理论推演出概率权重偏差的两个特征：一是对概率信息变化的辨别力偏差；二是对概率信息的吸引力偏差（Gonzalez & Wu, 1999; Suter, Pachur,& Hertwig, 2016; Tversky & Kahneman,1992）。他们以事件发生的客观概率 $( p )$ 为横坐标，以事件发生的主观概率 $( w ( p )$ ）为纵坐标，将上述两个特征在概率权重函数曲线上展现出来。
+
+![](images/9342b4c71b54a1a89e2905f9caa3bb53e29b433d6118611a8d235a60b18c87f8.jpg)  
+图1概率权重偏差的辨别力参数（左）和吸引力参数（右）
+
+概率权重的辨别力偏差（bias of discriminability of probability weighting）反映了人们对事件发生主观概率的增量变化与事件发生客观概率的增量变化的不一致性（Tversky&Kahneman,1992）。如图1左，个体1和个体2在概率权重辨别力上（即权重函数曲线的曲度上）存在明显差异：个体1的辨别力（w1）明显高于个体 $2 ( w 2 )$ 。如，当客观概率 $p$ 从0.2到0.8变化时，个体1主观概率 $w 1 ( p )$ 的变化幅度要明显大于个体2主观概率 $w 2 ( p )$ 的变化幅度。研究表明，个体存在概率权重的辨别力偏差，其权重函数呈现出“倒 $\mathrm { \Delta } \mathrm { S } ^ { \prime \prime }$ 形特点，即小概率被高估 $( w ( p ) > p ; p < 0 . 5 )$ ）而大概率被低估 $( w ( p ) < p ; p \ge 0 . 5 )$ （Fox & Poldrack,2009; Kliger & Levy, 2008; Pachur, Hertwig,& Wolkewitz, 2014; Suter, Pachur,Hertwig,Endestad,&Biele,2015）。这导致风险态度呈现四重模式：小概率获益时风险寻求；中大概率获益时风险规避；小概率损失时风险规避；中大概率损失时风险寻求（Tversky& Kahneman,1992; Sun, Zhang, Zhang,& Zhang,2018）。
+
+概率权重的吸引力偏差（bias of attractiveness of probability weighting）反映了对事件发生的期待与事件发生客观概率的不一致性程度（Gonzalez&Wu,1999）。在权重函数曲线上表现为曲线的整体高度。如图1右，个体1和个体 2在概率权重辨别力上（即权重函数曲线的曲度上）无显著差异，但在概率权重吸引力（即权重函数曲线的整体高度上）上存在显著差异：决策事件对个体1的吸引力（w1）明显高于对个体2的吸引力（ $: w 2$ ）。在现实生活中，这种差异也常存在，如有的人对体育彩票赌注的热衷度远大于对政界选举赌注的热衷度，而有的人恰好相反，这反映了他们在这两件事上概率权重吸引力的差异（Fox&Poldrack,2009）。
+
+# 1.2 基于“赋值”的测量
+
+除了基于“选择”的推演，研究者还用“赋值”法直接测量概率权重偏差(Brandstatter, Kuhberger,& Schneider, 2002; Hansen, Jacobsen, & Lau, 2016; Hey,Morone,& Schmidt, 2009; Li, He,Li, Xu, & Rao,2009; Litchfield & Piza, 2017; Sun,Zhang,Sai,&Hu,2018）。比如，给定一张 $1 \%$ 获益 $\$ 5000$ 的彩票，要求人们写出愿意花多少钱购买（willingness-to-pay or report buying price;BID 任务）、愿意花多少钱卖出（willingness-to-accept or report selling price; ASK 任务）或者赋予该彩票一个心理价（certainty equivalents;BDM²任务）等，通过对比赋值与实际价值的高低来判断概率事件被高估还是被低估（Brandstätter etal.,2002）。
+
+值得注意的是，基于“赋值”测量与基于“选择”推演的概率权重偏差并不总是相互吻合（李纾,2016；梁哲，李纾，许洁虹,2007; Hansen et al.,2016; Li et al.,2009）。例如，在俄罗斯轮盘赌中，Lietal.（2009）通过BID任务直接测量了人们对概率变化的真实感受。发现出价金额随着子弹数的增加呈递减趋势，这与基于“选择”的推演并不吻合。按照“选择”推演的权重函数，高估小概率会导致：相比子弹数从2减到1，人们愿意花更多的钱从1减到0；低估大概率则导致：相比于子弹数从5减到4，人们愿意花更多的钱从6减到5，即出价金额应该呈现出U形趋势。类似的“赋值”与“选择"的矛盾可参见Lichtenstein 和 Slovic(1971)。当然，也有研究采用“赋值”法（如BDM任务）测量到与“选择”推演相吻合的概率权重偏差（Brandstatter et al.,2002; Sun et al.,2018)。
+
+Hey etal.（2007）从两个指标上比较了PC 任务、BID任务、ASK任务和BDM任务的优劣：一是测量噪声（noise of the elicitation method），即多次测量结果的稳定性，发现PC任务的测量噪声最小，BDM任务其次，ASK任务和 BID任务最大；二是测量偏差（biasof theelicitationmethod），即实测结果偏离所测结果的程度，发现PC任务的测量偏差最小，BDM任务和ASK任务其次，BID任务最大。究其原因，我们推测，在ASK任务和 BID任务中人们可能存在现状偏差（status-quo bias）或定价偏差（pricingdiscrepancy）：定价常高于实际值，而出价则常低于实际值。在BDM任务虽然没有明显的测量偏差，但是测量任务本身的复杂性可能导致人们在答题时运用启发策略，产生内置性偏差。
+
+# 2为何存在概率权重偏差？
+
+2018年，“滴滴顺风车事件”引爆舆论（中国新闻网,2018），在吐槽滴滴公司和谩骂司机之余，更值得深思的是为何“小概率”能引发如此“大影响”。滴滴公司年订单量数十亿（新浪科技,2018），而类似事件的发生率仅有几亿甚至几十亿分之一，远低于其它行业的事故率，似乎人们更关注“结果”而疏忽“概率”。另外，类似事件越是凶惨、性质越是恶劣，似乎对舆论产生的影响越大（中国消费者协会,2019）。本文从这两个视角解析了概率权重偏差的心理机制。
+
+# 2.1 “果”肥“率”瘦
+
+人们常常搜索、加工和分析一定量的信息去判断、评估事件发生的可能性(Diederich & Oswald, 2016; Fisher, 2017; Mullett & Stewart, 2016; Venkatraman,Payne,&Huettel,2014）。但是，由于感知觉和认知能力的局限，人们无法综合权衡各种信息，而是运用有限的信息进行启发式的判断（汪祚军，李纾,2012;Brandstatter, Gigerenzer, & Hertwig, 2Oo6; Pachur, Schulte-Mecklenbeck, Murphy, &Hertwig,2018）。“结果”信息相对具体、生动，较容易被理解和表征，而“概率”信息相对抽象、晦涩，较难被理解和表征，现实生活中人们常采用“重结果轻概率”的非补偿性策略进行判断和决策（Pachur etal.,2014,2017,2018）。相比于综合权衡“结果”和“概率”信息的补偿性策略，上述非补偿性策略会诱发更大的权重偏差（Pachur et al.,2018; Suter et al.,2016）。
+
+补偿性策略反映了个体在决策中综合权衡“结果”和“概率”维度进行决策（Pachur etal.,2014）。例如，当面临选项A（ $1 \%$ ,¥100; $9 9 \%$ ,¥0）和B（ $100 \%$ ￥1）时，如果个体采用补偿性策略，没有哪个选项会被赋予更高的权重：选项A的结果优势（即￥100）会被其概率的劣势（即 $1 \%$ ）所补偿，选项B的概率优势（即 $100 \%$ ）会被其结果的劣势（即￥1）所补偿（图2右）。因此，个体越倾向于使用补偿性策略，其概率权重越准确。
+
+“重结果轻概率”的非补偿性策略反映了个体在决策中仅通过比较“结果”维度进行决策而疏忽相应的“概率”维度（如minimax 策略、maximax 策略、probability-neglect 策略; Pachur et al.,2014,2018）。例如，当面临选项 $\mathrm { A } ( 1 \%$ ,¥100;$9 9 \%$ ,¥0）和B（ $100 \%$ ,￥1）时，如果个体更多地比较结果信息（即比较￥100，¥0和¥1）而忽略相应的概率信息（即忽略 $1 \%$ ， $9 9 \%$ 和 $100 \%$ ），因为“￥100”和“¥1”的差异明显大于 $^ { 6 6 } \yen 4$ 和“¥1”的差异，所以个体会赋予选项A更高的权重，即小概率被高估。再如，当面临C（ $9 9 \%$ ,￥100; $1 \%$ ,¥0）和 $\mathrm { ~ D ~ }$ ( $100 \%$ ,¥99）时，如果个体更多地比较结果信息（即比较￥100,￥0 和¥99）而忽略相应的概率信息（即忽略 $9 9 \%$ ， $1 \%$ 和 $100 \%$ ），因为“¥99”和‘ $^ { \cdot } \yen 0 ^ { \cdot \prime }$ 的差异明显大于 $^ { 6 6 } \yen 100 ^ { 3 }$ 和“¥99”的差异，所以个体会赋予选项D更高的权重，即大概率被低估（图2左）。因此，个体越是“重结果轻概率”，其高估小概率和低估中大概率的偏差越大。例如，无论是政府政策制定者还是民众都时常高估恐怖袭击的小概率事件，因为人们多关注恐怖袭击的严重后果而忽视其发生的概率（McGraw,Todorov,&Kunreuther,2011）。Sun，Lu和Liu（2016）通过信息板技术，发现个体越关注“金额”维度、疏忽“概率”维度，其高估小概率事件、低估中大概率事件的偏差越大。孙庆洲（2017）通过凸显信息操纵信息关注，发现相对于凸显概率信息，凸显结果信息时小概率更加被高估、大概率更加被低估。
+
+![](images/40128b2a2778e853e20f34a0e41e5d2d2cb7090f587e285f419db23a6bade281.jpg)  
+图2概率权重偏差的“注意分配”解释机制示意图
+
+# 2.2 “地板”上的渴望与“天花板”上的担忧
+
+风险概率不同，人们的“损益”参照点亦不同，不同的参照点会诱发不同的情绪体验，进而导致概率权重出现偏差。例如，小概率获益时（如风险选项： $1 \%$ 获益¥100， $9 9 \%$ 获益￥0；确定选项： $100 \%$ 获益¥1），人们以“小获益”（ $100 \%$ 获益¥1）为参照，相比于“小获益”，对有可能“获得大收益”（¥100）产生“渴望”，这种情绪越强烈，越会选择风险选项，表现出高估小概率偏差（参见图3-(1)）；大概率获益时（如风险选项： $9 9 \%$ 获益¥100， $1 \%$ 获益￥0；确定选项：$100 \%$ 获益¥99），人们以“大获益”（ $100 \%$ 获益¥99）为参照，相比于“大获益”，对有可能“不获益”（¥0）产生“担忧”，这种情绪越强烈，越会选择确定选项，表现出低估大概率偏差（图3-(2)）；小概率损失时（如风险选项： $1 \%$ 损失￥100，$9 9 \%$ 损失￥0；确定选项： $100 \%$ 损失¥1），人们以“小损失”（ $100 \%$ 损失￥1）为参照，相比于“小损失”，对有可能遭受“大损失”（-¥100）产生“担忧”，这种情绪越强烈，越会选择确定选项，表现出高估小概率偏差（图3-(3)）；大概率损失时（如风险选项： $9 9 \%$ 损失￥100， $1 \%$ 损失￥0；确定选项： $100 \%$ 损失￥99），人们以“大损失”（ $100 \%$ 损失¥99）为参照，相比于“大损失”，对有可能“不损失”（¥0）产生“渴望”，这种情绪越强烈，越会选择风险选项，表现出低估大概率偏差（图3-(4)）。
+
+这种参照点-情绪体验机制得到实证研究的支持。例如，Brandstatter et al.(2002)发现个体对小概率获得大收益的预期愉悦度能预测其高估小概率事件的偏差，而对有可能不获益的担忧度能预测其低估中大概率事件的偏差。孙庆洲（2017）发现小概率损失时，个体以“小损失”为参照，越害怕风险选项中有可能遭受的“大损失”，越会高估小概率事件；大概率损失时，个体以“大损失”为参照，越渴望风险选项中有可能“不损失”，越会低估大概率事件。Tyszka和 Sawiciki（2011）让孕妇评估自己生下畸形儿童的概率，结果发现，孕妇以“生育正常儿童”为参照，对“有可能生育畸形儿童”的担忧诱发了概率权重偏差。特别是，相对于呈现中性情绪图片，当给孕妇呈现负性情绪图片（如唐氏综合征儿童图片)时，孕妇更容易高估生育畸形儿童的概率。Rottenstreich 和Hsee（2001)
+
+给被试两种奖励选择：一是有机会获得 $\$ 50$ ，二是有机会亲吻自己喜爱的电影明星。结果发现：当这种机会为 $100 \%$ 时，被试更愿意选择前者，而当这种机会为$1 \%$ 时，被试更愿意选择后者。说明在小概率获益时，人们更愿意选择有较强积极情绪体验的选项（即亲吻电影明星）。同样地，当给被试两种惩罚选择：一是有机会遭受罚款 $\$ 20$ ，二是有机会遭受短暂电刺激。结果发现：当这种机会为 $9 9 \%$ 时，被试更愿意选择后者，而当这种机会为 $1 \%$ 时，被试更愿意选择前者。同样说明在小概率损失时，人们更愿意躲避有较强消极情绪体验的选项（即电刺激）。
+
+![](images/1df0d332e538756003918a28f90c97a60cfa25eea53db462db3dd17cde272ee0.jpg)  
+图3概率权重偏差的“参照点-情绪体验”解释机制示意图
+
+# 3如何改变概率权重偏差？
+
+基于上述解释机制，本文试图从改变“概率”的描述形式、“结果”的情绪体验、“损益”的参照点、风险的心理距离等视角，探究如何调整概率权重偏差。
+
+# 3.1当“5%”变成“百人中有五人”
+
+相同的风险事件可以有不同的描述形式，例如，当医生给病人讲解手术风险时，可以用百分比（手术失败率为 $5 \%$ ）、频数（每100个病人手术后有5人手术失败）、图表（饼图呈现出手术失败所占的比例）等形式描述。不同的描述形式会影响人们对风险的感知（Oudhoff& Timmermans,2015;Lermer,Streicher,Sachs, Raue, & Frey, 2015; Trautmann & van de Kuilen, 2012; Zipkin et al., 2014）。例如，Evans，Handley，Perham，Over 和 Thompson（2000）发现，当描述形式以符合人们心理模型的形式呈现时，人们更容易理解风险信息，如频率比机率的描述形式更容易让人理解，所以更容易让人们准确地评估概率。Stone，Yates 和Parker（1997）将概率的描述形式分成两种：数字式和图表式，他们发现，相对于数字式，图表式的描述能明显降低冒险行为。此外，言语描述形式也会影响风险感知，Fagerlin，Zikmund-Fisher 和Ubel（2011）发现，相对于用复杂的语言、相对风险的描述形式，用简明的语言、绝对风险来描述概率信息能使人们更容易理解风险概率。概而言之，相对于复杂抽象的描述形式（如百分比、复杂言语、相对概率、表格等），简单具体的描述形式（如频数、简单言语、绝对概率、图等）能使人们更加客观地估计概率信息。
+
+# 3.2当“电击”变成“罚款”
+
+风险事件的预期结果不同既影响人们对“结果”信息的关注，又影响人们对决策事件的情绪体验，进而有可能影响概率权重偏差。Sun etal.（2016）比较了不同预期结果对概率权重偏差的影响，结果表明，相对于高情绪体验、高后果严重性的风险结果，低情绪体验、低后果严重性的风险结果更能降低概率权重偏差。相似地，Pachur etal.（2014）呈现了两类风险结果：高情绪体验（药物副作用）和低情绪体验（罚款），发现风险结果的情绪体验越高，人们的概率权重偏差越大。此外，Rottenstreich 和Hsee（2001）也发现，相对于低情绪唤醒度的刺激（即金钱），高情绪唤醒度的刺激（即亲吻电影明星）诱发了更大的概率权重偏差；相对于低后果严重性的刺激（即罚款），高后果严重性的刺激（即电刺激）诱发了更大的概率权重偏差。
+
+# 3.3 当“地板”变成“天花板”
+
+如果“损益”参照点影响了人们的概率权重偏差，那么适当改变参照点应该能改变权重偏差。来看一个例子，Li（1995）让被试在选项A（¥5000,0.001）和选项B（¥5）之间选择， $58 \%$ 的被试选择了前者，表现出高估小概率倾向。而后Li将这组选项中的价值量扩大1000倍得到选项C（¥5000000,0.001）和选项D（¥5000），结果 $74 \%$ 的被试选择了后者，表现出低估小概率倾向。在前一个选择中，被试以“小获益”（获益￥5）为参照，相比于“小获益”，对有可能获得“大收益”（¥5000）产生“渴望”，驱使其风险追求；而在后一个选择中，参照点发生了改变，由“小获益”变成了“大获益”（获益¥5000），相比于“大获益”，对有可能“不获益”（¥0）产生“担忧”，驱使其风险规避。这种参照点的改变反转了人们的权重偏差。
+
+# 3.4 当“我的”变成“他的”、“近的”变成“远的”
+
+心理距离是普遍存在于现实风险决策中的重要因素，对于发生在近期与远期（时间距离）、近处与远处（空间距离）、自己与他人身上（社会距离）及可能与不可能（假设性）的风险事件，人们可能带有不同的情绪状态和认知关注、做出不同的认知判断或行为反应（Trope ＆Liberman,2010;Williams,Stein,&Galguera,2014）。个体与决策事件心理距离的远近会影响其概率权重。例如，Sun，Liu，Zhang 和Lu（2017）发现，相对于为自己决策，人们在为他人决策时高估小概率事件、低估中大概率事件的偏差明显减小；相对于为朋友决策，人们在为陌生人决策时概率权重偏差亦明显减小。Wangetal.（2018）采用仿真气球任务比较自我决策和群体决策的差异，发现个体为群体决策时更保守，说明由“我”到“我们”的距离感降低了个体的冒险性（类似的研究参见Pahlke,Strasser,&Vieider,2015）。Sun etal.（2018）让个体采用自我抽离（如“从在第三人称角度思考问题”或采用“flyon the wall”的方式思考问题）或自我沉浸（如“从第一人称的角度思考问题”）的方法评估概率事件的发生，结果表明：相对于自我沉浸的个体，自我抽离的个体高估小概率事件、低估中大概率事件的偏差明显降低。与此类似，Faro 和Rottenstreich（2006）比较了个体为自己决策和预期他人决策的概率权重差异，发现相对于为自己决策，个体在预期他人决策时对概率信息的估计更准确。Trautmann和deKuilen（2012）要求被试对大概率事件进行等价赋值，发现在 $84 \%$ 获得 $\epsilon 3 0 0$ 的大概率事件上，被试为当下的自己决策时赋值约为∈113，而为一个遥远乡村的他人决策时赋值约为€162，表明空间距离和社会距离的增加减小了低估大概率事件的偏差。
+
+# 4总结与展望
+
+当前研究从注意分配和参照点的视角探讨了概率权重偏差的解释机制，基于此提出了改变权重偏差的策略。从理论上将研究触角伸向权重偏差背后的认知-情绪机制，深化了注意分配的不均衡性、损益参照点诱发的情绪体验在权重偏差中的作用；从实践上为投资、投保、投股、医患沟通中改变权重偏差、优化决策提供些许建议。当然，在分析和梳理的过程中，有以下问题值得深究。
+
+# 4.1“以彼之道还施彼身”
+
+“期望法则”理论流派认为人们会选择“期望值最大化”的选项，依据选项推演出概率权重函数（Gonzalez&Wu,1999; Tversky&Kahneman,1992）。但是，Li etal.（2009）采用Kahneman和Tversky（1979）的实验材料（俄罗斯轮盘赌），发现基于“赋值”报告的期望值与基于权重函数推演的期望值相悖。Li（1995）基于Kahneman 和Tversky 的选择问题，设计了13 组特殊的选择问题，将 $50 \%$ 以上被试的选择视为具有最大价值的选项，结果发现，被试的选择并不遵循“期望值最大化”，如在A（¥5100,0.01;¥5,0.99）和B（¥5100,0.01;¥5000,0.001）选择时 $56 \%$ 的被试选了A。因此，关于“期望值最大化”原则及其推演的权重函数还有待未来深究，或许它适用于某些而非全部决策情形。
+
+# 4.2“果”之忧与“率”之略
+
+人们对结果的情绪体验会影响对概率的关注。例如，Suteretal.（2016）发现，人们越担心药物副作用，越疏忽其概率信息。McGrawetal.（2011）发现，政策制定者越担心民众责备，越疏忽恐怖袭击的发生概率，导致过高的防恐预算。孙庆洲（2017）发现，人们对小概率获得大收益越期待，对其发生的机率越疏忽，并且发现情绪体验的改变会影响信息关注，而信息关注的改变并未影响情绪体验。这暗示在权重偏差的解释机制中，情绪通道影响认知通道，并且在双通道中似乎情绪通道占优，这有待未来研究的进一步检验。
+
+# 4.3“好偏差” "坏偏差”
+
+虽然人对客观概率的估计存在“偏差”，但这并不意味着“偏差”一定是不好的，有时它恰恰是一种生态理性的体现，是人适应自然和社会环境的结果（刘永芳,2016）（比如，当你在某处偶然遭遇袭击，以后经过此处都会格外小心，这是一种本能的避害反应）。只不过当人形成的固有“偏差”泛化到不该泛化的情形时，这种“偏差”才需要被调整。例如，行人高估遭遇车祸的机率，所以不愿闯红灯，这种高估“偏差”就不应该被减小，而应该被增大（如交警可通过“罚款”代替“说教”，提高行人对“结果”的情绪体验，降低违规行为）。相比之下，病人高估手术失败的机率而过分焦虑，这种高估“偏差”就需要被减小（如医生可用“频数”代替“概率”的形式讲解手术失败率，让病人更加准确地理解概率信息）。在现实生活中，有关“偏差”的辨别与调整仍需进一步探究。
+
+# 参考文献
+
+李纾.(2016)．决策心理：齐当别之道．华东师范大学出版社．上海.   
+梁哲，李纾,& 许洁虹.(2007).预期理论权重函数π的由来，质疑及Tversky 的阐释．经济 数学,24(4),331-340.   
+刘永芳（译）(2016)．有限理性：适应性工具箱.清华大学出版社．北京.   
+孙庆洲.(2017)．社会距离对概率估计偏差的影响：情绪占优抑或认知占优？(博士学位论文) 华东师范大学．上海.   
+新浪科技.(2018)．滴滴：2017 年订单量74.3亿平均每人用滴滴打过5次车.2018年1月8 摘自http://tech.sina.com.cn/i/2018-01-08/doc-ifyqkarr7931333.shtml   
+汪祚军，李纾.(2012).对整合模型和占优启发式模型的检验：基于信息加工过程的眼动研究 证据．心理学报,44(2),179-198.   
+中国消费者协会.(2019).2018年十大消费维权舆情热点.2019 年1月10摘自 http://www.cca.org.cn/zxsd/detail/28364.html   
+中国新闻网.(2018).女孩滴滴顺风车遇害案被告人被提起公诉案件回顾.2018年11月17摘 自 http://www.chinanews.com/sh/2018/11-17/8679360.shtml   
+Athey,S. (2017). Beyond prediction: Using big data for policy problems. Science, 355, 483-485.   
+Brandstätter, E., Gigerenzer,G.，& Hertwig,R. (2006). The priority heuristic: Making choices without trade-offs. Psychological Review, 113, 409-432.   
+Brandstäter, E.， Kuhberger, A.,& Schneider, F. (20o2). A cognitive-emotional account of the shape of the probability weighting function. Journal of Behavioral Decision Making,15, 79-100.   
+Diederich, A., & Oswald,P.(2016). Multi-stage sequential sampling models with finite or infinite time horizon and variable boundaries. Journal of Mathematical Psychology, 74, 128-145.   
+Evans,J. S.B., Handley, S. J., Perham, N., Over, D.E.,& Thompson, V. A. (2000). Frequency versus probability formats in statistical word problems. Cognition, 77(3),197-213.   
+Fagerlin,A., Zikmund-Fisher, B. J.,& Ubel, P.A. (2011). Helping patients decide: Ten steps to better risk communication. Journal of the National Cancer Institute, 103(19), 1436-1443.   
+Faro,D.,& Rotenstreich, Y. (2006). Affect, empathy, and regressive mispredictions of others' preferences under risk. Management Science, 52, 529-541.   
+Fisher,G. (2017). An attentional drift diffusion model over binary-atribute choice. Cognition, 168, 34-45.   
+Fox,C.R.,& Poldrack, R.A. (2009). Prospect theory and the brain. Neuroeconomics: Decision Making and the Brain, 145-174.   
+Gonzalez, R., & Wu, G. (1999). On the shape of the probability weighting function. Cognitive Psychology, 38,129-166.   
+Hansen, J. V., Jacobsen, R. H.,& Lau, M. I. (2016). Willingness to pay for insurance in Denmark. Journal of Risk and Insurance, 83(1), 49-76.   
+Hey, J.D., Morone,A., & Schmidt, U. (20o9). Noise and bias in eliciting preferences. Journal of Risk and Uncertainty, 39(3),213-235.   
+Oudhoff, J. P.，& Timmermans,D.R. (2015). The effct of different graphical and numerical likelihood formats on perception of likelihood and choice. Medical Decision Making, 35(4), 487-500.   
+Kahneman， D.，& Tversky,A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47,267-291.   
+Kliger,D.,& Levy, O. (20o8). Mood impacts on probability weighting functions: “Large-gamble" evidence. The Journal of Socio-Economics,37, 1397-1411.   
+Lermer, E., Streicher, B., Sachs,R., Raue, M.,& Frey, D. (2015). Thinking concrete increases the perceived likelihood of risks: The effect of construal level on risk estimation. Risk Analysis, 36, 623-637.   
+Li, S. (1995). Is there a decision weight $\pi ?$ Journal of Economic Behavior and Organization, 27, 263-291.   
+Li, L. B., He, S.H., Li, S., Xu, J. H.,& Rao, L.L. (2009). A closer look at the Russan roulete problem: A re-examination of the nonlinearity of the prospect theory's decision weight $\pi$ International Journal of Approximate Reasoning, 50(3), 515-520.   
+Lichtenstein， S.，& Slovic,P. (1971). Reversals of preference between bids and choices in gambling decisions. Journal of Experimental Psychology， 89(1), 46-55.   
+Litchfield, J.,& Piza, C. (2017). Estimating the willingness to pay for tenure security in Brazilian Favelas, working paper series, department of economic, university of sussex.   
+McGraw,A. P., Todorov, A.， & Kunreuther, H. (2011). A policy maker's dilemma: Preventing terrorism or preventing blame. Organizational Behavior and Human Decision Processes, 115, 25-34.   
+Mullett， T.L.,& Stewart, N. (2016). Implications of visual attention phenomena for models of preferential choice. Decision, 3(4), 231-253.   
+Pachur, T.，Hertwig,R.，& Wolkewitz, R.(2014). The affect gap in risky choice: Affect-rich outcomes attenuate attention to probability information. Decision, 1, 64-78.   
+Pachur, T.，Schulte-Mecklenbeck,M.，Murphy,R. O.，& Hertwig,R. (2018). Prospect theory reflects selective allocation of attntion. Journal of Experimental Psychology: General, 147(2), 147-169.   
+Pachur, T.， Suter, R. S.，& Hertwig, R. (2017). How the twain can meet: Prospect theory and models of heuristics in risky choice. Cognitive Psychology, 93,44-73.   
+Pahlke,J., Strasser, S.,& Vieider,F.M. (2015).Responsibility effects in decision making under risk. Journal of Risk and Uncertainty, 51(2),125-146.   
+Prelec,D., Seung,H. S.,& McCoy,J. (20l7). A solution to the single-question crowd wisdom problem. Nature, 541, 532-535.   
+Rottenstreich, Y.,& Hsee, C.K. (2001). Money, kisses,and electric shocks: On the affective psychology of risk.Psychological Science, 12, 185-190.   
+Stone,E. R., Yates, J. F.,& Parker, A. M. (1997). Effects of numerical and graphical displays on professed risk-taking behavior. Journal of Experimental Psychology: Applied, 3(4),243-256.   
+Sun,Q.,Liu, Y.， Zhang,H.，& Lu, J. (2017). Increased social distance makes people more risk-neutral. The Journal of Social Psychology, 157(4), 502-512.   
+Sun, Q.,Lu, J.,& Liu, Y. (2016). Social distance reduce the biases of evaluating probabilistic information from emotional and cognitive perspectives, The $3 I ^ { s t }$ International Cogress of Psychology.   
+Sun, Q., Zhang, H., Sai, L., & Hu,F. (2O18). Self-distancing reduces probability-weighting biases. Frontiers in Psychology, 9, 611.   
+Sun, Q., Zhang, H., Zhang, J.,& Zhang, X. (2018). Why can't we accurately predict others ' decisions? Prediction discrepancy in risky decision-making. Frontiers in Psychology，9, 2190.   
+Suter,R. S.， Pachur, T.，& Hertwig,R. (2016). How affect shapes risky choice: Distorted probability weighting versus probability neglect. Journal of Behavioral Decision Making, 29, 437-449.   
+Suter,R. S., Pachur,T.,Hertwig,R.,Endestad,T.,& Biele, G. (2015). The neural basis of risky choice with affective outcomes.PloS One,10, e0122475.   
+Trautmann， S.T.，& van de Kuilen，G.(2O12). Prospect theory or construal level theory? Diminishing sensitivity vs. psychological distance in risky decisions. Acta Psychologica, 139, 254-260.   
+Trope,Y., & Liberman, N. (2010). Construal-level theory of psychological distance. Psychological Review, 117,440-463.   
+Tversky,A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. Journal of Risk and Uncertainty, 5,297-323.   
+Tyszka,T.，& Sawicki， P. (2011). Afective and cognitive factors influencing sensitivity to probabilistic information. Risk Analysis, 31,1832-1845.   
+Venkatraman, V.,Payne, J. W.,& Huetel, S.A. (2014).An overall probability of winning heuristic for complex risky decisions: Choice and eye fixation evidence. Organizational Behavior and Human Decision Processes,125(2),73-87.   
+Wang, Z. J., Kuang, Y., Tang,H. Y., Gao, C., Chen, A.,& Chan, K. Q. (2018). Are decisions made by group representatives more risk averse? The effect of sense of responsibility. Journal of Behavioral Decision Making, 31(3),311-323.   
+Williams，L.E.， Stein，R.，& Galguera，L. (2O14). The distinct affective consequences of psychological distance and construal level. Journal of Consumer Research, 40,1123-1138.   
+Zipkin, D. A., Umscheid, C. A., Keating, N. L., Allen, E., Aung, K., Beyth, R.,.. & Schardt, C. (2014).Evidence-based risk communication: A systematic review. Annals of Internal Medicine, 161(4),270-280.
+
+# Probability weighting bias in risky decision making: Psychological mechanism and optimizing strategies
+
+Qingzhou Sun, Qingyuan Wu, Jing Zhang, Chengming Jiang, Lei Zhao, Fengpei Hu
+
+School of Management, Zhejiang University of Technology, Hangzhou 310023, China Abstract: Probability weighting bias refers to the deviation between the perceived likelihood and the objective likelihood of an event， which affects investment, insurance， doctor-patient communications，etc. The non-compensatory strategy in which people give more weight to “outcomes” than “probabilities”,and the emotional fluctuation induced by the reference point cause probability weighting bias; changing the description of“probabilities”，emotional experience of “outcomes"，reference point of "gains and losses",and psychological distance from risk, can adjust such bias and optimize decision-making.Future studies need to further explore the issues, such asits application situations, mechanism correlations, and the identification of probability weighting bias.
+
+Keywords: probability weighting bias; outcome dimension; probability dimension; reference point; emotional experience; optimizing strategy

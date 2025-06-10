@@ -1,0 +1,393 @@
+[
+    {
+        "type": "text",
+        "text": "甘蔗幼苗对难溶性磷的吸收及其根系对低磷胁迫的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "柯野1，谢璐1，蓝林1,潘俊臣1，唐新莲 $^ { 1 , 2 * }$ （1．广西大学农学院，南宁530004;2．亚热带农业生物资源保护与利用国家重点实验室，南宁530004)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：南方酸性土壤中的全磷含量高，但有效磷普遍偏低，土壤磷素不足是制约甘蔗生长的重要因素。明确甘蔗适应低磷胁迫的生理生化机制，挖掘甘蔗对磷素的利用潜力，对指导甘蔗育种及栽培管理均有重要的理论与现实意义。本文以ROC22和ROC10两个甘蔗品种为材料，采用水培和土培的试验方法研究了甘蔗幼苗对难溶性磷的吸收及其在低磷胁迫下根构型和根系的生理反应，以揭示甘蔗对低磷胁迫适应的可能机制。结果表明：（1）培养在以难溶性磷（Ca-P和AI-P）为磷源的培养液中的甘蔗的叶片数、地上部干重、生物量较缺磷（-P）处理显著增加，与对照！ $( + \\mathrm { P } ) .$ ）的相当，甘蔗总磷积累量也显著提高，达到对照 $( + \\mathrm { { P } ) }$ 处理磷积累量的 $3 0 \\% \\sim 7 7 \\%$ 。（2）在低磷条件下，甘蔗幼苗的根系有向土壤深层分布的趋势，根的总体积增大，最长根长变长，浅根系分布增多。（3）甘蔗幼苗在低磷环境下，根际环境明显酸化，且根系分泌物能溶解难溶性的铝磷，植株体内酸性磷酸酶的活性也明显增强。上述结果表明，甘蔗幼苗有较强的吸收利用难溶性磷的能力，而低磷条件下根系数量增加，主根的向地性，浅根系分布增多，根际酸化以及植株体内酸性磷酸酶活性的增强可能是甘蔗幼苗适应缺磷环境的重要机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：甘蔗，低磷胁迫，难溶性磷，根构型，适应机制",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Absorption of poorly soluble phosphorus by sugarcane seedlings and its response to low phosphorus stress ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KE Yel,XIELu1,LANLin1,Pan Junchen1, TANG Xinlian12\\* (1. College of agriculture, Guangxi University, Nanning 530004, China; 2. State Key Laboratory ofProtection and Utilization ofSubtropical Agricultural Biological Resources, Nanning 530004, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The content of total phosphorus in acid soils of south china is high, but the available phosphorus is generally low. Soil phosphorus deficiency is an important factor restricting the growth of sugarcane.It is clear that the physiological and biochemical mechanism of sugarcane adapting to low phosphorus stress and tapping the potential of sugarcane self-phosphorus have to study the absorption of insoluble phosphorus in sugarcane seedlings,and their physiological responses to root and root architecture under low phosphorus stress by hydroponic and pot-culture, important theoretical and practical significance for guiding sugarcane breeding and cultivation management. In this paper, two sugarcane varieties, ROC22 and ROC10, were used as materials so as to reveal the possble mechanisms of sugarcane adaptation to low phosphorus stress.The results showed that: (1) The number of leaves,the dry weight of the shoots and the biomass of sugarcane in the culture medium with insoluble phosphorus (Ca-P and Al-P) as phosphorus source, were significantly higher than those of phosphorus deficiency (-P). Increase, compared with the control $( + \\mathrm { { P } ) }$ , the total phosphorus accumulation of sugarcane also increased significantly, reaching $3 0 \\% - 7 7 \\%$ of the phosphorus accumulation in the control $( + \\mathsf { P } )$ treatment.(2) Under the condition of low phosphorus,the roots of sugarcane seedlings have a tendency to distribute deep into the soil, the total volume of roots increases,the longest root length becomes longer,and the distribution of shallow roots increases. (3) Under the low phosphorus environment, the sugarcane seedlings were obviously acidified in the rhizosphere environment,and the root exudates could dissolve the insoluble aluminum phosphorus,and the activity of acid phosphatase in the plants was also significantly enhanced. The above results indicated that sugarcane seedlings had strong ability to absorb and use insoluble phosphorus,while roots increased under low phosphorus conditions,the roots of the main roots increased, the distribution of shallow roots increased, the acidification of the rhizosphere and the enhancement of acid phosphatase activity in the plants. It may be an important mechanism for sugarcane seedlings to adapt to the phosphorus deficiency environment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: sugar cane,low phosphorus stress, insoluble phosphorus, root-system configuration, adaptive mechanism ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "0前言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "磷素不仅是核酸、蛋白质、磷脂、等有机化合物的重要组成成分，同时又参与植物体内光合与呼吸、酶的活化、信号转导等多种生理过程，对植物的生长发育、产量和品质都具有显著影响(Olday，1972；刘辉，2003)。由于南方酸性土壤对磷的强烈化学固定作用，致使土壤磷素多以Fe-P、Al-P 和 O-P等难溶态存在，即土壤全磷含量高（于姣妲等，2017），但磷肥当季的利用率一般只有 $5 \\% \\sim 2 0 \\%$ （闫金垚，2018），土壤缺磷成了作物生产的主要限制因素之一。植物为了适应土壤中磷素的匮乏，其根系往往会表现出强烈的形态和生理上的反应。孙淼（2018）和韦如萍（2018）等研究发现，作物在低磷胁迫下会发生形态学上的变化，最明显的变化就是根冠比增加，根长增长，根系的覆盖面积扩大，以此增加磷吸收来适应低磷环境。同时，作物根系分泌物对提高土壤磷素的生物有效性具有非常重要的意义（Zou etal.，2018）它可以通过活化溶解难溶性的无机磷以及参与分解有机磷以提高根际有效磷的浓度，供作物吸收利用（梁翠月等，2015）。不少研究结果表明，苜蓿（杨利宁等，2015）、玉米（陶佩琳等，2013）和水稻（Huetal，2016）的根系分泌物都具有提高土壤磷素有效性，促进植物吸收利用难溶性磷酸盐。目前，有关低磷胁迫对甘蔗根系构型的影响、甘蔗对难溶性磷的活化利用的研究尚未见报道，因此，本研究从甘蔗根系形态特征、根系分泌物以及酸性磷酸酶等方面入手，研究甘蔗对低磷胁迫的适用机制。研究为进一步探讨甘蔗耐低磷胁迫的分子机制及培育耐低磷甘蔗品种等均有重要意义。对于节约资源、保护环境和降低甘蔗生产成本也具有一定的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1供试材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供试甘蔗品种为新台糖22号（ROC22）和新台糖10号（ROC10），由广西大学农学院提供。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验处理",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1水培试验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "材料均选取甘蔗中上部，砍 $5 \\mathrm { c m }$ 左右单芽茎，将砍下的甘蔗种茎放置在饱和石灰水中浸泡、催芽、灭菌， $1 2 \\mathrm { h }$ 后取出，在育苗基质中育苗至3片展开叶，然后转移至水培塑料小桶中。幼苗移栽时去掉一半种根，以减少种茎根系对试验的影响。处理时首先用0.1mmolL-1的氯化钙培养一周，以利于甘蔗适应水培环境并生根。然后用1/5霍格兰营养液培养4天（ $\\mathrm { \\cdot } \\mathrm { p H } { = } 6 . 0 \\mathrm { \\cdot }$ ，作为以下试验材料的供试材料。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了解甘蔗幼苗对难溶性磷的吸收能力，试验设计如下四个处理:1/5霍格兰培养液 $( + \\mathbf { P }$ CK， $0 . 2 5 \\ : \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 } \\ : \\mathrm { N H } _ { 4 } \\mathrm { H } _ { 2 } \\mathrm { P O } _ { 4 } )$ 、无磷培养液（-P）、添加 $0 . 2 5 \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 磷酸铝的无磷培养液（ $\\mathrm { \\cdot - P { + } A l { - } P }$ ）、添加 $0 . 2 5 \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 磷酸钙的无磷培养液 $\\left( \\mathrm { - } \\mathrm { P + } \\mathrm { C a } \\mathrm { - } \\mathrm { P } \\right)$ ，将甘蔗幼苗分别培养于上述培养液中，电磁式空气泵每小时通气 $1 5 \\mathrm { m i n }$ ，每隔2d换一次培养液。培养38d后收获。收获前收集根系分泌物，进行分泌物对难溶性磷的络合溶解及原位显色检验。收获时测定株高，叶长，叶宽，叶片数等表型性状。采集正一叶测定酸性磷酸酶，其余地上部和地下部剪碎烘干后测定生物量及磷含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2盆栽试验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了研究不同磷分布对甘蔗幼苗根构型的影响，设置土壤不施磷肥（-P/-P)、上层施磷肥（ $\\scriptstyle \\left( + \\mathrm { P } / - \\mathrm { P } \\right)$ 、下层施磷肥（ $\\mathrm { - } \\mathrm { P } / \\mathrm { + } \\mathrm { P }$ ）和上下层均施磷肥（ $+ \\mathrm { P } / { + \\mathrm { P } } .$ ）处理。上层和下层土厚均为$1 5 \\ \\mathrm { c m }$ ，中间用无纺布隔开，无纺布中间插入2根PVC水管。施磷处理的 $\\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 }$ 用量为0.3$\\mathrm { { g } \\cdot \\mathrm { { k g } ^ { - 1 } } }$ ，不施时为 $0 \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ 。氮肥（N）均为 $0 . 4 \\ : \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ，钾肥（ $\\mathrm { | } \\mathrm { K } _ { 2 } \\mathrm { O }$ ）均为 $0 . 4 4 \\mathrm { g \\cdot k g ^ { - 1 } }$ 。每个处理3个重复，每盆定植2株，80d之后收苗，收苗时将植株根系清洗干净，采用根系扫描-WinRHIZO 图像分析系统，获取根系的最长根长、总体积等二维根构型参数。之后从无纺布处将根系剪断，分上下层收获。剪碎烘干后测定植株根的干重。供试土壤为第四纪红土母质发育的砂质土，全磷 $0 . 1 3 \\mathrm { ~ g \\cdot \\ k g ^ { - 1 } }$ ，速效磷 $0 . 7 9 \\mathrm { m g \\cdot k g ^ { - 1 } }$ ， $\\mathsf { p H } 4 . 6 2$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3指标测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根尖原位显色参照苏宝玲等（2000）的方法。将 $6 \\mathrm { m g }$ 的溴甲酚紫和 $0 . 5 \\mathrm { \\ g }$ 琼脂加入100m $\\mathrm { 1 L 1 m m o l \\cdot L ^ { - 1 } }$ 的 $\\mathrm { C a S O _ { 4 } }$ 溶液中，在电炉上不断搅拌加热至沸腾。在常温下搅拌冷却，并用 $0 . 0 1 \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 的HC1调节 $\\mathsf { p H }$ 至溶液呈暗红色。选取粗细一致的 $+ \\mathrm { P }$ ，-P处理的根系平铺于培养皿中，每个平板中放2条根，然后倒入混合液，冷却凝固制作成厚度均一的平板， $2 \\mathrm { h }$ 后观察根际颜色变化并拍照。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根系分泌物收集方法：水培收获前一天将-P， $+ \\mathrm { P }$ 处理用去离子水洗涤数次，并用0.5$\\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 的 $\\mathrm { C a C l } _ { 2 }$ 培养过夜。次日早上换上同样浓度的 $\\mathrm { C a C l } _ { 2 }$ 继续培养 $2 4 \\mathrm { h }$ 后，于冷库中收集根系分泌物，收集时将培养液依次经过 $\\mathrm { H ^ { + } }$ 型阳离子树脂和甲酸型阴离子树脂。收集完毕后取下阴离子树脂，用超纯水配制的 $0 . 2 \\ \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 } \\mathrm { H C l }$ 分三次（每次HC1用量为 $3 ~ \\mathrm { m L }$ ）洗脱吸附在阴离子树脂中的根系分泌物于 $1 5 0 ~ \\mathrm { m L }$ 的浓缩瓶中，用旋转蒸发仪减压蒸发至干燥。浓缩条件为真空， $4 0 \\ \\mathrm { ^ \\circ C }$ 水浴。残留物用 $1 . 5 ~ \\mathrm { m L }$ 超纯水分三次震荡溶解并用水系微孔膜过滤至 $2 { \\mathrm { m L } }$ 的离心管中，存于 ${ } - 2 0 \\ { } ^ { \\circ } { \\mathrm { C } }$ 冰箱中备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根系分泌物络合铝时所用混合液为： $2 5 \\mathrm { m L } 5 \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 的 $\\mathrm { \\ A l C l { } } _ { 3 }$ ， $4 { \\mathrm { ~ m L } } 2 { \\mathrm { ~ m o l } } \\cdot { \\mathrm { L } } ^ { - 1 }$ 的HC1， $6 7 ~ \\mathrm { m L }$ 超纯水， $1 2 0 ~ \\mathrm { m L }$ 丙酮。将层析滤纸侵入混合液中 $1 5 \\mathrm { m i n }$ ，然后浸没于 $\\mathsf { p H } 6 . 8$ （204号的磷酸缓冲液中， $1 5 \\mathrm { m i n }$ 后取出，用蒸馏水洗涤后干燥备用。在干燥滤纸上分4次加点分泌物，每次 ${ 5 \\mu \\mathrm { L } }$ ，之后晾干浸于pyrocatechol violet 溶液中染色 $5 \\sim 1 0 \\mathrm { m i n }$ 。滤纸经去离子水洗涤多次，除去多余染料，晾干拍照。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "酸性磷酸酶的测定采用McLachlan 等（1987）的方法并略做改动。称取剪碎的正一叶$0 . 2 { \\mathrm { ~ g ~ } }$ ，加入少许石英砂和液氮研磨匀浆，加入 ${ \\mathfrak { s } } _ { \\mathrm { m L } }$ ， $0 . 2 ~ \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 }$ ， $\\mathrm { p H } 5 . 6$ 的醋酸-醋酸钠,转移至 $1 0 ~ \\mathrm { m L }$ 离心管中，10000转离心 $1 0 \\mathrm { m i n }$ ，得上清液备用。反应液为 $0 . 5 \\mathrm { m L }$ 酶液，0.45$\\mathrm { m L }$ 醋酸缓冲液， $4 . 5 \\mathrm { m L }$ ， $5 \\ \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 的对硝基酚磷酸二钠。混匀后 $3 0 \\ \\mathrm { ^ { \\circ } C }$ 黑暗反应 $3 0 \\mathrm { m i n }$ 加入 $2 { \\mathrm { ~ m L } } 2 { \\mathrm { ~ m o l } } { \\cdot } { \\mathrm { L } } ^ { - 1 }$ 的NaOH终止反应， $4 0 5 \\mathrm { n m }$ 下测定OD值。以 $\\mathrm { 1 \\ m m o l \\cdot L ^ { - 1 } }$ 对硝基酚为溶质， $2 \\mathrm { m o l } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的 $\\mathrm { \\Delta N a O H }$ 为溶剂配制标曲。酶活性单位以单位时间单位鲜重水解对硝基酚磷酸二钠生成对硝基酚的量表示，即 $\\scriptstyle \\mathbf { M } = _ { \\mathbf { l } }$ umolNP ·mgPro-1 min-1 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用 Excel处理数据并作图，试验数据均用Excel2007处理，用SPSS17.0 软件进行显著性检验和多重比较（新复极差法）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1难溶性磷对甘蔗幼苗生长的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1显示，经缺磷(-P)处理后两个甘蔗品种的株高、叶长、叶宽和叶片数均较对照 $( + \\mathrm { { P } ) }$ 降低，除了ROC22品种的叶长和 ROC10 品种的株高和叶长没达到显著水平外，其余的均达到显著水平，可见缺磷使甘蔗幼苗生长明显受阻；但添加了难溶性磷后，甘蔗的株高、叶长、叶宽和叶片数较缺磷（-P）处理均增加，其中ROC22品种的叶宽和叶片数达显著水平；品种ROC22的Ca-P处理下的株高、叶长和叶片数与CK $( + \\mathbf { P }$ ）处理的相当，无显著差异。这些结果表明难溶性磷对甘蔗幼苗缺磷状况有所缓解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2也显示，缺磷（-P）处理后的两个甘蔗品种的地上部干重、生物量均较对照 $( + \\mathrm { { P } ) }$ 显著降低，根冠比显著增加（ $\\scriptstyle \\left( \\mathtt { p } < 0 . 0 5 \\right)$ ，其中品种ROC22的地上部以及生物量分别降低了$47 \\%$ 和 $3 8 \\%$ ，根冠比提高了1.3倍，品种ROC10的地上部以及生物量分别降低了 $3 7 \\%$ 和 $30 \\%$ ，根冠比提高0.9倍；在添加了难溶性磷（Ca-P 和Al-P）后，甘蔗的地上部干重、生物量较缺磷（-P）处理显著增加，根冠比显著降低，与对照（ $( + \\mathrm { \\mathbf { P } } )$ ）的相当，无显著差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述结果说明甘蔗幼苗能吸收利用难溶性磷以促进生长，且ROC22品种吸收利用难溶性磷的能力较ROC10 品种强。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1难溶性磷对甘蔗农艺性状的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f7cd660c1426d755b31127b69bf6177fce161e2bb884dc2685f3efa69c1b9151.jpg",
+        "table_caption": [
+            "Table1 Effect of insoluble P on apparent characters s of sugarcanes "
+        ],
+        "table_footnote": [
+            "注：同列数值后小写字母不同，表示差异显著（ $\\scriptstyle P < 0 . 0 5 ,$ 。下同。 Note:Different letters in the same row indicate significant difference at $5 \\%$ level. The same below. "
+        ],
+        "table_body": "<html><body><table><tr><td>品种 Cultivar</td><td>处理 Treatment</td><td>株高（cm）</td><td>叶长（cm） Leaf length</td><td>叶宽（cm） Leaf width</td><td>叶片数（片)</td></tr><tr><td>ROC22</td><td>CK(+P)</td><td>191.8±4.29 a</td><td>130.1±4.01 a</td><td>3.3±0.21 a</td><td>Leaf number 3.5±0.12 a</td></tr><tr><td></td><td>Ca-P</td><td>178.3±6.77ab</td><td>123.6±1.62 ab</td><td>2.8±0.07 b</td><td>3.2±0.26 a</td></tr><tr><td></td><td>Al-P</td><td>174.0±2.02 b</td><td>118.2±2.98 b</td><td>2.6±0.10 b</td><td>3.3±0.03 a</td></tr><tr><td></td><td>-P</td><td>166.9 ±3.25b</td><td>120.5±3.40 ab</td><td>1.6±0.03 c</td><td>2.5±0.03 b</td></tr><tr><td>ROC10</td><td>CK(+P)</td><td>163.7±7.26 a</td><td>114.6±5.48 a</td><td>3.3±0.12 a</td><td>3.2±0.15 a</td></tr><tr><td></td><td>Ca-P</td><td>163.8±4.37 a</td><td>116.8±2.90 a</td><td>3.0±0.06 ab</td><td>3.4±0.10 a</td></tr><tr><td></td><td>Al-P</td><td>149.8±5.43 a</td><td>104.5±4.78 a</td><td>3.0±0.09 ab</td><td>3.0±0.10 ab</td></tr><tr><td></td><td>-P</td><td>147.3±6.21 a</td><td>106.6±4.92 a</td><td>2.7±0.21 b</td><td>2.7±0.12 b</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3856528c321f6f969858cbf1aa4f3f262487a99d38ac46f8f5a9288c8a5bb5b6.jpg",
+        "table_caption": [
+            "Table 2Effect of insoluble $\\mathrm { ~ \\bf ~ P ~ }$ on biomass and root shoot ratio of sugarcanes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>品种 Cultivar</td><td>处理 Treatment</td><td>地上部干重 （g·plant-1)</td><td>根干重 （g·plant1)</td><td>生物量 （g·plant1)</td><td>根冠比 Root shoot ratio</td></tr><tr><td>ROC22</td><td>CK(+P)</td><td>26.37±2.31 a</td><td>Root dry weight 4.06±0.56 a</td><td>Biomass 30.43±2.87 a</td><td>0.15±0.01 b</td></tr><tr><td></td><td>Ca-P</td><td>22.49±3.55 a</td><td>3.60±1.01 a</td><td>26.09±4.54 ab</td><td>0.15±0.02 b</td></tr><tr><td></td><td>Al-P</td><td>21.14±0.53 a</td><td>3.51±0.26 a</td><td>24.65±0.75 ab</td><td>0.17±0.01 b</td></tr><tr><td></td><td>-P</td><td>13.88±0.40 b</td><td>4.87±0.34 a</td><td>18.75±0.42 b</td><td>0.35±0.03 a</td></tr><tr><td>ROC10</td><td>CK(+P)</td><td>22.87±0.76 a</td><td>3.26±0.13 a</td><td>26.13±0.84 a</td><td>0.14±0.00 b</td></tr><tr><td></td><td>Ca-P</td><td>20.90±0.07 a</td><td>2.79±0.23 a</td><td>23.69±0.20 a</td><td>0.13±0.01 b</td></tr><tr><td></td><td>Al-P</td><td>19.65±1.16 a</td><td>2.86±0.24 a</td><td>22.50±1.56 a</td><td>0.15±0.02 b</td></tr><tr><td></td><td>-P</td><td>14.31±1.33 b</td><td>3.96±0.71 a</td><td>18.28±1.91 b</td><td>0.27±0.04 a</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2甘蔗对难溶性磷的吸收和利用",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1表明，各处理总磷积累量间均差异显著（ $. P { < } 0 . 0 5 )$ ，ROC22 的Ca-P、Al-P和-P处理分别较CK（ $\\left( + \\mathrm { P } \\right)$ ）处理减少了 $32 \\%$ 、 $70 \\%$ 和 $92 \\%$ ，ROC10的各处理分别较CK（ $+ \\mathrm { P } )$ ）处理减少了 $2 3 \\% 6 3 \\%$ 和 $91 \\%$ ，这表明甘蔗幼苗对难溶性磷和可溶性磷的利用上存在差异。ROC22和ROC10的 $\\mathrm { C a } \\mathrm { - } \\mathrm { P }$ 、Al-P处理的总磷积累量较-P处理显著提高，分别是-P处理的8.5、3.8倍和8.9、4.2倍。这表明甘蔗具有较强的利用难溶性磷酸盐的能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在磷的利用效率上（图2)， $\\mathbf { C a - P }$ 处理和对照处理相当，而A1-P处理较Ca-P处理和对照处理有显著提高（ $_ { \\cdot \\mathrm { p } < 0 . 0 5 ) }$ ，品种ROC22分别提高了1.7、1.2倍，品种ROC10分别提高了1.4、1.0倍，与Ca-P相比，甘蔗能更好的利用Al-P。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5da881b945f60898abf03a150869e3242f359b17ccd448492266ee92a636e878.jpg",
+        "img_caption": [
+            "图1甘蔗的磷吸收量 (mg/plant)Fig.1P accumulation of sugarcane"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2712b47b48095959fcc2dcffce6ad7a45b9bee5ec78fb33ce6a880f06506288.jpg",
+        "img_caption": [
+            "图2甘蔗磷利用效率",
+            "Fig.2 P use efficiency of sugarcane "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3甘蔗对低磷胁迫适应的可能机制",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1不同处理对甘蔗根系的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3 显示，低磷胁迫对甘蔗根系的分布以及生长有显著影响。不施磷处理（-P/-P）较其他处理相比，甘蔗幼苗根系的总体积和最长根长均明显提高，其中（ $+ \\mathrm { P } / { - \\mathrm { P } } .$ ）及（-P/-P)处理的根系总体积达显著水平；ROC22和ROC10两品种仅上层施磷（ $+ \\mathrm { P / - P } .$ ）处理的根系总体积和最长根长也较仅下层施磷处理！ $( - \\mathrm { P } / { + \\mathrm { P } } ) \\dot { }$ ）的明显增加，根系总体积分别增加了 $2 8 . 9 \\%$ 和 $8 . 4 \\%$ ，最长根长分别增加了 $4 . 5 \\%$ 和 $2 1 . 0 \\%$ ；且上层施磷 $\\left( + \\mathrm { { P / - P } } \\right)$ 处理的ROC22和ROC10的上下层根干重较仅下层施磷 $( - \\mathrm { P } / + \\mathrm { P }$ ）处理的显著提高。上述结果表明，低磷条件下甘蔗根系总体积增加、主根加深、以浅根系分布主，呈浅层根系吸磷的构型。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce6bc0974f2d8080d71148797cb683f0d1c53348aeb66c893da027325d3cd34d.jpg",
+        "table_caption": [
+            "表3不同土层供磷下甘蔗的根系",
+            "Table 3 Root under different soil P supply of sugarcanes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>品种 Cultivar</td><td>处理 Treatment</td><td>上下层根干重比 Upper and lower ratio</td><td>根总体积（cm） Root volume</td><td>最长根长（cm） The longest root</td></tr><tr><td></td><td></td><td>of root</td><td></td><td></td></tr><tr><td>ROC22</td><td>+P/+P</td><td>1.08±0.04 a</td><td>92.7±5.70 b</td><td>82.7±4.37 b</td></tr><tr><td></td><td>+P/-P</td><td>1.12±0.04 a</td><td>123.3±1.67 a</td><td>100.2±3.35 ab</td></tr><tr><td></td><td>-P/+P</td><td>1.01±0.07 a</td><td>87.7±8.09 b</td><td>95.7±10.17 ab</td></tr><tr><td></td><td>-P/-P</td><td>0.79±0.09 b</td><td>140.0±2.89 a</td><td>122.3±15.62 a</td></tr><tr><td>ROC10</td><td>+P/+P</td><td>1.52±0.05 a</td><td>58.3±4.41 b</td><td>63.7±3.18 b</td></tr><tr><td></td><td>+P/-P</td><td>1.31±0.06a</td><td>80.0±2.89 a</td><td>78.5±1.04 ab</td></tr><tr><td></td><td>-P/+P</td><td>1.17±0.09 b</td><td>73.3±4.41 ab</td><td>62.0±1.00 b</td></tr><tr><td></td><td>-P/-P</td><td>1.14±0.02 b</td><td>78.3±6.57 a</td><td>87.7±12.35 a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2缺磷诱导根际酸化及根系分泌物对难溶性磷的溶解从图3可以看出， $+ \\mathrm { P }$ 处理的甘蔗根系周围的溴甲酚紫的琼脂平板颜色无明显变化，而-P 处理的甘蔗根尖周围呈现明显的黄色，表明低磷胁迫下的甘蔗根尖有酸性物质分泌，使根尖明显酸化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "邻苯二酚紫染色一试纸法（图4）的结果表明，甘蔗幼苗经-P处理后所收集的根系分泌物能溶解滤纸上的 $\\mathrm { \\ A l P O _ { 4 } }$ 而呈亮斑，而 $\\mathrm { + P }$ 处理的根系分泌物并不能溶解 $\\mathrm { \\ A l P O _ { 4 } }$ ，可见低磷胁迫下，甘蔗根系的分泌物能溶解难溶性的铝磷，从而促进磷的吸收。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1f955073ffa7c60135d37f34877ff5d76211ce46237595a7256be3c7d230cfa.jpg",
+        "img_caption": [
+            "图3低磷胁迫对甘蔗根际酸化作用"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/135d53899d90548d4d8bfa973fb67e24f751d52631df75eafc02c8a5f45ce424.jpg",
+        "img_caption": [
+            "Fig.3 The effect of low phosphorus stress on root acidification of sugarcane ",
+            "图4根系分泌物对铝的络合溶解",
+            "Fig.4 Complexation of aluminum by root secretions "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.3低磷胁迫对甘蔗酸性磷酸酶的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图5可以看出，在-P处理下，ROC22和ROC10 的叶片中酸性磷酸酶的活性分别达到了 $2 9 . 5 4 \\mu \\mathrm { m o l N P \\cdot m g P r o ^ { - 1 } \\cdot m i n ^ { - 1 } }$ 和 $3 6 . 0 1 \\mu \\mathrm { m o l N P \\cdot m g P r o ^ { - 1 } \\cdot m i n ^ { - 1 } }$ ，与 $+ \\mathrm { P }$ 处理相比，显著提高了4.3 和2.5倍。结果表明甘蔗幼苗在缺磷的情况下，体内酸性磷酸酶的活性会显著增加。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c00d07d0748732660ee389cce0343f2961062e1a040d3a3ca158e8c3d7b1498.jpg",
+        "img_caption": [
+            "图5难溶性磷处理下甘蔗叶片酸性磷酸酶活性差异",
+            "Fig.5Acid phosphatase activity in leaves of sugarcane under insoluble P "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1甘蔗幼苗对难溶性磷的吸收利用",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在南方酸性红壤中，磷极易与铝、铁等结合形成难溶性磷，一般而言，植物无法直接吸收利用这部分磷源，因此难溶性磷的活化溶解是植物吸收磷和提高磷利用率的前提。本研究发现，不同甘蔗品种的难溶态磷利用效率存在差异，前人在桉树和水稻的研究也有相似结论（翁彩凤等，2014；李锋等，2003）。在对比不同磷处理间甘蔗的生理特征时发现，以难溶性磷（Ca-P和AI-P）作为磷源的两个甘蔗品种的叶片数、地上部干重、生物量较缺磷（-P)处理显著增加，与对照（ $\\mathrm { + } \\mathrm { P }$ ）的相当（表1、2)，且甘蔗总磷积累量也较缺磷（-P）处理显著提高，达到对照 $( + \\mathrm { { P } ) }$ ）处理磷积累量的 $30 \\% - 7 7 \\%$ (图1)，这些结果说明甘蔗幼苗有较强的活化和利用难溶性磷酸盐的能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2甘蔗幼苗对低磷胁环境的适应及可能机制",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根系是联系作物与土壤的纽带，是作物吸收养分、水分的重要器官。根系在对环境养分变化的感知过程中，面对养分胁迫可产生形态和生理上的可塑性变化来增强作物的自主适应性（罗佳，2016)。已有研究表明，在低磷胁迫下，一些植物的根系变浅、侧根长度和密度增加、总根长增加、主根加深，形成浅层根系吸磷、深扎主根吸水吸肥的\"伞状\"或\"须状\"根系构型提高植株对土壤磷的吸收利用（翁彩凤等，2014；George etal，2011；Rouached et al,2010；高家合，2010；刘灵，2008）。甘蔗在面对低磷胁迫时，甘蔗也会通过改变其根构型与各种根系性状等来适应逆境环境，如总根长增加或保持一定的稳定，其主要原因是由于根茎粗下降、根变细，这是植物对环境的适应性的一种表现，即通过增加根系的长度来缩短养分离子扩散到植物根的距离和扩大根系的吸收面积。（郑超等，2015；曾巧英等，2015）本研究也发现，低磷条件下的甘蔗幼苗根构型也做出相应的改变，其根系的总体积与最长根长明显增长，上层土壤供磷后处理的甘蔗上下土层中的根干重比也显著增加，表明甘蔗在面对低磷胁迫时，根系总体积增加，表层土壤根系数量增多，主根有向深层土壤分布的趋势。甘蔗这种根系特性的变化，既有利于在低磷环境下吸收更多的磷，也有利于幼根对深层磷的吸收利用。可见，调节根系对不同土层磷的吸收利用可能是甘蔗适应酸性低磷土壤环境的重要机制。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "难溶性磷的活化利用包括植物根系合成和分泌有机酸对无机磷的活化以及植物分泌酸性磷酸酶参与有机磷的活化（梁翠月等，2015)。本研究结果发现，低磷胁迫会使甘蔗幼苗根系分泌酸性物质，酸化根际（图2)，而且根系分泌物的酸性物质会溶解难溶性的铝磷(图3)，从而变成可溶性磷被甘蔗吸收利用，说明根际酸化是植物适应磷胁迫环境的重要机制。这与兰忠明对紫云英（兰忠明等，2012）和陶佩琳对玉米（陶佩琳等，2013）的研究结果相一致。酸性磷酸酶在植物面对低磷胁迫时起到重要作用（Caietal,2018)，本研究发现，甘蔗幼苗在低磷胁迫时，植株体内的酸性磷酸酶活性明显增加，这主要是因为酸性磷酸酶能够水解有机磷，释放出能够被植物吸收利用的无机磷。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上所述，甘蔗幼苗吸收利用难溶性磷酸盐的能力较强，在低磷条件下，甘蔗根系总体积增加、主根加深、浅根系分布增多，分泌酸性物质酸化根际土壤环境以活化利用难溶性磷，提高酸性磷酸酶的活性可能是甘蔗对低磷胁迫的适用性机制。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CAI Z, CHENG Y, XIAN P,et al, 2018. Acid phosphatase gene GmHAD1 linked to low phosphorustolerancein soybean， through fine mapping[J]. TheorAppl Genet, 131:1715-1728.   \nGAO JH, DENG BE, ZENG XC, et al, 2010. Genotypic differences of phosphorus efficiency in tobacco and their relationship with root morphology and architecture[J]. J NW Bot, 30 (8): 1606 -1613.[高家合，邓碧儿，曾秀成，等，2010.烟草磷效率的基因型差异及其与根 系形态构型的关系[J]．西北植物学报，30(8):1606-1613.]   \nGEORGE TS,FRANSSON AM, HAMMOND JP, et al, 2011. Phosphorus nutrition rhizosphere processes， plant response and Adaptations[M]// BUNEMANN EK， OBERSONA, FOSSARD E, Phosphorus In Action: Biological processes in soil phosphorus cycling. New York: Springer: 245-271.   \nHU X,SHI C，DING Y，et al，2016.Response of Gene Expression Related to Efficient Phosphorus Absorption and Utilization to Low-P Stress in Rice Roots[J]. Chin JRice Sci:1001-7216.   \nLAN ZP, LIN XJ, ZHANG WG, et al, 2012. Effects of phosphorus deficiency on root exudates production and insoluble phosphorus activation of Chinese milk vetch [J]. Chinese Agricultural Sciences,45(8):1521-1531.[兰忠明，林新坚，张伟光，等，2012.缺磷对 紫云英根系分泌物产生及难溶性磷活化的影响[J].中国农业科学，45(8):1521-1531.]   \nLI F,QU XY,PAN XH, et al, 2003.Preliminary study on the utilization of insoluble phosphorus by different rice varieties [J].Acta Plant Nutr Fert,(4): 420-424.[李锋，曲雪艳，潘晓华, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "等，2003.不同水稻品种对难溶性磷利用能力的初步研究[J].植物营养与肥料学报，(4):420-424.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LIANG CY,LIAO H, 2015. Mechanism of plant roots responding to low phosphorus stress [J].Life Sciences,27(3):389-397.[梁翠月，廖红，2015.植物根系响应低磷胁迫的机理研究[J]．生命科学，27(3):389-397.]LIU H, 20o3. Studies on the growth response and physiological and biochemical mechanisms ofbarley and wheat to low phosphorus stress[D]. Chongqing: Southwest AgriculturalUniversity:6-16.[刘辉，2003．大麦和小麦对低磷胁迫的生长反应及其生理生化机制研究[D].重庆：西南农业大学：6-16.]LIU L, LIAO H, WANG XR, et al, 2008. Adaptive changes of soybean root architectures to lowphosphorus and their relationship with phosphorus efficiency[J]. Chin Agric Sci, 41 (4):  \n1089-1099.[刘灵，廖红，王秀荣，等，2008．不同根构型大豆对低磷的适应性变化及其与磷效率的关系[J]．中国农业科学，41(4)：1089-1099.]LUO J， HOU YY,CHENG JH, et al, 2016.Root morphological characteristics of differentphosphorus efficiency genotypes of cotton under low phosphorus stress [J]. Chin Agric Sci,  \n49(12):2280-2289.[罗佳，候银莹，程军回，等，2016.低磷胁迫下不同磷效率基因型棉花的根系形态特征[J]．中国农业科学，49(12)：2280-2289.]Olday FC，1972.Mineral Nutrition of Plants Mineral Nutrition of Plants: Principles andPerspectives Emanuel Epstein[J]. Bioscience, 22(12):739-739.Rouached H, Arpat A B, Poirier Y, 2010. Regulation of phosphate starvation responses in plants:signaling players and cross talks.Molecular Plant, 3(2):288-299.SHEN H, YANG CY,Fan XW, et al, 2004. Activation of insoluble phosphorus by root exudatesand root cell walls of soybean [J].Eco-environment,(4): 633-635.[沈宏，杨存义，范小威,等，2004.大豆根系分泌物和根细胞壁对难溶性磷的活化[J]．生态环境，(4):633-635.]SUN M, LI PC, Zheng CS, et al, 2018.Effects of low phosphorus stress on root morphology andphysiological characteristics of different genotypes of cotton seedlings [J]. Acta Cott, 30 (1):  \n45-52.[孙淼，李鹏程，郑苍松，等，2018.低磷胁迫对不同基因型棉花苗期根系形态及生理特性的影响[J]．棉花学报，30(1)：45-52.]TAO PL,LIU HH, DENG H, et al, 2013. Absorption and utilization of insoluble phosphate indifferent genotypes of Maize under low phosphorus stress [J]. China Agricultural Bulletin,  \n29 (24):28-35.[陶佩琳，刘寒寒，邓红，等，2013.低磷胁迫下不同基因型玉米对难溶性磷酸盐的吸收和利用[J]．中国农学通报，29(24)：28-35.]WEI RP, HU DH, Chen JH et al, 2018. Response of root morphology and nutrient utilization ofchinese fir clones to low phosphorus stress[J]. J Nanjing For Univ (Nat Sci Ed),42 (2): 1-8.[韦如萍，胡德活，陈金慧，等，2018.低磷胁迫下杉木无性系根系形态及养分利用响应研究[J].南京林业大学学报(自然科学版)，42(2):1-8.]WENG CF, TANG J,WU LJ, et al, 2014. The uptake of insoluble phosphorus by eucalyptusseedlings and the response of their roots to low phosphorus stress [J].Journal of NorthwestBotany,34(5):970-975.[翁彩凤，唐健，吴柳杰，等，2014.桉树幼苗对难溶性磷的吸收及其根系对低磷胁迫的响应[J].西北植物学报，34(5)：970-975.]YAN JB,LU JM, HOU WF,et al, 2018. Effects of phosphorus fertilizer consumption on yield andphosphorus fertilizer utilization rate of different rice varieties [J]. Chin Agric Sci TechnolRep,20 (8):74-81.[闫金垚，鲁君明，侯文峰，李小坤，2018.磷肥用量对不同水稻品种产量和磷肥利用率的影响[J].中国农业科技导报，20(8)：74-81.]  \nYANG LN,AOTEGEN BY,LI QF,et al, 2015. Effects of alfalfa root exudates on insolublephosphorus in soil[J].Grass Sci,32(8):1216-1221.[杨利宁，敖特根·白银，李秋凤，等,2015.苜蓿根系分泌物对土壤中难溶性磷的影响[J].草业科学，32(8)：1216-1221.]  \nYU D, LI Y, YIN DY, et al, 2017. Response and physiological adaptation mechanism of Chinesefir to low phosphorus stress [J].Forestry Science,30 (4): 566-575.[于姣妲，李莹，殷丹阳,等，2017.杉木对低磷胁迫的响应和生理适应机制[J].林业科学研究，30(4)：566-575.]  \nZENG QY, JIANG Y,HUANG Y, et al, 2015.Differences in response of diferent sugarcanestrains to nutrient stress [J]. Guangdong agricultural science, 42(12): 38-43.[曾巧英，江永,黄莹，等，2015.不同甘蔗品系对养分胁迫响应的差异研究[J].广东农业科学，42(12)：38-43.]  \nZHENG C,LI QW,HUANG ZR, et al, 2015. Effects of phosphorus levels on root traits ofdifferent genotypes of sugarcane at seedling stage [J]. Trop Agric Sci, 35(2): 1-7.[郑超，李奇伟，黄振瑞，等，2015.磷水平对不同基因型甘蔗苗期根系性状的影响[J].热带农业科学，35(2):1-7.]  \nZOU X,WEI D,WU P,et al, 2018. Strategies of organic acid production and exudation inresponse to low-phosphorus stress in Chinese fir genotypes differing in phosphorus-useefficiencies, Trees,32: 897-912.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

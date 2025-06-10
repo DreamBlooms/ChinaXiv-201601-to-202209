@@ -1,0 +1,532 @@
+[
+    {
+        "type": "text",
+        "text": "长距离高铁对沿线城市旅游经济联系的空间影响及角色分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以兰新高铁为例",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孔令章'，李晓东'，白洋²，江瞳²(1新疆大学资源与环境科学学院,新疆乌鲁木齐830046；2 新疆大学旅游学院,新疆乌鲁木齐830046)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在GIS技术支持下，基于旅游交通可达性视角，构建旅游经济联系模型,运用社会网络分析方法，确定沿线城市在旅游经济联系网络中的角色，结果表明：高铁时空压缩效应促使沿线城市旅游交通可达性和旅游经济联系普遍提升，但提升幅度具有空间差异性，廊道东侧城市优于西侧城市,各省区旅游经济基础较好城市优于基础较差城市；旅游网络结构日趋紧密，城市间旅游互动与合作逐渐频繁，区域旅游经济联系呈现协调发展趋势。深入剖析9个城市的网络角色对兰新廊道旅游空间发展模式提出相关建议：沿线地区应充分发挥乌鲁木齐、兰州核心城市的功能，同时利用酒泉次核心的集聚与扩散作用，发挥嘉峪关、张掖、西宁重要旅游目的地的承转作用，带动吐鲁番、海东、哈密等边缘城市，打造西北“旅游 $^ +$ 高铁”丝绸之路黄金线。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：兰新高铁；高铁旅游；可达性；旅游经济联系；社会网络分析文章编号： 1000 -6060(2019)03-0681-08(0681\\~0688)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高铁凭借其快速、便捷、安全和高效等优势，在压缩城市间时空距离，提升旅游交通可达性，促进旅游要素流动、优化旅游经济联系网络结构等方面具有重要意义[1-2]。近年来,随着我国高铁网络的不断完善，“高铁 $^ +$ 旅游”已逐渐成为当今学术界探讨的热点问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "纵观已有文献，国外学者对“高铁 $^ +$ 旅游”的研究较早，MASSONS和PETIOTR的研究表明高铁是增强区域旅游吸引力的重要因素[3]；ANDRESL发现高铁可以增加旅游出行频率，拉动旅游需求等[4]。国内学者对于高铁与旅游的研究主要集中在以下三个方面：第一，高铁对旅游交通可达性的影响。穆成林等在高铁网络背景下研究长三角旅游交通格局的演变[5]。第二,高铁对都市圈旅游空间格局的影响研究。汪德根以京沪高铁为例，探讨了高铁驱动型区域都市圈旅游空间结构优化[6]。第三：高铁对旅游者行为意向的影响。许春晓等归纳总结了长沙市居民乘高铁出游的行为意向[7]。综上所述，学术界关于高铁与旅游的探讨对象多以短距离或省域高铁为主;区域多锁定于东中部高铁网络较发达地区，对西北欠发达地区关注较少，缺乏地域代表性;且在兰新高铁背景下利用社会网络分析确定沿线城市在旅游经济联系网络中角色的研究尚不多见。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鉴于此，选取兰新高铁作为研究对象，在GIS技术支撑下，基于旅游交通可达性视角，构建旅游经济联系模型，运用社会网络分析方法，确定沿线城市在旅游经济联系网络中的地位及其功能，结论可为西北地区“高铁 $^ +$ 旅游”廊道发展提供理论依据和决策参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区域与数据来源",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "兰新高铁全长 $1 7 7 7 ~ \\mathrm { k m }$ ,东从甘肃兰州引出，途径青海西宁、海东;甘肃张掖、酒泉、嘉峪关;新疆哈密、吐鲁番、向西引入乌鲁木齐。沿途分布河湟、雪域、丝路、长城、西域等众多旅游业态，涵盖喀纳斯、麦积山、青海湖等15处国家5A级旅游景区，是多种文化聚合的一条黄金旅游线路[8-9]。研究区域如图1。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc2e59bb9e0b59db53b8ba2e97e62d8edaf19ad35b756178b049905acec4fc36.jpg",
+        "img_caption": [
+            "图1研究区域",
+            "Fig.1Research region "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/12f8e197b7c6476d03d54c2ee791ed7e662f17f132c82ca422d72dc4988e194f.jpg",
+        "table_caption": [
+            "表1高铁开通前后沿线城市最短旅行时间／min Tab.1Shortest travel time of cities along the line before and after the opening of the high-speed rail "
+        ],
+        "table_footnote": [
+            "注：左下表示开通前的数据；右上表示开通后的数据"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>吐</td><td>哈密</td><td>嘉</td><td>酒泉</td><td>张掖</td><td>西宁</td><td>海东 兰州</td></tr><tr><td>乌鲁木齐</td><td>0</td><td>54</td><td>171</td><td>370</td><td>393</td><td>458</td><td>586 621</td><td>662</td></tr><tr><td>吐鲁番</td><td>81</td><td>0</td><td>114</td><td>313</td><td>336</td><td>401</td><td>529 564</td><td>605</td></tr><tr><td>哈密</td><td>300</td><td>215</td><td>0</td><td>183</td><td>201</td><td>273</td><td>399 435</td><td>475</td></tr><tr><td>嘉峪关</td><td>665</td><td>580</td><td>355</td><td>0</td><td>12</td><td>72</td><td>189 207</td><td>265</td></tr><tr><td>酒泉</td><td>723</td><td>629</td><td>396</td><td>19</td><td>0</td><td>66</td><td>175 202</td><td>251</td></tr><tr><td>张掖</td><td>836</td><td>740</td><td>498</td><td>122</td><td>112</td><td>0</td><td>107 125</td><td>182</td></tr><tr><td>西宁</td><td>935</td><td>850</td><td>625</td><td>262</td><td>223</td><td>132</td><td>14</td><td>72</td></tr><tr><td>海东</td><td>968</td><td>883</td><td>658</td><td>295</td><td>256</td><td>165</td><td>31 0</td><td>64</td></tr><tr><td>兰州</td><td>1 112</td><td>1 027</td><td>802</td><td>439</td><td>447</td><td>335</td><td>162 124</td><td>0</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到研究的可对比性，选取乌鲁木齐、吐鲁番、哈密、嘉峪关、酒泉、张掖、西宁、海东、兰州9个地级市作为研究单元，以2012—2013年、2015—2016年9地市旅游总人次、旅游总收入的平均值作为衡量高铁开通前后旅游经济联系的主要经济指标。同理，分别选取2012—2013年、2015—2016年9地市间最短旅行时间的平均值作为高铁开通前后的最短旅行时间，数据来源于2012、2013、2015、2016年各城市统计局公布的国民经济与社会发展统计公报。两两城市间旅行时间的确定以火车票订票系统12306官方网站为依据（表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 旅游交通可达性模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "借鉴李瑞等[10]、杨金华等[1]、郭伟等12]等人提 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "出的采用交通成本的加权平均旅行时间构建旅游交通可达性模型，具体的计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { i } \\ = \\ { \\frac { \\displaystyle \\sum _ { j = 1 } ^ { n } ( T _ { i j } \\times M _ { j } ) } { \\displaystyle \\sum _ { j = 1 } ^ { n } M _ { j } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\ _ { ! } A _ { i }$ 为城市 $i$ 的交通可达性; $T _ { _ { i j } }$ 是 $\\mathbf { \\chi } _ { i }$ 城市到达 $j$ 城市的最短旅行时间； $M _ { j }$ 是目的地 $j$ 城市的年旅游总收入。 $A _ { i }$ 值越小，可达性越高，反之越低。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 旅游经济联系模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "旅游经济联系模型根据引力模型修正而来，不仅可以反映旅游目的地城市与客源地城市的旅游发展水平，又能体现两城市距离远近对旅游经济联系的影响。计算公式为[13]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { i j } = { \\frac { { \\sqrt { P _ { i } V _ { i } } } { \\sqrt { P _ { j } V _ { j } } } } { { D _ { i j } } ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i } = \\ \\sum _ { j = 1 } ^ { n } R _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { i \\setminus } P _ { j }$ 分别表示 $\\mathbf { \\chi } _ { i }$ 城市和 $j$ 城市的旅游接待总人次（单位为 $1 0 ^ { 4 }$ 人次）， $V _ { i \\setminus } V _ { j }$ 分别表示 $i$ 城市和 $j$ 城市的旅游总收入（单位为 ${ 1 0 } ^ { 8 }$ 元）， $D _ { i j }$ 代表 $i , j$ 两城市之间的最短旅行时间（单位为 $\\operatorname* { m i n }$ ）。 $R _ { i j }$ 是旅游经济联系量，反映了城市之间旅游经济联系程度及紧密度， $C _ { i }$ 为 $i$ 城市的旅游经济联系总量,反映了城市在区域旅游中的地位和作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3旅游经济联系网络模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "社会网络分析方法从全新的视角研究旅游经济网络中各城市间的空间演变关系，不仅能反映个体在网络结构中的地位，也能揭示整体网络的结构特征,从而确定各城市在网络中的角色[14-15]。本文选取网络密度、网络中心度、核心一边缘模型等指标深入剖析兰新高铁沿线城市旅游经济联系网络的结构特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）网络密度网络密度指旅游经济联系网络中实际存在的关系数量与理论上可能存在的关系数量之比，用来揭示网络结构的整体紧密度。网络密度越大，网络中各旅游城市间的联系越紧密。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）网络中心度网络中心度一般包括点度中心度、中间中心度、接近中心度。点度中心度，用来衡量旅游城市自身的交际能力，度数越高，该城市中心性越明显。中间中心度测量城市在多大程度上位于其他城市的“中间”，其值越大，控制其他城市的能力就越强。接近中心度主要衡量城市间的距离关系，其值越大，表明城市旅游经济联系的畅通程度越强。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）核心一边缘模型与角色分析核心一边缘模型用来反映某一城市在网络中所处的位置，判断哪些城市处于核心位置，哪些处于边缘位置。角色分析的目的用来区分具有若干相似结构职位、功能城市之间的关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1城市旅游交通可达性结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用公式(1)测算出兰新高铁运营前后沿线9城市的旅游交通可达性（表2），运用ArcGIS反距离加权差值技术模拟出沿线城市旅游交通可达性空间演变格局（图2）。按照城市旅游交通可达性数值越高，其可达性越低这一原则不难发现,高铁运营前，沿线城市旅游交通可达性整体水平较低，跨度区间为[421-924]，其中乌鲁木齐、兰州、吐鲁番是可达性低值区，数值均超过 $5 0 0 ~ \\mathrm { { m i n } }$ ,嘉峪关、张掖、海东相比其他城市可达性较优，成为可达性高值区，这与经济发展水平呈明显的负相关。高铁运营后，沿线城市可达性明显提升，跨度区间降低至「231-524]，平均值由 $5 5 6 \\ \\mathrm { m i n }$ 缩短至 $3 1 4 ~ \\mathrm { m i n }$ ,减少率约为 $43 \\%$ ，按压缩幅度降序依次排列为：张掖 $>$ 兰州 $>$ 酒泉 $>$ 嘉峪关 $>$ 西宁 $>$ 乌鲁木齐 $>$ 海东 $>$ 哈密$>$ 吐鲁番。由此可见，高铁产生的时空压缩效应促使沿线城市旅游交通可达性显著提升，但其改善程度具有不均衡性。从区域整体来看，线路首端城市的提升幅度大于末端城市，从各省区来看，旅游经济基础较好的城市旅游交通可达性水平提升幅度更明显。由上分析可知，兰新高铁运营后城市经济发展水平因素对旅游交通可达性的影响已然超越旅行时间对旅游交通可达性的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/75ce439a63e611b634d901f442b0ab6924f045d862afc90a9aa24c9bf757571c.jpg",
+        "table_caption": [
+            "表2高铁运营前后旅游交通可达性变化",
+            "Tab.2Changes of tourism traffic accessibility before and after the high-speed rail "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>沿线城市</td><td>运营前</td><td>运营后</td><td>差值</td><td>减少率／%</td><td>排名</td></tr><tr><td>乌鲁木齐</td><td>924.30</td><td>524.28</td><td>400.03</td><td>43.28</td><td>6</td></tr><tr><td>吐鲁番</td><td>587.12</td><td>379.91</td><td>207.21</td><td>35.29</td><td>9</td></tr><tr><td>哈密</td><td>484.87</td><td>308.59</td><td>176.27</td><td>36.35</td><td>8</td></tr><tr><td>嘉峪关</td><td>420.62</td><td>230.93</td><td>189.69</td><td>45.10</td><td>4</td></tr><tr><td>酒泉</td><td>483.96</td><td>259.69</td><td>224.28</td><td>46.34</td><td>3</td></tr><tr><td>张掖</td><td>466.90</td><td>234.42</td><td>232.47</td><td>49.79</td><td>1</td></tr><tr><td>西宁</td><td>488.17</td><td>269.95</td><td>218.23</td><td>44.70</td><td>5</td></tr><tr><td>海东</td><td>444.52</td><td>254.41</td><td>190.11</td><td>42.77</td><td>7</td></tr><tr><td>兰州</td><td>703.21</td><td>372.59</td><td>330.62</td><td>47.02</td><td>2</td></tr><tr><td>平均值</td><td>555.97</td><td>314.97</td><td>240.99</td><td>43.35</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 旅游经济联系度变化分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高铁运营前，沿线城市间旅游经济联系强度整体较低且差异明显（表3），线路首端城市（嘉峪关、酒泉、张掖、西宁、海东、兰州)形成旅游经济联系相对紧密区，嘉峪关一酒泉旅游经济联系强度值最高，两地距离较近，同城效应早已凸显。吐鲁番一海东、哈密-海东联系最低，仅为0.01，哈密、海东旅游经济基础薄弱且处于沿线边缘，仅接受单项旅游要素流动，依赖性较强;吐鲁番虽然旅游资源丰富但交通限制较大，旅游发展多局限与距离较近的乌鲁木齐形成“半日游”或“一日游”模式，旅游经济实现能力与旅游资源潜力难成正比。高铁运营后，区域整体旅游经济联系强度大幅提升，数值在两位数以上的城市对由2个增至10个。酒泉一嘉峪关的旅游经济联系强度上升至644.68，紧随其后的是西宁一海东、兰州一西宁，强度值均超过三位数，这表明随着城市旅游交通可达性的提升，旅游经济联系也随之增强。强度最低的是海东一哈密，仅为0.09，与最高值相差7000多倍，高铁虹吸效应初现端倪，日后在制定高铁旅游廊道发展规划时，如何实现区域旅游产业协调发展,避免边缘区特色旅游城市被冷落是日后考虑的重点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由旅游经济联系总量空间格局图（图3）可知，高铁运营前，沿线城市旅游经济联系总量整体偏低，嘉峪关、酒泉凭借优越的地理位置名列前茅，西宁、海东次之，末端(乌鲁木齐、吐鲁番、哈密)城市地缘偏远，旅游经济联系总量较低。运营后，旅游经济联系总量高值区明显增多，嘉峪关、酒泉、张掖、西宁、海东、兰州联系总量均超过三位数，乌鲁木齐、哈密、吐鲁番联系总量增加幅度均超过10倍，尽管总体格局没有发生显著变化，但旅游经济联系增加率空间变化明显，廊道首端城市旅游经济联系总量变率明显强于廊道末端，哈密凭借“桥头堡”的地理位置优势及努力打造成为“新疆副中心城市，一级综合交通枢纽和重要增长极”这一重要目标，旅游经济联系总量提升明显。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3旅游经济联系网络分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.1网络密度 运用 Network/Cohesion/Density模块测算网络密度。高铁运营前，网络密度为0.1528，区域整体处于弱联系状态，首端强，末端",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/101b8dfb8986aeabe7ed189e5fe496b19dd894ff7f6ec531cd75de6c72ea3919.jpg",
+        "table_caption": [
+            "表3高铁运营前后沿线城市旅游经济联系度",
+            "Tab.3Tourism economy connection degree before and after the opening of high-speed rail "
+        ],
+        "table_footnote": [
+            "注：左下部分为开通前数据，右上部分为开通后数据"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>乌鲁木齐</td><td>吐鲁番</td><td>哈密</td><td>嘉峪关</td><td>酒泉</td><td>张掖</td><td>西宁</td><td>海东</td><td>兰州</td><td>合计</td></tr><tr><td>乌鲁木齐</td><td></td><td>52.61</td><td>2.09</td><td>1.02</td><td>3.25</td><td>1.70</td><td>1.40</td><td>0.38</td><td>2.56</td><td>65.02</td></tr><tr><td>吐鲁番</td><td>6.05</td><td></td><td>0.95</td><td>0.29</td><td>0.90</td><td>0.45</td><td>0.35</td><td>0.09</td><td>0.62</td><td>56.27</td></tr><tr><td>哈密</td><td>0.24</td><td>0.04</td><td></td><td>0.34</td><td>1.00</td><td>0.39</td><td>0.24</td><td>0.06</td><td>0.40</td><td>5.48</td></tr><tr><td>嘉峪关</td><td>0.11</td><td>0.01</td><td>0.02</td><td></td><td>644.68</td><td>12.72</td><td>2.49</td><td>0.64</td><td>2.96</td><td>665.14</td></tr><tr><td>酒泉</td><td>0.35</td><td>0.04</td><td>0.06</td><td>60.69</td><td></td><td>54.32</td><td>6.41</td><td>2.40</td><td>11.38</td><td>724.35</td></tr><tr><td>张掖</td><td>0.13</td><td>0.02</td><td>0.02</td><td>0.72</td><td>3.09</td><td></td><td>19.77</td><td>4.46</td><td>16.00</td><td>109.80</td></tr><tr><td>西宁</td><td>0.24</td><td>0.03</td><td>0.03</td><td>0.37</td><td>1.86</td><td>2.58</td><td></td><td>478.21</td><td>137.62</td><td>646.48</td></tr><tr><td>海东</td><td>0.07</td><td>0.01</td><td>0.01</td><td>0.09</td><td>0.42</td><td>0.49</td><td>32.89</td><td></td><td>53.59</td><td>539.84</td></tr><tr><td>兰州</td><td>0.34</td><td>0.04</td><td>0.03</td><td>0.26</td><td>0.92</td><td>0.80</td><td>8.12</td><td>4.09</td><td></td><td>225.15</td></tr><tr><td>合计</td><td>7.52</td><td>6.24</td><td>0.46</td><td>62.27</td><td>67.42</td><td>7.84</td><td>46.12</td><td>38.05</td><td>14.61</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/808da5bd16b5cdc417770b8310a37d825e1017d46658e7b4ce0213591ef2ada4.jpg",
+        "img_caption": [
+            "图2高铁运营前后沿线旅游城市可达性空间格局演变 Fig.2Spatial changing analysis of the accessibility of cities along the high-speed rail "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/07ec97822e8d481279b955680d92d602d07f3e2f42d45a3afb0d3ea2f782b798.jpg",
+        "img_caption": [
+            "图3高铁运营前后沿线城市旅游经济联系空间变化 Fig.3Spatial change of the tourism economy of cities along the high-speed rail "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a4cd9ceaec1e7188bf971dab5b9d111b5e59c6b6ef8bc6f2e8ce679474a04d8b.jpg",
+        "table_caption": [
+            "Tab.4Network centrality of urban tourism economy connection of cities along the high-speed railway "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">运营前</td><td colspan=\"4\">运营后</td></tr><tr><td>节点</td><td>点度中心度</td><td>接近中心度</td><td>中间中心度</td><td>节点</td><td>点度中心度</td><td>接近中心度</td><td>中间中心度</td></tr><tr><td>乌鲁木齐</td><td>12.500</td><td>12.500</td><td>0.000</td><td>乌鲁木齐</td><td>87.500</td><td>88.889</td><td>10.119</td></tr><tr><td>吐鲁番</td><td>12.500</td><td>12.500</td><td>0.000</td><td>吐鲁番</td><td>50.000</td><td>66.667</td><td>1.190</td></tr><tr><td>哈密</td><td>0.000</td><td></td><td>0.000</td><td>哈密</td><td>37.500</td><td>61.538</td><td>0.000</td></tr><tr><td>嘉峪关</td><td>25.000</td><td></td><td>0.000</td><td>嘉峪关</td><td>75.000</td><td>80.000</td><td>0.714</td></tr><tr><td>酒泉</td><td>50.000</td><td>22.222</td><td>5.357</td><td>酒泉</td><td>100.000</td><td>100.000</td><td>16.190</td></tr><tr><td>张掖</td><td>50.000</td><td>24.242</td><td>5.357</td><td>张掖</td><td>75.000</td><td>80.000</td><td>0.714</td></tr><tr><td>西宁</td><td>50.000</td><td>24.242</td><td>5.357</td><td>西宁</td><td>75.000</td><td>80.000</td><td>0.714</td></tr><tr><td>海东</td><td>25.000</td><td>22.222</td><td>0.000</td><td>海东</td><td>62.500</td><td>72.727</td><td>0.000</td></tr><tr><td>兰州</td><td>50.000</td><td>24.242</td><td>5.357</td><td>兰州</td><td>87.500</td><td>88.889</td><td>6.071</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1a6386c37d51f853b7bac0eb8f6c12627a656d280a27168c41e43614d656b4f.jpg",
+        "img_caption": [
+            "图4高铁运营前后沿线城市旅游网络空间结构",
+            "Fig.4Network structure of urban tourism economy connection before and after the high-speed rail "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "弱，城市之间旅游经济互动冷淡，空间发展格局呈现不均衡态势。高铁运营后，网络密度增至0.3611，旅游交通可达性与旅游网络结构紧密程度呈现同步发展，城市之间旅游互动与合作趋于频繁，哈密“孤岛\"状态被打破，区域整体旅游经济联系呈现协调发展趋势（图4）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.2中心度运用Network/Centrality 模块测算中心度(表4)。高铁运营前，酒泉、张掖、西宁、兰州点度中心度最高，嘉峪关、海东次之、乌鲁木齐、吐鲁番排名靠后，哈密该值为0;张掖、西宁、兰州接近中心度最高，哈密与其他节点无连接;只有兰州、酒泉、张掖、西宁存在中间中心度特征值,其余城市均为0。运营后，各城市旅游经济联系网络特征值均有所提高，酒泉、乌鲁木齐、兰州3城市变化较为明显，在网络中的功能与地位日益突出。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.3核心—边缘模型与角色分析核心—边缘模型与角色分析在衡量城市在旅游经济网络中的地位和功能方面具有突出作用，是制定旅游发展规划的重要依据（表5）。在对兰新高铁沿线城市旅游经济网络进行分析时，应充分考虑其特殊体质，运营里程较长、跨省域较多等复杂因素，与短距离高铁及东部经济发达地区角色划分标准具有一定差异，应综合各种因素及城市在网络中的结构特征值,对沿线城市进行合理定位。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）核心旅游地：兰州、乌鲁木齐。两市分别为甘肃、新疆的政治、经济、文化中心，是区域重要的交通枢纽。兰州市对内是连接敦煌莫高窟、天水麦积、张掖丹霞等著名景点的中心;对外与中东部发达地区联系相对紧密，是旅游核心要素流入的最先受益人；乌鲁木齐对内是疆内最大的旅游集散地，是去天",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表5旅游经济联系网络核心一边缘区分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1430dcae38a009eefd87dc7d02742559e41395831fdd24741b672b35b29e5583.jpg",
+        "table_caption": [
+            "表4高铁运营前后沿线城市旅游经济联系网络中心度",
+            "Tab.5Analysis of tourism economy connection network core-edge "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">开通前 分析方法</td><td colspan=\"2\">分析结果</td></tr><tr><td rowspan=\"6\"></td><td>核心一边缘模型</td><td>核心区</td><td>嘉峪关、酒泉、张掖、西宁</td></tr><tr><td></td><td>边缘区</td><td>乌鲁木齐、吐鲁番、哈密、 海东、兰州</td></tr><tr><td>开通后分析方法</td><td>分析结果</td><td></td></tr><tr><td>核心一边缘模型</td><td>核心</td><td>乌鲁木齐、酒泉、兰州</td></tr><tr><td></td><td>边缘区</td><td>哈密、吐鲁番、嘉峪关、张</td></tr><tr><td></td><td></td><td>掖、西宁、海东</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "池、喀纳斯、那拉提大草原旅游的必经之地，对外是中西亚旅游文化交流与合作的中心。高铁开通后，两地的集散与扩散作用在网络中日益突出，成为兰新廊道沿线城市旅游地的核心增长极。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）次核心旅游地：酒泉。兰新高铁运营距离较长，三省区间急需酒泉市这样一个旅游经济发展水平较高的城市作为承接东西向旅游经济要素流动的\"中间人”，酒泉位于兰新廊道的“中枢”，是区域较为理想的逗留地与集散地。兰新高铁修建时，考虑到敦煌客流需要，在高铁柳沟南站专门预留接口接入敦煌方向铁路，此举措进一步巩固了酒泉在网络中的地位，对连接廊道东西向旅游经济发展具有重要作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）重要旅游目的地：西宁、嘉峪关、张掖。高铁运营后，西宁可与核心城市兰州纳入“1h旅游圈”，凭借其在青海省的中心地位及核心区城市的旅游经济辐射，在网络中的地位日趋增强;嘉峪关、张掖2市从核心区转为边缘区，但其地理位置优越，旅游资源和产品丰富;是旅游流通往乌鲁木齐、酒泉、兰州的重要旅游节点，旅游发展潜力不容小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）一般旅游目的地：吐鲁番、海东。两市中心度较低，吐鲁番旅游产品单一，旅游发展模式多为“一日游”;海东旅游特色不突出且交通限制因素较大；两市旅游经济联系易受到乌鲁木齐、西宁等中心城市的屏蔽，独立发展能力较低；兰新高铁运营后，吐鲁番政府利用高铁出游的便利推出“乘着高铁看杏花”等内容丰富、节奏紧凑的特色旅游产品，使其在运营后的网络中占据较高的中间中心度，给其他中小城市推行\"高铁 $^ +$ 旅游”产品抛砖引玉。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(5）边缘旅游目的地：哈密。在网络的特征值均较低,地处兰新廊道边缘地带，与其他旅游城市空间联系较少，媒介能力低，旅游经济支配作用弱，仅接受单项旅游要素流动，从而成为网络的孤立节点。如何规避高铁“虹吸作用”，享受高铁福利是哈密政府亟待解决的问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结论与建议",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1 结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）高铁时空压缩效应冲破了旅行时间对城市旅游交通可达性水平的严格限制，兰新廊道可达性“低一高一低”发展趋势保持不变，但从可达性空间格局演变来看，乌鲁木齐、西宁、兰州等经济基础较好的城市俨然成为旅游交通可达性改善的最佳受益点。由此可见，兰新高铁运营使得城市经济基础对可达性的影响超过旅行时间对可达性的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）沿线城市旅游经济联系强度普遍提升，但受距离衰减效应影响呈现“越长越弱”的发展态势，新疆与甘肃、青海相比，旅游经济发展势头稍显不足，高铁虹吸效应致使城市之间旅游经济联系强度极差较大，哈密、海东等边缘城市如若不加强联系有进一步被边缘化的危险。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）兰新高铁与短距离高铁在进行城市角色划分时稍显不同，由于高铁运营里程较长、跨省域较多，由此区域出现兰州、乌鲁木齐双核心旅游地来共同承接廊道东西方向上旅游经济要素的快速流动，同时发挥酒泉“中间人”的集聚与扩散作用，强化嘉峪关、张掖、西宁重要旅游目的中介能力，带动吐鲁番、海东、哈密等边缘城市，打造西北“旅游 $^ +$ 高铁”丝绸之路黄金线。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2建议",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）廊道东侧城市以核心城市兰州为发展龙头，合理利用国家旅游区域性扶持政策和导向，培育游览、购物、度假等综合型旅游产品体系，同时加强同内地发达城市的旅游经济合作，依托不同层次的交通线路引导西宁、海东等周边城市旅游经济协同发展，增强区域内扩散与辐射能力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）廊道西侧城市继续强化乌鲁木齐的核心功能，对外继续夯实“中西亚旅游文化交流中心”地位，对内不断加强乌鲁木齐一吐鲁番一哈密的旅游交通建设，对接兰新高铁建立南北疆旅游交通专线;吐鲁番、哈密等边缘区城市应积极靠拢核心城市，规避高铁虹吸效应，依托兰新高铁继续扩展“高铁观杏花”、“高铁品丝路”等精品旅游路线，与发达城市形成旅游错位竞争。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）酒泉作为兰新廊道的次核心旅游地，主动引导嘉峪关、酒泉、西宁等中间城市促进东西方向旅游经济要素的快速流动，增强兰州、乌鲁木齐双核心区域的旅游经济互动，提升乌鲁木齐一吐鲁番一哈密和兰州一海东一西宁两个核心圈和辐射和扩散能力，促进区域旅游经济协调发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］郭建科,王绍博,李博,等.哈大高铁对东北城市旅游经济联系 的空间[J].地理科学,2016,36（4）：521-529.［GUOJianke， WANG Shaobo,Li Bo,et al.The spatial effect of Harbin-Dalian high-speed rail to the Northeastern City tourism economic link[J]. Scientia Geographica Sinica,2016,36(4）:521-529.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2]汪德根,陈田,陆林,等.区域旅游流空间结构的高铁效应及机理——以中国京沪高铁为例[J」.地理学报，2015，70（2）：214-233.[WANGDegen,CHEN Tian,LULin,etal.Mechanismand HSR effect of spatial structure of regional tourist flow:Casestudyof Beijing-Shanghai HSR in China[J].Acta GeographicaSinica,2015,70(2):214-233.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[3] MASSON S,PETIOT R.Can the high speed rail reinforce tourism attractiveness? The case of the high speed rail between Perpignan （France）and Barcelona（Spain）[J].Technovation,2O09,29 (9)：611-617. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[4]ANDRES L,FRANCESC R.Impact of high-speed lines in relation to very high frequency air services[J].Journal of Public Transportation,2005,8(2) :17. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[5］穆成林,陆林,黄剑锋,等.高铁网络下的长三角旅游交通格局及联系研究［J].经济地理，2015，35（12）：193－202．［MUChenglin,LU Lin,HUANG Jianfeng,et al.Research on YangtzeRiver Delta tourist traffic pattern and linkage under the high-speedrail network［J].Economic Geography,2015,35（12）：193-202.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6]汪德根,牛玉,陈田,等.高铁驱动下大尺度区域都市圈旅游空 间结构优化—以京沪高铁为例[J].资源科学,2015,37（3）： 581-592.[WANG Degen,NIU Yu,CHEN Tian,et al. Optimizing tourist spatial structure for large scale regional metropolitan circles under the Beijing-Shanghai high-speed rail［J].Resources Science,2015,37(3):581-592.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7］许春晓,姜漫.城市居民出游的高铁选乘行为意向的形成机理——以长沙市为例[J].人文地理，2014，（1)：122-128.[XUChunxiao,JIANG Man.The formation mechanism of urbanresidents’behavioral intention to travel by HSR:A case study ofChangsha[J].Human Geography,2014,28(1） :122-128.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8］杜瑞.“一带一路\"背景下兰新高铁对西北地区社会经济发展的影响分析[J].经营与管理，2016，（6)：95-97.［DURui.A-nalysis on the social economic influence of Lanxin high-speed railunder one belt and one road［J].Operation and Management,2016，(6):95-97.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9］张春民,王玮强,李文添,等.基于面板数据的兰新高铁区域经济特性分析[J」.铁道科学与工程学报，2017，14（1)：12-18.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[ZHANG Chunmin,WANGWeiqiang,LI Wentian,et al.Analysis on regional economic characters ofLanxin high-speed railway based on panel data[J]. Journal of Railway Science and Engineering, 2017,14(1):12-18.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10］李瑞，奚世军，吴晓俊,等.贵广高铁对沿线旅游城市可达性影 响测度及其地域结构系统构建［J].世界地理研究，2017，26 (4):62-72.[LI Rui,XI Shijun,WU Xiaojun,et al. The influence of accessibility of tourism cities and the construction of regional structure system under the Guiyang-Guangzhou high-speed railway[J].WorldRegional studies,2017,26(4）:62-72.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11］杨金华.高速铁路对湖南城市群可达性的影响[J].人文地理,2014,(2）:108-112.[YANG Jinhua.Study on the regional ac-cessibility of urban agglomeration in Hunan Province under the im-pact of high-speed railway[J].Human Geography,2O14,（2）：108 -112.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[12］郭伟，王伟伟，孙鼎新.高速铁路对京津冀旅游经济联系的影响分析[J].企业经济，2014，（12）：76-79.［GUOWei，WANGWeiwei,SUNDingxin.Analysis of the Influence of high-speed rail-way on the tourism economic connection of Beijing-Tianjin-Hebei[J].Enterprise Economy,2014,（12）:76-79.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13］吴大明,薛献伟,张明珠.基于引力模型的皖江城市带旅游经济联系测度分析［J].安徽师范大学学报，2013，36（1）：69-72.[WU Daming,XUE Xianwei,ZHANG Mingzhu.Tourism eco-nomic connection measurement analysis of Wanjiang City Beltbased on gravity model[J]. Journal of Anhui Normal University（Natural Science）,2013,36(1）:69-72.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14］方大春，孙明月.高铁时代下长三角城市群空间结构重构基于社会网络分析[J].经济地理，2015,35（10)：50－56.[FANG Dachun,SUN Mingyue.The reconstruction of the spatialstructure of the Yangtze River Delta city group in the high-speedrail era:Based on the social network analysis[J].Economic Geog-raphy,2015,35（10):50-56.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[15］于洪雁，李秋雨,梅林，等.社会网络视角下黑龙江省城市旅游经济联系的空间结构和空间发展模式研究［J].地理科学，2015,35（11）:1429-1436.[YUHongyan,LIQiuyu,MEILin,etal.Research on the spatial structure and spatial development pat-terns of urban tourism economic connections of Heilongjiang Province:Focus on the perspective of Social Network[J].Scientia Geo-graphica Sinica,2015,35（11）:1429-1436.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Spatial effect of long-distance high-speed railway on tourism economic link and role analysis of cities along the railway:A case of Lanzhou-Xinjiang high-speed rail ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "KONG Ling-zhang¹， LI Xiao-dong'， BAI Yang²， JIANG Tong² (1School of Resources and Environmental Science,Xinjiang University,Urumqi 83oo46,Xinjiang,China; 2School of Tourism,Xinjiang University,Urumqi 830046,Xinjiang,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The Lanzhou-Xinjiang high-speed railwayisoneof the longest high-speed railway in the world,running through several provinces in northwest China.The spatial evolution of urban tourism traffc accessibility and tourism economic linkages along the Lanzhou-Xinjiang high-speed railway before and after the opening of Lanzhou-Xinjiang high-speed railwayis measured by using the inverse distance weighted diference technique ofGIS.The role of cities along the railway in the tourism economic linkages network is analyzed by using Ucinet 6.O software.The results showthat the urban tourism traffic accessibility and tourism economic linkages along the railway are both improved. But the increase extenthas spatial differences.The improvement extentof the cities on theeast sideof the railway is greater than that of the cities on the west side of the railway.From the perspectiveof provinces and regions,the urban tourism traffc accesibility level of the cities with a beter tourism economic base has been improved more significantly.Inthe future,how to realize thecoordinated development ofregional tourism industryand avoid neglecting the marginal tourist cities willbe the focus.TheLanzhou-Xinjiang corridor should give full play to Urumqi and Lanzhouas the core cities.Atthe same time,Jiuquan as thesub-core city should exertitself as an agglomeration and diffsioncenter.The cities like Jiayuguan,Zhangye and Xiningasthe important tourist destinations shouldalso act as the transferring and forwarding points to mobilize the tourism development in the marginal cities such as Turpan, Haidong and Kumul in order to build the so-called“tourism $^ +$ high-speed railway” Silk Road Golden Route in northwestern China.The conclusion can provide theoreticalbasis and decision-making reference for the development of high speed railway tourism in northwest China. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words：Lanzhou-Xinjiang High-speed Railway； high-speed railway tourism；accessbility；tourism economic linkage； social network analysis ",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,222 @@
+# 基于USB2.0总线数据侦听的实时幸运成像系统
+
+苗旺」，李彬华1.2\*，王锦良」，陈柄宇」，高诗竹1
+
+（1.昆明理工大学信息工程与自动化学院，云南昆明650500）（2．昆明理工大学云南省计算机应用技术重点实验室，云南昆明650500）
+
+摘要：为进一步提高现有实时幸运成像系统的实时性，针对第二代通用串行总线（USB2.0）接口的电子倍增电荷耦合（EMCCD）相机进行幸运成像观测的情况，本文提出了一个基于USB2.0总线数据侦听的实时幸运成像技术方案，进行了侦听电路的硬件设计和数字逻辑设计，搭建了一个具有实时侦听、传输、处理、动态更新和显示的幸运成像系统当相机拍摄天文图像并与PC机进行数据交互时，本系统的USB2.0总线数据侦听子系统就会对交互的USB2.0总线实现无侵入式的侦听，并且加以分析处理后，只将有效的天文图像数据发送给底层现场可编程逻辑阵列（FPGA）开发板中的幸运成像子系统，然后幸运成像子系统就会对接收到的数据进行预处理、动态选图、实时配准和叠加处理，最后使用9个可调阈值二值化高分辨率图像并将这些图像输出到显示器上。实验结果表明，所实现的系统能够对在USB2.0总线上连续传输的10000帧 $5 1 2 \times 5 1 2$ 像素的图像进行实时侦听、幸运成像和动态更新显示，实现了幸运成像技术的实时化。
+
+关键词：幸运成像；数据侦听；USB2.0；FPGA；实时性中图分类号：TP391.4 文献标识码：A 文章编号：
+
+幸运成像是一种高分辨率天文图像恢复技术[1]。基于中央处理器（Central ProcessingUnit，CPU）的幸运成像技术由于CPU串行处理的原因，所构建的幸运成像系统运行时间较长，为一种事后处理技术。近年来，具有强大并行处理能力的现场可编程逻辑阵列（Field ProgrammableGate Array，FPGA）器件作为硬件加速器引入图像处理领域去实现可重构计算[2]。天文幸运成像观测通常使用电子倍增电荷耦合器件（Electron MultiplyingCharge-CoupledDevices，EMCCD）相机，这是一种高速低噪声的科学级相机[3]。
+
+Oscoz 和Piqueras 所在的团队在FastCam项目研究过程中，首次将幸运成像技术在FPGA硬件上实现，并获得了实时的高分辨率图像[4-5]。FastCam 中图像数据通过以太网进行传输。赵盼孜采用 Xilinx 经济型的中小规模的 Spantan-6系列FPGA及其开发板，构建了一个基于
+
+SD 卡接口接收数据的幸运成像系统。而后经过陈朕、段晨昊、王锦良等人的改进[7-9]，成为一个基于以太网网口数据传输的实时动态幸运成像系统。该系统由 EMCCD 相机将短曝光的天文图像用第二代通用串行总线（Universal Serial Bus 2.0，USB2.0）传入个人计算机（PersonalComputer，PC）存储，然后通过特定数据转发程序让PC 机读入FITS 格式的天文图像，通过以太网接口将图像数据不断的发送给FPGA开发板去进行幸运成像处理。
+
+上述已有的幸运成像系统的实时处理，由于存在一个图像存储和转发的过程，实时性还有待进一步提高。如果将 EMCCD 相机拍摄的有效图像数据，不通过存储和转发的过程，直接传入FPGA系统进行幸运成像处理，便可以大大改善系统的实时性。因此可以在不影响到原有数据通路的情况下通过实时侦听的方法，使得总线仍可以保持数据的正常传输，并把侦听到的数据加以分析处理，将处理后的数据实时传给幸运成像系统进行后续处理。EMCCD相机图像接口有多种类型，常见的是USB2.0，因此本项目组采用USB2.0作为数据传输接口。同时由于本项目组基于FPGA 的幸运成像技术比较成熟，所以现在问题的关键在于如何设计一个基于USB2.0 总线数据侦听系统，用于侦听 EMCCD 相机和PC 机之间总线的数据。
+
+现有基于USB 总线数据侦听方面的研究，主要集中在USB 协议分析及其应用方面，如USB 协议分析仪，其它方面的研究相对较少。但USB 协议分析仪是侦听USB 总线上的数据并将其发送至PC机后采用相应的分析软件进行分析。孙博[1]在其论文中提出了一种基于FPGA的USB数据监听技术，该设计直接将数据传入到PC机，类似于协议分析仪，且论文中没有详细介绍硬件逻辑设计的过程。周佳立等人1论述了一种监听相机与机身 SD卡之间的数据流的技术。USB 协议分析仪、孙博以及周佳立所使用的侦听方法，对本项目有一定的启示作用，但都不适用于本项目。段晨昊[2提出了对某一特定方向传输的数据进行监听的方法，虽然其硬件模块都验证正确但系统工作不稳定。
+
+因此本文提出了一个基于USB2.0总线数据侦听的实时幸运成像系统的设计和实现方案，设计并制作了一个USB2.0总线数据侦听电路，用FPGA实现对USB 数据包的分析，在基于以太网数据传输的实时动态幸运成像系统的基础上，搭建了一个具有实时侦听、传输、处理、动态更新和显示的幸运成像系统，通过实验验证了系统的性能。
+
+# 1系统的设计与实现技术
+
+本实验室幸运成像系统的硬件实现平台是以Xilinx公司 Spartan-6系列的XC6SLX16 芯片为核心的开发板。该系统不仅成本低，而且运行稳定。由于该开发板不具备实现侦听功能，所以需要设计制作一个USB2.0 总线数据侦听系统，将其通过 40 引脚的IO(Input/Output,输入/输出)扩展口（排针）与这块FPGA开发板相连接，从而实现对 EMCCD 相机短曝光图像的实时数据进行侦听和幸运成像。设计开发环境是ISEDesign Suite 14.7和Altium Designer10.0，采用ChipScope pro 14.7 和 ModelSim SE10.5 进行硬件设计的验证与调试。
+
+# 1.1系统的总体设计框图
+
+系统设计的总体要求是在不影响EMCCD 相机与PC机图像采集与控制的前提下，通过侦听EMCCD相机的图像数据，进行实时幸运成像。所以，整个系统不仅需要有前端的无侵入式USB总线数据侦听和分析电路，而且需要有后端的实时幸运成像电路或系统。按此要求，本文所提出的新的实时幸运成像系统，如图1所示。。
+
+![](images/f4d4047c4787ba5e656ec31d4cba5226d86af434e0b01e1891795e059152fdd0.jpg)  
+图1USB2.0总线数据侦听实时幸运成像系统的总体框图  
+Fig.1 The overall block diagram of USB2.O bus data listening real-time lucky imaging system
+
+该系统采用USB2.0总线数据侦听的方式，将EMCCD相机与PC机之间进行传输的数据通过专用USB2.0总线数据侦听系统对总线实现无侵入式的数据侦听，再加以分析处理后，只将有效的天文图像数据发送给底板（即FPGA开发板)。底板上的幸运成像系统进行图像的预处理、动态选图、实时配准和叠加处理，然后采用9个实时分割阈值水平切割高分辨率图像，最后对二值图像进行动态更新和显示。系统的工作流程可简述如下：
+
+(1）USB接口芯片模块开始连续提取EMCCD 相机与PC 机相连的总线上的差分信号，将其还原成为电平信号，并进一步转换成并行数据送入ULPI（UTMI(USB2.0 TransceiverMacrocell Interface)LowPin Interface，USB2.0收发宏单元的低引脚数接口）接口模块。(2）ULPI接口模块与USB 接口芯片模块建立协议层的联系，并把数据完整输出给包解析模块。  
+(3）包解析模块将数据包分解并缓存，进入事务组合模块。  
+(4）事务组合模块将几个相关联的令牌包、数据包、握手包经过包解析模块分解后的数据组合成一个USB 事务，送往传输模块。  
+(5）传输模块对USB 事务中的数据进行分析，并根据天文图像特征，只选出天文图像数据，将选出的天文图像数据通过IO扩展口以8位并行总线的方式传入本系统的底板IO 扩展口接收模块。  
+(6）底板的IO 扩展口接收模块将数据传入幸运成像系统。  
+（7）幸运成像系统将接收到的图像数据送入图像预处理模块，进行高斯滤波和宇宙射线的剔除。其后将预处理完毕的数据送入幸运成像算法处理模块。  
+(8）幸运成像算法处理模块包括 DDR3（Double-Data-Rate Three Synchronous DynamicRandom Access Memory，第三代双倍数据率同步动态随机存取存储器）存储控制模块、选图算法模块、配准算法模块和叠加算法模块；用于对预处理完成后的图像数据进行存储、选图、配准和叠加处理。然后将图像数据分成两路：一路经千兆以太网发送模块回传到PC机保存高分辨率图像；一路送往多阈值二值化模块。  
+(9）多阈值二值化模块，以增强目标区域的可视性，然后将结果传给VGA(Video GraphicsArray，视频图形阵列)控制模块，产生控制信号，控制VGA 驱动显示模块驱动FPGA片外接口电路，将高分辨率图像在VGA显示器上显示。
+
+以上流程中第（1）至（5）步是USB2.0总线数据侦听系统，用于数据侦听，并将有效的天文图像数据发送给底板。第（6）至（9）步是底板系统，其中第（6）步是两个系统间的连接步骤。第（7）至（8）步是幸运成像系统中数据处理的过程。第(9)步是用于结果图像的视觉增强和显示。
+
+本系统会实时侦听分析处理EMCCD相机与PC机相连的总线上的数据。在天文图像数据不断地由EMCCD相机传输到PC机的过程中，VGA显示器上就会实时动态更新和显示高分辨率图像。并且因为FPGA 的特性，数据处理方式全部是并行进行的，也就是上述步骤全部是同时工作的。所以处理速度是非常快的，满足了实时性的要求。
+
+从上述流程中可以看出，本系统与本实验室基于以太网数据传输的 FPGA 幸运成像系统[14最大的不同之处在于设计了一个USB2.0 总线数据侦听系统。另外为了将USB2.0 总线数据侦听系统与本实验室FPGA幸运成像系统完美的连接，需要对本实验室基于FPGA的幸运成像系统稍作修改。以下将着重介绍USB2.0总线数据侦听系统的设计过程，以及基于新的数据传输接口对于原FPGA幸运成像系统的修改过程。
+
+# 1.2USB2.0总线数据侦听系统的设计及验证
+
+因为USB2.0总线数据侦听系统需要对侦听到的全部数据加以分析，所以需要从USB数据包中选出有效的天文图像数据，删除无效信息，只将有效的天文图像数据传入底板系统中。这个过程的实现需要设计侦听电路、数据分析与处理电路以及数据收发接口电路等。结合USB2.0总线的数据传输特点以及FPGA开发板（底板）的排针接口要求，我们设计了如图2所示的侦听系统。
+
+![](images/5fefae72299d88c32a5a62e43cdbd43fba9b3bf8792fab721b3c7d82a9336639.jpg)  
+图2USB2.0总线数据侦听系统的总体设计  
+Fig.2 The overall design of USB2.O bus data listening system
+
+图2中，主设备是EMCCD相机的成像控制与图像采集工作站或个人计算机，从设备是EMCCD相机，主从设备之间是USB2.0总线及连接头。从A、B两个USB接口总线中间直接引出信号线到USB2.0接口芯片，从而侦听主从设备之间传输的数据。对USB 接口芯片的控制、侦听数据的解包和分析以及图像数据下传等任务，由一块小规模的FPGA芯片来完成。所以，侦听系统的关键就是硬件电路的设计和FPGA逻辑设计，这也是本文的重点内容。
+
+# 1.2.1硬件设计
+
+硬件上采用高集成度的芯片，尽量减少元器件使用数量，以及尽量减小硬件尺寸。根据上述要求设计了如图3所示的硬件总体架构。该系统架构主体由USB 接口模块、FPGA 模块、电源模块三个部分组成，下面分别加以介绍。
+
+![](images/e0fd4baa93e4b3f21a5015e5fbe0dd4a998efc7e1238a460bb081b01a17407cb.jpg)  
+图3USB2.0总线数据侦听系统硬件总体架构  
+Fig.3 The overall hardware architecture of USB2.O bus data listening system
+
+设计在不干扰原有USB主从设备间数据流的情况下，直接从主从设备的USB总线上无侵入式连接USB接口芯片。USB接口芯片与FPGA芯片连接线为双向信号，FPGA芯片通过IO扩展口卡槽与底板连接，并且IO扩展口卡槽可拆卸，连接不同底板。
+
+# （1）USB接口模块
+
+USB 接口芯片使用了USB3300 芯片，用于非侵入式获取主从设备之间的信号。该芯片通过ULPI接口连接至FPGA,ULPI接口信号电平为 $3 . 3 \mathrm { V }$ ,工作于高速480Mbps速度模式，并且芯片使用24MHz晶体提供时钟。其中USB3300 芯片在本设计中的功能是： $\textcircled{1}$ USB总线上时钟和数据的分离及提取； $\textcircled{2}$ 同步序列 SOP，EOP信号的检测； $\textcircled{3}$ 数据流的 NRZI解码； $\textcircled{4}$ 填充位的剔除； $\textcircled{5}$ 串并转换； $\textcircled{6}$ 填充位错误和EOP错误的检测。
+
+该模块配备了两个不同的USB接口，USB 接口A为方口母座，用于连接主设备，USB接口B为扁口母座，用于连接从设备。将两个接口的USB 总线中间引线，从差分对上拉出两根线，提取其中的信号。该差分信号通过USB接口芯片接收之后，将还原成电平信号，并进一步转换成并行数据送入FPGA。
+
+# （2）FPGA模块
+
+本系统主控芯片也是采用XilinxFPGA芯片Spartan-6系列，芯片为XC6SLX9-2TQG144C。配置芯片为W25Q80，用于存储FPGA配置数据流。芯片使用USB接口芯片输出的60MHz时钟作为模块的系统时钟。搭配有事务指示灯，每当输出一次有效事务LED信号灯亮一次。40引脚的IO扩展口是USB2.0总线数据侦听系统和底板系统数据传输的通道。
+
+FPGA芯片是整个系统的核心，主要负责各芯片的初始化参数配置，并具有协调、调动、存储和读取等功能，起到处理器的作用。其中内部逻辑电路对数据包做分析、处理，最后解包整合后的主从设备传输数据通过8位并行总线从IO扩展口输出给底板。
+
+# （3）电源模块
+
+电源由底板通过IO扩展口引脚提供5V电压，使用2路低压降线性电源芯片AMS1117
+
+分别产生3.3V、1.2V电压供USB3300、FPGA等芯片使用。搭配有电源指示灯，接通电源后红色指示灯被点亮。
+
+# 1.2.2FPGA逻辑设计
+
+由上述侦听电路获得的是USB2.0 总线上传输的一个个数据包。按USB2.0 协议[13]，一个数据包包含有很多字段，但本系统要求获得的是有效的图像数据。所以，侦听电路还需要对所获得的数据包进行分析，提取有效数据。在USB2.0协议[13]中，一次正常的事务传输既有令牌信息包、数据信息包和握手信息包，还有忙时或者出错时的事务传输。所以我们需要把每一次事务的数据信息包中的数据字段和这次事务中的非数据字段（包括一次事务中数据包的除数据字段外的字段和其他包的字段）分开。将非数据字段组合成一个信息头，便于分析是什么事务，然后根据事务信息头筛选所需图像数据。由此设计了FPGA逻辑设计模块，包括ULPI接口模块、包解析模块、事务组合模块、传输模块、时钟模块。下面将分别介绍FPGA内部逻辑设计的各个模块。
+
+# （1）ULPI接口模块
+
+ULPI接口模块为ULPI 端口物理层接口[4]，与USB 接口芯片模块建立协议层的联系,并把数据完整输出给下一模块。
+
+本模块首先用硬件描述语言设计了一个数据选择器和三态输出缓冲器的联通电路以实现USB接口芯片模块与FPGA数据的双向导通，然后再设计协议层的联系。仿真图如图4所示，其中ulpi_dir 为USB 接口芯片用于控制总线传输方向的信号，ulpi_nxt为USB 接口芯片在传输数据时的控制信号，ulpi_dir为FPGA 芯片通知USB 接口芯片传输停止的控制信号。
+
+![](images/eae74495f3b3c76b2651f475db1668b63b07f65f55baad70cd4df51ea7720b4d.jpg)  
+图4ULPI接口模块仿真图  
+Fig.4 Simulation diagram of ULPI PHY
+
+从图4可以看出，当ulpi_dir和ulpi_nxt 同时为低电平时，本模块在数据总线上驱动传输命令字节（Transmit External Data Command，TXD CMD），然后在ulpi_dir 持续为低电平时等待ulpi_nxt 为高电平。当USB 接口芯片接收到 TXD CMD 时驱动ulpi_nxt 为高电平，本模块将把寄存器数据写入USB接口芯片寄存器中。USB接口芯片接收到数据后，本模块将驱动ulpi_stp 为高电平。当ulpi_dir 为高电平并且ulpi_nxt 为低电平时，本模块将接收并分析从USB 接口芯片传输过来的接收命令字节（Receive External Data Command，RXDCMD)。当ulpi_dir 和ulpi_nxt 同时为高电平时，本模块将接收USB 接口芯片传入的数据，然后将其完整输出给包解析模块。
+
+另外，从图4也可以得出，FPGA芯片识别出了RXDCMD，得出了正确的rx_valid,rx_error，rX_active 信号。实现了USB 接口芯片模块与FPGA数据的双向导通，并得到了正确的USB 总线上的传输数据 uulpi_data。
+
+# （2）包解析模块
+
+根据USB2.0 协议[13]，一次事务中只有一个数据包，且只有数据包中含有数据字段。除去数据包中的第一个8位数据和最后两个8位数据，剩下的就是数据字段。据此设计了包解析模块。
+
+包解析模块包含包分解模块和存储模块。如图5虚线框所示，其中包分解模块的功能是将ULPI接口模块传递过来的并行数据根据USB2.0协议[14]分析并分解成数据字段和非数据字段；存储模块的功能是将分解后的数据字段和非数据字段分别存入随机存取存储器（Random Access Memory，RAM）和 FIFO（First Input First Output，指先进先出存储器）中,并与事务组合模块进行交互。
+
+![](images/71a3ccef1c36d4085ffcecc6f6096063b47240f28b31450ec1d435c94e1750ad.jpg)  
+图5FPGA芯片内处理数据的主要模块  
+Fig.5 The main module of processing data in FPGA chip   
+图6示波器采样  
+Fig. 6 Oscilloscope sampling
+
+# （3）事务组合模块
+
+本次事务的所有数据经过包解析模块存入RAM和FIFO 中之后，进入事务组合模块。该模块首先读取FIFO 中的数据以便于接下来处理，然后将数据中的本次事务几个包的包标识符根据USB2.0 协议[19]分析组合成一个相对应的事务标识符数据。接下来将这些数据组合成一个4字节的事务信息头，同时从RAM中依次读出相对应的本次事务数据包的数据字段。最后将事务信息头和从RAM中读出的数据组合成一个事务包。其中事务信息头包含事务对应的标识符、设备地址、端点号和数据包的数据字段的长度（也就是事务的数据长度)。
+
+# （4）传输模块
+
+经过ChipScope 多次抓取实验，发现天文图像数据都属于具有固定端点和长度的输入事务。由此可从事务组合模块组合成的事务包的信息头中筛选出天文图像数据，并生成一个同步于向底板传输天文图像数据的有效指示信号，通知底板数据的到来，然后将时钟模块生成的时钟信号、筛选出的天文图像数据及其有效指示信号同步输出给底板系统。
+
+# （5）时钟模块
+
+本模块使用USB3300芯片输出的60MHz作为输入时钟信号。该模块的输出信号为整个侦听系统提供时钟并且将同步于侦听系统的时钟信号输出给底板，使底板能与侦听系统时钟同步。模块设计中调用了FPGA 芯片内的数字时钟管理器(digital clock manager，DCM)，用来调节输出时钟信号的相位，并去除输出给底板时钟信号的歪斜，从而避免时钟分配延迟，使输出给底板的信号时序达到最佳。在底板上用示波器采集的侦听系统输出给底板的时钟和数据的波形如图6所示，示波器采样率为1GS/s，黄色信号线是系统输出的时钟，红色信号线是输出的数据。可以看到时钟周期约为16.6ns左右，频率大约为 $6 0 \mathbf { M H z }$ 。
+
+AMA
+
+# 1.2.3系统验证
+
+为了验证所提出的USB2.0总线数据侦听系统处理速度能否满足USB2.0数据传输速度，本文在ModelSim仿真软件上对USB2.0总线数据侦听系统进行了仿真，结果如图7所示。其中，时钟clk采用的是USB接口芯片输出给FPGA的工作时钟，频率为 ${ 6 0 } \mathrm { { M H z } }$ ，周期为16ns。rx_data 和rx_active为输入数据和输入数据有效指示信号，输入数据由随机函数生成。tx_data_out和tx_active_out为USB2.0总线数据侦听系统向底板输出的数据和有效指示信号。第一个红色游标是FPGA完全接收了一次事务的数据的节点，第二个红色游标是USB2.0 总线数据侦听系统开始把这次事务处理完后的数据送入底板的节点。
+
+![](images/2fa46378d4965253365f15c712a097d176dc9155e2790548fdeafc2e39545aba.jpg)  
+图7USB2.0总线数据侦听系统的仿真结果图  
+Fig.7Simulation result diagram ofUSB2.O bus data listening system
+
+两个红色游标相距10个周期（需要160ns)。也就是说USB2.0 总线数据侦听系统只需要10个周期就可以分析处理完数据并往底板发送数据，充分体现了设计中FPGA并行特性的应用。这个处理速度不会造成数据溢出，并且此设计跟的上USB2.0数据传输的速度。
+
+# 1.3幸运成像系统的移植
+
+以上设计的USB2.0 总线数据侦听系统，需要与基于FPGA的幸运成像系统进行连接，才能构建完整的基于USB2.0总线数据侦听的实时幸运成像系统。整体的连接实物图如图8所示，其中物理上两个FPGA子系统电路板的连接如图8(a)所示，上面的小板是我们设计制作的侦听电路板，下面的稍大的板子是以 Spartan-6系列的XC6SLX16芯片为核心的 FPGA开发板（即底板)，两块电路板通过40引脚的IO扩展口卡槽相连接。但在实现物理连接前，需要将原实时幸运成像算法及其对应的处理模块移植到新系统中。由于新旧两个系统的差别主要是在图像数据的输入接口方面，所以移植的主要任务就是修改原系统的数据输入部分。
+
+修改工作主要是将原 FPGA系统中以太网数据接收模块去除，设计了一个基于IO 扩展口的数据接收模块。当底板接收到USB2.0总线数据侦听系统传过来的数据有效指示信号后，数据接收模块开始读取8位数据。该模块还需要将接收到的数据拼接成一个16位的图像像素数据并送入到FIFO中缓存，以便后续的图像预处理模块读取图像数据。此外，为了使整个系统完美的运行，底板系统中的时钟主体使用由基于USB2.0 总线数据侦听系统通过IO扩展口提供的60MHz时钟信号，相应地，需要将部分移植过来的模块改成与该时钟相配套的模块。
+
+图 8(b)是系统运行中实际拍摄的照片，其中PC机连接方口母座，存有EMCCD 相机拍摄的天文图像的U盘连接扁口母座，蓝色的灯亮证明侦听系统正在往底板传输数据。
+
+![](images/89504c98247db5f3baea6b9c9258ccaac24776b67934aaca1d1036774643ff6f.jpg)  
+图8基于USB2.0总线数据侦听的实时幸运成像系统的实物连接图
+
+# 2实验结果及其分析
+
+为了验证本文所提出的系统的正确性，首先用系统去侦听一个CCD 相机和PC 机之间的信号，并在底板用ChipScope 软件抓取。因为没有 EMCCD 相机，只能使用实验室现有的和 EMCCD 相机传输基本相似的CCD 相机，型号为QHY90A。
+
+要将完整的图像数据不多不少的传入底板，需要把其他数据去除，经过ChipScope 多次抓取实验，发现控制信号的数据交互不属于输入事务，另外只有图像数据传输属于固定端点号的并且数据的大小为512字节的批量传输。还发现含有图像数据的事务传输是连续传入的，并且在其第一个事务前面有一个固定的数据大小为5字节的输入事务。根据ChipScope 多次抓取实验的结果表明，本实验可以有两种方法选取图像数据： $\textcircled{1}$ 在系统传输模块中增加事务信息头中的标识符、端点号和数据长度来当作限制条件； $\textcircled{2}$ 在系统传输模块中判断是否是固定的数据大小为5字节的输入事务来确定接下来的数据是否是图像数据。经过ChipScope 软件抓取实验测试两种方法结果是一样的。由于底板资源的限制，ChipScope 软件只能抓取一部分数据，但图像数据的事务传输是连续传入的，所以只需验证抓取传入的第一个数据包是否正确，其结果如图9所示。对比传入电脑上的数据可知，该数据正确。
+
+![](images/ba1935eab09560dd3f083c5729b7bc77677e372de80ccd7b0eb62f0dd4d46e0c.jpg)  
+Fig.8 Physical connection diagram of real-time lucky imaging system based on USB2.0 bus data listening   
+图9本系统对EMCCD相机传入PC机的数据的侦听结果  
+Fig.9 listening results of the data transmitted from the EMCCD camera to the PC monitored by the system
+
+其次验证其能否进行万帧以上的实时动态处理，并将实验结果与王锦良的系统比较。由于实验条件有限，我们采用存储于U盘的实测EMCCD相机短曝光图像，在USB2.0总线传输时对其侦听进行模拟实验。所用天文目标短曝光系列图像是2016年10月20日在云南天文台丽江观测站对天文双星HDS 70 的实测图像，共 10000 帧，这组图像的观测条件和参数参见毛拢哗的论文[15]，其中随机单帧如图10(a)所示，最好单帧如图 10(b)所示。
+
+![](images/ee59c76f8e8ce4c6272d0d841128889a280df06523f3e7cb198c5239d99943cb.jpg)  
+图10两帧HDS70实测图像
+
+从图10中可以很明显的看出由于受到大气湍流的影响，无论随机单帧还是最好单帧都无法找到天文双星的准确位置，尤其是双星中暗星的位置根本无法辨别。
+
+我们用U盘将观测到的10000帧原始图像（ $\langle 5 1 2 \times 5 1 2 \rangle$ 按EMCCD相机的采集速度去模拟EMCCD 相机传输，当前100 帧有效的天文图像传输完成之后，VGA显示器开始显示9个阈值处理后的二值化图像。随着图像的持续传输，VGA上的阈值图像动态更新。说明系统实现了实时处理和动态更新的功能。
+
+为了进行数值验证，系统中设计了成像结果通过以太网回传功能，即当向 FPGA系统传输到5000 帧和10000帧时，将实时多阈值处理结果回传给PC机。将实时处理结果通过调用 MATLAB 函数进行显示，如图11所示，其中图11(a)为天文图像传输 5000 帧时的多阈值处理结果，图11(b)为天文图像传输 10000 帧时的多阈值处理结果。图中的每个小图像为通过相应阈值进行二值化后的结果图像。每个小图像上方的数字表示阈值的序列号。
+
+![](images/6d36f1e44cf9b82495f40153b1cde654c1966a3cb533a013e24f531545a2269e.jpg)  
+Fig.10 Two framesofobserved images ofHDS70   
+图11VGA屏幕上的九个分段阈值二值化图像  
+Fig.11Nine piecewise-threshold binary images ona VGA screen
+
+从一部分实验结果小图可以清晰的看到双星（亮的主星和暗的伴星）的存在，这种多阈值的方法使暗星变得突出，容易分辨。5000 帧的实验结果图中，有4幅小图中可以看见双星中的伴星。10000帧的实验结果图，有6幅小图中可以看见双星中的伴星。说明本系统确实可以实现万帧及以上原始格式天文图像的实时动态更新与显示，新系统运行结果与王锦良
+
+设计的系统的结果是完全相同的。
+
+另外，本系统只要对系统中的传输模块稍作修改，就可以侦听不同CCD相机输入的图像，从而实现不同相机系统的实时幸运成像。
+
+# 3结论
+
+本文在分析已有的幸运成像系统优缺点的基础上，提出了一种进一步提高幸运成像处理过程实时性的方法一—通过无侵入式的数据侦听实现幸运成像，并提出了一个系统的设计与实现方案。文中介绍了基于USB2.0总线数据侦听的实时幸运成像系统的总体设计，重点介绍了侦听电路硬件设计和USB2.0数据分析电路的FPFA逻辑设计，搭建了一个具有实时数据侦听、传输、处理、动态更新和显示的幸运成像系统。文中也介绍了主要模块的设计和验证的过程，并用实测的天文图像对这一新的幸运成像系统进行了验证。此外，文中提出的总体设计的方法和实现技术，也具有通用性，可以为其它类似的USB总线数据侦听应用系统的设计提供参考。
+
+# 致谢
+
+中国科学院云南天文台张西亮、季凯帆、金振宇为本研究工作提供了原始天文图像，特此致谢。本文研究工作受到中国国家自然科学基金委员会的资助，项目编号11673009。
+
+# 参考文献：
+
+[1]Law N M, Mackay C D, Baldwin JE. Lucky imaging: high angular resolution imaging in the visible from the ground[J]. Astronomy and astrophysics, 2006,446(2):739-745.   
+[2]魏少军，刘雷波，尹首一著.可重构计算[M].北京：科学出版社,2014. WEI Shaojun, LIU Leibo ,YIN Shouyi, et al, Reconfigurable computation[M] .Science Press, Beijing, China,2014. (in Chinese)   
+[3]胡泊，李彬华．低温下EMCCD 电子倍增模型[J]．电子学报,2013,41(9):1826-1830. HU Bo,LI Binhua. Electron Multiplication Model of EMCCD in Low Temperature[J]. Acta Electronica Sinica,2013,41(9) :1826-1830.(in Chinese)   
+[4] Oscoz A，Rebolo R,Lopez R，et al. FastCam: a new lucky imaging instrument for medium-sized telescopes[C], Proc.of SPIE,2008, Vol.7014:701447-1:701447-12.   
+[5]Piqueras J, Rodriguez-Ramos L, Martin Y,et al. FastCam: Real-Time Implementation of the LuckyImaging Technique using FPGA[C]. Programmable Logic， 2O08， Southern Conference on.IEEE,2008:155-160.   
+[6]赵盼孜，李彬华，毛柅哗，陶勇．基于现场可编程门阵列的幸运成像算法的实现[J]．天 文研究与技术,2019,16(02):236-243. ZHAO Panzi , LI Binhua , MAO Longhua , TAO Yong. Implementation of Lucky Imaging Algorithm Based on FPGA[J]. Astronomical Research & Technology，2O19，16(02） : 236-243.(in Chinese)   
+[7] Duan C ，Li B，Chen Z，et al. Lucky imaging system on FPGA by using ethernet transmission[C]// Optical Metrology and Inspection for Industrial Applications VI. 2019.   
+[8] 王锦良,李彬华.一种固定选图数的实时幸运成像算法[J/OL].天文研究与技 术:1-9[2020-12-26]. https://doi.0rg/10.14005/j.cnki.issn1672-7673.20200701.002. WANG Jinling，LI Binhua .A real-time lucky imaging algorithm with fixed number of selected images[J/OL].Astronomical Research & Technology:1-9[2020-12-26]. https://doi.0rg/10.14005/j.cnki.issn1672-7673.20200701.002.   
+[9] Wang J, Li B, Xing K.A New Real-Time Lucky Imaging Algorithm and its Implementation Techniques[J].IEEE Access,2020,Vol.8:52192-52208.   
+[10]孙博.USB无侵入式数据监听技术研究[D]．长春理工大学,2013. SUN Bo. USB without invasive data collection technolog research[D].Changchun University of Science and Technology,2013.   
+[11] 周佳立，陈以军，武敏．基于FPGA监听的图像采集与预处理方法[J]．浙江大学学报:工 学版,2018,052(002):398-405. ZHOU Jiali, CHEN Yijun, WU Min. Image acquisition and preprocessing method based on FPGAmonitor[J]. JournalofZhejiangUniversity(EngineeringScience)， 2018, 052(002):398-405.   
+[12] Duan C,Li B.FPGA-based USB 2.O data monitoring and acquisition circuit function and simulation design[J]. IOP Conference Series: Materials Science and Engineering，2019, 631(4):042062.   
+[13] SMSC Company. USB3300 datasheet[EB/OL]. Revision1.08(11-07-07).   
+[14] Jan Axelson. USB Complete: The Developer's Guide[M]. Lakeview Research,2015.   
+[15]毛拢哗,李彬华,张西亮,季凯帆,金振宇．基于 $2 \mathrm { m }$ 级大口径望远镜的幸运成像算法的实验 研究[J]．光学技术,2018,44(05):542-548. MAO Longhua ，LI Binhua，ZHANG Xiliang，JI Kaifan ，JIN Zhenyu.Experimental investigation of lucky imaging algorithm based on $2 \mathrm { m }$ astronomical telescope[J]. Optical Technique ,2018,44(05) : 542-548. (in Chinese)
+
+# Real-time lucky imaging system based on USB2.O bus data listening
+
+Wang Miao1, Binhua Li1² ,Jinliang Wang', Bingyu Chen', Shizhu Gao1 (1.Faculty of information engineering and automation, Kunming University of Science and Technology, Kunming 650500, China) (2. Key Laboratory of Applications of Computer Technologies of the Yunnan Province, Kunming University of Science and Technology, Kunming, 6505Oo, China)
+
+Abstract: In order to further improve the real-time performance of the existing real-time lucky imaging system,and in the case of lucky imaging observation through the EMCCD camera with the USB2.O interface,this paper proposes a real-time lucky imaging technology scheme based on USB2.O bus data listening.The hardware design and digital logic design of the listening circuit have been carried out and a lucky imaging system with real-time listening, transmission, processing,dynamic update and display has been built. This system inserts the front end of the listening circuit into the USB2.O bus connecting the camera with a PC.When the camera captures astronomical images and transfers the images to the PC via USB2.0 bus,the special USB2.0 bus data listening system realizes non-intrusive data listening on the bus.After analysis and processing, only valid astronomical image data are sent to a bottom FPGA development board, in which a
+
+FPGA lucky imaging system transplanted from an existing Ethernet-based system is embedded. When the development board receives the image data sent by the listening circuit, the embedded lucky imaging system performs image preprocessing， dynamic image selection， real-time registration and superimposition processing,and finally uses 9 adjustable thresholds to binarize high-resolution images and then output these images to a VGA displayer. This paper introduces the hardware,logic design method and debugging process of the listening circuit, as well as the transplantation of the lucky imaging system and the experimental situation of the whole system. The experimental results show that the implemented system can perform real-time listening, lucky imaging and dynamic update display for 10,Ooo frames of $5 1 2 \times 5 1 2$ pixel images continuously transmited on the USB2.O bus,and realize the real-time of lucky imaging technology.
+
+Key words: lucky imaging; data listening;USB2.O; FPGA; real-time

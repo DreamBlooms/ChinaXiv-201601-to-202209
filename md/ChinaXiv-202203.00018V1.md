@@ -1,0 +1,352 @@
+# Will Chinese Twenty-four Solar Terms Affect Stock Return: Evidence from Shanghai Index of China
+
+Tianbao ZhOU', Xinghao LI² & Junguang ZHAOl\*
+
+1. College of Science,Beijing Forestry University,10oo83,Beijing China
+
+2.School of Information Science & Technology,Beijing Forestry University,10oo83,Beijing China
+
+Tianbao ZHOU: Proposed and arrange the study， statistical programming and paper-writing.
+
+Xinghao LI: Data collecting, programming support and code correction.
+
+Junguang ZHAO:Arrange the study, instruction and supervision.
+
+# Abstract
+
+In this study, readers will see the impact on Chinese stock index brought by twenty-four solar terms, a unique division of annual season in Chinese tradition. Based on the data in the past 26 years, the statistics focused on whether the daily return (revenue) of Shanghai Index shows significant value and special feature on and after each solar term. On several solar terms did the index return result large mean value and high probability of extreme value occurrence such as on solar term No.1 and No.3 while on solar term No.2 and solar term No.4,the results were completely opposite. The study also found that the volatility of index return during those solar terms in the beginning of the year were greatly active than the rest of them. Index return 10 days and 15days after solar term No.6 and solar term No.8 displayed high final return and large volatility whereas in any cases, the index went very steady after solar term No.18. The study also proposed that it's almost impossible to make numeric prediction with the current technical analysis tools,the effective way in stock analysis to collect more feature and characteristics based on historical data, identifying if the similar situation is happening when similar feature of stock shows up in the future.
+
+Keywords: Solar term, Shanghai Index, Market predictability,Efcient solar term, Return volatility
+
+# 1.Introduction
+
+# 1.1 Background
+
+There's been long time that Chinese investors discussed the influences on stock's return by Chinese twenty-four solar terms. Many references and previous works also exposed the potential relationship between stock market and regulations of the nature. Study on solar terms is a good extension from those perspectives.
+
+Like Gann's Theory (Gann, W.D, 2014) and Eliot Wave Theory (R.N. Eliot, 2014), these western founders pointed out that the stock market follows the rules apart from traditional human, social and economic factors. Gann developed a series of time divisions (which surprisingly coincide with the time points of Chinese twenty-four solar terms), time cycles and season features to make predictions to stock trend whereas Eliot suggested the shape of stock conforms to the waves in the ocean, proposing a regulation of five rising waves and three falling waves in every circulation.It's easy to see that they all came to a consensus that the stock market can be not only studied by fundamental analysis and conventional technical analysis but, more importantly, some natural factors would lye positive outcomes and special features when applying on stock analysis. Stock market is operated by hundreds of millions of investors and financial organizations, and they are all humans, thus their mood, enthusiasm, mentality and decision-making are likely to be affected by change of climate, season and the celestial operation, as humans are forever an inseparable part of the nature, many study had also confirmed the existence of such effect (Jae H. Kim, 2017; Akhtari, M., 2011; Chang, T., Nieh, C. -C., Yang, M. J., & Yang, T. -Y., 2006; Goetzmann, W. N., & Zhu, N., 2005; Kamstra, M. J., Kramer, L. A., & Levi, M. D., 2003).
+
+Last year (in 2O21), our team published an article titled “Statistics and Practice on the Trend's Reversal and Turning Points of Chinese Stock Indices Based on Gann's Time Theory and Solar Terms Effect" (Zhou Tianbao,LiXinghao & Wang Peng, 2021) in which article, we analyzed the occurrence between general turning points (or called reversal) of stock indices and solar terms especially discussing about time factors. It focused on how to define and screen turning points as well as how many of them are valid to a nearby solar terms by selecting certain time radius with different levels of range of extreme points.The article also clarified the logic with Efficient Market Hypothesis (EMH) and time cycle theory in conducting stock trend predictions. Yet, our previous study regarded all solar terms equally, providing a overal result between solar terms and stock index, that was a attempt to conduct a qualitative study showing the reversal of the relative trend instead of some specific numbers,. this time we will make detail classifications of solar terms, making more specific distinctions.
+
+Previous works on the stock index's return and solar terms done by Wang Mengjiao (2017)and Ni Jiafu (2013) provided us with a aspect from the significance of stock return on the single day of solar term, instead of studying the trend which would be more specific and quantitative. Wang suggested that the solar term effect is another form and explanation of Calender anomalies which exists broadly in stock market causing abnormal stock return against the Efficient Market Hypothesis. By applying regression model among multiple stock indices, she proved that there is a positive effect on solar term Lichun and solar term Chunfen in mainland China, in other words, only a small
+
+portion of 24 solar terms were active to cause fluctuation or significant return in stock indices and for different indices and in different countries and regions, the results were also different. She also claimed that the influence by solar terms effect may be explained by information effect and investor mood. Ni did the similar work while giving readers more discussion about the relationship between Efficient Market Hypothesis and the feasibility of analyzing solar term effect. Zhang Rongwu et al. (2O18), on the other hand, studied the total return of each solar term's duration (i.e. the 15-days duration which we have already introduce before) instead of a single day. Zhang found that stock return is significantly positive during solar terms of Spring and he also explained the reason with solar terms and solar term-related festival. He also suggested that investors in China market was still at a very irrational level, making it possible to gain excess return based on solar term effect.
+
+In this paper, we will continue studying 24 solar terms as another natural factor widely used in China and to analyze how they would affect the daily return of China Shanghai Index (code:0o0001).
+
+# 1.2 Chinese Twenty-four Solar Terms
+
+The Chinese twenty-four Solar Terms (known as “Jie Qi” in Chinese) is a very important part of ancient Chinese culture and guidance on agricultural activities even today. In traditional Chinese culture, there are 36O days roughly in a year divided into 24 different solar terms which means that there are 15 days during each solar term on average. Solar term comes one after another like a time duration as each solar term domains the following 14 days (i.e. altogether 15 days on average). Every solar term has a different name and a unique meaning (which we will display them later), showing the change and feature of the seasons in different levels. Today's twenty-four solar terms are based on the position of the sun on the ecliptic.That's the annual motion track of the sun which is divided into 24 equal parts, each $1 5 ^ { \circ }$ is one part as $1 ^ { \circ }$ equals one day and a year equals $3 6 0 ^ { \circ }$ . In other Words, Chinese Twenty-four Solar Terms can be regarded as 24 seasons in China instead of the common four seasons (Spring, Summer,Fall and Winter) which we are using internationally nowadays. The Chinese Twenty-four Solar Terms is a fantastic refinement and summary of the change and transition of climate. It tells farmer when to sow, when to grow and when to harvest. Surprisingly, the climate always show significant fluctuation (e.g. obvious rise or fall of temperature, snowing, heavy rain, etc.) on the same day when a solar term falls. This kind of change of climate usually lasts in the rest days this solar term domains until the next solar term arrive.In addition, the 15- days duration of each solar term is further divided into three 5-days periods as three “Hou” in Chinese.
+
+Compared with Gann's Time Theory and Eliot's Wave Theory, we believe that the Chinese Twenty-four Solar Terms is also another efficient time division involving natural factors. The value of Chinese Twenty-four Solar Terms has been also widely acknowledged in the field of human's mood, disease treatment, energy analysis, etc (Gan, X., 2013; Jingrui XIE, Tao HONG, 2018). Finding out the potential influence on stock market would be definitely a big step forward of solar terms’ value.
+
+The names of the 24 solar terms were only shown in pinyin and readers can easily find the explanations online.Every solar term has its significant and irreplaceable
+
+meaning in Chinese culture. What’s more the names of solar terms in the table were ordered by Chinese lunar calendar which Lichun is the first term in a lunar year, Yushui is the second and Dahan is the last. However, For the convenience of expression, the number of solar terms was according to the international solar calendar in which Xiaohan is the first, happening around Jan ${ 5 ^ { \mathrm { t h } } }$ each year while Dongzhi is the last, taking place near Dec $2 2 ^ { \mathrm { t h } }$ each year.The Date of occurrence in the third column stands for the date of a solar term's beginning as a solar term does not always fall on the same day every year. Please notice that the range such as Xiaohan Jan 5-Jan 7 does not mean the solar term last three days.
+
+(Table 1) 2. Discussions on stock analysis
+
+# 2.1 Supporting Strategy in Stock Trade
+
+Generally speaking, it's a worthy strategy to trading with ETF funds (corresponding to each index) for common investors rather than buying individual stocks especially for the risk averse and the conservatives. A single company is possibly affected badly by firm-specific risk and unique risk, its public information may be not valuable enough for unprofessional analyst and it's much harder to use fundamental analysis to deal with a company's stock particularly in a shaking market. ETF funds have many advantages, it can be regarded as a type of tradable stock index. It contains from dozens of stocks to hundreds of them. Different blocks of indices represent different aspects of economy and major indices show the overall status of the stock market. ETF funds greatly neutralize the abnormal fluctuation brought by individual stocks and more importantly, they have features and rules to follow as it's much easier to apply technical analysis to win in ETF funds than individual stocks.Luckily,ETF funds in active block also show very high percentage of daily returns and volatility, not much less than some individual stock.
+
+Our team strongly propose to trade with all kinds of ETF funds as they not only show more regulation but can also bring high return at the same time. All of our study will be around stock index and we believe it makes much more sense to do technical analysis with stock index, after that we can trade the matching ETF with the same conclusions.
+
+# 2.2 How Does Technical Analysis Survive in Market Efficiency\
+
+Unlike GDP prediction or CPI analysis, stock market is a extremely complicated trading system running every second with uncountable influence factors. A dominant theory introduced by Fama (197O) in financial market is the Efficient Market Hypothesis, or EMH (Malkiel, Burton, G., 2003) which suggested that unpredictability to the market and with more developed market system, free trading regulation, etc, the more efficient the market is.As a matter of fact that the emerging China's stock market is at a very low efficieny level as China stock market has been there for only around 2O years and many financial derivatives has been not yet accessible， hence there are plenty opportunities to apply fundamental analysis and technical analysis to trade, but actually there's no market beyond semi-strong efficiency so far in the world. Some perspective suggested that the market will never be efficient. (Andrew W. Lo & A. Craig Mac Kinlay, 1998; Jiang Guan & Xiong Dayong, 2013).
+
+In fact, the overall stock markets in the globe are still in a very low level of efficiency so far especially those emerging markets in developing countries.In other words,EMH is a idealistic model drawing a blueprint when all factors are setted well. Similar to the Newton's First law of Motion, it contributes modern science ground-break instructions and developments even though people would never accomplish absolutely zero fraction. However, idealistic status in stock market is far more dificult to realize than Newton's one. Therefore, the existence of EMH would not ruin the possibility and chance of technical analysis (and of course fundamental analysis). On the other hand, stock market consist of numerous investors and financial organizations who wouldn't be, and always not, absolutely rational, technically professional, enough sensitive to information or having a firm and confident mind. That's what exactly the stock market is, to some extent, it's another expression of human nature. References and studies we laid before, together with the solar terms in our study this time, just show the effect brought by natural factors to human's mood, body, decisions, etc.
+
+In addition, the capital flowing into and out market is extremely large every day including some of the closed-end fund, options and futures trades, this large amount of capital will surely form delay and buffers in the market which neutralize the sensitivity and randomness of the market, making the stock index (as we only focus stock indices in the study) more regulated and less stochastic Many previous study also showed that there's still possibility to apply fundamental and technical analysis over EMH (J. M. Patell & M. A.Wolfson, 1984; Sanford J. Grossman & Joseph E. Stiglitz, 1980).
+
+# 2.3 How to Make Predictions in Stock Market ?
+
+To a large extent, stock market is unpredictable no matter individual stocks or stock indices but remain part of predictability as the definition of the word “predictability” itself needs further discussions. Predictions of future GDP, population, yield of crops or even cases of pandemic mostly focus on a specific number, it needs to tell people as much as possible what exactly things will be in the future.However, when it comes to stock market, that's totally different. Same as EMH and Random Walk Theory pointed out, it's almost impossible to give a precise price or points of a stock in the future. The current price or points of a stock has fully shown the willing and result of bidding by investors and the price in the history only represents history. Technical measurement like Moving Average, MACD, KDJ, etc always result in ineffective as these indices are only based on historical data of stock price as well as defaulting a type of inertia of historical price (i.e. the future stock price tends to go along the same direction as it in recent history). Chances are, the price go in a opposite direction tomorrow.
+
+Our team suggested that those kinds of mechanical prediction in stock price should be no long advocated. In this way，we say that the stock market is unpredictable. However, find the statistical feature and regulations of stocks makes more sense. Dow's Theory (Charles Henry Dow Aonan L. & Mengyin L. (translation), 2016) and Gann's Theory both mentioned the recurrence of stock's characteristics and trends as the Bible said “Whatever has happened before will happen again. Whatever has been done before will be done again. There is nothing new under the sun.” It's reasonable, as investors are always human, always irrational and emotional no matter when, they would tend to make similar decisions and strategies when similar situations happen. They would tend to be affected by nature factors when they occur. Hence, many features and characteristics may repeatedly appear in historical price.
+
+The task ahead for researchers and investors is to find more features and regulations but not numeric predictions. Even though nobody would for real figures out the ultimate regulation of stock market as the silver bullet to win, discovering more in its feature would provide us with more strategies and references real trading. The more we find, a step closer to the truth we make. As Dow concluded in his book, no method will be eternally correct, the key is to verify if the feature we find well-appear in the future and if it's effective most of time.
+
+# 3. Interpretation of Data
+
+We would like to claim here again that this study is based on the daily data (including closing price and daily return ） of Shanghai Index (code:Ooooo1) in China from No.1 solar term of 1995 to No.24 solar term of 2021, altogether 26 whole years.
+
+The data is free to download from most securities website.
+
+Shanghai Index is one of the earliest and the most important stock index ever since China stock market began, it contains thousands of stocks and also a wind vane in the whole market.
+
+(The statistics Was in Table 2, Figurel and Figure2)
+
+Notice that, since the data is not continuous (with non-trading days and holidays), it's hard to show them is a specific time series plot, thus labels of x axis do not represent date as we directly show the price and return in orders.
+
+We could see the Shanghai Index reached its peaks in 2007-2008 and 2014-2015 as they are the only two bul markets in China's market (and of course following are the two bear markets). The index before 1995 was highly inefficient and fluctuating, so we abandoned the data in that period. Worth noticing is that the government carried out the $^ { 6 6 } \mathrm { T } { + } 1 ^ { , 9 }$ limit in trading after 1995, therefore the index after 1995 became great regulated than before despite only few of daily return before 2OOO remain sharp volatility as there was a overheat by internet development around 1997.
+
+Overall, the data we screened is ordinary and stable, making statistical study possible.
+
+Original daily return is defined as:
+
+Where stands for closing price of No.n trading day.
+
+Logarithmic return is defined as:
+
+The error of logarithmic return is:
+
+And when,. The error between daily return and logarithmic return is:
+
+When , the error is $5 \times 1 0 ^ { 5 }$ , when, the error is 0.002 and when, the error is O.00125. Nowadays, a stock index is almost impossible to have a daily return beyond $5 \%$ ,so it's reasonable to apply logarithmic return on our study.This time, logarithmic return brings no extra convenience to our study, so we still used the original return as samples.
+
+Many financial hypothesis in stock return suggest that it should conform to the Normal Distribution , but cases in China market doesn't so.Shanghai Index (as well as other major indices in China) shows high peak and thick tailed. QQ plot also confirms this feature as the real data (blue) deviate from the simulated normal distribution sample (orange straight line). In other words, the index return greatly gathers in a very small interval around zero ,it's easy to capture significant return out of them.
+
+(Figure 3 and Figure 4)
+
+# 4. Solar Term Day with Significant Return
+
+# 5. Solar Term Day with Significant Return
+
+In this chapter, we are going to study the feature of return on each solar term day, in other words, we would like to see which solar term will bring significant return to the index. As we introduced before, climate and weather often change significantly on solar term days. Therefore, we correspondingly studied the return on solar term days, only one day ! We have sample in the last 26 years, thus,one solar term is supposed to have 26 samples.Notice that in fact, each solar term has samples less than 26 due to holidays and weekends.Most of them have around 2O samples. We would be evaluating the return on solar term days from four statistics : mean value, deviation, and more importantly skewness and kurtosis.
+
+The ${ { k } ^ { \mathrm { t h } } }$ order central moment of samples is defined as :
+
+Skewness of sample is defined as follow:
+
+Kurtosis of sample is defined as follow:
+
+When skewness is zero, the sample distribution is symmetric, when skewness is positive (or negative), it means that the sample is more likely to fallin a value larger (smaller) than zero.The kurtosis of Normal distribution is 3 while in some cases it's normalized to 0, the result below were not normalized, thus when the kurtosis is larger than 3, the sample has a higher peak whereas the sample peak is lower when it’s kurtosis is smaller than 3.
+
+Now we will define in which cases the return is regarded significant. Since we are studying the Shanghai Index of China, we set the criteria at $0 . 8 \%$ per and $1 \%$ per day. That was all based on the data we analyzed and the experience in stock market. Usually the index would not show daily returns that high (or low) as individual stocks, as it is a set of thousands of stocks and the volatility is surely at a low level. Only a small fluctuation of the index would result in a big shock in the whole market. When Shanghai Index rise (or fall) $0 . 8 \%$ per day, most of the stocks, sectors, ETFs, etc. would rise (or fall) a lot and when Shanghai Index rise (or fall) $1 \%$ in a day, up to $80 \%$ and $90 \%$ of stocks will rise sharply with a great deal of capital flowing into China market from abroad and from HongKong market, in that case some sector ETFs would even show high daily returns as much as individual stocks.
+
+The return on each solar term day in the past 26 years was shown in hist plot below.
+
+(Figure 5 & Table 3)
+
+We found that some of the solar term do not bring significant return, but there are still many of them showing different features that's worthy to analyze. This conclusion is close to what the references had told us before that not all solar term is efficient, investors need to focus on those efficient solar terms.
+
+Solar term No.1 and No.3 (Xiao han and Lichun) showed significant positive return in mean value (nearly $1 \%$ rise in Shanghai index). Besides, solar term No.3 might bring extremely high return as it also appeared high skewness in the result and its kurtosis is also high (as well as their deviations) so that the sample gather together around the positive mean value. All shows that No.3 term was very interesting and it's really safe. Maintaining long position strategy and buying stocks in Solar term No.1 and No.3 is very safe.By analyzing the recent status and the stock you held further at that time,No.l and No4 solar term would bring you significant profits and less risk.
+
+(Figure 6 & Table 4)
+
+On contrary, solar term No.4 resulted in significant negative return, the mean value is almost $- 1 \%$ . That day would be a disaster for the market when Shanghai Index end up with $1 \%$ falling. Meanwhile, solar term No.4 has a lager negative skewness and a large deviation which means that the daily return is not only negative on average but may show extreme negative value. The kurtosis is also large and same as the analysis ofNo.3 solar term, No.4 would stably resulting in negative side.Investors should be great alert on that solar term day. Similar to solar term No.4, solar term No.2 also brings relatively high negative return with a high extreme value also, but not as No.4. its skewness is not low by the way, thus term No.2 is another negative solar term, we should be careful by then.
+
+(Figure 7 & Table 5)
+
+Solar term No.2O is another distinctive solar term.It showed a relatively high mean value and extremely high skewness and kurtosis value (actually both are the highest among all results). The return apparently clustered to its mean value (positive) and those are not gathered would fall in significant high value, bringing a obvious rise in price. No.20 term is positive for investors. The last one to mention is solar term No.11 with a very large skewness, kurtosis as well as a big deviation whereas its mean value is not significant. That meant this solar term is not steadily resulting in positive or negative return, on the other hand, it's keen on bringing extreme value as long as the return does not fall in central area. In other words, this kind of solar term either produces minor return or brings a shock value unlike those return fall evenly from minor value to extreme value. We can call term No.11 an unstable solar term.
+
+(Figure8 & Table 6)
+
+The remaining solar term have no specialty to mention as they produce ordinary daily return like other days, those are called inefficient solar terms as they did not bring high mean value nor significant extreme value on that day.
+
+We also noticed that most of the first several solar terms usually show positive high mean values as well as high skewness (no matter positive or negative) and kurtosis, compared to those orderly after or at the end of the chart.It seems that the solar terms with a small order is more active in every statistics. Coincidentally, the first several solar terms were the most important in their meanings literally as they have much to do with Chinese lunar new year. Solar term No.3 known as Lichun (beginning of spring) happens several days right after the new year and solar term No.2 known as Dahan (great frozen)
+
+happens before the new year. Following terms like No.4, No.5 and No.6 are in spring as a Chinese proverb says the important period of a year is spring. In Chinese tradition, the period close to the new year is great important (the end of cold winter, the warm is about to come) and the season of spring is following. Spring gives vitality and hope for all and spring is a fresh start to embrace a brand-new year. Many times the overheated trends (including bull market) in Chinese market began in spring and thrived in summer. Therefore, capital flows, investors’ enthusiasm, grow of industries, etc. may lead to active return when solar terms fall. And as experience in China stock market, the trend feature, fiery degree as well as whether there would be a rise always could be roughly estimate since spring.
+
+# 6. Volatility ofReturn in Solar Term Duration
+
+# 6.1 Final return and volatility
+
+In this part, we analyzed the daily returns of the following days after each solar term. Different from last chapter which study the return of solar term day (one day), this chapter focused on returns in a period of time. We said in the Introduction that each solar term contains (or domains) 15 following days (only very few solar terms have 14 days or 16 days),and each 15 days are divided as three 5 days periods. We mainly studied the first two periods and three whole periods as the stock (or index) can show significant change in return after these enough days. (i.e.1O natural days and 15 natural days after each solar term). Since readers may be confused of the description above, we put the data set of this chapter in the Appendix A, readers could have a clear visual of what we are doing with.1O natural days contain around 8 trading days and 15 natural days contain around 12 trading days. Each solar term has 26-year samples and we analyze them year by year (not mixing 26 years as a whole).
+
+We summarized the final return in the following chart:
+
+(Table 7)
+
+The quantity in the chart stands for how many years that a solar term has a final absolute return over $2 . 5 \%$ and over $3 . 0 \%$ .In common sense, Shanghai Index can be regarded as periodically active if there's a change over $2 . 5 \%$ within 1O days and that’ why we choose $2 . 5 \%$ and $3 . 0 \%$ as two standard. We eventually selected three special solar terms from the chart which are solar term No.6,No.8 and No.18.
+
+(Table 8)
+
+Solar term No.6 and No.8 were active ,as they had a probability over $50 \%$ to show sharp change in period return. Solar term No.18 was very stable as it showed a probability less than $20 \%$ to have a significant change in the following days. The rest of solar terms were ordinary, resulting a probability around $30 \%$
+
+Similarly, the result of 15-day group is below: (Table 9)
+
+We found that solar term No.18 is still at a very low level to cause volatility. Thus we conclude No.18 is a really stable solar term. Solar term No.6 was still showing a relatively high probability, but the rest of solar term tended to be similar. As approaching to the next solar term, the difference in volatility is becoming small.
+
+Now, We are also going to check out the volatility of return 1O days and 15 days after each solar term.
+
+Let be the return volatility of $\mathrm { N o } . k$ solar term.
+
+was defined as follow:
+
+Where refers to the No.sample index return in the yearth year of $\boldsymbol { k } ^ { \mathrm { { t h } } }$ solar term. $n$ is the total amount of samples in that year, total_count is the total amount of samples of $k ^ { \mathrm { { t h } } }$ solar term (all year together). In 10-day case, n is usually 8 and in 15-day case, $n$ is usually 12, however $n$ is not fixed as in some years it may be smaller than 8 and 12 respectively. The data we attached to this paper will tell you allif there's any confusions.
+
+The result of is below: (Table 10)
+
+It's easy to see that No.18 solar term had the least volatility in both cases and together with the result in Table 7, we can judge that No.18 solar term is a steady solar term. Shanghai Index will be extremely smooth and steady after it until the next solar term arrive. No.8 solar term had a high volatility compared to the rest, together with the result in Table 7 ,we regarded it as a highly active solar term. Shanghai Index will end up with a high range of return while may have sharp fluctuation during that period. However, solar term No.6 did not show high volatility like the No.8, but still having a high range of final return. Hence we suggested that the index after solar term No.6 would roughly continue rising or falling with litte fluctuations. Solar term No.2,4,5,11,10 also had high volatility but maintaining low final return in Table 7, thus they did not show significant characteristic, Other solar terms like them are not useful to this extent. We only focus on finding those are distinctive.
+
+# 5.2 Volatility of Return in Active Years
+
+Another perspective to understand the influence brought by solar terms on index return is based on year activeness. Now solar terms are divided into two categories: efficient solar term in volatility and inefficient solar term in volatility. Inefficient solar term will not afect the return volatility in the following days. But as for those efficient solar terms, we can have different explanations through the data. We have the probabilities above, finding that in many cases the absolute probability is not that significant even though one is efficient solar term. In other words, despite one is efficient solar term, in may not always bring significant volatility in its following days, it also depend on the activeness of the year. In active years such as bull market and bear market, efficient solar term will boost (or strengthen) the daily return or volatility based on its unique feature, in common year, its feature are not expressed apparently. But for the inefficient solar terms, they are inefficient all the times, regardless of the year.
+
+# 7. Conclusions
+
+This study discussed the influences on the daily return of China Shanghai Index (code: OOooo1) brought by Chinese twenty-four solar terms. As a part of the nature, human investors are affected by the climate and the season as they are potentially changing the moods, the way of investing and trading behavior of humans.
+
+Many references and we also suggest that investors in financial market are not rational overall even though the EMH had already introduced an idealistic status in an efficient market,but the fact is almost no stock markets in the world is efficient.
+
+Rather to say that the stock market is a way expressing human characteristic and nature. Cutting in from a new perspective like Chinese twenty-four solar term is a effective approach to analyze how the impact by natural environment, general climate finally lies on stock return, instead of traditional micro analysis.
+
+Stock market is also unpredictable inn most extent, it's almost impossible to predict a certain price, certain return or when the trend would change simply based on historical data and volume (turnover). Technical indices in real practice also result ineffective strategy and lost. In a word, stock market is more complicated than most of objects we are dealing with, it is changing time after time, the only thing we can do is to find out more regulations and feature based on the history and to identify when similar situations appear in the future. We could never figure out the truth, but we could be a step forward with more regulations we find
+
+On some solar terms day, the index show significant daily return while on the rest of the solar terms does not . Solar term No.1 and solar term No.3 showed significant positive average return on the index as well as having a big probability to occur extreme high positive value. Solar term No.2 and solar term No.4 are the opposite, they showed obvious negative average return and large skewnessa and kurtosis, making extreme value fallin the negative range. Solar term No.11 showed mean value of return close to zero but with big fluctuation as extreme value is easy to happen both positive and negative. Overall, the first several solar term tend to be active in each statistic as they are either close to Chinese lunar year or in Spring season which are both important period in a year according to Chinese tradition.
+
+When it comes to the volatility of index return following each solar term, only a couples of solar term show obvious volatility in return while most of them have little difference. We analyzed 1O days (natural days) after and 15 days (natural days) after each solar term, in both cases, solar term No.6 and No.18caused highly volatility as well as high final return (absolute value) while solar term No.18 showed super stable in return's volatility as the index goes very smooth after it. Besides, the rest solar terms in the beginning of a year have high volatility but do not show that high final return as solar term No.8 and No.6.
+
+(Figure 9)
+
+# ACKNOWLEDGEMENTS
+
+We are grateful for the instructions and help from Dr. Zhao as well as the continuous support from College of Science, Beijing Forestry University (BJFU). This paper is perhaps the last one we wrote in BJFU as we are leaving soon in the coming semester, and hopefully it wil get published by the journal eventually, as a gift for this period of our academic experience.
+
+# References
+
+1. Gann, W.D.(2014). 45 Years in Wall Street. Wilder Publications: Saint Paul. 2014. 2. R. N. Eliot, He Jun (translation) (2014). Nature's Law-the Secret of The Universe. Seismological Press, Beijing.. 3. Jae H (2017). Kim Stock returns and investors' mood: Good day sunshine or spurious correlation? International Review of Financial Analysis 52 (2017) 92-103. https://doi.0rg/10.1016/j.irfa.2017.05.004 4. Akhtari, M. (2011). Reassessment of the weather effect: Stock prices and wall street Weather. Undergraduate Economic Review, 7(1). http://digitalcommons.iwu.edu/ uer/vol7/iss1/19 5. Chang, T., Nieh, C. -C., Yang, M. J., & Yang, T. -Y. (2006). Are stock market returns related to the weather effects? Empirical evidence from Taiwan. Physica A, 364, 343-354 6. Goetzmann, W.N.,& Zhu, N.(20o5).Rain or shine: Where is the weather effect? European Financial Management, 11, 559-578. 7. Kamstra, M. J., Kramer, L. A., & Levi, M. D. (2003). Winter blues: A sad stock market cycle. American Economic Review, 93(1), 324-343 8. Zhou Tianbao,Li Xinghao,& Wang Peng (2021). Statistics and Practice on the Trend's Reversal and Turning Points of Chinese Stock Indices Based on Gann's Time Theory and Solar Terms Effect. Mathematics, 2021, 9,1713.. https://doi.org/10.3390/ math9151713 9. Wang, W (2017). A Study on the Solar Term Effects of Stock Market. Master's Thesis, Southeast University, Nanjing, China, 2017. https://kns.cnki.net/kcms/detail/detail.aspx?FileName $\ c =$ 1018003229.nh&DbName=C MFD2018 10. Ni Jiafu (2013). An analysis of the calendar effect of China's stock market -- from the perspective of the 24 solar terms of the Chinese lunar calendar.Master's Thesis, Yunnan University of Finance and Economics, Kunming, China. 11. Zhang Rongwu, Ou Jianyou, & Xu An'na (2018). Empirical Study on the Calender
+
+Effect of Chinese Stock Market from the Perspective of Solar Terms Calender. Journal ofHunan University ofFinance and Economics, 2018/5. https://doi.0rg/10.16546/j.cnki.cn43-1510/f.2018.05.002
+
+12. Gan, X. Study on the Correlation between the Changes of Four Seasons and Solar Terms and the Dynamics of Some Physiological Indexes of Human Body. Master's Thesis, Beijing University of Chinese Medicine, Beijing, China. https://kns.cnki.net/kcms/detail/detail.aspx?FileName $\left. = \right.$ 1013205433.nh&DbName ${ \mathrm { : = } } \mathrm { C }$ （204号
+
+MFD2013   
+13. Jingrui XIE, Tao HONG (2018). Load forecasting using 24 solar terms. Journal   
+of Modern Power Systems and Clean Energy, 6, pages208-214 (2018). https://doi.0rg/10.1007/s40565-017-0374-0   
+14. Fama fE.1970.Efficient capital market: A review of theory and empirical work. Wournal of Finance, t25: 383-417.   
+15. Fama fE. 1991. Efficient capital market:Wournal of Finance,46:1575—617.   
+16. Malkiel, Burton, G. (2003). The Efficient Market Hypothesis and Its Critics.   
+Journal ofEconomic Perspectives, 17 (1): 59-82. https://doi.0rg/10.1257/089533003321164958   
+17. Andrew W.Lo & A. Craig Mac Kinlay (1998). Stock Market Do Not Follow Random Walks; Evidence from a Simple Specification Test. Review of Financial Study, 1 (1998), pp.41-66.   
+18. Jiang Guan & Xiong Dayong (2Oo3). Efficiency and inefficientcy of stock market debate and theoretical development. Inquiry Into Economic Issues,2003-4.   
+19. J. M. Patell & M. A. Wolfson (1984). The Intrady Speed of Adjustment of Stock Price to Earnings and Dividend Announcement. Journal of Financial Economics,13 (June 1984), pp. 223-52.   
+20. Sanford J. Grossman & Joseph E. Stiglitz (1980). On the Impossibility of Informationally Efficient Markets. American Economic Review,70 June 1980.   
+21. Charles Henry Dow Aonan L. & Mengyin L. (translation) (2016). Dow Theory Unplugged. Shanxi Renmin Press, Shanxi, China.
+
+SUPPORTINGINFORMASTION
+
+First Author:   
+周天宝 Tianbao ZHOU (Undergraduate), studying in College of Science, Beijing Forestry University (BJFU), Faculty of math.   
+Research filed: Statistics,Financial Economics, Financial Market   
+Email: michaelzhou@bjfu.edu.cn Tel: 18911731537   
+OCRID: 0000-0001-6782-626X Second Author:   
+李兴浩 Xinghao LI (Undergraduate), studying in School of Information Science & Technology,,Beijing Forestry University (BJFU), Faculty of IT.   
+Research filed: Big Data Analysis, Data Mining, Software Engineering.   
+Email:lixinghao@bjfu.edu.cn Corresponding Author:   
+赵俊光Junguang ZHAO (Doctor),Working in College of Science,Beijing Forestry University (BJFU).   
+Research filed: Statistics, Statistics Applications, Statistics Models.   
+Email:zhaojg@bjfu.edu.cn Tel: 010-62336580
+
+Home page of faculty: http://cos.bjfu.edu.cn Office Tel; 010-62338375 Home page of Dr. ZHAO: http://cos.bjfu.edu.cn/szdw/zysxjys/368897.html Address of BJFU: No.35 of TsingHua East Rd. Haidian District, Beijing, China.100083 (北京市海淀区清华东路35号，北京林业大学，理学院，数学与应用数学 系)Figures
+
+Fig. 1. Historical price data of Shanghai Index from 1995-2021 (trading days)
+
+Fig. 2. Historical daily return of Shanghai Index from 1995-2021 (trading days)
+
+Fig. 3. Distribution plot of daily return (revenue) of Shanghai Index from 1995-2021 (trading days)
+
+Fig. 4. QQ test plot of daily return (revenue) of Shanghai Index from 1995-2021 (trading days).
+
+Fig. 5.Broad view of 24 solar terms’ return Fig. 6. Solar term No.1 and No.3 Fig.7 Solar term No.2 and No.4 Fig.8 Solar term No.11 and No.20
+
+![](images/de6f9d575c697aab5e8ab5f4fe682705c071a04408bcb6f388726af16bd0db66.jpg)  
+Fig.1.Historical price data of Shanghai Index from 1995-2021 (trading days)
+
+![](images/f17b949badaaa87f54869c0a2cb487413cd4d3fa2c283f57089abf49bd7dab20.jpg)  
+Fig. 2.Historical daily return of Shanghai Index from 1995-2021 (trading days)
+
+![](images/d0d55e6a38b65ff54973790d0a14d39ac06ecb43f1da0e16764edf94772a73d6.jpg)  
+Fig. 3.Distribution plot of daily return (revenue) of Shanghai Index from 1995-2021 (trading days)
+
+![](images/5c6d48b533d8a06dc1b6f56fda6abfab037579b2bbd7ed1298172394f9fe7d1a.jpg)  
+Fig. 4. QQ test plot of daily return (revenue) of Shanghai Index from 1995-2021 (trading days).
+
+![](images/2e27ce64dfcfbf54792482d8cb16d4fb6f42a99cf6a3511fe6e6b24c086ff0fe.jpg)  
+Fig. 5.Broad view of 24 solar terms’ return
+
+![](images/272a962e8c0c4bac369b3d42d0ccd016ca3199aa98fb9633808ab87ea16fc9a1.jpg)
+
+![](images/75a8ef99a23e6a4248140cbdf96d9b3d20698216f0fd8b94673e151e16004e0c.jpg)  
+Fig.8 Solar term No.11 and No.20
+
+![](images/3efd0a93bfb427bdab4edce2c910e7efb8a2727e2d780ef1c7c5abe9499c5552.jpg)
+
+![](images/e1e6e49ae771eba3511015607c74aee6a9a18b81fd0d1692315f00722d3dff10.jpg)  
+Fig.9 Result and conclusions throughout the paper
+
+# Tables
+
+Table 1 Names and order of the 24 solar terms
+
+Table 2 Statistics of daily return of Shanghai Index
+
+Table 3 Statistics of solar term days return
+
+Table 4   
+Statistics of solar term No.1 and No.3   
+Table 5   
+Statistics of solar term No.2 and No.4   
+Table 6   
+Statistics of solar term No.2 and No.4
+
+Table 7 Result of return's significance in 1O days after each solar term
+
+Table 8 Probability of return's significance in 1O days after screened solar term
+
+Table 9 Result of return's significance in 15 days after each solar term
+
+Table 10 Return volatility after each solar term.
+
+Table 1 Names and order of the 24 solar terms   
+
+<html><body><table><tr><td>Orders</td><td>Names</td><td>Date of Occurrence</td></tr><tr><td>1</td><td>Xiaohan</td><td> Jan 5-Jan 7</td></tr><tr><td>2</td><td>Dahan</td><td> Jan 20-Jan 21</td></tr><tr><td>3</td><td>Lichun</td><td>Feb 3-Feb 5</td></tr><tr><td>4</td><td>Yushui</td><td>Feb 18-Feb 20</td></tr><tr><td>5</td><td> Jingzhe</td><td>Mar 5-Mar 7</td></tr><tr><td>6</td><td>Chunfen</td><td>Mar 20-Mar 22</td></tr><tr><td>7</td><td>Qingming</td><td>Apr 4- Apr 6</td></tr><tr><td>8</td><td>Gu'yu</td><td>Apr 19-Apr 21</td></tr><tr><td>9</td><td>Lixia</td><td>May 5-May 7</td></tr><tr><td>10</td><td>Xiaoman</td><td>Mar 20-May 22</td></tr><tr><td>11</td><td>Mangzhong</td><td>Jun 5- Jun 7</td></tr><tr><td>12</td><td>Xiazhi</td><td>Jun 21-Jun 22</td></tr><tr><td>13</td><td>Xiaoshu</td><td>Jul 6-Jun 8</td></tr><tr><td>14</td><td>Dashu</td><td>Jul 22- Jul24</td></tr><tr><td>15</td><td>Liqiu</td><td>Aug7-Aug 9</td></tr><tr><td>16</td><td>Chushu</td><td>Aug 22- Aug 24</td></tr><tr><td>17</td><td>Bailu</td><td>Sept 7-Sept 9</td></tr><tr><td>18</td><td>Qiufen</td><td>Sept 22- Sept 24</td></tr><tr><td>19</td><td>Hanlu</td><td>Oct 8-Oct 9</td></tr><tr><td>20</td><td>Shuangjiang</td><td>Oct 23-Oct 24</td></tr><tr><td>21</td><td>Lidong</td><td>Nov 7-Nov 8</td></tr><tr><td>22</td><td>Xiaoxue</td><td>Nov 22-Nov 23</td></tr><tr><td>23</td><td>Daxue</td><td>Dec 6-Dec 8</td></tr><tr><td>24</td><td>Dongzhi</td><td>Dec 20-Dec 21</td></tr></table></body></html>
+
+Table 2 Statistics of daily return of Shanghai Index   
+
+<html><body><table><tr><td>Statistics</td><td>Result</td></tr><tr><td>Mean value</td><td>4.1490*10-4</td></tr><tr><td>Standard deviation</td><td>0.0172</td></tr><tr><td>Skewness</td><td>0.6840</td></tr><tr><td>Kurtosis</td><td>25.1800</td></tr></table></body></html>
+
+Table 3 Statistics of solar term days return   
+
+<html><body><table><tr><td>Orders</td><td>Mean value</td><td>Standard deviation</td><td>Skewness</td><td>Kurtosis</td></tr><tr><td>1</td><td>0.0098</td><td>0.0126</td><td>0.8093</td><td>3.0773</td></tr><tr><td>2</td><td>-0.0058</td><td>0.0174</td><td>-1.1331</td><td>4.0125</td></tr><tr><td>3</td><td>0.0139</td><td>0.0248</td><td>1.6490</td><td>5.6984</td></tr><tr><td>4</td><td>-0.0095</td><td>0.0301</td><td>-1.7765</td><td>5.2528</td></tr><tr><td>5</td><td>0.0046</td><td>0.0198</td><td>1.6305</td><td>6.5091</td></tr><tr><td>6</td><td>0.0057</td><td>0.0141</td><td>-0.9729</td><td>5.0020</td></tr><tr><td>7</td><td>-0.0014</td><td>0.0121</td><td>-0.6167</td><td>1.9008</td></tr><tr><td>8</td><td>0.0032</td><td>0.0148</td><td>0.7888</td><td>3.1988</td></tr><tr><td>9</td><td>-0.0004</td><td>0.0224</td><td>-0.8630</td><td>4.7791</td></tr><tr><td>10</td><td>0.0038</td><td>0.0196</td><td>-1.6737</td><td>6.6380</td></tr><tr><td>11</td><td>0.0034</td><td>0.0200</td><td>2.5043</td><td>8.3282</td></tr><tr><td>12</td><td>0.0012</td><td>0.0154</td><td>-0.0230</td><td>3.2423</td></tr><tr><td>13</td><td>0.0067</td><td>0.0260</td><td>0.0755</td><td>3.4813</td></tr><tr><td>14</td><td>0.0060</td><td>0.0156</td><td>0.2095</td><td>3.1586</td></tr><tr><td>15</td><td>-0.0020</td><td>0.0159</td><td>-0.3203</td><td>3.1637</td></tr><tr><td>16</td><td>-0.0011</td><td>0.0086</td><td>-0.0841</td><td>2.5542</td></tr><tr><td>17</td><td>0.0023</td><td>0.0159</td><td>0.4088</td><td>3.2404</td></tr><tr><td>18</td><td>0.0039</td><td>0.0305</td><td>0.7354</td><td>4.0563</td></tr><tr><td>19</td><td>0.0020</td><td>0.0208</td><td>-0.3245</td><td>2.1533</td></tr><tr><td>20</td><td>0.0048</td><td>0.0261</td><td>2.4608</td><td>9.4855</td></tr><tr><td>21</td><td>-0.0041</td><td>0.0177</td><td>-1.5200</td><td>4.5688</td></tr><tr><td>22</td><td>0.0002</td><td>0.0079</td><td>-0.5919</td><td>3.0101</td></tr><tr><td>23</td><td>0.0017</td><td>0.0074</td><td>-0.0322</td><td>2.3913</td></tr><tr><td>24</td><td>0.0027</td><td>0.0126</td><td>0.6340</td><td>4.0456</td></tr></table></body></html>
+
+Table 4 Statistics of solar term No.1 and No.3   
+
+<html><body><table><tr><td>Orders</td><td>Mean value</td><td>Standard deviation</td><td>Skewness</td><td>Kurtosis</td></tr><tr><td>1</td><td>0.0098</td><td>0.0126</td><td>0.8093</td><td>3.0773</td></tr><tr><td>3</td><td>0.0139</td><td>0.0248</td><td>1.6490</td><td>5.6984</td></tr></table></body></html>
+
+Table 5 Statistics of solar term No.2 and No.4   
+
+<html><body><table><tr><td>Orders</td><td>Mean value</td><td>Standard deviation</td><td>Skewness</td><td>Kurtosis</td></tr><tr><td>2</td><td>-0.0058</td><td>0.0174</td><td>-1.1331</td><td>4.0125</td></tr><tr><td>4</td><td>-0.0095</td><td>0.0301</td><td>-1.7765</td><td>5.2528</td></tr></table></body></html>
+
+Table 6 Statistics of solar term No.2 and No.4   
+
+<html><body><table><tr><td>Orders</td><td>Mean value</td><td>Standard deviation</td><td>Skewness</td><td>Kurtosis</td></tr><tr><td>11</td><td>0.0034</td><td>0.0200</td><td>2.5043</td><td>8.3282</td></tr><tr><td>20</td><td>0.0048</td><td>0.0261</td><td>2.4608</td><td>9.4855</td></tr></table></body></html>
+
+Table 7 Result of return's significance in 1O days after each solar term   
+
+<html><body><table><tr><td>Orders of solar term</td><td>Quantity (≥3.0%)</td><td>Quantity (≥2.5%)</td><td>Orders of solar term</td><td>Quantity (≥3.0%)</td><td>Quantity (≥2.5%)</td></tr><tr><td>1</td><td>8</td><td>9</td><td>13</td><td>6</td><td>8</td></tr><tr><td>2</td><td>7</td><td>10</td><td>14</td><td>6</td><td>8</td></tr><tr><td>3</td><td>5</td><td>8</td><td>15</td><td>9</td><td>12</td></tr><tr><td>4</td><td>11</td><td>13</td><td>16</td><td>8</td><td>10</td></tr><tr><td>5</td><td>10</td><td>13</td><td>17</td><td>8</td><td>11</td></tr><tr><td>6</td><td>12*</td><td>15*</td><td>18</td><td>3*</td><td>6*</td></tr><tr><td>7</td><td>8</td><td>10</td><td>19</td><td>10</td><td>10</td></tr><tr><td>8</td><td>14*</td><td>16*</td><td>20</td><td>8</td><td>8</td></tr><tr><td>9</td><td>7</td><td>10</td><td>21</td><td>9</td><td>11</td></tr><tr><td>10</td><td>8</td><td>11</td><td>22</td><td>9</td><td>11</td></tr><tr><td>11</td><td>11</td><td>13</td><td>23</td><td>10</td><td>11</td></tr><tr><td>12</td><td>8</td><td>9</td><td>24</td><td>10</td><td>11</td></tr></table></body></html>
+
+Note: \* represents significant value
+
+Table 8 Probability of return's significance in 1O days after screened solar term   
+
+<html><body><table><tr><td>Orders of solar term</td><td>Probability (≥3.0%)</td><td>Probability (≥2.5%)</td></tr><tr><td>6</td><td>46.1%</td><td>57.7%</td></tr><tr><td>8</td><td>53.8%</td><td>61.5%</td></tr><tr><td>18</td><td>11.5%</td><td>23.1%</td></tr></table></body></html>
+
+Table 9 Result of return's significance in 15 days after each solar term   
+
+<html><body><table><tr><td>Orders of solar term</td><td>Quantity (≥2.5%)</td><td>Quantity (≥3.0%)</td><td>Quantity (≥3.5%)</td><td>Orders of solar term</td><td>Quantity (≥2.5%)</td><td>Quantity (≥3.0%)</td><td>Quantity (≥3.5%)</td></tr><tr><td>1</td><td>16</td><td>12</td><td>12</td><td>13</td><td>10</td><td>9</td><td>8</td></tr><tr><td>2</td><td>15</td><td>14</td><td>10</td><td>14</td><td>12</td><td>12</td><td>11</td></tr><tr><td>3</td><td>10</td><td>9</td><td>8</td><td>15</td><td>13</td><td>12</td><td>8</td></tr><tr><td>4</td><td>11</td><td>10</td><td>9</td><td>16</td><td>15</td><td>13</td><td>10</td></tr><tr><td>5</td><td>15</td><td>11</td><td>9</td><td>17</td><td>12</td><td>9</td><td>6</td></tr><tr><td>6</td><td>17*</td><td>15*</td><td>13</td><td>18</td><td>5*</td><td>3*</td><td>2*</td></tr><tr><td>7</td><td>15</td><td>10</td><td>9</td><td>19</td><td>9</td><td>8</td><td>8</td></tr><tr><td>8</td><td>13</td><td>13</td><td>12</td><td>20</td><td>11</td><td>10</td><td>8</td></tr><tr><td>9</td><td>13</td><td>13</td><td>11</td><td>21</td><td>17</td><td>14</td><td>13</td></tr><tr><td>10</td><td>13</td><td>11</td><td>11</td><td>22</td><td>11</td><td>9</td><td>7</td></tr><tr><td>11</td><td>16</td><td>15</td><td>15</td><td>23</td><td>17 15</td><td>13</td><td>10</td></tr><tr><td>12</td><td>17</td><td>16</td><td>13</td><td>24</td><td></td><td>13</td><td>13</td></tr></table></body></html>
+
+Note: \* represents significant value
+
+Table 10 Return volatility after each solar term.   
+
+<html><body><table><tr><td>Solar term orders (k)</td><td>After 10 natural days</td><td>After 15 natural days</td></tr><tr><td>1</td><td>40.5021</td><td>48.7093</td></tr><tr><td>2</td><td>54.7428</td><td>65.2435</td></tr><tr><td>3</td><td>43.3743</td><td>49.7741</td></tr><tr><td>4</td><td>55.6144</td><td>52.7643</td></tr><tr><td>5</td><td>55.6144</td><td>62.8905</td></tr><tr><td>6</td><td>38.4684</td><td>49.8677</td></tr><tr><td>7</td><td>32.0374</td><td>49.9039</td></tr><tr><td>8</td><td>51.5379*</td><td>53.4896*</td></tr><tr><td>9</td><td>38.1876</td><td>44.9081</td></tr><tr><td>10</td><td>44.3232</td><td>55.4316</td></tr><tr><td>11</td><td>51.1778</td><td>70.2123</td></tr><tr><td>12</td><td>59.8987</td><td>79.6667</td></tr><tr><td>13</td><td>39.2301</td><td>44.9966</td></tr><tr><td>14</td><td>49.5821</td><td></td></tr><tr><td>15</td><td>38.407</td><td>55.6094</td></tr><tr><td>16</td><td>39.8425</td><td>58.7709</td></tr><tr><td>17</td><td></td><td>44.8225</td></tr><tr><td>18</td><td>34.6263 25.5933*</td><td>41.8624 25.2810*</td></tr></table></body></html>
+
+<html><body><table><tr><td>19</td><td>43.1463 48.3262</td></tr><tr><td>20 38.555</td><td>44.3957</td></tr><tr><td>21 34.9037</td><td>46.5779</td></tr><tr><td>22 34.3997</td><td>47.3214</td></tr><tr><td>23 36.5647</td><td>52.5791</td></tr><tr><td>24 37.6964</td><td>51.0698</td></tr></table></body></html>
+
+Note: \* represents significant value
+
+Appendix A.   
+
+<html><body><table><tr><td>-6.70%</td><td>2.20%</td><td>3.58%</td><td>-1. 50%</td><td>0.42%</td><td>-3.76%</td><td>-0.97%</td><td>-6.99%</td><td>9.38%</td><td>0. 76%</td><td>-0.50%</td><td>2.02%</td><td></td></tr><tr><td>-1. 51%</td><td>3.12%</td><td>3.09%</td><td>1. 60%</td><td>-1. 45%</td><td>4. 77%</td><td>1.89%</td><td>1. 16%</td><td>0. 77%</td><td>0. 22%</td><td>0.41%</td><td>-10.10%</td><td></td></tr><tr><td>2.83%</td><td>1. 29%</td><td>-0.17%</td><td>-1. 22%</td><td>-2. 22%</td><td>-0.31%</td><td>1. 63%</td><td>-1. 58%</td><td>1. 72%</td><td>8.40%</td><td>-3. 88%</td><td>10.11%</td><td></td></tr><tr><td>2.67%</td><td>14.58%</td><td>-2. 11%</td><td>1. 65%</td><td>-0. 28%</td><td>-0.36%</td><td>0.07%</td><td>-2. 44%</td><td>4.25%</td><td>2.48%</td><td>-5.25%</td><td>-7.82%</td><td></td></tr><tr><td>-7.09%</td><td>-4. 22%</td><td>7.00%</td><td>-1. 78%</td><td>1.97%</td><td>0.03%</td><td>1.73%</td><td>3.30%</td><td>-2. 16%</td><td>1. 96%</td><td>-0.02%</td><td>-1. 10%</td><td></td></tr><tr><td>6.59%</td><td>-2.33%</td><td>7.31%</td><td>5.90%</td><td>-1. 30%</td><td>5.27%</td><td>2.73%</td><td>-4.81%</td><td>1. 17%</td><td>-2. 05%</td><td>-2. 93%</td><td>0.34%</td><td></td></tr><tr><td>-1. 49%</td><td>4. 22%</td><td>3.17%</td><td>0.56%</td><td>-1.08%</td><td>4.02%</td><td>1. 55%</td><td>1. 49%</td><td>6.6%</td><td>-2.91%</td><td>3.57%</td><td>1. 45%</td><td></td></tr><tr><td>-10.12%</td><td>20.30%</td><td>1.08%</td><td>2.82%</td><td>-4.71%</td><td>-0.58%</td><td>-1. 73%</td><td>2.36%</td><td>-3.97%</td><td>-5.39%</td><td>-2. 11%</td><td>3.92%</td><td></td></tr><tr><td></td><td>1.84% -0.87%</td><td>-4.81%</td><td>1. 46%</td><td>-5. 76%</td><td>-6.32%</td><td>1. 89%</td><td>-3. 27%</td><td>1. 53%</td><td>0.16%</td><td>-2.05%</td><td>7.06%</td><td></td></tr><tr><td></td><td>-20.77% -3. 85%</td><td>-5. 14%</td><td>3.26%</td><td>9.28%</td><td>2.89%</td><td>-0.11%</td><td>-4.07%</td><td>2.79%</td><td>-0. 62%</td><td> -1. 00%</td><td>-0.02%</td><td></td></tr><tr><td></td><td>-6.14% 11.52%</td><td>-8.55%</td><td>-2. 73%</td><td>4.60%</td><td>1. 75%</td><td>-1. 46%</td><td>-1. 78%</td><td>1.81%</td><td>-5.17%</td><td>5.71%</td><td>-8.64%</td><td></td></tr><tr><td></td><td></td><td></td><td>-4.30%</td><td>-0.23%</td><td></td><td>1.326</td><td></td><td>-1.70%</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>-2.10%</td><td>1.026</td><td>-2.59%</td><td></td><td>0.78%</td><td></td><td>10.88</td><td></td><td>-2.0%</td><td></td><td>-1.87% 4.61%</td><td></td></tr><tr><td>000:</td><td>0.77%</td><td>-7.06%</td><td>-0.50%</td><td>0.05% 0.98%</td><td>1. 72%</td><td>-8.39%</td><td>-1. 25%</td><td>-1. 68%</td><td>-1. 51%</td><td></td><td>4.17% -3. 92%</td><td></td></tr><tr><td></td><td>7.99%</td><td>-1. 55%</td><td>-4.68%</td><td>13.30% -3. 22%</td><td>2.16%</td><td>0.83%</td><td>-0.78%</td><td></td><td>-1. 43% -2. 96%</td><td></td><td>3.37% 4.46%</td><td></td></tr><tr><td></td><td>-0.14%</td><td>0. 78%</td><td>3.87%</td><td>-3.01%</td><td>-2. 76% -2. 82%</td><td>-3.62%</td><td>-0. 99%</td><td></td><td>1. 94% -0.30%</td><td></td><td>3.04% 1.51%</td><td></td></tr><tr><td>Z7</td><td>0. 65%</td><td>-1. 93%</td><td>-5.42%</td><td>5.6%</td><td>4.90% 1. 42%</td><td>0.53%</td><td>-1. 03%</td><td></td><td>-2. 52% 3.54%</td><td></td><td>1. 56% 3.18%</td><td></td></tr><tr><td></td><td>-0.13%</td><td>2.76%</td><td>5.32%</td><td>1.06%</td><td>-2.09% 1. 83%</td><td></td><td>-1. 68% -1.31%</td><td></td><td>-1. 66% -4. 65%</td><td></td><td>0.32% 1. 74%</td><td></td></tr><tr><td></td><td>1. 49%</td><td>8.51%</td><td>3.67%</td><td>1.81%</td><td>-1. 37% -0.31%</td><td></td><td>-4.83% -3.19%</td><td></td><td>0.10% -6.49%</td><td></td><td>-0. 66% -1. 20%</td><td></td></tr><tr><td></td><td>-0. 26%</td><td>-7.92%</td><td>0. 60%</td><td>-0.01%</td><td>1.31%</td><td>0.94%</td><td>2. 23% -2. 47%</td><td></td><td>-2. 43%</td><td>-0. 45%</td><td>-4. 49% 5.47%</td><td></td></tr><tr><td></td><td>-4.98%</td><td>2.44%</td><td>0.23%</td><td>0.83%</td><td>-0.58%</td><td>4.95%</td><td>3.31%</td><td>-5.83%</td><td>-0.90%</td><td>5.07%</td><td>-0. 43% 2.75%</td><td></td></tr><tr><td></td><td>-3.73%</td><td>8.52%</td><td>0. 72%</td><td>-3.10%</td><td>-2.09%</td><td>-1. 49%</td><td>1. 88%</td><td>2.77%</td><td>2.23%</td><td>-3. 48%</td><td>0.01% 2.97%</td><td></td></tr><tr><td></td><td>-4. 42%</td><td>-19.85%</td><td>3.11%</td><td>-2.19%</td><td>0. 46%</td><td> -1. 72%</td><td>-4. 00%</td><td>0.55%</td><td>2.07%</td><td>-1.41%</td><td>2.54% 5.43%</td><td></td></tr><tr><td></td><td>-6.55%</td><td>3.57%</td><td>2.15%</td><td>-3. 31%</td><td>-1. 51%</td><td>-0.16%</td><td>2.48%</td><td>-5.07%</td><td>0.27%</td><td>-0.11%</td><td>2. 27% 14.16%</td><td></td></tr><tr><td></td><td>1995</td><td>1996</td><td>1997</td><td>1998</td><td>1999</td><td>2000</td><td>2001</td><td>2002</td><td>2003</td><td>2004</td><td>2005</td><td>2006</td></tr></table></body></html>
+
+1. Final return 1O days after each solar term (24 solar terms in 26 years)
+
+2. Final return 15 days after each solar term (24 solar terms in 26 years)   
+
+<html><body><table><tr><td>-0.1085</td><td>-0. 0290</td><td>0. 0495</td><td>-0. 0060</td><td>0. 0166</td><td>0.0020</td><td>-0. 0281</td><td>-0.1136</td><td>0.1109</td><td>0.0164</td><td>-0. 0270</td><td>0.0454</td><td>0. 0462</td><td>-0. 0395</td><td>0.0</td></tr><tr><td>-0. 0151</td><td>0. 0379</td><td>0. 0337</td><td>0. 0160</td><td>-0. 0300</td><td>0.0477</td><td>0.0869</td><td>0.0116</td><td>0. 0346</td><td>0.0315</td><td>0.0022</td><td>-0.0886</td><td>-0. 0493</td><td>0.0334</td><td>-0.0</td></tr><tr><td>0.0001</td><td>0.0575</td><td>-0. 0146</td><td>-0. 0122</td><td>-0.0035</td><td>-0.0329</td><td>-0.0031</td><td>0.0110</td><td>0.0190</td><td>-0. 0079</td><td>0.0074</td><td>0. 1477</td><td>-0. 0223</td><td>0.0484</td><td>0.0</td></tr><tr><td>0.0790</td><td>0.1937</td><td>-0.0203</td><td>0. 0313</td><td>0. 0363</td><td>0.0089</td><td>0.0195</td><td>0. 0042</td><td>-0. 0280</td><td>0. 0228</td><td>0. 0203</td><td>-0.0840</td><td>-0.0705</td><td>-0.0053</td><td>0.0</td></tr><tr><td>-0. 0501</td><td>-0. 0349</td><td>0.1037</td><td>-0.0157</td><td>0. 0270</td><td>-0. 0134</td><td>0.0264</td><td>0. 0722</td><td>-0. 0226</td><td>0.0516</td><td>-0. 0513</td><td>-0. 0004</td><td>0. 0676</td><td>-0.1237</td><td>0.0</td></tr><tr><td>0.1152</td><td>-0. 0152</td><td>0.1118</td><td>0.0900</td><td>0.0099</td><td>0.0599</td><td>0. 0378</td><td>-0. 0257</td><td>0. 0315</td><td>0.0074</td><td>-0.0061</td><td>0.0305</td><td>0. 0766</td><td>-0.0941</td><td>0.0</td></tr><tr><td>-0. 0280</td><td>0.0659</td><td>0. 0483</td><td>-0. 0063</td><td>-0. 0293</td><td>0.0300</td><td>0.0285</td><td>0.0003</td><td>0.0580</td><td>-0. 0411</td><td>0.0068</td><td>0. 0422</td><td>0.0391</td><td>-0.1403</td><td>0.0</td></tr><tr><td>-0. 1147</td><td>0.0587</td><td>0. 0233</td><td>0. 0439</td><td>-0. 0511</td><td>-0.0058</td><td>-0. 0154</td><td>0. 0247</td><td>-0.0320</td><td>-0. 0442</td><td>-0. 0211</td><td>0.0392</td><td>0. 0717</td><td>0.1848</td><td>0.0</td></tr><tr><td>0.4975</td><td>0.0606</td><td>-0.0720</td><td>0. 0067</td><td>0. 0173</td><td>-0. 0320</td><td>0.0306</td><td>-0. 0671</td><td>0.0024</td><td>-0.0012</td><td>-0. 0242</td><td>0.1085</td><td>0. 0203</td><td>-0. 0415</td><td>0.0</td></tr><tr><td>-0.2012</td><td>-0.0156</td><td>0.0047</td><td>0. 0290</td><td>0.1000</td><td>0.0501</td><td>0.0060</td><td>-0.0615</td><td>0. 0265</td><td>-0. 0104</td><td>-0. 0534</td><td>0.0071</td><td>-0.0987</td><td>-0.0492</td><td>0.0</td></tr><tr><td>-0. 0703</td><td>0. 1434</td><td>-0.0952</td><td>-0. 0077</td><td>0.1300</td><td>0.0085</td><td>-0.0289</td><td>-0. 0034</td><td>-0. 0061</td><td>-0.0592</td><td>0.0495</td><td>-0. 0517</td><td>0. 1072</td><td>-0.1798</td><td>0.0</td></tr><tr><td>-0. 0104</td><td>-0.0135</td><td>-0.0967</td><td>-0. 0459</td><td>-0. 0302</td><td>-0.0021</td><td>-0.0034</td><td>0.1020</td><td>-0.0060</td><td>0.0078</td><td>-0.0567</td><td>0. 0754</td><td>-0.0758</td><td>-0.0328</td><td>0.0</td></tr><tr><td>0. 0402</td><td>0.0614</td><td>0.0882</td><td>-0. 0086</td><td>0. 0262</td><td>0.0329</td><td>0.0046</td><td>-0.0110</td><td>-0. 0037</td><td>0. 0067</td><td>-0. 0173</td><td>-0. 0375</td><td>0. 0452</td><td>0.0247</td><td>0.0</td></tr><tr><td>-0.0002</td><td>-0. 0359</td><td>-0. 0225</td><td>-0.0168</td><td>0. 0382</td><td>0.0187</td><td>-0.1323</td><td>-0.0019</td><td>-0.0106</td><td>-0. 0131</td><td>0.0797</td><td>-0. 0575</td><td>0.0984</td><td>-0.0546</td><td>0.0</td></tr><tr><td>0.0383</td><td>-0. 0388</td><td>-0. 0289</td><td>-0. 0461</td><td>0.0001</td><td>0.0340</td><td>0.0184</td><td>0. 0159</td><td>-0. 0220</td><td>-0. 0388</td><td>0.0099</td><td>0.0347</td><td>0.0680</td><td>-0.1085</td><td>-0.0</td></tr><tr><td>0. 0327</td><td>-0. 0031</td><td>0. 0570</td><td>-0. 0127</td><td>-0. 0513</td><td>-0.0641</td><td>-0. 0218</td><td>-0.0308</td><td>0.0066</td><td>-0.0030</td><td>0. 0203</td><td>0.0370</td><td>0. 0718</td><td>-0.0874</td><td>-0.0</td></tr><tr><td>-0. 0281</td><td>0.0151</td><td>-0. 0563</td><td>0. 0471</td><td>0. 0289</td><td>-0. 0222</td><td>-0.0010</td><td>-0.0103</td><td>-0. 0311</td><td>0.0938</td><td>-0.0053</td><td>0. 0344</td><td>0.0186</td><td>-0.0319</td><td>0.0</td></tr><tr><td>-0.0047</td><td>0. 0149</td><td>0. 0582</td><td>-0.0131</td><td>-0.0209</td><td>0.0183</td><td>-0.0168</td><td>-0. 0131</td><td>-0.0166</td><td>-0.0465</td><td>0.0032</td><td>0.0174</td><td>0. 0123</td><td>-0.0280</td><td>-0.0</td></tr><tr><td>0. 0238</td><td>0.1126</td><td>0. 0376</td><td>-0.0103</td><td>-0.0164</td><td>0.0168</td><td>-0.1192</td><td>-0.0095</td><td>0. 0128</td><td>-0. 0658</td><td>0.0021</td><td>0.0028</td><td>0.0101</td><td>-0.0939</td><td>0.0</td></tr><tr><td>0.0085</td><td>-0.0948</td><td>0. 0066</td><td>0. 0348</td><td>-0.0021</td><td>0.0165</td><td>0.0004</td><td>0.0023</td><td>-0. 0337</td><td>-0.0046</td><td>-0. 0360</td><td>0. 0721</td><td>-0. 0413</td><td>-0. 0842</td><td>0.0</td></tr><tr><td>-0.0679</td><td>0.0136</td><td>-0. 0306</td><td>-0.0060</td><td>-0.0046</td><td>0.0505</td><td>0.0700</td><td>-0.1053</td><td>0. 0160</td><td>0.0581</td><td>0.0175</td><td>0.0783</td><td>-0.0649</td><td>0.1268</td><td>0.0</td></tr><tr><td>-0.0403</td><td>0.2743</td><td>0.0100</td><td>-0. 0429</td><td>-0. 0260</td><td>-0.0178</td><td>0.0206</td><td>0.0072</td><td>0.0336</td><td>-0. 0314</td><td>-0. 0099</td><td>0.0565</td><td>0. 0118</td><td>0. 0641</td><td>-0.</td></tr><tr><td>-0. 0545</td><td>-0.2905</td><td>0.0188</td><td>-0. 0456</td><td>-0. 0229</td><td>0.0009</td><td>-0. 0603</td><td>0.0193</td><td>0. 0067</td><td>-0. 0367</td><td>0.0283</td><td>0.0863</td><td>0.0020</td><td>-0.0346</td><td>-0.0</td></tr><tr><td>-0. 0974</td><td>-0. 0027</td><td>0. 0440</td><td>-0.0557</td><td>0. 0160</td><td>0.0195</td><td>0.0033</td><td>-0. 0771</td><td>0.0505</td><td>-0. 0254</td><td>0.0546</td><td>0.1270</td><td>0. 0243</td><td>-0.0840</td><td>0.0</td></tr></table></body></html>
+
+To see the entire data, you can copy them in a new excel chart.

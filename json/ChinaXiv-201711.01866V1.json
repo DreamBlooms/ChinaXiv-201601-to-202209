@@ -1,0 +1,453 @@
+[
+    {
+        "type": "text",
+        "text": "秸秆还田施氮调节碳氮比对土壤无机氮、酶活性及作物产量的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李涛1,2 何春娥1 葛晓颖」 欧阳竹1\\*\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.中国科学院地理科学与资源研究所生态系统网络观测与模拟重点实验室北京100101;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2．中国科学院大学北京 100049)",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要秸秆的质量，特别是C/N 是影响秸秆分解速率和养分释放的重要因素。在秸秆还田条件下，如何科学合理地施用氮肥是秸秆利用和优化施肥研究的关键问题。本研究以秸秆还田施入碳氮的C/N为切入点，于2012—2013年通过田间试验(设秸秆不还田不施肥、秸秆还田不施氮、秸秆还田施用无机氮肥调节C/N为 $\\mathbf { \\tau } _ { 1 0 } : \\mathbf { \\tau }$ 1、 $1 6 : 1$ 和 $2 5 : 1$ 以及秸秆还田施用有机氮肥调节C/N为 $2 5 : 1$ 处理)，研究秸秆还田不同氮输入对小麦-玉米轮作田土壤无机氮、土壤微生物量氮、酶活性以及作物产量的影响。结果表明：1)在C/N为 $2 5 : 1$ 下，施用有机氮肥和无机氮肥对土壤无机氮含量无显著影响；在施用无机氮肥的情况下，C/N越低土壤无机氮含量越高。2)秸秆还田施氮提高了土壤微生物量氮含量，但是各秸秆还田施氮处理之间差异不显著；秸秆还田不同施氮处理对脲酶活性无显著影响；秸秆还田施氮提高了FDA水解酶活性，并随C/N降低呈升高趋势，施用无机氮肥的效果强于施用有机氮肥的。3)秸秆还田施用无机氮肥显著提高了小麦和玉米地上部生物量，施用无机氮肥调节C/N为 $1 0 : 1$ 和 $1 6 : 1$ 相比于C/N为 $2 5 : 1$ 提高了小麦和玉米的苗期和成熟期地上部生物量；施用有机氮肥调节C/N为 $2 5 : 1$ 相比秸秆还田不施氮对地上部生物量无显著影响。秸秆还田施用无机氮肥提高了作物产量，施用无机氮肥调节C/N为 $1 6 : 1$ 产量最高，而施用有机氮肥调节C/N为 $2 5 : 1$ 有降低作物产量的趋势。综合以上结果来看，施用无机氮肥调节C/N为 $1 6 : 1$ 较为合理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 秸秆还田有机氮肥 无机氮肥C/N 土壤酶土壤微生物量氮作物产量中图分类号：S154.1 文献标识码：A 文章编号：1671-3990(2016)12-1633-10",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Responses of soil mineral N contents, enzyme activities and crop yield to different C/N ratio mediated by straw retention and N fertilization ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Tao12, HE Chun'e1, GE Xiaoying1,OUYANG Zhu1\\*\\* (1.KeyLaboratoryofEcosystem Network Observationand Modeling,Instituteof Geographic Siencesand Natural Resources Research,Chinese Academyof Sciences,Beijing 100l01,China;2. Universityof Chinese Academyof Sciences,Beijing 100049, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractThequalityof straw afects Nrelease after straw retention.As straw with high C/Nratio could result in N immobilization,additionalNis needed tocompensateNdemandofcrop.MoreandmoreNfertilizerisappiedtosoilforhigh cropyields in China.Therefore,how to scientificallapplyNfertilizeris akeyproblemafterstrawretention.Based on C/N ratio,wecarriedouta field experiment tostudytheefectsof different C/Nratiosonsoil mineralNcontent,microbial parametersand crop yields during the periodof 2012-2013 ina winter wheat-summer maize doublecropping system.The field experiment consisted of six treatments: l) straw removal without fertilizer; 2) straw retention without $\\mathrm { ~ N ~ }$ fertilizer;3） straw retention with conventional N fertilizer(C/N ratio $1 0 : 1$ ); 4)straw retention with mineral N fertilizer(adjusted C/N ratio of $1 6 : 1 \\dot s$ )； 5） straw retention with mineral $\\mathrm { ~ N ~ }$ fertilizer (adjusted $\\mathrm { C } / \\mathrm { N }$ ratio of $2 5 : 1$ ); 6) straw retention with an adjusted C/N ratio of $2 5 : 1$ using organic $\\mathrm { ~ N ~ }$ fertilizer (catle manure). The results showed that: 1） there was no difference between the addition of mineral $\\mathrm { ~ N ~ }$ fertilizer and organic $\\mathrm { ~ N ~ }$ fertilizer on soil mineral $\\mathrm { ~ N ~ }$ content under the same $\\mathrm { C } / \\mathrm { N }$ ratio $( 2 5 : 1 )$ input. In the case of straw retention amended with mineral $\\mathrm { ~ N ~ }$ fertilizer, $\\mathrm { C } / \\mathrm { N }$ ratio of straw retention had significant influence on soil mineral $\\mathrm { ~  ~ { ~ N ~ } ~ }$ content,and C/N ratio was negatively related to soil mineral $\\mathrm { ~  ~ { ~ N ~ } ~ }$ content. 2） Straw retention amendment with $\\mathrm { ~ N ~ }$ fertilizer increased soil microbial biomass $\\mathrm { ~ N ~ }$ content,while no difference in soil microbial biomass $\\mathrm { \\Delta N }$ content among different Nfertilizer inputs treatments.Strawretentionamended with Nfertilizer with siting inintegratedjudgment,theureaseactivity had noremarkably diferent.Strawretentionamended with Nfertilizer increasedFDA hydrolyase activityand there was an increasing tendency with the decreasing of $\\mathrm { C } / \\mathrm { N }$ ratio.3） Straw retention amended with miner $\\mathrm { ~  ~ N ~ }$ fertilizer significantly increased crop above-ground biomass. Compared to straw retention and with an adjusted C/N ratio of $2 5 : 1$ ， straw retention with an adjusted C/N ratio of $1 0 : 1$ and $1 6 : 1$ increased above-ground biomass in both seedling and maturing stage. Compared to straw retention, straw retention amendment with organic $\\mathrm { ~  ~ { ~ N ~ } ~ }$ fertilizer had no influence on crop above-ground biomass. Straw retention amendment with miner $\\mathrm { ~ N ~ }$ fertilizer increased crop yield, especially under the $\\mathrm { C } / \\mathrm { N }$ ratio $1 6 : 1$ input; however, there was a decreased tendency at straw retention amendment with organic N fertilizer under the $\\mathrm { C } / \\mathrm { N }$ ratio $2 5 : 1$ . We concluded that applying mineral $\\mathrm { ~ N ~ }$ fertilizer and adjusting C/N ration to $1 6 : 1$ may be more suitable $\\mathrm { ~ N ~ }$ fertilizer practices after straw retention. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsStrawretention; Organic Nfertilizer;inorganic Nfertilizer; C/Nratio; Soil enzyme; Soil microbial biomasN; Crop yield ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "秸秆是农作物的主要副产品，是含碳丰富的有机资源。随着时代的发展，秸秆由生活能源和动物饲料变成了一种废弃物被大量废弃或焚烧，造成了环境污染和资源的浪费[1]。随着机械化水平的提高,秸秆还田作为提高土壤肥力和改善土壤生态环境的一项重要措施已经得到广泛认可[2-3]。秸秆还田后在土壤微生物参与下被逐渐分解，除环境因素外，秸秆的质量，如：C/N、可溶性有机物含量、氮素含量以及木质素含量等是影响秸秆还田后分解和营养元素释放的重要因子[4]。由于微生物自身的C/N含量比较低，因此低C/N、木质素和难降解有机物含量低的秸秆施入土壤后往往降解比较快，并且能够提高土壤氮素矿化量以及微生物生物量和活性[5-6]；相反，高C/N和木质素含量以及难降解有机物含量高的低质量秸秆，施入土壤后分解缓慢并且导致土壤氮素固持，影响氮素供给[7-8]。所以，还田秸秆的质量对土壤微生物和土壤氮素的矿化-固持过程具有重要的影响。土壤微生物参与土壤多种生物化学反应，是有机物转化以及土壤养分循环的重要驱动力，稳定和活跃的土壤微生物群落是保持农业可持续发展的动力[9-10]。禾本科作物(如小麦和玉米)秸秆一般C/N较高，因此还田后腐解过程中往往出现微生物和作物争夺氮素的现象，造成作物不同程度的减产，因此还田后需补施氮肥以弥补秸秆降解过程中土壤微生物对氮素的固持，从而保证氮素的供给[11]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般认为秸秆C/N为 $2 5 : 1$ 是决定秸秆还田后对土壤氮素固持与否的关键拐点[12]，秸秆的自身组成是不容易改变的，添加氮肥可促进秸秆降解，提高了无机氮含量和土壤微生物生物量[13-15]。关于秸秆还田与氮肥配施调节C/N对作物产量、土壤肥力和土壤微生物等方面的影响已有不少报道[16-18]，但结果表明在不同土壤类型以及气候下，秸秆还田补施氮肥调节施入的C/N对作物产量和土壤微生物的影响并不相同[19-20]。氮素是植物生长的最大限制性影响因子，我国氮肥使用量逐年增加，而利用率却逐渐降低；由于大规模施用氮肥和肥料利用率的降低，大多数养分随径流、渗漏和挥发等途径损失，不仅增加了生产成本，更造成了环境污染和土壤质量的下降[21-22]。黄淮海地区是我国重要的粮食产区,秸秆资源丰富，秸秆还田普及率较高，近年来为了提高作物产量肥料投入不断增加[23]。因此，本试验在田间条件下以秸秆还田施入碳氮的C/N为切入点,通过改变氮肥施用量，调节秸秆直接还田输入碳氮的C/N对黄淮海平原土壤供氮能力(无机氮含量)、土壤微生物生物量氮、土壤酶和作物产量的影响，并比较无机氮和有机氮配施秸秆还田在同一 $\\mathbf { C } / \\mathbf { N } ( 2 5 : 1 )$ 对土壤供氮能力(无机氮含量)、土壤微生物生物量氮、土壤酶和作物产量的影响，为黄淮海地区秸秆还田合理施氮提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验地概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验在中国科学院禹城综合试验站(山东省禹城市)进行，土壤以潮土为主，年均温度 $1 3 . 1 ~ \\mathrm { ~ \\textdegree ~ }$ ，降水偏少且集中，年均降水量 $5 9 3 . 2 ~ \\mathrm { m m }$ ，降水季节差异明显，主要集中在夏季(6—8月)。试验开始前 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层土壤基本理化性质为：有机质 $1 6 . 7 7 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，全氮$0 . 9 5 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ，全磷 $0 . 9 7 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，全钾 $2 0 . 9 2 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ， $\\mathfrak { p H }$ 8.60。种植制度为冬小麦-夏玉米轮作，一年两熟。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验于2012年玉米季和2012—2013年小麦季进行。共设6个处理：秸秆不还田不施肥(CK)、秸秆还田不施氮(S)、秸秆还田 $^ +$ 常规施氮(SF，碳氮比约为 $1 0 : 1 \\dot { }$ 、秸秆还田 $\\mid +$ 配施氮肥调节碳氮比为 $2 5 : 1$ (SCN)、秸秆还田 $^ +$ 配施氮肥调节碳氮比约为 $1 6 : 1$ (SCTN)和秸秆还田 $^ +$ 配施牛粪调节碳氮比为 $2 5 : 1$ (SM)；每个小区3 次重复，18个小区，每个小区长$1 0 . 3 \\mathrm { ~ m ~ }$ ，宽 $7 . 7 \\mathrm { m }$ ，面积为 $7 9 . 3 ~ \\mathrm { m } ^ { 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米季施肥方案：SF施氮量为 $2 7 0 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，基肥、追肥的比例为 $1 : 2$ ，追肥在玉米大喇叭口期施用;SCN 施氮量为 $9 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，全部用作基肥;SCTN施氮量为 $1 8 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，其中 $9 0 ~ \\mathrm { k g }$ 用做基肥, $9 0 ~ \\mathrm { k g }$ 作为追肥在玉米大喇叭口期施用；牛粪经过堆肥化腐熟后使用，牛粪施用量为 $1 2 ~ 3 6 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，全部用做基肥。所用氮肥均为尿素。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "小麦季施肥方案：SF施氮量为 $2 7 0 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，基肥、追肥的比例为 $4 : 6$ ，追肥在小麦拔节期施用;SCN施氮量为 $5 6 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，全部用作基肥；SCTN 施氮量为 $1 1 2 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，其中 $5 6 ~ \\mathrm { k g }$ 用做基肥, $5 6 ~ \\mathrm { k g }$ 作为追肥小麦拔节期施用；牛粪施用量为 $8 0 0 0 \\mathrm { \\ k g { \\cdot h m } } ^ { - 2 }$ ，全部用做基肥。所用氮肥均为尿素。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除不施肥处理外，磷钾肥的施入量同SF处理，即 $1 8 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 }$ 和 $9 0 \\mathrm { ~ k g } { \\cdot } \\mathrm { h m } ^ { - 2 } \\mathrm { ~ K } _ { 2 } \\mathrm { O }$ ，全部用作基肥，所用磷肥和钾肥分别为过磷酸钙和硫酸钾镁肥。作物收获后使用秸秆还田机全部粉碎还田，其中玉米季秸秆还田量约为 $7 0 0 0 \\mathrm { \\ k g ^ { . } h m } ^ { - 2 }$ ，小麦季秸秆还田量约为 $7 ~ 5 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定项目及方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别在玉米、小麦的苗期、拔节期、灌浆期、成熟期，采用五点法，采集耕层 $( 0 { \\sim } 2 0 ~ \\mathrm { c m } )$ 土样进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "称取一定质量的新鲜土壤，按照水土比为 $1 0 : 1$ 用 $2 \\ \\mathrm { m o l { \\cdot } L ^ { - 1 } \\ K C l }$ 溶液浸提，振荡 $3 0 ~ \\mathrm { m i n }$ ，过滤。滤液中铵态氮和硝态氮含量根据鲁如坤[24]的方法测定。土壤微生物量氮(MBN)采用氯仿熏蒸浸提法测定[25]。土壤脲酶活性根据 Kandeler和Gerber[26]的方法测定，以 $\\mu \\mathrm { g } ( \\mathrm { N H _ { 4 } ^ { + } } \\mathrm { - N } ) \\cdot \\mathrm { g ^ { - 1 } } ( \\mathrm { s o i l } ) \\cdot ( 2 \\mathrm { h } ) ^ { - 1 }$ 表示。FDA 水解酶活性根据Sanchez-Monedero等[27]的方法测定,以 $\\mu \\mathrm { g } ( \\mathrm { f l u o r e s c e n } ) { \\cdot } \\mathrm { g } ^ { - 1 } ( \\mathrm { s o i l } ) { \\cdot } \\mathrm { h } ^ { - 1 }$ 表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在玉米和小麦的苗期、拔节期、灌浆期和成熟期采样分析地上部生物量。小麦取样量为随机在每个试验小区采集3个长度为 $2 0 \\ \\mathrm { c m }$ 的地上部植株，玉米的采样量为随机在每个小区采集3株地上部植株。样品在 $7 5 \\ \\mathrm { ~ \\textdegree C }$ 下烘干至恒重，称量干重质量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在小麦成熟期，每个小区采集 $4 ~ \\mathrm { m } ^ { 2 }$ 小麦植株样品自然风干后测定小麦籽粒产量。在玉米成熟期，每个小区随机采集20株玉米，自然风干后测定玉米籽粒产量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用Duncan检验比较不同处理对土壤无机氮、微生物量氮、酶活性、地上部生物量和产量的影响，并采用重复测量方差分析法分析不同处理对上述指标的影响。采用Person相关分析法分析土壤无机氮含量与微生物量氮、酶活性和地上部生物量的相关性。所用分析均利用 SPSS 软件(SPSS14.0,Chicago,USA)分析，显著性水平为 $\\scriptstyle P < 0 . 0 5 _ { \\circ }$ 数据利用MicrosoftExcel整理后，用 Sigmaplot软件(Sigmaplot12.5,CaliforniaUSA)作图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 秸秆还田施氮调节C/N 对土壤无机氮含量的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "秸秆还田施氮调节C/N对土壤无机氮含量(铵态氮和硝态氮之和)的影响见表1。秸秆还田不同施氮调节C/N 显著影响了土壤无机氮含量 $( P { < } 0 . 0 5 )$ 。玉米季，各采样时期均是SF处理土壤无机氮含量最高，且显著高于S处理；苗期和拔节期SCTN和SCN处理无机氮含量无显著差异，灌浆期和成熟期SCTN处理无机氮含量显著高于SCN处理；除拔节期外，SCN处理和SM处理无机氮含量差异不显著。各处理无机氮含量的动态变化并不一致，从苗期至拔节期S、SCN和SM处理无机氮含量升高，但在灌浆期达到最低值；而SF和SCTN处理无机氮含量从苗期至灌浆期一直在升高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "小麦季，苗期和拔节期SF处理无机氮含量显著高于其他处理，而灌浆期和成熟期各处理无机氮含量无显著差异。各处理无机氮含量随生育期呈先降低后升高的变化规律，除SF处理外，各处理无机氮含量均在拔节期达到最低。综合来看，处理和取样时间均显著地影响了土壤无机氮含量 $( P { < } 0 . 0 5 )$ ，各处理无机氮含量大小顺序为 $\\mathrm { S F } { > } \\mathrm { S C T N } { > } \\mathrm { S C N } { > } \\mathrm { S M } { \\geq }$ $\\mathrm { { \\cal S } \\mathcal { \\geq } C K _ { \\circ } }$ 施用无机氮调节碳氮比的3个处理土壤无机氮含量显著不同，碳氮比越低无机氮含量越高，而无机氮配施与有机氮配施无机氮间无显著差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c4f2332e369e47b59922ed2f065d30080aff6f48ae81e9b17334e5d726667d74.jpg",
+        "table_caption": [
+            "表1不同处理对小麦-玉米轮作土壤无机氮含量的影响1Effects of different treatments on soil mineral N content of wheat-maize rotation field"
+        ],
+        "table_footnote": [
+            "CK：秸秆不还田不施肥;S:秸秆还田不施氮;SF：秸秆还田常规施氮(碳氮比约为 $1 0 : 1 \\$ );SCTN：秸秆还田施用无机氮肥调节C/N为16： 1;SCN:秸秆还田施用无机氮肥调节C/N 为 $2 5 : 1$ ；SM:秸秆还田施用有机氮肥调节C/N为 $2 5 : 1 .$ 同行不同字母表示不同处理在 $P { < } 0 . 0 5$ 水 平差异显著。下CKtraldrtietederti;treetidvealertl .is $1 0 : 1$ ); SCTN: straw retention with C/N ratio of $1 6 : 1$ adjusted through mineral N fertilizer; SCN: straw retention with C/N ratio of $2 5 : 1$ adjusted through mineral N fertilizer; SM: straw retention and with C/N ratio of $2 5 : 1$ adjusted through organic N fertilizer (cattle manure).Different letters in the same row indicate significant differences among treatments at $P { < } 0 . 0 5$ . The same below. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>CK</td><td>S</td><td>SF</td><td>SCTN</td><td>SCN</td><td>SM</td></tr><tr><td>玉米苗期 Maize seedling stage</td><td>21.33±2.66b</td><td>14.53±1.18a</td><td>21.44±0.23b</td><td>18.93±1.59b</td><td>20.59±3.30b</td><td>20.14±3.02b</td></tr><tr><td>玉米拔节期 Maize jointing stage</td><td>11.95±0.32a</td><td>23.64±13.92a</td><td>42.13±7.42b</td><td>41.09±4.09b</td><td>41.84±5.60b</td><td>24.02±5.75a</td></tr><tr><td>玉米灌浆期 Maize filling stage</td><td>14.88±0.50a</td><td>17.20±0.89a</td><td>54.07±3.19c</td><td>45.42±1.52b</td><td>19.82±2.37a</td><td>18.59±6.69a</td></tr><tr><td>玉米成熟期 Maize maturing stage</td><td>28.49±0.83a</td><td>26.51±4.79a</td><td>64.10±5.44b</td><td>59.00±4.75b</td><td>33.67±4.17a</td><td>26.60±3.92a</td></tr><tr><td>小麦苗期 Wheat seedling stage</td><td>24.39±1.47a</td><td>20.81±4.99a</td><td>52.15±6.13b</td><td>27.78±9.84a</td><td>17.80±4.28a</td><td>20.45±3.54a</td></tr><tr><td>小麦拔节期 Wheat jointing stage</td><td>13.21±0.85ab</td><td>12.58±2.72ab</td><td>36.99±4.91c</td><td>18.30±1.70b</td><td>14.98±4.30ab</td><td>10.03±1.51a</td></tr><tr><td>小麦灌浆期 Wheat filling stage</td><td>17.69±2.20a</td><td>17.96±1.22a</td><td>18.83±5.15a</td><td>18.52±5.61a</td><td>18.92±3.61a</td><td>19.48±1.14a</td></tr><tr><td>小麦成熟期 Wheat at maturing stage</td><td>29.10±1.69a</td><td>34.55±2.52a</td><td>36.28±2.95a</td><td>30.79±4.03a</td><td>32.31±4.87a</td><td>32.15±4.98a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 秸秆还田施氮调节 C/N 对土壤微生物生物量氮的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "秸秆还田施氮调节C/N对土壤MBN含量的影响见图1。从图1可知，玉米季秸秆还田各处理微生物生物量氮的变化趋势大致相同，表现为先降低再升高再降低，均在灌浆期达到最高。与秸秆还田不施氮相比，秸秆还田配施无机氮肥或有机氮肥提高了作物各生育期的微生物生物量氮，表现为施用无机氮调节C/N为 $2 5 : 1$ 最高，但差异不显著。小麦季秸秆还田各处理微生物生物量氮表现为先降低后升高再降低，施氮同样提高了微生物生物量氮，与玉米季不同，秸秆还田配施无机氮肥的处理中，除苗期外,C/N为 $1 0 : 1$ 处理高于其他两种配施氮肥处理，这可能是由于随着时间的推进秸秆中难降解的部分越来越多，施用氮肥为微生物提供了更多的氮源，从而促进了微生物对氮素的同化。综合来看，SCN处理具有最高的MBN含量，显著高于S处理，其次是SM处理，各处理MBN含量大小顺序为 $\\mathrm { S C N } \\geqslant$ $\\mathrm { S M } { \\geq } \\mathrm { S C T N } { \\geq } \\mathrm { S F } { \\geq } \\mathrm { C K } { \\geq } \\mathrm { S } ($ 图1B)，但是各处理之间MBN含量差异不显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b88726fdcdff44631d4c645d28b54847cf65d14522183a620cd596d60f7ede9a.jpg",
+        "img_caption": [
+            "图1不同处理对小麦-玉米轮作土壤微生物量氮动态变化(A)和均值(B) Fig.1Dynamics ofsoil microbial biomassN(MBN)at different growth stages ofcrops (A)and averages (B)ofwheat-maize rotation field under different treatments MSS：玉米苗期；MJS:玉米拔节期;MFS：玉米灌浆期；MMS:玉米成熟期；WSS:小麦苗期;WJS:小麦拔节期；WFS：小麦灌浆 期;WMS：小麦成熟期。不同字母表示不同处理在 $P { < } 0 . 0 5$ 水平差异显著。下同。MSS: Maize seedling stage; MJS: Maize jointing stage MFS:Maize filingstage;MMS:Maize maturingstage;WSS:Wheatseedlingstage;WJS:Wheatjointingstage;WFS:Wheatfilingstag WMS: Wheat maturing stage.Different letters indicate significant differences among alltreatments at $P < 0 . 0 5$ .The same below. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 秸秆还田施氮调节C/N对土壤酶活性的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "秸秆还田施氮调节C/N对土壤脲酶活性的影响在玉米季和小麦季表现规律不尽相同(图2)。玉米季各处理脲酶活性呈先降低后逐渐升高的趋势，相比于对照，秸秆还田降低了脲酶活性，特别是在苗期;苗期、拔节期和灌浆期，秸秆还田施氮与否均对土壤脲酶活性无显著影响；成熟期，相比于秸秆还田不施氮肥，秸秆还田施用无机氮肥显著提高了脲酶活性，施用有机氮肥对脲酶活性无显著影响。小麦季，各处理脲酶活性呈逐渐升高的趋势，除苗期外，秸秆还田相比于秸秆不还田均降低了脲酶活性；秸秆还田施氮与否对脲酶活性的影响主要表现在苗期和拔节期，苗期SCTN和SM处理显著提高了脲酶活性，拔节期SF和SCTN处理显著提高了脲酶活性。方差分析表明，CK处理脲酶活性高于其他处理，但各处理之间脲酶活性差异不显著，各处理脲酶活性大小顺序为$\\mathrm { C K } \\geqslant \\mathrm { S F } \\geqslant \\mathrm { S C T N } \\geqslant \\mathrm { S C N } \\geqslant \\mathrm { S } \\geqslant \\mathrm { S M }$ ，取样时间以及取样时间和处理的交互性对土壤脲酶活性具有显著影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe19e203eeec1333a0ef3fdc9c360b0b1bd9604866a85fe0a21c22c7c78d08a8.jpg",
+        "img_caption": [
+            "图2不同处理下小麦-玉米轮作土壤脲酶活性的动态变化 Dynamics of urease activities of wheat-maize rotation field under different treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同处理对FDA水解酶活性的影响见图3。由图3可知，玉米季，苗期不同处理对FDA水解酶活性无显著影响；拔节期，秸秆还田施氮提高了FDA水解酶活性，相比于S处理，SF、SCTN和SM处理分别提高 $1 . 1 2 \\% . 2 6 . 1 9 \\%$ 和 $3 . 2 7 \\%$ ,SCN处理使FDA水解酶活性显著降低 $7 . 7 4 \\%$ ；灌浆期，除SCN处理外，秸秆还田施氮降低了FDA 水解酶活性，SF、SCTN和SM处理较S处理分别降低 $1 3 . 5 6 \\% , 1 7 . 2 6 \\%$ 和 $9 . 4 5 \\%$ ，SCN处理较S处理使FDA水解酶活性显著降低 $3 9 . 5 6 \\%$ ；成熟期，SF处理和SM处理较S处理使FDA 水解酶活性显著升高 $8 1 . 0 9 \\%$ 和 $43 . 3 3 \\%$ SCTN处理较S处理提高 $1 1 . 3 8 \\%$ ，SCN处理较S处理显著降低 $3 5 . 4 9 \\%$ 。小麦季，苗期不同处理对FDA水解酶活性无显著影响；拔节期，秸秆还田施氮提高了FDA水解酶活性，相比于S处理,SF、SCTN、SCN和SM处理分别提高 $1 6 . 8 0 \\%$ 人 $4 3 . 4 2 \\%$ ！ $1 4 . 5 0 \\%$ 和 $3 2 . 1 9 \\%$ ；灌浆期，相比于秸秆还田不施氮，秸秆还田施氮显著降低FDA水解酶活性；成熟期，秸秆还田施氮显著提高了FDA水解酶活性，相比于S处理,SCN、SCTN和SM处理分别显著提高 $6 2 . 4 0 \\%$ /$6 8 . 3 6 \\%$ 和 $7 6 . 0 2 \\%$ ,SF处理显著提高 $47 . 3 2 \\text{‰}$ 方差分析表明，除SCN处理外，秸秆还田施氮相比于秸秆还田不施氮提高了FDA水解酶活性，施用无机氮的效果强于施用有机氮，各处理顺序为 $\\mathrm { S F } { \\geqslant } \\mathrm { S C T N } { \\geqslant }$ $\\mathrm { S M } { \\geq } \\mathrm { S } { \\geq } \\mathrm { S C N } { \\geq } \\mathrm { C K } _ { \\circ }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4秸秆还田施氮调节C/N 对玉米和小麦地上部生物量和产量的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同处理对作物地上部生物量的影响见表2。玉米季，苗期，相比于S处理,SF、SCTN和SCN处理显著提高了地上部生物量，SM处理对地上部生物量无显著影响;S处理相比于CK处理显著降低了地上部生物量，在秸秆施用无机氮的3处理中，SF和SCTN处理地上部生物量显著高于SCN处理。拔节期，秸秆还田施氮处理相比于S处理显著提高了地上部生物量，各施氮处理之间地上部生物量差异不显著。灌浆期，SF、SCTN和SCN处理相比于S处理显著提高了地上部生物量，SM处理与S处理之间差异不显著。成熟期，相比于S处理,SF、SCTN和SCN处理显著提高了地上部生物量，而SM处理显著降低了地上部生物量，SF和SCTN处理显著高于SCN 处理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "小麦季苗期，相比于S处理，SF、SCTN处理显著提高了地上部生物量，SCN和SM处理对地上部生物量无显著影响。拔节期和灌浆期各处理小麦地上部生物量差异不显著。成熟期小麦地上部生物量表现为S处理最低，SCTN处理最高，C/N为 $2 5 : 1$ 的两个处理中，SCN处理的地上部生物量最低，但各施氮处理间地上部生物量差异不显著。综合玉米季和小麦季的情况来看，秸秆还田调节C/N施氮对作物生长的苗期和成熟期地上部生物量影响较大，SCTN处理和SF处理对地上部生物量影响差异不显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5429db050c0d292f0189170a29cd7a948083e824ac4ab64fb8a6c3c67ecc3eff.jpg",
+        "img_caption": [
+            "图3不同处理下小麦-玉米轮作土壤FDA水解酶活性的动态变化 3Dynamics of FDA hydrolyase activities of wheat-maize rotation field under different treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f19957caf66d6a4041190a3dbf913f8606b64a4b73f9c153c1435df870e58a0a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>CK</td><td>S</td><td>SF</td><td>SCTN</td><td>SCN</td><td>SM</td></tr><tr><td>玉米苗期 Maize seedling stage</td><td>54.10±4.11b</td><td>44.31±4.00a</td><td>82.06±3.84d</td><td>74.34±6.09cd</td><td>68.02±4.45c</td><td>50.80±6.93ab</td></tr><tr><td>玉米拔节期 Maize jointing stage</td><td>106.57±5.34a</td><td>104.84±12.08a</td><td>133.29±5.71b</td><td>124.46±4.39b</td><td>123.20±13.60b</td><td>130.61±5.17b</td></tr><tr><td>玉米灌浆期 Maize filling stage</td><td>504.91±11.74a</td><td>528.95±60.83a</td><td>624.73±26.16c</td><td>599.57±45.74bc</td><td>628.69±17.46c</td><td>540.57±34.19ab</td></tr><tr><td>玉米成熟期 Maize maturing stage</td><td>605.40±34.38a</td><td>739.23±29.14b</td><td>886.26±19.74d</td><td>884.38±20.63d</td><td>832.62±28.83c</td><td>640.36±10.74a</td></tr><tr><td>Whea小din tage</td><td>2.64±0.39a</td><td>4.04±0.32b</td><td>5.41±0.53c</td><td>5.46±0.81c</td><td>4.50±0.84bc</td><td>4.32±0.62bc</td></tr><tr><td>小麦拔节期 Wheat jointing stage</td><td>49.95±5.11a</td><td>49.94±8.02a</td><td>50.78±2.23a</td><td>53.65±4.48a</td><td>48.22±2.04a</td><td>52.71±2.60a</td></tr><tr><td>小麦灌浆期 Wheatfilling stage</td><td>141.18±13.22a</td><td>121.86±5.76a</td><td>149.54±4.54a</td><td>144.36±18.10a</td><td>126.92±15.13a</td><td>120.30±25.57a</td></tr><tr><td>小麦成熟期 Wheat maturing stage</td><td>131.88±6.44ab</td><td>124.19±3.71a</td><td>163.09±18.06c</td><td>171.98±15.00c</td><td>150.42±11.24bc</td><td>158.94±13.57c</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同处理对作物产量的影响见表3。玉米季，SCTN处理产量最高，CK最低；秸秆还田的5个处理中，SM处理产量最低，显著低于 SF和SCTN处理;施用无机氮肥的3个处理小麦产量无显著差异；施用无机氮和施用有机氮调节C/N为 $2 5 : 1$ 对小麦产量无显著影响。小麦季，SCN处理产量最高，CK最低；秸秆还田的5个处理中，SM处理显著低于其他处理；施用无机氮肥的3个处理对小麦产量无显著影响，但均显著高于秸秆还田不施氮处理。根据玉来和小麦产量，比较投入和产出来看，SCTN处理最为适宜。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4e2113865b705173cd10f5cc1d011742bd921c6372971177a73296f8305093a.jpg",
+        "table_caption": [
+            "表2不同处理对玉米和小麦地上部生物量的影响Table 2Effects of different treatments on aboveground biomass of maize and wheat",
+            "表3不同处理对作物产量的影响Table 3Effects of different treatments on crop yieldskg:hm-2"
+        ],
+        "table_footnote": [
+            "同列不同小写字母表示处理在 $\\scriptstyle P < 0 . 0 5$ 水平差异显著。Differentlowercase letters in the same column indicate significant differencesamong treatments at $P < 0 . 0 5$ #"
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatments</td><td>玉米产量 Maize yield</td><td>小麦产量 Wheat yield</td></tr><tr><td>CK</td><td>8 406.30±636.20a</td><td>4 367.33±350.13a</td></tr><tr><td>S</td><td>10 080.80±545.09bc</td><td>5 132.58±458.32b</td></tr><tr><td>SF</td><td>10 981.80±498.90c</td><td>5 977.33±178.23c</td></tr><tr><td>SCTN</td><td>11 057.55±244.35c</td><td>5 962.83±251.67c</td></tr><tr><td>SCN</td><td>10 301.80±1 272.50bc</td><td>6 174.92±517.60c</td></tr><tr><td>SM</td><td>9 268.90±486.17ab</td><td>4 493.17±172.01a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 秸秆还田施氮调节C/N 对土壤无机氮含量的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "秸秆还田施氮调节C/N显著影响了土壤无机氮含量 $( P { < } 0 . 0 5 )$ 。秸秆施入土壤后，其降解速率受秸秆自身化学组成的影响，一般认为C/N为 $2 5 : 1$ 是决定秸秆施入土壤后对土壤氮素固持与否的关键拐点[12],由于玉米和小麦秸秆碳氮比皆高于 $2 5 : 1$ ，因此玉米、小麦秸秆施入土壤后必然导致土壤微生物对氮素的固持，因此需要补施氮肥来缓解氮素的固持作用，满足秸秆降解和作物生长对氮素的需求。综合小麦-玉米季的情况来看，施用无机氮调节不同C/N下土壤无机氮含量显著不同，C/N越低无机氮含量越高，这表明在秸秆还田时低C/N有利于土壤氮素的供应[14]。另外，本试验通过改变外源氮施入量来实现不同C/N施入的目的，因此不同的施氮量也可能导致不同处理无机氮含量的不同，进而影响微生物量氮、酶活性和作物产量。一般认为施用有机氮相比于施用无机氮更有利于土壤氮素的矿化[28]。而本研究结果表明，无机氮和有机氮配施调节C/N间土壤无机氮含量无显著差异，这可能与牛粪施入前的堆肥过程消耗了有机物料的易分解氮，剩余的多是不容易降解的部分有关。此外，从土壤无机氮含量的动态变化来看，玉米季各处理无机氮含量的变化并不一致，S、SCN和SM处理在灌浆期无机氮含量达到最低值，而SF和SCTN处理无机氮含量在升高，这可能与玉米季的二次追肥有关，追肥为土壤提供了速效氮，提高了土壤无机氮含量。在本研究中，施用无机氮调节碳氮比的3个处理土壤无机氮含量显著不同，碳氮比越低无机氮含量越高，这对满足作物生长时对氮素的利用是有利的，但另一方面同时也可能增加了土壤氮素的损耗。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 秸秆还田施氮调节C/N 对土壤微生物量氮和酶活性的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "秸秆还田后，氮素的可利用性决定了土壤微生物生物量[14]。本试验中秸秆还田补施氮肥提高了土壤无机氮含量，施用无机氮肥越高，土壤中无机氮含量越高，而施氮量增加带来的无机氮含量的提高并未导致微生物生物量氮的提高。Shaukat等[15]在室内培养条件下的研究也表明，秸秆还田施氮后微生物量氮的增加并不随施入无机氮量的增加而增加，秸秆还田碳氮输入C/N为 $1 8 : 1$ 时，微生物量氮最高，而低 $\\mathrm { C / N } ( 9 : 1 )$ 输入却显著降低了整个培养过程中的微生物量氮。在本试验中，微生物量氮的增加不与施氮量增加呈线性增加，可能与本试验样地连续多年秸秆还田土壤微生物生物量已经达到一个相对平衡的饱和状态有关[29]。因此土壤微生物量氮在秸秆还田施氮处理之间差异不显著。微生物生物量氮在玉米、小麦苗期，因小麦、玉米秸秆的施入刺激了微生物的生长，提高了微生物生物量氮，拔节期时秸秆中易分解组分逐渐消耗完毕，微生物量氮逐渐降低，而灌浆期作物生长加快，分泌大量根系分泌物，刺激了微生物的生长，作物成熟期对氮素的需求增加，减少了微生物对氮素的同化，使微生物量氮降低[30]。综合来看，秸秆还田施氮提高了土壤微生物量氮含量，SCN处理最高，其次是SM处理，各秸秆还田施氮处理之间差异并不显著。这表明秸秆还田后施氮量的增加并没有提高微生物量氮。秸秆还田调节输入的C/N为 $2 5 : 1$ 对微生物量氮的提高最为有利，在同一C/N$( 2 5 : 1 )$ 下，施用无机氮处理的微生物量氮更高，这表明同为 $\\mathbf { C } / \\mathbf { N } ( 2 5 : 1 )$ 下输入，相比于有机氮肥，施入无机氮肥对微生物量氮增加的贡献更大[30]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "秸秆还田后土壤微生物对氮素的矿化-固持过程对土壤氮素供给和减少氮素损失具有重要影响[31-32]。本试验中，从玉米生长季微生物量氮含量和土壤无机氮含量的动态变化看，从苗期一拔节期和灌浆期一成熟期，微生物量氮含量降低而土壤无机氮含量升高，而拔节期至灌浆期微生物量氮含量升高但土壤无机氮含量降低(SF和SCTN处理由于追肥除外)。相关性分析表明土壤无机氮含量与微生物量氮含量呈极显著的负相关关系(表4)，这表明微生物量氮与土壤无机氮含量存在着相互制约的关系，固持在土壤微生物中的氮可作为活性氮被重新矿化，供作物吸收利用[33]",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c189b841c123ebd29db9a51577045fd898965a371b5bfe37b92c8774aa9ceaa.jpg",
+        "table_caption": [
+            "表4土壤无机氮含量与微生物量氮含量、脲酶和FDA水解酶活性和作物地上部生物量的相关分析 Table 4Pearsoncorrelationcoeficients betweesoilmineralNcontentandMBN,ureaseactivity,FDAhydrolyaseactivityand above-ground biomass "
+        ],
+        "table_footnote": [
+            "\\*表示在 $P { < } 0 . 0 1$ 水平极显著相关。\\*\\* indicates significant correlation at $P < 0 . 0 1$ ："
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>微生物量氮 Microbial biomass N</td><td>脲酶 Urease activity</td><td>FDA水解酶 FDA hydrolyase activity</td><td>地上部生物量 Above-ground biomass</td></tr><tr><td>Mier机氮含量ent</td><td>-0.237**</td><td>-0.049</td><td>0.314**</td><td>0.435**</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤酶在土壤养分循环中起着重要作用，其活性可以作为衡量土壤微生物活性和土壤肥力的指标[34]。土壤酶主要由土壤微生物分泌并释放到土壤中，与土壤微生物活性密切相关，因此土壤微生物生物量与土壤酶活性之间呈正相关关系[35-36]。秸秆还田为土壤微生物提供了碳氮源和能源，刺激了微生物的生长，提高了土壤酶活性[37]。土壤脲酶是一种专一性水解酶，能将尿素水解为铵态氮供植物吸收利用。本试验表明秸秆还田不同施氮并没有提高土壤脲酶活性，与秸秆不还田相比有降低脲酶活性的趋势，Wu等[38]在室内培养的研究也发现秸秆还田降低了土壤脲酶活性，他们认为脲酶活性的降低是由于培养试验开始时土壤无机氮含量过低所致；也有研究表明施氮会降低土壤脲酶活性。因为土壤中过高的铵态氮含量会抑制土壤脲酶活性[39-40]。本试验也表明，土壤无机氮含量与土壤脲酶活性呈负相关关系(表4)，因此秸秆还田施氮带来的无机氮含量的升高可能导致脲酶活性降低。FDA的水解反应是在土壤脂肪酶、蛋白酶和酯酶等催化下完成的，FDA水解酶活性能够代表土壤微生物活性并与土壤微生物生物量有显著的相关性[24]。本试验表明，秸秆还田提高了FDA 水解酶活性，并且FDA 水解酶活性随C/N降低呈升高趋势，这可能由于低C/N增加了土壤无机氮含量，提高了土壤微生物活性，进而提高了FDA水解酶活性。同时本试验也表明，土壤无机氮含量与FDA水解酶活性呈极显著正相关关系(表4)，但在秸秆还田施用无机氮调节C/N为 $2 5 : 1$ 却降低了FDA水解酶活性，特别是在玉米季，其原因还有待研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3秸秆还田施氮调节C/N对作物地上部生物量和产量的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本试验表明，秸秆还田施氮提高了作物地上部生物量。SF处理地上部生物量最高，其次是SCTN处理，秸秆还田施用无机氮显著提高了地上部生物量，但3个处理间差异不显著；秸秆还田施用有机氮相比于秸秆还田不施氮对地上部生物量没有显著影响。相关性分析表明土壤无机氮含量与地上部生物量呈极显著正相关关系(表4)，这表明无机氮含量的提高能够增加作物地上部生物量。蔡红光等[41的研究也表明施氮量增加提高了无机氮含量、地上部生物量以及作物吸氮量，而作物地上部生物量的提高与吸氮量增加密切相关[33]。在本试验中，秸秆还田施用无机氮的3个处理对地上部生物量影响差异不显著，但对作物地上部生物量的影响却不相同,特别是在作物苗期和成熟期，SF和SCTN处理相比于SCN处理提高了地上部生物量，而SF和SCTN处理之间却差异不显著，原因可能在于过量施氮并不能增加作物对氮素的吸收并降低氮素利用率[42]。对作物产量来说，秸秆还田施用无机氮提高了作物产量，特别是在小麦季，而秸秆还田施用有机氮在输入 $\\mathrm { C } / \\mathrm { N }$ 为 $2 5 : 1$ 的情况下有降低作物产量的趋势。由于玉米、小麦秸秆C/N较高，还田往往造成对土壤氮素的固持，使得土壤无机氮含量降低，从而影响了作物生长，使作物产量降低[43-44]。在本文中施用无机氮的3个处理均提高了作物产量，但是土壤无机氮含量与作物产量之间不存在显著的相关性1 $\\scriptstyle ( r = 0 . 0 4 3$ 5 $\\scriptstyle P = 0 . 7 5 9$ )。虽然,SCN处理和SM处理输入C/N一致，并且两个处理的无机氮含量差异不显著，但SCN处理产量却高于SM处理产量，特别是在小麦季，显著提高小麦产量，这可能与不同处理下作物吸收氮的强度有关。苗峰等[45]的研究表明，秸秆还田有增加小麦产量的趋势，这种增加可能与地上部的吸氮量有关。但是我们在本试验中没有测定不同处理下作物地上部含氮量，因此不能判断有机氮施入相比于无机氮施入降低了作物吸氮量，从而影响了作物产量。另外，地上部生物量并不与作物产量具有一致性，原因可能在于秸秆还田调节C/N施氮影响了作物的吸收氮量，并且吸收氮素在籽粒和茎叶中分配比例不同[46]，从而使得作物产量和地上部生物量规律不一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1)秸秆还田配施无机氮肥下土壤无机氮含量显著不同，C/N越低无机氮含量越高，无机氮肥配施与有机氮肥配施之间土壤无机氮含量无显著差异。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2)秸秆还田施氮提高了土壤微生物量氮含量，但是各秸秆还田施氮处理之间差异不显著。秸秆还田施氮调节C/N 对土壤脲酶活性无显著影响，相比于秸秆不还田不施肥有降低脲酶活性的趋势。除SCN处理外，秸秆还田施氮提高了FDA水解酶活性，并随着C/N的降低有升高的趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3)秸秆还田调节C/N施氮对作物苗期和成熟期地上部生物量影响较大,SCTN(C/N为 $1 6 : 1 \\dot s$ 处理和SF(C/N为 $1 0 : 1 \\$ )处理对地上部生物量影响差异不显著。秸秆还田施用无机氮肥显著提高了地上部生物量，施氮量越大地上部生物量越大；施用有机氮肥调节C/N为 $2 5 : 1$ 相比秸秆还田不施氮对地上部生物量无显著影响。秸秆还田施用无机氮肥提高了作物产量，无机氮肥施用量不同对作物产量的影响无显著差异。综合来看，施用无机氮肥调节C/N 为$1 6 : 1$ 较为合理。由于本试验结果仅为1年的试验结果，还有待多年的试验结果进行验证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]刘世平，聂新涛，张洪程，等．稻麦两熟条件下不同土壤耕 作方式与秸秆还田效用分析[J]．农业工程学报，2006,22(7): 48-51 Liu SP,Nie XT,ZhangHC,et al.Effects of tillage and straw returning on soil fertility and grain yield in a wheat-rice double cropping system[J].Transactions of the CSAE,2006, ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "16(3): 612-619 Zhang J,Wen X X, Liao $\\mathrm { ~ Y ~ C ~ }$ ，et al. Effects of diferent amount of maize straw returning on soil fertility and yield of winter wheat[J].Plant Nutrition and Fertilizer Science,2010, 16(3): 612-619   \n[3]顾美英，唐光木，葛春辉，等．不同秸秆还田方式对和田风 沙土土壤微生物多样性的影响[J]．中国生态农业学报, 2016,24(4): 489-498 Gu M Y, Tang G M,Ge C H,et al. Effects of straw incorporation modes on microbial activity and functional diversity in sandy soil[J]. Chinese Journal of Eco-Agriculture, 2016,24(4): 489-498   \n[4] Georgieva S,Christensen S，Petersen H，et al．Early decomposer assemblages of soil organisms in literbags with vetch and rye roots[J]. Soil Biology and Biochemistry,2005, 37(6): 1145-1155   \n[5] Fang M, Motavalli PP, Kremer R J, et al. Assessing changes in soil microbial communities and carbon mineralization in Bt and non-Bt corn residue-amended soils[J]. Applied Soil Ecology,2007,37(1/2): 150-160   \n[6] Yanni S F,Whalen JK, Simpson MJ,et al. Plant lignin and nitrogen contents control carbon dioxide production and nitrogen mineralization in soils incubated with Bt and non-Bt corn residues[J]. Soil Biology and Biochemistry,2011,43(1): 63-69   \n[7] Thippayarugs S,Toomsan B, Vityakon P,et al. Interactions in decomposition and N mineralization between tropical legume residue components[J]. Agroforestry Systems,2008,72(2): 137-148   \n[8] Moritsuka N, Yanai J, Mori K, et al. Biotic and abiotic processes of nitrogen immobilization in the soil-residue interface[J]. Soil Biology and Biochemistry,2004,36(7): 1141-1148   \n[9] Hartmann M,Frey B,Mayer J,et al. Distinct soil microbial diversityunderlong-termorganicandconventional farming[J]. The ISME Journal,2015,9(5): 1177-1194   \n[10] Nair A,Ngouajio M. Soil microbial biomass,functional microbial diversity,and nematode community structure as affected by cover crops and compost in an organic vegetable production system[J].Applied Soil Ecology,2012,58: 45-55   \n[11] Singh B,Rengel Z. The role of crop residues in improving soil fertility[M]//Marschner P,Rengel Z. Nutrient Cycling in Terrestrial Ecosystems.Berlin Heidelberg:Springer,2007: 183-214   \n[12] Kumar K,Goh K M. Nitrogen release from crop residues and organic amendments as affected by biochemical composition[J]. Communications in Soil Science and Plant Analysis,2003, 34(17/18): 2441-2460   \n[13] Conde E,Cardenas M, Ponce-Mendoza A,et al. The impacts of inorganic nitrogen application on mineralization of （204号 $^ { 1 4 } \\mathrm { C }$ -labelled maizeand glucose,andonprimingeffect in saline alkaline soil[J]. Soil Biology and Biochemistry,2005, 37(4): 681-691   \n[14] Henriksen T M,Breland T A.Nitrogen availability effects on carbon mineralization， fungal and bacterial growth，and enzyme activities during decomposition of wheat straw in   \n[lə」 Snaukat A A,lian X H,Wang X D,et al.Decomposition characteristics of maize(Zea mays.L.） straw with different carbon to nitrogen (C/N） ratios under various moisture regimes[J].African Journal of Biotechnology,2011,10(50): 10149-10156   \n[16] Eagle A J,Bird JA,Horwath W R,et al.Rice yield and nitrogenutilizationefficiencyunderalternativestraw management practices[J]. Agronomy Journal, 20o0,92(6): 1096-1103   \n[17]胡玮，李桂花，任意，等．不同碳氮比有机肥组合对低肥力 土壤小麦生物量和部分土壤肥力因素的影响[J]．中国土壤 与肥料,2011(2):22-27 Hu W,Li G H, Ren Y, et al. The effects of combined organic manure in different carbon-to-nitrogen ratio on wheat biomass and soil fertility in low fertility soil[J].Soil and Fertilizer Sciences in China,201l(2): 22-27   \n[18]唐玉霞，孟春香，贾树龙，等．不同碳氮比肥料组合对肥料 氮生物固定、释放及小麦生长的影响[J]．中国生态农业学 报,2007,15(2): 37-40 Tang Y X,Meng C X,Jia S L,et al. Effects of different C/N combinations of fertilizers on nitrogen biological fixation and release of fertilizer and wheat growth[J]. Chinese Journal of Eco-Agriculture,2007,15(2): 37-40   \n[19]张电学，韩志卿，刘微，等．不同促腐条件下玉米秸秆直接 还田的生物学效应研究[J]．植物营养与肥料学报，2005, 11(6): 742-749 Zhang D X,Han Z Q,Liu W,et al. Biological effect of maize stalk return to field directly under different accretion decay conditions[J].Plant Nutrition and Fertilizer Science,2005, 11(6): 742-749   \n[20] 张雅洁，陈晨，陈曦，等．小麦-水稻秸秆还田对土壤有机 质组成及不同形态氮含量的影响[J]．农业环境科学学报, 2015, 34(11): 2155-2161 Zhang Y J, Chen C,Chen X,et al. Effects of wheat and rice straw returning on soil organic matter composition and content of different nitrogen forms in soil[J]. Journal of Agro-Environment Science,2015,34(11): 2155-2161   \n[21]李东坡，武志杰．化学肥料的土壤生态环境效应[J]．应用 生态学报,2008,19(5): 1158-1165 Li D P,Wu Z J. Impact of chemical fertilizers application on soil ecological environment[J]. Chinese Journal of Applied Ecology,2008,19(5): 1158-1165   \n[22]杨雯玉，贺明荣，王远军，等．控释尿素与普通尿素配施对 冬小麦氮肥利用率的影响[J]．植物营养与肥料学报，2005, 11(5): 627-633 Yang W Y,He M R,Wang Y J,et al. Effect of controlledrelease urea combined application with urea on nitrogen utilization efficiency of winter wheat[J].Plant Nutrition and Fertilizer Science,2005,11(5): 627-633   \n[23]崔振岭，陈新平，张福锁，等．华北平原小麦施肥现状及影 响小麦产量的因素分析[J]．华北农学报，2008，23(S1): 224-229 Cui $Z \\textrm { L }$ ,Chen X P, Zhang F S,et al.Analysis on fertilizer applied and the central factors influencing grain yield of wheat in the Northern China Plain[J].Acta Agriculturae Boreali-Sinica,2008,23(S1): 224-229 出版社,2000:156-161 Lu R K. Soil and Agricultural Chemistry Analysis Method[M]. Beijing: China Agriculture Scientech.Press,20o0:156-161   \n[25] Vance E D,Brookes P C,Jenkinson D S.An extraction method for measuring soil microbial biomass C[J]. Soil Biology and Biochemistry,1987,19(6): 703-707   \n[26] Kandeler E,Gerber H. Short-term assay of soil urease activity using colorimetric determination of ammonium[J]. Biology and Fertility of Soils,1988,6(1): 68-72   \n[27] Sänchez-Monedero M A,Mondini C,Cayuela M L,et al. Fluorescein diacetate hydrolysis,respiration and microbial biomass in freshly amended soils[J]. Biologyand Fertility of Soils,2008,44(6): 885-890   \n[28]邵兴芳，徐明岗，张文菊，等．长期有机培肥模式下黑土碳 与氮变化及氮素矿化特征[J]．植物营养与肥料学报，2014, 20(2):326-335 Shao X F, Xu M G, Zhang W J,et al. Changes of soil carbon and nitrogen and characteristics of nitrogen mineralization under long-term manure fertilization practices in black soil[J]. Journal of Plant Nutrition and Fertilizer，2014,20(2): 326-335   \n[29]赵俊晔，于振文，李延奇，等．施氮量对土壤无机氮分布和 微生物量氮含量及小麦产量的影响[J]．植物营养与肥料学 报,2006,12(4): 466-472 Zhao J Y,Yu Z W,Li Y Q，et al. Effects of nitrogen application rate on soil inorganic nitrogen distribution, microbial biomass nitrogen content and yield of wheat[J]. Plant Nutrition and Fertilizer Science,2006,12(4): 466-472   \n[30]韩晓日，郭鹏程，陈恩凤，等．土壤微生物对施入肥料氮的 固持及其动态研究[J]．土壤学报,1998,35(3):412-418 Han X R,Guo P C,Chen E F,et al.Immobilization of fertilizer nitrogen by soil microbes and its changes[J].Acta Pedologica Sinica,1998,35(3): 412-418   \n[31] Said-Pullicino D,Cucu M A，Sodano M,et al.Nitrogen immobilization in paddy soils as affected by redox conditions and rice straw incorporation[J]. Geoderma,2014,228/229: 44-53   \n[32]宋建国，林杉，吴文良，等．土壤易矿化有机态氮和微生物 态氮作为土壤氮素生物有效性指标的评价[J]．生态学报, 2001,21(2): 290-294 Song JG,Lin S,Wu W L,et al. Evaluation of soil easily mineralizable nitrogen and microbial biomass nitrogen for biological available index[J]. Acta Ecologica Sinica, 2001, 21(2): 290-294   \n[33] Kaewpradit W, Toomsan B，Cadisch G, et al. Mixing groundnut residues and rice straw to improve rice yield and N use efficiency[J]. Field Crops Research，2009,110(2): 130-138   \n[34] 路怡青，朱安宁，张佳宝，等．免耕和秸秆还田对小麦生长 期内土壤酶活性的影响[J].生态与农村环境学报，2013, 29(3): 329-334 Lu YQ, Zhu A N,Zhang JB,et al.Effects of no-tillage and straw incorporation on soil enzyme activity during wheat growth[J]. Journal of Ecology and Rural Environment, 2013, 29(3): 329-334 [JJ] auu fertilizer-induced acidification interact to affect soil microbial and enzyme activity on a long-term sugarcane management experiment[J]. Biology and Fertility of Soils,2005,41(4): 249-256   \n[36] Klose S,Tabatabai M A.Response of phosphomonoesterases insoils to chloroform fumigation[J].Journal of Plant Nutrition and Soil Science,2002,165(4): 429-434   \n[37] 闫慧荣，曹永昌，谢伟，等．玉米秸秆还田对土壤酶活性的 影响[J]．西北农林科技大学学报：自然科学版,2015,43(7): 177-184 Yan HR, Cao Y C,Xie W, et al. Effects of maize straw returning on soil enzyme activity[J]. Journal of Northwest A & F University: Natural Science Edition,2015,43(7):177-184   \n[38] WuFP,Jia Z K, Wang S G, etal. Contrasting effects of wheat straw and its biochar on greenhouse gas emissions and enzyme activities in a Chernozemic soil[J].Biology and Fertility of Soils,2012,49(5): 555-565   \n[39] Song Y Y,Song C C，Mao R,et al. Effect of increased nitrogen availability on soil enzyme performance in wetlands of northeast China[J].Fresenius Environmental Bulletin,2012, 21(12): 3959-3965   \n[40]Gianfreda L，Ruggiero P. Enzyme activities in soil[M]// Nannipieri P, Smalla K. Nucleic Acids and Proteins in Soil. Berlin Heidelberg: Springer,2006: 257-311   \n[41]蔡红光，张秀芝，任军，等．东北春玉米连作体系土壤剖面 无机氮的变化特征[J]．西北农林科技大学学报：自然科学 版,2012,40(5): 143-148 Cai H G, Zhang X Z,Ren J, et al. Characteristics of inorganic nitrogen in soil profile for continuous maize production in Northeast China[J]. Journal of Northwest A&F University: Natural Science Edition,2012,40(5):143-148   \n[42]王爽，孙磊，陈雪丽，等．不同施氮水平对玉米产量、氮素 利用效率及土壤无机氮含量的影响[J].生态环境学报, 2013,22(3): 387-391 Wang S,Sun L,Chen XL,et al. Effects of different nitrogen fertilization levels on maize yield,nitrogen utilization and inorganicnitrogencontentinsoil[J].Ecologyand Environmental Sciences,2013,22(3): 387-391   \n[43] Azam F,Lodhi A,Ashraf M. Availability of soil and fertilizer nitrogen to wetland rice following wheat straw amendment[J]. Biology and Fertility of Soils,1991,11(2): 97-100   \n[44] Rao D N,Mikkelsen D S.Effect of rice straw incorporation on rice plant growth and nutrition[J]. Agronomy Journal, 1976,68(5); 752-756   \n[45]苗峰，赵炳梓，陈金林．秸秆还田与施氮量耦合对冬小麦 产量和养分吸收的影响[J]．土壤,2012,44(3):395-401 Miao F, Zhao B Z,Chen JL. Effects of straw-return coupled with nitrogen fertilizer application on winter wheat yield and nutrient absorption[J]. Soils,2012,44(3): 395-401   \n[46]赵俊晔，于振文．高产条件下施氮量对冬小麦氮素吸收分 配利用的影响[J]．作物学报,2006,32(4):484-490 Zhao JY, Yu Z W.Effects of nitrogen fertilizer rate on uptake, distribution and utilization of nitrogen in winter wheat under high yielding cultivated condition[J].Acta Agronomica Sinica. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

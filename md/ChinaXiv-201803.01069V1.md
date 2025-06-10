@@ -1,0 +1,179 @@
+# DOI:10.5846/stxb201703280535
+
+张春华,居为民,王登杰,王希群,王昕.2004—2013 年山东省森林碳储量及其碳汇经济价值.生态学报,2018,38（5)：1739-1749.ZhangCH,JuWM,WangDJ,Wang $\mathrm { ~ X ~ Q ~ }$ ，Wang X.Biomass carbon stocks and economic value dynamics of forests in Shandong Province from 2004 to2013.Acta Ecologica Sinica,2018,38(5):1739-1749.
+
+# 2004一2013年山东省森林碳储量及其碳汇经济价值
+
+张春华1,2，\*，居为民²，王登杰¹，王希群³，王昕1
+
+1鲁东大学资源与环境工程学院，烟台264025  
+2 江苏省地理信息技术重点实验室，南京大学国际地球系统科学研究所,南京210023  
+3 国家林业局林产工业规划设计院，北京100010
+
+摘要;森林作为陆地生态系统的主体,其林分碳储量及其碳汇经济价值的估算是全球碳循环研究的热点和重要内容。基于2004—2008年和 2009—2013年山东省森林资源清查数据以及实测样地数据改进的生物量蓄积量转换参数,利用生物量转换因子连续函数法,估算 2004—2013年山东省森林碳储量及其碳汇经济价值动态。研究结果表明,2004—2013 年山东省森林面积、碳储量和碳密度分别从2004—2008 年的 $1 5 6 . 1 2 \times 1 0 ^ { 4 } \mathrm { { h m } ^ { 2 } , 3 4 . 7 5 \mathrm { { T g } \mathrm { { \ C } } } }$ 和 $2 2 . 2 6 \mathrm { M g } \ C / \mathrm { h m } ^ { 2 }$ 增加到 2009—2013 年 $1 6 1 . 4 4 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ 、$4 3 . 9 8 \mathrm { T g } \ ( \$ C和 $2 7 . 2 4 \mathrm { M g \ C / h m } ^ { 2 }$ 。人工林是森林面积、碳储量和碳密度增加的主要贡献者,人工林和天然林对森林生物量碳汇的贡献分别为 $9 7 . 3 \%$ 和 $2 . 7 \%$ 。两次森林清查期间,杨树和硬阔软阔类森林的碳储量之和分别占全省总量的 $7 0 . 2 \%$ 和 $6 9 . 6 \%$ ,杨树的碳储量和碳密度增加最为显著。各龄组森林碳储量由大到小依次为:幼龄林>中龄林>成熟林>近熟林 $: >$ 过熟林。森林碳汇经济价值从2004—2008年的243.37亿元增长到2009—2013年的253.42亿元,年均增长2.01亿元，杨树的碳汇经济价值占全省所有森林类型的 $6 0 \%$ ,赤松单位面积碳汇经济价值最强为2.08万元/ha。
+
+关键词：森林碳储量;森林清查数据;生物量转换因子连续函数法;碳汇经济价值;山东省
+
+# Biomass carbon stocks and economic value dynamics of forests in Shandong Province from 2004 to 2013 万
+
+ZHANG Chunhua1,2,\*， JU Weimin²，WANG Dengjie1， WANG Xiqun³， WANG Xin1   
+1 School of Resources and Environmental Engineering，Ludong University，Yantai 264025，China   
+2JigsuPrl   
+Nanjing 210023，China   
+3Planningad Design InstituteofForestProductsIndustry，StateForestryAdministrationofChina，BeijingOo0,China
+
+Abstract:Forests playan importantroleinglobalcarbon sequestrationand climate change mitigation strategies because theyarethe maincomponentofa terrstrial ecosystem.The dynamic biomass carbon stocksand carbon sink economic value assessment offorests are important ways of assesing the globalcarbon cycle.Basedon theforest inventory data between 2004—2008 and 2009—2013 in Shandong Province，and the updated biomas-volume relationship retrieved from field measurements，thedynamicchanges ofbiomasscarbon stocksandthe economic value for Shandong's forests from 204 to 2013 were estimated using the continuous biomass expansion factor method.The results showed that forest areas，biomass carbon stocks，and carbon density increased significantly from $1 5 6 . 1 2 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ， $3 4 . 7 5 \mathrm { T g ~ C ~ }$ and $2 2 . 2 6 \mathrm { M g \ C / h m } ^ { 2 }$ between 2004 and 2008 to $1 6 1 . 4 4 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ， $4 3 . 9 8 \mathrm { T g } \mathrm { ~ C ~ }$ and $2 7 . 2 4 \mathrm { M g \ C / h m } ^ { 2 }$ between 2009 and 2013 in Shandong，respectively. Planted forests dominantlycontributed tothe increases in forestareas，biomass carbon stocks，andcarbon density.About
+
+$9 7 . 3 \%$ and $2 . 7 \%$ of the biomass carbon sink were contributed by planted and natural forests，respectively.The biomass carbon stocks of Populus and hard broadleaf and soft broadleaf forests accounted for $7 0 . 2 \%$ of the provincial total during the period 2004—2008 and $6 9 . 6 \%$ during the period 2O09—2O13.Populus forests held the highest increase in biomass carbon stocks adcarbon density during the study period.The magnitudeof biomasscarbon stocks followed the sequence young forests $>$ middle-aged forests $>$ mature forests $>$ premature forests $>$ overmature forests. The total economic value of the biomass carbon sink for Shandong'sforests increased from RMB24.337bilion yuan forthe periodof 2004—2008 to RMB 25.342 billion yuan for the period of 2009—2013，with the incrementof RMB 0.201bilion yuan per year.The economic value of Populus forests amounted to $60 \%$ of the total for all forest types in Shandong. Pinus densiflora forests had the greatest carbon sink economic value per unit area of $2 . 0 8 \times 1 0 ^ { 4 } \mathrm { y u a n } / \mathrm { h m } ^ { 2 }$ ：
+
+Key Words: forest biomasscarbon stocks；forest inventory data；the continuous biomass expansion factor method；carbon sink economic value；Shandong Province
+
+森林是陆地生态系统中最大的碳库,具有较高的碳密度和较快的碳积累速度,在减缓大气 $\mathrm { C O } _ { 2 }$ 浓度升高和全球气候变暖方面起着关键的作用[1-3]。虽然全球森林面积仅占陆地面积的 $30 \%$ ,但其碳储量却占陆地植被碳储量的 $8 0 \% { \ - } 9 0 \%$ -5]。森林碳储量是反映森林生态系统结构和功能以及森林质量的重要指标,是评估森林固碳能力和碳收支的重要参数[6]。准确及时地估算区域森林碳储量及其碳汇经济价值是国际生态学和全球变化研究的热点和重要内容,是区域制定应对气候变化和森林增汇对策的科学支撑和重要依据。
+
+区域森林碳储量的估算方法有森林清查、通量观测、遥感监测、模型模拟和大气反演等方法[7]。由于森林清查数据的详细性和权威性,近年来在国家(或地区)尺度上利用清查方法估算森林碳储量的研究日益增多[1,3-4,8-10]。在诸多基于森林清查资料估算区域尺度森林碳储量的方法中,生物量转换因子连续函数法被认为是一种简单可行、可靠的方法[1]。自 20 世纪70 年代开始,中国每隔 5年进行一次全国森林资源清查,国内外学者利用这些清查资料开展了全国不同地区和省级尺度的森林碳储量动态变化研究[8:115],为更大尺度的森林碳储量研究提供了很好的基础数据和验证数据。
+
+山东作为经济大省,由于长期人类活动的影响,该区域森林资源破坏严重。自建国后半个多世纪的植树造林和植被恢复,据 2009—2013 年最新森林资源清查调查统计,全省有林地面积为 $3 3 . 1 3 \times 1 0 ^ { 5 } \mathrm { h m } ^ { 2 }$ ,森林覆盖率为 $1 6 . 7 3 \% ^ { [ 1 6 ] }$ 。山东现有森林具有年龄小、平均碳密度低、以人工林为主的特点,具有较大的碳汇潜力。目前关于山东森林碳储量的研究成果多是从国家或地区尺度获得的[4,8],专门针对山东省森林碳储量的研究仍然相对薄弱[17-19],尤其最近10 年森林碳储量的动态变化状况尚不清楚。
+
+基于生物量与蓄积量之间关系进行森林碳储量的估算需要足够多的生物量样地观测数据[20]。以往多数研究建立蓄积量到生物量的转换方程时,受生物量数据样本不足的限制，致使估算结果存在较大的不确定性[8,12]。Zhang 等[8]利用3543 个实测生物量样地数据对全国 30种主要森林类型的生物量蓄积量转换参数进行优化改进,极大地提高了森林碳储量的估算精度。本研究利用国家林业局汇编的山东省第7次（2004—2008年）[21]和第8次（2009—2013年）[16]森林资源清查资料,结合生物量实测数据改进的生物量蓄积量转换参数[8],采用生物量转换因子连续函数法,评估最近10年山东森林碳储量的动态变化及其碳汇经济价值。研究成果有望为区域森林资源的经营管理和碳循环研究提供重要科学依据。
+
+# 1研究数据与方法
+
+# 1.1 研究区概况
+
+山东省位于我国东部沿海的中北段，地理坐标为 $3 4 ^ { \circ } 2 5 ^ { \prime } - 3 8 ^ { \circ } 2 3 ^ { \prime } \mathrm { N } , 1 1 4 ^ { \circ } 3 6 ^ { \prime } - 1 2 2 ^ { \circ } 4 3 ^ { \prime } \mathrm { E }$ ,属暖温带湿润半湿润季风气候类型，年均降水量 $5 5 0 { \mathrm { - } } 9 5 0 { \mathrm { m m } }$ ,年平均温度11— $\cdot 1 4 \mathrm { ^ { \circ } C }$ 。山东省陆地总面积是 $1 . 5 8 \times 1 0 ^ { 5 } { \mathrm { k m } } ^ { 2 }$ ，山地丘陵面积占总面积的 $3 3 \%$ ,总体地貌表现为中部高四周低,平原面积广阔,山地丘陵切割较为强烈,半岛海
+
+岸线曲折,多优良港湾。土壤多属潮土、棕壤、褐土。森林植被类型以温带落叶阔叶林、温带针叶林和温带针叶阔叶混交林为主,其中绝大部分为人工林,天然林比例较低。全省森林资源相对较少,主要分布于鲁东和鲁中南低山丘陵区（图1）。
+
+![](images/358544224ff3ba7343ccdb6a50541160ee49e7685a8f1e6274f68b9520ccd175.jpg)  
+图12010年山东省森林类型分布(来源于中国科学院遥感应用研究所[22])
+
+Fig.1FresttypedistributionofShandongProvincein201（sourcedfromIsteofRemote SensingAplicationsChineseAcadeyf Sciences[22])
+
+# 1.2 数据来源
+
+本研究所用的数据来源于国家林业局汇编的山东省第7次(2004—2008 年)和第8次(2009—2013 年)森林资源清查资料。全国森林资源连续清查主要由国家林业局负责安排,以省为单位,每5年复查一次。国家林业局统一安排每年开展全国森林资源连续清查的省份,当年开展复查,并于年底向国家林业局上报复查成果。山东省分别于2007年和2012年开展复查,每次清查均匀布设固定样地和临时样地,样地间距为 $4 \mathrm { k m } \times$ $4 \mathrm { k m }$ 。森林资源清查数据包括各森林类型的龄级、面积和蓄积以及在各省的分布状况等。每种森林类型根据其生长发育阶段分为5个龄组,即幼龄林、中龄林、近熟林、成熟林和过熟林。森林资源清查将森林划分为林分、经济林、竹林、疏林、灌木林、散生木和四旁树,其中林分包括人工林和天然林,是森林的主体。本文主要对山东森林林分碳储量进行研究。
+
+# 1.3研究方法
+
+# 1.3.1森林碳储量估算
+
+研究证明,我国森林生物量 $( B )$ 与蓄积量 $( V )$ 存在线性关系[11]。因此,可选用Fang 等[11]的生物量转换因子连续函数法估算山东省森林林分的生物量。
+
+$$
+B = a V + b
+$$
+
+式中， $B$ 为林分生物量( $\mathbf { \Delta } \cdot \mathbf { \mathrm { M g } } / \mathbf { h m } ^ { 2 }$ ; $V$ 为林分蓄积量( $\mathbf { \langle m ^ { 3 } / h m } ^ { 2 }$ ） $a$ 和 $b$ 为生物量与蓄积量转换参数。林分生物量仅指林木的活生物量,包括地上生物量(干、枝、叶和皮)和地下生物量(根),并未包括森林生态系统中的灌木层、草本层、枯枝落叶层、森林土壤层以及枯死木等的生物量。方程(1)中,林分生物量对参数 $\mathbf { \Psi } _ { a }$ 和 $b$ 非常敏感。以往研究多采用Fang 等[11]基于758个生物量样地拟合的中国21种森林类型林分生物量与蓄积量间的转换参数。然而,对某些森林类型,Fang 等的线性关系存在样地数不足和林龄偏小的缺陷,导致估算结果产生很大的不确定性[12]。本研究采用 Zhang 等[8]基于3543 个实测生物量样地数据改进的全国 30 种主要森林类型的生物量与蓄积量转换参数（表1）。
+
+尽管不同森林类型的群落组成、年龄结构、林分起源等存在差异,但其生物量碳转换系数变化不大，本研究采用国际上普遍使用的生物量与碳的换算系数0.5 估算森林碳储量[23]。森林碳密度是指单位面积的碳储量。由于每次森林资源清查的时间跨度为5年,因此,两个时期的森林生物量碳汇估算为森林碳储量的变化与这两个时期中间年的差值的比值。
+
+表1山东省主要森林类型的林分生物量和蓄积量的关系[8  
+Table1Relatioshipsbetwnstadbiomassandvoumeofajorforesttypesdeveopedonthebasisofcollctedfieldmeasurementdatai Shandong Province[8]   
+
+<html><body><table><tr><td rowspan="2">森林类型Forest type</td><td colspan="2">方程(1)参数 Parameters in equation(1)</td></tr><tr><td>a</td><td>R² b S</td></tr><tr><td>落叶松 Larix</td><td>0.6079</td><td>17.062 0.8948</td></tr><tr><td>赤松Pinus densiflora</td><td>0.5162</td><td>18.293 0.8357</td></tr><tr><td>油松Pinus tabulaeformis</td><td>0.7709</td><td>8.8631 0.9254</td></tr><tr><td>火炬松Pinus taeda</td><td>0.8136</td><td>7.0371 0.9849</td></tr><tr><td>柏木Platycladus and Cupressus</td><td>0.4904</td><td>30.427 0.9608</td></tr><tr><td>栎类Quercus</td><td>0.7848</td><td>16.715 0.9542</td></tr><tr><td>硬阔类、软阔类Hardwoods，softwoodsa</td><td>0.8918</td><td>28.441 0.8103</td></tr><tr><td>杨树Populus</td><td>0.6251</td><td>11.462 0.8537</td></tr><tr><td>泡桐Davidia</td><td>0.8956</td><td>0.0048 0.9900</td></tr><tr><td>针叶混交林 Mixed coniferoush</td><td>0.7442</td><td>26.806 0.7026</td></tr><tr><td>阔叶混交林 Mixed broadleaf forest</td><td>0.7393</td><td>43.21 0.7314</td></tr><tr><td>针阔混交林 Mixed coniferous and broadleaf forest</td><td>0.4385</td><td>52.905 0.7179</td></tr><tr><td>杂木Acer，Tilia，Ulmusc</td><td>0.7564</td><td>8.3103 0.9800</td></tr></table></body></html>
+
+a硬阔类包括榆树和其他硬阔类,软阔类包括柳树、刺槐和其他软阔类 Hardwoods include Ulmus pumila andother hardwod forests.Softwoodsincludewillowobapsedoacacidoterdforests;混包其松MiedconiferousforestsdePsbergi,Pinuselioii，Pinusqifti,andexoticpineforests;杂木包括核桃和板栗Acer，Tilia，Ulusforestsiludewalutandhestutforests
+
+# 1.3.2森林碳汇经济价值计算
+
+森林碳汇经济价值主要是指森林生态系统固碳释氧功能的价值。目前尚缺乏公认的计算森林碳汇经济价值的方法，其碳汇价格确定没有历史资料和国外经验可以借鉴。本研究以国家标准《森林生态系统服务功能评估规范》（LY/T1721-2008)[24]中公布的参数为依据,采用碳税法评估山东省森林碳汇经济价值,计算公式如下： NZ
+
+$$
+U = U _ { \mathrm { { c } } } + U _ { 0 } = \sum _ { i = 1 } ^ { 1 3 } S _ { i } G _ { c } ( 1 . 6 3 R _ { c } B _ { i } + F ) + \sum _ { i = 1 } ^ { 1 3 } 1 . 1 9 S _ { i } G _ { o } B _ { i }
+$$
+
+式中 ${ \mathcal { O } }$ 表示森林碳汇经济价值; $U _ { \mathrm { c } }$ 表示森林固碳价值; $U _ { 0 }$ 表示森林释氧价值； $S _ { i }$ 为第 $i$ 个森林类型 $( i = 1 , 2$ …，13)的林分面积; $G _ { c }$ 为固碳价格,采用瑞典的碳税率1200 元/t; $R _ { c }$ 为 $\mathrm { C O } _ { 2 }$ 的碳含量 $( 2 7 . 2 7 \%$ ） $B _ { i }$ 为第 $i$ 个森林类型 $( i = 1 , 2 , \cdots , 1 4 )$ 的林分净初级生产力,根据以往研究成果获得（表2）; $F$ 为单位面积森林土壤固碳量,利用其与单位面积森林立木固碳量的比例0.02:0.49 进行计算[40]； $G _ { o }$ 为氧气价格（1000元/t）。
+
+# 2结果与分析
+
+# 2.1不同林分起源森林碳储量的变化
+
+表3是 2004—2013年山东省人工林和天然林的碳储量变化。近年来山东省实施了沿海防护林工程、水系林业生态建设工程和荒山造林绿化工程,该省森林的面积、碳储量和碳密度分别从 2004—2008 年的$1 5 6 . 1 2 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ 、 $3 4 . 7 5 \mathrm { T g }$ C和 $2 2 . 2 6 \mathrm { M g }$ （20 $\mathrm { C } / \mathrm { h m } ^ { 2 }$ 增加到 2009—2013年的 $1 6 1 . 4 4 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ 、 $4 3 . 9 8 \mathrm { T g }$ C和
+
+$2 7 . 2 4 \mathrm { M g \ C / h m } ^ { 2 }$ 。人工林的面积从 $1 4 6 . 0 4 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ 增加到 $1 5 1 . 3 6 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ,净增加 $5 . 3 2 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ,占林分面积净增量的 $100 \%$ 。同时,人工林的碳储量由 2004—2008 年的 $3 3 . 2 2 \mathrm { T g } \mathrm { C }$ 增加到 2009—2013 年的 $4 2 . 2 1 \mathrm { T g } \mathrm { C }$ ,净增加 $8 . 9 9 \mathrm { T g ~ C ~ }$ ,其占林分总碳储量的比例从 $9 5 . 6 \%$ 增加到 $9 6 . 0 \%$ 。在整个研究期间,天然林的面积变化不明显，碳储量由 2004—2008 年的 $\mathrm { 1 . 5 3 T g ~ C }$ 增加到 2009—2013 年的 $1 . 7 7 \mathrm { T g ~ C ~ }$ 。
+
+Table 2Net primary productivity of major forest types in Shandong Prov.   
+
+<html><body><table><tr><td>森林类型</td><td>净初级生产力/（gCm-²a-1) 参考文献</td></tr><tr><td>Forest type</td></tr><tr><td>落叶松 Larix</td></tr><tr><td>赤松Pinus densiflora 1172</td></tr><tr><td>[29] 油松Pinus tabulaeformis 772 * [25-26, 30-31]</td></tr><tr><td>火炬松 Pinus taeda 712</td></tr><tr><td>[32] 柏木Platycladus and Cupressus 955 [25]</td></tr><tr><td>栎类Quercus 968</td></tr><tr><td>[33] 硬阔类、软阔类Hardwoods，softwoods 372* [34-35]</td></tr><tr><td>杨树Populus 928 * [25-26,36-37]</td></tr><tr><td>泡桐Davidia 902 [38]</td></tr><tr><td>针叶混交林 Mixed coniferous 572 [26]</td></tr><tr><td>阔叶混交林 Mixed broadleaf forest 980 [25]</td></tr><tr><td>针阔混交林 Mixed coniferous and broadleaf forest 745* [26,33]</td></tr><tr><td>杂木Acer，Tilia，Ulmus 427 [39]</td></tr></table></body></html>
+
+\*落叶松、油松、硬阔软阔类、杨树和针阔混交林的净初级生产力采用算术平均值
+
+2004—2013 年间山东省森林林分生物量表现为碳汇,共吸收 $9 . 2 3 \mathrm { T g } \mathrm { C }$ ,年均碳汇为 $1 . 8 5 \mathrm { T g \ C / a }$ ,其中人工林和天然林对这个碳汇的贡献分别占 $9 7 . 3 \%$ （ $1 . 8 0 \mathrm { T g } \mathrm { C } / \mathrm { a } )$ 和 $2 . 7 \% ( 0 . 0 5 \mathrm { { T g } ~ C / a ) }$ 。由表3还可见,人工林的碳密度显著增加,由 2004—2008 年的22.75Mg C/ha 增加到2009—2013 年的 $2 7 . 8 9 \mathrm { M g \ C / h m } ^ { 2 }$ ,相当于同期天然林碳密度的 $1 4 9 . 9 \%$ 一 $1 5 8 . 8 \%$ 。这说明山东省森林碳储量和碳汇的增加,主要归因于人工林面积和碳密度的增加。
+
+表2山东省主要森林类型的林分净初级生产力  
+表3 2004—2013年山东省人工林和天然林碳储量和碳汇  
+Table3Biomass carbonstockandcarbonsinkforplantedandnaturalforestsduringtheperiodof204—2013inShandongProvince   
+
+<html><body><table><tr><td rowspan="3">清查期</td><td colspan="4">人工林 Planted forests</td><td colspan="4">天然林 Natural forests</td></tr><tr><td>面</td><td>碳储量 stock/</td><td>碳密度 density/</td><td>Car汇n sink/</td><td>面积</td><td>碳储量</td><td>碳密度 density/</td><td>Car汇 sink/</td></tr><tr><td>（104hm²）</td><td>(Tg C)</td><td>(Mg C/hm²）</td><td>(Tg C/a)</td><td>（104hm²）</td><td>stock/ (Tg C)</td><td>(Mg C/hm²)</td><td>(Tg C/a)</td></tr><tr><td>2004—2008</td><td>146.04</td><td>33.22</td><td>22.75</td><td></td><td>10.08</td><td>1.53</td><td>15.18</td><td>1</td></tr><tr><td>2009—2013</td><td>151.36</td><td>42.21</td><td>27.89</td><td>1.80</td><td>10.08</td><td>1.77</td><td>17.56</td><td>0.05</td></tr></table></body></html>
+
+# 2.2不同森林类型碳储量的变化
+
+山东省森林以人工林为主,不同森林类型的碳储量存在较大差异（表4）。在 2004—2008 年和 2009—2013 年两次森林清查期,杨树的碳储量均最大，分别占森林总碳储量的 $5 5 . 7 \%$ 和 $6 9 . 5 \%$ ;硬阔类、软阔类次之，其碳储量分别占森林总碳储量的 $1 4 . 6 \%$ 和 $1 1 . 1 \%$ ;柏木、针叶混交林、赤松、阔叶混交林、针阔混交林和栎类的碳储量分别介于全省森林碳储量的 $1 \% { - } 1 0 \%$ ;泡桐、落叶松、油松、火炬松和杂木的碳储量均较小，分别占全省森林碳储量的 $1 \%$ 以下。除了硬阔类、软阔类和赤松的碳储量减少外,其他森林类型碳储量均在增加;增加最多的是杨树,净增加 $6 . 4 1 \mathrm { T g ~ C }$ ,年均碳汇为 $1 . 2 8 \mathrm { T g \ C / y r }$ ;其次是针阔混交林、针叶混交林、阔叶混交林、柏木、栎类、杂木、落叶松和油松;火炬松和泡桐增加不明显。各森林类型碳储量的变化与其面积的变化密切相
+
+http://www.ecologica.cn
+
+关：除硬阔类、软阔类、赤松和泡桐的面积减少外,其他森林类型的面积均有所增加。
+
+由表4还可知,2004—2013 年间山东省大多数森林类型的碳密度均在增加（火炬松和阔叶混交林除外），增加相对比例最大的是杨树,碳密度增加了 $3 0 . 0 \%$ 。整个研究期间碳密度最大的森林类型是落叶松,2009—2013 年碳密度高达 $4 4 . 7 0 \mathrm { M g \ C / h m } ^ { 2 }$ 。火炬松的碳密度最低为 $6 . 5 4 \mathrm { M g \ C / h m } ^ { 2 }$ 。
+
+表42004一2013年山东省不同森林类型的碳储量和碳汇  
+
+<html><body><table><tr><td>types</td><td>清查期 (</td><td>Ca</td><td></td><td></td></tr><tr><td>落叶松Larix</td><td>2004- -2008</td><td>16</td><td>0.06</td><td>38.66</td></tr><tr><td></td><td>2009- -2013</td><td>16</td><td>0.07 44.70</td><td>0.00</td></tr><tr><td>赤松Pinus densiflora</td><td>2004—2008</td><td>1343</td><td>1.84 13.67</td><td></td></tr><tr><td></td><td>2009—2013</td><td>1136</td><td>1.72 15.10</td><td>-0.02</td></tr><tr><td>油松Pinus tabulaeformis</td><td>2004—2008</td><td>32</td><td>0.05 15.56</td><td></td></tr><tr><td></td><td>2009—2013</td><td>48</td><td>0.08 17.47</td><td>0.01</td></tr><tr><td>火炬松Pinus taeda</td><td>2004—2008</td><td>16</td><td>0.01 6.70</td><td>一</td></tr><tr><td></td><td>2009- -2013</td><td>16</td><td>0.01 6.54</td><td>0.00</td></tr><tr><td>柏木Platycladus and Cupressus</td><td>2004- -2008</td><td>991</td><td>2.15 21.68</td><td></td></tr><tr><td></td><td>2009- -2013</td><td>1136</td><td>2.55 22.42</td><td>0.08</td></tr><tr><td>栎类Quercus</td><td>2004- -2008</td><td>560</td><td>14.37</td><td></td></tr><tr><td></td><td>2009- -2013</td><td>576</td><td>1.03 17.92</td><td>0.05</td></tr><tr><td>硬阔类、软阔类Hardwoods，softwoods</td><td>2004- -2008</td><td>1914</td><td>26.44</td><td></td></tr><tr><td>杨树Populus</td><td>2009- -2013</td><td>1483 4.87</td><td>32.81</td><td>-0.04</td></tr><tr><td></td><td>2004- -2008</td><td>8933 19.34</td><td>21.65</td><td></td></tr><tr><td>泡桐Davidia</td><td>2009- -2013</td><td>9152 25.75</td><td>28.14</td><td>1.28</td></tr><tr><td></td><td>2004—2008</td><td>128 0.28</td><td>21.91</td><td></td></tr><tr><td>针叶混交林 Mixed coniferous</td><td>2009 -2013</td><td>110 0.28</td><td>25.49</td><td>0.00</td></tr><tr><td></td><td>2004- -2008</td><td>831 2.05</td><td>24.59</td><td></td></tr><tr><td>阔叶混交林 Mixed broadleaf forest</td><td>2009- -2013</td><td>1054</td><td>2.80 26.53</td><td>0.15</td></tr><tr><td></td><td>2004- -2008</td><td>416</td><td>1.69 40.53</td><td>/</td></tr><tr><td></td><td>2009- -2013</td><td>555</td><td>2.13 38.35</td><td>0.09</td></tr><tr><td>针阔混交林</td><td>2004- -2008</td><td>432</td><td>1.43 33.06</td><td>一</td></tr><tr><td> Mixed coniferous and broadleaf forest</td><td>2009- -2013</td><td>750</td><td>2.54 33.82</td><td>0.22</td></tr><tr><td>杂木 Acer，Tilia， Ulmus</td><td>2004- -2008</td><td></td><td></td><td></td></tr><tr><td></td><td>2009- -2013</td><td>112</td><td>0.16 13.86</td><td>0.03</td></tr></table></body></html>
+
+“-”表示无数值
+
+# 2.3不同龄组森林碳储量的变化
+
+森林碳储量与森林年龄结构组成密切相关。图2显示 2004—2013 年山东省林分5个龄组的面积、碳储量和碳密度的变化。从图2可以看出,2004—2008 年和2009—2013 年幼龄林分别占林分总面积的 $7 0 . 0 \%$ 和$6 3 . 1 \%$ ;森林碳储量净增加 $2 . 7 2 \mathrm { T g } \mathrm { ~ C ~ }$ ,年均碳汇为 $0 . 5 4 \mathrm { T g \ C / a }$ ,对林分总碳汇的贡献为 $2 9 . 5 \%$ 。中龄林、近熟林、成熟林和过熟林的面积分别占 $1 8 . 3 \%$ 一 $1 9 . 7 \%$ 、 $5 . 9 \%$ 一 $- 7 . 6 \%$ ） $4 . 6 \%$ 一 $. 7 . 5 \%$ 和 $1 . 1 \%$ 一 $2 . 1 \%$ ;碳储量分别净增加 $2 . 4 3 \mathrm { { T g } \thinspace C \thinspace _ { . } 1 . 5 2 \mathrm { { T g } \thinspace C \thinspace _ { . } 1 . 7 4 \mathrm { { T g } \thinspace C } } }$ 和 $0 . 8 1 \mathrm { T g } \mathrm { C }$ ,占林分总碳汇的 $2 6 . 3 \% 1 6 . 5 \% \ . 1 8 . 9 \%$ 和 $8 . 8 \%$ 。
+
+森林面积的增加是碳储量增加的重要原因之一。面积增量由多到少依次为成熟林、中龄林、近熟林和过熟林,分别增加 $4 . 9 4 \times 1 0 ^ { 4 } \cdot 3 . 2 6 \times 1 0 ^ { 4 } \cdot 2 . 9 8 \times 1 0 ^ { 4 } \cdot 1 . 6 0 \times 1 0 ^ { 4 } \mathrm { { h m } ^ { 2 } }$ ,分别占林分面积总增量的 $9 2 . 9 \% . 6 1 . 3 \% . 5 6 . 0 \%$ 和 $3 0 . 1 \%$ 。另外,森林生长是各个龄组碳储量增加的一个重要原因。幼龄林面积减少 $7 . 4 6 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ,其碳储量的增加主要取决于碳密度的显著增加,从 2004—2008 年的 $1 9 . 1 0 \mathrm { M g \ C / h m } ^ { 2 }$ 增加到 2009—2013 年的 $2 3 . 1 7 \mathrm { M g }$ $\mathrm { C } / \mathrm { h m } ^ { 2 }$ 。中龄林和近熟林的碳密度增加较为明显,分别增加 $4 . 8 8 \mathrm { M g \ C / h m } ^ { 2 }$ 和 $5 . 8 5 \mathrm { M g \ C / h m } ^ { 2 }$ ;成熟林和过熟林则有所下降。过熟林的碳密度分别是中龄林和幼龄林的1.7倍和2.4倍,表明如果中龄林和幼龄林继续生长，将会具有很大的碳汇潜力。
+
+![](images/4c79077df24d79e96115337ca0fe07e864b00b0efb16eae22de624a5319c3fc4.jpg)  
+图22004一2013年山东省森林各龄组的面积、碳储量和碳密度变化
+
+Fig.2Area，biomasscarbonstock，andcarbondensityof foreststandsamong diferentagegroupsduring 2004—2013in Shandong Province
+
+2.4山东省森林碳汇经济价值估算
+
+山东省森林碳汇经济价值从 2004—2008年的243.37亿元增长到 2009—2013年的 253.42 亿元,年均增长2.01亿元,其中森林固碳价值从79.97亿元增长到 83.28亿元,年均增长0.66亿元;释氧价值从163.39 亿元增长到170.14亿元,年均增长1.35亿元（表5）。单位森林面积提供的碳汇经济价值从2004—2008 年的1.56万元/hm²增加到2009—2013年的1.57万元 $\cdot \mathrm { h m } ^ { 2 }$ ,其中单位固碳价值从0.51万元 $\cdot \mathrm { h m } ^ { 2 }$ 增加到0.52万元$\mathrm { { h m } } ^ { 2 }$ ;单位释氧价值增加不明显,分别为1.05万元 $/ \mathrm { h m } ^ { 2 }$ 。
+
+两次森林清查期间,山东省各森林类型的碳汇经济价值都有不同幅度的增长。杨树的固碳价值、释氧价值和碳汇经济价值均最大,分别占全省所有森林类型总固碳价值、释氧价值和碳汇经济价值的 $6 0 \%$ 以上。赤松、柏木、硬阔类、软阔类和针叶混交林的碳汇经济价值介于9.78—27.89 亿元,其余森林类型低于10 亿元。2004—2013 年间,针阔混交林的碳汇经济价值增加最为显著,为4.20亿元;其次是杨树、针叶混交林、柏木、阔叶混交林、杂木、栎类和油松;火炬松和落叶松变化不明显;泡桐、硬阔类、软阔类和赤松呈现下降趋势,以赤松降低最为显著(4.30亿元)。从单位森林面积提供的碳汇经济价值来看,赤松、阔叶混交林、栎类、柏木、杨树、针叶混交林、落叶松和泡桐的碳汇经济价值都高于同一时期全省的平均水平,其中以赤松最高为2.08 万元/$\mathrm { { h m } } ^ { 2 }$ 。在整个研究期间,除针叶混交林和杂木外,其余森林类型的单位面积碳汇经济价值变化不明显。
+
+Trerr gr rteerrreier rergerir garlenegr rnerrarree rurerrierrbirr   
+1 - 2 ￥ V ?   
+
+<html><body><table><tr><td rowspan="2">森林类型</td><td colspan="5">L 2004—2008</td><td colspan="5">2009—2013</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.09</td><td>0.18</td><td></td><td>0.26</td><td>1.63</td><td>0.09</td><td></td><td>0.18</td><td>0.26</td><td>1.63</td></tr><tr><td>落叶松 Larix 赤松Pinus densiflora</td><td>9.17</td><td>18.73</td><td></td><td>27.89</td><td>2.08</td><td>7.75</td><td></td><td>15.84</td><td>23.60</td><td>2.08</td></tr><tr><td>油松Pinus tabulaeformis</td><td>0.14</td><td>0.29</td><td></td><td>0.44</td><td>1.38</td><td>0.22</td><td></td><td>0.44</td><td>0.66</td><td>1.38</td></tr><tr><td>火炬松 Pinus taeda</td><td>0.07</td><td>0.14</td><td></td><td>0.20</td><td>1.25</td><td>0.07</td><td></td><td>0.14</td><td>0.20</td><td>1.25</td></tr><tr><td>柏木 Platycladus and Cupressus</td><td>5.51</td><td>11.26</td><td></td><td>16.77</td><td>1.69</td><td>6.32</td><td></td><td>12.91</td><td>19.23</td><td>1.69</td></tr><tr><td>栎类Quercus</td><td>3.16</td><td>6.45</td><td></td><td>9.61</td><td>1.72</td><td>3.25</td><td></td><td>6.64</td><td>9.88</td><td>1.72</td></tr><tr><td>硬阔类、软阔类 Hardwoods，softwoods</td><td>4.15</td><td>8.48</td><td></td><td>12.63</td><td>0.66</td><td>3.22</td><td></td><td>6.57</td><td>9.78</td><td>0.66</td></tr><tr><td>杨树 Populus</td><td>48.3</td><td>98.68</td><td></td><td>146.97</td><td>1.65</td><td>49.48</td><td></td><td>101.10</td><td>150.57</td><td>1.65</td></tr><tr><td>泡桐Davidia</td><td>0.67</td><td>1.37</td><td></td><td>2.05</td><td>1.60</td><td>0.58</td><td></td><td>1.18</td><td>1.76</td><td>1.60</td></tr><tr><td>针叶混交林 Mixed coniferous</td><td>4.48</td><td>9.15</td><td></td><td>13.63</td><td>1.64</td><td>5.62</td><td></td><td>11.47</td><td>17.09</td><td>1.62</td></tr><tr><td>阔叶混交林 Mixed broadleaf forest</td><td>2.37</td><td>4.85</td><td></td><td>7.23</td><td>1.74</td><td>3.17</td><td></td><td>6.47</td><td>9.64</td><td>1.74</td></tr><tr><td>针阔混交林 Mixed coniferous and broadleaf forest</td><td>1.88</td><td>3.83</td><td></td><td>5.71</td><td>1.32</td><td>3.25</td><td></td><td>6.65</td><td>9.90</td><td>1.32</td></tr><tr><td>杂木 Acer，Tilia， Ulmus</td><td>0</td><td>0</td><td></td><td>0</td><td></td><td>0.28 83.28</td><td></td><td>0.57 170.14</td><td>0.85</td><td>0.76</td></tr><tr><td>总计Total</td><td>79.97</td><td>163.39</td><td></td><td>243.37</td><td>1.56</td><td></td><td></td><td></td><td>253.42</td><td>1.57</td></tr></table></body></html>
+
+# 3讨论
+
+建立林分生物量与蓄积量间的换算关系是基于森林清查资料估算碳储量的关键环节。以往研究多采用Fang 等[11]利用758个生物量样地拟合的中国21种森林类型林分生物量与蓄积量间的转换参数,估算国家或地区尺度的森林碳储量。森林碳储量与森林的年龄组成密切相关,Pan 等[12]研究发现,Fang 等[1]在建立生物量与蓄积量两者间的关系时， $8 3 \%$ 的实测生物量样地属于中幼龄林,致使中国森林碳储量的估算结果偏高$3 5 \%$ 。为避免这个问题,Zhang等[8收集的3543个生物量样地数据尽可能涵盖了全国各主要森林类型的每个年龄段,且多数森林类型的样地在各龄组的分布情况与全国7次森林清查中各龄组的分配面积比例接近,利用这些实测数据对全国30种主要森林类型的生物量蓄积量转换参数进行改进,极大地改善了中国森林碳储量的估算精度。本研究采用的全国分省森林清查数据,其森林面积和蓄积量的调查精度在 $9 0 \%$ 以上[41]。本研究采用 Zhang 等[8]改进的生物量蓄积量转换参数,利用生物量转换因子连续函数法估算森林碳储量,大多数森林类型的生物量和蓄积量均具有很好的线性关系， $\scriptstyle ( R ^ { 2 } > 0 . 8 )$ 。与以往研究相比,本研究在数据和方法上具有较高的精度。 C
+
+过去几十年森林每年大约从大气中吸收 $2 . 4 \mathrm { P g } \mathrm { C } ^ { [ 1 ] }$ ,在全球碳循环中起着重要的作用,其碳储量的变化是判定森林是大气 $\mathrm { C O } _ { 2 }$ “源”或者“汇”的重要依据。很多研究表明,由于大规模的植树造林和再造林,近些年来中国森林是一个碳汇[3-4,8,243]。本研究结果表明,2004—-2013 年山东省森林碳储量年均增长 $1 . 8 5 \mathrm { T g ~ C ~ }$ ,与同时期中国森林碳储量的总体趋势一致[43]。两次森林清查中,山东省各期森林碳储量占同期全国森林碳储量的比例呈增加趋势,分别为 $0 . 5 6 \%$ 和 $0 . 6 4 \%$ 。同一时期,山东省森林碳密度与全国相比,低于Zhang 等[43]研究的全国森林碳密度,分别为 $4 0 . 1 2 \mathrm { M g \ C / h m } ^ { 2 }$ 和 $4 1 . 9 0 \mathrm { { M g } \ C / \mathrm { { h m } ^ { 2 } ( } }$ （表6);与同处华东地区的其他省市相比,小于上海、江苏、浙江、安徽、福建和江西同期的森林碳密度。但 2004—2013 年山东省森林碳密度的增加幅度$\left( 2 2 . 4 \% \right)$ ,大于上海 $( 2 1 . 7 \%$ ）、江苏( $( 1 1 . 4 \% )$ ）、浙江( $2 0 . 8 \%$ ）、安徽( $\left. 1 8 . 0 \% \right.$ ）、福建( $12 \%$ )和江西 $( 5 . 1 \% )$ 。近10年来,山东省森林碳储量和碳密度的增长态势,表明该省乱砍滥伐现象已得到明显制止,林分质量不断提高，森林面积和蓄积进入稳定增长阶段。两个时期的森林面积和碳储量在幼龄林最高（图2）,中龄林较高,近熟林、成熟林和过熟林偏低,但森林碳密度与林龄组呈正相关,表现为林龄越大,对应龄组的碳密度越高,成熟林的碳密度分别是幼龄林和中龄林的2.4 倍和1.7倍。山东省森林碳储量偏低的一个重要原因是幼龄林和中龄林所占面积过大。随着森林不断发育成熟,林龄结构的改善,近熟林和成熟林所占的比重不断增大,山东省森林植被的碳汇作用逐渐增强,在全国森林碳储量和提高全国森林碳汇功能方面的贡献逐渐增加。
+
+表6山东省森林碳储量和碳密度与其他地区的比较  
+Table6Estimatesofforestbiomas carbonstocksandcarbodensityinShandongProvinceandotherregionsduring theperiodfrom24 to 2013 using forest inventory data   
+
+<html><body><table><tr><td colspan="4">清查期Period</td><td colspan="7">碳密度</td></tr><tr><td>地区 Region 几</td><td>Carbon stock/Tg C 山东</td><td>全国</td><td>山东</td><td>全国</td><td>上海</td><td>Carbon density/（Mg C/hm²) 江苏</td><td>浙江</td><td>安徽</td><td>福建</td><td>江西</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>23.07</td><td>25.08</td><td>26.83</td><td>41.43</td><td>29.45</td></tr><tr><td>2004—2008</td><td>34.75</td><td>6241.84 6896.33</td><td>22.26 27.24</td><td>40.12 41.90</td><td>23.39 28.47</td><td>25.69</td><td>30.30</td><td>31.65</td><td>46.42</td><td>30.96</td></tr><tr><td>2009-2013 来源 References</td><td>43.98 本研究</td><td>[43]</td><td>本研究</td><td>[43]</td><td>[43]</td><td>[43]</td><td>[43]</td><td>[43]</td><td>[43]</td><td>[43]</td></tr></table></body></html>
+
+森林碳汇经济价值的量化需要大量的科学研究成果和相关数据作支持,评估工作难度较大。目前尚缺乏公认的计算森林碳汇经济价值的方法，常用的方法主要有人工固定 $\mathrm { C O } _ { 2 }$ 成本法、造林成本法、碳税法等[44]，采用不同方法估算的结果相差较大。随着世界碳汇贸易的不断开展,碳税法逐渐被国内外相关学者所认同。因此,本研究选用碳税法分森林类型对森林碳汇的经济价值进行估算。2004—2008 年和 2009—2013 年山东省主要森林类型的碳汇经济价值均占全国总量的 $1 . 6 \% ^ { [ 4 5 ] }$ 。2004—2008 年的估算结果略高于王兵等[45]同时期的研究结果(215.42亿元),与同处华东地区的其他省市相比,小于江西、福建和浙江,大于上海、江苏和安徽同期的森林碳汇经济价值[45]。两次森林清查时期,山东省杨树和赤松的碳汇经济价值之和分别占全省总量的 $7 1 . 8 \%$ 和 $6 8 . 7 \%$ ,这表明在山东省森林生态系统中,碳汇能力主要体现在杨树和赤松两种主要的森林类型上。因此,杨树和赤松林将会对该省森林固碳起主导作用。但目前全省森林普遍存在树种结构单一、纯林面积过大、森林碳密度偏低等问题,致使全省森林碳汇经济价值低于全国平均水平。针叶混交林、阔叶混交林和针阔混交林具有高的森林碳密度(表4)和碳汇经济价值(表5）,是山东省森林碳储量和碳汇经济价值增加的重要贡献者。因此，今后应选取合适树种构建混交林,提高森林经营管理水平，以增强山东省森林植被碳汇功能。 八)
+
+在本研究中,基于森林清查资料的森林碳储量动态变化及其碳汇经济价值的估算进一步得到改进和完善,该结果可用于评估森林生态系统的碳源汇功能,验证模型模拟和大气反演的预测精度,还可为省级层面上建立科学合理的森林生态补偿制度提供基础数据。但由于本研究中没有考虑森林植被的林下层、枯落物和土壤碳库,因此没有估计整个森林生态系统的碳储量动态变化，不能准确反映山东省全部森林植被的真实固碳能力，尚需进一步研究。 .
+
+# 4结论
+
+本文基于实测数据改进的生物量蓄积量转换参数和 2004—2013 年的森林资源清查资料,估算了山东省最近两次森林清查期间森林的碳储量及其动态变化,进而依据国家标准《森林生态系统服务功能评估规范》中公布的参数对山东省森林碳汇经济价值进行评估。主要结论如下：
+
+（1)山东省森林碳储量从 2004—2008 年的34.75TgC 增加到 2009—2013 年的 $4 3 . 9 8 \mathrm { T g ~ C ~ }$ ,森林表现为一个生物量碳汇,人工林和天然林对该碳汇的贡献分别为 $9 7 . 3 \%$ 和 $2 . 7 \%$ 。杨树和硬阔软阔类森林是山东省森林碳储量的主要贡献者，两者的碳储量之和分别占全省总量的 $7 0 . 2 \%$ 和 $6 9 . 6 \%$ ,大多数森林类型的碳储量和碳密度均呈增加趋势，以杨树增加最为显著。
+
+(2)各龄组森林碳储量及其增加量呈现出相似的变化规律即幼龄林 $>$ 中龄林 $>$ 成熟林 $\cdot >$ 近熟林 $>$ 过熟林，森林面积的增加是中龄林、近熟林、成熟林和过熟林碳储量增加的主要原因,森林碳密度的增长是幼龄林碳储量增加的主要原因。
+
+（3)山东省森林碳汇经济价值从2004—2008年的243.37亿元增长到 2009—2013年的 253.42亿元，,年均增长 2.01亿元,单位森林面积的碳汇经济价值增加不明显。杨树的碳汇经济价值分别占同期全省所有森林类型总量的 $6 0 . 3 \%$ 和 $5 9 . 4 \%$ ,针阔混交林的碳汇经济价值增加最为显著。
+
+# 参考文献（References）：
+
+[1]PanYD,BirdseyRA,FangJY,HoughtonR,KauppiPE,Kurz WA,PhilisOL,ShvidenkoA,Lewis L,CandelJG,CiisP,Jackso R B,PacalaSW,MuireAD,PiaoSL,RautiainenA,ichS,HayesD.Alargeandpersistentcarbosinkintheworld'sforestsienc, 2011, 333(6045) : 988-993. 2 ShevliakovaE,touferRJ,MalyshevS,KrastingJP,urtG,acalaSW.storicalwaringreducedduetehancedndcarbouptake. Proceedings of the National Academy of Sciencesof the United Statesof America,2013,110(42）：16730-16735. 3 FangJY,GuoZD,HuHF,KatoT,MuraokaH,SonY.ForestbiomasscarbonsinksinEastAsiawithspecialreferencetoterelative contributions of forest expansion and forest growth.Global Change Biology，2014,20(6）：2019-2030. GuoD,HuHF,Li,LiNangSpatieoralhagesinoassarbiksina'srestsfro97tiea Life Sciences，2013，56(7):661-671.   
+[5] SuYJ,GuoQH,XueBL,HuTY,lvarezO,TaoSL,FngJYSpatildistributionofforestabovegroundbiomassinCina；Estitio throughcombinationofaceboeldarpticaliageryndforestventoryataemoteSesingofEviroent16,：199.   
+[6]AvitabileV,Herold,HeuvelinkGB,LewisSL,PillpsOL,AsnerGP,ArmstonJ,AshtoPS,BannL,BayolN,BerNc P,DeJong BHJ,DevriesB,GrardinCAJ,KearsleyE,LdsellJA,Lopez-GonzaezG,ucasR,MaliY,MorelA,MitchardE,agy L,QieL,QuinoesMJ,RyanC,FerySJW,SderladT,LurinGV,GaiRC,ValeniR,VerbeeckH,WijayA,WckS.An integrated pan-tropical biomassmapusing multiple reference datasets.Global Change Biology，2016,22(4）：1406-1420.   
+[7]DenmanKL,BraseurG,ChidthaisongA,CiaisP,CoxP,DickinsonRE,HauglustaineD,HeinzeC,HlandE,JacobD,LU,
+
+RamachandranS，daSilvaDiasPL，WofsySC,ZhangX.CouplingsBetweenChangesintheClimateSystemandBiogeochemistry；SoloonS,Qin D,ManingM，Chen Z，MarquisM，AverytKB，TignorM，MilerHL，eds.Climate Change 20O：ThePhysical ScienceBasis.ContributionofWrkingGoupItteFourthessentReportofteIntergoveentalPelonCateCange.Cambidge，UiedingdoNew York，NY,USA：Cambridge University Press，2007.[8]ZhangCH,JuWMChenJM,ZanM,LiDQ,ZhouYL,WangXQ.China’sfrestbiomascarbonsinkbasedonsevennventoriefro1973to2008.Climatic Change，2013，118（3/4）：933-948.[9]ShawCH,HlgerAB,MetsarantaJ,KrzWA,ussoGichelF,insonG,SmythC,ilitraultEvaluatioofsiulatedtitefforestecosystemcarbonstocksusinggroundplotdatafroCanada'sNtioalForestIventoryEcologicalModeling，2014,272323-347.[10] GaspariniP，DiCosmoLForestcarboninIalianforests：stocks，nherentvarabitndpredictabilityusingdataForestEologndManagement，2015，337：186-195.[11] FangJY,ChenAPPengCH,ZhaoSQ,CiLJ.ChangesinforestbiomasscarbonstorageinCiabetwen949and98.i0,292(5525): 2320-2322.[12] PanYD,LuoXrdse，H,ellJwtatesofarbtoragdquestratioininasrestssofsdmethod on inventory-based carbon estimation. Climatic Change，2004,67(2/3）：211-236.[13] Ren Y,Wei X H, Zhang L,Cui S H, Chen F，Xiong Y Z， Xie P.Potential for forest vegetation carbon storage n Fujian Province China,determined from forest inventories.Plant and Soil,2011,345(1/2)：125-140.[14] RenH,ChenH,LiLJ,LiPH,HouCM,WanHF,ZhangQM,ZhangPX.Spaialandemporalpatescarbonstoragefro9t0in forest ecosy stems in Guangdong，Southern China.Plant and Soil,2013,363(1/2）：123-138.[15] WeiYW,YuDP,LewisBJ,ZhouL,Zhou WM,FangXM,ZhaoW,WuSN,DaiLM.Forestcarbonstorageandtrecarbonoldyamicsundernat Geographical Science，2014，24(4）:397-405.[16] 中国人民共禾 国森 全国森林资源清查.北京：中国林业出版社，2014.[17] 张德全 量及其动态的研究.植物生态学报，2002，26(增刊)：93-97.[18] 张德全 山东省森林碳汇动态的研究．山东林业科技，2014，3：88-91.[19] 陈景和 技，2014，2:11-14.[20] Smith J and estimates of Mass for live and standing dead trees of U.S.forest. USDAForestS .Delawa ， OH:USDA Forest Service，2002.[21] 中国人民共和国林业部.全国森林资源统计 第七次全国森林资源清查.北京：中国林业出版社，2009.[22] 张增祥，汪潇，王长耀，左丽君，温庆可，董婷婷，赵晓丽，刘斌，易玲.基于框架数据控制的全国土地覆盖遥感制图研究.地球信息科学学报，2009，11(2)：216-224.[23] JohnsonWC,SharpeDM.TheratiooftotaltomercantableforestbiomassanditsaplicationtothegobalcarbonbudgetCanadianJualofForest Research，1983，13(3）:372-383.[24] 国家林业局.LY/T1721-2008 森林生态系统服务功能评估规范.北京：中国标准出版社，2008.[25] 罗天祥.中国主要森林类型生物生产力格局及其数学模型[D].北京：中国科学院研究生院，1996.[26] 赵敏.中国主要森林生态系统碳储量和碳收支评估[D].北京：中国科学院研究生院植物研究所，2004.[27] 刘志刚，马钦彦.华北落叶松人工林生物量及生产力的研究.北京林业大学学报，1992，14（增刊1)：114-123.[28] 刘再清，陈国海，孟永庆,李建国，刘命荣.五台山华北落叶松人工林生物生产力与营养元素的积累.林业科学研究，1995，8（1)：88-93.[29] 李英洙，金永焕，刘继生，王成，金玉善.延边地区天然赤松林生物量的研究.东北林业大学学报，1996,24（5）：24-30.[30] 吴刚，冯宗炜.中国油松林群落特征及生物量的研究.生态学报，1994，14(4)：415-422.[31] 马钦彦．中国油松生物量的研究.北京林业大学学报，1989，11(4)：1-10.[32] 方华，孔凡斌.不同密度火炬松林生物量及其分配.福建林学院学报，2003，23（2)：182-185.[33] 白杨，欧阳志云，郑华，徐卫华，江波，方瑜.海河流域森林生态系统服务功能评估.生态学报，2011,31（7)：2029-2039.[34] 黄则舟，毕君.太行山刺槐林分生物量研究.河北林业科技，1992，（2)：48-52.[35] 张艺，余新晓，范敏锐，常存，陆晓宇.北京山区刺槐林净初级生产力对气候变化的响应.水土保持研究，2012，19(3)：151-155.[36] 李庆云，万猛，樊巍，吴泽鑫.黄淮海平原农区杨树人工林生物量和生产力研究.河南科学，2008，26(4)：434-437.[37] 张小泉，孟永庆，刘命荣，张复兴.五台青杨天然林净生产力与营养元素积累的研究.林业科学研究，1995,8（3)：291-296.[38] 蒋建平，杨修，李荣幸.泡桐人工林生态系统的研究一 IV.净生产力和有机质归还.河南农业大学学报，1989，23（4)：327-337.[39] 彭方仁，王良桂.板栗不同密度林分的生长发育与生物生产力.经济林研究，1998,16(3)：12-16.[40] WoodburryPB,SmithJE，HeathLS.CarbonsequestrationintheUSforestsectorfrom1990to2O10.ForestEcologyandManagement,2007,241(1/3): 14-27.[41] 肖兴威.中国森林资源清查.北京：中国林业出版社，2005.[42] Liu D,ChenY,CaiWW,Dong WJ,XiaoJF,ChenJQ,ZhangHC,XiaJZ,YuanWP.ThecontributionofChina'sGrainto GrenProgramto carbon sequestration.Landscape Ecology，2014,29（10）：1675-1688.[43]ZhangCH,JuWChenJM,WangXQ,Yang,ZhengG.Disturbance-inducedreductioofomasscarbosinksofCina’sforestsetyears.Environmental Research Lettrs，2015,10(11)：114021.[44] 王磊，丁晶晶，季永华，梁珍海，李荣锦，阮宏华.江苏省森林碳储量动态变化及其经济价值评价.南京林业大学学报：自然科学版，2010,34(2) : 1-5.[45] 王兵，任晓旭，胡文.中国森林生态系统服务功能及其价值评估.林业科学，2011,47（2)：145-153.

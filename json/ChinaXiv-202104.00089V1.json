@@ -1,0 +1,705 @@
+[
+    {
+        "type": "text",
+        "text": "Monthly and seasonal streamflow forecasting of large dryland catchments in Brazil ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alexandre C COSTA1\\*,Alvson B S ESTACIO², Francisco de A de SOUZA FILHO², Iran ELIMANETO² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1InstituteofEngineeringandSustainableDevelopment,UniversityofInternationalIntegrationoftheAfro-BrazilianLusophony Redencao,CEP 62.790-970,Brazil; ² Departmentof HydraulicEngineering and Environment,Federal Universityof Ceara,Fortaleza,CEP60.451-970,Brazil ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Streamflow forecasting in drylands is challenging. Data is scarce,catchments are highly humanmodified and streamflow exhibits strong nonlinear responses to rainfall The goal of this study was to evaluate the monthly and seasonal streamflow forecasting in two large catchments in the Jaguaribe River Basin in the Brazilian semi-arid area.We adopted four different lead times: one month ahead for monthly scale and two,three and four months ahead for seasonal scale. The gaps of the historic streamflow series were filled up by using rainfal-runoff modelling. Then, time series model techniques were applied,i.e., the locally constant, the locally averaged, the $\\mathrm { k \\Omega }$ -nearest-neighbours algorithm (k-NN) and the autoregressive model (AR).The criterion of reliability of the validation results is that the forecast is more skilful than streamflow climatology. Our approach outperformed the streamflow climatology for all monthly streamflows. On average, the former was $2 5 \\%$ better than the latter. The seasonal streamflow forecasting (SSF) was also reliable (on average, $20 \\%$ better than the climatology),failing slightly only for the high flow season of one catchment ( $6 \\%$ worse than the climatology). Considering an uncertainty envelope (probabilistic forecasting)，which was considerably narrower than the data standard deviation,the streamflow forecasting performance increased by about $50 \\%$ at both scales. The forecast errors were mainly driven by the streamflow intra-seasonality at monthly scale,while they were by the forecast lead time at seasonal scale. The best-fit and worst-fit time series model were the $\\mathrm { \\Delta k }$ -NN approach and the AR model, respectively. The rainfall-runoff modeling outputs played an important role in improving streamflow forecasting for one streamgauge that showed $3 5 \\%$ of data gaps. The developed data-driven approach is mathematical and computationally very simple, demands few resources to accomplish its operational implementation and is applicable to other dryland watersheds. Our findings may be part of drought forecasting systems and potentially help allocating water months in advance. Moreover,the developed strategy can serve as a baseline for more complex streamflow forecast systems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: nonlinear time series analysis; probabilistic streamflow forecasting;reconstructed streamflowdata; dryland hydrology; rainfall-runoff modelling; stochastic dynamical systems ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Brazil is a land where water abounds. However,this resource is unevenly distributed throughout the country's teritory. A particularly drought-prone region is the northeast part of the country, which has been struck by over 1OO severe droughts since the $1 6 ^ { \\mathrm { { t h } } }$ century (Fioreze et al., 2012). A period of exceptionally strong droughts is currently affecting the region since 2O12 with severe social and economic consequences.Despite the extreme environmental conditions,more than $2 5 \\%$ of the Brazilian population live within the so-called \"drought polygon\" in northeastern Brazil (NE-Brazil) (Formiga-Johnsson and Kemper, 2005). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Water management and planning in NE-Brazil has been centered on the storage of surface water by building dams (Araujo, 199O). In the drought polygon, groundwater resources are generally scarce,and so several thousands of reservoirs (mostly small dams) have been built in recent decades. An interstate water transfer system is also under construction (Nunes,2Ol2). In the last $3 0 \\mathrm { ~ a ~ }$ ，the creation of sub-basin committees and user commissions has involved hundreds of stakeholders such as municipalities, public and large private irrigators,fishermen and industry leaders in the process of water allocation and conflict resolution.These experiences were very important transformations in water management practices and increased the demands for technical support, principally in the form of streamflow forecasts, which perfectly fall within a context of proactive drought risk management (Crochemore et al., 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reliable seasonal streamflow forecast information is a key aspect of drought mitigation (Shukla and Lettenmaier, 2O11),since the water allocation process for a given rainy season may start prior to its end,optimizing water releases to multiple competing users. Also, measures of water demand reduction can be applied more efficiently,avoiding abrupt water shortages.Despite the widespread recognition of the relevance and importance of seasonal streamflow forecasting (SSF) in the research community，forecasting of streamflow for drought management has not been applied widely (Trambauer et al., 2O15).The forecast information must satisfy the need for a thorough drought assessment without overwhelming end users with high complexity (Seibert et al., 2017). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Approaches for SSF predominantly fall into two categories: statistical or dynamic.The former frequently utilizes predictors of sea-surface temperature or a related index to directly estimate streamflow through regression techniques (Seibert et al.,2O17; Delgado et al.,2O18).The later seeks to use numerical climate models linked with conceptual or physically based hydrological models through either an iterative (online) or static (offline） procedure strategy (Collischonn et al., 2007; Yossef et al., 2013; Yuan,2016; Yuan et al., 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Souza Filho and Lall (2Oo3） developed a semiparametric approach for forecasting inflows at reservoirs in the State of Ceara (Ceara) in NE-Brazil conditional on the NINO3 (the mean monthly temperature anomaly in the area of the eastern tropical pacific: 5S-5N; 15oW-9oW) index for the El Nino Southern Oscilation (ENSO） and an equatorial Atlantic sea surface temperature index. Forecasts of January through December streamflow were made at three lead times: in January of the same year and in October and July of the preceding year. Large-scale climatic patterns have commonly been applied for improving long lead time streamflow forecasts (Moradkhani and Meier, 2010; Kalra et al.,2O12; Kalra et al.,2013). They found the streamflow at the Ceara sites is highly spatially correlated and is influenced by climate in a similar manner，leading to a common, underlying model for all sites.Although the correlation of the median forecast with the observed annual inflows of Oros reservoir, the second largest reservoir in Ceara, was consistently high (0.91) for the validation period (1993-2Oo0), the dispersion of the forecasting ensemble was quite high too, reaching, for example, $6 5 \\%$ of the reservoir capacity (difference between $7 5 ^ { \\mathrm { t h } }$ and $2 5 ^ { \\mathrm { t h } }$ percentiles of ensemble forecasts) in 2000. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Delgado et al. (2O18) assessed a set of seasonal drought forecast models for the Jaguaribe River in semi-arid NE-Brazil. The forecast issue time was January and the forecast period was January to June.Their work employed a cascade of models and algorithms ranging from two general circulation models (GCM) (one atmospheric and one coupled) at the top to hydrological indices at the bottom. Three statistical， meteorological downscaling approaches were applied to the GCM outputs. Reservoir volumes were obtained by fitting a multivariate linear regression based on forecast meteorological drought indices as predictors, such as Standardized Precipitation Index (SPI) and Standardized Precipitation Evapotranspiration Index (SPEI) at different timescales. They found that low precipitation events showed either very low or no skil. Moreover,the good skil of the reservoir storage forecast was likely related to the long memory of the reservoir system, because the forecasted precipitation will affect the reservoir only marginally,since most of its storage is accumulated throughout several years. In fact， no approach had a Root Mean Square Error (RMSE） that significantly departed from the RMSE of the climatology (Delgado et al.,2O18),i.e.,the observed long-term average of a variable. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pilz et al. (2O19) evaluated and compared the performances of seasonal reservoir storage forecasts derived by a process-based,semi-distributed hydrological model and a statistical approach, which was developed by Delgado et al. (2018). They found, in a hindcast experiment (1981-2014), the accuracy of estimating regional reservoir storages was considerably lower using the hydrological model. In fact, investigations regarding the deficiencies of the process-based model revealed a significant influence of antecedent wetness conditions and a higher sensitivity of model prediction performance to rainfall forecast quality. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Applying a framework of GCM,multiple regional climate models,including dynamical and statistical models,and two lumped water balance models,Block et al. (2Oo9） produced ensemble streamflow forecasts for a hindcast of 1974-1996 monthly streamflow of the Jaguaribe River. The best coupled model demonstrated high skill scores for the correlation (0.9O) and the RMSE $( 8 . 1 \\times 1 0 ^ { 7 }$ （204号 $\\mathbf { m } ^ { 3 } ,$ ）(based on the ensemble median),but performed inferiorly to climatology for the ranked probability skill score(Wilks,2005).Afterwards,Kwon et al.(20l2） showed the uncertainties associated with the climate forecast are much larger than those from parameter estimation in the assumed hydrological model. So,the past studies pointed out no dynamical, statistical or hybrid approach outperformed the climatology for the streamflow forecasting in the Jaguaribe River Basin. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Poor or lower performance of forecasting systems for (very) dry catchments has also been reported by other authors.Robertson and Wang (2O12) introduced a predictor selection method for a Bayesian joint probability approach to 3-month-ahead streamflow forecasting at multiple sites in two catchments in eastern Australia.They found out that the skill scores were considerably lower for the intermittent rivers in the Burdekin River catchment than the perennial ones in the Goulburn River catchment.In fact, in the Burdekin River catchment,the skillof the streamflow forecasts was close to zero for many months. Sitichok et al. (2O16) combined statistical rainfall forecasting models with rainfall-runoff modelling in the Sahel region. They found out moderate skill (coefficient of determination equal to 0.55) for the monthly streamflow with a 12-month forecasting lead time in the Sirba watershed, West Africa. Seibert etal. (2O17)applied multiple linear models,artificial neural networks and random forest regresson trees to forecast seasonal hydrological drought (standardized streamflow index) in the Limpopo River Basin in southern Africa.The models were set up to predict the standardised total streamflow of December-May,which is one value per year,at the lead times of 1,2,3,6,9 and 12 months.At some streamflow stations, skillis present up to a 12-month lead time,but many stations (larger catchments in particular） only achieved litle skill. These large catchments have not only a higher degree of human interference, but also drain large drylands in the Limpopo River Basin. Bennett et al.(2Ol7） assessed a forecasting system based on a monthly rainfall-runoff model forced by ensemble rainfall forecasts for 63 Australian catchments, including 21 ephemeral rivers. Although this system generally produced skillful forecasts at shorter lead times (<4 months), it did not perform wellin very dry catchments,sometimes producing strongly negative forecast skil and poor reliability. Moreover, dry catchments are typically streamflow data-scarce environments, where the streamflow gauges are sparse, whose time series are normally short (from some years to few decades) and with a lot of gaps. Thus,overall, monthly streamflow forecasting and SSF in drylands is challenging. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although there are only a few examples in the literature, nonlinear univariate time series models have been shown as a promising tool to forecast semi-arid streamflow at daily (He et al.,2014) and monthly scales (Yassen et al.,2O16). In this study,we propose to analyze the potentiality of the streamflow series itself for streamflow forecasting at monthly to seasonal time scales in two large catchments in the Jaguaribe River Basin,using nonlinear time series analysis.The specific objectives are to fill the gaps and increase the available streamflow data and to produce deterministic and probabilistic monthly streamflow forecasting for different lead times (one-,two-,three- and fourmonths-ahead).The studied semi-arid catchments have a high streamflow interannual variability and relatively short time series with several gaps.A rainfall-runoff model was used to fill up the streamflow gaps.To our knowledge，this kind of hydrological model application for dryland streamflow forecasting has not been reported yet.Moreover, due to time series shortness,the chosen time series models were kept as simple as possible. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2Study area and streamflow data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Ceara (Fig. 1) is the home to more than eight million people. The climate is predominantly semiarid,covering more than $90 \\%$ of its territory. The mean annual precipitation is about $8 1 0 ~ \\mathrm { m m }$ ranging from more than $1 2 0 0 ~ \\mathrm { { m m } }$ close to the coast, especially in some mountainous regions,to less than $6 0 0 \\mathrm { m m }$ in the large semi-arid landscape that extends from the coast to the interior borders (Werner and Gerstengarbe,2Oo3). The actual evapotranspiration is about $78 \\%$ of the annual rainfall (SUDENE,1980) while the potential evapotranspiration is four times the annual rainfall. The rainy season is mainly concentrated from February to May,accounting for about $70 \\%$ of the annual rainfall. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/85d465b121efd41f91162b5d00d3930380a4f16d691afceffab7667d86999feb.jpg",
+        "img_caption": [
+            "Fig.1Locationofthe Brazilian semi-arid area,the State of Ceara (Ceara)and the Jaguaribe River Basin (a), with the main reservoirs and streamgauges (b) used in this study "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Interannual rainfall anomalies are driven primarily by anomalous patterns of Sea Surface Temperature (SST) variability in the Tropical Atlantic and the Equatorial Pacific (Hastenrath and Heller,1977; Moura and Shukla; 1981, Uvo et al.,1998; Rodrigues et al., 2011). During the rainy season, the southernmost displacement of the Intertropical Convergence Zone in the Atlantic Ocean allws the enhancement of atmospheric conditions to precipitation events over or nearby Ceara. Interannual and seasonal fluctuations assigned to excess (lack) of rainfal over Ceara are associated with asymmetrical interhemispheric gradient of SST anomalies in the Tropical Atlantic oriented northward (southward) (Hastenrath and Heller,1977; Moura and Shukla,1981; Nobre and Shukla, 1996). Also,on interannual timescales, accumulated rainfall in Ceara is strongly modulated by the ENSO，which is the prominent interannual mode associated to coupled oceanic-atmospheric interactions in the Equatorial Pacific (Philander,199O;Rao and Hada,199O).The warm (cold) oceanic phase of the ENSO is known as El Nino (La Nina) that is marked by an abnormal warmer (colder) SST anomalies in the eastern-central Pacific modifying the Walker circulation and leading to unfavourable (favourable) atmospheric conditions over Ceara. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The streamflow is naturally ephemeral or intermittent. It ranges from $10 \\%$ to $20 \\%$ of annual rainfall and shows high temporal variability with a coefficient of variation generally above 1.00 at an interannual scale (Gintner and Bronstert, 2OO4).The large rivers are dominantly endogenous and interact with the underlying groundwater mainly by groundwater recharge(Costa et al.,2O12a; 2013). Yet the groundwater resources are scarce and concentrated, occurring largely in sedimentary rocks on the state borders and on the coast,besides a sedimentary basin located in the middle of the state (Frischkorn et al., 2003). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The recurrent droughts have been essentially treated as a supply problem to be resolved through massive construction and related water infrastructure,such as dams and water transfer schemes among watersheds (Gutiérrez et al.,2O14). As a result,there are more than 7OOO dams with a surface area larger than $5 \\ : \\mathrm { h m } ^ { 2 }$ in Cearä (FUNCEME,2Oo8),which produce a dense reservoir network that highly impact the runoff connectivity at catchment scale and the river flow propagation (Guntner et al.,2004; Mamede et al.,2012). The state and federal agencies manage 155 dams, which store $1 8 . 7 { \\times } 1 0 ^ { 9 } \\mathrm { m } ^ { 3 }$ ， providing more than $90 \\%$ of the water supply in Ceará. The two largest reservoirs are the Castanhao and the Orós reservoirs with a capacity of $6 . 7 \\times 1 0 ^ { 9 }$ and $1 . 9 4 \\times 1 0 ^ { 9 } \\mathrm { m } ^ { 3 }$ ,respectively (Fig. 1). The Upper Jaguaribe River and its main tributary,the Salgado River,are the principal runoff sources of the Jaguaribe River Basin. Their flows have been monitored by the Brazilian Geological Service at Salgado streamgauge (SS) and Iguatu streamgauge (IS) (Fig. 1), which drain areas of 12,400 and $2 0 { , } 7 0 0 \\mathrm { k m } ^ { 2 }$ ,respectively. This study concentrates on the river flows monitored at these streamgauges. Their daily streamflow data are made available by the Brazilian Water Agency (http://www.hidroweb.ana.gov.br).We consider a period of analysis from 1951 to 2015. Under this period, the IS shows few gaps, only $3 . 7 \\%$ of the whole data (29 months). The gaps in the streamflow series of the SS represent $3 5 . 1 \\%$ of the data (278 months). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Methodology ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Time series models ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We assumed that the streamflow series is driven by a stochastic dynamical system, which governs the coupling between the climatological forcing and the human-modified catchment state that depends on natural landscape characteristics and anthropogenic effects, such as land use changes, reservoir construction and water withdrawal (Kirchner,2OO9; Sivakumar and Singh,2O12; Costa et al.,2012b).A stochastic dynamical system can be expressed mathematically by time series models. The deterministic evolution operator (the dynamical or deterministic part) is approached by the dynamics of values of a unique variable (the delay embedding theorem; Takens,198O), whereas the stochastic part by noise,which does not depend on the states of the dynamical part (Costa et al., 2012b). In real-world open physical systems,such as catchment runoff, the presence of dynamical and data noise are inevitable (Porporato and Ridolfi, 2OOl; Kantz and Schreiber, 2O04).Equation 1 describes a stochastic dynamical system. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { _ { t + m \\Delta t } } = F \\Big ( x _ { _ { t } } , x _ { _ { t - \\Delta t } } , . . . , x _ { _ { t - \\Delta t ( n - 1 ) } } \\Big ) + \\xi ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { x } _ { t + \\Delta t \\times m }$ is the forecast, $\\Delta t { _ x m }$ is the lead time, $m$ is a positive natural number, $F$ is the deterministic term, $n$ is the number of past steps and $\\xi$ could be white and coloured noise. Considering a training set, we can empirically determine the $\\xi$ distribution by assuming a regression model to $F$ Note that the distribution of $\\xi$ includes the uncertainty not only from the inherent fluctuations of the streamflow data,but also from the fitting of the underlying dynamical term by an adopted regression model (Costa et al.,2Ol2b).So,the expected value of the forecast is equal to the deterministic term （204号 $F$ , and the uncertainty involved is calculated by the distribution of $\\xi$ with a confidence interval, e.g., （204 $50 \\%$ ,ascribing in this way a probability density function (PDF) or an uncertainty envelope for $x _ { t + \\Delta t } . _ { m }$ We selected four regression models: (1) the locally constant (LC), whose prediction is just equal to the last streamflow measurement; (2) the locally averaged (LA), whose prediction is the average over the streamflow measurements at $n$ last steps; (3) the traditional k-NN, whose prediction is up to the $k$ number (ranging from 1 to 7 in this study) of neighbours and to the power parameter of the inverse distance weighting interpolation; and (4) the autoregressive model (AR), whose unknown parameters are the number of the streamflow measurements at $n$ last steps and its coefficients.The latter was used for the dynamical trm $F$ as reference to test the hypothesis of linear random data. We did not apply an ARMA (autoregressive-moving-average model), because the noise inputs of the moving average model were not known before the application of Equation 1 and must be averaged (Kantz and Schreiber, 20O4; Costa et al., 2012b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Gap-filling streamflow data ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We used the outcomes of the Soil Moisture Accounting Procedure (SMAP; Kwon et al., 2012), a rainfall-runoff model (Lopes et al.,1981) to fill up the gaps of the streamgauges and to increase their available streamflow data. The SMAP Model was set up and calibrated, producing a good performance for the monthly semiarid streamflow at IS and SS with a Nash-Sutclife coeficient of 0.78 and O.86,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We performed a model calibration under parameter uncertainty for 28 streamgauges, including the IS and SS, using the differential evolution adaptive metropolis (DREAM) algorithm (Vrugt et al.,2008; Vrugt et. al.,2OO9; Vrugt, 2016). In this study, we considered only the average over the simulated streamflow envelope，which was based on one thousand parameter vectors. They assumed a third of the available data for validation in each streamgauge (following the Split-Sample Test: Klemes,1986). Wet, normal and dry years were wel represented in both calibration and validation selected periods of the streamgauages,even if this selection varied from one to another. In the case of the IS (SS), the validation data was the streamflow measured from 1944 to 1976 (from 1993 to 2007), while the remaining data from 1912 to 2017 (from 1973 to 2017) was used formodel calibration. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Time series model adjustment and assessment ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A cross-validation approach was adopted to evaluate streamflow forecasting.First, to facilitate the comparison of the model results between the studied basins,we had to choose the same validation period for both IS and SS. Second,the streamflow gaps,which were filled up with the rainfallrunoff modelling outputs, had to be concentrated in the training sets.Following these rules, three different intervals from the whole streamflow time series (1951-2O15) were chosen for the training set and also for the validation set.The validation (training) sets had to show a good balance between dry,regular and wet streamflow seasons, because interannual variability of semi-arid streamflow is very high (Guntner and Bronstert,2O04). Moreover, it is recurrent dry and wet decades in the Brazilian semi-arid area.Therefore,we selected the period combinations for training and validation sets as shown in Table 1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4687b60bf6fbc3634a696251d739b5ca9c9786fab13a951f876f7dfff634c0c9.jpg",
+        "table_caption": [
+            "Table1Period combinations for training and validation sets,which were used for the applied cross-validation approach,given 65-a(1951-2015) streamflow time series at both IS and SS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Combination</td><td>Training set</td><td>Validation set</td></tr><tr><td>I</td><td>1951-1979;1990-2015</td><td>1980-1989</td></tr><tr><td>II</td><td>1951-1989; 2000-2015</td><td>1990-1999</td></tr><tr><td>III</td><td>1951-1999; 2010-2015</td><td>2000-2009</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The model performance was calculated for each training set and over all validation sets together (30 a in total). There was only one gap in the validation set for both streamgauges,while the remaining gaps, which were filled up with the rainfal-runof modelling outputs, were concentrated in the training sets.This cross-validation approach is similar to the classical $\\mathbf { k }$ -folds cross-validation technique, but restricted to a validation period (1980-2009), whose data showed almost no gaps for both streamgauges. Considering that the length of the streamflow time series is short (only 65 a) and much of them were actually the outputs of a rainfall-runof model, we believe there is a good balance between the length of the validation set and the length of the training set. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LC needed no model adjustment, whereas for LA we adopted the measurements at 2 last steps, which gave the highest correlations with the predictand in the training set (not shown). We tried from 1 to 7 nearest neighbours for $\\mathbf { k }$ -NN and adjusted the power parameter for all $\\mathbf { k }$ -NN models that maximize the model performance over the training sets. Application of k-NN models for streamflow time series can be found in many literature (Wu et al.,2OO9; Wu and Chau, 2010; Tongal,2O2O).AR was fited after the method of least squares for each training set (I, II and III in Table 1). Then, each fited AR model was used for each validation subset (1O a),respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We assumed that the criterion of acceptance (reliability) of the validation results is the model forecast more skilful than the streamflow climatology.The climatology as a benchmark is adequate,since water management in the studied basins is typically relying on it instead of seasonal forecasting as a basis for decision making,which was also assumed by Seibert et al. (2O17).The RMSE is the standard deviation (SD) of the residuals (forecast errors). So,a higher (lower) RMSE means a lower (higer） model performance. To facilitate the comparison of forecast reliability between the models and the streamflow climatology, we used the standardized root mean square error (SRMSE)as the performance criterion. SRMSE is defined as RMSE divided by the SD of the test set (Perreti et al., 2O13). SRMSE greater than unity indicates predictions less accurate than simply predicting the mean of the test set (Perreti et al.,2O13). In this study, we defined the mean of the test set (training or validation) as streamflow climatology. So,according to Yossef et al. (2013), when SRMSE is equal to 1.O0,the forecast skillis equal to that of a climatological forecast. SRMSE smaller than 1.OO indicates that it is more skilful than climatology;whereas SRMSE greater than 1.OO indicates less skill than climatology. SRMSE approaches O.OO for a perfect forecast. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the assessment of the deterministic forecasting of the streamflow,the error was simply calculated applying Equation 1 for training and validation sets. Considering the probabilistic streamflow forecasting,in which we assgned a PDF with a confidence interval for the forecast using the model errors in the training set, the forecast errors in the validation set $( \\varepsilon _ { \\mathrm { v } } )$ were calculated in a different manner (Eq.2). ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon _ { \\nu } = \\left\\{ \\begin{array} { l } { x _ { t + m \\Delta t } - F + \\xi ^ { + } , \\mathrm { i f } ~ x _ { t + m \\Delta t } > F + \\xi ^ { + } } \\\\ { x _ { t + m \\Delta t } - F + \\xi ^ { - } , \\mathrm { i f } ~ x _ { t + m \\Delta t } < F + \\xi ^ { - } , } \\\\ { 0 , \\mathrm { o t h e r w i s e } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\xi ^ { + } \\left( \\xi ^ { - } \\right)$ is the upper (lower) limit of the confidence interval and $F$ is the deterministic term. So,when a measurement in the validation set occurred inside the limits of the confidence intervals of the forecast PDF,the error was zero. These errors of Equation 2 are less than those from the application of the deterministic term alone.However, if the length of the chosen confidence interval is too large, the probabilistic forecast may not be useful for real-world issues,even providing a very low SRMSE. Therefore,in the context of probabilistic forecasting,a compromise must be given between the length of the confidence interval and the result SRMSE.In this work, we compared the length of the confidence interval to the SD of the streamflow series.The necessary box-andwhisker plots were generated using the web-tool BoxPlotR (http://shiny.chemgrid.org/boxplotr/). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4Jaguaribe River Basin application ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Jaguaribe River flows normally from January to June at IS and SS.Rarely, river flows are relevant in December and July next year. Since past streamflow measurements are necessary for this approach, we chose the streamflow in March,April,May and June (the middle and end of the rainy season) as predicands at seasonal and monthly scale. We adopted four different lead times: one month ahead for monthly scale and two,three and four months ahead for seasonal scale. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The streamflows in January and February (the beginning of the rainy season） were always predictors at monthly and seasonal scale. However, the number of predictors increases depending on the lead time and the predicand at monthly scale (Table 2).Table 2 shows the 7 forecasts run in this study after the combination of predicands,predictors and lead times.The predicands and predictors in Table 2 are indicated by the month,in which the streamflow is observed.So, we run a monthly streamflow forecasting with a fixed lead time of one month and a variable number of predicands. We also run a SSF with a variable lead time (two,three and four months)and a fixed number of predictors,which were the streamflows in January and February. The streamflow forecasting began (finished) with the predicand in March (June).Although streamflows, which are observed in January and February, show smaller variances (Figs.2 and 3),they should be taken into account as predictors,because they demonstrated a relevant prediction power at both scales. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "An additional difficulty is the dryness at the beginning of the rainy season,because non-flow states in January and February clearly hamper the streamflow forecasting for the remaining season from March to June,using the aforementioned time series models.Therefore, in the case of nonflow states for the predictors, we added a new assumption for the k-NN approach: the nearest ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "neighbours to the predicand were those also closer in time (the hydrologic persistence;   \nKoutsoyiannis,2Oo5),besides the Euclidean distance of the traditional k-NN approach. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The construction of reservoirs,land use changes and irrgation schemes, which interact with each other in the study catchments, over the last century may hamper the streamflow predictability. However, there are no shift terms or clear trends in the streamflow time series, which are expected when such nonstationarities are relevant. Therefore, we consider them of minor importance at such a large spatial scale, when compared to data uncertainty and natural streamflow variability, which are quite high for dryland rivers. This assumption allows a priori the applicability of the presented methodology. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/dba158643f993ffb52ab35a431867cf772668a38ad48fbb5e5e11798a63bd536.jpg",
+        "table_caption": [
+            "Table 2Developed streamflow forecasting in the Jaguaribe River Basin after the combination of predicands, predictors and lead times. "
+        ],
+        "table_footnote": [
+            "Note:The predicandsandpredictorsareindicatedbythemonth,in which the streamflowisobserved.-,not applicable "
+        ],
+        "table_body": "<html><body><table><tr><td>Predicand</td><td colspan=\"4\">Predictor</td></tr><tr><td>March</td><td>Jan,Feb</td><td></td><td></td><td></td></tr><tr><td>April</td><td>Jan,Feb,Mar</td><td>Jan, Feb</td><td></td><td></td></tr><tr><td>May</td><td>Jan,Feb,Mar, Apr</td><td>-</td><td>Jan,Feb</td><td></td></tr><tr><td>June</td><td>Jan,Feb,Mar,Apr,May</td><td>-</td><td></td><td>Jan,Feb</td></tr><tr><td>Lead time (month)</td><td>1</td><td>2</td><td>3</td><td>4</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/42886dfb21d13beeb3d63e38535357d11b69c29277265041ad3a90888d424247.jpg",
+        "img_caption": [
+            "Fig.2Average monthly hydrograph (1951-2015） of the Iguatu streamgauge (IS)，with $3 . 7 \\%$ of gap-filled streamflow data (29 months) using a rainfall-runoff model "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/14a59544d8d53e8e570135b872483fbf7970598e70d67dff8e7a35ce1ff6c5b2.jpg",
+        "img_caption": [
+            "Fig.3Average monthly hydrograph (1951-2015) of the Salgado streamgauge (SS),with $3 5 . 1 \\%$ of gap-filled streamflow data (278 months) using a rainfall-runoff model "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 Results ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1 Gap-filled hydrographs ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The average monthly hydrographs of the IS and SS are presented in Figures 2 and 3,respectively, which showed that the high streamflow season occurred only in March,April and May, while negligible river discharge was observed from July to December, except for some discharge outliers at the IS in December and at SS in December and July next year. There were two periods of transition between high and very low streamflow states: the beginning and the end of the streamflow season，which happened in January and February,and in June,respectively. The streamflow in the beginning of the streamflow season was larger than that in the end of the streamflow season. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The rising hydrograph limb took four months from January to April, when the streamflow peak occurred, while the faling limb took just two months (May and June). The streamflow in March prior to the peak was higher than that in May after the peak.In the rising limb,the faster streamflow change happened from February to March,i.e.,during the transition between the beginning of the season and the high streamflow season.In the falling limb,the faster change occurred from April (peak flow) to May. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "During the high streamflow season, we found the larger streamflows took place in IS,when compared to the streamflows in SS. The beginning and the end of the streamflow season were relatively drier in IS.In the beginning (end) of the streamflow season, we observed a non-flow state in l6 (2O)out of 65 a at the IS,whereas the non-flow state in the beginning (end) of the streamflow season happened only once (four times) at the SS. So,the hydrograph was sharper for IS and, for both streamgauges, the end of the season was drier than the other seasons. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2Monthly streamflow forecasting ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 Deterministic forecasting ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The performance of the time series models (k-NN,LC,LA and AR) for each predicand in the validation set is presented in Figure 4.We excluded some outliers,with SRMSE (forecast error) greater than 2.OO.Then, we did not show one outlier(AR)for March and April at IS and two outliers (LC and LA) for June at both streamgauges. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/945a4067bd09c50c7d113acc17681fccd492c08d67a53e436ef5b180e08d41f5.jpg",
+        "img_caption": [
+            "Fig.4SRMSE(standardized root mean square eror)ofthe applied time series models in the validation set (1980- 2010) for the monthly streamflow forecasting at the IS and SS "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Most of the models $( 7 3 \\% )$ performed better than the mean prediction (streamflow climatology), because they showed SRMSE less than 1.OO.Their mean SRMSE was 0.80, which was $20 \\%$ better than the climatology. All months for both streamgauges had at least six models, whose forecast was better than the mean prediction. The models,which showed all SRMSEs less than 1.O0,were 3- NN,4-NN, 6-NN and 7-NN. The 2-NN and 5-NN models showed just one SRMSE value higher than 1.00.AR had the worst performance with 6 out of the 8 SRMSEs higher than 1.O0,followed by LC (5) (LC had 5 out of 8 SRMSEs higher than 1.0O) and LA (4) (LA had 4 out of 8 SRMSEs higher than 1.0O),respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Considering the best-fit model of each month in the validation set (Table 3),7 out of the 8 models were a kind of k-NN approach. Only the streamflow in April (peak flow) at IS was better forecast with the LC model,the simplest approach.According to Table 3,SRMSE varied from 0.65 in June （ $3 5 \\%$ better than the mean prediction) to O.9O in April ( $10 \\%$ better than the climatology) at IS.For SS,the SRMSE varied from O.67 inMarch ( $3 3 \\%$ better than the mean prediction) to O.86 in April （ $14 \\%$ better than climatology). ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/cb758db91be87f8bb69e8e2126d8ae35513e6575f7e2d353ea93847576f2280f.jpg",
+        "table_caption": [
+            "Table3SRMSE (standardized root mean square error)of the best-fit models inthevalidation setfor the monthly streamflow forecasting at the Iguatu streamgauge (IS) and Salgado streamgauge (SS) "
+        ],
+        "table_footnote": [
+            "Note:LC,locally constant approach; $\\mathbf { k }$ -NN,k-nearest-neighbours algorithm with kranging from1to 7.SRMSE is the RMSE (root mean square error) divided by the SD (standard deviation) of the test set (validation or training). "
+        ],
+        "table_body": "<html><body><table><tr><td>Model performance</td><td>Mar_IS</td><td>Mar_SS</td><td>Apr_IS</td><td>Apr_SS</td><td>May_IS</td><td>May_SS</td><td>Jun_IS</td><td>Jun_SS</td></tr><tr><td>Best-fit model</td><td>3-NN</td><td>4-NN</td><td>7-NN</td><td>LC</td><td>2-NN</td><td>2-NN</td><td>5-NN</td><td>7-NN</td></tr><tr><td>SRMSE Validation</td><td>0.71</td><td>0.67</td><td>0.90</td><td>0.86</td><td>0.72</td><td>0.77</td><td>0.65</td><td>0.71</td></tr><tr><td>SRMSE Training</td><td>0.93</td><td>0.72</td><td>0.89</td><td>0.76</td><td>0.89</td><td>0.80</td><td>0.73</td><td>0.83</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the rising limb (March and April),the SRMSE in March was less than that in April, when SRMSE was also at the highest, for both streamgauges (Fig.4). In the falling limb (May and June), a higher SRMSE in May was also the case for both streamgauges.In the high streamflow season (March,April and May), the streamflow was better forecast in March at SS and slightly better in May at IS. Considering the best-fit model of each month in the validation set (Fig.4; Table 3), we found out the SRMSE in the rising limb at IS was higher than that at SS.However, SRMSE in the falling limb at IS was less than that at SS. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Comparing SRMSE between validation and training sets (Table 3), it was approximately the same for 3 out of the 8 predicands (absolute difference less than O.O3)and higher in the validation set for one predicand (the streamflow in April at SS). However, half of the predicands showed a higher SRMSE in the training set, which were found out for the streamflow forecast in March and June at the both streamgauges. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To illustrate the deterministic streamflow forecasting at monthly scale, we present the forecasts of the best-fit time series model(4-NN) in March at SS (Fig.5). In the validation set, the model was able to represent well the high, near-average and low flow states,but underestimated the largest peak.Also,the transition between these states (interannual variability) was wellsimulated,but with some delay in the first decade (1980-1989)of the test set. Overall,the dominant periods of high and low flows were very well differentiated, especially the latter ones. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/67044de19a1dd41a30b4387ae2e54ce3b8230422178c10bc680f4c3e40ede447.jpg",
+        "img_caption": [
+            "Fig.5Monthly deterministic forecasting in the validation set.The predicand is the streamflow in March at the SS. The predictors are the streamflow in JanuaryandFebruary.The time series model,which is the best-fitone,is 4-NN. SRMSE (forecast error) in the validation set is O.67,which means the 4-NN model is $33 \\%$ better than the mean predictor(climatology).Here,RMSEis the rms errordividedby the SD(standard deviation)of the validationset. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2.2 Probabilistic forecasting ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The best-fit time series models (Table 3) were assumed as dynamical parts of Equation 1. Then, we were able to calculate the stochastic term, using the errors in the training set. Table 4a and b show a summary of the forecast PDFs (probability density functions) for each predicand (streamflow in March,April,May and June) at both streamgauges, providing the length of the adopted confidence intervals ( $3 3 \\%$ $50 \\%$ and $66 \\%$ ,respectively), SRMSE and the SD of the gap-filled streamflow data. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/60040a58c6781c069d6c0da9b905af7850a3d180846b874946b81ab1db4ed3bd.jpg",
+        "table_caption": [
+            "Table 4aMonthly probabilistic forecasting of the validation set at the IS "
+        ],
+        "table_footnote": [
+            "Note:Thedeterministictermoftheprobabilisticforecastingisbasedonthebest-fitimeseriesmodelinthevalidationsetandthe stochastic term is based on the errors in the training set.\\*,the numbers in the brackets are the SD $\\mathrm { ( m } ^ { 3 } / \\mathrm { s ) }$ of the gap-filled streamflow series. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Confidence interval</td><td colspan=\"2\">March (92)*</td><td colspan=\"2\">April (204)*</td><td colspan=\"2\">May (79)*</td><td colspan=\"2\">June (12)*</td></tr><tr><td>Length</td><td>SRMSE</td><td>Length</td><td>SRMSE</td><td>Length</td><td>SRMSE</td><td>Length</td><td>SRMSE</td></tr><tr><td>33%</td><td>39</td><td>0.54</td><td>49</td><td>0.88</td><td>12</td><td>0.70</td><td>2</td><td>0.62</td></tr><tr><td>50%</td><td>72</td><td>0.43</td><td>93</td><td>0.84</td><td>31</td><td>0.66</td><td>3</td><td>0.59</td></tr><tr><td>66%</td><td>128</td><td>0.26</td><td>195</td><td>0.78</td><td>55</td><td>0.62</td><td>6</td><td>0.53</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/6060ed7c5fafba1a1804da81fbb8f03e2eeaab68d349d7c2b46a6a310833ff5c.jpg",
+        "table_caption": [
+            "Table 4bMonthly probabilistic forecasting of the validation set at the SS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Confidence interval</td><td colspan=\"2\">March (85)*</td><td colspan=\"2\">April (123)*</td><td colspan=\"2\">May (68)*</td><td colspan=\"2\">June (14)*</td></tr><tr><td>Length</td><td>SRMSE</td><td>Length</td><td>SRMSE</td><td>Length</td><td>SRMSE</td><td>Length</td><td>SRMSE</td></tr><tr><td>33%</td><td>26</td><td>0.58</td><td>32</td><td>0.78</td><td>12</td><td>0.73</td><td>4</td><td>0.66</td></tr><tr><td>50%</td><td>60</td><td>0.47</td><td>58</td><td>0.72</td><td>31</td><td>0.68</td><td>7</td><td>0.64</td></tr><tr><td>66%</td><td>89</td><td>0.40</td><td>101</td><td>0.67</td><td>63</td><td>0.60</td><td>13</td><td>0.59</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Considering a narrow uncertainty envelope over the deterministic forecasting,i.e., a length of the confidence interval $( 3 3 \\% )$ that was smaller than SD of the streamflow data, the forecasting performance improved expressively for all predicands at SS and for the streamflow in March at IS. Comparing Table 3 and Table 4a and b, SRMSE was reduced by O.11, 0.08, 0.04 and O.O5 for the streamflow in March, April,May and June at SS,respectively. The highest reduction of SRMSE (0.17) was found for the streamflow in March at IS.The probabilistic forecasting at the narrowest uncertainty envelope (Table 4a and b) outperformed the mean predictor (streamflow climatology) as $4 6 \\%$ $42 \\%$ $22 \\%$ $27 \\%$ and $34 \\%$ for the streamflow in March (IS),March (SS),April (Salgado), May (SS) and June (SS), respectively. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For the other predicands at IS (streamflow in April, May and June),the improvement in the forecasting performance was marginal with a SRMSE reduction of 0.O2. Only a wider uncertainty envelope ( $50 \\%$ or $6 6 \\%$ of confidence interval) led to a better forecasting performance for these predicands. For the streamflow in June,a $66 \\%$ confidence interval of the in-training-set error distribution,which corresponded to a length of $6 ~ \\mathrm { m } ^ { 3 } / \\mathrm { s }$ (or $50 \\%$ of streamflow data SD), produced a significant SRMSE reduction of 0.12 with the probabilistic forecasting performing $47 \\%$ better than the climatology. The same level of SRMSE reduction for the streamflow in April (0.12) and May(O.1O) was also achieved at $66 \\%$ of confidence interval, but showing a much larger length, $9 6 \\%$ and $70 \\%$ of SD for the streamflow in April and May, respectively. The IS probabilistic forecasting for the streamflow in April (May) at the narrowest uncertainty envelope $( 3 3 \\% )$ (Table 4a) outperformed $12 \\%$ （204号 $( 3 0 \\% )$ the mean predictor. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The reason for that slight performance increase even with a larger length of the confidence interval was mainly two underestimated peaks for the streamflow in April and May.These peaks occurred in 1985 and 1989, which were very moist years.To ilustrate the probabilistic forecasting at monthly scale,highlighting the aforementioned difficulty as well, we present the forecasts of the best-fit time series model (2-NN) enveloped bya PDF based on $50 \\%$ confidence interval of the intraining-set error distribution (Fig. 6). The predicand was the streamflow in May at IS. In the validation set,most of the streamflow data was close to or inside the bounds of the forecast envelope. Although the states of the flows (high, near-average and low) were very wellrepresented, the very high flows in 1985 and 1989 were considerably underestimated. Moreover, there was a relevant overestimation in 1981.As shown in Figure 5,the forecasting in the first decade (1980- 1989) of the test set was less reliable compared to the other two decades. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/310560548d2df1a81163975f41f45ac2a3cccfc8f030274558d7432168ece60f.jpg",
+        "img_caption": [
+            "Fig.6Monthly probabilistic forecasting in the validation set (3O a) with a confidence interval of $50 \\%$ ，which defines the upper and lower bound forecast.The predicand is the streamflow in May at the IS.The predictors are the streamflow in January,February,March and April.The time series modelis 2-NN.SRMSE inthe validationset is 0.66,which means the stochastic approach is comparatively $34 \\%$ better than the mean predictor (climatology). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3 SSF ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 Deterministic forecasting ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The performance of the time series models (k-NN,LC,LA and AR) for each predicand in the validation set is presented in Figure 7.We excluded some outliers,whose SRMSE was higher than ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0607fdcbc4746411e9508589827b10df9874aa2e38d2c3844c845bffa50a22d.jpg",
+        "img_caption": [
+            "Fig.7SRMSEof the applied time series models inthe validation set (198O-2Ol0)for the seasonal streamflow forecasting (SSF) in April (Apr),May and June (Jun) at the IS and SS "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.00.Then, we did not show one outlier (AR) for April and May at IS and three outliers (LC, LA and AR)for June at both streamgauges. Note that the SSF in March is not shown, because it is the same as the monthly streamflow forecasting, since the predictors (January and February) are the same. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Most of the models $( 5 5 \\% )$ did not perform better than the mean prediction (streamflow climatology), because they showed SRMSE higher than 1.OO.The streamflow forecasting in April and May at SS did not present any time series model, whose forecast was better than the mean prediction. However, for the remaining predicands,there were at least 4 models that showed SRMSEs less than 1.00.The 4-NN, 5-NN, 6-NN and 7-NN models had the best performance with 6 out of the 8 SRMSEs less than 1.OO.The 3-NN model showed four SRMSE values less than 1.00. AR had the worst performance with the all SRMSEs higher than 1.O0, followed by LA,LC,1-NN and 2-NN with 6 out of the 8 SRMSEs higher than 1.00. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Considering the best-fit model of each month in the validation set (Table 5),almost all models were a kind of k-NN approach. Only the streamflow in May at IS was beter forecast with the LA model.According to Table 5,SRMSE varied from O.78 in April( $2 2 \\%$ better than the mean prediction) to O.87 in June ( $13 \\%$ better than the climatology) atIS.For SS,the SRMSEvaried from 0.94 in June (only $6 \\%$ better than the mean prediction) to 1.O6 in May ( $6 \\%$ worse than climatology). As expected,the performance of the SSF decreased with the increasing of the lead time at IS: March (SRMSE, 0.71)， April (SRMSE, 0.78)， May (SRMSE, O.8O) and June (SRMSE, 0.87).SSF performance showed a different behaviour with the increasing of the lead time at SS: March (0.67), April (1.05), May (1.06) and June (O.94).Besides the streamflow in March,the seasonal predicands were better forecast for IS. ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bcff0712863ba8f2e584ab8e66ea1f59631c96c809a8695e9022fb47f8bff51.jpg",
+        "table_caption": [
+            "Table 5SRMSEof thebest-fit models in the validation set for the seasonal streamflow forecasting (SSF) in April, May and June at the IS and SS "
+        ],
+        "table_footnote": [
+            "Note:SSFinarchisotsoecaeitis teaeasteotlyreaflofrecasigicetheedictors Jaarydbar are the same. "
+        ],
+        "table_body": "<html><body><table><tr><td>Model performance</td><td>Apr_IS</td><td>Apr_SS</td><td>May_IS</td><td>May_SS</td><td>Jun_IS</td><td>Jun_SS</td></tr><tr><td>Best-fit model</td><td>6-NN</td><td>7-NN</td><td>LA</td><td>7-NN</td><td>7-NN</td><td>6-NN</td></tr><tr><td>SRMSE validation</td><td>0.78</td><td>1.05</td><td>0.80</td><td>1.06</td><td>0.87</td><td>0.94</td></tr><tr><td>SRMSE trainning</td><td>0.95</td><td>1.03</td><td>1.60</td><td>1.03</td><td>1.04</td><td>1.00</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Comparing SRMSE between validation and training sets (Table 5), it was slightly the same for 2 out of the 6 predicands (absolute difference less than O.O3),which were found out for the streamflow forecast in April and May at SS. The remaining predicands showed a higher SRMSE in the training set. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "To illustrate the deterministic streamflow forecasting at seasonal scale, we present the forecasts of the best-fit time series model (6-NN) in April at IS as example (Fig. 8). In the validation set, the model clearly overestimated the streamflow from 1990 to the middle of 20oOs and underestimated it in the beginning of 198Os and the end of 2OOOs. Although over- and underestimating,the model was capable to differentiate wellthe long periods of high and low flows, including a very well simulation of the largest peak. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3.2 Probabilistic forecasting ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The best-fit time series models (Table 5) were assumed as dynamical parts of Equation 1. Then, we were able to calculate the stochastic term,using the errors in the training set.Table 6a and b show a summary of the forecast PDFs for each predicand (streamflow in April, May and June) at both streamgauges,providing the length of the adopted confidence intervals ( $3 3 \\%$ ， $50 \\%$ and $6 6 \\%$ ), SRMSE and the SD of the gap-filled streamflow data.Note that the SSF in March is not shown, because it is the same as the monthly streamflow forecasting, since the predictors (January and February) are the same. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Considering a narrow uncertainty envelope over the deterministic forecasting,i.e., a length of the confidence interval $( 3 3 \\% )$ that was smaller than SD of the streamflow data, the forecasting performance improved expressively for all predicands at both streamgauges. Comparing Table 5 to Tables 6a and b,SRMSE was reduced by 0.11 (0.10),0.24 (0.13) and 0.09 (.08) for the streamflow in April, May and June at IS (SS),respectively.The highest reduction of SRMSE was found for the streamflow in May,followed by those in April and June,respectively. The probabilistic forecasting at the narrowest uncertainty envelope (Table 6a and b） outperformed the mean predictor (climatology） as follow: $5 \\%$ （20 $( 3 3 \\% )$ ， $7 \\%$ （204号 $( 4 4 \\% )$ and $14 \\%$ （20 $( 2 2 \\% )$ for the streamflow in April,May and June at SS (IS), respectively, showing a much better streamflow forecasting at IS. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/49aad7c0e9230632d4f06784acf5315d5e1336a3a8ba685c91234d64449bd54e.jpg",
+        "img_caption": [
+            "Fig.8Seasonal deterministic forecasting in the validation set (3Oa).The predicand is the streamflow in April at the IS.The predictors are the streamflow in JanuaryandFebruary.The time series model,which is the best-fit one, is 6-NN. SRMSE in the validation set is O.78,which means the 6-NN model is $22 \\%$ better than the mean predictor (climatology). "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/9337331d467332fb562ea198bf73d49d411dbde472dd04e961051235c44a0635.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Note:Thedeterministictermoftheprobabiliticforecastingisbasedonthebest-fitimeseries modelinthevalidationsetandthe stochasticterisbasedontheerorsinthetrainingsetSFinMarchisotshown,becauseitistesameasthmonthlystreamflow forecasting,since the predictors (January and February)are the same.\\*,the numbers in the brackets are the SD $( \\mathrm { m } ^ { 3 } / \\mathrm { s } )$ of the gap-filled streamflow series. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Confidence interval</td><td colspan=\"2\">April (204)*</td><td colspan=\"2\">May (79)*</td><td colspan=\"2\">June (12)*</td></tr><tr><td>Length</td><td>SRMSE</td><td>Length</td><td>SRMSE</td><td>Length</td><td>SRMSE</td></tr><tr><td>33%</td><td>81</td><td>0.67</td><td>40</td><td>0.56</td><td>5</td><td>0.78</td></tr><tr><td>50%</td><td>139</td><td>0.60</td><td>73</td><td>0.46</td><td>10</td><td>0.71</td></tr><tr><td>66%</td><td>235</td><td>0.48</td><td>98</td><td>0.38</td><td>16</td><td>0.60</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/16ccd9f010fe4b3c93e0efd43c7ebfffab4bb336c9c2d905194ae1ecdfa7a58f.jpg",
+        "table_caption": [
+            "Table 6aSeasonal probabilistic forecasting of the validation set at the IS ",
+            "Table 6bSeasonal probabilistic forecasting of the validation set at the SS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Confidence interval</td><td colspan=\"2\">April (123)*</td><td colspan=\"2\">May (68)*</td><td colspan=\"2\">June (14)*</td></tr><tr><td>Length</td><td>SRMSE</td><td>Length</td><td>SRMSE</td><td>Length</td><td>SRMSE</td></tr><tr><td>33%</td><td>54</td><td>0.95</td><td>24</td><td>0.93</td><td>5</td><td>0.86</td></tr><tr><td>50%</td><td>110</td><td>0.80</td><td>37</td><td>0.89</td><td>11</td><td>0.78</td></tr><tr><td>66%</td><td>164</td><td>0.67</td><td>58</td><td>0.83</td><td>18</td><td>0.71</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5 Discussion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The developed data-driven approach outperformed the streamflow climatology (the mean predictor in the validation set) for allone-month-ahead streamflows monthly streamflows (8 predicands). On average, it was $2 5 \\%$ better than the climatology. SSF was also reliable (on average, $20 \\%$ better than the climatology),failing slightly only for the high flow season (April and May) of the SS ( $6 \\%$ worse than the climatology). Considering an uncertainty envelope,which was $50 \\%$ and $40 \\%$ of the data SD, the streamflow forecasting performance increased considerably to $37 \\%$ and $28 \\%$ better than the climatology at monthly and seasonal scale,respectively. These findings are an advance regarding the past studies on this subject in the Jaguaribe River Basin (Delgado et al.,2O18; Pilz et al.,2019),which were not able to perform better than the streamflow forecasting,and are at the same order of magnitude of studies carried out in other drylands, but using a more complex approach (Yossef et al., 2013; Seibert et al.,2017). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The global nonlinear $\\mathbf { k }$ -NN approach was the best-fit time series model for 12 out of 14 predicands,although the $k$ number of nearest neighbours and the power parameter of the inverse distance weighting interpolation were not the same. The LC and LA approach were the best-fit model for the monthly-scale streamflow in April at SS and the seasonal-scale streamflow in May at IS,respectively.The global linear AR model was the worst-fit time series model for both scales. In the Limpopo River Basin in southern Africa, Seibert et al. (2O17) found a different result for a multivariate analysis of the hydrological drought forecasting, in which a multiple linear regression showed the best forecast skill compared to artificial neural networks and random forest regression trees,despite their capabilities to represent nonlinear relationships. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The outputs of the rainfall-runoff model to fill up the gaps of the streamflow series were fundamental to a better streamflow forecasting at SS (modelled data were $3 5 . 1 \\%$ of the whole streamflow series),while their impact on the model performance was negligible at IS (modeled data were only $3 . 7 \\%$ of the whole streamflow series).Disregarding the modelled data at SS, for example, the SRMSE of the best-fit time series model increased from O.67 to 0.75,0.77 to 0.82 and 0.71 to O.79 for the monthly-scale streamflow in March, May and June,respectively. There was no performance change for the streamflow forecasting in April, because the best-fit model was the LC that did not need any information from the training set, whose concentrated modelled data. This finding may create new opportunities for streamflow forecasting at monthly and seasonal scale in data scarce regions,leading to positive impacts on water allocation and drought management. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "SRMSEs were mainly driven by the streamflow intra-seasonality at monthly scale, while they were by the forecast lead time at seasonal scale.In the context of streamflow forecasting,the latter is a recurrent result and was also observed in other studies,which dealt with the role of the antecedent streamflow or the initial conditions for streamflow forecasting(Yossef et al.,2013; Trambauer et al., 2015). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The monthly-scale streamflow forecasting performed better than the seasonal-scale one, besides the streamflow in April at IS.The monthly-scale rising limb was beter forecast for SS,while the monthly-scale faling limb for IS.The former may be explained by the hydrograph sharpness at IS, due to the combination of a drier beginning of the streamflow season and a larger high streamflow season. The latter may be a result of a much more complex baseflow behavior at SS,due to the discharge from and the interaction between the different regional aquifers located in the upstream basin of the Salgado River (Machado et al., 2007). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The seasonal-scale streamflow forecasting from April to June was a much better forecast for IS than SS.This outstanding result of the seasonal-scale streamflow forecasting at IS may be explained by the use of the hydrologic persistence assumption (Koutsoyiannis, 2Oo5), which was quite often presented for IS.This assumption worked always when the beginning of the streamflow season (January and February) showed non-flow,which was the case for 12 out of 3O a in the validation set of each seasonal-scale predicand (April, May and June) at IS. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The probabilistic strategy improved significantly the streamflow forecasting at a narrow uncertainty envelope, although a larger envelope length was found at seasonal scale. This strategy had a better performance in the transition between the beginning of the season and the high flow season(March) at monthly scale and in the transition between the high flow season and the end of the season (May) at seasonal scale. Some of the predicands showed higher SRMSEs in the training set, which may be explained by the concentration of modelld streamflow data in this set and/or a more complex streamflow series of the training set. However, since higher SRMSEs in the training set led to a larger uncertainty envelope length in the validation set, that possible side efect was taken into account for the construction of the probabilistic forecasting,which presented reliable results even at the narrowest uncertainty envelope. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Monthly and seasonal forecasts have a high uncertainty; therefore,it is an important task to convey the skill of the forecast system,and for end users to include uncertainty information in the decision-making process (Seibert et al.，2O17).This is achieved by probabilistic streamflow forecasts that may serve as inputs to water resources operation models，which provide the probability of net benefits or losses for each sector of the economy,such as irrigation, industry and fish farming. If the probability of loss is significant, policymakers may want to divert some resources in advance to mitigation procedures,or at least be prepared for a significant emergency intervention (Sittichok et al., 2O16). However, deterministic forecasts are still common practice in many water management systems in Brazil. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusion ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We developed a data-driven approach to forecast dryland streamflows at monthly and seasonal scale,relying only on the streamflow series itself.The deterministic forecasting was evaluated by the application of four different types of time series model (LC,LA, $\\mathbf { k }$ -NN and AR). The probabilistic forecasting was based on the deterministic forecast enveloped by a PDF from the time series model errors in the training set. The outputs of a conceptual rainfall-runoff model were used to fill up the gaps of the streamgauges and to increase the available streamflow data. To our knowledge, this kind of hydrological model application for dryland streamflow forecasting has not been reported yet. This methodology was applied for two large catchments in the Brazilian semiarid area. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Our approach outperformed the climatology for most streamflows at monthly and seasonal scale (12 out of 14 predicands), in which the global nonlinear model and the global linear model were the best-fit and worst-fit time series models,respectively. In the probabilistic strategy，the deterministic forecast enveloped by a PDF, which was considerably narrower than the data SD, increased the forecasting performance by about $50 \\%$ at both scales. The outputs of the rainfallrunoff model to fill up the gaps of the streamflow series played an important role in improving streamflow forecasting. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The developed data-driven approach is mathematical and computationally very simple, demands few resources to accomplish its operational implementation and is applicable to other dryland watersheds. Moreover, since the studied watersheds have characteristics (e.g.,large drainage area, short time series with gaps and high streamflow interannual variability) that are similar to those of drylands in need of streamflow forecasting information, we believe that the transfer potentiality of this study is high. The streamflow forecasts may be part of drought forecasting systems and help plan water allocation months in advance. Moreover, the developed strategy can serve as a baseline for more complex streamflow forecast systems. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We thank the Brazilian Water Agency and the Water Companyof the State of Ceara of Brazil for streamflow and reservoirdataavailability.The firstauthor thanks theBrazilian National Councilfor Scientificand Technological Development for the Post-Doc scholarship (155814/2018-4). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Araujo JAde A.1990.Dams in Northeastern Brazil: an experience in the semi-arid region $( 2 ^ { \\mathrm { n d } } { \\mathrm { e d } } )$ .Fortaleza:DNOCS,328. Bennett C,Wang QJ,Robertson DE,etal.2O17.Assssmentof an ensemble seasonal streamflow forecastingsystem for Australia.Hydrology and Earth System Sciences,21: 6Oo7-6030. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "models. Journal of the American Water Resources Association,45(4): 828-843.   \nColischonW,Tucc CEM,ClarkeRT,etal.2Oo7.Medium-rangereservoir inflowpredictionsbasedonquantitative precipitation forecasts.Journal of Hydrology,344(1-2):112-122.   \nCosta AC,BronstertA,deAraujoJC.2Ol2a.Achanel ransmission lossesmodelfordiferent drylandrivers.Hydrologyand Earth System Sciences,16(4): 1111-1135.   \nCosta AC,Bronstert A,Kneis D.2012b.Probabilistic flood forecasting for a mountainous headwater catchment usinga nonparametric stochastic dynamic approach. Hydrological Sciences Journal, 57(1): 10-25.   \nCostaAC,FoersterS,deAraujoJC,etal.2Ol3.Analysisofhael ransmisionlossesinadrylandriverreachinnortheaste Brazil using streamflow series,groundwater level seriesand multi-temporalsatelitedata.Hydrological Proceses,27(7): 1046-1060.   \nCrochemore L,Ramos MH,PappenbergerF2016.Bias corecting precipitation forecasts to improve the skillof seasonal streamflow forecasts.Hydrology and Earth System Sciences,20(9): 3601-3618.   \nDelgadoJM,VossS,urgerGetal.2O18.SeasonaldroughtpredictionforsemiaridnortheastBrazil: Verificationofsixydro meteorological forecast products.Hydrology and Earth System Sciences,22(9): 5041-5056.   \nFioreze AP,BubelAPM,CallouAEP,tal.2O12.The waterissueinthe NortheastBrasilia: MinistryofScience andTechology. [2020-01-24].http://livroaberto.ibict.br/handle/1/669.   \nFormiga-JohnssonRM,Kemper K.2Oo5.InstitutionalandPolicyAnalysisofRiverBasinManagement:The Jaguaribe River Basin, Ceará, Brazil. New York: Social Science Research Network,42.   \nFrischkornH,SantiagoMF,deAraujoJC.2Oo3.WaterresourcesofCearaandPiaui.In:GaiserT,KrolM,FrischkoH,etal, Global Change and Regional Impacts.Berlin: Springer-Verlag,87-94.   \nFUNCEME(FoundationforMeteorologyand Water Resourcesofthe StateofCeara).2Oo8.Mappngof thesurfaceofthe water bodies in Brazil. Fortaleza: FUNCEME,108.   \nGuntnerA,BronstertA.2O04.Representationof landscapevariabilityandlateralredistribution proceses forlarge-scale hydrological modelling in semi-arid areas.Journal of Hydrology,297(1-4): 136-161.   \nGuintnerA,Krol MS,de AraujoJC,etal.2O04.Simple waterbalance modellngof surfacereservoir systems inalarge datascarce semiarid region. Hydrological Sciences Journal, 49(5): 901-918.   \nGutierrezAPA,EngleNL,deNysE,etal.2O14.DroughtpreparednessiBrazil.WeatherandClimateExtrems,3:95-106.   \nHastenrath S,HelerL.1977.Dynamicsofclimatichazards innortheastBrazil. QuarterlyJournalof theRoyal Meteorological Society,103(435): 77-92.   \nHe Z,Wen X,Liu H,etal.2O14.Acomparative studyof artificialneural network,adaptive neuro fuzzy inferencesystemand support vector machine forforecasting river flow in the semiarid mountain region.Journal of Hydrology,509:379-386.   \nKalraA,MilerWP,LambKW,etal.2O12.Usinglarge-scaleclimaticpattersforimprovinglongleadtimestreamflowforecasts for Gunnison and San Juan River Basins.Hydrological Processes,27(11):1543-1559.   \nKalra A,LiL,LiX,etal.2l3.Improvingstreamflowforecast adtieusing oeanic-tmospericsciltionsforKaidRiver Basin,Xinjiang,China.Journal of Hydrologic Engineering,18(8): 1031-1040.   \nKantz H, Schreiber T.2O04. Nonlinear Time Series Analysis ( $2 ^ { \\mathrm { n d } }$ ed). Cambridge: Cambridge University Pres,388.   \nKirchner JW.2o9.Catchments assimpledynamicalsystems: Catchment characterzation,ainfall-unofmodelingnddoing hydrology backward. Water Resources Research, 45(2): 1-34.   \nKlemes V.1986.Operational testingof hydrological simulation models.Hydrological Sciences Journal,31(1):13-24.   \nKoutsoyiannis D.2Oo5.Hydrologic persistenceand thehurst phenomenon.In:LehrJH, KeelyJ.The Encyclopediaof Water. New York: John Wiley & Sons,Inc., 27.   \nKwon HH,SouzaFiloFA,SunL,etal.2O12.Uncertaintyasessmentof hydrologic modelandclimateforecast modelin Northern Brazil. Hydrological Processes,26(25): 3875-3885.   \nLopes JC,Braga JBF, ConejoJL.1981.Hydrological simulation: Applicationsof asimplified model.In:IBrazilian Symposium for Water Resources.Fortaleza: ABRH, 42-62.   \nMachadoCJF,antiagoMMF,MendoncaLAR,etal.2Oo7.Hydrogeochemicalandflow modelingofaquitard percolationin the cariri valley-northeast Brazil. Aquatic Geochemistry,13:187-196.   \nMamede GL,AraujoNAM,SchneiderCM,et al.2O12.Overspillavalanching ina dense reservoir networkPNAS,109(19): 7191-7195.   \nMoradkhani H,Meier M.2010.Long-lead water supply forecast using large-scale predictorsand independent component   \nMoura AD,SuklaJ.981.Ontneyamcsorougnts innortneast Brazl: Oservauons,eoryandnumerical expermens with a general circulation model.Journal of the Atmospheric Sciences,38(12): 2653-2675.   \nNobreP,ShuklaJ.1996.Variationsof sea surface temperature,wind stress,andrainfallover thetropicalAtlanticand South America. Journal of Climate,9(10): 2464-2479.   \nNunes CM.2Ol2.Projectof integrationof theSan FranciscoRiver with the watersheds inthe Northeast-PISF.In:The water issu inthe Northeast.Brasilia: Ministryof ScienceandTechnology.[2O200-24].http:/livroaberto.ibict.br/handle/1/669.   \nPerreti C,Munch S,Sugihara G.2O13.Model-free forecastingoutperforms the corect mechanistic model forsimulatedand experimental data. PNAS,110(13): 5253-5257.   \nPhilanderSG.1990.ElNino,LaNina,andthe Souther Oscilation.International Geophysics Series (vol.46),SanDiego: Academic Press,293   \nPilzT,Voss S,VormoorK,etal.219.Seasonal droughtpredictionforsemiarid northeast Brazil:whatis theadded valueof a process-based hydrological model?Hydrology and Earth System Sciences,23:1951-1971.   \nPorporato A,RidolfiL.2Ool.Multivariate nonlinear prediction ofriverflows.Journalof Hydrology48(1-4):109-122.   \nRao VB,Hada K.199o.Characteristicsofrainfallover Brazil:annual variations and connections with southernoscilation. Theoretical and Applied Climatology, 42: 81-91.   \nRobertson DE,Wang QJ.20l2.ABayesian approach to predictor selection forseasonal streamflow forecasting.Journal of Hydrometeorology,13(1): 155-171.   \nRodriguesRR,HaarsmaRJ,Campos EJD,etal2O11Theimpactsof inter-ElNinovariabilityonthe TropicalAtlanticand Northeast Brazil climate. Journal of Climate,24(13): 3402-3422.   \nSeibertM,MerzB,ApelH.2O17.easonalforecastingofhydrologicaldroughtintheLimpopoBasin:acomparisonofstatistical methods.Hydrology and Earth System Sciences,21: 1611-1629.   \nShuklaS,LetenmaierDP2O11.SeasonalhydrologicpredictionintheUnitedStates:understandingtheoleof initialhydrologic conditions and seasonal climate forecast skill.Hydrology and Earth System Sciences,15:3529-3538.   \nSitichok K,GadoDA,SeidouO,etal.2016.Statisticalseasonalrainfallandstreamflowforecastingforthe Sirbawatershed, West Africa, using sea-surface temperatures. Hydrological Sciences Journal, 61(5): 805-815.   \nSivakumar B,Singh VP.2012.Hydrologic system complexity and nonlinear dynamic concepts foracatchment classification framework.Hydrology and Earth System Sciences,16: 4119-4131.   \nSouzaFilhoFA,Lall U.2Oo3.Seasonal tointerannual ensemble streamflow forecasts forCeara,Brazil:Applicationsofa multivariate,semiparametric algorithm.Water Resources Research,39(11):1-13.   \nSUDENE（Superintendénciade DesenvolvimentodoNordeste).1980.Plan forthe integratedutilizationof the waterresources in Northeastern Brazil. Recife: SUDENE,712.   \nTakens F.1980.Detecting strange atractors in turbulence.In: Rang D,and Young LS.Lecture notes in mathematics.Berlin: Springer, 366-381.   \nTongal H.2O20.Comparisonof localandglobal approximators inmultivariatechaotic forecastingof daily streamflow. Hydrological Sciences Journal, 65(7): 1129-1144.   \nTrambauer P,WernerM,Winsemius HC,etal.2O15.Hydrologicaldrought forecastingand skillasessment fortheLimpopo River basin,southern Africa. Hydrology and Earth System Sciences,19: 1695-1711.   \nUvo CB,RepeliCA,Zebiak SE,etal.1998.The relationships between tropicalacific and Atlantic SSTand northeast Brazil monthly precipitation. Journal of Climate,11(4): 551-562.   \nVrugt JA,ter Braak CJF,Clark MP,etal.2O08.Treatmentof inputuncertainty inhydrologic modeling: Doing hydrology backward with Markov chain Monte Carlo simulation.Water Resources Research,44(12):1-15.   \nVrugtJA,terBraakCJF,DiksCGH,etal.2O09.AcceleratingMarkovchainMonteCarlosimulationbydierentialevolution with self-adaptive randomized subspace sampling.International Journal of Nonlinear Sciences and Numerical Simulation, 10(3): 273-290.   \nVrugt JA.2016. Markov chain Monte Carlo simulation using the DREAM software package: Theory,concepts,and MATLAB implementation.Environmental Modelling and Software,75: 273-316.   \nWernerPC,GerstengarbeFW.2Oo3.TheclimateofPiauf andCeara.In:GaiserT,KrolM,FrischkorH,etal.GlobalChange and Regional Impacts.Berlin: Springer-Verlag,81-86.   \nWilks D S. 2005. Statistical Methods in the Atmospheric Sciences.Burlington: Academic Press,704.   \nWu CL,Chau K W,Li Y S.2O09.Predicting monthly streamflow using data-driven models coupled with data-preprocesing techniques.Water Resources Research,45(8),W08432,doi:10.1029/2007WR006737.   \nWu CL,Chau KW.2010.Data-driven models for monthly streamflow time series prediction.Engineering Applicationsof Artificial Intelligence,23(8):1350-1367.   \nYasen ZM,JafarO,DeoRC,etal.20l6.Stream-flow forecasting using extreme learningmachines:Acase studyinasemiarid region in Iraq. Journal of Hydrology,542: 603-614.   \nYossefNC,WinsemiusH, WeertsA,etal20l3.Skillofaglobalsasonalstreamflowforecastingsystem,elativerolesofial conditions and meteorological forcing.Water Resources Research,49(8): 4687-4699.   \nYuan X.2O16.An experimental seasonal hydrological forecasting systemover the Yellow Riverbasin-Part2:The added value from climate forecast models.Hydrology and Earth System Sciences,2O: 2453-2466.   \nYuan X,MaF,WangL,etal.2O16a.Anexperimentalseasonal hydrologicalforecasting systemover the YelowRiverbasinPart1:Understanding theroleof initial hydrologicalconditions.HydrologyandEarth System Sciences,2O:2437-2451. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    }
+]

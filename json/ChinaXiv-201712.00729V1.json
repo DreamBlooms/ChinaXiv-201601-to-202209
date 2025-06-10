@@ -1,0 +1,355 @@
+[
+    {
+        "type": "text",
+        "text": "技术方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "倾向评分配比在SPSS软件上的实现",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄福强,杜春霖,孙梦辉,宁冰，罗颖,安胜利南方医科大学公共卫生与热带医学学院生物统计学系，广东广州510515摘要：目的 研究倾向评分配比法在SPSS软件上的实现,并对分析结果进行解释。方法 通过安装与SPSS对应版本能够连接的R软件和插件,以及实现倾向评分配比需要的程序包,在SPSS 界面添加PS Matching模块,然后结合实例演示如何使用模块。结果成功实现了评分配比，并对匹配效果给出直观和定量的统计描述与评价。结论在SPSS软件中，可以较为方便地实现倾向评分配比。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：倾向评分；配比；标准化差异；SPSS",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Propensity score matching in SPSS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HUANGFuqiang,DUChunlin,SUNMenghui,NING Bing,LUO Ying,ANShengli   \nDepartmentofiostatisticscholofublicealthothedicalieitGagdonroncalyLboatoryofcalsee   \nResearch,Guangzhou 510515,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To realize propensity score matching inPS Matching moduleof SPSS and interpret the analysis results. Methods The R software and plug-in that couldlink with the coresponding versions of SPSS and propensity score matching package were instaled.APSmatching module was added inthe SPSS interface,and itsuse was demonstrated withtestdata. Results Score estimation and nearest neighbor matching was achieved with the PS matching module,and the results of qualitative and quantitative statistical descriptionand evaluation were presented intheform ofa graph matching.Conclusion Propensity score matching can be accomplished conveniently using SPSS software. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: propensity score; nearest neighbor matching; standardized difference; SPSS ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "倾向评分(propensity score matching,PSM)配比是一种可用于在非随机对照研究中涉及较多混杂因素情况下做因果推断的方法，在医学、心理学、社会学等领域的应用日趋流行，但目前多需要编程实现，从而限制了该方法的普遍使用。目前非统计专业人员最常使用的软件SPSS中尚无现成的PS配比模块，但是可通过安装有关插件获得点击式分析模块，包含最常用的logistic回归2和最邻近匹配3实现倾向评分配比和其他多种选项,如卡钳值、共同支持域、重复匹配、1:n匹配等，且可输出详细的评价匹配效果的均衡性统计量和图表4，本文拟通过实例展示如何在SPSS软件上实现倾向评分匹配。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1倾向评分配比原理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "倾向评分是指在一组混杂因素条件下，一个观察对象接受某种处理的可能性，其大小可以通过将处理因素作为应变量，其他混杂因素作为自变量建立Logistic回归模型来估计[5]。倾向评分配比就是利用倾向评分值从对照组中为处理组中的每个个体寻找一个或多个背景特征相同或相似的个体作为对照，最终两组的混杂因素也趋于均衡可比[。目前利用倾向评分进行配比的方法较多，PS最邻近匹配是最常用的一种方法：首先根据协变量计算倾向评分值，PS值在0\\~1之间，表示研究对象被分配到处理组(或者对照组)的概率[。然后，将两组观察对象按照倾向评分值大小排序，从处理组中依次选出1个研究对象，从对照组中寻找倾向评分值与处理组中最相近的一个对象作为配比个体。如果对照组中同时有2个或2个以上倾向评分值相同的个体，则按随机的原则进行选择。配比成功的对象从源人群中移去，然后进入下一个处理对象的配比过程，直到处理组中全部对象完成匹配。为确保匹配效果，可设定卡钳值；当处理组和对照组样本量较大时，可为一个处理组对象匹配多个对照组对象；匹配效果可通过比较处理组和对照组匹配前后的标准化差异或方差比，当标准化差异接近0或方差比接近1时，提示匹效果良好，PSM还可提供单个变量和整体在组间的均衡性检验。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 SPSS上的PSMatching模块",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1在SPSS上安装PSMatching模块(1)用户可以在http://www.ibm.com/developerwo-rks/spssdevcentral找到SPSSR插件进行安装，并在http://sourceforge.net/projects/psmspss/files/下载psm-atching3.spe。需注意不同的SPSS版本需要安装对应的SPSSR插件：SPSS18.0及之前的版本无法安装，SPSS19.0对应R2.10,SPSS20.0对应R2.12.0或者R2.12.1,SPSS21.0对应R2.14.2。安装成功后，PSMatching模块成为SPSS菜单的一部分，用户即可通过点击式操作实现倾向评分估计和匹配",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)打开SPSS,按如下顺序点击Utilities -->Extension bbundle $^ { . . . > }$ InstallExtensionbundle 然后找到己下载好的.spe文件进行安装，重启SPSS。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2操作方法打开SPSS，点击Analyze中的PSMatching，弹出如图1的主对话框。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca02849fbfd68dc51d1bf85dc9ffc83c46f84d6cfb0cbe841f6f360e69c5c8ef.jpg",
+        "img_caption": [
+            "图1PSMatching模块的主操作界面 Fig.1Main Dialog interface of thePS matchingmodule. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）Estimation Algorithm 倾向评分算法[8-9],有Logistic回归和GAMlogit两种选择；MatchingAlgorithm:匹配算法,有NearestNeighborMatching(最邻近匹配）,Fullmatching（完全匹配）[1o]和Optimalmatching(最优匹配)3种方法[8-9];DiscardUnits OutsideofCommonSupport：删除在共同支持域以外的观察单位,程序默认none;SmoothCovariate：在广义相加模型中用到的选项。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）IDVariable 选人序号;Binary treatment indi-cator( $0 =$ control, $1 { = }$ treatment)：选人二分类处理因素，并规定0为对照组，1为处理组，且变量类型须定义为尺度变量；Covariates:选人用于计算评分的协变量;Addi-tionalCovariates:选入和处理因素无关的协变量(注：一种较好的变量选择办法是将结局变量与混杂因素构建二分类logistic回归模型,进行逐步回归,进入模型的变量放人Covariates框内，剔除掉的变量选人AdditionalCovariates 框内[11);Exact Matching on(only for NearestNeighbor)：根据选入的变量对个体进行精确匹配，仅适用于最邻近匹配方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)点击Plots andoutput,出现如图2对话框。Plots下对应的五个选项依次为匹配前后的：评分直方图、个体匹配图、标准化差异直方图、各协变量标准化差异散点图、各协变量匹配前后变化线图；Resolution(PPI)：结果窗的显示比例;OutputDatasets:输出匹配后的数据集，其中Matchedcases和Pairedcases分别以长型和宽型格式输出匹配后的数据集;Balance Statistics:均衡性统计量，默认给出基本统计量，Detailed中可选是否按层分析，仅适用于最邻近匹配方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6ebb5e1e40727c9425a41391f8bf608e6ec4b04485bb2802de5a87126cd09cd.jpg",
+        "img_caption": [
+            "图2图形和结果界面 Fig.2 Dialog of plots and output. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4）点击Options,出现如图3对话框。Matching order:选择匹配的顺序，默认从最大评分值开始匹配; Allowreplacement：选择是否进行重复匹配； Subclassification：选择是否按照评分接近程度分为若干 亚分类;Matchonetomany:选择匹配比例;Caliper：设 定卡钳值，默认值为0.2。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/45e8a736e6dc1ab85120d0a25af44614444325d177b58916bedd31dd2180ddac.jpg",
+        "img_caption": [
+            "图3选项界面 Fig.3 Dialog of options. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 实例分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 数据背景",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了探讨吸烟对冠心病发生的影响，对26例冠心病人和28例对照者进行病例对照研究，各因素的说明见表1[12]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1冠心病8个可能的危险因素与赋值",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/971f3dd1d13ac8c8491012f2ac0b61dd5326c118cc0ab0a26465a06ab14a347f.jpg",
+        "table_caption": [
+            "Tab.1 Possible risk factors and assignment of coronary heart disease "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Factors</td><td>Variables</td><td>Score assignment</td></tr><tr><td>Age (year)</td><td>X1</td><td><45=1,45~=2,55~=3,65~=4</td></tr><tr><td>Hipertension history</td><td>X2</td><td>no=0,yes=1</td></tr><tr><td>Family hsitory</td><td>X3</td><td>no=0, yes=1</td></tr><tr><td>Smoking</td><td>X4</td><td>no=0,yes=1</td></tr><tr><td>Hyperlipidemia history</td><td>X5</td><td>no=0,yes=1</td></tr><tr><td>Animal fat intake</td><td>X6</td><td>low=0, high=1</td></tr><tr><td>BMI</td><td>X7</td><td><24=1,24~=2,26~=3</td></tr><tr><td>A-type character</td><td>X8</td><td>no=0,yes=1</td></tr><tr><td>Coronay heart disease</td><td>Y</td><td>cotrol=O,disease=1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2操作步骤 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以“吸烟\"为处理因素，除冠心病以外的其余变量为协变量构建估计PS的模型,如图4。勾选plots中的五个图，勾选 Output Datasets 中的 paired cases（wideformat),点击Detailed;options中设定卡钳值Caliper为0.2,其余默认;然后在主对话框点击OK。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/37be90305f27e5484645c8e9e6ea3b94018f5bc7480ea9f71c86e3349053eb7d.jpg",
+        "img_caption": [
+            "图4构造倾向评分匹配模型 Fig.4 Construction of propensity score matching model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 基本的匹配情况本例中处理组个体数大于对照组(表2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d0fa19494796878926f3cffe9f01d961b9b0883e68e037f5ceb4a9c1df9c25d.jpg",
+        "table_caption": [
+            "表2样本匹配结果Tab.2 Sample Size of PS Matching"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Control</td><td>Treated</td></tr><tr><td>All</td><td>13</td><td>41</td></tr><tr><td>Matched</td><td>13</td><td>13</td></tr><tr><td>Unmatched</td><td>0</td><td>28</td></tr><tr><td>Discarded</td><td>0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3输出结果",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 整体均衡性检验 输出结果\"Overallbalance test\"中的 $\\scriptstyle P = 0 . 9 9 9$ ，显示covariates框以及additional coc-ariates框中选入的变量在两组整体间均衡性较好。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.3匹配后的均衡性度量输出结果“Relativemultivariate imbalance L1\"中的L1 measure[13-14]统计量理论上介于0和1之间。和匹配前相比，匹配后的结果越小提示匹配效果越好，本例，匹配后的L1统计量为0.769小于匹配前0.878，提示匹配优良。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.4显示匹配后不均衡的变量输出结果\"RelativemultivariateimbalanceL1\"中，若d>0.25提示变量存在不均衡性[15],并按d大小从上至下排序给出,若在SPSS的PS自定义对话框选项中勾选includinginteraction,表格中还会给出这些变量间的交互项及二次项在处理组和对照组中的均数、对照组标准差、标准化均差等值。本例中，没有变量d>0.25,从而认为所有的变量在组间都均衡。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.5各个变量匹配前后的信息给出处理组、对照组匹配前后各变量的均值、对照组各变量的标准差、匹配前后标准化均数差的变化，见表3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.6评分分配图从图中可以大致推断匹配情况的好坏。在倾向评分1：n的情况下，图5中每个点的大小表示权重[16。本例,虽然处理组尚有较多未能匹配,但是获得匹配个体的倾向评分比较接近。因而匹配效果较好。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.7标准化差异变化线图该图将匹配前后的绝对标准化差异描点，并连线来反映差异是增加还是减小，线段变粗表示差异增大，从图6可知，大部分个体标准化差异减小，只有一个变量略有增加。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.8PS分布直方图默认情况下被核密度函数估计覆盖，可用来比较配比前后评分分布的相似度，并提供共同支撑域面积的估计，若匹配后处理组和对照分布近似，提示匹配良好。由图7可见，匹配较好。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.9SD分布直方图被核密度函数覆盖，可用于比较匹配前后变量、交互项、二次项标准化差异变化大小，若匹配后的标准化差异集中在0附近，提示不再存在系统差异。由图8可知，匹配后，本例不再存在系统差异，匹配较好。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.10单变量SD散点图给出各协变量匹配前后的标准化差异，若匹配后变量对应点落在 $0 . 0 { \\pm } 0 . 2 5 \\$ 之间，则提示变量达到均衡。由图9，可知匹配良好。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/45dcd78d630a6c31556e5fd37c5b37488488747e1e4f57e64c573746b239c482.jpg",
+        "table_caption": [
+            "表3完整均衡性统计量 Tab.3 Detailed blance statistics ",
+            "Distribution of Propensity Scores "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Covariates</td><td colspan=\"2\">Means Treated</td><td colspan=\"2\">Means Control</td><td colspan=\"2\">SD Control</td><td colspan=\"2\">Std. Mean Diff.</td></tr><tr><td>Before</td><td>After</td><td>Before</td><td>After</td><td>Before</td><td>After</td><td>Before</td><td>After</td></tr><tr><td>Propensity</td><td>0.807</td><td>0.621</td><td>0.608</td><td>0.608</td><td>0.183</td><td>0.183</td><td>1.102</td><td>0.072</td></tr><tr><td>x1</td><td>2.512</td><td>2.000</td><td>2.000</td><td>2.000</td><td>0.577</td><td>0.577</td><td>0.632</td><td>0.000</td></tr><tr><td>x2</td><td>0.488</td><td>0.231</td><td>0.154</td><td>0.154</td><td>0.376</td><td>0.376</td><td>0.660</td><td>0.152</td></tr><tr><td>x3</td><td>0.488</td><td>0.615</td><td>0.538</td><td>0.538</td><td>0.519</td><td>0.519</td><td>-0.100</td><td>0.152</td></tr><tr><td>x5</td><td>0.439</td><td>0.308</td><td>0.231</td><td>0.231</td><td>0.439</td><td>0.439</td><td>0.414</td><td>0.153</td></tr><tr><td>x6</td><td>0.244</td><td>0.077</td><td>0.077</td><td>0.077</td><td>0.277</td><td>0.277</td><td>0.384</td><td>0.000</td></tr><tr><td>x7</td><td>1.512</td><td>1.462</td><td>1.462</td><td>1.462</td><td>0.776</td><td>0.776</td><td>0.071</td><td>0.000</td></tr><tr><td>x8</td><td>0.659</td><td>0.538</td><td>0.538</td><td>0.538</td><td>0.519</td><td>0.519</td><td>0.250</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f0786531718aa9f986ccfbb24f89cc20f3578438c0156717a0fecb1cbdca8f4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4bf759d42ea53b0d3b8e50b889043fb8674aa79a32a2ff2f6a6b394222a69ea.jpg",
+        "img_caption": [
+            "图6标准化差异变化线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/51aab134c3880f69fb2f8983348065a86dd2043543681a9ef930889f09b0284b.jpg",
+        "img_caption": [
+            "图5评分分布图 Fig.5Dotplot of individual young adults in either matched or unmatched groups.Graph was produced using routines from the MatchIt package. ",
+            "Fig.6Lineplotof standardizeddifferences before and after matching.Graph was produced using routines of the MatchIt package. ",
+            "图7PS分布直方图 Fig.7Distribution of propensity scores of smoking(treated) and no smoking (control) before and after matching with overlaid kernel density estimate. Graph was produced using modified routines of the MatchIt package. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c8136f213132c0741bae750e4ddf1cf13fd16cd20ab10f3bba2bf60ef26956d.jpg",
+        "img_caption": [
+            "Standardized differences before matching ",
+            "图8SD分布直方图 Fig.8Histograms with overlaid kernel density estimates of standardized differences before and after matching. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "比提供了一种有效的解决混杂偏倚的办法，即通过匹配，使处理组和对照组间的不均衡性达到最小化甚至完全消除[4]。目前倾向评分的应用越来越流行,但并未在医学、心理学和社会学以及其他一些领域达到广泛应用，其中一个重要的原因就是缺少研究者都能普遍使用的软件，而SPSS以其点击式的操作和直观的结果一直为大多数研究人员所青睐，本文介绍了倾向评分模块在SPSS中的实现，并提供了详细的操作方法和结果解释。虽然该模块尚无法实现一些倾向评分的高级计算方法，但可满足大多数科研工作者的要求。也许在不久的将来，SPSS新版本将会把PSM模块直接纳入软件中，并提供较为全面的计算方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]王永吉,蔡宏伟,夏结来,等.倾向指数第一讲倾向指数的基本概念和研究步骤[J].中华流行病学杂志,2010,3(31):3.  \n[2]王永吉,蔡宏伟,夏结来,等.倾向指数第二讲倾向指数常用研究方法[J].中华流行病学杂志,2010,5(31):5.  \n[3］吴美京,吴 骋,王睿,等.倾向性评分法中评分值的估计方法及比较[J].中国卫生统计，2013.6(30):3.  \n[4] Thoemmes F. Propensity score matching in SPSs[EB/OL].http://arxiv.org/abs/1201.6385  \n[5]杨 梅,肖静,沈 毅,等.倾向评分法及其处理共线性数据的模拟研究[J].中国卫生统计,2013,30(6):824-8.  \n[6]李智文,任爱国.倾向评分配比法[J].中国生育健康杂志,2010,21(2): 121-3.  \n[7］李智文,李宏田,张乐,等.用SPSS宏程序实现观察对象的倾向评分配比[J].中国卫生统计,2011,27(1):89-90,92.  \n[8]Austina PC.A comparison of 12 algorithms for matching on thepropensity score[J]. Statist Med,2014,33.1057-69.  \n[9]Stuart EA.Matching methods for causal inference:A review and alook forward[J]. Stat Sci,2010,25(1): 1-21.  \n[10] Hansen BB, Klopfer SO. Optimal full matching and related designsvia netowrk flows[J].JComp Graph Stat,2006,15:609-27.  \n[11]王永吉,蔡宏伟,夏结来,等.倾向指数第三讲应用中的关键问题[J].中华流行病学杂志,2010,7(31):7.  \n[12]孙振球,徐勇勇.医学统计学[M].第3版,北京:人民卫生出版社,2004.  \n[13]Iacus MS,King G,Porro G.CEM: coarsened exact matchingsoftware[J].J Stat Softw,2009,30:1-27.  \n[14]Iacus SM,King G,Porro G.Causal inference without balancechecking: coarsened exact matching[J]. Polit Anal,2011,20: 1-24.  \n[15]Hansen BB,Bowers J. Covariate balance in simple,stratified andclustered comparative studies[J]. Stat Sci,2008,23:219-36.  \n[16]Ho DE,Imai K,King G,et al. Matching as nonparametricpreprocessing for reducing model dependence in parametric causalinference[J].Polit Anal,2007,15:199-236.",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3d5d59d4105e9977f3effdd90d2bc0a6b4acb18e7bc8d91f5fcf2cf8bea8a08.jpg",
+        "img_caption": [
+            "图9单变量SD散点图 Fig.9 Dotplot of standardized mean differences for all covariates before and after matching. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "观测变量的矫正是数据分析中重要的一部分，因为混杂因素会对处理效应的估计造成影响。倾向评分配",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（编辑：吴锦雅）",
+        "page_idx": 4
+    }
+]

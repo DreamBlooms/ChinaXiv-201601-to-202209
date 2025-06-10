@@ -1,0 +1,272 @@
+[
+    {
+        "type": "text",
+        "text": "硅纳米带电弧等离子体的合成及其储锂电化学特性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "余洁意　高 嵩 董星龙",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(教育部三束材料改性重点实验室 大连理工大学材料科学与工程学院 大连 116024)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要用直流电弧等离子体法在氢气和氨气混合气氛下制备了硅纳米带(SiNRs),使用透射电子显微镜(TEM)、原子力显微镜(AFM)、X射线衍射光谱(XRD)、Raman光谱、X光电子能谱(XPS)等手段对SiNRs的形貌、结构及成分进行了表征。结果表明,这种硅纳米带(SiNRs)是由细小片状结构Si晶体沿一定的晶体学方向堆积而成的带状纳米结构，以聚结生长机制为主导。SiNRs的宽度约为 $2 8 \\mathrm { n m }$ 、长度大于 $2 0 0 \\mathrm { n m }$ 、厚度为 $6 . 2 \\mathrm { n m }$ ，比表面积约为 $1 6 4 \\mathrm { m ^ { 2 } { \\cdot } g ^ { - 1 } }$ 。文中深入探讨了SiNRs的形成机制。这种制备SiNRs的方法成本低,可商业化宏量生产,其产率约为 $1 8 . 6 \\mathrm { g } { \\cdot } \\mathrm { h } ^ { - 1 }$ 。将此SiNRs作为负极活性物质制备了锂离子电池，并测试其嵌/脱锂电化学性能。这种锂离子电池的首次放电比电容为 $2 4 6 0 \\mathrm { m A h ^ { \\bullet } g ^ { - 1 } }$ ，循环40次后其电容量维持在 $3 1 6 \\mathrm { m A h \\cdot g ^ { - 1 } }$ ，表现出较好的储锂电化学活性。关键词无机非金属材料，硅纳米带，直流电弧等离子体，电化学反应,锂离子电池，负极材料",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号0646,0649文章编号 1005-3093(2017)03-0161-07",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical Performance of Si Nanoribbons as Anode Material for Li-ion Battery Synthesized by Arc-discharge Plasma ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YU Jieyi, GAO Song, DONG Xinglong (KeyLaboratoryofMaterials ModificationbyLaser,IonandElectron Beams (MinistryofEducation),Schoolof Materials Scienceand Engineering,Dalian University ofTechnology,Dalianll6023,China) Correspondent: DONG Xinglong, Tel: (0411)84706130, E-mail: dongxl@dlut.edu.cn Supported by National Natural Science Foundation of China (Nos.513310o6& 51271044) Manuscript received 2016-05-26,in revised form 2016-09-03 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT Silicon nanoribbons (Si-NRs) were successfully synthesized by direct-curent (DC) arc-discharge plasma ina mixed atmosphere of hydrogenand helium,and then characterized by transmission electron microscopy (TEM),atomic force microscopy (AFM),X-ray difraction (XRD), Raman spectra and X-ray photoelectron spectroscopy (XPS),etc..This work provides a low cost preparation method for the synthesis of Si-NRs,and it could be commercially produced with a production rate of $1 8 . 6 \\ \\mathfrak { g } \\cdot \\mathfrak { h } ^ { - 1 }$ .The Si NRs consist of fine sheets of $c a 2 8 \\ \\mathsf { n m }$ in width,over $2 0 0 ~ \\mathsf { n m }$ in length and $c a 6 . 2 \\ \\mathsf { n m }$ in thickness with specific surface area of $1 6 4 ~ \\mathsf { m } ^ { 2 } \\cdot \\mathsf { g } ^ { - 1 }$ .The measured electrochemical performance of the Si-NRs as anode of lithium ion batteries reveals that the first discharge specific capacity is $2 4 6 0 \\ m { \\mathsf { A h } } { \\cdot } { \\mathsf { g } } ^ { - 1 }$ and it reaches to $3 1 6 \\mathrm { \\ m A h { \\cdot } g ^ { - 1 } }$ after 40 cycles,which exhibits a high activity of insertion/desertion of ${ \\mathsf { L i } } ^ { + }$ ions and possible potentials for further improvement of the cycle stability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEY WORDS inorganic non-metalic materials,silicon nanoribbon, direct-current arc-discharge, electrochemical reaction, lithium-ion battery,anode material ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "硅是自然界中储量极为丰富的元素之一，含量仅次于氧，且绿色无污染。硅能与锂反应，生成 $\\mathrm { L i _ { 1 3 } S i _ { 4 } }$ ，$\\mathrm { L i _ { 1 2 } S i _ { 7 } . L i _ { 2 2 } S i _ { 4 } }$ 和LiSi等\"。硅作为锂离子电池的负极材料，电池的理论比容量可高达 $4 2 0 0 \\ \\mathrm { m A h \\cdot g ^ { - 1 } }$ ，是目前具有最高理论容量的储锂材料。硅的嵌锂电位低于 $0 . 4 \\mathrm { V }$ ，与电解液的反应活性低，受到人们的广泛关注。但是，硅在嵌锂过程中体积膨胀较大(达到$300 \\% ^ { [ 2 ] }$ 以上)，导致材料破裂和粉化34，使电极材料的活性组分失活，严重限制了硅材料在锂离子电池中的应用。材料的纳米结构化，是改善其电化学性能的有效方法之一。纳米结构的尺寸较小，在有限的体积中嵌/脱锂过程产生的体积变化量较小，可改善电池的循环稳定性。纳米结构提供了更多的界面，形成较多的活性位点，可提升电极反应动力学，减小锂离子和电子传输路径，减小锂离子扩散不均匀产生的应力和应变5。纳米材料表面存在大量的晶界，其堆垛密度低于完整晶体，有助于嵌/脱锂过程中的整体体积膨胀。另外，晶粒尺寸的减小使全位错的形成和运动变得困难甚至不可能。纳米结构的金属和合金更容易形成不全位错，使纳米复合电极在粉化之前能承受更高的应力。纳米材料较高的塑性和可变形性有助于吸收体积变化所产生的应力，提高循环稳定性。在嵌脱锂过程中单个纳米颗粒的绝对体积变化明显小于微米颗粒，在循环过程中结构更加稳定[]。Kulish等的计算结果表明，二维硅纳米片可用作锂离子电池负极材料。Yan等[2使用氧化石墨烯作为模板制得二维硅纳米片并用作锂离子电池负极，循环100次后电极容量保持仍保持有较高的比容量，且其循环性能明显高于Si纳米颗粒。作为锂离子电池负极材料，二维硅纳米结构比零维结构具有更大的结构优势和应用前景。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用不同于传统化学气相法的直流电弧等离子体法，在氢气和氨气混合气氛下制备硅纳米带(SiNRs)并深入探讨其相关形成机理。将SiNRs作为活性物质制作锂离子电池负极，测试电池的电化学储锂性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1硅纳米带的制备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用工业级的块状硅为硅原料(纯度 $9 9 . 9 9 \\%$ ,并将其作为直流电弧等离子体设备的阳极，以钨电极作为设备的阴极。启动设备抽取反应腔室内的空气以达到所需要的真空度，接着通入少量氨气冲洗后再一次抽真空，以清除反应腔室或管道内可能存在的空气成分。分别充入 $0 . 0 1 \\mathrm { M P a }$ 氢气和 $0 . 0 2 \\mathrm { M P a }$ 氮气形成混合反应气体，引弧后设置电弧电流为 $9 0 \\mathrm { A }$ 电压范围在 $2 0 { \\sim } 4 0 \\mathrm { v }$ ，电压值取决于阴极与阳极间的距离。硅块体靶材蒸发后经历形核与长大过程形成纳米粉体并沉积在水冷室壁上，当反应腔温度降至室温后引入少量空气进行钝化，使纳米粉体的表面形成一层很薄的硅氧化物钝化层，以防止粉末暴露于大气时中进一步氧化。收集硅纳米粉体称其质量，并用于结构表征和电化学测试。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2硅纳米带的形貌和结构表征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用透射电子显微镜(TEM,Tecnai²20S-TWIN,$2 0 0  { \\mathrm { k e V } } )$ 和原子力显微镜(AFM,AgilentPicoPlus II)观察硅纳米粉末样品的形貌。AFM样品采用单晶云母片作为基体，在轻敲模式下测试。用X射线衍射仪(Empyrean)测定X射线衍射光谱(XRD)，以Cu靶 $K _ { a }$ 为辐射电源 $\\scriptstyle \\lambda = 0 . 1 5 4 1 6 \\ \\mathrm { n m } ,$ 。用拉曼光谱仪（204 $\\mathrm { ( I n V i a ) }$ 测试Raman光谱，激发波长为 $6 3 2 . 8 ~ \\mathrm { n m }$ 。用ThermoEscalab250Xi光电子能谱仪测定X光电子能谱(XPS)，使用单色Al $K _ { a } ( h \\nu { = } 1 4 8 6 . 6  { \\mathrm { ~ e V } } )$ 辐射源为探头，光谱采用烃类化合物的C1s发射峰 $( 2 8 4 . 8 \\mathrm { e V } )$ 进行校正。用Autosorb- $1 ~ \\mathrm { M P }$ 测试比表面积(BET),恒温 $7 7 . 3 \\mathrm { K }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3硅纳米带的电化学性能表征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将质量比为5:4:1的活性材料(SiNRs粉末)、导电剂(超级炭黑，SuperP)和粘结剂(聚偏四氟乙烯，PVDF)和适量的氮甲基吡咯烷酮(NMP)溶剂混合均匀，然后涂覆在铜箔上，在 $1 2 0 ^ { \\circ } \\mathrm { C }$ 真空干燥 $2 4 \\mathrm { h }$ 。在水分和氧气少于 $0 . 1 \\times 1 0 ^ { - 6 }$ 氩气填充的手套箱中安装CR2025型纽扣电池，电解液为 $1 \\ \\mathrm { m o l { \\cdot } L ^ { - 1 } L i P F _ { 6 } }$ ，溶剂为 $1 { : } 1 ( \\mathrm { v } / \\mathrm { v } )$ 的碳酸亚乙酯(EC):碳酸二乙酯(DEC)混合有机溶液。将金属锂片作为对电极，聚丙烯(PP)膜为分离正负电极的隔膜。使用CHI660D型电化学工作站测试循环伏安曲线，扫描电压范围 $0 . 0 1 { \\sim } 2 . 5 \\mathrm { ~ V ~ }$ 扫描速度为 $0 . 1 \\mathrm { m V } { \\cdot } \\mathrm { s } ^ { - 1 }$ ；测试电池电化学阻抗谱，频率范围为 $0 . 0 1 ~ \\mathrm { H z } { \\sim } 1 0 0 ~ \\mathrm { k H z } .$ 振幅为 $5 ~ \\mathrm { m V }$ 。用LANDCT2001A型电池测试系统测试电池的充放电容量、库伦效率及储锂电位等，充放电电流密度为 $1 0 0 \\mathrm { m A } { \\cdot } \\mathrm { g } ^ { - 1 }$ ，充放电截止电压为 $0 . 0 1 { \\sim } 2 . 0 \\mathrm { V } ( \\mathrm { v s . } \\mathrm { L i } / \\mathrm { L i } ^ { + } ) .$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果和讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1硅纳米带的形貌 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1(a,b,c)分别给出了在氢气和氮气混合气氛下制备的硅纳米粉末样品的TEM、HRTEM和AFM图。从图中可以观察到，硅纳米结构呈纤维状，宽度约为 $2 8 ~ \\mathrm { n m }$ 、长度大于 $2 0 0 ~ \\mathrm { n m }$ 、厚度约为 $6 . 2 \\ \\mathrm { n m }$ 的带状结构，其宽/厚比约为4.5，表明该样品可称之为纳米带(Silicon nanoribbons,Si NRs)[3]。这种 SiNRs的比表面积约为 $1 6 4 ~ \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { g } ^ { - 1 }$ ，其 ${ \\bf N } _ { 2 }$ 吸附-脱附曲线如图2d所示。从图1b中的微观细节分析可知，SiNRs是硅物质各向异性生长的结果，呈现出多晶堆叠形成的带状结构，其带体的晶格间距约为 $0 . 3 1 { \\mathrm { n m } }$ 属硅(111)晶面，而带的外表面为(110)晶面。从图中还可观察到较清晰的界面，由此断定此纳米带由较小的纳米片按照一定的取向堆叠生长而成。此外，从图中确定SiNRs的生长方向与(111)晶面对应的 $< 1 1 1 >$ 晶向呈 $2 0 ^ { \\circ } ( \\theta )$ 角度。经过计算得知<111>和${ < } 1 1 2 { > }$ 晶向间的夹角约为 $1 8 ^ { \\circ }$ ，与测试结果基本接近，由此可断定 SiNRs的生长方向为 ${ < } 1 1 2 { > }$ 晶向[14]。从图1b中还可以观察到，SiNRs表面覆盖一层较薄的非晶态硅氧化物层，是制备过程中钝化处理造成的。硅氧化物钝化层的厚度由形成的Si纳米结构的表面活性所决定，表面活性位点数及其表面能决定表面氧化物含量的多少。从AFM图(图1c)和其中相应横线的纵截面分析图(图1d)可以确定，SiNRs的平均厚度约为 $6 . 2 \\ \\mathrm { n m }$ ，宽度为 $1 3 ~ \\mathrm { { n m } }$ ，与文献报道的硅纳米片的厚度 $( 7 . 5 \\ \\mathrm { n m } )$ 相似[15]。经收集Si",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0be7299d75b8e195843e3f838937b42a6d8c0e3630e2d59c16aecaec8fbfb22.jpg",
+        "img_caption": [
+            "图1SiNRs的TEM和HRTEM图、AFM图以及沿AFM图中绿色横线的水平截面分析图Fig.1 TEMand HRTEM images (a,b)，AFM image (c） and horizontal cross section profile (d) takenalong the line in(c) of silicon nanoribbons"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NRs纳米粉体沉重后计算可得该方法的制备效率约为 $1 8 . 6 \\ \\mathrm { g } { \\cdot } \\mathrm { h } ^ { - 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2硅纳米带的结构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2a给出了块体硅原料和SiNRs的XRD图，其特征衍射峰显示都属于硅立方晶系(JCPDS05-0565)。原料及纳米粉体产物的XRD衍射峰具有两个特点：第一，与块体硅的衍射峰相比，SiNRs的衍射峰明显宽化，表明SiNRs纳米结构由细小晶粒组成；第二，块体硅中最强衍射峰为(220)晶面，而SiNRs纳米结构的最强衍射峰则为(111)晶面，SiNRs中晶粒生长具有各向异性的特征，与图1b的HR-TEM分析结果吻合。可通过(111)和(220)晶面衍射峰的强度比 $I _ { ( 1 1 1 ) } / I _ { ( 2 2 0 ) }$ 进一步定量分析各向异性生长,块体硅和SiNRs的 $I _ { ( 1 1 1 ) } / I _ { ( 2 2 0 ) }$ 值分别为0.83和2.08，这表明，SiNRs具有明显的各向异性特征，是在氢气和氮气混合气氛中形核与生长的结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据Raman光谱对SiNRs做了进一步表征，光谱的波数范围为 $1 0 0 { \\sim } 1 2 0 0 ~ \\mathrm { c m } ^ { - 1 }$ ，如图2b所示。从图中可以看到硅振动模的特征峰，如一阶光学声子峰(TO,横向光学声子)、横向声学声子倍频峰(2TA)",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b25d0fe6788f5b82725b3df1916cbec818a318bd76c85c9d9e60f809fe6738c2.jpg",
+        "img_caption": [
+            "图2块体硅和SiNRs的XRD图谱、Raman图以及SiNRs的Si2p 电子XPS图谱和 $\\mathbf { N } _ { 2 }$ 吸附-脱附曲线Fig.2 XRD patterns(a) and Raman spectra(b) of bulk Si and Si NRs,and XPS spectra (c)of Si 2p elec-trons and Nitrogen adsorption-desorption isotherms (c) of Si NRs"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "和横向光学声子倍频峰(2TO)。以块体硅作为参比对象，在 $5 2 0 \\mathrm { c m } ^ { - 1 }$ 处出现一个强的拉曼峰，其半峰宽(FWHM)为 $1 0 \\mathrm { c m } ^ { - 1 }$ 。这是由硅的一阶光学声子散射而产生的，也就是Si-Si键伸缩振动的响应。由图中可以看出，SiNRs的TO峰偏移至 $4 9 8 ~ \\mathrm { c m } ^ { - 1 }$ ,FWHM为 $2 2 \\mathrm { c m } ^ { - 1 }$ 。由此可见，与块体硅相比，由细小薄片组成的纳米结构SiNRs的声子散射特点发生了显著的变化。硅具有常规的面心立方晶体结构，每个硅原子都与另外4个硅原子键合形成共价键，其键长和键角都是长程有序的[。与块体硅相比，纳米结构SiNRs的拉曼散射TO峰向低频偏移了 $2 2 ~ \\mathrm { c m } ^ { - 1 }$ .这可能源于小尺寸效应。由上述AFM和HRTEM表征结果可知，SiNRs的极限尺寸(或者厚度)为 $6 . 2 \\mathrm { n m }$ 。在这种小尺寸中硅的晶格周期性边界条件遭受限制，出现平移对称操作失常，相关局域函数变小，从而影响了硅的一阶光频声子行为。在拉曼散射中，当相关长度小于光波长的1/10时硅的声子从振动模式发展成局域模式[，这是拉曼峰向低频显著移动和宽化的主要原因，这种现象已由Faraci等[在理论上证明。在纳米级的二维硅晶体中，拉曼峰向低频移动也可能归因于量子限制效应[12.18.19]。纳米结构中的声子主要位于声子势阱中，而在二维势阱中带有二维子带能量的电子在z方向上的移动被冻结，即电子只在平面移动。声子散射不再局域于布里渊区中心，中心附近的声子散射也应列入考虑范围内。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据XPS对SiNRs纳米结构表面的化学组成进行了分析，图2c所示为Si2p电子的结合能。图中显示 SiNRs在 $9 9 . 6 \\mathrm { e V }$ 处出现Si元素峰 $( \\mathrm { S i } ^ { 0 } )$ ,来源于SiNRs中的单质Si核；在102.9和 $1 0 3 . 4 \\mathrm { e V }$ 处出现硅氧化物峰，说明SiNRs表面被轻微氧化。其中一种氧化物( $\\mathrm { 1 0 3 . 4 e V ) }$ 为具有确定化学计量比的 $\\mathrm { S i O } _ { 2 } ^ { [ 2 0 ] }$ ，另外一种 $\\mathrm { S i O } _ { s } ( 1 0 2 . 9 \\ : \\mathrm { e V } )$ 为氧过量掺杂的硅氧化物，其表面O原子含量约为Si原子的5.6倍。图2d给出了 SiNRs的 $\\mathbf { N } _ { 2 }$ 吸附-脱附等温线，吸附曲线为类型${ \\mathrm { V } } ^ { [ 2 1 ] }$ ，在高气压区域具有急剧毛细凝聚现象。这个结果说明，测试样品中中微孔含量很低，主要由中孔构成，结合形貌表征结果可推断该中孔结构可能源于纳米带堆积而成。测得比表面积约为 $1 6 4 ~ \\mathrm { m ^ { 2 } { \\cdot } g ^ { - 1 } }$ 。由上述TEM、AFM和XPS结果可知，SiNRs的厚度很小，且表面O原子含量较高，说明表面存在大量晶格缺陷，小尺寸和大量的晶格缺陷导致材料比表面积较大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3形成机理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "纳米结构SiNRs是Si原子在等离子体条件下形核与各向异性生长的结果，这种等离子体中含有高能量的 $\\mathrm { H ^ { + } }$ 和 $\\mathrm { H e ^ { + } }$ 离子。在电弧放电过程中，弧焰可分为内部、中部和外部区域[22.23]。弧区内部硅原子的浓度较高，气态硅原子在内部区域完成成核过程，然后在中部和外部区域进行生长[22-24]。在高能等离子体作用过程中 $\\mathrm { H ^ { + } }$ 离子促进硅原子蒸发， $\\mathrm { H e ^ { + } }$ 具有冷凝和影响晶核表面能量状态的作用。晶体硅具有面心立方(FCC)结构，不同晶体学表面具有不同表面原子密度，即 $\\rho _ { ( 1 0 0 ) } = 2 / a ^ { 2 } \\cdot \\rho _ { ( 1 1 0 ) } = 4 / ( 2 ^ { 1 / 2 } \\mathrm { { a } } ^ { 2 } ) \\cdot \\rho _ { ( 1 1 1 ) } = 4 / ( 3 ^ { 1 / 2 } a ^ { 2 } ) \\cdot$ 0在不考虑重构、弛豫、杂原子或分子的化学或物理吸附的情况下，各晶面学表面能为 $\\gamma { = } 1 / 2 N _ { \\mathrm { b } } \\varepsilon \\rho _ { \\mathrm { a } } ^ { [ 2 5 ] }$ ，其中$N _ { \\mathrm { b } }$ 为断裂键数量、 $\\boldsymbol { \\varepsilon }$ 为半键强; $\\rho _ { \\mathrm { a } }$ 为表面原子密度。FCC 结构的原子配位数为12,在{100}晶面上每个原子有4个悬挂键，即 $N _ { \\{ 1 0 0 \\} } { = } 4$ ，同理 ${ \\cal N } _ { \\{ 1 1 0 \\} } { = } 5 , { \\cal N } _ { \\{ 1 1 1 \\} } { = } 3$ 。因此，硅晶体的主要晶面表面能分别为： $\\scriptstyle \\gamma _ { \\{ 1 0 0 \\} } = 4 \\varepsilon / a ^ { 2 }$ $\\gamma _ { \\{ 1 1 0 \\} } { \\approx } 7 . 0 7 \\varepsilon / a ^ { 2 }$ $\\gamma _ { \\{ 1 1 1 \\} } { \\approx } 3 . 4 6 \\varepsilon / a ^ { 2 }$ 。由此可见，{111}晶面的表面能最小。这意味着，如果硅晶体外表面由{111}晶面组成，则晶体将具有最低的能量，即最为稳定， $< 1 1 1 >$ 晶向成为晶体生长速率最小的方向。在存在 $\\mathrm { H ^ { + } }$ 和 $\\mathrm { H e ^ { + } }$ 离子的条件下，将影响上述晶体表面能量状态，使 $\\angle 1 1 1 >$ 晶向成为易于生长的方向之一[26]。另外，根据周期键合链(PBC)原理也可以来预测晶核的优先生长方向[27.28]。该原理认为：{100}面为平整表面(标记为F面)，有一个贯穿表面的PBC；{110}面为台阶面(S面)，有两个PBC；而{111}面为扭折面(k面)，有三个PBC。在简单立方晶体中，{110}和{111}面的生长速率比{100}面的快[2]。以上分析表明，在 $\\mathrm { H } ^ { + }$ 和 $\\mathrm { H e ^ { + } }$ 离子的作用下，Si的初始晶核具备各向异性生长的条件，形成细小的片状硅团簇晶核。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SiNRs的生长过程，是片状团簇晶核的聚结生长。在氢气和氮气的混合气氛中 $\\mathrm { H e ^ { + } }$ 具有很好的冷凝和能量交换效率，因此形成晶核尺寸比 $\\mathbf { A } \\mathbf { r } ^ { + }$ 冷凝作用形成的晶核尺寸更小，有利于以堆积晶核的方式完成生长过程，即聚结生长。另外，氮气的扩散系数较小[29.30],有利于对细小片状晶核堆积过程中持续发挥冷凝作用，促进二次成核(聚结)生长，形成片状晶核有序排列的带状纳米结构，如图1b所示。SiNRs的生长方向(带轴方向)与片状晶核结构的 $< 1 1 1 >$ 晶向呈 ${ \\sim } 2 0 ^ { \\circ }$ ，据此可计算出SiNRs的生长方向为 ${ < } 1 1 2 { > }$ 晶向。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4硅纳米带的电化学性能",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用SiNRs作为活性物质制备出锂离子电池的极片，组装CR2025型纽扣半电池，测试其电化学性能，结果如图3所示。图3a给出了SiNRs电极的前三次循环伏安曲线。在首次循环反向扫描中，在$0 . 5 2 \\mathrm { V }$ 处出现一个较宽峰，此峰在第2次循环时消失，表明对应于电极表面形成的固体电解质界面(SEI)膜；在 $0 . 2 5 { \\sim } 0 . 0 1 \\mathrm { ~ V }$ 间也出现一个明显的宽峰，对应 $\\mathrm { L i ^ { + } }$ 嵌入过程和非晶 $\\mathrm { L i } _ { \\mathrm { { x } } } \\mathrm { { S i } }$ 相转变成晶化的$\\mathrm { L i _ { 1 5 } S i _ { 4 } }$ 过程3。首次循环正向扫描时，在0.36和 $0 . 5 5 \\mathrm { V }$ 处出现两个宽峰，为 $\\mathrm { L i ^ { + } } .$ 从Si-Li合金中脱出反应峰，在后续循环过程中峰电流逐渐增强，表明随着充/放电的进行 $\\mathrm { L i ^ { + } }$ 从Si-Li合金中脱出所需的能量逐渐增大[2]。以上相转变反应过程为[33I:Si(晶体) $  \\mathrm { L i } _ { x } \\mathrm { S i } $ (非晶) $\\mathrm { \\Delta L i _ { 1 5 } S i _ { 4 } }$ （晶体） $ \\mathrm { S i }$ (非晶)。在循环伏安曲线中没有出现超级炭黑导电剂的脱/嵌锂反应峰。图3(b)给出了SiNRs电极的最初两次充/放电曲线，表明首次放电和充电容量分别为2460和 $1 5 0 8 \\ \\mathrm { m A h \\cdot g ^ { - 1 } }$ ，第二次循环的可逆容量为 $1 4 9 3 \\ \\mathrm { m A h \\cdot g ^ { - 1 } }$ ，相应库伦效率为 $8 3 \\%$ 。图3c给出了40次循环过程中的容量变化，可见可逆容量保持在 $3 1 6 \\ \\mathrm { m A h \\cdot g ^ { - 1 } }$ ，库伦效率约$9 3 \\%$ ，高于传统碳材料的实际容量。这些结果表明，电极首次循环后存在较大的不可逆容量，可能来源于部分 $\\mathrm { L i ^ { + } }$ 在电极表面形成 SEI膜[34.35]。以上结果表明，使用SiNRs纳米粉体构建的电极，其初始电化学活性较高，因为Si纳米结构的表面组成有利于嵌/脱锂过程的进行，体现出高储锂容量；同时，大比表面积也导致SEI膜的形成，即不可逆容量损失较大。另外，循环性能表明，有部分Li+嵌入Si晶格后无法脱出，形成不可逆嵌入3；同时也表明，单一的二维纳米结构SiNRs依然不能很好地解决嵌/脱锂过程中的体积变化问题，使较多的活性组分失活或丧失电接触。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了进一步研究SiNRs电极的界面变化，分析了初始及3次循环后的电极电化学阻抗，如图3d所示。在阻抗谱图中的高中频区出现扁半圆，分别代表首次循环中的SEI膜形成及循环后界面电荷的转移。循环三次后扁半圆的直径明显增大。其原因是，随着嵌/脱锂过程的重复进行Si活性单元发生体积变化，活性物质和导电剂之间的接触开始松动]，活性单元间电接触和锂离子捕获能力逐渐减弱；同时，在新表面上形成的SEI膜也使体系阻抗增加。在低频区出现的斜线对应着Li+离子在电极中的扩散阻抗38，可见三次循环后斜线斜率明显增大，表明体系中Li+扩散能力的增强[3。以上结果表明，Si",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7bf38855b3c1c57f9000209004070621cb5f4bc0dec2b0ab6350ae8c29fb3279.jpg",
+        "img_caption": [
+            "图3 SiNRs锂离子电池负极材料的循环伏安图、最初两次充放电曲线以及初始和三次循环后的电 化学阻抗谱 Fig.3 Electrochemical performances of Si NRs,electrode for LIBs (a) cyclic voltammograms from 0.01 to $2 . 5 ~ \\mathrm { V } ,$ at a scan rate of $0 . 1 \\mathrm { m V } { \\cdot } \\mathrm { s } ^ { - 1 }$ ; (b) the initial two charge/discharge curves at a current density of $1 0 0 \\ \\mathrm { m A \\cdot g ^ { - 1 } }$ ,between 0.01 and $2 . 0 \\mathrm { ~ V ~ }$ ；(c) cycling performance at a constant current density of $1 0 0 \\mathrm { m A } { \\cdot } \\mathrm { g } ^ { - 1 }$ ,between 0.01 and $2 . 0 \\mathrm { V }$ ; (d) nyquist plots before cycling and after three cycles "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NRs表现出较好的储锂电化学活性，有望成为理想的锂离子电池负极材料。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用不同于传统化学法和气相法的直流电弧等离子体法，可在氢气和氮气混合气氛中合成Si纳米带。这种Si纳米带的宽度为 $2 8 \\mathrm { n m }$ ，长度大于 $2 0 0 \\mathrm { n m }$ 厚度约为 $6 . 2 \\mathrm { n m }$ ，比表面积约为 $1 6 4 ~ \\mathrm { m ^ { 2 } { \\cdot } g ^ { - 1 } }$ 。本文为硅纳米带的制备提供了一种低成本制备方法。硅纳米带的形成源于 $\\mathrm { H ^ { + } { \\cdot } H e ^ { + } }$ 离子共同作用下的各向异性生长，由细小片状团簇晶核沿一定的晶体学方向堆垛而成，以聚结生长机制为主导。由于受到Si纳米带的小尺寸和晶格周期性改变的影响，与块体硅材料相比较，其X射线衍射谱和拉曼光谱都发生了较大的变化，出现衍射峰的宽化和拉曼峰偏移。Si纳米带表面形成钝化层，由化学计量的 $\\mathrm { S i O } _ { 2 }$ 和非化学计量的氧掺杂氧化硅所组成。SiNRs表现出较好的储锂电化学活性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]EdwardH.Kottcamp,Volume 3,AlloyPhase Diagrams [M].USA: The Materials Information Company,1992 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2] NiuJ.,Zhang S.,Niu Y.,et al. Silicon-based anode materials for lithium-ion batteries [J].Prog.Chem.,2015,27(9):1275   \n[3] Rtu J.H.,Kim J.W.,Sung Y.E.,et al.Failure modes of silicon powder negative electrode in lithium secondary batteries [J].Electrochem.Solid ST.,2004,7(10):A306   \n[4]Beaulieu L.Y.,Eberman K.W.,TurnerR.L.,etal.Colossal reversible volume changes in lithium alloys [J].Electrochem.Solid ST., 2001,4(9):A137   \n[5] Kim I. S.,Blomgren G.E.,Kumta P.N. Nanostructured Si/TiB composite anodes forLi-ion batteries [J]. Solid-State Lett.,2003,6 (8): A157   \n[6] Tedd A.,Ferguson P.P.,Barker J.G.,et al.Comparison of mechanically milled and sputter deposited tin- cobalt- carbon alloys using small angle neutron scattering [J].J.Electrochem. Soc.,2Oo9,156 (12):A1034   \n[7] YangJ.,WinterM.,Besnhard J.O.Small particle size multiphase Lialloyanodes for lithium-ion-batteries [J].Solid State Ionics,1996, 90(s1-4): 281   \n[8] YangJ.,WachtlerM.,WinterM.,Sub-microcrystalline Sn and SnSnSb powders as lithium storage materials for lithium-ion batteries [J].Electrochem.Solid ST.,1999,2(4):161   \n[9] Chen I.W.,Xue L.A.,Development of superplastic structural ceramics [J].J.Am. Ceram. Soc.,1990,73(9): 2585   \n[10]Besnhard J.O.,YangJ.,WachtlerM.,et al.Will advanced lithiumalloy anodes have a chance in lithium-ion batteries?[J].J.Power Sources,1997,68(1): 87 [11] Kulish V.V., Malyi O.I., Ng M.F.,et al. Enhanced Li adsorption and diffusion in silicon nanosheets based on first principles calculations [J].RSC Adv.,2013,3(13): 4231 [12] Lu Z.，Sim D.,Zhou W.,et al.Synthesis of ultrathin silicon nanosheets by using graphene oxide as template [J]. Chem. Mater.,2011,23(24): 5293 [13] Shi W.,Peng H., Wang N., et al. Free-standing single crystal silicon nanoribbons [J].J.Am. Chem. Soc.,2001,123(44): 11095 [14] Wei D.P., Chen Q. Metal-catalyzed CVD method to synthesize silicon nanobelts [J].J.Phys.Chem.C,2008,112(39):15129 [15] Okamoto H., Kumai Y., Sugiyama Y.,et al.Silicon nanosheets and their self- assembled regular stacking structure [J],J.Am. Chem. Soc.,2010,132(8): 2710 [16] Zhang S.L.,Raman spectroscopy and its application in nanostructures [M].West Sussex: A John Wiley & Sons Ltd.Publication,   \n2012. [17] Faraci G., Gibilisco S.,Pennisi A.R.,et al. Quantum size effects in Raman spectra of Si nanocrystals[J].J.Appl.Phys.,2011,109 (7): 074311 [18] Faraci G.,Gibilisco S., Russo P.,et al. Modified Raman confinement model for Si nanocrystals [J].Phys.Rev.B,2006,73(3):   \n033307 [19] Meier C.,LuttjohannS., Kravets V. G. etal. Raman properties of silicon nanoparticles [J]. Physica E,2006,32(1-2): 155 [20] Nakano H.,Nakano M.,Nakaknishi K.,et al. Preparation of alkylmodified silicon nanosheets by hydrosilylation of layered polysilane $\\mathrm { ( S i _ { 6 } H _ { 6 , } }$ [J].J.Am.Chem. Soc.,2012,134(12): 5452 [21] Cao G. Z., Wang Y., Nanostructures and nanomaterials: synthesis, properties,and applications [M].New Jersey:World Scientific Hackensack,201l pp 450-451 [22] Yatsuta S.， Kasukabe S., Uyeda R., Formation of ultrafine metal particles by gas evaporation technique.I. Aluminum in helium [J]. Japanese J. Appl. Phys.,1973,12(11): 1675 [23]Kasukabe S.,Yatsuta S., Uyeda R.,Ultrafine metal particles formed by the gas-evaporation technique.II. Crystal habits of magnesium, manganese,beryllium,and tellurium [J]. Japanese J.Appl.Phys.,   \n1974, 13(11): 1714 [24] Saito Y.,Yatsuya S.,Mihama K., Uyeda R.,Formation of ultrafine particles by gas-evaporation technique.V. Silicon and germanium in argon[J].Japanese J.Appl.Phys.,1978,17(2):291 [25] Cao G. Z.,Wang Y., Nanostructures and nanomaterials: synthesis, properties,and applications [M].New Jersey:World Scientific   \n[26] Yu J.Y.,Gao J.,Xue F.H.,et al. Formation mechanism and optical characterization of polymorphic silicon nanostructures by DC arcdischarge [J].RSC Adv.,2015,5(84): 68714   \n[27] Cao G.Z.,Wang Y.,Nanostructures and nanomaterials: synthesis, properties,and applications [M].New Jersey:World Scientific Hackensack,201lpp 152-153   \n[28] Hartman P.,Perdok W.G.，Relations between structure and morphology of crystals [J].Acta Crystallogr.,1955,8: 49   \n[29] Ohno T., Yatsuya S., Uyeda R.,Formation of ultrafine metal particles by gas- evaporation technique.III.Aluminum in helium,argon,and xenon,and magnesium in mixtures of inactive gas and air[J].Japanese J. Appl. Phys.,1976,15(7):1213   \n[30] Hayashi T., Ohno T.,Yatsuya S.,et al.Formation of ultrafine metal particles by gas- evaporation technique.IV. Crystal habits of iron and fcc metals,aluminum,cobalt, nickel,palladium, silver, indium, gold and lead [J].Japanese J. Appl.Phys.,1977,16(5): 705   \n[31] Chou S.,Wang J.,Choucair M.,et al. Enhanced reversible lithium storage in a nanosize silicon/graphene composite [J]. Electrochem. Comm.,2010,12(2): 303   \n[32] Magasinski A.,Dixon P.,Hertzberg B.,et al.High- performance lithium- ion battery anodes using a hierarchical botom- up approach [J]. Nat. Mater.,2010,9(4): 353   \n[33] Lu Z., Zhu J., Sim D., et al. In situ growth of Si nanowires on graphene sheets for Li- ion storage [J].Electrochim.Acta, 2012,74: 176   \n[34] Wang J. T., Wang Y.,Huang B.,et al.Silicon supportedon stable SiO-C skeletonin high-performance lithium-ion batery anode materials [J].Acta Phys.-Chim.Sin.,2014,30(2):305.   \n[35] Chen K., Bao Z. H.,Liu D., et al. Confined synthesis and properties of porous silicon from silica aerogel templates by magnesiothermic reduction [J].Acta Phys.-Chim.Sin.,2011,27(11):2719.   \n[36] Zhang T.,Gao J.，Fu L.,et al.Natural graphite coated by Si nanoparticles as anode materials for lithium ion batteries [J].J.Mater.Chem.,2007,17(13):1321.   \n[37] Kunai Y., Shirai S., Sudo E.,et al. Characteristics and structural change of layered polysilane $\\mathrm { ( S i _ { 6 } H _ { 6 } ) }$ anode for lithium ion batteries [J].J.Power Sources,2011,196(3):1503.   \n[38] Guo Z.P., Zhao Z.W.,Liu H.K.,et al.Electrochemical lithiation and de-lithiation of MWNT- Sn/SnNi nanocomposites [J].Carbon, 2005, 43(7):1392.   \n[39] Peng Y.,Chen Z.,Wen J.,et al.Hierarchical manganese oxide/carbon nanocomposites for supercapacitor electrodes [J].Nano Res., 2011,4(2):216 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

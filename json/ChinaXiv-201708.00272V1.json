@@ -1,0 +1,771 @@
+[
+    {
+        "type": "text",
+        "text": "New effective interactions in RMF theory with non-linear terms and density-dependent meson-nucleon coupling ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wenhui Long, $^ { 1 , 2 }$ Jie Meng,1,3,4,† Nguyen Van Giai,² and Shan-Gui Zhou ${ } ^ { 1 , 5 , 3 , 4 }$ （2 $^ { 1 }$ School of Physics， Peking University，100871 Beijing， China （20 $\\mathcal { Z }$ Institut de Physique Nucleaire,CNR-N2P3, Universite Paris-Sud, 91406 Orsay， France 1 $^ 3$ Institute of Theoretical Physics, Chinese Academy of Sciences,Beijing,ina $\\mathit { 4 }$ Center of Theoretical Nuclear Physics，National Laboratoryof Heavy Ion Acelerator，73oooo Lanzhou, China （20 $^ { 5 }$ Max-Planck-Institut fir Kernphysik， 69029 Heidelberg，Germany ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "New parameter sets for the Lagrangian density in the relativistic mean field (RMF) theory, PK1 with nonlinear $\\sigma$ -and $\\omega$ -meson self-coupling,PK1R with nonlinear $\\sigma \\cdot$ ， $\\omega$ - and $\\rho$ -meson self-coupling and PKDD with the density-dependent meson-nucleon coupling,are proposed. They are able to provide an excelent description not only for the properties of nuclear matter but also for the nuclei in and far from the valley of beta-stability.For the first time in the parametrization of the RMF Lagrangian density,the center-of-mass correction is treated by a microscopic way, which is essential to unify the description of nuclei from light to heavy regions with one effective interaction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:21.60.-n,21.30.Fe,21.60.Jz,21.10.Dr ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the past decade,the development of unstable nuclear beams [1,2] has extended our knowledge of nuclear physics from the stable nuclei and those nearby to the unstable nucleifar from the stability line.Intense research in this area shows that there exist lots of unexpected phenomena: strange nuclear structure like neutron halo (skin) and protonhalo (skin)[3-10],soft excitation modes [11,12],theenhancementoffusion cross sections induced by the extendedmater distributions[13,14]etc..With further developments,manyothernewfeatures willbe found. It also becomes very important to findareliable theory and improve the reliability for predicting the properties of even more exotic nuclei out to the proton and neutron drip lines. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Relativistic mean feld(RMF)[15,16] theory has received wide attention becauseof its successful description of many nuclear phenomena during the past years.With a very limited number of parameters,RMF theory is able to give a satisfactory description for the ground state properties of spherical[17]and deformed nuclei [18] at and away from the stability line.The recent reviews on RMF theory can be seen in [16-18].In the simplest version of RMF theory,the mesons do not interact among themselves,which results in a too large incompressibility for nuclear matter.Boguta and Bodmer [19] therefore proposed to include a nonlinear self-coupling of the $\\sigma$ -field, a concept which has been used in almost allthe recent applications.The meson self-coupling introduces a new density dependence into the Lagrangian and consequently,the nuclear matter incompressibility can be lowered to reasonable values.As an implement, in l994 the nonlinear self-coupling of the $\\omega$ -field is introduced by Sugahara and Toki [20]. In this paper we will introduce the nonlinear_self-coupling for the $\\rho$ -field.Recently RMF theory with density-dependent (DD） meson-nucleon couplings [21-24] was developed by various authors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Till now the two versions (the nonlinear self-coupling of meson felds and the DD meson-nucleon couplings)of RMF theory have been succesfullyapplied to describe the nuclear properties,including binding energies, nuclear matter distribution,single-particle spectra, magnetic moments,colective excited states，dipole sum rule,shell efects in fnite nuclei,pseudospin symmetry,rotating nuclei,superdeformed bands,etc.In particular,the halo phenomena can be understood self-consistently in this microscopical model after the proper treatment of the continuum effect [7,25]. Combining with Glauber model,the charge-changing crossections for C,N,OandF isotopes arecalculated and good agreement with thedata has been achieved[9,10].The long existing problem for the origin of pseudo-spin symmetry innuclei is given naturalyas a relativistic symmetry [26-28]. Good agreement with experimental data has also been found recentlyfor magnetic rotation [29],colective excitations such as giant resonances [30] and for twin bands in rotating super-deformed nuclei[31].It is also noted that cranked RMF theory provides an excelent descriptionof superdeformed rotational bands in the A=140-150 region[32],in the Sr region [33] and in the Hg region [34]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Among the existing parametrizations for RMF theory,the most frequently usedare NL1 [35],PL-40 [36],NLSH[37],TM1 [20]andNL3[38]with nonlinear self-coupling of mesons,and TW99 [23]andDD-ME1[24] with DD meson-nucleon coupling. The efective interactions NL1,NL3,TM1,NL-SH and TW99,DD-ME1 give good results in most of the cases. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Along the beta stability line NL1 gives excellent results for binding energies and charge radi, in addition it provides an excellent descriptionof the superdeformedbands[32,33].However,in goingaway from the stability line the results are less satisfactory. This can be partly attributed to the large asymmetry energy $J \\simeq 4 4$ MeV predicted by this force.In adition,the calculated neutron skin thickness shows systematic deviations from the experimental values for the set NL1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the effective interaction NL-SHthis problem was treated ina better way and the improved isovector properties have been obtained with an asymmetry energy of $J \\simeq 3 6$ MeV.Moreover, NL-SH seems to describe the deformation properties in a beter way than NL1. However,the NL-SH parametrization produces a slight over-binding along the line ofbeta-stabilityand inaddition itfails toreproduce successfullythe superdeformed minima in Hg-isotopes in constrained calculations for the energy landscape.Aremarkable disagreement between the two parametrizations are the quite different values predicted for the nuclear matter incompressibility.NL1 predicts a small value ( $K$ （204 $= 2 1 2$ MeV) while with NL-SH a very large value ( $K = 3 5 5$ MeV） is obtained.Both forces fail to reproduce the experimental values for the isoscalar giant monopole resonances for Pb and Zr nuclei. The NL1 parametrization underestimates the empirical data by about 2 MeV while NL-SH overestimates it by about the similar values. As an improvement, the effective interactions, NL3 and TM1, provide reasonable compression modulus ( $K _ { \\mathrm { N L 3 } } =$ 268.0 MeV, $K _ { \\mathrm { T M 1 } } = 2 8 1 . 1 6$ MeV) and asymmetry energy ( $J _ { \\mathrm { N L 3 } } = 3 6 . 5 6$ MeV, $J _ { \\mathrm { T M 1 } } = 3 6 . 8 9$ MeV) but fairly small baryonic saturation density ( $\\rho _ { \\mathrm { N L 3 } } = 0 . 1 4 5$ $\\rho _ { \\mathrm { T M 1 } } = 0 . 1 4 5$ ). In order to improve the description of these quantities, we developed two nonlinear self-coupling parametrizations called as PK1 with nonlinear $\\sigma$ and $\\omega$ -meson nonlinear self-coupling,and PK1R with nonlinear $\\sigma \\cdot$ ， $\\omega$ and $\\rho$ -meson nonlinear self-coupling. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RMF theory with DD meson-nucleon couplings [21,2]is an alternative approach to the description of nuclear mater and finite nuclei as compared to the model with the nonlinear self-interactions of mesons.There exist two representative parametrizations,TW99 [23] and DD-ME1 [24] for the density-dependence of meson-nucleon coupling.Theyareable to describe quantitatively properties of nuclear matter andfinite nuclei with similar quality as the parametrizations of the nonlinear self-coupling.As a comparison with the nonlinear self-coupling,we also developed a parametrization named as PKDD with DD meson-nucleon couplings. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In allprevious nonlinear self-coupling parametrizations as mentioned above,the center-of-mass correction is made by a phenomenological way.In the present parametrizations,the PK-series,the contribution from the center-ofmass motion is treated in a microscopic way [39].The systematic behavior of the center-of-mass correction on nuclear masses is shown inFig.1.From this graph,we can seethat it is essential to choose a proper method to treatthe center-of-mass motion for both light and heavy nuclei.Obviously,the microscopic method provides more reasonable and reliable results for the center-of-mass motion (for the details,see Sec. III). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In section II, we willpresent a short summary of RMF theory with the nonlinear self-coupling of meson fields and with DD meson-nucleon coupling and the relationship between them. The details of our parametrizations are given in section III. In section IVand V,we study the bulk properties of nuclear matter and spherical nuclei with the newly obtained efective interactions.The detailed microscopic structure of doubly magic nuclei is also investigated in the end of section V. Finally conclusions are given in section VI. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II.RMF THEORY WITH NONLINEAR SELF-COUPLING AND DENSITY-DEPENDENT MESON-NUCLEON COUPLING ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The basic ansatz of the RMF theory [16]is a Lagrangian density whereby nucleons are described as Dirac particles which interact via the exchange of various mesons and the photon.The mesons considered are the scalar sigma (o)，vector omega ( $\\omega$ ）and iso-vector vector rho $( \\vec { \\rho } )$ . The latter provides the necessary isospin asymmetry. The Lagrangian then consists of the freebaryon and meson parts and the interaction part with minimal coupling, together with the nucleon mass $M$ and $m _ { \\sigma }$ $( g _ { \\sigma } )$ ， $m _ { \\omega } \\ \\left( g _ { \\omega } \\right)$ and $m _ { \\rho }$ ( $g _ { \\rho }$ ） the masses (coupling constants） of the respective mesons: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathcal { L } = \\bar { \\psi } \\left[ i \\gamma ^ { \\mu } \\partial _ { \\mu } - M - g _ { \\sigma } \\sigma - g _ { \\omega } \\gamma ^ { \\mu } \\omega _ { \\mu } - g _ { \\rho } \\gamma ^ { \\mu } \\vec { \\tau } \\cdot \\vec { \\rho } _ { \\mu } - e \\gamma ^ { \\mu } \\frac { 1 - \\tau _ { 3 } } { 2 } A _ { \\mu } \\right] \\psi } } } \\\\ { { \\displaystyle ~ + \\frac { 1 } { 2 } \\partial ^ { \\mu } \\sigma \\partial _ { \\mu } \\sigma - \\frac { 1 } { 2 } m _ { \\sigma } ^ { 2 } \\sigma ^ { 2 } - \\frac { 1 } { 3 } g _ { 2 } \\sigma ^ { 3 } - \\frac { 1 } { 4 } g _ { 3 } \\sigma ^ { 4 } - \\frac { 1 } { 4 } \\omega ^ { \\mu \\nu } \\omega _ { \\mu \\nu } + \\frac { 1 } { 2 } m _ { \\omega } ^ { 2 } \\omega ^ { \\mu } \\omega _ { \\mu } + \\frac { 1 } { 4 } c _ { 3 } \\left( \\omega ^ { \\mu } \\omega _ { \\mu } \\right) ^ { 2 } } }  \\\\ { { \\displaystyle ~ - \\frac { 1 } { 4 } \\vec { \\rho } ^ { \\mu \\nu } \\cdot \\vec { \\rho } _ { \\mu \\nu } + \\frac { 1 } { 2 } m _ { \\rho } ^ { 2 } \\vec { \\rho } ^ { \\mu } \\cdot \\vec { \\rho } _ { \\mu } + \\frac { 1 } { 4 } d _ { 3 } \\left( \\vec { \\rho } ^ { \\mu } \\cdot \\vec { \\rho } _ { \\mu } \\right) ^ { 2 } - \\frac { 1 } { 4 } A ^ { \\mu \\nu } A _ { \\mu \\nu } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the tensor quantities are ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { \\omega ^ { \\mu \\nu } ~ = ~ \\partial ^ { \\mu } \\omega ^ { \\nu } - \\partial ^ { \\nu } \\omega ^ { \\mu } } } \\\\ { { } } & { { } } & { { \\vec { \\rho } ^ { \\mu \\nu } ~ = ~ \\partial ^ { \\mu } \\vec { \\rho } ^ { \\nu } - \\partial ^ { \\nu } \\vec { \\rho } ^ { \\mu } + g _ { \\rho } \\vec { \\rho } ^ { \\mu } \\times \\vec { \\rho } ^ { \\nu } } } \\\\ { { } } & { { } } & { { A ^ { \\mu \\nu } ~ = ~ \\partial ^ { \\mu } A ^ { \\nu } - \\partial ^ { \\nu } A ^ { \\mu } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper we use arrow for isospin vectors and bold type for space vectors,respectively. There are 11 parameters in the Lagrangian density (1), i.e., 4 masses $( M , m _ { \\sigma } , m _ { \\omega } , m _ { \\rho } )$ ， 3 nucleon-meson coupling constants $( g _ { \\sigma } , g _ { \\omega } , g _ { \\rho } )$ ， and 4 self-coupling constants $( g _ { 2 } , g _ { 3 } , c _ { 3 } , d _ { 3 } )$ . Generally, the nucleon mass $M$ and $\\rho$ -meson mass $m _ { \\rho }$ （ also sometimes the mass of $\\omega$ -meson in some parameterizations ）are fixed to their free values and the nonlinear coupling coefficients $c _ { 3 }$ and $d _ { 3 }$ are taken as zeros. Then the remaining 6\\~7 parameters are determined by the fitting to the experimental observables. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Diffrent from the nonlinear self-coupling version,the meson-nucleon interactions are described as densitydependent in the DD meson-nucleon coupling RMF theory [23, 24]. The meson-nucleon coupling constants $g _ { \\sigma } , g _ { \\omega } , g _ { \\rho }$ become functions of the baryonic density $\\rho _ { v }$ ， $\\rho _ { v } = \\sqrt { j _ { \\mu } j ^ { \\mu } }$ where $j ^ { \\mu } = \\bar { \\psi } \\gamma ^ { \\mu } \\psi$ and the nonlinear self-coupling constants $g _ { 2 } , g _ { 3 } , c _ { 3 } , d _ { 3 }$ are set to zero in the Lagrangian density (1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For $\\sigma$ and $\\omega$ -meson, the baryonic density-dependence of the coupling constants is adopted as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { i } ( \\rho _ { v } ) = g _ { i } ( \\rho _ { \\mathrm { s a t . } } ) f _ { i } ( x ) \\qquad { \\mathrm { ~ f o r ~ } } i = \\sigma , \\omega\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i } ( x ) = a _ { i } \\frac { 1 + b _ { i } ( x + d _ { i } ) ^ { 2 } } { 1 + c _ { i } ( x + d _ { i } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "is a function of $x = \\rho _ { v } / \\rho _ { \\mathrm { s a t . } }$ and $\\rho _ { \\mathrm { s a t } }$ . denotes the baryonic saturation density of nuclear matter For the $\\rho$ meson,an exponential dependence is utilized as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { \\rho } = g _ { \\rho } ( \\rho _ { \\mathrm { s a t . } } ) \\exp [ - a _ { \\rho } ( x - 1 ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the functions $f _ { i } ( x )$ ，one has five constraint conditions $f _ { i } ( 1 ) = 1 , f _ { \\sigma } ^ { \\prime \\prime } ( 1 ) = f _ { \\omega } ^ { \\prime \\prime } ( 1 )$ and $f _ { i } ^ { \\prime \\prime } ( 0 ) = 0$ .Then 8 parameters related to density dependence for $\\sigma$ -N and $\\omega$ -N couplings are reduced to 3 free parameters. As mentioned above, the masses of nucleon and $\\rho$ -meson are fixed in general and the nonlinear self-coupling constants $g _ { 2 } , g _ { 3 } , c _ { 3 }$ and $d _ { 3 }$ are set to zero. With 4 free parameters for density dependence, there totally are 8\\~9 parameters left free in the Lagrangian density (1) for the density-dependent meson-nucleon coupling RMF theory. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The single-nucleon Dirac equation is derived by the variation of the Lagrangian density(1) with respect to $\\psi$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ i \\gamma ^ { \\mu } \\partial _ { \\mu } - \\left( M + \\Sigma _ { S } \\right) - \\gamma ^ { \\mu } \\Sigma _ { \\mu } \\right] \\psi = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with the nucleon self-energies $\\Sigma _ { \\mu }$ and $\\Sigma _ { S }$ defined by the following relations: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\Sigma _ { S } ~ = ~ g _ { \\sigma } \\sigma } } \\\\ { { { \\nonumber } } } \\\\ { { \\Sigma _ { \\mu } ~ = ~ g _ { \\omega } \\omega _ { \\mu } + g _ { \\rho } \\vec { \\tau } \\cdot \\vec { \\rho } _ { \\mu } + e \\frac { 1 - \\tau _ { 3 } } { 2 } A _ { \\mu } + \\Sigma _ { \\mu } ^ { R } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the rearrangement term $\\Sigma _ { \\mu } ^ { R }$ comes from the density-dependence of the meson-nucleon coupling constants, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Sigma _ { R } ^ { \\mu } = \\frac { j ^ { \\mu } } { \\rho _ { v } } \\left( \\frac { \\partial g _ { \\omega } } { \\partial \\rho _ { v } } \\hat { \\psi } \\gamma ^ { \\nu } \\psi \\omega _ { \\nu } + \\frac { \\partial g _ { \\rho } } { \\partial \\rho _ { v } } \\hat { \\psi } \\gamma ^ { \\nu } \\Vec { \\tau } \\psi \\cdot \\Vec { \\rho } _ { \\nu } + \\frac { \\partial g _ { \\sigma } } { \\partial \\rho _ { v } } \\hat { \\psi } \\psi \\sigma \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "which is reduced to zero in RMF theory with the nonlinear self-coupling ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Klein-Gordon equations for mesons are obtained by the variation of the Lagrangian density (1) with respect o the corresponding meson field operators ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\left[ - \\Delta + m _ { \\sigma } \\right] \\sigma ~ = ~ - g _ { \\sigma } \\rho _ { s } - g _ { 2 } \\sigma ^ { 2 } - g _ { 3 } \\sigma ^ { 3 } } } \\\\ { { \\left[ - \\Delta + m _ { \\omega } \\right] \\omega ~ = ~ g _ { \\omega } \\rho _ { b } - c _ { 3 } \\omega ^ { 3 } } } \\\\ { { \\left[ - \\Delta + m _ { \\rho } \\right] \\rho ~ = ~ g _ { \\rho } \\left[ \\rho _ { b } ^ { ( n ) } - \\rho _ { b } ^ { ( p ) } \\right] - d _ { 3 } \\rho ^ { 3 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the RMF theory with the nonlinear self-coupling,the self-coupling of mesons can be expressed into the density. dependence of meson-nucleon coupling by redefining the coupling constants, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { g _ { \\sigma } } } & { { = } } & { { g _ { \\sigma } + \\left[ g _ { 2 } \\sigma ^ { 2 } + g _ { 3 } \\sigma ^ { 3 } \\right] / \\rho _ { s } } } \\\\ { { } } & { { } } & { { } } \\\\ { { g _ { \\omega } } } & { { = } } & { { g _ { \\omega } - c _ { 3 } \\omega ^ { 3 } / \\rho _ { b } } } \\\\ { { } } & { { } } & { { g _ { \\rho } = \\left. g _ { \\rho } - d _ { 3 } \\rho ^ { 3 } / \\left[ \\rho _ { b } ^ { n } - \\rho _ { b } ^ { p } \\right] \\right. } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The behaviors of the coupling constants with respect to the baryonic density are shown in Fig. 2. In order to compare with the experimental mass of a nucleus, the calculated nuclear mass ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM = M _ { \\mathrm { { r m f } } } + E _ { \\mathrm { { c . m . } } } + E _ { \\mathrm { { p a i r } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "is obtained from the mean feld contribution by adding corrections due to the center-of-mass motion and pairing effects for open shell nuclei. The mean field contribution $M _ { \\mathrm { r m f } }$ is derived from a spatial integration of the ${ \\ \" } 0 0 { \\ : }$ 2 component of the energy-momentum tensor. In the nonlinear (N.L.) self-coupling case, it reads ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle M _ { \\mathrm { r m f } } ^ { \\mathrm { N . L . } } = \\sum _ { a = 1 } ^ { A } \\varepsilon _ { a } \\left. \\bar { \\phi } _ { a } \\gamma ^ { 0 } \\phi _ { a } \\right. + \\int _ { V } d ^ { 3 } r \\left\\{ - \\frac 1 2 g \\sigma \\sigma \\rho _ { s } - \\frac 1 6 g 2 \\sigma ^ { 3 } - \\frac 1 4 g _ { 3 } \\sigma ^ { 4 } \\right\\} } \\ ~ } \\\\ { { \\displaystyle ~ + \\int _ { V } d ^ { 3 } r \\left\\{ - \\frac 1 2 g \\omega \\omega \\rho _ { b } + \\frac 1 4 c _ { 3 } \\omega ^ { 4 } - \\frac 1 2 g \\rho \\rho \\rho _ { b } ^ { ( 3 ) } + \\frac 1 4 d _ { 3 } \\rho ^ { 4 } - \\frac 1 2 e A _ { 0 } \\rho _ { b } ^ { p } \\right\\} } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\phi _ { a }$ denotes the single-particle spinor in the nucleus. In the density-dependent (D.D.)case,the high-order( $\\geq 3$ terms of mesons in (12) are replaced by a \"rearrangement” term, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal M } _ { \\mathrm { r m f } } ^ { \\mathrm { D . D . } } = \\sum _ { a = 1 } ^ { A } \\varepsilon _ { a } \\left. \\bar { \\phi } _ { a } \\gamma ^ { 0 } \\phi _ { a } \\right. + \\int _ { V } d ^ { 3 } r \\left\\{ - \\frac { 1 } { 2 } g _ { \\sigma } \\sigma \\rho _ { s } - \\frac { 1 } { 2 } g _ { \\omega } \\omega \\rho _ { b } - \\frac { 1 } { 2 } g _ { \\rho } \\rho \\rho _ { b } ^ { ( 3 ) } - \\frac { 1 } { 2 } e A _ { 0 } \\rho _ { b } ^ { p } - \\Sigma _ { R } \\rho _ { b } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Sigma _ { R } = \\frac { 1 } { \\rho _ { \\mathrm { s a t . } } } \\left[ g _ { \\omega } ( \\rho _ { \\mathrm { s a t . } } ) f _ { \\omega } ^ { \\prime } ( x ) \\rho _ { 0 } \\omega - a _ { \\rho } g _ { \\rho } ( \\rho _ { \\mathrm { s a t . } } ) e ^ { - a _ { \\rho } ( x - 1 ) } \\rho _ { 0 } ^ { ( 3 ) } \\rho _ { 3 } + g _ { \\sigma } ( \\rho _ { \\mathrm { s a t . } } ) f _ { \\sigma } ^ { \\prime } ( x ) \\rho _ { s } \\sigma \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "is the time-component of $\\Sigma _ { R } ^ { \\mu }$ (see (8)). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The correction from the center-of-mass motion is calculated from the projection-after-variation in first-order approximation [39]: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { c . m . } } ^ { \\mathrm { m i c . } } = - { \\frac { 1 } { 2 M A } } \\left. \\mathbf { P } _ { \\mathrm { c . m . } } ^ { 2 } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the center-of-mass momentum $\\begin{array} { r } { \\mathbf { P } _ { \\mathrm { c . m . } } = \\sum _ { i } ^ { A } \\mathbf { p } _ { i } } \\end{array}$ and the expectation value of its square $\\left. \\hat { \\mathbf { P } } _ { \\mathrm { c . m . } } ^ { 2 } \\right.$ reads ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. \\mathbf { P } _ { \\mathrm { c . m . } } ^ { 2 } \\right. = \\sum _ { a } v _ { a } ^ { 2 } p _ { a a } ^ { 2 } - \\sum _ { a , b } v _ { a } ^ { 2 } v _ { b } ^ { 2 } \\mathbf { p } _ { a b } \\cdot \\mathbf { p } _ { a b } ^ { * } + \\sum _ { a , b } v _ { a } u _ { a } v _ { b } u _ { b } \\mathbf { p } _ { a b } \\cdot \\mathbf { p } _ { \\bar { a } \\bar { b } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with occupation probabilities $v _ { a } ^ { 2 }$ and $u _ { a } ^ { 2 } = 1 - v _ { a } ^ { 2 }$ accounting for pairing effects, where $a , b$ denote the BCS states (see below). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The contribution from the pairing correlations $E _ { \\mathrm { p a i r } }$ are treated in the BCS approximation ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { p a i r } } = - \\Delta \\sum _ { a } v _ { a } u _ { a }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with the pairing gap $\\Delta$ taken from the calculation of relativistic continuum Hartree-Bogoliubov (RCHB） theory with zero-range pairing interaction [25]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the nuclear radi,the effects from the center-of-mass motion are also taken into account as follows.Because of its fairly small effects,a rather rough correction is adopted for protons ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta R _ { p } ^ { 2 } = - \\frac { 2 } { Z } \\sum _ { a } ^ { A } \\left. \\phi _ { a } \\right| { \\bf R } _ { \\mathrm { c . m . } } \\cdot \\sum _ { i } ^ { Z } { \\bf r } _ { i } \\left| \\phi _ { a } \\right. + \\sum _ { a } ^ { A } \\left. \\phi _ { a } \\right| { \\bf R } _ { \\mathrm { c . m . } } ^ { 2 } \\left| \\phi _ { a } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the center-of-mass coordinate $\\mathbf { R } _ { \\mathrm { c . m . } } = 1 / A \\sum _ { i } ^ { A } \\mathbf { r } _ { i }$ . Then we get ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta R _ { p } ^ { 2 } = - \\frac { 2 } { A } R _ { p } ^ { 2 } + \\frac { 1 } { A } R _ { M } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { p }$ and $R _ { M }$ denote the proton and matter radii. Here we only consider the direct-term contributions in (18)to keep with the spirit of RMF theory.For the neutron radi,we use the same procedure as for protons.The chargeradius is obtainedfrom the proton radius combining with the proton and neutron size and the center-of-mass correction (19） is included in $R _ { p } ^ { 2 }$ [20] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { c h } } ^ { 2 } = R _ { p } ^ { 2 } + ( 0 . 8 6 2 \\ \\mathrm { f m } ) ^ { 2 } - ( 0 . 3 3 6 \\ \\mathrm { f m } ) ^ { 2 } N / Z\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The aim of the present investigation is to provide new improved efective interactions for the Lagrangian density (1）with the nonlinear self-coupling and density-dependent meson-nucleon coupling in RMF theory.A multiparameter fiting was performed with the Levenberg-Marquardt method [40].Two nonlinear self-coupling effective interactions have been obtained,PK1 with $\\sigma$ -and $\\omega$ -meson self-coupling,and PK1R with $\\sigma$ ， $\\omega$ - and $\\rho$ -meson selfcoupling (see Table I).A density-dependent meson-nucleon coupling effctive interaction has also been obtained with PKDD (see Table Iand II). In our parametrization,the mases of neutronand proton are fixed to their free values: $M _ { n } = 9 3 9 . 5 7 3 1 ~ \\mathrm { M e V } , M _ { p } = 9 3 8 . 2 7 9 6 ~ \\mathrm { M e V }$ /,and the mass of $\\rho$ -meson is fixed to its experimental value 763.0 MeV. The mass of $\\omega$ -meson is slightly adjusted in obtaining the effctive interactions PK1 and PK1R while fixed to 783.0 MeV for the effective interaction PKDD. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The masses of the spherical nuclei $^ { 1 6 }$ 0, $^ { 4 0 }$ Ca, $^ { 4 8 }$ Ca, $^ { 5 6 }$ Ni, $^ { 6 8 }$ Ni, $^ { 9 0 } \\mathrm { Z r }$ ， $^ { 1 1 6 }$ Sn, $^ { 1 3 2 }$ Sn, $^ { 1 9 4 }$ Pb and $^ { 2 0 8 }$ Pb are fitted to give the effective interactions PK1,PK1R and PKDD.The experimental inputs for finite nuclei used in the fiting procedure are shown in Table II. These inputs have been used to minimize the least square error: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ^ { 2 } ( \\pmb { a } ) = \\sum _ { i = 1 } ^ { N } \\left[ \\frac { y _ { i } ^ { e x p } - y ( x _ { i } ; \\pmb { a } ) } { \\sigma _ { i } } \\right] ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\textbf { \\em a }$ is the ensemble of parameters to be fitted, $y _ { i } ^ { e x p }$ and $\\sigma _ { i }$ are the experimental observable and corresponding weight. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the fitting procedure,only the mases of the spherical nuclei mentioned above and the compression modulus $K$ ， the baryonic density at saturation $\\rho _ { \\mathrm { s a t } }$ . and the asymmetry energy $J$ of nuclear matter are included. Here, we should mention that the radiiare excluded because we found that the values of the compresson modulus and baryonic saturation density are essential to give a good description of the masss and radii.For a fixed value of compression modulus,a large baryonic saturation density will give a smallcharge radius.By this way， we can choose the appropriate value for these two quantities to give a proper description for both massand charge radiusof the chosen nuclei.To give a fairly precise description on the masses,the center-of-masscorrection is essential for both light and heavy nuclei.As it can be seen inFig.1,the deviation between the microscopic and phenomenological results is considerably large notonly for the light nuclei but also for the heavyones.We also find that there exist very remarkable shelleffcts in the microscopic results which are impossble to obtain with the phenomenological methods.Hence,we choose the microscopic center-of-mass correction [39] to deal with the center-of-mass motion. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The numerical procedure in obtaining the parameter set PK1 is as follows. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.First,we start from an initial effective interaction and fx the mass of $\\omega$ -meson,let the other parameters to be adjusted by the Levenberg-Marquardt method [40].   \n2.Basing on the binding energies and charge radii of the selected nuclei obtained in the first step，we do some adjustment on the expectation of compresion modulus and baryonic saturation density to improve the description on the spherical nuclei.Also,the weights of the observables would be slightly adjusted to improve the parametrization.   \n3. Choose another initial efective interaction and take the same procedure asin step 2. Then,taking the average of these two obtained interactions as the new initial efective interaction,we do the minimizing procedure under the new weights which come from the previous results.   \n4.Introduce the adjustment on the mass of $\\omega$ -meson to obtain the effective interaction PK1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because the contribution to the nuclear mass from the nonlinear $\\rho$ -meson term is fairly small, we fix the nonlinear self-coupling constant $d _ { 3 }$ to $3 5 0 . 0$ and adjust other parameters to obtain the effective interaction PK1R. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To obtain the density-dependent meson-nucleon coupling efective interaction PKDD,we leave the densitydependent parameters $\\boldsymbol { a } _ { \\sigma } , d _ { \\sigma }$ and $d _ { \\omega }$ to be adjusted and the five others to be determined by the constrain conditions on the functions $f _ { i } ( x ) , i = \\sigma , \\omega$ . The mass of $\\omega$ -meson is fixed to 783.0MeV. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus obtained parameter sets are shown in Table Iand IIin comparison with other effective interactions TM1 [20], NL3[38],TW99 [23]and DD-ME1[24]. In Table IIIand IV we respectively list the masses and charge radiiof finite nuclei which have been used in obtaining these seven efective interactions.Compared with other ffective interactions,our newly obtained ones reproduce wellthe experimental masses [41].For these new efective interactions,only 4\\~5 nuclear massed deviate by more than 1MeV (see Table II).The new efective interactions PK1, PK1R and PKDDalso well describe the charge radiifor these nuclei, especiall forPb isotopes.One can get a clear idea about the improvement of the new parameter sets on the description of bulk properties for finite nuclei from the root of relative square (rrs) deviation $\\delta$ . In the last row of Table III (IV),the rrs deviation of the calculated totalbinding energy (chargeradius)from the data is given.For the total binding energy,the rrs deviations from the new parameter sets are much smaller than those from old ones.For the charge radius,the rrs deviations from the new interactions are comparable with those from NL3 and DD-ME1,but a bit smaler than those from TM and TW99. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table V lists the nuclear mater quantities calculated with the newlyobtained efective interactions PK1,PK1R and PKDD,in comparison with other interactions.All the new effctive interactions give proper value of the compression modulus $K$ . Compared with the nonlinear self-coupling effective interactions TM1 [20] and NL3 [38], the new ones give more reasonable baryonic saturation density. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IV.DESCRIPTIONOFNUCLEARMATTER ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We first discuss properties of nuclear matter obtained with PK1, PK1R and PKDD.In Table V we compare the bulk properties of nuclear matter with the results calculated using TM1,NL3,TW99 and DD-ME1. In Fig. 3, the behavior of the binding energy per particle $E / A$ as a function of the baryonic density $\\rho$ is shown. We can see that all density-dependent meson-nucleon coupling efective interactions give softer results than the nonlinear self-coupling ones.Thebehaviors predictedbyPK1,PK1Rare much softerthan byNL3andalitle harder than by TM1. The results from PKDD are slightly softer than that from DD-ME1 and much harder than that from TW99 at high density.All these behaviors can be explained in the density-dependent meson-nucleon coupling framework. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As we have mentioned in expresions (10),the meson-nucleon coupling constants in the nonlinear self-coupling of mesons can beexpressed as some kind of density-dependence.Fig.2 shows this density-dependence for the nonlinear self-coupling efective interactionsand the results forthe density-dependent version are also given for comparison.We can see that almost allthe density-dependent coupling constants decrease with increasing density except for $g _ { \\sigma }$ of NL3, which has a strong $\\sigma$ self-coupling( $g _ { 3 } = - 2 8 . 8 8 5 1$ ). On the other hand, the coupling constants $g _ { \\sigma }$ and $g _ { \\omega }$ of TM1, which has relatively weak $\\sigma$ self-coupling ( $g _ { 3 } = 0 . 6 1 8 3$ )and strong $\\omega$ self-coupling ( $c _ { 3 } = 7 1 . 3 0 7 5$ ) are smaller than the others,which means that TM1 provides relatively weaker scalar and vector potentials.This is the reason why TM1 presents the softer behavior than other nonlinear self-coupling efective interactions.In Fig. 3, TW99 predicts the softest results because of its relatively small $g _ { \\omega }$ as compared with DD-ME1, PKDD and NL3, large $g _ { \\sigma }$ as compared with PK1, PK1R and TM1 in Fig. 2. As we know,the repulsive potential would be dominant at high density. In Fig. 3, NL3 gives the hardest results because of its constant and large $g _ { \\omega }$ even though its $\\sigma$ -N coupling constant $g _ { \\sigma }$ increase with the density. For the new parameter sets PK1, PK1R and PKDD,which present the mid soft behaviors in Fig.3,thecoupling constants also lie between the largest and the smallst in Fig. 2. For the parameter set PK1R, the density-dependence of the $g _ { \\rho }$ is fairly weak as compared with that of the density-dependent meson-nucleon coupling efective interactions.It can be explained by a very weak $\\rho$ -field,which generate neutron-proton symmetry field.The behavior of $g _ { \\rho }$ with respect to the neutron-proton ratio is shown in Fig.4.As one can expect, the behavior is symmetric with respect to $\\ln ( N / Z )$ and the density-dependence becomes more remarkable with the increase of the baryonic density and the neutron-proton asymmetry. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "V.DESCRIPTION OFSPHERICAL NUCLEI ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A. Binding Energy and Two-neutron Separation Energy ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We calculate the even-even nuclei of Pb and Sn isotopic chains with the newly obtained parameter sets.In Table VI, wecompare the masss calculated with PK1,PK1R,and PKDD with the other efective interactions and with experimental values [41].Shown inFig.5are the deviations of the masses of Pb isotopes from the data[41]. The results for Sn isotopes are shown in Fig.6.In Fig.5andFig.6we also give the results obtained with TM1, NL3,TW99 and DD-ME1 for comparison. Allresults are calculated using the RCHB theory[25] where the pairing correlations are treated self-consistently by a zero-range $\\delta$ -force. The box radius is 2O fm and the pairing strength of the zero-range $\\delta$ -force is -650 MeV. The microscopic center-of-mass corrections (15) and (16) are used in all the calculations. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As we can seein Table VI,Fig. 5and Fig.6,the newly obtained effective interactions PK1, PK1R and PKDD provide good descriptions on the masses of both two isotopic chains.In Fig.5,all the efective interactions overestimate the binding energy in the beginning of the isotopic chain. However, from $^ { 1 9 0 }$ Pb to $^ { 2 1 0 }$ Pb, the newly obtained interactions give better descriptions than all the others.For the Sn isotopes,the density-dependent efective interaction DD-ME1 reproduces thedatavery wellsince 4Sn isotopes were used in its parametrization [24]. From $^ { 1 1 6 }$ Sn to $^ { 1 3 2 }$ Sn, the new effctive interactions PK1, PK1R and PKDD slightly underestimate the binding energy (less than 1 MeV).Compared with the others,the new ones stillprovide better deseription.There exist however systematic deviations out of the neutron magic numbers, e.g., in $^ { 1 3 4 }$ Sn and $^ { 2 1 4 }$ Pb. For the older effective interactions, the deviations in $^ { 2 1 4 }$ Pb are smaller but fairly large in $^ { 2 0 8 }$ Pb. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From the binding energies we can extract the systematics in two-neutron separation energies $S _ { 2 n } = E _ { B } ( N , Z ) -$ $E _ { B } ( N - 2 , Z )$ . Figs.7-9 exhibit two-neutron separation energies predicted by the nonlinear self-coupling effective interactions PK1,PK1R and the density-dependent meson-nucleon coupling one PKDD.In comparison,the results obtained with TM1,NL3,TW99 and DD-ME1 and the experimental values extracted from Ref.[41] are also given. In Fig.10,the systematic behaviors of two-neutron separation energies with respect to neutron number,predicted by the new efective interactions PK1 and PKDD,are shown. From these figures one can see that the newly obtained interactions give a fairly good description on the systematic behaviors in two-neutron separation energies. In Fig.8,wecansee thatthe deviations of theoreticalresultsfrom experiment areratherlargefor Ni isotopes with $N = 3 0 – 4 2$ and for Sn isotopes with $N = 5 2 – 5 8$ . Here it should be mentioned that all the theoretical results are extracted from the calculation of the spherical RCHB calculations [25] where deformation efects arenot included while they can play a significant role in these nuclei. Furthermore,in Fig.10 we can see some unusual phenomena along the neutron drip line which will be discussed in the next section. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From the plots for two-neutron separation energies (Figs.7-10),the position of the neutron-drip line for each element seems to be determined delicately.For the new effective interaction PK1,it predicts the neutron-drip number $N = 5 0$ for Ca,70 for Ni, 96 for $\\operatorname { Z r }$ and 126 for Sn. In general, the density-dependent meson-nucleon coupling efective interaction PKDD predicts smaler neutron number of the neutron-drip nucleus except for Ni. This maybedueto its fairly smalleffective mass (see Table V),which reduces thestrong atractive potential in the coreand makes the coupling between the core and valence orbital weaker.As forthe density-dependent ffective interactions,TW99 predicts smaler neutron numbers of neutron-drip nucleus for Ca,Ni and Zr while DD-ME1 gives smaller ones for Ca and Sn.Another reason for the deviations among the effective interactions is that the density-dependent effective interactions give relatively large $\\rho$ -N coupling at lower densities (see Fig. 2). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "B. Charge Radius and Isotope Shift in Pb isotopes ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Although the radiiare not included in our ftting procedure,the newly obtained efective interactions reproduce the charge radiiof stable nuclei fairly wel (see Table IV).The comparison between experimental data [42,43]and theoreticalresults for thecharge radii (20)ofPbisotopes areshown in Table VII. Wecan see that the new effective interactions PK1,PK1R and PKDD reproduce beter the experimental values,as compared to overestimations by TM1,NL3 and DD-ME1 and underestimations by TW99.We also calculate the isotope-shift of charge radi for Pb isotopes with these efective interactions. The results are shown in Fig. 11. The kink around $^ { 2 0 8 }$ Pb iswell reproduced byallthe interactions.The insetofFig.11 shows that the density-dependent meson-nucleon coupling efective interactions represent more reasonable agreement with the experimental values than the nonlinear selfcoupling ones. The new parameter sets PK1 and PK1R give slightly better results than TM1 and NL3. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Besides the charge radi, we have also used the new efective interactions to investigate the systematic behavior of the neutron skin (the diference between neutron and proton radii) along the isotope chains: O,Ca,Ni, Zr, Sn and Pb. Fig. 12 shows the radii difference $\\boldsymbol { r } _ { n } - \\boldsymbol { r } _ { p }$ calculated with the new sets PK1 and PKDD. As we have seen in Fig.10,thereare several weakly-bound nuclei near the neutron drip lineof Ca,Ni, Zr and Sn, whose two-neutron separation energies stay around zero overarange of numbers.This is in generala kindof signal for the existence of a neutron skin or halo. However from Fig.12 one can see that the difference $\\boldsymbol { r } _ { n } - \\boldsymbol { r } _ { p }$ tends to be a constant near the drip line for the Ni and Sn isotopes thus indicating a neutron skin rather than a neutron halo.On the other hand,the results support the existence of a neutron halo in Ca isotopes [44] and a giant neutron halo in $\\mathrm { Z r }$ isotopes [8] because their neutron distributions tend to be more dispersive and $\\boldsymbol { r } _ { n } - \\boldsymbol { r } _ { p }$ keeps increasing rapidly. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "C. Single-Particle Energy and Spin-orbit Splitting ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The RMFtheory isa microscopic theory with a limited number of parameters. It can give the detailed microscopic structureof nuclei.Figs.13to16 show the single-particleenergies of the doubly magic nuclei calculated with the newly obtained parameter sets PK1,PK1R and PKDD.In Figs.13 and 14 the results obtained with TM1,NL3, TW99 and DD-ME1 are also given for comparison.As we know,it is not straightforward to compare with the experimental results away from Fermi energies because of dynamical coupling not included in RMF.Here,the experimental values are extracted from one-nucleon separation energies [41] and resonance energies [45].In these plots,we find systematic agreements with the experimental results.The single-particle energies near the magic numbersagree wellwith theexperimental values.Forlevels far away from the Fermi energies systematic deviations appear.The states below the Fermi energy seems to be too strongly bound, whereas the states above the Fermi energy show underbinding as compared to the experimental values.In fact,the experimental resonances are not simply singleparticle states.Thecoupling with core excitations throughtheresidualinteraction,which is obviously not included in the mean feld model,leads in general toa shiftof the resonance energies in the direction to the Fermi energy.In these plotsof single-particleenergies,theordering of levels is welldescribed by the new ffective interactions except for somewhat different ordering of neutron levels in $^ { 1 3 2 }$ Sn and $^ { 2 0 8 }$ Pb,a common feature of all the effective interactions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From the single-particle energies mentioned above,we can extract the spin-orbit splitings.Table VII shows the spin-orbit spliting calculated with the newly obtained efective interactions in the doubly magic nuclei.The experimental valuesand the results calculated with other interactions arealso given for comparison in Table VII. The new effective interactions reproduce well the spin-orbit splitings.For the density-dependent meson-nucleon coupling effctive interaction PKDD,the spin-orbit spliting turns out to be larger than the experimental values (except for the neutron 2p in $^ { 4 8 }$ Ca and the neutron 3p in $^ { 2 0 8 }$ Pb). The nonlinear self-coupling effective interactions PK1 and PK1R predict smaler spliting and improve the agreement with the experiment.The behavior can be explained by the relatively large self-energies predicted in our parametrization,which determine the strength of spin-orbit spliting.As shown in Table V,the nonlinear self-coupling effctive interactions predict a larger efective massthan the density-dependent meson-nucleon coupling ones: the smaller the efective mass,the larger the spin-orbit splitting.This is also the reason why TM1 gives the smallst splitting and TW99 the largest. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "VI. SUMMARY ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this work,we have searched for new effective interactions to describe both stable and unstable nuclei in the relativistic mean field (RMF） theory with nonlinear self-coupling or density-dependent meson-nucleon coupling. In order to give a more precise description on the mass of nuclei,the microscopic center-of-masscorrection is introduced,which makes it possible to givea unifed description with one efective interaction for the nuclei from the light area to heavyarea.As an elicitation from the density-dependent meson-nucleon coupling RMF theory,we introduce the nonlinear self-coupling for $\\rho$ -field.We obtain three new effective interactions:PK1 with nonlinear self-coupling of $\\sigma$ -fieldand $\\omega$ -field,PK1R with nonlinear self-coupling of $\\sigma$ -field, $\\omega$ -field and $\\rho$ -fieldandPKDDwith density-dependent meson-nucleon coupling. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "With the newly obtained parameter sets，we investigate the behavior of the binding energy per particle and the meson-nucleon coupling constants with respect to the baryonic density in nuclear matter. The new sets PK1, PK1R and PKDD provide an appropriate description. Compared with TM1 and NL3, the new ones give a more reasonable baryonic saturation density. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We then calculated the usual reference nuclei and Pb,Sn isotope chains and compared the masses with the availabledata.Thenonlinear self-coupling efective interactions PK1,PK1Randdensity-dependent meson-nucleon coupling efective interaction PKDD reproduce wellte data.As compared with other existing efective interactions, the new ones also provide a good description of the charge radi of the usual stable nuclei and Pb isotopes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We have also studied the systematics of two-neutron separation energies and neutron skin in isotopic chains.The two-neutron separation energies provided by the new interactions PK1,PK1R and PKDD are in good agreement with the experiment.We have also investigated the behavior of two-neutron separation energies and neutron skin near the neutron-drip line and given a reasonable interpretation of the formation of neutron halos. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The single-particle energies and spin-orbit splittings in doubly magic nuclei predicted by the new parameter sets are compared with the experimental values and with other effctive interactions.The new effective interactions PK1, PK1R and PKDD give a reasonable description of spin-orbit splitings and single-particle energies as compared with the experimentalresults.The systematic behaviorof the spin-orbit spliting is interpreted in comparison with other effective interactions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Combining with the above information, we come to a conclusion that the new parameter sets PK1, PK1R and PKDD give better description for finite nuclei than other effective interactions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work is partly supported by the Major State Basic Research Development Program Under Contract Number G2000077407 and the National Natural Science Foundation of China under Grant No.10025522,10047001, 10221003 and 19935030. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]I.Tanihata,Prog.Part.Nucl.Phys.35,505 (1995).   \n[2]A.Mueller,Prog.Part.Nucl.Phys.46,359 (2001).   \n[3] I.Tanihata,H.Hamagaki,O.Hashimoto,Y.Shida,N.Yoshikawa,K.Sugimoto,O.Yamakawa,T.Kobayashi,and N. Takahashi, Phys.Rev.Lett. 55 (1985).   \n[4] I.Tanihata,T.Kobayashi,O.Yamakawa,S.Shimoura,K.Ekuni,K.Sugimoto,N.Takahashi,T.Shimoda,and H.Sato, Phys.Lett.B 206,592 (1988).   \n[5] R.E.Warner,J.H.Kelly,P.Zecher,F.D.Becceti,J.A.Brown,C.L.Carpenter,A.Galonsky,J.Kruse,A.Muthukrishnan,A.Nadasen,et al.,Phys.Rev.C 52,R1166(1995).   \n[6] L.Chulkov,G.Kraus,O.Bochkarev,P.Egelhof,H. Geisel,M. Golovkov,H.Inich,and Z.Janas,Nucl.Phys.A 603, 219 (1996).   \n[7] J.Meng and P. Ring,Phys.Rev. Lett.77,3963 (1996). [8] J.Meng and P. Ring,Phys. Rev.Lett.80, 460 (1998).   \n[9] J.Meng,I. Tanihata,and S. Yamaji, Phys. Lett.B 419,1 (1998).   \n[10] J.Meng, S. Zhou,and I. Tanihata,Phys.Lett.B 532,209 (2002).   \n[11]T.Kobayashi,S.himoura,I.Tanihata,K.Katori,K.Matsuta,T.Minamisono,K.Sugimoto,W.Mler,D.L.Olson, T.J.M. Symons,et al., Phys.Lett.B 232,51 (1989).   \n[12] T.Kobayashi, Nucl. Phys.A 538,343c (1992).   \n[13] T.Alm, G.opke,W. Bauer,F. Daffn,and M. Schmidt, Nucl. Phys. A 587,815 (1995).   \n[14]A.Yoshida,N.Aoi,T.Fukuda,M.Hirai,M.Ishihara,H.Kobinata,Y.Mizoi,L.Mueler,Y.Nagashima,J.Nakano, et al.,Nucl.Phys.A 588,109c (1995).   \n[15]J.Walecka,Ann. Phys.(N.Y.) 83,491 (1974).   \n[16] B. Serot and J.D.Walecka,Adv. Nucl. Phys.16,1 (1986).   \n[17] P.-G. Reinhard, Reports on Progress in Physics 52, 439 (1989).   \n[18] P. Ring,Prog. Part. Nucl. Phys.37,193 (1996).   \n[19]J.Boguta and A.Bodmer,Nucl.Phys.A 292,413 (1977).   \n[20] Y. Sugahara and H. Toki, Nucl. Phys. A 579, 557 (1994).   \n[21] H.Lenske and C. Fuchs,Phys.Lett.B 345,355 (1995).   \n[22] C.Fuchs,H. Lenske,and H. H. Wolter,Phys.Rev.C 52,3043 (1995).   \n[23] S. Typel and H. H. Wolter,Nucl. Phys.A 656,331 (1999).   \n[24] T.Niksic,D.Vretenar,P.Finelli,and P.Ring,Phys.Rev.C 66,024306 (2002).   \n[25] J. Meng, Nucl. Phys.A 635,3 (1998).   \n[26]J.Ginocchio,Phys.Rev.Lett.78,436(1997).   \n[27] J. Meng, K. Sugawara-Tanabe, S. Yamaji, P.Ring,and A. Arima, Phys. Rev. C 58,R628 (1998).   \n[28] J.Meng,K. Sugawara-Tanabe, S. Yamaji,and A.Arima,Phys. Rev.C 59,154 (1999).   \n[29] H.Madokoro, J. Meng,M. Matsuzaki,and S.Yamaji, Phys.Rev. C 62,06i301 (2000).   \n[30]Z.-Y.Ma,A. Wandelt,N.V. Giai,D. Vretenar,P.Ring,and L.-G.Cao,Nucl.Phys.A 703,222 (2002).   \n[31] J. Konig and P. Ring,Phys. Rev. Lett.71,3079 (1993).   \n32] A. Afanasjev, J. Konig, and P. Ring, Nucl. Phys. A 608,107 (1996).   \n[33] A.Afanasjev,J.Konig,and P. Ring,Phys.Lett.B 367,11 (1996).   \n[34] J. Konig and P. Ring, preprint Technical University Munich pp.- (1996).   \n35] P.Reinhard,M.Rufa,J.Maruhn,W.Greiner,and J.Friedrich, Z.Phys.A 323,13 (1986).   \n[36] P.-G. Reinhard, Z. Phys. A 329,257 (1988).   \n37] M.Sharma,M. Nagarajan,and P. Ring,Phys.Lett.B 312,377(1993).   \n[38] G.A.Lalazissis and P. Ring, Phys.Rev.C 55, 540 (1997).   \n[39] M.Bender,K.Rutz,P.-G.Reinhard,and J.A. Maruhn, Eur.Phys. J.A 7,467 (2000).   \n[40] W.H.Press,S.A.Teukolsky,W.T.Veterling,andB.P.FlanneryNumerical Recipes in Fortran77(Press Syndicate of the University of Cambridge,London,1992).   \n[41]G.Audi and A.Wapstra,Nucl.Phys.A 595,409 (1995).   \n[42]G.Fricke,C.Berhardt,K.Heilig,L.Schaler,S.Schellengerg,E.Shera,andC.W.Dejager,At.Data Nucl.Data Tables 60,177 (1995).   \n[43] S.Dutta,R.Kirchner,O.Klepper,T.Kuhl,D.Marx,G.Sprouse,R.Menges,U.Dinger,G.Huber,and S.Schroder, Z. Phys.A 341,39 (1991).   \n[44] J.Meng,H. Toki, J. Zeng, S. Zhang,and S. Zhou,Phys.Rev.C 65,041302(2002).   \n[45] NUDAT database, National Nuclear Data Center (http://www.nndc.bnl.gov/nndc/nudat/). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/33285aa62c37c805557e4edaa31d7ed49de87a4d1e2d5fc2f4d1837db9276c49.jpg",
+        "table_caption": [
+            "TABLEI: The nonlinear effective interactions PK1,PK1Randdensity-dependent efective interactions PKDD.The masse (in MeV)and meson-nucleon couplings are shown incomparison with TM1[20],NL3[38]andTW99[23]and DD-ME1[24 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>PK1</td><td>PK1R</td><td>PKDD</td><td>TM1</td><td>NL3</td><td>TW99</td><td>DD-ME1</td></tr><tr><td>Mn</td><td>939.5731</td><td>939.5731</td><td>939.5731</td><td>938</td><td>939</td><td>939</td><td>938.5000</td></tr><tr><td>Mp</td><td>938.2796</td><td>938.2796</td><td>938.2796</td><td>938</td><td>939</td><td>939</td><td>938.5000</td></tr><tr><td>mg</td><td>514.0891</td><td>514.0873</td><td>555.5112</td><td>511.198</td><td>508.1941</td><td>550</td><td>549.5255</td></tr><tr><td>mw</td><td>784.254</td><td>784.2223</td><td>783</td><td>783</td><td>782.501</td><td>783</td><td>783.0000</td></tr><tr><td>mp</td><td>763</td><td>763</td><td>763</td><td>770</td><td>763</td><td>763</td><td>763.0000</td></tr><tr><td>gg</td><td>10.3222</td><td>10.3219</td><td>10.7385</td><td>10.0289</td><td>10.2169</td><td>10.7285</td><td>10.4434</td></tr><tr><td>gw</td><td>13.0131</td><td>13.0134</td><td>13.1476</td><td>12.6139</td><td>12.8675</td><td>13.2902</td><td>12.8939</td></tr><tr><td>gp</td><td>4.5297</td><td>4.55</td><td>4.2998</td><td>4.6322</td><td>4.4744</td><td>3.661</td><td>3.8053</td></tr><tr><td>92</td><td>-8.1688</td><td>-8.1562</td><td>0</td><td>-7.2325</td><td>-10.4307</td><td>0</td><td>0.0000</td></tr><tr><td>93</td><td>-9.9976</td><td>-10.1984</td><td>0</td><td>0.6183</td><td>-28.8851</td><td>0</td><td>0.0000</td></tr><tr><td>C3</td><td>55.636</td><td>54.4459</td><td>0</td><td>71.3075</td><td>0</td><td>0</td><td>0.0000</td></tr><tr><td>d3</td><td>0</td><td>350</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1a395b623fd19469ff5eba1bfd00224fb0826420ccdf99fe7bb48ab358aae34.jpg",
+        "table_caption": [
+            "TABLEI: Density-Dependent parameters of PKDD for meson-nucleon coupling in comparison with TW99 [23]and DD ME1 [24] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>ag</td><td>bg</td><td>Cg</td><td>dg</td><td>aw</td><td>bw</td><td>Cw</td><td>dw</td><td>ap</td></tr><tr><td>PKDD</td><td>1.327423</td><td>0.435126</td><td>0.691666</td><td>0.694210</td><td>1.342170</td><td>0.371167</td><td>0.611397</td><td>0.738376</td><td>0.183305</td></tr><tr><td>TW99</td><td>1.365469</td><td>0.226061</td><td>0.409704</td><td>0.901995</td><td>1.402488</td><td>0.172577</td><td>0.344293</td><td>0.983955</td><td>0.515000</td></tr><tr><td>DD-ME1</td><td>1.3854</td><td>0.9781</td><td>1.5342</td><td>0.4661</td><td>1.3879</td><td>0.8525</td><td>1.3566</td><td>0.4957</td><td>0.5008</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2bb0205d6025cbfbe7e8224e4360b8f47b0b95926788db967422ffa56922a44.jpg",
+        "table_caption": [
+            "TABLE I: Total binding energies (in MeV)calculated with thenonlinearefective interactions PK1,PK1Rand densitydependent meson-nucleon coupling efectiveinteractionPKDDareshown in comparison with thoseof TM1[20],NL3[38] ，TW99[23],DD-ME1[24]and experimental data [41].Thebold-faced quantities denote the observables used in the parametrizations. "
+        ],
+        "table_footnote": [
+            "aThe total square deviation from the experimental values $\\begin{array} { r } { \\Delta ^ { 2 } = \\sum _ { i } \\left( E _ { i } ^ { \\mathrm { e x p . } } - E _ { i } ^ { \\mathrm { c a l . } } \\right) ^ { 2 } } \\end{array}$ bThe relative square deviation $\\begin{array} { r } { \\delta ^ { 2 } = \\sum _ { i } \\left( E _ { i } ^ { \\mathrm { e x p . } } - E _ { i } ^ { \\mathrm { c a l . } } \\right) ^ { 2 } / E _ { i } ^ { \\mathrm { e x p . } } } \\end{array}$ 2 "
+        ],
+        "table_body": "<html><body><table><tr><td>Nucleus</td><td>Exp.</td><td>PK1</td><td>PK1R</td><td>PKDD</td><td>TM1</td><td>NL3</td><td>TW99</td><td>DD-ME1</td></tr><tr><td>160</td><td>-127.619</td><td>-128.094</td><td>-128.047</td><td>-127.808</td><td>-128.951</td><td>-127.127</td><td>-128.147</td><td>-127.926</td></tr><tr><td>240</td><td>-168.500</td><td>-169.558</td><td>-169.381</td><td>-168.542</td><td>-168.858</td><td>-170.116</td><td>-167.693</td><td>-167.949</td></tr><tr><td>40Ca</td><td>-342.052</td><td>-342.773</td><td>-342.741</td><td>-342.579</td><td>-344.661</td><td>-341.709</td><td>-343.352</td><td>-343.653</td></tr><tr><td>48Ca</td><td>-415.991</td><td>-416.077</td><td>-415.974</td><td>-415.944</td><td>-415.668</td><td>-415.377</td><td>-416.888</td><td>-415.012</td></tr><tr><td>56Ni</td><td>-483.998</td><td>-483.956</td><td>-484.031</td><td>-484.479</td><td>-480.620</td><td>-483.599</td><td>-487.096</td><td>-480.869</td></tr><tr><td>58Ni</td><td>-506.454</td><td>-504.033</td><td>-504.091</td><td>-504.013</td><td>-501.933</td><td>-503.395</td><td>-506.128</td><td>-501.312</td></tr><tr><td>68Ni</td><td>-590.430</td><td>-591.685</td><td>-591.559</td><td>-591.241</td><td>-591.845</td><td>-591.456</td><td>-592.676</td><td>-592.253</td></tr><tr><td>90Zr</td><td>-783.893</td><td>-784.781</td><td>-784.788</td><td>-784.879</td><td>-785.281</td><td>-783.859</td><td>-786.625</td><td>-784.206</td></tr><tr><td>112Sn</td><td>-953.529</td><td>-954.210</td><td>-954.251</td><td>-953.730</td><td>-955.925</td><td>-952.562</td><td>-954.991</td><td>-952.468</td></tr><tr><td>116Sn</td><td>-988.681</td><td>-988.491</td><td>-988.460</td><td>-988.066</td><td>-990.083</td><td>-987.699</td><td>-989.842</td><td>-988.470</td></tr><tr><td>124Sn</td><td>-1049.963</td><td>-1049.162</td><td>-1048.948</td><td>-1048.113</td><td>-1049.832</td><td>-1049.884</td><td>-1051.033</td><td>-1049.880</td></tr><tr><td>132Sn</td><td>-1102.920</td><td>-1103.503</td><td>-1103.053</td><td>-1102.648</td><td>-1102.163</td><td>-1105.459</td><td>-1108.363</td><td>-1103.857</td></tr><tr><td>184Pb</td><td>-1431.960</td><td>-1435.548</td><td>-1435.706</td><td>-1435.477</td><td>-1439.768</td><td>-1434.569</td><td>-1436.761</td><td>-1434.569</td></tr><tr><td>194Pb</td><td>-1525.930</td><td>-1525.536</td><td>-1525.494</td><td>-1525.474</td><td>-1528.378</td><td>-1525.733</td><td>-1529.309</td><td>-1524.937</td></tr><tr><td>196Pb</td><td>-1543.250</td><td>-1542.592</td><td>-1542.502</td><td>-1542.545</td><td>-1545.163</td><td>-1543.085</td><td>-1547.012</td><td>-1542.262</td></tr><tr><td>204Pb</td><td>-1607.520</td><td>-1607.851</td><td>-1607.545</td><td>-1607.770</td><td>-1609.477</td><td>-1609.906</td><td>-1608.246</td><td>-1609.676</td></tr><tr><td>208Pb</td><td>-1636.446</td><td>-1637.443</td><td>-1637.024</td><td>-1637.387</td><td>-1638.777</td><td>-1640.584</td><td>−1644.790</td><td>-1641.415</td></tr><tr><td>214Pb</td><td>-1663.298</td><td>-1659.382</td><td>-1658.718</td><td>-1656.084</td><td>-1663.706</td><td>-1662.551</td><td>-1656.086</td><td>-1662.011</td></tr><tr><td>210Po</td><td>-1645.228</td><td>-1648.443</td><td>-1648.102</td><td>-1648.039</td><td>-1650.819</td><td>-1650.755</td><td>-1654.271</td><td>-1651.482</td></tr><tr><td></td><td></td><td>7.1980</td><td>7.4207</td><td>9.2744</td><td>12.8135</td><td>9.1140</td><td>17.6762</td><td>11.1580</td></tr><tr><td>8</td><td></td><td>0.0102</td><td>0.0094</td><td>0.0080</td><td>0.0192</td><td>0.0135</td><td>0.0159</td><td>0.0152</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/30de460826512e89e6a3e6633a9aabdae01b902ea1fa8fa730577b85ab4e8da4.jpg",
+        "table_caption": [
+            "TABLEIV:Chargeradii(in fm）calculated with thenonlinearefective interactionsPK1,PK1Randdensity-dependent meson-nucleoncoupling effctive interactionPKDDareshown incomparison withthoseofTM1[20],NL3[38],TW99 [23], DD-ME1 [24] and experimental data [42]. "
+        ],
+        "table_footnote": [
+            "aThe total square deviation from the experimental values △² = ∑i (rexp: - rcal.)2 bThe relative square deviation $\\begin{array} { r } { \\delta ^ { 2 } = \\sum _ { i } \\left( r _ { i } ^ { \\mathrm { e x p . } } - r _ { i } ^ { \\mathrm { c a l . } } \\right) ^ { 2 } / r _ { i } ^ { \\mathrm { e x p . } } } \\end{array}$ 2 "
+        ],
+        "table_body": "<html><body><table><tr><td>Nucleus</td><td>Exp.</td><td>PK1</td><td>PK1R</td><td>PKDD</td><td>TM1</td><td>NL3</td><td>TW99</td><td>DD-ME1</td></tr><tr><td>160</td><td>2.693</td><td>2.6957</td><td>2.6959</td><td>2.6988</td><td>2.7026</td><td>2.7251</td><td>2.6799</td><td>2.7268</td></tr><tr><td>240</td><td></td><td>2.8106</td><td>2.8108</td><td>2.8184</td><td>2.8364</td><td>2.8286</td><td>2.8049</td><td>2.8543</td></tr><tr><td>40Ca</td><td>3.478</td><td>3.4433</td><td>3.4435</td><td>3.4418</td><td>3.4541</td><td>3.4679</td><td>3.4151</td><td>3.4622</td></tr><tr><td>48Ca</td><td>3.479</td><td>3.4675</td><td>3.4675</td><td>3.4716</td><td>3.4911</td><td>3.4846</td><td>3.4510</td><td>3.4946</td></tr><tr><td>56Ni</td><td></td><td>3.7085</td><td>3.7084</td><td>3.7162</td><td>3.7471</td><td>3.7122</td><td>3.6867</td><td>3.7315</td></tr><tr><td>58Ni</td><td>3.776</td><td>3.7383</td><td>3.7381</td><td>3.7442</td><td>3.7755</td><td>3.7435</td><td>3.7158</td><td>3.7613</td></tr><tr><td>68Ni</td><td></td><td>3.8621</td><td>3.8620</td><td>3.8681</td><td>3.8901</td><td>3.8773</td><td>3.8491</td><td>3.8926</td></tr><tr><td>90Zr</td><td>4.270</td><td>4.2522</td><td>4.2521</td><td>4.2534</td><td>4.2799</td><td>4.2689</td><td>4.2278</td><td>4.2725</td></tr><tr><td>112Sn</td><td>4.593</td><td>4.5704</td><td>4.5701</td><td>4.5722</td><td>4.6021</td><td>4.5861</td><td>4.5461</td><td>4.5901</td></tr><tr><td>116Sn</td><td>4.625</td><td>4.5984</td><td>4.5981</td><td>4.6004</td><td>4.6303</td><td>4.6149</td><td>4.5758</td><td>4.6212</td></tr><tr><td>124Sn</td><td>4.677</td><td>4.6536</td><td>4.6533</td><td>4.6567</td><td>4.6874</td><td>4.6685</td><td>4.6331</td><td>4.6781</td></tr><tr><td>132Sn</td><td></td><td>4.7064</td><td>4.7061</td><td>4.7102</td><td>4.7442</td><td>4.7183</td><td>4.6842</td><td>4.7270</td></tr><tr><td>184Pb</td><td></td><td>5.3806</td><td>5.3801</td><td>5.3807</td><td>5.4156</td><td>5.3996</td><td>5.3511</td><td>5.4002</td></tr><tr><td>194Pb</td><td>5.442</td><td>5.4327</td><td>5.4322</td><td>5.4329</td><td>5.4712</td><td>5.4506</td><td>5.4017</td><td>5.4539</td></tr><tr><td>196Pb</td><td>5.449</td><td>5.4438</td><td>5.4433</td><td>5.4440</td><td>5.4826</td><td>5.4614</td><td>5.4123</td><td>5.4645</td></tr><tr><td>204Pb</td><td>5.482</td><td>5.4869</td><td>5.4864</td><td>5.4877</td><td>5.5261</td><td>5.5027</td><td>5.4837</td><td>5.5038</td></tr><tr><td>208Pb</td><td>5.504</td><td>5.5048</td><td>5.5043</td><td>5.5053</td><td>5.5444</td><td>5.5204</td><td>5.4750</td><td>5.5224</td></tr><tr><td>214Pb</td><td>5.559</td><td>5.5658</td><td>5.5653</td><td>5.5635</td><td>5.6052</td><td>5.5820</td><td>5.5603</td><td>5.5779</td></tr><tr><td>210Po</td><td></td><td>5.5370</td><td>5.5365</td><td>5.5371</td><td>5.5762</td><td>5.5539</td><td>5.5070</td><td>5.5544</td></tr><tr><td></td><td></td><td>0.0708</td><td>0.0712</td><td>0.0655</td><td>0.0941</td><td>0.0625</td><td>0.1436</td><td>0.0588</td></tr><tr><td></td><td></td><td>0.0178</td><td>0.0179</td><td>0.0166</td><td>0.0185</td><td>0.0169</td><td>0.0346</td><td>0.0163</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a33abcdafe33564622b787a18230171808e6e60cc140bd460b95ef27e77bc65.jpg",
+        "table_caption": [
+            "TABLE V:Nuclear mater properties calculated with the nonlinear efective interactionsPK1,PK1Rand the density dependent effctive interactions PKDDare shownincomparison with TM1[20],NL3[38],TW99 [23],DD-ME1[24]. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Interaction</td><td>psat.(fm-3)</td><td>Eb [MeV]</td><td>K [MeV]</td><td>J [MeV]</td><td>M*/M(n)</td><td>M*/M(p)</td></tr><tr><td>PK1</td><td>0.148195</td><td>-16.268</td><td>282.644</td><td>37.641</td><td>0.605525</td><td>0.604981</td></tr><tr><td>PK1R</td><td>0.148196</td><td>-16.274</td><td>283.674</td><td>37.831</td><td>0.605164</td><td>0.604620</td></tr><tr><td>PKDD</td><td>0.149552</td><td>-16.267</td><td>262.181</td><td>36.790</td><td>0.571156</td><td>0.570565</td></tr><tr><td>NL3</td><td>0.145115</td><td>-16.005</td><td>267.998</td><td>36.558</td><td>0.603761</td><td>0.603761</td></tr><tr><td>TM1</td><td>0.145218</td><td>-16.263</td><td>281.161</td><td>36.892</td><td>0.634395</td><td>0.634395</td></tr><tr><td>TW99</td><td>0.153004</td><td>-16.247</td><td>240.276</td><td>32.767</td><td>0.554913</td><td>0.554913</td></tr><tr><td>DD-ME1</td><td>0.151962</td><td>-16.201</td><td>244.719</td><td>33.065</td><td>0.577960</td><td>0.577960</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/8239601b61c4ef82dce79d2ea7a377dd74d3bf3d74cfaee7be25248afb870d46.jpg",
+        "table_caption": [
+            "TABLEVI:TotalbindingenergiesofPbisotopes (in MeV）calculated with thenonlinearself-coupling efective interactions PK1,PK1Randthedensity-dependent meson-nucleoncoupling efective interaction PKDD,incomparison withthe experimental values [41] and the results of TM1,NL3,TW99 and DD-ME1. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>A</td><td>Exp.</td><td>PK1</td><td>PK1R</td><td>PKDD</td><td>TM1</td><td>NL3</td><td>TW99</td><td>DD-ME1</td></tr><tr><td>182</td><td>-1411.650</td><td>−1416.431</td><td>-1416.619</td><td>-1416.309</td><td>-1420.872</td><td>-1415.184</td><td>−1417.202</td><td>-1415.216</td></tr><tr><td>184</td><td>-1431.960</td><td>-1435.548</td><td>-1435.706</td><td>-1435.477</td><td>-1439.768</td><td>-1434.569</td><td>-1436.761</td><td>−1434.569</td></tr><tr><td>186</td><td>-1451.700</td><td>-1454.258</td><td>-1454.382</td><td>−1454.192</td><td>-1458.222</td><td>-1453.511</td><td>-1455.879</td><td>-1453.306</td></tr><tr><td>188</td><td>-1470.900</td><td>-1472.586</td><td>-1472.673</td><td>-1472.504</td><td>-1476.272</td><td>-1472.056</td><td>−1474.640</td><td>-1471.639</td></tr><tr><td>190</td><td>-1489.720</td><td>-1490.555</td><td>-1490.603</td><td>-1490.468</td><td>-1493.958</td><td>-1490.247</td><td>-1493.109</td><td>-1489.657</td></tr><tr><td>192</td><td>-1508.120</td><td>-1508.197</td><td>-1508.201</td><td>-1508.116</td><td>-1511.317</td><td>-1508.130</td><td>-1511.329</td><td>-1507.411</td></tr><tr><td>194</td><td>-1525.930</td><td>-1525.536</td><td>-1525.494</td><td>-1525.474</td><td>-1528.378</td><td>-1525.733</td><td>-1529.309</td><td>-1524.937</td></tr><tr><td>196</td><td>-1543.250</td><td>-1542.592</td><td>-1542.502</td><td>-1542.545</td><td>-1545.163</td><td>-1543.085</td><td>-1547.012</td><td>-1542.262</td></tr><tr><td>198</td><td>-1560.070</td><td>-1559.378</td><td>-1559.236</td><td>-1559.329</td><td>-1561.685</td><td>-1560.199</td><td>-1564.338</td><td>-1559.403</td></tr><tr><td>200</td><td>-1576.365</td><td>-1575.893</td><td>-1575.697</td><td>-1575.831</td><td>-1577.942</td><td>-1577.076</td><td>-1581.344</td><td>-1576.365</td></tr><tr><td>202</td><td>-1592.202</td><td>-1592.095</td><td>-1591.843</td><td>-1592.022</td><td>-1593.905</td><td>-1593.679</td><td>-1598.084</td><td>-1593.133</td></tr><tr><td>204</td><td>-1607.520</td><td>-1607.851</td><td>-1607.545</td><td>-1607.770</td><td>-1609.477</td><td>-1609.906</td><td>-1614.197</td><td>-1609.676</td></tr><tr><td>206</td><td>-1622.340</td><td>-1623.126</td><td>-1622.765</td><td>-1623.167</td><td>-1624.530</td><td>-1625.725</td><td>-1630.122</td><td>-1625.966</td></tr><tr><td>208</td><td>-1636.446</td><td>-1637.443</td><td>-1637.024</td><td>-1637.387</td><td>-1638.777</td><td>-1640.584</td><td>−1644.790</td><td>-1641.415</td></tr><tr><td>210</td><td>-1645.568</td><td>−1644.844</td><td>-1644.345</td><td>-1643.643</td><td>-1647.245</td><td>-1647.969</td><td>-1650.888</td><td>-1648.312</td></tr><tr><td>212</td><td>-1654.524</td><td>-1652.155</td><td>-1651.573</td><td>-1649.873</td><td>-1655.549</td><td>-1655.289</td><td>-1657.020</td><td>-1655.174</td></tr><tr><td>214</td><td>-1663.298</td><td>-1659.382</td><td>-1658.718</td><td>-1656.084</td><td>-1663.706</td><td>-1662.551</td><td>-1663.196</td><td>-1662.011</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/32f45e1e3d05b1959e38ba07772d93a4c8e09fa058d8a587122b87be5e035d2c.jpg",
+        "table_caption": [
+            "TABLEVI: Charge radiiofPbisotopes (infm),calculated withthe nonlinear efective interactions PK1,PK1Rand the density-dependentmeson-nucleoncoupling efective interactionPKDD,incomparisonwiththoseofTM1,NL3,TW99 DD-ME1 and experimental values [42, 43]. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>A</td><td>Exp.</td><td>PK1</td><td>PK1R</td><td>PKDD</td><td>TM1</td><td>NL3</td><td>TW99</td><td>DD-ME1</td></tr><tr><td>190</td><td>5.4273</td><td>5.4112</td><td>5.4107</td><td>5.4115</td><td>5.4486</td><td>5.4295</td><td>5.3814</td><td>5.4325</td></tr><tr><td>192</td><td>5.4347</td><td>5.4219</td><td>5.4214</td><td>5.4221</td><td>5.4599</td><td>5.4400</td><td>5.3915</td><td>5.4433</td></tr><tr><td>194</td><td>5.4416</td><td>5.4327</td><td>5.4322</td><td>5.4329</td><td>5.4712</td><td>5.4506</td><td>5.4017</td><td>5.4539</td></tr><tr><td>196</td><td>5.4487</td><td>5.4438</td><td>5.4433</td><td>5.4440</td><td>5.4826</td><td>5.4614</td><td>5.4123</td><td>5.4645</td></tr><tr><td>198</td><td>5.4564</td><td>5.4551</td><td>5.4546</td><td>5.4555</td><td>5.4940</td><td>5.4722</td><td>5.4241</td><td>5.4748</td></tr><tr><td>200</td><td>5.4649</td><td>5.4664</td><td>5.4659</td><td>5.4673</td><td>5.5052</td><td>5.4830</td><td>5.4366</td><td>5.4850</td></tr><tr><td>202</td><td>5.4741</td><td>5.4773</td><td>5.4768</td><td>5.4786</td><td>5.5161</td><td>5.4934</td><td>5.4493</td><td>5.4947</td></tr><tr><td>204</td><td>5.4820</td><td>5.4869</td><td>5.4864</td><td>5.4877</td><td>5.5261</td><td>5.5027</td><td>5.4571</td><td>5.5038</td></tr><tr><td>206</td><td>5.4930</td><td>5.4954</td><td>5.4949</td><td>5.4960</td><td>5.5352</td><td>5.5109</td><td>5.4653</td><td>5.5125</td></tr><tr><td>208</td><td>5.5040</td><td>5.5048</td><td>5.5043</td><td>5.5053</td><td>5.5444</td><td>5.5204</td><td>5.4750</td><td>5.5224</td></tr><tr><td>210</td><td>5.5231</td><td>5.5252</td><td>5.5247</td><td>5.5247</td><td>5.5645</td><td>5.5411</td><td>5.4935</td><td>5.5409</td></tr><tr><td>212</td><td>5.5415</td><td>5.5455</td><td>5.5450</td><td>5.5441</td><td>5.5846</td><td>5.5616</td><td>5.5122</td><td>5.5594</td></tr><tr><td>214</td><td>5.5591</td><td>5.5658</td><td>5.5653</td><td>5.5635</td><td>5.6052</td><td>5.5820</td><td>5.5310</td><td>5.5779</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/69abe8a1151e2c955ea914e5410815b9386499b80da89bcb6b81f8ee4c34c06c.jpg",
+        "table_caption": [
+            "TABLEVII:Thetheoretical(calculatedwiththenonlinearfectiveinteractionsPK1,PK1R,TM1[20],NL338adthe density-dependent ones PKDD,TW99 [23],DD-ME1[24])and experimental spin-orbit splitings (in MeV)of neutron (v) and proton $( \\pi )$ levels in doubly magic nuclei. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Nucleus</td><td>State</td><td>PK1</td><td>PK1R</td><td>PKDD</td><td>Exp.</td><td>TM1</td><td>NL3</td><td>TW99</td><td>DD-ME1</td></tr><tr><td rowspan=\"2\">160</td><td>vlp</td><td>6.550</td><td>6.550</td><td>6.950</td><td>6.180</td><td>5.660</td><td>6.480</td><td>7.480</td><td>6.320</td></tr><tr><td>π1p</td><td>6.490</td><td>6.500</td><td>6.900</td><td>6.320</td><td>5.610</td><td>6.400</td><td>7.410</td><td>6.250</td></tr><tr><td rowspan=\"2\">48Ca</td><td>vlf</td><td>7.411</td><td>7.417</td><td>8.028</td><td>8.380</td><td>6.486</td><td>7.493</td><td>8.687</td><td>7.498</td></tr><tr><td>v2p</td><td>1.238</td><td>1.237</td><td>1.459</td><td>2.020</td><td>1.142</td><td>1.330</td><td>1.567</td><td>1.458</td></tr><tr><td rowspan=\"2\">56Ni</td><td>vlf</td><td>8.223</td><td>8.231</td><td>8.670</td><td>7.160</td><td>6.907</td><td>8.703</td><td>9.274</td><td>8.067</td></tr><tr><td>v2p</td><td>1.141</td><td>1.142</td><td>1.442</td><td>1.110</td><td>1.105</td><td>1.112</td><td>1.573</td><td>1.388</td></tr><tr><td rowspan=\"3\">132Sn</td><td>v2d</td><td>1.659</td><td>1.662</td><td>1.990</td><td>1.650</td><td>1.515</td><td>1.661</td><td>2.257</td><td>1.940</td></tr><tr><td>π1g</td><td>5.900</td><td>5.910</td><td>6.450</td><td>6.080</td><td>5.010</td><td>6.152</td><td>7.108</td><td>6.210</td></tr><tr><td>π2d</td><td>1.704</td><td>1.706</td><td>2.005</td><td>1.750</td><td>1.556</td><td>1.690</td><td>2.203</td><td>1.893</td></tr><tr><td rowspan=\"5\">208Pb</td><td>v2f</td><td>2.005</td><td>2.008</td><td>2.356</td><td>1.770</td><td>1.812</td><td>2.011</td><td>2.648</td><td>2.268</td></tr><tr><td>vli</td><td>6.492</td><td>6.503</td><td>7.126</td><td>5.840</td><td>5.634</td><td>6.665</td><td>7.761</td><td>6.748</td></tr><tr><td>v3p</td><td>0.742</td><td>0.742</td><td>0.879</td><td>0.900</td><td>0.657</td><td>0.764</td><td>0.992</td><td>0.866</td></tr><tr><td>π2d</td><td>1.626</td><td>1.622</td><td>1.832</td><td>1.330</td><td>1.436</td><td>1.628</td><td>2.031</td><td>1.736</td></tr><tr><td>π1h</td><td>5.448</td><td>5.458</td><td>5.976</td><td>5.560</td><td>4.653</td><td>5.661</td><td>6.576</td><td>5.749</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcd503ac4fffcc28feed66261a3a7d4b0a37445132fb439e0f3631defd1de143.jpg",
+        "img_caption": [
+            "FIG.1:The microscopic center-of-mass correction,in comparison with two phenomenological cases. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/0879cb6e4b5e74368c73f8795668866de7e6d1a65facb55bd1b2aa161046ccf2.jpg",
+        "img_caption": [
+            "FIG.2:The meson-nucleon coupling constants asafunctionofbaryonicdensityin nuclear mater.The density-dependence of $g _ { \\rho }$ for PK1R corresponds to non-symmetric nuclear matter ( $\\mathrm { N } / \\mathrm { Z } = 3$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/3df5a2363687d744d535fc4300c3c1d0666ebaad3e91e9f92e877919a3264eef.jpg",
+        "img_caption": [
+            "FIG. 3: The binding energy per particle $E / A$ in nuclear matter as function of the baryonic density $\\rho$ , calculated with the density-dependent meson-nucleoncoupling efective interactions PKDD,TW99,DD-ME1andthenonlinearefective inter actions PK1,PK1R,TM1,NL3.Theshadedareaindicates theempirical valueandthefiledcirclesrepresentcoesponding saturation points. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9559b4689878eef87b66fa5b266e18bef768dc60f27bd87caaef0c74db46951.jpg",
+        "img_caption": [
+            "FIG. 4: The density-dependence of $g _ { \\rho }$ for PK1R with respect to the neutron-proton ratio N/Z. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c3f46c3fb24d5e701a76097cd70b5079dc922cb24137c177b3f31cc2b6cb2cc.jpg",
+        "img_caption": [
+            "FIG.5:Thedeviationof the theoreticalbindingenergiesofPbisotopes,calculated withthenonlinear efective interactions PK1,PK1Randdensity-dependent meson-nucleoncoupling efective interactions PKDD from theexperimental values[41]. The results calculated in TM1,NL3 and TW99,DD-ME1 are shown for comparison. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/31f695c4897fe269e8eed08e331df73876e1fcb4ed3a41f9491a1a78369a9587.jpg",
+        "img_caption": [
+            "FIG.6:Same as Fig. 5,for Sn isotopes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b28f51dfd9747880b3a3f42fb73a041683c1430cebe339ce0814bc537ebd1c3.jpg",
+        "img_caption": [
+            "FIG.7:The two-neutron separationenergies inOand Caisotopes calculated with the nonlinear efective interactions PK1 PK1Rand thedensity-dependentmeson-ucleonefectiveinteractionPKDD,incomparisonwiththoseof TM1,NL3,TW99 and DD-ME1 and the experimental data[41]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7f30f21eb14a1361cf5549bcfb6dc917ff29f3f09f75dd9aae98b502d35a324.jpg",
+        "img_caption": [
+            "FIG.8: Same as Fig. 7, for Ni and $\\mathrm { Z r }$ isotopes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/93e2028fb1e371c872b4c8a9524e9db69495374e3e40360aec76bf224304b030.jpg",
+        "img_caption": [
+            "FIG.9: Same as Fig. 7, for Sn and Pb isotopes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/1351f3cfe6696ff98febc6a4a4693bb0e1cbeee70e8d09f7db8b8d4b08df3d34.jpg",
+        "img_caption": [
+            "FIG.10:The two-neutronseparation energies calculatedwith the nonlinear efective interaction PK1 and the density dependent meson-nucleon coupling one PKDD,as a function of the neutron number. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ca805bd3547e8ad2124f1738cc6ea65fb17cadece2c52e782aa0df7a81f60b1.jpg",
+        "img_caption": [
+            "FIG.11:The isotope shiftsof thechargeradius inPbisotopes (infm2),calculated withthe nonlinear fective interactions PK1,PK1Rand the density-dependent meson-nucleoncoupling efective interaction PKDD,incomparison with thoseof TM1, NL3, TW99, DD-ME1 and experimental values, where $\\Delta r _ { c } ^ { 2 } = r _ { c } ^ { 2 } ( A ) - r _ { c } ^ { 2 } ( 2 0 8 )$ and $\\Delta r _ { L D } ^ { 2 } = r _ { L D } ^ { 2 } ( A ) - r _ { L D } ^ { 2 } ( 2 0 8 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8f220476efd9f7a82c0c6f55d2bf6c7d6d7793f905a7ca27159187f0846c619.jpg",
+        "img_caption": [
+            "FIG.12:The radius difference $r _ { n } \\mathrm { ~ - ~ } r _ { p }$ calculated with the nonlinear effective interaction PK1 and density-dependent meson-nucleon coupling one PKDD,with respect to the neutron number. "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/534d7f5cda9824c0f7a003879f8c76c984f0340639d5f0262b00ead51693a848.jpg",
+        "img_caption": [
+            "FIG.13: The single-particle energies in $^ { 2 0 8 } \\mathrm { { P b } }$ ,calculated with PK1, PK1R and PKDD, in comparison with the results of TM1,NL3,TW99,DD-ME1 and experimental values. "
+        ],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/274a58ae3580d2b160198860a143ea2b993dbe98587d03ff1f38b537fe0a1596.jpg",
+        "img_caption": [
+            "FIG.14: Same as Fig. 13, for $^ { 1 3 2 } \\mathrm { S n }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/3908fe0c36fe0191e58e24e9d3a263b96cc5a7d5b849850f374468ff9a2abb81.jpg",
+        "img_caption": [
+            "FIG.15: The single-particle energies in $^ { 4 8 } \\mathrm { C a }$ and $^ { 5 6 } \\mathrm { { N i } }$ ， calculated with PK1,PK1R and PKDD,in comparison with experimental values. "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/39f93a7cf22f246e05be1d07b3e1bbdaa4d2726792af1dc3a9bad7b75d00800f.jpg",
+        "img_caption": [
+            "FIG.16: Same as Fig.15, for $^ { 1 6 } \\mathrm { O }$ and $^ { 4 0 } \\mathrm { C a }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    }
+]

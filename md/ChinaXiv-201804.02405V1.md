@@ -1,0 +1,270 @@
+# 基于组合赋权VIKOR方法的网络节点重要性评价
+
+刘欣1，徐桂琼1，杨平乐1,2
+
+(1．上海大学 管理学院，上海 200444;2.江苏科技大学 电气与信息工程学院，江苏 张家港 215600)
+
+摘要：复杂网络重要节点的识别是网络可靠性分析的重要组成部分，在实际应用中具有重要意义。针对节点重要性受多个因素的影响，将多属性决策理论中的VIKOR方法拓展应用到复杂网络的关键节点识别。基于AHP和 TOPSIS方法，从主客观两个维度综合考虑评价指标的权重，给出一个优化的组合赋权策略，进而提出网络节点重要性评价的组合赋权VIKOR(combination weightingVIKOR，CW-VIKOR）方法。在四个不同类型的实际网络中进行了仿真实验，结果表明，CW-VIKOR 方法可以有效识别网络中的重要节点，在节点传播影响力和网络效率上均表现出更好的性能。关键词：复杂网络；节点重要性；组合赋权VIKOR方法；SIR模型  
+中图分类号：O157.5doi:10.3969/j.issn.1001-3695.2018.01.0079
+
+# Node importance evaluating of network based on combination weighting VIKOR method
+
+Liu Xin1, Xu Guiqiong1, Yang Pingle1, 2 (1.SchoolofManagement,Shanghai Universityhanghai20o44,China;2.SchoolofElectrical&InformationEngineering Jiangsu University of Science & Technology, Zhangjiagang Jiangsu 2156oo, China)
+
+Abstract:Incomplexnetworks,identifying important nodes is an important partof networkreliabilityanalysis,which isof great significance in practical aplications.Theimportanceof nodes was determined by multiple factors.This paper extended the VIKOR method in multi-criteriadecision theorytothe processofnode importance evaluation.Basedon theAHP method andTOPSIS method,itcomprehensivelyconsidered the weightsof the evaluationindicators fromboth thesubjectiveand the objective dimensions,and given anoptimized combination weighting strategy.Then this paper proposed thecombination weighting VIKOR(CW-VIKOR)method.Simulation experiments werecarredout infour diferent types ofrealnetworks.The results showthat theCW-VIKOR methodcan effctively identifyimportantnodes inthe network andhasbeterperformance in terms of node influence ability and network efficiency.
+
+Key words: complex network; node importance; combination weighting VIKOR method; SIR model
+
+# 0 引言
+
+近年来，复杂网络理论在理解社会、生物、通信、交通等复杂系统中取得了很大研究进展，引起了国内外学者的广泛关注[1]。研究表明，复杂网络的重要节点对网络动态过程有较强的影响，对维护网络的稳定性发挥关键作用[2]。识别有影响力的关键节点不仅具有重要的理论意义，也具有显著的实用价值，如加速信息传播、社区发现、控制谣言和疾病的传播、创造新的营销工具等[3]。
+
+识别节点重要性的很多中心性方法已被广泛使用，如度中心性、介数中心性、接近度中心性、PageRank 算法等。不同的中心性方法从某一方面反映了网络的拓扑特性，评价结果具有一定的局限性。目前，多属性决策方法[4被用于网络节点重要性综合评价，如TOPSIS 方法[5\~8]、效率贡献矩阵法[9]、证据理论法[10]等。TOPSIS方法是多属性决策的经典方法，于会等人[5]将其应用于风筝网络、ARPA网络和科研合作网络的关键节点识别。Du等人[应用TOPSIS方法对USairport、Airlines、Email和Footbal1四个不同类型网络进行了节点重要性评价，并用SI模型验证了TOPSIS方法的有效性。Hu等人[7考虑了评价指标的权重，进一步优化了TOPSIS方法，使其应用于更大规模的复杂网络，并利用SIR模型和相关分析验证了改进方法的性能。Liu 等人[8基于信息熵对TOPSIS方法进行了改进，并将其应用于北京地铁网和山西水网的关键节点识别。Hu等人[综合考虑节点的邻居和第二层邻居的重要度贡献值，构建效率贡献矩阵来综合评价节点的重要性。Bian 等人[10]利用D-S 证据理论合成规则聚合多个中心性指标，识别无权网络和加权网络中的重要节点。这些多属性决策方法考虑了网络节点的若干因素，得到的评价结果比单一指标更准确。
+
+将多属性决策模型应用于网络节点重要性评价，指标权重的设定对关键节点识别有重要影响。Du 等人[6,9,10]将复杂网络节点重要性的评价指标放在同等重要位置，忽略了不同类型网络之间以及各指标之间的差异性。目前，已有相关研究尝试对复杂网络的评价指标设定合适的权重，但还有一定的局限性。于会和Liu等人[5.8采用主观赋权法确定评价指标的权重。指标权重值完全依赖于决策者的经验和知识水平等，也未体现不同网络的差异性，评价结果具有一定的随机性。Hu等人[7通过计算中心性指标与节点传播影响力之间的距离，提出了指标的动态赋权方法。该方法确定的权重值仅取决于数据本身的信息，忽略了人的主观偏好，可能导致评价结果与实际重要度出现偏差。本文受以上研究者的启发，从主观和客观两个维度综合考虑评价指标的权重，提出一个优化的组合赋权策略。
+
+VIKOR方法是多属性决策的经典方法之一，它同时考虑了评价对象的“大多数”群体效用和“极少数”最小化个体遗憾，已被应用于材料选择、风险评估、运营管理等众多领域[1I]。本文提出的组合赋权VIKOR方法(combination weightingVIKOR,CW-VIKOR)，尝试将VIKOR方法拓展应用于复杂网络的关键节点识别研究领域。新方法在四个不同类型的网络上进行仿真实验，在节点传播影响力和网络效率两个指标上表现出更好的性能。
+
+# 1 理论基础
+
+假设一个无向图 $G = < V , E , A >$ ，有 $n$ 个节点和 $m$ 条边。其中： $V = \{ \nu _ { 1 } , \nu _ { 2 } , \cdots , \nu _ { n } \}$ 表示节点的集合； $E = \{ e _ { 1 } , e _ { 2 } , \cdots , e _ { m } \}$ 表示边的集合； $A = [ a _ { i j } ] _ { n \times n }$ 是邻接矩阵。如果节点 $i$ 和 $j$ 直接相连，则$a _ { i j } = 1$ ；否则， $a _ { i j } = 0$ 。
+
+针对网络节点重要性识别问题，国内外学者提出了很多评价指标，根据原理可将其分为网络局部属性、网络全局属性和网络位置属性三类。网络局部属性仅根据目标节点及邻居节点传递的信息评价节点的重要性，网络全局属性描述节点在整个网络中的作用，网络位置属性刻画节点在网络中的位置。以下简述本文将用到的几个评价指标。
+
+定义1度中心性（degree centrality）[3]。
+
+$$
+D C ( i ) = \frac { \sum _ { j = 1 } ^ { n } a _ { i j } } { n - 1 }
+$$
+
+其中： $n$ 表示网络的总节点数； $i$ 表示目标节点； $a _ { i j }$ 表示邻接矩阵 $A$ 中第 $i$ 行第 $j$ 列的元素； $D C$ 描述节点的局部属性，数值越大，节点越重要。
+
+定义2介数中心性（betweenness centrality）[3]。
+
+$$
+B C ( i ) = \frac { 2 } { ( n - 1 ) ( n - 2 ) } \sum _ { i \neq s \neq t } \frac { p _ { s t } ( i ) } { p _ { s t } }
+$$
+
+Adw 中： $p _ { s t }$ 表示从节点 $s$ 到节点 $\mathbf { \Psi } _ { t }$ 的所有最短路径数； $p _ { s t } ( i )$ 表示从节点 $s$ 到节点 $t$ 的所有最短路径中经过目标节点 $i$ 的最
+
+短路径数； $B C$ 反映节点的全局属性，值越大，说明该节点越重要。
+
+定义3接近度中心性（closenesscentrality）[3]。
+
+$$
+C C ( i ) = \frac { n - 1 } { \sum _ { j \neq i } d _ { i j } }
+$$
+
+其中： $d _ { i j }$ 表示目标节点 $i$ 到节点 $j$ 的距离； $\ C C$ 用于刻画节点在网络中的位置，数值越大，节点的位置越重要。
+
+定义4 PageRank 算法[3]
+
+$$
+\mathit { P R } _ { i } ( t ) = \sum _ { j = 1 } ^ { n } a _ { j i } \frac { \mathit { P R } _ { j } ( t - 1 ) } { k _ { j } ^ { o u t } }
+$$
+
+其中： $k _ { j } ^ { o u t }$ 是节点 $j$ 的出度。利用式(4)迭代计算节点的PR值，当所有节点PR值都达到稳定状态时算法终止。 $P R$ 是同时考虑邻居节点数量和质量的典型指标。
+
+# 2 基于CW-VIKOR方法的节点重要性综合评价
+
+VIKOR方法是由Opricovic等人[12]提出一种多属性妥协排序法，将其应用于复杂网络重要节点识别，合理设置评价指标的权重是该方法的关键步骤。本文利用AHP和TOPSIS方法，分别从主客观两个维度出发计算评价指标的权重，再通过多目标权系数法确定指标的组合权重。AHP方法[8是广泛用于确定指标主观权重的方法，将定量和定性两方面纳入一个独特的分析结构，以便于将任何人的自然思想转换为明确的过程。TOPSIS方法[13]是一种逼近理解排序法，它充分利用了决策数据提供的信息，根据评价对象最接近正理想解同时又距离负理想解最远选择最优方案。CW-VIKOR方法包括三个阶段，具体如下：
+
+a)构造决策矩阵，并进行规范化。
+
+复杂网络中有 $n$ 个节点，则对应的方案集合为$V = \{ \nu _ { 1 } , \nu _ { 2 } , \cdots , \nu _ { n } \}$ 。本文选取的节点重要性评价指标为 $D C$ 、BC和 $C C$ ，对应的属性集合 $F = \{ f _ { 1 } , f _ { 2 } , f _ { 3 } \} = \{ D C , B C , C C \}$ ，$x _ { i j } ( i = 1 , 2 , \cdots , n ; j = 1 , 2 , 3 )$ 表示节点 $\nu _ { i }$ 在指标 $f _ { j }$ 下的评估值，决策矩阵为 $X _ { \circ }$
+
+$$
+X = { \left[ \begin{array} { l l l } { x _ { 1 1 } } & { x _ { 1 2 } } & { x _ { 1 3 } } \\ { x _ { 2 1 } } & { x _ { 2 2 } } & { x _ { 2 3 } } \\ { \vdots } & { \vdots } & { \vdots } \\ { x _ { n 1 } } & { x _ { n 2 } } & { x _ { n 3 } } \end{array} \right] }
+$$
+
+由于各指标量纲的不同，为了便于比较，需要进行规范化处理。这里 $D C , ~ B C$ 和 $\ C C$ 均是效益型指标，使用式(6)进行规范化。
+
+$$
+r _ { i j } = { \frac { x _ { i j } - x _ { j } ^ { \mathrm { m i n } } } { x _ { j } ^ { \mathrm { m a x } } - x _ { j } ^ { \mathrm { m i n } } } }
+$$
+
+其中： $\begin{array} { r } { x _ { j } ^ { \operatorname* { m a x } } = \operatorname* { m a x } \{ x _ { i 1 } , x _ { i 2 } , x _ { i 3 } \} , x _ { j } ^ { \operatorname* { m i n } } = \operatorname* { m i n } \{ x _ { i 1 } , x _ { i 2 } , x _ { i 3 } \} } \end{array}$ ，规范化后的矩阵记为 $\scriptstyle R = [ r _ { i j } ] _ { n \times 3 }$ 。
+
+b)计算各指标的组合权重。
+
+(a)基于AHP方法计算指标的主观权重。首先，利用（0,1,2）三标度法对三个指标进行两两比较，构建一个比较矩阵 $C V _ { \circ }$
+
+$D C$ 描述了节点的局部属性，传递的信息较少，因此最不重要。 $B C$ 和 $\ C C$ 分别描述的是网络的全局和位置属性，传递的信息比 $D C$ 多，因此比 $D C$ 重要。 $B C$ 仅考虑了经过目标节点的最短距离，而 $\ C C$ 考虑了目标节点到网络中其他节点的平均距离，比BC更加全面，因此 $\ C C$ 最重要。节点重要性指标之间的比较如表1所示。
+
+表1节点重要性指标之间的比较  
+
+<html><body><table><tr><td></td><td>DC</td><td>BC</td><td>CC</td><td>bi</td></tr><tr><td>DC</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>BC</td><td>2</td><td>1</td><td>0</td><td>3</td></tr><tr><td>CC</td><td>2</td><td>2</td><td>1</td><td>5</td></tr></table></body></html>
+
+其中：
+
+$C V = \left( c \nu _ { i j } \right) = \left\{ \begin{array} { l l } { { 2 } } \\ { { 1 , } } \\ { { 0 } } \end{array} \right.$ ，指标i比指标j重要指标i与指标j同等重要，指标j比指标i重要
+
+其次，构造成判断矩阵 $C = ( c _ { i j } ) _ { 3 \times 3 }$ □
+
+$$
+c _ { i j } = c _ { b } ^ { ~ ( b _ { i } - b _ { j } ) / B } , ~ b _ { i } = \sum _ { j = 1 } ^ { 3 } c \nu _ { i j } , ~ c _ { b } = 9
+$$
+
+$$
+B = \operatorname* { m a x } ( b _ { 1 } , b _ { 2 } , b _ { 3 } ) - \operatorname* { m i n } ( b _ { 1 } , b _ { 2 } , b _ { 3 } )
+$$
+
+$$
+\begin{array} { r } { M _ { i } = \prod _ { j = 1 } ^ { 3 } c _ { i j } , \ W _ { i } = \sqrt [ 3 ] { M _ { i } } , \ w _ { j } ^ { s } = W _ { i } / \sum _ { i = 1 } ^ { 3 } W _ { i } } \end{array}
+$$
+
+$$
+C = \left[ { \begin{array} { c c c c c c } { c } & { D C } & { B C } & { C C } & { M } & { W } & { w ^ { s } } \\ { D C } & { 1 } & { 1 / 3 } & { 1 / 9 } & { 0 . 0 3 7 } & { 1 / 3 } & { 0 . 0 7 6 9 } \\ { B C } & { 3 } & { 1 } & { 1 / 3 } & { 1 } & { 1 } & { 0 . 2 3 0 8 } \\ { C C } & { 9 } & { 3 } & { 1 } & { 2 7 } & { 3 } & { 0 . 6 9 2 3 } \end{array} } \right]
+$$
+
+最后，经一致性检验，得到各指标的主观权重为$w _ { 1 } ^ { s } = 0 . 0 7 6 9 , w _ { 2 } ^ { s } = 0 . 2 3 0 8 , w _ { 3 } ^ { s } = 0 . 6 9 2 3 \ ,$ 。
+
+(b)基于TOPSIS方法计算指标的客观权重。
+
+首先，确定正理想方案 $a ^ { * }$ 。
+
+$$
+a ^ { * } = ( x _ { 1 } ^ { * } , x _ { 2 } ^ { * } , x _ { 3 } ^ { * } )
+$$
+
+其中： $\boldsymbol { x } _ { j } ^ { * } = \operatorname* { m a x } \{ \boldsymbol { x } _ { i 1 } , \boldsymbol { x } _ { i 2 } , \boldsymbol { x } _ { i 3 } \}$
+
+其次，计算各方案与正理想方案的欧式加权距离。
+
+$$
+h _ { i } ( w ^ { o } ) = { \sum } _ { j = 1 } ^ { 3 } \Bigl [ w _ { j } ^ { o } ( x _ { j } ^ { * } - x _ { i j } ) \Bigr ] ^ { 2 }
+$$
+
+最后，计算各指标的最优客观权重 $w ^ { o }$ 。
+
+$$
+\begin{array} { r l } & { \operatorname* { m i n } \sum _ { i = 1 } ^ { n } h _ { i } ( w ^ { o } ) = \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { 3 } \Bigl [ w _ { j } ^ { o } ( x _ { j } ^ { * } - x _ { i j } ) \Bigr ] ^ { 2 } } \\ & { \qquad s . t . \Biggl \{ \sum _ { j = 1 } ^ { 3 } w _ { j } ^ { o } = 1 } \\ & { \qquad \quad w _ { j } ^ { o } \geq 0 , j = 1 , 2 , 3 } \end{array}
+$$
+
+(c)结合(a)和(b)，计算各指标的组合权重。首先，构建权重矩阵 $Y _ { \circ }$
+
+$$
+Y = { \left[ \begin{array} { l l } { w _ { 1 } ^ { s } } & { w _ { 1 } ^ { o } } \\ { w _ { 2 } ^ { s } } & { w _ { 2 } ^ { o } } \\ { w _ { 3 } ^ { s } } & { w _ { 3 } ^ { o } } \end{array} \right] }
+$$
+
+其次，计算矩阵 $( R ^ { T } Y ) ^ { T } ( R ^ { T } Y )$ 的最大特征根和最大特征向量。
+
+$$
+\biggl [ \left( R ^ { T } Y \right) ^ { T } \left( R ^ { T } Y \right) \biggr ] X ^ { * } = \lambda _ { \mathrm { m a x } } X ^ { * }
+$$
+
+其中： $\lambda _ { \operatorname* { m a x } }$ 和 $\boldsymbol { X } ^ { * }$ 分别是 $( R ^ { T } Y ) ^ { T } ( R ^ { T } Y )$ 的最大特征根和最大特征向量。
+
+最后，计算各评价指标的组合权重 $w ^ { c }$ 。
+
+$$
+\boldsymbol { W } ^ { * } = \boldsymbol { Y } \boldsymbol { X } ^ { * }
+$$
+
+$$
+W ^ { c } = \left( \frac { w _ { 1 } ^ { * } } { \sum _ { j = 1 } ^ { 3 } w _ { j } ^ { * } } , \frac { w _ { 2 } ^ { * } } { \sum _ { j = 1 } ^ { 3 } w _ { j } ^ { * } } , \frac { w _ { 3 } ^ { * } } { \sum _ { j = 1 } ^ { 3 } w _ { j } ^ { * } } \right)
+$$
+
+c)根据式(13)\~(15)计算各方案的最大化群体效用值 $S _ { i }$ 、最小化个体遗憾值 $R _ { i }$ 和 $Q _ { i }$ 值。按照 $Q _ { i }$ 值降序对方案进行折衷排序，从而选出最优方案。
+
+$$
+S _ { i } = { \sum } _ { j = 1 } ^ { 3 } w _ { j } ^ { c } r _ { i j }
+$$
+
+$$
+R _ { i } = \operatorname* { m a x } _ { j } ( w _ { j } ^ { c } r _ { i j } )
+$$
+
+$$
+Q _ { i } = \nu \frac { S _ { i } - S ^ { * } } { S ^ { - } - S ^ { * } } + ( 1 - \nu ) \frac { R _ { i } - R ^ { * } } { R ^ { - } - R ^ { * } }
+$$
+
+其中： $S ^ { * } = \operatorname* { m i n } _ { i } S _ { i } , S ^ { - } = \operatorname* { m a x } _ { i } S _ { i } , R ^ { * } = \operatorname* { m i n } _ { i } R _ { i } , R ^ { - } = \operatorname* { m a x } _ { i } R _ { i } \ \circ \ \nu$ 是决策机制系数，当 $\nu > 0 . 5$ ，表示根据最大化群体效用的决策机制进行决策；当 $\nu < 0 . 5$ ，表示根据最小化个体遗憾的决策机制进行决策；当 $\nu = 0 . 5$ ，则表示根据决策者的协商进行决策。为了不失一般性，文中 $\nu = 0 . 5$ 。
+
+# 3 实验结果及分析
+
+# 3.1评价方法
+
+节点重要性排序方法的性能可通过两种方法进行度量：
+
+a)利用传播动力学计算节点的传播影响力[14]。本文采用SIR 模型进行仿真实验。在开始阶段，目标节点被设为感染节点。在每一步，每一个感染节点都以感染率 $\alpha$ 随机感染易感邻居，感染的节点以概率 $\beta ( \beta = 1 )$ 被移除。当网络中没有节点可能被感染时，整个动态过程将停止。通过计算目标节点引起的感染节点数量来度量该节点的传播影响力。
+
+b)网络效率方法[15]。通过删除不同方法识别出的重要节点模拟网络遭到蓄意攻击的仿真实验，然后比较移除前后网络效率的变化情况，网络效率变化越大，节点越重要。网络效率由式(16)计算得出， $\scriptstyle { \varepsilon _ { 0 } }$ 表示网络未受到攻击前的初始网络效率，$\varepsilon ^ { \prime }$ 表示节点失效后的网络效率，使用式(17)对网络效率进行规范化。
+
+$$
+\varepsilon = \frac { 1 } { n ( n - 1 ) } \sum _ { i \neq j \in G } \frac { 1 } { l _ { i j } }
+$$
+
+$$
+e = \frac { \varepsilon ^ { \prime } } { \varepsilon _ { \scriptscriptstyle 0 } }
+$$
+
+其中： $e$ 的取值范围是[0,1]。根据式(17)，当删除不同方法识别出的重要节点时， $e$ 值越小，说明这些节点越重要。
+
+# 3.2结果分析
+
+考虑到不同的网络具有不同的拓扑特征，本文选取了四种不同类型的无向、无权网络进行仿真实验。各网络的拓扑特征如表2所示。
+
+表2实验数据集  
+
+<html><body><table><tr><td></td><td>n</td><td>m</td><td>k</td><td>kmax</td></tr><tr><td>Football</td><td>115</td><td>613</td><td>10.66</td><td>12</td></tr><tr><td>Celegans</td><td>453</td><td>1032</td><td>9.00</td><td>239</td></tr><tr><td>USairpor</td><td>500</td><td>2846</td><td>11.38</td><td>146</td></tr><tr><td>Email</td><td>1133</td><td>10903</td><td>9.62</td><td>71</td></tr></table></body></html>
+
+其中：Football[16]网络是美国足球比赛网络；Celegans[17]网络是寄生虫神经网络；USairpor[18]网络是2002年的美国商业机场网络；Email[19]网络是电子邮件联系网络。
+
+本文将CW-VIKOR方法与四种单指标方法DC、BC、CC、PR，以及Hu等人[7提出的W-TOPSIS方法进行比较分析，六种方法识别出的排名前十的重要节点如表3所示。在Football网络中，CW-VIKOR与W-TOPSIS方法的10个节点完全相同，与DC有4个相同的节点，与BC或CC或PR有6个相同的节点；在Celegans 网络中，CW-VIKOR与W-TOPSIS方法的10个节点完全相同，与DC或BC或PR有9个相同的节点，与CC 有7个相同的节点；在USairport 网络中，CW-VIKOR 与W-TOPSIS方法有9个相同的节点，与DC或BC或CC有8个相同的节点，与PR有7个相同的节点；在Email网络中，CW-VIKOR与W-TOPSIS方法有9个相同的节点，与DC或PR有7个相同的节点，与BC或CC有8个相同的节点。根据上述分析可知，CW-VIKOR方法与四种单指标方法差异较大，与W-TOPSIS方法的差异较小，说明CW-VIKOR方法比单指标方法具有合理性。
+
+表3网络节点重要性排序结果（TOP10)  
+
+<html><body><table><tr><td colspan="8">Football</td><td colspan="6">Celegans</td></tr><tr><td>排序</td><td>DC</td><td>BC</td><td>CC</td><td>PR</td><td>W-TOPSIS</td><td>CW-VIKOR</td><td>排序</td><td>DC</td><td>BC</td><td>CC</td><td>PR</td><td>W-TOPSIS</td><td>CW-VIKOR</td></tr><tr><td>1</td><td>1</td><td>83</td><td>59</td><td>6</td><td>1</td><td>1</td><td>1</td><td>186</td><td>186</td><td>186</td><td>186</td><td>186</td><td>186</td></tr><tr><td>2</td><td>2</td><td>1</td><td>81</td><td>2</td><td>89</td><td>83</td><td>2</td><td>147</td><td>147</td><td>147</td><td>147</td><td>147</td><td>147</td></tr><tr><td>3</td><td>3</td><td>81</td><td>89</td><td>4</td><td>4</td><td>4</td><td>3</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td></tr><tr><td>4</td><td>4</td><td>59</td><td>107</td><td>1</td><td>16</td><td>81</td><td>4</td><td>145</td><td>145</td><td>145</td><td>145</td><td>145</td><td>145</td></tr><tr><td>5</td><td>6</td><td>39</td><td>7</td><td>7</td><td>7</td><td>16</td><td>5</td><td>227</td><td>153</td><td>153</td><td>227</td><td>153</td><td>153</td></tr><tr><td>6</td><td>7</td><td>70</td><td>1</td><td>105</td><td>105</td><td>89</td><td>6</td><td>228</td><td>426</td><td>205</td><td>228</td><td>227</td><td>205</td></tr><tr><td>7</td><td>8</td><td>93</td><td>93</td><td>16</td><td>83</td><td>7</td><td>7</td><td>153</td><td>155</td><td>426</td><td>426</td><td>155</td><td>426</td></tr><tr><td>8</td><td>16</td><td>4</td><td>17</td><td>3</td><td>81</td><td>93</td><td>8</td><td>205</td><td>205</td><td>228</td><td>153</td><td>426</td><td>231</td></tr><tr><td>9</td><td>54</td><td>21</td><td>16</td><td>89</td><td>93</td><td>70</td><td>9</td><td>426</td><td>352</td><td>208</td><td>205</td><td>205</td><td>155</td></tr><tr><td>10</td><td>68</td><td>17</td><td>25</td><td>8</td><td>70</td><td>105</td><td>10</td><td>231</td><td>227</td><td>146</td><td>231</td><td>231</td><td>227</td></tr><tr><td colspan="10">USairport</td><td colspan="6">Email</td></tr><tr><td>排序</td><td>DC</td><td>BC</td><td>CC</td><td>PR</td><td>W-TOPSIS</td><td>CW-VIKOR</td><td>排序</td><td>DC</td><td>BC</td><td>CC</td><td>PR</td><td>W-TOPSIS</td><td></td><td>CW-VIKOR</td></tr><tr><td>1</td><td>1</td><td>56</td><td>7</td><td>6</td><td></td><td></td><td></td><td></td><td>105</td><td>333</td><td>333</td><td>105</td><td>176</td><td>105</td></tr><tr><td>2</td><td>2</td><td>7</td><td></td><td></td><td></td><td></td><td></td><td></td><td>333</td><td>105</td><td>23</td><td>23</td><td>333</td><td>333</td></tr><tr><td>3</td><td>3</td><td>6</td><td></td><td></td><td></td><td></td><td></td><td></td><td>16</td><td>23</td><td>105</td><td>333</td><td>23</td><td>23</td></tr><tr><td>4</td><td>7</td><td>14</td><td></td><td></td><td></td><td></td><td></td><td></td><td>23</td><td>76</td><td>42</td><td>41</td><td>76</td><td>578</td></tr><tr><td>5</td><td>6</td><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td><td>42</td><td>42</td><td>41</td><td>42</td><td>42</td><td>76</td></tr><tr><td>6</td><td>8</td><td>1</td><td></td><td>21</td><td></td><td></td><td></td><td></td><td>41</td><td>578</td><td>76</td><td>16</td><td>41</td><td>233</td></tr><tr><td>7</td><td>18</td><td>4</td><td>11</td><td>11</td><td></td><td></td><td></td><td></td><td>196</td><td>135</td><td>233</td><td>233</td><td>233</td><td>41</td></tr><tr><td>8</td><td>21</td><td>2</td><td></td><td>14</td><td></td><td></td><td></td><td></td><td>233</td><td>41</td><td>52</td><td>355</td><td>578</td><td>135</td></tr><tr><td>9</td><td>11</td><td>10</td><td></td><td>10</td><td></td><td></td><td></td><td></td><td>21</td><td>52</td><td>135</td><td>21</td><td>135</td><td>42</td></tr><tr><td>10</td><td>10</td><td>11</td><td></td><td>17</td><td></td><td>14</td><td>10</td><td>10</td><td>76</td><td>3</td><td>378</td><td>24</td><td>355</td><td>355</td></tr></table></body></html>
+
+为了进一步比较CW-VIKOR方法与W-TOPSIS方法的有效性，本文采用节点传播影响力和网络效率进行分析。首先，以节点传播影响力来比较CW-VIKOR与W-TOPSIS方法的性能。表3给出了CW-VIKOR与W-TOPSIS方法排名前十的节点。本文对两种方法中排序不同的节点对的传播影响力进行了比较，结果如图1所示，每个结果都是100次实验的平均值。
+
+在Football网络中，节点对 83和89、81和16具有不同的排序，其传播影响力结果如图1(a)和(b)所示。可以看出节点83的传播影响力优于节点89，节点81的传播影响力优于节点16，与 CW-VIKOR方法排序结果一致。在Celegans 网络中，根据图1(c)和(d)可以看出节点205优于227，节点426优于节点155。在USairport 网络中，图1(e)比较了两种方法的相异节点56 和
+
+18 的传播影响力，可以看出节点56在每一步的传播影响力都强于节点18。图1(f)和(g)给出了节点对21和2、14和3的传播影响力，可知节点21的传播影响力优于节点2，节点14的传播影响力优于节点3。在Email网络中，从图1(h)可以明显看出，节点105传播影响力强于节点176，这说明将节点105放在首位更合理。另外，本文还重点关注了节点对105和333，图1(i)显示了它们的传播影响力。由此可见，节点105在每一步的传播影响力都强于节点333，这说明节点105比节点333更重要。
+
+![](images/9440afab14483677a02c57dada256fb85b0909523654a8ff203cf19aa36e6f38.jpg)  
+图1网络节点传播影响力比较
+
+其次，本文用网络效率比较CW-VIKOR与W-TOPSIS 方法的性能。研究表明，网络中 $5 \% { \sim } 1 0 \%$ 的重要节点遭到破坏就将导致整个网络系统瘫痪[20]。因此，在Football网络中，移除排序居前的50个节点；在Celegans、USairport 网络中，分别移除排序居前的100个节点；在Email网络中，移除排序居前的200个节点。网络效率的变化情况分别如图2(a)\~(d)所示。采用CW-VIKOR方法删除重要节点导致网络效率变化更大。例如在图2(a)Football网络中，当 $\scriptstyle { p = 1 0 }$ 时，CW-VIKOR和W-TOPSIS方法的网络效率分别为0.80、0.82，这表明采用CW-VIKOR方法删除排名前10 的节点，与W-TOPSIS方法相比，网络效率变化更大。同样地，在Celegans 网络中，当 $\scriptstyle { p = 2 0 }$ 时，CW-VIKOR和W-TOPSIS方法的网络效率分别为0.37、0.39，这表明采用CW-VIKOR方法删除排名前20的节点，与W-TOPSIS方法相比，网络效率同样变化更大。从图2(c)和(d)可以看出，CW-VIKOR方法在USairport、Email网络中的网络效率变化比W-TOPSIS方法大。
+
+上述实验表明，对Football、Celegans、USairport 和Email四个实际网络，CW-VIKOR方法在节点传播影响力和网络效率上比W-TOPSIS方法表现出更好的性能。本文所选的数据集均为无向网络和无权网络。在有向网络、空间网络以及大规模的复杂网络中，CW-VIKOR方法的评估效果可能会有所差异。
+
+![](images/d3fe90b47bb76c888337b87db8f193289bfb881df47cce2611046c0c3bceb026.jpg)
+
+# 4 结束语
+
+复杂网络关键节点的识别具有重要的理论意义和实践价值，相关研究不仅有助于提高网络的抗毁性，也可以加速信息流通、社区发现，使疫情得到有效控制等。在已有研究的基础上，本文提出了组合赋权的CW-VIKOR 方法。该方法综合考虑主客观赋权方法的期望属性，使评价指标权重的设置更趋合理。在四个不同类型的实际网络中进行了仿真实验，结果表明，CW-VIKOR方法可以有效识别网络中的重要节点，在节点传播影响力和网络效率上均表现出更好的性能。
+
+本文的研究工作对拓宽VIKOR方法的应用领域是一个有益的尝试。同时，也希望为后续研究提供一定的参考价值。未来将进一步研究多属性决策方法在复杂网络关键节点识别领域中的应用。应用于不同类型的复杂网络，选择适当的评价指标，优化评价指标的赋权策略，降低计算复杂性，这些都是本文的重点研究。
+
+# 参考文献：
+
+[1]Newman ME J.Networks: an introduction [M]. Oxford: Oxford University Press,2010.   
+[2]Albert R,Jeong H, Barabasi A L.Error and attack tolerance of complex networks [J]. Nature,2000,406: 378-382   
+[3]LüLinyuan,Chen Duanbing,Ren Xiaolong,et al. Vital nodes identification in complex networks [J]. Physics Reports-Review Section of Physics Letters, 2016, 650 (9): 1-63.   
+[4] 徐玖平，吴巍．多属性决策的理论与方法[M].北京：清华大学出版社, 2006.(Xu Jiuping, Wu Wei. Multiple attribute decision making theory and methods [M].Beijing: Tsinghua University Press,2006.）   
+[5] 于会，刘尊，李勇军．基于多属性决策的复杂网络节点重要性综合评价 方法[J].物理学报,2013,62 (2):20204-020204.(Yu Hui,Liu Zun,Li Yongjun.Key nodes in complex networks identified by multi-atribute decision-making method [J].Acta Physica Sinica,2013,62 (2):20204- 020204.)   
+[6]Du Yuxuan,Gao Cai,Hu Yong,et al.Anew method ofidentifying influential nodes in complex networks based on TOPSIS [J].Physica A Statistical Mechanics & Its Applications,2014,399 (4): 57-69.   
+[7]Hu Jiantao,Du Yuxuan,Mo Homgming,et al.A modified weighted TOPSIS to identify influential nodes in complex networks [J].Physica A Statistical Mechanics and Its Applications,2016,444 (2): 73-85.   
+[8] Liu Zhonghua, Jiang Cheng,Wang Juyun,et al. The node importance in actual complex networks based on a multi-attribute ranking method [J]. Knowledge-Based Systems,2015,84 (8): 56-66.   
+[9]Hu Ping,Fan Wenli,Mei Shengwei.Identifying node importance in complex networks [J].Physica A Statistical Mechanics and Its Applications,2015, 429 (7): 169-176.   
+[10] Bian Tian，Deng Yong.A new evidential methodology of identifying influential nodes in complex networks [J].Chaos Solitons & Fractals,2017, 103 (10):101-110.   
+[11l Mardani A. Zavadskas E K. Govindan K. et al. VIKOR techniaue: a
+
+systematic review of the state of the art literature on methodologies and applications [J]. Sustainability,2016,8(1):UNSP 37.
+
+[12] Opricovic S,Tzeng G H.Compromise solution by MCDM methods:a comparative analysis of VIKOR and TOPSIS [J].European Journal of Operational Research,2004,156(2): 445-455.
+
+[13]徐士东，耿秀丽．云模型与TOPSIS 相结合的多属性群决策方法[J]. 计算机应用研究,2017,34(10):2964-2967.(Xu Shidong,Geng Xiuli. Method of multi-attribute group decision-making by combining cloud model and TOPSIS [J].Application Research of Computer,2017,34(10): 2964- 2967.)
+
+[14]Anderson R M,May R M,Anderson B.Infectious diseases of humans: dynamics and control [M]. Oxford: Oxford University Press,1992.
+
+[15]汪涛，吴琳丽．基于复杂网络的城市公交网络抗毁性分析[J].计算机 应用研究,2010,27(11):4084-4086.(Wang Tao,Wu Linli.Research on invulnerability of urban transit network based on complex network [J].
+
+Application Research of Computer, 2010,27(11):4084-4086.)   
+[16] Girvan M,Newman MEJ.Community structure in social and biological networks [J].Proceedings of the NationaL Academy of Sciences of the United States of America,2002,99(12):7821-7826   
+[17] Duch J,Arenas A.Community detection in complex networks using extremal optimization.[J].Physical Review E,20o5,72(2): 027104.   
+[18] Colizza V,Pastorsatorras R, Vespignani A. Reaction-diffusion processes and metapopulation models in heterogeneous networks [J].Nature Physics,2007, 3 (4): 276-282.   
+[19] Guimera R,Danon L,DiazguileraA,et al. Self-similar community structure ina network of human interactions [J].Physical Review E,2oo3,68 (6): 065103.   
+[20]Lai Y C,Motter A E,Nishikawa T.Attacks and cascades in complex networks[J].Lecture Notes in Physics,2004,650:299-310.

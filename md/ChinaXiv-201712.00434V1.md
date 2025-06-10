@@ -1,0 +1,80 @@
+# 临床研究
+
+# 腹腔镜下卵巢子宫內膜异位囊肿剔除术使用欣母沛的效果
+
+张连民,赵旭，高儒,郑穗瑾广东医科大学附属厚街医院妇产科，广东东莞523945摘要：目的探讨在腹腔镜下卵巢子宫内膜异位囊肿剔除术中子宫肌层注射欣母沛的安全性和可行性。方法将厚街医院腹腔镜下卵巢子宫内膜异位囊肿剥除术68例患者分为子宫肌层注射欣母沛组(研究组)31例，未使用欣母沛组(对照组)37例，比较两组的手术时间、术中出血量、术后并发症、术后最高体温、血红蛋白及血压变化等指标。结果 研究组的手术时间平均为$1 0 7 . 7 { \pm } 1 3 . 2 \ \mathrm { m i n }$ ,术中出血量平均为 $1 1 4 . 7 { \pm } 2 8 . 1 ~ \mathrm { m L }$ 。对照组的手术时间平均为 $1 2 6 . 1 { \pm } 1 6 . 0 \ \mathrm { m i n }$ ,术中出血量平均为 $1 8 8 . 6 { \pm } 5 7 . 4 \$ $\mathrm { m L }$ ，差异有统计学意义 $_ { ( P < 0 . 0 5 ) }$ 。术前术后血红蛋白的变化,研究组变化较小 $( P { < } 0 . 0 5 )$ 。研究组的术后最高体温为 $3 6 . 9 { \scriptstyle \pm 0 . 4 3 }$ $\mathcal { \mathrm { C } }$ ，肛门排气时间为 $1 8 . 9 2 4 . 5 6 \mathrm { ~ h ~ }$ ，住院时间 $7 . 1 \pm 0 . 7 9 \ \mathrm { ~ d ~ } _ { \circ }$ 对照组的术后体温为 $3 6 . 7 { \scriptstyle \pm 0 . 4 2 } \mathrm { ~ \ } \mathrm { ~ \mathcal ~ C ~ }$ ，肛门排气时间为 $1 9 . 3 \pm$ $4 . 4 0 \mathrm { h }$ ，住院时间 $7 . 3 { \pm } 0 . 9 6 \mathrm { ~ d ~ }$ ，两者差异无统计学意义 $( P { > } 0 . 0 5 )$ 。研究组的少数患者出现血压一过性升高。术后并发症研究组低于对照组，但差异无统计学意义 $( P { > } 0 . 0 5 )$ 。结论 腹腔镜下卵巢子宫内膜异位囊肿剔除术中使用欣母沛，能减少术中出血，缩短手术时间，减少术后的并发症，是一种安全、可行的术中用药方法。
+
+关键词：腹腔镜;欣母沛;卵巢子宫内膜异位囊肿
+
+# Efficacy of hemabate in the ovarian endometriosis cyst removal surgery under laparoscope
+
+ZHANGHianmin,Z $X u ,$ GAO $R u ,$ ZHENG Suijin DepartmentofGynecologyndObstetrics,HoujieospitalofGuangdongMedical University,Dongguan523945,hina Abstract: Objectives To investigate thefeasibility and safety of ovarian endometriosis cyst removal surgery injecting hemabate into myometrium in laparoscopy.Methods A totalof 68 patients with laparoscopic ovarian endometriosis cyst stripping were enrolled into the study from houjiehospital. They were frely classified into two groups,and31 patients injected hemabate intomyometrium(study group),and37 patients didnotuse hemabate (control group).The operative time, intraoperative blood lossblood pressure,postoperativechangeof hmoglobin,surgicalcomplicationsand postoperative highest temperature of the two groups were compared. Results The average operative time of study group was $1 0 7 . 7 { \scriptstyle \pm 1 3 . 2 }$ min, and the average blood loss during the operation was $1 1 4 . 7 { \scriptstyle \pm 2 8 . 1 } \mathrm { m L }$ . The average operative time of control group was $1 2 6 . 1 { \pm } 1 6 . 0 \mathrm { m i n } .$ , and the average blood loss during the operation was $1 8 8 . 6 { \pm } 5 7 . 4 ~ \mathrm { m L } ,$ . the difference was statistically significant $( P { < } 0 . 0 5 )$ . The rate of the postoperative change of hemoglobin in study group was significantly lessthan that in control group $_ { ( P < 0 . 0 5 ) }$ . The average postoperative highest temperature of study group was $3 6 . 9 { \pm } 0 . 4 3 \ \mathrm { ^ { \circ } C } ,$ , the average postoperative exhaust time was $1 8 . 9 { \pm } 4 . 5 6 \mathrm { h } ,$ and the average postoperative hospitalization time was $7 . 1 { \pm } 0 . 7 9 \mathrm { ~ d ~ }$ . The average postoperative highest temperature of control group was $3 6 . 7 { \pm } 0 . 4 2 \mathrm { \Omega } ^ { \mathrm { \ e } } \mathrm { C } .$ ， the average postoperative exhaust time was $1 9 . 3 { \pm } 4 . 4 0 \ \mathrm { h } ,$ and the average postoperative hospitalization time was $7 . 3 { \pm } 0 . 9 6 \mathrm { d }$ , the difference was not statistically significant $( P { > } 0 . 0 5 )$ . But few patients of study group had a transient high blood pressure. No significant differences existed surgical complications $( P { > } 0 . 0 5 )$ . Conclusion Using hemabate of ovarian endometriosis cyst surgery in laparoscopy can reduce intraoperative bleeding and postoperative complications,and shorten operation time.Itis asafeand feasible method for intraoperative medication in laparoscopy.
+
+Keyword: laparoscopy; hemabate; ovarian endometriosis cyst
+
+近年来子宫内膜异位症发病率有逐年增加的趋势，多发生于育龄期妇女，围绝经期偶有卵巢的子宫内膜异位囊肿,绝经后大多自然萎缩,不需要治疗[]行手术加术后的药物治疗仍为当前最主要的治疗方式，手术治疗时，由于患者盆腔粘连比较严重、术中出血多，手术难度大，易造成临近器官的损伤，如何减少术中的出血量，降低手术难度是本文研究的重点，如果术中使用止血药物，能很好的减少术中的出血量，相应的降低了手术难度。分析发现有关于使用欣母沛治疗产后大出血[和辅助子宫肌瘤3手术的报道，并收到良好的效果,优点为子宫收缩后止血效果好，缺点为价格较高。未见有关于子宫内膜异位症术者中使用欣母沛的报道。本文创造性的研究腹腔镜子宫内膜异位症术中使用欣母沛辅助手术，为腹腔镜子宫内膜异位囊肿手术顺利完成寻找更多可行的途径。我院自2015年6月\~2016年9月，对68例卵巢子宫内膜异位囊肿患者进行腹腔镜下的卵巢囊肿剥除术,其中31例术中使用欣母沛辅助手术，取得了满意的临床效果。现报道如下：
+
+# 1资料与方法
+
+# 1.1一般资料
+
+共有68例患者进行了手术，其中31例术中使用欣母沛作为止血药物，注射在子宫肌层，对照组
+
+37例，术中不使用欣母沛作为止血药物。患者均经过辅助检查确诊为卵巢子宫内膜异位囊肿，有手术指征；所有患者均首次行保守性腹腔镜手术；ASRM-1997年修订的内异症分期法：Ⅲ期至IV期；术后病理确诊为卵巢子宫内膜异位囊肿。两组患者年龄、发现囊肿的时间、囊肿的大小、分期、内科合并症、激素类药物治疗史及手术史等差异无统计学意义( $P >$ 0.05,表1),具有可比性。
+
+表1 两组患者的一般情况 $( n , { \bar { x } } \bot s )$   
+
+<html><body><table><tr><td rowspan="2">组别</td><td rowspan="2">n</td><td rowspan="2">年龄(岁)</td><td rowspan="2">囊肿直径(mm)</td><td rowspan="2">下腹部手术史(例)</td><td rowspan="2">内科合并症(例)</td><td rowspan="2">激素治疗情况(例)</td><td colspan="2">单双侧</td><td colspan="2">ASRM</td></tr><tr><td>单侧</td><td>双侧</td><td>Ⅲ期</td><td>V期</td></tr><tr><td>研究组</td><td>31</td><td>35.6±2.9</td><td>5.7±0.8</td><td>5</td><td>2</td><td>2</td><td>18</td><td>13</td><td>21</td><td>10</td></tr><tr><td>对照组</td><td>37</td><td>35.4±2.8</td><td>5.5±0.7</td><td>6</td><td>2</td><td>2</td><td>22</td><td>15</td><td>25</td><td>12</td></tr><tr><td></td><td></td><td>0.221</td><td>0.809</td><td>0.000</td><td>0.044</td><td>0.044</td><td>0.014</td><td></td><td></td><td>0.000</td></tr><tr><td>P</td><td></td><td>0.826</td><td>0.421</td><td>0.992</td><td>0.834</td><td>0.834</td><td>0.907</td><td></td><td>0.988</td><td></td></tr></table></body></html>
+
+# 1.2 方法
+
+1.2.1手术方法气管插管全麻，采用STROZ腹腔镜及器械，所有手术操作均由同一位丰富临床经验的医师完成，助手2人，分别扶镜和举宫。操作如下：患者取膀胱截石位，举宫。手术开始后，注射器接腰麻针于子宫体注射欣母沛 $2 5 0 ~ { \mu \mathrm { g } }$ 。钝性分离盆腔粘连，创面PK刀电凝止血，采取“卷袖子法"剥除囊肿。对于不使用药物的对照组，采用"杯壁下流"止血方法，囊肿剥离方法相同，PK刀电凝止血和剥离囊肿交替进行。囊肿剥除后，均用2-0可吸收线缝合重建卵巢。术中观察出血量，手术时间，血压及子宫收缩的情况等。
+
+1.2.2术中术后观察指标术中用药后子宫收缩的标准，以注药后宫体颜色和质地反映：白色3分；红白相间2分；稍变白1分；无改变0分。质地硬3分；较硬2分；稍变硬1分；无改变0分。手术时间为手术全程录像上显示的时间，出血量的统计除去冲洗液和巧克力囊肿液，术中血压监测以麻醉监护仪显示为准。术后常规禁食6h后改流质，排气后正常饮食，6-8h后拔除留置导尿，抗生素治疗48h停药，观察术后的血压、体温、肛门排气时间、血红蛋白、及住院时间等。1.2.3药物治疗和随访术后补充GnRHa治疗 $3 { \sim } 6$ 个月(注意反向添加雌激素),定期随访，有生育要求者给予生育指导，鼓励积极受孕，或转生殖中心行生殖辅助治疗[4]
+
+# 1.3 统计学处理
+
+采用SPSS19.0软件进行统计分析。计量资料且呈正态分布，以均数 $\cdot \pm$ 标准差表示，两组间的比较采用成组设计资料的t检验、Fisher确切概率检验或非参数检验。 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+所有手术均顺利完成,无中转开腹及术中并发症发生，手术均全程录像，便于统计手术时间，研究组使用欣母沛后，子宫均得到满意的收缩效果，介于4分和6分之间。研究组的少数患者术中用药后，出现血压一过性变化，用药 $1 5 ~ \mathrm { m i n }$ 后与用药前、用药30、$4 5 \mathrm { \ m i n }$ 比较，收缩压及舒张压均有统计学意义( $P <$ 0.05,表2)。用药前和用药 $3 0 , 4 5 \mathrm { m i n }$ 比较，收缩压和舒张压均无统计学意义 $( P { > } 0 . 0 5 )$ 。在麻醉师严密监护下，无需特殊处理,数分钟后均恢复正常。手术时间、术中出血量及术后血红蛋白的减少值均少于对照组，差异有统计学意义 $( P { < } 0 . 0 5 )$ 。术后第1天体温、肛门排气时间及住院时间，差异无统计学意义（ $P >$ 0.05,表3)。研究组术后无并发症，对照组有1例下肢静脉血栓并发症，经治疗后痊愈出院。
+
+表2研究组术中用药前后的血压变化( $\bar { \boldsymbol { x } } \mathrm { \pm } \boldsymbol { s } )$   
+
+<html><body><table><tr><td>用药时间</td><td>收缩压(mmHg)</td><td>舒张压(mmHg)</td></tr><tr><td>用药前</td><td>111.1±8.3*</td><td>71.5±6.4*</td></tr><tr><td>用药15min</td><td>121.4±15.9</td><td>76.3±9.8</td></tr><tr><td>用药30 min</td><td>113.0±8.7*</td><td>72.4±6.3*</td></tr><tr><td>用药45 min</td><td>111.2±7.5*</td><td>71.0±6.3*</td></tr></table></body></html>
+
+（20 $^ { * } P { < } 0 . 0 5 ~ \nu s$ 用药 $1 5 \mathrm { m i n }$
+
+# 3讨论
+
+子宫内膜异位症可以造成痛经、不孕、性交痛、盆腔包块等[5]，根据病变浸润的深度不同，严重时可形成深部浸润型子宫内膜异位症(DIE),DIE常位于子宫直肠陷窝周围，浸润性生长形成结节，累及骶子宫韧带、阴道直肠隔、直肠前壁、输尿管及膀胱[67]侵犯输尿管可以造成输尿管解剖结构受压或扭曲变形，出现患侧腰痛、下腹部疼痛不适、周期性血尿等症状，肾积水和肾功能受损[8。诊断上主要靠彩超和MR等影像学检查和肿瘤标志物如CA125等的检查，MRI对DIE的诊断常基于病灶信号强度、子宫直肠陷窝的形态学以及病灶周围纤维化改变[。再结合患者的症状可以做出明确的诊断。研究指出合并不孕和附件包块者，首选手术治疗,未合并不孕及附件包块者首选药物治疗；药物治疗无效的可以选择手术治疗[。腹腔镜手术是最主要的手术方式，由于卵巢子宫内膜异位囊肿多有粘连紧密、病灶周围血供丰富等特点，剥离时常引起粘连分离面和卵巢剥离面的广泛渗血,手术难度大,术者往往一边吸引器吸血并冲洗，一边双极电凝(PK刀)止血,如此反复多次操作后，双极电凝破坏了较多的正常卵巢组织，导致卵巢储备功能下降，术后的受孕几率降低，甚至不孕或卵巢功能早衰[0],另外手术时间长，术中出血多，增大了手术难度和肠管及输尿管损伤的并发症的风险[11]。如何解决在卵巢子宫内膜异位囊肿剔除过程中，剥离的卵巢创面少出血，让手术野清晰,成为手术的关键。常用的方法就是用止血药物，由于子宫和双附件的解剖特点，卵巢的血供只有约 $30 \%$ 来着卵巢动脉，有 $70 \%$ 来自子宫动脉,如果术中能使用止血药物，让子宫的平滑肌收缩，压迫子宫的动静脉，间接地让卵巢动脉和子宫动脉对卵巢的血供减少，手术创面的出血就会明显减少，手术难度就会降低，相应的减少可能出现的手术并发症，便于基层医院开展腹腔镜的手术。
+
+表3两组患者术中及术后比较( $\bar { ( x } \pm s )$   
+
+<html><body><table><tr><td>组别</td><td>n</td><td>术中出血量(mL)</td><td>手术时间(min)</td><td>术后第1天体温(℃)</td><td>肛门排气时间(h)</td><td>住院时间(d)</td><td>术前术后Hb差值(g/L)</td></tr><tr><td>研究组</td><td>31</td><td>114.7±28.1</td><td>107.7±13.2</td><td>36.9±0.43</td><td>18.9±4.56</td><td>7.1±0.79</td><td>7.06±1.29</td></tr><tr><td>对照组</td><td>37</td><td>188.6±57.4</td><td>126.1±16.0</td><td>36.7±0.42</td><td>19.3±4.40</td><td>7.3±0.96</td><td>10.6±2.46</td></tr><tr><td>t</td><td></td><td>-6.542</td><td>-5.073</td><td>1.238</td><td>-0.307</td><td>-0.803</td><td>-7.154</td></tr><tr><td>P</td><td></td><td>0.000</td><td>0.000</td><td>0.220</td><td>0.76</td><td>0.425</td><td>0.000</td></tr></table></body></html>
+
+针对妇科腹腔镜手术中止血药物的使用，可选择的药物比较多，比如垂体后叶素、缩宫素及欣母沛等，相关的论文报道也很多，比如Zhao等[]报导了关于垂体后叶素应用于子宫肌瘤剔除术止血的报道。陈淑琴[13]在输卵管异位妊娠中使用垂体后叶素的止血报道等。本文主要研究利用欣母沛作为术中用药的临床效果。研究组患者术中使用欣母沛后，子宫平滑肌收缩压迫子宫动脉，术中创面出血少，只需要用吸引器轻微吸一下就会术野清晰，无需或偶尔使用双极电凝止血。对照组由于不用欣母沛作为止血药物，术中需要双极电凝止血，止血的同时还要吸引器吸引或冲洗，才能保持术野的清晰。两组患者囊肿剥除后，术中均采用2-0可吸收线缝合重建卵巢，这样既保护了正常的卵巢组织，达到止血目的，又避免了因创面敞开而引起组织粘连的可能，对于合并不孕的患者来说，少用或不用电凝，术中及时缝合卵巢，恢复其正常的解剖关系,更有利于术后及时妊娠[14-18]本研究结果表明，研究组的术中出血量和手术时间显著少于对照组，术后的体温、肛门排气时间及住院时间等无显著差异。术中使用药物辅助手术的结果：手术创面和粘连分离面的出血减少，使手术难度降低，减少了手术出血量，缩短了手术时间，有效的避免了手术并发症。研究组术中有少数患者出现一过性血压升高，均未药物治疗，麻醉师的监护下，数分钟后血压恢复正常，对手术无影响，对患者的生命体征无影响。血压的升高的原因是否与注射欣母沛收缩平滑肌有关还需要大量的样本进行研究。
+
+总之，将欣母沛应用于腹腔镜下的卵巢子宫内膜异位囊肿剔除的手术中，能很好的辅助手术，使手术的难度降低，减少了出血量，缩短了手术的时间，并且很好的保护了卵巢组织，具有一定的安全性和可行性，是一种安全有效的术中用药方法，值得临床推广使用，尤其是对于基层医院顺利开展腹腔镜下的卵巢子宫内膜异位囊肿剔除术提供了安全可行的方法。
+
+# 参考文献：
+
+[1］王楠，范文生，顾成磊，等.腹腔镜治疗绝经期卵巢子宫内膜异 位囊肿临床分析[J].中华腔镜外科杂志:电子版,2016,2(9):15-8.   
+[2]Bai J,Sun Q,Zhai H.A comparison of oxytocin and carboprost tromethamine in the prevention of postpartum hemorrhage in highrisk patients undergoing cesarean delivery[J].Exp Ther Med,2014, 7(1): 46-50.   
+[3] Zhang R，Shi H,Ren F,et al．Assessment of carboprost tromethamine for reducing hemorrhage in laparoscopic intramural myomectomy[J].Exp Ther Med,2015,10(3):1171-4.   
+[4]Rossi AC,Prefumo F.The effects of surgery for endometriosis on pregnancy outcomes following in vitro fertilization and embryo transfer:a systematic review and meta-analysis[J].Arch Gynecol Obstet,2016,294(3):647-55.   
+[5]Barcellos MB,Lasmar B,Lasmar R．Agreement between the preoperative findings and the operative diagnosis in patients with deep endometriosis[J].Arch Gynecol Obstet,2016,293(4): 845-50.   
+[6]姚书忠.子宫内膜异位症和子宫腺肌病的诊断与分型[J].中国实 用妇科与产科杂志,2013,29(7):541-5.   
+[7]陈淑琴，范莉，金文艳，等.腹腔镜诊断盆腔深部浸润型子宫内 膜异位症的临床价值[J].中国实用妇科与产科杂志,2014,30(8): 603-6.   
+[8]顾成磊,张唯一，赵路阳,等.腹腔镜治疗输尿管子宫内膜异位症 的临床分析[J/CD].中华腔镜外科杂志:电子版,2015,8(3):10-3.   
+[9]中华医学会妇产科学分会子宫内膜异位症协作组.子宫内膜异位 症的诊治指南[J].中华妇产科杂志,2015,50(3):161-9.   
+[10] Zhen QR,Ge Y,Deng Y,et al.Effect of vasopressin injection techniqueinlaparoscopicexcisionofbilateralovarian endometriomason ovarian reserve:prospectiverandomized study[J].JMinim Invasive Gynecol,2014,21(2):266-71.   
+[11]张燕,周红,李立安,等.妇科腹腔镜手术常见并发症的分析与 处理[J/CD].中华腔镜外科杂志:电子版,2010,3(3):261-4.   
+[12] Zhao F,Jiao Y,Guo Z,et al.Evaluation of loop ligation of larger myoma pseudocapsule combined with vasopressin on laparoscopic myomectomy[J].Fertil Steril,2011,95(2):762-6.   
+[13]陈淑琴，姚书忠，张成美.两点注射垂体后叶素在腹腔镜下输卵 管切开术中的临床价值[J].中国内镜杂志,2008,14(7):777-81.   
+[14]刘振华，梅新珍，曹志雄.腹腔镜下卵巢囊肿剥除术后创面处理 方法对残留卵巢储备功能的影响[J]．华中科技大学学报：医学 版,2015,44(6):722-4.   
+[15]史精华,冷金花,李孟慧,等.腹腔镜卵巢子宫内膜异位囊肿剔除 术对卵巢储备功能及生育的影响[J]．协和医学杂志，2011,2(2): 124-8.   
+[16]陈京亭.腹腔镜卵巢囊肿剔除术中双极电凝止血对卵巢功能的影 响[J].皖南医学院学报,2012,31(6):469-71   
+[17]沈平．腹腔镜卵巢囊肿剔除术中不同止血方式对于卵巢功能的 影响[J].实用临床医药杂志,2012,16(21):64-7.   
+[18]刘淼,邓玉清，刘平.腹腔镜卵巢囊肿剔除术围术期卵巢功能及 基质血流变化[J].当代医学,2012,18(15):89-90.

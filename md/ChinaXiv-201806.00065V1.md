@@ -1,0 +1,185 @@
+# DOI:10.5846/stxb201705020810
+
+王小鹏,赵成章,王继伟,赵连春，文军.秦王川盐沼湿地角果碱蓬种群聚集分布格局与特征.生态学报,2018,38(11);3943-3951.WangXPZoZgJetedialacterisedtiaacEcologica Sinica,2018,38(11） :3943-3951.
+
+# 秦王川盐沼湿地角果碱蓬种群聚集分布格局与特征
+
+王小鹏},²，赵成章¹，\*，王继伟¹，赵连春¹，文军¹
+
+1西北师范大学地理与环境科学学院，甘肃省湿地资源保护与产业发展工程研究中心，兰州730070  
+2 甘肃中医药大学定西校区理学部，定西743000
+
+摘要;植物种群的多尺度集聚与聚块特征变化是植物对环境协同适应的结果。运用成对相关函数与零模型方法,依据微地形的土壤盐分分布规律设置4个样地,在 $2 { \mathrm { ~ m } } { \times } 2 { \mathrm { ~ m } }$ 的样方内设置400 个小格子记录植物株数并取土样，分析了兰州秦王川盐沼湿地土壤盐分梯度下角果碱蓬种群(Suaeda cormiculata)种群空间格局的集聚分布内在特征。结果表明:角果碱蓬种群集聚分布范围内呈现2个关键尺度的集聚现象,小尺寸聚块的集聚或叠加形成复合大尺度聚集,整体表现为嵌套双聚块分布;随着土壤盐分递减,种群集群分布中大聚块尺寸趋于增大,小聚块尺寸差异不明显;大尺寸聚块的数量明显减少,小聚块数量随种群植株数量变化,整个梯度呈现降低趋势;小聚块中植株个体平均数逐渐减少,复合大聚块中包含小尺度聚块平均数量呈降低趋势。内陆盐沼湿地土壤环境异质性背景下角果碱蓬种群集群分布中聚块特征的梯度变化，是植株个体形态与构成的调整适应,种群正负向生态关系、庇护与自疏效应梯度转换的结果。 > 淘
+
+关键词：集聚分布;角果碱蓬;盐沼湿地;土壤盐分;多尺度集聚;聚块特征
+
+# Aggregated spatial patterns and characteristics of Suaeda corniculata in Qin wangchuan salt marsh
+
+WANG Xiaopeng1,²， ZHAO Chengzhang1\* ,WANG Jiwei1 ， ZHAO Lianchun'，WEN Jun1
+
+1Colegef Engineering of Gansu Province,Lanzhou 73oo7O,China   
+2 Gansu University of Chinese Medicine，Dingxi 743ooo,China
+
+Abstract：Multipleclusteringof plant populationsandvariation inclustercharacteristics istheresultofcolaborative adaptationbyplants totheenvironment.According tothedistributionof soilsalinityinmicro-topography,theexperimental set up was four 2 m X2 m sample plots.Each sample was divided into 40O cells，the number of plants was recorded，and soil samples werecollected.Usingthenullmodel，thedata wereanalyzed foraggregated spatial paternsandcharacteristics of the Suaeda corniculata population in the Qin wangchuan salt marsh in Lanzhou city.Theresults showed that：Suaeda corniculata populations showed acomplex spatial pattern with two critical scales of clustering，smal-scale clustering was assembled into composite large-scaleclustering through superpositionandaggregation，and populations showed thenested double-cluster process atallsales.Asthesoilsalinitydecreased,thesizeoflarge-scaleclusters tendedto increaseandhe size of smal-scaleclusters didnotshowobvious diferences.The numberof large-scaleclusters decreased significantly，and thenumberofsmal-scaleclusters tended to increasewith the increase in sizeof the plant population inthe whole study area.The average numberofplants inonesmall-scalecluster graduallyreduced,andtheaverage numberofsmallclusters in onelargecluster showedadecreasing trend，which wererelatedtograduallyreduce of thesoilsalinity.Under the backgroudofsoilenvironmentalheterogeneityintheinlandsaltmarshwetland，thegradientofvariationinclustering characteristics wastheadjustmentof plantindividualformandcomposition.It wasalsotheresultof gradienttransformation of the population ecology relationship，protection，and self-thinning effects.
+
+KeyWords:aggegated spatial pattrns；Suaedacomniculata；salt marsh；soil salinity；multiple clustering；cluster characteristics
+
+种群空间分布格局反映了植物生态适应能力和环境可塑性机制,其研究有利于刻画种群经历的生态学过程[1-2],便于解释影响种群空间格局形成与变化的关键因子[3]。种群集聚分布是植株个体成群或成聚块密集分布[2,4],集聚分布范围内植株个体小尺度集群成块,聚块叠加或聚集形成种群较大尺度的集聚,种群通常呈现多尺度的集聚现象[1,5]。大小尺度的聚块组合成不同的空间结构特征,聚块大小、数量随尺度范围、生境梯度而动态变化[1.6],是种群对不同生境适应策略的表现,具有特定的生态过程[5.7]。盐沼湿地土壤盐分是影响植物生长、分布和繁殖的重要环境因子[8],盐分的种子萌发制约影响种群个体数量与分布范围[9-11],进而影响种群聚块内植株密度、聚块数量与大小等聚块特征;盐分胁迫背景下种群形成与生境相适应的形态大小与生物量积累[9-10],促使着聚块内部植株个体及聚块间生态作用关系的改变[12],引发植物改变生存策略和竞争关系,影响种群集聚尺寸变化与聚块空间的组合结构[13]。因此,集聚分布内在特征研究,是植物种群对生境协同适应研究的重要手段[14]。 0 S
+
+角果碱蓬是藜科碱蓬属一年生的草本肉质化的盐生植物[15-16],生于盐碱或盐湿土壤,茎平卧或直立,具有较高的耐盐性,是盐碱湿地的修复物种和先锋植物[17-18]。目前关于植物空间格局对生境适应研究主要集中于土壤水分[3]、微地形[19]、土壤质地[20]及密度制约等生境角度,并且更多围绕不同生境梯度种群格局动态变化、种群格局单一尺度下的集群分布特征等内容开展[20],但对于土壤盐分背景下湿地植物空间格局多尺度集群分布及集聚分布范围内聚块特征的认识仍然较为薄弱。鉴于此,本文以典型内地盐沼湿地角果碱蓬种群为研究对象,运用成对相关函数与不同零模型方法,分析不同盐分梯度下角果碱蓬种群多尺度的聚集分布格局与特征,试图明晰：(1)种群空间格局集聚分布中大小尺度聚块的空间结构特征如何？（2)种群集聚分布内大小聚块特征的盐分梯度变化规律如何？旨在丰富植物种群格局及其生态过程对土壤环境响应机制的认识，为湿地生态系统的功能优化、植被恢复提供依据。
+
+# 1研究地区与研究方法
+
+# 1.1 研究区概况
+
+研究区位于甘肃省兰州市秦王川盆地南部的秦王川国家湿地公园内，地理位置为 $1 0 3 ^ { \circ } 3 5 ^ { \prime } 3 8 ^ { \prime \prime } { - } 1 0 8 ^ { \circ } 3 8 ^ { \prime }$ $3 7 ^ { \prime \prime } \mathrm { E } , 3 6 ^ { \circ } 2 3 ^ { \prime } 5 9 ^ { \prime \prime } - 3 6 ^ { \circ } 2 7 ^ { \prime } 5 6 ^ { \prime \prime } \mathrm { N }$ 之间。秦王川盆地属于乌鞘岭褶皱山岭南侧的边缘低山区,自北向南倾斜,地面总体坡降 $1 / 8 0 { \ - } { \ - } 1 / 1 0 0$ 。盆地南部成为自然降水、地下水潜流溢出的主要汇水区。经过长期的水文过程,逐渐形成了天然的半咸水内陆盐沼湿地。年均降雨量为 $2 6 5 ~ \mathrm { m m }$ ,年均蒸发量为 $1 8 7 9 . 0 ~ \mathrm { m m }$ ,属典型大陆性干旱气候[21],土壤含盐量最高,地下水接近地表,地表呈现明显盐斑,属次生盐渍土[22]。秦王川内陆盐沼湿地植物主要有:甘蒙怪柳（Tamarix austromongolica）、沙枣（Elaeagnus angustifolia）、芦苇（Phragmites australis）、香蒲（Typhaorientalis）、猪毛菜（Salsolacolina）、角果碱蓬、盐角草（Salicornia europaea）、碱菀（Tripoliumvulgare）滨藜（Atriplex patens）、早熟禾(Poa annua）等。
+
+# 1.2样地设置与调查方法
+
+2016年9月下旬,在实地考察基础上,选择秦王川国家湿地公园保育与恢复区内地表较平整的低洼地带作为供试样带。该样带( $2 0 0 ~ \mathrm { m } { \times } 5 0 ~ \mathrm { m }$ )从东北至西南地势略微倾斜,样带东北边缘形成洼地,土壤属次生盐渍土[23],群落优势种为角果碱蓬与碱菀种群。秦王川盆地土壤水盐及其与地形关系等已有研究认为[21-24],盆地微度倾斜的平地高处排水流畅,地下水位低,不易积盐；而洼处排水不畅,地下水位高,容易积盐,表现出“高中洼,洼中高"的盐渍土分布规律,形成了中微地形对土壤盐分的再分配。按此规律沿样带东北至西南方向确定为盐分梯度,依据群落外貌均匀条件[25]在盐分梯度方向设置了4块样地I、ⅡI、ⅢII、IV。在每个样地随机设置3个 $2 { \mathrm { ~ m } } { \times } 2 { \mathrm { ~ m } }$ 的样方,共设置12个样方。采用 $2 \mathrm { ~ m ~ } \times 2 \mathrm { ~ m ~ }$ 的样方框,其中样方框单元格为 $1 0 \ \mathrm { c m } \times 1 0$ $\mathrm { c m }$ ,以样方框左下角顶点为基点,记录所有植株在每个小样方格种内的准确位置[3.26],用于室内种群点格局分析。测定每个样方所有物种的盖度、高度、密度及地上生物量,重复6次。其后,每个样方挖掘1m ×1 m ×$0 . 5 \mathrm { ~ m ~ }$ 土壤剖面,自地面起以间隔 $1 0 \ \mathrm { c m }$ 分层分别用环刀采集原状土样,现场编号,带回实验室用于土壤盐分测定。土壤盐分测定采用电导法,将每个样地所采集的土样在室内自然风干,剔除杂质、研磨、过 $2 ~ \mathrm { m m }$ 筛,称重 $5 0 \ \mathrm { g }$ ,加入无 $\mathrm { C O } _ { 2 }$ 的纯水 $2 5 0 ~ \mathrm { m L }$ （水土比为5:1），置振荡机上振荡 $3 ~ \mathrm { m i n }$ ,使土壤可溶性盐完全溶解。然后，采用布氏漏斗抽滤,部分浑浊状的滤液反复过滤,直至浸出液清亮为止。浸出液电导率的测定使用上海雷磁仪器厂生产的DDS-11C 便携式电导仪，重复3次，取平均值。 C/>5
+
+# 1.3 分析方法
+
+# 1.3.1 点格局分析
+
+成对相关函数 $\mathbf { g } ( \mathbf { \sigma } _ { \mathbf { r } } )$ 是基于Ripley'sK修正的函数,避免了点格局常用函数Ripley's K的累积效应[27],能够更加细致地刻画植物种群空间分布格局。其函数形式如下：
+
+$$
+g ( r ) = ( 2 \pi r ) ^ { - 1 } d K ( r ) / d r
+$$
+
+该研究将 $\mathbf { g } ( \mathbf { \sigma } _ { \mathbf { r } } )$ 函数与零模型（nullmodels）相结合,通过 Monte-Carlo 方法绘制置信区间,从而判断种群空间分布格局。Monte-Carlo 拟合99 次,置信水平为 $9 9 \%$ ,置信区间通过使用最大值和最小值获得,步长为5cm,最大模拟误差系数er为 $0 . 0 5 ^ { [ 5 ] }$ 。
+
+# 1.3.2 零模型
+
+选择具有明确生态学意义、能准确描述数据偏离理论程度的零假设模型(null model)是空间点格局分析的关键。不同的研究目的和问题假设需要选择不同的零模型[28]。为了揭示内陆盐沼湿地群落优势种群空间格局的特点,参考相关研究成果[28-29],选择了完全空间随机模型（Complete spatial randomness,CSR）、泊松聚块模型（Poisson cluster process ）和嵌套双聚块模型（Double-cluster process,DC）3 种零模型,所选零模型先后表现为递进关系,种群聚集分布符合完全空间随机模型并表现出小尺度集聚特征时,才可利用泊松聚块模型进行大聚块特征分析;相继采用嵌套双聚块分析进行种群大小双聚块特征分析[5]。具体零模型描述如下：
+
+(1)完全空间随机模型
+
+完全空间随机模型实质是均质泊松过程（Homogeneous Poissn process）,该模型中任意个体在研究区域内任何位置上出现(或发生)的机会是相同的,并且是独立的,任意两点间均不发生相互作用[1]。通常使用此模型检测种群的均匀分布格局和集群分布格局[28]。
+
+# (2)泊松聚块模型
+
+由于完全空间随机模型通过偏离置信区间来检验聚集分布或均匀分布,但是却不能检验种群聚集分布的内在特征或形成机制。因此,在CSR 模型应用基础上,继续采用了泊松聚块模型,亦称作托马斯过程（Thomasprocess）。构建原则是假设研究样方(A)内随机并独立地分布着一定数量的聚块,聚块中心以一定密度 $( \rho )$ 服从完全空间随机模型(CSR）。Ap 为研究样方内聚块的数量。因此,分布于聚块中一定数量的点服从泊松分布 ${ \bf \Pi } ( \mu = \lambda / \rho , \lambda$ 为聚块中的点密度)[5,28]。相对于聚块中心而言,聚块中的分布点符合双变量高斯分布 ${ \bf h } \left( r , \right.$ （204号$\sigma$ )，协方差为 $\sigma ^ { 2 }$ 。托马斯过程中聚块尺度近似于聚块半径 ${ \bf \Xi } ( r = 2 \sigma$ )。该模型能检测单一尺度的聚块,其 $\mathbf { g }$ 函数的表达式为[1,5]：
+
+$$
+g ( r , \sigma , \rho ) = 1 + \frac { 1 } { \rho } \frac { \exp ( - r ^ { 2 } / 4 \sigma ^ { 2 } ) } { 4 \pi \sigma ^ { 2 } }
+$$
+
+式中， $r$ 为尺度 $\mathcal { \mathbf { \rho } } _ { \mathcal { S } }$ 为聚块中心点的密度， $\sigma ^ { 2 }$ 为高斯分布的方差， $\sigma$ 决定聚块的尺寸。
+
+(3)嵌套双聚块模型
+
+嵌套双聚块模型是泊松聚块模型的多代扩展,聚块中心（空间尺度为 $2 \sigma _ { _ 2 }$ )并不服从随机分布，而是呈现出了一种简单的泊松聚块模型(其参数为 $\sigma _ { 1 } , \rho _ { 1 } )$ 。如果 $\sigma _ { 1 } > > \sigma _ { 2 }$ ，该过程显示出两个较易判别的 $2 \sigma _ { 1 }$ 与 $2 \sigma _ { 2 }$ 聚块。该种情形下,种群较大聚块中会嵌套相对小的聚块,也就形成了嵌套双聚块模型。模型的 $\mathbf { g }$ 函数表达式如下[1,5-6]： 2
+
+$$
+g ( r , \sigma _ { 1 } , \rho _ { 1 } , \sigma _ { 2 } , \rho _ { 2 } ) = 1 + \frac { 1 } { \rho _ { 2 } } \frac { \exp ( - r ^ { 2 } / 4 \sigma _ { 2 } ^ { 2 } ) } { 2 \pi \sigma _ { 2 } ^ { 2 } } + \frac { 1 } { \rho _ { 1 } } \frac { \exp ( - r ^ { 2 } / 4 \sigma _ { \mathrm { s u m } } ^ { 2 } ) } { 4 \pi \sigma _ { s u m } ^ { 2 } }
+$$
+
+并且 $\sigma _ { \mathrm { s u m } } ^ { 2 } = \sigma _ { 1 } ^ { 2 } + \sigma _ { 2 } ^ { 2 }$ ,而参数 $\boldsymbol { r } \boldsymbol { \mathcal { \rho } }$ 和 $\sigma$ 的意义同泊松聚块模型,其中,下角标1代表大尺寸聚块,下脚标 2代表小尺寸聚块。
+
+# 1.3.3 数据处理
+
+采用GetData Graph Digitizer 2.22进行植株个体坐标点采集,利用Programita 2014软件实现成对相关函数$\mathbf { g } ( \mathbf { \sigma } _ { \mathbf { r } } )$ 不同零模型的点格局计算[29]。文中所有的统计分析与制图均在Origin Pro 8.6软件支撑下完成。
+
+# 2结果分析
+
+# 2.1角果碱蓬植物生物学特征对盐分的响应
+
+盐沼湿地土壤盐分是影响角果碱蓬生长发育的关键因子。表1所示，土壤盐分测定结果电导率从样地I至样地V呈现降低趋势,从西南向东北方向土壤盐分含量降低,研究结果验证了微地形的变化对土壤盐分的再分配理论[21]。不同盐分梯度上角果碱蓬种群盖度、密度、地上生物量等生物学特征存在差异。样地I至样地V电导率降低,角果碱蓬种群密度表现出先增加(样Ⅱ最高)后减小趋势,但种群盖度与地上生物量均呈现出减少态势。样地I、Ⅱ内以直立生长为主,样地ⅢI、IV内主要表现为匍匐生长,自然高度在盐分梯度上并未呈现出规律性变化。碱菀种群密度随盐分梯度减少,但植株个体体积、种群盖度增大,地上生物量却明显增加。
+
+表1群落生物学特征（平均值 $\pm$ 标准误差)  
+Table 1Main biological characteristics of community（mean±SE）  
+
+<html><body><table><tr><td>群落优势种 Dominant species</td><td>样地 高度 Plot Height/cm</td><td>盖度 Subcoverage/%</td><td>密度 Density/ （株/m²）</td><td>地上生物量 Aboveground biomass/ （g/m²）</td><td>电导率 Electrical conductivity/</td></tr><tr><td>角果碱蓬</td><td>30.0±1.47a 5</td><td>6.04±3a</td><td>197.25±8.33b</td><td>57.68±2.46a</td><td>2.45±0.11a</td></tr><tr><td>Suaeda corniculata</td><td>25.0±1.18bc</td><td>38.00±1.68b</td><td>270.00±12.47a</td><td>35.8±1.45b</td><td>1.72±0.07b</td></tr><tr><td></td><td>23.6±1.06c</td><td>36.0±1.75b</td><td>85.25±3.7c</td><td>33.85±1.51bc</td><td>1.66±0.07bc</td></tr><tr><td></td><td>27.4±1.3b</td><td>27.00±1.22c</td><td>11.25±0.53d</td><td>32.39±1.47c</td><td>1.54±0.06c</td></tr><tr><td>碱菀</td><td>32.8±1.38a</td><td>9.00±0.43c</td><td>17.25±0.7a</td><td>25.19±1.23d</td><td>2.45±0.11a</td></tr><tr><td> Tripolium vulgare</td><td>30.0±1.28ab</td><td>46.00±2.1b</td><td>14.25±0.68b</td><td>30.63±1.61c</td><td>1.72±0.07b</td></tr><tr><td></td><td>25.6±1.04c</td><td>53.00±2.63a</td><td>13.75±0.57b</td><td>40.11±1.52b</td><td>1.66±0.07bc</td></tr><tr><td></td><td>29.0±1.35b</td><td>55.00±2.33a</td><td>4.75±0.19c</td><td>55.99±2.33a</td><td>1.54±0.06c</td></tr></table></body></html>
+
+同列不同字母表示显著差异( $P { < } 0 . 0 5 )$
+
+# 2.2角果碱蓬种群空间格局集聚分布内在特征
+
+(1)基于完全空间随机模型的点格局分析
+
+单变量CSR分析表明,样地I、Ⅱ、Ⅲ的 $\mathbf { g } ( \mathbf { \sigma } _ { \mathbf { r } } )$ 值分别在 $0 { - } 4 1 \ 、 0 { - } 3 7 、 0 { - } 7 5 \ \mathrm { c m }$ 尺度范围偏离完全随机模型,位于置信区间之上,说明角果碱蓬种群呈现出集聚分布;随尺度范围增加， $\mathbf { g } ( \mathbf { \sigma } _ { \mathbf { r } } )$ 值位于或低于置信区间,种群逐渐表现出随机或均匀分布（图1),种群格局从集聚分布转换为随机或均匀分布。样地V种群在0一 $1 3 \ \mathrm { c m }$ 与32- $\cdot 4 4 \ \mathrm { c m }$ 范围高于置信区间,种群呈现集聚分布，其余尺度均服从随机分布。
+
+http://www.ecologica.cn(2)基于泊松聚块模型的点格局分析
+
+![](images/80b512b8c9b6c83019ede6a03cf5db654ff65d80835fd1f6adbe886c5c0fa224.jpg)  
+图1基于完全空间随机模型的点格局分析  
+Fig.1Point pattern analysis based on Complete spatial randomness
+
+采用泊松聚块模型检验种群集聚分布内在特征,参数模拟值er均小于 $^ { 0 . 0 3 , \mathbf { g } ( \mathbf { r } ) }$ 函数中只有 $3 \%$ 部分未能被零模型模拟(表2),参数模拟较好[5],说明集聚分布范围内角果碱蓬植株个体集群成聚块状分布。图2说明,样地I至样地V种群分别于1.5—4.5、0—5.5、1—8.5、0—12.5cm范围内高于置信区间,未服从泊松聚块分布模拟(图2),表明集群分布范围内分布着许多较高密度的小尺度聚块,小尺度聚块叠加与聚集形成符合大尺度聚块,种群可能在多个尺度上存在集聚分布,空间结构特征可能表现为嵌套双聚块模。其他尺度上,角果碱蓬种群均符合泊松聚块模拟,说明在种群空间格局的聚块中不存在较高密度的小聚块,表现为若干较大尺寸聚块的均匀分布。表2所示,样地I、Ⅱ角果碱蓬种群复合聚块数量( $\mathbf { A } \mathbf { \rho } _ { 1 }$ )随种群植株数量 $( n )$ 变化,整体呈现降低趋势;复合大聚块参数 $\sigma _ { \mathrm { s u m } }$ 、聚块尺寸 $2 r _ { 1 }$ 较小,样地ⅢI、IV却相对较大,随着土壤盐分含量减少角果碱蓬种群大尺度聚块尺寸增大;符合大聚块中聚块内植株个体平均数 $\left( \mu _ { 1 } \right)$ )呈现降低趋势。
+
+表2泊松聚块模型和嵌套双聚块模型的角果碱蓬单变量分析  
+Table 2Univariate analysis of Suaeda corniculata using the Poisson cluster model and the Double-cluster model   
+
+<html><body><table><tr><td>样地 Plot</td><td colspan="6">复合大聚块特征</td><td colspan="6">小聚块特征</td><td></td></tr><tr><td>n</td><td colspan="6">Pattern of compound larger-scale clustering</td><td colspan="6">Pattern of small-scale clustering</td><td rowspan="2">P2/P1</td></tr><tr><td></td><td>0sum</td><td></td><td></td><td>Ap1</td><td></td><td>2r</td><td>er</td><td></td><td>Ap2μ2</td><td>2r2</td><td>er</td><td></td></tr><tr><td>719</td><td>9.31</td><td>8.76</td><td></td><td>9.17</td><td>78.41</td><td>17.56</td><td>0.0184</td><td>3.15</td><td>157.2</td><td>4.57</td><td>6.3</td><td>0.0116</td><td>17.14</td></tr><tr><td>1080</td><td>8.93</td><td>8.50</td><td>25.65</td><td></td><td>42.11</td><td>17</td><td>0.0083</td><td>2.73</td><td>257.1</td><td>4.2</td><td>5.46</td><td>0.0285</td><td>10.02</td></tr><tr><td>341</td><td>22.59</td><td>22.12</td><td></td><td>8.7</td><td>39.2</td><td>44.23</td><td>0.0008</td><td>4.6</td><td>86.3</td><td>3.95</td><td>9.21</td><td>0.0008</td><td>6.84</td></tr><tr><td>V</td><td>24.49</td><td></td><td>24.26</td><td>5.55</td><td>8.11</td><td>48.51</td><td>0.0295</td><td>3.38</td><td>21.25</td><td>2.12</td><td>6.76</td><td>0.0192</td><td>3.83</td></tr></table></body></html>
+
+下脚标1和2分别指大尺度和小尺度； $\mathbf { \Omega } _ { , n }$ ,整个研究样区中点的数目;A,研究区域的面积( $2 0 0 \ \mathrm { c m } { \times } 2 0 0 \ \mathrm { c m }$ ） $\sigma$ ,聚块尺度参数（单位：cm）；$\sigma _ { \mathrm { s u m } }$ 嵌套双聚块模型聚块尺寸 ${ \mathrm { ; } } { \mu } { = } n / \mathrm { A p }$ ,在每一聚块中的平均点数;r,描述聚块大小;er,参数模拟中不能解释的部分 $_ { ; \rho }$ ,聚块中点的密度； ${ \bf \sigma } _ { ; \rho _ { 2 } , \rho _ { 1 } }$ ，每个大聚块包含小聚块的平均数
+
+![](images/b38a7e7d5363879eea7d0a277864c09b0a3e023404c80a88251bc18d244326b8.jpg)  
+图2基于泊松分布模型的点格局分析  
+Fig.2Point pattern analysis based on Poisson cluster process
+
+(3)基于嵌套双聚块模型的点格局分析
+
+嵌套双聚块零模型分析检验了完全空间随机模型与泊松聚块模型的分析推断,成对相关函数 $\mathbf { g } ( \mathbf { \sigma } _ { \mathbf { r } } )$ 并未明显偏离置信区间,整个样地角果碱蓬种群均符合嵌套双聚块模型,角果碱蓬种群形成大、小双聚块空间分布结构（图3）,较大聚块中嵌套着许多小聚块,种群在2个关键尺度上呈现集聚分布特征。表2所示,复合大尺度聚块尺寸 $\sigma _ { \iota }$ >小尺度聚块 $\scriptstyle { \partial _ { 2 } }$ ,种群形成了较易判别的大、小聚块,并且参数模拟值er值小于0.05,模拟结果较理想[5.25]。聚块特征参数说明,种群集聚分布范围内较大尺寸的聚块中嵌套着若干小尺寸聚块,该结果验证了泊松聚块零模型判断;从样地I至样地IV小聚块数量( $\mathbf { A } { \mathbf { \rho } } _ { 2 }$ )随种群植株数量 $( n )$ 发生变化,整个梯度呈现降低趋势,样地ⅢI、IV小聚块尺寸 $\left( \mathbf { r } _ { 2 } \right)$ 与样地I、Ⅱ比较而言相对较大;随着土壤盐分递减,小聚块中植株个体平均数 $( \mu _ { 2 } )$ )逐渐减少,复合大聚块中包含小尺度聚块平均数量 $( \rho _ { 2 } / \rho _ { 1 } )$ 呈降低趋势。
+
+# 3讨论
+
+# 3.1集聚分布中聚块的空间组合特征
+
+种群集聚是种群内部正向生态关系的表现[2.30],种群聚块的空间组合特征是生物学特性、种内种间关系及生境共同作用的结果[2-3.31]。角果碱蓬种子自母株释放后散落并集中于地表局部范围[32],植物种群常呈现集群分布(图1)。样地I土壤盐分含量较高(表1),对幼小植株个体生长发育的抑制作用较强;尤其在耐盐能力最弱的幼苗期,植物的光合作用、养分吸收均会受到盐分抑制[33],延缓了种群个体的生长率,大部分植株个体小型化（植株直立生长)[25.28]。为了抵御盐分胁迫的危害而提高自身存活机会,植株个体之间以正向生态关系为主[4.25]（图1),种群呈现群体效应,邻体间距较小[28]。样地I角果碱蓬种群盖度、密度、生物量均高于碱菀种群(表1),群落优势地位明显,受种间竞争影响相对微弱。因此,该梯度主要受盐分胁迫作用,植物通过改变分布状况、形态构成等来实现相助,共同抵御外界不利条件[3]。样地Ⅱ碱菀种群植株个体趋于正常化,环境空间拓殖能力与资源竞争能力增强[25.34],种群盖度、生物量大幅度提高(表1),种间资源竞争趋于增强[34];该梯度角果碱蓬幼小植株个体种内正向生态关系的形成即受盐分胁迫作用,也与种间竞争有关。样地ⅢI、IV角果碱蓬种群盖度 生物量均低于碱菀种群(表1),群落优势地位逐渐被替代,种间竞争更加激励;同时盐分抑制进一步弱化,大部分植株个体正常化,植株个体占据空间与个体间距较大,种间竞争成为种内正向生态关系形成的主要驱动因素。种群种内正向生态关系的关键因子形成了梯度转换。
+
+![](images/de49bb17b42ad1f997a048f6a12a8ee2ac9b14df32df8361fd66c85ed71f1716.jpg)  
+图3基于嵌套双聚块模型的种群点格局分析  
+Fig.3Point pattern analysis based on Double-cluster process
+
+种子扩散影响背景下,种群正向生态关系促使种群在植株个体在小尺度范围集聚成块分布,并在2个关键尺度上表现为集聚分布,整个尺度角果碱蓬种群空间格局呈现出嵌套双聚块分布模式（图2、图3）,结果与王鑫厅[28]、Wiegand[5]等人研究一致。样地I、Ⅱ复合大尺度聚块尺寸 $( \sigma _ { \mathrm { s u m } } \Omega r _ { 1 } )$ 小于 CSR 分析的0—41 cm与0—37cm的集聚范围,样地IV在0 $1 3 \ \mathrm { c m }$ 与 $3 2 { \mathrm { - } } 4 4 ~ { \mathrm { c m } }$ 范围集聚分布,分析认为集聚范围内可能存在更大尺度的聚块与聚块叠加（Cluster-cluster superposition）或双聚块与随机分布叠加（Double-cluster-randomsuperposition)等其他更加复杂的集聚特征[5.29],有待于更进一步的研究。随着尺度范围继续扩大,样地I、ⅡI角果碱蓬种群呈现均匀分布(图2A、2B),高密度集聚分布中植株个体过度拥挤而引发了竞争、自疏现象[6],逐渐分裂成若干聚块,大尺度聚块间表现出了种群内部负向生态关系(图3);样地II、V种群呈现随机分布（图2）,种内没有明确的生态关系,种群格局变化可能主要受种间竞争的作用。
+
+# 3.2种群集聚的不同尺度聚块特征变化
+
+集聚分布范围内聚块特征梯度变化是角果碱蓬种子扩散背景下，土壤盐分对种群生长、发育抑制程度不一形成的结果。与样地ⅢI、N相比,研究区样地I、Ⅱ地势较低,种子可能依靠萌发期前季节降水实现二次传播[1],为种群聚集与聚块的形成提供了丰富的种子库[32],种群密度相对较高(表1);但是样地Ⅱ种群密度最高,可能是在丰富种子库的前提下,相比样地I而言土壤盐分含量相对低,种子萌发率高,幼苗存活率较高[10]。样地种群植株个体数 $( n )$ 直接影响着样地大小聚块数量( $\mathbf { A } \mathbf { \rho } _ { 1 } \mathbf { \ 、 A } \mathbf { \rho } _ { 2 } )$ ,但种群嵌套双聚块分布中大小聚块的尺寸与盐分胁迫程度有关;胁迫程度较高区(样地I、ⅡI)植株个体小型化,个体间距较小,小聚块尺寸0 $( 2 r _ { 2 }$ )相对较小;反之植株个体正常化（ⅢI、IV）,受种内竞争的自疏影响,个体间距较大,小聚块尺寸 $( 2 r _ { 2 } )$ 较大,小聚块集聚与叠加也使得大聚块尺寸 $( \sigma _ { \mathrm { s u m } } \hphantom { . } \sigma _ { 1 } )$ 形成明显差异。样地大聚块中包含小聚块数量 $( \rho _ { 2 } / \rho _ { 1 } )$ 随盐分梯度呈现降低趋势,盐分胁迫程度较高的样地I、Ⅱ,植株个体小型化,使得种群生态位发生位移，占据的空间生态位得以释放,保证了大聚块中存在较高密度的小聚块[5,25];而样地ⅢI、IV植株个体空间占据能力强,种内资源竞争激励，从而大聚块中包含较少数量的小聚块。 2y
+
+# 4结论
+
+种群聚块空间组合特征的梯度变化与聚块特征的尺度变化均是角果碱蓬种群对环境适应过程的表现，也是种子扩散、土壤盐分抑制作用与种内种间关系共同作用的结果。本研究发现：为了提高自身存活机会或空间拓殖能力,随土壤盐分抑制作用的梯度变化角果碱蓬种群调整植株形态与构成,相应地植株个体间的正负向生态关系逐渐形成梯度转换,种群庇护、自疏效应的转换促使着种群聚块空间组合特征的梯度差异。种子萌发率、幼苗存活率的盐分抑制直接影响了种群密度及大小聚块数量;同时,在种内正负向生态关系的梯度转变中,种群生态位、空间资源竞争能力的调整也改变着大小聚块的嵌套与尺寸。土壤盐分递减背景下,种内正向生态关系与种群聚块形成的主要驱动因素逐渐从土壤盐分抑制作用转变为种间竞争作用。由此可见,种群多尺度的聚集分布格局与特征研究便于更好地揭示种群在特定生境中所经历的生态学过程。然而，上述研究中也发现种群局部集聚范围内可能存在聚块与聚块、双聚块与随机分布叠加等其他更加复杂的集聚特征,今后尚需从多尺度视角进一步的研究。（）
+
+致谢：感谢德国赫尔霍姆茨环境研究中心 Thorsten Wiegand 教授为该研究提供软件（Programita 2014）支持。
+
+# 参考文献（References）：
+
+[1]WiegandT,unatilekeS，GnatileeN，Ouda T.AnalyzingthspatialstructureofaSILANKANtrespecieswithmultileaesfclustering. Ecology，2007,88(12): 3088-3102.  
+[2］张金屯.植物种群空间分布的点格局分析.植物生态学报,1998,22(4):344-349.  
+[3］党晶晶，赵成章，董小刚，杨泉，查高德.藏嵩草和矮嵩草种群空间分布格局对水分的响应.生态学杂志，2014，33（7）：1734-1740.  
+[4］赵成章,高福元，王小鹏，盛亚萍，石福习.黑河上游高寒退化草地狼毒种群小尺度点格局分析.植物生态学报，2010，34（11)：1319- 1326.WiegandT,ttileealalist）：E106-E140.6 Punchi-MnageR,WiegadT,WiegadK,GtzinS,HuthA,GunatillkeCVS,GunatilekeIAUNNeigborooddiversityfreshows independent species paterns ina mixed dipterocarp forest in SriLanka.Ecology，2015,96(7）：1823-1834.  
+7 Will C,HarsKE,Wiegand,Puch-aageR,GbertGS,EricksonD,KressWJ,HubbellS,GnatilekeCV,GuatllekIAUN.PersistencfdmapfeseggtisaslsspeatdtatiilstPLoS One，2016,11(12)：e0168976.  
+[8］李峰，谢永宏，覃盈盈.盐胁迫条件下湿地植物的适应策略.生态学杂志,2009，28(2)：314-321.  
+[9]Al-KteefdeureahdelasFes2006,97(2):292-298.
+
+http://www.ecologica.cn
+
+[10]魏佳丽，崔继哲，赵鹤翔，弭晓菊.盐碱与干旱胁迫对碱菀种子萌发和TuNHX1表达的影响.应用生态学报，2010,21（6)：1389-1394.  
+[11］孙红叶，李利，刘国军，张希明，李应罡.刚毛怪柳种子萌发对盐分与干旱胁迫的响应.干旱区地理,2007,30(3)：414-419.  
+[12]BuckleyHseBZiaJKopsoJ,yersJAloA.Ugodispesioalysistantifddestadiapatterns in species-environment relationships.New Phytologist,2016,211(2）：735-749.  
+[13]Bdreln,U-J，atJetalC,-a,gdyGsRspatialtealyisofhocedistribution in an arid coastal environment.Environmental Monitoring and Assssment,2015,187(5）：224.  
+[14]赵成章，高福元，石福习，任珩，盛亚萍.高寒退化草地甘肃臭草种群分布格局及其对土壤水分的响应.生态学报，2011,31(22)：6688-6695.  
+[15］史功伟，宋杰，高奔，杨青，范海，王宝山，赵可夫.不同生境盐地碱蓬出苗及幼苗抗盐性比较.生态学报，2009,29（1)：138-143.  
+[16] 赵可夫.植物对盐渍逆境的适应.生物学通报，2002，37(6)：7-10.  
+[17]ZhaoKFanHZouSogJudyotaltddohtoleaofdssKalgeotdeland water stress.Plant Science，2003，165(4）:837-844.  
+[18]管博，于君宝，陆兆华，张莹，王雪宏.黄河三角洲滨海湿地水盐胁迫对盐地碱蓬幼苗生长和抗氧化酶活性的影响.环境科学，2011，32(8): 2422-2429.  
+[19］商侃侃，达良俊.子遗落叶阔叶树种微地形空间分异格局及共存机制研究概述.生态学杂志，2013,32（6)：1912-1919.  
+[20］冯威，赵成章，韩玲，徐婷，郑慧玲，段贝贝.张掖湿地宽苞水柏枝和多枝怪柳种群的空间分布格局与关联性分析.生态学杂志，2016，35(10):2583-2591.  
+[21] 丁晓妹.甘肃省秦王川灌区土壤盐分特征变化分析[D].兰州：兰州大学，2011.  
+[22] 魏国孝，王刚，李常斌，王德军，朱锋，徐涛.秦王川盆地南部地下水流场数值模拟.兰州大学学报：自然科学版，2006，42（6)：16-21.  
+[23］马灿，胡雅杰，薛天柱，魏国孝，朱锡芬，张旭昇.秦王川南部表层土壤盐渍化特征及其与植被发育的关系.甘肃农业大学学报，2011,46(6): 104-108.  
+[24]张芳，熊黑钢，田源，栾福明.区域尺度地形因素对奇台绿洲土壤盐渍化空间分布的影响.环境科学研究，2011,24（7)：731-739.  
+[25］王鑫厅,侯亚丽，刘芳，常英,王炜，梁存柱，苗百岭.羊草 $^ +$ 大针茅草原退化群落优势种群空间点格局分析.植物生态学报，2011，35(12)：1281-1289.  
+[26］张明娟，刘茂松，徐驰，池婷，洪超.不同密度条件下芨芨草空间格局对环境胁迫的响应.生态学报，2012,32（2）：595-604.  
+[27] 喻泓，杨晓晖，慈龙骏.地表火对红花尔基沙地樟子松种群空间分布格局的影响.植物生态学报，2009，33（1）：71-80.  
+[28] 王鑫厅，侯亚丽，梁存柱，王炜，刘芳.基于不同零模型的点格局分析.生物多样性，2012，20(2)：151-158.  
+[29]Wiegand T,Moloney KA. Handbook of Spatial Point-Pattern Analysis in Ecology.Boca Raton:CRC Press，2013.  
+[30]KenkelNC.Paternofself-thininginjackpine:testingtherandommortalityhypothesis.Ecology，1988,69(4)：1017-1024.  
+[31] WiegandT,MoloneyKA.Rings，circles，andnull-modelsforpointpatern analysis inecology.Oikos，2004，104（2）:209-29.  
+[32］高福元，赵成章，石福习，盛亚萍，任珩，贺国宝.祁连山北坡高寒草地狼毒种群格局.生态学杂志，2011,30(6)：1312-1316.  
+[33] 李旭，谢永宏，黄继山，陈心胜.湿地植被格局成因研究进展.湿地科学，2009，7（3）：280-288.  
+[34］王炜，梁存柱，刘钟龄，郝敦元.草原群落退化与恢复演替中的植物个体行为分析.植物生态学报，2000,24（3）：268-274.

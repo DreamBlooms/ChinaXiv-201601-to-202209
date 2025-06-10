@@ -1,0 +1,423 @@
+[
+    {
+        "type": "text",
+        "text": "doi:10.13866/j.azr.2018.04.29 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "盐湖区生态系统碳密度及其分配格局",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李典鹏，孙涛，姚美思，刘隋変昊，王丽萍，王辉，贾宏涛（新疆农业大学草业与环境科学学院,新疆 乌鲁木齐830052)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：由于对陆地生态系统土壤、植被碳蓄积量了解的缺乏,故在预测气候变化中存在较大分歧,因此很有必要对不同生态系统碳分布情况进行研究。本文以干旱盐湖为研究对象,探究盐湖生态系统碳分布特征。结果表明：土壤有机碳密度分布随土层深度的增加而降低，土壤无机碳呈无规律分布； $1 0 0 \\ \\mathrm { c m }$ 土层内有机碳密度介于 $7 . 5 5 \\sim$ $1 5 . 7 5 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 之间,平均为 $1 2 . 5 4 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,占植物群落和土壤总有机碳密度的 $9 7 . 8 4 \\%$ 。黑果枸杞和铃铛刺为盐生群落的优势种,地上平均生物量为 $2 6 1 . 3 8 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,占总生物量的 $7 0 . 4 9 \\%$ ,草本植物群落平均生物量仅为109.45$\\mathbf { g } \\cdot \\mathbf { m } ^ { - 2 }$ ;灌木和草本层地上生物量显著高于调落物层 $( 8 4 . 8 1 \\pm 9 . 2 2 ) \\mathrm {  ~ g ~ } \\cdot \\mathrm {  ~ m ~ } ^ { - 2 }$ 和 $( 7 9 . 7 6 \\pm 8 . 6 1 ) \\mathrm { \\bf g } \\cdot \\mathrm { \\bf m } ^ { - 2 }$ 。盐生植物地下生物量随土层的增加而降低， $0 \\sim 1 0 0 \\ \\mathrm { c m }$ 土层总地下生物量为 $7 7 . 7 4 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 。盐生植物总生物量碳密度为$2 7 6 . 4 8 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,其中地上、调落物和地下生物量分别占 $6 2 . 0 9 \\%$ $. 2 5 . 7 5 \\%$ 和 $1 2 . 1 6 \\%$ ;地上植被和凋落物碳密度显著高于草本植物,根系生物量碳密度在剖面上分布不均， $9 6 . 5 5 \\%$ 集中在 $0 \\sim 5 0 ~ \\mathrm { c m }$ 土层。盐生植物地上地下以及凋落物平均碳含量 $4 3 . 0 9 \\%$ ,与经验系数( $5 0 \\%$ )换算得到碳密度相比实际碳密度高出 $1 3 . 8 0 \\%$ ,这将对植被碳储量的估算产生较大的偏差。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：土壤有机碳；土壤碳密度；生物碳密；生态系统；分配格局；盐湖；干旱区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国是一个多湖泊国家，全国湖泊总数达2759个,总面积占我国陆地面积的 $0 . 9 5 \\% ^ { [ 1 ] }$ 。湖水矿化度等于或大于 $5 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ L ~ } ^ { - 1 }$ 的盐湖数量可达1500多个[2]。盐湖是一种无机一有机的综合性自然资源,是地球各大圈层共同作用的产物，作为湖泊生态系统的重要组成部分，在自然界物质循环和能量流动中扮演着重要角色。此前，对盐湖的研究大多限于对盐类资源地质调查 $[ 3 - 5 ]$ 、盐湖沉积与古环境[6-9]和盐湖生物学与高盐环境学[10-12)等方面。同样,盐碱土具有较强的“碳汇”能力，滨海盐沼湿地碳的累积速率为 $( 2 1 0 \\pm 2 0 ) \\mathrm {  ~ g ~ } \\cdot \\mathrm {  ~ m ~ } ^ { - 2 } \\cdot \\mathrm {  ~ a ~ } ^ { - 1 }$ ,远高于泥炭湿地[13],其较缓慢的有机质分解速率成为缓解全球气候变暖的有效蓝色碳汇。而在干旱半干旱区陆续报道了盐碱也具有“碳汇”作用，土壤每年的“碳汇”能力在 $2 1 \\sim 6 2 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 之间[14-19],此\"碳汇\"被认为是一种非生物的无机过程。但盐湖生态系统土壤盐分较高，水分也相对充足，其是否同样也具有“碳汇”功能？了解土壤现有的碳含量及分布情况是进一步探究其\"源汇\"状况的基础,而干旱区盐湖湿地土壤有机、无机碳的状况尚不明确。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "盐生植物对于维持盐渍土一荒漠一绿洲复合生态系统平衡起着重要作用，目前人们对盐生植物的研究多集中于生物多样性调查[20]、盐生植物群落的分布格局[21-22]、盐渍土微生物群落特征[23]等。有研究表明，仅我国北方灌丛生态系统的有机碳密度就达 $6 . 9 8 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,总有机碳储量约为 $1 . 7 ~ \\mathrm { P g } ^ { [ 2 4 ] }$ 其储量之巨大在陆地生态系统碳储量中占有重要地位。作为一种重要的陆地生态系统类型，盐生植物在群落分布广泛，且在群落演替和“碳汇”等方面扮演着不可替代的角色[25]。所以,针对盐生植物群落碳密度的研究也很有必要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区湖泊是盐渍土的重点分布区，为探究干旱半干旱区盐湖湿地生态系统有机碳密度分布情况，本研究以新疆达坂城盐湖周围盐渍土和盐生植物群落为研究对象，对植被、凋落物、根系和土壤有机碳密度进行研究。以期为干旱半干旱区盐生生态系统碳收支和碳平衡提供基础数据，为指导盐湖资源利用和保护提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆位于亚欧大陆中部 $( 7 5 ^ { \\circ } \\sim 9 5 ^ { \\circ } \\mathrm { E } , 3 5 ^ { \\circ } \\sim 5 0 ^ { \\circ }$ N)。地质构造复杂，形成了多种湖泊，淡水湖、半咸水湖、盐湖和干盐湖。由于长期干旱,水体蒸发量大，盐湖在平原地区形成了相对独特的区域环境，除湖水矿化度相对较高外，盐湖沿岸土壤含盐量也高于其他土壤，沿岸植物为耐盐植物，新疆达坂城盐湖位于新疆乌鲁木齐市达坂城区西部,湖周围无常年性地表河流，靠大气降水和地下水补给。湖水面积$3 5 ~ \\mathrm { k m } ^ { 2 }$ ,湖面平均海拔 $1 0 6 6 \\mathrm { ~ m ~ }$ 。年平均气温 $6 . 1 ~ \\mathrm { { ^ { 9 C } } }$ ，年降水量 $7 2 ~ \\mathrm { m m }$ ,年蒸发量 $2 \\ 6 4 8 \\ \\mathrm { m m }$ ,年平均降(积)雪 $1 5 0 \\mathrm { ~ d ~ }$ 。年日照数 $2 ~ 5 0 0 \\sim 2 ~ 6 0 0 ~ \\mathrm { ~ h ~ }$ ,全年多刮西北风,最大风速 $3 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,属于干旱大陆性气候。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样品采集与测试 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2015年8月至2016年6月先后于达坂城盐湖流域共选取5块样地进行调查取样。植被调查采用常规方法，由于不同植物群落的差异，所以调查方法也略有不同。草本植物有鸢尾（IristectorumMax-im.）芨芨草（Achnatherumsplendens（Trin.）Nevs-ki）、小獐毛（Aeluropus pungens（M．Bieb.） $C$ Koch)等，调查方法如下：在所选样地附近,按一定方向设置 $5 0 \\mathrm { ~ m ~ }$ 样线，每隔 $1 0 \\mathrm { ~ m ~ }$ 布设一个 $1 \\mathrm { ~ m ~ } \\times 1 \\mathrm { ~ m ~ }$ 的样方,对地上生物量进行收割;灌木有黑果枸杞（Ly-ciumruthenicumMurray）和铃铛刺（Halimodendronhalodendron（Pall.）Voss）。生物量测定，按一定方向设置 $5 0 \\mathrm { ~ m ~ }$ 样线，每隔 $1 0 \\mathrm { ~ m ~ }$ 布设一个 $5 \\mathrm { ~ m ~ } \\times 5 \\mathrm { ~ m ~ }$ 的样方，在样方内设置一个具有代表性的 $1 \\mathrm { ~ m ~ } { \\times } 1 \\mathrm { ~ m ~ }$ 样方，对样方内生物量进行采集，估计样方内植被密度、盖度，用称重法测定生物量;同时在 $5 \\mathrm { ~ m ~ } \\times 5 \\mathrm { ~ m ~ }$ 样方附近设置一个 $1 \\mathrm { ~ m ~ } \\times 1 \\mathrm { ~ m ~ }$ 的小样方，对地表调落物进行收集。根系样品采集采用根钻法，选择收集样品的样方，采取 $0 \\sim 5 \\ . 5 \\sim 1 0 \\ . 1 0 \\sim 2 0 \\ . 2 0 \\sim 3 0 \\ . 3 0 \\sim$ $5 0 \\ 、 5 0 \\sim 7 0 \\ \\mathrm { c m }$ 和 $7 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 分层根系样品，用水洗净后带回实验室。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤样品采集采用剖面和打钻相结合的取样方法,在样方附近挖掘1个土壤剖面，按照 $0 \\sim 5 \\ : . 5 \\sim$ $1 0 \\_ 1 0 \\sim 2 0 \\_ 2 0 \\sim 3 0 \\_ 3 0 \\sim 5 0 \\_ 5 0 \\sim 7 0 \\mathrm { ~ c m }$ 和 $7 0 \\sim 1 0 0$ cm 进行取样，每个土层用环刀( $1 0 0 ~ \\mathrm { c m } ^ { 3 }$ )采集土壤容重样品，每层重复5次，并随机选3个点进行打钻取土壤样，取样层次如上。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物样品带回实验室后，在 $1 0 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 下杀青0.5h,随后在 $6 5 ~ \\mathrm { { ^ { \\circ } C } }$ 条件下烘干至恒重，然后用称重法测定植物和凋落物的干重；用球磨仪粉碎植物和凋落物样品，过80目筛后测定其有机碳含量。土壤样品放在阴凉处自然风干，过60目筛测定其有机碳含量。土壤容重样品放入烘箱在 $1 0 5 ~ \\mathrm { { ^ \\circ C } }$ 下烘至衡重后称重，植物和土壤样品有机碳采用重铬酸钾外加热法测定[26]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1土壤基本信息",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/41082d85f3e694a6b672aab0b6da9e65eae19f81fc1065e61afeec7c413c0622.jpg",
+        "table_caption": [
+            "Tab.1 Basic informationofthe soil "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">植物群落</td><td colspan=\"9\">离子含量/（g·kg-1）</td><td rowspan=\"2\">总盐 /（g·kg-1)</td></tr><tr><td>pH</td><td>CO-</td><td>HCO3</td><td>S0-</td><td>Cl-</td><td>Ca² +</td><td>Mg²+</td><td>K+</td><td>Na+</td></tr><tr><td>小獐毛</td><td>8.92</td><td>0.00</td><td>0.03</td><td>0.09</td><td>0.86</td><td>17.25</td><td>0.33</td><td>0.51</td><td>18.28</td><td>37.35</td></tr><tr><td>鸢尾</td><td>8.38</td><td>0.00</td><td>0.06</td><td>2.78</td><td>7.19</td><td>3.30</td><td>1.47</td><td>0.37</td><td>10.25</td><td>25.42</td></tr><tr><td>芨芨草</td><td>8.37</td><td>0.00</td><td>0.04</td><td>0.08</td><td>0.47</td><td>16.25</td><td>0.28</td><td>0.31</td><td>8.90</td><td>26.38</td></tr><tr><td>黑果枸杞</td><td>8.51</td><td>0.00</td><td>0.03</td><td>0.35</td><td>2.85</td><td>23.75</td><td>0.37</td><td>0.09</td><td>2.34</td><td>29.78</td></tr><tr><td>嚣荒地</td><td>8.72</td><td>0.00</td><td>0.05</td><td>0.18</td><td>0.41</td><td>13.25</td><td>0.34</td><td>0.29</td><td>17.92</td><td>32.44</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 计算方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳密度的估算方法：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S O C D } _ { i } = C _ { i } \\times \\rho _ { i } \\times H _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { S O C D } _ { i }$ 为第 $\\mathbf { \\chi } _ { i }$ 层土壤有机碳密度( $\\mathrm { ~  ~ { ~ \\cal ~ k } ~ g ~ } \\cdot \\mathrm { ~  ~ m ~ } ^ { - 2 } \\mathrm { ~  ~ \\cdot ~ }$ ；$s$ 表示第 $\\mathbf { \\chi } _ { i }$ 层土壤有机碳含量 $( \\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 }$ ）； $\\rho _ { i }$ 表示第$i$ 层土壤容重 ${ \\bf \\langle \\mit { g } ^ { \\mathrm { ~ \\bullet ~ } } \\mathrm { c m } ^ { - 3 } \\mit \\Psi }$ ）； $H _ { i }$ 表示第 $i$ 层土壤深度$\\mathrm { ( m ) }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物碳密度计算方法：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { _ { p } } = S \\times m \\times \\mathrm { S O C }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $C _ { p }$ 植物碳密度 $( \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ )； $s$ 为面积 $( 1 \\mathrm { ~ m } ^ { 2 } )$ ;  \n$m$ 为植物质量 $\\mathbf { \\tau } ( \\mathbf { g } )$ ;SOC为有机碳含量 ${ \\bf \\underline { { \\phi } } } ( { \\bf \\underline { { \\phi } } } \\cdot { \\bf \\underline { { \\phi } } } \\cdot { \\bf \\underline { { \\phi } } } ) \\cdot { \\bf \\underline { { \\phi } } } ,$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用Excel2016和SPSS18.0软件对数据进行处理和统计分析，用Origin9.0软件制图。采用单因素方差分析（ANOVA)检验灌丛土壤、根系、调落物和生物量碳密度间的差异，显著水平为 $\\alpha = 0 . 0 5$ O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同植物群落土壤碳及密度特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同群落土壤有机碳随着土壤深度的增加土壤有机碳含量下降(图1)。小獐毛、鸢尾、芨芨草、黑果枸杞和擢荒地土壤有机碳含量分别占 $0 \\sim 5 ~ \\mathrm { c m }$ 土层土壤有机碳含量的 $1 9 \\% . 1 9 \\% . 8 \\% . 3 1 \\%$ 和 $23 \\%$ ，其中黑果枸杞群落所占比例最高，芨芨草群落土壤所占比例最低； $5 \\sim 1 0 ~ \\mathrm { c m }$ 土层，小獐毛、鸢尾、芨芨草、黑果枸杞和擢荒地土壤有机碳含量分别占$1 8 \\% . 2 0 \\% . 1 4 \\% . 1 9 \\%$ 和 $2 9 \\%$ ，擢荒地所占比例最高，芨芨草群落所占比例最低; $1 0 \\sim 2 0 \\ \\mathrm { c m }$ 土层，小獐毛、鸢尾、芨芨草、黑果枸杞和擢荒地土壤有机碳含量分别占 $8 \\% 1 3 \\% 2 8 \\% 2 2 \\%$ 和 $2 9 \\%$ ,擢荒地所占比例最高，小獐毛群落占比例最低； $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土层中，各群落分别占 $6 \\% , 1 1 \\% , 2 2 \\% , 3 1 \\%$ 和 $30 \\%$ ，黑果枸杞群落所占比例最高，小獐毛群落最低； $3 0 \\sim$ $5 0 ~ \\mathrm { c m }$ 与 $5 0 \\sim 7 0 \\ \\mathrm { c m }$ 土层分配规律相同，均为畧荒地最高，小獐毛群落最低； $7 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 土层中芨芨草群落占 $31 \\%$ ,畧荒地 $2 4 \\%$ ，小獐毛与黑果枸杞群落均占 $18 \\%$ ,鸢尾群落占 $10 \\%$ 。土壤无机碳在剖面呈现出无规律性变化，且小獐毛、鸢尾、芨芨草和黑果枸杞不同土层间土壤无机碳无显著性差异（表2），荒地 $0 \\sim 5 ~ \\mathrm { c m }$ 与 $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土层存在显著性差异( $\\cdot P < 0 . 0 5 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0 8 16 24 32 40 48 56 64 1 1 1 0\\~5 A Y 5\\~0VIIIIH/Z 10\\~20I VA 图例 小獐毛 20\\~30 YTIA 莺尾 30\\~50IZ 芨芨草 黑果枸杞 50\\~70IH V4 荒地 70\\~100 ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/20774b3ca4e92f81f3a81035a693f2e7b6eec4869b69d9ed128d41926f3681aa.jpg",
+        "table_caption": [
+            "表2不同植物群落土壤无机碳含量",
+            "Tab.2The inorganic carbon content in different communities "
+        ],
+        "table_footnote": [
+            "注：一表示未采到土壤样品；不同字母表示显著差异， $P < 0 . 0 5$ 。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">深度/cm</td><td colspan=\"5\">植物群落土壤无机碳含量/%</td></tr><tr><td>小獐毛</td><td>鸢尾</td><td>芨芨草</td><td>黑果枸杞</td><td>擢荒地</td></tr><tr><td>0~5</td><td>5.41 ±2.79a</td><td>5.66 ±0.61a</td><td>4.40 ±0.42a</td><td>5.63 ±1.65a</td><td>7.76 ±1.50a</td></tr><tr><td>5~10</td><td>5.31 ±2.01a</td><td>5.96±0.48a</td><td>4.51 ±0.14a</td><td>3.82 ±1.07a</td><td>5.17±0.79ab</td></tr><tr><td>10~20</td><td>4.49 ±2.06a</td><td>6.31±0.39a</td><td>4.45 ±0.11a</td><td>4.09 ±1.69a</td><td>5.65 ±0.49ab</td></tr><tr><td>20~30</td><td>4.82 ±1.23a</td><td>6.67 ±0.90a</td><td>4.47 ±0.41a</td><td>3.93 ±1.86a</td><td>4.12 ±1.16b</td></tr><tr><td>30~50</td><td>3.91 ±1.35a</td><td>6.21 ±0.59a</td><td>4.68 ±0.27a</td><td>3.91±2.34a</td><td>5.65 ±0.54ab</td></tr><tr><td>50~70</td><td>3.38 ±1.53a</td><td>5.97 ±0.32a</td><td>4.33 ±0.19a</td><td>3.91±2.33a</td><td>4.28 ±1.29b</td></tr><tr><td>70~100</td><td></td><td>5.02 ±1.35a</td><td>4.05 ±0.16a</td><td>6.28±1.18a</td><td>6.20 ±0.00ab</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳密度随深度的增加均呈降低趋势（图2）;其中小獐毛群落土壤有机碳密度在 $0 \\sim 1 0 0$ cm 内变化较小。鸢尾群落土壤 $0 \\sim 5 ~ \\mathrm { c m }$ 有机碳密度显著高于其他土层，各植物群落间差异显著。芨芨草、黑果枸杞群落与畧荒地土壤 $0 \\sim 5 0 ~ \\mathrm { c m }$ 内土壤有机碳密度逐渐降低，当土层深度大于 $5 0 ~ \\mathrm { c m }$ 时，碳密度骤减。综上所述，达坂城盐湖不同植物群落土壤有机碳密度有表聚现象（占土壤剖面的 $78 \\%$ ），主要分布在 $0 \\sim 3 0 ~ \\mathrm { c m }$ 土层， $0 \\sim 3 0 ~ \\mathrm { c m }$ 土层有机碳密度与其他土层间存在显著性差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2盐生植物生物量的分配",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "达坂城盐湖区灌木和禾本的地上生物量、根重、凋落物量、根冠比和根质比的基本特征见表3。灌木地上生物量( $( 2 6 1 . 3 8 \\pm 2 1 . 6 9 ) \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 显著高于草本 $( 1 0 9 . 4 5 \\pm 1 4 . 5 8 ) \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ;根系分布与生物量相同灌木显著性也较高，灌木返还土壤的凋落物显著高于草本植物。根冠比和根质比作为地上地下生物量分配差异的参数，灌木的平均根冠比为0.12（0.$1 0 \\sim 0 . 1 4 )$ ,平均根质比为 $0 . 1 1 ( 0 . 0 9 \\sim 0 . 1 2 )$ ;草本的平均根冠比 $0 . 3 5 ( 0 . 2 4 \\sim 0 . 5 3 )$ ，平均根质比为0.$2 6 ( 0 . 1 9 \\sim 0 . 3 4 )$ ，灌木与草本的根冠比和根质比均存在显著性差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3不同植物群落地上植物碳密度特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "盐生植物地上生物量碳密度介于 $1 7 . 6 8 \\sim 2 8 9$ $3 8 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,算术平均值为 $8 1 . 4 6 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 。表现为黑果枸杞( $2 6 1 . 3 8 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } )$ $>$ 芨芨草( $5 6 . 7 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } \\mathrm { ~ } \\rangle$ $>$ 小獐毛 $( 4 0 . 5 9 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } ) >$ 鸢尾 $( 2 7 . 9 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } )$ $>$ 擢荒地 $( 2 0 . 6 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } )$ ）,灌木层地上生物量碳密注：不同植被同一指标不同字母表示差异显著， $P < 0 . 0 5$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/78489b6d5ef39c315f49e479d86570261f79c4fbe4f56542c4f7ebc3a858853c.jpg",
+        "img_caption": [
+            "",
+            "注：不问小与子母表亦显者性差异。 $P < 0 . 0 5$ ，问。 图2不同群落 $0 \\sim 1 0 0 \\ \\mathrm { c m }$ 土层土壤有机碳密度分布特征 Fig.2Distribution characteristics of $0 \\sim 1 0 0$ cm soil organic carbon density in different communities ",
+            "图3不同植物群落地上生物量碳密度特征Fig.3Plants carbon density characteristics ofin different plant communities"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b9df8b6cd987ad6bd31289a2be14d69b2e09db72378c34a48849b3ab0e7ee7e0.jpg",
+        "table_caption": [
+            "表3生物量分布特征",
+            "Tab.3The distribution characteristic of biomass "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>植被</td><td>地上生物量/（g·m-²）</td><td>根/（g·m-²）</td><td>调落物/(g·m-²）</td><td>根冠比</td><td>根质比</td></tr><tr><td>灌木层</td><td>261.38 ±21.69a</td><td>31.65 ± 1.78b</td><td>84.81 ±9.22a</td><td>0.12 ±0.02b</td><td>0.11 ±0.01b</td></tr><tr><td>草本层</td><td>109.45 ±14.58b</td><td>46.09 ± 1.92a</td><td>79.76 ± 8.61a</td><td>0.35±0.11a</td><td>0.26±0.06a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "150 150 地生量密度 a 135 凋落物碳密度/(g·m-2)   \n90 120   \n30 h a 45 C 30   \n15 HC d h e 15 王 d 0 小獐毛 鸢尾 芨芨草黑果枸杞荒地 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "度 $( 2 6 1 . 3 8 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } ,$ )显著高于草本层平均碳密度之和 $( 1 4 5 . 9 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ),碳密度与植物地上生物量分布一致，生物量与碳密度存在较好的相关性。达坂城盐湖不同植物枯枝落叶返回土壤的情况也有所不同（图3）。小獐毛、鸢尾、芨芨草、黑果枸杞和擢荒地凋落物碳密度分别为23.36、14.84、32.13、84.81$\\mathbf { g } \\cdot \\mathbf { m } ^ { - 2 }$ 和 $9 . 4 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 介于 $8 . 6 0 \\sim 9 6 . 9 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } \\$ 之间,算术平均值为 $3 2 . 9 1 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 。灌木层凋落物碳密度显著高于草本层，其凋落物碳密度也显著高于其他草本植物。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4不同植物群落根系碳密度变化特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "小獐毛群落根系碳密度随着土壤深度的增加，根系碳密度也随之降低， $0 \\sim 5 ~ \\mathrm { c m }$ 与 $5 \\sim 1 0 \\AA \\cdot 1 0 \\sim 2 0$ 、$2 0 \\sim 3 0 \\dots 3 0 \\sim 5 0 \\ \\mathrm { c m }$ 存在显著差异，小獐毛群落距湖心最近，地下水位较高( $\\mathrm { 5 0 ~ c m } , \\$ ），未能采集到 $5 0 \\sim$ $7 0 . 7 0 \\sim 1 0 0 \\ \\mathrm { c m }$ 土层根系生物量，故未能计算出该层根系碳密度。鸢尾作为一种多年生草本，其根系在 $0 \\sim 1 0 \\ . 2 0 \\sim 3 0 \\ . 5 0 \\sim 7 0 \\ \\mathrm { c m }$ 土层间返还量相对较低，根系碳密度不存在显著性差异，但 $0 \\sim 1 0 \\text{‰}$ $3 0 \\ \\mathrm { c m }$ 与 $5 0 \\sim 7 0 ~ \\mathrm { c m }$ 存在显著性差异。芨芨草群落根系碳密度仅次于黑果枸杞群落，且各层之间存在显著性差异。黑果枸杞群落根系碳密度相对较高，最大值、最小值和算数平均值分别为 $5 . 3 1 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 、$0 . 4 7 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 和 $1 . 9 4 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,且不同土层根系碳密度均存在显著差异。擢荒地根系主要集中在表层，0$\\sim 2 0 \\ \\mathrm { c m }$ 土层土壤碳密度为 $3 . 6 9 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ，占 $1 0 0 ~ \\mathrm { c m }$ 土层的 $7 9 . 1 6 \\%$ ? $5 0 \\sim 7 0 \\ \\mathrm { c m }$ 土层中未发现根系，故该层根系碳密度为 $0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/73e3062327da856eace030ba35b8c90b217a4cd0f6474139ed7bb5a44a1006c8.jpg",
+        "img_caption": [
+            "图4不同植物群落根系碳密度垂直分布特征",
+            "Fig.4Vertical distribution of root carbon density in different plant communities "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1土壤碳密度分布特征及影响因素",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "影响土壤有机碳的因素众多，其中气候和地质等自然因素被认为是影响土壤最大的因素(27 -28] 。相对而言，人们对干旱区盐湖湿地土壤有机碳和无机碳影响因素的探究还较少。通过整理不同纬度、植被、气候以及不同土壤条件下盐碱土有机碳的含量，分析并整理了影响研究土壤有机碳的重要因素[29 -33]。地上植被生物量是影响土壤有机碳的因素，且生物量与土壤有机碳密度呈显著负线性相关（图5);年平均气温和年均降水量同样也与土壤有机碳密度呈显著负相关，其决定系数分别为0.69和0.67。通过比较不同类型盐碱土发现,干旱盐土土壤有机碳密度显著高于滨海盐土;地理位置也是显著影响土壤有机碳的重要因素，均表现为高纬度土壤有机碳密度显著高于低纬，我国东部滨海盐土低于干旱盐土。总而言之，土壤有机碳的差异是众多因素共同作用的结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2植物生物量、碳蓄积的影响因素",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植物有机碳占植物干重的 $45 \\%$ ,故影响植物生物量的因素便是碳蓄积的影响因素。本研究涉及的盐生植物有小獐毛、鸢尾、芨芨草、黑果枸杞、铃铛刺和盐角草等，其中黑果枸杞作为优势种，其他植物为伴生种，且各植物成群分布。作为盐生植物群落的优势种,黑果枸杞地上生物量为 $2 6 1 . 3 8 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ，显著高于同一地区的盐生草本植物，但盐生灌丛生物量显著低于热带山地杜鹃灌丛 $( 2 . 6 2 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } )$ [34]和全国灌丛生物量平均值 $( 2 . 1 8 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } ,$ [35）。与全球灌丛生物量平均值 $( 2 . 1 0 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ )[36]相比,生物量仅为全国、全球平均水平的 $1 / 1 0$ ,同时也说明干旱区盐湖生态系统植物碳蓄积能力也仅为全国、全球水平的1/10。盐湖植物生物量与西藏雅鲁藏布江流域沙生槐灌丛生物量 $0 . 2 3 \\sim 0 . 8 9 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ （204号相近[37]。此外,本研究的盐生灌丛生物量还低于同属于干旱区的柽柳灌丛和高寒金璐梅灌丛等典型灌木群落(38-39]的生物量。群落特性和物种组成等因素会影响到植物群落生物量在同层次间的分配。在已有研究中，生物量在植被层次上的分配多表现为：灌木层 $>$ 草本层 $>$ 调落物层[37-38]，本研究中则是灌木层 $>$ 调落物层 $>$ 草本层。调落物是养分归还学说和生物小循环中的重要环节，凋落物的不同会导致养分归还量的差异和物质小循环的速度[40]。植物根系碳密度的垂直分布主要与植被类型有关，根系特征值在 $0 \\sim 1 0 \\ \\mathrm { c m }$ 土层较高，随土壤深度增加呈递减趋势，紫花苜蓿根系生物量在 $0 \\sim 3 0 ~ \\mathrm { c m }$ 土层的分布比例在 $6 5 \\% \\sim 8 5 \\%$ ， $0 \\sim 6 0 ~ \\mathrm { c m }$ 土层为 $8 5 \\%$ \\~",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a6439c457669043a07c6c9e635d94c6623901b134cbd0498b5970785be76811.jpg",
+        "img_caption": [
+            "注： $^ *$ 表示显著差异， $P < 0 . 0 5$ $n = 1 4$ ",
+            "图5土壤有机碳与生物、气候等的相关性",
+            "Fig.5Correlation between soil organic carbon and biological,climate and others. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$9 5 \\%$ [41]。干旱区盐湖生态系统具有蒸发/降水比大、土壤盐渍化突出的特点，盐分是影响盐生植物生长发育的重要因素，通过对地上部分生长的抑制，增大根冠比[42],以便从深层获取养分资源。综上所述，植被类型、气候环境是影响植被地上、地下生物量分配和碳蓄积的主要因素。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究对盐湖生态系统有机碳进行了系统研究，但仍存在不足。由于条件限制,采样时忽略了盐湖沉积物和湖水样品的采集；湖底沉积中的有机碳能反应较长时间尺度下气候的变化。所以，在盐气候变化研究方面，湖底沉积物也不能忽视，而植物对气候变化响应的研究则需开展长期定位试验研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区盐湖生态系统植被郁闭度较低，盐胁迫造成草本植物密度极低，生物量在植被层次上的分配表现为：灌木层 $>$ 调落物层 $>$ 草本层。灌木层生物量显著高于草本，混合地下生物量草本层高于灌木，盐湖生态系统（土壤、植物和凋落物）总有机碳密度为 $1 2 . 8 2 ~ \\mathrm { k g } \\cdot \\mathrm { ~ m } ^ { - 2 }$ ,土壤有机碳密度随土层深度的增加而降低,平均碳密度为 $1 2 . 5 4 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ，占生态系统总有机碳的 $9 7 . 8 4 \\%$ ,无机碳含量为4.$9 7 \\%$ 。植物地上生物量碳密度为 $2 7 6 . 4 8 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ，地上、调落物和地下生物量分别占 $6 2 . 0 9 \\%$ 、25.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$7 5 \\%$ 和 $1 2 . 1 6 \\%$ ，盐生植物地上地下生物量以及调落物平均碳含量为 $4 3 . 0 9 \\%$ ，略低于经验换算系数（ $45 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "［1]王苏民,窦鸿身．中国湖泊志[M]．北京：科学出版社，1998. [Wang Sumin,Dou Hongshen.Chinese Lake Records[M].Beijing:Science Press,1998.]   \n[2]郑绵平.论中国盐湖[J].矿床地质，2001,20（2)：181-189. [Zheng Mianping.On saline lakes of China[J].Mineral Deposits, 2001,20(2):181-189.]   \n[3] 马培华.科学开发我国的盐湖资源[J].化学进展,2009，21 (11）:2 349-2 357.[Ma Peihua.Sustainable exploitation and comprehensive utilization of salt lake resources in China[J].Progress in Chemistry,2009,21(11) :2 349 -2 357.]   \n[4]程芳琴，成怀刚,崔香梅.中国盐湖资源的开发历程及现状 [J].无机盐工业,2011,43（7）:1-4,12.[Cheng Fangqin, Cheng Huaigang,Cui Xiangmei.Development history and present status of salt lake resources in China[J].Inorganic chemicals industry,2011,43（7) :1-4,12.]   \n[5] 李康，王建平.中国锂资源开发利用现状及对策建议[J].资源 与产业,2016,18(1）:82-86.[Li Kang,WangJianping.China's lithium resource development actuality and approaches[J].Resources & Industries,2016,18(1):82-86.]   \n[6]凌智永,李廷伟，王建萍,等.近20 年来青藏高原盐湖沉积与环 境演化研究综述[J].地球与环境,2014,42（1)：25-33.[Ling Zhiyong,Li Yanwei,Wang Jianping,et al.A review on the saline sedimentation and environment evolution of Tibet plateau in recent 20 years[J].Earth and Environment,2014,42(1):25-33.]   \n[7]郑绵平,赵元艺,俊英.第四纪盐湖沉积与古气候[J].第四纪 研究,1998（4）:297-307.［Zheng Mianping,Zhao Yuanyi,Jun Ying. Quaternary saline lake deposition and paleo climate[J]. Quaternary sciences,1998（4）:297 -307.]   \n[8]曾方明.中国盐湖沉积年代学研究进展[J].盐湖研究,2016， 24(2）:37-43.[Zeng Fangming.Progress on dating deposits from Salt Lake in China[J]. Journal of Salt Lake Research,2016,24 (2):37 -43.]   \n[9]魏海成,樊启顺,安福元,等.94-9ka 查尔汗盐湖的气候环境演 化过程[J].地球学报,2016,37（2）:193－203.[Wei Haicheng, Fan Qishun,An Fuyuan,et al. Chemical elements in core sediments of the Qarhan Salt Lake and palaeo climate evolution during 94 - 9 ka[J].Acta Geoscientica Sinica.2016,37(2):193-203.]   \n[10］赵婉雨,杨渐,董海良,等.柴达木盆地达布逊盐湖微生物多样 性研究〔J].地球与环境,2013,41（4）:398－405.［Zhao Wanyu,Yang Jian,Dong Hailiang,et al.Microbial diversity in the hypersaline Dabuxun Lake in Qaidam Basin,China[J]. Earth and Environment,2013,41(4):398 -405.]   \n[11］李璐,郝春博,王丽华,等.巴丹吉林沙漠盐湖微生物多样性 [J].微生物学报,2015,55(4）:412-424.[LiLu,Hao Chunbo, Wang Lihua,etal.Microbial diversityof salt lakes in Badain Jaran desert[J].Acta Microbiologica Sinica,2015,55(4） :412-424.]   \n[12］房传苓,王秀君,王家平,等.新疆博斯腾湖湖周水体碳和盐离 子的空间分布[J].干旱区研究,2013,30（2）：226-230.［Fang Chuanling,Wang Xiujun,Wang Jiaping,etal.Spatialdistributions of organiccarbonanddissolvedionsintheBosten Lake,Xinjiang [J].Arid Zone Research,2013,30(2）:226 -230.]   \n[13]Chmura G L,Anisfeld S C,Cahoon D R,et al.Global carbon sequestration in tidal,saline wetland soils[J].Global Biogeochemistry Cycles,2003,17(4） :22.   \n[14]Li Y,Wang Y G,Houghton R A,et al. Hidden carbon sink beneath desert[J].Geophysical Research Letters,2015,42(14）:5 880 -5 887.   \n[15] Xie J,LiY,Zhai C,et al. CO $_ 2$ absorption byalkaline soilsand its implication to theglobal carbon cycle[J].Environmental Geology, 2009,56(5) :953 -961.   \n[16]Jasoni R L,Smith S D,Armone JA. Net ecosystem CO $^ 2$ exchange in Mojave Desert shrub lands during the eighth year of exposure to elevated $\\mathrm { C O } _ { 2 }$ [J]. Global Change Biology,2005,11,749-756.   \n[17]Jia X,Zha T S,Wu B,et al.Biophysical controls on net ecosystem （204号 $\\mathrm { C O } _ { 2 }$ exchange over a semiarid shrub land in northwest China[J]. Biogeosciences,2014,11,4 679 - 4 693.   \n[18]Liu R,Li Y,Wang Q X.Variations in water and $\\mathrm { C O } _ { 2 }$ fluxes over a saline desert in western China[J].Hydrological Processes,2012, 26(4) :513 -522.   \n[19］唐洪松,马惠兰,苏洋,等.新疆不同土地利用类型的碳排放与 碳吸收[J].干旱区研究,2016,33（3）:486-492.[Tang Hongsong,Ma Huilan,Su Yang,et al. Carbon emissions and carbon absorptions of diferent land use types in Xinjiang[J].Arid Zone Research,2016,33(3):486 -492.]   \n[20］郗金标,张福锁,毛达如,等.新疆盐生植物群落物种多样性及 其分布规律的初步研究[J].林业学报.2006,42（10）:6-12. [Xi Jinbiao,Zhang Fusuo,Mao Daru,et al. Species diversity and distribution of halophytic vegetation in Xinjiang[J].Scientia Silvae Sinicae,2006,42(10):6 -12.]   \n[21]杜泉滢,李智,刘书润,等.干旱、半干旱区湖泊周围盐生植物 群落的多样性格局及特点[J].生物多样性,2007,15（3）：271 -281.[Du Quanyin,Li Zhi,Liu Shurun,et al.Dynamics of species diversity and characteristics of halophytic plant communities around saline lakes in arid and semi-arid regions of Inner Mongolia [J]. Biodiversity Science,2007,15(3）:271-281.]   \n[22］王鑫,杨德刚,熊黑钢,等.新疆不同植被类型土壤有机碳特征 [J].干旱区研究,2017,34(4）:782-788.Wang Xin,Yang Degang,Xiong Heigang,et al. Characteristics of soil organic carbon under different vegetation types in Xinjiang[J].Arid Zone Research,2017,34(4) :782-788.]   \n[23］李建东,杨允菲.松嫩平原盐生群落植物的组合结构[J].草业 学报,2004,13（1）:32-38.[Li Jiandong,Yang Yunfei.Combinatorial structures of plant species in saline communities in the Songnen Plains of China[J].Acta Pratacultural Science,2004,13 (1) :32 -38.]   \n[24]王静娅,王明亮,张凤华.干旱区典型盐生植物群落下土壤微 生物群落特征[J].生态学报,2016,36（8）:2 363－2 372. [Wang Jingya,Wang Mingliang,Zhang Fenghua. Soil microbial properties under typical halophytic vegetation communities in arid regions[J].Acta Ecologica Sinica,2016,36(8）:2 363-2 372.]   \n[25］郭焱培,杨弦,安尼瓦尔·买买提,等.中国北方温带灌丛生态 系统碳、氮、磷储量[J].植物生态学报,2017,41(1)：14-21. [Guo Yanpei,Yang Xuan,Anwar Mohhamot,et al.Storage of carbon,nitrogen and phosphorus in temperate shrub land ecosystems across Northern China[J].Chinese Journal of Plant Ecology, 2017,41(1) :14 -21.]   \n[26］鲍士旦.土壤农化分析[M].北京:中国农业出版社,2000. [Bao Shidan.SoilAgricultural ChemistryAnalysis[M].Beijing: China Agricultural Science Press,2000.]   \n[27]Piao S,Fang J,Ciais P,et al.The carbon balance of terrestrial ecosystems in China[J].Nature,2009,458(7241）:1 009-1 013.   \n[28]黎英华,姚云峰,秦富仓,等.不同类型土壤的有机碳密度特征 [J].干旱区研究,2016,33(3）:455-460.[Li Yinghua,Yao Yunfeng,Qin Fucang,etal.Distribution of different types of soil organic carbon density[J].Arid Zone Research,2016,33(3）:455-460.]   \n[29]贾佳,白军红,高照琴,等.黄河三角洲潮间带盐沼土壤碳、氮 含量和储量[J].湿地科学,2015,13（6）:714-721.[Jia Jia, Bai Hongjun,Gao Zhaoqin,et al. Carbon and nitrogen contents and storages in the soils of intertidal salt marshes in the yellow river delta[J].Wetland Science,2015,13(6）:714-721.]   \n[30]严格,葛振鸣,张利权.崇明东滩湿地不同盐沼植物群落土壤碳 储量分布[J].应用生态学报,2014,25(1):85-91.[Yan Ge,Ge Zhenming,Zhang Liquan.Distribution of soil carbon storage in different saltmarsh plant communities in Chongming Dongtan wetland [J]. Chinese Journal of Applied Ecology,2014,25(1）:85-91.]   \n[31］刘钰,李秀珍,闫中正,等.长江口九段沙盐沼湿地芦苇和互花 米草生物量及碳储量[J].应用生态学报,2013,24（8）：2 129 -2 134.[Liu Yu,Li Xiuzhen,Yan Zhongzheng,et al. Biomass and carbon storage of Phragmites australis and Spartina alterniflora in Jiuduan Shoal Wetlandof Yangtze Estuary,East China[J]. 2013,24(8):2 129-2 134.]   \n[32]毛志刚,王国祥,刘金娥,等.盐城海滨湿地盐沼植被对土壤碳 氮分布特征的影响[J].应用生态学报,2009,20（2）：293- 297.[Mao Zhigang,Wang Guoxiang,Liu Jin’e,et al.Influence of salt marsh vegetation on spatial distribution of soil carbon and nitrogen in Yanchengcoastal wetland[J]. Chinese Journal of Applied Ecology,2009,20(2）:293-297.]   \n[33］贾瑞霞,仝川,王维奇,等.闽江河口盐沼湿地沉积物有机碳含 量及储量特征[J].湿地科学,2008,6（4）:492－499.［Jia Ruixia,Tong Chuan,Wang Weiqi,et al. Organic carbon contents and storages in the salt Marsh Sediments in the Min River Estuary ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[J].Wetland Science,2008,6(4） :492-499.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[34]张蔷，李家湘，徐文婷，等.中国亚热带山地杜鹃灌丛生物量分 配及其碳密度估算[J].植物生态学报，2017，41（1）：43－52. [Zhang Qiang,Li Jiaxiang,Xu Wenting,et al.Estimation of biomass allocation and carbon density of Rhododendron Simsii shrubland in the subtropical mountainous areas of China[J].Chinese Journal ofPlantEcology,2017,41（1）:43-52.]   \n[35]胡会峰，王志恒,刘国华，等.中国主要灌丛植被碳储量[J].植 物生态学报,2006,30（4）:539-544.[HuHui feng,Wang Zhiheng,Liu Guohua,et al.Vegetation carbon storage of major shrub lands in China[J].Acta Phytoecologica Sinica,2006,30(4）:539 -544.]   \n[36]WoodwellGM,WhittakerRH,ReinersWA,etal.Thebiota and the world carbon budget[J]. Science,1978,199（4 325）:141 - 146.   \n[37]崔光帅，张林，沈维，等.西藏雅鲁藏布江流域中段砂生槐灌丛 生物量分配及碳密度[J].植物生态学报，2017，41,53-61. [CuiGuangshuai,Zhang Lin,Shen Wei,et al.Biomass allocation and carbon density of Sophora moorcroftiana shrub lands in the middle reaches of Yarlung Zangbo River,Xizang,China[J].Chinese Journal ofPlant Ecology,2017,41（1）:53-61.]   \n[38]杨路存，李长斌,宁祎，等.青海省高寒金露梅灌丛碳密度及其 分配格局[J].植物生态学报，2017，41（1）：62-70.［YangLucun,Li Changbing,Ning Yi,et al.Carbon density and its spatial distribution in the Potentilla fruticosa dominated alpine shrub in Qinghai,China[J].Chinese Journal of Plant Ecology,2017,41 (1):62-70.] [39]YangYH,FangJY,Pan YD,etal.Aboveground biomass in Tibetan grasslands[J]. Journal of Arid Environments,20o9,73:91-   \n95. [40］白永飞.降水量季节分配对克氏针茅草原群落初级生产力的 影响[J].植物生态学报,1999,23(2）:155-160.[BaiYongfei. Influence of seasonal distribution of precipitation on primary productivity of Stipa krylovii community[J].Acta Phytoecologica Sinica,1999,23(2):155-160.] [41]李扬,孙洪仁，沈月，等.紫花苜蓿根系生物量垂直分布规律 [J].草地学报,2012,20（5）:793-799.[Li Yang,Sun Hongren,Shen Yue,et al.The vertical distribution pattern of Alfalfa's (Medicago sativa L.）root biomass[J].Acta Agrestia Sinica,   \n2012，20(5):793-799.] [42]张华新，刘正祥,刘秋芳.盐胁迫下树种幼苗生长及其耐盐性 [J].生态学报，2009，29（5）:2263-2271.[ZhangHuaxin，Liu Zhengxiang,Liu Qiufang.Seedling growth and salt tolerance of tree species under NaCl stress[J].Acta Ecologica Sinica,2009,29 (5):2 263 -2 271.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ecosystem Carbon Density and Its Distribution Pattern in Saline Region ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "I Dianpeng,SUN Tao,YAO Meisi,LIU Suiyunhao,WANG Liping,WANG Hui,JIA Hongta( College of grassland and environment sciences,Xinjiang agricultural university,Urumqi 83oo52,China ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Saline vegetation inarid areas are widely distributedandthe species is numerous,which plays an important role in the ecosystem carbon balance and regional climate regulation.This paper uses the method of combining the field investigationand indoor analysis,Dabancheng saline lake in Xinjiang as the research object,to study thecharacteristics of carbon density distribution of saline vegetation and soil in arid areas.The results showed that, soil organic carbon density distribution decreased with increasing soil depth,which is between $7 . 5 5 \\sim 1 5 . 7 5 ~ \\mathrm { k g } ~ \\cdot$ （204号 $\\mathrm { ~ m ~ } ^ { - 2 }$ within $0 \\sim 1 0 0 \\ \\mathrm { c m }$ ,average value is $1 2 . 5 4 ~ \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ ,that accounts for $9 7 . 8 4 \\%$ total organic carbon density of plant community andsoil.Black fruit wolfberry and bellthorn are dominant species for saline communities,their ground biomass is $2 6 1 . 3 8 \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ , which accounts for $7 0 . 4 9 \\%$ of the total biomass.Herbaceous plant community biomass is $1 0 9 . 4 5 \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ that is significantly higher than aboveground biomass of shrub $\\left( 8 4 . 8 1 \\pm 9 . 2 2 \\right.$ ） $\\mathrm {  ~ g ~ } \\cdot \\mathrm {  ~ m ~ } ^ { - 2 }$ and herb layer ( $( 7 9 . 7 6 \\pm 8 . 6 1 \\$ ） $\\mathbf { g } \\cdot \\mathbf { m } ^ { - 2 }$ . Halophytes underground biomass decreased with increasing of soil layer, underground total biomass is $7 7 . 7 4 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ within $0 \\sim 1 0 0$ cm soil layer. Halophytes total biomass carbon density is $2 7 6 . 4 8 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ， ground，litter and underground biomass accounts for $6 2 . 0 9 \\%$ ， $2 5 . 7 5 \\%$ and $2 5 . 7 5 \\%$ respectively.The ground vegetationand liter carbon densityis significantly higher than that herb,root biomasscarbon density distribution in the section, $9 6 . 5 5 \\%$ concentrated in $\\mathrm { ~ 0 ~ } \\sim 5 0 ~ \\mathrm { c m }$ soil layer. The average (it contains underground, ground，and litter）carbon content of halophytes is $4 3 . 0 9 \\%$ ；carbon density by experience conversion coefficient （ $50 \\%$ ）is higher $1 3 . 8 0 \\%$ than the actual，which will produce larger deviation in estimating vegetation carbon.Arid saline vegetation，soil carbon density of exploration for plant protection and enhance the carbon sequestration potential in arid areas to provide data support. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:soil organic carbon；inorganic carbon；soil carbon density；biomasscarbon density；saline ecosystem；distribution pattern ",
+        "page_idx": 7
+    }
+]

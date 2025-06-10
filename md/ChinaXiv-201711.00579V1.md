@@ -1,0 +1,264 @@
+（1.湖南省水产科学研究所，长沙 410153；2.水产高效健康生产湖南省协同创新中心，常德
+
+摘要：为了对光倒刺鲲（Spinibarbus hollandi）鱼卵的营养品质进行评价，本试验采用常规方法对光倒刺鳄鱼卵的一般营养成分含量、氨基酸组成、脂肪酸组成和微量元素含量进行了测定。结果表明：光倒刺鳃鱼卵（鲜样）中粗蛋白质含量 $2 7 . 6 6 \%$ 、粗脂肪含量 $3 . 1 8 \%$ 、水分含量 $6 4 . 2 6 \%$ 、粗灰分含量 $3 . 0 9 \%$ 。光倒刺钯鱼卵共检测出17种氨基酸，其中必需氨基酸（EAA）7种，非必需氨基酸(NEAA)10 种，其中总氨基酸（TAA）含量为 $2 3 . 2 1 \%$ ，EAA含量为 $9 . 2 8 \%$ ，NEAA含量为 $1 3 . 9 3 \%$ ；EAA的构成比例符合FAO/WHO 的标准，分别以氨基酸评分（AAS）和化学评分（CS）来评价，第一限制性氨基酸均为蛋氨酸十半胱氨酸，第二限制性氨基酸均为苯丙氨酸 $^ { \circ } +$ 酪氨酸。必需氨基酸指数（EAAI）为 $5 9 . 2 6 \%$ 。光倒刺鱼卵共检测出11种脂肪酸，其中3种饱和脂肪酸（SFA）、3种单不饱和脂肪酸(MUFA)、5种多不饱和脂肪（PUFA），分别占脂肪酸总量的 $2 2 . 6 8 \%$ 、 $4 8 . 4 0 \%$ 、 $2 8 . 9 3 \%$ ;C20:5n-3(EPA)+C22:6n-3(DHA)占脂肪酸总量的 $8 . 5 3 \%$ 。光倒刺鲲鱼卵中微量元素铜、锌、铁、锰、硒含量丰富，其中锌、铁含量分别高达 $9 0 . 9 8 6 ~ 5 . ~ 3 1 . 3 8 6 ~ 3 ~ \mathrm { m g / k g }$ 。由此得出，光倒刺鲲鱼卵营养价值丰富，有较高的综合开发利用价值。  
+关键词：光倒刺；鱼卵；氨基酸；脂肪酸；微量元素；营养评价
+
+中图分类号：S917.4 文献标识码：A 文章编号：
+
+光倒刺鲍（Spinibarbus hollandi)，又名刺鳃或黑脊倒刺鲲（Spinibarbus caldwelli）[1-2],俗称青鳟、钟、青娟、坑坚、黄坚、光眼鱼等，属鲤科亚科倒刺鳃属，为杂食性鱼类，常以小鱼、小虾、水生昆虫、蓝绿藻、有机碎屑等为食[3]，分布于长江、钱塘江、闽江、九龙江、珠江、沅江、台湾岛及海南岛等各水系[4]。光倒刺钯是湖南省“湘、资、沅、澧”四水上流的主要经济鱼类，在20世纪80年代，每年捕捞产量有数千吨之多，由于水利工程建设、环境恶化等因素，其产卵和摄食场所遭到破坏，现年捕捞产量已降到不足200t，并已于 2013 年被世界自然保护联盟列入濒危物种红皮书，因此加强对光倒刺鳃资源保护和人工繁殖方面的研究已经迫在眉睫。  
+目前有关光倒刺鳃的研究主要集中在生物学特性[4-6]、人工繁殖[7-8]、生殖细胞的基因克隆与表达[9-10]、苗种培育技术[1-12]、养殖技术[13-16]、品种鉴定[3.17]、营养需要[18]等方面，在刺鳄营养成分方面[19-23]虽然也已开展了一些研究工作，但仅局限于光倒刺靶的肌肉，而光倒刺钯鱼卵的营养成分及营养价值分析至今未见报道。鱼卵的营养成分除了可以作为评价鱼子酱品质的重要指标外，还可以作为确定仔稚鱼营养需求的参考依据[24]，因此研究光倒刺鱼卵的营养成分对其人工繁殖有重要意义。光倒刺鳃雌鱼性成熟年龄在 $^ { 3 + }$ 龄左右，其绝对怀卵量为1.43万\~3.10 万粒，相对怀卵量为19.32\~21粒/g，卵径 $0 . 8 { \sim } 2 . 1 \ \mathrm { m m } ^ { [ 4 ] }$ 。光倒刺鱼卵的卵径小于绒杜父鱼卵（ $4 \mathrm { m m }$ )、中华鲟鱼卵（ $5 { \sim } 6 \mathrm { m m }$ ）和达氏蝗卵（ $2 . 5 { \sim } 3 . 5 \ \mathrm { m m }$ ）[25],相对通常用来加工鱼子酱的鲟鱼卵和鲑鳟类鱼卵，光倒刺的怀卵量和卵径都较小，并且由于目前光倒刺钯资源量还相对较小，因此不建议其用来制作鱼子酱。目前，国内外一些学者通过研究养殖鱼类鱼卵的营养成分来确定其仔稚鱼人工配合饲料中营养素含量及比例。例如：杨晶晶等[24通过对绒杜父鱼卵营养成分分析，提出了其仔稚鱼部分营养素的理论需求
+
+量。Pousao-Ferreira 等[26]通过研究金头鲷(Sparus aurata L.)鱼卵中蛋白质含量确定了其仔稚鱼养殖时对蛋白质的需求量。Sargent 等[27]认为，海水鱼卵中脂类的含量和组成相当于仔稚鱼的脂类需求量。Mourente 等[28]测定分析了塞内加尔鳎(Solea senegalensis Kaup)鱼卵中脂类及脂肪酸含量，并以此确定了投喂塞内加尔鳎的人工配合饲料中各脂肪酸的比例。本研究拟对光倒刺鱼卵的一般营养成分含量、氨基酸组成、脂肪酸组成、微量元素含量进行测定及分析，以期了解光倒刺鲲鱼卵的营养价值，更好地为其综合开发利用及其仔稚鱼开口饵料研发提供基础资料。
+
+1材料与方法
+
+1.1 试验材料
+
+2014年10月从湖南省怀化市芷江某水库网箱养殖基地获取性成熟雌性光倒刺5尾，体重 $( 1 ~ 3 1 9 . 4 { \pm } 6 7 . 2 ) ~ \mathrm { g }$ ，体长 $( 4 7 . 5 \pm 2 . 5 ) \$ cm。
+
+# 1.2 试验方法
+
+# 1.2.1 样品制备
+
+通过解剖，取出5尾性成熟雌性光倒刺鳃的鱼卵，捣碎、混合均匀。样品于-80℃冷冻保存，用于一般营养成分含量、氨基酸组成、脂肪酸组成、矿物元素含量的测定。
+
+# 1.2.2一般营养成分含量测定
+
+水分含量采用（ $1 0 5 { \pm } 2$ ）℃常压烘干法(GB/T5009.3-2010)测定；粗蛋白质含量采用凯氏定氮法(GB/T5009.5-2010)测定，测定仪器为丹麦FOSS Kjeltec 8400 全自动凯氏定氮仪;粗脂肪含量采用索氏抽提法(GB/T5009.6-2003)测定，测定仪器为丹麦FOSS索氏抽提器；粗灰分.含量采用550℃马福炉灼烧法(GB/T5009.4-2010)测定
+
+# 1.2.3 氨基酸组成测定
+
+氨基酸组成测定依据程小飞等[29]的方法，具体操作：取新鲜样品 $0 . 5 \mathrm { ~ g ~ }$ ，用 $6 \mathrm { m o l / L }$ 的2盐酸于110℃下水解 $2 2 \mathrm { h }$ ，过滤定容至 $5 0 ~ \mathrm { m L }$ ，取 $0 . 5 ~ \mathrm { m L }$ 真空干燥制作成样品，使用氨基
+
+酸自动分析仪(Beckman@，121MB，美国)测定样品氨基酸组成及含量。
+
+# 1.2.4 脂肪酸组成测定
+
+脂肪酸测定依据 Tian等[30的方法，具体操作：将样品放入组织捣碎机中搅碎后，称取$_ { 0 . 3 \sim 0 . 5 \mathrm { ~ g ~ } }$ 于 $1 0 ~ \mathrm { m L }$ 离心管中，加入甲醇：氯仿（1:2） $5 ~ \mathrm { m L }$ ，摇床内摇动1h，定量滤纸过滤，加 $4 ~ \mathrm { m L }$ 蒸馏水， $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $5 ~ \mathrm { m i n }$ ，去上清，下层用水浴锅负压抽干（ $4 0 \ { ^ \circ \mathrm { C } } \ { }$ )随后加入1mL色谱纯正己烷将油脂溶解，加 $1 \mathrm { m L 0 . 4 m o l / L }$ 氢氧化钾-甲醇溶液静置 $3 0 \mathrm { m i n }$ 进行甲酯化，之后加 $2 { \mathrm { m L } }$ 去离子水，待分层后提取上层溶液在气相色谱仪（安捷伦7820a,安捷伦科技,美国)上进行测定。气相色谱条件： $3 0 \mathrm { m } { \times } 0 . 3 2 0 \mathrm { m m } { \times } 0 . 2 5 \mathrm { \mu m }$ Agilent 19091J-413GC Columns，柱箱温度 $2 1 0 \mathrm { ~ \textdegree ~ }$ ，检测器温度(FID)300 $\mathrm { { } ^ { \circ } C }$ ，进样器温度 $2 5 0 \mathrm { ~ \textdegree C }$ ，载气为高纯氮气，尾吹 $3 0 \mathrm { m L } / \mathrm { m i n }$ ，氢气 $4 0 \mathrm { m L / m i n }$ ，空气 $4 5 0 \mathrm { m L / m i n }$ 。
+
+按面积归一化法计算不同脂肪酸组分的含量，以占脂肪酸总量的百分比的形式呈现
+
+# 1.2.5矿物元素含量测定
+
+送样至农业部渔业质量监督检验测试中心（长沙），将样品进行干法消化，利用原子吸收分光光度计测定矿物元素含量。
+
+# 1.3仔稚鱼对饲料中营养素理论需求量的计算方法
+
+光倒刺仔稚鱼饲料中营养素的理论需要量计算方法参照杨晶晶等[24]，即：将光倒刺鱼卵中粗蛋白质和粗脂肪含量换算为干物质基础后即得出光倒刺仔稚鱼对饲料中蛋白质和脂肪的理论需求量;根据鱼卵干物质中粗蛋白质含量将各氨基酸含量换算成以干物质基础百分比表示;根据鱼卵干物质中粗脂肪含量将各脂肪酸含量换算成以干物质基础百分比表示；根据鱼卵干物质中粗灰分含量将各微量元素含量换算成以干物质基础百分比表示。
+
+# 1.4营养品质的评价方法
+
+根据联合国粮农组织/世界卫生组织(FAO/WHO)1973 年建议的氨基酸评分标准模式[31]
+
+和全鸡蛋蛋白质的氨基酸模式[32]，按参考文献[33]中的公式分别计算氨基酸评分（AAS)、化学评分（CS）和必需氨基酸指数(EAAI):
+
+$$
+A A S = { \frac { a a } { A A _ { ( F A O / } \ l { W H O } ) } } ;
+$$
+
+$$
+C S = { \frac { a a } { A A _ { ( E g g ) } } } ;
+$$
+
+$$
+E A A I = \sqrt [ n ] { \frac { 1 0 0 A } { A _ { \scriptscriptstyle E } } \times \frac { 1 0 0 B } { B _ { \scriptscriptstyle E } } \times \frac { 1 0 0 C } { C _ { \scriptscriptstyle E } } \times . . . \times \frac { 1 0 0 H } { H _ { \scriptscriptstyle E } } } \mathrm { ~ } _ { \mathrm { ~ o ~ } }
+$$
+
+式中： $a a$ 为试验样品氨基酸含量 $( \%$ )； $\ A A$ (FAO/WHO)为FAO/WHO评分标准模式中同种氨基酸含量 $( \% )$ ; $A A _ { \mathrm { ( E g g ) } }$ 为全鸡蛋蛋白质中同种氨基酸含量 $( \%$ )； $n$ 为比较的必需氨基酸数； $A$ ， $B$ ， $C$ ，……， $H$ 为样品蛋白质中比较的必需氨基酸含量（ $\%$ ，干物质基础)； $\boldsymbol { A } _ { \mathrm { E } }$ BE， $C _ { \mathrm { E } }$ ，……， $H _ { \mathrm { E } }$ 为全鸡蛋蛋白质中对应的必需氨基酸含量（ $\%$ ，干物质基础)。
+
+# 1.5 数据统计
+
+试验中各组数据描述性数值均用平均值±标准差表示（mean±SD)，采用Excel2003和SPSS18.0统计软件进行数据分析。
+
+2结果与分析
+
+2.1光倒刺鲍鱼卵的一般营养成分含量
+
+由表1可知，光倒刺鳃鱼卵（鲜样）中水分含量为 $6 4 . 2 6 \%$ ，粗蛋白质含量为 $2 7 . 6 6 \%$ ，粗脂肪含量为 $3 . 1 8 \%$ ，粗灰分含量为 $3 . 0 9 \%$ 。
+
+# 表1光倒刺鱼卵的一般营养成分含量 (鲜重基础)
+
+Table 1 Common nutritional component contents of eggs of Spinibarbus hollandi ( $_ { n = 5 }$ ,fresh
+
+<html><body><table><tr><td>项目</td><td>水分</td><td>粗蛋白质</td><td>粗脂肪</td><td>粗灰分</td></tr><tr><td>Item</td><td>Moisture</td><td>Crude protein</td><td>Crude fat</td><td>Ash</td></tr><tr><td>含量Content</td><td>64.26±0.69</td><td>27.66±0.21</td><td>3.18±0.98</td><td>3.09±0.06</td></tr></table></body></html>
+
+# 2.2光倒刺鲲鱼卵的氨基酸组成
+
+由表2可知，在鱼卵中共检测出17种氨基酸（色氨酸因酸水解未检出)，包括7种必需氨基酸（essential amino acids,EAA)和10 种非必需氨基酸(nonessential amino acids,NEAA），总氨基酸（total amino acids，TAA）含量高达 $2 3 . 2 1 \%$ 。17种氨基酸中含量最高的为谷氨酸（ $3 . 5 0 \%$ )，其次为脯氨酸（ $2 . 4 6 \%$ ）、亮氨酸 $( 2 . 1 9 \% )$ 、赖氨酸 $( 1 . 7 3 \% )$ ，半胱氨酸含量（ $( 0 . 2 8 \%$ ）最低；EEA含量为 $9 . 2 8 \%$ ，NEEA含量为 $1 3 . 9 3 \%$ ，鲜味氨基酸（delicious amino acids，DAA）含量为 $7 . 4 7 \%$ ，EAA与TAA的比率为 $3 9 . 9 8 \%$ ，EAA与的 NEAA比率为 $6 6 . 6 2 \%$ ，DAA与TAA的比率为 $3 2 . 1 8 \%$ 。
+
+# 表2光倒刺鲲鱼卵的氨基酸组成 (鲜重基础)
+
+%
+
+Table 2Amino acid composition of eggs of Spinibarbus hollandi (fresh weight basis)   
+
+<html><body><table><tr><td>氨基酸 Amino acids</td><td>含量Content</td><td>氨基酸 Amino acids</td><td>含量Content</td></tr><tr><td>天冬氨酸 Asp#</td><td>1.60</td><td>酪氨酸Tyr</td><td>0.77</td></tr><tr><td>苏氨酸 Thr*</td><td>1.18</td><td>苯丙氨酸 Phe*</td><td>0.89</td></tr><tr><td>丝氨酸 Ser</td><td>1.14</td><td>赖氨酸Lys*</td><td>1.73</td></tr><tr><td>谷氨酸 Glu#</td><td>3.50</td><td>组氨酸 His</td><td>0.48</td></tr><tr><td>脯氨酸Pro</td><td>2.46</td><td>精氨酸Arg</td><td>1.33</td></tr></table></body></html>
+
+<html><body><table><tr><td>甘氨酸 Gly#</td><td>0.65</td><td>总氨基酸 TAA</td><td>23.21</td></tr><tr><td>丙氨酸 Ala#</td><td>1.72</td><td>必需氨基酸EAA</td><td>9.28</td></tr><tr><td>半胱氨酸 Cys</td><td>0.28</td><td>鲜味氨基酸DAA</td><td>7.47</td></tr><tr><td>氨酸Val*</td><td>1.56</td><td>非必需氨基酸 NEAA</td><td>13.93</td></tr><tr><td>蛋氨酸Met*</td><td>0.40</td><td>必需氨基酸与非必需氨基</td><td></td></tr><tr><td rowspan="2">异亮氨酸Ile*</td><td></td><td>酸的比率 EAA/NEAA</td><td>66.62</td></tr><tr><td>1.33</td><td>必需氨基酸与总氨基酸的</td><td></td></tr><tr><td rowspan="2">亮氨酸Leu*</td><td></td><td>比率EAA/TAA</td><td>39.98</td></tr><tr><td>2.19</td><td>鲜味氨基酸与总氨基酸的</td><td></td></tr><tr><td></td><td></td><td>比率DAA/TAA</td><td>32.18</td></tr></table></body></html>
+
+※表示人体必需氨基酸，#表示鲜味氨基酸。
+
+※mean essential amino acids for human; # mean delicious amino acids.
+
+# 2.3光倒刺鱼卵氨基酸营养品质评价
+
+根据 FAO/WHO 建议的氨基酸评分标准模式和全鸡蛋蛋白质的氨基酸模式，计算出光倒刺鲲的AAS、CS和EAAI，如表3所示。依据 AAS，分数最低的是蛋氨酸 $^ +$ 半胱氨酸，为0.54，其次是苯丙氨酸 $^ +$ 酪氨酸，为0.76，分数最高的是异亮氨酸，为0.93；依据CS，分数最低的是蛋氨酸 $^ +$ 半胱氨酸，为0.31，其次是苯丙氨酸 $^ +$ 酪氨酸，为0.51，分数最高的是亮氨酸，为0.72。可见，依据AAS 和CS，光倒刺鳃鱼卵的第一限制性氨基酸均为蛋氨酸 $^ +$ 半胱氨酸，第二限制性氨基酸均为苯丙氨酸 $^ +$ 酪氨酸。光倒刺鳃鱼卵的EAAI为 $5 9 . 2 6 \%$ 。
+
+# 表3光倒刺鲲鱼卵的氨基酸评分、化学评分及必需氨基酸指数
+
+Table 3AAS,CS and EAAI of eggs of Spinibarbus hollandi   
+
+<html><body><table><tr><td>氨基酸</td><td>光倒刺鱼卵</td><td>FAO/WHO标准模式</td><td>全鸡蛋蛋白质</td><td>氨基酸评分</td><td>化学评分</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>Amino acids</td><td>Eggs of Spinibarbus</td><td>FAO/WHO</td><td>Whole egg</td><td>AAS</td><td>CS</td></tr><tr><td>异亮氨酸 Ile</td><td></td><td></td><td>Protein</td><td></td><td></td></tr><tr><td>亮氨酸Leu</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>赖氨酸Lys</td><td></td><td></td><td></td><td>0.89</td><td></td></tr><tr><td>苏氨酸Thr</td><td>206.35</td><td>250</td><td></td><td></td><td></td></tr><tr><td>氨酸Val</td><td>272.80</td><td>310</td><td></td><td>0.88</td><td>0.66</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>118.91</td><td>220</td><td>386</td><td>0.54*</td><td>0.31*</td></tr><tr><td>苯丙氨酸+酪氨酸 Phe+Tyr</td><td>290.29</td><td>380</td><td>565</td><td>0.76**</td><td>0.51**</td></tr><tr><td>合计</td><td>1 806.43</td><td>2 190</td><td>2 960</td><td></td><td></td></tr><tr><td>必需氨基酸指数EAAI/%</td><td>59.26</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+\*表示第一限制性氨基酸；\*\*表示第二限制性氨基酸。
+
+\* mean the first limiting amino acid; \*\*mean the second limiting amino acid.
+
+# 2.4光倒刺鲲鱼卵的脂肪酸组成
+
+由表4可知，光倒刺钯鱼卵中含有11种脂肪酸：3种饱和脂肪酸(SFA)，占脂肪酸总量的 $2 2 . 6 8 \%$ ；3种单不饱和脂肪酸(MUFA)，占脂肪酸总量的 $4 8 . 4 0 \%$ ；5种多不饱和脂肪酸(PUFA)，占脂肪酸总量的 $2 8 . 9 3 \%$ 。脂肪酸组分中以C16:0、C18:1n-9、C18:2n-6、C20:4n-6、C22:6n-3(DHA)为主，共占脂肪酸总量的 $9 0 . 1 1 \%$ 。鱼卵中 C20:5n-3(EPA)和 C22:6n-3(DHA)含量也相对较高，其中EPA占脂肪酸总量的 $1 . 8 0 \%$ ,DHA占脂肪酸总量的 $6 . 7 3 \%$ ,EPA+DHA占脂肪酸总量的 $8 . 5 3 \%$ 。n-3 PUFA占脂肪酸总量的 $8 . 9 6 \%$ $\mathrm { n } { - } 6$ PUFA占脂肪酸总量的 $1 9 . 9 7 \%$ ，表4光倒刺鱼卵的脂肪酸组成 (鲜重基础，占脂肪酸总量的百分比）
+
+percentage in total fatty acids)
+
+%
+
+Table 4Fatty acid composition of eggs of Spinibarbus hollandi ( $\scriptstyle \cdot = 3$ , fresh weight basis,   
+
+<html><body><table><tr><td>脂肪酸</td><td>含量</td><td>脂肪酸</td><td>含量</td></tr><tr><td>Fatty acids</td><td>Content</td><td>Fatty acids</td><td>Content</td></tr><tr><td>C14:0</td><td>1.07±0.03</td><td>C20:4n-6</td><td>9.31±0.26</td></tr><tr><td>C16:0</td><td>21.29±0.50</td><td>C20:5n-3 (EPA)</td><td>1.80±0.57</td></tr><tr><td>C18:0</td><td>0.32±0.02</td><td>C22:6n-3 (DHA)</td><td>6.73±0.18</td></tr><tr><td>SFA</td><td>22.68±0.52</td><td>EPA+DHA</td><td>8.53±0.73</td></tr><tr><td>C16:1n-7</td><td>5.01±0.14</td><td>PUFA</td><td>28.93±1.03</td></tr><tr><td>C18:1n-9</td><td>42.12±1.53</td><td>HUFA</td><td>17.84±0.81</td></tr><tr><td>C20:1n-9</td><td>1.27±0.10</td><td>n-3PUFA</td><td>8.96±0.71</td></tr><tr><td>MUFA</td><td>48.40±1.53</td><td>n-6 PUFA</td><td>19.97±0.52</td></tr><tr><td>C18:2n-6</td><td>10.66±0.27</td><td>n-3/n-6</td><td>0.45±0.03</td></tr><tr><td>C18:3n-3</td><td>0.43±0.02</td><td></td><td></td></tr></table></body></html>
+
+140 SFA：饱和脂肪酸，包括C14:0、C16:0、C18:0；MUFA：单不饱和脂肪酸，包括C16:1n-7、C18:1n-9、C20:1n-9；PUFA：多不饱和脂肪酸，包括C18:2n-6、C18:3n-3、C20:4n-6、C20:5n-3、C22:6n-3；HUFA:
+
+高不饱和脂肪酸，包括C20:4n-6、C20:5n-3、C22:6n-3；n-3 PUFA包括C18:3n-3、C20:5n-3、C22:6n-3；n-6 PUFA 包括C18:2n-6、C20:4n-6。 SFA: saturated fatty acids,included C14:0, C16:0 and C18:O; MUFA: mono-unsaturated fatty acids, ncluded C16:1n-7, C18:1n-9 and C20:1n-9; PUFA: polyunsaturated fatty acids, included C18:2n-6,C18:3n-3,C20:4n-6, C20:5n-3 and C22:6n-3;HUFA: highly unsaturated fatty acids,included C20:4n-6, C20:5n-3 and C22:6n-3; n-3 PUFA included C18:3n-3, C20:5n-3 and C22:6n-3; n-6 PUFA included C18:2n-6 and C20:4n-6.
+
+# 2.5光倒刺鲍鱼卵的微量元素含量
+
+由表5可知，鱼卵中检测出铜、锌、铁、锰、硒5种微量元素，其中锌含量最高，为90.9865mg/kg，其次是铁，含量为 $3 1 . 3 8 6 3 \mathrm { m g / k g }$ ，铜和锰含量较少，分别为1.4220、0.455$9 \mathrm { m g / k g }$ ，硒含量最少，为 $0 . 1 1 1 5 \mathrm { m g / k g }$
+
+# 表5光倒刺鲲鱼卵微量元素的含量(鲜重基础)
+
+Table 5Trace element contents of eggs of Spinibarbus hollandi (fresh weight basis) $\mathrm { m g / k g }$   
+
+<html><body><table><tr><td>微量元素</td><td>铜Cu</td><td>锌Zn</td><td>铁Fe</td><td>锰Mn</td><td>硒Se</td></tr><tr><td>Trace element</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>含量</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1.422 0</td><td>90.986 5</td><td>31.386 3</td><td>0.455 9</td><td>0.111 5</td></tr><tr><td>Content</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+42.6光倒刺仔稚鱼对饲料中部分营养素的理论需求量
+
+由表6可知，光倒刺鳃仔稚鱼对饲料中蛋白质和脂肪的理论需求量分别为 $7 7 . 3 9 \%$ 和$8 . 9 0 \%$ 。由于光倒刺鳃鱼卵中C16:0 和C18:1n-9含量较高，建议仔稚鱼饲料中的棕榈酸和油酸含量与鱼卵接近，即分别为 $1 . 8 9 \%$ 和 $3 . 7 5 \%$ ，而鱼卵中EPA和DHA含量相对较低，建议仔稚鱼饲料中EPA和DHA含量分别为 $0 . 1 6 \%$ 和 $0 . 6 0 \%$ 。光倒刺鲲仔稚鱼饲料中氨基酸的理论需要量的见表7，其中蛋氨酸、半胱氨酸、苯丙氨酸、酪氨酸为鱼卵中的主要限制性氨基酸，建议仔稚鱼饲料中蛋氨酸、半胱氨酸、苯丙氨酸和酪氨酸含量不小于鱼卵中相应的含量，即分别不小于 $1 . 1 2 \%$ 、 $0 . 7 8 \%$ 、 $2 . 4 9 \%$ 、 $2 . 1 5 \%$ 。光倒刺鲀仔稚鱼饲料中微量元素的理论需要量的见表8,建议光倒刺钯仔稚鱼饲料中铜、锌、铁、锰、硒的含量分别控制在为6.240 2、399.2806、137.7341、2.000 6、0.489 3 mg/kg 。
+
+# 表6光倒刺仔稚鱼对饲料中部分营养素的理论需求量(干物质基础)
+
+Table 6Theoretical requirements of part nutrients in diets of Spinibarbus hollandi larvae   
+(DM basis) %   
+
+<html><body><table><tr><td>项目 Item</td><td>蛋白质 Protein</td><td>脂肪 Fat</td><td>C16:0</td><td>C18:1n-9</td><td>C20:5 n-3</td><td>C22:6 n-3</td><td>n-3/n-6</td></tr><tr><td>理论需求量</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+Table 7Theoretical requirements of amino acids in diets of Spinibarbus hollandi larvae (DM
+
+basis) %
+
+表7光倒刺仔稚鱼对饲料中氨基酸的理论需求量(干物质基础)  
+
+<html><body><table><tr><td rowspan="2">氨基酸 Amino acids</td><td rowspan="2">理论需求量 Theoretical requirement</td><td colspan="2"></td></tr><tr><td>氨基酸 Amino acids</td><td>Theoretical requirement</td></tr><tr><td>天冬氨酸 Asp</td><td>4.48</td><td>酪氨酸Tyr</td><td>2.15</td></tr><tr><td>苏氨酸 Thr</td><td>3.30</td><td>苯丙氨酸 Phe</td><td>2.49</td></tr><tr><td>丝氨酸 Ser</td><td>3.19</td><td>赖氨酸Lys</td><td>4.84</td></tr><tr><td>谷氨酸 Glu</td><td>9.79</td><td>组氨酸 His</td><td>1.34</td></tr><tr><td>脯氨酸 Pro</td><td>6.88</td><td>精氨酸Arg</td><td>3.72</td></tr></table></body></html>
+
+<html><body><table><tr><td>甘氨酸 Gly</td><td>1.82</td><td>总氨基酸 TAA</td><td>64.94</td></tr><tr><td>丙氨酸 Ala</td><td>4.81</td><td>必需氨基酸 EAA</td><td>25.96</td></tr><tr><td>半胱氨酸Cys</td><td>0.78</td><td>鲜味氨基酸DAA</td><td>20.90</td></tr><tr><td>氨酸Val</td><td>4.36</td><td>非必需氨基酸 NEAA</td><td>38.97</td></tr><tr><td>蛋氨酸 Met</td><td></td><td>必需氨基酸与非必需氨基酸的比率</td><td></td></tr><tr><td></td><td>1.12</td><td>EAA/NEAA</td><td>66.62</td></tr><tr><td>异亮氨酸Ile</td><td>3.72</td><td>必需氨基酸与总氨基酸的比率</td><td>39.98</td></tr><tr><td>亮氨酸Leu</td><td>6.13</td><td>鲜味氨基酸与总氨基酸的比率</td><td>32.18</td></tr></table></body></html>
+
+<html><body><table><tr><td>171</td><td colspan="5">表8光倒刺仔稚鱼对饲料中微量元素的理论需求量(干物质基础，mg/kg)</td></tr><tr><td>172</td><td colspan="5">Table 8 Theoretical requirements of trace element in diets of Spinibarbus hollandi larvae (DM</td></tr><tr><td>173</td><td colspan="5">basis,mg/kg)</td></tr><tr><td>微量元素 Trace elements</td><td>铜Cu</td><td>锌Zn</td><td>铁Fe</td><td>锰Mn</td><td>硒Se</td></tr><tr><td>理论需求量</td><td>6.240 2</td><td>399.280 6</td><td>137.734 1</td><td>2.000 6</td><td>0.489 3</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Theoretical requirement</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+174 3讨论
+
+人体所需六大营养素中价格成本最高的是蛋白质，其次是脂肪，同时这2种物质含量也是评价动物产品营养价值高低的主要因素之一[34-35]。蛋白质具有促进人体生长发育、修补受损细胞、提供能量的作用，是动物生长和维持生命的必需营养素。光倒刺鲲鱼卵中粗蛋白质含量高达 $2 7 . 6 6 \%$ ，虽然低于太门哲罗鲑（Hucho taimen）（ $3 3 . 4 5 \%$ ）[36]、黑龙江茴鱼(Thymallus arcticus grubei) ( $3 1 . 5 7 \%$ ）[37]、虹鳟(Oncorhynchus mykiss Walbaum）（ $3 2 . 0 2 \%$ ）[38]等的鱼卵，但却明显高于绒杜父鱼（Hemitripterus villosus）（ $1 7 . 2 6 \%$ ）[24]、施氏鲟(Acipenser schrenckii) ( $2 0 . 7 0 \%$ ）[39]、西伯利亚鲟（Acipenser baeri) $2 2 . 6 0 \% ^ { [ 3 9 ] }$ 或
+
+$2 0 . 3 8 \% ^ { [ 4 0 ] }$ ）、小体鲟 Acipenser ruthenus）（ $1 8 . 4 0 \%$ ）[39]、俄罗斯鲟(Acipenser gueldenstaedti)（ $2 0 . 7 7 \%$ )[40]、金鳟（Oncorhynchus mykiss） $2 5 . 9 4 \%$ )[41]、高白鲑(Coregonus peled)( $2 4 . 1 6 \%$ ）[42]、凹目白鲑(Coregonus autumnalis）（ $2 4 . 4 8 \%$ ）[42]等的鱼卵。脂肪是动物贮存热量、构成组织细胞所必需的重要基本营养物质，光倒刺鱼卵中粗脂肪含量为 $3 . 1 8 \%$ ，明显低于施氏鲟（ $1 6 . 4 0 \%$ ）[39]、西伯利亚鲟（ $1 7 . 9 0 \% ^ { [ 3 9 ] }$ 或 $1 3 . 5 8 \% ^ { [ 4 0 ] }$ ）、小体鲟（ $1 2 . 4 0 \%$ ）[39]、俄罗斯鲟（ $1 0 . 4 1 \%$ ）[40]、金（ $7 . 3 7 \%$ ）[41]、高白鲑（ $1 0 . 9 0 \%$ ）[42]、凹目白鲑（ $9 . 2 0 \%$ ）[42]、虹鳟（ $5 . 1 9 \%$ ）[38]、太门哲罗鲑（ $6 . 4 3 \%$ ）[36]等的鱼卵，而其与绒杜父鱼（ $2 . 8 3 \%$ ）[24]、黑龙江茴 $4 . 9 3 \%$ )[37]等的鱼卵比较接近。以上对比分析充分说明光倒刺钯鱼卵是典型的高蛋白质、低脂肪的天然食品原材料。
+
+谷氨酸不仅是最主要的鲜味氨基酸之一，而且还是脑组织生化代谢中的重要氨基酸，  
+参与多种生理活性物质的合成[43]。光倒刺钯鱼卵所含的17种氨基酸中，谷氨酸含量最高（3.50%），这与鲟鱼[39-40.441、太门哲罗鲑[36]、金鳟[411、绒杜父鱼[24]、黑龙江茴鱼[37]、鲈鱼  
+[45]、鳜鱼[45]、鲫鱼[45]等鱼卵的研究结果一致，而姜作发等[38]检测出虹鱼卵所含的18 种  
+氨基酸中天冬氨酸含量最高。一般认为必需氨基酸的种类、数量及组成比例是决定蛋白质  
+营养价值的高低主要因素[46]。光倒刺鲲鱼卵的EAAI为 $5 9 . 2 6 \%$ ，高于俄罗斯鲟（ $5 0 . 6 6 \%$ ）  
+[39]、西伯利亚鲟（ $4 4 . 4 3 \%$ ）[40]、金鳟（ $5 8 . 8 3 \%$ ）的鱼卵[41]。光倒刺鳃鱼卵的 EAA/TAA 为  
+39.98%，EAA/NEAA为 $6 6 . 6 2 \%$ ，根据FAO/WHO的理想模式，质量较好的蛋白质其组成氨  
+基酸的 EAA/TAA 为 $40 \%$ 左右，EAA/NEAA 在 $6 0 \%$ 以上[31]，可见，光倒刺鳃鱼卵的氨基酸  
+组成是符合上述指标要求的，即氨基酸平衡效果好，属于优质蛋白质。脂肪酸是机体主要能量来源之一，根据碳氢链饱和与不饱和的不同可分为3类，即：  
+SFA、MUFA、PUFA。光倒刺钯鱼卵的 SFA占脂肪酸总量的 $2 2 . 6 8 \%$ ，与西伯利亚鲟( $2 5 . 8 1 \%$ ）  
+[40]、俄罗斯鲟( $2 6 . 3 9 \%$ )[40]、金（ $1 6 . 8 9 \%$ )[41]、绒杜父鱼( $2 4 . 7 3 \%$ )[24]、太门哲罗鲑( $2 2 . 5 0 \%$ ）  
+[36]等的鱼卵接近。PUFA主要来源于深海鱼类，近年来的研究发现PUFA 具有特殊的生物活
+
+性，能有双降低心血官疾病的反病率，开对生长反胃有促进作用。光倒刺靶鱼卵中 PUFA占脂肪酸总量的 $2 8 . 9 3 \%$ ，低于西伯利亚鲟（ $3 9 . 3 0 \%$ ）[40]、俄罗斯鲟（ $3 7 . 8 2 \%$ ）[40]、绒杜父鱼（ $5 0 . 2 9 \%$ ）[24]、金（ $5 8 . 5 1 \%$ ）[411、太门哲罗鲑（ $3 6 . 2 8 \%$ ）[36]、鲈鱼（ $3 6 . 6 8 \%$ ）[45]、鱼（ $4 5 . 8 2 \%$ ）[45]等的鱼卵，但却高于鲫鱼鱼卵（ $2 2 . 9 0 \%$ ）[45]。从以上的对比分析可以看出，光倒刺鲲鱼卵中 PUFA 含量低于大多数鲟鱼卵和鲑鳟类鱼卵。吉红等[48]综合讨论了高不饱和脂肪酸（HUFA）在淡水鱼类中的营养作用，该研究认为淡水鱼类需要摄入一定水平的外源 HUFA 以维持生长、机体健康以及繁殖性能。EPA 和DHA是HUFA的核心组分，张强等[49]研究认为 DHA 和 EPA 具有促进脑部细胞发育、增强记忆力等功效，是人和动物生长发育的所必需的营养物质。光倒刺鲲鱼卵中 $\mathrm { E P A + D H A }$ 占脂肪酸总量的 $8 . 5 3 \%$ ，虽然低于西伯利亚鲟（ $1 6 . 8 3 \%$ ）[40]、俄罗斯鲟（ $1 9 . 4 7 \%$ ）[40]、绒杜父鱼（ $4 0 . 5 9 \%$ ）[24]、金（ $1 6 . 5 3 \%$ ）[41]、太门哲罗鲑（ $1 6 . 6 2 \%$ ）[36]、鲈鱼（ $1 6 . 0 8 \%$ ）[45]、鳜鱼（ $3 3 . 8 4 \%$ ）[45]等的鱼卵，但却高于鲫鱼卵（ $8 . 4 5 \%$ ）[45]，这种不同品种间脂肪酸含量的差异可能与其进化分类、养殖环境、食性、饵料种类等密切相关。此外，本试验光倒刺鳃鱼卵中 $\mathrm { E P A + D H A }$ 总量远高于邴旭文等[20]所报道的光倒刺钯肌肉（ $3 . 7 2 \%$ ）中 $\mathrm { E P A + D H A }$ 总量，这与高露姣等[40]对鲟鱼卵的研究结果一致，即鱼卵中的EPA 和DHA 的含量要高于其肌肉中的含量，分析原因这可能与有些鱼类，如金枪鱼[50]等，在产卵期将特殊脂肪酸优先存储在卵巢中，以便发挥其特殊生理功能有关[5]。近年研究表明，MUFA 同样具有调节血脂代谢、保护血管内皮和降低血液高凝状态的作用[52]，光倒刺鲲鱼卵中MUFA占脂肪酸总量的 $4 8 . 4 0 \%$ ，高于西伯利亚鲟（ $34 . 8 9 \%$ ）[40]、俄罗斯鲟( $3 5 . 8 2 \%$ )[40]、金 $2 4 . 6 0 \%$ )[41]、绒杜父鱼( $2 3 . 8 6 \%$ )[24]、太门哲罗鲑( $( 4 1 . 2 2 6 \%$ ）[36]等的鱼卵。 $\mathrm { n } { - } 3 / \mathrm { n } { - } 6$ 是一个重要的营养价值评价指标，该值越高则说明该食品越有利于健康，光倒刺鳃鱼卵 $\mathrm { n } { - } 3 / \mathrm { n } { - } 6$ 为0.45，高于FAO/WHO 推荐的比值(0.1\~0.2)[31]。通过上述分析可知，光倒刺钯鱼卵含有丰富的脂肪酸，对人体具有重要的营养和保健功能。
+
+光倒刺钯鱼卵中含有丰富的微量元素，尤其是锌、铁，含量分别高达90.9865、31.386
+
+3 mg/kg，是光倒刺鳃肌肉中锌含量的19.2倍、铁含量的5.3倍[20]，是史氏鲟鱼卵中锌含量的5倍、铁含量的1.4倍[44]。微量元素对维持人体正常生理机能与物质代谢起着重要作用，其中锌、铜能够诱导合成更多金属硫蛋白与进入机体的铅、镉、汞等有毒的重金属结合而失去毒性；锌、硒有抗衰老作用[53]；锌在临床上还可以治疗组织创伤和促进溃疡愈合[54]；铁在人体中具有造血功能，参与血红蛋白、细胞色素及各种酶的合成以及促进人体生长。由上述可见，光倒刺鱼卵可以为特殊人群提供丰富的微量元素，尤其是锌、铁。在仔稚鱼营养需求一无所知的情况下，鱼卵中营养素的含量可以作为仔稚鱼营养需求的理论参考值。本试验预测光倒刺仔稚鱼对饲料中蛋白质和脂肪的需求量分别为 $7 7 . 3 9 \%$ 和 $8 . 9 0 \%$ ，与杨晶晶等[24]根据绒杜父鱼卵营养成分计算出的其仔稚鱼对饲料中蛋白质和脂肪的需求量分别为 $7 5 . 3 3 \%$ 和 $1 2 . 4 2 \%$ 接近。本试验根据光倒刺鲲鱼卵中各营养素含量计算所得的光倒刺仔稚鱼相关营养素的理论需求量，只能作为配制仔稚鱼饲料的参考，而各营养素的实际需要量还需要根据养殖试验来确定。
+
+4结论
+
+光倒刺鳃鱼卵属于典型的高蛋白质、低脂肪天然食品，其氨基酸种类齐全、配比均衡，不饱和脂肪酸比例高，锌、铁等微量元素含量丰富，营养价值极高，具有广阔的开发利用空间。
+
+参考文献：  
+[1]《福建鱼类志》编写组.福建鱼类志(上卷)[M].福州:福建科学技术出版社,1984:330-331.[2]陈振宇.漓江光倒刺钯[J].广西水产科技,1984(3):1-7.  
+[3]TANG Q Y,LIU H Z,YANG X P,et al.Molecular and morphological data suggest thatSpinibarbus caldwelli (Nichols） (Teleostei:Cyprinidae） isa valid species[J].IchthyologicalResearch,2005,52(1):77-82.  
+[4]罗凯军.光倒刺鲲的生物学特性及种质资源评价[D].硕士学位论文.贵阳:贵州大学,2008.[5]温彩燕,徐剑,邹佩贞,等.养殖光倒刺鳃精巢发育的研究[J].淡水渔业,2005,35(3):41-43.[6] 黎臻,张饮江,张乐婷,等.光倒刺鳃对水绵、轮叶黑藻、金鱼藻的摄食选择性及对水质影响[J].水生生物学报,2013,37(4):735-743.  
+[7]张盛,吕业坚.光倒刺钯规模化繁育技术[J].科学养鱼,2009(11):10-11.  
+[8]郑闽泉.黑脊倒刺钯人工繁殖技术[J].水产科学,2002,21(5):8-10.  
+[9]唐良华,苏敏,吕博彦,等.黑脊倒刺钯 vasa 同源基因的克隆及表达分析[J].水产学报,2012,36(6):868-878.  
+[10]苏敏,吕博彦,唐良华,等.黑脊倒刺 scp3基因的克隆及其表达[J].福建师范大学学报:自然科学版,2011,27(6):71-76.  
+[11]刘伯仁.黑脊倒刺钯大规格鱼种培育技术[J].科学养鱼,2005(7):8-9.  
+[12]卢友龙.池塘培育黑脊倒刺鳃苗种关键技术探讨[J].中国水产,2008(10):41-42.  
+[13]罗钦洪,钟良明,吴育煊,等.光倒刺钯池塘主养的技术要点[J].淡水渔业,2002,32(1):25-26.  
+[14]朱恩华.刺鳃池塘主养、网箱养殖技术研究[D].硕士学位论文.武汉:华中农业大学,2008.[15]张良松.黑脊倒刺钯池塘养殖技术[J].淡水渔业,2004,34(5):51-53.  
+[16]程金明.水库网箱养殖光倒刺鲤技术研究[J].中国水产,2011(1):37.  
+[17]杨君兴,陈银瑞.倒刺鲍属鱼类物种分化的研究[J].湛江水产学院学报,1995,15(1):1-5.[18]吕耀平,陈建明,叶金云,等.饲料蛋白质水平对刺鳃幼鱼的生长、胴体营养组成及消化酶活性的影响[J].农业生物技术学报,2009,17(2):276-281.  
+[19]吕耀平,黄旭雄,杨燕波,等.瓯江刺钯肌肉营养成分分析与品质评价[J].华中农业大学学报,2008,27(1):86-90.  
+[20]邴旭文.中华倒刺钯和光倒刺鳃肌肉营养品质的比较[J].大连水产学院学报,2005,20(3):233-237.  
+[21]陈意明,黄钧,蔡子德,等.光倒刺鳃的含肉率和肌肉营养成分分析[J].水利渔业,2001,21(2):22-24.  
+[22]薛喜文,于化泓,叶反帝,等.刺钯(Barbodes cadweli)肌肉营养成分分析[J].江西水产科技,2002(4):21-23.  
+[23] 彭凌,刘主,朱必凤,等.光倒刺鳃、中华倒刺钯和倒刺钯氨基酸成分和微量元素的测定[J].氨基酸和生物资源,2005,27(4):6-7.  
+[24]杨晶晶,姜志强,左然涛,等.绒杜父鱼卵营养成分分析及评价[J].动物营养学报,2014,26(4):1103-1110.  
+[25]曹双俊,张振旗,杨思华,等.鲟鱼生物学及营养需要[J].广东饲料,2000,9(1):40-41.[26]POUSAO-FERREIRA P,MORAIS S,DORES E,et al.Eggs of gilthead seabream Sparusaurata L.as a potential enrichment product of Brachionus sp. in the larval rearing of giltheadseabream Sparus aurata L.[J].Aquaculture Research,2001,30(10):751-758.  
+[27]SARGENT J,MCEVOY L,ESTEVEZ A,et al.Lipid nutrition of marine fish during earlydevelopment:current status and future directions[J].Aquaculture,1999,179(1/2/3/4):217-229.
+
+[28]MOURENTE G,VAZQUEZ R.Changes in the content of total lipid,lipid classes and their fatty acids of developing eggs and unfed larvae of the Senegal sole,Solea senegalensis Kaup[J].Fish Physiology and Biochemistry,1996,15(3):221-235.
+
+[29]程小飞,田晶晶,吉红,等.蚕蛹基础日粮中添加不同脂肪源对框鳞镜鲤生长、体成分及健康状况的影响[J].水生生物学报,2013,37(4):656-668.  
+[30]TIAN JJ,JI H,OKU H,et al.Effects of dietary arachidonic acid (ARA) on lipid metabolismand health status of juvenile grass carp,Ctenopharyngodonidellus[J].Aquaculture,2014,430:57-65.  
+[31]FAO/WHO.Energy and protein requirements[M].Rome:Food and Agriculture Organizationof the United Nations,1973:63.  
+[32]中国预防医学科学院营养与食品卫生研究所.食物成分表(全国代表值)[M].北京:人民卫生出版社,1991:30-82.  
+[33]范文洵,李泽英,赵煦和.蛋白质食物的营养评价[M].北京:人民卫生出版社,1984:42-44.[34]张永泉,尹家胜,杜佳,等.雌雄洛氏肌肉营养成分的比较分析[J].食品科学,2013,34(17):259-262.  
+[35]韩小丽,杜劲松,刘立志,等.白斑狗鱼含肉率及其营养价值的分析[J].动物学杂志,2009,44(3):70-75.  
+[36]张永泉,尹家胜,郭文学,等.太门哲罗鲑成熟卵子营养成分分析及评价[J].食品科学,2015,36(4):97-100.  
+[37]索力,赵吉伟,张颖,等.黑龙江茴鱼卵的营养成分分析[J].水产学杂志,2010,23(2):34-36.[38]姜作发,刘永,卢彤岩,等.两种颜色虹鳟卵氨基酸、脂肪酸含量的比较[J].大连水产学院学报,2004,19(4):306-308.  
+[39]刘晓勇,索力,张颖,等.三种养殖鲟鱼卵营养成分的比较分析[J].淡水渔
+
+业,2014,44(5):82-86.  
+[40]高露姣,夏永涛,黄艳青,等.俄罗斯鲟鱼卵与西伯利亚鲟鱼卵的营养成分比较[J].海洋渔业,2012,34(1):57-63.  
+[41]蒋左玉,李建,姚俊杰,等.山泉水人工养殖金鳟鱼卵及鱼皮营养成分的测定与分析[J].食品科学,2015,36(1):234-239.  
+[42] 郭焱,马燕武,蔡林刚,等.赛里木湖高白鲑和凹目白鲑肌肉、卵的营养分析评价[J].水产学杂志,2004,17(1):62-67.  
+[43]张昌颖.生物化学[M].2版.北京:人民卫生出版社,1985:305,561.  
+[44]饶秋华,罗土炎,苏德森,等.史氏鲟鱼鱼籽营养成分分析及评价[J].农学学报,2011,1(5):28-31.  
+[45]代忠波,丁卓平,刘承初,等.三种淡水养殖鱼鱼卵的营养价值评价[J].营养学报,2007,29(1):103-104.  
+[46]梁银诠,崔希群,刘友亮.鳜肌肉生化成份分析和营养品质评价[J].水生生物学报,1998,22(4):386-388.  
+[47]杭晓敏,唐涌濂,柳向龙.多不饱和脂肪酸的研究进展[J].生物工程进展,2001,21(4):18-21.[48]吉红,田晶晶.高不饱和脂肪酸(HUFAs)在淡水鱼类中的营养作用研究进展[J].水产学报,2014,38(9):1650-1665.  
+[49]张强,王永利.尖海龙与日本海马脂肪的提取和分析[J].分析化学,1996,24(2):139-143.[50]WIEGAND M D.Composition,accumulation and utilization of yolk lipids in teleostfish[J].Reviews in Fish Biology and Fisheries,1996,6(3):259-286.  
+[51]高露姣,施兆鸿,马春艳,等.亲鱼的脂类营养与繁殖性能研究进展[J].海洋渔业,2006,28(2):163-166.  
+[52]刘跟升,徐贵发.单不饱和脂肪酸对心血管的保护作用[J].卫生研究,2006,35(3):357-359.
+
+[53]于朝云,杨慧.微量元素与人体生理功能的关系[J].山东医药,2009,49(9):113-114.
+
+[54]孔祥瑞.必需微量元素的营养、生理及临床意义[M].合肥:安徽科学技术出版社,1982:42.
+
+Nutritional Analysis and Evaluation on Eggs of Spinibarbus hollandi LI Cheng1,2CHENG Xiaofei'HONG Bo1CHEN Xiangyi1WU Yuanan1,2LI Hong1,3\* (1. Fisheries Institute Science of Hunan Province, Changsha 41O153, China; 2. Collaborative Innovation Center for Efficient and Health Production of Fisheries in Hunan Province, Changde   
+415000, China; 3. College of Fisheries, Huazhong Agricultural University, Wuhan 430o70, China)   
+Abstract: In order to evaluate the nutritional values of eggs of Spinibarbus hollandi, the contents   
+of common nutritional components and trace elements,amino acid composition and fatty acid   
+composition of eggs of Spinibarbus hollndi were measured used conventional analytical methods.   
+The results showed that the contents of crude protein, crude fat, moisture and crude ash in fresh   
+eggs of Spinibarbus hollandi were $2 7 . 6 6 \%$ ， $3 . 1 8 \%$ ， $6 4 . 2 6 \%$ and $3 . 0 9 \%$ ， respectively. Seventeen   
+amino acids including 7 essential amino acids (EAA) and 1O nonessential amino acids (NEAA)   
+were found in Spinibarbus hollandi eggs,and the contents of total amino acids (TAA), EAA and   
+NEAA were $2 3 . 2 1 \%$ ， $9 . 2 8 \%$ and $1 3 . 9 3 \%$ , respectively. EAA composition meet the standard of the   
+Food and Agriculture Organization of the United Nations/World Health Organization (FAO/WHO).   
+According to amino acid score (AAS) and chemical score (CS), the first limiting amino acid were   
+both methionine+cysteine,and the second limiting amino acid were both phenylalanine+tyrosine.   
+Essential amino acid index (EAAI) of eggs of Spinibarbus hollandi was $5 9 . 2 6 \%$ . Totally 11 fatty   
+acids were detected in eggs of Spinibarbus hollandi including 3 saturated fatty acids (SFA), 3 mono-unsaturated fatty acids (MUFA) and 5 polyunsaturated fatty acids (PUFA).The amounts of SFA,MUFA，PUFA and C20:5n-3 (EPA) $+$ C22:6n-3(DHA) were $2 2 . 6 8 \%$ ， $4 8 . 4 0 \%$ 3 $2 8 . 9 3 \%$ and $8 . 5 3 \%$ of the total fatty acids, respectively. Spinibarbus hollandi eggs contained copper $\mathbf { \left( C u \right) }$ , zinc $( Z \boldsymbol { \mathrm { n } } )$ ,iron (Fe), iron (Mn) and selenium (Se),and Zn and Fe contents summed up to 90.986 5 and $3 1 . 3 8 6 \ 3 \ \mathrm { m g / k g }$ ，respectively. In conclusion, Spinibarbus hollandi eggs’nutritional value is rich, and has a higher value of comprehensive exploitation and utilization.   
+Key words: Spinibarbus hollandi; fish eggs; amino acid; fatty acid; trace elements; nutritional evaluation

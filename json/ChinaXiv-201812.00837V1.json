@@ -1,0 +1,526 @@
+[
+    {
+        "type": "text",
+        "text": "杨　光包晓玮²陈勇l\\*吴莹」马菁菁1（1.新疆农业大学动物科学学院，乌鲁木齐 830052；2.新疆农业大学食品与药学学院，乌鲁",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 木齐 830052) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：核桃青皮提取物具有较好的抑菌作用，本试验以核桃青皮及叶片中含量较高的7种植物次生代谢物为研究对象，评价其抑菌活性，为解析核桃青皮提取物的抑菌活性及开发新的饲用抗生素替代品提供参考。以大肠杆菌、枯草芽孢杆菌和金黄色葡萄球菌为受试菌，将7种植物次生代谢物——绿原酸、鞣花酸、丁香酸、芦丁、单宁酸、对羟基苯甲酸和胡桃醌稀释至1.0000、0.5000、0.2500、0.1250和 $0 . 0 6 2 5 ~ \\mathrm { m g / m L }$ ，采用滤纸片扩散法以培养24h 后抑菌圈直径大小反映植物次生代谢物的抑菌活性。结果显示：除大肠杆菌对羟基苯甲酸和单宁酸不敏感外，其他植物次生代谢物对3种受试菌均有不同程度的抑制作用。对大肠杆菌抑制作用的顺序为鞣花酸 $>$ 胡桃醌 $>$ 芦丁 $\\ c =$ 丁香酸 $>$ 绿原酸 $>$ 对羟基苯甲酸 $\\ c =$ 单宁酸;对枯草芽孢杆菌抑制作用的顺序为鞣花酸 $>$ 绿原酸 $\\ c =$ 对羟基苯甲酸 $>$ 丁香酸 $>$ 单宁酸 $>$ 芦丁>胡桃醌；对金黄色葡萄球菌抑制作用的顺序为胡桃醌 $>$ 丁香酸 $>$ 芦丁 $>$ 单宁酸 $>$ 鞣花酸>对羟基苯甲酸 $>$ 绿原酸。由此得出，绿原酸、鞣花酸、丁香酸、芦丁、单宁酸、对羟基苯甲酸和胡桃醌对大肠杆菌、枯草芽孢杆菌和金黄色葡萄球菌具有不同的抑制作用，其中鞣花酸对大肠杆菌和枯草芽孢杆菌有较强的抑制作用，胡桃醌对大肠杆菌和金黄色葡萄球菌具有较强的抑制作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "19 关键词：酚类化合物；黄酮类化合物；胡桃醌；抑菌活性中图分类号：R285 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为生产和使用抗生素的大国，我国每年有近一半的抗生素被用于畜牧业，由此引发的耐药性威胁也越发受到公众关注。畜牧业减用乃至停用饲用抗生素已是大势所趋，各国畜牧科技工作者致力于寻找抗生素的理想替代品。有机酸、酶、益生菌、益生元和植物提取物均具有一定地替代抗生素的潜力[1]。植物提取物，特别是药用植物提取物，具有抗菌、抗氧化的作用，常被用于改善人类健康和治疗疾病[2]。随着对植物提取物中活性成分的分离、鉴定以及对其作用机理的认识，越来越多的研究认为植物提取物具有替代饲用抗生素的作用[3]。核桃（Juglans regiaLinn）是胡桃科胡桃属多年生落叶乔木，其树皮、果皮、枝叶和根部均可入药，具有消除自由基、抗肿瘤、抗氧化及杀虫等作用[4-5]。本实验室的研究也表明，以 $2 5 \\%$ 乙醇提取 $8 \\mathrm { h }$ 获得的核桃青皮提取物对大肠杆菌（Escherichiacoli，E.coli）、枯草芽孢杆菌（Bacillus subtilis，B.subtilis）、金黄色葡萄球菌（Staphylococcus aureus，S.aureus）具有良好的抑制作用[6]。核桃青皮提取物中的化合物主要是植物酚类化合物、黄酮类化合物和胡桃醌；在酚类化合物中又以对羟基苯甲酸、丁香酸、鞣花酸和单宁酸含量较高，黄酮类化合物则以芦丁含量最高[7-8]。这些活性成分是否是核桃青皮提取物具有抑菌活性的主要原因尚不清楚。本研究选用核桃青皮和叶片中7种含量相对较高活性成分进行抑菌活性研究，为解析核桃青皮提取物的抑菌活性及开发新的饲用抗生素替代品提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验采用K-B法（Kirby-Bauer test）即滤纸片扩散法[9]，以大肠杆菌、枯草芽孢杆菌、金黄色葡萄球菌为受试菌，分别以1.0000、0.5000、0.2500、0.1250和 $0 . 0 6 2 5 \\mathrm { m g / m L }$ 的绿原酸、鞣花酸、丁香酸、芦丁、单宁酸、对羟基苯甲酸和胡桃醌为研究对象，以抑菌圈直径大小反映其体外抑菌活性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试剂与菌种",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "绿原酸（纯度 $9 8 \\%$ ）、鞣花酸（纯度 $9 9 5 \\%$ ）、丁香酸（纯度 $5 9 8 \\%$ ）、芦丁（纯度$5 9 5 \\%$ ）、单宁酸（纯度 $5 9 8 \\%$ ）和对羟基苯甲酸（纯度 $5 9 8 \\%$ ）为BBI Life Science 公司产品；胡桃醌（纯度 $5 9 7 \\%$ )为Sigma-Aldrich 公司产品；氨苄青霉素钠（纯度 $9 6 \\%$ ）为Genview公司产品；大肠杆菌、枯草芽孢杆菌、金黄色葡萄球菌为新疆农业大学动物营养实验室保存菌种。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3活化菌种及菌悬液的制备[10] ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "挑取待活化菌种在LB 固体培养基上划线， $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 恒温培养箱培养 $2 4 \\mathrm { h }$ ，至长出菌落。挑取单菌落接种于5mLLB 液体培养基，于 $3 7 \\mathrm { ~ \\textdegree ~ }$ 、 $1 7 0 ~ \\mathrm { r / m i n }$ 培养过夜后用无菌LB 液体培养基将细菌浓度调为 $1 0 ^ { 8 } \\mathrm { C F U / m L }$ 的菌悬液备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4供试样品的制备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "准确称取待测植物次生代谢物 $2 . 0 \\mathrm { m g }$ ，用相应溶剂溶解使浓度为 $1 . 0 0 0 0 \\mathrm { m g / m L }$ 后备用。绿原酸和对羟基苯甲酸用无菌生理盐水配制，鞣花酸和芦丁用 $0 . 2 \\mathrm { m o l / L }$ 氢氧化钠（NaOH）配制，单宁酸、丁香酸和胡桃醌分别用 $2 5 \\%$ 乙醇、 $50 \\%$ 乙醇和无水乙醇配制。取母液用相应溶剂进行2倍稀释，稀释终浓度为0.5000、0.2500、0.1250和 $0 . 0 6 2 5 \\mathrm { m g / m L }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 药敏片的制备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用打孔器将定性滤纸制成药敏片（直径 ${ = } 6 ~ \\mathrm { m m }$ ），药敏片在相应溶剂中室温浸泡 $1 0 \\mathrm { m i n }$ 后备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6 抑菌活性的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取 $0 . 1 ~ \\mathrm { m L }$ 浓度为 $1 0 ^ { 8 } \\mathrm { C F U / m L }$ 的菌悬液均匀涂布在LB固体培养基上，待培养基将菌液吸收完全后用无菌镊子夹取药敏片置培养基表面并使药敏片完全贴服，将培养血倒置放入$3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 恒温培养箱中培养 $2 4 \\mathrm { h }$ 后用十字交叉法测量抑菌圈直径。试验以相应溶剂作为空白对照，以 $0 . 1 0 \\mathrm { m g / m L }$ 氨苄青霉素钠为阳性对照。所有样本均重复3次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.7 数据统计分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据用SPSS18.0软件进行分析，结果用平均值 $\\pm$ 标准差（mean±SD）表示。当因素水平达到显著后采用Duncan氏法进行多重比较，显著水平为 $\\textstyle P \\leqslant 0 . 0 5$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同浓度绿原酸的抑菌活性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "绿原酸对大肠杆菌和枯草芽孢杆菌具有较强的抑制作用，对金黄色葡萄球菌的抑制作用较弱（图1）。从表1可以看出，绿原酸对供试菌的抑制作用由强至弱依次为枯草芽孢杆菌、大肠杆菌、金黄色葡萄球菌。不同浓度的绿原酸对大肠杆菌、金黄色葡萄球菌的抑菌圈直径均显著小于氨苄青霉素钠（ $P { < } 0 . 0 5$ ）；而对枯草芽孢杆菌，绿原酸浓度为 $1 . 0 0 0 0 \\mathrm { m g / m L }$ 时的抑菌圈直径与氨苄青霉素钠无显著差异（ $P { > } 0 . 0 5$ ），表明绿原酸对枯草芽孢杆菌具有极强的抑制作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b615a0474f340c538ae1bfc6a976fb29c8eb7ae844232ab5d4e1cfe23d259dbf.jpg",
+        "img_caption": [
+            "图1绿原酸对大肠杆菌（A）、枯草芽孢杆菌（B）、金黄色葡萄球菌（C）的抑制作用Fig.1Inhibitory effect of chlorogenic acid on $E$ coli (A),B. subtilis (B) and S. aureus (C)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5acadbbcc4947999c01aab98a233d87ca0c5a109d1c07c5d37b9a8a88e976576.jpg",
+        "table_caption": [
+            "表1不同浓度绿原酸的抑菌圈直径"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Table 1</td><td colspan=\"3\">Diameter of inhibition zone of chlorogenic acid in different concentrations</td><td>mm</td></tr><tr><td rowspan=\"2\">项目Items</td><td></td><td>大肠杆菌</td><td>枯草芽孢杆菌</td><td>金黄色葡萄球菌</td></tr><tr><td></td><td>E. coli</td><td>B.subtilis</td><td>S. aureus</td></tr><tr><td>绿原酸浓度 Chlorogenic acid concentration/(mg/mL)</td><td></td><td></td><td></td><td></td></tr><tr><td>1.000 0</td><td></td><td>9.32±0.13b</td><td>12.25±1.62a</td><td>7.75±0.20b</td></tr><tr><td>0.500 0</td><td></td><td>8.50±0.40c</td><td>9.92±0.42b</td><td></td></tr><tr><td>0.250 0</td><td></td><td></td><td>9.25±0.35b</td><td></td></tr><tr><td>0.125 0</td><td></td><td></td><td></td><td></td></tr><tr><td>0.062 5</td><td></td><td></td><td></td><td></td></tr><tr><td>空白对照(生理盐水)</td><td></td><td></td><td></td><td></td></tr><tr><td>Blank control (normal saline)</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "：无抑制作用。同列数据肩标不同小写字母表示差异显著（ $_ { . } { \\cal P } { < } 0 . 0 5$ ）。下表同。-: no inhibitory effect. Values in the same column with different small letter superscriptsmean significant difference ( $( P { < } 0 . 0 5 )$ . The same as below.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同浓度对羟基苯甲酸的抑菌活性",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在 $0 . 0 6 2 5 { \\sim } 1 . 0 0 0 0 \\mathrm { m g / m L }$ 浓度范围内对羟基苯甲酸对大肠杆菌无抑制作用，对枯草芽孢杆菌和金黄色葡萄球菌具有一定的抑制作用，其中枯草芽孢杆菌对对羟基苯甲酸较敏感（图2）。由表2可知，在对羟基苯甲酸浓度为 $1 . 0 0 0 0 \\mathrm { m g / m L }$ 时，对枯草芽孢杆菌和金黄色葡萄球菌的抑菌圈直径分别为10.58 和 $8 . 5 0 \\mathrm { m m }$ ，但都显著小于氨苄青霉素钠的抑菌圈直径。随着浓度的降低，对羟基苯甲酸的对枯草芽孢杆菌和金黄色葡萄球菌的抑菌圈直径均显",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9d00d61f056312c87c943c158d9c3642b57ec512f6d13b4df4953d2bd14bd69.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "著下降 ( $\\scriptstyle P < 0 . 0 5$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2对羟基苯甲酸对大肠杆菌（A）、枯草芽孢杆菌（B）、金黄色葡萄球菌（C）的抑制作",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Inhibitory effect of $p$ -hydroxybenzoic acid on E. coli (A), B. subtilis (B) and S. aureus (C) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2不同浓度对羟基苯甲酸的抑菌圈直径",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上 Table 2Diameter of inhibition zone of $p$ -hydroxybenzoic acid in different concentrations mm ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/51ace590c56ee9f03f6d65587f7973f0e0e9c5072518fbcc1b3cacbd2d235843.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>J 项目Items</td><td>大肠杆菌</td><td>枯草芽孢杆菌</td><td>金黄色葡萄球菌</td></tr><tr><td></td><td>E. coli</td><td>B.subtilis</td><td>S. aureus</td></tr><tr><td colspan=\"4\">对羟基苯甲酸浓度 p-hydroxybenzoic acid concentration/(mg/mL)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a2852a2932732f1b6d4ab8d8ec3fd36921ffad01e49e8c1037e7ae5e397a9fc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td></tr><tr><td>10.58±0.38b 1.000 0 8.50±0.25b</td></tr><tr><td>0.500 0 10.17±0.29c</td></tr><tr><td>0.250 0 9.08±0.14d</td></tr><tr><td>0.125 0</td></tr><tr><td>0.062 5</td></tr><tr><td>空白对照（生理盐水)</td></tr><tr><td>Blank control (normal saline)</td></tr><tr><td>阳性对照(0.10mg/mL氨苄青霉素钠） 14.67±0.58 11.42±0.38a 12.33±0.38a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 2.3 不同浓度鞣花酸的抑菌活性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "鞣花酸对3种受试菌均具有一定的抑制作用（图3）。由表3可知，鞣花酸对大肠杆菌和枯草芽孢杆菌具有较强的抑制作用，在 $0 . 0 6 2 5 { \\sim } 1 . 0 0 0 0 \\mathrm { m g / m L }$ 浓度范围内均具有抑制作用。相比之下，鞣花酸对枯草芽孢杆菌的抑制作用强于对大肠杆菌的抑制作用，且当浓度达到 $0 . 2 5 0 \\ 0 \\ \\mathrm { m g / m L }$ 后，鞣花酸对枯草芽孢杆菌的抑菌圈直径均显著大于氨苄青霉素钠（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ )，说明对枯草芽孢杆菌的抑制作用强于氨苄青霉素钠。鞣花酸浓度达到 $1 . 0 \\ : \\mathrm { m g / m L }$ 后对金黄色葡萄球菌才具有抑制作用，且其对金黄色葡萄球菌的抑制圈直径显著小于氨苄青霉素钠 ( $\\cdot P { < } 0 . 0 5$ ），说明鞣花酸对金黄色葡萄球菌的抑制作用弱于氨苄青霉素钠。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/644956dd7232e2b9b7890f9baa83d6811c8a938f8ba51d41f880495abfbbce33.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图3鞣花酸对大肠杆菌（A）、枯草芽孢杆菌（B）、金黄色葡萄球菌（C）的抑制作用Fig.3Inhibitory effect of ellagic acid on $E$ coli (A), B. subtilis (B) and S. aureus (C)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3不同浓度鞣花酸的抑菌圈直径",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b28796d82a1dffc9610c248a8f566732dc6629dea19d9ff4923cd3aaa37a44d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>大肠杆菌 E. coli</td><td>枯草芽孢杆菌 B.subtilis</td><td>金黄色葡萄球菌 S. aureus</td></tr><tr><td colspan=\"4\">鞣花酸浓度 Ellagic acid concentration/(mg/mL)</td></tr><tr><td>1.000 0</td><td>13.50±0.50b</td><td>14.17±0.29a</td><td>11.17±0.76b</td></tr><tr><td>0.500 0</td><td>12.83±0.76bc</td><td>12.50±0.50b</td><td></td></tr><tr><td>0.250 0</td><td>12.17±0.76c</td><td>12.33±0.29b</td><td></td></tr><tr><td>0.125 0</td><td>10.50±0.50d</td><td>9.67±0.58d</td><td></td></tr><tr><td>0.062 5</td><td>9.67±0.58d</td><td>8.50±0.50e</td><td></td></tr><tr><td>空白对照 (0.2 mol/LNaOH)</td><td></td><td></td><td></td></tr><tr><td colspan=\"4\">Blank control (0.2 mol/L NaOH)</td></tr><tr><td>阳性对照(0.10mg/mL 氨苄青霉素钠)</td><td>14.67±0.58a</td><td>11.42±0.38c</td><td>12.33±0.38a</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4不同浓度芦丁的抑菌活性",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在3种受试菌中，相比于枯草芽孢杆菌，大肠杆菌和金黄色葡萄球菌对芦丁更为敏感（图4）。由表4可知，芦丁浓度为 $1 . 0 \\mathrm { m g / m L }$ 时，对大肠杆菌、枯草芽孢杆菌、金黄色葡萄球菌的抑菌圈直径分别为10.83、8.75和 $1 0 . 6 7 \\mathrm { m m }$ 。由此可以看出，芦丁对供试菌的抑制作用顺序为大肠杆菌 $\\stackrel { \\cdot } { = }$ 金黄色葡萄球菌 $>$ 枯草芽孢杆菌。不同浓度的芦丁对3种供试菌的抑菌圈直径均显著低于氨苄青霉素钠（ $. P { < } 0 . 0 5$ ），随着浓度的降低，芦丁对3种受试菌的抑菌圈直径均显著下降 （ $_ { \\cdot \\textcircled { P } < 0 . 0 5 }$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb4619ce17683a86bcc73646ee32e62160a159a7eee3184dbe9c49ffce6e0560.jpg",
+        "img_caption": [
+            "图4芦丁对大肠杆菌（A）、枯草芽孢杆菌（B）、金黄色葡萄球菌（C）的抑制作用Fig.4Inhibitory effect of rutin on $E$ coli (A), B. subtilis (B) and S. aureus (C)."
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb43e64991ebc36801fd03b751df4acd479d5a667694deb7f8aab56a5e2a0040.jpg",
+        "table_caption": [
+            "Table 4Diameter of inhibition zone of rutin in different concentrations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>大肠杆菌</td><td>枯草芽孢杆菌</td><td>金黄色葡萄球菌</td></tr><tr><td></td><td>E.coli</td><td>B.subtilis</td><td>S. aureus</td></tr><tr><td>芦丁浓度 Rutin concentration/(mg/mL)</td><td></td><td></td><td></td></tr><tr><td>1.000 0 0.500 0</td><td>10.83±0.14b</td><td>8.75±0.25b</td><td>10.67±0.76b</td></tr><tr><td>0.250 0</td><td>10.17±0.29c 7.83±0.29d</td><td></td><td>9.17±0.29c</td></tr><tr><td>0.125 0</td><td></td><td></td><td>7.67±0.29d</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>0.062 5</td><td></td><td></td><td></td></tr><tr><td>空白对照(0.2 mol/L NaOH)</td><td></td><td></td><td></td></tr><tr><td>Blank control (0.2 mol/L NaOH)</td><td></td><td></td><td></td></tr><tr><td>阳性对照（0.10mg/mL 氨苄青霉素钠) Positive control (0.10 mg/mL ampicillin sodium)</td><td>14.67±0.58a</td><td>11.42±0.38a</td><td>12.33±0.38a</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 2.5 不同浓度单宁酸的抑菌活性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "单宁酸对3种受试菌的抑制作用均较弱（图5）。由表5可知，单宁酸对大肠杆菌无抑制作用。浓度为 $1 . 0 \\ : \\mathrm { m g / m L }$ 时，单宁酸对枯草芽孢杆菌和金黄色葡萄球菌的抑菌圈直径分别为9.42、 $8 . 8 3 \\mathrm { m m }$ ，显著小于氨苄青霉素钠对上述受试菌的抑菌圈直径（ $\\scriptstyle P < 0 . 0 5$ ），并且随着浓度的降低，单宁酸对枯草芽孢杆菌和金黄色葡萄球菌的抑菌圈直径显著下降( $_ { \\cdot P < 0 . 0 5 ) }$ ），",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/af5a6b7b26178d1a671a1ee27ddeb6c12743e3cd0e3ae6ec13c88f311eefda38.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "23 当浓度低于 $0 . 5 \\mathrm { m g / m L }$ 后，对枯草芽孢杆菌和金黄色葡萄球菌不再具有抑制作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图5单宁酸对大肠杆菌（A）、枯草芽孢杆菌（B）、金黄色葡萄球菌（C）的抑制作用",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/e6c1f879b7c53b3de160fc782683b6d15077385e08f2f0937bba1ca40960ce98.jpg",
+        "table_caption": [
+            "表5不同浓度单宁酸的抑菌圈直径",
+            "Table 5Diameter of inhibition zone of tannic acid in different concentrations mm "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>大肠杆菌</td><td>枯草芽孢杆菌</td><td>金黄色葡萄球菌</td></tr><tr><td></td><td>E. coli</td><td>B.subtilis</td><td>S.aureus</td></tr><tr><td>单宁酸浓度 Tannic acid concentration/(mg/mL)</td><td></td><td></td><td></td></tr><tr><td>1.000 0</td><td></td><td>9.42±0.38b</td><td>8.83±0.14b</td></tr><tr><td>0.500 0</td><td></td><td>8.17±0.52c</td><td>7.58±0.14c</td></tr><tr><td>0.250 0</td><td></td><td></td><td></td></tr><tr><td>0.125 0</td><td></td><td></td><td></td></tr><tr><td>0.062 5</td><td></td><td></td><td></td></tr><tr><td>空白对照(25%乙醇)</td><td></td><td></td><td></td></tr><tr><td>Blank control (25% ethanol)</td><td></td><td></td><td></td></tr><tr><td>阳性对照(0.10 mg/mL 氨苄青霉素钠)</td><td></td><td></td><td></td></tr><tr><td>Positive control (0.10 mg/mL ampicillin sodium)</td><td>14.67±0.58</td><td>11.42±0.38a</td><td>12.33±0.38a</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "128 2.6 不同浓度丁香酸的抑菌活性",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/022fc3f3c15007248cd3253f2eacbaa8d0b57709a59ea826aaca63106946e4c2.jpg",
+        "img_caption": [
+            "Fig.5Inhibitory effect of tannic acid on $E$ coli (A),B. subtilis (B) and S.aureus (C) "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "丁香酸对3种受试菌均具于具有一定的抑制作用（图6）。由表6可知，丁香酸浓度为$1 . 0 \\mathrm { m g / m L }$ 时，3种受试菌均对丁香酸表现出不同的敏感性，其中枯草芽孢杆菌对丁香酸最敏感，抑菌圈直径最大，并显著大于阳性对照（ $. P { < } 0 . 0 5 \\$ ），说明 $1 . 0 \\mathrm { m g / m L }$ 丁香酸对枯草芽孢杆菌具有较强的抑制作用。但当丁香酸的浓度低于 $0 . 5 \\mathrm { m g / m L }$ 后，对枯草芽孢杆菌不产生抑制作用。与大肠杆菌相比，丁香酸对金黄色葡萄球菌具有更强的抑制作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图6丁香酸对大肠杆菌（A）、枯草芽孢杆菌（B）、金黄色葡萄球菌（C）的抑制作用Fig.6Inhibitory effect of syringic acid on $E$ coli (A), B. subtilis (B) and S. aureus (C)",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/48997f5fd85dda9f0b508d52b88bd491e9f65aef8e91068e4c7799084918648e.jpg",
+        "table_caption": [
+            "表6不同浓度丁香酸的抑菌圈直径",
+            "Table 6Diameter of inhibition zone of syringic acid in different concentrations mm "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>大肠杆菌</td><td>枯草芽孢杆菌</td><td>金黄色葡萄球菌</td></tr><tr><td>丁香酸浓度 Syringic acid concentration/(mg/mL)</td><td>E. coli</td><td>B.subtilis</td><td>S. aureus</td></tr><tr><td>1.000 0</td><td></td><td>13.50±1.32a</td><td>10.50±0.50b</td></tr><tr><td>0.500 0</td><td>9.33±0.29b 8.17±0.29c</td><td>9.42±0.38c</td><td>9.67±0.29c</td></tr><tr><td>0.250 0</td><td>7.67±0.29c</td><td></td><td>8.67±0.29d</td></tr><tr><td>0.125 0</td><td></td><td></td><td></td></tr><tr><td>0.062 5</td><td></td><td></td><td>7.83±0.29e</td></tr><tr><td>空白对照（50%乙醇）</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Blank control (50% ethanol)</td><td></td><td></td><td></td></tr><tr><td>阳性对照(0.10mg/mL 氨苄青霉素钠) Positive control (O.10 mg/mL ampicillin sodium)</td><td>14.67±0.58a</td><td>11.42±0.38b</td><td>12.33±0.38a</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "138 2.7不同浓度胡桃醌的抑菌活性",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "胡桃醌对大肠杆菌、枯草芽孢杆菌、金黄色葡萄球菌均表现出不同程度的抑制作用（图7）。由表7可知，对枯草芽孢杆菌的抑菌圈直径， $1 . 0 0 0 0 \\mathrm { m g / m L }$ 胡桃醌与空白对照及阳性对照均无显著差异（ $\\cdot P { > } 0 . 0 5$ ），因胡桃醌中有1个滤纸片无抑菌圈，导致标准差较大，原因可能是实验操作较慢，无水乙醇挥发过快。对大肠杆菌和金黄色葡萄球菌，在 $0 . 0 6 2 5 \\sim 1 . 0 0 0$ $0 \\mathrm { m g / m L }$ 浓度范围内，胡桃醌对大肠杆菌和金黄色葡萄球菌均有抑菌圈的出现，显示出较高的敏感性；当胡桃醌浓度为 $1 . 0 0 0 0 \\mathrm { m g / m L }$ 时，抑菌圈直径与阳性对照无显著差异( $\\cdot P { > } 0 . 0 5 )$ )，其抑菌圈直径甚至显著高于阳性对照（ $\\cdot P { < } 0 . 0 5$ ），表明胡桃醌对大肠杆菌和金黄色葡萄球菌具有较强的抑制作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f18501bd51ac2c1b7029f99b65d1e9b2bb0139c68e9d08499608fce593096b91.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图7胡桃醌对大肠杆菌（A）、枯草芽孢杆菌（B）、金黄色葡萄球菌（C）的抑制作用Fig.7Inhibitory effect of juglone on $E$ coli (A), B. subtilis (B) and S. aureus (C)",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/e6f850884ab076a2f2365bbb57634d8d4f940858d11720a936180ce3e892a8ae.jpg",
+        "table_caption": [
+            "表7不同浓度胡桃醌的抑菌圈直径",
+            "Table 7Diameter of inhibition zone of juglone in different concentrations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>jg 大肠杆菌</td><td>枯草芽孢杆菌</td><td>金黄色葡萄球菌</td></tr><tr><td></td><td>E. coli</td><td>B.subtilis</td><td>S. aureus</td></tr><tr><td>胡桃醌浓度 Juglone concentration/(mg/mL)</td><td></td><td></td><td></td></tr><tr><td>1.000 0</td><td>15.67±2.03a</td><td>7.92±5.86</td><td>12.58±0.76a</td></tr><tr><td>0.500 0</td><td>12.00±0.50b</td><td></td><td>11.67±0.88a</td></tr><tr><td>0.250 0</td><td>10.47±0.06bc</td><td></td><td>10.33±0.80b</td></tr><tr><td>0.125 0</td><td>9.42±0.80cd</td><td></td><td>9.33±0.52b</td></tr><tr><td>0.062 5</td><td>8.17±0.29de</td><td></td><td>8.17±0.29c</td></tr><tr><td>空白对照 (无水乙醇)</td><td>7.10±0.10e</td><td>7.10±0.10</td><td>7.10±0.10d</td></tr><tr><td>Blankcontrol (anhydrous ethanol)</td><td></td><td></td><td></td></tr><tr><td>阳性对照（0.10 mg/mL 氨苄青霉素钠) Positive control (0.10 mg/mL ampicillin sodium)</td><td>14.67±0.58a</td><td>11.42±0.38</td><td>12.33±0.38a</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "151 3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1酚类化合物的抑菌活性及其机制",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "核桃青皮提取物对细菌、真菌都有较好的抑制作用[5-6]，引起抑菌作用的主要活性物质尚不清楚。酚酸、黄酮类化合物和胡桃醌是核桃青皮的主要植物次生代谢物。Nour 等[7]利用反相高效液相色谱（RP-HPLC）测定了核桃叶片甲醇提取物中17种酚类化合物的含量，其中主要是酚酸、黄酮和胡桃醌，发现在黄酮类化合物中杨梅素、儿茶素和芦丁的含量均较高，每 $1 0 0 \\ \\mathrm { g }$ 鲜重中分别达到141.05、212.81和 $9 9 . 0 8 ~ \\mathrm { { m g } }$ ，鞣花酸是核桃叶片中含量最高的酚酸，每 $\\boldsymbol { 1 0 0 } \\mathrm { g }$ 鲜重中达到 $8 4 . 6 2 \\mathrm { m g }$ ，绿原酸含量并不高，每 $1 0 0 ~ \\mathrm { g }$ 鲜重中仅为 $5 . 2 1 \\mathrm { m g }$ ，丁香酸和没食子酸则更低，每 $1 0 0 ~ \\mathrm { g }$ 鲜重中仅分别为0.66和 $0 . 3 0 \\mathrm { m g }$ ，每 $1 0 0 ~ \\mathrm { g }$ 鲜重中胡桃醌含量为 $8 8 . 7 3 ~ \\mathrm { m g }$ 。然而，Chrzanowski等[8]以 $80 \\%$ 甲醇提取核桃青皮提取物，并测定了其中的酚酸含量，结果发现对羟基苯甲酸、绿原酸、单宁酸和丁香酸含量较高，分别达到618.8、306.7、237.4 和 $4 2 7 . 0 \\mu \\mathrm { g / g }$ 干物质，而没食子酸含量最低，在叶片提取物中仅为 $1 2 . 6 ~ \\mu \\mathrm { g / g }$ 干物质，在核桃青皮提取物中未检出。因此，本研究选取了核桃次生代谢物中含量较高的7种化合物进行独立抑菌活性研究，为阐明核桃青皮提取物的抑菌活性以及开发新的饲用抗生素替代品提供参考。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "从分子结构来看，绿原酸、单宁酸、鞣花酸和芦丁为多酚化合物，对羟基苯甲酸是苯甲酸的单取代酚酸，丁香酸则是对羟基苯甲酸的衍生物，胡桃醌属萘醌类化合物。大量研究表明，植物酚类化合物和黄酮类化合物对细菌具有一定的抑制作用。鞣花酸可抑制表皮葡萄球菌、蜡样芽孢杆菌、克氏肺炎杆菌、伤寒沙门氏杆菌，并且其抑制作用强于庆大霉素和链霉素[1]。芦丁对金黄色葡萄球菌、大肠杆菌O157、阪崎肠杆菌具有一定的抑制作用[12]，绿原酸可抑制肺炎双球菌、痢疾杆菌、金黄色葡萄球菌、枯草芽孢杆菌、大肠杆菌等生长，其最小抑菌浓度（MIC）分别为20、20、40、40、 $8 0 ~ \\mu \\mathrm { g / m L }$ 13]。大肠杆菌、变形链球菌和铜绿假单胞菌对缩合单宁敏感，而大肠杆菌、沙门氏菌、金黄色葡萄球菌等对可水解单宁敏感[14]。有关对羟基苯甲酸和丁香酸抑菌活性的研究还鲜见报道。Cho 等[15]从稻壳中提取的对羟基苯甲酸在浓度为 $2 0 0 { \\sim } 4 0 0 ~ \\mu \\mathrm { g / m L }$ 时可抑制包括大肠杆菌、枯草芽孢杆菌和金黄色葡萄球菌在内的17种细菌和2种酵母的生长。丁香酸可抑制产乙醇大肠杆菌LY01和阪崎肠杆菌的生长[16]。在本研究中，除大肠杆菌对羟基苯甲酸和单宁酸不敏感外，其他植物次生代谢物对 3种受试菌均有不同程度的抑制作用。  \n通过改变微生物细胞膜通透性、干扰酶活性、改变细胞代谢、抑制核酸合成等途径，这些植物源活性成分起到抑菌和杀菌的作用[14,17]。绿原酸和鞣花酸能破坏细菌的细胞壁和膜结",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "构，增加细胞的通透性，一方面影响细胞结构的稳定性，另一方面导致金属离子、蛋白质的渗漏，使细胞内物质和能量代谢水平降低，进而起到抑菌作用[18-20]。丁香酸可使阪崎肠杆菌细胞活力和细胞内ATP水平快速降低，这主要是由于膜通透性降低后导致钾离子（ $\\mathrm { \\cdot } \\mathrm { K ^ { + } }$ ）和氢离子（ $\\cdot \\mathrm { H ^ { + } }$ ）浓度梯度消失，ATP合成减少[16]。黄酮类化合物通过抑制DNA 解旋酶、拓扑异构酶、二氢叶酸还原酶活性从而抑制细菌DNA 的合成[17]。芦丁是非常强的拓扑异构酶IV抑制剂，可选择性促进大肠杆菌拓扑异构酶IV依赖的DNA切割，抑制依赖拓扑异构酶IV的DNA 连接[21]。除此以外，黄酮类化合物还通过抑制细菌细胞壁和细胞膜的合成起到抑菌活性[22]。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2胡桃醌的抑菌活性及机制",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "胡桃醌具有多种生物活性，如抗肿瘤、抗氧化、抑菌、杀虫等，目前的研究主要集中在化感作用、抑制植物病原真菌和抗肿瘤等领域[23]，而有关其对细菌抑制作用的研究较少。吴朝霞等[24]报道，与青霉等真菌相比，胡桃醌可较好地抑制大肠杆菌等细菌，对大肠杆菌和枯草芽孢杆菌的最小抑菌浓度约为 $7 5 ~ { \\mu \\mathrm { g / m L } }$ ，对金黄色葡萄球菌的最小抑菌浓度约为37.5μg/mL。在其中1个滤纸片无抑菌圈，导致标准差较大，原因可能是实验操作较慢，无水乙醇挥发过快。本研究中，胡桃醌的浓度稀释至 $0 . 0 6 2 5 \\mathrm { m g / m L }$ 时对大肠杆菌和金黄色葡萄球菌均具有一定的抑制作用，而当胡桃醌的浓度稀释至 $0 . 5 0 0 0 \\mathrm { m g / m L }$ 时已不抑制枯草芽孢杆菌。这种差异可能与受试菌的浓度、溶解活性成分的溶剂、生长的培养基及 $\\mathsf { p H }$ 有关[17]。胡桃醌的抑菌作用机理与植物多酚相似，也是通过破坏大肠杆菌细胞膜完整性，增强通透性使蛋白质及K+、Na+等带电离子外漏，降低细胞对葡萄糖的摄入及ATP 合成酶活性等[25-26]。Wang 等[27-28]利用蛋白质组学技术研究发现，胡桃醌可提高金黄色葡萄球菌氧化还原酶的表达，诱导过氧化的发生；抑制参与蛋白质合成、三羧酸循环、DNA和RNA合成的蛋白质表达，并直接与DNA结合降低DNA的复制和转录。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3不同植物次生代谢物抑菌活性的差异及原因",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，根据抑菌圈直径的大小可以看出，对大肠杆菌抑制作用的顺序为鞣花酸>胡桃醌 $>$ 芦丁 $\\ c =$ 丁香酸 $>$ 绿原酸 $>$ 对羟基苯甲酸 $\\ c =$ 单宁酸；对枯草芽孢杆菌抑制作用的顺序为鞣花酸 $>$ 绿原酸 $\\ c =$ 对羟基苯甲酸 $>$ 丁香酸 $>$ 单宁酸 $>$ 芦丁 $>$ 胡桃醌；对金黄色葡萄球菌抑制作用的顺序为胡桃醌 $>$ 丁香酸 $>$ 芦丁 $>$ 单宁酸 $>$ 鞣花酸 $>$ 对羟基苯甲酸 $>$ 绿原酸。由此可见，7种植物次生代谢物对受试菌均具有一定的抑制作用，但不同化合物的抑菌活性又存在明显不用。这种差异可能与化合物的结构、理化性质、受试菌的细胞结构有关。分子结构中的官能团是影响抑菌活性的重要因素之一。如黄酮类化合物中的焦酚结构是强抑菌活性的指针；另外，具有抑菌活性的黄酮类化合物在其A环的C-5 和C-7位上均有羟基[12]。Kabir 等[29]报道绿原酸及其衍生物的解离常数（ $\\mathsf { p K } _ { \\mathrm { a } }$ ）和分配系数（LogP）不同，其抑菌活性存在明显差异，并发现在中性pH条件下， $\\mathsf { p K } _ { \\mathrm { a } }$ 值越大，抑菌活性也越大；LogP值与抑菌活性呈显著的相关关系。Yang 等[2认为，革兰氏阳性菌细胞壁含大量肽聚糖，酚类化合物等疏水性分子易穿透细胞，作用于细胞壁和细胞质，在低浓度时可干扰能量产生的酶，高浓度时可导致蛋白质变性；而革兰氏阴性菌的肽聚糖含量要少的多并且有一层外膜，因此，革兰氏阳性菌对植物源性化合物更敏感,这也是导致同一种化合物对不同细菌抑制作用不同的原因之一。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "绿原酸、鞣花酸、丁香酸、芦丁、单宁酸、对羟基苯甲酸和胡桃醌这7种植物次生代谢物对大肠杆菌、枯草芽孢杆菌和金黄色葡萄球菌具有不同的抑菌活性，其中鞣花酸对大肠杆菌和枯草芽孢杆菌具有较强的抑制作用，胡桃醌对大肠杆菌和金黄色葡萄球菌具有较强的抑制作用。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1] SEAL B S,LILLEHOJ H S,DONOVAN D M,et al.Alternatives to antibiotics:a symposium on the challenges and solutions for animal production[J].Animal Health Research ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Reviews,2013,14(1):78-87. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[2]YANG C B,CHOWDHURY M A K,HUO Y Q,et al.Phytogenic compounds as alternatives to in-feed antibiotics:potentials and challnges in application[J].Pathogens,2015,4(1):137-156.   \n[3]KUMAR M,KUMAR V,ROY D,et al.Application of herbal feed additives in animal nutrition-a review[J].International Journal of Livestock Research,2014,4(9):1-8.   \n[4]李秀凤.核桃青皮的成分与药理研究进展[J].食品科技,2007,32(4):241-242.   \n[5]OLIVEIRA I,SOUSA A,FERREIRA I C F R,et al.Total phenols,antioxidant potential and antimicrobial activity of walnut (Juglans regia L.） green husks[J].Food and Chemical Toxicology,2008,46(7):2326-2331.   \n[6]吴莹,包晓玮,陈勇,等.核桃(Juglans regiaL.)青皮提取物抗氧化及抑菌活性的研究[J].畜 牧兽医学报,2017,48(6):1118-1127.   \n[7] NOURV,TRANDAFIR I,COSMULESCUS.HPLC determination ofphenolic acids,flavonoidsandjuglonein walnutleaves[J].JournalofChromatographic Science,2013,51(9):883-890.   \n[8] CHRZANOWSKI G,LESZCZYNSKI B,CZERNIEWICZ P,et al.Phenolic acids of walnut (Juglans regia L.)[J].Herba Polonica,2011,57(2):22-29.   \n[9]谭才邓,朱美娟,杜淑霞,等.抑菌试验中抑菌圈法的比较研究[J].食品工 业,2016,37(11):122-125.   \n[10]马志宏,李铁梁,姜娜,等.中草药对致病性维氏气单胞菌体外抑菌活性及最优组方研究 [J].中国畜牧兽医,2011,38(6):155-159.   \n[11]GHUDHAIB K K,HANNA E R,JAWAD A H.Effect of ellagic acid on some types of pathogenic bacteria[J].Journal of Al-Nahrain University,2010,13(2):79 - 85.   \n[12]XIE Y X,CHEN J,XIAO A P,et al.Antibacterial activity of polyphenols:structure-activity relationship and influence of hyperglycemic condition[J].Molecules,2017,22(11):1913.   \n[13]LOU Z,WANG H,ZHU S,et al.Antibacterial activity and mechanism of action of chlorogenic acid[J].Journal of Food Science,2011,76(6):M398-M403.   \n[14]COPPO E,MARCHESE A.Antibacterial activity of polyphenols[J].Current Pharmaceutical Biotechnology,2014,15(4):380-390.   \n[15]CHO J Y,MOON J H,SEONG K Y,et al.Antimicrobial activity of 4-hydroxybenzoic acid and trans 4-hydroxycinnamicacidisolatedandidentified from rice hull[J].Bioscience,Biotechnology,and Biochemistry,1998,62(11):2273-2276.   \n[16] SHI C,SUN Y,ZHENG Z W,et al.Antimicrobial activity of syringic acid against Cronobacter sakazakii and its effect on cell membrane[J].Food Chemistry,2016,197:100-106.   \n[17]CUSHNIE T P,LAMB A J.Antimicrobial activity of flavonoids[J].International Journal of Antimicrobial Agents,2005,26(5):343-356.   \n[18]周志娥,罗秋水,熊建华,等.绿原酸、异绿原酸 A对大肠杆菌的抑菌机制[J].食品科 技,2014,39(3):228-232.   \n[19]罗艺晨,黄利明,杨颖,等.绿原酸抑制金黄色葡萄球菌机理研究[J].西南大学学报（自然 科学版）,2016,38(3):15-19.   \n[20]LOO W T Y,JIN L J,CHEUNG M N B,et al.Evaluation of elagic acid on the activities of oral bacteria with the use of adenosine triphosphate (ATP) bioluminescence assay[J].African Journal of Biotechnology,2010,9(25):3938-3943.   \n[21] BERNARD F X,SABLE S,CAMERON B,et al.Glycosylated flavones as selective inhibitors of topoisomerase IV [J].Antimicrobial Agents and Chemotherapy,1997,41(5):992-998. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[22] 游庭活,刘凡,温露,等.黄酮类化合物抑菌作用研究进展[J].中国中药杂志,2013,38(21):3645 - 3650.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[23]刘迪.胡桃醌对大肠杆菌蛋白质表达影响作用的研究[D].硕士学位论文.沈阳:沈阳农业 大学,2016.   \n[24]吴朝霞,陈光启,王媛.胡桃醌对几种常见食品腐败微生物的抑制作用[J].中国酿 造,2009,28(8):76 - 78.   \n[25]吴朝霞,高跃,黄姗,等.胡桃醌对大肠杆菌细胞膜的作用研究[J].食品科 学,2012,33(17):193-197.   \n[26]吴朝霞,张敏,金楠,等.胡桃醌对大肠杆菌呼吸及能量代谢的影响[J].食品与机 械,2011,27(6):131 - 134.   \n[27]WANG J Y,WANG Z X,WU R X,et al.Proteomic analysis of the antibacterial mechanism of action of juglone against Staphylococcus aureus[J].Natural Product Communications,2016,11(6):825-827.   \n[28] WANG J Y,CHENG Y H,WU R N,et al.Antibacterial activity of juglone against Staphylococcus aureus:from apparent to proteomic[J].International Journal of Molecular Sciences,2016,17(6):965.   \n[29]KABIR F,KATAYAMA S,TANJI N,et al.Antimicrobial eects of chlorogenic acid and relatedcompounds[J].JournaloftheKoreanSocietyforAppliedBiological Chemistry,2014,57(3):359-365. Antibacterial Activities of Six Phenolic Compounds and Juglone in Vitro YNAG Guang1BAO Xiaowei² CHEN Yong1\\* WU Ying1MA Jingjing1 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "College of Food and Pharmacy, Xinjiang Agricultural University, Urumqi 830052, China) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Extracts from walnut (Juglans regia L.) green husks showed good antibacterial effect. In this experiment, the antibacterial activities of seven plant secondary metabolites with higher content in walnut green husks and leaves were evaluated to provide references for resolving the antibacterial activity of walnut green husk extracts and development of new feed antibiotics substitutes. Escherichia coli（E.coli),Bacillus subtilis（B.subtilis） and Staphylococcus aureus (S. aureus） were used as the tested bacteria. The seven plant secondary metabolites, chlorogenic acid,ellagic acid, syringic acid, rutin, tannic acid, $p$ -hydroxybenzoic acid and juglone，were diluted at the concentrations of $1 . 0 0 0 \\ 0 , \\ 0 . 5 0 0 \\ 0 , \\ 0 . 2 5 0 \\ 0 , \\ 0 . 1 2 5 \\ 0$ and $0 . 0 6 2 \\ 5 \\ \\mathrm { m g / m L }$ . The Kirby-Bauer test was adopted to evaluate the antibacterial activity of the seven plant secondary metabolites by the diameter of inhibition zone after $2 4 \\mathrm { ~ h ~ }$ culture. The results showed that Escherichia coli was insensitivity to $p$ -hydroxybenzoic acid and tannic acid, while the other plant secondary metabolites showed different extent inhibitory effects on the three tested bacteria. For the $E$ ，coli,the inhibitory effect was in the rank order of ellagic acid>juglone>rutin $\\circleddash$ syringic acid>chlorogenic acid> $p$ -hydroxybenzoic acid=tannic acid. The order of inhibitory effect on $B$ subtiliswasellagicacid>chlorogenicacid> $p$ -hydroxybenzoicacid>syringicacid>tannic acid>rutin>juglone.Meanwhile, the order of inhibitory effect on $S .$ aureus was juglone>syringic acid>rutin>tannic acid>ellagic acid> $p$ -hydroxy benzoic acid>chlorogenic acid. In summary, chlorogenic acid, ellagic acid, syringic acid, rutin, tannic acid, $p$ -hydroxybenzoic acid and juglone have different inhibitory effects on $E$ ，coli, B. subtilis and $S .$ aureus. Ellagic acid has a strong inhibitory effect on $E$ coli and $B$ .subtilis,and juglone has a strong inhibitory effect on $E$ coli and S. aureus. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Key words: phenolic compounds; flavonoid compounds; juglone; antibacterial activity ",
+        "page_idx": 17
+    }
+]

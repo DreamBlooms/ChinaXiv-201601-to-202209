@@ -1,0 +1,160 @@
+# 大豆类受体蛋白激酶基因RLPK2促进转基因拟南芥叶片的衰老
+
+张强，黄卓然，胡康龙，许超，杨青青，薛涛（淮北师范大学生命科学学院，资源植物生物学安徽省重点实验室，安徽 淮北235000）
+
+摘要：大豆RLPK2基因（GenBank 登录号:AY687391）是一个编码N-末端富含亮氨酸重复序列的类受体蛋白激酶基因。为分析大豆RLPK2基因的功能，通过农杆菌介导法转化野生型拟南芥，构建了大豆RLPK2基因过表达载体。该研究以野生型拟南芥和大豆RLPK2基因过表达拟南芥植株为材料，分析了叶片衰老过程中叶绿素荧光参数、抗氧化酶活性及衰老相关基因表达量的变化。结果表明：（1）无论是野生型还是转基因拟南芥，随着叶片衰老进程的进行，光系统ⅡI（PSII）的最大光化学效率 $( F _ { \nu } / F _ { m } )$ )、PSII实际光化学效率（ $\Phi _ { P S I I } )$ 、光化学淬灭系数（qP）和光合电子传递速率（ETR)均呈下降趋势，但后者下降趋势更明显；（2）激发压（1-qP）在叶片衰老前期的变化较为平稳，后期则急剧增加，且转基因型比野生型拟南芥增加更明显；（3）在叶片衰老的各个时期，转基因拟南芥叶片丙二醛（MDA）含量均显著高于野生型，而超氧化物岐化酶（SOD）、过氧化物酶（POD）和过氧化氢酶（CAT)活性均显著低于野生型；（4）实时荧光定量PCR检测结果表明，RLPK2转基因拟南芥中衰老标志基因ATSAGI2，衰老关键转录因子ATNAP、ATWRKY6和叶绿素降解关键酶编码基因ATACD1等表达量显著上调。综上所述，大豆类受体蛋白激酶基因RLPK2参与调控植物叶片衰老进程，其表达对叶片衰老起促进作用。
+
+关键词：大豆RLPK2基因，叶片衰老，激发压，抗氧化酶，丙二醛中图分类号：Q943;S565.1 文献标识码：A
+
+# Soybean receptor-like protein kinase RLPK2 gene from Glycine max promotes transgenic Arabidopsis leaf senescence
+
+ZHANG Qiang, HUANG Zhuoran, HU Kanglong, XU Chao, YANG Qingqing, XUE Tao\* (College of Life Science, Huaibei Normal University,Anhui Key Laboratory of Plant Resources and Biology, Huaibei 23500O. Anhui. China)
+
+Abstract: The soybean RLPK2 gene (GenBank Accession No. AY687391） is a receptor-like protein kinase gene that encodes a leucine-rich repeat (LRR) receptor kinase-type protein. In order to further analyze the function of the soybean RLPK2 gene,the overexpression vector of the RLPK2 gene was constructed via Agrobacterium-mediated transformation of Arabidopsis thaliana. In this study, wild-type (WT) and transgenic Arabidopsis plants were used as materials, and the variations in chlorophyllfluorescence parameters and the activities of antioxidant enzymes as well as the expression levels of senescence-associated genes in the aging process of leaves were investigated. Results showed that both WT and transgenic plants tended to decrease the efficiency of primary conversion of light energy of photosystem II (PSII) $( F _ { \nu } / F _ { m } )$ ，actual photochemical efficiency of PSII $( \varPhi _ { P S I I } )$ ， photochemical quenching coefficient $( q P )$ and electron transport rate
+
+(ETR) while the latter showed a more obvious decreasing pattern as aging progressed. The PSII excitation pressure (estimated as 1-qP) was relatively stable in the early stage of leaf senescence, and increased sharply in the later stage of leaf senescence, while the transgenic plants showed more obvious increasing trend. At diferent leaf senescence stages,the malondialdehyde (MDA) content was significantly higher in transgenic plants than in WT, while the activities of superoxide dismutase (SOD), peroxidase (POD） and catalase (CAT） were significantly lower in transgenic plants than in WT. Additionally,the real-time quantitative RT-PCR showed that the expression levels of aging marker gene ATSAG12, critical senescence-associated transcription factors ATNAP, ATWRKY6 and chlorophyll degradation key enzyme-encoding gene ATACD1 increased in transgenic plants. In summary, transgenic Arabidopsis exhibited faster leaf senescence compared with WT,and the expression of the soybean receptor-like protein kinase RLPK2 gene played an important role in promoting leaf senescence.
+
+Key words: soybean RLPK2 gene, leaf senescence, excitation pressure，antioxidant enzyme, malonaldehyde
+
+作为作物进行光合作用的主要器官，叶片的生长发育优劣直接影响作物的生长、产量及品质。叶片衰老是叶片生长发育进程中的最终阶段，它不是叶片细胞的简单死亡过程，而是一种主动的、受细胞内部遗传程序控制的、器官水平上动态的细胞程序性死亡过程，并且受到外部多种环境因素（光照、水分、温度、矿质元素和微生物）及内部发育信号（激素、遗传和基因调控）的协调控制（初梦圆和于延冲，2019)。此外，叶片衰老还与Ca2+、糖、活性氧（ROS）水平和内源激素的变化等因素密切相关（严雯奕等，2010；张艺函等，2019）。叶片衰老主要表现为光合同化能力下降，细胞结构的退化，光合色素包括叶绿素和类胡萝卜素的降解，蛋白质和核酸降解，ROS与丙二醛（MDA）含量增加，水解酶及生长抑制因子持续增长等，这些特征已经在多种植物中得到描述（徐凡等，2010；Woo etal.,2013;Wanget al.,2016)。叶片衰老能够增强植物对生存环境的适应性，从而有利于其生存和延续。但对农作物的生长而言，植物过早衰老引起的叶片同化功能的减退也极大地影响和限制了农作物产量潜力的发挥，导致作物品质及产量的损失。因此，对叶片衰老机理的研究不仅在揭示植物的生态适应等方面具有明显的意义，而且同时也对生产抑制早衰具有重要意义。大豆在我国播种面积仅次于玉米、水稻、小麦和马铃薯，是第五大粮食作物，其含有丰富的植物蛋白质，同时，又可以榨油，因此也是我国重要的油料作物。相关研究表明，叶片早衰严重影响着大豆正常的生长发育，并引起产量及品质的下降（吕林涛，2018)。鉴定大豆叶片衰老相关基因及其功能对于提高大豆的优质高产和育种改良具有重要的科学意义和深远的应用价值。
+
+植物类受体蛋白激酶（receptor-like protein kinase,RLKs）具有特殊的蛋白质结构，在植物中普遍存在，占植物蛋白激酶总量的 $6 0 \%$ ，是植物中较大的基因家族之一，参与细胞信号转导途径过程，在植物的生长发育和环境的适应过程中起着重要的作用（Shiu& Bleecker,2001)。其中富含亮氨酸重复序列（leucine-rich repeat,LRRs）型类受体蛋白激酶是RLKs中最大的一个亚家族（Colette etal.,2011)。迄今为止，LRRs-RLKs蛋白的结构特点和表达模式在拟南芥（阿依江·哈拜克等，2014）、烟草（曾建斌，2011）、花生（庄瑞蓉等，2018）、马铃薯（谢洁等，2019）等植物中均有研究。相关研究表明，LRR-RLKs在在植物整个生长发育过程中扮演着重要的角色（Diévart&Clark,2004)。谢洁等（2019）发现马铃薯LRR类受体蛋白激酶SCLRRK1在低温条件下表达受到抑制，证实其参与低温胁迫响应过程。Zhou etal.(2016)发现LRR-RLKs型基因调节拟南芥花药的发育过程。作为LRR-RLKs家族中被研究较为广泛的一员，BAK1在油菜素内酯（BR）信号转导途径（Heetal.,2007）、植物先天免疫反应（韦莉等，2019）、细胞死亡调控（Zhouetal.,2019）等方面发挥作用。大豆RLPK2基因（GenBank 登录号：AY687391）是植物分子遗传学研究组李小平副教授前期以大豆科丰34为材料筛选到的一个编码N-末端富含亮氨酸重复序列（leucine-rich repeat,LRR）的类受体蛋白激酶基因，前期研究结果发现人工诱导衰老处理显著提高了该基因在大豆初生叶片中的转录水平，初步分析显示该基因可能参与大豆叶片衰老的调控过程。本研究在此基础上构建了大豆RLPK2基因过表达载体并转化野生型拟南芥，对转基因拟南芥叶片衰老进程进行分析，进一步揭示该基因在植物叶片衰老中的功能，以期为延缓叶片衰老从而提高大豆作物产量和改善作物品质提供理论依据。
+
+# 1材料与方法
+
+# 1.1材料及培养方法
+
+本试验所使用的拟南芥（Arabidopsisthaliana）为哥伦比亚野生型（WT）拟南芥（Columbia-0)。培养环境条件如下：恒温 $2 0 { \sim } 2 5 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，光暗周期为 $^ { 1 6 \mathrm { ~ h ~ } }$ 光照 $/ 8 \mathrm { ~ h ~ }$ 黑暗，光照强度为 $1 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { s } ^ { - 1 }$ ，相对湿度为 $80 \%$ 。
+
+# 1.2总RNA的提取和反转录
+
+采用QIAGEN的植物RNA提取试剂盒RNeasyPlantMiniKit按照操作说明提取大豆品种W82叶片总RNA，经微量紫外分光光度计（Merinton，美国）检测其纯度和浓度，琼脂糖凝胶电泳检测其完整性后，利用Thermo公司提供的cDNA试剂盒按照反转录说明书合成cDNA第一条链。
+
+# 1.3RLPK2全长cDNA引物设计及RT-PCR基因的扩增
+
+利用PrimerPremier5.0软件设计RLPK2基因的特异性引物，根据Gateway技术构建表达载体的要求，在引物5'端加上AAAAAGCAGGCTCG，引物序列如下：
+
+RLPK2-OX-F: 5'AAAAAGCAGGCTCGATGAGATCAGTAAGTTCCCCTG3' RLPK2-OX-R: 5'AGAAAGCTGGGTTTTAATCTCTCTTCTCCAAGTAAGAAG3'
+
+采用高保真PhusionDNA聚合酶进行PCR扩增。反应程序： $9 4 \mathrm { ~ \textdegree ~ }$ 预变性 $3 0 ~ \mathrm { s }$ ，然后进行35个循环： $9 4 \mathrm { ~ \textdegree ~ }$ 30 s，62℃ $3 0 ~ \mathrm { s }$ ，72℃30s，循环结束后72℃10min延伸反应，4 $\mathrm { { } ^ { \circ } C }$ 保温。 $1 \%$ 的琼脂糖凝胶电泳检测PCR产物，回收特异性目标条带，送样测序，选取测序正确的克隆进行后期载体的构建。
+
+# 1.4RLPK2过表达载体的构建、拟南芥遗传转化及纯合体筛选
+
+通过农杆菌介导法将重组植物过表达载体pB2GW7转入野生型拟南芥，并将收取的种子种在含有 $2 0 \mathrm { m g } \mathrm { L } ^ { - 1 }$ 的Basta的1/2MS培养基上筛选阳性植株，提取T3代转基因植株总RNA，反转录成cDNA，利用特异性引物对转基因植株进行RT-PCR鉴定，选取其进行后续表型实验。
+
+# 1.5叶绿素荧光参数的测定
+
+使用便携式叶绿素荧光测定仪（PAM-2500，德国）测定 $1 0 0 ~ { \mu \mathrm { m o l } } { \cdot \mathrm { m } ^ { - 2 } { \cdot } \mathrm { s } ^ { - 1 } }$ 光强下植株叶片的稳态荧光 $F _ { s }$ 、最大荧光 $F _ { m }$ 和最小荧光 $F _ { o }$ '后，将叶片暗适应 $3 0 ~ \mathrm { m i n }$ 后，测定初始荧光$F _ { \mathrm { o } }$ 和暗下最大荧光 $F _ { m }$ 。根据测定的荧光参数计算得出光系统II（PSII）最大光化学效率$F _ { \nu } / F _ { m } { = } ( F _ { m } { - } F _ { o } ) / F _ { m }$ ，实际光化学量子效率 $\Phi _ { P S I I } { = } ( F _ { m } { ' } F _ { s } ) / F _ { m } { ' }$ ，光化学淬灭系数 $q P { = } ( F _ { m } { ' } F _ { s } ) / ( F _ { m } { ' } .$ $F _ { o . } ^ { ~ \ " }$ ，光合电子传递速率 $E T R = \varPhi _ { P S I I } \times P P F D \times A \times 0 . 5$ ，式中：PPFD是光辐射通量； $A$ 是叶片吸收光能系数。
+
+# 1.5MDA含量和抗氧化酶活性的测定
+
+取样叶 $\boldsymbol { 0 . 1 \ \mathrm { g } }$ 在液氮中充分研磨后立即转入含有 $\boldsymbol { 1 } \mathrm { m L } 5 0 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 磷酸缓冲溶液( $\mathrm { p H } 7 . 8$ 含 $1 \mathrm { m m o l } ^ { - 1 }$ EDTA和 $1 \%$ PVP）的离心管中，在 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下 $1 5 0 0 0 g$ 离心 $1 5 \mathrm { m i n }$ ，取上清液弃沉淀，再 $1 5 \ 0 0 0 g$ 离心 $5 ~ \mathrm { m i n }$ ，回收上清液用于MDA含量和抗氧化酶活性的测定。抗氧化酶活性的测定参照文献(陈斌等,2015)。超氧化物歧化酶(SOD)活性检测采用氮蓝四唑(NBT)光化还原法；过氧化物酶（POD）活性检测采用愈创木酚法；过氧化氢酶（CAT）活性检测活性采用 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 分解法测定。MDA含量的测定参考中国科学院上海植物生理研究所（1999）的方法。
+
+# 1.6转RLPK2基因拟南芥中衰老相关基因表达分析
+
+RNA 提取步骤同上，其反转录及定量PCR体系的配制均依据QuantRT-PCRkit (SYBRGreen)的说明书操作，具体数据分析参照Xue etal.(2017)步骤进行。
+
+# 1.7数据分析
+
+所得试验数据采用Microsoft Excel 2019软件和IBM SPSS 22.0软件进行处理，采用student-t检验方法检验不同处理之间的差异显著性（ $P < 0 . 0 5$ ，差异显著）。采用SigmaPlot14.0软件完成作图。
+
+# 2结果与分析
+
+# 2.1超表达RLPK2基因促进转基因拟南芥衰老
+
+选取筛选得到的2个T3代纯系进行表型分析，首先通过RT-PCR比较分析野生型及两个转基因系OX-1和OX-2中的RLPK2的基因表达量。结果显示野生型中未检测到该基因，而两个转基因株系中均有显著的扩增条带，表明两个转基因纯系确为RLPK2的超表达株系（图1)。比较生长4周时的野生型及转基因株系的拟南芥表型，可见两转基因株系拟南芥的抽苔和开花时间较野生型明显提前（图1)，表明RLPK2促进拟南芥衰老进程。
+
+![](images/e51f75edb984c4464072c9c94117c64627898aa0468a929aea12669039d11287.jpg)  
+图1RLPK2转基因拟南芥的表型及其表达检测
+
+Fig.1 Phenotype and gene expression detection of RLPK2 transgenic Arabidopsis thaliana
+
+# 2.2MDA含量
+
+在三个不同发育时期，转RLPK2基因拟南芥植株叶片的MDA含量显著高于WT拟南芥（图2)。MDA是自由基作用于细胞膜脂发生过氧化反应的最终产物之一，能够在一定程度上反映氧化胁迫的是否发生以及发生的程度。试验结果表明，超表达RLPK2基因可以引起拟南芥发生氧化胁迫。
+
+![](images/d3bbd9c4bc56346605b64df8cd64576a40433fdb7dee350397b239ab9de76e32.jpg)
+
+\*表示 $P { < } 0 . 0 5$ ，\*\*表示 $P { < } 0 . 0 1$ 。下同。   
+\*means $P { < } 0 . 0 5$ $^ { * * }$ means $P { < } 0 . 0 1$ . The same below. 1 野生型（WT）和OX-1转基因拟南芥在自然衰老过程中丙二醛（MDA）含量的变化 Fig.2 Changes of malondialdehyde (MDA) content in the wild-type (WT) and transgenic Arabidopsis thaliana (OX-1) during the natural aging process
+
+# 2.3抗氧化酶系
+
+为深入分析RLPK2基因过表达对植株细胞抗氧化性状的影响，分别检测了三个不同发育时期WT和RLPK2转基因拟南芥植株叶片的SOD、POD和CAT 酶活性，结果如图3所示。由图3可知，在同一生长发育时期转基因拟南芥植株叶片的SOD、POD 和CAT 酶活性显著低于WT。试验结果表明，超表达RLPK2基因使胞内ROS清除系统的功能降低，从而导致膜系统受到伤害，并进一步造成膜结构和功能的破坏。
+
+![](images/4744ef012986241ac6f2b697d844747352fa1d33d82d0eee5153a8ce5cc68e44.jpg)  
+图3 野生型（WT）和OX-1转基因拟南芥在自然衰老过程中抗氧化酶活性的变化 Fig.3 Changes of antioxidant enzyme activities in the wild-type (WT) and transgenic Arabidopsis thaliana (OX-1) during the natural aging process
+
+# 2.4叶绿素荧光
+
+如图4所示，无论是WT还是RLPK2转基因拟南芥植株在衰老的前期和中期叶片 $F _ { \nu } / F _ { m }$ 比值几乎未变，然而在衰老末期，衰老导致了拟南芥叶片 $F _ { \nu } / F _ { m }$ 比值的明显降低，且转基因拟南芥下降的更明显。在拟南芥叶片衰老的过程中还有一个明显的PSII激发压上升的阶段，且转基因拟南芥比WT拟南芥上升更明显，表明前者比后者电子流受阻严重。此外，PSII光合电子传递量子效率 $\Phi _ { P S I I } .$ 、光化学淬灭系数 $q P$ 和光合电子传递速率ETR在拟南芥叶片衰老过程中均呈降低的趋势，且转基因拟南芥下降的更明显，表明在生育后期衰老的过程中，转基因型比野生型叶片的光系统I功能下降更快，并且具有较低的光能利用效率。
+
+![](images/b0899e46855980e4349a2134aac2464a8c5c9de0313df679d1c7ab427700a084.jpg)  
+图4野生型（WT）和OX-1转基因拟南芥在自然衰老过程中叶绿素荧光参数的变化 Fig.4 Changes of chlorophyll fluorescence parameters in the wild-type (WT) and transgenic Arabidopsis thaliana (OX-1) during the natural aging process
+
+# 2.5超表达RLPK2基因对拟南芥衰老相关基因表达的影响
+
+为进一步研究RLPK2基因异源过表达对转基因拟南芥中各衰老相关基因和衰老转录因子表达量的影响，本研究利用RT-PCR检测衰老标志基因ATSAGI2、衰老关键转录因子ATNAP、ATWRKY6和叶绿素降解关键基因ATACDI的表达变化情况。与WT拟南芥相比，RLPK2基因异源过表达显著促进了上述衰老相关基因的表达（图5)。
+
+![](images/9238218fd8283987ff627da18ce85fada2eec90aa6a4fa3248019e719a435255.jpg)  
+图5超表达RLPK2基因对拟南芥叶片衰老相关基因表达量的影响 Fig.5 Effects of RLPK2 gene overexpression on the expression levels of several senescence-associated genesinArabidopsisthalianaleaves
+
+# 3讨论
+
+除作为信号分子介导植物对各种外界刺激的响应之外，ROS在植物的正常生长发育与分化以及细胞程序性死亡(PCD)等很多方面也都起着重要作用(Miller et al.,2009;Mittler et al,2011; Perez & Brown.,2014; Wang et al., 2020）。 $\mathbf { O } _ { 2 } { \cdot }$ 和 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 是植物体内主要的活性氧自由基，作为强氧化剂攻击细胞膜中的不饱和脂肪酸或生物大分子物质导致其透性增加，而MDA是细胞膜脂过氧化的最终产物，其积累会对细胞造成一定的伤害，其含量的变化是细胞质膜损伤程度的重要标志之一，同时也是衡量植物器官衰老时或在逆境条件下细胞膜结构完整性的较好指标（Slama etal.,2015；夏冬冬等，2018)。本研究发现，随着叶片衰老进程的进行，野生型和转基因拟南芥叶片MDA含量呈增加的趋势，表明两者细胞膜脂过氧化程度逐渐增加，细胞由完整变得破裂、造成细胞衰老和死亡。MDA含量的增加可能与活性氧清除系统能力的下降有关。在本研究中，尽管SOD酶活性在拟南芥叶片衰老的过程中有所提高，但是由于POD酶和CAT酶活性的降低，因而导致了其体内活性氧清除系统的能力下降，从而引起ROS大量累积，导致MDA含量的增加；另一方面，在拟南芥衰老的各个时期，在转基因株系叶片中SOD、POD和CAT酶活性均显著低于野生型，因而导致转基因株系叶片MDA含量相应地均显著高于野生型。在植物叶片衰老过程中伴随着与光合作用光反应有关组分的降解（如叶绿素、类胡萝卜、叶黄素及Cytf 等）（Hidema et al.,1992; Hikosaka et al.,1996;Murchieet al.,1999)，同时也伴随着与光合作用暗反应有关过程的衰退（如Rubisco活性下降、Rubisco降解及气孔导度下降等）（Peng＆Peng,2000;Ono et al.,2013;Majeran et al.,2019）以及光合速率的下降。相关研究发现，衰老引起叶绿体的结构、大小以及类囊体膜的完整性发生变化（Dodge,1970;Hashimoto et al.,1989)，正是这种变化最终导致叶片衰老过程中光系统I和II的活性都下降。然而相对而言，光系统II对衰老更为敏感（Groveret al.，1986；Grover&Mohanty，1993)。光系统II的叶绿素荧光动力学参数可以直观反映植物叶片光合作用过程中光系统对光能的吸收、转化、耗散及分配等。作为其中一个比较重要的叶绿素荧光参数，$F _ { \nu } / F _ { m }$ 是暗适应下光系统II反应中心完全开放时的最大光化学效率，代表了植物的潜在最大光合能力，正常生理状态下其数值通常介于0.80\~0.85，并且基本上不受物种的影响。在植物体遭受到光抑制、逆境胁迫或者发生某些与光合相关的基因突变时， $F _ { \nu } / F _ { m }$ 的比值会发生显著性变化（Rohacek＆ Bartak,1999；肖华贵等，2013)。前人在研究不同种类作物衰老进程时均发现，尽管作物叶片衰老过程中光合作用能力下降，然而衰老并未引起光系统Ⅱ最大光化学效率 $( F _ { \nu } / F _ { m } )$ ）的明显下降（高海涛等，2010；武永胜等，2010；朱建芬等，2010)。因此，有学者根据这一数据认为植物叶片衰老过程中光系统Ⅱ活性并没有发生相应变化。本研究结果表明，在衰老的前期和中期，衰老确实未导致拟南芥叶片 $F _ { \nu } / F _ { m }$ 比值的明显下降；然而在衰老的末期，衰老导致了拟南芥叶片 $F _ { \nu } / F _ { m }$ 比值的明显降低，且转基因拟南芥下降的更明显。PSII激发压（1-qP）是对PSI的电子接受体QA的氧化还原状态的估计值，其反映了光系统II的氧化还原状况以及能量供应和利用之间的平衡，能量平衡是通过光合电子传递链组分的氧化还原状态所介导的（Huner etal.,1996,1998)。前人研究发现PSI激发压（1-qP）可能分别介导了自然衰老和缺氮引起的早衰（Huang et al.,2004; Tang et al.,2015;Wang et al.,2015）。Misra etal.(2011)认为PSII激发压可以用作监测衰老开始的传感器。Ou et al.(2003)研究发现超高产水稻剑叶衰老的过程中有一个明显的PSII激发压上升的阶段，显示光合电子流传递受阻。本研究同样也发现在拟南芥叶片衰老过程中有一个明显的PSI激发压上升的阶段，且转基因型比野生型拟南芥上升更明显，表明转基因型比野生型拟南芥电子流受阻程度更严重。此外，本研究还发现在拟南芥叶片衰老过程中，PSII光合电子传递量子效率 $\Phi _ { P S I I }$ 、光化学淬灭系数qP和光合电子传递速率ETR均降低，且转基因拟南芥下降的更明显，这一结果表明在生育后期衰老的过程中，转基因株系较野生型叶片的光系统II功能下降更快，并且具有较低的光能利用效率。
+
+本研究通过实时定量RT-PCR检测，结果发现RLPK2基因超表达导致叶绿素降解关键酶编码基因ACD1表达量增加，这暗示了超表达RLPK2基因导致转基因拟南芥叶绿素降解速率加快，光合作用能力下降。拟南芥中衰老标志基因ATSAG12编码半胱氨酸蛋白酶，现有研究表明其仅在只依赖于叶龄发育信号而导致的衰老过程中表达，且表达量不受其他胁迫信号的影响（张艺函等，2019)。本研究结果发现，在衰老中期才能在野生型和转基因拟南芥株系中检测到该基因的表达，且超表达RLPK2基因显著促进其表达量，揭示RLPK2基因在叶片衰老过程中响应叶龄发育信号。在叶片衰老过程中，WRKY和NAC等转录因子家族成员中大部分成员表达量上调，参与调控叶片衰老过程，在叶片衰老过程中起着关键作用（Shah et al,2014）。在本研究中，超表达RLPK2基因显著促进ATWRKY6和ATNAP表达量的提升，表明RLPK2基因可能通过调节这些叶片衰老的关键转录因子从而参与到叶片衰老的调控。
+
+# 4小结
+
+大豆RLPK2受体蛋白激酶基因可参与植物叶片衰老调控过程，其过表达株系可通过调控衰老进程中抗氧化酶活性的变化，增加过氧化物的积累，导致PSII功能衰退较快，以及调控衰老相关基因如衰老标志基因ATSAGI2、衰老关键转录因子ATNAP、ATWRKY6和叶绿素降解关键酶编码基因ATACDI的表达，从而促进受体植株的早衰，但其调控衰老的机制尚有待于进一步研究。
+
+# 参考文献：
+
+ABROL YP,MOHANTY P,GOVINDJEE A，1993.Photosynthesis: photoreactions to plant productivity [M]// GROVER A, MOHANY P. Leaf senescence-induced alterations in structure and function of higher plant chloroplasts. Dordrecht: Kluwer Academic Publishers: 225-255. AYIJIANG H, YANG M, HAN Y, 2014. Subcellular localization of RLK6, a protein of LRR-RLK subfamily and tissue expression pattern of the RLK6 in Arabidopsis [J]. Acta Bot Boreal-Occident Sin,34(1): 1-6.[阿依江·哈拜克，杨敏，韩玉珍，2014．拟南芥 LRR-RLKs 亚家族蛋白RLK6 的亚细胞定位及RLK6 的组织表达[J]．西北植物学报，34(1):1-6.] CHEN B,WANG YN, MA DW, et al., 2015. The antioxidant enzyme activities and their gene expression in maize radicle under the allelochemical stress from Chenopodium ambrosioides L. [J].EcolEnviron Sci,24(10):1640-1646.[陈斌，王亚男，马丹炜，等，2015．土荆芥化感胁 迫对玉米幼根抗氧化酶活性和基因表达的影响[J]．生态环境学报，24(10):1640-1646.] Chinese Academy of Sciences， Shanghai Institute of Plant Physiology， 1999.Modern plant physiology experiment instruction[M].Beijing: Science Press.[中国科学院上海植物生理研究
+
+[J] Chin BullLife Sci,31(2):178-184.[初梦圆，于延冲，2019．影响植物叶片衰老因素的研究 进展[J]．生命科学，31(2):178-184.]   
+COLETTE A, BOCHDANOVITS Z, JANSWEIJER VMA, et al., 2011. Probing the roles of LRR RLK genes in Arabidopsis thaliana roots using a custom T-DNA insertion set [J]. Plant Mol Biol, 76(1): 69-83.   
+DIEVART A, CLARK SE, 2004. LRR-containing receptors regulating plant development and defense [J]. Development,131(2): 251-261.   
+DODGE JD,1970. Changes in chloroplasts fine structure during the autumnal senescence of Betula leaves [J]. Ann Bot, 34(4): 817-824.   
+GAO HT, WANG YH,MENG ZY,et al.， 2010. Study on grain yield and physiological characteristics of flag leaves in super high yield winter wheat [J]. J Triticeae Crops,30(6): 1080-1084.[高海涛，王育红，孟战赢，等，2010．超高产小麦产量及旗叶生理特性的研究 [J]．麦类作物学报，30(6)：1080-1084.]   
+GROVER A, SABAT SC, MOHANY P, 1986. Efect of temperature on photosynthetic activities of senescent detached wheat leaves [J]. Plant Cell Physiol, 27(1):117-126.   
+HASHIMOTO H, KURA-HOTTA M, KATOH S, 1989. Changes in protein content and in the structure and number of chloroplasts during leaf senescence in rice seeding [J]. Plant Cell Physiol, 30(5): 707-715.   
+HE K,GOU X, YUAN T, et al.， 20O7. BAK1 and BKK1 regulate brassinosteroid-dependent growth and brassinosteroid-independent cell death pathways [J]. Curr Biol,17(13): 1109-1115.   
+HIDEMA J, MAKINO A, KURITA Y, et al.,1992. Changes in the levels of chlorophyll and light harvesting chlorophyll a/b protein of PS II in rice leaves under different irradiances from full expansion to senescence [J]. Plant Cell Physiol, 33(8): 1209-1214.   
+HIKOSAKA K, TERASHIMA I, 1996. Nitrogen partitioning among photosynthetic components and its consequence in sun and shade plants [J]. Funct Ecol, 1O(3): 335-343.   
+HUANG ZA,JIANG DA, YANG Y, et al., 2004. Effects of nitrogen deficiency on gas exchange, chlorophyll fluorescence,and antioxidant enzymes in leaves of rice plants [J]. Photosynthetica, 42(3): 357-364.   
+HUNER NPA, AQUIST G, SARHAN F, 1998. Energy balance and acclimation to light and cold [J]. Trends Plant Sci, 3(6): 224-230.   
+HUNER NPA,MAXWELL DP,GRAY GR, et al.，1996. Sensing environmental temperature change through imbalances between energy supply and energy consumption: Redox state of photosystem II[J]. Physiol Plant, 98(2): 358-364.   
+LU LT, 2018. Causes and measures of summer soybean premature senescence [J]. Mod Agric Sci Technol, (4): $6 0 \substack { + 6 2 }$ [吕林涛，2018.夏大豆早衰的原因及防治对策[J]．现代农业科技，(4): $6 0 \substack { + 6 2 . } ]$ （204   
+MAJERAN W, WOSTRIKOFF K, WOLLMAN FA, et al., 2019. Role of ClpP in the biogenesis and degradation of rubisco and ATP synthase in Chlamydomonas reinhardtii [J]. Plants (Basel), 8(7): 191.   
+MILLER G, SCHLAUCH K, TAM R, et al., 2009.The plant NADPH oxidase RBOHD mediates rapid systemic signaling in response to diverse stimuli [J]. Sci Signal, 2(84): ra45.   
+MISRA AN, LATOWSKI D, STRZALKA K, 2011. Photosynthetic excitation pressure causes violaxanthin de-epoxidation in aging cabbage (Brassica oleracea L.) leaves [J]. J Life-Sci, 5: 182-191.   
+MITTLER R, VANDERAUWERA S, SUZUKI N, et al., 2011. ROS signaling: the new wave? [J] Trends Plant Sci,16(6): 300-309.   
+MURCHIE EH, CHEN YZ, HUBBART S,et al., 1999. Interactions between senescence and leaf orientation determine in situ patterns of photosynthesis and photoinhibition in field-grown rice [J]. Plant Physiol, 119(2): 553-564.   
+ONO Y,WADA S, IZUMI M, et al.,2013. Evidence for contribution of autophagy to rubisco degradation during leaf senescence in Arabidopsis thaliana [J]. Plant Cell Environ, 36(6): 1147-59.   
+OU ZY,PENG CL,LIN GZ, et al., 2003. Relationship between PSII excitation pressure and content of rubisco large subunit or small subunit in flag leaf of super high-yielding hybrid rice [J]. Acta Bot Sin, 45(8): 929-935. in naturally senescing rice leaves [J]. Acta Phytophysiol Sin, 26(1): 46-52.   
+PEREZ IB, BROWN PJ, 2014. The role of ROS signaling in cross-tolerance: from model to crop [J]. Front Plant Sci, 5: 754.   
+ROHACEK K, BARTAK M, 1999. Technique of the modulated chlorophyllfluorescence: basic concepts, useful parameters,and some applications [J]. Photosynthetica, 37(3): 339-363.   
+SHAH ST, PANG C, HUSSAIN A,et al., 2014. Molecular cloning and functional analysis of NAC family genes associated with leaf senescence and stresses in Gossypium hirsutum L. [J]. Plant Cell Tiss Org, 117(2): 167-186.   
+SHIU SH, BLEECKER AB, 2003.Expansion of the receptor-like kinase/Pelle gene family and receptor-like proteins in Arabidopsis [J]. Plant Physiol, 132(2): 530-543.   
+SLAMA I, ABDELLY C,BOUCHEREAU A, et al., 2015. Diversity, distribution and roles of Osmoprotective compounds accumulated in halophytes under abiotic stress [J]. Ann Bot, 115(3): 433-447.   
+TANG G, LI X,LIN L， et al.， 2015. Combined effects of girdling and leaf removal on fluorescence characteristic of Alhagi Sparsifolia leaf senescence [J]. Plant Biol,17(5): 980-989.   
+WANG FB,LIU JC, CHEN MX, et al., 2O16. Involvement of abscisic acid in PSI photodamage and D1 protein turnover for light-induced premature senescence of rice flag leaves [J]. PLoS ONE,11(8): e0161203   
+WANG J， LEISTER D，BOLLE C，2015.Photosynthetic lesions can trigger accelerated senescence in Arabidopsis thaliana [J]. JExp Bot, 66(21): 6891-6903.   
+WANG Y, CUI X, YANG B, et al.,2020. WRKY55 transcription factor positively regulates leaf senescence and the defense response by modulating the transcription of genes implicated in the biosynthesis of reactive oxygen species and salicylic acid in Arabidopsis [J]. Development, 147(16): dev189647.   
+WEI L, LI X, HUANG ST, et al., 2019. Cloning and prokaryotic expression of receptor-like protein kinase gene AhBAK1 in Arachis hypogaea [J]. Guihaia, htp://kns.cnki.net/kcms/detail/ 45.1134.Q.20191107.1413.006.html[韦莉，李霞，黄舒婷，等，2019.花生类受体蛋白激酶 AhBAK1 的克隆及原核表达[J]．广西植物，htp://kns.cnki.net/kcms/detail/45.1134.Q. 20191107.1413.006.html]   
+WOO HR,KIM HJ, NAM HG,et al., 2013.Plant leaf senescence and death-regulation by multiple layers of control and implications for aging in general [J]. J Cell Sci, 126(21): 4823-4833.   
+WU YS,XUE H,LIU Y, et al., 2O10.The study of senescence and fluorescence characteristic in leaves of stay-green wheat [J].Agric Res Arid Areas,28(4): 117-122.[武永胜，薛晖，刘洋, 等，2010.持绿型小麦叶片衰老和叶绿素荧光特征的研究[J].干旱地区农业研究，28(4)： 117-122.]   
+XIA DD,BAI ZY,LIU B,et al., 2018.Changes of protective enzyme activities in leaves senescence of soybean cultivars bred at different ages in Jilin province [J]. Mol Plant Breed, 16(1):228-233.[夏冬冬，白子裕，刘冰，等，2018．吉林省不同时期育成大豆品种叶片衰 老中保护酶活性的变化[J]．分子植物育种，16(1):228-233.]   
+XIAO HG, YANG HW,RAO Y,et al., 2013. Photosynthetic characteristics and chlorophyll fluorescence kinetic parameters analyses of chlorophyll-reduced mutant in Brassica napus L.[J]. Acta Agron Sin,39(3):520-529.[肖华贵，杨焕文，饶勇，等，2013．甘蓝型油菜黄化突变 体的光合特性及叶绿素荧光参数分析[J]．作物学报，39(3)：520-529.]   
+XIE J, WANG M, DING HY, et al., 2019. Expression and structural analysis of SC MI390-5p and its target genes in potato response to low temperature [J]. Sci Agric Sin, 52(13): 2295-2308.[谢 洁，王明，丁红映，等，2019.马铃薯低温响应的 ScmiR390-5p 及其靶基因表达与结构分 析[J]．中国农业科学，52(13)：2295-2308.]   
+XU F,LI PL, ANBY, et al.,2010. Analysis of transgenic plants expressing soybean receptor-like kinase GmSARK driven by an inducible promoter [J]. Chin Bull Bot,45(2):149-156.[徐凡, 李鹏丽，安宝燕，等，2010.大豆诱导型启动子驱动类受体蛋白激酶GmSARK转基因植物 分析[J]．植物学报，45(2):149-156.]   
+XUE T,LIU ZH, DAI XH, et al., 2O17. Primary root growth in Arabidopsis thaliana is inhibited by the miR159 mediated repression of MYB33,MYB65 and MYB101 [J]. Plant Sci, 262: 182-189.   
+YAN WY,YE SH, DONG YJ, et al., 2O10. Research progress related to plant leaf senescence [J]. Crops,(4):4-9.[严雯奕，叶胜海，董彦君，等.2010．植物叶片衰老相关研究进展[J]．作 物杂志，(4): 4-9.]   
+ZENG JB,2011. Construction of full-length cDNA library of Nicotiana tabacum and cloning and characterization of LRR receptor like protein kinase gene [D]. Fuzhou: Fujian Agriculture and Forestry University.[曾建斌,2011．烟草全长cDNA 文库的构建和LRR 类受体蛋白激酶基 因的克隆及表达分析[D]．福州：福建农林大学.]   
+ZHANG YH, XU F, JIANG TY, et al., 2019. Overexpression of rice OsSAPP2 gene promotes leaf senescence in the transgenic Arabidopsis [J]. J Shenyang Agric Univ,50(2): 129-137.[张艺函, 徐凡，蒋太英，等，2019.过表达水稻OsSAPP2 基因促进转基因拟南芥叶片衰老[J]．沈 阳农业大学学报,50(2)：129-137.]   
+ZHOU F, GUO Y, QIU LJ,2016. Genome-wide identification and evolutionary analysis of leucine-rich repeat receptor-like protein kinase genes in soybean [J]. BMC Plant Biol,16(1): 58.   
+ZHOU J, WANG P, CLAUS LAN, et al., 2019. Proteolytic processing of SERK3/BAK1 regulates plant immunity, development, and cell death [J]. Plant Physiol, 18O(1): 543-558.   
+ZHU JF, ZHANG YJ, SUN CF, et al.， 2010.Physiological effects of nitrogen and potassium nutrition on the senescence of coton functional leaves [J]. Cotton Sci, 2O10, 22(4): 354-359. [朱建芬，张永江，孙传范，等，2010．氮钾营养对棉花主茎功能叶衰老的生理效应研究 [J]．棉花学报，22(4): 354-359.]   
+ZHUANG R, CHU W, ZHAO S, et al., 2018. Cloning and bioinformatics analysis of AhLRPK1 gene in peanut [J].Mol Plant Breed,16(11): 3458-3467.[庄瑞蓉，储文婷，赵闪闪，等，2018. 花生AhLRPK1基因的克隆及生物信息学分析[J]．分子植物育种，16(11):3458-3467.]

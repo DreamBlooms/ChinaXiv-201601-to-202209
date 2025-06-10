@@ -1,0 +1,242 @@
+# CFD Study on Local Fluid-to-Wall Heat Transfer in Packed Beds and Field Synergy Analysis
+
+PENG Wenping1,2, XU Min1, HUAI Xiulan1\*, LIU Zhigang
+
+1. Institute of Engineering Thermophysics, Chinese Academy of Sciences,Beijing 1O0190, China   
+2.University of the Chinese Academy of Sciences,Beijing 1OoO49, China   
+3.Energy Research Institute of Shandong Academy of Sciences, Jinan 25oo14, China
+
+$\circledcirc$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2016
+
+To reach the target of smaler pressure drop and better heat transfer performance，packed beds with small tube-to-particle diameter ratio $( D / d _ { \mathrm { p } } { < } 1 0 )$ have now been considered in many areas.Fluid-to-wall heat transfer coeficient is an important factor determining the performance of this typeof beds.In this work,local fluid-to-wall heat transfer characteristic in packed beds was studied by Computational Fluid Dynamics(CFD)at different Reynolds number for $D / d _ { \mathrm { p } } { = } 1 . 5$ ,3.0 and 5.6.The results show that the fluid-to-wall heat transfer coefficient is oscilating along the bed with smalltube-to-particle diameter ratio.Moreover,this phenomenon was explained by field synergy principle in detail. Two arrngement structures of particles in packed beds were recommended based on the synergy characteristic between flow and temperature fields.This study provides a new local understanding of fluid-to-wall heat transfer in packed beds with small tube-to-particle diameter ratio.
+
+# Keywords: Packedbed,Fluid-to-wallheattransfer,Field synergyprinciple,Computationalfluid dynamics,Heat transfer intensification
+
+# Introduction
+
+Packed beds have been extensively applied to chemical and industrial processes such as reactors,separators, dryers,filters and heat exchangers.To reach the target of smaller pressure drop and better heat transfer performance,packed beds are now being developed into small tube-to-particle diameter ratio $( D / d _ { \mathrm { p } } { < } 1 0 )$ (Dixon et al. [1]).Flow and heat transfer in this type of packed bed play an important role in determining the performance of the bed,and have therefore attracted an ever increasing attention of numerous investigations.A good local qualitative understanding and description of flow and heat transfer are important for the design and operation of such type of packed bed.
+
+For heat transfer in packed beds,studies on fluid-towall heat transfer in packed beds could be classified as theoretical study,experimental research and numerical simulation.In theoretical studies,packed beds are generally treated as one-dimensional pseudo-homogeneous media,two-dimensional pseudo-homogeneous media and heterogeneous media.Then fluid-to-wall heat transfer coefficient is obtained as a part of governing equation or a boundary condition.Hsu and Cheng [2] and Ozgumus et al. [3] had made a perfect summarization on twodimensional pseudo-homogeneous model in packed beds. The one-dimensional pseudo-homogeneous model now could be easily solved out.And,the analytical solutions for two-dimensional pseudo-homogeneous model and heterogeneous model were also presented by Dixon and
+
+# Nomenclature
+
+<html><body><table><tr><td>Ai</td><td>sectional area of an element (m²)</td><td>△T</td><td>Temperature gradient (K/m)</td></tr><tr><td>dp</td><td>diameter of particle (m)</td><td>U</td><td>fluid velocity in the entrance of packed beds (m s-1)</td></tr><tr><td>D</td><td>diameter of the packed bed (m)</td><td>Vd</td><td>volume of the macro-cylinder with the length of dz</td></tr><tr><td>hz</td><td>local fluid-to-wall heat transfer coefficient (W/(m² K))</td><td>Vpodz</td><td>volume of particles in the macro-cylinder with the length of dz</td></tr><tr><td>△p/L</td><td>Pressure drop per unit length (Pa/m)</td><td>X</td><td>position in x direction (m)</td></tr><tr><td>Pr</td><td>Prandtl number</td><td>y</td><td>position in y direction (m)</td></tr><tr><td>qwlz</td><td>local heat transfer in the wall (W/m²)</td><td>Z</td><td>axial position (m)</td></tr><tr><td>r</td><td>radial position (m)</td><td>Greek Symbols</td><td></td></tr><tr><td>Rez</td><td>Reynolds number based on superficial velocity</td><td>8</td><td>average void fraction through the bed</td></tr><tr><td>Ree</td><td>Reynolds number based on interstitial velocity</td><td></td><td>voidfraction intheinfinitesimalcylinder</td></tr><tr><td>Tf, avelz</td><td>local average temperature of fluid (K)</td><td>0</td><td>synergy angle in a mesh element in the x-y plane</td></tr><tr><td>Tw</td><td>Wall temperature (K)</td><td>Qavez</td><td>average synergy angle in the x-y plane</td></tr></table></body></html>
+
+Cresswell [4].However, the local information about flu id-to-wall heat transferisall absent in theoretical studies.
+
+Experimental studies on fluid-to-wall heat transfer in packed beds mostly focus on developing an explicit correlation of fluid-to-wall heat transfer coefficient to pre dict its value.Several correlations for fluid-to-wall heat transfer coefficient in packed beds can be found in the literatures.Both Miroliaei et al.[5] and Jorge et al.[6] had made a summarization on correlations for fluid-towall heat transfer coefficient in packed beds.Wen and Ding[7] also summarized correlations of fluid-to-wall heat transfer coefficient in packed beds and concluded that the Li-Finlayson correlation agrees best with their experimental data.However, the effect of local structure on fluid-to-wall heat transfer is not easy to be obtained in experimental studies.
+
+Computational Fluid Dynamics(CFD） is extensively used to investigate the fluid-to-wall heat transfer due to the fact that it is an effective tool for gaining local details in packed beds.Nijemeisland and Dixon [8] simulated fluid-to-wall heat transfer in packed beds by CFD,the results of which are in good agreement with the correlations proposed in the literatures. Guardo et al.[9] investigated the influence of turbulence model in CFD modeling on wall-to-fluid heat transfer in packed beds.Logtenberg and Dixon [1O] also used computational fluid dynamics to obtain the values of the dimensionless wall heat transfer coefficient.Unfortunately,to the best of our knowledge,how the local packing and flow structure are related to fluid-to-wall heat transfer in packed beds and what packing structures are optimal for heat transfer enhancement are still questions in the literatures.
+
+To address the above issues,the aim of this work is to establish a relation betweenlocal structure and fluid-towall heat transfer in packed beds with small tube-toparticle diameter ratio.We first use the Discrete Element Method (DEM) to obtain three-dimensional packed beds randomlypacked with spherical particles ina cylindrical tube.Thentheflowandlocalfluid-to-wallheattransfer in the beds are simulated by CFD. Finally, field synergy principle is used to analyze the effect of local packing and flow structure on fluid-to-wall heat transfer in packed beds,and the optimized structures are given.
+
+# Numerical methodology
+
+# Governing equations
+
+For the simulations in this study,full three-dimensional governing equations were applied. The conservation of mass,momentum and energy are needed for the flow and heat transfer of single phase fluid.
+
+The continuity equation for conservation of mass is given as:
+
+$$
+\frac { \partial } { \partial x _ { i } } { \left( \rho u _ { i } \right) } = 0
+$$
+
+where $\rho$ is the mass density, $x _ { i }$ are the Cartesian coordinates,and $u _ { i }$ are the velocity components.
+
+The momentum equation for conservation of momentum is given as:
+
+$$
+\frac { \partial } { \partial x _ { j } } \big ( \rho u _ { i } u _ { j } \big ) = - \frac { \partial p } { \partial x _ { i } } + \frac { \partial \tau _ { i j } } { \partial x _ { j } } + \rho g _ { i }
+$$
+
+where $p$ is the static pressure, $g _ { i }$ is the gravitational body force, $\tau _ { i j }$ is the stress tensor,defined as follows for
+
+Newtonian fluid:
+
+$$
+\tau _ { i j } = \left[ \mu \left( \frac { \hat { \sigma } u _ { i } } { \hat { \sigma } x _ { j } } + \frac { \hat { \sigma } u _ { j } } { \hat { \sigma } x _ { i } } \right) \right] - \frac { 2 } { 3 } \mu \frac { \hat { \sigma } u _ { l } } { \hat { \sigma } x _ { l } } \delta _ { i j }
+$$
+
+where $\mu$ is the dynamic viscosity,and $\delta _ { i j }$ is the Kro necker delta.
+
+The energy equation for conservation of energy is given as:
+
+$$
+\frac { \hat { \sigma } } { \hat { \alpha } _ { i } } ( \rho u _ { i } h ) = \frac { \hat { \sigma } } { \hat { \alpha } x _ { i } } \Biggl ( k _ { f } \frac { \hat { \sigma } T } { \hat { \alpha } x _ { i } } \Biggr ) + \frac { \hat { \sigma } } { \hat { \alpha } x _ { i } } \bigl ( u _ { j } \tau _ { i j } \bigr )
+$$
+
+where $h$ is the specific enthalpy,and $k _ { f }$ is the thermal conductivity.
+
+For turbulent flow,as Guardo et al.[9], one-equation modelischosenfor simulations on turbulentflowand its equation is as follows:
+
+$$
+\begin{array} { l } { \displaystyle { \rho u _ { j } \frac { \partial k } { \partial { x _ { j } } } = \frac { \partial } { \partial { x _ { j } } } \Biggl [ \Biggl ( \mu + \frac { { \mu _ { t } } } { { \sigma _ { k } } } \Biggr ) \frac { \partial k } { \partial { x _ { j } } } \Biggr ] } } \\ { \displaystyle { + { \mu _ { t } \frac { \partial { u _ { j } } } { \partial { x _ { i } } } \Biggl ( \frac { \hat { \alpha } { u _ { j } } } { \hat { \alpha } { x } _ { i } } + \frac { \hat { \alpha } { u _ { i } } } { \hat { \alpha } { x } _ { j } } \Biggr ) } - { c _ { D } } \rho \frac { { k ^ { 3 / 2 } } } { l } } } \end{array}
+$$
+
+where $\sigma _ { k }$ is Prandtl number of turbulence pulsation kinetic-energy, $c _ { D }$ is empirical coefficient, and $\mu _ { t }$ is turbulent pulsating viscosity, defined as follows:
+
+$$
+\mu _ { t } = c _ { \mu } ^ { \prime } \rho k ^ { 1 / 2 } l
+$$
+
+where $\boldsymbol { c ^ { \prime } } _ { \mu }$ is empirical coefficient,and $l$ is the turbulent pulsation length.
+
+# Geometric Model
+
+The packing structure has an important influence on the flow and heat transfer characteristics in packed beds. Therefore,the establishment of it should approach to the real situation as far as possible.This study developed a three-dimensional packed bed structure with uniform spherical particles randomly packingin a cylindrical tube using Hertze-Mindlin non-linear contact model in Discrete Element Method (Ucgul et al.[11]).The packed beds with $D / d _ { \mathrm { p } }$ of1.5,3.0 and 5.6 are shown in Fig. 1.In the simulations,the diameter of particles is $3 \mathrm { m m }$ and the length of the cylindrical tube is about five times the diameter of particles.Although the length of the beds is short,the entrance effect only affects magnitude of heat transfer and not impacts the morphological characteristics of heat transfer.The material of spherical particles is glass and that of tube wall is steel. As to coordinate system of the bed, the $z$ direction is parallel to the axis of the bed,with the $x$ and $y$ directions determined by right-hand screw rule.For the bed with $D / d _ { \mathrm { p } } { = } 5 . 6$ ,local void fraction of DEM simulation were compared with MRI data of Sederman et al.[12] and predicted values of correlations of Klerk[13] and Mueller[14],as shown in Fig.2.It can be seen that the distribution of void fraction along the radial direction of the bed from simulation are,asa whole, in agreement with MRI data and predicted values of correlations,though there are a little discrepancies between simulation and data/correlation,especially at the maxima and minima.Local void fraction of the simulation is slightly greater than experimental data because the simulated bed is loose packing compared with the experimental packing.Even so,the packing structure built using DEM could reflect the real situation of packed beds, considering the deviation of experiment and simulation and the change of real height of packed particles in the radial direction of the bed.
+
+![](images/8bd63741d3c4eff3976c57083e99c605b80b4ecdd24be4e6fb02ef7729edb37f.jpg)  
+Fig.1 Geometry models of packed beds with tube-to-particle diameter ratio of1.5,3.0 and 5.6.
+
+![](images/effacb251a3969349ca61fbefb029e0c78383871746228724c3390aa8a5f6f22.jpg)  
+Fig.2Comparisons of radial distribution of void fraction between CFD calculation and MRI measurement and prediction of correlations in the packed bed with $D / d _ { \mathrm { p } } { = } 5 . 6$
+
+# Mesh generation
+
+Before mesh generation, the zones near contact points ofparticle-particle and particle-wall must be modified for the good mesh quality and the calculating convergence in numerical simulations.In this work,particles were contracted by $0 . 5 \%$ of their diameter.As to this method,DiXon etal.[1] and Nijemeisland andDixon [8] had made a conclusion that both the $9 9 . 5 \%$ and $9 9 \%$ sphere size models show negligible difference from the touching model in aspect of velocity distribution.Triangular mesh Was chosen for the surface of particles and tube wall and tetrahedral mesh for fluid zone,as shown in Fig.3.The suitability of mesh used for the simulationis checked and thepackedbed with $D / d _ { p } { = } 1 . 5$ is selected for mesh-independence verification.Three sets of meshes with total element number of 1683408,3217115 and 7132803 are used for the test and the maximal mesh sizes in the fluid zone are of $d _ { p } / 1 0 , d _ { p } / 2 0$ and $d _ { p } / 4 0$ correspondingly. Furthermore,the maximal mesh size on the particle surfaces is limited to $d _ { p } / 3 0$ .It is shown in Fig.4 that the deviation of velocity magnitude in meshes with the maximum mesh sizes of $d _ { p } / 1 0$ in fluid zone is very small with that of other two meshes.The mesh with the maximum size of $d _ { p } / 1 0$ in fluid zone is chosen for all packed beds,in order to avoid the big computer hardware requirements and shorten the calculation time.
+
+![](images/051369b0e341fe6cfdb732e21a9501d997f0f6eafc8117d7d937f28d7d56d26c.jpg)  
+Fig.3Meshes in the packed bed with $D / d _ { \mathrm { p } } { = } 1 . 5$
+
+0.20★5 海福 中 D/dp=1.5,dp=3mm,Re=100,z/dp=2 ：0 Mesh numbers中烟如串0城斯 1683408 ★  
+0.10。 3217115★ 7132803音 中。高  
+0.05 丧 ★ 中安中 ”量  
+0.000.0 0.3 0.6 0.9 1.2 1.5y/dp
+
+# Simulation Methodology
+
+Simulations on flow and heat transfer in packed beds were carriedoutin ANSYSFLUENT12.0.Three-dimensional Navier-Stokes equations,namely Eqs.(1-2),were firstly used to simulate the laminar flow of fluid through the packed bed. The one-equation turbulence equation, namelyEq.(5),wasaddedforthe turbulentflow.In this study,three interstitial Reynolds number $R e _ { \varepsilon }$ of 10,100 and1OOO were chosen to simulate the flow and heat transfer in packed beds.According to the transition regime of Dybbs and Edwards [15], the flow is laminar for $R e _ { \varepsilon } = 1 0$ and 1OO,and turbulent for $R e _ { \varepsilon } = 1 0 0 0$ .Air was chosen as the fluid through the bed and its physical property parameters are: $\rho = 1 . \dot { 2 } 2 5 \mathrm { k g } / \mathrm { m } ^ { 3 }$ ， $c _ { p } = 1 0 0 6 \mathrm { J } / ( \mathrm { k g } { \cdot } \mathrm { K } ) .$ $k _ { f } = 0 . 0 2 4 2$ ${ \bf W } / ( \mathrm { m } { \cdot } \mathrm { K } )$ and $\mu = 1 . 7 8 \times 1 0 ^ { - 5 } ~ \mathrm { P a \cdot s }$ .The operation condition pressure is $1 0 1 3 2 5 \mathrm { P a }$ .Boundary conditions were set asvelocity-inlet for inlet of packed bed,pressure-outlet for outlet of packed bed,no-slip wall condition for surface of particles and wall. The pressure-velocity coupling Was carried out by the SIMPLE scheme.Second-order upwind schemes were used for the convective terms in the momentum equation. Simulations were not stopped until the residuals fall below $1 \times { 1 0 } ^ { - 5 }$ for density, velocity and turbulent kinetic energy. Moreover, the drag in the surface of particles was as a monitor for simulations of flow. Then the predicted flow results were used to simulate fluid-to-wall heat transfer by solving the energy equation，namely Eq.(3). Boundary conditions were set as 373K for inlet of packed bed,heat insulation for surface of particles,and 293.15K for tube wall.Second-order upwind schemes were used for the convective terms in the energy equation. Simulations were not stopped until the residuals fall below $1 \times { 1 0 } ^ { - 9 }$ for energy. The average temperature in the surface of particleswasalsoasamonitorfor simulations of heat transfer.
+
+# Validation
+
+To validate the reliability of CFD simulation on packed beds,the CFD results of pressure drop were compared with the predicted values by correlations of Ergun [16], Zhavoronkov et al. [17] and Reichelt [18],as shown in Fig.5.It can be seen that the simulated results are in good agreement with those estimated using Zhavoronkov et al.'s and Reichelt's correlations for $R e _ { \varepsilon } = 1 0$ and 100. The pressure drop in packed beds with small $D / d _ { \mathrm { p } }$ isunderestimated by Ergun's equation at low Reynolds number due to wall friction or viscose forces effects at the wall. The simulated results are slightly greater than those estimated by correlations for $R e _ { \varepsilon } = ~ 1 0 0 0$ ，which may caused by the entrance effect and global shrinking of particles.What also can be seen from Fig.5 is that pressure drop per unit length increases with the increasing of tube-to-particle diameter ratio due to the decreasing of void fraction.However, the increasing rate of it decreases with the increasing of tube-to-particle diameter ratio pos sibly on the account that the decreasing rate of void fraction also does.
+
+![](images/07c4c9f8b4d3d05c2195f2c5a9909e9b00fca75776203429eb0fac3c695114b2.jpg)  
+Fig.4Variations of velocity magnitude with mesh numbers in the packed bed with $D / d _ { \mathrm { p } } { = } 1 . 5$ ：   
+Fig.5Comparison of values of pressure drop between CFD calculation and prediction of correlations.
+
+# Results and Discussion
+
+# Local fluid-to-wallheattransfercoefficient
+
+Local fluid-to-wall heat transfer coefficient could be obtained through dividing temperature difference between the average temperature of fluid and wall temperatureininfinitesimalcylinderbytheheatratetransferred through the wall between $z$ and ${ z + d z }$ . The calculating equation could be expressed as follows:
+
+$$
+h _ { z } = { \frac { q _ { w } { \Big | } _ { d z } } { T _ { f , a v e } { \Big | } _ { d z } - T _ { w } } }
+$$
+
+Fig.6 shows the distributions of fluid-to-wall heat transfer coefficient and void fraction along the bed at different Reynolds number for various $D / d _ { p }$ . Local void fraction $\varepsilon _ { z }$ in infinitesimal cylinder between $z$ and ${ z } + d z$ could be obtained using the following equation:
+
+$$
+\varepsilon _ { z } = \frac { V _ { p , d z } } { V _ { d z } }
+$$
+
+What can be seen from Fig.6 are as follows:i) fluidto-wall heat transfer coefficient is periodic oscillating along the bed with wave crest and trough alternately presenting.The fluid-to-wall heat transfer coefficient attains to the maximum at the inlet of the bed,then quickly de creases,and finally becomes periodic oscillating.
+
+The distribution of fluid-to-wall heat transfer coefficient along the bed is similar to that of local void fraction. just with their wave crest and trough in different positions.In packed beds with same $D / d _ { p }$ ,local fluid-to-wall heat transfer coefficient increases with the increasing of intersticeReynoldsnumber,aswell asdifference value between peak and trough adjacent. And, the positions of Wave trough in the distributing curve move to the outlet direction of the bed with the increasing of $R e _ { \varepsilon }$ .Under the condition of equivalent interstice Reynolds number $R e _ { \varepsilon }$ local fluid-to-wall heat transfer coefficients decrease with the increasing of tube-to-particle diameter ratio $D / d _ { p }$ ，as well as different values between peak and trough adja cent,which may be dependent on the decrease of oscillationinvoid fractionnear thewall.Thethreerulesabove will be explained in detail using field synergy principle in the next section.
+
+Fig.7 shows temperature contour maps in the $x { - } z$ plane for different $D / d _ { \mathrm { p } }$ at $R e _ { \varepsilon } { = } 1 0 0$ . It can be seen that periodic thermal boundary layers present near the wall, which further confirms the existence of the oscillation of wall heat transfer coefficient along the bed.In addition,it also can be found that the temperature gradient in the region away from the wall is much less than that near the wall for the cases studied. It elucidates that the mixing heat resistance in the region away from the wall is much less than the heat resistance near the wall for the cases studied.In other words,the periodically oscillating beha vior of fluid-to-wall heat transfer coefficient along the bed is,to a great extent,from the periodical change of void fraction near the wall.The reason why the oscillating characteristic of heat transfer coefficient along the bed cannot be obtained in theoretical models may be that void fraction is set to constant in the model,but void fraction,especially near the wall,is oscillating along the bed with small tube-to-particle diameter ratio.
+
+![](images/7b573be61dda53c02959adbf7221a214a51d847344d0b8d45f68bd371371919f.jpg)  
+Fig.6 Local fluid-to-wall heat transfer coefficients along the bed at different Reynolds number and local void fraction along the bed
+
+![](images/8c8fdecb08f1d84ac42925a8aadca875ef0fa41831da313c11d3377056aa0e07.jpg)  
+Fig.7Temperature contour maps in the $x { - } z$ plane for different tube-to-particle diameter ratio at $R e _ { \varepsilon } { = } 1 0 0$
+
+# Field synergy analysis
+
+Field synergy principle,proposed by Guo and Li [19], elaborates the physical mechanism of convection heat transfer in the view of the synergy between flow field and temperature field. This theory demonstrates that the performance of convection heat transfer depends not only on the velocity of fluid,the physical properties and the temperature difference between fluid and wall,but also on the synergy angle of velocity field and temperature field.In other words, the better the synergy between velocity and temperature fields is,the higher is the intensity of heat transfer under the same boundary conditions of velocity and temperature.
+
+It can be concluded from the previous section that there are some relationship between the oscillation of fluid-to-wall heat transfer coefficient along the bed and the distributions of local void fraction and local packing structure. However, how void fraction and packing structure affect fluid-to-wall heat transfer still needs to be further accounted for by field synergy principle. In numerical simulations, the synergy angle $\theta _ { i }$ in a mesh element between velocity and temperature gradient can be calculated from Guo and Huang [20]:
+
+$$
+\theta _ { i } = \operatorname { a r c o s } \left( \frac { \vec { \mathbf { U } } \cdot \nabla T } { \vec { \left| \vec { \mathbf { U } } \right|}  \left| \nabla T \right| } \right)
+$$
+
+The local average synergy angle $\theta _ { a \nu e , z }$ ,inthe $x { - } y$ plane in the position of $z$ ,can be acquired from Guo and Huang, [20]:
+
+$$
+\theta _ { a \nu e , z } = \frac { \displaystyle \sum _ { z } A _ { i } \theta _ { i } } { \displaystyle \sum _ { z } A _ { i } }
+$$
+
+Fig.8 shows the distributions of fluid-to-wall heat transfer coefficient $h _ { z }$ and local average synergy angle $\theta _ { a \nu e , z }$ along the bed.It can be seen from Fig. 8 that synergy angle at the inlet attains to the minimum,and thus the synergistic characteristics there is the best throughout the bed leading to the strongest intensity of heat transfer. Then the synergy presents a periodically oscillating characteristic,so does the corresponding heat transfer coefficient. This may be caused by the periodic variation of local void fraction near the wall.
+
+Fig.9 shows the distributions of velocity and temperature in the $x { - } y$ plane for $D / d _ { p } { = } 1 . 5$ at different Reynolds number.It also can be seen that the synergistic characteristic at the inlet is the best throughout the bed,and the synergy as well as the arrangement structure of particles presents a periodicity along the bed.Typically,a triangular structure formed by three particles and wall (Zone 1), periodically presents along the bed,as shown in Fig.9.In this triangular structure,the synergy is good at the corner between two particles close to the entrance of the bed, whereas a bit poor at other place.It is consistent with the distribution of local average synergy angle along the bed in Fig. 8.
+
+The other phenomenon,observed from Fig.9, is that eddyappears if interstice Reynolds number attains to 100 which is in favor of the synergy enhancement.The heat transfer intensity is directly proportional to flow velocity. Local heat transfer coefficients therefore increase with the increasing of flow velocity.Moreover, the oscillating amplitude of the distributing curve of local heat transfer coefficients increases with the increasing of flow velocity. This is because the heat transfer is significantly enhanced in the location of small synergy angle with the increasing of flow velocity，whereas that in the location of large synergy angle changes little.
+
+The synergy characteristics in packed beds with $D / d _ { p } =$ 3.0 and $D / d _ { p } = 5 . 6$ has the same distributions as in the packedbed with $D / d _ { p } = 1 . 5$ ,aswell as the influence mechanism of flow velocity on heat transfer,as shown in Figs.1O-13. Just the local average synergy angle increases with the increasing of tube-to-particle diameter ratio at the equivalent interstice Reynolds number.
+
+The decrease of synergy characteristics with the increasing of tube-to-particle diameter ratio may be due to the fact that the amount of the triangular structure formed by three particles and the wall like Zone 1 in Figs.9,11 and 13 reduces near the wall with the increase of $D / d _ { p }$ = This causes the decrease of values and axial oscillating amplitude of local heat transfer coefficients.Based on this rule,we can predict that the oscillating behavior of heat transfer coefficient along the bed will disappear only if tube-to-particle diameter ratio is large to an extent since the uniformity of void fraction prevails near the wall in the axial direction of the bed.In Figs.11 and13, the triangular structure can be observed in a little place near the wall,and eddy also appears if flow velocity reaches a specific value.In fact,the synergy between velocity field and temperature field formedinthis triangular structure,on the whole,is the best among all struc
+
+140 90 120 -80 100 -70 ()-zu)/M)y 80 DdHetRoeftcien 60 Aθ 60 -Average synegy angle -50 40 9 品 -40 自 四 20 -30 0.00.51.0 1.5 2.0 2.5 3.0 3.54.0 4.5 5.0 5.5 z/dp (a)Re=10 180 90 160 □ 中 80 140 70 ⑥ 100 D/d=1.5,Re=100 60 80 品 -esice 50 60 中 40 40 中 0 20 30 0.00.51.0 1.5 2.0 2.5 3.03.5 4.0 4.5 5.0 5.5 z/dp (b)Re=100 400 90 360 80 320 70 品 路 品！ 品 50 60 0ave 200 品 中 电 40 160 电 D/d 1.5,Re=1000 120 0 □ Heattrans fer coefficfent 30 Average synergy angle 80 20 0.00.51.01.5 2.02.53.03.5 4.04.55.0 5.5 z/dp (c)Re=1000
+
+![](images/a71103d03c166e357bdf9c633c50184931234f9fee3f2ea901fcc4c9338ee3cb.jpg)  
+Fig.9Streamline and temperature contours in the $x { - } z$ plane in the packed bed with $D / d _ { \mathrm { p } } { = } 1 . 5$
+
+![](images/a1d1642457b33b6473e980e97f88a2e5656463d2aeebf6c9904c221b37b4d274.jpg)  
+Fig.8Local fluid-to-wall heat transfer coefficients and average synergy angle along the bed for $D / d _ { \mathrm { p } } { = } 1 . 5$   
+Fig.10Local fluid-to-wall heat transfer coefficients and average synergy angle along the bed for $D / d _ { \mathrm { p } } { = } 3 . 0$
+
+![](images/fac4ea4fadfc6acf2f83f23dd70e9fff7e2a4d243b6b542a31843f21fde4252f.jpg)  
+Fig.11 Streamline and temperature contours in the $x { - } z$ plane in the packed bed with $D / d _ { \mathrm { p } } { = } 3 . 0$
+
+tures near the wall.Therefore,the triangle structure is suggested to be arranged near the wall as far as possible.
+
+Based on the reinforcement mechanism of heat transfer,the synergy between velocity field and temperature fieldis good at the place where the disturbed flow forms (Yang and Tao [21]). Ina randomly packed bed, the disturbed flow forming in two kinds of structures is strong in the region away from the wall: one is the rhombus structure with a pair of edges having a gap and another pair of edges not doing,like Zone 2 in Figs.11 and 13, where the continuously disturbed flow may form; another is the rhombus structure with both two pairs of edges having a gap,like Zone 3 in Fig.13,where the cross disturbed flow may form.The mixing of fluid is enhanced, and a jet may produce if the fluid flows through these two structures.Based on the existing theory,the cross disturbed flow is the best way to strengthen heat transfer among these two kinds of disturbed flows（Yang and Tao [21]).Therefore,the rhombus structure with both two pairs of edges having a gap is suggested to be arranged in the region away from the wall as far as possible.
+
+To validate the reliability of the study on heat transfer in packed beds,the average wall Nusselt number obtained using Eq.(9) in the simulations are compared with predicted values of correlations suitable for the cases studied,as shown in Fig.14.It can be seen that CFD data arein good agreement with predicted values of correlations shown in Tab.2 with deviation within $2 5 \%$ ：
+
+![](images/61aead59cd97ccd256472948d8acf5f2218540a5781ad43b6de81b3b9ee4b6ce.jpg)  
+Fig.12 Local fluid-to-wall heat transfer coefficients and average synergy angle along the bed for $D / d _ { \mathrm { p } } { = } 5 . 6$
+
+$$
+N u _ { w } = \frac { d _ { p } } { k _ { f } L } \int _ { 0 } ^ { L } h _ { w , z } d z
+$$
+
+# Conclusions
+
+Tounderstand fluid-to-wall heat transfer coefficient in packed beds,in this study,we firstly built randomly packing structure of particles in packed beds with small tubeto-particle diameter ratio $( D / d _ { p } { < } 1 0 )$ usingDEM,andthen simulated the fluid-to-wall heat transfer by CFD.Finally, we demonstrated the characteristics of local fluid-to-wall heat transfer and its relationship with local structure and flow using field synergy principle. The following major conclusions can be drawn.
+
+![](images/15753bed167dbfd2943529697f77089564a21c83001269b11ceb923480fa6dbd.jpg)  
+Fig.13Streamline and temperature contours in the $x { - } z$ plane in the packed bed with $D / d _ { \mathrm { p } } { = } 5 . 6$
+
+![](images/3ee407e1ad61e9cf70fefc9eb4e38dcc10526cac9a823cda52922195d20c8284.jpg)  
+Fig.14Comparisons of average wall heat transfer coefficients between the simulations and the correlations.
+
+(1)In packed bedswith small $D / d _ { p }$ ,the fluid-to-wall heat transfer coefficient is periodically oscillating along the bed with wave crest and trough alternately presenting It attains to the maximum at the inlet of the bed, then quickly decreases,and finally becomes a periodical oscillating. The distributions of fluid-to-wall heat transfer coefficient along the bed are similar to that of local void fraction, just with their wave crest in different positions;
+
+(2)In packed beds with same $D / d _ { p }$ ，the fluid-to-wall heat transfer coefficient increases with the increasing of interstice Reynolds number $R e _ { \varepsilon }$ ，aswell as difference values between peak and trough adjacent;
+
+(3)Under the equivalent interstice Reynolds number, thefluid-to-wall heat transfer coefficient decreases with the increasing of tube-to-particle diameter ratio $D / d _ { p }$ ，as well as difference values between peak and trough adja cent.Based on this rule,we predict that the oscillating behavior of the local heat transfer coefficient along the bed will disappear only if tube-to-particle diameter ratio is large to an extent since the uniformity of void fraction near the wall prevails along the beds;
+
+(4) The distribution of fluid-to-wall heat transfer coefficient along the bed and the changing rules of it with flow velocity and tube-to-particle diameter ratio are elucidated through field synergy analysis on velocity and temperature fields. The triangular structure formed by three particles and the wall is suggested to be arranged near the wall and the rhombus structure with both two pairs of edges having a gap is suggested to be arranged in the region away from the wall.
+
+# Acknowledgements
+
+This research is supported by the National Natural Science Foundation of China(51276181,51476173)and the National Basic Research Program of China (2O11CB 710705).
+
+# References
+
+[1]Dixon，A.G.，Nijemeisland，M.，Stitt，E.H.，(2006), Packed tubular reactor modeling and catalyst design using computational fluid dynamics,Advances in Chemical Engineering,Vol.248,pp.307-389.   
+[2]Hsu,C.T.,Cheng,P.,(199O)，Thermal dispersion in a porous medium, International Journal of Heat and Mass Transfer, Vol.33,pp.1587-1597.   
+[3] Ozgumus，T.，Mobedi,M.，Ozkol,U.，Nakayama,A., (2013),Thermal dispersion in porous media-A review on the experimental studies for packed beds,Applied Mechanics Reviews,Vol. 65,pp.031001-1-19.   
+[4] Dixon,A.G., Cresswell,D.L.,(1979), Theoretical prediction of effective heat transfer parameters in packed beds. AIChE Journal, Vol. 25,pp. 663-676.   
+[5]Miroliaei,A.R., Sharhraki,F.,Atashi H.,(2011),Computational fluid dynamics simulations of pressure drop and heat transfer in fixed bed reactor with spherical particles, Korean Journal Chemical Engineering，Vol. 28，pp. 1474-1479.   
+[6]Jorge,L.M.M., Jorge,R.M.M., Giudici R.,(2010),Experimental and numerical investigation of dynamic heat transfer parameters in packed bed.Heat and Mass Transfer, Vol.46,pp.1355-1365.   
+[7]Wen,D.S.,Ding,Y.L.,(2O06),Heat transfer of gas flow through a packed bed.Chemical Engineering Science, Vol. 61, pp. 3532-3542.   
+[8] Nijemeisland,M.,Dixon，A.G,(20o1),Comparison of CFD simulations to experiment for convective heat transfer in a gas-solid fixed bed, Chemical Engineering Journal, Vol. 82,pp.231-246.   
+[9] Guardo,A., Coussirat, M.,Recasens,F.,Larrayoz,M.A., Escaler,X.,(2oo5),Influence of the turbulence model in CFD modeling of wall-to-fluid heat transfer in packed beds, Chemical Engineering Science,Vol. 6O,pp.1733-1742.   
+[10]Logtenberg S.A. Dixon A.G.,(1998), Computational fluid dynamics studies of fixed bed heat transfer,Chemical Engineering Process,Vol.37,pp.7-21.   
+[11]Ucgul，M.，Fielke,J.M.，Saunders,C.，(2014)，Threedimensional discrete element modeling of tillage: determination of a suitable contact model and parameters for a cohesionless soil, Biosystems Engineering, Vol.121, pp 105-117.   
+[12]Sederman，A.J.，Alexander,P.，Gladden，L.F.,(2001), Structure of packed beds probed by Magnetic Resonance Imaging,Powder Technology, Vol.117,pp.255-269.   
+[13]Klerk，A.,(2Oo3)，Voidage variation in packed beds at small column to particle diameter ratio,AIChE Journal, Vol. 49, pp.2022-2029.   
+[14]Mueller, G.E.,(1992),Radial void fraction distributions in randomly packed fixed beds of uniformly sized spheresincylindrical containers,Powder Technology,Vol.72, pp. 269-275.   
+[15]Dybbs A.,Edwards R.V.,(1984),Fundaments of transport phenomena in porous media,Martinus Nijhoff,Dordrecht.   
+[16]Ergun,S.,(1952),Fluid flow through packed columns, Chemical Engineering Progress,Vol. 48, pp. 89-94.   
+[17]Zhavoronkov,N.M.,Aerov,M.E.,&Umnik,N.N.,(1949), Hydraulic resistance and density of packing of a granular bed.Journal of Physical Chemistry,Vol.23,pp.342-361.   
+[18]Reichelt,W.,(1972), Zur Berechnung des Druckverlustes einphasig durchstromter Kugel- und Zylinderschuttungen. Chemie-Ingenieur-Technik,Vol. 44,pp.1068-1071.   
+[19] Yagi S.,Wakao N.,(1959),Heat transfer from wall to fluid in packed beds,AIChE Journal,Vol.5,1959,pp. 79-85.   
+[20]Li C.,Finlayson B.A.,(1977),Heat-transfer in packedbeds-re-evaluation, Chemical Engineering Science，Vol. 32,pp.1055-1066.   
+[21]Demirel Y.,Sharma R.N.,Al-Ali H.H.,(2O0O),On the effective heat transfer parameters ina packed bed, International Journal of Heat and Mass Transfer, Vol. 43, pp. 327-332.

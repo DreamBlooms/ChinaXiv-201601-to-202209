@@ -1,0 +1,689 @@
+[
+    {
+        "type": "text",
+        "text": "基于二模复杂网络的共享经济平台用户交互行为研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈远　刘福珍吴江(武汉大学信息管理学院武汉 430072)(武汉大学电子商务研究与发展中心 武汉 430072)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】在\"共同拥有而不占有\"的共享经济理念下，探索如何优化供需方的服务。【方法】爬取“小猪短租”的用户数据，利用二模网络分析工具Ucinet探究用户位置演变，结合一模网络中用户复杂关系，构建固定效应模型分析个体中心度对相连用户交易行为的影响程度。【结果】度数中心度会正相关显著影响相连用户行为，而房东中介中心度显著影响房客消费行为，核心房客中介中心度显著影响房东订单供应行为。【局限】主要针对互动性强的用户采取滚雪球抽样，无法完全体现整个关系网络的特点。【结论】为了促进小猪短租因交易行为构建的社会网络活跃，应鼓励用户充当消费者，并主动参与其中作为服务提供商。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：二模网络 共享经济中心度用户行为短租平台分类号：TP393",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "共享经济是闲置资源使用权的暂时性转移[1]，是一种网络用户与其他用户进行互动的经济模式[2]，主要由社交享乐、道德效益和经济效益所推动[3]。行业预测，与2015年150亿的规模相比，2025年共享经济的规模将有潜力增至3350亿[4]，共享经济将改变酒店和旅游行业未来的发展动态。对应国外的典型代表Uber 和Airbnb，国内途家、滴滴、小猪短租、共享单车等也逐渐掀起一股热潮。共享经济主要体现在5个方面：旅行住宿、物流、交通、服务和闲置用品，未来将会呈现一种全民参与、全民共享的趋势[5]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在线短租是共享经济在空间分享的一种表现形式，即两个陌生人进行网上交易，房客愿意去体验房主提供的生活空间。“小猪短租\"是中国市场上仅有的一家坚持做个人房源的短租平台[，其定位于共享经济实践者、有人情味的在线社交短租平台，良好的供需互动搭建起朋友社会关系网络[7]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "社会网络是一种由节点和连边组成的群集，其中节点是社会活动的行动者，如个人或组织[8]，连边是节点间信息交流的典型标志，比如朋友关系[9。社会网络是指个人间的关系网络，而群体是社会网络中的重要组成元素之一，是结识具有共同兴趣爱好个体的集合。由于存在群体多样性，社会网络中的行为人可以属于多个群体。在线短租中存在两种群体：供应方和需求方。二模网络分析基于两个或多个群体，研究不同群体中个体成员的网络关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文通过二模网络分析用户在不同时期的社会网络位置，结合一模网络用户角色及行为关系，通过构建固定效应模型观察个体参与的活跃度对其他个体以及自身行为的影响。从社会网络的角度，研究用户基于交易行为构建复杂关系网络中心度随时间演变的原因；从消费者行为的角度，探索社会网络位置及用户多重角色对相连节点行为选择的影响程度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 研究背景",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "共享经济中，信任是形成用户关系网络的基础，也是影响用户行为的重要因素[10]。而感知信任是受托人根据一种隐性或显性的迹象以某种方式去应答对方的主观感受[11]。从社会网络的角度研究交易双方的信任关系以及互动选择行为，对于未来相关研究提供了新的思路，为供应商如何获得消费者需求提出策略，也对消费者选择优质商家有一定的启发作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在共享经济领域研究方面，目前尚没有文献采用社会网络分析方法来探究用户行为。国内外文献主要基于实证法研究用户的行为意图。Edelman等提出不同商家提供的个人概况可能会导致年龄等歧视，影响消费者行为[12]；Karlsson 等探究房东接受房客预定的影响因素，如房东更愿意接受老人或女性房客[13]；同时，谢雪梅等通过构建共享信任机制框架认为房东特性和产品特性对顾客的购买意图有重要影响[14]。Wu等抓取“小猪短租\"的数据，利用信任理论验证房屋属性、房东属性对消费者购买行为的影响[15]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在二模网络方法应用方面，很少学者利用该方法研究经济交易中不同用户的行为。Putnik等利用社会网络分析方法探究度数中心度、接近中心度、中介中心度等对学生质量成绩、数量成绩、多样性成绩和最终成绩的影响程度[16]。国外学者主要利用Ucinet研究:组织间合作行为[17]、青少年吸烟喝酒行为[18]、知识流动[19]等；国内学者主要研究：搭便车行为[20]、不同社交媒体上的流动行为[21]、学术博客交流行为[22]以及微博用户群体行为[23]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结合以上文献，共享经济中用户行为研究主要采用实证法。本文利用二模网络分析法，通过社会网络位置从微观的角度反映个体影响程度以及交互行为参与度。基于二模网络的文献研究主要是探索合作双方的群体行为，而本文选择\"小猪短租\"作为研究对象,对于供需双方实现共赢有很大借鉴意义。对于供方而言，应该从外部环境和内部结构中寻求服务的优化，增强用户忠诚度，扩大社会网络中的用户群以提高订单量，使自身处于社会网络中的核心位置；对于需方而言，处于社会网络中的有利位置可以更好地获得优质的信息资源，接触多样化的提供商以享受优质服务，从而实现利益最优化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3“小猪短租\"的数据选择与问题假设",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 数据集选择",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于局部特征反映个体的互动性，社会网络能够将局部连接特点和整体结构联系起来[24]。根据社会网络中群体的特点，群体节点与群体外节点不仅仅存在简单的一对一的关系，同时有复杂的一对多、多对一以及多对多的对应结构。为探究共享经济平台的社会网络结构特性，选取“小猪短租\"作为研究平台，而房东和房客两个群体的对应关系绝大多数是一对多结构，内部的关系网络不像社区那样具有很强的知识流动性，所以选定某些从属于多个群体的用户为研究对象，采取滚雪球式抽样[25方法。因此爬取了2016年8月-10月的上海\"小猪短租\"用户数据得到房客表、房东表、订单表等，按照订单联系进行匹配得到互动性强的20个房东，其对应房客有约2000人，筛选后的用户群体形成了较活跃的社会网络。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 数据二模化处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同类型用户在在线短租平台上因交易行为而处于社会网络的不同位置，本文旨在研究社会网络结构对其行为人相互选择的影响。为探究此类平台上不同群体的网络结构，根据用户扮演的供需角色，建立相应的二模关系网络。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在二模网络中，社会网络中的节点由两种不同类型的节点组成，通过某种联系而相连[26]。而其中的数据集可以用一个矩阵表示，行和列代表不同类型的实体[27]。根据房东与房客在社会网络中扮演的角色不同,一个是供应商，一个是消费者，通过交易订单而建立联系。笔者利用二模社会网络分析工具—Ucinet[28]可视化分析在线短租呈现的网络结构，避免单模网络中信息丢失的现象发生，研究不同类型的行为人在关系网络中相互影响的因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2dd8fa7a869a787e343ec17039f8a5881f4c78c2f7e082ad4b2da37138984e64.jpg",
+        "table_caption": [
+            "表12016年8月-10月\"小猪短租\"数据汇总"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时期</td><td>节点数</td><td>新增 节点数</td><td>边数</td><td>新增 订单数</td><td>关系</td><td>新增 关系数</td></tr><tr><td>8月</td><td>1958</td><td>1</td><td>3266</td><td></td><td>2 125</td><td></td></tr><tr><td>9月</td><td>2204</td><td>246</td><td>3 722</td><td>456</td><td>2 400</td><td>275</td></tr><tr><td>10月</td><td>2367</td><td>163</td><td>4018</td><td>296</td><td>2 579</td><td>179</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据如表1所示的用户订单数据构建关系矩阵，其中“列\"代表房客，“行\"代表房东。在矩阵中，每一次交易行为会对应形成一组行动者X和Y，存在关系向量(X,Y)，在交易中,X代表房客,Y代表房东。若 $( \\mathrm { X } , \\mathrm { Y } ) { = } 1$ ，则表示X是Y的房客；若 $( \\mathrm { X } , \\mathrm { Y } ) { = } 0$ ，即行动者X和Y没有发生交易行为。利用Ucinet中的Netdraw功能将8月-10月的三个样本互动关系矩阵进行可视化处理，“小猪短租\"用户关系结构图如",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在\"小猪短租\"平台上，行动者可以拥有双重角色，通过二模网络反映不同用户群体作为特定角色时在社会网络中的位置，同时结合一模网络中用户的出入度如表2所示，观察其角色互换是否与二模网络中的位置有因果关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f13895e721391f3e862ce1516edd94d48d52c34fa6a76345c5632aa6def68bf4.jpg",
+        "img_caption": [
+            "图12016年8月-10月“小猪短租”用户关系结构图(注：圆圈代表房客，矩形代表房东。）"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e248c9bb15fa7c5d03b2955042922e88ce7bc8fe1c87ba5edb19121c83b25b8.jpg",
+        "table_caption": [
+            "表2一模网络中的用户出入度(部分)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Uname</td><td colspan=\"2\">8月</td><td colspan=\"2\">9月</td><td colspan=\"2\">10月</td><td colspan=\"2\">变化量</td></tr><tr><td>Outdegree</td><td>Degree</td><td>Outdegree</td><td>Degree</td><td>Outdegree</td><td>Degree</td><td>Rate1</td><td>Rate2</td></tr><tr><td>水果女王</td><td>1</td><td>5</td><td>1</td><td>5</td><td>1</td><td>5</td><td>0</td><td>0</td></tr><tr><td>虹狐狸</td><td>2</td><td>237</td><td>2</td><td>244</td><td>2</td><td>245</td><td>7</td><td>1</td></tr><tr><td>星期日</td><td>0</td><td>202</td><td>0</td><td>336</td><td>0</td><td>405</td><td>134</td><td>69</td></tr><tr><td>一人依梦</td><td>5</td><td>358</td><td>5</td><td>395</td><td>5</td><td>443</td><td>37</td><td>48</td></tr><tr><td>NANA_</td><td>2</td><td>442</td><td>2</td><td>486</td><td>2</td><td>509</td><td>44</td><td>23</td></tr><tr><td>曾国藩</td><td>0</td><td>470</td><td>0</td><td>489</td><td>0</td><td>505</td><td>19</td><td>16</td></tr><tr><td>蒋小姐</td><td>0</td><td>15</td><td>0</td><td>16</td><td>0</td><td>16</td><td>1</td><td>0</td></tr><tr><td>杨洋洋 YAYANGNG</td><td>5</td><td>55</td><td>5</td><td>55</td><td>5</td><td>55</td><td>0</td><td>0</td></tr><tr><td>DP</td><td>4</td><td>122</td><td>4</td><td>226</td><td>4</td><td>279</td><td>104</td><td>53</td></tr><tr><td>柏林</td><td>0</td><td>313</td><td>0</td><td>347</td><td>0</td><td>365</td><td>34</td><td>18</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "74 数据分析与知识发现",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3基于中心度与用户行为关系的假设",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文利用社会网络分析方法研究\"小猪短租\"用户关系网络，探究不同用户的参与活跃度以及不同时期网络参数对相连用户互动行为的影响程度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "绝对度数中心度是指行为人与网络中其他人直接相连的度数，行为人连边越多就越有影响力；相对度数中心度是绝对度数中心度与最大可能相连节点的比值[29]。度数中心度高的行为人是社会网络中活跃的节点，可以识别在房屋交易中活跃参与的关键人物，会吸引其他用户与其建立联系，因此本文提出以下假设：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hla：房东的度数中心度会显著影响与其相连房客的消费行为。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H1b：房客的度数中心度会显著影响与其相连房东的供应行为。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "接近中心度[29]可以被视为衡量该节点将信息传播到网络中其他节点需要花费多长时间的指标。接近中心度高的行为人传播或获取的网络信息最真实，不受其他节点的限制，与该用户建立联系有助于快速获得真实可靠的信息并作出准确的决策，因此本文提出以下假设:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H2a：房东的接近中心度会显著影响与其相连房客的消费行为。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H2b：房客的接近中心度会显著影响与其相连房东的供应行为。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中介中心度[29表示行为人处于一个交通要道的位置，为其他行为人进行信息交流搭建桥梁，从而控制流经网络的信息流。中介中心度高的行为人处于信息传播的中枢位置，在房屋交易中可以更好地获得信息流和客户流，与其建立联系可以获得关键资源。但是根据经济交易的行为特征和关系网络特征，房客的中心度会呈现离散的幂律分布，研究核心房客会更有意义，因此本文提出以下假设：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H3a:房东的中介中心度会显著影响与其相连房客的消费行为。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H3b：房客的中介中心度会显著影响与其相连房东的供应行为。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H3c：在核心成员中，房客的中介中心度会显著影响与其相连房东供应的行为。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4“小猪短租”用户中心度与相应行为的回归分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 中心度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）房东的中心度分析$\\textcircled{1}$ 度数中心度",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在二模网络中，一个行动者节点的度数中心度是该行动者节点所归属的兴趣点数，一个兴趣点的度数中心度是该兴趣点所拥有行动者的数量，这里是指绝对度数中心度，行动者 $n _ { i }$ 和兴趣点 $m _ { k }$ 的度数分别如公式(1)和公式(2)所示[30]。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { D } ^ { N M } \\left( n _ { i } \\right) = \\sum _ { k = 1 } ^ { g + h } x _ { i k } ^ { N M }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { D } ^ { N M } \\left( m _ { k } \\right) = \\sum _ { i = 1 } ^ { g + h } x _ { i k } ^ { N M }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中, $N M$ 代表二模网络，包含 $g$ 个行动者节点和 $h$ 个兴趣点， $x _ { i k } ^ { N M }$ 是 $g \\times h$ 的二部矩阵 $X ^ { N M }$ 中的元素。本文采取的是相对度数中 $\\therefore$ 度，即绝对度数中 $\\therefore$ 度与行动者或兴趣点最大可能度数之比。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合表2和图2可知，通过换位体验学习外部环境从而促进内部服务是促使房东处于度数中心度核心位置的必要条件。“NANA”在三个时期都处于度数中心性较高的位置，扮演着交易平台内部领袖的角色，意味其拥有的房客数量和其作为房客去体验其他房东的生活次数较其他房东多。他换位思考如何成为优质房东，寻求服务上的创新，学习他人方法和策略，保持着自身优势；在8月到9月的阶段里，“DP\"的度数中心度增长速率是最快的，该房东从外部环境中学以致用，改善了原先稍有逊色的产品与服务，寻求服务上创新，迎合客户的最终需求，得到更多消费者的青睐;",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dacca21e2137965e80414f298561d59ee045b21d236ea4ae42ebf794ffbeea8f.jpg",
+        "img_caption": [
+            "图2二模网络中房东8月-10月的度数中心度分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "多数房东在不同时期仍旧处于原先位置，因为没有结合外部环境以及内部需求来找到发展的突破口，无法拓展人脉。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 接近中心度",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在单模网络中，一个行动者节点的接近中心度与该点到网络中其他点的距离之和成正比；在二模网络中，则与该点到网络中其他点的距离之和加上该点到所有兴趣点的距离之和成正比。行动者 $n _ { i }$ 和兴趣点 $m _ { k }$ 的接近中心度分别如公式(3)和公式(4)所示[30]。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C _ { C } ^ { \\mathrm { M } } ( n _ { i } ) = \\left[ 1 + \\frac { \\displaystyle \\sum _ { j = 1 } ^ { g + h } \\operatorname* { m i n } _ { k } d ( k , j ) } { g + h - 1 } \\right] ^ { - 1 } } \\\\ { C _ { C } ^ { \\mathrm { M } } ( m _ { k } ) = \\left[ 1 + \\frac { \\displaystyle \\sum _ { j = 1 } ^ { g + h } \\operatorname* { m i n } _ { j } d ( i , j ) } { g + h - 1 } \\right] ^ { - 1 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "公式(3)中的兴趣点 $k$ 与行动者 $i$ 有联系，公式(4)中的行动者 $j$ 与兴趣点 $k$ 有联系； $\\boldsymbol { d } ( \\boldsymbol { k } , \\boldsymbol { j } )$ 表示兴趣点 $k$ 与网络中的节点 $j$ 的距离， $j$ 可以为兴趣点或行动者节点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结合表2和图3可知，选择与拥有不同客户群的房东和流动性强的房客建立联系，可以获知网络中可靠信息，快速响应客户需求以提升服务。“水果女王”、“蒋小姐\"等一直处于较高的接近中心性网络位置，即他们到达不同用户进行信息传播的速度更迅速，反过来其获知整个网络的信息也是最快的。“水果女王\"与重要房东建立了联系，直接和间接相连的房客在整个关系网络中流动性较大，从而能够多渠道接近信息与资源，更容易寻找机会获得口碑效应，实现关系网络中行动者向自身的大迁移；“杨洋洋YAYANGNG\"等在8月到10月的过程中，接近中心度增长趋势是较快的。由其出度可知两者体验了其他房东服务，使关系网络变得更紧密，更易于接近网络中的其他用户。“虹狐狸\"从8月的较高接近中心性逐渐下降，虽然与其他房东建立了联系，但是房客流动性不大，缺少口碑宣传中流动性强的运输者，无法很好地对外宣传产品服务。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/00be624c75ce9fa989835ad320680034e9e87ade6dea5b1e27c9ffb3adbd9dfa.jpg",
+        "img_caption": [
+            "图3二模网络中房东8月-10月的接近中心度"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 中介中心度",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在单模网络中，一个行动者节点的中介中心度与通过该节点的不冗余最短路径的总数成正比。在二模网络中，由于每对行动者节点之间的联系都要通过行动者所归属的兴趣点，因此兴趣点处在行动者之间的最短路径上，同样行动者也总是处于兴趣点之间的最短路径上，所以计算一个兴趣点的中介中 $\\therefore$ 度需要考虑所有属于该兴趣点的行动者的节点。行动者 $n _ { i }$ 和兴趣点 $m _ { k }$ 的接近中心度分别如公式(5)和公式(6)所示[30]。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { B } ^ { N M } ( n _ { i } ) = \\frac 1 2 \\sum _ { m _ { k } , m _ { l } \\in n _ { i } } \\frac 1 { x _ { k l } ^ { M } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { B } ^ { N M } ( m _ { k } ) = \\frac { 1 } { 2 } \\sum _ { n _ { i } , n _ { j } \\in m _ { k } } \\frac { 1 } { x _ { i j } ^ { N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在公式(6)中，行动者 $n _ { i }$ 和 $n _ { j }$ 共享了 $x _ { i j } ^ { N }$ 个兴趣点；对于$m _ { k }$ 所包含的任何一对行动者 $( n _ { i } , n _ { j } )$ 而言， $m _ { k }$ 的中介中 $\\therefore$ 度贡献为 1个单位；XN表示行动者单模矩阵，XM表示兴趣点单模矩阵。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结合表2和图4可知，房东要善于与具有桥梁作用的用户建立联系，有效把控并利用流经的信息流与资源流，从而赢得客户流。“NANA_”、“一人依梦”、“曾国藩”、“柏林”等在三个时期都拥有较高的中介中心度，代表他们在整个关系网络中起到桥梁作用，是信息交流的中枢；虽然“曾国藩”、“柏林\"没有出度，但是却承担着关键位置，代表着其他房东可能成为他们的房客，形成传递的关系，而\"NANA_”“一人依梦\"拥有出度，说明其愿意主动去成为房客，对于信息流的把控较强；“DP”、“星期日”在三个时期的中介中心度呈现递增趋势，“DP\"是4个房东的房客，处于一种信息传递的交叉路口，行径的客户流越来越多，有助于吸引新的客户群。“星期日”成为重要房东的上层房东，重要房东使其在关键路径获得更多信息和资源来满足不同客户群的需求。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d78376634e709d2ca7b0560006f46e77bf1a1b8e06c8da7da54daa1dbe9b1dd.jpg",
+        "img_caption": [
+            "图4二模网络中房东8月-10月的中介中心度"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）房客的中心度分析",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在在线短租平台上，消费者的流动性较强，客户粘性相对较弱，形成的关系圈子大而不紧密，但存在着三元闭包的关系。其中有10个房东同时扮演着房客的角色，从外部环境中去学习他人优势，优化内部的",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "运营结构。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，大多数房客都是作为一种需求方的角色接受服务，并且属于一次消费，其行为符合幂律分布，呈现长尾特征。关系网络中存在许多共房东的房客，意味房客也在不断地选择最适合的产品与服务。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a7c1324b5d43f8deadf017cb3d9b04e187b016bbbb9476aae5ccb61c3cc42fd.jpg",
+        "table_caption": [
+            "表3二模网络中房客的中心度(部分)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Uname</td><td colspan=\"3\">Degree</td><td colspan=\"3\">Closeness</td><td colspan=\"3\">Betweenness</td></tr><tr><td>8月</td><td>9月</td><td>10月</td><td>8月</td><td>9月</td><td>10月</td><td>8月</td><td>9月</td><td>10月</td></tr><tr><td>玫瑰1992</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.438</td><td>0.436</td><td>0.436</td><td>0</td><td>0</td><td>0</td></tr><tr><td>杨洋洋 YAYANGNG</td><td>0.2</td><td>0.2</td><td>0.2</td><td>0.573</td><td>0.59</td><td>0.594</td><td>0.043</td><td>0.046</td><td>0.047</td></tr><tr><td>芒果公寓</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.5</td><td>0.493</td><td>0.491</td><td>0</td><td>0</td><td>0</td></tr><tr><td>哆啦之家</td><td>0.1</td><td>0.1</td><td>0.1</td><td>0.519</td><td>0.518</td><td>0.517</td><td>0.004</td><td>0.003</td><td>0.003</td></tr><tr><td>虹狐狸</td><td>0.1</td><td>0.1</td><td>0.1</td><td>0.534</td><td>0.533</td><td>0.532</td><td>0.006</td><td>0.005</td><td>0.005</td></tr><tr><td>DP</td><td>0.1</td><td>0.1</td><td>0.1</td><td>0.54</td><td>0.539</td><td>0.539</td><td>0.006</td><td>0.005</td><td>0.005</td></tr><tr><td>王GARY</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.497</td><td>0.515</td><td>0.525</td><td>0</td><td>0</td><td>0</td></tr><tr><td>一人依梦</td><td>0.2</td><td>0.2</td><td>0.2</td><td>0.575</td><td>0.582</td><td>0.583</td><td>0.035</td><td>0.031</td><td>0.028</td></tr><tr><td>NANA_</td><td>0.1</td><td>0.1</td><td>0.1</td><td>0.53</td><td>0.519</td><td>0.515</td><td>0.003</td><td>0.002</td><td>0.002</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从房客的整体中心度来看， $7 5 \\%$ 房客的度数中心度最低时，中介中心度为0，说明大部分房客散落在关系网络中的边缘位置，绝大多数用户间不存在传递性，仅仅与单个房东建立交易关系。多数房客接近中心度处于0.5以下的非核心位置，无法触及其他人群进行信息共享。个别房客的接近中心度达到100以上,反映其流动性大，是多个房东的房客，同时也反映房东的客户粘性不够，流失了客户群。从时空的角度来看，随着时间推移，网络中的行动者也随之增加，度数中心度处于最低位置的房客日渐增多，接近中心度在0.5以上的房客数增长较快，中介中心度大于0的房客数持平缓上升趋势。可知新进入的用户遍布网络各个位置，凝聚力不强，处于中枢位置的节点相对较少,对于信息的传递是不利的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2个体中心度对用户行为的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "“小猪短租\"是在线短租中用户间互动性比较强的典型平台，房东和房客双向选择、评论、回复等行为会提高弱社交圈的友好性，增加房客重复人住的忠诚度，实现资源的重复利用，也引起很多学者的关注。多数是基于信任理论分析产品属性和房东属性对购买意向的影响，很少有文献基于社会网络的角度去分析并解决问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "人与人构成的社会网络中节点的重要性由度数中心性、接近中心性、中介中心性共同衡量。在\"小猪短租\"平台上，房东房客的网络参数是朋友强弱关系形成的重要指标，也在一定程度上反映用户行为。为探究三种中心性对相连节点行为的影响程度，本文将度数中心度、中介中心度和接近中心度作为自变量，房客的消费量和房东的订单量作为因变量，根据时间构造面板数据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在估计面板模型时，由于固定效应模型可以分离出相对于观察对象或时期固定的常数以反映截面差异或时间趋势，因此本文运用截面固定效应模型来分析个体网络参数对用户行为的影响因素，同时采用Hausman检验[31]并确定固定效应模型[32]能更好地解释假设，所以构造两个固定效应模型如公式(7)和公式(8)所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { O r d e r _ { i t } = \\beta _ { 0 } + \\beta _ { 1 } D e g r e e _ { i t } + \\beta _ { 2 } C l o s e n e s s _ { i t } } \\\\ & { \\qquad + \\beta _ { 3 } B e t w e e n n e s s _ { i t } + { U ^ { \\prime } } _ { i t } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ \\alpha _ { 3 } B e t w e e n n e s s _ { i t } + U _ { i t }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其中, $i$ 代表不同的个体， $\\scriptstyle { t = 1 , 2 , 3 }$ 分别代表8月、9月、10月，如 $D e g r e e _ { i t }$ 表示用户 $i$ 在 $t$ 时期的度数中心度， $\\textit { U } _ { i t } ^ { \\prime }$ 和 $U _ { i t }$ 代表随机扰动项。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "先利用Ucinet处理二值化矩阵得出不同用户的度数中心度、接近中心度以及中介中心度，然后利用Stata对面板数据进行描述性统计、相关性分析以及回归分析，得到结果如表4所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可知房东的最大订单量为504，房客的最大消费量为26，接近中心度的跨度很大，说明“小猪短租\"的用户流动性很大；关系网络中存在中介中心度为0的用户，房客的中介中心度平均约为0.0005，即大部分房客属于一次性消费，不承担桥梁作用。相关性统计如表5所示，两个固定效应模型回归分析结果如表6和表7所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3bca4abdf5263a17571fdc20ea99119b3750aef3614cd02e30ab2c1c913b041a.jpg",
+        "table_caption": [
+            "表4用户网络参数的描述性统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>用户类型</td><td>变量</td><td>平均值</td><td>标准差</td><td>最小值</td><td>最大值</td></tr><tr><td rowspan=\"4\">房东</td><td>Degree</td><td>0.0545167</td><td>0.0394721</td><td>0.002</td><td>0.129</td></tr><tr><td>Closeness</td><td>35.42335</td><td>124.5371</td><td>0.183</td><td>601.25</td></tr><tr><td>Betweenness</td><td>0.1049167</td><td>0.0828587</td><td>0</td><td>0.258</td></tr><tr><td>Order</td><td>182.7667</td><td>151.7818</td><td>4</td><td>504</td></tr><tr><td rowspan=\"4\">房客</td><td>Degree</td><td>0.0544869</td><td>0.0178262</td><td>0.05</td><td>0.2</td></tr><tr><td>Closeness</td><td>2.656368</td><td>29.55877</td><td>0.307</td><td>678.857</td></tr><tr><td>Betweenness</td><td>0.0005464</td><td>0.0032874</td><td>0</td><td>0.082</td></tr><tr><td>Consumption</td><td>1.688142</td><td>1.738549</td><td>1</td><td>26</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/968f4870323a1b0e4105afc5c137a2f6b413257ad2e9c6acf24cb592bb2c8692.jpg",
+        "table_caption": [
+            "表5用户网络参数的相关性统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td colspan=\"4\">房东</td><td colspan=\"4\">房客</td></tr><tr><td> Degree</td><td>Closeness</td><td>Betweenness</td><td>Order</td><td> Degree</td><td>Closeness</td><td>Betweenness</td><td>Consumption</td></tr><tr><td></td><td>Degree</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">房东</td><td>Closeness</td><td>-0.3742</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Betweenness</td><td>0.995</td><td>-0.363</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Order</td><td>0.9797</td><td>-0.3329</td><td>0.9683</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"4\">房客</td><td>Degree</td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td></tr><tr><td>Closeness</td><td></td><td></td><td></td><td></td><td>-0.018</td><td>1</td><td></td><td></td></tr><tr><td>Betweenness</td><td></td><td></td><td></td><td></td><td>0.7875</td><td>-0.0118</td><td>1</td><td></td></tr><tr><td>Consumption</td><td></td><td></td><td></td><td></td><td>0.3602</td><td>-0.0275</td><td>0.2362</td><td>1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "78 数据分析与知识发现",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8e7f7487166139fc77aba50225c275561fa9d698d7b099c0c53cef715c4e3289.jpg",
+        "table_caption": [
+            "表6 Model1回归分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Order</td><td colspan=\"6\">组内R²=0.5542，组间R²=0.9401，总体 R²=0.9263</td></tr><tr><td>路径系数</td><td>标准误差</td><td>t</td><td>P>|t|</td><td colspan=\"2\">[95% Conf. Interval]</td></tr><tr><td>Degree</td><td>10212.23</td><td>2677.958</td><td>3.81</td><td>0.001</td><td>4786.172</td><td>15638.29</td></tr><tr><td>Closeness</td><td>0.0192705</td><td>0.2978323</td><td>0.06</td><td>0.949</td><td>-0.5841951</td><td>0.6227362</td></tr><tr><td>Betweenness</td><td>-3580.766</td><td>1395.009</td><td>-2.57</td><td>0.014</td><td>-6407.323</td><td>-754.2087</td></tr><tr><td>_cons</td><td>1.029319</td><td>32.41452</td><td>0.03</td><td>0.975</td><td>-64.64873</td><td>66.70737</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/525e3bb5d3708f5d0796b6c1e22c01d480f2745fd20e816f835470a199ef56b7.jpg",
+        "table_caption": [
+            "表7Model2 回归分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Consumption</td><td colspan=\"6\">所有成员：组内R²=0.1700，组间R²=0.1283，总体R²=0.1314 核心成员：组内R²=0.9843，组间R²=0.3478，总体R²=0.3606</td></tr><tr><td>路径系数</td><td>标准误差</td><td>t</td><td>P>|t1</td><td>[95% Conf. Interval]</td><td></td></tr><tr><td>Degree</td><td>33.17095</td><td>1.408312</td><td>23.55</td><td>0.000</td><td>30.40991</td><td>35.932</td></tr><tr><td>Degree1</td><td>32.26913</td><td>0.3866577</td><td>83.46</td><td>0.000</td><td>31.50837</td><td>33.02989</td></tr><tr><td>Closeness</td><td>0.0000124</td><td>0.0012254</td><td>0.01</td><td>0.992</td><td>-0.00239</td><td>0.0024149</td></tr><tr><td>Closeness1</td><td>-3.88E-07</td><td>0.0001621</td><td>0</td><td>0.998</td><td>-0.0003193</td><td>0.0003186</td></tr><tr><td>Betweenness</td><td>-8.587634</td><td>7.20836</td><td>-1.19</td><td>0.234</td><td>-22.71988</td><td>5.544615</td></tr><tr><td>Betweenness1</td><td>23.7467</td><td>2.566337</td><td>9.25</td><td>0.000</td><td>18.69737</td><td>28.79603</td></tr><tr><td>_cons</td><td>-0.1145803</td><td>0.0744668</td><td>-1.54</td><td>0.124</td><td>-0.2605751</td><td>0.0314145</td></tr><tr><td>_cons1</td><td>-0.4499313</td><td>0.0216332</td><td>-20.8</td><td>0.000</td><td>-0.4924951</td><td>-0.4073675</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其中, $7 5 \\%$ 的房客中介中心度为0，存在长尾特征，所以结果回归分析不理想，因此通过Ucinet工具得到推荐核心成员，观察节点中介中心度是否显著影响房客行为。Degreei表示核心成员的度数中心度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "度数中心度是描述行动者直接影响力的指标，反映该节点在网络中的知名度和合群性。由结果可知：用户在社会网络中的度数中心度显著地影响与其相连节点的行为 $( \\mathrm { P } { < } 0 . 0 5 )$ ，呈正相关，所以假设H1a、H1b成立。在\"小猪短租\"类似的共享经济平台上，度数中心度侧面反映用户群体的消费和提供服务的能力，可以从两个角度分析：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）从房东角度，一个优秀的营销领袖可以促进用户间的沟通交流及交易的形成，其他用户也会学习优秀房东提供的服务，换位思考产品定位，以房客身份去理解并抓住客户的核心需求。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）从房客角度，房客可以根据需求以及房东的网络位置进行比较以选择最优服务，达到利益最大化。这样促使供需双方不断进步，同时促进社会关系网络的互动性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "接近中心度是描述行动者的独立性指标，反映该节点不受网络中其他节点控制的程度以及传播信息的速度。由结果可知，用户的接近中心性对房东提供订单的行为以及房客的消费行为无显著影响 $( \\mathrm { P } { > } 0 . 0 5 )$ 5即假设H2a、H2b不成立。接近中心度高的用户获取的网络信息越真实，主动性越强，意味着到达网络中其他节点的速度越快。但是根据“小猪短租\"的经济交易特点，大多数用户是一次性消费，网络关系不够紧密，流动性大，所以用户接近中心度对于订单的供应和消费行为的影响不大。因此需要抓住核心用户，提高活跃度并协调关系，从而增强其在社会关系网络中的互动性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "中介中心度是描述行动者对资源控制程度的指标，反映某节点控制其他节点间相互通信的能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）房东的中介中心度显著地影响房客购买订单行为 $( \\mathrm { P } { < } 0 . 0 5 ) \\$ ，呈负相关，即假设 H3a 成立。因为房东处于桥梁位置，主要是以学习者的姿态与其他房东建立相应联系，存在本身产品与服务上的缺陷，所以订单量少会促使该房东换位体验其他房东服务，从而处于信息流通的关键位置，这可能与传统观念相反。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2)用户的中介中心度对房客的消费行为没有显著影响 $( \\mathrm { P } { > } 0 . 0 5 )$ ，即假设H3b不成立。因为关系网络中具有较强控制力的用户节点非常少，大多数房客处于较为边缘的位置，其中介中心度基本为0，对他人的信息资源掌控能力不强，所以对其消费行为没有很大的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3）为排除边缘客户数据的干扰，通过Ucinet 选出特定的核心房客进行回归分析，发现核心成员中介中心度显著地影响房东提供订单行为 $( \\mathrm { P } { < } 0 . 0 5 )$ ，呈正相关，即假设H3c成立。因为中介中心度高的房客有助于房东获取重要的信息资源，因此房东更愿意为其提供订单。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文以\"小猪短租\"为研究平台，爬取其中2016 年8月-10月上海的数据，并构造朋友关系矩阵，分析房东和房客相互选择形成的社会网络结构特点。基于二模网络分析在线短租用户的位置，同时结合一模网络用户间形成的关系，根据整体结构特点以及个体网络参数，重点研究房东的网络结构，并观察其中心度等在不同时期的演化过程，构建固定效应模型分析中心度对用户行为的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "短租平台，作为共享经济在空间资源使用权的分享平台，使个人参与到社会化大生产中，促进以创业者为主体的个体经济崛起，使闲置资源得到最大化利用。但\"小猪短租\"用户间关系存在不足，体现在以下方面:",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1）从个体中心度分析可知：交易关系网络的凝聚力和互动性弱，流动性强，边缘效应明显。用户倾向于被动地成为服务获取者，忽视学习外部产业促进内部经营。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2）从中心度对用户行为影响分析可知，用户在关键位置获取并处理有用信息方面的能力差，缺乏敏锐的判断力来促使自身利益最优化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "针对以上问题，提出以下建议：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1）用户应该主动成为提供商和消费者，鼓励角  \n色互换，学习优质用户的服务来提高内部的运营，从  \n而促进共享经济中关系网络的强联系和资源共享。(2）平台管理者应该鼓励用户活跃在核心位置,",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "有利于获取真实的信息源，缩短信息的传递时间，加强对信息的判断力，从而优化供需方用户的利益。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文主要采取二模网络方法分析不同用户群体的结构和行为，对未来学者在共享经济方面的研究具有一定的参考价值。从提供商角度，重点用户的选择可以促进产品的推广；从消费者角度，选择优质提供商可以使自身利益最大化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Belk R. You are What You Can Access: Sharing and Collaborative Consumption Online[J].Journal of Business Research,2014,67(8): 1595-1600.   \n[2]NunesM,Correia J. Improving Trust Using Online Credibility Sources and Social Network Quality in P2P Marketplaces[C]//Proceedings of the 8th Iberian Conference on Information Systems and Technologies.IEEE Computer Society,2013.   \n[3]Bucher E,Fieseler C,Lutz C.What's Mine is Yours (for a Nominal Fee）- Exploring the Spectrum of Utilitarian to AltruisticMotivesforInternet-Mediated Sharing[J]. Computers in Human Behavior,2016,62:316-326.   \n[4]Matzler K,Veider V, Kathan W. Adapting to the Sharing Economy[J]. MIT Sloan Management Review, 2015,56(2): 71-77.   \n[5]李晓雪，赵亮．浅析共享经济视角下全域旅游的发展趋势 [J].当代经济,2016(31):17-19.(Li Xiaoxue,Zhao Liang. Study on the Development Trend of Global Tourism from the PerspectiveofSharingEconomy[J]. Contemporary Economics,2016(31): 17-19.)   \n[6]谢丹丹．小猪短租：回归共享经济的原点[J]．中外管理, 2015 (12): 96-97. (Xie Dandan. Xiaozhu: Return to the Origin of Sharing Economy[J]. Sino Foreign Management, 2015(12): 96-97.)   \n[7]何琳．在线短租企业商业模式分析——以小猪短租为例[J]. 现代商业，2016(9):44-45.(He Lin．An Analysis of the Business Model of Online Short-Rental Enterprises — Taking Xiaozhu as an Example[J]. Modern Business,2016(9): 44-45.)   \n[8]Batagelj V. STANLEY WASSERMAN AND KATHERINE FAUST. Social Network Analysis: Methods and Applications [J].Psychometrika,1998,63(1):103-104.   \n[9]Newman M E J. Detecting Community Structure in Networks[J].European Physical Journal B，2004,38(2): 321-330.   \n[10] Cheng M. Sharing Economy:A Review and Agenda for Future Research[J]. International Journal of Hospitality Management, 2016,57: 60-70.   \n[11] Ert E,Fleischer A,Magen N. Trust and Reputation in the Sharing Economy: The Role of Personal Photos in Airbnb[J]. Tourism Management, 2016,55: 62-73.   \n[12]Edelman B G,Luca M.Digital Discrimination: The Case of Airbnb.com[OL]. Harvard BusinessSchool NOM Unit Working Paper No.14-054.DOI: 10.2139/srn.2377353.   \n[13]Karlsson L,Kemperman A,Dolnicar S.May I Sleep in Your Bed? Getting Permission to Book[J].Annals of Tourism Research,2017,62:1-12.   \n[14] 谢雪梅，石娇娇．共享经济下消费者信任形成机制的实证 研究[J]．技术经济,2016,35(10):122-127.(Xie Xuemei, Shi Jiaojiao.Empirical Study on the Formation Mechanism of Consumer Trust in the Sharing Economy [J]. Technology Economics,2016,35(10): 122-127.)   \n[15]Wu J，Ma P，Zeng M. The Role of Service-Provider's Attributes in Sharing Economy:A Data-driven Study from the Perspective of Trust[C]/Proceedings of the 15th Wuhan International Conference on E-Business,2016: 67-77.   \n[16] Putnik G, Costa E,Alves C,et al. Analysing the Correlation Between Social Network Analysis Measures and Performance of Students in Social Network-Based Engineering Education [J].International Journal of Technology and Design Education,2016,26(3): 413-437.   \n[17]Lopez M D R,Corrales M E V,Valencia SD R.Human Resource Management and Organizational Behavior[C] //Proceedings of the AHFE 2016 International Conference on Human Factors,2017: 1101-1106.   \n[18] Jacobs W, Goodson P,Barry A E,et al. Adolescent Social Networks and Alcohol Use:Variability by Gender and Type[J]. Substance Use & Misuse,2017,52(4): 477-487.   \n[19] Sibbald S L,Wathen C N,Kothari A,et al. Knowledge Flow and Exchange in Interdisciplinary Primary Health Care Teams (PHCTs):An Exploratory Study[J]. Journal of the Medical Library Association,2013,101(2): 128-137.   \n[20] Zhou Y,Guo C C,Zhang Q L,et al. Free Rider Behavior is Determined by Innate Factor or Acquired Factor?[C]// Proceedings of the 2014 International Conference on Management Science & Engineering. IEEE Computer Society,2014: 515-522.   \n[21] Chang W L,Cheng B L,Hao C T. Exploring the Drifting Behavior on Different Social Media[C]//Proceedings of the 2014 Iiai 3rd International Conference on Advanced Applied Informatics (Iiai-Aai 2014).IEEE Computer Society,2014: 535-536.   \n[22] 张玥，朱庆华．学术博客交流网络的核心—边缘结构分析 实证研究[J].图书情报工作,2009,53(12):25-29.(Zhang Yue,Zhu Qinghua.An Empirical Study on the Core— Periphery Structure Analysis of Academic Blog Communication Network[J].Library and Information Service,20o9,53(12): 25-29.)   \n[23]张静．基于复杂网络的微博用户群体行为研究[D].北京: 北京邮电大学,2015.(Zhang Jing.Research of Micro-blog User Group Behavior Based on Complex Network [D]. Beijing: Beijing University of Posts and Telecommunications, 2015.)   \n[24]Gamble J,Chintakunta H，Wilkerson A，et al. Node Dominance: Revealing Community and Core-Periphery Structure in Social Networks [J].IEEE Transactions on Signal and Information Processing over Networks,2016,2(2): 186-199.   \n[25]Goodman L A．Snowball Sampling [J]. The Annals of Mathematical Statistics,1961,32(1):148-170.   \n[26]Borgatti SP,Mehra A,Brass D J,et al.Network Analysis in the Social Sciences[J]. Science,2009,323(5916): 892-895.   \n[27]Weng C S.Identifying the Core/Periphery Technological Positions from Affiliation Networks:The Network Analysis of 2-Mode[C]//Proceedings of 2011 Picmet 11: Technology Management in the Energy-Smart World.IEEE Computer Society,2011.   \n[28]Johnson JD.Ucinet: A Software Tool for Network Analysis[J]. Communication Education,1987,36(1): 92-94.   \n[29]Freeman L C.Centrality in Social Networks Conceptual Clarification[J]. Social Networks,1978-1979,1(3): 215-239.   \n[30]Faust K.Centrality in Afiliation Networks[J]. Social Networks,1997,19(2): 157-191.   \n[31]Kramer W. A Hausman Test with Trending Data[J]. Economics Letters,1985,19(4): 323-325.   \n[32]Signh J.Estimation of Effects in a Fixed Effect Model[J].The Annals of Mathematical Statistics,1969,40(2): 720-727. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "陈远，吴江：提出研究思路，设计研究方案，论文最终版本修订;  \n刘福珍：采集、清洗和分析数据，撰写论文。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail: jiangw@whu.edu.cn。  \n[1]刘福珍.8_page3_RenterInformation.txt.8月房客表.  \n[2]刘福珍.8_page5_HostInformation.txt.8月房东表.  \n[3]刘福珍.8_page6_Listing Transactions.txt.8月订单表.  \n[4]刘福珍.9_page3_fangke_sh.txt.9月房客表.  \n[5]刘福珍.9_page4_fangdong_sh.txt.9月房东表.[6]刘福珍.9_page4_order_sh.txt.9月订单表.  \n[7]刘福珍.10_page3_fangke_sh.txt.10月房客表.  \n[8]刘福珍.10_page4_fangdong_sh.txt.10月房东表.  \n[9]刘福珍.10_page4_order_sh.txt.10月订单表.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2017-04-10   \n收修改稿日期:2017-04-30 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Studying Users' Interaction Behaviors of Sharing Economic Platform with 2-Mode Complex Network Analysis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Chen Yuan Liu FuzhenWu Jiang (School of Information Management, Wuhan University, Wuhan 43o072, China) (The Center of E-commerce Research and Development of Wuhan University, Wuhan 430072, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective]This paper explores the service optimization methods based on the concept of\"shared ownership without possession”of the sharing economy.[Methods] First，weretrieved data from the websiteof “xiaozhu short-termrentals”.Then,we used the 2-mode network tool“Ucinet”to analyze the changing ofusers’locations.Third, we studied the impactsof individual centralityon users’behaviors through the fixed effect model and the relationship among the one-mode network users.[Results] We found that degree centrality positively influenced users’behaviors. The betweennesscentralityof the host agents was negatively corelated with the consumers’behaviors,while the betweeness centrality of the key tenant agents positively affected the hosts’ofering behaviors.[Limitations] We focused onactive users,anddidnot investigate thecharacteristicsoftheentire network.[Conclusions]Businessocial network systems ike xiaozhu.com should encourage their users to become both consumers and service providers,which will promote the development of Sharing Economy. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Keywords: 2-Mode Network Sharing Economy Centrality User Behavior Short Rental Platform ",
+        "page_idx": 10
+    }
+]

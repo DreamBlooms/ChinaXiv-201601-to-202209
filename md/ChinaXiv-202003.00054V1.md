@@ -1,0 +1,126 @@
+# 基于GEO数据库探究RACGAP1表达与膀胱癌患者临床病理和预后的关系
+
+张文杰」 熊巧华」 陈思超」　朱家永」　张冉」 翁鸿1，2，3 曾宪涛1，2，31（武汉大学中南医院循证与转化医学中心，武汉 430071）2（武汉大学中南医院泌尿外科，武汉 430071）3（武汉大学循证与转化医学中心，武汉 430071）
+
+# 摘要:
+
+[目的］探究RacGTP 酶活性蛋白1（RACGAP1）基因在膀胱癌组织中的表达情况及临床意义。
+
+[方法］从NCBI的基因表达汇编（GEO）数据库下载膀胱癌组织RACGAP1的表达数据和临床病理参数。分析RACGAP1基因在膀胱癌组织与正常组织中的表达差异，结合随访信息使用SPSS 软件对RACGAP1表达与临床病理特征进行卡方检验，采用 Kaplan-Meier 法进行生存分析，并利用基因富集分析（GSEA）法分析受RACGAP1调控的相关基因。
+
+[结果］RACGAP1在正常膀胱组织中的表达水平为 $7 . 5 5 7 { \pm } 0 . 0 2 0$ ，低于膀胱癌组织的$7 . 7 9 0 { \pm } 0 . 0 2 8$ ，差异有统计学意义（ $\mathrm { P } \langle 0 . 0 5 \rangle$ ）。膀胱癌组织中RACGAP1表达水平与年龄、侵袭性、T分期、N分期、疾病分级和复发有关（ $\mathrm { P } \langle 0 . 0 5 \rangle$ ）。RACGAP1低表达组和高表达组的5年总生存率分别为 $7 3 . 9 \%$ 和 $5 6 . 6 \%$ ( $\mathrm { H R } { = } 0 . 4 7$ ， $9 5 \% C \mathrm { I }$ ： $0 . 2 9 \substack { - 0 . 7 7 }$ ， $\mathrm { P } { \langle 0 . 0 1 \rangle }$ ），肿瘤5年特异生存率分别为 $9 1 . 6 \%$ 和 $7 0 . 9 \%$ （ $\mathrm { H R = } 0 . 3 3$ ， $9 5 \% C \mathrm { I }$ :0.17-0.67, $\mathrm { P } { \langle } 0 . 0 1$ ）。RACGAP1高表达样本富集了MYC信号通路、精子发生、未折叠蛋白反应、G2M检查点、E2F转录因子、MTORC1信号、有丝分裂纺锤体、PI3K/AKT/mTOR途径和DNA修复修复相关的基因集。
+
+[结论］RACGAP1在膀胱癌组织中高表达，与膀胱癌患者的临床病理及预后显著相关，可作为反映膀胱癌患者预后的生物学标志物和潜在的膀胱癌防治靶点。
+
+关键词：膀胱癌 RACGAP1 预后 分类号：R737.14
+
+# Clinical significance of RACGAP1 expression in bladder
+
+# cancer: A bioinformatics analysis based on GEO database
+
+ZHANG Wen jie1 XIONG Qiaohual CHEN Sichao1 ZHU Jiayong1 ZHANG Ran1 WENG Hongl,2,3ZENG Xiantao1,2,3 1(Center for Evidence-Based and Translational Medicine, Zhongnan Hospital of Wuhan University，Wuhan 430071， China.） ²(Department of Urology， Zhongnan Hospital of Wuhan University， Wuhan 430071，China.）   
+3(Center for Evidence-Based and Translational Medicine， Wuhan University，Wuhan 430071，China.)
+
+# Abstract:
+
+[Objective] To explore the expression of Rac GTPase activating protein 1 (RACGAP1） gene in the bladder cancer tissues in the Gene Expression Omnibus (GEO) database and its impact on the clinicopathological characteristics and prognosis of bladder cancer.
+
+[Methods] The expression profile of RACGAP1 and its clinical parameters of bladder cancer tissues were downloaded from GEo database. The relationship between the RACGAPl expression and the clinicopathological characteristics of bladder cancer were analyzed. Combined with follow-up information.SPSS software was used to test the expression and clinicopathological features of RACGAP1.Gene set enrichment analysis (GSEA） were used to explore the regulatory gene sets of RACGAP1.
+
+[Results] The expression level of RACGAPl in normal bladder tissues was $7 . 5 5 7 \pm 0 . 0 2 0$ ，lower than $7 . 7 9 0 { \pm } 0 . 0 2 8$ of bladder cancer tissues， and the difference was statistically significant $( \mathrm { P } { \langle } 0 . 0 5 )$ ．BC patients in RACGAP1 low expression group were associated with better invasiveness ,T staging ， N staging ,classification, and a trend of better recurrence than those in RACGAP1 highexpressiongroup $( \mathrm { P } { \langle } 0 . 0 5 )$ .Bladder cancerpatientsin RACGAP1low expression group were associated with better cancer specific survival $\mathrm { \cdot H R { = } 0 . 4 7 }$ ， $9 5 \% C \mathrm { I }$ :0.29-0.77， $\mathrm { P } { \langle } 0 . 0 1 \mathrm { \dot { } }$ ）and overall survival( $\mathrm { ' H R { = } 0 . 3 3 }$ ， $9 5 \% C \mathrm { I }$ ： $0 . 1 7 \mathrm { - } 0 . 6 7$ ， $\mathrm { P } { \langle } 0 . 0 1 \mathrm {  { \mathrm { ~  ~ } } }$ ） compared with those in RACGAP1 high expression group. The results of GSEA suggested that BC samples in RACGAP1 high expression group were enriched in “MYC targets V1”，“Spermatogenesis”，“Unfolded protein response”, “G2M checkpoint”， “E2Ftargets”，“Mtorcl signaling”， and“Mitotic spindle”
+
+[Conclusions] RACGAP1 was highly expressed in bladder cancer and significantly associated with clinicopathological parameters and prognosis of bladder cancer patients. RACGAPl could be a potential target in the diagnosis and treatment of bladder cancer.
+
+Keywords: Bladder cancer RACGAP1 Prognosis
+
+# 1前言
+
+膀胱癌是全球第十二常见的恶性肿瘤，同时也是泌尿系统第一常见的恶性肿瘤[1]。在我国，膀胱癌是男性泌尿生殖系统发病率第二高的肿瘤，居男性恶性肿瘤第七位，近年来随着我国人口结构与生活习惯的变化，膀胱癌的发病率也不断升高[2]。目前治疗膀胱癌的主要手段是行尿道膀胱电切术辅以放、化疗，但患者的术后生活质量差，远期预后不佳，免疫治疗虽然已应用于膀胱癌的治疗[3]，但确切作用机制尚不清楚，亟待进一步研究膀胱癌的发病机制，寻找特异性强，敏感性高的肿瘤标记物，以改进现有的膀胱癌诊疗模式。
+
+Ras 同源物（Rashomologue，RHO）家族小鸟苷三磷酸（GTP）酶是一组分子量在 $2 0 { \sim } 2 5 \mathrm { k D }$ 的小分子GTP结合蛋白，具有GTP 酶的活性，调节细胞生长、存活、运动、形态发生和分化等多种细胞功能[4]。RacGTP酶活性蛋白1（RacGTPase activating protein1，RacGAP1）是GTP酶活性蛋白家族的一员,其基因位于染色体12q13内，可调节细胞周期、胞质分裂、细胞分化及信号转导，作为细胞增殖的标志物在细胞分裂增殖的过程中起重要的作用[4-6]。近年来对RACGAP1在肿瘤相关领域的报道不断增多，该基因现已被证实与多种肿瘤的发生、发展密切相关，如乳腺癌7、胃癌[8、前列腺癌[9等。然而，极少有关于RACGAP1表达与膀胱癌临床病理参数及预后关系方面的报道。有鉴于此，本研究经筛选后选取基因表达汇编（Gene Expression Omnibus，GEO）这个公共数据集中膀胱癌在线数据集，数据进行标准化处理后，对RACGAP1表达与膀胱癌患者临床病理和预后的关系展开研究，并进一步探究其对膀胱癌的可能作用机制。
+
+# 2对象与方法
+
+# 2.1一般资料
+
+从 NCBI的GEO 数据库(https://www.ncbi.nlm.nih.gov/geo/)中下载表达谱数据集GSE13507（非配对样本，其中原发性膀胱癌165例、正常组织样本68例），并进行标准化。采用Illumina公司的Illumina human-6v2.0expressionbeadchip（GPL6102）基因表达芯片对GSE13507进行注释（RACGAP1基因对应的探针为ILMN_1702140）。同时下载临床病理数据集，含165 例原发性膀胱癌患者的性别、年龄、侵袭性、T分期、N分期、M分期、疾病分级及复发进展情况。
+
+# 2.2 统计学分析
+
+采用SPSS20.0版统计学软件对数据进行统计学分析。对正常组织与膀胱癌组织中RACGAP1表达水平行t检验，分析其差异性。同时为探究RACGAP1表达水平与临床病理特征和复发进展的关系，行卡方检验。去除临床信息缺失的样本后，进行预后分析。依据基因表达谱的数据，将数据集GSE13507中的165 例原发性膀胱癌患者样本按RACGAP1的表达量由低到高排序，以中位值为界值将样本分为低表达组和（<中位值）和高表达组（≥中位值）。采用Kaplan-Meier 法行Log-rank检验进行生存分析，以 $\mathrm { P } { < } 0 . \ : 0 5$ 为差异有统计学意义。使用GSEA3.0版本对样本数据集GSE13507中的膀胱癌组织样本进行基因集富集分析。选取GSEA网站Msigdb 数据库中内置的Hallmark genesets数据集(http://software.broadinstitute.org/gsea/index.jsp)为参照基因集，对该样本数据集按照默认加权富集统计的方法进行富集分析，每次分析重复1000次。以 $\mathrm { P } { < } 0 . 0 5$ 及错误发现率<0.05的基因集作为显著富集基因集。
+
+# 3结果
+
+# 2.1 RACGAP1的表达情况
+
+对样本数据集GSE13507中的基因表达数据经行分析，结果显示正常膀胱组织中RACGAP1水平为 $7 . 5 5 7 \pm 0 . 0 2 0$ ，低于膀胱癌组织的 $7 . 7 9 0 { \pm } 0 . 0 2 8$ ，差异有统计学意义（P<0.0001）；膀胱癌组织中RACGAP1水平的中位值为7.700，以此为界值分组，165例膀胱癌患者中82例为低表达组，余83例为高表达组。见图1。
+
+![](images/4b22110f07ffda2c6fa17a01f712ea56ae847cd1ab052c5b86d922849d6dd835.jpg)  
+图1不同组织中RACGAP1表达水平的差异
+
+# 2.2RACGAP1表达与膀胱癌临床病理参数的关系
+
+在膀胱癌样本数据集GSE13507中，卡方检验结果显示膀胱癌组织中RACGAP1表达水平与性别、M分期和进展无关 $( \mathrm { P } { > } 0 . 0 5 )$ ，但与年龄、侵袭性、T分期、N分期、疾病分级和复发有关（ $\mathrm { P } { < } 0 . 0 5 \mathrm { ) }$ ），其中与T分期、N分期、疾病分级具有显著差异性（P<0.001）。见表1。
+
+表1RACGAP1与膀胱癌临床病理特征的关系  
+
+<html><body><table><tr><td rowspan="2">项目</td><td rowspan="2">n</td><td colspan="2">RACGAP1表达</td><td rowspan="2">Chi-square</td><td rowspan="2">P</td></tr><tr><td>低</td><td>高</td></tr><tr><td>性别</td><td></td><td></td><td></td><td>0. 594</td><td>0. 441</td></tr><tr><td>男性</td><td>135</td><td>69</td><td>66</td><td></td><td></td></tr><tr><td>女性</td><td>30</td><td>13</td><td>17</td><td></td><td></td></tr><tr><td>年龄</td><td></td><td></td><td></td><td>7. 263</td><td>0.007</td></tr><tr><td>≤55</td><td>29</td><td>21</td><td>8</td><td></td><td></td></tr><tr><td>>55</td><td>136</td><td>61</td><td>75</td><td></td><td></td></tr><tr><td>侵袭性</td><td></td><td></td><td></td><td>14.421</td><td><0.001</td></tr><tr><td>肌层浸润</td><td>62</td><td>19</td><td>43</td><td></td><td></td></tr><tr><td>非肌层浸润</td><td>103</td><td>63</td><td>40</td><td></td><td></td></tr><tr><td>T分期</td><td></td><td></td><td></td><td>13.32</td><td><0.001</td></tr><tr><td>Ta～T1</td><td>104</td><td>63</td><td>41</td><td></td><td></td></tr><tr><td>T2～T4</td><td>61</td><td>19</td><td>42</td><td></td><td></td></tr><tr><td>N分期</td><td></td><td></td><td></td><td>4.323</td><td>0.038</td></tr><tr><td>NO</td><td>149</td><td>78</td><td>71</td><td></td><td></td></tr><tr><td>N1～N3</td><td>15</td><td>3</td><td>12</td><td></td><td></td></tr><tr><td>M分期</td><td></td><td></td><td></td><td>0. 137</td><td>0. 711</td></tr><tr><td>M0</td><td>158</td><td>79</td><td>79</td><td></td><td></td></tr><tr><td>M1</td><td>7</td><td>3</td><td>4</td><td></td><td></td></tr><tr><td>疾病分级</td><td></td><td></td><td></td><td>23.004</td><td><0.001</td></tr><tr><td>低</td><td>105</td><td>67</td><td>38</td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>高</td><td>60</td><td>15</td><td>45</td><td></td><td></td></tr><tr><td>复发</td><td></td><td></td><td></td><td>13.894</td><td>0.001</td></tr><tr><td>是</td><td>36</td><td>20</td><td>16</td><td></td><td></td></tr><tr><td>否</td><td>67</td><td>43</td><td>24</td><td></td><td></td></tr><tr><td>进展</td><td></td><td></td><td></td><td>1.843</td><td>0.175</td></tr><tr><td>是</td><td>31</td><td>12</td><td>19</td><td></td><td></td></tr><tr><td>香</td><td>134</td><td>70</td><td>64</td><td></td><td></td></tr></table></body></html>
+
+# 2.3RACGAP1与膀胱癌预后的关系RACGAP1高表达组的基因富集分析
+
+生存分析结果显示在膀胱癌样本数据集GSE13507中，RACGAP1高表达组和低表达组的5年总生存率分别为 $5 6 . 6 \%$ 和 $7 3 . 9 \%$ （ $\mathrm { { H R = 0 } } . 4 7$ ， $9 5 \% C \mathrm { I }$ :0.29-0.77， $\mathrm { P } { \langle } 0 . 0 1 .$ ）。RACGAP1高表达组和低表达组的5年肿瘤特异生存率分别为$7 0 . 9 \%$ 和91. $6 \%$ （ $\mathrm { { H R = 0 } . 3 3 }$ ， $9 5 \% C \mathrm { I }$ ：0.17-0.67,P<0.01），RACGAP1低表达组的预后生存显著优于高表达组，有统计学意义。见图2。
+
+![](images/c2cd42d88b3f41b876c387bd748c0fc5df9ff198a945823c6ea85d303e04f95b.jpg)  
+图2膀胱癌组织中RACGAP1不同表达水平的生存曲线（左为总生存率生存曲线，右为肿瘤特异生存率生存曲线）
+
+# 2.4RACGAP1高表达组的基因富集分析
+
+研究膀胱癌样本数据集GSE13507中RACGAP1可能的作用机制，对RACGAP1表达水平与各种生物通路基因集的富集关系进行分析，GSEA法结果显示RACGAP1高表达样本富集了MYC信号通路、精子发生、未折叠蛋白反应、G2M检查点、E2F转录因子、MTORC1信号、有丝分裂纺锤体、PI3K/AKT/mTOR途径和DNA修复修复相关的基因集，提示RACGAP1可能的作用机制。见表2。
+
+表2RACGAP1高表达的膀胱癌样本基因集富集分析  
+
+<html><body><table><tr><td>基因集</td><td>富集分数</td><td>错误发现率</td><td>P</td></tr><tr><td>MYC信号通路</td><td>0. 77</td><td>0.006</td><td><0.001</td></tr><tr><td>精子发生</td><td>0.56</td><td>0.004</td><td>0.002</td></tr><tr><td>未折叠蛋白反应</td><td>0.66</td><td>0.004</td><td><0.001</td></tr><tr><td>G2M检查点</td><td>0.83</td><td>0.005</td><td><0.001</td></tr><tr><td>E2F转录因子</td><td>0.86</td><td>0.006</td><td><0.001</td></tr><tr><td>MTORC1信号</td><td>0.67</td><td>0.007</td><td><0.001</td></tr><tr><td>有丝分裂纺锤体</td><td>0.60</td><td>0.008</td><td>0.004</td></tr><tr><td>PI3K/AKT/mTOR途径</td><td>0.54</td><td>0.015</td><td><0.001</td></tr><tr><td>DNA 修复</td><td>0.57</td><td>0.048</td><td>0.022</td></tr></table></body></html>
+
+# 4讨论
+
+RACGAP1通过调节GTP酶活性，在调节细胞周期、细胞分化、细胞迁移和新陈代谢等生命活动中起重要的作用[6-9]。RACGAP1在细胞分裂间期位于细胞核内，与Rac1相互作用，并参与激活NADPH氧化酶，影响分裂期的物质合成准备[10-13]。细胞分裂中期，RACGAP1与微管骨架的绑定动态移动到有丝分裂纺锤体，作为支架蛋白因子参与细胞分裂[13]。RACGAP1在细胞分裂后期和末期移位至中央区，后在胞质分裂期浓缩至中间体[13,14]。
+
+研究显示在人体细胞中细胞，RACGAP1与KIF23相互作用，共同促进中央纺锤体蛋白复合体的形成，进而调节胞质分裂过程[10.I]。此外RACGAP1也与多条炎性通道有关，对组织细胞造成损伤[13]。RACGAP1连同ANLN、ECT2、AURKB8、PRC1和KIF23（MKLP1）这些胞质分裂相关的群集基因，共同调控细胞增殖分化[10.I1]。RacGAP1可以通过调节GTP-Rac1的水平来调节Rac1、RhoA和Erk 蛋白的活化，活化的Rac1、RhoA和Erk蛋白在调节肿瘤细胞迁移和侵袭中起重要作用[9,15]。
+
+RACGAP1高表达癌组织中Rac 和cdc42的活性更高，组织细胞骨架重构,细胞极重排，细胞形态改变,癌组织与周围正常组织的黏附降低，癌细胞更易发生转移[10]。RACGAP1也可作用于AURKB酶，通过使其第387位的丝氨酸发生磷酸化，致使它的GTP酶作用方向从激活Rac蛋白活性转向为激活Rho,进而导致了RacGTP的增多以及RhoGTP的减少，导致上皮间质转化[16]。有报道称RACGAP1可通过调节群集基因，引发纺锤体的组装并触发分裂沟内移，是决定胞质分裂能否完成的重要步骤[17]。此外RACGAP1上调表达的Rac 和cdc42,可以增强癌细胞的耐药性[18]。RACGAP1过表达会导致有丝分裂过程出错，引起细胞周期紊乱，通过调节GTP酶的活性影响细胞代谢，引起异常的胞质分裂，导致细胞的恶性转化。在临床实践中，由于RACGAP1在正常组织细胞中表达沉默，Rac1处于失活状态，而在肿瘤细胞中过表达时才激活Rac1，RACGAP1抑制剂对正常组织细胞是没有作用的[10]，RACGAP1可作为肿瘤潜在的免疫治疗靶点，解决化疗药物耐受的问题，为膀胱癌的治疗提供新思路[18]。
+
+本研究利用生物信息学的方法探究RACGAP1与膀胱癌的关系，通过使用GEO数据集的膀胱癌样本数据集GSE13507，发现RACGAP1在膀胱癌组织的表达显著高于正常膀胱组织；证明了RACGAP1的表达与膀胱癌患者的年龄、肿瘤侵袭性、T分期、N分期、肿瘤分级和复发等临床病例特征在统计学上具有高度相关性；生存分析结果显示RACGAP1高表达的患者术后总生存期更短，且进展更易发生；基因富集分析提示RACGAP1高表达的膀胱癌组织具有分裂增殖的潜能，能激活MYC、E2F和MTORC1等肿瘤相关信号通路，作用于PI3K/AKT/mTOR途径，调控细胞的有丝分裂过程，阻滞对损伤DNA的修复，在膀胱癌的发生发展过程中发挥重要作用。
+
+综上所述，RACGAP1的表达水平可作为反映膀胱癌患者预后的生物学标志物，可能作为潜在的膀胱癌防治的靶点，具有重要临床意义。同时RACGAP1与膀胱癌疾病进展分期的高度相关性提供了下一步研究的方向。
+
+参考文献：
+
+estimates of incidence and mortality worldwide for 36 cancers in 185 countries[J].CA Cancer J Clin, 2018,68(6) :394-424.   
+[2] Chen W，Sun K, Zheng R,et al. Cancer incidence and mortality in China,2014[J]. Chin J Cancer Res，2018,30(1) :1-12.   
+[3] Spiess P E， Agarwal N， Bangs R，et al. Bladder Cancer， Version 5.2017， NCCN Clinical Practice Guidelines in Oncology[J]． J Natl Compr Canc Netw， 2017,15(10):1240-1267.   
+[4] Ueyama T. Rho-Family Small GTPases: From Highly Polarized Sensory Neurons to Cancer Cells[J]． Cells，2019,8(2).   
+[5] Palsuledesai C C， Surviladze Z, Waller A,et al． Activation of Rho Family GTPases by Small Molecules[J]． ACS Chem Biol，2018,13(6):1514-1524.   
+[6]Lawson C D，Der CJ. Filling GAPs in our knowledge:ARHGAP1lA and RACGAPl act as oncogenes in basal-like breast cancers[J]． Small GTPases，2018,9(4):290-296.   
+[7] Bornschein J， Nielitz J, Drozdov I，et al. Expression of aurora kinase A correlates with the Wnt-modulator RACGAP1 in gastric cancer[J]. Cancer Med，2016,5(3):516-526.   
+[8]Wilson B D， Ricks-Santi L J， Mason T E,et al． Admixture Mapping Links RACGAP1 Regulation to Prostate Cancer in African Americans［J]. Cancer GenomicsProteomics, 2018,15(3) :185-191.   
+[9] Wang C， Wang W， Liu Y， et al. Rac GTPase activating protein 1 promotes oncogenic progression of epithelial ovarian cancer[J]. Cancer Sci，2018,109(1) :84-93.   
+[10]郑霁月．RacGAP1蛋白在肝细胞癌中的异常表达及其预后价值[D]．蚌埠医学院，2017.   
+[11] Miller A L，Bement W M. Regulation of cytokinesis by Rho GTPase flux[J]． Nat Cell Biol, 2009,11(1) :71-77.   
+[12] Leng R, Liao G,Wang H,et al． Racl expression in epithelial ovarian cancer: efect on cell EMT and clinical outcome[J]． Med Oncol，2015,32(2):329.   
+[13] Jantsch-Plunger V,Gonczy P, Romano A，et al. CYK-4: A Rho family gtpase activating protein (GAP） required for central spindleformation and cytokinesis[J]. J Cell Biol, 2000,149(7) :1391-1404.   
+[14] Ruan Y， Sun L， Hao Y，et al． Ribosomal RACKl promotes chemoresistance and growth in human hepatocellular carcinoma[J]．J Clin Invest，2012,122(7) :2554-2566.   
+[15] Milde-Langosch K, Karn T, Muller V，et al. Validity of the proliferation markers Ki67, TOP2A，and RacGAP1 in molecular subgroups of breast cancer[J]. Breast Cancer Res Treat, 2013,137(1) :57-67.   
+[16] Zondag GC， Evers EE, Ten KJ，et al. Oncogenic Ras downregulates Rac activity， which leads to increased Rho activity and epithelial-mesenchymal transition[J]. J Cell Biol, 2000,149(4) :775-782.   
+[17] Yuce O, Piekny A, Glotzer M. An ECT2-centralspindlin complex regulates the localization and function of RhoA[J]． J Cell Biol，2005,170(4):571-582.   
+[18］李楠静，刘桢，张又，等．小G蛋白Cdc42对人结肠癌奥沙利铂耐药细胞多药耐药性的影响［J]．四 川大学学报(医学版)，2011,42(4):466-470.   
+（通讯作者：曾宪涛 E-mail： zengxiantao1128@163.com ：翁鸿 E-mail :
+
+# 作者贡献声明：
+
+曾宪涛，翁鸿：提出研究思路，设计研究方案；  
+张文杰，熊巧华：进行实验；  
+张文杰，陈思超，朱家永，张冉：采集、清洗和分析数据；  
+张文杰，熊巧华：论文起草；  
+曾宪涛，翁鸿，张文杰：论文最终版本修订。

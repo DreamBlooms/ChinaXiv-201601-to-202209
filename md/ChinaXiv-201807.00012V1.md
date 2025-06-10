@@ -1,0 +1,235 @@
+# CWT方法在中国夏季降水水汽来源识别中的应用
+
+孟鸿飞，张明军，王圣杰，邱雪，杜铭霞，马荣（西北师范大学地理与环境科学学院,甘肃 兰州730070)
+
+摘要：利用TrajStat 软件中的后向轨迹计算模块与浓度权重轨迹(CWT)方法,对中国西部(新疆乌鲁木齐、青海祁连和玛多)和东部(湖南长沙和广东广州)事件尺度的夏季降水水汽来源进行分析,并结合水汽通量进行补充分析。结果发现： $\textcircled{1}$ 乌鲁木齐、祁连、玛多夏季降水受西风水汽影响显著,而长沙夏季降水受西太平洋水汽影响显著,广州夏季降水受印度洋水汽影响显著。 $\textcircled{2}$ 5个站点夏季降水均有局地再循环水汽参与。在西部,影响夏季降水的循环水汽主要分布在相对湿度较大的山区、盆地以及蒸发量较大的地区。而在东部,影响夏季降水的循环水汽主要分布在一些地表水体集中的地方。 $\textcircled{3}$ 在西部,由于水汽在运移过程中,下垫面起伏大,空气团水汽 $d$ 值变化除受地表蒸发水汽影响外,还受下垫面地势起伏的影响。在东部,由于水汽在运移过程中,下垫面起伏小,空气团水汽 $d$ 值变化一般只受地表蒸发水汽影响。
+
+关键词：夏季降水；后向轨迹；浓度权重轨迹(CWT)；水汽来源；水汽输送；中国
+
+区域水循环过程研究中，水汽来源一直是水文学家关注的热点，其对深人了解区域水循环过程及其结构具有重要意义[1-2]
+
+水汽来源研究方面，近年来，由于拉格朗日方法可以比较清晰地确定气块的输送源地。因此，已被广泛应用。如：江志红等[3]利用HYSPLIT模式分析了江淮梅雨期的不同水汽源地对梅雨水汽输送的贡献率,杜亮亮等[4]也利用该模式分析得出了2001—2011年玛曲地区23次强降水的水汽主要来源于东南方向。肖红伟等[5]利用TrajStat 软件的后向轨迹模式（利用HYSPLIT模式中轨迹计算模块)研究得出贵阳春季气团轨迹较为杂乱，夏季气团主要来自沿海,秋冬季则主要受中国内陆的影响。陈斌等[6]利用FLEXPART模式对一次极端降水过程的水汽源汇特征进行了较为系统的研究，给出了该事件的水汽源地以及不同水汽源地对水汽输送的相对贡献情况。权晨等[7采用FLEXPART模式诊断发现，三江源区6月青藏高原西侧的水汽输送贡献最大，7月阿拉伯海成为了主要水汽来源，8月阿拉伯海水汽输送贡献减小。另外，同位素方法近年来在水汽来源示踪中应用比较广泛[8-I1]。此外,欧拉方法给出的水汽通量也可以反映出大概的水汽来源，但只能给出一个简单的水汽输送路径[6,12] 。
+
+上述鉴别水汽源区的方法大都是基于气象资料或者同位素数据单独分析。本文除利用水汽通量对研究点夏季水汽来源进行大致分析外，主要利用TrajStat软件中气团轨迹的批量计算功能,并将气团轨迹和大气成分观测数据（水汽 $d$ )结合，利用浓度权重轨迹（CWT,concentrationweighted trajectory）方法定性分析了引起夏季降水循环水汽的潜在源区。CWT方法是一种通过气流轨迹识别大气污染物潜在来源的方法[13],以往多用于大气污染源的鉴定[14-16],是一种利用气象数据与污染物浓度数据，并将研究结果可视化在网格上来判断污染源地的一种方法。近年来,Salamalikis 等[17]利用浓度加权轨迹方法结合气象数据与水汽d数据，分析了希腊帕特雷地区的水汽来源，得出地中海盆地中部地区是帕特雷地区降水的潜在来源区，表明了应用CWT方法研究水汽输送源的可行性，此方法在其他区域的应用案例还不多见。本文以期为降水水汽来源问题提供一个新的思路，从而对研究点夏季降水水汽来源有更细致、更全面的认识。
+
+表1研究站点基本信息  
+Tab.1Basic information of the sampling sites in this study   
+
+<html><body><table><tr><td>站点</td><td>纬度</td><td>经度</td><td>海拔/m</td><td>年均气温/℃</td><td>年均降水量/mm</td><td>样本数</td><td>数据来源</td></tr><tr><td>乌鲁木齐</td><td>43°06'</td><td>86°50'</td><td>3 545</td><td>-4.3</td><td>390</td><td>35</td><td>文献[18]</td></tr><tr><td>祁连</td><td>38°42'</td><td>99°38'</td><td>3320</td><td>-3.1</td><td>401.4</td><td>34</td><td>文献[19]</td></tr><tr><td>玛多</td><td>34°55'</td><td>98°16'</td><td>4300</td><td>14</td><td>320</td><td>96</td><td>文献[20]</td></tr><tr><td>长沙</td><td>28°12'</td><td>112°54'</td><td>37</td><td>17.7</td><td>1 427.5</td><td>40</td><td>文献[21]</td></tr><tr><td>广州</td><td>23°09'</td><td>113°21'</td><td>3</td><td>22</td><td>1736</td><td>69</td><td>文献[22]</td></tr></table></body></html>
+
+# 1研究区概况
+
+为了将CWT方法应用到不同地形条件下降水水汽来源的问题上，笔者从内陆至沿海选取分布较广且下垫面不同的5个研究站点，分别是乌鲁木齐、祁连、玛多、长沙和广州(表1）。为了总结研究结果的普遍特征，将乌鲁木齐、祁连和玛多作为中国西部地区研究站点，长沙和广州作为东部地区研究站点。中国西部多高山、地形复杂，地势起伏大，而东部地形较平坦。本文采用日尺度的降水同位素数据[18-22],并包含同期监测的气象参数。其中,乌鲁木齐的样品采自中国科学院天山冰川观测试验站高山站，其位于新疆乌鲁木齐县的天山山区，是乌鲁木齐河源区；祁连的样品采自青海祁连县的祁连乡，其位于祁连山中段，是黑河源区；玛多位于青海省东南部,地处青藏高原东部，是黄河上游;长沙属亚热带季风气候区，夏季湿热，冬季干冷；广州位于珠江河畔，濒临南海，属亚热带季风气候区。
+
+# 2 商 数据与方法
+
+# 2.1 数据来源
+
+在Excel中统计出各研究站点各年份夏季的降水次数，由于CWT分析需要将研究站点及其周边区域格网化，轨迹太少会影响研究结果，使得CWT分析没有意义，所以，本文主要选取各站点采样时段内降水次数最多的夏季进行分析。乌鲁木齐、祁连、玛多、长沙、广州的研究时段分别是2003年、2009 年、2009年、2010年、2008年的夏季（6一8月）。除祁连外,其他站点在源数据中均一并提供了气温和降水量数据，祁连的温度数据来源于中国气象数据网（http：//data.cma.cn/）。降水水汽同位素日数据通过对应研究站点的降水同位素日数据换算得到[23-25],公式如下：
+
+$$
+\delta ^ { 1 8 } \mathrm { O } _ { \mathrm { P V } } \cong \delta ^ { 1 8 } \mathrm { O } _ { \mathrm { p } } - 1 0 ^ { 3 } \left( \alpha _ { w - v } ^ { 1 8 } - 1 \right)
+$$
+
+$$
+\delta \mathrm { D } _ { \mathrm { P V } } \{ \underline { { { \sigma } } } \delta \mathrm { D } _ { \mathrm { P } } - 1 0 ^ { 3 } \big ( \alpha _ { w \mathrm { - } v } ^ { 2 } - 1 \big )
+$$
+
+式中： $\alpha _ { w - v } ^ { 1 8 }$ 和 $\alpha _ { w - v } ^ { 2 }$ 是水和水蒸气氢氧同位素之间的平衡分馏系数,这两个系数和温度 $T ( K )$ 存在以下关系[26-27].
+
+$$
+1 0 ^ { 3 } \mathrm { l n } \alpha _ { w - \nu } ^ { 1 8 } = 1 . \ 1 3 7 \left( \ 1 0 ^ { 6 } / T ^ { 2 } \right) \ - 0 . \ 4 1 5 \ 6 \left( \ 1 0 ^ { 3 } / T \right)
+$$
+
+$$
+1 0 ^ { 3 } \mathrm { l n } \alpha _ { w \mathrm { ~ } \sim \mathrm { ~ } v } ^ { 2 } = 2 4 . 8 4 4 ( 1 0 ^ { 6 } / T ^ { 2 } ) \mathrm { ~ } - 7 6 . 2 4 8 ( 1 0 ^ { 3 } / T )
+$$
+
+$$
++ 5 2 . 6 1 2 \
+$$
+
+对于一天内出现多个降水样品的数据，当天降水中稳定同位素值为当日所有数据的降水量加权平均值,降水中氢氧稳定同位素的加权平均值为：
+
+$$
+\delta _ { ( w ) } \ = \frac { \displaystyle \sum P _ { i } \delta _ { i } } { \displaystyle \sum P _ { i } }
+$$
+
+式中： $\delta _ { ( w ) }$ 为加权平均值; $\boldsymbol { P } _ { i }$ 为降水量； $\delta _ { i }$ 为其相应的同位素比率。
+
+# 2.2 后向轨迹分析
+
+本研究使用 TrajStat 软件[28],该软件对气团轨迹的计算利用了NOAA的HYSPLIT模式的计算模块[29],追踪每个研究站点夏季各月降水事件的后向轨迹。具体气团位置的计算公式如下，起始时间为世界协调时00：00和12：00，回溯时间是 $^ { 1 4 4 \mathrm { ~ h ~ } }$ (6d）,模型起始高度定为距地面 $2 \ 0 0 0 \ \mathrm { m } \mathrm { , 1 } \ 5 0 0 \ \mathrm { m } ,$ $1 \ 0 0 0 \ \mathrm { m }$ 处。
+
+$$
+P ( t + \Delta t ) = P ( t ) + 0 . 5 \cdot \lbrack V ( P , t ) + V ( P ^ { \prime } , t +
+$$
+
+$$
+{ \bf \Delta } \Delta t ) ] \cdot \Delta t
+$$
+
+$$
+P ^ { \prime } ( t + \Delta t ) = P ( t ) + V ( P , t ) \cdot \Delta t
+$$
+
+式中： $P ( \boldsymbol { t } + \Delta \boldsymbol { t } )$ 为 $\mathbf { \xi } _ { t { \mathrm { ~ + ~ } } \Delta t }$ 时刻气团中心的最终位置;$P ( t )$ 为初始时刻的位置; $V ( P , t )$ 为经过时空差值的$\mathbf { \Phi } _ { t }$ 时刻 $P$ 位置处的速度向量； $P ^ { \prime } \left( t + \Delta t \right)$ 为经过 $\varDelta t$ 时间后的第1猜测位置
+
+在轨迹计算时（表2），模式需要ARL格式数据的支持，本文获取的符合数据格式要求的有NCEP(National Center forEnvironmental Prediction,美国国家环境预报中心)提供的GDAS(GlobalData Assimi-lationSystem）气象数据（全球资料同化系统,ftp：//arlftp.arlhq.noaa.gov/pub/archives/gdas1）,空间分辨率为 $1 ^ { \circ } \times 1 ^ { \circ }$ 。还有NCEP/NCAR再分析资料Re-analysis(ftp://arlftp.arlhq.noaa.gov/pub/archives/reanalysis）气象数据，空间分辨率为 $2 . 5 ^ { \circ } \times 2 . 5 ^ { \circ }$ C鉴于GDAS数据最早从2005年开始有记录，而乌鲁木齐的研究时段是2003年的夏季，故采用Reanaly-sis气象数据。
+
+# 表2研究站点夏季各月后向轨迹数目
+
+Tab.2The number of monthly backward trajectories to the sampling sites in summer   
+
+<html><body><table><tr><td>月份</td><td>乌鲁木齐</td><td>祁连</td><td>玛多</td><td>长沙</td><td>广州</td></tr><tr><td>6</td><td>54</td><td>48</td><td>96</td><td>72</td><td>120</td></tr><tr><td>7</td><td>96</td><td>90</td><td>132</td><td>72</td><td>42</td></tr><tr><td>8</td><td>42</td><td>48</td><td>96</td><td>48</td><td>54</td></tr><tr><td>夏季</td><td>192</td><td>186</td><td>324</td><td>192</td><td>216</td></tr></table></body></html>
+
+# 2.3浓度权重轨迹(CWT)分析
+
+CWT是一种源区识别并将其网格化的方法[30]。本研究利用计算出的水汽d日数据,计算了每条后向轨迹的水汽 $d$ 权重值，以反映不同轨迹水汽 $d$ 值的大小、水汽源地以及再循环水汽对空气团中 $d$ 值的影响状况。在CWT分析中，设置网格精度为 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ ,每个网格均有一个权重水汽 $d$ 浓度值，通过计算经过该网格的所有轨迹对应的平均水汽 $d$ 浓度值来实现,根据公式(8)计算得到。其中$C _ { i j }$ 是网格 $( i , j )$ 上的平均权重水汽 $d$ 浓度值,单位是 $\mathcal { I } _ { 0 o } \cdot \mathrm { ~ m ~ } ^ { - 3 }$ ， $k$ 是轨迹数目, $C _ { k }$ 是轨迹 $k$ 经过网格(i,$j )$ 时对应的研究站点水汽 $d$ 值的大小, $T _ { i j k }$ 是轨迹 $k$ 在网格 $( i , j )$ 上的停留时间，计算过程中,用落在网格内的轨迹 $k$ 的端点数来代替。由于CWT的误差会随着网格与采样点的距离增加而增加。当 $n _ { i j }$ 较小时，会有很大的不确定性，为了减小这种不确定性，引入权重函数公式（9）， $W ( n _ { i j } )$ 函数的确定参考Zeng 等[31]、Polissar等[32]和张磊等[33]的研究结果。
+
+$$
+C _ { i j } \ = \ { \frac { \displaystyle \sum _ { k = 1 } ^ { m } C _ { k } T _ { i j k } } { \displaystyle \sum _ { k = 1 } ^ { m } T _ { i j k } } } \cdot W ( n _ { i j } )
+$$
+
+其中, $C _ { i j }$ 值的大小与3个因素有关。其一是局地循环水汽会使其值升高。其二是相对湿润的地表蒸发的水汽 $d$ 值小于相对干燥的地表蒸发的水汽 $d$ 值，即相对湿润的地表对应的 $C _ { i j }$ 值小于相对干燥的地表对应的 $C _ { i j }$ 值。其三是水汽遇到高大山脉时，气流被迫抬升,冷凝降水,水汽中较轻的水( $\mathrm { \Delta H D ^ { 1 6 } O }$ )相对于较重的水 $\begin{array} { r l } {  { \big ( \mathrm { H } _ { 2 } ^ { \ 1 8 } \mathrm { O } \big ) } } \end{array}$ 更多的析出，使水汽中SD 相对于 $\delta ^ { 1 8 } 0$ 较少,水汽中的 $d$ 值较低， $C _ { i j }$ 值降低
+
+# 2.4 水汽通量
+
+水汽通量指的是单位时间内流经整个区域或分区不同经纬度剖面上单位面积的水汽输送量，反映出水汽输送的量值和方向[34]。本文利用空间分辨率为 $1 . 5 ^ { \circ } \times 1 . 5 ^ { \circ }$ 的ERA-Interim再分析资料，计算了各研究站点对应年份夏季相应气压高度层的水汽通量(图6)。气压层选择的依据是各研究站点后向轨迹的高度与气压高度对照表。乌鲁木齐、祁连、玛多、长沙、广州的气压高度层分别为 $6 5 0 \mathrm { \ h P a } \sim 4 5 0$ hPa、650hPa\~450hPa、600hPa\~400hPa $9 5 0 \ \mathrm { h P a }$ $\sim 7 5 0 \ \mathrm { { h P a } \ . 9 5 0 \ \mathrm { { h P a } \sim 7 5 0 \ \mathrm { { h P a } } } }$ 。
+
+# 3结果与分析
+
+# 3.1乌鲁木齐夏季降水水汽来源分析
+
+从图1可以看出，2003年乌鲁木齐夏季降水水汽主要来源于西风水汽。但是各月水汽来源方向存在一定差异。6月降水水汽主要从西边和西北方向到达该区域，7月降水水汽主要从西面到达该区域，8月降水水汽主要有西南方向的水汽和少量西北方向而来的北冰洋水汽。
+
+图1d中，站点以西的天山地区较周围地区颜色偏冷，意味着经过天山山区的水汽中 $d$ 值小于周围暖色区域水汽中的 $d$ 值。造成这种现象是因为天山山区海拔高，温度低，使得天山地区水汽循环率较周围地区低。在夏季，天山地区水汽再循环对局地水汽的影响不容忽视[35]。对于乌鲁木齐这样的大绿洲，蒸发水汽比例和蒸腾水汽比例都比小绿洲要大，水汽再循环比可达 $1 6 . 2 \%$ ，而对于面积较小的绿洲,水汽再循环比则在 $5 \%$ 以下[36],山区水汽内循环相对微弱，不利于蒸发的水汽再次形成降水；其次是因为天山山区夏季相对湿度大，蒸发缓慢，所以山区蒸发水汽中 $d$ 值比周围地区蒸发水汽中的 $d$ 值低。此外西风水汽经哈萨克斯坦的平原、丘陵等低海拔区域到达高大的天山山脉，下垫面地势起伏大。
+
+![](images/538ed7b8a22ee2b0df49282bcc8cfdcd5ed649235f17069b6537c6d0b440c8b6.jpg)  
+图12003年夏季乌鲁木齐水汽后向轨迹及CWT分析
+
+![](images/a6c76e38ff9afc09a5ff93b910f7be0212c29c6fc60c92fbc1df7b090b44aa9c.jpg)  
+Fig.1Backward trajectory and CWT analysis of vapor at Urumqi in summer of 2003   
+图22009年夏季祁连水汽后向轨迹及CWT分析
+
+# 3.2祁连夏季降水水汽来源分析
+
+从图2可以看出，2009年祁连夏季降水受西风水汽影响显著,这与前人研究结果一致[37-39]。6月，西风水汽主要从阿尔泰山脉与天山山脉之间的准噶尔盆地等地势较低的地方自西向东到达研究区；7月，西风水汽分别从天山山脉南北两侧的塔里木盆地及准噶尔盆地自西向东到达研究区，还有来自蒙古、俄罗斯方向的北冰洋水汽;8月，西风水汽从新疆中部自西向东到达研究区。此外，祁连夏季降水还受东南方向的西太平洋水汽的影响。
+
+图2d中，CWT高值区位于新疆东部以及甘肃河西地区。上述地区比较干旱且蒸发强烈[40],地表蒸发水汽中 $d$ 值高，导致空气团中水汽 $d$ 值升高。祁连山区在图2d中的颜色比上述地区颜色浅，其原因是祁连山空中水汽密度比其周围地区的大，相对湿度大[41-42],蒸发水汽中 $d$ 值较小,另一个原因是西风水汽经准噶尔盆地与塔里木盆地等低海拔区域到达高大的祁连山脉，下垫面地势起伏大。东南方向四川盆地也是一个低值区，这是因为四川盆地作为一个高湿区[43],相对湿度大,蒸发水汽中 $d$ 值较小,受东南季风的影响，蒸发水汽随气流西上北进，对祁连夏季降水产生影响。整体来看，祁连夏季降水受局地循环水汽影响较大。这也佐证了Tian等[44 的研究结果：唐古拉山以北的青藏高原地区受大陆性气候的影响，气候较干燥，其降水受区域性蒸发水汽的影响明显。另外,张良等[45]研究发现,境外输送水汽在祁连山地区水文循环中的作用降低，由蒸发产生的降水使区域水循环加强，也说明了祁连的降水受区域循环水汽的影响较大。
+
+# 3.3玛多夏季降水水汽来源分析
+
+从图3可以看出，玛多2009年6月的降水水汽来源主要有两支，一支是西风水汽经新疆输送至研究区，另一支是西风水汽受阿拉伯海水汽的影响，沿印度河河谷向东北方向输送，受帕米尔高原阻挡后，向东沿喀喇昆仑山与喜马拉雅山之间的河谷、山谷进入青藏高原西南部，沿着雅鲁藏布江河谷向东输送的过程中受到印度季风的影响，转向偏北方向输送至研究区。7月和8月的降水除受西风水汽影响外，还受孟加拉湾水汽以及高原东南部水汽的影响。此外，玛多夏季降水还受到东南方向西太平洋水汽的影响。
+
+![](images/17da0fd314f23158c9a63a88a77a8c50596933945c526aca97e6c38de52111d4.jpg)  
+图3d中，高原东南部、四川盆地以及柴达木盆  
+图32009年夏季玛多水汽后向轨迹及CWT分析  
+Fig.3Backward trajectory and CWT analysis of vapor at Madoi in summer of 2009
+
+![](images/aefac951e8c79c62f305937c29a61c55ce35ca40ba7e27bbf8c06908cc522f7c.jpg)  
+图42010年夏季长沙水汽后向轨迹及CWT分析  
+Fig.4Backward trajectory and CWT analysis of vapor at Changsha in summer of 2010
+
+地的CWT值均较低。造成高原东南部CWT值低的原因是，高原的东南部是青藏高原夏季水汽最为集中的地方，相对湿度大，部分研究也证明了这一点[46],蒸发水汽中 $d$ 值较其他地区低;另一个原因就是孟加拉湾水汽经洋面以及孟加拉国、印度和缅甸一些低海拔区域到达海拔较高的高原东南部，下垫面地势起伏大。四川盆地CWT值较低的原因是，该盆地夏季是一个高湿区[43],蒸发水汽中 $d$ 值较小。而柴达木盆地CWT值较低的原因可能是此区域降水量少，而地表蒸发总量又与降水总量比较接近,所以,实际蒸发水汽较少[47]
+
+# 3.4长沙夏季降水水汽来源分析
+
+从图4可以看出，长沙2010年夏季降水主要受西太平洋影响，其次是印度洋。6月降水水汽来源主要是西太平洋地区、北方大陆以及印度洋。7月降水水汽来源主要是西太平洋地区。8月降水水汽来源主要是西太平洋地区以及北方大陆。
+
+图4d中，CWT高值区主要分布在长沙以北，这些地方集中了长江、湘江、资江、沅江、澧水等湖泊。夏季温度高，这些地表水体蒸发强烈，导致空气团中水汽在到达长沙之前，混入了大量地表蒸发水汽，使得经过这些地区的空气团中水汽 $d$ 值显著升高。另外，广东中南部以及中南半岛南部CWT值也较高，说明水汽从洋面输送至这些地区时均有不同程度的地表蒸发水汽混入。由于水汽运移路径上的下垫面主要是洋面和平原丘陵等低海拔区域，地势起伏小，地貌类型单一，不存在地势起伏对水汽 $d$ 值的影响，所以，蒸发强烈的区域对应的水汽 $d$ 值较大，类似的结论对广州同样适用。
+
+# 3.5广州夏季降水水汽来源分析
+
+从图5可以看出，广州2008年6月的降水水汽来源主要是印度洋水汽和小部分西太平洋水汽；7月的降水水汽主要来自印度洋；8月的降水水汽来源主要是印度洋，其次是西太平洋。此外，2008 年的6号台风“风神”9号强热带风暴“北冕”和12号台风“鹦鹉”都对相应时段广州的降水产生影响。6月25日广州共采集到8个降水样品， $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 的振幅为$3 . 0 7 \% o , d$ 振幅为 $14 \text{‰}$ ，变幅大说明水汽来源复杂，反映出“风神”对25日降水产生影响。台风及热带风暴引起的降水一般具有较低的同位素值，所以受“北冕”影响，广州8月6日降水稳定同位素值为2008 年夏季次低值。受“鹦鹉”影响，23日降水稳定同位素值远低于8月平均值。
+
+![](images/21873239e8ee6c8b070ca3372bfda83f00640aea8daa481740f6e2e74a605f93.jpg)  
+图52008年夏季广州水汽后向轨迹及CWT分析  
+Fig.5Backward trajectory and CWT analysis of vapor at Guangzhou in summer of 2008
+
+图5d中，CWT高值区出现在中南半岛南部以及广东的中东部。广东最大的两个水库新丰江水库和枫树坝水库均位于广东中东部。夏季气温高，这些面积巨大的地表水体蒸发强烈，导致高空水汽 $d$ 值升高，对应区域在CWT图上颜色变深。说明上述地区的地表蒸发水汽是广州夏季降水水汽来源的组成部分。
+
+# 3.6 水汽输送特征
+
+从图6可以看出，长沙和广州的夏季水汽通量均明显大于乌鲁木齐、祁连和玛多的夏季水汽通量，而乌鲁木齐夏季水汽通量大于祁连和玛多的夏季水汽通量。各研究站点水汽通量结果与后向轨迹结果基本吻合，乌鲁木齐(图6a)夏季受西风水汽影响明显，祁连(图6b)夏季受西风水汽影响较大，受东南方向水汽影响较小，玛多（图6c)夏季受西风水汽、孟加拉湾水汽以及东南方向水汽影响。长沙（图6d)夏季水汽主要来源于西太平洋地区，其次是印度洋。广州(图6e)夏季水汽主要来源于印度洋，其次是西太平洋地区。
+
+# 4结论
+
+本文通过对中国5个代表站点对应年份夏季的降水水汽来源进行分析，并结合对应年份夏季研究区及其周边地区相应气压高度层水汽通量分析得出以下结论：
+
+（1）乌鲁木齐、祁连和玛多夏季降水受西风水汽影响显著，其中乌鲁木齐还受微弱的北冰洋水汽的影响，祁连还受西太平洋水汽以及北冰洋水汽的影响，玛多还受孟加拉湾水汽以及西太平洋水汽的影响。长沙夏季降水受西太平洋水汽影响较大，印度洋影响次之。此外还受北方大陆性水汽的影响。广州夏季降水受印度洋水汽影响较大，其次是西太平洋水汽。
+
+![](images/71a3b733e8b45a5afc539c4c3d5a84638926e17ebefdb73c2c404dbd0ab68e28.jpg)  
+图6研究站点及其周边地区夏季水汽通量 $( \mathbf { k g } \cdot \mathbf { m } ^ { - 1 } \cdot \mathbf { s } ^ { - 1 }$ ）  
+Fig.6Water vapor flux of sampling sites and surrounding areas in summer( $\mathrm { k g } \cdot \mathrm { m } - 1 \cdot \mathrm { s } - 1$ ）
+
+（2）在中国西部区域，影响夏季降水的循环水汽除分布在一些相对湿度较大的山区和盆地（天山山区一乌鲁木齐、祁连山区一祁连、青藏高原东南部一玛多、四川盆地一祁连和玛多)外，还有一些蒸发量较大的地区（新疆东部和河西走廊一祁连）。而在东部，影响夏季降水的循环水汽主要分布在一些地表水体集中的地方（湖南北部和湖北东部一长沙）、（广东中东部一长沙、广州），此外，中南半岛的循环水汽对东部降水也会产生影响。
+
+（3）在中国西部地区，水汽运移过程中，除受地表蒸发影响外，可能还会受到高山、高原等高大地形的抬升冷凝降水，从而影响水汽中 $d$ 值的大小。而在东部区域水汽运移过程中，下垫面多是洋面、平原和丘陵等低海拔区域，起伏小，所以，水汽 $d$ 值一般
+
+# 只受地表蒸发影响。
+
+# 奓考乂啊（neierences）：
+
+[1]Tian L,Yao T,MacClune K,et al.Stable isotopic variations in west China:A consideration of moisture sources[J].Journal of Geophysical Research:Atmospheres,2007,112（D10).   
+[2]Sjostrom D J,Welker JM.The influence of air mass source on the seasonal isotopic composition of precipitation,eastern USA[J]. Journal of Geochemical Exploration,2009,102(3）:103 -112.   
+[3]江志红,任伟,刘征宇,等.基于拉格朗日方法的江淮梅雨水汽 输送特征分析[J].气象学报,2013,71（2）:295-304.[Jiang Zhihong,Ren Wei,Liu Zhengyu,etal.Analysis of watervapor transport characteristics during the Meiyu over the Yangtze - Huaihe River vallyusing the Lagrangian method[J].Acta Meteor Sinica,2013,71(2):295-304.]   
+[4]杜亮亮,李江萍,陈晓燕,等.2001-2011 年青藏高原东北边坡 地带云水资源分析[J].干旱区研究,2012,29(5）:862-869. [DuLiangliang,Li Jiangping,ChenXiaoyan,et al.Analysison Cloud and Vapor Flux in the Northeast of the Qinghai - Tibet Plateau during the Period from 200l to 2011[J].Arid Zone Research, 2012,29(5) :862 -869.]   
+[5]肖红伟,肖化云,王燕丽.贵阳大气降水化学特征及来源分析 [J].中国环境科学,2010,30(12）:1590-1596.[Xiao Hongwei,Xiao Huayun,WangYanli.Chemical characteristics and source apportionment of precipitation in Guiyang[J]. China Environmental Science,2010,30(12）:1 590 -1 596.]   
+[6]陈斌,徐祥德,施晓晖.拉格朗日方法诊断 2007年7月中国东 部系列极端降水的水汽输送路径及其可能蒸发源区[J].气象 学报,2011,69(5）:810-818.[Chen Bin,Xu Xiangde,Shi Xiaohui.Estimating the water vapor transport pathways and associated sources of water vapor for the extreme rainfall event over east of China in july 2OO7 using the Lagrangian method[J].Acta Meteorologica Sinica,2011,69(5）:810 -818.]   
+[7]权晨,陈斌,赵天良,等.拉格朗日水汽源诊断方法在三江源区 的应用[J].应用气象学报,2016,27（6）:688-697.[Quan Chen,Chen Bin,Zhao Tianliang,et al.Application of lagrange water vapor source diagnosis method to the Three- river Source Area [J].Journal of Applied Meteorological Science,2016,27(6）:688 -697.]   
+[8]章新平,刘晶淼,田立德,等.亚洲降水中 $\mathfrak { \delta } ^ { 1 8 } 0$ 沿不同水汽输 送路径的变化[J].地理学报,2004,59（5）:699-708.[Zhang Xinping,Liu Jingmiao,Tian Lide,et al.Variations of $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ in precipitation along vapor transport paths over Asia[J].Acta Geographica Sinica,2004,59(5）:699-708.]   
+[9]Yao T,Masson - Delmote V,Gao J,et al.A review of climatic controls on $\boldsymbol { \mathfrak { F } } ^ { 1 8 } \mathrm { O }$ in precipitation over the Tibetan Plateau: Observations and simulations[J].Reviews of Geophysics,2013,51（4）: 525 -548.   
+[10」章新平,刘晶淼,谢自楚.我国西南地区降水中过量气指示水 汽来源[J].冰川冻土,2009,31(4）:613-619.[Zhang Xin
+
+ping,Liu Jingmiao,Xie Zichu.Vapor origins revealedby Deuterium Excess in precipitation in Southwest China[J].Journal of Glaciology and Geocryology,2009,31(4）:613-619.]
+
+[11]李文宝，李畅游，贾德彬，等.内蒙古中部夏季大气降水中同位素变化[J].干旱区研究，2017，34(6)：1214-1221.［LiWenbao,Li Changyou,Jia Debin,et al.Change of stable isotopes insummer precipitation in central Inner Mongolia[J].Arid Zone Re-search,2017,34(6):1 214-1221.]
+
+[12]Stohl A,James P.A Lagrangian analysis of the atmospheric branch of the global water cycle.Part I; Method description,validation,and demonstration for the August 2Oo2 flooding in central Europe[J]. Journal of Hydrometeorology,2004,5(4）:656 -678.   
+[13]Begum BA,Kim E,Jeong C H,et al.Evaluation of the potential source contribution function using the 2OO2 Quebec forest fire episode[J].Atmospheric Environment,2005,39（20）:3719 -3 724.   
+[14］王爱平,朱彬,银燕,等.黄山顶夏季气溶胶数浓度特征及其输 送潜在源区[J].中国环境科学,2014,34（4）：852 －861. [Wang Aiping,Zhu Bin,Yin Yan,et al.Aerosol number concentration properties and potential sources areas transporting to the top of mountain Huangshan in summer[J].China Environmental Science,2014,34(4) :852-861.]   
+[15］任传斌,吴立新,张媛媛,等.北京城区PM2.5 输送途径与潜在 源区贡献的四季差异分析[J].中国环境科学,2016,36（9）：2 591-2 598.[Ren Chuanbin,Wu Lixin,Zhang Yuanyuan,et al. Analyze to the seasonal differences of transport pathways and potential source－ zones of Beijing Urban PM2.5[J].China Environmental Science,2016,36(9):2591-2598.]   
+[16]肖红伟,肖化云,张忠义,等.西沙永兴岛大气降水化学特征及 来源分析[J].中国环境科学,2016,36（11):3 237-3 244. [Xiao Hongwei, Xiao Huayun,Zhang Zhongyi,et al.Chemical characteristics and source apportionment of atmospheric precipitation in Yongxing Island[J]. China Environmental Science,2016,36 (11):3 237 -3 244.]   
+[17]Salamalikis V,Argiriou A A,Dotsika E.Stable isotopic composition of atmospheric water vapor in Patras,Greece；A concentration weighted trajectory approach[J].Atmospheric Research,2015, 152:93 -104.   
+[18]Pang Z,Kong Y,Froehlich K,et al.Processes affecting isotopes in precipitation of an arid region[J].Tellus B,2011,63（3）:352- 359.   
+[19]Zhao L J,Yin L,Xiao HL,et al.Isotopic evidence for the moisture origin and composition of surface runoff in the headwaters of the Heihe River basin[J]. Chinese Science Buletin,2011,56（4）: 406-415.   
+[20]Ren W,Yao T,Yang X,et al.Implications of variations in $\ S ^ { 1 8 } \mathrm { O }$ and &D in precipitation at Madoi in the eastern Tibetan Plateau [J].Quaternary International,2013,313:56 -61.   
+[21]Wu H,Zhang X,Xiaoyan L,et al.Seasonal variations of deuterium and oxygen -18 isotopes and their response to moisture source for precipitation events in the subtropical monsoon region[J].Hydrological Processes,2015,29(1）:90-102.   
+[22] Xie L,Wei G,Deng W,et al. Daily $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ and δD of precipitations from 2007 to 2O09 in Guangzhou,South China:implications for changes of moisture sources[J]. Journal of Hydrology,2011,400 (3) :477 -489.   
+[23]Clark ID,Fritz P.Environmental isotopes in hydrogeology〔M]. Boca Raton : CRC press ,1997.   
+[24]Kendall C,Caldwell E A.Fundamentals of isotope geochemistry [J].Isotope tracers in Catchment Hydrology,1998:51-86.   
+[25]Peng T R,Liu K K,Wang C H,et al. A water isotope approach to assessing moisture recycling in the island- based precipitation of Taiwan:A case study in the western Pacific[J]. Water Resources Research,2011,47(8).   
+[26]Friedman I,ONeil JR.Data of geochemistry:Compilation of stable isotope fractionation factors of geochemical interest[M].Washington: US Government Printing Office,1977.   
+[27]Criss RE.Principles of stable isotope distribution[M].New York : Oxford University Press,1999.   
+[28]Wang YQ,Zhang X Y,Draxler RR. TrajStat:GIS -based software that uses various trajectory statistical analysis methods to identify potential sources from long- term air pollution measurement data [J].Environmental Modelling & Software,2009,24（8）: 938- 939.   
+[29]Draxler R R,HessG D.An overview of the HYSPLIT_4 modelling system for trajectories[J].Australian meteorological magazine, 1998,47(4) :295 -308.   
+[30]Hsu Y K,Holsen TM,Hopke P K.Comparison of hybrid receptor models to locate PCB sources in Chicago[J].Atmospheric Environment,2003,37(4) :545-562.   
+[31]Zeng Y,Hopke P K.A study of the sources of acid precipitation in Ontario,Canada[J].Atmospheric Environment,1989,23（7）:1 499 -1 509.   
+[32]Polissar A V,Hopke P K,Paatero P,et al.The aerosol at Barrow, Alaska:long - term trends and source locations[J]. Atmospheric Environment,1999,33(16):2 441-2 458.   
+[33］张磊,金莲姬,朱彬,等.2011年6—8月平流输送对黄山顶污 染物浓度的影响[J].中国环境科学,2013,33(6）：969-978 [Zhang Lei,Jin Lianji,Zhu Bin,et al.The influence of advective transport on the concentrations of pollutants at the top of mountain Huangshan from June to August,2O11[J].China Environmental Science,2013,33(6):969-978.]   
+[34]任国玉,袁玉江,柳艳菊,等.我国西北干燥区降水变化规律 [J].干旱区研究,2016,33（1）:1-19.[RenGuoyu,Yuan Yujiang,Liu Yanju,etal. Changes in Precipitation over Northwest China[J].Arid Zone Research,2016,33(1):1-19.]   
+[35］姚俊强,杨青,伍立坤,等.天山地区水汽再循环量化研究[J]. 沙漠与绿洲气象,2016,10（5）:37-43.[Yao Junqiang,Yang Qing,Wu Likun,et al. Quantifying Recycled Moisture Fraction in Precipitation of Tianshan Mountains[J].Desert and Oasis Meteorology,2016,10(5) :37 -43.]   
+[36]Wang S,Zhang M,Che Y,et al. Contribution of recycled moisture to precipitationinoasesof aridcentralAsia:Astableisotope approach[J]. Water Resources Research,2016,52(4）:3 246 - 3 257.   
+[37]Yao TD,Zhou H,Yang X X. Indian monsoon influences altitude effect of $\mathfrak { F } ^ { 1 8 } \mathrm { O }$ in precipitation/river water onthe Tibetan Plateau [J].Chinese Science Bulletin,2009,54(16）:2 724-2 731.   
+[38]Ding YJ,Ye B S,Zhou W J. Temporal and spatial precipitation distribution in the Heihe catchment,northwest China,during the past 40 a[J]. Journal of Glaciologyand Geocryology,1999,21:42 （204号 $^ { - 4 8 }$ .   
+[39］张强,张杰,孙国武,等.祁连山山区空中水汽分布特征研究 [J].气象学报,2007,65（4）:633-643.[Zhang Qiang,Zhang Jie,Sun Guowu,et al. Research onatmospheric water-vapor distribution over Qilianshan Mountains[J].Acta Meteorologica Sinica,2007,65(4) :633 -643.]   
+[40]靳立亚,李静,王新,等.近50 年来中国西北地区干湿状况时 空分布[J].地理学报,2004,59(6）:847-854.[Jin Liya,Li Jing,Wang Xin,et al.The temporal and spatial distribution of surface dry- wet conditions over Northwestern China in recent 50 years[J].Acta Geographica Sinica,2004,59(6）:847 -854.]   
+[41］陈少勇,董安祥.青藏高原总云量的气候变化及其稳定性[J]. 干旱区研究,2006,23（2）:327－333.[Chen Shaoyong,Dong Anxiang.Climatic change and stability of total cloud amount over the Qinghai- Tibetan Plateau.[J].Arid Zone Research,2006,23 (2):327 -333.]   
+[42]张强,孙昭萱,陈丽华,等.祁连山空中云水资源开发利用研究 综述[J].干旱区地理,2009,32（3）:381-390.[Zhang Qiang, Sun Zhaoxuan,Chen Lihua,et al. Research on atmospheric water - vapor distribution over Qilianshan mountains[J].Arid Land Geography,2009,32（3）:381-390.]   
+[43」蔡英,钱正安,吴统文,等.青藏高原及周围地区大气可降水量 的分布,变化与各地多变的降水气候[J].高原气象,2004,23 (1):1-10.[Cai Ying,Qian Zheng'an,Wu Tongwen,et al. Distribution,changes of atmospheric precipitable water over Qinghai - Xizang Plateau and its surroundings and their changeable precipitation Climate[J].Plateau Meteorology,2004,23（1）:110.]   
+[44]Tian L,Yao T,Sun W,et al.Relationship between δD and $\mathfrak { F } ^ { 1 8 } \mathrm { O }$ in precipitation on north and south of the Tibetan Plateau and moisture recycling[J]. Science China Earth Sciences,2001,44（9）: 789 - 796.   
+[45]张良,张强,冯建英,等.祁连山地区大气水循环研究(II)[J]. 冰川冻土,2014,36（5）:1092-1100.[Zhang Liang,Zhang Qiang,Feng Jianying,et al.A study of atmospheric water cycle over the Qilia Mountains[J].JounalofGlaciologyandGeocryology， 2014,36(5) :1092 -1 100.]   
+[46］王霄,巩远发,岑思弦.夏半年青藏高原"湿池"的水汽分布及 水汽输送特征[J].地理学报,2009,64（5）:601-608.[Wang Xiao,Gong Yuanfa,Cen Sixian.Characteristics of the Moist Pool and Its Moisture Transports over Qinghai - Xizang Plateau in Summer Half Year[J].Acta Geographica Sinica,2009,64（5）:601 - 608.]
+
+[47]任朝霞，杨达源.近50年西北干旱区气候变化趋势研究[J].第四纪研究,2006,26（2）:299－300.［Ren Zhaoxia，YangDayuan.Research on tendency characteritics of climate changes in
+
+Northwest China since recent 5O years[J]. Quaternary Sciences, 2006,26(2):299 -300.]
+
+# Application of CWT Method in Identifying Water Vapor Sources of Summer Precipitation in China
+
+MENG Hong - fei,ZHANG Ming - jun,WANG Sheng- jie,QIU Xue,DU Ming - xia,MA Rong (College ofGeographyandEnvironmentScience,NorthwestNormal University,Gansu Lanzhou73oo7o,China)
+
+Abstract：The water vapor sources of summer precipitation in western China(Urumqi,Qilian and Madoi）and eastern China(Changsha and Guangzhou） were analyzed by the backward trajectory calculation module and concentration weighted trajectory（CWT）of TrajStat software,and combined with water vapor flux.Theresults showed; $\textcircled{1}$ The summer precipitation in Urumqi,Qilianand Madoi were significantly afected bythe westerly water vapor,Changsha were affcted significantly by the Western Pacific water vapor,Guangzhou were afected significantly bythe India ocean vapor. $\textcircled{2}$ There existed local recycled water vapor participated in summer precipitation in 5 sampling sites.The recycled water vapor influenced summer precipitation in western China mainly distributed in mountainous area and basin which had larger relative humidityand those area which had bigger evaporation capacity.But in eastern area,the recycled water vapor influenced summer precipitation mainly distributed in places which had concentrated surface water bodies. $\textcircled{3} \mathrm { I n }$ western area,the change of d in air mass water vapor was influenced by evaporated water vapor andthe condition of underlying surface due to the underlying surface was greatly changed inthe process of water vapor movement,in eastern area,the change of d in air mass water vapor was generally influenced by evaporated water vapor due to the underlying surface was changed rarely.
+
+Key words:summer precipitation； backward trajectory；CWT；water vapor source

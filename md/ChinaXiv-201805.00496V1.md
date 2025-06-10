@@ -1,0 +1,165 @@
+# DOI:10.5846/stxb201704240738
+
+赵琪琪,李晶,刘婧雅,秦克玉,田涛.基于 SolVES 模型的关中-天水经济区生态系统文化服务评估.生态学报,2018,38（10):3673-3681.ZhaQQ,LiJinaesdalsofocialuesofuralosssseeelGuanzhong-Tianshui Economic Region.Acta Ecologica Sinica,2018,38(10）:3673-3681.
+
+# 基于SoIVES模型的关中-天水经济区生态系统文化服务评估
+
+赵琪琪1²，李 晶1,2,\*，刘婧雅1,2，秦克玉1,2,3，田涛1,2
+
+1陕西师范大学地理科学与旅游学院，西安710119  
+2陕西师范大学，地理学国家级实验教学示范中心，西安710119  
+3中国科学院海洋研究所海洋地质与环境重点实验室，青岛266071
+
+摘要：随着人类对于生态系统服务的需求持续增加,生态系统服务的评估逐渐成为研究热点。其中文化服务因其自身的无形性常在研究中被忽视且难以衡量。选取关中-天水经济区为研究区域,应用 SolVES 模型并生成5种价值指数地图和价值总和地图来评估该区域生态系统的文化服务。结果表明：审美价值在秦岭山脉和城市公园等区域较高;娱乐价值在娱乐机会较多、交通便利的城市和秦岭北麓区域更高;文化与历史价值集中在历史文化底蕴深厚的城市地区;精神价值在与城市距离较近、有山川分布的森林公园更高。SoIVES模型在大范围区域的应用取得了较好的效果同时为政府进行生态建设和规划提供了科学依据。
+
+关键词：SolVES模型;生态系统服务；文化服务；关中-天水经济区；空间分析
+
+# Assessment and analysis of social values of cultural ecosystem services based on the SolVES model in the Guanzhong-Tianshui Economic Region
+
+ZHAO Qiqi1,²， LI Jing1,2,\*，LIU Jingya'²，QIN Keyu1,2.3， TIAN Ta01,2   
+1 School of Geography and Tourism， Shaanxi Normal University， Xi'an 710119,China   
+2 National Demonstration CenterforExperimental GeographyEducation,Shaanxi NormalUniversity，Xi'an71O119,China   
+3KeyLaboratoryofMarineGeologyand Environment，InstituteofOceanolog，Chinese AcademyofSiences，Qingdao 266，China
+
+Abstract:With continuous development of societies，thedemand forecosystem services has continued to increase inrecent years.The assessments of ecosystem services have become research hotspots.Among them，cultural ecosystem services are oftenneglectedandaredificult tomeasureandevaluatebecauseoftheirinvisibility.Inthisstudy,theGuanzhong-Tianshui Economic Region was selected as the research area.The SolVES model was used to generate five value index maps，and he sum of thesevalue index maps was used to asessthe cultural ecosystem services in this region.Based on the geographic informationsystem （GIS）tol，the Social Values for Ecosystem Services （SolVES）model was developed to incorporate quantifiedand spatially explicit measures ofsocial values into ecosystemservice assessment.SolVES3.0continues to extend the functionality of SolVES，which was designed toassess，map，and quantifythe social values of ecosystem services. SolVES 3.O provides an improved public-omain tool fordecision makersandresearchers toevaluate ecosystem services and tofacilitate discusionsamongdiversestakeholdersregardingthetradeofsamong ecosystemservices inavarietyofphysical and socialcontextsranging from forestandrangelandto coastal and marineecosystems.Theinputdataofthe model are divided into two parts.One partis social surveydata basedonquestionnaires，andtheother part isenvironmental index data.Theresults showedthatthe aesthetic value was higherin the Qinling Mountains and urban parks.Therecreation value washigher in citiesand thenorthernpartofthe Qinling Mountains with morerecreationalopportunitiesand convenient transportation.Theculturalandhistoricalvalues wereconcentrated inurbanareaswith profound historicalandcultural connotations.Thespiritual value was higherin forest parks，whicharecloser tothe cityand mountains.Applicationof the SolVES model in large scaleareas has been effective.It provides ascientific basis for thegovernment's ecological construction and planing.After benefiting from thevalueof cultural ecosystem services，the government can plan for rational allcationofresourcesanddeterminationof priorityprotectedareasat the temporalandspatial scales.Atthesame time,itcanovercomelimitationsatallevelsandcorrectlyhandletherelationshipbetweensocial economicdevelopmentand the protectionof the ecological environment,toachieveacoordinatedandunified developmentof theeconomy，society，and ecology.Finally，the studyalso discussed thesensitivityof the model to largescale application.Thesefindings can contribute to the improvementof ecosystem services assessmentand the improvement and localization of the SolVES model.
+
+Key Words: SolVES model；ecosystem services；cultural service；Guanzhong-Tianshui Economie Region；spatial analysis
+
+生态系统服务这一概念在20世纪70年代初被提出后逐步受到人们的承认和普遍使用。过去的 30 年中,对于生态系统服务的讨论成为了一项热门话题[1]。此后,各国学者都做了大量研究,例如对生态系统服务的分类和含义进行阐述以及人类活动影响的分析[2-3]。研究了气候变化、土地利用政策等对生态系统的影响[4-6]。并对全球生态系统服务的经济价值进行了评估[7]。生态系统服务主要包括供给服务、调节服务、文化服务以及支持服务。文化服务是指人们通过精神丰富、认知提高、思想启发、娱乐和审美等体验从生态系统中获得的服务[8]。研究生态系统文化服务,便于人们更加全面地了解生态系统,使政府决策时不仅能够考虑到自然的生态价值,更能够考虑到社会的文化价值[9]。从而有利于地区资源的开发和保护,亦为文化服务功能的持续管理和科学决策提供相关保障[10]。前人的研究主要集中于人类活动对于生态系统服务的影响和采用货币化的形式来衡量其价值。而文化服务因其自身的无形性、主观性特征,在过往的研究中经常被忽视和回避且难以量化和评估。目前国内对于生态系统文化服务的研究特别是大范围区域的研究更是少之又少。近年来,国外学者纷纷尝试对生态系统文化服务进行评估。例如使用PPGIS 方法来识别生态系统的文化服务[11]。使用结合基于问卷和生态物理模型的方法进行评估分析[12]。或利用调查问卷结合相关环境背景,运行 SolVES 模型和其他模型对比进行文化服务的评估[13-16]。国外的研究大多集中于森林公园等较小区域。而对于大范围区域的评估则十分少见,且对于模型应用的敏感性较少进行讨论。
+
+本文依据关中-天水经济区的自身特征选取了与文化服务相对应的多种指标,运用 SolVES 模型进行量化评估,生成了5种价值指数地图和价值总和地图。模型在大范围区域的应用取得了较好的效果。为政府对该地区文化服务资源的持续管理和保护提供了支持与建议,同时对模型在大范围区域的敏感性进行了探讨。
+
+# 1数据与方法
+
+# 1.1研究区概况
+
+关中-天水经济区(图1)是《西部大开发“十一五"规划》中提出的重点发展经济区,地跨陕西、甘肃两省。研究区域面积广阔,地形地貌丰富多样,河流众多。其主体部分为关中平原,西部包括甘肃天水渭河谷地,北部有黄土丘陵、南部为秦岭山脉;自然、旅游资源丰富,并拥有以十三朝古都西安等为代表的悠久深厚的历史文化资源,未来发展拥有巨大潜力。
+
+# 1.2 研究方法
+
+# 1.2.1 SolVES模型
+
+SolVES(Social Values for Ecosystem Services)模型是由美国地质调查局地球科学和环境变化中心与美国科罗拉多州立大学联合开发的一款地理信息系统应用程序。本文研究使用的为 SolVES3.0版本。SolVES3.0由3个子模块组成,包括生态系统服务功能社会价值模块、价值制图模块和价值转换制图模块[17]。每个子模块具有自身特定的功能,且同时能够关联其他子模块以及脚本数据完成附加计算,运用价值转换的方法,连同最大熵模型（图2)最终输出价值指数地图（VI地图）。
+
+![](images/87b6d231bb7e875173a9a52e3f9827f810eaa5ce89329dc4ee7ded92916ef6b2.jpg)  
+Fig.1 Location of Guanzhong-Tianshui Economic Region
+
+![](images/9d894924c81c0966dc3660a8522a8fa96715eecef28cabe1c17d862887e6c672.jpg)  
+图1关中-天水经济区位置图  
+图2最大熵模型分析过程  
+Fig.2Maxent maximum entropy model analyze process flow
+
+# 1.2.2 最大熵模型
+
+最大熵模型最初被用于拟合物种的地理分布,基于所观察物种的点数据根据相似的环境变量、环境指数等在缺少点数据的区域运用价值转化法生成新的点,输出逻辑曲面。逻辑曲面中每一个栅格单元都有一个0—1的值,代表着该环境下某一物种生存的可能性。最大熵模型利用价值转换方法,基于 SoIVES 的输出结果根据数据库中的环境指数数据,将已知点要素的价值类型值转化到缺少点数据的区域,实现将数值从已知点的区域转化到未知数据的区域，从而实现预测和评估。
+
+SolVES3.0提供了一个相对完善的评估工具,有利于对不同自然、人文环境的生态系统服务进行讨论。本文以在关中-天水经济区获取的社会调查数据以及相关自然环境指数数据为基础,生成该地区的VI地图。
+
+# 1.3 数据来源
+
+# 1.3.1 社会调查数据
+
+本文通过发放调查问卷于2014 年和 2015年7月在关中-天水经济区内获取社会调查数据,共发放 1200份调查问卷,有效回收985份，问卷有效率为 $8 2 . 0 8 \%$ 。调查内容分为四个部分。第一部分：调查对象的社会背景信息;第二部分：影响问卷有效性信息;第三部分：态度与喜好信息;第四部分：价值指数（Value Index）信息,即获取调查对象对此区域内生态系统文化服务指标所打分数。表1说明了12种不同价值类型[18]的分类及其内涵。本文在经过实地考察和调研后,根据研究区的自然环境和历史文化环境,选取了价值类型中的审美、文化、历史、娱乐、精神这5种指标进行研究。 C/5
+
+表112种价值类型描述  
+Table 1The Description of 12 value types   
+
+<html><body><table><tr><td>社会价值类型 Social value type</td><td>价值描述 Social value description</td></tr><tr><td>审美价值Aesthetic *</td><td>人们享有生态系统所提供的风光旖旎、山清水秀的迷人景色等</td></tr><tr><td>生物多样性 Biodiversity</td><td>人们享有生态系统所提供的鸟兽虫鱼和花草树木等多种多样生物资源</td></tr><tr><td>文化价值Cultural *</td><td>文化底蕴与文化氛围浓厚,人们所进行的文化活动丰富多样</td></tr><tr><td>经济价值Economic</td><td>生态系统所提供的人类发展农业(木材、渔业资源等）、工业(矿产等)以及旅游业的机会</td></tr><tr><td>未来价值Future</td><td>未来的人们依旧可以享有生态系统现在所提供给人类的一切价值</td></tr><tr><td>历史价值Historical *</td><td>生态系统所记录的种种历史事件，保留的民风民俗，历史传统等</td></tr><tr><td>内在价值Intrinsic</td><td>生态系统自身的、内在的价值,与人类存在与否无关</td></tr><tr><td>学习价值 Learning</td><td>生态系统所提供的人类基于科学的观测和实践等实现对自然环境的认知的机会</td></tr><tr><td>生命维持 Life sustaining</td><td>生态系统有助于产生、存留生命所需要的物质,以及具有净化空气、土壤和水体的能力</td></tr><tr><td>娱乐价值 Recreation *</td><td>生态系统所提供人类进行各种户外休闲娱乐活动的场所和机会</td></tr><tr><td>精神价值 Spiritual *</td><td>生态系统使人的内在外在得到净化，陶冶情操</td></tr><tr><td>疗养价值 Therapeutic</td><td>生态系统使人在精神上和身体上均感到治愈和疗养</td></tr></table></body></html>
+
+标注 $^ *$ 的价值类型在本文中用以研究关中-天水经济区的生态系统文化服务
+
+# 1.3.2 环境指数数据
+
+SolVES 模型需要载入多个用于描述研究区自然环境信息的环境指数数据如图3,分别为：海拔高度数据（elevation,ELEV）;坡度数据（slope,SLOPE）；山体阴影数据（hillshade,HILLSHADE）距道路距离数据（distanceto roads,DTR）;距水体距离数据（distance to water,DTW）；以及土地利用类型数据（the landuse/landcover,LULC）。以上各环境指数数据的空间分辨率均为 $3 0 \mathrm { ~ m ~ }$ 。
+
+利用 SoIVES3.0生成五种VI地图后,对审美、文化、历史、娱乐、精神五种文化服务指标,通过网络向熟悉了解关天地区的高校学者和有关民俗文化学者发送邮件,请他们对选取指标的重要性以十分制(1—10分)进行打分,然后使用Delphi分析法对专家（5位)的反馈信息进行分析,得到相应权重并生成最终的总和 VI地图。
+
+# 2结果与分析
+
+# 2.1文化服务分布结果
+
+SolVES 模型生成的VI地图为每一类文化服务指标的价值指数提供了地理化和统计化显示。根据图4,可以看出审美价值较高区域主要在秦岭山脉形成热点,同时在城市边缘区域有零散的高值点。关中-天水经济区的整个关中平原部分文化价值比较高,热点区域主要在西安、宝鸡、天水等核心城市;同时也有许多零散的高值点,主要分布在区县、村落等地区。历史高价值与文化高价值区域分布相似,主要集中在西安、宝鸡等核心城市;不同的是历史指标在其他地方均显示出较低价值。娱乐价值较高的区域分布广泛,城市地区、秦岭山脉与关中平原交界处(秦岭山脉北麗)形成娱乐活动的热点地区。精神价值主要集中在秦岭北侧大致沿着秦岭山脉与关中平原的分界线分布,并形成一些热点。总和VI地图综合了这五种指标,在西安等主要的城市地区形成热点,地势相对平坦的地区其综合价值较高。
+
+![](images/351518367361b5d880ace63a472b505562e463e83da6094807b488201a2ea777.jpg)  
+图3环境指数数据图层  
+Fig.3The environmental data layers
+
+# 2.2文化服务分布特征分析
+
+审美价值在秦岭山脉上的热点区域与人们熟知的众多风景区如骊山、翠华山等位置相似;在城区内零散的高值点则多靠近植被覆盖较多的公园。结合以上分析可知人们对于植被覆盖更好的地区能够获得更多的审美价值。
+
+文化价值的热点区域与具备深厚的文化积淀,拥有大量历史文化遗产和人文资源的城市区域契合。十三朝古都西安,宝鸡、天水等均有着深厚的特色文化从而形成了文化热点区域;在区县、村落、古代陵墓遗址以及寺庙等地区也有离散的高值点。再者,由于平原地带更有利于文化活动以及文化传承,相比之下高海拔地区文化价值较低,更低海拔、坡度更小的平原地区形成高值区;其他少数零散的高值点,则与分散于高山的寺庙等名胜古迹有关。历史价值与文化价值相似，主要集中在历史深厚的城市地区。
+
+被大量的娱乐机会环绕的地区则是娱乐价值较高的区域,如城市里具有大量公园以及娱乐场所和设施，使得人们可以频繁地进行娱乐活动;秦岭山脉北麗则是人们选择进行娱乐活动的理想场所,既可以方便地到达城市中心,又能近距离地与大自然接触,由此带动起来以娱乐为目的的相关产业的发展,如秦岭欢乐世界游乐场;此外出现的零散高值点,这可能与个别人群的爱好有关,比如高山攀岩、丛林冒险等。较高的精神价值分布于有着山川的森林公园地区,植被覆盖度高，能够欣赏美景、从而缓解精神压力,是身心得到休养的绝佳地带。
+
+http://www.ecologica.cn
+
+![](images/a4f1224472291341e6e7133cc072a20dfcbf420d2b8ceca14338508a8b555789.jpg)  
+图4社会价值VI地图  
+Fig.4The mapping social value index
+
+综合了审美、文化、历史、娱乐、精神五种文化服务指标的总和VI地图,表现出在地势平坦,城市集中地区展现的价值较高，而地势高,坡度陡,人类日常活动较少的区域则价值较低。
+
+政府在制定相应的保护管理政策时,可以优先考虑价值指数较高的区域,对热点区域给予更多的重视和保护。在制定相应的开发管理政策时,则是可以对价值指数较低的区域进行优先开发,从而促进相应区域的发展。在得到生态系统文化服务价值后,政府能够科学合理地进行相应的生态规划,在时间尺度和空间尺度上实现资源的合理分配和优先保护区的确定。为生态功能区的划分和生态建设规划提供科学的依据。同时也可以使各级政府克服认识上的局限性,正确处理社会经济发展与生态环境保护之间的关系,做到经济、社会、生态协调统一发展[19]。
+
+# 3讨论
+
+# 3.1环境指数的不确定性
+
+前文分析中发现五种指标与土地利用类型(LULC)这项环境指数关系密切,价值指数的热点区域分布均与城市、植被等有紧密联系。因此,本文继续探究除土地利用类型外其他环境指数对于模型运行的影响。运行模型并生成新的VI地图。
+
+由图5可见,在不使用LULC这一环境指数后,5种文化服务指标的价值指数的高值和低值增加都很明显且分布区域扩大,分布相对集中。此外,城市地区无法形成热点区域,与植被覆盖相关性较大的审美和娱乐价值也无法在秦岭山脉附近形成高值区域。但是总体的分布趋势与之前相似。说明 SolVES 模型在运行过程中,土地利用这一环境因素对模型结果影响较大。
+
+http://www.ecologica.cn
+
+![](images/5c75789fd75cde471e35ff69c2d9affd1dadd16d635d7adab364c4be7742bca7.jpg)  
+图5新生成的社会价值VI地图
+
+# 3.2环境指数对不同文化服务的影响
+
+对于不同的文化服务指标,对其产生主要影响的环境指数不尽相同,以审美、历史、文化价值为例的分析,见图6。 C
+
+![](images/4bb4d7f3db181fad3b2336dd6bb729d85254a561cdbd028c969e9356fad6a820.jpg)  
+Fig.5The new mapping social value index   
+图6新生成的社会价值VI地图与环境指数图层对比图
+
+Fig.6The new mapping social value index and environmental index layer contrast map
+
+在新生成的审美VI地图中,截取一部分进行放大,可以看出,高值区域与海拔高度较低区域相吻合在海拔较高的区域则价值指数较低。审美的价值分布受海拔高度影响较大。
+
+在新生成的文化VI地图中,高值区域与DTR 低值相吻合在距离道路越近的区域则价值指数越高。文化的价值分布受距离道路远近影响较大。
+
+在新生成的历史VI地图中,不难看出历史价值的分布同时受到DTR 和DTW 两者的影响。从而高值区域与距离道路越近的区域相吻合。在距离水体越远的区域则价值指数较低。
+
+不同的环境指数对于不同的文化服务指标有不同的影响,在缺失LULC这一环境指数时,模型精度会受到较大影响。应该根据不同的地区来选择更加适宜的环境指数。为了更加全面的反应出一个地区的真实情况,最好选择多一些的环境指数来估算一个地区的文化服务,才能使其更有代表性,精度更高。此外 SolVES模型在运算时对不同的景观类型采用相同的环境指数[20],这也使得结果具有误差。但是总体上,模型在关中-天水经济区的应用取得较好的效果。 CA5
+
+# 4结论
+
+生态系统文化服务的研究长期被忽视,近年来在国外才逐渐受到重视。本文尝试把主观的人文调查数据与客观的自然环境数据相结合,将公众层面的文化服务系统地参与到生态系统服务研究中[21-22]。通过该模型在关中-天水经济区的实践研究和结果分析,初步评估了该区域内五种生态系统文化服务指标的分布特点、分布原理以及对模型的敏感性进行探讨,证明该模型可以作为对生态系统服务进一步研究的科学手段,对生态系统文化服务的研究和科学管理提供了参考。 20
+
+# 参考文献（References）：
+
+[1] 李文华，张彪，谢高地.中国生态系统服务研究的回顾与展望.自然资源学报，2009,24（1)：1-10.  
+[2]DailyGC.Nature's Services:Societal Dependenceon Natural Ecosystems.Washington,D.C:Island Press，1997:1-10.  
+[3] Holdren JP,Ehrlich PR.Human population and the global environment.American Scientist，1974,62(3）：282-292.  
+[4] LiuJY,LiJGaoZY,angQiKYYangXcosysteservicessightsintoateresoucsaagetii;sefinCity.International Journal of Environmental Research and Public Health,2016,13(12）：1169.  
+[5]LiuJ,iJKZXsdodeasuTotal Environment，2017,586:522-526.  
+[6] QinKY,LiJYangXradfandsergogossteservicesintGanzogashooicgofinateaiolJournal of Environmental Research and Public Health,2015,12(11）：14094-14113.  
+[7] Costanza R,d'ArgeR,DeGroot,FarberS,GrasoM,HanonB,LimburgK,NeemS,O'eillRV,ParueloJ,RaskinRG,SutonP,VanDen Belt M.The valueof the world'secosystem servicesand natural capital.Ecological Economics，1998,25(1）：3-15.  
+[8] Millennium Ecosystem Assessment.Ecosystems and Human Well-Being:Synthesis.Washington: Island Press，2005.  
+[9] LabandDNedreofrstos：lualsprialstticusldo，2013, 35:39-44.  
+[10] 荣金凤，闵庆文，郑林.生态系统娱乐文化价值的评估研究——兼谈对我国贫困地区的意义.资源开发与市场，2006，22(4)：327-330.  
+[11 BrowG,PullD,userVHnmpicalaatioofsatialauetasferetodsfodentifingualossteseolicalIndicators,2016,69：1-11.  
+[12] BagstadKJ，ReedJM，SemmensDJ，SherouseBC，TroyA.Linkingbiophysicalmodelsandpublicpreferencesforcosystemserviceassessments：acase study for the Southern Rocky Mountains.Regional Environmental Change,2016,16(7）：2005-2018.  
+[13]SheroeBeJsJAGlatiofoesi，nndantfhlvuofoiApplied Geography，2011，31(2）：748-760.  
+[14]SerreBesleentJAnlcofocialuesfosteices（l）oheatialfrstsdand Wyoming.Ecological Indicators,2014,36：68-79.  
+[15]vapCKylGtGeagoetieosHinchinbrook Island National Park，Australia.Applied Geography，2012,35(1/2）：164-173.  
+[16]MkoJbaaliJKaoachtiofSoil and Water Research,2016,11(1)：44-52.  
+[17]SherruseBesDJSoiavueforcosstemsevicsersio.（SolSdoceationduseraalO-FileReport 2015-1008，Reston，Virginia:U.S. Geological Survey，2015.  
+[18]ClemenMSpatialyexplcitvaluesontheikedSnIsabelNationalForestsinolodoD]FrtCollns，Colorado：ColoadStateUniversity， 2006.  
+[19] 范晓赞，杨正勇，唐克勇，杨怀宇.农业生态系统文化服务的支付意愿与受偿意愿的差异性分析——以上海池塘养殖为例，中国生态农业学报，2012，20(11)：1546-1553.  
+[20] Nijkap,Gsoasiaiao.  
+[21] RedP，BrownG.Valuessuitabilityaalysis：ametodolofordentifingnditegratingpublicpreptiosofcosytemuesinforestplanning. Journal of Environmental Planning and Management，2Oo3，46(5）： 643-658.  
+22]BroGLalsftatsslualsaaaalinbiGIS and landscape character classification.Landscape and Urban Planning，2012,107(3）:317-331. 1
+
+![](images/2752396039dbce9e8ff3c30f9cbba8a4c9ebbbbe19b7abf575cf07692b8b72f7.jpg)

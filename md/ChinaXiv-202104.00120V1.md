@@ -1,0 +1,188 @@
+# 新疆塔城地区大-暴雪特征及其与大气环流和海温的关系
+
+高婧¹²，井立红¹，秦榕4，毛荣²，井立军²(1.中亚大气科学研究中心,新疆 乌鲁木齐830002；2.沙湾县气象局,新疆 沙湾832100;3.塔城地区气象局,新疆 塔城834700；4.新疆气象局信息中心,新疆 乌鲁木齐830002)
+
+摘要：利用1961—2018年新疆塔城地区气象观测站逐日观测数据、海表温度和环流指数数据,分析塔城地区大-暴雪时空分布及其与大气环流、海温之间的相互联系,结果表明：(1)塔城地区大-暴雪事件在空间分布上具有明显的分散性和局地性特征,塔额盆地发生频数最高，北部山地最少;近58a平均频数为1.44次· $\mathbf { a } ^ { - 1 }$ ,年均降雪量为17.9$\mathbf { m } \mathbf { m }$ ,且分别以0.16次 $\cdot ( 1 0 \mathrm { a } ) ^ { - 1 } . 2 . 3 5 \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 的速率不显著增加,其中 $4 2 . 9 \%$ 的站点表现为显著增加趋势;大-暴雪事件主要出现在11月、12月和3月，占总数的 $6 5 . 2 \%$ 。(2)塔城地区大-暴雪年频数与同期NAO/AO呈显著负相关（相关系数为 $- 0 . 3 5 / - 0 . 4 6 )$ ,与AAO、SOI相关不明显。(3）塔城地区大-暴雪年频数与同期海表温度指数(AMO、NTA、TSA、TNA、Nino3.4、Nino4)呈显著正相关,相关系数在 $0 . 2 7 \sim 0 . 4 5$ ;不同区域的月尺度海表温度对大-暴雪月频数的影响存在明显差异,前期SST的异常信号对大-暴雪事件的发生具有预示意义。（4）近58a大西洋海表温度呈显著升高趋势,有利于沿西风带向东输送的水汽含量增加，同时海温变化通过海气耦合作用影响和驱动中高纬度大气环流发生改变或异变,对其下游塔城地区大-暴雪事件产生重要影响。
+
+关键词：大-暴雪；时空分布特征；海表温度；大气环流指数；塔城地区
+
+暴雪天气是我国冬半年最主要的灾害性天气[],与其相伴随的寒潮、大风天气给农牧业生产、交通运输和人民生命财产带来重大损失。塔城地区是我国和新疆雪灾的高发区域之一[2-3]。雪灾的发生与强降雪密切相关，21世纪以来，塔城地区大-暴雪天气呈现多发重发趋势，影响范围扩大，程度加深，严重制约着畜牧业生产和社会经济的发展。
+
+很多学者针对大雪或暴雪天气的气候特征、水汽输送、环流型和动力机制等开展了有益的探索和研究。中国北方冬半年强降雪主要集中在西北和东北地区4；新疆地区、东北地区大-暴雪事件呈现增加趋势[1,5-7],近几年波动加剧,而西藏高原则表现出总体减少趋势[8]。暴雪的发生与充沛的水汽输送密不可分，北大西洋、巴伦支海是中国北方暴雪的水汽源地之一[9];地中海、里海、咸海的水汽通过大气环流的调整接力向新疆暴雪区输送[7]。更多的研究基于数值模拟或天气学方法阐释典型暴雪天气的热力动力场结构[10-16],侧重于从高低层急流耦合、中尺度环境、多普勒雷达特征来分析暴雪天气发展、加强的机制。在不同海域海表温度异常对降雪的影响方面,Smith等[17]、Mason等[18]研究发现EN-SO现象对于美洲冬季降雪的强弱有重要影响；李多等9发现北大西洋海温变暖是中国东部北方降雪显著增加的重要原因。目前对于塔城地区大-暴雪变化特征及其影响因子尚缺乏深人的研究，本文以降雪量超过 $9 . 0 \ \mathrm { m m }$ 为界定指标，分析塔城地区大-暴雪事件的时空分布特征，探讨海表温度和大气环流对大-暴雪事件的影响机制，对提高强降雪天气的可预报性和提升区域防灾减灾能力具有重要的现实意义。
+
+# 1研究区概况与方法
+
+# 1.1 研究区概况
+
+塔城地区位于新疆西北部，地理位置位于
+
+$8 2 ^ { \circ } 1 6 ^ { \prime } \sim 8 7 ^ { \circ } 2 1 ^ { \prime } \mathrm { E }$ ， $4 3 ^ { \circ } 2 5 ^ { \prime } \sim 4 7 ^ { \circ } 1 5 ^ { \prime } \mathrm { N } .$ ，属温带干旱和半干旱气候。塔城地区横距约 $3 9 4 \mathrm { k m }$ ，南北纵距约$4 3 7 \mathrm { k m }$ ，总面积为 $1 0 . 4 5 { \times } 1 0 ^ { 4 } \ \mathrm { k m } ^ { 2 }$ ,地形多具特色，地域性气候特征显著。依据地理地貌和气候特征将塔城地区覆盖的7个气象站点划分为塔额盆地、南部平原、北部山地3个区域(图1)。塔额盆地(塔城、额敏、裕民)三面环山，北部为塔尔巴哈台山，东部为乌尔嘎萨尔山，西南部为巴尔鲁克山;南部平原(乌苏、沙湾)地处天山北麓迎风坡地带;北部山地[和布克赛尔(简称和丰），托里位于山脉背风坡或山脉断缘地段，站点海拔高度分别为 $1 3 2 2 . 1 \mathrm { ~ m ~ }$ 和$1 0 9 4 . 2 \mathrm { m }$ 。
+
+![](images/dba9477b49f17bec8b4304657fd32680530a779e0f2e06f53ab585fac9f2cb0e.jpg)  
+Fig.1 Distribution of meteorological station in Tacheng Region
+
+# 1.2数据来源
+
+1961—2018年塔城地区7个地面气象观测站逐日降水、天气现象、积雪深度实测数据从新疆气象信息中心获取；1961—2018年逐月大西洋年代际振荡指数（AMO）、热带北大西洋海温指数（TNA）、热带南大西洋海温指数(TSA）北热带大西洋海温指数（NTA）加勒比地区海温指数(CAR）北大西洋涛动指数(NAO）、北极涛动指数（AO）、南极涛动指数（AAO，1979—2018年）、南方涛动指数(S0I)和Nino区海表温度指数来源于美国国家海洋和大气管理局（NOAA)地球系统研究室(https://www.esrl.noaa.gov);1961—2018年逐月大气环流指数来源于国家气候中心（http://cmdp.ncc-cma.net/cn）。
+
+# 1.3 研究方法
+
+从降雪量和积雪深度两个指标定义大-暴雪事件，根据《新疆降水量级标准》规定，以20：00UTC为日界，将 $2 4 \mathrm { h }$ 降雪量或者连续2日累计降雪量 ${ \geqslant } 9 . 1$ $\mathbf { m } \mathbf { m }$ 作为大-暴雪事件的筛选指标，同时对雨雪混合相态降水进行鉴别，地面积雪 ${ \mathrm { \gtrsim 1 ~ c m } }$ 或积雪有增加的降水列人大-暴雪事件的统计中。在统计过程中，规定塔城地区只要有一个站点达到大-暴雪事件标准，统计为1站次；年频数以当年10月至翌年4月为当年大-暴雪事件年度；大-暴雪强度定义为大-暴雪降雪量与频数的比值。
+
+1.3.1 气候倾向率大-暴雪频数、降雪量、强度等气候变量的长期变化趋势采用简单线性回归描述，计算公式如下：
+
+$$
+Y = a + b t
+$$
+
+式中： $Y$ 为变量， $\mathbf { \chi } _ { t }$ 为时间， $\mathbf { \alpha } _ { a }$ 为回归常数， $b$ 为线性趋势项， $b$ 符号的正负表示气候变量的升降， $b$ 值的大小反映了上升或下降幅度的大小。 $b \times 1 0$ 表示变量每 $1 0 \mathrm { a }$ 的气候倾向率。采用 $F$ 检验进行显著性水平检验，达到0.05作为通过检验的标准。
+
+1.3.2Pearson相关分析相关系数是用以反映变量之间相关关系密切程度的统计指标，一般用 $r$ 来表示。
+
+$$
+r _ { a b } = { \frac { \displaystyle \sum _ { i = 1 } ^ { n } ( a _ { i } - { \bar { a } } ) ( b _ { i } - { \bar { b } } ) } { \displaystyle \sqrt { \sum _ { i = 1 } ^ { n } ( a _ { i } - { \bar { a } } ) ^ { 2 } \sum _ { i = 1 } ^ { n } ( b _ { i } - { \bar { b } } ) ^ { 2 } } } }
+$$
+
+式中： $r _ { a b }$ 为相关系数， $\mathbf { \alpha } _ { a }$ 和 $b$ 为两个相关因子， $\bar { a }$ 和$\bar { b }$ 为历年平均值，相关系数采用 $T$ 检验进行显著性检验。
+
+# 2结果与分析
+
+# 2.1大-暴雪事件空间变化特征
+
+2.1.1 大-暴雪频数的空间分布 1961—2018年塔城地区年平均降水量为 $2 3 4 . 4 \ \mathrm { m m }$ ,降雪量占年总降水量的 $3 2 . 7 0 \%$ 。对塔城地区近58a大-暴雪出现频数、降雪量(大-暴雪降雪量以下简称降雪量)及强度进行统计，塔城地区共出现大-暴雪事件585站次，每年平均为10.09站次。图2表明，塔城地区大-暴雪年平均为1.44次，塔额盆地发生频数最高，在$2 . 0 2 \sim 2 . 9 0$ 次之间，占全地区总数的 $7 1 . 6 \%$ ,南部平原相对较少 ( $\displaystyle { 1 9 . 8 \% }$ ),北部山地最少 $( 8 . 6 \% )$ ；年平均降雪量为 $1 7 . 9 \ \mathrm { m m }$ ,其空间分布与发生频数基本一致，大值中心( $3 6 . 2 \mathrm { m m }$ )出现在塔城站，次大值出现在沙湾站( $1 6 . 6 ~ \mathrm { m m } \rangle$ ），最小值出现在和丰站(3.0$\mathbf { m m } .$ );大-暴雪强度以和丰站最小，为 $9 . 7 9 \mathrm { m m }$ 次-1，其余站 $1 2 . 0 \sim 1 3 . 0 ~ \mathrm { m m } \cdot$ 次-。地形地貌差异是造成塔城地区大-暴雪空间分布不均的主要原因，塔额盆地三面环山，向西开口的“喇叭口"地形有利于接纳来自大西洋的湿润水汽，降雪量最多；南部平原地处山前迎风坡地带，强迫抬升和辐合作用有利于降水产生，降雪量次之；北部山地位于山脉断缘或山脉背风坡，山体阻碍水汽抵达，降雪量最少。
+
+![](images/8061e463ded0d2e5cdac6230caf733c137846d8b27562bc245c93d6a0d91d328.jpg)  
+图21961—2018年塔城地区大-暴雪频数(a)和强度(b)空间分布图 Fig.2Spatial distribution of frequency (a) and intensity (b) of snowstorm during 1961-2018
+
+2.1.2变化趋势的空间分布塔城地区大-暴雪频数和降雪量分别以0.16次· $( 1 0 \mathrm { a } ) ^ { - 1 }$ 和 $2 . 3 5 ~ \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 的增幅不显著增加;降雪强度每10a以 $0 . 2 0 \mathrm { m m }$ ·次-1的速率增加。由图3可知，各站中，裕民站频数和降雪量增幅最大，乌苏和沙湾站增加趋势最显著，通过0.05显著性水平检验；其余站基本表现为不显著增加趋势。
+
+# 2.2大-暴雪事件时间变化特征
+
+2.2.1 月季分布特征塔城地区大-暴雪事件主要出现在10月至翌年4月（图4a)，秋末冬初11月、12月为主峰值，初春3月为次峰值，共占全年总数的
+
+![](images/658009c1445b923be582b461d2c823e1b83669b5a17034c7b0e7e494eeedac70.jpg)  
+注：实心三角形表示变化趋势通过0.05显著性检验，空心三角形表示未通过显著性检验。  
+图31961—2018年塔城地区大-暴雪频数(a)和降雪量(b)倾向率空间分布  
+Fig.3Spatial distribution of trend rate offrequency(a)and mean snowfal(b)in Tacheng Region during 1961-2018
+
+![](images/434ce2947fc619b732d30446c0fcba5820f47efbbf085128892db2ae5e24850c.jpg)  
+图41961—2018年塔城地区大-暴雪频数和强度月际分布 Fig.4Monthly variation of snowstorm in Tacheng Region during 1961-2018
+
+$6 5 . 2 \%$ ,而隆冬季节发生频数并不多，这与胡中明[9]指出的我国北方暴雪天气主要出现在初春和初冬的结论基本一致。季节转换期冷暖空气频繁交替是造成大-暴雪频发的主要原因；隆冬季节塔城地区处于蒙古高压后部，冷气团占主导地位，暖湿空气活动少，形成强降雪天气的水汽条件不易满足。另外5月、9月偶有大-暴雪天气过程出现(主要出现在北部山地），多为强冷空气活动入侵造成的雨雪混合型降水。3个分区中，塔额盆地大-暴雪频数11月最多，12月次之；南部平原和北部山地11月最多，3月次之。塔城地区大-暴雪强度的月际变幅在$1 1 . 7 \sim 1 4 . 8 ~ \mathrm { m m } \cdot$ 次-，塔额盆地月际差异最小，北部山地月际振荡明显。
+
+2.2.2年际、年代际变化塔城地区大-暴雪事件存在明显的年际和年代际变化(图5)，塔城地区及塔额盆地大-暴雪发生站次在1960年代中后期略偏多，1970年代开始到1990年代中期以偏少为主，2005年之后明显增多；南部平原在2000年之前为偏少时段，之后迅速增多；北部山地1970年代初期到1990年代初期为偏少时段，2003年之后进入偏多期。
+
+2.2.3周期分析基于Matlab数值分析软件绘制小波功率谱图(图6)，塔城地区和塔额盆地类似，在1960年代中期到1970年代中期、1990年代中后期之后表现为 $2 \sim 3$ a尺度的变化周期，1990年代到2015年为 $4 \sim 5$ a尺度的变化周期，2003年之后还存在 $5 \sim 8$ a尺度的变化周期;南部平原在1960年代中期到1980年代初期、1990年代后期到2010年期间存在 $2 \sim 3$ a尺度的变化周期，2000年之后存在 $5 \sim 7$ a尺度的变化周期；北部山地在1960年代中期到1970年代末期以 $2 \sim 4$ a尺度的变化周期为主，1970年代末期到2010年存在 $4 \sim 6$ a尺度的变化周期。小波全谱图显示，通过 $9 5 \%$ 显著性水平检验的主周期尺度为 $5 \sim 6 \mathrm { a }$ 。
+
+2.2.4持续性分析R/S重标极差分析法是一种非线性科学预测方法，能对未来变化的总体趋势作出预测和推断，分析结果的稳定性不受序列时间分布特征的影响[20],当Hurst指数 $H { = } 0 . 5$ 时,标志一个序列是随机不相关的，无持续性，即现在不会影响将来；当 $0 . 5 0 < H < 1 . 0 0$ 时，表示未来趋势与过去一致，时间序列具有持续性， $H$ 越接近于1,持续性越强；当$0 . 0 0 < H < 0 . 5 0$ 时，表示未来趋势与过去相反，过程具有反持续性， $H$ 越接近于0，反持续性越强。对塔城地区大-暴雪频数进行R/S分析表明，塔额盆地Hurst指数为0.51，持续性很弱，南部平原(0.63)持续性较弱，北部山地(0.49)则表现为很弱的反持续性，塔城地区总体表现为弱持续性，增多趋势将延续。庄晓翠等2研究表明，2010年之后阿勒泰地区大到暴雪逐渐转为减少趋势，可见强降雪事件的变化具有很强的区域性和不确定性。
+
+![](images/ffcf492a523e33c84781ab86471f8dc50968b1eb22aa5f181cdf1eb35794ed02.jpg)  
+图51961—2018年塔城地区大-暴雪站次年际、年代际变化
+
+![](images/2e3b242aff18bec59d6d17f1c09a73fc480defdea590b110a17fbf5192d4d471.jpg)  
+Fig.5Annual and inter-decadal frequency of snowstorm in Tacheng Region during 1961-2018   
+注：黑色实线包围区域通过 $9 5 \%$ 置信度检验，黑色虚线为小波影响锥临界线;黑色实线为小波功率，红色虚线为 $9 5 \%$ 显著水平临界线。  
+图6塔城地区大-暴雪频数小波功率谱  
+Fig. 6 Wavelet power spectrum of snowstorm frequency in Tacheng Region
+
+# 2.3 影响因子分析
+
+2.3.1 涛动指数NAO/AO的年际变化可反映中纬度西风的强弱，其变化影响到西风带槽脊系统，进而对其下游新疆的降水和温度产生影响。对塔城地区大-暴雪年频数与同期涛动指数进行相关分析(表1)，二者呈显著负相关(相关系数-0.35/-0.46)，尤以塔额盆地相关程度最高，可见大-暴雪偏多与NAO/AO负位相具有较好的对应关系。当NAO/AO负位相时，盛行经向环流，乌拉尔山阻塞很活跃[22]，阻塞高压前部西北或偏北气流引导极地冷空气持
+
+# 表1塔城地区大-暴雪年频数与同期涛动指数相关分析
+
+Tab.1 Correlation coefficients between snowstorms frequency and oscillation indices   
+
+<html><body><table><tr><td>区域</td><td>NAO</td><td>AO</td><td>AAO</td><td>SOI</td></tr><tr><td>塔城地区</td><td>-0.35**</td><td>-0.46**</td><td>-0.16</td><td>-0.10</td></tr><tr><td>塔额盆地</td><td>-0.38**</td><td>-0.49**</td><td>-0.23</td><td>-0.11</td></tr><tr><td>南部平原</td><td>-0.27°</td><td>-0.24</td><td>0.02</td><td>-0.08</td></tr><tr><td>北部山地</td><td>-0.31°</td><td>-0.28*</td><td>-0.04</td><td>0.05</td></tr></table></body></html>
+
+注：\*、\*\*分别表示0.05、0.01水平(双侧)上显著相关。下同。
+
+续南下;中国北方上空对流高层显著西风异常[4],提供动力抬升条件，有利于产生强降雪天气。
+
+2.3.2海表温度（SST）SST的变化影响着大气的温湿状况及水汽输送，在SSTA为正距平附近，通过蒸发作用使洋面上空水汽含量增加。帅嘉冰等[23]、杨莲梅等24研究发现西北地区西部及中亚地区上空水汽含量在1980年代中期明显上升;西风带水汽增加与新疆冬季降水增加有很好的对应关系。塔城地区天气气候主要是受西风带及其上游扰动的影响，对塔城地区大-暴雪年频数与同期大西洋SST进行相关分析(表2)，二者呈正相关关系( $7 0 . 0 \%$ 的指数通过0.05显著性水平检验），尤以南部平原对大西洋SST的响应最为显著，北部山地海拔较高，可能在一定程度上减弱了SST对其的影响。近58a大西洋SST呈显著升高趋势，则沿西风带由洋面经欧洲向中亚和新疆的水汽输送得到增强，大-暴雪事件亦有所增多。李多等也曾指出，中国 $4 5 ^ { \circ } \mathrm { N }$ 以北冬季降雪的变化受同期北大西洋海温变化的影响较大。
+
+为了探讨塔城地区大-暴雪频数与大西洋前期海温的关系，对二者进行月尺度响应分析(表3)，大-暴雪月频数与大西洋海域当月及前1\~4个月SST均呈正相关，第5个月开始相关性减小。其中12月频数与TNA(NTA)当月及前3或4个月海温呈显著正相关,即前期8、9月份开始TNA、NTA持续偏高，12月大-暴雪发生几率高；3月频数受TNA和NTA当月及前1个月的SST影响显著；11月频数受TSA当月及前1个月的变化影响较明显；1月频数对CAR前 $1 \sim 3$ 个月的变化响应显著。由此可见，如果前期大西洋SST为暖异常，强降雪事件偏多的可能性较大，反之亦然。
+
+ENSO是全球范围内大尺度海气相互作用现象，对全球的气候变化有着重要的影响。热带太平洋海温升高，相对的直接热力环流增强，垂直上升运动加强，大尺度环流发生改变或异变[25]，出现区域性降水异常。谢培等[26研究发现ENSO暖事件对新疆产生增湿效应，冷季降水幅度增加大于暖季。1961—2018年13次ENSO冷事件与塔城地区大-暴雪频数负距平的对应概率为 $7 6 . 9 \%$ ，暖事件当年或次年与大-暴雪频数正距平的对应概率达 $8 0 . 0 \%$ ,其中9次中等及以上强度的暖事件当年或次年大-暴雪频数平均为18.9站次，比多年平均值偏多 $8 7 . 3 \%$ ，可见塔城地区大-暴雪事件对中等及以上强度的ENSO暖事件的响应尤其明显，与张丽娟等[27]研究指出黑龙江省暴雪异常年与厄尔尼诺年或前后年存在显著相关的结论接近。
+
+Tab.2 Correlation coeficients between snowstorms frequency and SST indices   
+表3大-暴雪月频数与大西洋区域月尺度海表温度相关分析  
+
+<html><body><table><tr><td>区域</td><td>NTA</td><td>TNA</td><td>TSA</td><td>AMO</td><td>CAR</td><td>Nino1+2</td><td>Nino3.4</td><td>Nino3</td><td>Nino4</td></tr><tr><td>塔城地区</td><td>0.42**</td><td>0.45**</td><td>0.34**</td><td>0.27°</td><td>0.23</td><td>0.14</td><td>0.28°</td><td>0.07</td><td>0.31°</td></tr><tr><td>塔额盆地</td><td>0.34**</td><td>0.38**</td><td>0.27*</td><td>0.19</td><td>0.14</td><td>0.13</td><td>0.26°</td><td>0.09</td><td>0.29°</td></tr><tr><td>南部平原</td><td>0.47**</td><td>0.46**</td><td>0.47**</td><td>0.39**</td><td>0.40**</td><td>0.17</td><td>0.28°</td><td>0.03</td><td>0.29°</td></tr><tr><td>北部山地</td><td>0.30</td><td>0.30*</td><td>0.22</td><td>0.17</td><td>0.15</td><td>0.02</td><td>0.07</td><td>0.10</td><td>0.16</td></tr></table></body></html>
+
+表2塔城地区不同区域大-暴雪年频数与同期海温的相关系数  
+Tab.3 Correlationcoefficients between monthly snowstorms frequency and the Atlantic SST indices   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="3">NTA</td><td colspan="3">TNA</td><td colspan="3">TSA</td><td colspan="2">AMO</td><td>CAR</td></tr><tr><td>12月</td><td>1月</td><td>3月</td><td>12月</td><td>1月</td><td>3月</td><td>11月</td><td>1月</td><td>2月</td><td>12月</td><td>1月</td><td>1月</td></tr><tr><td>当月</td><td>0.30*</td><td>0.20</td><td>0.34*</td><td>0.26°</td><td>0.20</td><td>0.39**</td><td>0.32*</td><td>0.23</td><td>0.24</td><td>0.18</td><td>0.13</td><td>0.18</td></tr><tr><td>前1个月</td><td>0.28*</td><td>0.16</td><td>0.29*</td><td>0.26°</td><td>0.21</td><td>0.36**</td><td>0.28*</td><td>0.20</td><td>0.18</td><td>0.19</td><td>0.15</td><td>0.30*</td></tr><tr><td>前2个月</td><td>0.28*</td><td>0.20</td><td>0.17</td><td>0.28°</td><td>0.18</td><td>0.17</td><td>0.17</td><td>0.11</td><td>0.10</td><td>0.22</td><td>0.16</td><td>0.32*</td></tr><tr><td>前3个月</td><td>0.29*</td><td>0.24</td><td>0.06</td><td>0.27°</td><td>0.27*</td><td>0.11</td><td>0.07</td><td>0.18</td><td>0.02</td><td>0.27*</td><td>0.21</td><td>0.33*</td></tr><tr><td>前4个月</td><td>0.26*</td><td>0.21</td><td>0.04</td><td>0.23</td><td>0.20</td><td>0.04</td><td>0.13</td><td>0.07</td><td>0.01</td><td>0.25</td><td>0.17</td><td>0.25</td></tr></table></body></html>
+
+由表2可知，塔城地区大-暴雪年频数与同期Nino区海温指数呈正相关，且与Nino3.4、Nino4区海温显著正相关。月尺度响应分析表明(表4)，初冬(11月)大-暴雪频数与 $\mathrm { N i } \tilde { \mathrm { n } } \mathrm { o } 1 { + } 2$ 区当月及前 $1 \sim 3$ 个月指数显著正相关，与Nino4、Nino3.4区当月及前$1 \sim 5$ 个月指数显著正相关;后冬(2月)大-暴雪频数与Nino1 $+ 2$ 区前 $1 \sim 7$ 个月海温指数均达到显著正相关，并在前6个月达到最大，与Nino4区前 $3 \sim 9$ 个月指数显著正相关，与Nino3.4区前 $2 \sim 8$ 个月指数显著正相关。这意味着Nino区前一年春、夏季开始
+
+SST持续暖异常，对次年2月大-暴雪事件多发具有较好的预示意义；初春(3月)仅与Nino4区当月及前2个月指数显著正相关。
+
+综合来看，大-暴雪年频数与同期大西洋及赤道中东太平洋(Nino4、Nino3.4)SST的变化联系紧密，而不同海域、不同时段SST对大-暴雪事件的影响存在明显差异，前期SST的异常变化信号可以作为大-暴雪事件发生的前期征兆。
+
+2.3.3大气环流选取月尺度大气环流指数与同期大-暴雪频数进行相关分析(表5)，有利于大-暴雪事件发生的月(季)环流配置特征表现为：秋末冬初（10一11月），北大西洋一欧洲极涡面积小，亚洲极涡面积(强度)较大，欧亚经向度加大，引导极地冷空气向南爆发，产生强降雪的冷暖气流在此期交绥；前冬(12月)北方冷空气不断向南侵袭，北半球极涡面积扩大，北大西洋一欧洲纬向环流盛行，利于西风输送水汽，南侵的冷空气使西风带槽脊波动增大;初春(3月)正值塔城地区气温快速上升、积雪消融的时段，低层上升运动加强，若此期北半球极涡面积大，亚洲极涡强度强，高层干冷低层暖湿造成大气层结不稳定。
+
+Tab.4 Correlation coeficients between monthly snowstorms frequency and Nino indices   
+
+<html><body><table><tr><td rowspan="2">指数</td><td colspan="3">Nino1+2</td><td colspan="3">Nino4</td><td colspan="3">Nino3.4</td></tr><tr><td>11月</td><td>2月</td><td>3月</td><td>11月</td><td>2月</td><td>3月</td><td>11月</td><td>2月</td><td>3月</td></tr><tr><td>当月</td><td>0.26*</td><td>0.22</td><td>-0.09</td><td>0.32°</td><td>0.19</td><td>0.26*</td><td>0.30*</td><td>0.23</td><td>0.22</td></tr><tr><td>前1个月</td><td>0.32*</td><td>0.28*</td><td>-0.10</td><td>0.28°</td><td>0.22</td><td>0.26*</td><td>0.29*</td><td>0.25</td><td>0.22</td></tr><tr><td>前2个月</td><td>0.38**</td><td>0.26*</td><td>-0.03</td><td>0.27°</td><td>0.24</td><td>0.27*</td><td>0.31*</td><td>0.26*</td><td>0.21</td></tr><tr><td>前3个月</td><td>0.25*</td><td>0.27*</td><td>0.01</td><td>0.29°</td><td>0.28*</td><td>0.24</td><td>0.33*</td><td>0.29*</td><td>0.22</td></tr><tr><td>前4个月</td><td>0.22</td><td>0.31*</td><td>-0.01</td><td>0.30°</td><td>0.31*</td><td>0.24</td><td>0.33*</td><td>0.32*</td><td>0.21</td></tr><tr><td>前5个月</td><td>0.23</td><td>0.38**</td><td>-0.01</td><td>0.28°</td><td>0.28*</td><td>0.21</td><td>0.27*</td><td>0.31"</td><td>0.15</td></tr><tr><td>前6个月</td><td>0.15</td><td>0.39**</td><td>0.01</td><td>0.17</td><td>0.30*</td><td>0.17</td><td>0.17</td><td>0.35**</td><td>0.13</td></tr><tr><td>前7个月</td><td>0.11</td><td>0.30*</td><td>0.06</td><td>0.18</td><td>0.32*</td><td>0.18</td><td>0.19</td><td>0.37**</td><td>0.18</td></tr><tr><td>前8个月</td><td>0.00</td><td>0.22</td><td>0.04</td><td>0.14</td><td>0.34*</td><td>0.17</td><td>0.08</td><td>0.33*</td><td>0.21</td></tr><tr><td>前9个月</td><td>-0.08</td><td>0.19</td><td>0.04</td><td>0.08</td><td>0.28*</td><td>0.16</td><td>0.02</td><td>0.25</td><td>0.19</td></tr><tr><td>前10个月</td><td>-0.09</td><td>0.11</td><td>0.07</td><td>0.03</td><td>0.23</td><td>0.07</td><td>-0.03</td><td>0.19</td><td>0.07</td></tr><tr><td>前11个月</td><td>-0.11</td><td>0.08</td><td>0.09</td><td>-0.01</td><td>0.20</td><td>0.03</td><td>-0.04</td><td>0.10</td><td>-0.06</td></tr></table></body></html>
+
+表4大-暴雪月频数与Nino区月尺度海表温度相关分析  
+表5塔城地区大-暴雪月频数与同期环流指数相关分析  
+Tab.5 Correlation coefficients between monthly snowstorms and atmospheric circulation indice   
+
+<html><body><table><tr><td>环流指数</td><td>10月</td><td>11月</td><td>12月</td><td>1月</td><td>■ 2月</td><td>3月</td><td>4月</td><td>均值</td></tr><tr><td>北半球极涡面积</td><td>-0.14</td><td>0.00</td><td>0.20</td><td>0.09</td><td>-0.08</td><td>0.20</td><td>-0.29*</td><td>0.18</td></tr><tr><td>北半球极涡强度</td><td>-0.03</td><td>-0.08</td><td>-0.36**</td><td>-0.15</td><td>-0.17</td><td>0.18</td><td>-0.08</td><td>-0.39**</td></tr><tr><td>亚洲区极涡面积</td><td>0.20</td><td>0.31°</td><td>0.11</td><td>-0.02</td><td>-0.15</td><td>0.11</td><td>0.08</td><td>-0.04</td></tr><tr><td>亚洲区极涡强度</td><td>-0.07</td><td>0.40**</td><td>0.06</td><td>-0.01</td><td>0.08</td><td>0.33*</td><td>0.12</td><td>-0.12</td></tr><tr><td>北大西洋-欧洲区极涡面积</td><td>-0.30*</td><td>-0.12</td><td>0.17</td><td>0.15</td><td>-0.01</td><td>0.19</td><td>-0.12</td><td>0.03</td></tr><tr><td>北大西洋-欧洲环流W型</td><td>-0.10</td><td>0.16</td><td>0.26*</td><td>0.03</td><td>0.20</td><td>0.04</td><td>-0.08</td><td>0.44**</td></tr><tr><td>北大西洋-欧洲环流C型</td><td>-0.05</td><td>-0.24</td><td>-0.13</td><td>0.00</td><td>-0.02</td><td>0.19</td><td>0.07</td><td>-0.37**</td></tr><tr><td>北大西洋-欧洲环流E型</td><td>0.18</td><td>0.13</td><td>-0.21</td><td>-0.04</td><td>-0.22</td><td>-0.23</td><td>0.03</td><td>-0.28*</td></tr><tr><td>欧亚纬向环流</td><td>-0.26*</td><td>-0.04</td><td>-0.12</td><td>-0.09</td><td>0.11</td><td>0.21</td><td>0.07</td><td>-0.09</td></tr><tr><td>欧亚经向环流</td><td>0.30*</td><td>0.32°</td><td>0.00</td><td>-0.17</td><td>-0.20</td><td>-0.07</td><td>-0.03</td><td>0.13</td></tr><tr><td>亚洲纬向环流</td><td>-0.25</td><td>0.18</td><td>-0.05</td><td>-0.01</td><td>0.16</td><td>0.24</td><td>0.11</td><td>-0.10</td></tr><tr><td>亚洲经向环流</td><td>0.21</td><td>0.23</td><td>0.06</td><td>-0.08</td><td>-0.13</td><td>-0.11</td><td>-0.02</td><td>0.24</td></tr></table></body></html>
+
+# 3讨论
+
+大-暴雪事件作为一种极端天气气候事件，气候背景的变化和区域环流的异变对其影响显著。IPCC第五次评估报告指出，全球上层海温正在发生显著的变暖，近表层海温上升速率最快，达到 $0 . 0 9 \sim$ $0 . 1 3 ~ \mathrm { { ^ { \circ } C } \cdot ( 1 0 a ) ^ { - 1 } ( 1 9 7 1 - 2 0 1 0 ~ ^ { \circ } _ { 5 } } $ 手）[28]。海洋热状况的改变对大气水汽含量及输送产生重要影响，已有的研究表明，大西洋SST异常影响NAO，进而对中国大气产生影响9；NAO的变化通过遥相关过程及Rossby波列的传播影响下游地区，中高纬和中低纬环流之间相互作用[30],则强降雪事件发生偏多。本研究对塔城地区大-暴雪事件与NAO/AO、SST和大气环流的相关分析结果表明：大西洋海温升高，空气水汽含量增加，沿西风带水汽输送增强；SST与NAO/AO之间通过耦合作用显著影响北半球海平面气压场的分布和极涡面积(强度)的变化，进而驱动中高纬度大气环流异变，塔城地区大-暴雪事件增加。
+
+近58a塔城地区大-暴雪事件增多、强度增强，大-暴雪带来的丰沛降雪对来年牧草生长、农业灌溉和水库蓄水十分有利;同时大-暴雪也是形成雪灾的重要天气过程[5]，给牧业生产及交通运输造成严重影响。本研究给出的塔城地区大-暴雪月频数与前期NTA、TNA、CAR和Nino1 $+ 2$ 、Nino4、Nino3.4指数的相关关系可以作为气候预测的重要因子。
+
+# 4结论
+
+（1）塔城地区大-暴雪年频数为1.44次 $\cdot \mathrm { a } ^ { - 1 }$ ，平均强度为 $1 2 . 5 ~ \mathrm { m m }$ ·次，其空间分布表现为塔额盆地最多，北部山地最少；近58a大-暴雪频数、降雪量、强度均表现为增加趋势。
+
+(2）塔城地区大-暴雪年频数主要存在 $2 \sim 3$ a和 $5 \sim 6$ a尺度的变化周期，1990年代以来，年际波动加剧，最大值出现在2009—2010年冬季。
+
+（3）SST、NAO/AO、极涡面积(强度）、亚洲经纬向环流、北大西洋一欧洲环流型等因子与塔城地区大-暴雪事件存在显著相关，其变化及相互作用是大-暴雪形成过程中的重要背景条件。
+
+# 参考文献(References）：
+
+[1]李如琦,唐冶,肉孜·阿基.2010 年新疆北部暴雪异常的环流和 水汽特征分析[J].高原气象,2015,34(1):155-162.[Li Ruqi, Tang Ye,Rouzi Aji.Atmospheric circulation and water vapor characteristics of snowstorm anomalies in Northern Xinjiang in 2010 [J].Plateau Meteorology,2015,34(1): 155-162.]   
+[2]鲁安新,冯学智,曾群柱.我国牧区雪灾判别因子体系及分级初 探[J].灾害学,1995,10(3): 15-18.[Lu Anxin,Feng Xuezhi, Zeng Qunzhu. Preliminary study on the system and classification of snow disaster factors in pastoral areas of China[J]. Disaster Science,1995,10(3): 15-18.]   
+[3]胡列群,张连成,梁凤超,等.1960-2014年新疆气象雪灾时空 分布特征研究[J].新疆师范大学学报(自然科学版),2015,34(3): 2-5.[Hu Liequn, Zhang Liancheng,Liang Fengchao, et al. Time and space distribution characteristics research of meteorological snow disaster in Xinjiang from 196O to 2O14[J].Journal of Xinjiang Normal University (Natural Sciences),2015,34(3): 2-5.]   
+[4]王遵娅,周海波.影响中国北方强降雪事件年际变化的典型环 流背景和水汽收支特征分析[J].地球物理学报,2018,61(7): 2654- 2666.[Wang Zunya, Zhou Haibo. Large-scale atmospheric circulations and water vapor transport influencing interannual variations of intense snowfalls in northern China[J]. Chinese Journal of Geophysics,2018,61(7): 2654-2666.]   
+[5]杨莲梅,杨涛,贾丽红,等.新疆大-暴雪气候特征及其水汽分 析[J].冰川冻土,2005,27(3):389-395.[Yang Lianmei,Yang Tao,Jia Lihong,et al.Analyses of the climate characteristic and water vapor of heavy snow in Xinjiang Region[J]. Journal of Glaciology and Geocryology,2005,27(3): 389-395.]   
+[6]董啸,周顺武,胡中明,等.近50年来东北地区暴雪时空分布特 征[J].气象,2010,36(12):74-79.[Dong Xiao,Zhou Shunwu,Hu Zhongming,et al. Characteristics of temporal and spatial variation of heavy snowfallin Northeast China in recent 5O years[J]. Meteorological Monthly,2010,36(12): 74-79.]   
+[7]陈长胜,王盘兴,杨秀峰,等.东北地区暴雪天气的统计学划分 方法及其时空分布特征[J].地理科学,2012,32(10):1276- 1028.[Chen Changsheng,Wang Panxing, Yang Xiufeng, et al. Classification and feature spatio-temporal of snowstorms in Northeast China[J]. Scientic Geographica Sinica,2012,32(10):1276- 1028.]   
+[8]林志强,假拉,薛改萍,等.1980-2010年西藏高原大-暴雪的时 空分布和环流特征[J].高原气象,2014,33(4):900-906.[Lin Zhiqiang,Ja La, Xue Gaiping,et al.Spatial-temporal distribution and general circulation characteristics of heavy snowfall over Tibet Plateau during 1980-2010[J].Plateau Meteorology,2014,33 (4): 900-906.]   
+[9]胡中明.中高纬暴雪形成的统计分析与机理研究[D].南京:南 京气象学院,2003.[Hu Zhongming.Statistical Analysis and Mechanism Study of Snowstorm in Middle and High Latitudes[D]. Nanjing: Nanjing Meteorological Institute,2003.]   
+[10] 吴庆梅,杨波,王国荣,等.北京地区一次回流暴雪过程的锋区 特征分析[J].高原气象,2014,33(2):539-547.[Wu Qingmei, Yang Bo,Wang Guorong,etal.Analysis of the frontal characteristics of backflow snowstorm process in Beijing[J].Plateau Meteorology,2014,33(2): 539-547.]   
+[11] 杨晓霞,吴炜,万明波,等.山东省两次暴雪天气的对比分析[J]. 气象,2012,38(7): 868-876.[Yang Xiaoxia,Wu Wei,Wan Mingbo,et al. Comparative analysisof two snowstorms in Shandong Province[J]. Meteorology,2012,38(7): 868-876.]   
+[12] 彭九慧,杨雷斌.华北地区一次局地暴雪天气过程的诊断分析 [J].干旱气象,2008,26(1): 64-68.[Peng Jiuhui, Yang Leibin. Diagnosis and analysis of a local snowstorm in North China[J]. Journal of Arid Meteorology,2008,26(1): 64-68.]   
+[13] 王宁,秦玉琳,姚帅,等.不同触发条件下吉林省一次极端暴雪 大风天气过程诊断分析[J].气象与环境学报,2017,33(3):1-9. [Wang Ning,Qin Yulin, Yao Shuai,et al. Diagnostic analysis of an extreme snowstorm inJilinProvinceunderdiffrent triggering conditions[J].Jouralof MeteorologyandEnvironment,2O1,33(3): 1-9.]   
+[14] 贾宏元,赵光平,沈跃琴,等.宁夏一次大暴雪天气过程的物理 成因[J].干旱气象,2007,25(4):36-40.[Jia Hongyuan, Zhao Guangping,Shen Yueqin, et al.Analysis on causes of a heavy snowstorm in Ningxia[J]. Journal of Arid Meteorology,2OO7,25(4): 36-40.]   
+[15] 姚蓉,叶成志,田莹,等.2011年初湖南暴雪过程的成因和数值 模拟分析[J].气象,2012,38(7):848-857.[Yao Rong,Ye Cheng zhi,Tian Ying,et al. The numerical simulation analysis and causes and of snowstorm occurring procession Hunan,early 2011 [J]. Meteorological Monthly,2012,38(7): 848-857.]   
+[16] 庄晓翠,崔彩霞,李博渊,等.新疆北部暖区强降雪中尺度环境 与落区分析[J].高原气象,2016,35(1):129-142.[Zhuang Xiaocui, Cui Caixia,Li Boyuan, et al.Analysis of warm zone mesoscale environment and heavy snowfall drop zone in northern Xinjiang[J]. Plateau Meteorology,2016,35(1): 129-142.]   
+[17] Smith Shawn R,James JO.Regional snowfall distributions associated with ENSO:Implicationsforseasonalforecasting[J]Blletin of American Meteorological Society,2001,82(6): 1179-1191.   
+[18]Mason S J, Goddard L.Probabilistic precipitation anomalies associated with ENSO[J]. Bulletin of American Meteorological Society, 2001, 82(4): 619-638.   
+[19] 李多,肖子牛,李泽椿.中国东部北方地区冬季降雪的时空特征 及其与全球异常海温的联系[J].气象,2012,38(4):411-418. [Li Duo,Xiao Ziniu,Li Zechun.The spatial and temporal characteristics of winter snowfall in Northeast China and its relation with global sea surface temperature anomaly[J]. Meteorological Monthly, 2012,38(4): 411-418.]   
+[20] 甄英,杨珊,何静,等.基于M-K检验法与R/S法的宜宾市降水 量分析[J].四川师范大学学报,2017,40(3):392-397.[Zhen Ying,Yang Shan,He Jing,etal.Analysis of precipitation in Yibin City based on M-K test and R/S method[J]. Journal of Sichuan Normal University,2017,40(3): 392-397.]   
+[21] 庄晓翠,李博渊,张林梅,等.新疆阿勒泰地区冬季大到暴雪气 候变化特征[J].干旱区地理,2013,36(6):1013-1022. [Zhuang Xiaocui,Li Boyuan, Zhang Linmei,et a1.Heavy snowstorm characteristicsof climaticchangein winter inAltay Xinjiang[J].Arid Land Geography,2013,36(6):1013-1022.]   
+[22] 柴晶品,刁一娜.北大西洋涛动指数变化与北半球冬季阻塞活 动[J].大气科学,2011,35(2): 326-338.[Chai Jingpin,Diao Yina. The effect of the variation of the North Atlantic Oscilltion on winter blocking activities in the Northern Hemisphere[J]. Chinese Journal of Atmospheric Sciences,2011,35(2): 326-338.]   
+[23] 帅嘉冰,郭品文,庞子琴.中国冬季降水与AO关系的年代际变 化[J].高原气象,2012,29(5):1126-1136.[Shuai Jiabing,Guo Pinwen,Pang Ziqin.Inter-decadal variation of the relationship between AO and Winter Precipitation in China[J].Plateau Meteorology,2012,29(5): 1126-1136. ]   
+[24] 杨莲梅,史玉光,汤浩.新疆北部降水异常成因[J].应用气象学 报,2010,21(4):491-499.[YangLianmei,ShiYuguang,Tang Hao.Causes of precipitation anomalies in northern Xinjiang[J]. Journal of Applied Meteorological Science,2010,21(4):491- 499.]   
+[25] 王建.现代自然地理学[M].北京:高等教育出版社,2002:97- 101.[Wang Jian. Modern Physical Geography[M]. Beijing: Higher Education Press,2002: 97-101.]   
+[26] 谢培,张小虎,乔飞.新疆极端降水时空特征及其对ENSO影响 的响应研究[J].气象研究与应用,2018,40(3):5-12.[Xie Pei, Zhang Xiaohu, Qiao Fei. Spatial and temporal characteristics of extreme precipitation in Xinjiang and its response to ENSO[J]. Journal of Meteorological Research and Application,2018,40(3): 5-12.]   
+[27] 张丽娟,陈红,刘栋,等.黑龙江省暴雪时空分布特征与发生风 险研究[J].冰川冻土,2011,33(4):721-728.[Zhang Lijuan, Chen Hong,Liu Dong, et al.Studyof space-time distribution and risk division of snowstorm in Heilongjiang Province[J]. Journal of Glaciology and Geocryology,2011,3(4): 721-728.]   
+[28] IPCC.Climate Change 2013: The Physical Science Basis: Working Group I Contribution to the Fifth Assessment Report of the IntergovErnmental Panel on Climate Change[M]. New York: Cambridge University Press. 2014: 1535.   
+[29] 梅笑冬.北大西洋海温对NAO型大气环流异常的影响研究[D]. 青岛：中国海洋大学,2015.[Mei Xiaodong.An Impact Study of North Atlantic SST on NAO-like Circulation[D]. Qingdao: Ocean
+
+# Snowstorm characteristics and its relationship with atmospheric circulation and sea surface temperature in Tacheng Region, Xinjiang
+
+GAO Jing¹²， JING Lihong'³，QIN Rong‘， MAO Rong²，JING Lijun² (1.Center of Central Asia Atmospheric Sciences Research, Urumqi 83OoO2, Xinjiang, China; 2.Shawan Meteorological Bureau,Shawan 8321Oo, Xinjiang, China; 3.Tacheng Meteorological Bureau, Tacheng 83470o,Xinjiang,China; 4.Xinjiang Meteorological Information Center,Urumqi830o0,Xinjiang,China)
+
+Abstract: Based on the daily observation data of seven national meteorological stations in the Tacheng Region, sea surface temperature (SST)and atmospheric circulation indices during 1961-2018,and using some mathematical statistical methods,suchas the least-squares method,waveletand correlationanalyses,the temporaland spatial distribution of snowstorm and its relationship with atmospheric circulation and SST were analyzed.The results showed obvious dispersive and local characteristics on spatial distribution of snowstorm events.There was high frequency area in the Tacheng-Emin Basin,and the least area was in northern mountain area.The mean snowstorm was frequency 1.44 times per year, the annual average snowfall of snowstorm was $1 7 . 9 \ \mathrm { m m }$ ，and the processes snowfall was $1 2 . 5 \mathrm { m m }$ per time. The snowstorm frequency was insignificantly increasing at the rate of O.16 times per ten years and snowfall wasinsignificantly increasing at the rate of $2 . 3 5 ~ \mathrm { m m }$ per 10 years,and $4 2 . 9 \%$ of the stations were significantly increasing.Snowstorms mainly occurred in November， Decemberand March, accounting for $6 5 . 2 \%$ . The snowstorm' s annual frequency negatively correlated with North Atlantic Oscilation or Arctic Oscillation index, their correlation coefficient was $- 0 . 3 5$ or $- 0 . 4 6$ .The snowstorm events responded to SST indices,such as Atlantic Multidecadal Oscilation,North Tropical Atlantic SST index,Tropical Southerm Atlantic index,Tropical Northern Atlantic index,East Central Tropical Pacific SST,and Central Tropical Pacific SST,their correlation coeficients were from 0.27 to 0.45.But it was obviously different that monthly SST from differentregions affected on monthly frequency of snowstorm.The abnormal signal of SST in the early stage can predict the change monthly snowstorm's frequency. For the past 58 years,SST of the Atlantic Ocean were a significant warming,the Northern hemisphere and Asia Polar vortex area (intensity） idices were decreasing (weakening) significantly,the North Atlantic-European circulation W patern index was increasing insignificantly. Owing to the Atlantic SST significant increasing, moisture content was increasing in the upper ocean, which traveled into the westerlies.Simultaneously,theatmospheric circulation was changed in the middle and high latitudes,and the abnormal SST might cause the abnormal change of the atmospheric circulation,which might influence to the snowstorm events in Teacheng Region.
+
+Keywords: snowstorm events；temporal and spatial distribution characteristics；sea surface temperature； atmospheric circulation indices； Tacheng Region

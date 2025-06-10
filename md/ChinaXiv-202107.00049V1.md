@@ -1,0 +1,166 @@
+# 枫香变红过程中叶片组织结构、光合特性及色素含量变化研究
+
+尹国平1，刘雄盛1，蒋 燚1\*，王勇1，杨继生²，肖玉菲1，黄荣林1，姜英1西壮族自治区林业科学研究院，广西优质用材林资源培育重点实验室，南宁530002；2．广
+
+南宁 53000)
+
+摘要：枫香（Liquidambar formosana）因其叶片入秋后逐渐变红，极具观赏价值，是优良的景观生态树种。该文通过连续监测枫香叶片变红过程中组织结构、光合特性以及色素含量的变化，分析叶片结构与其光合特性和色素的关系，旨在了解枫香叶片结构变化与叶色的关系。结果表明：（1）枫香叶片变色过程中，表皮细胞均为椭圆形，紧密排列，未观察到明显的细胞变异，表面未附着绒毛和蜡质，且上表皮细胞与栅栏组织细胞间排列紧密，没有出现较大的气室。（2）随着叶片逐渐变红，叶片结构变化显著，其中，叶片、上表皮、栅栏组织和海绵组织厚度以及气孔开度均逐渐减小，而气孔器长和宽、单个气孔器面积则逐渐增大。（3）随着叶片结构的变化，其叶绿素含量逐渐减少，致使净光合速率逐渐减小，在出现光破坏时，叶片通过在栅栏组织细胞液泡内合成花色苷来自我保护，而大量的花色苷致使叶片表面呈现红色。因此，叶绿素含量降低，花色素苷大量积累是导致枫香叶片变红的直接原因。综上所述，枫香叶色变红是其一系列生理结构特征综合作用的结果。
+
+关键词：枫香，叶片变红，栅栏组织，海绵组织，气孔器，光合速率，叶绿素，花色苷
+
+中图分类号：Q246 文献标识码：A
+
+# The changes of tissue structure, photosynthetic characteristics and pigment content of Liquidambar formosana leaves in the process of turning red
+
+YIN Guoping1, LIU Xiongsheng1, JIANG ${ \mathrm { Y i } ^ { * } }$ ,WANG Yong1, YANG Jisheng², XIAO Yufei', JIANG Ying1, HUANG Ronglinl (1. Guangxi Key Laboratory of Superior Trees Resource Cultivation, Guangxi Zhuang Autonomous Region Forestry Research Institute,Nanning 530002, China; 2. Guangxi University, Nanning 53000, China)
+
+Abstract: Liquidambar formosana is an excelent landscape ecological tree species because its leaves turn red gradually after autumn, which is of great ornamental value. In this paper,the changes of tissue structure, photosynthetic characteristics and pigment content of $L$ . formosana leaves were continuously monitored, and the relationship between leaf structure and photosynthetic characteristics and pigment was analyzed in order to understand the relationship between leaf structure changes and leaf color.The results were as follows:(1） During the discoloration process of $L$ . formosana leaves, the epidermal cells were oval and closely arranged, no obvious cell variation was observed,no villi and wax were attached to the surface,and the upper epidermal cells were closely arranged with palisade tisse cells, there was no large air chamber.（2）With the leaf turning red gradually, the leaf structure changed significantly.The thickness of leaf, upper epidermis,palisade tissue and spongy tissue and stomatal aperture decreased gradualy, whereas the length and width of stomatal apparatus and the area of single stomatal apparatus gradually increased.（3）With the change of leaf structure,the chlorophyll content decreased gradually,resulting in the decrease of net photosynthetic rate. When light damage occurred,leaves protected themselves by synthesizing anthocyanins in the vacuoles of palisade tissue cels,then a large amount of anthocyanins caused the leaf surface to show red.Therefore，the decrease of chlorophyll content and the accumulation of anthocyanins are the direct reasons for the redness of $L$ . formosana leaves. To sum up, the red color of L. formosana leaves is the combination result of a series of physiological structure characteristics.
+
+Key words: Liquidambar formosana Hance, leaf turn red, palisade tissue, spongy tissue,stomatal apparatus photosynthesis rate,chlorophyll, anthocyanins
+
+随着人们对优美生态环境需求日益增加，在森林景观营造和城乡绿化美化中，彩叶树种越来越受到青睐。彩叶树种因其亮丽丰富的色彩和较高的观赏价值在现代化城市园林景观建设中发挥着越来越重要的作用，备受关注（Sheue etal.,2012；李卫星等，2017)。随着彩叶植物的不断研究，研究者将彩叶分为色素型和结构型2大类，其中色素型又分为叶绿素亏缺型（叶绿体发生变化，叶绿素合成受阻）和其他色素型（如叶黄素或花色苷大量积累使叶片呈黄色或红色)，而结构类彩叶主要有表皮型和空隙型，表皮型表现为表皮细胞变异（乳状凸起、不规则形状等）和表皮细胞上附着其他物质（蜡质、绒毛等）使光线发生折射、衍射以及干涉而呈色，而空隙型叶片表皮细胞与栅栏组织细胞间存在较大气室，入射光在气室间形成漫反射，致使叶片呈现其他颜色（王振兴等，2016；杜文文等，2019；梁玲等，2020；Sheue etal.,2012)。目前，对彩叶树种叶色变化成因的研究多集中在色素的种类、含量及分布等方面（Rocca etal.,2011；冯露等，2017；李卫星等，2017)，而对叶片组织结构与叶片呈色的关系研究相对较少。
+
+枫香（Liquidambar formosana）为金缕梅科（Hamamelidaceae）枫香树属（Liquidambar）落叶乔木，分布广泛（主要分布于我国秦岭及淮河以南各省，北起河南、山东，东至台湾，西至四川、云南及西藏，南至广东)，适应性和耐火力强，天然易更新，入秋后，其叶片逐渐由绿色变为红色、紫色、橙黄等颜色（主要以变红为主)，极具观赏价值，是优良的景观生态树种（王冬雪等，2017)。目前，王冬雪等（2019）描述了不同光质处理下枫香叶色变化过程中色素含量的变化；刘儒等（2017）描述了枫香叶色变化与色素的关系；罗紫东等（2016）研究指出随着枫香叶片逐渐变黄和变红，其净光合速率的光响应能力逐渐降低。然而，这些报道中并没有枫香叶色变化过程中叶片组织结构变化的研究。因此，对于枫香叶色变色是由色素引起还是色素和结构两种兼而有之，尚未得出明确的结论。为此，本文以枫香变红植株为研究对象，通过连续监测自然条件下枫香叶片变红过程中叶片组织结构、光合特性以及色素含量的变化，分析叶色变化过程中组织结构与光合特性以及色素的关系，探讨叶片结构与枫香叶色变红的关系，为深入研究枫香呈色机理提供理论基础。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+试验材料来源于广西德保县红叶森林公园枫香天然林（ $1 0 6 ^ { \circ } 3 9 ^ { \prime } 5 ^ { \prime \prime } \mathrm { E }$ 、 $2 3 ^ { \circ } 2 1 ^ { \prime } 1 9 ^ { \prime \prime } \mathrm { N }$ )。红叶森林公园地处北回归线以南，属亚热带湿润气候，以棕壤为主，占地总面积 $7 . 2 9 \mathrm { k m } ^ { 2 }$ ，枫香林面积 $2 . 4 4 \mathrm { k m } ^ { 2 }$ 。
+
+采用平均木法，选取5株秋季叶片变红、生长健壮的成年枫香植株。自2018年9月底开始，在每株枫香树上选取东、南、西、北4个方向的枝条做好标记，每15\~20 天观测和采集样品1次，自试验开始至结束共进行5次叶片观测和样品采样，分别标记为S1（2018-09-29）、S2（2018-10-13）、S3（2018-11-2）、S4（2018-11-22)、S5（2018-12-12)，如图1所示。
+
+![](images/dcbae6c442a212e7fef2b55e2c2eb1109b7dc3803089e74cdef22fe3d822888e.jpg)  
+图1不同变色时期枫香叶片颜色
+
+S1.全绿；S2.变红面积 $_ { < 1 / 3 }$ ；S3.变红面积 ${ > } 1 / 3$ ， ${ < } 2 / 3$ ；S4.全红面积 ${ \scriptstyle \lfloor > 2 / 3 }$ ；S5.全红。下同。 S1.All-green; S2.Reddened areas $< 1 / 3$ ; S3.Somereddened areas $> 1 / 3 , < 2 / 3$ ; S4.Totallyredareas $> 2 / 3$ ; S5.All-red. The same below.
+
+Fig.1 Leaf color of Liquidambar formosana at different discoloration stages
+
+# 1.2叶片解剖结构测定
+
+在枫香变色的5个时期，分别在每株枫香取6片典型叶片，每片叶片从叶基部以上1/3处（保留主脉)用单面刀片将叶片切成 $0 . 5 \mathrm { c m } { \times } 0 . 5 \mathrm { c m }$ 小块，放入FAA固定液（体积比为 $70 \%$ 乙醇：甲醛：冰醋酸 $_ { = 9 0 } : 5$ ：5)，固定 $2 4 \mathrm { h }$ 后，用于石蜡切片的制作。在每片叶片中部叶脉与叶片边缘之间切取 $1 . 0 \mathrm { m m } { \times } 0 . 5 \mathrm { c m }$ 小块，用 $2 . 5 \%$ 戊二醛固定 $2 4 \mathrm { h }$ 后，经磷酸缓冲液清洗，再用 $1 \%$ 的钳酸固定 $2 \mathrm { h }$ ，用于叶片气孔超微结构观测。
+
+采用常规石蜡切片法（刘雄盛等，2020）对处理后的叶片进行切片，每个变色时期每株枫香选取3块组织，每块组织制作3张切片，切片厚度为 $8 ~ { \mu \mathrm { m } }$ ，用番红-固绿对切片进行双重对染，中性树胶封片，于Motic BA410型光学显微镜下观察。每张切片在叶脉和叶肉组织分别观察5个视野，并拍照,之后用Digmizer软件测定叶片栅栏组织、海绵组织以及上、下表皮等组织的厚度。各组织测量10个数值。
+
+气孔超微结构观测参照齐红岩等（2009）方法，每个变色时期每株枫香选取3块组织，按常规系列乙醇丙酮脱水，醋酸异戊脂置换，在液态 $\mathrm { C O } _ { 2 }$ 中干燥后进行样品粘台，对其进行喷金处理，在S-450 型扫描电子显微镜下观察拍照。用Digmizer软件测量气孔长（SL）、气孔宽（SW）、气孔器长度（SAL）、气孔器宽度（SAW)，并计算气孔开度（SA）、单个气孔器面积（SSA）、其中， ${ \mathrm { S A } } { = } { \pi } { \times } { \mathrm { S L } } { \times } { \mathrm { S W } }$ ， $\mathrm { S S A } { = } \pi \times \mathrm { S A L } { \times } \mathrm { S A W } / 4$ （20（ $\overset { \cdot } { \pi } = 3 . 1 4 \overset { \cdot } { \lambda }$ 。每个处理观察10个视野，每个视野随机选取30个气孔器进行测量。
+
+# 1.3光合作用日变化测定
+
+光合特性的测定参照郭连金等（2017）的方法。在枫香变色5个时期，选择在连续3d晴朗无风天气，采用LI-6400便捷式光合仪测定枫香植株叶片光合参数的日变化。测定时在每株枫香4个方向枝条上分别选取健康无病虫害的3个叶片作为测定叶。测定时间为7:00—17:00，每2小时测一次。采用自然光源，标准叶室！ $( 2 { \mathrm { c m } } \times 3 { \mathrm { c m } }$ )，测定指标有净光合速率（ $\left( P _ { n } \right)$ )、蒸腾速率（ $( T _ { r } )$ 、胞间二氧化碳浓度（ $C _ { i } )$ 、气孔导度（ $\langle G _ { s }$ ）等。
+
+# 1.4叶片色素含量测定
+
+在枫香变色的5个时期，在每株枫香东、南、西、北4个枝条上分别随机选取健康完整的5片叶片，混合后用锡箔纸包裹住，放入液氮灌中短暂保存，带回实验室进行色素含量的测定。叶绿素和类胡萝卜素含量测定参照李合生（2000）的方法，称取 $0 . 2 \ \mathrm { g }$ 新鲜叶片粉末，加入 $5 \mathrm { m L } 8 0 \%$ 丙酮，置于 $4 ^ { \circ } \mathrm { C }$ 冰箱中避光浸提 $2 4 \mathrm { h }$ ，取上清液过滤后，利用UV-4802双光束分光光度计，分别测定 $4 4 5 \ \mathrm { n m }$ 、 $6 4 5 \mathrm { n m }$ 、 $6 6 3 ~ \mathrm { { n m } }$ 处吸光值，计算叶绿素a、叶绿素b、总叶绿素含量及类胡萝卜素含量。
+
+花色苷含量测定参照Kytridis&Manetas（2006）的方法，称取新鲜叶片粉末 $1 . 0 \ \mathrm { g }$ ，加入 $10 \mathrm { m L } 1 \%$ 盐酸甲醇溶液，于 $3 2 ^ { \circ } \mathrm { C }$ 恒温培养箱中浸提 $5 \mathrm { h }$ ，过滤，将滤液稀释5倍。利用双光束分光光度计测定 $5 3 0 \mathrm { n m }$ 和 $6 5 7 \mathrm { n m }$ 处的吸光值，计算花色苷含量。
+
+# 1.5数据分析
+
+采用Excel2016对叶片结构和光合作用参数数据进行常规统计和作图。运用 SPSS19.0软件对不同变色时期叶片结构和光合作用参数进行方差分析和多重比较（采用邓肯氏新复极差法)，并进行叶片结构与光合作用参数相关性分析。所有分析显著性水平均设定为 $\scriptstyle \mathtt { \alpha } = 0 . 0 5$ 。
+
+# 2结果与分析
+
+# 2.1枫香叶色变化过程中叶片结构特征变化
+
+枫香叶片为阔卵形，薄革质，掌状3裂，为典型的异面叶。横切面观，枫香叶片叶肉由栅栏组织和海绵组织组成，栅栏组织由2层排列整齐、紧密的柱状细胞组成，海绵组织由3\~4层形状不规则细胞组成，细胞大小不等，间隙大，排列疏松；表皮由上表皮和下表皮组成，上表皮由1层椭圆形细胞紧密排列组成，下表皮由1层长条形或椭圆形细胞紧密排列组成（图2)。
+
+![](images/e6c82b4308aa32836ffa981568da13bf5c1c3646f8ed2e2e5c6e18eec9f2e05a.jpg)  
+Uep.上表皮；Lep.下表皮；Pt.栅栏组织；St.海绵组织；Va.液泡。
+
+Uep. Upper epicuticle;Lep.Lower epidermis; Pt.Palisade tissue; St. Spongy tissue; Va. Vacuole.
+
+Fig.2 Anatomical structure of mesophyl of Liquidambar formosana leaves at different discoloration stages
+
+不同变色期枫香叶片厚度、上表皮厚度、栅栏组织厚度以及海绵组织厚度均差异显著（ $\cdot P { < } 0 . 0 1 \$ ，下表皮厚度和栅海比差异不显著（ $\cdot P { > } 0 . 0 5 )$ （图3)。随着叶片逐渐由绿变红，叶片厚度、上表皮厚度、栅栏组织厚度以及海绵组织厚度均逐渐减小，下表皮厚度和栅海比呈波动性增减。S1时期，叶片厚度、上表皮厚度、栅栏组织厚度、海绵组织厚度、下表皮厚度以及栅海比分别为 $1 7 0 . 5 3 ~ { \mu \mathrm { m } }$ 、 $1 4 . 5 8 ~ { \mu \mathrm { m } }$ （ $8 2 . 1 8 ~ \mu \mathrm { m }$ 、62.70$\mu \mathrm { m }$ 、 $1 0 . 6 0 \mu \mathrm { m }$ 、1.32；至 S5 时期，分别为 $1 2 2 . 2 3 ~ \mu \mathrm { m }$ 、 $1 2 . 7 6 ~ \mu \mathrm { m }$ 、 ${ 5 3 . 0 1 \ \mu \mathrm { m } }$ 、 $4 5 . 5 9 \mu \mathrm { m }$ 、 $9 . 2 3 \ \mu \mathrm { m }$ 、1.17,较 S1时期分别减小 $3 1 . 8 \%$ 、 $3 6 . 6 \%$ 、 $28 . 3 \%$ 、 $12 . 5 \%$ 、 $3 5 . 5 \%$ 、 $2 7 . 3 \%$ 、 $12 . 9 \%$ 、 $1 1 . 4 \%$ 。
+
+![](images/a886c70bb3cdd0b5e9ffb18fa97d7077c032fae0dcca24b4e6caee0cac1662a0.jpg)  
+图2不同变色时期枫香叶片叶肉解剖结构  
+图3不同变色期叶片横切面结构特征参数
+
+同一颜色柱子上不同小写字母表示差异显著（ $\scriptstyle \cdot { \cal P } < 0 . 0 5 .$ 。下同。
+
+Different lowercase letters on columns of the same color indicate significant differences.The same below.
+
+Fig.3 Changes of leaf anatomical structure in different discoloration stages
+
+通过扫描电子显微镜观察发现，枫香叶片气孔仅分布于下表皮，气孔器形状呈近圆型或椭圆形、外凸，排列方式不规则（图4)。由图5可知，不同变色时期枫香叶片气孔开度、气孔器长、气孔器宽、单个气孔器面积均差异显著（ $( P { < } 0 . 0 5 )$ ，其中，随着叶片逐渐变红，气孔开度逐渐减小，S1时期最大，为 $2 8 . 3 3 ~  { \mu \mathrm { m } } ^ { 2 }$ ，至 S5 时期减小为 $1 5 . 1 2 \ \mu \mathrm { m } ^ { 2 }$ ；气孔器长、单个气孔器面积逐渐增大，均在 S1时期最小，分别为 $1 8 . 5 4 \mu \mathrm { m }$ 、$2 5 9 . 2 1 ~ \mu \mathrm { m } ^ { 2 }$ ，至S5时期分别增大为 $2 1 . 9 0 ~ \mu \mathrm { m }$ 、 $3 7 7 . 9 7 \ \mu \mathrm { m } ^ { 2 }$ ；气孔器宽呈波动性增减，在S5时期最大，为$2 1 . 9 9 \mu \mathrm { m }$ ，S1时期最小，为 $1 7 . 7 7 \mu \mathrm { m }$ 。
+
+Sa.气孔器。
+
+![](images/5b2a3c48667e8d3ebe6fdcc9f24b9f5352fe482b58f88c10c4c05c028ad04eb9.jpg)  
+图4不同变色期枫香叶片气孔分布特征
+
+Sa.Stomatal apparatus.
+
+Fig.4 Stomatal distribution characteristics ofLiquidambar formosana leaves at different discoloration stages
+
+![](images/fe0a70b6b2dca458c107d4b5c84d2d6241fbc614c08be1962d654f995465bfe3.jpg)  
+图5不同变色期枫香叶片气孔特征  
+Fig.5 Stomatal characteristics of $L$ . formosana leaves under different discoloration stages
+
+# 2.2枫香叶色变化过程中光合作用日变化
+
+由图6可知，枫香叶色变化过程中，各时期叶片净光合速率（ $\cdot P _ { n }$ ）日变化差异明显。其中，S1和 S2时期叶片 $P _ { n }$ 日变化趋势一致，均为双峰型，均在11:00 时和15:00 时达到高峰，13:00 时出现光合“午休”现象；S3、S4、S5 时期叶片 $P _ { n }$ 日变化趋势一致，均为单峰型，S3 时期， $P _ { n }$ 在11:00 时达到高峰，S4 和S5时期 $P _ { n }$ 均在13:00时达到高峰。各时期叶片胞间 $\mathrm { C O } _ { 2 }$ 浓度（ $C _ { i }$ ）日变化趋势基本一致，均先降低后升高。其中，S1、S2、S4、S5时期叶片 $C _ { i }$ 均在13:00 时达到最小值，而 S3在11:00 时达到最小值。各时期叶片气孔导度（ $G _ { s }$ ）日变化均呈先升高后降低的趋势。其中，S1、S2、S3时期 $G _ { s }$ 在11:00 时达到最大值，S4和S5 时期 $G _ { s }$ 在15:00时达到最大值。各时期叶片蒸腾速率（ $T _ { r } .$ ）日变化趋势不一。其中，S1和 S2 时期 $T _ { r }$ 日变化呈波动性升降，均在11:00 时达到最大值，S3、S4、S5 时期 $T _ { r }$ 日变化均呈先升高后降低的趋势，均在11:00 时达到最大值。
+
+![](images/52b250a5788d10f37a0635a48075a72a1403a2447cb862ec1b2949745534c167.jpg)  
+图6不同变色期枫香净光合速率 $( P _ { n } )$ 、胞间 $\mathrm { C O } _ { 2 }$ 浓度 $( C _ { i } )$ 、气孔导度（ $G _ { s } )$ 、蒸腾速率（ $T _ { r }$ ）日变化Fig.6 Diurnal variation of net photosynthesis rate $( P _ { n } )$ , intercellular $\mathrm { C O } _ { 2 }$ concentration $( C _ { i } )$ ,stomatal conductance（2号 $\left( G _ { s } \right)$ and transpiration rate $( T _ { r } )$ of $L .$ formosana under different discoloration stages
+
+就光合作用参数的日均值比较，叶片 $P _ { n }$ 大小排序为 $\mathrm { S 1 } > \mathrm { S 2 } > \mathrm { S 3 } > \mathrm { S 4 } > \mathrm { S 5 }$ ， $C _ { i }$ 大小排序为 $_ { \mathrm { S 5 > S 4 > S 3 } }$ ${ > } \mathrm { S } 2 { > } \mathrm { S } 1$ ， $G _ { s }$ 大小排序为 $\mathrm { S 1 } > \mathrm { S 2 } > \mathrm { S 3 } > \mathrm { S 4 } > \mathrm { S 5 }$ ， $T _ { r }$ 大小排序为 $\mathrm { S 1 } > \mathrm { S 2 } > \mathrm { S 3 } > \mathrm { S 4 } > \mathrm { S 5 }$ 。方差分析表明，不同变色时期枫香叶片 $P _ { n }$ 、 $C _ { i }$ 、 $G _ { s }$ 、 $T _ { r }$ 日均值差异均显著（ $\scriptstyle P < 0 . 0 5 ,$ ）（表1）。
+
+表1不同变色期枫香叶片光合作用参数的日均值  
+Table 1 Daily mean value of photosynthesis parameters of $L$ formosana leaves under different discoloration stages   
+
+<html><body><table><tr><td>变色时期 Discoloration period</td><td>净光合速率Pn (umol·m-2·s-1)</td><td>胞间CO浓度Ci (μmol·mol-1)</td><td>气孔导度Gs (mol·m-2·s-1)</td><td>蒸腾速率 Tr (mmol-m-2·s-1)</td></tr><tr><td>S1</td><td>3.81 ± 0.03e</td><td>256.00 ± 2.63a</td><td>0.11 ± 0.01c</td><td>1.54 ± 0.02d</td></tr><tr><td>S2</td><td>3.41 ± 0.03d</td><td>276.55 ± 2.43b</td><td>0.10 ± 0.01bc</td><td>1.32 ± 0.02c</td></tr><tr><td>S3</td><td>2.45 ± 0.03c</td><td>320.82 ± 1.52c</td><td>0.08 ± 0.01ab</td><td>0.94 ± 0.03b</td></tr><tr><td>S4</td><td>1.38 ± 0.02b</td><td>345.96 ± 2.09d</td><td>0.07 ± 0.01a</td><td>0.82 ± 0.02a</td></tr><tr><td>S5</td><td>1.13 ± 0.03a</td><td>363.88 ± 3.30e</td><td>0.06 ± 0.01a</td><td>0.75 ± 0.03a</td></tr><tr><td>P</td><td>**</td><td>**</td><td>**</td><td>**</td></tr></table></body></html>
+
+注：数据为平均值 $\pm$ 标准误。同一列不同小写字母表示差异显著（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )。\*\*表示在0.01水平上差异显著。Note:Data shown are the mean $\pm$ SE.Different lowercase letters in the same column indicated significant differences $( P { < } 0 . 0 5 )$ \*\* shown significant diference at 0.01 level.
+
+# 2.3 枫香叶色变化过程中叶片色素含量变化
+
+由图7可知，不同变色期枫香叶片叶绿素a、叶绿素b、类胡萝卜素、花色苷含量均差异显著 $( P { < } 0 . 0 5 )$ 。随着叶色逐渐变红，叶绿素a、叶绿素b含量均表现出持续减少的趋势，花色苷则持续增加，类胡萝卜素无明显变化规律。S1时期叶绿素a、叶绿素b、类胡萝卜素、花色苷含量分别为 $0 . 4 6 9 \mathrm { m g } { \cdot } \mathrm { g } ^ { - 1 }$ 、 $0 . 3 1 9 \mathrm { m g } { \cdot } \mathrm { g } ^ { - 1 }$ 、$0 . 9 7 3 \ \mathrm { m g } \cdot \mathbf { g } ^ { - 1 }$ 、 $0 . 1 5 5 \mathrm { m g } { \cdot } \mathrm { g } ^ { - 1 }$ ；S5 时期，叶绿素a、叶绿素 $\boldsymbol { \mathbf { b } }$ 、类胡萝 $\vdash$ 素、花色苷含量分别为 $0 . 1 8 9 \mathrm { m g } { \cdot } \mathbf { g } ^ { - 1 }$ 、（20 $0 . 0 8 6 \ : \mathrm { m g \cdot g ^ { - 1 } }$ 、 $2 . 3 4 8 \ \mathrm { m g \cdot g ^ { - 1 } }$ 、 $0 . 1 1 3 \mathrm { \ m g { \cdot g ^ { - 1 } } }$ ，较 S1时期叶绿素a、叶绿素 $\boldsymbol { \mathbf { b } }$ 、类胡萝卜素含量分别减小 $5 9 . 6 \%$ 、$7 3 . 0 \%$ 、 $14 . 5 \%$ ，花色苷含量增加 $41 . 3 \%$ 。随着叶片逐渐变红，各色素含量百分比变化明显，其中叶绿素a、叶绿素 $\boldsymbol { \mathbf { b } }$ 百分比逐渐减小，至S5时期仅占总色素的 $9 . 8 \%$ 、 $4 . 4 \%$ ；类胡萝卜素百分比先增后减，在S2 时期占比最大，为 $9 . 8 \%$ ，至S5时期仅占 $5 . 8 \%$ ；花色苷百分比逐渐增加，至S5时期占总色素的 $50 . 8 \%$ 。
+
+![](images/12d16d688438870ea3a7179582aca983dd1b2882d711f44af504e58fe02bc022.jpg)  
+图7不同变色时期枫香叶片色素含量  
+Fig.7 Pigment content of $L$ .formosana leaves at different discoloration stages
+
+# 3讨论与结论
+
+枫香叶片变色过程中，表皮细胞均为椭圆形紧密排列，未观察到明显的细胞变异，其上也未出现绒毛和蜡质等明显的附着物，且上表皮细胞与栅栏组织细胞间排列紧密，没有出现较大的气室。因此，枫香叶片变红与其表皮细胞结构及其细胞排列方式无关，与苏佳露等（2020）对6个彩叶竹种叶片解剖结构研究和孙旺旺等（2020）对金叶连翘（Forsythia koreana‘Sun Gold'）不同叶色解剖结构的研究结果相一致。除了表皮型和空隙型2种结构类彩叶外，一些植物彩叶的结构与正常绿色叶片相比差异显著。本研究结果表明，枫香叶片不同变色期结构差异显著，其中，枫香叶片变色过程中其厚度、栅栏组织和海绵组织逐渐减小，与金叶连翘叶片由绿转黄过程中叶片结构变化相类似（孙旺旺等，2020)），而与梁玲等（2020）对不同色彩珙桐（Davidiainvolucrata）叶片解剖结构研究结果相反，可能是因为珙桐为阴性树种（梁玲等，2020)，而枫香为阳性树种，二者对环境的适应策略不同。相关研究表明，落叶树种在叶片衰老、变色过程中，大部分可溶性糖、氮、磷等营养元素会被回收、转移至线粒体，为叶片脱落或失去光合能力后，通过线粒体呼吸维持冬季正常生理代谢提供能量（Keskitalo et al.,2005; Zhang et al.,2013)。因此，枫香叶片变色过程中叶片厚度、栅栏组织和海绵组织厚度逐渐减小可能是由于营养物质被回收、转移所致。
+
+栅栏组织和海绵组织是叶绿体的主要合成部位，栅栏组织和海绵组织厚度减小势必会导致叶绿体数量和叶绿素含量减少，叶片光合能力降低，在秋冬季节低温和强光条件下，最终导致光能的过剩，产生大量活性氧自由基，破坏植物叶片的光合机构，造成光抑制甚至光破坏，而花色苷能够吸收绿光和紫外光，反射红光和蓝光，从而起到滤光和消除活性氧、防止强光氧化胁迫和降低光抑制的作用（Zhang et al.,2011;Junker& Ensminger,2016)。本研究结果表明，随着叶片逐渐变红，栅栏组织和海绵组厚度逐渐减小，细胞排列逐渐松散，叶绿素含量减少，净光合速率随之逐渐降低，花色苷含量逐渐增加，至 S4和S5时期，第二层栅栏组织明显退化，此时，叶片叶绿素含量和净光合速率大幅下降，花色苷含量迅速升高，且栅栏组织细胞内出现大量液泡（图2），Le et al.（2003）研究指出红色叶片花色苷仅分布在栅栏组织柱状薄壁细胞的液泡中。说明在叶片变色后期（ $_ { \mathrm { S 4 \sim S 5 ) } }$ ，可能出现光抑制甚至光破坏，致使叶片在栅栏组织细胞的液泡中合成大量花色苷以降低光抑制和光破坏，而大量花色苷的积累直接致使叶片变红。因此，叶绿素含量降低，花色素苷大量积累是导致枫香叶片变红的直接原因，枫香红色叶片属于色素型彩叶。
+
+气孔是植物叶片与外界环境进行 $_ \mathrm { H _ { 2 } O }$ 和 $\mathrm { C O } _ { 2 }$ 等气体交换的门户，气孔开度和气孔器大小直接影响植物水分状况及 $\mathrm { C O } _ { 2 }$ 同化（Hetherington&Woodward,2003）。相关研究表明，气孔控制水分和 $\mathrm { C O } _ { 2 }$ 的进出，是调节光合作用和蒸腾作用的关键所在，气孔开度减小，能减少蒸腾损失，但气孔阻力增加， $\mathrm { C O } _ { 2 }$ 进入叶片受阻，导致光合速率下降（Peeva&Cormic,2009；可静等，2017)。本研究结果表明，枫香叶片变色过程中，气孔开度逐渐减小，而胞间 $\mathrm { C O } _ { 2 }$ 浓度逐渐增加，说明枫香叶片气孔开度减小。虽然减少了 $\mathrm { C O } _ { 2 }$ 进入叶片的量，但叶片内被光合作用转化的 $\mathrm { C O } _ { 2 }$ 量少于进入叶片 $\mathrm { C O } _ { 2 }$ 的量，进而致使叶片内 $\mathrm { C O } _ { 2 }$ 浓度逐渐增加（Zhanget al.,2013)。因此，枫香叶片光合速率减小，并不是由于气孔开度减小，进入叶片的 $\mathrm { C O } _ { 2 }$ 受阻所引起，可能是由于秋冬季节干燥少雨，枫香通过减小气孔开度来增加气孔阻力以减少了叶片水分散失，阻碍水分亏缺（文志等，2014)。Casson＆Gray（2008）认为气孔大小主要受温度影响，温度降低气孔器长宽指数则增大；费松林等（1999）认为气孔器大小与最冷月温度有关，温度越低，气孔器越大，枫香叶片变色过程中气孔器增大可能是为适应外界低温环境。因此，枫香叶片变色过程中气孔器形态特征变化是为了适应环境，与其叶色变化无明显的直接关系，是否存在其他或更深层次的关系还有待进一步研究。
+
+综上所述，枫香叶片变红过程中表皮细胞未出现明显的变异以及绒毛和蜡质等附着物，且上表皮细胞与栅栏组织细胞间排列紧密，没有出现较大的气室，因此，枫香不属于结构类彩叶。枫香叶片变红是由于枫香为回收、转移营养物质，叶片厚度和栅栏组织、海绵组织厚度减小导致叶绿体数量和叶绿素含量减少，光合能力下降，在受到光抑制和光破坏时，合成大量花色苷来自我保护所引起，属于色素型彩叶。因此，枫香叶片变红是其一系列生理结构特征综合作用的结果，这些"特征综合体"反映了枫香对环境的适应以及资源利用策略。
+
+# 参考文献
+
+CASSON S,GRAYJE,2008.Influence ofenvironmental factors onstomatal development[J].NewPhytol,178:9-2.   
+DU WW,CUGF,WANGH,eta19.Efectsofflarvriegationstructurenleafolorinegoiagulinqngesis[Juia 39(6):812-820.[杜文文，崔光芬，王继华，等,2019.古林箐秋海棠叶斑结构对叶色的影响[J].广西植物,39(6):812-820.]   
+FEI SL,FANGJ,FAY,etal.99.AatomicalharacteristicsofleavesandwoodsofFaguslucidandtheirelatioto ecological factors inmountainFanjingshan,Guizhou,China[J].Acta BotSin,41(9):1002-109.[费松林，方精云，樊拥军，等, 1999．贵州梵净山亮叶水青冈叶片和木材的解剖学特征及其与生态因子的关系[J]．植物学报,41(9):1002-1009.]   
+FENGL,WUJUQ,etal.,7.eafoloaracteristicsdpotosyeticaracteristicsofuple-edLget indica EbonyEmber'[J].JBeijing ForUniv,39(12):93-101.[冯露，吴际洋，鞠易倩，等,2017．紫叶紫薇呈色生理及光合特 性研究[J]．北京林业大学学报,39(12):93-101.]   
+GUOLJ,DUJWUP,etal.,l7.otosytheticharacteristicsofEmmenopteryshnyisedlingsandteirelatiosisith environmental factors[J].Chin JApplEcol,28(5):1473-1481.[郭连金，杜佳朋，吴艳萍，等,2017.香果树实生苗的光合特性 及其与环境因子的关系[J]．应用生态学报,28(5):1473-1481.]   
+HETHERINGTONAM,WOODWARDFI,2003.Theroleofstomata insensing and environmentalchange[J].Nature,424:90-908.   
+JUNKERLV,EGERI16.Relatioshipetween leafticalproperties,orophyluorescenceandpigmntgsi senescing Acer saccharum leaves[J]. Tree Physiol, 36(6): 694-711.   
+KEJ,LIJ,LVH,al,7.CangeofstatalperueadulrasuctueoLuuthicumu.leavesudent conditions[J].Arid Zone Res,34(6):1362-1370.[可静，李进，吕海英，等,2017.不同条件下黑果枸杞叶片气孔开度和超微结 构的变化[J].干旱区研究,34(6):1362-1370]   
+KESKITALOJERGQUTG,GRDESTRP,etal.,05.Acelulartimetable ofautumsnescene[J].Planthyiol,9(4): 1635-1648.   
+KYTRIDIS VP,MANETASY,2006.Mesophyllversusepidermalanthocyanins aspotential invivoantioxidants: evidence linking the putative antioxidant role to the proximity of oxy-radical source[J]. JExp Bot,57: 2203-2210.   
+LEEDW, KEEFEJ. HOLBROOK NM,et al.,2O03.Pigment dynamicsand autun leaf senescence ina New Englanddeciduous forest, eastern USA[J]. Ecol Res,18(6): 677-694.   
+LI HS,20oo.Experimental principlesand techniquesofplantphysiologyandbiochemistryM].Beijing:Higher EducationPress: 130-134.[李合生,2000．植物生理生化实验原理和技术[M]．北京：高等教育出版社:130-134.]   
+LI WX,YANG XB,HEZC,et al.,2017.Research advances intheregulatorymechanismsof leafcoloration[J].Acta Hortic Sin, 44(9):1811-1824.[李卫星，杨舜博，何智冲，等,2017．植物叶色变化机制研究进展[J].园艺学报,44(9):1811-1824.]   
+LIANGL,HUANG YQ,CHENXH,2020.Anatomical tructure and pigment content of Davidia involucrate leavesand bracts with diferent colors[J].Acta Bot Boreal-Occident Sin,40(9):1539-1548.[梁玲，黄玉琼，陈小红,2020.不同色彩琪桐叶片和苞片 解剖结构及色素含量比较研究[J]．西北植物学报,40(9):1539-1548.]   
+LIU R,YUANQQ,YUANXP,etal.,2017.Therelationshipwithchangeof pigmentcontent in leavesofdifferentLiquidambar formosana families and change ofleaf color[J].SChinFor Sci,45(4):46-49.[刘儒，原勤勤，袁小平，等,2017．不同枫香家系 叶片色素含量变化及其与叶色变化的关系[J]．南方林业科学,45(4):46-49.]   
+LIU XS,XIAOY,WANGY,etal.,220.Anatomical structuresof vegetativeorgansofKeteleria fortunei (Mur.)Carvar. cyclolepis (Flous)Silbaand its ecological adaptability[J].Plant SciJ,38(1):39-46.[刘雄盛，肖玉菲，王勇，等,2020.江南油杉 营养器官的解剖结构及其生态适应性[J]．植物科学学报,38(1):39-46.]   
+LUO ZD,GUAN HD,ZHANG XP,et al.,2016.Changes in photosyntheticcapacity during leaf senescence of Liquidambar formosana[J].Chin JAppl Ecol,27(10):3129-3136.[罗紫东，关华德，章新平，等,2016．枫香叶片衰老过程中光合能力的变 化[J]．应用生态学报,27(10):3129-3136.]   
+PEEVA V,CORNIC G,2009.Lea photosynthesisof Haberlearhodopensisbeforeand during drought[J].Environ ExpBot,65: 310-318.   
+QI HY,LIUY.ctofaercittotalractedrscurfoastiotes[] Acta Bot Boreal-Ocident Sin,2009,29(1):9-15.[齐红岩，刘洋，刘海涛,2009．水分亏缺对番茄叶片气孔特性及叶绿体超微 结构的影响[J]．西北植物学报,29(1):9-15.]   
+ROCCA LN,RASCION,UPILLOP,2011. VariegationinArumitalicum leaves.Astructural-functional study[J].PlantPhysiol Bioch,49(12): 1392-1398.   
+SHEUE CR,PAOSH,CHIENLF,et al.,2012.Natural foliarvariegation withoutcostsThecaseofBegonia[J].AnnBot,109: 1065-1074.   
+SUJL,SHI W,YANGYY,etal,2.Comparisonofafcolorandpigmentontentadobservatioofleafstrctureatent growth stages from six bambo species[J].Sci Silva Sin,56(7):194-203.[苏佳露，史无双，杨雅运，等,2020.6个竹种叶色与 光合色素含量及叶片结构比较[J]．林业科学,56(7):194-203.]   
+SUN WW,MENGXM,XUXY,etal.,2020.ContentsofpigmentsandanatomicalstructureintheleavesofForsythia koreana‘Sun Gold'[J].BullBot Res,40(3):321-329.[孙旺旺，孟宪敏，徐秀源，等,2020.金叶连翘叶片色素含量和解剖结构研究[J]．植 物研究,40(3):321-329.]   
+WANG DX,DEYJ,SHX,etal.,2O17.ChangeofleafcoloroffourLiquidambarfrmosanafmiliesunderdiferentenvroental conditions[J].Fore Res,30(3):503-510.[王冬雪，德永军，施翔，等,2017.4个枫香家系在不同环境下的叶色变化[J]．林业科 学研究,30(3):503-510.]   
+WANGDX,SUNH,DEY,etal.,2019.Changeof leafcolorofLiquidambarformosanasedlingsunderdiffrentlightquality treatments[J].Fore Res,32(4):158-164.[王冬雪，孙海菁，德永军，等,2019.不同光质处理对枫香幼苗叶色的影响[J]．林业 科学研究,32(4):158-164.]   
+WANG ZF,YUYF,CHENL,etal.,016.Advancesileafpigmentcomposition,tructureandphotosyntheticcharacteristicsof colored-leaf plants[J].JPlant Physiol,52(1):1-7.[王振兴，于云飞，陈丽，等,2016．彩叶植物叶片色素组成、结构以及光合特 性的研究进展[J]．植物生理学报,52(1):1-7.]   
+WEN Z,WANGL,WANGXK,etal.,2014.Combined efectsofozoneanddroughtonleaf stomataofAcertruncatum[J].ChinJ Ecol,33(3):560-566.[文志，王丽，王效科，等,2014. $\mathrm { O } _ { 3 }$ 和干旱胁迫对元宝枫叶片气孔特征的复合影响[J].生态学杂志, 33(3): 560-566.]   
+ZHANG KM,WANGXM,CUIJX,et al.,2011Characteriticsof gas exchange andchlorophyllfluorescence inredandgreen leaves of Begonia semperflorens[J]. Biol Plantarum. 55(2): 361-364.   
+ZHANG YJ,YANGQY,LEEDW,etal.,2013Extended leafsenescence promotescarbongainandutrientresoption:ortance of maintaining winter photosynthesis in subtropical forests[J]. Oecologia,173(3): 721-30.

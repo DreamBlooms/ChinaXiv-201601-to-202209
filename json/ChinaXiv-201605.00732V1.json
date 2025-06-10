@@ -1,0 +1,458 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:24 November 2015   \nAccepted:05 February 2016   \nPublished: 26 February 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PS341 inhibits hepatocellular and colorectal cancer cells through the FOXO3/CTNNB1 signaling pathway ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZhaoYang1,2,7,\\*, Shengwu Liu3,4,\\*, Mingao Zhu5, Hong Zhang5, JiWang5, Qian $\\mathsf { \\mathbf { x } } \\mathsf { \\mathbf { u } } ^ { 5 }$ ,Kaisu Lin5, Xiumin Zhoul,Min Tao¹,Chong $L i ^ { 1 , 6 } \\&$ Hong Zhu1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hepatocellular carcinoma (HCC)and colorectal cancer (CRC)are among the most common cancers across the world.Particularly,a large number of patients with CRC also have liver metastasis.Currently, there are just a few targeted drugs against these two kinds of tumors which can only benefit a very small population ofpatients.Therefore,the need of more efective therapeuticdrugs or strategies for these two types of cancers is urgent.PS341(Bortezomib)is the first proteasome inhibitor drug which has been approved in clinical treatment for multiple myeloma. Here we demonstrated that PS341 negativelyregulated HCCand CRCboth in vitro and in vivo, including the inhibition of cellproliferation, epithelial-mesenchymal transition (EMT),the expression of stemness-related genes,cell migration and invasiveness.Mechanically, PS341 upregulated the expression of FOXO3,which inhibited the transcriptional activation of CTNNB1.The downregualtionofCTNNB1 led to apoptosis,cellcycle arrest, and the inhibition of migration,invasion,self-renewal and tumor formation of these two cancer types. In sum,ourfindings shed lighton the PS341 mediated targeted therapy against both HCC and CRC in the future. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hepatocellular carcinoma (HCC) is the sixth most common cancer worldwide and the most common liver cancerl.Due to high prevalence of HBVand HCV infection,alcoholism and obesity,the incidence of HCC is dramatically increasing in the US,Europe and Asial,2 Surgery is stil the current mainstay of HCC treatment. Unfortunately, there was adramatic reduction in the mortality only in some wel-selected HCC patients.While in other patients,the rates of tumor metastasis and recurrence were stillvery highand these patients showed a relative shortlifespan evenafter surgery.Moreover,inthe aspectofchemicaltreatment,HCC is non-sensitive to mostof anticancer drugs for either genetic oracquired chemoresistance3.Therefore itisof high importance to develop a targeted HCC therapy which can interfere with some specific molecules in tumor cellproliferation and survival. Anoralinhibitor for multi kinases,Sorafenib,was approved in USAand Europe to treat advanced HCC patients4.However, there is nota satisfactory role that Sorafenib is playing in treatment of other stages of ${ \\mathrm { H C C } } ^ { 5 }$ So it is highly meaningful to develop novel and potent molecular targeted drugs for HCC. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In western countries such as Europe and USA,primary HCC is less common than liver metastases which mostly develop from colorectal cancers (CRCs)6.Colorectal cancer isone ofthe largest reasons for morbidity and mortality caused by cancers67.Liver diseases were found in about $7 7 \\%$ of patients affected with metastatic ${ \\mathrm { C R C s } } ^ { 6 }$ .There are currently three drugs together with four available drugs for targeted therapy against metastatic colorectal cancer8.However,alltese drugs can only benefit asmall group of patients depending on teir genetic signatures and thus many new targeted drugs are in urgent need to be developed in the future8. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PS341 is not only the first proteasome inhibitor applied in clinical treatment but also the only molecular targeted drug which has been approved to treat recurrent and refractory multiple myeloma'.PS341 can suppress the ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1DepartmentofOncology,the FirstAfliated HospitalofSoochow University,Suzhou,215006,China.2CAS Key LaboratoryofPathogenic Microbiologyand Immunology,Instituteof Microbiology, ChineseAcademyofSciences, Beijing100101,China.3DepartmentofMedicine,HarvardMedicalSchool,Boston,MA02115,USA.4Departmentof MedicalOncology,Dana-FarberCancer Institute,Boston,MA02215,USA.5DepartmentofOncology,theSecond Affliated HospitalofSoochowUniversity,Suzhou2150,China.aboratoryAnimalCenter,InstituteofBiopsics, Chinese AcademyofSciences,Beijing10101,China.7CAS KeyLaboratoryof Infectionand Immunity,Instituteof Biophysics, ChineseAcademyofSciences,Beijing100l01,China.\\*These authorscontributed equalytothis work. Correspondence and requests for materials should be addressed to C.L.(email:lichong@moon.ibp.ac.cn)or H.Z. (email: zhuhong_jasmine@suda.edu.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "proteasome-mediated degradation of pro-apoptotic and anti-apoptotic proteins,thus directly inducing cancer cell apoptosis10.Moreover,italsodownregulates VEGF expression toindirectlyinhibit angiogenesis inmultiple myelomal0,1l Basedon its inhibitory mechanism PS34lis also suitable for many other solid tumors besides multiple myeloma9.Although some studies indicated that PS34l either alone or in combination had unsatisfactory clinical activities in phase II studies in patients with hepatocellular carcinoma or colorectal cancerl2,13. However, there is litle research fully clarifying the mechanisms of PS341 in HCC and CRC therapy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here in our research,we aimed to explore whether PS34l can eficientlyinhibit the proliferation,migration and invasion of HCC and CRC cells and disclose the influence of PS341 on HCC and CRC cells.Our results showed clearlythat PS34l could significantly suppress the proliferation,migration,EMTand the expressionof stemness-related gene ofHCCand CRCcells both in vitro and in vivo with the upregulation ofFOXO3 and downregulation of CTNNB1,which shed some light on the future HCC and CRC treatment based on PS341. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PS341 specifically inhibits the growth and promotes the apoptosis of HCC and CRC cells. In order to identify the potential roleofPS34linHCCand CRCtherapy,we first examined the functionof PS34l in two HCC celines HepG2 and Huh7and two CRCcelines HT29 and LoVo,respectively.We cultured each cel line with different concentration of PS341 for 24,48 or $7 2 \\mathrm { h }$ and then analyzed the cell viability with the method of cellcounting kit-8.The growth ofboth HCCand CRCcels (Fig.la,left)was inhibitedbyPS34l inadoseand time dependent way.In contrast, cell growth remained almost the same for an immortalized normal liver cell line L02 and a normal colon celline FHC (Fig.la, middle). In the following, more HCCand CRC cells were tested with $1 0 \\mathrm { n M }$ PS341 for $7 2 \\mathrm { h }$ . It indicated the cell proliferation of HCC lines 97L,97H and M3 and CRC cells SW620,SW480 and LS180 were also inhibited remarkably(Fig.la,right).Thesedata showed thatPS34l specifically suppressed the growth of HCC and CRC cells but not normal cells in vitro. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Apoptosis and mitosis are closelylinkedand balanced incellcycle.We further investigated the roleof PS341 in cell death of HCC and CRC cells. Using FACS assay with Annexin V/PI staining,we found apoptosis could be significantly induced only in HCCand CRC cell but not within normal cellines L02 and FHC(Fig.1b)when treated with PS341.Whats more,we also observed dramatic apoptosis ofHCCand CRCcells ratherthan normal cels induced by PS341 with Hoechst33342 staining in which the white arrow indicated the cells undergoing DNA fragmentation and apoptosis (Fig.1c).In the DNA ladder experiments, HCC and CRC cells displayed the remarkable DNA fragments than the normal cellines LO2 and FHC (Fig.1d,left panel).The percent of apoptosis cels was estimated bya colorimetric assay to measure the amount of DNA fragmentation induced by PS341.PS341 significantly stimulated te apoptosis of HCCand CRCcels rather than normalcellines LO2 and FHC by increase inabsorbance corresponding to the increase inapoptotic DNA fragments (Fig.1d,right panel). Collectively, these in vitro data indicated PS341 could induce specific apoptosis and suppression of proliferation of HCC and CRC cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PS341 downregulates the migration and invasion capabilities of HCC and CRC cells. Migration and metastasis are hallmarks ofcancer development14and we further detected the function ofPS34l in the migration of HCC and CRCcels.The migration of cultured HCCand CRCcells were significantly inhibited by PS341 in the wound-healing process after scratch (Fig.2a).And in the celladhesion assay, the cels were plated in the laminin coated wells and incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { h } }$ with/without $1 0 \\mathrm { n M }$ PS341.Adherent cells were fixed with $4 \\%$ formaldehyde and stained with crystal violet.We also found PS341 could greatly decrease thecellatachment to laminin in both HCCand CRCcells(Fig.2b).In consistent with the data inwound-healing assay,PS341 could also very effectively suppressthe migration of HCC and CRC cells in transwellassays (Fig. 2c). With the treatment of PS341,the abilityof invasion through matrigel of HepG2,Huh7,HT29and LoVo cancer cels also significantlydecreased (Fig.2d).As type IVcollagenases,matrix metalloproteinase 2(MMP2)and MMP9 are activated in manytumors andare associated with the increased transfer capacityfor these tumors15.Ourdata also indicated that PS341 treatment largely decreased the expression of both MMP2 and MMP9 in HCC and CRC cell (Fig.2e),thus restricting the migration capacities ofthese two tumor types.Taken together,PS34l could effectively suppress the migration and invasion capabilities of HCC and CRC cells in vitro. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PS341 suppresses the epithelial-mesenchymal transition of HCC and CRC cells. The epithelial-mesenchymal transition (EMT) is a key processfor epithelialcels to harbor mesenchymal properties and is closely engaged incancer invasion and metastasis16.To evaluate the effctof PS34l on this proces,we induced EMT of HCC and CRC cells with TGF- $\\cdot \\ 1 ^ { 1 6 , 1 7 }$ and found the cellines showed mesenchymal appearance, which was fibroblast-like(Fig.3a,middle).Whenadded withPS34l inthetreatment,however,thecancercell lines remained epithelial appearance,indicating that PS34l efficiently blocked EMT induced by TGF- ${ \\boldsymbol { \\cdot } } { \\boldsymbol { \\beta } } 1$ (Fig. 3a, right). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To further determine the inhibition of EMTby PS34l at the molecular levels,we detected the mRNA expression levels ofEMT markers including E-cadherin (ECAD),N-cadherin (NCAD),Vimentin (VIM),ZEB1,CD44 and POU5F1 with the treatment of TGF- $_ { \\cdot \\beta 1 }$ In the real-time polymerase chain reaction (RT-PCR)analysis,HCC and CRC cells underwent EMTwith the decreased expression of epithelial cellmarker ECAD18 and the increased expression of mesenchymal cell marker NCAD, VIM, ZEB1, CD44 and POU5F1 significantly16,19 (Fig. 3b). However, when treated with PS34l combined with TGF- $_ { \\cdot \\beta 1 }$ ,HCC and CRC cells regained the epithelial cell characteristicsand kept the same expresson levels ofEMTmarkers as control cells (Fig.3b).Theseresults indicated that PS341 could effectively inhibit the epithelial-mesenchymal transition of HCC and CRC cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We selected epithelial cell marker ECADand mesenchymal cell marker NCAD two significantly altered markers for further confirmation. In the PCR assay, PS341 suppressed the EMTof HCC and CRC cels by upregulating the expression of ECAD and downregulating the expression of NCAD, in which GAPDH was as the loading control (Fig.3c).Similarly,PS341 abrogated theEMTof HCCand CRCcels byupregulating the expressionof ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a N 王 1 (%) uomiqgu) 王 圣 重 亚 H 工 1 工 0 10nM20nM 5nM 10nM 20nM 5nM 10nM 20nM 1 王 1 LoVo 王 T (%) uoniqiqu + H 票 山 于 工 1 5nM 10nM20nM 5nM10nM20nM 5nM10nM20nM   \nb HepG2 Huh7 L02 0.54 0.95 1.41 T 格 s s01d 35.90 7 33.00 2.09 HT29 LoVo FHC 4.26 0.58 1.51 楼 P 34.70 34.50 2.10 FT2208080 SW Annexin-V   \nC HepG2 Huh7 L02 \\*\\* HT29 LoVo FHC \\* C   \nd \\*\\* 4 0今 、 5 \\*\\* \\*\\* 250bp 100bp .02 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcefe1ed56b357afc7bd678b60cc6f4ca929c492efca25a16334ecd6b3feadde.jpg",
+        "img_caption": [
+            "Figure 2.PS341 downregulates the migration and invasion capabilities of HCC and CRC cels.(a) PS341 reduces migration of HCC and CRC cels in wound-healing assays.DMSO or PS341 were added into the medium of HepG2,Huh7,HT29 and LoVo cels afterthe artificial wound.Migration rates were calculated by healing area/wound area $2 4 \\mathrm { h }$ later. Scale bar $= 5 0 \\mu \\mathrm { m }$ .(b) PS34l negatively regulates the adhesion of HCC and CRC cells to laminin.(c) PS341 significantly suppresss the migration of cancer cellines with transwell analysis.Scale bar $= 2 5 \\mu \\mathrm { m }$ .(d) PS34l significantly inhibits the invasion of cancer cell lines with boyden chamber analysis.Scale bar $= 2 5 \\mu \\mathrm { m }$ (e) PS341 decreases expression of MMP2 and MMP9 in HCC and CRC cells in the PCR andRT-PCR analysis.The ful-ength gels are presented in SupplementaryFig.1.The whole assay was repeated three times.Data are presented as mean $\\pm \\thinspace \\mathrm { S D }$ $^ { * } P < 0 . 0 5$ $^ { * * } P < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1050380be4c8bf16182d2775205a80bd2f42a5172a37c63ceec51059f784c1e2.jpg",
+        "img_caption": [
+            "Figure 3.PS34l suppresses the epithelial-mesenchymaltransitionof HCCand CRCcels.(a) PS341 reverses the EMT transition induced by TGF- ${ \\boldsymbol { \\cdot } } { \\boldsymbol { \\beta } } 1$ in HCC and CRC cells.Scale bar $= 2 5 \\mu \\mathrm { m }$ .(b) The RT-PCR analysis of the mRNA expression of ECAD,NCAD, VIM, ZEB1 CD44 and POU5F1 in HCC and CRC cell with TGF- $_ { \\cdot \\beta 1 }$ and PS341treatment.(c)The PCRanalysis ofthe mRNA expressionofthe epithelial marker E-cadherinand the mesenchymal marker N-cadherin was carried out in HCC and CRCcels with TGF-β1and PS341 treatment. (d)Protein expression levels ofE-cadherinand N-cadherin were carried outin HCCand CRCcells with TGF- ${ \\boldsymbol { \\cdot } } { \\boldsymbol { \\beta } } 1$ and PS341 treatment. (e)PS341 suppresses the proliferationand metastasis of HepG2 and HT29 cancer cells in the peritoneal spreading mice models. $2 \\times 1 0 ^ { 6 }$ luciferase-expressing HepG2 and HT29 cancer cells were injected intraperitonealy into NOD/SCID mice with the administration of S34l or DMSO twice a week,and the tumor cells were monitored once a week $( \\mathrm { n } = 5 )$ .The whole assay was repeated three times.Data are displayed as mean $\\pm \\mathsf { S D }$ TGF- $\\cdot \\beta$ : TGF ${ \\boldsymbol { \\cdot } } { \\boldsymbol { \\beta } } 1$ . The full-length blots/gels are presented in Supplementary Figs 1-3. $^ { * } P < 0 . 0 5$ ， $^ { * * } P < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ECAD and downregulating the expression of NCAD in the protein expression levels,in which $\\beta$ -actin was as theloading control(Fig.3d).Given thatPS34l inhibits migration and EMTof HCC and CRCcells in vitro,we next verified whether PS341 could suppressthe metastasis of HCC and CRCcels in vivo.pGL3overexpression HepG2 and HT29 cancer cells were applied in the peritoneal spreading mice models. $2 \\times 1 0 ^ { 6 }$ HepG2 and HT29 cells were intraperitoneally injected into NOD/SCID mice,and $0 . 5 \\mathrm { m g / k g } \\mathrm { P S } 3 4 1$ was administered twice per week tillseven weeks by intraperitoneal injections.Tumor growth was monitored by bioluminescence imaging usingthe Xenogen IVIS Lumina system (Xenogen Corporation,Hopkinton,MA) every week (Fig. 3e).These data indicated that PS341 markedly suppressed the growth and metastasis of HepG2 and HT29 cels in vivo (Fig.3e). Colectively,PS341 notonlyeffciently inhibited the migrationandEMTofHCCand CRCcels invitro,butalso significantly suppressed the propagation and metastasis of HepG2 and HT29 cancer cells in vivo. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PS341induces cell cycle arrest in HCC and CRC cells. Insensitivity to anti-growth signals is another hallmark ofcancerand there is aberrant regulationofcellcycle in tumor cells14.Cell cycleanalysis showed that both HCC and CRC cells were mostly arrested within the G0/G1 phase,indicating there was a reduced number of dividing tumor cells with PS341 treatment (Fig.4a).There were also fewer cels under S phase,showing that PS341 could inhibit DNA replication too (Fig. 4a). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cyclin D1/CDK4 complex is required for transition from G1 phase to S phase20,so we next checked the expression levels of Cyclin D1,CDK4and other cell cycle related markers such as CyclinA2,Cyclin B1,CDK1 and E2F1.In the RT-PCR analysis,we found PS341 suppressed the expresionofCyclin A2,Cyclin B1,Cyclin D1, CDK1,CDK4 and E2F1 in the mRNA levels in HCC and CRC cels, in which the expression of Cyclin Dl and CDK4 were remarkably inhibited (Fig. $^ \\mathrm { 4 b , c }$ ).Meanwhile,the protein expression levels of Cyclin D1 and CDK4 were also decreased in HCCand CRCcells under the treatmentof PS341(Fig.4d).Taken together,PS341 could negatively regulate the expression of Cyclin D1/CDK4 and thus induce the G0/G1 arrest in both HCC and CRC cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PS341 reduces the expression of stemness-related genes in HCC and CRC cells. Cancer stem cels or tumor initiating cellsareasmall portion ofcancer cellsand theyharbor the stem cell-like characteristics, which can give rise to allkinds ofcancer cells within a specific tumor2i. Unlike the normal cancer cels,the cancer stemcells can maintain their stemness through higher expression of some stem cellregulators and are more resistant to anti-cancer drugs21.Sphere-initiating capacity is one of the important features ofcancer stem cels21. In order to explore the function of PS341 in HCCand CRC stem cells,we employed cellines of both cancers in sphere formation assys.The results indicated PS341 significantly reduced sphere genesis in both HCC and CRC cells (Fig. 5a). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We further detected the expression of some reported stemnes-related genes in HCC and CRC stem cells including CTNNB1,HES1, SMAD4,GLI1, STAT3 and $B M I I ^ { 2 2 - 2 5 }$ in the cancer cellines with or without PS341 treatment.In the RT-PCR analysis,we found that inboth of the two liver cancer cellines,the expression of CTNNBl and SMAD4 was greatly inhibited by PS341 while the other four stemnes-related genes remained almostthe same (Fig.5b,top).As for the colon celines,the expressionof CTNNBland HES1 were suppressed significantlyinboth HT29 andLoVo by PS341and SMAD4 expresson was onlyreduced greatly inLoVo but not HT29 (Fig.5b,bottom).These data showed PS341 could inhibit some specific stemnes-related genes which are dependent on tumor types. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Amongthe stemness-related genes wechecked,only CTNNB1 was inhibitedbyPS341allacross thecell lines originated from both HCCand CRC.We confrmed this data with PCR assay, inwhich PS341 significantly suppressed the mRNA expression levels of CTNNB1 in both HCC and CRC cels (Fig.5c). In consistent with the transcriptional level,the protein expresson of CTNNB1 was also inhibited eficiently by PS341treatment in all thefour cellines (Fig.5d).All thesedata indicated an essential roleofCTNNBlin thedevelopmentofHCC and CRC, providing a potential target for clinical treatment. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PS341 upregulates the expression of FOXO3 and inhibits the transcription of CTNNB1. In orderto decipher the mechanisms ofthe downregulationofCTNNB1in HCCand CRCcels underthe treatment of PS341,we focused on the negative transcriptional regulators of CTNNB1 such as VGLL4,FOXO3,SOX7, NOTCH1 and STAT326-31. In the RT-PCR analysis,only the mRNA expression level of FOXO3 significantly increased inboth HCCand CRC cels after the treatment of PS341(Fig.6a).FOXO3 is a member of the forkhead family oftranscription factors and could be activated by the stimulus of growth factors and celular stress, which functions as atranscription factor/coactivator to trigger the expression of target genes for apoptosis and other physiological processs32.33In the western blot analysis,the protein expression levels of FOXO3 was also increased in HCC and CRC cell under the treatment of PS341 with the protein expression levels of CTNNB1 downregulation (Fig. 6b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According to the previous studies,FOXO3 could directly interact with CTNNBl and suppressed the transcription of CTNNB1/TCF complex,or FOXO3 activated the expresson of microRNA-34b/c which inhibited the mRNA expression of CTNNB1 by occupying its untranslated regions (UTRs)29.Whether there is a direct transcriptional regulation of CTNNB1 byFOXO3 remains unknown.We firstanalyzed the promoter sequence of CTNNB1 ranging from $- 2 0 0 0 \\sim - 1$ and looked for the specific binding sites of FOXO3 (Fig. 6c). Interestingly, we found a distinctive binding sequence ATAAACAT of FOXO3 in the promoter of CTNNB1 ranging from $- 9 9 3 \\sim - 9 8 6$ (Fig. 6c). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Then we carried out the chromatin immunoprecipitation (CHIP) experiments in HCC and CRC cell by $\\mathrm { I g G }$ and FOXO3 antibodies. After the CHIP and RT-PCR analysis,we found that FOXO3 indeed occupied the ATAAACAT sequence of CTNNB1 promoter in HCC and CRC cells, in which $p 2 7$ is the known target of FOXO3 as the positive control.The results indicated FOXO3 was significantly enriched on the promoters of CTNNBland ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a DMSO PS341 DMSO PS341 00 G0-1 0 G0-1 009 G0-1 009 G0-1 1G2口SG1   \nHepG230 S 0 Huh7 400 S 20000 1 20 20 9 11 19 000 G2-M 200 G2-M 200 G2-M 2M 28 26 6 A 0 0 35 5d 04080120160 0 4080120160 04080120160 04080120160 75 73 64 65 DMSO PS341 DMSO PS341 20 45 40 G0-1 G0-1 G0-1 G0-1   \nHT29 00900 00900 LoVo 0000000000 00900 0- S S S 200 G2-M 200 SG2-M o G2-M 000 G2-M ∠4nH ∠4nH H115 1115 100 00 4080120160 4080120160 04080120160 04080120160 b HepG2DMSO HT29DMSO C HepG2PS341 HT29PS341 Huh7 PM3401 LoVoPMS40 OSNO P5353 OSNO PP334 5 1.0 Cyclin D1 -250bp 0.5- CDK4 一 -250bp 100bp GAPDH 一 250bp 公 HepG2 Huh7 OSNO P333 OSNO PP334 d OSNO P334 OSWO P334 OSWO P334 OSNO P333 Cycin14 1006p 100bp 34kD 34kD GAPDH 250bp Cyclin D1 Cyclin D1 HT29 LoVo CDK4 -34kD CDK4 -34kD β-actin β-actin 43kD 43kD HepG2 Huh7 HT29 LoVo ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$p 2 7$ after the treatment of PS341 in HCC and CRC cells mainly resulting from the elevated expression of FOXO3 (Fig. 6d). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to provide direct evidence with respect to FOXO3 regulating CTNNBl in the context of PS341, we applied the CRISPR-Cas9 technology to obtain the liver and colon celines in which the binding sequence of FOXO3 in CTNNB1 promoter is deleted (named HepG2/Huh7/HT29/LoVo Mut).The deletion of DNA sequence was confirmed by DNA Sanger sequencing (Fig.6e).Then inthe CHIP experiments byFOXO3 antibody,FOXO3 significantly occupied on the promoter of CTNNB1 in HCC and CRC wild type (WT) cels under the treatment of PS341 (Fig.6f,top).However, the abrogation of ATAAACAT motif in the promoter of CTNNB1 remarkably inhibited the binding of FOXO3 to CTNNB1's promoter in HCCand CRC Mut cells (Fig. 6f,top).Nevertheless, the removal of ATAAACAT motif in the promoter of CTNNB1 had no influence on the binding ofFOXO3 to the promoter of P27(Fig.6f, bottom).Furthermore,we test the protein expression levels ofFOXO3 and CTNNB1 in WTand Mut liverand coloncelines.The western blotresults indicated thatthe deletionof the binding sequence of FOXO3 in CTNNB1 promoter relieved the transcriptional inhibition of CTNNB1 mediated byFOXO3 and upregulated the expression of CTNNB1 in HCC and CRC Mut cels compared with that of HCC and CRC WT cels (Fig. 6g). Meanwhile,the expression ofFOXO3 remained unchanged between former two groups (Fig.6g). Taken together, PS341 enhanced the expressionofFOXO3 in mRNA and protein levels in HCCand CRC cels,in which FOXO3 could bind to the promoter of CTNNB1 and suppressed the expression of CTNNB1. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a65e4f29e6fd9be851aad5b137f6ac6b0f05be9cab65dd8ed032d51cd6fbc8a.jpg",
+        "img_caption": [
+            "Figure 5.PS341 reduces the expression of stemness-related genes in HCC and CRC cells.(a) PS341 significantly suppresses the formation of tumor spheres of HCC and CRC cells.Scale bar $= 5 0 \\mu \\mathrm { m }$ (b) mRNA expression levels of some key stemness-related genes in HCCand CRC cells with PS341 treatment.(c) PS341 greatly suppresses the expression level of CTNNB1 at the transcriptional level. (d) PS341 greatly inhibits the expression level of CTNNBlat the protein level.The whole assay was repeated thre times.The full-length blots/gels are presented in Supplementary Figs 4and 5.Data are displayed as mean $\\pm \\mathsf { S D }$ $^ { * } P < 0 . 0 5$ $^ { * * } { \\bar { P } } < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Whether PS341 affects FOXO3 binding and CTNNBl expression innormal cels?First we analyze the expression levels ofFOXO3 and CTNNBl in normal cellines (L02 and FHC)and cancerous cellines (HepG2,Huh7, HT29 and LoVo).The RT-PCR results suggested that FOXO3 was highly downregulated in tumor cels, yet CTNNB1 was remarkable upregulated in tumor cel (SupplementaryFig.7a).These data was consistent with previous studies3435Second,themRNA expressonlevelofFOXO3 slightlyincreased inL02andFHCcelsafterthe treatment of PS341,yet the mRNA expression level of CTNNBl remained unchanged (Supplementary Fig. 7b). The stable expression of CTNNBl indicated that,on one hand,the original expression level of FOXO3 was already highand the elevated amountofFOXO3caused byPS341 had litle effecton the inhibition of CTNNB1 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "a b HepG2 PMS0 Huh7DMSO HT29 DMS41 LoVoDMSO OSNO Huh7PS341 LoVoPS341 5 005 4 FOX03 -72kD 3 CTNNB1 -72kD β-actin 怕邮 邮帕 -43kD HepG2 Huh7 FOXO3 72kD CTNNB1 一 一 —72kD   \nC G TA β-actin -43kD ATAAACAT HT29LoVo FOXO3 binding sites ATAAACAT CTNNB1 promoter -993-986 1 CTNNB1 ndu!% HoP2MS41 □ 中 Huh7 PS341   \ne HT29DMSO 2 LTV9PM341 WWwWW LoVoPS341 HepG2WT ATAAACATACTTGG P27 promoter WWWWM G2DMSO HepG2 Mut epG2PS341 ATAAACCGAATAGA 6 ? Huh7PS341 Huh7DMSO wwW 4 HT29DM40 Huh7 WT LoVoDMSO ATAAACATACTTGG LoVoPS341 Huh7 Mut ATAATACCGCATGA 二 CTNNB1 promoter wwwwW HepG2 Wut HT29WT Huh7WT ATAAACATACTTGG Huh7Mut wwwwww H0W HT29 Mut LoVoMut ATAAACAATAATGA P27 promoter LoVo WT HepG2WT ATAAACATACTTGG □ HepG2Mut 6- Huh7WT 1 Huh7Mut HT29WT LoVo Mut ATAAACCTACAAGA 3 LT0Wut LoVoMut   \ng 台么ZE 台   \nFOX03 -72kD FOXO3 -72kD   \nCTNNB1 72kD CTNNB1 -72kD β-actin 43kD β-actin -43kD HepG2 Huh7 HT29 LoVo ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "transcription.On the other hand,the transcriptional regulation of CTNNB1in normal cells was controlled by some other factorsand different from thatof tumor cells.Finally,PS341 treatment slightly augmented thebinding ability of FOXO3 to the $C T N N B I ^ { \\prime } s$ promoter sequence resulted from the enhanced expression of FOXO3 (SupplementaryFig.7c).Taken together,PS341 had litle efect on theFOXO3 binding and CTNNB1 expression in normal cells.However,the specific mechanisms of CTNNB1 transcriptionalregulation in normal cels need to be further investigated. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PS341 promotes the survival of mice bearing HCC or CRC. Xenograft cancer models in mice were thus employed and HCC or CRC cells were injected subcutaneously into the back of nude mice respectively. Three or four days later, cancer xenografts were found on mice. On day five after tumor implantation, $0 . 5 \\mathrm { m g / k g }$ PS341 was injected intraperitonealy and thenadministrated twice per week tillday 30 when the mice were sacrificed and the therapeutic effect was evaluated.In consistence with the in vitro data,the size (Fig.7a)and volume (Fig.7b)ofboth HCC and CRC were significantly reduced by PS341 administration compared with the control groups. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to further clarify the protective role of PS34l in vivo,the survival rate of mice bearing HCC or CRC cells were analyzed.It was shown that PS341 significantly augmented the lifespan of mice which were transplanted with alltested HCCor CRCcels (Fig.7c).Taken together,PS341 could inhibit the tumor development, reduce the tumor burden of HCCand CRCcels in the xenograft modeland effectively extend thelifespan of mice bearing cancer cells. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The precise control of protein degradation by ubiquitin-proteasome system is critical for signal transduction, transcriptionalregulation,responsetostress,andreceptorfunction36,37.Incancers,dysregulationofthiscatalytic process may contribute to tumor progression,drug resistance,and altered immune surveillance38.Proteasome inhibition canafectthelevels of various short-lived proteins,and result in inhibitionofNF-kB,increased activity of p53 and Bax proteins,or accumulation of cyclin dependent kinase inhibitors p27and p21,thus leading to apoptosis. Preclinical studies showed that malignant,transformed,and proliferating cels were more susceptible to proteasome inhibition than normal cells,making it a useful target in cancer therapy38,39. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PS341 is aboronic acid dipeptide,which is a specific inhibitor of the proteasome machine9,40.It can inhibit the proteasome pathway rapidly in a reversible manner by binding directly with the 2OS proteasome complex and blocking its enzymatic activity9,40. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The hepatocellular carcinoma (HCC)and colorectal cancer(CRC)are both most common malignant tumors,the treatmentof which is now verylimited.The molecular targeted therapy with its high-efficiency and low toxicity completely changed the conventional tumor treatment41. It launched a revolution in the cancer therapy and became alargest hotspot of cancer research in recent years.The successful development of Sorafenib was promising in drug therapy for advanced HCC,but its efectivenessis stillnot satisfed442. Inorder to overcome the present dilemmaofHCCand CRC therapy,the mechanismof pathogenesis and progression of the two tumor types needs to be clearly studied and more specific targeted drugs have to be exploited. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In our earlystudy,we found theubiquitin cross-reactive protein ISG15 is associated with the malignant behavior ofliver cancer,so we subsequently speculated the ubiquitin proteasome pathway should be abnormaly activated in $\\mathrm { H C C ^ { 4 3 } }$ .Taken the fact into account that PS34l either alone or in combination had unsatisfactory clinical activities in phase II studies in patients with hepatocellularcarcinoma or colorectal cancer12,13,we gotthe inspiration to explore the mechanisms of PS341 in HCC and CRC treatment and reveal potential therapeutic strategies combined with PS341 towards HCC and CRC. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study we found that PS34l at a low concentration $( 1 0 \\mathrm { n M } )$ effectively inhibited the growth of HCC and CRC cels and suppressed their migration and invasion abilities.Epithelial-mesenchymal transition,which is critical in tumor metastasis,was also eficiently inhibited by PS341 treatment.PS341 was also proved to cause cell cycle arrest and apoptosis of HCC and CRC cells at a low concentration $( \\mathrm { { 1 0 n M } ) }$ .Moreover,itabrogated the sphere formation and self-renewal capabilities of HCC and CRC cells with the downregulation of key transcription factor CTNNB1.The molecular mechanisms of PS341 onapoptosis promotion,cellcycle arrest,inhibition of migration,invasion,EMT,self-renewal capabilities were the upregulation ofFOXO3,in whichFOXO3 bound to the promoter sequence ATAAACAT of CTNNB1 ranging from $- 9 9 3 \\sim - 9 8 6$ and inhibited the transcriptional activation of CTNNB1. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "These results indicated HCC and CRC cels are highly sensitive to PS341. Moreover, we also checked many other tumors and found esophagus cancer, gastric cancer and pancreas cancer cells were not so sensitive to PS341(data not shown),indicating that PS34l is more promising in treatment of specific cancers such as HCC and CRC.This diffrence among cancer types may result from the specific regulation of tumorigenesis by ubiquitin-proteasome system inan individual cancer,the mechanism of which is of great interest to be further investigated. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In mouse models,we found the commonly used dosage of PS341 ( $\\mathrm { \\Delta \\cdot 0 . 0 0 g / k g }$ twice per week via tail vein) as described before4 caused huge toxicityand mice could develop apparent anorexia, weight lose,severe anemia and bleeding,leading to high mortality. Therefore we halved the dose to $0 . 5 \\mathrm { m g / k g }$ twice per week and found decreased dosage could also make obvious inhibition of tumor growth and extension the lifespan of mice bearing cancer cells. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Our data demonstrated PS34l could inhibit the growth of HCC and CRC and induce the apoptosis both in vitro and in the xenograft mouse models.Our research discovered PS341 enhanced the expression of FOXO3, which occupied the promoter of stemnes-related gene CTNNBland suppressed the expression ofit. These results indicated thatthe downregulation of CTNNB1 played acriticalrole in HCCand CRC therapyand explained the possible reasons for the unsatisfactory clinical activities in phase II studies of PS341.It may result from the dose and the schedule of the treatment,or the inadequate inhibition of CTNNBl and ubiquitin-proteasome pathway.Thus,in order to make PS34l more effective in future clinicalapplication in HCCand CRC therapy,firstly, in combination with other approaches should be encouraged to be investigated,including the suppression of CTNNB1 which was discovered as the therapeutic target in this paper.Additionally, upgrade and developmentof next generation proteasomes inhibitors based onthe backbone of PS34l may helpto reduce the side effcts and improve the specificityand efficacy to HCCand CRC patients.Finally,the dose,the scheduleand the delivery method of the treatment stillhave some room for improvement.For example,the drug delivery system should be optimized to make sure that PS341 could be effectively released in specific tumor cels with high pharmaceutical activity rather than inactivated by some natural compounds. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/740cba16c17b3470596fad6d91db5e12cbcd6d47258a42d90506b928dc603d68.jpg",
+        "img_caption": [
+            "Figure 7. PS34l promotes the survival of mice bearing HCC or CRC. $^ { ( \\mathbf { a } , \\mathbf { b } ) }$ PS341 suppresses tumor growth of HCC and CRC cels in xenograft mice.Mice bearing tumor cels of HepG2,Huh7,HT29 and LoVo were administered intraperitoneally with DMSO or PS341 two times per week.The volume of xenografts was measured every four days.The tumors were removed after the mice sacrificed 30 days later.Data are expressed as mean $\\pm \\thinspace \\mathrm { S D }$ ： $^ { * } P < 0 . 0 5$ .Scalebar $= 5 0 \\mathrm { m m }$ .(c) PS34l augments the survival of xenograft mice transplanted with different HCC and CRC cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,our current research proposed that PS341 could effectively inhibit cellproliferation,EMT,cel migration and invasiveness and stem cellproperties of HCC and CRC both in vitro and in vivo by regulating the FOXO3/CTNNBl axis.Moreover, our study underscored that CTNNBl may be a promising target for combination therapy with PS34lin HCC and CRC clinical treatment.Allthese data laid some basis for the future clinical application of PS341 combined with suppresson of CTNNB1 in HCCand CRC therapy and further investigation on the development of novel and effective therapeutic strategies. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Reagent and antibodies.Antibodies that recognize Cyclin D1(Cel Signaling Technology, $\\# 2 9 2 2$ ,CDK4 (Cell Signaling Technology, $\\# 1 2 7 9 0 .$ ）, $\\beta$ -actin (Sigma,A1978),NCAD (Abcam,ab98952),ECAD (Cell Signaling Technology, $\\# 3 1 9 5$ ),FOXO3 (Abcam,ab12162) and CTNNB1(Ser33/37/Thr41) (CellSignaling Technology, $\\# 4 2 7 0 \\Big .$ )wereused in the study.Horseradish peroxidase (HRP)labelled secondary antibody(Beyotime Biotech) was used in western blots.PS34l was purchased from Santa Cruz,sc-217785. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Cell line.Cellines HepG2,Huh7,FHC,HT29,LoVo SW620,SW480 and LS180 were obtained from American Type Culture Collection (Rockville,MD,US). Cellines L02,97L,97Hand M3 were purchased from Liver Cancer Institute,Zhongshan Hospital afliated to Fudan University(Shanghai,china)45. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Cell proliferation assay.The proliferation and viabilities of the cels were measured by the cell counting kit-8(CCK-8; Dojindo,Kumamoto,Japan) colorimetric assay with triplicate experiments for each setof conditions.The same amount of cells $( 3 \\times 1 \\bar { 0 } ^ { 3 }$ cells per well) were seeded on 96-well culture plates and cultured with/ without $5 \\mathrm { n M }$ 0 $1 0 \\mathrm { n M }$ or $2 0 \\mathrm { n M }$ PS341 for $2 4 \\mathrm { h }$ 0 $4 8 \\mathrm { h }$ and $7 2 \\mathrm { h }$ . At the indicated time points,the supernatant was removed and $1 0 0 \\mu \\mathrm { l }$ of DMEM medium containing $1 0 \\mu \\mathrm { l }$ of CCK8 was added to each well for $2 \\mathrm { h }$ at $3 7 ^ { \\circ } \\mathrm { C }$ .The absorbance at $4 5 0 \\mathrm { n m }$ was measured with a plate reader (Multiskan GO Microplate Spectrophotometer; Thermo Fisher Scientific,Inc.,Waltham,MA,USA).The experiments were repeated three times. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Cellular apoptosis assay.The cells were cultured with $1 0 \\mathrm { n M } \\mathrm { P S } 3 4 1$ for $4 8 \\mathrm { h }$ ,and apoptosis was assessed with the Annexin V-FITC kit accordingto the manufacturer's instructions.The cells were washed twice with cold PBS,digested,collected,and resuspended inbinding buffer.Annexin V-FITCand PI were added (BioVision, Milpitas,CA,USA),and the cells were incubated for $1 0 \\mathrm { { m i n } }$ at room temperature in the darkness.Then $2 0 0 \\mu \\mathrm { l }$ binding bufer was added,and the Annexin V positive cels were analyzed using a FACSCalibur flow cytometry system (BD Biosciences,US).The experiments were repeated three times. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "DNA fragmentation experiment. The cels were cultured with $1 0 \\mathrm { n M P S } 3 4 1$ for $4 8 \\mathrm { h }$ ,collected by centrifugationand washed two times with PBS.Inthe Hoechst staining assay,the cells were mixed and incubated with the Hoechst 33258 dye $( 1 \\mu \\mathrm { g } / \\mathrm { m l }$ ;Sigma) for $1 0 \\mathrm { m i n }$ . The fluorescence of the apoptotic cells is determined with a UV-equipped fluorescence microscope.The number of apoptotic cells is counted in five independent fields for each cell type. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "While in the DNA ladder assay,the cell pellets were lysed for 30swith lysis buffer ( $1 \\%$ NP-40 in $2 0 \\mathrm { m M }$ EDTA, $5 0 \\mathrm { m M }$ Tris-HCl, $\\mathrm { p H } 7 . 5$ 0 $1 0 0 \\mu \\mathrm { l }$ per $1 0 ^ { 6 }$ cells). The supernatant was collected at $1 6 0 0 \\mathrm { g }$ for 5 min centrifugation and repeated with lysis buffer once.Then $1 \\%$ SDS and $5 \\mu \\mathrm { g } / \\mathrm { m l }$ RNase A were added into the supernatant at $5 6 ^ { \\circ } \\mathrm { C }$ for $2 \\mathrm { h }$ ,and $2 . 5 \\mu \\mathrm { g } / \\mathrm { m l }$ proteinase K was added into the solution $3 7 ^ { \\circ } \\mathrm { C }$ for 2 h.1/2 volume of $1 0 \\mathrm { M }$ ammonium acetate was added into the solution followed by2.5 volume of ethanol to precipitate DNA.The extraction ofDNA is dissolved in loading buffer for electrophoresis analysis. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Wound healing assay. $2 \\times 1 0 ^ { 5 } \\mathrm { H C C }$ and CRC cells were seeded into a 24 well plate.The tumor cells grew to confluence $2 4 \\mathrm { h }$ later. An artificial wound was introduced with a Pl0 pipete tip per well.Data of the wounded area were taken at $0 \\mathrm { h }$ and $2 4 \\mathrm { h }$ with a microscope (Olympus Corp). The whole assay was repeated four times. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Cell adhesion and inhibition assay.Celladhesion assays using HepG2, Huh7,HT29,LoVo cells and laminin were performedas described previously46.In short,96-wellplates (NEST)were incubated with lamininat $4 ^ { \\circ } \\mathrm { C }$ overnight and then blocked with PBS containing $1 \\%$ BSA for $ { 1 \\mathrm { h } }$ at $3 7 ^ { \\circ } \\mathrm { C }$ .The cells were plated on the coated wells and incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for $2 \\mathrm { h }$ with/without 10 nMPS341.Adherent cells were fixed with $4 \\%$ formaldehyde and stained with crystal violet.The stained cells were counted under a microscope in five fields per well. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Transwellassay.HepG2,Huh7,HT29 and LoVo cels were respectively harvested, washed, suspended with DMEM(GIBCO,Life Technologies,11965-092)and seeded to the upper chambers of transwell inserts $8 \\mu \\mathrm { m }$ pore size; Corning)with/without $1 0 \\mathrm { n M }$ PS34l in the migration assay.What's more,the upper chambers were coated with Matrigel(BD Bioscience,354234)before the inoculationofthe cancer cellsand PS34l in the invasion asay. The lower compartments were filled with DMEM supplemented with $5 \\%$ FBS (fetal bovine serum). The cells in the upper chamber were removed with a swab after incubation for $1 2 \\mathrm { h }$ in the migration assay or $2 4 \\mathrm { h }$ in the invasionassay.Thecels that migrated to the lowerlayerand attachedtothe membrane were stained with crystal violet and numbered in five fields per wellunder a microscope.The whole assay was repeated three times. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "PCR and Real-Time PCR.Total RNA from cells was extracted using an RNA isolation kit (Qiagen) and subjected to cDNA synthesis using M-MLVReverse Transcriptase (Promega).ThecDNA were then used as the templates for semi-quantitive PCR and quantitative analysis of the candidate genes,running in an ABI 7300 analyzer (Applied Biosystems). Primer sequences arelisted in Supplementary Table 1. SYBR Green (Qiagen) was used as the fluorescent probe.Relative expresson levels of the target genes were compared to a housekeeping gene,GAPDH. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Epithelial-mesenchymal transition (EMT) induction.HepG2,Huh7,HT29 and LoVo cels were cultured to attach in the complete medium overnight.Then the cels were maintained in either medium alone or medium supplemented with $2 . 5 \\mathrm { n g / m l }$ TGF- $_ { \\cdot \\beta 1 }$ (R&D Systems,Minneapolis,MN),with or without $1 0 \\mathrm { n M } \\mathrm { P S } 3 4 1$ in a humidified $5 \\%$ CO2 incubator at $3 7 ^ { \\circ } \\mathrm { C } .$ The morphologic photos of the cells were taken seven days after the incubation.The experiments were repeated three times. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Western blot.HepG2,Huh7,HT29 and LoVo cells were lysed with ice-cold RIPA buffer ( $5 0 \\mathrm { m M }$ Tris-HCl $\\mathrm { [ p H 7 . 4 ] }$ ， $1 5 0 \\mathrm { m M N a } \\mathrm { \\bar { C } l }$ ， $0 . 5 \\%$ sodium desoxycholate, $0 . 1 \\%$ SDS, $5 \\mathrm { m M }$ EDTA, $2 \\mathrm { m M }$ PMSF,and $1 \\%$ Nonidet P-40) for $2 \\mathrm { h }$ .Proteins were separated with polyacrylamide gel electrophoresis and transferred to a nitrocellulose membrane (Milipore).The membranes were blocked with skim milk,probed with primary antibodies and HRP-conjugated secondaryantibodies and developing with PierceTM ECL Western Bloting Substrate (Thermo ScientificTM)47. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Cell cycle assay.HepG2, Huh7,HT29 and LoVo cells were cultured with/without $1 0 \\mathrm { n M }$ PS341 for $4 8 \\mathrm { h }$ 0 digested and collected by trypsin,fixed in $7 0 \\%$ ethanol overnight at $4 ^ { \\circ } \\mathrm { C }$ and then stained with $5 0 \\mu \\mathrm { g } / \\mathrm { m l }$ propidium iodide (PI) (Sigma, St.Louis,MO,USA) and $0 . 1 \\mu \\mathrm { g / m l }$ RNase A(Sigma, St.Louis,MO,USA).The cells were analyzed using a FACSCalibur flow cytometry system (BD Biosciences, US). CellQuest software (BD CellQuest Pro Software,BD Biosciences,US) was used to analyze the percentage of the cellpopulation in each phase. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Sphere formation. $5 \\times 1 0 ^ { 3 }$ cells of HepG2,Huh7,HT29 and LoVo were seeded inan ultra-low attachment surface 6-well plate (Corning).Cells were maintained in DMEM/F12(Gibco) medium supplemented with $2 0 \\mathrm { n g / m L }$ （204号 EGF (Sigma), $2 0 \\mathrm { n g / m L }$ bFGF (Sigma), $1 \\%$ N2 (Gibco), $2 \\%$ B27 (Gibco). The number of spheres was counted 14 days after seeding. The whole assay was repeated four times. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Chromatin immunoprecipitation (ChIP). Chromatin immunoprecipitation was performed by using the ChIP assay kitaccording to the manufacturer's instructions (Upstate Biotechnology).Briefly,approximately10 million cancer cells were crosslinked with $1 \\%$ formaldehyde for $1 0 \\mathrm { { m i n } }$ at $3 7 ^ { \\circ } \\mathrm { C }$ ,washed with PBS,and resuspended in lysis buffer. The cell lysate was sonicated on ice for a total of $2 \\mathrm { m i n }$ (in 5 s pulses),resulting in an average DNA fragmentlength of $5 0 0 \\mathrm { b p }$ .After removing cell debris by centrifugation and pre-clearing the lysate, immunoprecipitation was performed in ChIP dilution buffer overnight with IgG and FOXO3 antibodies with agitation.Protein A agarose/Salmon Sperm DNA (Merck Millipore,Guyancourt,France) slurry was added and incubated for $2 { \\ - } { 4 } \\mathrm { h }$ at $\\mathrm { { \\dot { 4 } } ^ { \\circ } C }$ with agitation. The antibody-agarose complex was centrifuged and washed five times, and the immunoprecipitated fraction was eluted.The crosslinking was reversed by incubation at $6 5 ^ { \\circ } \\mathrm { C }$ for $^ \\mathrm { 4 h }$ in the presence of $2 0 0 \\mathrm { m M N a C l }$ The DNA was recovered by phenol/chloroform extraction and precipitated,and the abundance of specific sequence was measured by PCR using the corresponding primer sequences. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The deletion of the promoter of CTNNB1 by CRISPR/Cas9. The CTNNB1(Gene ID:1499) gene targeting sites in for sgRNA design was $5 ^ { \\prime }$ -GCTTTCTCTATAAACATACTTGG $\\cdot 3 ^ { \\prime }$ and the primers were ordered from Sangon Biotech Company (Shanghai, China).The construction of the vectors and positive cells screening were performed as described previously48.Briefly,genomic DNA was phenol-chloroform extracted from G418-resistant HCC and CRC cell colonies. Cell identification was carried out in PCR reactions of $5 0 \\mathrm { n g }$ genomic DNA,10 pmol of each primer(forward $5 ^ { \\prime }$ -CACAGAGGTAACTTTCACTGCTG- $\\cdot 3 ^ { \\prime }$ and reverse $5 ^ { \\prime }$ -AAAGGCTGTGAACTCTCCGTA- $3 ^ { \\prime }$ )and 0.5 unit of rTaq polymerase(Takara).PCR conditions were as follows; 5 min at $9 5 ^ { \\circ } \\mathrm { C } ;$ 35 cycles of 30 sec.at $9 5 ^ { \\circ } \\mathrm { C }$ ,30 sec.at $6 2 ^ { \\circ } \\mathrm { C } ,$ 40sec.at $7 2 ^ { \\circ } \\mathrm { C } ;$ and final extension at $7 2 ^ { \\circ } \\mathrm { C }$ for $5 \\mathrm { { m i n } }$ . All the positive clones were confirmed by Sanger sequencing. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Generation of xenografts. NOD/SCID mice were obtained from the Animal Center of the Chinese Academy of Medical Science (Beijing, China).For generation of xenografts, $2 \\times 1 0 ^ { 6 } \\mathrm { H e p G } 2$ ,Huh7,HT29 and LoVo cells were injected subcutaneously into the NOD/SCID mice $( \\mathrm { n } = 6 )$ ). Five days later, the mice were grouped and administered intraperitoneally with DMSO or PS341 at a dose of $0 . 5 \\mathrm { m g / k g }$ two times per week for 30 days. The volume of xenografts was measured every five days $( \\mathrm { V } = ( \\pi / 6 ) ( \\mathbf { a } \\times \\mathbf { b } \\times \\bar { \\mathbf { c } } ) )$ .Mice were sacrificed after 30 days. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In peritoneal spreading mice models, $2 \\times 1 0 ^ { 6 }$ luciferase-expressing HepG2 and HT29 were intraperitoneally injected into the NOD/SCID mice $( \\mathrm { n } = 5 )$ ).Seven days later,the mice were grouped and administered intraperitoneally with DMSO or PS34l ata dose of $0 . 5 \\mathrm { m g / k g }$ two times per week for 35 days.Tumor growth was monitored by bioluminescence imaging using the Xenogen IVIS Lumina system (Xenogen Corporation, Hopkinton, MA) every week. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Animal work was permitted by the Institutional Animal Care and Use Committee of the Institute of Biophysics,Chinese Academy of Sciences and conducted in accordance with its recommendations and ethical regulations. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "\" All experimental protocols were approved by the Animal Care and Use Committee,Institute of Biophysics, Chinese Academy of Sciences. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis.Kaplan-Meier analysis was used to estimate the cumulative cause-specific survival rate and the differences in mouse survival with DMsO/PS341( $\\mathbf { \\tilde { n } } = 8 \\sim 1 1$ per group).The influence of PS341 on the growth,apoptosis,migration,attachment,EMT,cellcycle,sphere formation and tumor formation of HCC and colorectal cancer cels was analyzed by the Studentttest.Inallstatistical analyses,statistical significance in the two-sided test was indicated with $P$ value of 0.05 or less and $P$ value less than O.O1 was remarkably significant. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.El-Serag,H.B.Hepatocelular carcinoma.N Engl J Med 365,1118-27 (2011).   \n3.Scudellari,M.Drug development: tryand try again. Nature 516,S4-6 (2014).   \n4.Wilhelm,S.etal.Discoveryanddevelopmentofsorafenib:amultikinaseinibitorfortreatingcancer.NatRevDrugDiscov5, 835-44 (2006). 5.Guideti,A.etal.PaseIsudyofsorafenibinatientswithelapsedorefractorylymphoma.BrJHaematol58,-19(02). 6.Merigi,Frtoh&o,aagemtfoetiallstabllortalneretasassodsttt Surg 5,138-45 (2013).   \n7.Fearon,E.R.Molecular geneticsof colorectalcancer.Annu Rev Pathol6,479-507 (2011).   \n8.Schmoll,H.J.&Stei,A.Colorectalcancerin01: Towardsimproveddrugs,ombinationsandpatientselectionNatRevClin Oncol 11,79-80 (2014).   \n9.Chen,Da,i,J.o.restproteaicacea and future perspectives.Curr Cancer Drug Targets 11,239-53(2011)   \n10.Cavo,M.Proteasome inhibitor bortezomib forthe treatmentof multiple myeloma.Leukemia 20,1341-52 (2006).   \n11.Shin,D.un,Y,D..uagLE.&ark,Jorezbiibistumordaatiooibylatige FIH-mediated repression of hypoxia-inducible factor-1.Blood 111,3131-6 (2008).   \n12.Mackay,H.etal.AphaseIItrialwithpharmacodynamicendpointsoftheproteasomeihibitorbortezomib inpatientswith metastatic colorectal cancer.Clin CancerRes11,5526-33 (2005)   \n13.Kim,G.PtalAnintertioal,ulticenterpaseItralfotezibiatintsithepaocelarcinoaestew Drugs 30,387-94 (2012).   \n14.Hanahan,D.& Weinberg,R.A.Hallmarks of cancer: the next generation. Cell144,646-74(2011).   \n15.KeenbckKaksV.&rbatraloteslatoot.Cell).   \n16.Lamouille,,Xu,J.&ryck,.olecularmechanismsfepielia-esenhaltransitionNatevlCelliol,896 (2014)   \n17.Xu,J,Lmouill,S.&Derck,R.-betanucedeithelialtmesenchalransition.CellRes19,6-(09).   \n18.Hanahan,D.& Weinberg,R.A.The hallmarks of cancer.Cell100,57-70(2000).   \n19.Lee,J.e,Kli.&s,E.eeelieltahsiiglinget and disease.JCell Biol172,973-81(2006).   \n20.Bohnsack,B.L.&hi,K.K.Nutrentegutiocelleprogeio.AnuRevNutr24,43350).   \n21.Beck, B.& Blanpain,C.Unraveling cancer stem cellpotential. Nat Rev Cancer13,727-38 (2013).   \n22.Majumdar,A.etal.Hepaticstemcelsand transforming growth factorbetainhepatocellularcarcinoma.NatRevGastroenterol Hepatol9,530-8 (2012).   \n23.SukowatiC.Hoo,oe,L.&bel,C.Hepticerceldgresistace:Revaceinareed for hepatocellular carcinoma.World J Hepatol2,i14-26 (2010).   \n24.Takebe,N,Nguen,D.&Yang,.X.argetingnotchigalingpathwayinancer:iicaldevelopmentadvancesandhalges. Pharmacol Ther 141,140-9 (2014).   \n25.Botchkina, G.Colon cancer stem cells—from basic to clinical application. Cancer Lett338,127-40 (2013).   \n26.Ibrahem,S.etalSTAT3 paradoxicalysimulatesbeta-cateinexpresionbutinibitsbeta-catenifunctio.IntJExpPathol95, 392-400 (2014)   \n27.Kim,H.A.etalNotchcounteractsWbeta-catensigalingthroughhromatinmodicationinolorectalcacerJClest 122,3248-59 (2012)   \n28.LiH.etal.VGLL4inhbitsEMinpartthroughsuppresing Wnt/beta-cateninsignalingpathwayingastriccancer.MedOcol32, 83 (2015).   \n29.Liu,H.etalFOXOamoulats Wbeta-ateinsignalingandsuppresseseielial-t-mesenhaltransitioniprotate ncercells.Cell Signal 27,510-8 (2015)   \n30.Liu,H.etal.ReducedexpressonofSOX7inovariancancer:anoveltumorsuppresorthroughtheWnt/beta-cateninignaling pathway.JOvarianRes7,87(2014)   \n31.MacDoaldaK&e,tetateigotsssvl6).   \n32.Tenbaum,S.Petal.eta-cateninconfersresistancetoPI3KandAKTinibitorsandsubvertsFOXOatopromotemetastasis in colon cancer.Nat Med18,892-901 (2012).   \n33.Stan,S.DHah,E.R,Warin,R.&ingh,.VWitherinAausesFOXOa-andBi-dependentapotosandinbitsgowth of human breast cancer cels in vivo.Cancer Res 68,7661-9(2008).   \n34.Bullock,.talFOXOexpesringortalerprgei:brkeroetalefctsmursusle. BrJCancer 109,387-94 (2013).   \n35.Kraus,S.alExpressionofwinglesstyemouseammarytumorviusintegratinsitefmilypatwayefecorsinlpaticnd hepatic metastases of patients withcolorectalcancer:Asociations withtheprimary tumor.OncolLett10,863-868(2015)   \n36.Ravid,T.seesigdaialsiotesoeteatvlCel0 (2008)   \n37.Geng,F,Wenzel,S.&Tansey,WPUiquitinndproteasomesintranscription.AnnuRevBochem81,77(012).   \n38.Voorhs,PM.&OrlowskiR.ZeproteasomeandproteasomibitorsincancertherapyAnnuRevarmacolToxicol46, 189-213 (2006).   \n39.Nalepa,G.,Rolfe,M.&Harper,JW.Drugdiscoveryntheubiquitin-proteasomesystem.NatRevDrugDiscov5,596-61(006).   \n40.Richrso.ebe therapy.Annu Rev Med57,33-47 (2006).   \n41.Aggarwal,S.Targeted cancer therapies. Nat Rev Drug Discov 9,427-8 (2010).   \n42.Llovet,J.M.et al.Sorafenib inadvanced hepatocellularcarcinoma.NEnglJMed 359,378-90 (2008).   \n43.Li, C.etal.Interferon-stimlatedgene15(G15)istrggrfortumorigenesisndmetastasisofhepatocellarcarcoma. Oncotarget 5,8429-41 (2014).   \n44.Teicher,B.AAra,G,Hrbst,RPalombelaV.J.&dams,Jeproteasomeinibitor-4inancertherapy.ClnCcerRe 5,2638-45 (1999).   \n45.Tian,J.talNewmanpatocellaarcinoa (HCC)cellieithletastaticotential(C97)anditsexrso of the factors associated with metastasis.BrJCancer 81,814-21(1999)   \n46.Kikawa,Y.etal.TheLG-3tandemoflamininalpa5harbors thebindingsitesofLutheran/basalcelladhesionmoleculeand alpha3betal/alpha6betal integrins.JBiol Chem282,14853-60 (2007).   \n47.Ye,B.etal.CytosolicarboxyeptidaseCCP6isequiedformgakaryopoiesisbymodulatingMad2polyglutamylation.JEpMed 211,2439-54 (2014).   \n48.Wu,Setal.Nvelvarantsinonfertobladdercancercurenceidentifdbyoleexomesequencingncotarget (0). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Theauthors thank allthe faculties and staffs of Institute of Microbiology, Harvard Medical School, the First Affliated HospitalofSoochow University,the SecondAfliated HospitalofSoochow Universityand Instituteof Biophysics whose names were not included in the authorlist,but who contributed to this work.This work was supported by the National Natural Science Foundation of China (81472413,81000944,81572345,81572992), Shenzhen Science and Technology development Funds Program CXZZ20130516153248144), Shenzhen Strategic Emerging Industry Development Special Funds Program (JSGG20130411091246833),Natural Science Foundation of the Jiangsu Higher Education Institutions ofChina (No.10KJB320020),Tianqing Liver Disease Research Foundation (No.20120024)and Priority Academic Program Developmentof Jiangsu Higher Education Institutions. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Conception and design: C.L.and H.Z.Development of methodology: Z.Y.and C.L. Acquisition of data (provided animals,acquired and managed patients,provided facilities,etc.): ZY.,S.W.L,M.G.,H.,J.W,Q.XandK.S.L. Analysis and interpretationof data (e.g.,statistical analysis,biostatistics,computational analysis): Z.Y.,X.M.Z, H.Z.and C.L. Writing,review,and/or revision of the manuscript: S.W.L,Z.Y., C.L.and H.Z. Administrative, technical,or material support (i.e.,reporting or organizing data,constructing databases): M.O., C.L.and H.Z. Study supervision: C.L.and H.Z.All authors reviewed the manuscript. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Additional Information ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information accompanies this paper at http://www.nature.com/srep ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "How to cite this article: Yang,Z.et al.PS34l inhibits hepatocelllarand colorectal cancer cels through the FOXO3/CTNNB1 signaling pathway.Sci. Rep. 6,22090; doi: 10.1038/srep22090 (2016). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line;if the material is notincluded under the Creative Commons icense, users willneed to obtain permission from the license holder to reproduce the material.To view a copy of this license,visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 14
+    }
+]

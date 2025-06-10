@@ -1,0 +1,342 @@
+[
+    {
+        "type": "text",
+        "text": "Unveiling the adsorption mechanism of zeolitic imidazolate framework-8 with high efficiency for removal of copper ions from aqueous solutions† ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yujie Zhang $\\ddag ^ { \\mathsf { a } }$ Zhiqiang Xie $\\ddag ^ { \\mathrm { b } }$ Zhuqing Wang,a.c Xuhui Feng.d Ying Wang\\*b and Aiguo Wu\\*a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Among the heavy metalions,copper(i) can cause eye and liver damage at high uptake.The existence of copper ions $( \\mathsf { C u } ^ { 2 + } )$ even with an ultralow concentration of less than $0 . 1 ~ \\mu \\mathfrak { g } ~ \\mathfrak { g } ^ { - 1 }$ can be toxic to living organisms.Thus,it is highly desirable to develop efficient adsorbents to remove ${ \\mathsf { C u } } ^ { 2 + }$ from aqueous solutions.In this work,without anysurface functionalization or pretreatment,a water-stable zeolitic imidazolateframework (ZIF-8) synthesized at room temperature is directly used asa highly efficient adsorbent for removal of copper ions from aqueous solutions.To experimentally unveil the adsorption mechanism of ${ \\mathsf { C u } } ^ { 2 + }$ by using ZIF-8,we explore various effects from a series of important factors,such as pH value, contact time, temperature and initial ${ \\mathsf { C u } } ^ { 2 + }$ concentration. As a result, ZIF-8 nanocrystals demonstrate an unexpected high adsorption capacity of ${ \\mathsf { C u } } ^ { 2 + }$ and high removal efficiency for both high and low concentrations of ${ \\mathsf { C u } } ^ { 2 + }$ from water. Moreover, ZIF-8 nanocrystals possess fast kinetics for removing ${ \\mathsf { C u } } ^ { 2 + }$ with the adsorption time of lessthan 30 min.Inaddition,the pH of the solution ranging from 3 to 6 shows little effect on the adsorption of ${ \\mathsf { C u } } ^ { 2 + }$ by ZIF-8.The adsorption mechanism is proposed for the first time and systematicallyverified by various characterization techniques,suchas TEM,FTIR,XPS,XRDand SEM. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the rapid increase of industrial and human activities,disposal of industrial wastewater has become one of the most important environmental issues worldwide.1,2 Heavy metal pollution has posed severe threat to the environment and public health since heavy metals are not biodegradable and are prone to accumulate in the environment.In addition,most of the heavy metal ions even with low concentrations are dangerous and extremely toxic to human health.For example, a high concentration of $\\mathrm { C u } ^ { 2 + }$ in public drinking water systems will result in serious diseases such as cramps,diarrhea,gastrointestinal catarrh and damage of the liver and kidney.3,4 According to Environmental Protection Agency (EPA) guidelines and World Health Organization (WHO),the permissible limits of ${ \\mathrm { C u } } ^ { 2 + }$ for drinking water quality are 1.3 and $2 . 0 \\mathrm { \\ m g \\ L } ^ { - 1 }$ respectively. Therefore，it is crucial to develop suitable methods to efficiently remove trace-level heavy metal ions from aqueous systems.To date,various approaches,such as chemical precipitation,6,7 ion exchange,\" membrane filtration,’ and adsorption,10-12 have been reported for heavy metal wastewater treatment.Among them,adsorption has been considered as an economic and effective approach for heavy metal wastewater treatment benefiting from its flexibility and simplicity of design,low operation cost and good adsorption capability. Furthermore,adsorption is partially reversible,and thus adsorbents sometimes can be recovered by a suitable desorption process.Among the available adsorbents，activated carbon (AC)and carbon nanotubes (CNTs) have been widely reported aspromising adsorbents for the removal of heavy metal ions.13-17 However, the adsorption capacities of metal ions by AC and CNTs are very low and the whole adsorption process usually takes several hours or even longer.Furthermore,both AC and CNTsare expensive,which furtherhinders their practicalapplicationsinheavymetal wastewater treatment.Recently, various nanosized metal oxides (NMOs),18-22 such as nanosized $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ $\\mathrm { T i O } _ { 2 }$ and $\\mathbf { C e O } _ { 2 }$ ,have been studied as promisingalternatives for removal of heavy metal ions from aqueous systems owing to their high specific surface areas and high activities resulting from the so-called size-quantization effect.Nevertheless,NMOs tend to agglomerate owing to their high surface energy;23-26 thus the adsorption capacity of NMOs would be significantly decreased.Therefore, it is highly challenging but extremely desirable to develop low-cost adsorbentswith both high efficiency and high adsorption capacity forpractical applications in the removal of heavy metals from industrial wastewater. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Metal organic frameworks (MOFs)，as typical inorganicorganic hybrid crystalline solids with well-defined nanoporous structures,have been extensively applied for wide applications in gas separation,27 sensors,28 catalysis,29 and drug delivery,30 lithium ion batteries (LIBs)³1 and dye sensitized solar cells (DSSCs),³² thanks to their high surface area and large porosity. Inrecent years,MOFs have drawn more and more attentionas new adsorbents for applications in heavy metal wastewater treatment.For example,ametal-organic framework $\\mathrm { C u } _ { 3 } \\mathrm { ( B T C ) } _ { 2 }$ with thio/thiol-functional groups has been reported for efficient removal of both mercury and lead ions.3³ Cu-based MOF $\\mathrm { { C u } } _ { 3 } \\mathrm { { ( B T C ) } } _ { 2 }$ with sulfonic acid functional groups demonstrated high adsorption capability and selectivity of cadmium ions in water.34 Zr-based MOFs were also reported for selective removal of $\\mathrm { C u } ^ { 2 + }$ over $\\mathrm { N i } ^ { 2 + }$ in water.35 However, the aforementioned MOFs were mainly prepared using hydro/solvothermal, sonochemical and microwave methods, which generally require a time-consuming process， expensive equipment and/or a high temperature procedure.Furthermore,surface functionalization of MOFs with specific functional groups is usuallyneeded for removal of heavymetal ions,which requires complicated, tedious processes and very careful control of reaction conditions such as the concentration of the reactants and pH value in the solutions,posing big challenges for potential large-scale production of highly efficient adsorbents. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work,water-stable zeolitic imidazolate framework (ZIF-8) nanocrystals synthesized at room temperature are tested forhighly efficient removal of copper ions from aqueous systems.As a result,ZIF-8s demonstrate unexpectedly high removal efficiency and high adsorption capacities of ${ \\mathrm { C u } } ^ { 2 + }$ over other heavy metal ions.The possible adsorption mechanism is explored for the first time using various characterization techniques，such as scanning electron microscopy (SEM),transmissionelectronmicroscopy(TEM)，Fouriertransform infrared spectroscopy (FTIR), X-ray photoelectron spectroscopy (XPS) and X-ray diffraction (XRD). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Effect of pH ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One of the major factors affecting the $\\mathrm { C u } ^ { 2 + }$ adsorption capacity and removal efficiency is the pH value of the solutions,since pH may not only change the speciation of metal ions,but also influence the structural stability and surface charges of the adsorbent. Therefore, $3 0 { \\mathrm { ~ m L ~ C u } } ^ { 2 + }$ solution ( $\\mathbf { \\bar { 1 } } 2 0 \\ \\mathrm { m g \\ L ^ { - 1 } } ,$ with the pH range of 2 to 6 is prepared; the adsorption time and temperature are fixed at 1 hour and $2 5 ~ ^ { \\circ } \\mathrm { C }$ respectively.The effect of pH on the adsorption properties of ZIF-8 for $\\mathrm { C u } ^ { 2 + }$ is investigated as shown in Fig. 1a. The adsorption quantity increases significantly with the increase of the pH value from 2.5 to 3,and remains unchanged with further increase of the pH of the solution. It is found that only less than $2 0 \\% \\mathrm { C u } ^ { 2 + }$ is adsorbed when the $\\mathsf { p H }$ of solutions is below 3.It might be attributed to protonation of the amino moiety of ZIF-8,which reduces the coordination ability between the nitrogen atom and $\\mathrm { C u } ^ { 2 + }$ .36 It might also be due to the instability of ZIF-8 under strong acidic conditions.When the pH value is increased from 3 to 6,the adsorption quantity almost remains constant,indicating that the pH does not affect the adsorption properties of ZIF-8 under these conditions.However,when the pH is higher than 6,precipitation of cupric hydroxide may be formed with a higher concentration of ${ \\mathrm { C u } } ^ { 2 + }$ (the Ksp of $\\mathrm { C u ( O H ) } _ { 2 }$ .i $2 . 2 \\times { { 1 0 } ^ { - 2 0 } }$ .36 Therefore, the adsorption experiments are not investigated when the $\\mathrm { p H }$ ishigher than6.Finally, the $\\mathrm { \\ p H }$ is optimized from 4 to 5 and ZIF-8 remains stable within this range.Moreover, neither protonation of the amine moiety nor precipitation of cupric hydroxide occurs,which is beneficial to the adsorption of $\\mathrm { C u } ^ { 2 + }$ . To further study the stability of a pure ZIF-8 sample in acid solutions,we tested and analyzed the concentrations of $\\mathrm { Z n } ^ { 2 + }$ release in various aqueous solutions with different pH values using the inductively coupled plasma optical emission spectrometry (ICP-OES) technique.As shown in Fig. S1, $\\dagger$ it is found that there is almost no $\\mathrm { Z n } ^ { 2 + }$ release at $\\mathrm { p H } ~ 5 – 6$ ,indicating that ZIF-8 is very stable in such a weak acid solution.Even in a strong acid solution at pH 3-4,only less than $1 0 \\%$ of $\\scriptstyle { \\mathrm { Z n } } ^ { 2 + }$ release occurs.However, in a stronger acid solution at $\\mathrm { p H } 2 $ ，a high percentage of $\\scriptstyle { \\mathrm { Z n } } ^ { 2 + }$ release $( 5 7 \\% )$ is observed, suggesting that ZIF-8 would decompose in such a strong acid solution.Such results are consistent with the adsorption performances of ZIF-8 in the ${ \\mathrm { C u } } ^ { 2 + }$ removal in aqueous solutions with pH values ranging from 2 to 6. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Effect of the contact time ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The effect of contact time on the adsorption properties of ZIF-8 is investigated in a solution with a $\\mathrm { p H }$ of 4at $2 5 ~ ^ { \\circ } \\mathrm { C }$ As displayed in Fig.1b,the rate of adsorption is very fast.The uptake of $\\mathrm { C u } ^ { 2 + }$ by ZIF-8 is $8 5 \\%$ within $2 ~ \\mathrm { m i n }$ ,and reaches $9 5 \\%$ in less than $1 0 ~ \\mathrm { m i n }$ . The high adsorption rate of ZIF-8 is likely due to the high specific surface area of ZIF-8 ( $\\mathrm { ~ \\stackrel { ~ 1 3 4 0 ~ m } { ~ } g ^ { - 1 } }$ Fig. $^ { S 2 \\dagger }$ )anda large number of amino moieties on the surface of ZIF-8.37 To the best of our knowledge,such an impressive adsorption efficiency is much higher than the existing adsorbents for removal of $\\mathrm { C u } ^ { 2 + }$ from aqueous systems.38-40 In order to make sure that the adsorption completed with a higher $\\mathrm { C u } ^ { 2 + }$ concentration, the contact time of $3 0 \\mathrm { m i n }$ is chosen. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Effect of temperature ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The adsorption test is carried out in a range of $2 0 { - } 6 0 ~ ^ { \\circ } \\mathrm { C }$ with the $\\mathrm { p H }$ of 4,and the adsorption time and ${ \\mathrm { C u } } ^ { 2 + }$ concentration are fixed at $3 0 ~ \\mathrm { m i n }$ and $1 5 0 \\mathrm { \\ m g \\ L ^ { - 1 } }$ respectively.The effect of temperature on $\\mathrm { C u } ^ { 2 + }$ adsorption by ZIF-8 is shown in Fig.1c from which we can observe that the adsorption quantity is almost the same from 20 to $3 5 ~ ^ { \\circ } \\mathrm { C }$ and increases with the further increase of temperature from 35 to $5 0 ~ ^ { \\circ } \\mathrm { C } ,$ ，indicating that the adsorption process is an endothermic adsorption reaction. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/711df0af290ee766b631d51d47bd09431cf4ba890434e5c7251d03fdf508c5ed.jpg",
+        "img_caption": [
+            "'ig.1Effect of pH, contact time and temperature on ${ \\mathsf { C u } } ^ { 2 + }$ adsorption by ZIF-8 (initial ${ \\mathsf { C u } } ^ { 2 + }$ concentration: $1 2 0 \\mathrm { \\ m g \\ L ^ { - 1 } } .$ （2 $1 2 0 \\mathrm { \\ m g \\ L } ^ { - 1 }$ and $1 5 0 \\mathrm { \\ m g \\ L } ^ { - 1 }$ espectively). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Effect of the initial $\\mathbf { C u } ^ { 2 + }$ concentration ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to determine the maximum adsorption capacity of ZIF-8, $1 0 ~ \\mathrm { m g }$ ZIF-8 is equilibrated with $3 0 { \\mathrm { ~ m L ~ C u } } ^ { 2 + }$ solutions with concentrations ranging from 2 to $4 2 0 ~ \\mathrm { m g ~ L } ^ { - 1 }$ for $3 0 ~ \\mathrm { m i n }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The results in Fig.2a show that the amount of ${ \\mathrm { C u } } ^ { 2 + }$ adsorbed per unit mass of ZIF-8 $( q , \\mathrm { m g } \\mathrm { g } ^ { - 1 } )$ increases with the increase of the initial concentration of $\\mathrm { C u } ^ { 2 + }$ 、The obtained $q$ value reaches approximately $8 0 0 \\mathrm { ~ m g ~ g ^ { - 1 } }$ when the initial concentration of ${ \\mathrm { C u } } ^ { 2 + }$ is $4 2 0 ~ \\mathrm { m g ~ L } ^ { - 1 }$ ,which is higher than most of the other adsorbents.36,41,42 In order to ascertain the reason for the unexpected high $q$ value,the solution after adsorption is analyzed in detail and the release of $\\mathrm { Z n } ^ { 2 + }$ is found. In Fig. 2a, we can see that the released amount of ${ \\mathrm { Z n } } ^ { 2 + }$ increases with the increase of the ${ \\mathrm { C u } } ^ { 2 + }$ concentration and then remains constant ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0effd787dabad82e57c296a78108fbc6bf1f9c460e1b19e4c851659bc327c534.jpg",
+        "img_caption": [
+            "Fig.2Effect of the ${ \\mathsf { C u } } ^ { 2 + }$ concentration on the $q$ value of ZIF-8 (a,black), release of $Z n ^ { 2 + }$ (a,red) and removal efficiency of ${ \\mathsf { C u } } ^ { 2 + }$ (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/545301324eb0b72ff5dcb528dc03743009193b2d05c4a2cf2a21bfe9e3b7d03e.jpg",
+        "img_caption": [
+            "Fig.3 TEM images of ZIF-8 (a) before and (b)after adsorption ${ ( \\mathsf { C } \\mathsf { u } ^ { 2 + } }$ concentration of $1 5 0 \\mathrm { \\ m g \\ L ^ { - 1 } } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Before adsorption 420 Afteradsorption 1589 rn 'r) rirtrssas 3454 3960 ,2929 511 432 (b) 40003500 3000 2500 20001500 1000 500 Wavenumber (cm-1) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "until the ${ \\mathrm { C u } } ^ { 2 + }$ concentration is more than $2 0 0 \\ \\mathrm { m g \\ L ^ { - 1 } }$ ，which reveals that $\\mathrm { Z n } ^ { 2 + }$ in ZIF-8 has been completely replaced by $\\mathrm { C u } ^ { 2 + }$ .However, the $q$ value of ZIF-8 increases continually as the ${ \\mathrm { C u } } ^ { 2 + }$ concentration increases from 200 to $4 2 0 ~ \\mathrm { m g ~ L } ^ { - 1 }$ ,which is likely due to the coordination reaction between ${ \\mathrm { C u } } ^ { 2 + }$ and the nitrogen atom on 2-methylimidazole.5 Under optimal experimental conditions ( $\\mathrm { t i m e } = 3 0 \\ \\mathrm { m i n }$ ， $\\mathrm { \\ p H } = 4 \\mathrm { \\AA }$ )，when the initial concentration of ${ \\mathrm { C u } } ^ { 2 + }$ is $1 1 4 ~ \\mathrm { m g ~ L } ^ { - 1 }$ ,the removal efficiency of ${ \\mathrm { C u } } ^ { 2 + }$ is up to $9 7 . 2 \\%$ (Fig.2b).Moreover,when the initial concentration of ${ \\mathrm { C u } } ^ { 2 + }$ is $2 ~ \\mathrm { m g ~ L } ^ { - 1 }$ ,the removal efficiency is up to $9 6 \\%$ and the remaining concentration of ${ \\mathrm { C u } } ^ { 2 + }$ is $0 . 0 8 5 \\mathrm { ~ m g L } ^ { - 1 }$ which is much lower than the maximum allowed concentration of $\\mathrm { C u } ^ { 2 + }$ in drinking water defined by the US EPA $( 1 . 3 \\mathrm { \\ m g \\ L ^ { - 1 } } _ { , }$ ).These results demonstrate that the as-prepared ZIF-8 is applied to treat wastewater with both high and low concentrations,which is an important indicator for good adsorbents. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Investigationof themechanismofadsorption ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TEM analysis.The structure of ZIF-8 before and after adsorptionis characterized by TEMas shown in Fig.3.Before adsorption,ZIF-8 is a hexagonal structure with a particle size of $3 0 { \\mathrm { - } } 7 0 \\ \\mathrm { n m }$ (Fig.3a),which is consistent with the SEM observation (Fig. S4t).However,after reacting with the $\\mathrm { C u } ^ { 2 + }$ solution,the hexagonal structure is destroyed.The edges of the adsorbent become smoother and a new material with a smaller size is formed.According to the adsorption data, the structural change of ZIF-8 after $\\mathrm { C u } ^ { 2 + }$ adsorption can be presumably due to the ion exchange between $\\mathrm { C u } ^ { 2 + }$ and $\\mathrm { Z n } ^ { 2 + }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/573bc543dc83ff67c226af1ab539534c34c5ca8c9b060bd9bee96e1ea0761c2b.jpg",
+        "img_caption": [
+            "Fig.4 FTIR spectra of ZIF-8 (a) before and (b)after adsorption （204号 $( \\mathsf { C u } ^ { 2 + }$ concentration of $1 5 0 \\mathrm { \\ m g \\ L ^ { - 1 } } )$ ",
+            "Fig.5NXPSspectrumof thesamplebefore(a)andafter(b)adsorption,Zn (c)andCu(d)XPSspectrumofthesampleafteradsorption $( \\mathsf { C u } ^ { 2 + }$ concentration of $1 5 0 \\mathrm { \\ m g \\ L ^ { - 1 } } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FTIR analysis.The FTIR spectra of ZIF-8 before and after the adsorption of $\\mathrm { C u } ^ { 2 + }$ are shown in Fig. 4. The spectra of ZIF-8 are analyzed as follows: $\\mathbf { C } { \\mathrm { - } } \\mathbf { N }$ stretching on the imidazole rings, $3 1 3 6 ~ \\mathrm { { c m } ^ { - 1 } }$ ； C-H stretching of $\\mathbf { - C H } _ { 3 }$ ，2960 and $2 9 2 9 ~ \\mathrm { { c m } ^ { - 1 } }$ $\\mathrm { C } { = } \\mathrm { N }$ stretching, $1 5 8 9 ~ \\mathrm { c m } ^ { - 1 }$ $\\mathrm { Z n - N }$ stretching, $4 2 0 ~ \\mathrm { c m } ^ { - 1 }$ .After reacting with ${ \\mathrm { C u } } ^ { 2 + }$ solutions，a new peak is observed at $5 1 1 ~ \\mathrm { c m } ^ { - 1 }$ ,which should be attributed to $\\mathrm { { C u - N } }$ stretching, indicating that ${ \\mathrm { C u } } ^ { 2 + }$ has been connected onto ZIF-8 through ion exchange or the coordination reaction. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "XPS analysis.XPS analysis is also used to investigate the state change of ZIF-8 before and after the adsorption of ${ \\mathrm { C u } } ^ { 2 + }$ (Fig.5).The binding energy of N1s in ZIF-8 is about 399 and $4 0 0 . 3 \\mathrm { e V }$ ，corresponding to $\\mathbf { C } { \\mathrm { - } } \\mathbf { N }$ and $\\mathrm { C } { = } \\mathrm { N }$ in 2-methylimidazole,respectively.After reacting with the $\\mathrm { C u } ^ { 2 + }$ solution, the two peaks of $\\mathrm { ~ N ~ } 1 s$ for 2-methylimidazole still exist,and a new peak at ${ \\sim } 4 0 3 . 4 ~ \\mathrm { e V }$ appears,due to the coordination reaction between the nitrogen atom and $\\mathrm { C u } ^ { 2 + }$ ，Moreover,the peaks of $\\mathtt { Z n \\ 2 p }$ with the binding energy of 1022 and $1 0 4 5 \\ \\mathrm { ~ e V }$ still exist after the adsorption of $\\mathrm { C u } ^ { 2 + }$ ,which means that the structure of ZIF-8 is partially preserved under these conditions.The peaks of $\\mathrm { C u } \\ 2 \\mathrm { p }$ appear after adsorption,demonstrating that ${ \\mathrm { C u } } ^ { 2 + }$ has been adsorbed onto ZIF-8. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f35b81678a7a2f4ca8aa068935e7229eb09c243cc55bab983491ce9cefa26b4.jpg",
+        "img_caption": [
+            "Fig.6 Powder X-ray diffraction patterns of ZIF-8 before and after adsorption. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "XRDanalysis.In order to explore the reaction product when $\\mathrm { Z n } ^ { 2 + }$ in ZIF-8 is replaced by ${ \\mathrm { C u } } ^ { 2 + }$ completely, the $\\mathrm { C u } ^ { 2 + }$ concentration of $3 0 0 \\mathrm { \\ m g \\ L ^ { - 1 } }$ is used in the adsorption experiment and powder X-ray diffraction experiments are carried out to study the phase and structure of ZIF-8 before and after adsorp tion,as shown in Fig.6a.The major sharp diffraction peaks are presented in the case of ZIF-8,which are similar to the data published in other articles,7 indicating that the asprepared ZIF-8 is a single pure phase without impurity. However,after reacting with the ${ \\mathrm { C u } } ^ { 2 + }$ solution,almost all the peaks of ZIF-8 disappear,and a wide peak with $2 \\theta$ at about $1 2 . 6 ^ { \\circ }$ ispresent,which means that the structure of ZIF-8 has been completely changed by ${ \\mathrm { C u } } ^ { 2 + }$ and a new complex is formed.In addition,itis found that after white ZIF-8 powders are added into the colorless aqueous solution containing $\\mathrm { C u } ^ { 2 + }$ the solution turns blue (Fig. $\\mathbf { S } 3 \\dagger .$ ),which further confirms the likely formation of the copper complex. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SEM-EDS mapping analysis.The distribution of elements for ZIF-8 before and after adsorption is also analyzed by SEM-EDS mapping.As displayed in Fig.7a.we can see that ZIF-8 is made up of carbon,nitrogen and zinc,and these three kinds of elements are distributed adequately in ZIF-8. However,as shown in Fig.7b,after reacting with the $\\mathrm { C u } ^ { 2 + }$ solution,the zinc element disappears,and copper elements appear in the solid,indicating that $\\mathrm { Z n } ^ { 2 + }$ is replaced by ${ \\mathrm { C u } } ^ { 2 + }$ completely.And a small amount of Cl and O elements appears,possibly due to the $\\mathsf { p H }$ regulation of the solutions and the formation of cupric hydroxide,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The adsorption mechanism.From the adsorption data and various characterization results,we can deduce an adsorption mechanism for our work (Scheme 1).During the adsorption process of $\\mathrm { C u } ^ { 2 + }$ ， $\\scriptstyle { \\mathrm { Z n } } ^ { 2 + }$ in ZIF-8 is replaced by $\\mathrm { C u } ^ { 2 + }$ and a new complex is formed.The reasons are:(1) the similar atomic radius between $Z \\mathrm { n }$ and Cu, $\\mathrm { Z n } ^ { 2 + }$ in ZIF-8 can be easily replaced by $\\mathrm { C u } ^ { 2 + }$ ; (2) the valence electron layer structure of $\\mathrm { Z n } ^ { 2 + }$ is more stable than that of $\\mathrm { C u } ^ { 2 + }$ ，thus the chemical coordination ability of ${ \\mathrm { C u } } ^ { 2 + }$ is stronger than that of $\\scriptstyle { \\mathrm { Z n } } ^ { 2 + }$ 43After $\\mathrm { Z n } ^ { 2 + }$ is replaced by $\\mathrm { C u } ^ { 2 + }$ completely，as shown in Scheme 1a, the adsorption amount per unit mass of ZIF-8 continuously increases due to the coordination reaction between $\\mathrm { C u } ^ { 2 + }$ and the nitrogen atom on 2-methylimidazole, as shownin Scheme 1b.Therefore,the adsorption process of $\\mathrm { C u } ^ { 2 + }$ by ZIF-8 involves ion exchange when the concentration of ${ \\mathrm { C u } } ^ { 2 + }$ is lower than $2 0 0 \\ \\mathrm { m g \\ L ^ { - 1 } }$ and the coordination reaction when the concentration of $\\mathrm { C u } ^ { 2 + }$ is higher than $2 0 0 \\ \\mathrm { m g } \\mathrm { L } ^ { - 1 }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cc88c6f4b3f248b95376ca7e480596d87da3fe0e845dcaac3341f0798ff88b4.jpg",
+        "img_caption": [
+            "Fig.7SEM-EDS mapping of ZIF-8 (a) before adsorption and (b) after adsorption. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6eb6d247c80239dc1f1b9de21442cd5e3e6921aa54be80bf90cf5996d9e08e17.jpg",
+        "img_caption": [
+            "Scheme 1 The schematic showing the adsorption mechanism of ${ \\mathsf { C u } } ^ { 2 + }$ in aqueous solutions by using ZIF-8 nanocrystals. (a) lon exchange reaction at a low concentration of ${ \\mathsf { C u } } ^ { 2 + }$ ：(b) coordination reaction between ${ \\mathsf { C u } } ^ { 2 + }$ and the nitrogen atom on 2-methylimidazole at a high concentration of ${ \\mathsf { C u } } ^ { 2 + }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study, ZIF-8 nanocrystals are synthesized at room temperature and used as adsorbents for removal of ${ \\mathrm { C u } } ^ { 2 + }$ from aqueous solutions.It is found that:(i) the pH shows little effect on the adsorption of ZIF-8 when the $\\mathrm { p H }$ of the solution is between 3 and 6. (ii) ZIF-8 exhibits fast kinetics for highly efficient removal ${ \\mathrm { C u } } ^ { 2 + }$ with an adsorption time of less than ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$3 0 ~ \\mathrm { m i n }$ .(ii) ZIF-8 demonstrates high adsorption capacities of $\\mathrm { C u } ^ { 2 + }$ ,about $8 0 0 \\ \\mathrm { m g } \\mathrm { g } ^ { - 1 }$ ,when the initial concentration of ${ \\mathrm { C u } } ^ { 2 + }$ is $4 2 0 \\ \\mathrm { m g \\ L ^ { - 1 } }$ . (iv) ZIF-8 demonstrates high removal efficiency with both high and low concentrations of $\\mathrm { C u } ^ { 2 + }$ . (v) The adsorp tion mechanism involves the ion exchange process and coordinationreaction. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Experimental ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Chemicals ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "All the analytical reagent-grade chemicals we used in this work were purchased from Sinopharm Chemical Reagent Co.,Ltd (Shanghai,China) without further purification.The aqueous solution of Cu $\\left( 1 0 0 0 \\mathrm { ~ m g ~ L ^ { - 1 } } \\right)$ was prepared by dissolving $\\mathrm { C u } ( \\mathrm { N O } _ { 3 } ) _ { 2 }$ in distilled water. The other concentrations were prepared by successively diluting the as-prepared initial solution. The pH of the solutions was adjusted by using NaOH or HCl. Milli-Q water (18.2 MΩ $\\mathrm { c m } ^ { - 1 }$ ）was used throughout the experiments. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of ZIF-8 crystals ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ZIF-8 crystals were prepared following a previously reported method.31 First, $\\mathbf { 0 . 8 1 \\textit { g } }$ 2-methylimidazole was mixed with $2 5 { \\mathrm { ~ m L ~ } }$ methanol; after the solid was totally dissolved in the solvent, $0 . 7 \\ \\mathrm { g } \\ \\mathrm { Z n } ( \\mathrm { N O } _ { 3 } ) _ { 2 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ with $2 5 ~ \\mathrm { m L }$ methanol was added into the solution.The mixture was stirred continuously for $^ { 5 \\mathrm { ~ h ~ } }$ The product solids were collected by centrifuging the mixture at $3 0 0 0 ~ \\mathrm { r p m }$ for $1 0 \\ \\mathrm { m i n }$ and washed with methanol at least three times.The collected solid was then dried at $7 5 \\mathrm { ~ ~ } ^ { \\circ } \\mathrm { C }$ overnight. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Adsorption test ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In a typical adsorption test，ZIF-8 was first ground into powder，and then $3 0 ~ \\mathrm { \\ m g }$ ZIF-8 was added into a $9 0 ~ \\mathrm { \\ m L }$ aqueous solution containing $\\mathrm { C u } ^ { 2 + }$ .The mixture was treated with ultra-sonication for 2 min and stirred for $3 0 \\ \\mathrm { m i n }$ ，and then separated by usinga needle filter with a pore diameter of 200 microns.The rest of the heavy metals in the aqueous systems were detected and analyzed via ICP-OES.It should be noted that all the reported data for adsorption tests in this workwere the average of at least three replicates for each experiment. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Characterization ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The concentration of heavy metallic ions was determined using an inductively coupled plasma optical emission spectrometer (ICP-OES,PE Optima 2100DV,Perkin-Elmer,USA).Gas sorption analyses were conducted via Quantachrome Instruments Autosorb-iQ (Boynton Beach,Florida USA) with extrahigh pure nitrogen.Transmission electron microscopy (TEM) images were recorded on a JEOL 21oo instrument (JEOL, Japan) with an acceleration voltage of $2 0 0 \\ \\mathrm { k V } .$ ，For TEManaly sis,the samples were prepared by drop casting the dispersions onto carbon-coated copper grids,which were air-dried subsequently. Fourier transform infrared spectroscopy (FTIR) data were collected in the wavenumber ranging from 400o to $4 0 0 ~ \\mathrm { { c m } ^ { - 1 } }$ on a Nicolet 67oo Fourier-transform infrared spectrometer using KBr pellets.X-ray photoelectron spectrometry (XPS)was carried out using an AXIS Ultra DLD instrument with $\\mathbf { M g } \\ \\mathrm { K } \\alpha$ radiation as the X-ray source and all the binding energies were referenced to the C 1s peak at $2 8 4 . 8 \\ \\mathrm { \\ e V }$ The phase structure of ZIF-8 before and after adsorption was analyzed on an X-ray diffractometer (XRD,D8 Advance,Bruker AXS,Germany).The morphology and chemical distribution of the samples were analysed using a field emission scanning electron microscope (FESEM) (TM-10oo,Hitachi, Japan).For XPS,SEM and XRD analysis,the samples were prepared by drop casting the dispersions onto a silicon pellet (for XPS and SEM)and a glass plate (for XRD),which were subsequently dried ina closed dryer. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the Project for Science and Technology Service of Chinese Academy of Sciences (KFJ-SW-STS-172), the National Natural Science Foundation of China (U1507104), the aided program for Science and Technology Innovative ResearchTeamofNingboMunicipality(GrantNo.: 2014B82010,and 2015B11002),the Zhejiang Provincial Natural Science Foundation of China (Grant No.R5110230)，the Hundred Talents Program of Chinese Academy of Sciences (2010-735),and the Chevron Innovative Research Fund (CIRS) and Economic Development Assistantship (EDA) at Louisiana State University. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 L．Chabaane， S. Tahiri，A. Albizane， M. El Krati, M.L.Cervera and M. de la Guardia,Chem. Eng.J.,2011, 174, 310-317.   \n2R.Dutta,S.S.Mohammad,S.Chakrabarti,B.Chaudhuri, S.Bhattacharjee and B.K.Dutta,Water Environ.Res.,2010, 82,138-146.   \n3M.Ajmal,R.A.K.Rao and M.A.Khan,J. Hazard. Mater., 2005,122,177-183.   \n4 S.Larous,A.H. Meniai and M.B. Lehocine,Desalination, 2005,185,483-490.   \n5N．Bakhtiari，S.Azizian，S.M．Alshehri，N.L.Torad, V.Malgras and Y.Yamauchi，Microporous Mesoporous Mater.,2015,217,173-177.   \n6Q.Y.Chen,Z.Luo,C.Hills,G.Xue and M. Tyrer,Water Res.,2009,43,2605-2614.   \n7M.Gharabaghi,M.Irannajad and A.R.Azadmehr,Ind. Eng. Chem.Res.,2012,51,954-963.   \n8M.Y.Vilensky,B.Berkowitz andA.Warshawsky,Environ. Sci. Technol.,2002,36,1851-1855.   \n9 S.M.C.Ritchie,K.E.Kissick,L.G.Bachas,S.K.Sikdar, C.Parikh and D.Bhattacharyya,Environ. Sci. Technol.,2001, 35,3252-3258.   \n10 R.Celis，M.C.Hermosin and J.Cornejo，Environ.Sci Technol.,2000,34,4593-4599.   \n11 U.Wingenfelder,C.Hansen,G.Furrer and R.Schulin, Environ. Sci. Technol.,2005,39,4606-4613.   \n12 G. Yuvaraja, M. V. Subbaiah and A. Krishnaiah, Ind. Eng. Chem. Res.,2012,51,11218-11225.   \n13M.Kobya,E.Demirbas,E.Senturk and M.Ince,Bioresour. Technol.,2005,96,1518-1521.   \n14K.Kadirvelu,C.Faur-Brasquet and P.Le Cloirec,Langmuir,   \n2000,16,8404-8409.   \n15 C.Y. Lu and H. S.Chiu,Chem. Eng. Sci.,2006,61, 1138-   \n1145.   \n16 C.S.Lu,H. Chiu and C.T.Liu,Ind. Eng. Chem. Res.,2006,   \n45,2850-2855.   \n17 Y. H. Li, S.G. Wang, Z. K. Luan,J. Ding, C. L. Xu and D.H.Wu,Carbon,2003,41,1057-1062.   \n18 L. S. Zhong, J. S. Hu, H. P. Liang,A. M. Cao,W. G. Song andL.J.Wan,Adv.Mater.,2006,18,2426-2431.   \n19 T.Phuengprasop，J. Sittiwong and F.Unob,J. Hazard. Mater.,2011,186,502-507.   \n20 Z.X. Jin,H. Y.Gao and L.H.Hu,RSC Adv.,2015,5,88520-   \n88528.   \n21 L. S. Zhong, J. S.Hu,A. M.Cao,Q.Liu,W.G. Song and L.J.Wan, Chem. Mater.,2007,19,1648-1655.   \n22 L. S. Zhong, J. S.Hu, L. J. Wan and W. G. Song, Chem. Commun.,2008,10,1184-1186.   \n23 X.Xu,J.Park,Y.K.Hong and A.M.Lane,Mater.Chem. Phys.,2015,152,9-12.   \n24 X.Xu,J.Park,Y.K.Hong and A.M.Lane,J. Solid State Chem.,2015,222,84-89.   \n25 X.Xu,J. Park,Y.K. Hong and A. M.Lane,Mater. Lett.,   \n2015,144,119-122.   \n26 Z.Q. Xie, J. Q. Zhao and Y.Wang,Electrochim. Acta,2015,   \n174,1023-1029.   \n27M.P.Suh,H.J.Park,T.K.Prasad and D.W.Lim,Chem. Rev.,2012,112,782-835.   \n28L.E.Kreno,K.Leong, O.K. Farha,M.Allendorf,R.P.Van Duyne and J.T.Hupp,Chem.Rev.,2012,112,1105-1125.   \n29 A.M. Shultz,O.K. Farha, J. T. Hupp and S. T. Nguyen, J.Am. Chem. Soc.,2009,131,4204-4205.   \n30 P.Horcajada,R.Gref,T.Baati,P.K.Allan，G.Maurin, P.Couvreur,G.Ferey,R.E.Morris and C. Serre, Chem. Rev., 2012,112,1232-1268.   \n31 Z.Q.Xie,Z. Y. He,X. H. Feng,W. W. Xu,X. D.Cui, J. H. Zhang, C. Yan, M. A. Carreon, Z. Liu and Y. Wang, ACS Appl.Mater.Interfaces,2016,8,10324-10333.   \n32 X.D. Cui,Z.Q. Xie and Y. Wang，Nanoscale,2016,8, 11984-11992.   \n33 F. Ke, L. G. Qiu, Y. P. Yuan, F. M. Peng, X. Jiang, A. J. Xie, Y.H.Shen and J.F. Zhu,J.Hazard.Mater.,2011,196,36- 43.   \n34 Y.Wang,G.Q. Ye,H. H. Chen,X.Y. Hu, Z. Niu and S.Q.Ma,J.Mater. Chem.,2015,3,15292-15298.   \n35 Y. Zhang, X. Zhao, H. Huang, Z. Li, D. Liu and C. Zhong, RSC Adv.,2015,5,72107-72112.   \n36 Z. Q. Wang, M.Wang, G.H. Wu, D. Y. Wu and A.G. Wu, Dalton Trans.,2014,43,8461-8468.   \n37 L.Zhang,G.Qian,Z. J. Liu,Q. Cui,H.Y.Wang and H. Q. Yao, Sep.Purif. Technol.,2015,156,472-479.   \n38 C.G.Lee,J.W.Jeon,M.J.Hwang,K.H.Ahn,C.Park, J.W.Choi and S.H.Lee,Chemosphere,2015,130,59-65.   \n39 L.Trakal，R. Sigut，H. Sillerova，D.Faturikova and M.Komarek,Arabian J. Chem.,2014,7,43-52.   \n40 M.R. Awual, Chem. Eng.J.,2015,266,368-375.   \n41 S.T.Yang,Y.L. Chang,H. F.Wang,G.B.Liu,S.Chen, Y.W.Wang,Y.F.Liu and A.N. Cao,J. Colloid Interface Sci., 2010,351,122-127.   \n42M.A.Tofighy and T.Mohammadi,J.Hazard.Mater.,2011, 185,140-147.   \n43V.S.Mummidivarapu，S.Bandaru，D.S.Yarramala, K. Samanta,D. S.Mhatre and C.P.Rao,Anal. Chem.,2015, 87,4988-4995. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

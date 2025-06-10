@@ -1,0 +1,436 @@
+[
+    {
+        "type": "text",
+        "text": "樟树叶绿体基因组密码子偏好性分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦政，郑永杰²，桂丽静²，谢谷艾²，伍艳芳 $^ { 2 } *$ (1．江西农业大学，林学院，南昌330045；2 江西省林业科学院，国家林业局樟树树工程技术研究中心南昌 330032)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为分析樟树(Cinnamomum camphora)叶绿体基因组密码子偏好性使用模式，该研究利用CodonW、EMBOSS、R语言等软件和程序，对53条樟树叶绿体基因组密码子使用模式及偏好性进行了系统分析。结果表明，樟树叶绿体基因的有效密码子数(ENC)在36.82\\~59.30之间，表明密码子的偏好性较弱。相对同义密码子使用度(RSCU)分析发现RSCU>1的密码子有 32个，其中28个以A、U结尾，表明第3位密码子偏好使用A和U碱基。中性绘图分析发现， $\\mathbf { G C } _ { 3 }$ 与 $\\mathrm { G C } _ { 1 2 }$ 的相关性不显著，回归曲线斜率为0.049，说明密码子偏好性主要受到自然选择的影响，而ENC-plot分析中大部分基因落在曲线的下方，同样表明选择是影响密码子偏好性的主要因素。最终共有9个密码子(UUU、CUU、UCA、ACA、UAU、AAU、GAU、UGA、GGA)被鉴定为樟树叶绿体基因组的最优密码子。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：樟树，叶绿体基因组，密码子偏好性 中图分类号：Q943.2 文献标识码：A ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI: 10.11931/guihaia.gxzw201805023 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Codon Usage Bias Analysis of the Chloroplast Genome of camphor tree ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Cinnamomum camphora) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "QIN Zheng1,ZHENG Yongjie²,GUI Lijing², XIE Gu' ai²,WU Yanfang2 \\* (1. Jiangxi Agricultural University, Collegeof Forestry,Nanchang 33o45,China;2. Jiangxi AcademyofForestry Camphor Engineering and Technology Research CenterofState Forestry Administration,Nanchang 330032, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Synonymous codons are used with different frequencies among both species and genes within the same genome. In order to analyze the codon usage pattrns of the chloroplast genome of camphora tree,53 CDS(Coding DNA Sequences)were selected from the chloroplast genome of camphora tree and analyzed the codon usage patern and bias by CodonW, EMBOSS,R language and other softwares. The results showed that the effective codon number (ENC)of the chloroplast gene ranged from 36.82 to 59.30, indicating that bias of codons was weak. There were 32 codons with relative codon usage greater than 1,of which 28 were rich in A and U,indicating that the 3rd position of codon prefers A and $\\mathrm { ~ U ~ }$ genetic bases.Neutral analysis found that the correlation between GC3 and GC12 was not significant, and the slope of the regression curve was 0.049, suggesting that codon bias was mainly affected by natural selection, while the ENC-plot analysis found that most genes fell below and around the curve. It was shown that the mutation also affected the formation of codon bias.Eventualy, 9 codons (UUU, CUU, UCA,ACA, UAU, AAU, GAU,UGA, GGA) were identified as the optimal codons for the chloroplast genome of camphora tree. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words Cinnamoum camphora, chloroplast genome, codon bias ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "编码相同氨基酸的不同密码子被称为同义密码子。在生物体中，同义密码子的出现具有非随机性，即某一物种通常倾向于使用一种或几种特定的密码子，该现象被称为密码子使用偏好性(Codon usage bias,CUB)(Grantham et al,1980;Marin et al,1989)。密码子使用模式的分析从分子生物学层面揭示了基因调控、基因表达、蛋白质二级结构、选择性转录等现象，其中不同生物体密码子使用产生偏好性是突变压力和自然选择下的产生结果(Duret &Mouchiroud,1999;Gu et al,2004;Mg&De Farias,2006)，利用不同物种在密码子使用上的偏好性，可以提高蛋白表达的效率和准确性(Gerrit&Diarmaid,2016;Lee et al,2009)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叶绿体是植物生命活动的代谢中心，在植物光合作用和生物合成中具有重要作用(Andand Emes,2000)。植物叶绿体基因组由于规模小、拷贝数多，且在分子水平上多个基因的功能已得到验证，因此是当今生物学领域的研究热点(Xu etal,2011)。从1986 年烟草(Nicotianatabacum)(Shinozaki et al,1986)的和地钱(Ohyama et al,1986)(Marchantia polymorpha)的叶绿体基因组首次公布以来，目前在 NCBI 网站上的细胞器基因组数据库中中已有包括拟南芥(Arabidopsis thaliana)(Sato et al,1999)、水稻(Oryza sativa)(Hiratsuka et al, 1989)、草莓(Fragaria $\\cdot$ ananassa)(Cheng et al, 2017)和连翘(Forsythia suspensais)(Wang et al,2017)等在内的约800 种植物完整的叶绿体基因组信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "樟属植物全世界约250\\~300种，我国约有46种，主要分布在南方各省区。这些植物不仅可用于提取精油作为化工及医药上的重要原料，同时还是重要家具、建筑及雕刻等用材树种。作为樟属植物中的代表性植物，樟树(Cinnamomumcamphora)集材用、药用、香料、油用、生态环境建设和生态文化等于一体，极具开发和利用价值。2017年，Chen 等(Chen et al,2017)对樟树叶绿体基因组进行了测序和分析，结果显示樟树叶绿体基因组全长152 570 bp，具有特征性的保守四联体结构，在编码区和非编码区都检测到共40个重复结构和83个简单序列重复序列。目前，关于樟树叶绿体密码子使用偏好性的研究还未见报道。本研究通过对樟树叶绿体基因组中53个基因的密码子使用的偏好性进行分析，在揭示影响密码子偏好性最主要因素的同时还找出了最优密码子，旨在为樟科植物叶绿体基因组学的研究奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1序列的获取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在NCBI数据库(https://www.ncbi.nlm.nih.gov/)中下载樟树及其他樟科植物的叶绿体基因组信息。樟树叶绿体基因组序列的Genbank登录号为MF156716.1，共注释83条蛋白质编码基因序列。为避免计算密码子偏好性时出现样本偏差，在剔除重复序列后，最终获得53条编码区长度大于 $3 0 0 \\mathrm { b p }$ 且以ATG为起始密码子，TAA、TGA或TAG为终止密码子的基因序列用于后续分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1密码子偏好性分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用 CodonW1.4.2(http://sourceforge.net/projects/codonw)和 Excel 2013 统计各基因的密码子出现次数(Codon number，CN)、有效密码子数(Effective Number of codon,ENC)(Novembre,2002)和同义密码子相对使用度(Relative Synonymous Condon Usage,RSCU)(Sharp,Li,1986)。用 EMBOSS(http:/imed.med.ucm.es/EMBOSS/)中的 CUSP 程序分析樟树叶绿体基因组中各基因的GC 总含量和密码子第1、2、3位的GC 含量，分别用 $\\mathrm { G C _ { \\mathrm { a l l } } }$ ，$\\mathrm { G C _ { 1 } }$ 、 $\\mathbf { G C } _ { 2 }$ 和 $\\mathbf { G C } _ { 3 }$ 表示。 $\\mathrm { G C } _ { 3 \\mathrm { S } }$ 表示同义密码子第3位的GC含量。樟树叶绿体基因组中各基因的部分参数的相关性及显著性用R语言分析并绘图。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2中性绘图分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "中性绘图法的作用为初步判断选择或突变对密码子使用偏好性的影响。在Origin9.1中，以密码子前两位GC含量的平均值 $\\mathrm { G C } _ { 1 2 }$ 为纵坐标， $\\mathbf { G C } _ { 3 }$ 为横坐标，绘制散点图并做直线拟合分析。在直线拟合分析中，当回归系数接近1时， $\\mathrm { G C } _ { 1 2 }$ 与 $\\mathrm { G C } _ { 3 }$ 间的相关性显著，密码子的碱基组成在3个位置上无差异，表明密码子偏好性的主要决定因素为突变；当回归系数接近0时， $\\mathrm { G C } _ { 1 2 }$ 与 $\\mathbf { G C } _ { 3 }$ 之间相关性不显著，说明第密码子3个位置上的的碱基组成不同，则密码子的使用更多地受到选择影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3ENC-plot绘图分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ENC-plot绘图用于分析突变在密码子使用模式中的作用。当实际ENC值与预期 ENC值差异较小时，表明突变对密码子偏好性影响较大，反之选择为影响密码子偏好性的主要因素。此外，还可根据 ENC 值的高低推断密码子偏好性的强弱。ENC 值的理论范围在21\\~60,值越小表示偏好性越强。当ENC值为20和60两个极值时，表示同义密码子具有完全偏好性或没有偏好性。用R语言绘制二维散点图，横、纵坐标分别为 $\\mathrm { G C } _ { 3 \\mathrm { S } }$ 和 ENC，并在图中构建出ENC值的期望曲线，曲线的公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E N C } = 2 + \\mathrm { G C } _ { 3 \\mathrm { S } } + 2 9 / ( \\mathrm { G C } _ { 3 \\mathrm { S } } ^ { 2 } + ( 1 - \\mathrm { G C } _ { 3 \\mathrm { S } } ) ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 PR2-plot 分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了避免密码子第3位的AT 和GC 之间突变不平衡，PR2 偏好性分析(PR2-bias plotanalysis)仅对4种密码子编码的氨基酸做密码子第3位上A、T、C和 $\\mathbf { G }$ 这4种碱基的组成情况进行分析(Sueoka,1999)，并以 $\\mathbf { A } _ { 3 } / ( \\mathbf { A } _ { 3 } \\mathbf { + } \\mathbf { T } _ { 3 } )$ |4 的值作为纵坐标， ${ \\bf G } _ { 3 } / ( { \\bf G } _ { 3 } { + } { \\bf C } _ { 3 } )$ 丨4的值作为横坐标进行绘图。其中，“|4”表示四密码子氨基酸，分别为丙氨酸，精氨酸(CGA，CGT，CGG，CGC)，甘氨酸，亮氨酸(CTA，CTT，CTG，CTC)，脯氨酸，丝氨酸(TCA，TCT,TCG，TCC)，苏氨酸和缬氨酸。PR2-plot图的中心点为 $\\scriptstyle \\mathbf { A } = \\mathbf { T }$ ， $\\scriptstyle \\mathbf { C } = \\mathbf { G }$ ，以该点发出的矢量表示碱基偏移的程度和方向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5最优密码子分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对前期筛选出的53条基因的ENC值从小到大进行排序，两端各选出 $10 \\%$ 的基因建库，在高低两个基因库中将对应密码子的RSCU值相减得到△RSCU，选取 $\\Delta \\mathrm { R S C U } > 0 . 0 8$ 的密码子作为高表达密码子。将前文分析中RSCU值大于1的高频率密码子与 $\\Delta \\mathrm { R S C U } > 0 . 0 8$ 高表达密码子的结果相结合，从而确定出最优密码子(胡莎莎等,2016；罗洪等,2015)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6系统进化树的构建与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用MAFFT 7.397(Katoh, Standley,2013)(https://mafft.cbrc.jp/alignment/software/)将樟树与其他八种樟科植物的叶绿体基因组序列做多序列比对分析。选择银杏和云杉作为外类群。用BioEdit手工校正比对结果后导入MEGA7.0中用系统邻接法(Neighbor-Joining,NJ)构建进化树。用Bootstrap method进行重复检验1O00 次得出结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1樟树叶绿体基因组密码子偏好性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用CodonW1.4.2分析樟树叶绿体基因组中53条候选基因的密码子组成 (表1)。结果显示，平均GC含量为 $3 9 . 1 \\%$ ，且分布趋势为 $\\mathrm { G C } _ { 1 } ( 4 6 . 8 1 \\% ) > \\mathrm { G C } _ { 2 } ( 3 8 . 7 7 \\% ) > \\mathrm { G C } _ { 3 } ( 3 1 . 7 7 \\% )$ ，表明在密码子的3个位置上GC并不是均匀地分布，且第3位密码子偏好使用A和U碱基。樟树叶绿体基因组ENC 的取值范围在36.82\\~59.3，且大部分在45以上，说明樟树叶绿体基因组密码子偏好性较弱。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1结果表明，RSCU值大于1的密码子数目为34个。其中第3位上的碱基为U、A和G的数目分别为16，13和2，这说明U和A为樟树叶绿体基因组密码子的偏好碱基。53条基因的GC含量、ENC和CN间相关性分析结果显示(表2)， $\\mathrm { G C _ { \\mathrm { a l l } } }$ 与 $\\mathbf { G C } _ { 1 }$ 、 $\\mathbf { G C } _ { 2 }$ 和 $\\mathrm { G C } _ { 3 }$ 呈极显著相关，但 $\\mathbf { G C } _ { 1 }$ 、 $\\mathrm { G C } _ { 2 }$ 和 $\\mathbf { G C } _ { 3 }$ 的相关性水平不显著。ENC 与 $\\mathbf { G C } _ { 3 }$ 相关系数为0.27，呈显著相关，说明密码子的使用偏好性受第3位碱基的影响。CN 与 $\\mathbf { G C } _ { 3 }$ 、ENC显著相关，表明 $\\mathbf { G C } _ { 3 }$ 和密码子的偏好性受基因序列长度的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 中性绘图分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中性绘图分析显示(图2)， $\\mathrm { G C } _ { 1 2 }$ 和 $\\mathbf { G C } _ { 3 }$ 的分布范围都较为集中， $\\mathrm { G C } _ { 1 2 }$ 的范围在0.3431\\~0.5458, $\\mathbf { G C } _ { 3 }$ 在 $0 . 2 2 4 4 { \\sim } 0 . 5 2 1 4$ 。 $\\mathrm { G C } _ { 1 2 }$ 与 $\\mathrm { G C } _ { 3 }$ 的相关系数为0.143，回归系数为0.049，说明两者的相关性不显著，密码子第3位与第1、2位的进化方式可能存在一定差异，因此樟树叶绿体基因密码子偏好性主要受到选择的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3ENC-plot绘图",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "绘制ENC-plot 图分析樟树叶绿体基因组密码子偏好性是否被突变或选择等因素影响。从图3可明显看出，大部分基因落在期望曲线的下方，表示ENC实际值与ENC预期值之间差异较大，也说明樟树叶绿体基因组密码子偏好性更多受选择的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1樟树叶绿体基因组各基因密码子不同位置的GC含量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a27c8553da24d9de05f232a83a8df407b1d2958ff76bc8da9e4fa85d7796f4e.jpg",
+        "table_caption": [
+            "Table1GC content of different position of each gene in the chloroplast genomeofC.camphora "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">基因 Gene</td><td colspan=\"4\">GC含量</td><td rowspan=\"3\">ENC</td><td rowspan=\"3\">基因</td><td colspan=\"5\"></td><td rowspan=\"3\">ENC</td></tr><tr><td></td><td>GC</td><td>GC2</td><td>GC3</td><td>Gene</td><td>GCall</td><td>GC</td><td>GC含量 GC2</td></tr><tr><td>GCall</td><td></td><td></td><td></td><td></td><td></td><td>40.11</td><td></td><td>GC3</td></tr><tr><td>rps12</td><td>41.94</td><td>51.61</td><td>48.39</td><td>25.81</td><td>42.31</td><td>rpl20</td><td></td><td>39.83</td><td>51.69</td><td>28.81</td><td></td><td>47.04</td></tr><tr><td>psbA</td><td>42.28</td><td>49.72</td><td>43.79</td><td>33.33</td><td>42.62</td><td></td><td>rps12</td><td>41.46</td><td>47.90</td><td>48.74</td><td>27.73</td><td>45.19</td></tr><tr><td>matK</td><td>36.18</td><td>43.88</td><td>32.62</td><td>32.04</td><td>52.93</td><td></td><td>clpP</td><td>43.07</td><td>58.91</td><td>37.62</td><td>32.67</td><td>55.32</td></tr><tr><td>atpA</td><td>42.39</td><td>56.30</td><td>40.55</td><td>30.31</td><td>49.82</td><td></td><td>psbB</td><td>44.86</td><td>54.81</td><td>45.97</td><td>33.79</td><td>52.93</td></tr><tr><td>atpF</td><td>39.28</td><td>51.35</td><td>35.14</td><td>31.35</td><td>50.25</td><td></td><td>petB</td><td>40.90</td><td>49.54</td><td>41.67</td><td>31.48</td><td>45.28</td></tr><tr><td>atpI</td><td>39.25</td><td>50.00</td><td>37.50</td><td>30.24</td><td>46.54</td><td></td><td>petD</td><td>40.08</td><td>51.53</td><td>39.26</td><td>29.45</td><td>44.72</td></tr><tr><td>rps2</td><td>39.38</td><td>41.35</td><td>43.46</td><td>33.33</td><td>52.53</td><td></td><td>rpoA</td><td>36.67</td><td>46.47</td><td>34.12</td><td>29.41</td><td>49.35</td></tr><tr><td>rpoC2</td><td>38.72</td><td>46.61</td><td>38.31</td><td>31.24</td><td>51.18</td><td></td><td>rps11</td><td>44.53</td><td>54.20</td><td>54.96</td><td>24.43</td><td>49.29</td></tr><tr><td>rpoC1</td><td>39.67</td><td>51.02</td><td>39.04</td><td>28.95</td><td>50.58</td><td></td><td>rps8</td><td>36.59</td><td>42.11</td><td>40.60</td><td>27.07</td><td>48.44</td></tr><tr><td>rpoB</td><td>40.56</td><td>50.33</td><td>39.30</td><td>32.05</td><td>51.43</td><td></td><td>rpl14</td><td>40.38</td><td>55.28</td><td>36.59</td><td>29.27</td><td>44.71</td></tr><tr><td>psbD</td><td>42.84</td><td>51.69</td><td>43.50</td><td>33.33</td><td>45.37</td><td></td><td>rpl16</td><td>44.44</td><td>51.11</td><td>54.81</td><td>27.41</td><td>36.98</td></tr><tr><td>psbC</td><td>44.80</td><td>54.22</td><td>45.99</td><td>34.18</td><td>47.31</td><td></td><td>rps3</td><td>37.25</td><td>50.23</td><td>33.48</td><td>28.05</td><td>53.47</td></tr><tr><td>rps14</td><td>42.24</td><td>43.56</td><td>47.52</td><td>35.64</td><td>37.89</td><td></td><td>rpl22</td><td>38.12</td><td>41.49</td><td>42.55</td><td>30.32</td><td>50.08</td></tr><tr><td>psaB</td><td>42.27</td><td>49.12</td><td>42.72</td><td>34.97</td><td>51.27</td><td></td><td>ycf2</td><td>37.38</td><td>41.27</td><td>33.82</td><td>37.05</td><td>53.72</td></tr><tr><td>psaA</td><td>43.63</td><td>53.00</td><td>43.54</td><td>34.35</td><td>51.09</td><td></td><td>rps7</td><td>39.96</td><td>53.21</td><td>44.23</td><td>22.44</td><td>47.57</td></tr><tr><td>ycf3</td><td>39.05</td><td>47.34</td><td>40.24</td><td>29.59</td><td>54.44</td><td></td><td>ycf68</td><td>50.43</td><td>47.86</td><td>51.28</td><td>52.14</td><td>47.88</td></tr><tr><td>rps4</td><td>39.11</td><td>50.00</td><td>40.59</td><td>26.73</td><td>51.35</td><td></td><td>ycf1</td><td>32.75</td><td>38.31</td><td>30.31</td><td>29.62</td><td>49.50</td></tr><tr><td>ndhJ</td><td>42.14</td><td>51.57</td><td>38.36</td><td>36.48</td><td>54.1</td><td></td><td>ndhH</td><td>39.68</td><td>52.03</td><td>36.29</td><td>30.71</td><td>51.94</td></tr><tr><td>ndhK</td><td>38.81</td><td>42.31</td><td>43.71</td><td>30.42</td><td>50.81</td><td></td><td>ndhA</td><td>37.86</td><td>46.20</td><td>40.76</td><td>26.63</td><td>45.48</td></tr><tr><td>ndhC</td><td>38.29</td><td>49.59</td><td>34.71</td><td>30.58</td><td>47.37</td><td></td><td>ndhl</td><td>35.73</td><td>39.78</td><td>39.23</td><td>28.18</td><td>51.4</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "氨基酸 密码子 数目 RSCU 氨基酸 密码子 数目 RSCU   \nAA Codon number AA Codon number   \nPhe UUU 675 1.2 Pro CCU 322 1.45   \nUUC 449 0.8 CCC 209 0.94   \nLeu UUA 620 1.78 CCA 238 1.07   \nUUG 454 1.3 CCG 118 0.53   \nCUU 430 1.23 Thr ACU 398 1.49   \nCUC 144 0.41 ACC 230 0.86   \nCUA 291 0.83 ACA 311 1.17   \nCUG 155 0.44 ACG 126 0.47   \nIle AUU 826 1.45 Ala GCU 511 1.77   \nAUC 366 0.64 GCC 190 0.66   \nAUA 520 0.91 GCA 343 1.18   \nMet AUG 481 1 GCG L 114 0.39   \nVal GUU 431 1.45 Tyr UAU 608 1.58   \nGUC 154 0.52 UAC 162 0.42   \nGUA 419 1.41 TER UAA 25 1.42   \nGUG 187 0.63 UAG 10 0.57   \nSer UCU 409 1.54 His CAU 410 1.5   \nUCC 276 1.04 CAC ■ 137 0.5   \nUCA 323 1.22 Gln CAA 563 1.46   \nUCG 178 0.67 CAG 206 10.54   \nArg CGU 296 1.36 Asn AAU 761 1.54   \nCGC ■ 75 0.34 AAC 230 10.46   \nCGA 293 1.34 Lys AAA 792 1.48   \nCGG ■ 87 0.4 AAG 280 10.52   \nAGA 399 1.83 Asp GAU 669 1.57   \nAGG ■ 160 0.73 GAC ? 185 1 0.43   \nSer AGU 322 1.21 Glu GAA 840 1.47   \nAGC ■ 85 0.32 GAG 302 10.53   \nGly GGU 456 1.26 Cys UGU 181 1.49   \nGGC 1 180 0.5 UGC 一 62 10.51   \nGGA 542 1.49 TER UGA 1 18 1.02   \nGGG 274 0.75 Trp UGG 367 1 ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/75ee44f1e5285efef408e7bc271042c5ebf4d16f64ed5c4926d59fe22e3d7815.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：Phe．苯丙氨酸；Leu．亮氨酸；Ile．异亮氨酸；Met．蛋氨酸；Val，缬氨酸；Ser．丝氨酸；Arg．精氨酸；Gly.甘氨酸；Pro．脯氨酸；Thr．苏氨酸；Ala．丙氨酸；Tyr．酪氨酸；His．组氨酸；Gln．谷氨酰胺；Asn．天冬酰胺；Lys．赖氨酸；Asp．天冬氨酸；Glu.谷氨酸；Cys．半胱氨酸；Trp．色氨酸；TER 表示有空白或内部终止符号的氨基酸。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td>atpE</td><td>41.73</td><td>50.37</td><td>40.74</td><td>34.07</td><td>50.24</td><td></td><td>ndhG</td><td>37.29</td><td>46.89</td><td>35.59</td><td>29.38</td><td>46.18</td></tr><tr><td>atpB</td><td>43.02</td><td>56.91</td><td>41.68</td><td>30.46</td><td>48.63</td><td></td><td>ndhE</td><td>34.31</td><td>40.20</td><td>35.29</td><td>27.45</td><td>48.23</td></tr><tr><td>rbcL</td><td>45.73</td><td>58.61</td><td>43.91</td><td>34.66</td><td>51.37</td><td></td><td>ccsA</td><td>34.60</td><td>34.70</td><td>40.06</td><td>29.02</td><td>50.14</td></tr><tr><td>accD</td><td>37.04</td><td>41.27</td><td>39.88</td><td>29.96</td><td>47.01</td><td></td><td>ndhF</td><td>34.81</td><td>38.26</td><td>37.99</td><td>28.19</td><td>47.90</td></tr><tr><td>ycf4</td><td>40.72</td><td>43.78</td><td>42.16</td><td>36.22</td><td>59.30</td><td></td><td>ycf1</td><td>34.90</td><td>38.78</td><td>31.63</td><td>34.29</td><td>53.62</td></tr><tr><td>petA</td><td>41.12</td><td>53.27</td><td>36.14</td><td>33.96</td><td>54.99</td><td></td><td>rps7</td><td>39.96</td><td>53.21</td><td>44.23</td><td>22.44</td><td>47.57</td></tr><tr><td>rps18</td><td>34.64</td><td>35.29</td><td>43.14</td><td>25.49</td><td>36.82</td><td></td><td>Total</td><td>40.62</td><td>49.04</td><td>40.99</td><td>31.84</td><td>49.24</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Note:Phe. Phenylalanine； Leu. Leucine; Ile. Isoleucine;Met. Methionine；Val.   \nValine； Ser. Serine;Arg. Argnine;Gly. Glycine;Pro. Proline; Thr. Threonine; Ala.   \nAlanine; Tyr. Tyrosine; Hls. Hlstidine; Gln. Glutamine;Asn. Asparagine;Lys. Lysine; Asp. Aspartic acid; Glu. Glutamic acid; Cys. Cysteine; Trp. Tryptophane； TER   \nindicates an amino acid with a blank or internal termination symbol.The same below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Relative synonymous codons usage analysis in the chloroplast of C.camphora ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ed5753bdbfdbc20029c7fa5354d01b1ee93629a8e84925040122883ded547b5.jpg",
+        "table_caption": [
+            "表2樟树叶绿体基因组中各参数的相关性",
+            "Table 2 Correlation analysis of each parameters in the chloroplast genome of C.camphora "
+        ],
+        "table_footnote": [
+            "注： $^ *$ 表示相关性达到显著水平 $( P { < } 0 . 0 5 )$ ， $^ { * * }$ 表示相关性达到极显著水平 $( P { < } 0 . 0 1 )$ 。 Note: $*$ stands for significant correlation at the O.O5 level; $^ { * * }$ stands for significant correlation at the O.O1 level. "
+        ],
+        "table_body": "<html><body><table><tr><td>项目 Item</td><td>Gcall</td><td>GC1</td><td>GC2</td><td>GC3</td><td>ENC</td><td>CN</td></tr><tr><td>Gcall</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>GC1</td><td>0.722**</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>GC2</td><td>0.662**</td><td>0.193</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>GC3</td><td>0.487**</td><td>0.058</td><td>0.020</td><td>1.000</td><td></td><td></td></tr><tr><td>ENC</td><td>-0.066</td><td>0.074</td><td>-0.428**</td><td>0.274*</td><td>1.000</td><td></td></tr><tr><td>CN</td><td>-0.207</td><td>-0.165</td><td>0.355</td><td>0.186</td><td>0.262*</td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/749d3b1b09dd5e7da3acad5c94e5baf28722a46160b6c386cd80e22d7bbd945c.jpg",
+        "img_caption": [
+            "图1樟树叶绿体基因组同义密码子使用频率",
+            "图2樟树叶绿体基因组中性绘图分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Neutrality plot analysis in the chloroplast of C.camphora ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/af72e23171203c1202bdf3e74dab9b3fbdc435fb52d79cd06d76e9d0bc2d03c3.jpg",
+        "table_caption": [
+            "表2樟树叶绿体基因组最优密码子分析 Table 2 GC content of different position of genes in the chloroplast genome of C.camphora "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">氨基酸</td><td rowspan=\"2\">密码子</td><td colspan=\"2\">高表达基因 High expressed gene</td><td colspan=\"2\">低表达基因 Low expressed gene</td><td rowspan=\"2\">△ RSCU</td></tr><tr><td>Number</td><td>RSCU</td><td>Number</td><td>RSCU</td></tr><tr><td>nino acid Phe</td><td>Codon UUU *</td><td>28</td><td>1.08</td><td>16</td><td>0.84</td><td>0.24</td></tr><tr><td></td><td>UUC</td><td>24</td><td>0.92</td><td>22</td><td>1.16</td><td>-0.24</td></tr><tr><td>Leu</td><td>UUA</td><td>19</td><td>1.34</td><td>19</td><td>1.84</td><td>-0.5</td></tr><tr><td></td><td>UUG</td><td>19</td><td>1.34</td><td>17</td><td>1.65</td><td>-0.31</td></tr><tr><td></td><td>CUU *</td><td>23</td><td>1.62</td><td>15</td><td>1.45</td><td>0.17</td></tr><tr><td></td><td>CUC *</td><td>6</td><td>0.42</td><td>0</td><td>0</td><td>0.42</td></tr><tr><td></td><td>CUA</td><td>9</td><td>0.64</td><td>10</td><td>0.97</td><td>-0.33</td></tr><tr><td></td><td>CUG ***</td><td>9</td><td>0.64</td><td>1</td><td>0.1</td><td>0.54</td></tr><tr><td>Ile</td><td>AUU</td><td>34</td><td>1.15</td><td>33</td><td>1.52</td><td>-0.37</td></tr><tr><td></td><td>AUC *</td><td>26</td><td>0.88</td><td>16</td><td>0.74</td><td>0.14</td></tr><tr><td></td><td>AUA *</td><td>29</td><td>0.98</td><td>16</td><td>0.74</td><td>0.24</td></tr><tr><td>Met</td><td>AUG</td><td>26</td><td>1</td><td>22</td><td>1</td><td>0</td></tr><tr><td>Val</td><td>GUU</td><td>28</td><td>1.53</td><td>18</td><td>1.53</td><td>0</td></tr><tr><td></td><td>GUC</td><td>6</td><td>0.33</td><td>6</td><td>0.51</td><td>-0.18</td></tr><tr><td></td><td>GUA</td><td>23</td><td>1.26</td><td>20</td><td>1.7</td><td>-0.44</td></tr><tr><td></td><td>GUG ***</td><td>16</td><td>0.88</td><td>3</td><td>0.26</td><td>0.62</td></tr><tr><td>Ser</td><td>UCU</td><td>20</td><td>1.82</td><td>21</td><td>2</td><td>-0.18</td></tr><tr><td></td><td>UCC</td><td>10</td><td>0.91</td><td>12</td><td>1.14</td><td>-0.23</td></tr><tr><td></td><td>UCA **</td><td>11</td><td>1</td><td>7</td><td>0.67</td><td>0.33</td></tr><tr><td></td><td>UCG</td><td>5</td><td>0.45</td><td>5</td><td>0.48</td><td>-0.03</td></tr><tr><td>Pr0</td><td>CCU</td><td>17</td><td>1.15</td><td>18</td><td>1.67</td><td>-0.52</td></tr><tr><td></td><td>CCC *</td><td>21</td><td>1.42</td><td>13</td><td>1.21</td><td>0.21</td></tr><tr><td></td><td>CCA</td><td>16</td><td>1.08</td><td>11</td><td>1.02</td><td>0.06</td></tr><tr><td></td><td>CCG *</td><td>5</td><td>0.34</td><td>1</td><td>0.09</td><td>0.25</td></tr><tr><td>Thr</td><td>ACU</td><td>11</td><td>1.16</td><td>19</td><td>1.65</td><td>-0.49</td></tr><tr><td></td><td>ACC</td><td>11</td><td>1.16</td><td>15</td><td>1.3</td><td>-0.14</td></tr><tr><td></td><td>ACA *</td><td>10</td><td>1.05</td><td>11</td><td>0.96</td><td>0.09</td></tr><tr><td></td><td>ACG ***</td><td>6</td><td>0.63</td><td>1</td><td>0.09</td><td>0.54</td></tr><tr><td>Ala</td><td>GCU</td><td>27</td><td>1.66</td><td>32</td><td>2.21</td><td>-0.55</td></tr><tr><td></td><td>GCC **</td><td>12</td><td>0.74</td><td>6</td><td>0.41</td><td>0.33</td></tr><tr><td></td><td>GCA</td><td>21</td><td>1.29</td><td>18</td><td>1.24</td><td>0.05</td></tr><tr><td></td><td>GCG *</td><td>5</td><td>0.31</td><td>2</td><td>0.14</td><td>0.17</td></tr><tr><td>Tyr</td><td>UAU **</td><td>45</td><td>1.76</td><td>17</td><td>1.42</td><td>0.34</td></tr><tr><td></td><td>UAC</td><td>6</td><td>0.24</td><td>7</td><td>0.58</td><td>-0.34</td></tr><tr><td>TER</td><td>UAA</td><td>2</td><td>1.2</td><td>4</td><td>2.4</td><td>-1.2</td></tr><tr><td></td><td>UAG ***</td><td>1</td><td>0.6</td><td>0</td><td>0</td><td>0.6</td></tr><tr><td>His</td><td>CAU</td><td>11</td><td>1.38</td><td>15</td><td>1.36</td><td></td></tr><tr><td></td><td>CAC</td><td>5</td><td>0.63</td><td>7</td><td>0.64</td><td>0.02 -0.01</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/018d4e0fce4a59eb01127816b5be337a2f621708cab462e689ccec5c83b089e0.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注： $^ *$ 表示最优密码子。 Note: \\*represents the optimal codons. "
+        ],
+        "table_body": "<html><body><table><tr><td>Gln</td><td>CAA</td><td>30</td><td>1.36</td><td>19</td><td>1.36</td><td>0</td></tr><tr><td rowspan=\"2\">Asn</td><td>CAG</td><td>14</td><td>0.64</td><td>9</td><td>0.64</td><td>0</td></tr><tr><td>AAU ***</td><td>38</td><td>1.73</td><td>20</td><td>1.18</td><td>0.55</td></tr><tr><td></td><td>AAC</td><td>6</td><td>0.27</td><td>14</td><td>0.82</td><td>-0.55</td></tr><tr><td rowspan=\"2\">Lys</td><td>AAA</td><td>25</td><td>1.28</td><td>29</td><td>1.53</td><td>-0.25</td></tr><tr><td>AAG *</td><td>14</td><td>0.72</td><td>9</td><td>0.47</td><td>0.25</td></tr><tr><td>Asp</td><td>GAU **</td><td>37</td><td>1.72</td><td>11</td><td>1.38</td><td>0.34</td></tr><tr><td rowspan=\"2\">Glu</td><td>GAC</td><td>6</td><td>0.28</td><td>5</td><td>0.63</td><td>-0.35</td></tr><tr><td>GAA</td><td>54</td><td>1.5</td><td>28</td><td>1.6</td><td>-0.1</td></tr><tr><td></td><td>GAG</td><td>18</td><td>0.5</td><td>7</td><td>0.4</td><td>0.1</td></tr><tr><td>Cys</td><td>UGU</td><td>5</td><td>1</td><td>7</td><td>1.75</td><td>-0.75</td></tr><tr><td></td><td>UGC ***</td><td>5</td><td>1</td><td>1</td><td>0.25</td><td>0.75</td></tr><tr><td>TER</td><td>UGA ***</td><td>2</td><td>1.2</td><td>1</td><td>0.6</td><td>0.6</td></tr><tr><td>Trp</td><td>UGG</td><td>18</td><td>1</td><td>15</td><td>1</td><td>0</td></tr><tr><td>Arg</td><td>CGU</td><td>14</td><td>1.25</td><td>22</td><td>1.67</td><td>-0.42</td></tr><tr><td></td><td>CGC *</td><td>5</td><td>0.45</td><td>4</td><td>0.3</td><td>0.15</td></tr><tr><td></td><td>CGA</td><td>15</td><td>1.34</td><td>18</td><td>1.37</td><td>-0.03</td></tr><tr><td></td><td>CGG **</td><td>6</td><td>0.54</td><td>2</td><td>0.15</td><td>0.39</td></tr><tr><td></td><td>AGA</td><td>16</td><td>1.43</td><td>27</td><td>2.05</td><td>-0.62</td></tr><tr><td></td><td>AGG ***</td><td>11</td><td>0.99</td><td>6</td><td>0.46</td><td>0.53</td></tr><tr><td>Ser</td><td>AGU</td><td>14</td><td>1.27</td><td>13</td><td>1.24</td><td>0.03</td></tr><tr><td></td><td>AGC</td><td>6</td><td>0.55</td><td>5</td><td>0.48</td><td>0.07</td></tr><tr><td rowspan=\"4\">Gly</td><td>GGU</td><td>22</td><td>1.19</td><td>29</td><td>1.71</td><td>-0.52</td></tr><tr><td>GGC</td><td>11</td><td>0.59</td><td>9</td><td>0.53</td><td>0.06</td></tr><tr><td>GGA *</td><td>30</td><td>1.62</td><td>23</td><td>1.35</td><td>0.27</td></tr><tr><td>GGG *</td><td>11</td><td>0.59</td><td>7</td><td>0.41</td><td>0.18</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e858c3cb77dc8c6a3583e1e7a355d31c68e7fbb2aa763bd260d7e5d555f6d271.jpg",
+        "img_caption": [
+            "图3樟树叶绿体基因组ENC-plot绘图分析Fig.3 Analysis of ENC-plot in the chloroplast of C.camphora"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f271291f5b54ab366e16cc18efef975f8dce60945a041ccbc6149ec45d7dd9b.jpg",
+        "img_caption": [
+            "图4樟树叶绿体基因组PR2-plot分析Fig.4Analysis of PR2-plot in the chloroplastof C.camphora"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4d871b4329352a97703a74741c27ae91295f5adafa1175dd4629a863e0bc7b1.jpg",
+        "img_caption": [
+            "图5樟科叶绿体基因组系统进化树"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注：NCBI登录号：潺槁木姜子KU382356.1；沉水樟 NC_035802.1；滇润楠 KT348516.1;   \n鳄梨 KX437771.1；锡兰肉桂 NC_035236.1；锈毛润楠 KT348517.1；异色土楠KX674308.1; 银杏JN867585.1；云杉 NC_032367.1；樟树 MF156716.1；桢楠 NC_036143.1。 Note: ID number in NCBI: Litsea glutinosa KU382356.1; Cinnamomum micranthum NC_035802.1; Machilus yunnanensis KT348516.1; Persea americana KX437771.1; Cinnamomum verum NC_O35236.1; Machilus balansae KT348517.1; Endiandra discolor   \nKX674308.1; Ginkgo biloba JN867585.1; Picea asperata NC_032367.1; Cinnamomum camphora MF156716.1; Phoebe zhennan NC_036143.1). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 Phylogenetic tree based on chloroplast genome sequence of Lauraceae ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1344e6f69b7867ac97c27d4e5b5193011a7835f6c9a0cf23ec9f86acd59d56ff.jpg",
+        "img_caption": [
+            "图6沉水樟叶绿体基因组中性绘图分析Fig.7AnalysisofneutralityplotofC.micranthum"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3412d25a4e946de6efef3e1f1a08acaf151310bbc01beec8301219afa5061f8.jpg",
+        "img_caption": [
+            "图7沉水樟叶绿体基因组ENC-plot分析Fig.8AnalysisofENC-plotofC.micranthum"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.4PR2-plot分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过PR2-plot 绘图进一步分析樟树叶绿体基因组密码子偏好性的影响(图4)。当A、T、C 和G四种碱基的使用频率，即 $\\scriptstyle \\mathbf { A } = \\mathbf { T }$ ， $\\scriptstyle \\mathbf { C = G }$ 时，密码子使用偏好性不受选择和突变影响(Sueoka，2001)。研究发现，4个区域中的基因位点分布并不均匀，左上方位置的个数较多，说明在第3位碱基的选择上密码子具有偏好性，且碱基A的使用频率高于T，碱基C的使用频率高于G。因此可推论选择是樟树叶绿体基因组密码子偏好性的主要影响因素。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5最优密码子的确定",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对 53个候选基因的ENC值进行排序后，从两端各选取 $10 \\%$ 的基因建立高、低表达基因库，然后计算两个表达库中密码子的RSCU值和两个库中的△RSCU值(表2)。最后确定了26 个密码子为樟树叶绿体基因组高表达密码子。对26个密码子的第3位碱基进行分析，其中U结尾的有5个，以A结尾的有5个，以C、G结尾的分别为6个和10个。结合26个高表达密码子和图1的32个高频密码子，选取两者的公共部分，最后确定了9个樟树叶绿体基因组最优密码子，分别为UUU、CUU、UCA、ACA、UAU、AAU、GAU、UGA、GGA。其中，所有密码子均以U或A结尾。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.6系统进化树的构建与分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "比较叶绿体基因组序列可以揭示近缘物种类群之间的系统进化关系，同时阐明植物的进化模式(Kimet al.,2015)。为深入了解樟树在樟科植物的进化规律和关系，将樟树与其他八种樟科植物的叶绿体基因组序列共同构建系统进化树，选取裸子植物的银杏和云杉为外类群(图 5)。结果显示，樟科植物的叶绿体基因组单独聚为一枝，与外类群区分明显。樟树与沉水樟的叶绿体基因组亲缘关系最近，且两者均为樟科樟属植物成员，因此推测可能两者可能具有相似的密码子偏好性模式。利用相同的方法对沉水樟叶绿体基因组进行中性绘图(图 6)和 ENC-plot 绘图(图7)分析，发现 $\\mathrm { G C } _ { 1 2 }$ 与 $\\mathbf { G C } _ { 3 }$ 的回归系数接近0(为0.053)，同样在ENC-plot绘图中，大部分基因落在期望曲线的下方，两者都说明选择是影响沉水樟叶绿体基因组密码子偏好性的主要因素，这也与樟树的分析结果类似，表明樟科或樟属植物在进化过程中自然选择因素对叶绿体基因组密码子偏好性的影响较大。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "同义密码子在不同物种间和同一基因组内的不同基因间使用都具有一定偏好性，高表达量的基因通常具有最优密码子并且其密码子偏好性往往更强(Ghaemmaghami et al,2003;Goetz & Fuglsang,2005; Ingvarsson,2007)。Zhou(Zhou et al,2008b)等的研究发现，植物叶绿体基因组中，密码子结尾处的碱基更偏好使用A或T。本研究发现在樟树叶绿体基因组中$\\mathbf { G C } _ { 3 }$ 与 $\\mathbf { G C } _ { 1 }$ 、 $\\mathbf { G C } _ { 2 }$ 相关不显著，且 $\\mathbf { G C } _ { 3 }$ 的比例为三者中最低，因此也得到类似的结果，即偏好密码子多以A 或T 结尾，这也与苹果(Malus $\\times$ domestica)(金桂花等，2014)、杉木(Cunninghamia lanceolata)(郑薇玮等,2016)和柿(Diospyros kaki)(傅建敏等,2017)等植物的密码子偏好性研究结果一致。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "密码子偏好性的形成原因受多种因素影响，除了最主要的突变和自然选择(Rao et al,2011)外,碱基组成差异(Romero et al,2000)、基因编码结构(Rao et al,2011)、tRNA 丰度(Novoa&Pouplana,2012)等多种因素也会影响其偏好性。其中 tRNA 的表达丰度最高，相应的密码子偏好性就越强(Duret,2002;Hershberg&Petrov,2008)。本研究通过对樟树叶绿体基因组三个不同位置上的密码子碱基组成及密码子相关系数进行研究，经中性分析、ENC-plot 分析和 PR2-plot 等分析后发现，选择是影响樟树叶绿体基因组密码子偏好性的主要因素，突变对密码子的偏好性影响较小。在陆地棉(Gossypium hirsutum)(尚明照等，2011)、糜子(Panicum miliaceum)(刘慧等,2017)、普通油茶(Camellia oleifera)(王鹏良等,2018)等植物的叶绿体基因组密码子偏好性分析中，也得到了与本研究相似的结果。然而，在对拟南芥和杨树(Zhou etal,2008)叶绿体基因组密码子偏好性的研究中发现，突变是主要的影响因素。由此可见植物密码子偏好性受多重因素共同影响，且影响不同植物密码子偏好性的主要因素也不同。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在强的正向选择和突变压力的作用下往往会形成大量的最优密码子，相反在纯化选择和突变压力作用下最优密码子数目相对较少(Hershberg&Petrov,2008；宋辉等,2015)。本研究将高频密码子和高表达密码子分析相结合，共筛选出9个樟树叶绿体基因组中的最优密码子，且这些密码子都以A和U碱基结尾，该结果与前人在蒺藜苜蓿(杨国锋等,2015)、水稻(Zhouet al,2008a)等植物的中的研究相吻合。在系统进化树中，分枝越长的物种表明其进化速率与树中的其他成员相比更快，进化树中异色土楠自成一枝且分枝相对较长，这也与前人发现它是在进化中首先与其他樟科植物分离的物种的观点相吻合(Hinsinger and Strijk,2017)。同时，通过分析发现樟树与沉水樟的密码子偏好性都主要受到选择的影响，说明亲缘关系越近的物种可能具有越相似的密码子偏好性。本研究对今后提高目的基因的表达效率具有重要作用，而樟科植物叶绿体基因组密码子分析也将为今后被子植物的系统发育研究提供重要的参考价值(Moore et al, 2007;Ruhfel et al, 2014)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nCHEN C, ZHENG Y, LIU S,et al, 2017. The complete chloroplast genome of Cinnamomum camphora and its comparison with related Lauraceae species[J]. Peer J, 5(2): e3820.   \nCHENG H, LI J, ZHANG H,et al, 2O17. The complete chloroplast genome sequence of strawberry (Fragaria $\\times$ ananassa Duch.）and comparison with related species of Rosaceae[J]. PeerJ, 5(10): e3919.   \nDURET L, 2002. Evolution of synonymous codon usage in metazoans[J]. Curr Opin Genet Dev, 12(6): 640-649.   \nDURET L& MOUCHIROUD D, 1999. Expression pattern and, surprisingly， gene length shape codon usage in Caenorhabditis,Drosophila, and Arabidopsis[J]. Proc Natl Acad Sci USA, 96(8): 4482-4487.   \nFU JM, SUO YJ,LIU HM,et al,2017. Analysis on codon usage in the chloroplast protein-coding genes of Diospyros spp[J]. Economic For Res,35(2):38-44.[傅建敏，索玉静，刘慧敏，等, 2017．柿属植物叶绿体蛋白质编码基因密码子用法[J].经济林研究,35(2):38-44.]   \nGERRIT B& DIARMAID H,2016. The selective advantage of synonymous codon usage bias in Salmonella[J]. Plos Genet, 12(3): e1005926.   \nGHAEMMAGHAMI S,HUH WK, BOWER K, et al,2003. Global analysis of protein expression in yeast[J]. Nature, 425(6959): 737-741.   \nGOETZ R&FUGLSANG A，2005. Correlation of codon bias measures with mRNA levels: analysis of transcriptome data from Escherichia coli[J]. Biochem Bioph Res Co,327(1): 4-7.   \nGRANTHAM R,GAUTIER C, GOUY M, et al, 1980.Codon catalog usage and the genome hypothesis[J]. Nucleic Acids Res, 8(1): r49.   \nGU W, ZHOU T, MA J, et al, 2004. Analysis of synonymous codon usage in SARS Coronavirus and other viruses in the Nidovirales[J]. Virus Res,1O1(2): 155-161.   \nHERSHBERG R& PETROV DA, 2008. Selection on codon bias[J]. Annu Rev Genet, 42(42): 287-299.   \nHINSINGER DD& STRIJK JS,2017. Toward phylogenomics of Lauraceae: The complete chloroplast genome sequence of Litsea glutinosa (Lauraceae)， an invasive tree species on Indian and Pacific Ocean islands[J]. Plant Gene, 9: 71-79.   \nHIRATSUKA J, SHIMADA H, WHITTIER R, et al, 1989. The complete sequence of the rice (Oryza sativa） chloroplast genome: Intermolecular recombination between distinct tRNA genes accounts for a major plastid DNA inversion during the evolution of the cereals[J]. Mol Gen Genet, 217(2-3): 185-194.   \nHU SS,LUO H, WU Q,et al, 2016.Analysis of codon bias of chloroplast genome of tartary buckwheat[J].Molecular Plant Breeding,14(2):309-317.[胡莎莎，罗洪，吴琦，等,2016．苦 荞叶绿体基因组密码子偏爱性分析[J].分子植物育种,14(2):309-317.]   \nINGVARSSON PK, 2OO7. Gene expression and protein length influence codon usage and rates of sequence evolution in Populus tremula[J]. Mol biol evol, 24(3): 836.   \nJIN GH, CHEN SY, YIN TS, et al, 2014. Characterization of the complete chloroplast genome of apple (Malus $\\times$ domestica， Rosaceae) [J]. JPlant Classification Resource, 36(4): 468-484.[金 桂花，陈斯云，伊廷双，等．2014．苹果叶绿体基因组特征分析[J]．植物分类与资源学报, 36(4): 468-484.]   \nKATOH K& STANDLEY DM, 2013. MAFFT multiple sequence alignment software version 7: improvements in performance and usability[J]. Mol Biol Evol, 30(4): 772-780.   \nKIM K,LEE SC,LEE J,et al, 2015. Complete chloroplast and ribosomal sequences for 30 accessions elucidate evolution of Oryza AA genome species[J]. Sci Rep-uk, 5: 15655.   \nLEE SF, LI YJ, HALPERIN S A,20O9. Overcoming codon-usage bias in heterologous protein expression in Streptococcus gordonii[J]. Microbiology, 155(Pt 11): 3581-3588.   \nLIU H, WANG MX, YUE WJ, et al, 2017. Analysis of codon usage in the chloroplast genome of Broomcornilet (Panicum miliaceum L.)[J]. JPlant Sci,35(3): 2-371.[刘慧，王梦醒，岳文杰, 等,2017．糜子叶绿体基因组密码子使用偏性的分析[J]．植物科学学报,35(3):362-371.]   \nLUO H, WU SS,WU Q, et al, 2015. Analysis of buckwheat chloroplast gene codon bias[J]. Gen Appl Biol，34(11):2457-2464.[罗洪，胡莎莎，吴琦，等，2015．甜荞叶绿体基因密码子偏 爱性分析[J].基因组学与应用生物学,34(11):2457-2464.]   \nMARIN A, BERTRANPETIT J, OLIVER JL, et al, 1989. Variation in $\\mathrm { \\bf G } { + } \\mathrm { \\bf C }$ content and codon choice: differences among synonymous codon groups in vertebrate genes[J]. Nucleic Acids Res,17(15): 6181-6189.   \nMG VDL& FARIAS ST，2OO6. Correlation between codon usage and thermostability[J]. Extremophiles, 10(5): 479-481.   \nMOORE MJ, BELL CD, SOLTIS PS,et al, 2007. Using plastid genome-scale data to resolve enigmatic relationships among basal angiosperms[J]. Proceed Nat Acad Sci USA,104(49): 19363-19368.   \nNEUHAUS HE&EMES MJ,2000. Nonphotosynthetic metabolism in plastids[J].Annu. Rev. Plant Physiol. Plant Mol Biol, 51(1):111-140   \nNOVEMBRE JA， 2002. Accounting for background nucleotide composition when measuring codon usage bias[J]. Mol Biol Evol,19(8): 1390.   \nNOVOA EM，POUPLANA LRD，2012. Speeding with control: codon usage， tRNAs，and ribosomes[J]. Trends Genet, 28(11): 574.   \nOHYAMA K, FUKUZAWA H, KOHCH T, et al,1986. Chloroplast gene organization deduced from complete sequence of liverwort Marchantia polymorpha chloroplast DNA[J]. Nature, 322(6079): 572-574.   \nRAO Y, WU G, WANG Z, et al. 2011. Mutation bias is the driving force of codon usage in the gallus gallus genome[J]. DNA Res, 18(6): 499-512.   \nROMERO H, ZAVALA A, MUSTO H, 2000. Codon usage in chlamydia trachomatis is the result of strand-specific mutational biases and a complex pattern of selective forces[J]. Nucl Acids Res,28(10): 2084-2090.   \nRUHFEL BR，GITZENDANNER MA， SOLTISPS，et al，2014．From algaeto angiosperms-inferring the phylogeny of green plants (Viridiplantae） from 36O plastid genomes[J]. Bmc evol biol, 14(1): 23.   \nSATO S, NAKAMURA Y, KANEKO T, et al, 1999. Complete structure of the chloroplast genome of Arabidopsis thaliana[J]. DNA Res, 6(5): 283.   \nSHANG ZM, LIU F, HUA JP, et al, 2011. Analysis on codon usage of chloroplast genome of Gossypium hirsutum [J].Chin JAgric Sci,44(2): 245-253.[尚明照，刘方，华金平，等,2011. 陆地棉叶绿体基因组密码子使用偏性的分析[J]．中国农业科学,44(2):245-253.]   \nSHARP PM& LI WH，1986. An evolutionary perspective on synonymous codon usage in unicellular organisms[J]. J Mol Evol, 24(1-2): 28-38.   \nSHINOZAKI K, OHME M, TANAKA M, et al, 1986. The complete nucleotide sequence of the tobacco chloroplast genome: its gene organization and expression[J]. Embo J,5(9): 111-148.   \nSONG H, WANG PF, MA DC, et al, 2015. Analysis on codon usage of WRKY transcription factor of Medicago truncatula[J].J Agric Biotechnol, 23(2): 203-212.[宋辉，王鹏飞，马登超，等, 2015．蒺藜苜蓿 WRKY 转录因子密码子使用偏好性分析[J]．农业生物技术学报，23(2): 203-212.]   \nSUEOKA N. 1999.Translation-coupled violation of Parity Rule 2 in human genes is not the cause of heterogeneity of the DNA $\\mathrm { G } { + } \\mathrm { C }$ content of third codon position[J]. Gene, 238(1): 53-58.   \nSUEOKA N. 2O01. Near homogeneity of pr2-bias fingerprints in the human genome and their implications in phylogenetic analyses[J]. JMol Evol, 53(4-5): 469.   \nWANG PL， YANG LP,WU HY, et al, 2018. Condon preference of chloroplast genome in Camellia oleifera[J].Guangxi Plant (2).[王鹏良，杨利平，吴红英，等,2018．普通油茶叶绿 体基因组密码子偏好性分析[J].广西植物(2).]   \nWANG W, YU H, WANG J, et al. 2017. The complete chloroplast genome sequences of the medicinal plant Forsythia suspensa (Oleaceae) [J]. Int JMol Sci, 18(11): 2288.   \nXU C，CAI X,CHEN Q，et al. 2011. Factors affecting synonymous codon usage bias in chloroplast genome of Oncidium Gower Ramsey[J]. Evol bioinform,(7): 271-278.   \nXU C,BEN AL, CAI XN,et al. 2010. Analysis of synonymous codon usage in chloroplast genome of phalaenopsis aphrodite subsp.formosana[J]. Mol Plant Breeding，2O10,08(5): 945-950.[续晨，贲爱玲，蔡晓宁,等，2010.蝴蝶兰叶绿体基因组密码子使用的相关分析[J]. 分子植物育种,08(5):945-950.]   \nYANG GF, SU KL， ZHAO YR,et al. Analysis on codon usage of chloroplast genome of Medicago truncatula [J].JPratac Sin,24(12):171-179.[杨国锋，苏昆龙，赵怡然，等,2015. 蒺藜苜蓿叶绿体密码子偏好性分析[J]．草业学报,24(12):171-179.]   \nZHANG X, XIN W, WANG S, et al, 2005. Optimizing the codon usage of HIV-1 gag gene according to the codon bias of vaccinia virus improves the gag gene expression[J]. Chinese Journal of Virology, 21(3): 210-216.   \nZHENG WW, CHEN JH, HAO ZD, et al, 2016. Analysis on codon usage bias of chloroplast genes from five conifers including Cunninghamia lanceolata [J]. Mol Plant Breeding，14(5): 1091-1097.[郑薇玮，陈金慧，郝兆东，等，2016.杉木等 5 种针叶树叶绿体密码子偏好性 分析[J]．分子植物育种,14(5): 1091-1097.]   \nZHOU M, LONG W, LI X. Patterns of synonymous codon usagebias in chloroplast genomes of seed plants [J]. Forest Stud Chin, 2008,11(4):235-242.   \nZHOU M, WEI L, XIA L, 2008. Patterns of synonymous codon usage bias in chloroplast genomes of seed plants[J]. For Ecosy,10(4): 235-242. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

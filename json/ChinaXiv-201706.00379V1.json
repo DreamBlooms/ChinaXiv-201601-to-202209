@@ -1,0 +1,516 @@
+[
+    {
+        "type": "text",
+        "text": "亚音轴流压气机转子转速对叶尖区非定常流的影响 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈智洋1 吴艳辉1,2 杨国伟1 安光耀王 博1(1．西北工业大学动力与能源学院，西安710072；2．先进航空发动机协同创新中心，北京100191)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要为了探究不同转速对某亚音轴流压气机叶尖泄漏流非定常性的影响，采用动态压力测量技术获得不同转速机匣壁处压力信号。试验测量表明，在近失速工况压力信号的频谱出现表征旋转不稳定性的特征频率驼峰。其驼峰峰值处频率随转速的提高相对减小。在此基础，分别进行不同转速的多通道数值模拟。数值模拟中，叶尖区的静压监测信号频谱与试验具有一致性，转子叶尖存在逆转子传播的周向行波。该周向行波对应了试验中的旋转不稳定现象。进一步的数值模拟流场分析表明，该周向行波在 $5 3 \\%$ 设计转速时是源于叶顶泄漏流自我维持的非定常性。在 $7 1 \\%$ 设计转速时，在某些时刻泄漏涡发生破碎并参与到周向行波的形成过程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词亚音压气机；轴流；非定常性；叶尖泄漏流；试验测量；数值模拟中图分类号：V231 文献标识码：A 文章编号:0253-231X(2017)050993-08",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Influence of Different Rotor Speeds on the Unsteady Flow Near Tip Region in a Subsonic Axial Flow ompressor Rotor ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Zhi-Yang1 WU Yan-Hui1,2 Guo-Wei1AN Guang-Yao1 WANG Bo $^ 1$ (1. School of Power and Energy,Nortbwestern Polytechnical University，Xi'an 710072,China 2. Collaborative Innovation Ceter for Advanced Aero-Engine， Beijing 100l91, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract In order to explore theluence of the different rotor speed on the unsteady flow near tip region in a subsonic axial fowcohpressr rotor, the casing wall static pressure signals were measured by the dynamical pressure transducers at $5 3 \\%$ and 71% design rotor speeds respectively. In the pressure frequency speltra, RIs were to be found as characteristic humps below the blade passing frequency near stallat different rotor speeds. The peak frequency of the Characteristic hump shifts lower with the increase of the rotor speed. Based on the experimental measurement,the multi-passage simulations were conducted at diferent rotor speeds.The characteristic frequencies of the static pressure oscillations near tip region at different rotor speeds were onsistent with that in measurements. It can be found that circumferential traveling waves rotated against the rotor near tip region at the two rotor speeds.The circumferential traveling waves can be regard as RI. The details of the flow fields indicated that RI originated from the self-induced of tipleakage flow at 53% design rotor speed. However, the formation of RI was accompanied by th@breakdown of tip leakage vortex at 71% design rotor speed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ey wordssubsonic compressor; axial flow; unsteady flow; tip leakage flow; experimental measurement； numerical simulation; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究表明，压气机叶尖区的非定常流动是导致压气机失稳的主要因素之一。科研人员对此进行了大量的试验及数值模拟研究。早期针对失速起始工况的研究，学者们分别提出了两种失速先兆波的概念，既模态波[1,2]和突尖波[3]。对应突尖波型失速先兆的机理研究，后续的学者发现这与泄漏流或泄漏涡的运动密切相关[4,5]。这期间 $\\mathrm { V o } ^ { [ 6 ] }$ 就提出了判断突尖波型失速的准则。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "而近年来，在压气机靠近失速边界的稳定工况，对间隙泄漏流非定常性的研究在国内外也得到了关注。Furukawa 等[7,8]分别采用定常数值模拟和非定常数值模拟对某低速轴流压气机的间隙泄漏涡破碎现象进行研究，并用其提出的泄漏涡破碎理论解释了其流场叶尖区的非定常现象以及分析泄漏涡破碎对压气机性能的影响。Hoffman 等[9]以及 Schlechtriem[10]相应的研究将泄漏涡破碎与压气机失稳之间联系起来。此外，Zhang 等[11］针对高载荷的低速转子的研究认为间隙泄漏流非定常性是主来流与泄漏流相互作用所引起的称为自诱导型非定常性导致的，并得到 Tong 等[12]在试验上的证明。 $\\mathrm { D u } ^ { [ 1 3 , 1 4 ] }$ 等将泄漏流自诱导非定常性进一步拓展到跨音速条件下，其单通道非定常数值模拟的近失速工况点均发现了泄漏流自诱导非定常性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在对近失速稳定工况叶尖区非定常性的研究中，科研人员发现了一种类似突尖波的短尺度周向扰动波，并称之为旋转不稳定性（RotatingInstability,RI)。在揭示RI产生机理的研究中，Mailach等[15,16]认为 RI源于叶尖泄漏涡的波动。而 März等[17]针某轴流通风机的研究则认为 RI源于轴向反流和来流在相互作用形成一个新径向涡的周期性运动。W等[18,19]针对某亚音轴流压气机试验台分别采用定常数值模拟和非定常数值模拟对叶尖区的流动进行深入的研究，并得到与Marz等[17]类似的发现；而其研究对象失速先兆为突尖波型，这似乎表明了RI与压气机的突尖波失速先兆存在潜在的关联。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们发现，与之前所提Du等[14]相同的研究对象中，Biela等[20]的试验研究也发现RI现象。这说明了Du等[14]所观察到的自我诱导非定常性与 RI可能存在密切关联。但Du的研究仅在单通道的数值模拟下进行，无法解释该现象和RI的关系。因此本文以某亚音轴流压气机孤立转子为研究对象，进行两个转速( $5 3 \\%$ 设计转速和 $7 1 \\%$ 设计转速)的试验测，并在此基础进行多通道的数值模拟。其目的。是揭示自我诱导非定常性与RI的关联，二是探究不同转速对RI产生过程的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究对象及试验测量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究对象为西北工业大学亚音轴流压气机孤立转子试验台。该试验台设计转速为 $1 5 2 0 0 \\mathrm { r / m i n }$ 轮毂比为0.6，叶尖直径为 $2 9 8 ~ \\mathrm { m m }$ 以及叶尖稠度为0.961，其详细的设计参数和几何参数见文献[21]，图1给出了该试验台的结构简图。本文试验测试是在孤立转子环境下进行的，即把静子后移至排气管道进口的位置。试验的叶顶径向间隙为 $0 . 3 5 \\mathrm { m m }$ ，其转速为设计转速的 $5 3 \\%$ 和 $7 1 \\%$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/311cc1bb783fe934329d23a04b7db36c25c1a346ee82dc9164b0a4e3d8a68126.jpg",
+        "img_caption": [
+            "图1轴流压气机试验台结构简图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验时调节试验台出口节气门的开度可以控制通过试验转子的流量，流量的测量由安装在排气管道中的孔板式流量计完成。气流通过转子的压比由安装在进、出口测量截面上的气动探针获得。通过关小节气门提高压气机的出口背压，从而改变压气机运行工况》同时在相应工况处进行了稳态数据采集，得到试验转子的稳态特性和稳定工作的流量范在稳态测量的基础上，从峰值效率工况(PE)微调节气门直至失速边界，在每个稳定工况采集动态静压信号，采样频率为 $1 0 0 ~ \\mathrm { k H z }$ ，每个工况的数据存储时间为 $3 \\mathrm { ~ s ~ }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中机匣壁上的动态压力测量是由高频响动态压力测量系统完成。它由高频动态压力传感器(Kulite XCQ-080-5G)、 信号调理器(Preston8300AU)、信号采集、分析模块(LMS）以及计算机组成。动态压力传感器垂直安装于正对转子的机匣壁孔内，其安装位置示意见图2。以叶顶叶片前缘为基准，测点1、2、3、4、5、6、7分别为$- 2 5 \\% \\Im \\%$ ， $1 9 . 4 \\%$ ， $3 8 . 8 \\%$ ， $5 8 . 2 \\%$ ， $7 7 . 6 \\%$ 和 $9 7 \\%$ 叶顶轴向弦长处。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5571d5e105b4445a3965a9798a0fb4dde3582d5fd2045291dda65fa55799e8f1.jpg",
+        "img_caption": [
+            "Fig.1 Cross-sectional diagram of the test rig ",
+            "图2高频动态传感器放置位置图 Fig.2 Measured and predicted total pressure ratio "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验通过关小节气门提高压气机出口背压改变压气机的运行工况，并在相应的工况点处进行了稳态数据采集，得到试验转子稳态特性和稳定工作的流量范围。在稳态测量的基础上，从峰值效率工况(标记为PE)开始进行机匣壁动态压力采集，通过微调节气门位置改变工况，压气机进入旋转失速的前的最后一个稳定工况定为实验边界工况，该工况点在后续的转子性能图(图5）中以NS 标识。动态压力采样频率为 $1 0 0 ~ \\mathrm { k H z }$ ，每个工况的数据存储时间为 $3 \\mathrm { ~ s ~ }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2数值模拟方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 计算方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文数值模拟采用NUMECA Fine/Turbo 模块，采用Spalart-Allmaras方程来封闭时均Navior-Stokes方程。有限体积中心格式对控制方程进行离散。定常计算采用显式4阶Runge-Kutta方法。非定常计算采用隐式双时间步方法，其中跟据计算结果无依赖性的临界时间步长为 $1 . 2 3 \\times 1 0 ^ { - 5 }$ ，叶片通过一个栅距给定20 个物理时间步，每一物理时间步下的虚拟时间步为50。计算空间离散格式采用基于通量差分离散法的二阶迎风格式，并采用Vanalbada限制器限制解的振荡。另外采用多重网格法、当地时间步长法及隐式残差光顺等方法加速收敛提高计算效率。 学书",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2计算网格",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考卢新根[22]针对该试验台数值模拟的网格密度对的研究，本文单通道网格总的节点数超过61万，满足网格无关性要求。图3给出了本文计算所采用的五通道网格。与叶片相关的转动块采用HI型网格拓扑结构。转动块的前面为H型静止块，设置静止块的目的是为了实现静止坐标系下压力监测点的布置。为了便于后续分析，如图3将叶片编号，其中叶片1和叶片2之间的通道称为通道1-2，并以此类推。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1e78017fe192fa9f8a9842cbf55b465cd0d77a1bd35893d6e9800227352cffb.jpg",
+        "img_caption": [
+            "图3计算网格拓扑结构Fig.3 Computational grid"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3数值探针布置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "非定常数值计算时，如图4给出了在叶尖区即 $9 8 . 1 5 \\%$ 通道高的截面轴向数值探针的布置图。为了与试验中动态压力测量点位置相对应，在转动块通道3-4内近压力面和近吸力面沿流向分别在$0 \\%$ ， $1 9 . 4 \\%$ ， $3 8 . 8 \\%$ ， $5 8 . 2 \\%$ ， $7 7 . 6 \\%$ 和 $9 7 \\%$ 叶顶轴向弦长处布置数值探针 (对应试验测点2-7)，在静止块正对通道3-4的 $- 2 5 \\%$ 叶顶轴向弦长处 (对应试验测点1)以及其他通道位置 $3 8 . 8 \\%$ 轴向弦长处也进行数值探针布置。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea9d3715e28379a0999572352548e217bc37644b18c59f550c9496106e85744a.jpg",
+        "img_caption": [
+            "图4数值探针布置示意图 Fig.4 The arrangement of numerical probes on the cross surface at blade tip "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4计算步骤 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数值模拟分别在两个转速下进行，其计算步骤进行定常计算获得压气机稳定工作特性线，从定常计算的峰值效率工况点开始进行非定常计算，通过微调计算域出口背压的方式逼近非定常计算数值边界点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3试验及数值模拟结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1总性能对比",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图5比较了两个转速的计算和试验压比性能图。图中的非定常计算结果为一个计算周期内的时均值。从图中可以明显地看出，在 $5 3 \\%$ 设计转速和 $7 1 \\%$ 设计转速的数值模拟结果与试验数据变化趋势都能较好的吻合。其中 PE 为峰值效率工况，NS 为失速边界工况。在对试验及数值模拟各个工况测得动态压力信号进行频谱分析的基础上，可以得到如下两个结论：一是在两个不同转速下都是在靠近失速边界极小的流量范围的工况出现非定常性；二是随着转速的提高出现非定常性工况的流量范围变大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2试验测量信号分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图6给出了两个转速下各自PE工况和NS工况在探针4测得的动态压力信号功率谱分析比较图。图中的主要的特征频率是叶片通过频率(BladePass-ingFrequency,BPF)及其倍频。而相比PE工况，在NS工况无论是 $5 3 \\%$ 设计转速还是 $7 1 \\%$ 设计转速，探针4测得的动态压力信号频谱上都出现了一个低频的驼峰状的特征频率，其驼峰峰值处频率分别约为0.47倍BPF和0.34BPF。综上可知流场中出现的非定常性了是RI[17]。同时也说明随着转速的提高,在失速边界出现的非定常性其特征频率相对性的减小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.081.075 RI Range(Mass flow-2.92\\~3.01)NSe  \nrr lrsrsess geit 1.07 PEexp1.065 NScalRIRange(Mass flow-2.91\\~3.00）1.061.055 T Eap.unsteadyCal._steady1.051.045 \"i\"i\"i\" Lii iiiii 首2.6 2.8 3 3.23.43.63.8 4 4.2 4.4Mass flow/kg·s-1(a) $5 3 \\%$ 设计转速(a) $5 3 \\%$ design rotor speed1.131.125 RIRange(Massflow-3.93\\~4.13）1.12 NS PE exp  \n首手 NSRIRange(Mass flow-3.94\\~4.16）1.095 Exp 工程热物理学护Cal.unsteady1.09 Cal._steady1.0851.08 iiii3.6 3.8 4 4.24.44.64.855.25.45.6Mass flow/kg·s-1(b) $7 1 \\%$ 设计转速(b) $7 1 \\%$ design rotor speed",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图5实验和计算的总压比特性"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/288704c629c21abd47b04915c34cb6e0d29d53fbf33d17a1b56b90286aa8ab68.jpg",
+        "img_caption": [
+            "Fig.5 Measured and predicted total pressure ratio "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/77e32653efc949b54067d5011204c2297ce4baa0a9f7482ec4c2f856dd4dc0aa.jpg",
+        "img_caption": [
+            "图6 探针4测量信号功率谱分析 Fig. 6 Powe Spectra of static pressure signals detected by the X 4th transducer "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数值模拟信号分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "两个转速的数值模拟流场中出现非定常性的流量范围分别为(Massflc $\\mathrm { \\ w { = } 2 . 9 1 { \\sim } 3 . 0 0 ~ \\ k g { \\cdot } s ^ { - 1 } ) }$ 和(Massflow ${ } = 2 . 9 4 { \\sim } 4 . 1 6 \\ \\mathrm { k g } { \\cdot } \\mathrm { s } ^ { - 1 } ,$ ，见图5。为了与试验作比较，分别选取两个转速数值模拟的失速边界点(Mass flow ${ \\mathrm { = 3 . 0 0 ~ k g { \\cdot } s ^ { - 1 } } }$ ）和(Mass flow ${ \\bf \\tau } = 4 . 1 6 ~ \\mathrm { k g } { \\cdot } \\mathrm { s } ^ { - 1 } ,$ 门作为数值分析对象。图7给出了两个转速相对坐标系下 $3 8 . 8 \\%$ 轴向弦长处数值探针的信号FFT频谱分析图。从图7可以看出，两个转速的数值模拟流场中存在非定常性，结合图8中静压监测点的压力波动周期 (前者 $\\mathit { T } = 6 1$ 后者 $T = 7 8 \\dot { }$ )，说明相对坐标系下静压波动周期在 $7 1 \\%$ 设计转速时比 $5 3 \\%$ 设计转速时长，既静压扰动频率随着转速提高而减小，这和试验存在着一致性。此外由图8也可以看到，在两种转速中相邻通道的静压波动存在一个固定的时间相位差。这说明两种转速近失速工况的流场中，转子叶尖区域均出现了周向传播的扰动行波。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc0dac9a2f57971a4c369f92267d937a9910886cc684f0255e7ecf1387749d90.jpg",
+        "img_caption": [
+            "(a) $5 3 \\%$ 设计转速(a) $5 3 \\%$ design rotor speed"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f236965daac73f51398467a521c1ca742fe614ee1d2bf228a2585152164b8b73.jpg",
+        "img_caption": [
+            "图7相对坐标系 $9 8 . 1 5 \\%$ 通道高度近压力面侧 $3 8 . 8 \\%$ 轴向弦长处数值监测信号频谱分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验是在机匣壁上进行的动态压力信号测量，压力探针处于静止坐标系下。为了与试验进一步比较，图9给出数值模拟在绝对坐标系下的监测点信号FFT频谱分析图。两个转速数值模拟绝对坐标系下，流场中非定常性的频率大小分别为0.47倍BPF和0.34倍BPF。这与试验的信号分析频谱图中驼峰峰值处的频率近似一致。综上分析，即试验测量信号、数值监测信号频谱分析以及数值模拟中叶尖区存在逆转子转动的周向行波，可以认为本文五通道的数值模拟成功的模拟出了试验中的RI非定常性。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d8c7ce659e2003b29c381e91b64839bf4929d995a14f6e5074faf18c5510967.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图8相对坐标系 $9 8 . 1 5 \\%$ 通道高近压力面侧 $3 8 . 8 \\%$ 轴向弦长处5个通道测点的静压监测结果",
+            "Fig.8 Pressure oscillations taken from probes in 5 passages at $9 8 . 1 5 \\%$ span and $3 8 . 8 \\%$ tip axial chord near pressure side "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4数值模拟流场分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述分析已经说明数值模拟和试验的一致性，那么以下将分别对两个转速的内部流场进行详细的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图10和图11分别给出了 $5 3 \\%$ 和 $7 1 \\%$ 设计转速数值模拟失速边界工况五通道一个扰动周期泄漏流及各叶片压力面静压分布图，扰动周期 $T$ 取为压力的近波谷到近波谷，如图8所示。静压系数表达式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { p } = \\left( p - p _ { 0 } \\right) / ( 0 . 5 \\rho U _ { t } ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $p$ 为静压； $p _ { 0 }$ 为参考压力标准大气压； $\\rho$ 为密度； $\\boldsymbol { U } _ { t }$ 为叶尖线速度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 $5 3 \\%$ 设计转速近失速工况流场分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分析可知主泄漏在近失速边界时与非定常性未出现的工况相比并没有发生明显的变化，而尾缘的泄漏流却发生周期性运动的变化。因此为了便于分析将叶尖间隙泄漏流分为a和b两段。a段为 $0 \\%$ 到$4 0 \\%$ 轴向弦长段,b段为 $4 0 \\%$ 到 $1 0 0 \\%$ 轴向弦长段以段。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 $t = ( 0 / 6 ) T$ 时刻，通道3-4中叶片4a 段的泄漏流冲击到叶片3压力面约 $3 8 . 8 \\%$ 轴向弦长处后贴着压力面流出通道 (其轨迹如图中黑色实线所示)并在约 $3 8 . 8 \\%$ 轴向弦长处形成一个低压区(图中由圆圈I示出)。 心",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 $t = ( 1 / 6 ) T$ 时刻叶片 4b 段的泄漏流分成了两部分，一部分仍是冲击在叶片3压力面届贴着压力面流出通道，另一部分则是发生了第次泄漏。这是由于叶片4压力低压区后的高压区（由圆圈Ⅱ示出)进一步向叶片尾缘移动，使得叶片 4b 段处压差增大，该处泄漏流获得较大的能量，最终使得部分叶片 4b段泄漏流在叶片3发生第二次泄漏，冲击叶片3压力面的叶片4b段泄漏流强度随之减小，其产生的低压区也相应的减弱的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "到 $t = ( 2 / 6 ) T$ 时叶片4压力面b段处的压力进一步增大，使得全段的叶片 4b 段泄漏流在叶片3发生第二次泄漏，叶片3压力面低压区几乎消失。叶片4b段泄漏流发生第二次泄漏后，冲击叶片2压力面前缘并形成叶片2压力面新的低压区。随着时间的发展，由于叶片4压力面低压区移动到尾缘的缘故，叶片4b段处的压力开始减小，从而使得叶片4b段泄漏流的强度逐渐无法使得自己在叶片3发生全段的第二次泄漏，在 $t = ( 3 / 6 ) T$ 时刻叶片4b段泄漏流开始变得涣散，到 $t = ( 4 / 6 ) T$ 时叶片 4b 段泄漏流“退化”变回两部分，此时叶片5b段泄漏流发生第二次泄漏时冲击在叶片3压力面前缘形成叶片3压力面新的低压区。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "水封 ${ \\bf \\dot { \\tau } } t = ( 5 / 6 ) T$ 时刻全段叶片 4b 段泄漏流不发生第二次泄漏，其冲击叶片3压力面形成的低压区与叶片 5b 段泄漏流第二次泄漏冲击叶片3压力面形成的新低压区重合。而随着叶片4压力面新的高压区向叶片尾缘的移动，叶片 4b 段泄漏流强度重新增强。此时原先 $t = ( 0 / 6 ) T$ 时刻通道3-4的泄漏流状态已经传播到了通道2-3中 (黑色虚线所示)。到$t = ( 6 / 6 ) T$ 时刻流场与 $t = ( 0 / 6 ) T$ 时刻一致，此时叶片 5b 段泄漏流已不发生二次泄漏，叶片3压力面低压区主要是由于叶片 4b 段泄漏流冲击叶片3压力面形成的，如此通道3-4中的流场随时间做周期性变化。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/744f1da11665e89227308b44f6a41641b898dfb762ab167d723bed02ea3ba720.jpg",
+        "img_caption": [
+            "图10 $5 3 \\%$ 设计转速数值模拟失速边界工况一个静压扰动周期近压力面侧静压分布及泄漏流线图 Fig.10 Chord-wise distribution of static pressure coefficient on the pressure side at $9 8 . 1 5 \\%$ span and TLF streamlines in passage 3-4 during one period of pressure oscillation for NS at $5 3 \\%$ design rotor speed "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/241e615fcef427a66c25ecf8a3b6b28e407c74e7e3201df2f822e78d628222ba.jpg",
+        "img_caption": [
+            "图11 $7 1 \\%$ 设计转速数值模拟失速边界况个静压扰动周期近压力面侧静压分布及泄漏流线图 5. 11 Chord-wise distribution of static pressure cefiient on the pressure side at $9 8 . 1 5 \\%$ span and TLF streamlines in passag 3-4 during one periodyf preSsure oscillation for NS at $7 1 \\%$ design rotor speed "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "上述固定通道中泄漏流的周期性波动正与Zhang 等[11]和 Du 等[13,14]所提的泄漏流自诱导非定常性是是一致的。也就是说，在本文的研究对象中 $5 3 \\%$ 设计转速下RI的产生是源于通道内叶尖泄漏流自我诱导非定常性的周向传播。 √",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4.2 $71 \\%$ 设计转速近失速工况流场分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图11给出了 $7 1 \\%$ 设计转速数值模拟失速边界工况五通道一个扰动周期泄漏流及各叶片压力面静压分布图， $T$ 的选取为压力的近波谷到近波谷，如图8(b）所示。图中红色圆圈依旧示出叶片3压力面低压区的周期性运动。除了与 $5 3 \\%$ 设计转速相同的尾缘泄漏流的周期性运动之外，在 $7 1 \\%$ 设计转速压气机流场中还出现瞬时的主泄漏涡破碎，如图12所示是图11(e)中通道3-4的详细泄漏流线图。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结合图11(e)和图12可知在通道3-4中叶片5叶顶泄漏流发生第二次泄漏和叶片 4叶顶泄漏流的共同作用使得叶片4的主泄漏发生破碎。改变转速其实质是改变了叶片的载荷，叶片叶顶载荷的增大使得叶顶泄漏流强度增强，最终使得主泄漏在某些时刻发生破碎。在 $7 1 \\%$ 设计转速条件下RI起始来源出现了泄漏涡破碎的参与。即随着转速的提高，RI起始的过程发生改变，进而RI的参数也随之改变。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba160ce512333eed4f83bd4885502c4e2e0c440866792e5b4c9a13f2435d8abe.jpg",
+        "img_caption": [
+            "图12 $7 1 \\%$ 设计转速数值模拟失速边界工况 $t = ( 4 / 5 ) T$ 时刻通道3-4泄漏流线图",
+            "Fig.12 The TLF streamlines in passage 3-4 at $t = ( 4 / 5 ) T$ for NS at $7 1 \\%$ design rotor speed "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以某亚音轴流压气机转子为研究对象，两个不同转速的试验以及数值模拟研究结果结论如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1）试验测量信号分析表明，两个转速条件均在靠近失速边界的极小流量范围的工况中检测到非定常性RI。在近失速稳定工况，机匣壁压力信号频谱存在驼峰特征频率，其驼峰峰值处频率随转速的提高相对减小。其中 $5 3 \\%$ 设计转速驼峰峰值处频率为0.47BPF， $7 1 \\%$ 设计转速驼峰峰值处频率为0.34BPF.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2）数值模拟数值监测点的静压信号分析表明，两个转速均在近失速边界的极小流量范围的工况中叶尖区存在着非定常性。其在相对坐标系下的频率分别为0.33BPF和0.26BPF，在绝对坐标系下的频率分别0.47BPF和0.34BPF。这与试验具有一致性，说明五通道的数值模拟成功的预测出了RI。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3)数值模拟流场分析说明了，叶片压力面的低压区周期性运动影响了叶顶的载荷分布，从而使得尾缘泄漏流作周期性的变化，尾缘泄漏流冲击相邻叶片压力面又影响了相邻叶片压力面低压区的形成，最终形成了叶尖区的的周向行波。 W",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4)两种转速下，RI均源于泄漏流的自我诱导非定常性的轴向传播。 $5 3 \\%$ 设计转速情况不同的是，在$7 1 \\%$ 设计转速下，流场叶尖泄漏流自我诱导非定常性周期性运动的过程中，伴随着瞬时性的泄漏涡破碎。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d005a3cfde2a9807265956934be1532d2afe564017ad043bab3ad17b527de8e7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] McDougall N M, Cumpsty N A,Hynes T P. Stall Inception in Axial Compressors [J]. Journal of Turbomachinery, 1989,112(1): 116-123   \n[2]GarnierVH,EpsteinAH,GreitzerEM.RotatingWaves Asa Stall Inception Indication in Axial Compressors [J]. Journal of Turbomachinery,1991,113(2):290-301   \n[3]Day I J,Stall Inception in Axial Flow Compressors[J]. Journal of Turbomachinery,1993,115(1):1-9   \n[4] Hah C, Schulze R,Wagner S,et al. Numerical and Exper imental Study for Short Wavelength Stall Inception in a Low-Speed Axial Compressor [R].Florence:ISABE,1999   \n[5]HoyingD A,Tan C S,Vo HD,et al.Role of BladePassage Flow Structures in Axial Compressor Rotating Stall Inception [J]. Journal of Turbomachinery,1999,121(4): 735-742   \n[6]Vo HD,Tan C S,Greitzer EM,et al.Criteria for Spike Initiated Rotating Stall [J]. Journal of Turbomachinery, 2008,130(1): 155-165   \n[7] Furukawa M,Inoue M,Saiki K,et al．The Role of Tip namics[J]. Journal of Turbomachinery,1999,121(3):469- 480 [8] Furukawa M, Saiki K, Yamada K, et al. Unsteady Flow Behavior due to Breakdown of Tip Leakage Vortex in an Axial Compressor Rotor at Near-Stall Condition [R]. Munich:ASME,2000 [9] Hoffman W H,Ballman J. Some Aspects of Tip Vortex Behavior in a Transonic Turbo compressor [R].Bangalore: ISABE,2003   \n[10] Schlechtriem S,and Lotzerich M.Breakdown of Tip Leakage Vortices in Compressors at Flow Conditions Close to Stall [R]. Florida: ASME,1997   \n[11] Zhang H,Deng X,Chen J,et al.Unsteady Tip Clearance Flow in an Isolated Axial Compressor Rotor [J]. Journal of Thermal Science, 2005,14(3): 211-219   \n[12] Tong Z,Lin F,Chen J,et al. The Self-Induced Unsteadiness of Tip Leakage Vortex and Its Effect on Compressor Stall Inception [R]. Montreal: ASME, 2007   \n[13]Du nF, Zhang H, et al. Numerical Investigation on theSelf-Induced Unsteadiness in Tip Leakage Flow for Transonic Fan Rotor [J]. Journal of Turbomachinery, 2010,132(2): DOI:10.11151/1.3145103   \n14] Du J,Lin F,Chen J,et al. Flow structures in the tip region for a transonic compressor rotor [J]. Journal of Turbomachinery, 2013,135(3):031012   \n[15] Mailach R,Lehmann I,Vogeler K.Rotating Instabilities in an Axial Compressor Originating from The Fluctuating Blade Tip Vortex[J]. Journal of Turbomachinery, 2001, 123(3): 453-463   \n[16] Mailach R, Sauer H,Vogeler K. The Periodical Interaction of the Tip Clearance Flow in the Blade Rows of Axial Compressors [R].New Orleans:ASME, 2001   \n[17] März J, Hah C[Neise W.An Experimental and Numerical Investigatien into the Mechanisms of Rotating Instability [J].Journal of Turbomachinery, 2002,124: 367-375   \n[18] WuY, Chu W. Behavior of Tip Clearance Flow in an Axal Flow Compressor Rotor [R].Barcelona: ASME, 2006   \n[19]吴艳辉,李清鹏，张卓勋,等.轴流压气机转子近失速工况点 叶尖区流动非定常性分析[J].推进技术,2010(5)：562-566   \n[20] WU Yanhui, LI Qingpeng, ZHANG Zhuoxun,et al. Unsteady Behavior of Tip Clearance Flow in an Axial Flow Compressor Rotor at Near Stall Condition [J]. Journal of Propulsion Technology, 2010,31(5): 562-566   \n[21] Biela C,Müller M W,SchifferHP,et al.Unsteady Pressure Measurement in a Single Stage Axial Transonic Compressor Near the Stability Limit [R].Berlin:ASME,2008   \n[22] 卢新根．轴流压气机内部流动失稳及其被动控制策略研究 [D].西安：西北工业大学,2007 LU Xingen. Flow Instability and Its Passive Control Strategies in an Axial Flow Compressor:[D]. Xi'an: Northwest Polytechnic University, 2007 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

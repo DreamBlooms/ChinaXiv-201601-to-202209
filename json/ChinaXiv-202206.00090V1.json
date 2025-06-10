@@ -1,0 +1,721 @@
+[
+    {
+        "type": "text",
+        "text": "Nothosaurus luopingensis n. sp. (Sauropterygia) from the Anisian, Middle Triassic of Luoping, Yunnan Province, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHANG Qing-Hual LI Chun1 WANG Wei1 (1KeyLaboratoryof Vertebrate Evolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontologyand Paleoanthropology,ChineseAcademyofSciences Beijinglooo44,Chinashangqinghua@ivpp.ac.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractNothosaurus luopingensis n. sp.from Member II of the Guanling Formation (Anisian, Middle Triassic) of Luoping,Yunnan, China is described based on a specimen comprising the skull and most of the postcranial skeleton. The specimen is assgned to Nothosaurus of Eosauropterygia as suggested by a series of skull characters,such as the maxillary tooth row extending posteriorly beyond the level of the anterior margin of the upper temporal fenestra,the longitudinal diameter of the upper temporal fenestra is more than twice as long as that of the orbit,and the presence of maxillary fangs. Compared with Lariosaurus,the following morphological features of the pectoral girdle and the limbs also support the assignment of the specimen to Nothosaurus,i.e.,the clavicles with expanded anterolateral corners,the characteristically curved humerus with a straight preaxial angle and a postaxial concavity, the distinct deltopectoral crest on the proximal part of the humerus, no hyperphalangy in the manus,and the absence of pachyostosis in the vertebrae and ribs.On the other hand,the specimen possesses some postcranial features that were previously considered to occur mainly in Lariosaurus,such as there being more than three ossifications in the carpus, having four sacral ribs,and an interclavicle without any trace of a posterior stem. These postcranial characters may no longer be used as the diagnostic features of Lariosaurus.N. luopingensis is distinguished from other Nothosaurus species by a unique combination of derived characters, including that the jugal enters the orbit,the nasals are separated,the posterior end of the frontal is bifurcate,pedal digits $\\mathrm { \\Delta V }$ and IV are long and subequal in length,and the ungula phalanx is stout. Our phylogenetic analysis reconfirms the monophyly of Nothosaurus and suggest that $N .$ （2号 luopingensis is the sister group of $N .$ yangjuanensis within the genus. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key WordsNothosaurus,eosauropterygian; Luoping,Yunnan, China; Anisian,Middle Triassic ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation Shang Q H, Li C,Wang W in press. Nothosaurus luopingensis n. sp. (Sauropterygia) from the Anisian,Middle Triassic of Luoping，Yunnan Province,China. Vertebrata PalAsiatica. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nothosaurus (Eosauropterygia, Diapsida)，a secondarily aquatic genus of reptiles， was widespread in both the western and eastern Tethyan faunal provinces during the Middle to early ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Late Triassic (Rieppel, 2000; Li and Rieppel, 2004; Shang, 2006; Jiang et al.,2006a; Liu et al. 2014). Although Nothosaurus was well documented in previous studies (Rieppel and Wild, 1994; Rieppel, 2Ooo,2OO1), the monophyly of this genus has remained highly debated in recent years, partly due to the new fossils recently discovered from both the western and eastern Tethyan faunal provinces. Klein et al. (2O15) hypothesized the genus as a monophyletic clade,then including $N .$ （204 giganteus Munster, 1834; N. mirabilis Munster,1834; N. marchicus Koken, 1893; N. juvenilis Edinger, 1921; N. edingerae Schultze,1970; N. tchernovi Haas, 1980; N. haasi Rieppel et al., 1997; N. jagisteus Rieppel, 2001; N. youngi Li and Rieppel, 2004; N. rostellatus Shang, 2006; N. yangjuanensis Jiang et al.,2OO6; N. winkelhorsti Klein and Albers,2OO9; and N. zhangi Liu et al., 2014.Later， Klein et al. (2Ol6) questioned the status of N. juvenilis,N. youngi,and $N .$ （204号 winkelhorsti. After these restudies,Lin et al. (2O17) demonstrated the Nothosaurus is not monophyletic and reassigned N. juvenilis， N. youngi,and N. winkelhorsti to the genus Lariosaurus. Hinz et al (2O19) described a new species of Nothosaurus, N. cristatus,from the Lower Keuper of Vellberg-Eschenau, southern Germany，and emphasized the presence of a monophyletic clade formed by some European species，but the monophyly of the genera Nothosaurus and Lariosaurus remains uncertain. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Till now, four Nothosaurus species have been reported in China. Among them, three species are from the Anisian and only Nothosaurus youngi (now Lariosaurus youngi) is from the Ladinian. Among the three Anisian species,N. rostellatus and N. yangjuanensis are members of the Panxian Fauna in Guizhou,and N. zhangi is a member of the Luoping Fauna in Yunnan. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Luoping Fauna exhibits a highly diversified eosauropterygian assemblage (Liu et al., 2011,2014; Shang et al.,2011,2015; Cheng et al.,2016). In addition to Nothosaurus zhangi, four genera and species of eosauropterygians have been described, including Dianopachysaurus (Liu et al., 2011),Diandongosaurus (Shang et al.，2011),Dianmeisaurus (Shang et al., 2015)，and Dawazisaurus (Cheng et al., 2Ol6),all of which are relatively small-sized (adult body length $< 5 0$ cm). The eosauropterygian remains with a medium- or large-sized body are rare in the Luoping deposits, except for $N .$ zhangi which is a gigantic apex predator with the estimated body length more than $5 0 0 ~ \\mathrm { c m }$ (Liu et al.,2O14). The holotype,which is the only know individual of $N .$ （204号 zhangi, is merely presented by a lower jaw and few postcranial bones. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,a new skeleton of eosauropterygian from the Luoping Fauna is described.It is a nothosaur with a medium-sized body(defined by a body size of more than $5 0 \\ \\mathrm { c m }$ ,but less than $1 5 0 \\mathrm { c m }$ in length),but it is relatively small within Nothosaurus. Although the specimen is not very complete，the well-reserved skull and articulated postcranial skeleton provide considerable anatomical information on Nothosaurus, which is significant especially when complete specimens are comparatively rare. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The discovery of the new nothosaur increases our knowledge regarding the diversification of nothosaurs in their early history and provides a chance to test the phylogenetic hypothesis obtained by previous studies for nothosaurids.It also improves our understanding of the secondarily aquatic adaptations of Nothosaurus in general. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Material and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The studied specimen was collected from a Middle Triassic outcrop near Waina Village of the Luoping County, Yunnan Province, China. It comes from a highly fossiliferous,thinly bedded, dark-colored micritic limestone with a layer thickness of ${ \\sim } 5 \\mathrm { ~ m ~ }$ ，This deposit is considered to be chronologically close to the nearby $1 6 \\mathrm { ~ m ~ }$ thick succession of richly fossiliferous beds of the Shimenkan section at Da'aozi (or Dawazi) Village and of Anisian Middle Triassic in age (Benton et al.，2014).As in the Shimenkan section,the bioturbated,pale-coloured micritic limestone presents in the basal and top members of the fossiliferous beds.It is referred to the middle part of Member II of the Guanling Formation. The Luoping Fauna in the Luoping area was assgned to the Nicoraella kockeli zone based on the associated conodonts (Zhang et al., 2009). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The skeleton consists of a complete skull with the mandible tightly occluded and most of the postcranial skeleton (Fig.1 A). The skull is prepared in dorsal view,and thus the mandible, dental formula，and details of the palate remain largely concealed. The incomplete postcranium comprises an articulated vertebral column in ventral view,which lost some elements of the abdominal region and most of the caudal section of the column. The pectoral girdles are preserved with some elements of the left side missing.The pelvic girdle is fractured,and some of the girdle elements are poorly preserved. Only the right forelimb is preserved.Two hind limbs are dislocated, but the elements of them are still articulated.The right hind limb is complete and exposed in dorsal view,while the left hind limb lost some phalanges and is preserved in ventral view.The specimen represents an adult individual based on the fused frontal and parietal and the well Ossified carpals and tarsals. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The skeletal elements have been measured with a slide caliper (accuracy $0 . 5 \\ \\mathrm { m m }$ .The phylogenetic character data matrix was analyzed using PAUP\\* version 4.Ob1O (Swofford, 2002) and PAUP\\* version 4.Oa169 (Swofford,2021), with all the characters being equally weighed and unordered. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3Systematic paleontology ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sauropterygia Owen, 1860 Eosauropterygia Rieppel, 1994 Nothosauridae Baur, 1889 Nothosaurus Minster,1834 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Type species Nothosaurusmirabilis Miinster,1834 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DiagnosisSmall to large nothosaurs with maxillary tooth row extending well beyond level of anterior margin of upper temporal fenestra; paired maxillary fangs followed by a palisade of densely set, distinctly smallr,conical teeth,longitudinal diameter of the upper temporal fenestra between two and four times the longitudinal diameter of the orbit (Rieppel and Wild,1996; Rieppel，2Ooo). Characteristically curved humerus with straight preaxial angle and postaxial concavity； distinct deltopectoral crest and latissimus dorsi insertion on the proximal humerus head; phalangeal formula in the manus: 2-3-4-5-3 (Romer,1976; Rieppel et al.,1999; Rieppel, 2000; Bickelmann and Sander, 2008). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Etymology Named after Luoping county, where the specimen was excavated. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Holotype IVPP V 24895,a complete skull with most of the postcranial skeleton. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Type locality Waina Village,Luoping County, Yunnan Province, China ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Type horizon Member I of Guanling Formation,middle Anisian (Pelsonian),Middle Triassic. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Diagnosis A small to medium-sized species of Nothosaurus (the condylobasal skull length $= 1 3 \\mathrm { c m }$ )；rostrum short and rounded; five fangs in each premaxilla,the fifth slightly smaller than the preceding fangs; five small maxillary teeth anterior to the maxillary fangs; posterior (nasal) processes of premaxillae contact frontal at the level of posterior margin of external naris; jugal broadly entering the posteroventral margin of orbit; frontal bifurcates posteriorly; supratemporal fenestra 2.1-2.2 times the length of the orbit; four sacral vertebrae; five carpal ossifications; pedal digit V long and subequal to IV; ungula phalanx of pes expanded. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4Description ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IVPP V 24895 is relatively small compared to other species of Nothosaurus (Rieppel, 2000): the condylobasal skull is $1 3 \\mathrm { c m }$ long and the presacral length is ${ \\sim } 8 0 \\mathrm { c m }$ (Fig. 2A). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 Cranium ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Overall Morphology (Fig.1B） The rostrum is short and broad with a weak constriction lying in front of the external nares.The postorbital region is longer than the preorbital region. The skull is broadest at the level of the anterior margin of the upper temporal fenestra. The external nares are round, the orbits are oval,and the upper temporal openings are elongated kidney-shaped. The upper temporal fenestra is about twice the length of the orbit (LT/LO ap.2.1-2.2). The pineal foramen is posteriorly placed on the distinctly constricted parietal table,but it is relatively more anterior in position compared with that of other nothosaurs.The distance from the tip of the snout to the posterior margin of the parietal skull table is $1 2 \\ \\mathrm { c m }$ ; the length of the skull from the tip of the snout to the posterior margin of the mandibular condyle of the quadrate is $1 4 . 5 \\mathrm { c m }$ . Its surface is sculptured with tiny, scattered pits. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Skull The premaxilla forms the rostrum (here meaning the part anterior to the naris). Its dorsal process extends backward between the external nares to meet the frontal and forms the medial margin of the external naris. More posteriorly,the tapering posterior process of the premaxilla is intercalated between the nasal and the anteromedial process of the frontal and ends at the level of the posterior margin of the external naris. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The nasal is a roughly triangular element. It is separated from one another by the nasal processes of the premaxillae and anteromedial process of the frontal. Its short anteromedial process forms the posteromedial margin of the external naris. Posteriorly, the nasal tapes and is embraced by the anterolateral and the anteromedial processes of the frontal. The posterior margin of the nasal contacts the frontal near the level of the anterior margin of the orbit. The nasal is excluded from the prefrontal by a narrow anterolateral process of the frontal. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f254e8aaebae85d3a44d6a118afa4c6a266191a4c7fbf06f2dea2fa38bf971a9.jpg",
+        "img_caption": [
+            "Fig.1A.Photograph of the holotype of Nothosaurus luopingensis sp.nov.(IVPP V 24895); B.Photograph and line drawing of the skull in dorsal view. Zigzag lines indicate a broken surface Abbreviations: a.angular; art. articular; bo.basioccipital; cqp. cranio-quadrate passage; d. dentary; ec. ectopterygoid; eo.exoccipital; f.frontal;j. jugal; m.maxila;n. nasal;op.opisthotic; p.parietal; pf.prefrontal; pl. palatine; pm. premaxilla; po. postorbital; pof. postfrontal; ptpterygoid; ptf. post temporal fenestra; q. quadrate; sa.surangular; so. supraoccipital; sq. squamosal "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The frontal is a large, elongated,and unpaired (fused) element. It has a long and slender anteromedial process that extends between the nasals and then inserts between the tapered posterior tips of the premaxilla. Its short anterolateral process contacts the nasal medially and the ascending (medial) process of the maxilla laterally.A deep cleft in the posteromedial part of the fused frontals and some impress of the ridges and grooves along the posterior margin of the frontal prevent proper identification of the frontal-parietal suture.Most likely,here the frontal bifurcates posteriorly and forms two posterolateral processes,which difers from the known species of the Nothosaurus. The long and tapering posterolateral process of the frontal meets the parietal in an interdigitating suture at a level behind the anterior margin of the upper temporal fenestra. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The prefrontal is a small element located at the anteromedial corner of the orbit and not contact the nasal. The prefrontal and postfrontal remain widely separated at the dorsal margin of the orbit. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The postfrontal is an irregular element. It forms the posteromedial margin of the orbit. It contacts the postorbital laterally and the frontal medially.There is a distinct constriction at the mid part of its lateral margin. Posteriorly, it enters the anteromedial margin of the upper temporal fenestra and contacts the parietal at a level behind the anterior margin of the upper temporal fenestra. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The anterior process of the maxilla extends along the lateral margin of the external naris. The ascending (medial) process of the maxilla defines the posterolateral margin of the external naris and the anterior margin of the orbit and meets the nasal as well as the lateral process of the frontal. More posteriorly,the maxilla extends to a level just behind the anterior margin of the upper temporal fenestra without protruding into the open cheek. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The jugal is a slender bone.Anteriorly,it forms the posterolateral margin of the orbit. Posteriorly,it tapers gradually, inserts between the maxilla and the postorbital,and ends at a level very near the posterior end of the maxilla.Behind the posterior tip of the jugal,a contact between the postorbital and the maxilla is obscured. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The postorbital shows a narrow entry into the posterior margin of the orbit at the posterolateral corner of the orbit,and a broad entry along the anterior margin of the upper temporal fenestra.Dorsally,it contacts the postfrontal medially and the parietal posteromedially within the upper temporal fenestra. Ventrally,it sutures with the jugal. More posteriorly，the postorbital tapers to become a slender process forming the lateral margin of the upper temporal fenestra and sutures with the anterior process of the squamosal as it extends backwards slightly beyond the level of the midpoint of the longitudinal diameter of the upper temporal fenestra. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The parietal is unpaired and broad anteriorly. Anteromedially, it meets the frontal by an interdigitating suture with a sharp median process projecting into the frontal. Anterolaterally, it contacts the postfrontal and the postorbital respectively. It gradually narrows posteriorly. The parietal skulltable is strongly constricted to form a sagittal crest. The pineal foramen is situated at a spot near the posterior third of the length of the parietal. The posterolateral processes of the parietal enclose an angle of approximatively $1 1 0 ^ { \\circ }$ . It meets the squamosal in an oblique suture. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As in most eosauropterygians, the squamosal is a triradiate element. Its anterior ramus extends forward to contact the postorbital,and its medial ramus is sutured to the parietal at the posteromedial margin of the upper temporal fenestra.This medial ramus forms the posterolateral margin of the upper temporal opening and meets the paraoccipital process of the opisthotic as well as the supraoccipital bone. Posterolateral to the upper temporal fenestra, the squamosal is drawn out into an elongate lateral ramus,which caps the cephalic condyle of the quadrate. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The quadrate trends in a somewhat lateral direction, which results in the lateral displacement of the mandibular joint. The joint surface is laterally broadened,and the facet is subdivided by a longitudinal groove.The cranio-quadrate passage is floored by the quadrate ramus of the pterygoid and roofed over by the squamosal. The lateral ramus of the parietal and the anterior medial ramus of the squamosal rise above the occiput to form a distinct occipital crest which separates the occipital surface from the dorsal surface of the skull. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The occiput is closed and plate-like,and it shows the typical morphology of the braincase of Nothosaurus as was described by Rieppel (1994). The supraoccipital is a broad, irregular element exposed in a horizontal position. It carries a weak medial crest. A small post-temporal fenestra is situated at the posterolateral margin of the supraoccipital，which bordered by the exoccipital ventrally. The foramen magnum is stillrecognizable,although compressed. The exoccipital rests on the dorsolateral aspect of the occipital condyle.Laterally,the exoccipital meets the opisthotic in a distinct suture. The jugular foramen is not exposed. The suture between the opisthotic and the squamosal is not well defined. Further details of the occiput are obscured by the severe compression of the skull. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The palatine and the pterygoid are only partially exposed inside the orbits and the upper temporal fenestrae.Their exact shapes and relationships with other palatal elements are unknown. The pterygoid seems to form a weakly developed transverse process that， together with the ectopterygoid, forms a pterygoid-ectopterygoid transverse flange. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MandibleOnly the posterior portion of the mandible is exposed and available for description. The dentary is seen to extend backwards to a level wel behind the anterior margin of the upper temporal fenestra. It contacts the surangular posterodorsally and the angular posterolaterally. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The elongate surangular forms the dorsal half of the posterior portion of the mandible. Ventral to the cheek region,the surangular carries a laterally protruding flange for the insertion of superficial jaw adductor muscle fibers as in Nothosaurus and Lariosaurus (Rieppel,2000). Posteriorly,it forms the lateral wall of the articular fossa and abuts against the articular in the retroarticular process. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The articular is transversely broadened below the mandibular articulation. It forms most of the articular fossa and the distinct retroarticular process.The articular fossa is divided into two parts, with the medial part larger than the lateral one.The retroarticular is modestly elongated and bears a longitudinal trough on the dorsal surface. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Dentition An exact tooth count on the maxillae and dentaries is impossible due to the tight occlusion of the skull with the mandible. However,the premaxillary teeth and some maxillary teeth could be observed in lateral view. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "There are five premaxillary teeth,of which the anterior four are relatively large,fang-like, and procumbent, and the fifth is the smallest. The maxilla contains approximately 22 teeth,of which the anterior five teeth are small and similar in size.The sixth and possibly the seventh maxillary teeth are large,and the other posterior teeth（\\~15,estimated by exposed teeth and the covered areas) are smalland subequal in size.The preserved small maxillary teeth are sub-conical and slightly recurved with fine striations on the crown surface. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2 Axial skeleton ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Vertebral column and ribsThe cervical section is completely preserved but suffered a strong twist before burial so that the anterior three cervical vertebrae are exposed in lateral view and all the others in ventral view, which contrast with the dorsally exposed skull. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The neck is long,comprising 22 or 23 cervical vertebrae,which are identified on the basis of their position in front of the clavicular-interclavicular complex,as well as by the relative length and articulate characters of the associated ribs. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The atlas cannot be well defined due to the neck twist, but the axis is identified by the extremely large axial neural spine.The amphicoelous cervical centra are barrel-shaped. They are slightly constricted in the middle portion. A distinct longitudinal ridge is developed on the ventral surface of the cervical centrum. This ventral keel completely disappears posteriorly starting from the $2 0 ^ { \\mathrm { t h } }$ cervical. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The cervical ribs gradually increase in length towards the pectoral girdle. The anterior ones are a little more than small bony subs with relatively broad proximal articulation heads,a somewhat constricted middle part,and a distal part that is expanded into a short,anteriorly pointing process.The articular heads are not all visible,but it is supposed that the anterior cervical ribs are double-headed.Posteriorly,the cervical ribs still develop broad proximal articular heads, but with a distinct posteriorly directed shaft and a free ending anterior process,which is more distinctly set off from the main body of the rib. From the $2 0 ^ { \\mathrm { t h } }$ cervical, the cervical ribs become more elongated rapidly (Fig 2A). The $2 2 ^ { \\mathrm { { n d } } }$ cervical ribs are slender and slightly curved without forming a “shoulder\". The shaft of the $2 2 ^ { \\mathrm { { n d } } }$ ribs tapers distally and points more laterally. The $2 3 ^ { \\mathrm { r d } }$ （204 preserved ribs are partly covered by the clavicular-interclavicular complex. The $2 4 ^ { \\mathrm { t h } }$ preserved rib is more elongated,with the \"shoulder\" distinctly curved,and the shaft pointing posteriorly. It also articulates on the transverse process of the neural arch,as is characteristic for the dorsal region. Therefore, there are 22 or 23 cervical vertebrae. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Because some vertebrae in the middle region of the dorsal section are lost and some in the posterior region are partially obscured by gastral ribs and the pelvic girdles,the precise number of dorsal vertebrae cannot be identified. Based on the number of the preserved dorsal vertebrae and the missing distance,it is speculated that there may have been at least 2O dorsal vertebrae. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The dorsal centra exhibit smooth ventral surfaces. They are barrel-shaped,and slightly constricted in the middle part.The centra have no distinct differences among the dorsal,sacral and the two preserved caudal vertebrae. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The dorsal ribs are not pachyostotic.They are single-headed and articulate on stout transverse processes which project laterally from the neural arches.They are distinctly bowed in the proximal region, with shallow longitudinal grooves developed on the proximal part of the ventral surface,and the shaft of the dorsal ribs is moderately expanded distally. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the region of the pelvic girdle,six short, straight,and tightly juxtaposed ribs converge toward the dorsal process of the ilium (Fig.2B).Four of them are identified as sacral ribs due to their widened distal ends.The other ribs with tapering distal ends toward the ilium are identified as the last dorsal rib and the anterior-most caudal rib respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The first caudal rib is slightly longer than the last sacral rib,and the second caudal rib decreases in length.The anterior caudal ribs are bar-like,slightly taper distaly,and terminate with a truncated end. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Gastralia The gastral ribs cover the posterior 2/3 of the abdomen of the trunk and begin at about the 7th dorsal vertebra. It is composed of five segments,i.e.,a medioventral one and two lateral ones on either side as in most eosauropterygians. The medioventral element is distinctly angulated and carres a short stubby anterior projection on the anterior dorsal region. Posteriorly, the distal end of the lateral element is less pointed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3Appendicular Skeleton ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Pectoral girdleThe pectoral girdle (Fig. 2A) is well preserved in ventral view, though some elements on the left side are damaged. The pectoral girdle shows the typical morphotype of sauropterygians (Romer,1976). It greatly resembles that of type species N. mirabilis (Peyer,1939: Textfig.20; Rieppel,2001: Fig. 8),except for the presence of some differences in the interclavicle. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The interclavicle is “crown hat\"-shaped, with the lateral processes of both sides overlapping on the ventromedial surfaces of the clavicles.Its posterior margin is slightly concave and lacks any posterior protrusion. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The clavicles meet each other in front of the interclavicle in an interdigitating suture. Its medial bar is straight.The anterolateral corner of the clavicle is evidently expanded. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The scapula is of the typical nothosaurian type.It is composed of a ventrally expanded glenoidal portion and a slender posterodorsal process. It meets the coracoid in a relatively short suture. The scapular part of the glenoid fossa is well developed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The coracoid is a broadened and waisted element with concave anterior and posterior margins,and its medial (symphyseal) margin is straight. The coracoid foramen is represented by a notch in the lateral (glenoidal) margin of the coracoid,and it should be enclosed by the scapula. The pectoral girdles of two sides enclose a broad pectoral fenestra on the ventral surface. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/11886136c022132b329851682776522441751b3d724cdef921f53ab4650f7f2a.jpg",
+        "img_caption": [
+            "Fig.2Nothosaurus luopingensis sp.nov. (IVPP V 24895),pectoral girdles with posterior cervical and anterior dorsal vertebrae (A)and pelvic girdle with sacral and two preserved causal vertebrae (B) in ventral views Abbreviations:ac.acetabular facet; cl.clavicle;co.coracoid; co.f.coracoid foramen; ic.interclavicle; il.ilium; is. ischium; pap.postacetabular proces; pu. pubis; r21,23.rib 21st,23rd; sc.scapula; sc.dp.scapular dorso-caudal process; srl,4. sacral rib 1,4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The pelvic girdleThe elements of the pelvic girdle (Fig.2B) are badly squashed in some places,but all of them can be unequivocally identified. It shows a typical sauropterygian type, having the broadened pubis and ischium and a tiny ilium with an extremely reduced dorsal blade. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The right ilium is exposed in medial view,and its ventrally expanded acetabular portion is separated by a neck from a dorsal blade which trends posterodorsally and forms a short stick.The acetabulum is represented by a concavity on the lateral surface of the ventral part of the ilium, which is observed in the left ilium. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The pubis is a plate-like, biconcave element.The outline of its convex medial (symphyseal) margin is not well-preserved. The margin of the pubis is thickened at the sutural contact with the ischium. The obturator foramen is slit-like and open. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The ischium is a relatively broad element with a flattened convex ventral margin. It is constricted just behind the acetabular facet, which results in the formation of a slender shaft. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Forelimb The forelimb (Fig.3A) is shorter and slightly stouter than the hindlimb. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The humerus is slightly curved,with a convex preaxial border,whereas the postaxial is border concave. The preaxial margin of the shaft in dorso-ventral view shows a straight angle, which is same as the humeral morphotype II of the Nothosaurus sp. (Bickelmann and Sander, 2008).The proximal end is broadly oval and slightly wider than the mid-shaft.The distal end is also slightly expanded. On the proximoventral surface,there is a low but clearly marked crest which served for the insertion of the deltoideus muscle.The entepicondylar foramen is present on the distoventral part of the humerus.The ectepicondylar groove is open and does not have an ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "anteriornotch. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The radius is medially concave and laterally straight, with slightly expanded proximal and distal ends.The proximal facet for the humerus is flat,and the distal articular fact is convex. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The ulna is approximately as long as the radius,but the former has more broadened proximal head compared with that of the latter.The distal end of the ulna is slightly expanded as is the distal end of the radius. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "There are five ossfied carpals,i.e., the intermedium and ulnare forming the proximal row and distal carpals 2 to 4 of the distal row.The intermedium is the largest one and is kidney-shaped. It is slightly displaced and sits between the distal ends of the radius and ulna.Distally,it attaches the ulnare and all the carpals of the distal row.The ulnare is rounded and much smaller than the intermedium. It tightly abuts the intermedium, distal carpal 4,and metacarpal V. Distal carpals 2 to 4 are also articulated with the metacarpal II to IV respectively,and the distal carpal 4 is the largest. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The metacarpals are rod-like with a constricted shaft. Metacarpal III is the longest and metacarpal I is the shortest but the most robust. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The phalangeal elements are cylindrical, slightly constricted at the mid shaft,and get shorter in length towards the penultimate phalanges. The ungual phalanges are markedly expanded in digits Iand II, but not well ossified in digit IV and absent in digit V. The phalangeal formula of the manus is 2-3-4-5-3. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "HindlimbsThe femur (Fig.3B) is a biconcave,rather straight,and slender element. Its proximal head is slightly expanded. The internal trochanter is reduced,and the intertrochanteric fossa is absent.The articulation for the tibia and fibula is confluent and does not project markedly beyond the shaft. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The tibia is a nearly straight element,distinctly wider than the fibula,and lacks a significant diaphyseal contraction. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The fibula shows a curved appearance, with an almost straight postaxial margin, and a deeply concave preaxial margin. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The tarsus comprises three ossfications. The astragalus is in an irregular outline.It articulates with the fibula proximally, the calcaneum medially,distal tarsal $3 { + } 4$ medially and distally,and the tibia proximo laterally and metatarsal I distolaterally. The calcaneum is roughly rounded. It articulates with the fibula proximally and the astragalus and distal tarsal $^ { 3 + 4 }$ laterally. Distal tarsals $3 { + } 4$ meets metatarsals II, IV and V distally. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Metatarsal I is short and broader than the others,with its proximal head markedly expanded as in the small sized eosauropterygians Diandongosaurus (Shang et al., 2O11) and Dianmeisaurus (Shang etal.,2O17).Metatarsals II andIV are similarin length ( $\\mathrm { \\sim } 2 4 ~ \\mathrm { m m }$ ,andmetatarsalsIand V are comparable in length ( $\\mathrm { \\sim } 2 2 ~ \\mathrm { m m }$ ), though the latter is slightly shorter than the former. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The length of the pedal digits increases from I to IV,and the digit V is long and subequal to digit IV ( $\\mathrm { \\sim } 3 5 \\ \\mathrm { m m } ,$ ). The phalangeal elements are cylindrical, slightly constricted at the mid shafts, and get shorter in length towards the penultimate phalanges. As in Dianopachysaurus (Liu et al., ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2011),Diandongosaurus (Shang et al.， 2011)，Dianmeisaurus (Shang et al.， 2015)，and Dawazisaurus (Cheng et al., 2O16), the ungual phalanges in pes are remarkably expanded, with a size distinctly larger than the penultimate phalanx.The phalangeal formula of the pes is 2-3-4-5-5, also as in the case of Dianmeisaurus (Shang et al., 2017). ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/befc7006b0541b5410f56a0832209c2f743de449d4ebc97f58391b83b17f03d8.jpg",
+        "img_caption": [
+            "Fig.3Limbs of Nothosaurus luopingensis sp.nov. (IVPP V24895).A. the right forelimb in ventral view; B.the right hindlimb in dorsal view "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations: as.astragalus; ca.calcaneum; dc2,4. distal capal2,4; dpc.deltopectoral crest; $\\mathrm { d t } 3 { + } 4$ .distal tarsal $3 { + } 4$ ; ecg. ectepicondylar groove; enf.entepicondylar foramen; f.femur; fi.fibula; h. huerus; im. intermedium; mc 1-5,metacarpals 1-5; pes.preaxial edge of the shaft; ra.radium; ti. tibia; ul. una; uln. ulnare; u.p.ungula phalange; I to V. metacarpals or metatarsals I to V ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Phylogenetic analysis ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The present analysis is based on the data matrix of Hinz et al. (2O19), which was modified from the data matrix of Liu et al. (2014) and Lin et al. (2017).Hinz et al. (2019) revised some incorrectly coded characters as well as identified two pairs of correlated characters,which are all accepted here. In addition，we revised two incorrectly coded characters (Appendix 1A). Two additional taxa were added to the revised data matrix of Hinz et al. (2O19: Supplemental Data2): one is $N .$ luopingensis,the other is Lariosaurus sanxiaensis (we recoded the characters based on ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Li and Liu, 2O2O data matrix) (Appendix 1B). The new data matrix has 25 taxa and 72 characters. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The analysis leads to a single most parsimonious tree (Fig. 4A) with a tree length of 267. The result supports the monophyly of Nothosaurus but leaves N. haasi outside the genus. As for $N .$ luopingensis,the analysis considers it as the sister-species of $N .$ yangjuanensis.However, there is no resolution within Lariosaurus and among Germanosaurus, Nothosaurus, Lariosaurus and $N$ haasi. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/4faec2a7a29f586cee9a768cefd88e5b58133f0363bcf4bcc1828086815b116c.jpg",
+        "img_caption": [
+            "Fig.4Strict consensus trees based on the three analyses of the study depicting the phylogenetic relationships "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "within the Nothosauridae ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A.result of the analysis including Lariosaurus sanxiaensis,Tree length $= 2 6 7$ ,Consistency index $( \\mathrm { C I } ) = 0 . 3 2 2 1$ Retention index $( \\mathrm { R I } ) = 0 . 3 9 8 7$ ;B.result of the second analysis excluding $L .$ sanxiaensis,Tree length $= 2 3 0$ Consistency index $\\mathrm { ( C I ) } = 0 . 3 6 5 2$ ,Retention index $\\mathrm { ( R I ) } = 0 . 5 0 8 4$ ; C.result of the analysis excluding $L .$ sanxiaensis, but including Brevicaudosaurus,Tree length $= 2 4 2$ ,Consistency index $( \\mathrm { C I } ) = 0 . 3 4 7 1$ ,Retention index (RI) $\\mathbf { \\tau } = \\mathbf { \\tau }$ 0.4920 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Of the included taxa, $L$ ，sanxiaensis is a poorly known species and only 17 characters $( 2 3 . 6 \\% )$ can be coded. Furthermore, it might not belong to Lariosaurus based on the unusual shape of its coracoid. When $L .$ sanxiaensis is excluded, the new analysis also yields a single most parsimonious tree (Fig. 4B) with a tree length of 230. This new result supports the monophyly of both Nothosaurus and Lariosaurus, but interrelationships among Germanosaurus, Nothosaurus, and Lariosaurus remain unresolved as in the first analysis. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We also attempted to exclude the $L .$ sanxiaensis,but include the Brevicaudosaurus (Shang et al.,2020) in this analysis (Appendix 1B). The analysis leads to a single most parsimonious tree (Fig. 4C) with a tree length of 242.The result shows no change on the Nothosaurus clade,but the interrelationships within Lariosaurus having some unsolved, and the Brevicaudosaurus show more close relationships with the Lariosaurus than the Nothosaurus. The Germanosaurus is the sister group of the Nothosauridae (Nothosaurus, Lariosaurus, Brevicaudosaurus) clade. As for the species of Nothosaurus,this analysis does not alter their interrelationships obtained by the first and second analyses and further suggests N. haasi as the basal-most clade within the genus.Three analyses all confirm the reassignment of N. juvenilis,N. yongi, and N. winkelhoursti to Lariosaurus as suggested by Klein et al. (2016), Lin et al. (2O17),and Hinz et al. (2019). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Based on the second analysis, the monophyly of Nothosaurus is supported by four unambiguous synapomorphies: character 2(2), the ratio of longitudinal diameter between the upper temporal fenestra and the orbit is 2.O or more;character 17(1),the parietal extending anteriorly and not beyond the anterior margin of the upper temporal fenestra; character 18(2), the parietal skul table strongly constricted; and character 58(1), the prominent insertional crest of the humerus for latissimus dorsi muscle. The monophyly of Lariosaurus is supported by five unambiguous synapomorphies: character 1(1),the ratio of the condylobasal skull length to the longitudinal diameter of the upper temporal fenestra between 3.O and 3.4; character 13(O), the nasals large; character 54(O),the anterolaterally expanded corners absent in the clavicles; character 65(2),five carpal ossifications; and character 66(1),the presence of hyperphalangy in manus. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The paraphyly of Nothosaurus considered by previous analyses such as Lin et al. (2O17) and Hinz et al. (2O19) might be related to the insuficient sampling. The addition of the new taxon does not, however, increase the fit between the phylogenetic relationships and the stratigraphic records of the species of Nothosaurus.The relatively crowner position of the N. luopingensis-N. yangjuanensis clade needs to be verified after new species or better materials are found in the future. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6 Discussion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "As suggested by the phylogenetic analysis of this study, IVPP V 24895 represents a new species of Nothosaurus. This is supported by some cranial features, including a long and flattned skull,rostrum anteriorly constricted,postorbital region long and the elongated upper temporal fenestrae more than twice longer than the orbits,frontals fused, posterior parietal skull table strongly constricted, supraoccipital horizontally exposed, and maxillary caniniform teeth present (Rieppel and Wild,1996; Rieppel,2000; Klein and Albers,2009; Albers,2011; Klein et al.,2016). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In the meantime, the skull of IVPP V 24895 displays a distinct combination of derived characters,such as no contact between the nasals, jugal broadly entering the posteroventral margin of the orbit, a temporal fenestra 2.1-2.2 times the length of orbit,and the posterior end of the frontal forked (unique). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In most species of Nothosaurus,the nasals contact with each other along the dorsal midline of the skull,only a few species show separated nasals, e.g., N. edingerae (Rieppel and Wild,1994; Rieppel,200O).This character is variable in N.mirabilis (Rieppel and Wild，1996) in which the two nasals may contact or separate to variable degrees. The two nasals are contacted in all previous species of Nothosaurus and Lariosaurus known in China (Li et al., 2OO2; Li and Rieppel, 2004; Shang,2006; Jiang et al., 2006a, b) except for N. zhangi whose skullis not preserved (Liu et al., 2014). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The jugal is excluded from the orbit in most nothosaurs,which is even considered as a diagnostic character of the Nothosauridae (Rieppel and Wild,1996) or Nothosauria (Rieppel, 2000).However, there is an exception from an incomplete skull that is referred to N. mirabilis (Rieppel and Wild,1996); and the fact that the jugal enters into the ventral margin of the orbit was regarded as a plesiomorphic character of the N. winterswijkensis from the Lower Muschelkalk of Winterswijk by Albers and Rieppel (2003). Albers (2011) considered that N. winterswijkensis is a junior synonym of N. marchicus,therefore the jugal entering into the ventral margin of the orbit is variable in N. marchicus. The postorbital contacts the parietal in the new species,which is different from all of the previously known species of Nothosaurus and Lariosaurus from China (Li et al,2002; Li and Rieppel,2004; Jiang et al.,2006a,b; Shang,2006),but same as the species of Nothosaurus found in Europe (Rieppel, 2000). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In IVPP V 24895,the frontal-parietal suture is deeply interdigitated. The posterior end of the frontal is forked to form distinct posterolateral processes to receive the sharp posterior process of the parietal. This character has not been seen in the other species of Nothosaurus or even any of Lariosaurus, but in many Chinese stem eosauropterygians such as Qianxisaurus (Cheng et al., 2012)，Diandongosaurus (Shang et al.， 2011)，Dawazisaurus (Cheng et al.， 2016)，and Dianmeisaurus (Shang et al., 2O15,20l7). However, in these species, the posterolateral processes of the frontal do not form such a complicated and interdigitated suture with the parietal as seen in IVPPV 24895. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, the skull of IVPP V 24895 shows a suite of plesiomorphic characters to Nothosaurus (Rieppel, 200l；Albers and Rieppel, 2Oo3),such as the relatively short, broad,and rounded rostrum; less proportion of the upper temporal fenestrae compared to the orbits； the relatively short posterior extension of the maxillary tooth-row; and the more anterior location of the pineal foramen. In all of these plesiomorphic characters plus the jugal entering into the ventral margin of the orbit and the skull shape and proportions, $N .$ ，luopingensis closely resembles $N .$ （2号 winterswijkensis (Albers,2011: N. marchicus) from the Lower Muschelkalk of Winterswijk of the Netherlands. It differs from $N .$ winterswijkensis (N. marchicus) only in the separated nasals, shorter posterior extension of the maxillry tooth-row,and the bifurcated posterior end of the frontal. These plesiomorphic characters, however, are not present in the Chinese $N .$ rostellatus and $N .$ yangjuanensis from the Panxian Fauna, probably because the two species may slightly younger than the new species from Luoping Fauna, though both are within the Nicoraella kockeli Zone of Anisian age (Benten et al., 2014). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The articulated postcranial skeleton of IVPP V 24895 provides more information on the interspecific variation of Nothosaurus. In contrast with the skull,the postcranial skeleton of IVPP V 24895 has more similarities with Lariosaurus. IVPP V 24895 has five carpus, four sacral ribs, 22-23 cervicals,and the interclavicle without any trace of the posterior stem. One of the diagnostic characters for Nothosaurus is no more than three ossifications in the carpus or tarsus of adults, while the diagnostic characters of Lariosaurus include four or more sacral ribs and the interclavicle of the rhomboidal (triangular) shape without any trace of a posterior stem (Rieppel, 2000). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In fact, though the holotype of $N .$ “raabi” (be reassigned to $N .$ marchicus by Rieppel and Wild,1996) shows three ossifications in the carpus (Schroeder,1914), four ossifications in the carpus have also been reported in “Paranothosaurus amsleri” (be reassigned to N. giganteus by Rieppel and Wild,1996） and $N .$ yangjuanensis (Yin et al.， 2014). Due to the paucity of information available from other species of Nothosaurus,it remains unclear whether the presence of five carpus really represents an autapomorphy of $N .$ luopingensis.Most eosauropterygians had been considered to have preserved three carpal ossifications,and only lariosaurs show a distinct increase in the number of carpal ossifications (Rieppel,1998；Rieppel, 20o0). However, some stem eosauropterygians found in south China lately show more carpal ossifications, such as at least four carpals in Dianopachysaurus dingi (Liu et al.,2O11), six carpals in Dawazisaurus brevis (Cheng et al., 2O16),and at least six carpals in Panzhousaurus rotundirostris (Jiang et al.,2019). These species were all found from the early Middle Triassic strata,and the first two species were even found in the same horizon where the new species was recovered. It is likely that this larger amount of carpal ossifications may reflect the fact that these groups were less well adapted to an aquatic mode of life (Tschanz,1989) than the taxa with fewer carpal ossifications. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Nothosaurus was described as having no posterior stem on the interclavicle by Koken (1893), and the same is true for the“Paranothosaurus amsleri\" (Peyer, 1939),and N. yangjuanensis (Yin et al.,2014). However, the holotype of Nothosaurus jagisteus from the upper Muschelkalk and a specimen of Noshosaurus cf. N. mirabilis were described as having such a posterior stem on the interclavicle (Rieppel, 2O0l: Fig.7,8). Therefore,the genus could be considered with either a present or absent posterior stem on the interclavicle. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, three functional sacral ribs were present in Nothosaurus “raabi”(SchrOeder, 1914） and “Paranothosaurus amsleri” (Peyer， 1939). Four sacral ribs were reported in $N .$ （2号 yangjuanensis (Yin et al., 2O14). The number of sacral ribs varies from four to five pairs in Lariosaurus (Rieppel, 1998). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Therefore,according to the Chinese eosauropterygians,some postcranial features that were previously used to distinguish Nothosaurus from Lariosaurus are no longer applicable, such as the number of the carpal ossifications of adult, the number of the sacral ribs (Rieppel, 2OoO; Lin et al., 2017),and the interclavicle with or without a posterior stem (Rieppel, 2000). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, the characteristics of the limbs, especially the humerus of N. luopingensis, possibly provide some clues to distinguish Nothosaurus from Lariosaurus. The characteristically curved humerus with the straight preaxial angle and the postaxial concavity and the distinct deltopectoral crest on the proximal humerus head (which is correspondent to morphotype I of the humerus identified by Bickelmann and Sander in 2OO8) may be consider as the diagnostic features of the $N$ .winterswijkensis-N. marchicus clade. In contrast, the humerus is rather straight in Lairosaurus calcagnii (Peyer, 1931)，slightly curved and flattened in $L$ 、buzzii (Tschanz,1989), curved but bears a broadened preaxial border in $L .$ balsami (Mazin,1985),and short, curved,and has a smoothly curved anterior margin and an expanded distal end in $L$ 、hongguoensis (Jiang et al., 2006).However, whether these differences of the humerus represent taxonomic differences or sexual dimorphism needs to be further studied. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In addition to the interclavicle,the other bones of the shoulder girdle of N. luopingensis, such as the clavicle, scapula,and coracoid,are very similar to the corresponding bones of Nothosaurus cf.N. mirabilis (Rieppel,2Oo1),especially the expanded anterolateral corner of the clavicle and the relatively large coracoids. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The hind limbs of $N .$ luopingensis show certain autapomorphies within Nothosaurus,e.g., the long pedal digit $\\mathrm { \\Delta V }$ and the well-expanded ungual phalanx. The length of pedal digit $\\mathrm { \\Delta V }$ and the pedal terminal phalanges in $N .$ luopingensis are different from those of other species of Nothosaurus in their general configuration. The markedly expanded ungula phalanx is not seen in any previously known species of Nothosaurus， but it is widely present in small sized eosauropterygiansofLuoping Fauna, such asDiandongosaurus， Dianopachysaurus, Dianmeisaurus,and Dawazisaurus. These hind limb characters appear to be related to aquatic adaptation (habitat use),but it is difficult to give a functional interpretation right now due to the lack of comparable living species with similar structures. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "7 Conclusions ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The Luoping Fauna (Anisian） has been yielding a remarkable taxonomic diversity of eosauropterygians,to which the new species is added, Nothosaurus luopingensis. This results in a total of five genera and six species of eosauropterygians known from the Luoping Fauna. Except for the incomplete and large sized N. zhangi, all of the other five species are relatively small to medium-sized and their hind limbs are equipped with the markedly expanded ungular phalanx. This convergence may have been related to a shallow marine habitat commonly shared by them. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "With the addition of Nothosaurus luopingensis, our phylogenetic analyses support the monophyly of both Nothosaurus and Lariosaurus when Lariosaurus sanxiaensis is excluded. However, the new taxon does not increase the fit of the phylogenetic relationships of the species of Nothosaurus to their stratigraphic occurrences.N. luopingensis from Luoping Fauna is the sister group of $N .$ yangjuanensis from the Panxian Fauna.A suite of relatively plesiomorphic characters of Nothosaurus is present in the skull of $N _ { \\ast }$ 、luopingensis but absent in $N .$ yangjuanensis, which may correspond to their stratigraphic occurrence. The Luoping Fauna is slightly older than the Panxian Fauna,though both are considered to be within the Nicoraella kockeli Zone of the Anisian age. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements We are very grateful to Chen Yinfang and Ding Jinzhao for the preparation of the materials and to Gao Wei for the photographs. This study was financially supported by the Strategic Priority Research Program (B） of the Chinese Academy of Sciences (grants XDB260oooo0) and the National Natural Science Foundation of China (NSFC grants 41772006, 41372028). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "云南罗平中三叠世安尼期鳍龙类Nothosaurus一新种",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "尚庆华1 李淳」王维1 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京 100044)",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "摘要：根据产自云南罗平中三叠统关岭组ⅡI段的一件海生爬行动物骨架，建立和描述了始鳍龙类幻龙科幻龙属的一个新种一罗平幻龙(Nothosaurus luopingensis n.sp.)。该骨架包括完整的与上下颌紧密咬合的头骨和不太完整的头后骨骼，头后部分包括全部的颈椎、大部分背椎。前两个尾椎以及大部分的肩带、腰带骨骼以及四肢骨骼。新标本具有长而扁的头骨，颞孔较大，顶孔相对靠后，上颌骨发育獠齿型齿，上枕骨封闭并呈水平展布，这些特征指示该骨架属于鳍龙类的幻龙类。而头骨上颌齿列的后伸超过上颞孔前缘的水平位置，上颞孔的长度是眼眶长的两倍多等特征指示它具有更多的幻龙属(Nothosaurus)亲缘性。与欧龙属(Lariosaurus)相对比，新标本的肩带和四肢结构也具有幻龙属特征，如：锁骨前外侧角显著扩张，弯曲的肱骨前缘具有平直的轴前角，肱骨有明显的三角胸嵴，手部不具有多指节现象，脊椎无肿骨现象等。另一方面，该骨架的头后骨骼也显示一些之前曾主要发现于欧龙属的头后骨骼特征，如：骨化的腕骨数目超过三枚，具四节或更多的荐椎，间锁骨后缘平直、不发育后突。这些头后骨骼特征已经不能再用来区别欧龙属和幻龙属。罗平幻龙以下面这些衍生特征与其他幻龙属种区别，包括：轭骨前部进入眼眶，两鼻骨分离，额骨后端分叉，第V趾与第IV趾长度相等，爪趾骨显著膨大。系统发育分析支持新种属于Nothosaurus 分支，它和羊圈幻龙(N.yangjuanensis)互为姊妹群，同时 Nothosaurus 是单系类群，但新种和N.yangjuanensis分支在系统树的位置与它们在实际地层中出现情况并不相符。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "关键词：云南罗平，中三叠世，安尼期，始鳍龙类，幻龙属",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Jbers PCH,2O11.New Nothosaurus skuls from the Lower Muschelkalkof the western Lower Saxony Basin (Winterswijk TheNetherlands)shed new lightonthe statusof Nothosaurus winterswijkensis.NetherlandsJGeosciences,9O(1):15-21 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "AlbersPCH,RieppelO,2Oo3.Anew speciesof thesauropterygian genus Nothosaurus fromtheLower Muschelkalk of Winterswijk,the Netherlands.JPaleont 77: 738-744 BentonMJ,ZhangQY,HuSXetal.,014.Reprintof\"Exceptionalvertebrate biotas fromthePermo-Triassic mass extinction\". Earth-Science Reviews,137: 85-128 Bickelman C,SanderPM,2Oo8.APartial Skeletonand Isolated Humeriof Nothosaurus (Reptilia: Eosauropterygia)From Winterswijk,The Netherlands.JVertPaleont,28(2): 326-338 ChengYN, Wu XC,Sato Tet al.,2O12.Anew eosauropterygian (Diapsida,Sauropterygia)fromthe Triasicof China.JVert Paleont,32: 1335-1349 Cheng YN,Wu X C,Sato Tetal.,2016.Dawazisaurus brevis,a new eosauropterygian from the Middle Triassicof Yunnan, China. Acta Geol Sin-Engl Edit 90(2): 401-424 HinzJK,Matzke AT,Pfretzschner H-U,2019.Anew nothosaur(Sauropterygia)from the Ladinianof Velberg-Eschenau, southern Germany,JVert Paleont,39:2,e1585364.DOI: 10.1080/02724634.2019.1585364 Jiang DY,MaischMW,HaoWCetal.,O6a.Nothosaurusyangjuanensisnsp.(Reptia,Suropterygia,Nothosauridae) fromthe middleAnisian(MiddleTriassic)of Guizhou,southwestern China.Neue JahrbGeolPalaont,Monatshefte 2006:   \n257-276 Jiang DY,MaischMW,SunZYetal.,O6b.AnewspeciesofLariosaurus(Reptilia,Suropterygia)fromtheidleAisian (Middle Triassic)of Guizhou,southwestern China.Neue Jahrb Geol Paläont,Abhandlungen 242: 19-42 Jiang DY,Lin WB,RieppelOetal.,2019.AnewAnisian (Midle Trisic)eosauropterygian(Reptilia,Sauropterygia)from Panzhou, Guizhou Province, China,JVert Paleont,38:4,(1)-(9). DOI: 10.1080/02724634.2018.1480113 Klein N,Albers PCH,2O09.Anewspeciesof thesauropsid reptile Nothosaurus fromtheLower Muschelkalk of the western Germanic Basin,Winterswijk,the Netherlands.Acta Palaeont Polonica 54: 589-598 Klein N,Veten DFAE,LankampJetal.,2O15.Postcranial materialof Nothosaurus marchicusfromtheLower Muschelkalk (Anisian)of Winterswijk,The Netherlands，with remarks onswimming styles and taphonomy.Palaontol Z.89:961-981. DOI 10.1007/s12542-015-0273-5 Klein N,VetenDFAE,HarhuisA,etal.,Ol6.Theearliestrecordof thegenusLariosarusfromtheearlymiddleAisian (Middle Triassic)of the Germanic Basin.JVert Paleont,36:4,e1163712,DOI:10.1080/02724634.2016.1163712. KokenE,1893.BeitrageurKenntnisderGattung Nothosaurus.Zeitschriftder Deutschen Geologischen Gesellschaft,45:33-   \n377 Li JL,Liu JRieppelO2O02.Anewspeciesof Lariosaurus (Sauropterygia: Nothosauridae）from Triasicof Guizhou, Southwest China. Vert PalAsiat 40: 114-126 Li JL,Rieppel O,2004. A new nothosaur from the Middle Triassic of Guizhou, China. Vert PalAsiat 42: 1-12 Li Q.,Liu J.2O20.An Early Triassic sauropterygianand asociated fauna from South China provide insights into Triasic ecosystem health. Communications Biology,3:63.https:/oi.org/10.1038/s42003-020-0778-7 Lin WB,Jiang DY,Rieppel Oetal.,2O17.Anew specimen of Lariosaurus xingyiensis (ReptiliaSauropterygia)fromthe Ladinian(Middle Triasic） ZhuganpoMember，FalangFormation，Guizhou，China.JVertPaleont.DOI:   \n10.1080/02724634.2017.1278703 Liu J,RieppelO,Jiang DYetal.,2011.Anew pachypleurosaur(Reptilia: Sauropterygia)from the lower Middle Triassicof southwestern China and the phylogenetic relationships of Chinese pachypleurosaurs.J Vert Paleont,31: 291-302   \nLiuJ,HuSX,RieppelOetal.,2O14.Agigantic nothosaur(Reptilia:Sauropterygia)fromtheMiddleTriasicofSWChinaand its implication for the Triassic biotic recovery. Scientific Reports 4:7142,doi: 10.1038/srep07142.   \nMazinJM,1985.AspecimenofLariosaurus balsami Curioni1847,fromtheeasternPyrenees (France).PalaeontograpicaAbt, A,189: 159-169   \nPeyer B,1931.Die Triasfaunader Tesiner Kalkalpen.IV.Ceresiosaurus calcagniinov.gen.nov.spec.Abhandlungen der Schweizerischen Paläaontologischen Gesellschaft,51: 1-68   \nPeyerB,939.Die Triasfauna der Tesiner Kalkalpen,XIV.Paranothosaurusamsleri nov.gen.nov.spec.Abhandlungen der Schweizerischen Paläeontologischen Gesellschaft, 62,1-87   \nRieppelO，1994.The statusof theSauropterygian Reptile Nothosaurus juvenilis from the Middle Triasic of Germany. Plalaeontology,37(4): 733-745   \nRieppelO,1998.TheStatusof the SuropterygianReptile Genera Ceresiosaurus,Lariosaurus,and Silvestrosaurus fromthe Middle Triassic of Europe.Fieldiana (Geol),New Ser,38:1-46   \nRieppelO,2Ooo.Sauropterygia I.In:WellnboferPed.Handbuch der Palaoherpetologie,Volume12A.Muinchen: VerlagDr Friedrich Pfeil. 1-134   \nRieppelO,2Oo1.Anew speciesof Nothosaurus (Reptilia:Sauropterygia)from the Upper Muschelkalk (Lower Ladinian)of southwestern Germany: Palaeontographica Abt.A.,v.263,Lfg.1-6,137-161   \nRieppel O,WildR，1994.Nothosaurus edingerae SCHULTZE，1970:Diagnosisof the Speciesand Comments onits Stratigrahpical Ocurrence: Stuttgarter Beitrage zurNaturkunde Serie B (Geologie und Palaeontologie), n.204: 1-13   \nRieppelO,WildR.1996.ARevision of the Genus Nothosaurus (Reptilia: Sauropterygia)from the Germanic Triassic,with Comments on the Status of Conchiosaurus clavatus: Fieldiana (Geol), N.S.,34:1-82   \nRieppel,O,MazinJM,TcherovE,199.SuropterygiafromtheMidle Triassicof MakhteshRamon,Negev,srael.Fieldaa (Geol), N.S. 40:1-85   \nRomer A S,1976. Osteology of the Reptiles. Chicago & London: The University of Chicago Press.1-772   \nSchreder H,1914.WirbeltierederRdersdorfer Trias.Abhandungender Koniglich Preusischen GeologischenLandesanstat, Neue Folge 65: 1-98   \nShang QH,2006.Anew species of Nothosaurusfromtheearly Midde Triasicof Guizhou,China.VertPalAsiat,44: 238-249   \nShang QH,Wu XC,LiC,2Ol1.Anew eosauropterygian fromthe Middle Triasicof eastern YunnanProvince,southwestern China. Vert PalAsiat,49: 155-173   \nShangQH,LiC,2015.Anew smal-sizedeosauropterygian (Diapsida: Sauropterygia)from the Middle Triasicof Luoping, Yunnan,southwestern China. Vert PalAsiat,53(4):265-280 [Chinese with English abstract]   \nShang QH,LiC,WuXC,2017.NewinformationonDianmeisaurus gracilisShang&Li2015.VertPalAsiat,5(2):145-161   \nShang QH,Wu XC,LiC,2O20.AnewLadinian Nothosauroid (Sauropterygia)fromFuyuan,Yunnan Province,China.JVert Paleont. DOI: 10.1080/02724634.2020.1789651   \nSwofordDL,2002.PAUP\\*4.Ob10.PhylogeneticAnalysis UsingParsimony(\\*andOtherMethods).Sunderland,Maachsets: Sinauer Associatesn.   \nSwoford,DL,2O21.PAUP\\*version4.Oa169.PhylogeneticAnalsis Using Parsimony.Sunderland,Masschuses:Sinauer Associatesn.   \nTschanz K,1989.Lariosaurusbuzzi n.sp.fromthe Midde Triasicof Monte San Giorgio (Switzerland), withcomments onthe classification of nothosaurs.Palaeontographica,A,208:153-179   \nYin C,Hao WC,SunZYetal.,014.NewMaterialof Nothosaurusyangjuanensis fromtheMiddleAnisian(MiddleTriassic) of Guizhou，Southwestern China.Acta Scientiarum Naturalium Universitatis Pekinensis.doi:10.13209/j.0479- 8023.2014.050 [Chinese with English abstract]   \nZhang QY,ZhouCY,LuTetal.,2o09.Aconodont-based Midle TriasicageasignmentfortheLuoping biotaof Yuan, China. Sci China SerD-Earth Sci,52(10),1673-1678 ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Appendix 1 ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "A.Revised two scores in two taxa in the data matrix of Hinz et al.(2O19: Supplemental Data2).   \nInN.marchicus,thecodeofcharacter15ischangesfrom1to{0,1},basedonAlbers,2Ol1.InNyangjuanensis,thecode of character27ischangesfromOto1,basedonYinetal.,2O14(15:Pinealforamen:O.cosetothemiddleoftheparietalskul table;1.displaced posteriorly;27: Upper temporal fenestra,constrictionof anterior corner:O.Absent;1.Present.)   \nB.Scores for two newly added taxa based on the matrix in Hinz et al.(2O19: Supplemental Data2)   \nN. luopingoensis   \n22?1100101 000110?211 00?1101??1 2?????10??11020???01 0011010?00 201020??11 01   \nL. sanxiaensis   \n？???？？?？？？？???？？??？？？??????？？??????？？??????11？0110211020\\~11021??？？？？   \nBrevicaudosaurus   \n2100100101 0000100211 01?11000?1 1????10?1 ?110000111 ???1?-10-1 211030???1 01 ",
+        "page_idx": 20
+    }
+]

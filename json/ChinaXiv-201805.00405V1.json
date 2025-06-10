@@ -1,0 +1,441 @@
+[
+    {
+        "type": "text",
+        "text": "Wind tunnel experiments on dust emissions from different landform types ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WU Wei1,2, YAN Ping1.2\\*, WANG Yong1,2, DONG Miao1,2, MENG Xiaonan1,2, JI Xinran1.2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Faculty of Geographical Science, Beijing Normal University, Beijing 1Oo875,China;   \n2State KeyLaboratoryofEarthSurfaceProcesesandesoureEcologyBeijingNoralUnversityBeijing5,Chin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The measurement and assessment of dust emissions from diffrent landforms are important to understand the atmospheric loading of PM1O (particulate matter $\\leq 1 0 ~ \\mu \\mathrm { m }$ aerodynamic diameter) and to assess natural sources of dust; however, the methodology and technique for determining the dust still present significant research chalenges. In the past, specialized field observation and field wind tunnel studies have been used to understand the dust emission.A series of wind tunnel tests were caried out to identify natural sources of dust and measure the magnitudes of dust emissions from diferent landforms. The method used in this study allowed the measurement of the PM10 emission rate using a laboratory based environmental boundary layer wind tunnel. Results indicated that PM1O emissions demonstrated strong temporal variation and were primarily driven by aerodynamic entrainment. Sand dunes, playa, and alluvial fans had the largest dust emission rates $( 0 . 8 { - } 5 . 4 ~ \\mathrm { m g / ( m ^ { 2 } { \\bullet } s ) } )$ while sandy gravel, Gobi desert and abandoned lands had the lowest emission rates $( 0 . 0 0 3 { - } 0 . 1 2 6 ~ \\mathrm { m g / ( m ^ { 2 } { \\cdot } s ) } )$ . Dust emissions were heavily dependent on the surface conditions, especially the availability of loose surface dust. High dust emissions were a result of the availability of dust-particle materials for entrainment while low dust emissions were a result of surface crusts and gravel cover. Soil surface property (surface crusts and gravel cover) plays an important role in controling the availability of dust-sized particles for entrainment. The dust emisson rate depended not only on the surface conditions but also on the friction velocity. The emission rate of PM10 Varies as a power function of the friction velocity. Although dynamic abrasion processes have a strong influence on the amount of dust entrainment, aerodynamic entrainment may provide an important mechanism for dust emissions. Large volumes of dust entrained by aerodynamic entrainment can not only occur at low shear velocity without saltation, but may dominate the entrainment proces in many arid and semi-arid environments. So it may also be responsible for large magnitude dust storms. Playa and aluvial fan landforms, prior to developing a surface crust, may be the main sources of dust storms in Qinghai Province. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: emission rates; PM1O; fugitive dust; landforms; wind tunnel; dust dynamics ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dust emissions are widely recognized as an important global environmental problem. Dust not only effects human health and air quality at a local scale (Prospero,1999; Smith and Lee, 2O03; Goudie and Middleton, 2OO6; Chin et al.,2Oo7), but also contributes to the radiation balance and climate system at a global scale (Tegen and Lacis, 1996; Harrison et al., 2001; Tegen et al., 2004; Slingo et al., 2006; Neff et al.,2007; Milton et al., 2008; Solomon et al., 2009). In addition, the entrainment, transport, and eventual deposition of dust on the land surface play important roles in nutrient dynamics and biogeochemical cycles (Avila et al., 1998; Leys and McTainsh, 1999; Goudie and Middleton, 2001; Jickells et al., 2005; Mahowald et al., 2010; Lequy et al., 2013),and in the evolution of landform patterns, hydrology, soil properties, and surface landscapes (Swap et al., 1992; Marticorena and Bergameti,1995; Bryant, 2003; Zender et al., 2003a; Miller et al., 2004; Okin et al., 2004; Tegen et al., 2004; Funk et al., 2008). Consequently, research has focused on understanding the characteristics of dust emissions from landscapes and identifying the natural sources of dust (Xuan et al., 2004; Okin, 2005; Koven and Fung,2008;Bullard et al., 2011; Sweeney et al., 2011). Furthermore, the measurement and assessment of natural dust emissions has become increasingly important for both scientific and practical applications. However, challenges still exist in terms of determining the sources of dust emissions and consequently, the subject remains the focus of considerable investigation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Arid and semi-arid lands occupy approximately $40 \\%$ of the global land area (Biamah, 2005) and are important sources of atmospheric dust loading (Wang et al., 2004; Okin, 2005; Sweeney et al., 2011). These landscapes contain a variety of landforms that have the potential and capacity to emit large volumes of dust. For example, the Gobi desert and alluvial fans adjacent to the Gobi desert are the dominant dust sources in arid and semi-arid regions of China and Mongolia, respectively (Wang et al., 2OO8). Semi-arid deserts are important dust sources in North America (Hahnenberger and Nicoll， 2O14)，alluvial sediments and playas have been identified as dust sources in southwestern United States (Reheis et al.， 2OO2)， and inland basins have been identified as persistent sources of dust (Washington et al., 2003; Ginoux et al., 2012). Other landforms, such as arid loess-lands, dry river beds, deteriorated grasslands, and barren playas are also regarded as important dust sources (Wang et al.,2OO4; Eckardt and Kuring,2O05; Goudie and Middleton, 2006; Hahnenberger and Nicoll, 2O14). A better understanding of the capacity and potentiality of dust emissions from different landforms will help to assess the influences of dust and to better identify the natural sources of dust. However, an important problem regarding dust emissions is the lack of quantitative measurements (Kohfeld et al.， 2Oo5). Previous research employed field based monitoring stations combined with remote sensing and wind tunnel studies to analyze atmospheric dust loading. Recently, portable field wind tunnels and the portable in situ wind erosion laboratory have been used to characterize dust emissions (Etyemezian et al., 2Oo7; Sweeney et al., 2011). A large, portable field wind tunnel is considered as an ideal standard way to measure dust emissions; however, in many cases, a portable wind tunnel is very hard to situate in the field due to the availability, cost, and the requirement for relatively flat topography. This is particularly true for remote areas because it is rarely feasible for such experiments to be conducted. Conversely, simulating and quantifying fugitive dust emission rates by the reproduction of the natural surface in a stationary wind-tunnel are relatively common. The wind tunnel can provide standardized wind conditions and allow for a large number of measurements to be made in a relatively short period of time, which the large portable field wind tunnel cannot do. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the laboratory wind tunnel method allows for the systematic comparison and measurement of the windblown dust emission rate, which could be used in atmospheric dust models. In this study,a laboratory wind tunnel was used to quantify the capacity of dust emissions from different landforms. Eleven types of undisturbed surface soil samples from different landforms of Qinghai Province, China, were used for analysis. Previous studies on dust emissions have utilized different types of sand traps and wind tunnels (Leys and Raupach, 1991; Wiggs et al., 1996; Nickling and Neuman, 1997; Goossens and Offer, 2000; Dong et al., 2004). Dust traps are fixed and can only capture dust-size material (e.g., PM1O) but they lack the spatial resolution to capture dust-size material from different landforms. In this study, the atmospheric dust concentration was measured by special instruments which can provide a series of unique and comprehensive data of dust. And this instrument can provide the PM10 data that willhelp to asess the spatial heterogeneity of dust emissions from different landforms and provide a better understanding of the contribution of different sources to atmospheric dust loading. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area and sample collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Undisturbed soil samples were collected along a transect in northern Qinghai Province, China (Fig. 1） and 11 types of landforms were chosen for analysis (Table 1). We assumed that the heterogeneities of dust emissions on a large scale can also be found from the different types of surfaces by small scale simulations. The main undisturbed surface soil samples were distributed in Gonghe County, Qinghai Lake area, and Golmud, where the landforms are the most typical in Qinghai Province. The distribution of extremely uneven precipitation is influenced by the altitude, monsoon circulation, and topography. The mean annual precipitation is $1 0 0 { - } 4 0 0 ~ \\mathrm { m m }$ in Qinghai Province, with approximately $60 \\%$ occurring in summer (May to September). Winds are predominantly northwesterly in winter. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4c5252412993e4a2d89f5b23f1a858b070ced99c64c23a3ff80c8b7c5622151.jpg",
+        "img_caption": [
+            "Fig.1 Locations of sampling sites in Qinghai Province "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We collected the soil samples without disturbing its structure. The soil textural characteristics and surface conditions of the samples are presented in Table 1. The methodology for collecting the undisturbed samples is similar to the method described by Zhang et al. (2OO7) in which they described the steps to collect the soil samples in great detail. Surface soil samples were excavated to a depth of $2 0 \\mathrm { c m }$ , put into the sample boxes (wooden box, $8 0 \\mathrm { c m } { \\times } 3 0 \\mathrm { c m } { \\times } 2 0 \\mathrm { c m } )$ and transported to the laboratory for further analyses. The boxes were well protected to reduce the contamination and damage during the transport. Samples were air-dried to a moisture content of approximately $1 . 5 \\%$ . At each sampling location, the surface layer $( 0 { - } 5 \\mathrm { c m } )$ was collected to determine the particle sizes. The particle sizes were analyzed using a Malvern Mastersizer 2Ooo (Malvern, UK; sample diameter, $0 . 0 2 \\substack { - 2 0 0 0 } \\mu \\mathrm { m } )$ . Soil texture was determined using the percentages of sand (2.0O-0.05 mm), silt $( 0 . 0 5 0 { \\ - } 0 . 0 0 2 \\ \\mathrm { m m } )$ and clay $\\mathrm { < 0 . 0 0 2 ~ m m } )$ by using the United States Department of Agriculture soil texture triangle. The selected sites represent a wide range of soil textural characteristics including: sandy loam (QZ-1), silt loam (QZ-2), clay loam (QZ-3), silt (QZ-4), sand (QZ-5-7), loamy sand (QZ-8), clay (QZ-9), clay loam (QZ-10), and loam (QZ-11). And it can be divided into two general surface structures according to the listed textural groups, there were noncohesive sands, gravels (QZ-5-7 and 11) and depositional clay crusts (QZ-1-4 and 8-10). ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f1d84195e06551deb5bcba976507a813efb3e4385150b0f9c3a7208d84a5a0a0.jpg",
+        "table_caption": [
+            "Table 1 Soil texture and surface characteristics "
+        ],
+        "table_footnote": [
+            "Note:ThesoiltextualcharacteristicsofeachsitewereasZ-ladlm;QZ-2,siltam;Z-3lalm;QZ-4,silt;Qd; QZ-8,loamy sand;QZ-9, clay;QZ-10, clay loam;QZ-11, loam. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Site</td><td colspan=\"3\">Component (%)</td><td colspan=\"3\">Surfacecharacteristics</td></tr><tr><td>Sand</td><td>Silt</td><td>Clay</td><td>Setting</td><td>Type</td><td>Structure</td></tr><tr><td>QZ-1</td><td>51.79 42.40</td><td></td><td>5.81</td><td>Valley flats</td><td>Depositional silt/clay crust</td><td>Clay-crusted</td></tr><tr><td>QZ-2</td><td>16.96</td><td>77.73</td><td>5.31</td><td>Fluvial plain</td><td>Depositional silt/clayand occasional relict tire tracks</td><td>Clay-crusted</td></tr><tr><td>QZ-3</td><td>37.96 25.52 36.52</td><td></td><td></td><td>Playa</td><td>Depositional silt/clay crust with small swale and extensive</td><td>Clay-crusted</td></tr><tr><td>QZ-4</td><td>15.20 81.30</td><td></td><td>3.50</td><td>Alluvial fans</td><td>Depositional silt/clay crust with large polygonal cracking</td><td>Clay-crusted</td></tr><tr><td>QZ-5</td><td>91.99</td><td>7.16</td><td>0.85</td><td>Sand dune</td><td>Wind ripples composed of loose sand</td><td>Non-cohesive</td></tr><tr><td>QZ-6</td><td>90.96</td><td>8.90</td><td>0.14</td><td>Sandy gravel</td><td>Loose gravel</td><td>Non-cohesive</td></tr><tr><td>QZ-7</td><td>90.23</td><td>8.39</td><td>1.38</td><td>Gobi desert</td><td>Coarse pebble lag</td><td>Non-cohesive</td></tr><tr><td>QZ- 8</td><td>77.59 20.07</td><td></td><td>2.34</td><td>Dry river beds</td><td>Depositional silt/clay crust</td><td>Clay-crusted</td></tr><tr><td>QZ-9</td><td>30.51 21.40 49.09</td><td></td><td></td><td>Plateau, cultivated land</td><td>Depositional clay crust with large polygonal cracking and clay surface peels</td><td>Clay-crusted</td></tr><tr><td>QZ-10</td><td>31.15 32.81 36.04</td><td></td><td></td><td>Plateau, abandoned lands</td><td>Depositional clay crust with extensive cracking</td><td>Clay-crusted</td></tr><tr><td>QZ-11</td><td>51.41 37.54 11.05</td><td></td><td></td><td>Floodplains</td><td>Depositional silt/clay crust</td><td>Non-cohesive</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Wind tunnel ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The wind tunnel experiments were conducted at the State Key Laboratory of Earth Surface Processes and Resource Ecology, Beijing, China. The blow-type, non-circulating wind tunnel has a total length of $3 4 . 4 \\mathrm { m }$ with a test section that is $1 6 . 0 \\mathrm { m }$ long (Fig. 2), $1 . 0 \\mathrm { m }$ high and $1 . 0 \\mathrm { m }$ wide. Wind speed can be controlled continuously from 1 to $4 0 ~ \\mathrm { m / s }$ . The sample tray was placed in the test section and the surface of the soil sample was kept level with the tunnel floor. Wind speed in the tunnel is measured by a pitot tube that can traverse vertically through the boundary layer. During a typical experiment, the pitot tube starts at a height of $0 . 0 1 \\mathrm { ~ m ~ }$ and then traverses upwards to 0.05, 0.10, 0.15, 0.20, and $0 . 3 0 \\mathrm { ~ m ~ }$ then stops at the predetermined set point of $0 . 1 0 \\mathrm { ~ m ~ }$ ，These vertical profiles of wind speed are used to obtain the boundary layer profile and the friction velocity $\\left( u _ { * } \\right)$ in the wind tunnel. The friction velocity was calculated using the 'law-of-the-wall' (Eq. 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { z } = \\frac { u _ { * } } { k } \\operatorname { I n } \\left( \\frac { z } { z _ { 0 } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $u _ { z }$ is the wind velocity $\\mathrm { ( m / s ) }$ at the height of z $( \\mathrm { m } )$ ， $u _ { * }$ is friction velocity $\\mathrm { ( m / s ) }$ ， $k$ is the von Karman's constant (O.4), and $z _ { 0 }$ is the roughness length $\\mathrm { ( m ) }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1f54e56e0e76d1fc7cd36d99cc3b7d9d1acf86dea24b1b115fd11fdff490ba2.jpg",
+        "img_caption": [
+            "Fig.2 Schematic of the wind tunnel "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "During the first stage of the wind tunnel tests for each soil sample, fan speed increased rapidly and was then maintained at a constant for approximately $1 2 0 \\mathrm { ~ s ~ }$ . The pitot tube was traversed to the set points to obtain the boundary layer profile. For the second stage, the pitot tube was kept at a single height and $\\mathbf { z } _ { 0 }$ obtained from the first stage was used to solve Equation 1. The duration of each test was $1 2 0 \\mathrm { ~ s ~ }$ . The concentration of atmospheric dust was measured by Dust-Track I1 8530 instrument (DT; Model 8530 produced by TSI in USA), with an operating range of 0.001-150.000 $\\mathrm { m g } / \\mathrm { m } ^ { 3 }$ and a resolution of $\\pm 0 . 1 \\%$ . Dust concentrations were measured at 1-s intervals by four DT instruments located at 0.01, 0.05, 0.10, and $0 . 2 0 \\mathrm { m }$ above the test surface. Before the wind tunnel test, the background concentration of dust was measured. The sediment transport rate was also measured using a step-like slit passive sampler (Chen et al., 1996). A sand trap was placed along the center line of the tunnel in the working section.The sediment transportations at different heights were weighed by an electronic balance $_ { ( 0 . 0 0 1 \\mathrm { ~ g ~ } }$ precision). The method used to calculate the PM10 emission rate is similar to the control volume method described by Roney and White (2006), in which a control volume was defined as $W _ { \\mathrm { b } } { \\times } L _ { \\mathrm { b } } { \\times } H _ { \\mathrm { t } }$ ， The emissions source area $( A _ { \\mathrm { b } } )$ or test surface is determined by its length $L _ { \\mathrm { b } }$ and width $W _ { \\mathrm { b } }$ , while $H _ { \\mathrm { t } }$ is the height of the wind tunnel. According to the mass balance of the control volume, the dust emission rate $E \\left( \\mathrm { g } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ) \\right)$ was defined as below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\frac { 1 } { A _ { \\mathrm { { b } } } } ( m _ { \\mathrm { { o u t } } } - m _ { \\mathrm { { i n } } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { \\mathrm { i n } }$ and $m _ { \\mathrm { o u t } }$ are the mass fluxes $\\mathrm { ( g / s ) }$ in and out the control volume, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The mass flux rates $\\mathrm { ( g / s ) }$ can be determined by the vertical profiles of the dust concentration ( $c$ $( \\mathrm { g } / \\mathrm { m } ^ { 3 } ) )$ and velocity $\\left( u \\left( \\mathrm { m } / \\mathrm { s } \\right) \\right)$ (Eqs.3 and 4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { m _ { \\mathrm { o u t } } = \\displaystyle \\int _ { 0 } ^ { H _ { \\mathrm { t } } } c _ { \\mathrm { o u t } } \\times u \\times W _ { \\mathrm { b } } d z , } \\\\ & { m _ { \\mathrm { i n } } = \\displaystyle \\int _ { 0 } ^ { H _ { \\mathrm { t } } } c _ { \\mathrm { i n } } \\times u \\times W _ { \\mathrm { b } } d z , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $c _ { \\mathrm { i n } }$ and $c _ { \\mathrm { o u t } }$ are the dust concentrations $( \\mathrm { g } / \\mathrm { m } ^ { 3 } )$ in and out the control volume, respectively. The emission rate $( E )$ was defined as Equation 5. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\frac { 1 } { L _ { \\mathrm { b } } } { \\int _ { \\mathrm { 0 } } ^ { H _ { \\mathrm { t } } } { \\left( { c _ { \\mathrm { { o u t } } } \\times u - c _ { \\mathrm { { i n } } } \\times u } \\right) } d z } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We assumes that $c _ { \\mathrm { i n } } { = } 0$ based on the background PM1O concentration in the tunnel. While the sediment collected in the trap was measured, the sand flux $( q _ { \\mathrm { i } } ~ ( \\mathrm { k } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ) ) )$ can be determined as Equation 6. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq _ { i } = \\frac { m _ { i } } { t \\times A _ { i } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { i }$ is the mass (g) collected in each sand trap at each location, $t$ is the time of collection (s), and $A _ { i }$ is the frontal area $( \\mathbf { m } ^ { 2 } )$ of the trap. Hence, the total sand flux $\\left( Q \\left( \\mathrm { k } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ) \\right) \\right)$ )canbe determined by Equation 7. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { Q = \\sum _ { 1 } ^ { 1 0 } ( q _ { i } \\times h _ { i } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $h _ { i }$ is the height $\\mathbf { \\tau } ( \\mathbf { m } )$ of each sand trap. This sand flux was an indication of the total horizontal mass (sand together with dust) flux rate for various wind velocities. Once the emission rate of PM10 and the total sand flux rate have been obtained, the ratio $( F _ { a } )$ of vertical flux of PM1O to total horizontal mass flux was calculated using Equation 8. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { _ a } = { \\frac { E } { Q } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Macpherson et al. (2O08) use the ratio to describe the different soil structural groups. The ratio $( F _ { a } )$ of vertical PM1O flux to total horizontal mass flux was also analyzed in this study. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 PM10 concentration profiles ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Detailed profiles of PM1O concentrations were obtained from the wind tunnel tests. Typical data (except for QZ-5, because emissions from this landform are commonly sustained and of a high magnitude) for one experimental run are shown in Figure 3. Time series data shows that there are two stages of dust emissions. At the commencement of the simulation (approximately 5 s), dust concentrations exhibited a high-concentration peak then declined rapidly and maintained at lower levels (in some cases close to background concentrations) over time. This peak may suggest a limited supply of wind-erodible sediment and that dust emissions depend on the availability of wind-erodible sediment. In other cases, dust concentration peaks are maintained for a few seconds and then slowly decrease. Peaked emissions were typical for clay-crusted surfaces (QZ-1, QZ-3, QZ-4,QZ-9)， suggesting that peaked emissions may typically be found in supply limited environments. Sustained dust concentration peaks are found for fine textured soil surfaces and noncohesive sand surfaces (QZ-5, QZ-11). Hence, the dust emission pulse was not driven by saltation bombardment, instead it was driven by aerodynamic entrainment of dust on the surface (Macpherson et al., 2Oo8). Velocity also plays a role in determining dust emission characteristics. As wind speed increases, a second peak in the dust concentration appears. The emisson peak caused by increasing wind velocity was typically larger than the initial peak. The time series shown in Figure 3 indicates that the peak emission of PM10 is not only limited by supply of wind-erodible sediment but also the wind velocity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/44f6da6d8a867563606b9cd39cb61cd1724b76354488edce085bc237fe2767fc.jpg",
+        "img_caption": [
+            "Fig.3Representative time series of PM10 concentration emited from the clay loam surface (QZ-3)at dierent wind velocity "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Dust emission rates ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The PM1O dust emission rate was calculated according to Equation 5. It can help to compare the different dust emission rates between different landforms (Fig. 4). The emissions among different landforms varied between $3 { - } 5 4 0 0 \\mu \\mathrm { g } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } )$ . Surprisingly, sand dune (QZ-5) was one of the largest dust emitters, despite containing a lower proportion of available silt and clay (average $9 \\%$ ). Sand dune emissions do not display typical peaks; rather, they maintain a high emission magnitude for the duration of the wind tunnel simulation. Consequently, this landform type emited significantly more PM10, approximately $8 0 0 { - } 5 4 0 0 ~ \\mu \\mathrm { g / ( m ^ { 2 } { \\cdot } s ) }$ ,as compared to $3 { - } 1 2 6 \\ \\mu \\mathrm { g } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } )$ for clay-crusted surfaces (QZ-1O). Sandy gravel, Gobi desert and the abandoned land with clay crusts have the lowest dust emission rates (average $5 . 0 \\ \\mu \\mathrm { g } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ) )$ , suggesting that gravel cover and a surface crust can limit the entrainment of dust from the surface. Sand dune has the highest dust emission rate, which is also uniform; hence, its dust emissons can be characterized as sustained and high magnitude. This may reflect the homogeneous sedimentology of the sand and the influence of saltation. Playa, fluvial plain and alluvial fan were moderate producers of dust. Based on particlesize analysis, these landform types all contain significant amounts of silt and clay (average $7 6 \\%$ ） Consequently, it may be easy for them to produce large volumes of dust given sufficient sediment availability. However, there does not appear to be a large emission of dust from these landforms, indicating that surface crusts play an important role in controling surface dust emissions. The total amount of dust emissions from these landforms can be characterized as high or low, largely dependent on the surface conditions. Surfaces with loose sand or loose sediment presented a great capacity to emit dust whereas surfaces with strong soil crusts or those covered with gravel were low emitters. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ea66dea452e1a4d52d2aa22a1df6469cc7101423619bc8d936a5662d8eaffaa.jpg",
+        "img_caption": [
+            "Fig.4Dust emissions from individual landforms at different velocities. The soil textural characteristics of each site were as QZ-1,sandyloam; QZ-2,silt loam; QZ-3, clay loam; QZ-4, silt; QZ-5-7,sand; QZ-8,loamy sand; QZ9, clay; QZ-10, clay loam; QZ-11, loam. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The difference in PM1O emission rates depended not only on the surface conditions but also on the friction velocity $( u _ { * } )$ . PM1O emission rates increased with friction velocity. Analysis showed that the emission rate of PM1O varies as the cubic function $\\scriptstyle ( E = \\mathrm { a } \\times u _ { * } ^ { 3 } )$ ） of the friction velocity (Fig. 5; Table 2),and most of their corresponding coeficients of determination $( R ^ { 2 } )$ were good. It showed that the friction velocity have great effect on PM10 emission rates. Surfaces with strong clay crusts or covered with gravel require a higher $u _ { * }$ to initiate dust emission, while surfaces with available sand or more sediment availability begin to emit dust at a lower $\\boldsymbol { u } _ { * }$ . As a result, playa, fluvial plain and alluvial fans emit relatively large amounts of dust at lower $u _ { * }$ ,a finding which reflects those of previous studies (Nickling and Gillies, 1993). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/871acbfd17a7fc98632f83c4f1adcd2228b1bbbc988f2941fea8ee4ee4e6e47b.jpg",
+        "img_caption": [
+            "Fig.5Relationship between the emission rate $( E )$ and the friction velocity $( u _ { * } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c6655083cb7dbfd3eae183a70f44cdcb019f853eddccf2e374bb899a337123e.jpg",
+        "table_caption": [
+            "Table 2 Coefficients of dust emission rate $( E )$ and friction velocity $( u _ { * } )$ "
+        ],
+        "table_footnote": [
+            "Note: $E$ and $u _ { * }$ have the general form of $\\scriptstyle { E = \\mathrm { a } \\times u }$ 3 "
+        ],
+        "table_body": "<html><body><table><tr><td>Surface type</td><td>a</td><td>R²</td><td>No.</td><td>a</td><td>R²</td></tr><tr><td>Valley flat</td><td>788.32</td><td>0.59</td><td>Gobi desert</td><td>28.55</td><td>0.86</td></tr><tr><td>Fluvial plain</td><td>236.91</td><td>0.99</td><td>Dry river beds</td><td>146.73</td><td>0.83</td></tr><tr><td>Playa</td><td>1458.45</td><td>0.85</td><td>Cultivated land</td><td>384.61</td><td>0.94</td></tr><tr><td>Alluvial fan</td><td>462.90</td><td>0.99</td><td>Abandoned lands</td><td>79.70</td><td>0.94</td></tr><tr><td>Sand dune</td><td>3376.50</td><td>0.97</td><td>Floodplains</td><td>269.67</td><td>0.84</td></tr><tr><td>Sandy gravel</td><td>64.61</td><td>0.92</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Vertical flux to total mass flux ratio ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Dust emission models have traditionally focused on the relationship between the emission rate and the friction velocity (Gillette and Passi, 1988; Lu and Shao, 1999; Houser and Nickling, 2001; Zender et al., 2003b; Webb and Strong, 2011). $F _ { a }$ was a proportion of the total quantity of dust emission and significantly related to the emission rate (Houser and Nickling, 2OO1). Here, the $F _ { a }$ was calculated according to Equation 8. The wind-tunnel results for this ratio can provide comparable data derived using a different method and technique; they can also help to assess the potential dust emission capacity of a landform. Data from the wind tunnel experiment suggest that the value of $F _ { a }$ differs between surface types. The value of $F _ { a }$ varied between $1 . 8 7 \\times 1 0 ^ { - 4 }$ and $4 . 3 9 \\times 1 0 ^ { - 3 }$ , with an average value of $1 . 2 6 \\times 1 0 ^ { - 3 }$ (Fig. 6a). The average value of $F _ { a }$ for clay-crusted surfaces was $1 . 0 5 \\times 1 0 ^ { - 3 }$ , as compared to $1 . 6 3 \\times 1 0 ^ { - 3 }$ for non-cohesive surfaces. And there was no significant difference in the means between the two groups of surfaces through Paried-Samples $T .$ test $( P { < } 0 . 0 5 )$ . But non-cohesive surfaces show a higher value of $F _ { a }$ than clay-crusted surfaces. Besides, non-cohesive surfaces display a larger range in value of $F _ { a }$ as compared to that of the crusted surfaces, suggesting that the non-cohesive surfaces show a greater degree of variability in $F _ { a }$ . Comparing the value of $F _ { a }$ at different wind velocities showed that the average value of $F _ { a }$ was much higher at low velocities as compared to high velocities, especially for clay-crusted surfaces. That is to say, clay-crusted surfaces released more dust per unit $\\boldsymbol { Q }$ at low velocities. A curve fiting method based on the least-squares principle is used to analyze the relationship between $F _ { a }$ and $u _ { * }$ Results show that data are scattered and fail to produce any significant trends with strong correlation coefficients (Fig. 6b). This indicates that there is litle relationship between $F _ { a }$ and $u _ { * }$ And the value of $F _ { a }$ cannot be accurately described by a direct relationship with $u _ { * }$ . Our result is inconsistent with the findings of Alfaro et al. (2OO4), who found that there was a relationship between $F _ { a }$ and $u _ { * }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/37d7c23f7388f33b7933f0ed7ee2665fd2a0ea943456bcdc0e55677d828536ea.jpg",
+        "img_caption": [
+            "Fig.6Box plots of the PM10 emisson rates compared with the totalsand flux rate associated with each structural group (a) and the relationship between the emission rate and the friction velocity (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1 Dust entrainment mechanisms ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "One of the main factors affecting dust emissions in the wind tunnel experiments was the limited supply of particles as compared to natural wind erosion events which provide an almost unlimited particle supply. After the entrainable material was depleted, the wind erosion characteristics of the wind tunnel experiments changed rapidly. Another limitation of this experimental design was the inability to reproduce saltating particle, which travel long distances and have a substantial impact on wind erosion characteristics. These factors may have contributed to the peaked dust emissions observed in the wind tunnel experiments. Typical dust emissions in the wind tunnel experiments could be characterized as having two stages. At the onset of the wind, the dust presented a significant high-concentration peak. The availability of dust-sized particles for entrainment was not limited during this stage. However, after the dust-sized particles were depleted, the dust concentration rapidly declined and was maintained at low and stable concentrations over time (close to background dust concentrations in some cases). The availability of dust-sized particles for entrainment is the likely reason for this typical dust emission. Comprehensive analysis of our results suggests that aerodynamic uplift is the primary mechanism for dust entrainment. It is widely accepted that dynamic entrainment is one of the most important mechanisms for dust entrainment. However, in the wind tunnel experiments, there was a lack of saltating particles (except for the sand dune sample). In particular, clay-crusted surfaces had no significant saltating particle while the dust concentration remained high. Our results demonstrated that, even very low velocity winds (below the threshold velocity for saltation) entrained very low quantities of dust $( 2 4 3 { - } 6 3 3 \\ \\mu \\mathrm { g } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ) )$ . This finding is consistent with previous research,suggesting that dust emissons could occur well before the threshold velocity for saltation is reached (Loosmore and Hunt, 2Ooo; Roney and White, 2004). Our observations provide further evidence to suggest that aerodynamic uplift is a potential pathway for dust emissions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Previous researches indicated that when dust uplift was driven by saltation, dust emissions were proportional to the cube of the friction velocity (Shao et al., 1993). Houser and Nickling (2001) found that a relationship exists between the vertical flux and the emission rate for the abraded surface. They suggested that approximately $5 5 \\%$ of dust was transported vertically $( F { = } 0 . 5 5 E )$ ： hence, a significant relationship between $u _ { * }$ and $F _ { a }$ should exist if dust uplift is driven by saltation. However, our results showed a weak relationship between $F _ { a }$ and $u _ { * }$ , indicating that $F _ { a }$ cannot be described solely by $u _ { * }$ (Fig. 6). Therefore, dust uplift is not likely to be driven by saltation in our study. Furthermore, when comparing the values of $F _ { a }$ at different velocities (Fig. 6b), some of the average value of $\\mathrm { F _ { a } }$ at low wind speed was even higher than that at the high wind speed. This was particularly true for the clay crust surfaces, where the total horizontal mass flux $( Q )$ was low, but vertical dust flux $( E )$ was relatively high. This result reinforces our finding that a substantial proportion of the dust was due to aerodynamic uplift. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The peak dust emissions that were the typical of our wind tunnel simulations may provide significant information regarding atmospheric dust loadings. Dust emision studies have focused on large-scale emission events, for example dust storms, and dynamic abrasion processes (Lu and Shao, 1999; Shao,2001; Sun et al.,2001; Sassen et al., 2003; Zhang et al., 2008). Although these events can release large amounts of dust into the atmosphere, they occur infrequently as such they may not be the main drivers of high dust concentrations in the field. When the process of aerodynamic entrainment is considered,large volumes of sediments can be entrained at low shear velocity without saltation. Consequently, this process is likely to play an important role in releasing dust into the atmosphere and may be the dominant driver of entrainment in many arid and semiarid environments when the frequency and areal extent of occurrence are considered. Hence, we can conclude that strong wind events are not a necessary prerequisite for dust emissions and high atmospheric dust loading in many cases. Low-magnitude, high-frequency wind events can also contribute to dust emissons through the accumulation of dust over large geographical areas and long periods of time. In recognizing this, dust emission models should consider the aerodynamic entrainment process. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2Heterogeneity of emissions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Many dust models attempt to recognize the heterogeneity of dust emissions at a large scale by considering the climate, vegetation cover, hydrology, regional topography, and geomorphology as influencing factors (Zender et al., 2003b; Okin, 2005). Heterogeneity of emissions also can be documented in our wind tunnel study and can primarily be explained as the surface crust, the availability of dust-sized particles for entrainment, and gravel cover. The results of our study indicated that the soil surface samples presented a broad range of dust emission rates; the maximum rate being one to two orders or magnitude larger than the minimum rate for the same wind speed, especially when the surface was crusted (Fig. 4). Hence, surface crusts play an important role in dust emissions. As compared to non-cohesive surfaces, crust surface dust emissions can be maintained at low levels even at high wind velocities. Surfaces with soft crusts (QZ-3, QZ-4) were among the highest dust emitters whereas surfaces with strong soil crusts (QZ-9, QZ-1O) were low emiters. Soil texture (grain-size distributions) was not clearly related to dust emission in our wind tunnel tests. For example, the sand dune (QZ-5) contained a very smal proportion (less than $9 \\%$ ） of dust-sized material (silt and clay), but had one of the highest dust emisson rates. Conversely, the surfaces QZ-9 and QZ-1O contain a high proportion of dust-sized material, but the total amount of dust released from those surfaces was negligible.This discrepancy is related to the surface crust and surface sediment availability. This suggests that the proportion of available dust-sized material may be underestimated in some cases. For example, when comparing the dust emission capacity of different surfaces, we only consider soil texture. However, the dispersion of soil for particle-size analysis can decompose soil aggregates into dust sized particles and may overvalue the dust emission capacity. Consequently, it is the availability of dust-sized material for entrainment rather than the potentially available dust-sized material (soil texture) that determines the capacity for dust emissions. Put simply, soil texture alone does not account for dust emission capacity. In some cases, disturbing the surface may effectively increase the availability of material for dust entrainment by redistributing previously sheltered material which may significantly increase the rate of dust emission. Thus, soil surface properties (surface crusts and gravel cover) play an important role in controlling the availability of the dust-sized particles for entrainment. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Sand dunes demonstrated some of the highest emissions in the wind tunnel tests.However, sand dunes are not considered as a natural hot spot for dust emission (Sweeney et al., 2O11). The $F _ { a }$ value of sand dune was smallr as compared to other land surfaces; meaning that the proportion of PM10 in the total amount of sand transportation was much lower and the amount of dust released per Q was much lower for the sand dune. And the PM1O was transported vertically, which may suggest that only a small percentage of dust emitted from this surface is transported vertically. Combined with particle size analysis, sand dunes tend to contain a very small proportion of $\\mathrm { P M } 1 0$ So it may release relatively small dust under the same conditions. Beside, according to the structure of sand flux collected from the sand trap, almost $90 \\%$ of the total amount of sand transportation Was distributed at a height of $0 { - } 1 2 ~ \\mathrm { c m }$ (Fig. 7) which means that more of the sand transportation was distributed in near-surface and cannot transport far away. So it may have a litle contribution to long-distance dust. Hence, sand dunes may not be the main source of sand-dust storms over a large extent. Alluvial fans and playa had moderate emission rates but the highest values of $F _ { \\mathrm { a } } .$ indicating that alluvial fans and playa release more dust per unit $\\boldsymbol { Q }$ as compared to other land surfaces. Playas and fluvial plains contain a very large proportion of dust-sized material (silt and clay), but in many cases the available sediment is limited due to surface crusting. These surfaces have a significant capacity for dust emisson if sediment availability was not limited. For example, when these landforms have no vegetative cover and before surface crusts begin to form, these surfaces can release large volumes of dust and become the main sources of atmospheric dust loading. Previous studies have also shown that the alluvial and playa landforms are major regional dust producers (Gill, 1996; Prospero et al.， 2002; Reheis, 2006; Katra and Lancaster, 2008; Hahnenberger and Nicoll, 2O14) as such we conclude that alluvial fans and playa may be the main sediment sources for large scale sand-dust storms. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcd82236a906afce2251818ff2927e1dd9c1344bf46887f8d95e38772366e445.jpg",
+        "img_caption": [
+            "Fig.7The relative percentage of sand transportation at different heights in structure ofsand flux of different types of surface in the wind tunnel "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A series of wind tunnel tests were carred out to establish a methodology for determining the dust emission rates from different land surface types and to attempt to identify the main sources of dust. Our results showed that PM1O emissions demonstrated strong temporal variation and were primarily driven by aerodynamic entrainment. Sand dunes, playa, and alluvial fans were the highest dust emitters $( 0 . 8 { - } 5 . 4 \\mathrm { m g / ( m ^ { 2 } { \\cdot } s ) } )$ , while sandy gravel, the Gobi desert, and abandoned lands were the lowest dust emitters $( 0 . 0 0 3 { - } 0 . 1 2 6 ~ \\mathrm { m g / ( m ^ { 2 } { \\cdot } s ) } )$ . Dust emissions were heavily dependent on the surface conditions, especially the availability of loose surface dust. Dust emissions were directly influenced by the availability of dust-sized particles and friction velocity. Soil surface properties (surface crusts, gravel cover) play an important role in controlling the availability of dust-sized particles for entrainment. Furthermore, aerodynamic entrainment may provide an important mechanism for dust emissions and may be responsible for large magnitude dust storms in arid and semi-arid environments. Prior to developing a surface crust, playa and alluvial fans are likely to be the main sources of large magnitude dust storms in Qinghai Province. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the National Basic Research Program of China (2016YFA0601901,2013CB956001). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Alfaro S C,Rajot JL, Nickling W. 2004. Estimation of $\\mathrm { P M } _ { 2 0 }$ emissions by wind erosion: main sources of uncertainties. Geomorphology, 59(1-4): 63-74.   \nAvilaA,Alarcon M,Queralt I.1998.Thechemical compositionof dusttransported inredrains—itscontribution tothe biogeochemical cycle of a holm oak forest in Catalonia (Spain).Atmospheric Environment,32(2): 179-191.   \nBiamah E K. 2005.Coping with Drought: Options for Soil and Water Management in Semi-Arid Kenya. Netherlands: Wageningen University and Research Centre,159-164.   \nBryantRG.2O03.Monitoring hydrologicalcontrolsondustemissions: preliminaryobservationsfromEtoshaPan,Namibia.The Geographical Journal, 169(2): 131-141.   \nBulard JE,HarsonSPddockMC,eal.21referentalustsources:Ageomopholgicalclassiicationdesigedfor use in global dust-cycle models. Journal of Geophysical Research: Earth Surface,116(F4): FO4034.   \nChen WN,DongZB,LiZS,etal.1996.Windtunnelestoftheifluenceofmoistureontheerodibilityofloessialsadyloam soils by wind. Journal of Arid Environments, 34(4): 391-402.   \nChin M,DiehlT,GouxP,etal.O7.Intercontiental trasportofoltionanddustaerosols: implicationsforgioalir quality. Atmospheric Chemistry and Physics,7(21): 5501-5517.   \nDong Z B,Sun HY,ZhaoA G. 2O04.WITSEG sampler: asegmented sand sampler for wind tunnel test. Geomorphology,59(1- 4): 119-129.   \nEckardtFD,Kuring N.25.SeaWiFSidentifies dust sources intheNamibDesert.InternationalJournalof RemoteSesing, 26(19): 4159-4167.   \nEtyemezian V,Nikolich G,AhonenS,etal.207.ThePortable inSitu WindErosionLaboratory (P-SWERL): Anewmethodto measure $\\mathrm { P M } _ { 1 0 }$ windblown dust properties and potential for emissions.Atmospheric Environment,41(18): 3789-3796.   \nFunk R,ReuterHI,Hofmann C,etal.2o8.Efectof moistureonfine dust emision fromtillageoperationsonagicultural soils. Earth Surface Processes and Landforms,33(12): 1851-1863. 1043-1057.   \nGinouxP,ProsproJ,GillTE,etal.Gobal-saleatribtioofntropogenicndatualussouesndto rates based on MODIS Deep Blue aerosol products. Reviews of Geophysics,50(3): RG3005.   \nGill TE.1996.Eolian sediments generated byanthropogenic disturbance of playas: human impacts on the geomorphic system and geomorphic impacts on the human system. Geomorphology, 17(1-3): 207-228.   \nGilette DA,Pasi R.1988. Modeling dust emision caused by wind erosion.Journal of Geophysical Research Atmospheres, 93(D11): 14233-14242.   \nGoudie A, MiddletonNJ.2Oo1.Saharan dust storms: nature and consequences.Earth-Science Reviews,56(1-4):179-204.   \nGoudie A,Middleton N J. 2O06. Desert Dust in the Global System. Berlin Heidelberg: Springer,156-164.   \nHarison SP,KohfeldKE,Roelandt C,etal.2Ool.Theroleofdust inclimatechanges today,athelast glacialmaximuand in the future. Earth-Science Reviews,54(1-3): 43-80.   \nHouser C A, Nickling W G. 2o01. The emission and vertical flux of particulate matter $< 1 0 ~ \\mu \\mathrm { m }$ from a disturbed clay-crusted surface. Sedimentology, 48(2): 255-267.   \nHahnenbergerM,NicollK.2014.Geomorphic andlandcoveridentificationofdustsources in theeastern Great Basinof Utah, U.S.A. Geomorphology, 204: 657-672.   \nJickellsTD,An ZS,Andersen K K,etal.25.Globalironconnectionsbetween desert dust,ocean biogeochemistrynd climate. Science,308(5718): 67-71.   \nKatraI,LancasterN.2Oo8.Surface-sedimentdynamicsinadustsourcefromspacebornemultispectral thermalinfrared data. Remote Sensing of Environment, 112(7): 3212-3221.   \nKoven CD,Fung I. 2O08.Identifying global dust source areas using high-resolution land surface form.Journal of Geophysical Research: Atmospheres, 113(D22): D22204.   \nKohfeld KE,Reyolds RL,PeetierJD,etal5.Linkingthscalesofobservation,proce,and modelingofdusteisis. Eos, Transactions American Geophysical Union, 86(11): 113.   \nLoosmoreGA,HuntJR.20oo.Dustresuspension withoutsaltation.JournalofeophysicalResearch:Atmospheres,05(D16): 20663-20671.   \nLeys JF,RaupachMR.1991.Soilflux measurements usinga portable winderosiontunnel. Australian JouralofSoilResearch, 29(4): 533-552.   \nLeys JF,McTainshGH.1999.Dustand nutrientdeposition toriverineenvironmentsofsouth-easternAustralia.Sairaanhoitaja, 46: 59-76.   \nLequy E,Legout A,Conil S,etal.20l3.Aeolian dust depositionrates in Northern French forests and inputs totheir biogeochemical cycles. Atmospheric Environment, 80: 281-289.   \nLu H,ShaoYP.199.Anewmodel fordust emissionbysaltationbombardment.JournalofGeophysicalResearch:Atmospheres, 104(D14): 16827-16842.   \nMacpherson T,Nickling WG, GiliesJA,et al.208.Dust emisions fromundisturbed and disturbedsupply-limiteddesert surfaces. Journal of Geophysical Research: Earth Surface,113(F2): F02S04.   \nMarticorena B,Bergameti G.1995.Modeling theatmospheric dustcycle:1.Designofasoil-derived dust emision scheme. Journal of Geophysical Research: Atmospheres, 100(D8): 16415-16430.   \nMahowald NM,Kloster S,Engelstaedter S,etal.2010.Observed 2Oth centurydesert dust variability: impacton climate and biogeochemistry. Atmospheric Chemistry and Physics,10(22): 10875-10893.   \nMiller RL,Tegen I, Perlwitz J.2OO4.Surfaceradiative forcing bysoil dust aerosols and the hydrologiccycle. Journalof Geophysical Research: Atmospheres, 109(D4): D04203.   \nMiltonSF,GreedG,BrooksME,etal.2O08.Modeledandobservedatmosphericradiationbalanceduringthe WestAfricandry season: Roleof mineral dust,biomassburningaerosol,andsurface albedo.Journal ofGeophysicalResearch Atmospheres, 113(D23): D00C02.   \nNeff JC,Reynolds RL,Farmer GL,etal.20o7.Thechanging roleof dust inbiogeochemicalcycling.In:AGUFallMeeting Abstracts, V13F-01. Washington,DC: AGU.   \nNickling W G, Gillies JA.1993. Dust emission and transport in Mali, West Africa. Sedimentology, 40(5): 859-868.   \nNickling WG,NeumanCM.1997. Windtunnel evaluationof a wedge-shapedaeolian sediment trap. Geomorphology,18(3-4): 333-335.   \nOkin G S,Mahowald N,Chadwick OA,etal.2004.Impactof desert dustonthe biogeochemistryof phosphorus inteestrial ecosystems. Global Biogeochemical Cycles,18(2): GB2005.   \nOkin G S.20o5. Dependence of wind erosion and dust emission on surface heterogeneity: Stochastic modeling. Journal of ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Geophysical Research Atmospheres, 110(D11): D11208. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Prospero JM.1999.Long-term measurements of the transport of African mineral dust tothe southeastern United States: Implications for regional air quality. Journal of Geophysical Research: Atmospheres,104(D13): 15917-15927.   \nProspero JM,GinouxP,ToresO,etal.202.Environmentalcharacterizationof global,sourcesofatmosphericsoildust, identified with the nimbus 7totalozone,mappng spectrometer, (toms)absorbingaerosol product.Reviewsof Geophysics, 40(1), 2-1-2-31.   \nRoney JA, White B R. 2O04. Definition and measurement of dust Aeolian thresholds. Journal of Geophysical Research Earth Surface,109(F1): F01013.   \nRoney JA,White B R.2O06.Estimating fugitive dust emision rates using an environmental boundary layer wind tunel. Atmospheric Environment, 40(40): 7668-7685.   \nReheis MC.2006.A16-yearrecord of eolian dust in Southern Nevada andCalifornia,USA: Controls on dust generation and accumulation. Journal of Arid Environments, 67(3): 487-520.   \nReheis MC,Budahn JR,Lamothe PJ. 2002. Geochemical evidence for diversityofdust sources in the southwestern United States. Geochimica et Cosmochimica Acta, 66(9): 1569-1587.   \nSassenK,DeMot PJ,ProseroJM,etal.203.Saharanduststormsandindirectaerosol efectsonclouds:CRYAL-ACE results. Geophysical Research Letters, 30(12): 1633.   \nShao Y,Raupach MR,FindlaterPA.1993.Efectof saltation bombardmentonthe entrainmentof dustby wind.Journalof Geophysical Research: Atmospheres, 98(D7): 12719-12726.   \nShao YP.201.Amodelfor mineral dust emision.JournalofGeophysicalResearch:Atmospheres,06(D17):20239-20254.   \nSlingo A,Ackerman TP,Allan R P,etal.2O6.Observationsof the impactof a majorSaharan dust stormontheatmospheric radiation balance. Geophysical Research Letters, 33(24): l24817.   \nSmith JL,Lee K.2003.Soil as asource of dust and implications for human health. Advances in Agronomy,80: 1-32.   \nSolomon S,PlattnerGK,KnutiR,etalO9.Ireversibleclimatechangeduetocarbondoxideemisions.Proceedingsof th National Academy of Sciences of the United States of America,106(6): 1704-1709.   \nSunJM,Zhang MY,LiuTS.2Oo1.Satialandtemporalcharacteristicsof duststorms inChina anditssuroundingregions, 1960-1999: Relations to source area and climate.Journal of Geophysical ResearchAtmospheres,106(D10): 10325-1033.   \nSwap R, Garstang M, Greco S, et al. 1992. Saharan dust in the Amazon Basin. Tellus B,44(2): 133-149.   \nSweeneyMR,McDonaldEV,Etyemezian V.2011.Quantifingdustemissions fromdesertlandforms,easternMjaveDesert, USA. Geomorphology, 135(1-2): 21-34.   \nXuan J,SokolikIN,HaoJFetal.4.Identiicationadcharacterzatioofsuesoftmospheric nraldstinstAsia. Atmospheric Environment, 38(36): 6239-6252.   \nTegen I,Lacis AA.1996.Modeling of particle sizedistributionand its influenceontheradiative propertiesof mineral dust aerosol. Journal of Geophysical Research: Atmospheres,101(D14): 19237-19244.   \nTegenI, WernerM,HarisonSP,etal.204.Relativeimportanceofclimateandlanduseideterminingpresentandfuture global soil dust emission. Geophysical Research Letters, 31(5): l05105.   \nWang X M,Dong Z B,Zhang JW,etal.2004.Moderndust storms inChina: anoverview.JournalofAridEnvironments,8(4): 559-574.   \nWang X M, XiaD S, Wang T,et al.2008.Dust sources in arid and semiarid China and southern Mongolia: impacts of geomorphological setting and surface materials. Geomorphology, 97(3-4): 583-600.   \nWashington R,Todd M,Middleton NJ,etal.2O03.Dust-storm source areas determined by the total ozone monitoring spectrometer and surface observations.Annals of the Association of American Geographers,93(2): 297-313.   \nWebb NP,Strong CL.2011.Soilerodibilitydynamics andits representationfor wind erosionanddust emision models.Aeolian Research, 3(2): 165-179.   \nWiggs GFS,Livingstone I, Warrn A.1996.The role of streamline curvature in sand dune dynamics: evidence from fieldand wind tunnel measurements. Geomorphology,17(1-3): 29-46.   \nZhangBL,TsunekawaA,TsuboM.2O8.Contributionsofsandylandsandstonydesertstolong-distancedustemissioninChina and Mongolia during 2000-2006. Global and Planetary Change, 60(3-4): 487-504.   \nZenderCS,NewmanD,Torrs O,2O03a.SpatialheterogeneityinAeolian erodibility: Uniform,topographic,geomorhic,nd hydrologic hypotheses. Journal of Geophysical Research Atmospheres,108(D17): 4543.   \nZender CS,BianH,Newman D.203b.Mineral Dust Entrainmentand Deposition(DEAD)model: Descriptionand1990s dust climatology. Journal of Geophysical Research: Atmospheres, 108(D14): 4416.   \nZhang C L, Zou X Y, Yang P, et al. 2007. Wind tunnel test and $^ { 1 3 7 } \\mathrm { C s }$ tracing study on wind erosion of several soils in Tibet. Soil and Tillage Research, 94(2): 269-282. ",
+        "page_idx": 12
+    }
+]

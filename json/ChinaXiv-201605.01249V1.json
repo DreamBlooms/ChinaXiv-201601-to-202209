@@ -1,0 +1,409 @@
+[
+    {
+        "type": "text",
+        "text": "Specific binding of Clostridium perfringens enterotoxin fragment to Claudin-b and modulation of zebrafish epidermal barrier ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jingjing Zhang1.2.\\*, Chen ${ \\mathsf { N i } } ^ { 5 , * }$ , Zhenguo Yang1\\*, Anna Piontek², Huapu Chen1, Sijie Wang1, Yiming Fan1, Zhihai Qin³ and Joerg Piontek4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AfliatedHospitalofGuangdongMedicalClege,Zhanjang,Guangdong,Cina;LeibzIstitutfurolekularearmakologie,eli Germany; $^ 3 \\mathrm { K e y }$ Laboratoryof Proteinand Peptide Pharmaceuticals,Chinese Academyof Sciences-Universityof Tokyo JointLaboratoryof StructuralVoloduolstiteofiseadofcsei;siuteficali CharitéUvesiasllstedsialfgoUesioEsd 450052,Henan Province,China   \nCorrspondence:Jgngang,fatedospitalfagdngedicallge,7edaNanasan,anga Tel.:+86-759-2387140,Fax:+86-759-2231754,e-mail: jingjing.zhang@live.com   \n\\*These authors contributed equally to this work. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Claudins (Cldn）are the major components of tight junctions(TJs） sealing the paracellular cleft in tissue barriers of various organs.Zebrafish Cldnb,the homolog of mammalian Cldn4,is expressed at epithelial cell-cell contacts and is important forregulating epidermal permeability.The bacterial toxin Clostridium perfringens enterotoxin(CPE） has been shown to bind to a subset of mammalian Cldns.In this study,we used the Cldnbinding C-terminal domain of CPE (194-319 amino acids, $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 } )$ to investigate its functional role in modulating zebrafishlarval epidermalbarriers.Invitro analyses show that $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ removed Cldn4 from epithelial cells and disrupted the monolayer tightness,which could be rescued by the removal of $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ . Incubation of zebrafish larvae with $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ （204号 removed Cldnb specifically from the epidermal cell membrane. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dye diffusion analysis with 4-kDa fluorescent dextran indicated that the permeability of the epidermal barrier increased due to $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ incubation.Electron microscopic investigation revealed reversible loss of TJ integrity by Cldnb removal. Collectively,these results suggest that $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ could be used as a Cldnb modulator to transiently open the epidermal barrier in zebrafish.In addition,zebrafish might be used as an in vivo system to investigate the capability of cCPE to enhance drug delivery across tissue barriers. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Claudin-4-Claudin-b- Clostridium perfringens enterotoxin -epidermal barrier- tight junction ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Acceptedforpublication9April2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Epithelial barriers cover the surfaces of multicellular organisms, insulating diverse tissue compartments from the external environment and maintaining homoeostasis(1).In vertebrates,epithelial tissues include gastrointestinal and respiratory epithelia,epidermal squamous epithelium,accessory glands,retinal pigment epithelium of the eye and renal epithelium (2,3).The exchange of substances through intercellular spaces between external environment and tissues is constrained by the epithelial barrier.Two routes across epithelia are generally adopted for drug delivery: the transcellular pathway and paracellular pathway (3,4).However,in the later, therapeutic drugdelivery isoften retardedby the epithelial barrier. Strategies that transiently break down the epithelial barrier and enhance drug transport are in need. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tight junctions(TJs） organized in strand networks at the cellcell contacts between epithelial cells are the molecular structural basis of the epithelial barrier (4).TJs span the plasma membrane of epithelial cells at the interface between the apical and basolateral parts.By interactions between TJ strands of neighbouring cells, TJs form a barrier in the extracellular space.Consequently,these cells together with their TJs establish a barrier which directly regulates paracellular flux (5). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tight junction complexes are mainly composed of the transmembrane proteins occludin,Claudins (Cldns） and various scaffolding proteins,such as zonula occludens proteins $^ { - 1 }$ ， $^ { - 2 }$ and $^ { - 3 }$ (ZO-1, $^ { - 2 }$ and -3) (5).Cldns play a dominant role on the properties of the TJs (6-9).They are expressed in a tissue-specific combination manner,resulting in tissue-specific barrier function. Targeting Cldns presents a potential solution to open TJs and enhance drug delivery (3,4). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "At present,a variety of strategies have been designed to breach TJs to improve the paracellular passage of drugs through epithelial barriers.Shorter peptides homologous to external residues of TJ proteins,specific targeting TJ proteins by siRNA methods,and bacterial toxins causing disruption of TJs are vigorously explored for this purpose (3).Recently,an enterotoxin derived from Clostridium perfringens (CPE) was found to bind to Cldns 3,4,6,7,8 and 14(1o,11).CPE could disintegrate TJs and induce permeability increase of epithelial barrier.The C-terminal portion of CPE (cCPE)，which lacks cytotoxic activity and has the Cldn-binding domain,could remove specific Cldns from TJs and induce opening of TJs(12,13). Short peptidesderived from CPE could possibly be used to promote transepithelial drug delivery (3). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this study,we apply a truncated CPE fragment containing amino acids from 194 to 319 $( \\mathsf { c C P E } _ { 1 9 4 - 3 1 9 } )$ to investigate its functional role in modulating zebrafish larval epidermal barriers. Zebrafish Cldnb,the homolog of mammalian Cldn4,is expressed at developing zebrafish epidermal cell-cell contacts(14).The results showed that $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ bonded and cleared Cldn4 from TJs in mammalian epithelial cells.The $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ also conjugated with Cldnb,induced severe pericardial oedema,and boosted the diffusion of 4-kDa fluorescent dextran $\\mathrm { ( F D - 4 ~ k D a ) }$ ）across epidermis in zebrafish. Collectively, these results suggest that $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ could modulate transient breakdown of epidermal barrier by regulating Cldnb and possibly be used as a transepithelial enhancer during drug delivery. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods Zebrafish husbandry ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Adult AB zebrafish were maintained and raised at $2 8 . 5 ^ { \\circ } \\mathrm { C }$ under standard conditions.Embryos were kept in egg water according to standard method (15).The stage of the embryos was determined by morphological features and by hours postfertilization (hpf) at $2 8 . 5 ^ { \\circ } \\mathrm { C }$ (16). $0 . 0 0 3 \\%$ (w/v）1-phenyl-2-thiourea (PTU； SigmaAldrich，St.Louis,MO,USA）was added into the egg water to suppress pigmentation.Handling of zebrafish and mice was in compliance with‘The legislation of Guangdong laboratory animal management regulations'，carefully monitored and approved by the ethic committee of the Affiliated Hospital, Guangdong Medical College. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Protein synthesis and purification ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For glutathione-S-transferase(GST） and GST-fused C-terminal of C.perfringens enterotoxin (GS $\\mathrm { T } { \\cdot } \\mathrm { c } \\mathrm { C P E } _ { 1 9 4 - 3 1 9 } )$ purification,glycerol stocks of transformed Escherichia coli BL21(DE3）were cultured and purified using glutathione-sepharose 4B beads (Amersham, Buckinghamshire,UK).Eluted GST fusion proteins were dialysed against PBS at $4 ^ { \\circ } \\mathrm { C }$ and stored for short time at $4 ^ { \\circ } \\mathrm { C }$ and prolonged time at $- 8 0 ^ { \\circ } \\mathrm { C }$ for further experiments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell culture,immunocytochemistry and trans-epithelial electric resistance measurement ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MDCK-I cells were grown on poly-L-Lysine (Sigma-Aldrich)- coated coverslips at $1 0 \\%$ （204号 $\\mathrm { C O } _ { 2 }$ in DMEM supplemented with $1 0 \\%$ FBS(Gibco,Grand Island,NY,USA).Cells were plated in a density of $1 0 0 \\ 0 0 0 \\ \\mathrm { c e l l s } / \\mathrm { c m } ^ { 2 }$ and grown for $^ { 4 8 \\mathrm { ~ h ~ } }$ until it formed a confluent monolayer. For $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ treatment，purified GST$\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ was added into culture medium at a final concentration of $2 ~ \\mu \\mathrm { g / m l }$ ，Cells were incubated for $3 0 ~ \\mathrm { m i n }$ and $2 4 \\mathrm { ~ h ~ }$ respectively. For the recovery experiments, $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ -contained medium was removed after 24-h incubation.Cells were washed with PBS for $5 ~ \\mathrm { m i n }$ and incubated with fresh culture medium for another $2 4 \\mathrm { ~ h ~ }$ .For immunocytochemical staining,cells were fixed and stained with rabbit anti-GST or mouse anti-Cldn4 antibodies. DAPI( $^ { ( 4 ^ { \\prime } , 6 }$ -diamidino-2-phenylindole dihydrochloride,1:1000; Molecular Probes,Grand Island,NY,USA)，goat anti-rabbit Cy3 (1:200; Jackson ImmunoResearch,West Grove,PA,USA) and goat anti-mouse FITC(1:2oo;Jackson ImmunoResearch）were used as secondary antibodies.For confocal imaging,a Leica TSC SP5II (Leica,Solms,Germany) confocal microscope and a $6 0 \\times$ objective was used.Trans-epithelial electric resistance(TEER）measurements were performed using $\\mathrm { E V O M } ^ { 2 }$ epithelial voltohmmeter (WPI, Sarasota,FL,USA).When MDCK-I cells were cultured on rat tail collagen precoated TranswellTM chamber(Millipore,USA),TEER was measured at series time points under different conditions.For each condition,18 filters with MDCK-I cells were investigated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Morpholino injection and $\\mathbf { c C P E _ { 1 9 4 - 3 1 9 } }$ incubation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Zebrafish cldnb morpholino was used as described ( $5 ^ { \\prime }$ -CCGGTT GATGCC ATG CTT TTT CGT T- $3 ^ { \\prime }$ ）(Genetools,Philomath,OR, USA).Morpholino was injected at one cell stage at a concentration of $2 0 0 ~ \\mu \\mathrm { M }$ ForGST ${ \\cdot } \\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ incubation,24-hpf embryos were dechlorinated and incubated in a 24-well plate with $5 0 ~ \\mu \\mathrm { g } / \\$ ml GST- $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ in egg water. After 24- or $4 8 \\mathrm { - h }$ incubation, fresh egg water was changed and embryos were incubated for another $2 4 \\mathrm { ~ h ~ }$ .For imaging,embryos were mounted in $1 \\%$ low melting agarose (LMA; Invitrogen, Grand Island,NY,USA).Leica M205FA stereo microscope was used to take differential interference contrast images.Heart beating was counted with live embryos under the stereo microscope.Twenty-seven embryos were analysed for each group. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Embryo whole-mount immunohistochemistry ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Embryos were washed with PBS three times for 5 min each and fixed in $2 \\%$ paraformaldehyde(PFA; Sigma-Aldrich） at $4 ^ { \\circ } \\mathrm { C }$ overnight.For immunohistochemical staining,the following antibodies were used: mouse anti-Cldn4 which also recognizes zebrafish Cldnb (1:100; Invitrogen)，rabbit anti-ZO-1 (1:200; Invitrogen), rabbit anti-GST(1:20O；Santa Cruz，Dallas，Texas，USA)，goat anti-rabbit Cy5 (1:2Oo；Jackson ImmunoResearch Laboratories), goat anti-mouse FITC(1:1oo; Jackson ImmunoResearch Laboratories),rhodamine phalloidin(1:5oo;Invitrogen), $^ { 4 ^ { \\prime } , 6 }$ -Diamidino-2- phenylindole dihydrochloride (1:1ooo;Sigma-Aldrich).Confocal images were obtained with a Leica TSC SP5II (Leica）confocal microscope. Images were processed using Photoshop software (Adobe, San Jose,CA,USA). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Zebrafish epidermal barrier dye diffusion assay ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Embryos were incubated with $5 0 ~ \\mu \\mathrm { g / m l }$ 4-kDa fluorescent dextran (Sigma-Aldrich） contained egg water for $3 0 ~ \\mathrm { m i n }$ covered from light,followed by being rinsed with egg water for three times $5 ~ \\mathrm { m i n }$ each.Embryos were then mounted in $1 \\%$ LMA and imaged with Leica TSC SP5II confocal microscope (Leica). Images were processed using Photoshop software (Adobe). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Transmission electron microscopy analysis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Embryos were fixed with $2 . 5 \\%$ glutaraldehyde (Sigma-Aldrich) buffered in O.1 M cacodylate buffer $\\mathrm { \\langle p H 7 . 4 \\rangle }$ .Thereafter,the whole fish was postfixed in $1 \\%$ $\\mathrm { O s O _ { 4 } }$ in $0 . 1 \\mathrm { ~ M ~ }$ cacodylate buffer and dehydrated in graded ethanol.The specimens were then embedded in plastics (Araldite based).Thin sections were made from plastic blocks on a FCR Reichert Ultracut ultramicrotome(Leica）and stained with uranyl acetate/lead citrate. Section slices were mounted on pioloform-coated copper grids,and images were analysed and documented with a JEM-140o electron microscope (JEM,Tokyo, Japan).Seven samples of each group were analysed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mice epidermal barrier investigation assay ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Adult BALB/c mice were purchased from the Animal Center of Guangdong Medical College.Firstly，（ $\\Im \\mathrm { S T - c C P E } _ { 1 9 4 - 3 1 9 }$ or GST constructs were applied on the skin of living mice.Then,after their sacrifice,diffusion of fluorescent dye was analysed.In brief, the hair was first cut off by hair cut and then removed by hair removal cream carefully,before tape stripping to remove the stratum corneum. For $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ incubation, living mice were anaesthetized for $3 0 ~ \\mathrm { m i n }$ with $2 \\%$ pentobarbital sodium ${ \\mathrm { ' } } 4 0 { \\mathrm { ~ m g / k g } } ;$ Merck,Kenilworth,NJ,Germany)． Then, $1 0 0 ~ \\mu \\mathrm { g / m l } ~ \\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ or GST was added on a wound plaster and stuck onto the nude skin of the mice back.Wound plaster was re-fixed with a 3D selfadhesive elastic bandage to prevent the dropping off of the plaster. After 24-h treatment,mice were sacrificed by cervical dislocation and the skin regions incubated with the recombinant protein were cut off and washed with PBS.Skins were incubated with $1 0 ~ \\mu \\mathrm { g / m l }$ $1 0 \\mathrm { - k D a }$ rhodamineB dextran(Sigma-Aldrich）for $1 0 ~ \\mathrm { m i n }$ protected from light, then washed with PBS for $6 \\times 5$ min each. For imaging, skin blocks were mounted in slowfade? diamond antifade mountant(Life Technologies,Grand Island,NY,USA）and imaged with Leica M205 FA stereomicroscope (Leica).To ensure the stratum corneum was clearly removed after the tape stripping, the parafin section of the same skin block and the haematoxylineosin staining was then performed and imaged with Leica DM40oo B microscope (Leica). Six mice for each condition(GSTcCPEl94-319 or GST alone,as a control) were analysed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The C-terminal domain of Clostridium perfringens enterotoxin $( \\mathbf { c C P E _ { 1 9 4 - 3 1 9 } } )$ binds to Claudin-4 and modulates paracellular barrier in cell monolayers ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C-terminal fragments of the C.perfringens enterotoxin have been reported to selectively bind to and to remove Cldn4 from TJs (12,17).In this study，we used recombinant GST-cCPE194-319 fusion protein to bind to Cldns and thereby to modulate TJs in order to investigate the regulation of tissue barriers.First,the activity of GST- ${ \\cdot \\mathrm { c C P E } _ { 1 9 4 - 3 1 9 } }$ was analysed employing MDCK-I cells as an established cell culture model system for epithelial barriers. After $3 0 \\mathrm { - m i n }$ incubation of MDCK-I cells monolayer，GST$\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ ,but not the GST control,was found to bind strongly to the cell membrane,mainly at cell-cell contacts where Cldn4 was present (Fig.la-i).After $2 4 \\mathrm { ~ h ~ }$ of incubation with GST$\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ ，Cldn4 almost completely disappeared from the cell membrane(Fig.lj-o). Although（ $\\mathrm { \\ G S T - c C P E _ { 1 9 4 - 3 1 9 } }$ wasstill strongly present on the cell membrane at this time,it could be easilywashed away (Fig.lj-l,p-r).After recovery for $2 4 \\mathrm { ~ h ~ }$ ，Cldn4 reappeared at cell-cell contacts (Fig.lp-r). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To study the effect of $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ on the epithelial barrier directly,the transepithelial electrical resistance（TEER）asa measure of the tightness of MDCK-I cell monolayers was measured.As shown in Fig.2,MDCK-I cells formed a stable monolayer barrier $1 2 0 \\mathrm { ~ h ~ }$ after plating.When GST- ${ \\cdot \\mathrm { c C P E } } _ { 1 9 4 - 3 1 9 }$ was added onto the monolayer at $1 4 4 \\mathrm { ~ h ~ }$ ，TEER dropped from 1500 to $2 0 0 \\ \\Omega { \\cdot } \\mathrm { c m } ^ { 2 }$ within the following $2 4 \\mathrm { ~ h ~ }$ 、In contrast,GST applied as a control to the cell monolayer showed no decrease of TEER.To test whether the leaky epithelial monolayer can recover tightness,GST- $\\mathrm { \\ c C P E _ { 1 9 4 - } }$ 319 was removed at $1 6 8 \\mathrm { ~ h ~ }$ ，Removal of GST ${ \\cdot \\mathrm { c C P E } } _ { 1 9 4 - 3 1 9 }$ induced the recovery of TEER,which reached the level of $1 2 0 0 \\Omega \\cdot \\mathrm { c m } ^ { 2 }$ within $2 4 \\mathrm { ~ h ~ }$ ，Taken together,these results demonstrate that the expressed and purified GST- $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ is functionally active and able to reversibly increase the paracellular permeability for ions by modulating the barrier-forming TJ protein, Cldn4. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { c C P E _ { 1 9 4 - 3 1 9 } }$ dislocates Cldnb in zebrafish embryos ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We aimed to explore whether $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ could be used to temporarily modulate the zebrafish epidermal barrier in vivo.Zebrafish Cldnb is orthologous to mammalian Cldn4 (14).The turn region in the ECL2 of Cldnb（149NPLVV153）is very similar to the cCPE binding motif (NPL/MVA/P) in mammalian Cldns (18). However,it is unknown whether $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ is able to interact with Cldnb.To answer this question,zebrafish larvae were incubated with GS $\\Gamma _ { ^ { - } \\mathrm { c C P E } _ { 1 9 4 - 3 1 9 } }$ and immunohistochemical analysis of the zebrafish trunk epidermis was performed.Without treatment, Cldnb and TJ marker ZO-1 were found to be expressed and to colocalize together on the epithelial cell-cell contacts at $4 8 ~ \\mathrm { h p f }$ (Fig.3a-c).When zebrafish embryos( $2 4 ~ \\mathrm { h p f } )$ were incubated with GST- $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ for $^ 3 \\mathrm { ~ h ~ }$ GST- $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ colocalized with Cldnb on the cell membrane (Figure S2a-d).However,when Cldnb was knocked down，G9 $\\mathsf { \\ s T - c C P E } _ { 1 9 4 - 3 1 9 }$ was not able to bind to the epidermal cells which were visualized by F-actin staining. This finding indicated that Cldnb is necessary for the binding of GST$\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ to the epidermal cells (Figure S2e-l).After $2 4 \\mathrm { ~ h ~ }$ of incubation,Cldnb disappeared from the epidermal cell membrane, without affecting the localization of ZO-1 (Fig. 3g-i),which was reminiscent of the effect of specific morpholino oligonucleotide targeting Cldnb (Fig.3d-f). These results suggest that $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ is able to bind and modulate Cldnb. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf4177d16ab322abb5ae1254410864ba1fed8dc23d5b7e27b220a22878872595.jpg",
+        "img_caption": [
+            "Figure 1. C-terminal fragment of Clostridium perfringens enterotoxin (cCPE194-319) binds to MDCK-l cells and removes Cldn4 from tight junctions (TJs). Immunocystochemical staining and confocal microscopic images. $( a - c )$ The TJ components Cldn4 and ZO-1 colocalized at the cell-cell contact of confluent MDCK-l cells.(d-f) GST-cCPE194-319 (red) colocalized with Cldn4 (green) on the MDCK-l cell membrane after $3 0 ~ \\mathrm { m i n }$ of incubation. (g-i) As a control,binding of GST(red)alone to thecells was not detected.(j-l)Specific binding of GST-cCPE194 319 (red) causes loss of Cldn4 (green) from MDCK-l cell-cell contacts after 24-h incubation.(m-o) In contrast, GST (red) incubation has no effect on the presents of Cldn4 (green)atcell-cellcontacts.(p-r)After24-hincubation,GST-cCPE194-319 was washed away and the MDCK-l cells were incubated with fresh cell culture media foranother $2 4 ~ \\mathsf { h }$ .Cldn4 (green) and reappeared at cell-cell contacts of MDCK-l cells. Scale bar, $2 0 \\ \\mu \\mathrm { m }$ GST,glutathione-S-transferase. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ccab200aa94524fd4974e419df81699eb1a5e036a7378990ddbb8b848186e62.jpg",
+        "img_caption": [
+            "Figure2. GST-cCPE194-319 incubation reduces transepithelial electric resistance (TEER) of MDCK-l cell monolayer measuring.MDCK-l cells_cultured for $1 2 0 \\mathrm { ~ h ~ }$ form astable tight monolayer which reachesabout 1500 $\\scriptstyle \\Omega \\cdot \\mathsf { c m } ^ { 2 }$ evaluated by measuring TEER.Application of $5 0 ~ \\mu \\mathrm { g / m / }$ GST-cCPE $1 9 4 - 3 1 9$ (pink line) at $1 4 4 \\ h$ (red arrow) reduced TEER down to about $2 0 0 \\Omega \\cdot \\mathsf { c m } ^ { 2 }$ within the following $2 4 \\mathrm { ~ h ~ }$ .This indicates the increase of permeability for paracellular ion and the breakdown of paracellular barrier.In contrast, incubation of $5 0 ~ \\mu \\mathrm { g / m l }$ GST (blue line) did not decrease TEER. Washout of $G S T – C C P E _ { 1 9 4 - 3 1 9 }$ by replacement with fresh media (black arrow) at $1 6 8 \\mathrm { ~ h ~ }$ leads to the recovery of TEER back to $1 2 0 0 \\Omega \\cdot \\mathsf { c m } ^ { 2 }$ within the following 24-h incubation. CPE,Clostridium perfringens enterotoxin;GST,glutathione-Stransferase. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { c C P E _ { 1 9 4 - 3 1 9 } }$ causes transitory pericardial oedema in zebrafish embryos ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The deficiency of Cldnb has been reported to cause developmental defects in zebrafish (14). In accordance with this prior report, knock-down of Cldnb by morpholino oligonucleotide elicited dramatic pericardial oedema and curly tail in the zebrafish morphants (Figure Sla-d).However,elimination of Cldnb by GST- $\\mathrm { \\ c C P E _ { 1 9 4 - } }$ 319 only induced similar oedema in the pericardial cavity but not curly tail phenotype,when zebrafish embryos were incubated with $\\mathrm { G S T - c C P E _ { 1 9 4 - 3 1 9 } }$ for $2 4 \\mathrm { ~ h ~ }$ (Figure Sle,f). The extension of incubation time with GST ${ \\cdot } \\mathrm { c } \\mathrm { C P E } _ { 1 9 4 - 3 1 9 }$ to $^ { 4 8 \\mathrm { ~ h ~ } }$ aggravated the oedema without affecting the tail (Figure S3a-f).Interestingly，when the affected zebrafish embryos were taken back into fresh egg water, pericardial oedema recovered autonomously (Figure $S 3 \\ { \\mathrm { g } } , { \\mathrm { h } } { \\mathrm { \\dot { \\Omega } } }$ .In addition,the $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ incubation severely reduced the heart beating rate in the zebrafish,which could recover after the clearance of $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ (Table S1)． These resultsindicate that $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ could induce transitory disruption of epithelial barrier of the pericardial cavity in zebrafish embryos. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { c C P E _ { 1 9 4 - 3 1 9 } }$ temporarily boosts penetration of 4-kDa dextran through zebrafishepidermalbarrier ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To examine whether $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ could facilitate the penetration of drugs through epithelial barriers,the permeability of the zebrafish epidermis for fluorescent dextran was studied.As shown in Fig.4a,b,zebrafish epidermal cells formeda tight epithelial barrier at 48 hpf which is not permeable to 4-kDa FITC-dextran (FD$4 \\mathrm { \\ k D a } \\dot { }$ ).Transmission electron microscopy of zebrafish larval epidermis also revealed intact TJ(red arrow）at the apical side of adjacent epithelial cell-cell contacts (Fig.4c).In contrast,removal of Cldnb by incubation of zebrafish larvae with morpholino oligonucleotides(Fig.4d,e）orwith（ $\\mathrm { \\Im S T - c C P E _ { 1 9 4 - 3 1 9 } }$ (Fig. 4g,h) increased the penetration of FD-4 kDa through the epidermis.In line with the increased dextran permeability for these two groups, disruption of TJs between the neighbouring epithelial cells was observed on the ultrastructural level (Fig.4f,i).However,when （ $\\mathrm { \\Im S T - c C P E _ { 1 9 4 - 3 1 9 } }$ -treated zebrafish embryos were incubated with fresh egg water for another $2 4 \\mathrm { ~ h ~ }$ ，embryos displayed low permeability for $\\mathrm { { F D - 4 } \\ k D a }$ ,indicating recovery of the TJ and epithelial barrier (Fig.4j-l).In summary,these results show that $\\mathrm { c C P E _ { 1 9 4 - } }$ 319 can reversibly enhance the penetration of molecules at least up to $4 \\exp { \\mathfrak { a } }$ through the zebrafish epidermal barrier. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7f35e58dcf056110265edfcece165885918d21100b84ff949faae7bbc46504e.jpg",
+        "img_caption": [
+            "Figure 3. Incubation of zebrafish larvae with GST-cCPE194-319 Contained egg water causes loss of Cldnb on zebrafish epidermal cell membrane. (a-c) Immunohistochemical staining and confocal microscopy on the trunk epidermis shows that Cldnb and ZO-1 are expressed and colocalize on the zebrafish skin epithelial cell-cell contacts at 48 hpf. (d-f) Specific knock-down of cldnb by morpholino oligonucleotide reduces the expression of Cldnb on the epithelial cell membrane,while the expression of ZO-1 is not affected. $( { \\mathfrak { g } } - { \\mathfrak { i } } )$ Incubation of 24-hpf zebrafish embryos with $5 0 ~ \\mu { 9 } / { \\mathsf { m l } }$ GST-cCPE194-319 proteins for $2 4 \\mathrm { ~ h ~ }$ causes the disappearance of Cldnb from epidermis cell membrane without affecting the localization of ZO-1. Scale bar, $2 0 \\ \\mu \\mathsf { m }$ CPE,Clostridium perfringens enterotoxin; GST,glutathione-S-transferase. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To ask whether $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ could also promote drug delivery through mammalian epidermal barriers,we also performed preliminary analyses on mouse skin after removing the stratum corneum by tape stripping.As a result, $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ treatment improved the diffusion of rhodamine B dextran ( $\\mathrm { 1 0 ~ k D a }$ ）through the mice epidermal barrier (Figure S4). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This study uses a zebrafish model to test the in vivo capability of recombinant $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ to act as a Cldn modulator for analysis of epithelial barrier functions,or for enhancement of paracellular drug delivery across tissue barriers.The results confirm that $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ reversibly binds to and removes Cldn4 present on the plasma membrane of mammalian epithelial cells in vitro.Further experiments show that $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ incubation causes zebrafish temporal pericardial oedema due to breakdown of the epidermal barrier. The $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ conjuncts to zebrafish Cldnb and withdraws Cldnb from the epidermis. In accordance, $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ improves the permeability for $\\mathrm { { F D - 4 } \\ k D a }$ through the zebrafish epidermis.Importantly,the $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ induced opening of epithelial barrier is reversible,leaving no apparent harm after barrier recovery. These findings show that zebrafish can be used as a model to explore $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ asan enhancer of paracellular permeability of molecules up to $4 \\exp { \\tt a }$ for transepithelial drug delivery,such as trans-intestinal delivery or even trans-epidermal delivery. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e1b1b624caf92a3e7bd8bb6d7c0d80d4664138a0eeb46709fa4df0f7ce42198.jpg",
+        "img_caption": [
+            "Figure 4. Loss of Cldnb on epidermis cell membrane breaks down the epithelial tight junction (TJ) and increases the skin epithelial permeability for 4-kDa dextran in zebrafish larvae at 3 dpf (days postfertilization). (a,b) Zebrafish epidermis cells forma tight epithelium and epithelial barrier at 48 hpf which is not permeable to $\\mathsf { F D - 4 } \\mathsf { k D a }$ after $3 0 - \\operatorname* { m i n }$ incubation. (c) Transmission electron microscopy (TEM) analysis of zebrafish larva epidermis shows intact TJ strand (red arrow) at the apical side of adjacent epithelial cell-cell contact. Inset indicates the epithelial cell-cell contact side of the trunk region for EM analysis.(d,e,g and h) Both knock-down of cldnb by MO and incubation of zebrafish larvae with GST-cCPE194-319 proteins for 24 hpf increase permeability for FD-4 $k \\mathsf { D } \\mathsf { a }$ through embryonic epidermis at 48 hpf.After 30-min incubation,FD-4 kDa diffuses through the skin epidermis indicating affected epidermal barrier in the treated embryos.(f,i) TEM images indicate knock-down of cldnb or incubation of embryos with GST-cCPE194-319 proteins contained egg water breaks down the TJ between the neighbouring epithelial cells. $( \\ j , \\ k )$ Incubation of $G S T – C C P E _ { 1 9 4 - 3 1 9 }$ -treated zebrafish embryos with fresh egg water for additional $2 4 \\ h$ ，resulted in low permeability forFD-4 kDaafter 30-min dye incubation,indicating recovery of the epithelial barrier.TEM analysis of epithelial cell-cell contacts of these embryosat 72 hpf shows (partly) recovered TJ between epidermal cells (l). Scale bar,a,d, g and j, $2 0 \\ \\mu \\mathrm { m } ;$ c, f,i and l, $5 0 0 ~ \\mathsf { n m }$ CPE,Clostridium perfringens enterotoxin;GST,glutathione-S-transferase. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ is a better candidate tool to modulate epithelial barrier than other C-terminal fragments of CPE.First of all,the $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ is shown to strongly interact with Cldns in a subtypespecifc manner.The C-terminal region 290-319 of CPE is sufficient for its binding to Cldns (19).However,longer CPE fragments have stronger binding capacity (2O).The crystal structure of $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ shows that region 290-319 is only the core Cldnbinding domain formed by strands $\\beta 8$ and $\\beta 9$ (21).In contrast, the $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ contains a nine-strand $\\beta$ -sandwich which forms the whole Cldn-binding domain (21). Second,the $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ specifically and reversibly regulates Cldn proteins.In MDCK-I cells,cCPEl84-319 was reported to interact with Cldn4 but not with Cldnl (12)． In accordance, the results here show that $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ specifically binds to and removes Cldn4 in MDCK-I cells as well as removes Cldnb,the homolog of Cldn4 in zebrafish. The molecular mechanism of the interaction between cCPE/CPE and mammalian Claudins was analysed in detail (18,19,22-24). The published data,the findings of this study and the sequence of the ECL2 of Cldnb especially in the turn region (149NPLVV153) which is very similar to the cCPE binding motif (NPL/MVA/P) make a direct interaction between Cldnb and cCPE very likely. Importantly, the reduction of Cldns by $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ is reversible. Washing out of $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ could restore the expression of Cldns. $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ reversibly opens TJs most likely due to the dynamic assembly and disassembly of TJs(25,26）and sequestration of Cldns by cCPE preventing their incorporation in TJ strands. Within the 24-h recovery time,new Cldn molecules can be synthesized and transported to the plasma membrane where they participate in the formation of TJ strands.In addition,after washing out,dissociation of cCPE from Cldns might also reduce Cldn sequestration.Finally,like other C-terminal fragments of CPE,the $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ transiently breaches epithelial barrier without significant toxic effects.In a previous toxicological study, Suzuki et al. (27）also showed that intravenous administration $( 5 ~ \\mathrm { m g / k g } )$ or nasal cCPE administration $( 2 ~ \\mathrm { m g / k g } )$ did not increase indicative biochemical markers of liver and kidney injuries.Incubation of zebrafish with $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ induced pericardial oedema due to disruption of epithelial barrier.However,the treated zebrafish recovered well after exchanging freshwater. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the first time,we defined the phenotypic changes of zebrafish and aspects of the underlying molecular mechanism by $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ treatment.Epithelial barrier is important for the development of zebrafish.When the TJ protein ZO-3 was silenced using morpholinos,the morphants showed a loss of the epidermal barrier (28).Moreover,pericardial oedema,loss of blood circulation and tail fin malformations were present in the zebrafish embryos (28).Kwong and Perry(l4）reported that knock-down of Cldnb elicited zebrafish developmental defects,including oedema in the pericardial cavity and yolk sac,as well as curly tail. In this study,the incubation of zebrafish with $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ only induced pericardial oedema without affecting the tail fin.The $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ also reduced heart rate in the zebrafish.Interestingly, after termination of $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ treatment，pericardial oedema ameliorated and the heart rate of the zebrafish climbed closely to a normal level. These phenotype changes are owing to the loss of Cldnb caused by $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ .These results are also in agreement with the previous report that $\\mathsf { c C P E } _ { 1 8 4 - 3 1 9 }$ incubation causes development defects in mouse embryos via eliminating the expression of Cldn4 and Cldn6 (17). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cldn-based TJs contribute to the barrier function of the mammalian skin (8,9,29,30)．The $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ may be used as a transepithelial enhancer in several possible ways during drug delivery.Basically, the $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ could bind to Cldns and transiently break down the epithelial barrier to enhance the penetration of unrelated molecules.Apparently, $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ might be used in drug delivery through mucosal epithelial barrier in nasal cavity, pulmonary tract or intestinal lumen $( 2 , 4 , 3 1 , 3 2 )$ ．It has been demonstrated that $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ promoted the nasal mucosal absorption of 4-kDa dextran as well as jejunal absorption of both 4- and $1 5 0 \\mathrm { - k D a }$ dextrans (33).The $\\mathsf { c C P E } _ { 1 8 4 - 3 1 9 }$ has also been reported to enhance the jejunal absorption of 4-kDa dextran over 400-fold compared with a clinically used absorption enhancer, sodium caprate (34).Moreover, $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ and other cCPEs have been shown to increase nasal, jejunal and pulmonary absorption of pharmaceutical peptide human parathyroid hormone derivative, hPTH(1-14,17-36).Another possibility is the usage of $\\mathrm { \\ c C P E _ { 1 9 4 - } }$ 319 in transdermal drug delivery (36,37).On one hand,the $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ may disrupt TJs in sweat duct,hair follicle and sebaceous gland to promote drug delivery through shunt or appendageal route (38,39).On the other hand,skin barrier in mammals is composed by stratum corneum as well as TJs in the stratum granulosum (8,9,30,40).It is possible to use $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ to promote transdermal drug delivery after removing the stratum corneum (36,37).Actually,in our study, $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ treatment caused the diffusion of $1 0 \\mathrm { - k D a }$ rhodamine B dextran through the mouse skin barrier after stripping off the stratum corneum. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Because the disruption of epithelial barrier may cause certain disease (2),it is also crucial to cease transepithelial enhancer treatment and seal the opening of epithelial barrier as needed.In this study,we showed that while the $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ increased the diffusion of $\\mathrm { F D - 4 \\ k D a }$ in zebrafish,the breach of epithelial barrier induced by $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ recovered well after termination of $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ treatment. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, the results herein suggest that the $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ reversibly modulates epithelial barrier in vivo and enhances penetration of FD-4 kDa through zebrafish epidermis.As $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ could bea valuable Cldnb modulator for analysis of epithelial barrier functions,it is worthy to study whether $\\mathsf { c C P E } _ { 1 9 4 - 3 1 9 }$ might be used as a promising transepithelial enhancer during drug delivery. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Weare indebted to Xiaoxia Gao and Min Feng for expert technical assistance with the fish facility.We thank Jonas Protze,Hongxin Huang and Jin Li for help with the molecular and mice laboratory work.This work was supported by Chinese NSFC grants (81102524,31370824),Yangfan Plan of Talents Recruitment Grant,Guangdong,China (YueRenCaiBan [2014]1） and University Talents Recruitment Grant of Guangdong,China (YueCaiJiao [2012] 328). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "J.Z.,C.N,Y.F and J.P. designed the research; J.Z.,C.N.,Z.Y,A.P.,H.C. and S.W.performed the research;A.P.,Z.Q.and J.P.contributed new reagents/analytic tools; J.Z.,C.N,Z.Y.,Y.F,and J.P.analysed the data; and J.Z. C.N.and J.P.wrote the paper. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interests ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors have declared no conflicting interests. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Additional supporting data may be found in the supplementary information of this article. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure S1.Inhibition of Cldnb causes developmental defects on zebrafish embryos at 48 hpf. Figure S2. GST $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ protein binds to Cldnb in the epidermal cell membrane of zebrafish embryos. Figure S3.The defective morphology caused by the absence of Cldnb is maintained at 72 hpf. Figure S4. GST $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ protein treatment impairs epidermal barrier function in mice. Table S1.Zebrafish heart beating rates after $\\mathrm { c C P E } _ { 1 9 4 - 3 1 9 }$ treatment with or without recovery. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 Kubo A，Nagao K，Amagai M.」Clin Invest 2012:122:440-447.   \n2 Marchiando A M,Graham W V,Turner JR. Annu Rev Pathol 2010:5:119-144.   \n3 Gonzalez-Mariscal L,Nava P,Hernandez S.J Membr Biol2005:207:55-68.   \n4 Tscheik C，BlasigIE，Winkler L.Tissue Barriers 2013:1:e24565.   \n5 Matter K,Balda M S.Nat Rev Mol Cell Biol 2003:4:225-236.   \n6 Zhang J,Piontek J,Wolburg H et al.Proc Natl Acad SciU SA 2010:107:1425-1430.   \n7 Ni C,Wang C, Zhang Jet al. AmJ Pathol 2014: 184:3308-3320.   \n8 Ozawa T,Sugawara K,Tsuruta D. Exp Dermatol 2014:23:393-394.   \n9 Furuse M,Hata M,Furuse K et al.JCell Biol 2002:156:1099-1111.   \n10 Fujita K,Katahira J,Horiguchi Y et a/. FEBS Lett 2000:476:258-261.   \n11 McClane B A. Toxicon 2001:39:1781-1791.   \n12 Sonoda N,Furuse M,Sasaki H et al.J Cell Biol 1999:147:195-204.   \n13 Veshnyakova A，Protze J,Rossa Jet al.Toxins (Basel) 2010:2:1336-1356.   \n14Kwong R W,Perry S F.Am J Physiol Regul Integr Comp Physiol 2013:304:R504-R513.   \n15Westerfield M.The Zebrafish Book [J]. University of Oregon Press, Eugene,1995.   \n16Kimmel C B,Ballard W W,Kimmel S R et al. DevDyn 1995:203:253-310.   \n17Moriwaki $\\mathsf { K } ,$ Tsukita S,Furuse M. Dev Biol 2007: 312:509-522.   \n18 Veshnyakova A,Piontek J,Protze Jet al.J Biol Chem 2012:287:1698-1708.   \n19 Hanna P C,Mietzner T A,Schoolnik G K et al.J Biol Chem 1991:266:11037-11043.   \n20 Winkler L，Gehring C，Wenzel A et al.J Biol Chem 2009:284: 18863-18872.   \n21 Van Itallie C M, Betts L,SmedleyJG et al.J Biol Chem 2008:283:268-274.   \n22 Kimura J,Abe H,Kamitani S et al.J Biol Chem 2010:285:401-408.   \n23 Robertson S L,Smedley 」G III,McClane B A. Infect Immun 2010:78:505-517.   \n24Protze J,Eichner M,Piontek A etal. Cell Mol Life Sci 2015:72:1417-1432.   \n25 Shen L,Weber C R,TurnerJR.J Cell Biol 2008: 181:683-695.   \n26Weber C R. Ann NY Acad Sci 2012:1257:77- 84.   \n27 Suzuki H, Kondoh M, Kakutani H et al. Biomaterials 2012:33:317-324.   \n28 Kiener T K，Selptsova-Friedrich I，Hunziker W. Dev Biol 2008:316:36-49.   \n29 Kirschner N,Rosenthal R,Gunzel D et al.Exp Dermatol 2012:21:171-175.   \n30 Hashimoto K.J Invest Dermatol 1971: 57:17- 31.   \n31 Doran K S,Banerjee A，Disson O et al.Cold Spring Harb Perspect Med 2013:3:1-19.   \n32 Turner JR.Nat Rev Immunol 2009:9:799-809.   \n33 Matsuhisa K， Kondoh M， Suzuki Het al. Biochem Biophys Res Commun 2012:423: 229-233.   \n34Kondoh M，Masuyama A,Takahashi A et al. Mol Pharmacol 2005:67:749-756.   \n35 Uchida H,Kondoh M,Hanada T et a/. Biochem Pharmacol 2010:79:1437-1444.   \n36 Prausnitz M R,Langer R. Nat Biotechnol 2008: 26:1261-1268.   \n37 Swain S,Beg S,Singh A et al. Curr Drug Deliv 2011:8: 456-473.   \n38 Benson H A. Curr Drug Deliv 2005:2: 23-33.   \n39 Brandner J,Mclntypre M,Kief S et al. Arch Dermatol Res 2003:295:211-221.   \n40 Pummi K,Malminen M,Aho H et al.J Invest Dermatol 2001:117:1050-1058. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,195 @@
+# DOI:10.5846/stxb201607021363
+
+郭金停,韩风林,胡远满,聂志文,任百慧,布仁仓.大兴安岭北坡多年冻土区植物生态特征及其对冻土退化的响应.生态学报,2017,37（19)：6552-6561.  
+GuoJT,HanFceesprslope of Great Khingan Mountain valleyof northeast China.Acta Ecologica Sinica,2Ol7,37(19）:6552-6561.
+
+# 大兴安岭北坡多年冻土区植物生态特征及其对冻土退化的响应
+
+郭金停1,²，韩风林1,²,胡远满}，聂志文1,²,任百慧1,²，布仁仓1，\*
+
+1中国科学院森林生态与管理重点实验室,中国科学院沈阳应用生态研究所，沈阳110016  
+2中国科学院大学，北京100049
+
+摘要：多年冻土和植被是寒区生态系统的重要组成部分。随着全球气候变暖,多年冻土逐渐退化,导致土壤水分以及有机质含量降低,进而对地上植被产生影响。对大兴安岭北坡多年冻土区植物生态特征及其对冻土退化的响应进行了研究。结果表明，调查的30个多年冻土区共有 85 种植物,隶属于29 个科,55个属。其中,蕨类植物1种,占种组成的 $1 . 2 \%$ ;裸子植物1种,占种组成的 $1 . 2 \%$ ;被子植物83种，占种组成的 $9 7 . 6 \%$ 。在4种生活型中,以地面芽植物的种类最多,为51种,占植物种数的 $6 0 \%$ ；地下芽和高位芽植物次之,分别为12 和19 种,分别占 $1 4 . 1 \%$ 和 $2 2 . 4 \%$ ;地上芽植物较少,为3种,占 $3 . 5 \%$ 。在4种水分生态类型中,以中生植物种类最多,为50 种,占植物种数的 $5 8 . 8 \%$ ;湿生植物次之,为26种，占 $3 0 . 6 \%$ ;沼生植物为7种,占 $8 . 2 \%$ ;旱生植物最少,为2种,占 $2 . 4 \%$ 。冻土活动层厚度50- $1 5 0 \mathrm { { c m } }$ 范围内,植物的科、属、种数最多,其次是大于 $1 5 0 \mathrm { { c m } }$ 范围的冻土区,活动层厚度较小( $\angle 5 0 \mathrm { c m } )$ )时,植物科、属、种数最少。随着活动层厚度的增加,即多年冻土退化,地面芽植物的物种数显著增加( $P <$ 0.05）,高位芽植物的物种数显著减少( $P { < } 0 . 0 5 )$ ,地上芽和地下芽植物的物种数随活动层厚度的变化不显著。随着活动层厚度的增加,沼生植物的物种数显著降低( $\cdot P { < } 0 . 0 5 )$ ，中生植物的物种数显著增加( $\scriptstyle P < 0 . 0 5$ ),湿生和旱生植物的物种数随活动层厚度的变化不显著，群落植物组成从湿生逐渐向中生转变。
+
+关键词：大兴安岭；多年冻土退化;植被;生态特征;活动层厚度
+
+# Ecological characteristics of vegetation and their responses to permafrost degradation in the north slope of Great Khingan Mountain valley of northeast China
+
+GUO Jinting12,HANFenglin'•2,HU Yuanman’，NIE Zhiwen1²,REN Baihui12,BURencang1,\* 1KeyLboratoryforestandanagement，stituteofAppliedEcologynesecademyofiences,henyangoina 2 University of Chinese Academy of Sciences,Beijing 10o049,China
+
+Abstract: Permafrost, which is defined as ground that remains below $0 \%$ for at least two consecutive years，is an important component of thecryosphereandis vulnerable toclimate warming.Global warming hasaccelerated permafrost degradation, as evidenced bya thickening of permafrost thaw depths，increasing ground surface temperature，and the change from continuous permafrosttoisland permafrost.Vegetation isavital componentof the permafrostecosystemand issensitiveto permafrost degradation.The degradation of permafrostleads tochanges inthecharacteristicsof permafrost plant communities，such as species compositionand diversityandvegetationcoverand biomass.The impacts of permafroston vegetation have becomea keytopic inthefieldof climatechange research.However，previous studies of permafrost have mostly focusedonthedistributionof permafrost，whereas there has been litlequantitativeresearchonthe mechanistic conectionbetweenpermafrostandenvironmental factorsandthe impactsof permafrostdegradationontheecological characteristicsofvegetation.Thus，understandingtheresponseofvegetationecological characteristics topermafrost degradation is vital.Inthepresent study，weinvestigated plant ecological characteristicsandtheirresponses tochanges in thepermafrostthawdepthson the north slope ofthe Great Khingan Mountain valleyof northeast China.Theresults showed that there were 85 plant species belonging to 29 families and 55 genera in 30 plots.Angiosperms were dominant，accounting for $9 7 . 6 \%$ of the total species，whereas there was only one species each of fern and gymnosperm，accounting for $1 . 2 \%$ of the total species.In termsof four life forms，there were51，12，19，and3species of hemicryptophytes，phanerophytes, geophytes，and chamaephytes，respectively，accounting for $60 \%$ ， $1 4 . 1 \%$ ， $2 2 . 4 \%$ ，and $3 \%$ ，of total species. Of four hydro -ecotypes， there were 5O species of mesophytes，accounting for $5 8 . 8 \%$ of the total species，whereas hygrophytes, helophytes，and xerophils accounted for $3 0 . 2 \%$ ， $8 . 2 \%$ ，and $2 . 4 \%$ of species， respectively. Families， genera， and species of plants reachedamaximumat approximately5O—15Ocmofthe permafrost active layer thickness （ALT).Planttaxa were next most abundant at an $\mathrm { A L T } > 1 5 0 \ \mathrm { c m }$ ，whereas an ALT $\leqslant 5 0$ was associated with the fewest families， genera，and speciesof plants.Species of hemicryptophytes showed a significant increasing trend with increasing permafrost melting depth，whereas the numbers of phanerophyte species decreased.Changes in the numbers of geophytesandchamaephytes withachange inpermafrost melting depth were not significant.Speciesofhelophytes decreased significantlywithanincrease in permafrost melting depth，whereas mesophytes showed an increasing trend.Hygrophyteand xerophil species did not change significantly witha change in permafrost melting depth.Collctively，our studyresults suggest thatthe studyareahas ashort summer andalong cold winter，and thattheconditions conducive to the growthof plants havetended to moderate. Thisresearch providesatheoreticalbasisforpredictingtrends inthevariationof vegetationecological characteristicsagainst a background of permafrost degradation.The findingsarealso important for the developmentand implementationof agricultureandforestryinthepermafrost zone.Inadition，ourobservations potentiallyprovideanefectiveguideforforest management and biodiversity conservation eforts in permafrost areas.
+
+Key Words:The Great Khingan Mountains；permafrost degradation；vegetation；ecological characteristic；permafrost active layer thickness 人
+
+北半球中、高纬度地区,持续冻结时间在2a或2a以上的岩土和土壤被称为多年冻土[1]。多年冻土是冰冻圈的重要组成部分,研究表明,随着气候变暖,多年冻土逐渐退化[2-5]。多年冻土退化的主要形式包括多年冻土地表温度上升、活动层厚度增加、连续多年冻土退化成岛状多年冻土等[6。植被是寒区生态系统的重要组成部分,对多年冻土退化响应十分敏感[7]。国外生态学家对多年冻土与植被的关系研究较早,但研究成果多体现在 20 世纪90年代,研究表明,冻土的退化会引起生态系统植被格局的变化[8-11]。国内关于冻土和植被的关系研究较少,多集中在冻土分布、冻土与环境的共生机制等方面[12-14],关于冻土退化对群落的影响研究较少,尤其缺少相关的定量化研究。大兴安岭北部是我国唯一的一片地带性多年冻土分布区,也是欧亚大陆多年冻土区分布的南缘,对气候变化十分敏感。随着温度的升高和人类干扰的加剧,多年冻土出现了严重的退化现象[15-18],冻土的退化将会影响群落的结构和组成[19-23]。植物科、属、种的组成,生活型,水分生态类型等都会随冻土的退化而产生相应的变化。植物的生态特征是其对环境因子长期适应的结果,对环境具有指示作用[24]。因此,对大兴安岭多年冻土区组成植物的生态特征的跟踪研究,对深人研究该区的环境变化,以及冻土和冻土湿地的退化有重要意义，对预测大兴安岭冻土湿地植物群落在气候变暖条件下的变化趋势具有一定的参考价值。本研究在实地调查的基础上,对大兴安岭北坡多年冻土区植物的生态特征进行了结构分析，同时进行了植物的生态特征对冻土退化的响应研究。
+
+http://www.ecologica.cn
+
+# 1研究概况与方法
+
+# 1.1 研究区概况
+
+研究区地处大兴安岭北坡 $( 5 0 ^ { \circ } 0 1 ^ { \prime } 0 1 ^ { \prime \prime } - 5 3 ^ { \circ } 2 6 ^ { \prime } 2 5 ^ { \prime \prime } \mathrm { N } , 1 1 9 ^ { \circ } 0 7 ^ { \prime } 0 2 ^ { \prime \prime } - 1 2 1 ^ { \circ } 4 9 ^ { \prime } 1 7 ^ { \prime \prime } \mathrm { E } )$ ,海拔 $6 2 0 { \mathrm { - } } 9 6 0 { \mathrm { m } }$ 。该地区属寒温带大陆性季风气候,冬季严寒而漫长，年均气温 $- 4 \mathrm { - } \mathrm { - } 1 \mathrm { \mathcal { C } }$ ,年均降水量 $3 5 0 { \mathrm { - } } 5 5 0 { \mathrm { m m } }$ ,无霜期 80—100d。研究样地位于草地生态系统与森林生态系统的过渡带,物种组成较为丰富,多数物种属于寒温带物种，少数属于温带物种;植物群落的垂直结构比较简单,成层现象明显,分别由乔木层、灌木层、草本层和地被层4个层次组成[25]。其中乔木层由兴安落叶松（Larix gmelinii)老头林和少量白桦（Betula platyphylla)组成;灌木层物种较多,其中柴桦（Betula fruticosa）、狭叶杜香（Ledum palustre var.angustum）、笃斯越桔（Vacciniumuliginosum)等为多年冻土植被群落的特征种[26];草本层物种最多,其中苔草（Carex subpediformis)等为草本层的优势种;地被层主要由中位泥炭藓和白齿泥炭藓等各种泥炭藓所覆盖[27];土壤类型主要是草甸土和沼泽土,有机质含量较高,水分、养分丰富,土质较疏松,地表有积水[28]。
+
+# 1.2 研究方法
+
+# 1.2.1 样地设置
+
+本文基于空间替代时间的研究方法,在不同多年活动层厚度条件下,通过大量样地的统计分析,探讨植物群落功能型组成随活动层厚度的变化规律。
+
+于2014年7—8月,选取研究区内生境条件基本相似的30块样地,对其灌木层和草本层进行调查。每个样地随机设置 $2 \mathrm { m } { \times } 2 \mathrm { m }$ 灌木样方6—10 个， $\mathrm { 1 m } { \times } 1 \mathrm { m }$ 草本样方 $\ 9 { \overset { \underset { \mathrm { ~ } } { } } { - } } 1 2$ 个，以确保每个样地 $90 \%$ 的物种被调查到。对于高度小于 $2 \mathrm { m }$ 或胸径小于 $2 . 5 \mathrm { c m }$ 的乔木,作为灌木调查。在每个样方中记录植物种的名称、多度、盖度、高度等数量指标,以及样地所在的经度、纬度、海拔高度、坡度、坡向、活动层厚度等环境因子(表1)。本文采用直接挖深法获得每个样点的活动层厚度,挖取的最大深度为 $1 5 0 \mathrm { c m }$ 。利用野外调查所获取的活动层厚度，将 30个样地按照活动层厚度范围 $0 { \ - } { - } 5 0 \ 、 5 0 { \ - } { - } 1 5 0 \mathrm { c m }$ 、大于 $1 5 0 \mathrm { c m }$ 进行划分,即0一 ${ . 5 0 } \mathrm { c m }$ 范围12个样地,50—$1 5 0 \mathrm { { c m } }$ 范围 10 个样地,大于 $1 5 0 \mathrm { c m }$ 范围8个样地,具体样地号详见表1。
+
+表1调查样地基本情况  
+
+<html><body><table><tr><td colspan="8">1 Table 1 Basic information of sampling plots</td></tr><tr><td>样地</td><td>经度/（°)</td><td>纬度/（°）</td><td></td><td>海拔/m</td><td>土壤含水量</td><td>坡度/(°)</td><td>活动层厚度/cm</td></tr><tr><td>Sample</td><td>Longitude</td><td>Latitude</td><td></td><td>Altitude</td><td>Soil water content/%</td><td>Slope</td><td>Active layer thickness</td></tr><tr><td>1</td><td>120.676</td><td>51.3124</td><td></td><td>732</td><td>0.39021</td><td>0</td><td>50.0</td></tr><tr><td>2</td><td>120.677</td><td>51.3137</td><td></td><td>856</td><td>0.34659</td><td>16</td><td>120</td></tr><tr><td>3</td><td>120.675</td><td></td><td>51.3110</td><td>885</td><td>0.24376</td><td>30</td><td>1</td></tr><tr><td>4</td><td>120.677</td><td>51.3121</td><td></td><td>798</td><td>0.32589</td><td>25</td><td>60.0</td></tr><tr><td>5</td><td>120.679</td><td>51.3139</td><td></td><td>630</td><td>0.40212</td><td>0</td><td>3.00</td></tr><tr><td>6</td><td>120.680</td><td></td><td>51.3153</td><td>625</td><td>0.42058</td><td>0</td><td>7.00</td></tr><tr><td>7</td><td>120.675</td><td></td><td>51.3154</td><td>905</td><td>0.31644</td><td>20</td><td></td></tr><tr><td></td><td>120.673</td><td></td><td>51.3148</td><td>942</td><td>0.26399</td><td></td><td>14.0</td></tr><tr><td></td><td>120.672</td><td></td><td>51.3140</td><td>938</td><td></td><td>30</td><td>1</td></tr><tr><td>9</td><td>120.677</td><td></td><td></td><td>638</td><td>0.19879</td><td>28</td><td>1</td></tr><tr><td>10</td><td>120.676</td><td></td><td>51.3165</td><td>670</td><td>0.40987</td><td>7</td><td>12.0</td></tr><tr><td>11</td><td>120.671</td><td>51.3171</td><td></td><td></td><td>0.40588</td><td>9</td><td>15.0</td></tr><tr><td>12</td><td>120.670</td><td>51.5184 51.5177</td><td></td><td>921</td><td>0.19687</td><td>28</td><td>1</td></tr><tr><td>13</td><td>120.699</td><td>51.5172</td><td></td><td>951</td><td>0.20145</td><td>37</td><td>1</td></tr><tr><td>14</td><td></td><td></td><td></td><td>871</td><td>0.33946</td><td>28</td><td>108</td></tr><tr><td>15</td><td>120.716</td><td>51.5241</td><td></td><td>774</td><td>0.35477</td><td>20</td><td>58.0</td></tr><tr><td>16 17</td><td>120.715 120.975</td><td>51.5234 51.2511</td><td></td><td>687 705</td><td>0.39477 0.38574</td><td>0 0</td><td>42.0 45.0</td></tr></table></body></html>
+
+http://www.ecologica.cn
+
+续表  
+
+<html><body><table><tr><td>样地</td><td>经度/（）</td><td>纬度/（°）</td><td>海拔/m</td><td>土壤含水量</td><td>坡度/（°）</td><td>活动层厚度/cm</td></tr><tr><td>18</td><td>120.975</td><td>51.2544</td><td>893</td><td>0.29745</td><td>19</td><td>128</td></tr><tr><td>19</td><td>120.972</td><td>51.2629</td><td>807</td><td>0.31053</td><td>20</td><td>75.0</td></tr><tr><td>20</td><td>120.735</td><td>51.1440</td><td>665</td><td>0.39211</td><td>12</td><td>18.0</td></tr><tr><td>21</td><td>120.733</td><td>51.1461</td><td>643</td><td>0.39678</td><td>8</td><td>27.0</td></tr><tr><td>22</td><td>120.729</td><td>51.1486</td><td>921</td><td>0.30539</td><td>16</td><td>142</td></tr><tr><td>23</td><td>120.728</td><td>51.1497</td><td>933</td><td>0.29856</td><td>14</td><td>147</td></tr><tr><td>24</td><td>120.954</td><td>51.1733</td><td>908</td><td>0.25644</td><td>32</td><td>一</td></tr><tr><td>25</td><td>120.955</td><td>51.1753</td><td>889</td><td>0.29854</td><td>29</td><td>90.0</td></tr><tr><td>26</td><td>120.957</td><td>51.1765</td><td>652</td><td>0.37328</td><td>7</td><td>29.0</td></tr><tr><td>27</td><td>120.951</td><td>51.1775</td><td>941</td><td>0.25478</td><td>30</td><td></td></tr><tr><td>28</td><td>120.953</td><td>51.1758</td><td>903</td><td>0.20796</td><td></td><td></td></tr><tr><td>29</td><td>120.952</td><td>51.1786</td><td>699</td><td>0.38667</td><td>25 10</td><td>1</td></tr><tr><td>30</td><td>120.950</td><td>51.1788</td><td>690</td><td>0.39623</td><td>13</td><td>34.0 40.0</td></tr></table></body></html>
+
+“-”代表在0—150cm 范围内没有挖到冻土
+
+# 1.2.2植物生活型和水分生态类型分析
+
+植物生活型(life form)是植物长期受一定环境综合影响下所呈现的适应形态[29-31]。按照 Raunkiaer 对休眠芽在不良季节的着生位置划分的生活型系统，将调查的30个多年冻土区植物群落中的植物划分为高位芽、地上芽植物、地面芽植物、地下芽植物。依照植物与水分的关系,将生长在潮湿环境中,不能忍受较长时间水分不足的植物称为湿生植物；生长在水分条件适中生境中的植物称为中生植物；生长在干旱环境中，能长期耐受干旱环境，且能维护水分平衡和正常的生长发育的植物称为旱生植物[32」],仅植株的根系及近于基部地方浸没水中的植物，称沼生植物。将调查的30个多年冻土区植物群落中的植物划分为沼生植物、湿生植物、中生植物和旱生植物。分别对调查样地中的每一种植物做 Raunkiaer 生活型[33]以及水分生态类型分类，统计各分类系统的数量及比率作为其结构分析的数量指标[34]。
+
+# 1.2.3 数据处理与分析
+
+采用Origin8.6软件进行绘图,利用SPSS18.0软件进行相关的统计分析。
+
+# 2结果与分析
+
+# 2.1 群落的植物组成分析
+
+本研究调查了30个冻土植物群落,其中包含了85种植物,隶属于29个科,55个属（表2)。以地面芽植物的种类最多,为51种,占植物种数的 $6 0 \%$ ;地下芽和高位芽植物次之,分别为12和19种,分别占 $1 4 . 1 \%$ 和$2 2 . 4 \%$ ;地上芽植物较少,为3种,占 $3 . 5 \%$ （图1)。为了便于分析不同生活型的植物在群落中的地位,图2体现了不同生活型植物的重要值。其中,高位芽植物的重要值最大,其次是地面芽植物和地上芽植物,地下芽的重要值最小。调查样地中出现的85 种植物中,以中生植物种类最多,为50种,占植物种数的 $5 8 . 8 \%$ ;湿生植物次之，为26种，占 $3 0 . 6 \%$ ;沼生植物为7种，占 $8 . 2 \%$ ;旱生植物最少,为2种，占 $2 . 4 \%$ （图3)。图4体现了不同水分生态类型植物的重要值。其中,湿生植物的重要值最大,其次是沼生植物和中生植物,旱生植物的重要值最小。
+
+表2大兴安岭冻土植被群落物种组成  
+Table 2Plant components in the permafrost in the Great Khingan Mountains   
+
+<html><body><table><tr><td>Table 2</td><td colspan="6">Plantcomponentsintnepermairost te GreatKhingan Mountains</td></tr><tr><td>类群 Types</td><td>科数 Number of family</td><td>比例/%</td><td>属数</td><td>比例/%</td><td>种数</td><td>比例/%</td></tr><tr><td>蕨类植物Fem</td><td></td><td>Percentage 3.4</td><td>Number of genus</td><td>Percentage</td><td>Number of species</td><td>Percentage</td></tr><tr><td></td><td>1</td><td></td><td>1</td><td>1.8</td><td>1</td><td>1.2</td></tr><tr><td>裸子植物Gymnosperm 被子植物Angiosperms</td><td>1</td><td>3.4</td><td>1</td><td>1.8</td><td>1</td><td>1.2</td></tr><tr><td></td><td>27</td><td>93.2</td><td>53</td><td>96.4</td><td>83</td><td>97.6</td></tr><tr><td>合计 Total</td><td>29</td><td>100</td><td>55</td><td>100</td><td>85</td><td>100</td></tr></table></body></html>
+
+![](images/e68dd7fe7b4655f87e2d29f9afcb747fc6320ded8de928f695ea335b1636cd89.jpg)  
+图1大兴安岭冻土植物生活型的数量分布
+
+![](images/806862e3af91515630bcc9f89bd10fa6e89221a65aedc529ea7d687aaefd4ee5.jpg)  
+图2大兴安岭冻土植物生活型的重要值结构
+
+![](images/5bdc0f4db4614fdd4c0311169cc2f735174c4aa264968c4ae2c5f319e913516b.jpg)  
+Fig.1Quantitative distribution of life form of the permafrost plants in the Great Khingan Mountains
+
+![](images/f6a448615fbc40ecf2f0fa248f5eaafb5bcd3caf46e5cb55c5ae164ad81fc39b.jpg)  
+Fig.2 Importance value structure of life form of the permafrost plants in the Great Khingan Mountains   
+图3大兴安岭冻土植物水分生态类型的数量分布 Fig.3Quantitative distribution of hydro-ecotype of the permafrost plants in the Great Khingan Mountains   
+图4大兴安岭冻土植物水分生态类型的重要值结构  
+Fig.4Importance valuestructureofhydro-ecotype ofthe permafrost plants in the Great Khingan Mountains
+
+2.2植物的科属组成随活动层厚度的变化
+
+在3种不同活动层厚度的冻土区内,植物的科、属和种数的变化范围分别为8—21、27—43 和38—76（表3）。其中,科、属和种数最多的冻土区为活动层厚度 $5 0 - 1 5 0 \mathrm { c m }$ 范围内,其次是活动层厚度大于 $1 5 0 \mathrm { c m }$ 范围的冻土区,活动层厚度小于 $5 0 \mathrm { { c m } }$ 范围的冻土区植物的科、属和种数最少，因此物种最丰富的活动层厚度为50— $1 5 0 \mathrm { { c m } }$ ,而活动层厚度较小( $\angle 5 0 \mathrm { c m } )$ 的冻土区不利于物种丰富度的增加。
+
+# 2.3植物的生活型随活动层厚度的变化
+
+如图5,随着冻土活动层厚度的增加,地面芽植物的物种数显著增加( $P { < } 0 . 0 5 )$ ,高位芽植物的物种数显著减少( $\scriptstyle P < 0 . 0 5 )$ ,地上芽和地下芽植物的物种数随活动层厚度的变化不显著( $_ { _ { P > 0 . 0 5 ) } }$ 。
+
+表3大兴安岭不同活动层厚度下植物的科、属和种数  
+Table3Thenumberoffamily，genusandspeciesof plantspeciesundervariousactivelayerthicknessofpermafrostintheGreal Khingan Mountains   
+
+<html><body><table><tr><td>活动层厚度 Active layer thickness/cm</td><td>科数 Number of family</td><td>属数 Number of genus</td><td>种数 Number of species</td></tr><tr><td>0-50</td><td>8</td><td>27</td><td>38</td></tr><tr><td>50—150</td><td>21</td><td>43</td><td>76</td></tr><tr><td>>150</td><td>16</td><td>34</td><td>49</td></tr></table></body></html>
+
+对4种生活型的重要值随活动层厚度的变化分别做柱形图分析其变化趋势(图6),随着活动层厚度的增加,地面芽植物的重要值显著地降低( $\scriptstyle \left. P < 0 . 0 5 \right)$ ,地下芽植物的重要值显著地增大( $( P { < } 0 . 0 5 )$ ,高位芽和地上芽植物的重要值随活动层厚度的变化不显著( $( P { > } 0 . 0 5 )$ ,但是,随着活动层厚度的增大,高位芽和地上芽植物的重要值呈减小趋势。
+
+![](images/f99b865871eb5b35feae01f9d879fdc1a585fcbe9595f63834ad3642ca7867a2.jpg)  
+图5大兴安岭不同活动层厚度下生活型植物的种数 Fig.5Number of plant species with different life forms under various active layer thickness of permafrost in the Great Khingan Mountains 1
+
+![](images/28b35fded5b78f48bde89c5f7a655b224964d540cc8800a462b814e0fea1b133.jpg)  
+图6大兴安岭不同活动层厚度下生活型植物的重要值 Fig.6Importance values of plant species with different life forms under various active layer thickness of permafrost in the Great Khingan Mountains
+
+2.4植物的水分生态类型随活动层厚度的变化
+
+对4种不同水分生态类型的物种数随活动层厚度的变化分别做柱形图分析其变化趋势（图7）,随着活动层厚度的增加，沼生植物的物种数显著地减少( $P { < } 0 . 0 5 )$ ，中生植物的物种数显著增加( $P { < } 0 . 0 5 \mathrm { ~ , ~ }$ ，湿生和旱生植物的物种数随活动层厚度的变化不显著( $( P { > } 0 . 0 5 )$ ，但是，随着活动层厚度的增加，湿生植物物种数有减少的趋势，旱生植物物种数有增加的趋势。
+
+对4种水分生态类型的重要值随活动层厚度的变化分别做柱形图分析其变化趋势（图8）,随着活动层厚度的增加,沼生植物的重要值显著地降低( $P { < } 0 . 0 5 )$ ,中生植物的重要值显著地增大( $P { < } 0 . 0 5 )$ ）,湿生植物和旱生植物的重要值随活动层厚度的变化不显著( $\lceil P > 0 . 0 5 \rceil$ ,但是,随着活动层厚度的增大,湿生植物的重要值有减小趋势,旱生植物在活动层厚度大于 $1 5 0 \mathrm { { c m } }$ 的冻土区开始出现。
+
+# 3讨论
+
+多年冻土对气候变化响应十分敏感,目前在全球气候变暖背景下,多年冻土发生了不同程度的退化[35-39]。多年冻土活动层厚度,作为表征多年冻土常态的一个关键参数[40],一定程度上可以反应多年冻土的动态变化特征。本研究按照多年冻土活动层厚度由小到大的顺序,建立活动层厚度变化序列,并假设该序列反映了研究区域多年冻土活动层厚度由小到大增加时多年冻土环境变化的趋势,从而实现了“空间格局转换为时间演替”的预测思想。因此本文基于空间替代时间的思想,通过分析植物生态特征随多年冻土活动层厚度的变化规律探讨了冻土退化对植物群落生态特征的影响。
+
+![](images/16928ac16316a031f30105ff00d0a7568e41ef78c3a5d9a55c25482865ba562f.jpg)  
+图7大兴安岭不同活动层厚度下水分生态类型植物的种数 Fig.7Number of plant species with different hydro-ecotypes under various active layerthickness of permafrost inthe Great Khingan Mountains
+
+![](images/7aea71103ccbb976a982fcb6596a7674ef34076e375840f77d2535afe2df22ea.jpg)  
+图8大兴安岭不同活动层厚度下水分生态类型植物的重要值 Fig.8Importance yalues of plant species with different hydroecotypes under various active layer thickness of permafrost in the Great Khingan Mountains
+
+大兴安岭地处寒温带大陆性季风气候[23],其多年冻土区植物群落受高寒严酷气候的胁迫,经过长期的自然选择,多由耐寒植物种类组成,相对于其他气候带的植物群落组成,其植物种类相对较少[40]。孙菊等研究发现纬度较高地区,由于受温度条件限制,而且夏季地表积水,裸露的地表面积有限,只有具有深根系的灌木、可以形成塔头的各种臺草,以及少量喜冷湿环境的草本植物能够生长,植物群落物种数较少[28]。李英年等研究了祁连山海北高寒湿地植物群落结构及生态特征,结果表明海北高寒湿地植物种类组成较少[41],上述与本研究结果一致。
+
+生活型是植物在长期适应生活环境做出的相应的适应的结果。因此,植物的生活型常作为某地区生物环境、地形因子等的标志。在自然生长的状况下,每个植物群落的生活型往往不是单一的,而是由几种不同的生活型的物种组成的,但往往由一类或几类生活型作为优势生活型。一般地,在水热条件组合较好的低纬度地区,高位芽植物占据优势;干旱地区,地下芽植物往往较丰富;在酷寒的高海拔或高纬度地区,地面芽植物占优势[42]。本文研究表明大兴安岭多年冻土区植物的 Raunkiaer生活型中地面芽植物占优势,地下芽和高位芽植物次之,反映了当地夏季较短,冬季严寒漫长的气候条件[28]。郭正刚等研究发现,高寒沼泽化草甸,主要由耐寒湿生和湿中生的多年地面芽植物和地下芽植物组成[20]。本文分析了多年冻土区植物各生活型在群落中的地位,结果表明4种生活型中,地面芽植物的物种数和重要值均较大,反映出多年冻土区植物群落的组成中，地面芽植物是该群落的重要组成部分,是对冬季酷寒天气适应最成功的生活型。高位芽植物的种类不多但重要值在植物群落中占据重要地位。沼生和湿生植物的重要值体现了其在大兴安岭冻土植被组成中不可替代的作用,其重要值共占 $7 6 . 2 \%$ ,反映了冻土生境潮湿的环境特征,然而调查的多年冻土区内中生植物的种类最多,这表明多年冻土的土壤条件虽然偏重于湿生,但有向中生性发展的趋势。
+
+多年冻土不断退化过程中,不同活动层厚度的土壤水分含量变化非常明显,如图9所示,随着活动层厚度的增加，土壤含水量显著降低( $\scriptstyle \cdot { P < 0 . 0 5 } )$ 。本文研究结果表明,随着冻土活动层厚度的增加，沼生植物的物种数和重要值均显著降低( $P { < } 0 . 0 5 )$ ,中生植物的物种数和重要值显著增加( $P { < } 0 . 0 5 )$ ，一些耐寒、喜湿的植物种类在群落中减少,甚至消失,逐渐被中生植物取代,旱生植物在活动层厚度大于 $1 5 0 \mathrm { c m }$ 的冻土区开始出现。
+
+相似的研究有，孙菊等发现由大片多年冻土区到大片-岛状多年冻土区，再到稀疏岛状多年冻土区，中生植物比例明显增大( $P { < } 0 . 0 5 )$ ,沼生植物重要值显著减小（ $_ { P < 0 . 0 5 ) }$ ,中生和旱生植物重要值逐渐增大( $_ { ( P < 0 . 0 5 ) }$ ，表明土壤水分逐渐发展成中生化，甚至出现旱生化的趋势[25]。郭正刚等研究表明,随着多年冻土的退化,土壤表层含水量下降，这为一些中生植物的人侵提供了条件，中生植物种类的入侵和发展，使群落结构发生了变化，随着冻土的继续退化,地下水位进一步下降，土壤逐渐变得干燥，水生或湿生的种类消失，植物群落中甚至出现旱生植物[43]。李英年等研究发现,高寒湿地植被在气候干暖化趋势的加剧影响下，植物群落组成发生变异，原生适应寒冷、潮湿生境的藏嵩草为主的草甸植被类型逐渐退化，有些物种甚至消失，而被那些寒冷湿中生为主的典型草甸类型所替代[44]。王根绪等提出了多年冻土退化过程中高寒沼泽草甸的原生演替模式,即随着多年冻土的退化,由高寒沼泽草甸向高寒草甸演替;冻土继续退化,由高寒草甸演替为高寒草原化草甸;由于土壤持续暖干化导致冻土完全消失,进而使中生草甸植被消失和耐旱植被得以发展,在极度干旱的条件下,植被最终演替为稀疏草原,甚至沙化[45]。北极地区的观测研究结果表明,随着气候变暖,多年冻土退化,地表水分趋于干燥,将有利于中旱生和旱生的植被类型如高寒草原生长[46]。高寒生态系统中,多年冻土作为弱透水层[47],为植物的生长提供了充足的水分条件,当冻土发生退化,植物赖以生存的环境随之发生改变,因而会改变冻土上植物群落的组成。综上,不论是大兴安岭多年冻土区,青藏高原多年冻土区,还是北极地区,由气候变暖所导致的多年冻土退化过程中,沼生植物减少，随着冻土进一步退化,湿生植物逐渐被中生植物取代,甚至会出现旱生植物。
+
+![](images/03c5d519fa53adb5e3d2c28aec5af5462392369f654545c8df96f13c821310b0.jpg)  
+图9大兴安岭不同活动层厚度下土壤水分含量 Fig.9Soil moistures under different active layer thickness of permafrost in the Great Khingan Mountains
+
+植被对于多年冻土退化的响应是渐变的动态过程,研究高寒植被对多年冻土退化的动态响应过程,理论上最适宜的研究方法是基于样方调查的长时间的动态观测研究[48]。然而由于大兴安岭缺少长期定位观测系统,本研究基于“空间格局转换为时间演替”的思想,探讨了冻土退化对植物群落生态特征的影响。未来应该加强在东北多年冻土区建立长期的定位观测和研究体系,在此基础上探讨多年冻土退化过程中的植被的响应机制，同时应该加强冻土退化对植被碳库的影响研究。
+
+# 4结论
+
+植物的生态特征是其对环境长期适应的结果,其对环境具有一定的指示作用。大兴安岭北坡多年冻土区植物的生态特征表明,研究区具有夏季较短，冬季严寒漫长的气候条件。 $5 0 - 1 5 0 \mathrm { c m }$ 的活动层厚度范围内，植被生长所需要的土壤养分、水分等条件达到最佳状态,因此植物物种最为丰富,而活动层厚度较小或较大的冻土区均不利于物种丰富度的增加。随着大兴安岭多年冻土的退化,活动层厚度增加,多年冻土土壤水分含量降低，一些喜湿的植物减少,甚至消失,逐渐被中生植物取代。本文对大兴安岭北坡多年冻土区植物生态特征及其对冻土退化的响应的研究对进一步研究该区的环境变化以及冻土退化具有重要价值。
+
+# 参考文献（References）：
+
+[1]SchuurEAG,Bocheim,CadellJG,EuskichenE,FeldCB,GoryachiSV,HageaS,uhyP,LfleurP,Lee, G,NelsonFE,inkeA,omanoskyVE,Shikloanov,aocaiC,VenevskyS,VgelJG,ZimovS.Vuerabiliyofpeafrostarbo to climate change：implications for the global carbon cycle.Bioscience，20o8,58（8）：701-714.   
+[2]LiX,hgGdedespoeoelofigltepefrtbalageiiasErths99,2
+
+http://www.ecologica.cn
+
+3]GuglieasJEtillddtatioseIsland（Maritime Antarctica).Geoderma，2008,144(1/2）：73-85.  
+[4]LiX,ChengGD,JinHJ,KangE,CheT,JinR，WuLZ,NanZT,WangJ,ShenYP.Cryosphericchange inChina.GlobalandPlanetaryChange，2008,62(3/4)：210-218.  
+[5]ChengG,JnJeafrosdgoateeQigedirestadgal,,（  
+[6]Wei Z,JinHJ,ZhangJM,YuSP,HanXJ,JiYJ,HeRX,ChangXLredictionofpermafrostchangesinNortheasterChinaderachanging climate.Science China Earth Sciences，2011,54(6)：924-935.  
+[7]TutubalinaOV,ResWG.Vegetationdegradationinapermafrostregionassnfromspace：Noril'sk（96-1999).ColdRgiosSc andTechnology，2001,32(2/3）：191-203.  
+[8]CamilP，akJtegdelipafrostsuedlalprocetualist98(3): 207-222.  
+9]amilaeslgsa1999,77(5): 721-733.  
+10]CaillakJopsiodossosategarosireleatddewoodland boundary.Ecosystems，2000,3（6）：534-544.  
+[11]CamillP,Lynch JA,Clark JS,AdamsJB,Jordan B.Changes in biomass,，aboveground net primary production and peat accumulation followingpermafrost thaw in the boreal peatlands of Manitoba， Canada.Ecosystems，20o1,4(5):461-478.  
+[12］孙广友.试论沼泽与冻土的共生机理——以中国大小兴安岭地区为例.冰川冻土，2000，22(4)：309-316.  
+[13］周梅，余新晓，冯林，王林和，那平山.大兴安岭林区冻土及湿地对生态环境的作用.北京林业大学学报，2003，25(6)：91-93.  
+[14] 吕久俊，李秀珍，胡远满，王宪伟，刘宏娟，邴龙飞.呼中自然保护区多年冻土活动层厚度的影响因子分析.生态学杂志，2007,26（9)：1369- 1374.  
+[15］鲁国威，翁炳林，郭东信.中国东北部多年冻土的地理南界.冰川冻土，1993，15(2)：214-218.  
+[16] 顾钟炜，周幼吾.气候变暖和人为扰动对大兴安岭北坡多年冻土的影响——以阿木尔地区为例.地理学报，1994，49(2)：182-187.  
+[17] 金会军，于少鹏，吕兰芝，郭东信，李英武.大小兴安岭多年冻土退化及其趋势初步评估.冰川冻土，2006，28(4)：467-476.  
+[18] 常晓丽，金会军，何瑞霞，杨思忠，于少鹏，吕兰芝,郭东信，王绍令，康兴成.中国东北大兴安岭多年冻土与寒区环境考察和研究进展.冰川冻土，2008,30(1)：176-182.  
+[19]SchurEAG,umerKG,VogelJGackClantspeciesopositiodprductitfolowingperafrostdeastinAlaskan Tundra.Ecosystems，2007,10(2）：280-292.  
+[20］郭正刚，牛富俊，湛虎，吴青柏.青藏高原北部多年冻土退化过程中生态系统的变化特征.生态学报，2007,27(8)：3294-3301.  
+[21]WangGX,LiWngYWuQBectsfpeafrostawgovegeatiodlblloesothingate,China.Geoderma，2008,143(1/2): 143-152.  
+22]SunJ,LiXZWgXWuJ,LiZantseciistrboierrosasofteGeatHngnoutidsresponse to global climate change.Journal of Earth Science，2010,21（S1）: 266-270.  
+[23]Wang ZR,YngG，YiSH,WuZ,GuanJY,HeXB,YeBS.Diferentesposeofvegetationtoperafrosthangeisiaridadi-humid regions in Qinghai-Tibetan Plateau.Environmental Earth Sciences,2012,66(3)：985-991.  
+[24］李建东，杨允菲。松嫩平原羊草草甸植物的生态及分布区型结构分析.草业学报，2002，11(4)：10-20.  
+[25] 孙菊,李秀珍，胡远满，王宪伟，吕久俊，李宗梅，陈宏伟.大兴安岭沟谷冻土湿地植物群落分类、物种多样性和物种分布梯度.应用生态学报，2009，20(9）：2049-2056.  
+[26］郭金停，韩风林，布仁仓，胡远满，马俊，聂志文，朱菊兰，任百慧.大兴安岭北坡多年冻土区植物群落分类及其物种多样性对冻土融深变化的响应.生态学报，2016，36(21)：6834-6841.  
+[27]TanYYWangX,YangZF,WangYLResearchprogessincoldregionwelands，China.SiencsinColdandAridRegios,（5):441-447.  
+[28］孙菊，李秀珍，王宪伟，吕久俊，李宗梅，胡远满.大兴安岭冻土湿地植物群落结构的环境梯度分析.植物生态学报，2010，34（10)：1165- 1173.  
+[29]GaleraA，anM，ViceterellJerop，nliffiuerssfiaiJoalofVat1999,10(1) : 65-68.  
+［30］李博，杨持，林鹏.生态学.北京：高等教育出版社，2000.  
+[31SaritaVeatgettdeeifletropical Andes.Plant Ecology，2003，166(1）：145-156.  
+［32］傅沛云.中国东北部种子植物种的分布区类型.沈阳：东北大学出版社，2003.  
+[33]Raunkiaer C.The Life forms of Plants and Statistical Plant Geography.Oxford；Clarendon Press，1934.  
+[34]Lande R.A quantitative genetic theory of life history evolution.Ecology，1982,63(3）：607-615.  
+[35]WangSrodacrdlProcesses，2000,11(1)：43-53.  
+[36]JorgenonMacinCH，WaltersJCOsterkapEPerfroegdationdologicalansociatedwithwaglateincentral Alaska.Climatic Change，2001，48(4）：551-579.  
+[37]JinHJ,YuQH,LuLZ,uoDX,HeRX,YuS,SunGY,LiYWDegradatiofperafrosttinganlingMoutainsChina.Permafrost and Periglacial Processes,2007，18(3）：245-258.  
+[38]MarchenkoSS，GorbnovARomanovskyVE.PerafrostwamingintheTienSanMoutains，entralAsia.GlobalandPlaneaCang,2007,56(3/4):311-327.  
+[39]WuQB,ZagYZeafrostepaturesandicknesoteQingetateauGlobaadPanearyange,7（/2): 32-38.  
+［40］周以良.中国大兴安岭植被.北京：科学出版社，1991.  
+[41］李英年，赵亮,徐世晓，于贵瑞，杜明远，王勤学,孙晓敏，唐艳鸿，赵新全，古松.祁连山海北高寒湿地植物群落结构及生态特征.冰川冻土，2006,28(1)：76-84.  
+[42] 刘守江，苏智先，张璟霞，胡进耀.陆地植物群落生活型研究进展.四川师范学院学报：自然科学版，2003，24（2)：155-159.  
+[43] 郭正刚，王根绪，沈禹颖，程国栋.青藏高原北部多年冻土区草地植物多样性.生态学报，2004，24(1)：149-155.  
+[44] 李英年，赵新全，赵亮，王启基，沈振西.祁连山海北高寒湿地气候变化及植被演替分析.冰川冻土，2003，25(3）)：243-249.  
+[45] 王根绪.江河源区的生态环境变化及其综合保护研究.兰州：兰州大学出版社，2001.  
+[46] Christensen,s,eeliloon vegetation and methane emissions. Geophysical Research Letters，2004，31(4）:L04501.  
+[47］张秀敏，盛煜，吴吉春，陈继，李静，曹元兵，李昆.祁连山大通河源区高寒植被物种多样性随冻土地温梯度的变化特征.北京林业大学学报，2012，34(5)：86-93.  
+[48]杨兆平，欧阳华，宋明华，周才平，杨文斌，刘小平.青藏高原多年冻土区高寒植被物种多样性和地上生物量.生态学杂志，2010，29(4): 617-623.

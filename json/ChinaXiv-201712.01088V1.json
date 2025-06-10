@@ -1,0 +1,269 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "单侧横突拉簧加压建立兔脊柱侧凸模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李伦超,刘 湘,朱青安,黄志平,任海龙,郑 帅,李广军,杨德鸿,王吉兴南方医科大学南方医院脊柱骨科，广东广州 510515",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：自的 利用单侧横突拉簧加压法建立兔脊柱侧凸模型。方法 两月龄新西兰白兔10只,手术予 $\\mathrm { L } _ { 2 } \\mathrm { , } \\mathrm { L } _ { 5 }$ 右侧横突挂载拉簧。术前、术后1、4及8周摄X线正侧位片,测量Cobb角及拉簧长度，术后8周摄片后,随机将10只新西兰白兔分为两组：取拉簧(Spring removal,SR)组和保留拉簧组(Spring keeping,SK)各5只,取出SR组兔子体内拉簧,于9周和12周摄X线正侧位片,测量Cobb 角及后凸角。12周后取所有免顶椎及其上线椎体行Micro-CT扫描,记录顶椎上下终板的骨体积分数(BV/TV)。用方差分析或非参数检验及Student $\\mathbf { \\chi } _ { t }$ 检验对实验结果进行统计学分析。结果 至实验结束时,兔全部存活，Cobb角均大于 $1 0 ^ { \\circ }$ 。术后1、4、8周不同时间点Cobb角及后凸角都大于术前 $( P { < } 0 . 0 5 )$ 。术后8周，SR组与SK组的Cobb角、后凸角以及拉簧长度均无明显差异 $( P { > } 0 . 0 5 )$ ,取出拉簧后至12周，SK组的Cobb角及后凸角都较SR组要大 $( P { < } 0 . 0 5 )$ ，期间SR组的Cobb角及后凸角都逐渐减小。Micro-CT结果示凹侧终板骨体积分数要大于凸侧。整个实验过程中,拉簧形变量(△L)均无统计学差异( $( P { > } 0 . 0 5 )$ 。结论单侧横突拉簧加压模型是一种可重复率高、简单易操作且实验周期短的动物脊柱侧凸模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：脊柱侧凸;模型/新西兰兔；拉簧；不对称载荷 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Establishment of a rabbit model of scoliosis induced by asymmetric load using springs ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LILunchao,iang,ZHQing'an,HANGZiping,REilong,ZHNGuai,GuangjunNGDehong,Wing Departmentof Spine Surgery,Nanfang Hospital,Southern Medical University,Guangzhou 51o515,hina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:ObjectiveToestablish rabbit modelofscoliosis induced with stable asymmetriclumbar loads.Methods Scoliosis was induced in10two-month-oldNew Zealandrabbitsusing 316Lstainlesstelsprings placed betweentheunilateral transverse processes of L2 and L5. Serial radiographs were documented before and at $1 , 4 , 8 , 9$ and 12 weeks after the operation.At weeks, the rabbits were randomly divided into SR group $( n { = } 5 )$ with the spring removed and SK group $( n { = } 5 )$ without spring removal. Results All the rabbits survived the experiment with Cobb angle all greater than $1 0 ^ { \\circ }$ at the end of the experiment. Significant changes were found in the Cobb angles and kyphotic angles at 1, 4 and 8 weeks after the operation $( P { < } 0 . 0 5 )$ . At 8 weeks, the Cobb angle, the kyphotic angle and the length of the spring were similar between SR and SK groups $( P { > } 0 . 0 5 ) .$ ，and in the 4 week following spring removalinSR group,theCobbangleand the kyphosis decreased significantlycompared withthose in SK group $_ { ( P < 0 . 0 5 ) }$ . Micro-CT showed that the BV/TV of the concave side was greater than that of the convex side. The length of the spring did not show obvious changes during the experiment $( P { > } 0 . 0 5 )$ . Conclusion Asymmetric lumbar loading is a convenient, time-saving,and highly reproducible approach for establishing rabbit models of scoliosis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: scoliosis; animal model/New Zealand rabbits; springs; asymmetric load ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "脊柱侧凸是一种常见的脊柱畸形，青少年中其发病率约为 $2 \\% { \\sim } 4 \\%$ ,病情严重者不但会影响其外观,还将严重影响其心肺功能。脊柱侧凸的发病机制复杂，导致其治疗方法仍存在争议，其动物模型对其预防和治疗的研究存在重要意义。以往研究表明机械因素在脊柱侧凸的发生和发展中起到重要作用24]，目前通过丝线栓系建立脊柱侧凸模型较为常用，但用丝线仍存在很多弊端，如易断线、实验过程中所提供拉力不够稳定等。本实验拟用316L不锈钢拉簧代替丝线，挂载于兔单侧横突根部，以期建立一个良好的脊柱侧凸模型并可用于脊柱侧凸机制及治疗的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1动物模型的建立",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2月龄新西兰白兔10只(平均质量 $2 . 1 { \\pm } 0 . 2 4 \\mathrm { k g }$ ，性别不限)(广东省实验动物中心)，摄X线正侧位片，通过影像归档与通信系统（Picturearchiving andcommunicationsystems,PACS)测量其术前Cobb角。用 $3 \\%$ 戊巴比妥钠( $\\mathrm { 1 \\ m l / k g ) + }$ 速眠新 $\\mathrm { I I } ( 0 . 1 \\mathrm { m l / k g } )$ 肌注麻醉，自双侧髂嵴连线中点向头侧做背部正中切口，长约 $1 0 ~ \\mathrm { { c m } _ { \\odot } }$ ，依次切开各层组织至背阔肌,沿背阔肌与胸腰筋膜移行处切开背阔肌，钝性分离背部右侧深层组织，必要时可离断部分肌肉，暴露 ${ \\mathrm { L } } _ { 2 } { \\sim } { \\mathrm { L } } _ { 5 }$ 右侧横突，用球形磨钻分别在 $\\mathrm { L } _ { 2 }$ 横突根部上缘及L5横突根部下缘钻孔，直径约为 $1 \\mathrm { m m }$ 。将拉簧(由宁波倩楠轴承五金工具公司制造,316L医用不锈钢,初长度为 $1 6 . 0 1 { \\scriptstyle \\pm 0 . 0 9 \\ \\mathrm { m m } }$ ，用电子式动静态材料试验机(ElectroPlusE1000,Instron.)测量其弹性模量为 $2 . 8 6 \\mathrm { M P a } ,$ 两端分别挂载在$\\mathrm { L } _ { 2 }$ 横突与 $\\mathrm { L } _ { 5 }$ 横突的孔内(图1),检查无活动性出血后，生理盐水 $. + ^ { \\cdot }$ 青霉素注射液冲洗3遍，依次缝合各层组织。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/17d8d8871e0d4fe33557a05f03c639263be8001316a59a2eada6843b4724efe5.jpg",
+        "img_caption": [
+            "图1示手术挂载拉簧于脊柱右侧 $L _ { 2 } \\mathrm { - } L _ { 5 }$ 横突之间 Fig.1 Anchoring the two ends of the springs in the holes made in the root of the transverse processes of $\\mathrm { L } _ { 2 }$ and $\\mathrm { L } _ { 5 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据测量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "术后1、4、8对所有实验兔摄X线正侧位片，通过PACS系统测量其Cobb角、后凸角及拉簧长度。术后8周摄片后，随机将实验兔分为取拉簧组(Springremoval,SR组)和保留拉簧组(Springkeeping，SK组)各5只。手术取出SR组兔体内拉簧，而对SK组兔单纯切开暴露拉簧后不做任何处理，依次缝合各层组织。两组分别于术后9周和12周摄X线正侧位片，通过PACS系统测量其Cobb角及后凸角(图2)。12周后用空气栓塞法处死所有实验兔，取其顶椎及其上下各一椎体，保持该段椎体的连续性和完整性，行Micro-CT扫描( $\\mathrm { \\ u C T 8 0 }$ ScancoMedicalAG,Bassersdorf,Switzerland),以椎体正中矢状线为界，将其分为凹侧和凸侧两部分别，分别测量椎体凹侧和凸侧终板的骨体积分数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3统计方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用SPSS13.0软件包对实验数据进行统计分析，如数据服从方差齐性，则使用方差分析 $\\mathbf { \\Omega } _ { , t }$ 检验对结果数据行统计学分析；否则采用非参数检验对数据进行分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "术后1、4、8周较术前Cobb角及后凸角明显变大（由于数据不符合方差齐性，故使用Kruskal-WallisH检验)，且术前Cobb角及后凸角与术后1、4、8周均存在差异 $P { < } 0 . 0 5 )$ ，但术后Cobb角1、4、8周相互之间无差异$( P { > } 0 . 0 5 )$ ,术后1周后凸角与术后8周后凸角之间存在差异 $_ { \\it P = 0 . 0 1 5 }$ ，表1、图3A)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "术后8周摄片后，利用Student $\\mathbf { \\Phi } _ { t }$ 检验对SR组和SK组从术前至术后12周各时间点的Cobb角及后凸角进行统计学分析，示术前至术后8周，两组Cobb角均无差异 $( P { > } 0 . 0 5 )$ ,术后9周开始,SR组Cobb角小于SK组（术后9周，Cobb角为 $1 5 . 0 4 \\pm 2 . 3 3 ^ { \\circ } v s 3 0 . 9 1 \\pm 3 . 9 5 ^ { \\circ } , t = - 7 . 7 4 0$ ${ \\cal P } { = } 0 . 0 0 0$ ；术后12周,Cobb角为 $1 3 . 3 3 { \\scriptstyle \\pm 1 . 9 0 ^ { \\circ } }$ vs $3 2 . 2 5 \\pm$ $4 . 6 1 ^ { \\circ } , t = - 8 . 4 7 9 , P = 0 . 0 0 0 )$ （图3B)；术前至术后9周的后凸角均无差异 $( P { > } 0 . 0 5 )$ ，术后12周SR组后凸角小于SK组( $1 9 . 0 2 \\pm 3 . 7 3 ^ { \\circ } \\ v s \\ 3 9 . 9 5 \\pm 9 . 1 8 ^ { \\circ } , t = 4 . 7 2 7 , P = 0 . 0 0 1 )$ （（图3C）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9eafb6349db098eb8aa57d69d39a5b669060188fe2444fde67eb6b2c92c48cb.jpg",
+        "img_caption": [
+            "图2A图示术后摄X线侧位片 Fig.2 Kyphotic angle (β) measured on lateral plain film (A) according to Zhao Dong and $\\mathrm { K u k l o } ^ { [ 5 - 6 ] }$ and the Cobb angle (α） measured on anteroposterior plain film (B). The bold arrows indicate the springs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2287f71e0adf52559ec309ed24b006c437cdfcc5ad180dcd68c4b85ee99f0546.jpg",
+        "table_caption": [
+            "表1术前至术后8周各时间点Cobb角及后凸角",
+            "Tab.1 Kyphotic angle and the Cobb angle before and after the operation (Mean SD,°) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Pre-op</td><td>1 week</td><td>4 weeks</td><td>8 weeks</td><td>P</td></tr><tr><td>Cobb angle</td><td>0.90±0.68</td><td>22.68±3.54</td><td>23.47±3.70</td><td>26.39±5.28</td><td>0.000</td></tr><tr><td>Kyphotic angle</td><td>10.46±2.34</td><td>23.81±7.62</td><td>28.47±6.68</td><td>30.87±6.57</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Micro-CT扫描结果示，顶椎终板凹侧的骨体积分数为 $0 . 7 6 { \\scriptstyle \\pm 0 . 0 9 }$ ,凸侧的骨体积分数为 $0 . 7 3 { \\scriptstyle \\pm 0 . 1 0 }$ ，对其行配对 $\\mathbf { \\Phi } _ { t }$ 检验后， $t { = } 2 . 6 2 7 , P { = } 0 . 0 1 7$ ,表明二者之间存在统计学差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "术后1、4、8周所有新西兰白兔体内拉簧形变量(AL)无统计学差异 $( \\mathrm { H } { = } 0 . 1 2 4 , P { = } 0 . 9 4 0 )$ 。SK组与SR组拉簧初长度、术后1、4、8周拉簧形变量( $\\langle \\Delta \\mathbf { L } \\rangle$ 均无统计学差异（初长度： $t { = } 0 . 3 4 3 , P { = } 0 . 7 4 0$ ；术后1周： $\\scriptstyle t = 1 . 3 9 5$ ${ \\cal P } { = } 0 . 2 0 0$ ；术后4周： $\\scriptstyle t = 0 . 6 0 1$ ， $\\scriptstyle P = 0 . 5 6 5$ ;术后8周： $t =$ 1.384, $\\scriptstyle P = 0 . 2 0 4$ ，图4)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "脊柱侧凸是指冠状位上脊柱偏离中轴向一侧偏曲的脊柱畸形，通常其诊断标准为X线正位片Cobb角大于 $1 0 ^ { \\circ [ 7 ] }$ ,其不仅对患者外观有一定影响,病情严重时还",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/40993e997b4c9bd4ec10fb34cff2c39f6618953bc9604405ca5cfb9134a9b2fc.jpg",
+        "img_caption": [
+            "图3A示术前至8周时，所有兔Cobb角和后凸变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/685e3bedf10b90f7a050c626099e80c50d35e791132f41e4c4073e8a84c23748.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Changes of the Cobb angle and kyphotic angle of the rabbits after the operation.There is significant difference between the Cobb angle in preoperation and that in1 week，4 weeks， or 8 weeks postoperation,so is the kyphotic angle.But there is no difference among the Cobb angle in 1 week,4 weeksor8weekspostoperation.FigureB demonstrates that the Cobb angle in group SR and group SK in every time point. There is no difference ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "in Cobb angles between the groups before 8 weeks postoperation and from then on, the Cobb angle in group SR decreases so thatbecomes significantly lessthan that in group SK which is increasing.Figure C displays the kyphotic angles in group SR and group SK in every time point. There is no diference in kyphotic angle between the groups before 9 weeks postoperation and in12 weeks postoperation,there is significant difference in kyphotic angle between group SR and group SK which is less in group SR tha in group SK. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/df78c55adee63f8668c8c1a666ceeefc26457c771a3e1e61427dcd75fdb695d9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/043955dbcf6bcf7adfbb9ab48bbf07254d1507a13a3605da4919bb18ed05dfe5.jpg",
+        "img_caption": [
+            "图4示一个标本的顶椎上终板凹侧 $( A )$ 、凸侧 $( B )$ 以及下终板凹侧 $( C )$ 、凸侧 $( D )$ 的Micro-CT扫描后进行骨体积分数分析的结果。 Fig.4TheresultofBV/TVanalysisafterMicroCTscaning.ThefigureshowstheBV/TVintheconcavesideofsuperiorendplateof the apical vertebra (Figure $\\boldsymbol { A }$ ),in the convex side of superior end plate of the apical vertebra (Figure $B ^ { ' }$ ),in the concave side of inferiorendplateof theapicalvertebra (FigureC)andintheconvexsideoftheinferiorendplateoftheapicalvertebra(Figure $D$ 0 repectively. The main data in the figure is the BV, TVand BV/TV (Figure A: TV: $1 6 . 7 5 6 8 \\mathrm { m m } ^ { 3 }$ ,BV: $1 5 . 3 1 2 9 \\mathrm { m m } ^ { 3 } .$ ,BV/TV: 0.9138.Figure B: TV: $1 3 . 9 3 7 4 ~ \\mathrm { m m } ^ { 3 }$ BV: $1 2 . 0 8 2 4 ~ \\mathrm { m m } ^ { 3 }$ ,BV/TV: 0.8669.Figure C: TV: $2 9 . 1 7 2 0 ~ \\mathrm { m m } ^ { 3 } ,$ BV: $2 2 . 8 7 3 8 ~ \\mathrm { m m } ^ { 3 } .$ ，BV/TV: 0.7832.Figure $D$ TV: $1 4 . 8 1 7 8 \\mathrm { m m } ^ { 3 }$ BV: $1 1 . 4 6 6 1 \\mathrm { m m } ^ { 3 }$ BV/TV: 0.7738). ",
+            "图5示术后1周至8周时SR组与SK组拉簧形变量 Fig.5 The deformation of the spring during the procedure and there is no difference among each time point and so is between the group SR and group SK.According to Hook's law, the force that the spring provides during the experiment is stable. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将影响心肺功能。不对称载荷是引起脊柱侧凸众多病因中的一个，为了对其机制及治疗进行深入研究，一个合适的动物模型尤为重要。本研究建立了一种合适的动物脊柱侧凸模型，可为后续相关研究提供一定参考。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前常用的脊柱侧凸造模方法为栓系法，即通过物理栓系、制动等措施造成动物脊柱侧凸[8]。Somerville[9]通过丝线栓系兔的脊柱造成后凸畸形从而建立脊柱侧凸模型，但是该方法的可重复性不高。之后有研究者在其基础上用电刀行椎旁肌离断来建立脊柱侧凸模型[10-11],虽然可使脊柱侧凸出现,但Smith和Dickson认为[12]，用电刀行椎旁肌离断，容易损伤周围神经及组织。相比以往造模方法，本实验所采用方法只需在横突根部用磨钻制造直径 $1 \\mathrm { m m }$ 左右的小孔，可在尽量保存椎旁组织结构完整性的前提下进行造模。Carpintero[13]通过丝线将兔棘突与其上位三个椎体的一侧横突栓系在一起建立脊柱侧凸模型,于4周及12周时其Cobb角分别为 $1 7 . 1 8 { \\scriptstyle \\pm 6 . 1 1 ^ { \\circ } }$ 和 $2 9 . 1 2 { \\scriptstyle \\pm 5 . 8 0 ^ { \\circ } }$ ;本研究所采用建模方法也属栓系法，在维持栓系时,4周及12周时的Cobb角分别为 $2 3 . 4 7 { \\scriptstyle \\pm 3 . 7 0 ^ { \\circ } }$ 和 $3 2 . 2 5 { \\scriptstyle \\pm 4 . 6 1 ^ { \\circ } }$ ,较Carpintero 所用方法的效果更加显著。本模型不仅在冠状面上出现了侧凸的改变，矢状位上也出现了相应的后凸畸形改变，随着不对称力作用的时间延长，后凸角也逐渐增加。脊柱侧凸是一种复杂的三维脊柱畸形，除了侧凸畸形与后凸畸形，通常还伴有椎体旋转等结构上的改变，但是在病程早期,椎体旋转等畸形改变往往不明显。根据Wolff定律，骨小梁微结构应当在生物力学不平衡后即出现改变,其变化早于椎体或脊柱畸形。王储[15提出在侧凸早期，侧弯段椎体的骨体积分数会较早出现不对称改变,可早期定量分析脊柱侧凸发生发展倾向。此次实验的Micro-CT扫描结果示，顶椎应力相对集中的凹侧骨体积分数要大于凸侧,该结果与Laffosse等[1-7]的实验结果一致，他们对4周龄的猪的脊柱进行栓系，造成椎体左侧所受应力增大，3个月后取出高应力区的脊柱标本，行MicroCT扫面并计算分析其椎体终板的骨体积分数，结果也是在高应力区的骨体积分数明显增大，他们因此提出，高应力使得椎体终板形成一致密骨板。而椎体终板趋向于形成致密骨板之后使其内在的骨髓样组织和血管床变少[18],从而影响椎体终板对椎间盘的营养供给，引起椎间盘不对称退变，而椎间盘的不对称改变可以导致椎间隙楔形变，使得已经存在的脊柱侧凸畸形进展。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究与以往研究另一不同之处为利用拉簧进行栓系，从而在整个实验过程中，脊柱都能受到持续稳定的拉力作用。根据胡克定律，在相同弹性模量时，拉簧形变相同，产生的拉力相同。所有拉簧均为同批次，且在整个实验过程中，所有拉簧不同时间点之间的形变量无差异，表明拉簧在整个实验过程中都提供着持续稳定且大小相等的拉力，未因侧凸的进展而发生较大改变。相较于丝线栓系，用拉簧不仅可以量化脊柱所受拉力，还方便在实验过程中通过X线片对其进行观察，可以及时发现拉簧是否有松脱，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "单侧横突拉簧加压法具有对椎旁组织结构损伤小、拉力稳定、造模时间短且简便易操作等优点，但仍存在不足。相较于以往的模型，本模型的稳定性尚有所欠缺，在以后研究中，可考虑延长拉簧固定时间或增加拉簧拉力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过单侧横突拉簧加压法，我们成功建立兔脊柱侧凸模型，该模型在术后8周时可出现较为稳定的大体观畸形改变并伴有椎体微结构的改变。撤除外力后，侧凸会有所改善，但仍能维持一定的Cobb角。总之，该造模方法可重复率高、简单易操作、周期较短、造模效果好，能够为研究不对称载荷造成脊柱侧凸的机制及相应治疗方法提供一个相对可靠的动物模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Lewis C,Diaz R,Lopez G,et al.A preliminary study to evaluate postural improvement in subjects with scoliosis: active therapeutic movement version 2 device and home exercises using the Muligan's mobilization-with-movement concept[J]. JManipulative Physiol Ther,2014,37(7): 502-9.   \n[2]Mente PL,Aronsson DD, Stokes IA,et al. Mechanical modulation of growth for the correction of vertebral wedge deformities[J]. J Orthop Res,1999,17(4): 518-24.   \n[3] Mente PL, Stokes IA, Spence H,et al. Progression of vertebral wedging in an asymmetrically loaded rat tail model[J]. Spine (Phila Pa 1976),1997,22(12): 1292-6.   \n[4] Stokes IA, Spence H, Aronsson DD,et al. Mechanical modulation of vertebral body growth. Implications for scoliosis progression[J]. Spine (Phila Pa 1976),1996,21(10): 1162-7.   \n[5]赵 栋,邓树才,孙志明,等.胸腰段爆裂骨折后凸畸形不同测量方法比 较[J].中国脊柱脊髓杂志,2009,19(3):212-5..   \n[6] Kuklo TR,Polly DW, Owens BD,et al. Measurement of thoracic andlumbarfracturekyphosis:evaluationofintraobserver, interobserver,and technique variability[J]. Spine (Phila Pa 1976), 2001,26(1): 61-5; discussion 66.   \n[7]Aebi M. The adult scoliosis[J].Eur Spine J,2005,14(10): 925-48.   \n[8]Janssen MM,De Wilde RF,Kouwenhoven JW,et al. Experimental animal models in scoliosis research:a review of the literature[J]. Spine J,2011,11(4):347-58.   \n[9]Somerville EW. Rotational lordosis; the development of single curve [J].JBone Joint Surg Br,1952,34-B(3): 421-7.   \n[10]Dickson RA. Conservative treatment for idiopathic scoliosis[J].J Bone Joint Surg Br,1985,67(2): 176-81.   \n[11]Wittebol P. Idiopathic scoliosis；an experimental investigation [J]. Arch Chir Neerl,1956,8(3): 269-79.   \n[12] Smith RM,Dickson RA.Experimental structural scoliosis [J].J Bone Joint Surg Br, 1987,69(4): 576-81.   \n[13] Carpintero P,Mesa M,Garcia J,et al. Scoliosis induced by asymmetric lordosis and rotation: an experimental study[J]. Spine (Phila Pa 1976),1997,22(19): 2202-6.   \n[14]王 储.椎体骨小梁微结构形态学参数与脊柱侧凸的关系[D].北京: 协和医学院,2009.   \n[15]Laffosse JM,Odent T,Accadbled F,et al．Micro-computed tomography evaluation of vertebral end-plate trabecular bone changes in a porcine asymmetric vertebral tether[J].J Orthop Res, 2010,28(2): 232-40.   \n[16]Gruber HE,Ashraf N，Kilburn J,etal.Vertebral endplate architecture and vascularization: application of micro-computerized tomography，avascular tracer,and immunocytochemistryin analyses of disc degeneration in the aging sand rat[J]. Spine (Phila Pa 1976),2005,30(23): 2593-600. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(编辑：吴锦雅）",
+        "page_idx": 3
+    }
+]

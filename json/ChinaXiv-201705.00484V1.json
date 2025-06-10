@@ -1,0 +1,387 @@
+[
+    {
+        "type": "text",
+        "text": "Screen-printing fabrication of electrowetting displays based on poly(imide siloxane) and polyimide ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xia Chena, Tao Hea, Hongwei Jianga, Biming Wei², Guofei Chenb, Xingzhong Fangb, Mingliang Jina Robert A. Hayes ä,Guofu Zhouä, Lingling Shui a,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "stitutetroeuthdeaedtoeetroouhlvesitygu b Ningbo Instituteof MaterialTechnologyand Engineering,ChineseAcademyofSciences,Ningbo 315201,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nElectrowetting display   \nPrintable fabrication   \nScreen-printing   \nPolyimide ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We report a screen-printing fabrication process for large area electroweting display(EWD) devices using polyimide-based materials.The poly(imide siloxane)was selected as hydrophobic insulator layer,and relatively hydrophilic polyimide as grids material.EWD devices that use poly(imide siloxane)as hydrophobic insulator fabricated with conventional methods showed good and reversible electrowetting performance on both single droplet level and device level,which showed its potential application in EWDs. Thecompatibility of polyimide-based materials (hydrophobic poly(imide siloxane)and hydrophilic polyimide) guarantee the good adhesion between two layers and the capability of printable fabrication.To this end,the hydrophilic grids have been successfully built on hydrophobic layer by screen-printing directly.The resulting EWD devices showed good switch performance and relatively high yield. Compared to conventional method,the polyimide-based materials and method ofer the advantages of simple, cheap and fast fabrication,and are especially suitable for large area display fabrication. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Many experimental and theoretical activities have recently been taken in the field of electrowetting,driven by applications in lab-on-a-chip [1,2],adaptive lens and prisms [3-5],and highspeed reflective displays [6,7].The electrowetting concept for displayapplication was first recognized by Beni and co-workers more than three decadesago [8-11]. The reflective display technology based on electrowetting was first realized and published in 2003 by Hayes and Feenstra at Philips Research Labs [6].EWD has shown its potential for high quality information displays:(1) reflective mode for using ambient light and energy-saving;(2) quick response ( $< 2 ~ \\mathrm { m s }$ switching speed has been reached) for video display [12]；(3）good optical performance( $5 5 0 \\%$ white state reflectance [13] and full color [14]); and (4) fluidic and soft display materials for flexible displays in the future. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Based on the classical theory of electrowetting,an electrostatically induced reduction of contact angle on the hydrophobic surface occurs whena voltage is applied between the conductive fluid and electrode underneath[15].In the case of a sessile aqueous droplet ona hydrophobic insulating surface,the so-called electrowetting on dielectric occurs,as shown in Fig.1a and b.It is considered that thevoltage $V$ onlyinduces a change in the solid-liquid interfacial tension $\\gamma _ { s l }$ ；the interfacial tensions of solid-gas $\\gamma _ { s g }$ and liquid-gas $\\gamma _ { l g }$ are assumed to be unperturbed.The solid-liquid interfacial tension is reduced by an amount equal to the electrostatic energy $C V ^ { 2 } /$ 2,where $c$ isthe capacitance.As the electrode is covered by a hydrophobic insulating layer with thickness $d$ and dielectric constant $\\varepsilon _ { r } ,$ this can be described by: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cos \\theta _ { \\mathrm { v } } = \\frac { \\gamma _ { s \\mathrm { g } } - \\gamma _ { s \\mathrm { l } } } { \\gamma _ { \\mathrm { l g } } } + \\frac { 1 } { 2 } \\frac { C V ^ { 2 } } { \\gamma _ { \\mathrm { l g } } } = \\cos \\theta _ { 0 } + \\frac { \\varepsilon _ { 0 } \\varepsilon _ { \\mathrm { r } } } { 2 \\gamma _ { \\mathrm { l g } } d } V ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta _ { \\nu }$ and $\\theta _ { 0 }$ are the contact angles of the liquid droplet with the applied voltage of $V$ and O,respectively.This equation has been successfully employed by many investigators in correlating experimental results with theory for a significant change of the contact angle. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The display principle is shown in Fig.1c and d,utilizing a colored oil and transparent water dual fluidic system.In the absence of a voltage,the oil forms a continuous film in a pixel between the hydrophobic insulator-covered electrode and water due to the dominance of interfacial tensions: $\\gamma _ { \\mathrm { o w } } + \\gamma _ { \\mathrm { o i } } < \\gamma _ { \\mathrm { w i } }$ ，where Yow. Yoi and $\\gamma _ { \\mathrm { w i } }$ are the oil/water,oil/insulator and water/insulator interfacial tensions,respectively.Whena voltage isapplied between the top and bottom electrodes,the stacked state is no longer energetically favorable since an electrostatic force isadded.Water moves towards the insulator,pushing the oil filmaside or break.In this way,the optical properties of the stack,when viewed from the top,are tuned betweena colored off-state (dyed oil) and a white on-state (color of bottom substrate).Thus a simple and highly reversible optical switch is obtained,driven by electrowetting. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.1c and d, the standard configuration of an EWD device consists of the bottom substrate with electrodes,a hydrophobic insulator layer,hydrophilic grids,colored oil and conductive liquid,and electrodes on the top substrate.The response of electrowetting effect highly depends on the properties of these materials.Particularly,the properties of the hydrophobic insulating layer are known to play a key role in EWD devices [2].To obtain a wide contact angle change with low voltage,the high initial contact angle of the conductive liquid is preferred.To obtain both insulatingand hydrophobic functions,multilayers have also been studied. Inorganic insulating materials like $\\mathrm { S i O } _ { 2 }$ [2], $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ [16], SiOC[16]， orONO（oxide-nitride-oxide）[17] havebeen investigated,combined with a hydrophobic coating layer.This offersa larger contact angle change at the same applied voltage due to their higher values of dielectric constant. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The most commonly used hydrophobic insulator coatings for EWD devices are amorphous fluoropolymers such as AF16oo from DuPont [6,18],FluoroPel 1601V from Cytonix [19,20] and Cytop CTL-809M from Asahi Glass [21]. The low surface tension and viscosity makesit possible to fabricatea homogeneous filmby screen printing.We have successfully screen-printed commercial fluoropolymers as the EWD hydrophobic insulator layer (not published). However,these materialsare relatively expensive,and not compatible with commonly hydrophilic grids.Therefore,sophisticated surface treatment has to be done: low power plasma treatment [20,22,23] or chemical etching [24]. The typical EWD fabrication process is shown in Fig.2 where the surface plasma treatment and high-temperature recovery steps are critical and time-consuming.This also limits its applications in cheap and quick fabrication forindustrialization.Currently,the hydrophilic gridsare still fabricated usingphotolithographywhichagain includes several steps: coating,pre-baking,exposing,post-bakingand developing.Cheaper materials and simpler fabrication procedure are highly required for the technology development and industrialization. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Polyimide has the advantages of high thermal stability,good chemical resistance,good optical property and ease of processing, therefore has been widely applied in many high performance applications [25-28].Among them,in poly(imide siloxane）the polysiloxane component imparts a number of beneficial properties to the polymeric system,including high hydrophobicity,low surface energy，high flexibility,enhanced solubility,reduced water sorption and gas permeability,good thermal and ultraviolet stability[29-31].These particular advantages render polysiloxane-modified polyimides an excellent candidate for hydrophobic insulator materials as part of EWD devices.Furthermore,the polyimidepolyimide adhesion mechanism has been investigated and proven previously[32,33].Therefore,the hydrophilic polyimide with good adhesion to hydrophobic poly(imide siloxane）surface，can be directly built up as the pixel wall material in EWD devices without surface treatment. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b573ad63a433663d0bdc3f85c81a9786162f7217a4a192e5d12681159727168.jpg",
+        "img_caption": [
+            "Fig.2. Schematic process flow in the conventional fabrication and the proposed printing fabrication process.The black arrows indicate conventional fabrication process,and red arrows indicate the new fabrication process.(For interpretation of the references to colour in this figure legend,the reader is referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c1b5f8a87890dca6bf77d285a00571d6428efef0831706f4a3f11a5750cf7fb.jpg",
+        "img_caption": [
+            "igai angle of $\\theta _ { 0 }$ (b) With an applied voltage of $V ,$ the droplet spreads on the surface with a contact angle of $\\theta _ { V }$ (c) Inan EWD pixel,without applied voltage,a homogeneous oil film spreads over the pixel area showing the colorof the dyed oil.(d)Inan EWD pixel,withan applied voltage of $V ,$ the oil film contracts to one corner of the pixel,showing the color of the bottom substrate. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Screen-printing is one of the versatile,simple,fast,cost-effective coating techniques,and it has been successfully used in solar cell [34] and PCB [35] fabrication. It does not require expensive vacuum technology，and can be applied to any surface shape and size. Screen-printing is suitable for deposition of thin films greater than $0 . 5 \\mu \\mathrm { m }$ thickness [36]. Zhou [23] has demonstrated to print sealing agent onto the top sealing substrate for EWD display coupling. However,by now,nobody else has applied this technology in other steps of EWD fabrication. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this article,we report a simple EWD device fabrication method based on new materials for which the hydrophilic polyimide grids can be directly built onto the hydrophobic insulator layer by screen printing.Because the compatibility of hydrophobic poly(imide siloxane) and hydrophilic polyimide,they have good self-adhesion property in nature.These two layers can stick together steadily just by screen-printing.The test results of the EWD devices showed good electrowetting performance.Compared to the traditional method,the new method simplifies the fabrication process and lowers the cost. Such principle can also be used ina variety of other fields,for example fabrication of flexible displays or quick formation of microstructures. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.Materials ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The hydrophobic insulator material used is poly(imide siloxane) block copolymers based on diphenylthioether dianhydride isomer mixtures[31] and the pixel wall（grid）material isa hydrophilic transparent polyimide[37],both materialswere designed and synthesized in Ningbo Institute of Material Technology and Engineering,Chinese Academy of Sciences,China.Indium Tin Oxide(ITO) coated glass ( $\\mathrm { . 0 . 7 \\ : m m }$ thick) with resistance of $1 0 0 \\Omega / \\bigsqcup$ (purchased from Shenzhen Laibao Hi-Tech Co.Ltd,China) was used as bottom and top substrates.Deionized water(DI water) was obtained from the water purification system (Ultra pure UV,Shanghai Hitech Instruments Co.,Ltd, China).The basic cleaning detergent RM11- 07 was purchased from Runmon (Shenzhen,China). Isopropanol, N,N-dimethylacetamide(DMAC) and propylene glycol methyl ether acetate(PGMEA）was purchased from Aladdin,with analytical grade and used without treatment.SU-8 3oo5 photoresist was purchased from Microchem Corp.(Newton,MA). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.Equipments and characterization ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The screen printer equipment was purchase from a local company(Model 3o5o,Dongguan,China),and its screen (the mask for screen printing) was designed by ourselves and made ina company(Kunhong,Dongguan,China).The spin coater KW-5 (Institute of Microelectronics,Chinese Academy of Science)was used to coat thin films on $3 ^ { \\prime \\prime }$ substrate.Hot plate(EH2OB Lab Tech,China) was used for baking processes.Exposure system (URE-2ooO/35,Institute of Opticsand Electronics,Chinese Academy of Science,China) was used for lithography.The reactive ion etching(RIE) equipment (ME-6A,Institute of Microelectronics, Chinese Academy of Science, China)was used for surface plasma treatment. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Film thickness was measured by the Dektak(Dektak XT,BRUKER,Germany).An impedance analyzer (WAYNE KERR 6500B, UK)was used to drive and measure the electrical properties (loss factor,capacitance).Both manual and automated testing were employed.The automatic process was driven bya personal computerand LABVIEW software.The electrical circuit was completed byplacinga drop of $1 0 \\mu \\mathrm { L }$ of O.1 M NaCl on the insulator beneath the platinum needle electrode.Changes in the wetting behavior asa function of applied voltage were monitored optically with a goniometer (JC20oOC from POWEREACH,China).The fluidic movement driven by electrowetting was visualized and captured by usinga high speed camera (Phantom MiRO M11O,Vision Research, USA) integrated with a microscope (CKX41, Olympus,Japan). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the new materials and method for EWDs,we have done experiments at three stages.Firstly,the droplet electrowetting has been carried out to test the hydrophobic insulating layer of poly(imide siloxane). Secondly,to evaluate the device level performance,the EWD devices have been fabricated using the poly(imide siloxane) as hydrophobic insulator and SU-8 as pixel walls by conventional fabrication method.Thirdly,the EWD devices fabricated with the poly(imide siloxane）as hydrophobic insulator and hydrophilic polyimide as pixel walls by screen printing have been demonstrated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Dropletelectrowettingonpoly(imidesiloxane) film ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the initial set of experiments,poly(imide siloxane） films withdifferent thickness have been fabricated usingitsDMAC solution at different concentrations(data shown in Fig.3).As we know that thin film layer can reduce driving voltage of electrowetting performance,but easy to break.Sufficient thick films can meet the requirement of utilizing one layer for both dielectric and hydrophobic functions.Thicker films can be obtained by increasing concentration,but this will increase the driving voltage. In this experiment, $1 2 \\mathrm { w t } . \\%$ poly(imide siloxane) solution was chosen to produce $2 . 1 \\mu \\mathrm { m }$ thick film by spin coating,according to the film quality and droplet electrowetting performance. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The poly(imide siloxane） film hasa relatively high dielectric constant of ${ \\sim } 3 . 2$ andrefractive index of1.5.The higher dielectric constant makes it potentiallya better dielectric layer in EWD devices with low driving voltage.The electrowetting effect on the poly(imide siloxane) film $( 2 . 1 \\mu \\mathrm { m } )$ was performed by measuringthe contactangle of $1 0 \\mu \\mathrm { L } 0 . 1$ MNaCl droplets asa function of applied voltages.Fig.4 shows the droplet electrowetting performance on a $2 . 1 \\mu \\mathrm { m }$ poly(imide siloxane） film.The initial contact anglewas ${ \\sim } 1 0 1 ^ { \\circ }$ ，decreasing to ${ \\sim } 8 9 ^ { \\circ }$ as the DC voltage increased to $7 5 \\mathrm { V }$ ，Over a considerable voltage range(up to $5 0 \\mathrm { V }$ )，the experimental contact angle data were in agreement with values calculated from electrowetting theory,where the induced contact angle changewas about $1 1 ^ { \\circ }$ .When the applied voltage reached $V _ { s } ,$ namely the saturation voltage, $5 0 \\mathrm { V }$ here,the measured contact angle did not further decrease,indicating the contact angle saturation by electrowetting.When the applied voltage exceeded $V _ { s } ,$ the measured contact angle started to deviate from the theoretical expected behavior.Lower contact angle could still be obtained; however the droplet tended to leap from the probe electrode due to inhomogeneous charge injection [38]. The electrowetting response isanalogand reversible in each measurement.After withdrawing the voltage,the contact angle of the water droplet recovered to ${ \\sim } 1 0 0 ^ { \\circ }$ ，which was very close to the initial contact angle. Most importantly,the low contact angle hysteresis was observed (onlyseveral degrees).This characteristic is highly required for actual EWDapplications. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bf7b39549b92a40ef2c028eb4ad3d394fff629e29ff31348d9ed7cc97a7f7d0.jpg",
+        "img_caption": [
+            "Fig.3.Film thickness versus the concentration of the poly(imide siloxane) in DMAC solution. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e4cbeeb93756f52523d601188a9ad4434f0416e210f93d721987b331d177179.jpg",
+        "img_caption": [
+            "Fig.4.The dependence of the contact angle on the applied voltage on a $2 . 1 \\mu \\mathrm { m }$ thick poly(imide siloxane) film.The symbols correspond to the experimental data from repetitive electrowetting scans and the solid lines to the electroweting theory based on Eq.(1). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e02ba3e4f98c667ffb3fee71ec8cbef32921a46a86d17c5bd63eeedfa41cab82.jpg",
+        "img_caption": [
+            "Fig.5.The contact angle change of a water droplet on poly(imide siloxane) film after each step in the conventional EWD fabrication process. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Corresponding to the conventional EWD fabrication process (see Fig.2), the advancing and receding contact angles were measured in each fabrication stepand were shown in Fig.5.The initial advancing contact angle of the poly(imide siloxane) was $1 0 7 ^ { \\circ }$ ,and receding contact angle was $9 7 ^ { \\circ }$ .During the low power oxygen plasma etching,the surface hydrophilicitywas increased due to the incorporation of the oxygen-bearing groups.Moreover，the oxygen plasma treatment increased the surface roughness,which also had an effect on the surface wettability.Asa result,both advancing and receding contact angles decreased.The receding contact angle decreased more dramatically than the advancing contact angle,and asa consequence,the contact angle hysteresis increased.In this case,the poly(imide siloxane) had good adhesion to other hydrophilic material pixel wall materials like SU-8 3005 used here. SU-8 3oo5 was then spin coated on the top of the activated poly(imide siloxane) and patternedto pixel wallsbyphotolithography. To regain the hydrophobicity of the poly(imide siloxane） surface for proper EWD operation，the plate was annealed at $1 2 0 ^ { \\circ } \\mathsf C$ for $9 0 \\mathrm { m i n }$ .By taking the plasma-oxidized film above its melting point, the lowest surface energy components in the film move from the “bulk\"to the top surface,while the oxidized molecules move toward the bulk of the film.This results in fresh hydrophobic groups on the surface.The contact angle increased again by the anneal process,for which the advancing contact angle was $1 0 3 ^ { \\circ }$ and the receding contact angle was $7 3 ^ { \\circ }$ It should be mentioned here that the process conditions during oxygen plasma irradiation need to be carefully selected in order toregain the hydrophobicity of the poly(imide siloxane).Very small changes in process conditions (such as a few watts more of the plasma power,1 or2s longer exposure time)are sufficient to result in either no change in hydrophobicity or irreversible change to a hydrophilic condition. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.EWD performance on devices fabricated by normal fabrication method with poly(imide siloxane) as hydrophobic insulator and SU-8 3005 as pixel walls ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to evaluate the EWD performance of poly(imide siloxane)hydrophobic insulator on the device level,we fabricated the EWD devices using the normal fabrication process.The detailed fabrication process is shown in Fig.2.It consists 7 steps:(1)Plate cleaning:the ITO glass was cleaned by sonicating in $0 . 2 \\%$ basic detergent for $5 \\mathrm { { m i n } }$ ，thorough rinsing in high purity water for $3 \\mathrm { m i n }$ ，dryingin the oven for $0 . 5 \\mathrm { h }$ at the temperature of $1 1 0 ^ { \\circ } { \\mathsf { C } }$ 0 (2）Hydrophobic insulator coating: the poly(imide siloxane) $1 2 \\mathrm { w t } . \\%$ in DMAC solution was spin-coated at $1 4 2 0 \\mathrm { r p m }$ for $3 0 s$ onto the pre-cleaned substrate,after $^ { 2 \\mathrm { h } }$ baking and annealing cycle,yieldinga hydrophobic filmwithathickness of $2 . 1 \\mu \\mathrm { m }$ (3) Surface modification: a low power(5 W,10 s) oxygen plasma irradiation was carried out in the reactive ion etching(RIE) system to render the surface wettability;(4） Pixel wall patterning:lithographic process was used to create pixel walls,which includes: spin coating SU-8 3oo5 photoresist,soft baking,exposing using URE-2ooo-35 aligner， post-exposure baking，and developing, resulted $1 5 0 \\mu \\mathrm { m } \\times 1 5 0 \\mu \\mathrm { m }$ pixels with $1 5 \\mu \\mathrm { m }$ wide and $5 . 5 \\mu \\mathrm { m }$ thickpixel walls;(5） Surface recovery(reflow) was performed to regain the poly(imide siloxane）hydrophobicity by a thermal anneal process at the temperature of $1 2 0 ^ { \\circ } \\mathsf C$ for $9 0 \\mathrm { m i n }$ ; (6)Filling the dyed oil to the pixels was carried out by usinga self-assembly method;(7) Coupling was then finished byaligning and sealing the plates witha cover (top) plate leading to a complete EWD device. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EWD devices with $2 . 1 \\mu \\mathrm { m }$ thick poly(imide siloxane) hydrophobic insulator and $1 5 0 \\mu \\mathrm { m } \\times 1 5 0 \\mu \\mathrm { m }$ SU-8 3005 pixels have been obtained.Each device had anactive area of3 in.with the resolution of 154 ppi. Each pixel contained the polar conducting(DI water) liquid and the non-polar(colored decane) liquid.The oil film thicknesswas similar to the height of pixel walls which was about $5 . 5 \\mu \\mathrm { m }$ .Electrical driving of the EWD device was controlled by an impedance analyzer.The fluidic motion in the devices was captured bya high speed camera.In the OFF state,the colored oil occupied the entire pixel area,as shown in Fig.6a.When sufficient voltagewasapplied,the electrowetting force displaced the colored oil into the corner of each pixel,resulting in a white pixel,as shown in Fig.6b.Pixels clearly started to open at $2 5 \\mathrm { V }$ ,which is required to initiate the movement of the colored oil film.The higher voltage we applied, the larger area of the reflective substrate electrode was exposed.The white area fraction (see Eq.(2)) increase from $0 \\%$ to $6 5 \\%$ of the total area,when the bias was gradually increased to $4 0 \\mathrm { V }$ ，seen in Fig.6b.The highest voltage we applied was $6 0 \\mathrm { V }$ and $80 \\%$ white area fraction could be obtained.After switching off the electrical field,the displaced oil returned and re-covered the entire device again ( $100 \\%$ oil coverage,shown in Fig. 6c). The process can be repeated for many cycles,and no degradation phenomenon was observed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0a4af2abe28384963fdf2eebb12090c8452cb41275a617ab1b83084b1dbd552.jpg",
+        "img_caption": [
+            "g and SU-8 3oo5 was use as hydrophobic insulator and pixel walls,respectively.The pixels are $1 5 0 \\mu \\mathrm { m } \\times 1 5 0 \\mu \\mathrm { m }$ with the pixel walls of $1 5 \\mu \\mathrm { m }$ thick and $5 . 5 \\mu \\mathrm { m }$ high. (d) The white area fraction as a function of the applied voltage. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The device performance was evaluated through measuring the white area fraction(and resulting transmission） change with the applied voltage,the resultis shown in Fig.6d.The whitearea fraction was defined as: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathsf { W A } } \\% ( V ) = \\left( 1 - { \\frac { A _ { \\mathrm { o i l } } ( V ) } { A _ { \\mathrm { p i x e l } } } } \\right) \\times 1 0 0\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$A _ { \\mathrm { o i l } }$ and $A _ { \\mathrm { p i x e l } }$ are the area occupied by oil and the overall pixel area,respectively,and $V$ represents the applied voltage.Dynamic images of the fluidic motion were also taken using the digital camera.With an applied voltage of $4 0 \\mathrm { V } ,$ ，the opening process took $3 5 \\mathrm { m } s$ ，and the closing process (when switch off electrical field) was $6 0 \\mathrm { m } s$ .The closing process(driven by surface tension） is typically slower than the opening process (driven by electrical field) in these devices because of the relatively large area of the pixels. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.EWD performance on devices fabricated by screen printing with poly(imide siloxane)as hydrophobic insulator and hydrophilic polyimide aspixel walls ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The screen-printing fabrication method using poly(imide siloxane)as hydrophobicinsulatorand polyimideas hydrophilic grids (pixels) has been successfully demonstrated.This fabrication process is shown in Fig.2(red arrow process flow). There is no need for surface treatment,reflow and lithography,which simplified the conventional fabrication from 7 steps to 5 steps. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To create the EWD device with new materials,it is crucially important to choose right polyimide materials as the hydrophobic insulator and the hydrophilic pixel walls.The two materialswe chose(see Section 2.1) had good adhesion and did not dissolve in the oil or water solution.The hydrophilic polyimide has the advancing contact angle of $7 4 ^ { \\circ }$ and receding contact angle of $5 0 ^ { \\circ }$ = The balance of material's properties (viscosity and surface tension) for creating pixel walls by screen-printing is a criteria for the fabrication procedure.Higher viscosity liquid is easy to form erect pixel walls,but difficult for screen printing because of the blockage of the screen.When the concentration is too low, the pixel walls are tend to be wide and short because of the good leveling property oflow viscosity solution.Different conditions have been tried,and the optimal concentration of 15 wt $\\%$ DMAC solution has been chosen based on the compatibility with the equipment (pressure and distance),and dimensions of the pixel walls. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The hydrophilic polyimide pixel walls were built up directly on hydrophobic poly(imide siloxane） layer using screen-printing.A stainless steel screen with 4Oo mesh counts per inch, $2 4 \\mu \\mathrm { m }$ wire diameter, $4 5 ^ { \\circ }$ woven and $5 3 \\mu \\mathrm { m }$ opening size was utilized to print thepixel walls.Before printing the squeegee,the screen and the pre-coated substrate should be adjusted to be horizontal, setting the proper pressure of the squeegee,the printing speed,and the distance between the screen and the substrate $( 1 - 2 \\mathrm { m m } )$ .The printing solution ( $1 5 \\mathrm { w t } . \\%$ polyimide dissolved in DMAC）was applied to the screen covering the width of the screen. The squeegee traveled over the screen,pushing the screen into contact with the substrate,thus depositing solution onto the substrate surface. The whole printing process should be done as quick as possible to avoid DMAC absorbing water or evaporating.The sample was transferred to the oven immediately to be baked at $8 0 ^ { \\circ } \\mathsf { C }$ for $^ { 3 \\mathrm { h } }$ to remove the solvent.The pixel walls were then obtained via this direct screen printing process.In this case,surface modification, ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cdc5acd4405b24f47ba896455288ab3bb62f158169e6ce6139457a337c592787.jpg",
+        "img_caption": [
+            "Fig.7.Microscopic photographs of the screen structure (a)and screen-printed pixels (b).The pixels are $5 4 0 \\mu \\mathrm { m } \\times 5 4 0 \\mu \\mathrm { m }$ ,and the pixel wallsare about $5 . 0 \\mu \\mathrm { m }$ high and $6 0 \\mu \\mathrm { m }$ wide. ",
+            "Fig8Mico hydrophilic polyimide was used as hydrophobic insulator and pixel walls,respectively.The pixels are $5 4 0 \\mu \\mathrm { m } \\times 5 4 0 \\mu \\mathrm { m }$ with the pixel walls of about $5 . 0 \\mu \\mathrm { m }$ high and $6 0 \\mu \\mathrm { m }$ wide. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "BIUNNBR lithograph and reflow processes were all be omitted.The whole fabrication process only includes 5 steps:cleaning,hydrophobic insulator coating,hydrophilic grid printing,filling and coupling. It provides a simpler and faster fabricate procedure for EWD devices. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 shows the images of the screen used and the printed pixels.The opening and emulsion covered area ratio was $6 0 \\mu \\mathrm { m } /$ $5 4 0 \\mu \\mathrm { m }$ .The thickness of photosensitive emulsion was $7 8 \\mu \\mathrm { m }$ the defining pixel size was $5 4 0 \\mu \\mathrm { m } \\times 5 4 0 \\mu \\mathrm { m }$ ，the total screen printed area was $6 . 0 6 \\ : \\mathrm { c m } \\times 6 . 0 6 \\ : \\mathrm { c m }$ forthe methodology evaluation,resulting in the resolution of 42 ppi. The height of the pixel wall was controlled by the emulsion thickness,the squeegee pressure,the distance between the substrate and the screen,the concentration of the hydrophilic polyimide,or the double stroke.We have also screen-printing fabricated larger devices with the pixel size of $7 0 \\mu \\mathrm { m } / 5 3 0 \\mu \\mathrm { m }$ ， $8 0 \\mu \\mathrm { m } / 7 2 0 \\mu \\mathrm { m }$ ，and $1 0 0 \\mu \\mathrm { m } /$ $7 0 0 \\mu \\mathrm { m }$ ， ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As indicated in Fig.8,the screen printing fabricated device was successfully switched ON and OFF. Interestingly,this device has lower driving voltage.The pixel started to open at $1 0 \\mathrm { V } .$ ，the oil coverage decrease to $20 \\%$ as the voltage increased to $2 0 \\mathrm { V } .$ This might be due to the wetting properties of hydrophobic insulator and relatively hydrophilic grids,and the thinner oil film confined in the larger pixels.Low driving voltage is favorable for EWD application,which lower the energy consumption.The main disadvantage of this method is still the resolution of the printed devices,which would affect the switching speed in the end. For the device shown in Fig.8c,2 s was needed for the oil to re-cover the pixel area after the removal of the voltage.According to the balance between driving voltage and reversibility,suitable dimensions should be designed and tested.When optimal conditions were obtained, the printing process would bring us to a new stage for larger scale,simpler,cheaper and potentially flexible display fabrication. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary,we proposed and successfully verified a simple approach to fabricate EWD devices via screen-printing technology byusing polyimide-based materials.According to the compatibility of materials for device fabrication,poly(imide siloxane）was chosenas the hydrophobic insulator layer and hydrophilic polyim ide was chosen as the hydrophilic pixel wall material.The hydrophobicinsulatormaterial wasevaluatedbydroplet electrowetting and normal EWD fabrication procedure,which showed good performance of both droplet electrowetting and in EWD devices (reversibility and quick response).Direct printing polyimide hydrophilic pixel walls on the poly(imide siloxane) hydrophobic insulator has been demonstrated successfully,and the completed devices demonstrated reversible EWD performance and low driving voltage. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We have demonstrated the printable EWD fabrication process using new materials.Printing technologies are highly required for quick,cheap and large area electronic devices. Screen printing is a simple,fast, reproducible and cheap wet processing technique under ambient environment.The requirements for its use are very modest and it can in essence be carried out anywhere with little prerequisites.It is very attractive to pursue the idea of printing all the layers of the EWD device using printing processes. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by National Nature Science Foundation of China (No.213o3O6O),Program for Changjiang Scholars and Innovative Research Team in University (No.IRT13064), Guangdong Natural Science Foundation (No. S2013010014418), and GuangdongInnovativeResearch Team Program（No. 2011Do39).The authors would like to acknowledge the editor (Professor Ji Ma) for inviting to present this work. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] M.G. Pollack, R.B. Fair, A.D.Shenderov, Electrowetting-based actuation of liquid droplets for microfluidic applications, Appl. Phys. Lett.77 (2000) 1725-1726. [2]H. Moon， S.K. Cho，R.L. Garrell, C.J. Kim， Low voltage electrowetting-ondielectric, J. Appl. Phys. 92 (2002) 4080-4087.   \n[3]B. Berge, J. Peseux, Variable focal lens controlled by an external voltage: An application of electrowetting, Eur. Phys. J. E3 (2000) 159-163.   \n[4] N.R. Smith, D.C. Abeysinghe, J.W. Haus, J. Heikenfeld, Agile wide-angle beam steering with electrowetting microprisms, Opt. Express 14 (2006) 6557-6563.   \n[5] S. Kuiper, B.H.W. Hendriks, Variable-focus liquid lens for miniature cameras, Appl. Phys. Lett. 85(2004) 1128-1130.   \n[6] R.A. Hayes, B.J. Feenstra, Video-speed electronic paper based on electrowetting, Nature 425 (2003) 383-385.   \n[7] J.Heikenfeld, A.J. Steckl, Intense switchable fluorescence in light wave coupled electrowetting devices,Appl. Phys. Lett. 86 (2005) 011105.   \n[8]G.Beni,M.A. Tenan, Dynamics of electrowetting displays,J. Appl. Phys. 52 (1981) 6011-6015. [9] J.L. Jackel，S. Hackwood,J.J. Veselka，G. Beni，Electrowetting switch for multimode optical fibers, Appl. Opt. 22(1983) 1765-1770.   \n[10] J.L. Jackel,S. Hackwood, G. Beni, Electrowetting optical switch, Appl. Phys. Lett. 40 (1982) 4-6.   \n[11] G. Beni, S.Hackwood, Electrowetting displays, Appl. Phys. Lett.38(1981) 207- 209.   \n[12]N.R. Smith, L.L. Hou, J.L. Zhang,J. Heikenfeld, Fabrication and demonstration of electrowetting liquid lens arrays, J. Disp. Technol. 5 (20o9) 411-413.   \n[13] J. Heikenfeld, N. Smith, M. Dhindsa, K. Zhou, M. Kilaru, L.L. Hou, J.L. Zhang, E. Kreit,B. Raj, Recent progress in arrayed electrowetting optics, OPN 4 (2009) 20-26.   \n[14] J. Heikenfeld, K. Zhou, E. Kreit, B. Raj, S. Yang, B. Sun, A. Milarcik, L. Clapp, R. Schwartz, Electrofluidic displays using Young-Laplace transposition of brilliant pigment dispersions, Nat. Photonics 3 (2009) 292-296.   \n[15]F. Mugele, J.C. Baret, Electroweting: from basics to applications,J. Phys. Condes. Matter 17 (2005) R705-R774.   \n[16] R. Malk, Y. Fouillet,L. Davoust, Rotating flow within a droplet actuated with AC EWOD, Sens. Actuators B 154 (2011) 191-198.   \n[17] A.G. Papathanasiou， A.T. Papaioannou, A.G. Boudouvis, Iluminating the connection between contact angle saturation and dielectric breakdown in electrowetting through leakage current measurements, J. Appl. Phys. 103 (2008) 034901.   \n[18] E. Seyrat, R.A. Hayes,Amorphous fluoropolymers as insulators for reversible low-voltage electrowetting, J. Appl. Phys. 90 (2001) 1383-1386.   \n[19] B. Koo, C.J. Kim,Evaluation of repeated electrowetting on three different fluoropolymer top coatings, J. Micromech. Microeng. 23 (2013) 067002.   \n[20] D.Y. Kim, A.J. Steckl, Complementary electrowetting devices on plasma-treated fluoropolymer surfaces, Langmuir 26 (2010) 9474-9483.   \n[21] S. Berry，J. Kedzierski，B. Abedian，Irreversible electrowetting on thin fluoropolymer films, Langmuir 23 (2007) 12429-12435.   \n[22] P. Sureshkumar, S.S. Bhattacharyya, Display applications of electrowetting, J. Adhes. Sci. Technol. 26 (2012) 1947-1963.   \n[23] K. Zhou, J. Heikenfeld, K.A. Dean, E.M. Howard, M.R. Johnson, A full description of a simple and scalable fabrication process for electrowetting displays,J. Micromech.Microeng.19 (2009) 065029.   \n[24]P. Sureshkumar，M.Kim，E.G.Song，Y.J. Lim，S.H.Lee，Effect of surface roughness on the fabrication of electrowetting display cells and its electrooptic switching behavior, Surf. Rev. Lett. 16(2009) 23-28.   \n[25] N. Asano, M. Aoki, S. Suzuki, K. Miyatake, H. Uchida, M. Watanabe, Aliphatic/ aromatic polyimide lonomers as a proton conductive membrane for fuel cell applications, J. Am. Chem. Soc.128 (2006)1762-1769.   \n[26] D.J. Liaw, K.L. Wang, Y.C. Huang, K.R. Lee, J.Y. Lai, C.S. Ha, Advanced polyimide materials: syntheses, physical properties and applications,Prog. Polym. Sci. 37 (2012) 907-974.   \n[27] A.P. Kharitonov, Direct fluorination of polymers - from fundamental research to industrial applications, Prog. Org. Coat. 61 (2008) 192-204.   \n[28]W.J.J.Welters,L.G.J.Fokkink, Fast electrically switchable capillary effects, Langmuir 14(1998) 1535-1538.   \n[29] J.E. McGrath，D.L. Dunson，S.J. Mecham，J.L. Hedrick, Synthesisand characterization of segmented polyimide-polyorganosiloxane copolymers, Adv.Polym. Sci. 140 (1999) 61-105.   \n[30] X.L. Pei, G.F. Chen, X.Z. Fang, Synthesis and properties of poly(imide siloxane) block copolymers with different block lengths, J. Appl. Polym. Sci.129 (2013) 3718-3727.   \n[31] X.L. Pei, G.F. Chen, X.Z. Fang, Preparation and characterization of poly(imide siloxane）block copolymers based on diphenylthioether dianhydride isomer mixtures,High Perform. Polym. 23(2011) 625-632.   \n[32]T.H. Wang, S.M. Ho, H.L. Chen, K.M. Chen, S.M. Liang, A. Hung, Studies on PI/PI adhesion strength,J. Appl. Polym. Sci. 51 (1994) 415-422.   \n[33] J.H. Jou, C.H. Liu, J.M. Liu, J.S. King, Adhesion of polyimide to silicon and polyimide, J. Appl. Polym. Sci. 47 (1993) 1219-1232.   \n[34] F.C. Krebs, Fabrication and processing of polymer solar cells: a review of printing and coating techniques, Sol. Energy Mater. Sol. Cells 93 (2oo9) 394- 412.   \n[35] B.P. Carr, Introduction to thick film fine line printing screens,Microelectron. Int. 11 (1994) 4-7.   \n[36] S.E. Shaheen,R. Radspinner, N. Peyghambarian, G.E. Jabbour, Fabrication of bulk heterojunction plastic solar cells by screen printing, Appl. Phys. Lett. 79 (2001) 2996-2998.   \n[37] H.B.Wei,G.F.Chen,X.Z.Fang,Y.J.Hou,J.C.Guo,J.G.Wang,Transparent polyimide resin and its preparation, CN 102382303 A, China (2011).   \n[38] A.I. Drygiannakis,A.G. Papathanasiou,A.G. Boudouvis,On the connection between dielectric breakdown strength, trapping of charge,and contact angle saturation in electrowetting, Langmuir 25 (20o9) 147-152. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

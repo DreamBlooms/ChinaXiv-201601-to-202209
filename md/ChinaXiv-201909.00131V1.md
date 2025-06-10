@@ -1,0 +1,149 @@
+# 亚洲中部干旱区绿洲水热匹配与生物、农业技术适应性分析
+
+潘旭东'，王江丽'，吴玲²，张建萍¹，赖先齐'(1．石河子大学农学院/新疆生产建设兵团绿洲生态农业重点实验室,新疆石河子832003；2．石河子大学生命科学学院,新疆石河子832003)
+
+摘要：亚洲中部干旱区“中亚天山北坡—新疆天山北坡—甘肃祁连山北坡"山前平原,在古丝绸之路和现代丝绸之路经济带时期均为社会、经济、文化最繁荣的重要地区。而一个地区某生物的生长发育除与降水、气温有关外，还与当地的水热匹配特征密切相关。中亚天山北坡区段水热不同步一新疆天山北坡区段水热较同步一甘肃祁连山北坡河西走廊区段水热同步的生态环境，深刻地影响着当地的天然动植物种类及其生长发育，使某些生物在研究区内各区段间形成了发生中心区、扩散区及无发生区的规律性分布;不同区段多项绿洲农业技术的差异性也反映出其对当地水热匹配特征的适应性。
+
+关键词：水热匹配；春季短命植物；琵琶柴；土耳其斯坦叶螨；绿洲农业技术；亚洲中部干旱区
+
+亚洲中部干旱区包括：帕米尔高原一青藏高原以北，乌拉尔山一阿尔泰山以南，里海、伏尔加河以东,至贺南山—乌鞘岭的广大区域[14]。其中“中亚天山一新疆天山一甘肃祁连山北坡山前平原”可视为3区段,横跨经度 $6 4 ^ { \circ } \sim 1 1 3 ^ { \circ }$ 、纬度 $3 8 ^ { \circ } \sim 4 5 ^ { \circ }$ ，是丝绸之路经济带的重要地区。据文献调查统计，前人对本地区气温和降水变化特征研究较多[5-6],而对不同区段间降水特征和年内月降水量与月平均气温匹配特征的研究相对较少，缺乏从数理统计的角度进行分析。由于各区段间大气环流不同，其水热环境呈现出不同的变化规律，使某些生物出现“发生中心区一扩散区一无发生区”的分布特性。同时，各区段间农业技术也存在差异，尤其是滴灌技术的不同，对当地农业生产及生态环境保护也不尽相同。
+
+本研究在各区段分别选取2～3个具有代表性的典型城市(表1），从中国气象科学数据共享服务网等搜集年降水量、逐月降水量、气温等数据，进行分析。
+
+# 1降水及水热匹配特征
+
+根据表1从西到东可分为：中亚天山北坡山前平原（月际降水量差异大而水热不同步）、新疆天山北坡山前平原(月际降水量差异不大）、祁连山北坡山前平原(月际降水量差异大而水热同步)3大不同降水特征及水热匹配特征的生态一经济区段。
+
+表13区段降水特征比较  
+Tab.1 Comparison of the precipitation characteristics in the study areas   
+
+<html><body><table><tr><td rowspan="2">区段</td><td colspan="4">降水量</td><td colspan="4">月降水量变异系数</td></tr><tr><td>全年降水量</td><td>6-9月降水量</td><td></td><td>10 月至次年5月降水量</td><td></td><td>月平均降</td><td>标准偏差</td><td>标准偏差（S）/</td></tr><tr><td>中亚天山北坡山前平原</td><td>/mm</td><td>/mm</td><td>/%</td><td>/mm</td><td>/%</td><td>水量/mm</td><td>(Sx）/mm</td><td>月平均降水量/%</td></tr><tr><td>新疆天山北坡山前平原</td><td>352.8 246.1</td><td>24.7 88.5</td><td>7.0 36.0</td><td>328.1 157.9</td><td>93.0 64.0</td><td>29.39 20.49</td><td>19.48 6.60</td><td>66.02 32.77</td></tr><tr><td></td><td>148.0</td><td></td><td></td><td></td><td>28.0</td><td>12.33</td><td>11.53</td><td>93.48</td></tr><tr><td>甘肃祁连山北坡山前平原</td><td></td><td>106.5</td><td>72.0</td><td>41.5</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：中亚天山北坡山前平原代表城市:撒玛尔罕、塔什干、塔拉兹;新疆天山北坡山前平原代表城市:伊犁、石河子、乌鲁木齐;甘肃祁连山北坡山前平原代表城市：张掖、武威。
+
+![](images/319ba5cce40334a829c9121e12698ec176b182272aa43269f77a228d273d8c5e.jpg)  
+图1中亚天山一新疆天山一甘肃祁连山北坡山前平原降水与气温的相关性分析  
+Fig.1 Correlation analysis of precipitation and air temperature in the study areas
+
+位于中亚天山北坡山前平原的撒玛尔罕、塔什干、塔拉兹地处天山最西段，秋、冬及春季（10月至次年5月)西风环流带来较多降水( $3 2 8 . 1 \ \mathrm { m m }$ ，占全年 $9 3 . 0 \%$ ,为低温多雪、雨的“雨季”。春季该区段土壤水分较好，可供荒漠地区的天然植被、绿洲地区的农作物等使用及补充河水。而夏季(6一9月）在副热带高压控制下高温少雨（降雨量 $2 4 . 7 ~ \mathrm { m m }$ ），仅占全年 $7 . 0 \%$ ,属于“旱季"（图1），土壤因缺水干旱，水热状况呈现不同步匹配的特征。植物也出现了相应的适应特点：荒漠中的春季短命植物必须尽快完成生命周期，多年生植物出现生长停滞的过程，而绿洲农作物则需要灌溉。山区在空气上升绝热降温作用下增加降雨、降雪，对天然植物生长（山区夏牧场、林木等)及补充河水有重要作用。
+
+新疆天山北坡山前平原伊犁、石河子、乌鲁木齐地处天山中段，全年受高空西风环流控制（夏季极少受副热带高压影响），年平均降水 $2 4 6 . 1 \ \mathrm { m m }$ ，且月际间降水量相对均匀，差异不大（图1）。由于冬季降雪及春季降雨的积累，春季土壤水分较好，可被荒漠短命植物、越冬作物利用，同时补充河水。虽然夏、秋季也有多次降水，但很快被蒸发，土壤仍处于干旱状态，迫使荒漠中的春季短命植物到6月初完成生命周期。山区降水量增加，对天然植物生长及补充河水有重要作用。
+
+祁连山北坡山前平原秋、冬、春季(10月至次年5月)主要受蒙古冷高压控制，易产生低温、干旱、多风沙，尤其是11月至次年4月降水很少( $1 9 \ \mathrm { m m } \cdot$ ），只占全年降水量 $^ { \prime } 1 4 8 . 0 \ \mathrm { m m } ,$ 的 $1 2 . 8 \%$ （图1），为低温少雨的“旱季”，土壤干旱，荒漠地区无春季短命植物，春麦等作物需播前灌溉。夏季受东南季风作用,降水较多且集中,6一9月降水达 $1 0 6 . 5 \ \mathrm { m m }$ ，占$7 2 \%$ ,农作物可减少灌溉，也有利于荒漠植物生长，水热匹配同步[2-4]
+
+# 2降水及水热匹配的数理统计
+
+# 2.1月降水量变异系数
+
+月降水量平均标准偏差除以平均值得到月降水量变异系数，可消除降水量大小的影响，对3区段间进行比较，表现出不同的降水特征。再结合年内气温变化的单峰曲线，可分析3区段间降水量变异系数差异大小的原因。表1中3个区段的变异系数分别为：中亚天山北坡山前平原月降水量变异系数较大 $6 6 . 0 2 \%$ )，主要原因是冬、春季低温时降水多，而夏季高温时降水少[24]；新疆天山北坡月际间降水量比较均衡，变异系数小( $3 2 . 7 7 \%$ );祁连山北坡月降水量变异系数大 $( 9 3 . 4 8 \%$ ），原因是冬春季低温时降水少,而夏季高温时降水多[24] ○
+
+# 2.2逐月降水量与月平均气温间相关系数
+
+利用中国气象科学数据共享服务网，按不同区段典型城市搜集逐月降水量与月平均气温进行相关性分析。
+
+由表2可知，中亚天山北坡山前平原区段月降水量与月平均气温呈负相关关系，相关系数$- 0 . 6 8 8 \mathrm { ~ 8 ~ } ^ { * }$ （ $r _ { 0 . 0 5 ( 1 0 ) } = 0 . 5 7 6 ;$ ,表现为冬春季低温
+
+# 表2　中亚天山一新疆天山一甘肃祁连山北坡山前平原降水与气温的相关系数比较
+
+Tab.2Comparison of correlation coefficients between precipitation and air temperature in the study areas   
+
+<html><body><table><tr><td rowspan="2">月份</td><td colspan="2">中亚天山北坡 山前平原</td><td colspan="2">新疆天山北坡 山前平原</td><td colspan="2">甘肃祁连山北坡 山前平原</td></tr><tr><td>降水量 /mm</td><td>平均气 温/℃</td><td>降水量 /mm</td><td>平均气 温/℃</td><td>降水量 /mm</td><td>平均气 温/℃</td></tr><tr><td>1</td><td>40</td><td>-2.1</td><td>9.7</td><td>-15.2</td><td>2</td><td>-7.8</td></tr><tr><td>2</td><td>36</td><td>0.5</td><td>13.3</td><td>-11.2</td><td>1.5</td><td>-4</td></tr><tr><td>3</td><td>60</td><td>6.5</td><td>23.7</td><td>-0.9</td><td>5</td><td>3.3</td></tr><tr><td>4</td><td>57</td><td>13.7</td><td>27.9</td><td>10.3</td><td>6.5</td><td>10.5</td></tr><tr><td>5</td><td>33.7</td><td>18.8</td><td>28.9</td><td>16.2</td><td>14.5</td><td>16</td></tr><tr><td>6</td><td>10.7</td><td>23.9</td><td>31.1</td><td>21.4</td><td>22</td><td>20</td></tr><tr><td>7</td><td>5.7</td><td>25.9</td><td>16.9</td><td>23.9</td><td>29</td><td>22</td></tr><tr><td>8</td><td>2.7</td><td>23.5</td><td>21.2</td><td>22.2</td><td>33.5</td><td>21</td></tr><tr><td>9</td><td>5.7</td><td>18.4</td><td>18.5</td><td>16.7</td><td>22</td><td>16</td></tr><tr><td>10</td><td>29.3</td><td>11.5</td><td>14.9</td><td>7.8</td><td>8</td><td>8.5</td></tr><tr><td>11</td><td>34.3</td><td>5.3</td><td>18</td><td>-2.8</td><td>2.5</td><td>0.8</td></tr><tr><td>12</td><td>39</td><td>0.7</td><td>17.5</td><td>-10.7</td><td>1.5</td><td>-6</td></tr><tr><td>相关系数</td><td></td><td>-0.6888 *</td><td></td><td>0.5847 *</td><td>0.9070 **</td><td></td></tr></table></body></html>
+
+多降水、夏季高温少雨，水热匹配度差；新疆天山北坡山前平原区段水热匹配相关性较弱，相关系数$0 . 5 8 4 7 ^ { \ast }$ ，年内各月降水量差异不大；甘肃祁连山北坡山前平原区段相关系数 $0 . \ 9 0 7 0 ^ { \ast \ast } [ r _ { 0 . 0 1 ( 1 0 ) } =$ （204号0.708]，表现为冬、春季降水稀少，6一9月气温高、降雨多，水热匹配度高。
+
+综上所述，中亚天山北坡山前平原区段降水与气温相关系数为负数，表明该区段水热匹配不同步，同时月降水量变异系数为 $6 6 . 0 2 \%$ ，也反映出水热匹配不同步，从而表现出变异系数与相关系数的一致性，进一步提升了对降水特征及水热匹配差异性特征的理性认识。
+
+# 3不同水热匹配条件下生物适应性
+
+# 3.1 天然植被对不同水热匹配条件的适应性
+
+光、温、水、养分(土壤)是植物生长发育所必须的生态条件，其中天然植被对当地的水、热条件及其匹配状况最敏感，反应最直接。
+
+3.1.1春季短命植物对亚洲中部干旱区不同区段水热匹配的适应性李世英经研究发现,亚洲中部地区夏季多雨、冬春季干旱和中亚地区冬春季多雨、夏季干旱的特点，造就了“亚洲中部地区荒漠缺乏短命植物，古尔班通古特沙漠分布有短命植物，而中亚地区却发育了丰富的短命植物”的现象。中亚是一个独特的荒漠植物分布和形成的舞台，琵琶柴等往往与短命植物形成不同群落[8]。许鹏[9认为,新疆北部平原荒漠区的环境特征可归结为中亚荒漠与亚洲中部荒漠的结合部，其中古老冲积平原上发育的主导类型是琵琶柴土质荒漠，伴生有大量的短命植物。
+
+上述研究表明，中亚区段的山前平原荒漠区冬、春季降雪(雨)多，春季土壤水分条件好，适宜春季短命植物[生命周期仅七、八十天的一类植物，如旱雀麦（Bromustectorum）、伊犁郁金香（Tulipailien-sis）、沙生针茅（Stipaglareosa）9]等生长发育,到夏季土壤水分缺乏时完成生命周期。故春季短命植物是该区段最适应环境的植物类群，处于“短命植物发生中心地位”；新疆北部区段冬、春季降雪(雨)较多，春季土壤水分条件也适合短命植物生长、发育，到初夏土壤干旱时完成生命周期，该类植物是牛、羊春季的重要牧草，是形成四季轮牧草场的重要条件，但水热匹配情况总体不如中亚区段，故成为“短命植物扩散区”;而祁连山北坡山前平原荒漠区段冬、春季干旱少雪(雨）、多风沙，土壤水分条件很差，无春季短命植物，成为“短命植物无发生区”。
+
+3.1.2琵琶柴对亚洲中部干旱区不同区段水热匹配的适应性小灌木琵琶柴（Reaumuria songarica）是很适应亚洲中部干旱区生态环境的植物。据文献[8]记载，琵琶柴是在不同时期起源于中亚，然后向外扩张的植物，在中亚、新疆北部山前平原荒漠区春季土壤水分条件好时，能迅速生长发育、开花结果，到夏季土壤水分条件不好时生长停滞（该植物具有变形叶片，可泌盐，叶表面覆盐，耐旱能力很强)；同时，琵琶柴也能适应祁连山北坡山前平原地区水热匹配条件，在干旱的春季处于休眠、半休眠状态，到夏季水热条件好时转入正常生长发育，形成另一类型植被稀疏、种类贫乏的典型荒漠植被群落，显示出琵琶柴依靠自身的特殊性能，成为适应亚洲中部干旱区多种水热匹配模式的一类植物。
+
+# 3.2昆虫对不同水热匹配条件的适应性
+
+3.2.1土耳其斯坦叶螨对亚洲中部干旱区不同区段水热匹配的适应土耳其斯坦叶螨（Tetranychusturkestani)最适气温 $2 3 \ : \ : \sim \ : 2 7 . 5 \ : \ : \mathrm { ‰ }$ ,喜干燥少雨,最适寄主棉花[10]。中亚腹地塔什干地区6—8月平均气温 $2 5 . 0 \sim 2 7 . 6 ~ \mathrm { ^ { \circ } C }$ 、月降水量 $2 \sim 7 \ \mathrm { m m }$ ,棉花是该地的主要作物，处于土耳其斯坦叶螨最适生态环境，在前苏联时期命名，属“发生中心区”。新疆天山北面山前平原绿洲石河子6—8月平均气温22.6\~$2 4 . 7 ~ \mathrm { ^ { \circ } C }$ 、月降水量 $1 4 . 5 \sim 2 2 . 3 ~ \mathrm { m m }$ ,仍属干旱少雨地区，棉花也是主要作物，也发生棉叶螨，叶螨类型主要为土耳其斯坦叶螨[10],符合“扩散区”要求。祁连山北坡山前平原绿洲张掖、武威6一8月降水较多、月平均气温 $2 0 \sim 2 2 ~ \mathrm { ^ { \circ } C }$ ,不适合该叶螨生长发育，属"无发生区”。反映出土耳其斯坦叶螨在亚洲中部干旱区不同水热匹配条件下具有一定的生态适应性，深入认识其分布规律有助于控制灾害发生程度和规模。
+
+综上所述，亚洲中部干旱区春季短命植物和土耳其斯坦叶螨的分布状况具有相似性，在研究区范围内由西至东均呈“发生中心、扩散区及无发生区”的分布规律。其中，影响春季短命植物的主要生态环境要素是春季和夏季的土壤水分条件，而土耳其斯坦叶螨的生态环境要素是夏季高温、干燥的气候及最适寄主，出现了两种生物在同一区段分别选择不同水热匹配时段发生的适应现象。这有助于进一步认识生态环境对形成生物适应性的影响。
+
+# 3.2.2春季短命植物的繁茂对眩灯蛾爆发的影响
+
+在新疆石河子绿洲下游莫索湾等沙漠地区，出于保护荒漠植被、防治风沙危害的需要，从20世纪80年代开始实施禁牧，荒漠草地没有牛、羊等的采食和践踏，春季短命植物逐渐繁茂，导致主要发生在荒漠地区的草食性昆虫眩灯蛾（Lacydesspectabilsc）分别于1994 年和 2010 年春季的爆发(11-12],2017 年该地区又发生了蝗虫灾害。蝗虫将荒漠上的春季短命植物等采食后，又向周边农田迁移，危害棉花、小麦等作物幼苗,这是近年来的一种新现象(11-12]。说明莫索湾一带的水热匹配状况适宜春季短命植物生长发育，短命植物的繁茂促成了相应害虫的爆发。害虫爆发后短命植物被大量采食，需要一定时间才能恢复，于是几年后害虫又会再爆发，存在着比食物链意义更广泛的“生态链”现象，深人认识其相关关系有助于控制害虫危害以及了解短命植物在荒漠生态系统中的地位。
+
+# 4绿洲农业技术对不同水热匹配的适应性
+
+农业生产是在遵循当地水热匹配条件下，采用农业技术、农业装备等改善生态条件，使农作物处于较适宜生长发育的环境,从而达到稳产、高产。其中
+
+改善土壤水分条件、提高水资源利用效率，是绿洲农业技术和农业装备的着力点。
+
+# 4.1 滴灌技术能进一步适应一个地区的水热匹配条件
+
+在温暖季节土壤水分不足时采用滴灌技术，不仅补充了土壤水分，还能节水和保持土壤良好的三相比(固液气)；在滴灌时加入水溶性肥料，可实现水、肥一体化，提高水、肥效益。另外，膜下滴灌技术不仅具有地膜增温、保熵的效应，还能有效节水，将两项技术叠加,进一步优化水热匹配[13],从而在干旱区得到迅速推广。
+
+经调查和研究发现，研究区不同区段水热匹配差异使得滴灌技术的应用和推广有较大差别：中亚天山北坡山前平原绿洲由于冬春季降水多，可替代2 次滴灌，种植冬小麦时滴灌设备利用率仅为 $6 0 \%$ 左右，故推广应用较慢;而新疆天山北坡山前平原绿洲仅早春土壤水分较好，不必灌溉，滴灌设备利用率$8 3 \%$ 左右（晚春作物滴灌设备利用率为 $100 \%$ ），因此滴灌技术在该区广泛推广；祁连山北坡山前平原绿洲年降水量虽较少，但主要分布在夏季，且降雨集中，可替代1次滴灌，滴灌设备利用率 $91 \%$ 左右，滴灌技术得到推广。近年来石河子地区在小麦收获后，继续利用原有滴灌设备复种青贮玉米（一套设备2次使用），提高设备利用率、促进奶业的发展（14]
+
+# 4.2中亚及新疆天山北坡山前平原绿洲实施秋季深耕(松)技术
+
+由于中亚及新疆地区冬季的降雪在春季融化，且春季降水也较多，土壤必须有较强的储水、保水能力，才能容纳更多水分，因此秋季深耕（松）土壤作为一项有效提高土壤储水、保水能力的措施，在中亚已普遍实施[15]。近年来,新疆北部地区在实施棉花秸秆还田、施用二铵的基础上也开展了秋季深耕，发挥多项技术的耦合效应，容纳更多冬、春季降水，改善土壤水、肥、气环境。上述地区很注意早春耙糖保嫡，尽量避免春翻土壤，留住宝贵水资源。而河西走廊地区则不太重视秋耕，存在留茬越冬的现象。
+
+# 4.3提高灌溉水(降水)利用效率
+
+在中亚及新疆天山北坡山前平原绿洲冬季积雪较多，有利于冬小麦越冬；早春积雪融化及降水使土壤水分条件较好，适合冬小麦生长，成为当地主要粮食作物。河西走廊地区冬、春季少雪雨、多风沙，只能种植春麦;且该地区地少人多、灌溉用水有限，实施春麦套种玉米，一水两用。加上秋季日照好，有利于玉米种子成熟、干燥，质量高，故该地区已成为我国主要玉米制种基地[16] 。
+
+在新疆和田地区人多地少、灌溉水资源有限，无霜期较长，20世纪末发展冬小麦套种中晚熟玉米，实现一水两用,对提高粮食总产颇有成效[16]。新疆部分地区还开展了棉花套种短命植物孜然（小茴香），利用棉花底墒，在6月上旬成熟，不妨碍棉花浇第1次水，对棉花生长影响轻微，同时增加了种植户的经济收益。
+
+# 5结论与讨论
+
+（1）亚洲中部干旱区内中亚天山北坡至祁连山北坡山前平原，分别受到不同大气环流作用，从西至东降水特征及水热匹配区段：“降水量较多、水热匹配不同步的中亚地区一年内月际降水量分配较均衡的新疆地区一降水量较少、水热匹配同步的甘肃河西走廊"3种生态环境模式。模式间差异性规律得到数理统计支持。
+
+分析一个地区的水热匹配，应该与降水量及气温结合,才能认识全面。如祁连山北面山前平原的敦煌，具有良好的水热匹配(6一9月降水量占全年的$6 6 . 7 \%$ 、月降水量与气温间的相关系数 $0 . 7 1 3 \ 7 ^ { * }$ ）。但它处于东南季风区尾部，年降水只有 $3 9 ~ \mathrm { m m }$ ，降水对荒漠植被作用有限，对绿洲农作物几乎不起作用，与张掖、武威不同。
+
+（2）亚洲中部干旱区水热匹配的差异性，使春季短命植物、土耳其斯坦叶螨的分布呈现出“中亚天山北坡山前平原发生中心一新疆天山北坡山前平原扩散区一祁连山北坡山前平原无发生区”的分布相似现象。主要因素是各区段冬春季降水、土壤水分是否适于植物生长;土耳其斯坦叶螨分布差异的主要因素是夏季高温、干燥气候及最适寄主的生态环境。
+
+分布相似现象在农业中也有反映：如中亚、新疆天山北坡山前平原绿洲种植冬小麦，而祁连山北坡山前平原绿洲种植春小麦。在草地牧业中，中亚及新疆天山北坡，由于有春季短命植物，具有春、夏、秋、冬四季轮牧条件。而祁连山北面，冬季在山前荒漠草场放牧，因无春季短命植物，缺少春牧场，气温上升后很快转入山区牧场。
+
+(3）干旱区绿洲农业属灌溉农业，农业技术受当地水热匹配影响较大，农业技术着力点是提高天然降水的利用率及灌溉用水效率。如多项土壤耕作技术都围绕着储水、保水；多种灌溉技术也着眼于节水、提高水效益。其中，应用水热匹配规律分析不同地区滴灌技术的适宜性，为推广应用提供理论支持，将推广应用提高到新高度；不同作物布局也是为了提高降水和灌水利用率，优化水热匹配
+
+绿洲农业的灌溉用水主要源自山区。因空气上升绝热降温作用，山区降雨(雪)量增加，形成河流，也有利于山区植物生长。研究区域3区段大气环流不同，形成各自的降水特征(表1），祁连山夏季降雨量大;中亚山区冬、春降雨(雪)量大，高山降雪存量大，夏季融化增加水量；新疆夏季既有降水，也有高山融雪水。
+
+水热匹配规律的研究，也丰富了对丝绸之路经济带生态环境的认识。
+
+# 参考文献(References）:
+
+[1]陈曦,姜逢清，王亚俊,等.亚洲中部干旱区生态地理格局研究 [J].干旱区研究,2013,30（3）：385-390.[Chen Xi,Jiang Fengqing,Wang Yajun,et al. Characteristics of the eco-geographical pattern in arid land of Central Asia[J].Arid Zone Research, 2013,30(3):385-390.]   
+[2]赖先齐,王江丽,程勇翔,等.中国西北及中亚主要绿洲农区分 类[J].生态学报,2015,35（2）:237-245.[Lai Xianqi,Wang Jiangli,Cheng Yongxiang,et al. Classification of main oasis agricultural types in the Northwest of China and Central Asia[J].Acta Ecologica Sinica,2015,35(2):237-245.]   
+[3]王江丽,赖先齐,帕尼古丽·阿汗别克,等.中亚与新疆绿洲农 业的比较[J].干旱区研究,2013,30（1）：182-187.[Wang Jiangli,Lai Xianqi,Paniguli Ahanbieke,et al. Comparison oasis agriculture in Central Asia and Xinjiang[J].Arid Zone Research, 2013,30(1):182 -187.]   
+[4］赖先齐,王江丽,马玉香,等.亚欧大陆中心区域水热资源配合 匹配状况与绿洲农业适应性研究[J].干旱区资源与环境， 2013,27(1O）:1-7.[Lai Xianqi,Wang Jiangli,Ma Yuxiang,et al.Water and heat resources coordination situation in Eurasia center area and the oasis agriculture adaptability[J]. Journal of Arid Land Resources and Environment,2013,27（10)：1-7.]   
+[5]任国玉,袁玉江,柳艳菊,等.我国西北干燥区降水变化规律 [J].干旱区研究,2016,33（1）:1-19.［RenGuoyu,Yuan Yujiang,Liu Yanju,et al.Changes in precipitation over Northwest China［J].Arid Zone Research,2016,33（1）:1-19.]   
+[6]胡增运,胡汝骥,陈曦,等.亚洲中部干旱区干湿时空变化特征 [J].干旱区研究,2018,35（2）:260-280.［Hu Zengyun,Hu Ruji,Chen Xi,et al. Spatiotemporal variation of wetting or drying in the arid regions in Central Asia[J].Arid Zone Research,2O18,35 (2):260 -280.]
+
+[7]李世英.北疆荒漠植被的基本特征[J].植物学报，1961,9（3-4）:287-313.[Li Shiying. The basic characteristics of desert veg-etation in Northern Xinjiang[J].Botany Gazette,1961,9(3-4）：287 -313.]
+
+[8]中国科学院新疆综合考察队，中国科学院植物研究所.新疆植被及其利用[M].北京：科技出版社，1978：3,62,243.[Integrat-ed Expedition on Xinjiang of Chinese Academy of Sciences,Institu-teofBotany,Chinese Academy of Sciences.Vegetation and Its Uti-lization in Xinjiang[M].Beijing：Science and Technology Press,1978;3,62,243.]
+
+[9]许鹏.新疆荒漠区草地与水盐植物系统及优化生态模式[M].北 京：科技出版社,1998：10,12.[Xu Peng.Desert Grassland andWater-Salt-Plant System and the OptimizingEcological Pattern in Xinjiang[M].Beijing：Science and TechnologyPress,1998:10,12.] [10]张建萍,鲁素玲,陈静.新疆农业螨类[M].北京：中国农业出 版社,2008:70,125.[Zhang Jianping,Lu Suling,Chen Jing.Xinjiang Agricultural Mites[M]. Beijing:Chinese Agriculture Press, 2008:70,125.]
+
+[11］热依汗古丽,朱家驹.石河子垦区眩灯蛾发生及飞机防治[J]. 石河子科技,2009(6）:19-20.［Reyihanguli,Zhu Jiaju.Lacydes spectabilis occurrence and prevention by plane in Shihezi reclamation areas[J].Science and Technology of Shihezi,2Oo9(6）:19 - 20.]
+
+[12]杨涛,王佩玲，熊建喜,等.一种新入侵棉花害虫一眩灯蛾生物学特性研究[J].棉花学报,2010,22（2）：189-192.［YangTao,WangPeiling,XiongJianxi,et al.Study on biological charac-teristics of Lacydes spectabilisc:A new invaded pest on cotton[J].Cotton Science,2010,22(2):189-192.]
+
+[13]李刚,张毅鹏，班懿根.膜下滴灌技术发展现状及应用前景 [J].新疆水利,2004（4）:25-28.[LiGang,Zhang Yipeng,Ban Yigen.Development status and application prospects of the technology of drip irrigation under membrane[J].Xinjiang Water Resource,2004(4):25-28.]
+
+[14]李鑫，刁明，魏列，等.不同配置方式对麦后免耕复播滴灌青贮玉米生物产量及品质的影响[J].新疆农业科学，2016,53（4）：589-595.[Li Xin,Diao Ming,Wei Lie,et al.Different configura-tions onbiological yield and qualityof no-tillage dripped irrigationsilage corn planting after wheat[J].Xinjiang Agricultural Sci-ences,2016,53（4) :589-595.]
+
+[15]阿·依·约翰逊,魏廷辉译.坡地土壤耕作[J].中亚科技信 息,1985（4）:18-20.［A Yi Johnson,Wei Tinghui.Tillage on slope land[J].Central Asia Science and Technology Information, 1985(4) :18 -20.]
+
+[16]赖先齐.中国绿洲农业学[M].北京：中国农业出版社，2005.[Lai Xianqi.The Oasis Agriculture in China[M].Beijing:ChineseAgriculture Press,2005.]
+
+# Adaptability of Biology and Agricultural Technologies to the Water-Heat Coordination in the Arid Oases in Central Asia
+
+PAN Xu-dong'， WANG Jiang-li1，WU Ling²， ZHANG Jian-ping'，LAI Xian-qil (1.College of Agriculture,Shihezi University/KeyLaboratoryofOasis Eco-agricultureof Xinjiang Corpsof Productionand Construction,i,ing,in；.lgeofifeienc,eiUesityei,ijg)
+
+Abstract：The piedmont plain oases,the study areas inarid regions of Central Asia,i.e.the northern sope of the Tianshan Mountains in Central Asia,norther slopeof the Tianshan Mountains in Xinjiang,and northern slopeof the Qilian Mountain in Gansu,are the importantareas with the most prosperous society,economyand culture along both the ancient Silk Road and the modern Silk Road Economic Belt.Most of the previous researches focused on precipitation and temperature,but otherness studies on the coodination relationship between monthly precipitationand monthly mean temperature at each section （hereinafter referred to as water-heat match）were not enough.The emergence of a certain species in a region is inseparable from the characteristics of water-heatcoodination besides the local unique precipitation and temperature.The mode ofthe ecological environment in the study area,water-heat match outof sync in the north Tianshan Mountains in Central Asian-beter water-heat synchronization in the north Tianshan Mountains in Xinjiang-water-hot strong synchronous coordination in Hexi Corridor in the north Qilian Mountains in Gansu,profoundly affcted the wild animalsand natural plant species as wellas their growth and developmentthere,and made some creatures in diferent sections of the region form the distribution regularity of Central Area,Diffsion Zone and Without Generating Area.The diferences of agricultural technologies in soma oases also reflect their adaptability to the local water-heat matching characteristics.
+
+Key words:water-heat match；ephemeral plant; Reaumuria songarica; Tetranychus turkestani;；oasis agricultural technology；arid Central Asia

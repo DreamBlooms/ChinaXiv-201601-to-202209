@@ -1,0 +1,206 @@
+# 黑老虎叶总黄酮提取工艺及其抗氧化活性研究
+
+李亚军1，黄国保²，全海燕1，易鹊¹，谭明雄²\*（1.湖南环境生物职业技术学院 医药技术学院，湖南 衡阳 421005；2．广西农产资源化学与生物技术重点实验室，玉林师范学院化学与食品科学学院，广西玉林 537000）
+
+摘要：为了研究超声波辅助提取黑老虎叶总黄酮的最佳提取工艺条件及其抗氧化活性，以黑老虎叶为研究对象，采用超声波提取法提取黑老虎叶总黄酮，通过单因素试验研究提取时间、乙醇浓度、提取温度、料液比对黑老虎叶总黄酮提取率的影响，在单因素实验的基础上，采用正交试验优化其提取工艺条件。测试了最优条件下提取的黑老虎叶总黄酮对DPPH自由基、·OH自由基及超氧负离子的清除能力。结果表明，黑老虎叶总黄酮超声辅助提取最佳提取条件为提取时间 $3 5 \mathrm { m i n }$ 、乙醇浓度 $80 \%$ 、提取温度 $5 0 ^ { \circ } \mathrm { C }$ 、料液比 $1 : 2 0 \mathrm { m g } { \cdot } \mathrm { m L } ^ { - 1 }$ ，最佳条件下提取率为 $4 . 8 3 \%$ 。抗氧化活性测试表明，黑老虎叶总黄酮表现出较好的清除DPPH自由基、·OH自由基及超氧负离子能力，其抗氧化能力为清除DPPH自由基能力 $>$ 清除超氧阴离子能力 $>$ 清除·OH自由基能力。在浓度为 $0 . 8 \ \mathrm { m g { \cdot } m L ^ { - 1 } }$ 时，黑老虎叶总黄酮清除DPPH自由基、·OH自由基及超氧负离子的能力相当于同浓度下 $\mathrm { v } _ { \mathrm { c } }$ 的 $9 7 . 6 \%$ 、 $8 2 . 1 \ \%$ 、 $9 5 . 5 ~ \%$ ，黑老虎叶总黄酮是天然抗氧化剂的良好来源。该研究为黑老虎叶活性成分的提取及开发利用提供理论基础。
+
+关键词：黑老虎叶，总黄酮，超声波辅助提取，工艺优化，抗氧化中图分类号：Q946 文献标识码：A
+
+# Extraction and antioxidant activity of
+
+# total flavonoids from Kadsura coccinea leaves
+
+LI Yajun1, Huang Guobao², QUAN Haiyan', YI Que1, TAN Mingxiong   
+(1. College of Medicine & Technology, Hunan Polytechnic of Environment and Biology,   
+Hengyang 421Oo5, Hunan, China; 2. Guangxi Key Laboratory of Agricultural Resources Chemistry and Biotechnology, College of Chemistry and Food Science, Yulin Normal University, Yulin 5370oo,Guangxi, China）
+
+Abstract: In order to study the optimum extraction conditions and antioxidant activity of total flavonoids from Kadsura coccinea leaves assisted by ultrasound extraction method， the ultrasonic-assisted extraction method of total flavonoids from Kadsura coccinea leaves was studied, the influence factors of extraction time, ultrasound frequency, extraction temperature and material liquid ratio on the extraction rate of total flavonoids from Kadsura coccinea leaves was studied by single factor experiment, orthogonal experiment was used to optimize the extraction process. The scavenging effects of total flavonoids extracted from Kadsura coccinea leaves on DPPH,OH and superoxide anion were tested under the optimum conditions. The results showed that the optimal extraction conditions were as follows: extraction time $3 5 ~ \mathrm { \ m i n }$ ，ethanol concentration $80 \%$ ，extraction temperature $5 0 ^ { \circ } \mathrm { C }$ and solid-liquid ratio $1 : 2 0 ~ \mathrm { g } { \cdot } \mathrm { m L } ^ { - 1 }$ ，the maximum yield was $4 . 8 3 \%$ . The antioxidant activity test showed that total flavonoids of Kadsura coccinea leaves had strong scavenging on DPPH free radicals, OH free radicals and superoxide anions.The order of antioxidant activity of total flavonoids from Kadsura coccinea leaves was as follows: DPPH free radicals scavenging ability $>$ superoxide anions scavenging ability $>  { \mathbf { \cdot } }  { \mathrm { O H } }$ （204 scavenging ability. At the concentration of $0 . 8 \mathrm { \ m g ^ { \bullet } m L ^ { - 1 } }$ ， the scavenging capacities of total flavonoids from Kadsura coccinea leaves on DPPH, OH free radicals and superoxide anions were equivalent to $9 7 . 6 \%$ ， $8 2 . 1 \%$ and $9 5 . 5 \%$ of $\mathrm { v } _ { \mathrm { c } }$ at the same concentration，respectively. Total flavonoids of Kadsura coccinea leaves were good sources of natural antioxidants. This study provides a theoretical basis for the extraction and utilization of active ingredients from Kadsura coccinea leaves.
+
+Key words: Kadsura coccinea leaves， total flavonoids， ultrasonic-assisted extraction, technology optimization,antioxidant activity
+
+黑老虎（Kadsuracoccinea）为五味子科南五味子属常绿木质藤本植物，别名过山龙、冷饭团、钻地风等，主要分布于我国江西、湖南、福建、广西等地（延在昊等，2013）。黑老虎是一种药食两用的中药材，根茎叶果实均可药用，其根茎为主要药用部位，具有行气活血，通经止痛等作用（陆俊等，2018)。现代药理活性研究表明黑老虎根茎及果实中的多种活性成分具有保肝（Song et al.,2010）、抗炎抑菌（Li et al.,2012）、抗肿瘤（Zhao et al.,2014）、抗 HIV（杨毅等，2003）、抗氧化（延在昊等，2013；谢玮等，2016）、抗凝血（Suetal.,2019）、调节血脂（李志春等，2011）等作用。黑老虎叶四季常青，其叶可用于治疗湿疹（Rehman etal.,2019)，目前关于黑老虎有效成分的提取及药理活性研究主要集中在其根茎及果实，对其叶的开发利用报道较少。
+
+抗氧化剂包括两大类：化学合成抗氧化剂与天然抗氧化剂。由于天然抗氧化剂具有安全、无毒的特点，从植物中寻找天然抗氧化剂已成为国内外研究的热点。黄酮类化合物广泛存在于植物的叶与果实中，许多研究报道从植物中提取的黄酮类化合物具有较强的抗氧化作用（Chanput et al.,2016)，如罗布麻叶总黄酮（潘思源等，2019）、藿香叶黄酮（艾薇等，2018）、红姑娘茎叶总黄酮（姜秀娟等，2018）等多种植物叶总黄酮具有显著的抗氧化活性，可用于天然抗氧化剂的开发。目前，关于黑老虎抗氧化活性的报道主要有黑老虎茎中的挥发油成分（Rehmanetal.，2019）、黑老虎果中花色苷（Hao，2014）及 $\beta$ -环糊精和它的衍生物2-羟丙基- $\cdot \boldsymbol { \beta }$ -环糊精包合黑老虎果实花色苷提取物（Suetal.,2018）、黑老虎根中的酚酸类成分（延在昊等，2013)。黑老虎叶中黄酮成分作为天然抗氧化剂的研究未见报道。因此，从药用植物黑老虎叶中高效提取总黄酮并研究其抗氧化性非常重要。黄酮类化合物的提取有临界流体萃取(SFE)、溶剂提取法、超声辅助提取(UAE)、微波辅助提取(MAE)、脉冲电场(PEF)辅助提取、酶辅助提取(EAE)等，其中超声辅助提取具有提取效率高、提取时间短、溶剂用量少、提取方法简便等优点而广泛使用（万新焕等，2019)。
+
+本研究采用超声辅助提取黑老虎叶总黄酮，并从提取时间、乙醇浓度、提取温度、料液比四个因素优化黑老虎叶总黄酮提取工艺，进一步测定了最优提取条件下黑老虎叶总黄酮的抗氧化活性，为黑老虎叶总黄酮的提取提供技术指导，为其开发为天然抗氧化剂提供理论基础。
+
+# 1材料与方法
+
+# 1.1材料试剂与仪器设备
+
+1.1.1材料
+
+黑老虎叶：5月份采摘于湖南环境生物职业技术学院林下种植基地内，经湖南环境生物职业技术学院医药技术学院杨军衡副教授鉴定为五味子科（Schisandraceae）南五味子属（KadsuraJussieu）植物黑老虎（Kadsuracoccinea）。
+
+# 1.1.2 试剂
+
+芦丁标准品（纯度 $9 8 \%$ )：北京普析科技有限公司。1,1-二苯基-2-三硝基苯肼（DPPH)、维生素C、乙二胺四乙酸二钠（EDTA-2Na）、盐酸、双氧水、水杨酸、 $9 5 \ \%$ 乙醇、亚硝酸钠、硝酸铝、邻苯三酚、石油醚、氢氧化钠等试剂都为分析纯，购于国药集团化学试剂有限公司。
+
+# 1.1.3仪器设备
+
+UV-2600 紫外可见分光光度计（上海百贺仪器科技有限公司)；KQ-5200E 超声波清洗仪（长沙天恒仪器有限公司)；XB-0.3真空旋转浓缩仪（上沈阳乐华生物制药设备有限公司）；FA124万分之一电子分析天平（湖南轩彩科学仪器有限公司)；DHG-9000-9030A电热恒温鼓风干燥箱（长沙天恒仪器有限公司）。
+
+# 1.2实验方法
+
+# 1.2.1黑老虎叶中总黄酮的提取
+
+黑老虎叶采摘后洗净， $6 0 ~ \mathrm { ^ { \circ } C }$ 下烘干至恒重，粉碎后过60目筛即得黑老虎叶粉末。精确称取黑老虎叶粉末 $2 . 0 \ \mathrm { g }$ ，石油醚脱脂，滤渣在超声功率为 $2 5 0 ~ \mathrm { W }$ ，一定提取温度、提取时间、乙醇浓度和料液比条件下进行超声辅助提取，提取液减压浓缩， $70 \%$ 乙醇定容于 $1 0 0 ~ \mathrm { { m L } }$ 容量瓶中，得黑老虎叶总黄酮样品溶液。
+
+# 1.2.2芦丁标准曲线的制备
+
+采用 $\mathsf { N a N O } _ { 2 }$ -Al ( $\mathbf { \nabla } \cdot \mathbf { N O } _ { 3 }$ ） $_ { 3 } - \mathrm { N a O H }$ 法（梁志远等，2016）制备芦丁标准曲线。准确称取干燥好的芦丁 $5 0 \mathrm { m g }$ ，用 $70 \%$ 乙醇溶解并定容于 $5 0 ~ \mathrm { m L }$ 容量瓶中。准确量取芦丁样品溶液0、0.2、0.4、0.6、0.8、 $1 . 0 \mathrm { m L }$ 于 $2 5 ~ \mathrm { m L }$ 容量瓶中，分别依次加入 $0 . 8 \mathrm { m L } 5 \% \mathrm { N a N O _ { 2 } }$ 与 $10 \%$ Al(NO) $_ 3$ ，每加入一次试剂室温下反应 $5 \mathrm { m i n }$ ，然后再加入 $1 0 \mathrm { m L } 1 \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 } \mathrm { N a O H }$ 后用 $70 \%$ 乙醇定容至刻度，室温下反应 $1 5 \mathrm { m i n }$ ，在 $5 1 0 \mathrm { n m }$ 处测定吸光度，以吸光度（A）为纵坐标，芦丁溶液浓度C（ $\mathrm { \cdot } \mathrm { m g } { \cdot } \mathrm { m L } ^ { - 1 }$ ）为横坐标制作标准曲线： $\mathrm { y } = 4 . 5 4 1 1 \mathrm { x } + 0 . 0 0 2 6$ ， $R ^ { 2 } = 0 . 9 9 9 3$ 。
+
+1.2.3总黄酮含量的测定及计算
+
+准确量取1.2.1中黑老虎叶总黄酮样品溶液 $1 \mathrm { m L }$ ，按照1.2.2方法测定样品溶液吸光度，将测定所得吸光度代入标准曲线计算出测试溶液总黄酮浓度 $C \ \mathrm { \mathrm { ~ ( m g \cdot m L ~ ^ { \cdot 1 } ~ } } ,$ )。按照下式计算总黄酮提取率 $( \% )$ ：提取率 $\mathsf { . } = C \times N { \times } V { \times } 1 0 ^ { - 3 } { \div } m { \times } 1 0 0 \%$ ，其中： $V$ 为提取液体积（ $\mathbf { \sigma } _ { \mathrm { m L } }$ ， $N$ 为稀释倍数， $m$ 为黑老虎叶粉末重量 $( \mathbf { g } )$ 。
+
+# 1.2.4单因素实验及正交优化实验
+
+按照1.2.1的方法，在其他因素一定的情况下，分别以不同提取时间(15、25、35、45、$5 5 ~ \mathrm { m i n } )$ 、乙醇浓度 $( 4 0 , ~ 5 0 , ~ 6 0 , ~ 7 0 , ~ 8 0 ~ \% )$ 、提取温度（40、50、60、70、80℃）和料液比（ $. 1 : 1 0$ 、 $1 : 1 5$ 、 $\mathbf { \nabla } _ { 1 } : 2 0$ 、 $1 : 2 5$ 、 $1 : 3 0 \ \mathrm { g { \cdot } m L ^ { - 1 } }$ ）进行单因素实验。
+
+根据单因素实验结果，选择提取时间（A）、乙醇浓度（B）、提取温度（C）、料液比（D)为自变量，以黑老虎叶总黄酮提取率为评价指标，采用 $\mathrm { ~ L ~ } ^ { 9 } ( 3 \mathrm { ~ } ^ { 4 } \mathrm { ~ } )$ 正交试验优化黑老虎叶总黄酮提取工艺参数，正交实验因素水平如表1所示。
+
+表1正交实验因素水平表 Table1 Factor and level graph   
+
+<html><body><table><tr><td rowspan="2">水平</td><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>提取时间</td><td>乙醇浓度</td><td>提取温度</td><td>料液比</td></tr><tr><td rowspan="2">Level</td><td>Extraction time</td><td>Ethanol concentration</td><td>Extraction temperature</td><td>Material liquid ratio</td></tr><tr><td>(min)</td><td>(%)</td><td>(℃)</td><td>(g·mL-1)</td></tr><tr><td>1</td><td>25</td><td>60</td><td>50</td><td>1 : 15</td></tr><tr><td>2</td><td>35</td><td>70</td><td>60</td><td>1: 20</td></tr><tr><td>3</td><td>45</td><td>80</td><td>70</td><td>1 : 25</td></tr></table></body></html>
+
+1.2.5黑老虎叶总黄酮抗氧化实验
+
+在最优条件下提取得到的黑老虎叶总黄酮按照以下方法进行抗氧化活性实验测试。
+
+1.2.5.1黑老虎叶总黄酮对DPPH清除能力测试
+
+参照庞玉新（2015）文献中实验方法，将最优条件下提取的黑老虎叶总黄酮溶解于 $70 \%$ 乙醇配制成不同浓度（0.025、0.05、0.075、0.1、0.2、0.4、0.6、 $0 . 8 \mathrm { \ m g { \cdot } m L ^ { - 1 } }$ ）的样品溶液，分别取以上样品溶液 $1 . 0 \mathrm { m L }$ ，加入 $2 . 5 ~ \mathrm { m L }$ 一定浓度的DPPH溶液，反应半小时后测定其吸光度，相同条件下测定空白对照溶液吸光度，以Vc为对照品。
+
+1.2.5.2黑老虎叶总黄酮对·OH自由基清除能力的测试
+
+参照姜秀娟（2018）文献中水杨酸法，测试最优条件下提取的黑老虎叶总黄酮（溶于$70 \%$ 乙醇）在不同浓度下（0.025、0.05、0.075、0.1、0.2、0.4、0.6、 $0 . 8 \mathrm { \ m g { \cdot } m L ^ { - 1 } }$ ）对·OH自由基的清除能力，以 $\mathrm { v } _ { \mathrm { c } }$ 为对照品。
+
+1.2.5.3黑老虎叶总黄酮对超阴氧离子清除能力测试
+
+将最优条件下提取的黑老虎叶总黄酮溶解于 $70 \%$ 的乙醇配制成不同浓度（0.025、0.05、0.075、0.1、0.2、0.4、0.6、 $0 . 8 ~ \mathrm { { m g } { \cdot m } \mathrm { { L } ^ { - 1 } } }$ ）样品溶液，参照范艳丽等（2017）报道的邻苯三酚氧化法，测定以上样品溶液对超氧阴离子的清除能力，相同条件下测定空白对照溶液吸光度，以Vc为对照品。
+
+# 1.3统计分析
+
+所有实验都重复进行三次，实验数据表示都以平均值±标准误差，采用Microsoft Excel2010、SPSS 20.0、Design Expert8.0.6 软件进行实验数据处理、分析及绘图。
+
+# 2结果与分析
+
+# 2.1单因素实验
+
+2.1.1提取时间对黑老虎叶总黄酮提取率的影响
+
+如图1所示，在 $1 5 { \sim } 3 5 \ \mathrm { m i n }$ ，黑老虎叶总黄酮提取率随着时间的延长而逐渐增加， $3 5 \mathrm { m i n }$ 时达到最大值 $4 . 3 1 \%$ ；随后时间延长提取率有所下降。这可能是因为时间较短时，黑老虎叶总黄酮并没有提取完全，所以时间增长提取率增大；然而加热提取时间较长则可能会破坏黄酮的结构而导致黑老虎叶中总黄酮提取率下降（李欣燃等，2019)。所以提取时间优化实验范围为 $2 5 { \sim } 4 5 \ \mathrm { m i n }$ 。
+
+![](images/f29650f226469c407e8b043a5c5b6660b494299cf50170362bf131c05179c0b3.jpg)  
+图1提取时间对黑老虎叶总黄酮得率的影响
+
+Fig.1 Effects of extraction time on the yield of total flavonoids from Kadsura coccinea leaves
+
+2.1.2乙醇浓度对黑老虎叶总黄酮提取率的影响
+
+如图2所示，在乙醇浓度为 $4 0 \% \sim 7 0 \%$ ，黑老虎叶总黄酮提取率呈线性递增， $70 \%$ 时达到最大值 $4 . 6 2 \%$ ，随后提取率下降。根据“相似相溶”原理，黑老虎叶总黄酮的极性与 $70 \%$ 乙醇极性相似，所以在乙醇浓度为 $70 \%$ 时提取率最大；随着乙醇浓度的增大，醇溶性杂质提取程度也会增大，由于杂质与黄酮存在竞争关系，从而导致黄酮提取率的降低（艾薇等，2018)。所以乙醇浓度优化实验范围为 $6 0 \% { \sim } 8 0 \%$ 。
+
+![](images/9a07aa1a982529e9fdca5c9181bce169d4daa0a4b4287d95430f9bc8a891d128.jpg)  
+图2乙醇浓度对黑老虎叶总黄酮得率的影响
+
+Fig.2 Effects of ethanol concentration on the yield of total flavonoids from Kadsura coccinea leaves
+
+2.1.3提取温度对黑老虎叶总黄酮提取率的影响
+
+如图3所示，温度低于 $6 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 时，黑老虎叶总黄酮提取率随着温度的增加逐渐增大， $6 0 ~ \mathrm { ^ { \circ } C }$ 达到最大值 $4 . 5 3 \%$ ，随后提取率逐渐降低。这可能是由于温度的升高分子间运动变得剧烈，增大了黄酮与乙醇的接触机会，所以提取率增大；但温度过高也会造成部分黄酮结构破坏，从而降低提取率（张军武等，2012)。所以提取温度优化实验范围为 $5 0 { \sim } 7 0 \ \mathrm { ~ \textdegree C }$ 。
+
+![](images/b6ad65e21a150d11ac72ec0e1f45d7bb31b8dd4e4724fb87d51cfbbb7e14f13e.jpg)  
+图3提取温度对黑老虎叶总黄酮得率的影响
+
+Fig.3 Effects of extraction temperature on the yield of total flavonoids from Kadsura coccinea leaves
+
+2.1.4料液比对黑老虎叶总黄酮提取率的影响
+
+如图4所示，在物料一定时，总黄酮提取率随着溶剂量的增加逐渐增大， $\mathbf { \nabla } _ { 1 } : 2 0$ 时达到最大值 $4 . 5 3 \%$ ，而当料液比大于 $\mathbf { \nabla } 1 : 2 0$ 后总黄酮提取率增大不明显。这可能是由于在一定范围内，溶剂量的增加导致物料与溶剂的接触面积增大，故黄酮提取率增大；而当料液比达到一定值后，物料与溶剂量的比例达到一个饱和状态，此时再增加溶剂的量对提取率影响不大，反而会造成溶剂的浪费。所以乙醇浓度优化实验范围为 $1 : 1 5 \sim 1 : 2 5$ （ $\mathbf { g } { \cdot } \mathbf { m } \mathbf { L } ^ { - 1 }$ ）
+
+![](images/1c3f19c5da6571a7940cce8ac7afd510b6c9f2af4d73a6354f255de9553a1f8d.jpg)  
+图4料液比对黑老虎叶总黄酮得率的影响
+
+Fig.4 Efects of material liquid ratio on the yield of total flavonoids from Kadsura coccinea leaves
+
+# 2.2正交优化实验
+
+根据单因素实验情况，按照表1设计正交实验优化黑老虎叶总黄酮提取工艺参数，其结果及分析如表2所示。
+
+由表2可知，各因素影响黑老虎叶总黄酮提取率的顺序如下：乙醇浓度（B) $>$ 提取时间（A) $>$ 提取温度（C） $>$ 料液比（D)。最佳提取条件为 ${ \bf A } _ { 2 } { \bf B } _ { 3 } { \bf C } _ { 1 } { \bf D } _ { 2 }$ ，即提取时间为 $3 5 \mathrm { m i n }$ 、乙醇浓度 $80 \%$ 、提取温度 $5 0 ^ { \circ } \mathrm { C }$ 、料液比 $1 : 2 0 \ \mathrm { g } { \cdot } \mathrm { m } \mathrm { L } ^ { - 1 }$ 。在此条件下黑老虎叶总黄酮提取率为 $4 . 8 3 \%$ 。
+
+表2正交实验结果及分析  
+Table 2 Results and analysis for orthogonal test   
+
+<html><body><table><tr><td>d</td><td></td><td>双</td><td></td><td>6</td><td>8</td><td>L</td><td>9</td><td></td><td>4</td><td>c</td><td>乙 一</td><td>Number 序号</td></tr><tr><td></td><td>10</td><td>三 .89</td><td>10.49</td><td></td><td></td><td></td><td>乙</td><td>乙 乙</td><td>一</td><td>一</td><td>一</td><td>V</td></tr><tr><td></td><td></td><td>10.99</td><td>6</td><td></td><td>乙</td><td>I</td><td>乙</td><td>I</td><td></td><td>乙</td><td>I</td><td>a</td></tr><tr><td>0.93</td><td>11.04</td><td>10.58</td><td>11.51 I</td><td>乙</td><td>I</td><td>c</td><td>I c</td><td>乙</td><td>c</td><td>乙</td><td>I</td><td></td></tr><tr><td>0.92</td><td>10.71</td><td>11.63</td><td>10.79</td><td>I</td><td>c</td><td>乙 乙</td><td>一</td><td></td><td></td><td>乙</td><td>I</td><td>Total flavonoids yield</td></tr></table></body></html>
+
+# 2.3黑老虎叶总黄酮抗氧化实验
+
+2.3.1黑老虎叶总黄酮清除DPPH自由基能力
+
+由图5可知,在浓度为 $0 { \sim } 0 . 2 0 \ \mathrm { m g { \cdot } m L ^ { - 1 } }$ 时,随着黑老虎叶总黄酮浓度的增加,其对DPPH自由基清除能力逐渐增大。在浓度为 $0 . 8 \mathrm { \ m g { \cdot } m L ^ { - 1 } }$ 时，黑老虎叶总黄酮对DPPH自由基清除率为 $9 4 . 3 \%$ ，相当于该浓度下Vc对DPPH自由基清除率的 $9 7 . 6 \%$ ，结果表明黑老虎叶总黄酮能够很好的清除DPPH自由基。
+
+黑老虎叶总黄酮清除DPPH自由基的 $\mathrm { I C } _ { 5 0 }$ 为 $0 . 0 6 7 \ \mathrm { m g { \cdot } m L ^ { - 1 } }$ ，段宙位（2015）研究了沉香叶黄酮类化合物清除DPPH自由基的 $\mathrm { I C } _ { 5 0 }$ 为 $1 . 1 4 \mathrm { m g } { \cdot } \mathrm { m L } ^ { - 1 }$ ，表明黑老虎叶总黄酮对DPPH自由基具有较好的清除能力。
+
+![](images/19ea5e8c19230c57b2b5e046f10aa05f8b3cb152e9a1d400792be78401bf426b.jpg)  
+图5黑老虎叶总黄酮对DPPH清除能力
+
+# 2.3.2黑老虎叶总黄酮清除·OH自由基能力
+
+由图6可知，在浓度为 $0 { \sim } 0 . 2 0 \ \mathrm { m g { \cdot } m L \Sigma ^ { - 1 } }$ 时，随着黑老虎叶总黄酮对·OH自由基清除能力随着浓度的增加逐渐增大。在浓度为 $0 . 8 \ \mathrm { m g { \cdot } m L ^ { - 1 } }$ 时，虽然黑老虎叶总黄酮对·OH自由基的清除能力低于同浓度下的 $\mathrm { v } _ { \mathrm { c } }$ ，但其对·OH自由基清除率达到了 $8 2 . 1 \%$ ，相当于该浓度下Vc 清除·OH自由基能力的 $8 7 . 2 \%$ ，结果表明黑老虎叶总黄酮对·OH自由基有较好的清除能力。
+
+黑老虎叶总黄酮清除·OH自由基的 $\mathrm { I C } _ { 5 0 }$ 为 $0 . 1 2 5 \mathrm { \ m g { \cdot } m L ^ { - 1 } }$ 。艾薇（2018）研究了藿香叶总黄酮清除·OH自由基的 $\mathrm { I C } _ { 5 0 }$ 为 $2 8 1 . 8 9 \mathrm { m g { \cdot } L ^ { - 1 } }$ ，表明黑老虎叶总黄酮能较好的清除·OH自由基。
+
+![](images/75689da6e91e674727dc8ad4512f17996014924878133f2c64094205924dd742.jpg)  
+Fig. 5 Scavenging ability on DPPH of total flavonoids from Kadsura coccinea leaves   
+图6黑老虎叶总黄酮对·OH清除能力  
+Fig. 6 Scavenging ability on $\cdot$ OH of total flavonoids from Kadsura coccinea leaves
+
+# 2.3.3黑老虎叶总黄酮清除超氧阴离子能力
+
+由图7可知，黑老虎叶总黄酮对超氧阴离子清除能力随着浓度的增加逐渐增大，这说明二者之间存在明显的量效关系。在浓度为 $0 . 8 \mathrm { \ m g { \cdot } m L ^ { - 1 } }$ 时，黑老虎叶总黄酮对超氧阴离子清除率为 $9 3 . 7 \%$ ，相当于该浓度下 $\mathrm { v } _ { \mathrm { c } }$ 清除超氧阴离子能力的 $9 5 . 5 \%$ ，结果表明黑老虎叶总黄酮能够较好的清除超氧阴离子。
+
+黑老虎叶总黄酮清除超氧阴离子的 $\mathrm { I C } _ { 5 0 }$ 为 $0 . 0 9 1 \ \mathrm { m g } { \cdot } \mathrm { m L } ^ { - 1 }$ ，张黎明（2014）研究了玛咖叶总黄酮清除超氧阴离子的 $\mathrm { I C } _ { 5 0 }$ 为 $0 . 4 2 5 \mathrm { \ m g { \cdot } m L ^ { - 1 } }$ ，表明黑老虎叶总黄酮对超氧阴离子具有较好的清除能力。
+
+![](images/6b71aa942e669eb13a46c24a04d457f80afdf1218fa649f979b4164b9a8afa55.jpg)  
+图7黑老虎叶总黄酮对超氧阴离子清除能力
+
+Fig.7 Scavenging ability on superoxide anion of total flavonoids from Kadsura coccinea leaves
+
+# 3讨论与结论
+
+黄酮存在植物的叶、花及果实中，目前关于黄酮的提取方法有超声辅助提取法、溶剂提取法、微波辅助提取法、超临界流体萃取法等（万新焕等，2019)。超声辅助提取法通过提供高频率振动，结合空化、机械等多种效应使植物细胞壁破裂；溶剂通过扩散、渗透等效应，根据“相似相溶”原理将细胞内有效成分溶解出来。相比传统的溶剂提取法，高频率的超声波产生的能量可以缩短提取时间，减少溶剂用量，降低提取温度，提高提取效率。相比超临界流体萃取法而言，其对提取设备要求较简单。超声提取法由于其绿色环保、提取效率高、提取条件温和受到了广大研究者的喜爱（Garcia-Castello etal.,2015）。本研究以湖南珍惜资源黑老虎叶为研究对象，采用超声辅助提取其总黄酮，通过单因素及正交实验得到最佳提取工艺条件为时间 $3 5 \mathrm { m i n }$ 、乙醇浓度 $80 \%$ 、提取温度 $5 0 ^ { \circ } \mathrm { C }$ 、料液比 $1 : 2 0 \ \mathrm { g } { \cdot } \mathrm { m L } ^ { - 1 }$ ，最优条件下提取率为 $4 . 8 3 \%$ ，提取效率较高。
+
+科学研究发现，当人体新陈代谢过程中产生的自由基得不到及时清除，过多的自由基将通过氧化作用对人体造成各种损害，如衰老、心血管疾病及炎症等（周益帆等，2019)。从天然植物中寻找副作用低、效果好的抗氧化剂是现在研究热点。黄酮由于其独特的结构特点，常作为天然抗氧化剂来源。黄酮发挥其抗氧化作用机制主要通过三个方面：（1）作用于产生自由基的酶或过渡金属离子来间接清除自由基；（2)直接清除自由基（如DPPH自由基、·OH自由基及超氧负离子等)；（3）通过激活机体抗氧化体系（如酶体系、抗氧化因子等）来实现清除自由基（鲁晓翔，2012)。本研究通过测试黑老虎叶总黄酮清除 DPPH自由基、·OH自由基及超氧负离子的能力来评估其抗氧化强弱。在浓度为 $0 . 8 \mathrm { \ m g { \cdot } m L ^ { - 1 } }$ 时，黑老虎叶总黄酮清除DPPH自由基、·OH自由基及超氧负离子的能力相当于同浓度下 $\mathrm { v } _ { \mathrm { c } }$ 的 $9 7 . 6 \% . 8 2 . 1 \%$ 、$9 5 . 5 \ \%$ ，这表明黑老虎叶总黄酮具有较好的清除以上三种自由基的能力，可以作为天然抗氧化剂来源。这可能是由于黑老虎叶黄酮苯环上存在的羟基能够和自由基发生氧化还原反应生成稳定的半醌式结构，从而阻碍了自由基链式反应的发生而发挥抗氧化作用(鲁晓翔，2012)。
+
+黑老虎为广西、湖南等地常见的药食两用的珍贵植物，目前对黑老虎有效成分的研究主要集中在根茎及果实，对其叶的开发利用鲜少报道。本研究立足于湖南珍植物黑老虎叶，探讨了高效提取其总黄酮的工艺条件，为其提取提供技术路线；测试了黑老虎叶总黄酮体外抗氧化活性，为其用于食品保健品及护肤品的开发提供理论基础。此外，在后续研究中可进一步探讨黑老虎叶总黄酮体内抗氧化活性、作为抗氧化剂用于保健品或药物的剂型及其它生物学活性，如抗炎、抗肿瘤等。
+
+参考文献：   
+AI W，LI Y，KUANG JQ, et al., 2018.Extraction technology of flavonoids from the leaf of Agastacbe rugose (Fisch.et.Mey.) O.Ktze and its antioxidant activities in vitro [J]. Sci Technol Food Ind,38(22):187-191.[艾薇，李悦，匡建秋，2018．藿香叶黄酮提取工艺优化及其体 外抗氧化活性[J]．食品工业科技,38(22)：187-191.]   
+CHANPUT W, KRUEYOS N, RITTHIRUANGDEJ P, 2016. Anti-oxidative ssays as markers for anti-inflammatory activity of flavonoids [J]. Int Immunopharmacol, 40: 170-175.   
+DUAN ZW,LI WeG, DOU ZH,et al.,2015. Extraction and antioxidant activity of Flavonoids from Aquilaria sinensis (Lour.) Gilg leaves [J].Food Sci,36(6): 45-50.[段宙位，李维国，窦志 浩，等，2015.沉香叶黄酮类化合物的提取及其抗氧化活性[J]．食品科学,36(6)：45-50.]   
+FAN YL， ZHANG B,LI ZY,et al.， 2017. Study on extraction process and anti-oxidative activity of total flavonoids from Chinese jujube seeds [J].Food Res Dev,38(3): 95-100.[范艳丽,张博, 李梓溢，等，2017．红枣核总黄酮的提取工艺及抗氧化活性研究［J]．食品研究与开发, 38(3)：95-100.]   
+GARCIA-CASTELLO EM, RODRIGHEZ-LOPEZ AD, MAYOR L, et al., 2015. Optimization of conventional and ultrasound assisted extraction of flavonoids from grapefruit (Citrus paradise L.) solid wastes [J]. LWT-Food Sci Technol, 64(2):1114-1122.   
+HAO J, 2014. Effets of black rice extract against hepatotoxicity and nephrotoxicity induced by stress and studies on anthocyanins in fruit of Kadsura coccinea (Lem).A.C.Smith [D]. Suzhou: Suzhou University:1-120.[郝杰，2014．黑米花色苷抗应激性肝、肾组织毒性作用及黑老虎 果花色苷成分的研究[D].苏州：苏州大学：1-120.]   
+JIANG XJ，WU W， ZHANG YT, 2O18. Research on extraction and antioxidant activity of total flavonoids from stems and leaves of Physalis alkekengi [J]. Food Res Dev,39(19): 45-51. [姜秀 娟，吴威，张雅婷，等，2018．红姑娘茎叶总黄酮提取及体外抗氧化活性研究［J]．食品研 究与开发,39(19)：45-51.]   
+LU J，LIU RR， ZHAO XM, et al.，2018. Research progress of active constituents and physiological activity of Kadsura coccinea [J].Food Res Dev,39(2): 219-224.[陆俊，刘如如, 赵雪萌，等，2018．黑老虎活性成分及生理活性研究进展［J]．食品研究与开发，39(2)： 219-224.]   
+LI HX,FAN J, HU W, et al., 2012. Triterpenes from Kadsura coccinea [J]. J Tradit Compl Med, 2(2): 154-157.   
+LI ZC， SUN J，FENG Y, et al.,2011. An experimental animal investigation on toxicity and blood Llipid modulating effect of Kadsura coccinea fruit [J]． Food Sci, 32(1): 203-205.[李志春，孙 健，封毅，等，2011．黑老虎果毒理实验及其对血脂的调节作用[J]．食品科学，32(1)： 203-205.]   
+LIANG ZY， GAN XH， YANG XS, et al.,2016. Optimization of extracting total flavonoids from Fordia cauliflora by response surface methodology [J]. Guahaia,36(9): 1119-1135. [梁志远, 甘秀海，杨小生，等，2016.响应面法优化干花豆总黄酮提取工艺研究［J]．广西植物， 36(9): 1119-1135.]   
+LI XR，ZHU M，HAN SM，et al.，2O19. Optimization of ultrasonic-assisted extraction of flavonoids from Rosa roxburghii leaves [J]. Food Res Dev,40(12): 189-193.[李欣燃，朱淼, 韩世明，等，2019．刺梨叶总黄酮超声辅助提取工艺优化[J]．食品研究与开发,40(12)： 189-193.]   
+LU XX.2012. Research progress in antioxidant mechanism of flavnonids[J]. Food Res Dev, 33(3): 220-224.[鲁晓翔，2012.黄酮类化合物抗氧化作用机制研究进展[J]．食品研究与开发, 33(3): 220-224.]   
+PAN SY, TIAN YZ, WEI SP, 2019. Ionic Liquid-based microwave-asssted extraction and antioxidant activity of total flavonoids from Apocynum venetum L. Leaves [J]. Mod Food Sci Technol,35(7):1-10.[潘思源，田英姿，韦士鹏，2019．微波辅助离子液体提取罗布麻叶总 黄酮及其抗氧化活性研究[J]．现代食品科技，35(7)：1-10.]   
+PANG YX,ZHANG XR, YU FL,et al.,2015. Determination of extraction process and antioxidant activity of the total flavonoids from Euphorbia hirta [J]. Guahaia,35(1): 115-119.[庞玉新，张 新蕊，于福来，等，2015．大飞扬总黄酮提取工艺优化及抗氧化活性测定［J]．广西植物， 35(1): 115-119.]   
+REHMAN JU, WANG M, YANG YP, et al., 2019. Toxicity of Kadsura coccinea (Lem.) A. C. Sm. essential oil to the Bed Bug, Cimex lectularius L. (Hemiptera: Cimicidae) [J]. Insects,10(6): 162-172.   
+SU KD ，LI YM, HUANG XL,et al.， 2018. Complexion of Kadsura coccinea extract with cyclodextrin: characterization， thermal stability， antioxidative properties in vitro and the protective effects on kidney damage[J]. J Incl Phenom Macro, 91(3-4): 141-148.   
+SONG Y, ZHAO QJ, JIN YS, et al., 2O10. Two new triterpenoid acids from Kadsura coccinea [J]. Arch Pharm Res,33(12): 1933-1936.   
+WAN XH, CHEN XM, MA S,et al.， 2019. Applications of new methods in extraction of flavonoids from Chinese materia medica[J]. Chin Trad Herb Drugs， 50(15): 3691-3699.[万 新焕，陈新梅，马山，等，2019.黄酮类化合物提取新方法的应用[J]．中草药，50(15)： 3691-3699.]   
+XU HC,HU K,SUN HD,et al.，2019.Four 14 $1 3  1 2 )$ -Abeolanostane triterpenoids with 6/6/5/6-fused ring system from the roots of Kadsura coccinea [J]. Nat Prod Bioprosp, 9 (3): 165-173.   
+XIE W, YANG T, ZHAO WL, 2016. The functional components analysis and application prospect of Kadsura coccinea seed [J].Food Res Dev,37(12): 1-5.[谢玮，杨涛，赵雯霖，2016．黑老 虎籽功能成分分析及其应用前景展望[J]．食品研究与开发,37(12)：1-5.]   
+YEON JF, CHENG L, KONG LY, et al.，2013. Chemical constituents and their anti-oxidative activities of Kadsura coccinea [J].Chin Trad Herb Drugs,44(21): 2967-2973.[延在昊,成亮, 孔令义，等,2013.黑老虎化学成分及其抗氧化活性研究[J].中草药,44（21):2967-2973.]   
+YANG Y, ZHANG CL,WANG J, et al.， 2003. Research progress of active constituents and physiological activity of Kadsura coccinea [J]．Prog Chem，15(4): 327-331.[杨毅，张成路, 王喆，等,2003．木脂素抗艾滋病病毒研究[J]．化学进展，15(4)：327-331.]   
+ZHAO QJ, SONG Y, CHEN HS, 2014, Cytotoxic dibenzocyclooctadiene lignans from Kadsura coccinea [J].Arch Pharm Res,37(11): 1375-1379.   
+ZHANG JW, ZHAO Q, 2012. Study on optimal reflux extraction temperature of total flavonoids from Radix astragali by ethanol[J]. Liaoning JTrad Chin Med,39(4): 1133-1134.[张军武，赵
+
+琦,2012.乙醇回流提取黄芪总黄酮最佳温度考察[J]．辽宁中医杂志,39(4)：1133-1134.]ZHANG LM,LI RC, HAO LM, et al., 2014. Response surface methodology for optimization ofextracting total flavonoids from maca leaves and antioxidant evaluation [J].Mod Food SciTechnol,30(4):233-239.[张黎明，李瑞超，郝利民，等，2014．响应面优化玛咖叶总黄酮提取工艺及其抗氧化活性研究[J]．现代食品科技，30(4)：233-239.]ZHOU YF，YANG Y，LU HM，et al., 2O19.Polysaccharide extraction from Morchella and itsantioxidant activity[J].Guihaia，39(7):887-895．[周益帆，杨滢，卢会敏，等，2019．羊肚菌多糖提取及其抗氧化活性研究［J]．广西植物，39(7)：887-895.]

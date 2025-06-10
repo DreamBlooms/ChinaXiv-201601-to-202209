@@ -1,0 +1,214 @@
+# 基于蒸发血实验的大气水汽氢氧稳定同位素模拟
+
+雷世军¹²，王圣杰²，朱小凡³，张明军1.2（1.西北师范大学地理与环境科学学院,甘肃 兰州730070；2.甘肃省绿洲资源环境与可持续发展重点实验室，甘肃 兰州730070；3.中国科学院西北生态环境资源研究院，甘肃 兰州730000)
+
+摘要：大气水汽氢氧稳定同位素直接反映了水在大气中输送、混合和相变等过程的关键信息，通过蒸发皿实验可以模拟大气水汽氢氧稳定同位素组成，但模拟方法的可靠性仍需要实测资料的验证。于2019年9—11月在甘肃兰州进行了蒸发皿实验，对逐日大气水汽氢氧稳定同位素进行模拟，同期利用在线大气水汽氢氧稳定同位素分析仪进行实时监测从而对模拟结果的可靠性进行验证。研究发现：（1）利用自然蒸发状态下的Craig-Gordon线性阻力模型和水体同位素质量平衡方法模拟得到的大气水汽中 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 与直接测量得到的大气水汽中 $8 ^ { 1 8 } 0$ 之间表现出较好的一致性，均方根误差为 $4 . 5 \% o$ ，平均绝对误差为 $3 . 2 \% o$ ，平均偏差为 $0 . 0 3 \% o _ { \circ } ( 2 )$ 大气水汽中 $\mathbf { \delta } ^ { \mathrm { 1 8 } } \mathbf { 0 }$ 的模拟残差与相对湿度 $R ^ { 2 } { = } 0 . 4 3 \$ ）、蒸发剩余比 $R ^ { 2 } { = } 0 . 3 9 .$ )和剩余水体同位素值( $R ^ { 2 } { = } 0 . 3 9 \$ )都具有一定相关性。(3）模型对相对湿度的敏感性高，在相对湿度较低时模型误差会增大。在实验末期蒸发剩余比偏低和剩余水体同位素富集的情况下，水汽同位素模拟残差相较于实验前期而言更大。
+
+关键词：氢氧稳定同位素；蒸发皿；模拟；大气水汽
+
+水体中的氢氧稳定同位素（ $\mathrm { ^ { 2 } H }$ 和 $^ { 1 8 } \mathrm { O }$ )是研究水文循环和古气候信息重建的天然示踪剂[1-3]。大气水汽是形成降水的必要物质条件，水汽中氢氧稳定同位素也相应地蕴含着蒸发、输送、凝结等环境信息[4-7]。相比于降水，大气水汽同位素能为水汽过程诊断提供直接的证据，其优势表现在时间、空间等多方面[5]。水汽同位素可以实现全天候的连续监测[8-10],不像降水同位素那样仅能够代表降水时段的特征，从而得到时间序列连续的大气水分信息，这在降水匮乏的干旱半干旱区显得十分重要。结合浮空艇、无人机和卫星遥感等手段，水汽同位素还可以实现三维空间覆盖，相比之下地面降水同位素对垂直方向上的水汽过程刻画则具有其局限性[1I-12]。此外,雨滴在不饱和空气中的下落过程可能会发生云下二次蒸发，影响降水同位素的时空特征[13-16],而对水汽同位素的监测能够在一定程度上弱化云下蒸发导致的降水同位素信息失真问题。
+
+早期大气水汽氢氧稳定同位素研究主要以低温冷凝空气获得液态水样进行分析，即低温冷阱法，该方法对实验操作具有较高的要求，往往难以精细表征大气水汽同位素在时间和空间上的变化，特别是在水汽含量低的情况下水汽液化比较耗时费力[17-19]。随着激光光谱技术的发展,实时在线监测大气水汽的氢氧稳定同位素数据成为可能[20-22]激光光谱技术克服了低温冷阱法在连续测量上的局限性，但由于成本相对较高，无法广泛地开展监测工作。当不能直接监测大气水汽同位素时，可利用Craig-Gordon线性阻力模型[23和水体同位素质量平衡方法来模拟[24-27],并结合实测水汽同位素数据加以验证。
+
+为了研究基于Craig-Gordon线性阻力模型和同位素质量平衡的方法在计算干旱半干旱区大气水汽氢氧稳定同位素时的可靠性，本文基于蒸发血实验模拟了甘肃兰州大气水汽氢氧稳定同位素，并结合在线水汽同位素分析仪的同步监测记录，评估了蒸发血实验模拟结果的可靠性，旨在为获取连续大气水汽氢氧稳定同位素数据提供了一种相对简单的方法。
+
+# 1材料与方法
+
+# 1.1蒸发血实验
+
+试验地位于甘肃省兰州市安宁区西北师范大学新校区 $( 1 0 3 ^ { \circ } 4 4 ^ { \prime } \mathrm { E } , 3 6 ^ { \circ } 6 ^ { \prime } \mathrm { N } )$ ,地处季风边缘区，属于半干旱气候，气温年较差大，降水多集中在夏季。蒸发皿实验于2019年9月25日—11月1日进行，实验期间的平均气温为 $1 4 . 4 ~ \mathrm { { ^ { 1 4 } C } }$ ,平均相对湿度为 $4 6 \%$ 。选用长 $4 2 0 ~ \mathrm { m m }$ 宽 $2 2 0 ~ \mathrm { m m }$ 高 $2 0 0 ~ \mathrm { m m }$ 的长方体透明玻璃水箱作为蒸发皿，放置于开阔、通风良好的场地。当有降雨发生时，在蒸发皿上方$0 . 5 \mathrm { ~ m ~ }$ 高度处用透光塑料薄膜遮盖，防止降雨进入蒸发皿，降雨结束后及时移除。实验初始将当地自来水注入蒸发皿中，每日同一时间用钢尺测量水位并记录，然后充分搅拌水体后用注射器抽取 $1 ~ \mathrm { m L }$ 的水体样本储存在玻璃瓶中密封冷藏保存。为了减少取样造成水量损失对结果的影响，在上述蒸发皿旁$0 . 5 \mathrm { ~ m ~ }$ 处设置一个同样大小和材质的蒸发血作为补给箱，在初始条件下装入同量的自来水同时进行蒸发，每日抽取 $1 ~ \mathrm { m L }$ 的水体补充到用于收集剩余水体的蒸发皿中。实验过程中实时监测大气温度和相对湿度并记录。抽取的逐日蒸发剩余水体采用加拿大ABB-LosGatosResearch公司研发的T-LWIA-45-EP型液态水同位素分析仪进行氢氧稳定同位素测定， $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 的测量误差小于 $\pm 0 . 3 \% o$ $\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 的测量误差小于 $\pm 1 . 0 \% o$ 。
+
+氢氧稳定同位素比率用相对于维也纳标准平均海洋水(V-SMOW)的千分差表示，公式如下：
+
+$$
+\ S = \left( \frac { R _ { \mathrm { \mathrm { { s a m p l e } } } } - R _ { \mathrm { { v \cdot S M O W } } } } { R _ { \mathrm { { v \cdot S M O W } } } } \right) \times 1 0 0 0 \%
+$$
+
+式中： $R _ { \mathrm { s a m p l e } }$ 表示蒸发水体样本的同位素比率; $R _ { \mathrm { { V } \cdot { \mathrm { S M O W } } } }$   
+表示维也纳标准平均海洋水的同位素比率。
+
+# 1.2大气水汽同位素测量
+
+大气水汽氢氧稳定同位素的监测采用加拿大ABB-LosGatosResearch公司研发的超便携式水汽同位素分析仪（UltraportableWater VaporIsotope Analyzer，型号UWVIA-915），与蒸发皿实验同期进行。该分析仪基于离轴集成腔输出光谱技术，可以通过测定不同氢氧稳定同位素对于特定波长红外波的吸收强度来计算其浓度，采样频率可达秒级。本研究中 $8 ^ { 1 8 } 0$ 的测量精度为 $\pm 0 . 0 5 \% o$ ， $\mathfrak { F } ^ { 2 } \mathrm { H }$ 的测量精度为 $\pm 0 . 2 \% o$ 。仪器通过水汽校准源系统(Water $\mathrm { V a } .$ （2porIsotopeStandardSource,简称WVISS)产生标样水汽，测量过程中将标样水汽每浓度梯度开始时和结束时的测量值删除，取每梯度中间较为稳定的同位素值作为该梯度的标样水汽同位素值以减轻记忆效应对实验结果的影响。在测量大气水汽同位素时，将前 $1 0 ~ \mathrm { m i n }$ 的测量值删除，至大气水汽浓度稳定以后再进行测量[28]。浓度效应的校准参考了Rambo等[29]的方法，标样水中同位素和气化后的标样水汽中的同位素一致[20.30],可通过T-LWIA-45-EP型液态水同位素分析仪测定后作为标样水汽的真值，将该测量真值与水汽同位素分析仪得到的标样水汽同位素求差，用水汽浓度和差值进行二项式曲线拟合，获得对应水汽浓度下的测量误差值，从而对水汽同位素进行浓度效应校准。
+
+# 1.3基于蒸发血实验的模拟计算
+
+Craig-Gordon线性阻力模型23被广泛应用在蒸发水汽同位素的估算中，方法如下：
+
+$$
+\mathfrak { \delta } _ { \mathrm { E } } = \frac { \left( \mathfrak { d } _ { \mathrm { L } } - \varepsilon ^ { * } \right) \big / \alpha ^ { * } - h \mathfrak { d } _ { \mathrm { A } } } { 1 - h + \varepsilon _ { \mathrm { K } } }
+$$
+
+式中： $\mathfrak { S } _ { \mathrm { E } }$ 表示蒸发水汽的同位素比率； $\ S _ { \mathrm { { L } } }$ 表示蒸发剩余水体的同位素比率； $\mathfrak { S } _ { \mathrm { A } }$ 表示大气水汽同位素比率；$h$ 是空气的相对湿度； $\alpha ^ { * }$ 是平衡分馏系数，可以通过Horita等[31]的公式得到； $\boldsymbol { \varepsilon } ^ { * }$ 是平衡分馏因子，可由 $\varepsilon ^ { * } =$ $\alpha ^ { * } { - } 1$ 得到； $\boldsymbol { \varepsilon } _ { \mathrm { K } }$ 是动力分馏因子，氧和氢的同位素动力分馏因子分别为 $\pmb { \varepsilon } _ { \mathrm { K } } { = } 1 4 . 2 ( 1 { - } h )$ 和 $\varepsilon _ { \mathrm { { K } } } { = } 1 2 . 5 ( 1 { - } h ) ; \varepsilon$ 是总分馏因子, $\scriptstyle \varepsilon = \varepsilon ^ { * } + \varepsilon _ { \mathrm { K } } ^ { \ [ 3 2 ] }$ 。Gibson等[25]认为蒸发水体的同位素取决于大气水汽的同位素，对于一个混合良好的水体在自然蒸发条件下而言，在 $\mathrm { d } t$ 的时间间隔下，水量的变化为 $\mathrm { d } V$ ，则质量平衡方程为：
+
+$$
+\frac { \mathrm { d } V } { \mathrm { d } t } = I - Q - E
+$$
+
+同位素质量平衡方程为：
+
+$$
+\frac { \mathrm { d } \big ( V \delta _ { \mathrm { L } } \big ) } { \mathrm { d } t } = I \delta _ { \mathrm { I } } - Q \delta _ { \mathrm { Q } } - E \delta _ { \mathrm { E } }
+$$
+
+式中： $V$ 是水体的水量； $I$ 是水的流入量； $\ S _ { \mathrm { I } }$ 是流入水体的同位素组成; $Q$ 是流出量; $\mathfrak { d } _ { \mathrm { Q } }$ 是流出水体的同位素比率； $E$ 是蒸发量； $\mathfrak { S } _ { \mathrm { E } }$ 是蒸发水体的同位素比率。将式（2）中 $\mathfrak { S } _ { \mathrm { E } }$ 代入式(4)可得：
+
+$$
+V \frac { \mathrm { d } \hat { \mathbf { \theta } } _ { \mathrm { L } } } { \mathrm { d } t } + \hat { \mathbf { \theta } } _ { \mathrm { L } } \frac { \mathrm { d } V } { \mathrm { d } t } = I \hat { \mathbf { \theta } } _ { \mathrm { I } } - Q \hat { \mathbf { \theta } } _ { \mathrm { 0 } } - E \frac { \left( \hat { \mathbf { \theta } } _ { \mathrm { L } } - \boldsymbol { \varepsilon } ^ { * } \right) / \alpha ^ { * } - h \hat { \mathbf { \theta } } _ { \mathrm { A } } - \boldsymbol { \varepsilon } _ { \mathrm { K } } } { \left( 1 - h + \varepsilon _ { \mathrm { K } } \right) }
+$$
+
+此式为同位素质量平衡方程的通用公式。在本实验中，蒸发皿作为蒸发水体的容器，体积固定，不存在流入和流出的情况，蒸发皿中水量只受到自然条件下的蒸发影响而减小。将 $V _ { 0 }$ 当作蒸发初始时的水量，定义 $f { = } V / V _ { 0 }$ 为蒸发程度的指标，式(4)可改写为：
+
+$$
+\frac { \mathrm { d } \widehat { \mathbf { \rho } } _ { \mathrm { L } } } { \mathrm { d } \left( \mathrm { l n } f \right) } { = } \widehat { \mathbf { \rho } } _ { \mathrm { E } } - \widehat { \mathbf { \delta } } _ { \mathrm { L } }
+$$
+
+将式(2)和式(6)合并整理可得：
+
+$$
+\frac { \ S _ { \mathrm { { L } } } - \ S } { \ S _ { \mathrm { { 0 } } } - \ S } ^ { * } = f ^ { m }
+$$
+
+$$
+\mathfrak { z } ^ { * } = \frac { h \mathfrak { \delta } _ { \mathrm { A } } + \varepsilon } { h - \varepsilon }
+$$
+
+随着蒸发的进行，水体中同位素 $\ S _ { \mathrm { \Phi } }$ 逐渐接近1个固定值，称之为同位素的“稳态”，即式(7)中 ${ \boldsymbol { \mathfrak { E } } } ^ { * }$ ,其中 $m = \frac { h - \varepsilon } { 1 - h + \varepsilon _ { \mathrm { K } } }$ ʰ-ε。是一个几乎完全取决于相对湿度的参数[33]。
+
+将式(7)和式(8)整理后可得：
+
+$$
+\mathfrak { J } _ { \mathrm { A } } = \frac { 1 } { h } \left[ \frac { \left( \mathfrak { d } _ { \mathrm { L } } - \mathfrak { d } _ { 0 } f ^ { m } \right) \left( h - \varepsilon \right) } { \left( 1 - f ^ { m } \right) } - \varepsilon \right]
+$$
+
+该式即为通过蒸发皿实验计算大气水汽同位素的计算式。
+
+对于大气水汽同位素的模拟精度采用均方根误差（RootMeanSquareError,RMSE）、平均绝对误差(MeanAbsoluteError，MAE)和平均偏差(MeanBi-as Error,MBE)进行评估。
+
+$$
+\mathrm { R M S E } = \sqrt { \frac { \displaystyle \sum _ { i = 1 } ^ { n } \bigl ( \hat { \mathbf { \mathbf { \theta } } } _ { \mathrm { A } , i } - \hat { \mathbf { \theta } } _ { \mathrm { A } - \mathrm { P D } , i } \bigr ) ^ { 2 } } { n } }
+$$
+
+$$
+\mathrm { M A E } = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \lvert \hat { \mathbf { \delta } } _ { \mathrm { A } , i } - \hat { \mathbf { \delta } } _ { \mathrm { A } \cdot \mathrm { P D } , i } \rvert
+$$
+
+$$
+\mathrm { M B E } = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } ( \hat { { \bf { b } } } _ { \mathrm { { A } } , i } - \hat { { \bf { b } } } _ { \mathrm { { A } } - \mathrm { { P D } } , i } )
+$$
+
+式中： $\mathfrak { F } _ { \mathrm { A } }$ 表示实测的大气水汽同位素比率； $\mathfrak { S } _ { \mathrm { A - P D } }$ 表示模拟的大气水汽同位素比率。
+
+# 2结果与分析
+
+# 2.1氢氧稳定同位素的时间变化
+
+蒸发水体的稳定同位素初始值分别为 $8 ^ { 1 8 } \mathrm { { O } = }$ $- 9 . 5 0 \% o$ 和 $1 8 ^ { 2 } \mathrm { H } \mathrm { = } \mathrm { - } 6 5 . 6 0 \%$ ，随着蒸发血中水体的蒸发损失，剩余水体中稳定同位素逐渐富集， $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 从$- 9 . 5 0 \% o$ 增大至 $2 1 . 0 8 \% o$ （图1a）， $\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 从 $- 6 5 . 6 0 \text{‰}$ 增大至 $5 0 . 2 5 \text{‰}$ (图1b)。这符合蒸发剩余水体中同位素的基本变化规律[34-35]。Devi等[27]在印度的蒸发皿实验中，剩余水体中 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 从 $- 6 . 3 0 \% o$ 增大至 $1 3 . 6 3 \% o$ $\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 从 $_ { - 4 3 . 4 8 \% o }$ 增大至 $4 6 . 5 0 \text{‰}$ ,与本研究中水体同位素的变化范围比较接近，但实验期间平均温度1 $2 6 . 5 ~ \mathrm { \textbar { C } }$ )和相对湿度( $4 9 \%$ )比本研究更高。
+
+在实验前期，蒸发剩余水体同位素变化相对较为平缓，而在实验末期蒸发血中水量减少，水体更易受到气象条件变化的影响，同位素的蒸发富集速率略微增加。伴随着蒸发过程，模拟的蒸发水汽同位素也逐渐富集，表现出和蒸发剩余水体类似的规律， $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 从 $- 3 9 . 3 5 \% o$ 逐渐富集到 $1 3 . 7 3 \% o$ ， $\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 从$- 1 6 6 . 8 \% o$ 逐渐富集到 $1 8 . 4 3 \text{‰}$ ，但在整体上低于剩余水体中的稳定同位素(图1)。实测大气水汽中的 $\mathbf { \delta } ^ { \mathrm { \tiny { \cdot } } } \mathbf { \delta } ^ { \mathrm { \tiny { 8 } } } \mathbf { 0 }$ 在实验期间的变化范围在 $- 2 3 . 4 \% o \mathrm { \sim } 1 3 . 8 6 \% o .$ 之间，平均值为 $- 1 8 . 3 6 \% o$ $\mathfrak { F } ^ { 2 } \mathrm { H }$ 的变化范围在 $- 1 5 4 . 7 9 \% o$ （204号$- 9 0 . 1 1 \% o$ 之间，平均值为 $- 1 2 2 . 6 9 \% o$ 。基于蒸发血实验模拟的大气水汽中 $8 ^ { 1 8 } 0$ 的变化范围在 $- 3 1 . 0 2 \% o \sim$ $- 7 . 0 3 \% o$ 之间，平均值为 $- 1 8 . 5 6 \% o$ ， $\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 则在$- 2 1 7 . 7 4 \% o \sim - 1 1 3 . 2 2 \% o$ 之间，平均值为 $- 1 5 3 . 0 9 \% o$ 。从时间序列来看，模拟大气水汽 $\mathbf { \delta } ^ { 8 } \mathbf { 0 }$ 在实验前期波动较小并与直接测量得到的大气水汽 $\mathbb { \delta } ^ { 1 8 } \mathrm { O }$ 表现出较好的一致性，在实验末期模拟大气水汽 $\{ \delta ^ { 1 8 } 0$ 的波动相对较大。总体来说，在观测时段内，模拟的大气水汽同位素和实测的大气水汽同位素变化趋势基本一致。
+
+![](images/7f0cbc07f5a8ea213b54785e81f5d9c026f15e67ac2895a5bab8910647e165a4.jpg)  
+图12019年9—11月蒸发皿实验期间实测蒸发剩余水体 $\left( \delta _ { \mathrm { { L } } } \right)$ 、模拟蒸发水汽 $( \delta _ { \mathrm { E } } )$ 、模拟大气水汽 $( \delta _ { \mathrm { A \cdot P D } } )$ 和实测大气水 汽 $( \delta _ { \mathrm { A } } )$ 中 $\delta ^ { 1 8 } \mathrm { O }$ （a）和 $\vert \delta ^ { 2 } \mathrm { H } ( \mathrm { b } )$ 的日变化 Fig.1Daily variations of $\delta ^ { 1 8 } \mathrm { O }$ (a) and $\delta ^ { 2 } \mathrm { H }$ (b) in measured remaining pan water $( \delta _ { \mathrm { L } } )$ ,simulated evaporation water vapor （204号 $( \delta _ { \mathrm { E } } )$ ,simulated atmospheric water vapor $( \ S _ { \mathrm { A - P D } } )$ ,measured atmospheric water vapor $( \delta _ { \mathrm { A } } )$ during evaporation pan experiment from September to November 2019
+
+# 2.2实测值与模拟值的对比
+
+根据蒸发剩余水体中的氢氧稳定同位素比率，可以得到 $\mathbf { \delta } ^ { 8 } \mathbf { O }$ 和 $\mathfrak { F } ^ { 2 } \mathrm { H }$ 的线性关系，即蒸发线( $\delta ^ { 2 } \mathrm { H } =$ $3 . 7 6 \widehat { \mathfrak { d } } ^ { 1 8 } \mathrm { O } \mathrm { - } 2 8 . 5 4$ ,图2)。在自然条件下的蒸发过程中，水体中同位素的变化不仅受到大气温度和相对湿度的影响，也受到大气水汽中同位素的影响[35」，蒸发线的斜率反映了蒸发过程中非平衡分馏程度
+
+80 40 GWML 0 ahhghliiPiig -40 8²H=5.948180-13.54 R²=0.94,P<0.01,n=37 8²H=3.76818O-28.54 -80 0%/Hz9 89 R²=0.99,P<0.01,n=38 -120 W-- -160 石 -200 V 8A-PD -240 R=0-45P<00,8137 O8A -280 □δL -320 L 上 40-35-30-25-20-15-10-5 0 5 10 15 20 25 8180/%0
+
+的强弱，斜率越小表明非平衡分馏越强。本次实验的蒸发线斜率(3.76)符合 $\mathrm { G a t } ^ { [ 3 6 ] }$ 提出的蒸发线斜率通常在3.5\~6之间的观点，表明水体受到了强烈的非平衡分馏作用使得蒸发线的斜率远低于全球降水线的斜率。
+
+相较于实测的大气水汽同位素，模拟所得的大气水汽中 $\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 在整体上要低于实际测量的 $\mathfrak { \delta } ^ { 2 } \mathrm { H }$ （图1b)，因此模拟值分布在实测值的下方(图2)。整体上看，不论实测还是模拟的大气水汽同位素都分布在全球大气水线附近，与 $\mathrm { G a t } ^ { [ 3 7 ] }$ 的观点基本一致。但是本研究的实验地点相对湿度较低( $4 6 \%$ ，同时蒸发强烈，蒸发血的日均实际蒸发量为 $3 . 3 ~ \mathrm { m m }$ ，强烈的动力作用使得模拟和实测的大气水汽线的斜率均低于全球大气水线的斜率，同时蒸发皿水体的体积相较于一般的自然湖泊等地表水体偏小，蒸发模拟的过程更易受到环境因子的影响，使模拟得到的大气水汽线的斜率更低。
+
+# 2.3模型敏感性分析
+
+将相对湿度、气温、蒸发剩余比和蒸发剩余水体同位素组成等参数进行敏感性分析(图3)。利用改变参数后模拟得出的大气水汽同位素与未改变参数模拟得出的大气水汽同位素的偏差来体现该参数的敏感性，偏差越大，表明该参数对模型的敏感性越强。本研究中，相对湿度的变化对于模拟结果的影响比较显著，当相对湿度降低时 $2 \sigma ( \sigma$ ，标准差)时，偏差为 $7 . 6 5 \% o$ ,而当相对湿度增加 $2 \sigma$ 时，偏差为 $3 . 8 7 \text{‰}$ 。相对湿度降低产生的影响大于相对湿度增加时产生的影响(图3a)。非平衡条件下的动力分馏与相对湿度具有很高的相关性[32.38],当相对湿度降低时，动力作用加强使得蒸发朝着更加不平衡的方向发展，模拟的结果也出现较大的偏差
+
+在同等标准差变化下，温度对于该模型的影响相较于相对湿度要小，当温度变化2倍标准差时，模拟结果 $\{ \delta ^ { 1 8 } 0$ 偏差在 $3 \text{‰}$ 以内，对于模拟准确性的影响相对较小(图3b)。在图3c中，蒸发剩余比f减小和增大时， $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 偏差的变化幅度不同，由于 $\cdot f$ 增加后不能超过1，所以选择了0.3倍标准差作为上限，在 $f$ 增加0.3倍标准差以后，偏差增加的幅度也要大于 $f$ 减小0.3倍标准差产生的偏差。剩余水体中同位素富集和贫化程度对模型的影响相对比较对称(图3d)。
+
+# 2.4模拟可靠度评估
+
+在本次实验中，对于 $\mathbf { \delta } ^ { \mathrm { 8 0 } }$ 而言，RMSE为 $4 . 5 \% o$ ，
+
+![](images/1867d8c3b2d4999f3a4d54de31897e5f5a21c391c960ed4a8c17237ed0ec9233.jpg)  
+图32019年9—11月蒸发皿实验期间模拟大气水汽 $\mathrm { \cdot 8 ^ { 1 8 } O }$ 在不同相对湿度(a)、温度(b)蒸发剩余比(c)和蒸发剩余水体 $\mathrm { \cdot 8 ^ { 1 8 } O ( d ) }$ 条件下的敏感性分析  
+Fig.3Sensitivity analysis of simulated $\delta ^ { 1 8 } \mathrm { O }$ in atmospheric water vapor under various conditions of relative humidity (a), temperature (b), remaining ratio (c) and $\delta ^ { 1 8 } \mathrm { O }$ in remaining pan water (d) during evaporation pan experiment from September to November 2019
+
+MAE为 $3 . 2 \% o$ ,MBE为 $0 . 0 3 \% o$ ；对于 $\cdot \mathfrak { d } ^ { 2 } \mathrm { H }$ 而言，RMSE为$3 8 . 1 \text{‰}$ ,MAE为 $2 8 . 3 \% o$ ,MBE为 $2 8 . 3 \% o$ 。Gibson等[25]在加拿大北方的实验结果与本实验相符，在温度和相对湿度已知的情况下，利用蒸发血实验可以得到较为准确的大气水汽同位素组成，这在降水稀少的地区具有重要的价值。类似的结论可见于Devi等[27]和Vallet-Coulomb等[26的实验
+
+将实测水汽 $\delta ^ { \mathrm { 1 8 } } \mathrm { O }$ 与模拟水汽 $\mathbf { \delta } ^ { 8 } \mathbf { ^ { 1 8 } } \mathbf { O }$ 的差值定义为模拟残差， $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 的模拟残差值在 $- 8 \% o \mathrm { { \sim } 1 6 \% }$ 之间， $\mathfrak { d } ^ { 2 } \mathrm { H }$ 的模拟残差值在 $0 \% o \sim 1 2 0 \% o$ 之间。对模拟残差与各实验要素进行相关分析发现，温度与 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 的模拟残差之间的相关性不明显( $R ^ { 2 } { = } 0 . 0 8 )$ 且未通过显著性检验（ $\left( P > 0 . 0 5 \right)$ ，温度不是引起模拟残差的主要原因（图4a)。而相对湿度与 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~  ~ } }$ 的模拟残差之间的相关性较强 $( R ^ { 2 } { = } 0 . 4 3 )$ 且通过了显著性检验 $\left( P < 0 . 0 1 \right)$ ，两者之间具有负相关性(图4b)。相对湿度在 $4 0 \%$ 以上时， $\mathbf { \delta } ^ { 8 } \mathbf { 0 }$ 的模拟残差数据点分布较为集中，而在相对湿度小于 $4 0 \%$ 时模拟残差的数据点分布则更加离散， $\mathbf { \delta } ^ { 8 } \mathrm { { ^ { 1 8 } O } }$ 模拟残差的极大值也出现在相对湿度小于 $4 0 \%$ 的这一区间内，且对应了相对湿度的最小值。在低相对湿度的情况下，水体在蒸发过程中会经历更强烈的非平衡分馏过程，使得模拟结果出现较大的偏差。水汽压与 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 模拟残差呈负相关，相关性低于相对湿度和 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 模拟残差的相关性，数据点的分布也较为分散(图4e）。 $f$ 与 $\mathfrak { \delta } ^ { 1 8 } \mathrm { O }$ 模拟残差呈负相关（ $R ^ { 2 } { = } 0 . 3 9 \$ ，在 $f < 0 . 3$ 以后， $\mathbf { 8 ^ { 1 8 } O }$ 的模拟残差值分布较为离散且出现了极大值和极小值，而在 $0 . 3 <$ $f { < } 0 . 8$ 的部分， $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 模拟残差的分布比较集中，多在$0 \text{‰}$ 附近(图4c）。 $f$ 较小时表明蒸发剩余水体较少，易受到水体和大气之间同位素交换作用的影响，进而影响蒸发血实验的结果。蒸发剩余水体 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 与$\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 模拟残差具有一定的相关性( $R ^ { 2 } { = } 0 . 3 7 \$ )，在实验前期，蒸发剩余水体中同位素的升高，模拟残差从负值逐渐过渡到正值，但总体仍比较接近0。随着蒸发剩余水体 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 大于 $8 \text{‰}$ 以后，模拟残差的分布变得更加离散(图4d)。在蒸发实验的后期，蒸发皿中水量减少后更易受到周围环境变化的影响，使得蒸发过程变得不稳定。同时，在蒸发后期，蒸发血中的
+
+20 20 20 16 (a) · R²=0.08,0.05，237 16 (b) R²=0.36Px1.7 16 (c). R2=.312701,7   
+%/ 12 %/ 12 %/ 12 8 8 8 4 美发 4 美发 4 0 0 0 4 · ： 4 4 ： -8 · 8 上 8 4 6 8 1012 14 16 18 20 22 24 26 0.2 0.3 0.4 0.5 0.6 0.7 0.0 0.2 0.4 0.6 0.8 1.0 温度/C 相对湿度 f 20 20 20   
+0%/美数 1628 4 (d) R2=0.37, %/期 美发 1628 4 (e) R2-0.321.110.01,7 %/美 1628 4 R0.001P47 0 0 0 · A 4 -8 -8 ！ -8 -12-8 -40 4 812 16 20 24 3 6 9 12 15 808 810 812 814 816 818 820 822 蒸发剩余水体 $8 \text{‰}$ （204号 水汽压/hPa 气压/hPa
+
+水体中重同位素已经变得相对富集，实验后期 ${ \delta } ^ { 1 8 } \mathrm { O }$ 的模拟残差较大且较为分散。气压与 $8 ^ { 1 8 } 0$ 的模拟残差之间则没有表现出明显的相关性( $\scriptstyle \cdot { R ^ { 2 } } = 0 . 0 0 1$ ））（图4f）。
+
+$\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 的模拟残差与各要素间的相关关系如图5所示，整体上与图4中 $8 ^ { 1 8 } 0$ 的结果类似，但 $\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 的模拟残差在数值上要大于 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 的模拟残差。此外， $\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 的模拟残差与湿度 $\scriptstyle \cdot R ^ { 2 } = 0 . 5 1$ ），水汽压（ $R ^ { 2 } { = } 0 . 5 3$ 蒸
+
+120 120 120 105 (a) R-017, 065,37 105 (b) -022017 （c） R2=0.526x01,7937   
+%/ 75 0%/美 75 75 6045 6045 美数 6045 30 30 30 · 150 15 150 · 9 4 68 10121416 18 20 22 24 26 0.2 0.3 0.4 0.5 0.6 0.7 0.1 0.3 0.5 0.7 0.9 温度/℃ 相对湿度 f   
+%/美 120 1590万60 (d) R2-0.61,701,3 %/美 120 10860 ③· R²=.53,5.0,7 108 120 (f) 2-0.02103,37 45 残 40 残 40 · 30 15 20 20 P ： · 0 0 0 -80 -60-40 -20020 4060 3 6 9 12 15 808 810 812 814 816 818 820 822 蒸发剩余水体 $8 \text{‰}$ 水汽压/hPa 气压/hPa
+
+发剩余比（ $R ^ { 2 } { = } 0 . 5 2 \ '$ 和蒸发剩余水体 $8 ^ { 2 } \mathrm { H } ( R ^ { 2 } { = } 0 . 6 1 \$ 的相关性要强于 $\mathbf { \delta } ^ { \mathrm { 8 1 8 } } \mathbf { 0 }$ 的模拟残差与上述要素间的相关性。在湿度低于 $4 0 \%$ 和 $f < 0 . 3$ 以及蒸发剩余水体中同位素富集以后， $\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 的模拟残差均出现了较大的离散,但在相对湿度高于 $4 0 \%$ 和 $0 . 3 < f < 0 . 8$ 以及蒸发实验前期， $\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 的模拟残差与上述三要素则体现出较好的相关性。总体来说，相对湿度、蒸发剩余比和蒸发剩余水体中的氢氧同位素三者都与 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 和$\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 的模拟残差存在明显的联系。
+
+# 3结论
+
+本研究基于同位素质量平衡和Craig-Gordon线性阻力模型设计了蒸发血蒸发实验，模拟了与蒸发过程同期的大气水汽同位素组成，结合实际监测的大气水汽同位素数据，对该模型模拟的可靠性做了评估，得出了以下结论：
+
+(1)在实验期间内，基于蒸发皿实验模拟的大气水汽中 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 与实际测量的大气水汽中 $\delta ^ { 1 8 } \mathrm { O }$ 相比,RMSE为 $4 . 4 9 \text{‰}$ ,MAE为 $3 . 2 3 \% o$ ,MBE为 $0 . 0 3 \text{‰}$ ，模拟得到的大气水汽同位素变化可以反映出大气水汽同位素的变化。
+
+(2)通过对模型的敏感性分析发现，在同等标准差变化下，温度对于该模型的影响相较于相对湿度要小。蒸发剩余比减小和增大时， $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 偏差的变化幅度不同，蒸发剩余比增大时结果更加敏感
+
+(3)相对湿度、蒸发剩余比和剩余水体的同位素值都与水汽 $\mathbf { \delta } ^ { 8 } \mathbf { 0 }$ 和 $\mathfrak { F } ^ { 2 } \mathrm { H }$ 的模拟残差存在联系。当相对湿度低于 $4 0 \%$ 时，模拟残差的分布更加离散。在实验末期蒸发剩余比减小以后，模拟残差相较于实验前期而言更大，较少的水量和蒸发剩余水体中相对富集的氢氧稳定同位素对应着较大的水汽同位素模拟残差。
+
+# 参考文献(References):
+
+[1] Bowen GJ,Cai Z,Fiorella RP,et al. Isotopes in the water cycle: Regional-to global-scale patterns and applications[J].Annual Review of Earth and Planetary Sciences,2019,47: 453-479.   
+[2] Jasechko S.Global isotope hydrogeology:Review[J].Reviews of Geophysics,2019,57(3): 835-965.   
+[3] Beyer M,Kuhnhammer K,Dubbert M.In situ measurements of soil and plant water isotopes:A review of approaches,practical considerations and a vision for the future[J].Hydrology and Earth System Sciences,2020,24(9): 4413-4440.   
+[4] 柳景峰,丁明虎,效存德.大气水汽氢氧同位素观测研究进展 理论基础,观测方法和模拟[J].地理科学进展,2015,34 (3): 340-353.[Liu Jingfeng,Ding Minghu, Xiao Cunde.Review on atmospheric water vapor isotopic observation and research: Theory,method and modeling[J]. Progress in Geography,2015,34(3): 340-353.]   
+[5]Galewsky J, Steen-Larsen HC,FieldR D,et al. Stable isotopes in atmospheric water vapor and applications to the hydrologic cycle [J]. Reviews of Geophysics,2016,54(4): 809-865.   
+[6]高晶,姚檀栋,蔡榕,等.青藏高原大气水汽稳定同位素三维观 测体系[J]. 科学通报,2019,64(27): 2822-2829.[Gao Jing, Yao Tandong,Cai Rong,et al.Observation of the atmospheric water vapor stable isotopes in three dimensions over the Tibetan Plateau [J]. Chinese Science Bulletin,2019,64(27): 2822-2829.]   
+[7]Gimeno L,Vazquez M,Eiras-Barca J,et al. Recent progress on the sources of continental precipitation as revealed by moisture transport analysis[J]. Earth-Science Reviews,2020,201: 13070.   
+[8]Tian L, Yu W,Schuster PF,etal. Control of seasonal water vapor isotope variations at Lhasa,southern Tibetan Plateau[J]. Journal of Hydrology,2020,580: 124237.   
+[9]Sarkozy L C,ClouserBW,Lamb K D,et al.The Chicago water isotope spectrometer (ChiWIS-lab): A tunable diode laser spectrometerfor chamber-based measurements of water vapor isotopic evolution during cirrus formation[J]. Review of Scientific Instruments, 2020, 91(4): 045120.   
+[10] Yao T, Zhang X,Guan H, et al. Climatic and environmental controls on stable isotopes in atmospheric water vapor near the surface observed in Changsha, China[J].Atmospheric Environment, 2018,189: 252-263.   
+[11] Galewsky J. Using stable isotopes in water vapor to diagnose relationships between lower- tropospheric stability,mixing,and lowcloud cover near the island of Hawai[J]. Geophysical Research Letters,2018,45(1): 297-305.   
+[12]Thurnherr I, Kozachek A,Graf P,et al.Meridional and vertical variations of the water vapor isotopic composition in the marine boundary layer over the Atlantic and Southern Ocean[J].Atmospheric Chemistry and Physics,2020,20(9): 5811-5835.   
+[13]Graf P,Wernli H,Pfahl S,etal.A new interpretative framework for below-cloud effects on stable water isotopes in vapor and rain [J].Atmospheric Chemistry and Physics,2019,19(2): 747-765.   
+[14] Wang S,JiaoR, Zhang M,etal. Changes in below-cloud evaporation affect precipitation isotopes during five decades of warming across China[J]. Journal of Geophysical Research: Atmospheres, 2021,126(7): e2020JD033075.   
+[15]Wang S,Zhang M, Che Y,et al. Influence of below-cloud evaporation on deuterium excess in precipitation of arid central Asia and its meteorological controls[J]. Journal of Hydrometeorology,2016, 17(7): 1973-1984.   
+[16]王圣杰,张明军.新疆天山降水稳定同位素的时空特征与影响 因素[J].第四纪研究,2017,37(5):1119-1130.[Wang Shengjie, Zhang Mingjun.Spatio-temporal characteristics and influencing factors of stable isotopes in precipitation across the Chinese Tianshan Mountains[J]. Quaternary Sciences,2017,37(5): 1119-1130.]   
+[17] Jacob H, Sonntag C. An $8 -$ year record of the seasonal variation of （204号 $\mathrm { ^ { 2 } H }$ and $^ { 1 8 } \mathrm { O }$ in atmospheric water vapor and precipitation at Heidelberg, Germany[J]. Tellus B,1991,43(3): 291-300.   
+[18]Helliker BR,Roden JS,Cook C,et al.A rapid and precise method for sampling and determining the oxygen isotope ratio of atmospheric water vapor[J]. Rapid Communications in Mass Spectrometry,2002,16(10): 929-932.   
+[19] Gat JR,Klein B,Kushnir Y,et al.sotope compositionof air moisture over the Mediterranean Sea: An index of the air-sea interaction pattern[J]. Tellus,2003,55: 953-965.   
+[20]Wen XF,Sun X M, Zhang S C,et al. Continuous measurement of water vapor D/H and ${ } ^ { 1 8 } \mathrm { O } / { } ^ { 1 6 } \mathrm { O }$ isotope ratios in the atmosphere[J]. Journal of Hydrology,2008,349(3-4): 489-500.   
+[21] Lee X,Sargent S,Smith R,et al. In situ measurement of the water vapor ${ } ^ { 1 8 } \mathrm { O } / { } ^ { 1 6 } \mathrm { O }$ isotope ratio for atmospheric and ecological applications[J]. Journal of Atmospheric and Oceanic Technology,2005,22 (5): 555-565.   
+[22]Li Y,An W,Pang H,et al.Variations of stable isotopic composition in atmospheric water vapor and their controlling factors: A 6- year continuous sampling study in Nanjing, Eastern China[J]. Journal of Geophysical Research: Atmospheres,2020,125(22): e2019JD031697.   
+[23] Craig H,Gordon L I. Deuterium and oxygen 18 variations in the ocean and marine atmosphere[Cl//Tongiorgi E. Stable Isotopes in Oceanographic Studies and Paleotemperatures. Pisa: Consiglio Nazionale delle Ricerche,Laboratorio de Geologia Nucleare,1965: 9-130.   
+[24] Zuber A. On the environmental isotope method for determining the water balance components of some lakes[J]. Journal of Hydrology 1983,61(4): 409-427.   
+[25]Gibson JJ, Edwards T W D,Prowse T D.Pan-derived isotopic composition of atmospheric water vapor and its variability in northern Canada[J]. Journal of Hydrology,1999,217(1-2): 55-74.   
+[26]Vallet-Coulomb C,Cartapanis O,Radakovitch O,et al.Pan-derived isotopic composition of atmospheric vapour in a Mediterranean wetland (Rhone River Delta,France)[J].Isotopes in Environmental and Health Studies,2010,46(1): 37-48.   
+[27]Devi P,Jain A K,Rao M S,et al. Isotopic composition of atmospheric moisture from pan water evaporation measurements[J]. Isotupes 438.   
+[28] 顾小琴,庞洪喜,李亚举,等.光腔衰荡光谱技术测定大气水汽 稳定同位素校正方法研究[J].光谱学与光谱分析,2019,39(6): 1700-1705.[Gu Xiaoqin,Pang Hongxi, Li Yaju,et al. Study on calibration method for atmospheric water vapor stable isotopes observed by cavity ring-down spectroscopy[J]. Spectroscopy and Spectral Analysis,2019,39(6): 1700-1705.]   
+[29] Rambo J,LaiCT,Farlin J,etal.On-sitecalibrationforhigh precision measurements of water vapor isotope ratios using off-axis cavity- enhanced absorption spectroscopy[J]. Journal of Atmospheric and Oceanic Technology,2011,28(11): 1448-1457.   
+[30] Lee X,Sargent S,Smith R,et al.In situ measurement of the water vapor ${ } ^ { 1 8 } \mathrm { O } / { } ^ { 1 6 } \mathrm { O }$ isotope ratio for atmospheric and ecological applications[J]. Journal of Atmospheric and Oceanic Technology,2005,22 (5): 555-565.   
+[31]Horita J,Wesolowski D J. Liquid-vapor fractionation of oxygen and hydrogen isotopes of water from the freezing to the critical temperature[J].Geochimica et Cosmochimica Acta,1994,58(16): 3425-3437.   
+[32] Fritz P,Fontes JC.Handbook of Environmental Isotope Geochemistry[M]. New York: Elsevier,1986.113-168.   
+[33]Welhan JA,Fritz P.Evaporation pan isotopic behavior as an index of isotopic evaporation conditions[J]. Geochimica et Cosmochimica Acta,1977,41(5): 682-686.   
+[34] 章新平,姚檀栋,田立德.水体蒸发过程中稳定同位素分馏的模 拟[J].冰川冻土,2012,25(1): 65-71.[Zhang Xinping,Yao Tandong,Tian Lide. Study on the fractionation mechanism of stable isotope in evaporating water body[J]. Journal of Glaciology and Geocryology,2012,25(1): 65-71.]   
+[35] 包为民,胡海英,王涛,等.蒸发皿中水面蒸发氢氧同位素分馏 的实验研究[J].水科学进展,2008,19(6):780-785.[Bao Weimin,Hu Haiying,Wang Tao,et al. Experimental study on the fractionation mechanism of hydrogen and oxygen stable isotopes in evaporation from water surface of evaporation pans[J]. Advance in Water Science,2008,19(6): 780-785.]   
+[36]Gat JR.Isotopes in the Water Cycle[M].Dordrecht: Springer, 2005: 127-137.   
+[37] Gat JR. Oxygen and hydrogen isotopes in the hydrologic cycle[J]. Annual Review of Earth and Planetary Sciences,1996,24(1): 225- 262.   
+[38]Gat JR.Comments on the stable isotope method in regional groundwater investigations[J]. Water Resources Research,1971,7 (4): 980-993.
+
+# Simulation of stable hydrogen and oxygen isotopes in atmospheric water vapor based on an evaporation pan experiment
+
+LEI Shijun¹²， WANG Shengjie1²， ZHU Xiaofan³， ZHANG Mingjun1,2   
+(1.College of Geographyand Environmental Science,Northwest NormalUniversity,Lanzhou 73oo70,Gansu,China; 2.Key Laboratory of Resource Environment and Sustainable Development of Oasis,Gansu Province,Lanzhou   
+730070,Gansu,China; 3.Northwest Instituteof Eco-Environment and Resources,Chinese Academy of Sciences, Lanzhou 730000, Gansu, China)
+
+Abstract:The stable hydrogen and oxygen isotopes in atmospheric water vapor reflect the key processes of water transport,mixing,and phase change in the atmosphere.The stable isotopic compositions of hydrogen and oxygen in atmospheric water vapor can be simulated using an evaporation pan experiment, but a measurement-based assessment of model reliability is necessry.In this study,an evaporation pan experiment was conducted in Lanzhou, Gansu, from September to November 2019.The daily atmospheric water vapor isotopes were simulated using the CraigGordon linear resistance model and the water isotopic mass balance method in a natural evaporative state.Online observations of atmospheric water vapor isotopes were performed using a water vapor isotope analyzer and then the pan-based simulations were verified. The simulated $\delta ^ { \mathrm { 1 8 } } \mathrm { O }$ in atmospheric water vapor and the directly measured δ $^ { 1 8 } \mathrm { O }$ were in good agreement with a root mean square error of $4 . 5 \text{‰}$ , a mean absolute error of $3 . 2 \text{‰}$ , and a mean bias error of $0 . 0 3 \text{‰}$ .The residual of simulated $\delta ^ { 1 8 } \mathrm { O }$ values were correlated with relative humidity $( R ^ { 2 } { = } 0 . 4 3 )$ ， remaining ratio $( R ^ { 2 } { = } 0 . 3 9$ ),and the isotopic values of the remaining water bodies $R ^ { 2 } { = } 0 . 3 9 \$ ). The model was highly sensitive to relative humidity: lower relative humidity conditionstypically corresponded to a higher error. Under theconditions of low remaining ratio and isotopically enriched remaining water at the end of the evaporation experiment, the simulation residual was much larger than that at the beginning of the experiment.
+
+Keywords: stable hydrogen and oxygen isotopes; evaporation pan; simulation; atmospheric water vapor

@@ -1,0 +1,247 @@
+# 正念训练提升3\~4岁幼儿注意力和执行功能1
+
+李泉 宋亚男廉 彬\*冯廷勇（西南大学心理学部，重庆400715）
+
+摘 要正念训练是指个体将注意力集中于当下体验的一种心理干预方法。先前研究表明正念训练可以促进其注意力、执行功能、情绪调节等的发展，而正念训练对幼儿心理发展的作用机制并不清楚。因此，为了考察正念训练对3\~4岁幼儿注意力和执行功能的影响。采用前后测设计，对正念组进行每周2次，每次20\~30分钟，共12次的正念训练；对照组不进行任何训练。结果发现：（1）在注意力方面，正念组与对照组前测差异不显著，训练后正念组幼儿持续性注意力得分显著高于对照组。2)在执行功能方面，正念组和实验组在抑制控制、认知灵活性以及工作记忆上前测得分差异不显著，训练后正念组幼儿抑制控制和认知灵活性得分显著优于对照组，而两组幼儿工作记忆差异不显著。研究表明，正念训练促进了3\~4 岁幼儿注意力和执行功能的发展，且在执行功能方面主要表现为对抑制控制和认知灵活性的提升。
+
+关键词 正念训练；3\~4岁幼儿；注意力；执行功能
+
+# 分类号 B844.1
+
+# 1前言
+
+正念是指个体有目的地把注意力不加评判地保持在当下的体验上，并对当前心理事件进行觉知的一种方法(KabatZinn,2003)。正念强调两点：一是把注意力集中于当下时刻；二是对当前事件不加评判的接纳(Bishop etal.,2004;KabatZinn,1994)。所以，正念训练是指个体将注意力集中于当下体验的一种心理干预方法(Lutz,Slagter,Dunne,& Davidson,2008)。然而，正念训练不仅可以改善个体情绪调控水平，还能够提升个体认知能力。Robins 等人（2012）研究表明，正念训练可以有效改善个体的情绪调控能力(Robins,Keng,Ekblad,&Brantley,2012)。Zeidan 等人（2010）利用电刺激诱发疼痛探讨正念训练对于缓解疼痛的影响，结果发现，经过3天的正念训练，正念组被试报告疼痛级别有了显著降低(Zeidan,Gordon,Merchant,& Goolkasian,201O)。Brooker 等（2014)研究发现，经过4周正念训练的被试在自我压力感知、睡眠质量、以及自我认同上y有很显著的提升(Brooker etal.,2014)。
+
+Rueda 等人（2012）提出，经过短期冥想训练可以有效提高个体注意力、认知控制、认知转换等能力(Klingberg et al.,2Oo5; Rothbart, Mccandliss, Saccomanno,& Posner,2005;Rueda,Checa,&C6mbita,2012)。Mrazek 等人（2013）选取 48 名本科生随机分为正念组和控制组作为研究对象，正念组进行2周的正念训练，每周4次，每次持续45分钟，对照组进行每周4次的营养健康知识，每次45分钟，结果显示，正念组更容易集中注意力，认知能力表现也较好(Mrazek,Franklin,Phillips,Baird,& Schooler,2013)。王岩等（2012）选取31名大学生作为研究对象，并将其随机分为正念组和对照组，采用 Stroop 任务和前瞻性记忆任务来考察正念训练对个体认知发展的影响机制，结果发现，正念组在 Stroop任务和前瞻性记忆任务表现均优于对照组(王岩 etal.,2012)。Westbrook 等人（2013）研究指出，对个体进行短期的正念训练，结果发现，其执行功能有了显著的提高(Weijer-Bergsma,Formsma,Bruin,& Bögels,2012;Westbrook et al.,2013）。另外，Good 等人(2015)选取青少年作为研究对象，进行正念训练，结果表明，正念训练可以有效提高青少年注意力，尤其在注意力稳定性方面(Good,Lyddy,&Glomb,2015; Semple,Lee,Rosa,& Miller,2010; Smallwood& Schooler,2015)。Zeidan 等人（2010）对在校大学生（ $( \mathbf { M _ { ☉ H \mathnormal } } ) = 2 0$ 岁）开展4天正念训练，结果发现，经过4天的正念训练个体的注意力和执行功能都有显著提高(Zeidan,Johnson,Diamond,David,& Goolkasian,2010)。综上所述，可以看出经过正念训练可以提升个体认知能力。虽然已有大量研究验证了正念训练对个体认知能力的提升作用，但有关幼儿的研究还较少，且进行影响机制的研究则更少。为此，本研究采用前后测实验组对照组设计，考察正念训练对3\~4岁幼儿注意力和执行功能的影响，并探讨其可能的作用机制，这为临床心理干预提供了理论支持。
+
+从正念的心理机制来看，个体认知能力，尤其是注意力和执行功能起到非常重要的作用。有关正念的心理机制，Deikman等人（1963，2000）认为正念是一个自动化和去自动化的过程，自动化是指个体在不断重复的行为过程中，指导其行为内部的步骤从意识层面消失。而去自动化则是指个体对内在的行为步骤重新获得觉察和注意力，在个体自动化与去自动化过程中，个体注意力、转换能力、抑制控制能力起到重要的作用(Deikman，2000;Deikman，1963)。KabatZinn 等人（2003)提出正念是个体运用自律技术等对注意进行有效控制的一种自我放松的内在心理机制。换句话说，正念训练主要是对个体的认知或注意力进行的训练(KabatZinn,2003)，并在一定程度上提升个体的认知能力，而这种认知能力主要体现为对外界干扰进行控制的能力、转换、注意等能力(Ivanovski&Malhi,2007)。另一种观点则认为，正念可以通过提高幼儿感觉统合影响个体认知能力的发展(Tang,Tang,Tang,&Lewispeacock,2017)。郑信雄等人（1991）提出3\~6岁是个体感觉统合发展的关键时期。感觉统合发展分两个阶段：（1）初级阶段，主要包括感知觉、身体平衡、手眼协调、注意力和情绪稳定等；（2）高级阶段，主要包括注意力集中、学习能力、自我控制、以及思维转换等（郑信雄，李月卿，1991)。由此，我们可以推论3\~4岁幼儿感觉统合发展与幼儿注意力和执行功能的发展存在密切的相关。有研究表明，感觉统合不足会影响幼儿注意力、记忆、控制力等心理能力的发展，导致幼儿灵敏性降低、记忆力下降、注意力不集中、自控力下降等现象的出现(黄悦勤，李旭东，王玉凤,2002)。也就是说，幼儿注意力、自我控制、思维转换等能力可以通过正念训练提高其感觉统合的发展来实现(Friese,Ostafin，& Loschelder，2017;Lee & Orsillo，2014； Modesto-Lowe，Farahmand,Chaplin,& Sarro,2015)。Cameron 等人（2015）研究发现，对个体视觉统合进行训练可以有效改善其执行功能（抑制控制、认知灵活性、工作记忆）（Cameron etal.,2015)。因此，本研究通过考察幼儿注意力和执行功能前后测的变化情况，以3\~4 岁幼儿认知能力发展特点为基础，设计了一系列正念训练课程，以此来考察正念训练对3\~4岁幼儿注意力和执行功能的影响，并进一步探讨正念训练对 3\~4岁幼儿注意力和执行功能发展的心理机制。
+
+正念是个体的心理过程，即将个体的注意力集中在特定的事物上，例如呼吸、声音、或视觉感知等(Black,Milam,Sussman,& Johnson,2012)。在正念的过程中主要包含三个亚成分：注意的持续、注意的转换、以及注意的控制(Bishop et al.2010; Brown & Ryan, 2003; Shapiro, Carlson, Astin,& Freedman, 201O)。 Josefsson等人（2014）采用实验组、对照组设计，探讨正念训练对个体注意力的影响，实验组进行1次/周，1小时/次，共5次的正念训练，而对照组进行放松训练，结果发现，经过5次正念训练之后，个体的注意力有了显著的提升(Josefsson,Lindwall,&Broberg,2014)。另一种观点认为，正念需要个体运用多种认知能力调整自己的意识状态才能按照培训师的引导去进行冥想，在这个过程中需要用到个体抑制控制能力、认知灵活性等多种能力（Ying＆Wang，2012；Moore＆Malinowski,2009;Moore,2013)，是提高个体执行功能的一种策略（Thurman&Torsney,2014)。Riggs 等人（2015）研究发现，正念意识得分高的儿童其执行功能也表现较好，尤其表现在抑制控制和工作记忆两个能力上(Riggs,Black,&Ritt-Olson,2015)。综上所述，正念训练可以提升个体注意力和执行功能，但研究对象基本都是成人或是青少年，缺乏采用实验来探究正念训练是否能够提升幼儿注意力和执行功能及可能影响机制的研究。
+
+婴幼儿时期是个体心理能力发展的重要时期，也是很多心理能力发展的敏感时期(Deloache,Eisenberg,& Siegler,2010; Piaget,1981)。Lenroot 等人（2006）提出 3\~6岁是幼儿认知能力发展的关键时期也是个体大脑发育的顶峰时期(Lenroot& Giedd,2006)，Tang 等人(2012)在前人研究的基础上指出，正念训练可以有效改进个体前扣带回（AnteriorCingulate Cortex,ACC）和植物神经系统（AutonomicNervous System,ANS）的神经回路的传导(Tang,Yang,Leve,& Harold,2012)。大量研究表明，经过正念训练后个体在完成注意力控制、注意力转换、认知灵活性、自我监控、计划、抑制控制，以及工作记忆任务时大脑的前额叶皮层较对照组有显著的激活（Roth,Randolph,Koven,& Isquith,2006; Wood & Smith,2008)。Lenroot等人（2006）提出3\~6岁是幼儿认知能力发展的关键时期也是个体大脑发育的顶峰时期(Lenroot&Giedd,2006)，在这个阶段对个体的大脑具有很强的行为可塑性和敏感性(Lenroot et al., 2009; Pascual-Leone,Amedi, Fregni,& Merabet, 2005)。另外，3\~6岁也是幼儿注意力和执行功能发展的关键时期。有研究表明，3\~4岁是幼儿注意力发展的启蒙时期，其注意转移和分配都还没有成熟，具有很强的可塑性（Ruff,Capozzoli,&Weissberg,1998；潘学霞，麻宏伟，2009）。而 Zelazo 等人（2013）研究也发现，3\~5岁是幼儿执行功能发展的最为迅速的阶段，且这种效应主要表现为抑制控制和认知灵活性上(Zelazo etal.,2013；杨丽珠,宋辉,2003)。
+
+因此，考察正念训练是否能够促进3\~4岁幼儿注意力和执行功能的发展，并深入探讨这种效应的心理机制，具有重要的实践价值。
+
+综上所述，本研究采用正念训练的方法，借助幼儿熟知的身体部位（视觉、听觉、触觉、身体平衡等）来引导幼儿将自己的注意力集中在特定的部位上，并在注意力集中的基础上进行幼儿执行功能的训练。本研究拟采用实验组、对照组前测后测设计，以此来探讨正念训练对3\~4岁幼儿注意力和执行功能的影响及其心理机制。利用经典的"找动物"任务测查幼儿注意力，“桃心花朵"任务测查幼儿抑制控制能力，维度变化卡片分类（DCCS）任务测查幼儿认知灵活性，以及“韦氏图片记忆"任务测查幼儿工作记忆能力。正念组进行每周2次，每次6人，每次 20\~30分钟，共12次的正念训练，对照组不进行任何训练，正常参与班级活动。结果可以预测，正念训练能够促进3\~4岁幼儿注意力和执行功能的发展，主要表现为，正念组在注意力和执行功能（主要表现为抑制控制和认知灵活性）显著高于对照组，对工作记忆也可能有一定的作用。
+
+# 2研究方法
+
+# 2.1被试
+
+被试选取重庆市某幼儿园随机选取3\~4 岁幼儿60名。其中，在后测数据收集过程中，4名儿童在实验过程中无法完成测验，以及4名因请假未完成测验。最终纳入分析的有效被试共52名，26名为接受正念训练组，26名为控制组。正念组（年龄在 41.69\~51.42个月， $M _ { ☉ H } = 4 6 . 0 8$ 个月， $S D { = } 1 . 1 2$ 个月，男生、女生各13名），对照组（年龄在41.98\~53.98个月， $M _ { \mathrm { ☉ \ast \ast } } { = } 4 7 . 5 9$ 个月， $S D { = } 3 . 6 0$ 个月，男生、女生各13名）。3岁年龄组（年龄在 $4 1 . 6 9 \sim 4 5 . 1 1$ 个月， $M _  \mathrm  ☉ \mathnormal { / { \vphantom { ( m _ { \mathrm { \lceil - \infty } \mathnormal { / { \vphantom { ( m _ { \mathrm { \lceil - \infty } \math { / { \vphantom { ( m _ { \mathrm { \lceil - \infty } \math { / { \vphantom { ( m _ { \infty } \math { / { \vphantom ( m _ { \infty } } \math { \mathstrut / { \vphantom { ( m } \math } \math { \mathstrut / { \vphantom { ( m } \mathstrut / { \vphantom | { \frac { \ddots } \mathstrut } \mathstrut ) } } } } } } } } } ) } } } } } } } } } } } = 4 3 . 5 7 \$ 个月，$S D { = } 1 . 1 0$ 个月，男生、女生各8名）幼儿16名，4岁年龄组（年龄在45.14个月${ \sim } 5 3 . 9 8$ 个月， $M _ { ☉ H } = 4 8 . 4 8$ 个月， $S D { = } 2 . 2 7$ 个月，男生、女生各18名），所有儿童均为右利手，智力、视力和听力均发展正常，试验结束后，每个儿童会得到一个小礼物作为奖励。此外，本研究获得了家长和被试的知情同意。
+
+# 2.2实验设计
+
+采用 $2 { \times } 2$ 的实验组、对照组前后测设计。其中组别（正念组/对照组）是被试间变量，测试类型（前测/后测）是被试内变量。正念组和对照组在此之前均未参加过类似的训练，前、后测间隔2.5个月左右，前后测采用同质的测试任务。
+
+其中，正念组参加每周2次，6人一组，20\~30分钟/次，共12次的正念训练，而对照组不进行任何训练，正常参与班级活动。
+
+# 2.3实验材料和仪器
+
+实验机均采用戴尔成就3667-R1308，19.5英寸的彩色显示器，屏幕分辨率为 $1 0 2 4 \times 7 6 8$ ，刷新率为 $6 0 \mathrm { { H z } }$ ，颜色为真彩色。幼儿与显示器之间距离 $6 0 \mathrm { c m }$ 左右，所有呈现的刺激物均显示在屏幕中心，屏幕背景为白色。所有测试任务均在行为观察实验室内进行，测试大约30分钟，包含每种测试中间的休息1\~2分钟。其中注意力约5分钟；抑制控制约6分钟；认知灵活性约5分钟；工作记忆约 3分钟。测试按照"注意力——抑制控制——认知灵活性——工作记忆"的顺序进行。
+
+采用SPSS21.0对收集的数据进行统计分析处理。
+
+注意力(Attention)，是指个体对心理活动的集中和指向的能力(Eldar,Ricon,&Barhaim,2008)。本研究采用Breckenridge 等人（2007）编制的找动物任务（FindAnimals)。该任务用于测量3\~6幼儿的持续性注意力。具体操作：通过电脑屏幕呈现一系列图片，包括动物和非动物两种类别，当儿童看到动物，例如：大象、老虎、鸭子等目标刺激时口头报告"动物”，而看到非目标刺激物时则不做报告(Breckenridge,2007; Breckenridge,Braddick,& Atkinson,2013)。如果儿童连续漏掉 4个目标刺激，主试予以提示。每个刺激呈现流程为：注视点‘ $^ { \circ } +$ ”界面呈现1800ms后—刺激图片呈现 $2 0 0 \mathrm { { m s } }$ (具体流程图见图1)。记录下儿童正确回答、错误回答（对非目标刺激的报告）以及提示个数。注意力测验得分为幼儿正确回答个数减去错误回答个数再减去提示次数。
+
+![](images/6795dcfc62fc97680f0892a7f6d178a4b43efac71316a0ddfdb56419249ba9eb.jpg)  
+图1持续性注意力实验流程图
+
+执行功能（ExecutiveFunction，简称EF)，是指个体有意识和有效控制思维与行为的一系列高级认知能力，包括抑制控制、认知转换和工作记忆等能力(Oh& Lewis, 2008)。
+
+抑制控制（InhibitoryControl)，是指个体抑制自身优势反应的一种能力(Aron,Robbins,&Poldrack,2014)。本研究采用 Davidson (2006)编制的"桃心花朵"任务，该任务主要用于测量学龄前儿童抑制控制能力。具体操作，首先，主试给儿童介绍在电脑屏幕的左侧或右侧会随机呈现"桃心"或者"花朵"图片。然后，告诉儿童无论“桃心"出现在左边还是右边，你都指左边；无论“花朵"出现在左边还是右边，你都指右边(Davidson,Amso,Anderson,&Diamond,2006)。最后，要求儿童根据电脑屏幕上呈现的图片快速准确的做出相应的反应。每个刺激呈现的流程为：注视点 $+$ 界面呈现 $5 0 0 \mathrm { m s }$ 后—刺激图片呈现 $8 0 0 0 \mathrm { { m s } }$ ，共20 个 trials。记录幼儿平均正确率。具体流程图见图 2。
+
+![](images/99b640491a44004d6cc5703f28c346693b7ee91c44c9cf69066f192d976731fd.jpg)  
+图2抑制控制实验流程图
+
+认知灵活性（CognitiveFlexibility），是指个体心理转换能力，即个体从一种反映优势转换到另一种能够适应变化的情景中的能力(Davidson etal.，2006)。本研究采用Zelazo等人(2006)编制的3\~5岁维度变化卡片分类任务（DCCS）幼儿标准版。在此任务当中，研究者向儿童呈现不同维度的卡片，包括形状、颜色。首先，要求儿童按照"形状"卡片进行分类，等进行到6次之后，又进行的新的维度分类，按"颜色"分类，进行6次之后，又按"形状"维度分类(Zelazo,2006;Zelazoet al.,2003)。每个刺激呈现的流程为：背景界面呈现800ms——注视点‘ $\cdot _ { + } ,$ 界面呈现1000ms— 刺激图片呈现1000ms—反应界面呈现 $8 0 0 0 \mathrm { { m s } }$ ,共 36 个 trials 。
+
+记录幼儿反应正确率。具体流程图如图3。
+
+![](images/6ce117af0b4e250bfdfbb3e5468993eb92b6f8a557c46aecb3152a5cdccbe4dd.jpg)  
+图3认知灵活性实验流程图
+
+工作记忆（WorkingMemory）,是指个体对信息进行短暂的保存与操作的系统(Baddeley1982;Baddeley,2013)。本研究采用韦氏智力量表第四版（WPPSI-VI)中的图片记忆任务对幼儿工作记忆进行测试。具体操作为，幼儿需要在规定的时间（3s或5s）内观看有主试呈现的一个或几个图片，再从之后呈现的答题卡上指出之前呈现的图片。例如：给幼儿呈现苹果图片3s，让幼儿再接下来呈现的苹果和安全帽图片中指出"苹果"图片，正确指出计"1"分，错误指出计"0"分，连续4 题错误终止测试。图片呈现个数为1\~7个，其中，刺激图片个数为1时呈现3s,刺激图片个数大于或等于2时呈现5s，随着呈现图片个数的增加，难度也随之递增。记录幼儿回答正确个数即为工作记忆得分，满分35分(Wechsler,2003)。具体流程图见图4。
+
+![](images/3c531d6bff0f788d019e34ec62dd881aa5cf3899c99e9d8cceaa5a0888620bae.jpg)  
+图4工作记忆测试流程图
+
+# 2.4正念训练方法
+
+本研究参照KabatZinn等人（2005）的研究，从“呼吸和注意；躯体感觉和运动；觉察心智活动"三个阶段(Kim,Sun,Jung,&Ko,2005；吴九君，郑日昌,2008)，与幼儿感觉统合发展两阶段相结合（郑信雄，1991)，设计了一系列适合3\~4岁幼儿认知发展特点的正念训练干预课程。本课程每周开展2次，每次6人，每次 20\~30分钟，共计12次。具体安排如下：（1）呼吸和注意：学会用腹式呼吸，把注意力集中在身体感官上。（2）躯体感觉和运动：身体协调运动的感受与意识。（3）觉察心智活动：放松情绪、正念感知身体的每一个部分。具体课程见表1。在训练的过程中，培训教师应引导儿童积极参与，以鼓励、开放和接纳的态度引导幼儿去体验和感知当下的情境，并投入到课程当中。
+
+表 $1 3 { \sim } 4$ 岁幼儿正念训练课程表  
+
+<html><body><table><tr><td>阶段</td><td>课程名称</td><td>课程介绍</td></tr><tr><td>第一阶段</td><td>第一课：漂亮的风车</td><td>目的：腹式呼吸训练 (入门) 重点：学会把注意力专注在呼吸上</td></tr><tr><td></td><td></td><td>难点：将注意力集中在呼吸上</td></tr><tr><td></td><td></td><td>训练能力：注意力 教具：坐垫、风车</td></tr><tr><td></td><td>第二课：小小观察家</td><td>目的：视觉训练</td></tr><tr><td></td><td></td><td>重点：学会认真观察</td></tr><tr><td></td><td></td><td>难点：短时间内集中注意力记住橘子的不同特征</td></tr><tr><td>呼</td><td></td><td>训练能力：注意力、工作记忆</td></tr><tr><td>吸</td><td></td><td>教具：坐垫、橘子</td></tr><tr><td>与</td><td>第三课：看一看</td><td>目的：触觉训练</td></tr><tr><td>注</td><td>猜一猜</td><td>重点：引导孩子认识触觉</td></tr><tr><td>意</td><td></td><td>难点：根据触觉的不同快速分别出不同的物体</td></tr><tr><td>力</td><td></td><td>训练能力：注意力、工作记忆</td></tr><tr><td></td><td></td><td>教具：坐垫、鹅卵石、贝壳、小雕像、骰子</td></tr><tr><td></td><td>第四课：我最棒</td><td>目的：多种感官训练</td></tr><tr><td></td><td></td><td>重点：把注意力集中在不同感官上</td></tr><tr><td></td><td></td><td>难点：不同感官之间的快速切换</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td>训练能力：注意力、认知灵活性</td></tr><tr><td></td><td></td><td>教具：玫瑰花、茶叶、彩色气球、贝壳、鹅卵石、小坚果</td></tr><tr><td>第二阶段</td><td>第五课：狮子和三明治</td><td>目的：脸、手、背、腹部肌肉运动感知训练</td></tr><tr><td></td><td></td><td>重点：体验身体各个部位的运动的感觉</td></tr><tr><td></td><td></td><td>难点：脸、手、背、腹部肌肉运动的协调</td></tr><tr><td></td><td></td><td>训练能力：抑制控制、认知灵活性</td></tr><tr><td></td><td></td><td>教具：狮子卡片、三明治卡片、小坐垫....</td></tr><tr><td></td><td>第六课：蝴蝶与飞机</td><td></td></tr><tr><td></td><td></td><td>目的：手腿协调运动感知训练</td></tr><tr><td></td><td></td><td>重点：锻炼小朋友的四肢灵活性、协调性</td></tr><tr><td></td><td></td><td>难点：四肢的协调与平衡</td></tr></table></body></html>
+
+<html><body><table><tr><td>躯 体 感 觉 和 运 动</td><td>第七课：乌龟和丹顶鹤</td><td>训练能力：抑制控制、认知灵活性 教具：动物卡片、小坐垫..... 目的：身体平衡（手背和腿的拉伸）运动感知训练 重点：体验身体拉伸活动和身体的平衡感</td></tr><tr><td></td><td>第八课：椅子和大树</td><td>难度：手背和腿的协调与平衡 训练能力：抑制控制、认知灵活性 教具：动物卡片、小坐垫...... 目的：身体平衡和信任感知训练 重点：保持身体的平衡和信任他人</td></tr><tr><td>第三阶段</td><td>第九课：乘风破浪</td><td>难点：快速从一个规则转成到新的规则 训练能力：注意力、抑制控制、认知灵活性 教具：动物卡片、小坐垫...... 目的：放松训练 重点：集中注意在特定的心智活动上</td></tr><tr><td>觉 察</td><td>第十课：森林之行</td><td>难点：调整自己状态，快速融入情境 训练能力：注意力、抑制控制 教具：动物卡片、瑜伽垫、小船.... 目的：平息焦躁训练 重点：集中注意在特定的心智活动上</td></tr><tr><td>心 智 活 动</td><td>第十一课：身体扫描 教具：动物卡片、瑜伽垫、. 第十二课：感恩 目的：结束课程 重点：积极想象我眼中的父母、老师、小朋友等</td><td>难点：调整自己状态，快速融入情境 训练能力：注意力、抑制控制、认知灵活性 教具：动物卡片、瑜伽垫、.... 目的：身心互动训练 重点：集中注意在特定的心智活动上 难点：调整自己状态，快速融入情境 训练能力：注意力、抑制控制</td></tr></table></body></html>
+
+# 3实验结果
+
+先对 $3 { \sim } 4$ 岁幼儿"注意力、执行功能"前后测得分进行描述统计分析，结果详见表2。
+
+表2正念组与对照组在注意力、执行功能上的发展水平  
+
+<html><body><table><tr><td colspan="3">前测</td><td colspan="2">后测</td></tr><tr><td>能力</td><td>正念组</td><td>对照组</td><td>正念组</td><td>对照组</td></tr><tr><td>注意力</td><td>12.04 (7.10)</td><td>13.42(8.27)</td><td>21.73 (5.59)</td><td>18.27 (6.51)</td></tr></table></body></html>
+
+<html><body><table><tr><td>抑制控制</td><td>0.74(0.16)</td><td>0.73(0.17)</td><td>0.92 (0.10)</td><td>0.74 (0.14)</td></tr><tr><td>认知灵活性</td><td>0.71(0.16)</td><td>0.63(0.22)</td><td>0.92 (0.08)</td><td>0.76 (0.18)</td></tr><tr><td>工作记忆</td><td>14.00(5.39)</td><td>14.38(4.85)</td><td>18.14(5.64)</td><td>16.38(5.38)</td></tr></table></body></html>
+
+前测条件下，正念组和对照组在"注意力、抑制控制、认知灵活性以及工作记忆"的得分差异均不显著， $p s { > } 0 . 0 5$ 。为了进一步考察正念训练对幼儿"注意力、抑制控制、认知灵活性以及工作记忆"的影响，进行2（组别：正念组/对照组） $\times 2$ （测试类型：前测/后测）重复测量方差分析。
+
+![](images/4d9816e6ada3b1758ee7434ab965e9d90cdef8c8a652edc5e7797517485c2660.jpg)  
+图1正念组和对照组前后测注意力得分
+
+为了考察正念训练对3\~4岁幼儿注意力的影响，以注意力为因变量，做 2（组别：正念组/对照组） $\times 2$ （测试类型：前测/后测）的重复测量方差分析。结果显示：交互作用显著， $F$ $\vec { \cdot } \ ( 2 { , } 5 0 ) = 1 4 { . } 4 2$ ， $p { < } 0 . 0 0 1 , \eta 2 = 0 . 2 2$ 。简单效应分析发现，在前测条件下，正念组与对照组差异不显著， $p { > } 0 . 0 5$ ；在后测条件下，正念组得分显著高于对照组得分， $p { < } 0 . 0 5$ 。这就说明，正念训练对3\~4岁儿童注意力有显著的提升作用。
+
+![](images/e7f05bda6bff4ece4dad63ac0a6a8224c8cb8ae7442958d11fe7907089963229.jpg)  
+图2正念组和对照组前后测抑制控制得分
+
+为了考察正念训练对3\~4 岁幼儿抑制控制发展的影响，以抑制控制为因变量，做2（组别：正念组/对照组） $\times 2$ （测试类型：前测/后测）的重复测量方差分析。结果显示：交互作用显著， $F$ $ { F } \left( 2 , 5 0 \right) = 9 . 0 3$ ， $p { < } 0 . 0 1$ ， $\eta 2 = 0 . 1 5$ 。简单效应分析发现，在前测条件下，正念组与对照组差异不显著， $p { > } 0 . 0 5$ ；在后测条件下，正念组与对照组差异显著， $p { < } 0 . 0 0 1$ 。这就说明，正念训练对3\~4岁儿童抑制控制能力有显著的提升作用。
+
+![](images/004b843757ceead4fd643dbddb9a16e7fc7731bf752f8c5ac54e6d5a830432d4.jpg)  
+图3正念组和对照组前后测认知灵活性得分
+
+为了考察正念训练对3\~4岁幼儿认知灵活性的影响，以认知灵活性为因变量，做2（组别：正念组/对照组） $\times 2$ （测试类型：前测/后测）的重复测量方差分析。结果显示：交互作用显著， $F \ ( 2 , 5 0 ) = 5 . 2 4 \$ ， $p { < } 0 . 0 5$ ， $\eta 2 = 0 . 1 0$ 。简单效应分析发现，在前测条件下，正念组与对照组差异不显著， $p { > } 0 . 0 5$ ；在后测条件下，正念组与对照组差异显著， $p { < } 0 . 0 0 1$ 。这就说明，正念训练能够显
+
+著促进3\~4岁儿童认知灵活性的发展。
+
+![](images/02ae14f9f2278e7b6533f2cceeb9f76323ca26248aa0ea0855fe5713347757d0.jpg)  
+图4正念组和对照组前后测工作记忆得分
+
+为了考察正念训练对3\~4岁幼儿工作记忆的影响，以工作记忆为因变量，做2（组别：正念组/对照组） $\times 2$ （测试类型：前测/后测）的重复测量方差分析。结果显示：测试类型主效应显著， $F \left( 1 , 5 0 \right) { = } 1 0 . 7 5$ ， $p { < } 0 . 0 1$ ， $\eta 2 = 0 . 2 1$ ；组别主效应不显著， $F \left( 1 , 5 0 \right) { = } 0 . 2 7$ ， $p { > } 0 . 0 5$ ；交互作用不显著， $F \left( 2 , 5 0 \right) = 1 . 3 0$ ， $\scriptstyle { p = 0 . 2 6 }$ 。LSD 结果显示，工作记忆后测得分显著高于前测得分， $M _ { d i f f } ( \mathrm { I - J } ) { = } 3 . 0 7$ ， $p { < } 0 . 0 1$ 。这就说明，正念训练对3\~4岁幼儿工作记忆的发展没有明显的提升作用。
+
+为了考察正念训练对幼儿注意力和执行功能提升作用中是否存在年龄（3岁/4 岁）和性别（男/女）上的差异。以注意力、抑制控制、认知灵活性及工作记忆在年龄（3岁/4岁）上的变化（后测-前测）为因变量，做了年龄（正念组：3岁/4 岁）上的独立样本t检验，结果显示：3\~4岁幼儿在注意力、抑制控制、认知灵活性及工作记忆的提升未表现出显著的年龄差异， $p s { > } 0 . 0 5$ 。以注意力、抑制控制、认知灵活性及工作记忆在性别（男/女）上的变化（后测-前测）为因变量，做了性别（正念组：男/女）上的独立样本 $t$ 检验，结果显示：3\~4岁幼儿在注意力、抑制控制、认知灵活性及工作记忆的提升未表现出显著的性别差异， $p s { > } 0 . 0 5$ 。
+
+# 4讨论
+
+为了考察正念训练对3\~4幼儿注意力和执行功能的影响，本研究采用"找动物"任务测查3\~4岁幼儿注意力，“桃心/花朵"任务测查3\~4岁幼儿抑制控制能力、“DCCS"任务测查3\~4岁幼儿认知灵活性，以及"韦氏图片记忆"任务测查3\~4 岁幼儿工作记忆能力。正念组经过12次的正念训练，对照组不做任何训练，结果显示，正念组幼儿注意力后测得分显著高于对照组，正念组幼儿抑制控制后测得分显著高于对照组，正念组幼儿认知灵活性后测得分显著高于对照组，但正念组和对照组幼儿工作记忆后测得分差异不显著。结果说明，正念训练能够有效提升3\~4岁幼儿的注意力、抑制控制以及认知灵活性；正念训练对3\~4岁幼儿工作记忆能力没有显著提升作用。
+
+# 4.1正念训练对幼儿注意力的影响
+
+本研究发现，两组（正念/对照）幼儿注意力前测得分差异不显著；正念组幼几注意力后测得分显著高于对照组。这就说明，正念训练对3\~4岁幼儿注意力的发展起到促进作用。已有研究表明，正念与注意之间有着密切的关系，正如禅宗里所说的，“正念是一种专注于某种对象的心理状态"(Purser&Milillo,2015)，而这与注意力的心理机制不谋而合。正念训练也是一种集中注意力进行训练的方法，是个体有意识、有目的地以一种开放和接纳的态度专注于当下情境的一种不加批评的方式(Brown&Pinel,2003;KabatZinn,2003)。郑信雄等人（1991）提出，3\~6岁是幼儿感觉统合快速发展时期。其中，3\~4 岁幼儿进行初级阶段（身体平衡、手眼协调等）的统合，4岁幼儿高级阶段（注意力集中、自我控制、思维转换等）统合逐渐发展（郑信雄，1991)。先前有研究表明，感知统合的发展可以促进学龄前幼儿注意力等认知能力的发展(毛斌斌,2009)。在本研究中，借助感知统合的外在表现形式，融入正念训练的理念，结果表明，经过12次的正念训练，正念组幼儿注意力显著高于对照组。这就说明正念训练对3\~4岁幼儿注意力的提升作用有可能是通过其感觉统合的发展来实现的。
+
+正念是个体的心理过程，即个体将注意力集中在特定的事物上，例如呼吸、声音、或者是视觉感知等(Black,Milam,Sussman,&Johnson,2012)。在本研究中通过正念训练让幼儿把注意力集中于呼吸、周围的声音、不同的气味以及身体的某个部位等上，让幼儿通过自己熟悉的身体的变化，将注意力集中在特定物体上，从而实现对注意力的训练提升。马超（2013）研究也发现，正念训练通过集中注意力于当下的时刻，调整自己的状态适应情境，从而改善注意的利用，实现对注意力的提升作用（马超，2013)。先前研究表明，正念训练可以有效提升个体注意力和减少问题行为(Biegel, Brown, Shapiro,& Schubert, 2009; Semple,Lee,Rosa,& Miller,2010)，还有利于学生提高课堂注意力，减少课堂分心情况(Mrazek,Smallwood,& Schooler,2012)。同时，正念训练也可以促进个体注意稳定性的发展(Razza,Bergen-Cico,&Raymond, 2015)。
+
+# 4.2正念训练对幼儿执行功能的影响
+
+本研究发现，在执行功能方面，3\~4岁幼儿正念组和对照组前测得分差异不显著。正念组经过12次正念训练，对照组不进行任何训练，结果发现，正念组幼儿抑制控制和认知灵活性后测得分显著高于对照组，两组幼儿工作记忆后测得分差异不显著。这就说明正念训练提升了3\~4岁幼儿执行功能，且这种效应主要体现在抑制控制和认知灵活性两个亚能力上。已有研究发现，正念训练促进个体执行功能的发展(Zelazo&Lyons,2012)，Biegel等人（2009）研究发现，正念训练提升个体抑制控制能力，同样，Westbrook等人（2013）研究也发现，正念训练提高个体执行功能的发展（Westbrook etal.，2013)。一项有关正念训练的追踪研究也表明，经过12周的正念训练，个体在抑制控制和认知灵活性等方面都表现优于对照组儿童(Flook,Goldberg,Pinger,&Davidson,2015)。有研究表明，3\~4罗是幼儿感觉统合高级阶段（注意力集中、自我控制、思维转换等）发展的关键时期(毛斌斌,2009)。正念训练需要幼儿控制自己的情绪和思想按照培训师的引导去进行冥想(Borders,Earleywine,&Jajodia,2010)。在这个过程中，幼儿除了需要注意力的参与外，还需要抑制控制、认知灵活性、工作记忆等认知的能力共同参与来不断调整自己状态使之更加符合当下情境（Ying&Wang,2012；Moore＆Malinowski,2009;Moore,2013）。在本研究中，幼儿需要抑制住无关信息，把注意力灵活地切换到特定的身体部位或特定事物上，促使幼儿从一种情境转换到另一种情境，这就有效的促进了幼儿抑制控制和认知灵活性两个能力的发展(Zoogman,Goldberg,Hoyt,&Miller,2015；Black,2015)。这就说明，正念训练能有效提升3\~4岁幼儿注意力和执行功能（主要表现为抑制控制和认知灵活性)。
+
+在本研究中，正念组工作记忆的前后测得分差值（即提升效果）虽高于对照组，但未达显著水平，这可能有几个方面的原因。首先，这可能与本研究中小年龄阶段幼儿（3\~4岁）的工作记忆发展水平及特点有关。先前研究表明，正念训练能够提升工作记忆的被试都是青少年（例如， $M _ { ☉ H } = 1 2 . 9$ 岁； Riggs et al., 2015）或大学生被试（例如， $M _ { ☉ \mathinner { \left/ { \vphantom { \left( 2 0 . 8 3 \right.}  \kern - delimiterspace } 4 \right.}  \kern - delimiterspace } 2  = 2 0 . 8 3$ 岁；Mrazeketal.，2013)。然而，工作记忆的发展研究表明， $4 . 5 \mathord { \sim } 6 . 5$ 个月婴儿的工作记忆虽已开始萌芽（Reznick,Morrow,Goldman,&Snyder,2004)，但工作记忆的各成分要到4岁后才逐渐到位（Allowayet al.,2005)。因此，正念训练对于3\~4岁幼儿的工作记忆的促进或提升作用可能是有限的。其次，这可能还与正念训练课程内容有关。本研究正念训练课程内容包括核心三部分：呼吸与注意力，主要训练幼儿的“注意力和认知灵活性”两个核心能力；躯体感觉和运动，主要训练幼儿的“抑制控制和认知灵活性”两个核心能力；觉察心智活动，主要训练幼儿的“注意力和抑制控制”两个核心能力，其对于工作记忆的训练则较少涉及，这可能影响了工作记忆提升的效果。最后，正念训练的力度（训练次数和时间）也可能存在影响，本研究的数据分析表明，正念组的提升成绩是高于对照组的，只是还未达到显著差异，将来可以增加训练次数和时间并进行过程监测，从动态角度考察提升效果和轨迹。总之，就正念训练是否能够有效提升幼儿工作记忆，还需要将来结合幼儿的工作记忆发展特点及规律、训练课程内容和训练力度等方面进行深入研究和探讨。
+
+总之，本研究采用标准的实验范式系统、全面地考察了正念训练对 $3 { \sim } 4$ 岁幼儿注意力和执行功能的影响，并探讨了正念训练对3\~4岁幼儿注意力和执行功能影响的心理机制。结果发现，通过正念训练能够提升幼儿的注意力、抑制控制和认知灵活性，这为幼儿注意力和执行功能的早期训练提供了新的方法，具有重要的理论指导价值和实践意义。当然，本研究也存在不足之处，本研究采用的是空白对照而非积极控制，就是否有其他非训练的因素会影响训练的结果并不清楚。因此，在接下来的研究中，可以尝试采用积极控制组，例如：实验组（正念训练）/对照组（放松训练)。进一步考察排除其他非特异性因素后正念训练对3\~4岁幼儿注意力和执行功能的影响。
+
+# 5结论
+
+本研究设计了一系列适合3\~4岁幼儿认知能力发展特点的正念训练课程。结果表明，经过12次的正念训练，能够很好的提升3\~4岁幼儿的注意力和执行功能，执行功能的提升主要体现在抑制控制和认知灵活性两个亚能力上。
+
+# 参考文献：
+
+[1]Alloway,T.P., Gathercole,S.E,Adams,A.M., Wilis,C.,Eaglen,R.,&Lamont,E.(20o5). Working memory and phonological awarenessas predictors of progress towards early learning goals at school entry. British Journal ofDevelopmentalPsychology,23(3),417-426.   
+[2]Aron,A.R.,Robbins,T. W.,& Poldrack,R.A.(2O14).Inhibition and the right inferior frontal cortex.Trends in Cognitive Sciences,18(4),170-177.   
+[3]Baddeley,A. D. (2013). Working memory and emotion: Ruminations on a theory of depresion. Review of General Psychology,17(1),20-27.   
+[4]Biegel, G.M., Brown, K. W., Shapiro,S.L., & Schubert, C.M. (2009). Mindfulness-based stress reduction for the treatment of adolescent psychiatric outpatients: A randomized clinical trial. Journal of Consulting & Clinical Psychology,77(5), 855-866.   
+[5]Bishop,S.R.,Lau, M.,Shapiro,S., Carlson,L.,Anderson, N.D., Carmody,J.,& Devins,G.M.(2004). Mindfulness: A proposed operational definition. Clinical Psychology: Science and Practice,1(3), 230- 241.   
+[6] Black,D. S. (2015). Mindfulness training for children and adolescents: A state-of-the-science review. In K. Brown,D. Creswell, & R. Ryan (Eds.), Handbook of mindfulness: Theory, research, and practice (pp. 283-310). New York: Guilford Press.   
+[7]Black,D.S., Milam,J.,Sussman, S.,& Johnson, C.A. (2012).Testing the indirect effectof trait mindfuness on adolescent cigarette smoking through negative affect and perceived stress mediators. Journal of Substance Use,17(5-6),417-429.   
+[8]Borders,A.,Earleywine,M.,& Jajodia,A. (2O10). Could mindfulness decrease anger, hostilityand aggression by decreasing rumination? Aggressive Behavior,36(1),28-44.   
+[9]Breckenridge,K. (2O07). The structure and function of attention in typical and atypical development (Unpublished PhD thesis). University of London.   
+[10]Breckenridge,K., Braddick, O.,& Atkinson,J. (2013).Theorganizationof attention in typical development: A new preschool attntion test battry. British Journal of Developmental Psychology,31(3),271-288.   
+[11]Brooker,J.E.,Webber,L.,Julian,J.，Shawyer,F.,Graham,A.L.，Chan,J.,& Meadows,G.(2014). Mindfulness-based Training Shows Promise in Assisting Staff to Reduce Their Use of Restrictive Interventions in Residential Services. Mindfulness,5(5), 598-603.   
+[12]Brown,K.W.,& Ryan,R.M.(2003). The Benefits of Being Present: Mindfulness and Its Role in Psychological Well-Being. Journal of Personality Social Psychology,84(4),822-48.   
+[13] Brown,R.P.,&Pinel,E.C. (20o3).Stigma on my mind: Individual differences in theexperienceof stereotype threat. Journal of Experimental Social Psychology,39(6), 626-633.   
+[14] Cameron,C.E.,Brock,L.L.,Hatfield,B.E.,Cotone,E.A.,Rubinstein,E.,Locasalecrouch,J.,&Grissmer, D. W. (2015). Visuomotor integration and inhibitory control compensate for each other in school readiness. Developmental Psychology,51(11),1529-1543.   
+[15] Davidson, M. C.,Amso,D., Anderson,L. C.,& Diamond,A. (2006). Development of cognitive control and executive functions from 4 to 13 years: Evidence from manipulations of memory, inhibition, and task switching. Neuropsychologia,44(11), 2037-2078.   
+[16]Deikman,A. (0o).Afunctional approach tomysticism.JoualofCosciousnesstudies,7(11-2),75-92.   
+[17]Deikman,A.J.(1963). Experimental meditation.Journal of Nervous & Mental Disease.136(4),329-343.   
+[18]Deloache,J. S.,Eisenberg,N.,& Siegler,R.S. (2010). How Children Development. New York,NY: Worth Publishers.   
+[19]Eldar, S.Ricon,T.,& Barhaim,Y. (2Oo8).Plasticity in attention: implications for stressresponse in children. Behaviour Research & Therapy, 46(4), 450-461.   
+[20]Flook,L.,Goldberg,S.B.Pinger,L.，& Davidson,R.J.(2015).Promoting prosocial behaviorand selfregulatory skils in preschool children through a mindfulness-based kindness curriculum. Developmental Psychology,51(1), 44-51.   
+[21]Friese,，M.，Ostafin,B.，& Loschelder,D. (2017).Mindfulnessasaninterventiontoimproveselfcontrol. Handbook of self-control in health and well-being(pp.431-445).New York,NY: Routledge.   
+[22]Good,D.J.,Lyddy,C.J.,& Glomb,T.M. (2015).Contemplating mindfulness at work: Anintegrativereview. Journal of Management,42(1),877-880.   
+[23]Huang,Y.,Li, X,D., Wang, Y.(20o2). Afollow-up study ofsensory integrative dysfunction in children. China Journal Peditrics,40(5),260-262.   
+[黄悦勤，李旭东，王玉凤.(2002)．儿童感觉统合失调的随访研究．中华儿科杂志,40(5),260-262.]   
+[24]Ivanovski, B.,& Malhi, G.S. (20o7).The psychological and neurophysiological concomitants of mindfulness forms of meditation. Acta Neuropsychiatrica,19(2), 76-91.   
+[25]Josefsson,T., Lindwall, M.，& Broberg,A. G. (2014). The Efects of a Short-term Mindfulness Based Intervention on Self-reported Mindfulness,Decentering, Executive Attention,Psychological Health,and Coping Style: Examining Unique Mindfulness Efects and Mediators. Mindfulness,5(1),18-35.   
+[26]KabatZin, J. (1994). Wherever you go there you are. Hyperion New York,94(2),146-148.   
+[1]KabatZinn,J. (2O03). Mindfulness-based interventions in context: Past，present，and future.Clinical Psychology-science and Practice,10(2),144-156.   
+[27]Kabatzinn,J.(2Oo5). Bringing mindfulness to medicine: an interview with Jon Kabat-Zinn,PhD.Interview by Karolyn Gazella. Advances in mind-body medicine,21(2):22-7.   
+[28]Kim, J. S., Sun, I., Jung,1. S.,& Ko, Y. J. (2Oo5). Bringing mindfulnessto medicine: an interview with Jon KabatZinn, PhD. Interview by Karolyn Gazella. Advances in mind-body medicine,21(2),22.   
+[29]Klingberg,T.,Fernel,E.,Olesen,P.J.,Johnson,M.,Gustafsson,P.,Dahlstrom,K.，Westerberg,H.(2005). Computerized Training of Working Memory in Children with ADHD-A Randomized, Controlled Trial. Journal of the American Academy of Child and Adolescent Psychiatry,44(2),177-186.   
+[30]Lee,J.K.,& Orsillo,S.M. (2O14). Investigating cognitive flexibilityas apotential mechanismof mindfulness in Generalized Anxiety Disorder. Journal of Behavior Therapy & Experimental Psychiatry, 45(1),208- 216.   
+[31]Lenroot,R.K.，& Giedd,J. N. (2006). Brain development in children and adolescents: Insights from anatomical magnetic resonance imaging. Neuroscience & Biobehavioral Reviews, 30(6),718-729.   
+[32]Lenroot,R.K.Schmit,J.E.,Ordaz,S.J., Waace, G.L.,Neale, M.C.,Lerch,J.P., Giedd,J.N.(2009). Diferences in genetic and environmental influences on the human cerebral cortex associated with development during childhood and adolescence. Human Brain Mapping,30(1),163-174.   
+[33]Lutz,A., Slagter, H.A., Dunne,J. D.,& Davidson,R. J. (2008). Atention regulation and monitoring in meditation. Trends in Cognitive Sciences,12(4),163-169.   
+[34]Modesto-Lowe, V.,Farahmand, P., Chaplin, M.,& Saro,L. (2015). Does mindfulness meditation iprove attention in attention deficit hyperactivity disorder?.World Journal of Psychiatry,5(4),397-403.   
+[35]Moore,A.，& Malinowski, P. (2009). Meditation, mindfulness and cognitive flexibility. Consciousness & Cognition,18(1),176-186.   
+[36]Moore,B.A. (2013). Propensity for experiencing flow: The roles of cognitive flexibility and mindfulness. Humanistic Psychologist,41(4),319-332.   
+[37]Mrazek,M. D.,Franklin,M.S.,Philips,D.T.,Baird,B.,& Schooler,J. W.(2013). Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering. Psychological Science,24(5),776-781.   
+[38]Mrazek,M. D.， Smallwood,J.，& Schooler, J. W. (2012). Mindfulnessand mind-wandering: Finding convergence through opposing constructs. Emotion,12(3), 442-448.   
+[39] Ma,C.(2013).Comparative studyof the executive function training and mindfulness training on the promation of the chilfren's attention (Master's thesis). Neimeng Normal University.   
+[马超.(2013)．执行功能训练和正念训练对促进小学儿童注意力的比较研究(硕士论文).内蒙古师范大学.]   
+[40]Mao,B,B.(2o09).The investigation and training on 4\~6 years old children's sensory integration ability (Master's thesis). Shanxi Normal University.   
+[毛斌斌.(2009).4-6 岁幼儿感觉统合能力的调查与训练(硕士论文).山西师范大学.]   
+[41]Oh,S.,& Lewis,C.(2008).Korean Preschoolers’Advanced Inhibitory Control and Its Relation to Other Executive Skills and Mental State Understanding. Child Development,79(1),80-99.   
+[42]Pascual-Leone,A.,Amedi,A., Fregni,F.,& Merabet,L.B.(20o5). The plastic human brain cortex. Annual Review of Neuroscience,28(28),377-401.   
+[43]Pan, X,X.,Ma,H, W. (2O09).The application of continuous performance task in diagnosis and trheatment of ADHD. International Journal of Pediatrics,36(1),100-102.   
+[潘学霞，麻宏伟.(2009).持续性操作测验在注意缺陷障碍诊断及治疗中的应用.国际儿科学杂志,36(1), 100-102.]   
+[44]Purser,R.E.,& Mililo,J. (2015). Mindfulness Revisited: A Buddhist-Based Conceptualization. Jourmal of Management Inquiry, 24(1), 3-24.   
+[45]Razza,R.A.,Bergen-Cico,D.,&Raymond,K. (2015).Enhancing Preschoolers'Self-Regulation Via Mindful Yoga.Journal of Child & Family Studies,24(2),372-385.   
+[46]Reznick,J. S.,Morrow,J.D., Goldman,B.D.,&Snyder, J. (2004).The onset of working memory in infants. Infancy, 6(1),145-154.   
+[47]Robins,C.J.,Keng,S.L., Ekblad,A. G.,& Brantley, J. G. (2012). Effects of mindfulness-based stress reduction on emotional experience and expression: a randomized controlled trial. Journal of Clinical Psychology,68(1),117-131.   
+[48]Riggs,N. R., Black, D.S.,& Rit-Olson,A. (2015). Associations Between Dispositional Mindfulness and Executive Function in Early Adolescence. Journal of Child & Family Studies,24(9),2745-2751.   
+[49]Rueda, M.R., Checa,P.,& C6mbita,L. M. (2012). Enhanced effciency of the executive atention network after training in preschool children: Immediate changes and efects after two months. Developmental Cognitive Neuroscience,2 (4), S192-S204.   
+[50]Ruff,H.A.,Capozzoli, M.,& Weissberg,R.(1998).Age,individuality,and context as factors in sustained visual attention during the preschool years. Developmental Psychology,34(3),454-464.   
+[51]Rothbart, M. K.,Mccandliss,B.D., Saccomanno,L.,& Posner,M.I. (2Oo5). Training,Maturation,and Genetic Influences on the Development of Executive Atention. Proceedings of the National Academy of Sciences of the United States of America,102(41),14931-14936.   
+[52]Roth,RM.,Randolph,J.,Koven,NS.,Isquith,PK.(O6).Neural substratesofexecutive functions: Inights from functional neuroimaging(pp.1-36). NY: Nova Science Publishers.   
+[53]Salamé,P.,& Baddeley,A.D.(1982). Disruption of short-term memory byunatended speech: implications for the structure of working memory. Journal of Verbal Learning & Verbal Behavior,21(2),150-164.   
+[54]Semple,R.J.,Lee,J.,Rosa,D.,& Miler,L.F. (2010). Arandomized trial of mindfulness-based cognitive therapy for children: Promoting mindful attention to enhance social-emotional resiliency in children. Journal of Child & Family Studies,19(2),218-229.   
+[55]Shapiro,S.L., Carlson,L.E.,Astin,J. A.,& Freedman,B. (2010). Mechanisms of mindfulnes. Joural of Clinical Psychology, 62(3),373-386.   
+[56] Smallwood,J.,& Schooler,J. W. (2015).The Science of Mind Wandering: Empirically Navigating the Stream of Consciousness. Annual Review of Psychology, 66(1), 487-518.   
+[57]Tang, Y. Y., Tang, Y., Tang, R., &Lewispeacock, J. A. (2O17). Brief mental training reorganizes large-scale brain networks. Frontiers in Systems Neuroscience,11:6.doc:10.3389/fnsys.2017.00006.   
+[58]Tang,YY.，Yang,L. Leve,L.D.，& Harold,G.T. (2012).Improving Executive Function and its Neurobiological Mechanisms through a Mindfulness-Based Intervention: Advances within the Field of Developmental Neuroscience. Child Development Perspectives,6(4),361-366.   
+[59] Ying, H. K.,& Wang, C.K.J. (2O12). Relationships between mindfulnessflow dispositions and mental skills adoption: A cluster analytic approach.Psychology of Sport & Exercise,9(4),393-411.   
+[60] Thurman, S. K.,& Torsney,B.M. (2014). Meditation, mindfulness and executive functions inchildren and adolescents. In N.N. Singh (Ed.),Psychology of meditation (pp.187-207).New York,NY: Nova Science Publishers.   
+[61]Wang, Y., Xin,T.,Liu, X,H. et al. (2O12).Mindfulness Can Reduce Automatic Responding: Evidences from Stroop Task and Prospective Memory Task. Acta Psychologica Sinica,44(9),1180-1188   
+[王岩，辛婷婷，刘兴华，张韵，卢焕华，翟彦斌.(2012).正念训练的去自动化效应:Stroop 和前瞻记忆任务证 据．心理学报,44(9),1180-1188.]   
+[62]Wechsler, D. (2003). Wechsler intelligence scale for children-Fourth Edition (WISC-IV). San Antonio,TX: The Psychological Corporation.   
+[63]Weijer-Bergsma,E.V.D.,Formsma,A.R,Bruin,E.I.D.,&Bogels,S.M.(012). The Efectivenessof Mindfulness Training on Behavioral Problems and Attentional Functioning in Adolescents with ADHD. Journal of Child & Family Studies,21(5),775-787.   
+[64]Westbrook,C., Creswel,J.D.,Tabibnia,G.,Julson,E.,Kober,H.,& Tindle,H.A. (2013). Mindfulattntion reduces neural and self-reported cue-induced craving in smokers. Social Cognitive & Affective Neuroscience, 8(1),73-84.   
+[65]Wood,AG. Smith,E. (2o8).Executive functionsand thefrontal lobes: Alifespan perspective(pp.216). Philadelphia, PA: Taylor & Francis.   
+[66] Wu,J,J.,Zheng,R,C.(2oo8).The review of mental awarenessintervention. Chinese Mental Health Journal, 22(2),148-151.   
+[吴九君，郑日昌.(2008).心智觉知干预述评．中国心理卫生杂志,22(2),148-151.]   
+[67] Yang,L,Z.,Song,H. (2003). Developmenton preschool children's self-control ability. Studies of Psychology and Behavior，4(1),51-56.   
+[杨丽珠，宋辉.(2003).幼儿自我控制能力发展的研究．心理与行为研究,4(1),51-56.]   
+[68]Zeidan,F.,Gordon,N.S.,Merchant,J.,& Goolkasian,P.(2010).The Efectsof Brief MindfulnessMeditation Training on Experimentally Induced Pain. Journal of Pain,11(3),199-209.   
+[69]Zeidan,F., Johnson,S.K., Diamond,B.J., David,Z.,& Goolkasian,P.(2010). Mindfulness meditation improves cognition: Evidence of brief mental training . Consciousness & Cognition,19(2),597-605.   
+[70]Zelazo,P.D. (2006). The Dimensional Change Card Sort (DCCS): a method of assessing executive function in children. Nature Protocol,1(1),297-301.   
+[71] Zelazo,P.D.,Anderson,J.E.,Richler,J.,Wallnerallen, K,Beaumont,J.L.,& Weintraub,S.(2O13).II.NIH Toolbox Cognition Battry (CB): measuring executive function and attntion. Monographs of the Society for Research in Child Development,78(4),16-33.   
+[72]Zelazo,P. D.,& Lyons,K.E. (2012).The Potential Benefits of MindfulnessTraining in Early Childhood: A Developmental Social Cognitive Neuroscience Perspective. Child Development Perspectives,6(2),154- 160.   
+[73]Zelazo,P.D.,Muller,U.,Frye,D.,Marcovitch,S.Argitis,G.,Boseovski,J.,Sutherland,A.(2003).The development of executive function in early childhood. Monographs of the Society for Research in Child Development, 68(3), 48-64.   
+[74]Zoogman,S. Goldberg,S.B., Hoyt, W. T.,& Miller,L. (2015). MindfulnessInterventions with Youth: A Meta-Analysis.Mindfulness,6(2),290-302.   
+[75] Zheng,X,X.,Li,Y,Q.(1991).The manualofchildren'ssensory developmentchechlist implementation.Taipei: The special education center of Taipei city normal college.   
+[郑信雄,李月卿.（1991）.儿童感觉发展检核表实施手册．台北：台北市立师范学院特殊教育中心.] （通讯作者：冯廷勇 E-mail:fengty0@swu.edu.cn）
+
+# 作者贡献声明\*：
+
+李泉：提出研究思路，分析数据，撰写文章；  
+宋亚男：数据收集;  
+廉彬：数据分析；  
+冯廷勇：研究设想、论文最终版本修订。
+
+# Mindfulness training can improve $_ { 3 \sim 4 }$ years old children's attention and executive function
+
+LI Quan, SONG Yanan, LIAN Bin, FENG Tingyong (Faculty of Psychology, Southwest University, Chongqing， 4O0715,China)
+
+# Abstract
+
+Abstract: Mindfulness is a technique that alleviates the suffering of the yogi and implements selfawareness (KabatZinn, 2Oo3). Previous studies found that mindfulness training can improve work efficiency, emotional regulation,attention,and executive function (Brown, Kasser,Ryan,Linley,& Orzech,2009; Creswell, Way,Eisenderger,& Lieberman,2007).However, it is still unknown whether mindfulness training can improve attention and executive function in preschool children. This study sought to investigate the effect of mindfulnesstraining for younger children to improve attention and executive function performance.
+
+The present study attempted to use a 2(group: mindfulness training Vs no-training) $\times 2$ (test time: pre vs post） between-and-within-subjects design to investigate the effect of mindfulness training on improving 3\~4 years old children's attention and executive function. The mindfulness training consisted of12 sessions,with $2 0 { \sim } 3 0$ minutes per session, and was held twice a week for two months involving 6 preschoolers at a time. The children were assigned to two groups, mindfulness group 0 $N = 2 6$ ,age range from 41.69 months to 51.42 months, $S D { = } 1 . 1 2$ months) and control group $N = 2 6$ age range from 41.98 months to 53.98 months, $S D { = } 3 . 6 0$ months). In the mindfulness training group, the instructor guided children to perform activities of mindfulness, while children in the No-training group were given normal activities.In the study, the mindfulness training course consisted of three parts. Part 1 was “breath and attention” that children learned to master belly breathing and focused attention on specific sensory.Part 2 was “body perception and movement” that children gained balance awareness and body coordinates. Part 3 was “awareness of mental activity” that children learned to relax and perceive each body part. Children's attention was measured before and after training using an attntion task (e.g. Finding Animals Test），and three components of executive function were measured before and after training using three classic tasks (e.g.Inhibition Control:
+
+Peach Flower Heart Task, Cognitive Flexibility: Dimensional Change Card Sort Task(DCCS） and Working Memory: WPPSI-VI's Picture Memory Test).
+
+To investigate whether mindfulness training can enhance children's atention and executive function,we performed 2(group:mindfulness training vs no-training) $\times 2$ （test time: pretest vs posttest） repeated measures ANOVA. The results revealed that the interaction between group and test time was significant. An analysis of simple effects further indicated that in the pretest there was no significant effect between mindfulness training group and no-training group. In the posttest, the attention and two components of executive function performances (inhibition control and cognitive flexibility） improved significantly in mindfulness group,while no significant differences were found on atention and three components of executive function in no-training group.The results supported the usefulness of mindfulness training to enhance children's performances on attention and executive function.
+
+In conclusion， our results suggested the positive effects of mindfulness training on two components of executive function (inhibition control and cognitive flexibility） and atention in preschool children. The results provided important theoretical and practical implications for 3\~4 years old children's attention and executive function.
+
+Key Words Mindfulness Training; 3\~4 Years Old Children; Attention; Executive Function

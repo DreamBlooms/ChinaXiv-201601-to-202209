@@ -1,0 +1,264 @@
+# 基于能量采集的大规模MIMO系统能效优化
+
+万晓榆，魏霄，王正强，樊自甫(重庆邮电大学下一代网络应用技术研究所，重庆 400065)
+
+摘要：研究基于能量采集的大规模多输入多输出(multiple-input multiple-output，MIMO)系统能效优化问题。保证用户服务质量、能量塔发射功率限制和能量采集时间约束下，为实现上行大规模MIMO系统能效最大化，对能量塔发射功率、能量采集时间进行联合优化。该问题属于非凸优化问题，首先通过分式规划理论将原优化问题等价转换，然后采用块坐标下降（block coordinatedescent，BCD）方法，对能量塔发射功率、能量采集时间、系统能效进行迭代求解，提出了一种基于能量采集的大规模 MIMO 系统的联合优化能效算法(energy-efficient power andtime allocation algorithm，EPTA)。仿真结果表明,在保证用户服务质量的情况下,与均时最小QoS保证算法(time-averaged minimumQoS guaranteedalgorithm，TA-QoSA)、吞吐量资源分配算法(throughput maximization based power and time algorithm，TPTA)相比，该算法提高了系统能效。
+
+关键词：大规模多输入多输出；能量采集；能效；分式规划；凸优化 中图分类号：TN929 doi:10.3969/j.issn.1001-3695.2017.10.1006
+
+# Energy-efficient optimization of massive MIMO systems with energy harvesting
+
+Wan Xiaoyu, Wei Xiao, Wang Zhengqiang†, Fan Zifu (Institute for Application Technologyof Next Generation Network,Chongqing Universityof Postsand Telecommunications, Chongqing 400065, China)
+
+Abstract:This paper investigatedan energy-eficient optimization of massive MIMO systems with energy harvesting.The power beacon’s transmit power and energy harvesting time were jointlyoptimized to maximizethe energy eficiencyof the uplink massive MIMO systems under the qualityof service (QoS),the power beacon's transmit power and energy harvesting timeconstraints.Because the problem was the non-convexoptimization problem,it was firsttransformed totheequivalent optimizationproblembyfractionalprogramming theory.Then,anenergy-efficientpowerandtimeallocationalgorithm(EPTA) was proposed based on theblock coordinatedescent (BCD)method to find the powerof the power beacon,energy harvesting timeand energy efficiencyofthe system iteratively.Compared with time averaged minimum QoS guaranteed algorithm (TAQoSA)and throughput maximizationbased power andtime algorithm (TPTA),the simulation results show that the proposed algorithm improves the energy efficiency of the system under the guarantee of user's QoS.
+
+Key Words: masive Multiple-Input Multiple-Output;energy harvesting;energy eficiency;fractional programming;convex optimization
+
+# 0 引言
+
+近来年，随着人类社会的高速发展，资源严重匮乏，无线能量传输（wireless powertransfer,WPT）在无线研究领域吸引了极大的关注，不同于传统的有线能源，传感器节点从电磁辐射中采集能量[1l，延长能量受限网络或设备的寿命。WPT可以运用到很多极端条件下，比如水下、沙漠以及体域网中。在医疗中，植入身体的装置可以通过WPT技术从外界采集能量，极其方便。在智能交通、飞行器、物联网应用的无线传感器节点中，WPT的运用延长了电池寿命[2]。近来，将无线能量传输运用到蜂窝系统中，移动装置不再需要电源线和充电器，基于射频（radio frequency,RF）信号的无线能量传输在科学界引起了极大的关注。信息和能量可以通过RF信号的形式同时传送，并且可以灵活地增加发射功率来提高接收质量。
+
+然而，为了实施WPT，有一些挑战需要解决[3],[4]。与传统的无线信息传输相比，无线能量传输与其有一些相似性和差异性。首先，两者的性能都会受到信道衰落和路径损耗而损失。其次，无线信息传输的接受功率电平不适用于能量传输，并且，能量的采集比信息解码更加灵敏，能量传输距离比无线信息传输距离更短。近来，在传统的无线信息传输中，基站端配置几百根天线的大规模多输入多输出（multiple-input multiple-output,MIMO）技术能够提高衰落信道的性能。多天线技术使用空间波束成形，使发射信号适应信道状态，利用信道衰落来提高性能。同样地，在无线能量传输中，可以运用多天线技术将RF信号与功率接收器对准，从而提高能量效率[5]。多天线技术成为领先的5G无线通信技术，可以同时支持多个信息流和能量传输，提供比当前更好的数据速率和能量效率,可以显著提高WPT的性能。
+
+在无线能量采集场景中，部署基站、传感器以及对传感器进行充电的能量塔。这些传感器在没有任何内部电源的情况下，遵循先采集后传输的方案[与基站进行通信。在实践中，传感器网络和能量塔可以通过不同的权限部署。因此，需要一个提高整个系统能量效率的计划来保证能量塔、传感器和基站三者之间的能源交易与通信。
+
+文献[7]在多传感器节点场景中研究了基站和多天线能量塔之间的无线能量采集，设计了一个Stackelberg博弈，这种多天线系统通过采用波束成形来提高系统传输的效率。假设传感器节点和能量塔之间拥有不完全信道状态信息（channelstatusinformation,CSI)，提出了基站基于最低系统吞吐量的资源分配算法效用函数，但是没有考虑整个系统的能效问题。
+
+文献[8]针对上行多用户MIMO系统，提出了基于能效优化的资源分配方法。所提方法采用迫零（zeroforcing，ZF）接收，以最大化系统能效为准则，通过联合调整基站端的发射天线数和用户的数据速率来优化能效函数，可是忽略了大尺度衰落对系统能效的影响。
+
+文献[9]分别推导了大规模MIMO多用户系统上行链路中分别采用最大比合并，ZF以及最小均方误差检测时的容量下界，并研究了能效和频谱效率之间的折衷关系，但是系统的功率消耗中没有考虑电路功率消耗。
+
+文献[10]分析了移动通信中出现的两种突破性技术：带来巨大信息传输速率的大规模MIMO天线技术，为移动用户远距离充电的WPT技术，提出了将无线信息高速传输和WPT技术相结合的潜质。
+
+基于以上分析，本文的系统模型不同于[7]，本文同时考虑了单天线能量塔和多天线基站。在一个典型的上行多用户无线通信系统中，部署多个传感器节点模型，假设系统通信拥有完美CSI。传感器网络和能量塔拥有相同的部署权限。系统运行时，多个传感器节点从能量塔处采集能量，然后传感器节点利用采集的能量与多天线基站进行通信。本文针对整个大规模MIMO 能量采集系统，以最大化系统能效为准则，提出了一种新的资源分配方法。与文献[8]采用ZF接收并忽略大尺度衰落的影响不同，本文采用ZF算法接收并考虑大尺度衰落的影响，同时在满足用户服务质量（qualityof service,QoS）和能量塔发射功率的约束条件下，以最大化系统能效为准则建立优化模型。根据分式规划的性质，把原始的分式优化问题转换成减式形式，然后转换为凸优化问题，通过联合调整能量塔的发射功率和传感器的能量采集时间来优化能效函数。由于无法得到最优功率分配和能量采集时间的闭式表达式，本文运用二分法和凸优化内点法为优化问题找到了可行的数值解决方案，推导证明得到了能效最大化时能量塔的发射功率和传感器的能量采集时间。仿真结果表明，在保证用户QoS的情况下，所提算法提高了系统能效，并让整个系统具有较好的吞吐量性能。
+
+# 1 系统模型与问题描述
+
+本文考虑一个典型的上行多用户无线通信系统，系统模型由一个多天线基站，一个能量塔和 $K$ 个地理位置分散的传感器节点组成，如图1所示。基站配置 $M$ 根天线，而能量塔和传感器均配备单根天线。所有传感器节点可以直接与基站通信。在$M { \geq } K { + } 1$ 的瑞利衰落信道中，假设基站完全已知信道状态信息并采用ZF 接收。
+
+![](images/5513e133f847f946af179703737a54a9ef75510178aa98ba0015f8e8a6a83385.jpg)  
+图1系统模型
+
+本文采用先采集后传输模型[6。不失一般性，假设每个时隙具有单位长度。其中每个时隙被分成两部分：a）在总时隙的第一部分 $\tau$ 中，能量塔向用于能量采集的传感器节点发送能量;b）在总时隙的第二部分 $1 - \tau$ 中，传感器节点使用采集的全部能量向基站发送信息。能量塔通过广播的方式向传感器节点传输的总功率为 $P$ 。
+
+在第一部分能量采集时间 $\tau$ 内，第 $k$ 个传感器节点采集的能量为
+
+$$
+E _ { \scriptscriptstyle k } ( P , \tau ) = \tau \mid g _ { \scriptscriptstyle k } \mid ^ { 2 } P \xi _ { \scriptscriptstyle k } \ , k = 1 , 2 , \cdots , K
+$$
+
+其中: $g _ { \scriptscriptstyle { k } }$ 是从能量塔到第 $k$ 个传感器节点的信道增益，假设基站具有关于所有 $g _ { k }$ 的完整信道信息(可以使用导频训练信号获得)。 $\xi _ { \scriptscriptstyle k }$ 是第 $k$ 个传感器节点的能量转换效率( $0 < \xi _ { k } < 1$ )。时隙的第二部分被划分为 $\left( 1 - \tau \right)$ ，每个传感器节点在其时隙第二部分向基站发送数据时会完全消耗在时隙第一部分期间收集的能量，则第 $k$ 个传感器在时隙第二部分 $_ { 1 - \tau }$ 传输信息的功率为
+
+$$
+P _ { _ k } ( P , \tau ) = { \frac { E _ { _ k } ( P , \tau ) } { 1 - \tau } } = { \frac { \tau } { 1 - \tau } } | g _ { _ k } | ^ { 2 } P \xi _ { _ k }
+$$
+
+由于第 $k$ 个传感器节点在基站处的数据吞吐量9为
+
+$$
+D _ { k } ( P , \tau ) = ( 1 - \tau ) \mathrm { l o g } _ { 2 } ( 1 + ( M - K ) \beta _ { k } \frac { E _ { k } } { ( 1 - \tau ) \sigma ^ { 2 } } )
+$$
+
+其中: $\beta _ { { } _ { k } }$ 是第 $k$ 个传感器的大尺度衰落因子。在吞吐量表达式中，假设高斯噪声的均值为零、方差为 $\sigma ^ { 2 }$ 。将式(1)代入式(3)得
+
+$$
+\begin{array} { c } { { D _ { \boldsymbol { k } } ( P , \tau ) = } } \\ { { { } } } \\ { { ( 1 - \tau ) \mathrm { l o g } _ { 2 } ( 1 + ( { \cal M } - { \cal K } ) \beta _ { \boldsymbol { k } } \displaystyle \frac { \tau \vert { \boldsymbol { g } } _ { \boldsymbol { k } } \vert ^ { 2 } P \xi _ { \boldsymbol { k } } } { ( 1 - \tau ) \sigma ^ { 2 } } ) = } } \\ { { { } } } \\ { { \displaystyle \frac { ( 1 - \tau ) } { \mathrm { l n } 2 } \mathrm { l n } ( 1 + ( { \cal M } - { \cal K } ) \beta _ { \boldsymbol { k } } \displaystyle \frac { \tau \vert { \boldsymbol { g } } _ { \boldsymbol { k } } \vert ^ { 2 } P \xi _ { \boldsymbol { k } } } { ( 1 - \tau ) \sigma ^ { 2 } } ) } } \end{array}
+$$
+
+令 ${ M } _ { k } = \left( M - K \right) \beta _ { k } \frac { | g _ { k } ^ { \mathbf { \alpha } } | ^ { 2 } \xi _ { k } } { { \sigma } ^ { 2 } }$ 1g5，得
+
+$$
+D _ { k } ( P , \tau ) = { \frac { 1 } { \ln 2 } } ( 1 - \tau ) \ln ( 1 + M _ { k } \cdot { \frac { \tau \cdot P } { 1 - \tau } } ) 
+$$
+
+$K$ 个传感器的总吞吐量为
+
+$$
+D ( P , \tau ) = \sum _ { k = 1 } ^ { K } D _ { k } ( P , \tau ) =
+$$
+
+$$
+\sum _ { k = 1 } ^ { K } \frac { 1 } { \ln 2 } ( 1 - \tau ) \mathrm { l n } ( 1 + M _ { k } \cdot \frac { \tau \cdot P } { 1 - \tau } )
+$$
+
+上行多用户大规模MIMO系统的能效[11为:
+
+$$
+\begin{array} { c } { { \eta ( P , \tau ) = \displaystyle \frac { D ( P , \tau ) } { \displaystyle { \sum _ { k = 1 } ^ { K } } P _ { k } ( P , \tau ) + P _ { c } } = } } \\ { { \displaystyle { \sum _ { \mathrm { \scriptsize { ~ \frac { k = 1 } { \dots } ~ } } } ^ { \kappa } \frac { 1 } { \ln 2 } ( 1 - \tau ) \ln ( 1 + M _ { k } \cdot \frac { \tau \cdot P } { 1 - \tau } ) } } } \\ { { \displaystyle { \sum _ { k = 1 } ^ { K } P _ { k } ( P , \tau ) + P _ { c } } } } \end{array}
+$$
+
+其中： $P _ { c }$ 表示整个系统的电路功率消耗。这里的电路功率消耗包括信号传输路径上所有电路模块，如A/D 转换， $\mathrm { { D / A } }$ 转换，频率合成器，混频器，功率放大器等的电能消耗[12]。系统的能效优化问题可以表示为
+
+$$
+\begin{array} { r l } & { \displaystyle \mathrm { ~  ~ \times ~ } \eta ( P , \tau ) } \\ & { \displaystyle : 0 \le P \le P _ { \mathrm { m a x } } } \\ & { \displaystyle M _ { k } \cdot \frac { \tau \cdot P } { 1 - \tau } \ge \gamma _ { k } ^ { \mathrm { m i n } } } \\ & { \displaystyle \quad 0 \le \tau \le 1 } \end{array}
+$$
+
+其中: $P _ { \mathrm { m a x } }$ 是能量塔的最大传输功率。 $\gamma _ { k } ^ { \mathrm { { m i n } } }$ 是第 $k$ 个传感器相应QoS保证的最小信干噪比（signal to interference plus noise ratio,SINR)。
+
+# 2 基于能量采集的大规模MIMO系统能效资源分配算法
+
+式（8）表示出了系统的能效优化问题，本节的目标是设计有效的算法找到能量塔传输功率值 $P$ 和传感器能量采集时间值$\tau$ 使能效最大化。将式（7）代入式（8）得
+
+$$
+\operatorname* { m a x } _ { P , \tau } \ \frac { \displaystyle \sum _ { k = 1 } ^ { K } ( 1 - \tau ) \ln ( 1 + M _ { k } \cdot \frac { \tau \cdot P } { 1 - \tau } ) } { \displaystyle \sum _ { k = 1 } ^ { K } P _ { k } ( P , \tau ) + P _ { c } }
+$$
+
+$$
+0 \leq \tau \leq 1
+$$
+
+式（9）中的目标函数是两个函数相除的形式，可以看做一个标准的分式规划问题，由文献[13]可知，根据分式规划的性质，分式规划问题可以等价转换成一组包含能效参数的减式形式的等价优化问题，原分式规划问题的最优能效是等价后优化问题的零点。首先，对于固定能效下减式形式的优化问题，采用块坐标下降（BlockCoordinateDescent，BCD）方法[14]和凸优化的方法来联合优化发射功率和能量采集时间；然后基于Dinkelbach方法[14]更新能效参数，直到算法收敛。从而，提出一种发射功率和能量采集时间的联合优化能效算法。
+
+令 $q ^ { * }$ 表示本系统的最优能效， $\tau ^ { * }$ ， $\boldsymbol { P } ^ { * }$ 表示实现最大能效的$\tau , P$ 。即
+
+$$
+\begin{array} { c } { { \displaystyle { q ^ { * } = \frac { \displaystyle { \sum _ { k = 1 } ^ { K } ( 1 - \tau ^ { * } ) \ln ( 1 + M _ { k } \cdot \frac { \tau ^ { * } \cdot P ^ { * } } { 1 - \tau ^ { * } } ) } } { \displaystyle { \sum _ { k = 1 } ^ { K } P _ { k } ( P ^ { * } , \tau ^ { * } ) + P _ { c } } } } } } \\ { { { \mathrm { } } } } \\ { { \displaystyle { = \operatorname* { m a x } _ { P , r } \frac { \displaystyle { \sum _ { k = 1 } ^ { K } ( 1 - \tau ) \ln ( 1 + M _ { k } \cdot \frac { \tau \cdot P } { 1 - \tau } ) } } { \displaystyle { \sum _ { k = 1 } ^ { K } P _ { k } ( P , \tau ) + P _ { c } } } } } } \end{array}
+$$
+
+当且仅当
+
+$$
+\begin{array} { c } { { \displaystyle \operatorname* { m a x } _ { P , \tau } \sum _ { k = 1 } ^ { K } ( 1 - \tau ) \ln ( 1 + M _ { k } \cdot \frac { \tau \cdot P } { 1 - \tau } ) - q ^ { * } ( \sum _ { k = 1 } ^ { K } P _ { k } ( P , \tau ) + P _ { c } ) } } \\ { { = \displaystyle \sum _ { k = 1 } ^ { K } ( 1 - \tau ^ { * } ) \ln ( 1 + M _ { k } \cdot \frac { \tau ^ { * } \cdot P ^ { * } } { 1 - \tau ^ { * } } ) - q ^ { * } \left( \sum _ { k = 1 } ^ { K } P _ { k } ( P ^ { * } , \tau ^ { * } ) + P _ { c } \right) } } \end{array}
+$$
+
+$$
+: \sum _ { k = 1 } ^ { K } ( 1 - \tau ) \ln ( 1 + M _ { k } \cdot \frac { \tau \cdot P } { 1 - \tau } ) \geq 0 , \sum _ { k = 1 } ^ { K } P _ { k } ( P , \tau ) + P _ { c } > 0 \ \mathbf { \hat { \sigma } _ { \circ } }
+$$
+
+因此，目标函数式(9)可以转换为
+
+$$
+F ( q ) = \operatorname* { m a x } _ { P , \tau } \sum _ { k = 1 } ^ { K } ( 1 - \tau ) \ln ( 1 + M _ { k } \cdot \frac { \tau \cdot P } { 1 - \tau } ) - q ( \sum _ { k = 1 } ^ { K } P _ { k } ( P , \tau ) + P _ { c } ) 
+$$
+
+$$
+0 \leq \tau \leq 1
+$$
+
+$$
+\begin{array} { l } { { \displaystyle { { \widetilde \mathrm { \tiny ~ \gamma } } } \Psi ( P , \tau , q ) = \sum _ { k = 1 } ^ { K } ( 1 - \tau ) \ln ( 1 + M _ { k } \cdot \frac { \tau \cdot P } { 1 - \tau } ) - q ( \sum _ { k = 1 } ^ { K } P _ { k } ( P , \tau ) + P _ { c } ) } , } \\ { { \displaystyle N _ { k } = \left| g _ { k } \right| ^ { 2 } \xi _ { k } . } } \\ { { \displaystyle | \mathrm { J i J } \Psi ( P , \tau , q ) = \sum _ { k = 1 } ^ { K } ( 1 - \tau ) \ln ( 1 + M _ { k } \cdot \frac { \tau \cdot P } { 1 - \tau } ) - q ( \sum _ { k = 1 } ^ { K } \frac { \tau } { 1 - \tau } N _ { k } P + P _ { c } ) } } \end{array}
+$$
+
+$F ( q )$ 可以表示为:
+
+$$
+F ( q ) = \operatorname* { m a x } _ { P , \tau } \Psi ( P , \tau , q )
+$$
+
+目标函数有两个优化变量，本文采用BCD方法。对于给定的初值变量 $q$ ，先用固定的时间 $\tau$ 迭代优化功率 $P$ 来获得 $P$ 的次优解，然后用固定的功率 $P$ 迭代优化时间 $\tau$ 来获得 $\tau$ 的次优解。重复循环该过程直到 $q$ 收敛，这被称为BCD方法。
+
+a）固定 $\tau$ ，求解 $P$ 。对于给定的 $\tau$ ，最优能量塔发射功率的求解可以表示为
+
+$$
+\frac { d \Psi ( P ) } { d P } = \sum _ { k = 1 } ^ { K } \frac { M _ { k } \tau ( 1 - \tau ) } { 1 - \tau + M _ { k } \tau P } - \sum _ { k = 1 } ^ { K } q \frac { \tau } { 1 - \tau } N _ { k } = 0
+$$
+
+得到驻点：
+
+$$
+P ^ { s } ( \tau ) = \frac { \displaystyle \sum _ { k = 1 } ^ { K } [ M _ { k } ( 1 - \tau ) ^ { 2 } - q N _ { k } ( 1 - \tau ) ] } { \displaystyle \sum _ { k = 1 } ^ { K } q N _ { k } M _ { k } \tau }
+$$
+
+$\Psi ( P )$ 对 $P$ 求二阶导:
+
+$$
+\frac { d ^ { 2 } \Psi ( P ) } { d P ^ { 2 } } = - \sum _ { k = 1 } ^ { K } \frac { M _ { k } ^ { 2 } \tau ^ { 2 } ( 1 - \tau ) } { \left( 1 - \tau + M _ { k } \tau P \right) ^ { 2 } } \leq 0
+$$
+
+所以 $\Psi ( P )$ 是关于 $P$ 的凸函数，为了保证用户的QoS，其$\frac { \left( 1 - \tau \right) \gamma _ { k } ^ { \mathrm { m i n } } } { M _ { k } \cdot \tau } { \le } P \le P _ { \mathrm { m a x } } \circ$
+
+b)固定 $P$ ，求解 $\tau$ 。对于给定的 $P$ ，最优传感器能量采集时间的求解可以表示为
+
+$$
+\begin{array} { c } { \displaystyle \frac { d \Psi ( \tau ) } { d \tau } = \sum _ { k = 1 } ^ { K } \left[ \displaystyle \frac { M _ { k } P } { 1 - \tau + M _ { k } P \tau } - \ln \left( 1 + M _ { k } P \cdot \displaystyle \frac { \tau } { 1 - \tau } \right) \right] - } \\ { \displaystyle \sum _ { k = 1 } ^ { K } \displaystyle \frac { q N _ { k } P } { \left( 1 - \tau \right) ^ { 2 } } = 0 } \end{array}
+$$
+
+$\Psi ( \tau )$ 对 $\tau$ 求二阶导:
+
+$$
+\frac { d ^ { 2 } \Psi ( \tau ) } { d \tau ^ { 2 } } = \sum _ { k = 1 } ^ { K } \frac { M _ { k } ^ { 2 } P ^ { 2 } } { ( \tau - 1 ) { ( M _ { k } P \tau + 1 - \tau ) } ^ { 2 } } - \sum _ { k = 1 } ^ { K } \frac { 2 N _ { k } P q } { { ( 1 - \tau ) } ^ { 3 } } \le 0
+$$
+
+所以 $\Psi ( \tau )$ 是关于 $\tau$ 的凸函数，为了保证用户的QoS，其中$\frac { 1 } { M _ { k \operatorname* { m i n } } P + \gamma _ { k } ^ { \operatorname* { m i n } } } \leq \tau \leq 1 \ : _ { \circ }$
+
+$$
+\begin{array} { l } { { \displaystyle \Psi _ { \tau } ^ { \prime } ( 0 ) = \sum _ { k = 1 } ^ { K } M _ { { \boldsymbol k } } { \boldsymbol P } - \sum _ { k = 1 } ^ { K } \eta N _ { { \boldsymbol k } } { \boldsymbol P } } } \\ { ~ } \\ { { \displaystyle ~ = P \sum _ { k = 1 } ^ { K } \left( M _ { { \boldsymbol k } } - \eta N _ { { \boldsymbol k } } \right) } } \\ { { \displaystyle ~ = P \sum _ { k = 1 } ^ { K } \left. g _ { { \boldsymbol k } } \right. ^ { 2 } \xi _ { { \boldsymbol k } } \left[ \left( M - K \right) \frac { \beta _ { { \boldsymbol k } } } { \sigma ^ { 2 } } - \eta \right] } } \end{array}
+$$
+
+得到 $\operatorname* { l i m } _ { \tau \to 1 ^ { - } } \Psi _ { \tau } ^ { \prime } ( 1 ) = - \infty < 0$ ，以下分两种情况对 $\Psi _ { \tau } ^ { \prime } ( 0 )$ 进行讨论。
+
+情况1当 $\Psi _ { \tau } ^ { \prime } ( 0 ) < 0$ 时，则 $\Psi ( P , \tau , q )$ 关于 $\tau$ 单调递减，为使 $\Psi ( P , \tau , q )$ 值最大，则 $\scriptstyle { \tau = 0 }$ ，代 $\scriptstyle { \tau = 0 }$ 入式（7），得到 $\eta = 0$ ，
+
+此种情况舍掉。
+
+情况2当 $\Psi _ { \tau } ^ { \prime } ( 0 ) > 0$ 时，则 $\Psi _ { \tau } ^ { \prime } ( 0 ) \cdot \Psi _ { \tau } ^ { \prime } ( 1 ) < 0$ 。运用二分法求$\Psi ( \tau )$ 在 $0 \leq \tau \leq 1$ 的驻点 $\tau ( P )$ ，又 $\Psi ( \tau )$ 是关于 $\tau$ 的凸函数，若$\tau ( P ) \geq \frac { 1 } { M _ { k \operatorname* { m i n } } P + \gamma _ { k } ^ { \operatorname* { m i n } } }$ zmin，则τ(P)就是本次迭代的最优传感器能量采集时间；若 $\tau ( P ) < \frac { 1 } { M _ { k \operatorname* { m i n } } P + \gamma _ { k } ^ { \operatorname* { m i n } } }$ $\frac { 1 } { M _ { \mathrm { \small { k m i n } } } P + \gamma _ { k } ^ { \mathrm { \scriptsize { m i n } } } }$ 就是本次迭代的最优传感器能量采集时间。
+
+采用文献[14]中的Dinkelbach方法，本文提出一种新的迭代方法，通过联合优化 $P$ 和 $\tau$ 来最大化函数 $F$ ，具体算法描述如下。
+
+算法：发射功率和能量采集时间的联合优化能效算法（energy-efficient power and time allocation algorithm,EPTA）
+
+1.初始化：最大迭代次数 $T _ { \mathrm { m a x } }$ 和最大容差因子 $\boldsymbol { \varepsilon }$ ，能效初值$q$ ，能量塔发射功率值 $P$ ，传感器的能量采集时间 $\tau$ 等系统参数，迭代次数 $T = 0$
+
+2. repeat;
+
+3.对于给定的 $q$ ， $P$ ，运用二分法求解式（15)，获得传感器的能量采集时间 $\left\{ \tau ^ { \prime } \right\}$ ：
+
+4.对于得到的 $\tau ^ { \prime }$ ，代入 $P$ ，运用凸优化内点法求解式(12)，获得能量塔的发射功率 $\left\{ P ^ { \prime } \right\}$ ·
+
+5.判断是否满足终止条件：
+
+判断 $\sum _ { k = 1 } ^ { K } ( 1 - \tau ) \ln ( 1 + M _ { k } \cdot \frac { \tau \cdot P } { 1 - \tau } ) - q ( \sum _ { k = 1 } ^ { K } \frac { \tau } { 1 - \tau } N _ { k } P + P _ { c } ) < \varepsilon$ 是  
+否成立;(a)如果是， convergence $\mathbf { \Sigma } =$ true return  
+$\left\{ P ^ { * } , \tau ^ { * } \right\} = \left\{ P ^ { \prime } , \tau ^ { \prime } \right\} \mathcal { F } \mathbb { I } q ^ { * } = \frac { \displaystyle \sum _ { k = 1 } ^ { K } ( 1 - \tau ^ { * } ) \ln ( 1 + M _ { k } \cdot \frac { \tau ^ { * } \cdot P ^ { * } } { 1 - \tau ^ { * } } ) } { \displaystyle \sum _ { k = 1 } ^ { K } P _ { k } ( P ^ { * } , \tau ^ { * } ) + P _ { c } } ~ ;$ (b)如果否， $q = \frac { \displaystyle { \sum _ { k = 1 } ^ { K } } ( 1 - \tau ^ { \prime } ) \ln ( 1 + M _ { k } \cdot \frac { \tau ^ { \prime } \cdot P ^ { \prime } } { 1 - \tau ^ { \prime } } ) } { \displaystyle { \sum _ { k = 1 } ^ { K } } P _ { k } ( P ^ { \prime } , \tau ^ { \prime } ) + P _ { c } }$ convergence $= f a l s e$ 6.until convergence $\ c =$ true or $T = T _ { \mathrm { m a x } }$
+
+# 3 仿真结果与分析
+
+本章对所提的发射功率和能量采集时间的联合优化能效EPTA 算法进行仿真，与均时最小QoS 保证算法[15]（time-averaged minimumQoS guaranteed algorithm,TA-QoSA）和吞吐量资源分配算法[16]（throughput maximization based power andtime algorithm,TPTA)进行仿真对比。TA-QoSA算法表示在QoS保证的前提下，对能量采集时间与信息传输时间进行均分( $\tau = 0 . 5$ )，最小化系统总发生功率的算法；TPTA算法表示联合优化能量塔发射功率 $P$ 和传感器能量采集时间 $\tau$ 最大化系统吞吐量的算法。仿真测试环境通过在计算机windows10系统上采用MATLAB2015a32位软件搭建测试平台进行模拟仿真，相关系统参数设置如下：基站和能量塔的坐标分别位于(-$^ { 2 0 , 0 ) \mathrm { m } }$ 与 $( 2 0 , 0 ) \mathrm { m }$ 的位置。传感器随机分布在 $[ - 1 0 , 1 0 ] \times [ \$ -10,10]m 的矩形范围内。能量塔到第 $k$ 个传感器节点和第 $k$ 个传感器节点到基站的信道增益分别建模为 $g _ { k } = d _ { k } ^ { - 3 } , \beta _ { k } = m _ { k } ^ { - 3 }$ ,其中 $d _ { k }$ 和 $m _ { k }$ 分别表示第 $k$ 个传感器到能量塔和基站的距离。背景噪声方差取值为 $\sigma ^ { 2 } = 1 0 ^ { - 1 0 }$ W，能量转换效率取值 $\xi _ { k } = 0 . 6$ ，电路消耗功率取值 $P _ { c } = 0 . 5 \ : \mathrm { d B m }$ ，基站天线数设置为100。仿真结果通过 $1 0 ^ { 3 }$ 独立信道实现结果取平均获得。图2\~4的传感器数量设置为9。图5、6的 $P _ { \mathrm { m a x } }$ 的取值为 $3 0 ~ \mathrm { d B m }$ 。
+
+![](images/bee23050cf1ebe335656fb782b6af7bd161a76c40ac3790e18bdcebb5b93ce61.jpg)  
+图2本文算法的收敛性能
+
+图2 给出了所提 EPTA 算法在能量塔最大发射功率 $P _ { \mathrm { m a x } }$ 三种不同取值情况下的收敛性能。可以看到，通过几次迭代，所提算法都能很快收敛。在所考虑的三种情形中，算法收敛到最优值的迭代次数均在5次以内，收敛速度快符合实时通信的要求。
+
+![](images/2d582cfc48a1cead7f4d996f9533f7f929ce8bffe4355852b215a70bde873ea8.jpg)  
+图3不同Pmax情况下各算法的能效性能
+
+图3 比较了不同最大发射功率 $P _ { \mathrm { m a x } }$ 情况下三种算法的能效性能。从图中可以看到，当 $P _ { \mathrm { m a x } } \leq 2 0 \mathrm { d B m }$ 时，随着 $P _ { \mathrm { m a x } }$ 的增加,本文EPTA算法和TPTA算法的系统能效性能明显提升，且两者性能比较接近。而当 $P _ { \mathrm { m a x } } \geq 2 0 \mathrm { d B m }$ 时，本文 EPTA 算法与TPTA 算法的差距逐渐增大，这是因为本文EPTA 算法的优化目标为能效，TPTA算法的优化目标为系统吞吐量，当 $P _ { \mathrm { m a x } } \geq 3 5$ dBm时，本文EPTA算法逐渐收敛，说明EPTA算法的能量塔最优发射功率 $P ^ { * } = P _ { \mathrm { m a x } } ( P _ { \mathrm { m a x } } \leq 3 5 \mathrm { d B m } \ H \cdot \Sigma )$ ，而当 $P _ { \mathrm { m a x } } \geq 3 5 \mathrm { d B m }$ 时，最优发射功率 $P ^ { * } \neq P _ { \operatorname* { m a x } }$ 。发射功率 $P$ 已经取到了它的最优值 $\boldsymbol { P } ^ { * }$ ，增大发射功率的最大值，能量塔采用
+
+$\boldsymbol { P } ^ { * }$ 值（ $\boldsymbol { P } ^ { * } \neq P _ { \mathrm { m a x } }$ ）发射功率并不会使能效提升。相反，若采用 $P _ { \mathrm { m a x } }$ 值发射功率，反而会使能效下降。当 $P _ { \mathrm { m a x } } = 2 5 \mathrm { d B m }$ 时，TPTA 算法能效达到最优，然后逐渐下降，因为 TPTA算法的优化目标是系统吞吐量，不是能效。而对于TA-QoSA算法，传感器数量一定，在最低QoS的保证下，各项参数将一直维持一个定值，所以系统能效一直不变。当 $P _ { \mathrm { m a x } } { = } 3 5 \mathrm { d B m }$ 时，EPTA算法的能效是TA-QoSA算法的2.6倍，比TPTA算法的能效性能高 $6 6 \%$ 。
+
+图4比较了不同最大发射功率 $P _ { \mathrm { m a x } }$ 情况下三种算法的吞吐量性能。当 $P _ { \mathrm { m a x } } \leq 2 0 \mathrm { d B m }$ 时，本文 EPTA 算法与 TPTA 算法的性能比较接近。当 $P _ { \mathrm { m a x } } \geq 3 5 \mathrm { d B m }$ 时，EPTA算法的吞吐量将逐渐收敛到一个定值。在整个过程中，TPTA 算法的吞吐量一直呈上升趋势，TA-QoSA算法的吞吐量将一直维持不变，原理同图3类似。
+
+![](images/bdec704f1d568b8f6fe2a1415cac3fa345c18d6d0a1003b5241f98d44bf87d2e.jpg)  
+图4不同Pmax情况下各算法的吞吐量性能
+
+图5、6分别比较了不同传感器数量情况下三种算法的能效性能与吞吐量性能。随着传感器数量的增加，三种算法的系统能效与吞吐量都逐渐提高，其中能效：EPTA 算法 $>$ TPTA算法 $>$ TA-QoSA算法，吞吐量：TPTA算法 $>$ EPTA算法 $>$ TA-QoSA算法。当传感器数量为20时，EPTA算法的能效性能是TA-QoSA 算法的2倍，比TPTA 算法的能效性能提升 $51 \%$ 。EPTA算法以优化系统能效为目标，TPTA算法以优化系统吞吐量为目标，且EPTA算法能达到良好的系统能效性能，且具有较好的系统吞吐量。
+
+![](images/e15aaedd3440801793f497ccc3dc3c424ae0a648f7c47dd5b60a74d8efc6a104.jpg)  
+图5不同传感器数量情况下各算法的能效性能
+
+![](images/4c48e25a41bbc5de8d0fdd71ecd36134a06b598b458f75c563c677f54a291e67.jpg)  
+图6不同传感器数量情况下各算法的吞吐量性能
+
+# 4 结束语
+
+本文针对基于能量采集的上行多用户大规模MIMO系统，在发射端完全已知CSI并采用ZF接收的情况下，同时满足能量塔功率发射条件和用户QoS保证的约束条件，以最大化系统能效为准则，对多用户MIMO能量采集系统中能量塔发射功率和传感器能量采集时间进行了研究。文中根据分式规划的性质，把原始的分式最优化问题转换成减式形式，运用分式规划方法转换为凸优化问题，进而运用二分法和凸优化内点法为优化问题提出了一种更有效的迭代算法。仿真结果表明，所提算法能够获得较好的能效性能。由于本文考虑的是系统通信拥有完美CSI情况下的能效资源分配，在下一步的工作中，将提出基于非理想CSI的资源分配算法。
+
+# 参考文献：
+
+[1]郭晶，卢锦．无线通信系统中无线携能通信技术的性能研究[J].陕西 科技大学学报,2017(3):176-179,190.   
+[2]Wang Z,Duan L, Zhang R.Adaptively directional wireless power transfer for large SN networks [C]// Proc of IEEE Global Communications Conference.2015:1-6.   
+[3]Oruganti S K,Kaiyrakhmet O,Bien F.Wireless power and data transfer system for internet of things over metal walls and metal shielded environments [C]//Proc of URSI Asia-Pacific Radio Science Conference. 2016:318-320.   
+[4]Liu Q,Yildirim K S,Pawelczak P,et al. Safe and secure wireless power transfer networks:challenges and opportunities in RFbased systems [J]. IEEE COuI. Vg.,∠UIO,34(y): /4-/y.   
+[5]张雷，代红．面向 5G的大规模 MIMO 技术综述[J]．电讯技术,2017, (05): 608-614.   
+[6] JuH,Zhang R.Throughput maximization in wireless powered communication networks [J]. IEEE Trans on Wireless Commun.,2014,13 (1): 418-428.   
+[7]Sarma S,Kandhway K,Kuri J.Robust energy harvesting based on a Stackelberg game [J].IEEE Letters.Wireless Commun.,2016,5(3): 336- 339.   
+[8]Hu Y,JiBF,Huang YM, et al.Energy-efficient resource allocation of very large multi-user MIMO systems [J]. Wireless Networks,2014,20 (6): 1421- 1430.   
+[9]Ngo HQ,Larsson EG,Marzetta TL.Energy and spectral efficiency of very large multiuser MIMO systems [J].IEEE Trans on Commun.,2013,61 (4): 1436-1449.   
+[10] Yuan F, Jin S,Huang Y,et al. Joint wireless information and energy transfer in massive distributed antenna systems [J]. IEEE Commun.Mag.,2015,53 (6): 109-116.   
+[11] Ng D W K,Lo E,Schober R.Wireless information and power transfer: Energy efficiency optimization in OFDMA systems [J]. IEEE Trans on Wireless Commun.,2013,12 (12): 6352-6370.   
+[12] Cui S G,Goldsmith A J,Bahai A.Energy-efficiency of MIMO and cooperative MIMO techniques in sensor networks [J]. IEEE Journal on Selected Areas in Communications,2004,22(6): 1086-1098.   
+[13]Dinkelbach W. On nonlinear fractional programming [J].Management Science,1967,13(7): 492-498.   
+[14]RichtarikP,Taka"c M. Iteration complexity of randomized blockcoordinate descent methods for minimizing a composite function [J]. Math.Program, 2012, 144 (1): 1-38.   
+[15] T. Van Chien,E.Bjornson and E.G.Larsson. Joint Power Allocation and User Association Optimization for Massive MIMO Systems [J]. IEEE Trans on Wireless Commun.,2016,15 (9): 6384-6399.   
+[16] Yang G,Ho C K, Zhang R,et al. Throughput optimization for massive MIMO systems powered by wireless energy transfer [J]. IEEE Journal on Selected Areas in Communications,2015,33 (8): 1640-1650.

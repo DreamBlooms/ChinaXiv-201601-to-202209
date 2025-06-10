@@ -1,0 +1,117 @@
+# 全球化悖论的文化心理学解读
+
+胡晓檬」 彭凯平² 陈晓华3（1中国人民大学心理学系，北京，100872）(²清华大学心理学系，北京，100084)（香港理工大学应用社会科学系，香港）
+
+摘要：多元文化碰撞带给人们多样化的视角、丰富的智力资源和更多的创新机遇，同时也会带给人们认同混淆、文化排斥和不道德行为。本文着重阐述全球化的民间理论、全球化经历的双刃剑效应、全球化对个体认同发展的影响、人们应对全球化的心理策略以及全球化的道德审视等重要议题。本文试图提供一种全球化悖论的文化心理学解读，指出全球化进程带给我们的积极与消极影响，解构全球化的不同维度与心理范畴的关联模式。
+
+关键词：全球化；多元文化经历；认同发展；大规模合作；道德基础分类号：B849:C91
+
+# 1.引言
+
+社会心理学家将全球化定义为世界范围内不同国家的人民、政府和公司之间的互动和融合（Chiu et al.,2011;Leung,Qiu,&Chiu,2014）。越来越多的心理学实证研究开始关注宏观层面的全球化过程如何重塑微观层面的个体的心理过程与行为模式(Chiu&Hong,2006;Leung,Qiu,&Chiu,2014）。全球化的进程极大地重塑了个体的生活方式、流动模式、文化认同、价值体系等等（Chiu，Gries，Torelli，&Cheng，2011；Leung，Qiu，&Chiu，2014；Marsella，2012；Yang et al.,2011）。经济学家曾经提出“全球化悖论”(globalization paradox)，其核心内涵是全球经济一体化和自由贸易并不一定导致大规模的经济繁荣(Rodrik,2011)。有趣的是，这种社会现象同样表征在文化心理学领域，反映在全球化对人们心理与行为的影响纷繁复杂且看似矛盾（Gelfand，Lyons,&Lun，2011）。具体而言，从社会水平来看，一方面，由于全球化和现代化，主流文化正在变得愈发同质例如日本和中国的个人主义兴起(Hamamura,2012;Yu,etal.,2016)；另一方面，传统社会的价值体系仍以文化特异的方式持续存在且施加影响，甚至可能出现反弹效应(backlasheffect)(Walter,2021)，例如印度的种姓制度(caste system)和中国的孝道文化(filial piety)（Inglehart＆Baker，2000）。从个体水平来看，全球化对于个体的塑造作用存在极大的个体差异。有人将全球化视为难能可贵的人生机遇，提供了前所未有的挖掘个人潜能的发展空间，而另一些人则将全球化视为对自我原有的认同体系的极大威胁（Gelfand，Lyons,&Lun，2011）。本文试图整合已有研究，梳理全球化进程究竟会给人们的心理过程与行为模式带来哪些复合影响，同时评述前人研究的贡献与不足，以期推动未来研究更加多元、精细和深入的探索全球化的不同维度与心理和行为之间的动态建构关系。
+
+# 2.全球化心理学关注哪些核心议题？
+
+首先，社会心理学家探讨了普通民众看待全球化的民间信念(folkbelief)（Chiu，Hong,&Dweck，1997；Yang et al.，2011）。社会心理学家认为，人们通过对社会变迁的民间理论(lay theory)来建构对未来社会的想象(Kashima,2011)，这种民间理论是关于社会如何变迁的一般意义上的知识结构，它会整合关于社会过去和当下现状的特定信息(Kashima etal.,2011)。按照文化人类学家AlanFiske 的理论框架来看，人们认为未来的社会将会更加基于市场估价(market pricing)，而不是基于社区共享(community sharing)(Fiske,1992)。有趣的是，研究发现，无论是澳大利亚、日本或者中国，普通民众预测未来的社会趋势是经济发展更好、人类能力更强，但是热情更低、道德更差(Kashima et al.,2011）。关于民间理论的探究可以为我们提供一种朴素心理学的理论视角，象征着人们看待未来社会发展的历史趋势，但是在未来工作中研究者应当进一步区分受众群体，比如全球化的受益者和受害者，全球化经历的个体差异可能导致人们对全球化以及社会变迁的内隐理论截
+
+然不同。
+
+其次，社会心理学家探究了全球化究竟促使人们变得更加狭隘还是更加慷慨？基于多水平序列合作实验(multilevel sequential cooperation experiment)的研究范式，研究者考察了美国、南非、伊朗、阿根廷、俄罗斯、意大利六个工业化国家的普通大众之间的合作行为结果发现，全球化经历更加丰富多元的被试在个体、社区和全球三个水平之间更加倾向于全球水平的合作，暨这些被试能够跨越群际边界，为更大范围的外群体分配资源和做出贡献(Buchan,etal.,2009)。这个实验的结果一定程度上说明了丰富多元的全球化经历确实能够促使人们形成“人类命运共同体”，促进不同群体之间的大规模合作。尤其是在面对威胁人类的全球性议题时，比如全球变暖、新冠疫情、极端贫困等，全球化经历能够加强人类团结协作、共同努力来提高人类公共福祉(public goods)。
+
+再次，社会心理学家关注了全球化进程如何改写人们的认同体系。研究表明，全球化对个体的认同发展影响巨大，重新塑造了人们对自身以及他人的看法(Armett,2002;Hermans,&Dimaggio,2007)。学者认为全球化对认同体系施加的影响是一个复杂的、多维的、动态的过程(Gleibs&Reddy,2016)。一方面，当人类命运紧密关联时，人们会形成全球人类认同(global human identification)(Stephen,202O)，认为自己是全球公民(globalcitizens)中的一员，关心整个人类的福祉和未来，而原有的国家认同或者民族认同可能会有所减弱(McFarland&Hormsby,2015）。在实证研究中，已有多个测量工具捕捉全球人类认同的因素结构，其中包括人性认同(Identification With All Humanity)(McFarland,Webb,&Brown,2012)、全球社区认同(Psychological Sense of Global Community)(Hackett Omoto,&Matthews,2015）、全球公民认同(Global Citizenship Identification)(Reysen，& Katzarska-Miller,2013)、全球社会认同(Global Social Identification) (Reese,Proch,& Cohrs,2014)等等。这些量表能够良好的预测人道主义的关怀和行为，比如全球贫困、国际慈善、贫富差距、国际正义、助人行为等等(McFarland,&Hormsby,2015)；另一方面，人们也会感知到全球化对于本地文化认同、社会凝聚力的潜在威胁。这种文化认同威胁(cultural identity threat)也会引发人们对外来文化的闭合反应(Morris,Mok,&Mor,2011)。同时，在全球化与本土化交织并存的格局之下，个体也会发展出双文化认同(Armett,2002)或者多元文化认同(Nguyen,&Benet-Martinez,2010)来应对复杂多元的文化情境需求。
+
+最后，社会心理学家聚焦全球化经历的心理与行为后果(Maddux,Lu,Affinito,&Galinsky,2020),提出了多元文化经历的“双刃剑效应”，暨个体所拥有的多元文化经历的广度与深度同时导致积极后果或者消极后果（胡晓檬，韩雨芳，喻丰，彭凯平，2020）。从积极的角度来看，多元文化经历带给人们更多的智力资源(Chiu＆Cheng,2007)，吸收全球文化的知识和洞见，有助于提高解决问题的创造力(Leung＆Chiu,2008;Leung& Chiu,2010; Cheng,Leung,& Wu, 2011; 陆冠南，2018; Maddux,Lu, Affinito,& Galinsky,2020)、提高认知灵活性（Gino&Ariely，2012;Ritter,etal.,2012）、接纳组织变革(Fu et al.,2016)、增加广义信任（Cao，Galinsky&Maddux，2013）、提升职场成功的概率(Maddux,2014)、减少群际偏见（Tadmor，Hong，Chao，Wiruchnipawan&Wang，2012）、提高开放性人格(Sparkman,Eidelman,&Blanchar,2016)以及增加群际助人行为(Bao et al.,2020)。从消极的角度来看，研究发现，多元文化体验并不总是激发文化融合、提高文化创造力和提升文化学习动机，在某些情况下多元文化经历所引发的心理与行为效应恰恰相反。文化心理学家发现，由于跨文化接触可能导致人们的文化防御心理增加，为了辩护原有的价值观和世界观，多元文化体验也会促使人们形成更加固化的思维方式(rigidthinking style)以及更多的群际偏见(intergroup bias)(Chao,Kung,&Yao,2015）。尤其是在两种或两种以上文化元素同时呈现的时候，这种文化混搭(cultural mixing)很大程度上催生了人们对于外来文化的排斥性反应（exclusionary reactions)(（Chiu&Cheng，20O7；Chiu，Mallorie，Keh，&Law，2009）。文化排斥反应是指人们在多元文化接触的过程中，出于文化遗产保护和文化认同确证的动机，产生了对外来文化的本能的、自动的、快速的反应，并且伴随着消极情绪体验（例如厌恶、愤怒、恐惧、嫉妒、怜悯等），从而进一步导致对外来文化的疏离、拒绝和攻击（Cheon，Christopoulos，&Hong，2016;吴莹，杨宜音，赵志裕，2014）。这是因为在双文化启动效应的前提下，人们知觉到的文化差异增大，原有的文化刻板印象被固化（吴莹，杨宜音，赵志裕，2014）。
+
+# 3.当全球化遇见道德：全球化是道德的吗？
+
+人们会在全球化过程中发展出一种“全球意识”(globalconsciousness),这种全球意识不仅包含了有关人类共性和差异的内隐知识，同时也蕴含了实施道德行动的意志(Liu,&Macdonald,2016)。因此，全球化心理学脱离不开规范心理学(normative psychology）。遗憾的是，全球化心理学的理论框架中存在道德维度的失语现象(Gelfand，Lyons,&Lun，2011).。在道德心理学的话语体系中，心理学家尚未关注全球化作为一种整合性过程是否可能超越跨文化比较视域，动态改写人类的道德心理图谱(moral spectrum)。而在全球化心理学的话语体系中，心理学家也未能从道德心理的视角考量和评判全球化所引发的社会变迁和社会流动等宏观的社会现象。
+
+那么，全球化是道德的吗？文化心理学家认为，全球化的不同面向、不同层次和不同维度均和道德范畴紧密关联(McKenzie,2020)。例如，一方面，由西方主流社会倡导的全球化进程提倡普适义务和个人权利，例如全球正义(global justice)和性别平等(genderequality)；另一方面，复杂多变的世界格局呈现出来的道德模式是道德分歧的极化(polarized moral disagreements)或者传统社会与现代世界杂糅之后的价值冲突，比如精英与平民的撕裂和价值取向的优先抉择(Hu etal.,2018)。因此，广泛而频繁的跨文化接触既能增强不同文化之间的对话与融合，也会加剧历史遗留下来或者由于信仰体系差异所引发的
+
+“文明的冲突”（clash of civilizations）（例如伊斯兰文化与西方文化）（Huntington,1997;  
+Yang,2011）。
+
+从理论层面上看，道德心理的跨文化差异视角正在受到全球化视角的挑战，想要理解文化与道德之间的动态建构，未来的切入点将不再是简单的东西文化比较的二分结构，也不是基于文化内部包含的某种社会心理维度（比如城乡二元结构、社会阶层、地域文化等等），而是全球化背景下，人们的道德判断与道德行为如何受到了多元文化的改写与塑造，是否会因个体的文化迁徙或者文化学习发生动态变化。值得一提的是，个体的文化学习即可通过直接体验的多元文化经历而发生，比如远赴重洋在海外学习期间浸泡于外国文化（例如国际学生）(Pacheco,2020)，也可通过间接体验的多元文化暴露来实现，比如年轻一代通过互联网和自媒体接触到的西方社会的主流文化或者中国社会的小众文化。
+
+从实证层面来看，已有证据表明，人们的多元文化体验与科尔伯格的道德阶段论中的后习俗道德正相关（Narvaez&Hill，2010）。多元文化经历更为丰富的人，在道德推理中更有可能超越前习俗阶段的奖励与惩罚或者某个特定的社会规范，采用更加普适的道德原则，比如全球正义等偏向个人权益或者文化平等的价值取向。但是，有趣的是，研究发现多元文化经历的广度更宽的人（即拥有多个国家的生活经验）更有可能做出撒谎和作弊等不道德行为，研究者认为其中一个解释变量是国外经历丰富导致人们的道德相对主义上升(Lu et al.,2016）。
+
+# 4.人们如何应对全球化？
+
+为了捕捉人们应对全球化的心理策略的个体差异，Chen等人（2016）提出了“全球化取向”（GlobalOrientations）的构念。该构念由两个相对独立的心理维度组成：暨“获取多元文化(multicultural acquisition)”和“保护族裔文化”(ethnic protection)。获取多元文化得分更高的人倾向于积极参与多元文化的互动、交流和学习，促进跨文化理解；保护族裔文化得分更高的人倾向于保存自身民族的文化遗产，以防它们被外来文化所污染。同时全球化取向已被验证对一系列的文化态度和行为结果具有良好的预测效用。这些指标包括（但不限于）心理适应、对外来文化持有的态度、多元文化意识形态、人格特征和适应策略等等（Chen etal.,2016）。此外，研究表明，两因素模型同时适用于主流群体(majoritygroup)和少数群体(minority group)、多元文化(multicultural individuals)和单一文化(monocultural individuals)的个体、西方人和东方人以及移民(immigrants)和旅居者(sojourmers）（Chen etal.,2016）。具体而言，获取多元文化倾向更高的人具有更高的适应水平、更少的适应压力、更强的跨文化胜任力并对外来文化持有积极态度。相比之下，保护族裔文化倾向更高的人会遭受更高水平的抑郁、焦虑和文化适应压力，并对外来文化持有消极态度（Chen etal.,2016）。
+
+通过中美文化差异的跨文化比较分析，结果发现，获取多元文化与保护个体的道德(individualizing foundations)高度相关，暨积极学习外来文化的人更加看重关爱和公平(Hu,2017;Hu,et al.,2020)。同时，获取多元文化与保护群体的道德(binding foundations)同样存在中等程度的相关，暨积极学习外来文化的人同样看重忠诚、权威和圣洁(Hu,2017;Hu,etal.,2020)；保护族裔文化与保护群体的道德高度相关，暨保存民族文化遗产的人更加看重忠诚、权威和圣洁，但是其与保护个体的道德之间的关系受到族裔群体(ethnic group)的影响。具体而言，对于欧裔美国大学生而言，保护族裔文化与关爱和公平存在负相关，而对于亚裔美国人和中国留学生而言，保护族裔文化与关爱和公平不存在相关(Hu,2017;Hu,etal.,2020)。我们推测由于欧裔美国人是全球化进程中的主导群体，因此主流文化群体的文化遗产保护涉及维护自身的文化高位（比如保守主义的意识形态、基督教传统等等），因此需要道德权衡(moraltradeoff)，牺牲对于外群体的关爱和公平的价值取向，而亚裔美国人和中国留学生是全球化中的从属文化群体，处于世界文化体系中的低地位（比如亚洲文化儒家传统等等），因此在保护自身文化遗产的时候无需道德权衡，而需强化自身文化体系所赋予的忠诚、权威和圣洁的价值取向。当然，这些理论猜想尚需进一步的实证支持。
+
+# 5.反思与未来展望
+
+# 5.1贡献与启示
+
+首先，研究者对全球化给出了清晰的概念界定，提出了全球化对个体心理与行为的影响是复杂的、多维的、动态的；其次，前人研究关注了普通民众在内隐信念层面如何建构全球化过程，而不是仅从社会科学家的理论体系中提炼出知识精英阶层的看法与观点，因为民间理论对于普通人如何看待和应对全球化和社会变迁以及如何影响社会大众的思维、情感和行为具有更加普遍的意义；再次，已有工作为我们展开了一个丰富多样的画卷，考察了全球化对认同、思维、信任、人格、道德等不同心理范畴的重塑作用，为日后挖掘更加广阔的场域提供了思路和启示；最后，前人研究敏锐的捕捉到了全球化对心理与行为影响的复杂性和多样性，既有积极心理效应，也有消极心理效应，这些看似矛盾的实证发现为我们提供了解读全球化心理学的理论框架和实证积累，有助于研究者进一步解构全球化的时间维度、空间维度和不同范畴，进而考察更加全面、精细和严谨的研究假设。
+
+# 5.2局限与未来方向
+
+总体而言，全球化心理学作为一种跨学科的探索和尝试已有一些雏形(Chiu，Gries，Torelli，&Cheng，201)。但是研究数量偏少、理论建构不够完备、实证依据积累有限、覆盖群体十分偏狭、研究方法也较单一。展望未来，我们期待未来工作能在以下四个角度推进全球化心理学的理论创新与前沿探索。首先，进一步建立宏观的社会因素与微观的心理过程之间的紧密关联，关注全球化进程引发的社会变迁和文化变迁，比如经济发展、法律秩序、广义信任、基尼指数、公民规范等宏观社会指标的变化与民众的心理与行为存在何种关联模式(Buchan,etal.,2009)；其次，超越受众群体的身份模糊，进一步区分处于主导地位的多数派(majority groups）（比如欧美国家的自由主义人士）和处于依从地位的少数派(minority groups）（比如拉丁美洲和非洲国家）(Chao,Kung,&Yao,2015)，识别某种意义上的受益者和受害者的身份差异，考察全球化如何分别引发受益者和受害者不同的心理与行为后果；再次，直面不同群体对于全球化的争议。西方民粹主义的再次兴起 (Haidt,2016),尤其是新冠疫情对人类的巨大冲击可能诱发局部的去全球化浪潮。未来研究应当探究去全球化的趋势会给不同地区的人们带来哪些心理成本与社会动荡，从而为人类的未来发展走向提供心理学的理论阐述和实证参考；最后，全球化心理学应当整合不同的研究方法和实验范式，比如定性研究和定量研究相结合，采用大数据、计算模型和认知神经科学的研究手段，与问卷调查与行为实验的数据结果相互印证或相互补充。
+
+展望未来，中国作为第二大世界经济体，正在参与和主导第四次全球化浪潮，加之中国在抗击新冠疫情中的出色成绩，未来中国人在全球化进程中扮演的角色愈发重要，甚至扮演世界领袖的角色。这些复杂多变的国际形势催生了更多富于时代意义且具有高度挑战性的社会心理学议题，比如中国民众在内隐理论层面如何认识和应对全球化、如何提升中国人的文化自信、如何讲好社会心理学的中国故事、如何弘扬“和而不同”“美美与共”的中国智慧、如何促进跨文化理解和大规模合作从而减少文明的冲突等等。我们期待中国的社会心理学家能在国际舞台上讲述精彩的中国故事、展现积极的国际形象，分享更多的中国智慧，为解决当今世界的诸多挑战以及构建人类命运共同体做出社会心理学家应有的贡献。
+
+# References
+
+胡晓檬,韩雨芳,喻丰,&彭凯平.(2020).多元文化经历的双刃剑效应:心理后果与边界条件.应用心理学   
+吴莹,杨宜音,&赵志裕.(2014).全球化背景下的文化排斥反应.心理科学进展,22(4),721-730.   
+Arnett, J. J. (2002). The psychology of globalization. American Psychologist, 57(10),774.   
+Bao,Y.,Yu,D.,Li,L.,Han,Y.,& Qiu,Y. (2021).The Effectof Ingroup-Outgroup Cultural Mixing on Intergroup Helping in Globalization. Advances in Psychology(In Chinese),10(2),212-218.   
+Benet-Martinez,V. (2012). Multiculturalism: Cultural,social,and personality proceses.Handbook of Personality and Social Psychology, 623-648.   
+Berry, J. W.(1997). Immigration,acculturation,and adaptation. Applied Psychology,46(1),5-34.   
+Cameron,J.E.,Kocum,L.,& Berry,J.W.(202O).Securityand attudes toward globalization: A multilevel analysis. Journal of Social and Political Psychology,8(2),805-822.   
+Cao, J., Galinsky,A.D.,& Maddux,W.W.(2O13).Does travel broaden the mind? Breadth of foreign experiences increases generalized trust. Social Psychological and Personality Science   
+Chen, S. X., Lam, B. C., Hui,B. P., Ng, J. C., Mak, W. W., Guan, Y.,... Lau, V.C. (2016). Conceptualizing psychological processes in response to globalization: Components, antecedents, and consequences of global orientations.Journal of Personality and Social Psychology,11O(2),302.   
+Cheon,B. K.,Christopoulos, G.I.,& Hong,Y.Y. (2016). Disgust Associated With Culture Mixing: Why and Who? Journal of Cross-Cultural Psychology,47(10),1268-1285.   
+Chiu, C.Y.,& Cheng,S.Y. (20o7).Toward a social psychology of culture and globalization: Some social cognitive consequences of activating two cultures simultaneously. Social and Personality Psychology Compass, 1(1), 84-100.   
+Chiu,C.y.,Gries,P.,Toreli, C.J.,&Cheng,S.Y. (2011).Toward a social psychologyof globalization. Journal of Social Issues, 67(4), 663-676.   
+Fu, J. H.-Y., Zhang, Z. X.,Li,F.J.,& Leung, Y. K. (2016). Opening the Mind: Efect of Culture Mixing on Acceptance of Organizational Change.Journal of Cross-Cultural Psychology，47，1361-1372. https://doi.0rg/10.1177/0022022116652729   
+Gelfand,M.J.,Lyons,S.L.,&Lun,J. (2o1).Toward a psychological scienceof globalization.Journal of Social Issues, 67(4),841-853.   
+Gleibs,I. H.,& Reddy,G.(2O16).The social and political psychology of globalisation and global identities. The Social Psychology of Everyday Politics,75-88.   
+Hackett,J.D.,Omoto,A.M.,& Matthews,M. (2015). Human rights: The role of psychological sense of global community.Peace_andConflict:JournalofPeacePsychology,21(1)，47-67. https://doi.org/10.1037/pac0000086   
+Haidt, J. (2O16). When and why nationalism beats globalism: And how moral psychology can help explain and reduce tensions betwen the two.Policy,32,46-53.   
+Hermans,H.J.,& Dimaggio,G. (2Oo7). Self, identity,and globalization in times of uncertainty: A dialogical analysis.Review of General Psychology,11(1),31-61.   
+Holton, R. (2ooo). Globalization's cultural consequences. The Annals of the American Academy of Political and Social Science, 570,140-152.   
+Hu, X. (2017). Global orientations and moral foundations: a cross-cultural examination among American, Chinese,and international students (Doctoral dissertation, Rutgers UniversitySchool of Graduate Studies).   
+Hu, X., Chen, S.X., Zhang,L., Yu,F.,Peng, K.,& Liu,L. (2018). Do Chinese traditional and modern cultures affect young adults' moral priorities?.Frontiers in psychology, 9,1799.   
+Huntington,S.P.(1997).The clash of civilizations and the remaking of world order: Penguin Books India.   
+Inglehart,R.，& Baker,W.E.(2ooo). Modernization,cultural change,and the persistence of traditional values. American Sociological Review,19-51.   
+Leung,A. K.-y., Maddux,W. W. Galinsky,A. D.，& Chiu, C.Y. (2008). Multicultural experience enhances creativity: the when and how.American Psychologist, 63(3),169.   
+Leung，A. K., Qiu,L.，& Chiu, C. Y. (2014). The psychological science of globalization. Handbook of multicultural identity: Basic and applied perspectives,181-201.   
+Leung,A.-y., Qiu,L.,& Chiu, C.(2014). The psychological science of globalization. Handbook of Multicultural Identity: Basic and Applied Perspectives,181-201.   
+Liu, J. H.,& Macdonald,M. (2016). Towards a psychology of global consciousnessthrough an ethical conception of self in society.Journal for the Theoryof Social Behaviour,46(3),310-334.   
+Lu,J.,Quoidbach,J., Gino,F.,Chakroff,A., Maddux,W.W.,& Galinsky,A.D. (2016).The Dark Side of Going Abroad: Broad Foreign Experiences Increase Immoral Behavior. Journal of Personality and Social Psychology.   
+Ma,H. K.,& Cheung, C.-K. (1996). A cros-cultural study of moral stage structure in Hong Kong Chinese, English,and Americans. Journal of Cross-Cultural Psychology,27(6),700-713.   
+Maddux，W.W.，Bivolaru,E.，Hafenbrack,A.C.， Tadmor,C.T.，& Galinsky，A.D.(2014). Expanding Opportunities by Opening Your Mind: Multicultural Engagement Predicts Job Market Success through Longitudinal Increases in Integrative Complexity. Social Psychological and Personality Science,5,608- 615. https://doi.0rg/10.1177/1948550613515005   
+Maddux,W.W.,Lu,J. G.,Affinito,S.J.,& Galinsky,A.D.(2O2O).Multicultural experiences: a systematicreview and new theoretical framework.Academy of Management Annals   
+Marsella,A. (2012).Psychologyand globalization: Understanding a complex relationship. Journal of Social Issues,68(3),454-472.   
+McFarland,S.,& Hornsby,W.(2O15).An_analysis of five measures of global human identification. European Journal of Social Psychology,45(7),806-817.   
+McFarland,S.，Webb,M.，& Brown,D.(2012).All humanity is my ingroup:A measure and studies of identification with all humanity.Journal of Personality and Social Psychology，1O3(5)，830-853. https://doi.org/10.1037/a0028724   
+McKenzie,J.(2O2O).Globalization asa context for moral development.The Oxford handbook of moral development: An interdisciplinary perspective.   
+Moris,M.W.,Mok,A.，& Mor,S.(2Oi1).Cultural identity threat: The roleof cultural identifications in moderating closure responses to foreign cultural inflow.Journal of Social Issues,67(4),760-773.   
+Narvaez,D.,& Hill,P.L. (20i0).The relation of multicultural experiences to moral judgment and mindsets. Journal ofDiversity in Higher education,3(1),43.   
+Nguyen,A. M.D.,& Benet-Martinez, V.(2O10). Multicultural identity:What it is and why it maters.The psychology of social and cultural diversity,87-114.   
+Ozer,S.，& Schwartz，S.J.(2O2O).Identity development in the era of globalization:Globalization-based acculturation and personal identity development among Danish emerging adults. European Journal of Developmental Psychology, 1-21.   
+Pacheco,E.M.(202O). Culture learning theory and globalization: Reconceptualizing culture shock for modern cross-cultural sojourners. New Ideas in Psychology,58,100801.   
+Reysen,S.,& Katzarska-Miler,I. (2O13). A model of global citizenship: Antecedents and outcomes. International Journal ofPsychology,48(5),858-870.   
+Riter,S.M.,Damian,R.I.,Simonton,D.K.,van Baren,R.B.,Strick,M.,Derks,J.,&Dijksterhuis,A.(2012). Diversifying experiences enhance cognitive flexibility. Journal of Experimental Social Psychology, 48(4),961-964.   
+Rodrik,D.(2O11).The globalization paradox: democracy and the future of the world economy.WW Norton & Company.   
+Shi,Y.,Shi,J.,Luo,Y.L.,& Cai,H. (2O16). Understanding exclusionary reactions toward a foreign culture: The influence of intrusive cultural mixing on implicit intergroup bias.Journal of Cross-Cultural Psychology, 47(10), 1335-1344.   
+Sparkman,D.J.,Eidelman,S.,& Blanchar,J.C.(2O16).Multicultural experiences reduce prejudice through personality shifts in Openness to Experience.European Journal of Social Psychology, 46(7),840-853.   
+Stephen,R.,Iva,K.M.,Quang,L.T.,Natalia,A.,& Gregolin,M.E.(2O2O).Perceived Impact of Globalization and Global Citizenship Identification. Journal of Globalization Studies,11(1).   
+Stimpson,D., Jensen,L.,&Neff, W.(1992).Cros-cultural gender diferences in preferenceforacaring morality. The Journal of Social Psychology,132(3),317-322.   
+Tadmor, C.T.，Hong,Y.-y., Chao,M.M.，Wiruchnipawan,F.,& Wang,W.(2012). Multicultural experiences reduce intergroup bias through epistemic unfreezing. Journal of Personality and Social Psychology, 103(5), 750.   
+Walter, S.(2O21).The Backlash against Globalization. Annual Review of Political Science,33.   
+Yang,D.Y.J., Chiu, C.Y., Chen, X., Cheng, S.Y., Kwan,L. Y.Y., Tam, K.P.,& Yeh, K.H. (2011). Lay psychology of globalization and its social impact. Journal of Social Issues,67(4),677-695.   
+Yang,Y.J. (2O11). Clashes of Civilizations: Critical Conditions for Evocation of Hostile Atitude toward Foreign Intrusion of Cultural Space.Doctorial Dissertation, Champaign,IL: University of Illinois at UrbanaChampaign.http://hdl.handle.net/2142/29633   
+Yu,F.,Peng,T.,Peng,K.,Tang,S.,Chen,C.S., Qian,X.,..& Chai,F. (2016).Cultural Value Shifting inPronoun Use. Journal of Cross-Cultural Psychology,47(2),310-316
+
+# Cultural Psychological Interpretations of Globalization Paradox
+
+Xiaomeng $\mathrm { H u ^ { \scriptscriptstyle 1 } }$ Kaiping Peng² Sylvia Xiaohua Chen³ (1 Department of Psychology,Renmin University of China，100872) (² Department of Psychology, Tsinghua University，100084) (³ The Hong Kong Polytechnic University，Hong Kong）
+
+Abstract: This article reviews and synthesizes differing aspects of the psychology of globalization, including the developmental trajectories,core issues,individual responses,reflections and future prospects,with special emphasis on the folk theories of globalization,the double-edged sword efects of multicultural experiences， identifications with global culture and all humanity, psychological responses to globalization,and the moral reflections on globalization. This article also attempts to provide cultural psychological interpretations of the globalization paradox and summarizes the contributions and limitations of previous work.It is our hope that our current work would promote more research to further explore how the macro-process of globalization and the micro-process of human thoughts,feelings,and behaviors dynamically (re)shape each other.
+
+Keywords:Globalization;Multicultural experience; Identitydevelopment; Large-scale cooperation; Moral foundation

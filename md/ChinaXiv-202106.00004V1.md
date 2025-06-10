@@ -1,0 +1,280 @@
+# 组织 (不)公正对组织报复行为的影响及其机制
+
+刘德鹏」 高翔宇2
+
+(山东大学管理学院，济南 250100)(南京大学商学院，南京 210093)摘 要 组织报复行为是员工因感知组织及其代理人不公正而针对他们采取的惩罚行为，它是当今社会不可忽视的工作场所现象。总结现有综述文献，存在缺乏系统梳理、不重视解释机制等重要问题。根据(不)公正感知类型复杂性和(不)公正感知主体两个维度提出一个新的研究思路，并在此基础上，进一步从解释机制角度出发，对相关文献进行评述。未来研究可进一步探讨自我控制、情绪和资源理论等解释机制，并整合不同解释机制，同时增加对观察者视角的讨论。关键词 组织报复行为，组织(不)公正，接受者，观察者，内在机制分类号
+
+# 1引言
+
+组织报复行为是员工因感知组织及其代理人不公正而针对他们采取的惩罚行为(Skarlicki&Folger,1997)。相关统计数据表明，员工报复等负面行为每年对组织造成的经济损失高达 60\~2000 亿美元之多，并且每年都呈增长趋势(张桂林,2009)。近年来，中国经济、劳动力市场以及社交方式的变化，使得组织报复行为这一问题进一步凸显。经济增速放缓，企业需要不断通过转型和组织变革来适应经济新常态。变革难以避免会引起分配方式、程序和政策等方面的变化，进而可能会产生各种不公正问题(Taylor,2015)。与此同时，新生代员工进入职场并逐渐成为工作场所的主力军。相比于前代员工，新生代员工更加关注自身是否被公正对待(Qin et al.,2015)。除此之外，他们也更加强调个性，敢于挑战权威、表达自己内心的真实想法和感受(张伶，连智华,2017；朱瑜等,2014)。当感知到不公正时，新生代员工更有可能对组织进行报复。另外，新型社交方式的兴起使得报复行为不再局限于不公正事件的接受者，还向第三方或者观察者进行扩散。不直接涉入不公正事件的观察者对组织的报复越来越值得关注。多重因素的交织，使得组织报复行为必将在近期乃至未来成为实践者关注和学者们研究的重要话题。
+
+鉴于该话题的重要性，国内外文献都对组织报复行为进行了研究。总结近20年的研究发展，现有研究取得的进展主要体现在以下三个方面：第一，从概念上明确了组织报复行为的内涵，将其与相似概念进行了区分(Skarlicki&Folger,2004)，并发展出基于西方和中国情境的测量量表(Skarlicki &Folger,1997；皮永华,2006；徐世勇，欧阳侃,2012)。第二，识别了员工(不)公正感知是造成组织报复行为最重要的因素(Skarlicki&Folger,1997)，从不同的理论视角探讨了多种(不)公正类型以及其交互作用对组织报复行为的影响。同时，开始探索组织报复行为可能产生的负面影响。第三，国内学者开始关注组织报复行为，并出现了针对该现象的综述性论文，例如皮永华和宝贡敏(2006)系统地总结了组织报复行为的内涵以及可能的影响因素。
+
+虽然取得上述进展，该领域的研究依然存在以下问题：首先，至今尚未有研究针对组织报复行为20 多年的研究发展进行系统性的梳理。这不仅不利于现有研究之间的分类和对话，还不利于指导未来研究的发展。其次，国内外理论和综述文章(Skarlicki&Folger,2004；皮永华，宝贡敏,2006)主要关注组织报复行为的概念及其影响因素，相对忽视了组织(不)公正对组织报复行为产生影响的机制。只有理论和机制才具有解释和预测功能(Whetten,1989)。也只有在识别了内在机制的基础上，才能提出具有针对性地、能够有效地降低组织报复行为发生的措施。组织报复行为的现实切题性加之现有研究的上述缺陷，使得提出一个新的研究思路，系统地梳理现有研究采用的理论视角成为组织报复行为研究领域的当务之急。
+
+本研究从不公正感知的主体(分为接受者和观察者)以及(不)公正感知类型的复杂性(单个公正类型和多个公正类型交互)两个方面，将现有研究分配到四个研究象限中，从而提供一个研究框架。然后，本文分别对每一个象限内相关研究所采用的内在机制进行梳理、比较以及整合，弥补现有综述研究忽视理论以及不同理论之间难以对话的缺陷。在此过程中，一方面我们可以发现单一象限研究存在的不足之处，另一方面还能通过比较不同象限的情况，发现应解决的问题。最后，本文分别对每一象限研究的未来发展方向做出了展望。本文对拓展组织报复行为的研究以及在实践上降低组织报复行为的发生具有重要的意义。
+
+# 2文献回顾整体思路和框架
+
+组织报复行为由 Skarlicki 和Folger(1997)率先提出，是工作场所侵害的重要形式之一，不仅包含相对可见的破坏等行为，还包含相对难以察觉的怠工等行为。鉴于不公正感知是造成组织报复行为的根本原因(Skarlicki&Folger,1997; Skarlicki&Folger,2004)，本文选择(不)公正感知类型的复杂性(是讨论单个(不)公正类型对组织报复行为的影响还是讨论多个(不)公正类型之间的交互作用对组织报复行为的影响)以及(不)公正感知的主体(接受者还是观察者)两个维度，将组织(不)公正对组织报复行为影响的研究进行区分。
+
+# 2.1(不)公正感知类型复杂性：单个公正类型VS多个公正类型交互作用
+
+不公正感知是造成组织报复行为的根本原因(Skarlicki&Folger,1997; Skarlicki&Folger,2004)。现有文献已识别出分配、程序、交往等多种公正类型。分配公正指的是人们对分配结果是否公平的感知(Adams,1965)；程序公正指的是人们对决定分配结果所使用的程序是否公平的感知(Leventhal,1980)；交往公正指的是人们对程序执行者在执行程序时是否兼顾尊重等人际交往原则(人际公正)，以及是否给予对方充分和及时的解释(信息公正)的感知。人们的不公正感知是由人们对现在使用的分配、程序以及交往公正原则与在该情景下应当使用的原则进行比较的结果决定的。当二者一致时，人们会产生公正感知；当二者不一致时，人们往往产生不公正感知。鉴于存在多种公正类型，不公正感知也可以分为分配、程序和交往不公正等多种类型。
+
+组织公正类型的区分为整合现有研究提供了有意义的借鉴。纵观相关研究，目前学者主要采用两种不同的方式讨论(不)公正感知与组织报复行为的关系。绝大多数学者关注某一种或者同时关注多种公正类型对组织报复行为的直接作用。还有部分学者研究不同的公正类型之间的交互作用如何影响人们的组织报复行为。例如，分配不公正与程序公正的交互、分配不公正与交往公正之间的交互等等。在此基础上，本文将关注某种或多种公正类型对组织报复行为独立影响的研究称为“单个公正类型”的研究，而将关注不同公正类型交互作用对组织报复行为影响的研究称为“多个公正类型交互作用”的研究。具体见图1的横坐标内容。
+
+# 2.2 (不)公正感知主体：接受者VS观察者视角
+
+(不)公正感知的主体既可能是不公正事件的接受者，也可能是不公正事件的观察者。不公正事件既可能针对组织内部的员工，又可能针对组织的利益相关者如组织的供应商、客户(Greenbaum etal.,2013)、社区(Jones et al.,2014)等。鉴于目前绝大多数研究依然以组织内部员工为主要接受者，本文的讨论仅限于组织内部员工作为不公正感知接受者的情况。不公正事件的观察者指的是虽然不直接涉入不公正事件，但是却通过各种渠道了解到不公正事件的第三方。他们包括接受者的朋友，同事，经理，法官、大众媒体、政府等(Skarlicki et al.,2015)。在组织报复行为情境下，本文所指的观察者也主要是指组织的内部员工。
+
+本文将以接受者作为(不)公正感知主体讨论组织报复行为的研究，称为“接受者”视角的研究;以观察者作为(不)公正感知主体讨论组织报复行为的研究，称为“观察者”视角的研究。具体见图1的纵坐标内容。虽然组织报复行为的主流视角依然是接受者视角，但是近年来基于观察者视角的相关研究进一步得到重视。
+
+# 2.3研究框架
+
+在提出上述两个区分现有文献维度的基础之上，本文的研究框架如图1所示。具体来讲，本文采用(不)公正感知主体以及(不)公正感知类型复杂性两个维度，将现有研究分在四个象限中，并分别梳理了各象限研究的内在机制，(不)公正感知主体维度上，本文将组织报复行为相关研究分为基于接受者视角和基于观察者视角两类。在(不)公正感知类型复杂性维度上，本文将组织报复行为相关研究分为单个公正类型的研究和多个公正类型交互的研究两类。在上述分类下，形成了一个 $2 ^ { * } 2$ 的矩阵。其中，第三章关注接受者视角单个公正类型研究解释机制。第四章讨论接受者视角多公正类型交互研究解释机制。第五章梳理观察者视角单个公正类型研究解释机制。第六章回顾观察者视角多公正类型交互研究解释机制。
+
+不公正感知主体 接受视 角 接受者视角第三正类型研究 解释机制回顾 接受者视角公类型交互研 究解释机制回顾  
+观察 第五章 第六章  
+者视 观察者视角单个公正类型研究 观察者视角多公正类型交互研  
+角 解释机制回顾 究解释机制回顾单个公正类型 不同公正类型交互作用(不)公正感知类型复杂性
+
+# 3接受者视角单个公正类型研究解释机制回顾
+
+从接受者视角讨论单个公正类型对组织报复行为的影响，是现有研究的最主流模式。目前，情绪和自我控制理论等个体内部解释机制以及社会交换理论(包括目标相似模型)和资源理论等人际间解释机制已被学者识别出来(如图2所示)。
+
+![](images/e9c8e9a66ad4c91f4b11a7c1a7ba7e16c932c768bd538080851bc9874d76e999.jpg)  
+图1研究框架  
+图2接受者视角单公正类型理论视角定位
+
+注： $\Phi$ 代表目前学者对情绪机制与自我控制理论的整合与比较； $\textcircled{2}$ 代表自我控制理论与社会交换理论的整合与比较;$\textcircled{3}$ 代表情绪机制与社会交换理论的整合与比较
+
+# 3.1个体内部解释机制：“热”的情绪和“冷”的自我控制机制
+
+情绪和认知是个体内部最重要的过程。情绪反映了人们“热”的非理性方面，而认知(包括自我控制)则反映了人们“冷”的理性方面。
+
+# 3.1.1“热”的个人内部机制：负面效价的情绪
+
+情绪效价指的是一个人经历的情绪愉悦或不愉悦的程度(Russell,1980)。根据该标准，学者们将情绪归类为积极情绪和消极情绪两大类。消极情绪(如内疚、气愤、沮丧等)不仅可以作为不公正感知的结果变量，还被学者们作为不公正感知和态度与行为的中介机制(Barclay et al.,2005;Mitchell&Ambrose,2007; Colquit et al.,2013;Long & Christian,2015; Fortin et al.,2015)。早至 Adams (1965)提出的公平理论，就认为不公正的分配结果带来气愤和沮丧，最终促使人们降低自身的努力水平。
+
+学者们主要采用Lazarus (1991)的认知评估理论(或认知-动机-关系理论)作为情绪中介不公正感知与员工报复行为的理论基础。该理论认为人们需要不断评估不公正事件与自身的利害关系，进而产生相应的情绪和行为反应。由不公正引起的情绪是行为倾向的催化剂。越来越多的实证研究提供了负面情绪中介不公正感知(包括分配不公正，程序不公正，交往不公正)与员工报复行为关系的证据(Barclay et al.,2005; Rupp& Spencer,2006；王宇清等,2012)。其中最令人信服的证据来自 Colquit等(2013)的元分析，元分析结果明确显示，消极情绪在感知到的不公正与反生产行为之间起到中介作用。
+
+# 3.1.2“冷”的个人内部机制：自我控制理论
+
+自我控制理论解释了人们如何能够抑制不理智的想法，强迫自己集中注意力，进入或走出一些情绪，改变冲动，抵制诱惑，并坚持困难的任务，从而实现长期目标。Lian等(2017)通过整合自我控制理论(LSCT)梳理了自我控制的三个阶段，即激活、运用和实施阶段，以及七个关键要素，即愿望、更高阶目标、愿望-目标冲突、控制动机、控制能力、控制努力和实施限制。目前学者们的关注点集中在自我控制的运用阶段，主要通过自我控制能力和自我控制动机来解释员工对组织的报复行为，却忽视了自我控制过程的其他环节。
+
+# (1）自我控制能力
+
+自我控制能力(主要是由个体自我相关的资源决定)可以让人们不受冲动的驱使，主动去选择如何行为。以往研究表明，个人进行自我控制以抑制不当行为的能力所需要的资源会随着使用而枯竭(Baumeister et al.,1998)，从而做出对组织的报复行为。Cole 等(2010)通过实证研究发现在控制了管理者的情境奖励后，情绪资源的耗竭是组织不公正引起个人退缩行为的重要原因。Wang 等(2011)在控制情绪调节作用的基础上，实证检验了资源水平高(与自我控制能力相关)的员工受顾客不公平对待和对顾客进行报复行为之间的正向关系较弱。
+
+(2）自我控制动机与自我控制能力结合
+
+自我控制的动机是一种控制愿望的意愿(Lian etal.,2017)。它被认为能够使个体更好地利用有限的资源，补偿和调动他们的自我控制能力(Muraven& Slessareva,2003)。因为主管可以提供资源或实施惩罚，因此是下属在工作场所中进行自我控制的一个重要的动机来源。在遭受主管施虐(交往不公正)时，个人可能会抵制对主管的报复，因为他或她不想承受与主管奖励或惩罚权力相关的后果(自我控制的动机)，或者因为他或她有能力抑制报复的冲动(自我控制能力)(Lian etal.,2014)。
+
+# 3.2人际间解释机制：社会交换理论和资源理论
+
+# 3.2.1社会交换理论及目标相似模型
+
+相比于个人内部，人际间解释机制关注的焦点是人与人之间的交往。社会交换理论是组织行为学(Cropanzano& Mitchell,2005)以及组织公正领域(Rupp& Cropanzano,2002)最常见的被用于解释人际交往的理论。在组织公正领域，社会交换理论的应用大致经历了三个发展阶段：代理人-系统模型、多焦点模型和目标相似模型。代理人-系统模型认为交往公正往往体现了管理者的意愿，而程序和分配公正则较多受到组织的制约(Bies&Moag,1986)。因此，交往不公正往往带来员工针对管理者的报复行为，而程序和分配不公正则会带来员工针对组织的报复行为。Masterson等(2000)实证研究发现交往公正通过领导者-成员交换的中介变量影响与主管相关的结果，程序公正通过感知组织支持的中介变量影响与组织相关的结果。多焦点模型认为使用公正类型作为组织/管理者意愿的替代可能存在问题。程序公正也可能是管理者的自我选择，而交往公正也可能会受到组织的限制。因此多焦点模型区分了来自不同主体(如组织、管理者)的分配、程序和交往公正，是对代理人-系统模型的进一步发展。如 Rupp 和 Cropanzano (2002)区分了由组织和管理者实施的程序公正，由组织实施的程序公正会正向地影响员工与组织的关系，而由管理者实施的程序公正则正向地影响领导成员交换。
+
+目标相似模型是在多焦点模型的基础上发展出来的，以更加准确的预测公正对员工态度和行为的影响，它指出员工在行为时，会识别实施(不)公正对待的主体(例如组织或管理者)，并且做出非常具有针对性的行为(例如报复行为)。Lavelle 等(2009)通过实证研究发现感知到的组织支持正向地影响员工对组织的组织公民行为，感知到的上级公正正向地影响员工对上级的组织公民行为，而感知到的同事支持则影响了员工对工作团队的组织公民行为。Rupp 等(2014)的元分析进一步为目标相似模型提供了证据。国内学者如周浩等(2005)也得到了类似的结论，分配公正主要影响以个人为参照的结果变量;程序公正主要影响与组织有关的结果变量;交往公正主要影响与上级有关的结果变量。总之，社会交换理论从“谁对不公正负责”的角度，为研究不公正与员工组织报复行为之间的关系提供了区别于情绪和自我控制理论的新视角。
+
+# 3.2.2资源理论
+
+资源理论是由Foa和Foa(1974)最初提出，用以解释人际间行为的重要理论，该理论被认为是对社会交换理论的重要延伸和拓展(Tornblom&Kazemi,2012)。资源理论将资源定义为“任何可以通过一个人传递给另一个人的事物”，进而通过特殊一普遍(指资源的价值在多大程度上取决于参与交换的对象以及交换双方的关系)以及抽象一具象(指交换的真实资源是无形的还是有形的)两个维度，将资源分为爱、地位、服务、物品、金钱以及信息等六种资源类型(见图 3)。
+
+![](images/8f60291e7329d77ed0a1c5c8778dbacf7d8f74c3bcf05f6b38a487311e8b8e49.jpg)  
+图3资源分配及资源距离示意图
+
+资源类别距离是资源理论最为重要的概念，也是资源理论用以预测和解释的基础。资源理论认为，在资源分配图中，属于相同类别的资源类别距离最近(例如，同属于地位)，相邻类别之间的资源类别距离次之(如图3中虚线所示)，处于正对位置的两种资源类别距离最远(如图3中的实线所示)。在人际交换中，资源类别距离越近，人们就越会认为二者相似度越高。相似度越高的资源，人们认为二者之间可以相互替代或者替换的可能性越高。Foa 和Foa(1974)认为，在交换过程中采用相同类别的资源进行交换，可以降低人们由认知失调感带来的心理压力，并能提高人际间交往的满意度。
+
+引入资源理论，对推进不公正与组织报复行为关系的研究具有重要的意义。分配不公正是引起员工对组织报复行为的最主要原因之一(Skarlicki&Folger,2004)。根据资源理论的预测，在特定分配事件(如绩效评估或晋升等)中，当员工感知到分配结果不公正时，采取何种报复行为进行回应，取决于该员工因不公正分配结果损失的资源与某种报复行为使交换对方损失的资源之间资源类别的距离。也就是说，一种报复行为使组织(及其代理人)损失的资源和该员工因分配不公正损失的资源之间的资源类别距离越近，员工越可能采取该种报复行为报复组织。同理，当员工因组织(或其代理人)违反了某种程序公正原则而导致程序不公正感知时，一种报复行为使组织(及其代理人)损失的资源和该员工因程序不公正损失的资源之间的资源类别距离越近，员工越可能采取该种报复行为。
+
+# 3.3解释机制整合与比较
+
+为阐明不同解释机制之间的关系，部分学者对其进行了整合与比较。如图2中 $\Phi$ 所示，Wang等(2011)整合了情绪与自我控制理论。他们发现在控制了情绪的调节作用的基础上，当一个人用于控制自身行为的资源增加时(在文中表现为工作任期长，对服务规范高承诺，管理者的支持氛围高)，客户不公正对待与针对客户的报复行为减少，研究结论支持了自我控制理论与情绪机制共同发挥作用的论断。如图2中 $\textcircled{2}$ 所示，Deng 等(2018)整合了社会交换与自我控制两个机制。心理契约违背被认为是组织不公正的重要类型(Folger&Cropanzano,2001)。他们发现和自我控制理论相比，社会交换理论不能解释当一个人遭遇组织心理契约违背后，为何会对与组织不相干的第三方(如同事和客户)产生负面行为。如图2中 $\textcircled{3}$ 所示，Colquitt 等(2013)的元分析全面整合了社会交换理论和情绪机制。数据结果显示，信任、组织承诺等社会交换表征因素以及负面情绪在感知到的(不)公正与员工态度与行为之间都起到中介作用。同时，王宇清(2012)的博士论文也验证了社会交换理论(多焦点模型)以及负面情绪的中介作用。
+
+然而，相比于情绪、社会交换以及自我控制三个机制的相互整合与比较，尚未有研究将资源理论与其他理论进行整合。
+
+# 4接受者视角多公正类型交互研究解释机制回顾
+
+从“总”的视角研究不同公正类型之间的交互作用，是组织公正研究的重要方向。最为显著的研究为公正程序效应：程序公正可以在一定程度上降低分配不公正造成的负面效应(Brockner,2002;Brockner&Wiesenfeld,1996)。当然，大部分研究都采用广义的程序公正概念(包含交往公正)而非狭义的程序公正。
+
+![](images/fa87fe7f22089317772103fc080da80c352ace363e8d9309835f0135c509a9fd.jpg)  
+图4接受者视角多公正类型交互理论视角定位
+
+注：“}”代表现有研究对归因和情绪机制的整合
+
+# 4.1个体内部解释机制：归因机制和情绪机制
+
+现有研究主要采用个体内部代表理性的“冷"的归因机制以及代表非理性的“热"的情绪机制解释程序公正与分配不公正的交互作用与员工对组织的报复行为的关系。虽然情绪和归因确实是可以区分的两个机制，但是值得注意的是，在考虑程序公正和分配(不)公正交互效应时，不同于单类型公正的影响，学者们认为上述两个机制可能并非是完全独立作用的，更可能是相互联系的(如图4所示)。Tangney 和Dearing (2002)从情绪指向的角度，区分了指向内部和指向外部的情绪。该分类方式是与责任的归因直接相关的。侵害发生时，若责任归因指向自己时，往往产生内疚以及羞愧等指向内部的情绪，而当责任归因指向其他人时，则往往产生敌意和气愤等指向外部的情绪。Barclay 等(2005)鉴于很少有研究对情绪机制进行实证的现状，采用裁员情境发现，当员工感觉在裁员时出现结果不公正时，产生何种情绪反应(指向内部和指向外部的情绪)依赖于程序和交往公正的情况。当员工感觉程序或者交往公正时，往往会产生指向内部的情绪，例如羞愧和内疚。而当他们感觉程序或者交往不公正时，则会产生指向外部的情绪，表现为愤怒和敌意。指向外部的情绪导致员工组织报复行为的出现，而指向内部的情绪则不会引起员工对组织的报复行为。Long 和Christian (2015)的实证研究也进一步证实，员工指向外部的负面情绪在感知到的不公正和员工报复行为之间具有中介作用。
+
+# 4.2人际间解释机制：资源理论
+
+之前研究大都将注意力集中于识别程序公正对分配不公正带来的负面效应的削减作用的内在机理上(Brockner,2002; Brockner &Wiesenfeld,1996; Barclay et al.,2005)。然而，采用资源理论，关注程序公正给予员工的资源类型与分配不公正损失的资源类型之间的可替代关系，可为解释程序公正对分配不公正带来的负面效应的削减作用提供人际间解释机制的新视角。
+
+基于前文对单个不公正类型的分析，当员工因目标资源在分配过程中分配不公正而感受到损失时，他最有可能采取对交换对方造成与自己损失的资源类别相同损失的组织报复行为进行回应。但是，根据资源理论，若伴随的程序公正能够弥补目标资源的损失，即程序公正给予员工的资源类别与分配过程中因结果不公正而感受到的资源损失类别接近程度越高时，资源替代性越强，员工采取报复行为的动机就越可能降低，此时程序公正会削弱分配结果不公正感知和员工对组织某种报复行为之间的正向关系。而当伴随的程序公正给予员工的资源类别与分配过程中因结果不公正而感受到损失的资源类别距离越远时，资源替代性越弱，此时程序公正将越难以发挥作用。也就是说，当员工因不公正分配结果损失的资源、该报复行为使组织(或其代理人)损失的资源以及因程序公正获得的资源三者同属于同一种资源类别时，运用程序公正削弱分配结果不公正感知和员工对组织某种报复行为之间的正向关系的效果越强。目前尚未有研究整合与比较资源理论和其他解释机制。
+
+# 5观察者视角单个公正类型研究解释机制回顾
+
+本文采用与接受者视角研究相同的路径，对讨论观察者视角下单个公正类型对组织报复行为的研究进行归纳，见图5所示。
+
+![](images/f338adffa8735ac7255792d8faa2b213f22a7fe9b2279e43348b53da329937f2.jpg)  
+图5观察者视角单公正类型理论视角定位
+
+# 5.1个体内部解释机制：“热”的情绪和“冷”的认知
+
+# 5.1.1“热”的情绪机制：道德愤怒
+
+尽管不公正感知并非是直接经历而是间接的，情绪对公正判断的影响的相关理论也同样适用于观察者视角的公正感知(Barsky etal.,2011)，与道德相关的气愤、愤慨、厌恶等情绪被称为道德愤怒，这是一系列由于被认为违反道德标准而引发的离散但相关的情绪。道德愤怒使观察者有动机对不公正行为做出反应，当观察者决定惩罚一个明显的违反者时，他们的行为可以减轻愤怒和轻蔑的感觉，并提供一种满足感。Mitchell等(2015)的实证研究发现，当观察者认为他们的同事不应该受到主管的交往不公正对待时，他们会产生道德愤怒，从而做出针对主管的报复行为。O'Reilly 等(2016)的研究也得到了类似的结论，并发现与违反分配和程序公正原则相比，违反人际公正原则会使观察者经历更强烈的道德愤怒，并对违规者进行报复。此外相比于道德认同相对较弱的观察者，道德认同较强的观察者对违反公正原则的反应更强烈。
+
+# 5.1.2“冷”的认知机制
+
+OReilly 和Aquino (2011)通过研究观察者的反应过程发现：观察者对不公正的第一反应是由一种直觉引发的，即某人的行为违反了道德规范。这种直觉几乎立即伴随着道德愤怒的体验，但对错误本身的直觉不会激发观察者的行为反应。当面对不公平时，观察者可能会通过成本收益分析等理性的认知过程来判断如何采取行动(Skarlicki et al.,2015)。
+
+成本收益分析指在对不公平的事件做出反应之前，观察者会首先评估自己拥有的资源，拥有特殊的技能、专业知识、支持网络，并确定如何能最好地帮助受害者增加了观察者采取行动的可能性，而无助感降低了行动的可能性。成本收益分析也可能包括对观察者可用资源的审查，以保护他或她免受侵害者或组织随后的报复。成本效益分析为正的观察者比分析为负的观察者更有可能对不公正行为采取行动。成本-收益分析为负的观察者不太可能做出同情受害者的行为。
+
+与接受者相同，观察者的自我控制能力也会削弱不公平感知和行为之间的关系。例如，Rupp 和Bell(2010)发现，观察者会自我调节他们的行为，并能抑制惩罚违规者的冲动，即使他们认为这种反应是错误的。Skarlicki 和Rupp (2010)实证检验了情感和认知两个机制在观察者不公正感知与组织报复行为之间发挥的作用，在交往和信息不公平的情境下，相比于采用理性处理(即认知机制)的观察者，那些采用经验处理(由情感驱动)的观察者更容易产生组织报复倾向。
+
+和接受者相比，目前对于观察者视角下的研究只触及了个人内部机制，人际间解释机制的研究依然缺乏。值得注意的是，情绪和成本收益分析两个理论机制对观察者的组织报复行为的影响看似是缺一不可的，单一的理论机制可能难以解释观察者视角的组织报复行为问题。此外，个体道德认同角色的不同也会导致观察者和接受者对不公正事件产生不同的反应。由于观察者本人并不是不公正事件的接受者，观察者报复不公正事件的实施方是因为他们认为这是“正确的做法”，而不是因为他们希望公众认可他们的反应；而接受者采取报复行为是为了向他人表明他不会容忍这种行为，以防止未来遭受不公正对待。Barclay 等(2014)的实证研究表明观察者道德认同的内在化维度(道德对自我概念的重要性)与消极互惠规范(认为报复是对他人违反道德规范的正当反应)相互作用预测报复行为，而接受者道德认同的符号化维度(道德认同通过个人行为公开表达的程度)与消极互惠规范相结合预测报复行为。
+
+# 6观察者视角多公正类型交互研究解释机制回顾
+
+目前学界对多公正类型交互作用的研究主要集中在影响观察者不公正感知的因素(Skarlicki&Kulik,2004)，极少有实证和理论研究涉及多公正类型交互作用如何影响观察者的组织报复行为。但是我们依然可以从部分文章的相关描述中获得有用的信息，并以此为基础进行解释机制的讨论。
+
+首先，多公正类型交互作用的观察者效应和接受者效应的强度大小问题。Walker 等(1979)认为只有当事人有能力获知分配结果所使用的程序，而观察者只能看到分配的最终结果，并且容易忽视决定结果的程序。基于此，我们猜测多公正类型交互作用对观察者组织报复行为的影响可能要低于接受者。然而，Brockner等(1994)的研究却发现，面对辞退过程中的不公正行为，当程序公正时，观察者和接受者的个体反应却并不存在本质区别。未来研究需要对上述两种观点进行进一步比较。
+
+其次，因为观察者并不直接介入到不公正事件之中，社会交换机制可能并不会起作用。因此，我们将讨论的重点放在个体内部解释机制上。Skarlicki等(2015)认为，社会解释(交往公正的一个方面)可能会影响到观察者对分配不公正的归因，即使观察者更多地进行外部而非内部归因。O'Reilly等(2016)指出，观察者相对较难获得程序公正与否的相关信息，因此较难进行归因。然而，他们可能会根据自己获得的信息产生道德愤怒，并基于此产生组织报复行为等反应。基于此，我们认为归因
+
+机制和道德愤怒可能是解释多公正类型交互作用影响观察者组织报复行为的重要理论，见图6所示。  
+更重要的是，道德愤怒相比于归因机制来讲可能有更强的影响。
+
+![](images/2dcaaba0abf25d0b6a207c71fc006f7b50fc21d4ca99d9ff44883217068d0a11.jpg)  
+图6观察者视角多公正类型理论视角定位
+
+# 7讨论与结论
+
+# 7.1 结论
+
+本研究从(不)公正感知主体和(不)公正感知类型复杂性两个方面出发，将现有研究划分到四个研究象限中，并基于此对现有研究所采用的理论视角进行了回顾。研究发现情绪、自我控制以及社会交换理论是现有研究解释不公正感知与接受者对组织的报复行为关系的三个最主要的解释机制。有所欠缺的是，上述机制均选择性忽视了不同的分配事件、程序公正原则以及组织报复行为的差异性。正如 Tomblom和Kazemi(2012)的总结“尽管任何分配事件中，被分配和传递的资源都处于核心的位置，但是令人奇怪的是，很少有研究从资源性质的视角来理解公正现象”。因此本文引入了资源理论作为单个公正类型和多公正类型交互作用下的人际间解释机制。
+
+在观察者视角方面，目前的研究主要集中在观察者不公正感知的影响因素，对于不公正感知和观察者组织报复行为的关系的研究相对较少，我们的研究发现“热”的情绪机制和“冷”的认知机制是现有研究解释单个公正类型下不公正感知与观察者组织报复行为关系的主要机制。目前仍缺乏观察者视角下单公正类型人际间解释机制以及多公正类型交互作用与组织报复行为解释机制的研究。
+
+# 7.2理论和实践意义
+
+首先，本研究从(不)公正感知主体(分为接受者和观察者)以及(不)公正感知类型复杂性(单个公正类型和多个公正类型交互)两个维度，对组织报复行为相关的研究进行了系统的回顾，这一梳理方式不仅有利于现有研究之间的分类和对话，还有利于指导未来研究的发展。
+
+其次，通过对每一个象限内相关研究所采用的理论视角进行梳理、比较以及整合，本研究弥补了现有综述研究忽视内在机制以及不同内在机制之间难以对话的缺陷。在接受者视角方面，本研究除梳理了情绪，自我控制理论及社会交换理论等解释机制外，还将组织行为学中越来越被重视的资源理论与组织公正和员工对组织的报复行为相关研究进行整合，从资源类型的视角解释(不)公正感知与员工报复行为之间的关系。在观察者视角方面，本研究梳理了影响观察者做出反应的情绪和认知机制，并比较了观察者与接受者视角下解释机制的差异。本研究的努力有利于系统完整地识别组织(不)公正影响组织报复行为内在机理。
+
+理论视角的整合与比较为组织公正与组织报复行为研究及管理实践带来了新的启示：首先，我们强调观察者和接受者一样，都会对不公正进行报复。但是二者反应的内在机理存在差异，因此在管理两种类型的组织报复行为时，可能需要采取不同的方案。具体来讲，降低观察者的道德愤怒，诱导观察者将不公正行为归因于外部而非组织及其代理人是管理观察者组织报复行为的主要方式。而提供给接受者更多的资源则应当是管理接受者组织报复行为的主要方式。其次，资源理论为我们精确、及时的防范组织报复行为带来了可能性。最有可能出现的组织报复行为类型是与组织不公正所损失的资源类似和同类的，因此在现实中，应当特别关注对此种组织报复行为的监控和管理。
+
+# 7.3未来研究方向
+
+本文对现有组织(不)公正对组织报复行为影响的文献进行了分类，并对不同象限内的研究所采用的理论机制进行了梳理。在此基础上，本文提出以下可行的未来研究方向。
+
+# 7.3.1接受者视角单个公正类型对组织报复行为影响的未来方向
+
+自我控制理论是解释个体为何做出组织报复行为的重要机制，目前学者们主要通过自我控制能力或将自我控制能力与自我控制动机相结合的方式来解释组织报复行为，对于自我控制的其他阶段仍缺乏关注(Lian etal.,2017)。未来研究可以突破自我控制能力和动机，从愿望、更高阶目标、愿望-目标冲突、控制努力和实施限制等多个阶段入手，一方面发展单个公正类型与组织报复行为的关系研究，另一方面也推动自我控制理论实证研究的发展。
+
+目前研究主要从情绪的效价出发，解释单个公正类型对组织报复行为的影响。Fortin 等(2015)认为除了可以在效价方面区分不同情绪之外，情绪的不确定性、情绪的启动程度、情绪的道德相关度以及情绪的社会相关度以及情绪的指向都是区分情绪的重要维度。很显然，现有研究并未能完全开发情绪作为解释机制的可能性。未来研究可以突破情绪的效价，从其他维度拓展情绪作为单个公正类型对组织报复行为影响的研究。
+
+资源理论的应用目前还处于理论探索阶段，尚未有研究对其进行实证检验(Tormblom&Kazemi,2012)，尤其是从程序和交往公正原则出发的研究更是缺乏。未来的研究应当对其进行更多的实证研究。另外，整合资源理论与社会交换理论、情绪机制以及自我控制机制，将是未来研究的重要方向。本文认为将资源理论与上述视角结合，尤其是与个体内部机制结合，将会大大推动接受者视角单个公正类型对组织报复行为研究的发展。
+
+# 7.3.2接受者视角多个公正类型交互对组织报复行为影响的未来方向
+
+归因机制是接受者视角下多个公正类型交互作用对组织报复行为影响的“冷”的方面的主要解释机制。事实上，归因只是组织报复行为产生的一个重要条件之一，归因风格、归因之后的成本一收益分析、组织报复行为对行为者的道德影响等都是很重要的认知因素。如韦慧民和农梅兰(2020)研究发现员工的敌意归因风格(个体将不利结果归因于外部、稳定和普遍性因素的倾向)会增强领导者人际不公正通过员工心理契约违背影响员工偏差行为的间接效应。未来研究可以考虑将上述因素纳入考虑范围之内，拓展接受者视角下多个公正类型交互作用对组织报复行为的相关研究。
+
+情绪的指向是目前解释多个公正类型交互对组织报复行为影响的主要机制。和单个公正类型类似，未来研究可以从情绪的效价、情绪的不确定性、情绪的启动程度、情绪的道德相关度以及情绪的社会相关度等维度出发，拓展现有研究。
+
+资源理论虽然可以作为解释接受者视角多个公正类型交互对组织报复行为影响的重要机制，但是目前尚未有实证研究对此进行验证，未来研究应当采用多种方法，在多种情境下验证资源理论的预测。另外，将资源理论和情绪以及归因机制进行整合，也将是可行的未来研究方向。
+
+# 7.3.3观察者视角的未来研究方向
+
+相比于接受者视角的研究，从观察者视角讨论组织报复行为的研究尤为缺乏。在社交媒体越来越发达，不公正事件影响范围也越来越大的今天，拓展观察者视角下的组织报复行为研究尤为关键。本文对观察者视角下组织报复行为的未来研究方向进行展望。
+
+首先，现有研究已从认知和情绪两个机制出发，研究了观察者如何对其他人的不公正感知进行反应和行为(Skarlicki&Kulik,2004)。然而依然处于理论推演和猜测多于实证研究的阶段。未来研究应当提供更多的实证证据来验证现有的理论框架。此外，观察者在他人遭受到不公正对待时产生何种情绪反应受社会情境及观察者个体特质等因素的影响，如Liu等(2021)发现具有高度神经质和马基雅维利主义，或低任务依赖程度的观察者，在观察到不公正事件(不文明行为)之后会感知到更多的幸灾乐祸和更少的愤怒情绪。Mitchell(2015)除了提出道德愤怒之外，还提出了满意的中介机制，即高度排斥同事的观察者在目睹同事遭受不公正对待时会感到满意，并会导致他们对同事的进一步排斥。未来研究可进一步探讨观察者对接受者的评价如何影响他们的反应和行为。最后，由于观察者观察到不公正事件后，也可能会消耗观察者自身所重视的资源，因此从资源理论视角和资源保存理论出发解释观察者视角下的组织报复行为，极有可能是一个非常有前途的未来方向。
+
+其次，观察者是对多种不直接参与和经历不公正事件的第三方的总称。然而，不同的观察者可能会对不公正经历具有完全不同的反应。讨论组织内(包括同事、上级以及其他部门的员工等)以及组织外(包括社会大众、客户、供应商等)外的第三方观察到不公正事件时的不同反应，将会进一步拓展现有研究。如团队绩效压力会使团队形成私利型伦理氛围(林英晖,于晓倩,2020)，可能使团队成员对于团队中其他员工遭受的不公正对待视而不见。此外，观察者观察到的不公正事件的范围不仅包括针对观察者的同事的侵害事件(Skarlicki et al.,1998)，还包含针对组织其他利益相关者的事件，这些利益相关者应包括但不限于组织的供应商、客户(Greenbaum et al.,2013)、社区(Jones et al.,2014)，目前这一领域研究相对较少，未来可进一步探讨观察者如何对观察到的针对组织外利益相关者的事件作出反应。
+
+最后，未来研究应当更多地探讨如何降低观察者针对组织的报复行为，以期降低不公正事件的影响范围。我们认为将公共媒体管理、危机管理等其他领域内的研究结论引入观察者视角下的组织报复行为研究将会是未来重要的方向。另外，旁观者效应认为，责任扩散是降低旁观者行为的重要因素(Hussain et al.,2019)。或许一个比较有效的途径是模糊不公正待遇的指向，这样可能会促进责任扩散程度，最终起到降低旁观者效应的作用。
+
+# 参考文献
+
+林英晖,于晓倩.(2020).团队成员为何会做出亲团队非伦理行为?来自团队绩效压力的影响．中国人力资源开发， 37(07), 34-46.   
+皮永华,宝贡敏.(2006).西方组织报复行为理论研究述评．外国经济与管理,28(3),40-44.   
+皮永华.(2006).组织公正与组织公民行为、组织报复行为之间关系的研究(博士学位论文).浙江大学，杭州.   
+王宇清,龙立荣,周浩.(2012).消极情绪在程序和互动不公正感与员工偏离行为间的中介作用:传统性的调节机制．心 理学报,44(12),1663-1676.   
+王宇清.(2012).组织公正感对员工偏离行为的作用与机制(博士学位论文).华中科技大学，武汉.   
+韦慧民,农梅兰.(2020).领导者攻击型幽默对员工偏差行为的影响．中国人力资源开发,37(01),68-83.   
+徐世勇,欧阳侃.(2012).基于参照认知理论视角的领导公平与信息公平对组织报复行为的影响研究．管理学报,9(10), 1457-1463.   
+张桂林.(2009)．组织公正与员工报复行为关系研究(硕士学位论文)．山东大学，济南.   
+张伶,连智华.(2017).基于组织公正调节中介模型的新生代员工自我效能和创新绩效研究．管理学报,14(8),1162- 1171.   
+周浩,龙立荣,王燕,王忠军,吴怡,柯善玉.(2005)．分配公正、程序公正、互动公正影响效果的差异．心理学报,37(5),687- 693.   
+朱瑜,李云健,马智妍,王小霏.(2014).员工组织规避劳动合同法认知、工作不安全感与组织报复行为的关系:基于华南 地区新生代员工的实证研究．管理评论,26(3),113-127.   
+Adams,J.S.(1965).Inequity insocial exchange.Advances inExperimental Social Psychology,2(4),267-299.   
+Barclay,L.J.,Skarlicki,D.P.,&Pugh,S.D.(oo5).Exploring theroleofemotions inijusticeperceptionsandretaliation. Journal of Applied Psychology, 90(4), 629-643.   
+Barclay,L.J.,Whiteside,D.B.&Aquno,K.(O14).Toavengeornot toavenge?Exploring theinteractiveeffctsoforal identity and the negative reciprocity norm. Journal of Business Ethics,121(1),15-28.   
+Barsky,A.,Kaplan,S.A.,&Beal,D.J. (2Ol1).Justfeelings?heroleoffectinthefrmationofrganzationalfai judgments. Journal of Management, 37(1), 248-279.   
+Baumeister,R.F.,BratslavskyE.,Muraven,M.,&Tice,D.M.(998).Egodepletion:Isteactiveselfalmitedesouce Journal of Personality and Social Psychology,74(5),1252-1265.   
+Bies,R. J. (1986). Interactional justice: Communication criteria offairness.InR.J.Lewicki,B.H.Sheppard,&M.H. Bazerman (Eds.),Researchon Negotiations in Organizations (Vol.1,pp.43-55). Greenwich,CT: JAIPress.   
+Bies,R.J.(2015). Interactional justice: Looking backward,lookingforward.InR.S.Cropanzano &M.L.Ambrose (Eds.), The Oxford Handbook ofJustice in the Workplace (pp.90-108). New York,NY: Oxford University Press.   
+Bobocel,D.R.,&Gosse,L.(2o15).Procedural justice: Ahistoricalreviewand criticalanalysis.InR.S.Cropanzano&M.L. Ambrose (Eds.),The Oxford Handbook of Justice in the Workplace (pp.51-89).New York,NY: Oxford University Press.   
+Brockner,J. (2Oo2).Makingsenseof proceduralfairnes: How high proceduralfairness canreduceorheightentheinfluence of outcome favorability. Academy of Management Review, 27(1), 58-76.   
+Brockner,J.,&Wiesenfeld,B.M.(1996).Anintegrativeframework forexplaiingreactions todecisions: Interactiveffects of outcomes and procedures.Psychological Bulletin,120(2),189-208.   
+Brockner,J.,KonovskyM.A.,Cooperschneider,R.,Folger,R.,Martin,C.L,&Bies,R.J.(994).Interactiveeectsof procedural justice and outcome negativity on victims and survivors of job loss.Academy of Management Journal,37(2), 397-409.   
+Brockner,J.,Wieseneld,B.,iegel,P.A.,obocel,D.R.,&iu,Z.().Ridingthefthwave: Organzatioljustice as dependent variable. Research in Organizational Behavior,35,103-121.   
+Cole,M.S.,Bernerth,J.B., Walter,F.,&Holt,D.T. (2O1).Organizationaljustice and individuals'withdrawal: Unlocking the influence of emotional exhaustion. Journal of Management Studies,47(3),367-390.   
+Colquit,J.A,Conlon,D.E.,Wesson,M.J.,orter,C.O.,&NgK.Y. ().Justiceatthe milenm: Ameta-analytic review of 25 years of organizational justice research. Journal of Applied Psychology, 86(3), 425-445.   
+Colquit,J.A,Scot,B.A.,odel,J.ong,D..,ZapataC.P,Colon,D.E,&Wessn,.J. (2).Jusiceatte millennium,a decade later: A meta-analytic test ofsocial exchange and afect-based perspectives. JournalofApplied Psychology,98(2),199-236.   
+Cropanzano,R.,& Mitchel,M.S.(2oo5).Social exchange theory: An interdisciplinary review.JournalofManagement, 31(6), 874-900.   
+Deng,H.,Coyleshapiro,J.A.,&Yang,Q. (20l7).Beyond reciprocity: Aconservationofresources viewontheeects of psychological contract violation on third parties. Journal of Applied Psychology,103(5),561-577.   
+Foa, U. G., & Foa,E.B.(1974). Societal Structures ofthe Mind. Springfeld, IL: Charles C.Tomas Publisher.   
+Folger,R.,& Cropanzano,R. (2ool).Fairness theory: Justiceas accountability. InJ. Greenberg &R. Cropanzano (Eds.), Advances in Organizational Justice (pp.1-55). Stanford, CA: Stanford University Press.   
+Fortin,M.,Blader,S.L.,Wiesenfeld,B.M.,& Wheeler-Smith,S.L. (2015).Justice andaffect: Adimensional.InR.S. Cropanzano & M.L.Ambrose (Eds.),The Oxford Handbook of Justice inthe Workplace,(pp.419-442). New York,NY: Oxford University Press.   
+Greenbaum,R.L.,Mawritz,M.B.,Mayer,D.M.,&Priesemuth,M.(2o13).Toactout,to withdraw,ortoconstructively resist? Employee reactions to supervisor abuse ofcustomers and the moderating role of employee moral identity. Human Relations,66(7),925-950.   
+Greenberg,J.(1993).The socialsideoffairnes: Interpersonal and informational classes oforganizational justice.InR. Cropanzano (Ed.),Series inapplied psychology. Justice in the workplace: Approaching fairnessin human resource management (pp.79-103). Hillsdale, NJ: Erlbaum Lawrence Erlbaum Associates, Inc.   
+Hussain,1.,Shu,R.,Tangirala,S.,&Ekkirala,S. (2o19).The voice bystandereffect: Howinformationredundancyinibits employee voice. Academy of Management Journal, 62(3), 828-849.   
+Jones,D.A.,Willess,C.,&adeyS. (O14).Whyrejobsekersatractedbycorporatesocialprformance?Experital and field tests ofthree signal-based mechanisms. Academy of Management Journal, 57(2), 383-404.   
+Lavelle, J. J.,Mcmahan, G. C.,& Haris, C.M.(20o9).Fairness in human resource management, social exchange relationships,and citizenship behavior: Testing linkages ofthe target similarity model among nurses in the United States. International Journal of Human Resource Management,20(12),2419-2434.   
+Lazarus,R. S.(1991). Emotion and Adaptation. New York: Oxford University Press.   
+Leventhal, G.S.(1980). What should be done with equity theory?New approaches to the study offairnessin social relationships. In K. Gergen,M. Greenberg &R. Wilis (Eds.),Social exchange: Advances in theory and research (pp. 27-55). New York, NY: Plenum Press.   
+Lian,H.,Brow,D.J.,Feris,D.L,Liang,L.,Keeping,L..,&oson,R. ().Abusveupervisioandtaliatio: A self-control framework. Academy of Management Journal,57(1),116-139.   
+Lian,H.,Yam,K.C.,Feris,D.L,&Brown,D.J. (217).Self-controlat work.AcademyofManagementAnnals,11(2), 703-732.   
+Liu,P.,Li,X.,Li,A.,Wang,X.,& Xiong,G.(021).Howthird partiesrespondto workplace incivility:The moderatingrole of the dark triad and task interdependence.Personality and individual diferences,171,1-6.   
+Long,E.C.&Cristian,M.S.(15).Mindfunessbufersretaliatoryrsponsestojustie:Aregulatoryapproach.Jounal of Applied Psychology,100(5),1409-1422.   
+Masterson,S.S.,Lewis,K., Goldman,B.M.,&Taylor,M.S.(2oo).Integrating justiceandsocialexchange:Thediing effects offair procedures and treatment on work relationships.AcademyofManagement Journal, 43(4),738-748.   
+Mitchell,M.S.,& Ambrose,M.L.(20o7).Abusive supervision and workplace deviance and the moderating effects of negative reciprocity beliefs. Journal ofApplied Psychology, 92(4),1159-1168.   
+Mitchell,M.S.,Vogel,R.M.,&Folger,R. (O15).Thirdparties'reactions totheabusivesupervisionofcoworkers.Joual of Applied Psychology, 100(4),1040-1055.   
+Muraven,M.,&lessreva,E. (oo3).Mechansmsofself-ontrolfure:otivationandlimitedresoures.Personalityand Social Psychology Bulletin,29(7),894-906.   
+OReilly, J.,& Aquino,K. (20l1).Amodelof third parties' morally motivated responses to mistreatment inorganizations. Academy of Management Review, 36(3), 526-543.   
+OReily,J.,Aquino,K,&arlicki,D.P.(6).Telvesofothers:Tirdparties'esponses tothersinjustice.Joualof Applied Psychology,101(2),171-189.   
+Qin,X.,Ren,R.,Zhang,Z,&Johson,R.E. (l).Fairseuristicsandsubstitutabilityeects:Ieringthefiof outcomes, procedures,and interpersonal treatment when employees lack clear information. Journal of Applied Psychology,100(3),749-766.   
+Rupp,D.E.,&Bel,C.M.(2010).Extending the deontic modelofjustice: Moral self-regulationin third-partyresponses to injustice.Business Ethics Quarterly,20(1),89-106.   
+Rupp,D.E.,& Cropanzano,R. (20o2).The mediating efects of social exchange relationships in predicting workplace outcomes from multifoci organizational justice. Organizational Behavior and Human Decision Proceses,89(1),925- 946.   
+Rupp,D.E.,& Spencer,S.(2oo6). When customers lash out: The effects ofcustomer interactional injustice on emotional labor and the mediating role of discrete emotions. Journal ofApplied Psychology, 91(4), 971-978.   
+Rupp,D.E.,Shao,R.,Jones,K.S.,&Liao,H. (2014).Theutilityofamultifoci approach tothestudyoforganizational justice: Ameta-analytic investigation into theconsiderationofnormativerules,moral accountability,bandwidth-fidelity and social exchange. Organizational Behavior and Human Decision Processes,123(2),159-185.   
+Russell,J.A.(1980).Acircumplex modelofaffect.Journal ofPersonalityand Social Psychology,39(6),16-18.   
+Skarlicki,D.P.,&Folger,R. (1997).Retaliationinteworkplace:Throlesofdistributive,procedural,andinteractional justice. Journal of Applied Psychology, 82(3), 434-443.   
+Skarlicki,D.P.,&Folger,R. (20o4).Broadeningourunderstanding oforganizationalretaliatorybehavior.InR.W.rifn& A. OLeary-Kelly(Eds.),The Dark Side ofOrganizational Behavior (pp. 373-402).San Francisco: Jossey-Bass Press.   
+Skarlicki,D.P,&Kulik,C.T. (o4).Trd-partyreactions tomploye (is)treatment: Ajustice perspective.Researchin Organizational Behavior,26,183-229.   
+Skarlicki,D.P.,&Rupp,D.E.(2010).Dual procesing and organizational justice: Theroleofrationalversus experiential processing in third-party reactions to workplace mistreatment. Journal of Applied Psychology,95(5), 944-952.   
+Skarlicki,D.P.,llrd,J.H.,&Kelln,B.R.(998).id-partyperceptonsoflyf:rocedural,derogatio,d retributive aspects of justice. Journal ofApplied Psychology,83(1),119-17.   
+Skarlicki,D.P.,O'Reilly,J.,&Kulik,C.T. (215).10Thethird-partyperspectiveof(injustice.InR.S.Cropanzano&. L.Ambrose (Eds.),The Oxford Handbook of Justice in the Workplace (pp.235-255).New York,NY: Oxford University Press.   
+Tangney, J. P.,& Dearing,R.L. (2002). Shame and guilt. New York, NY: Guilford.   
+Taylor, S.M. (2015).The role of workplace justice in the midst of organizational change.In R. S. Cropanzano & M.L. Ambrose (Eds.),The Oxford Handbook of Justice in the Workplace (pp.577-604). New York,NY: Oxford University Press.   
+Tornblom, K.,& Kazemi,A.E. (20l2). Handbook of Social Resource Theory. Springer New York.   
+Walker,L.,Lind,E.A.,&Tibaut,J.(1979).Terelationbetweenproceduralanddistributivejustice.VirginiaLawReview, 65(8), 1401-1420.
+
+Wang,M.,Liao,H., Zhan,Y.,& Shi,J. (2O11).Dailycustomer mistreatmentand employee sabotage against customers: Examining emotion and resource perspectives.Academy of Management Journal, 54(2),312-334. Wheten,D.A. (1989). What constitutes atheoretical contribution? Academy ofManagement Review,14(4),490-495.
+
+# The effect of organizational (in)justice on organizational retaliation behavior and the underlying mechanisms
+
+LIU Depeng ', GAO Xiangyu ²
+
+(lSchool of Management, Shandong University, Jinan 25010o, China)
+
+(2Business School, Nanjing University, Nanjing 210093, China)
+
+Abstract: Organizational retaliation behaviors,defined as employees'retaliatory behaviors towards the organization and its agents due to unjust treatment of employees,are prevalent in workplaces. A systematic review of the literature identifies several prominent research gaps, such as a lack of integrated framework and ignorance of theoretical mechanisms.This study proposes new underlying mechanisms and enriches the related literature by focusing on the dimensions of perceived justice complexity and perceived justice subject. Future research can further explore other possble mechanisms by integrating self-control, emotions, and resources theoretical perspectives from the angle of observers.
+
+Keywords: organizational retaliation behavior, organizational (in)justice,receiver,observer, mechanism

@@ -1,0 +1,110 @@
+基础研究
+
+# 活化T细胞核因子2可抑制高迁移率蛋白1的释放
+
+赵擎1,王黎²,胡婕²,刘辉²  
+解放军总医院1南楼消化科，重症医学科，北京100853
+
+摘要：目的探讨活化T细胞核因子2(NFAT2)对炎症因子高迁移率蛋白1(HMGB1)释放的抑制效应。方法观察脂多糖刺激可增加HMGB1向胞外释放,在脂多糖刺激的不同时间点收集细胞及其培养上清，应用蛋白印迹法及酶联免疫法检测细胞内及培养上清中HMGB1蛋白水平的变化；另一方面，探讨脂多糖刺激对NFAT2与HMGB1在胞浆中的结合的影响，在脂多糖刺激的不同时间点收集THP-1细胞，提取蛋白后应用免疫共沉淀观察二者的结合情况；应用小RNA干扰技术抑制NFAT2的表达，检测对HMGB1合成释放的影响。结果 脂多糖刺激THP-1细胞时间越长,细胞培养上清的HMGB1浓度增加，而细胞浆内与NFAT2结合的HMGB1水平下降,细胞核内没有检测到二者的相互作用。NFAT2的小RNA干扰质粒转染后,THP-1细胞内NFAT2浓度下降，同时细胞上清中HMGB1的水平上升。结论NFAT2可抑制HMGB1的合成释放。
+
+关键词：活化T细胞核因子2；高迁移率蛋白B1;炎症调控
+
+# Role of nuclear factor of activated T cells-2 in high mobility protein box-1 release in human monocytic THP-1 cells in vitro
+
+ZHAO Qing，WANGLi²,HU Jie²,LIUHui²   
+Dapartmentoftroeterologyinoueeealospitaeijing8in;epamntfile   
+Medicine,theChinesePLAGeneralHospital,Beijing0o853,China
+
+Abstract: Obejective Toinvestigate theroleofnuclearfactorofactivatedTcels-2 (NFAT2)inreleaseofhighmobilityprotein box-1(HMGB1) from human monocytic THP-1cells invitro.Methods The level of HMGB1releasefrom THP-1cels in response to lipopolysaccharide (LPS)stimulation was examined by Western blottingand enzyme-linked immunosorbentaay (ELISA).The efect of LPS stimulation on NFAT2 and HMGB1 interaction in thecytoplasm was observed by immunoprecipitation assay. HMGB1 productionand release was detected incells with specific small interfering RNA (siRNA)-mediated suppression of NFAT2 expression.Results LPS stimulated HMGB1 release from THP-1 cels.As LPS stimulation prolonged,HMGB1concentration increased inthecellculturesupernatantanddecreasedinthecytoplasm,and the binding between NFAT2 and HMGB1 was not detected in the cell nuclei. NFAT2 suppression by the siRNA plasmid resulted inincreased HMGB1level in thecellculturesupernatant.ConclusionNFAT2caninhibit HMGB1release fromTHP-1 cells in vitro.
+
+Key words: nuclear factor of activated T cells; high mobility group box-1; inflammatory regulation
+
+高迁移率族蛋白B1(HMGB1)不仅是一种重要的晚期炎症介质，还具有调节机体免疫的功能，在炎症反应及肿瘤发展机制方面具有重要作用[1-2。应用抗HMGB1抗体进行被动免疫治疗，对严重内毒素血症、脓毒症、关节炎以及LPS诱导的急性肺损伤都有积极的治疗作用[3]。即使抗体应用时机较晚，肿瘤坏死因子水平已恢复正常，抗HMGB1抗体仍可显著改善症状和预后。如何进一步明确HMGB1的合成释放调控机制，对于寻找针对脓毒症、肿瘤免疫调控等方面的治疗策略具有重要意义。
+
+研究显示，活化T细胞核因子2(NFAT2)是淋巴细胞内关键的转录调控因子，被T细胞受体(TCR)信号活化后，转位入核内调控免疫因子转录表达，属于经典的免疫调节蛋白[4，NFAT蛋白在静息状态下位于T淋巴细胞胞浆中，高度磷酸化，活化时被钙调蛋白依赖性磷酸酯酶(calcineurin)作用而发生去磷酸化,移位入细胞核，调节诸如IL-4、IL-2、IL-5、IL-13、GM-CSF、IL-3、TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 等重要免疫分子的表达[5-7]。既往资料显示[8],HMGB1与NFAT2存在一些共同的相互作用蛋白，二者有可能形成蛋白复合体。已证实9，HMGB1可作为雌激素受体 $\mathbf { \nabla } \cdot \mathbf { a }$ (estrogen receptor- $\mathfrak { a }$ ,ER)的共激活蛋白促进雌激素受体的转录活性。ER转录的关键步骤在于ER与雌激素反应元件(ERE)结合，从而启动下游基因转录表达。HMGB1蛋白可以显著促进ER与ERE的结合。另一方面，军事医学科学院的叶棋浓教授[1研究表明，NFAT家族成员可与ER直接结合并相互影响信号通路。因此，有理由推测HMGB1可能与NFAT发生直接相互作用。另有资料表明[1],一种HMGB1/2家族中DNA结合蛋白成员——DSP1(DSP1中含有与HMG序列相似的结构域),可与Rel同源域家族成员发生相互作用。而NFATs结构中含有Rel相似结构域(Relsimilardomain，RSD)，结构上的特点提示二者可能直接相互作用。
+
+研究发现，HMGB1可促进NFAT2参与调控白介素-2的转录表达[12]。HMGB1为非组蛋白DNA调节蛋白，可进人细胞核内参与基因的调控，但目前对于NFAT2对HMGB1的影响机制尚缺乏研究。本实验构建NFAT2和HMGB1的真核表达质粒，观察NFAT2对HMGB1释放的影响，初步揭示NFAT2对HMGB1的调控作用。
+
+# 1 材料和方法
+
+1.1 材料
+
+1.1.1基因序列人全长PSH140C-Flag-NFATC1(NM_006162.3)质粒由华盛顿大学FengChen博士惠赠。NFAT2的基因全长序列在GenBank中基因登录号为U08015,其开放读码框从240到2390位[13]；在Medline的GenBank数据库中获取人HMGB1的基因全长序列，基因库登录号为BC066889，其开放读码框从80到727位。
+
+1.1.2sRNAi千扰质粒NFAT2及HMGB1的sRNAi引物、sRNAi空白质粒购于GenePharma公司（上海，中国)。sRNAi引物的基因序列如下：HMGB1siRNA正义序列为5'GGGAGGAGCAUAAGAAGAATT3',反义5'UUCUUCUUAUGCUCCUCCCTT3'。NFAT2SiRNA正义序列5'AGCGGAGGAAGAACACUAUTT3',反义5'AUAGUGUUCUUCCUCCGCUTT3'。用于构建sRNAi质粒的2.1-U6neo载体购于Ambion公司(德克萨斯州，美国)。
+
+# 1.2 方法
+
+1.2.1细胞转染培养人单核粒细胞系THP-1细胞及人胚胎肾细胞系HEK293T细胞，细胞用含有 $10 \%$ 的新生牛血清和双抗DMEM培养基培养。在转染前 $2 4 \mathrm { h }$ 用不含双抗、含 $10 \%$ 新生牛血清的相应培养基将细胞接种在$6 \mathrm { c m }$ 小血中，接种时机以转染时细胞密度达到 $90 \%$ 为准。将DNA用 ${ 8 0 \mu \mathrm { L } }$ 不含双抗和血清的培养基稀释，再用 ${ 8 0 } ~ \mu \mathrm { L }$ 相同的培养基稀释 $2 . 5 ~ \mu \mathrm { L }$ Lipofectamine2000，立即将二者混合，室温放置 $2 0 ~ \mathrm { m i n }$ 后，加入到含有 $0 . 8 ~ \mathrm { m L }$ 培养基和 $10 \%$ 新生牛血清的 $6 ~ \mathrm { c m }$ 小皿中， $^ { 4 \mathrm { ~ h ~ } }$ 后更换培养基。实验时应用 $1 0 0 ~ \mathrm { { n g / m L } }$ 脂多糖进行刺激，在不同的时间点收集细胞以及细胞培养上清。
+
+1.2.2免疫共沉淀(co-IP)实验 细胞转染后 $2 4 \mathrm { h }$ ，取出培养血并收集细胞，行超声破碎留取上清。上清体积约$4 5 0 ~ \mu \mathrm { L }$ ,其中从上清中吸取 $3 0 ~ \mu \mathrm { L }$ 留作电泳加样(input)，其余约 $4 2 0 \mu \mathrm { L }$ 上清用于进行IP实验。每个样本中加入 $1 5 \mu \mathrm { L }$ 带琼脂糖珠子的抗体进行沉降，沉降完毕后将样品加入上样缓冲液，充分混匀，煮沸后离心，取$1 0 \mu \mathrm { L }$ 进行Westernblotting印迹分析，应用相应的抗体进行检测。
+
+1.2.3裂解细胞提取核蛋白操作过程注意迅速并保持低温。刺激完毕后倒掉培养液，采用预冷的PBS液（含1 mmol/L NaF、1 mmol/L $\mathrm { N a _ { 3 } V O _ { 4 } }$ 洗涤刺激后细胞3遍，每瓶加入 ${ 8 0 0 \mu \mathrm { L } }$ 细胞匀浆缓冲液，用细胞刮刀迅速收集细胞。吸出后置于EP管中，冰浴摇震 $2 0 \mathrm { m i n }$ ,再加入1/10\~1/5体积的 $7 5 \%$ 蔗糖溶液，混匀， $1 2 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 后去除上清。在离心沉淀物中加入 $3 0 ~ \mu \mathrm { L }$ 的核蛋白提取缓冲液并于 $4 \mathrm { { ^ \circ C } }$ 冰浴摇震 $1 \ \mathrm { h } , 1 2 \ 0 0 0 \ \mathrm { r / m i n }$ 离心 $3 0 \mathrm { m i n }$ ，取上清即为核蛋白溶液。取 $4 \mu \mathrm { L }$ 核蛋白上清，用去离子水稀释100倍,以紫外分光光度计测 $A _ { 2 8 0 }$ 值，结果乘以50,即为核蛋白提取原液中蛋白浓度，单位为 $\mu \mathrm { g / \mu L } _ { \mu }$
+
+1.2.4Westernblotting检测免疫沉降物中目标蛋白水平吸取 $1 0 \mu \mathrm { L }$ 离心上清,进行 $10 \%$ 聚丙烯酰胺凝胶电泳。电泳完毕后进行转膜，电转完毕后取出硝酸纤维素膜，应用特异性抗体及带荧光素酶的二抗进行结合。在暗室中，采用化学发光反应试剂盒进行检测，
+
+1.2.5统计学方法所有实验重复4次，数据以均数 $\stackrel { \cdot } { \pm }$ 标准差表示，采用SPSS16.0统计软件，进行单因素方差分析。 $P { < } 0 . 0 5$ 表示差异有统计学意义。
+
+# 2结果
+
+2.1脂多糖刺激可促进THP-1细胞释放HMGB1
+
+应用 $1 0 0 ~ \mathrm { { n g / m L } }$ 的脂多糖对THP1细胞进行刺激，在刺激后不同时间点收集细胞进行检测。结果显示，脂多糖刺激后 $6 { \sim } 2 4 \mathrm { ~ h ~ }$ ，细胞内的HMGB1水平逐渐下降（图1A， $P { < } 0 . 0 5 )$ ,同时，细胞培养上清中的HMGB1蛋白水平却逐渐升高(图1B， $P { < } 0 . 0 5$ )。两种相反的变化趋势更证实了HMGB1可在脂多糖的刺激下由细胞内向细胞外释放。
+
+# 2.2脂多糖刺激可抑制NFAT2与HMGB1在细胞浆内 相互结合
+
+为了探讨脂多糖刺激对NFAT2与HMGB1在胞浆内相互作用的影响，应用 $1 0 0 ~ \mathrm { { n g / m L } }$ 的脂多糖对THP1细胞进行攻击。结果显示（图2)，在静息细胞内，HMGB1与NFAT2有较强的结合条带，而脂多糖刺激可抑制二者相互结合。随着脂多糖刺激时间的延长，免疫沉降物中所能检测到的HMGB1条带逐渐减弱。在脂多糖刺激后 $2 4 \mathrm { h }$ ,HMGB1蛋白条带已经接近消失。这提示脂多糖刺激可减弱NFAT2与HMGB1之间的结合，并可能因此促进了HMGB1向细胞外的释放。
+
+![](images/d21dae8554c217b140cce606a7744ff667eb247a1b6c22f1b41f52e3355bfec4.jpg)
+
+![](images/f650699601c6a4de7252dd3a2c6d8cc57da97b65fc5f82c793eb5308197f5b20.jpg)  
+Fig.1 HMGB1 release from THP-1 cels in response to LPS stimulation.A:LPS stimulation decreased intracellular HMGB1 in THP-1 cells; B:LPS stimulation increased HMGB1 level in the culture supernatant. $^ { * } P { < } 0 . 0 5 ,$ （20 $* * P { < } 0 . 0 1$ ，
+
+# 2.3NFAT2与HMGB1在细胞核内没有相互作用
+
+为了初步明确NFAT2与HMGB1在细胞核内相互作用情况，我们应用 $1 0 0 ~ \mathrm { { n g / m L } }$ 的脂多糖对THP1细胞进行攻击。在脂多糖刺激的不同时间点收集细胞，提取胞核蛋白进行检测。结果显示（图3)，HMGB1与NFAT2没有相互结合，随着脂多糖刺激时间的延长，NFAT2蛋白在细胞核内的聚集有所增加，但没有发现二者的结合条带，这提示NFAT2与HMGB1之间的相互作用并不发生在细胞核内。
+
+![](images/6b7e19a5490272acf6609908d831d0351822ac5193f5e82a4220fb6d9e178070.jpg)  
+图2脂多糖刺激可抑制NFAT2与HMGB1 在细胞浆内相互结合 Fig.2LPS stimulation depressed binding between NFAT2 and HMGB1.   
+图3脂多糖刺激下HMGB1与NFAT2在细胞 核内相互作用情况 Fig.3 No binding between HMGB1 and NFAT2 was detected in the cell nuclei.
+
+# 2.4阻断NFAT2可促进HMGB1向细胞外释放
+
+为了探讨NFAT2对HMGB1释放的影响，应用NFAT2的sRNAi质粒抑制THP-1细胞中内源性NFAT2的表达。sRNAi质粒转染 $2 4 \mathrm { h }$ 后，收集THP-1细胞及其培养上清液，检测HMGB1蛋白水平。结果显示，在NFAT2受到抑制的细胞内，HMGB1蛋白水平显著下降；而HMGB1受到抑制的细胞内，NFAT2蛋白水平没有变化（图4A， $P { > } 0 . 0 5$ )。NFAT2-sRNAi质粒可导致细胞培养上清的HMGB1蛋白浓度上升（图4B， $P { < } 0 . 0 5 )$ OHMGB1及NFAT2相应的sRNAi质粒可显著抑制其基因的转录水平(图4C， $P { < } 0 . 0 1$ )。
+
+# 3讨论
+
+HMGB1是一种非组蛋白DNA结合蛋白，在细胞核内可协调DNA结构解旋并启动基因转录。不仅如此，HMGB1还可由细胞核进入细胞浆，在细胞受到相应刺激后可释放到细胞外，具有广泛的生物学功能。如果能够明确HMGB1合成释放的调控机制，则可为以HMGB1为靶点的治疗策略提供思路和线索[14-15]。研究显示[12-13.16],脂多糖、肿瘤坏死因子、白介素等多种因素可通过激活核因子 $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 、Janus激酶-信号转导和转录激活子等通路导致HMGB1的合成释放。已证实，HMGB1出人细胞核主要是通过乙酰化的机制实现的。HMGB1本身具有2个非典型的核输出信号肽，在大多数细胞中，HMGB1动态的游走于细胞核及胞浆中，但核内聚集是一个主动过程，具有绝对优势，而出核则主要是被动扩散。去乙酰化时，入核增多；高度乙酰化时，出核增多[17]
+
+我们的前期研究发现，HMGB1可促进NFAT2参与调控白介素-2的转录表达[18]。新近研究发现[19-21]，NFAT2不仅是一种经典的免疫转录调节因子，还可以被炎症信号激活，参与炎症反应的调控。NFAT2可与STAT3形成蛋白复合物，在细胞核内影响染色体的转录表达。既往研究证实[16],STAT3可参与调控晚期炎症因子HMGB1的转录表达，并影响脓毒症大鼠的预后。因此，NFAT2极有可能参与HMGB1的信号调控，发挥其炎症调控作用。另有研究报道[22],NFAT2可以被炎症信号通路(如丝裂原活化蛋白激酶通路、核因子- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 通路)活化，参与调控下游的炎症反应。而且，研究发现NFAT2在细胞核内可作为架构蛋白与染色体相互作用[23]，起到解旋并影响基因转录，这与HMGB1的细胞核内作用有类似之处，二者有可能通过相互作用，影响彼此的生物学功能。因此,本实验通过构建相应的真核表达质粒，进一步探讨NFAT2对HMGB1的调控作用。
+
+![](images/b5843ccbdb29b4a3f6e3cdf3ee5ad2c36eab12a99107d80393755446753da36b.jpg)  
+图4抑制NFAT2可促进HMGB1向细胞外释放 Fig.4 Inhibition of NFAT2 promoted HMGB1 release from THP-1 cells. $A$ :Effectof NFAT2-siRNA and HMGB1-siRNA on HMGB1 and NFAT2 in THP-1 cells,respectively; $B$ ：NFAT2 inhibition increased extra-cellular HMGB1 protein level; C: Inhibition of HMGB1 and NFAT2 using siRNA plasmids. $^ { * } P { < } 0 . 0 5$ $^ { * * } P { < } 0 . 0 1 .$ +、 $^ { \ast } P { < } 0 . 0 1$ ：
+
+本实验选用THP-1细胞来观察NFAT2与HMGB1之间的相互作用。单核巨噬细胞系THP-1细胞属于典型的炎症反应细胞，细胞内存在内源性NFAT2与HMGB1蛋白。脂多糖刺激可促进HMGB1从THP-1细胞内向细胞外释放。随着脂多糖刺激时间的延长，细胞内的HMGB1水平逐渐下降，同时细胞培养上清中的HMGB1蛋白水平上升。进一步实验显示，在静息THP-1细胞内，HMGB1与NFAT2相互结合。脂多糖刺激后，HMGB1与NFAT2的结合条带逐渐减弱，但是，在细胞核内没有检测到HMGB1与NFAT2的相互作用条带。这说明NFAT2在细胞浆内可能与HMGB1形成蛋白复合体，而脂多糖刺激可导致蛋白复合物解体，引起HMGB1蛋白向细胞外释放。为了从反面论证这种可能性，本实验构建了NFAT2的sRNAi质粒，用于抑制THP-1细胞内的NFAT2蛋白表达，观察对HMGB1释放的影响。实验结果显示，细胞内NFAT2的蛋白水平和基因转录水平受到抑制后，THP-1细胞内HMGB1蛋白水平显著下降，而细胞外培养液中的HMGB1蛋白浓度上升。这说明，随着NFAT2蛋白受到抑制，HMGB1在细胞内受到NFAT2的影响减小，向细胞外释放增加。NFAT2的存在对HMGB1的释放有较大影响。本实验结果初步探讨了NFAT2在细胞浆内对HMGB1的调控作用，为进一步研究HMGB1释放的调控机制提供了线索。
+
+# 参考文献：
+
+[1］Musumeci D,Roviello GN,Montesarchio D.An overview on HMGB1 inhibitors as potential therapeutic agents in HMGB1- related pathologies[J].PharmacolTher,2014,141(3):347-57.   
+[2]华胜妮,肖芦山,吴德华.HMGB1对人鼻咽癌细胞株C666-1体外增 殖的影响[J].南方医科大学学报,2015,35(11):1540-5.   
+[3]Wang H,Yang H,Tracey KJ.Extracellular role of HMGB1 in inflammation and sepsis[J].JIntern Med.2004,255:320-31.   
+[4]Koch S,Reppert S,Finotto S.NFATc1 deletion in T lymphocytes inhibits the allergic trait in a murine model of asthma[J].ClinExp Allergy,2015,45(8):1356-66.   
+[5]Reppert S,Zinser E,Holzinger C,et al.NFATc1 deficiency in T cells protects mice from experimental autoimmune encephalomyelitis[J].EurJImmunol,2015,45(5):1426-40.   
+[6]Garaud S,Morva A,Lemoine S,et al.CD5 promotes IL-10 production in chronic lymphocytic leukemia B cells through STAT3 and NFAT2 activation[J].JImmunol,2011,186(8): 4835-44.   
+[7]Srinivasan M,Frauwirth KA.Reciprocal NFAT1 and NFAT2 nuclear localization in $\mathrm { C D ^ { 8 + } }$ anergic T cells is regulated by suboptimal Calcium signaling[J].JImmunol, 2007,179(6): 3734-41.   
+[8]Yamaguchi Y,Sakai E,Sakamoto H,et al.Inhibitory effects of tert-butylhydroquinone on osteoclast differentiation via up-regulation of heme oxygenase-1 and down-regulation of HMGB1 release and NFATc1 expression[J].JApplToxicol,2014,34(1): 49-56.   
+[9]Joshi SR, Sarpong YC,Peterson RC,et al. Nucleosome dynamics: HMGB1 relaxes canonical nucleosome structure to facilitate estrogen receptor binding [J].Nucleic Acids Res,2012,40(20): 10161-71.   
+[10]Qin X,Wang XH,Yang ZH,et al.Repression of NFAT3 transcriptional activity by estrogen receptors[J].Cell Mol Life Sci, 2008,65(17): 2752-62.   
+[11] Martin D,Daulny A,Decoville M,et al. Mutagenesis analysis of the interaction between the dorsal rel homology domain and HMG boxes of DSP1 protein[J].JBiochem,2003,134(4): 583-9.   
+[12]Kim YM,Kim JH,Park SW,et al.Retinoic acid inhibits tissue factor and HMGB1 via modulation of AMPK activity in TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ activatedendothelialcelsandLPS-injectedmice[J]. Atherosclerosis,2015,241(2):615-23.   
+[13] Tan Y,Wang Q, She Y,et al.Ketamine reduces LPS-induced HMGB1 via activation of the Nrf2/HO-1 pathway and NF- $\boldsymbol { \kappa } \mathbf { B }$ suppression[J].JTrauma Acute Care Surg,2015,78(4):784-92.   
+[14]戚之琳,齐世美,凌烈锋,等.瑞香素对HMGB1释放及HMGB1诱发 的炎症反应的双重抑制作用[J].南方医科大学学报,2015,35(11): 1519-23.   
+[15]张丹丹,赵海金,周丽芹,等.高迁移率族蛋白B1协同白介素-1β可增 加人气道上皮细胞白介素-8的表达[J].南方医科大学学报,2012,32 (12): 1764-7.   
+[16]Hui L,Yao Y,Wang S,et al. Inhibition of Janus kinase 2 and signal transduction and activator of transcription 3 protect against cecal ligation and puncture-induced multiple organ damage and mortality [J].JTrauma,2009,66(3): 859-65.   
+[17] Yang Z,Li L,Chen L,et al. PARP-1 mediates LPS-induced HMGB1 release by macrophages through regulation of HMGB1 acetylation[J].JImmunol,2014,193(12): 6114-23.   
+[18]Liu H,Yao YM,Ding LH,et al. High mobility group box-1 protein acts as a coactivator of nuclear factor of activated T cells-2 in promoting interleukin-2 transcription[J]. Int J Biochem Cell Biol, 2009,41(3):641-8.   
+[19] Vaeth M,Schliesser U,Müller G,et al.Dependence on nuclear factor of activated T-cells (NFAT) levels discriminates conventional T cells from Foxp3 $^ +$ regulatory T cells [J].Proc Natl Acad Sci USA,2012,109(40): 16258-63.   
+[20] Baumgart S,Chen NM,Siveke JT,et al. Inflammation-induced NFATc1-STAT3 transcription complex promotes pancreatic cancer initiation by KrasG12D[J].Cancer Discov,2014,4(6): 688-701.   
+[21]卢家美,王小闯,谢新明,等.Calcineurin/NFAT信号通路上调5型磷 酸二酯酶的表达及介导内皮素-1诱导的肺动脉平滑肌细胞增殖[J]. 南方医科大学学报,2013,33(1):26-9.   
+[22] Wei ZF,Tong B,Xia YF,et al. Norisoboldine suppresses osteoclast differentiation through preventing the accumulation of TRAF6- TAK1 complexes and activation of MAPKs/NF-kB/c-Fos/NFATc1 Pathways[J].PLoS One,2013,8(3): e59171.   
+[23]Feske S,Giltnane J,Dolmetsch R,et al. Gene regulation mediated by Calcium signals in T lymphocytes[J].Nat Immunol,2Oo1,2(4): 316-24. (编辑：经媛)

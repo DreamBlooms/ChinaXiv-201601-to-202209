@@ -1,0 +1,436 @@
+[
+    {
+        "type": "text",
+        "text": "莱茵衣藻LZTFL1蛋白的多克隆抗体制备及应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘雁霞1，樊振川",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "天津科技大学大健康生物技术研究所，天津市大健康生物技术国际联合研究中心，天津科技大学食品工程与生物技术学院，天津 300457摘要［目的]亮氨酸拉链转录因子1（LZTFL1）是一种与纤毛信号传导相关的蛋白，关于其如何在信号传导中发挥作用以及作用机理目前尚不清楚。莱茵衣藻（Chlamydomonas reinhardtii）是研究纤毛信号传导的模式生物，而目前对莱茵衣藻LZTFL1蛋白的研究甚少，尚未有相应的检测抗体，因此制备LZTFL1多克隆抗体用于后续实验研究。[方法]采用RT-PCR技术从C.reinhardtiiCC125中提取总RNA，扩增 981bp的目的基因Lztfl1，插入到 $\\mathrm { p E T - } 2 8 \\mathrm { a } ( + )$ 原核表达载体，成功构建pET-28a(+)-Lztfll重组质粒，转入E.coliBL21（DE3）经IPTG诱导后成功表达 $6 \\times$ His-LZTFL1融合蛋白，融合蛋白经亲和纯化后免疫新西兰大白兔制备多克隆抗体，最后采用间接ELISA 法测得抗血清效价达到1:512000,经Western blot对C.reinhardtiiCC125 检测具有较高特异性。[结果]首次实现了莱茵衣藻LZTFL1蛋白的原核表达，制备出一支兔抗莱茵衣藻LZTFL1蛋白的多克隆抗体，为后续研究LZTFL1蛋白在莱茵衣藻中的结构功能及在纤毛信号传导中的相互作用奠定了基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：莱茵衣藻；LZTFL1；蛋白纯化；多克隆抗体；免疫荧光",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "莱茵衣藻（C.reinhardtii）是一种结构简单的单细胞真核藻类，是目前国内外研究纤毛结构、组装及功能的主要模式生物之一[I]。纤毛根据其运动状态分为运动纤毛和原生纤毛，运动纤毛是由“ $9 { + } 2 { \\mathit { \\Omega } } ^ { \\prime \\prime }$ 型微管蛋白骨架形成的从细胞基体部位伸出的较长细胞突起，原生纤毛由 $^ { 6 6 } 9 \\substack { + 0 ^ { 3 7 } }$ 型微管蛋白骨架形成，通常所研究纤毛都为运动纤毛。纤毛具有协调细胞生长和进行细胞信号传导的作用，纤毛缺失或信号传导功能障碍会造成一系列的疾病，目前已发现许多纤毛基因的缺失或突变导致一系列纤毛病，如肾囊肿，肝脏纤维化，视网膜变性，先天性心脏病，肥胖等都与纤毛缺陷有关，而由纤毛缺陷引起的人类疾病数量正在迅速增长[2]。因此了解纤毛的功能、组装原理及信号通路可以为纤毛病的诊断和治疗提供分子依据。从20世纪90 年代以来，人们对纤毛的研究逐步加深，从纤毛结构的研究到纤毛组装、功能、纤毛蛋白间的相互作用、纤毛信号传导及纤毛与疾病间的关系均取得了一定进展。已知纤毛内存在一种BBSome 复合物，BBSome 依赖于纤毛内运输机制（IFT）由IFT蛋白携带运送至纤毛顶端，参与完成纤毛的组装，BBSome的基因突变或基因缺失也会引起一系列纤毛类疾病，这种由BBSome引起的各类疾病，统称为“巴德-毕氏综合征（Bardet-Biedl syndrome，BBS）”，其典型症状为肥胖，精神紊乱，失明等[3]。另有研究表明，IFT27功能一旦缺失会导致纤毛内BBSome无法输出，造成BBSome在纤毛内的积累，进而引发毕氏综合征，由此可见，IFT蛋白与BBSome之间可能存在直接或间接的联系，目前尚未可知。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在动物实验研究中，亮氨酸拉链转录因子1（LZTFL1）位于3号染色体3p21.3区域，与毕氏综合征有密切关系，是迄今为止发现的第17个与BBS有关的基因，因此又被称为BBS17，Lztfl1基因5个碱基的缺失便会引起 BBS[4-1]；Lztfl 基因突变会引发恶性肿瘤，继而发展为癌症，比如肺癌，胃癌等[12,13]。另外，在人体及小鼠的实验研究中，敲除Lztfl1基因会导致纤毛内 BBSome 的累积[14-18]，与 ift基因缺陷对BBSome造成的影响一致，动物临床表现为小鼠体重增加及引起失明[12]，由此可判断，BBSome，LZTFL1与IFT三种蛋白间存在一定相互作用，Seo.S[15]等人已经证实LZTFL1在小鼠体内与BBS9直接作用，而与IFT蛋白的作用至今没有明确数据证实，有研究者猜测IFT27与BBSome之间可能是通过LZTFL1蛋白连接[14]，从而实现BBSome与IFT蛋白之间的相互作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为进一步研究BBSome与IFT蛋白的作用方式，验证两者是否通过LZTFL1蛋白作为连接桥梁实现间接联系，特制备检测莱茵衣藻内LZTFL1蛋白的多克隆抗体，实验以C.reinhardtiiCC125总RNA为模板，采用RT-PCR技术扩增Lztfl1基因片段，克隆至原核表达载体pET-28a $( + )$ ，诱导表达融合蛋白 $6 \\times { \\ddot { \\mathbf { \\tau } } }$ His-LZTFL1，并以此纯化产物制备多克隆抗体，为进一步研究LZTFL1的生物学功能及其在莱茵衣藻中的蛋白相互作用奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 菌株及质粒 克隆表达载体pET-28a$( + )$ 、感受态细胞E.coli XL1-blue、感受态细胞 E.coli BL21(DE3)、 C.reinhardtiiCC125均由本实验室保存。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 实验试剂 限制性内切酶（EcoRI/XhoI）、T4DNA连接酶及蛋白Marker等均购自美国Thermo公司；DNAMarker购自北京全式金公司；质粒小提试剂盒以及琼脂糖凝胶回收试剂盒购自北京索来宝科技有限公司；抗体纯化介质（ProteinASepharoseTMCL-4B）及亲和纯化介质（NiSepharoseTM6FastFlow）购自美国GEHealthcare 公司；硝酸纤维素膜",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（NC 膜）购自美国PALL公司；弗式完全佐剂及弗氏不完全佐剂购自美国 Sigma 公司；His-tag抗体购自碧云天生物技术研究所；HRP标记的羊抗兔/鼠抗体购自美国Jackson公司；荧光标记的羊抗兔二抗，羊抗小鼠二抗购买自美国 Sigma 公司；ECL化学发光显色液购买自德国Millipore 公司；其他药品试剂均为国产分析纯。1.1.3 实验动物实验用雄性新西兰大白兔1只， $3 { \\sim } 4$ 月龄，体重 $1 . 5 { \\sim } 2 . 0 \\mathrm { k g }$ ，由天津欧阳实验种兔场提供。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1重组表达质粒pET-28a $( + )$ -Lztfl1的构建利用基因库Phytozome 查找Lztfl1的cDNA序列，长度为981bp，设计引物序列如表1（下划线部分为XoI限制性内切酶切位点)，由北京奥科鼎盛生物有限公司合成。LztfllcDNA全基因序列来源于C.reinhardtiiCC125，通过Trizol法提取莱茵衣藻总RNA，反转录为cDNA。以cDNA为模板，分别以上游引物、下游引物进行PCR扩增。PCR反应条件为： $9 5 ^ { \\circ } \\mathrm { C }$ 预变性$5 \\mathrm { m i n }$ ; $9 5 ^ { \\circ } \\mathrm { C }$ 变性45 s, $5 2 ^ { \\circ } \\mathrm { C }$ 退火 $4 5 \\ \\mathrm { s } , \\ 7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $2 ~ \\mathrm { m i n }$ ，共30个循环； $7 2 ^ { \\circ } \\mathrm { C }$ 终延伸10min。将纯化后的PCR产物及表达载体pET-28a $( + )$ 用EcoRI和XhoI双酶切，分别回收大小为981bp的PCR产物目的片段和5344bp的载体片段，利用T4DNA连接酶进行 $4 ^ { \\circ } \\mathrm { C }$ 过夜连接，同时设置不含目的片段的对照组；将连接产物及对照组转化至感受态细胞 $E .$ .coli XL1-blue，在含有卡纳抗生素（ $1 0 0 \\mu \\mathrm { g / m l }$ ）的LB平板上 $3 7 ^ { \\circ } \\mathrm { C }$ 过夜培养 $1 4 \\mathrm { - } 1 6 \\mathrm { h }$ ；挑取阳性克隆继续培养过夜，提取质粒，进行 $E c o \\mathrm { R I } / X h o \\mathrm { I }$ 双酶切验证，将验证结果为阳性的质粒进行测序。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1LztflPCR 扩增引物",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/24f86a81ba1478e03a808d6da47b07edbb3197a766705244de58e0d05bf7a93a.jpg",
+        "table_caption": [
+            "Table 1 PrimersofLztfll "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Primer name Primer sequence (5'-3')</td></tr><tr><td>Forward CCGAATTCATGTCAATACAACTC</td></tr><tr><td>Reverse GGCTCGAGCTAGGCGGTGTCTGC</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2融合蛋白 $6 \\times$ His-LZTFL1诱导表达将测序正确的重组质粒 $\\mathtt { p E T - } 2 8 \\mathrm { a } ( + ) { - } L z t f l I$ 进行诱导表达，诱导方法参照文献中报道[18],设定诱导温度为 $2 5 ^ { \\circ } \\mathrm { C }$ ，IPTG 浓度为0.2mmol/L。经 $4 ^ { \\circ } \\mathrm { C }$ ， $6 0 0 0 \\ \\mathrm { g }$ 离心 $1 5 ~ \\mathrm { m i n }$ ，收集菌体，加入裂解液/结合液（ $2 0 \\ \\mathrm { m m o l / L }$ ${ \\mathrm { N a H } } _ { 2 } { \\mathrm { P O } } _ { 4 }$ ， $0 . 5 ~ \\mathrm { m o l / L } ~ \\mathrm { N a C l }$ ， $2 0 \\ \\mathrm { m m o l / L }$ 咪唑， $\\mathrm { p H } { = } 7 . 4$ ）将菌体重悬（ $: 2 0 ~ \\mathrm { m l }$ 裂解液重悬 $2 0 0 ~ \\mathrm { m l }$ 菌体)，超声破碎细胞，获得全蛋白；分别收集部分全蛋白，上清和沉淀，进行 $12 \\%$ SDS-PAGE电泳，鉴定表达融合蛋白存在于上清或沉淀[19]；同时采用蛋白免疫印迹方法鉴定所诱导蛋白是否为目的蛋白[20]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3融合蛋白 $6 \\times$ His-LZTFL1纯化将诱导表达后的菌体离心收集，加入裂解液/结合液（20 mmol/LNaH2PO4，0.5 mol/LNaCl,$2 0 \\mathrm { m m o l / L }$ 咪唑）超声波破碎，将上清液过 $0 . 2 2 \\mu \\mathrm { m }$ 滤膜后与1mlNi SepharoseTM6Fast Flow填料 $4 ^ { \\circ } \\mathrm { C }$ 结合过夜；收集流穿液，用5倍柱体积的洗涤缓冲液（同结合液）洗涤，去杂蛋白；再用和柱体积相同的洗脱缓冲液（20mmol/LNaH2PO4， $0 . 5 \\mathrm { m o l / L }$ NaCl， $6 0 \\mathrm { m m o l / L }$ 咪唑， $\\mathrm { p H } { = } 7 . 4$ ）依次洗脱5次。将纯化后的融合蛋白冻干，经PBS溶解为 $\\mathrm { { 1 \\ m g / m l } }$ ，存 $\\cdot 8 0 ^ { \\circ } \\mathrm { C }$ 备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4动物免疫实验首次免疫，取 $1 \\mathrm { m l }$ 融合蛋白与 $\\mathrm { 1 ~ m l }$ 弗氏完全佐剂完全混合，采用颈背部多点皮下注射法免疫新西兰大白兔，免疫前，经兔耳动脉采血 $1 0 0 ~ \\mu \\mathrm { l }$ 作为阴性对照血清。每隔10天加强1次免疫，共加强免疫4次，加强免疫取 $1 \\mathrm { m l }$ 融合蛋白与 $1 \\mathrm { m l }$ 弗氏不完全佐剂混合，免疫剂量及途径同初免。末次免疫一周后，经耳动脉采血 $1 0 0 \\mu \\mathrm { l } ^ { [ 2 1 ] }$ ，分离血清，间接ELISA法测定抗血清效价。将效价合格的家兔经股动脉采血，分离血清，于， ${ } . 8 0 ^ { \\circ } \\mathrm { C }$ 冻存。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5 多克隆抗体效价的测定采用间接ELISA法测定抗体效价[18]，将纯化后的融合蛋白 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 包被过夜，用 $5 \\%$ 的脱脂乳粉封闭；一抗为按照1:1000，1:2 000，1:4000,1:8 000，1:16 000，1:32 000，1:64000，1:128000，1:256000，1:512000稀释的抗血清及阴性对照血清；二抗为HPR标记的羊抗兔抗体IgG（1:20000 稀释），用TMB显色，酶标仪测定 $4 5 0 \\mathrm { n m }$ 处吸光度值。若试验组抗血清 $\\mathrm { O D } _ { 4 5 0 } /$ 阴性对照组抗血清 $\\mathrm { O D } _ { 4 5 0 } { \\geq } 2 . 1$ 判为阳性，则其最高稀释度便为抗血清的效价。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.6多克隆抗体纯化及检测采用纯化介质 ProteinASepharoseTMCL-4B纯化抗血清 [19]，将纯化后的抗血清稀释至 $\\mathrm { { 1 m g / m l } }$ 后， 置 $. 8 0 ^ { \\circ } \\mathrm { C }$ 保存。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用Westernblot法检测抗体特异性，取20$\\mu \\ g$ 经过蛋白定量处理的莱茵衣藻上清蛋白，加入上样缓冲液后，进行 $12 \\%$ SDS-PAGE电泳，电转至NC膜，封闭后以1:400的稀释比孵育多克隆抗体，二抗采用HRP标记的羊抗兔IgG（1:10000 稀释），进行ECL显色。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.7莱茵衣藻中LZTFL1蛋白的定位分别取对数期生长的野生型藻种CC-125和在LZTFL1基因C端添加GFP标签的转基因藻种进行双重验证，转基因藻种通过莱茵衣藻电转化法[I7]获得，将质粒Lztfl1::GFP::Paro 转入野生型藻种CC125核基因组，通过抗性标记筛选阳性克隆，通过Westernblot验证阳性克隆。采用免疫荧光技术对莱茵衣藻内LZTFL1蛋白进行定位分析，固定制片后，于室温下利用牛血清白蛋白（BSA）封闭 $^ { \\textrm { 1 h } }$ ，分别采用纯化后的LZTFL1多克隆抗体（1:10稀释比）和商业化GFP抗体（1:10 稀释比）室温孵育 $^ { 4 \\mathrm { h } }$ ，采用荧光标记羊抗兔/小鼠二抗室温孵育 $^ { \\textrm { 1 h } }$ ，封片后在荧光显微镜下拍照。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1重组质粒pET-28a(+)-Lztfl1的构建 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过RT-PCR扩增获得981bp的Lztfll基因，连接至载体后，转化挑取单克隆提质粒并酶切验证。图1显示C.reinhardtiiCC125总RNA提取结果；图2A显示PCR扩增产物，条带单一且大小正确；图2B 显示重组表达质粒pET-28a $( + )$ -Lztfl1阳性克隆双酶切验证结果，验证大小与预期结果一致，经测序验证结果正确，说明表达载体 $\\mathrm { p E T - } 2 8 \\mathrm { a } ( + ) { - } L z t f l I$ 构建成功。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7553dd4fc5050ca21379d254f2d9668fbd06184b9d35fe4f582c6619850db6f1.jpg",
+        "img_caption": [
+            "图1C.reinhardtiiCC125总RNA的提取"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/405afa71a11763b95ce6c11039375487f8641ab496d6bbaaae7766bf81440145.jpg",
+        "img_caption": [
+            "Fig.1Total RNA extract of $C r$ .CC125.1\\~4: The different "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3bc388e63e14162e41a548f7e24beac1d1d2c33c8708ae2f7749d6fd12cede8.jpg",
+        "img_caption": [
+            "图2LztflIPCR扩增及重组质粒双酶切 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2PCR amplification of Lztfl1 and identification of recombinant expression plasmid by restriction enzyme digestion.(A) PCR verification of Lztfll gene.M: 100 bp DNA Marker; 1:PCR product ofLztfl1 gene.(B) Restriction digestion analysis of pET-28a $( + )$ )-Lztfl1.M:1kb marker;1: pET-28a $( + )$ -Lztfl1 digested with EcoRI and XhoI. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2融合蛋白 $6 \\times$ His-LZTFL1诱导表达及纯化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "融合蛋白 $6 \\times$ His-LZTFL1由DNAMan预测大小约 $3 8 \\mathrm { \\ k D a }$ ，添加IPTG诱导后，经SDS-PAGE分析显示（图3A），在 $3 5 \\mathrm { { k D a } }$ 有明亮条带，且融合蛋白大多存在于上清中；进一步经蛋白免疫印迹用His-tag抗体检测证实该蛋白确定为目标蛋白（图3B）；将纯化后的蛋白冻干溶于PBS中，纯度可达 $90 \\%$ 以上，可作为免疫抗原（图4）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/da850b127d048cecf637aa523b1fd359a463b668d4aa6df5cfed14856faa0a1c.jpg",
+        "img_caption": [
+            "图3SDS-PAGE及蛋白免疫印迹检测重组蛋白在 $E .$ coli BL21(DE3）中的表达"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3SDS-PAGE and western blot analysis of the expression of recombinant protein in E. coli BL21 (DE3). (A) Expression of the recombinant protein $6 \\times$ His-LZTFL1.M: protein marker;1: the total protein ofBL21 lysates with ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$6 \\times \\mathrm { \\overrightarrow { \\Omega } }$ His-LZTFL1 before induced; 2: the total protein of BL21 lysates with $6 \\times$ His-LZTFL1 after induced; 2: the supernatant of BL21 lysates with $6 \\times$ His-LZTFL1 before induced; 3: the sediment ofBL21lysates with $6 \\times$ His-LZTFL1.(B) Western blot analysis with anti-His-tag.The lane isas same as (A). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/199c89511d335b7f3afc902402c59b507a8f762b4610534180a83f6a496e0fa5.jpg",
+        "img_caption": [
+            "图4SDS-PAGE分析纯化产物"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4SDS-PAGE analysis of the purified $6 \\times$ His-LZTFL1 recombinant protein by affinity purification.M: protein marker; 1: purified $6 \\times$ His-LZTFL1 recombinant protein. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3抗体的效价及特异性检测 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "抗血清检测参照纤毛内运输蛋白IFT46抗体制备方法[9]，采用间接ELISA法测定，抗血清滴定度达到1:512000（图5），Westernblot分析显示，纯化后的抗血清在 $3 5 \\mathrm { { k D a } }$ 处可见特异性结合条带，由此可知抗血清可与莱茵衣藻LZTFL1蛋白发生特异性结合（图6），表明所制备的多克隆抗体特异性良好。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/88ac99394bf5fa29317b5a69a117fe53976db6817ad5add92f53cf51a66f52f1.jpg",
+        "img_caption": [
+            "图6免疫印迹法验证抗血清特异性"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图5间接ELISA法测定抗血清效价 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Determination of anti-LZTFL1 polyclonal antiserum ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "byindirect ELISA. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ceb41726afd63afd46fd49bbe89e737fbbb9c1d4130bb9fc1555fa8ec7c48c4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 The specificity and sensitivity ofLZTFL1 anti-serum against C.reinhardtii by western blot. The wide-type C. reinhardtii CC125 was probed with affinity purified   \nanti-LZTFL1, in contrast, the pre-immune werum with no specific band.α -Tubulin as the internal reference. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4LZTFL1蛋白在莱茵衣藻中的定位",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用电转化法获得LZTFL1-GFP转基因藻种，转化效率可达 $10 \\%$ ，利用GFP抗体通过Westernblot初筛有信号的阳性克隆，融合蛋白大小约 $6 2 \\mathrm { k D }$ ，从信号克隆中复筛高表达量藻种，利用表达量最高的藻种进行免疫荧光实验，图7a为野生型藻种CC125与转基因藻种LZTFL1-GFP考马斯亮蓝染色，作为上样对照；图7b为利用GFP抗体检测结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1a371fabc23c2801b1964f85ac9adba9b99b295a560b93fcd146234c50a295a.jpg",
+        "img_caption": [
+            "图7LZTFL1-GFP转基因藻种筛选"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过免疫荧光技术对莱茵衣藻LZTFL1蛋白进行定位分析，图8，可通过荧光信号看出多克隆抗体可以与莱茵衣藻内的LZTFL1蛋白进行特异性结合，且该蛋白可以进入莱茵衣藻纤毛内，该蛋白在细胞和纤毛中均有分布，图8a显示野生型藻种中LZTFL1蛋白在纤毛中有红色荧光信号；图8b显示在转基因藻种中利用GFP抗体可检测到纤毛内的绿色荧光信号。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/32c66db1b1d6984c7c64f3801c0c654715c03cecc7414e1267784cc19233ddd5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb6390cece5514b3ed5b97ed1afe979e3c8704837d5d17c6bacba8709c21d5e2.jpg",
+        "img_caption": [
+            "图8免疫荧光检测LZTFL1蛋白在莱茵衣藻纤毛中的定位"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.8 Immunofluorescence analysis the flagella localization ofLZTFL1.(a) The polyclonal antibody ofLZTFL1 as the primary antibody,it showed that LZTFL1 is localized along the flagella.(b） The antibody of GFP as the primary antibody，it showed that LZTFL1 is localized along the flagella as punctuated dots. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "抗体是研究蛋白之间相互作用及共定位的必备工具，而使用原核生物制备多克隆抗体是实验室获得所需抗体的常用手段之一。本实验室常用的原核表达载体主要有 pET、pMAL、pGEX三大系列载体，pET系列载体含有6个组氨酸编码序列，可与外源蛋白融合表达后带有6个组氨酸的纯化标签，整个标签大小约为 $4 . 3 \\mathrm { { k D a } }$ ，一般不会影响蛋白的结构和功能；另外，通过组氨酸与金属离子！ $( \\mathrm { N i } ^ { 2 + }$ ）的螯合作用，对表达蛋白进行亲和纯化的方法体系日渐完善，因此本次实验优先选择 $\\mathrm { p E T - } 2 8 \\mathrm { a } ( + )$ 作为表达载体。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在诱导表达过程中，认为对温度以及IPTG浓度的控制是诱导能否成功的关键所在。高温诱导融合蛋白虽然表达量较高，但易于形成包涵体，变性后的蛋白由于其空间结构破坏，产生的抗体不利于后期实验研究，如免疫荧光。本次试验6xHis-LZTFL1融合蛋白经诱导后主要存在于上清蛋白中，所制备的抗体不仅可用于Westernblot，同时也可用于免疫荧光实验。由于目前没有LZTFL1蛋白抗体制备的报道，本实验室首次得到该抗体，为后期对莱茵衣藻LZTFL1蛋白在纤毛信号传导中所发挥的作用研究奠定了基础。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "另外在免疫荧光实验中，利用LZTFL1多克隆抗体得到的结果不及利用GFP抗体在转基因藻种上得到的效果明显，一方面可能由于制备的多克隆抗体相对于商业化的GFP抗体较差；其次可能由于转基因藻种存在基因过表达现象，以及利用抗体将信号放大，从而使得检测效果较为明显。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Merchant Sabeeha S,Prochnik Simon E,Vallon Olivier, et al. The Chlamydomonas genome reveals the evolution of key animal and plant functions[J]. Science (New York,N.Y.), 2007, 318 (5848):245\\~250. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2] Badano JL,Mitsuma N,Beales PL，et al.The ciliopathies:anemergingclassofhuman disorders.Annu Rev Genomics Hum Genet, 2006, 7:125-148.   \n[3] Aldahmesh MA,Li Y,Alhashem A,et al. IFT27, encoding a small GTPase component of IFT particles,is mutated in a consanguineous family with Bardet-Biedl syndrome.Hum Mol Genet, 2014,23 (12):3307-3315.   \n[4] Schaefer E,Lauer J,Durand M, et al. Mesoaxial polydactyly is a major feature in Bardet-Biedl syndromepatientswithLZTFL1(BBS17) mutations. Clin Genet, 2014,85 (5):476-481.   \n[5] Forsythe E and Beales P L. Bardet-Biedl syndrome. Eur JHum Genet,2013,21(1):8-13.   \n[6] Marion V, Stutzmann F, Gerard M, et al. Exome sequencing identifies mutations in LZTFL1，a BBSome and smoothened traficking regulator, in a family with Bardet--Biedl syndrome with situs inversus and insertional polydactyly. JMed Genet, 2012, 49 (5):317-321.   \n[7] Marion V, Mockel A， De Melo C， et al. BBS-induced ciliary defect enhances adipogenesis, causingparadoxicalhigher-insulinsensitivity, glucoseusage， anddecreased inflammatory response. Cell Metab,2012,16 (3):363-377.   \n[8] Zhang Q, Nishimura D, Seo S,et al. Bardet-Biedl syndrome 3(Bbs3） knockout mouse model reveals common BBS-associated phenotypes and Bbs3 unique phenotypes. Proc Natl Acad Sci U S A, 2011,108 (51):20678-20683.   \n[9] Yen HJ, Tayeh MK,Mullins RF,et al. Bardet-Biedl syndromegenesare important in retrograde intracellular trafficking and Kupffer's vesicle cilia function. Hum Mol Genet, 2006,15 (5):667-677.   \n10] Mykytyn K，Mullins RF，M Andrews,et al. Bardet-Biedl syndrome type 4 (BBS4)-null mice implicate Bbs4 in flagella formation but not global cilia assembly. Proc Natl Acad Sci U S A,2004, 101 (23):8664-8669.   \n[11] Kim JC，Badano JL， Sibold S，et al． The Bardet-Biedl protein BBS4 targets cargo to the pericentriolarregionandisrequiredfor microtubule anchoring and cell cycle progression. Nat Genet, 2004,36 (5):462-470.   \n'12] Jiang J, Promchan K, Jiang H, et al. Depletion of BBS Protein LZTFL1 Affects Growth and Causes Retinal Degeneration in Mice.J Genet Genomics, 2016,43 (6):381-391.   \n[13] Kiss H, Kedra D,Kiss C,et al. The LZTFL1 gene is a part of a transcriptional map covering $2 5 0 ~ \\mathrm { k b }$ within the common eliminated region 1 (C3CER1) in 3p21.3.Genomics,2001,73(1):10-19.   \n[14] Eguether T,San Agustin JT,Keady BT,et al. IFT27 links the BBSome to IFT for maintenance of the ciliary signaling compartment.Dev Cell, 2014, 31 (3):279-290.   \n[15] Seo S, Zhang Q,Bugge K,et al.A novel protein LZTFL1regulatesciliarytrafficking ofthe BBSome and Smoothened.PLoS Genet,2011，7 (11):e1002358.   \n[16] Wang Z, Fan ZC, Williamson SM, et al. Intraflagellar transport (IFT） protein IFT25 is a phosphoprotein component of IFT complex B and physically interacts with IFT27 in Chlamydomonas.PLoS One,2009,4(5):e5384.   \n[17] Fan ZC and Bird RC.An alternative $- 1 / + 2$ open reading frame exists within viral N(pro)(1-19) region of bovine viral diarrhea virus SD-1.Virus Res,2012,163 (1):341-351.   \n[18] Dong B, Wu S, Wang J，et al. Prokaryotic expression ，purification and polyclonal antibody preparation of the ChlamydomonasR einhardtii intraflagellartransportprotein （ IFT27). Biotechnology, 2016,26(6): 532-538. 董彬，吴淞，王晶，等．莱茵衣藻纤毛内运送蛋 白IFT27的原核表达纯化及多克隆抗体制备．生 物技术学报,2016,26(6):532-538.   \n[19] Ren HY,Dong B，Fan ZC,et al. Prokaryotic expression and purification of Chlamydomonas reinhardtiiintraflagellartransportprotein 46(IFT46) and preparation of polyclonal antibody. Chinese Journal of Biotechnology,2016,32(8): 1124-1132. 任海月，董彬，樊振川，等．莱茵衣藻纤毛内运 输蛋白IFT46的原核表达纯化及其多克隆抗体 的制备．生物工程学报.2016,32(8):1124-1132.   \n[20] Valcourt U,Gouttenoire J,Aubert-Foucher E,et al. AlternativesplicingoftypeI procollagen pre-mRNA in chondrocytes is oppositely regulated by BMP-2 and TGF-beta1.FEBS Lett,2003,545 (2-3): 115-119.   \n[21] Tian W，Dona B，Li ZF,et，al.Prokaryotic Expression，Purification and Polyclonal Antibody Preparation of Chlamydomonas reinhardtii IFT139 Protein Antigen. Journal of Tianjin University of Science & Technology.2016,31(8):27-33. 田伟，董彬，李振芳，等．莱茵衣藻IFT139 蛋 白抗原的原核表达、纯化及多克隆抗体的制备. 天津科技大学学报.2016,31(8):27-33. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Polyclonal antibody preparation and application of C.reinhardtii LZTFL1 protein ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LIU Yan-Xial FAN Zhen-Chuan1 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "InstituteofHealthotecnologyIteratioalCborativesearchenterforHealthiotehologyColgeofoodied Biotechnology,Tianjin University of Science and Technology,Tianjin 3oo457, China ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Leucine zipper transcription factor 1 (LZTFL1） is a protein associated with cilia signaling，and it is unclear about its function and mechanism in signal transduction. While Chlamydomonas reinhardtii as a model organism that studies the signal transmission of cilia, there is litle research on the LZTFL1 protein,and no corresponding antibody has been detected. Based on this phenomenon, polyclonal antibody of LZTFL1 was prepared for subsequent study. The aim was to clone and express C.reinhardtii Lztfll gene in Escherichia coli (E.coli). In this report the Lztfll gene of C.reinhardtii CC125 was amplified by RT-PCR,then was sub-cloned and heterologous expressed in E.coli BL21(DE3) using pET-28a $( + )$ expression vector. Fusion protein $6 \\times$ His-LZTFL1 was purified and immunized into New Zealand white rabbit so as to prepare polyclonal antibody. Finaly, the sensitivity and specificity of the polyclonal antibody were detected through indirect ELISA and Western blot, respectively.The anti-LZTFL1 showed high sensitivity (1:512 O00)and specificity.The above results indicate that Lztfll gene has been successfully cloned and expressed,and the rabbit anti- $C$ reinhardtii LZTFLl polyclonal antibody has been prepared,which laid the foundation for the study of the structure and function ofLZTFLl protein in C. reinhardtiiand its interaction in cilia signal transduction. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Chlamydomonas reinhardti LZTFL1 Protein affinity purification Polyclonal antibody Immunofluorescence ",
+        "page_idx": 9
+    }
+]

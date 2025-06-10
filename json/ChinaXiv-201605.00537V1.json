@@ -1,0 +1,403 @@
+[
+    {
+        "type": "text",
+        "text": "Candidate perennial bioenergy grasses have a higher albedo than annual row crops ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JESSE N. MILLER1,ANDY VANLOOCKE²\\*,NURIA GOMEZ-CASANOVAS? and CARL J. BERNACCHI1,2,3 1DepartmentoflantBiologyUniersityofIinois,201W.GregoryDrie196MadiganLab.,Urbana,I80A 2USDAARGobalangeandotosythsisesearchnit,rbna,8AEnergyiosiencesIitueite for Genomic Biology,Universityof Iinois,206W.Gregory Drive,Room1400,Urbana,IL 61801,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The production of perennial celllosic feedstocks for bioenergy presents the potential to diversify regional economiesand the national energy supply,while also serving as climate‘regulators'due toa number of biogeochemical and biogeophysical diferences relative to row crops.Numerous observational and model-based approaches have investigated biogeochemical trade-offs,such as increased carbon sequestration and increased water use,associated with growing cellulosic feedstocks.A lessunderstood aspect is the biogeophysicalchanges associated with the difference in albedo $( \\alpha )$ ，which could alter the local energy balance and cause local to regional cooling several times larger than that associated with ofseting carbon.Here,we established paired fields of Miscanthus $\\times$ giganteus (miscanthus) and Panicum virgatum (switchgrass),two of the leading perennial celulosic feedstock candidates,and traditional annual row crops in the highly productive Corn-belt'. Our results show that miscanthus did and switchgrass did not have an overall higher $\\alpha$ than current row crops, but a strong seasonal pattern existed. Both perennials had consistently higher growing season $\\alpha$ than row crops and winter $\\alpha$ did not differ. The lack of observed differences in winter $\\alpha ,$ however,masked an interaction between snow cover and species diferences,with the perennial species,compared with the row crops,having a higher $\\alpha$ when snow was absent and a much lower $\\alpha$ when snow was present. Overall, these changes resulted in an average net reduction in annual absorbed energy of about 5 W $\\bar { \\mathbf { m } } ^ { - 2 }$ for switchgrass and about 8 W $\\mathrm { m } ^ { - 2 }$ for miscanthus relative to annual crops.Therefore,the conversion from annual row to perennial crops alters the radiative balance of the surface via changes in $\\alpha$ and could lead to regional cooling. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "eyords:albedobionergy,iofuelops,cor,lnd-senge,scanthus,adativeforing,ow,bean,a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received16 April 2015;accepted18May 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A primary goal of bioenergy production was to reduce the emissions of carbon dioxide into the atmosphere (EPA,201O).Because of this focus on carbon,research hasaddressed the biogeochemical consequences of changing the landscape from traditional row crops to perennial biofuel feedstocks (Melillo et al.，20o9；Zeri et al.，2011；Anderson-Teixeira etal.，2012；VanLoocke et al.，2012；Smith & Torn,2013;Bagley et al.，2014a). Feedback associated with energy exchange between ecosystems and the atmosphere is strongly influenced by the type of land cover (Sellers et al.，1997).Land-use change from annual row crops to perennial biofuel crops can alter the land-atmosphere exchange and strongly influence regional climate via changes to surface albedo $( \\alpha )$ ,roughness length,and leaf area (e.g., Georgescu et al., 2009，2011). The biogeophysical effects associated with land-use change to perennial biofuel crops remain uncertain and can be influenced by altered surface reflectivity and changes in the total energy and the partitioning of energy into sensible,latent,and ground heat fluxes (Jorgensen et al., 2014; Mahmood et al.,2014). Energy partitioning at the land surface can strongly influence local and regional climate (Sellers et al.,1997), suggesting that altering the land surface for bioenergy production can have implications beyond carbon cycling. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two perennial grass species,Miscanthus $\\times$ giganteus (miscanthus) and Panicum virgatum (switchgrass),have been proposed as candidate cellulosic biofuel crops for the Midwestern United States (McLaughlin & Kszos, 2005；Heaton et al.，2008a,b)． These species emerge before and senesce after the annual row crops, Zea mays (maize) and Glycine max (soybean),that currently dominate the Midwestern U.S.landscape. Because vegetation has a higher $\\alpha$ than soil, the longer growing season associated with the perennial grasses could lead to higher $a$ during early spring and late fall when less soil is exposed relative to the row crops (Burba & Verma, 2001).The presence or absence of vegetation is,however，only one of many land surface factors that can influence $a$ (Pielke,2001).For example,the presence of snow cover，with an $\\alpha$ that approaches unity，is an important determinant of $a$ (Cherubini et al.，2012). However，the presence of litter or standing biomass, witharelativelylower $\\scriptstyle { \\alpha , }$ might intercept light before it reachessnowandalter theradiationbalanceof the surface (e.g.,Twine et al.,2004;Kucharik et al.,2013).Furthermore,perennial and annual crops are managed differently,with perennial fields usually left with standing biomass into the winter, which can provide more opportunities for masking snowfall in the perennial ecosystems compared to row crops that are typically harvested before winter starts.Finally，differences in leaf properties can alter $\\alpha$ among species.For example, leaf area index (LAI) between crops could be similar, but lower leaf nitrogen content of perennials relative to annuals (Nabity et al.，2012) could give perennials a higher $a$ (Bartlett et al.，2011；Wicklein et al.，2012). Therefore,land-use change from annual to perennial species is likely to influence $\\alpha$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Several modeling studies have investigated the potential climate impact of altering $a$ due to transitioning from annual row crops to perennial grasses (Lobell et al.，2006;Davis et al.，2009;Georgescu et al.，2009, 2011;Loarie et al.，2011;Bright et al.，2012；Anderson et al.，2013;Bagley et al.,2014a).Model simulations of the conversion from annual row crops to bioenergy crops in the Midwestern U.S. predict a shift in energy partitioning and altered surface reflectivity， which together have a cooling effect that is several times stronger than the potential cooling that would result from reduced carbon emissions (Georgescu et al.,2011). This cooling was modeled based on a small increase in $\\alpha$ $_ { ( < 0 . 0 2 ) }$ over most of the study domain.Similar results were obtained in another modeling study where perennial grasses replacing annual row crops were shown to reduce air temperaturesand increase humidity (Anderson et al.，2013). Observational studies addressing the impact of land-use change on local climate are more limited,although satellite observations showed regional cooling in Brazil following large-scale conversion from a cropland/pasture mosaic to sugarcaneplantations (Loarie et al.,2011). These modeling and satellite-based studies,however,lack ground-based measurements of $\\alpha$ over biofuel crops paired with measurements over existingagroecosystems for validation or calibration. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The objective of this study was to quantify, through direct measurements at the land surface, the change in $\\alpha$ associated with land conversion from traditional row crops (maize and soybean） to perennial feedstocks (miscanthus and switchgrass) over multiple years representing a wide range of climatic conditions.From the $\\alpha$ measurements,radiative forcing (RF) will be calculated to assess how potential changes in $a$ can influence the surface energy balance.In this study,we test the predictions that (i) transitioning from annual crops to perennial grasses will increase annual $\\alpha$ because perennials emerge before and senesce after soybean and maize and (ii) differences in management between crops,such as the length of time biomass is left standing in the field during winter,will alter the radiative properties of the surface, especially with regard to snowfall events.Specifically, we predict that when snow cover is present,annuals, which are harvested before winter and have relatively little litter,will have a higher $\\alpha$ than perennials,which are typically left standing through the winter and have highamounts of plant litter.These predictions are tested with direct $\\alpha$ measurements from multiple locations across central Illinois over maize,soybean,miscanthus, and switchgrass fields overa 5-year time period. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Site description ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study was conducted at three locations in Central Illinois, located in the MidwestU.S.‘Corn-belt':1) UniversityofIllinois' Energy Farm (UIEF) near Champaign,IL $( 4 0 . 0 6 4 ^ { \\circ } \\mathrm { N } _ { }$ $8 8 . 1 9 7 ^ { \\circ } \\mathrm { W } )$ . 2)University of Illinois South Farms/SoyFACE research facility (UISF) near Champaign, IL $( 4 0 . 0 4 2 ^ { \\circ } \\mathrm { N }$ $8 8 . 2 3 5 ^ { \\circ } \\mathrm { W } )$ ,and 3)Universityof Ilinois Dudley Smith Farms (UIDS)near Pana,IL $( 3 9 . 4 4 1 ^ { \\circ } \\mathrm { N }$ 、 $8 9 . 1 2 1 ^ { \\circ } \\mathrm { W } )$ .Typical of much of the Midwestern 'Corn-belt',the climate of these sites is highly seasonal,with monthly average temperatures in winter below $0 ~ ^ { \\circ } \\mathrm { C }$ and above $2 0 ~ ^ { \\circ } C$ in summer months (Zeri et al.,2011).Experimental plots at UIEF(described in Zeri et al.,2011) consisted of $0 . 4 \\mathrm { H a }$ plots of miscanthus,switchgrass,and a rotation sequence of maize (2008,2009,2011,2012)and soybean (2010). The row crops were managed according to standard agricultural practices and the perennials with best-known practices (e.g.,Zeri et al.,2011). Miscanthus and switchgrass at UIEF were established in 2008, and measurements were collected from mid-2oo8 through 2012. Experimental plots at UISF (described in Dohleman & Long, 2009）consisted of two $0 . 2 \\ \\mathrm { H a }$ miscanthus stands established in 2005 with data collected from mid-2010 through 2012. Experimental plots at UIDS (described in Prasifka et al.,2011) consisted of two $0 . 2 \\mathrm { H a }$ plots each of miscanthus,switchgrass, and soybean.The miscanthus and switchgrass plots at UIDS were established in 2005.Measurements from UISF and UIDS were collected from mid-2010 through 2012. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Datacollection and instrumentation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "At each site,a full suite of meteorological data were measured at 10-s intervals and stored as 30-min averages.Incoming shortwaveradiation (wavelengths $3 1 0 { - } 2 8 0 0 ~ \\mathrm { n m }$ ）wasmeasured using either the up-facing pyranometer of a four-channel net radiometer (Model CNR1,Kipp and Zonen,Delft, the Netherlands) or an up-facing stand-alone pyranometer (Model CMP3, Kipp and Zonen).Each plot was equipped with a net radiometer (either a CNR1 or CNR 2,Kipp and Zonen).All meteorological sensors within a plot were connected to a datalogger (CR1000 or CR3000, Campbell Scientific,Logan,UT,USA). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Calculating albedo and radiative forcing ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Albedo $( \\alpha )$ was calculated as the ratio of outgoing (reflected) shortwave radiation to incident shortwave radiation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha = { \\frac { \\mathrm { s w } _ { \\mathrm { o u t } } } { \\mathrm { s w } _ { \\mathrm { i n } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { s w _ { o u t } }$ is the $3 0 \\mathrm { - m i n }$ average outgoing radiation,and $\\mathsf { s w } _ { \\mathrm { i n } }$ is the $3 0 \\mathrm { - m i n }$ average incoming radiation.The UIDS and UISF instrumentation utilized two-channel net radiometers.Therefore，an additional pyranometer (Model CMP3，Kipp，and Zonen) was centrally located at each of these sites to provide $\\mathrm { s w _ { i n } }$ .For these plots, $\\alpha$ was calculated as: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha { = } \\frac { \\mathrm { s w _ { i n } - s w _ { n e t } } } { \\mathrm { s w _ { i n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis of $\\alpha$ was limited to midday (10:00 to 14:00 Central Standard Time) values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The difference in RF between the perennials and annual row crops $( \\Delta _ { \\mathrm { R F } } )$ was calculated from incoming solar radiation at each 30-min time step multiplied by the difference in seasonal mean $\\alpha$ between cellulosic crops and annual row crops: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta _ { \\mathrm { R F } } = \\mathrm { s w } _ { \\mathrm { i n } } \\times \\Delta \\alpha\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathsf { s w } _ { \\mathrm { i n } }$ is the half-hourly averaged incident shortwave radiation received at each site from sunrise to sunset and $\\Delta \\alpha = \\alpha _ { \\mathrm { R o w C r o p } } \\mathrm { - } \\alpha _ { \\mathrm { C e l l u l o s i c C r o p , } }$ where $\\alpha$ are midday values averaged across all years for the given season and crop. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data were analyzed using the sAs statistical software package (System 9.3, SAS Institute Inc.,Cary,NC,USA).Differences in annual， seasonal,and snow-covered vs. nonsnow-covered $\\alpha$ were analyzed by mixed models analysis of variance using the MIXED procedure of SAS with year and crop as fixed effects. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the annual and seasonal analyses, the midday values of αwere averaged for each day,and means for each plot were determined. Statistics were performed on albedo with year as a random effect and the mean value for each plot as a replicate. The growing season included from April through October (day of year 91 for regular years and 92 for leap years through 304), and winter included all other days.These seasons were defined based on previous measurements at the University of Illinois Energy Farm on the same species (Zeri et al.,2011) and were intended to compare these three ecosystems under similar time periods.Predicted population margins for within-year differences were computed via a least squares means test.For all tests,the statistical significance was evaluated at $P \\leq 0 . 1$ .The analysis of snow-covered and nonsnow-covered $\\alpha$ was similar to the seasonal analysis described above except that daily mean $\\alpha$ data were used and the presence of snow cover was added asa main effect. Seasonal $\\alpha$ range is defined as the difference between the highest $\\alpha$ and the lowest $\\alpha$ that occurred across all years of study for the specified season. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Miscanthushadhigherαthantraditionalrowcrops,but switchgrassdiffers neither frommiscanthusnortherow crops ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The year by species interaction was not statistically sig nificant,but there was a statistically significant difference among crop type.Over the course of the study,annual average $\\alpha$ for miscanthus was higher than the row crops $( P < 0 . 0 2 )$ ，but the difference between switchgrass and row crops was not statistically different (Fig.1a). The observed response within each year followed a similar trendto thatobserved for thedatasetasawhole. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The perennial grasses had higher α during the growing season relative to the row crops ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Over the course of the study，growing season mean $\\alpha$ for the perennial grasses was consistently higher than for row crops and $\\alpha$ for miscanthus was higher than for switchgrass (Fig.1b).This pattern is similar to the annual mean values (Fig.1a) except that the differences between switchgrass and the other species were statistically significant，and the values were much lower (Fig.1b).In the early part of the growing season, from April through June, $\\alpha$ of the perennials was in general much higher than annuals,but $\\alpha$ for the annual row crops increased in July and August when these species have closed canopies (Fig. 2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/58371c961c7f10ad7c6ece4b37694a2e3a5fdc43c39ff401e00e4a006ea5040c.jpg",
+        "img_caption": [
+            "Fig.1 Annual mean albedo $( y \\cdot$ -axis，unitless）for miscanthus (white bars)，switchgrass (gray bars)，and row crops (black bars）averaged across the entire year (a),the growing season (b),and winter (c).Error bars represent $1 \\pm { \\mathrm { S E } }$ Groupings of different letters indicate statistical differences evaluated at $P \\leq 0 . 1$ .Avgrefers to the average of the 5 years. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Winter albedo did not differ among species,but the interaction of the species and snow cover showed large differences ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Averaged across the experiment asa whole,winter $\\alpha$ for the species showed an opposite trend,although without statistically resolvable differences，than was observed during the growing season (Fig.1c). There was large variation in $\\alpha$ from year-to-year.The mean season $\\alpha$ in 2010 and 2011 was highest for switchgrass and the row crops,and in 2012 was the lowest for all species. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Over the period of study and for all crops and years, dayswith snow hadhigher $\\alpha$ than days without snow (Fig.3).However, the difference in $\\alpha$ for snow vs. no-snow conditions showed opposite patterns of $\\alpha$ when comparing the different species (Fig.3)． Mean $a$ for perennial crops was higher than for row crops when snow was absent but substantially lower than for the row crops when snow was present (Fig. 3). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SpeciesdifferenceinαhadalargeimpactonRFat the ground surface ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Averaged across the whole year, the diurnal RF cycle was lower for the perennial grasses relative to the annual row crops with the greatest difference at midday (Fig.4).The peak daily difference in annual mean RF between the perennial grasses and the row crops was about $8 \\mathrm { ~ W ~ m ~ } ^ { - 2 }$ for switchgrass and $1 5 \\mathrm { ~ W ~ m ~ } ^ { - 2 }$ for miscanthus (Fig.4). The RF difference between the perennial grasses and row crops in the summer was twice that of the annual means (Fig. 4),although this was largely driven by higher incoming solar radiation during the summer (data not shown). The mean annual RF calculated based on annual mean $a$ differences,and the annual mean incoming solar radiation resulted in a net reduction in absorbed energy of about $5 \\mathrm { ~ W ~ m ~ } ^ { - 2 }$ for switchgrass and $8 \\mathrm { ~ W ~ m ~ } ^ { - 2 }$ for miscanthus relative to annual crops (Fig. 4). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c66cdf5bdd235c56139899ac52103ef37ed4ca1ceee473341341bd092e6b8483.jpg",
+        "img_caption": [
+            "Fig.2Monthly average albedo（ $\\langle y$ -axis,unitless）for miscanthus (white bars),switchgrass (gray bars),and row crops (black bars）averaged across the entire study.Error bars represent $1 \\pm \\mathrm { S E }$ .Groupings of different letters indicate statistical differences within each month evaluated at $P \\leq 0 . 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This study tested the prediction that land surface $\\alpha$ will shift as annual row crops transition to biofuel feedstocks.Analysis of 5 years of direct $\\alpha$ measurements indicates that the perennial biofuel crop miscanthus has an overall higher $\\alpha$ than current annual crops,and while switchgrass did not differ from the other species,there was a strong seasonal factor when comparing all species.Perennials are shown to have consistently higher growing season $\\alpha$ compared to annuals but not during thewinter.The results show that winter $\\alpha$ is influenced by an interaction between species and the presence of snow.Analysis of data collectedin the absence of snow shows relatively similarresultsas observed during the growing season，but when snow is present，it is obscured by standing biomass and presence of litter within the perennial grasses. The results show that, while agricultural ecosystems do not necessarily represent a strong ability to ameliorate anthropogenic climate change(Anderson-Teixeiraet al.， 2012)， large-scale planting of perennial grasses as feedstocks for renewable energy can have a net annual effect of cooling the terrestrial surface by reflecting more shortwave radiation back to space compared to annual row crops,but interactions with climatic conditions can cause this response toreverse. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca454e64095bda427e6dd8971aed198b9934853373a7374266b9f1e1ff227932.jpg",
+        "img_caption": [
+            "Fig.3Mean albedo $( y$ -axis；unitless) for miscanthus (white bars),switchgrass (gray bars),and row crops (black bars) averaged across winter days without snow (solid bars) and winter days with snow (hatched bars).Error bars represent $1 \\pm { \\mathrm { S E } }$ Groupings of different letters indicate statistical differences evaluated at $P \\leq 0 . 1$ .Analyzed separately for each year,upper case letters compare the response of different crops to periods of snow cover and lower case letters compare the response of different crops to periods without snow cover. Avg refers to the average of the 5 years. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6db9ee87c391ba2e5f94f8eee712dc586032686f5a0194f065c4a7609c2f6dc.jpg",
+        "img_caption": [
+            "Fig.4 The diurnal radiative forcing (RF) of row crops compared to the perennial crops switchgrass (top) and miscanthus (bottom),averaged across all sites and years for summer (triangles),winter (squares),and the whole year (circles).Daily mean values are also shown for each of the above (filled symbols). Each point represents a $3 0 \\mathrm { - m i n }$ average across all years of the experiment.Error bars represent $1 \\pm { \\mathrm { S E } }$ .Standarderror values are smaller than symbols used for means. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Overall, the annual mean α for all crops in this study ranged between 0.202 and 0.222 (Fig. 1a),which is comparable to previously reported $\\alpha$ values for grasses and row crops(Kuhn & Suomi，1958；Fritschen，1967; Robock,1980;Betts & Ball,1997;Krishnan et al.,2012). For example,maize $\\alpha$ has been reported between 0.16 and 0.22 (Campbell & Norman, 1998). Our row crop annual mean $\\alpha$ measurements fall closer to the upper end of previously reported values. This is possibly due to the higher LAI of modern, densely planted,crop varieties(e.g.，Duvick,2005;Sacks & Kucharik,2011） compared to those in older studies.Albedo in unmanaged grass ecosystems has been reported between O.24 and 0.26(Campbell & Norman,1998),which would place our measurements of perennial annual mean $\\alpha$ nearer the low end.As the perennial grasses in our study were in a managed agricultural field,instead of unmanaged grasslands, the perennial $\\alpha$ can be expected to be intermediate between natural grasslands and managed agriculture. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From our direct observations,miscanthus had the highest growing season mean $\\alpha$ of the crops studied, followed by switchgrass, then the row crops (Fig. 1b). The pattern of $\\alpha$ ranking between crops was consistent across all years of study,and inter-annual variation was small. Differences in growing season $\\alpha$ between crops aremost likely due to differences in LAI,which，for agricultural crops，is influenced by planting density, plant morphology，and canopy architecture (Campbell & Norman,1998),as well as phenology.Early in the growing season， the differences among species were maximal, with the perennial grasses having consistently higher $a$ (Fig.2).At the peak of the growing season (August, September),however,all crops had closed and generally homogeneous canopies with high LAI (Zeri et al.,2011) so that light interception by the canopy was nearly $100 \\%$ and differences in $\\alpha$ between crops were reduced. Early in the growing season，however，miscanthus and switchgrass had higher $\\alpha$ than the row crops,converging with the row crops by July until the end of the growing season (Fig.2). An $a$ saturation point was likely reached with respect to LAI (Bsaibes et al.,2009;Zhao et al.,2012),whereby further increases in LAI, from year-to-year stand development changes, for example,do not change $\\alpha$ .In the early part of the growing season (May and June)，however，row crops had lower LAI (Zeri et al.,2011） and $\\alpha$ than perennial crops due to their later planting (Table 1）and their necessity to start from seed rather than from rhizomes that overwintered belowground. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Theradiative balance of ecosystems is susceptible to drought conditions and other environmental stresses thataremanifestedasreductionsinLAI andlowered $\\alpha$ (Wanjura & Hatfield,1988;Burba & Verma,2001).Due to their deep-rooting nature，perennial species tend to be more resilient to drought stress than row crops (Hamilton et al.，1999;Heaton etal.，2008b;Propheter et al.,201o). This study occurred over a severe drought that began developing in the Midwestern U.S. during 2011 and reached its apex in 2012 (Karl et al.，2012; Mallya et al.,2013). Growing season measurements of $\\alpha$ during 2012 were slightly lower than values observed in the preceding year (Fig. 1b).During the drought, there was significant observable damage to maize and a reduced LAI (data not shown),which likely contributed to the decrease in $\\alpha$ relative to previous years (Karl et al.,2012). The impact of the drought on LAI was minimal in the perennial crops (data not shown). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/01a4ae4a59d596f2b756f8707eec4943de889a161e2cf7c69585552ea9832c34.jpg",
+        "table_caption": [
+            "Table1 Management Dates "
+        ],
+        "table_footnote": [
+            "\\*Mowed on June 30,July 17,and September 4 in 2008 to assist with establishment. ↑Harvested in spring before the start of the experiment. \\$Manually harvested and tilled. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Location</td><td rowspan=\"2\">Year</td><td colspan=\"2\">Miscanthus giganteus</td><td colspan=\"4\">Maize-maize-soybean</td><td colspan=\"2\">Panicum virgatum*</td></tr><tr><td>Planted</td><td>Harvested</td><td>Crop</td><td>Planted</td><td>Harvested</td><td>Tilled</td><td>Planted</td><td>Harvested</td></tr><tr><td rowspan=\"5\">UIEF</td><td>2008</td><td>June 2-16</td><td></td><td>Maize</td><td>May 6</td><td>October 28</td><td>October 29</td><td>May 28</td><td></td></tr><tr><td>2009</td><td>May 21-27</td><td></td><td>Maize</td><td>May 12</td><td>November 3</td><td>November 12</td><td>1</td><td>1</td></tr><tr><td>2010</td><td>April 19-21</td><td>March 19</td><td>Soy</td><td>May 25</td><td>October 12</td><td>Not tilled</td><td></td><td>March 19,November 19</td></tr><tr><td>2011</td><td>1</td><td>March 19</td><td>Maize</td><td>May 12</td><td>October 6</td><td>October 11</td><td></td><td>December 12</td></tr><tr><td>2012</td><td>1</td><td>January 10</td><td>Maize</td><td>May 14</td><td>September 20</td><td><October 4</td><td>1</td><td>November 28</td></tr><tr><td rowspan=\"3\">UIDS</td><td>2010</td><td>2005</td><td>-</td><td>Soy</td><td>June 1</td><td>October 15‡</td><td>November 23‡</td><td>2005</td><td></td></tr><tr><td>2011</td><td></td><td>March 31</td><td>Soy</td><td>May 19</td><td>November 1</td><td>November 2</td><td></td><td>March 31</td></tr><tr><td>2012</td><td></td><td>March 27</td><td>Soy</td><td>May 19</td><td>October 4</td><td>November 9</td><td></td><td>March 27</td></tr><tr><td rowspan=\"3\">UISF</td><td>2010</td><td>2005</td><td>-†</td><td></td><td>_-_</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>2011</td><td></td><td>March 21</td><td></td><td></td><td>一</td><td>1</td><td>1</td><td></td></tr><tr><td>2012</td><td></td><td> January 14</td><td>1</td><td></td><td>1</td><td>1</td><td>1</td><td>1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Despite the absence of green vegetation present outside of the growing season，α was influenced by ecosystem- and management-related factors on each vegetation type.Although differences in winter mean $\\alpha$ between crops were not resolvable due to high interannual variability, row crops had slightly higher $\\alpha$ than the perennials,and switchgrass $\\alpha$ was slightly higher than miscanthus (Fig.1c).It is likely that these results alone mask the influence of the interaction between plant litter and snow cover. Annual row crops are typically harvested in autumn,before the first snowfall,while perennials often remain standing throughout the winter.Even after harvest, perennial ecosystems have a much larger litter layer due to both leaf fall and a lack of tillage.In annual row crop fields,snowfall can easily blanket the litter layer and the soil, providing a specular surface from which sunlight is reflected.As predicted, row crops exhibited a dramatic increase in $a$ during periods with snow cover (Fig.3).In perennial crop fields with standing biomass,however,the snow settles down between the stalks and rarely covers the entire plant. This resulted inamoremoderate increase in $\\alpha$ with snowfall and a muted annual minimum-maximum range of $\\alpha$ for perennial biofuel crops relative to annual crops. Years with less snowfall resulted in all crops having lower winter α and less dramatic changes between seasons, suggesting that snow depth,in addition to the presence of snow,isa factor in the interaction between species and albedo.As climate change is predicted to alter precipitation patterns (Wuebbles&Hayhoe,2oo4;Andresen et al.,2013),the snow effect on $\\alpha$ with increasing transition to perennial grasses is uncertain.While most of the Midwestern U.S. is expected to see less snow cover with increasing temperature，some regions,such as downwind of the Great Lakes,might see increased snowfall (Kunkel et al.,2002;Burnett et al.,2003;Andresen et al., 2013). The $\\alpha$ -related climate forcing from planting perennials could be either magnified or muted, depending on whether snow decreases or increases，respectively. In locations devoid of snow,perennial grasses are likely to maintain higher albedo,similar to observations from during the growing season, over the entire year. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The timing of harvest and the depth of snow might determine when perennials will change from a regime of relatively constant $\\alpha$ into its more variable，snowdependent winter regime.Itis likely that, over mid-latitude agricultural areas,the longer duration in which perennials remain standing during winter months will lower $\\alpha$ andamoderateddifference between snow-and nonsnow-covered $\\alpha$ will be observed.Further research should aim to better quantify the effect of harvest timing and/or snow depth on $\\alpha ,$ especially in regions susceptible to snowfall, and how this might affect regional energybalance. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The observed differences in $\\alpha$ associated with the different crops are likely to have a profound influence on the surface energy budget.In this study, the plot sizes were relatively small, so the effect of varying albedos on meteorological conditions such as air temperature and relative humidity could not be resolved.However,even minor differences in $\\alpha$ can have a profound influence on local and regional conditions (Charney et al.,1977; Betts, 2000; Lobell et al.,2006; Meng et al.,2014). Here,we calculated the predicted change in radiative forcing (RF) at the ground surface that corresponded to a change in $\\alpha$ from the annual row crops to the perennial grasses.In terms of the surface energy balance,changing a landscape from annual row crops to miscanthus,overall, resulted in a negative RF of about $8 ~ \\mathrm { W ~ m } ^ { - 2 }$ and to switchgrass of about $5 \\mathrm { ~ W ~ m ~ } ^ { - 2 }$ (Fig.4).This decrease is likely to have a local cooling effect,and based on model predictions,can have a significant impact on mean growing season temperatures (Copeland et al.，1996; Bonan,1997;Twine et al.,2004; Georgescu et al.,2009, 2011;Mahmood et al.,2014).Ourresults showa difference in both annual mean and growing season mean $\\alpha$ between row crops and perennials greater than the assumed α changes used in previous studies (e.g., Lobell et al.2006;Georgescu et al.,2009,2011). Therefore,the temperature effect that can be expected based on our measurements is likely near the upper end of published estimates of surface cooling of $0 . 9 ~ ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "There was strong seasonality associated with the effect on RF,ranging from 4 W $\\mathrm { m } ^ { - 2 }$ increase during the winter and up to a 27 W $\\mathrm { m } ^ { - 2 }$ decrease during the growing season for the perennial grasses relative to the row crops. In terms of peak maximum solar radiation $( \\sim 1 0 0 0 ~ \\mathrm { W ~ m } ^ { - 2 } )$ the range of values is relatively small but in terms of the RF associated with anthropogenic increases in greenhouse gases( $\\mathsf { z a } \\ 2 \\ W \\ \\mathbf { m } ^ { - 2 } ,$ ：IPCC,2013) these values are quite large. While the impact of these changes on $\\alpha$ is unlikely to have a major impact on global RF,an expanding bioenergy agricultural sector relying increasingly on perennial grasses is likely to drive local and regional changes,which can potentially vary with season and meteorological conditions (e.g.,Bagley et al.,2014b). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Albedo isa critical land surface parameter that affects the partitioning of the energy received at the surface. Therefore,it must be considered when evaluating the sustainability of potential bioenergy cropping systems (Hess et al.，2003;Carroll & Somerville，2009；Haberl et al.，2010; Jorgensen et al.，2014). The biogeophysical effects stemming from $\\alpha$ differences must be weighed alongside the biogeochemical effects associated with greenhouse gas offsets from using cellulosic-derived ethanol.Here,we observed that miscanthus crops have higher overall $a$ than annual row crops，which is consistent with previous model-based predictions (e.g., Georgescu et al.,2009,2011) and that a strong seasonal pattern existed for all crops.However,α represents only one biogeophysical effect. In particular，widespread planting of perennial biofuel crops,which tend to have substantial above-ground biomass and deeper roots that sustain transpiration rates longer than annual crops, would likely alter the hydrologic balance of the region and have been addressed previously (Lobell et al., 2006; Georgescu et al.，2009，2011；VanLoocke et al.，2010, 2012；Zeri et al.，2011；Anderson-Teixeira et al.，2012; ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Anderson et al.,2o13).Increased latent heat flux associated with perennial grasses relative to row crops could add to the regional cooling caused by higher $\\alpha$ while accelerating the cycling of moisture from the land to the atmosphere,which would have downstream effects on precipitation patterns (Bagley et al.,2012).The net biogeophysical impact of large-scale biofuel-related landuse change,therefore,requires additional investigation to form a more complete picture of the conversion of land area away from annual row crops and to perennial biofuel crops. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The authors wish to acknowledge Alex Crisel,Robert Nystrom, Aaron Letterly,Kyle Dawson,and Christina Burke for assisting in data collection and equipment maintenance and Marcelo Zeri and Ursula Ruiz-Vera in assisting with various aspects of experimental setup and data interpretation.The authors further acknowledge GaryLetterlyandRon Sloan forprovidingaccess to the Dudley Smith Farms.This study was funded by the Energy Biosciences Institute,University of Ilinois at UrbanaChampaign and the USDA. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Anderson CJ,Anex RP,Arritt RW,Gelder BK,Khanal S,Herzmann DE,Gassman PW (2013) Regional climate impacts of a biofuels policy projection. Geophysical Research Letters,40,1217-1222.   \nAnderson-Teixeira KJ,Snyder PK, Twine TE,Cuadra SV, Costa MH,DeLucia EH (2012) Climate-regulation services of natural and agricultural ecoregions of the Americas.Nature Climate Change,2,177-181.   \nAndresen JA,Hilberg SD,Kunkel KE (2013)Historical climate and climate trends in theMidwestern United States.In:Climate Change in the Midwest:A Synthesis Report for theNational ClimateAssessment (edsWinkler JA,Andresen JA,Hatfield JL,Bidwell D,Brown D),pp. 8-36.Island Press,Washington, DC.   \nBagley JE,Desai AR,Dirmeyer PA,Foley JA (2012) Effects of land cover change on moisture availability and potential crop yield in the world's breadbaskets. Environmental Research Letters,7,014009.   \nBagley JE, Davis SC,Georgescu M et al.(2014a) The biophysical link between climate,water,nd vegetation in bioenergy agro-ecosystems.Biomas and Bioenergy, 71, 187-201.   \nBagley JE,Miller J, Bernacchi CJ (2014b) Biophysical impacts of climate-smart agriculture in the Midwest United States.Plant, Cell $\\mathcal { E }$ Environment. doi: 10.1111/ pce.12485. [Epub ahead of print].   \nBartlett MK,Ollinger SV，Hollinger DY,Wicklein HF,Richardson AD (2011) Canopy-scale relationships between foliar nitrogen and albedo are not observed in leaf reflectance and transmitance within temperate deciduous tree species. Botany-Botanique,89,491-497.   \nBetts RA (20oo) Offset of the potential carbon sink from boreal forestation by decreases in surface albedo.Nature, 408,187-190.   \nBetts AK, BallJH(1997)Albedo over the boreal forest. Journal of Geophysical Research: Atmospheres (1984-2012),102,28901-28909.   \nBonan GB (1997) Effects of land use on the climate of the United States.Climatic Change,37,449-486.   \nBright RM, Cherubini F, Stromman AH (2012) Climate impacts of bioenergy: inclusion of carbon cycle and albedo dynamics in life cycle impact assessment. Environmental Impact Assessment Review,37,-11.   \nBsaibes A, Courault D,Baret F et al. (2009)Albedo and LAI estimates from FORMOSAT-2 data for crop monitoring.Remote Sensing of Environment,113,716-729.   \nBurba GG,Verma SB (2o01)Prairie growth,PAR albedo and seasonal distribution of energy fluxes.Agricultural and Forest Meteorology,107,227-240.   \nBurnett AW,Kirby ME,MullinsHT,Patterson WP (2003) Increasing Great Lake-effect snowfall during the twentieth century: a regional response to global warming?Journal of Climate,16,3535-542.   \nCampbell GS,Norman JM (1998)An Introduction to Environmental Biophysics. Springer Science & Business Media, New York, NY.   \nCarroll A,Somerville C (20o9)Cellulosic biofuels.Annual Review of Plant Bology,60, 165-182.   \nCharney J Quirk WJ,Chow SH,Kornfield J(1977) A comparative study of the effects of albedo change on droughtin semi-arid regions. Journal of the Atmospheric Sciences,34,1366-1385.   \nCherubini F,Bright RM,Stromman AH (2012) Site-specific global warming otentials of biogenic $\\mathrm { C O } _ { 2 }$ for bioenergy: contributions from carbon fluxes and albedo dynamics. Environmental Research Letters,7.doi: 10.1088/1748-9326/7/4/045902.   \nCopeland JH, Pielke RA,Kitel TG (1996)Potential climatic impacts of vegetation change: a regional modeling study. Journal of Geophysical Research: Atmospheres (1984-2012),101,7409-7418.   \nDavis SC,Anderson-Teixeira KJ, DeLucia EH (2009)Life-cycle analysis and the ecology of biofuels.Trends inPlantScience,14,40-146.   \nDohleman FG,Long SP (2009) More productive than maize in the Midwest: how does Miscanthusdoit?PlantPhysiology,150,104-2115.   \nDuvick DN (20o5) The contribution of breeding to yield advances in maize (Zea mays L.). Aduances in Agronomy, 86,83-145.   \nEPA (2010) Renewable Fuel Standard Program: (RFS2) Regulatory Impact Analysis EPA-420-R-10-006,February2010.Availableat:htp://www.epa.gov/otaq/renewablefuels/index.htm (accessed 12 May 2013).   \nFritschen LJ (1967) Net and solar radiation relations over irrigated field crops.Agricultural Meteorology,4,55-62.   \nGeorgescu M,Lobell DB,Field CB (20o9) Potential impact of US biofuels on regional climate. Geophysical Research Letters,36.doi: 10.1029/2009GL040477.   \nGeorgescu M,LobellD,FieldC(2Ol1) Directclimateeffctsofperennialbioeergy crops in the United States.Proceedings of theNational Academy of Sciencesof the United Statesof America,108,4307-4312.   \nHaberl H,Beringer T, Bhattacharya SC,Erb KH,Hoogwijk M(2010)The global technical potential of bio-energy in 2050 considering sustainability constraints. Current Opinion in Enoironmental Sustainability,2,394403.   \nHamilton JG,Holzapfel C, Mahall BE (1999) Coexistence and interference between a native perennial grass and non-native annual grasses in California. Oecologia,121, 518–526.   \nHeaton EA, Dohleman FG,Long SP (2008a) Meeting US biofuel goals with less land: the potentialof Miscanthus.GlobalChangeBiology,14,200014.   \nHeaton EA,Flavell RB,Mascia PN,Thomas SR, Dohleman FG, Long SP (2008b) Herbaceous energy crop development: recent progress and future prospects. Current Opinionin iotechnology,19,0-209.   \nHess JR,Foust TD,Hoskinson R,Thompson D (20o3) Roadmap for Agriculture Biomass Fedstock Supply in the United States(No.DOE/NE-ID-11129).Department of Energy (DOE), Washington, DC.   \nIPCC (013)Technical summary.In: ClimateChange 2013:The Physical Science Basis. Contributionof Working Group I to theFifth Assessment Reportof the Intergoernmental Panel on ClimateChange (eds Stocker TF,Qin D,Plattner G-K,Tignor M,Allen SK, BoschungJ NauelsA,XiaY,Bex V,MidgleyPM),pp.33-115.Cambridge University Press,Cambridge，UK and New York,NY，USA.doi:10.1017/ CBO9781107415324.005.   \nJorgensen SV,Cherubini F,Michelsen O (2014) Biogenic $\\mathrm { C O } _ { 2 }$ fluxes, changes in surface albedo and biodiversity impacts from establishment of a Miscanthus plantation. Journal of Environmental Management,146,346-354.   \nKarl TR,Gleason BE,Menne MJ et al.(2012) US temperature and drought: recent anomaliesand trends.Eos,TransactionsAmerican Geophysical Union,93,473-474.   \nKrishnan P,Meyers TP,Scot RL,Kennedy L,Heuer M (2012) Energy exchange and evapotranspiration over two temperate semi-arid grasslands in North America. AgriculturalandForestMeteorology,153,1-44.   \nKucharik CJ, VanLoocke A,Lenters JD,Motew MM (2013) Miscanthus establishment and overwintering in the Midwest USA: a regional modeling study of crop residue management on critical minimum soil temperatures.PLoS ONE,8, e68847.   \nKuhn PM, Suomi VE (1958)Airborne observations of albedo with a beam reflector. Journalofeeoology5,774.   \nKunkel KE,Westcott NE,Kristovich DA (2002) Assessment of potential effects of climate change on heavy lake-effect snowstorms near Lake Erie. Journal of Great Lakes Research,28, 521-536.   \nLoarie SR,Lobell DB,Asner GP,Mu Q,Field CB (2011) Direct impacts on local climate of sugar-cane expansioninBrazil.Nature ClimateChange,1,0509.   \nLobell DB, Bala G, Duffy PB (2006) Biogeophysical impacts of cropland management changes on climate. Geophysical Research Letters,33.doi: 10.1029/2005GL02549.   \nMahmood R,Pielke RA,Hubbard KG et al. (2014) Land cover changes and their biogeophysical effects on climate.International Journal of Climatology,34, 929-953.   \nMalla G, Zhao L,Song XC,Niyogi D,Govindaraju RS (2013) 2012 Midwest drought in the United States.Journal of Hydrologic Engineering,18,737-745.   \nMcLaughlin SB,Kszos LA (20o5) Development of switchgrass (Panicum virgatum) as a bioenergy feedstock inthe United States.Biomass and Bioenergy,28,515-535.   \nMelillo JM,Reilly JM,Kicklighter DW et al.(2009) Indirect emissions from biofuels: how important? Science,326,1397-1399.   \nMeng XH,Evans JP,McCabe MF (2014) The influence of inter-annually varying albedo on regional climate and drought. Climate Dynamics,42,787-803.   \nNabity PD,Orpet R,Miresmaili S, Berenbaum MR, Delucia EH (2012) Silica and nitrogen modulate physical defense against chewing insect herbivores in bioenergy crops Miscanthus $\\times$ giganteus and Panicum virgatum (Poaceae). Journalof Economic Entomology,105,878883.   \nPielke RA (2Oo1) Influence of the spatial distribution of vegetation and soils on the prediction of cumulus convective rainfall.Reviews of Geophysics, 39,151-177.   \nPrasifka JR,Buhay JE, Sappington TW,Heaton EA,Bradshaw JD,Gray ME (2011) Stem-boring caterpillars of switchgrass in the midwestern United States.Annals of the Entomological Society of America,104,507-514.   \nPropheter JL, Staggenborg SA,Wu X,Wang D (2010) Performance of annual and perennial biofuel crops: yield during the first two years.Agronomy Journal,102, 806-814.   \nRobock A (1980) The seasonal cycle of snow cover,sea ice and surface albedo. Monthly Weather Review,108,267-285.   \nSacks WJ, Kucharik CJ (2011) Crop management and phenology trends in the US Corn Belt: impacts on yields,evapotranspirationand energy balance.Agricultural andForest eteorology,51,82-94.   \nSellers PJ, DickinsonRE,RandallDAetal.(997)Modeling theexchangesofergy water,and carbon between continents and the atmosphere.Science,275,502-509.   \nSmith LJ,Torn MS (2013)Ecological limits to terrestrial biological carbon dioxide removal. Climatic Change,118,89-103.   \nTwine TE,Kucharik CJ,FoleyJA (200)Efectsof landcoverchangeontheenergy and water balance of the Mississippi River basin.Journal of Hydrometeorology,5, 640-655.   \nVanLoocke A, Bernacchi CJ,Twine TE (2010) The impacts of Miscanthus $\\times$ giganteus production on the Midwest US hydrologic cycle. Global Change Biology Bioenergy, 2, 180-191.   \nVanLoocke A, Twine TE,Zeri M, Bernacchi CJ (2012)A regional comparison of water use eficiency for miscanthus,switchgrass and maize.Agricultural and Forest Meteorology,164,82-95.   \nWanjura DF,Hatfield JL (1988) Vegetative and optical characteristics of four-row crop canopies.International Journal of Remote ensing,9,249-258.   \nWicklein HF,Ollinger SV,Martin ME et al.(2012) Variation in foliar nitrogen and albedo in response to nitrogen fertilization and elevated $\\mathrm { C O } _ { 2 }$ Oecologia,169,915-925.   \nWuebbles DJ,Hayhoe K (2004) Climate change projections for the United States Midwest.Mitigation and Adaptation Strategies for Global Change,9,335-363.   \nZeri M,Anderson-Teixeira K,Hickman G,Masters M,DeLucia E,Bernacchi CJ (2011) Carbon exchange by establishing biofuel crops in Central Illinois.Agriculture,Ecosystems $\\mathcal { E }$ Enuironment,144,199.   \nZhao J, Lia J, Liua $\\mathrm { \\Delta Q } ,$ Yanga L (2012) A preliminary study on mechanism of LAI inversion saturation.International Archioes of the Photogrammetry,Remote Sensing and Spatial Informationciences,9,1. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

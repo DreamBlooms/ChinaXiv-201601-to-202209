@@ -1,0 +1,245 @@
+# 基于机器视觉算法的水稻秧苗状态识别
+
+陈信新，王福林，宋莹莹(东北农业大学 工程学院，哈尔滨 150030)
+
+摘要：根据秧苗发育形态调节育秧环境中的光照、温度、湿度能够避免徒长，这对水稻优质高产十分重要。针对水稻秧苗在恒温箱封闭式育秧环境下因监测不及时导致的徒长情况，提出了一种基于机器视觉算法识别秧苗发育状态的方法。采用恒温箱对东农426和东农428水稻进行育秧研究，利用协方差聚类算法对秧苗 RGB彩色图像进行分割，再选用连续腐蚀开操作结合Hough变换进行预处理。根据提取与秧苗徒长直接相关的形态指标参数信息，如株高、叶面积、着生角、生长速率，进行曲线拟合，最后将结果显示在软件界面上。实验结果表明，该方法可以正确的识别秧苗并准确提取形态指标参数，准确率为 $87 . 5 \%$ ，秧苗形态参数识别误差不超过 $7 \%$ ，适用于封闭式育秧环境中对秧苗的监测，该方法为研究水稻工厂化立体育秧提供了有效参考。
+
+关键词：秧苗徒长；状态监测；视觉技术 中图分类号：TP391.41 doi:10.3969/j.issn.1001-3695.2017.12.0837
+
+# Rice seedling status recognition based on machine vision algorithm
+
+Chen Xinxin, Wang Fulin, Song Yingying (College ofEngineering,Northeast Agricultural University,Harbin 15oo30,China)
+
+Abstract: Itisveryimportanttoimprove thequalityandhigh yieldofricebyadjusting the light,temperatureandhumidity in the environment of seedling development.Amethod for recognizing seedling development status based on machine vision algorithm was proposed forrice sedlings under theconditionthat the monitoring ofriceseedlings was outoftime caused by monitoring.Studyon the sedling of Dongnong 426and Dongnong 428 by rice thermotank,on seedling RGBcolor image segmentationusing thecovariance clustering algorithm,thenusecontinuous corrosion pretreatment open operation combined withHoughtransform.Accordingtotheinformationextractionandmorphologicalparametersofleggysedlings directlyelated, suchas plantheight,leafarea,horned,growthrate,curvefiting,theresultswillbedisplayedontheiterfaceofthesoftware. The test results showthat the method cancorrctly identifyand accurately extractthe morphological parameters ofsedlings, the accuracy rate was $87 . 5 \%$ ,the morphological parameter identification error is less than $7 \%$ ,this method provides an effective reference for the research of rice seedling sports factory.
+
+Key words: leggy seedlings; state monitoring; visual technology
+
+# 0 引言
+
+随着栽培技术与机械化软盘育秧技术的兴起，水稻育秧逐步向工厂化靠拢，恒温箱栽培技术凭借着其高精度温控系统以及育秧时受外界因素影响较小进而摆脱自然环境的束缚等特点，成为育秧栽培的首选模式。但恒温箱封闭式环境会导致秧苗因调控不及时以及在实际生产过程中幼苗密度大、植株间相互荫蔽而出现徒长等问题[1-2]。因此针对该问题，研究一种能自动监测秧苗发育形态避免徒长的方法是十分必要的。
+
+机器视觉技术以其高效、精确智能的特点能够提高作物识别的准确性，同时还可以应用与作物生产的监测预报。国内的机器视觉技术在作物监测方面：采用向量机理论与遗传算法、RBF神经网络等智能优化算法可以更好的识别作物特征参数[3]。根据图像蕴藏的颜色信息，选定特性相关的标准化指数，实现作物目标分选[78]。运用图像处理技术构建叶片模型，测定叶片面积[910]。国外，通过反射率的变化以及图像信息实现了土壤覆盖率的估计[11]。通过抗旋转的椭圆傅里叶描述算子，计算叶片形状的复杂指数2；通过主成分分析筛选识别出大豆、向日葵、反枝苋等作物[13，14]；通过神经网络与机器视觉对苹果的长势进行监测[15，16]。当作物目标与背景相差明显时，利用颜色分割得到的效果较好[17，18]。这些研究使得机器视觉被广泛应用于作物监测领域，并且取得了显著的成就。然而，查阅有关文献发现，有关避免封闭式环境下秧苗徒长的视觉监测却鲜有报道；与此同时，秧苗形态多变，分析情况复杂，对程序识别的准确性要求较高。因此，需要结合秧苗发育期的形态特点来实现智能监测。
+
+秧苗形态识别与参数提取是实现育秧实验中智能监测和避免徒长的重要过程。为了提供准确的参数信息以简化操作，本文基于机器视觉技术与算法，提出了一种水稻秧苗形态参数检测的方法，从分割后的秧苗图像中提取形态指标参数，通过实时界面显示，实现秧苗生长发育的智能监测，并选用东农426与东农428两种不同类型的水稻进行了实验验证。
+
+# 1秧苗形态特征值参数分析
+
+秧苗徒长表现形式为茎秆纤长、叶片细小，叶片与茎秆趋于平行、生长速率缓慢即水稻的体积的增长与重量的增长不成比例，且成淡黄绿色。正常秧苗（左）与徒长秧苗（右)如图1所示。
+
+![](images/42776c81ce3d501d874a425f35c5c58df13b21f0222d8150d98822ed2b2595f8.jpg)  
+图1正常秧苗(左）与徒长秧苗（右)
+
+秧苗徒长是育秧过程中对状态的不及时监测而导致营养生理与水分生理上的不均衡，徒长与环境中温度、光照、湿度息息相关，环境对水稻产量的影响因子大于基因型。因此，想要控制秧苗徒长要从调节环境开始[19-20]。当秧苗株高超过健株的1/3时视为徒长，此时需要根据秧苗表现出的形态参数进行相应环境调节。健株不同发育时期株高如图2所示。
+
+![](images/9c36eea41c0d2c59a72f02f6c9c07f6c402158d1761a9d3acb944f3f96c14ec1.jpg)  
+图2健康秧苗株高变化
+
+茎秆的高度对DIF（昼夜温差）十分敏感，温度在育秧过程中的主要表现形式为DIF和有效积温， ${ \mathrm { D I F } } { > } 0$ （昼温 $>$ 夜温）时促进秧苗茎秆伸长， $\mathrm { D I F } { < } 0$ （昼温 $<$ 夜温）时抑制茎秆伸长[21-24]。因此，当检测到秧苗茎秆高度过长即可适当的降低DIF值，提高秧苗质量，控制茎秆高度。叶面积与着生角主要受光照中红蓝光通量比影响，红光利于叶片面积增长，蓝光促进叶片弯曲展开即着生角增大，但单一的红光或蓝光又会使秧苗出现徒长现象。对多数恒温箱而言，红蓝通量比 $8 : 1$ 时最优，但需结合秧苗实际发育素质与光源高度及时调节，才能避免徒长[25-30]。秧苗生长速率主要受温湿度影响，而湿度的改变又会影响温度变化，因此，可以通过调节湿度来改善水稻生长速率[31]。株高、叶面积、着生角、生长速率为表征秧苗徒长的形态参数与光照、温湿度关系密切。徒长会影响抽穗，严重降低水稻产量，监测秧苗形态参数，及时调整育秧环境可有效避免徒长，减少损失。但一般手动测量会对秧苗造成不可逆的损伤且步骤繁琐，不符合科学监测的思想。针对秧苗监测过程的不足，结合机器视觉技术，提取形态参数，从而进行相应环境控制，避免徒长，改善秧苗素质[32]。徒长与正常秧苗一叶一心期、两叶心期、三叶一心期形态参数变化见表1。
+
+表1秧苗形态参数  
+
+<html><body><table><tr><td>品种</td><td>状态</td><td>株高/cm</td><td>叶面积/cm²</td><td>叶长/cm</td><td>叶宽/cm</td><td>叶厚/cm</td><td>叶基角/°</td><td>生长速率</td></tr><tr><td></td><td></td><td>4.10</td><td>0.11</td><td>2.35</td><td>0.22</td><td>0.011</td><td>24</td><td>14.83</td></tr><tr><td>东农</td><td>正常</td><td>8.9</td><td>0.13</td><td>5.45</td><td>0.24</td><td>0.013</td><td>28</td><td>14.17</td></tr><tr><td>4</td><td></td><td>10.1</td><td>0.14</td><td>6.07</td><td>0.34</td><td>0.014</td><td>37</td><td>14.54</td></tr><tr><td>2</td><td></td><td>5.11</td><td>0.08</td><td>2.11</td><td>0.20</td><td>0.010</td><td>19</td><td>10.95</td></tr><tr><td>6</td><td>徒长</td><td>10.4</td><td>0.09</td><td>6.60</td><td>0.21</td><td>0.010</td><td>21</td><td>11.00</td></tr><tr><td></td><td></td><td>12.2</td><td>0.11</td><td>8.23</td><td>0.24</td><td>0.011</td><td>22</td><td>10.43</td></tr><tr><td></td><td></td><td>4.32</td><td>0.12</td><td>2.25</td><td>0.24</td><td>0.012</td><td>26</td><td>24.29</td></tr><tr><td>东农</td><td>正常</td><td>9.54</td><td>0.13</td><td>6.23</td><td>0.30</td><td>0.013</td><td>30</td><td>16.24</td></tr><tr><td>4</td><td></td><td>11.2</td><td>0.15</td><td>8.26</td><td>0.34</td><td>0.014</td><td>36</td><td>17.61</td></tr><tr><td>2</td><td></td><td>5.93</td><td>0.08</td><td>1.97</td><td>0.21</td><td>0.010</td><td>20</td><td>11.18</td></tr><tr><td>8</td><td>徒长</td><td>10.8</td><td>0.09</td><td>5.81</td><td>0.21</td><td>0.011</td><td>23</td><td>11.32</td></tr><tr><td></td><td></td><td>13.2</td><td>0.10</td><td>8.41</td><td>0.23</td><td>0.011</td><td>25</td><td>11.75</td></tr></table></body></html>
+
+由表1可知，正常秧苗与徒长秧苗相比株高、叶面积、着生角、生长速率差异较大，而叶厚无明显变化，由此可见株高、叶面积、着生角、生长速率表征秧苗生长的重要性。
+
+# 2 水稻秧苗图像特征提取
+
+# 2.1秧苗实验育秧设备与图像采集
+
+利用摄像系统在恒温箱内采集秧苗图像，根据秧苗生长规律，调整拍摄角度，确保能够拍摄完整的秧苗图像，安装固定摄像机，如图3所示。根据摄像机尺寸，设计机架，使摄像机能够固定在恒温箱内，结构如图4所示。在摄像系统模型下，以直尺为标定物，通过对直尺的图像处理手段仿射变换，求得摄像机拍摄的实际长度与图像长度比为0.023。
+
+![](images/587483101edad064eee90b0c4701c6a74528e850e24644b6b13bf27ae45f2d4f.jpg)  
+图3摄像系统搭建
+
+![](images/d735400e3c7880b7786c45ae36a0ee7f5b975c6906053b2eed7e7aae8286432b.jpg)  
+图4机架结构图
+
+# 2.2秧苗图像预处理
+
+2.2.1基于协方差聚类算法的秧苗图像分割
+
+恒温箱内摄像机拍摄的秧苗RGB图像如图7a所示。彩色图像受背景干扰，无法识别秧苗完整形态，要分割目标秧苗；RGB图像由红、绿、蓝三种颜色叠加形成，根据秧苗与背景的颜色差异，本文针对恒温箱育秧环境提出了一种基于协方差聚类算法的彩色模型分割。
+
+首先，提取秧苗样本目标区域的 $\mathrm { ~ N ~ }$ 个像素点作为初始聚类中心，每个像素点均由 $3 \times 1$ 矩阵 $\scriptstyle \mathbf { X } _ { \mathrm { i } } = \left[ \mathbf { X } _ { \mathrm { r } } \mathbf { X } _ { \mathrm { g } } \mathbf { X } { \mathrm { b } } \right]$ 构成， $\mathbf { X } \mathbf { r } \setminus \mathbf { X } \mathbf { g }$ ，$\mathbf { x } _ { \mathrm { b } }$ 代表像素点红绿蓝颜色分量值。聚类中心像素点矩阵的均值 $\mathbf { A } _ { \mathrm { n } }$ 与方与差 $\mathbf { S } _ { \mathrm { n } }$ 为
+
+$$
+A _ { n } = \frac { 1 } { N } \sum _ { i = 1 } ^ { N } x _ { i }
+$$
+
+$$
+S _ { n } = \frac { 1 } { N - 1 } \sum _ { i = 1 } ^ { N } ( x _ { i } - A _ { n } ) ( x _ { i } - A _ { n } ) ^ { T }
+$$
+
+考虑到秧苗图像中各像素点邻域之间存在的相关性，利用像素点到聚类中心的距离为聚类条件，距离 $\mathrm { { D } ( x _ { j } , A _ { n } ) }$ 为
+
+$$
+D ( x _ { j } , A _ { n } ) = \left[ ( x _ { j } - A _ { n } ) ^ { T } { S _ { n } } ^ { - 1 } ( x _ { j } - A _ { n } ) \right] ^ { 1 / 2 }
+$$
+
+其中： $\mathbf { \sigma } _ { \mathbf { X } _ { j } }$ 表示秧苗图像任意像素点颜色矩阵
+
+根据遍历所有像素点距离，将像素集合C分割成 $\mathrm { ~ m ~ }$ 个不同颜色标准的非空子集 $\mathbf { C } _ { 1 } , \mathbf { C } _ { 2 } { \cdots } \mathbf { C } _ { \mathrm { m } }$ ，如图5所示。
+
+![](images/6bb3ba73bc26ad2e7ff2e59b69ef6b4d2c5919be2491b3e77a3791f55036e902.jpg)  
+图5分割后像素集合
+
+$\mathbf { C } _ { 1 } , \mathbf { C } _ { 2 } { \cdots } \mathbf { C } _ { \mathrm { m } }$ 的关系为
+
+$$
+C = \bigcup _ { i = 1 } ^ { M } C _ { i }
+$$
+
+对于任意 $\mathrm { C _ { i } , C _ { j } }$ 且 $\mathrm { i } { \neq } \mathrm { j }$ 时有 $\mathbf { C } _ { \mathrm { { i } } } \cap \mathbf { C } _ { \mathrm { { j } } } { = } \emptyset$ ；当 $\mathrm { i } { = } 1 , 2 , 3 { \cdots } { \mathrm { m } }$ 时，Ci是连通域。
+
+将Ci中的像素点赋值为1，其余赋值为0，得到秧苗形态二值图像，如图7b所示。
+
+# 2.2.2秧苗拓扑结构获取
+
+秧苗二值图像包含较多数据信息，不能准确地提取特征点，需进一步化简秧苗形态获取拓扑结构，即将秧苗形态二值图像细化为单像素的骨架图像。通过对像素点邻域的腐蚀和开操作获取骨架，如图6所示。
+
+![](images/f3ab554e636dcf9e1113bd1313343def574bf42310f66598b149f6aa72776edc.jpg)  
+图6骨骼化示意图
+
+秧苗形态二值图像（R）的骨架为
+
+$$
+G ( R ) = \bigcup _ { k = 0 } ^ { k } G _ { k } ( R )
+$$
+
+其中：
+
+$$
+G ( R ) = ( R \odot k B ) - ( R \odot k B ) \circ B
+$$
+
+B表示结构单元、 $( \operatorname { R } { \odot } \operatorname { k B } )$ 表示 $\mathrm { ~ \tt ~ R ~ }$ 的 $\mathbf { k }$ 次腐蚀直至秧苗形态二值图像R变为空集 $\cdot ^ { \mathcal { O } }$ 前的最后一次迭代
+
+$$
+\mathbf { k } = \operatorname* { m a x } \{ k \mid ( \mathbf { R } \Theta \mathbf { k } \mathbf { B } \neq \phi ) \}
+$$
+
+经过腐蚀和开操作处理后可以从形态二值图像中提取秧苗骨架，如图7c所示。从每株秧苗最低点开始追踪茎秆边界，再以分叉点为起点追踪叶片边界，计算边界直线所夹的锐角，即着生角，如图7d所示。
+
+为了检测独立的秧苗叶片，利用图像空间到参数空间的映射，在形态二值图像的基础上去除茎秆部分，获得叶片图像。为避免过连接和虚假直线，先对秧苗骨骼图像像素点进行边缘编组，然后对各边缘组进行Hough变换[33]。 $X { = } ( \mathbf { x } , \mathbf { y } )$ 表示图像区域， $\Omega = ( \omega _ { \mathrm { ~ l ~ } } , \omega _ { 2 } , \cdots \omega _ { \mathrm { ~ n ~ } } )$ 表示参数空间，其中 $\mathrm { ~  ~ N ~ }$ 表示参数个数， $\mathrm { f } ( \mathrm { X } , \Omega ) { = } 0$ 为曲线参数表示形式。 $C _ { \Omega }$ 表示参数空间$\Omega$ 中的一个单元，则有下式：
+
+$$
+\begin{array} { r } { P ( X , \Omega ) = \left\{ { 1 } \begin{array} { l } { \left\{ A : f ( X , A ) = 0 \right\} \cap C _ { \Omega } \neq 0 } \\ { 0 \qquad \quad \forall k \mathrm { \ : / } \underline { { \mathrm { ( f } } } . } \end{array} \right. } \end{array}
+$$
+
+即某一曲线经过参数空间中的某一单元 $\mathbf { C } _ { \mathfrak { a } }$ 和图像空间中的点 $\mathrm { \Delta } X$ 时， $\mathrm { P } ( \mathrm { X } , \Omega ) { = } 1$ 。Hough变换中映射到参数空间所累积的点图像如图7（e）所示。变换后提取的秧苗茎秆的图像如图7（f）所示。
+
+![](images/6e227caab0bb1ebb55bb6a9ce39815597d9192e9218679d2038b820b73fb0ed2.jpg)  
+图7秧苗图像预处理
+
+# 2.3秧苗形态指标计算
+
+为了获取秧苗形态指标参数值，提取预处理后二值图像
+
+特征像素点坐标。将茎秆二值图像中第i株秧苗顶点横坐标记为 $H _ { y i }$ ，最低点横坐标记为 $\mathrm { H } _ { \mathrm { y } 2 }$ ，株高公式为
+
+$$
+\mathrm { H } = \zeta \frac { \displaystyle \sum _ { i = 1 } ^ { n } \Bigl | H _ { { { \mathrm { y } } 1 } } - H _ { { { \mathrm { y } } 2 } } \Bigr | } { \displaystyle n }
+$$
+
+其中： $\mathfrak { n }$ 为茎秆个数、 $\zeta$ 取0.023
+
+基于连通域的思想，标记叶片二值图像中各叶片区域，求得与叶片区域具有相同标准二阶中心矩的椭圆长轴长度与短轴长度，分别代表叶片长度与最大叶宽，计算所有标记区域长轴与短轴的均值记为L、W，秧苗叶面积公式为
+
+$$
+S = \lambda \zeta ( L { \times } W )
+$$
+
+其中：入为面积修正系数，在秧苗叶面积计算中 $\lambda$ 通常取$0 . 7 5 ^ { [ 3 4 ] }$ 。
+
+将秧苗后一幅与前一幅形态二值图像做差，累加计算差图像中像素点个数记为秧苗面积增长值△A，摄像系统拍摄图像所隔时间记为 $\Delta \mathrm { T }$ ，因此生长速率可以表示为
+
+$$
+\mathbf { A G R } = \overbrace { \sum \Delta \mathbf { T } } ^ { }
+$$
+
+在秧苗骨骼图像上追踪茎秆与叶片轮廓计算两直线所夹锐角，即着生角。
+
+# 3 秧苗动态监测实验与分析
+
+由于恒温箱育秧环境封闭不易观察，秧苗生长状态连续变动，以及受到育秧环境因素的影响，仅依靠少量图片不能验证本文所提出方法的可行性。因此在理论研究的基础上，将摄像系统固定于恒温箱内，构建育秧平台，验证基于机器视觉技术识别秧苗状态的效果并根据实验结果，拟合参数。
+
+# 3.1秧苗动态监测育秧环境
+
+将摄像头固顶于恒温箱内，用3D打印机打印机架，选用东农426与东农428进行育秧栽培，育秧环境如图8所示。
+
+![](images/0feae9c5b3754cd67fb986194b440639fd8264f5b328db49596cc15631d4cd3e.jpg)  
+图8育秧环境
+
+秧苗动态监测系统采取机器视觉技术结合软件界面显示的自动识别模式。由摄像系统采集秧苗生长图像，将采集到信息传送给计算机，经过计算机图像处理后提取参数指标与姿态信息，并将结果显示在软件界面上，如图9所示。进而实现秧苗生长的动态监测，根据各参数指标表征的状态，对恒温箱进行相应的光照、温度、湿度调控，避免秧苗徒长。
+
+![](images/71219e588126c3e7ef8d120fee3b03d85f355a92af72624aea131d9288cb8216.jpg)  
+图9界面显示
+
+# 3.2秧苗动态监测结果与误差分析
+
+处理秧苗图像时，本文提出的方法能够识别秧苗区域，即图9中左上角的方形区域，并且准确的提取出形态二值图像，但存在一定误差。引起误差的主要原因是由于新长出来的叶尖细小、生长不均，再加上光晕现象影响分割效果。虽然该方法受秧苗生长、环境因素的影响存在误差，但能从采集的全部图像中分割出秧苗形态，准确提取特征点，达到预期效果。
+
+拍摄的80 幅秧苗图像，共320 株秧苗，准确识别提取280 株，正确识别率为 $87 . 5 \%$ 。计算机图像处理技术提取的部分参数值、人工测量参数值与平均误差见表2\~4所示。拟合参数曲线，如图10所示。
+
+表2秧苗株高  
+
+<html><body><table><tr><td colspan="6">长 伙出怀间</td></tr><tr><td>品种</td><td colspan="3">计算机识别/cm</td><td rowspan="3">人工测量/cm 误差%</td></tr><tr><td rowspan="2">东农426</td><td>4.2 5.1 6.6</td><td>7.3 4.8</td><td>5.4 6.5 7.5</td></tr><tr><td>9.3 10.1</td><td>12.3 14.8 10.3 12.4</td><td>6.28 12.9 15.1</td></tr><tr><td rowspan="2">东农428</td><td>4.9 6.6</td><td>8.9 9.9 5.3</td><td>7.2 9.3 10.2</td><td rowspan="2">6.23</td></tr><tr><td>10.6 11.9</td><td>14.6 15.4 11.1</td><td>12.5 15.0 15.9</td></tr><tr><td></td><td></td><td>表3</td><td>秧苗叶面积</td><td></td></tr><tr><td>品种</td><td></td><td>计算机识别/cm²</td><td>人工测量/cm²</td><td>误差%</td></tr><tr><td rowspan="2">东农426</td><td>1.63 3.11</td><td>4.35 6.5 2.24</td><td>4.42 6.24 8.41</td><td rowspan="2">4.24</td></tr><tr><td>10.1 13.6</td><td>16.5 17.3 12.0</td><td>14.8 16.3 19.8</td></tr><tr><td rowspan="2">东农428</td><td>1.77 2.12</td><td>4.52 6.44</td><td>3.37 4.35 6.80 8.77</td><td rowspan="2">3.63</td></tr><tr><td>10.3 15.2</td><td>17.6 19.1 12.5</td><td>16.5 20.8 21.4</td></tr></table></body></html>
+
+表4着生角  
+
+<html><body><table><tr><td>品种</td><td colspan="6">计算机识别/</td></tr><tr><td>东农</td><td>3.8</td><td>7.15</td><td>10.7 16.4</td><td>4.4</td><td>8.74</td><td>人工测量/o 10.6</td><td>误差% 17.3</td></tr><tr><td>426</td><td>20.7</td><td>26.7</td><td>30.9 36.6</td><td>23.9</td><td>28.1</td><td>33.2</td><td>4.33 38.7</td></tr><tr><td>东农</td><td>3.5</td><td>8.9 10.2</td><td>17.2</td><td>5.3</td><td>9.2</td><td>11.3</td><td>19.2</td></tr><tr><td>428</td><td>21.6</td><td>26.2 32.5</td><td>38.1</td><td>22.1</td><td>28.5</td><td>33.0</td><td>4.17 39.9</td></tr></table></body></html>
+
+![](images/11ec66cf6713149a1f47606fa597644c638e6590a6a61ddc3e263c71ada91508.jpg)  
+图10秧苗参数拟合曲线
+
+# 4 结束语
+
+a)将农业育秧技术与计算机视觉技术相结合，
+
+提出了一种基于机器视觉技术算法的水稻秧苗状态识别方法。
+
+b)采用基于协方差聚类算法的彩色模型分割，成功的提取秧苗形态二值图像，结合骨骼与Hough变换获取茎秆与叶片图像，检测秧苗特征点，求解秧苗株高、叶面积、着生角、生长速率等参数值，采用拟合曲线将结果显示在软件界面上。
+
+c)设计摄像系统进行育秧实验，实验结果表明，本文提出的机器视觉技术可以实现秧苗生长过程的监测，图像识别与人工测量实际参数值的误差小于5，在误差允许范围内，满足作物识别要求，本文提出的方法可行。
+
+监测恒温箱内秧苗状态，准确获取各参数，有助于人们及时了解秧苗发育情况，为秧苗管理提供了有用信息，避免在封闭式育秧环境下造成秧苗因监测不及时而导致的徒长。符合了机械化、智能化的发展和推广。
+
+# 参考文献：
+
+[1]王红飞，尚庆茂．蔬菜徒长苗的形态及生理特征研究进展[J]．中国蔬菜，2017,1(7):22-28.  
+[2]鲁运江．恒温箱在早春瓜菜种子催芽中的应用技术[J]．农村百事通,2012 (3): 40-41.  
+[3] 史智兴，程洪，李江涛，等．图像处理识别玉米品种的特征参数研究[J]．农业工程学报,2008,24(6):193-195.  
+[4]解博，周律．基于机器视觉的杏核图像识别系统设计[J].电子科技,2016,29 (10): 97-100.  
+[5]章佳佳，杨振超，周律．基于 Matlab 图像处理的果核分拣系统[J].电子科技,2017,30 (9): 53-55.  
+[6]安琼，杨邦杰，郭琳．面向对象的多光谱图像特征遗传选优方法[J].农业工程学报,2008,24(4):181-185.  
+[7]陈佳悦，姚霞，黄芬，等．基于图像处理的冬小麦氮素监测模型[J].农业工程学报,2016(4):163-170.  
+[8]Golbach F, Kootstra G,Damjanovic S,et al. Validation of plant partmeasurements using a 3D reconstruction method suitable for high-throughput seedling phenotyping[J].Machine Vision & Applications,2016,27 (5): 663-680.  
+[9] 韩仲志，赵友刚，杨锦忠．基于籽粒 RGB 图像独立分量的玉米胚部特征检测[J]．农业工程学报,2010,26(3):222-226.  
+[10]李革，李斌，王莹，等．基于 HIS 颜色模型的珍珠颜色分选方法[J].农业工程学报,2008,24(8):284-287.  
+[11]宰松梅，温季，郭冬冬，等．基于支持向量机模型和图像处理技术的甜椒叶面积测定 [J]．农业工程学报,2011,27(3):237-241.  
+[12]李明，张长利，房俊龙．基于图像处理技术的小麦叶面积指数的提取[J]．农业工程学报,2010,26(1):205-209.  
+[13]高焕文，李问盈，李洪文．中国特色保护性耕作技术[J].农业工程学报,2003,19 (3): 1-4.  
+[14] Neto JC, Meyer G E, Jones DD,et al. Plant species identification usingElliptic Fourier leaf shape analysis [J].Computers& Electronics inAgriculture,2006,50 (2): 121-134.  
+[15]Tanmaye P. Rice crop monitoring system—Alot based machine visionapproach [C]/ Proc of International Conference on Nextgen ElectronicTechnologies: Silicon To Software. 2017: 26-29.  
+[16] Bhatt A K,Pant D.Automatic apple grading model development basedon back propagation neural network and machine vision, and itsperformance evaluation [J].Ai& Society,2015,30(1): 45-56.  
+[17]GuyerDE,Miles GE,SchreiberMM,etal. Machine Visionand ImageProcessing for Plant Identification [J]. Transactions of the AmericanSociety of Agricultural Engineers,1986,29 (6): 1500-1507.  
+[18] Hayes JC, Han YJ. Comparison of crop-cover measuring systems [J].Transactions of the Asae,1993.  
+[19]毛礼钟．几种环境因素对水稻徒长的响影[J].植物生理学报,1959(1).  
+[20]王勋，戴廷波，姜东，等．不同生态环境下水稻基因型产量形成与源
+
+库特性的比较研究[J].应用生态学报,2005,16(4):615-619.
+
+[21] Niu G, Heins RD,Cameron AC,et al. Day and night temperatures,daily light integral，and CO 2，enrichment afect growth and flower development of Campanula carpatica,‘Blue Clips’[J].Scientia Horticulturae,2001,87(1-2): 93-105.   
+[22] Gent M P N,Ma Y Z. Mineral nutrition of tomato under diurnal temperature variation of root and shoot.[J]. Crop Science,20o0,40 (6): 1629-1636.   
+[23] Mohammed A R,Tarpley L.High night temperatures affect rice productivity through altered pollen germination and spikelet fertility. Agric ForMeteorol[J].Agricultural& ForestMeteorology,20o9,149 (6): 999-1008.   
+[24] Fang S,Cammarano D,Zhou G,et al. Effects ofincreased day and night temperature with supplemental infrared heating on winterwheat growth in North China [J]. European Journal of Agronomy,2015,64: 67-77.   
+[25]马旭，林超辉，齐龙，等．不同光质与光照度对水稻温室立体育秧秧 苗素质的影响 [J]．农业工程学报,2015,30(11):228-235.   
+[26] Heo JW, Kong S S,Kim S K,et al. Light quality affectsin Vitro growth of grape'Teleki 5BB'[J].Journal ofPlant Biology,2006,49 (4): 276-280.   
+[27]Asahina M,TamakiY,Sakamoto T,etal.Blue light-promoted rice leaf bendingand unrolling are due to up-regulated brassinosteroid biosynthesis genes accompanied by accumulation of castasterone [J]. Phytochemistry,2014,104 (104): 21-29.   
+[28] Zhang X, Meng Y,Song C,et al. Effects ofred and blue light supplement at night on rice seedling growth [J]. Crops,2013.   
+[29] Xu M,Lin C,Long Q,etal.Effect of different lighting quality and intensities on quality of rice seedling by greenhouse stereoscopic nursing [J]. Nongye Gongcheng Xuebao/transactions of the Chinese Society of Agricultural Engineering,2015,31(11):228-235.   
+[30] Matsuda R,Ohashikaneko K,Fujiwara K，et al.Photosynthetic characteristics of rice leaves grown under red light with or without supplemental blue light.[J].Plant& CellPhysiology,2004,45(12): 1870-4.   
+[31]周立宏，李秀芬，赵凤艳，等．不同穗型水稻群体中温湿度特征的研 究[J].中国农学通报,2009,25(16):86-90.   
+[32]张宏俊，包士忠，沈雁君，等．水稻恶苗病苗性状变化及对产量的影 响[J]．上海农业学报,2000,16(1):67-.   
+[33]Princen J,Illingworth J,KittlerJ.A formal definition of the Hough transform: Properties and relationships [J].Journal of Mathematical Imaging & Vision,1992,1 (2): 153-168.   
+[34]陆秀明，黄庆，孙雪晨，等．图像处理技术估测水稻叶面积指数的研 究[J].中国农学通报,2011,27(3):65-68.

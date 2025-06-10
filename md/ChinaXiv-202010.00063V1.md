@@ -1,0 +1,195 @@
+# 两镜拼接主动光学子镜位姿调整
+
+# 方法研究
+
+姜治渝¹，陆金娴'，杨德华‘，吴常铖'，金振宇²(1.南京航空航天大学自动化学院，江苏 南京211106；2.中国科学院云南天文台，云南 昆明650011)
+
+摘要：建立一个两镜系统用于模拟拼接镜面中各子镜面的相对位姿关系。提出采用相邻子镜边缘安装边缘传感器和设置倾斜传感器相结合的方法对子镜倾斜（tip/tilt）及轴向平移（piston）三自由度进行检测的位姿检测方法。采用理论控制矩阵和实测控制矩阵进行主动校正实验，实验表明：理论控制矩阵校正时，边缘传感器均方根误差不大于 $7 . 3 \mathrm { n m }$ ，倾斜均方根误差不大于0.076"，实测控制矩阵校正时，边缘传感器均方根误差不大于 $7 . 4 \mathrm { n m }$ ，倾斜均方根误差不大于0.080”。本文工作可为环型拼接主动光学子镜间相对位置自由度探测不足的问题提供参考解决途径。
+
+关键词：拼接镜面主动光学；传感器；位姿检测；主动控制中图分类号：P111.2 文献标识号： 文章编号：
+
+中国巨型太阳望远镜（CSGT）拟采用环型拼接镜面主动光学技术实现具有8米口径的环型主反射镜面，主镜拟采用24块子镜拼接成直径为 $8 \mathrm m$ ，宽度为 $ { \mathrm { 1 m } }$ 的环型[1]。相比于世界上现有的大型望远镜，如美国keck2望远镜等采用拼接主镜方案的望远镜采用正六边形子镜方案，由于此方案光学镜面之间能通过“互锁”形式确定探测子镜间的相对位置关系，因此主动保持只需边缘传感器测量子镜间的边缘piston 误差的变化。而CGST 的环形拼接望远镜方案若只用边缘传感器，将面临子镜自由度探测不足的问题，无法实现拼接镜面的主动保持[3]。故需要增加设置倾斜传感器才能对子镜位姿的3个自由度 piston,tip,tilt 进行探测[4]。边缘传感器用于探测子镜边缘的高度差，倾斜传感器用于探测子镜倾斜的变化量，从而推算出子镜位置的变化情况，并通过各个子镜背面的位移促动器进行补偿调节，用于保持主镜的面型。
+
+保持子镜间相对位置的关键就是主动控制系统[5-6设计，为验证上述主动光学子镜位姿调整方案的准确性，搭建一个两镜拼接主动光学系统，通过固定其中一块子镜，另一块子镜做3个自由度的主动位移，使两镜间的相对位置发生变化，从而模拟子镜拼接而成的主镜位姿变化的一般情况。
+
+# 1两镜拼接主动光学系统介绍
+
+两镜拼接主动光学系统用于模拟 $8 \mathrm m$ 环型拼接光学镜面系统单元特征，具有研究对象的关键特性，能够反应出研究的核心内容。如图1，两镜拼接主动光学系统主要包括两片相同的半圆形子镜、子镜支撑/定位机构、位移促动器、安全保护措施与底座。
+
+》
+
+其中半圆形子镜直径为 $3 0 0 \mathrm { m m }$ ，边缘厚度为 $4 0 \mathrm { m m }$ ，拼缝大约为 $2 \mathrm { m m }$ ，重 $3 . 2 ~ \mathrm { k g }$ 。镜子基底材料采用微晶玻璃，两面反射子镜均采用3点支撑，反射表面面型误差约为 $5 . 2 \mathrm { n m }$ 。其中一块子镜固定不动，称之为固定子镜；另一块子镜做3个自由度的主动位移，称之为主动子镜。主动子镜由位移调整机构，即位移促动器来实现不同自由度的精密调整。
+
+位移促动器通过长度的变化量调节子镜的离面位移7。根据拼接镜面工作原理要求，每个子镜需要3个位移促动器来支撑并调节其位姿，以实现子镜三自由度精密运动，本系统采用的位移促动器具有大行程、大负载性能、高精度的优点，分辨率达 $1 0 \mathrm { n m }$ 级，功耗低，对气流影响小[8]。
+
+# 2子镜位姿检测方法设计
+
+# 2.1子镜轴向位移（piston）检测
+
+经典的位移传感器主要安装在拼缝边缘处，所以也称为边缘传感器，对于全孔径拼接镜面来说，由于子镜“互锁”功能的存在，只需检测边缘传感器的测量值即可得到子镜的相对位置关系，但是此方法也存在缺点，一旦边缘传感器出现故障，后期更换维护工作会变得特别复杂。对于环型孔径拼接面来说，子镜之间没有“互锁”功能，为了检测子镜边缘的高度差，将边缘传感器安装在拼接光学镜面实验样机子镜边缘，如图2所示为边缘传感器位置示意图。
+
+![](images/e5aa07dca30b93dd384f0dcaaa3a48c27fe31fa6841f2652c0791c28fee0daac.jpg)  
+图2边缘传感器安装位置
+
+本实验系统选用的位移传感器为PI公司的D-E30单级电容位移传感器，传感器的动态范围 ${ 5 0 } \mathrm { u m }$ ，动态分辨率大约为 $2 \mathrm { n m }$
+
+# 2.2子镜倾斜（tip/tilt）检测
+
+倾斜测量采用一种基于数字相机激光倾斜角度的测量方法，倾斜系统装置由计算机、激光器和无镜头的数字相机组成。数字相机激光测角原理测试系统如图3所示，
+
+![](images/2e4d27048db56d30fbe1182c0e8f57ae7af2bd91132fc6663c7d6f8853ad2073.jpg)  
+Fig.2Edge sensor configuration   
+图3数字相机激光测角原理测试系统
+
+其中数字相机通过USB串口连接到计算机，激光器垂直固定于光学镜面，并要对准数字相机。由于激光光束准直性较好，可认为激光器的出射为平行光束，激光器发出的光束直接到达数字相机。计算机获得转动前后光斑图像，并计算光斑在数字相机靶面上的位移量，以获得拼接镜实验样机的倾斜角度，靶面坐标系上的光斑位置如图4所示。
+
+![](images/641548623132679ba0f4bdd3e3b3af3222dcab10bfae6c36fe0ef92af6124b9e.jpg)  
+Fig.3Principle of angle measurementby laserwith digital camera   
+图4数字相机靶面坐标系上的光斑位置  
+Fig.4The position of the light spot on the target surface coordinate system of the digital camera
+
+$A _ { 0 }$ 、 $A _ { 1 }$ 为在数字相机靶面上移动前后的光斑坐标。设主动镜面绕x轴旋转角度为 tip,可用 $\theta _ { x }$ 表示，光斑在靶面坐标yy轴方向移动距离为 $y _ { s }$ ，主动镜面绕y轴旋转角度为tilt，可用 $\theta _ { y }$ 表示，光斑在靶面坐标xx 轴方向移动距离为 $x _ { s }$ ，激光器到数字相机距离为L，则它们之间的相互关系为：
+
+$$
+\begin{array} { r } { t i p = a r c t a n \frac { y _ { s } } { L } = a r c t a n \frac { y _ { 1 } - y _ { 0 } } { L } } \end{array}
+$$
+
+$$
+\begin{array} { r } { t i l t = a r c t a n \frac { x _ { s } } { L } = - a r c t a n \frac { x _ { 1 } - x _ { 0 } } { L } } \end{array}
+$$
+
+实验系统中数字相机像素为 $7 5 2 \ \mathrm { ~ (  H ) ~ } \times 4 8 0 \ \mathrm { ~ ( V ) }$ ，像元尺寸为 $6 \mathrm { u m } \times 6 \mathrm { u m }$ ；激光器选用 $6 5 0 \mathrm { n m }$ 的红光激光器，与主动镜镜室固连，以反映主动镜的指向，即 tip/tilt变化情况，其距离数字相机 $1 7 2 5 \mathrm { m m }$ 。实物如图5所示。
+
+市
+
+# 3子镜位姿调整控制
+
+# 3.1理论控制矩阵
+
+控制矩阵可由位姿检测的传感器和位移促动器之间的相对位置决定，分析位移促动器、位移传感器和倾斜传感器之间的几何关系可以得到理论控制矩阵。图6为位移促动器及传感器布局，参见图6， $\mathbf { D } _ { 1 }$ 、 ${ \bf D } _ { 2 }$ 、 ${ \bf D } _ { 3 }$ 所示处为位移促动器位置，呈等腰三角形排列； $\mathbf { P } _ { 1 } , \mathbf { P } _ { 2 }$ 所示处为边缘传感器位置，呈对称分布；a为激光器垂直安装于子镜边缘。
+
+![](images/b299602acb5fa7e81cc305ce792287882e216bb5d71d95bd334b43b3d09de4d0.jpg)  
+图5数字相机激光测角系统  
+Fig.5Setup of the angle measurement by laser with digital camera   
+图6位移促动器及传感器布局  
+Fig.6Layout of displacement actuators and sensors
+
+设位移促动器的位移量为 $d _ { 1 }$ 、 $d _ { 2 }$ 、 $d _ { 3 }$ ；主动镜面的轴向平移量为 $d _ { 0 }$ ；主动镜面的相对二面角倾斜为 $\boldsymbol { R } _ { \boldsymbol { x } }$ ；主动镜面的相对交错倾斜量为 $\boldsymbol { R } _ { y }$ ，则位移促动器的变化量到主动镜面的 3个自由度变化量可表示为：
+
+$$
+{ \binom { d _ { 0 } } { R _ { x } } } = { \left[ \begin{array} { l l l } { { \frac { 1 } { 3 } } } & { { \frac { 1 } { 3 } } } & { { \frac { 1 } { 3 } } } \\ { - { \frac { 1 } { 2 h } } } & { { \frac { 1 } { h } } } & { - { \frac { 1 } { 2 h } } } \\ { { \frac { 1 } { l } } } & { 0 } & { - { \frac { 1 } { l } } } \end{array} \right] } { \left[ \begin{array} { l } { d _ { 1 } } \\ { d _ { 2 } } \\ { d _ { 3 } } \end{array} \right] }
+$$
+
+式中 $h$ 为三个位移促动器分布等腰三角形的高，为其底边。设Q为等腰三角形的重心;$n _ { 1 } , n _ { 2 } , m _ { 1 }$ 及 $m _ { 2 }$ 分别表示 $\mathsf { Q }$ 点到 $\mathbf { P } _ { 1 }$ 、 ${ \bf P } _ { 2 }$ 的垂直和水平距离。主动镜面的3个自由方向的变化量均可由边缘传感器和倾斜传感器的测量值表示，设边缘传感器的测量值为 $p _ { 1 } , p _ { 2 }$ ，倾斜传感器的测量值为 $\theta _ { x } , \ \theta _ { y }$
+
+$$
+\binom { p _ { 1 } } { p _ { 2 } } = \left[ \begin{array} { c c c } { 1 } & { - n _ { 1 } } & { m _ { 1 } } \\ { 1 } & { - n _ { 2 } } & { m _ { 2 } } \\ { 0 } & { - 1 } & { 0 } \\ { 0 } & { 0 } & { 1 } \end{array} \right] \left[ \begin{array} { c c c } { d _ { 0 } } \\ { R _ { x } } \\ { R _ { y } } \end{array} \right]
+$$
+
+将式（3）代入到式（4）可得：
+
+$$
+\begin{array} { r } { \left( \begin{array} { l } { p _ { 1 } } \\ { p _ { 2 } } \\ { \theta _ { x } } \\ { \theta _ { y } } \end{array} \right) = \left[ \begin{array} { l l l } { \frac { n _ { 1 } } { 2 h } + \frac { m _ { 1 } } { l } + \frac { 1 } { 3 } } & { \frac { 1 } { 3 } - \frac { n _ { 1 } } { h } } & { \frac { n _ { 1 } } { 2 h } - \frac { m _ { 1 } } { l } + \frac { 1 } { 3 } } \\ { \frac { n _ { 2 } } { 2 h } - \frac { m _ { 2 } } { l } + \frac { 1 } { 3 } } & { \frac { 1 } { 3 } - \frac { n _ { 2 } } { h } } & { \frac { n _ { 2 } } { 2 h } + \frac { m _ { 2 } } { l } + \frac { 1 } { 3 } } \\ { \frac { 1 } { 2 h } } & { - \frac { 1 } { h } } & { \frac { 1 } { 2 h } } \\ { \frac { 1 } { l } } & { 0 } & { - \frac { 1 } { l } } \end{array} \right] \left[ \begin{array} { l } { d _ { 1 } } \\ { d _ { 2 } } \\ { d _ { 3 } } \end{array} \right] } \end{array}
+$$
+
+因 $\theta _ { y }$ 可同时由边缘传感器和倾斜传感器给出，故该矩阵具有线性相关特性， $\theta _ { y }$ 可用下式表示：
+
+$$
+\begin{array} { r } { \theta _ { y } = \frac { ( d + c ) \cdot P _ { 1 } - ( a + b ) \cdot P _ { 2 } } { ( a \cdot d - b \cdot c ) \cdot l } } \end{array}
+$$
+
+式中，
+
+$$
+\left\{ \begin{array} { l l } { a = { \frac { n _ { 1 } } { h } } + { \frac { m _ { 1 } } { l } } + { \frac { 1 } { 3 } } } \\ { \mathrm { b } = { \frac { n _ { 1 } } { 2 h } } - { \frac { m _ { 1 } } { l } } + { \frac { 1 } { 3 } } } \\ { c = { \frac { n _ { 2 } } { 2 h } } - { \frac { m _ { 2 } } { l } } + { \frac { 1 } { 3 } } } \\ { \mathrm { d } = { \frac { n _ { 2 } } { 2 h } } + { \frac { m _ { 2 } } { l } } + { \frac { 1 } { 3 } } } \end{array} \right.
+$$
+
+控制系统工作方法是通过边缘传感器和数字相机激光倾角测量系统的测量值来控制位移促动器的位移量。为统一单位，令 $\begin{array} { r } { \theta _ { x } = \frac { m _ { x } } { L } } \end{array}$ 、 $\begin{array} { r } { \theta _ { y } = \frac { m _ { y } } { L } } \end{array}$ ，式中， $m _ { x }$ 和樂 $m _ { y }$ 为激光光斑在数字相机靶面上的位移量， $L$ 为激光器到数字相机的距离，实验样机中的理论设计尺寸为：$n _ { 1 } = n _ { 2 } = 7 3 m m ; \ m _ { 1 } = m _ { 2 } = 1 3 4 m m ; \ h = 7 5 m m ; \ l = 1 8 6 m m ,$ 带入式（5）并对矩阵A求解广义逆矩阵，可得到 $3 \times 3$ 理论控制矩阵：
+
+$$
+{ \binom { d _ { 1 } } { d _ { 2 } } } = { \binom { - 0 . 8 4 7 \quad - 0 . 1 5 3 \quad - 0 . 0 1 8 8 } { - 0 . 5 } } { \begin{array} { c c c } { { - 0 . 5 } } & { { - 0 . 5 } } & { { - 0 . 0 4 8 2 } } \\ { { - 0 . 1 5 3 } } & { { - 0 . 8 4 7 } } & { { - 0 . 0 1 8 8 } } \end{array} } { \left[ \begin{array} { l } { { p _ { 1 } } } \\ { { p _ { 2 } } } \\ { { m _ { x } } } \end{array} \right] }
+$$
+
+# 3.2实测控制矩阵
+
+根据理论控制矩阵分析可知，单独运行位移促动器中的一个，由边缘传感器和数字相机激光倾角测量值可得到传递矩阵相应的列值。
+
+单独运行位移促动器1号，位移促动器运行20步，每步理论值为 $5 \mathrm { n m }$ ，记录每一步运行后的测量值。图7为位移促动器1号实测拟合曲线与样机设计理论曲线。
+
+![](images/831658ee16b9383853cfa0fe3ef9ae20d32679d07968ce39a853e0dab2086ce6.jpg)  
+图7位移促动器1号实测拟合曲线与理论曲线。(a）边缘传感器 ${ \bf P } _ { 1 }$ ；(b)倾斜 ${ \bf \nabla } \cdot \theta _ { x }$ 测量光斑位移量Fig.7Fitted curve vs theoretical curve of displacement actuator No.1.(a) Edge sensor ${ \bf P } _ { 1 }$ ； (b)Spot displacementfor Tilt $\theta _ { x }$ （204号
+
+图7（a）拟合实测曲线的斜率为-1.562；（b）拟合实测曲线的斜率为-0.075，同理从边缘传感器 ${ \bf P } _ { 2 }$ 和CCD 可得剩余两个斜率为13.84和12.71，即构成传递矩阵的第一列。同理单独运行其他两个位移促动器，并拟合实测数据曲线，可得传递矩阵剩余两列的值，故实测边缘传感器和数字相机激光倾斜测角可得位移促动器到传感器的传递矩阵为：
+
+$$
+\left( \begin{array} { c } { p _ { 1 } } \\ { p _ { 2 } } \\ { m _ { x } } \\ { m _ { y } } \end{array} \right) = \left[ \begin{array} { c c c } { - 1 . 5 6 2 } & { 0 . 6 2 9 } & { - 0 . 0 8 4 } \\ { - 0 . 0 7 5 } & { 0 . 6 1 3 } & { - 1 . 5 9 8 } \\ { 1 3 . 8 4 } & { - 2 5 } & { 1 3 . 7 4 } \\ { 1 2 . 7 1 } & { 0 . 3 1 } & { - 1 2 . 9 3 } \end{array} \right] \left[ \begin{array} { c } { d _ { 1 } } \\ { d _ { 2 } } \\ { d _ { 3 } } \end{array} \right]
+$$
+
+将上述矩阵校正为3行3列的方阵并且求逆后可得实测控制矩阵为：
+
+$$
+{ \left[ \begin{array} { l } { d _ { 1 } } \\ { d _ { 2 } } \\ { d _ { 3 } } \end{array} \right] } = { \left[ \begin{array} { l l l } { - 0 . 8 6 3 } & { - 0 . 1 7 9 } & { - 0 . 0 2 6 } \\ { - 0 . 5 7 7 } & { - 0 . 5 5 5 } & { - 0 . 0 6 8 } \\ { - 0 . 1 8 1 } & { - 0 . 8 3 0 } & { - 0 . 0 2 5 } \end{array} \right] } { \left[ \begin{array} { l } { p _ { 1 } } \\ { p _ { 2 } } \\ { m _ { x } } \end{array} \right] }
+$$
+
+分析理论控制矩阵和实测控制矩阵存在误差的原因为：（1）光学实验平台搭建过程中引入设备装调误差，即实际几何位置存在误差；（2）位移促动器运行过程中可能会出现失步的情况。
+
+# 4主动校正实验与结果分析
+
+4.1理论控制矩阵校正实验
+
+为验证理论控制矩阵的控制性能，设计实验步骤：在静态环境下使用理论控制矩阵作为校正矩阵每隔5秒进行闭环主动校正一次，校正时长为25分钟。图8（a）、（b）所示分别为静态环境下边缘传感器 $\mathbf { P } _ { 1 }$ 、 ${ \bf P } _ { 2 }$ 随时间的变化曲线，图8（c）、（d）所示分别为静态环境下(a) Edge sensor ${ \bf P } _ { 1 }$ ； (b) Edge sensor ${ \bf P } _ { 2 }$ ； (c) Measurements for tilt $\theta _ { x }$ ； (d) Measurements for tilt $\theta _ { y }$
+
+![](images/418934ace02153853a8e9df206667d9db057c349f54aea4a3dbf83c1de30b687.jpg)  
+图8理论控制矩阵主动校正。(a)边缘传感器 ${ \bf P } _ { 1 }$ ； (b)边缘传感器 ${ \bf P } _ { 2 }$ ；(c)倾斜 $\theta _ { x }$ 测量值；(d)倾斜 $\cdot \theta _ { y }$ 测量值Fig.8Active correction of theoretical control matrix.
+
+从实验结果可以看出静态环境下未校正的边缘传感器 $\mathbf { P } _ { 1 }$ 、 ${ \bf P } _ { 2 }$ 随时间变化呈发散趋势，但已校正的边缘传感器 $\mathbf { P } _ { 1 } , \mathbf { P } _ { 2 }$ 随时间变化收敛于一定范围以内；而对于数字相机激光倾斜 $\theta _ { x }$ 校正效果相对不明显， $\theta _ { y }$ 校正效果明显。表1给出了边缘传感器 ${ \bf P } _ { 1 }$ 、边缘传感器 ${ \bf P } _ { 2 }$ 、数字相机激光倾斜 $\cdot \theta _ { x }$ 测角、数字相机激光倾斜 $\mathbf { \nabla } \cdot \theta _ { y }$ 测角的均方根误差值。边缘传感器均方根误差不大于 $7 . 4 \mathrm { n m }$ ，数字相机激光倾斜测角均方根误差不大于0.080"，满足控制要求，说明控制系统是稳定的。
+
+![](images/7aa8f85bb388381405d73fb50f8d8aa9ee17543396facc8b4025f2cf59c521ba.jpg)
+
+Table1Statistical characteristics of active correction   
+of theoretical control matrix   
+
+<html><body><table><tr><td></td><td>P1 measurements /nm</td><td>P2 measurements /nm</td><td>0xmeasurements /arcsec</td><td>0ymeasurements</td></tr><tr><td></td><td></td><td></td><td></td><td>/arcsec</td></tr><tr><td>RMSE</td><td>7.4</td><td>6.7</td><td>0.054</td><td>0.080</td></tr></table></body></html>
+
+# 4.2实测控制矩阵校正实验
+
+为验证实测控制矩阵的控制性能，设计实验步骤：在静态环境下使用实测控制矩阵作为校正矩阵每隔5秒进行主动校正一次，校正时长为25分钟。图9（a）、（b）所示分别为静态环境下边缘传感器 $\mathbf { P } _ { 1 }$ 、 ${ \bf P } _ { 2 }$ 随时间的变化曲线，图9（c)、（d）所示分别为静态环境下数字相机激光倾斜测量值随时间的变化曲线。
+
+![](images/674780790ecb1fa156ed74da9c0977d18de97e6a34c8cb32379ab9704623aa20.jpg)  
+图9实测控制矩阵主动校正。(a)边缘传感器 ${ \bf P } _ { 1 }$ ；(b)边缘传感器 ${ \bf P } _ { 2 }$ ；(c)倾斜 ${ \bf \nabla } \cdot \theta _ { x }$ 测量值；(d)倾斜 $\cdot \theta _ { y }$ 测量值 Fig.9Active calibration of measured control matrix (a) Edge sensor ${ \bf P } _ { 1 }$ ；(b) Edge sensor ${ \bf P } _ { 2 }$ ；(c) Measurements for tilt $\theta _ { x }$ ；(d) Measurements for tilt $\theta _ { y }$
+
+从实验结果可以看出静态环境下未校正的边缘传感器 $\mathbf { P } _ { 1 }$ 、 ${ \bf P } _ { 2 }$ 随时间变化呈发散趋势，但已校正的边缘传感器 $\mathbf { P } _ { 1 } , \mathbf { P } _ { 2 }$ 随时间变化收敛于一定范围以内；而对于数字相机激光倾斜 $\theta _ { x }$ 校正效果相对不明显, $\theta _ { y }$ 校正效果明显。表2可以看出边缘传感器均方根误差不大于 $7 . 3 \mathrm { n m }$ 数字相机激光倾斜测角均方根误差不大于 $0 . 0 5 "$ ，满足控制要求，说明控制系统是稳定的。
+
+Table 2Statistical characteristics of active correction   
+
+<html><body><table><tr><td></td><td>P measurements /nm</td><td>P measurements /nm</td><td>0xmeasurements /arcsec</td><td>θymeasurements /arcsec</td></tr><tr><td>RMSE</td><td>7.3</td><td>6.2</td><td>0.050</td><td>0.076</td></tr></table></body></html>
+
+# 5结论
+
+本文对巨型望远镜中，环型拼接光学镜面子镜之间相对位置关系出现自由度探测不足的问题，提出了一种光学镜面位姿调整方法，通过搭建的两镜拼接实验系统计算出该系统的理论控制矩阵和实测控制矩阵，并在该系统中利用控制矩阵对模拟的子镜位移进行了主动校正实验。实验结果表明理论控制矩阵与实测控制矩阵均可对相邻子镜间的位移误差起到很好的主动校正作用，理论控制矩阵下，边缘传感器均方根误差不大于 $7 . 4 \mathrm { n m }$ ，数字相机激光倾斜测角均方根误差不大于 $0 . 0 8 0 "$ ；实测控制矩阵下，边缘传感器均方根误差不大于 $7 . 3 \mathrm { n m }$ 数字相机激光倾斜测角均方根误差不大于 $0 . 0 5 "$ ，满足两镜拼接实验系统误差控制要求，为8m 环型太阳望远镜子镜位姿调整提供方案参考。
+
+# 参考文献：
+
+[1] 刘忠,邓元勇,杨德华,等.中国巨型太阳望远镜 [J].中国科学：物理学 力学 天文学, 2019,49(05):35-43. Liu Zhong, Deng yuanyong, Yang dehua, et al. Chinese giant solar telescope [J]. SCIENTIA SINICA Physica,Mechanica & Astronomica,2019,49(05):35-43.   
+[2] Brase JM，An JR ，Avicola K ，et al. Wavefront control system for the Keck telescope[C].Adaptive Optical System Technologies. International Society for Optics and Photonics, 1998:517-521.   
+[3] 戴懿纯,刘忠,金振宇.Importance of tip sensing for active control system of $3 0 \mathrm { - m }$ RIT primary mirror[J].Chinese Optics Letters,2009,7(09):791-794.   
+[4]OSWALT T D, MCLEAN I S. Planets, Stars and Stellar Systems, Volume 1: Telescopes and Instrumentation [M].Netherlands: Springer, 2013.   
+[5]Macmynowski D G, Thompson P M, Shelton J C ,et al. Control system modeling for the Thirty Meter Telescope primary mirror [J].Proc Spie,2011,8336(1):26.   
+[6]Dimmler M, Erm T,Bauvir B ,et al. E-ELT primary mirror control system [J]. Proceedings of SPIE - The International Society for Optical Engineering,2Oo8,7012.   
+[7]张宗猛,王正兰,杨德华,吴常铖,金振宇.基于步进电机的位移促动器设计与实测 [J].天
+
+文研究与技术,2019,16(03):329-334.
+
+Zhang Zongmeng,Wang zhenglan, Yang dehua, Wu changcheng, Jin zhenyu. Design and measurement of displacement actuator based on stepping motor[J]. Astronomical Research & Technol0gy,2019,16(03):329-334.
+
+[8] 杨德华,戚永军,朱振东,等.光学拼接镜面微位移主动调节机构的设计和实测 [J].光学 精密工程，2005,13(2):191-197. Yang dehua, Qi yongjun, Zhu zhendong,et al. Design and test of the active micro-motion mechanism for optical mirror segment [J]. Optics and Precision Engineering,2Oo5,13(2): 191-197
+
+[9]韩军海,陈家斌,于家成.CCD 技术在非接触式角度测量中的应用[J].中国造船,2003, 44(4):97-100. Han junhai, Chen jiabin, Yu jiacheng. Application of CCD technology in non-contact angle measurement [J]. Shipbuilding of China,2003,44(4):97-100.
+
+# Research on adjustment method of the active segment in a two-mirror active optics system€
+
+Jiang Zhiyu1,Lu Jinxian’,Yang Dehua1 ,Wu Changcheng1,Jin Zhenyu² (1. College of Automation Enginering,Nanjing University of Aeronautics and Astronautics,Nanjing 211106, China,Email: dhyang@nuaa.edu.cn； 2. Yunnan Astronomical Observatories，Chinese Academy of Sciences, Kunming 650011，China)
+
+Abstract: A two-mirror active optics system is established to simulate the relative pose relationship between the both segments.A pose detection method is proposed to detect the three Degrees of Freedom (DOFs), tip/tilt and piston, of the active segment. It is a combination method of two edge sensors and a laser-CCD based tilt sensor. The theoretical control matrix and the measured control matrix are used to carry out active calibration experiments. The experiment shows that the maximum Root Mean Square (RMS) error of the edge sensors is about $7 . 3 ~ \mathrm { n m }$ and the tilt about O.O76" when the theoretical control matrix is used. While the measured control matrix is used, the edge sensor's RMS error is about $7 . 4 ~ \mathrm { n m }$ ，and the tilt about $0 . 0 8 0 "$ .The research ofers a potential solution to the problem of insuficient detection of the DOFs between the mirrors segmented in a ring.
+
+Key words: Segmented mirror active optics; Sensor; Pose detection; Active control

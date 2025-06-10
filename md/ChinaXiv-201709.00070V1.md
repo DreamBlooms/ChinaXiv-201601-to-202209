@@ -1,0 +1,317 @@
+# Baryonic Isgur-Wise Functions in Large $N _ { c }$ HQET
+
+Ming-Kai Du and Chun Liu State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Chinese Academy of Sciences, P.O. Box 2735， Beijing 100190， China\* Abstract
+
+Large $N _ { c }$ relations among baryonic Isgur-Wise functions appearing at the order of $1 / m _ { Q }$ are analyzed. An application to $\Omega _ { b }  \Omega _ { c }$ weak decays is given.
+
+PACS numbers: 12.39.Hg,11.15.Pg,14.20.Mr,13.30.Ce
+
+# I. INTRODUCTION
+
+Weak decays of heavy baryons are interesting both experimentally and theoretically. They are now under the study of the LHC experiments, as well as previous Tevatron and LEP experiments. They also provide a playing ground for nonperturbative QCD methods. Heavy baryons containing a single heavy quark are described by the heavy quark effective theory (HQET) [1-4]. Relevant physical quantities can be factorized into a calculable perturbative part and universal hadronic quantities. To calculate the latter, some nonperturbative methods, like the large $N _ { c }$ one [5], are needed.
+
+Consider the heavy baryon weak transitions $\Lambda _ { b } \ \to \ \Lambda _ { c }$ and $\Sigma _ { b } ^ { ( * ) }  \Sigma _ { c } ^ { ( * ) }$ .The matrix elements of vector and axial currents ( $V ^ { \mu } = \bar { c } \gamma ^ { \mu } b$ and $A ^ { \mu } = \bar { c } \gamma ^ { \mu } \gamma ^ { 5 } b$ ）between the $\Lambda _ { b }$ and $\Lambda _ { c }$ can be parametrized as
+
+$$
+\begin{array} { l } { { \langle \Lambda _ { c } ( v ^ { \prime } , s ^ { \prime } ) | V ^ { \mu } | \Lambda _ { b } ( v , s ) \rangle ~ = ~ \bar { u } _ { \Lambda _ { c } } ( v ^ { \prime } , s ^ { \prime } ) ( F _ { 1 } ( \omega ) \gamma ^ { \mu } + F _ { 2 } ( \omega ) v ^ { \mu } + F _ { 3 } ( \omega ) v ^ { \prime \mu } ) u _ { \Lambda _ { b } } ( v , s ) , } } \\ { { { } } } \\ { { \langle \Lambda _ { c } ( v ^ { \prime } , s ^ { \prime } ) | A ^ { \mu } | \Lambda _ { b } ( v , s ) \rangle ~ = ~ \bar { u } _ { \Lambda _ { c } } ( v ^ { \prime } , s ^ { \prime } ) ( G _ { 1 } ( \omega ) \gamma ^ { \mu } + G _ { 2 } ( \omega ) v ^ { \mu } + G _ { 3 } ( \omega ) v ^ { \prime \mu } ) \gamma ^ { 5 } u _ { \Lambda _ { b } } ( v , s ^ { \prime } ) . } } \end{array}
+$$
+
+and those between $\Sigma _ { b }$ and ${ \textstyle \sum _ { c } } _ { } ^ { ( * ) }$ are
+
+$$
+\begin{array} { r l } & { \langle \Sigma _ { c } ( v ^ { \prime } , s ^ { \prime } ) | V ^ { \mu } | \Sigma _ { b } ( v , s ) \rangle = \bar { u } _ { \Sigma _ { c } } ( v ^ { \prime } , s ^ { \prime } ) ( F _ { 1 } ^ { \prime } \gamma ^ { \mu } + F _ { 2 } ^ { \prime } v ^ { \mu } + F _ { 3 } ^ { \prime } v ^ { \prime \mu } ) u _ { \Sigma _ { b } } ( v , s ) , } \\ & { \langle \Sigma _ { c } ( v ^ { \prime } , s ^ { \prime } ) | A ^ { \mu } | \Sigma _ { b } ( v , s ) \rangle = \bar { u } _ { \Sigma _ { c } } ( v ^ { \prime } , s ^ { \prime } ) ( G _ { 1 } ^ { \prime } \gamma ^ { \mu } + G _ { 2 } ^ { \prime } v ^ { \mu } + G _ { 3 } ^ { \prime } v ^ { \prime \mu } ) \gamma ^ { 5 } u _ { \Sigma _ { b } } ( v , s ) , } \\ & { \langle \Sigma _ { c } ^ { * } ( v ^ { \prime } , s ^ { \prime } ) | V ^ { \mu } | \Sigma _ { b } ( v , s ) \rangle = \bar { u } _ { \Sigma _ { c } ^ { * } \lambda } ( v ^ { \prime } , s ^ { \prime } ) ( N _ { 1 } ^ { \prime } v ^ { \lambda } \gamma ^ { \mu } + N _ { 2 } ^ { \prime } v ^ { \lambda } v ^ { \mu } + N _ { 3 } ^ { \prime } v ^ { \lambda } v ^ { \prime \mu } + N _ { 4 } ^ { \prime } g ^ { \lambda \mu } ) \gamma ^ { 5 } u } \\ & { \langle \Sigma _ { c } ^ { * } ( v ^ { \prime } , s ^ { \prime } ) | A ^ { \mu } | \Sigma _ { b } ( v , s ) \rangle = \bar { u } _ { \Sigma _ { c } ^ { * } \lambda } ( v ^ { \prime } , s ^ { \prime } ) ( K _ { 1 } ^ { \prime } v ^ { \lambda } \gamma ^ { \mu } + K _ { 2 } ^ { \prime } v ^ { \lambda } v ^ { \mu } + K _ { 3 } ^ { \prime } v ^ { \lambda } v ^ { \prime \mu } + K _ { 4 } ^ { \prime } g ^ { \lambda \mu } ) u _ { \Sigma _ { b } } } \end{array}
+$$
+
+where $\boldsymbol \omega = \boldsymbol v \cdot \boldsymbol v ^ { \prime }$ and $F _ { i } ( \omega ) ^ { ( \prime ) }$ ， $G _ { i } ( \omega ) ^ { ( \prime ) }$ ， $N _ { i } ( \omega ) ^ { \prime }$ and $K _ { i } ( \omega ) ^ { \prime }$ are general form factors. As is well known, in the HQET,form factors can be described in terms of several independent universal form factors which are the so-called Isgur-Wise functions.
+
+The Isgur-Wise functions are defined as follows. Note that it is self-evident that in the HQET, heavy quark fields and baryon felds have their own definition, in spite of adopting the same symbols as in full QCD. For the $\Lambda _ { b }  \Lambda _ { c }$ transition, at the leading order of heavy quark expansion, there is only one Isgur-Wise function $\eta ( \omega )$
+
+$$
+\langle \Lambda _ { c } ( v ^ { \prime } , s ^ { \prime } ) | \bar { c } \Gamma b | \Lambda _ { b } ( v , s ) \rangle = \eta ( \omega ) \bar { u } _ { \Lambda _ { c } } ( v ^ { \prime } , s ^ { \prime } ) \Gamma u _ { \Lambda _ { b } } ( v , s ) ,
+$$
+
+where $\Gamma$ stands for general $\gamma$ matrices, and $\eta ( \omega )$ is normalized at the zero recoil, namely $\eta ( 1 ) = 1$ For $\Sigma _ { b } ^ { ( * ) }  \Sigma _ { c } ^ { ( * ) }$ transitions,two Isgur-Wise functions $\xi _ { 1 } ( \omega )$ and $\xi _ { 2 } ( \omega )$ appear at
+
+the leading order [6]
+
+$$
+\langle \Sigma _ { c } ^ { ( * ) } ( v ^ { \prime } , s ^ { \prime } ) | \bar { c } \Gamma b | \Sigma _ { b } ^ { ( * ) } ( v , s ) \rangle = [ - g _ { \mu \nu } \xi _ { 1 } ( \omega ) + v _ { \mu } v _ { \nu } ^ { \prime } \xi _ { 2 } ( \omega ) ] \bar { u } _ { \Sigma _ { c } ^ { ( * ) } } ^ { \mu } ( v ^ { \prime } , s ^ { \prime } ) \Gamma u _ { \Sigma _ { b } ^ { ( * ) } } ^ { \nu } ( v , s ) ,
+$$
+
+where $\xi _ { 1 } ( 1 ) = 1$ ，and $u _ { \Sigma _ { Q } ^ { * } } ^ { \nu }$ is the Rarita-Schwinger spinor for a spin- $\frac { 3 } { 2 }$ particle. And $u _ { \Sigma _ { Q } } ^ { \nu }$ is defined as
+
+$$
+u _ { \Sigma _ { Q } } ^ { \nu } ( v , s ) = \frac { \gamma ^ { \nu } + v ^ { \nu } } { \sqrt { 3 } } \gamma _ { 5 } u _ { \Sigma _ { Q } } ( v , s ) .
+$$
+
+Isgur-Wise functions at $1 / m _ { Q }$ order will be discussed in detail in the next section.
+
+Then, in the heavy quark limit,the general form factors in Eqs. (1) and (2) are simplified. For the $\Lambda _ { b }  \Lambda _ { c }$ transition,
+
+$$
+F _ { 1 } = G _ { 1 } = C ( \mu ) \eta ( \omega ) \qquad , \qquad F _ { 2 } = G _ { 2 } = F _ { 3 } = G _ { 3 } = 0 ,
+$$
+
+where $C ( \mu )$ is a perturbatively calculable coefficient. For $\Sigma _ { b } ^ { ( * ) }  \Sigma _ { c } ^ { ( * ) }$ transitions, the formulas are a bit more complex, which can be found in [7]. Note that Isgur-Wise functions are independent of the weak currents.
+
+At this stage, the Isgur-Wise functions are still unknown， and need nonperturbative methods to be calculated. In the large $N _ { c }$ limit，interesting information about baryonic Isgur-Wise functions was obtained. In large $N _ { c }$ baryons, there is a spin-flavor symmetry of light quarks[8]which not only gives the massdegeneracyof $\Sigma _ { Q } ^ { ( * ) }$ and $\Lambda _ { Q }$ , but also results in the following relations among the Isgur-Wise functions [9, 10]:
+
+$$
+\xi _ { 1 } ( \omega ) = \eta ( \omega ) , ~ \xi _ { 2 } ( \omega ) = \frac { \eta ( \omega ) } { 1 + \omega } .
+$$
+
+This large $N _ { c }$ result is also consistent with that obtained from the large $N _ { c }$ constituent quark model [11].
+
+Furthermore, in the heavy baryon Skyrme model [12], $\eta ( \omega )$ is calculated to be [13]
+
+$$
+\eta ( \omega ) = 0 . 9 9 \exp [ - 1 . 3 ( \omega - 1 ) ] .
+$$
+
+In fact, in the real large $N _ { c }$ limit, $\eta ( \omega )$ is actually a $\delta$ -function [14]
+
+From Eqs. (3), (4) and (7), it is observed that to obtain the $\Sigma _ { Q } ^ { ( * ) }$ matrix elements of weak currents in large $N _ { c }$ approximation,what we need to do is just multiplying the $\Lambda _ { Q }$ matrix element by the following Lorentz tensor:
+
+$$
+\left[ - g _ { \mu \nu } + \frac { v _ { \mu } v _ { \nu } ^ { \prime } } { 1 + \omega } \right] .
+$$
+
+This is because the two kinds of decays are essentially the same, except for Lorentz structures (a kinetic result of the light degrees of freedom).
+
+With this observation, in the following sections, we will extend the large $N _ { c }$ relations in Eq. (7) to $O ( 1 / m _ { Q } )$
+
+# II. ISGUR-WISE FUNCTIONS AT $O ( 1 / m _ { Q } )$
+
+There are more Isgur-Wise functions at the $1 / m _ { Q }$ order. Before we consider large $N _ { c }$ relations among the Isgur-Wise functions at $O ( 1 / m _ { Q } )$ , it is useful to start from their definition.
+
+# A. A mini-review
+
+$1 / m _ { Q }$ corrections arise from two sources. One is due to the HQET Lagrangian at $O ( 1 / m _ { Q } )$ ，and the other is obtained through the $1 / m _ { Q }$ expansion of heavy quark currents in the full QCD.
+
+Firstly, let us consider the Lagrangian corrections. To the order $O ( 1 / m _ { Q } )$ the effective Lagrangian is [2, 16]
+
+$$
+\begin{array} { l } { { \displaystyle { \mathcal { L } } = \bar { h } _ { v } i v \cdot D h _ { v } } } \\ { { \displaystyle \qquad - \frac { 1 } { 2 m _ { Q } } \bar { h } _ { v } [ D ^ { 2 } + \frac { 1 } { 2 } g _ { s } \sigma _ { \mu \nu } G ^ { \mu \nu } ] h _ { v } . } } \end{array}
+$$
+
+For the hadronic matrix element of a heavy quark current, correction due to the heavy quark kinetic energy is
+
+$$
+\left. H _ { c } \right| - i \int d ^ { 4 } x T \biggl ( g _ { s } \bar { c } _ { v ^ { \prime } } \frac { D ^ { 2 } } { 2 m _ { c } } c _ { v ^ { \prime } } \biggr | _ { x } \bar { c } _ { v ^ { \prime } } \Gamma b _ { v } \biggr | _ { 0 } \biggr ) \left| H _ { b } \right. .
+$$
+
+For $H _ { Q }$ being $\Lambda _ { Q }$ ， Eq. (10) is parametrized as
+
+$$
+\bar { u } _ { \Lambda _ { c } } ( v ^ { \prime } , s ^ { \prime } ) \frac { 1 + \psi ^ { \prime } } { 2 } \Gamma u _ { \Lambda _ { b } } ( v , s ) \frac { \chi ( \omega ) } { m _ { c } } ,
+$$
+
+where $\chi ( \omega )$ is the $\Lambda _ { Q }$ Isgur-Wise function at the order of $1 / m _ { Q }$ . It satisfes that $\chi ( 1 ) = 0$ In the real large $N _ { c }$ limit $\chi ( \omega ) = 0$ [14].
+
+In the case of $H _ { Q }$ being $\Sigma _ { Q } ^ { ( * ) }$ , Eq. (10)is parametrized via two more Isgur-Wisefunctions,
+
+$$
+\frac { 1 } { m _ { c } } \Big [ - g _ { \mu \nu } \chi _ { 1 } ( \omega ) + v _ { \mu } v _ { \nu } ^ { \prime } \chi _ { 2 } ( \omega ) \Big ] \bar { u } _ { \Sigma _ { c } ^ { ( * ) } } ^ { \mu } ( v ^ { \prime } , s ^ { \prime } ) \frac { 1 + \rlap / v ^ { \prime } } { 2 } \Gamma u _ { \Sigma _ { b } ^ { ( * ) } } ^ { \nu } ( v , s ) ,
+$$
+
+with that $\chi _ { 1 } ( 1 ) = \chi _ { 2 } ( 1 ) = 0$
+
+Correction due to the heavy quark chromomagnetic interaction is
+
+$$
+\left. H _ { Q } \right| - \frac { i } { 2 } \int d ^ { 4 } x T \biggl ( g _ { s } { \bar { c } } _ { v ^ { \prime } } \frac { \sigma _ { \mu \nu } G ^ { \mu \nu } } { 2 m _ { c } } c _ { v ^ { \prime } } \biggr | _ { x } { \bar { c } } _ { v ^ { \prime } } \Gamma b _ { v } \biggr | _ { 0 } \biggr ) \left| H _ { Q } \right. .
+$$
+
+For $H _ { Q }$ being $\Lambda _ { b }$ , itiszero[3].Itisbitmoreompcatedintasf $H _ { Q }$ being $\Sigma _ { Q } ^ { ( * ) }$ . According to Ref. [7], the chromomagnetic $1 / m _ { Q }$ correction can be parametrized as
+
+$$
+\bar { u } _ { { \Sigma } _ { c } ^ { ( * ) } } ^ { \mu } ( v ^ { \prime } , s ^ { \prime } ) \sigma ^ { \lambda \rho } \frac { 1 + \psi ^ { \prime } } { 2 } \Gamma u _ { { \Sigma } _ { b } ^ { ( * ) } } ^ { \nu } ( v , s ) { \cal M } _ { \lambda \rho } ^ { \mu \nu } ,
+$$
+
+where
+
+$$
+M _ { \lambda \rho } ^ { \mu \nu } = \frac { 1 } { 2 m _ { c } } \Big [ \zeta _ { 1 } ( \omega ) g _ { \lambda } ^ { \mu } g _ { \rho } ^ { \nu } + \zeta _ { 2 } ( \omega ) g _ { \rho } ^ { \mu } v ^ { \prime \nu } v _ { \lambda } + \zeta _ { 3 } ( \omega ) g _ { \lambda } ^ { \nu } v ^ { \mu } v _ { \rho } \Big ] .
+$$
+
+Now consider $1 / m _ { Q }$ corrections of the current operator. The relation between the QCD currents and HQET operators is
+
+$$
+\bar { c } \Gamma b = \bar { c } _ { v ^ { \prime } } \biggl ( \Gamma - \frac { i \overleftarrow { D } _ { \alpha } } { 2 m _ { Q } } \gamma ^ { \alpha } \Gamma \biggr ) b _ { v } \quad .
+$$
+
+For the $\Lambda _ { b }  \Lambda _ { c }$ decay [15, 16],
+
+$$
+\bar { c } _ { v ^ { \prime } } i \overleftarrow { \lambda } \partial _ { \alpha } \Gamma b _ { v } = \frac { \bar { \Lambda } \eta } { ( 1 + \omega ) } \bar { u } _ { \Lambda _ { c } } ( v ^ { \prime } , s ^ { \prime } ) \Gamma u _ { \Lambda _ { b } } ( v , s ) ( v _ { \alpha } - \omega v _ { \alpha } ^ { \prime } ) \quad ,
+$$
+
+where $\Lambda = m _ { \Lambda _ { Q } } - m _ { Q }$ For the $\Sigma _ { b } ^ { ( * ) } ( v , s )  \Sigma _ { c } ^ { ( * ) } ( v ^ { \prime } , s ^ { \prime } )$ transition, the $1 / m _ { Q }$ correction is parametrized as [7]
+
+$$
+\bar { c } _ { v ^ { \prime } } i \overleftarrow { D } _ { \alpha } \Gamma b _ { v } = \bar { u } _ { \Sigma _ { c } ^ { ( * ) } } ^ { \mu } ( v ^ { \prime } , s ^ { \prime } ) \Gamma u _ { \Sigma _ { b } ^ { ( * ) } } ^ { \nu } ( v , s ) P _ { \alpha } ^ { \mu \nu } ,
+$$
+
+where
+
+$$
+P _ { \alpha } ^ { \mu \nu } = \kappa _ { 1 } v ^ { \prime \nu } v ^ { \mu } v _ { \alpha } + \kappa _ { 2 } v ^ { \prime \nu } v ^ { \mu } v _ { \alpha } ^ { \prime } + \kappa _ { 3 } g ^ { \mu \nu } v _ { \alpha } + \kappa _ { 4 } g ^ { \mu \nu } v _ { \alpha } ^ { \prime } + \kappa _ { 5 } g _ { \alpha } ^ { \mu } v ^ { \prime \nu } + \kappa _ { 6 } g _ { \alpha } ^ { \nu } v ^ { \mu } .
+$$
+
+Actually, only two of these Isgur-Wise functions are independent [7]
+
+$$
+= - \frac { \bar { \Sigma } } { 1 + \omega } \xi _ { 1 } , \kappa _ { 4 } = \frac { \bar { \Sigma } \omega } { 1 + \omega } \xi _ { 1 } , \kappa _ { 5 } = \bar { \Sigma } ( 1 - \omega ) \xi _ { 2 } - ( \kappa _ { 1 } + \omega \kappa _ { 2 } ) , \kappa _ { 6 } = - ( \omega \kappa _ { 1 } + \kappa _ { 3 } ) \xi _ { 2 } .
+$$
+
+The expressions of form factors in Eqs. (1) and (2) in terms of all these Isgur-Wise functions can be found in [7].
+
+# B. Large $N _ { c }$ relations
+
+Now consider the large $N _ { c }$ limit, there are relations among the subleading order Isgur-Wise functions. The point is that the observation in Sec.I is still applicable. The only difference here is that heavy quark currents have different forms, which are irrelevant because of the heavy quark symmetry. Then in the large $N _ { c }$ limit，Eq.(12) which is the charm quark kinetic energy correction should be
+
+$$
+{ \frac { \chi ( \omega ) } { m _ { c } } } \Big [ - g _ { \mu \nu } + { \frac { v _ { \mu } v _ { \nu } ^ { \prime } } { ( 1 + \omega ) } } \Big ] \bar { u } _ { \Sigma _ { c } ^ { ( * ) } } ^ { \mu } ( v ^ { \prime } , s ^ { \prime } ) \Gamma u _ { \Sigma _ { b } ^ { ( * ) } } ^ { \nu } ( v , s ) .
+$$
+
+This results in the following relations:
+
+$$
+\chi _ { 1 } ( \omega ) = \chi ( \omega ) , \quad \chi _ { 2 } ( \omega ) = { \frac { \chi ( \omega ) } { 1 + \omega } } .
+$$
+
+With the same method, we obtain a pleasant result: in the large $N _ { c }$ limit, to the $1 / m _ { Q }$ order in HQET, there is no chromomagnetic corrections in the $\Sigma _ { b } ^ { ( * ) } ( v , s )  \Sigma _ { c } ^ { ( * ) } ( v ^ { \prime } , s ^ { \prime } )$ decay,
+
+$$
+\zeta _ { 1 } ( \omega ) = \zeta _ { 2 } ( \omega ) = \zeta _ { 3 } ( \omega ) = 0 .
+$$
+
+This can be understood easily, since in the large $N _ { c }$ limit, spins and isospins of light degrees of freedom in $\Sigma _ { b } ^ { ( * ) } ( v , s )$ and $\Sigma _ { c } ^ { ( * ) } ( v ^ { \prime } , s ^ { \prime } )$ have decoupled. This decoupling makes $\Sigma _ { Q } ^ { ( * ) }$ no different from $\Lambda _ { Q }$
+
+Therefore, in the large $N _ { c }$ limit，the time-ordered product of $1 / m _ { Q }$ terms in the La grangian with the heavy quark current just produces a trivial corrction for $\Sigma _ { Q } ^ { ( * ) }$ decays: a redefinition of the leading order Isgur-Wise functions, this is similar to the case of $\Lambda _ { Q }$ decays.
+
+Looking at the $1 / m _ { c }$ Correction of the current operator,for $\Sigma _ { Q } ^ { ( * ) }$ we have
+
+$$
+\bar { c } _ { v ^ { \prime } } i \overleftarrow { D } _ { \alpha } \Gamma b _ { v } = \frac { \bar { \Sigma } \eta } { ( 1 + \omega ) } \big ( v _ { \alpha } - \omega v _ { \alpha } ^ { \prime } \big ) \Big [ - g _ { \mu \nu } + \frac { v _ { \mu } v _ { \nu } ^ { \prime } } { 1 + \omega } \Big ] \bar { u } _ { \Sigma _ { c } ^ { ( * ) } } ^ { \mu } ( v ^ { \prime } , s ^ { \prime } ) \Gamma u _ { \Sigma _ { b } ^ { ( * ) } } ^ { \nu } ( v , s ) ,
+$$
+
+where $\Sigma$ is defined as $\Sigma = m _ { \Sigma _ { b } } - m _ { b } \simeq m _ { \Sigma _ { c } } - m _ { c }$ . Note that $\bar { \Sigma } = \bar { \Lambda }$ in the large $N _ { c }$ limit . Again， we obtain some new relations as below:
+
+$$
+= \frac { \bar { \Sigma } } { ( 1 + \omega ) ^ { 2 } } \eta , \quad \kappa _ { 2 } = - \frac { \bar { \Sigma } \omega } { ( 1 + \omega ) ^ { 2 } } \eta , \quad \kappa _ { 3 } = - \frac { \bar { \Sigma } } { 1 + \omega } \eta , \quad \kappa _ { 4 } = \frac { \bar { \Sigma } \omega } { 1 + \omega } \eta , \quad \kappa _ { 5 } = \kappa _ { 6 } = \frac { \bar { \kappa } \omega } { 1 + \omega } \eta .
+$$
+
+It is observed that, after taking large $N _ { c }$ approximation, the relations obtained in HQET, such as Eq.(20), still hold.
+
+# C. General form factors
+
+Up to now, we have derived all of large $N _ { c }$ relations for the $1 / m _ { c }$ corrections, $1 / m _ { b }$ （204号 corrections can be obtained similarly. Including all $1 / m _ { Q }$ corrections,in the large $N _ { c }$ limit, the general form factors in Eqs. (1） and (2） are expressed as
+
+$$
+\begin{array} { l l } { { F _ { 1 } = \bar { \nu } ( \stackrel { \cdot } { \bf d } \omega ) + \bar { \nu } ( \stackrel { \cdot } { \bf d } \omega ) \left[ \displaystyle \frac { \bar { \lambda } } { 2 m _ { c } } + \frac { \bar { \lambda } } { 2 m _ { c } } \right] ~ , ~ } } & { { ~ \bar { G } _ { 1 } = \bar { \nu } ( \stackrel { \cdot } { \bf d } \omega ) - \bar { \nu } ( \stackrel { \cdot } { \bf d } \omega ) \left[ \displaystyle \frac { \bar { \lambda } } { 2 m _ { c } } + \frac { \bar { \lambda } } { 2 m _ { c } } \right] ~ , } } \\ { { F _ { 5 } = - \displaystyle \frac { \bar { \lambda } } { m _ { c } } \left( \displaystyle \frac { 1 } { 1 + \omega } \right) \bar { \mu } ( \stackrel { \cdot } { \bf d } \omega ) ~ , ~ } } & { { ~ \bar { G } _ { 9 } = - \displaystyle \frac { \bar { \lambda } } { m _ { c } } \left( \displaystyle \frac { 1 } { 1 + \omega } \right) \bar { \nu } ( \stackrel { \cdot } { \bf d } \omega ) ~ } } \\ { { F _ { 5 } = - \displaystyle \frac { \bar { \lambda } } { m _ { c } } \left( \displaystyle \frac { 1 } { 1 + \omega } \right) \bar { \mu } ( \stackrel { \cdot } { \bf d } \omega ) ~ , ~ } } & { { ~ \bar { G } _ { 3 } = \displaystyle \frac { \bar { \lambda } } { m _ { b } } \left( \displaystyle \frac { 1 } { 1 + \omega } \right) \bar { \mu } ( \stackrel { \cdot } { \bf d } \omega ) ~ } } \\ { { F _ { 1 } = - \displaystyle \frac { \bar { \lambda } } { 3 } \bar { \mu } ( \stackrel { \cdot } { \bf d } \omega ) - \displaystyle \frac { 1 } { 3 } \bar { \mu } ( \omega ) \left[ \displaystyle \frac { \bar { \Sigma } } { 2 m _ { c } } + \displaystyle \frac { \bar { \Sigma } } { 2 m _ { c } } \right] ~ , ~ } } & { { ~ \bar { G } _ { 7 } ^ { * } = - \displaystyle \frac { 1 } { 3 } \bar { \nu } ( \stackrel { \cdot } { \bf d } \omega ) + \displaystyle \frac { \bar { \lambda } } { 2 } \bar { \nu } ( \stackrel { \cdot } { \bf d } \omega ) ~ \left[ \displaystyle \frac { \bar { \Sigma } } { 2 m _ { c } } - \frac { \bar { \lambda } } { 2 m _ { c } } \right] ~ , } } \\   F _ { 5 } ^ { * } = \displaystyle \frac { \bar { \lambda } } { 3 ( 1 + \omega ) ^ { * } } + \displaystyle \frac { \bar { \nu } ( \stackrel { \cdot } { \bf d } \omega ) } { 3 ( 1 + \omega ) } \left[ - \displaystyle \frac { \bar { \lambda } } { m _ { c } } + \displaystyle \frac { \bar { \lambda } } { m _ { c } } \right] ~ \end{array}
+$$
+
+$$
+F _ { 3 } ^ { \prime } = \frac { 4 \eta ^ { \prime } ( \omega ) } { 3 ( 1 + \omega ) } + \frac { \eta ^ { \prime } ( \omega ) } { 3 ( 1 + \omega ) } \Bigg [ \frac { 2 \bar { \Sigma } } { m _ { c } } - \frac { \bar { \Sigma } } { m _ { b } } \Bigg ] ~ , \qquad G _ { 3 } ^ { \prime } = - \frac { \bar { \Sigma } } { 3 m _ { b } } \Bigg ( \frac { 1 } { 1 + \omega } \Bigg ) \eta ^ { \prime } ( \omega )
+$$
+
+$$
+N _ { 1 } ^ { \prime } = \frac { - 2 \eta ^ { \prime } ( \omega ) } { \sqrt { 3 } \Big ( 1 + \omega \Big ) } + \frac { - \eta ^ { \prime } ( \omega ) } { \sqrt { 3 } \Big ( 1 + \omega \Big ) } \Bigg [ \frac { \bar { \Sigma } } { m _ { c } } + \frac { \bar { \Sigma } } { m _ { b } } \Bigg ] ~ , ~ K _ { 1 } ^ { \prime } = 0
+$$
+
+$$
+N _ { 2 } ^ { \prime } = 0 \ , \qquad K _ { 2 } ^ { \prime } = { \frac { 2 } { \sqrt { 3 } } } \eta ^ { \prime } ( \omega ) { \frac { \bar { \Sigma } } { m _ { c } } } \biggl ( { \frac { 1 } { 1 + \omega } } \biggr ) ^ { 2 } \ ,
+$$
+
+$$
+N _ { 3 } ^ { \prime } = \frac { 2 \eta ^ { \prime } ( \omega ) } { \sqrt { 3 } \Big ( 1 + \omega \Big ) } + \frac { \eta ^ { \prime } ( \omega ) } { \sqrt { 3 } \Big ( 1 + \omega \Big ) } \Bigg [ \frac { \bar { \Sigma } } { m _ { c } } + \frac { \bar { \Sigma } } { m _ { b } } \Bigg ] ~ ,
+$$
+
+$$
+\begin{array} { c } { { \sqrt { 3 } \big ( 1 + \omega \big ) \quad \sqrt { 3 } \big ( 1 + \omega \big ) \big [ \mathrm { m } \mathrm { e } _ { c } \quad \mathrm { m } _ { b } \big ] , } } \\ { { \displaystyle K _ { 3 } ^ { \prime } = \frac { - 2 \eta ^ { \prime } ( \omega ) } { \sqrt { 3 } \big ( 1 + \omega \big ) } + \frac { \eta ^ { \prime } ( \omega ) } { \sqrt { 3 } \big ( 1 + \omega \big ) } \Bigg [ \frac { \tilde { \Sigma } } { m _ { c } } \Bigg ( \frac { 1 - \omega } { 1 + \omega } \Bigg ) - \frac { \tilde { \Sigma } } { m _ { b } } \Bigg ] , } } \\ { { \displaystyle N _ { 4 } ^ { \prime } = \frac { - 2 \eta ^ { \prime } ( \omega ) } { \sqrt { 3 } } - \frac { 1 } { \sqrt { 3 } } \eta ^ { \prime } ( \omega ) \Bigg [ \frac { \tilde { \Sigma } } { m _ { c } } + \frac { \tilde { \Sigma } } { m _ { b } } \Bigg ] , } } \\ { { \displaystyle K _ { 4 } ^ { \prime } = \frac { 2 \eta ^ { \prime } ( \omega ) } { \sqrt { 3 } } - \frac { 1 } { \sqrt { 3 } } \eta ^ { \prime } ( \omega ) \Bigg [ \frac { \tilde { \Sigma } } { m _ { c } } + \frac { \tilde { \Sigma } } { m _ { b } } \Bigg ] \Bigg ( \frac { 1 - \omega } { 1 + \omega } \Bigg ) , } } \end{array}
+$$
+
+where
+
+$$
+\eta ^ { \prime } ( \omega ) \equiv \eta ( \omega ) + \chi ( \omega ) \biggl ( \frac { 1 } { m _ { c } } + \frac { 1 } { m _ { b } } \biggr ) \quad ,
+$$
+
+and all the form factors should be multiplied by $C ( \mu )$ in Eq.(3). We have checked that all the results are consistent with [7] where all $1 / m _ { Q }$ form factors are listed. After taking the large $N _ { c }$ limit,all the relations of $1 / m _ { Q }$ form factors shown in [7] still hold,especially the following normalization relations at zero recoil point:
+
+$$
+\begin{array} { l } { { \displaystyle { \mathcal { F } } _ { 1 } ( 1 ) + F _ { 2 } ( 1 ) + F _ { 3 } ( 1 ) = C ( \mu ) ~ , ~ } } \\ { { \displaystyle { \mathcal { F } } _ { 1 } ^ { \prime } ( 1 ) + F _ { 2 } ^ { \prime } ( 1 ) + F _ { 3 } ^ { \prime } ( 1 ) = C ( \mu ) ~ , ~ } } \end{array} \quad G _ { 1 } ^ { \prime } ( 1 ) = - \frac { 1 } { 3 } C ( \mu ) ~ , \quad K _ { 4 } ^ { \prime } ( 1 ) = \frac { 2 } { \sqrt { 3 } } C ( \mu ) .
+$$
+
+In fact， through our analysis,it is easy to see that the large $N _ { c }$ limit and HQET are commutative, in other words, the large $N _ { c }$ approximation preserves all relations obtained in HQET.
+
+# III. THE WEAKDECAYS
+
+As an application, we now calculate $\Omega _ { b }  \Omega _ { c } ^ { ( * ) }$ weak decay rates [19]. Since $\Sigma _ { b } ^ { ( * ) }$ has the strong interaction decay mode, we mainly consider the semileptonic decays of $\Omega _ { b }$ .In the SU(3) light quark favor symmetry limit, $\Omega _ { b ( c ) } ^ { ( * ) }$ baryons are identical to $\Sigma _ { b ( c ) } ^ { ( * ) }$ baryons. Therefore,fortgur-Wisefuntios,esameresultsfo $\Omega _ { b ( c ) } ^ { ( * ) }$ can be obtained.
+
+Neglecting the lepton masses, for the decay of $\Omega _ { b }  \Omega _ { c } \textit { l } \bar { \nu }$ ， the differential decay rate can be expressed [17,18] in terms of the general form factors in Eq. (1) as
+
+$$
+\begin{array} { r l } { \cfrac { d \Gamma _ { 1 } ( \omega ) } { d \omega } = } & { \frac { G _ { F } ^ { 2 } | V _ { c b } | ^ { 2 } m _ { \Omega _ { b } } ^ { 5 } r _ { 2 } ^ { 3 } } { 2 4 \pi ^ { 3 } } \sqrt { ( \omega ^ { 2 } - 1 ) } } \\ & { \times \bigg \{ 2 ( \omega - 1 ) \kappa _ { 2 } F _ { 1 } ^ { \prime 2 } + ( \omega - 1 ) \Big [ ( 1 + r _ { 2 } ) F _ { 1 } ^ { \prime } + ( \omega + 1 ) \Big ( r _ { 2 } F _ { 2 } ^ { \prime } + F _ { 3 } ^ { \prime } \Big ) \Big ] ^ { 2 } } \\ & { + 2 ( \omega + 1 ) \kappa _ { 2 } G _ { 1 } ^ { \prime 2 } + ( \omega + 1 ) \Big [ ( 1 - r _ { 2 } ) G _ { 1 } ^ { \prime } - ( \omega - 1 ) \Big ( r _ { 2 } G _ { 2 } ^ { \prime } + G _ { 3 } ^ { \prime } \Big ) \Big ] ^ { 2 } \bigg \} } \end{array}
+$$
+
+where $r _ { 2 } = m _ { \Omega _ { c } } / m _ { \Omega _ { b } }$ and $\kappa _ { 2 } = 1 + r _ { 2 } ^ { 2 } - 2 r _ { 2 } \omega$
+
+For the decay of $\Omega _ { b }  \Omega _ { c } ^ { * } ~ l ~ \bar { \nu }$ ，we have [20]
+
+$$
+\begin{array} { r l } { \frac { d \Gamma _ { 2 } ( \omega ) } { d \omega } = } & { \frac { G _ { F } ^ { 2 } | V _ { t } | ^ { 2 } m _ { 0 } ^ { 5 } r _ { 0 } ^ { 3 } } { 7 2 ^ { 2 } \pi ^ { 3 } } \sqrt { ( \omega ^ { 2 } - 1 ) } } \\ & { \times \Bigg \{ ( \omega - 1 ) \kappa _ { 3 } \Big [ N _ { 4 } ^ { \prime } - 2 ( \omega + 1 ) N _ { 1 } ^ { \prime } \Big ] ^ { 2 } + ( \omega + 1 ) \kappa _ { 3 } \Big [ K _ { 4 } ^ { \prime } - 2 ( \omega - 1 ) K _ { 1 } ^ { \prime } \Big ] ^ { 2 } } \\ & { + 2 ( \omega + 1 ) \Big [ ( \omega - 1 ) ( r _ { 3 } + 1 ) K _ { 1 } ^ { \prime } + ( \omega ^ { 2 } - 1 ) ( K _ { 3 } ^ { \prime } + r _ { 3 } K _ { 2 } ^ { \prime } ) + ( \omega - r _ { 3 } ) K _ { 4 } ^ { \prime } } \\ & { + 2 ( \omega - 1 ) \Big [ ( \omega + 1 ) ( r _ { 3 } - 1 ) N _ { 1 } ^ { \prime } + ( \omega ^ { 2 } - 1 ) ( N _ { 3 } ^ { \prime } + r _ { 3 } N _ { 2 } ^ { \prime } ) + ( \omega - r _ { 3 } ) N _ { 4 } ^ { \prime } \Big ] } \\ & { + 3 \kappa _ { 3 } \Big [ ( \omega + 1 ) K _ { 4 } ^ { \prime 2 } + ( \omega - 1 ) N _ { 4 } ^ { \prime 2 } \Big ] \Bigg \} } \end{array}
+$$
+
+where $r _ { 3 } = m _ { \Omega _ { c } ^ { * } } / m _ { \Omega _ { b } }$ and $\kappa _ { 3 } = 1 + r _ { 3 } ^ { 2 } - 2 r _ { 3 } \omega$
+
+The form factors have been expanded in Eq.(26) to the order of $1 / m _ { c }$ and $1 / m _ { b }$ . There are only one Isgur-Wise function $\eta ( \omega )$ at the leading order,one $\chi ( \omega )$ at the subleading order, and the mass parameter $\Omega \equiv \Sigma$ . With Eq. (8) and $\chi ( \omega ) \simeq 0$ [14], we obtain the decay widths as
+
+$$
+\begin{array} { r } { \Gamma ( \Omega _ { b } \to \Omega _ { c } \mathrm { ~ } l \mathrm { ~ } \bar { \nu } ) = 3 . 3 8 \times 1 0 ^ { - 1 4 } \mathrm { ~ G e V } ; } \\ { \Gamma ( \Omega _ { b } \to \Omega _ { c } ^ { * } \mathrm { ~ } l \mathrm { ~ } \bar { \nu } ) = 3 . 3 4 \times 1 0 ^ { - 1 4 } \mathrm { ~ G e V } . } \end{array}
+$$
+
+In the calculations, we have taken the following parameters [21]:
+
+$$
+\begin{array} { l } { { m _ { \Omega _ { b } } = 6 . 0 7 \ \mathrm { G e v } \quad , \quad m _ { \Omega _ { c } } = 2 . 7 0 \ \mathrm { G e v } , } } \\ { { m _ { \Omega _ { c } ^ { * } } = 2 . 7 7 \ \mathrm { G e v } \quad , \quad \mid V _ { c b } \mid = 4 0 . 9 \times 1 0 ^ { - 3 } \ . } } \end{array}
+$$
+
+The pole masses of heavy quarks have been taken as $m _ { b } = 4 . 8 3$ Gev, $m _ { c } = 1 . 4 3$ Gev.
+
+# IV.DISCUSSIONS
+
+In this paper, we have studied $O ( 1 / m _ { Q } )$ universal baryonic Isgur-Wise functions in the large $N _ { c }$ limit, our results are explicitly listed in Eqs. (22), (23) and (25). As an application, we have calculated the semileptonic decays of $\Omega _ { b }$ . Actually, the same results would be obtained using the leading order large $N _ { c }$ analysis in [9-1l],while our method is a lot simpler.
+
+Let us now consider the uncertainties of our results. Since the $1 / m _ { Q }$ corrections have been included, the uncertainties brought about by HQET have been suppressed to $O ( \Lambda _ { Q C D } ^ { 2 } / m _ { c } ^ { 2 } \sim$
+
+1/25).The remaining uncertainties come from two approximations: flavor SU(3) symmetry and large $N _ { c }$ limit.Effects of flavor SU $( 3 )$ violation might not be huge especially near the zero recoil point. Since $\Omega _ { b }$ has s-quarks, we could expect the effects as [3]:
+
+$$
+\left| \xi _ { 1 } ( \omega ) - \eta ( \omega ) \right| \sim \ln \left( \frac { m _ { K } ^ { 2 } } { \mu ^ { 2 } } \right)
+$$
+
+which would be small by choosing some appropriate renormalization scale $\mu$ . Then, the main uncertainties are produced by the large $N _ { c }$ approximation, while we have so little knowledge about them. Sometimes they can be as large as $3 0 \%$ . In our case, however, it is unnecessary to be that pessimistic. As a general experience, the large $N$ limit is a good approximation for baryons and also good for Isgur-Wise functions. Because of replacing $\Sigma$ with $\Omega$ in the decay calculation, we have already taken part of the favor SU(3) violation effects and part of the corrections to the large $N _ { c }$ limit into account.
+
+Finally, it is important to notice that,whether or not the large $N _ { c }$ limit can be treated as a good approximation, at least in the vicinity of the zero recoil point,the uncertainties produced by large $N _ { c }$ limit should not be huge， since it preserves the normalizations of Isgur-Wise functions as in HQET, just like we have emphasized in Sec.II, which will be tested at the LHC or the proposed Z-factory in the near future.
+
+# Acknowledgments
+
+This work was supported in part by the National Natural Science Foundation of China under nos. 11075193 and 10821504,and by the National Basic Research Program of China under Grant No. 2010CB833000.
+
+[3] N. Isgur and M.B. Wise,Nucl. Phys. B348, 276 (1991); H. Georgi, Nucl. Phys. B348, 293 (1991); T. Mannel, W. Roberts and Z. Ryzak, Nucl. Phys. B355,38 (1991). [4] For reviews, see A.V. Manohar and M.B. Wise, Heavy Quark Physcis, (Cambridge University Press, Cambridge, England 200o); A. Grozin, Heavy Quark Effctive Theory, (Springer, Newyork, 2004).   
+[5] G.'t Hooft,Nucl. Phys.B72, 461 (1974); E. Witten, Nucl. Phys. B160, 57 (1979).   
+[6] N. Isgur and M. B. Wise, Nucl. Phys.B348, 276(1991). H. Georgi, Nucl. Phys. B348, 293(1991). T. Mannel, W. Roberts and Z. Ryzak, Nucl. Phys. B355, 38(1991). [7] C. G. Boyd and D. E. Brahm, Phys. Lett. B254, 468 (1991).   
+[8] R. F. Dashen and A.V. Manohar, Phys. Lett. B315,425(1993)； 315,438(1993)； E. Jenkins , ibid. Phys. Lett.B315,431(1993); 315,441(1993); 315,447(1993)； R.F. Dashen, E. Jenkins, and A. V. Manohar, Phys. Rev. D49, 4713(1994); 51, 3697(1995); C. Carone, H. Georgi and S. Osofsky, Phys. Lett. B322,227(1994); M. A. Luty and J. March-Russell, Nucl. Phys. B426, 71(1994); J.-L. Gervais and B. Sakita, Phys. Rev. D30,1795(1984). [9] C. K. Chow, Phys. Rev. D51, 1224 (1995); C. K. Chow, Phys. Rev. D54, 873 (1996).   
+[10] F. Hussain and G. Thompson, Phys. Lett. B335, 205 (1994).   
+[11] F.Hussain, J. G. Korner, M. Krämer,and G. Thompson, Z. Phys. C51,321 (1991);J. G. Korner, M. Krämer and D.Pirjol, Prog. Part. Nucl. Phys. 33, 787 (1994); J. G. Korner, Nucl. Phys. Proc. Suppl. 50, 140 (1996)； F. Hussain, J. G. Korner, J. Landgraf and S. Tawfiq, Z. Phys. C69, 655 (1996).   
+[12] E. Jenkins,A. V. Manohar, and M. B. Wise, Nucl. Phys. B396, 27(1993); C. G. Callan and I. Klebanov, ibid. Nucl. Phys. B262, 365(1985)； M. Rho, D. O. Riska,and N. N. Scoccola, Phys. Lett. B251, 597(1990); Z. Phys. A 341, 343(1992); Y. Oh, D.-P. Min, M. Rho, and N. N. Scoccola, Nucl. Phys. A 534,493(1991).   
+[13] E. Jenkins, A.V. Manohar, and M. B. Wise, Nucl. Phys. B396, 38 (1993).   
+[14] J.-P. Lee, C. Liu and H.S. Song, Phys. Rev. D58, 014013 (1998); C. Liu, Phys. Rev. D57, 1991 (1998).   
+[15] H. Georgi, B.Grinstein and M. Wise, Phys. Lett. B252, 456 (1990).   
+[16] M. Luke, Phys.Lett. B252, 447 (1990).   
+[17] Y.-B. Dai, C.-S. Huang, C. Liu, and C. -D. Li, Phys. Lett. B371, 99 (1996).   
+[18] J. G. Korner, M. Krämer,and D. Pirjol, Prog. Part. Nucl. Phys.33, 787(1994). [19] M.-k. Du and C. Liu, Phys.Rev. D 84 (2011) 056007.   
+[20] A. K. Leibovich and I. W. Stewart, Phys. Rev. D57, 5620(1998).   
+[21] J. Beringer et al. (Particle Data Group). Phys.Rev. D86, O10001 (2012).

@@ -1,0 +1,494 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201706141089 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "葛少青，张剑，孙文，王利平,耿亚军，范双萍.三种干旱指数在干旱区沼泽湿地土壤水分遥感反演中的应用.生态学报,2018,38（7)2299-2307. GeSQ,ZhangJunWangLengYanSAlcatioofroutieesinlstureesisingetesigi wetlands of arid area.Acta Ecologica Sinica,2018,38(7）:2299-2307. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "三种干旱指数在干旱区沼泽湿地土壤水分遥感反演中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "葛少青，张 剑\\*，孙 文，王利平，耿亚军，范双萍西北师范大学地理与环境科学学院，兰州730070",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;湿地水文条件对湿地生态系统结构和功能起着关键作用。借助卫星遥感技术,以干旱区疏勒河中下游沼泽湿地为研究对象,基于Landsat8 OLI遥感影像的温度植被干旱指数(TVDI）、垂直干旱指数（PDI)和归一化干旱监测指数(NPDI)3种干旱监测方法,结合野外湿地实测土壤水分数据进行比较和验证。结果表明：（1)TVDI、PDI和 NPDI3种干旱指数在不同土层中均与土壤实测水分呈显著负相关( $P { < } 0 . 0 1$ ),且 NPDI指数与表层土壤水分的拟合效果最好。不同土层中,3种干旱指数与土壤水分的拟合优度大小均为 NPDI>TVDI>PDI;(2)研究区同一湿地类型不同土层的土壤水分存在显著差异( $\\scriptstyle P < 0 . 0 5 { \\mathrm { ~ . ~ } }$ )，且不同湿地类型的土壤水分总体上表现为随着土壤深度的增加呈递增态势;(3)研究区同一土层不同湿地类型的土壤水分差异显著( $P { < } 0 . 0 5 \\dot  \\$ ，且不同土层中土壤水分的大小均为：沼泽化草甸 $>$ 草本沼泽 $\\mathrm { > }$ 季节性咸水沼泽>内陆盐沼。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：干旱指数；干旱区；沼泽湿地；遥感影像；土壤水分；反演",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application of three drought indexes in soil moisture inversion using remote sensing in marsh wetlands of arid area ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GE Shaoqing，ZHANG Jian\\*，SUN Wen，WANG Liping，GENG Yajun，FAN Shuangping Colege ofGeographyand Environmental Science,Northwest Normal University,Lanzhou 73oo7o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Wetland hydrological conditions playakeyrolein the structureand functionofthe wetland ecosystem.Inthis study，we use three drought monitoring methods，Temperature Vegetation Dryness Index（TVDI），Perpendicular Drought Index（PDI）,and NormalizedPDI（NPDI）as wellassoil moistureobservationdata inthefield to study marsh wetlandsof anaridarea in the middleand lower reachesof the Shule River using aremote sensing technology basedonthe Landsat8 Operational LandImager（OLI)．Weobtained thefollwingresultsin thisstudy：1）TVDI，PDI，and NPDI were significantly negatively correlated with soil moisture in different soil layers ( $\\stackrel { \\cdot } { P } < 0 . 0 1$ ），the goodness of fit among the three drought indexes was in the following order of magnitude $\\mathrm { N P D I } > \\mathrm { T V D I } > \\mathrm { P D I }$ with soil moisture in different soil layers，and thefttingresultsusingthe NPDIindex were the best with topsoil moisture；2）there were numerous significant differences in soil moisture among different soil layers of the same marsh type ( $\\textstyle P < 0 . 0 5$ ），and an increasing trend in the soil moisture of different marshtypeswasobserved with increasingsoil depth；3）thesoil moisture was significantlydiferentbetween different marsh types of the same soil layer ( $P < 0 . 0 5$ ），and the comparison of soil moisture in the different soil layers showed the following decreasing order of magnitude：marsh meadow $>$ herbaceous marsh $>$ seasonal saline marsh $>$ inland salt marsh. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: drought indexes；arid area； marsh wetland;remote sensing image；soil moisture； inversion",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "湿地是地球上与海洋、森林生态系统并列的三大自然生态系统之一。它不仅具有丰富的生物多样性,还在涵养水源、调节气候、补充地下水、降解环境污染、蓄洪防旱、维持区域生态平衡等方面具有重要作用[1-2]。干旱区湿地多分布于生态敏感地带,一旦被破坏就很难恢复[3]。湿地土壤与水有着密切的联系,水是湿地中许多生态过程的主要决定因素,水文条件的不断变化,不仅改变湿地的分布面积和形态,而且对湿地植物群落的结构、分布乃至生态系统服务功能起着决定性作用，因此水文条件是湿地发育演化和湿地生态系统维持的基础,湿地土壤水分的动态监测对湿地管理和保护有着重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的土壤水分监测方法需要进行大量的野外实地采样和一系列复杂的后续处理过程,不仅耗时费力，而且难以及时、宏观和动态的反映大尺度的土壤水分信息,有很大的局限性。而卫星遥感具有快速、实时、动态和覆盖范围广等优点，且容易实现，目前遥感监测土壤水分已成为国内外研究的热点，自21世纪以来，大量干旱指数被应用于土壤熵情监测中[4-2]。国外最早开始利用遥感进行土壤水分监测是在20 世纪60 年代,Ghulam 等[13]考虑到 NIR-Red 特征空间中的植被覆盖信息,提出了能够较好反映旱情动态变化的改进垂直干旱指数(MPDI);England 等[14]对裸露或植被覆盖度低的地表采用热惯量方法反演土壤水分。国内在土壤水分遥感反演方面虽起步晚,但发展迅速,姚云军等[15]分析了MODIS 水分敏感的波段，并利用MODIS 第六和第七波段建立光谱特征空间,提出了短波红外土壤湿度指数(SIMI);吾拉木等[16]分析了NIR-SWIR 特征空间上地物的分异规律,提出了适宜于植被冠层叶片含水量的遥感监测指数-短波红外垂直失水指数 SPSI。上述这些方法虽然都在一定程度上反映了该地区的干旱状况,但都无法直接反映该区域的土壤水分分布状况，并且未证实在干旱区湿地土壤水分中的适用性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于人类强烈的社会活动,导致疏勒河流域脆弱生态系统环境日趋恶化，主要表现为绿色生态严重恶化和湿地面积缩小[17],且天气持续干旱等因素的影响,使研究区湿地的水源补给受到威胁[18],为能更好的反映研究区湿地土壤水分的现状,本研究以Landat8OLI遥感影像为基础,典型干旱区疏勒河中下游沼泽湿地为研究对象,选取广泛应用的温度植被干旱指数(TVDI)和垂直干旱指数(PDI)以及适用于不同植被覆盖情况下的归一化干旱监测指数(NPDI)3种干旱指数,与湿地野外实测0一 $\\cdot 4 0 \\ \\mathrm { c m }$ 各层土壤水分数据相结合，探究3种指数在干旱区湿地土壤水分反演中的精度,以此展开对干旱区湿地土壤水分反演的研究,以期为干旱区湿地土壤水分监测和湿地生态保护提供科学依据和决策参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "疏勒河流域位于甘肃省河西走廊西端,在河西走廊三大内陆河流域中仅次于黑河流域。源于青海省祁连山脉西段疏勒南山和托来南山之间的沙果林那穆吉木岭。向西北流,通过音德尔达坂东北坡罗沟转北流入河西走廊，流域面积4.13万 $ { \\mathrm { k m } } ^ { 2 }$ 。疏勒河中下游地势总体呈南北高、中间低,分布有大量绿洲,海拔1100—2010m;由于独特的地理位置和气候条件,形成昼夜温差大、蒸发强烈的气候环境,研究区属于温带大陆性干旱区[17],干旱少雨多风,年降水量 $3 7 . 6 3 ~ \\mathrm { m m }$ ,年蒸发量 $3 0 0 0 \\ \\mathrm { m m }$ 以上,年日照3033—3246h;疏勒河中下游包括敦煌、瓜州和玉门的绝大部分地方。天然植被主要有胡杨、怪柳、芦苇、白刺等,土壤类型为棕漠土、盐土、草甸土、沼泽土、风沙土、灌淤土和潮土,湿地类型以沼泽湿地为主(图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据来源与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用的遥感数据为四景2016年8月的Landsat8OLI遥感影像,影像来源于地理空间数据云（http://www.gscloud.cn/search）,其轨道行列号分别为135,32、136,32、137,32和138,32。Landsat卫星是由美国国家航天航空局(NASA)发射,用以获取地球表面影像的一种遥感平台,以观测陆地资源和环境为主。作为当前全球应用最广的民用卫星,Landsat以其丰富的光谱信息、较高的空间分辨率、优异的性价比以及连续的发射计划为全球的各类科学研究提供了丰富的遥感资料。研究区的矢量边界来源于寒区旱区科学数据",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb2eba14b1b015402f27ae77b4eec6d8629e58c3961ca497fa30418347175b22.jpg",
+        "img_caption": [
+            "图1研究区示意图",
+            "Fig.1Illustration of the studyarea "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "中心（http://westdc.westgis.ac.cn）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "湿地土壤水分实测数据来源于2016年8月,分别在敦煌市、瓜州县以及玉门市沼泽湿地设置的53个样地,样地大小与所选用遥感影像的空间分辨率一致，在 $3 0 \\mathrm { \\ m } { \\times } 3 0 \\mathrm { \\ m }$ 的正方形网格中使用一个系统的抽样方法,取样深度为 $1 0 , 2 0 , 4 0 \\ \\mathrm { c m }$ ,每个样地采集3个重复。土壤水分测定采用烘干法[19]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 温度植被干旱指数(Temperature Vegetation Dryness Index,TVDI) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地表温度与植被指数是描述地表特征的两个重要参数,Price[20]、Sandholt[21]等根据地表温度和植被指数,提出了温度植被干旱指数(TVDI),其表达式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T V D I } = { \\frac { T s \\ - \\ T s _ { \\operatorname* { m i n } } } { T s _ { \\operatorname* { m a x } } \\ - \\ T s _ { \\operatorname* { m i n } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $T _ { s }$ 为地表温度, $T _ { s _ { \\mathrm { m a x } } }$ 为特征空间干边, $T s _ { \\mathrm { m a x } } = a _ { 1 } + b _ { 1 } \\times \\mathrm { N D V I }$ ,表示某一 NDVI 对应的地表最大温度; $T _ {  { s _ { \\mathrm { m i n } } } }$ 为特征空间湿边, $T s _ { \\mathrm { m i n } } = a _ { \\scriptscriptstyle 2 } + \\ b _ { \\scriptscriptstyle 2 } \\times \\mathtt { N }$ NDVI表示某一NDVI对应的地表最小温度； $a _ { 1 } \\ 、 b _ { 1 } 、 a _ { 2 } 、 b _ { 2 }$ 分别为干边和湿边线性拟合方程的系数。其中地表温度采用Landsat8大气校正法反演所得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 垂直干旱指数(PerpendicularDrought Index,PDI) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "詹志明等[22使用经由大气校正的Landsat $\\mathrm { E T M } +$ 遥感影像的第3波段和第4波段反射率数据，建立了NIR-Red光谱特征空间,构建散点图,获得 NIR-Red二维光谱空间中的土壤线,发现地表土壤水分在 NIR-Red特征空间的分布规律,并提出了一个基于NIR-Red 光谱空间特征的植被水分指数,即垂直干旱指数（PDI）,其表达式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P D I } = \\frac { 1 } { \\sqrt { 1 ~ + ~ m ^ { 2 } } } ( R _ { \\mathrm { r e d } } + m \\times R _ { \\mathrm { n i r } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $R _ { \\mathrm { r e d } }$ 为红波段光谱反射率， $R _ { \\mathrm { n i r } }$ 为近红外波段光谱反射率， $m$ 为 NIR-Red 土壤拟合线斜率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3归一化干旱监测指数(Normalized Perpendicular Drought Index,NPDI) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "冯海霞等[23]选择对水分敏感的红光和短波红外波段,并且考虑到土壤和植被在光谱特征中的分异规律，提出了干旱监测的新方法,即归一化干旱监测指数（NPDI),其表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N P D I } = \\frac { 1 } { \\sqrt { 1 ~ + ~ m ^ { 2 } } } ( R _ { s } + m \\times R _ { d } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $R _ { s }$ 为经过大气校正的短波红外和红光反射率的差值， $R _ { d }$ 为经过大气校正的短波红外和红光反射率的和,$\\mathbf { m }$ 为 ${ \\cal R } _ { s } { \\cal R } _ { d }$ 土壤拟合线斜率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 指数的评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱指数方程的精度验证采用留一交叉验证法[24]。对于 $\\mathbf { \\Omega } _ { n }$ 个样本的数据组,每次取 $n { - } 1$ 个数据进行线性拟合,确定其拟合参数,然后将剩下的一组样本代入拟合方程进行检验,交叉验证共进行 $n$ 次,确保每个样本都进行一次检验。交叉验证的结果能够反映一个模型对未知样本是否具有良好的预测能力,且留一交叉验证能够找出数据中的异常值。用于拟合检验的统计量有：决定系数 $( R ^ { 2 } )$ 、平均相对误差( $( \\mathrm { M R E } , \\% )$ 、平均偏差（MBE）相对均方根误差（RRMSE， $\\%$ )和复合相对误差( $\\mathrm { C R E } , \\% )$ 。计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = \\frac { \\Big [ \\displaystyle \\sum _ { i = 1 } ^ { n } \\big ( X _ { i } - \\overline { { X } } \\big ) \\big ( T _ { i } - \\overline { { T } } \\big ) \\big ] ^ { 2 } } { \\displaystyle \\sum _ { i = 1 } ^ { n } \\big ( X _ { i } - \\overline { { X } } \\big ) ^ { 2 } \\times \\displaystyle \\sum _ { i = 1 } ^ { n } \\big ( T _ { i } - \\overline { { T } } \\big ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { M R E } } = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left| X _ { i } - T _ { i } \\right| } { \\displaystyle \\sum _ { i = 1 } ^ { n } T _ { i } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { { M B E } } = \\sum _ { i = 1 } ^ { n } { \\left( { X _ { i } } - { T _ { i } } \\right) / n }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { R R M S E } } = \\left( { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } { ( X _ { i } - T _ { i } ) ^ { 2 } } } { \\displaystyle { n } } } \\right) \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { C R E } } = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } { ( X _ { i } - T _ { i } ) ^ { 2 } } } { \\displaystyle \\sum _ { i = 1 } ^ { n } { ( T _ { i } - { \\overline { { T } } } ) ^ { 2 } } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $n$ 为样本个数； $X _ { i \\setminus T _ { i } }$ 分别为第 $i$ 个模拟值和实测值; $\\bar { X } , \\bar { T }$ 分别为模拟值和实测值的平均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.5 数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "常规统计分析在 Excel 2010软件中进行;利用ENVI5.1软件对遥感影像进行预处理,将灰度值转化为实际的物理量,如反射率、辐亮度等,并采用6s 指数进行大气校正;利用 ArcGIS 10.0软件提取与实测点对应的模拟值;在 SPSS19.0 软件中采用 Kolmogorov-Smirnov 法进行残差的正态性检验, $P { > } 0 . 0 5$ 说明数据近似呈正态分布；OriginPro 9.0软件进行制图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1土壤水分反演指数精度验证与比较 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.13种干旱指数在不同深度湿地土壤水分的反演通过筛选剔除异常值后,采用40个实测点的土壤水分分别与Landsat8OLI影像相对应像元的TVDI、PDI和 NPDI反演结果进行线性拟合（图2);对不同深度土壤水分的标准化残差进行了正态分布的拟合（图3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图2所示,3种干旱指数在不同深度湿地土壤中均随着土壤水分的增加而呈现下降趋势,研究区TVDI、PDI、NPDI3 种干旱指数均与土壤实测水分呈显著负相关( $_ { . } { P } { < } 0 . 0 1 \\$ ）,从不同土层看,TVDI、PDI和NPDI3种干旱指数均与表层0— $1 0 ~ \\mathrm { c m }$ 的土壤水分拟合效果最好，且NPDI指数的拟合效果最佳; $1 0 { - } 2 0 ~ \\mathrm { c m }$ 次之，$2 0 { - } 4 0 ~ \\mathrm { c m }$ 拟合程度最低。从不同干旱指数看，在 $0 { - } 1 0 \\ \\mathrm { c m }$ 表层土壤,NPDI与土壤水分的拟合效果最优,TVDI次之，PDI最低；在 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 深度处,NPDI与土壤水分的拟合程度最高,TVDI次之，PDI最低;在20—$4 0 ~ \\mathrm { c m }$ 深度处,3种干旱指数与土壤水分的拟合效果依然为NPDI最高、PDI次之,TVDI最低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图3所示， $0 { - } 1 0 \\ldots 1 0 { - } 2 0 \\ \\mathrm { c m }$ 和20- $4 0 \\ \\mathrm { c m }$ 深度土壤水分的标准化残差均近似呈正态分布，且残差通过了K-S正态性检验( $P { > } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0—10cm 10—20cm 20—40cm108 y -0/2032.613 108 y=-（ p00.688 108 y=-0p=030.7164n=40□50.6 0.6 0.6T0.4 0.4 0.4: :0.2 0.2 0.2 ：0 0 00 10 20 30 40 50 60 70 0 10 20 30 40 50 60 70 0 10 20 30 40 50 60 70rrrrreereerre 1.0 y= 0.0045x + 0.5445 1.0 y= -0.0061x + 0.5987 1.0 y= -0.005x +0.5556I垂 0.8 R= 0.31 0.8 R=0.30 0.8 P²=0.250.6 0.6 0.60.4 0.4 0.4 ■ 唱i 1 10.2 ： ！ 0.2 0.2 .0 0 00 10 20 30 40 50 60 70 0 10 20 30 40 50 60 70 0 10 20 30 40 50 60 700 800 800 y = -0.0089x +0.6436y=-0p=0-70569 A = -0 20-60 P²=0.71P0.4 0.4 0.40.2 1 0.2 0.2 ！归 0 0 00 10 20 30 4050 60 70 0 1020 30 4050 60 70 0 10 20 30 40 50 60 70土壤实测水分Measured soil moisture $\\%$ （204号",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.23种干旱指数在不同深度土壤水分反演的精度验证",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用留一交叉验证法对3种干旱指数在不同深度土壤水分的反演精度进行检验，3种干旱指数在不同深度的土壤水分估算结果均通过 $\\alpha = 0 . 0 1$ 水平的显著性检验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如表1所示,TVDI在不同深度土壤水分反演的模拟结果和验证结果的决定系数的大小均为 $0 { - } 1 0 ~ \\mathrm { c m } >$ $1 0 { - } 2 0 ~ \\mathrm { c m } > 2 0 { - } 4 0 ~ \\mathrm { c m }$ ,平均偏差均趋向于0,在0— $1 0 \\ \\mathrm { c m }$ 深度处,模拟结果和验证结果的平均相对误差和相对均方根误差在 $20 \\%$ 以内,其他各层随深度增加而逐渐增大,且均大于 $2 0 \\%$ ,模拟结果和验证结果的复合相对误差在各层土壤中均在 $20 \\%$ 以内。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如表2所示,PDI在不同深度土壤水分反演的模拟结果和验证结果的决定系数的大小均为0一 $1 0 ~ \\mathrm { { c m } > }$ $1 0 { - } 2 0 ~ \\mathrm { c m } { > } 2 0 { - } 4 0 ~ \\mathrm { c m }$ ,平均偏差均趋于0,平均相对误差、相对均方根误差和复合相对误差均大于 $2 0 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a077f632aa6b985e98b72091e2169fb0d645033d4e2ab3e527519e886ca4cbb4.jpg",
+        "img_caption": [
+            "图3不同深度土壤水分的标准化残差的正态分布拟合",
+            "Fig.3Normal distribution fitting of standardized residuals of soil moisture at different depths "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如表3所示,NPDI在不同深度土壤水分反演的模拟结果和验证结果的决定系数的大小均为0一 $\\cdot 1 0 ~ \\mathrm { c m } >$ $1 0 { - } 2 0 ~ \\mathrm { c m } { > } 2 0 { - } 4 0 ~ \\mathrm { c m }$ ,平均偏差均接近于0,平均相对误差、相对均方根误差和复合相对误差均在 $20 \\%$ 以内。因此,3种干旱指数均在 $0 { - } 1 0 ~ \\mathrm { c m }$ 处对土壤水分的反演精度最高， $1 0 { - } 2 0 ~ \\mathrm { c m }$ 次之， $2 0 { - } 4 0 \\ \\mathrm { c m }$ 最低，且3 种干旱指数在不同土层的土壤水分反演中,均为 NPDI的精度最高,TVDI次之,PDI最低。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f81112af594b074848418d550c5d8f64f5500fc9b77be3721eb7536bd00cf8c.jpg",
+        "table_caption": [
+            "Table1Evaluation results of soil moisture fitting and cross-validation at different soil depths of TVDI ",
+            "表2PDI不同深度土壤水分拟合及交叉验证评价结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土层深度 Soil depth/cm</td><td></td><td>决定系数 R²</td><td>平均偏差 MBE</td><td>平均相对误差 MRE/%</td><td>相对均方根误差 RRMSE/%</td><td>复合相对误差 CRE/%</td><td>K-S 正态性检验 P</td></tr><tr><td>0-10</td><td>1</td><td>0.52</td><td>0.04</td><td>14.73</td><td>16.71</td><td>14.42</td><td>0.93</td></tr><tr><td></td><td>Ⅱ</td><td>0.50</td><td>0.08</td><td>19.11</td><td>19.32</td><td>18.89</td><td>0.97</td></tr><tr><td>10—20</td><td>I</td><td>0.43</td><td>-0.12</td><td>21.05</td><td>20.91</td><td>13.52</td><td>0.93</td></tr><tr><td></td><td>Ⅱ</td><td>0.42</td><td>0.14</td><td>19.81</td><td>20.08</td><td>19.53</td><td>0.96</td></tr><tr><td>20—40</td><td>I</td><td>0.36</td><td>0.15</td><td>22.92</td><td>23.91</td><td>16.23</td><td>0.93</td></tr><tr><td></td><td>Ⅱ</td><td>0.34</td><td>0.03</td><td>23.31</td><td>22.03</td><td>18.01</td><td>0.94</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e55c7f849109a983ec0edbc915bfe0c262a2724a878770523c8b009098f628d.jpg",
+        "table_caption": [
+            "表1TVDI不同深度土壤水分拟合及交叉验证评价结果",
+            "表3NPDI不同深度土壤水分拟合及交叉验证评价结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土层深度 Soil depth/cm</td><td></td><td>决定系数 R²</td><td>平均偏差 MBE</td><td>平均相对误差 MRE/%</td><td>相对均方根误差 RRMSE/%</td><td>复合相对误差 CRE/%</td><td>K-S 正态性检验 P</td></tr><tr><td>0-10</td><td>I</td><td>0.31</td><td>-0.11</td><td>22.20</td><td>25.42</td><td>21.79</td><td>0.36</td></tr><tr><td rowspan=\"2\">10—20</td><td>Ⅱ</td><td>0.30</td><td>0.17</td><td>27.01</td><td>25.03</td><td>22.13</td><td>0.51</td></tr><tr><td>I</td><td>0.30</td><td>0.04</td><td>24.46</td><td>28.48</td><td>26.97</td><td>0.36</td></tr><tr><td></td><td>Ⅱ</td><td>0.30</td><td>-0.19</td><td>30.27</td><td>21.47</td><td>32.94</td><td>0.51</td></tr><tr><td rowspan=\"2\">20—40</td><td>I</td><td>0.25</td><td>0.02</td><td>21.84</td><td>28.12</td><td>29.35</td><td>0.36</td></tr><tr><td>I</td><td>0.28</td><td>-0.17</td><td>34.16</td><td>32.10</td><td>38.24</td><td>0.38</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e88cc6614bf4f37e492156a2511cadd93321bc4891308b655e525d2de9b790e0.jpg",
+        "table_caption": [
+            "Table2Evaluation results of soil moisture fiting and cross-validation at different soil depths of PDI ",
+            "Table3Evaluation results of soil moisture fiting and cross-validation at diferent soil depths of NPDI "
+        ],
+        "table_footnote": [
+            "I：拟合结果；Ⅱ：交叉验证结果"
+        ],
+        "table_body": "<html><body><table><tr><td>土层深度 Soil depth/cm</td><td>决定系数</td><td>R²</td><td>平均偏差 MBE</td><td>平均相对误差 MRE/%</td><td>相对均方根误差 RRMSE/%</td><td>复合相对误差 CRE/%</td><td>K-S 正态性检验 P</td></tr><tr><td>0-10</td><td>I</td><td>0.76</td><td>0.00</td><td>12.04</td><td>11.78</td><td>12.89</td><td>0.34</td></tr><tr><td rowspan=\"3\">10—20</td><td>Ⅱ</td><td>0.74</td><td>0.00</td><td>15.65</td><td>14.31</td><td>15.01</td><td>0.36</td></tr><tr><td>I</td><td>0.75</td><td>0.09</td><td>17.38</td><td>17.92</td><td>12.59</td><td>0.34</td></tr><tr><td>Ⅱ</td><td>0.72</td><td>0.04</td><td>17.55</td><td>19.05</td><td>13.82</td><td>0.35</td></tr><tr><td>20-40</td><td>I</td><td>0.71</td><td>-0.03</td><td>15.63</td><td>18.35</td><td>12.49</td><td>0.34</td></tr><tr><td></td><td>Ⅱ</td><td>0.70</td><td>0.01</td><td>14.09</td><td>19.53</td><td>14.16</td><td>0.33</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2土壤水分反演指数实证研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究采用反演精度较高的归一化干旱监测指数 NPDI,以疏勒河中下游湿地数据为基础,依据湿地分类标准[25]（表4),提取了沼泽化草甸、草本沼泽、季节性咸水沼泽和内陆盐沼4种湿地类型的 NPDI平均值,然后根据 NPDI模拟值与实测土壤水分之间的线性关系,模拟出四种湿地类型的平均土壤水分（图4）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5babf0520eb50794429d0c9be7101fc69261feb8a9380bdce1d7efb95414689b.jpg",
+        "table_caption": [
+            "表4湿地类型及划分标准",
+            "Table 4Wetland types and division standard "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>湿地类型 Wetland types</td><td>划分标准 Division standard</td></tr><tr><td>沼泽化草甸 Marsh meadow</td><td>为典型草甸向沼泽植被的过渡类型,是在地势低洼、排水不畅、土壤过分潮湿、通透性不良等 环境条件下发育起来的,包括分布在平原地区的沼泽化草甸以及高山和高原地区具有高寒性</td></tr><tr><td></td><td>质的沼泽化草甸</td></tr><tr><td>草本沼泽Herbaceousmarsh</td><td>由水生和沼生的草本植物组成优势群落的淡水沼泽 受微咸水或咸水影响，只在部分季节维持浸湿或潮湿状况的沼泽</td></tr><tr><td>季节性咸水沼泽Seasonalsalinemarsh 内陆盐沼Inlandsaltmarsh</td><td>受盐水影响,生长盐生植被的沼泽。以苏打为主的盐土，含盐量应>0.7%;以氯化物和硫酸盐</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，疏勒河中下游0—10、10—20cm 和$2 0 { - } 4 0 ~ \\mathrm { c m }$ 各土层中同一湿地类型的土壤水分差异显著 $\\scriptstyle ( P < 0 . 0 5 )$ ,且同一土层中,沼泽化草甸、草本沼泽、季节性咸水沼泽和内陆盐沼4种湿地类型间土壤水分也存在显著差异( $\\scriptstyle P < 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如表5所示，研究区湿地表层土壤中，沼泽化草甸的土壤水分为 $3 5 . 2 0 \\%$ ,草本沼泽的土壤水分为 $2 0 . 1 7 \\%$ ，季节性咸水沼泽的土壤水分为 $1 7 . 4 5 \\%$ ,内陆盐沼的土壤水分为 $1 2 . 3 6 \\%$ ;深度为 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 的土壤,沼泽化草甸的土壤水分为 $3 2 . 8 1 \\%$ ,草本沼泽的土壤水分为20.$3 5 \\%$ ,季节性咸水沼泽的土壤水分为 $1 8 . 0 9 \\%$ ,内陆盐沼的土壤水分为 $1 3 . 8 7 \\%$ ;深度为 $2 0 { \\mathrm { - } } 4 0 \\ { \\mathrm { c m } }$ 的土壤,沼泽化草甸的土壤水分为 $3 5 . 6 6 \\%$ ,草本沼泽的土壤水分为$2 4 . 0 4 \\%$ ,季节性咸水沼泽的土壤水分为 $2 1 . 9 4 \\%$ ,内陆盐沼的土壤水分为 $1 8 . 0 1 \\%$ 。从垂直方向上看，除了沼泽化草甸土壤水分最小值出现在深度为 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土壤处，其他3种湿地类型的最小土壤水分均出现在表层$0 { - } 1 0 ~ \\mathrm { c m }$ 土壤中，4种湿地类型的最大土壤水分均出现在深度为 $2 0 { \\ - } { \\ - } 4 0 \\ \\mathrm { c m }$ 的土壤中,因此,随着土层深度的增加,沼泽化草甸的土壤水分先减后增,草本沼泽、季节性咸水沼泽和内陆盐沼的土壤水分则都呈现上升趋势。从水平方向上看,各层的土壤水分均为沼泽化草甸最高,草本沼泽次之,季节性咸水沼泽较低,内陆盐沼最低。因此,疏勒河中下游 $0 { - } 1 0 \\ldots 1 0 { - } 2 0 \\ \\mathrm { c m }$ 和 $2 0 { - } 4 0 ~ \\mathrm { c m }$ 土层,土壤水分的分布规律均为：沼泽化草甸 $>$ 草本沼泽 $>$ 季节性咸水沼泽>内陆盐沼。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fe8d5b10b6cccf7913e7c4bb0fcbe2c7695e2be078a17c9038ff3853a2b7802.jpg",
+        "img_caption": [
+            "",
+            "图4疏勒河中下游不同湿地类型土壤水分垂直分布Fig.4Vertical distribution of soil moisture in different wetlandtypes in Shule River middle and lower reaches不同大写字母表示同一土层不同湿地类型之间的显著性差异( $P <$ 0.05);不同小写字母表示同一湿地类型不同土层之间的显著性差异 $( P { < } 0 . 0 5 )$ 1"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1模型的精度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "温度植被干旱指数(TVDI)在估算较大区域的土壤水分时,由于太阳总辐射不均和大气背景条件不一致对统计特征空间的温度有一定的影响,从而导致反演精度降低[26];垂直干旱指数(PDI)最大的缺点：对于地表覆盖类型差异较大的不同区域之间,不具有可比性,同时,PDI的本质是对裸土或低植被覆盖区的土壤水分的监测[27],该研究区为湿地,属于高植被覆盖区,因此主要的误差来源于植被覆盖度的反演精度;而归一化的干旱监测指数(NPDI),从光谱特征空间的角度出发,研究土壤、植被在光谱特征空间中的分异规律,增大了植被在含水量较低和较高时,在红光和短波红外波段的差异,缩小了干燥土壤和湿润土壤在红光和短波红外波段的差异,并对两个波段进行了归一化处理,建立的一种适合不同植被覆盖情况下的土壤水分监测指数[23],因此,NPDI在该区域具有较好的监测效果。本研究中,3种干旱指数均与表层0— $1 0 \\ \\mathrm { c m }$ 土壤水分的拟合效果最好,主要是因为本文研究区为干旱区湿地,土壤水分随土层深度的增加而增大,而遥感监测的精度随土层深度的增加而降低[28],这与张喆等[29]研究结果一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/8904bd0a4731fd5a7f8d4e437726a7d972d36f5fe77a484b45a43f514d23f15a.jpg",
+        "table_caption": [
+            "表5疏勒河中下游不同湿地类型随土层深度的土壤水分统计分析",
+            "Table 5Distributionof soil moisture with depth under diferent wetland types in Shule River middle and lower rea( "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">土层深度 Soil depth/cm</td><td colspan=\"8\">湿地类型Wetland types</td></tr><tr><td colspan=\"2\">沼泽化草甸 Marsh meadow</td><td colspan=\"2\">草本沼泽 Herbaceous marsh</td><td colspan=\"2\">季节性咸水沼泽 Seasonal saline marsh</td><td colspan=\"2\">内陆盐沼 Inland salt marsh</td></tr><tr><td>土壤水分 Soil moisture/%</td><td>标准误 Standard error</td><td>土壤水分 Soil moisture/%</td><td>标准误 Standard error</td><td>土壤水分 Soil moisture/%</td><td>标准误 Standard error</td><td>土壤水分 Soil moisture/%</td><td>标准误 Standard error</td></tr><tr><td>0-10</td><td>35.20</td><td>0.46</td><td>20.17</td><td>1.25</td><td>17.45</td><td>4.25</td><td>12.36</td><td>0.58</td></tr><tr><td>10-20</td><td>32.81</td><td>0.38</td><td>20.35</td><td>1.04</td><td>18.09</td><td>3.52</td><td>13.87</td><td>0.48</td></tr><tr><td>20—40</td><td>35.66</td><td>0.36</td><td>24.04</td><td>0.97</td><td>21.94</td><td>3.28</td><td>18.01</td><td>0.45</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2模型的适用性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同湿地类型的土壤水分含量总体上表现为随着土壤深度的增加呈递增态势。主要由于湿地水源补给通常来源于冰川、河流泛滥、大气降水和地下水,而疏勒河中下游地区降水量少、蒸发量大、空气相对湿度低，且受农业大量用水和天气持续干旱等因素的影响,造成了流域地表水资源锐减,在气候的影响下,高山冰雪融水渗入地下,有利于地下水的储存,因此,研究区沼泽湿地的水源补给主要来自于地下水,形成在垂直方向上，土壤随土层深度的增加而湿度增大。这与马晓东等[30]、王元峰等[31]对干旱区湿地土壤水分垂直变化特征的研究结果相一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同土层中土壤水分的水平分布规律均为：沼泽化草甸 $>$ 草本沼泽>季节性咸水沼泽>内陆盐沼。沼泽湿地的形成受地质地貌、气候、水文、植被和土壤等综合因素的影响,4种沼泽湿地的形成背景不同,这一分布规律与湿地类型的划分标准[25]相一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在本研究中,仅考虑了土壤、植被覆盖和地表温度对土壤水分的影响,在干旱区,地形和降水存在空间上的差异,这些也会对该区域的土壤干湿状况产生影响,由于采样时间和条件限制,只对 2016年的数据进行指数的建立和验证,且验证样点未覆盖全区域。归一化干旱监测指数(NPDI)的提出虽然取得了较好的监测效果,但缺乏对该指数的验证,本研究中对 NPDI指数的验证结果具有一定的科学性。未来的研究重点应在此基础上,运用多年多期数据,与多种土壤水分影响因素相结合,尝试结合更大尺度上的土壤水分数据,进行更大范围的深度分析，并进行不同湿地类型土壤水分长时间序列的研究，以探索不同湿地类型的土壤水分的变化及其驱动因素,为干旱区湿地的生态保护及环境的可持续发展提供更直接的科学依据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)不同土层中,TVDI、PDI和 NPDI均与土壤实测水分呈显著负相关( $_ { _ { P < 0 . 0 1 } ) }$ ,即 TVDI、PDI、NPDI值越小,土壤越湿润;且NPDI指数与表层土壤水分的拟合效果最好;不同土层中,3种干旱指数与土壤水分的拟合优度大小均为 NPDI $\\mathrm { > }$ TVDI>PDI。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2)疏勒河中下游地区同一湿地类型不同土层的土壤水分存在显著差异( $\\cdot P { < } 0 . 0 5 )$ ,且不同湿地类型的土",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "壤水分总体上表现为随土壤深度的增加呈递增态势。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3)疏勒河中下游地区同一土层不同湿地类型的土壤水分差异显著( $_ { _ { P < 0 . 0 5 ) } }$ 。且不同土层中土壤水分的水平分布规律均为：沼泽化草甸 $>$ 草本沼泽>季节性咸水沼泽 $>$ 内陆盐沼。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Knight TL,Kadlec R H. Constructed treatment wetlands-a golobal technology.Water 21,2000,40：57-58.  \n[2］杨永兴.国际湿地科学研究进展和中国湿地科学研究优先领域与展望.地球科学进展，2002，17（4）：508-514.  \n[3］王晓，张克斌，杨晓晖，顾岚.半干旱区湿地—干草原交错带边界判定及其变化.生态学报，2012,32(16)：5121-5127.  \n[4]WuJJ,ZhouL，MoXY,ZhangJ,JiaRJDroughtmonitoringandanalysisininabasedontheItegratedSurfaceDoughtIndex（).International Journal of Applied Earth Observation and Geoinformation,2O15,41：23-33.  \n[5DelFrateFiGerinlosuedualasycoveoigaleooteSensing of Environment，2003，84(2）：174-183.  \n［6］张伟东，石霖.区域干旱帕默尔旱度指标的修正.地理科学，2011，31(2)：153-158.  \n[7］吴春雷，秦其明，李梅，张宁.基于光谱特征空间的农田植被区土壤湿度遥感监测.农业工程学报，2014,30(16)：106-112.  \n[8]AmaniM，SalehiB，MadaviS，MasjediA，DhnaviS.Temperature-vegetation-soilmosturedrynessindex（TD)emoteSsingofEnvironment,2017,197：1-14.  \n[9］伍漫春，丁建丽，王高峰.基于地表温度-植被指数特征空间的区域土壤水分反演.中国沙漠，2012,32（1)：148-154.  \n[10］张学艺，李剑萍,秦其明，韩颖娟，张晓煜，王连喜，官景得．几种干旱监测模型在宁夏的对比应用.农业工程学报，2009,25（8）：18-23, 317-317.  \n[11］李新辉，宋小宁，周霞.半干旱区土壤湿度遥感监测方法研究.地理与地理信息科学，2010,26(1)：90-93，113-113.  \n[12］周磊，武建军，张洁.以遥感为基础的干旱监测方法研究进展.地理科学，2016,35（5)：630-636.  \n[13]GhulamA，QinQM,ZhanZM.Designingof theperpendiculardroughtindex.EnvironmentalGeology，2007,52（6)：1045-1052.  \n[14]EngladatocJFdigeslieseoflsueEEasactsooRemote Sensing，1992，30(1）：132-139.  \n[15］姚云军，秦其明，赵少华，袁蔚林.基于MODIS 短波红外光谱特征的土壤含水量反演.红外与毫米波学报，2011,30(1)：9-14,79-79.  \n[16］阿布都瓦斯提·吾拉木.基于 $\\mathbf { n }$ 维光谱特征空间的农田干旱遥感监测[D].北京：北京大学，2006.  \n[17］孙栋元，金彦兆，王启优,李文金，胡想全.疏勒河中游绿洲生态环境需水时空变化特征研究.环境科学学报，2016,36（7)：2664-2676.  \n[18］孙栋元，杨俊，胡想全，金彦兆，张云亮.基于生态保护目标的疏勒河中游绿洲生态环境需水研究.生态学报，2017，37（3)：1008-1020.  \n［19］鲁如坤.土壤农业化学分析方法.北京：中国农业科技出版社，1999.  \n20]PriceJUsinsieteliatfalaleapoasctin1990,28(5) : 940-948.  \n[21]Saoleetstatus.Remote Sensing of Environment，2002，79(2/3）:213-224.  \n[22］詹志明，秦其明，阿布都瓦斯提·吾拉木，汪冬冬.基于NIR-Red光谱特征空间的土壤水分监测新方法.中国科学D辑 地球科学，2006，36(11）:1020-1026.  \n[23］冯海霞,秦其明,李滨勇，刘芳，蒋洪波，董恒，王金梁，刘明超，张宁.基于SWIR-Red光谱特征空间的农田干旱监测新方法.光谱学与光谱分析，2011，31（11)：3069-3073.  \n[24］王敏政，周广胜.基于地面遥感信息与气温的夏玉米土壤水分估算方法.应用生态学报，2016,27(6)：1804-1810.  \n［25］国家林业局.GB/T 24708—2009 湿地分类.北京：中国标准出版社，2010.  \n[26］赵杰鹏，张显峰，廖春华，包慧漪.基于TVDI的大范围干旱区土壤水分遥感反演模型研究.遥感技术与应用，2011,26(6)：742-750.  \n[27] 朱长明.干旱区湿地信息遥感自动提取及其时空变化过程研究[D].北京：中国科学院遥感应用研究所，2012.  \n[28］彭学峰，万玮，李飞，陈秀万.GNSS-R土壤水分遥感的适宜性分析.遥感学报，2017,21（3）：341-350.  \n[29］张喆，丁建丽，李鑫，鄢雪英.TVDI用于干旱区农业旱情监测的适宜性.中国沙漠，2015，35(1)：220-227.  \n[30］马晓东，李卫红，朱成刚，陈亚宁.塔里木河下游土壤水分与植被时空变化特征.生态学报，2010,30(15)：4035-4045.  \n[31］王元峰，王辉，马维伟，冯宜明，李俊臻.尕海4种湿地类型土壤水分特性研究.干旱区研究，2012，29(4)：598-603.",
+        "page_idx": 8
+    }
+]
